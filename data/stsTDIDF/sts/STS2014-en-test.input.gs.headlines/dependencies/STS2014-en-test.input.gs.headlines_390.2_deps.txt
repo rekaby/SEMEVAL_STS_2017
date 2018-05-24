@@ -1,0 +1,8 @@
+root	ROOT	'
+nummod	snowboarders	5
+root	'	snowboarders
+acl	snowboarders	killed
+case	avalanche	in
+compound	avalanche	Colorado
+nmod:in	killed	avalanche
+punct	snowboarders	'

@@ -1,0 +1,11 @@
+compound	Committee	Senate
+compound	Committee	Judiciary
+root	ROOT	Committee
+acl	Committee	nearing
+amod	decisions	final
+amod	decisions	big
+dobj	nearing	decisions
+mark	shaping	in
+advcl	nearing	shaping
+compound	bill	immigration
+dobj	shaping	bill

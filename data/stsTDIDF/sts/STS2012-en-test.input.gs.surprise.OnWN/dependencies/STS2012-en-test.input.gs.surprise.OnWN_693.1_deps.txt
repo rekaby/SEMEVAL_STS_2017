@@ -1,0 +1,7 @@
+root	ROOT	start
+advmod	start	suddenly
+punct	start	,
+case	fright	as
+case	fright	if
+case	fright	from
+nmod:from	start	fright

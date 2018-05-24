@@ -1,0 +1,13 @@
+root	ROOT	Layover
+case	Narita	at
+nmod:at	Layover	Narita
+case	hours	for
+nummod	hours	3
+nmod:for	Layover	hours
+punct	Layover	.-7) aux(need-3, Do
+nsubj	need	i
+root	ROOT	need
+det	visa	a
+compound	visa	transit
+dobj	need	visa
+punct	need	?

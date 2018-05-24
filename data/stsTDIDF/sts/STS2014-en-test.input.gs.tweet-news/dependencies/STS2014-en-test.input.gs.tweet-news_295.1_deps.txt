@@ -1,0 +1,24 @@
+root	ROOT	Ignore
+det	headline	the
+dobj	Ignore	headline
+punct	Ignore	:
+advmod	220	more
+mwe	more	than
+dep	Ignore	220
+punct	220	...
+acl	220	click
+case	link	on
+det	link	the
+nmod:on	click	link
+case	updated	for
+nmod:for	link	updated
+case	CNN	via
+nmod:via	updated	CNN
+punct	Ignore	.-17) nsubj(seeing-3, We
+aux	seeing	're
+root	ROOT	seeing
+det	numbers	the
+nsubj	climb	numbers
+ccomp	seeing	climb
+advmod	climb	higher
+punct	seeing	...

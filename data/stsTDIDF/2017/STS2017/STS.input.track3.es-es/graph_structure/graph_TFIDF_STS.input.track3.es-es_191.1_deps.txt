@@ -1,0 +1,12 @@
+ROOT	sewing	root
+sweater	new	amod
+woman	old	amod
+room	living	amod
+woman	An	det
+sewing	room	nmod:in
+room	her	nmod:poss
+sewing	.	punct
+sewing	is	aux
+sewing	woman	nsubj
+sewing	sweater	dobj
+sweater	a	det

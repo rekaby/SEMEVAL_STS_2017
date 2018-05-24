@@ -1,0 +1,13 @@
+det	link	A
+nsubjpass	seen	link
+case	page	to
+det	page	a
+nmod:to	link	page
+auxpass	seen	is
+root	ROOT	seen
+case	vote	as
+det	vote	a
+nmod:as	seen	vote
+case	support	of
+nmod:of	vote	support
+punct	seen	.

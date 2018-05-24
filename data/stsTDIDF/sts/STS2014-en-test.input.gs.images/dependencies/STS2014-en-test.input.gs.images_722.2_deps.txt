@@ -1,0 +1,10 @@
+nsubj	eating	Brown
+cc	Brown	and
+amod	cows	white
+conj:and	Brown	cows
+aux	eating	are
+root	ROOT	eating
+case	trough	from
+det	trough	a
+nmod:from	eating	trough
+punct	eating	.

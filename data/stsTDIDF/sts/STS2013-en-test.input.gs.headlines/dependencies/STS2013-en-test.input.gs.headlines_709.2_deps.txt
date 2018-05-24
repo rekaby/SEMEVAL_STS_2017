@@ -1,0 +1,8 @@
+nsubj	concedes	Romney
+root	ROOT	concedes
+compound	call	election
+case	Obama	to
+nmod:to	election	Obama
+case	phone	in
+nmod:in	election	phone
+dobj	concedes	call

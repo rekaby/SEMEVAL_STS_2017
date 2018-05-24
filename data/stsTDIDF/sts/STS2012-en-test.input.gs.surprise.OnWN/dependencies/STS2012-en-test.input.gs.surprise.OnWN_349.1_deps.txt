@@ -1,0 +1,5 @@
+root	ROOT	cancel
+punct	cancel	,
+conj	cancel	reverse
+punct	cancel	,
+conj	cancel	annul

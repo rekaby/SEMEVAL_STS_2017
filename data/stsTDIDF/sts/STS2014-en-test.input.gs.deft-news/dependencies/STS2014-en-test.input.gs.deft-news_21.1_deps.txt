@@ -1,0 +1,16 @@
+nsubj	state	reports
+root	ROOT	state
+mark	concealing	that
+det	government	the
+amod	government	syrian
+nsubj	concealing	government
+aux	concealing	was
+ccomp	state	concealing
+det	facility	a
+amod	facility	nuclear
+dobj	concealing	facility
+case	site	at
+det	site	the
+amod	site	attacked
+nmod:at	concealing	site
+punct	state	.

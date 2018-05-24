@@ -1,0 +1,14 @@
+det	member	a
+root	ROOT	member
+case	unit	of
+det	unit	a
+amod	unit	military
+nmod:of	member	unit
+acl	unit	trained
+case	troops	as
+compound	troops	shock
+nmod:as	trained	troops
+case	raids	for
+amod	raids	hit-and-run
+nmod:for	trained	raids
+punct	member	.

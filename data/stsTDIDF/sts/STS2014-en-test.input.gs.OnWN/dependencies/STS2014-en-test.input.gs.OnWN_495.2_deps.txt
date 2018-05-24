@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	something	of
+amod	something	damaging
+nmod:of	act	something
+cc	something	or
+conj:or	something	someone
+punct	act	.

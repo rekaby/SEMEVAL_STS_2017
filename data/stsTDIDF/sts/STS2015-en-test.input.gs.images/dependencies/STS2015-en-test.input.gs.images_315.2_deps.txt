@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	black
+nsubj	shakes	dog
+acl	dog	wearing
+det	collar	a
+amod	collar	red
+dobj	wearing	collar
+root	ROOT	shakes
+dobj	shakes	water
+advmod	shakes	off
+punct	shakes	.

@@ -1,0 +1,8 @@
+dep	affect	No
+nsubj	affect	it
+aux	affect	does
+neg	affect	not
+root	ROOT	affect
+nmod:poss	ratings	your
+dobj	affect	ratings
+punct	affect	.

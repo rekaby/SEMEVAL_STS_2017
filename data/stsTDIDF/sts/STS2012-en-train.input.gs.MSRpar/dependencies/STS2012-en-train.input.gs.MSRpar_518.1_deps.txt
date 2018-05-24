@@ -1,0 +1,17 @@
+det	Index	The
+amod	Index	technology-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+root	ROOT	Index
+punct	Index	.-6) nsubj(fell-2, IXIC
+root	ROOT	fell
+nummod	points	23.54
+dobj	fell	points
+punct	points	,
+cc	points	or
+nummod	percent	1.42
+conj:or	points	percent
+punct	points	,
+case	1,630.08	to
+nmod:to	fell	1,630.08
+punct	fell	.

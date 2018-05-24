@@ -1,0 +1,8 @@
+amod	teargas	Turkish
+compound	teargas	police
+compound	teargas	fire
+root	ROOT	teargas
+case	protesters	at
+nmod:at	teargas	protesters
+case	Istanbul	in
+nmod:in	protesters	Istanbul

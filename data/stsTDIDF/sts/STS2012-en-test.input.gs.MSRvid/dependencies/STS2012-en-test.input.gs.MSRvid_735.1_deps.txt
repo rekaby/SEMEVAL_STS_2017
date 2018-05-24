@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	spreading	woman
+aux	spreading	is
+root	ROOT	spreading
+dobj	spreading	mustard
+case	roll	on
+det	roll	a
+compound	roll	bread
+nmod:on	spreading	roll
+punct	spreading	.

@@ -1,0 +1,17 @@
+det	expansion	The
+nsubj	means	expansion
+case	space	of
+nmod:of	expansion	space
+root	ROOT	means
+mark	receding	that
+nsubj	receding	objects
+case	distances	in
+amod	distances	cosmological
+nmod:in	objects	distances
+aux	receding	are
+ccomp	means	receding
+case	other	away
+mwe	away	from
+det	other	each
+nmod:away_from	receding	other
+punct	means	.

@@ -1,0 +1,9 @@
+nsubj	apologises	Brahimi
+csubj	progress	apologises
+case	Syria	to
+nmod:to	apologises	Syria
+case	lack	over
+nmod:over	apologises	lack
+case	peace	of
+nmod:of	lack	peace
+root	ROOT	progress

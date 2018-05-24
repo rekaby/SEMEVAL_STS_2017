@@ -1,0 +1,6 @@
+det	dogs	The
+nsubj	sleep	dogs
+root	ROOT	sleep
+case	heaps	in
+nmod:in	sleep	heaps
+punct	sleep	.

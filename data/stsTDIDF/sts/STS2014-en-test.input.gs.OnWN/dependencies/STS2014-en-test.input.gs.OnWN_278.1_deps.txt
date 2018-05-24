@@ -1,0 +1,8 @@
+det	approach	the
+amod	approach	close
+root	ROOT	approach
+case	object	of
+nummod	object	one
+nmod:of	approach	object
+case	another	to
+nmod:to	approach	another

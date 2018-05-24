@@ -1,0 +1,10 @@
+root	ROOT	`
+nsubj	killed	Dozens
+root	`	killed
+punct	killed	'
+case	strike	in
+amod	strike	Syrian
+compound	strike	air
+nmod:in	killed	strike
+case	bakery	on
+nmod:on	strike	bakery

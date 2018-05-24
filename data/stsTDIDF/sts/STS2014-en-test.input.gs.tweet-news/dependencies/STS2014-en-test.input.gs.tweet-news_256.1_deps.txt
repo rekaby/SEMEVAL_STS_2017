@@ -1,0 +1,23 @@
+case	Oz	In
+nmod:in	love	Oz
+nsubj	love	we
+root	ROOT	love
+mark	scoff	to
+xcomp	love	scoff
+case	politics	at
+compound	politics	US
+nmod:at	scoff	politics
+punct	love	,
+compound	laws	gun
+root	,	laws
+dep	laws	etc.
+punct	laws	.-14) root(ROOT-0, Worth
+acl	Worth	remembering
+compound	debate	US
+compound	debate	population
+nsubj	years	debate
+ccomp	remembering	years
+advmod	years	ahead
+case	ours	of
+nmod:of	ahead	ours
+punct	Worth	.

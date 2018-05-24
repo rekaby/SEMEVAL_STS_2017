@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	teenage
+nsubj	jumps	boy
+root	ROOT	jumps
+case	pool	into
+det	pool	a
+nmod:into	jumps	pool
+case	locale	in
+det	locale	a
+amod	locale	tropical
+nmod:in	jumps	locale
+punct	jumps	.

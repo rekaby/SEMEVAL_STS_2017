@@ -1,0 +1,8 @@
+nsubj	sets	Carney
+root	ROOT	sets
+amod	bar	high
+dobj	sets	bar
+mark	change	to
+xcomp	sets	change
+case	BoE	at
+nmod:at	change	BoE

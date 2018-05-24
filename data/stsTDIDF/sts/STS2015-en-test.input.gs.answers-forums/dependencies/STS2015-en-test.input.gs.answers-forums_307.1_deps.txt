@@ -1,0 +1,13 @@
+nsubj	think	I
+aux	think	can
+root	ROOT	think
+case	factors	of
+nummod	factors	three
+amod	factors	key
+nmod:of	think	factors
+nsubj	conjectures	that
+cop	conjectures	are
+advmod	logical	quite
+amod	conjectures	logical
+acl:relcl	factors	conjectures
+punct	think	.

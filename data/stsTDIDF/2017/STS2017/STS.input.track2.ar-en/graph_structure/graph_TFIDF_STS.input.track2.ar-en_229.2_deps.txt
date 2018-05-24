@@ -1,0 +1,7 @@
+husband	new	amod
+stand	Bride	compound
+family	husband	nmod:poss
+photos	for	case
+members	family	nmod:of
+photos	members	nmod:with
+stand	photos	nmod:for

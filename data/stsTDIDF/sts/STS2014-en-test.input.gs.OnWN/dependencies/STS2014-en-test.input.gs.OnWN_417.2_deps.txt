@@ -1,0 +1,9 @@
+det	occurrence	the
+root	ROOT	occurrence
+case	uniting	of
+det	uniting	a
+nmod:of	occurrence	uniting
+case	parts	of
+amod	parts	separate
+nmod:of	uniting	parts
+punct	occurrence	.

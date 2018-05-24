@@ -1,0 +1,9 @@
+nsubj	said	Conte
+root	ROOT	said
+nsubjpass	charged	Druce
+aux	charged	will
+auxpass	charged	be
+ccomp	said	charged
+case	murder	with
+nmod:with	charged	murder
+punct	said	.

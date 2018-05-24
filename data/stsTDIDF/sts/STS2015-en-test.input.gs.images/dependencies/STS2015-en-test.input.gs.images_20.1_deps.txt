@@ -1,0 +1,16 @@
+det	man	A
+nsubj	speaks	man
+acl	man	wearing
+det	coat	an
+amod	coat	orange
+dobj	wearing	coat
+root	ROOT	speaks
+case	another	to
+nmod:to	speaks	another
+mark	walk	as
+nsubj	walk	they
+advcl	speaks	walk
+case	snow	in
+det	snow	the
+nmod:in	walk	snow
+punct	speaks	.

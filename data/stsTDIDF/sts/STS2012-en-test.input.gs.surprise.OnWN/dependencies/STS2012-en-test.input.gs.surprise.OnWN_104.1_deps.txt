@@ -1,0 +1,10 @@
+punct	cause	-LRB-
+root	ROOT	cause
+dep	cause	to
+punct	cause	-RRB-
+dep	cause	stop
+xcomp	stop	speaking
+cc	speaking	or
+conj:or	speaking	bring
+advmod	silence	about
+dobj	speaking	silence

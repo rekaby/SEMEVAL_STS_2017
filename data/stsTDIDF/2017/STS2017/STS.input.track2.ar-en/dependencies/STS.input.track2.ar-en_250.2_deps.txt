@@ -1,0 +1,11 @@
+nsubj	use	Women
+cc	Women	and
+conj:and	Women	men
+root	ROOT	use
+nmod:poss	hands	their
+dobj	use	hands
+mark	make	to
+advcl	use	make
+nmod:poss	point	their
+dobj	make	point
+punct	use	.

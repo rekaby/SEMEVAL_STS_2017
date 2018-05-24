@@ -1,0 +1,9 @@
+det	cows	The
+amod	cows	skinny
+nsubj	standing	cows
+aux	standing	are
+root	ROOT	standing
+case	grass	on
+det	grass	the
+nmod:on	standing	grass
+punct	standing	.

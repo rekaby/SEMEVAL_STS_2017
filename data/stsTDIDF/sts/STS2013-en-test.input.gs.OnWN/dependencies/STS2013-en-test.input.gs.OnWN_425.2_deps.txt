@@ -1,0 +1,8 @@
+det	state	the
+root	ROOT	state
+mark	taking	of
+acl	state	taking
+compound:prt	taking	in
+cc	taking	or
+conj:or	taking	encircling
+punct	state	.

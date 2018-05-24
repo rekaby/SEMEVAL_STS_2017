@@ -1,0 +1,8 @@
+det	man	A
+nsubj	poured	man
+root	ROOT	poured
+dobj	poured	ric-a-roni
+case	pan	into
+det	pan	a
+nmod:into	poured	pan
+punct	poured	.

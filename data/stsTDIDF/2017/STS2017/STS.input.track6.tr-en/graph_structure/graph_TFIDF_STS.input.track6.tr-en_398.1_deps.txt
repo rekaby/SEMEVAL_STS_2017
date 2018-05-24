@@ -1,0 +1,8 @@
+woman	suitcase	nmod:with
+takes	woman	nsubj
+suitcase	a	det
+bench	park	compound
+suitcase	with	case
+bench	at	case
+takes	break	dobj
+break	bench	nmod:at

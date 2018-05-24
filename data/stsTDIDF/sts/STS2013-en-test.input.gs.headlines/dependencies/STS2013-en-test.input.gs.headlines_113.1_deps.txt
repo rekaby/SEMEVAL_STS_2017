@@ -1,0 +1,7 @@
+compound	soldier	Yorkshire
+nsubj	blast	soldier
+acl	soldier	killed
+case	bomb	in
+compound	bomb	Afghan
+nmod:in	killed	bomb
+root	ROOT	blast

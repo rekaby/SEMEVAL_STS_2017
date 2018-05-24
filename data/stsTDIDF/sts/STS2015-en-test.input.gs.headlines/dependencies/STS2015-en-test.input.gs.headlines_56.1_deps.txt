@@ -1,0 +1,8 @@
+amod	search	Turkish
+nsubj	ends	search
+root	ROOT	ends
+case	miners	as
+amod	miners	last
+amod	miners	missing
+nmod:as	ends	miners
+punct	ends	found

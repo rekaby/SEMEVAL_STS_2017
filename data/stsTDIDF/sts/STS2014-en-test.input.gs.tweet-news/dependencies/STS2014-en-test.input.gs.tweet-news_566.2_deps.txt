@@ -1,0 +1,12 @@
+det	Carpetbagger	The
+root	ROOT	Carpetbagger
+punct	Carpetbagger	:
+dep	Carpetbagger	Doing
+dobj	Doing	Good
+punct	Burnishing	-LRB-
+cc	Burnishing	and
+dep	Good	Burnishing
+dobj	Burnishing	Images
+punct	Burnishing	,
+advmod	Burnishing	Too
+punct	Burnishing	-RRB-

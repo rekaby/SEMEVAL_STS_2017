@@ -1,0 +1,5 @@
+advmod	have	still
+root	ROOT	have
+dobj	have	connection
+case	battery	to
+nmod:to	connection	battery

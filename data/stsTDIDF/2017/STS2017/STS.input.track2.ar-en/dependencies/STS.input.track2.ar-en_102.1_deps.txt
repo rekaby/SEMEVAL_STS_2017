@@ -1,0 +1,7 @@
+det	canine	A
+nsubj	field	canine
+cop	field	is
+case	field	in
+det	field	the
+root	ROOT	field
+punct	field	.

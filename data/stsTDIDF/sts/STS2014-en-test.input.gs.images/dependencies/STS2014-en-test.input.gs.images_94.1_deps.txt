@@ -1,0 +1,11 @@
+det	vehicle	A
+amod	vehicle	black
+root	ROOT	vehicle
+acl	vehicle	parked
+case	vies	with
+det	vies	a
+nmod:with	parked	vies
+case	mountains	of
+amod	mountains	low-lying
+nmod:of	vies	mountains
+punct	vehicle	.

@@ -1,0 +1,7 @@
+nummod	person	One
+nsubj	sits	person
+root	ROOT	sits
+case	car	on
+det	car	a
+nmod:on	sits	car
+punct	sits	.

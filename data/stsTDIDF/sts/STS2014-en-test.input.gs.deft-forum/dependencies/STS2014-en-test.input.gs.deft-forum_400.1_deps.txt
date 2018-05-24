@@ -1,0 +1,8 @@
+root	ROOT	Where
+case	world	in
+det	world	the
+nmod:in	Where	world
+dep	Where	is
+compound	Paul	Ron
+nsubj	is	Paul
+punct	Where	?

@@ -1,0 +1,17 @@
+det	appointment	The
+amod	appointment	third
+nsubj	was	appointment
+root	ROOT	was
+case	job	to
+det	job	a
+amod	job	new
+nmod:to	was	job
+punct	job	,
+amod	president	executive
+compound	president	vice
+appos	job	president
+cc	president	and
+amod	officer	chief
+compound	officer	staff
+conj:and	president	officer
+punct	was	.

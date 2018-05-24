@@ -1,0 +1,8 @@
+root	ROOT	Embassies
+acl	Embassies	staying
+xcomp	staying	put
+case	Korea	in
+compound	Korea	N.
+nmod:in	put	Korea
+case	tension	despite
+nmod:despite	Embassies	tension

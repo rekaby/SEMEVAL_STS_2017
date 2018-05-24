@@ -1,0 +1,14 @@
+amod	people	Many
+nsubj	beach	people
+cop	beach	are
+case	beach	on
+det	beach	the
+root	ROOT	beach
+punct	beach	,
+case	building	near
+det	building	a
+nmod:near	beach	building
+case	flags	with
+nmod:with	building	flags
+acl	flags	flying
+punct	beach	.

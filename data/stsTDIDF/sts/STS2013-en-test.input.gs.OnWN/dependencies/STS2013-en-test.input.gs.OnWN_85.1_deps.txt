@@ -1,0 +1,12 @@
+root	ROOT	Arrange
+det	programme	a
+dobj	Arrange	programme
+case	group	for
+det	group	an
+amod	group	individual
+punct	group	,
+nmod:for	programme	group
+punct	group	,
+cc	group	or
+conj:or	group	entity
+punct	Arrange	.

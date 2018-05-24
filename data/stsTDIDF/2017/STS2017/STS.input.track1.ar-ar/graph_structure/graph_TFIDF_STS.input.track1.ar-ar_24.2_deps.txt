@@ -1,0 +1,8 @@
+snow	in	case
+snow	the	det
+dogs	snow	nmod:in
+Fmm	thing	nmod:in
+are	dogs	nsubj
+are	Fmm	conj:and
+dogs	two	nummod
+thing	in	case

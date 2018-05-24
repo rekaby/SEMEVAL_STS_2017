@@ -1,0 +1,8 @@
+det	ship	A
+compound	ship	cruise
+root	ROOT	ship
+acl	ship	docked
+case	coast	at
+det	coast	a
+nmod:at	docked	coast
+punct	ship	.

@@ -1,0 +1,9 @@
+group	teenagers	nmod:of
+smiling	.	punct
+smiling	group	nsubj
+ROOT	smiling	root
+teenagers	of	case
+teenagers	shirts	nmod:in
+shirts	red	amod
+smiling	are	aux
+shirts	in	case

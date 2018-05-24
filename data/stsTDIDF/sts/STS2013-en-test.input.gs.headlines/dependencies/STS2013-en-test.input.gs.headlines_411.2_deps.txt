@@ -1,0 +1,7 @@
+compound	prison	U.S.
+compound	prison	transfers
+compound	prison	Bagram
+root	ROOT	prison
+case	control	to
+compound	control	Afghan
+nmod:to	prison	control

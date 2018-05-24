@@ -1,0 +1,10 @@
+nsubj	asks	Israel
+root	ROOT	asks
+dobj	asks	US
+case	arms	for
+nmod:for	asks	arms
+nsubj	aid	that
+aux	aid	could
+acl:relcl	arms	aid
+dobj	aid	Iran
+dep	asks	strike

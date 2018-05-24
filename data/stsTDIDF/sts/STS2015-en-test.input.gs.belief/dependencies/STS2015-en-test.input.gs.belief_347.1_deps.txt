@@ -1,0 +1,13 @@
+advmod	open	when
+nsubj	open	you
+root	ROOT	open
+nmod:poss	cabinet	your
+compound	cabinet	dish
+dobj	open	cabinet
+punct	open	,
+cc	open	and
+expl	is	there
+conj:and	open	is
+advmod	mugs	only
+nsubj	is	mugs
+punct	open	.

@@ -1,0 +1,8 @@
+compound	Start	Lakers
+compound	Start	Fire
+acl	Fire	Coach
+compound	Brown	Mike
+dobj	Coach	Brown
+case	1-4	After
+nmod:after	Coach	1-4
+root	ROOT	Start

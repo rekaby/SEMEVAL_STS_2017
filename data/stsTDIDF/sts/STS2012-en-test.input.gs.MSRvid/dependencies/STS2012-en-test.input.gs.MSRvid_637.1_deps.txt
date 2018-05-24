@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	walking	cat
+aux	walking	is
+root	ROOT	walking
+case	house	around
+det	house	a
+nmod:around	walking	house
+punct	walking	.

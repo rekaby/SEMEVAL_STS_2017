@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sit	man
+cc	man	and
+conj:and	man	woman
+root	ROOT	sit
+case	bench	on
+det	bench	a
+compound	bench	park
+nmod:on	sit	bench
+punct	sit	.

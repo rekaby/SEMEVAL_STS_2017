@@ -1,0 +1,9 @@
+det	image	an
+root	ROOT	image
+nsubjpass	generated	that
+auxpass	generated	is
+acl:relcl	image	generated
+case	computer	by
+det	computer	a
+nmod:agent	generated	computer
+punct	image	.

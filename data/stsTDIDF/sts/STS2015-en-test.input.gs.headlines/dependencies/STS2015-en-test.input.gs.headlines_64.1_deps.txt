@@ -1,0 +1,5 @@
+nsubj	extends	EU
+root	ROOT	extends
+dobj	extends	sanctions
+case	Russia	against
+nmod:against	sanctions	Russia

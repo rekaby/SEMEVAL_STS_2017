@@ -1,0 +1,8 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	looking
+case	screen	at
+det	screen	a
+compound	screen	computer
+nmod:at	looking	screen
+punct	boy	.

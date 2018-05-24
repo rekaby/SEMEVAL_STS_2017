@@ -1,0 +1,10 @@
+compound	Bombs	Suicide
+nsubj	Hit	Bombs
+root	ROOT	Hit
+compound	Military	Egypt
+dobj	Hit	Military
+case	Sinai	in
+nmod:in	Hit	Sinai
+punct	Hit	,
+dep	Hit	Kill
+nummod	Kill	6

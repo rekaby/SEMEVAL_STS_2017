@@ -1,0 +1,10 @@
+amod	grief	Good
+root	ROOT	grief
+punct	grief	!-3) compound(actor-4, Charlie
+compound	actor	Brown
+compound	actor	voice
+nsubj	charged	actor
+root	ROOT	charged
+punct	charged	-
+compound	#legal	#law
+dobj	charged	#legal

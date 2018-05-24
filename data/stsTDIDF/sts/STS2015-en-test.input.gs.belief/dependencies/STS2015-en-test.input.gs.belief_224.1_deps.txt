@@ -1,0 +1,17 @@
+cc	happening	and
+nsubj	happening	what
+aux	happening	's
+root	ROOT	happening
+nmod:tmod	happening	today
+xcomp	happening	is
+mark	happened	because
+mwe	because	of
+nsubj	happened	what
+advcl	is	happened
+punct	happened	,
+advmod	happened	uh
+punct	happened	,
+punct	happened	``
+root	``	backward
+punct	backward	''
+punct	backward	.

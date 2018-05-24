@@ -1,0 +1,7 @@
+track	railroad	compound
+ROOT	crew	root
+crew	workers	nmod:of
+crew	working	acl
+working	track	nmod:on
+crew	A	det
+crew	.	punct

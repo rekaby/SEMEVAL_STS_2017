@@ -1,0 +1,13 @@
+nsubj	paty	bulbs
+dep	bulbs	b
+cc	b	and
+conj:and	b	c
+cop	paty	were
+case	paty	in
+det	paty	a
+amod	paty	closed
+root	ROOT	paty
+case	battery	with
+det	battery	the
+nmod:with	paty	battery
+punct	paty	.

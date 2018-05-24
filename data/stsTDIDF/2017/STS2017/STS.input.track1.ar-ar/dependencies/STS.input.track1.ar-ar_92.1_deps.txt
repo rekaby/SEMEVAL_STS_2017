@@ -1,0 +1,6 @@
+compound	player	Baseball
+root	ROOT	player
+amod	player	white
+case	color	in
+nmod:in	white	color
+punct	player	.

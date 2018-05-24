@@ -1,0 +1,13 @@
+root	ROOT	Shrivel
+punct	Shrivel	,
+conj:or	Shrivel	wither
+punct	Shrivel	,
+cc	Shrivel	or
+amod	imperfectly	mature
+conj:or	Shrivel	imperfectly
+punct	Shrivel	,
+case	flower	as
+mwe	as	of
+det	flower	a
+acl:as_of	Shrivel	flower
+punct	Shrivel	.

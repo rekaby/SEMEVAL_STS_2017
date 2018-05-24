@@ -1,0 +1,7 @@
+kids	her	nmod:poss
+flying	.	punct
+woman	kids	conj:and
+flying	are	aux
+flying	kites	dobj
+ROOT	flying	root
+flying	woman	nsubj

@@ -1,0 +1,8 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	become	to
+punct	become	-RRB-
+ccomp	cause	become
+advmod	or	even
+cc	become	or
+conj:or	become	level

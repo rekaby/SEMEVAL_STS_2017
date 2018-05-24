@@ -1,0 +1,6 @@
+reading	man	nsubj
+bus	for	case
+reading	waiting	advcl
+reading	is	aux
+waiting	while	mark
+waiting	bus	nmod:for

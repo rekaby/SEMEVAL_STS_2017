@@ -1,0 +1,11 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	dressed
+case	standing	in
+amod	standing	white
+nmod:in	dressed	standing
+case	field	on
+det	field	a
+compound	field	grass
+nmod:on	standing	field
+punct	people	.

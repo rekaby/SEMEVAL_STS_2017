@@ -1,0 +1,14 @@
+nummod	men	Four
+amod	men	other
+nsubj	pleaded	men
+nsubjpass	charged	who
+auxpass	charged	were
+advmod	charged	also
+acl:relcl	men	charged
+case	June	in
+nmod:in	charged	June
+aux	pleaded	have
+advmod	pleaded	already
+root	ROOT	pleaded
+xcomp	pleaded	guilty
+punct	pleaded	.

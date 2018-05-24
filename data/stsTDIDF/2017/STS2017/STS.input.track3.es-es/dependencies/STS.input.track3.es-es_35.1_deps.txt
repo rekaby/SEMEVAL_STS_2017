@@ -1,0 +1,10 @@
+det	girl	A
+root	ROOT	girl
+case	pants	in
+amod	pants	pink
+nmod:in	girl	pants
+acl	pants	playing
+case	floor	on
+det	floor	the
+nmod:on	playing	floor
+punct	girl	.

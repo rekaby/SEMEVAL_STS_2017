@@ -1,0 +1,10 @@
+expl	's	There
+root	ROOT	's
+det	piece	a
+nsubj	's	piece
+case	paper	of
+nmod:of	piece	paper
+case	table	on
+det	table	a
+nmod:on	piece	table
+punct	's	.

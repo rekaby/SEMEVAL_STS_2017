@@ -1,0 +1,14 @@
+det	pot	A
+nsubj	center	pot
+case	liquid	of
+nmod:of	pot	liquid
+cop	center	is
+case	center	at
+det	center	the
+root	ROOT	center
+case	tinfoil	of
+det	tinfoil	a
+nmod:of	center	tinfoil
+amod	plate	covered
+dep	tinfoil	plate
+punct	center	.

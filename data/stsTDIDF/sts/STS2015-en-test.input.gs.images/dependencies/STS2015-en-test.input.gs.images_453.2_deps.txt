@@ -1,0 +1,11 @@
+nummod	dogs	Two
+amod	dogs	grey
+nsubj	carrying	dogs
+aux	carrying	are
+root	ROOT	carrying
+det	stick	a
+dobj	carrying	stick
+case	water	in
+det	water	the
+nmod:in	carrying	water
+punct	carrying	.

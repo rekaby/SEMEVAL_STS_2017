@@ -1,0 +1,17 @@
+compound	Law	Russian
+compound	Law	Federal
+nsubj	specific	Law
+cop	specific	is
+advmod	specific	actually
+advmod	specific	quite
+root	ROOT	specific
+case	one	on
+det	one	this
+nmod:on	specific	one
+cc	one	and
+neg	argued	not
+mark	argued	as
+dep	argued	arbitrary
+mark	argued	as
+conj:and	one	argued
+punct	specific	.

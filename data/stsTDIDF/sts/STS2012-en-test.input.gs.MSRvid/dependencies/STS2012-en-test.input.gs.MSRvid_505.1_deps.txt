@@ -1,0 +1,7 @@
+det	person	A
+nsubj	chopping	person
+aux	chopping	is
+root	ROOT	chopping
+dobj	chopping	coriander
+advcl	chopping	leaves
+punct	chopping	.

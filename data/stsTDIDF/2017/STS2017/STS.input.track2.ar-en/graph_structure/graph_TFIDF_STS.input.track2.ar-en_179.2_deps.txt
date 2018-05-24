@@ -1,0 +1,4 @@
+riding	street	nmod:in
+bicycle	his	nmod:poss
+riding	bicycle	dobj
+man	riding	acl

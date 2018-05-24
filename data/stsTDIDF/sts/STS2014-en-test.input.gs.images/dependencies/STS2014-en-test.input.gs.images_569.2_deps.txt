@@ -1,0 +1,8 @@
+det	horse	A
+amod	horse	brown
+nsubj	stands	horse
+root	ROOT	stands
+case	grass	in
+amod	grass	tall
+nmod:in	stands	grass
+punct	stands	.

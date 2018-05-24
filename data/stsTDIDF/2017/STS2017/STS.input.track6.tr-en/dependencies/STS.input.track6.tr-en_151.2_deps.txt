@@ -1,0 +1,8 @@
+det	baby	A
+nsubj	having	baby
+aux	having	is
+root	ROOT	having
+det	time	a
+amod	time	good
+dobj	having	time
+punct	having	.

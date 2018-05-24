@@ -1,0 +1,14 @@
+det	boy	A
+amod	boy	young
+nsubj	jumping	boy
+root	ROOT	jumping
+case	pool	into
+det	pool	a
+nmod:into	jumping	pool
+nsubj	says	that
+acl:relcl	pool	says
+punct	says	``
+neg	diving	no
+dobj	says	diving
+punct	says	''
+punct	jumping	.

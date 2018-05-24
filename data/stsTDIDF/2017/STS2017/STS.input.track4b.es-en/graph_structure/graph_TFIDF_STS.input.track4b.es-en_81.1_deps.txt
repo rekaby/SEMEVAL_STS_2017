@@ -1,0 +1,17 @@
+is	choice	ccomp
+hired	conduct	xcomp
+tied	was	auxpass
+tied	because	mark
+conduct	study	dobj
+choice	tied	advcl
+firm	hired	acl:relcl
+tied	it	nsubjpass
+choice	was	cop
+TransCanada	to	case
+choice	whether	mark
+choice	an	det
+choice	firm	nsubj
+choice	inappropriate	amod
+hired	that	nsubjpass
+study	original	amod
+tied	TransCanada	nmod:to

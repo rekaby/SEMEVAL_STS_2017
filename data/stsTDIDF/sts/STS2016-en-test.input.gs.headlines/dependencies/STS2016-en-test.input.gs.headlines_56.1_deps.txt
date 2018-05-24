@@ -1,0 +1,9 @@
+nsubj	Urges	Hamas
+root	ROOT	Urges
+dobj	Urges	Hizbullah
+mark	Pull	to
+advcl	Urges	Pull
+dobj	Pull	Fighters
+case	Syria	Out
+mwe	Out	of
+nmod:out_of	Pull	Syria

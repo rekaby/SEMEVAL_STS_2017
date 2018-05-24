@@ -1,0 +1,16 @@
+det	splashes	A
+amod	splashes	brown
+compound	splashes	dog
+root	ROOT	splashes
+case	water	in
+det	water	the
+nmod:in	splashes	water
+mark	carrying	while
+acl	splashes	carrying
+det	ball	a
+dobj	carrying	ball
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	carrying	mouth
+punct	splashes	.

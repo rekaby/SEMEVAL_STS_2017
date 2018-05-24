@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	stands	girl
+root	ROOT	stands
+case	area	in
+det	area	a
+advmod	lit	dimly
+amod	area	lit
+nmod:in	stands	area
+punct	stands	.

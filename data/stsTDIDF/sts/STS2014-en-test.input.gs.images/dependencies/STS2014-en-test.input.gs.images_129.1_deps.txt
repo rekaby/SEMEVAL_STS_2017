@@ -1,0 +1,10 @@
+det	couple	A
+nsubj	posing	couple
+root	ROOT	posing
+case	picture	for
+det	picture	a
+nmod:for	posing	picture
+case	couch	on
+det	couch	a
+nmod:on	picture	couch
+punct	posing	.

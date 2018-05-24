@@ -1,0 +1,12 @@
+boys	playing	acl
+ROOT	boys	root
+boys	little	amod
+hall	in	case
+boys	Three	nummod
+boys	watching	acl
+boys	.	punct
+playing	hall	nmod:in
+watching	while	mark
+man	shirt	nmod:in
+watching	man	dobj
+shirt	blue	amod

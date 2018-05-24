@@ -1,0 +1,7 @@
+det	height	the
+root	ROOT	height
+case	surface	of
+det	sea	the
+nmod:poss	surface	sea
+case	sea	's
+nmod:of	height	surface

@@ -1,0 +1,8 @@
+det	female	The
+amod	female	young
+nsubj	has	female
+root	ROOT	has
+det	expression	a
+amod	expression	facial
+dobj	has	expression
+punct	has	.

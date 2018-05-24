@@ -1,0 +1,7 @@
+amod	rot	watery
+root	ROOT	rot
+case	produce	on
+nmod:on	rot	produce
+acl	produce	caused
+case	fungus	by
+nmod:by	caused	fungus

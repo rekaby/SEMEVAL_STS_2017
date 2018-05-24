@@ -1,0 +1,12 @@
+compound	content	collection
+case	names	of
+nmod:of	collection	names
+cc	names	and
+conj:and	names	addresses
+mark	serve	to
+acl	collection	serve
+case	recipients	as
+nmod:as	serve	recipients
+case	information	of
+nmod:of	recipients	information
+root	ROOT	content

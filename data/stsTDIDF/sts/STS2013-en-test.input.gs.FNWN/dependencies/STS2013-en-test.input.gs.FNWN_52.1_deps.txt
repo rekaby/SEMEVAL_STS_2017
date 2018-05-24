@@ -1,0 +1,17 @@
+det	frame	this
+nsubj	contains	frame
+root	ROOT	contains
+compound	aggregates	nouns
+amod	aggregates	denoting
+dobj	contains	aggregates
+case	individuals	of
+nmod:of	aggregates	individuals
+punct	contains	.-9) det(aggregates-2, the
+nsubjpass	described	aggregates
+aux	described	may
+auxpass	described	be
+root	ROOT	described
+case	aggregateproperty	by
+det	aggregateproperty	an
+nmod:agent	described	aggregateproperty
+punct	described	.

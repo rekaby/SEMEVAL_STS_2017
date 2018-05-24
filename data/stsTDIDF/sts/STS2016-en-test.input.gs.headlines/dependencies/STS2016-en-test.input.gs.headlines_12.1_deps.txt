@@ -1,0 +1,10 @@
+compound	newspaper	China
+compound	newspaper	army
+nsubj	hits	newspaper
+root	ROOT	hits
+compound:prt	hits	out
+case	programme	at
+nmod:poss	programme	US
+case	US	's
+compound	programme	PRISM
+nmod:at	hits	programme

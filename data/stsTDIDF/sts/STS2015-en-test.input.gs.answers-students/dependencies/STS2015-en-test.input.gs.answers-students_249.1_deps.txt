@@ -1,0 +1,10 @@
+det	gap	the
+nsubj	separates	gap
+root	ROOT	separates
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+dobj	separates	terminal
+case	terminal	from
+nmod:from	separates	terminal
+nummod	terminal	1

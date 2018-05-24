@@ -1,0 +1,7 @@
+compound	Experts	UN
+compound	Experts	Chemical
+compound	Experts	Weapons
+root	ROOT	Experts
+case	Visit	to
+nmod:to	Experts	Visit
+dep	Experts	Syria

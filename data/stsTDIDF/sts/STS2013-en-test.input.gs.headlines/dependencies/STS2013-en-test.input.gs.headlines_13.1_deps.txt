@@ -1,0 +1,7 @@
+nsubj	backs	Obama
+root	ROOT	backs
+dobj	backs	Philippines
+case	China	over
+compound	China	South
+nmod:over	backs	China
+nmod:tmod	backs	Sea

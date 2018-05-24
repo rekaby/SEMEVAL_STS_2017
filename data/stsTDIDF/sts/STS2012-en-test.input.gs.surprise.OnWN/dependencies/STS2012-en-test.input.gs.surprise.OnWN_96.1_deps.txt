@@ -1,0 +1,7 @@
+det	discipline	a
+root	ROOT	discipline
+punct	discipline	,
+det	branch	a
+appos	discipline	branch
+case	knowledge	of
+nmod:of	branch	knowledge

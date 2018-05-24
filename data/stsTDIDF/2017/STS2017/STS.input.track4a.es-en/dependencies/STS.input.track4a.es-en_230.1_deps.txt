@@ -1,0 +1,8 @@
+root	ROOT	Waitress
+acl	Waitress	working
+case	restaurant	at
+det	restaurant	a
+nmod:at	working	restaurant
+acl	restaurant	cutting
+dobj	cutting	watermelon
+punct	Waitress	.

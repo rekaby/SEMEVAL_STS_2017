@@ -1,0 +1,17 @@
+root	ROOT	Skip
+punct	Skip	,
+conj:or	Skip	leap
+punct	Skip	,
+cc	Skip	or
+conj:or	Skip	move
+advmod	move	up
+cc	up	and
+conj:and	up	down
+cc	move	or
+conj:or	move	sideways
+case	manner	as
+det	manner	a
+nmod:as	sideways	manner
+case	motion	of
+nmod:of	manner	motion
+punct	Skip	.

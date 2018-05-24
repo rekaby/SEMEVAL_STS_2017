@@ -1,0 +1,17 @@
+nsubj	read	I
+aux	read	have
+neg	read	never
+root	ROOT	read
+dobj	read	anything
+nsubj	said	that
+acl:relcl	anything	said
+nsubj	bad	teethers
+cop	bad	were
+ccomp	said	bad
+punct	bad	--
+advmod	read	where
+aux	read	did
+nsubj	read	you
+advcl	bad	read
+dobj	read	that
+punct	read	?

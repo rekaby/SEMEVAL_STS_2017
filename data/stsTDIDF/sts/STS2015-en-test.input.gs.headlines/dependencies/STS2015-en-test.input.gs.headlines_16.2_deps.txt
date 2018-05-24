@@ -1,0 +1,8 @@
+compound	ministers	EU
+amod	ministers	foreign
+nsubj	seek	ministers
+root	ROOT	seek
+compound	arms	solution
+case	Syria	on
+nmod:on	solution	Syria
+dobj	seek	arms

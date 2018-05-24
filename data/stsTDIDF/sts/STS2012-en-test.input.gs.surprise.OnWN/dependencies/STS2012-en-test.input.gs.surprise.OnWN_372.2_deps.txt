@@ -1,0 +1,10 @@
+det	part	a
+amod	part	fourth
+root	ROOT	part
+case	year	of
+det	year	a
+nmod:of	part	year
+punct	part	;
+nummod	months	three
+dep	part	months
+punct	part	.

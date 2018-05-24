@@ -1,0 +1,11 @@
+compound	AGROUND	RUN
+root	ROOT	AGROUND
+punct	AGROUND	--
+punct	cause	-LRB-
+dep	AGROUND	cause
+mark	come	to
+punct	to	-RRB-
+xcomp	cause	come
+case	ground	to
+det	ground	the
+nmod:to	come	ground

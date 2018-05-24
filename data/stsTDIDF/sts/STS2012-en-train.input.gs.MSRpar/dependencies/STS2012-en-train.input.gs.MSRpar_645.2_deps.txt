@@ -1,0 +1,14 @@
+nsubj	is	That
+root	ROOT	is
+advmod	is	up
+case	$	from
+nmod:from	up	$
+compound	billion	1.14
+nummod	$	billion
+case	quarter	during
+det	quarter	the
+amod	quarter	same
+nmod:during	$	quarter
+amod	year	last
+nmod:tmod	is	year
+punct	is	.

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	attempting	woman
+aux	attempting	is
+root	ROOT	attempting
+mark	ride	to
+xcomp	attempting	ride
+det	wave	a
+amod	wave	small
+dobj	ride	wave
+punct	attempting	.

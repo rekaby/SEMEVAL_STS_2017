@@ -1,0 +1,9 @@
+nummod	birds	Two
+amod	birds	small
+root	ROOT	birds
+acl	birds	perched
+case	bar	on
+det	bar	a
+compound	bar	metal
+nmod:on	perched	bar
+punct	birds	.

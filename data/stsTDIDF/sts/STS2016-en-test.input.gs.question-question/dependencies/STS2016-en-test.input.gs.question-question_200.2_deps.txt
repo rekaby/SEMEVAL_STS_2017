@@ -1,0 +1,8 @@
+advmod	make	How
+aux	make	do
+nsubj	make	I
+root	ROOT	make
+det	match	this
+compound	match	paint
+dobj	make	match
+punct	make	?

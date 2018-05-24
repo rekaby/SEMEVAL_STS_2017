@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	sniffing	dogs
+aux	sniffing	are
+root	ROOT	sniffing
+dobj	sniffing	something
+case	rocks	in
+det	rocks	the
+nmod:in	sniffing	rocks
+punct	sniffing	.

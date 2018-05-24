@@ -1,0 +1,7 @@
+compound	Africa	South
+root	ROOT	Africa
+punct	Africa	:
+nsubj	remains	Mandela
+appos	Africa	remains
+case	hospital	in
+nmod:in	remains	hospital

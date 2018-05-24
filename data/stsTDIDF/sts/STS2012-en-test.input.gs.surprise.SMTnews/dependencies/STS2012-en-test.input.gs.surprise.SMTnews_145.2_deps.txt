@@ -1,0 +1,9 @@
+cc	survive	But
+det	picture	this
+nsubj	survive	picture
+aux	survive	can
+root	ROOT	survive
+case	European	in
+det	European	a
+nmod:in	survive	European
+punct	survive	?

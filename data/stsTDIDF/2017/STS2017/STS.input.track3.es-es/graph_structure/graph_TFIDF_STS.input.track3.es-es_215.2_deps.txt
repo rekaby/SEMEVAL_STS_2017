@@ -1,0 +1,8 @@
+attends	game	dobj
+shirt	is	cop
+ROOT	shirt	root
+shirt	sports	compound
+shirt	man	nsubj
+shirt	.	punct
+shirt	attends	acl
+shirt	the	det

@@ -1,0 +1,12 @@
+root	ROOT	Firefly
+punct	Firefly	:
+nsubj	happening	2015
+aux	happening	is
+dep	Firefly	happening
+punct	happening	...
+punct	Firefly	.-7) case(vessel-5, as
+det	vessel	a
+compound	vessel	NASA
+compound	vessel	mining
+root	ROOT	vessel
+punct	vessel	.-6) root(ROOT-0, #fireflyreturnskinda

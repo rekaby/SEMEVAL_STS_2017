@@ -1,0 +1,11 @@
+nummod	officers	Two
+compound	officers	police
+nsubj	turn	officers
+case	scooters	on
+nmod:on	officers	scooters
+root	ROOT	turn
+compound:prt	turn	back
+case	camera	towards
+det	camera	the
+nmod:towards	turn	camera
+punct	turn	.

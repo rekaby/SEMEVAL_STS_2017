@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	young
+nsubj	holding	boy
+aux	holding	is
+root	ROOT	holding
+det	guitar	a
+dobj	holding	guitar
+punct	holding	.

@@ -1,0 +1,5 @@
+nsubj	saves	Booze
+root	ROOT	saves
+nmod:poss	life	puppy
+case	puppy	's
+dobj	saves	life

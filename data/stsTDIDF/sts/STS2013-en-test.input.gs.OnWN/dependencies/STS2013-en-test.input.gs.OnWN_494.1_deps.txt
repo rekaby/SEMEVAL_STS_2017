@@ -1,0 +1,6 @@
+det	region	the
+compound	region	center
+root	ROOT	region
+case	object	of
+det	object	an
+nmod:of	region	object

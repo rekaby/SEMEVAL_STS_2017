@@ -1,0 +1,14 @@
+det	forces	the
+amod	forces	conventional
+nsubj	arms	forces
+case	treaty	in
+compound	treaty	europe
+nmod:in	forces	treaty
+cop	arms	was
+det	arms	a
+amod	arms	key
+compound	arms	soviet-era
+root	ROOT	arms
+compound	treaty	control
+dobj	arms	treaty
+punct	arms	.

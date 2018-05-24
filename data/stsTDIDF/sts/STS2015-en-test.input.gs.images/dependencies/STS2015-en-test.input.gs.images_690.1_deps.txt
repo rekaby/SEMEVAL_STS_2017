@@ -1,0 +1,10 @@
+det	child	A
+nsubj	play	child
+cc	child	and
+nummod	dogs	two
+conj:and	child	dogs
+root	ROOT	play
+case	water	in
+det	water	the
+nmod:in	play	water
+punct	play	.

@@ -1,0 +1,18 @@
+mark	reach	To
+root	ROOT	reach
+compound	Cooper	Brad
+dobj	reach	Cooper
+punct	Cooper	,
+compound	reporter	Johnson
+compound	reporter	County
+amod	reporter	municipal
+appos	Cooper	reporter
+punct	Cooper	,
+compound	-LRB-816-RRB- 234-7724	call
+appos	Cooper	-LRB-816-RRB- 234-7724
+cc	-LRB-816-RRB- 234-7724	or
+conj:or	-LRB-816-RRB- 234-7724	send
+dobj	send	e-mail
+case	bcooper@kcstar.com	to
+nmod:to	send	bcooper@kcstar.com
+punct	reach	.

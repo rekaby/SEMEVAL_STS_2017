@@ -1,0 +1,7 @@
+det	amount	the
+root	ROOT	amount
+nsubjpass	contained	that
+aux	contained	can
+auxpass	contained	be
+acl:relcl	amount	contained
+punct	amount	.

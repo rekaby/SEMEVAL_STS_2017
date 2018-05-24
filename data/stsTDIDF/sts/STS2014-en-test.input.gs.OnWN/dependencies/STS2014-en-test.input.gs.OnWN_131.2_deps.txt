@@ -1,0 +1,10 @@
+compound	proceedings	institute
+amod	proceedings	legal
+root	ROOT	proceedings
+acl	proceedings	against
+punct	proceedings	;
+dep	proceedings	file
+det	suit	a
+dobj	file	suit
+nmod	file	against
+punct	file	.

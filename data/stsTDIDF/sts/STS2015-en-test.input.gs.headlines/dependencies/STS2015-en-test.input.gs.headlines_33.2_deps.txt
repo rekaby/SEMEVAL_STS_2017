@@ -1,0 +1,8 @@
+amod	PM	Spanish
+nsubj	refuses	PM
+root	ROOT	refuses
+mark	resign	to
+xcomp	refuses	resign
+case	corruption	over
+nmod:over	resign	corruption
+dobj	refuses	scandal

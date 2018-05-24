@@ -1,0 +1,6 @@
+buy	materials	dobj
+materials	some	det
+people	These	det
+buy	pho	nmod:for
+pho	for	case
+going	buy	xcomp

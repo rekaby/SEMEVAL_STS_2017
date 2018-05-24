@@ -1,0 +1,7 @@
+party	Witches	compound
+ROOT	participating	root
+cup	in	case
+participating	are	aux
+participating	cup	nmod:in
+participating	man	nsubj
+cup	party	nmod:of

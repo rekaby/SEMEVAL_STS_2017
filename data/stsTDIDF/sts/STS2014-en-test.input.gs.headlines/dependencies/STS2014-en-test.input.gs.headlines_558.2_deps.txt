@@ -1,0 +1,13 @@
+compound	Boehner	John
+root	ROOT	Boehner
+punct	Boehner	:
+case	origin	from
+amod	origin	humble
+nmod:from	undoing	origin
+punct	origin	,
+amod	cliff	fiscal
+nsubj	undoing	cliff
+aux	undoing	may
+cop	undoing	be
+nmod:poss	undoing	his
+dep	Boehner	undoing

@@ -1,0 +1,6 @@
+root	ROOT	Enclose
+case	covering	in
+det	covering	a
+amod	covering	protective
+nmod:in	Enclose	covering
+punct	Enclose	.

@@ -1,0 +1,8 @@
+jumping	catch	xcomp
+jumping	out	compound:prt
+jumping	water	nmod:of
+fly	a	det
+catch	fly	dobj
+jumping	is	aux
+jumping	fish	nsubj
+fish	A	det

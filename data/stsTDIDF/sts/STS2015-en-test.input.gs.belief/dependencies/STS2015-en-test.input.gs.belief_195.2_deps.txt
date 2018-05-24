@@ -1,0 +1,16 @@
+advmod	start	why
+aux	start	do
+neg	start	n't
+nsubj	start	you
+root	ROOT	start
+xcomp	start	thinking
+case	points	beyond
+det	points	the
+amod	points	talking
+nmod:beyond	thinking	points
+nsubj	make	that
+acl:relcl	points	make
+nsubj	feel	you
+ccomp	make	feel
+xcomp	feel	good
+punct	start	?

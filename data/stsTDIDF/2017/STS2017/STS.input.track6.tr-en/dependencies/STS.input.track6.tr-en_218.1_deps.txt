@@ -1,0 +1,7 @@
+nsubj	busy	Workers
+cop	busy	are
+root	ROOT	busy
+case	job	at
+nmod:poss	job	their
+nmod:at	busy	job
+punct	busy	.

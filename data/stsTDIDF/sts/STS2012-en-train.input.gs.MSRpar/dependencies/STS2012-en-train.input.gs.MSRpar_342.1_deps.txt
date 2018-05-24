@@ -1,0 +1,17 @@
+case	care	On
+compound	care	health
+nmod:on	says	care
+punct	says	,
+det	NDP	the
+nsubj	says	NDP
+root	ROOT	says
+expl	privatization	there
+aux	privatization	will
+cop	privatization	be
+neg	privatization	no
+ccomp	says	privatization
+cc	privatization	and
+neg	premiums	no
+compound	premiums	health-care
+conj:and	privatization	premiums
+punct	says	.

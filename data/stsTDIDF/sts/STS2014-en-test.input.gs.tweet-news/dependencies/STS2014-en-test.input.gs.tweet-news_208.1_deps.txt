@@ -1,0 +1,10 @@
+compound	#Drought	New
+amod	New	low
+case	levels	for
+compound	levels	water
+nmod:for	low	levels
+case	Lakes	in
+det	Lakes	the
+amod	Lakes	Great
+nmod:in	levels	Lakes
+root	ROOT	#Drought

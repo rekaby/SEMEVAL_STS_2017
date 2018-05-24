@@ -1,0 +1,7 @@
+nsubj	waiting	People
+aux	waiting	are
+root	ROOT	waiting
+case	car	for
+det	car	the
+nmod:for	waiting	car
+punct	waiting	.

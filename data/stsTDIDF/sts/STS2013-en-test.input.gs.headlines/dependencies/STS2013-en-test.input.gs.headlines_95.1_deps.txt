@@ -1,0 +1,8 @@
+compound	suspect	Colorado
+compound	suspect	shooting
+nsubj	care	suspect
+cop	care	was
+case	care	under
+nmod:poss	care	psychiatrist
+case	psychiatrist	's
+root	ROOT	care

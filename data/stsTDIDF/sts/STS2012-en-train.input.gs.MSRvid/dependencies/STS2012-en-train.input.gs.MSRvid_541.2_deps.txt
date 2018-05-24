@@ -1,0 +1,8 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	rain	in
+det	rain	the
+nmod:in	standing	rain
+punct	standing	.

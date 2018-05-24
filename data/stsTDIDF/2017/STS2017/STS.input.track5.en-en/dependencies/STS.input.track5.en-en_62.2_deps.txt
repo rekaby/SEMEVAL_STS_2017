@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+det	child	a
+nsubj	is	child
+case	ball	with
+det	ball	a
+nmod:with	child	ball

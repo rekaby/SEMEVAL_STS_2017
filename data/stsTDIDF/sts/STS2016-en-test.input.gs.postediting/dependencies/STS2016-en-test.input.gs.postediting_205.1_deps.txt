@@ -1,0 +1,16 @@
+case	many	For
+nmod:for	prices	many
+punct	prices	,
+det	advantage	the
+amod	advantage	main
+nsubj	prices	advantage
+case	phones	of
+amod	phones	mobile
+nmod:of	advantage	phones
+nsubj	play	that
+acl:relcl	phones	play
+dobj	play	music
+cop	prices	is
+nmod:poss	prices	their
+root	ROOT	prices
+punct	prices	.

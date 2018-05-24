@@ -1,0 +1,12 @@
+root	ROOT	skip
+punct	skip	,
+conj:or	skip	leap
+punct	skip	,
+cc	skip	or
+conj:or	skip	move
+advmod	move	up
+cc	up	and
+conj:and	up	down
+cc	move	or
+conj:or	move	sideways
+punct	skip	.

@@ -1,0 +1,10 @@
+suit	one-piece	amod
+day	foggy	amod
+boardwalk	on	case
+suit	bathing	compound
+woman	day	nmod:on
+man	boardwalk	nmod:on
+man	with	case
+boardwalk	a	det
+woman	suit	nmod:in
+suit	man	nmod:with

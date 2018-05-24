@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	become	to
+xcomp	cause	become
+xcomp	become	violent
+cc	violent	or
+conj:or	violent	angry
+punct	cause	.

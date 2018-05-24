@@ -1,0 +1,5 @@
+bracelet	a	det
+bracelet	scratching	acl
+wearing	bracelet	dobj
+scratching	head	dobj
+bracelet	red	amod

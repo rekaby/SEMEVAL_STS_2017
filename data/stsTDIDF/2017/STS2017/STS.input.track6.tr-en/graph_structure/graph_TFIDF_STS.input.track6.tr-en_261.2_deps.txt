@@ -1,0 +1,10 @@
+swing	park	nmod:in
+swing	in	case
+ROOT	swaying	root
+swaying	are	aux
+swaying	swing	nmod:in
+swaying	.	punct
+boy	girl	conj:and
+swaying	boy	nsubj
+boy	and	cc
+swing	a	det

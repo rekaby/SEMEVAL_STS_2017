@@ -1,0 +1,9 @@
+det	Decision	The
+amod	Decision	Hard
+nsubj	Rescue	Decision
+neg	Rescue	Not
+mark	Rescue	to
+root	ROOT	Rescue
+det	Dolphin	an
+compound	Dolphin	Ailing
+dobj	Rescue	Dolphin

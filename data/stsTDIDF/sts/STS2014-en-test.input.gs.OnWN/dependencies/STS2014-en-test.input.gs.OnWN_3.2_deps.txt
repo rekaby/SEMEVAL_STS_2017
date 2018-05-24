@@ -1,0 +1,13 @@
+root	ROOT	abandon
+det	prey	the
+amod	prey	intended
+dobj	abandon	prey
+punct	prey	,
+appos	prey	turn
+punct	abandon	,
+cc	abandon	and
+conj:and	abandon	pursue
+det	prey	an
+amod	prey	inferior
+dobj	pursue	prey
+punct	abandon	.

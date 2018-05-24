@@ -1,0 +1,8 @@
+punct	arrested	`
+amod	arrested	Israeli
+punct	arrested	'
+amod	spy	arrested
+case	Yemen	in
+nmod:in	arrested	Yemen
+compound	spy	Mossad
+root	ROOT	spy

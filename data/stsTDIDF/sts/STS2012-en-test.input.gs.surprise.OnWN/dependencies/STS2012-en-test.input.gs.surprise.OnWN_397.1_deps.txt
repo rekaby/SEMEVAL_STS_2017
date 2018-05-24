@@ -1,0 +1,12 @@
+root	ROOT	behave
+case	way	in
+det	way	a
+amod	way	certain
+nmod:in	behave	way
+punct	behave	;
+parataxis	behave	have
+det	effect	a
+amod	effect	specific
+dobj	have	effect
+cc	have	or
+conj:or	have	outcome

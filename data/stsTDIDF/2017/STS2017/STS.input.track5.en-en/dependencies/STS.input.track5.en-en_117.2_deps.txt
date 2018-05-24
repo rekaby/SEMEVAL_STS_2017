@@ -1,0 +1,8 @@
+det	man	A
+nsubj	market	man
+cop	market	is
+case	market	at
+det	market	a
+compound	market	farmers
+root	ROOT	market
+punct	market	.

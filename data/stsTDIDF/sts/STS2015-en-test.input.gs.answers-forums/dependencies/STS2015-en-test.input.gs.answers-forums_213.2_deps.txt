@@ -1,0 +1,12 @@
+nsubjpass	bound	sufficient
+auxpass	bound	is
+det	bound	an
+amod	bound	upper
+ccomp	bound	bound
+punct	bound	,
+nsubjpass	bound	necessary
+auxpass	bound	is
+det	bound	a
+advmod	bound	lower
+root	ROOT	bound
+punct	bound	.

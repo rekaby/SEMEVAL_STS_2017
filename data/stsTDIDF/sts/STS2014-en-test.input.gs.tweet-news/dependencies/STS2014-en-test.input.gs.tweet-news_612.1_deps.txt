@@ -1,0 +1,14 @@
+nsubj	steps	U.S.
+root	ROOT	steps
+compound:prt	steps	up
+dobj	steps	involvement
+case	#pppj	in
+compound	#pppj	Mallpp
+nmod:in	involvement	#pppj
+nummod	#pppj	##
+appos	##	p
+dep	p	#pl
+nummod	p	###
+dep	#pl	p
+nummod	p	###
+nmod:npmod	p	p

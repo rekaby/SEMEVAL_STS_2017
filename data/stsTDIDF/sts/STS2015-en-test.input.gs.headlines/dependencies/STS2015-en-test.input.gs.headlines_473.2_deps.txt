@@ -1,0 +1,7 @@
+compound	stocks	Hong
+compound	stocks	Kong
+nmod:npmod	higher	stocks
+advmod	%	close
+nummod	%	2.33
+nmod:npmod	higher	%
+root	ROOT	higher

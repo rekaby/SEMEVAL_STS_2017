@@ -1,0 +1,8 @@
+root	ROOT	gnaw
+nmod	gnaw	into
+punct	gnaw	;
+parataxis	gnaw	make
+xcomp	make	resentful
+cc	resentful	or
+conj:or	resentful	angry
+punct	gnaw	.

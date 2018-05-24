@@ -1,0 +1,6 @@
+playing	house	nmod:inside
+playing	Doctor	dobj
+house	inside	case
+playing	girls	nsubj
+house	their	nmod:poss
+girls	Two	nummod

@@ -1,0 +1,11 @@
+compound	service	New
+amod	service	legit
+compound	service	download
+nsubj	launches	service
+root	ROOT	launches
+case	users	with
+compound	users	PC
+nmod:with	launches	users
+case	mind	in
+nmod:in	launches	mind
+punct	launches	.

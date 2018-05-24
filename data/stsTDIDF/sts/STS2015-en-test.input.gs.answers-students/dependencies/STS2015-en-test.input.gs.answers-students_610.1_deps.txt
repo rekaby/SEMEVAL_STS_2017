@@ -1,0 +1,9 @@
+det	difference	The
+nsubj	volts	difference
+case	states	between
+det	states	the
+amod	states	electrical
+nmod:between	difference	states
+cop	volts	is
+nummod	volts	1.5
+root	ROOT	volts

@@ -1,0 +1,14 @@
+det	crowd	A
+amod	crowd	huge
+nsubj	dancing	crowd
+aux	dancing	is
+root	ROOT	dancing
+xcomp	dancing	crazy
+case	band	in
+mwe	in	front
+mwe	in	of
+det	band	a
+amod	band	heavy
+compound	band	rock
+nmod:in_front_of	crazy	band
+punct	dancing	.

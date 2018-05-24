@@ -1,0 +1,9 @@
+det	man	The
+nsubj	ran	man
+root	ROOT	ran
+cc	ran	and
+conj:and	ran	jumped
+case	wall	against
+det	wall	the
+nmod:against	jumped	wall
+punct	ran	.

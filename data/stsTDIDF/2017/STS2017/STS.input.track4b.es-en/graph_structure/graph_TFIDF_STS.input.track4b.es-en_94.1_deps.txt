@@ -1,0 +1,15 @@
+cell	his	nmod:poss
+removed	cell	nmod:from
+underwear	his	nmod:poss
+underwear	flip-flops	conj:and
+underwear	glasses	conj:and
+underwear	,	punct
+testified	Manning	nsubj
+removed	were	auxpass
+testified	,	punct
+removed	underwear	nsubjpass
+cell	from	case
+testified	removed	ccomp
+testified	night	nmod:tmod
+underwear	and	cc
+night	That	det

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	painting	woman
+aux	painting	is
+root	ROOT	painting
+nmod:poss	lips	her
+dobj	painting	lips
+punct	painting	.

@@ -1,0 +1,9 @@
+smiling	while	mark
+sitting	smiling	advcl
+sitting	People	nsubj
+sitting	tables	nmod:around
+tables	around	case
+smiling	and	cc
+smiling	laughing	conj:and
+tables	lit	amod
+lit	dimly	advmod

@@ -1,0 +1,17 @@
+det	woman	A
+amod	woman	young
+nsubj	stands	woman
+case	cap	with
+det	cap	a
+amod	cap	knit
+nmod:with	woman	cap
+root	ROOT	stands
+case	wall	against
+det	wall	the
+nmod:against	stands	wall
+case	Pizza	of
+det	Domino	a
+nmod:poss	Pizza	Domino
+case	Domino	's
+nmod:of	wall	Pizza
+punct	stands	.

@@ -1,0 +1,7 @@
+nsubj	threatens	Israel
+root	ROOT	threatens
+dobj	threatens	action
+case	ship	against
+compound	ship	Gaza
+compound	ship	aid
+nmod:against	action	ship

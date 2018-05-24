@@ -1,0 +1,9 @@
+det	band	The
+nsubj	plays	band
+root	ROOT	plays
+case	group	for
+det	group	a
+nmod:for	plays	group
+case	people	of
+nmod:of	group	people
+punct	plays	.

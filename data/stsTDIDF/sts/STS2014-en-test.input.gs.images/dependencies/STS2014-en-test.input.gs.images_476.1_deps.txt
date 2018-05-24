@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+nummod	women	two
+conj:and	man	women
+acl	women	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+mark	sitting	while
+acl	man	sitting
+case	sofa	on
+det	sofa	a
+amod	sofa	blue
+nmod:on	sitting	sofa
+punct	man	.

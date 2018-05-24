@@ -1,0 +1,5 @@
+Bring	DJ	iobj
+ROOT	Bring	root
+Bring	lot	dobj
+money	club	nmod:for
+club	for	case

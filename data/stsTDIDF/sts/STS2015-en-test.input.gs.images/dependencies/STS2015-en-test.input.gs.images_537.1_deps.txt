@@ -1,0 +1,10 @@
+det	man	The
+amod	man	young
+nsubj	skateboarding	man
+cop	skateboarding	is
+root	ROOT	skateboarding
+case	park	at
+det	park	a
+compound	park	skate
+nmod:at	skateboarding	park
+punct	skateboarding	.

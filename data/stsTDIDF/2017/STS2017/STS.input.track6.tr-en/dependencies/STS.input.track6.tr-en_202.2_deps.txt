@@ -1,0 +1,11 @@
+det	boy	A
+nsubjpass	thrown	boy
+auxpass	thrown	was
+root	ROOT	thrown
+case	air	into
+det	air	the
+nmod:into	thrown	air
+case	beach	on
+det	beach	the
+nmod:on	thrown	beach
+punct	thrown	.

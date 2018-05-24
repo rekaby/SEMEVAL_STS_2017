@@ -1,0 +1,10 @@
+det	people	Some
+root	ROOT	people
+acl	people	walking
+case	streets	in
+det	streets	the
+nmod:in	walking	streets
+case	city	of
+det	city	a
+nmod:of	streets	city
+punct	people	.

@@ -1,0 +1,9 @@
+nsubj	have	Moore
+aux	have	did
+neg	have	not
+root	ROOT	have
+det	response	an
+amod	response	immediate
+dobj	have	response
+nmod:tmod	response	Tuesday
+punct	have	.

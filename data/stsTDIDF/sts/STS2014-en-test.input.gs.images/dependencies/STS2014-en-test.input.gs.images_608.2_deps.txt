@@ -1,0 +1,14 @@
+det	room	A
+compound	room	living
+root	ROOT	room
+case	sofas	with
+amod	sofas	large
+nmod:with	room	sofas
+cc	sofas	and
+det	table	a
+compound	table	dining
+conj:and	sofas	table
+case	background	in
+det	background	the
+nmod:in	table	background
+punct	room	.

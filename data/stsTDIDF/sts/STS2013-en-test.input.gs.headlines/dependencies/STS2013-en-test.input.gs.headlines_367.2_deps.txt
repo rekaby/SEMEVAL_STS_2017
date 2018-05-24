@@ -1,0 +1,12 @@
+compound	MPs	Iran
+nsubj	say	MPs
+root	ROOT	say
+xcomp	say	ready
+mark	ban	to
+xcomp	ready	ban
+compound	exports	oil
+dobj	ban	exports
+case	states	to
+det	EU	some
+compound	states	EU
+nmod:to	ban	states

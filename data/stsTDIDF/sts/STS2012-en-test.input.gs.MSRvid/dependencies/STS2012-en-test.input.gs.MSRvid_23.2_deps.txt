@@ -1,0 +1,12 @@
+det	dog	A
+nsubj	trying	dog
+aux	trying	is
+root	ROOT	trying
+mark	eat	to
+xcomp	trying	eat
+det	bacon	the
+dobj	eat	bacon
+case	back	on
+nmod:poss	back	its
+nmod:on	eat	back
+punct	trying	.

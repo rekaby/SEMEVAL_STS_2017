@@ -1,0 +1,16 @@
+nsubj	losers	Consumers
+aux	losers	will
+cop	losers	be
+det	losers	the
+root	ROOT	losers
+punct	losers	,
+case	employees	with
+nmod:with	losers	employees
+punct	losers	,
+cc	losers	and
+conj:and	losers	competitiveness
+cc	competitiveness	and
+compound	European	growth
+amod	European	régresseront
+conj:and	competitiveness	European
+punct	losers	.

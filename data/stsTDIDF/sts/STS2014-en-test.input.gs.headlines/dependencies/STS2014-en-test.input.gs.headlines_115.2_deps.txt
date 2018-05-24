@@ -1,0 +1,5 @@
+nsubj	talks	Politicians
+case	violence	in
+compound	violence	flag
+nmod:in	Politicians	violence
+root	ROOT	talks

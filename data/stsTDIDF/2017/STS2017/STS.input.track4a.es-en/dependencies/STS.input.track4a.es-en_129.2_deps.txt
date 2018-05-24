@@ -1,0 +1,13 @@
+nummod	men	Two
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+compound	rope	jump
+dobj	playing	rope
+case	middle	in
+det	middle	the
+nmod:in	playing	middle
+case	street	of
+det	street	the
+nmod:of	middle	street
+punct	playing	.

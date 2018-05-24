@@ -1,0 +1,9 @@
+det	toddler	The
+nsubj	walking	toddler
+aux	walking	is
+root	ROOT	walking
+case	pram	next
+mwe	next	to
+det	pram	the
+nmod:next_to	walking	pram
+punct	walking	.

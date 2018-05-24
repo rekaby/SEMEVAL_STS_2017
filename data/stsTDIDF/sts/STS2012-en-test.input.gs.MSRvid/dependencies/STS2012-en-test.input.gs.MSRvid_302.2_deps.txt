@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	little
+nsubj	walking	girl
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	street	the
+dobj	walking	street
+punct	walking	.

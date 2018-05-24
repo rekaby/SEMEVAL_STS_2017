@@ -1,0 +1,7 @@
+amod	opposition	Syrian
+nsubj	agree	opposition
+root	ROOT	agree
+case	talks	to
+compound	talks	landmark
+compound	talks	peace
+nmod:to	agree	talks

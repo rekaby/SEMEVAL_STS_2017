@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+nsubj	stands	dog
+root	ROOT	stands
+case	holding	in
+det	holding	the
+compound	holding	surf
+nmod:in	stands	holding
+det	ball	a
+amod	ball	red
+compound	ball	rubber
+dobj	holding	ball
+punct	stands	.

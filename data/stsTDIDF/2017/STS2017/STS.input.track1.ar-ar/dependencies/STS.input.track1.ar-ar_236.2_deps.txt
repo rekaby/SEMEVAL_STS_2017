@@ -1,0 +1,9 @@
+det	couple	A
+nsubj	talking	couple
+root	ROOT	talking
+cc	talking	and
+aux	enjoying	are
+conj:and	talking	enjoying
+det	drinks	some
+dobj	enjoying	drinks
+punct	talking	.

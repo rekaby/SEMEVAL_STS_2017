@@ -1,0 +1,6 @@
+compound	stocks	US
+nsubj	ease	stocks
+root	ROOT	ease
+case	trading	in
+amod	trading	choppy
+nmod:in	ease	trading

@@ -1,0 +1,8 @@
+root	ROOT	Study
+punct	Study	:
+dep	Study	More
+case	Delivery	to
+compound	Delivery	Meal
+nmod:to	More	Delivery
+case	Food	Than
+nmod:than	More	Food

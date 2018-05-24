@@ -1,0 +1,5 @@
+root	ROOT	People
+case	rain	in
+det	rain	the
+nmod:in	People	rain
+punct	People	.

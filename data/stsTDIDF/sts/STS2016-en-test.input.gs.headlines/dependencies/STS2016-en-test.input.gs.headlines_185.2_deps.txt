@@ -1,0 +1,8 @@
+compound	Ham	West
+nsubj	beats	Ham
+root	ROOT	beats
+compound	2-0	Newcastle
+dobj	beats	2-0
+case	League	in
+compound	League	Premier
+nmod:in	beats	League

@@ -1,0 +1,8 @@
+compound	blasts	Bomb
+root	ROOT	blasts
+mark	kill	before
+amod	rally	Indian
+compound	rally	opposition
+nsubj	kill	rally
+acl	blasts	kill
+dobj	kill	4

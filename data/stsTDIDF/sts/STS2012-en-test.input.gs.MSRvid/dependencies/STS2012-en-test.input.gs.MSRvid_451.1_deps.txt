@@ -1,0 +1,7 @@
+det	man	A
+nsubj	drawing	man
+aux	drawing	is
+root	ROOT	drawing
+det	picture	a
+dobj	drawing	picture
+punct	drawing	.

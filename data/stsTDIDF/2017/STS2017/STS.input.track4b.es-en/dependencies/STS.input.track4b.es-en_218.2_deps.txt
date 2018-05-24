@@ -1,0 +1,16 @@
+nsubj	program	Norway
+cop	program	is
+neg	usually	not
+advmod	program	usually
+case	program	on
+det	program	the
+compound	program	world
+compound	program	news
+root	ROOT	program
+punct	program	,
+cc	program	and
+nsubj	seem	most
+conj:and	program	seem
+case	that	like
+nmod:like	seem	that
+punct	program	.

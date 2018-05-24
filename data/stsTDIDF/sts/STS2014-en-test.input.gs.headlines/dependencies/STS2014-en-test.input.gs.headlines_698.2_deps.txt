@@ -1,0 +1,9 @@
+nummod	landslide	8
+amod	landslide	dead
+punct	landslide	,
+nummod	landslide	11
+amod	landslide	missing
+case	China	in
+compound	China	SW
+nmod:in	missing	China
+root	ROOT	landslide

@@ -1,0 +1,17 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	wearing
+amod	equipment	black
+compound	equipment	cycling
+dobj	wearing	equipment
+cc	equipment	and
+det	pedals	a
+amod	pedals	white
+compound	pedals	helmet
+conj:and	equipment	pedals
+amod	uphill	hard
+amod	pedals	uphill
+case	bicycle	on
+nmod:poss	bicycle	her
+nmod:on	uphill	bicycle
+punct	woman	.

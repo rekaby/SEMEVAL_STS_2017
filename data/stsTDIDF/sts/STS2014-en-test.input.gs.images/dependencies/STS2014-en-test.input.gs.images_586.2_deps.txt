@@ -1,0 +1,16 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	standing
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	standing	room
+case	dog	with
+det	dog	a
+amod	dog	black
+nmod:with	room	dog
+acl	dog	looking
+case	camera	towards
+det	camera	the
+nmod:towards	looking	camera
+punct	women	.

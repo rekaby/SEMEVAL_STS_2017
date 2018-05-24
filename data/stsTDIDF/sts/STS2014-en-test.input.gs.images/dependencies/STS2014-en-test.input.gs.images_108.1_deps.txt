@@ -1,0 +1,13 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	posing
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	an
+compound	building	apartment
+nmod:in_front_of	posing	building
+case	snow	in
+det	snow	the
+nmod:in	building	snow
+punct	woman	.

@@ -1,0 +1,10 @@
+root	ROOT	8
+amod	8	dead
+case	rains	after
+amod	rains	heavy
+nmod:after	dead	rains
+case	island	on
+nmod:on	rains	island
+case	Vincent	of
+compound	Vincent	St
+nmod:of	island	Vincent

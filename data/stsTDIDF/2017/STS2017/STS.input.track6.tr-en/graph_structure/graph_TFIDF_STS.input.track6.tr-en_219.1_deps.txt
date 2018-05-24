@@ -1,0 +1,9 @@
+night	around	case
+sparkler	a	det
+waving	sparkler	dobj
+waving	night	nmod:at
+boy	Asian	amod
+waving	boy	nsubj
+waving	is	aux
+ROOT	waving	root
+waving	.	punct

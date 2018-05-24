@@ -1,0 +1,9 @@
+compound	toll	Death
+nsubj	rises	toll
+root	ROOT	rises
+case	12	to
+nmod:to	rises	12
+case	mine	in
+compound	mine	Indonesia
+nmod:in	12	mine
+dobj	rises	collapse

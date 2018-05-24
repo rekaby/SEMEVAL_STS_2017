@@ -1,0 +1,6 @@
+nsubj	dies	Worker
+root	ROOT	dies
+case	stadium	at
+compound	stadium	World
+compound	stadium	Cup
+nmod:at	dies	stadium

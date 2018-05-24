@@ -1,0 +1,8 @@
+compound	Beckham	David
+root	ROOT	Beckham
+mark	retire	to
+acl	Beckham	retire
+case	end	at
+nmod:at	retire	end
+case	season	of
+nmod:of	end	season

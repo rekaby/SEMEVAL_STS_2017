@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	runs	boy
+root	ROOT	runs
+advmod	runs	away
+advmod	runs	away
+case	waves	from
+det	waves	the
+compound	waves	ocean
+nmod:from	runs	waves
+acl	waves	approaching
+punct	runs	.

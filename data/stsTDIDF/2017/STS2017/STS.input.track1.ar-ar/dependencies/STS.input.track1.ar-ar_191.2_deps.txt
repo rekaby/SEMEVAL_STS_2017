@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	does
+det	trick	a
+dobj	does	trick
+case	bike	on
+det	bike	a
+nmod:on	trick	bike
+case	air	in
+det	air	the
+nmod:in	bike	air
+punct	man	.

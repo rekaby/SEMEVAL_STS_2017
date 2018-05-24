@@ -1,0 +1,9 @@
+piling	is	aux
+groups	rocks	nmod:of
+sea	by	case
+piling	groups	dobj
+piling	man	nsubj
+rocks	of	case
+ROOT	piling	root
+piling	.	punct
+piling	sea	nmod:by

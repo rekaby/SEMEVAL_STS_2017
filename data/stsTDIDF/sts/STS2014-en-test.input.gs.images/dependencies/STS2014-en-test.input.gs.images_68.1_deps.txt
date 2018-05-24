@@ -1,0 +1,12 @@
+root	ROOT	Brown
+cc	Brown	and
+amod	standing	white
+compound	standing	cow
+conj:and	Brown	standing
+case	grass	in
+nmod:in	Brown	grass
+case	side	at
+nmod:at	Brown	side
+case	road	of
+nmod:of	side	road
+punct	Brown	.

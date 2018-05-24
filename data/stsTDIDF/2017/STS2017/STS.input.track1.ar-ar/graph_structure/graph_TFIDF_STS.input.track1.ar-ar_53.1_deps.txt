@@ -1,0 +1,8 @@
+factor	Rocks	compound
+resides	factor	nsubj
+ROOT	resides	root
+airports	of	case
+resides	.	punct
+resides	one	nmod:in
+airports	the	det
+one	airports	nmod:of

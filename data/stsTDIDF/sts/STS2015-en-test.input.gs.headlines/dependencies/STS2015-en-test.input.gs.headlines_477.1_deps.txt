@@ -1,0 +1,6 @@
+compound	deal	Iran
+amod	deal	nuclear
+nsubj	agreed	deal
+root	ROOT	agreed
+case	talks	at
+nmod:at	agreed	talks

@@ -1,0 +1,4 @@
+compound	Discharged	Mandela
+root	ROOT	Discharged
+case	Hospital	From
+nmod:from	Discharged	Hospital

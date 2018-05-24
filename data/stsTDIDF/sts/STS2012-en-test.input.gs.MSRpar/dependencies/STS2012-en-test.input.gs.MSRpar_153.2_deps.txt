@@ -1,0 +1,26 @@
+nsubj	said	IBM
+root	ROOT	said
+det	products	the
+amod	products	Rational
+nsubjpass	integrated	products
+auxpass	integrated	were
+advmod	integrated	also
+ccomp	said	integrated
+case	PurifyPlus	with
+amod	PurifyPlus	Rational
+nmod:with	integrated	PurifyPlus
+punct	PurifyPlus	,
+nsubj	allows	which
+acl:relcl	PurifyPlus	allows
+dobj	allows	developers
+mark	work	to
+xcomp	allows	work
+case	Java	in
+nmod:in	work	Java
+punct	PurifyPlus	,
+compound	C#	Visual
+appos	PurifyPlus	C#
+cc	C#	and
+conj:and	C#	VisualBasic
+punct	said	.-25) root(ROOT-0, Net
+punct	Net	.

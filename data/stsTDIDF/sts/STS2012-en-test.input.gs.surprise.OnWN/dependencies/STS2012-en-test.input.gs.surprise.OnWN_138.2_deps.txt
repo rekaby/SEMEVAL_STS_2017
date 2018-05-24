@@ -1,0 +1,10 @@
+det	likeness	any
+root	ROOT	likeness
+case	person	of
+det	person	a
+nmod:of	likeness	person
+punct	likeness	,
+case	medium	in
+det	medium	any
+nmod:in	likeness	medium
+punct	likeness	.

@@ -1,0 +1,12 @@
+nummod	people	Four
+nsubj	meeting	people
+aux	meeting	are
+root	ROOT	meeting
+case	table	around
+nmod:around	meeting	table
+case	room	in
+det	room	a
+amod	room	modern
+amod	room	decorated
+nmod:in	table	room
+punct	meeting	.

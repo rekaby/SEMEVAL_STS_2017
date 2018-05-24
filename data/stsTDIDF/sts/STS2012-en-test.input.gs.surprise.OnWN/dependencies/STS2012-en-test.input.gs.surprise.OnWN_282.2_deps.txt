@@ -1,0 +1,9 @@
+det	processes	the
+amod	processes	cognitive
+root	ROOT	processes
+advmod	remembered	whereby
+amod	experience	past
+nsubjpass	remembered	experience
+auxpass	remembered	is
+acl:relcl	processes	remembered
+punct	processes	.

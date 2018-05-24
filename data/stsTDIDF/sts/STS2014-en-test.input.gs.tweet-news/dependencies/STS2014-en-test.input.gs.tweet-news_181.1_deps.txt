@@ -1,0 +1,16 @@
+amod	!?	Excellent
+root	ROOT	!?-2) punct(withdrawal-5, :
+compound	withdrawal	#Obama
+amod	withdrawal	accelerating
+compound	withdrawal	troops
+root	ROOT	withdrawal
+case	#Afghanistan	from
+nmod:from	withdrawal	#Afghanistan
+punct	withdrawal	,
+amod	months	several
+nmod:npmod	ahead	months
+advmod	withdrawal	ahead
+case	schedule	of
+nmod:of	ahead	schedule
+punct	withdrawal	:
+punct	withdrawal	?

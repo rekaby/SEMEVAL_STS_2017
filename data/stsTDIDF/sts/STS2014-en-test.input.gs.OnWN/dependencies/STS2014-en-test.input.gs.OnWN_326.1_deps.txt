@@ -1,0 +1,13 @@
+root	ROOT	Improve
+cc	Improve	or
+conj:or	Improve	perfect
+mark	polishing	by
+dep	perfect	polishing
+punct	polishing	,
+conj:or	polishing	pruning
+punct	polishing	,
+cc	polishing	or
+conj:or	polishing	making
+advmod	concise	more
+dobj	making	concise
+punct	Improve	.

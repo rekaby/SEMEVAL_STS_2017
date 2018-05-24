@@ -1,0 +1,9 @@
+nsubj	cleared	France
+root	ROOT	cleared
+mark	impose	to
+xcomp	cleared	impose
+amod	tax	controversial
+punct	tax	`
+amod	tax	millionaire
+dobj	impose	tax
+punct	cleared	'

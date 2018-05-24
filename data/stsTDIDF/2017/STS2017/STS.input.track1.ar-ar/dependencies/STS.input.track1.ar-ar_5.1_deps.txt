@@ -1,0 +1,13 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	sitting
+case	grass	on
+det	grass	the
+nmod:on	sitting	grass
+punct	men	,
+cc	men	and
+case	them	with
+conj:and	men	them
+det	banana	a
+dep	them	banana
+punct	men	.

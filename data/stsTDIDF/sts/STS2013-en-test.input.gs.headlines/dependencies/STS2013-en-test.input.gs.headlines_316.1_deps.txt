@@ -1,0 +1,7 @@
+nsubj	backs	China
+root	ROOT	backs
+compound	Lanka	Sri
+dobj	backs	Lanka
+case	resolution	on
+compound	resolution	UN
+nmod:on	backs	resolution

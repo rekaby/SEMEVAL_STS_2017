@@ -1,0 +1,6 @@
+dogs	The	det
+chasing	cat	dobj
+chasing	.	punct
+chasing	are	aux
+ROOT	chasing	root
+chasing	dogs	nsubj

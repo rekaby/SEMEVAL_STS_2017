@@ -1,0 +1,6 @@
+det	journey	A
+root	ROOT	journey
+case	purpose	for
+det	purpose	some
+nmod:for	journey	purpose
+punct	journey	.

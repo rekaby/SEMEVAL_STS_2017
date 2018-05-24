@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	transporting	people
+aux	transporting	were
+root	ROOT	transporting
+det	platform	the
+dobj	transporting	platform
+case	place	to
+det	place	a
+amod	place	new
+nmod:to	transporting	place
+punct	transporting	.

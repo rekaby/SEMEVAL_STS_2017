@@ -1,0 +1,10 @@
+det	man	A
+nsubj	making	man
+aux	making	is
+root	ROOT	making
+det	speech	a
+dobj	making	speech
+case	podium	at
+det	podium	the
+nmod:at	making	podium
+punct	making	.

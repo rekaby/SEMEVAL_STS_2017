@@ -1,0 +1,17 @@
+case	period	During
+det	period	a
+nmod:during	raised	period
+case	decade	of
+advmod	decade	nearly
+det	decade	a
+nmod:of	period	decade
+punct	raised	,
+compound	Associates	Telemarketing
+nsubj	raised	Associates
+root	ROOT	raised
+advmod	$	more
+mwe	more	than
+dobj	raised	$
+compound	million	7
+nummod	$	million
+punct	raised	.

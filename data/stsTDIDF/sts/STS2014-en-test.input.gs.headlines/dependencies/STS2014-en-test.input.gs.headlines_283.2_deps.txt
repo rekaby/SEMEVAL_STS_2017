@@ -1,0 +1,6 @@
+compound	talks	Iran
+amod	talks	nuclear
+nsubj	start	talks
+root	ROOT	start
+case	Geneva	in
+nmod:in	start	Geneva

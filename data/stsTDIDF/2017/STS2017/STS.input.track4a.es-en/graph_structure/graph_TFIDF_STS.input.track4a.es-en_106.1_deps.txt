@@ -1,0 +1,5 @@
+guys	together	advmod
+ROOT	guys	root
+guys	Four	nummod
+guys	boat	nmod:on
+boat	on	case

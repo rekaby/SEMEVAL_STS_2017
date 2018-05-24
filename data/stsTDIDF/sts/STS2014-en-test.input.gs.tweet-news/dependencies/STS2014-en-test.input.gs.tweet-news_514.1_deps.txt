@@ -1,0 +1,13 @@
+det	Gap	A
+compound	Gap	Generation
+root	ROOT	Gap
+punct	Gap	?-4) neg(Site-5, Not
+case	Site	on
+det	Site	This
+compound	Site	Web
+root	ROOT	Site
+punct	School	-LRB-
+compound	School	Harvard
+compound	School	Business
+appos	Site	School
+punct	School	-RRB-

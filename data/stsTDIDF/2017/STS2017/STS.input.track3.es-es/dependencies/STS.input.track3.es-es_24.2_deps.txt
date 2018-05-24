@@ -1,0 +1,11 @@
+det	man	The
+nsubj	move	man
+cc	man	and
+det	woman	the
+conj:and	man	woman
+root	ROOT	move
+advmod	move	away
+case	other	from
+det	other	each
+nmod:from	move	other
+punct	move	.

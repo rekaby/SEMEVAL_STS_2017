@@ -1,0 +1,10 @@
+compound	standing	Man
+root	ROOT	standing
+case	car	in
+mwe	in	front
+mwe	in	of
+det	car	a
+compound	car	silver
+compound	car	rail
+nmod:in_front_of	standing	car
+punct	standing	.

@@ -1,0 +1,9 @@
+det	supervisor	A
+compound	supervisor	woman
+nsubj	instructing	supervisor
+aux	instructing	is
+root	ROOT	instructing
+det	workers	the
+amod	workers	male
+dobj	instructing	workers
+punct	instructing	.

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	firing	man
+cop	firing	is
+root	ROOT	firing
+det	gun	a
+compound	gun	shot
+dobj	firing	gun
+punct	firing	.

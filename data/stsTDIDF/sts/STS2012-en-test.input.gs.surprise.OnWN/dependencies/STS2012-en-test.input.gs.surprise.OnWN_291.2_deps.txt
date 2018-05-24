@@ -1,0 +1,11 @@
+root	ROOT	pass
+case	esophagus	through
+det	esophagus	the
+nmod:through	pass	esophagus
+case	part	as
+nmod:as	pass	part
+case	eating	of
+nmod:of	part	eating
+cc	eating	or
+conj:or	eating	drinking
+punct	pass	.

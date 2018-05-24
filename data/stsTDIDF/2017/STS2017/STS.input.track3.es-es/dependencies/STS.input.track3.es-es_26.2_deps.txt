@@ -1,0 +1,16 @@
+det	band	A
+root	ROOT	band
+acl	band	placed
+case	stage	on
+det	stage	the
+nmod:on	placed	stage
+punct	band	,
+case	guitarist	with
+det	guitarist	the
+nmod:with	band	guitarist
+cc	guitarist	and
+det	player	the
+compound	player	bass
+conj:and	guitarist	player
+case	front	in
+nmod:in	guitarist	front

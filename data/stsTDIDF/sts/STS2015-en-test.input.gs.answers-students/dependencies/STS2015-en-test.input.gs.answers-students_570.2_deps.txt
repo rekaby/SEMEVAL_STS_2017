@@ -1,0 +1,12 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+amod	path	closed
+nsubj	is	path
+acl	path	containing
+cc:preconj	bulb	both
+det	bulb	the
+dobj	containing	bulb
+cc	bulb	and
+det	battery	a
+conj:and	bulb	battery

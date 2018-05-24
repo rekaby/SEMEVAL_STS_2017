@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	applying	woman
+aux	applying	is
+root	ROOT	applying
+dobj	applying	stickers
+case	face	to
+nmod:poss	face	her
+nmod:to	applying	face
+punct	applying	.

@@ -1,0 +1,10 @@
+nsubj	slips	Oil
+root	ROOT	slips
+case	$	below
+nmod:below	slips	$
+nummod	$	108
+advmod	talks	ahead
+case	Iran	of
+nsubj	talks	Iran
+amod	talks	nuclear
+dep	$	talks

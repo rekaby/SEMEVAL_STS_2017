@@ -1,0 +1,11 @@
+nummod	men	Two
+amod	men	young
+nsubj	wrestle	men
+acl	men	wearing
+amod	helmets	soft
+dobj	wearing	helmets
+root	ROOT	wrestle
+case	court	with
+det	court	a
+nmod:with	wrestle	court
+punct	wrestle	.

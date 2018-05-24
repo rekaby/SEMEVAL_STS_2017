@@ -1,0 +1,6 @@
+man	clothes	nmod:in
+man	skateboard	nmod:on
+clothes	blue	amod
+skateboard	on	case
+skateboard	a	det
+clothes	in	case

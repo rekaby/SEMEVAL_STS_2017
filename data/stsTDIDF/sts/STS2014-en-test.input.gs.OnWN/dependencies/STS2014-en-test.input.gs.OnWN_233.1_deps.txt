@@ -1,0 +1,8 @@
+root	ROOT	study
+advmod	preparing	intensively
+mark	preparing	as
+mwe	as	if
+acl	study	preparing
+case	test	for
+det	test	a
+nmod:for	preparing	test

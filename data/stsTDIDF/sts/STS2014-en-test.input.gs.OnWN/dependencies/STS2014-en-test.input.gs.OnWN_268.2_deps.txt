@@ -1,0 +1,7 @@
+root	ROOT	raise
+case	level	to
+det	level	a
+amod	level	higher
+compound	level	energy
+nmod:to	raise	level
+punct	raise	.

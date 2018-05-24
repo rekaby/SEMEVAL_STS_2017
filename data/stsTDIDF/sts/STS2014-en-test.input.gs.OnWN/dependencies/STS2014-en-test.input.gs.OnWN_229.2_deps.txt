@@ -1,0 +1,11 @@
+root	ROOT	fasten
+mark	passing	by
+advcl	fasten	passing
+conj:or	passing	passing
+case	hole	through
+det	hole	a
+nmod:through	passing	hole
+cc	passing	or
+case	something	around
+nmod:around	passing	something
+punct	fasten	.

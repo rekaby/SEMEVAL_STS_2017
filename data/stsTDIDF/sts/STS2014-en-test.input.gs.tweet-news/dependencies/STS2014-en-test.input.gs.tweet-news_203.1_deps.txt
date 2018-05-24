@@ -1,0 +1,12 @@
+amod	mutations	New
+root	ROOT	mutations
+acl	mutations	discovered
+case	Useful	in
+compound	Useful	#melanoma
+nmod:in	discovered	Useful
+mark	decoding	in
+advcl	discovered	decoding
+advmod	develops	how
+nsubj	develops	it
+ccomp	decoding	develops
+punct	mutations	.-12) root(ROOT-0, #cancer

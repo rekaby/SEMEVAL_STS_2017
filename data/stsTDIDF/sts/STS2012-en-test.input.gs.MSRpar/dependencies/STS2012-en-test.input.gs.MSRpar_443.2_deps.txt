@@ -1,0 +1,16 @@
+advmod	quarantined	Still
+punct	quarantined	,
+nsubj	quarantined	Singapore
+root	ROOT	quarantined
+nummod	people	70
+dobj	quarantined	people
+nsubj	contact	who
+aux	contact	had
+cop	contact	been
+case	contact	in
+amod	contact	close
+acl:relcl	people	contact
+case	scientist	with
+det	scientist	the
+nmod:with	contact	scientist
+punct	quarantined	.

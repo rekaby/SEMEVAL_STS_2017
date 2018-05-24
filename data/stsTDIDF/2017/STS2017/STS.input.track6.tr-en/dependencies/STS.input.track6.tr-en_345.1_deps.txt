@@ -1,0 +1,15 @@
+det	cowboy	A
+root	ROOT	cowboy
+acl	cowboy	riding
+det	horse	a
+dobj	riding	horse
+case	rodeo	at
+det	rodeo	a
+nmod:at	riding	rodeo
+case	seconds	with
+nummod	seconds	8
+nmod:with	riding	seconds
+case	clock	on
+det	clock	the
+nmod:on	seconds	clock
+punct	cowboy	.

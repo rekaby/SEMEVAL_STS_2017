@@ -1,0 +1,14 @@
+det	charges	The
+nsubj	carry	charges
+case	espionage	of
+nmod:of	charges	espionage
+cc	charges	and
+conj:and	charges	aiding
+det	enemy	the
+dobj	aiding	enemy
+aux	carry	can
+root	ROOT	carry
+det	penalty	the
+compound	penalty	death
+dobj	carry	penalty
+punct	carry	.

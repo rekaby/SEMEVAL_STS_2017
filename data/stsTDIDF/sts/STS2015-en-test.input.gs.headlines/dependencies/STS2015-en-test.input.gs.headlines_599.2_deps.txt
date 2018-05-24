@@ -1,0 +1,7 @@
+root	ROOT	Bangladesh
+punct	Bangladesh	:
+compound	Ahead	Crackdown
+compound	Ahead	Escalates
+dep	Bangladesh	Ahead
+case	Election	of
+nmod:of	Ahead	Election

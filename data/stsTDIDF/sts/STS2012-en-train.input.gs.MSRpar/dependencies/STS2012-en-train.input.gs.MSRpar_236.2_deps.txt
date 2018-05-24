@@ -1,0 +1,16 @@
+det	news	The
+nsubj	comes	news
+advmod	comes	also
+root	ROOT	comes
+case	conjunction	in
+nmod:in	comes	conjunction
+case	conference	with
+compound	conference	Suns
+amod	conference	annual
+compound	conference	JavaOne
+compound	conference	developers
+nmod:with	conjunction	conference
+case	Francisco	in
+compound	Francisco	San
+nmod:in	conference	Francisco
+punct	comes	.

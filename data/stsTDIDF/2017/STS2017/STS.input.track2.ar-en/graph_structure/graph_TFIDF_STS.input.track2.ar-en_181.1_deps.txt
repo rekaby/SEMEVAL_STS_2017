@@ -1,0 +1,7 @@
+child	jacket	nmod:in
+has	toy	dobj
+toy	a	det
+toy	round	amod
+has	child	nsubj
+jacket	in	case
+child	The	det

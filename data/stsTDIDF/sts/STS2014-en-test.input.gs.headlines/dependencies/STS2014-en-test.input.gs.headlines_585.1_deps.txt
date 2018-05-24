@@ -1,0 +1,10 @@
+nummod	dead	Three
+root	ROOT	dead
+punct	dead	,
+case	gunman	including
+nmod:including	dead	gunman
+punct	dead	,
+case	mall	in
+compound	mall	Maryland
+nmod:in	dead	mall
+dep	dead	shooting

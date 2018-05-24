@@ -1,0 +1,8 @@
+compound	concerns	U.S.
+nsubj	grow	concerns
+root	ROOT	grow
+case	weapons	about
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+nmod:about	grow	weapons

@@ -1,0 +1,6 @@
+root	ROOT	13
+acl	13	killed
+case	attack	in
+amod	attack	Afgan
+compound	attack	terror
+nmod:in	killed	attack

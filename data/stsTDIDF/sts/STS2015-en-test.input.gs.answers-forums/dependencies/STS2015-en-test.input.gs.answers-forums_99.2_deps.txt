@@ -1,0 +1,11 @@
+csubj	allows	Adding
+dobj	Adding	soap
+case	water	to
+nmod:to	Adding	water
+root	ROOT	allows
+det	water	the
+dobj	allows	water
+mark	dissolve	to
+xcomp	allows	dissolve
+dobj	dissolve	oils
+punct	allows	.

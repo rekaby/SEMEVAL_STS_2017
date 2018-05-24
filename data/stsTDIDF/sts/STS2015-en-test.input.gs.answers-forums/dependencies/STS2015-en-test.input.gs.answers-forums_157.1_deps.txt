@@ -1,0 +1,15 @@
+det	woman	A
+amod	woman	wonderful
+nsubj	has	woman
+nsubj	know	I
+acl:relcl	woman	know
+root	ROOT	has
+det	bag	the
+compound	bag	Habenera
+dobj	has	bag
+case	REI	by
+nmod:by	has	REI
+punct	link	-LRB-
+appos	REI	link
+punct	link	-RRB-
+punct	has	.

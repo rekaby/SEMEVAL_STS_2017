@@ -1,0 +1,15 @@
+nmod:poss	worry	Your
+nsubj	one	worry
+cop	one	is
+det	one	a
+amod	one	valid
+root	ROOT	one
+punct	one	;
+det	reader	the
+nsubjpass	frustrated	reader
+aux	frustrated	could
+auxpass	frustrated	be
+parataxis	one	frustrated
+case	this	by
+nmod:agent	frustrated	this
+punct	one	.

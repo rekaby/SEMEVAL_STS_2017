@@ -1,0 +1,12 @@
+nummod	men	Two
+nsubj	play	men
+root	ROOT	play
+det	guitar	a
+dobj	play	guitar
+mark	boat	while
+nsubj	boat	they
+cop	boat	are
+case	boat	on
+det	boat	a
+advcl:on	play	boat
+punct	play	.

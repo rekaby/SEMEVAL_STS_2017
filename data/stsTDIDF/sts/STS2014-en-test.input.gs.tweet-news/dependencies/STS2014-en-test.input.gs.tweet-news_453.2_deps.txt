@@ -1,0 +1,13 @@
+nsubj	deploys	Egypt
+root	ROOT	deploys
+dobj	deploys	troops
+case	Suez	to
+nmod:to	deploys	Suez
+mark	quell	to
+advcl	deploys	quell
+punct	quell	`
+case	control	out
+mwe	out	of
+nmod:out_of	quell	control
+punct	control	'
+dobj	quell	clashes

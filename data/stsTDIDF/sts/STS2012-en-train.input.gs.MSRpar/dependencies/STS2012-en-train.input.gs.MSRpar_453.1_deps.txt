@@ -1,0 +1,14 @@
+amod	states	Several
+nsubj	passed	states
+cc	states	and
+det	government	the
+amod	government	federal
+conj:and	states	government
+advmod	passed	later
+root	ROOT	passed
+amod	bans	similar
+cc	similar	or
+advmod	strict	more
+conj:or	similar	strict
+dobj	passed	bans
+punct	passed	.

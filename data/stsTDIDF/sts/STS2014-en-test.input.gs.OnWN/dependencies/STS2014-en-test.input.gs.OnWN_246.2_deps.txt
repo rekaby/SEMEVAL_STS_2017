@@ -1,0 +1,13 @@
+root	ROOT	cause
+mark	go	to
+xcomp	cause	go
+mark	engaged	on
+cc	on	or
+conj:or	on	to
+auxpass	engaged	be
+advcl	go	engaged
+cc	engaged	or
+conj:or	engaged	set
+case	operation	in
+nmod:in	engaged	operation
+punct	cause	.

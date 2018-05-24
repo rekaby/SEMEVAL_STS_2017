@@ -1,0 +1,16 @@
+nsubj	said	He
+advmod	said	also
+root	ROOT	said
+dobj	said	Shockey
+root	Shockey	is
+punct	is	``
+root	``	living
+det	life	the
+compound	life	dream
+dobj	living	life
+case	athlete	of
+det	athlete	a
+compound	athlete	New
+compound	athlete	York
+nmod:of	life	athlete
+punct	living	.

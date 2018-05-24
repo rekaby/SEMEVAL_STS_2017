@@ -1,0 +1,6 @@
+root	ROOT	endure
+cc	endure	or
+conj:or	endure	experience
+det	event	a
+amod	event	painful
+dobj	endure	event

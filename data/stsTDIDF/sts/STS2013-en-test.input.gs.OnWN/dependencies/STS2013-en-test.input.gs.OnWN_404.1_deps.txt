@@ -1,0 +1,6 @@
+mark	lecture	to
+root	ROOT	lecture
+advmod	lecture	formally
+case	audience	to
+det	audience	an
+nmod:to	lecture	audience

@@ -1,0 +1,8 @@
+nummod	men	Two
+root	ROOT	men
+case	training	in
+amod	training	martial
+compound	training	arts
+compound	training	uniforms
+nmod:in	men	training
+punct	men	.

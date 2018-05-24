@@ -1,0 +1,11 @@
+amod	rot	soft
+amod	rot	watery
+nsubj	caused	rot
+case	fruits	in
+nmod:in	rot	fruits
+cc	fruits	and
+conj:and	fruits	vegetables
+root	ROOT	caused
+case	fungi	by
+nmod:by	caused	fungi
+punct	caused	.

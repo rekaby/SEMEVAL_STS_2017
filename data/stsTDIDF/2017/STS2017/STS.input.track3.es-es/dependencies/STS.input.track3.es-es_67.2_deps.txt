@@ -1,0 +1,11 @@
+det	child	A
+nsubj	throws	child
+root	ROOT	throws
+dobj	throws	something
+case	dog	for
+det	dog	a
+amod	dog	white
+nmod:for	throws	dog
+mark	catch	to
+acl	dog	catch
+punct	throws	.

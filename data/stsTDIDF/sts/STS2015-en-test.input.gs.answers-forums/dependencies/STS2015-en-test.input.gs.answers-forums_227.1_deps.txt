@@ -1,0 +1,14 @@
+expl	are	There
+root	ROOT	are
+amod	cameras	many
+amod	cameras	compact
+nsubj	are	cameras
+case	housings	with
+amod	housings	underwater
+nmod:with	cameras	housings
+amod	cameras	available
+case	Canon	from
+nmod:from	available	Canon
+cc	Canon	and
+conj:and	Canon	Olympus
+punct	are	.

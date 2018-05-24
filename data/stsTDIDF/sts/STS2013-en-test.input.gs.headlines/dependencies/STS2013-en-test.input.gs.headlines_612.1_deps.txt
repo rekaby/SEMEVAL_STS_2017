@@ -1,0 +1,9 @@
+compound	Korea	N
+nsubj	warns	Korea
+root	ROOT	warns
+case	retaliation	of
+nmod:of	warns	retaliation
+case	Korea	for
+compound	Korea	South
+nmod:for	retaliation	Korea
+dobj	warns	drill

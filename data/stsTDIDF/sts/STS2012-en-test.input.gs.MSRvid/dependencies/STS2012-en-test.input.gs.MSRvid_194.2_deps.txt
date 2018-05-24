@@ -1,0 +1,7 @@
+det	man	A
+nsubj	climbing	man
+aux	climbing	is
+root	ROOT	climbing
+det	wall	a
+dobj	climbing	wall
+punct	climbing	.

@@ -1,0 +1,12 @@
+mark	Seen	As
+root	ROOT	Seen
+case	TV	on
+nmod:on	Seen	TV
+punct	Seen	!-5) root(ROOT-0, ~
+dep	~	Black
+cc	Black	and
+conj:and	Black	Famous
+cc	Black	but
+case	Pasture	Out
+case	Pasture	to
+conj:but	Black	Pasture

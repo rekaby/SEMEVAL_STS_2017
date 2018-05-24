@@ -1,0 +1,11 @@
+root	ROOT	`
+neg	plans	No
+root	`	plans
+case	plans	'
+mark	resettle	to
+acl	plans	resettle
+amod	refugees	Syrian
+dobj	resettle	refugees
+case	UK	in
+det	UK	the
+nmod:in	resettle	UK

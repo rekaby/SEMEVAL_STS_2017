@@ -1,0 +1,8 @@
+det	line	an
+amod	line	established
+root	ROOT	line
+case	travel	of
+nmod:of	line	travel
+cc	travel	or
+conj:or	travel	access
+punct	line	.

@@ -1,0 +1,6 @@
+compound	evacuation	Bomb
+compound	evacuation	threat
+compound	evacuation	forces
+root	ROOT	evacuation
+case	Princeton	at
+nmod:at	evacuation	Princeton

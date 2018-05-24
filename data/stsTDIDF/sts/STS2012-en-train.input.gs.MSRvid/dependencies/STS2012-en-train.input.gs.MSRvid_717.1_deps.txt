@@ -1,0 +1,11 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	watermelon	with
+det	watermelon	a
+nmod:with	playing	watermelon
+case	floor	on
+det	floor	a
+nmod:on	watermelon	floor
+punct	playing	.

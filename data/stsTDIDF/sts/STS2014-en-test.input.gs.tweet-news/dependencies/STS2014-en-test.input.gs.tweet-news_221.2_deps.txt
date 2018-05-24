@@ -1,0 +1,8 @@
+root	ROOT	NFL
+punct	NFL	:
+aux	turn	Can
+nsubj	turn	Falcons
+dep	NFL	turn
+dobj	turn	it
+advmod	turn	around
+punct	NFL	?

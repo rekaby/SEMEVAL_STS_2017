@@ -1,0 +1,9 @@
+meeting	are	aux
+meeting	.	punct
+table	around	case
+meeting	people	nsubj
+room	modern	amod
+table	room	nmod:in
+room	decorated	amod
+people	Four	nummod
+meeting	table	nmod:around

@@ -1,0 +1,8 @@
+det	poodle	A
+amod	poodle	black
+nsubj	frolics	poodle
+root	ROOT	frolics
+case	snow	in
+det	snow	the
+nmod:in	frolics	snow
+punct	frolics	.

@@ -1,0 +1,8 @@
+det	woman	a
+root	ROOT	woman
+case	hat	with
+det	hat	a
+amod	hat	viking
+nmod:with	woman	hat
+advmod	hat	on
+punct	woman	.

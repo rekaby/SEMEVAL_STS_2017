@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	11	least
+root	ROOT	11
+acl	11	killed
+case	India	in
+nmod:in	killed	India
+compound	collapse	building
+dobj	killed	collapse

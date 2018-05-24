@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	field	across
+det	field	a
+amod	field	brown
+nmod:across	running	field
+punct	running	.

@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	water	through
+det	water	the
+nmod:through	running	water
+case	shore	onto
+det	shore	the
+nmod:onto	running	shore
+punct	running	.

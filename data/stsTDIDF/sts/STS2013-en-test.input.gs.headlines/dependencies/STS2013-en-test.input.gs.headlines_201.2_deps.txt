@@ -1,0 +1,8 @@
+compound	helicopter	NATO
+nsubj	makes	helicopter
+root	ROOT	makes
+amod	landing	hard
+dobj	makes	landing
+case	Afghanistan	in
+compound	Afghanistan	E.
+nmod:in	landing	Afghanistan

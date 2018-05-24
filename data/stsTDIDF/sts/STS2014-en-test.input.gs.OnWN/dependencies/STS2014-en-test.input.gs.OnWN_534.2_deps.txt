@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	spending	of
+nmod:of	act	spending
+cc	spending	or
+compound	money	disbursing
+conj:or	spending	money
+punct	act	.

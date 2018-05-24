@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+advmod	attentive	completely
+amod	man	attentive
+case	train	on
+det	train	the
+nmod:on	attentive	train
+punct	man	.

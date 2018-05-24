@@ -1,0 +1,11 @@
+det	group	A
+amod	group	large
+nsubj	formed	group
+case	people	of
+nmod:of	group	people
+aux	formed	have
+root	ROOT	formed
+det	line	a
+dobj	formed	line
+advmod	line	outside
+punct	formed	.

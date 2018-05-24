@@ -1,0 +1,16 @@
+cop	afraid	be
+root	ROOT	afraid
+cc	afraid	or
+conj:or	afraid	feel
+dep	afraid	anxious
+cc	anxious	or
+conj:or	anxious	apprehensive
+case	situation	about
+det	situation	a
+amod	situation	possible
+cc	possible	or
+conj:or	possible	probable
+nmod:about	anxious	situation
+cc	situation	or
+conj:or	situation	event
+punct	afraid	.

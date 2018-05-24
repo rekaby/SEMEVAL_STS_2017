@@ -1,0 +1,17 @@
+amod	reports	Preliminary
+nsubj	were	reports
+root	ROOT	were
+mark	seen	that
+det	men	the
+nsubjpass	seen	men
+auxpass	seen	were
+neg	seen	not
+ccomp	said	seen
+advmod	seen	together
+case	airport	at
+det	airport	the
+nmod:at	seen	airport
+punct	said	,
+nsubj	said	sources
+ccomp	were	said
+punct	were	.

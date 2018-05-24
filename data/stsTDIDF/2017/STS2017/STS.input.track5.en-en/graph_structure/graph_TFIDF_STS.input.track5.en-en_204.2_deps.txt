@@ -1,0 +1,5 @@
+plane	.	punct
+plane	The	det
+ROOT	plane	root
+ready	take	xcomp
+plane	is	dep

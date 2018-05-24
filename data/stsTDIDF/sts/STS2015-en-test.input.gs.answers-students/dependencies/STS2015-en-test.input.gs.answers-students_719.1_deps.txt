@@ -1,0 +1,16 @@
+mark	has	because
+det	battery	the
+nsubj	has	battery
+csubj	contains	has
+nmod:poss	reacion	its
+amod	reacion	own
+compound	reacion	chemical
+dobj	has	reacion
+case	tterminals	between
+det	tterminals	the
+amod	tterminals	positive
+cc	positive	and
+conj:and	positive	negative
+nmod:between	reacion	tterminals
+dep	tterminals	it
+root	ROOT	contains

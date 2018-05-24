@@ -1,0 +1,7 @@
+root	ROOT	play
+det	instrument	a
+amod	instrument	stringed
+dobj	play	instrument
+case	bow	with
+det	bow	a
+nmod:with	play	bow

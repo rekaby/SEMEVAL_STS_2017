@@ -1,0 +1,17 @@
+compound	Cavan	John
+nsubj	has	Cavan
+root	ROOT	has
+det	methods	some
+amod	methods	reasonable
+cc	reasonable	and
+conj:and	reasonable	appropriate
+dobj	has	methods
+mark	increasing	for
+acl	methods	increasing
+det	weight	a
+compound	weight	rabbits
+dobj	increasing	weight
+case	answer	in
+nmod:poss	answer	his
+nmod:in	increasing	answer
+punct	has	.

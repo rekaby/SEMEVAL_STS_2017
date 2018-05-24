@@ -1,0 +1,12 @@
+biting	fingernails	dobj
+adult	child	conj:and
+child	sitting	dep
+biting	both	nsubj
+An	.	punct
+biting	are	aux
+sitting	biting	conj:and
+sitting	down	compound:prt
+An	adult	amod
+adult	and	cc
+fingernails	their	nmod:poss
+ROOT	An	root

@@ -1,0 +1,15 @@
+cc	mentioned	but
+nsubj	mentioned	they
+neg	mentioned	never
+root	ROOT	mentioned
+det	doubling	the
+dobj	mentioned	doubling
+case	debt	of
+det	debt	the
+amod	debt	national
+nmod:of	doubling	debt
+case	admin	under
+det	admin	the
+amod	admin	bush
+nmod:under	doubling	admin
+punct	mentioned	.

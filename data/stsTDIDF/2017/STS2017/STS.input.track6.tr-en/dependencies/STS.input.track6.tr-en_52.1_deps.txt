@@ -1,0 +1,12 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	dressed
+case	plays	in
+amod	plays	blue
+nmod:in	dressed	plays
+case	lawn	outside
+case	lawn	on
+det	lawn	a
+amod	lawn	nice
+nmod:on	dressed	lawn
+punct	girl	.

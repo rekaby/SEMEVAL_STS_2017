@@ -1,0 +1,7 @@
+root	ROOT	Activists
+punct	Activists	:
+amod	troops	Syrian
+nsubj	storm	troops
+appos	Activists	storm
+compound	suburb	Damascus
+dobj	storm	suburb

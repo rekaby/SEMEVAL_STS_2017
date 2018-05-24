@@ -1,0 +1,7 @@
+compound	double	Hernandez
+nsubj	gives	double
+root	ROOT	gives
+compound	victory	Mexico
+dobj	gives	victory
+case	Japan	over
+nmod:over	gives	Japan

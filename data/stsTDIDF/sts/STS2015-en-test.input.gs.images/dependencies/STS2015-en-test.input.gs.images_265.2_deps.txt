@@ -1,0 +1,7 @@
+nummod	dogs	Three
+nsubj	run	dogs
+root	ROOT	run
+case	snow	in
+det	snow	the
+nmod:in	run	snow
+punct	run	.

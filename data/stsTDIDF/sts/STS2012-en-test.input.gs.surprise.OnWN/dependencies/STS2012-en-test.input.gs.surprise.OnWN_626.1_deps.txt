@@ -1,0 +1,11 @@
+root	ROOT	inability
+case	heart	of
+det	heart	the
+nmod:of	inability	heart
+mark	pump	to
+acl	inability	pump
+dobj	pump	blood
+mark	sustain	to
+advcl	pump	sustain
+compound	functions	life
+dobj	sustain	functions

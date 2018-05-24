@@ -1,0 +1,10 @@
+det	child	A
+amod	child	small
+nsubj	drinking	child
+aux	drinking	is
+root	ROOT	drinking
+dobj	drinking	water
+case	cup	from
+det	cup	a
+nmod:from	drinking	cup
+punct	drinking	.

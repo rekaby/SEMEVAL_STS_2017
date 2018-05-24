@@ -1,0 +1,6 @@
+nsubj	killed	Workers
+root	ROOT	killed
+case	India	in
+nsubj	collapse	India
+compound	collapse	building
+ccomp	killed	collapse

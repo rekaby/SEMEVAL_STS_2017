@@ -1,0 +1,16 @@
+det	dog	A
+nsubj	enjoys	dog
+root	ROOT	enjoys
+det	romp	a
+dobj	enjoys	romp
+case	water	in
+det	water	the
+nmod:in	romp	water
+case	mountains	with
+nmod:with	romp	mountains
+cc	mountains	and
+conj:and	mountains	sand
+case	background	in
+det	background	the
+nmod:in	romp	background
+punct	enjoys	.

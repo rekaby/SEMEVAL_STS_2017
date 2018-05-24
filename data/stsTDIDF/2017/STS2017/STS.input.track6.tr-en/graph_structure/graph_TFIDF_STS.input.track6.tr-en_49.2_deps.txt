@@ -1,0 +1,9 @@
+runs	dog	dobj
+drives	man	nsubj
+drives	bicycle	dobj
+drives	.	punct
+dog	his	nmod:poss
+drives	and	cc
+drives	runs	conj:and
+bicycle	a	det
+ROOT	drives	root

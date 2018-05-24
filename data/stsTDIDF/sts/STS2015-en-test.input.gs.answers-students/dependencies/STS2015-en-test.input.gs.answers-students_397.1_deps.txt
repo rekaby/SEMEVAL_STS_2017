@@ -1,0 +1,14 @@
+punct	it	``
+compound	C	becuase
+compound	C	bulb
+nsubj	it	C
+cop	it	is
+case	it	on
+root	ROOT	it
+punct	it	''
+punct	it	``
+compound	pathway	s
+amod	pathway	own
+dep	it	pathway
+punct	it	.
+punct	it	''

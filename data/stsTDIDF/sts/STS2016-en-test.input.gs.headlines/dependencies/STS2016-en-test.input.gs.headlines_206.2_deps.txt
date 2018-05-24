@@ -1,0 +1,8 @@
+compound	Cruz	US
+compound	Cruz	Senator
+compound	Cruz	Ted
+nsubj	announce	Cruz
+mark	announce	to
+root	ROOT	announce
+amod	bid	presidential
+dobj	announce	bid

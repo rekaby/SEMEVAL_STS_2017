@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	young
+nsubj	riding	boy
+root	ROOT	riding
+case	swing	in
+det	swing	a
+nmod:in	riding	swing
+punct	riding	.

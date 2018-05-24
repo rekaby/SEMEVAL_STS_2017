@@ -1,0 +1,10 @@
+nsubj	killed	4
+root	ROOT	killed
+punct	killed	,
+advmod	injured	several
+conj	killed	injured
+case	car	in
+compound	car	SW
+compound	car	China
+nmod:in	injured	car
+dep	killed	accident

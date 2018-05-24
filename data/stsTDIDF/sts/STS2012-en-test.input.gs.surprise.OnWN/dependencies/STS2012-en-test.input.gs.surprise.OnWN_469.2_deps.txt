@@ -1,0 +1,17 @@
+root	ROOT	take
+det	walk	a
+dobj	take	walk
+case	health	for
+nmod:poss	health	one
+case	one	's
+nmod:for	take	health
+cc	take	or
+mark	aid	to
+conj:or	take	aid
+dobj	aid	digestion
+punct	take	,
+case	meal	as
+case	meal	after
+det	meal	a
+advcl:after	take	meal
+punct	take	.

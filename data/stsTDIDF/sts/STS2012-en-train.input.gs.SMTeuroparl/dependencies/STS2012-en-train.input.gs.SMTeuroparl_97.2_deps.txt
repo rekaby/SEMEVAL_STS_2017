@@ -1,0 +1,21 @@
+root	ROOT	.-1) punct(President-5, -LRB-
+compound	President	ES
+punct	President	-RRB-
+compound	President	Mr.
+root	ROOT	President
+punct	President	,
+nsubj	essential	widening
+cop	essential	is
+acl	President	essential
+case	construction	for
+det	construction	the
+nmod:for	essential	construction
+case	continent	of
+det	continent	a
+amod	continent	strong
+cc	strong	and
+conj:and	strong	plain
+nmod:of	construction	continent
+case	Europe	of
+nmod:of	continent	Europe
+punct	President	.

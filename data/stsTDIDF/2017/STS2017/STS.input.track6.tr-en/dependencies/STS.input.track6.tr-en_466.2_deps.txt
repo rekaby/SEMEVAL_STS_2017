@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+amod	suit	black
+nmod:in	man	suit
+acl	suit	using
+det	club	a
+compound	club	telephone
+dobj	using	club
+punct	man	.

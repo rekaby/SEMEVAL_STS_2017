@@ -1,0 +1,5 @@
+nsubj	passes	Asteroid
+root	ROOT	passes
+dobj	passes	Earth
+case	fly-by	in
+nmod:in	passes	fly-by

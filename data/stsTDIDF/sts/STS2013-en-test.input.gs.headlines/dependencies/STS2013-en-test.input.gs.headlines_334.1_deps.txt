@@ -1,0 +1,5 @@
+root	ROOT	Conspiracy
+case	me	against
+nmod:against	Conspiracy	me
+punct	Conspiracy	-
+dep	Conspiracy	Lance

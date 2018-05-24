@@ -1,0 +1,15 @@
+expl	is	There
+root	ROOT	is
+neg	test	no
+nsubj	is	test
+nsubj	tell	that
+aux	tell	can
+acl:relcl	test	tell
+dobj	tell	you
+mark	sealed	if
+nsubjpass	sealed	it
+auxpass	sealed	is
+advcl	tell	sealed
+cc	sealed	or
+conj:or	sealed	not
+punct	is	.

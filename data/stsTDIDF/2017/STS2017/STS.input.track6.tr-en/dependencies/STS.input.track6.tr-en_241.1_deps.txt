@@ -1,0 +1,9 @@
+det	workers	The
+compound	workers	construction
+nsubj	appear	workers
+root	ROOT	appear
+case	fence	through
+det	fence	a
+amod	fence	wooden
+nmod:through	appear	fence
+punct	appear	.

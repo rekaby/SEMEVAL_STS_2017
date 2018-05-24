@@ -1,0 +1,7 @@
+root	ROOT	Win
+conj:and	Win	Win
+case	Anthony	for
+nmod:for	Win	Anthony
+cc	Win	and
+case	Knicks	for
+nmod:for	Win	Knicks

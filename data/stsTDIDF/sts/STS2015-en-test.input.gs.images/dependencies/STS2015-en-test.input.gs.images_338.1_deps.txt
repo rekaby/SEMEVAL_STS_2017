@@ -1,0 +1,11 @@
+det	boy	The
+nsubj	throwing	boy
+case	shirt	in
+det	shirt	the
+amod	shirt	orange
+nmod:in	boy	shirt
+aux	throwing	is
+root	ROOT	throwing
+det	ball	the
+dobj	throwing	ball
+punct	throwing	.

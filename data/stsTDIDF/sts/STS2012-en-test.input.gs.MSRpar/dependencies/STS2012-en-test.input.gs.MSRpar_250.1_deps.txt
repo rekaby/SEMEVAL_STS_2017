@@ -1,0 +1,16 @@
+root	ROOT	The
+dobj	say	WHO
+nsubj	say	experts
+aux	say	did
+neg	say	n't
+acl:relcl	The	say
+advmod	many	how
+amod	cases	many
+nsubj	areas	cases
+case	Hebei	in
+nmod:in	cases	Hebei
+cop	areas	were
+case	areas	in
+amod	areas	rural
+ccomp	say	areas
+punct	The	.

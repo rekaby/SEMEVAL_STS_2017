@@ -1,0 +1,11 @@
+det	row	A
+root	ROOT	row
+case	locomotives	of
+nmod:of	row	locomotives
+case	siding	on
+det	siding	a
+nmod:on	row	siding
+case	field	in
+det	field	a
+nmod:in	siding	field
+punct	row	.

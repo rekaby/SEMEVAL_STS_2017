@@ -1,0 +1,17 @@
+nsubj	has	ukraine
+advmod	has	almost
+root	ROOT	has
+dobj	has	all
+case	approvals	of
+det	approvals	the
+amod	approvals	necessary
+nmod:of	all	approvals
+mark	join	to
+acl	approvals	join
+det	agency	the
+amod	agency	european
+compound	agency	space
+nmod:poss	program	agency
+case	agency	's
+dobj	join	program
+punct	has	.

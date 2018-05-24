@@ -1,0 +1,16 @@
+expl	are	There
+ccomp	said	are
+det	total	a
+nsubj	are	total
+case	women	of
+nummod	women	659
+nmod:of	total	women
+acl	women	enrolled
+case	academy	at
+det	academy	the
+nmod:at	enrolled	academy
+punct	said	,
+det	report	the
+nsubj	said	report
+root	ROOT	said
+punct	said	.

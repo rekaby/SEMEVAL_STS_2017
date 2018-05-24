@@ -1,0 +1,6 @@
+compound	troops	Nato
+nsubj	kill	troops
+root	ROOT	kill
+nummod	children	two
+compound	children	Afghan
+dobj	kill	children

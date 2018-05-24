@@ -1,0 +1,17 @@
+case	end	In
+det	end	the
+nmod:in	read	end
+punct	read	,
+root	ROOT	read
+det	mangas	the
+dobj	read	mangas
+punct	read	,
+nsubj	is	that
+ccomp	read	is
+dobj	prefer	what
+nsubj	prefer	I
+ccomp	is	prefer
+advmod	years	already
+case	years	for
+nmod:for	prefer	years
+punct	read	.

@@ -1,0 +1,10 @@
+compound	Baptist	Proverbs
+compound	Baptist	John
+det	Baptist	the
+nsubj	Nazarite	Baptist
+cop	Nazarite	was
+det	Nazarite	a
+root	ROOT	Nazarite
+case	birth	from
+nmod:from	Nazarite	birth
+punct	Nazarite	.

@@ -1,0 +1,12 @@
+root	ROOT	Vessels
+punct	Vessels	,
+case	which	without
+nmod:without	is	which
+expl	is	there
+acl:relcl	Vessels	is
+det	slightest	the
+dep	Gayssot	slightest
+punct	Gayssot	,
+compound	Gayssot	Mr
+nsubj	is	Gayssot
+punct	Vessels	.

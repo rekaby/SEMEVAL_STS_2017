@@ -1,0 +1,10 @@
+root	ROOT	Clinton
+punct	Clinton	:
+nsubj	do	US
+punct	US	,
+appos	US	Europe
+aux	do	must
+parataxis	Clinton	do
+dobj	do	more
+case	tyrants	against
+nmod:against	more	tyrants

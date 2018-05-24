@@ -1,0 +1,10 @@
+nsubj	sets	Malaysia
+root	ROOT	sets
+dobj	sets	May
+nummod	May	5
+case	date	as
+nmod:as	sets	date
+case	election	for
+advmod	contested	closely
+amod	election	contested
+nmod:for	date	election

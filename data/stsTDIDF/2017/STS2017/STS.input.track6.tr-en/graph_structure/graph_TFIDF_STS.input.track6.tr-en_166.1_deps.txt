@@ -1,0 +1,7 @@
+bird	A	det
+desert	a	det
+bird	.	punct
+desert	over	case
+flying	desert	nmod:over
+bird	flying	acl
+ROOT	bird	root

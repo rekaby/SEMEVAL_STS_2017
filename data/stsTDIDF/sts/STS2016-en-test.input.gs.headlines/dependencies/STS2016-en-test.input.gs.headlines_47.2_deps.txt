@@ -1,0 +1,8 @@
+amod	stuntman	British
+nsubj	dies	stuntman
+root	ROOT	dies
+case	mishap	in
+compound	mishap	wingsuit
+nmod:in	dies	mishap
+case	Alps	in
+nmod:in	dies	Alps

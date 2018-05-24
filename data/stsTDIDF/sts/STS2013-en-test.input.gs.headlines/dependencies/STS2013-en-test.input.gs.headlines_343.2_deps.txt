@@ -1,0 +1,7 @@
+amod	president	Chinese
+nsubj	concludes	president
+root	ROOT	concludes
+compound	visit	state
+dobj	concludes	visit
+case	Denmark	to
+nmod:to	visit	Denmark

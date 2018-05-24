@@ -1,0 +1,12 @@
+root	ROOT	Q
+punct	Q	:
+aux	buy	Can
+nsubj	buy	I
+dep	Q	buy
+dobj	buy	coverage
+case	drugs	for
+compound	drugs	prescription
+nmod:for	buy	drugs
+advmod	away	right
+advmod	buy	away
+punct	Q	?

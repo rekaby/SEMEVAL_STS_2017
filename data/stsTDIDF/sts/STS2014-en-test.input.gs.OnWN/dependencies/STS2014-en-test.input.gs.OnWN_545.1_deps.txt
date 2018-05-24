@@ -1,0 +1,8 @@
+root	ROOT	take
+amod	action	legal
+dobj	take	action
+case	court	against
+punct	court	,
+case	court	as
+case	court	in
+nmod:in	take	court

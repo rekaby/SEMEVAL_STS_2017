@@ -1,0 +1,10 @@
+nummod	girls	Three
+root	ROOT	girls
+case	dresses	in
+amod	dresses	white
+nmod:in	girls	dresses
+acl	dresses	running
+case	fountain	towards
+det	fountain	a
+nmod:towards	running	fountain
+punct	girls	.

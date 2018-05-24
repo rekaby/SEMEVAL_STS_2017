@@ -1,0 +1,9 @@
+root	ROOT	give
+dobj	give	help
+cc	help	or
+conj:or	help	assistance
+punct	give	;
+cop	service	be
+case	service	of
+parataxis	give	service
+punct	give	;

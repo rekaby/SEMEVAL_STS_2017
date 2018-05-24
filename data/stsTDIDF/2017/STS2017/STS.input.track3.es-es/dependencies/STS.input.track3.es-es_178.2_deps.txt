@@ -1,0 +1,7 @@
+nummod	women	Five
+nsubj	sitting	women
+root	ROOT	sitting
+case	bench	on
+det	bench	a
+nmod:on	sitting	bench
+punct	sitting	.

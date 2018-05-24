@@ -1,0 +1,7 @@
+root	ROOT	Boy
+acl	Boy	laying
+case	couch	on
+nmod:on	laying	couch
+case	dog	with
+nmod:with	couch	dog
+punct	Boy	.

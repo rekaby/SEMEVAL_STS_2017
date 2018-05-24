@@ -1,0 +1,8 @@
+det	person	A
+nsubj	playing	person
+aux	playing	is
+root	ROOT	playing
+det	piano	a
+compound	piano	keyboard
+dobj	playing	piano
+punct	playing	.

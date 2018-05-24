@@ -1,0 +1,11 @@
+nsubj	pouring	Someone
+aux	pouring	is
+root	ROOT	pouring
+compound	sauce	tomato
+dobj	pouring	sauce
+case	pot	into
+det	pot	a
+nmod:into	pouring	pot
+case	meat	of
+nmod:of	pot	meat
+punct	pouring	.

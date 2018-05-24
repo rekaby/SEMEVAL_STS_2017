@@ -1,0 +1,11 @@
+brushes	teeth	dobj
+brushes	.	punct
+teeth	the	det
+alligator	fake	amod
+brushes	A	det
+brushes	young	amod
+alligator	of	case
+teeth	alligator	nmod:of
+brushes	boy	compound
+ROOT	brushes	root
+alligator	a	det

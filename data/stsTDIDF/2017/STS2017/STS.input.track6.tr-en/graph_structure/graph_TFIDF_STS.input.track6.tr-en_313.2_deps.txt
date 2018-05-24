@@ -1,0 +1,13 @@
+coat	jeans	conj:and
+running	net	nmod:on
+wall	in	case
+net	on	case
+net	wall	nmod:in_front_of
+coat	running	acl
+net	a	det
+wall	stone	compound
+coat	and	cc
+coat	with	case
+coat	gray	amod
+man	coat	nmod:with
+jeans	blue	amod

@@ -1,0 +1,5 @@
+nummod	trends	6
+root	ROOT	trends
+case	CES	from
+nmod:from	trends	CES
+nummod	CES	2013

@@ -1,0 +1,9 @@
+root	ROOT	coat
+punct	coat	,
+conj:or	coat	cover
+punct	coat	,
+cc	coat	or
+conj:or	coat	treat
+det	surface	the
+dobj	treat	surface
+acl	coat	of

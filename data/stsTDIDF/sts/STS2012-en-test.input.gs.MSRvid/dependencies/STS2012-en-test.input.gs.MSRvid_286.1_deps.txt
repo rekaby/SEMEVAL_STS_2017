@@ -1,0 +1,9 @@
+det	ball	A
+amod	ball	big
+amod	ball	green
+nsubj	knocks	ball
+root	ROOT	knocks
+det	potato	a
+dobj	knocks	potato
+advmod	knocks	over
+punct	knocks	.

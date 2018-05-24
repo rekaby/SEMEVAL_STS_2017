@@ -1,0 +1,12 @@
+root	ROOT	Reverse
+det	winding	the
+dobj	Reverse	winding
+cc	winding	or
+conj:or	winding	twisting
+nmod	winding	of
+punct	Reverse	;
+conj	Reverse	separate
+det	tangles	the
+dobj	separate	tangles
+acl	tangles	of
+punct	Reverse	.

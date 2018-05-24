@@ -1,0 +1,7 @@
+nummod	dogs	Six
+nsubj	walking	dogs
+root	ROOT	walking
+case	beach	beside
+det	beach	the
+nmod:beside	walking	beach
+punct	walking	.

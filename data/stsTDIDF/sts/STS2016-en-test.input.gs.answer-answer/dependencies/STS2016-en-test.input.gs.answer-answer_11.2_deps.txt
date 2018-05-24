@@ -1,0 +1,8 @@
+nsubj	think	i
+root	ROOT	think
+nsubj	depends	it
+ccomp	think	depends
+dobj	want	what
+nsubj	want	you
+ccomp	depends	want
+punct	think	:

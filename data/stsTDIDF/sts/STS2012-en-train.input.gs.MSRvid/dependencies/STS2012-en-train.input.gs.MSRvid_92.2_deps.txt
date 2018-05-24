@@ -1,0 +1,7 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+root	ROOT	chopping
+det	onion	an
+dobj	chopping	onion
+punct	chopping	.

@@ -1,0 +1,4 @@
+root	ROOT	hit
+det	fly	a
+dobj	hit	fly
+punct	hit	.

@@ -1,0 +1,13 @@
+nummod	player	One
+compound	player	football
+nsubj	tries	player
+root	ROOT	tries
+mark	tackle	to
+xcomp	tries	tackle
+det	player	a
+dobj	tackle	player
+case	team	on
+det	team	the
+amod	team	opposing
+nmod:on	tackle	team
+punct	tries	.

@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+neg	post-fertilization	no
+advmod	post-fertilization	more
+compound	post-fertilization	egg
+compound	post-fertilization	cell
+nsubj	is	post-fertilization
+punct	is	.

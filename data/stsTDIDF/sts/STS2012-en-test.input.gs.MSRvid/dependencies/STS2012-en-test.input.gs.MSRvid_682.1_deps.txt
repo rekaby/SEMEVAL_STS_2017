@@ -1,0 +1,7 @@
+det	person	A
+nsubj	checks	person
+root	ROOT	checks
+det	pudding	some
+compound	pudding	rice
+dobj	checks	pudding
+punct	checks	.

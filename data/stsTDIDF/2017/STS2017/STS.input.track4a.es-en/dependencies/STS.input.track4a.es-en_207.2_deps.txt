@@ -1,0 +1,12 @@
+det	chews	The
+amod	chews	spotted
+compound	chews	dog
+root	ROOT	chews
+case	bark	on
+det	bark	the
+nmod:on	chews	bark
+case	tree	of
+det	tree	a
+amod	tree	pine
+nmod:of	bark	tree
+punct	chews	.

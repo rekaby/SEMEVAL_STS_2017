@@ -1,0 +1,11 @@
+punct	cause	-LRB-
+root	ROOT	cause
+dep	cause	to
+punct	to	-RRB-
+dep	cause	come
+advmod	come	apart
+punct	cause	,
+dep	cause	separate
+punct	cause	,
+cc	cause	or
+conj:or	cause	split

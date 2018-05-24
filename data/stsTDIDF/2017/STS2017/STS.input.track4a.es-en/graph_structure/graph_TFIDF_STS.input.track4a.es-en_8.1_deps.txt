@@ -1,0 +1,8 @@
+hills	near	case
+hills	and	cc
+resting	.	punct
+resting	hills	nmod:near
+resting	is	aux
+resting	group	nsubj
+hills	cliffs	conj:and
+ROOT	resting	root

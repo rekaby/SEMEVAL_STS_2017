@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	scrubbing	woman
+aux	scrubbing	is
+root	ROOT	scrubbing
+det	zucchini	a
+dobj	scrubbing	zucchini
+case	brush	with
+det	brush	a
+compound	brush	vegetable
+nmod:with	scrubbing	brush
+punct	scrubbing	.

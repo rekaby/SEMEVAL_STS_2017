@@ -1,0 +1,8 @@
+root	ROOT	go
+case	intent	after
+case	intent	with
+det	intent	the
+nmod:with	go	intent
+mark	catch	to
+acl	intent	catch
+punct	go	.

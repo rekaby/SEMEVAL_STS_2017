@@ -1,0 +1,11 @@
+compound	thing	value
+det	thing	a
+root	ROOT	thing
+cc	thing	or
+conj:or	thing	course
+case	action	of
+nmod:of	course	action
+advmod	highly	more
+advmod	thing	highly
+case	another	than
+nmod:than	highly	another

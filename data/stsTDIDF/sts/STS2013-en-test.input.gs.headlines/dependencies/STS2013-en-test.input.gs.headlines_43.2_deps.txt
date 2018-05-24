@@ -1,0 +1,9 @@
+amod	election	French
+amod	election	presidential
+root	ROOT	election
+punct	election	:
+amod	round	first
+dep	election	round
+punct	round	-
+amod	updates	live
+dep	round	updates

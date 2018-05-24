@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+neg	freedom	no
+nsubj	is	freedom
+case	religion	of
+nmod:of	freedom	religion
+punct	is	.

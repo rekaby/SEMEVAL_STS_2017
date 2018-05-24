@@ -1,0 +1,13 @@
+det	man	A
+nsubj	running	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+aux	running	is
+root	ROOT	running
+case	field	in
+det	field	a
+compound	field	stadium
+nmod:in	running	field
+punct	running	.

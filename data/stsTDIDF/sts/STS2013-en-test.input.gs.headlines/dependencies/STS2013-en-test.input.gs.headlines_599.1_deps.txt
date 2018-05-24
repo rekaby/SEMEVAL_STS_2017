@@ -1,0 +1,7 @@
+compound	protesters	Anti-Putin
+nsubj	form	protesters
+root	ROOT	form
+amod	chain	human
+dobj	form	chain
+case	Moscow	in
+nmod:in	form	Moscow

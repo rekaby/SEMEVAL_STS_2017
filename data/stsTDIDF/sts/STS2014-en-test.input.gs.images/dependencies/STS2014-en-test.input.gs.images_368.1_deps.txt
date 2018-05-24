@@ -1,0 +1,11 @@
+det	bus	A
+amod	bus	double
+compound	bus	decker
+amod	bus	red
+compound	bus	United
+root	ROOT	bus
+case	street	on
+det	street	a
+compound	street	city
+nmod:on	bus	street
+punct	bus	.

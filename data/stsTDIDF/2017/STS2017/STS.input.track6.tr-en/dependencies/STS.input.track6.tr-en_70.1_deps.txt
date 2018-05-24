@@ -1,0 +1,10 @@
+det	group	A
+nsubj	have	group
+case	boys	of
+nmod:of	group	boys
+root	ROOT	have
+case	green	on
+nmod:on	have	green
+cc	green	and
+conj:and	green	blue
+punct	have	.

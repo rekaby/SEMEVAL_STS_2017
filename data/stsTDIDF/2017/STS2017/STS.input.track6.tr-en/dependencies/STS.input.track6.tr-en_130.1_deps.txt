@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	subway	woman
+nsubj	wearing	who
+aux	wearing	is
+acl:relcl	woman	wearing
+det	vest	a
+dobj	wearing	vest
+cop	subway	is
+case	subway	on
+det	subway	a
+root	ROOT	subway
+punct	subway	.

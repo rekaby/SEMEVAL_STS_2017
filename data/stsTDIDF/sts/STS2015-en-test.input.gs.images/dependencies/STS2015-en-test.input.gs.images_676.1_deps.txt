@@ -1,0 +1,6 @@
+compound	diver	Scuba
+root	ROOT	diver
+acl	diver	submerged
+case	water	in
+nmod:in	submerged	water
+punct	diver	.

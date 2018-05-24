@@ -1,0 +1,7 @@
+compound	A	Olympics
+compound	A	Opening
+compound	A	Ceremony
+nsubj	Hit	A
+root	ROOT	Hit
+case	Globe	Around
+nmod:around	Hit	Globe

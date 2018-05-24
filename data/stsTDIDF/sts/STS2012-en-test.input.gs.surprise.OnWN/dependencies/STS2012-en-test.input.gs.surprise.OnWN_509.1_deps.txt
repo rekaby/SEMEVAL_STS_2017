@@ -1,0 +1,12 @@
+det	program	A
+amod	program	short
+amod	program	theatrical
+root	ROOT	program
+nsubj	part	that
+cop	part	is
+acl:relcl	program	part
+case	program	of
+det	program	a
+advmod	program	longer
+nmod:of	part	program
+punct	program	.

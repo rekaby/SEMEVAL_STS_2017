@@ -1,0 +1,13 @@
+punct	said	``
+compound	Quattrone	Frank
+nsubj	innocent	Quattrone
+cop	innocent	is
+ccomp	said	innocent
+punct	said	,
+punct	said	''
+nsubj	said	Keker
+root	ROOT	said
+case	statement	in
+det	statement	a
+nmod:in	said	statement
+punct	said	.

@@ -1,0 +1,12 @@
+det	close-up	A
+root	ROOT	close-up
+case	engine	of
+det	engine	a
+compound	engine	silver
+compound	engine	train
+nmod:of	close-up	engine
+case	stripe	with
+det	stripe	a
+amod	stripe	red
+nmod:with	close-up	stripe
+punct	close-up	.

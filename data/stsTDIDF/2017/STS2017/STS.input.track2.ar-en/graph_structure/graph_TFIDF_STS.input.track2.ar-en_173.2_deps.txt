@@ -1,0 +1,7 @@
+talking	bench	nmod:on
+suit	talking	acl
+suit	.	punct
+ROOT	suit	root
+bench	a	det
+suit	Woman	compound
+talking	man	nmod:to

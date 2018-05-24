@@ -1,0 +1,5 @@
+ROOT	field	root
+field	are	cop
+kids	Two	nummod
+field	.	punct
+field	kids	nsubj

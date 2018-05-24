@@ -1,0 +1,9 @@
+det	name	a
+root	ROOT	name
+acl	name	given
+case	product	to
+det	product	a
+nmod:to	given	product
+cc	product	or
+conj:or	product	service
+punct	name	.

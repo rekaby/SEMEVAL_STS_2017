@@ -1,0 +1,15 @@
+nsubj	is	that
+root	ROOT	is
+dobj	're	what
+nsubj	're	we
+ccomp	is	're
+advmod	're	up
+mark	compete	against
+cc	against	and
+conj:and	against	must
+advcl	're	compete
+case	scale	on
+det	scale	a
+amod	scale	global
+nmod:on	compete	scale
+punct	is	.

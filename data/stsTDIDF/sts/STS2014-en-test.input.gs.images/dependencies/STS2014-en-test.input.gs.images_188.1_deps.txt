@@ -1,0 +1,9 @@
+amod	bus	Red
+amod	bus	double
+compound	bus	decker
+root	ROOT	bus
+case	side	on
+nmod:on	bus	side
+case	street	of
+nmod:of	side	street
+punct	bus	.

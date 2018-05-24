@@ -1,0 +1,6 @@
+det	pankda	A
+nsubj	eating	pankda
+aux	eating	is
+root	ROOT	eating
+dobj	eating	bamboo
+punct	eating	.

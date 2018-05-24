@@ -1,0 +1,9 @@
+det	man	The
+amod	man	elderly
+nsubj	resting	man
+aux	resting	is
+root	ROOT	resting
+case	bicycle	on
+nmod:poss	bicycle	his
+nmod:on	resting	bicycle
+punct	resting	.

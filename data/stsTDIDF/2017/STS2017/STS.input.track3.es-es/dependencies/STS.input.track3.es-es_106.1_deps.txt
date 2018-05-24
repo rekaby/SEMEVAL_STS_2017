@@ -1,0 +1,7 @@
+nsubj	outdoors	People
+cop	outdoors	are
+root	ROOT	outdoors
+case	mountain	on
+det	mountain	a
+nmod:on	outdoors	mountain
+punct	outdoors	.

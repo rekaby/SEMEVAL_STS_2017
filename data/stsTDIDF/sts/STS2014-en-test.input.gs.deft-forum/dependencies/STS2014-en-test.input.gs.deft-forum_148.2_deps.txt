@@ -1,0 +1,9 @@
+neg	has	No
+nsubj	shut	has
+aux	shut	has
+root	ROOT	shut
+compound:prt	shut	down
+det	fields	the
+compound	fields	oil
+dobj	shut	fields
+punct	shut	.

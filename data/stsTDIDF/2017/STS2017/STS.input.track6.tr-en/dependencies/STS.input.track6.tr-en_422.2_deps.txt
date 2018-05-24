@@ -1,0 +1,13 @@
+det	bunch	A
+nsubj	waiting	bunch
+case	people	of
+nmod:of	bunch	people
+aux	waiting	are
+root	ROOT	waiting
+case	line	in
+nmod:in	waiting	line
+case	movie	for
+det	movie	the
+amod	movie	new
+nmod:for	line	movie
+punct	waiting	.

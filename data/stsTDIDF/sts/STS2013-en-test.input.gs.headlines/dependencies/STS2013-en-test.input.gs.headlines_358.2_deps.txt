@@ -1,0 +1,9 @@
+root	ROOT	Butler
+mark	tried	to
+auxpass	tried	be
+acl	Butler	tried
+case	case	in
+punct	case	``
+compound	case	Vatileaks
+punct	Vatileaks	''
+nmod:in	tried	case

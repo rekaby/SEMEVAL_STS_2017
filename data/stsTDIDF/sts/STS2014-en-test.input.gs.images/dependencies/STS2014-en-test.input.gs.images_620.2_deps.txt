@@ -1,0 +1,9 @@
+amod	bus	Red
+amod	bus	double
+compound	bus	decker
+nsubj	driving	bus
+root	ROOT	driving
+compound:prt	driving	down
+det	street	a
+dobj	driving	street
+punct	driving	.

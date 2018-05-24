@@ -1,0 +1,9 @@
+door	woman	nmod:next_to
+door	The	det
+woman	next	case
+purity	a	det
+door	,	punct
+ROOT	door	root
+purity	with	case
+door	.	punct
+door	purity	nmod:with

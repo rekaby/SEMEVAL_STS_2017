@@ -1,0 +1,8 @@
+root	ROOT	Al-Shater
+mark	run	to
+acl	Al-Shater	run
+case	election	in
+amod	election	presidential
+nmod:in	run	election
+case	Egypt	in
+nmod:in	election	Egypt

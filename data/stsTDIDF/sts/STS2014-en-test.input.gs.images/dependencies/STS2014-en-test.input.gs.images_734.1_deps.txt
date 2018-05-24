@@ -1,0 +1,9 @@
+det	sheep	A
+root	ROOT	sheep
+case	road	beside
+det	road	a
+nmod:beside	sheep	road
+cc	road	and
+det	lake	a
+conj:and	road	lake
+punct	sheep	.

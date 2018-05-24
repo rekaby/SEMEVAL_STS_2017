@@ -1,0 +1,7 @@
+det	children	Some
+nsubj	jumping	children
+aux	jumping	are
+root	ROOT	jumping
+case	Trampoline	on
+nmod:on	jumping	Trampoline
+punct	jumping	.

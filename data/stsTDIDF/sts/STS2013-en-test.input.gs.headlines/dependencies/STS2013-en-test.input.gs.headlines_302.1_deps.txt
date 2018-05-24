@@ -1,0 +1,8 @@
+compound	pledge	US
+root	ROOT	pledge
+mark	rebuild	to
+acl	pledge	rebuild
+dobj	rebuild	Haiti
+neg	met	not
+auxpass	met	being
+dep	rebuild	met

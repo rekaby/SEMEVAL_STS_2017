@@ -1,0 +1,6 @@
+going	lake	nmod:in
+lake	in	case
+boys	Some	det
+lake	the	det
+going	boys	nsubj
+going	swimming	dobj

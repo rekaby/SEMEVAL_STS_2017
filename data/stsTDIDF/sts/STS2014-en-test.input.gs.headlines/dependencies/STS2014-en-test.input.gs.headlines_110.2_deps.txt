@@ -1,0 +1,8 @@
+root	ROOT	Zimbabwe
+punct	Zimbabwe	:
+nsubj	declared	Mugabe
+parataxis	Zimbabwe	declared
+dobj	declared	winner
+case	vote	in
+amod	vote	disputed
+nmod:in	winner	vote

@@ -1,0 +1,14 @@
+compound	Kit	Tool
+root	ROOT	Kit
+punct	Kit	:
+dep	Kit	Apps
+cc	Apps	and
+amod	Digital	Other
+conj:and	Apps	Digital
+nsubj	Lend	Tools
+acl:relcl	Digital	Lend
+det	Hand	a
+dobj	Lend	Hand
+case	Mothers	to
+compound	Mothers	New
+nmod:to	Lend	Mothers

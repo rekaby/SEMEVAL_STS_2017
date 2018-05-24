@@ -1,0 +1,9 @@
+amod	attack	Militant
+nsubj	kills	attack
+case	Afghanistan	from
+nmod:from	attack	Afghanistan
+root	ROOT	kills
+dobj	kills	four
+case	Dir	in
+compound	Dir	Upper
+nmod:in	four	Dir

@@ -1,0 +1,8 @@
+nsubj	Fires	Factory
+root	ROOT	Fires
+dobj	Fires	Kill
+case	Least	At
+nmod:at	Kill	Least
+nummod	Least	260
+case	Pakistan	in
+nmod:in	Kill	Pakistan

@@ -1,0 +1,10 @@
+advmod	taking	Why
+aux	taking	is
+nmod:poss	dryer	my
+nsubj	taking	dryer
+root	ROOT	taking
+dobj	taking	longer
+case	clothes	to
+amod	clothes	dry
+nmod:to	longer	clothes
+punct	taking	?

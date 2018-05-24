@@ -1,0 +1,13 @@
+expl	is	There
+root	ROOT	is
+neg	code	no
+nsubj	is	code
+acl	code	telling
+dobj	telling	you
+mark	do	that
+nsubj	do	you
+aux	do	can
+neg	do	not
+ccomp	telling	do
+dobj	do	this
+punct	is	.

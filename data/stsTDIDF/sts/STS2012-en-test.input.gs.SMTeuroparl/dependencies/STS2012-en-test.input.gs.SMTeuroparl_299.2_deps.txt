@@ -1,0 +1,16 @@
+nsubj	necessary	It
+cop	necessary	is
+root	ROOT	necessary
+mark	involved	that
+det	Union	the
+compound	Union	European
+nsubjpass	involved	Union
+auxpass	involved	gets
+ccomp	necessary	involved
+cc	involved	and
+mark	makes	that
+nsubj	makes	it
+conj:and	involved	makes
+nsubj	fast	it
+xcomp	makes	fast
+punct	necessary	.

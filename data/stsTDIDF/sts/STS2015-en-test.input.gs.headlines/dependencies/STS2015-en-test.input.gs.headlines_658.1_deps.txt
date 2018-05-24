@@ -1,0 +1,9 @@
+amod	PM	Turkish
+nsubj	clash	PM
+punct	PM	,
+compound	clash	president
+root	ROOT	clash
+case	reply	over
+nmod:over	clash	reply
+case	protests	to
+nmod:to	reply	protests

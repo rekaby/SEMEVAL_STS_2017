@@ -1,0 +1,7 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	rope	on
+nmod:on	running	rope
+punct	running	.

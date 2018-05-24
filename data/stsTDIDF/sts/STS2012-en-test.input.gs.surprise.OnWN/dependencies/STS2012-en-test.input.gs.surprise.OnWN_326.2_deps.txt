@@ -1,0 +1,6 @@
+root	ROOT	regain
+cc	regain	or
+conj:or	regain	make
+compound:prt	make	up
+nmod	make	for
+punct	regain	.

@@ -1,0 +1,12 @@
+det	series	A
+root	ROOT	series
+case	people	of
+nmod:of	series	people
+acl	people	standing
+case	statue	near
+det	statue	a
+nmod:near	standing	statue
+case	bull	of
+det	bull	a
+nmod:of	statue	bull
+punct	series	.

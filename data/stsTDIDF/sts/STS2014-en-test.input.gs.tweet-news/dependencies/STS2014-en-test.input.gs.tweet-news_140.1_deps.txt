@@ -1,0 +1,12 @@
+root	ROOT	Truly
+det	day	a
+amod	day	sad
+nmod:npmod	Truly	day
+punct	Truly	.-5) case(least-2, At
+nmod:npmod	90	least
+root	ROOT	90
+acl	90	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire

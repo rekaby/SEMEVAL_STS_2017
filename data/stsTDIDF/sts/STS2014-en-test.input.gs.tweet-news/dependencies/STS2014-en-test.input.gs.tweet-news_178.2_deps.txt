@@ -1,0 +1,12 @@
+nsubjpass	Given	States
+aux	Given	Will
+auxpass	Given	Be
+root	ROOT	Given
+compound	Time	Extra
+dobj	Given	Time
+mark	Set	to
+acl	Time	Set
+compound:prt	Set	Up
+compound	Exchanges	Health
+compound	Exchanges	Insurance
+dobj	Set	Exchanges

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	shoots	man
+root	ROOT	shoots
+dobj	shoots	pool
+mark	waits	while
+nsubj	waits	another
+advcl	shoots	waits
+case	turn	for
+nmod:poss	turn	their
+nmod:for	waits	turn

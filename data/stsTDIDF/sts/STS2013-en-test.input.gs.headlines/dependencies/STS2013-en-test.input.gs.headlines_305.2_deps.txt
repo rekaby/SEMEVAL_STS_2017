@@ -1,0 +1,12 @@
+nsubj	says	Obama
+root	ROOT	says
+nsubj	hiding	he
+aux	hiding	's
+neg	hiding	not
+punct	hiding	`
+ccomp	says	hiding
+det	ball	the
+dobj	hiding	ball
+punct	ball	'
+case	Russia	on
+nmod:on	ball	Russia

@@ -1,0 +1,10 @@
+det	span	a
+amod	span	cyclical
+root	ROOT	span
+case	time	of
+nmod:of	span	time
+acl	time	defined
+case	system	by
+det	system	a
+compound	system	calendar
+nmod:by	defined	system

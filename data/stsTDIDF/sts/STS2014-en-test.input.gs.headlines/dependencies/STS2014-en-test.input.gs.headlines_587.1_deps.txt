@@ -1,0 +1,6 @@
+nummod	crash	7
+acl	7	killed
+case	truck	in
+compound	truck	monster
+nmod:in	killed	truck
+root	ROOT	crash

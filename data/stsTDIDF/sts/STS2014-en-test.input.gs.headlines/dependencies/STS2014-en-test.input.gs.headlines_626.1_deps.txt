@@ -1,0 +1,8 @@
+compound	Jolie	Angelina
+nmod:poss	aunt	Jolie
+case	Jolie	's
+nsubj	dies	aunt
+root	ROOT	dies
+case	cancer	of
+compound	cancer	breast
+nmod:of	dies	cancer

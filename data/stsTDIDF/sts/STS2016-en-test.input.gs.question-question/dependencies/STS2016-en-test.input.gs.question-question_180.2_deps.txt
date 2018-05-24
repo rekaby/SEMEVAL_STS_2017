@@ -1,0 +1,8 @@
+det	type	What
+dobj	use	type
+case	screws	of
+nmod:of	type	screws
+aux	use	should
+nsubj	use	I
+root	ROOT	use
+punct	use	?

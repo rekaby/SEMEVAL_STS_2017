@@ -1,0 +1,15 @@
+case	those	Of
+nmod:of	senators	those
+nsubj	signed	who
+acl:relcl	those	signed
+det	letter	the
+dobj	signed	letter
+punct	senators	,
+nsubj	senators	57
+cop	senators	are
+root	ROOT	senators
+punct	senators	,
+case	Republicans	including
+nummod	Republicans	24
+nmod:including	senators	Republicans
+punct	senators	.

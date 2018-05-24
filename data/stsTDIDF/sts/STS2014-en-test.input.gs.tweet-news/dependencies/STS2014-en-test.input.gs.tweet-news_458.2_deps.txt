@@ -1,0 +1,15 @@
+compound	Smart	App
+root	ROOT	Smart
+punct	Smart	:
+nsubj	Helps	Apps
+parataxis	Smart	Helps
+nsubj	Get	Skiers
+ccomp	Helps	Get
+advmod	Smart	More
+case	App	Out
+mwe	Out	of
+det	App	the
+dep	App	Slopes
+punct	App	-
+nmod:out_of	Smart	App
+nmod	Get	Smart

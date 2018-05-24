@@ -1,0 +1,7 @@
+compound	ball	Kids
+amod	ball	playing
+root	ROOT	ball
+case	park	in
+det	park	the
+nmod:in	ball	park
+punct	ball	.

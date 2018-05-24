@@ -1,0 +1,10 @@
+aux	assume	lets
+root	ROOT	assume
+nsubj	white	we
+aux	white	have
+nmod:npmod	white	%
+ccomp	assume	white
+cc	white	and
+compound	black	%
+conj:and	white	black
+punct	assume	.

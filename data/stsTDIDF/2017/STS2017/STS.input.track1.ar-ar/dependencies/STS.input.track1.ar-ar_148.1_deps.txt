@@ -1,0 +1,5 @@
+root	ROOT	Building
+det	car	a
+dobj	Building	car
+advmod	Building	abroad
+punct	Building	.

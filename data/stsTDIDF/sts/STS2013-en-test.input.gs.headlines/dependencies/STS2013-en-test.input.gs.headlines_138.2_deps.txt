@@ -1,0 +1,8 @@
+compound	Crashes	Pakistani
+compound	Crashes	Plane
+root	ROOT	Crashes
+case	People	With
+nummod	People	130
+nmod:with	Crashes	People
+case	Board	On
+nmod:on	Crashes	Board

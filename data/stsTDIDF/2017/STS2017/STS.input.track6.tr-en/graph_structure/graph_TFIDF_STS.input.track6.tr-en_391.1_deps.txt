@@ -1,0 +1,5 @@
+sleeps	boy	nsubj
+ROOT	sleeps	root
+sleeps	couch	nmod:on
+couch	a	det
+boy	shirtless	amod

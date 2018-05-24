@@ -1,0 +1,9 @@
+jumps	edge	dobj
+jumps	lake	nmod:into
+lake	into	case
+lake	the	det
+jumps	.	punct
+dog	black	amod
+ROOT	jumps	root
+jumps	off	compound:prt
+jumps	dog	nsubj

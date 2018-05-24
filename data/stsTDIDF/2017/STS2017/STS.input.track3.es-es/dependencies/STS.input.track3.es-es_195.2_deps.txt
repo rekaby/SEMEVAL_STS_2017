@@ -1,0 +1,12 @@
+nsubj	take	They
+root	ROOT	take
+det	ride	a
+dobj	take	ride
+case	balloon	on
+det	balloon	the
+amod	balloon	hot
+compound	balloon	air
+nmod:on	ride	balloon
+case	atlantic	over
+det	atlantic	the
+nmod:over	take	atlantic

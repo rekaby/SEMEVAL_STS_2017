@@ -1,0 +1,6 @@
+root	ROOT	recite
+case	chant	as
+det	chant	a
+nmod:as	recite	chant
+punct	recite	,
+appos	recite	intone

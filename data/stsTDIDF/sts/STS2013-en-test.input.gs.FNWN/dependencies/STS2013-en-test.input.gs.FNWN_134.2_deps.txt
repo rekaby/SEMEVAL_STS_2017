@@ -1,0 +1,13 @@
+root	ROOT	free
+case	noise	of
+nmod:of	free	noise
+cc	noise	or
+conj:or	noise	uproar
+punct	free	;
+cc	free	or
+conj:or	free	making
+dobj	making	little
+case	sound	if
+det	sound	any
+nmod:if	making	sound
+punct	free	;

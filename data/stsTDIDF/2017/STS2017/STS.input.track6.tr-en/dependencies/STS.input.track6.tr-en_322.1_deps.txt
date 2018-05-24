@@ -1,0 +1,13 @@
+det	couple	A
+nsubj	talking	couple
+case	side	on
+det	side	the
+nmod:on	couple	side
+case	road	of
+det	road	the
+nmod:of	side	road
+root	ROOT	talking
+case	things	about
+amod	things	deep
+nmod:about	talking	things
+punct	talking	.

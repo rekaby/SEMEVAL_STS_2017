@@ -1,0 +1,9 @@
+compound	owners	Bangladesh
+compound	owners	factory
+nsubj	arrested	owners
+root	ROOT	arrested
+mark	nears	as
+compound	toll	death
+nsubj	nears	toll
+advcl	arrested	nears
+dobj	nears	350

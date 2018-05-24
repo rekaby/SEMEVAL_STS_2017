@@ -1,0 +1,6 @@
+looking	man	nsubj
+food	sale	nmod:for
+sale	store	nmod:outside
+food	at	case
+looking	food	nmod:at
+store	outside	case

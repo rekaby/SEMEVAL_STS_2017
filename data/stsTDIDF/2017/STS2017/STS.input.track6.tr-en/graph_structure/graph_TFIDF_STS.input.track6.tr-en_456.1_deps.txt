@@ -1,0 +1,8 @@
+ROOT	squishes	root
+smile	in	case
+squishes	smile	nmod:in
+squishes	girl	nsubj
+camera	for	case
+squishes	face	dobj
+smile	camera	nmod:for
+squishes	.	punct

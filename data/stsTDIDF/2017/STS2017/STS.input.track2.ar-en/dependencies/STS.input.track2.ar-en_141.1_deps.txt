@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	green
+nmod:in	man	shirt
+acl	shirt	making
+det	cup	a
+dobj	making	cup
+punct	man	.

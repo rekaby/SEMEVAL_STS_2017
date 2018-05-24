@@ -1,0 +1,7 @@
+det	girl	A
+amod	girl	little
+root	ROOT	girl
+acl	girl	running
+case	field	in
+det	field	a
+nmod:in	running	field

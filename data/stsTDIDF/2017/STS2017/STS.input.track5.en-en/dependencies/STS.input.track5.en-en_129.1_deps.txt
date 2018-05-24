@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+dobj	chasing	cows
+punct	chasing	.

@@ -1,0 +1,5 @@
+amod	force	aerodynamic
+root	ROOT	force
+nsubj	opposed	that
+acl:relcl	force	opposed
+dobj	opposed	gravity

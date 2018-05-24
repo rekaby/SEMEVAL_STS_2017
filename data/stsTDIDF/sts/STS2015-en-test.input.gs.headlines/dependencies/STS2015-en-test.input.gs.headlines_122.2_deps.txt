@@ -1,0 +1,11 @@
+root	ROOT	Queen
+compound	II	Elizabeth
+nsubj	visits	II
+acl:relcl	Queen	visits
+dobj	visits	barracks
+case	soldier	of
+compound	soldier	UK
+nmod:of	barracks	soldier
+acl	soldier	slain
+amod	week	last
+nmod:tmod	slain	week

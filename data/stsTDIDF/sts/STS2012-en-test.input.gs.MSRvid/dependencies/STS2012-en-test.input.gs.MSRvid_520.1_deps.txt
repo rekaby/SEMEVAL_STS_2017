@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	walked	dog
+root	ROOT	walked
+case	edge	along
+det	edge	the
+nmod:along	walked	edge
+case	pool	of
+det	pool	the
+nmod:of	edge	pool
+punct	walked	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sings	man
+root	ROOT	sings
+advmod	sings	alone
+case	stage	on
+nmod:on	sings	stage
+case	crowd	for
+det	crowd	a
+nmod:for	stage	crowd
+punct	sings	.

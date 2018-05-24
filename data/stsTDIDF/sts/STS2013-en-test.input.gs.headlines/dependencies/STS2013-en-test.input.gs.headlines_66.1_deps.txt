@@ -1,0 +1,9 @@
+nsubj	mourns	Nigeria
+root	ROOT	mourns
+case	people	over
+nummod	people	193
+nmod:over	mourns	people
+acl	people	killed
+case	plane	in
+nmod:in	killed	plane
+dobj	mourns	crash

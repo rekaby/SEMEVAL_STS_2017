@@ -1,0 +1,8 @@
+nsubj	fighting	Syria
+ccomp	pressed	fighting
+dobj	fighting	rages
+case	capital	in
+nmod:in	rages	capital
+punct	pressed	,
+nsubj	pressed	Russia
+root	ROOT	pressed

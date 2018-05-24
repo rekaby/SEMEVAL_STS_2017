@@ -1,0 +1,7 @@
+chased	.	punct
+chased	dog	nmod:agent
+chased	child	nsubjpass
+ROOT	chased	root
+chased	is	auxpass
+dog	by	case
+child	The	det

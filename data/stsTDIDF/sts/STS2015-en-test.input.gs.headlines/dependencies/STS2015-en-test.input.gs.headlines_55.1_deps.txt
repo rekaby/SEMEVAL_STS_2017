@@ -1,0 +1,6 @@
+det	ship	Another
+amod	ship	migrant
+nsubj	capsizes	ship
+root	ROOT	capsizes
+compound:prt	capsizes	off
+dobj	capsizes	Italy

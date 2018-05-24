@@ -1,0 +1,8 @@
+root	ROOT	keep
+mark	seen	from
+auxpass	seen	being
+advcl	keep	seen
+cc	seen	or
+conj:or	seen	perceived
+case	others	by
+nmod:agent	seen	others

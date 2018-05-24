@@ -1,0 +1,12 @@
+compound	tax	council
+nsubjpass	frozen	tax
+aux	frozen	Has
+neg	frozen	n't
+compound	tax	council
+nsubjpass	frozen	tax
+auxpass	frozen	been
+root	ROOT	frozen
+case	people	for
+amod	people	most
+nmod:for	frozen	people
+punct	frozen	?

@@ -1,0 +1,11 @@
+amod	boys	Teenage
+nsubj	walking	boys
+root	ROOT	walking
+advmod	walking	together
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	walking	sidewalk
+case	city	in
+det	city	the
+nmod:in	walking	city
+punct	walking	.

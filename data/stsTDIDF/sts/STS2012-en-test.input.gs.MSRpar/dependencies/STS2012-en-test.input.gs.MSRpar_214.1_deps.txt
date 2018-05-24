@@ -1,0 +1,17 @@
+det	driver	The
+nsubj	helped	driver
+punct	driver	,
+compound	Rogers	Eugene
+appos	driver	Rogers
+punct	driver	,
+ccomp	said	helped
+mark	remove	to
+xcomp	helped	remove
+dobj	remove	children
+case	bus	from
+det	bus	the
+nmod:from	remove	bus
+punct	said	,
+nsubj	said	Wood
+root	ROOT	said
+punct	said	.

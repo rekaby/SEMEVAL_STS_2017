@@ -1,0 +1,10 @@
+nsubj	watching	People
+aux	watching	are
+root	ROOT	watching
+det	concert	a
+compound	concert	rap
+dobj	watching	concert
+case	Stadium	inside
+det	Stadium	the
+compound	Stadium	Yankee
+nmod:inside	concert	Stadium

@@ -1,0 +1,13 @@
+nsubjpass	held	They
+aux	held	are
+auxpass	held	being
+root	ROOT	held
+case	violations	on
+compound	violations	immigration
+nmod:on	held	violations
+mark	investigated	as
+det	incident	the
+nsubjpass	investigated	incident
+auxpass	investigated	is
+advcl	held	investigated
+punct	held	.

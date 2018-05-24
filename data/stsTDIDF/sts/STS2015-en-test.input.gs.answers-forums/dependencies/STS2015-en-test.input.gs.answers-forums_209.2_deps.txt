@@ -1,0 +1,14 @@
+advmod	place	Why
+aux	place	did
+nsubj	place	Aristotle
+root	ROOT	place
+det	earth	the
+dobj	place	earth
+case	centre	at
+det	centre	the
+nmod:at	place	centre
+case	universe	of
+det	universe	an
+amod	universe	infinite
+nmod:of	centre	universe
+punct	place	?

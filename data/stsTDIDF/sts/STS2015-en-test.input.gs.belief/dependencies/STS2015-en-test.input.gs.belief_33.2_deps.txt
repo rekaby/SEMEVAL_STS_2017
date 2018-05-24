@@ -1,0 +1,15 @@
+nsubj	good	i
+cop	good	'm
+det	good	all
+root	ROOT	good
+advmod	got	now
+nsubj	got	i
+ccomp	good	got
+det	job	a
+amod	job	full
+compound	job	time
+dobj	got	job
+case	feds	with
+det	feds	the
+nmod:with	job	feds
+punct	good	.

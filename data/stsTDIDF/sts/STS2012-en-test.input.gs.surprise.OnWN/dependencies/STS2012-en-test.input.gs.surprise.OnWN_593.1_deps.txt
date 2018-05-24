@@ -1,0 +1,6 @@
+compound	metal	heat
+root	ROOT	metal
+advmod	working	prior
+mark	working	to
+acl	metal	working
+dobj	working	it

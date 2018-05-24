@@ -1,0 +1,8 @@
+det	man	The
+nsubj	balancing	man
+aux	balancing	is
+root	ROOT	balancing
+case	wire	on
+det	wire	the
+nmod:on	balancing	wire
+punct	balancing	.

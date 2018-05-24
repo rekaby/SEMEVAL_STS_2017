@@ -1,0 +1,9 @@
+amod	fiction	religious
+root	ROOT	fiction
+acl	fiction	Is
+neg	that	n't
+xcomp	Is	that
+dep	that	redundant
+cc	redundant	and
+conj:and	redundant	repetetive
+punct	fiction	?

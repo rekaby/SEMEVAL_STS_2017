@@ -1,0 +1,14 @@
+nsubj	oppose	china
+aux	oppose	will
+advmod	oppose	resolutely
+root	ROOT	oppose
+det	means	the
+dobj	oppose	means
+case	delivery	of
+det	delivery	the
+nmod:of	means	delivery
+case	weapons	of
+compound	weapons	mass
+amod	weapons	destructive
+nmod:of	delivery	weapons
+punct	oppose	.

@@ -1,0 +1,6 @@
+root	ROOT	make
+dobj	make	coincide
+case	time	in
+nmod:in	coincide	time
+cc	time	or
+conj:or	time	operation

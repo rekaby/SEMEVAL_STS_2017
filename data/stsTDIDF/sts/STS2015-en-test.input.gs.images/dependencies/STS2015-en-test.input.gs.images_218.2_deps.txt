@@ -1,0 +1,12 @@
+det	women	A
+nsubj	dangles	women
+root	ROOT	dangles
+case	fabric	from
+det	fabric	a
+amod	fabric	blue
+nmod:from	dangles	fabric
+acl	fabric	connected
+case	tree	to
+det	tree	a
+nmod:to	connected	tree
+punct	dangles	.

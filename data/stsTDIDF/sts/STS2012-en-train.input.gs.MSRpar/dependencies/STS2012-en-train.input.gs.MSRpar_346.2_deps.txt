@@ -1,0 +1,16 @@
+det	technique	The
+nsubjpass	used	technique
+auxpass	used	is
+root	ROOT	used
+case	second	during
+det	second	the
+nmod:during	used	second
+cc	second	and
+conj:and	second	,
+dep	,	occasionally
+punct	occasionally	,
+amod	trimester	third
+root	,	trimester
+case	pregnancy	of
+nmod:of	trimester	pregnancy
+punct	trimester	.

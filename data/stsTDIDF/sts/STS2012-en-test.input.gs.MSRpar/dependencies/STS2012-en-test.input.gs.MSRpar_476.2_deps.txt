@@ -1,0 +1,15 @@
+det	Bombardier	The
+nsubjpass	delivered	Bombardier
+cc	Bombardier	and
+compound	aircraft	Embraer
+conj:and	Bombardier	aircraft
+aux	delivered	will
+auxpass	delivered	be
+root	ROOT	delivered
+case	Airways	to
+compound	Airways	U.S.
+nmod:to	delivered	Airways
+case	September	by
+nmod:agent	delivered	September
+nummod	September	2006
+punct	delivered	.

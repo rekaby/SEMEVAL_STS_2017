@@ -1,0 +1,6 @@
+det	man	A
+nsubj	sits	man
+root	ROOT	sits
+case	steps	on
+nmod:on	sits	steps
+punct	sits	.

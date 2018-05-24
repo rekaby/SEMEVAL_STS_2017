@@ -1,0 +1,7 @@
+compound	violin	Titanic
+nsubj	sells	violin
+root	ROOT	sells
+case	$	for
+nmod:for	sells	$
+compound	million	1.7
+nummod	$	million

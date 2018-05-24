@@ -1,0 +1,8 @@
+det	man	A
+amod	man	young
+nsubj	works	man
+root	ROOT	works
+case	museum	for
+det	museum	a
+nmod:for	works	museum
+punct	works	.

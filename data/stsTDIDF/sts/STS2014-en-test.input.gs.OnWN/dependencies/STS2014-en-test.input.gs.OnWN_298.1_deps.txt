@@ -1,0 +1,5 @@
+amod	page	starting
+root	ROOT	page
+case	website	of
+det	website	a
+nmod:of	page	website

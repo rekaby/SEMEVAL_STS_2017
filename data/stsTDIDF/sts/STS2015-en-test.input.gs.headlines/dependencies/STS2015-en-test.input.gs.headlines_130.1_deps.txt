@@ -1,0 +1,9 @@
+compound	militants	Bangla
+nsubj	escape	militants
+root	ROOT	escape
+case	van	from
+compound	van	prison
+nmod:from	escape	van
+case	bomb	in
+nmod:in	escape	bomb
+dep	escape	ambush

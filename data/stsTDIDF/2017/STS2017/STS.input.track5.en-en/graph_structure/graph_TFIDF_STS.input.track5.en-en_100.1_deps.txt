@@ -1,0 +1,5 @@
+bounces	.	punct
+bounces	player	nsubj
+player	A	det
+bounces	ball	dobj
+ROOT	bounces	root

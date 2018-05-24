@@ -1,0 +1,10 @@
+nsubj	speaks	Director
+root	ROOT	speaks
+case	member	to
+det	member	a
+nmod:to	speaks	member
+case	staff	of
+nmod:of	member	staff
+case	him	with
+nmod:with	member	him
+punct	speaks	.

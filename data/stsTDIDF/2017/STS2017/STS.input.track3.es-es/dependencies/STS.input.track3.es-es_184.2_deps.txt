@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+case	painting	with
+det	painting	a
+compound	painting	beard
+nmod:with	man	painting
+punct	man	.

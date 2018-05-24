@@ -1,0 +1,14 @@
+case	rules	As
+mwe	As	per
+det	rules	the
+nmod:as_per	decide	rules
+punct	decide	,
+compound	award	MoM
+nsubj	decide	award
+aux	decide	is
+root	ROOT	decide
+case	pannel	by
+det	pannel	the
+amod	pannel	commentry
+nmod:by	decide	pannel
+punct	decide	.

@@ -1,0 +1,17 @@
+det	man	An
+amod	man	old
+amod	man	beige
+nsubj	standing	man
+root	ROOT	standing
+case	man	near
+det	man	a
+amod	man	younger
+nmod:near	standing	man
+case	blue	in
+nmod:in	man	blue
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	blue	building
+punct	standing	.

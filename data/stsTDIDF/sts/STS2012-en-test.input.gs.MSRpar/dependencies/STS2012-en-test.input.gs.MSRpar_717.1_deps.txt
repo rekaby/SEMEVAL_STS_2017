@@ -1,0 +1,13 @@
+nsubj	had	Toronto
+nmod:tmod	had	yesterday
+root	ROOT	had
+nummod	cases	64
+amod	cases	probable
+dobj	had	cases
+case	SARS	of
+nmod:of	cases	SARS
+cc	SARS	and
+nummod	cases	nine
+amod	cases	suspect
+conj:and	SARS	cases
+punct	had	.

@@ -1,0 +1,9 @@
+det	quality	the
+root	ROOT	quality
+mark	important	of
+cop	important	being
+acl	quality	important
+punct	important	,
+xcomp	important	worthy
+case	attention	of
+nmod:of	worthy	attention

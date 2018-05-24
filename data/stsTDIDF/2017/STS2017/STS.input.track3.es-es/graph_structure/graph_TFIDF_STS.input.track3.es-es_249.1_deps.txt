@@ -1,0 +1,7 @@
+steps	house	nmod:in_front_of
+sitting	man	nsubj
+man	sad	amod
+steps	on	case
+sitting	steps	nmod:on
+door	of	case
+steps	door	nmod:of

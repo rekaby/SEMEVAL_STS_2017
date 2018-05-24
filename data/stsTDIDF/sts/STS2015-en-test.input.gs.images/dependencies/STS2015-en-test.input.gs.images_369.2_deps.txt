@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+dobj	playing	tug-o-war
+punct	playing	.

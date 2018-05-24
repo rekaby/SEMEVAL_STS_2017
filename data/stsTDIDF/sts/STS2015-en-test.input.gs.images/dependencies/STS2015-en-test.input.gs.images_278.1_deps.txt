@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	jumping	boy
+root	ROOT	jumping
+case	air	in
+det	air	the
+nmod:in	jumping	air
+case	beach	at
+det	beach	the
+nmod:at	jumping	beach
+punct	jumping	.

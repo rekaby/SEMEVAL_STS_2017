@@ -1,0 +1,16 @@
+nsubj	lost	Russia
+case	Putin	of
+nmod:of	Russia	Putin
+advmod	lost	already
+root	ROOT	lost
+nummod	journalists	12
+amod	journalists	eminent
+dobj	lost	journalists
+punct	lost	,
+advcl	lost	assassinated
+case	years	during
+det	years	the
+nummod	years	six
+amod	years	last
+nmod:during	assassinated	years
+punct	lost	.

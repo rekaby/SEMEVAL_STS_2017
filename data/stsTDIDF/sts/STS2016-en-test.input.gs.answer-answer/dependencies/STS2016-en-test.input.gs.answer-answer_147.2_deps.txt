@@ -1,0 +1,7 @@
+root	ROOT	So
+punct	So	,
+root	,	CAN
+nsubj	do	you
+acl:relcl	CAN	do
+dobj	do	this
+punct	CAN	?

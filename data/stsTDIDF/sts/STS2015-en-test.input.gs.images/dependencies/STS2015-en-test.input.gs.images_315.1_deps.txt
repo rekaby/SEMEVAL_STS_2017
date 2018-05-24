@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+nsubj	entangled	dog
+acl	dog	wearing
+det	collar	an
+amod	collar	orange
+dobj	wearing	collar
+cop	entangled	is
+root	ROOT	entangled
+case	wire	with
+compound	wire	fishing
+nmod:with	entangled	wire
+punct	entangled	.

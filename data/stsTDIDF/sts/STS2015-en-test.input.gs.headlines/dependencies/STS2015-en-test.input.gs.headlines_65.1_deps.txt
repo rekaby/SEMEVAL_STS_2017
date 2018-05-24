@@ -1,0 +1,9 @@
+nsubj	sees	Cuba
+root	ROOT	sees
+punct	role	``
+amod	role	major
+dobj	sees	role
+punct	role	''
+case	investment	for
+amod	investment	foreign
+nmod:for	role	investment

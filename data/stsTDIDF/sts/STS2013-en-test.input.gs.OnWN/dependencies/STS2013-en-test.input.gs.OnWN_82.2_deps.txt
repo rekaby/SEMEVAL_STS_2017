@@ -1,0 +1,10 @@
+root	ROOT	make
+det	noise	a
+dobj	make	noise
+amod	noise	typical
+case	engine	of
+det	engine	an
+nmod:of	typical	engine
+acl	engine	lacking
+dobj	lacking	lubricants
+punct	make	.

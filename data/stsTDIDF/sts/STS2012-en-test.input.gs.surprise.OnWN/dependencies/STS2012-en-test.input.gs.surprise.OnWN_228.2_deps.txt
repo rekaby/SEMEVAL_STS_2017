@@ -1,0 +1,12 @@
+root	ROOT	pursue
+case	food	for
+nmod:for	pursue	food
+cc	food	or
+conj:or	food	sport
+punct	animals	-LRB-
+case	animals	as
+mwe	as	of
+amod	animals	wild
+nmod:as_of	pursue	animals
+punct	animals	-RRB-
+punct	pursue	.

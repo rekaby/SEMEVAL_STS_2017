@@ -1,0 +1,8 @@
+det	bear	A
+nsubj	running	bear
+aux	running	is
+root	ROOT	running
+case	dogs	from
+nummod	dogs	two
+nmod:from	running	dogs
+punct	running	.

@@ -1,0 +1,11 @@
+compound	Tendulkar	Sachin
+nsubj	says	Tendulkar
+root	ROOT	says
+nsubj	God	I
+cop	God	'm
+neg	God	not
+ccomp	says	God
+punct	God	,
+nsubj	Sachin	I
+cop	Sachin	'm
+acl:relcl	God	Sachin

@@ -1,0 +1,9 @@
+nummod	accident	35
+dep	35	dead
+cc	dead	and
+conj:and	dead	165
+dep	dead	missing
+case	boat	in
+compound	boat	India
+nmod:in	missing	boat
+root	ROOT	accident

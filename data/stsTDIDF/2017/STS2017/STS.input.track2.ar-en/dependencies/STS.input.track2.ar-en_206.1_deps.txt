@@ -1,0 +1,8 @@
+det	kids	The
+nummod	kids	two
+nsubj	fighting	kids
+aux	fighting	are
+root	ROOT	fighting
+det	other	each
+dobj	fighting	other
+punct	fighting	.

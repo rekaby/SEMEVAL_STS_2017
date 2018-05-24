@@ -1,0 +1,6 @@
+nsubj	launches	Syria
+root	ROOT	launches
+compound	assault	ground
+dobj	launches	assault
+case	Aleppo	in
+nmod:in	launches	Aleppo

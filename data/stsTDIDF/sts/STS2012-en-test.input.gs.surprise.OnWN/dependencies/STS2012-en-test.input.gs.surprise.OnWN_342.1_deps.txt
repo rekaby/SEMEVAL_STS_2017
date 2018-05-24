@@ -1,0 +1,7 @@
+root	ROOT	Entail
+case	accompaniment	as
+det	accompaniment	a
+amod	accompaniment	necessary
+nmod:as	Entail	accompaniment
+cc	Entail	or
+conj:or	Entail	result

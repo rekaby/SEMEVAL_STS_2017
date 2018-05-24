@@ -1,0 +1,11 @@
+nsubj	here	We
+cop	here	are
+advmod	here	often
+root	ROOT	here
+mark	represent	to
+acl	here	represent
+det	citizens	the
+dobj	represent	citizens
+case	Europe	of
+nmod:of	citizens	Europe
+punct	here	.

@@ -1,0 +1,12 @@
+nsubj	Use	US
+aux	Use	Can
+neg	Use	not
+punct	Use	`
+amod	Use	Conclusively
+compound	Use	Determine
+punct	Use	'
+compound	Use	Chemical
+compound	Use	Weapons
+root	ROOT	Use
+case	Syria	in
+nmod:in	Use	Syria

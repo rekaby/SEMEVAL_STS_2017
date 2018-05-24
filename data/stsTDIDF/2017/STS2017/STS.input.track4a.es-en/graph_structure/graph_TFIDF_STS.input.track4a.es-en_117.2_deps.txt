@@ -1,0 +1,16 @@
+white	brown	conj:and
+standing	with	case
+laying	cat	nsubj
+laying	.	punct
+standing	it	nmod:on
+standing	rodent	amod
+cat	A	det
+jacket	standing	nmod:with
+laying	jacket	nmod:on
+jacket	on	case
+jacket	red	amod
+cat	white	amod
+standing	a	det
+laying	down	compound:prt
+laying	is	aux
+ROOT	laying	root

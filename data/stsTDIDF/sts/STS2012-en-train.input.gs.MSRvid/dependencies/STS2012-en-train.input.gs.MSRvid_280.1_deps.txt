@@ -1,0 +1,11 @@
+det	boy	The
+nsubj	cut	boy
+root	ROOT	cut
+det	grass	the
+dobj	cut	grass
+case	curb	by
+det	curb	the
+nmod:by	cut	curb
+case	scissors	with
+nmod:with	curb	scissors
+punct	cut	.

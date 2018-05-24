@@ -1,0 +1,9 @@
+nummod	foreigners	4
+root	ROOT	foreigners
+case	9	among
+nmod:among	foreigners	9
+acl	9	killed
+case	attack	in
+compound	attack	Kabul
+compound	attack	hotel
+nmod:in	killed	attack

@@ -1,0 +1,11 @@
+advmod	rid	How
+aux	rid	do
+nsubj	rid	I
+dep	rid	get
+root	ROOT	rid
+case	fleas	of
+nmod:of	rid	fleas
+case	rabbit	on
+nmod:poss	rabbit	my
+nmod:on	rid	rabbit
+punct	rid	?

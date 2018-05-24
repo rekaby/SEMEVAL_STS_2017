@@ -1,0 +1,13 @@
+det	woman	A
+amod	woman	blond
+root	ROOT	woman
+acl	woman	walking
+det	plaza	a
+dobj	walking	plaza
+case	buildings	in
+mwe	in	front
+mwe	in	of
+amod	buildings	brightly
+amod	buildings	colored
+nmod:in_front_of	walking	buildings
+punct	woman	.

@@ -1,0 +1,10 @@
+det	limitations	The
+nsubj	thus	limitations
+case	model	of
+det	model	the
+compound	model	vector
+compound	model	space
+nmod:of	limitations	model
+cop	thus	are
+root	ROOT	thus
+punct	thus	.

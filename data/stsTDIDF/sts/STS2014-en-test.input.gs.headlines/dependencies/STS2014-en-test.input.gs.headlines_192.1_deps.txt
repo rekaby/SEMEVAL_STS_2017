@@ -1,0 +1,14 @@
+nsubj	delayed	Start
+case	festival	of
+compound	festival	San
+compound	festival	Fermin
+amod	festival	bull-running
+nmod:of	Start	festival
+advmod	delayed	briefly
+root	ROOT	delayed
+mark	view	as
+dobj	delayed	view
+acl	view	obstructed
+case	flag	by
+amod	flag	Basque
+nmod:by	obstructed	flag

@@ -1,0 +1,14 @@
+nsubj	pontificate	We
+advmod	pontificate	often
+root	ROOT	pontificate
+advmod	pontificate	here
+mark	representatives	about
+cop	representatives	being
+det	representatives	the
+advcl	pontificate	representatives
+case	citizens	of
+det	citizens	the
+nmod:of	representatives	citizens
+case	Europe	of
+nmod:of	citizens	Europe
+punct	pontificate	.

@@ -1,0 +1,7 @@
+compound	Younis	PCB
+compound	Younis	appoints
+compound	Younis	Waqar
+root	ROOT	Younis
+case	coach	as
+compound	coach	head
+nmod:as	Younis	coach

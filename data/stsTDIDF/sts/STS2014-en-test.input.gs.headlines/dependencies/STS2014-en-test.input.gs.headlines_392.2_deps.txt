@@ -1,0 +1,7 @@
+amod	president	Iraqi
+root	ROOT	president
+case	hospital	in
+nmod:in	president	hospital
+mark	suffering	after
+acl	president	suffering
+dobj	suffering	stroke

@@ -1,0 +1,15 @@
+nsubj	spoke	antonov
+root	ROOT	spoke
+det	day	the
+dobj	spoke	day
+case	conference	before
+det	conference	a
+nmod:before	spoke	conference
+case	forces	on
+det	forces	the
+amod	forces	conventional
+nmod:on	conference	forces
+case	treaty	in
+compound	treaty	europe
+nmod:in	forces	treaty
+punct	spoke	.

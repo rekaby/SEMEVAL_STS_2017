@@ -1,0 +1,16 @@
+root	ROOT	act
+mark	getting	of
+acl	act	getting
+cc	getting	or
+conj:or	getting	draining
+dobj	getting	something
+case	electricity	such
+mwe	such	as
+nmod:such_as	something	electricity
+cc	electricity	or
+det	liquid	a
+conj:or	electricity	liquid
+case	source	from
+det	source	a
+nmod:from	liquid	source
+punct	act	.

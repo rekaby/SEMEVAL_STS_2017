@@ -1,0 +1,8 @@
+root	ROOT	protect
+cc	protect	or
+conj:or	protect	fight
+case	champion	for
+case	champion	as
+det	champion	a
+nmod:as	fight	champion
+punct	protect	.

@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	sitting
+case	grass	on
+det	grass	the
+nmod:on	sitting	grass
+acl	grass	wearing
+compound	helmets	bicycle
+dobj	wearing	helmets
+punct	men	.

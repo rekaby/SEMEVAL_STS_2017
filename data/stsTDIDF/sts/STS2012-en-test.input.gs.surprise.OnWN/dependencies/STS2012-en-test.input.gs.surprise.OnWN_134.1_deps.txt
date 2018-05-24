@@ -1,0 +1,7 @@
+root	ROOT	Germinate
+punct	Germinate	,
+case	plant	as
+case	plant	in
+det	plant	a
+nmod:in	Germinate	plant
+punct	Germinate	.

@@ -1,0 +1,8 @@
+det	voltage	the
+nsubj	stays	voltage
+root	ROOT	stays
+det	same	the
+dobj	stays	same
+case	battery	within
+det	battery	the
+nmod:within	same	battery

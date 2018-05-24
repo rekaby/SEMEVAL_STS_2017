@@ -1,0 +1,10 @@
+det	man	A
+nsubj	surfing	man
+cop	surfing	is
+compound	surfing	kite
+root	ROOT	surfing
+case	camera	away
+mwe	away	from
+det	camera	the
+nmod:away_from	surfing	camera
+punct	surfing	.

@@ -1,0 +1,6 @@
+is	women	nsubj
+getting	hand	dobj
+women	a	det
+women	getting	acl
+is	painted	dep
+hand	her	nmod:poss

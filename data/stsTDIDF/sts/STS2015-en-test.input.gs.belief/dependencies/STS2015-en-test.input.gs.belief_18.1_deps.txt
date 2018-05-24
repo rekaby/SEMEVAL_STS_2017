@@ -1,0 +1,12 @@
+cc	was	and
+det	idea	the
+nsubj	was	idea
+root	ROOT	was
+mark	help	to
+xcomp	was	help
+nsubj	connect	people
+ccomp	help	connect
+case	opportunities	with
+compound	opportunities	volunteer
+nmod:with	connect	opportunities
+punct	was	.

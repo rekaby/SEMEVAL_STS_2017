@@ -1,0 +1,10 @@
+advmod	long	How
+advmod	cooked	long
+aux	cooked	does
+root	ROOT	cooked
+nsubj	keep	TVP
+ccomp	cooked	keep
+case	fridge	in
+det	fridge	the
+nmod:in	keep	fridge
+punct	cooked	?

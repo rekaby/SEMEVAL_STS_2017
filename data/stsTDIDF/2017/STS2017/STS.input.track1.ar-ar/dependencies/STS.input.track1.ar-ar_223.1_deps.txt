@@ -1,0 +1,9 @@
+det	man	A
+nsubj	uses	man
+root	ROOT	uses
+det	saw	a
+dobj	uses	saw
+case	show	at
+det	show	the
+nmod:at	saw	show
+punct	uses	.

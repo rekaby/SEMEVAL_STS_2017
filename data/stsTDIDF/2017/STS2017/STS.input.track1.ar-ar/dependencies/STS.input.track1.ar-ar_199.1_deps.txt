@@ -1,0 +1,13 @@
+det	rule	The
+amod	rule	same
+root	ROOT	rule
+case	pitch	for
+compound	pitch	dust
+compound	pitch	plate
+nmod:for	rule	pitch
+mark	see	in
+mwe	in	order
+mark	see	to
+acl	rule	see
+advmod	see	better
+punct	rule	.

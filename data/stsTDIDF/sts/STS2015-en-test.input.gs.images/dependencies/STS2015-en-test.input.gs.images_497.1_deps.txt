@@ -1,0 +1,6 @@
+det	dog	A
+root	ROOT	dog
+case	snow	in
+det	snow	the
+nmod:in	dog	snow
+punct	dog	.

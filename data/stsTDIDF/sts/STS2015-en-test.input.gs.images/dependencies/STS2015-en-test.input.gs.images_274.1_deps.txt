@@ -1,0 +1,7 @@
+nummod	puppies	two
+root	ROOT	puppies
+acl	puppies	playing
+case	grass	around
+case	grass	in
+det	grass	the
+nmod:in	playing	grass

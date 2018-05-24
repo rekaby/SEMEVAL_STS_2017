@@ -1,0 +1,8 @@
+nsubj	held	Brazil
+root	ROOT	held
+case	England	by
+nmod:by	held	England
+nummod	England	2-2
+case	Maracana	as
+nmod:as	held	Maracana
+dep	held	re-opens

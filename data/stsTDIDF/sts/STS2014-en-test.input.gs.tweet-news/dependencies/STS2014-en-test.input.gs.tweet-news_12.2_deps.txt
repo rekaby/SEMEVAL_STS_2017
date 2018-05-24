@@ -1,0 +1,7 @@
+det	Places	The
+nummod	Places	46
+root	ROOT	Places
+mark	Go	to
+acl	Places	Go
+case	2013	in
+nmod:in	Go	2013

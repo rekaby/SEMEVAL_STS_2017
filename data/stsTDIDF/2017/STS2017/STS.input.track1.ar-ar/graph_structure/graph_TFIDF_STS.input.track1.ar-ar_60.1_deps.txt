@@ -1,0 +1,4 @@
+ROOT	Biker	root
+race	after	case
+Biker	race	nmod:after
+Biker	.	punct

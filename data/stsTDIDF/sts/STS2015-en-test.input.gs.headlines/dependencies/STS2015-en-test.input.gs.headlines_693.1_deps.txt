@@ -1,0 +1,13 @@
+nsubj	pays	AstraZeneca
+root	ROOT	pays
+dobj	pays	$
+nummod	$	4.1
+dep	$	bn
+mark	buy	to
+acl	bn	buy
+compound	Squibb	Bristol-Myers
+dobj	buy	Squibb
+case	alliance	out
+mwe	out	of
+compound	alliance	diabetes
+nmod:out_of	buy	alliance

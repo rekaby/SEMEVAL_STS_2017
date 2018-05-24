@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	toy	with
+det	toy	a
+nmod:with	playing	toy
+punct	playing	.

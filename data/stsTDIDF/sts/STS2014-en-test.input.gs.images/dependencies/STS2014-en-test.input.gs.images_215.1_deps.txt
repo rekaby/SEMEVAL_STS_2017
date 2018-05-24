@@ -1,0 +1,7 @@
+det	moped	A
+root	ROOT	moped
+case	ruins	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	moped	ruins
+punct	moped	.

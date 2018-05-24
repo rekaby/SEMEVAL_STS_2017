@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	drives	woman
+root	ROOT	drives
+det	cart	a
+compound	cart	golf
+dobj	drives	cart
+punct	drives	.

@@ -1,0 +1,9 @@
+nsubj	time	This
+cop	time	is
+neg	time	not
+det	time	the
+root	ROOT	time
+mark	hesitant	to
+cop	hesitant	be
+acl	time	hesitant
+punct	time	.

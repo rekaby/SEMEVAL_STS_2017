@@ -1,0 +1,10 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+expl	is	there
+ccomp	think	is
+det	definition	a
+amod	definition	single
+nsubj	is	definition
+punct	think	.

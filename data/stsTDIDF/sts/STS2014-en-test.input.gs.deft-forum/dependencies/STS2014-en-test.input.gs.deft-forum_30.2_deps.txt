@@ -1,0 +1,12 @@
+nsubj	stop	You
+aux	stop	should
+root	ROOT	stop
+xcomp	stop	prefixing
+cc	prefixing	or
+conj:or	prefixing	suffixing
+dobj	prefixing	everything
+mark	hate	with
+nsubj	hate	you
+advcl	prefixing	hate
+dobj	hate	Jews
+punct	stop	.

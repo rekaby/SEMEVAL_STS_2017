@@ -1,0 +1,11 @@
+root	ROOT	OMG
+punct	OMG	,
+punct	go	``
+nsubj	go	Einstein
+aux	go	did
+neg	go	n't
+dep	OMG	go
+case	college	to
+nmod:to	go	college
+punct	OMG	.
+punct	OMG	''

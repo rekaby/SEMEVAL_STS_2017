@@ -1,0 +1,10 @@
+det	game	a
+amod	game	casual
+root	ROOT	game
+mark	throwing	of
+acl	game	throwing
+det	ball	a
+dobj	throwing	ball
+advmod	throwing	back
+cc	throwing	and
+conj:and	throwing	forth

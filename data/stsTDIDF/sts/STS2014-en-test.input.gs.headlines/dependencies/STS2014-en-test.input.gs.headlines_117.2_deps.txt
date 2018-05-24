@@ -1,0 +1,7 @@
+compound	Korea	North
+nsubj	proposes	Korea
+root	ROOT	proposes
+amod	talks	high-level
+dobj	proposes	talks
+case	US	with
+nmod:with	talks	US

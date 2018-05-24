@@ -1,0 +1,10 @@
+nsubj	guys	You
+nsubj	making	guys
+aux	making	are
+root	ROOT	making
+det	WAAAAAY	this
+det	WAAAAAY	all
+nsubj	complicated	WAAAAAY
+advmod	complicated	too
+xcomp	making	complicated
+punct	making	.

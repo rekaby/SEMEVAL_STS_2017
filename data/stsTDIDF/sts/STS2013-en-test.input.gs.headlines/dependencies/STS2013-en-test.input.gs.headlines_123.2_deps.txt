@@ -1,0 +1,9 @@
+root	ROOT	Hurricane
+nsubj	gains	Sandy
+acl:relcl	Hurricane	gains
+dobj	gains	speed
+punct	Hurricane	,
+compound	coast	batters
+compound	coast	US
+amod	coast	east
+appos	Hurricane	coast

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	posing	woman
+aux	posing	is
+root	ROOT	posing
+case	card	for
+det	card	a
+compound	card	Christmas
+nmod:for	posing	card
+punct	posing	.

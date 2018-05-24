@@ -1,0 +1,8 @@
+root	ROOT	cause
+mark	reproduce	to
+xcomp	cause	reproduce
+punct	plants	-LRB-
+dep	reproduce	plants
+cc	plants	or
+conj:or	plants	animals
+punct	plants	-RRB-

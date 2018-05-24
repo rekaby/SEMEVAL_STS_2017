@@ -1,0 +1,6 @@
+root	ROOT	Remove
+dobj	Remove	water
+case	substance	from
+det	substance	a
+nmod:from	Remove	substance
+punct	Remove	.

@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	looking	women
+case	kitchen	in
+det	kitchen	the
+nmod:in	women	kitchen
+root	ROOT	looking
+case	object	at
+det	object	a
+nmod:at	looking	object
+punct	looking	.

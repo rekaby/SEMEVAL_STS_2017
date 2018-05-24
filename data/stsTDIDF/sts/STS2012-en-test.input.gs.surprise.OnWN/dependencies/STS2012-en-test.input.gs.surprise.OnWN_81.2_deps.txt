@@ -1,0 +1,8 @@
+amod	failure	suffer
+root	ROOT	failure
+punct	failure	,
+case	enterprise	as
+case	enterprise	in
+det	enterprise	some
+nmod:in	failure	enterprise
+punct	failure	.

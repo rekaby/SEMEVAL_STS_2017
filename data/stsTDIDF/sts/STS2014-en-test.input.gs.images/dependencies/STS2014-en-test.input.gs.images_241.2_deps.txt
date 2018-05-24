@@ -1,0 +1,12 @@
+det	standing	A
+amod	standing	black
+cc	black	and
+conj:and	black	white
+compound	standing	cat
+root	ROOT	standing
+case	window	in
+mwe	in	front
+mwe	in	of
+det	window	a
+nmod:in_front_of	standing	window
+punct	standing	.

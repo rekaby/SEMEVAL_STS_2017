@@ -1,0 +1,8 @@
+nsubj	see	Girl
+root	ROOT	see
+nmod:poss	boyfriend	her
+dobj	see	boyfriend
+acl	boyfriend	practicing
+amod	arts	martial
+dobj	practicing	arts
+punct	see	.

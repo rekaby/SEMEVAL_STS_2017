@@ -1,0 +1,8 @@
+det	child	The
+nsubj	jumps	child
+root	ROOT	jumps
+case	mattress	to
+det	mattress	the
+amod	mattress	other
+nmod:to	jumps	mattress
+punct	jumps	.

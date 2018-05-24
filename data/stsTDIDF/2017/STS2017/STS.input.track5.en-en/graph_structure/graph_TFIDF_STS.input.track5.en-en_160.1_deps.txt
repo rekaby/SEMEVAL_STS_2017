@@ -1,0 +1,10 @@
+run	crowd	nsubj
+shirts	their	nmod:poss
+run	race	nmod:in
+wearing	shirts	nmod:on
+shirts	on	case
+crowd	men	nmod:of
+men	wearing	acl
+numbers	paper	compound
+crowd	A	det
+wearing	numbers	dobj

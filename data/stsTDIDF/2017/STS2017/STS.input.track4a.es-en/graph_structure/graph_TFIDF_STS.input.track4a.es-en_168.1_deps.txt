@@ -1,0 +1,5 @@
+track	railroad	compound
+sit	workers	nsubj
+track	near	case
+sit	track	nmod:near
+workers	Construction	compound

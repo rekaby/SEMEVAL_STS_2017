@@ -1,0 +1,8 @@
+det	man	The
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	mural	by
+det	mural	a
+nmod:by	walking	mural
+punct	walking	.

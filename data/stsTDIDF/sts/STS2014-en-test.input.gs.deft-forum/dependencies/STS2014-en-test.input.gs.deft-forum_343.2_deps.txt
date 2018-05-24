@@ -1,0 +1,9 @@
+aux	want	do
+neg	want	n't
+root	ROOT	want
+det	president	a
+dobj	want	president
+nsubj	compassionate	that
+cop	compassionate	is
+acl:relcl	president	compassionate
+punct	want	.

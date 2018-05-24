@@ -1,0 +1,14 @@
+det	guy	An
+amod	guy	old
+nsubj	working	guy
+aux	working	is
+root	ROOT	working
+case	farm	on
+nmod:poss	farm	his
+nmod:on	working	farm
+cc	farm	and
+det	cow	a
+nsubj	kicks	cow
+conj:and	farm	kicks
+dobj	kicks	him
+punct	working	.

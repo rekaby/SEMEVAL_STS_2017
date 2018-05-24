@@ -1,0 +1,13 @@
+nmod:poss	answer	My
+nsubj	depending	answer
+aux	depending	would
+aux	depending	be
+root	ROOT	depending
+case	which	on
+nmod:on	referring	which
+nsubj	referring	GRE
+aux	referring	are
+nsubj	referring	you
+ccomp	depending	referring
+nmod	referring	to
+punct	depending	?

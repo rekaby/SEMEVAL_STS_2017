@@ -1,0 +1,17 @@
+det	period	The
+punct	period	-LRB-
+root	ROOT	period
+case	control	of
+punct	control	-RRB-
+nmod:of	period	control
+case	country	of
+det	country	a
+nmod:of	control	country
+case	forces	by
+amod	forces	military
+nmod:by	control	forces
+case	power	of
+det	power	a
+amod	power	foreign
+nmod:of	forces	power
+punct	period	.

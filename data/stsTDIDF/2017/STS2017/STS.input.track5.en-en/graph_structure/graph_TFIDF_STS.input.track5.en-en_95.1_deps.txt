@@ -1,0 +1,6 @@
+highway	a	det
+walking	woman	nsubj
+side	highway	nmod:of
+highway	of	case
+walking	side	dobj
+walking	down	compound:prt

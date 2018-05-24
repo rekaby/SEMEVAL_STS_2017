@@ -1,0 +1,12 @@
+people	polling	compound
+identify	them	dobj
+Party	National	compound
+Party	from	case
+Party	British	compound
+difficult	identify	xcomp
+difficult	,	punct
+came	people	nmod:to
+came	Party	nmod:from
+difficult	came	advcl
+difficult	would	aux
+difficult	Earlier	advmod

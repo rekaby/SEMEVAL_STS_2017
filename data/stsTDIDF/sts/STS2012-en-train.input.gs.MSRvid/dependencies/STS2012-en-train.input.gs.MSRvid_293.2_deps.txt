@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	licking	cat
+aux	licking	is
+root	ROOT	licking
+nmod:poss	paw	its
+dobj	licking	paw
+punct	licking	.

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	picking	woman
+root	ROOT	picking
+compound:prt	picking	up
+det	rock	a
+amod	rock	large
+dobj	picking	rock
+punct	picking	.

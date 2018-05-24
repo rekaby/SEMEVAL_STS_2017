@@ -1,0 +1,11 @@
+det	mother	A
+nsubj	cutting	mother
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	fabric
+case	squares	into
+nmod:into	cutting	squares
+case	quilt	for
+det	quilt	a
+nmod:for	squares	quilt
+punct	cutting	.

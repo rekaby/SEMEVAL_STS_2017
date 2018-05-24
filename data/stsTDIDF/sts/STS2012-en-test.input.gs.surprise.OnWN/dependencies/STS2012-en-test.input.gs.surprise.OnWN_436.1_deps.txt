@@ -1,0 +1,13 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	swing	to
+punct	swing	-RRB-
+nmod:to	cause	swing
+cc	cause	and
+conj:and	cause	miss
+det	pitch	the
+amod	pitch	third
+dobj	miss	pitch
+punct	cause	,
+conj:and	cause	striking
+compound:prt	striking	out

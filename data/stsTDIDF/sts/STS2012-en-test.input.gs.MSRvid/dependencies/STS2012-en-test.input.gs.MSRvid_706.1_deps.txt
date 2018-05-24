@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	drinking	cat
+aux	drinking	is
+root	ROOT	drinking
+det	water	some
+dobj	drinking	water
+punct	drinking	.

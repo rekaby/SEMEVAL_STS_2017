@@ -1,0 +1,10 @@
+root	ROOT	work
+conj:or	work	work
+case	to	for
+cc	for	or
+cop	servant	be
+det	servant	a
+conj:or	for	servant
+nmod:for	work	to
+nmod:servant	work	to
+punct	work	;

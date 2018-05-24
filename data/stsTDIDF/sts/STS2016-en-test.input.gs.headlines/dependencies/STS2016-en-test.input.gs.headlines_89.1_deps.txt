@@ -1,0 +1,11 @@
+nsubj	remembered	Mandela
+csubjpass	planned	remembered
+case	family	by
+nmod:by	remembered	family
+punct	family	,
+case	service	as
+compound	service	stadium
+compound	service	memorial
+nmod:as	family	service
+auxpass	planned	is
+root	ROOT	planned

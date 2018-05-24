@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	stands	woman
+root	ROOT	stands
+case	arms	with
+nmod:poss	arms	her
+nmod:with	stands	arms
+advmod	arms	out
+case	store	in
+det	store	a
+nmod:in	stands	store
+mark	holds	while
+det	woman	another
+nsubj	holds	woman
+advcl	stands	holds
+det	camera	a
+dobj	holds	camera
+punct	stands	.

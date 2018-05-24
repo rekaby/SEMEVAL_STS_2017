@@ -1,0 +1,15 @@
+det	person	Another
+nsubj	missing	person
+punct	person	,
+det	man	a
+appos	person	man
+case	Worth	from
+compound	Worth	Fort
+nmod:from	man	Worth
+punct	Worth	,
+appos	Worth	Texas
+punct	Worth	,
+advmod	missing	also
+aux	missing	was
+root	ROOT	missing
+punct	missing	.

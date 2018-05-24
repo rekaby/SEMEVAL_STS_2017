@@ -1,0 +1,5 @@
+det	act	the
+root	ROOT	act
+mark	swallowing	of
+acl	act	swallowing
+dobj	swallowing	liquid

@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+acl	woman	resting
+case	exercise	after
+nmod:after	resting	exercise
+punct	man	.

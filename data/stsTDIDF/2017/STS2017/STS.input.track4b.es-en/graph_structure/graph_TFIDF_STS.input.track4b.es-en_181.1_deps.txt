@@ -1,0 +1,12 @@
+books	from	case
+deviation	books	nmod:from
+books	history	compound
+Englund	's	case
+book	Englund	nmod:poss
+deviation	is	cop
+deviation	.	punct
+Englund	Mr.	compound
+deviation	book	nsubj
+books	standard	amod
+ROOT	deviation	root
+deviation	a	det

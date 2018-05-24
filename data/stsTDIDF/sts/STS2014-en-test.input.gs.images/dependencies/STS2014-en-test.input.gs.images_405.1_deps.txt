@@ -1,0 +1,8 @@
+det	train	A
+amod	train	long
+nsubj	tracks	train
+cop	tracks	is
+case	tracks	on
+compound	tracks	train
+root	ROOT	tracks
+punct	tracks	.

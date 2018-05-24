@@ -1,0 +1,9 @@
+mark	say	to
+root	ROOT	say
+punct	say	,
+dep	say	state
+punct	state	,
+cc	state	or
+conj:or	state	perform
+advmod	perform	again
+punct	say	.

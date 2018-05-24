@@ -1,0 +1,10 @@
+nmod:poss	chief	Japan
+case	Japan	's
+compound	chief	opposition
+compound	chief	party
+nsubj	criticizes	chief
+root	ROOT	criticizes
+nmod:poss	policies	Abe
+case	Abe	's
+amod	policies	economic
+dobj	criticizes	policies

@@ -1,0 +1,14 @@
+det	line	A
+nsubjpass	parked	line
+case	bikes	of
+compound	bikes	motor
+nmod:of	line	bikes
+auxpass	parked	are
+root	ROOT	parked
+case	middle	in
+det	middle	the
+nmod:in	parked	middle
+case	street	of
+det	street	a
+nmod:of	middle	street
+punct	parked	.

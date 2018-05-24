@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+amod	man	standing
+case	cliff	on
+det	cliff	a
+nmod:on	standing	cliff
+punct	man	.

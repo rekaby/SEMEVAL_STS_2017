@@ -1,0 +1,7 @@
+nsubj	wins	Romney
+root	ROOT	wins
+amod	primary	big
+case	Rico	in
+compound	Rico	Puerto
+nmod:in	big	Rico
+dobj	wins	primary

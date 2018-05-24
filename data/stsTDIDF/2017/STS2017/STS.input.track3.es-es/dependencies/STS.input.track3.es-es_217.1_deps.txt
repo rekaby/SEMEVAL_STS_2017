@@ -1,0 +1,5 @@
+det	man	A
+root	ROOT	man
+acl	man	pushing
+dobj	pushing	rocks
+punct	man	.

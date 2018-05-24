@@ -1,0 +1,6 @@
+nsubj	says	Twitter
+root	ROOT	says
+nsubj	blocked	images
+ccomp	says	blocked
+case	Venezuela	in
+nmod:in	blocked	Venezuela

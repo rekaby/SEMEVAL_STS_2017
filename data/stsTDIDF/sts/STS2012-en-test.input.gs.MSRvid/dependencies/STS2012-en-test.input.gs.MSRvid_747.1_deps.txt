@@ -1,0 +1,8 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	street	on
+det	street	a
+nmod:on	running	street
+punct	running	.

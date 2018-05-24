@@ -1,0 +1,5 @@
+root	ROOT	Crowd
+case	theater	in
+det	theater	the
+nmod:in	Crowd	theater
+punct	Crowd	.

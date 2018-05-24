@@ -1,0 +1,16 @@
+root	ROOT	Imagine
+xcomp	Imagine	looking
+case	cyclist	at
+det	cyclist	a
+compound	cyclist	marathon
+nmod:at	looking	cyclist
+case	bike	on
+nmod:poss	bike	his
+nmod:on	cyclist	bike
+punct	looking	,
+case	hall	down
+det	hall	a
+nmod:down	looking	hall
+case	people	of
+nmod:of	hall	people
+punct	Imagine	.

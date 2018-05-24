@@ -1,0 +1,6 @@
+truck	ice	compound
+truck	cream	compound
+stands	truck	nmod:in
+truck	white	amod
+stands	man	nsubj
+truck	in	case

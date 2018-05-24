@@ -1,0 +1,7 @@
+root	ROOT	contrast
+case	weight	with
+amod	weight	equal
+nmod:with	contrast	weight
+cc	weight	or
+conj:or	weight	force
+punct	contrast	.

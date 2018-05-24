@@ -1,0 +1,10 @@
+root	ROOT	Attention
+case	juice	to
+det	juice	the
+compound	juice	fungus
+compound	juice	orange
+nmod:to	Attention	juice
+punct	Attention	,
+cc	Attention	and
+conj:and	Attention	bone
+punct	Attention	.

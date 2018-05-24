@@ -1,0 +1,8 @@
+nsubj	Take	Critics
+root	ROOT	Take
+det	Look	a
+compound	Scandals	Look
+compound	Scandals	Upstream
+case	Doping	in
+nmod:in	Upstream	Doping
+dobj	Take	Scandals

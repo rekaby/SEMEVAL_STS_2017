@@ -1,0 +1,5 @@
+expecting	.	punct
+ROOT	expecting	root
+expecting	are	aux
+expecting	show	nmod:for
+expecting	People	nsubj

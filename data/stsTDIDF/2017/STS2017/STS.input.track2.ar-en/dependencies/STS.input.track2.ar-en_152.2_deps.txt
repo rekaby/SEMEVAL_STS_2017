@@ -1,0 +1,13 @@
+compound	Ford	Woman
+nsubj	food	Ford
+cop	food	is
+root	ROOT	food
+case	children	for
+nmod:for	food	children
+case	blue	in
+nmod:in	children	blue
+acl	blue	sitting
+case	table	under
+det	table	the
+nmod:under	sitting	table
+punct	food	.

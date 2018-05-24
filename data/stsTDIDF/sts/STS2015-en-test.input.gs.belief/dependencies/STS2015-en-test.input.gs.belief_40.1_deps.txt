@@ -1,0 +1,13 @@
+mark	yucky	because
+nsubj	yucky	gays
+cop	yucky	are
+root	ROOT	yucky
+cc	yucky	and
+compound	tastes	lobster
+conj:and	yucky	tastes
+amod	peach	good
+nsubj	busy	peach
+aux	busy	must
+cop	busy	be
+acl:relcl	tastes	busy
+punct	yucky	.

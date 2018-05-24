@@ -1,0 +1,9 @@
+nsubj	optimistic	Iran
+punct	optimistic	`
+advmod	optimistic	cautiously
+root	ROOT	optimistic
+punct	optimistic	'
+case	talks	about
+amod	talks	future
+amod	talks	nuclear
+nmod:about	optimistic	talks

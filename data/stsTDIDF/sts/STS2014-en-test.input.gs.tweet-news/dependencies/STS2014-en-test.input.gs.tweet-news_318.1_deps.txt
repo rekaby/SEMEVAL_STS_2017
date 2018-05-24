@@ -1,0 +1,14 @@
+compound	CNN	Da
+root	ROOT	CNN
+punct	CNN	:
+punct	CNN	'
+case	least	At
+nmod:npmod	245	least
+dep	CNN	245
+acl	245	killed
+case	Update	in
+compound	Update	Brazil
+compound	Update	nightclub
+compound	Update	fire
+nmod:in	killed	Update
+punct	CNN	'

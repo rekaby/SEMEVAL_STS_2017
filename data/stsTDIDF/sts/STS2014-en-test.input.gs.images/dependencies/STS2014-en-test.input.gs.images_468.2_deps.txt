@@ -1,0 +1,8 @@
+det	moped	A
+amod	moped	blue
+root	ROOT	moped
+acl	moped	parked
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	parked	sidewalk
+punct	moped	.

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	scalling	man
+aux	scalling	is
+root	ROOT	scalling
+det	face	a
+amod	face	sheer
+compound	face	rock
+dobj	scalling	face
+case	support	with
+det	support	a
+compound	support	rope
+nmod:with	face	support
+punct	scalling	.

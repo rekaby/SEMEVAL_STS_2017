@@ -1,0 +1,8 @@
+compound	missions	Pak
+root	ROOT	missions
+case	gear	in
+compound	gear	UAE
+nmod:in	missions	gear
+advmod	missions	up
+case	elections	for
+nmod:for	missions	elections

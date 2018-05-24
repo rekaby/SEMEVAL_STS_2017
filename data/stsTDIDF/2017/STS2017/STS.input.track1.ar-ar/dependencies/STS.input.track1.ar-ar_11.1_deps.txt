@@ -1,0 +1,8 @@
+det	men	The
+nummod	men	two
+nsubj	went	men
+root	ROOT	went
+case	school	to
+nmod:to	went	school
+advmod	went	together
+punct	went	.

@@ -1,0 +1,5 @@
+nsubj	driving	Someone
+root	ROOT	driving
+det	car	a
+dobj	driving	car
+punct	driving	.

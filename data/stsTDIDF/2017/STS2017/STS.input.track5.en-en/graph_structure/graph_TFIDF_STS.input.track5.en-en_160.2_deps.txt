@@ -1,0 +1,11 @@
+front	shirts	nmod:of
+men	Several	amod
+shirts	their	nmod:poss
+running	field	dobj
+field	wearing	acl
+running	men	nsubj
+wearing	front	nmod:on
+field	grass	compound
+shirts	of	case
+running	down	compound:prt
+wearing	numbers	dobj

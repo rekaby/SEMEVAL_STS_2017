@@ -1,0 +1,12 @@
+det	terminak	the
+amod	terminak	positive
+compound	terminak	battery
+nsubj	separated	terminak
+cop	separated	is
+root	ROOT	separated
+compound	gap	ba
+det	gap	a
+dobj	separated	gap
+case	terminal	from
+nmod:from	gap	terminal
+nummod	gap	4

@@ -1,0 +1,11 @@
+det	surface	a
+root	ROOT	surface
+acl	surface	forming
+dobj	forming	part
+case	object	of
+det	object	the
+case	object	outside
+mwe	outside	of
+det	object	an
+nmod:outside_of	part	object
+punct	surface	.

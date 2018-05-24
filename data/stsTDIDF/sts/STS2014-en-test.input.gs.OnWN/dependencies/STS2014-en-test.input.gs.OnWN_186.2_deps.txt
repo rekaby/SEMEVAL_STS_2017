@@ -1,0 +1,17 @@
+punct	law	-LRB-
+root	ROOT	law
+punct	law	-RRB-
+det	right	a
+dep	law	right
+cc	right	or
+amod	share	legal
+conj:or	right	share
+case	something	of
+nmod:of	share	something
+punct	law	;
+det	involvement	a
+amod	involvement	financial
+dep	law	involvement
+case	something	with
+nmod:with	involvement	something
+punct	law	.

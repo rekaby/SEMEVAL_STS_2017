@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	determining	of
+acl	act	determining
+cc	determining	or
+conj:or	determining	discovering
+det	position	the
+dobj	determining	position
+case	object	of
+det	object	an
+nmod:of	position	object

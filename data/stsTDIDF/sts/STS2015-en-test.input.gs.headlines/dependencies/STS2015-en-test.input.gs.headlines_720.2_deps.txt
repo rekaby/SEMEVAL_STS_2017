@@ -1,0 +1,5 @@
+compound	eligible	Detroit
+root	ROOT	eligible
+case	protection	for
+compound	protection	bankruptcy
+nmod:for	eligible	protection

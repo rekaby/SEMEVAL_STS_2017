@@ -1,0 +1,13 @@
+pair	boys	nmod:of
+ROOT	hiding	root
+boys	young	amod
+hiding	one	nmod:with
+hiding	are	aux
+pair	t-shirts	nmod:in
+looking	aghast	xcomp
+pair	A	det
+woods	in	case
+hiding	woods	nmod:in
+t-shirts	in	case
+hiding	pair	nsubj
+hiding	.	punct

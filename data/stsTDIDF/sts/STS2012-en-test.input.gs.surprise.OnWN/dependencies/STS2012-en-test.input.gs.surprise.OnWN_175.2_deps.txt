@@ -1,0 +1,9 @@
+compound	directions	change
+root	ROOT	directions
+mark	revolving	as
+mwe	as	if
+acl	directions	revolving
+case	pivot	on
+det	pivot	a
+nmod:on	revolving	pivot
+punct	directions	.

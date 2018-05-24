@@ -1,0 +1,5 @@
+lying	.	punct
+ROOT	lying	root
+lying	down	compound:prt
+lying	Men	nsubj
+lying	are	aux

@@ -1,0 +1,10 @@
+det	person	A
+nsubj	going	person
+aux	going	is
+root	ROOT	going
+mark	work	to
+xcomp	going	work
+case	bicycle	on
+nmod:poss	bicycle	his
+nmod:on	work	bicycle
+punct	going	.

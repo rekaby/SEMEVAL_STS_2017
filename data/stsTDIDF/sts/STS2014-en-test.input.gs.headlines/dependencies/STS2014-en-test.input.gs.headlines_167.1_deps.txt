@@ -1,0 +1,7 @@
+compound	Hall	BBC
+compound	Hall	veteran
+nsubj	admits	Hall
+root	ROOT	admits
+compound	abuse	child
+compound	abuse	sex
+dobj	admits	abuse

@@ -1,0 +1,15 @@
+nummod	man	One
+nsubj	riding	man
+case	shirt	in
+det	shirt	an
+amod	shirt	orange
+nmod:in	man	shirt
+acl	shirt	wearing
+det	helmet	a
+amod	helmet	white
+dobj	wearing	helmet
+aux	riding	is
+root	ROOT	riding
+det	bike	a
+dobj	riding	bike
+punct	riding	.

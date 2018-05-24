@@ -1,0 +1,12 @@
+root	ROOT	make
+punct	substance	-LRB-
+det	substance	a
+amod	substance	solid
+dep	liquid	substance
+punct	substance	-RRB-
+dobj	make	liquid
+punct	make	,
+case	heating	as
+case	heating	by
+nmod:by	make	heating
+punct	make	.

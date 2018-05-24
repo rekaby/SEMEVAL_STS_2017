@@ -1,0 +1,14 @@
+nmod:poss	going	Its
+root	ROOT	going
+mark	depend	to
+xcomp	going	depend
+case	type	on
+det	type	the
+nmod:on	depend	type
+case	packaging	of
+nmod:of	type	packaging
+cc	depend	and
+advmod	freezer	also
+det	freezer	the
+conj:and	depend	freezer
+punct	going	.

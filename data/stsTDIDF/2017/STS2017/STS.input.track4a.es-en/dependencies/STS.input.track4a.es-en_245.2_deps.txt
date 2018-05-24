@@ -1,0 +1,9 @@
+det	man	A
+nsubj	pumping	man
+aux	pumping	is
+root	ROOT	pumping
+dobj	pumping	air
+case	bicycle	into
+nmod:poss	bicycle	his
+nmod:into	pumping	bicycle
+punct	pumping	.

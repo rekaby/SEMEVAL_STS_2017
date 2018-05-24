@@ -1,0 +1,10 @@
+trick	boy	nsubj
+trick	.	punct
+stairs	downtown	dep
+trick	does	aux
+trick	skateboard	compound
+ROOT	trick	root
+stairs	on	case
+trick	stairs	nmod:on
+stairs	the	det
+trick	a	det

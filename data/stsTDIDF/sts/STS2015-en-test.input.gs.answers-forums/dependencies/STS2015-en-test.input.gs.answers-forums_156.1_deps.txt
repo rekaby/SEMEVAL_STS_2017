@@ -1,0 +1,17 @@
+nsubj	visit	I
+root	ROOT	visit
+dobj	visit	AZ
+det	summer	every
+nmod:tmod	visit	summer
+cc	visit	and
+conj:and	visit	include
+det	hikes	some
+dobj	include	hikes
+case	desert	in
+det	desert	the
+nmod:in	hikes	desert
+advmod	'm	when
+nsubj	'm	I
+advcl	include	'm
+advmod	'm	there
+punct	visit	.

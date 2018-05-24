@@ -1,0 +1,7 @@
+wears	hat	dobj
+bus	for	case
+wears	and	cc
+wears	man	nsubj
+wears	waits	conj:and
+wears	.	punct
+waits	bus	nmod:for

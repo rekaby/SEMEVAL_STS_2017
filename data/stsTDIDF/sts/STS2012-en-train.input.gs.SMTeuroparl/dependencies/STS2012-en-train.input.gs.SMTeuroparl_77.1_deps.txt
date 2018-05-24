@@ -1,0 +1,14 @@
+nsubj	have	We
+aux	have	shall
+root	ROOT	have
+mark	speak	to
+xcomp	have	speak
+case	voice	with
+advmod	one	just
+nummod	voice	one
+amod	voice	disagreeable
+nmod:with	speak	voice
+case	WTO	in
+det	WTO	the
+nmod:in	voice	WTO
+punct	have	.

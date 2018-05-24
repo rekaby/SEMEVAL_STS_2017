@@ -1,0 +1,5 @@
+dogs	The	det
+rope	a	det
+playing	dogs	nsubj
+playing	rope	nmod:with
+rope	with	case

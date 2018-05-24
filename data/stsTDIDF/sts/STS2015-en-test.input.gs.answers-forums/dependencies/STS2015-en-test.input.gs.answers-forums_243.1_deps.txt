@@ -1,0 +1,11 @@
+compound	employees	Public
+nsubj	unionize	employees
+aux	unionize	can
+root	ROOT	unionize
+mark	allows	because
+det	law	the
+nsubj	allows	law
+advcl	unionize	allows
+dobj	allows	them
+nmod	allows	to
+punct	unionize	.

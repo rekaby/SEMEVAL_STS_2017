@@ -1,0 +1,7 @@
+nsubj	bustling	state
+mark	active	of
+cop	active	being
+acl	state	active
+punct	state	,
+root	ROOT	bustling
+dep	bustling	about

@@ -1,0 +1,10 @@
+response	perceptual	amod
+flag	often	advmod
+makes	flag	xcomp
+perceptual	and	cc
+perceptual	objective	conj:and
+flag	response	nsubj
+makes	This	nsubj
+flag	red	amod
+flag	a	det
+perceptual	most	advmod

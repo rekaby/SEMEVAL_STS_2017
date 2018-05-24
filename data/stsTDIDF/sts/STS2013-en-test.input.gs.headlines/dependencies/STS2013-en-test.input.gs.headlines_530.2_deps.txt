@@ -1,0 +1,7 @@
+nsubj	concerned	U.N.
+root	ROOT	concerned
+case	weapons	at
+amod	weapons	possible
+compound	weapons	Syria
+compound	weapons	chemical
+nmod:at	concerned	weapons

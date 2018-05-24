@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	small
+nsubj	jumps	dog
+root	ROOT	jumps
+case	beam	over
+det	beam	a
+amod	beam	yellow
+nmod:over	jumps	beam
+punct	jumps	.

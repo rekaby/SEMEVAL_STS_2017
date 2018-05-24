@@ -1,0 +1,9 @@
+advcl	make	make
+det	discovery	a
+dobj	make	discovery
+punct	make	,
+root	ROOT	make
+det	finding	a
+amod	finding	new
+dobj	make	finding
+punct	make	;

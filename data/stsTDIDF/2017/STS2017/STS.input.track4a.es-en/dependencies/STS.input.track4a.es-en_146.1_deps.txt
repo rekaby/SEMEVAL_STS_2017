@@ -1,0 +1,15 @@
+det	boy	A
+amod	boy	young
+amod	boy	asian
+nsubj	giving	boy
+aux	giving	is
+root	ROOT	giving
+det	girl	a
+amod	girl	young
+amod	girl	asian
+nsubj	ride	girl
+det	ride	a
+dobj	giving	ride
+case	shoulders	on
+nmod:poss	shoulders	his
+nmod:on	ride	shoulders

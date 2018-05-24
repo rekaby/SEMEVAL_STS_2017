@@ -1,0 +1,10 @@
+nummod	kids	Five
+nsubj	standing	kids
+aux	standing	are
+root	ROOT	standing
+case	tent	in
+mwe	in	front
+mwe	in	of
+det	tent	a
+nmod:in_front_of	standing	tent
+punct	standing	.

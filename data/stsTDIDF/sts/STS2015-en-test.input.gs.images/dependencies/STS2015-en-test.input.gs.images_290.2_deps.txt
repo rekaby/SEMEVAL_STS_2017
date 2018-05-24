@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+acl	man	sitting
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	sitting	motorcycle
+punct	man	.

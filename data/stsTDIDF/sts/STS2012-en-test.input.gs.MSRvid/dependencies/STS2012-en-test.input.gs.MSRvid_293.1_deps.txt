@@ -1,0 +1,9 @@
+det	herd	A
+nsubj	crossing	herd
+case	deer	of
+nmod:of	herd	deer
+aux	crossing	are
+root	ROOT	crossing
+det	street	the
+dobj	crossing	street
+punct	crossing	.

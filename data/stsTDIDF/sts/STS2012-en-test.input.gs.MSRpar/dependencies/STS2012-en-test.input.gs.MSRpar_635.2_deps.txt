@@ -1,0 +1,16 @@
+nsubj	said	Ratliff
+root	ROOT	said
+nsubj	hopes	he
+ccomp	said	hopes
+mark	bring	to
+xcomp	hopes	bring
+det	measures	the
+nummod	measures	two
+dobj	bring	measures
+case	Senate	to
+det	Senate	the
+amod	Senate	full
+nmod:to	bring	Senate
+case	Friday	by
+nmod:by	bring	Friday
+punct	said	.

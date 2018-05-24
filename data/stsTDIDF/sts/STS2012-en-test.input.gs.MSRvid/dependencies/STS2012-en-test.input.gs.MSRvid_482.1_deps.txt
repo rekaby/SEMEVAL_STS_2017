@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	biting
+case	can	on
+det	can	a
+nmod:on	biting	can
+punct	dog	.

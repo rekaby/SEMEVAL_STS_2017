@@ -1,0 +1,7 @@
+amod	forces	Syrian
+nsubj	clash	forces
+punct	forces	,
+appos	forces	rebels
+root	ROOT	clash
+case	Turkey	near
+nmod:near	clash	Turkey

@@ -1,0 +1,15 @@
+root	ROOT	asked
+amod	people	many
+dobj	asked	people
+punct	deserves	-LRB-
+mark	deserves	including
+nsubj	deserves	yours
+advmod	deserves	truly
+punct	deserves	-RRB-
+mark	deserves	if
+nsubj	deserves	#LanceArmstrong
+dep	people	deserves
+det	chance	another
+dobj	deserves	chance
+punct	asked	.-14) amod(views-2, Interesting
+root	ROOT	views

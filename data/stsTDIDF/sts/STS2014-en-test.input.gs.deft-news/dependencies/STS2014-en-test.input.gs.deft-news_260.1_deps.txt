@@ -1,0 +1,10 @@
+advmod	officials	north
+amod	officials	korean
+nsubjpass	suspected	officials
+auxpass	suspected	are
+root	ROOT	suspected
+case	weapons	of
+compound	weapons	building
+amod	weapons	nuclear
+nmod:of	suspected	weapons
+punct	suspected	.

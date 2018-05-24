@@ -1,0 +1,14 @@
+det	man	A
+amod	man	black
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	building	next
+mwe	next	to
+det	building	a
+nmod:next_to	walking	building
+case	city	in
+det	city	a
+amod	city	big
+nmod:in	building	city
+punct	walking	.

@@ -1,0 +1,7 @@
+nummod	cows	Three
+nsubj	grazing	cows
+root	ROOT	grazing
+case	field	in
+det	field	a
+nmod:in	grazing	field
+punct	grazing	.

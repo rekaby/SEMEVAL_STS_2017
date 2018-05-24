@@ -1,0 +1,7 @@
+root	ROOT	Opinion
+punct	Opinion	:
+nsubj	Wrong	Darwin
+cop	Wrong	Was
+dep	Opinion	Wrong
+mark	Dating	About
+advcl	Wrong	Dating

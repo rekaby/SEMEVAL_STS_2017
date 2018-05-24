@@ -1,0 +1,7 @@
+compound	toll	Death
+nsubj	rises	toll
+root	ROOT	rises
+case	plane	in
+compound	plane	Russia
+nmod:in	rises	plane
+dobj	rises	crash

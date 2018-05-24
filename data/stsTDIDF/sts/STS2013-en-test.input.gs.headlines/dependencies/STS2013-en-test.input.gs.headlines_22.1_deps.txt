@@ -1,0 +1,9 @@
+compound	Sandusky	Jerry
+nsubj	found	Sandusky
+root	ROOT	found
+xcomp	found	guilty
+case	trial	in
+compound	trial	child
+compound	trial	sex
+compound	trial	abuse
+nmod:in	guilty	trial

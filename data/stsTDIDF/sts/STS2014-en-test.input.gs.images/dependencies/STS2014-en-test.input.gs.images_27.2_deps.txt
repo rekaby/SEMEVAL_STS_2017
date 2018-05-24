@@ -1,0 +1,11 @@
+det	close	A
+nsubj	closed	close
+case	cat	up
+case	cat	of
+det	cat	a
+nmod:of	close	cat
+case	eyes	with
+nmod:poss	eyes	its
+nmod:with	close	eyes
+root	ROOT	closed
+punct	closed	.

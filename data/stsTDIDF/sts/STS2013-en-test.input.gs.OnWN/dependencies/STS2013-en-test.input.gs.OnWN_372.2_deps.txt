@@ -1,0 +1,9 @@
+det	collection	a
+root	ROOT	collection
+case	things	of
+nmod:of	collection	things
+acl	things	sharing
+det	attribute	a
+amod	attribute	common
+dobj	sharing	attribute
+punct	collection	.

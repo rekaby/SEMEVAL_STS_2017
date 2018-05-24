@@ -1,0 +1,6 @@
+root	ROOT	Three
+acl	Three	freed
+case	probe	in
+compound	probe	centre
+compound	probe	abuse
+nmod:in	freed	probe

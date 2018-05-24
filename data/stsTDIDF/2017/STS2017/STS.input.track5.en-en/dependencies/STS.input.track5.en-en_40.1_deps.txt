@@ -1,0 +1,7 @@
+det	group	a
+nsubj	singing	group
+case	seals	of
+compound	seals	navy
+nmod:of	group	seals
+cop	singing	are
+root	ROOT	singing

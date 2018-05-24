@@ -1,0 +1,17 @@
+punct	makes	``
+det	deal	This
+nsubj	makes	deal
+ccomp	said	makes
+dobj	makes	sense
+case	companies	for
+det	companies	both
+nmod:for	sense	companies
+punct	said	,
+punct	said	''
+nsubj	said	Halla
+root	ROOT	said
+case	statement	in
+det	statement	a
+amod	statement	prepared
+nmod:in	said	statement
+punct	said	.

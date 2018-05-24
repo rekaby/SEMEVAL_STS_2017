@@ -1,0 +1,11 @@
+compound	issues	State
+compound	issues	Dept.
+nsubj	alert	issues
+amod	alert	wide
+compound	alert	travel
+ccomp	says	alert
+punct	says	,
+root	ROOT	says
+compound	attack	terror
+nsubj	says	attack
+amod	attack	possible

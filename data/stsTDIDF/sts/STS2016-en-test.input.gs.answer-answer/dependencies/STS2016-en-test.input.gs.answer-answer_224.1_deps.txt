@@ -1,0 +1,7 @@
+advmod	think	So
+root	ROOT	think
+dobj	think	it
+case	way	in
+det	way	this
+nmod:in	it	way
+punct	think	.

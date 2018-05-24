@@ -1,0 +1,8 @@
+root	ROOT	Corpses
+case	Men	Of
+nummod	Men	53
+nmod:of	Corpses	Men
+compound	South	Found
+dep	Corpses	South
+case	Baghdad	Of
+nmod:of	South	Baghdad

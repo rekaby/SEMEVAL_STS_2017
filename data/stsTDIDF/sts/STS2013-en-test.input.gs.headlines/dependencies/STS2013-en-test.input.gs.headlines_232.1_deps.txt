@@ -1,0 +1,8 @@
+nsubj	claims	Putin
+root	ROOT	claims
+dobj	claims	victory
+case	election	in
+nmod:poss	election	Russia
+case	Russia	's
+amod	election	presidential
+nmod:in	victory	election

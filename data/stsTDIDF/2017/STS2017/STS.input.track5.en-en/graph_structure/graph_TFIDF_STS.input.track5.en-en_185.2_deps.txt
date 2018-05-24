@@ -1,0 +1,7 @@
+stunts	skateboard	compound
+ROOT	performing	root
+man	beach	nmod:on
+performing	.	punct
+performing	stunts	dobj
+performing	man	nsubj
+performing	is	aux

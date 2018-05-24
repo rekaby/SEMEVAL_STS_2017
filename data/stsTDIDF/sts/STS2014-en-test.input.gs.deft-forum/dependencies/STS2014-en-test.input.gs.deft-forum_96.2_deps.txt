@@ -1,0 +1,14 @@
+amod	way	Best
+nsubj	is	way
+mark	turn	to
+acl	way	turn
+dobj	turn	it
+case	head	on
+nmod:poss	head	its
+nmod:on	turn	head
+root	ROOT	is
+mark	get	to
+xcomp	is	get
+dobj	get	money
+advmod	get	out
+punct	is	.

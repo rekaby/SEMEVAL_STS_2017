@@ -1,0 +1,8 @@
+root	ROOT	stop
+xcomp	stop	functioning
+cc	functioning	or
+conj:or	functioning	cohering
+case	unit	as
+det	unit	a
+nmod:as	functioning	unit
+punct	stop	.

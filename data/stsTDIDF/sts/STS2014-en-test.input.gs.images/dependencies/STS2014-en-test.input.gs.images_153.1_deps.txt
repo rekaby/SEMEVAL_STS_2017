@@ -1,0 +1,12 @@
+det	cat	A
+root	ROOT	cat
+acl	cat	laying
+case	cushion	on
+det	cushion	a
+amod	cushion	red
+nmod:on	laying	cushion
+acl	cushion	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	cat	.

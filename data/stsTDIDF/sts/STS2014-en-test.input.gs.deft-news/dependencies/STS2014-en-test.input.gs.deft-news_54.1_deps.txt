@@ -1,0 +1,11 @@
+advmod	korea	north
+nsubj	denies	korea
+root	ROOT	denies
+dobj	denies	involvement
+case	program	in
+det	program	any
+amod	program	nuclear
+nmod:in	involvement	program
+case	syria	in
+nmod:in	program	syria
+punct	denies	.

@@ -1,0 +1,7 @@
+walking	people	nsubj
+people	These	det
+field	through	case
+weeds	of	case
+walking	field	nmod:through
+field	weeds	nmod:of
+walking	are	aux

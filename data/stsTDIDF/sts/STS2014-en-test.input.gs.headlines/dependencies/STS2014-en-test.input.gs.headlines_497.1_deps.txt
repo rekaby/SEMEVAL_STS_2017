@@ -1,0 +1,10 @@
+nummod	foreigners	Five
+root	ROOT	foreigners
+acl	foreigners	sentenced
+case	death	to
+nmod:to	sentenced	death
+case	smuggling	for
+compound	smuggling	drug
+nmod:for	death	smuggling
+case	Egypt	in
+nmod:in	sentenced	Egypt

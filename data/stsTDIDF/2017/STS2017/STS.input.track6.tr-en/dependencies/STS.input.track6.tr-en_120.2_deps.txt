@@ -1,0 +1,8 @@
+compound	sister	Purple
+root	ROOT	sister
+punct	sister	,
+appos	sister	sister
+case	sister	of
+amod	sister	red-eyed
+nmod:of	sister	sister
+punct	sister	.

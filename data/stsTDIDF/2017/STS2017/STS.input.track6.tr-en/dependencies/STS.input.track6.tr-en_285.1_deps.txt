@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	tan
+nsubj	walks	dog
+root	ROOT	walks
+case	grass	through
+det	grass	the
+amod	grass	green
+nmod:through	walks	grass
+punct	walks	.

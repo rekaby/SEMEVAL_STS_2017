@@ -1,0 +1,6 @@
+sleds	race	nmod:in
+runs	It	nsubj
+dogs	sleds	dep
+runs	group	dobj
+dogs	of	case
+group	dogs	nmod:of

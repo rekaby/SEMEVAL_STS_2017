@@ -1,0 +1,9 @@
+root	ROOT	make
+advmod	complex	more
+dobj	make	complex
+punct	complex	,
+conj:or	complex	intricate
+punct	complex	,
+cc	complex	or
+conj:or	complex	richer
+punct	make	.

@@ -1,0 +1,10 @@
+nsubj	runs	Trainer
+root	ROOT	runs
+nmod:poss	dog	her
+dobj	runs	dog
+case	course	through
+compound	course	training
+nmod:through	runs	course
+case	pipe	with
+amod	pipe	green
+nmod:with	course	pipe

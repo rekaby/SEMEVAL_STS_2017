@@ -1,0 +1,5 @@
+compound	Holder	US
+compound	Holder	Attorney
+compound	Holder	General
+nsubj	resigns	Holder
+root	ROOT	resigns

@@ -1,0 +1,5 @@
+compound	reports	Twitter
+root	ROOT	reports
+acl	reports	blocking
+case	Venezuela	in
+nmod:in	blocking	Venezuela

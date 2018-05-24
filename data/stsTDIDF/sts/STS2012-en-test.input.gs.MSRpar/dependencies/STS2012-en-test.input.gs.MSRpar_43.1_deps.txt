@@ -1,0 +1,14 @@
+nsubj	found	They
+root	ROOT	found
+dobj	found	molecules
+nsubjpass	produced	that
+aux	produced	can
+advmod	produced	only
+auxpass	produced	be
+acl:relcl	molecules	produced
+advmod	breaks	when
+nsubj	breaks	ozone
+advcl	produced	breaks
+case	cholesterol	down
+nmod:down	breaks	cholesterol
+punct	found	.

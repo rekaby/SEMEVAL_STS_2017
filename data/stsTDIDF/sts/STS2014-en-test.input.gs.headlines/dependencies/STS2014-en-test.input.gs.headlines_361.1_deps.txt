@@ -1,0 +1,10 @@
+nsubj	coming	Obama
+root	ROOT	coming
+punct	coming	`
+mark	listen	to
+xcomp	coming	listen
+punct	listen	'
+case	Israel	to
+nmod:to	listen	Israel
+punct	coming	,
+dobj	coming	Palestinians

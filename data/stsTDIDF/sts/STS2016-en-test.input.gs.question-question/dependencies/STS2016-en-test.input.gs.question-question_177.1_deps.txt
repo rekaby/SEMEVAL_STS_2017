@@ -1,0 +1,14 @@
+advmod	make	How
+mark	make	to
+root	ROOT	make
+det	mug	a
+amod	mug	strong
+dobj	make	mug
+case	coffee	of
+compound	coffee	filter
+nmod:of	mug	coffee
+case	machine	without
+det	machine	any
+compound	machine	Coffee
+nmod:without	make	machine
+punct	make	?

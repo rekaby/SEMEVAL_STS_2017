@@ -1,0 +1,4 @@
+driven	away	advmod
+man	truck	nmod:in
+truck	driven	acl
+truck	in	case

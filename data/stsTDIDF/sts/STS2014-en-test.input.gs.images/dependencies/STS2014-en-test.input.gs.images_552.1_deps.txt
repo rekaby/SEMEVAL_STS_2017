@@ -1,0 +1,11 @@
+amod	photo	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	photo
+case	girl	of
+det	girl	a
+nmod:of	photo	girl
+case	sofa	on
+det	sofa	a
+nmod:on	photo	sofa
+punct	photo	.

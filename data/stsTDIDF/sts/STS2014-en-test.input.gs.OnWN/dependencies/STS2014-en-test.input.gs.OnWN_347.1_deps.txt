@@ -1,0 +1,9 @@
+root	ROOT	Pat
+cc	Pat	or
+conj:or	Pat	squeeze
+punct	Pat	,
+advmod	chin	especially
+case	chin	under
+det	chin	the
+nmod:under	Pat	chin
+punct	Pat	.

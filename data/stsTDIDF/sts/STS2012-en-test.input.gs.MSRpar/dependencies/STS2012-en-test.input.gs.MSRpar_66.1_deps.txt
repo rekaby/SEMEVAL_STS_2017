@@ -1,0 +1,17 @@
+det	retailer	The
+nsubj	said	retailer
+root	ROOT	said
+nsubj	came	it
+ccomp	said	came
+case	decision	to
+det	decision	the
+nmod:to	came	decision
+mark	hearing	after
+advcl	came	hearing
+det	opinions	the
+dobj	hearing	opinions
+case	customers	of
+nmod:of	opinions	customers
+cc	customers	and
+conj:and	customers	associates
+punct	said	.

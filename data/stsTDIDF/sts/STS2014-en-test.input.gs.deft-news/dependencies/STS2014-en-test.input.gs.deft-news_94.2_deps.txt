@@ -1,0 +1,17 @@
+nsubj	stated	fan
+root	ROOT	stated
+det	commission	the
+nsubj	ensure	commission
+aux	ensure	will
+ccomp	stated	ensure
+det	commitments	the
+nsubjpass	upheld	commitments
+auxpass	upheld	are
+ccomp	ensure	upheld
+advmod	way	once
+det	investments	the
+nsubj	way	investments
+cop	way	are
+case	way	under
+ccomp	upheld	way
+punct	stated	.

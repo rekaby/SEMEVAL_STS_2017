@@ -1,0 +1,7 @@
+root	ROOT	Use
+case	force	of
+nmod:of	Use	force
+case	defense	in
+nmod:in	Use	defense
+case	person.-A	of
+nmod:of	defense	person.-A

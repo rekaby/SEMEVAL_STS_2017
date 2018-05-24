@@ -1,0 +1,8 @@
+amod	Firm	Chinese
+nsubj	Buys	Firm
+root	ROOT	Buys
+det	Technology	an
+amod	Technology	American
+compound	Technology	Solar
+nsubj	Start-Up	Technology
+ccomp	Buys	Start-Up

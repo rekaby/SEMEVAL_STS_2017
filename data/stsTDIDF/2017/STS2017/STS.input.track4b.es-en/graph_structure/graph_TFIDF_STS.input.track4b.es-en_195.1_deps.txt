@@ -1,0 +1,16 @@
+visited	meet	advcl
+Nieto	Enrique	compound
+visited	House	dobj
+thought	moment	nmod:about
+Nieto	Pena	compound
+Nieto	Mexican	compound
+thought	week	nmod:tmod
+moment	that	det
+visited	Nieto	nsubj
+Nieto	president-elect	compound
+moment	about	case
+visited	when	advmod
+Obama	with	case
+meet	Obama	nmod:with
+Obama	President	compound
+thought	visited	advcl

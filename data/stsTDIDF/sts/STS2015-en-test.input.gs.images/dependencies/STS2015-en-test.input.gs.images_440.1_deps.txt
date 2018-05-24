@@ -1,0 +1,12 @@
+root	ROOT	Group
+case	girls	of
+amod	girls	little
+nmod:of	Group	girls
+cc	girls	and
+det	dog	a
+conj:and	girls	dog
+acl	dog	standing
+case	road	on
+det	road	the
+nmod:on	standing	road
+punct	Group	.

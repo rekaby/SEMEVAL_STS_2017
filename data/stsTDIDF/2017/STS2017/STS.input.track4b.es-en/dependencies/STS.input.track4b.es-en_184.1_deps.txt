@@ -1,0 +1,10 @@
+nsubj	deprivation	Many
+case	these	of
+nmod:of	Many	these
+cop	deprivation	are
+case	deprivation	about
+root	ROOT	deprivation
+cc	deprivation	and
+conj:and	deprivation	making
+dep	deprivation	do
+punct	deprivation	.

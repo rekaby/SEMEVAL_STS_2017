@@ -1,0 +1,11 @@
+advmod	Fail	When
+compound	Fail	Pills
+advcl	Provides	Fail
+punct	Provides	,
+det	Option	This
+nsubj	Provides	Option
+root	ROOT	Provides
+det	Cure	a
+dobj	Provides	Cure
+case	C-Diff	For
+nmod:for	Provides	C-Diff

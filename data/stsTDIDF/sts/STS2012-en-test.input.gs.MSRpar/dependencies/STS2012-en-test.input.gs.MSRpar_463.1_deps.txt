@@ -1,0 +1,12 @@
+det	blasts	The
+nsubj	killed	blasts
+root	ROOT	killed
+nummod	people	two
+dobj	killed	people
+cc	people	and
+conj:and	people	injured
+advmod	150	more
+mwe	more	than
+nummod	others	150
+dobj	injured	others
+punct	killed	.

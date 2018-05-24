@@ -1,0 +1,8 @@
+nsubj	says	U.S.
+root	ROOT	says
+ccomp	says	saddened
+case	shooting	by
+nmod:by	saddened	shooting
+case	civilians	on
+compound	civilians	Afghan
+nmod:on	shooting	civilians

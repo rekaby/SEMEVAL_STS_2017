@@ -1,0 +1,10 @@
+det	rock	The
+nsubj	is	rock
+acl	rock	holding
+det	boy	the
+dobj	holding	boy
+root	ROOT	is
+mark	roll	about
+mark	roll	to
+advcl	is	roll
+punct	is	.

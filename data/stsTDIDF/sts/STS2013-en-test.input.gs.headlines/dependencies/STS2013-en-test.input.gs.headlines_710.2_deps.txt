@@ -1,0 +1,8 @@
+nmod:poss	vote	Armenia
+case	Armenia	's
+amod	vote	parliamentary
+nsubj	test	vote
+det	test	a
+root	ROOT	test
+case	president	for
+nmod:for	test	president

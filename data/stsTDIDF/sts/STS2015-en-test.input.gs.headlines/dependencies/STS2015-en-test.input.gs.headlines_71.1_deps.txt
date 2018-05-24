@@ -1,0 +1,9 @@
+nsubj	has	Cameron
+punct	has	`
+root	ROOT	has
+neg	concerns	no
+dobj	has	concerns
+case	concerns	'
+case	meat	over
+amod	meat	halal
+nmod:over	concerns	meat

@@ -1,0 +1,8 @@
+det	baby	A
+nsubj	sneezed	baby
+root	ROOT	sneezed
+cc	sneezed	and
+conj:and	sneezed	scared
+det	baby	another
+dobj	scared	baby
+punct	sneezed	.

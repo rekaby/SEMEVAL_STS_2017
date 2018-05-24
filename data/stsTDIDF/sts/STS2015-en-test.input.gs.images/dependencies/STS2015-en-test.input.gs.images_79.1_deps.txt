@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	young
+nsubj	jumping	boy
+root	ROOT	jumping
+case	lake	into
+det	lake	a
+nmod:into	jumping	lake
+punct	jumping	.

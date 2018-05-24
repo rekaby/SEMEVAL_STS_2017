@@ -1,0 +1,16 @@
+det	ginger	the
+nsubj	loves	ginger
+case	me	in
+nmod:in	ginger	me
+root	ROOT	loves
+mark	part	that
+nmod:poss	bachelor	world
+case	world	's
+compound	bachelor	#
+nummod	bachelor	1
+nsubj	part	bachelor
+cop	part	is
+ccomp	loves	part
+case	#gingerfamily	of
+det	#gingerfamily	the
+nmod:of	part	#gingerfamily

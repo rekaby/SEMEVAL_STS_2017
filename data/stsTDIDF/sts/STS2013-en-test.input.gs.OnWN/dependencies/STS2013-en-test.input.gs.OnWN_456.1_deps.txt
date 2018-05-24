@@ -1,0 +1,10 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	break	to
+punct	break	-RRB-
+xcomp	cause	break
+compound:prt	break	up
+cc	break	or
+conj:or	break	cease
+mark	function	to
+xcomp	break	function

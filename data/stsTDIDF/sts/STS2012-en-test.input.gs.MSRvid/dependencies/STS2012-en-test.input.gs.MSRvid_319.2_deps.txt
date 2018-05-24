@@ -1,0 +1,7 @@
+nsubj	eating	Foxes
+aux	eating	are
+root	ROOT	eating
+case	plate	from
+det	plate	a
+nmod:from	eating	plate
+punct	eating	.

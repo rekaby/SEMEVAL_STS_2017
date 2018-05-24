@@ -1,0 +1,7 @@
+nsubj	dies	Man
+root	ROOT	dies
+case	fire	in
+compound	fire	Co
+compound	fire	Donegal
+compound	fire	house
+nmod:in	dies	fire

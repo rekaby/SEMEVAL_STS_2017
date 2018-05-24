@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	surrendering	of
+acl	act	surrendering
+cc	surrendering	or
+conj:or	surrendering	losing
+dobj	losing	something
+case	value	of
+nmod:of	something	value

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	cut	man
+root	ROOT	cut
+det	tree	a
+dobj	cut	tree
+case	axe	with
+det	axe	an
+nmod:with	cut	axe
+punct	cut	.

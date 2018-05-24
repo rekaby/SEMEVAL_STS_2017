@@ -1,0 +1,14 @@
+aux	arrival	Should
+nsubj	focus	arrival
+case	point	at
+det	point	this
+nmod:at	arrival	point
+cop	focus	be
+det	focus	the
+root	ROOT	focus
+case	examination	for
+nmod:for	focus	examination
+case	system	of
+det	system	any
+nmod:of	examination	system
+punct	focus	?

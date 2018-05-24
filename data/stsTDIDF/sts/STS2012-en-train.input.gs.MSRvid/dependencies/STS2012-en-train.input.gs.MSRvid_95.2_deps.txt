@@ -1,0 +1,7 @@
+nummod	girls	Two
+nsubj	talk	girls
+root	ROOT	talk
+case	phone	on
+det	phone	the
+nmod:on	talk	phone
+punct	talk	.

@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+case	car	in
+case	car	in
+det	car	a
+nmod:in	dog	car
+punct	dog	.

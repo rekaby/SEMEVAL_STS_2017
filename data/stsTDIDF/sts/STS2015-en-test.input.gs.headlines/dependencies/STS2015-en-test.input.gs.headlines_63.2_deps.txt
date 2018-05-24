@@ -1,0 +1,6 @@
+nsubj	Beat	Settlers
+root	ROOT	Beat
+case	Palestinian	up
+nmod:up	Beat	Palestinian
+case	Jerusalem	in
+nmod:in	Beat	Jerusalem

@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	setting	men
+aux	setting	are
+root	ROOT	setting
+compound:prt	setting	up
+det	equpitment	some
+amod	equpitment	electronic
+dobj	setting	equpitment

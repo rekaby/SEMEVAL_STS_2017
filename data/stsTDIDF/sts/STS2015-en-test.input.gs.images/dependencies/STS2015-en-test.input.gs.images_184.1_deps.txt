@@ -1,0 +1,8 @@
+nsubj	running	Boy
+cc	Boy	and
+amod	dog	white
+conj:and	Boy	dog
+root	ROOT	running
+case	field	in
+amod	field	grassy
+nmod:in	running	field

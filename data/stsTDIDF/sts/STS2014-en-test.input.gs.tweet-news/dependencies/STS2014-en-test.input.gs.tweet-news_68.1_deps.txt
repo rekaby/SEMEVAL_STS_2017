@@ -1,0 +1,14 @@
+nsubjpass	surprised	I
+auxpass	surprised	'm
+root	ROOT	surprised
+case	lack	by
+det	lack	the
+nmod:agent	surprised	lack
+case	coverage	of
+nmod:of	lack	coverage
+case	riots	of
+det	riots	the
+compound	riots	N
+compound	riots	Ireland
+nmod:of	coverage	riots
+punct	surprised	.

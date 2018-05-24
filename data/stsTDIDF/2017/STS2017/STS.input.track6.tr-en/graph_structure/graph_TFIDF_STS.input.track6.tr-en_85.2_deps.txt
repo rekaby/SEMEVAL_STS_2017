@@ -1,0 +1,5 @@
+dinner	tonight	nmod:tmod
+workers	Kitchen	compound
+preparing	workers	nsubj
+preparing	are	aux
+preparing	dinner	nmod:for

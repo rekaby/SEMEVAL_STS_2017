@@ -1,0 +1,10 @@
+root	ROOT	Clown
+advmod	run	about
+mark	run	to
+auxpass	run	be
+acl	Clown	run
+compound:prt	run	over
+case	bull	by
+det	bull	a
+nmod:agent	run	bull
+punct	Clown	.

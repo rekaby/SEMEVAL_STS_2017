@@ -1,0 +1,14 @@
+det	Blog	The
+amod	Blog	6th
+compound	Blog	Floor
+root	ROOT	Blog
+punct	Blog	:
+compound	Simon	Taryn
+nmod:poss	Experiment	Simon
+cc	Simon	and
+compound	Swartz	Aaron
+conj:and	Simon	Swartz
+case	Swartz	's
+dep	Blog	Experiment
+case	Images	with
+nmod:with	Experiment	Images

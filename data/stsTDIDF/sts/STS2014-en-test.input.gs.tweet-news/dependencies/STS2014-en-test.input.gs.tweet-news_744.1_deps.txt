@@ -1,0 +1,9 @@
+amod	Woman	British
+root	ROOT	Woman
+acl	Woman	Sentenced
+case	Death	to
+nmod:to	Sentenced	Death
+case	Case	in
+compound	Case	Bali
+compound	Case	Drug
+nmod:in	Death	Case

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	cleaning	woman
+aux	cleaning	is
+root	ROOT	cleaning
+det	garden	a
+dobj	cleaning	garden
+punct	cleaning	.

@@ -1,0 +1,14 @@
+compound	President	Mr
+root	ROOT	President
+punct	President	,
+nsubj	want	I
+acl:relcl	President	want
+mark	stand	to
+xcomp	want	stand
+compound:prt	stand	up
+case	workers	for
+nmod:for	stand	workers
+case	area	of
+det	area	this
+nmod:of	workers	area
+punct	President	.

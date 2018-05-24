@@ -1,0 +1,14 @@
+nsubj	right	Microsoft
+cop	right	is
+ccomp	important	right
+punct	important	,
+nmod:poss	system	its
+amod	system	operational
+nsubj	important	system
+cop	important	is
+root	ROOT	important
+cc	important	but
+advmod	software	also
+nmod:poss	software	its
+conj:and	important	software
+punct	important	.

@@ -1,0 +1,9 @@
+compound	Korea	North
+root	ROOT	Korea
+case	Korea	's
+nsubj	hails	Kim
+acl:relcl	Korea	hails
+dobj	hails	execution
+case	uncle	of
+amod	uncle	powerful
+nmod:of	execution	uncle

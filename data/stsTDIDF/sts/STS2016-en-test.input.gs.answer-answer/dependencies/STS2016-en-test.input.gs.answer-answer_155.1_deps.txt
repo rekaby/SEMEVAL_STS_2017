@@ -1,0 +1,6 @@
+nsubj	answered	You
+root	ROOT	answered
+nmod:poss	question	your
+amod	question	own
+dobj	answered	question
+punct	answered	.

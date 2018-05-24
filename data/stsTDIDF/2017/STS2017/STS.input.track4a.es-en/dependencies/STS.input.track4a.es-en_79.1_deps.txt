@@ -1,0 +1,6 @@
+expl	is	There
+root	ROOT	is
+det	buffet	a
+compound	buffet	tacos
+nsubj	is	buffet
+punct	is	.

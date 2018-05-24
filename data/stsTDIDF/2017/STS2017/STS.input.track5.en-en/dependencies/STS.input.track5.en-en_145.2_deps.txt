@@ -1,0 +1,10 @@
+det	person	A
+nsubj	doing	person
+aux	doing	is
+root	ROOT	doing
+advmod	well	very
+advmod	doing	well
+case	skateboard	on
+nmod:poss	skateboard	their
+nmod:on	doing	skateboard
+punct	doing	.

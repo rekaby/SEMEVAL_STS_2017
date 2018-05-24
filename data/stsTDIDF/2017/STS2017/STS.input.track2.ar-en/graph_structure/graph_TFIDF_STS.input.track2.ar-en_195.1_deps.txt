@@ -1,0 +1,10 @@
+swing	park	nmod:at
+swing	high	advmod
+camera	toward	case
+adults	Two	nummod
+ROOT	swing	root
+swing	.	punct
+high	camera	nmod:toward
+swing	adults	nsubj
+park	at	case
+park	playground	compound

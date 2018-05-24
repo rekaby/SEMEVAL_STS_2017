@@ -1,0 +1,6 @@
+det	man	A
+nsubj	attacks	man
+root	ROOT	attacks
+det	woman	a
+dobj	attacks	woman
+punct	attacks	.

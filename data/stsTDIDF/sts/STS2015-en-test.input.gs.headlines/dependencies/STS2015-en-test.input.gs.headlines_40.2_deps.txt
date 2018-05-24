@@ -1,0 +1,9 @@
+amod	Bomb	Iraqi
+compound	Bomb	Car
+nsubj	Kills	Bomb
+case	Church	Near
+nmod:near	Bomb	Church
+root	ROOT	Kills
+case	Least	At
+nmod:at	Kills	Least
+dobj	Kills	14

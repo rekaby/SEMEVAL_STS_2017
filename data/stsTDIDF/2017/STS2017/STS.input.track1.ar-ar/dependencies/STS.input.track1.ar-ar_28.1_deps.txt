@@ -1,0 +1,11 @@
+root	ROOT	Electrician
+mark	install	to
+acl	Electrician	install
+dobj	install	wiring
+case	pole	on
+det	pole	a
+nmod:on	install	pole
+case	surface	in
+det	surface	the
+nmod:in	install	surface
+punct	Electrician	.

@@ -1,0 +1,15 @@
+det	network	The
+nsubj	drop	network
+aux	drop	will
+root	ROOT	drop
+nummod	edition	one
+dobj	drop	edition
+case	Dateline	of
+punct	Dateline	``
+nmod:of	edition	Dateline
+punct	drop	,
+punct	drop	''
+nmod:poss	franchise	its
+compound	franchise	newsmagazine
+dobj	drop	franchise
+punct	drop	.

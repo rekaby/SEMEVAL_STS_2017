@@ -1,0 +1,13 @@
+det	aim	The
+nsubj	is	aim
+case	review	of
+det	review	the
+amod	review	annual
+nmod:of	aim	review
+root	ROOT	is
+mark	identify	to
+xcomp	is	identify
+amod	improvements	such
+amod	improvements	potential
+dobj	identify	improvements
+punct	is	.

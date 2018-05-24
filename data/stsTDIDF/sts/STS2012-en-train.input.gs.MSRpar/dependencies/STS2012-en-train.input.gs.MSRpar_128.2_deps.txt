@@ -1,0 +1,16 @@
+case	2006	In
+nmod:in	report	2006
+punct	report	,
+compound	Pacific	Asia
+nsubj	report	Pacific
+aux	report	will
+root	ROOT	report
+dobj	report	growth
+case	percent	of
+nummod	percent	7.9
+nmod:of	growth	percent
+case	$	to
+nmod:to	growth	$
+compound	billion	81.8
+nummod	$	billion
+punct	report	.

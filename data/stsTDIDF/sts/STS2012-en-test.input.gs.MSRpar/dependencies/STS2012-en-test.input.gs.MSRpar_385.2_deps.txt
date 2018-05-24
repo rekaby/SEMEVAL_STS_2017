@@ -1,0 +1,12 @@
+nsubj	controlled	Mahmud
+root	ROOT	controlled
+dobj	controlled	access
+case	Saddam	to
+nmod:to	access	Saddam
+cc	controlled	and
+cop	side	was
+advmod	side	frequently
+case	side	at
+nmod:poss	side	his
+conj:and	controlled	side
+punct	controlled	.

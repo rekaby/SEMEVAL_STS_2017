@@ -1,0 +1,9 @@
+det	cause	a
+root	ROOT	cause
+case	pain	of
+nmod:of	cause	pain
+cc	pain	or
+conj:or	pain	injury
+cc	pain	or
+conj:or	pain	loss
+punct	cause	.

@@ -1,0 +1,10 @@
+det	vote	The
+nsubj	take	vote
+aux	take	will
+root	ROOT	take
+dobj	take	place
+case	17	on
+nmod:on	take	17
+punct	take	:
+dep	take	30
+punct	take	.

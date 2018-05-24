@@ -1,0 +1,10 @@
+det	answer	The
+nsubj	yes	answer
+case	both	to
+nmod:to	answer	both
+case	questions	of
+nmod:poss	questions	your
+nmod:of	both	questions
+cop	yes	is
+root	ROOT	yes
+punct	yes	.

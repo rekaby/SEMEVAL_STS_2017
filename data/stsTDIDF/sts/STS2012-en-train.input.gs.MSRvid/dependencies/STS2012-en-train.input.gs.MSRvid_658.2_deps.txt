@@ -1,0 +1,7 @@
+det	man	The
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	horse	the
+dobj	riding	horse
+punct	riding	.

@@ -1,0 +1,12 @@
+compound	solutions	Spansion
+compound	solutions	Flash
+compound	solutions	memory
+nsubj	available	solutions
+cop	available	are
+root	ROOT	available
+advmod	available	worldwide
+case	AMD	from
+nmod:from	available	AMD
+cc	AMD	and
+conj:and	AMD	Fujitsu
+punct	available	.

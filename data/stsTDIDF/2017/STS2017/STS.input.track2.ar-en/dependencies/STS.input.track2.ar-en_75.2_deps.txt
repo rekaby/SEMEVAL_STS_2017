@@ -1,0 +1,10 @@
+det	man	The
+nsubj	picks	man
+root	ROOT	picks
+compound:prt	picks	up
+det	picture	a
+dobj	picks	picture
+case	girlfriend	of
+nmod:poss	girlfriend	his
+nmod:of	picture	girlfriend
+punct	picks	.

@@ -1,0 +1,15 @@
+det	amount	The
+amod	amount	total
+nsubjpass	divided	amount
+case	aid	of
+nmod:of	amount	aid
+case	system	to
+det	system	the
+nmod:to	amount	system
+aux	divided	should
+auxpass	divided	be
+root	ROOT	divided
+case	parts	into
+nummod	parts	two
+nmod:into	divided	parts
+punct	divided	.

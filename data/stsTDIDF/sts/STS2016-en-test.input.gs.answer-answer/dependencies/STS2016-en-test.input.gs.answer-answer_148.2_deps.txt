@@ -1,0 +1,11 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+expl	is	there
+ccomp	think	is
+det	answer	an
+nsubj	is	answer
+case	this	for
+nmod:for	answer	this
+punct	think	.

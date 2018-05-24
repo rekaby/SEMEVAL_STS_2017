@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	group	room
+punct	group	.

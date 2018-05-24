@@ -1,0 +1,8 @@
+compound	Talbot	TV
+compound	Talbot	weatherman
+compound	Talbot	Fred
+nsubj	arrested	Talbot
+root	ROOT	arrested
+case	claims	over
+compound	claims	sex
+nmod:over	arrested	claims

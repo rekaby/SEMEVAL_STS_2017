@@ -1,0 +1,7 @@
+nummod	soldiers	Three
+amod	soldiers	more
+compound	soldiers	US
+nsubj	killed	soldiers
+root	ROOT	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

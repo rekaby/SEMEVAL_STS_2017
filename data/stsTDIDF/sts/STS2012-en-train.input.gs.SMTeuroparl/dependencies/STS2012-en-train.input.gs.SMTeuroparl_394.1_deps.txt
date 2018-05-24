@@ -1,0 +1,15 @@
+nsubjpass	bound	People
+case	affairs	with
+det	affairs	the
+amod	affairs	same
+compound	affairs	business
+nmod:with	People	affairs
+case	common	in
+nmod:in	affairs	common
+auxpass	bound	are
+advmod	bound	peacefully
+root	ROOT	bound
+case	one	to
+nmod:to	bound	one
+dep	one	another
+punct	bound	.

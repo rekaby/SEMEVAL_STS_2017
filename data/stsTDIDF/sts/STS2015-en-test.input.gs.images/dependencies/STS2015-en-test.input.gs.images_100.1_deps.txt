@@ -1,0 +1,8 @@
+nummod	girls	two
+nsubj	holding	girls
+root	ROOT	holding
+compound:prt	holding	up
+det	movie	a
+amod	movie	scary
+compound	flyer	movie
+dobj	holding	flyer

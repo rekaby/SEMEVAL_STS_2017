@@ -1,0 +1,10 @@
+advmod	launches	south
+nsubj	launches	korea
+root	ROOT	launches
+amod	train	new
+compound	train	bullet
+dobj	launches	train
+acl	train	reaching
+nummod	kph	300
+dobj	reaching	kph
+punct	launches	.

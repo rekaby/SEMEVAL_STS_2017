@@ -1,0 +1,10 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+cc	standing	and
+conj:and	standing	holding
+det	dessert	a
+amod	dessert	frozen
+dobj	holding	dessert
+punct	standing	.

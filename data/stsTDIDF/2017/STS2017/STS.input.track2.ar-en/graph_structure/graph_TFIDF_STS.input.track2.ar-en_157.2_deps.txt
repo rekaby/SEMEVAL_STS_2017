@@ -1,0 +1,5 @@
+station	bus	compound
+are	women	nsubj
+women	standing	acl
+women	three	nummod
+standing	station	nmod:at

@@ -1,0 +1,8 @@
+nsubj	pleads	Brooks
+root	ROOT	pleads
+neg	guilty	not
+dobj	pleads	guilty
+case	hacking	at
+compound	hacking	phone
+nmod:at	guilty	hacking
+dep	guilty	hearing

@@ -1,0 +1,8 @@
+nsubj	crossing	Dogs
+root	ROOT	crossing
+det	lake	a
+dobj	crossing	lake
+xcomp	crossing	using
+det	footbridge	a
+dobj	using	footbridge
+punct	crossing	.

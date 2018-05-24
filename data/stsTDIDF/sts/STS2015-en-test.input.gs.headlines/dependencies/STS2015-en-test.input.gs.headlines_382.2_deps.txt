@@ -1,0 +1,7 @@
+compound	Trophy	Champions
+root	ROOT	Trophy
+punct	Trophy	:
+compound	AfricaLive	India
+compound	AfricaLive	v
+compound	AfricaLive	South
+dep	Trophy	AfricaLive

@@ -1,0 +1,6 @@
+det	man	a
+nsubj	smokes	man
+root	ROOT	smokes
+det	cigarette	a
+dobj	smokes	cigarette
+punct	smokes	.

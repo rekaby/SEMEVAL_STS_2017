@@ -1,0 +1,8 @@
+root	ROOT	FISHING-exhaust
+mark	allowing	by
+acl	FISHING-exhaust	allowing
+mark	pull	to
+xcomp	allowing	pull
+case	line	on
+det	line	the
+nmod:on	pull	line

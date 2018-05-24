@@ -1,0 +1,15 @@
+expl	is	There
+root	ROOT	is
+advmod	is	always
+punct	is	``
+amod	authority	transitional
+nsubj	is	authority
+punct	is	''
+case	virtue	by
+nmod:by	is	virtue
+case	writing	of
+det	writing	the
+nmod:of	virtue	writing
+case	regulations	of
+nmod:of	writing	regulations
+punct	is	.

@@ -1,0 +1,10 @@
+nsubj	path	Switch
+dobj	Switch	Y
+cop	path	was
+neg	path	not
+case	path	on
+det	path	the
+root	ROOT	path
+case	A.	of
+compound	A.	bulb
+nmod:of	path	A.

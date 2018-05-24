@@ -1,0 +1,15 @@
+det	servers	The
+nsubj	run	servers
+aux	run	can
+root	ROOT	run
+compound	system	Solaris
+compound	system	x86
+compound	system	operating
+dobj	run	system
+cc	system	or
+det	system	the
+amod	system	standard
+compound	system	Linux
+compound	system	operating
+conj:or	system	system
+punct	run	.

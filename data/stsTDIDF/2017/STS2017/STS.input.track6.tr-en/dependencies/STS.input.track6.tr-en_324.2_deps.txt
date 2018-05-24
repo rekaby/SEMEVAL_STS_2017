@@ -1,0 +1,9 @@
+det	man	The
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	house	out
+mwe	out	of
+nmod:poss	house	his
+nmod:out_of	walking	house
+punct	walking	.

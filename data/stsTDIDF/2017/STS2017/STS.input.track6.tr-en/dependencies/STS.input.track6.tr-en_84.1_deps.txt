@@ -1,0 +1,9 @@
+det	child	A
+nsubj	holds	child
+root	ROOT	holds
+det	kite	a
+dobj	holds	kite
+cc	holds	and
+nsubj	watch	people
+conj:and	holds	watch
+punct	holds	.

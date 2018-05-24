@@ -1,0 +1,10 @@
+nsubj	true	It
+cop	true	is
+ccomp	look	true
+punct	look	,
+nsubj	look	I
+root	ROOT	look
+advmod	look	forward
+mark	leave	to
+xcomp	look	leave
+punct	look	.

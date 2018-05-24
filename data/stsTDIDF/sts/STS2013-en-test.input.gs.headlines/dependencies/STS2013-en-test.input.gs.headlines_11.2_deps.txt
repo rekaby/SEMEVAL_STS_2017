@@ -1,0 +1,6 @@
+amod	warnings	Tropical
+compound	warnings	storm
+root	ROOT	warnings
+case	coast	for
+compound	coast	Southeast
+nmod:for	warnings	coast

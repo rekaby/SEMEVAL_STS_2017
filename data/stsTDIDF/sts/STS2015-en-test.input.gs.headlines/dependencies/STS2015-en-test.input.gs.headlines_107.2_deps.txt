@@ -1,0 +1,10 @@
+root	ROOT	US
+mark	allow	to
+acl	US	allow
+amod	pill	morning-after
+dobj	allow	pill
+case	girls	for
+nmod:for	pill	girls
+case	age	of
+det	age	any
+nmod:of	girls	age

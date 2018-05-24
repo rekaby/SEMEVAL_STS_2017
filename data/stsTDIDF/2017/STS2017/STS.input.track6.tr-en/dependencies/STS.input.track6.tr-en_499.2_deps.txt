@@ -1,0 +1,6 @@
+det	man	A
+nsubj	sitting	man
+cc	man	and
+conj:and	man	woman
+aux	sitting	are
+root	ROOT	sitting

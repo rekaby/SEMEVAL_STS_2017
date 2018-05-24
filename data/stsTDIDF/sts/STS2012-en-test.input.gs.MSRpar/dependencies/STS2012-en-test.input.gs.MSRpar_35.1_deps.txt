@@ -1,0 +1,15 @@
+det	AFL-CIO	The
+nsubj	waiting	AFL-CIO
+aux	waiting	is
+root	ROOT	waiting
+case	October	until
+nmod:until	waiting	October
+mark	decide	to
+xcomp	waiting	decide
+mark	endorse	if
+nsubj	endorse	it
+aux	endorse	will
+advcl	decide	endorse
+det	candidate	a
+dobj	endorse	candidate
+punct	waiting	.

@@ -1,0 +1,6 @@
+amod	president	Chinese
+nsubj	meets	president
+root	ROOT	meets
+compound	secretary	U.S.
+compound	secretary	state
+dobj	meets	secretary

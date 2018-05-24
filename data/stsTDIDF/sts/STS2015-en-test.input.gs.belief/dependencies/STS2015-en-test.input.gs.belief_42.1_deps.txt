@@ -1,0 +1,15 @@
+root	ROOT	``
+advmod	hear	why
+aux	hear	did
+neg	hear	n't
+nsubj	hear	we
+root	``	hear
+case	deficit	about
+det	deficit	the
+nmod:about	hear	deficit
+case	administration	during
+det	administration	the
+amod	administration	bush
+nmod:during	deficit	administration
+punct	hear	?
+punct	hear	''

@@ -1,0 +1,13 @@
+nummod	dogs	Three
+root	ROOT	dogs
+acl	dogs	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+mark	wears	while
+nummod	dog	one
+nsubj	wears	dog
+advcl	playing	wears
+det	jacket	a
+dobj	wears	jacket
+punct	dogs	.

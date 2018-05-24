@@ -1,0 +1,12 @@
+punct	exposed	``
+nsubj	exposed	Errors
+aux	exposed	may
+aux	exposed	have
+root	ROOT	exposed
+dobj	exposed	veterans
+case	viruses	to
+nmod:to	exposed	viruses
+punct	viruses	''
+compound	oh	Uh
+advmod	viruses	oh
+punct	exposed	...

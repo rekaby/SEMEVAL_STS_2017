@@ -1,0 +1,10 @@
+det	bulbs	the
+nsubj	path	bulbs
+cop	path	are
+case	path	on
+det	path	the
+amod	path	same
+root	ROOT	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

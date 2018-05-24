@@ -1,0 +1,9 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+nmod:poss	dog	his
+dobj	walks	dog
+case	beach	on
+det	beach	the
+nmod:on	walks	beach
+punct	walks	.

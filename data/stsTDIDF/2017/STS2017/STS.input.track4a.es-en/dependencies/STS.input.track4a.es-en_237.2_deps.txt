@@ -1,0 +1,8 @@
+det	competitors	The
+compound	competitors	swimming
+nsubj	prepare	competitors
+root	ROOT	prepare
+case	meet	for
+nmod:poss	meet	their
+nmod:for	prepare	meet
+punct	prepare	.

@@ -1,0 +1,11 @@
+woman	shirt	nmod:with
+pants	leather	compound
+woman	blond	amod
+shirt	with	case
+track	running	amod
+holds	woman	nsubj
+holds	camera	dobj
+pants	black	amod
+shirt	pink	amod
+shirt	pants	conj:and
+holds	track	nmod:on

@@ -1,0 +1,5 @@
+det	dog	A
+amod	dog	brown
+nsubj	wading	dog
+neg	wading	not
+root	ROOT	wading

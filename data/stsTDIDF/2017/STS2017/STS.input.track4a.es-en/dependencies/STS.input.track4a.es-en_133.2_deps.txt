@@ -1,0 +1,11 @@
+det	person	A
+root	ROOT	person
+dep	person	sitting
+case	trees	under
+nmod:under	sitting	trees
+cc	sitting	and
+det	sculpture	a
+amod	sculpture	large
+compound	sculpture	metal
+conj:and	sitting	sculpture
+punct	person	.

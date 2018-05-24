@@ -1,0 +1,7 @@
+det	circuit	Each
+nsubj	have	circuit
+aux	have	must
+root	ROOT	have
+det	connection	a
+dobj	have	connection
+punct	have	.

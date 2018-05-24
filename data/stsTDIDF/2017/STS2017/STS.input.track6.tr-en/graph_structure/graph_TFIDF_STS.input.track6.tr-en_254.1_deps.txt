@@ -1,0 +1,8 @@
+splashing	around	advmod
+dog	brown	amod
+ROOT	loves	root
+loves	splashing	conj:and
+loves	and	cc
+loves	water	dobj
+loves	.	punct
+loves	dog	nsubj

@@ -1,0 +1,10 @@
+root	ROOT	2
+acl	2	killed
+punct	2	,
+root	,	dozens
+acl	dozens	injured
+case	blast	by
+nmod:by	injured	blast
+case	southwest	in
+nmod:in	blast	southwest
+nmod:tmod	blast	Pakistan

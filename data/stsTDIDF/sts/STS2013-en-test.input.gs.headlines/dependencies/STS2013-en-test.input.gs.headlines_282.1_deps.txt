@@ -1,0 +1,5 @@
+amod	journalists	Syrian
+nsubj	killed	journalists
+root	ROOT	killed
+case	capital	in
+nmod:in	killed	capital

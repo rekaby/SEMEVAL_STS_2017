@@ -1,0 +1,7 @@
+root	ROOT	Dutchy
+dep	Dutchy	Has
+dobj	Has	anyone
+acl	anyone	heard
+case	Dutchy	from
+nmod:from	heard	Dutchy
+punct	Dutchy	?

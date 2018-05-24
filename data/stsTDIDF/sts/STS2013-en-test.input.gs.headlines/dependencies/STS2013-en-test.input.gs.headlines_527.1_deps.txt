@@ -1,0 +1,7 @@
+compound	price	Manchester
+compound	price	United
+compound	price	slashes
+root	ROOT	price
+case	IPO	for
+compound	IPO	US
+nmod:for	price	IPO

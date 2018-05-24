@@ -1,0 +1,12 @@
+net	in	case
+castle	an	det
+castle	inflatable	amod
+net	an	det
+squats	boy	nsubj
+net	empty	amod
+squats	castle	nmod:with
+castle	him	nmod:behind
+squats	net	nmod:in_front_of
+castle	with	case
+ROOT	squats	root
+squats	.	punct

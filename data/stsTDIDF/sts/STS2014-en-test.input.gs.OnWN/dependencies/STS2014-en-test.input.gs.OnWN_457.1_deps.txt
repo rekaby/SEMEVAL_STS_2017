@@ -1,0 +1,8 @@
+det	root	the
+root	ROOT	root
+cc	root	or
+compound	form	base
+conj:or	root	form
+case	word	of
+det	word	a
+nmod:of	root	word

@@ -1,0 +1,11 @@
+nsubj	report	Russia
+punct	Russia	,
+nsubj	foiled	Ukraine
+acl:relcl	Russia	foiled
+dobj	foiled	plot
+mark	kill	to
+acl	plot	kill
+dobj	kill	Putin
+punct	Russia	,
+nsubj	says	report
+root	ROOT	says

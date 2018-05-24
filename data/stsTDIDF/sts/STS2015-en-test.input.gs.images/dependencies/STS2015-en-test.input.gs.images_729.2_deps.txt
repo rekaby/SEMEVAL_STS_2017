@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	dog	with
+det	dog	a
+compound	dog	tan
+nmod:with	playing	dog
+punct	playing	.

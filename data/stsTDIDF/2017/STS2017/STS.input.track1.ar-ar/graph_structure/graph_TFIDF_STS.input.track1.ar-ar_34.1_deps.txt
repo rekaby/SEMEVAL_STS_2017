@@ -1,0 +1,10 @@
+garden	a	det
+plastered	in	case
+wearing	T-shirt	dobj
+woman	wearing	acl
+garden	by	case
+plastered	white	amod
+surrounded	garden	nmod:by
+woman	Sitting	amod
+plastered	surrounded	acl
+wearing	plastered	nmod:in

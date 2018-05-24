@@ -1,0 +1,11 @@
+det	man	A
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	container	a
+amod	container	plastic
+dobj	slicing	container
+case	sword	with
+det	sword	a
+nmod:with	slicing	sword
+punct	slicing	.

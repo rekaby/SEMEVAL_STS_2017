@@ -1,0 +1,12 @@
+nsubj	one	I
+cop	one	am
+root	ROOT	one
+case	Members	of
+det	Members	those
+nmod:of	one	Members
+nsubj	here	who
+cop	here	are
+advmod	properly	quite
+advmod	here	properly
+acl:relcl	Members	here
+punct	one	.

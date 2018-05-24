@@ -1,0 +1,9 @@
+compound	Sudan	South
+nsubj	accuses	Sudan
+root	ROOT	accuses
+dobj	accuses	Sudan
+case	bombings	of
+nmod:of	accuses	bombings
+advmod	bombings	ahead
+case	talks	of
+nmod:of	bombings	talks

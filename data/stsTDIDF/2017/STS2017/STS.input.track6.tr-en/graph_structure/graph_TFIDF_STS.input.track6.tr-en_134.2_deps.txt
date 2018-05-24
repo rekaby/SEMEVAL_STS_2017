@@ -1,0 +1,11 @@
+bottle	beer	compound
+bottle	brown	amod
+Hook	.	punct
+name	The	det
+ROOT	Hook	root
+Hook	Winter	compound
+bottle	of	case
+Hook	is	cop
+bottle	the	det
+Hook	name	nsubj
+name	bottle	nmod:of

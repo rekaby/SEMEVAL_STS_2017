@@ -1,0 +1,9 @@
+det	man	The
+nsubj	rode	man
+root	ROOT	rode
+nmod:poss	motorcycle	his
+dobj	rode	motorcycle
+case	highway	down
+det	highway	the
+nmod:down	rode	highway
+punct	rode	.

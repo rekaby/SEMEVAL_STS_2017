@@ -1,0 +1,10 @@
+advmod	raise	Literally
+cc	Literally	and
+conj:and	Literally	quantifiably
+root	ROOT	raise
+case	rank	in
+amod	rank	social
+nmod:in	raise	rank
+cc	rank	or
+conj:or	rank	status
+punct	raise	.

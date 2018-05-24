@@ -1,0 +1,8 @@
+det	report	The
+nsubj	aims	report
+root	ROOT	aims
+mark	identify	to
+xcomp	aims	identify
+amod	improvements	such
+dobj	identify	improvements
+punct	aims	.

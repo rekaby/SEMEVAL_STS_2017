@@ -1,0 +1,13 @@
+compound	strikes	Israel
+compound	strikes	air
+nsubj	kill	strikes
+root	ROOT	kill
+dobj	kill	4
+case	Gaza	in
+nmod:in	4	Gaza
+punct	kill	;
+compound	toll	death
+dep	kill	toll
+advmod	38	now
+case	38	at
+acl:at	toll	38

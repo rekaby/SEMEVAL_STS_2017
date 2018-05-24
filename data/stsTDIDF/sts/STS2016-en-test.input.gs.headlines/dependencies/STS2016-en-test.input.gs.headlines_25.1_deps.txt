@@ -1,0 +1,10 @@
+compound	Tigers	Red
+compound	Tigers	Sox
+compound	Tigers	Beat
+nsubj	5-2	Tigers
+nummod	Series	5-2
+case	Advance	to
+nmod:to	5-2	Advance
+case	World	to
+nmod:to	Advance	World
+root	ROOT	Series

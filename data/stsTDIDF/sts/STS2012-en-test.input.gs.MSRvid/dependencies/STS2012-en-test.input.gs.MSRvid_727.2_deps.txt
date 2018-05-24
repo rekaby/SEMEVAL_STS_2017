@@ -1,0 +1,8 @@
+det	person	A
+nsubj	holding	person
+aux	holding	is
+root	ROOT	holding
+nummod	lorises	two
+compound	lorises	baby
+dobj	holding	lorises
+punct	holding	.

@@ -1,0 +1,6 @@
+running	police	nmod:from
+police	from	case
+horse	the	det
+running	man	nsubj
+man	horse	conj:and
+running	away	advmod

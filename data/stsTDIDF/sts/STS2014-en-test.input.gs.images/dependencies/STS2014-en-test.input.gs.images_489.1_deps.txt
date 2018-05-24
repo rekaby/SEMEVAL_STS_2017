@@ -1,0 +1,15 @@
+det	close	A
+root	ROOT	close
+case	end	up
+case	end	of
+det	end	the
+amod	end	front
+acl:of	close	end
+case	cycle	of
+det	cycle	a
+amod	cycle	purple
+cc	purple	and
+conj:and	purple	white
+compound	cycle	motor
+nmod:of	end	cycle
+punct	close	.

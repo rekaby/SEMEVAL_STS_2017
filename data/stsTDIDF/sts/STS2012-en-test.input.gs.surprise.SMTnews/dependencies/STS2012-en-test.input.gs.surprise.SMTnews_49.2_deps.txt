@@ -1,0 +1,16 @@
+det	Europa	The
+amod	Europa	great
+compound	Europa	Pax
+nsubj	depends	Europa
+nmod:tmod	depends	today
+punct	depends	,
+case	prosperity	as
+det	prosperity	the
+amod	prosperity	current
+amod	prosperity	pan-European
+nmod:as	depends	prosperity
+punct	depends	,
+root	ROOT	depends
+case	it	on
+nmod:on	depends	it
+punct	depends	.

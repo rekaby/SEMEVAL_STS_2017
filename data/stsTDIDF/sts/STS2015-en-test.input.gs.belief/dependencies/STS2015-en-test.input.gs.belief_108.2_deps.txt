@@ -1,0 +1,16 @@
+aux	want	do
+neg	want	n't
+root	ROOT	want
+mark	read	to
+xcomp	want	read
+cc	read	and
+conj:and	read	run
+cc	read	but
+nsubj	know	i
+aux	know	do
+neg	know	n't
+conj:but	read	know
+dobj	know	what
+mark	say	to
+xcomp	know	say
+punct	want	.

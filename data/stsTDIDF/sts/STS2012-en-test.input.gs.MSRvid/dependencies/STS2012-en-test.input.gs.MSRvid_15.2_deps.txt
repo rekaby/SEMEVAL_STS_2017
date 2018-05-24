@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	playing	woman
+aux	playing	is
+root	ROOT	playing
+det	guitar	an
+amod	guitar	acoustic
+dobj	playing	guitar
+cc	guitar	and
+conj:and	guitar	singing
+punct	playing	.

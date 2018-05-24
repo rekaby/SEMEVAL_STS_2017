@@ -1,0 +1,12 @@
+advmod	remove	How
+aux	remove	can
+nsubj	remove	I
+root	ROOT	remove
+amod	paint	small
+dobj	remove	paint
+dobj	remove	specks
+case	floor	from
+det	floor	a
+amod	floor	wooden
+nmod:from	specks	floor
+punct	remove	?

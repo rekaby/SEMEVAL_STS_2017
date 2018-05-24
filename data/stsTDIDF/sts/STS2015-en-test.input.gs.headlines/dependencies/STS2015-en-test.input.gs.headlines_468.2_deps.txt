@@ -1,0 +1,7 @@
+amod	guru	Indian
+root	ROOT	guru
+acl	guru	arrested
+case	suspicion	on
+nmod:on	arrested	suspicion
+case	rape	of
+nmod:of	suspicion	rape

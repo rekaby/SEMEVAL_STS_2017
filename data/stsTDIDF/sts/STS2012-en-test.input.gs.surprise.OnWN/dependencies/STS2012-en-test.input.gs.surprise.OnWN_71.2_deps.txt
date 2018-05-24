@@ -1,0 +1,12 @@
+det	facility	a
+root	ROOT	facility
+advmod	deposited	where
+nsubjpass	deposited	things
+aux	deposited	can
+auxpass	deposited	be
+acl:relcl	facility	deposited
+case	storage	for
+nmod:for	deposited	storage
+cc	storage	or
+conj:or	storage	safekeeping
+punct	facility	.

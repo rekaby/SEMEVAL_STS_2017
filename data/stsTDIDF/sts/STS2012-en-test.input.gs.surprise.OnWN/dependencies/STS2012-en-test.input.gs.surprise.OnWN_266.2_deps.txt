@@ -1,0 +1,8 @@
+root	ROOT	fall
+case	pod	out
+mwe	out	of
+det	pod	the
+nmod:out_of	fall	pod
+cc	pod	or
+conj:or	pod	husk
+punct	fall	.

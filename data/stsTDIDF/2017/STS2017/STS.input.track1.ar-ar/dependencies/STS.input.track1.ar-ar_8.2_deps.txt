@@ -1,0 +1,8 @@
+nsubj	sell	One
+case	women	of
+det	women	the
+nmod:of	One	women
+root	ROOT	sell
+det	crop	the
+dobj	sell	crop
+punct	sell	.

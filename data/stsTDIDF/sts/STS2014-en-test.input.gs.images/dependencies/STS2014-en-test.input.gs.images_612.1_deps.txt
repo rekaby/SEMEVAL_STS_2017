@@ -1,0 +1,13 @@
+nummod	women	Two
+nsubj	sheering	women
+aux	sheering	are
+root	ROOT	sheering
+det	sheep	a
+amod	sheep	white
+dobj	sheering	sheep
+case	building	inside
+mwe	inside	of
+det	building	a
+amod	building	wooden
+nmod:inside_of	sheering	building
+punct	sheering	.

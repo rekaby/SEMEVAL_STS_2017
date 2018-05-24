@@ -1,0 +1,8 @@
+nsubj	sleep	Mother
+cc	Mother	and
+nummod	children	three
+conj:and	Mother	children
+root	ROOT	sleep
+case	home	at
+nmod:at	sleep	home
+punct	sleep	.

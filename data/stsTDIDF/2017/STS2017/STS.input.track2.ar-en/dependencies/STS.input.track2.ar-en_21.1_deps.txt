@@ -1,0 +1,17 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+acl	shirt	helping
+det	man	a
+dobj	helping	man
+case	shirt	in
+det	shirt	a
+amod	shirt	red
+nmod:in	helping	shirt
+acl	shirt	fix
+det	car	a
+dobj	fix	car
+punct	man	.

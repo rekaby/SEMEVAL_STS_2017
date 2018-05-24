@@ -1,0 +1,13 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	sitting
+case	chair	on
+det	chair	a
+amod	chair	yellow
+nmod:on	sitting	chair
+case	dumpster	next
+mwe	next	to
+det	dumpster	a
+amod	dumpster	green
+nmod:next_to	sitting	dumpster
+punct	dog	.

@@ -1,0 +1,8 @@
+root	ROOT	improve
+cc	improve	or
+conj:or	improve	perfect
+case	pruning	by
+nmod:by	perfect	pruning
+cc	pruning	or
+conj:or	pruning	polishing
+punct	improve	.

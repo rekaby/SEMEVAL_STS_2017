@@ -1,0 +1,7 @@
+nmod:poss	Brotherhood	Egypt
+case	Egypt	's
+nsubj	stands	Brotherhood
+root	ROOT	stands
+dobj	stands	ground
+case	killings	after
+nmod:after	ground	killings

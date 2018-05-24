@@ -1,0 +1,6 @@
+searching	men	nsubj
+ROOT	searching	root
+goods	for	case
+goods	canned	amod
+searching	are	aux
+searching	goods	nmod:for

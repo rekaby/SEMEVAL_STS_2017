@@ -1,0 +1,11 @@
+root	ROOT	pass
+cc	pass	or
+conj:or	pass	put
+det	vessel	a
+dobj	pass	vessel
+case	lock	through
+det	lock	a
+nmod:through	pass	lock
+case	waterway	in
+det	waterway	a
+nmod:in	lock	waterway

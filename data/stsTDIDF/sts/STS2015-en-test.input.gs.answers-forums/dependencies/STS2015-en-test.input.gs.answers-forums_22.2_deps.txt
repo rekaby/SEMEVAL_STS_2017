@@ -1,0 +1,14 @@
+nsubj	rotating	Stars
+aux	rotating	are
+root	ROOT	rotating
+punct	rotating	,
+cc	rotating	but
+nsubj	cause	that
+cop	cause	's
+neg	cause	not
+det	cause	the
+conj:but	rotating	cause
+case	stability	for
+nmod:poss	stability	their
+nmod:for	cause	stability
+punct	rotating	.

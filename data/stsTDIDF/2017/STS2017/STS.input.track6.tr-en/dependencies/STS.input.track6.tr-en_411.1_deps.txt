@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	dressed
+mark	hitting	in
+amod	hitting	white
+advcl	dressed	hitting
+det	ball	a
+compound	ball	tennis
+dobj	hitting	ball
+punct	woman	.

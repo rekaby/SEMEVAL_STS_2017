@@ -1,0 +1,13 @@
+pushes	hand	nmod:with
+her	market	nmod:on
+cart	baby	compound
+ROOT	pushes	root
+pushes	carries	conj:and
+carries	her	dobj
+hand	with	case
+pushes	man	nsubj
+pushes	.	punct
+pushes	and	cc
+hand	free	amod
+pushes	cart	dobj
+cart	the	det

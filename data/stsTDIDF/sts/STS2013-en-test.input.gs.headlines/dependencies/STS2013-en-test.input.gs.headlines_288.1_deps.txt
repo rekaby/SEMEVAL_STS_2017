@@ -1,0 +1,8 @@
+nsubj	Supports	Government
+case	Canada	of
+nmod:of	Government	Canada
+root	ROOT	Supports
+compound	Women	Montréal
+dobj	Supports	Women
+amod	Change	Leading
+dobj	Supports	Change

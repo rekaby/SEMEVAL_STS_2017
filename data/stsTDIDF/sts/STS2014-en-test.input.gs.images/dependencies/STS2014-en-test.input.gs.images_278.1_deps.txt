@@ -1,0 +1,8 @@
+det	jet	A
+compound	jet	passenger
+nsubj	sits	jet
+root	ROOT	sits
+case	runway	on
+det	runway	a
+nmod:on	sits	runway
+punct	sits	.

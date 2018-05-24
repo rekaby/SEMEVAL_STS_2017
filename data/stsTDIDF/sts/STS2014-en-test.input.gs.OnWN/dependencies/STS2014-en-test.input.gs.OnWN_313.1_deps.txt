@@ -1,0 +1,9 @@
+det	exhalation	the
+amod	exhalation	forceful
+root	ROOT	exhalation
+case	air	of
+nmod:of	exhalation	air
+case	nose	from
+nmod:from	exhalation	nose
+cc	nose	or
+conj:or	nose	mouth

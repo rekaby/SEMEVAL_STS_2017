@@ -1,0 +1,15 @@
+amod	televisions	Several
+nsubj	floor	televisions
+cop	floor	are
+case	floor	on
+det	floor	the
+root	ROOT	floor
+cc	floor	and
+conj:and	floor	stacked
+compound:prt	stacked	up
+case	one	on
+mwe	on	top
+mwe	on	of
+nmod:on_top_of	stacked	one
+dep	floor	another
+punct	floor	.

@@ -1,0 +1,16 @@
+root	ROOT	Charting
+det	Path	a
+compound	Path	Post-Pollution
+dobj	Charting	Path
+case	Cities	for
+nmod:for	Path	Cities
+punct	Cities	-
+case	London	From
+nmod:from	Cities	London
+punct	London	,
+appos	London	1952
+punct	London	,
+case	Beijing	through
+nmod:through	London	Beijing
+punct	London	,
+nummod	London	2013

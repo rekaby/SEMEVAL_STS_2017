@@ -1,0 +1,14 @@
+root	ROOT	Thus
+punct	Thus	,
+compound	System	Meta
+punct	System	-
+root	,	System
+punct	Dialectic	-
+amod	Dialectic	atic
+nsubj	Diachronico	Dialectic
+cop	Diachronico	is
+acl:relcl	System	Diachronico
+punct	System	-
+compound	Dialectic	Synchronic
+dep	System	Dialectic
+punct	System	.

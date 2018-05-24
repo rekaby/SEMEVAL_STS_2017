@@ -1,0 +1,6 @@
+compound	Korea	N
+nsubj	test-fires	Korea
+root	ROOT	test-fires
+nummod	missiles	30
+amod	missiles	short-range
+dobj	test-fires	missiles

@@ -1,0 +1,9 @@
+plays	she	nsubj
+ROOT	crying	root
+crying	is	aux
+crying	.	punct
+plays	guitar	dobj
+plays	while	mark
+crying	plays	advcl
+crying	woman	nsubj
+guitar	the	det

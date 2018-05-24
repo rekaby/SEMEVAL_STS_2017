@@ -1,0 +1,7 @@
+det	men	The
+root	ROOT	men
+case	coaster	on
+det	coaster	a
+compound	coaster	roller
+nmod:on	men	coaster
+punct	men	.

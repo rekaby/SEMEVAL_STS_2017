@@ -1,0 +1,8 @@
+nsubj	relocate	retreat
+cc	retreat	or
+conj:or	retreat	move
+case	position	from
+det	position	a
+nmod:from	move	position
+punct	retreat	,
+root	ROOT	relocate

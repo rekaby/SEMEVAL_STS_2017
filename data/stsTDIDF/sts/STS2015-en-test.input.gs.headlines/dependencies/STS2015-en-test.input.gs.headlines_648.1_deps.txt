@@ -1,0 +1,9 @@
+compound	Korea	North
+nsubj	fires	Korea
+compound	fires	test
+root	ROOT	fires
+nummod	missiles	30
+dobj	fires	missiles
+case	sea	into
+det	sea	the
+nmod:into	fires	sea

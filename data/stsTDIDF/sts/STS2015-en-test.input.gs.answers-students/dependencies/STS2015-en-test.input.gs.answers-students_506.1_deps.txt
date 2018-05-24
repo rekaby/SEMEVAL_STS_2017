@@ -1,0 +1,13 @@
+mark	path	because
+amod	one	terminal
+nsubj	path	one
+cc	one	and
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+conj:and	one	terminal
+cop	path	are
+case	path	on
+det	path	a
+amod	path	closed
+root	ROOT	path

@@ -1,0 +1,16 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+nsubj	fell	average
+root	ROOT	fell
+nummod	points	10.89
+dobj	fell	points
+punct	fell	,
+cc	fell	or
+nummod	percent	0.11
+conj:or	fell	percent
+punct	percent	,
+case	9,837.94	to
+nmod:to	percent	9,837.94
+punct	fell	.

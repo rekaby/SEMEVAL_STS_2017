@@ -1,0 +1,9 @@
+mark	circuit	because
+det	battery	the
+nsubj	circuit	battery
+cop	circuit	is
+neg	circuit	not
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+root	ROOT	circuit

@@ -1,0 +1,17 @@
+nsubj	increase	This
+cop	increase	is
+det	increase	an
+root	ROOT	increase
+case	forecast	from
+det	forecast	the
+nsubj	forecast	$
+compound	million	22.5
+nummod	$	million
+cc	$	and
+nummod	cents	5
+conj:and	$	cents
+det	share	a
+nmod:npmod	$	share
+advmod	forecast	previously
+nmod:from	increase	forecast
+punct	increase	.

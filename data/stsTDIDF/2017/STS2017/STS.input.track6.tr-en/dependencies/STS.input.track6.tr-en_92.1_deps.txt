@@ -1,0 +1,14 @@
+det	dog	A
+nsubj	ran	dog
+root	ROOT	ran
+advmod	ran	away
+case	home	from
+nmod:from	ran	home
+cc	ran	and
+auxpass	lost	seems
+conj:and	ran	lost
+compound:prt	lost	out
+case	streets	on
+det	streets	the
+nmod:on	lost	streets
+punct	ran	.

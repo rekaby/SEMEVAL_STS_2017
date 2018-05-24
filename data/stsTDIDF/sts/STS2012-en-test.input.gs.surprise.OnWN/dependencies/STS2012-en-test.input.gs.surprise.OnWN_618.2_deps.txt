@@ -1,0 +1,10 @@
+det	act	an
+root	ROOT	act
+mark	hindering	of
+acl	act	hindering
+nmod:poss	plans	someone
+case	someone	's
+dobj	hindering	plans
+cc	plans	or
+conj:or	plans	efforts
+punct	act	.

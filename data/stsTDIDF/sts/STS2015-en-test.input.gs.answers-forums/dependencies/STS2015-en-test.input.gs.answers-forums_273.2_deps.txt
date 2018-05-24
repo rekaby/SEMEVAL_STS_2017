@@ -1,0 +1,13 @@
+nsubj	indicate	Research
+aux	indicate	does
+root	ROOT	indicate
+mark	rule-of-thumb	that
+csubj	rule-of-thumb	sleeping
+mark	studying	after
+advcl	sleeping	studying
+cop	rule-of-thumb	is
+det	rule-of-thumb	a
+advmod	good	pretty
+amod	rule-of-thumb	good
+ccomp	indicate	rule-of-thumb
+punct	indicate	.

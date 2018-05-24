@@ -1,0 +1,8 @@
+root	ROOT	deprive
+case	courage	of
+nmod:of	deprive	courage
+punct	deprive	,
+conj:or	deprive	hope
+punct	deprive	,
+cc	deprive	or
+conj:or	deprive	optimism

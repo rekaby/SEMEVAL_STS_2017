@@ -1,0 +1,7 @@
+nsubj	used	coating
+root	ROOT	used
+case	repellant	as
+det	repellant	a
+nmod:as	used	repellant
+case	moisture	to
+nmod:to	repellant	moisture

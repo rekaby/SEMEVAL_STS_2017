@@ -1,0 +1,6 @@
+women	young	amod
+eat	table	nmod:at
+eat	women	nsubj
+t-shirts	in	case
+t-shirts	black	amod
+women	t-shirts	nmod:in

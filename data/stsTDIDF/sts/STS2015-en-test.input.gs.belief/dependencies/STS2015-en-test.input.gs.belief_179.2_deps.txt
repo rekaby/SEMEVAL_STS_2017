@@ -1,0 +1,13 @@
+nmod:poss	pen	his
+compound	pen	veto
+nsubj	fu	pen
+cop	fu	was
+det	fu	the
+amod	fu	mightiest
+amod	fu	presidential
+compound	fu	kung
+root	ROOT	fu
+case	history	in
+nmod:poss	history	our
+nmod:in	fu	history
+punct	fu	.

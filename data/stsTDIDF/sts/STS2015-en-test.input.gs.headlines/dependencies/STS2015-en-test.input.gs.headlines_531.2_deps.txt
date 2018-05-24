@@ -1,0 +1,8 @@
+nsubj	speaks	Putin
+advcl	rebuild	speaks
+case	Ukraine	on
+nmod:on	speaks	Ukraine
+punct	rebuild	,
+nsubj	rebuild	protesters
+root	ROOT	rebuild
+dobj	rebuild	barricades

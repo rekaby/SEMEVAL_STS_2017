@@ -1,0 +1,8 @@
+bicycle	garage	nmod:in
+bicycle	a	det
+fix	bicycle	dobj
+fix	.	punct
+ROOT	fix	root
+garage	a	det
+fix	men	nsubj
+garage	in	case

@@ -1,0 +1,6 @@
+root	ROOT	lack
+case	agreement	of
+nmod:of	lack	agreement
+cc	agreement	or
+conj:or	agreement	harmony
+punct	lack	.

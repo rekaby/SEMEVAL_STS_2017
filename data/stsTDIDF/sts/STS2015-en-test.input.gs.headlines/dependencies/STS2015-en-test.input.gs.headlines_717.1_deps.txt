@@ -1,0 +1,9 @@
+root	ROOT	Austrian
+acl	Austrian	found
+xcomp	found	hoarding
+nummod	skulls	56
+amod	skulls	stolen
+dobj	hoarding	skulls
+case	museum	in
+compound	museum	home
+nmod:in	skulls	museum

@@ -1,0 +1,6 @@
+nsubj	walking	Soldiers
+root	ROOT	walking
+case	Phil	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	walking	Phil

@@ -1,0 +1,14 @@
+compound	Rathband	PC
+compound	Rathband	David
+root	ROOT	Rathband
+punct	Rathband	:
+amod	brother	twin
+nmod:poss	fears	brother
+case	brother	's
+dep	Rathband	fears
+case	mate	for
+nmod:poss	mate	his
+punct	mate	`
+amod	mate	bestest
+nmod:for	fears	mate
+punct	fears	'

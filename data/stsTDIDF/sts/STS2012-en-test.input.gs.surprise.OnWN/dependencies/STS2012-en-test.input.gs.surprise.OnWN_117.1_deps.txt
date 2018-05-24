@@ -1,0 +1,8 @@
+det	container	a
+amod	container	decorative
+root	ROOT	container
+punct	container	,
+advmod	holding	often
+mark	holding	for
+acl	container	holding
+dobj	holding	flowers

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	field	on
+det	field	the
+nmod:on	running	field
+mark	escape	to
+xcomp	running	escape
+case	people	from
+amod	people	angry
+nmod:from	escape	people
+punct	running	.

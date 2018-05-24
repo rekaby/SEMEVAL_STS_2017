@@ -1,0 +1,6 @@
+nsubj	runs	it
+root	ROOT	runs
+case	current	on
+det	current	a
+amod	current	different
+nmod:on	runs	current

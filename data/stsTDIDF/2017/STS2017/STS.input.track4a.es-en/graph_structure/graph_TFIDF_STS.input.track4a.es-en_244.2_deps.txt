@@ -1,0 +1,6 @@
+walking	men	nsubj
+tent	a	det
+tent	in	case
+walking	tent	nmod:in_front_of
+men	Three	nummod
+walking	are	aux

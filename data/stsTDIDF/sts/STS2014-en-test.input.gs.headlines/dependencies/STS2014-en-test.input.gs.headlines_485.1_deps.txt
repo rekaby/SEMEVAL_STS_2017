@@ -1,0 +1,9 @@
+compound	toll	Death
+nsubj	rises	toll
+case	violence	from
+amod	violence	west
+compound	violence	Chinas
+nmod:from	toll	violence
+root	ROOT	rises
+case	35	to
+nmod:to	rises	35

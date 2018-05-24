@@ -1,0 +1,9 @@
+nsubj	hear	Witnesses
+root	ROOT	hear
+punct	hear	`
+amod	booms	loud
+dobj	hear	booms
+case	booms	'
+case	Marathon	at
+compound	Marathon	Boston
+nmod:at	booms	Marathon

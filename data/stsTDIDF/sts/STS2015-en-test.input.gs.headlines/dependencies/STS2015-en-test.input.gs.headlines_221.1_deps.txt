@@ -1,0 +1,6 @@
+nummod	collapse	One
+amod	collapse	dead
+case	building	in
+compound	building	US
+nmod:in	dead	building
+root	ROOT	collapse

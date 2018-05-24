@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	puncturing	woman
+aux	puncturing	is
+root	ROOT	puncturing
+det	potato	a
+dobj	puncturing	potato
+case	fork	with
+det	fork	a
+nmod:with	puncturing	fork
+punct	puncturing	.

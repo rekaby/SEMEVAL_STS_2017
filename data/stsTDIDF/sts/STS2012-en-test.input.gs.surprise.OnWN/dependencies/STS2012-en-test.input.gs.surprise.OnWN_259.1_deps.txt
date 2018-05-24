@@ -1,0 +1,5 @@
+compound	compartment	luggage
+root	ROOT	compartment
+case	car	of
+det	car	a
+nmod:of	compartment	car

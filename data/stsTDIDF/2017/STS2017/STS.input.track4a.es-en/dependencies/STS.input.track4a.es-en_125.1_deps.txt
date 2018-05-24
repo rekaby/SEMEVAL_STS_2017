@@ -1,0 +1,8 @@
+det	couple	A
+nsubj	walking	couple
+aux	walking	is
+root	ROOT	walking
+nmod:poss	dogs	their
+dobj	walking	dogs
+advmod	walking	outdoors
+punct	walking	.

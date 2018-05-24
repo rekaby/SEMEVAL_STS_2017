@@ -1,0 +1,9 @@
+go	buisness	nmod:about
+passing	People	nsubj
+buisness	about	case
+buisness	their	nmod:poss
+passing	protesters	dobj
+passing	.	punct
+passing	go	advcl
+ROOT	passing	root
+passing	are	aux

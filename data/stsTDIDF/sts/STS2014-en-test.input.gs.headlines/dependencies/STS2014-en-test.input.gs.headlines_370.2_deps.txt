@@ -1,0 +1,9 @@
+discourse	town	Oh
+punct	town	,
+amod	town	little
+root	ROOT	town
+case	Bethlehem	of
+nmod:of	town	Bethlehem
+punct	real	--
+case	real	for
+nmod:for	town	real

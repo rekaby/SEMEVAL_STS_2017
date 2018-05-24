@@ -1,0 +1,7 @@
+playing	soccer	nmod:on
+kids	The	det
+soccer	one	nummod
+playing	kids	nsubj
+game	one	nmod:of
+soccer	on	case
+game	friendly	amod

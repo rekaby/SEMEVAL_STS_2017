@@ -1,0 +1,8 @@
+looks	walks	advcl
+looks	woman	nsubj
+duck	at	case
+walks	it	nmod:behind
+duck	a	det
+walks	as	mark
+walks	she	nsubj
+looks	duck	nmod:at

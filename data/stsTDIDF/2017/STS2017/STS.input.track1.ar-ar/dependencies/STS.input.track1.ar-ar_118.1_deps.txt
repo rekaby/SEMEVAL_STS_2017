@@ -1,0 +1,6 @@
+root	ROOT	Person
+acl	Person	reclining
+case	wall	on
+det	wall	the
+nmod:on	reclining	wall
+punct	Person	.

@@ -1,0 +1,7 @@
+root	ROOT	Bombing
+acl	Bombing	Aimed
+mark	Hits	at
+nsubj	Hits	Hezbollah
+advcl	Aimed	Hits
+compound	Beirut	Southern
+dobj	Hits	Beirut

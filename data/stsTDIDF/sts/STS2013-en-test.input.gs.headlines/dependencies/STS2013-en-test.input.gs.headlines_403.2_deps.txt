@@ -1,0 +1,8 @@
+nsubj	decide	Ecuador
+advmod	decide	yet
+mark	decide	to
+root	ROOT	decide
+case	asylum	on
+nmod:poss	asylum	Assange
+case	Assange	's
+nmod:on	decide	asylum

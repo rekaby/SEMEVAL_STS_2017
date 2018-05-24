@@ -1,0 +1,6 @@
+compound	Africa	South
+nmod:poss	Mandela	Africa
+case	Africa	's
+compound	Mandela	Nelson
+nsubj	Hospitalized	Mandela
+root	ROOT	Hospitalized

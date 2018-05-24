@@ -1,0 +1,6 @@
+climbing	.	punct
+mountain	a	det
+climbing	are	aux
+ROOT	climbing	root
+climbing	mountain	nmod:on
+climbing	man	nsubj

@@ -1,0 +1,7 @@
+root	ROOT	Obama
+punct	Obama	,
+compound	Prepare	Romney
+appos	Obama	Prepare
+case	Debate	for
+compound	Debate	First
+nmod:for	Prepare	Debate

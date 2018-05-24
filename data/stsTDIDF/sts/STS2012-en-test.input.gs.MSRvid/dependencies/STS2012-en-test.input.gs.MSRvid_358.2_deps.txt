@@ -1,0 +1,9 @@
+det	man	A
+nsubj	butter	man
+cop	butter	is
+amod	butter	melting
+root	ROOT	butter
+case	pan	in
+det	pan	a
+nmod:in	butter	pan
+punct	butter	.

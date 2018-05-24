@@ -1,0 +1,7 @@
+root	ROOT	Battle
+case	Firewall	behind
+nmod:poss	Firewall	China
+case	China	's
+punct	Firewall	`
+nmod:behind	Battle	Firewall
+punct	Battle	'

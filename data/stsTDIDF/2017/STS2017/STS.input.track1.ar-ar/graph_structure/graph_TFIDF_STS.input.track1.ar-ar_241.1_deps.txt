@@ -1,0 +1,4 @@
+ROOT	Full	root
+Full	.	punct
+Full	children	nmod:of
+children	school	compound

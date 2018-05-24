@@ -1,0 +1,10 @@
+det	man	A
+nsubj	taking	man
+aux	taking	is
+root	ROOT	taking
+dobj	taking	pictures
+case	festival	at
+det	festival	a
+compound	festival	dance
+nmod:at	taking	festival
+punct	taking	.

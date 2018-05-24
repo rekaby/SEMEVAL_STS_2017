@@ -1,0 +1,8 @@
+root	ROOT	become
+xcomp	become	engaged
+cc	engaged	or
+conj:or	engaged	intermeshed
+case	one	with
+nmod:with	engaged	one
+dep	one	another
+punct	become	.

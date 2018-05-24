@@ -1,0 +1,7 @@
+root	ROOT	100
+acl	100	killed
+case	clashes	in
+amod	clashes	new
+compound	clashes	Darfur
+amod	clashes	tribal
+nmod:in	killed	clashes

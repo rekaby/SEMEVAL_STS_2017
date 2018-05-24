@@ -1,0 +1,13 @@
+amod	nationals	indian
+nsubj	constitute	nationals
+root	ROOT	constitute
+det	number	the
+amod	number	largest
+dobj	constitute	number
+case	inmates	of
+amod	inmates	foreign
+nmod:of	number	inmates
+case	prisons	in
+amod	prisons	nepal
+nmod:in	number	prisons
+punct	constitute	.

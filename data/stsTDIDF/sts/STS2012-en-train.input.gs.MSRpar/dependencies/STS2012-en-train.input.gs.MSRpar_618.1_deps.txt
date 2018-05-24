@@ -1,0 +1,16 @@
+nsubj	vocal	Ballmer
+aux	vocal	has
+cop	vocal	been
+root	ROOT	vocal
+case	warning	in
+det	warning	the
+amod	warning	past
+nmod:in	vocal	warning
+dobj	threat	that
+nsubj	threat	Linux
+cop	threat	is
+det	threat	a
+acl:relcl	warning	threat
+case	Microsoft	to
+nmod:to	threat	Microsoft
+punct	vocal	.

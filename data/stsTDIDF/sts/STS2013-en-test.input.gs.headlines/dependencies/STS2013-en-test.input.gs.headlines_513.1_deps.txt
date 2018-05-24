@@ -1,0 +1,6 @@
+nsubj	casts	Putin
+root	ROOT	casts
+dobj	casts	ballot
+case	vote	as
+compound	vote	Russians
+nmod:as	casts	vote

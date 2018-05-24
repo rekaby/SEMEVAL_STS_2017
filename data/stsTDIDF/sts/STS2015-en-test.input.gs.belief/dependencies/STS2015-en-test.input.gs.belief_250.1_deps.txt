@@ -1,0 +1,9 @@
+nsubj	gave	they
+root	ROOT	gave
+compound	street	wall
+dobj	gave	street
+det:predet	cash	all
+det	cash	that
+compound	cash	taxpayer
+dobj	gave	cash
+punct	gave	.

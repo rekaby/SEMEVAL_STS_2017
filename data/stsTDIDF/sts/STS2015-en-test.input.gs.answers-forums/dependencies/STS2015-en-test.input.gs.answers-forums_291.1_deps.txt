@@ -1,0 +1,17 @@
+advmod	release	Here
+cop	release	is
+det	release	the
+nummod	release	2006
+compound	release	cover
+root	ROOT	release
+punct	release	,
+compound	B	choice
+nsubj	version	B
+case	question	in
+nmod:poss	question	your
+nmod:in	B	question
+cop	version	is
+det	version	the
+nummod	version	2006
+acl:relcl	release	version
+punct	release	.

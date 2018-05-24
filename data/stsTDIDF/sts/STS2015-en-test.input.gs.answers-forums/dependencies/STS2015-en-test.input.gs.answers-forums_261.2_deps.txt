@@ -1,0 +1,12 @@
+nsubj	happy	I
+aux	happy	've
+cop	happy	been
+root	ROOT	happy
+case	Roomba	with
+det	Roomba	the
+compound	Roomba	iRobot
+nmod:with	happy	Roomba
+case	cleaning	for
+compound	cleaning	floor
+nmod:for	Roomba	cleaning
+punct	happy	.

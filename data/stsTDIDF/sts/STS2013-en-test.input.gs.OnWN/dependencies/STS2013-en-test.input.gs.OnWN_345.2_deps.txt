@@ -1,0 +1,11 @@
+det	currency	the
+amod	currency	official
+root	ROOT	currency
+acl	currency	issued
+case	government	by
+det	government	a
+nmod:by	issued	government
+cc	government	or
+amod	bank	national
+conj:or	government	bank
+punct	currency	.

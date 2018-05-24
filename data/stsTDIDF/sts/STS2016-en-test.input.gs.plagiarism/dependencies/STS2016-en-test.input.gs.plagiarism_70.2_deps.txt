@@ -1,0 +1,13 @@
+root	ROOT	Dangling
+punct	Dangling	,
+appos	Dangling	links
+case	page	to
+det	page	a
+nmod:to	links	page
+nsubj	has	which
+acl:relcl	page	has
+neg	links	no
+dobj	has	links
+case	others	to
+nmod:to	links	others
+punct	Dangling	.

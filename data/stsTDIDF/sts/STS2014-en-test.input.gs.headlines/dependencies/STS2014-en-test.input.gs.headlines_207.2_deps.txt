@@ -1,0 +1,7 @@
+compound	protesters	Thai
+nsubj	block	protesters
+root	ROOT	block
+compound	stations	polling
+dobj	block	stations
+case	Bangkok	in
+nmod:in	block	Bangkok

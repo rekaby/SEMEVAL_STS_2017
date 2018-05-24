@@ -1,0 +1,7 @@
+nsubj	faces	BBC
+root	ROOT	faces
+dobj	faces	questions
+mark	pulling	for
+acl	questions	pulling
+compound	case	Savile
+dobj	pulling	case

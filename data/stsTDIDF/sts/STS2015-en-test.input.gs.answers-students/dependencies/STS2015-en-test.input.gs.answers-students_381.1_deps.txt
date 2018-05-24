@@ -1,0 +1,8 @@
+mark	has	Because
+nsubj	has	it
+root	ROOT	has
+dobj	has	one
+case	circuit	regardless
+mwe	regardless	of
+det	circuit	the
+nmod:regardless_of	one	circuit

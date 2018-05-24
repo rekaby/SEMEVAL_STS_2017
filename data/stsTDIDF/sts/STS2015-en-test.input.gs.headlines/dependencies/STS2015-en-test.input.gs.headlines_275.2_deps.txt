@@ -1,0 +1,13 @@
+nmod:poss	quest	Iran
+case	Iran	's
+amod	quest	nuclear
+nsubj	cost	quest
+punct	cost	`
+aux	cost	has
+root	ROOT	cost
+dobj	cost	Tehran
+case	$	over
+nmod:over	cost	$
+compound	billion	100
+nummod	$	billion
+punct	cost	'

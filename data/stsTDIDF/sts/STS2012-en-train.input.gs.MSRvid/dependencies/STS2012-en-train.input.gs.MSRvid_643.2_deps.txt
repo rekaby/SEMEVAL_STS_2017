@@ -1,0 +1,6 @@
+det	car	A
+nsubj	taking	car
+aux	taking	is
+root	ROOT	taking
+dobj	taking	reverse
+punct	taking	.

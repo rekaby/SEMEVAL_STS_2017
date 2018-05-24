@@ -1,0 +1,9 @@
+nummod	boys	Two
+amod	boys	little
+nsubj	playing	boys
+aux	playing	are
+root	ROOT	playing
+case	playground	on
+det	playground	a
+nmod:on	playing	playground
+punct	playing	.

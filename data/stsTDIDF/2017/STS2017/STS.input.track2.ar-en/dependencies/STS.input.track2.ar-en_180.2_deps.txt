@@ -1,0 +1,8 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	dressed
+case	walk	in
+det	walk	a
+amod	walk	colorful
+nmod:in	dressed	walk
+punct	woman	.

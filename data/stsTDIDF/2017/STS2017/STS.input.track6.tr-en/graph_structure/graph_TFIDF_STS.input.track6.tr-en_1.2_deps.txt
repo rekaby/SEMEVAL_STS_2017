@@ -1,0 +1,11 @@
+ball	mouth	nmod:in
+walking	,	punct
+walking	mud	nmod:in
+dogs	black	amod
+mud	in	case
+walking	ball	nmod:with
+mud	the	det
+mouth	someone	nmod:poss
+walking	dogs	nsubj
+ball	with	case
+dogs	Two	nummod

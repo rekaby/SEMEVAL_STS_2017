@@ -1,0 +1,9 @@
+compound	Cale	John
+root	ROOT	Cale
+case	Paris	in
+nmod:in	Cale	Paris
+cc	Cale	and
+case	Borderline	Along
+det	Borderline	the
+conj:and	Cale	Borderline
+punct	Cale	.-9) root(ROOT-0, #music

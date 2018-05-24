@@ -1,0 +1,10 @@
+sitting	sofa	nmod:on
+enjoying	connoved	dobj
+connoved	a	det
+connoved	sitting	acl
+sofa	on	case
+ROOT	enjoying	root
+enjoying	.	punct
+enjoying	is	aux
+enjoying	couple	nsubj
+sofa	a	det

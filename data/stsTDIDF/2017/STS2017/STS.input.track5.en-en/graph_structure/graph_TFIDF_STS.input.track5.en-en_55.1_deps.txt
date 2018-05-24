@@ -1,0 +1,11 @@
+demonstrating	man	nsubj
+ROOT	demonstrating	root
+clay	with	case
+demonstrating	.	punct
+work	how	advmod
+demonstrating	is	aux
+work	clay	nmod:with
+demonstrating	work	ccomp
+observe	while	mark
+observe	people	nsubj
+work	observe	advcl

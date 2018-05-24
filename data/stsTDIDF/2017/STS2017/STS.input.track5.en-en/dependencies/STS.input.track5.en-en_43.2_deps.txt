@@ -1,0 +1,10 @@
+det	crew	A
+root	ROOT	crew
+case	workers	of
+nmod:of	crew	workers
+acl	crew	working
+case	track	on
+det	track	a
+compound	track	railroad
+nmod:on	working	track
+punct	crew	.

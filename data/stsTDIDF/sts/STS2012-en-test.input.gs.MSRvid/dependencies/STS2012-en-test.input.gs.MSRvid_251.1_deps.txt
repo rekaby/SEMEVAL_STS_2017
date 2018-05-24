@@ -1,0 +1,8 @@
+nsubj	transport	Medics
+root	ROOT	transport
+det	patient	a
+dobj	transport	patient
+case	stretcher	on
+det	stretcher	a
+nmod:on	transport	stretcher
+punct	transport	.

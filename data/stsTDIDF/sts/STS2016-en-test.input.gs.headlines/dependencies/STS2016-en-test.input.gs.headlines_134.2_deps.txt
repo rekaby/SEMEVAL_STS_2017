@@ -1,0 +1,8 @@
+compound	eye	US
+compound	eye	House
+compound	eye	Republicans
+root	ROOT	eye
+amod	Ryan	reluctant
+appos	eye	Ryan
+case	speaker	for
+nmod:for	Ryan	speaker

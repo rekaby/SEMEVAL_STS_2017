@@ -1,0 +1,11 @@
+nummod	children	Two
+amod	children	male
+nsubj	leaves	children
+acl	children	cleaning
+compound:prt	cleaning	up
+root	ROOT	leaves
+case	lot	in
+det	lot	a
+compound	lot	parking
+nmod:in	leaves	lot
+punct	leaves	.

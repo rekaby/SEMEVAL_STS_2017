@@ -1,0 +1,10 @@
+det	band	A
+nsubj	playing	band
+aux	playing	is
+root	ROOT	playing
+cc	playing	and
+conj:and	playing	singing
+case	stage	on
+det	stage	a
+nmod:on	singing	stage
+punct	playing	.

@@ -1,0 +1,5 @@
+compound	stocks	China
+nsubj	mixed	stocks
+amod	mixed	close
+root	ROOT	mixed
+nmod:tmod	mixed	Friday

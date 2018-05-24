@@ -1,0 +1,26 @@
+compound	Abby	Dear
+dep	already	Abby
+punct	miss	,
+nsubj	miss	we
+dep	already	miss
+nsubj	already	you
+root	ROOT	already
+punct	already	.-8) advmod(fortunate-2, How
+dep	are	fortunate
+nsubj	are	you
+root	ROOT	are
+mark	have	to
+xcomp	are	have
+compound	Fox	Margalit
+nsubj	write	Fox
+ccomp	have	write
+nmod:poss	obit	your
+dobj	write	obit
+punct	are	!-12) punct(Dies-5, ``
+compound	Abby	Dear
+nsubj	Dies	Abby
+punct	Dies	,
+root	ROOT	Dies
+case	94	at
+nmod:at	Dies	94
+punct	Dies	''

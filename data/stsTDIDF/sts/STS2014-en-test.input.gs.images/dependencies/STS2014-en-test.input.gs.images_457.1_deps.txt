@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	cutting	woman
+acl	woman	wearing
+det	dress	a
+compound	dress	navy
+dobj	wearing	dress
+aux	cutting	is
+root	ROOT	cutting
+det	cake	a
+dobj	cutting	cake
+case	table	on
+det	table	a
+amod	table	white
+nmod:on	cutting	table
+punct	cutting	.

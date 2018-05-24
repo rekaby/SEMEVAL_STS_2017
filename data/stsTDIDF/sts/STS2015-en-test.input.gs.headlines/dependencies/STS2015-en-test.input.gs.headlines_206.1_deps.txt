@@ -1,0 +1,8 @@
+root	ROOT	Crowds
+punct	Crowds	,
+compound	Gather	Dignitaries
+appos	Crowds	Gather
+case	Service	for
+compound	Service	Mandela
+compound	Service	Memorial
+nmod:for	Gather	Service

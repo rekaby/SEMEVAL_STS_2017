@@ -1,0 +1,8 @@
+root	ROOT	protect
+mark	shield	with
+cc	with	or
+conj:or	with	as
+case	shield	if
+case	shield	with
+det	shield	a
+nmod:with	protect	shield

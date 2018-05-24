@@ -1,0 +1,8 @@
+nsubj	confirmed	Deaths
+root	ROOT	confirmed
+case	crashes	after
+compound	crashes	helicopter
+nmod:after	confirmed	crashes
+case	pub	into
+amod	pub	Scottish
+nmod:into	crashes	pub

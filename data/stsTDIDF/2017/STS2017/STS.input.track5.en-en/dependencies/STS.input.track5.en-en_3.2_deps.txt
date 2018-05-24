@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	working	woman
+aux	working	is
+root	ROOT	working
+case	nurse	as
+det	nurse	a
+nmod:as	working	nurse
+punct	working	.

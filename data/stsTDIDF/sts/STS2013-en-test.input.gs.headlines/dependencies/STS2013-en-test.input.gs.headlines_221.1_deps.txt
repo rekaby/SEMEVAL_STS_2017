@@ -1,0 +1,8 @@
+amod	president	Egyptian
+nsubj	moves	president
+root	ROOT	moves
+case	office	into
+nmod:poss	office	Mubarak
+case	Mubarak	's
+amod	office	old
+nmod:into	moves	office

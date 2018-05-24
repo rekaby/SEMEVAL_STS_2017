@@ -1,0 +1,11 @@
+det	digging	A
+amod	digging	brown
+compound	digging	dog
+nsubj	hole	digging
+det	hole	a
+root	ROOT	hole
+case	plant	in
+mwe	in	front
+mwe	in	of
+det	plant	a
+nmod:in_front_of	hole	plant

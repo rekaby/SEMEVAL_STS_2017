@@ -1,0 +1,7 @@
+root	ROOT	Imran
+mark	contest	to
+acl	Imran	contest
+case	seats	from
+nummod	seats	four
+compound	seats	NA
+nmod:from	contest	seats

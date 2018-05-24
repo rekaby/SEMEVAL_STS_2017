@@ -1,0 +1,12 @@
+museums	in	case
+aircraft	their	nmod:poss
+museums	.	punct
+museums	has	advcl
+vehicles	current	amod
+museums	vehicles	nsubj
+aircraft	own	amod
+vehicles	Our	nmod:poss
+ROOT	museums	root
+has	aircraft	dobj
+museums	be	cop
+museums	will	aux

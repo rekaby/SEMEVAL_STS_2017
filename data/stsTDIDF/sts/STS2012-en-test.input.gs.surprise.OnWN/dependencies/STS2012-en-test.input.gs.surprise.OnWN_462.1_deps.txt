@@ -1,0 +1,7 @@
+root	ROOT	ride
+punct	bicycle	-LRB-
+det	bicycle	a
+appos	ride	bicycle
+cc	bicycle	or
+conj:or	bicycle	motorcycle
+punct	bicycle	-RRB-

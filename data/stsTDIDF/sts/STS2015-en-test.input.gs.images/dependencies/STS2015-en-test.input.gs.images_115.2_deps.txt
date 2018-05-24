@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+amod	girl	blonde
+nsubj	sitting	girl
+aux	sitting	is
+root	ROOT	sitting
+case	chair	on
+det	chair	a
+amod	chair	green
+nmod:on	sitting	chair
+punct	sitting	.

@@ -1,0 +1,10 @@
+nummod	blasts	Two
+nsubj	killed	blasts
+case	embassy	near
+amod	embassy	Iranian
+nmod:near	blasts	embassy
+case	Beirut	in
+nmod:in	blasts	Beirut
+punct	blasts	,
+dep	blasts	7
+root	ROOT	killed

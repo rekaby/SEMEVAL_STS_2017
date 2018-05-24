@@ -1,0 +1,11 @@
+det	brushes	A
+amod	brushes	young
+compound	brushes	boy
+root	ROOT	brushes
+det	teeth	the
+dobj	brushes	teeth
+case	alligator	of
+det	alligator	a
+amod	alligator	fake
+nmod:of	teeth	alligator
+punct	brushes	.

@@ -1,0 +1,8 @@
+root	ROOT	Agribusiness
+punct	Agribusiness	:
+amod	disease	Mad
+compound	disease	cow
+dep	Agribusiness	disease
+acl	disease	found
+case	California	in
+nmod:in	found	California

@@ -1,0 +1,6 @@
+det	dog	A
+amod	dog	brown
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+punct	jumping	.

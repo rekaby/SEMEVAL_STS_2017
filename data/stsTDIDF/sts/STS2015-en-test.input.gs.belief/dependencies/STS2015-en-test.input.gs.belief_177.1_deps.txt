@@ -1,0 +1,13 @@
+cc	think	and
+nsubj	think	i
+root	ROOT	think
+advmod	americans	most
+nsubj	seeing	americans
+aux	seeing	are
+advmod	seeing	now
+ccomp	think	seeing
+nsubj	way	them
+det	way	that
+ccomp	seeing	way
+advmod	way	too
+punct	think	.

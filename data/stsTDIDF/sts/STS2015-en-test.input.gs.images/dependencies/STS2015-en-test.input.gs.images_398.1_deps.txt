@@ -1,0 +1,6 @@
+det	man	A
+nsubj	climbing	man
+root	ROOT	climbing
+det	rock-face	a
+dobj	climbing	rock-face
+punct	climbing	.

@@ -1,0 +1,8 @@
+expl	's	There
+root	ROOT	's
+det	dog	a
+amod	dog	black
+nsubj	spraying	dog
+ccomp	's	spraying
+dobj	spraying	water
+punct	's	.

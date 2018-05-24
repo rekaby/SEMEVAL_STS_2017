@@ -1,0 +1,13 @@
+det	boy	a
+nsubj	runs	boy
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	boy	shirt
+cc	shirt	and
+amod	jeans	blue
+conj:and	shirt	jeans
+root	ROOT	runs
+case	playground	across
+det	playground	a
+nmod:across	runs	playground

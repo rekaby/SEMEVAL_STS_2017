@@ -1,0 +1,16 @@
+compound	bulls	Bond
+nsubj	like	bulls
+aux	like	would
+root	ROOT	like
+det	Fed	the
+dobj	like	Fed
+mark	recognize	to
+xcomp	like	recognize
+mark	biased	that
+nsubjpass	biased	risks
+auxpass	biased	are
+ccomp	recognize	biased
+case	weakness	toward
+amod	weakness	economic
+nmod:toward	biased	weakness
+punct	like	.

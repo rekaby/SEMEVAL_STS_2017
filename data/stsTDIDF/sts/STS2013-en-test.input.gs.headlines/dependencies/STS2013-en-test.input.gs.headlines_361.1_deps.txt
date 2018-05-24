@@ -1,0 +1,7 @@
+nsubj	blasts	Repsol
+root	ROOT	blasts
+dobj	blasts	Argentina
+case	nationalization	over
+nmod:over	blasts	nationalization
+case	YPF	of
+nmod:of	nationalization	YPF

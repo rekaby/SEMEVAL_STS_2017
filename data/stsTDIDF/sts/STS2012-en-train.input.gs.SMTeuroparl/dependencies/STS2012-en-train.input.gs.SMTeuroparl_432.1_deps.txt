@@ -1,0 +1,13 @@
+nsubjpass	accepted	Knowledge
+case	languages	of
+amod	languages	foreign
+nmod:of	Knowledge	languages
+auxpass	accepted	is
+root	ROOT	accepted
+case	precursor	as
+det	precursor	a
+amod	precursor	necessary
+nmod:as	accepted	precursor
+case	mobility	to
+nmod:to	precursor	mobility
+punct	accepted	.

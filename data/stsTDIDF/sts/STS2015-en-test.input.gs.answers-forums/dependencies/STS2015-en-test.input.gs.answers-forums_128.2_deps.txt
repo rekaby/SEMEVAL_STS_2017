@@ -1,0 +1,12 @@
+expl	was	There
+root	ROOT	was
+neg	influence	no
+nsubj	was	influence
+case	China	from
+nmod:from	influence	China
+case	culture	to
+det	culture	the
+nmod:to	influence	culture
+case	Greece	of
+nmod:of	culture	Greece
+punct	was	.

@@ -1,0 +1,6 @@
+wedding	about	case
+girl	This	det
+excited	wedding	nmod:about
+wedding	the	det
+excited	is	auxpass
+excited	girl	nsubjpass

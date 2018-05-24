@@ -1,0 +1,15 @@
+det	boy	The
+nsubj	doing	boy
+aux	doing	is
+root	ROOT	doing
+det	stunt	a
+dobj	doing	stunt
+punct	doing	,
+case	air	through
+det	air	the
+nmod:through	doing	air
+punct	doing	,
+case	bicycle	on
+nmod:poss	bicycle	his
+nmod:on	doing	bicycle
+punct	doing	.

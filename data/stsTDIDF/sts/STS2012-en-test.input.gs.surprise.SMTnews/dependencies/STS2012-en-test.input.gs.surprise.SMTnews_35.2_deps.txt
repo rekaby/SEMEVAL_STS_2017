@@ -1,0 +1,12 @@
+cc	process	And
+det	mistake	this
+compound	mistake	mistake
+nsubj	process	mistake
+cop	process	is
+case	process	in
+det	process	the
+root	ROOT	process
+case	political	of
+nmod:poss	political	its
+nmod:of	process	political
+punct	process	.

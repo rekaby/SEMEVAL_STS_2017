@@ -1,0 +1,8 @@
+det	man	A
+nsubj	working	man
+aux	working	is
+root	ROOT	working
+case	farm	on
+nmod:poss	farm	his
+nmod:on	working	farm
+punct	working	.

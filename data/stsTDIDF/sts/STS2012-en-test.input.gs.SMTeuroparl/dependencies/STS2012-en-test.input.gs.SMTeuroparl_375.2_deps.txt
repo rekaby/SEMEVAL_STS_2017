@@ -1,0 +1,15 @@
+det	profit	The
+compound	profit	leaders
+root	ROOT	profit
+nmod:tmod	profit	today
+case	chance	from
+det	chance	a
+amod	chance	new
+nmod:from	profit	chance
+cc	profit	and
+advmod	let	thus
+conj:and	profit	let
+nsubj	seize	them
+ccomp	let	seize
+dobj	seize	it
+punct	profit	.

@@ -1,0 +1,8 @@
+compound	app	Apple
+nsubj	directs	app
+root	ROOT	directs
+dobj	directs	drivers
+case	airport	to
+compound	airport	Alaska
+nmod:to	directs	airport
+nmod:tmod	directs	runway

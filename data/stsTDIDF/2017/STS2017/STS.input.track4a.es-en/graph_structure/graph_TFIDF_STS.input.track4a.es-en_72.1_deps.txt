@@ -1,0 +1,6 @@
+weapons	priest	nmod:in
+priest	a	det
+priest	in	case
+nun	A	det
+looks	nun	nsubj
+looks	weapons	nmod:for

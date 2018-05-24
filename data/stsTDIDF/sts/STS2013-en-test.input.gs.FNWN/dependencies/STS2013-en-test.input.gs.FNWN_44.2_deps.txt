@@ -1,0 +1,15 @@
+punct	physiology	-LRB-
+root	ROOT	physiology
+punct	physiology	-RRB-
+dep	physiology	regulation
+cc	regulation	or
+conj:or	regulation	maintenance
+case	function	of
+det	function	a
+nmod:of	regulation	function
+cc	function	or
+conj:or	function	action
+cc	function	or
+amod	etc	reflex
+conj:or	function	etc
+punct	physiology	;

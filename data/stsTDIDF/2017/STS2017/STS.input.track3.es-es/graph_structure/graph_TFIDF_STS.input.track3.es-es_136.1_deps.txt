@@ -1,0 +1,11 @@
+rock	a	det
+sticks	walking	amod
+standing	rock	nmod:on
+rock	creek	nmod:in
+girl	holding	acl
+creek	a	det
+rock	on	case
+creek	in	case
+sticks	two	nummod
+holding	sticks	dobj
+standing	girl	nsubj

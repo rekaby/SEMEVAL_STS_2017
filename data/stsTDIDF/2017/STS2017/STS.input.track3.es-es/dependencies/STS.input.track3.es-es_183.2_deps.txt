@@ -1,0 +1,8 @@
+amod	people	Several
+nsubj	queuing	people
+aux	queuing	are
+root	ROOT	queuing
+case	counter	at
+det	counter	a
+nmod:at	queuing	counter
+punct	queuing	.

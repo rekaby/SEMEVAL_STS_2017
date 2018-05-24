@@ -1,0 +1,8 @@
+amod	women	Saudi
+nsubj	drive	women
+root	ROOT	drive
+case	protest	in
+nmod:in	drive	protest
+case	problem	with
+amod	problem	little
+nmod:with	drive	problem

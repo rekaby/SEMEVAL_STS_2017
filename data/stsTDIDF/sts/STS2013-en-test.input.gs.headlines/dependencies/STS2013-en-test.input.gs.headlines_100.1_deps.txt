@@ -1,0 +1,16 @@
+root	ROOT	Iran
+punct	Republic	-LRB-
+compound	Republic	Islamic
+appos	Iran	Republic
+mark	steps	of
+punct	steps	-RRB-
+punct	steps	:
+nsubj	steps	Iran
+acl	Republic	steps
+compound:prt	steps	up
+compound	efforts	relief
+dobj	steps	efforts
+mark	kill	after
+nsubj	kill	quakes
+advcl	steps	kill
+dobj	kill	227

@@ -1,0 +1,14 @@
+case	May	Since
+amod	May	early
+nmod:since	received	May
+punct	received	,
+det	city	the
+nsubj	received	city
+aux	received	has
+ccomp	said	received
+nummod	reports	1,400
+dobj	received	reports
+punct	said	,
+nsubj	said	he
+root	ROOT	said
+punct	said	.

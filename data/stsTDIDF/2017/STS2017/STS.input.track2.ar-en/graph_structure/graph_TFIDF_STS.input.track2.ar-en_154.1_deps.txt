@@ -1,0 +1,6 @@
+dog	brown	amod
+collar	with	case
+collar	blue	amod
+dog	collar	nmod:with
+running	dog	nsubj
+collar	a	det

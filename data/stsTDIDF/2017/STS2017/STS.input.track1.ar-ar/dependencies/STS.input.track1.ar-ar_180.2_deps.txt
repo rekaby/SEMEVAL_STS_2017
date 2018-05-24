@@ -1,0 +1,11 @@
+nsubj	took	Dogs
+root	ROOT	took
+dobj	took	place
+case	field	in
+det	field	a
+nmod:in	took	field
+cc	took	and
+advmod	drove	then
+conj:and	took	drove
+xcomp	drove	monitored
+punct	took	.

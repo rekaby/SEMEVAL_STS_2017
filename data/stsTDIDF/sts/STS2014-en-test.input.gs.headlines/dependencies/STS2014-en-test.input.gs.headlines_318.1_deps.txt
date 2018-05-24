@@ -1,0 +1,7 @@
+amod	protesters	Anti-government
+nsubj	storm	protesters
+root	ROOT	storm
+det	streets	the
+dobj	storm	streets
+case	Kyiv	of
+nmod:of	streets	Kyiv

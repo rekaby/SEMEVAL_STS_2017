@@ -1,0 +1,8 @@
+det	man	A
+nsubj	sleeping	man
+aux	sleeping	is
+root	ROOT	sleeping
+case	flags	between
+nummod	flags	two
+nmod:between	sleeping	flags
+punct	sleeping	.

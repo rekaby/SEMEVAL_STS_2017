@@ -1,0 +1,13 @@
+det	pipeline	The
+amod	pipeline	1,700-mile
+nsubj	expand	pipeline
+aux	expand	would
+root	ROOT	expand
+case	Canada	from
+nmod:from	expand	Canada
+case	Gulf	to
+det	Gulf	the
+nmod:to	expand	Gulf
+case	Mexico	of
+nmod:of	Gulf	Mexico
+punct	expand	.

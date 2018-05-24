@@ -1,0 +1,8 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	anxious	to
+punct	anxious	-RRB-
+cop	anxious	be
+xcomp	cause	anxious
+cc	cause	or
+conj:or	cause	preoccupied

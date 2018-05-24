@@ -1,0 +1,11 @@
+amod	luck	good
+root	ROOT	luck
+amod	security	social
+nsubj	has	security
+acl:relcl	luck	has
+dobj	has	nothing
+mark	do	to
+acl	nothing	do
+case	marriage	with
+nmod:with	do	marriage
+punct	luck	.

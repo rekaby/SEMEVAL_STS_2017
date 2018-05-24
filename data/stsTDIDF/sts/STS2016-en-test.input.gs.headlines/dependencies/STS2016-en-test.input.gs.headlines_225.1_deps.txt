@@ -1,0 +1,8 @@
+nsubj	bars	Israel
+root	ROOT	bars
+dobj	bars	Palestinians
+case	City	from
+nmod:poss	City	Jerusalem
+case	Jerusalem	's
+compound	City	Old
+nmod:from	bars	City

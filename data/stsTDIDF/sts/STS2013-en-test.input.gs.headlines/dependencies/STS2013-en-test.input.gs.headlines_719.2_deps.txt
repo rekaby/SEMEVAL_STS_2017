@@ -1,0 +1,8 @@
+compound	soldier	US
+nsubj	accused	soldier
+root	ROOT	accused
+mark	killing	of
+advcl	accused	killing
+compound	civilians	Afghan
+dobj	killing	civilians
+dobj	accused	identified

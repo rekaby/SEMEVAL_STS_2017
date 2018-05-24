@@ -1,0 +1,11 @@
+det	group	A
+nsubj	playing	group
+case	boys	of
+nmod:of	group	boys
+aux	playing	are
+root	ROOT	playing
+dobj	playing	soccer
+case	beach	on
+det	beach	the
+nmod:on	playing	beach
+punct	playing	.

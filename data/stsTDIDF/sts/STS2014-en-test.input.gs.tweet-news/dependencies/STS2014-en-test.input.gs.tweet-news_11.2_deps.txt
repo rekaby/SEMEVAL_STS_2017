@@ -1,0 +1,10 @@
+compound	Gallinari	Prospero
+nsubj	Dead	Gallinari
+punct	Gallinari	,
+det	Terrorist	a
+appos	Gallinari	Terrorist
+punct	Gallinari	,
+cop	Dead	Is
+root	ROOT	Dead
+case	62	at
+nmod:at	Dead	62

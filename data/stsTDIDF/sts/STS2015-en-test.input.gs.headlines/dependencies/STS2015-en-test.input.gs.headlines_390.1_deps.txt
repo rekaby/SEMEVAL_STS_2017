@@ -1,0 +1,10 @@
+dep	explosions	Updated
+punct	explosions	-
+nummod	explosions	Two
+root	ROOT	explosions
+case	line	near
+compound	line	finish
+nmod:near	explosions	line
+case	Marathon	of
+compound	Marathon	Boston
+nmod:of	line	Marathon

@@ -1,0 +1,16 @@
+root	ROOT	Reproduce
+cc	Reproduce	or
+conj:or	Reproduce	make
+det	copy	an
+amod	copy	exact
+dobj	make	copy
+acl	copy	of
+punct	Reproduce	;
+dep	Reproduce	make
+punct	make	,
+conj:or	make	do
+punct	make	,
+cc	make	or
+conj:or	make	perform
+advmod	perform	again
+punct	Reproduce	.

@@ -1,0 +1,6 @@
+det	concern	an
+amod	concern	onerous
+cc	onerous	or
+conj:or	onerous	difficult
+root	ROOT	concern
+punct	concern	.

@@ -1,0 +1,12 @@
+nsubj	helps	it
+root	ROOT	helps
+mark	find	because
+nsubj	find	you
+advcl	helps	find
+det	gap	the
+dobj	find	gap
+advmod	disconnected	where
+det	terminals	the
+nsubjpass	disconnected	terminals
+auxpass	disconnected	are
+acl:relcl	gap	disconnected

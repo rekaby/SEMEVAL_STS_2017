@@ -1,0 +1,14 @@
+cc	trap	But
+case	point	from
+det	point	the
+nmod:from	trap	point
+case	view	of
+nmod:of	point	view
+case	role	of
+det	role	the
+amod	role	international
+nmod:of	view	role
+cop	trap	was
+det	trap	a
+root	ROOT	trap
+punct	trap	.

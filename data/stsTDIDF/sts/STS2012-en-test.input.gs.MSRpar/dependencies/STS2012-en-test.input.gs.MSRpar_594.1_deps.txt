@@ -1,0 +1,15 @@
+compound	Gagne	Eric
+nsubj	pitched	Gagne
+root	ROOT	pitched
+det	ninth	a
+amod	ninth	perfect
+dobj	pitched	ninth
+case	23rd	for
+nmod:poss	23rd	his
+nmod:for	ninth	23rd
+dep	ninth	save
+case	opportunities	in
+advmod	opportunities	as
+amod	opportunities	many
+nmod:in	save	opportunities
+punct	pitched	.

@@ -1,0 +1,16 @@
+det	child	A
+amod	child	tiny
+amod	child	blonde
+nsubj	sits	child
+case	dress	in
+det	dress	a
+amod	dress	blue
+nmod:in	child	dress
+root	ROOT	sits
+case	table	on
+det	table	a
+nmod:on	sits	table
+case	mother	near
+nmod:poss	mother	her
+nmod:near	table	mother
+punct	sits	.

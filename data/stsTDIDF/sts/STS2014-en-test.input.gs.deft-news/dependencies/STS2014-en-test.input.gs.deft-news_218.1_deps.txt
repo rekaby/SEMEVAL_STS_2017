@@ -1,0 +1,14 @@
+compound	attacks	cyber
+nsubjpass	considered	attacks
+auxpass	considered	are
+root	ROOT	considered
+det	threat	a
+amod	threat	growing
+dobj	considered	threat
+case	networks	to
+amod	networks	military
+cc	military	and
+conj:and	military	civilian
+compound	networks	computer
+nmod:to	threat	networks
+punct	considered	.

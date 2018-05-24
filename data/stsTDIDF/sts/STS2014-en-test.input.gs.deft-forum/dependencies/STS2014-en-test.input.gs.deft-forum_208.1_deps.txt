@@ -1,0 +1,9 @@
+det	study	The
+amod	study	new
+nsubj	support	study
+aux	support	does
+neg	support	not
+root	ROOT	support
+nmod:poss	claim	your
+dobj	support	claim
+punct	support	.

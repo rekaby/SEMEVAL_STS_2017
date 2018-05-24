@@ -1,0 +1,6 @@
+det	price	The
+root	ROOT	price
+det	fashion	the
+advmod	prestigious	most
+amod	fashion	prestigious
+dep	price	fashion

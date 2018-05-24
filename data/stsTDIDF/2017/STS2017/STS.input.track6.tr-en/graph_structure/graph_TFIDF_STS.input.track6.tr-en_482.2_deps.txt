@@ -1,0 +1,9 @@
+guys	play	conj:and
+play	both	nsubj
+guys	two	nummod
+play	outside	advmod
+photo	this	det
+guys	and	cc
+photo	in	case
+guys	photo	nmod:in
+are	guys	nsubj

@@ -1,0 +1,12 @@
+case	Criminals	On
+compound	Criminals	War
+root	ROOT	Criminals
+cc	Criminals	and
+conj:and	Criminals	Heroes
+punct	Criminals	:
+det	Whitewashing	The
+dep	Criminals	Whitewashing
+case	ŔÄ	of
+compound	ŔÄ	Ariel
+compound	ŔÄ	Sharon
+nmod:of	Whitewashing	ŔÄ

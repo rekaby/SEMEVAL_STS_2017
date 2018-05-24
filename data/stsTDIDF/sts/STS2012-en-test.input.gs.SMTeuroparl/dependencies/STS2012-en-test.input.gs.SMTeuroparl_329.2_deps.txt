@@ -1,0 +1,16 @@
+nsubj	exist	It
+aux	exist	did
+neg	exist	not
+root	ROOT	exist
+det	majority	either
+amod	majority	qualified
+dobj	exist	majority
+case	Parliament	in
+det	Parliament	this
+nmod:in	majority	Parliament
+mark	return	to
+xcomp	exist	return
+case	article	to
+nmod:to	return	article
+nummod	article	272
+punct	exist	.

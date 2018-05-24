@@ -1,0 +1,13 @@
+case	that	Above
+nmod:above	pay	that
+punct	pay	,
+nsubj	pay	Medicare
+aux	pay	would
+root	ROOT	pay
+nummod	percent	90
+dobj	pay	percent
+case	costs	of
+det	costs	all
+compound	costs	drug
+nmod:of	percent	costs
+punct	pay	.

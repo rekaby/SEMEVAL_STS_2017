@@ -1,0 +1,8 @@
+compound	Finney	Former
+compound	Finney	England
+amod	Finney	great
+compound	Finney	Tom
+nsubj	dies	Finney
+root	ROOT	dies
+case	91	at
+nmod:at	dies	91

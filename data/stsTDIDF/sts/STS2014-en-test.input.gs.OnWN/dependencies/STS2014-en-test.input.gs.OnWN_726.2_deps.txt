@@ -1,0 +1,9 @@
+root	ROOT	make
+det	mark	a
+dobj	make	mark
+cc	mark	or
+conj:or	mark	lines
+case	surface	on
+det	surface	a
+nmod:on	mark	surface
+punct	make	.

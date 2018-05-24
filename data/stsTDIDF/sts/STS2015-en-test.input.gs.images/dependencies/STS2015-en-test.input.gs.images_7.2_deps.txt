@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	swims	dog
+root	ROOT	swims
+case	pool	in
+det	pool	a
+compound	pool	backyard
+compound	pool	swimming
+nmod:in	swims	pool
+punct	swims	.

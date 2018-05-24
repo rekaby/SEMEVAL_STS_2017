@@ -1,0 +1,9 @@
+root	ROOT	maintain
+mark	bet	with
+cc	with	or
+conj:or	with	as
+advmod	bet	if
+case	bet	with
+det	bet	a
+advcl:with	maintain	bet
+punct	maintain	.

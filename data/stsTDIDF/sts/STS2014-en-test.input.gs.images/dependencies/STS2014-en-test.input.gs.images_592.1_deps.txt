@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+cc	woman	and
+compound	strollers	child
+compound	strollers	push
+conj:and	woman	strollers
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	woman	sidewalk
+punct	woman	.

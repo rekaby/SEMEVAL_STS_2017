@@ -1,0 +1,6 @@
+det	rationale	a
+root	ROOT	rationale
+cc	rationale	or
+conj:or	rationale	reason
+case	something	for
+nmod:for	reason	something

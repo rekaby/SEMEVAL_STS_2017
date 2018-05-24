@@ -1,0 +1,16 @@
+punct	Breaking	''
+punct	Breaking	:
+root	ROOT	Breaking
+punct	Breaking	:
+dep	Breaking	250
+acl	250	killed
+punct	250	,
+appos	250	200
+advmod	injured	more
+acl	200	injured
+case	inferno	in
+compound	inferno	Brazil
+compound	inferno	nightclub
+nmod:in	injured	inferno
+punct	Breaking	.
+punct	Breaking	''-16) root(ROOT-0, Crazy

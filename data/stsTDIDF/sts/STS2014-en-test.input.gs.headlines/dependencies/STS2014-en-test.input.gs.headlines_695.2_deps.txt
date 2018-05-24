@@ -1,0 +1,7 @@
+compound	Bopha	Typhoon
+nsubj	kills	Bopha
+root	ROOT	kills
+dobj	kills	15
+case	Philippines	in
+compound	Philippines	S.
+nmod:in	15	Philippines

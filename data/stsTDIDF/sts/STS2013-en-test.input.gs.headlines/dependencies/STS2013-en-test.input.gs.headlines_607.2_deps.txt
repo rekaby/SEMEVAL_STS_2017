@@ -1,0 +1,8 @@
+amod	assembly	Libyan
+nsubj	rejects	assembly
+root	ROOT	rejects
+amod	cabinet	new
+dobj	rejects	cabinet
+punct	rejects	,
+dep	rejects	dismisses
+dobj	dismisses	PM

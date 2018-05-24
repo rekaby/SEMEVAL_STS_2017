@@ -1,0 +1,16 @@
+det	men	These
+nsubjpass	entitled	men
+punct	entitled	``
+auxpass	entitled	are
+ccomp	said	entitled
+case	respect	to
+nmod:to	entitled	respect
+case	lives	for
+nmod:poss	lives	their
+amod	lives	private
+nmod:for	respect	lives
+punct	said	,
+punct	said	''
+nsubj	said	Kennedy
+root	ROOT	said
+punct	said	.

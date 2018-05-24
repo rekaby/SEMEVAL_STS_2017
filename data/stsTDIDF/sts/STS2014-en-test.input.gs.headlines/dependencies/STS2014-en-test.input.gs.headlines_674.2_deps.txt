@@ -1,0 +1,6 @@
+amod	agreement	US-Russia
+compound	agreement	reach
+nsubj	weapons	agreement
+case	Syria	on
+nmod:on	agreement	Syria
+root	ROOT	weapons

@@ -1,0 +1,12 @@
+det	women	A
+nsubj	holds	women
+root	ROOT	holds
+det	baby	a
+amod	baby	small
+dobj	holds	baby
+mark	sitting	while
+advcl	holds	sitting
+case	sofa	on
+det	sofa	a
+nmod:on	sitting	sofa
+punct	holds	.

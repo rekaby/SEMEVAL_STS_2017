@@ -1,0 +1,8 @@
+root	ROOT	Ton
+compound:prt	Ton	up
+punct	Ton	:
+nsubj	reaches	Tendulkar
+dep	Ton	reaches
+amod	hundred	100th
+amod	hundred	international
+dobj	reaches	hundred

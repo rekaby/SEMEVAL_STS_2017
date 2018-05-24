@@ -1,0 +1,10 @@
+det	swan	A
+amod	swan	black
+nsubj	flapping	swan
+root	ROOT	flapping
+nmod:poss	wings	its
+dobj	flapping	wings
+case	water	on
+det	water	the
+nmod:on	flapping	water
+punct	flapping	.

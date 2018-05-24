@@ -1,0 +1,7 @@
+det	people	Some
+nsubj	waving	people
+aux	waving	do
+neg	waving	not
+root	ROOT	waving
+dobj	waving	flags
+punct	waving	.

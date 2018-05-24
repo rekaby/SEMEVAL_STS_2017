@@ -1,0 +1,11 @@
+det	man	A
+nsubj	cleaning	man
+aux	cleaning	is
+root	ROOT	cleaning
+det	fish	a
+dobj	cleaning	fish
+case	counter	on
+det	counter	a
+compound	counter	kitchen
+nmod:on	cleaning	counter
+punct	cleaning	.

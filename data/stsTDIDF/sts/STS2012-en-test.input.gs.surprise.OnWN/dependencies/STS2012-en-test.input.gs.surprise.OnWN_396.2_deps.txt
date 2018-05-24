@@ -1,0 +1,8 @@
+root	ROOT	emit
+det	steady	a
+dobj	emit	steady
+advmod	light	even
+nmod	steady	light
+case	flames	without
+nmod:without	light	flames
+punct	emit	.

@@ -1,0 +1,10 @@
+det	deal	the
+nsubj	process	deal
+aux	process	has
+cop	process	been
+case	process	in
+root	ROOT	process
+case	years	for
+amod	years	several
+nmod:for	process	years
+punct	process	.

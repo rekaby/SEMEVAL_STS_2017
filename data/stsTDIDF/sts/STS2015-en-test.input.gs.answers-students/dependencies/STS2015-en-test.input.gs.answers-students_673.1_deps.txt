@@ -1,0 +1,11 @@
+mark	affect	because
+det	outcome	the
+nsubj	affect	outcome
+case	bulb	of
+det	bulb	the
+nmod:of	outcome	bulb
+aux	affect	will
+neg	affect	not
+root	ROOT	affect
+det	other	each
+dobj	affect	other

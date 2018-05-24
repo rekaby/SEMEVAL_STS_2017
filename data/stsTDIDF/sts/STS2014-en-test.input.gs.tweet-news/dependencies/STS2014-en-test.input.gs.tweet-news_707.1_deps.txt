@@ -1,0 +1,28 @@
+compound	version	3D
+root	ROOT	version
+acl	version	of
+punct	version	?-4) amod(Gun-2, Top
+root	ROOT	Gun
+punct	Gun	?-3) auxpass(rejected-2, was
+root	ROOT	rejected
+case	censors	by
+nmod:poss	censors	#China
+case	#China	's
+nmod:agent	rejected	censors
+punct	rejected	.-7) det(line-2, The
+root	ROOT	line
+punct	darkness	``
+nsubj	darkness	religion
+cop	darkness	is
+dep	line	darkness
+punct	darkness	'
+case	Life	in
+punct	Life	``
+nmod:in	darkness	Life
+case	Pi	of
+nmod:of	Life	Pi
+punct	Life	''
+dep	Life	gt
+det	X	the
+dobj	gt	X
+advmod	line	too

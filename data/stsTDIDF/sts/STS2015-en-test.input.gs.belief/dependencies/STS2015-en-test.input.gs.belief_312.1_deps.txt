@@ -1,0 +1,16 @@
+amod	weapons	conventional
+nsubj	able	weapons
+aux	able	may
+neg	able	not
+advmod	able	even
+cop	able	be
+root	ROOT	able
+mark	hit	to
+xcomp	able	hit
+dobj	hit	some
+case	facilities	of
+det	facilities	the
+amod	facilities	fortified
+nmod:of	some	facilities
+advmod	hit	either
+punct	able	.

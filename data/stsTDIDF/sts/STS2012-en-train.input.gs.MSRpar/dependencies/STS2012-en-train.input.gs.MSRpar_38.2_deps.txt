@@ -1,0 +1,15 @@
+nsubj	pitched	Zambrano
+root	ROOT	pitched
+nummod	innings	seven
+dobj	pitched	innings
+cc	pitched	and
+conj:and	pitched	allowed
+nummod	runs	two
+dobj	allowed	runs
+case	hits	on
+nummod	hits	five
+nmod:on	runs	hits
+cc	hits	and
+nsubj	walks	four
+conj:and	hits	walks
+punct	pitched	.

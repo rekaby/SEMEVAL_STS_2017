@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	standing	people
+aux	standing	are
+root	ROOT	standing
+xcomp	standing	next
+dep	next	to
+dobj	to	each
+amod	each	other
+dep	other	wearing
+dobj	wearing	pink
+punct	standing	.

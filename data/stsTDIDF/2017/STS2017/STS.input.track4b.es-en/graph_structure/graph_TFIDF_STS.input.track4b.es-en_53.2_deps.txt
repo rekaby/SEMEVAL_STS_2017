@@ -1,0 +1,16 @@
+Scalia	Kagan	nsubj
+Scalia	that	mark
+argue	conservatives	nsubj
+problem	ethical	amod
+Kagan	has	acl:relcl
+Scalia	and	cc
+Scalia	does	aux
+Kagan	Elena	compound
+has	problem	dobj
+Kagan	,	punct
+Scalia	not	neg
+problem	an	det
+argue	Scalia	ccomp
+Scalia	Thomas	conj:and
+argue	addition	nmod:in
+Kagan	Justice	compound

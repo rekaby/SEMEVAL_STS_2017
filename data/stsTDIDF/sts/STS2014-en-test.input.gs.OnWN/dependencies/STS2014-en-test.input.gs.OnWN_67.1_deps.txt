@@ -1,0 +1,10 @@
+root	ROOT	separate
+punct	passing	-LRB-
+mark	passing	as
+mwe	as	if
+punct	passing	-RRB-
+mark	passing	by
+dep	separate	passing
+case	sieve	through
+det	sieve	a
+nmod:through	passing	sieve

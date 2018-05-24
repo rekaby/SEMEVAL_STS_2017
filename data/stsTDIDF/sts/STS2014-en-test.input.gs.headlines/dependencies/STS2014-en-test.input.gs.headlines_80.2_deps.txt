@@ -1,0 +1,6 @@
+nsubj	attack	Islamists
+root	ROOT	attack
+amod	troops	Malian
+dobj	attack	troops
+case	Gao	in
+nmod:in	attack	Gao

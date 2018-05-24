@@ -1,0 +1,10 @@
+nsubj	resolution	Russia
+punct	Russia	,
+appos	Russia	China
+case	veto	in
+amod	veto	double
+nmod:in	China	veto
+case	Syria	of
+compound	Syria	UN
+nmod:of	veto	Syria
+root	ROOT	resolution

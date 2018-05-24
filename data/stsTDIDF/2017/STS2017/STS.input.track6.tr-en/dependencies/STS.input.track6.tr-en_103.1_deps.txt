@@ -1,0 +1,14 @@
+det	man	A
+nsubj	walking	man
+case	officer	next
+mwe	next	to
+det	officer	a
+compound	officer	police
+nmod:next_to	man	officer
+aux	walking	is
+root	ROOT	walking
+advmod	walking	away
+case	man	from
+det	man	another
+nmod:from	walking	man
+punct	walking	.

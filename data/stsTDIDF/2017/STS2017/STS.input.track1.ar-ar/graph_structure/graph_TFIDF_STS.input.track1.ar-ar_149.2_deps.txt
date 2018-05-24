@@ -1,0 +1,14 @@
+man	ride	acl
+divers	black	amod
+riding	board	nmod:on
+divers	in	case
+divers	riding	acl
+divers	suit	compound
+ride	waves	dobj
+waves	the	det
+riding	waves	dobj
+man	divers	nmod:in
+ride	to	mark
+waves	green	nmod:of
+divers	a	det
+green	of	case

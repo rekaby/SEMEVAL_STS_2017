@@ -1,0 +1,7 @@
+nsubj	mulls	Obama
+root	ROOT	mulls
+amod	action	limited
+amod	action	military
+dobj	mulls	action
+case	Syria	in
+nmod:in	mulls	Syria

@@ -1,0 +1,9 @@
+det	center	the
+advmod	charged	positively
+amod	center	charged
+amod	center	dense
+root	ROOT	center
+case	atom	of
+det	atom	an
+nmod:of	center	atom
+punct	center	.

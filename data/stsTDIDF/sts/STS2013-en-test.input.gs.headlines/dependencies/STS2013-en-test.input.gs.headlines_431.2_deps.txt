@@ -1,0 +1,8 @@
+det	Games	The
+compound	Games	Hunger
+nsubj	breaks	Games
+root	ROOT	breaks
+compound	record	US
+compound	record	box
+compound	record	office
+dobj	breaks	record

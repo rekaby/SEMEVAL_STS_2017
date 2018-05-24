@@ -1,0 +1,7 @@
+det	burst	a
+amod	burst	sudden
+punct	burst	,
+amod	burst	brief
+root	ROOT	burst
+case	light	of
+nmod:of	burst	light

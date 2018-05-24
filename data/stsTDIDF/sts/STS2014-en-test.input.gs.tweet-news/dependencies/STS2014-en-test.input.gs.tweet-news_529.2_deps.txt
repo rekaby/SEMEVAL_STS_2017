@@ -1,0 +1,8 @@
+compound	Ads	Coke
+compound	Ads	TV
+root	ROOT	Ads
+compound	Obesity	Confront
+dep	Ads	Obesity
+cc	Obesity	and
+conj:and	Obesity	Soda?s
+dep	Obesity	Role

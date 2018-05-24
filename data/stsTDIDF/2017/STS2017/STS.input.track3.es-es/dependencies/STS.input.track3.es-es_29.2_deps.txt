@@ -1,0 +1,13 @@
+expl	is	There
+root	ROOT	is
+det	girl	a
+nsubj	is	girl
+case	dress	in
+det	dress	a
+amod	dress	red
+nmod:in	girl	dress
+acl	dress	standing
+case	dock	on
+det	dock	the
+nmod:on	standing	dock
+punct	is	.

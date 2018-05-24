@@ -1,0 +1,9 @@
+nsubj	matter	It
+cop	matter	's
+advmod	matter	definitely
+advmod	matter	just
+det	matter	a
+root	ROOT	matter
+case	preference	of
+nmod:of	matter	preference
+punct	matter	.

@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	attaching	of
+acl	act	attaching
+cc	attaching	or
+conj:or	attaching	affixing
+dobj	attaching	something
+punct	act	.

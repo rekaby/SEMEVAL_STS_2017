@@ -1,0 +1,8 @@
+det	man	A
+nsubj	staring	man
+aux	staring	is
+root	ROOT	staring
+compound:prt	staring	out
+det	window	the
+dobj	staring	window
+punct	staring	.

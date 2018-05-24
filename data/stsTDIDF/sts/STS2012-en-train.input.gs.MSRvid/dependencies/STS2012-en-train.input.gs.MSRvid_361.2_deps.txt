@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+nsubj	hold	walking
+acl:relcl	man	hold
+det	other	each
+dobj	hold	other
+punct	man	.

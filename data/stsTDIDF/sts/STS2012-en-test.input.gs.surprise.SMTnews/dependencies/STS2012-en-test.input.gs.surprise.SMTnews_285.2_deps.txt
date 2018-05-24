@@ -1,0 +1,15 @@
+cc	built	But
+case	EU	like
+det	EU	the
+nmod:like	built	EU
+nmod:npmod	EU	itself
+punct	built	,
+nsubjpass	built	this
+aux	built	will
+auxpass	built	be
+root	ROOT	built
+cc	built	and
+nsubj	happen	this
+aux	happen	will
+conj:and	built	happen
+punct	built	.

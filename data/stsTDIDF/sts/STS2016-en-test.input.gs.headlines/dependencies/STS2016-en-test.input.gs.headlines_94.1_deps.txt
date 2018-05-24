@@ -1,0 +1,6 @@
+nsubj	holds	Obama
+root	ROOT	holds
+compound:prt	holds	out
+case	Syria	over
+nmod:over	holds	Syria
+dobj	holds	strikes

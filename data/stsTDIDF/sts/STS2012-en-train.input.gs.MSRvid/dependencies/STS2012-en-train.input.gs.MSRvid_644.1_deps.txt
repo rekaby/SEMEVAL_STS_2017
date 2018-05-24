@@ -1,0 +1,9 @@
+det	animal	The
+nsubj	eating	animal
+case	eyes	with
+det	eyes	the
+amod	eyes	big
+nmod:with	animal	eyes
+aux	eating	is
+root	ROOT	eating
+punct	eating	.

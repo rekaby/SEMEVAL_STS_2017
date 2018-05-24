@@ -1,0 +1,7 @@
+det	man	A
+nsubj	makes	man
+root	ROOT	makes
+compound	forms	art
+dobj	makes	forms
+case	ice	of
+nmod:of	forms	ice

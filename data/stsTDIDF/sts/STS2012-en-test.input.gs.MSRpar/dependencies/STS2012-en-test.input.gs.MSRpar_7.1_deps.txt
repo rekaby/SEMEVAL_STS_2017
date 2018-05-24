@@ -1,0 +1,13 @@
+compound	Dopp	Darren
+nsubj	declined	Dopp
+punct	Dopp	,
+det	spokesman	a
+compound	spokesman	Spitzer
+appos	Dopp	spokesman
+punct	Dopp	,
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+amod	Thursday	late
+nmod:tmod	comment	Thursday
+punct	declined	.

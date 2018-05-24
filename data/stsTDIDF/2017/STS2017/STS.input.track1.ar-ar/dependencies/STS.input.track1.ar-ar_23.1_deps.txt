@@ -1,0 +1,7 @@
+root	ROOT	Wearing
+compound	uniforms	tennis
+compound	uniforms	player
+nsubj	colors	uniforms
+amod	colors	contradictory
+dobj	Wearing	colors
+punct	Wearing	.

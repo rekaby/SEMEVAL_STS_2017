@@ -1,0 +1,14 @@
+root	ROOT	Take
+det	Texas	that
+dobj	Take	Texas
+punct	Take	.-4) compound(House-2, White
+nsubj	Rejects	House
+root	ROOT	Rejects
+dobj	Rejects	Petitions
+mark	Secede	to
+advcl	Rejects	Secede
+punct	Rejects	,
+cc	Rejects	but
+compound	Fight	Texans
+conj:but	Rejects	Fight
+compound:prt	Rejects	On

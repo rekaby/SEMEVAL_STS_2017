@@ -1,0 +1,7 @@
+nsubj	brings	Water
+root	ROOT	brings
+amod	lows	new
+dobj	brings	lows
+case	Lakes	on
+amod	Lakes	Great
+nmod:on	brings	Lakes

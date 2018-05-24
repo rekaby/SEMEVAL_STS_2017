@@ -1,0 +1,12 @@
+mark	damaged	If
+compound	B	bulb
+nsubjpass	damaged	B
+auxpass	damaged	is
+advcl	is	damaged
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit

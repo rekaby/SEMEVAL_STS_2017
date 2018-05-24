@@ -1,0 +1,14 @@
+compound	Hints	Defense
+compound	Hints	Official
+root	ROOT	Hints
+mark	Stepping	That
+nsubj	Stepping	Israel
+aux	Stepping	Is
+dep	Hints	Stepping
+advmod	Stepping	Back
+case	Plans	From
+nmod:from	Back	Plans
+mark	Attack	to
+advmod	Attack	Unilaterally
+acl	Plans	Attack
+dobj	Attack	Iran

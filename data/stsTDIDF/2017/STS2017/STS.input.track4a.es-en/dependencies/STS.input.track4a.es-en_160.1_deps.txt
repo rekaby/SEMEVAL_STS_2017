@@ -1,0 +1,6 @@
+det	bird	The
+nsubj	tree	bird
+cop	tree	is
+case	tree	on
+det	tree	the
+root	ROOT	tree

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	window	in
+mwe	in	front
+mwe	in	of
+det	window	the
+nmod:in_front_of	standing	window
+cc	standing	and
+conj:and	standing	looking
+advmod	looking	outside
+punct	standing	.

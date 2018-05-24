@@ -1,0 +1,11 @@
+root	ROOT	restate
+punct	words	-LRB-
+dep	restate	words
+punct	words	-RRB-
+case	language	from
+nummod	language	one
+nmod:from	restate	language
+case	language	into
+det	language	another
+nmod:into	language	language
+punct	restate	.

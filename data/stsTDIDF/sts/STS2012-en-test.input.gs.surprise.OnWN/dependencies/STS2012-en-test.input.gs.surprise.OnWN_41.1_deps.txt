@@ -1,0 +1,6 @@
+aux	observe	ponder
+punct	consider	,
+parataxis	observe	consider
+punct	consider	,
+root	ROOT	observe
+advmod	observe	carefully

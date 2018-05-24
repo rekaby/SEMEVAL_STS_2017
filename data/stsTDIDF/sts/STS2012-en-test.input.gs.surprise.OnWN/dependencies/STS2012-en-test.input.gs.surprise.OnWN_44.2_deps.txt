@@ -1,0 +1,11 @@
+root	ROOT	anything
+nsubj	approximates	that
+acl:relcl	anything	approximates
+det	shape	the
+dobj	approximates	shape
+case	column	of
+det	column	a
+nmod:of	shape	column
+cc	column	or
+conj:or	column	tower
+punct	anything	.

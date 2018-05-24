@@ -1,0 +1,10 @@
+nsubj	say	It
+aux	say	does
+neg	say	n't
+root	ROOT	say
+mark	participate	that
+nsubj	participate	it
+aux	participate	did
+neg	participate	n't
+ccomp	say	participate
+punct	say	.

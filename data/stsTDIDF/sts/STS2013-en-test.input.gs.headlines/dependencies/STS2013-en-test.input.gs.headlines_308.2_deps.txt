@@ -1,0 +1,9 @@
+nsubj	warns	Clinton
+root	ROOT	warns
+dobj	warns	Kenya
+case	repeat	on
+nmod:on	warns	repeat
+case	vote	of
+nummod	vote	2007
+nmod:of	repeat	vote
+dep	warns	chaos

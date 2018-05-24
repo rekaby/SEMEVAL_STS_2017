@@ -1,0 +1,12 @@
+det	answer	The
+amod	answer	short
+nsubj	is	answer
+root	ROOT	is
+mark	do	that
+advmod	do	yes
+punct	do	,
+nsubj	do	you
+aux	do	can
+ccomp	is	do
+dobj	do	this
+punct	is	.

@@ -1,0 +1,16 @@
+det	skater	A
+root	ROOT	skater
+case	sweatshirt	in
+det	sweatshirt	a
+amod	sweatshirt	black
+amod	sweatshirt	hooded
+nmod:in	skater	sweatshirt
+acl	sweatshirt	running
+det	grind	a
+amod	grind	great
+compound	grind	rail
+dobj	running	grind
+case	skateboard	on
+nmod:poss	skateboard	her
+nmod:on	running	skateboard
+punct	skater	.

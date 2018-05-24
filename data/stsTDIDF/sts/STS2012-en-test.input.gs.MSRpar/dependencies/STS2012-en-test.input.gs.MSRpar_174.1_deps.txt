@@ -1,0 +1,14 @@
+nsubj	reaffirmed	He
+advmod	reaffirmed	also
+root	ROOT	reaffirmed
+nmod:poss	wish	his
+dobj	reaffirmed	wish
+mark	resolve	to
+acl	wish	resolve
+det	crisis	the
+amod	Korean	North
+amod	crisis	Korean
+amod	crisis	nuclear
+dobj	resolve	crisis
+advmod	resolve	peacefully
+punct	reaffirmed	.

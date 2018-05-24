@@ -1,0 +1,10 @@
+compound	Senate	US
+nsubj	has	Senate
+root	ROOT	has
+compound	Days	Rare
+compound	Days	Sunday
+compound	Days	Session
+dobj	has	Days
+case	Impasse	Amid
+amod	Impasse	Fiscal
+nmod:amid	has	Impasse

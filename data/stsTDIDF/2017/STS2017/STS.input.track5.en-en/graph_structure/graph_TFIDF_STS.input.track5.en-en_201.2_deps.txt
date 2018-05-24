@@ -1,0 +1,4 @@
+player	tennis	compound
+middle	game	nmod:of
+player	A	det
+player	middle	nmod:in

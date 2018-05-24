@@ -1,0 +1,11 @@
+det	boy	A
+nsubj	gets	boy
+case	t-shirt	in
+det	t-shirt	a
+amod	t-shirt	black
+nmod:in	boy	t-shirt
+root	ROOT	gets
+xcomp	gets	ready
+mark	throw	to
+xcomp	ready	throw
+punct	gets	.

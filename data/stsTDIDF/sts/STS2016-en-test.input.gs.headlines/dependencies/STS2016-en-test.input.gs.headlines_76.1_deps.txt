@@ -1,0 +1,8 @@
+compound	convicts	UN
+compound	convicts	court
+root	ROOT	convicts
+nummod	Croats	6
+compound	Croats	Bosnian
+dep	convicts	Croats
+case	atrocities	of
+nmod:of	Croats	atrocities

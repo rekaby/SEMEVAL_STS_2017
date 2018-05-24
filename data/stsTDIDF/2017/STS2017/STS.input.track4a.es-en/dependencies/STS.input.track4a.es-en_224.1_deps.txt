@@ -1,0 +1,9 @@
+nsubj	pay	People
+root	ROOT	pay
+case	purchases	for
+nmod:poss	purchases	their
+nmod:for	pay	purchases
+case	store	in
+det	store	the
+nmod:in	purchases	store
+punct	pay	.

@@ -1,0 +1,12 @@
+det	group	A
+nsubj	water	group
+case	people	of
+nmod:of	group	people
+cop	water	are
+amod	water	sweeping
+root	ROOT	water
+case	house	out
+mwe	out	of
+det	house	a
+acl:out_of	water	house
+punct	water	.

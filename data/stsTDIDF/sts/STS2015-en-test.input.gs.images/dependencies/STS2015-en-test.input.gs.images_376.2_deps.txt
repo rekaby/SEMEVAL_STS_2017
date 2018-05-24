@@ -1,0 +1,12 @@
+det	man	A
+amod	man	smiling
+nsubj	holds	man
+root	ROOT	holds
+det	child	a
+amod	child	small
+dobj	holds	child
+acl	child	wearing
+dobj	wearing	pink
+cc	pink	and
+conj:and	pink	red
+punct	holds	.

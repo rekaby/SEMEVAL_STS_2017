@@ -1,0 +1,15 @@
+vital	if	dep
+seen	signifying	advcl
+part	past	nmod:of
+something	important	amod
+part	smelly	amod
+past	Norway	nmod:poss
+signifying	,	punct
+smelly	rather	advmod
+signifying	as	mark
+signifying	something	dobj
+vital	a	det
+seen	Rakfisk	nsubjpass
+if	part	dep
+Norway	's	case
+signifying	vital	dep

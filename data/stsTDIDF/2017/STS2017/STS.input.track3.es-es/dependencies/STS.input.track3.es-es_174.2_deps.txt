@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+cc	wearing	and
+aux	riding	is
+conj:and	wearing	riding
+det	bicycle	a
+dobj	riding	bicycle
+punct	wearing	.

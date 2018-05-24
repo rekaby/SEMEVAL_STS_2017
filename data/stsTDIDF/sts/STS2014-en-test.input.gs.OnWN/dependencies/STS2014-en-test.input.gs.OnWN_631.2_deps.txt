@@ -1,0 +1,7 @@
+det	end	the
+root	ROOT	end
+cc	end	or
+conj:or	end	completion
+case	something	of
+nmod:of	end	something
+punct	end	.

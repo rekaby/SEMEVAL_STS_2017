@@ -1,0 +1,10 @@
+lavished	troops	nsubjpass
+lavished	are	auxpass
+sacrifices	for	case
+ROOT	lavished	root
+praise	sacrifices	nmod:for
+praise	with	case
+sacrifices	their	nmod:poss
+troops	The	det
+lavished	praise	nmod:with
+lavished	.	punct

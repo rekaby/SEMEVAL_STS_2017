@@ -1,0 +1,6 @@
+root	ROOT	make
+dobj	make	images
+cc	make	or
+conj:or	make	sounds
+advmod	sharp	less
+advmod	sounds	sharp

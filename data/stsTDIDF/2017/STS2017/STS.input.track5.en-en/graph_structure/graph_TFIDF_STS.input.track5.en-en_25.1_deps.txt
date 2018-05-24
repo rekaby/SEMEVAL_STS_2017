@@ -1,0 +1,6 @@
+kneeling	is	aux
+kneeling	woman	nsubj
+ROOT	kneeling	root
+cat	next	case
+kneeling	cat	nmod:next_to
+kneeling	.	punct

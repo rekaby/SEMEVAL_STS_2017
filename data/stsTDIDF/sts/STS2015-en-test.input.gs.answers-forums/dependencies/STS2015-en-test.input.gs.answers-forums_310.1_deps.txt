@@ -1,0 +1,16 @@
+dep	is	No
+punct	is	,
+expl	is	there
+root	ROOT	is
+neg	criteria	no
+amod	criteria	specific
+nsubj	is	criteria
+mark	giving	for
+acl	criteria	giving
+det	man	the
+dobj	giving	man
+case	award	of
+det	award	the
+compound	award	match
+nmod:of	man	award
+punct	is	.

@@ -1,0 +1,7 @@
+nsubj	hits	Bairstow
+root	ROOT	hits
+compound	match	ton
+case	tour	in
+compound	tour	India
+nmod:in	ton	tour
+dobj	hits	match

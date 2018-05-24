@@ -1,0 +1,12 @@
+paintings	Latin	amod
+paintings	walls	nmod:on
+boredom	about	case
+Pompeii	of	case
+are	paintings	nsubj
+century	from	case
+century	21st	amod
+paintings	boredom	nmod:about
+walls	Pompeii	nmod:of
+dating	century	nmod:from
+walls	dating	acl
+walls	on	case

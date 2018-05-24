@@ -1,0 +1,23 @@
+root	ROOT	WOW
+punct	WOW	:
+dep	WOW	announcing
+dobj	announcing	plan
+mark	hire	to
+acl	plan	hire
+compound	veteran	EVERY
+dobj	hire	veteran
+nsubj	wants	who
+acl:relcl	veteran	wants
+det	job	a
+dobj	wants	job
+punct	announcing	-
+dep	announcing	w
+det	conditions	a
+amod	conditions	few
+dobj	w	conditions
+punct	WOW	.-18) nsubj(anticipate-2, They
+root	ROOT	anticipate
+dobj	anticipate	100k
+cc	100k	+
+conj:+	100k	hires
+punct	anticipate	:

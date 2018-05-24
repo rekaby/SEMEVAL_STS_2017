@@ -1,0 +1,9 @@
+amod	hospital	Catholic
+nmod:poss	lawyers	hospital
+case	hospital	's
+nsubj	argue	lawyers
+root	ROOT	argue
+compound	person	fetus
+neg	person	not
+det	person	a
+dobj	argue	person

@@ -1,0 +1,8 @@
+advmod	100	More
+mwe	More	than
+root	ROOT	100
+acl	100	injured
+case	blast	in
+compound	blast	Texas
+compound	blast	plant
+nmod:in	injured	blast

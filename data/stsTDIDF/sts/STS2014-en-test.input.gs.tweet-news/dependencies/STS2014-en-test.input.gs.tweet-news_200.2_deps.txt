@@ -1,0 +1,11 @@
+det	Caucus	The
+root	ROOT	Caucus
+punct	Caucus	:
+compound	Front	Republican
+compound	Front	Governors
+compound	Front	Open
+compound	Front	New
+dep	Caucus	Front
+case	Debate	in
+compound	Debate	Tax
+nmod:in	Front	Debate

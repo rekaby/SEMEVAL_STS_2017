@@ -1,0 +1,8 @@
+det	guy	The
+amod	guy	grumpy
+nsubj	playing	guy
+aux	playing	is
+root	ROOT	playing
+det	instrument	an
+dobj	playing	instrument
+compound:prt	playing	outside

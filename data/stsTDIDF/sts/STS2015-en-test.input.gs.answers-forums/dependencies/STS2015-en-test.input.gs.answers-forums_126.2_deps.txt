@@ -1,0 +1,14 @@
+nsubj	Looks	That
+cop	Looks	is
+advmod	Looks	indeed
+amod	Looks	Greek
+root	ROOT	Looks
+case	Ticket	like
+det	Ticket	a
+nmod:like	Looks	Ticket
+case	museum	to
+det	museum	a
+nmod:to	Ticket	museum
+cc	museum	or
+conj:or	museum	field
+punct	Looks	.

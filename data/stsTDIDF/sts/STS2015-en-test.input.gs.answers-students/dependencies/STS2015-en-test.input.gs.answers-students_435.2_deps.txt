@@ -1,0 +1,6 @@
+nsubj	has	Circuit
+nummod	Circuit	4
+root	ROOT	has
+neg	closed	no
+amod	paths	closed
+dobj	has	paths

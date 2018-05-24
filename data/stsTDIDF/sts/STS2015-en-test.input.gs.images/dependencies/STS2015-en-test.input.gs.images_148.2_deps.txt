@@ -1,0 +1,12 @@
+det	man	A
+nsubj	walk	man
+punct	man	,
+conj:and	man	woman
+cc	man	and
+conj:and	man	dog
+root	ROOT	walk
+case	road	down
+det	road	a
+amod	road	paved
+nmod:down	walk	road
+punct	walk	.

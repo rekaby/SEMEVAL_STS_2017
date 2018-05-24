@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	skating	woman
+acl	woman	dressed
+case	green	in
+nmod:in	dressed	green
+cop	skating	is
+compound	skating	roller
+root	ROOT	skating
+case	event	outside
+case	event	at
+det	event	an
+nmod:at	skating	event
+punct	skating	.

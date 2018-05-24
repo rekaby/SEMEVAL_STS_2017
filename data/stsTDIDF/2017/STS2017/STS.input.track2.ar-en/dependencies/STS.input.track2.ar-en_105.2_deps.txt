@@ -1,0 +1,15 @@
+det	group	A
+nsubj	loading	group
+case	men	of
+nmod:of	group	men
+aux	loading	are
+root	ROOT	loading
+det	goods	the
+dobj	loading	goods
+case	back	on
+det	back	the
+nmod:on	loading	back
+case	car	of
+det	car	the
+nmod:of	back	car
+punct	loading	.

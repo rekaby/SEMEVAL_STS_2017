@@ -1,0 +1,12 @@
+compound	Stern	Richard
+compound	Stern	G.
+root	ROOT	Stern
+punct	Stern	,
+det	Writers	a
+appos	Stern	Writers
+punct	Stern	?-7) nsubj(Dead-4, Writer
+punct	Writer	,
+cop	Dead	Is
+root	ROOT	Dead
+case	84	at
+nmod:at	Dead	84

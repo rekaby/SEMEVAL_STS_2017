@@ -1,0 +1,7 @@
+nummod	things	5
+root	ROOT	things
+nsubj	learned	we
+acl:relcl	things	learned
+case	hearings	from
+compound	hearings	Benghazi
+nmod:from	learned	hearings

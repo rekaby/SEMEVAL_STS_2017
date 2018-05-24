@@ -1,0 +1,7 @@
+root	ROOT	cause
+det	pain	a
+amod	pain	sharp
+cc	sharp	or
+conj:or	sharp	stinging
+dobj	cause	pain
+dep	cause	to

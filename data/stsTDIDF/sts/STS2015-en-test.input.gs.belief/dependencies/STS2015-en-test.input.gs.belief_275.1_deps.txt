@@ -1,0 +1,14 @@
+nsubj	obvious	it
+cop	obvious	's
+root	ROOT	obvious
+mark	love	that
+nsubj	love	you
+ccomp	obvious	love
+nmod:poss	daughter	your
+dobj	love	daughter
+cc	love	and
+conj:and	love	want
+nsubj	best	what
+cop	best	's
+ccomp	want	best
+punct	obvious	.

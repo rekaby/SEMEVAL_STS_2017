@@ -1,0 +1,10 @@
+compound	Nano	Tata
+nsubj	fail	Nano
+cc	Nano	and
+amod	cars	other
+amod	cars	Indian
+amod	cars	small
+conj:and	Nano	cars
+root	ROOT	fail
+compound	tests	crash
+dobj	fail	tests

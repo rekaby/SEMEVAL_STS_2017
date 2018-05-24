@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	young
+root	ROOT	woman
+punct	woman	,
+amod	woman	topless
+case	paint	except
+mwe	except	for
+nmod:except_for	topless	paint
+cc	paint	or
+conj:or	paint	mud
+punct	woman	.

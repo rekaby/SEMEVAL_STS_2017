@@ -1,0 +1,12 @@
+det	group	A
+root	ROOT	group
+case	people	of
+amod	people	young
+nmod:of	group	people
+acl	people	sitting
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	sitting	sidewalk
+case	night	at
+nmod:at	sitting	night
+punct	group	.

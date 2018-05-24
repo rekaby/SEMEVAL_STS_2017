@@ -1,0 +1,10 @@
+root	ROOT	Body
+case	tycoon	of
+amod	tycoon	missing
+amod	tycoon	South
+amod	tycoon	Korean
+compound	tycoon	shipping
+nmod:of	Body	tycoon
+acl	tycoon	found
+case	field	in
+nmod:in	found	field

@@ -1,0 +1,15 @@
+det	plan	the
+nsubj	creation	plan
+case	tunisia	for
+nmod:for	plan	tunisia
+cop	creation	is
+det	creation	the
+root	ROOT	creation
+case	databases	of
+amod	databases	electronic
+nmod:of	creation	databases
+mark	facilitate	to
+acl	creation	facilitate
+compound	collection	tax
+dobj	facilitate	collection
+punct	creation	.

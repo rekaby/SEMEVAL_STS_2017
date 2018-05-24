@@ -1,0 +1,9 @@
+det	dog	The
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	container	with
+det	container	a
+amod	container	plastic
+nmod:with	playing	container
+punct	playing	.

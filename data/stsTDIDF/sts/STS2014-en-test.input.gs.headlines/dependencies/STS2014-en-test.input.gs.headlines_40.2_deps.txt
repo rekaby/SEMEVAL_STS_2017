@@ -1,0 +1,7 @@
+compound	Abe	Shinzo
+nsubj	minister	Abe
+cop	minister	is
+nmod:poss	minister	Japan
+case	Japan	's
+amod	minister	prime
+root	ROOT	minister

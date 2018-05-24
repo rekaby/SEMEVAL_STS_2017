@@ -1,0 +1,17 @@
+nmod:poss	motivation	My
+nsubj	is	motivation
+root	ROOT	is
+mark	like	that
+nsubj	like	I
+ccomp	is	like
+mark	look	to
+xcomp	like	look
+case	things	at
+nmod:at	look	things
+case	roots	from
+nmod:poss	roots	their
+nmod:from	look	roots
+cc	look	and
+conj:and	look	go
+compound:prt	go	up
+punct	is	.

@@ -1,0 +1,6 @@
+nummod	crash	Five
+acl	Five	killed
+case	coach	in
+amod	coach	Belgian
+nmod:in	killed	coach
+root	ROOT	crash

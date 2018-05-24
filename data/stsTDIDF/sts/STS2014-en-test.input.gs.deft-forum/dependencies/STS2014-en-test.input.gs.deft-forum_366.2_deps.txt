@@ -1,0 +1,15 @@
+advmod	say	Never
+punct	say	,
+dep	say	did
+dobj	did	I
+advmod	I	ever
+punct	say	,
+aux	say	did
+nsubj	say	I
+root	ROOT	say
+nsubj	going	blacks
+aux	going	were
+ccomp	say	going
+case	riot	to
+nmod:to	going	riot
+punct	say	.

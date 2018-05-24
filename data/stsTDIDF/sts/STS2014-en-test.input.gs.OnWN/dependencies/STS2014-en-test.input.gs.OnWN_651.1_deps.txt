@@ -1,0 +1,7 @@
+det	state	the
+nsubj	order	state
+mark	working	of
+cop	working	being
+mark	working	in
+acl	state	working
+root	ROOT	order

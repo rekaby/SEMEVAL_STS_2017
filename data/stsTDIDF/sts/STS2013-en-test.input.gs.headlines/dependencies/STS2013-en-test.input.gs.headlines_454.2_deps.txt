@@ -1,0 +1,13 @@
+compound	soldiers	Taliban
+nsubj	posing	soldiers
+root	ROOT	posing
+case	women	as
+amod	women	pretty
+nmod:as	posing	women
+case	Facebook	on
+nmod:on	women	Facebook
+mark	get	to
+xcomp	posing	get
+nmod:poss	secrets	troops
+case	troops	'
+dobj	get	secrets

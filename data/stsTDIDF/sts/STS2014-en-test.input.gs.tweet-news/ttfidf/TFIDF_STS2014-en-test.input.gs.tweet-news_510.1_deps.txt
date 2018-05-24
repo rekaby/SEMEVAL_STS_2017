@@ -1,0 +1,9 @@
+dobj Go #Obama	15.060439779775294
+punct Go .-3) nsubj(Calls-2, Obama	15.060439779775294
+amod Action Broad	15.060439779775294
+nmod:for Calls Action	15.060439779775294
+case Guns on	15.060439779775294
+nmod:on Action Guns	15.060439779775294
+case Action for	12.757854686781249
+root ROOT Calls	12.662544506976923
+root ROOT Go	9.75217208237409

@@ -1,0 +1,7 @@
+woman	waiting	acl
+woman	riding	acl
+waiting	clowns	nsubj
+riding	bull	dobj
+waiting	patiently	advmod
+waiting	while	mark
+bull	a	det

@@ -1,0 +1,11 @@
+det	fan	A
+compound	fan	sports
+nsubj	wearing	fan
+aux	wearing	is
+root	ROOT	wearing
+compound	paint	face
+dobj	wearing	paint
+case	stands	in
+det	stands	the
+nmod:in	wearing	stands
+punct	wearing	.

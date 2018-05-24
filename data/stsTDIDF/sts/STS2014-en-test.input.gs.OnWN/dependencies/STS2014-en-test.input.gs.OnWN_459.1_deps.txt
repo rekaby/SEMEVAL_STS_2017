@@ -1,0 +1,7 @@
+root	ROOT	make
+cc	make	or
+conj:or	make	become
+advmod	acute	more
+xcomp	become	acute
+cc	acute	or
+conj:or	acute	intense

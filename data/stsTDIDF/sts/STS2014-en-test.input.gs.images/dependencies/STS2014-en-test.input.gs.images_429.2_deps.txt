@@ -1,0 +1,12 @@
+nummod	women	Two
+amod	women	elderly
+nsubj	sit	women
+root	ROOT	sit
+case	table	at
+det	table	a
+compound	table	dinner
+nmod:at	sit	table
+case	man	with
+det	man	a
+nmod:with	table	man
+punct	sit	.

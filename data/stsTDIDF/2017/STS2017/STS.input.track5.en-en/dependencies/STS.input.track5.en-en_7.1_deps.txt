@@ -1,0 +1,15 @@
+det	man	A
+nsubjpass	shaved	man
+case	beard	with
+det	beard	a
+amod	beard	gray
+nmod:with	man	beard
+aux	shaved	is
+auxpass	shaved	being
+root	ROOT	shaved
+case	hall	in
+mwe	in	front
+mwe	in	of
+det	hall	a
+compound	hall	lecture
+nmod:in_front_of	shaved	hall

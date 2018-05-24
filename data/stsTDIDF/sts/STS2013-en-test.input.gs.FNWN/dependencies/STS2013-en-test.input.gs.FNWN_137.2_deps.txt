@@ -1,0 +1,16 @@
+det	collection	a
+root	ROOT	collection
+case	things	of
+nmod:of	collection	things
+nsubjpass	combined	that
+aux	combined	have
+auxpass	combined	been
+acl:relcl	things	combined
+punct	collection	;
+det	assemblage	an
+dep	collection	assemblage
+case	parts	of
+amod	parts	separate
+nmod:of	assemblage	parts
+cc	parts	or
+conj:or	parts	qualities

@@ -1,0 +1,14 @@
+advmod	denied	However
+punct	denied	,
+det	minister	the
+compound	minister	Saudi
+amod	minister	interior
+nsubj	denied	minister
+punct	minister	,
+compound	Nayef	Prince
+appos	minister	Nayef
+punct	minister	,
+root	ROOT	denied
+det	reports	the
+dobj	denied	reports
+punct	denied	.

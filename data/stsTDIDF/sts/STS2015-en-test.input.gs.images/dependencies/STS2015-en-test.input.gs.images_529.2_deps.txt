@@ -1,0 +1,11 @@
+det	dog	A
+compound	dog	tan
+nsubj	standing	dog
+aux	standing	is
+root	ROOT	standing
+case	plants	in
+mwe	in	front
+mwe	in	of
+det	plants	some
+nmod:in_front_of	standing	plants
+punct	standing	.

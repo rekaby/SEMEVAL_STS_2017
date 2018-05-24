@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+case	people	with
+nummod	people	two
+amod	people	other
+nmod:with	standing	people
+acl	people	dressed
+case	Elvis	as
+nmod:as	dressed	Elvis
+punct	group	.

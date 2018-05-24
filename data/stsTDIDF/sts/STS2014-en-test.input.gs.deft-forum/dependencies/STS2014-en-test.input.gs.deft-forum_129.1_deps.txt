@@ -1,0 +1,6 @@
+nsubj	hope	I
+root	ROOT	hope
+nsubj	nothing	this
+cop	nothing	is
+ccomp	hope	nothing
+punct	hope	.

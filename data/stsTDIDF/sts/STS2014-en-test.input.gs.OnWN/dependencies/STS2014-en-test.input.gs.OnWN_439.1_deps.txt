@@ -1,0 +1,8 @@
+root	ROOT	take
+dobj	take	action
+cc	take	or
+conj:or	take	behave
+case	way	in
+det	way	a
+amod	way	certain
+nmod:in	behave	way

@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	indicating	of
+acl	act	indicating
+cc	indicating	or
+conj:or	indicating	pointing
+compound:prt	pointing	out
+case	name	by
+nmod:by	pointing	name
+punct	act	.

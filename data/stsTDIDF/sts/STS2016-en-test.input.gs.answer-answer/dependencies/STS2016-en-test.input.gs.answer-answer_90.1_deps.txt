@@ -1,0 +1,11 @@
+nsubj	have	You
+advmod	have	PROBABLY
+aux	have	do
+neg	have	n't
+root	ROOT	have
+det	chance	any
+dobj	have	chance
+case	moment	at
+det	moment	the
+nmod:at	have	moment
+punct	have	.

@@ -1,0 +1,12 @@
+cc	prison	But
+nsubj	prison	Lawtey
+cop	prison	is
+det	prison	the
+amod	prison	first
+amod	prison	entire
+root	ROOT	prison
+mark	take	to
+acl	prison	take
+det	path	that
+dobj	take	path
+punct	prison	.

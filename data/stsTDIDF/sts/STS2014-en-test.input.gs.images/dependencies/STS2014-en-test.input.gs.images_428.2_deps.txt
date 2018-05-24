@@ -1,0 +1,16 @@
+det	dog	A
+nsubj	lying	dog
+aux	lying	is
+root	ROOT	lying
+case	bottom	at
+det	bottom	the
+nmod:at	lying	bottom
+case	staircase	of
+det	staircase	a
+nmod:of	bottom	staircase
+case	dog	next
+mwe	next	to
+det	dog	another
+amod	dog	standing
+nmod:next_to	lying	dog
+punct	lying	.

@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	young
+nsubj	leans	woman
+root	ROOT	leans
+case	plate	over
+nmod:poss	plate	her
+nmod:over	leans	plate
+case	meal	at
+det	meal	a
+nmod:at	leans	meal
+punct	leans	.

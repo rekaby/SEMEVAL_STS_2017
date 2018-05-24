@@ -1,0 +1,7 @@
+nsubj	frees	Israel
+root	ROOT	frees
+amod	group	second
+dobj	frees	group
+case	prisoners	of
+amod	prisoners	Palestinian
+nmod:of	group	prisoners

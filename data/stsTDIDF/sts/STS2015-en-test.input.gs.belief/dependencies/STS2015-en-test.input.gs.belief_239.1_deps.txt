@@ -1,0 +1,15 @@
+cc	oppose	but
+nsubj	oppose	i
+advmod	oppose	still
+root	ROOT	oppose
+det	mosque	the
+compound	mosque	gz
+dobj	oppose	mosque
+case	reason	for
+det	reason	the
+amod	reason	exact
+nmod:for	oppose	reason
+nsubj	put	revere
+acl:relcl	reason	put
+advmod	put	forward
+punct	oppose	.

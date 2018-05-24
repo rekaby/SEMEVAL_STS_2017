@@ -1,0 +1,10 @@
+nummod	dogs	Two
+amod	dogs	black
+cc	black	and
+conj:and	black	white
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+advmod	playing	together
+advmod	playing	outside
+punct	playing	.

@@ -1,0 +1,15 @@
+compound	difference	Anil
+punct	difference	,
+expl	difference	there
+advmod	difference	certainly
+cop	difference	is
+det	difference	a
+root	ROOT	difference
+case	results	in
+nmod:in	difference	results
+punct	results	,
+advmod	quality	mainly
+case	quality	in
+compound	quality	image
+nmod:in	results	quality
+punct	difference	.

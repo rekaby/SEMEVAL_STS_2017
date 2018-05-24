@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	laying	woman
+aux	laying	is
+root	ROOT	laying
+compound:prt	laying	down
+case	floor	on
+det	floor	the
+nmod:on	laying	floor
+cc	laying	and
+conj:and	laying	holding
+det	baby	a
+dobj	holding	baby
+advmod	holding	up
+case	her	above
+nmod:above	up	her
+punct	laying	.

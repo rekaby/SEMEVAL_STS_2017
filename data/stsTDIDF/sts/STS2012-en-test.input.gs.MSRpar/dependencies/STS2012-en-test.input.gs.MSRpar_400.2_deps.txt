@@ -1,0 +1,15 @@
+nsubj	killed	Harris
+cc	Harris	and
+conj:and	Harris	Klebold
+root	ROOT	killed
+nummod	students	12
+dobj	killed	students
+punct	students	,
+det	teacher	a
+conj:and	students	teacher
+cc	students	and
+conj:and	students	themselves
+case	school	at
+det	school	the
+nmod:at	killed	school
+punct	killed	.

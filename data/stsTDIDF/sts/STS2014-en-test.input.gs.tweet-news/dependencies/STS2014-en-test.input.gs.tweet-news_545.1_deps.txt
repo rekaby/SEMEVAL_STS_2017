@@ -1,0 +1,18 @@
+nsubj	wants	Sheen
+root	ROOT	wants
+mark	return	to
+xcomp	wants	return
+case	Men	to
+punct	Men	'
+nummod	Men	2.5
+nmod:'	return	Men
+case	Men	'
+cc	wants	but
+aux	ruined	has
+nmod:poss	image	his
+amod	image	past
+nsubj	ruined	image
+conj:but	wants	ruined
+dobj	ruined	that
+punct	wants	?-17) compound(205-2, #coePR
+root	ROOT	205

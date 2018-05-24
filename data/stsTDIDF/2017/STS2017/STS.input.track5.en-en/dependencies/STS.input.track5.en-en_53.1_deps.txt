@@ -1,0 +1,7 @@
+nsubj	holding	Girls
+aux	holding	are
+root	ROOT	holding
+dobj	holding	hands
+case	clothes	in
+amod	clothes	blue
+nmod:in	hands	clothes

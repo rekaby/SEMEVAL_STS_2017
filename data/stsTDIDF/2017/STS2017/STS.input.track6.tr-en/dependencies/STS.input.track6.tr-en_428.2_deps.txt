@@ -1,0 +1,17 @@
+det	guy	The
+nsubj	staring	guy
+cc	guy	and
+det	girl	the
+conj:and	guy	girl
+aux	staring	are
+root	ROOT	staring
+case	other	at
+det	other	each
+nmod:at	staring	other
+advmod	sitting	cheerfully
+mark	sitting	while
+acl	other	sitting
+case	chair	in
+det	chair	a
+nmod:in	sitting	chair
+punct	staring	.

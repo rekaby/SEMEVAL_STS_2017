@@ -1,0 +1,12 @@
+det	boys	The
+nsubj	have	boys
+root	ROOT	have
+compound	guns	toy
+dobj	have	guns
+cc	have	and
+conj:and	have	one
+acl	one	has
+det	animal	a
+amod	animal	stuffed
+dobj	has	animal
+punct	have	.

@@ -1,0 +1,6 @@
+compound	embassy	Activists
+compound	embassy	storm
+compound	embassy	Syria
+root	ROOT	embassy
+case	Kuwait	in
+nmod:in	embassy	Kuwait

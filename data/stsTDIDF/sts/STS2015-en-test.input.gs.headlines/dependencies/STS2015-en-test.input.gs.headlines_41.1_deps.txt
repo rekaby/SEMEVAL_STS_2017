@@ -1,0 +1,5 @@
+compound	Tsarnaev	Tamerlan
+root	ROOT	Tsarnaev
+acl	Tsarnaev	buried
+case	Virginia	in
+nmod:in	buried	Virginia

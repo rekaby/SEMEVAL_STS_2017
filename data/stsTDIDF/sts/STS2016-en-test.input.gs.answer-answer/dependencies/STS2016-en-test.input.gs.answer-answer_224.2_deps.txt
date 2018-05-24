@@ -1,0 +1,6 @@
+root	ROOT	Think
+case	it	of
+nmod:of	Think	it
+det	way	this
+dobj	Think	way
+punct	Think	.

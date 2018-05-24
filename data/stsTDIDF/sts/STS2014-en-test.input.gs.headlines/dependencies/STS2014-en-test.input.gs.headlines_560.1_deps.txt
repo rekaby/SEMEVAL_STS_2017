@@ -1,0 +1,10 @@
+compound	bomb	Syria
+compound	bomb	car
+nsubj	kills	bomb
+root	ROOT	kills
+case	least	at
+nmod:npmod	12	least
+dobj	kills	12
+case	town	in
+amod	town	rebel-held
+nmod:in	kills	town

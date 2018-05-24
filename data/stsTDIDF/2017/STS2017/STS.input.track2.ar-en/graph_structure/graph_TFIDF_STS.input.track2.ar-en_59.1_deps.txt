@@ -1,0 +1,9 @@
+laying	child	nsubj
+laying	bed	nmod:in
+setting	medical	amod
+laying	.	punct
+laying	is	aux
+laying	setting	nmod:in
+ROOT	laying	root
+setting	in	case
+setting	a	det

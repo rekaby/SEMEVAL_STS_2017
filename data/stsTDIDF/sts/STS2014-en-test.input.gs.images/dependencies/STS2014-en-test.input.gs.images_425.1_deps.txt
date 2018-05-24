@@ -1,0 +1,8 @@
+amod	bus	Red
+amod	bus	double
+compound	bus	decker
+nsubj	taking	bus
+root	ROOT	taking
+compound:prt	taking	on
+dobj	taking	passengers
+punct	taking	.

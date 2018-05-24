@@ -1,0 +1,14 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	feasible	it
+cop	feasible	is
+advmod	feasible	still
+ccomp	think	feasible
+mark	store	to
+xcomp	feasible	store
+dobj	store	seeds
+case	year	until
+det	year	the
+amod	year	next
+nmod:until	store	year
+punct	think	.

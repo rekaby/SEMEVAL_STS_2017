@@ -1,0 +1,9 @@
+det	group	A
+nsubj	standing	group
+case	people	of
+nmod:of	group	people
+aux	standing	are
+root	ROOT	standing
+advmod	outside	together
+advmod	standing	outside
+punct	standing	.

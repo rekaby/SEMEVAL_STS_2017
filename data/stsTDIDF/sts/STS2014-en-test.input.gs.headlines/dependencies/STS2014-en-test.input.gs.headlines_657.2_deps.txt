@@ -1,0 +1,10 @@
+nsubj	found	Man
+cc	Man	and
+conj:and	Man	woman
+root	ROOT	found
+amod	pool	dead
+case	swimming	in
+compound	swimming	Essex
+compound	swimming	hotel
+nmod:in	dead	swimming
+dobj	found	pool

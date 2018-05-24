@@ -1,0 +1,9 @@
+det	group	A
+nsubj	overlooking	group
+case	girls	of
+nmod:of	group	girls
+aux	overlooking	are
+root	ROOT	overlooking
+det	water	the
+dobj	overlooking	water
+punct	overlooking	.

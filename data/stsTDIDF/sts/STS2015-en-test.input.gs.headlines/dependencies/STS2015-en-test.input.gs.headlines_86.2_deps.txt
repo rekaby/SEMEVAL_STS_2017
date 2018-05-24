@@ -1,0 +1,9 @@
+amod	ballots	Swiss
+compound	ballots	cast
+root	ROOT	ballots
+case	wage	on
+nmod:poss	wage	world
+case	world	's
+amod	wage	highest
+amod	wage	minimum
+nmod:on	ballots	wage

@@ -1,0 +1,13 @@
+neg	plea	Not
+amod	plea	guilty
+root	ROOT	plea
+case	Holmes	for
+compound	Holmes	James
+nmod:for	plea	Holmes
+punct	plea	--
+cc	plea	but
+compound	option	insanity
+conj:but	plea	option
+advmod	table	still
+case	table	on
+acl:on	option	table

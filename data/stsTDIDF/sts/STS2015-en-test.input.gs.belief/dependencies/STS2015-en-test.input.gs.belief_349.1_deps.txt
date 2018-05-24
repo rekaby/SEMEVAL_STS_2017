@@ -1,0 +1,12 @@
+det	threat	the
+compound	threat	word
+nsubjpass	spoken	threat
+cc	threat	or
+conj:or	threat	threaten
+auxpass	spoken	was
+neg	spoken	never
+advmod	spoken	once
+root	ROOT	spoken
+case	obama	by
+nmod:agent	spoken	obama
+punct	spoken	.

@@ -1,0 +1,8 @@
+root	ROOT	measure
+det	depth	the
+dobj	measure	depth
+case	body	of
+det	body	a
+nmod:of	depth	body
+case	water	of
+nmod:of	body	water

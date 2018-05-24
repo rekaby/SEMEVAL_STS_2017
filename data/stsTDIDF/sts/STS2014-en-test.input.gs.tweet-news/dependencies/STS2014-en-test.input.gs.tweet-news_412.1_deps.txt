@@ -1,0 +1,7 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+amod	Frittata	Tunisian
+compound	Frittata	Style
+compound	Frittata	Baked
+compound	Frittata	Cauliflower
+dep	NYTimes	Frittata

@@ -1,0 +1,14 @@
+nsubj	read	a
+aux	read	must
+root	ROOT	read
+punct	read	.-4) nmod:poss(schneider-5, my
+amod	schneider	amazing
+compound	schneider	friend
+compound	schneider	cynthis
+nsubj	done	schneider
+aux	done	has
+root	ROOT	done
+dobj	done	it
+advmod	done	again
+punct	done	,
+dep	done	bravo

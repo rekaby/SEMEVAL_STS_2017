@@ -1,0 +1,8 @@
+sitting	playing	conj:and
+casino	in	case
+sitting	casino	nmod:in
+casino	the	det
+desk	at	case
+sitting	desk	nmod:at
+playing	twenty-one	dobj
+sitting	woman	nsubj

@@ -1,0 +1,9 @@
+painting	mural	dobj
+painting	house	nmod:next_to
+mural	a	det
+painter	A	det
+painting	.	punct
+house	next	case
+painting	is	aux
+painting	painter	nsubj
+ROOT	painting	root

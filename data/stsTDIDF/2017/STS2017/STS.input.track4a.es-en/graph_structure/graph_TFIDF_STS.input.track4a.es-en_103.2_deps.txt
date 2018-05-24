@@ -1,0 +1,5 @@
+walking	group	nsubj
+walking	side	nmod:along
+side	road	nmod:of
+side	along	case
+walking	are	aux

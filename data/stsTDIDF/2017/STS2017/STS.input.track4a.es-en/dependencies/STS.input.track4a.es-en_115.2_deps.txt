@@ -1,0 +1,8 @@
+det	dogs	The
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	rope	with
+det	rope	a
+nmod:with	playing	rope
+punct	playing	.

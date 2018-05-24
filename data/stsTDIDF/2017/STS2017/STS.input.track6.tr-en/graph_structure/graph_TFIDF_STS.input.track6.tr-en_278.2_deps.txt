@@ -1,0 +1,10 @@
+annoyed	man	nsubjpass
+glasses	his	nmod:poss
+annoyed	is	auxpass
+ROOT	annoyed	root
+annoyed	fall	advcl
+fall	down	advmod
+fall	when	advmod
+fall	glasses	nsubj
+annoyed	.	punct
+man	business	nmod:in

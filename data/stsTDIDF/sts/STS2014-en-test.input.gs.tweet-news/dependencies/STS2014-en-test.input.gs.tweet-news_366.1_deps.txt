@@ -1,0 +1,15 @@
+nsubj	exhibition	This
+cop	exhibition	is
+det	exhibition	an
+amod	exhibition	inspiring
+root	ROOT	exhibition
+punct	exhibition	.-6) det(way-2, The
+root	ROOT	way
+case	future	to
+det	future	the
+nmod:to	way	future
+punct	way	.-6) root(ROOT-0, ?-1) root(ROOT-0, Making
+dobj	Making	Room
+punct	Making	?-3) case(City-3, in
+det	City	the
+root	ROOT	City

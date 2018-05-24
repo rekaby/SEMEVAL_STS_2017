@@ -1,0 +1,10 @@
+nsubj	produce	Who
+aux	produce	does
+nsubj	produce	it
+advmod	produce	now
+advmod	produce	only
+root	ROOT	produce
+dobj	produce	enough
+case	billion	for
+nmod:for	enough	billion
+punct	produce	?

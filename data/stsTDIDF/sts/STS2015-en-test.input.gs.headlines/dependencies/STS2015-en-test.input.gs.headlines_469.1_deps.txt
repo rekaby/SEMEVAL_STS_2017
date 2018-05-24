@@ -1,0 +1,10 @@
+nsubj	signs	Ukraine
+root	ROOT	signs
+compound	pact	EU
+compound	pact	trade
+dobj	signs	pact
+mark	finalizes	as
+nsubj	finalizes	Russia
+advcl	signs	finalizes
+compound	annexation	Crimea
+dobj	finalizes	annexation

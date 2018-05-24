@@ -1,0 +1,14 @@
+nsubj	attend	We
+root	ROOT	attend
+dobj	attend	today
+det	change	the
+dep	today	change
+case	identity	of
+det	identity	a
+compound	identity	Moslem
+nmod:of	change	identity
+case	identity	for
+det	identity	an
+amod	identity	islamist
+nmod:for	identity	identity
+punct	attend	.

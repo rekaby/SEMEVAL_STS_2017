@@ -1,0 +1,6 @@
+girls	.	punct
+girls	The	det
+middle	game	nmod:of
+girls	middle	nmod:in
+girls	two	nummod
+ROOT	girls	root

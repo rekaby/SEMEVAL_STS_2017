@@ -1,0 +1,8 @@
+det	restaurant	a
+nsubj	makes	restaurant
+root	ROOT	makes
+dobj	makes	vegetables
+case	everyone	for
+nmod:for	makes	everyone
+nsubj	enters	who
+acl:relcl	everyone	enters

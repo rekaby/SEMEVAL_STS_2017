@@ -1,0 +1,8 @@
+nsubj	expands	Iran
+root	ROOT	expands
+amod	activities	nuclear
+compound	activities	enrichment
+dobj	expands	activities
+punct	expands	:
+compound	report	IAEA
+dep	expands	report

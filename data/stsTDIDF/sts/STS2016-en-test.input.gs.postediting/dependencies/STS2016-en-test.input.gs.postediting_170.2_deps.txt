@@ -1,0 +1,9 @@
+nsubj	said	Obama
+aux	said	has
+root	ROOT	said
+mark	future	that
+nsubj	future	it
+cop	future	was
+det	future	the
+ccomp	said	future
+punct	said	.

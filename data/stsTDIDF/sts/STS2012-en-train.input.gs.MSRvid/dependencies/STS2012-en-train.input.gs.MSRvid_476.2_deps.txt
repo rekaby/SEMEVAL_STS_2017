@@ -1,0 +1,15 @@
+det	cat	A
+amod	cat	big
+nsubj	opens	cat
+root	ROOT	opens
+det	drawer	a
+amod	drawer	plastic
+dobj	opens	drawer
+case	paws	with
+nmod:poss	paws	his
+nmod:with	opens	paws
+cc	opens	and
+advmod	hops	then
+conj:and	opens	hops
+advmod	hops	inside
+punct	opens	.

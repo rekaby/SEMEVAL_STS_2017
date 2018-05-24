@@ -1,0 +1,7 @@
+root	ROOT	adapt
+case	measurement	to
+det	measurement	a
+amod	measurement	specified
+nmod:to	adapt	measurement
+cc	measurement	or
+conj:or	measurement	proportion

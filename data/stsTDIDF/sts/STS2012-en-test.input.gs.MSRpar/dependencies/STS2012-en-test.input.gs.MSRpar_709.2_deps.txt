@@ -1,0 +1,16 @@
+case	court	Outside
+det	court	the
+nmod:outside	denied	court
+punct	denied	,
+nsubj	denied	Sriyanto
+root	ROOT	denied
+case	Age	to
+det	Age	The
+nmod:to	denied	Age
+mark	done	that
+nsubj	done	he
+aux	done	had
+ccomp	denied	done
+dobj	done	anything
+amod	anything	wrong
+punct	denied	.

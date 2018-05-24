@@ -1,0 +1,7 @@
+root	ROOT	express
+cc	express	or
+conj:or	express	utter
+case	hiss	with
+det	hiss	a
+nmod:with	utter	hiss
+punct	express	.

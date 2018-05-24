@@ -1,0 +1,10 @@
+compound	president	Algerian
+root	ROOT	president
+case	France	in
+nmod:in	president	France
+case	tests	for
+amod	tests	medical
+nmod:for	president	tests
+case	stroke	after
+amod	stroke	minor
+nmod:after	tests	stroke

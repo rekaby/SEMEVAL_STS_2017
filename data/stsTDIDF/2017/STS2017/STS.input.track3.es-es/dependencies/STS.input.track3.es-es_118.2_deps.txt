@@ -1,0 +1,9 @@
+det	man	A
+nsubj	bread	man
+cop	bread	is
+case	bread	in
+det	bread	the
+compound	bread	kitchen
+compound	bread	cooking
+root	ROOT	bread
+punct	bread	.

@@ -1,0 +1,14 @@
+nsubj	sure	I
+cop	sure	am
+root	ROOT	sure
+nsubj	phylosophical	this
+cop	phylosophical	is
+advmod	phylosophical	more
+ccomp	sure	phylosophical
+cc	phylosophical	and
+amod	question	ethical
+conj:and	phylosophical	question
+mark	seems	than
+nsubj	seems	it
+ccomp	phylosophical	seems
+punct	sure	.

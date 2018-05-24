@@ -1,0 +1,9 @@
+prepares	herd	nmod:to
+herd	sheep	dep
+sheep	horns	nmod:with
+prepares	dog	nsubj
+sheep	three	nummod
+prepares	.	punct
+ROOT	prepares	root
+herd	to	case
+horns	with	case

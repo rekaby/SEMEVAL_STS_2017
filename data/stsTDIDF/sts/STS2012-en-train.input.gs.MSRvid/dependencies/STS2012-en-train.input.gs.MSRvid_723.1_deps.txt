@@ -1,0 +1,5 @@
+det	woman	A
+nsubj	boils	woman
+root	ROOT	boils
+dobj	boils	eggs
+punct	boils	.

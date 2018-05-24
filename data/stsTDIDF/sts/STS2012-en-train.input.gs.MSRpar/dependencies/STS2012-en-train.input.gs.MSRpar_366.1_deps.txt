@@ -1,0 +1,12 @@
+nsubj	say	Sources
+root	ROOT	say
+nsubj	confiscated	agents
+ccomp	say	confiscated
+punct	confiscated	``
+amod	documents	several
+punct	documents	''
+dobj	confiscated	documents
+nsubj	carrying	he
+aux	carrying	was
+acl:relcl	documents	carrying
+punct	say	.

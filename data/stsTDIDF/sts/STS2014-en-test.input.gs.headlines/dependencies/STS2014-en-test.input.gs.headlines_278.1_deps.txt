@@ -1,0 +1,7 @@
+nsubj	declares	Obama
+root	ROOT	declares
+compound	law	health
+compound	law	care
+nsubj	working	law
+aux	working	is
+ccomp	declares	working

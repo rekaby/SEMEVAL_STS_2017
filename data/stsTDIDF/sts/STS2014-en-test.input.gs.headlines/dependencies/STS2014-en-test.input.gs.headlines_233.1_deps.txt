@@ -1,0 +1,9 @@
+compound	Finney	Preston
+cc	Preston	and
+conj:and	Preston	England
+compound	Finney	legend
+compound	Finney	Tom
+nsubj	dies	Finney
+root	ROOT	dies
+case	91	at
+nmod:at	dies	91

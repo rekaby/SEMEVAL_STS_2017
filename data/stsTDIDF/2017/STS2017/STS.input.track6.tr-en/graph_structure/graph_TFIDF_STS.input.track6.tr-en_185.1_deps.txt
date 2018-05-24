@@ -1,0 +1,7 @@
+persons	sports	compound
+persons	three	nummod
+posing	photo	nmod:for
+photo	for	case
+photo	the	det
+persons	posing	acl
+ROOT	persons	root

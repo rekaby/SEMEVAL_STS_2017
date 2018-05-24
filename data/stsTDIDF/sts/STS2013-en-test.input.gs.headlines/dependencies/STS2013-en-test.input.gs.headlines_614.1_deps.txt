@@ -1,0 +1,8 @@
+root	ROOT	One
+amod	One	dead
+case	strike	in
+amod	strike	new
+amod	strike	Israeli
+nmod:in	dead	strike
+case	Gaza	on
+nmod:on	strike	Gaza

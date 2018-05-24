@@ -1,0 +1,8 @@
+root	ROOT	cause
+mark	move	to
+xcomp	cause	move
+punct	cause	,
+dep	cause	cause
+mark	moved	to
+auxpass	moved	be
+xcomp	cause	moved

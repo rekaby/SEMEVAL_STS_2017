@@ -1,0 +1,13 @@
+det	man	A
+nsubj	wears	man
+case	shirt	in
+det	shirt	a
+amod	shirt	yellow
+nmod:in	man	shirt
+root	ROOT	wears
+det	mask	a
+amod	mask	gold
+punct	mask	,
+amod	mask	sun-shaped
+dobj	wears	mask
+punct	wears	.

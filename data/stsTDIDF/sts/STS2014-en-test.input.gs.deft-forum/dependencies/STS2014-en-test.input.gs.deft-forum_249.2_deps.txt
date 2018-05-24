@@ -1,0 +1,8 @@
+nsubj	need	You
+root	ROOT	need
+mark	reread	to
+xcomp	need	reread
+dobj	wrote	what
+nsubj	wrote	I
+ccomp	reread	wrote
+punct	need	.

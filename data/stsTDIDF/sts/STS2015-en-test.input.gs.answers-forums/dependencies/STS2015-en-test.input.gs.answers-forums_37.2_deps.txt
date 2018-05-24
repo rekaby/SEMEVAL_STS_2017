@@ -1,0 +1,17 @@
+case	models	According
+mwe	According	to
+amod	models	current
+nmod:according_to	both	models
+case	learning	of
+amod	learning	human
+compound	learning	concept
+nmod:of	models	learning
+punct	both	,
+det	answer	the
+nsubj	both	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+cop	both	is
+root	ROOT	both
+punct	both	.

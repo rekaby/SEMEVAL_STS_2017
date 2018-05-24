@@ -1,0 +1,6 @@
+root	ROOT	Charges
+case	attack	over
+compound	attack	dog
+nmod:over	Charges	attack
+case	police	on
+nmod:on	attack	police

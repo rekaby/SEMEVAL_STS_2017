@@ -1,0 +1,6 @@
+compound	government	Thai
+nsubj	says	government
+root	ROOT	says
+dobj	says	elections
+nmod:tmod	elections	Feb.
+nummod	Feb.	2

@@ -1,0 +1,9 @@
+nummod	greyhounds	Five
+nsubj	racing	greyhounds
+aux	racing	are
+root	ROOT	racing
+case	track	on
+det	track	a
+compound	track	sand
+nmod:on	racing	track
+punct	racing	.

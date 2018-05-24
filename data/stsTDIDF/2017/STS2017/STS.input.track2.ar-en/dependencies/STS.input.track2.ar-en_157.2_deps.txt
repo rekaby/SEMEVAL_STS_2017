@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+nummod	women	three
+nsubj	are	women
+acl	women	standing
+case	station	at
+det	station	the
+compound	station	bus
+nmod:at	standing	station
+punct	are	.

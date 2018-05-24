@@ -1,0 +1,9 @@
+compound	weapons	End
+punct	weapons	`
+case	weapons	near
+punct	weapons	'
+case	weapons	for
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+root	ROOT	weapons

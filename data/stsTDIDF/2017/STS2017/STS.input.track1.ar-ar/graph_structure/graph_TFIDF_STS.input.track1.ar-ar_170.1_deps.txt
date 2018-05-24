@@ -1,0 +1,4 @@
+holds	flower	dobj
+statue	Bird	compound
+flower	a	det
+holds	statue	nsubj

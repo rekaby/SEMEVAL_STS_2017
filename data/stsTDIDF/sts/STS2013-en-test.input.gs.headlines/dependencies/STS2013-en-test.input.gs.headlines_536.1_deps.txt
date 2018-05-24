@@ -1,0 +1,10 @@
+compound	train	Freight
+nsubj	derails	train
+root	ROOT	derails
+punct	derails	,
+amod	fire	catches
+dobj	derails	fire
+case	Columbus	in
+nmod:in	fire	Columbus
+punct	Columbus	,
+appos	Columbus	Ohio

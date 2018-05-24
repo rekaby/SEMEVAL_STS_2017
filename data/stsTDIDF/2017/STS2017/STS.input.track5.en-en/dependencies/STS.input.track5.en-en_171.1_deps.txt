@@ -1,0 +1,9 @@
+det	woman	A
+amod	woman	shirtless
+nsubj	operating	woman
+aux	operating	is
+root	ROOT	operating
+det	mower	a
+compound	mower	lawn
+dobj	operating	mower
+punct	operating	.

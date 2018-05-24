@@ -1,0 +1,11 @@
+cc	considered	And
+case	States	in
+det	States	the
+compound	States	United
+nmod:in	considered	States
+punct	considered	,
+nsubjpass	considered	we
+auxpass	considered	're
+root	ROOT	considered
+xcomp	considered	Mexican
+punct	considered	.

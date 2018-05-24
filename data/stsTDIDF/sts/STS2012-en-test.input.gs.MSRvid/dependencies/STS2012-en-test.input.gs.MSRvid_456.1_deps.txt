@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	picking	woman
+aux	picking	is
+root	ROOT	picking
+dobj	picking	tomatoes
+punct	picking	.

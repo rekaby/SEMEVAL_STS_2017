@@ -1,0 +1,6 @@
+det	state	a
+root	ROOT	state
+case	anger	of
+amod	anger	extreme
+nmod:of	state	anger
+punct	state	.

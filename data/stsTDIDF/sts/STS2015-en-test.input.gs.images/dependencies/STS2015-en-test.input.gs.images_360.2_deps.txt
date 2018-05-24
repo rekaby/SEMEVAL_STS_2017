@@ -1,0 +1,5 @@
+nsubj	play	Kids
+root	ROOT	play
+case	water	in
+det	water	the
+nmod:in	play	water

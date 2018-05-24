@@ -1,0 +1,12 @@
+boredom	about	case
+Pompeii	of	case
+century	from	case
+boredom	walls	nmod:on
+graffiti	boredom	nmod:about
+graffiti	Latin	amod
+'s	graffiti	nsubj
+walls	Pompeii	nmod:of
+century	first	amod
+dating	century	nmod:from
+walls	dating	acl
+walls	on	case

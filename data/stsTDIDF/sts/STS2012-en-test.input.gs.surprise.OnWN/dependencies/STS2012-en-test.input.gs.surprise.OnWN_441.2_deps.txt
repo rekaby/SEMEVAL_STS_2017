@@ -1,0 +1,5 @@
+root	ROOT	remove
+compound	stumps	tree
+dobj	remove	stumps
+nmod	remove	from
+punct	remove	.

@@ -1,0 +1,8 @@
+root	ROOT	process
+cc	process	or
+conj:or	process	manner
+mark	functioning	of
+acl	process	functioning
+cc	functioning	or
+conj:or	functioning	operating
+punct	process	.

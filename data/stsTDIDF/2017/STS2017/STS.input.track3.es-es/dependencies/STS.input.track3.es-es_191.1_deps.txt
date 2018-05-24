@@ -1,0 +1,13 @@
+det	woman	An
+amod	woman	old
+nsubj	sewing	woman
+aux	sewing	is
+root	ROOT	sewing
+det	sweater	a
+amod	sweater	new
+dobj	sewing	sweater
+case	room	in
+nmod:poss	room	her
+amod	room	living
+nmod:in	sewing	room
+punct	sewing	.

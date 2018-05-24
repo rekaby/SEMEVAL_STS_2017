@@ -1,0 +1,7 @@
+nsubj	kill	Taliban
+root	ROOT	kill
+nummod	police	15
+dobj	kill	police
+case	west	in
+nmod:in	kill	west
+nmod:tmod	kill	Afghanistan

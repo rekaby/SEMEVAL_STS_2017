@@ -1,0 +1,12 @@
+nsubj	has	Chiron
+advmod	has	already
+root	ROOT	has
+advmod	20	nearly
+nummod	acceptances	20
+compound	acceptances	percent
+dobj	has	acceptances
+case	shareholders	from
+nmod:poss	shareholders	PowderJect
+case	PowderJect	's
+nmod:from	acceptances	shareholders
+punct	has	.

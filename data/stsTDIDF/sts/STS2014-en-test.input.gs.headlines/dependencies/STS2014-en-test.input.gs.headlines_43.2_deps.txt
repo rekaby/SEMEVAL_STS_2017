@@ -1,0 +1,13 @@
+compound	Schumacher	Michael
+root	ROOT	Schumacher
+advmod	coma	still
+case	coma	in
+det	coma	a
+nmod:in	Schumacher	coma
+acl	coma	fighting
+case	life	for
+nmod:poss	life	his
+nmod:for	fighting	life
+case	accident	following
+compound	accident	skiing
+nmod:following	fighting	accident

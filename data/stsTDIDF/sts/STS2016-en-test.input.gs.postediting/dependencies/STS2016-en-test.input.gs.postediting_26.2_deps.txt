@@ -1,0 +1,12 @@
+root	ROOT	Has
+amod	exceptions	few
+dobj	Has	exceptions
+punct	exceptions	,
+det	street	the
+nsubj	pace	street
+aux	pace	has
+advmod	pace	always
+det	pace	the
+amod	pace	same
+appos	exceptions	pace
+punct	Has	.

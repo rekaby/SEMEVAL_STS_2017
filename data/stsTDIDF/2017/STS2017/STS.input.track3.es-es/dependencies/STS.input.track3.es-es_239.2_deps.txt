@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	man	shirt
+acl	shirt	walking
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	an
+amod	building	old
+nmod:in_front_of	walking	building
+punct	man	.

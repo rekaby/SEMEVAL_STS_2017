@@ -1,0 +1,11 @@
+root	ROOT	UNIPOL
+punct	UNIPOL	:
+compound	ROME	Court
+nsubj	remains	ROME
+punct	ROME	,
+compound	COPPOLA	DANILO
+appos	ROME	COPPOLA
+dep	UNIPOL	remains
+det	GROTTAFERRATA	A
+xcomp	remains	GROTTAFERRATA
+punct	UNIPOL	.

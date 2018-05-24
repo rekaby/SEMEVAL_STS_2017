@@ -1,0 +1,12 @@
+compound	Aware	Johnson
+cc	Johnson	&
+conj:&	Johnson	Johnson
+nsubj	#hipimplant	Aware
+case	Failure	of
+compound	%	40
+amod	Failure	%
+nmod:of	Aware	Failure
+case	Implant	in
+compound	Implant	Hip
+nmod:in	Failure	Implant
+root	ROOT	#hipimplant

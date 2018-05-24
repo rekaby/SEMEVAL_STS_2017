@@ -1,0 +1,9 @@
+case	Egypt	In
+amod	Egypt	Islamist-led
+nmod:in	pope	Egypt
+punct	pope	,
+compound	names	Coptic
+compound	names	Church
+nsubj	pope	names
+amod	pope	new
+root	ROOT	pope

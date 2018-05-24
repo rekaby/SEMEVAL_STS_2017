@@ -1,0 +1,11 @@
+det	points	the
+amod	points	tallied
+root	ROOT	points
+case	game	of
+det	game	a
+nmod:of	points	game
+punct	points	,
+case	time	at
+det	time	a
+amod	time	given
+nmod:at	points	time

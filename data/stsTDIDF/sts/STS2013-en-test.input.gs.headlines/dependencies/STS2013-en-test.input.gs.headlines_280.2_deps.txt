@@ -1,0 +1,10 @@
+root	ROOT	Palestinians
+punct	Palestinians	:
+dep	Palestinians	12
+acl	12	killed
+case	strike	in
+compound	strike	IDF
+nmod:in	killed	strike
+case	Strip	in
+amod	Strip	northern
+nmod:in	strike	Strip

@@ -1,0 +1,9 @@
+nmod:poss	president	Malawi
+case	Malawi	's
+amod	president	new
+nsubj	sworn	president
+root	ROOT	sworn
+case	elections	in
+case	elections	after
+amod	elections	disputed
+nmod:after	sworn	elections

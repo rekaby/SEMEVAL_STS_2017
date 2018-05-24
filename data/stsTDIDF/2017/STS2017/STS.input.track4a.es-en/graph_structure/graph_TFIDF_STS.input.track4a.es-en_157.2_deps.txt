@@ -1,0 +1,12 @@
+head	skirt	nmod:in
+skirt	a	det
+head	walking	conj:and
+walking	building	nmod:past
+skirt	brown	amod
+building	past	case
+building	stone	compound
+head	with	case
+skirt	in	case
+walking	sandals	nsubj
+woman	head	nmod:with
+head	shave	amod

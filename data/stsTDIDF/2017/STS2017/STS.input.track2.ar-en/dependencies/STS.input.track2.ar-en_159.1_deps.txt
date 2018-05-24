@@ -1,0 +1,4 @@
+nsubj	sleeps	Man
+root	ROOT	sleeps
+case	store	outside
+nmod:outside	sleeps	store

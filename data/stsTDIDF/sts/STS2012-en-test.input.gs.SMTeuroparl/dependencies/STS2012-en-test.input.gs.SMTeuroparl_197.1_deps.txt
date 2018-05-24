@@ -1,0 +1,12 @@
+nsubj	one	I
+cop	one	am
+root	ROOT	one
+case	Members	of
+det	Members	those
+nmod:of	one	Members
+nsubj	attends	who
+acl:relcl	Members	attends
+dobj	attends	sittings
+advmod	faithfully	quite
+advmod	attends	faithfully
+punct	one	.

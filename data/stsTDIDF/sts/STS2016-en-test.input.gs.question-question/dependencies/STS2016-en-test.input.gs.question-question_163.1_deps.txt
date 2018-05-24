@@ -1,0 +1,11 @@
+dobj	mean	What
+aux	mean	does
+nsubj	mean	it
+root	ROOT	mean
+case	university	by
+det	university	a
+punct	university	``
+compound	university	research
+nmod:by	mean	university
+punct	university	''
+punct	mean	?

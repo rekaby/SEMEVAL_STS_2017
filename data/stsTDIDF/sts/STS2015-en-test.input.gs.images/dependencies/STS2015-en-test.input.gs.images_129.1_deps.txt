@@ -1,0 +1,10 @@
+det	boy	A
+root	ROOT	boy
+cc	boy	and
+det	playing	a
+compound	playing	girl
+conj:and	boy	playing
+case	beach	on
+det	beach	the
+nmod:on	playing	beach
+punct	boy	.

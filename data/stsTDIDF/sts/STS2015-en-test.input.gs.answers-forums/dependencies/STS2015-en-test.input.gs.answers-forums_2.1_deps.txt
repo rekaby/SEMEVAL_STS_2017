@@ -1,0 +1,11 @@
+nsubj	aware	I
+cop	aware	am
+neg	aware	not
+root	ROOT	aware
+case	pools	of
+det	pools	any
+compound	pools	university
+compound	pools	run
+compound	pools	participant
+nmod:of	aware	pools
+punct	aware	.

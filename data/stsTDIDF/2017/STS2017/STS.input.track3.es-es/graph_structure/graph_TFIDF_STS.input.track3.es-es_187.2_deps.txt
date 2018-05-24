@@ -1,0 +1,16 @@
+net	in	case
+net	an	det
+squatting	standing	advcl
+squatting	is	aux
+net	empty	amod
+squatting	boy	nsubj
+squatting	net	nmod:in_front_of
+standing	him	nmod:behind
+castle	around	case
+castle	an	det
+castle	inflatable	amod
+standing	others	nsubj
+ROOT	squatting	root
+standing	castle	nmod:around
+squatting	.	punct
+standing	while	mark

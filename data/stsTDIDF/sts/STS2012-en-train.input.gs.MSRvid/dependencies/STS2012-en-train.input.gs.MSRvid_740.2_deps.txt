@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	chopping	woman
+aux	chopping	is
+root	ROOT	chopping
+det	onion	an
+dobj	chopping	onion
+case	pieces	into
+amod	pieces	small
+nmod:into	chopping	pieces
+punct	chopping	.

@@ -1,0 +1,12 @@
+be	goal	nsubj
+chats	outside	case
+chats	the	det
+chats	constant	amod
+goal	our	nmod:poss
+be	Rather	advmod
+activity	technology	conj:and
+be	feel	xcomp
+activity	and	cc
+comfortable	chats	nmod:outside
+feel	comfortable	xcomp
+chats	activity	nmod:of

@@ -1,0 +1,10 @@
+finishing	grimaces	xcomp
+finishing	cone	dobj
+camera	at	case
+finishing	boy	nsubj
+cone	cream	compound
+cone	his	nmod:poss
+cone	ice	compound
+finishing	.	punct
+grimaces	camera	nmod:at
+ROOT	finishing	root

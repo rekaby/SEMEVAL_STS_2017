@@ -1,0 +1,12 @@
+det	answer	The
+nsubj	simple	answer
+cop	simple	is
+root	ROOT	simple
+punct	simple	,
+expl	is	there
+parataxis	simple	is
+det	lack	a
+nsubj	is	lack
+case	competition	of
+nmod:of	lack	competition
+punct	simple	.

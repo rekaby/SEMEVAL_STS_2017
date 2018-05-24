@@ -1,0 +1,10 @@
+root	ROOT	DELIVER
+det	GOODS	THE
+dobj	DELIVER	GOODS
+punct	DELIVER	:
+csubj	reach	attain
+dobj	attain	success
+punct	attain	,
+parataxis	DELIVER	reach
+det	goal	a
+dobj	reach	goal

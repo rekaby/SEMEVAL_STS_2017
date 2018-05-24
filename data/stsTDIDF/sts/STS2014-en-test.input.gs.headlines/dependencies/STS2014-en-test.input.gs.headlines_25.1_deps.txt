@@ -1,0 +1,7 @@
+root	ROOT	8
+acl	8	arrested
+case	collapse	after
+amod	collapse	deadly
+amod	collapse	Bangladesh
+compound	collapse	building
+nmod:after	arrested	collapse

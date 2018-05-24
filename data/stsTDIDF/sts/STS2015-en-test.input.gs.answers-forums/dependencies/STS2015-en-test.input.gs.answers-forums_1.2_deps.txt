@@ -1,0 +1,17 @@
+mark	need	If
+nsubj	need	you
+root	ROOT	need
+mark	publish	to
+xcomp	need	publish
+det	book	the
+dobj	publish	book
+cc	need	and
+nsubj	found	you
+aux	found	have
+conj:and	need	found
+nummod	publisher	one
+dobj	found	publisher
+nsubj	allows	that
+acl:relcl	publisher	allows
+dobj	allows	it
+punct	need	.

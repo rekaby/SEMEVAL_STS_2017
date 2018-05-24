@@ -1,0 +1,10 @@
+root	ROOT	Indonesia
+punct	Indonesia	:
+compound	eruption	Schoolchildren
+case	14	among
+nmod:among	Schoolchildren	14
+acl	14	killed
+case	volcano	by
+compound	volcano	Indonesia
+nmod:by	killed	volcano
+dep	Indonesia	eruption

@@ -1,0 +1,10 @@
+det	crowd	A
+nsubj	waiting	crowd
+aux	waiting	is
+root	ROOT	waiting
+case	event	for
+det	event	an
+nmod:for	waiting	event
+mark	begin	to
+acl	event	begin
+punct	waiting	.

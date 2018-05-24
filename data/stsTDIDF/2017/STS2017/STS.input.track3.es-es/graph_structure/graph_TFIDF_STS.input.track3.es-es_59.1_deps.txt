@@ -1,0 +1,6 @@
+teacher	helping	acl
+teacher	art	compound
+helping	student	dobj
+teacher	.	punct
+ROOT	teacher	root
+teacher	An	det

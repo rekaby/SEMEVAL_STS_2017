@@ -1,0 +1,15 @@
+det	consequence	a
+root	ROOT	consequence
+conj:or	consequence	consequence
+case	efforts	of
+nmod:poss	efforts	someone
+case	someone	's
+nmod:of	consequence	efforts
+cc	consequence	or
+case	set	of
+det	set	a
+amod	set	particular
+nmod:of	consequence	set
+case	circumstances	of
+nmod:of	set	circumstances
+punct	consequence	.

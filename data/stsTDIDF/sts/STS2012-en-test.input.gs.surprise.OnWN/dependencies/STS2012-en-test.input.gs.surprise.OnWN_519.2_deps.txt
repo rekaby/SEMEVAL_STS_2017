@@ -1,0 +1,4 @@
+root	ROOT	produce
+det	click	a
+dobj	produce	click
+punct	produce	.

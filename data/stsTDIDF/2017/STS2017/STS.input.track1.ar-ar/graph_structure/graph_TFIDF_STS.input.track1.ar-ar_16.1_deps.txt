@@ -1,0 +1,9 @@
+talking	men	nmod:to
+left	on	case
+looks	left	nmod:on
+woman	for	case
+men	to	case
+man	talking	acl
+looks	man	nsubj
+looks	weird	xcomp
+talking	woman	nmod:for

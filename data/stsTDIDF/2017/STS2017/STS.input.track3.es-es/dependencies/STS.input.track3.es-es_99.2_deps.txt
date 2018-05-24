@@ -1,0 +1,13 @@
+det	fish	A
+nsubj	jumping	fish
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	out
+case	water	of
+det	water	the
+nmod:of	jumping	water
+mark	catch	to
+xcomp	jumping	catch
+det	fly	a
+dobj	catch	fly
+punct	jumping	.

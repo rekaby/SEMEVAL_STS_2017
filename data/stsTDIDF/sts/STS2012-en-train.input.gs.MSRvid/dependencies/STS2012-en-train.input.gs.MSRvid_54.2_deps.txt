@@ -1,0 +1,9 @@
+nsubj	water	People
+cop	water	are
+amod	water	sweeping
+root	ROOT	water
+case	house	out
+mwe	out	of
+det	house	a
+nmod:out_of	water	house
+punct	water	.

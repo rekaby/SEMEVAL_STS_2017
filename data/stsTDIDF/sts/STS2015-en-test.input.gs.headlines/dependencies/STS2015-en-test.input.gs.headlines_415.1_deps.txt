@@ -1,0 +1,9 @@
+nsubj	meet	Obama
+mark	meet	to
+root	ROOT	meet
+advmod	meet	privately
+case	family	with
+nmod:with	meet	family
+case	Mandela	of
+compound	Mandela	Nelson
+nmod:of	family	Mandela

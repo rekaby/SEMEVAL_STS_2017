@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+cc	dog	and
+det	dog	a
+amod	dog	brown-and-white
+nsubj	play	dog
+conj:and	dog	play
+case	field	in
+det	field	a
+nmod:in	play	field
+punct	dog	.

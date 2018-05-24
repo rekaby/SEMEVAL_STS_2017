@@ -1,0 +1,10 @@
+compound	governor	California
+nsubj	declares	governor
+root	ROOT	declares
+compound	emergency	drought
+dobj	declares	emergency
+mark	continue	as
+nsubj	continue	wildfires
+acl	emergency	continue
+mark	burn	to
+xcomp	continue	burn

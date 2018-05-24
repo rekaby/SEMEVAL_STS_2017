@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	large
+amod	dog	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+advmod	running	outside
+case	dirt	in
+det	dirt	the
+nmod:in	running	dirt
+punct	running	.

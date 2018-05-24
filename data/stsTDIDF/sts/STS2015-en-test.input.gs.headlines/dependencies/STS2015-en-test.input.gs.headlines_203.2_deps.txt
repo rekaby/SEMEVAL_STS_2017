@@ -1,0 +1,6 @@
+nsubj	holds	Military
+root	ROOT	holds
+amod	hand	upper
+dobj	holds	hand
+case	Egypt	in
+nmod:in	holds	Egypt

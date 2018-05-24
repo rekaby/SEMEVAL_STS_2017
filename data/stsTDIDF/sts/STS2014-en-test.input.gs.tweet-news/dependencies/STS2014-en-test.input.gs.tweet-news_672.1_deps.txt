@@ -1,0 +1,14 @@
+amod	article	Inspiring
+root	ROOT	article
+case	Clinton	by
+compound	Clinton	Chelsea
+nmod:by	article	Clinton
+mark	volunteering	about
+acl	article	volunteering
+det	Saturday	this
+nmod:tmod	volunteering	Saturday
+punct	article	-
+compound	Day	National
+dep	article	Day
+case	Service	of
+nmod:of	Day	Service

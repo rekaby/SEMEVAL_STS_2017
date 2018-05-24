@@ -1,0 +1,11 @@
+det	area	an
+nsubjpass	surrounded	area
+advmod	surrounded	wholly
+cc	wholly	or
+advmod	surrounded	partly
+root	ROOT	surrounded
+case	walls	by
+nmod:by	surrounded	walls
+cc	walls	or
+conj:or	walls	buildings
+punct	surrounded	.

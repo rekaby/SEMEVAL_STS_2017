@@ -1,0 +1,6 @@
+amod	forces	Syrian
+nsubj	shoot	forces
+root	ROOT	shoot
+dobj	shoot	civilians
+case	bus	on
+nmod:on	shoot	bus

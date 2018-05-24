@@ -1,0 +1,8 @@
+det	dragster	An
+amod	dragster	orange
+root	ROOT	dragster
+acl	dragster	parked
+case	runway	on
+det	runway	the
+nmod:on	parked	runway
+punct	dragster	.

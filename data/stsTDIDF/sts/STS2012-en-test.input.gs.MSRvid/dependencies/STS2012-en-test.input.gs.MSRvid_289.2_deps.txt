@@ -1,0 +1,7 @@
+nsubj	swimming	Dogs
+aux	swimming	are
+root	ROOT	swimming
+case	pool	in
+det	pool	a
+nmod:in	swimming	pool
+punct	swimming	.

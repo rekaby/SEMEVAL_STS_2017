@@ -1,0 +1,6 @@
+compound	fights	Iraq
+compound	fights	army
+root	ROOT	fights
+mark	retake	to
+acl	fights	retake
+dobj	retake	Tikrit

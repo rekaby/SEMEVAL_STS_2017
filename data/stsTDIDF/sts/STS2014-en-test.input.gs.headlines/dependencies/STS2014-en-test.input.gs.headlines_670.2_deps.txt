@@ -1,0 +1,6 @@
+nsubj	lifts	EU
+root	ROOT	lifts
+compound	sanctions	diamond
+dobj	lifts	sanctions
+case	Zimbabwe	against
+nmod:against	lifts	Zimbabwe

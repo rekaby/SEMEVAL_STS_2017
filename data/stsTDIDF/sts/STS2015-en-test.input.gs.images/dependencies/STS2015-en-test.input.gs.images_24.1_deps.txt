@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	young
+amod	girl	laughing
+nsubj	playing	girl
+cc	girl	and
+det	boy	a
+conj:and	girl	boy
+aux	playing	are
+root	ROOT	playing
+case	drum	on
+det	drum	a
+amod	drum	big
+nmod:on	playing	drum
+punct	playing	.

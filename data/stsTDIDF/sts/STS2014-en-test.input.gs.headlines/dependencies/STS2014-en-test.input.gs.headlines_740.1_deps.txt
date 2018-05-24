@@ -1,0 +1,8 @@
+nummod	Earthquakes	Two
+nsubj	Hit	Earthquakes
+root	ROOT	Hit
+compound	China	Northwest
+dobj	Hit	China
+punct	Hit	,
+dep	Hit	11
+amod	11	Dead

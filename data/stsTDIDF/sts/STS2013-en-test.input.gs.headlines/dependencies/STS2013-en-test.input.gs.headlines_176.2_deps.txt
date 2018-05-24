@@ -1,0 +1,9 @@
+compound	Trial	Jersey
+compound	Trial	Murder
+root	ROOT	Trial
+punct	Trial	:
+compound	Voices	Killer
+punct	Voices	`
+compound	Voices	Hearing
+dep	Trial	Voices
+case	Voices	'

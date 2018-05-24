@@ -1,0 +1,8 @@
+det	dogs	The
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	playing	.

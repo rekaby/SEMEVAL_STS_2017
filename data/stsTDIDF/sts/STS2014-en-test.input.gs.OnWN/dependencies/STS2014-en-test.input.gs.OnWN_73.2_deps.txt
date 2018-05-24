@@ -1,0 +1,13 @@
+det	movement	a
+amod	movement	rhythmic
+amod	movement	thrusting
+root	ROOT	movement
+case	legs	of
+det	legs	the
+nmod:of	movement	legs
+case	swimming	as
+case	swimming	in
+nmod:in	movement	swimming
+cc	swimming	or
+conj:or	swimming	calisthenics
+punct	movement	.

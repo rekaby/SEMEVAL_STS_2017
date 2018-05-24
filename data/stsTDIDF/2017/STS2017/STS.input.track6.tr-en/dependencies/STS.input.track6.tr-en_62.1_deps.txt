@@ -1,0 +1,8 @@
+det	man	a
+nsubj	holds	man
+case	surfboard	on
+det	surfboard	a
+nmod:on	man	surfboard
+root	ROOT	holds
+det	stick	a
+dobj	holds	stick

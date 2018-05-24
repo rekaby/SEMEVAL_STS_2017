@@ -1,0 +1,12 @@
+nsubj	showing	NJFF
+aux	showing	is
+root	ROOT	showing
+det	film	this
+dobj	showing	film
+case	Jan	on
+nmod:on	showing	Jan
+nummod	Jan	26
+case	University	at
+compound	University	Rutgers
+nmod:at	Jan	University
+punct	showing	:

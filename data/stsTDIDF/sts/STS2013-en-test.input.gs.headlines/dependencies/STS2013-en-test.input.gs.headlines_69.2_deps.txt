@@ -1,0 +1,8 @@
+nsubj	flock	Thousands
+root	ROOT	flock
+case	Amsterdam	to
+nmod:to	flock	Amsterdam
+case	Day	for
+nmod:poss	Day	Queen
+case	Queen	's
+nmod:for	flock	Day

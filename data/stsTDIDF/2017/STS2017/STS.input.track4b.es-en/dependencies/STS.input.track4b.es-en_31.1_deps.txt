@@ -1,0 +1,13 @@
+compound	Obama	Mr
+nsubj	has	Obama
+advmod	has	also
+root	ROOT	has
+det	part	a
+dobj	has	part
+mark	getting	in
+acl	part	getting
+dobj	getting	Israel
+case	table	to
+det	table	the
+nmod:to	getting	table
+punct	has	.

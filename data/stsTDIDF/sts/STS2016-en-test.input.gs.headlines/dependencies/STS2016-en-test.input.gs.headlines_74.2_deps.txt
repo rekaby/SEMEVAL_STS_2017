@@ -1,0 +1,7 @@
+amod	Napolitano	Italian
+compound	Napolitano	President
+nsubj	elected	Napolitano
+root	ROOT	elected
+case	term	for
+amod	term	second
+nmod:for	elected	term

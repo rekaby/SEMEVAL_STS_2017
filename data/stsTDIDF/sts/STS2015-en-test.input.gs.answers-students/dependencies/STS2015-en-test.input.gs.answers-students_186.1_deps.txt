@@ -1,0 +1,7 @@
+mark	go	Because
+nsubj	go	it
+aux	go	can
+root	ROOT	go
+case	switch	through
+nmod:through	go	switch
+dobj	go	Z

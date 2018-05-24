@@ -1,0 +1,7 @@
+amod	rebels	Mali
+nsubj	declare	rebels
+root	ROOT	declare
+amod	Azawad	independent
+punct	Azawad	`
+dobj	declare	Azawad
+punct	Azawad	'

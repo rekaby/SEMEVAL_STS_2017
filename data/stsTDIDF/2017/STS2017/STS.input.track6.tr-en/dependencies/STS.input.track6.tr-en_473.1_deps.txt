@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	waiting	people
+aux	waiting	are
+root	ROOT	waiting
+case	interview	for
+det	interview	a
+compound	interview	job
+nmod:for	waiting	interview
+punct	waiting	.

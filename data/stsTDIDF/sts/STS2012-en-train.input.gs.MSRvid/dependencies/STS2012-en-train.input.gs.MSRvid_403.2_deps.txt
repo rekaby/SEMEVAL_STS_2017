@@ -1,0 +1,13 @@
+det	cat	A
+nsubj	looks	cat
+punct	cat	,
+acl	cat	perched
+case	table	on
+det	table	a
+nmod:on	perched	table
+punct	cat	,
+root	ROOT	looks
+compound:prt	looks	out
+det	window	the
+dobj	looks	window
+punct	looks	.

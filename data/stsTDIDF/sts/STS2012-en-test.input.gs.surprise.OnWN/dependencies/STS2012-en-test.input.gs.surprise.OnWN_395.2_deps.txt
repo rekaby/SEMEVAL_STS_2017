@@ -1,0 +1,7 @@
+root	ROOT	someone
+nsubj	cleans	who
+acl:relcl	someone	cleans
+dobj	cleans	soot
+case	chimneys	from
+nmod:from	cleans	chimneys
+punct	someone	.

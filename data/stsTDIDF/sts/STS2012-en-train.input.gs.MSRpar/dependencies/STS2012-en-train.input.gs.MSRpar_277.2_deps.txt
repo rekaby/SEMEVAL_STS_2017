@@ -1,0 +1,12 @@
+det	matter	The
+nsubjpass	sent	matter
+aux	sent	could
+advmod	sent	then
+auxpass	sent	be
+root	ROOT	sent
+case	Council	to
+det	Council	the
+compound	Council	U.N.
+compound	Council	Security
+nmod:to	sent	Council
+punct	sent	.

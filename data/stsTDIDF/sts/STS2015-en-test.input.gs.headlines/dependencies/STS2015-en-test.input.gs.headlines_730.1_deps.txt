@@ -1,0 +1,11 @@
+amod	envoy	Chinese
+nsubj	rebuts	envoy
+root	ROOT	rebuts
+dobj	rebuts	Vietnamese
+punct	Vietnamese	,
+amod	accusations	Philippine
+nsubj	Sea	accusations
+case	China	over
+compound	China	South
+nmod:over	accusations	China
+appos	Vietnamese	Sea

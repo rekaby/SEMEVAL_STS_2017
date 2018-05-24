@@ -1,0 +1,15 @@
+root	ROOT	July
+nummod	July	18
+punct	July	:
+compound	files	Hurlbert
+dep	July	files
+det	count	a
+amod	count	single
+dobj	files	count
+case	assault	of
+compound	assault	felony
+amod	assault	sexual
+nmod:of	count	assault
+case	Bryant	against
+nmod:against	assault	Bryant
+punct	July	.

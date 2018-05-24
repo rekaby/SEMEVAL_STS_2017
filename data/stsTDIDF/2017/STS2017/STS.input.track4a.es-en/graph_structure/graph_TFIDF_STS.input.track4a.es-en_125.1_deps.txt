@@ -1,0 +1,5 @@
+walking	outdoors	advmod
+walking	is	aux
+walking	couple	nsubj
+walking	dogs	dobj
+dogs	their	nmod:poss

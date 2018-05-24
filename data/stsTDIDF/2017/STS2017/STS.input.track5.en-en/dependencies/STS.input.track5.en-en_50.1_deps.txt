@@ -1,0 +1,10 @@
+det	girl	a
+root	ROOT	girl
+case	vases	with
+nmod:with	girl	vases
+case	background	in
+det	background	the
+nmod:in	vases	background
+case	house	inside
+nmod:poss	house	her
+nmod:inside	background	house

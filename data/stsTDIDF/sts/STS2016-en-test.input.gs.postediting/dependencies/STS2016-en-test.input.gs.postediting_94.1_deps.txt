@@ -1,0 +1,14 @@
+nsubj	need	They
+advmod	need	desperately
+root	ROOT	need
+nsubj	shows	this
+punct	shows	,
+advmod	shows	indeed
+punct	shows	,
+cc	shows	and
+nsubj	shows	I
+ccomp	need	shows
+nsubj	example	you
+det	example	an
+dobj	shows	example
+punct	need	.

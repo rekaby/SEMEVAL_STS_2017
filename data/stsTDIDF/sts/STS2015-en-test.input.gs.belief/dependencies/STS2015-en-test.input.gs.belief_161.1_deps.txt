@@ -1,0 +1,14 @@
+cc	said	but
+nsubj	said	you
+root	ROOT	said
+nmod:poss	clients	your
+nsubj	loosening	clients
+aux	loosening	were
+ccomp	said	loosening
+compound:prt	loosening	up
+cc	loosening	and
+conj:and	loosening	starting
+mark	hire	to
+xcomp	starting	hire
+advmod	hire	again
+punct	said	.

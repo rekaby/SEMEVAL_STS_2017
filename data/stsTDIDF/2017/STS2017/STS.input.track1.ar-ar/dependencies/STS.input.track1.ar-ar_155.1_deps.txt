@@ -1,0 +1,8 @@
+root	ROOT	People
+acl	People	playing
+dobj	playing	music
+mark	celebrate	to
+advcl	playing	celebrate
+det	week	this
+nmod:tmod	celebrate	week
+punct	People	.

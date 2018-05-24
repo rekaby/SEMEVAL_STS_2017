@@ -1,0 +1,14 @@
+punct	theology	-LRB-
+root	ROOT	theology
+punct	theology	-RRB-
+det	act	the
+dep	theology	act
+case	deliving	of
+nmod:of	act	deliving
+case	sin	from
+nmod:from	deliving	sin
+cc	act	or
+conj:or	act	saving
+case	evil	from
+nmod:from	saving	evil
+punct	theology	.

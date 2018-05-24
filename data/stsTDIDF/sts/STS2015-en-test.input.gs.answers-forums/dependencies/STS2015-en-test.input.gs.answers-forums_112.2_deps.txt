@@ -1,0 +1,11 @@
+nsubj	appears	It
+root	ROOT	appears
+mark	started	as
+mark	started	though
+nsubj	started	it
+aux	started	has
+advmod	started	likely
+advcl	appears	started
+case	bolt	to
+nmod:to	started	bolt
+punct	appears	.

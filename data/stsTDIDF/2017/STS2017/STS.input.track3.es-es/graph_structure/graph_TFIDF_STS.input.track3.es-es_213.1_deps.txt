@@ -1,0 +1,5 @@
+people	sitting	acl
+people	several	amod
+sitting	floor	nmod:on
+sitting	building	nmod:inside
+building	inside	case

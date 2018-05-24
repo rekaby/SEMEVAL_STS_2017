@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	stands	boy
+root	ROOT	stands
+case	bridge	over
+det	bridge	a
+nmod:over	stands	bridge
+case	pole	with
+det	pole	a
+compound	pole	fishing
+nmod:with	bridge	pole
+punct	stands	.

@@ -1,0 +1,10 @@
+root	ROOT	shine
+advmod	shine	brightly
+punct	shine	,
+case	star	like
+det	star	a
+nmod:like	shine	star
+cc	star	or
+det	light	a
+conj:or	star	light
+punct	shine	.

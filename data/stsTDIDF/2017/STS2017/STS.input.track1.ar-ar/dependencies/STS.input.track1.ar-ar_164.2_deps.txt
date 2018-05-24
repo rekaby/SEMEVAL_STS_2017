@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	helping
+det	girl	a
+amod	girl	little
+dobj	helping	girl
+mark	ride	to
+xcomp	helping	ride
+det	bike	a
+dobj	ride	bike
+punct	man	.

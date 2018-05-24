@@ -1,0 +1,6 @@
+det	player	A
+nsubj	bounces	player
+root	ROOT	bounces
+det	ball	a
+dobj	bounces	ball
+punct	bounces	.

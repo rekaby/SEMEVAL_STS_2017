@@ -1,0 +1,6 @@
+plays	game	dobj
+plays	boy	nsubj
+mCDonald	at	case
+plays	mCDonald	nmod:'s
+game	video	compound
+mCDonald	's	case

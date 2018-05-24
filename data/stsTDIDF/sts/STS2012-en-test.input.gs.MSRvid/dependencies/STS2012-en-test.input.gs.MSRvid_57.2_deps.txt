@@ -1,0 +1,7 @@
+det	man	A
+nsubj	carving	man
+aux	carving	is
+root	ROOT	carving
+det	statue	a
+dobj	carving	statue
+punct	carving	.

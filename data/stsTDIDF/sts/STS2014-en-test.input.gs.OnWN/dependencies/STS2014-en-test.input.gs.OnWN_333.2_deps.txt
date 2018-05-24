@@ -1,0 +1,13 @@
+det	chart	a
+root	ROOT	chart
+cc	chart	or
+conj:or	chart	map
+acl	chart	showing
+det	movements	the
+dobj	showing	movements
+cc	movements	or
+conj:or	movements	progress
+case	object	of
+det	object	an
+nmod:of	movements	object
+punct	chart	.

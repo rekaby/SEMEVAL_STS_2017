@@ -1,0 +1,14 @@
+compound	buses	Red
+nsubjpass	parked	buses
+auxpass	parked	are
+root	ROOT	parked
+case	building	by
+det	building	a
+amod	building	large
+amod	building	white
+nmod:agent	parked	building
+case	garden	beside
+det	garden	a
+amod	garden	formal
+nmod:beside	parked	garden
+punct	parked	.

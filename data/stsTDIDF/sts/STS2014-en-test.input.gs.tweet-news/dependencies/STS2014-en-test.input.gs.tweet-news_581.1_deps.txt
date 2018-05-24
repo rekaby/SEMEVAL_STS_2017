@@ -1,0 +1,8 @@
+root	ROOT	Allergy-bullying
+punct	Allergy-bullying	?-2) advmod(problem-6, Apparently
+nsubj	problem	this
+cop	problem	is
+det	problem	a
+amod	problem	real
+root	ROOT	problem
+punct	problem	.

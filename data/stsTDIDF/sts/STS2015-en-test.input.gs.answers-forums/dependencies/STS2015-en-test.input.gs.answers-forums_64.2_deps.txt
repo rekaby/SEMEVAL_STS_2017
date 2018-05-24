@@ -1,0 +1,16 @@
+expl	are	There
+root	ROOT	are
+advmod	types	basically
+nummod	types	two
+nsubj	are	types
+case	cakes	of
+nmod:of	types	cakes
+punct	types	:
+dep	types	butter
+cc	butter	and
+conj:and	butter	sponge
+punct	Génoise	-LRB-
+cc	Génoise	or
+dep	butter	Génoise
+punct	Génoise	-RRB-
+punct	are	.

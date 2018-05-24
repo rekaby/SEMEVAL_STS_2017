@@ -1,0 +1,11 @@
+det	market	The
+amod	market	Czech
+nsubj	comparison	market
+cop	comparison	is
+case	comparison	in
+root	ROOT	comparison
+case	specific	with
+amod	specific	other
+advmod	specific	very
+nmod:with	comparison	specific
+punct	comparison	.

@@ -1,0 +1,13 @@
+det	answers	The
+amod	answers	other
+nsubj	fantastic	answers
+advmod	answers	here
+cop	fantastic	are
+root	ROOT	fantastic
+mark	explaining	at
+advcl	fantastic	explaining
+case	sense	in
+det	sense	a
+amod	sense	technical
+nmod:in	explaining	sense
+punct	fantastic	.

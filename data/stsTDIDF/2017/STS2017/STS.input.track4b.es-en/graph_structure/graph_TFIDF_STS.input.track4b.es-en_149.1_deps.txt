@@ -1,0 +1,12 @@
+blanket	his	nmod:poss
+cover	blanket	nmod:with
+testified	given	ccomp
+count	head	compound
+given	chance	dobj
+cover	count	nmod:during
+testified	Manning	nsubj
+cover	himself	dobj
+blanket	with	case
+count	during	case
+chance	cover	acl
+testified	had	aux

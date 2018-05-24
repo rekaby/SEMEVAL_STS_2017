@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+case	water	outside
+case	water	near
+det	water	the
+nmod:near	man	water

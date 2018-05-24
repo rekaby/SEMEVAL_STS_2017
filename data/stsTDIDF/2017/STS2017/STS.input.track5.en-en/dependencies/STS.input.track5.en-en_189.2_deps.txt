@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	enjoying	woman
+aux	enjoying	is
+root	ROOT	enjoying
+det	weather	the
+compound	weather	summer
+dobj	enjoying	weather
+punct	enjoying	.

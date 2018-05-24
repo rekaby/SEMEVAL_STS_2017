@@ -1,0 +1,7 @@
+root	ROOT	carry
+case	backpack	as
+det	backpack	a
+nmod:as	carry	backpack
+punct	carry	,
+conj	carry	go
+dobj	go	backpacking

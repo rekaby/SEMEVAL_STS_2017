@@ -1,0 +1,12 @@
+det	man	The
+nsubj	running	man
+cc	man	and
+det	horse	the
+conj:and	man	horse
+aux	running	are
+root	ROOT	running
+advmod	running	away
+case	police	from
+det	police	the
+nmod:from	running	police
+punct	running	.

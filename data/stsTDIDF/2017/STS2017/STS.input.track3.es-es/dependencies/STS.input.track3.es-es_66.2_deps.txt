@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	playing
+case	field	in
+det	field	a
+nmod:in	playing	field
+punct	dog	.

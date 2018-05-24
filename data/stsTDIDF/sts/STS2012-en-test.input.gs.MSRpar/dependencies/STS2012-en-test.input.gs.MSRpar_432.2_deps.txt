@@ -1,0 +1,14 @@
+nsubj	passed	Congress
+advmod	passed	twice
+root	ROOT	passed
+amod	bills	similar
+dobj	passed	bills
+punct	passed	,
+cc	passed	but
+amod	Clinton	then-President
+nsubj	vetoed	Clinton
+conj:but	passed	vetoed
+dobj	vetoed	them
+det	times	both
+nmod:tmod	vetoed	times
+punct	passed	.

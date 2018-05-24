@@ -1,0 +1,11 @@
+det	person	A
+nsubj	throwing	person
+aux	throwing	is
+root	ROOT	throwing
+det	cat	a
+dobj	throwing	cat
+case	ceiling	on
+case	ceiling	to
+det	ceiling	the
+nmod:to	throwing	ceiling
+punct	throwing	.

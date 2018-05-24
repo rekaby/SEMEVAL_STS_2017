@@ -1,0 +1,11 @@
+det	boy	An
+amod	boy	Asian
+nsubj	standing	boy
+cc	boy	and
+det	man	a
+conj:and	boy	man
+aux	standing	are
+root	ROOT	standing
+case	Starbucks	outside
+nmod:outside	standing	Starbucks
+punct	standing	.

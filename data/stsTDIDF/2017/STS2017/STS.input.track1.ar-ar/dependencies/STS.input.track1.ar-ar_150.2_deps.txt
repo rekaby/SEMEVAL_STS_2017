@@ -1,0 +1,15 @@
+compound	street	Cross
+det	street	the
+root	ROOT	street
+det	woman	a
+nsubj	buses	woman
+punct	woman	,
+acl	woman	seeing
+det	camera	the
+dobj	seeing	camera
+cop	buses	are
+case	buses	among
+det	buses	the
+nummod	buses	two
+acl:relcl	street	buses
+punct	street	.

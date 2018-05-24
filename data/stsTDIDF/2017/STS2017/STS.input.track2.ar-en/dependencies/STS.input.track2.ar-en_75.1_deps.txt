@@ -1,0 +1,6 @@
+det	family	The
+nsubj	gets	family
+root	ROOT	gets
+det	portrait	a
+dobj	gets	portrait
+acl	portrait	taken

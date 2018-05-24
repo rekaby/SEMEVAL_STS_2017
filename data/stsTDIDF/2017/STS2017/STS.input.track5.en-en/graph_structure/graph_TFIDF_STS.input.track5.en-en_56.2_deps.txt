@@ -1,0 +1,9 @@
+couch	cat	nmod:with
+sitting	man	nsubj
+couch	red	amod
+man	jacket	nmod:in
+jacket	in	case
+couch	a	det
+cat	with	case
+jacket	suit	compound
+sitting	couch	nmod:on

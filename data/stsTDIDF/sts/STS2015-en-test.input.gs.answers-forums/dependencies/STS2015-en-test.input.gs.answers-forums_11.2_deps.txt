@@ -1,0 +1,17 @@
+nsubj	defer	You
+aux	defer	could
+root	ROOT	defer
+dobj	defer	admission
+punct	defer	,
+cc	defer	but
+nsubj	little	it
+cop	little	's
+det	little	a
+conj:but	defer	little
+xcomp	little	unusual
+mark	defer	to
+xcomp	unusual	defer
+case	year	for
+det	year	a
+nmod:for	defer	year
+punct	defer	.

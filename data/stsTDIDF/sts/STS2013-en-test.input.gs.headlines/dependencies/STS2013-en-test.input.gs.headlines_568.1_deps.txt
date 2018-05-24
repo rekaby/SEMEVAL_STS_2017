@@ -1,0 +1,7 @@
+root	ROOT	Sensex
+compound:prt	Sensex	down
+nummod	points	193
+dobj	Sensex	points
+case	blues	on
+compound	blues	budget
+nmod:on	points	blues

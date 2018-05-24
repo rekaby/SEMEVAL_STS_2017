@@ -1,0 +1,9 @@
+hair	dark	amod
+girl	hair	nmod:with
+sitting	looking	conj:and
+shoulder	her	nmod:poss
+sitting	table	nmod:at
+looking	shoulder	nmod:over
+shoulder	over	case
+sitting	girl	nsubj
+hair	brown	amod

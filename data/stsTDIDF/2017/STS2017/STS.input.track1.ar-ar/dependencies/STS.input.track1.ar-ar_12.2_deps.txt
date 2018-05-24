@@ -1,0 +1,10 @@
+nsubj	carrying	Women
+root	ROOT	carrying
+det	work	a
+dobj	carrying	work
+case	art	of
+nmod:of	work	art
+case	school	at
+det	school	the
+nmod:at	carrying	school
+punct	carrying	.

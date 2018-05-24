@@ -1,0 +1,12 @@
+case	market	In
+det	market	the
+amod	market	busy
+compound	market	production
+root	ROOT	market
+punct	market	,
+amod	shop	many
+compound	shop	people
+root	,	shop
+cc	shop	and
+conj:and	shop	sell
+punct	shop	.

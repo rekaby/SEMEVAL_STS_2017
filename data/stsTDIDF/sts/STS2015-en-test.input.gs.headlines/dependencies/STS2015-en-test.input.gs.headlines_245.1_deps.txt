@@ -1,0 +1,10 @@
+punct	base	`
+compound	base	Western
+punct	base	'
+compound	base	forces
+compound	base	attack
+amod	base	Islamic
+amod	base	militant
+root	ROOT	base
+case	Somalia	in
+nmod:in	base	Somalia

@@ -1,0 +1,8 @@
+amod	ship	Large
+amod	ship	white
+compound	ship	cruise
+nsubj	floating	ship
+root	ROOT	floating
+case	water	on
+nmod:on	floating	water
+punct	floating	.

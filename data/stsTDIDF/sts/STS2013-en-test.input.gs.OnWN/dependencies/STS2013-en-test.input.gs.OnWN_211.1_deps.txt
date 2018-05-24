@@ -1,0 +1,7 @@
+det	store	a
+amod	store	retail
+root	ROOT	store
+case	merchandise	with
+nmod:with	store	merchandise
+case	sale	for
+nmod:for	store	sale

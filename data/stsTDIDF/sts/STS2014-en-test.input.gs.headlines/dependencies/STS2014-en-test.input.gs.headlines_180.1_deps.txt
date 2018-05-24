@@ -1,0 +1,5 @@
+nsubj	meets	Obama
+root	ROOT	meets
+case	family	with
+compound	family	Mandela
+nmod:with	meets	family

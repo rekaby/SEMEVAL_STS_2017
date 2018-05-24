@@ -1,0 +1,14 @@
+nsubj	says	Iran
+root	ROOT	says
+nsubj	seized	it
+aux	seized	has
+ccomp	says	seized
+compound	drone	U.S.
+dobj	seized	drone
+punct	says	;
+nsubj	says	U.S.
+parataxis	says	says
+nsubj	true	it
+cop	true	's
+neg	true	not
+ccomp	says	true

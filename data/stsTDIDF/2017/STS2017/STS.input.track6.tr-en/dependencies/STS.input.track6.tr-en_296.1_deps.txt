@@ -1,0 +1,9 @@
+det	worker	A
+nsubj	destroying	worker
+aux	destroying	is
+root	ROOT	destroying
+det	artist	an
+nmod:poss	work	artist
+case	artist	's
+dobj	destroying	work
+punct	destroying	.

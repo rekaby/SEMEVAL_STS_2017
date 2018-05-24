@@ -1,0 +1,5 @@
+compound	Outreach	NYPD
+compound	Outreach	Twitter
+nsubj	Backfires	Outreach
+root	ROOT	Backfires
+advmod	Backfires	Badly

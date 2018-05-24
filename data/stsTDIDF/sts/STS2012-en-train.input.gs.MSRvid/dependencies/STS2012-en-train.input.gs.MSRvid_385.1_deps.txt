@@ -1,0 +1,7 @@
+det	man	The
+nsubj	danced	man
+root	ROOT	danced
+case	diner	in
+det	diner	the
+nmod:in	danced	diner
+punct	danced	.

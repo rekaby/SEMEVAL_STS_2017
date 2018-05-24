@@ -1,0 +1,6 @@
+ready	Mission	nsubj
+agree	Libya	nmod:on
+Libya	on	case
+ready	over	advmod
+ready	agree	xcomp
+ready	Congress	nsubj

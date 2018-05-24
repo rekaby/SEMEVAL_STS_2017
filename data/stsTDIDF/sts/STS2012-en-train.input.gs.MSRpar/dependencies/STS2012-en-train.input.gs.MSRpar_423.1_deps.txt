@@ -1,0 +1,15 @@
+nsubj	descended	Selenski
+root	ROOT	descended
+compound:prt	descended	down
+det	wall	the
+dobj	descended	wall
+cc	descended	and
+conj:and	descended	used
+det	mattress	the
+dobj	used	mattress
+mark	climb	to
+xcomp	used	climb
+case	wire	over
+compound	wire	razor
+nmod:over	climb	wire
+punct	descended	.

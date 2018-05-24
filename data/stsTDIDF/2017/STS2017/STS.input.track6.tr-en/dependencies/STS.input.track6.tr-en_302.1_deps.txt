@@ -1,0 +1,6 @@
+nsubj	run	Kids
+root	ROOT	run
+case	field	in
+det	field	a
+nmod:in	run	field
+punct	run	.

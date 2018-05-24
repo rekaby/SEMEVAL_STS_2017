@@ -1,0 +1,11 @@
+nsubj	greater	exceed
+cc	exceed	or
+conj:or	exceed	surpass
+punct	exceed	,
+conj:or	exceed	go
+advmod	go	beyond
+punct	exceed	,
+cop	greater	be
+root	ROOT	greater
+case	something	than
+nmod:than	greater	something

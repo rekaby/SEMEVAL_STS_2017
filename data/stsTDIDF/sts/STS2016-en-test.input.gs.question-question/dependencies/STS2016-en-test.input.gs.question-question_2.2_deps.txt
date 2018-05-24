@@ -1,0 +1,15 @@
+advmod	figure	How
+aux	figure	can
+nsubj	figure	I
+root	ROOT	figure
+compound:prt	figure	out
+advmod	tripping	why
+nmod:poss	machine	my
+amod	machine	washing
+nsubj	tripping	machine
+aux	tripping	is
+advcl	figure	tripping
+det	receptacle	the
+compound	receptacle	GFCI
+dobj	tripping	receptacle
+punct	figure	?

@@ -1,0 +1,11 @@
+nsubj	play	Women
+root	ROOT	play
+det	race	a
+compound	race	ski
+dobj	play	race
+cc	play	and
+conj:and	play	fell
+dobj	fell	one
+acl	one	wearing
+dobj	wearing	yellow
+punct	play	.

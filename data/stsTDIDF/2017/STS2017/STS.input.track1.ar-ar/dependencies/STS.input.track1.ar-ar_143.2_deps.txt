@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	walks	woman
+root	ROOT	walks
+case	restaurant	next
+mwe	next	to
+det	restaurant	a
+nmod:next_to	walks	restaurant
+acl	restaurant	serving
+amod	food	fast
+dobj	serving	food
+punct	walks	.

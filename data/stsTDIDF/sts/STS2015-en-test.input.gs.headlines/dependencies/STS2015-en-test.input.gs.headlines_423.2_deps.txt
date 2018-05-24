@@ -1,0 +1,8 @@
+compound	bomb	Roadside
+nsubj	kills	bomb
+root	ROOT	kills
+nummod	policemen	3
+dobj	kills	policemen
+case	Afghanistan	in
+amod	Afghanistan	southern
+nmod:in	kills	Afghanistan

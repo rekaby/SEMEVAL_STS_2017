@@ -1,0 +1,8 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	rock	on
+det	rock	a
+nmod:on	sitting	rock
+punct	sitting	.

@@ -1,0 +1,11 @@
+nsubj	stays	Weiner
+root	ROOT	stays
+case	race	in
+compound	mayor	NYC
+nmod:poss	race	mayor
+case	mayor	's
+nmod:in	stays	race
+case	scandal	amid
+amod	scandal	new
+amod	scandal	sexting
+nmod:amid	stays	scandal

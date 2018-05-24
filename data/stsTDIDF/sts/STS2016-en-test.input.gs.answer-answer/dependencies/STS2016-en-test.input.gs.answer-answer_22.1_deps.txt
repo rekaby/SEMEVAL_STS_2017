@@ -1,0 +1,6 @@
+mark	give	To
+root	ROOT	give
+det	answer	this
+det	answer	an
+dobj	give	answer
+punct	give	:

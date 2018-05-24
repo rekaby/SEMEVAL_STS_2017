@@ -1,0 +1,6 @@
+det	player	A
+root	ROOT	player
+acl	player	catching
+det	ball	a
+dobj	catching	ball
+punct	player	.

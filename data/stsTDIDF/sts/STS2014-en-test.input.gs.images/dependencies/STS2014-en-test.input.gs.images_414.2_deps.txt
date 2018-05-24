@@ -1,0 +1,9 @@
+det	motorcycle	A
+amod	motorcycle	blue
+nsubjpass	parked	motorcycle
+auxpass	parked	is
+root	ROOT	parked
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	parked	sidewalk
+punct	parked	.

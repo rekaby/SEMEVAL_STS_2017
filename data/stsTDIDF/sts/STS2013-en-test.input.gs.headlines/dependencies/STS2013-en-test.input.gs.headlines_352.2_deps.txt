@@ -1,0 +1,8 @@
+nsubj	blames	Israel
+root	ROOT	blames
+dobj	blames	Iran
+case	attacks	for
+nmod:for	blames	attacks
+case	diplomats	on
+nmod:poss	diplomats	its
+nmod:on	attacks	diplomats

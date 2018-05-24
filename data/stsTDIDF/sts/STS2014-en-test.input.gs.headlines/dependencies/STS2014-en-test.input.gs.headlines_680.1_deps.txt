@@ -1,0 +1,8 @@
+amod	strike	Suspected
+compound	strike	U.S.
+compound	strike	drone
+nsubj	kills	strike
+root	ROOT	kills
+dobj	kills	5
+case	Pakistan	in
+nmod:in	kills	Pakistan

@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	kneels	girl
+root	ROOT	kneels
+case	ground	on
+det	ground	the
+nmod:on	kneels	ground
+case	friend	with
+nmod:poss	friend	her
+nmod:with	kneels	friend
+punct	kneels	.

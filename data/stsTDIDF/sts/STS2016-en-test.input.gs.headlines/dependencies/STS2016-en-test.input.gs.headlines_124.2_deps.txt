@@ -1,0 +1,7 @@
+root	ROOT	Who
+cop	Who	was
+punct	John	`
+compound	John	Jihadi
+nsubj	Who	John
+punct	Who	?
+punct	Who	'

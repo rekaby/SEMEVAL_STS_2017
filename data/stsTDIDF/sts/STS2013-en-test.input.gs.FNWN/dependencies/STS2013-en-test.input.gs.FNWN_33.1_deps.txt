@@ -1,0 +1,12 @@
+det	frame	this
+nsubj	contains	frame
+root	ROOT	contains
+dobj	contains	words
+nsubj	describe	that
+acl:relcl	words	describe
+advmod	potent	how
+dep	is	potent
+det	chemical	a
+nsubj	is	chemical
+ccomp	describe	is
+punct	contains	.

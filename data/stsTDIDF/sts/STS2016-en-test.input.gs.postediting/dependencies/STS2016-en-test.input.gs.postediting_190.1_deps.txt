@@ -1,0 +1,15 @@
+punct	know	``
+nsubj	know	We
+dep	said	know
+advmod	take	how
+mark	take	to
+ccomp	know	take
+det	step	a
+dobj	take	step
+advmod	take	back
+punct	know	,
+punct	know	''
+root	ROOT	said
+compound	Jansen	Marcell
+nsubj	said	Jansen
+punct	said	.

@@ -1,0 +1,26 @@
+det	agent	an
+nsubj	effort	agent
+compound	effort	expends
+root	ROOT	effort
+mark	achieving	towards
+acl	effort	achieving
+det	goal	a
+dobj	achieving	goal
+punct	effort	.-9) advmod(expressed-11, alternatively
+punct	expressed	,
+det	salient_entity	a
+nsubjpass	expressed	salient_entity
+acl	salient_entity	involved
+case	goal	in
+det	goal	the
+nmod:in	involved	goal
+aux	expressed	can
+auxpass	expressed	be
+root	ROOT	expressed
+case	expression	in
+mwe	in	place
+mwe	in	of
+det	expression	a
+compound	expression	goal
+nmod:in_place_of	expressed	expression
+punct	expressed	.

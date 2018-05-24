@@ -1,0 +1,8 @@
+det	meeting	a
+root	ROOT	meeting
+acl	meeting	devoted
+case	activity	to
+det	activity	a
+amod	activity	particular
+nmod:to	devoted	activity
+punct	meeting	.

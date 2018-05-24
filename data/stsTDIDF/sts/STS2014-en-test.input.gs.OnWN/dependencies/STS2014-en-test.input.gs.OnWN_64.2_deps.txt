@@ -1,0 +1,9 @@
+root	ROOT	save
+cc	save	or
+conj:or	save	relieve
+case	experience	from
+det	experience	an
+nmod:from	relieve	experience
+cc	experience	or
+conj:or	experience	action
+punct	save	.

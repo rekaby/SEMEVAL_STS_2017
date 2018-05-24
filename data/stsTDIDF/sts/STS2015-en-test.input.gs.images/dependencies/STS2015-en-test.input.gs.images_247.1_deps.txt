@@ -1,0 +1,17 @@
+det	boy	A
+root	ROOT	boy
+case	waves	in
+amod	waves	black
+nmod:in	boy	waves
+nmod:poss	arms	his
+dep	waves	arms
+mark	him	while
+amod	people	other
+nsubj	him	people
+cop	him	are
+case	him	behind
+dep	arms	him
+case	field	on
+det	field	a
+nmod:on	him	field
+punct	boy	.

@@ -1,0 +1,8 @@
+root	ROOT	Police
+punct	Police	:
+nsubj	killed	Gunman
+dep	Police	killed
+dobj	killed	6
+case	California	in
+nmod:in	killed	California
+dep	killed	shootings

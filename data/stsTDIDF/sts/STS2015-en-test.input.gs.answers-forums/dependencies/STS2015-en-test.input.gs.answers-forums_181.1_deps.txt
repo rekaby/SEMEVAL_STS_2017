@@ -1,0 +1,16 @@
+nmod:poss	daughter	Our
+nsubj	loved	daughter
+aux	loved	has
+advmod	loved	always
+root	ROOT	loved
+nmod:poss	bath	her
+dobj	loved	bath
+punct	loved	,
+cc	loved	but
+conj:but	loved	coming
+compound:prt	coming	out
+punct	coming	...
+neg	much	not
+advmod	much	so
+dep	coming	much
+punct	loved	.

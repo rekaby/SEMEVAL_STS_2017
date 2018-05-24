@@ -1,0 +1,17 @@
+nmod:poss	Theorem	Bayes
+case	Bayes	'
+nsubj	theorem	Theorem
+cop	theorem	is
+det	theorem	a
+root	ROOT	theorem
+case	theory	of
+compound	theory	probability
+nmod:of	theorem	theory
+advmod	stated	originally
+acl	theory	stated
+case	Bayes	by
+det	Bayes	the
+compound	Bayes	Reverend
+compound	Bayes	Thomas
+nmod:by	stated	Bayes
+punct	theorem	.

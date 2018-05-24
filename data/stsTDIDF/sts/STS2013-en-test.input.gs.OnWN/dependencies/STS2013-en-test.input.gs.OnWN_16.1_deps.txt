@@ -1,0 +1,7 @@
+root	ROOT	behave
+cc	behave	or
+conj:or	behave	move
+case	manner	in
+det	manner	a
+amod	manner	certain
+nmod:in	move	manner

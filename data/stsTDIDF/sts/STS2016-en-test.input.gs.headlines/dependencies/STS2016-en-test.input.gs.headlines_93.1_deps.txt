@@ -1,0 +1,9 @@
+nmod:poss	PM	Syria
+case	Syria	's
+nsubj	escapes	PM
+root	ROOT	escapes
+nsubj	try	assassination
+ccomp	escapes	try
+punct	escapes	,
+nsubj	says	regime
+parataxis	escapes	says

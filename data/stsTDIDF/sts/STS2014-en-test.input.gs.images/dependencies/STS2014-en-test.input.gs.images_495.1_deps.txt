@@ -1,0 +1,9 @@
+det	women	A
+root	ROOT	women
+acl	women	standing
+case	cow	next
+mwe	next	to
+det	cow	a
+amod	cow	brown
+nmod:next_to	standing	cow
+punct	women	.

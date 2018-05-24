@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	sewing	woman
+aux	sewing	is
+root	ROOT	sewing
+case	machine	on
+det	machine	a
+nmod:on	sewing	machine
+punct	sewing	.

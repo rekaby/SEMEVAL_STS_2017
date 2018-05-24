@@ -1,0 +1,11 @@
+cc	spent	and
+nsubj	spent	he
+root	ROOT	spent
+nmod:poss	money	his
+dobj	spent	money
+case	things	on
+nmod:on	spent	things
+nsubj	cared	he
+acl:relcl	things	cared
+advmod	cared	about
+punct	spent	.

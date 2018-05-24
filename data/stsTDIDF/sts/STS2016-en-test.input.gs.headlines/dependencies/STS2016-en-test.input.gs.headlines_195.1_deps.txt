@@ -1,0 +1,6 @@
+compound	toll	Nepal
+compound	toll	earthquake
+compound	toll	death
+nsubj	surpasses	toll
+root	ROOT	surpasses
+dobj	surpasses	7,000

@@ -1,0 +1,8 @@
+amod	scooter	Yellow
+root	ROOT	scooter
+acl	scooter	parked
+case	way	in
+det	way	an
+compound	way	alley
+nmod:in	parked	way
+punct	scooter	.

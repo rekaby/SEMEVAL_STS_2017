@@ -1,0 +1,5 @@
+compound	Counterproposals	Russia
+compound	Counterproposals	Preparing
+root	ROOT	Counterproposals
+case	Ukraine	Over
+nmod:over	Counterproposals	Ukraine

@@ -1,0 +1,17 @@
+det	man	A
+nsubj	sits	man
+root	ROOT	sits
+case	rock	on
+det	rock	a
+nmod:on	sits	rock
+case	chair	next
+mwe	next	to
+det	chair	a
+amod	chair	folding
+compound	chair	deck
+nmod:next_to	sits	chair
+cc	chair	and
+det	pole	a
+compound	pole	fishing
+conj:and	chair	pole
+punct	sits	.

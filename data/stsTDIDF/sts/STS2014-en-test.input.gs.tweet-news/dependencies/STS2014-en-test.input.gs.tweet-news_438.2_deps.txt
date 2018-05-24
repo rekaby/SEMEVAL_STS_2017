@@ -1,0 +1,8 @@
+compound	Spears	Britney
+root	ROOT	Spears
+punct	Spears	,
+compound	Trawick	Jason
+nsubj	call	Trawick
+acl:relcl	Spears	call
+compound:prt	call	off
+dobj	call	engagement

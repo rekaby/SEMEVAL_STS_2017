@@ -1,0 +1,7 @@
+det	girl	A
+amod	girl	young
+nsubj	makes	girl
+root	ROOT	makes
+nmod:poss	bed	her
+dobj	makes	bed
+punct	makes	.

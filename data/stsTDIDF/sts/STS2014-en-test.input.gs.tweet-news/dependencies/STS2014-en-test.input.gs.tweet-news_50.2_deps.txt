@@ -1,0 +1,10 @@
+root	ROOT	Talk
+punct	Talk	:
+compound	Kurzweil	Ray
+nsubj	Says	Kurzweil
+dep	Talk	Says
+nsubj	Going	We?re
+ccomp	Says	Going
+mark	Live	to
+xcomp	Going	Live
+advmod	Live	Forever

@@ -1,0 +1,9 @@
+compound	Australia	Cricket-England
+nummod	Australia	155-4
+compound	Australia	v
+nsubj	tea	Australia
+punct	Australia	,
+amod	test	fourth
+appos	Australia	test
+punct	test	-
+root	ROOT	tea

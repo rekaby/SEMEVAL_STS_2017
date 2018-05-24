@@ -1,0 +1,14 @@
+compound	Breaks	Justice
+compound	Breaks	Clarence
+compound	Breaks	Thomas
+root	ROOT	Breaks
+nmod:poss	Silence	His
+dep	Breaks	Silence
+dep	Silence	nytimes
+cc	nytimes	or
+det	article	the
+compound	article	onion
+conj:or	nytimes	article
+punct	Breaks	?-12) aux(tell-3, ca
+neg	tell	n't
+root	ROOT	tell

@@ -1,0 +1,11 @@
+nsubj	see	You
+aux	see	can
+root	ROOT	see
+advmod	one	more
+mwe	more	than
+nummod	dog	one
+dobj	see	dog
+case	photo	in
+det	photo	the
+nmod:in	dog	photo
+punct	see	.

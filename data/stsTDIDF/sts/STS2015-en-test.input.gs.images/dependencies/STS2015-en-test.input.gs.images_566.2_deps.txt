@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	black
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	tube	out
+mwe	out	of
+det	tube	a
+amod	tube	yellow
+cc	yellow	and
+conj:and	yellow	orange
+nmod:out_of	running	tube
+punct	running	.

@@ -1,0 +1,7 @@
+perform	.	punct
+people	six	nummod
+musicians	of	case
+perform	group	nsubj
+group	musicians	nmod:of
+ROOT	perform	root
+perform	people	nmod:in_front_of

@@ -1,0 +1,6 @@
+compound	crash	Nigeria
+compound	crash	plane
+root	ROOT	crash
+punct	crash	:
+neg	survivors	No
+nmod:npmod	crash	survivors

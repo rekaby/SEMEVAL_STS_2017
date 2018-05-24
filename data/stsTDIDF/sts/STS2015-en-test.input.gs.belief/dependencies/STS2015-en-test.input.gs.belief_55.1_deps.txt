@@ -1,0 +1,15 @@
+det	official	the
+nsubj	spoke	official
+root	ROOT	spoke
+case	condition	on
+nmod:on	spoke	condition
+case	anonymity	of
+nmod:of	condition	anonymity
+mark	investigated	because
+det	crash	the
+nsubjpass	investigated	crash
+aux	investigated	is
+advmod	investigated	still
+auxpass	investigated	being
+advcl	spoke	investigated
+punct	spoke	.

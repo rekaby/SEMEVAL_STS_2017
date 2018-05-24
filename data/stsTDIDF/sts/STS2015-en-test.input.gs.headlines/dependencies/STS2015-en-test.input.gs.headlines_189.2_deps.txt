@@ -1,0 +1,6 @@
+neg	agreement	No
+nsubj	talks	agreement
+case	Iran	at
+nmod:at	agreement	Iran
+amod	talks	nuclear
+root	ROOT	talks

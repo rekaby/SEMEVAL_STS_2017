@@ -1,0 +1,10 @@
+det	man	A
+nsubj	enjoying	man
+aux	enjoying	is
+root	ROOT	enjoying
+xcomp	enjoying	watching
+nummod	dance	three
+amod	dance	asian
+compound	dance	children
+dobj	watching	dance
+punct	enjoying	.

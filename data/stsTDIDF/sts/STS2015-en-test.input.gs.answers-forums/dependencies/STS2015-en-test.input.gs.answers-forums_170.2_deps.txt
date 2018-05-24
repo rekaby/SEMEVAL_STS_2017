@@ -1,0 +1,12 @@
+compound	talk	Baby
+nsubj	beneficial	talk
+punct	talk	,
+advmod	used	when
+acl:relcl	talk	used
+advmod	used	correctly
+cop	beneficial	is
+root	ROOT	beneficial
+case	development	to
+compound	development	speech
+nmod:to	beneficial	development
+punct	beneficial	.

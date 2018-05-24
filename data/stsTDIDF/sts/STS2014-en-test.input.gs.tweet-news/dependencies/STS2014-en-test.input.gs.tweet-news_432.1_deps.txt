@@ -1,0 +1,16 @@
+compound	Korea	North
+nsubj	Turns	Korea
+root	ROOT	Turns
+nmod:poss	Ire	Its
+dobj	Turns	Ire
+case	#UN	on
+det	#UN	the
+compound	#UN	South
+compound	#UN	#North
+compound	#UN	#South
+compound	#UN	#Korea
+nmod:on	Turns	#UN
+dep	Turns	#sanctions
+amod	#R	#war
+compound	2PH	#R
+dobj	#sanctions	2PH

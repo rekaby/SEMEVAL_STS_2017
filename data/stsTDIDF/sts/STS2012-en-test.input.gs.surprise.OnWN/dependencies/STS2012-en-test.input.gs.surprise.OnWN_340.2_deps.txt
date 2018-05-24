@@ -1,0 +1,13 @@
+advmod	reject	formally
+root	ROOT	reject
+cc	reject	or
+conj:or	reject	disavow
+det	belief	a
+advmod	held	formerly
+amod	belief	held
+dobj	disavow	belief
+punct	reject	,
+advmod	pressure	usually
+case	pressure	under
+nmod:under	reject	pressure
+punct	reject	.

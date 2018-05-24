@@ -1,0 +1,9 @@
+amod	forces	Israeli
+nsubj	detain	forces
+root	ROOT	detain
+nummod	Palestinians	2
+dobj	detain	Palestinians
+case	arrest	in
+amod	arrest	overnight
+nmod:in	detain	arrest
+dep	detain	raids

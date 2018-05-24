@@ -1,0 +1,4 @@
+ROOT	factors	root
+factors	Two	nummod
+sun	in	case
+factors	sun	nmod:in

@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	grass	on
+nmod:on	running	grass
+punct	running	.

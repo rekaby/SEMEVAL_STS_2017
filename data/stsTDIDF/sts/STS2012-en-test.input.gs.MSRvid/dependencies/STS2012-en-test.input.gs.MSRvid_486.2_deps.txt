@@ -1,0 +1,9 @@
+det	child	A
+nsubjpass	stuck	child
+auxpass	stuck	is
+root	ROOT	stuck
+case	house	in
+det	house	a
+compound	house	dog
+nmod:in	stuck	house
+punct	stuck	.

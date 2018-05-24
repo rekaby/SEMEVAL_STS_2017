@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	outside	woman
+case	gray	in
+nmod:in	woman	gray
+cop	outside	is
+root	ROOT	outside
+punct	outside	.

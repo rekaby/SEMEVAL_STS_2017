@@ -1,0 +1,9 @@
+compound	Trucks	Donetsk
+compound	Trucks	Region
+compound	Trucks	Protesters
+compound	Trucks	Detain
+root	ROOT	Trucks
+acl	Trucks	Carrying
+compound	Ammo	Government
+compound	Ammo	Rocket
+dobj	Carrying	Ammo

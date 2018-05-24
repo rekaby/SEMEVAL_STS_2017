@@ -1,0 +1,11 @@
+det	Mission	An
+amod	Mission	Added
+root	ROOT	Mission
+case	Arizona	for
+nmod:for	Mission	Arizona
+compound	Posse	Sheriff?s
+compound	Posse	Immigration
+dep	Arizona	Posse
+punct	Mission	:
+compound	Patrols	School
+dep	Mission	Patrols

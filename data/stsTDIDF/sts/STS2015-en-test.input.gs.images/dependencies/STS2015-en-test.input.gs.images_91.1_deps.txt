@@ -1,0 +1,12 @@
+det	swings	A
+compound	swings	girl
+root	ROOT	swings
+nmod:poss	hair	her
+amod	hair	long
+punct	hair	,
+amod	hair	wet
+dobj	swings	hair
+case	lake	in
+det	lake	a
+nmod:in	hair	lake
+punct	swings	.

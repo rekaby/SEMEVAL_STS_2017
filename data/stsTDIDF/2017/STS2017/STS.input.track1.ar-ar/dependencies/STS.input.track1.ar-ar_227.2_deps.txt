@@ -1,0 +1,6 @@
+nsubj	spared	Child
+root	ROOT	spared
+case	friend	with
+nmod:poss	friend	his
+nmod:with	spared	friend
+punct	spared	.

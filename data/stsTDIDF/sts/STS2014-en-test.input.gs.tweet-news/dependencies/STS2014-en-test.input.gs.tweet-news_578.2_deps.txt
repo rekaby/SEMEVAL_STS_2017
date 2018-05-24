@@ -1,0 +1,12 @@
+root	ROOT	Hanging
+compound:prt	Hanging	On
+punct	Hanging	:
+case	Debt	In
+nmod:in	Hanging	Debt
+punct	Debt	,
+cc	Debt	and
+compound	Deeper	Digging
+conj:and	Debt	Deeper
+mark	Find	to
+acl	Debt	Find
+dobj	Find	Relief

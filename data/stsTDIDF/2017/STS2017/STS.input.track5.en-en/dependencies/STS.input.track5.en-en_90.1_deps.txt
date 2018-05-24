@@ -1,0 +1,17 @@
+det	pair	A
+nsubj	hiding	pair
+case	boys	of
+amod	boys	young
+nmod:of	pair	boys
+case	t-shirts	in
+nmod:in	pair	t-shirts
+aux	hiding	are
+root	ROOT	hiding
+case	woods	in
+det	woods	the
+nmod:in	hiding	woods
+case	one	with
+nmod:with	hiding	one
+acl	one	looking
+xcomp	looking	aghast
+punct	hiding	.

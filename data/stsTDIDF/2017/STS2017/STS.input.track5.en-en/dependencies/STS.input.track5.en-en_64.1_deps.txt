@@ -1,0 +1,8 @@
+det	carriage	The
+nsubjpass	drawn	carriage
+auxpass	drawn	is
+root	ROOT	drawn
+case	horse	by
+det	horse	a
+nmod:agent	drawn	horse
+punct	drawn	.

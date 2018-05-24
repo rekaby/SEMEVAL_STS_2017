@@ -1,0 +1,16 @@
+nsubj	recruited	He
+advmod	recruited	also
+root	ROOT	recruited
+amod	people	other
+dobj	recruited	people
+mark	take	to
+dep	ordered	take
+dobj	take	delivery
+case	merchandise	of
+advmod	obtained	fraudulently
+amod	merchandise	obtained
+nmod:of	delivery	merchandise
+nsubj	ordered	he
+aux	ordered	had
+advcl	recruited	ordered
+punct	recruited	.

@@ -1,0 +1,7 @@
+cop	divisive	Was
+nmod:poss	speech	Obama
+case	Obama	's
+amod	speech	historic
+nsubj	divisive	speech
+root	ROOT	divisive
+punct	divisive	?

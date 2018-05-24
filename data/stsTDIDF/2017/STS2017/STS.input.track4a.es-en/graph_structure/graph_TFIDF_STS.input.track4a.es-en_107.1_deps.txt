@@ -1,0 +1,6 @@
+dog	brown	amod
+field	an	det
+field	across	case
+field	open	amod
+running	dog	nsubj
+running	field	nmod:across

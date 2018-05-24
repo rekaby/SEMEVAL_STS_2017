@@ -1,0 +1,12 @@
+advmod	cap	How
+aux	cap	do
+nsubj	cap	I
+root	ROOT	cap
+det	junction	a
+compound	junction	T
+dobj	cap	junction
+case	ridge	on
+det	ridge	a
+compound	ridge	roof
+nmod:on	cap	ridge
+punct	cap	?

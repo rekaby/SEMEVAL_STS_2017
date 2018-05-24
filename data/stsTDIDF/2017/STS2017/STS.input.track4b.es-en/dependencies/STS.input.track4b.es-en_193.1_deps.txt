@@ -1,0 +1,17 @@
+mark	telling	In
+advcl	ersatz	telling
+det	schoolgirl	a
+amod	schoolgirl	German
+nmod:poss	story	schoolgirl
+case	schoolgirl	's
+dobj	telling	story
+nsubj	says	he
+acl:relcl	story	says
+punct	ersatz	:
+punct	ersatz	``
+dep	ersatz	Ersatz
+punct	ersatz	,
+advmod	ersatz	everywhere
+root	ROOT	ersatz
+punct	ersatz	.
+punct	ersatz	''

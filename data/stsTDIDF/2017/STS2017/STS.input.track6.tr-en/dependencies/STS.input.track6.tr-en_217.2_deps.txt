@@ -1,0 +1,10 @@
+nsubj	walking	People
+root	ROOT	walking
+case	street	down
+det	street	the
+nmod:down	walking	street
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	walking	day
+punct	walking	.

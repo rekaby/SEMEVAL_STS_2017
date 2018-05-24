@@ -1,0 +1,8 @@
+det	treaty	the
+compound	treaty	cfe
+nsubjpass	established	treaty
+auxpass	established	was
+root	ROOT	established
+case	1990	in
+nmod:in	established	1990
+punct	established	.

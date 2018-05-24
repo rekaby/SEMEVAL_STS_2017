@@ -1,0 +1,10 @@
+compound	sentences	Bangladesh
+compound	sentences	court
+nsubj	lawmaker	sentences
+amod	lawmaker	first
+root	ROOT	lawmaker
+case	death	to
+nmod:to	lawmaker	death
+case	crimes	for
+compound	crimes	war
+nmod:for	death	crimes

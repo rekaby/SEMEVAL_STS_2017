@@ -1,0 +1,10 @@
+amod	cat	Black
+cc	Black	and
+conj:and	Black	white
+nsubj	sleeping	cat
+root	ROOT	sleeping
+case	tarp	on
+det	tarp	a
+amod	tarp	brown
+nmod:on	sleeping	tarp
+punct	sleeping	.

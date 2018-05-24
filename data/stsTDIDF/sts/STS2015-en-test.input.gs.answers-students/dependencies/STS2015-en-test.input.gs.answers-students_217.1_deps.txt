@@ -1,0 +1,11 @@
+nsubj	circuit	B
+cc	B	and
+conj:and	B	C
+cop	circuit	are
+neg	circuit	not
+case	circuit	in
+det	circuit	the
+amod	circuit	same
+root	ROOT	circuit
+case	A.	as
+nmod:as	circuit	A.

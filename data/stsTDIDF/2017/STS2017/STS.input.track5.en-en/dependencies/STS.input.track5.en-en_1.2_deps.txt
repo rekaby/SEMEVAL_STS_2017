@@ -1,0 +1,9 @@
+det	person	A
+nsubj	playing	person
+aux	playing	is
+root	ROOT	playing
+dobj	playing	basketball
+case	team	on
+det	team	a
+nmod:on	playing	team
+punct	playing	.

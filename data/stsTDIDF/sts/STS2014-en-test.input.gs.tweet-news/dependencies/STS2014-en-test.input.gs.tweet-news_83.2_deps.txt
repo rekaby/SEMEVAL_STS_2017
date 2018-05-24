@@ -1,0 +1,9 @@
+root	ROOT	Editorial
+punct	Editorial	:
+dobj	Know	What
+nsubj	Know	We
+compound	Know	Don?t
+dep	Killing	Know
+aux	Killing	Is
+dep	Editorial	Killing
+nsubj	Killing	Us

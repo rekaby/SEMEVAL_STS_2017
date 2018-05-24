@@ -1,0 +1,6 @@
+drives	woman	nsubj
+drives	.	punct
+cart	a	det
+cart	golf	compound
+drives	cart	dobj
+ROOT	drives	root

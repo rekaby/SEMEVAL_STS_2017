@@ -1,0 +1,9 @@
+nsubj	read	Everyone
+aux	read	should
+root	ROOT	read
+case	column	's
+compound	column	CNN
+nmod:'s	read	column
+case	today	from
+nmod:from	column	today
+punct	read	:

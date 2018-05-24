@@ -1,0 +1,7 @@
+det	standing	A
+compound	standing	backpack
+root	ROOT	standing
+case	train	beside
+det	train	a
+nmod:beside	standing	train
+punct	standing	.

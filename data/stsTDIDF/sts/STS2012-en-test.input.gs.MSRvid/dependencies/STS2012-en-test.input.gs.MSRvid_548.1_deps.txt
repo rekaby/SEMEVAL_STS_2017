@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	firing	woman
+aux	firing	is
+root	ROOT	firing
+det	rifle	a
+dobj	firing	rifle
+punct	firing	.

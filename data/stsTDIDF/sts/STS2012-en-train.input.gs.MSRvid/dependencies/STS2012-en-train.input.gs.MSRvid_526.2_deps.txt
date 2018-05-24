@@ -1,0 +1,6 @@
+det	kitten	A
+nsubj	eats	kitten
+root	ROOT	eats
+det	food	some
+dobj	eats	food
+punct	eats	.

@@ -1,0 +1,7 @@
+root	ROOT	give
+compound:prt	give	up
+dobj	give	right
+cc	right	or
+conj:or	right	possession
+case	another	to
+nmod:to	give	another

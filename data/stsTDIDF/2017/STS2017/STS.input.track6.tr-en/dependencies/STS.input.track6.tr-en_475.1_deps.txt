@@ -1,0 +1,9 @@
+det	group	A
+nsubj	stand	group
+case	people	of
+nmod:of	group	people
+root	ROOT	stand
+case	beach	on
+det	beach	the
+nmod:on	stand	beach
+punct	stand	.

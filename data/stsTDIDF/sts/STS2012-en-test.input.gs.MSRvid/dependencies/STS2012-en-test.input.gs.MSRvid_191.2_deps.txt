@@ -1,0 +1,8 @@
+det	man	A
+nsubj	sings	man
+root	ROOT	sings
+cc	sings	and
+conj:and	sings	plays
+det	guitar	the
+dobj	plays	guitar
+punct	sings	.

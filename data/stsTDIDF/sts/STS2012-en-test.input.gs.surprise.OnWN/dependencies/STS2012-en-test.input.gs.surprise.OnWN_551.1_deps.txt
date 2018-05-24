@@ -1,0 +1,6 @@
+amod	freedom	Unrestricted
+root	ROOT	freedom
+mark	use	to
+acl	freedom	use
+dobj	use	something
+punct	freedom	.

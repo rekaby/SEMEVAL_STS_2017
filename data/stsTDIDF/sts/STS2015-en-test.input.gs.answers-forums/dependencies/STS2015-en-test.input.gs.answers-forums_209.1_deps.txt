@@ -1,0 +1,15 @@
+nsubj	put	Aristotle
+aux	put	did
+neg	put	n't
+root	ROOT	put
+det	world	the
+dobj	put	world
+case	center	at
+det	center	the
+nmod:at	put	center
+case	universe	of
+det	universe	the
+nmod:of	center	universe
+compound	se	per
+advmod	universe	se
+punct	put	.

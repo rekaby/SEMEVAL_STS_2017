@@ -1,0 +1,5 @@
+nsubj	had	bulb
+root	ROOT	had
+det	circuit	a
+amod	circuit	short
+dobj	had	circuit

@@ -1,0 +1,15 @@
+nsubj	said	Bryant
+advmod	said	previously
+root	ROOT	said
+mark	had	that
+nsubj	had	hike
+ccomp	said	had
+det	impact	a
+amod	impact	greater
+dobj	had	impact
+case	demand	on
+nmod:on	impact	demand
+mark	expected	than
+nsubj	expected	officials
+advcl	impact	expected
+punct	said	.

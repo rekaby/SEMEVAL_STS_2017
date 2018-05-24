@@ -1,0 +1,16 @@
+root	ROOT	Stands
+det	woman	a
+dobj	Stands	woman
+acl	woman	playing
+det	harp	the
+dobj	playing	harp
+case	chair	on
+det	chair	a
+nmod:on	playing	chair
+case	House	in
+mwe	in	front
+mwe	in	of
+det	House	the
+compound	House	White
+nmod:in_front_of	chair	House
+punct	Stands	.

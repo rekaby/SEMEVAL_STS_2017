@@ -1,0 +1,11 @@
+nsubj	see	I
+aux	see	do
+neg	see	n't
+root	ROOT	see
+advmod	problem	why
+nsubj	problem	this
+aux	problem	could
+cop	problem	be
+det	problem	a
+ccomp	see	problem
+punct	see	.

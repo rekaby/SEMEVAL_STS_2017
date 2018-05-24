@@ -1,0 +1,9 @@
+det	boy	The
+nsubj	jumping	boy
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	off
+det	board	the
+compound	board	diving
+dobj	jumping	board
+punct	jumping	.

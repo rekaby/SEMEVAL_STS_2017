@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	running	woman
+aux	running	is
+root	ROOT	running
+case	beach	on
+det	beach	the
+nmod:on	running	beach
+punct	running	.

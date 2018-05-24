@@ -1,0 +1,5 @@
+root	ROOT	Group
+case	children	of
+nmod:of	Group	children
+acl	children	fighting
+punct	Group	.

@@ -1,0 +1,16 @@
+nsubj	duty	It
+cop	duty	is
+nmod:poss	duty	our
+root	ROOT	duty
+mark	continue	to
+acl	duty	continue
+xcomp	continue	supporting
+dobj	supporting	Latvia
+case	question	on
+det	question	the
+nmod:on	supporting	question
+case	population	of
+det	population	the
+amod	population	Russian
+nmod:of	question	population
+punct	duty	.

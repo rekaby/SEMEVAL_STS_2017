@@ -1,0 +1,8 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	I
+root	ROOT	remove
+dobj	remove	paint
+case	pipes	from
+nmod:from	remove	pipes
+punct	remove	?

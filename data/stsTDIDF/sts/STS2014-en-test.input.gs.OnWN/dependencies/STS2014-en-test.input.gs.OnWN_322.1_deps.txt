@@ -1,0 +1,9 @@
+root	ROOT	Something
+nsubj	serves	that
+acl:relcl	Something	serves
+mark	suggest	to
+xcomp	serves	suggest
+det	fact	a
+amod	fact	certain
+dobj	suggest	fact
+punct	Something	.

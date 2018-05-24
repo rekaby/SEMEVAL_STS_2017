@@ -1,0 +1,7 @@
+det	skateboarder	A
+root	ROOT	skateboarder
+acl	skateboarder	jumping
+case	street	in
+det	street	the
+nmod:in	jumping	street
+punct	skateboarder	.

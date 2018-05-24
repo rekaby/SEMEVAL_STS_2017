@@ -1,0 +1,8 @@
+det	children	The
+nsubj	taking	children
+aux	taking	are
+root	ROOT	taking
+det	picture	a
+dobj	taking	picture
+advmod	picture	outside
+punct	taking	.

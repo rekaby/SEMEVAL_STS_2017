@@ -1,0 +1,14 @@
+amod	states	electrical
+nsubj	determine	states
+aux	determine	will
+root	ROOT	determine
+mark	is	whether
+expl	is	there
+ccomp	determine	is
+det	gap	a
+nsubj	is	gap
+cc	gap	or
+conj:or	gap	connection
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit

@@ -1,0 +1,7 @@
+nsubj	launches	Amazon
+root	ROOT	launches
+amod	device	new
+dobj	launches	device
+case	streaming	for
+nmod:for	device	streaming
+dep	streaming	video

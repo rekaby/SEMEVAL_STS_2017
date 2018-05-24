@@ -1,0 +1,6 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	policemen	3
+dobj	kill	policemen
+case	Iraq	in
+nmod:in	kill	Iraq

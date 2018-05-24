@@ -1,0 +1,7 @@
+root	ROOT	37
+acl	37	killed
+case	crash	in
+compound	crash	bus
+nmod:in	killed	crash
+case	Italy	in
+nmod:in	crash	Italy

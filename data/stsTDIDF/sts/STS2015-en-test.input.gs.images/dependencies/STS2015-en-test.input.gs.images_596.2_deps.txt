@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+case	bike	on
+det	bike	a
+nmod:on	man	bike
+case	mid-air	in
+nmod:in	bike	mid-air

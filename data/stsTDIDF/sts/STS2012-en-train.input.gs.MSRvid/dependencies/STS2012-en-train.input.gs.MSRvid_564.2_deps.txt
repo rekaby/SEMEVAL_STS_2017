@@ -1,0 +1,7 @@
+det	person	A
+nsubj	descaling	person
+aux	descaling	is
+root	ROOT	descaling
+det	fish	a
+dobj	descaling	fish
+punct	descaling	.

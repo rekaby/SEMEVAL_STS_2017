@@ -1,0 +1,7 @@
+case	better	like
+root	ROOT	better
+punct	better	;
+dep	better	value
+advmod	highly	more
+advmod	value	highly
+punct	better	.

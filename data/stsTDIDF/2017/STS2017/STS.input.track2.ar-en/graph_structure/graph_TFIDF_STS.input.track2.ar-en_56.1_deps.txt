@@ -1,0 +1,6 @@
+control	suit	nsubj
+control	flame	dobj
+suit	heat	compound
+flame	the	det
+using	control	ccomp
+using	man	nsubj

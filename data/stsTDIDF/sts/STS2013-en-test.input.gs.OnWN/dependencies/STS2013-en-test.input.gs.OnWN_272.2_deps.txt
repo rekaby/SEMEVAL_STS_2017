@@ -1,0 +1,8 @@
+root	ROOT	come
+compound:prt	come	up
+punct	come	,
+case	liquid	as
+mwe	as	of
+det	liquid	a
+nmod:as_of	come	liquid
+punct	come	.

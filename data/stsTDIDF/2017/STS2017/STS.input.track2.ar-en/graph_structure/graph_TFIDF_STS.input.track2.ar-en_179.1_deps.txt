@@ -1,0 +1,6 @@
+riding	street	nmod:in
+Man	.	punct
+ROOT	Man	root
+riding	bike	dobj
+Man	riding	acl
+bike	his	nmod:poss

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	sitting	man
+case	hat	with
+det	hat	a
+amod	hat	blue
+nmod:with	man	hat
+aux	sitting	is
+root	ROOT	sitting
+case	boat	on
+det	boat	a
+amod	boat	blue
+nmod:on	sitting	boat
+punct	sitting	.

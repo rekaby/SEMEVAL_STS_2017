@@ -1,0 +1,10 @@
+nmod:poss	leader	Egypt
+case	Egypt	's
+nsubj	imposes	leader
+root	ROOT	imposes
+dobj	imposes	state
+case	emergency	of
+nmod:of	state	emergency
+case	cities	in
+nummod	cities	3
+nmod:in	imposes	cities

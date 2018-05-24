@@ -1,0 +1,8 @@
+det	men	The
+nsubj	jogging	men
+cop	jogging	are
+root	ROOT	jogging
+case	beach	on
+det	beach	the
+nmod:on	jogging	beach
+punct	jogging	.

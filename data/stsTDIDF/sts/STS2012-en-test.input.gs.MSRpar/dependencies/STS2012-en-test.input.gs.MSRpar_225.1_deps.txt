@@ -1,0 +1,13 @@
+det	judge	The
+nsubj	refused	judge
+advmod	refused	also
+root	ROOT	refused
+mark	postpone	to
+xcomp	refused	postpone
+det	date	the
+compound	date	trial
+dobj	postpone	date
+case	Sept.	of
+nmod:of	date	Sept.
+nummod	Sept.	29
+punct	refused	.

@@ -1,0 +1,11 @@
+girl	as	case
+girl	other	amod
+standing	glasses	nmod:with
+standing	works	dep
+painting	hand	compound
+works	painting	nmod:on
+painting	her	nmod:poss
+standing	girl	nmod:as
+painting	on	case
+glasses	with	case
+standing	girl	nsubj

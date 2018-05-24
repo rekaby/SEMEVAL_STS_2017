@@ -1,0 +1,7 @@
+amod	progress	Global
+root	ROOT	progress
+acl	progress	seen
+mark	ending	in
+advcl	seen	ending
+compound	penalty	death
+dobj	ending	penalty

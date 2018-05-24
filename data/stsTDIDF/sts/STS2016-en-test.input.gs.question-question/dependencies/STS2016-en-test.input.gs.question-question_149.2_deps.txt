@@ -1,0 +1,12 @@
+aux	write	Should
+nsubj	write	I
+root	ROOT	write
+nmod:poss	biography	my
+dobj	write	biography
+case	person	in
+det	person	the
+amod	person	first
+cc	first	or
+conj:or	first	third
+nmod:in	write	person
+punct	write	?

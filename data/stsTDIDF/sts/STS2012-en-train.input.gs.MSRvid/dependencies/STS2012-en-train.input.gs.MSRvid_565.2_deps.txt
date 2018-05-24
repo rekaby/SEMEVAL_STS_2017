@@ -1,0 +1,8 @@
+nummod	boy	One
+nsubj	talking	boy
+aux	talking	is
+root	ROOT	talking
+case	man	with
+amod	man	other
+nmod:with	talking	man
+punct	talking	.

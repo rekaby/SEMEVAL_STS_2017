@@ -1,0 +1,6 @@
+det	chef	A
+nsubj	prepared	chef
+root	ROOT	prepared
+det	meal	a
+dobj	prepared	meal
+punct	prepared	.

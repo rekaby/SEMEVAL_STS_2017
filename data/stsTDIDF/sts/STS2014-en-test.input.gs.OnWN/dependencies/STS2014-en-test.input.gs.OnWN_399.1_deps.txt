@@ -1,0 +1,5 @@
+det	difficulty	a
+amod	difficulty	physical
+root	ROOT	difficulty
+cc	difficulty	or
+conj:or	difficulty	obstacle

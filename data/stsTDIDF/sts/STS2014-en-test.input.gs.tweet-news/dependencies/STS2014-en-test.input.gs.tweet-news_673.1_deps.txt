@@ -1,0 +1,16 @@
+aux	read	Did
+nsubj	read	you
+root	ROOT	read
+det	#Opinionator	the
+dobj	read	#Opinionator
+det	relationship	the
+dep	#Opinionator	relationship
+case	parents	between
+nmod:between	relationship	parents
+cc	parents	&
+conj:&	parents	teachers
+punct	read	?-12) compound(Lee-2, Liza
+nsubjpass	interviewed	Lee
+auxpass	interviewed	was
+root	ROOT	interviewed
+punct	interviewed	.-5) root(ROOT-0, #edchat

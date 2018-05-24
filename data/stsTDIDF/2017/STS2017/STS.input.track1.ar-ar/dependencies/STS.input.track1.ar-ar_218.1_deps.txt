@@ -1,0 +1,7 @@
+compound	rides	Mzaour
+compound	rides	child
+root	ROOT	rides
+nmod:poss	horse	his
+dep	rides	horse
+advmod	horse	nervously
+punct	rides	.

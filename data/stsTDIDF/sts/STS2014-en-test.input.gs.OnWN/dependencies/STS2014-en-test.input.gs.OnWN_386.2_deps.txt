@@ -1,0 +1,7 @@
+det	portion	a
+root	ROOT	portion
+acl	portion	removed
+case	whole	from
+det	whole	the
+nmod:from	removed	whole
+punct	portion	.

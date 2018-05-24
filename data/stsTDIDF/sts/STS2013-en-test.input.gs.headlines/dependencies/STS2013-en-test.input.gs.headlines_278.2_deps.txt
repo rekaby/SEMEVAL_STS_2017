@@ -1,0 +1,12 @@
+compound	Ham	QPR
+nummod	Ham	1-2
+compound	Ham	West
+nsubj	highlights	Ham
+punct	Ham	:
+compound	report	Match
+dep	Ham	report
+punct	report	,
+conj:&	report	pictures
+cc	report	&
+conj:&	report	video
+root	ROOT	highlights

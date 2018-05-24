@@ -1,0 +1,10 @@
+det	man	The
+nsubj	waiting	man
+aux	waiting	is
+root	ROOT	waiting
+case	someone	on
+nmod:on	waiting	someone
+case	building	by
+det	building	the
+nmod:by	waiting	building
+punct	waiting	.

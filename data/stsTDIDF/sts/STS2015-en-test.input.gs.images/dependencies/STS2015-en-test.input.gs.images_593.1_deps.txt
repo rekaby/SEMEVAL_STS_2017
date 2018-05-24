@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	jumping	woman
+case	suit	in
+det	suit	a
+amod	suit	blue
+compound	suit	bathing
+nmod:in	woman	suit
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	off
+det	dock	a
+dobj	jumping	dock
+case	lake	into
+det	lake	a
+nmod:into	jumping	lake
+punct	jumping	.

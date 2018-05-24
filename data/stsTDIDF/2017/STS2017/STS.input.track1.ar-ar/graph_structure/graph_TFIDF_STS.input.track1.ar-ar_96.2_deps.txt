@@ -1,0 +1,5 @@
+tricks	bike	compound
+ROOT	Boy	root
+Boy	doing	acl
+doing	tricks	dobj
+Boy	.	punct

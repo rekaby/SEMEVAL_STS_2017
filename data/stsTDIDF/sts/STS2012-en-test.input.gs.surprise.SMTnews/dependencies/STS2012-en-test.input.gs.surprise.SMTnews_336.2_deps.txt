@@ -1,0 +1,13 @@
+det	success	The
+nsubj	itself	success
+case	paper	of
+det	paper	the
+nmod:of	success	paper
+cop	itself	is
+root	ROOT	itself
+det	sign	a
+dep	itself	sign
+case	malaise	of
+nmod:of	sign	malaise
+punct	sign	''
+punct	itself	.

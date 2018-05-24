@@ -1,0 +1,15 @@
+det	States	the
+compound	States	United
+root	ROOT	States
+punct	states	-LRB-
+advmod	states	especially
+det	states	the
+amod	states	northern
+dep	States	states
+case	War	during
+det	War	the
+compound	War	American
+compound	War	Civil
+nmod:during	states	War
+punct	states	-RRB-
+punct	States	.

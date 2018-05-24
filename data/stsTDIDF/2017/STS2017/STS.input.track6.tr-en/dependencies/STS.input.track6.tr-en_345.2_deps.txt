@@ -1,0 +1,11 @@
+det	horse	A
+nsubj	jumping	horse
+cc	horse	and
+det	rider	a
+conj:and	horse	rider
+aux	jumping	are
+root	ROOT	jumping
+case	race	in
+det	race	a
+nmod:in	jumping	race
+punct	jumping	.

@@ -1,0 +1,12 @@
+nsubj	know	They
+root	ROOT	know
+mark	show	that
+det	video	the
+nsubj	show	video
+aux	show	does
+neg	show	n't
+ccomp	know	show
+det	chamber	a
+compound	chamber	gas
+dobj	show	chamber
+punct	know	.

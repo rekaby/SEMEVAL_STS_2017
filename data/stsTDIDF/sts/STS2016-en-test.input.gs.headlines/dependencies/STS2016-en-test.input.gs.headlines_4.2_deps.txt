@@ -1,0 +1,8 @@
+compound	Chief	UN
+compound	Chief	Rights
+nsubj	Presses	Chief
+root	ROOT	Presses
+dobj	Presses	Egypt
+case	Detention	on
+compound	Detention	Morsi
+nmod:on	Presses	Detention

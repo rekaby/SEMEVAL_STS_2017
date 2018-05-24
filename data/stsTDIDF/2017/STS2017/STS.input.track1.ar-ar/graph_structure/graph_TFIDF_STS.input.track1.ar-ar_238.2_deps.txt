@@ -1,0 +1,4 @@
+experiment	a	det
+watch	Students	nsubj
+watch	experiment	dobj
+experiment	scientific	amod

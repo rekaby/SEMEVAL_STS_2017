@@ -1,0 +1,9 @@
+nsubj	holding	Women
+aux	holding	are
+root	ROOT	holding
+det	other	each
+dobj	holding	other
+cc	other	and
+conj:and	other	dancing
+advmod	holding	together
+punct	holding	.

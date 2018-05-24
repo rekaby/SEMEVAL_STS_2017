@@ -1,0 +1,13 @@
+aux	understand	Do
+nsubj	understand	you
+root	ROOT	understand
+advmod	relevant	why
+amod	residents	non-US
+nsubj	relevant	residents
+cop	relevant	are
+advmod	relevant	also
+advcl	understand	relevant
+case	statistics	to
+det	statistics	the
+nmod:to	relevant	statistics
+punct	understand	?

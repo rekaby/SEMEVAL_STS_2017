@@ -1,0 +1,6 @@
+det	man	The
+root	ROOT	man
+case	motorcycle	on
+det	motorcycle	the
+nmod:on	man	motorcycle
+punct	man	.

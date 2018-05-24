@@ -1,0 +1,10 @@
+nsubj	killed	6
+root	ROOT	killed
+punct	killed	,
+dep	killed	12
+acl	12	injured
+case	blast	in
+nmod:in	injured	blast
+case	Pakista	in
+compound	Pakista	NW
+nmod:in	injured	Pakista

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	juggles	man
+root	ROOT	juggles
+det	crowd	a
+dobj	juggles	crowd
+punct	juggles	.

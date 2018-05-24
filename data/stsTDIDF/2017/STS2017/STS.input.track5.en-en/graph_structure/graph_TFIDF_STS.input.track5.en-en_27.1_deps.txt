@@ -1,0 +1,7 @@
+ROOT	guys	root
+basketball	of	case
+guys	playing	acl
+guys	.	punct
+game	pro	amod
+guys	Three	nummod
+game	basketball	nmod:of

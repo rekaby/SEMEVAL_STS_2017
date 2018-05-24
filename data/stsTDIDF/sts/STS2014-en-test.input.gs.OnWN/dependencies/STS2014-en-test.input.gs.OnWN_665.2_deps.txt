@@ -1,0 +1,6 @@
+root	ROOT	move
+case	motion	with
+det	motion	a
+compound	motion	thrashing
+nmod:with	move	motion
+punct	move	.

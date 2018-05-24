@@ -1,0 +1,14 @@
+det	communication	a
+root	ROOT	communication
+punct	brief	-LRB-
+advmod	brief	usually
+appos	communication	brief
+punct	brief	-RRB-
+nsubjpass	written	that
+auxpass	written	is
+acl:relcl	communication	written
+cc	written	or
+conj:or	written	spoken
+cc	written	or
+conj:or	written	signaled
+punct	communication	.

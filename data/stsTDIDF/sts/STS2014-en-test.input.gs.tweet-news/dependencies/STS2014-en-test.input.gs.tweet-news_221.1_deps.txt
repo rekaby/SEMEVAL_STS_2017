@@ -1,0 +1,6 @@
+det	plight	The
+root	ROOT	plight
+case	Falcons	of
+det	Falcons	the
+compound	Falcons	Atlanta
+nmod:of	plight	Falcons

@@ -1,0 +1,6 @@
+red	white	conj:and
+ROOT	Orchestra	root
+uniforms	in	case
+uniforms	red	amod
+Orchestra	uniforms	nmod:in
+Orchestra	.	punct

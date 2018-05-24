@@ -1,0 +1,12 @@
+root	ROOT	Treat
+det	substance	a
+dobj	Treat	substance
+case	agent	with
+det	agent	some
+nmod:with	Treat	agent
+punct	Treat	;
+parataxis	Treat	add
+det	agent	an
+dobj	add	agent
+nmod	add	to
+punct	Treat	.

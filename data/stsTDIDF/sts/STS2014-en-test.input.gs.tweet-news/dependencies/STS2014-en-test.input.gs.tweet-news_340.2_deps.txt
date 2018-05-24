@@ -1,0 +1,12 @@
+compound	Stone	Opinionator
+compound	Stone	|
+compound	Stone	The
+root	ROOT	Stone
+punct	Stone	:
+dep	Stone	What
+cop	What	is
+det	Hacktivist	a
+punct	Hacktivist	`
+nsubj	What	Hacktivist
+punct	Hacktivist	'
+punct	Stone	?

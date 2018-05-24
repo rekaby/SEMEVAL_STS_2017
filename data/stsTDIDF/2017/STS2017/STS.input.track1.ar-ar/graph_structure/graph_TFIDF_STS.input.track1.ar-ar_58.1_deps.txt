@@ -1,0 +1,6 @@
+child	her	nmod:poss
+ROOT	However	root
+,	woman	root
+holding	child	dobj
+woman	holding	acl
+However	,	punct

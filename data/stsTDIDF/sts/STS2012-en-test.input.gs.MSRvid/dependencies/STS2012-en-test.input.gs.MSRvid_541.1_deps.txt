@@ -1,0 +1,9 @@
+det	person	A
+nsubj	drawing	person
+aux	drawing	is
+root	ROOT	drawing
+case	touchscreen	on
+det	touchscreen	a
+amod	touchscreen	large
+nmod:on	drawing	touchscreen
+punct	drawing	.

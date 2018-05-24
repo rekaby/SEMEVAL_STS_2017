@@ -1,0 +1,7 @@
+det	man	A
+nsubj	flies	man
+root	ROOT	flies
+case	carpet	on
+det	carpet	a
+nmod:on	flies	carpet
+punct	flies	.

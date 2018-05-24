@@ -1,0 +1,8 @@
+amod	matter	physical
+nsubj	left	matter
+root	ROOT	left
+compound:prt	left	behind
+case	process	after
+det	process	a
+compound	process	removal
+nmod:after	left	process

@@ -1,0 +1,12 @@
+det	man	A
+nsubj	looking	man
+aux	looking	is
+root	ROOT	looking
+case	food	at
+nmod:at	looking	food
+case	sale	for
+nmod:for	food	sale
+case	store	outside
+det	store	a
+nmod:outside	sale	store
+punct	looking	.

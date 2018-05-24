@@ -1,0 +1,15 @@
+root	ROOT	Man
+acl	Man	sitting
+dobj	sitting	cross
+dep	cross	legged
+mark	wearing	while
+advcl	legged	wearing
+det	cloth	a
+amod	cloth	brown
+dobj	wearing	cloth
+cc	wearing	and
+conj:and	wearing	holding
+det	stick	a
+amod	stick	wooden
+dobj	holding	stick
+punct	Man	.

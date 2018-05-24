@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sprinkling	man
+aux	sprinkling	is
+root	ROOT	sprinkling
+amod	cheese	shredded
+dobj	sprinkling	cheese
+case	pizza	on
+det	pizza	a
+nmod:on	sprinkling	pizza
+punct	sprinkling	.

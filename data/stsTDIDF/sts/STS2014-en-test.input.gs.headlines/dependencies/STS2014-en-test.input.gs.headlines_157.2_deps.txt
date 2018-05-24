@@ -1,0 +1,11 @@
+compound	Scouts	Boy
+nsubj	vote	Scouts
+case	America	of
+nmod:of	Scouts	America
+nsubj	vote	delays
+root	ROOT	vote
+case	ban	on
+amod	ban	lifting
+nmod:on	vote	ban
+case	gays	on
+nmod:on	ban	gays

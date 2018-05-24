@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	racing	dogs
+root	ROOT	racing
+case	track	on
+det	track	a
+nmod:on	racing	track
+punct	racing	.

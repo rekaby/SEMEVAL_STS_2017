@@ -1,0 +1,12 @@
+nsubj	get	they
+aux	get	did
+neg	get	n't
+root	ROOT	get
+dobj	get	it
+punct	get	,
+cc	get	but
+nsubj	asked	they
+conj:but	get	asked
+case	it	for
+nmod:for	asked	it
+punct	get	.

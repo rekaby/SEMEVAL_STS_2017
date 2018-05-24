@@ -1,0 +1,9 @@
+det	distinction	A
+amod	distinction	perceptual
+root	ROOT	distinction
+acl	distinction	based
+case	color	on
+nmod:on	based	color
+cc	color	or
+conj:or	color	shading
+punct	distinction	.

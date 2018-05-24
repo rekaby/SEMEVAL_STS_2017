@@ -1,0 +1,7 @@
+jackets	in	case
+brothers	are	cop
+brothers	.	punct
+jackets	blue	amod
+brothers	men	nsubj
+men	jackets	nmod:in
+ROOT	brothers	root

@@ -1,0 +1,5 @@
+root	ROOT	Probe
+case	market	into
+compound	market	motor
+compound	market	insurance
+nmod:into	Probe	market

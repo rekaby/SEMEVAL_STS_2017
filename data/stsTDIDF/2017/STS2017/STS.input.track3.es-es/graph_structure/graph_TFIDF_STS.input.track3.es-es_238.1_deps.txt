@@ -1,0 +1,8 @@
+holds	man	nsubj
+man	pool	nmod:in
+float	in	case
+float	a	det
+holds	child	dobj
+pool	swimming	compound
+holds	float	nmod:in
+child	smiling	amod

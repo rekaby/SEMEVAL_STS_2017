@@ -1,0 +1,14 @@
+det	Fed	The
+nsubj	said	Fed
+advmod	said	also
+root	ROOT	said
+det	risks	the
+nsubjpass	biased	risks
+case	economy	to
+det	economy	the
+nmod:to	risks	economy
+auxpass	biased	were
+ccomp	said	biased
+case	weakness	toward
+nmod:toward	biased	weakness
+punct	said	.

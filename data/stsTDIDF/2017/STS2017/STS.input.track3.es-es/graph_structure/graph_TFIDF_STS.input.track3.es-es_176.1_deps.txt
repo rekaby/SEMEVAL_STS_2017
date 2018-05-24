@@ -1,0 +1,5 @@
+ROOT	beach	root
+beach	.	punct
+beach	children	nsubj
+beach	are	cop
+children	Two	nummod

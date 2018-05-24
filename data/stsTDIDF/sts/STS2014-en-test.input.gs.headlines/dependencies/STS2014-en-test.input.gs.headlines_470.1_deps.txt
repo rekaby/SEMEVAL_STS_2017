@@ -1,0 +1,10 @@
+compound	Steenkamp	Funeral
+case	girlfriend	of
+compound	Pistorius	Oscar
+nmod:poss	girlfriend	Pistorius
+case	Pistorius	'
+nmod:of	Funeral	girlfriend
+compound	Steenkamp	Reeva
+nsubj	takes	Steenkamp
+root	ROOT	takes
+dobj	takes	place

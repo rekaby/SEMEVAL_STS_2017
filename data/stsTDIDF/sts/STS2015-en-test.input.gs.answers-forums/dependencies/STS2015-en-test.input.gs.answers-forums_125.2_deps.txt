@@ -1,0 +1,17 @@
+nsubj	relates	This
+root	ROOT	relates
+case	discovery	to
+det	discovery	the
+punct	discovery	``
+nmod:to	relates	discovery
+punct	discovery	''
+case	Asian	of
+nmod:of	discovery	Asian
+punct	relates	,
+cc	relates	and
+amod	cultures	other
+amod	cultures	non-European
+conj:and	relates	cultures
+case	Americans	by
+nmod:by	cultures	Americans
+punct	relates	.

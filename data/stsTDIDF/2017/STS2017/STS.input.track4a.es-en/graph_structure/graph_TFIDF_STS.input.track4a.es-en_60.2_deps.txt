@@ -1,0 +1,5 @@
+day	Summer	compound
+running	store	nmod:to
+running	day	nmod:on
+running	man	nsubj
+store	to	case

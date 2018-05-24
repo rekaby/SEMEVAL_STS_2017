@@ -1,0 +1,13 @@
+mark	closed	if
+nsubjpass	closed	x
+cc	x	and
+conj:and	x	z
+auxpass	closed	are
+advcl	create	closed
+advmod	create	then
+nsubj	create	it
+aux	create	will
+root	ROOT	create
+det	path	a
+amod	path	closed
+dobj	create	path

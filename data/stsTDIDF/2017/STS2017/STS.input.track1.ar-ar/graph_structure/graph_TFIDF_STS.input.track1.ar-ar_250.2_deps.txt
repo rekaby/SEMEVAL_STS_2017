@@ -1,0 +1,5 @@
+walks	Garmtala	dobj
+house	an	det
+walks	man	nsubj
+walks	house	nmod:in_front_of
+house	old	amod

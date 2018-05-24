@@ -1,0 +1,23 @@
+compound	#AaronSwartz	Internet
+compound	#AaronSwartz	Activist
+nsubj	Dead	#AaronSwartz
+punct	#AaronSwartz	,
+appos	#AaronSwartz	Creator
+case	#RSS	of
+nmod:of	Creator	#RSS
+punct	#AaronSwartz	,
+cop	Dead	Is
+root	ROOT	Dead
+case	26	at
+nmod:at	Dead	26
+punct	26	-
+dep	26	Suicide
+punct	Dead	.-15) cop(much-8, Was
+det	pressure	the
+nsubj	much	pressure
+case	lawsuits	of
+amod	lawsuits	pending
+nmod:of	pressure	lawsuits
+advmod	much	too
+root	ROOT	much
+punct	much	?

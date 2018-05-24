@@ -1,0 +1,13 @@
+root	ROOT	make
+det	hole	a
+dobj	make	hole
+punct	make	,
+advmod	make	especially
+case	power	with
+det	power	a
+amod	power	pointed
+nmod:with	especially	power
+cc	power	or
+compound	tool	hand
+conj:or	power	tool
+punct	make	.

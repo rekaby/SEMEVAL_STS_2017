@@ -1,0 +1,10 @@
+det	man	A
+nsubj	chops	man
+root	ROOT	chops
+case	tree	down
+det	tree	a
+nmod:down	chops	tree
+case	axe	with
+det	axe	an
+nmod:with	tree	axe
+punct	chops	.

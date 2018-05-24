@@ -1,0 +1,9 @@
+amod	militants	Foreign
+root	ROOT	militants
+acl	militants	killed
+case	Somalia	in
+nmod:in	killed	Somalia
+case	strike	in
+nmod:in	killed	strike
+case	car	on
+nmod:on	strike	car

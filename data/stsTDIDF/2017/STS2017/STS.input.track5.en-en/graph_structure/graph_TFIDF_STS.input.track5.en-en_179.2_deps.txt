@@ -1,0 +1,8 @@
+square	.	punct
+square	A	det
+square	city	compound
+country	an	det
+ROOT	square	root
+country	asian	amod
+square	busy	amod
+square	country	nmod:in

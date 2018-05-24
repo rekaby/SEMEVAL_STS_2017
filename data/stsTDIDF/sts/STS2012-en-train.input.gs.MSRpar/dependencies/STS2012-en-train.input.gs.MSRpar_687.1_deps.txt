@@ -1,0 +1,16 @@
+det	analysis	A
+compound	analysis	cost
+nsubj	way	analysis
+cop	way	is
+case	way	under
+ccomp	said	way
+punct	said	,
+root	ROOT	said
+compound	Rebell	Michael
+nsubj	said	Rebell
+punct	Rebell	,
+nmod:poss	director	CFE
+case	CFE	's
+amod	director	executive
+appos	Rebell	director
+punct	said	.

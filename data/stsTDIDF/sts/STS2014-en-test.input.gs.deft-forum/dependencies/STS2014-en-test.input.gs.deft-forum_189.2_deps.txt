@@ -1,0 +1,12 @@
+det	one	The
+root	ROOT	one
+nsubj	has	that
+acl:relcl	one	has
+nsubj	walks	three
+ccomp	has	walks
+dobj	walks	home
+cc	walks	and
+conj:and	walks	beats
+nmod:poss	wife	his
+dobj	beats	wife
+punct	one	.

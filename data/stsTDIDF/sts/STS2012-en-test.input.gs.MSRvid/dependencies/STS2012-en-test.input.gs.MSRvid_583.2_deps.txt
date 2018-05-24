@@ -1,0 +1,9 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	foods
+case	box	in
+det	box	a
+nmod:in	putting	box
+punct	putting	.

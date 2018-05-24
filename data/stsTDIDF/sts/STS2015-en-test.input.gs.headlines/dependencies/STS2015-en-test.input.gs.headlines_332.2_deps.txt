@@ -1,0 +1,17 @@
+advmod	christening	When
+aux	christening	is
+compound	George	Prince
+nmod:poss	christening	George
+case	George	's
+root	ROOT	christening
+punct	christening	?-7) compound(plan-2, Baptism
+root	ROOT	plan
+punct	plan	,
+amod	baby	royal
+nmod:poss	godparents	baby
+case	baby	's
+appos	plan	godparents
+cc	godparents	and
+det:predet	details	all
+det	details	the
+conj:and	godparents	details

@@ -1,0 +1,7 @@
+root	ROOT	Superglue
+mark	walk	to
+acl	Superglue	walk
+case	walls	on
+det	walls	the
+nmod:on	walk	walls
+punct	Superglue	.

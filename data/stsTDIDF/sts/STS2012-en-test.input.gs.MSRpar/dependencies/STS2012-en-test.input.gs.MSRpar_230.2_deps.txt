@@ -1,0 +1,17 @@
+det	Index	The
+amod	Index	technology-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	points	Index
+cop	points	was
+case	points	down
+nummod	points	25.36
+root	ROOT	points
+punct	points	,
+cc	points	or
+nummod	percent	1.53
+conj:or	points	percent
+punct	points	,
+case	1,628.26	at
+nmod:at	points	1,628.26
+punct	points	.

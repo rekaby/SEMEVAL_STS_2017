@@ -1,0 +1,13 @@
+breakdancer	on	case
+breakdancer	the	det
+shows	as	mark
+ROOT	cheers	root
+moves	his	nmod:poss
+shows	off	compound:prt
+moves	dance	compound
+shows	moves	dobj
+cheers	breakdancer	nmod:on
+cheers	shows	advcl
+cheers	crowd	nsubj
+shows	he	nsubj
+cheers	.	punct

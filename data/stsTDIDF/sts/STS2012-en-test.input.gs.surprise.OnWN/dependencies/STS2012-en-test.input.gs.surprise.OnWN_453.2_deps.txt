@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	informing	of
+acl	act	informing
+case	report	by
+amod	report	verbal
+nmod:by	informing	report
+punct	act	.

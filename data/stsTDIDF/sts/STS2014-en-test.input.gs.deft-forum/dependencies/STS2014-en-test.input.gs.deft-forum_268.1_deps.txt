@@ -1,0 +1,12 @@
+det	government	The
+nsubj	determine	government
+aux	determine	does
+neg	determine	not
+root	ROOT	determine
+mark	married	if
+nsubjpass	married	you
+auxpass	married	are
+advcl	determine	married
+cc	married	or
+conj:or	married	not
+punct	determine	.

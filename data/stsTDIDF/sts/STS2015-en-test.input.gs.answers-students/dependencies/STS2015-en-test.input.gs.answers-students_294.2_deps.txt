@@ -1,0 +1,15 @@
+mark	burns	If
+compound	A	bulb
+nsubj	burns	A
+advcl	path	burns
+compound:prt	burns	out
+punct	path	,
+cc:preconj	B	neither
+nsubj	path	B
+cc	B	nor
+conj:nor	B	C
+cop	path	is
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

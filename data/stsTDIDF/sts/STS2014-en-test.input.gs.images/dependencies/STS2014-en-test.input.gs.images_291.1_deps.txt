@@ -1,0 +1,10 @@
+det	man	A
+nsubj	stand	man
+cc	man	and
+conj:and	man	woman
+root	ROOT	stand
+punct	stand	,
+xcomp	stand	smiling
+case	camera	for
+nmod:for	smiling	camera
+punct	stand	.

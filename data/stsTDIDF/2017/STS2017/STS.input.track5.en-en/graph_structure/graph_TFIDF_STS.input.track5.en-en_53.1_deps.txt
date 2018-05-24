@@ -1,0 +1,6 @@
+holding	Girls	nsubj
+clothes	blue	amod
+holding	hands	dobj
+hands	clothes	nmod:in
+holding	are	aux
+clothes	in	case

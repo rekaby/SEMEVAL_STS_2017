@@ -1,0 +1,16 @@
+root	ROOT	Spin
+punct	Spin	,
+conj:or	Spin	wind
+punct	Spin	,
+conj:or	Spin	braid
+punct	Spin	,
+cc	Spin	or
+conj:or	Spin	twist
+advmod	twist	together
+punct	Spin	,
+advmod	performing	perhaps
+mark	performing	as
+advmod	performing	when
+advcl	Spin	performing
+dobj	performing	lacework
+punct	Spin	.

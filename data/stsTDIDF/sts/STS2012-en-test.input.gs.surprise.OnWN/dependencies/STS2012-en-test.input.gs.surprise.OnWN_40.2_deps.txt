@@ -1,0 +1,14 @@
+det	position	the
+amod	position	relative
+root	ROOT	position
+cc	position	or
+conj:or	position	standing
+case	things	of
+nmod:of	standing	things
+cc	things	or
+advmod	persons	especially
+conj:or	things	persons
+case	society	in
+det	society	a
+nmod:in	persons	society
+punct	position	.

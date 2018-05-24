@@ -1,0 +1,12 @@
+det	state	a
+root	ROOT	state
+case	order	of
+nmod:of	state	order
+case	which	in
+nmod:in	conform	which
+nsubj	conform	events
+acl:relcl	order	conform
+case	law	to
+det	law	the
+nmod:to	conform	law
+punct	state	.

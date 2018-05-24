@@ -1,0 +1,8 @@
+compound	League	Arab
+nsubj	Backs	League
+root	ROOT	Backs
+amod	Stance	Palestinian
+dobj	Backs	Stance
+case	Peace	in
+nmod:in	Backs	Peace
+dep	Backs	Talks

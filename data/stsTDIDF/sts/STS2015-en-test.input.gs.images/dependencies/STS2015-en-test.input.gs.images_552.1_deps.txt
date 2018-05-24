@@ -1,0 +1,10 @@
+det	clowns	The
+nsubj	striking	clowns
+aux	striking	are
+root	ROOT	striking
+det	pose	a
+dobj	striking	pose
+case	camera	for
+det	camera	the
+nmod:for	pose	camera
+punct	striking	.

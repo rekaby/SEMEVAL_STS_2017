@@ -1,0 +1,6 @@
+nsubj	step	People
+root	ROOT	step
+compound:prt	step	off
+det	train	a
+dobj	step	train
+punct	step	.

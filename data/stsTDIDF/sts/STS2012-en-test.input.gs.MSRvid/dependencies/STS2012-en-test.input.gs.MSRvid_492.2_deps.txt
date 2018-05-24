@@ -1,0 +1,9 @@
+det	machine	The
+nsubj	shaved	machine
+root	ROOT	shaved
+det	end	the
+dobj	shaved	end
+case	pencil	of
+det	pencil	the
+nmod:of	end	pencil
+punct	shaved	.

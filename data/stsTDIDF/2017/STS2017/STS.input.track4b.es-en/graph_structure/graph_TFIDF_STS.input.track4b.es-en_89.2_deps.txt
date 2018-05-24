@@ -1,0 +1,10 @@
+support	bipartisan	amod
+statement	is	cop
+support	aspirations	nmod:for
+aspirations	their	nmod:poss
+statement	support	nmod:of
+aspirations	for	case
+aspirations	democratic	amod
+ROOT	statement	root
+statement	It	nsubj
+statement	.	punct

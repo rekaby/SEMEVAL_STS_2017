@@ -1,0 +1,9 @@
+accepts	shuts	conj:and
+accepts	simply	advmod
+accepts	and	cc
+is	accepts	ccomp
+shuts	up	compound:prt
+want	What	dobj
+accepts	say	ccomp
+accepts	that	mark
+accepts	one	nsubj

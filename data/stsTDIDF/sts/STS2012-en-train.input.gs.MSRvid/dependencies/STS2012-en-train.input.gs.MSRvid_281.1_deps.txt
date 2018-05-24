@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	dicing	woman
+aux	dicing	is
+root	ROOT	dicing
+det	potatoes	some
+amod	potatoes	peeled
+nsubj	cut	potatoes
+ccomp	dicing	cut
+case	strips	into
+amod	strips	thick
+nmod:into	cut	strips
+punct	dicing	.

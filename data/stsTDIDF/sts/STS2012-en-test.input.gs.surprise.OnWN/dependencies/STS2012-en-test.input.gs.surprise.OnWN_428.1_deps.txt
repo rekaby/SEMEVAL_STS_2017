@@ -1,0 +1,11 @@
+compound	points	gain
+root	ROOT	points
+case	game	in
+det	game	a
+nmod:in	points	game
+punct	points	;
+parataxis	points	add
+compound:prt	add	up
+punct	numbers	-LRB-
+dep	add	numbers
+punct	numbers	-RRB-

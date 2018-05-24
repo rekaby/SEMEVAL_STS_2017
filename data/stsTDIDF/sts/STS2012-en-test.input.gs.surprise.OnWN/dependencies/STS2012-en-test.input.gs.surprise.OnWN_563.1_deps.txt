@@ -1,0 +1,12 @@
+punct	cause	-LRB-
+dep	move	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	move
+advmod	move	back
+cc	back	and
+conj:and	back	forth
+cc	back	or
+conj:or	back	side
+case	side	to
+nmod:to	back	side

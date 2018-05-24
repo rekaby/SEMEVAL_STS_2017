@@ -1,0 +1,10 @@
+gasket	blue	amod
+dog	wearing	acl
+dog	Brown	amod
+grass	on	case
+gasket	a	det
+ROOT	dog	root
+wearing	grass	ccomp
+dog	.	punct
+grass	being	cop
+grass	gasket	nsubj

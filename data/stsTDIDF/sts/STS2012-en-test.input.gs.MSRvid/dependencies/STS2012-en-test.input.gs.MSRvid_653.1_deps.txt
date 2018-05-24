@@ -1,0 +1,6 @@
+det	man	A
+nsubj	shoots	man
+root	ROOT	shoots
+det	basket	a
+dobj	shoots	basket
+punct	shoots	.

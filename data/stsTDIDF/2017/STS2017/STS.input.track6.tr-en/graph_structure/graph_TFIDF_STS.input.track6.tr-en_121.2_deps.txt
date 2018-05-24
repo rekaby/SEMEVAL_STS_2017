@@ -1,0 +1,7 @@
+air	is	cop
+ROOT	air	root
+air	.	punct
+face	fancy	amod
+face	with	case
+air	person	nsubj
+person	face	nmod:with

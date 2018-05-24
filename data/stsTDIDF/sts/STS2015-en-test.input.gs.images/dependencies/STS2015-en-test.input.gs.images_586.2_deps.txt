@@ -1,0 +1,13 @@
+nummod	girls	Two
+amod	girls	teenage
+nsubj	standing	girls
+aux	standing	are
+root	ROOT	standing
+case	beach	on
+case	beach	beside
+det	beach	the
+nmod:beside	standing	beach
+xcomp	standing	listening
+case	ipods	to
+nmod:to	listening	ipods
+punct	standing	.

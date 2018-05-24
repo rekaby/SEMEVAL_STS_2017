@@ -1,0 +1,10 @@
+root	ROOT	bulbs
+nsubjpass	contained	a
+cc	a	and
+conj:and	a	c
+auxpass	contained	are
+neg	contained	not
+acl:relcl	bulbs	contained
+nsubj	closed	ina
+ccomp	contained	closed
+dobj	closed	path

@@ -1,0 +1,13 @@
+nsubj	hold	Democrats
+advmod	hold	currently
+root	ROOT	hold
+det	advantage	a
+nummod	advantage	17-15
+dobj	hold	advantage
+case	delegation	in
+det	state	the
+nmod:poss	delegation	state
+case	state	's
+amod	delegation	congressional
+nmod:in	advantage	delegation
+punct	hold	.

@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	pushes	boy
+root	ROOT	pushes
+det	wagon	a
+dobj	pushes	wagon
+case	pumpkins	with
+nummod	pumpkins	two
+nmod:with	pushes	pumpkins
+punct	pushes	.

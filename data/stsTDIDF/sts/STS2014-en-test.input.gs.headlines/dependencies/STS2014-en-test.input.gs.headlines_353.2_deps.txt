@@ -1,0 +1,12 @@
+compound	Taliban	Pakistan
+nsubj	vows	Taliban
+root	ROOT	vows
+dobj	vows	revenge
+punct	vows	,
+mark	repay	to
+advcl	vows	repay
+nmod:poss	killing	Hakimullah
+case	Hakimullah	's
+dobj	repay	killing
+case	bloodshed	in
+nmod:in	repay	bloodshed

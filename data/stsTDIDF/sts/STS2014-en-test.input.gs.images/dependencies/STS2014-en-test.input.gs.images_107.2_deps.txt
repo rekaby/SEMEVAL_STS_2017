@@ -1,0 +1,16 @@
+det	girl	An
+amod	girl	Asian
+compound	girl	toddler
+nsubj	sits	girl
+root	ROOT	sits
+case	pot	next
+mwe	next	to
+det	pot	a
+nmod:next_to	sits	pot
+case	flowers	of
+nmod:of	pot	flowers
+case	post	on
+det	post	a
+compound	post	marble
+nmod:on	pot	post
+punct	sits	.

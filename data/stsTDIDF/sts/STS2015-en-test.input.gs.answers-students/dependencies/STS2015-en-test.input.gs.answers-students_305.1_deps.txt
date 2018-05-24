@@ -1,0 +1,14 @@
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	terminals	between
+nmod:between	gap	terminals
+nummod	terminals	1
+cc	terminals	and
+conj:and	terminals	2
+case	terminal	from
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:from	gap	terminal

@@ -1,0 +1,12 @@
+nsubj	tried	We
+root	ROOT	tried
+xcomp	tried	putting
+det	betta	a
+amod	betta	male
+dobj	putting	betta
+case	tank	in
+det	tank	a
+compound	tank	community
+nmod:in	putting	tank
+advmod	putting	once
+punct	tried	.

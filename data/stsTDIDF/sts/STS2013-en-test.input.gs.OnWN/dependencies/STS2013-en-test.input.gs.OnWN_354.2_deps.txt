@@ -1,0 +1,9 @@
+root	ROOT	raise
+case	lower	from
+det	lower	a
+nmod:from	raise	lower
+case	position	to
+det	position	a
+amod	position	higher
+nmod:to	lower	position
+punct	raise	.

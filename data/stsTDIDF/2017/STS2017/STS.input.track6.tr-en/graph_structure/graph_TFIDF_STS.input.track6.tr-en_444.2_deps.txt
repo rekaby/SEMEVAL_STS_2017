@@ -1,0 +1,9 @@
+clown	holding	acl
+holding	broom	dobj
+smile	people	nmod:to
+smile	is	cop
+broom	the	det
+ROOT	smile	root
+clown	The	det
+smile	clown	nsubj
+smile	.	punct

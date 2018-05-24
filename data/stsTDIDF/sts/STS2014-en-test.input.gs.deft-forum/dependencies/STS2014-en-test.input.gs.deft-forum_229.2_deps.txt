@@ -1,0 +1,16 @@
+mark	active	If
+nsubj	active	I
+cop	active	'm
+amod	active	hyper
+advcl	show	active
+punct	show	,
+nsubj	show	it
+aux	show	will
+root	ROOT	show
+compound:prt	show	up
+case	one	in
+nmod:in	show	one
+case	scans	of
+det	scans	those
+nmod:of	one	scans
+punct	show	.-16) root(ROOT-0, .

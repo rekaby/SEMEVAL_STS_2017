@@ -1,0 +1,11 @@
+det	man	An
+amod	man	Asian
+root	ROOT	man
+amod	man	standing
+case	points	by
+det	points	a
+compound	points	door
+nmod:by	standing	points
+case	something	to
+nmod:to	points	something
+punct	man	.

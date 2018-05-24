@@ -1,0 +1,11 @@
+det	forces	the
+amod	forces	conventional
+nsubjpass	amended	forces
+case	treaty	in
+compound	treaty	europe
+nmod:in	forces	treaty
+auxpass	amended	was
+root	ROOT	amended
+case	1999	in
+nmod:in	amended	1999
+punct	amended	.

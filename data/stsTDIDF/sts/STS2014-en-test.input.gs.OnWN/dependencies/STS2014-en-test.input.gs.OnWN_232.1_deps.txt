@@ -1,0 +1,7 @@
+root	ROOT	remove
+dobj	remove	substances
+case	liquid	from
+det	liquid	a
+nmod:from	remove	liquid
+cc	liquid	or
+conj:or	liquid	solution

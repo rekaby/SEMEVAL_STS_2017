@@ -1,0 +1,16 @@
+det	man	A
+nsubj	sitting	man
+case	jacket	in
+det	jacket	a
+compound	jacket	suit
+nmod:in	man	jacket
+aux	sitting	is
+root	ROOT	sitting
+case	couch	on
+det	couch	a
+amod	couch	red
+nmod:on	sitting	couch
+case	cat	with
+det	cat	a
+nmod:with	couch	cat
+punct	sitting	.

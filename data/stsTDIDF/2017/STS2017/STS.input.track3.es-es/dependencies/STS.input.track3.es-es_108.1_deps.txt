@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	trying	girl
+aux	trying	is
+root	ROOT	trying
+mark	hide	to
+xcomp	trying	hide
+case	parents	from
+nmod:poss	parents	her
+nmod:from	hide	parents

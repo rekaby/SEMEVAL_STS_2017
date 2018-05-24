@@ -1,0 +1,6 @@
+nsubj	alert	UK
+root	ROOT	alert
+case	arms	on
+amod	arms	Syrian
+compound	arms	chemical
+nmod:on	alert	arms

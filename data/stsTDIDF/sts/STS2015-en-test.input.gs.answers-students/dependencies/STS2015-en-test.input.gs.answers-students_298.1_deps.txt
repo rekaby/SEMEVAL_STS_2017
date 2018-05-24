@@ -1,0 +1,10 @@
+det	battery	The
+nsubjpass	closed	battery
+auxpass	closed	is
+neg	closed	not
+root	ROOT	closed
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	closed	path
+punct	closed	.

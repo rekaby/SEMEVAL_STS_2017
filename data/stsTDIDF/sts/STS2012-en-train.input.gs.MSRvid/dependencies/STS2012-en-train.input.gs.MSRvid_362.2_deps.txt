@@ -1,0 +1,11 @@
+det	man	The
+root	ROOT	man
+acl	man	slced
+case	rope	through
+det	rope	a
+amod	rope	thick
+nmod:through	slced	rope
+case	sword	with
+det	sword	a
+nmod:with	rope	sword
+punct	man	.

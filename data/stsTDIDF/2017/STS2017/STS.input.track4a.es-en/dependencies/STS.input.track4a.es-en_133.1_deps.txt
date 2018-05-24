@@ -1,0 +1,8 @@
+det	family	A
+nsubj	walks	family
+root	ROOT	walks
+case	beams	under
+amod	beams	large
+amod	beams	wooden
+nmod:under	walks	beams
+punct	walks	.

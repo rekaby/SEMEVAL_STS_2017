@@ -1,0 +1,10 @@
+det	horse	A
+amod	horse	brown
+nsubj	stands	horse
+root	ROOT	stands
+case	field	in
+det	field	a
+amod	field	lush
+amod	field	green
+nmod:in	stands	field
+punct	stands	.

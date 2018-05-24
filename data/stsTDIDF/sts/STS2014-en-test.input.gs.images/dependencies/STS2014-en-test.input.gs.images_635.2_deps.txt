@@ -1,0 +1,9 @@
+det	TV	The
+amod	TV	wall-mounted
+amod	TV	flat-screen
+nsubj	showing	TV
+aux	showing	is
+root	ROOT	showing
+det	movie	a
+dobj	showing	movie
+punct	showing	.

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	holding	woman
+aux	holding	is
+root	ROOT	holding
+det	baby	a
+compound	baby	dancing
+dobj	holding	baby
+compound:prt	holding	up
+punct	holding	.

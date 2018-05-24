@@ -1,0 +1,8 @@
+compound	toll	Philippines
+compound	toll	typhoon
+compound	toll	death
+root	ROOT	toll
+case	4,460	at
+nmod:at	toll	4,460
+punct	toll	:
+dep	toll	UN

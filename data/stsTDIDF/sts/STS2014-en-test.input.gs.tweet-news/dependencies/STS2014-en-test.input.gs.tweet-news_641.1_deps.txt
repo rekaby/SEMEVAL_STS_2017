@@ -1,0 +1,15 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	Holmes	D.
+compound	Holmes	Brainerd
+nsubj	Dies	Holmes
+punct	Holmes	,
+det	Leader	a
+appos	Holmes	Leader
+case	Race	in
+compound	Race	Space
+nmod:in	Leader	Race
+punct	Holmes	,
+dep	NYTimes	Dies
+case	91	at
+nmod:at	Dies	91

@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	reclines	cat
+root	ROOT	reclines
+case	chair	on
+det	chair	an
+compound	chair	office
+nmod:on	reclines	chair
+punct	reclines	.

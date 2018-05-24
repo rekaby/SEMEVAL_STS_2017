@@ -1,0 +1,10 @@
+nsubj	want	Women
+root	ROOT	want
+det	child	the
+dobj	want	child
+mark	look	to
+xcomp	want	look
+case	camera	at
+det	camera	the
+nmod:at	look	camera
+punct	want	.

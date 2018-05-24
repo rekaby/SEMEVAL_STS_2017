@@ -1,0 +1,12 @@
+cop	bad	be
+advmod	bad	extremely
+root	ROOT	bad
+conj:or	bad	bad
+case	quality	in
+nmod:in	bad	quality
+cc	bad	or
+case	performance	in
+nmod:poss	performance	one
+case	one	's
+nmod:in	bad	performance
+punct	bad	.

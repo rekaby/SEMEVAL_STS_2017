@@ -1,0 +1,14 @@
+amod	soldier	South
+amod	soldier	Korean
+nsubj	flees	soldier
+advmod	flees	reportedly
+root	ROOT	flees
+mark	killing	after
+advcl	flees	killing
+nummod	comrades	5
+dobj	killing	comrades
+case	border	at
+nmod:at	killing	border
+case	Korea	with
+compound	Korea	North
+nmod:with	border	Korea

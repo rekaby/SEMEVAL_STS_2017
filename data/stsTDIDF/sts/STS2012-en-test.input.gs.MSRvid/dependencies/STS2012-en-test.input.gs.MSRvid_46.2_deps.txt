@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	measures	woman
+root	ROOT	measures
+det	woman	another
+nmod:poss	ankle	woman
+case	woman	's
+dobj	measures	ankle
+punct	measures	.

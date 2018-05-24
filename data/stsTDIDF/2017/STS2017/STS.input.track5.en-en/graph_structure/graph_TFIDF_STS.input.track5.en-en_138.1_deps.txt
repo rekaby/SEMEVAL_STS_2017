@@ -1,0 +1,6 @@
+playing	park	nmod:at
+players	playing	acl
+ROOT	players	root
+players	Baseball	compound
+park	at	case
+players	.	punct

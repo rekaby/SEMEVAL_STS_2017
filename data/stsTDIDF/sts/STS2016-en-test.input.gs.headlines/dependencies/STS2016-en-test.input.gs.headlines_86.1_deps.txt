@@ -1,0 +1,10 @@
+nsubj	kills	Man
+root	ROOT	kills
+dobj	kills	4
+case	Calif.	in
+nmod:in	kills	Calif.
+mark	shoot	before
+nsubj	shoot	police
+advcl	kills	shoot
+dobj	shoot	him
+advmod	shoot	dead

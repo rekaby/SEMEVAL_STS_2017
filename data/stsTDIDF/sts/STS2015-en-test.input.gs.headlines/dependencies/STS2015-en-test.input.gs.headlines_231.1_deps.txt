@@ -1,0 +1,6 @@
+compound	case	Bradley
+compound	case	Manning-WikiLeaks
+nsubj	turns	case
+root	ROOT	turns
+mark	sentencing	to
+xcomp	turns	sentencing

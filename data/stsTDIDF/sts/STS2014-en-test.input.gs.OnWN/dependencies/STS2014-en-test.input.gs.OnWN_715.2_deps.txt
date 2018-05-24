@@ -1,0 +1,7 @@
+root	ROOT	show
+det	form	the
+dobj	show	form
+cc	form	or
+conj:or	form	outline
+dep	form	of
+punct	show	.

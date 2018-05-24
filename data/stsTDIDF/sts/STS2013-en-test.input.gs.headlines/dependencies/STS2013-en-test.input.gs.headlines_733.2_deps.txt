@@ -1,0 +1,7 @@
+compound	lawmakers	Somalia
+root	ROOT	lawmakers
+mark	vote	to
+acl	lawmakers	vote
+case	president	for
+amod	president	new
+nmod:for	vote	president

@@ -1,0 +1,16 @@
+root	ROOT	Man
+mark	loading	with
+compound	hat	cowboy
+nsubj	loading	hat
+advcl	Man	loading
+det	chest	a
+dobj	loading	chest
+case	pack	onto
+det	pack	a
+nmod:onto	loading	pack
+case	horses	of
+nmod:of	pack	horses
+case	wilderness	in
+det	wilderness	the
+nmod:in	pack	wilderness
+punct	Man	.

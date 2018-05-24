@@ -1,0 +1,13 @@
+det	boy	A
+nsubjpass	chased	boy
+aux	chased	is
+auxpass	chased	being
+root	ROOT	chased
+case	tunnel	through
+det	tunnel	a
+compound	tunnel	toy
+nmod:through	chased	tunnel
+case	dog	by
+det	dog	a
+nmod:agent	chased	dog
+punct	chased	.

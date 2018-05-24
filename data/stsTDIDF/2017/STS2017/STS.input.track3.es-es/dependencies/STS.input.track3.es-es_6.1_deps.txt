@@ -1,0 +1,5 @@
+det	person	A
+root	ROOT	person
+acl	person	doing
+dobj	doing	abseiling
+punct	person	.

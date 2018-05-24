@@ -1,0 +1,12 @@
+det	person	The
+nsubj	scanning	person
+aux	scanning	is
+root	ROOT	scanning
+det	hair	the
+amod	hair	beautiful
+amod	hair	yellow
+dobj	scanning	hair
+case	bathroom	in
+det	bathroom	the
+nmod:in	scanning	bathroom
+punct	scanning	.

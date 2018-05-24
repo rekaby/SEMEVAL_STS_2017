@@ -1,0 +1,10 @@
+nummod	people	Three
+nsubj	water	people
+cop	water	are
+case	water	by
+det	water	the
+root	ROOT	water
+case	canoes	with
+amod	canoes	yellow
+nmod:with	water	canoes
+punct	water	.

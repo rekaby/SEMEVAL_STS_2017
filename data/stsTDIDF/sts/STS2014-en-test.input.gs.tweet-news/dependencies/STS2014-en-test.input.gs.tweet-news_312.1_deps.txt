@@ -1,0 +1,10 @@
+compound	Hospitals	US
+nsubj	Turn	Hospitals
+root	ROOT	Turn
+case	Visitors	Away
+nmod:away	Turn	Visitors
+case	Symptoms	With
+compound	Symptoms	Flu
+nmod:with	Visitors	Symptoms
+punct	Visitors	-
+dep	Visitors	NYT

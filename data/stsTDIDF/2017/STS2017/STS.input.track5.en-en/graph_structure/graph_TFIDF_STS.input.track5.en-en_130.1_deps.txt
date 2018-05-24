@@ -1,0 +1,8 @@
+tries	player	nsubj
+tackle	team	nmod:on
+player	football	compound
+tackle	to	mark
+team	opposing	amod
+player	One	nummod
+tries	tackle	xcomp
+tackle	player	dobj

@@ -1,0 +1,20 @@
+det	Standard	The
+amod	Standard	broader
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+root	ROOT	Index
+punct	Index	.-9) nsubj(gained-2, SPX
+root	ROOT	gained
+nummod	points	3
+dobj	gained	points
+punct	points	,
+cc	points	or
+nummod	percent	0.39
+conj:or	points	percent
+punct	points	,
+case	924	at
+nmod:at	gained	924
+punct	gained	.

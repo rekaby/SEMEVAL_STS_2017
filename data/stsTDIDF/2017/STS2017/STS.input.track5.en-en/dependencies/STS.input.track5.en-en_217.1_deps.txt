@@ -1,0 +1,15 @@
+det	girl	A
+amod	girl	little
+nsubj	frolics	girl
+case	blouse	in
+det	blouse	a
+amod	blouse	white
+nmod:in	girl	blouse
+cc	blouse	and
+amod	pants	blue
+conj:and	blouse	pants
+root	ROOT	frolics
+case	grass	on
+det	grass	the
+nmod:on	frolics	grass
+punct	frolics	.

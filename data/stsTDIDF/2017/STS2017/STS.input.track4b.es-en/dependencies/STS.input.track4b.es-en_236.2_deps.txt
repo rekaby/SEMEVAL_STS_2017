@@ -1,0 +1,14 @@
+compound	Englund	Mr.
+nmod:poss	book	Englund
+case	Englund	's
+nsubj	departure	book
+cop	departure	is
+det	departure	a
+root	ROOT	departure
+case	books	from
+det	books	the
+amod	books	standard
+nmod:from	departure	books
+case	history	of
+nmod:of	books	history
+punct	departure	.

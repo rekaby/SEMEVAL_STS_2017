@@ -1,0 +1,8 @@
+root	ROOT	4
+acl	4	killed
+case	bombing	in
+compound	bombing	shrine
+nmod:in	killed	bombing
+case	Pakistan	in
+amod	Pakistan	northwest
+nmod:in	bombing	Pakistan

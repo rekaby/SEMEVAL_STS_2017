@@ -1,0 +1,16 @@
+compound	shares	MONY
+nsubj	rose	shares
+root	ROOT	rose
+dobj	rose	8.76
+case	cent	per
+nmod:per	8.76	cent
+case	$	to
+nmod:to	rose	$
+nummod	$	31.90
+case	trading	in
+amod	trading	after-hours
+nmod:in	rose	trading
+case	York	in
+compound	York	New
+nmod:in	trading	York
+punct	rose	.

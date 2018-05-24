@@ -1,0 +1,10 @@
+det	woman	The
+amod	woman	older
+nsubj	feeding	woman
+aux	feeding	is
+root	ROOT	feeding
+dobj	feeding	oranges
+case	man	to
+det	man	the
+nmod:to	feeding	man
+punct	feeding	.

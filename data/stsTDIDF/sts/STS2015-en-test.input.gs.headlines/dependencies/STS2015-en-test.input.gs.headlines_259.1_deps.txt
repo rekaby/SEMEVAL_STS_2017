@@ -1,0 +1,11 @@
+compound	Haiyan	Super
+compound	Haiyan	Typhoon
+nsubj	Slams	Haiyan
+punct	Haiyan	,
+appos	Haiyan	Strongest
+case	Season	of
+nmod:of	Strongest	Season
+punct	Haiyan	,
+root	ROOT	Slams
+det	Philippines	the
+dobj	Slams	Philippines

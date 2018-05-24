@@ -1,0 +1,5 @@
+playing	guitar	dobj
+playing	rain	nmod:in
+rain	in	case
+man	playing	acl
+guitar	the	det

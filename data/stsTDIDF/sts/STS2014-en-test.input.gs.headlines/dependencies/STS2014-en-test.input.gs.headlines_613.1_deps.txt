@@ -1,0 +1,9 @@
+compound	police	P.G.
+root	ROOT	police
+acl	police	seeking
+dobj	seeking	driver
+case	crash	in
+nmod:in	driver	crash
+nsubj	killed	that
+acl:relcl	crash	killed
+dobj	killed	child

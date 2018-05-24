@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	combing	woman
+aux	combing	is
+root	ROOT	combing
+nmod:poss	hair	her
+dobj	combing	hair
+punct	combing	.

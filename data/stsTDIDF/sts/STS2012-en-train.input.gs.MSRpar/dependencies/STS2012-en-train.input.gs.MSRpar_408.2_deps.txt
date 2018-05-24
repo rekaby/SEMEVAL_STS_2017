@@ -1,0 +1,14 @@
+compound	Airways	British
+nsubj	plans	Airways
+root	ROOT	plans
+mark	retire	to
+xcomp	plans	retire
+nmod:poss	Concordes	its
+nummod	Concordes	seven
+dobj	retire	Concordes
+case	end	at
+det	end	the
+nmod:at	retire	end
+case	October	of
+nmod:of	end	October
+punct	plans	.

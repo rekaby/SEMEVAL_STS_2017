@@ -1,0 +1,7 @@
+nsubj	faces	Benzema
+root	ROOT	faces
+amod	charges	possible
+dobj	faces	charges
+case	case	in
+compound	case	sex-tape
+nmod:in	charges	case

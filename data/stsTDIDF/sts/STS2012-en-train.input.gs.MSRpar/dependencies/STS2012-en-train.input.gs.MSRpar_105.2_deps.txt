@@ -1,0 +1,15 @@
+compound	Mertel	King
+compound	Mertel	County
+compound	Mertel	Superior
+compound	Mertel	Court
+compound	Mertel	Judge
+compound	Mertel	Charles
+nsubj	recess	Mertel
+aux	recess	will
+advmod	recess	then
+root	ROOT	recess
+det	trial	the
+dobj	recess	trial
+case	Monday	until
+nmod:until	recess	Monday
+punct	recess	.

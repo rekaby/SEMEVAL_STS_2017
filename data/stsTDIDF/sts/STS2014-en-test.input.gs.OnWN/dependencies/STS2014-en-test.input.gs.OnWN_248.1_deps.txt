@@ -1,0 +1,8 @@
+root	ROOT	Influence
+cc	Influence	or
+conj:or	Influence	control
+dep	Influence	skillfully
+cc	skillfully	and
+conj:and	skillfully	often
+dep	skillfully	deviously
+punct	Influence	.

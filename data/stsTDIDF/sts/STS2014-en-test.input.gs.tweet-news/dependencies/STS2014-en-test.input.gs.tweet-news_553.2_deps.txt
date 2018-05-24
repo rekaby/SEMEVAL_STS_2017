@@ -1,0 +1,9 @@
+compound	Murders	Cold
+compound	Murders	Wave
+compound	Murders	Cut
+root	ROOT	Murders
+case	City	in
+compound	City	New
+compound	City	York
+nmod:in	Murders	City
+advmod	Murders	Significantly

@@ -1,0 +1,12 @@
+det	back	the
+root	ROOT	back
+case	stop	of
+det	stop	a
+nmod:of	back	stop
+amod	stop	sign
+case	stickers	with
+amod	stickers	many
+nmod:with	sign	stickers
+case	it	on
+nmod:on	stickers	it
+punct	back	.

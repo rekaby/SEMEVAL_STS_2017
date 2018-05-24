@@ -1,0 +1,11 @@
+det	messenger	a
+root	ROOT	messenger
+acl	messenger	deployed
+case	mission	on
+det	mission	a
+nmod:on	deployed	mission
+case	someone	on
+mwe	on	behalf
+mwe	on	of
+nmod:on_behalf_of	mission	someone
+advmod	messenger	else

@@ -1,0 +1,7 @@
+nsubj	brings	Blizzard
+root	ROOT	brings
+compound	northeast	US
+dobj	brings	northeast
+case	halt	to
+det	halt	a
+nmod:to	brings	halt

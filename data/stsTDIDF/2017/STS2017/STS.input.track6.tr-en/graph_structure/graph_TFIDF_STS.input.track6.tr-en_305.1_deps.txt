@@ -1,0 +1,10 @@
+stuck	since	advmod
+since	earthquake	dep
+cellar	in	case
+earthquake	buried	acl
+stuck	cellar	nmod:in
+earthquake	the	det
+buried	house	dobj
+stuck	have	aux
+cellar	the	det
+stuck	group	nsubj

@@ -1,0 +1,17 @@
+amod	article	Great
+amod	article	informative
+root	ROOT	article
+nsubj	shows	that
+acl:relcl	article	shows
+nmod:poss	cooperation	PepsiCo
+case	PepsiCo	's
+dobj	shows	cooperation
+mark	resolving	with
+advcl	shows	resolving
+det	issue	this
+compound	issue	health
+dobj	resolving	issue
+cc	resolving	and
+conj:and	resolving	placing
+dobj	placing	consumers
+advmod	resolving	first

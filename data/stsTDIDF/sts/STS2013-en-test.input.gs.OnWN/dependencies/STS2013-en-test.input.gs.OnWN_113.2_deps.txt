@@ -1,0 +1,14 @@
+det	growth	a
+root	ROOT	growth
+case	plants	of
+amod	plants	similar
+nmod:of	growth	plants
+punct	trees	-LRB-
+advmod	trees	usually
+appos	plants	trees
+punct	trees	-RRB-
+case	area	in
+det	area	a
+amod	area	particular
+nmod:in	growth	area
+punct	growth	.

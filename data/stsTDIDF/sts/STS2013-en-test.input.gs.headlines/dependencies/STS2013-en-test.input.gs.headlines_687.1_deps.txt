@@ -1,0 +1,8 @@
+compound	bomb	Roadside
+nsubj	kills	bomb
+root	ROOT	kills
+nummod	civilians	10
+compound	civilians	Afghan
+dobj	kills	civilians
+punct	kills	:
+dep	kills	police

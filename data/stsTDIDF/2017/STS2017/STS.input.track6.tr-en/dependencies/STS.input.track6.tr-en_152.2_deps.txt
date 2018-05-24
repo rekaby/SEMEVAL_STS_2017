@@ -1,0 +1,17 @@
+det	man	A
+amod	man	red-haired
+nsubj	protects	man
+root	ROOT	protects
+dobj	protects	himself
+case	sun	from
+det	sun	the
+nmod:from	protects	sun
+mark	trying	while
+advcl	protects	trying
+mark	read	to
+xcomp	trying	read
+det	piece	a
+dobj	read	piece
+case	paper	of
+nmod:of	piece	paper
+punct	protects	.

@@ -1,0 +1,14 @@
+root	ROOT	remove
+mark	erasing	by
+advcl	remove	erasing
+cc	erasing	or
+conj:or	erasing	crossing
+compound:prt	erasing	out
+cc	erasing	or
+conj:or	erasing	as
+mark	drawing	if
+mark	drawing	by
+advcl	as	drawing
+det	line	a
+dobj	drawing	line
+punct	remove	.

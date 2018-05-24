@@ -1,0 +1,8 @@
+det	train	A
+nsubj	parked	train
+root	ROOT	parked
+case	station	at
+det	station	a
+compound	station	train
+nmod:at	parked	station
+punct	parked	.

@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	wheelchair	in
+det	wheelchair	a
+nmod:in	man	wheelchair
+acl	wheelchair	walking
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	walking	sidewalk

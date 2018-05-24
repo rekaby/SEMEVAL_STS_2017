@@ -1,0 +1,10 @@
+compound	senators	US
+nsubj	penalize	senators
+root	ROOT	penalize
+dobj	penalize	Pakistan
+case	doctor	for
+amod	doctor	jailing
+nmod:for	penalize	doctor
+nsubj	aided	who
+acl:relcl	doctor	aided
+dobj	aided	CIA

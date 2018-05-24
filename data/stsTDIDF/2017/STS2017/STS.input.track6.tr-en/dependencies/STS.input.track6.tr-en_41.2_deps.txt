@@ -1,0 +1,11 @@
+det	person	A
+root	ROOT	person
+acl	person	floating
+case	pool	in
+det	pool	the
+nmod:in	floating	pool
+cc	person	and
+conj:and	person	talking
+case	someone	to
+nmod:to	talking	someone
+punct	person	.

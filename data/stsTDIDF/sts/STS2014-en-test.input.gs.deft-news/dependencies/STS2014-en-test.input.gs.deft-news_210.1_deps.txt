@@ -1,0 +1,8 @@
+compound	initiatives	government
+nsubj	ineffective	initiatives
+mark	disarm	to
+acl	initiatives	disarm
+aux	ineffective	have
+cop	ineffective	been
+root	ROOT	ineffective
+punct	ineffective	.

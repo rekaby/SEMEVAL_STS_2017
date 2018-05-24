@@ -1,0 +1,10 @@
+det	man	A
+nsubj	throwing	man
+aux	throwing	is
+root	ROOT	throwing
+det	penny	a
+dobj	throwing	penny
+case	fountain	into
+det	fountain	a
+nmod:into	throwing	fountain
+punct	throwing	.

@@ -1,0 +1,8 @@
+root	ROOT	Hospital
+punct	Hospital	:
+nummod	riot	61
+amod	riot	killed
+case	prison	in
+compound	prison	Venezuela
+nmod:in	killed	prison
+dep	Hospital	riot

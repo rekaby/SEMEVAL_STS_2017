@@ -1,0 +1,7 @@
+compound	toll	Bangladesh
+compound	toll	building
+compound	toll	disaster
+compound	toll	death
+nsubj	passes	toll
+root	ROOT	passes
+dobj	passes	500

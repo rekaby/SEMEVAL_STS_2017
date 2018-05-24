@@ -1,0 +1,11 @@
+isolated	mainly	advmod
+ROOT	isolated	root
+families	except	case
+isolated	beach	nsubjpass
+isolated	is	auxpass
+rain	some	det
+families	few	amod
+families	a	det
+isolated	families	nmod:except_for
+isolated	rain	conj:and
+isolated	and	cc

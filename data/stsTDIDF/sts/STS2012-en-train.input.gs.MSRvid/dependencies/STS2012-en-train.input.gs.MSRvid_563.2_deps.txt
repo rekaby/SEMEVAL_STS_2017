@@ -1,0 +1,8 @@
+nsubj	cutting	Someone
+aux	cutting	is
+root	ROOT	cutting
+det	piece	a
+dobj	cutting	piece
+case	meat	of
+nmod:of	piece	meat
+punct	cutting	.

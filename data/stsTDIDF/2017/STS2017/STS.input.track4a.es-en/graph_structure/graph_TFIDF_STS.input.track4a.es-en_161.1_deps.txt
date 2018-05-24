@@ -1,0 +1,5 @@
+turn	Cyclists	nsubj
+turn	abruptly	advmod
+turn	left	nmod:to
+Cyclists	race	nmod:in
+race	bicycle	compound

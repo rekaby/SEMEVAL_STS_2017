@@ -1,0 +1,10 @@
+compound	Sours	AbbVie
+root	ROOT	Sours
+case	$	on
+nmod:on	Sours	$
+nummod	$	55B
+compound	Deal	Shire
+dep	$	Deal
+case	Changes	After
+compound	Changes	Tax
+nmod:after	Sours	Changes

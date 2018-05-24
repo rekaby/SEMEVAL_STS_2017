@@ -1,0 +1,17 @@
+det	majority	the
+nsubj	believes	majority
+case	nation	of
+det	nation	this
+nmod:of	majority	nation
+root	ROOT	believes
+case	god	in
+nmod:in	believes	god
+cc	believes	and
+conj:and	believes	believes
+mark	turn	that
+nsubj	turn	he
+aux	turn	will
+ccomp	believes	turn
+case	us	on
+nmod:on	turn	us
+punct	believes	.

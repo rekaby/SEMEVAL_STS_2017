@@ -1,0 +1,16 @@
+root	ROOT	Provoke
+dobj	Provoke	someone
+mark	do	to
+acl	someone	do
+dobj	do	something
+mark	promises	through
+punct	exaggerated	-LRB-
+advmod	exaggerated	often
+dep	promises	exaggerated
+cc	exaggerated	or
+conj:or	exaggerated	false
+punct	exaggerated	-RRB-
+advcl	do	promises
+cc	promises	or
+conj:or	promises	persuasion
+punct	Provoke	.

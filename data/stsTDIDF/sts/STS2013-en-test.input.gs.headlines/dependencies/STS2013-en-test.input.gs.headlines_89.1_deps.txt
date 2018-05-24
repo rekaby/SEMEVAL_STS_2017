@@ -1,0 +1,5 @@
+compound	terror	IAF
+compound	terror	strike
+compound	terror	Gaza
+nsubj	hubs	terror
+root	ROOT	hubs

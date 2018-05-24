@@ -1,0 +1,7 @@
+take	nap	dobj
+take	car	nmod:in
+finds	time	dobj
+nap	a	det
+time	take	acl
+car	electric	amod
+finds	man	nsubj

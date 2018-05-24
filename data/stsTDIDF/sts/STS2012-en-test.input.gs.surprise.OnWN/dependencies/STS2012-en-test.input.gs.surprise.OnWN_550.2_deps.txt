@@ -1,0 +1,8 @@
+root	ROOT	become
+amod	extensive	broader
+cc	broader	or
+conj:or	broader	wider
+cc	broader	or
+conj:or	broader	more
+xcomp	become	extensive
+punct	become	.

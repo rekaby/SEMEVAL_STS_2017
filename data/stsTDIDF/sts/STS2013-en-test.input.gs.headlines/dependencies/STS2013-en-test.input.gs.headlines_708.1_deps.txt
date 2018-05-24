@@ -1,0 +1,7 @@
+compound	squad	Indonesia
+amod	squad	anti-terror
+nsubj	kills	squad
+root	ROOT	kills
+nsubj	suspected	two
+ccomp	kills	suspected
+dobj	suspected	militants

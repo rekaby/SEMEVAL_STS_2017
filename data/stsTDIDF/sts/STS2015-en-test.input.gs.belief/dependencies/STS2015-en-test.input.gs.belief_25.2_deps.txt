@@ -1,0 +1,10 @@
+nsubj	is	that
+root	ROOT	is
+dobj	about	what
+nsubj	about	liberty
+cop	about	is
+ccomp	is	about
+punct	about	,
+case	all	after
+nmod:after	about	all
+punct	is	.

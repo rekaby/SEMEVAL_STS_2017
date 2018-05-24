@@ -1,0 +1,10 @@
+nsubj	sets	Carney
+root	ROOT	sets
+amod	bar	high
+dobj	sets	bar
+case	changes	to
+nmod:to	sets	changes
+case	Bank	at
+nmod:at	changes	Bank
+case	England	of
+nmod:of	Bank	England

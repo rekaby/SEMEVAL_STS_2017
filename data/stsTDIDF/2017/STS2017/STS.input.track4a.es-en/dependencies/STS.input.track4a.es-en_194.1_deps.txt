@@ -1,0 +1,9 @@
+det	men	The
+root	ROOT	men
+case	stand	in
+amod	stand	blue
+nmod:in	men	stand
+case	column	at
+det	column	the
+nmod:at	stand	column
+punct	men	.

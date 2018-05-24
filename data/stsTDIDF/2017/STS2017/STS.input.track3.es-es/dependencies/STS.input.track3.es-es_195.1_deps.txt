@@ -1,0 +1,9 @@
+compound	France	Groupe
+compound	France	Air
+nsubj	prepares	France
+root	ROOT	prepares
+det	train	a
+dobj	prepares	train
+case	trip	for
+det	trip	a
+nmod:for	prepares	trip

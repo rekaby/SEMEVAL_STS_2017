@@ -1,0 +1,16 @@
+advmod	made	Instead
+punct	made	,
+det	object	a
+amod	object	new
+nsubjpass	made	object
+auxpass	made	is
+root	ROOT	made
+mark	inherit	to
+xcomp	made	inherit
+dobj	inherit	properties
+case	objects	of
+nmod:of	properties	objects
+nsubj	exist	which
+advmod	exist	already
+acl:relcl	objects	exist
+punct	made	.

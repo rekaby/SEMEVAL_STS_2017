@@ -1,0 +1,9 @@
+nsubj	denies	Syria
+root	ROOT	denies
+dobj	denies	reports
+case	attack	of
+amod	attack	deadly
+compound	attack	Damascus
+compound	attack	nerve
+compound	attack	gas
+nmod:of	reports	attack

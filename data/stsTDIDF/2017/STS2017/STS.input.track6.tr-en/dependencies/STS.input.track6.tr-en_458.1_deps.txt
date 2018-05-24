@@ -1,0 +1,8 @@
+det	man	A
+nsubj	outside	man
+cc	man	and
+nmod:poss	pet	his
+conj:and	man	pet
+cop	outside	are
+root	ROOT	outside
+punct	outside	.

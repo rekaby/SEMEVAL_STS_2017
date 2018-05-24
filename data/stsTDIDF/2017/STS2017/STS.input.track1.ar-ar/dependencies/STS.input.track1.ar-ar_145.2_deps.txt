@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	entered	women
+root	ROOT	entered
+case	battle	in
+det	battle	a
+nmod:in	entered	battle
+case	cat	with
+det	cat	the
+nmod:with	battle	cat
+punct	entered	.

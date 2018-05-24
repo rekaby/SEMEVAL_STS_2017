@@ -1,0 +1,10 @@
+nummod	children	Two
+nsubj	whisper	children
+root	ROOT	whisper
+case	season	in
+det	season	the
+nmod:in	whisper	season
+dep	else	while
+nmod:npmod	else	Ergbhma
+advmod	whisper	else
+punct	whisper	.

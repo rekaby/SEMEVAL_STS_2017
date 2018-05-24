@@ -1,0 +1,7 @@
+det	field	A
+root	ROOT	field
+case	sheep	of
+amod	sheep	black
+amod	sheep	faced
+nmod:of	field	sheep
+punct	field	.

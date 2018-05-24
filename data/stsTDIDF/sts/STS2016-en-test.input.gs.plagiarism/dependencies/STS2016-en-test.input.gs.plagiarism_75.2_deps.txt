@@ -1,0 +1,15 @@
+det	example	The
+amod	example	typical
+nsubj	schedule	example
+aux	schedule	could
+cop	schedule	be
+case	schedule	of
+det	schedule	a
+amod	schedule	finalized
+root	ROOT	schedule
+case	events	of
+nmod:of	schedule	events
+case	exhibition	at
+det	exhibition	an
+nmod:at	events	exhibition
+punct	schedule	.

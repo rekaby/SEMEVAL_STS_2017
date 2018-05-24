@@ -1,0 +1,17 @@
+det	standing	A
+amod	standing	brown
+cc	brown	and
+conj:and	brown	white
+compound	standing	dog
+nsubj	looking	standing
+case	bank	on
+det	bank	the
+nmod:on	standing	bank
+case	river	of
+det	river	the
+nmod:of	bank	river
+root	ROOT	looking
+case	master	at
+nmod:poss	master	his
+nmod:at	looking	master
+punct	looking	.

@@ -1,0 +1,10 @@
+nsubjpass	contained	Bulb
+dep	Bulb	A
+cc	A	and
+conj:and	A	B
+auxpass	contained	are
+advmod	contained	still
+root	ROOT	contained
+case	paths	within
+amod	paths	closed
+nmod:within	contained	paths

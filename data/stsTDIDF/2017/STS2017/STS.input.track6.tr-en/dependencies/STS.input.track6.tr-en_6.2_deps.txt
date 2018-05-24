@@ -1,0 +1,7 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	playing
+case	ocean	in
+det	ocean	the
+nmod:in	playing	ocean
+punct	boy	.

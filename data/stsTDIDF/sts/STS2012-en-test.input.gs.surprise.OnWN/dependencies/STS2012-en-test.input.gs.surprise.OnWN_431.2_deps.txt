@@ -1,0 +1,12 @@
+det	ridge	the
+amod	ridge	hard
+root	ROOT	ridge
+nsubj	forms	that
+acl:relcl	ridge	forms
+det	part	the
+amod	part	upper
+dobj	forms	part
+case	nose	of
+det	nose	the
+nmod:of	part	nose
+punct	ridge	.

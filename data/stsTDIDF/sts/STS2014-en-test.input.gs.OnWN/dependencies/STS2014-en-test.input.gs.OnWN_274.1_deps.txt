@@ -1,0 +1,9 @@
+root	ROOT	Reduce
+case	pieces	to
+amod	pieces	small
+nmod:to	Reduce	pieces
+mark	pounding	by
+advcl	Reduce	pounding
+cc	pounding	or
+conj:or	pounding	grinding
+punct	Reduce	.

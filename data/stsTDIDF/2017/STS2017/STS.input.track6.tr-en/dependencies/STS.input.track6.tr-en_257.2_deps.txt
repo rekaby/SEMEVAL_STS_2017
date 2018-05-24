@@ -1,0 +1,7 @@
+det	family	A
+nsubj	climbing	family
+aux	climbing	is
+root	ROOT	climbing
+det	mountain	a
+dobj	climbing	mountain
+punct	climbing	.

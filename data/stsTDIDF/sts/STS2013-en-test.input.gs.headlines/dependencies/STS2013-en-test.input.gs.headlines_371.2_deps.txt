@@ -1,0 +1,6 @@
+punct	director	`
+compound	2012	Kony
+nummod	director	2012
+punct	director	'
+nsubj	hospitalized	director
+root	ROOT	hospitalized

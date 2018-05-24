@@ -1,0 +1,12 @@
+det	group	The
+nsubj	resting	group
+case	hikers	of
+nmod:of	group	hikers
+aux	resting	is
+root	ROOT	resting
+case	mountain	in
+mwe	in	front
+mwe	in	of
+det	mountain	a
+nmod:in_front_of	resting	mountain
+punct	resting	.

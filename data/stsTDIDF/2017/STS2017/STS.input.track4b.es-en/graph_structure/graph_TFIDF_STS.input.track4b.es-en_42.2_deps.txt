@@ -1,0 +1,16 @@
+leaders	want	acl:relcl
+delicate	.	punct
+ungrateful	contradiction	conj:or
+public	serve	acl:relcl
+contradiction	in	case
+appear	ungrateful	dobj
+leaders	for	case
+public	with	case
+ungrateful	or	cc
+delicate	is	cop
+delicate	leaders	nmod:for
+delicate	issue	nsubj
+ungrateful	public	nmod:with
+leaders	military	amod
+ROOT	delicate	root
+serve	they	nsubj

@@ -1,0 +1,13 @@
+advmod	know	So
+punct	know	,
+nsubj	know	I
+aux	know	do
+neg	know	n't
+root	ROOT	know
+advmod	legitimate	how
+dep	yeah	legitimate
+nsubj	yeah	this
+cop	yeah	is
+cc	yeah	but
+ccomp	know	yeah
+punct	know	.

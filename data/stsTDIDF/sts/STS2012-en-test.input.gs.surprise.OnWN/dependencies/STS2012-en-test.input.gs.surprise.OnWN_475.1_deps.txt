@@ -1,0 +1,15 @@
+root	ROOT	Make
+det	line	a
+dobj	Make	line
+cc	line	or
+conj:or	line	marks
+case	surface	on
+det	surface	a
+nmod:on	Make	surface
+punct	Make	;
+parataxis	Make	copy
+mark	following	by
+case	lines	following
+det	lines	the
+nmod:following	copy	lines
+acl	copy	of

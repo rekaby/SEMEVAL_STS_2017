@@ -1,0 +1,6 @@
+nsubj	parked	He
+root	ROOT	parked
+det	car	a
+dobj	parked	car
+advmod	parked	outside
+punct	parked	.

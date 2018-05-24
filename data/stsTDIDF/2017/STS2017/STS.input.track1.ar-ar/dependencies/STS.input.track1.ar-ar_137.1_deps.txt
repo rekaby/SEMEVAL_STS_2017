@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	climbs	boy
+root	ROOT	climbs
+det	shrub	a
+dobj	climbs	shrub
+case	center	in
+det	center	the
+compound	center	city
+nmod:in	shrub	center
+punct	climbs	.

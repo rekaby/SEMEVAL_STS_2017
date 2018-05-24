@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	shirtless
+nsubj	taking	boy
+aux	taking	is
+root	ROOT	taking
+det	nap	a
+dobj	taking	nap
+case	grass	in
+det	grass	the
+nmod:in	taking	grass
+punct	taking	.

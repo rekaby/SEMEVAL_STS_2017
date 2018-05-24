@@ -1,0 +1,8 @@
+compound	toll	Death
+root	ROOT	toll
+case	Syria	in
+nmod:in	toll	Syria
+case	100,000	over
+nmod:over	toll	100,000
+advmod	toll	so
+mwe	so	far

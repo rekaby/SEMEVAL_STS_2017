@@ -1,0 +1,14 @@
+dep interesting NYTimes	15.060439779775294
+dep NYTimes Parents	15.060439779775294
+punct interesting ?-8) compound(Support-2, Financial	15.060439779775294
+punct interesting -	14.367292599215348
+nsubj Help May	13.674145418655403
+neg Help Not	13.674145418655403
+acl:relcl Support Help	13.674145418655403
+compound Grades College	13.674145418655403
+dobj Help Grades	13.674145418655403
+nsubj interesting This	13.11452963071998
+root ROOT Support	12.287851057535512
+punct NYTimes :	11.253777290004974
+cop interesting is	10.826333275178035
+root ROOT interesting	10.097595149515387

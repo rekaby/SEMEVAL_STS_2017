@@ -1,0 +1,16 @@
+root	ROOT	laying
+dobj	laying	claim
+punct	laying	,
+det	act	the
+root	,	act
+mark	taking	of
+acl	act	taking
+dobj	taking	possession
+case	power	of
+punct	power	,
+cc	power	or
+nmod:of	possession	power
+case	something	over
+punct	something	,
+nmod:over	taking	something
+punct	act	.

@@ -1,0 +1,5 @@
+camera	The	det
+ROOT	floor	root
+floor	is	cop
+floor	camera	nsubj
+floor	.	punct

@@ -1,0 +1,8 @@
+nsubj	Starts	Williams
+root	ROOT	Starts
+advmod	Starts	Fast
+punct	Starts	,
+cc	Starts	but
+compound	Suits	Pace
+compound	Rockets	Suits
+conj:but	Starts	Rockets

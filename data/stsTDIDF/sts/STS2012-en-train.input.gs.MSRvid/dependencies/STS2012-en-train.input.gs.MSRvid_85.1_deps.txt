@@ -1,0 +1,9 @@
+det	group	A
+nsubj	marching	group
+case	people	of
+nmod:of	group	people
+aux	marching	are
+root	ROOT	marching
+case	place	in
+nmod:in	marching	place
+punct	marching	.

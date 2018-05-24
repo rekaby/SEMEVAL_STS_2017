@@ -1,0 +1,7 @@
+amod	envoy	Syrian
+root	ROOT	envoy
+case	defects	to
+compound	defects	Cyprus
+nmod:to	envoy	defects
+case	Qatar	to
+nmod:to	envoy	Qatar

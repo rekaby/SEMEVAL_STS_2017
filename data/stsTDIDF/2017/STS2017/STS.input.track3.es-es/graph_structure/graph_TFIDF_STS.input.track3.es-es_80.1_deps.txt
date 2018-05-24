@@ -1,0 +1,5 @@
+talk	group	nsubj
+huddle	while	mark
+huddle	street	nmod:in
+huddle	they	nsubj
+talk	huddle	advcl

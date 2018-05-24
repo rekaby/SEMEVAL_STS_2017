@@ -1,0 +1,16 @@
+root	ROOT	having
+cc	having	or
+conj:or	having	producing
+det	degree	a
+amod	degree	comfortable
+cc	comfortable	and
+conj:and	comfortable	agreeable
+dobj	having	degree
+case	heat	of
+nmod:of	degree	heat
+cc	heat	or
+conj:or	heat	imparting
+cc	degree	or
+conj:or	degree	maintaining
+dobj	maintaining	heat
+punct	having	;

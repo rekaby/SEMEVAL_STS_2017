@@ -1,0 +1,6 @@
+compound	mass	Nigeria
+compound	mass	university
+root	ROOT	mass
+acl	mass	attacked
+case	gunmen	by
+nmod:by	attacked	gunmen

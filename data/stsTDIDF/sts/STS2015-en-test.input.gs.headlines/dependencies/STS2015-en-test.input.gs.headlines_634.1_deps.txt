@@ -1,0 +1,8 @@
+nmod:poss	Thatcher	UK
+case	UK	's
+compound	Thatcher	Ex-Premier
+compound	Thatcher	Margaret
+nsubj	Dies	Thatcher
+root	ROOT	Dies
+case	87	At
+nmod:at	Dies	87

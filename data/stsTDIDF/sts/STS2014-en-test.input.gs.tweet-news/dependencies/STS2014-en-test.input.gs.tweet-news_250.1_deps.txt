@@ -1,0 +1,12 @@
+dep	die	CGG
+punct	die	-
+nsubj	die	30
+root	ROOT	die
+advmod	plunges	when
+nsubj	plunges	bus
+advcl	die	plunges
+compound:prt	plunges	off
+dobj	plunges	cliff
+case	Nepal	in
+nmod:in	cliff	Nepal
+punct	die	-

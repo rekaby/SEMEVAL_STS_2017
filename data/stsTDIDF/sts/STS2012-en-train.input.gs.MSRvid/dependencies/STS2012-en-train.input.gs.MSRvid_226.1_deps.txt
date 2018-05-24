@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	little
+nsubj	hits	boy
+root	ROOT	hits
+det	ball	a
+compound	ball	golf
+dobj	hits	ball
+punct	hits	.

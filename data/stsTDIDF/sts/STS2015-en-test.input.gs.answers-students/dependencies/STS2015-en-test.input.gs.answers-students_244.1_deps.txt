@@ -1,0 +1,14 @@
+nsubj	difference	Voltage
+cop	difference	is
+det	difference	the
+root	ROOT	difference
+case	terminal	between
+det	terminal	a
+amod	terminal	positive
+cc	positive	and
+conj:and	positive	negative
+nmod:between	difference	terminal
+case	battery	on
+det	battery	the
+nmod:on	terminal	battery
+punct	difference	.

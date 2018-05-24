@@ -1,0 +1,6 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	sitting
+case	snow	in
+det	snow	the
+nmod:in	sitting	snow

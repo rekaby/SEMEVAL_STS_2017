@@ -1,0 +1,6 @@
+nsubj	clash	Protesters
+root	ROOT	clash
+case	police	with
+nmod:with	clash	police
+case	Caracas	in
+nmod:in	police	Caracas

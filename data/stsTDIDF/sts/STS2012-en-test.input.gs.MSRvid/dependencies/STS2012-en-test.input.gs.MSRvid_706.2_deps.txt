@@ -1,0 +1,8 @@
+det	truck	A
+nsubj	going	truck
+aux	going	is
+root	ROOT	going
+compound:prt	going	down
+det	hill	a
+dobj	going	hill
+punct	going	.

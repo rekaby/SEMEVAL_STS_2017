@@ -1,0 +1,7 @@
+compound	cameraman	UK
+compound	cameraman	Sky
+compound	cameraman	News
+root	ROOT	cameraman
+acl	cameraman	killed
+case	Egypt	in
+nmod:in	killed	Egypt

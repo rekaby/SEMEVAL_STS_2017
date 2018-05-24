@@ -1,0 +1,14 @@
+det	terminals	the
+nsubj	go	terminals
+root	ROOT	go
+mark	connected	from
+neg	connected	not
+auxpass	connected	being
+advcl	go	connected
+mark	connected	to
+auxpass	connected	being
+xcomp	connected	connected
+case	other	to
+det	other	each
+nmod:to	connected	other
+punct	go	.

@@ -1,0 +1,22 @@
+amod	tribute	lovely
+root	ROOT	tribute
+punct	tribute	,
+nmod:poss	responses	her
+appos	tribute	responses
+case	priceless	to
+nmod:poss	priceless	readers
+case	readers	'
+compound	priceless	qtns
+nmod:to	responses	priceless
+punct	tribute	.-11) root(ROOT-0, Read
+compound	frying	bacon
+dobj	Read	frying
+cc	frying	and
+nsubj	move	you
+aux	move	could
+conj:and	frying	move
+punct	Read	.-8) compound(Abby-2, Dear
+nsubj	Dies	Abby
+root	ROOT	Dies
+case	94	at
+nmod:at	Dies	94

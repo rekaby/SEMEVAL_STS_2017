@@ -1,0 +1,15 @@
+det	girls	The
+nummod	girls	two
+nsubj	water	girls
+cop	water	are
+case	water	in
+det	water	the
+root	ROOT	water
+cc	water	and
+nsubj	has	one
+conj:and	water	has
+det	shirt	a
+amod	shirt	white
+dobj	has	shirt
+nmod	has	on
+punct	water	.

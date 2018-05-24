@@ -1,0 +1,15 @@
+det	commission	The
+nsubj	lost	commission
+amod	California	estimated
+nsubj	lost	California
+root	ROOT	lost
+dobj	lost	$
+compound	million	937
+nummod	$	million
+case	shelters	to
+amod	shelters	corporate
+compound	shelters	tax
+nmod:to	lost	shelters
+case	2001	in
+nmod:in	lost	2001
+punct	lost	.

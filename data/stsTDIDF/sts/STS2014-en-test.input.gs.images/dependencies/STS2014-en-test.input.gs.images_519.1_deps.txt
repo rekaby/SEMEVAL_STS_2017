@@ -1,0 +1,8 @@
+nummod	ducks	Two
+nsubj	standing	ducks
+aux	standing	are
+root	ROOT	standing
+case	water	by
+det	water	the
+nmod:by	standing	water
+punct	standing	.

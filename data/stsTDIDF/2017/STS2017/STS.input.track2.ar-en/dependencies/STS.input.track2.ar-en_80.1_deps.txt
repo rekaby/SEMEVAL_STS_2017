@@ -1,0 +1,17 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	man	shirt
+cc	shirt	and
+det	woman	a
+conj:and	shirt	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	black
+nmod:in	woman	shirt
+acl	shirt	riding
+det	motorcycle	a
+dobj	riding	motorcycle
+punct	man	.

@@ -1,0 +1,10 @@
+root	ROOT	.-1) nsubj(represents-2, Satan
+root	ROOT	represents
+dobj	represents	vengeance
+cc	represents	instead
+mwe	instead	of
+conj:negcc	represents	turning
+det	cheek	the
+amod	cheek	other
+dobj	turning	cheek
+punct	represents	!

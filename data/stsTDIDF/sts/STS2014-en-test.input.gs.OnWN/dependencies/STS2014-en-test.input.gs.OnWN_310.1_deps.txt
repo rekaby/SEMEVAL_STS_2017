@@ -1,0 +1,9 @@
+det	organism	an
+root	ROOT	organism
+acl	organism	infected
+case	organism	with
+det	organism	another
+amod	organism	parasitic
+nmod:with	infected	organism
+cc	organism	or
+conj:or	organism	pathogen

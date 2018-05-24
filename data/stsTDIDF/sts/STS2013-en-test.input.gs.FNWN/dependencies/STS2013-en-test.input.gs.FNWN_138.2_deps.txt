@@ -1,0 +1,12 @@
+det	surface	a
+amod	surface	vertical
+root	ROOT	surface
+case	which	on
+nmod:on	displayed	which
+nsubjpass	displayed	information
+aux	displayed	can
+auxpass	displayed	be
+acl:relcl	surface	displayed
+case	view	to
+amod	view	public
+nmod:to	displayed	view

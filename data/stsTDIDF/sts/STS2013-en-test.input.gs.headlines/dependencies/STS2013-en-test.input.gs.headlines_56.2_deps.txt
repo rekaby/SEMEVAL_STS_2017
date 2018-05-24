@@ -1,0 +1,6 @@
+root	ROOT	Mayday
+punct	Mayday	:
+dep	Mayday	fears
+case	seekers	for
+compound	seekers	asylum
+nmod:for	fears	seekers

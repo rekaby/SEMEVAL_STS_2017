@@ -1,0 +1,6 @@
+root	ROOT	hold
+cc	hold	or
+conj:or	hold	carry
+case	equilibrium	in
+nmod:in	hold	equilibrium
+punct	hold	.

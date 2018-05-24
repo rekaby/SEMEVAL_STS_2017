@@ -1,0 +1,6 @@
+ducks	.	punct
+ducks	happily	advmod
+ducks	Child	compound
+ROOT	ducks	root
+ducks	chasing	compound
+ducks	park	nmod:in

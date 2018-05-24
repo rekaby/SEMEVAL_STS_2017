@@ -1,0 +1,10 @@
+det	man	A
+amod	man	black
+root	ROOT	man
+cc	man	and
+nmod:poss	dog	his
+conj:and	man	dog
+case	beach	on
+det	beach	the
+nmod:on	dog	beach
+punct	man	.

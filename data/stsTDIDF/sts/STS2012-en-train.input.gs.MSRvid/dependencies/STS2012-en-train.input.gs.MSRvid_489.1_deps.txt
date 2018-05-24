@@ -1,0 +1,13 @@
+nsubj	cutting	Someone
+aux	cutting	is
+root	ROOT	cutting
+det	circle	a
+dobj	cutting	circle
+case	sheet	out
+mwe	out	of
+det	sheet	a
+amod	sheet	pink
+nmod:out_of	cutting	sheet
+case	paper	of
+nmod:of	sheet	paper
+punct	cutting	.

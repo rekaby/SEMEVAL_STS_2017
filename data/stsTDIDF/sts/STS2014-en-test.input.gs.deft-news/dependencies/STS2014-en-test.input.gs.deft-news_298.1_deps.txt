@@ -1,0 +1,11 @@
+nummod	employees	6
+amod	employees	czech
+compound	employees	hospital
+nsubjpass	charged	employees
+auxpass	charged	are
+root	ROOT	charged
+case	trafficking	with
+amod	trafficking	human
+compound	trafficking	organ
+nmod:with	charged	trafficking
+punct	charged	.

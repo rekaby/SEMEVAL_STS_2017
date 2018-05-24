@@ -1,0 +1,16 @@
+det	girl	A
+amod	girl	little
+nsubj	airborne	girl
+case	outfit	in
+det	outfit	an
+amod	outfit	orange
+amod	outfit	striped
+nmod:in	girl	outfit
+cop	airborne	is
+root	ROOT	airborne
+mark	bouncing	whilst
+advcl	airborne	bouncing
+case	bed	on
+det	bed	a
+nmod:on	bouncing	bed
+punct	airborne	.

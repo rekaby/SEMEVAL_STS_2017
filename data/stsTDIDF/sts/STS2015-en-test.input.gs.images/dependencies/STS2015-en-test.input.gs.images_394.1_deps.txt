@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	young
+nsubj	riding	boy
+aux	riding	is
+root	ROOT	riding
+det	bike	a
+dobj	riding	bike
+punct	riding	.

@@ -1,0 +1,7 @@
+det	firm	a
+compound	firm	business
+root	ROOT	firm
+nsubj	publishes	that
+acl:relcl	firm	publishes
+dobj	publishes	newspapers
+punct	firm	.

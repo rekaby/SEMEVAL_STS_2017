@@ -1,0 +1,10 @@
+nummod	bomb	15
+amod	bomb	dead
+case	attacks	in
+compound	attacks	Iraq
+nmod:in	dead	attacks
+punct	bomb	,
+root	ROOT	bomb
+case	pitch	at
+compound	pitch	football
+nmod:at	bomb	pitch

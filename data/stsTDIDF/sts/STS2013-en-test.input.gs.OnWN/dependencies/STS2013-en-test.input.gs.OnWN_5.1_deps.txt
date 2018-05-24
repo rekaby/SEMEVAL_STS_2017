@@ -1,0 +1,5 @@
+amod	sequence	alphanumeric
+root	ROOT	sequence
+acl	sequence	used
+case	identification	for
+nmod:for	used	identification

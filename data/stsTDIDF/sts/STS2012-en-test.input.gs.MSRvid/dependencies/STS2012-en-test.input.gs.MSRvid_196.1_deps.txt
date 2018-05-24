@@ -1,0 +1,13 @@
+det	man	A
+nsubj	driving	man
+cc	man	and
+conj:and	man	woman
+aux	driving	are
+root	ROOT	driving
+case	street	down
+det	street	the
+nmod:down	driving	street
+case	jeep	in
+det	jeep	a
+nmod:in	driving	jeep
+punct	driving	.

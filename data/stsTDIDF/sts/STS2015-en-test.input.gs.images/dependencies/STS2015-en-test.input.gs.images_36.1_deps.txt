@@ -1,0 +1,10 @@
+nummod	dogs	Two
+amod	dogs	white
+nsubj	walking	dogs
+aux	walking	are
+root	ROOT	walking
+case	snow	through
+amod	snow	deep
+amod	snow	white
+nmod:through	walking	snow
+punct	walking	.

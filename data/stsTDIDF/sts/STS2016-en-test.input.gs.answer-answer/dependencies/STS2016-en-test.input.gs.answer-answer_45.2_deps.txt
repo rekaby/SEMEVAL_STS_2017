@@ -1,0 +1,12 @@
+nsubj	say	I
+aux	say	'd
+root	ROOT	say
+nsubj	depends	it
+ccomp	say	depends
+case	outcome	on
+det	outcome	the
+amod	outcome	ultimate
+nmod:on	depends	outcome
+nsubj	want	you
+acl:relcl	outcome	want
+punct	say	?

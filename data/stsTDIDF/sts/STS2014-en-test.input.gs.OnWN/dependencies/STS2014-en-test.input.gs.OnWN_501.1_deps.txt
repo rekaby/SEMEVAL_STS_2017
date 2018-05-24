@@ -1,0 +1,7 @@
+det	border	a
+root	ROOT	border
+cc	border	or
+conj:or	border	boundary
+case	object	of
+det	object	an
+nmod:of	border	object

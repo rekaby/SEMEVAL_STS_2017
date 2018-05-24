@@ -1,0 +1,16 @@
+nsubj	controlled	Mahmud
+ccomp	said	controlled
+dobj	controlled	access
+case	Saddam	to
+nmod:to	access	Saddam
+case	everyone	for
+nmod:for	access	everyone
+cc	everyone	but
+amod	members	immediate
+compound	members	family
+conj:but	everyone	members
+punct	said	,
+compound	officials	Pentagon
+nsubj	said	officials
+root	ROOT	said
+punct	said	.

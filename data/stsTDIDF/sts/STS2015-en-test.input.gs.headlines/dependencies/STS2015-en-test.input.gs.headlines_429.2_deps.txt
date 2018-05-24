@@ -1,0 +1,10 @@
+nsubj	seeks	Hagel
+root	ROOT	seeks
+mark	reassure	to
+xcomp	seeks	reassure
+amod	allies	jittery
+compound	allies	Gulf
+dobj	reassure	allies
+case	deal	after
+compound	deal	Iran
+nmod:after	reassure	deal

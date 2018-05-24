@@ -1,0 +1,8 @@
+det	man	A
+nsubj	erasing	man
+aux	erasing	is
+root	ROOT	erasing
+det	board	a
+compound	board	chalk
+dobj	erasing	board
+punct	erasing	.

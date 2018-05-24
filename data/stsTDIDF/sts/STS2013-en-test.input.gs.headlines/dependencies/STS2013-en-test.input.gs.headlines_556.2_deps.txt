@@ -1,0 +1,17 @@
+amod	Republic	Syrian
+compound	Republic	Arab
+nsubj	return	Republic
+punct	the	-LRB-
+appos	Republic	the
+punct	the	-RRB-
+punct	Republic	:
+advmod	70	More
+mwe	More	than
+nummod	return	70
+dep	return	killed
+case	Syria	in
+nmod:in	killed	Syria
+advmod	return	ahead
+case	Annan	of
+nmod:of	ahead	Annan
+root	ROOT	return

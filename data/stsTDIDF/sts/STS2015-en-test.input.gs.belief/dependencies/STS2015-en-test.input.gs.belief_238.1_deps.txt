@@ -1,0 +1,13 @@
+root	ROOT	does
+dobj	does	anyone
+nsubj	find	else
+acl:relcl	anyone	find
+dobj	find	this
+mark	much	to
+cop	much	be
+det	much	a
+amod	much	little
+xcomp	find	much
+mark	believe	to
+xcomp	much	believe
+punct	does	?

@@ -1,0 +1,7 @@
+det	dog	a
+nsubj	runs	dog
+root	ROOT	runs
+case	land	across
+det	land	the
+nmod:across	runs	land
+punct	runs	.

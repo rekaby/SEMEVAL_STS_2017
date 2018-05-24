@@ -1,0 +1,16 @@
+det	Bureau	The
+compound	Bureau	California
+compound	Bureau	Farm
+nsubj	have	Bureau
+aux	have	did
+neg	have	not
+advmod	have	immediately
+root	ROOT	have
+det	response	an
+amod	response	official
+dobj	have	response
+case	ruling	to
+nmod:poss	ruling	Tuesday
+case	Tuesday	's
+nmod:to	response	ruling
+punct	have	.

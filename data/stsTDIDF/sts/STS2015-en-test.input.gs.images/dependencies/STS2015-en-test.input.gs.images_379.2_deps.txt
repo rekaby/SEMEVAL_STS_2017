@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	running	dogs
+root	ROOT	running
+case	path	along
+compound	path	dirt
+nmod:along	running	path
+punct	running	.

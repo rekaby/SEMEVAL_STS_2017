@@ -1,0 +1,7 @@
+nsubj	returns	China
+root	ROOT	returns
+nummod	children	10
+nsubj	abducted	children
+ccomp	returns	abducted
+case	Vietnam	from
+nmod:from	abducted	Vietnam

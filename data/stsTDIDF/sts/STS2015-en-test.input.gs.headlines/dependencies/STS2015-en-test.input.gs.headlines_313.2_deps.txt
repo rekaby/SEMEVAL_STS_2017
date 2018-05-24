@@ -1,0 +1,7 @@
+nsubj	executes	NKorea
+root	ROOT	executes
+compound	Un	Kim
+compound	Un	Jong
+nmod:poss	uncle	Un
+case	Un	'
+dobj	executes	uncle

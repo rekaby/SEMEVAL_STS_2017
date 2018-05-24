@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	school	boy
+cop	school	is
+case	school	at
+root	ROOT	school
+acl	school	taking
+det	test	a
+dobj	taking	test
+punct	school	.

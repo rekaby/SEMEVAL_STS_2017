@@ -1,0 +1,13 @@
+det	charge	the
+root	ROOT	charge
+case	currency	for
+amod	currency	exchanging
+nmod:for	charge	currency
+case	country	of
+nummod	country	one
+nmod:of	currency	country
+case	currency	for
+nmod:for	charge	currency
+case	another	of
+nmod:of	currency	another
+punct	charge	.

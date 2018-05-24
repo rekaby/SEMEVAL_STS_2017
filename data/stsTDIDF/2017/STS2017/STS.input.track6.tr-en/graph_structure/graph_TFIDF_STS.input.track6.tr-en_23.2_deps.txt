@@ -1,0 +1,8 @@
+band	with	case
+singing	is	cop
+singing	.	punct
+singing	man	nsubj
+singing	band	nmod:with
+singing	together	advmod
+band	his	nmod:poss
+ROOT	singing	root

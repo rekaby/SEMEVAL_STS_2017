@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	swimming	dog
+root	ROOT	swimming
+case	stick	with
+det	stick	a
+nmod:with	swimming	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	swimming	mouth
+punct	swimming	.

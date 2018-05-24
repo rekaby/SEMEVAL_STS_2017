@@ -1,0 +1,7 @@
+root	ROOT	people
+acl	people	playing
+det	game	a
+dobj	playing	game
+case	park	at
+det	park	the
+nmod:at	playing	park

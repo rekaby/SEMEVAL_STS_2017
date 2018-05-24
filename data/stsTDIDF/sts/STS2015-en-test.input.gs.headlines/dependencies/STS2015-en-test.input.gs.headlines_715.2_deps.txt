@@ -1,0 +1,10 @@
+nsubj	fades	China
+punct	China	:
+dep	China	Relief
+case	focus	in
+nmod:in	Relief	focus
+case	hope	as
+nmod:as	Relief	hope
+case	missing	for
+nmod:for	Relief	missing
+root	ROOT	fades

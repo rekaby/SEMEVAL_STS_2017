@@ -1,0 +1,10 @@
+amod	arrest	Israeli
+compound	arrest	forces
+root	ROOT	arrest
+nummod	Palestinians	6
+nsubj	raids	Palestinians
+case	Bank	in
+amod	Bank	overnight
+compound	Bank	West
+nmod:in	Palestinians	Bank
+dep	arrest	raids

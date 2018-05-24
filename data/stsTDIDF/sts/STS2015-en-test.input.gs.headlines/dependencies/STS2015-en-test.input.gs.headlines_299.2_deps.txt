@@ -1,0 +1,9 @@
+root	ROOT	Senate
+punct	Senate	,
+compound	money	House
+case	course	on
+compound	course	collision
+nmod:on	House	course
+case	border	on
+nmod:on	House	border
+appos	Senate	money

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	standing	dog
+aux	standing	is
+root	ROOT	standing
+case	sand	in
+det	sand	the
+nmod:in	standing	sand
+punct	standing	.

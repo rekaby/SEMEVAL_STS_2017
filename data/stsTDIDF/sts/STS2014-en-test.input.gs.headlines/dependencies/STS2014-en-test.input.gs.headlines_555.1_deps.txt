@@ -1,0 +1,10 @@
+amod	Rainsy	Cambodian
+compound	Rainsy	opposition
+compound	Rainsy	leader
+compound	Rainsy	Sam
+nsubj	returns	Rainsy
+root	ROOT	returns
+mark	stir	to
+xcomp	returns	stir
+compound:prt	stir	up
+dobj	stir	election

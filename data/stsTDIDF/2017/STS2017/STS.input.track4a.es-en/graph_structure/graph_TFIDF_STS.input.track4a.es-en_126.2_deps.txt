@@ -1,0 +1,8 @@
+woman	putting	acl
+putting	dance	nmod:on
+woman	sad	amod
+dance	audience	nmod:for
+dance	on	case
+audience	small	amod
+dance	a	det
+audience	for	case

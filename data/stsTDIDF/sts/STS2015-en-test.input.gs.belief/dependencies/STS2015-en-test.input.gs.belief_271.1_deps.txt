@@ -1,0 +1,17 @@
+det	people	the
+nsubj	taken	people
+aux	taken	has
+advmod	taken	less
+root	ROOT	taken
+case	pockets	out
+mwe	out	of
+nmod:poss	pockets	their
+nmod:out_of	taken	pockets
+cc	pockets	but
+det	government	the
+nsubj	got	government
+advmod	got	still
+conj:but	pockets	got
+nmod:poss	revenue	its
+dobj	got	revenue
+punct	taken	.

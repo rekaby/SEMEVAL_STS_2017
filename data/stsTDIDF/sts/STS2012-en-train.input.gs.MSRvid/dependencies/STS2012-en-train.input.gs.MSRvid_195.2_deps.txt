@@ -1,0 +1,7 @@
+det	person	A
+nsubj	brushing	person
+aux	brushing	is
+root	ROOT	brushing
+det	cat	a
+dobj	brushing	cat
+punct	brushing	.

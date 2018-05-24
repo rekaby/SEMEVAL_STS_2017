@@ -1,0 +1,10 @@
+nummod	states	7
+nsubj	sue	states
+root	ROOT	sue
+case	control	over
+compound	administration	Obama
+nmod:poss	control	administration
+case	administration	's
+compound	control	birth
+nmod:over	sue	control
+dobj	sue	rule

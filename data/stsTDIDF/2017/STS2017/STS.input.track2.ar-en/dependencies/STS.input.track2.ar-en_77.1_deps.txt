@@ -1,0 +1,8 @@
+nsubj	walk	People
+root	ROOT	walk
+case	juggling	by
+case	juggling	through
+det	juggling	a
+compound	juggling	city
+nmod:through	walk	juggling
+punct	walk	.

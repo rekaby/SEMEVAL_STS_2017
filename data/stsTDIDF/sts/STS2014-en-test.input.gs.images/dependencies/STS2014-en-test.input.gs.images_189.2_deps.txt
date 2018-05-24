@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	taking	woman
+root	ROOT	taking
+nmod:poss	photo	her
+amod	photo	own
+dobj	taking	photo
+case	above	from
+nmod:from	taking	above
+punct	taking	.

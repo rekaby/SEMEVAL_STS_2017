@@ -1,0 +1,15 @@
+punct	said	``
+nmod:poss	outcomes	Our
+nsubj	encouraging	outcomes
+cop	encouraging	are
+advmod	encouraging	very
+ccomp	said	encouraging
+punct	said	,
+punct	said	''
+compound	Alibek	George
+compound	Alibek	Mason
+compound	Alibek	researcher
+compound	Alibek	Ken
+nsubj	said	Alibek
+root	ROOT	said
+punct	said	.

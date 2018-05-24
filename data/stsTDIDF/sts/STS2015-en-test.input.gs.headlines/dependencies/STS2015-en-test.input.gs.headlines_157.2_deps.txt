@@ -1,0 +1,10 @@
+root	ROOT	Report
+case	explosions	of
+nummod	explosions	two
+nmod:of	Report	explosions
+case	line	at
+compound	line	finish
+nmod:at	Report	line
+case	Marathon	of
+compound	Marathon	Boston
+nmod:of	line	Marathon

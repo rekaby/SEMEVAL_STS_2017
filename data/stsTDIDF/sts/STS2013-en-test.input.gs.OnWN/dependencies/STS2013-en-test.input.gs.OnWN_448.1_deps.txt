@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	applying	of
+acl	act	applying
+dobj	applying	torture
+case	foot	to
+det	foot	the
+nmod:to	torture	foot
+cc	act	and
+conj:and	act	leg

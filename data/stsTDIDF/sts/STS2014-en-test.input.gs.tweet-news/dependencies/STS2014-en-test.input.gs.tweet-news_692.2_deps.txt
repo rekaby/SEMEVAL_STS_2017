@@ -1,0 +1,10 @@
+compound	talks	Teacher
+ccomp	say	talks
+amod	student	armed
+dobj	talks	student
+mark	giving	into
+acl	talks	giving
+compound:prt	giving	up
+punct	say	,
+nsubj	say	police
+root	ROOT	say

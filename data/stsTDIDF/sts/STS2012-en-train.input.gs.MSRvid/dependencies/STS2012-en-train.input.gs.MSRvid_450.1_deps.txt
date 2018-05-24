@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	feeding	woman
+aux	feeding	is
+root	ROOT	feeding
+det	baby	a
+dobj	feeding	baby
+punct	feeding	.

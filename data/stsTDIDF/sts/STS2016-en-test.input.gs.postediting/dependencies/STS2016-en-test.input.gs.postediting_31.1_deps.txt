@@ -1,0 +1,11 @@
+det	amount	This
+root	ROOT	amount
+acl	amount	would
+ccomp	would	be
+advmod	produce	twice
+nsubj	produce	that
+ccomp	be	produce
+amod	plants	nuclear
+compound	plants	power
+dobj	produce	plants
+punct	amount	.

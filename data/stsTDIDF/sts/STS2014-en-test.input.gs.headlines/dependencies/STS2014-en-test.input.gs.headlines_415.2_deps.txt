@@ -1,0 +1,7 @@
+amod	shot	Coptic
+compound	shot	priest
+root	ROOT	shot
+amod	shot	dead
+case	Egypt	in
+nmod:in	dead	Egypt
+dobj	shot	attack

@@ -1,0 +1,6 @@
+compound	points	gain
+root	ROOT	points
+case	game	in
+det	game	a
+nmod:in	points	game
+punct	points	.

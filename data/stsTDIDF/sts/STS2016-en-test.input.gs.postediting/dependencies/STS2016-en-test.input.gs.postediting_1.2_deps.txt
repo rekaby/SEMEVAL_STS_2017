@@ -1,0 +1,10 @@
+root	ROOT	``
+nsubj	mistake	It
+aux	mistake	would
+cop	mistake	be
+det	mistake	a
+root	``	mistake
+case	underestimate	to
+det	underestimate	the
+nmod:to	mistake	underestimate
+punct	mistake	.

@@ -1,0 +1,10 @@
+Cold	:	punct
+Cold	makes	dep
+Cold	Inhuman	conj:and
+makes	appearance	dobj
+ROOT	Cold	root
+Breivik	Behring	compound
+appearance	public	amod
+makes	Breivik	nsubj
+Breivik	Anders	compound
+Cold	And	cc

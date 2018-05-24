@@ -1,0 +1,10 @@
+amod	clashes	Fierce
+root	ROOT	clashes
+case	Syria	in
+amod	Syria	east
+nmod:in	clashes	Syria
+mark	pushes	as
+nsubj	pushes	US
+acl	clashes	pushes
+dobj	pushes	peace
+dobj	pushes	talks

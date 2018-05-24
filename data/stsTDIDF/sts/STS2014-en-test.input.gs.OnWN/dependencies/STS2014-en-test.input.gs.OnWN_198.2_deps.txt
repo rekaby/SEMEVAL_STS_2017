@@ -1,0 +1,9 @@
+amod	workplace	small
+root	ROOT	workplace
+advmod	done	where
+nsubjpass	done	handcrafts
+cc	handcrafts	or
+conj:or	handcrafts	manufacturing
+auxpass	done	are
+acl:relcl	workplace	done
+punct	workplace	.

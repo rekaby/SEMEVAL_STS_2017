@@ -1,0 +1,12 @@
+standing	stump	nmod:on
+t-shirt	white	amod
+stump	a	det
+t-shirt	and	cc
+green	and	cc
+t-shirt	shorts	conj:and
+stump	on	case
+wearing	t-shirt	dobj
+t-shirt	a	det
+shorts	green	amod
+green	black	conj:and
+t-shirt	standing	acl

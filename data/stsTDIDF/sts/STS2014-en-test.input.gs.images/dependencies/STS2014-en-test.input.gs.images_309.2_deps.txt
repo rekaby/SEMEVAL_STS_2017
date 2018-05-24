@@ -1,0 +1,11 @@
+det	cow	A
+amod	cow	lone
+nsubj	sits	cow
+root	ROOT	sits
+case	cold	in
+det	cold	the
+nmod:in	sits	cold
+case	yard	of
+det	yard	the
+nmod:of	cold	yard
+punct	sits	.

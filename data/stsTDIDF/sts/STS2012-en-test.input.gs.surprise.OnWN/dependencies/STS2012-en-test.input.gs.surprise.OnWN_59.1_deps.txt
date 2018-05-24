@@ -1,0 +1,5 @@
+punct	cause	-LRB-
+nsubj	survive	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	survive

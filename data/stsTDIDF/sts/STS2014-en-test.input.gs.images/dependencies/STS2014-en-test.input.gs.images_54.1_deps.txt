@@ -1,0 +1,8 @@
+nummod	cows	Two
+amod	cows	white
+root	ROOT	cows
+case	pasture	in
+det	pasture	a
+amod	pasture	green
+nmod:in	cows	pasture
+punct	cows	.

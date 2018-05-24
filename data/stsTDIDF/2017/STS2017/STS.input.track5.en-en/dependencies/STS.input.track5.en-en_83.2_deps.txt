@@ -1,0 +1,10 @@
+det	kids	The
+nsubj	playing	kids
+aux	playing	are
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+case	other	with
+det	other	each
+nmod:with	playing	other
+punct	playing	.

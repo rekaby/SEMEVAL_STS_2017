@@ -1,0 +1,13 @@
+mark	happen	unless
+nsubj	happen	you
+root	ROOT	happen
+mark	think	to
+xcomp	happen	think
+mark	terrorists	that
+nsubj	terrorists	freedom
+case	religion	of
+nmod:of	freedom	religion
+amod	terrorists	=
+amod	terrorists	supporting
+ccomp	think	terrorists
+punct	happen	.

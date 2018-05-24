@@ -1,0 +1,13 @@
+case	50	Over
+root	ROOT	50
+punct	50	,
+cc	50	and
+case	Illusions	Under
+neg	Illusions	No
+conj:and	50	Illusions
+case	50	Over
+nmod:over	Illusions	50
+punct	50	?-10) root(ROOT-0, Invent
+dobj	Invent	yourself
+amod	yourself	everyday
+punct	Invent	!

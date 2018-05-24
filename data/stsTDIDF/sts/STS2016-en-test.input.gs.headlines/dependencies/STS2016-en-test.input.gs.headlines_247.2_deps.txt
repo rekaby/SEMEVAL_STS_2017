@@ -1,0 +1,12 @@
+det	Latest	The
+root	ROOT	Latest
+case	Weather	on
+amod	Weather	Severe
+nmod:on	Latest	Weather
+punct	Latest	:
+nummod	Dead	1
+dep	Latest	Dead
+case	Texas	in
+nmod:in	Dead	Texas
+case	Tornado	After
+nmod:after	Dead	Tornado

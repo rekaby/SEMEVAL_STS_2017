@@ -1,0 +1,4 @@
+watch	group	nsubj
+performance	group	nmod:of
+watch	performance	dobj
+group	music	compound

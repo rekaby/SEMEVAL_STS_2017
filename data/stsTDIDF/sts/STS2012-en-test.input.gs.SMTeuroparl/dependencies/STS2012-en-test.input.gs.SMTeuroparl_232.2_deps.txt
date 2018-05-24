@@ -1,0 +1,11 @@
+amod	aid	Specific
+nsubj	essential	aid
+punct	aid	,
+conj:or	aid	support
+cc	aid	or
+conj:or	aid	market
+case	grass	at
+nmod:at	aid	grass
+cop	essential	is
+root	ROOT	essential
+punct	essential	.

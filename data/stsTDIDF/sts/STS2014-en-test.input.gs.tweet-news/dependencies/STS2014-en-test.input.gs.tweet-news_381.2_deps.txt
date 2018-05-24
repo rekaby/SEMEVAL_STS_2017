@@ -1,0 +1,8 @@
+nsubj	Says	Schumer
+root	ROOT	Says
+compound	Satisfied	He?s
+nsubj	Says	Satisfied
+case	Hagel	With
+nmod:with	Satisfied	Hagel
+case	Mideast	on
+nmod:on	Hagel	Mideast

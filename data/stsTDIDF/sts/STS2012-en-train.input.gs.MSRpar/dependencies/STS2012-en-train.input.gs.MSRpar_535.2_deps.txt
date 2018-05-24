@@ -1,0 +1,16 @@
+det	committee	The
+nsubj	propose	committee
+aux	propose	would
+root	ROOT	propose
+det	replacement	a
+dobj	propose	replacement
+case	system	for
+det	system	the
+punct	system	``
+compound	Hood	Robin
+nsubj	system	Hood
+punct	system	''
+compound	system	school
+compound	system	finance
+nmod:for	replacement	system
+punct	propose	.

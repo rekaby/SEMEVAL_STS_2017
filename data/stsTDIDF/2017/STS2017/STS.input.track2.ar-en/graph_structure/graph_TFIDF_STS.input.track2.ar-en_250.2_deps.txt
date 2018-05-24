@@ -1,0 +1,7 @@
+Women	and	cc
+use	make	advcl
+Women	men	conj:and
+use	Women	nsubj
+point	their	nmod:poss
+make	point	dobj
+use	hands	dobj

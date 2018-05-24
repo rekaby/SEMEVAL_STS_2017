@@ -1,0 +1,6 @@
+compound	indices	Shenzhen
+compound	indices	stock
+nsubj	higher	indices
+advmod	higher	close
+root	ROOT	higher
+nmod:tmod	higher	Monday

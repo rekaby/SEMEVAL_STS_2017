@@ -1,0 +1,8 @@
+det	bus	A
+nsubj	drives	bus
+root	ROOT	drives
+compound:prt	drives	down
+det	road	a
+amod	road	busy
+dobj	drives	road
+punct	drives	.

@@ -1,0 +1,7 @@
+compound	accord	Ban
+mark	review	to
+acl	Ban	review
+compound	arms	Syria
+compound	arms	chemical
+dobj	review	arms
+root	ROOT	accord

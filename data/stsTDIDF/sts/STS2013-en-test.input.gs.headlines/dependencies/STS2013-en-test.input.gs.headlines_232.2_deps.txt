@@ -1,0 +1,12 @@
+aux	Greeted	Will
+nmod:poss	Victory	Putin
+case	Putin	's
+compound	Victory	Election
+nsubjpass	Greeted	Victory
+case	Russia	in
+nmod:in	Victory	Russia
+auxpass	Greeted	Be
+root	ROOT	Greeted
+case	Protests	with
+nmod:with	Greeted	Protests
+punct	Greeted	?

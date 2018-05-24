@@ -1,0 +1,7 @@
+workers	The	det
+ROOT	volunteer	root
+volunteer	.	punct
+clean	subway	dobj
+volunteer	clean	xcomp
+subway	the	det
+volunteer	workers	nsubj

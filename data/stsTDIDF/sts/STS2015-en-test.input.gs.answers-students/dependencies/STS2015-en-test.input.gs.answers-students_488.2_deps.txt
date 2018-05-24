@@ -1,0 +1,10 @@
+nsubj	state	Terminals
+dep	Terminals	1
+cc	1	and
+conj:and	1	2
+cop	state	are
+case	state	in
+det	state	the
+amod	state	same
+amod	state	electrical
+root	ROOT	state

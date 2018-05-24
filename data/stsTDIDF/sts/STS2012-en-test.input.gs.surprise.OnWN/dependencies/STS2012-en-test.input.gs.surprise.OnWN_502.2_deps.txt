@@ -1,0 +1,8 @@
+root	ROOT	reason
+case	deduction	by
+nmod:by	reason	deduction
+punct	reason	;
+dep	reason	establish
+case	deduction	by
+nmod:by	establish	deduction
+punct	reason	.

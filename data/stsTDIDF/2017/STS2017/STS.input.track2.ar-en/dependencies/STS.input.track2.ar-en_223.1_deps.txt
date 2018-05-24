@@ -1,0 +1,9 @@
+compound	skates	Man
+compound	skates	roller
+root	ROOT	skates
+case	crowd	for
+det	crowd	a
+nmod:for	skates	crowd
+mark	watch	to
+acl	crowd	watch
+punct	skates	.

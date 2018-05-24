@@ -1,0 +1,14 @@
+mark	closed	If
+det	path	the
+nsubjpass	closed	path
+auxpass	closed	is
+neg	closed	not
+advcl	affect	closed
+punct	affect	,
+det	switch	the
+nsubj	affect	switch
+aux	affect	will
+neg	affect	not
+root	ROOT	affect
+det	bbulb	the
+dobj	affect	bbulb

@@ -1,0 +1,7 @@
+nummod	men	Two
+nsubj	fistfight	men
+root	ROOT	fistfight
+case	ring	in
+det	ring	a
+nmod:in	fistfight	ring
+punct	fistfight	.

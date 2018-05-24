@@ -1,0 +1,9 @@
+det	center	the
+nsubj	operational	center
+aux	operational	will
+cop	operational	be
+root	ROOT	operational
+case	august	in
+nmod:in	operational	august
+nummod	august	2008
+punct	operational	.

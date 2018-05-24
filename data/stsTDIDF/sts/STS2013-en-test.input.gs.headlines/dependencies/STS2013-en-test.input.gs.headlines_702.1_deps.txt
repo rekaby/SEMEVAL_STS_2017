@@ -1,0 +1,8 @@
+nmod:poss	reforms	Burma
+case	Burma	's
+nsubj	bring	reforms
+root	ROOT	bring
+dobj	bring	easing
+case	sanctions	of
+compound	sanctions	U.S.
+nmod:of	easing	sanctions

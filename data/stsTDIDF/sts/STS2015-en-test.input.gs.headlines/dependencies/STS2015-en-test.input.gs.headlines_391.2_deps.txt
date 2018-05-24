@@ -1,0 +1,10 @@
+case	least	At
+nmod:npmod	18	least
+nummod	blast	18
+amod	blast	killed
+case	station	in
+compound	station	North
+compound	station	Caucasus
+compound	station	train
+nmod:in	killed	station
+root	ROOT	blast

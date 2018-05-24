@@ -1,0 +1,10 @@
+jumps	locale	nmod:in
+jumps	pool	nmod:into
+boy	teenage	amod
+pool	into	case
+locale	a	det
+locale	tropical	amod
+locale	in	case
+jumps	.	punct
+ROOT	jumps	root
+jumps	boy	nsubj

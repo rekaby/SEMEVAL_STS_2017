@@ -1,0 +1,10 @@
+root	ROOT	Woman
+acl	Woman	leading
+nmod:poss	dog	her
+amod	dog	small
+dobj	leading	dog
+case	course	through
+det	course	an
+compound	course	obstacle
+nmod:through	leading	course
+punct	Woman	.

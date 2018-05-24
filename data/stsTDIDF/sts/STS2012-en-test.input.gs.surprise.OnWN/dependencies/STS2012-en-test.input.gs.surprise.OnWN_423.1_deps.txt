@@ -1,0 +1,8 @@
+root	ROOT	leave
+compound:prt	leave	out
+punct	leave	,
+conj	leave	omit
+punct	leave	,
+conj	leave	prevent
+mark	entering	from
+advcl	prevent	entering

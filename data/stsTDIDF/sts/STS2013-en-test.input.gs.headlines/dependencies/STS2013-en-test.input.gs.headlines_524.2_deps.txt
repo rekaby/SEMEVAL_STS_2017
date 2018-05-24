@@ -1,0 +1,7 @@
+amod	minister	Israeli
+nsubj	wants	minister
+root	ROOT	wants
+amod	leader	Palestinian
+nmod:poss	ouster	leader
+case	leader	's
+dobj	wants	ouster

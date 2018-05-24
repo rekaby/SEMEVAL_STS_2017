@@ -1,0 +1,7 @@
+compound	fire	S
+compound	fire	Korea
+compound	fire	bus
+compound	fire	station
+nsubj	kills	fire
+root	ROOT	kills
+dobj	kills	seven

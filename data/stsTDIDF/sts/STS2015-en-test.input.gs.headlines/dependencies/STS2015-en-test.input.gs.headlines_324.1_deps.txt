@@ -1,0 +1,6 @@
+compound	test	Cricket-England
+compound	test	v
+compound	test	Australia
+amod	test	fourth
+root	ROOT	test
+dep	test	scoreboard

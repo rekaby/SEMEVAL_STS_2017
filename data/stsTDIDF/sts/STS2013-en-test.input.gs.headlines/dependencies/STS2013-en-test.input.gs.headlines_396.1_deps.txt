@@ -1,0 +1,5 @@
+compound	election	Egypt
+amod	election	presidential
+root	ROOT	election
+nmod:tmod	election	May
+nummod	May	23-24

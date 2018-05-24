@@ -1,0 +1,9 @@
+det	man	A
+nsubj	pushes	man
+root	ROOT	pushes
+det	man	another
+dobj	pushes	man
+case	ocean	into
+det	ocean	the
+nmod:into	pushes	ocean
+punct	pushes	.

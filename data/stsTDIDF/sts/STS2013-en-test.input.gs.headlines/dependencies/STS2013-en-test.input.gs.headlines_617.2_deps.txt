@@ -1,0 +1,11 @@
+nsubj	besieged	Syria
+case	Syria	's
+csubjpass	deserted	besieged
+compound	Amr	Baba
+dobj	besieged	Amr
+auxpass	deserted	is
+ccomp	says	deserted
+punct	says	,
+compound	Cross	Red
+nsubj	says	Cross
+root	ROOT	says

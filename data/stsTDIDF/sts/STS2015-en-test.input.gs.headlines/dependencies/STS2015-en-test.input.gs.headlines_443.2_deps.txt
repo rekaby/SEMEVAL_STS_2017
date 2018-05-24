@@ -1,0 +1,9 @@
+compound	Balloon	Hot
+compound	Balloon	Air
+root	ROOT	Balloon
+punct	Fire	`
+compound	Fire	Catches
+dep	Balloon	Fire
+cc	Fire	And
+conj:and	Fire	Crashes
+punct	Balloon	'

@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	group	having
+det	meal	a
+dobj	having	meal
+amod	meal	outside
+punct	group	.

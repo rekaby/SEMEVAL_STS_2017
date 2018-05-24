@@ -1,0 +1,10 @@
+det	mechanism	a
+root	ROOT	mechanism
+nsubj	controls	that
+acl:relcl	mechanism	controls
+det	operation	the
+dobj	controls	operation
+case	machine	of
+det	machine	a
+nmod:of	operation	machine
+punct	mechanism	;

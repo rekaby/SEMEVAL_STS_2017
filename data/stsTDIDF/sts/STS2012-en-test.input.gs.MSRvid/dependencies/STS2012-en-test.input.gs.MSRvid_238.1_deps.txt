@@ -1,0 +1,8 @@
+det	person	A
+nsubj	surfing	person
+aux	surfing	is
+root	ROOT	surfing
+det	wave	a
+amod	wave	large
+dobj	surfing	wave
+punct	surfing	.

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	mixing	woman
+aux	mixing	is
+root	ROOT	mixing
+dobj	mixing	food
+case	bowl	in
+det	bowl	a
+nmod:in	mixing	bowl
+punct	mixing	.

@@ -1,0 +1,13 @@
+det	dog	A
+nsubj	stuck	dog
+case	mud	with
+nmod:with	dog	mud
+root	ROOT	stuck
+case	underside	on
+nmod:poss	underside	his
+nmod:on	stuck	underside
+aux	running	is
+xcomp	stuck	running
+case	grass	on
+nmod:on	running	grass
+punct	stuck	.

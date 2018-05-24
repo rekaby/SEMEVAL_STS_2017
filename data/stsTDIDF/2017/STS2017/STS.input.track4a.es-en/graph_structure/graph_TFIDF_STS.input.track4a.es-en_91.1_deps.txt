@@ -1,0 +1,9 @@
+dog	white	amod
+running	dog	nmod:with
+dog	grass	nmod:on
+grass	on	case
+boy	Asian	amod
+running	boy	nsubj
+white	gray	conj:and
+grass	green	amod
+dog	with	case

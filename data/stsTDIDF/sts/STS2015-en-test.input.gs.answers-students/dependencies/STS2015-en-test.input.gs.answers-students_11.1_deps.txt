@@ -1,0 +1,7 @@
+det	switch	an
+amod	switch	open
+nsubj	causes	switch
+root	ROOT	causes
+det	gap	a
+dobj	causes	gap
+punct	causes	.

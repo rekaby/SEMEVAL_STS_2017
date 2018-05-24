@@ -1,0 +1,11 @@
+compound	Bain	Conrad
+root	ROOT	Bain
+punct	Bain	,
+appos	Bain	Actor
+nmod	Actor	on
+punct	Bain	?-6) compound(Strokes-2, Diff?rent
+root	ROOT	Strokes
+punct	Strokes	,
+punct	Strokes	?-4) root(ROOT-0, Dies
+case	89	at
+nmod:at	Dies	89

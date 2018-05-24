@@ -1,0 +1,6 @@
+det	audience	An
+root	ROOT	audience
+case	concert	at
+det	concert	a
+nmod:at	audience	concert
+punct	audience	.

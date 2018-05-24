@@ -1,0 +1,8 @@
+nmod:tmod	flee	Thousands
+advmod	Syrian	more
+amod	refugees	Syrian
+nsubj	flee	refugees
+root	ROOT	flee
+case	Turkey	to
+nmod:to	flee	Turkey
+xcomp	flee	overnight

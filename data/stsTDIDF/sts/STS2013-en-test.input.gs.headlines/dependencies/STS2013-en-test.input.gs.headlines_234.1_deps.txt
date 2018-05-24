@@ -1,0 +1,10 @@
+nsubj	release	US
+punct	US	,
+appos	US	UK
+case	pact	in
+nmod:in	US	pact
+mark	release	to
+root	ROOT	release
+compound	stocks	emergency
+compound	stocks	oil
+dobj	release	stocks

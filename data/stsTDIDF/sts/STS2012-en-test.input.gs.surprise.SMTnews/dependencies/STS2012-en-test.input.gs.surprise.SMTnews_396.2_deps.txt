@@ -1,0 +1,17 @@
+nsubj	thought	Tocqueville
+root	ROOT	thought
+mark	opposed	that
+case	run	on
+det	run	the
+amod	run	long
+nmod:on	opposed	run
+punct	opposed	,
+nsubjpass	opposed	nothing
+aux	opposed	can
+auxpass	opposed	be
+advmod	opposed	really
+ccomp	thought	opposed
+case	tendency	to
+det	tendency	this
+nmod:to	opposed	tendency
+punct	thought	.

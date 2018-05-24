@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	camera	with
+det	camera	a
+nmod:with	playing	camera
+punct	playing	.

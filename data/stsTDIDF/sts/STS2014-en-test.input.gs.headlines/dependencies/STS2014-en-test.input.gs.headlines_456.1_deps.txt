@@ -1,0 +1,8 @@
+compound	step	Goa
+amod	step	first
+root	ROOT	step
+case	march	in
+compound	march	Modis
+nmod:in	step	march
+case	Delhi	to
+nmod:to	march	Delhi

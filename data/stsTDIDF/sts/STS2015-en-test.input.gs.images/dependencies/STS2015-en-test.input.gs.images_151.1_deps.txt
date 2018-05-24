@@ -1,0 +1,9 @@
+nummod	dogs	two
+amod	dogs	big
+amod	dogs	brown
+nsubj	running	dogs
+root	ROOT	running
+case	snow	through
+det	snow	the
+nmod:through	running	snow
+punct	running	.

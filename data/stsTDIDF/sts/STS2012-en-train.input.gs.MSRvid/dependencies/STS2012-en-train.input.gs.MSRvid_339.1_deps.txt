@@ -1,0 +1,6 @@
+det	boy	The
+nsubj	played	boy
+root	ROOT	played
+nmod:poss	trumpet	his
+dobj	played	trumpet
+punct	played	.

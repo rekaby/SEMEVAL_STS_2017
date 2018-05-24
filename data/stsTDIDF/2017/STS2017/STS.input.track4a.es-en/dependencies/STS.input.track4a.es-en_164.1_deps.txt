@@ -1,0 +1,6 @@
+det	children	The
+nsubj	playing	children
+aux	playing	are
+root	ROOT	playing
+dobj	playing	football
+punct	playing	.

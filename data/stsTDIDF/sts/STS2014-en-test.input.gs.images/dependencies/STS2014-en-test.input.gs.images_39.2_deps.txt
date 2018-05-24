@@ -1,0 +1,13 @@
+det	group	A
+nsubj	sit	group
+case	people	of
+nmod:of	group	people
+root	ROOT	sit
+case	table	around
+det	table	a
+nmod:around	sit	table
+case	food	with
+nmod:with	table	food
+cc	food	and
+conj:and	food	beer
+punct	sit	.

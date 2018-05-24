@@ -1,0 +1,8 @@
+punct	Cause	-LRB-
+dep	become	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	become
+advmod	distributed	widely
+xcomp	become	distributed
+punct	become	.

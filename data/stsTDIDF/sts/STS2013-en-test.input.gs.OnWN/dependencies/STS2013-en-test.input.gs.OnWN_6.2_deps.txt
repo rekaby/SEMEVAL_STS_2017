@@ -1,0 +1,8 @@
+det	event	the
+root	ROOT	event
+case	something	of
+nmod:of	event	something
+auxpass	raised	being
+acl	something	raised
+advmod	raised	upward
+punct	event	.

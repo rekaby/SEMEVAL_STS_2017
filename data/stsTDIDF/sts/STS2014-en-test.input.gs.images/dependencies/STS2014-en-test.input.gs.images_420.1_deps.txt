@@ -1,0 +1,12 @@
+det	table	A
+compound	table	dining
+root	ROOT	table
+case	candles	with
+nmod:with	table	candles
+punct	candles	,
+conj:and	candles	wine
+punct	candles	,
+cc	candles	and
+det	teapot	a
+conj:and	candles	teapot
+punct	table	.

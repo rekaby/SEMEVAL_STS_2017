@@ -1,0 +1,6 @@
+root	ROOT	assign
+case	task	to
+det	task	a
+amod	task	specific
+nmod:to	assign	task
+punct	assign	.

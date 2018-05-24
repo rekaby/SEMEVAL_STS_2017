@@ -1,0 +1,16 @@
+nmod:poss	Father	His
+amod	Father	first
+nmod:poss	Day	Father
+case	Father	's
+root	ROOT	Day
+case	dad	as
+det	dad	a
+nmod:as	Day	dad
+punct	Day	,
+nmod:poss	major	his
+amod	major	first
+appos	Day	major
+case	champion	as
+det	champion	a
+nmod:as	major	champion
+punct	Day	.

@@ -1,0 +1,12 @@
+rests	woman	nsubj
+rests	head	dobj
+rests	lying	advcl
+rests	,	punct
+head	backpack	nmod:in
+lying	down	compound:prt
+rests	.	punct
+backpack	in	case
+lying	while	mark
+rests	Tired	advmod
+ROOT	rests	root
+backpack	her	nmod:poss

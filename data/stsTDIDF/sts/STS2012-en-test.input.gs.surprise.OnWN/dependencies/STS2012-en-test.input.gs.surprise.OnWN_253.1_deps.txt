@@ -1,0 +1,4 @@
+root	ROOT	lock
+case	one	with
+nmod:with	lock	one
+dep	lock	another

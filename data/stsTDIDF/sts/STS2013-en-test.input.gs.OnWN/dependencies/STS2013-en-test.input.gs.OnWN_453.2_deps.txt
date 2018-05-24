@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	lean	to
+xcomp	cause	lean
+case	side	to
+det	side	the
+nmod:to	lean	side
+punct	cause	.

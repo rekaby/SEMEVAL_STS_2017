@@ -1,0 +1,10 @@
+det	man	A
+amod	man	young
+nsubj	singing	man
+cop	singing	is
+root	ROOT	singing
+cc	singing	and
+conj:and	singing	playing
+det	piano	the
+dobj	playing	piano
+punct	singing	.

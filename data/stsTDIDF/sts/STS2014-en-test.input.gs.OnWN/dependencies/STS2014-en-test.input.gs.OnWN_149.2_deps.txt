@@ -1,0 +1,15 @@
+dep	melt	treat
+punct	melt	,
+dep	melt	process
+punct	melt	,
+nsubj	melt	heat
+punct	melt	,
+root	ROOT	melt
+punct	melt	,
+cc	melt	or
+conj:or	melt	refine
+case	furnace	in
+det	furnace	a
+amod	furnace	reverberatory
+nmod:in	refine	furnace
+punct	melt	.

@@ -1,0 +1,14 @@
+det	boy	A
+nsubj	swaying	boy
+cc	boy	and
+det	girl	a
+conj:and	boy	girl
+aux	swaying	are
+root	ROOT	swaying
+case	swing	in
+det	swing	a
+nmod:in	swaying	swing
+case	park	in
+det	park	the
+nmod:in	swing	park
+punct	swaying	.

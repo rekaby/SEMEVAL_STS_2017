@@ -1,0 +1,6 @@
+root	ROOT	subsist
+case	allowance	on
+det	allowance	a
+amod	allowance	meager
+nmod:on	subsist	allowance
+punct	subsist	.

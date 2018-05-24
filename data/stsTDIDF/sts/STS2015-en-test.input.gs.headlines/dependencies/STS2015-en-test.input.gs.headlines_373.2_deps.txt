@@ -1,0 +1,6 @@
+nsubj	destroys	Fire
+root	ROOT	destroys
+compound	town	Tibetan
+dobj	destroys	town
+case	China	in
+nmod:in	destroys	China

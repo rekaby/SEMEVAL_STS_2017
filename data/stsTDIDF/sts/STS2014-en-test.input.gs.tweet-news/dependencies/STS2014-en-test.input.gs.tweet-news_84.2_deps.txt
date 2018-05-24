@@ -1,0 +1,15 @@
+compound	Ink	India
+root	ROOT	Ink
+punct	Ink	:
+compound	Police	Woman
+amod	Police	Raped
+case	Men	by
+nummod	Men	Seven
+nmod:by	Raped	Men
+case	Punjab	in
+nmod:in	Men	Punjab
+punct	Punjab	,
+appos	Punjab	India
+punct	Punjab	,
+nsubj	Say	Police
+parataxis	Ink	Say

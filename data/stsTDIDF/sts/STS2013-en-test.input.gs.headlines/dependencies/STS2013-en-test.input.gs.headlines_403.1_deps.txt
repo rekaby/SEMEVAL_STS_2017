@@ -1,0 +1,10 @@
+compound	Correa	Ecuador
+compound	Correa	President
+nsubj	says	Correa
+root	ROOT	says
+neg	decision	no
+dobj	says	decision
+acl	decision	made
+case	asylum	on
+compound	asylum	Assange
+nmod:on	made	asylum

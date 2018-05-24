@@ -1,0 +1,10 @@
+amod	people	Many
+nsubj	run	people
+root	ROOT	run
+case	race	in
+det	race	a
+nmod:in	run	race
+case	street	on
+det	street	a
+nmod:on	race	street
+punct	run	.

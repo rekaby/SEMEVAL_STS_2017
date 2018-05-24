@@ -1,0 +1,12 @@
+det	man	A
+nsubj	pumping	man
+aux	pumping	is
+root	ROOT	pumping
+dobj	pumping	air
+case	tires	on
+det	tires	the
+nmod:on	pumping	tires
+case	bicycle	of
+nmod:poss	bicycle	his
+nmod:of	tires	bicycle
+punct	pumping	.

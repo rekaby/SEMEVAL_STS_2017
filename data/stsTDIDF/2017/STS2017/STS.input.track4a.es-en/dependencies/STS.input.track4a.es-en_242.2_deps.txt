@@ -1,0 +1,13 @@
+det	group	A
+nsubj	wait	group
+case	people	of
+nmod:of	group	people
+root	ROOT	wait
+case	turn	for
+nmod:poss	turn	their
+nmod:for	wait	turn
+mark	cross	to
+acl	turn	cross
+det	street	the
+dobj	cross	street
+punct	wait	.

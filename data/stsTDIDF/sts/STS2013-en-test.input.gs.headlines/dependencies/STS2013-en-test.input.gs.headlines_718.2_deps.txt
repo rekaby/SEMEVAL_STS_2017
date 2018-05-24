@@ -1,0 +1,7 @@
+compound	Mayer	Yahoo
+compound	Mayer	names
+compound	Mayer	Google
+compound	Mayer	exec
+root	ROOT	Mayer
+case	CEO	as
+nmod:as	Mayer	CEO

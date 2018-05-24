@@ -1,0 +1,15 @@
+expl	is	there
+root	ROOT	is
+amod	opinion	conflicting
+nsubj	is	opinion
+case	extent	as
+mwe	as	to
+det	extent	the
+nmod:as_to	opinion	extent
+case	damage	of
+nmod:of	extent	damage
+acl	damage	suffered
+case	insurgency	by
+det	insurgency	the
+nmod:by	suffered	insurgency
+punct	is	.

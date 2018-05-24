@@ -1,0 +1,8 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	ladder	on
+det	ladder	a
+nmod:on	standing	ladder
+punct	standing	.

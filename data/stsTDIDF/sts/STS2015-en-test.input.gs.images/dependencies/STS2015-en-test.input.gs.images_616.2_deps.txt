@@ -1,0 +1,8 @@
+det	group	A
+nsubj	play	group
+case	guys	of
+nmod:of	group	guys
+root	ROOT	play
+dobj	play	instruments
+advmod	play	outside
+punct	play	.

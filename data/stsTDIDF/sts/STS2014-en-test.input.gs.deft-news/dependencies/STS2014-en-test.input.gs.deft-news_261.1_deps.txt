@@ -1,0 +1,13 @@
+amod	lloyd	australian
+compound	lloyd	television
+compound	lloyd	reporter
+compound	lloyd	peter
+nsubj	faces	lloyd
+root	ROOT	faces
+nummod	charges	3
+amod	charges	new
+compound	charges	drug
+dobj	faces	charges
+case	singapore	in
+nmod:in	charges	singapore
+punct	faces	.

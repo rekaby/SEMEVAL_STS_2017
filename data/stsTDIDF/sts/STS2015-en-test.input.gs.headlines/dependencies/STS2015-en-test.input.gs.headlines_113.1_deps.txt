@@ -1,0 +1,10 @@
+nsubj	buries	Storm
+root	ROOT	buries
+dobj	buries	Northeast
+punct	buries	;
+nummod	inches	16
+parataxis	buries	inches
+case	snow	of
+nmod:of	inches	snow
+case	inches	in
+dep	inches	NJ

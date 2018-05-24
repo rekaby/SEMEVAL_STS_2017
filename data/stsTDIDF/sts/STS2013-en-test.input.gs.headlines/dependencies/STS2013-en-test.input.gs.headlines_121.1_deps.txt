@@ -1,0 +1,6 @@
+nummod	Palestinians	2
+nsubj	killed	Palestinians
+root	ROOT	killed
+case	airstrikes	in
+amod	airstrikes	Israeli
+nmod:in	killed	airstrikes

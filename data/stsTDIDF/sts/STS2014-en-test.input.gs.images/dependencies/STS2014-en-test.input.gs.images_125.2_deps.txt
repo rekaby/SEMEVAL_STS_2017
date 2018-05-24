@@ -1,0 +1,10 @@
+det	group	A
+nsubj	building	group
+case	people	of
+nmod:of	group	people
+cop	building	are
+case	building	outside
+det	building	a
+amod	building	decrepit
+root	ROOT	building
+punct	building	.

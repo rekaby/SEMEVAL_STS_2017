@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	pooping	cat
+aux	pooping	is
+root	ROOT	pooping
+case	toilet	into
+det	toilet	a
+nmod:into	pooping	toilet
+punct	pooping	.

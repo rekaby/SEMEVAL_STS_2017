@@ -1,0 +1,9 @@
+nummod	kids	Two
+nsubj	playing	kids
+aux	playing	are
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+case	Foosball	of
+nmod:of	game	Foosball
+punct	playing	.

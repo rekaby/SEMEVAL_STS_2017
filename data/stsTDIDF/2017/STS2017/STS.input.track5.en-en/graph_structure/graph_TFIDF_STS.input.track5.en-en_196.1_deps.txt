@@ -1,0 +1,5 @@
+walk	women	nsubj
+walk	sidewalk	nmod:down
+sidewalk	down	case
+walk	store	nmod:to
+store	to	case

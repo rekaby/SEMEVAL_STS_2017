@@ -1,0 +1,6 @@
+det	bear	A
+compound	bear	panda
+nsubj	eating	bear
+aux	eating	is
+root	ROOT	eating
+punct	eating	.

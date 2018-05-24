@@ -1,0 +1,13 @@
+nsubj	feel	i
+root	ROOT	feel
+nsubj	man	you
+cop	man	are
+det	man	a
+amod	man	good
+ccomp	feel	man
+punct	man	,
+appos	man	i
+advmod	you	truly
+case	you	like
+nmod:like	i	you
+punct	feel	.

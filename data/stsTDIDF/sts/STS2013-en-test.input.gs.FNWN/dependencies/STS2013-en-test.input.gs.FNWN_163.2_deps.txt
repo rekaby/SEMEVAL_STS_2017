@@ -1,0 +1,12 @@
+root	ROOT	separate
+cc	separate	and
+conj:and	separate	distinct
+case	others	from
+nmod:from	separate	others
+case	group	of
+det	group	the
+amod	group	same
+nmod:of	others	group
+cc	group	or
+conj:or	group	category
+punct	separate	;

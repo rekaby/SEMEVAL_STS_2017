@@ -1,0 +1,7 @@
+det	activity	the
+root	ROOT	activity
+mark	learning	of
+acl	activity	learning
+cc	learning	or
+auxpass	trained	being
+conj:or	learning	trained

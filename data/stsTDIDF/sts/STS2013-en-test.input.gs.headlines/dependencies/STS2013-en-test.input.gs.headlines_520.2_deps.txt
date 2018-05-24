@@ -1,0 +1,9 @@
+root	ROOT	India
+punct	India	:
+amod	rebels	Maoist
+dep	India	rebels
+case	talks	in
+nmod:in	rebels	talks
+mark	freeing	on
+acl	talks	freeing
+dobj	freeing	Italians

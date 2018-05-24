@@ -1,0 +1,11 @@
+det	photo	a
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	cat	of
+det	cat	a
+nmod:of	photo	cat
+acl	photo	lying
+compound:prt	lying	down
+punct	photo	.

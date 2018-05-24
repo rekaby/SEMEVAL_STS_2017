@@ -1,0 +1,9 @@
+nsubj	fear	Police
+acl	Police	abandon
+dobj	abandon	posts
+case	Lesotho	in
+nmod:in	posts	Lesotho
+punct	fear	,
+root	ROOT	fear
+case	lives	for
+nmod:for	fear	lives

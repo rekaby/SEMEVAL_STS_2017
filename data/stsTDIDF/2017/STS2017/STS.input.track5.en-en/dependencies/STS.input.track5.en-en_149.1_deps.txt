@@ -1,0 +1,9 @@
+nummod	workers	Two
+nsubj	sitting	workers
+aux	sitting	are
+root	ROOT	sitting
+case	pipes	next
+mwe	next	to
+nmod:next_to	sitting	pipes
+acl	pipes	eating
+dobj	eating	lunch

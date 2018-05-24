@@ -1,0 +1,7 @@
+root	ROOT	remove
+case	contest	from
+det	contest	a
+nmod:from	remove	contest
+cc	contest	or
+conj:or	contest	race
+punct	remove	.

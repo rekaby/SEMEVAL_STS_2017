@@ -1,0 +1,12 @@
+det	people	Some
+nsubj	have	people
+root	ROOT	have
+amod	confidence	complete
+dobj	have	confidence
+case	people	in
+det	people	the
+nmod:in	confidence	people
+acl	people	running
+det	institutions	these
+dobj	running	institutions
+punct	have	.

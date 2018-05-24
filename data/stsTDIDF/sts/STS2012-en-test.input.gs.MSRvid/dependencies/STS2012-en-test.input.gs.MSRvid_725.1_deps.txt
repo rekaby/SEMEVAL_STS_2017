@@ -1,0 +1,7 @@
+det	person	A
+nsubj	petting	person
+aux	petting	is
+root	ROOT	petting
+det	monkey	a
+dobj	petting	monkey
+punct	petting	.

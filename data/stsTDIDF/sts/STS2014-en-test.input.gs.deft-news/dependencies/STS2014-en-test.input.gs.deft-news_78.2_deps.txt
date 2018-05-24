@@ -1,0 +1,9 @@
+nsubj	presents	it
+root	ROOT	presents
+det	threat	a
+amod	threat	major
+dobj	presents	threat
+case	security	to
+amod	security	global
+nmod:to	threat	security
+punct	presents	.

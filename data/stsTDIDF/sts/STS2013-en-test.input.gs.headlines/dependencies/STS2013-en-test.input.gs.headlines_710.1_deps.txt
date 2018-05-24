@@ -1,0 +1,5 @@
+compound	vote	Armenians
+root	ROOT	vote
+case	elections	in
+amod	elections	parliamentary
+nmod:in	vote	elections

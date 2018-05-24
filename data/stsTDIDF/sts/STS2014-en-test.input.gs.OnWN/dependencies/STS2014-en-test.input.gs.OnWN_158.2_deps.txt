@@ -1,0 +1,8 @@
+root	ROOT	organize
+advmod	organize	anew
+punct	organize	,
+case	setback	as
+case	setback	after
+det	setback	a
+nmod:after	organize	setback
+punct	organize	.

@@ -1,0 +1,9 @@
+nsubj	first	travel
+case	front	in
+nmod:in	travel	front
+acl	front	of
+punct	travel	,
+cop	first	be
+advmod	precede	first
+punct	first	,
+root	ROOT	precede

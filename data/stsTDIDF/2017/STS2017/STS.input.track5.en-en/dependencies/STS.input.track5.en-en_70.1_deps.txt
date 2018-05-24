@@ -1,0 +1,11 @@
+det	man	A
+nsubj	eats	man
+root	ROOT	eats
+dobj	eats	popcorn
+dep	eats	while
+dep	while	watching
+dobj	watching	cartoons
+advmod	night	late
+nummod	night	one
+nmod:tmod	watching	night
+punct	eats	.

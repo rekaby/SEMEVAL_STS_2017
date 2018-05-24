@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	climbing	woman
+aux	climbing	is
+root	ROOT	climbing
+det	cliff	a
+dobj	climbing	cliff
+punct	climbing	.

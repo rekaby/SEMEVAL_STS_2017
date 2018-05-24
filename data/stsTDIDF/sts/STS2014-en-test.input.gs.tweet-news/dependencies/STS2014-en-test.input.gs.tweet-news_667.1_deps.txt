@@ -1,0 +1,9 @@
+nsubj	gon	This
+aux	gon	is
+root	ROOT	gon
+nsubj	fantastic	na
+cop	fantastic	be
+ccomp	gon	fantastic
+case	entertainment	for
+nmod:for	fantastic	entertainment
+punct	gon	:

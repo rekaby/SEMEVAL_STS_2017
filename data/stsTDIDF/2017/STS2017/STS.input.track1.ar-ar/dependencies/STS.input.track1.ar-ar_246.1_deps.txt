@@ -1,0 +1,10 @@
+nsubj	plays	Young
+root	ROOT	plays
+det	unity	the
+dobj	plays	unity
+case	controllers	of
+det	controllers	the
+amod	controllers	general
+compound	controllers	gaming
+nmod:of	unity	controllers
+punct	plays	.

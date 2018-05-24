@@ -1,0 +1,11 @@
+root	ROOT	US
+punct	US	,
+compound	Doubts	NATO
+compound	Doubts	Raise
+appos	US	Doubts
+nsubj	Pulled	Russia
+acl:relcl	Doubts	Pulled
+advmod	Pulled	Back
+case	Ukraine	from
+nmod:from	Back	Ukraine
+dep	Ukraine	Border

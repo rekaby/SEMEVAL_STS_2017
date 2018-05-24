@@ -1,0 +1,9 @@
+nmod:poss	christening	Prince
+case	Prince	's
+root	ROOT	christening
+det	blend	a
+dobj	christening	blend
+case	old	of
+nmod:of	blend	old
+cc	old	and
+conj:and	old	new

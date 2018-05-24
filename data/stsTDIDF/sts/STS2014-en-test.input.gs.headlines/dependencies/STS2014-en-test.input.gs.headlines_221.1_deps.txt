@@ -1,0 +1,11 @@
+amod	round	Indian
+compound	round	police
+root	ROOT	round
+case	suspects	up
+det	suspects	all
+nummod	suspects	five
+nmod:up	round	suspects
+case	case	in
+compound	case	Mumbai
+compound	case	rape
+nmod:in	suspects	case

@@ -1,0 +1,8 @@
+det	swimming	A
+amod	swimming	little
+compound	swimming	girl
+root	ROOT	swimming
+case	ocean	in
+det	ocean	the
+nmod:in	swimming	ocean
+punct	swimming	.

@@ -1,0 +1,11 @@
+det	couch	A
+compound	couch	leather
+root	ROOT	couch
+cc	couch	and
+amod	table	wooden
+conj:and	couch	table
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	couch	room
+punct	couch	.

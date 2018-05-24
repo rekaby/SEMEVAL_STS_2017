@@ -1,0 +1,8 @@
+nummod	Oscar	2013
+nsubj	nods	Oscar
+root	ROOT	nods
+punct	nods	:
+nsubjpass	snubbed	Who
+auxpass	snubbed	got
+parataxis	nods	snubbed
+punct	snubbed	?

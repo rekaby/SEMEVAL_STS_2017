@@ -1,0 +1,11 @@
+amod	province	helmand
+nsubj	producer	province
+cop	producer	is
+det	world	the
+nmod:poss	producer	world
+case	world	's
+amod	producer	largest
+root	ROOT	producer
+case	opium	of
+nmod:of	producer	opium
+punct	producer	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	skating	man
+aux	skating	is
+root	ROOT	skating
+compound:prt	skating	down
+det	set	a
+dobj	skating	set
+case	stairs	of
+nmod:of	set	stairs
+punct	skating	.

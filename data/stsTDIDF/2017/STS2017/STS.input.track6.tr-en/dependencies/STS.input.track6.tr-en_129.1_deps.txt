@@ -1,0 +1,12 @@
+det	man	A
+nsubj	helping	man
+aux	helping	is
+root	ROOT	helping
+det	lady	a
+nsubj	put	lady
+ccomp	helping	put
+nmod:poss	goods	her
+dobj	put	goods
+case	baskets	in
+nmod:in	put	baskets
+punct	helping	.

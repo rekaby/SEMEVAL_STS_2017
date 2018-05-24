@@ -1,0 +1,10 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+case	guitar	on
+det	guitar	a
+nmod:on	playing	guitar
+cc	guitar	and
+conj:and	guitar	singing
+punct	playing	.

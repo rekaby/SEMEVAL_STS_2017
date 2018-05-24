@@ -1,0 +1,8 @@
+amod	groups	Syrian
+compound	groups	rebel
+nsubj	battle	groups
+root	ROOT	battle
+det	other	each
+dobj	battle	other
+case	north	in
+nmod:in	battle	north

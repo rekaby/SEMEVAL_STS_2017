@@ -1,0 +1,16 @@
+punct	Cause	-LRB-
+dep	become	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	become
+amod	character	different
+cc	different	or
+conj:or	different	aquire
+det	character	a
+amod	character	different
+xcomp	become	character
+punct	become	,
+advmod	development	possibly
+case	development	during
+nmod:during	become	development
+punct	become	.

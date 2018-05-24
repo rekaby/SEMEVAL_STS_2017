@@ -1,0 +1,10 @@
+root	ROOT	regulate
+cc	regulate	or
+conj:or	regulate	set
+det	time	the
+dobj	regulate	time
+case	clock	of
+punct	clock	-LRB-
+det	clock	a
+nmod:of	time	clock
+punct	regulate	-RRB-

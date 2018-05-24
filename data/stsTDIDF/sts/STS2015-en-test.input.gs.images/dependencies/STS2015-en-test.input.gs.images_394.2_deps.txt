@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	young
+nsubj	laying	girl
+root	ROOT	laying
+case	toy	on
+det	toy	a
+amod	toy	blue
+amod	toy	inflatable
+nmod:on	laying	toy

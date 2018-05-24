@@ -1,0 +1,12 @@
+det	person	A
+nsubj	climbing	person
+case	helmet	with
+det	helmet	a
+amod	helmet	white
+nmod:with	person	helmet
+aux	climbing	is
+root	ROOT	climbing
+case	rock	on
+det	rock	a
+nmod:on	climbing	rock
+punct	climbing	.

@@ -1,0 +1,5 @@
+nsubj	trade	Syrians
+root	ROOT	trade
+dobj	trade	blame
+case	blasts	over
+nmod:over	blame	blasts

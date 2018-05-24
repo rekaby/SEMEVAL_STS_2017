@@ -1,0 +1,10 @@
+det	man	A
+nsubj	seasoning	man
+aux	seasoning	is
+root	ROOT	seasoning
+det	dough	some
+dobj	seasoning	dough
+case	pan	in
+det	pan	a
+nmod:in	seasoning	pan
+punct	seasoning	.

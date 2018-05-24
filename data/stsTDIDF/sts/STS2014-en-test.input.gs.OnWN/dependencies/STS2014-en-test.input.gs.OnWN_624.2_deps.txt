@@ -1,0 +1,7 @@
+root	ROOT	run
+case	pace	at
+det	pace	a
+advmod	swift	moderately
+amod	pace	swift
+nmod:at	run	pace
+punct	run	.

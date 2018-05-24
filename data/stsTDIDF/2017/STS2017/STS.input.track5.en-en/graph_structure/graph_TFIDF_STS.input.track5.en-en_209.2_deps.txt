@@ -1,0 +1,4 @@
+ditch	across	case
+wading	ditch	nmod:across
+ditch	a	det
+group	wading	acl

@@ -1,0 +1,17 @@
+root	ROOT	grief
+nsubj	top	he
+cop	top	's
+case	top	at
+det	top	the
+acl:relcl	grief	top
+case	list	of
+det	list	the
+nmod:of	top	list
+case	year	for
+det	year	the
+amod	year	4th
+nmod:for	list	year
+case	row	in
+det	row	a
+nmod:in	grief	row
+punct	grief	.

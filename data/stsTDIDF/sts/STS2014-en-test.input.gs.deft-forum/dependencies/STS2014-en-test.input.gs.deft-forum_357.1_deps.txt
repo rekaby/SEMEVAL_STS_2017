@@ -1,0 +1,15 @@
+compound	California	Umm
+det	California	the
+nsubj	ship	California
+cop	ship	was
+det	ship	a
+compound	ship	cargo
+root	ROOT	ship
+nsubj	dont	I
+acl:relcl	ship	dont
+xcomp	dont	care
+dobj	says	what
+det	article	the
+nsubj	says	article
+ccomp	care	says
+punct	ship	.

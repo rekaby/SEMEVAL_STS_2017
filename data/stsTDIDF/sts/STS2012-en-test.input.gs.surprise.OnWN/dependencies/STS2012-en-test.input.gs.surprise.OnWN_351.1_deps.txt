@@ -1,0 +1,9 @@
+det	pursuit	The
+root	ROOT	pursuit
+cc	pursuit	and
+conj:and	pursuit	killing
+cc	killing	or
+conj:or	killing	capture
+case	animals	of
+nmod:of	killing	animals
+punct	pursuit	.

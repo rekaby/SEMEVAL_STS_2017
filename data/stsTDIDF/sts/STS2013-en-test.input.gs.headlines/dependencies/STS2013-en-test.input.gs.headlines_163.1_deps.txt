@@ -1,0 +1,13 @@
+nsubj	monitors	UN
+root	ROOT	monitors
+advmod	monitors	yet
+mark	reach	to
+xcomp	monitors	reach
+dobj	reach	site
+case	massacre	of
+amod	massacre	Syrian
+punct	massacre	`
+nmod:of	site	massacre
+punct	massacre	'
+punct	monitors	--
+dep	monitors	video

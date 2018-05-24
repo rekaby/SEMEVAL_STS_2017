@@ -1,0 +1,7 @@
+compound	Toll	Death
+root	ROOT	Toll
+case	Bangladesh	in
+nmod:in	Toll	Bangladesh
+amod	Bangladesh	Collapse
+case	194	at
+nmod:at	Collapse	194

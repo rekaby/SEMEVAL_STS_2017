@@ -1,0 +1,6 @@
+det	couple	A
+nsubj	holds	couple
+root	ROOT	holds
+det	baby	a
+dobj	holds	baby
+punct	holds	.

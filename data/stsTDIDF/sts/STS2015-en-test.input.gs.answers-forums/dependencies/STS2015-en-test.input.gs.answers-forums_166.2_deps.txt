@@ -1,0 +1,17 @@
+nsubj	try	You
+aux	try	can
+root	ROOT	try
+csubj	work	putting
+det	diaper	the
+dobj	putting	diaper
+case	which	on
+advmod	which	backwards
+nmod:on	putting	which
+aux	work	may
+advmod	work	only
+ccomp	try	work
+case	while	for
+det	while	a
+amod	while	little
+nmod:for	work	while
+punct	try	.

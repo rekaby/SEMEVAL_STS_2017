@@ -1,0 +1,10 @@
+compound	Armstrong	Lance
+nsubj	calls	Armstrong
+root	ROOT	calls
+nsubj	quits	it
+ccomp	calls	quits
+case	fight	in
+nmod:in	quits	fight
+case	charges	against
+compound	charges	doping
+nmod:against	fight	charges

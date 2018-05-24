@@ -1,0 +1,13 @@
+advmod	achievements	Well
+det	achievements	the
+nummod	achievements	four
+root	ROOT	achievements
+case	version	of
+det	version	the
+amod	version	new
+nmod:of	achievements	version
+case	anthem	of
+det	anthem	the
+amod	anthem	national
+nmod:of	version	anthem
+punct	achievements	.

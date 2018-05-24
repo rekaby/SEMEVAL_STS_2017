@@ -1,0 +1,9 @@
+root	ROOT	established
+amod	state	customary
+dobj	established	state
+punct	society	-LRB-
+advmod	society	especially
+case	society	of
+appos	state	society
+punct	society	-RRB-
+punct	established	;

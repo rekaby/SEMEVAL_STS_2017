@@ -1,0 +1,6 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	standing
+case	subway	near
+det	subway	the
+nmod:near	standing	subway

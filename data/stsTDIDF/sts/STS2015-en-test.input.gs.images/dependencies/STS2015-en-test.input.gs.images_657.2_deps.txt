@@ -1,0 +1,9 @@
+det	man	The
+nsubj	skiing	man
+aux	skiing	is
+root	ROOT	skiing
+compound:prt	skiing	down
+det	hill	a
+amod	hill	snowy
+dobj	skiing	hill
+punct	skiing	.

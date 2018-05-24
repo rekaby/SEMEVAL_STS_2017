@@ -1,0 +1,12 @@
+det	dog	a
+amod	dog	wet
+amod	dog	black
+nsubj	river	dog
+case	collar	with
+det	collar	a
+amod	collar	red
+nmod:with	dog	collar
+cop	river	is
+case	river	in
+det	river	the
+root	ROOT	river

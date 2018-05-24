@@ -1,0 +1,9 @@
+nsubj	reported	MSNBC.com
+advmod	reported	first
+root	ROOT	reported
+det	request	the
+compound	request	CIA
+dobj	reported	request
+case	Friday	on
+nmod:on	request	Friday
+punct	reported	.

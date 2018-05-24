@@ -1,0 +1,6 @@
+sit	seat	nmod:in
+seat	in	case
+seat	an	det
+children	Three	nummod
+sit	children	nsubj
+seat	outdoor	amod

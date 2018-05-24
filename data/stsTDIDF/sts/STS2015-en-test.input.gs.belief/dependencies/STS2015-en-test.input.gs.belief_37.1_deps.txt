@@ -1,0 +1,8 @@
+dep	double	presi
+dep	double	*
+compound	obama	dent
+nsubj	double	obama
+aux	double	would
+root	ROOT	double
+dobj	double	it
+punct	double	.

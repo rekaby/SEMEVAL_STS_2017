@@ -1,0 +1,14 @@
+case	first	At
+nmod:at	thought	first
+punct	thought	,
+nsubj	thought	I
+root	ROOT	thought
+nsubj	bit	this
+cop	bit	is
+det	bit	a
+ccomp	thought	bit
+case	question	of
+det	question	a
+amod	question	tricky
+nmod:of	bit	question
+punct	thought	.

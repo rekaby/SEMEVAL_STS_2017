@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	white
+amod	boy	Asian
+nsubj	giving	boy
+aux	giving	is
+root	ROOT	giving
+amod	girl	young
+amod	girl	asian
+iobj	giving	girl
+det	ride	a
+compound	ride	piggyback
+dobj	giving	ride
+punct	giving	.

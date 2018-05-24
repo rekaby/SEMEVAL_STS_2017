@@ -1,0 +1,10 @@
+det	man	A
+nsubj	playing	man
+case	hat	in
+det	hat	a
+nmod:in	man	hat
+aux	playing	is
+root	ROOT	playing
+det	harp	a
+dobj	playing	harp
+punct	playing	.

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	getting	man
+aux	getting	is
+root	ROOT	getting
+case	car	into
+det	car	a
+nmod:into	getting	car
+case	garage	in
+det	garage	a
+nmod:in	car	garage
+punct	getting	.

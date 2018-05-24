@@ -1,0 +1,13 @@
+play	watching	dep
+woman	shorts	nmod:in
+play	children	nsubj
+standing	woman	nsubj
+t-shirt	white	amod
+woman	old	amod
+shorts	and	cc
+shorts	in	case
+play	path	nmod:on
+path	on	case
+shorts	t-shirt	conj:and
+standing	play	xcomp
+t-shirt	a	det

@@ -1,0 +1,10 @@
+det	baby	A
+nsubj	laughing	baby
+aux	laughing	is
+root	ROOT	laughing
+cc	laughing	and
+conj:and	laughing	crawling
+case	floor	on
+det	floor	the
+nmod:on	crawling	floor
+punct	laughing	.

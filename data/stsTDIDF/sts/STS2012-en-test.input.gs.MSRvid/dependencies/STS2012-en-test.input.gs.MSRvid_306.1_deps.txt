@@ -1,0 +1,8 @@
+nsubj	stirring	Someone
+aux	stirring	is
+root	ROOT	stirring
+dobj	stirring	chili
+case	kettle	in
+det	kettle	a
+nmod:in	stirring	kettle
+punct	stirring	.

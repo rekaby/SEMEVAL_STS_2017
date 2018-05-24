@@ -1,0 +1,10 @@
+root	ROOT	immune
+case	attack	to
+nmod:to	immune	attack
+punct	immune	;
+dep	immune	incapable
+mark	tampered	of
+auxpass	tampered	being
+advcl	incapable	tampered
+compound:prt	tampered	with
+punct	immune	;

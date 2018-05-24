@@ -1,0 +1,16 @@
+det	Index	The
+compound	Index	Nasdaq
+compound	Index	Composite
+root	ROOT	Index
+punct	Index	.-5) nsubj(jumped-2, IXIC
+root	ROOT	jumped
+nummod	points	43.64
+dobj	jumped	points
+punct	points	,
+cc	points	or
+nummod	percent	2.89
+conj:or	points	percent
+punct	points	,
+case	1,553.73	to
+nmod:to	jumped	1,553.73
+punct	jumped	.

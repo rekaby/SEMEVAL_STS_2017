@@ -1,0 +1,11 @@
+det	group	A
+nsubj	pose	group
+case	people	of
+amod	people	elderly
+nmod:of	group	people
+root	ROOT	pose
+case	table	around
+det	table	a
+compound	table	dining
+nmod:around	pose	table
+punct	pose	.

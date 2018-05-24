@@ -1,0 +1,9 @@
+det	polo	A
+amod	polo	couple
+compound	polo	playing
+compound	polo	water
+root	ROOT	polo
+case	holiday	in
+det	holiday	the
+nmod:in	polo	holiday
+punct	polo	.

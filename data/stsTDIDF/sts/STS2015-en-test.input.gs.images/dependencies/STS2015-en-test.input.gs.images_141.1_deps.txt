@@ -1,0 +1,10 @@
+nummod	people	Two
+nsubj	sit	people
+root	ROOT	sit
+case	end	on
+det	end	the
+nmod:on	sit	end
+case	dock	of
+det	dock	a
+nmod:of	end	dock
+punct	sit	.

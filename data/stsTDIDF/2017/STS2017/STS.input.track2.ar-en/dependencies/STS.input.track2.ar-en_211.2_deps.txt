@@ -1,0 +1,8 @@
+nsubj	doing	Workers
+aux	doing	are
+root	ROOT	doing
+dobj	doing	something
+case	tree	for
+det	tree	the
+nmod:for	something	tree
+punct	doing	.

@@ -1,0 +1,11 @@
+amod	sets	Different
+nsubj	playing	sets
+case	teams	of
+nmod:of	sets	teams
+aux	playing	are
+root	ROOT	playing
+dobj	playing	football
+case	field	on
+det	field	a
+nmod:on	playing	field
+punct	playing	.

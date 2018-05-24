@@ -1,0 +1,6 @@
+art	at	case
+looking	show	nmod:in
+group	men	nmod:of
+show	art	compound
+looking	art	nmod:at
+group	looking	acl:relcl

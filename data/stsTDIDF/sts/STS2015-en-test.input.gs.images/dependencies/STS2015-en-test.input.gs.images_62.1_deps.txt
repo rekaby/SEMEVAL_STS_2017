@@ -1,0 +1,12 @@
+det	man	An
+amod	man	older
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+advmod	standing	outside
+case	truck	in
+mwe	in	front
+mwe	in	of
+det	truck	a
+nmod:in_front_of	standing	truck
+punct	standing	.

@@ -1,0 +1,11 @@
+advmod	replace	How
+aux	replace	can
+nsubj	replace	I
+root	ROOT	replace
+det	bulb	the
+dobj	replace	bulb
+case	fan	in
+det	fan	this
+compound	fan	ceiling
+nmod:in	replace	fan
+punct	replace	?

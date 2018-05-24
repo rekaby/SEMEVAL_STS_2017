@@ -1,0 +1,14 @@
+nsubj	awaits	World
+root	ROOT	awaits
+nmod:poss	interview	Oprah
+case	Oprah	's
+compound	Armstrong	Lance
+nsubj	interview	Armstrong
+dobj	awaits	interview
+punct	interview	-
+cc	interview	but
+aux	change	will
+nsubj	change	it
+conj:but	interview	change
+dobj	change	anything
+punct	awaits	?

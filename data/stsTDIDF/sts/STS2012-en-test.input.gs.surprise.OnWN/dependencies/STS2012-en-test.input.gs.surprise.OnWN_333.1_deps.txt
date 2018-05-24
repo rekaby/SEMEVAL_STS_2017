@@ -1,0 +1,9 @@
+amod	usage	informal
+root	ROOT	usage
+case	cat	for
+det	cat	a
+amod	cat	domestic
+nmod:for	usage	cat
+punct	usage	,
+advmod	young	often
+appos	usage	young

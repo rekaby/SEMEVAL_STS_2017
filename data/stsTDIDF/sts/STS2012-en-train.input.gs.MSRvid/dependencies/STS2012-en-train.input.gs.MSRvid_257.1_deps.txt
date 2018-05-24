@@ -1,0 +1,8 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+case	keyboard	on
+nmod:poss	keyboard	his
+nmod:on	playing	keyboard
+punct	playing	.

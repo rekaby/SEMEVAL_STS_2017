@@ -1,0 +1,5 @@
+compound	Beckham	David
+nsubj	retires	Beckham
+root	ROOT	retires
+case	football	from
+nmod:from	retires	football

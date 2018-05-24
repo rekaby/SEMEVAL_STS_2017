@@ -1,0 +1,15 @@
+nsubj	learned	He
+advmod	learned	later
+root	ROOT	learned
+mark	caused	that
+det	incident	the
+nsubjpass	caused	incident
+auxpass	caused	was
+ccomp	learned	caused
+case	boom	by
+det	Concorde	the
+nmod:poss	boom	Concorde
+case	Concorde	's
+amod	boom	sonic
+nmod:agent	caused	boom
+punct	learned	.

@@ -1,0 +1,9 @@
+root	ROOT	decorate
+punct	manuscripts	-LRB-
+dep	decorate	manuscripts
+punct	manuscripts	-RRB-
+case	letters	with
+nmod:with	decorate	letters
+acl	letters	painted
+xcomp	painted	red
+punct	decorate	.

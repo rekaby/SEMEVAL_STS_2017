@@ -1,0 +1,8 @@
+det	anthem	The
+amod	anthem	new
+amod	anthem	Czech
+root	ROOT	anthem
+nummod	versions	four
+amod	versions	new
+dep	anthem	versions
+punct	anthem	.

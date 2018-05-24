@@ -1,0 +1,9 @@
+amod	plate	small
+compound	plate	metal
+root	ROOT	plate
+case	toe	on
+nmod:on	plate	toe
+case	shoe	of
+det	shoe	a
+compound	shoe	dancing
+nmod:of	toe	shoe

@@ -1,0 +1,23 @@
+det	time	What
+nsubj	Federer	time
+cop	Federer	is
+compound	Murray	Andy
+compound	Federer	Murray
+compound	Federer	v
+compound	Federer	Roger
+root	ROOT	Federer
+case	final	in
+det	men	the
+compound	men	Wimbledon
+nmod:poss	final	men
+case	men	's
+nmod:in	Federer	final
+punct	Federer	?-15) dep(need-3, All
+nsubj	need	you
+root	ROOT	need
+mark	know	to
+xcomp	need	know
+case	game	about
+det	game	the
+amod	game	big
+nmod:about	know	game

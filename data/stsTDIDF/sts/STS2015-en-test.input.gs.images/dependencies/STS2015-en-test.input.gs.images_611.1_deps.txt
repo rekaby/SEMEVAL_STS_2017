@@ -1,0 +1,12 @@
+nummod	boys	Two
+root	ROOT	boys
+punct	boys	,
+appos	boys	one
+acl	one	wearing
+det	hat	a
+dobj	wearing	hat
+punct	wearing	,
+case	playground	in
+det	playground	a
+nmod:in	wearing	playground
+punct	boys	.

@@ -1,0 +1,16 @@
+nsubj	giving	I
+aux	giving	am
+neg	giving	not
+ccomp	said	giving
+det	consideration	any
+dobj	giving	consideration
+case	resignation	to
+nmod:to	giving	resignation
+punct	said	,
+punct	said	''
+nsubj	said	Shumaker
+root	ROOT	said
+case	statement	in
+det	statement	a
+nmod:in	said	statement
+punct	said	.

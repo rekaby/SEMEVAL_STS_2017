@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+neg	successor	no
+amod	successor	clear
+nsubj	is	successor
+case	O'Neill	for
+compound	O'Neill	Mr.
+nmod:for	successor	O'Neill
+case	Hyundai	at
+nmod:at	successor	Hyundai
+punct	is	.

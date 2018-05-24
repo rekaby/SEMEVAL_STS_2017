@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+dobj	puts	slabs
+case	meat	of
+nmod:of	slabs	meat
+case	pan	in
+det	pan	a
+nmod:in	puts	pan
+punct	puts	.

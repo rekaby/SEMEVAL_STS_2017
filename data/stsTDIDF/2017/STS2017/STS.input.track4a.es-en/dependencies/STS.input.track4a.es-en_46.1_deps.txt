@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	white
+nsubj	getting	dog
+aux	getting	is
+root	ROOT	getting
+det	bath	a
+dobj	getting	bath
+case	hairdressers	in
+det	hairdressers	the
+amod	hairdressers	canine
+nmod:in	getting	hairdressers
+punct	getting	.

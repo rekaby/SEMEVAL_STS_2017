@@ -1,0 +1,12 @@
+compound	Hunt	Jeremy
+nsubj	distances	Hunt
+root	ROOT	distances
+dobj	distances	himself
+case	adviser	from
+nmod:from	distances	adviser
+dep	adviser	who
+punct	who	`
+root	`	overstepped
+det	mark	the
+dobj	overstepped	mark
+punct	overstepped	'

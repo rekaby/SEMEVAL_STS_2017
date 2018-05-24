@@ -1,0 +1,13 @@
+det	child	A
+nsubj	jumping	child
+acl	child	wearing
+amod	shorts	blue
+cc	blue	and
+conj:and	blue	white
+dobj	wearing	shorts
+aux	jumping	is
+root	ROOT	jumping
+case	surf	in
+det	surf	the
+nmod:in	jumping	surf
+punct	jumping	.

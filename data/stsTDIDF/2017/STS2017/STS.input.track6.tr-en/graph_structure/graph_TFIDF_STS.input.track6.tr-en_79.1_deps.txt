@@ -1,0 +1,6 @@
+walking	is	aux
+building	colorful	amod
+walking	building	nmod:in_front_of
+walking	man	nsubj
+walking	sidewalk	dobj
+walking	down	compound:prt

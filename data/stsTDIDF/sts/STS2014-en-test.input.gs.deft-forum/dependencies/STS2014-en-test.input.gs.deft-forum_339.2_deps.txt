@@ -1,0 +1,14 @@
+nmod:poss	freedom	Your
+nsubjpass	prohibited	freedom
+case	speech	of
+nmod:of	freedom	speech
+aux	prohibited	will
+auxpass	prohibited	be
+neg	prohibited	no
+advmod	prohibited	more
+root	ROOT	prohibited
+mark	today	than
+nsubj	today	it
+cop	today	is
+advcl	prohibited	today
+punct	prohibited	.

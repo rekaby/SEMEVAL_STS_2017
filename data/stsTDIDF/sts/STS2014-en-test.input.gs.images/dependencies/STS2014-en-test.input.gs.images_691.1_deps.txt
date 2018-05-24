@@ -1,0 +1,10 @@
+det	sink	A
+compound	sink	kitchen
+root	ROOT	sink
+cc	sink	and
+conj:and	sink	countertop
+case	bowls	with
+nmod:with	sink	bowls
+case	shelves	on
+nmod:on	bowls	shelves
+punct	sink	.

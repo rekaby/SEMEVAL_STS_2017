@@ -1,0 +1,17 @@
+nsubj	difficult	It
+cop	difficult	is
+root	ROOT	difficult
+punct	difficult	,
+mark	impossible	if
+neg	impossible	not
+advcl	give	impossible
+punct	give	,
+mark	give	to
+ccomp	difficult	give
+det	answer	a
+amod	answer	complete
+dobj	give	answer
+case	question	to
+det	question	this
+nmod:to	give	question
+punct	difficult	.

@@ -1,0 +1,13 @@
+root	ROOT	Jay
+nmod:poss	ex-fiance	My
+nsubj	use	ex-fiance
+aux	use	would
+neg	use	n't
+acl:relcl	Jay	use
+det	doctor	the
+compound	doctor	VA
+cc	VA	or
+conj:or	VA	Navy
+dobj	use	doctor
+case	doctor	's
+punct	Jay	.

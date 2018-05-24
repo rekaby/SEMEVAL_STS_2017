@@ -1,0 +1,8 @@
+uses	woman	nsubj
+uses	make	advcl
+make	scarf	dobj
+scarf	a	det
+machine	sewing	compound
+uses	machine	dobj
+machine	tech	compound
+machine	high	amod

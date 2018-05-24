@@ -1,0 +1,6 @@
+nsubj	gather	Protesters
+root	ROOT	gather
+case	Brazil	in
+nmod:in	gather	Brazil
+case	concessions	despite
+nmod:despite	gather	concessions

@@ -1,0 +1,13 @@
+amod	5	Terminal
+nsubj	state	5
+cc	5	and
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+conj:and	5	terminal
+cop	state	are
+case	state	in
+det	state	the
+amod	state	same
+root	ROOT	state
+punct	state	.

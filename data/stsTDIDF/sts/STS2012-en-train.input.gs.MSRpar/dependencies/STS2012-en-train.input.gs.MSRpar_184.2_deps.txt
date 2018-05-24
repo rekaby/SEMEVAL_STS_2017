@@ -1,0 +1,15 @@
+compound	Winokur	Marissa
+compound	Winokur	Jaret
+nsubj	won	Winokur
+punct	Winokur	,
+case	Tracy	as
+nmod:as	Winokur	Tracy
+punct	Winokur	,
+root	ROOT	won
+case	actress	for
+amod	actress	best
+nmod:for	won	actress
+case	musical	in
+det	musical	a
+nmod:in	actress	musical
+punct	won	.

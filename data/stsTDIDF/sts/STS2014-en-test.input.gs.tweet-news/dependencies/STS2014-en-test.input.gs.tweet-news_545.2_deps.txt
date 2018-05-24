@@ -1,0 +1,12 @@
+nsubj	wants	Sheen
+root	ROOT	wants
+mark	return	to
+xcomp	wants	return
+dep	return	to
+punct	to	`
+root	`	Two
+cc	Two	and
+det	Men	a
+compound	Men	Half
+conj:and	Two	Men
+punct	Two	'

@@ -1,0 +1,16 @@
+nsubj	play	Costa
+aux	play	will
+root	ROOT	play
+compound	Ferrero	Juan
+compound	Ferrero	Carlos
+dobj	play	Ferrero
+advmod	play	next
+case	rematch	in
+det	rematch	a
+nmod:in	next	rematch
+case	final	of
+amod	year	last
+nmod:poss	final	year
+case	year	's
+nmod:of	rematch	final
+punct	play	.

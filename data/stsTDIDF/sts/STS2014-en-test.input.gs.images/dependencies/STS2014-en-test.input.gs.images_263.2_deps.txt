@@ -1,0 +1,11 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	car	next
+mwe	next	to
+det	car	a
+amod	car	yellow
+compound	car	sports
+nmod:next_to	standing	car
+punct	standing	.

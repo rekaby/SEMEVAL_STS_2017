@@ -1,0 +1,15 @@
+compound	Rohr	James
+nsubj	said	Rohr
+punct	Rohr	,
+appos	Rohr	chairman
+cc	chairman	and
+amod	officer	chief
+amod	officer	executive
+conj:and	chairman	officer
+punct	Rohr	,
+root	ROOT	said
+nsubj	regretted	PNC
+ccomp	said	regretted
+det	incident	the
+dobj	regretted	incident
+punct	said	.

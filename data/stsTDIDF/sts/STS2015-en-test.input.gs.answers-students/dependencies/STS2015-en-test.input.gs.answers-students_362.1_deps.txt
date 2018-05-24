@@ -1,0 +1,12 @@
+mark	is	that
+expl	is	there
+root	ROOT	is
+neg	difference	no
+nsubj	is	difference
+case	states	in
+amod	states	electrical
+nmod:in	difference	states
+case	terminals	of
+det	terminals	the
+nummod	terminals	two
+nmod:of	states	terminals

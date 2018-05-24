@@ -1,0 +1,12 @@
+punct	used	-LRB-
+root	ROOT	used
+case	hair	of
+nmod:of	used	hair
+cc	hair	or
+conj:or	hair	skin
+punct	used	-RRB-
+dep	used	pale
+cc	pale	or
+conj:or	pale	light-colored
+punct	used	;
+punct	used	;

@@ -1,0 +1,10 @@
+nsubj	runs	He
+root	ROOT	runs
+det	basketball	a
+dobj	runs	basketball
+case	hand	on
+det	child	a
+nmod:poss	hand	child
+case	child	's
+nmod:on	runs	hand
+punct	runs	.

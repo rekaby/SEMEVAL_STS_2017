@@ -1,0 +1,7 @@
+det	turtle	A
+nsubj	walks	turtle
+root	ROOT	walks
+case	ground	over
+det	ground	the
+nmod:over	walks	ground
+punct	walks	.

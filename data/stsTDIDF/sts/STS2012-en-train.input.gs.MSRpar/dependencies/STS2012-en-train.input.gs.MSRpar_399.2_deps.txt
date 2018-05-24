@@ -1,0 +1,12 @@
+compound	Falco	Edie
+nsubjpass	nominated	Falco
+auxpass	nominated	was
+neg	nominated	not
+root	ROOT	nominated
+case	Frankie	for
+punct	Frankie	``
+nmod:for	nominated	Frankie
+cc	Frankie	and
+conj:and	Frankie	Johnny
+punct	nominated	.
+punct	nominated	''

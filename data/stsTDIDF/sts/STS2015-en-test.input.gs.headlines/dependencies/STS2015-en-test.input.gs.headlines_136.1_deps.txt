@@ -1,0 +1,7 @@
+compound	shutdown	US
+compound	shutdown	government
+nsubj	begins	shutdown
+root	ROOT	begins
+punct	begins	-
+amod	updates	live
+dobj	begins	updates

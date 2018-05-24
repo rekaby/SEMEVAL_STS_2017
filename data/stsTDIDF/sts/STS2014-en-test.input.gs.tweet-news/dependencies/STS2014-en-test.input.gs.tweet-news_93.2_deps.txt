@@ -1,0 +1,10 @@
+root	ROOT	Review
+punct	Review	:
+nmod:poss	Search	Facebook
+case	Facebook	's
+compound	Search	Graph
+nsubj	useful	Search
+cop	useful	is
+neg	useful	not
+advmod	useful	very
+dep	Review	useful

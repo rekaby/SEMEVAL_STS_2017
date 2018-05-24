@@ -1,0 +1,13 @@
+det	cat	A
+amod	cat	grey
+punct	grey	,
+conj:and	grey	black
+punct	grey	,
+cc	grey	and
+conj:and	grey	white
+root	ROOT	cat
+acl	cat	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	cat	.

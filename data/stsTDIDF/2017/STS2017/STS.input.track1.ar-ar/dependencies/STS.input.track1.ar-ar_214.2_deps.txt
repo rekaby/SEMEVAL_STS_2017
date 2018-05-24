@@ -1,0 +1,10 @@
+amod	face	Small
+amod	face	Asian
+compound	face	girl
+compound	face	Taatsta
+amod	face	funny
+root	ROOT	face
+case	cameras	for
+compound	cameras	television
+nmod:for	face	cameras
+punct	face	.

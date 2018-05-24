@@ -1,0 +1,9 @@
+det	man	A
+nsubj	stuffing	man
+aux	stuffing	is
+root	ROOT	stuffing
+dobj	stuffing	himself
+amod	himself	full
+case	food	with
+nmod:with	full	food
+punct	stuffing	.

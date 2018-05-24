@@ -1,0 +1,12 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+nummod	towels	two
+compound	towels	paper
+dobj	putting	towels
+case	plate	on
+det	plate	a
+compound	plate	paper
+nmod:on	putting	plate
+punct	putting	.

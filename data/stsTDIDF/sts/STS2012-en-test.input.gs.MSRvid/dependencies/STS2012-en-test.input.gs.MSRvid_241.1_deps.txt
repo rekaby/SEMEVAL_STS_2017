@@ -1,0 +1,10 @@
+det	man	The
+nsubj	butter	man
+amod	butter	spread
+root	ROOT	butter
+case	loaf	on
+det	loaf	the
+nmod:on	butter	loaf
+case	bread	of
+nmod:of	loaf	bread
+punct	butter	.

@@ -1,0 +1,10 @@
+punct	accept	`
+nsubj	accept	Iran
+aux	accept	wo
+neg	accept	n't
+root	ROOT	accept
+dobj	accept	pre-conditions
+case	talks	to
+amod	talks	nuclear
+nmod:to	accept	talks
+punct	accept	'

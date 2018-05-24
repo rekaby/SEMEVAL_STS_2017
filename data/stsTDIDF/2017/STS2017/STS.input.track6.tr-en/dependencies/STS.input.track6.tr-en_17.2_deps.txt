@@ -1,0 +1,8 @@
+nummod	people	Four
+root	ROOT	people
+case	balloon	in
+det	balloon	the
+amod	balloon	hot
+compound	balloon	air
+nmod:in	people	balloon
+punct	people	.

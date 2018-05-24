@@ -1,0 +1,14 @@
+det	party	the
+compound	party	opposition
+amod	party	japanese
+compound	party	communist
+nsubj	bill	party
+cop	bill	was
+case	bill	against
+det	bill	the
+root	ROOT	bill
+acl	bill	proposing
+det	law	the
+amod	law	new
+dobj	proposing	law
+punct	bill	.

@@ -1,0 +1,13 @@
+expl	is	There
+root	ROOT	is
+nsubj	is	nothing
+amod	nothing	wrong
+case	phrase	with
+det	phrase	the
+nmod:with	wrong	phrase
+punct	phrase	``
+amod	service	simple
+compound	service	sample
+dep	phrase	service
+punct	phrase	''
+punct	is	.

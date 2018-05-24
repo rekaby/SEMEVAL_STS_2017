@@ -1,0 +1,11 @@
+nummod	tourists	Two
+amod	tourists	German
+root	ROOT	tourists
+punct	tourists	,
+nummod	pilots	two
+appos	tourists	pilots
+acl	pilots	killed
+case	crash	in
+compound	crash	Kenya
+compound	crash	air
+nmod:in	killed	crash

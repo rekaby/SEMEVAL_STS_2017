@@ -1,0 +1,11 @@
+nsubj	side	Terminal
+compound	2	1
+cc	1	and
+conj:and	1	terminal
+nummod	Terminal	2
+cop	side	are
+case	side	on
+det	side	the
+amod	side	same
+root	ROOT	side
+punct	side	.

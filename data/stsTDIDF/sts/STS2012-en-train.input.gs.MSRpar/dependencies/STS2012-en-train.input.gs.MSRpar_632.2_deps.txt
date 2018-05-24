@@ -1,0 +1,14 @@
+advmod	left	Instead
+nsubj	left	he
+root	ROOT	left
+det	courtroom	the
+dobj	left	courtroom
+det	man	a
+amod	man	free
+dep	courtroom	man
+mark	dismissed	after
+nsubj	dismissed	authorities
+dep	man	dismissed
+amod	charges	criminal
+dobj	dismissed	charges
+punct	left	.

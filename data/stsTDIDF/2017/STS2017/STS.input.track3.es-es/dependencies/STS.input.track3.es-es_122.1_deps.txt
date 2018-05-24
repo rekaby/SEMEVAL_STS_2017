@@ -1,0 +1,10 @@
+det	woman	A
+amod	woman	young
+nsubj	looks	woman
+root	ROOT	looks
+advmod	looks	away
+mark	shy	because
+nsubj	shy	she
+cop	shy	is
+advcl	looks	shy
+punct	looks	.

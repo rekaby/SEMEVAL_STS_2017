@@ -1,0 +1,7 @@
+det	animal	An
+nsubj	plays	animal
+root	ROOT	plays
+case	hoop	with
+det	hoop	a
+nmod:with	plays	hoop
+punct	plays	.

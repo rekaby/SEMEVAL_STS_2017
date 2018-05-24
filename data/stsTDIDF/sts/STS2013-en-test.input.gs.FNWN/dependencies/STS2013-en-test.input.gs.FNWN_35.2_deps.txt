@@ -1,0 +1,10 @@
+root	ROOT	greater
+case	normal	than
+nmod:than	greater	normal
+case	degree	in
+nmod:in	normal	degree
+cc	degree	or
+conj:or	degree	intensity
+cc	degree	or
+conj:or	degree	amount
+punct	greater	;

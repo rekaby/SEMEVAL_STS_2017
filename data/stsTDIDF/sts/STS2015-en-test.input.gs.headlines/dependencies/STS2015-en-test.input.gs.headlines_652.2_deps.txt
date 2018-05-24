@@ -1,0 +1,8 @@
+compound	Awards	Nominations
+amod	Awards	open
+case	Ghana	for
+compound	Ghana	e.TV
+nmod:for	open	Ghana
+amod	Awards	Most
+amod	Awards	Influential
+root	ROOT	Awards

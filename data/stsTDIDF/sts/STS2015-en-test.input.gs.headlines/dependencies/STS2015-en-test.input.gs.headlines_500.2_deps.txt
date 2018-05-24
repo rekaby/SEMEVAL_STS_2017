@@ -1,0 +1,7 @@
+compound	hat-trick	Ronaldo
+nsubj	fires	hat-trick
+root	ROOT	fires
+dobj	fires	Portugal
+case	Cup	to
+compound	Cup	World
+nmod:to	fires	Cup

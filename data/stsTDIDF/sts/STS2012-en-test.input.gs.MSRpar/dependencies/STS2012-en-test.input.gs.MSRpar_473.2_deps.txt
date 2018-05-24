@@ -1,0 +1,11 @@
+det	program	The
+compound	program	Maine
+nsubj	model	program
+aux	model	could
+cop	model	be
+det	model	a
+root	ROOT	model
+case	states	for
+amod	states	other
+nmod:for	model	states
+punct	model	.

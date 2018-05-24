@@ -1,0 +1,7 @@
+root	ROOT	succeed
+mark	reaching	in
+advcl	succeed	reaching
+punct	succeed	;
+parataxis	succeed	arrive
+nmod	arrive	at
+punct	succeed	;

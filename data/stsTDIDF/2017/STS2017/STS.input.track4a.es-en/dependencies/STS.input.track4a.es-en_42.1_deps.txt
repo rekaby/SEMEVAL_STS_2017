@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	crying	woman
+aux	crying	is
+root	ROOT	crying
+mark	plays	while
+nsubj	plays	she
+advcl	crying	plays
+det	guitar	the
+dobj	plays	guitar
+punct	crying	.

@@ -1,0 +1,5 @@
+compound	planes	Israel
+nsubj	strike	planes
+root	ROOT	strike
+case	Syria	inside
+nmod:inside	strike	Syria

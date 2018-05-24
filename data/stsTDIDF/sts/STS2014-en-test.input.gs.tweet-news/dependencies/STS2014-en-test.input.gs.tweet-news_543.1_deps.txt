@@ -1,0 +1,13 @@
+advmod	is	Where
+root	ROOT	is
+nsubj	is	justice
+punct	is	?-4) punct(ran-3, `
+nsubj	ran	They
+root	ROOT	ran
+dobj	ran	him
+compound:prt	ran	over
+mark	black	because
+nsubj	black	he
+cop	black	was
+advcl	ran	black
+punct	ran	'

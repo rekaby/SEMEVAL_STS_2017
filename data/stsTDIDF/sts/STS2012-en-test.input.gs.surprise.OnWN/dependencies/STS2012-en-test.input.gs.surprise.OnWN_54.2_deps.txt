@@ -1,0 +1,6 @@
+det	person	a
+amod	person	well-known
+cc	well-known	or
+conj:or	well-known	notable
+root	ROOT	person
+punct	person	.

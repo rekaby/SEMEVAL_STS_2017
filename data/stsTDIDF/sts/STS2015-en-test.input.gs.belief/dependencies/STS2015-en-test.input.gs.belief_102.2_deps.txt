@@ -1,0 +1,8 @@
+root	ROOT	wish
+nsubj	stop	i
+aux	stop	could
+acl:relcl	wish	stop
+xcomp	stop	thinking
+det	way	this
+dobj	thinking	way
+punct	wish	.

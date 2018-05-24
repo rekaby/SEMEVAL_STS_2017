@@ -1,0 +1,12 @@
+det	person	A
+nsubj	leaps	person
+case	shoe	with
+det	shoe	a
+amod	shoe	green
+nmod:with	person	shoe
+root	ROOT	leaps
+mark	catch	to
+xcomp	leaps	catch
+det	frisbee	a
+dobj	catch	frisbee
+punct	leaps	.

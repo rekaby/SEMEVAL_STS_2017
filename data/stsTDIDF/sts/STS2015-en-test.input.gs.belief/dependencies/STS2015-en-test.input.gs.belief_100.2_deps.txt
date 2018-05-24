@@ -1,0 +1,10 @@
+det	train	the
+compound	train	gravy
+root	ROOT	train
+advmod	train	really
+dep	really	is
+nsubj	is	all
+case	gravy	out
+mwe	out	of
+nmod:out_of	all	gravy
+punct	train	.

@@ -1,0 +1,17 @@
+det	key	The
+nsubj	have	key
+cop	have	is
+nsubj	have	you
+root	ROOT	have
+mark	find	to
+xcomp	have	find
+dobj	find	something
+nsubj	works	that
+acl:relcl	something	works
+case	you	for
+nmod:for	works	you
+punct	have	,
+cc	have	and
+nmod:poss	goals	your
+conj:and	have	goals
+punct	have	.

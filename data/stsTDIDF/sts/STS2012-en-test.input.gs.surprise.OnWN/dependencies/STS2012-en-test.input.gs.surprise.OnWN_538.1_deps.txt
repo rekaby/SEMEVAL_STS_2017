@@ -1,0 +1,5 @@
+compound	material	work
+root	ROOT	material
+case	tool	with
+det	tool	a
+nmod:with	material	tool

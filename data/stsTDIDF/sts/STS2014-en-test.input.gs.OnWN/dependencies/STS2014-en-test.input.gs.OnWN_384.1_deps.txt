@@ -1,0 +1,5 @@
+root	ROOT	put
+compound:prt	put	up
+case	something	with
+nmod:with	put	something
+dobj	put	unpleasant

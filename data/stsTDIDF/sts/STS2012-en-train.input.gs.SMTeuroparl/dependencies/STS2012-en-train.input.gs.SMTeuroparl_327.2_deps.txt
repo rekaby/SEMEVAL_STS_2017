@@ -1,0 +1,11 @@
+det	demining	A
+compound	demining	budget
+compound	demining	line
+compound	demining	financing
+root	ROOT	demining
+cc	demining	and
+compound	programmes	prevention
+conj:and	demining	programmes
+case	years	for
+nmod:for	demining	years
+punct	demining	.

@@ -1,0 +1,7 @@
+compound	yuan	China
+nsubj	weakens	yuan
+root	ROOT	weakens
+case	6.1510	to
+nmod:to	weakens	6.1510
+case	USD	against
+nmod:against	weakens	USD

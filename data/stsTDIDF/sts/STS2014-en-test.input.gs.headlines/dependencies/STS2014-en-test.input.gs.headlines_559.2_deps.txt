@@ -1,0 +1,12 @@
+nsubj	calls	Biden
+root	ROOT	calls
+case	trust	for
+nmod:for	calls	trust
+case	building	in
+nmod:in	calls	building
+punct	relationship	`
+amod	relationship	new
+root	building	relationship
+punct	relationship	'
+case	China	with
+nmod:with	relationship	China

@@ -1,0 +1,14 @@
+det	train	the
+compound	train	entitlement
+compound	train	gravy
+nsubj	is	train
+root	ROOT	is
+conj:and	is	is
+case	tracks	off
+det	tracks	the
+nmod:off	is	tracks
+cc	is	and
+case	gravy	out
+mwe	out	of
+nmod:out_of	is	gravy
+punct	is	.

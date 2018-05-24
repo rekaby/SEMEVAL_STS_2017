@@ -1,0 +1,6 @@
+nsubj	holding	Someone
+aux	holding	is
+root	ROOT	holding
+det	hedgehog	a
+dobj	holding	hedgehog
+punct	holding	.

@@ -1,0 +1,5 @@
+compound	Holliday	DICKSHOT
+compound	Holliday	Matt
+nsubj	owns	Holliday
+root	ROOT	owns
+punct	owns	.

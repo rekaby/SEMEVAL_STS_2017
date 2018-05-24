@@ -1,0 +1,11 @@
+det	boy	The
+nsubjpass	stuck	boy
+auxpass	stuck	is
+root	ROOT	stuck
+case	door	in
+det	door	the
+nmod:in	stuck	door
+case	doghouse	of
+det	doghouse	the
+nmod:of	door	doghouse
+punct	stuck	.

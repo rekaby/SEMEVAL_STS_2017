@@ -1,0 +1,10 @@
+compound	room	Dining
+root	ROOT	room
+case	table	with
+amod	table	wooden
+compound	table	dining
+nmod:with	room	table
+acl	table	set
+case	playmates	with
+nmod:with	set	playmates
+punct	room	.

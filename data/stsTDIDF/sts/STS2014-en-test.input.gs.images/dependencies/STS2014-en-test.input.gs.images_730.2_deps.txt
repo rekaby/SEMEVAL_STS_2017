@@ -1,0 +1,9 @@
+nummod	birds	Two
+amod	birds	green
+root	ROOT	birds
+acl	birds	flying
+case	wires	above
+det	wires	the
+compound	wires	telephone
+nmod:above	flying	wires
+punct	birds	.

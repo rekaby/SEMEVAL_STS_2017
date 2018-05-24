@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	eating	woman
+aux	eating	is
+root	ROOT	eating
+dobj	eating	fish
+case	restaurant	at
+det	restaurant	a
+nmod:at	eating	restaurant
+punct	eating	.

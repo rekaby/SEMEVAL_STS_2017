@@ -1,0 +1,14 @@
+nsubj	tapping	Facebook
+punct	Facebook	,
+advmod	Facebook	too
+punct	Facebook	,
+aux	tapping	is
+advmod	tapping	constantly
+root	ROOT	tapping
+case	population	into
+nmod:poss	population	its
+amod	population	own
+nmod:into	tapping	population
+case	data	for
+nmod:for	population	data
+punct	tapping	.

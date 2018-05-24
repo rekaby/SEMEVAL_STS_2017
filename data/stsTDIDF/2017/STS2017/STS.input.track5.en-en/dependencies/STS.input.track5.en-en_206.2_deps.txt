@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	holding
+det	dog	a
+dobj	holding	dog
+punct	man	.

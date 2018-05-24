@@ -1,0 +1,6 @@
+root	ROOT	smell
+mark	inhaling	by
+acl	smell	inhaling
+case	nose	through
+det	nose	the
+nmod:through	inhaling	nose

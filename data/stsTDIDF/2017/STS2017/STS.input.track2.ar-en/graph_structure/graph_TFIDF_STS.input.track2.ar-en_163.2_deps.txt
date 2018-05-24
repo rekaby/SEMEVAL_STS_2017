@@ -1,0 +1,9 @@
+walks	Wal-Mart	nmod:through
+Wal-Mart	through	case
+full	things	nmod:of
+cart	full	amod
+walks	cart	nmod:with
+cart	a	det
+walks	man	nsubj
+Wal-Mart	the	det
+cart	with	case

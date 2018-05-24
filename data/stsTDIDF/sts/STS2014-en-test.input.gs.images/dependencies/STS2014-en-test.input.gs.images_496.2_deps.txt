@@ -1,0 +1,8 @@
+nummod	cats	Two
+nsubj	looking	cats
+aux	looking	are
+root	ROOT	looking
+case	window	at
+det	window	a
+nmod:at	looking	window
+punct	looking	.

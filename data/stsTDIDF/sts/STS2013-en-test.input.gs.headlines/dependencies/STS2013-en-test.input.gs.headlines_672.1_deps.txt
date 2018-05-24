@@ -1,0 +1,6 @@
+amod	stocks	Chinese
+nsubj	higher	stocks
+advmod	higher	close
+root	ROOT	higher
+dobj	higher	midday
+nmod:tmod	higher	Friday

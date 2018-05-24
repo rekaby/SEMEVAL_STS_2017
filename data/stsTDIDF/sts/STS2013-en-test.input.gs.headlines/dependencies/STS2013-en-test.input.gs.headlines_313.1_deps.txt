@@ -1,0 +1,7 @@
+nsubj	begins	WikiLeaks
+root	ROOT	begins
+xcomp	begins	publishing
+compound	million	two
+nummod	emails	million
+compound	emails	Syria
+dobj	publishing	emails

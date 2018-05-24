@@ -1,0 +1,5 @@
+det	woman	A
+nsubj	tofu	woman
+compound	tofu	slices
+root	ROOT	tofu
+punct	tofu	.

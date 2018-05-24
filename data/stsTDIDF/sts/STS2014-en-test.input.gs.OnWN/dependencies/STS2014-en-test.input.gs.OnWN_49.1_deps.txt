@@ -1,0 +1,5 @@
+det	state	the
+root	ROOT	state
+mark	employed	of
+auxpass	employed	being
+acl	state	employed

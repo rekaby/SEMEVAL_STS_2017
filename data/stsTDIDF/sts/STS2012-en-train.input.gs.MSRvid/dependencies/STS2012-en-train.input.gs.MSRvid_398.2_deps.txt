@@ -1,0 +1,10 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	rice
+case	pot	in
+det	pot	a
+compound	pot	bowling
+nmod:in	putting	pot
+punct	putting	.

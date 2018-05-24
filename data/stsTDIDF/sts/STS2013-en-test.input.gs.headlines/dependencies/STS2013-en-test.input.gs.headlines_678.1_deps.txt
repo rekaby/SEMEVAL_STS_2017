@@ -1,0 +1,14 @@
+nsubj	slams	Sandy
+root	ROOT	slams
+case	Northeast	into
+nmod:into	slams	Northeast
+punct	slams	;
+case	least	at
+nmod:npmod	18	least
+nummod	dead	18
+dep	slams	dead
+punct	dead	,
+nummod	M	7.4
+appos	dead	M
+case	power	without
+nmod:without	dead	power

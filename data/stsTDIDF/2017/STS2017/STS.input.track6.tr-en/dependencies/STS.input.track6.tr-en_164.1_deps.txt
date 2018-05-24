@@ -1,0 +1,15 @@
+det	group	A
+nsubj	cheering	group
+case	male	of
+nmod:of	group	male
+cc	male	and
+amod	cheerleaders	female
+conj:and	male	cheerleaders
+aux	cheering	are
+advmod	cheering	outside
+root	ROOT	cheering
+case	team	for
+det	team	the
+compound	team	football
+nmod:for	cheering	team
+punct	cheering	.

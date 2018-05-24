@@ -1,0 +1,9 @@
+nsubj	switches	Japan
+root	ROOT	switches
+compound:prt	switches	off
+amod	plant	last
+amod	plant	nuclear
+compound	plant	power
+dobj	switches	plant
+det	weekend	this
+nmod:tmod	switches	weekend

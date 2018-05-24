@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	black
+cc	black	and
+conj:and	black	white
+amod	dog	muzzled
+nsubj	leaping	dog
+aux	leaping	is
+root	ROOT	leaping
+case	grass	above
+det	grass	the
+nmod:above	leaping	grass
+punct	leaping	.

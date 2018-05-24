@@ -1,0 +1,7 @@
+det	surfer	A
+nsubj	riding	surfer
+aux	riding	is
+root	ROOT	riding
+det	wave	a
+dobj	riding	wave
+punct	riding	.

@@ -1,0 +1,15 @@
+det	boy	A
+nsubj	runs	boy
+acl	boy	wearing
+det	shirt	a
+amod	shirt	red
+dobj	wearing	shirt
+root	ROOT	runs
+case	grass	across
+det	grass	the
+nmod:across	runs	grass
+case	dog	with
+det	dog	a
+amod	dog	furry
+nmod:with	runs	dog
+punct	runs	.

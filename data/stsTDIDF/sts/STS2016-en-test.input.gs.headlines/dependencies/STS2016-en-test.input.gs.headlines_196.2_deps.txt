@@ -1,0 +1,9 @@
+compound	King	Ashya
+nmod:poss	parents	King
+case	King	's
+nsubj	freed	parents
+root	ROOT	freed
+case	jail	from
+nmod:from	freed	jail
+case	Spain	in
+nmod:in	jail	Spain

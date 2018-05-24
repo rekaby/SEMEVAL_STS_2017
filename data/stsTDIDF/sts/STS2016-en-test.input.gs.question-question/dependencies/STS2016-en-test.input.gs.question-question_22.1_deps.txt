@@ -1,0 +1,17 @@
+aux	need	Do
+nsubj	need	I
+root	ROOT	need
+mark	apply	to
+xcomp	need	apply
+case	visa	for
+det	visa	a
+compound	visa	UK
+compound	visa	transit
+nmod:for	apply	visa
+advmod	have	when
+nsubj	have	I
+advcl	apply	have
+det	visa	a
+compound	visa	visitor
+dobj	have	visa
+punct	need	?

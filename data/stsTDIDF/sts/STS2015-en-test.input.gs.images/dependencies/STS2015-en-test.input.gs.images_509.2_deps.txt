@@ -1,0 +1,8 @@
+det	beagle	A
+nsubj	walks	beagle
+root	ROOT	walks
+case	shore	along
+det	shore	the
+amod	shore	calm
+nmod:along	walks	shore
+punct	walks	.

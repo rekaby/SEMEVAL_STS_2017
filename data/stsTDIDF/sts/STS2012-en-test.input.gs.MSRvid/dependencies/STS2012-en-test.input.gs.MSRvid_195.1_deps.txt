@@ -1,0 +1,7 @@
+nsubj	walking	Elephants
+aux	walking	are
+root	ROOT	walking
+compound:prt	walking	down
+det	trail	a
+dobj	walking	trail
+punct	walking	.

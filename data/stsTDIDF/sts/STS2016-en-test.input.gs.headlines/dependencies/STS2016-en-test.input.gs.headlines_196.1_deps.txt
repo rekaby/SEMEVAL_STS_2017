@@ -1,0 +1,7 @@
+nmod:poss	Parents	Ashya
+case	Ashya	's
+nsubj	Arrive	Parents
+root	ROOT	Arrive
+case	Extradition	For
+nmod:for	Arrive	Extradition
+dobj	Arrive	Hearing

@@ -1,0 +1,7 @@
+nsubj	seem	You
+root	ROOT	seem
+mark	irritated	as
+xcomp	seem	irritated
+case	Henry	as
+nmod:as	irritated	Henry
+punct	seem	.

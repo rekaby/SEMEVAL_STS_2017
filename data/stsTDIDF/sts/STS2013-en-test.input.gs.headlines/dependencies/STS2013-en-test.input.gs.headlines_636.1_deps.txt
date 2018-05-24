@@ -1,0 +1,7 @@
+root	ROOT	Myanmar
+punct	Myanmar	:
+nsubj	claims	Opposition
+dep	Myanmar	claims
+compound	Kyi	Suu
+nsubj	win	Kyi
+ccomp	claims	win

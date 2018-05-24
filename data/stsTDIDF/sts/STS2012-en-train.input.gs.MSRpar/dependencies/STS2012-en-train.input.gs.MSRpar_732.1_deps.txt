@@ -1,0 +1,13 @@
+nsubj	testified	Kiernan
+root	ROOT	testified
+mark	received	that
+nsubj	received	Seifert
+aux	received	had
+ccomp	testified	received
+det	wound	a
+amod	wound	gunshot
+dobj	received	wound
+case	back	to
+det	back	the
+nmod:to	wound	back
+punct	testified	.

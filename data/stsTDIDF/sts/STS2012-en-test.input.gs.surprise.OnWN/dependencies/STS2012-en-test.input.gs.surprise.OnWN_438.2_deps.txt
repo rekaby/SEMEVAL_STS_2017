@@ -1,0 +1,8 @@
+root	ROOT	make
+xcomp	make	visible
+case	solutions	by
+mwe	by	means
+mwe	by	of
+compound	solutions	chemical
+nmod:by_means_of	visible	solutions
+punct	make	.

@@ -1,0 +1,8 @@
+root	ROOT	Complain
+punct	Complain	;
+dep	Complain	talk
+case	manner	in
+det	manner	a
+amod	manner	tearful
+nmod:in	talk	manner
+punct	Complain	.

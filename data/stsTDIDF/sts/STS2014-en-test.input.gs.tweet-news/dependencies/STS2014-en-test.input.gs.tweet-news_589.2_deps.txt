@@ -1,0 +1,8 @@
+nsubj	shot	Reform
+cop	shot	is
+det	shot	a
+amod	shot	long
+root	ROOT	shot
+case	Congress	in
+amod	Congress	current
+nmod:in	shot	Congress

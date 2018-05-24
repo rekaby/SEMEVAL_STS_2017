@@ -1,0 +1,13 @@
+nsubj	Shot	I
+root	ROOT	Shot
+det	Sheriff	the
+dobj	Shot	Sheriff
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Sheriff	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Shot	.

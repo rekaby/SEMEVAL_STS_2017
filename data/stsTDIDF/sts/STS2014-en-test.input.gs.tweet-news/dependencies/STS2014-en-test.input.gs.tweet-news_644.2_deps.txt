@@ -1,0 +1,7 @@
+compound	Ban	Pentagon
+compound	Ban	Lifting
+root	ROOT	Ban
+case	Women	on
+nmod:on	Ban	Women
+case	Combat	in
+nmod:in	Ban	Combat

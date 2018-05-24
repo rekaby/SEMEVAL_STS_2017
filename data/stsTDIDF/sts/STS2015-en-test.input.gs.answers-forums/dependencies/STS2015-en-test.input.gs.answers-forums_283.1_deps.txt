@@ -1,0 +1,11 @@
+nsubj	started	I
+root	ROOT	started
+xcomp	started	watching
+det	series	the
+compound	series	Stargate
+dobj	watching	series
+mark	watching	by
+advcl	watching	watching
+dobj	watching	Atlantis
+advmod	Atlantis	first
+punct	started	!

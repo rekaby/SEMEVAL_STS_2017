@@ -1,0 +1,9 @@
+nsubj	Raises	Cuomo
+root	ROOT	Raises
+advmod	$	Nearly
+dobj	Raises	$
+nummod	$	22.5
+dep	$	Million
+case	Campaign	for
+compound	Campaign	Re-election
+nmod:for	Million	Campaign

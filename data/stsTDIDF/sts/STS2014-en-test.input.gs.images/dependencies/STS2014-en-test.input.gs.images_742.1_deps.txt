@@ -1,0 +1,9 @@
+det	standing	A
+amod	standing	dark
+amod	standing	brown
+compound	standing	horse
+root	ROOT	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+punct	standing	.

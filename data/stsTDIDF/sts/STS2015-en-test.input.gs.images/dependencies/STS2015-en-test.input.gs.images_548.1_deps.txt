@@ -1,0 +1,9 @@
+det	girl	a
+amod	girl	young
+nmod:npmod	down	girl
+acl	girl	smiling
+case	head	with
+nmod:poss	head	her
+nmod:with	smiling	head
+advmod	head	upside
+root	ROOT	down

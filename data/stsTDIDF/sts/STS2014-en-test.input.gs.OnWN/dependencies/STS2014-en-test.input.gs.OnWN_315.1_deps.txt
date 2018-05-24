@@ -1,0 +1,7 @@
+root	ROOT	keep
+dobj	keep	something
+amod	something	intact
+punct	keep	,
+dep	keep	maintain
+amod	condition	unchanged
+dobj	maintain	condition

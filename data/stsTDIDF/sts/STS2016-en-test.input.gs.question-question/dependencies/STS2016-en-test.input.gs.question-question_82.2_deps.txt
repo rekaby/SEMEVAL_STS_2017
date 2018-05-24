@@ -1,0 +1,15 @@
+dobj	do	What
+aux	do	can
+nsubj	do	I
+root	ROOT	do
+case	opening	about
+det	opening	a
+amod	opening	Rough
+nmod:about	do	opening
+nsubj	REALLY	that
+cop	REALLY	is
+acl:relcl	opening	REALLY
+case	square	out
+mwe	out	of
+nmod:out_of	REALLY	square
+punct	do	?

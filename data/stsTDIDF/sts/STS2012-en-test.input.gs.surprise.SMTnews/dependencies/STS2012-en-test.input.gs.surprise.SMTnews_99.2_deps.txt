@@ -1,0 +1,12 @@
+nmod:poss	donnerait-elle	Their
+root	ROOT	donnerait-elle
+det	right	the
+dep	donnerait-elle	right
+mark	divorce	to
+acl	right	divorce
+dobj	divorce	spouses
+nsubj	abandoned	who
+aux	abandoned	would
+aux	abandoned	have
+acl:relcl	spouses	abandoned
+punct	donnerait-elle	?

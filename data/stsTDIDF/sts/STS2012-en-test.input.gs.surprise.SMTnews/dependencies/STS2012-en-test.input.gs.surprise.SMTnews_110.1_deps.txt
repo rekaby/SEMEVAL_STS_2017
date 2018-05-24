@@ -1,0 +1,15 @@
+det	line	The
+amod	line	bottom
+nsubj	is	line
+root	ROOT	is
+mark	fall	that
+advmod	rise	when
+compound	rates	interest
+nsubj	rise	rates
+advcl	fall	rise
+punct	fall	,
+compound	values	asset
+nsubj	fall	values
+aux	fall	will
+ccomp	is	fall
+punct	is	.

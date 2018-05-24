@@ -1,0 +1,14 @@
+expl	are	There
+root	ROOT	are
+nsubj	hanging	people
+ccomp	are	hanging
+case	vehicle	out
+mwe	out	of
+det	vehicle	this
+nmod:out_of	hanging	vehicle
+nsubj	road	that
+cop	road	is
+case	road	down
+det	road	a
+acl:relcl	vehicle	road
+punct	are	.

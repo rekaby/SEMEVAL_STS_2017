@@ -1,0 +1,11 @@
+root	ROOT	Obama
+case	Äėdirect	in
+nummod	Äėdirect	‚
+nmod:in	Obama	Äėdirect
+nummod	confrontation	‚
+compound	confrontation	Äô
+dep	Äėdirect	confrontation
+case	Putin	with
+nmod:with	confrontation	Putin
+case	Ukraine	on
+nmod:on	confrontation	Ukraine

@@ -1,0 +1,12 @@
+nsubj	says	NATO
+root	ROOT	says
+compound	Korea	North
+dobj	says	Korea
+amod	test	nuclear
+nsubj	threat	test
+cop	threat	is
+amod	threat	grave
+acl:relcl	Korea	threat
+mark	world	to
+xcomp	threat	world
+dobj	world	peace

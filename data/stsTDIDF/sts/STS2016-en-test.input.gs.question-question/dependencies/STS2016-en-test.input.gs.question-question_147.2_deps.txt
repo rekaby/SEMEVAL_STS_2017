@@ -1,0 +1,12 @@
+advmod	rid	How
+aux	rid	can
+nsubj	rid	I
+dep	rid	get
+root	ROOT	rid
+case	fleas	of
+nmod:of	rid	fleas
+case	crawlspace	in
+nmod:poss	crawlspace	my
+nmod:in	rid	crawlspace
+advmod	rid	forever
+punct	rid	?

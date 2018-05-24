@@ -1,0 +1,10 @@
+root	ROOT	Rep.
+case	Congo	of
+nmod:of	Rep.	Congo
+punct	Rep.	:
+nummod	Dead	236
+dep	Rep.	Dead
+case	Blasts	After
+compound	Blasts	Arms
+compound	Blasts	Depot
+nmod:after	Dead	Blasts

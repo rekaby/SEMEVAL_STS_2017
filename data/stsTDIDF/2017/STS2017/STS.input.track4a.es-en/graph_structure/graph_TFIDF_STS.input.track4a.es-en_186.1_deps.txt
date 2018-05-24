@@ -1,0 +1,5 @@
+gray	is	cop
+sweatshirt	man	nmod:poss
+gray	sweatshirt	nsubj
+ROOT	gray	root
+gray	.	punct

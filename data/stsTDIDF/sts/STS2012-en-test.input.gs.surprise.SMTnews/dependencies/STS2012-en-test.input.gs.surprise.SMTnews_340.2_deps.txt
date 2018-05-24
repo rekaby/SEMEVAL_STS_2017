@@ -1,0 +1,13 @@
+nsubj	spirit	Such
+cop	spirit	is
+det	spirit	the
+root	ROOT	spirit
+case	which	in
+nsubj	elaborate	which
+aux	elaborate	must
+cop	elaborate	be
+acl:relcl	spirit	elaborate
+det	Constitution	the
+amod	Constitution	European
+dobj	elaborate	Constitution
+punct	spirit	.

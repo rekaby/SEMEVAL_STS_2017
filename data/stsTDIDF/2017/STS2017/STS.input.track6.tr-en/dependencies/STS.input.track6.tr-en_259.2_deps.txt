@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	white
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	water	across
+det	water	the
+nmod:across	walking	water
+case	shore	from
+det	shore	the
+nmod:from	walking	shore
+punct	walking	.

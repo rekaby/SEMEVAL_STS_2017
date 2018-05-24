@@ -1,0 +1,5 @@
+root	ROOT	Put
+det	harness	a
+dobj	Put	harness
+nmod	Put	on
+punct	Put	.

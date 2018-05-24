@@ -1,0 +1,4 @@
+going	woman	nsubj
+wedding	a	det
+going	wedding	nmod:to
+wedding	to	case

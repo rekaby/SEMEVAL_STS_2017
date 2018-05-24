@@ -1,0 +1,8 @@
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	defined
+case	profession	by
+det	profession	a
+amod	profession	specific
+nmod:by	defined	profession

@@ -1,0 +1,16 @@
+amod	case	French
+compound	case	Twitter
+nsubj	skirmish	case
+acl	case	involving
+det	identities	the
+dobj	involving	identities
+case	comments	behind
+amod	comments	racist
+nmod:behind	identities	comments
+cop	skirmish	is
+advmod	skirmish	only
+amod	skirmish	latest
+root	ROOT	skirmish
+case	speech	over
+compound	speech	Internet
+nmod:over	skirmish	speech

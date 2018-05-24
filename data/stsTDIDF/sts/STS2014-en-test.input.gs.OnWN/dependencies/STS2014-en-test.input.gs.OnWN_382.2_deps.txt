@@ -1,0 +1,9 @@
+root	ROOT	lift
+cc	lift	and
+conj:and	lift	reset
+case	soil	in
+det	soil	another
+nmod:in	lift	soil
+cc	soil	or
+conj:or	soil	situation
+punct	lift	.

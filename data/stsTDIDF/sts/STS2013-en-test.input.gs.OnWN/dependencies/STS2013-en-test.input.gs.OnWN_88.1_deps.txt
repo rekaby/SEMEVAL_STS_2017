@@ -1,0 +1,6 @@
+det	store	a
+root	ROOT	store
+cc	store	or
+conj:or	store	supply
+case	something	of
+nmod:of	store	something

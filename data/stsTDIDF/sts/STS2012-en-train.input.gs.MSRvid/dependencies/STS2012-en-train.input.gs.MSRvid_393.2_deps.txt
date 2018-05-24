@@ -1,0 +1,8 @@
+det	man	A
+nsubj	speaking	man
+aux	speaking	is
+root	ROOT	speaking
+case	audience	to
+det	audience	an
+nmod:to	speaking	audience
+punct	speaking	.

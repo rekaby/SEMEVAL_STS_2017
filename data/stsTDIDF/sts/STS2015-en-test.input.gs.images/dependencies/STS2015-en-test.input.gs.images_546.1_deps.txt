@@ -1,0 +1,9 @@
+det	man	A
+amod	man	shirtless
+root	ROOT	man
+acl	man	playing
+dobj	playing	football
+case	lawn	on
+det	lawn	a
+nmod:on	playing	lawn
+punct	man	.

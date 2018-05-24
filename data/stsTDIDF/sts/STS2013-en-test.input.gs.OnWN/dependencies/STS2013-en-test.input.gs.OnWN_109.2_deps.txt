@@ -1,0 +1,6 @@
+root	ROOT	make
+det	sound	a
+amod	sound	dry
+compound	sound	crackling
+dobj	make	sound
+punct	make	.

@@ -1,0 +1,10 @@
+nummod	men	Two
+amod	men	young
+nsubj	riding	men
+root	ROOT	riding
+det	raft	a
+dobj	riding	raft
+case	river	down
+det	river	the
+nmod:down	riding	river
+punct	riding	.

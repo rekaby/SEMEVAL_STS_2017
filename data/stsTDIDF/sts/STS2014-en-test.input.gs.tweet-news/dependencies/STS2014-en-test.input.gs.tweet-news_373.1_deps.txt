@@ -1,0 +1,15 @@
+nsubj	wrong	What
+cop	wrong	's
+advmod	wrong	so
+root	ROOT	wrong
+mark	researching	with
+advcl	wrong	researching
+dobj	researching	it
+punct	wrong	?-8) dobj(Know-5, What
+nsubj	Know	We
+aux	Know	Do
+neg	Know	n't
+dep	Killing	Know
+aux	Killing	Is
+root	ROOT	Killing
+nsubj	Killing	Us

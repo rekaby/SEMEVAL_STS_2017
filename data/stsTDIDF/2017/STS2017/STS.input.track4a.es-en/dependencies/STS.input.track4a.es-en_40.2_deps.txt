@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	holding
+det	child	a
+dobj	holding	child
+cc	man	and
+det	baby	a
+conj:and	man	baby
+punct	man	.

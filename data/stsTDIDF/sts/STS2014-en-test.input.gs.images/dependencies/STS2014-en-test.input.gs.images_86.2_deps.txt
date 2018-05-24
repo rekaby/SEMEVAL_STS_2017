@@ -1,0 +1,12 @@
+det	man	A
+nsubj	watching	man
+aux	watching	is
+root	ROOT	watching
+dobj	watching	TV
+case	foot	on
+det	foot	the
+nmod:on	watching	foot
+case	bed	of
+nmod:poss	bed	his
+nmod:of	foot	bed
+punct	watching	.

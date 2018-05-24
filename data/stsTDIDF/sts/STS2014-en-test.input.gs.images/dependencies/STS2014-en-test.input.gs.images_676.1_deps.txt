@@ -1,0 +1,11 @@
+root	ROOT	Close
+case	sheep	up
+case	sheep	of
+det	sheep	a
+amod	sheep	white
+nmod:of	Close	sheep
+case	head	with
+det	head	a
+amod	head	black
+nmod:with	Close	head
+punct	Close	.

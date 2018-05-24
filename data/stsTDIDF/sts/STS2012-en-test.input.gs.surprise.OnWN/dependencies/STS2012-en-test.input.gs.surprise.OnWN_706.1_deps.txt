@@ -1,0 +1,15 @@
+root	ROOT	Allocate
+cc	Allocate	or
+conj:or	Allocate	dedicate
+punct	Allocate	;
+dep	Allocate	set
+advmod	set	aside
+cc	set	or
+conj:or	set	apart
+case	purpose	for
+det	purpose	a
+amod	purpose	specific
+nmod:for	apart	purpose
+cc	purpose	or
+conj:or	purpose	use
+punct	Allocate	.

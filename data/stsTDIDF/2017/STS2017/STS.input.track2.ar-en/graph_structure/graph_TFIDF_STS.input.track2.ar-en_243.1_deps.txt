@@ -1,0 +1,5 @@
+plays	musician	nsubj
+plays	sitting	advcl
+sitting	while	mark
+plays	guitar	dobj
+musician	A	det

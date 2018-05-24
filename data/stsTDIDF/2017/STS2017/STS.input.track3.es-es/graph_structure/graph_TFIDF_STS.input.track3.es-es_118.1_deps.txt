@@ -1,0 +1,4 @@
+factory	cheese	compound
+works	factory	nmod:in
+works	woman	nsubj
+factory	in	case

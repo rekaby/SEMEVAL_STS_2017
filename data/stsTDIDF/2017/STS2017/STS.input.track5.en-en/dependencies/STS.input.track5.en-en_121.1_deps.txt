@@ -1,0 +1,9 @@
+nummod	people	Two
+compound	people	skiing
+nsubj	doing	people
+aux	doing	are
+root	ROOT	doing
+amod	skiing	cross
+compound	skiing	country
+dobj	doing	skiing
+punct	doing	.

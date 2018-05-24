@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	running
+case	beach	on
+det	beach	the
+nmod:on	running	beach
+punct	girl	.

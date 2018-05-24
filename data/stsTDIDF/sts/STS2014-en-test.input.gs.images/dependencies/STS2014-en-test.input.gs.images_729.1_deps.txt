@@ -1,0 +1,9 @@
+root	ROOT	Crowd
+case	people	of
+nmod:of	Crowd	people
+acl	people	walking
+case	mushroom	past
+det	mushroom	a
+amod	mushroom	giant
+nmod:past	walking	mushroom
+punct	Crowd	.

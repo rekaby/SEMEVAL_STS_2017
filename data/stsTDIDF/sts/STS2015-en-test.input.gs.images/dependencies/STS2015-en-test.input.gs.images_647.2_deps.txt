@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	fighting	dog
+root	ROOT	fighting
+case	dog	with
+det	dog	a
+amod	dog	brown
+nmod:with	fighting	dog
+case	snow	in
+det	snow	the
+nmod:in	dog	snow
+punct	fighting	.

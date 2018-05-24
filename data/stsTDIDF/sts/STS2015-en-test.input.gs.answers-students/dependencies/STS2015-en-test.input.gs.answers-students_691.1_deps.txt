@@ -1,0 +1,8 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+nsubj	is	path
+case	bulb	from
+nmod:from	path	bulb
+case	battery	to
+nmod:to	path	battery

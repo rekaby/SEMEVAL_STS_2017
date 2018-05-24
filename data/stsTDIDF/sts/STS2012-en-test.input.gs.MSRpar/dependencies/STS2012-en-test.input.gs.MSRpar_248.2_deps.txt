@@ -1,0 +1,11 @@
+root	ROOT	``
+nsubj	water	I
+cop	water	was
+case	water	in
+det	water	the
+root	``	water
+case	seconds	for
+advmod	eight	about
+nummod	seconds	eight
+nmod:for	water	seconds
+punct	water	.

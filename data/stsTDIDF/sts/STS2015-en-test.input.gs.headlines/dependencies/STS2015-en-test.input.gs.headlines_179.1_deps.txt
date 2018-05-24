@@ -1,0 +1,6 @@
+compound	plot	Canada
+compound	plot	train
+nsubj	suspects	plot
+root	ROOT	suspects
+ccomp	suspects	reject
+dobj	reject	charges

@@ -1,0 +1,8 @@
+amod	quake	6.1-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+dobj	hits	Papua
+punct	Papua	,
+appos	Papua	Indonesia
+punct	Papua	--
+dep	hits	USGS

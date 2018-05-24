@@ -1,0 +1,8 @@
+det	baby	The
+nsubj	laughed	baby
+root	ROOT	laughed
+case	seat	in
+nmod:poss	seat	his
+compound	seat	car
+nmod:in	laughed	seat
+punct	laughed	.

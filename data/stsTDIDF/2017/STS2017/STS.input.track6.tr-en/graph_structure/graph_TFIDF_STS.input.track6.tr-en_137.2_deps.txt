@@ -1,0 +1,6 @@
+climbs	man	nsubj
+ROOT	climbs	root
+side	mountain	nmod:of
+climbs	.	punct
+climbs	side	nmod:to
+mountain	of	case

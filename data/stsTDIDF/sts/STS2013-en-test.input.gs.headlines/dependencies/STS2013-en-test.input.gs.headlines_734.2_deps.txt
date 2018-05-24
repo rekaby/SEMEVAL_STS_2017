@@ -1,0 +1,11 @@
+amod	gunman	French
+nsubj	wants	gunman
+root	ROOT	wants
+mark	die	to
+punct	die	`
+xcomp	wants	die
+case	weapons	with
+nmod:with	die	weapons
+case	hands	in
+nmod:in	die	hands
+case	die	'

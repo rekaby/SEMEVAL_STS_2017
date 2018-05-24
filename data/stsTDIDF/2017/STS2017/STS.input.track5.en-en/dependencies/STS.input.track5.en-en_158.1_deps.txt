@@ -1,0 +1,7 @@
+det	children	The
+nsubj	holding	children
+aux	holding	are
+root	ROOT	holding
+amod	instruments	musical
+dobj	holding	instruments
+punct	holding	.

@@ -1,0 +1,14 @@
+compound	mayor	Japan
+nsubj	apologizes	mayor
+root	ROOT	apologizes
+case	U.S.	to
+nmod:to	apologizes	U.S.
+punct	apologizes	,
+dep	apologizes	denies
+amod	words	wrong
+dobj	denies	words
+case	women	on
+punct	women	``
+compound	women	comfort
+nmod:on	denies	women
+punct	apologizes	''

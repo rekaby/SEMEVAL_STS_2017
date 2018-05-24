@@ -1,0 +1,9 @@
+compound	Calls	U.N.
+compound	Calls	Security
+compound	Calls	Council
+root	ROOT	Calls
+case	Cease-Fire	for
+amod	Cease-Fire	Unconditional
+nmod:for	Calls	Cease-Fire
+case	Gaza	in
+nmod:in	Cease-Fire	Gaza

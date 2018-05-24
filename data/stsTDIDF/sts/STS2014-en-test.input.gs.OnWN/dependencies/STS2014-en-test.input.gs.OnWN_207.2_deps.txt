@@ -1,0 +1,10 @@
+root	ROOT	join
+cc	join	or
+conj:or	join	attach
+mark	glue	with
+cc	with	or
+conj:or	with	as
+dep	glue	if
+case	glue	with
+advcl:with	join	glue
+punct	join	.

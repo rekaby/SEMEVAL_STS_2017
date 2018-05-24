@@ -1,0 +1,7 @@
+root ROOT ?-1) compound(Clinicas-2, Bodega	15.060439779775294
+punct Clinicas ?-3) root(ROOT-0, Draw	15.060439779775294
+dobj Draw Interest	15.060439779775294
+case Officials of	15.060439779775294
+nmod:of Interest Officials	15.060439779775294
+root ROOT Clinicas	14.367292599215348
+compound Officials Health	12.757854686781249

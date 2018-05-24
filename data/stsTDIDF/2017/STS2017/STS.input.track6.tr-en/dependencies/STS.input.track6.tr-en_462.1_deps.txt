@@ -1,0 +1,12 @@
+det	fan	A
+compound	fan	football
+nsubj	game	fan
+cop	game	is
+case	game	at
+det	game	a
+compound	game	football
+root	ROOT	game
+case	stadium	in
+det	stadium	a
+nmod:in	game	stadium
+punct	game	.

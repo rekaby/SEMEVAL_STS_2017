@@ -1,0 +1,15 @@
+det	breakdown	a
+nsubj	worse	breakdown
+case	order	of
+nmod:of	breakdown	order
+case	china	in
+nmod:in	breakdown	china
+aux	worse	will
+cop	worse	be
+root	ROOT	worse
+case	afghanistan	than
+case	afghanistan	in
+nmod:in	worse	afghanistan
+cc	afghanistan	or
+conj:or	afghanistan	yugoslavia
+punct	worse	.

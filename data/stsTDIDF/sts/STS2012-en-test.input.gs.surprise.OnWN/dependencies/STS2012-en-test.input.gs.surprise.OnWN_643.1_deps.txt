@@ -1,0 +1,7 @@
+det	cut	a
+amod	cut	sweeping
+root	ROOT	cut
+case	instrument	with
+det	instrument	a
+amod	instrument	sharp
+nmod:with	cut	instrument

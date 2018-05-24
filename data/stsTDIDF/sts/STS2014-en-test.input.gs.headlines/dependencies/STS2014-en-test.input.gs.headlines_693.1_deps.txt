@@ -1,0 +1,9 @@
+amod	prays	Indonesian
+compound	prays	capital
+root	ROOT	prays
+case	metro	for
+nmod:for	prays	metro
+mark	ease	to
+acl	prays	ease
+compound	chaos	traffic
+dobj	ease	chaos

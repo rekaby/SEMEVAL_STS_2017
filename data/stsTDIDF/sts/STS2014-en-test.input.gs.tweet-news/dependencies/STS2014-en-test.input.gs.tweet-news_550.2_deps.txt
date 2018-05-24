@@ -1,0 +1,9 @@
+compound	Blog	Bits
+root	ROOT	Blog
+punct	Blog	:
+compound	Firm	Security
+compound	Campaign	Firm
+compound	Campaign	Discovers
+amod	Campaign	Global
+compound	Campaign	Spy
+dep	Blog	Campaign

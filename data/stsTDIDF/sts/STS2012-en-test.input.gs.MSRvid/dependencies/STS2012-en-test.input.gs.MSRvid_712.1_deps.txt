@@ -1,0 +1,10 @@
+det	person	A
+nsubj	frying	person
+aux	frying	is
+root	ROOT	frying
+det	meat	a
+dobj	frying	meat
+case	pan	in
+det	pan	the
+nmod:in	frying	pan
+punct	frying	.

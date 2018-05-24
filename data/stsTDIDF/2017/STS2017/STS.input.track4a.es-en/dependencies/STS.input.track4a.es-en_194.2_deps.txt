@@ -1,0 +1,13 @@
+root	ROOT	Woman
+case	top	in
+amod	top	pink
+nmod:in	Woman	top
+amod	men	walking
+amod	men	past
+nummod	men	3
+dobj	top	men
+acl	men	sitting
+case	steps	on
+det	steps	the
+nmod:on	sitting	steps
+punct	Woman	.

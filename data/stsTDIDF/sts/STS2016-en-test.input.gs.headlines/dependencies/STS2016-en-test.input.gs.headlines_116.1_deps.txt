@@ -1,0 +1,10 @@
+root	ROOT	US
+mark	Determine	to
+acl	US	Determine
+dobj	Determine	Extent
+case	Use	of
+compound	Use	Chemical
+compound	Use	Weapons
+nmod:of	Extent	Use
+case	Syria	by
+nmod:by	US	Syria

@@ -1,0 +1,4 @@
+game	fan	nsubj
+fan	A	det
+game	stadium	nmod:in
+fan	football	compound

@@ -1,0 +1,6 @@
+taking	nap	dobj
+taking	boy	nsubj
+grass	in	case
+nap	a	det
+taking	grass	nmod:in
+boy	shirtless	amod

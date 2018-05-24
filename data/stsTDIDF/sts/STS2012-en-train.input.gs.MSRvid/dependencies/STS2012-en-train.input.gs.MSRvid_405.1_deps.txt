@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	does
+compound	exercises	floor
+dobj	does	exercises
+punct	man	.

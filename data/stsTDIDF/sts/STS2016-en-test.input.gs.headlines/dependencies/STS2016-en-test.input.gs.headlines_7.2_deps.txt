@@ -1,0 +1,8 @@
+compound	rule	Mayawati
+compound	rule	demands
+compound	rule	Presidents
+root	ROOT	rule
+case	Jammu	in
+nmod:in	rule	Jammu
+cc	Jammu	and
+conj:and	Jammu	Kashmir

@@ -1,0 +1,12 @@
+nsubj	is	this
+root	ROOT	is
+advmod	treat	how
+det	people	the
+nsubj	treat	people
+case	right	on
+det	right	the
+nmod:on	people	right
+advmod	right	here
+ccomp	is	treat
+dobj	treat	truth
+punct	is	.

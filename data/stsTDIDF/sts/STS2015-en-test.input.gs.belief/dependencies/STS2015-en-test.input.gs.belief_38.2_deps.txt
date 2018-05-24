@@ -1,0 +1,11 @@
+advmod	now	so
+advmod	fight	now
+nsubj	fight	it
+cop	fight	is
+det	fight	a
+root	ROOT	fight
+case	freedom	for
+nmod:for	fight	freedom
+case	choice	of
+nmod:of	freedom	choice
+punct	fight	.

@@ -1,0 +1,9 @@
+det	array	a
+amod	array	vertical
+root	ROOT	array
+case	numbers	of
+nmod:of	array	numbers
+cc	numbers	or
+amod	information	other
+conj:or	numbers	information
+punct	array	.

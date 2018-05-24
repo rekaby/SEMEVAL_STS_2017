@@ -1,0 +1,17 @@
+nsubj	said	Authorities
+root	ROOT	said
+det	scientist	the
+nsubj	quarantined	scientist
+advmod	quarantined	properly
+ccomp	said	quarantined
+dobj	quarantined	himself
+case	home	at
+nmod:at	quarantined	home
+mark	developed	after
+nsubj	developed	he
+advcl	quarantined	developed
+compound	symptoms	SARS
+dobj	developed	symptoms
+nmod:tmod	developed	Dec.
+nummod	Dec.	10
+punct	said	.

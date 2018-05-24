@@ -1,0 +1,8 @@
+root	ROOT	bend
+case	shape	into
+det	shape	the
+nmod:into	bend	shape
+case	crank	of
+det	crank	a
+nmod:of	shape	crank
+punct	bend	.

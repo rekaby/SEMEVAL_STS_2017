@@ -1,0 +1,6 @@
+ROOT	learning	root
+use	legs	dobj
+learning	.	punct
+learning	men	nsubj
+learning	use	xcomp
+legs	their	nmod:poss

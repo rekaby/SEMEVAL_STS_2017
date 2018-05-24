@@ -1,0 +1,12 @@
+nsubj	problem	This
+cop	problem	is
+det	problem	a
+root	ROOT	problem
+dobj	has	that
+det	professor	the
+nsubj	has	professor
+acl:relcl	problem	has
+mark	deal	to
+xcomp	has	deal
+nmod	deal	with
+punct	problem	.

@@ -1,0 +1,10 @@
+det	kitten	A
+nsubj	eating	kitten
+aux	eating	is
+root	ROOT	eating
+nmod:poss	food	its
+dobj	eating	food
+case	plate	from
+det	plate	a
+nmod:from	eating	plate
+punct	eating	.

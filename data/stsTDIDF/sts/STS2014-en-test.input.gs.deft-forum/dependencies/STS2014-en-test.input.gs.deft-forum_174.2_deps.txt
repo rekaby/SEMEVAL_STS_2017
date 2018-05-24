@@ -1,0 +1,10 @@
+nsubj	offends	Ergo
+nsubj	offends	it
+root	ROOT	offends
+dobj	offends	me
+advmod	call	when
+nsubj	call	Thatcherites
+advcl	offends	call
+nsubj	libertarian	themselves
+xcomp	call	libertarian
+punct	offends	.

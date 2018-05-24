@@ -1,0 +1,8 @@
+det	man	A
+nsubj	sitting	man
+root	ROOT	sitting
+cc	sitting	and
+conj:and	sitting	watching
+det	movie	a
+dobj	watching	movie
+punct	sitting	.

@@ -1,0 +1,15 @@
+det	boy	A
+nsubj	holds	boy
+root	ROOT	holds
+det	net	a
+dobj	holds	net
+case	snake	with
+det	snake	a
+nmod:with	net	snake
+case	it	in
+nmod:in	snake	it
+case	ground	close
+mwe	close	to
+det	ground	the
+nmod:close_to	it	ground
+punct	holds	.

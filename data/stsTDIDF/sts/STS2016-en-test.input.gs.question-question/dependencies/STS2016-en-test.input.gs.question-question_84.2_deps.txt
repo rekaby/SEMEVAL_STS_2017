@@ -1,0 +1,6 @@
+advmod	truss	How
+mark	truss	to
+root	ROOT	truss
+det	chicken	a
+dobj	truss	chicken
+punct	truss	?

@@ -1,0 +1,17 @@
+nsubj	wonder	Those
+nsubj	know	who
+acl:relcl	Those	know
+dobj	know	little
+case	farming	about
+amod	farming	modern
+compound	farming	factory
+nmod:about	little	farming
+aux	wonder	may
+root	ROOT	wonder
+advmod	necessary	why
+amod	legislation	such
+nsubj	necessary	legislation
+aux	necessary	would
+cop	necessary	be
+advcl	wonder	necessary
+punct	wonder	.

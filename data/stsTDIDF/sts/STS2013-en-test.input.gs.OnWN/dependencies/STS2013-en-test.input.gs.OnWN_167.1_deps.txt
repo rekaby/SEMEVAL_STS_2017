@@ -1,0 +1,8 @@
+det	deficiency	a
+root	ROOT	deficiency
+punct	deficiency	,
+appos	deficiency	state
+case	disappointment	of
+nmod:of	state	disappointment
+punct	deficiency	,
+appos	deficiency	non-achievement

@@ -1,0 +1,11 @@
+nummod	goats	Two
+compound	goats	mountain
+nsubj	grazing	goats
+root	ROOT	grazing
+case	lake	in
+mwe	in	front
+mwe	in	of
+det	lake	an
+amod	lake	alpine
+nmod:in_front_of	grazing	lake
+punct	grazing	.

@@ -1,0 +1,10 @@
+nummod	people	Four
+nsubj	rowing	people
+aux	rowing	are
+root	ROOT	rowing
+det	boat	a
+dobj	rowing	boat
+case	shore	near
+det	shore	the
+nmod:near	rowing	shore
+punct	rowing	.

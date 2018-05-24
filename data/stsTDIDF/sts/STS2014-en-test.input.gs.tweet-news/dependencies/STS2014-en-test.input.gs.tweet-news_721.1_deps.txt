@@ -1,0 +1,13 @@
+root	ROOT	U.S.
+punct	U.S.	,
+amod	Dreamliners	other
+compound	Dreamliners	nations
+compound	Dreamliners	ground
+compound	Dreamliners	Boeing
+appos	U.S.	Dreamliners
+case	risk	over
+compound	risk	fire
+nmod:over	Dreamliners	risk
+punct	CNN	-LRB-
+appos	risk	CNN
+punct	CNN	-RRB-

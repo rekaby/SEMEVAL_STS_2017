@@ -1,0 +1,6 @@
+det	surfer	A
+root	ROOT	surfer
+acl	surfer	walking
+case	ocean	into
+det	ocean	the
+nmod:into	walking	ocean

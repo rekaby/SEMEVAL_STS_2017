@@ -1,0 +1,7 @@
+root	ROOT	have
+det	monopoly	a
+dobj	have	monopoly
+case	control	of
+punct	control	;
+nmod:of	monopoly	control
+advmod	have	fully

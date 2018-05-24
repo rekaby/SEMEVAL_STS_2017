@@ -1,0 +1,8 @@
+flag	by	case
+flag	American	amod
+signal	flag	nmod:by
+men	standing	acl
+signal	in	case
+standing	signal	nmod:in_front_of
+men	Three	nummod
+signal	a	det

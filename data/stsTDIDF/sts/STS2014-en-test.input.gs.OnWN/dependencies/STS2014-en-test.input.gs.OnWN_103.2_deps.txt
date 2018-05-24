@@ -1,0 +1,6 @@
+det	event	the
+root	ROOT	event
+case	something	of
+nmod:of	event	something
+acl	something	ending
+punct	event	.

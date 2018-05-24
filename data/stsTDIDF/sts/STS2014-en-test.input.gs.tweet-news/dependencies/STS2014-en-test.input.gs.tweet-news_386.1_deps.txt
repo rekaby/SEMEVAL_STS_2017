@@ -1,0 +1,6 @@
+compound	disasters	Calorie
+compound	disasters	bomb
+root	ROOT	disasters
+case	menu	on
+det	menu	the
+nmod:on	disasters	menu

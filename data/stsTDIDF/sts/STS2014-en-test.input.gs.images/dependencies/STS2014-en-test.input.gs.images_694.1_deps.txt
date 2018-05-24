@@ -1,0 +1,10 @@
+det	television	A
+root	ROOT	television
+case	room	in
+det	room	a
+amod	room	messy
+nmod:in	television	room
+case	bookcases	with
+amod	bookcases	several
+nmod:with	room	bookcases
+punct	television	.

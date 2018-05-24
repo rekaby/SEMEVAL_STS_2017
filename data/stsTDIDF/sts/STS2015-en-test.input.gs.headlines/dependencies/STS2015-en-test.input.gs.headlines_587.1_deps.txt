@@ -1,0 +1,15 @@
+nsubj	aim	Israelis
+cc	Israelis	and
+conj:and	Israelis	Palestinians
+root	ROOT	aim
+mark	negotiate	to
+acl	aim	negotiate
+det	deal	a
+punct	deal	`
+amod	deal	final
+punct	deal	'
+compound	deal	peace
+dobj	negotiate	deal
+case	talks	after
+amod	talks	positive
+nmod:after	negotiate	talks

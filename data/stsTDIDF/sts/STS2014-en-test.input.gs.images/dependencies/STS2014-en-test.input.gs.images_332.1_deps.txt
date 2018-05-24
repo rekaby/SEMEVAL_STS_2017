@@ -1,0 +1,10 @@
+det	train	A
+root	ROOT	train
+acl	train	sitting
+case	tracks	on
+det	tracks	the
+nmod:on	sitting	tracks
+case	field	near
+det	field	a
+nmod:near	tracks	field
+punct	train	.

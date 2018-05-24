@@ -1,0 +1,11 @@
+root	ROOT	Listen
+case	version	to
+det	version	the
+nummod	version	four
+amod	version	new
+nmod:to	Listen	version
+case	anthem	of
+det	anthem	the
+amod	anthem	national
+nmod:of	version	anthem
+punct	Listen	.

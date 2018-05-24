@@ -1,0 +1,7 @@
+nsubj	threatens	Libya
+root	ROOT	threatens
+compound	action	army
+dobj	threatens	action
+case	protesters	against
+compound	protesters	oil
+nmod:against	action	protesters

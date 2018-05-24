@@ -1,0 +1,12 @@
+root	ROOT	A
+acl	A	IS
+dep	IS	ON
+root	ON	ITS
+case	B	ON
+compound	B	PATH
+nmod:on	ITS	B
+cc	B	AND
+compound	PATH	C
+compound	PATH	SHARE
+compound	PATH	A
+conj:and	B	PATH

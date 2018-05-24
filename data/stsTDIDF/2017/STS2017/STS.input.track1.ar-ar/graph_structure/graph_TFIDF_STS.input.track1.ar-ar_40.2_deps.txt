@@ -1,0 +1,7 @@
+knife	with	case
+Mince	something	dobj
+something	man	compound
+table	knife	nmod:with
+Mince	.	punct
+something	table	nmod:on
+ROOT	Mince	root

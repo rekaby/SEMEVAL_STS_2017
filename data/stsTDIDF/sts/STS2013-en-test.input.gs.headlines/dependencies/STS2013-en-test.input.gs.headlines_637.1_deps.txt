@@ -1,0 +1,10 @@
+nmod:poss	rating	Obama
+case	Obama	's
+compound	rating	poll
+nsubj	drops	rating
+root	ROOT	drops
+case	boost	in
+nmod:in	drops	boost
+case	rivals	for
+amod	rivals	Republican
+nmod:for	boost	rivals

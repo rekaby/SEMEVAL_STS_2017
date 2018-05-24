@@ -1,0 +1,7 @@
+det	type	What
+dep	is	type
+case	asbestos	of
+nmod:of	type	asbestos
+root	ROOT	is
+nsubj	is	this
+punct	is	?

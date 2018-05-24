@@ -1,0 +1,16 @@
+dobj	do	Whatever
+nsubj	do	you
+advcl	bite	do
+punct	bite	,
+aux	bite	do
+neg	bite	n't
+root	ROOT	bite
+dobj	bite	him
+advmod	bite	back
+mark	show	to
+advcl	back	show
+dobj	show	him
+mark	hurts	that
+nsubj	hurts	it
+ccomp	show	hurts
+punct	bite	.

@@ -1,0 +1,10 @@
+det	event	the
+nsubj	ending	event
+mark	coming	of
+acl	event	coming
+case	stop	to
+det	stop	a
+nmod:to	coming	stop
+punct	event	,
+root	ROOT	ending
+dobj	ending	something

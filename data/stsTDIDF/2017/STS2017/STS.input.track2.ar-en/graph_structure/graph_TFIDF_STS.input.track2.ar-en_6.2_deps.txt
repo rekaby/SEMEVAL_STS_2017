@@ -1,0 +1,4 @@
+holds	man	nsubj
+holds	sign	dobj
+sign	protest	nmod:of
+protest	of	case

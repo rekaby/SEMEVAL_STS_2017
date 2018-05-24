@@ -1,0 +1,5 @@
+Men	competing	acl
+contest	in	case
+competing	contest	nmod:in
+Men	.	punct
+ROOT	Men	root

@@ -1,0 +1,9 @@
+det	bus	A
+amod	bus	yellow
+compound	bus	school
+root	ROOT	bus
+acl	bus	parked
+case	field	in
+det	field	a
+nmod:in	parked	field
+punct	bus	.

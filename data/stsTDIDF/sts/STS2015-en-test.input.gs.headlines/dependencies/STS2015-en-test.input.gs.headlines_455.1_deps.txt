@@ -1,0 +1,6 @@
+compound	teen	Beaten
+compound	teen	Florida
+root	ROOT	teen
+acl	teen	released
+case	Israel	in
+nmod:in	released	Israel

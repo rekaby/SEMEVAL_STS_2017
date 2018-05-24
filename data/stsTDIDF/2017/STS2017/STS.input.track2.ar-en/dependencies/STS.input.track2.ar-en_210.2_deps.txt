@@ -1,0 +1,13 @@
+compound	Aldgron	Children
+nsubj	listen	Aldgron
+root	ROOT	listen
+case	attractive	to
+nmod:npmod	attractive	Professor
+nmod:to	listen	attractive
+punct	professor	/
+amod	professor	attractive
+nsubj	read	professor
+ccomp	listen	read
+det	story	the
+dobj	read	story
+punct	listen	.

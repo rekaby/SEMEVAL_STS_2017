@@ -1,0 +1,7 @@
+nsubj	consolidates	Gusmao
+root	ROOT	consolidates
+compound	elections	power
+case	Timor	in
+compound	Timor	East
+nmod:in	power	Timor
+dobj	consolidates	elections

@@ -1,0 +1,11 @@
+dobj	do	What
+aux	do	can
+nsubj	do	I
+root	ROOT	do
+mark	fix	to
+xcomp	do	fix
+amod	mayonnaise	store-bought
+dobj	fix	mayonnaise
+det	split	that
+dep	mayonnaise	split
+punct	do	?

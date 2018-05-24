@@ -1,0 +1,8 @@
+det	fishing	A
+compound	fishing	man
+nsubj	relaxing	fishing
+aux	relaxing	is
+root	ROOT	relaxing
+mark	fishing	while
+advcl	relaxing	fishing
+punct	relaxing	.

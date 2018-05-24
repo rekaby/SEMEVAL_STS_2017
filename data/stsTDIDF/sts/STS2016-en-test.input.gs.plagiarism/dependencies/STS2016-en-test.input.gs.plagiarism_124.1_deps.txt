@@ -1,0 +1,11 @@
+nsubj	inherit	They
+advmod	inherit	also
+root	ROOT	inherit
+det	attributes	the
+dobj	inherit	attributes
+cc	attributes	and
+conj:and	attributes	methods
+case	superclass	of
+nmod:poss	superclass	its
+nmod:of	attributes	superclass
+punct	inherit	.

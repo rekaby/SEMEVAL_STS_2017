@@ -1,0 +1,12 @@
+root	ROOT	Try
+mark	gain	to
+xcomp	Try	gain
+dobj	gain	favor
+case	flattering	by
+nmod:by	gain	flattering
+cc	flattering	or
+conj:or	flattering	showing
+dobj	showing	submission
+cc	submission	or
+conj:or	submission	fear
+punct	Try	.

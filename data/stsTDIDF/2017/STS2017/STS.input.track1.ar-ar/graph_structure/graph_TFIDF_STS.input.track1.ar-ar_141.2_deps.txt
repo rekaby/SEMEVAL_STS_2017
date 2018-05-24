@@ -1,0 +1,9 @@
+party	all	det
+Men	women	conj:and
+Men	and	cc
+party	dressed	amod
+party	luxurious	amod
+Men	,	punct
+Men	.	punct
+Men	party	appos
+ROOT	Men	root

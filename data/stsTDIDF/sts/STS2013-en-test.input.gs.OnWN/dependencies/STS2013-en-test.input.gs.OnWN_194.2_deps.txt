@@ -1,0 +1,10 @@
+det	month	the
+amod	month	last
+punct	12th	-LRB-
+dep	last	12th
+punct	12th	-RRB-
+root	ROOT	month
+case	year	of
+det	year	the
+nmod:of	month	year
+punct	month	.

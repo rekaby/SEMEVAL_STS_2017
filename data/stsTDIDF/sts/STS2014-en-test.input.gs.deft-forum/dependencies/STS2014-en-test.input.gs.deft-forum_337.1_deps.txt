@@ -1,0 +1,11 @@
+det	thing	The
+amod	thing	great
+nsubj	is	thing
+mark	living	about
+acl	thing	living
+advmod	living	here
+root	ROOT	is
+expl	's	there
+ccomp	is	's
+nsubj	's	space
+punct	is	.

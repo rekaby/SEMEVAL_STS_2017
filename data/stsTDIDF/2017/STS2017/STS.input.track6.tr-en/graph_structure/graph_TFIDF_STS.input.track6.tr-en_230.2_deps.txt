@@ -1,0 +1,6 @@
+kids	Two	nummod
+climbing	.	punct
+climbing	kids	nsubj
+climbing	statue	dobj
+ROOT	climbing	root
+statue	a	det

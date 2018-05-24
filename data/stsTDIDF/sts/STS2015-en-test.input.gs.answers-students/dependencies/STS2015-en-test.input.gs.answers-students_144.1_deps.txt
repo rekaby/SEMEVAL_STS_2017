@@ -1,0 +1,13 @@
+det	battery	the
+nsubjpass	contained	battery
+auxpass	contained	is
+csubj	not	contained
+case	circuit	in
+det	circuit	the
+nmod:in	contained	circuit
+cc	circuit	and
+det	bulb	the
+amod	bulb	light
+conj:and	circuit	bulb
+cop	not	is
+root	ROOT	not

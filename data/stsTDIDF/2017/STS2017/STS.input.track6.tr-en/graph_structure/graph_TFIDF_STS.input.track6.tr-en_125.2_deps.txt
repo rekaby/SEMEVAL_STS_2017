@@ -1,0 +1,10 @@
+middle	ocean	nmod:of
+swimming	.	punct
+Sea	North	compound
+swimming	is	aux
+swimming	man	nsubj
+ocean	of	case
+swimming	Sea	nmod:in
+Sea	in	case
+ROOT	swimming	root
+swimming	middle	nmod:in

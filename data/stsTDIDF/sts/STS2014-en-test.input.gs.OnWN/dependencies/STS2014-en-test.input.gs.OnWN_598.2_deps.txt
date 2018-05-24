@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+mark	starting	of
+acl	act	starting
+dobj	starting	something
+punct	act	.

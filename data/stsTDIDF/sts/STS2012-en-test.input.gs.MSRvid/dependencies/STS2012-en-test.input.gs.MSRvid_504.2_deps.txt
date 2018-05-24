@@ -1,0 +1,9 @@
+det	baby	A
+nsubj	plays	baby
+root	ROOT	plays
+case	dog	with
+det	dog	a
+nmod:with	plays	dog
+cc	dog	and
+conj:and	dog	ball
+punct	plays	.

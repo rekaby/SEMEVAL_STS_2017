@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	working
+case	window	in
+det	window	the
+nmod:in	working	window
+punct	man	.

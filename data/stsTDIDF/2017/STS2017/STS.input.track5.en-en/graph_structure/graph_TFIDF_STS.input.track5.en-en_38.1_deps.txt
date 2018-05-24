@@ -1,0 +1,8 @@
+space	outer	amod
+player	The	det
+player	tennis	compound
+broke	star	dobj
+hit	player	nsubj
+hit	broke	conj:and
+hit	space	nmod:into
+star	death	compound

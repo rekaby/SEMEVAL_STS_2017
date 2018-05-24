@@ -1,0 +1,13 @@
+child	watches	nmod:while
+trumpet	the	det
+trumpet	on	case
+child	blond-haired	amod
+watches	brother	compound
+ROOT	child	root
+performing	house	nmod:in_front_of
+child	performing	acl
+watches	his	nmod:poss
+child	.	punct
+watches	younger	amod
+performing	trumpet	nmod:on
+watches	while	case

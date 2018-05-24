@@ -1,0 +1,6 @@
+root	ROOT	Why
+dep	Why	are
+nsubj	are	Russians
+case	Damascus	in
+nmod:in	Russians	Damascus
+punct	Why	?

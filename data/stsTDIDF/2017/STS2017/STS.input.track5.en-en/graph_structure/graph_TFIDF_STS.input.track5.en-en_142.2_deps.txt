@@ -1,0 +1,6 @@
+doing	man	nsubj
+wheelie	a	det
+wheelie	motorcycle	nmod:on
+doing	wheelie	dobj
+motorcycle	his	nmod:poss
+motorcycle	on	case

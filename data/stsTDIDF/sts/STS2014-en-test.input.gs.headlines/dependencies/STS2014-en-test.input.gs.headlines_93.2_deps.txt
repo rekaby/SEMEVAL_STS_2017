@@ -1,0 +1,9 @@
+compound	allies	US
+nsubj	help	allies
+aux	help	get
+root	ROOT	help
+mark	repel	to
+xcomp	help	repel
+amod	attacks	Iranian
+compound	attacks	computer
+dobj	repel	attacks

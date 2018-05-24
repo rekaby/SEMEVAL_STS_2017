@@ -1,0 +1,9 @@
+root	ROOT	create
+cc	create	and
+conj:and	create	charge
+case	task	with
+det	task	a
+nmod:with	charge	task
+cc	task	or
+conj:or	task	function
+punct	create	.

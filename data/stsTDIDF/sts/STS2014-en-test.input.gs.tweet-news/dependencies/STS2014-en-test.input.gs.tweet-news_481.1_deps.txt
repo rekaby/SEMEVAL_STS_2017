@@ -1,0 +1,14 @@
+punct	guru	'
+amod	guru	4-hour
+punct	guru	'
+compound	guru	work
+root	ROOT	guru
+case	outsourcer	on
+compound	outsourcer	China
+nmod:on	guru	outsourcer
+punct	guru	:
+amod	karma	Bad
+dep	guru	karma
+punct	karma	-
+compound	International	CNN
+dep	karma	International

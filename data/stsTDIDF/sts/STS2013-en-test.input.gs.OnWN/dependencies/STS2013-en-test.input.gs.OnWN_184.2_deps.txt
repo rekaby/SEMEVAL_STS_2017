@@ -1,0 +1,8 @@
+det	obligation	an
+root	ROOT	obligation
+mark	pay	to
+acl	obligation	pay
+cc	pay	or
+conj:or	pay	do
+dobj	pay	something
+punct	obligation	.

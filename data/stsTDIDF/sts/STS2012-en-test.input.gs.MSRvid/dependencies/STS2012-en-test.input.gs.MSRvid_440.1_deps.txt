@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	skiing	woman
+cop	skiing	is
+compound	skiing	water
+root	ROOT	skiing
+case	lake	on
+det	lake	a
+nmod:on	skiing	lake
+punct	skiing	.

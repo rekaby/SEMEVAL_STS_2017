@@ -1,0 +1,12 @@
+cop	possible	Is
+nsubj	possible	it
+root	ROOT	possible
+mark	get	to
+xcomp	possible	get
+det	visa	a
+compound	visa	Schengen
+dobj	get	visa
+case	date	for
+amod	date	future
+nmod:for	get	date
+punct	possible	?

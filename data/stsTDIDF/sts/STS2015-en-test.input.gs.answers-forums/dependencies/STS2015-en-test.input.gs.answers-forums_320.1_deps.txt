@@ -1,0 +1,15 @@
+nsubj	had	I
+root	ROOT	had
+det	issue	a
+amod	issue	similar
+dobj	had	issue
+cc	had	but
+mark	seemed	in
+nsubj	seemed	what
+conj:but	had	seemed
+mark	situation	to
+cop	situation	be
+det	situation	a
+amod	situation	simpler
+xcomp	seemed	situation
+punct	had	.

@@ -1,0 +1,7 @@
+amod	leader	Red-shirt
+nsubj	calls	leader
+root	ROOT	calls
+neg	oppose	not
+mark	oppose	to
+xcomp	calls	oppose
+dobj	oppose	army

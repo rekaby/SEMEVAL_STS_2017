@@ -1,0 +1,15 @@
+aux	get	Can
+nsubj	get	I
+root	ROOT	get
+det	Master	a
+dobj	get	Master
+case	Master	's
+case	Economics	in
+nmod:in	Master	Economics
+nmod	get	with
+det	Bachelor	a
+dep	with	Bachelor
+case	Bachelor	's
+case	Mathematics	in
+nmod:in	Bachelor	Mathematics
+punct	get	?

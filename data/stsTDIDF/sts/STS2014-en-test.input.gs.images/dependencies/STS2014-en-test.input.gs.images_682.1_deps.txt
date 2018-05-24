@@ -1,0 +1,7 @@
+nummod	animals	Two
+root	ROOT	animals
+acl	animals	sitting
+case	rock	on
+det	rock	a
+nmod:on	sitting	rock
+punct	animals	.

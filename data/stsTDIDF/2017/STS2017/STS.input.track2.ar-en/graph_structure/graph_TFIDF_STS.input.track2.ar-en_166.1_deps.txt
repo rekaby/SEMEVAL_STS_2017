@@ -1,0 +1,9 @@
+individuals	young	amod
+playing	individuals	nsubj
+using	cans	dobj
+individuals	Two	nummod
+playing	using	dep
+playing	boys	dobj
+using	drumsticks	conj:and
+cans	soda	compound
+boys	drummer	compound

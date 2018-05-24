@@ -1,0 +1,12 @@
+det	person	A
+nsubj	placing	person
+aux	placing	is
+root	ROOT	placing
+det	dragon	a
+compound	dragon	baby
+compound	dragon	komodo
+dobj	placing	dragon
+case	container	into
+det	container	a
+nmod:into	placing	container
+punct	placing	.

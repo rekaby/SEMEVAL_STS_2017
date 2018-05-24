@@ -1,0 +1,9 @@
+nsubj	ignorant	They
+cop	ignorant	are
+root	ROOT	ignorant
+punct	ignorant	,
+conj:and	ignorant	poor
+punct	ignorant	,
+cc	ignorant	and
+conj:and	ignorant	sick
+punct	ignorant	.

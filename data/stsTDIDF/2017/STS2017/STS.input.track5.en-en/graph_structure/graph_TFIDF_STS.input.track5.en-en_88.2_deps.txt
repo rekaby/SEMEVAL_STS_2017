@@ -1,0 +1,11 @@
+ROOT	Trombonist	root
+band	in	case
+playing	instrument	dobj
+instrument	the	det
+Trombonist	.	punct
+playing	band	nmod:in
+parade	for	case
+parade	a	det
+Trombonist	playing	acl
+instrument	her	nmod:poss
+band	parade	nmod:for

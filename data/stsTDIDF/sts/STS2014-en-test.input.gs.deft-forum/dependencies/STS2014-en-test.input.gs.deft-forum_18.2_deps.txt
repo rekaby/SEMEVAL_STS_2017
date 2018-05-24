@@ -1,0 +1,14 @@
+root	ROOT	**
+compound	Ran	smooches
+dep	**	Ran
+dep	Ran	**
+dep	**	Hey
+punct	Hey	,
+nmod:poss	things	Blue-Eyes
+punct	Blue-Eyes	,
+advmod	's	How
+case	Blue-Eyes	's
+dobj	Hey	things
+case	London	in
+nmod:in	things	London
+punct	**	?

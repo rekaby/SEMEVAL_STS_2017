@@ -1,0 +1,14 @@
+amod	Update	Global
+root	ROOT	Update
+punct	Update	:
+compound	Found	A
+compound	Found	Genetic
+compound	Found	Link
+dep	Update	Found
+case	Victims	for
+nmod:for	Found	Victims
+case	Form	of
+amod	Form	Lethal
+nmod:of	Victims	Form
+case	Leishmaniasis	of
+nmod:of	Form	Leishmaniasis

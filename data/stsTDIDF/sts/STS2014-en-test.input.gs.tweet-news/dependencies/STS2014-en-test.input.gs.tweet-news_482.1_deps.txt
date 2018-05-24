@@ -1,0 +1,12 @@
+root	ROOT	Part
+nummod	Part	4
+punct	Part	:
+dep	Part	Answers
+case	Questions	to
+nmod:poss	Questions	Your
+nmod:to	Answers	Questions
+case	#FAFSA	About
+det	#FAFSA	the
+nmod:about	Questions	#FAFSA
+compound	#scchat	#finaid
+dep	#FAFSA	#scchat

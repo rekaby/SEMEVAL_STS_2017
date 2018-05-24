@@ -1,0 +1,8 @@
+nsubj	kill	Attacks
+case	Iraq	in
+nmod:in	Attacks	Iraq
+root	ROOT	kill
+amod	others	general
+cc	general	and
+conj:and	general	4
+dobj	kill	others

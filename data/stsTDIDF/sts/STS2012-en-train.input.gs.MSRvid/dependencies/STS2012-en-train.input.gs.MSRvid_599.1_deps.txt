@@ -1,0 +1,10 @@
+det	man	A
+nsubj	giving	man
+aux	giving	is
+root	ROOT	giving
+det	lecture	a
+dobj	giving	lecture
+case	podium	on
+det	podium	a
+nmod:on	giving	podium
+punct	giving	.

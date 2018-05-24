@@ -1,0 +1,10 @@
+det	quality	the
+root	ROOT	quality
+case	light	of
+amod	light	heightened
+nmod:of	quality	light
+case	areas	on
+nmod:on	quality	areas
+case	object	of
+det	object	an
+nmod:of	areas	object

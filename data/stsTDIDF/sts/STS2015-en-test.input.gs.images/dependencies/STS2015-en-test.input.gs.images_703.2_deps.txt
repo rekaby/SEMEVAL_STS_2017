@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	stretch	along
+det	stretch	a
+amod	stretch	grassy
+nmod:along	running	stretch
+acl	stretch	divided
+case	strings	by
+nmod:by	divided	strings
+punct	running	.

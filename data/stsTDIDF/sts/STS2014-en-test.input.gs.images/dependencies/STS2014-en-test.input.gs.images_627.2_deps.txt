@@ -1,0 +1,10 @@
+det	airplane	A
+amod	airplane	large
+nsubj	parked	airplane
+root	ROOT	parked
+case	airport	at
+det	airport	the
+nmod:at	parked	airport
+case	night	at
+nmod:at	parked	night
+punct	parked	.

@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+case	motorbike	on
+det	motorbike	a
+nmod:on	man	motorbike
+acl	motorbike	jumping
+case	sky	with
+det	sky	the
+nmod:with	jumping	sky
+case	him	behind
+nmod:behind	jumping	him
+punct	man	.

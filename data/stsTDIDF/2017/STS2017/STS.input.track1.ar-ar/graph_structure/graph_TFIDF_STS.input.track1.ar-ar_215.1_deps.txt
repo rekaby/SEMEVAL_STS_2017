@@ -1,0 +1,5 @@
+hates	Woman	nsubj
+pullover	gray	amod
+hates	pullover	dobj
+hates	.	punct
+ROOT	hates	root

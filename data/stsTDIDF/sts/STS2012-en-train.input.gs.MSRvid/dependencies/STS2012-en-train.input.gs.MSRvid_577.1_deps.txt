@@ -1,0 +1,10 @@
+det	cat	A
+nsubjpass	stuck	cat
+auxpass	stuck	gets
+root	ROOT	stuck
+case	fan	on
+det	fan	a
+amod	fan	moving
+compound	fan	ceiling
+nmod:on	stuck	fan
+punct	stuck	.

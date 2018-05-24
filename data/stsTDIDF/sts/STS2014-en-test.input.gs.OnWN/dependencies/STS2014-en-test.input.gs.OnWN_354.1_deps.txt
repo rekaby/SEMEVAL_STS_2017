@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	substituting	of
+acl	act	substituting
+nummod	thing	one
+dobj	substituting	thing
+case	another	for
+nmod:for	substituting	another

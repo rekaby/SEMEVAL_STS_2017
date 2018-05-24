@@ -1,0 +1,8 @@
+root	ROOT	affect
+cc	affect	or
+conj:or	affect	afflict
+advmod	affect	suddenly
+punct	affect	,
+advmod	adversely	usually
+advmod	affect	adversely
+punct	affect	;

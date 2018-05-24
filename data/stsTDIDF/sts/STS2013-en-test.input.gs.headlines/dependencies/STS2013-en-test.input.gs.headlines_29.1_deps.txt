@@ -1,0 +1,8 @@
+nsubj	says	US
+root	ROOT	says
+xcomp	says	ready
+mark	help	to
+xcomp	ready	help
+amod	activist	blind
+amod	activist	Chinese
+dobj	help	activist

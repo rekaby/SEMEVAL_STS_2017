@@ -1,0 +1,8 @@
+amod	forces	Israeli
+nsubj	detain	forces
+root	ROOT	detain
+dobj	detain	2
+case	raid	in
+compound	raid	Hebron
+compound	raid	arrest
+nmod:in	2	raid

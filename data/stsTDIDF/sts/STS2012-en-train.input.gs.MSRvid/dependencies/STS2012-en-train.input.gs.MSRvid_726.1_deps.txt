@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	slicing	girl
+aux	slicing	is
+root	ROOT	slicing
+det	butter	a
+dobj	slicing	butter
+case	pieces	into
+nummod	pieces	two
+nmod:into	slicing	pieces
+punct	slicing	.

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	laying	dog
+aux	laying	is
+root	ROOT	laying
+case	floor	on
+det	floor	the
+nmod:on	laying	floor
+punct	laying	.

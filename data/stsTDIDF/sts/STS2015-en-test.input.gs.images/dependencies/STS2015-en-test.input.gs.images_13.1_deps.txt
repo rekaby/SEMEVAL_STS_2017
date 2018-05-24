@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	running	field

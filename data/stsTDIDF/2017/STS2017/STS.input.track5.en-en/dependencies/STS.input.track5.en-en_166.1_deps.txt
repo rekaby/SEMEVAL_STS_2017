@@ -1,0 +1,10 @@
+det	man	The
+nsubj	resting	man
+cc	man	and
+conj:and	man	woman
+aux	resting	are
+root	ROOT	resting
+case	couch	on
+det	couch	a
+nmod:on	resting	couch
+punct	resting	.

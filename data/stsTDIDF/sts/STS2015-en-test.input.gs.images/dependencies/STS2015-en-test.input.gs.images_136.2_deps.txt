@@ -1,0 +1,7 @@
+amod	dog	Black
+root	ROOT	dog
+acl	dog	chasing
+amod	dog	brown
+dobj	chasing	dog
+case	snow	through
+nmod:through	chasing	snow

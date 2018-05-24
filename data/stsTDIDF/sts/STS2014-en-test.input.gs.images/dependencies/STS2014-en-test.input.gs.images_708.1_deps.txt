@@ -1,0 +1,9 @@
+amod	grazing	Black
+cc	Black	and
+conj:and	Black	white
+compound	grazing	cows
+root	ROOT	grazing
+case	pen	in
+det	pen	a
+nmod:in	grazing	pen
+punct	grazing	.

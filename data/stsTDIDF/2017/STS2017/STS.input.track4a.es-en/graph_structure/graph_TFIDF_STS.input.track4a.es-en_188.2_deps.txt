@@ -1,0 +1,8 @@
+grass	in	case
+body	large	amod
+sitting	bank	nmod:on
+bank	on	case
+body	water	nmod:of
+bank	body	nmod:of
+sitting	grass	nmod:in
+sitting	group	nsubj

@@ -1,0 +1,11 @@
+det	standards	The
+nsubj	are	standards
+root	ROOT	are
+case	death	to
+nmod:to	are	death
+amod	death	similar
+cc	similar	and
+advmod	transferable	even
+advmod	transferable	less
+conj:and	similar	transferable
+punct	are	.

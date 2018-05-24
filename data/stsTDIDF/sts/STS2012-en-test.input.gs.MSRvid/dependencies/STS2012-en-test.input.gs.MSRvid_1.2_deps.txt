@@ -1,0 +1,9 @@
+det	man	A
+nsubj	dancing	man
+acl	man	wearing
+det	hat	a
+amod	hat	hard
+dobj	wearing	hat
+aux	dancing	is
+root	ROOT	dancing
+punct	dancing	.

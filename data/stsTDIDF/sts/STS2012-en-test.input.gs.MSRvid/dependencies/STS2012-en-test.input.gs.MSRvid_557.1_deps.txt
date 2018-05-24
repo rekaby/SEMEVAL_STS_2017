@@ -1,0 +1,6 @@
+nsubj	bending	Trees
+aux	bending	are
+root	ROOT	bending
+case	storm	in
+nmod:in	bending	storm
+punct	bending	.

@@ -1,0 +1,9 @@
+ROOT	perimeter	root
+people	28	nummod
+perimeter	people	nsubj
+perimeter	northern	amod
+perimeter	were	cop
+perimeter	the	det
+perimeter	on	case
+perimeter	.	punct
+28	About	advmod

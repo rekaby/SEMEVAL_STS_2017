@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	jacket	in
+det	jacket	a
+amod	jacket	red
+nmod:in	man	jacket
+acl	jacket	climbing
+det	mountain	a
+dobj	climbing	mountain

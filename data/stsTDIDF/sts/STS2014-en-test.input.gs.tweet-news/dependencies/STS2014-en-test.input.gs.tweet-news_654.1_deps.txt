@@ -1,0 +1,20 @@
+compound	#Facebook	New
+nsubj	changes	#Facebook
+root	ROOT	changes
+advmod	changes	afoot
+punct	afoot	-
+neg	profile	not
+case	profile	to
+nmod:poss	profile	your
+dep	afoot	profile
+punct	phew	-LRB-
+dep	profile	phew
+punct	phew	!
+punct	changes	-RRB--13) punct(feature-5, -
+advmod	feature	rather
+det	feature	a
+amod	feature	new
+root	ROOT	feature
+punct	feature	,
+appos	feature	#GraphSearch
+punct	feature	.

@@ -1,0 +1,5 @@
+root	ROOT	put
+det	end	an
+dobj	put	end
+dep	put	to
+punct	put	.

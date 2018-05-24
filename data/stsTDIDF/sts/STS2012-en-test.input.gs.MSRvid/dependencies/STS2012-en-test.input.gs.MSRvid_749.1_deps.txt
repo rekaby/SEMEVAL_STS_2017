@@ -1,0 +1,8 @@
+det	badger	A
+nsubj	digging	badger
+cop	digging	is
+root	ROOT	digging
+case	dirt	in
+det	dirt	the
+nmod:in	digging	dirt
+punct	digging	.

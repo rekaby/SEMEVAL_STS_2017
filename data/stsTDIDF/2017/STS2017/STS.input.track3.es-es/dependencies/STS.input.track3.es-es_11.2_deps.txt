@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	fountain	in
+mwe	in	front
+mwe	in	of
+det	fountain	a
+compound	fountain	water
+nmod:in_front_of	sitting	fountain

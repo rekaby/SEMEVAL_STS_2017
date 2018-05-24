@@ -1,0 +1,11 @@
+compound	Alive	Staying
+root	ROOT	Alive
+punct	Alive	:
+advmod	Looking	Why
+nsubj	Looking	I
+aux	Looking	'm
+dep	Alive	Looking
+case	Bank	for
+det	Bank	a
+compound	Bank	New
+nmod:for	Looking	Bank

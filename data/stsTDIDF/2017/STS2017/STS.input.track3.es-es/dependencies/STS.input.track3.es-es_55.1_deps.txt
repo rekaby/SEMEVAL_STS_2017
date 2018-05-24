@@ -1,0 +1,8 @@
+det	amateur	An
+nsubj	catching	amateur
+aux	catching	is
+root	ROOT	catching
+det	ball	a
+dobj	catching	ball
+case	foul	in
+nmod:in	catching	foul

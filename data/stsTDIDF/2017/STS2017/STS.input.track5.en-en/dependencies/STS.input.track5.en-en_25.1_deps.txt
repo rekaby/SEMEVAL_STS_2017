@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	kneeling	woman
+aux	kneeling	is
+root	ROOT	kneeling
+case	cat	next
+mwe	next	to
+det	cat	a
+nmod:next_to	kneeling	cat
+punct	kneeling	.

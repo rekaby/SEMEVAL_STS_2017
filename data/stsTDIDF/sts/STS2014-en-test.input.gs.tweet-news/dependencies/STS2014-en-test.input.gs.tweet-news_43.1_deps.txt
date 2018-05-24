@@ -1,0 +1,8 @@
+compound	Killed	Man
+compound	Killed	Crapping
+root	ROOT	Killed
+case	Fall	in
+nmod:in	Killed	Fall
+case	Cars	Between
+compound	Cars	Subway
+nmod:between	Fall	Cars

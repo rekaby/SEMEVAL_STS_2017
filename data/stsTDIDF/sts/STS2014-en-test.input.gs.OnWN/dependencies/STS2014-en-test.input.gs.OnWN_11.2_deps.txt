@@ -1,0 +1,12 @@
+compound	relief	grant
+root	ROOT	relief
+cc	relief	or
+det	exemption	an
+conj:or	relief	exemption
+case	rule	from
+det	rule	a
+nmod:from	exemption	rule
+cc	relief	or
+conj:or	relief	requirement
+dep	requirement	to
+punct	relief	.

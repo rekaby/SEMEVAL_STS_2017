@@ -1,0 +1,5 @@
+building	colorful	amod
+man	sitting	acl
+building	bridge	conj:and
+sitting	building	nmod:in_front_of
+sitting	alone	advmod

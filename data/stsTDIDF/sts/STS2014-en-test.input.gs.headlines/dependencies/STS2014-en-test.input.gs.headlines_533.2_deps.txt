@@ -1,0 +1,8 @@
+compound	House	US
+nsubj	backs	House
+root	ROOT	backs
+amod	sanctions	new
+dobj	backs	sanctions
+case	inauguration	before
+compound	inauguration	Iran
+nmod:before	backs	inauguration

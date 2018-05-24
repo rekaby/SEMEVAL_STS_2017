@@ -1,0 +1,10 @@
+advmod	lift	touch
+punct	lift	,
+root	ROOT	lift
+punct	lift	,
+cc	lift	or
+conj:or	lift	hold
+case	hands	with
+det	hands	the
+nmod:with	hold	hands
+punct	lift	.

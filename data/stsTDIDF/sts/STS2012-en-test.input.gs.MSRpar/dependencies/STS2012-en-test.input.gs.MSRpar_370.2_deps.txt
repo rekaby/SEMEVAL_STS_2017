@@ -1,0 +1,14 @@
+amod	portals	Chinese
+compound	portals	language
+compound	portals	Web
+nsubj	support	portals
+advmod	support	also
+root	ROOT	support
+nummod	keywords	3721
+nsubj	said	keywords
+punct	keywords	,
+det	site	the
+compound	site	Web
+appos	keywords	site
+ccomp	support	said
+punct	support	.

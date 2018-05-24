@@ -1,0 +1,6 @@
+compound	scientists	US
+nsubj	praise	scientists
+root	ROOT	praise
+compound	deal	Iran
+amod	deal	nuclear
+dobj	praise	deal

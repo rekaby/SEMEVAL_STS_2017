@@ -1,0 +1,7 @@
+root	ROOT	Ryanair
+case	bid	in
+amod	bid	new
+nmod:in	Ryanair	bid
+case	Lingus	for
+compound	Lingus	Aer
+nmod:for	bid	Lingus

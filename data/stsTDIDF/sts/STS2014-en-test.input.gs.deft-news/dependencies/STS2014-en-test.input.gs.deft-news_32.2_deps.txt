@@ -1,0 +1,15 @@
+nsubj	competing	alstom
+aux	competing	is
+root	ROOT	competing
+case	shinkansen	against
+amod	shinkansen	japanese
+compound	shinkansen	company
+nmod:against	competing	shinkansen
+cc	shinkansen	and
+amod	ice	german
+compound	ice	company
+conj:and	shinkansen	ice
+case	contract	for
+det	contract	the
+nmod:for	competing	contract
+punct	competing	.

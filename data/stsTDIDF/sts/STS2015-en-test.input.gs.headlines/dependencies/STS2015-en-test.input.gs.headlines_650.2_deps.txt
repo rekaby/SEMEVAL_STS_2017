@@ -1,0 +1,8 @@
+compound	missile	Syria
+nsubj	kills	missile
+root	ROOT	kills
+dobj	kills	26
+punct	26	,
+case	kids	including
+nummod	kids	8
+nmod:including	26	kids

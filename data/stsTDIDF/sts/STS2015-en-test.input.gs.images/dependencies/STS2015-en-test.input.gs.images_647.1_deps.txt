@@ -1,0 +1,15 @@
+root	ROOT	Brown
+cc	Brown	and
+amod	dogs	black
+conj:and	Brown	dogs
+case	snow	on
+nmod:on	Brown	snow
+punct	Brown	,
+dep	Brown	showing
+dobj	showing	teeth
+cc	showing	and
+conj:and	showing	barking
+case	other	at
+det	other	each
+nmod:at	barking	other
+punct	Brown	.

@@ -1,0 +1,9 @@
+nsubj	closes	Libya
+root	ROOT	closes
+dobj	closes	borders
+punct	closes	,
+dep	closes	declares
+amod	law	martial
+dobj	declares	law
+case	south	in
+nmod:in	law	south

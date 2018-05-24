@@ -1,0 +1,8 @@
+amod	mass	Turkish
+compound	mass	police
+nsubj	area	mass
+case	protest	near
+compound	protest	Istanbul
+compound	protest	park
+nmod:near	mass	protest
+root	ROOT	area

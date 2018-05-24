@@ -1,0 +1,17 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	May	Apple
+nsubj	Big	May
+cop	Big	Be
+appos	NYTimes	Big
+punct	Big	,
+cc	Big	but
+nsubj	Bellwether	It
+cop	Bellwether	Is
+neg	Bellwether	n't
+det	Bellwether	a
+conj:but	Big	Bellwether
+punct	column	-LRB-
+nmod:poss	column	my
+appos	Bellwether	column
+punct	column	-RRB-

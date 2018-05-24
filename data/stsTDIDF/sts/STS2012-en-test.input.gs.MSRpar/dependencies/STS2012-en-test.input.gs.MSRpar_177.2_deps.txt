@@ -1,0 +1,16 @@
+det	Composite	The
+amod	Composite	tech-laced
+compound	Composite	Nasdaq
+root	ROOT	Composite
+punct	Composite	.-5) nsubj(rallied-2, IXIC
+root	ROOT	rallied
+nummod	points	30.46
+dobj	rallied	points
+punct	points	,
+cc	points	or
+nummod	percent	2.04
+conj:or	points	percent
+punct	points	,
+case	1,520.15	to
+nmod:to	rallied	1,520.15
+punct	rallied	.

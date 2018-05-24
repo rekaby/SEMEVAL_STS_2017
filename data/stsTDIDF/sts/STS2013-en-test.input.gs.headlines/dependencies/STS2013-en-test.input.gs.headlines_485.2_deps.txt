@@ -1,0 +1,7 @@
+nsubj	sets	Man
+root	ROOT	sets
+dobj	sets	self
+case	trial	afire
+amod	trial	outside
+compound	trial	Breivik
+nmod:afire	self	trial

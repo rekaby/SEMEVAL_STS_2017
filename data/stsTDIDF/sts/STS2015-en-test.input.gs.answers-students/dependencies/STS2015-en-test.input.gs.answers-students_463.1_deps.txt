@@ -1,0 +1,13 @@
+root	ROOT	Because
+det	batter	the
+dep	Because	batter
+nsubjpass	separted	termnal
+auxpass	separted	was
+neg	separted	not
+acl:relcl	batter	separted
+case	gap	by
+det	gap	a
+nmod:agent	separted	gap
+case	terminal	from
+nmod:from	gap	terminal
+punct	Because	.

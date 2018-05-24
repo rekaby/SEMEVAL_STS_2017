@@ -1,0 +1,7 @@
+nsubj	injured	Four
+advmod	injured	seriously
+root	ROOT	injured
+case	crash	in
+compound	crash	M23
+compound	crash	motorway
+nmod:in	injured	crash

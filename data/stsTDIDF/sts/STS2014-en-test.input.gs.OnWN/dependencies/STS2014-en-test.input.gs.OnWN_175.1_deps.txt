@@ -1,0 +1,12 @@
+root	ROOT	Sever
+cc	Sever	or
+conj:or	Sever	remove
+case	pinching	by
+nmod:by	Sever	pinching
+cc	pinching	or
+conj:or	pinching	snipping
+punct	Sever	;
+parataxis	Sever	tend
+mark	cutting	by
+advcl	tend	cutting
+punct	Sever	.

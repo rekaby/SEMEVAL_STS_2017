@@ -1,0 +1,10 @@
+root	ROOT	''
+root	''	:
+compound	profit	Samsung
+nsubj	:	profit
+case	record	at
+nmod:at	profit	record
+nummod	record	$
+compound	billion	6.6
+nummod	$	billion
+punct	profit	''

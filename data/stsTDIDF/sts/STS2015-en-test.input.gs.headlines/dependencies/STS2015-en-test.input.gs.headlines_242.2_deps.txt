@@ -1,0 +1,8 @@
+compound	Korea	North
+root	ROOT	Korea
+compound	Access	Blocks
+dep	Korea	Access
+case	Zone	to
+compound	Zone	Key
+compound	Zone	Industrial
+nmod:to	Access	Zone

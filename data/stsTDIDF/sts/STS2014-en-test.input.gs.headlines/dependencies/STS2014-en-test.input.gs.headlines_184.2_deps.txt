@@ -1,0 +1,7 @@
+compound	talks	Syria
+nsubj	agree	talks
+root	ROOT	agree
+amod	aid	military
+dobj	agree	aid
+case	rebels	to
+nmod:to	agree	rebels

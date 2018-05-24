@@ -1,0 +1,16 @@
+det	man	The
+root	ROOT	man
+case	shirt	with
+det	shirt	the
+amod	shirt	red
+nmod:with	man	shirt
+acl	shirt	sitting
+case	car	in
+nmod:poss	car	his
+nmod:in	sitting	car
+acl	car	waiting
+case	rain	for
+det	rain	the
+nmod:for	waiting	rain
+mark	stop	to
+xcomp	waiting	stop

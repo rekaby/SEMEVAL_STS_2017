@@ -1,0 +1,14 @@
+nmod:poss	vehicles	Our
+amod	vehicles	current
+nsubj	museums	vehicles
+aux	museums	will
+cop	museums	be
+case	museums	in
+root	ROOT	museums
+advmod	has	when
+nsubj	has	everyone
+advcl	museums	has
+nmod:poss	aircraft	their
+amod	aircraft	own
+dobj	has	aircraft
+punct	museums	.

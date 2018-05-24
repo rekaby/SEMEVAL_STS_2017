@@ -1,0 +1,7 @@
+root	ROOT	symbolize
+punct	symbolize	,
+conj	symbolize	serve
+case	example	as
+det	example	an
+nmod:as	serve	example
+acl	example	of

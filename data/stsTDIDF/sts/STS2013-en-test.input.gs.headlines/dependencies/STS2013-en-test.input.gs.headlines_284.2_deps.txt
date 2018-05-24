@@ -1,0 +1,6 @@
+compound	observers	UN
+nsubj	reach	observers
+root	ROOT	reach
+nsubj	massacre	Syria
+ccomp	reach	massacre
+dobj	massacre	village

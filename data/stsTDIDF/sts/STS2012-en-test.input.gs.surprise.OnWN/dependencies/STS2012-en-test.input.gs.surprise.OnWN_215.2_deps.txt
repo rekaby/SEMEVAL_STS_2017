@@ -1,0 +1,11 @@
+root	ROOT	take
+dobj	take	possession
+case	force	of
+case	force	by
+nmod:by	possession	force
+punct	take	,
+case	invasion	as
+case	invasion	after
+det	invasion	an
+nmod:after	take	invasion
+punct	take	.

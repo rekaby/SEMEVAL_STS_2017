@@ -1,0 +1,15 @@
+root	ROOT	Saying
+punct	thanks	``
+dobj	Saying	thanks
+punct	thanks	,
+nsubj	have	I
+aux	have	do
+neg	have	n't
+acl:relcl	thanks	have
+det	questions	any
+dobj	have	questions
+case	moment	at
+det	moment	the
+nmod:at	have	moment
+punct	Saying	.
+punct	Saying	''

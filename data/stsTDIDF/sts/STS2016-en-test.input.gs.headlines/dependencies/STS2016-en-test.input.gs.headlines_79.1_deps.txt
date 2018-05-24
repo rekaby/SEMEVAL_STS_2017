@@ -1,0 +1,5 @@
+compound	protests	Thai
+nsubj	escalate	protests
+root	ROOT	escalate
+case	violence	amid
+nmod:amid	escalate	violence

@@ -1,0 +1,8 @@
+det	skateboards	The
+compound	skateboards	kid
+root	ROOT	skateboards
+advmod	sidewalk	straight
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	skateboards	sidewalk
+punct	skateboards	.

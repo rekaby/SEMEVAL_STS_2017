@@ -1,0 +1,6 @@
+man	asleep	advmod
+fountain	air	nmod:in
+fountain	in	case
+fountain	a	det
+asleep	fountain	nmod:in
+air	open	amod

@@ -1,0 +1,12 @@
+nmod:poss	gosh	My
+root	ROOT	gosh
+punct	gosh	,
+nsubj	one	I
+cop	one	'm
+det	one	the
+acl:relcl	gosh	one
+case	ticker	with
+det	ticker	the
+compound	ticker	pregnancy
+nmod:with	one	ticker
+punct	gosh	.

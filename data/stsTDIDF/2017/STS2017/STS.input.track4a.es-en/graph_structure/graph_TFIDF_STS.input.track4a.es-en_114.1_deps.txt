@@ -1,0 +1,9 @@
+cages	animals	nsubj
+zoo	at	case
+animals	The	det
+cages	are	cop
+zoo	the	det
+cages	in	case
+ROOT	cages	root
+cages	zoo	nmod:at
+cages	.	punct

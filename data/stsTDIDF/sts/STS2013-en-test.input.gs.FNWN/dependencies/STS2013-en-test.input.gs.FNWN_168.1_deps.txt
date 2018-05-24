@@ -1,0 +1,13 @@
+det	subevent	a
+amod	subevent	salient
+nsubj	has	subevent
+root	ROOT	has
+det	pattern	a
+dobj	has	pattern
+case	recurrence	of
+nmod:of	pattern	recurrence
+case	process	within
+det	process	a
+amod	process	larger
+nmod:within	pattern	process
+punct	has	.

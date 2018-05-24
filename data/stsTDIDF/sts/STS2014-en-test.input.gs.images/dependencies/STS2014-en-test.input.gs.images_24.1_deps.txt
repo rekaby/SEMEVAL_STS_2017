@@ -1,0 +1,9 @@
+det	close	A
+root	ROOT	close
+advmod	close	up
+case	cat	of
+det	cat	a
+amod	cat	brown
+amod	cat	faced
+nmod:of	up	cat
+punct	close	.

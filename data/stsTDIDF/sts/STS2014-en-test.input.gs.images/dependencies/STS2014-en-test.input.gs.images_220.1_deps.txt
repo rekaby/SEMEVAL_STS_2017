@@ -1,0 +1,10 @@
+det	person	A
+root	ROOT	person
+acl	person	driving
+det	cart	a
+dobj	driving	cart
+acl	cart	pulled
+case	bicycle	by
+det	bicycle	a
+nmod:by	pulled	bicycle
+punct	person	.

@@ -1,0 +1,12 @@
+compound	Heaney	Seamus
+nsubj	dies	Heaney
+punct	Heaney	,
+compound	poet	Irish
+appos	Heaney	poet
+cc	poet	and
+compound	winner	Nobel
+conj:and	poet	winner
+punct	Heaney	,
+root	ROOT	dies
+case	74	at
+nmod:at	dies	74

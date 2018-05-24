@@ -1,0 +1,7 @@
+amod	boy	Black
+nsubj	take	boy
+root	ROOT	take
+compound:prt	take	off
+nmod:poss	shoes	his
+dobj	take	shoes
+punct	take	.

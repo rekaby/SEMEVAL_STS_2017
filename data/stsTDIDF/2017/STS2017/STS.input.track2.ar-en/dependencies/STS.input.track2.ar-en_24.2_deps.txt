@@ -1,0 +1,9 @@
+root	ROOT	Women
+acl	Women	carrying
+det	bag	a
+amod	bag	black
+nsubj	cross	bag
+ccomp	carrying	cross
+det	street	the
+dobj	cross	street
+punct	Women	.

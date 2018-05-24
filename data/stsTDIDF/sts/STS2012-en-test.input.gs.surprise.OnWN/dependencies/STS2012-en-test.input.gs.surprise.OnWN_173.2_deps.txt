@@ -1,0 +1,9 @@
+root	ROOT	get
+case	top	on
+nmod:on	get	top
+acl	top	of
+punct	get	;
+dep	get	deal
+case	successfully	with
+nmod:with	deal	successfully
+punct	get	.

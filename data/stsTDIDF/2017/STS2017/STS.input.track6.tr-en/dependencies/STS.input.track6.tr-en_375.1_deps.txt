@@ -1,0 +1,8 @@
+det	man	A
+nsubj	trying	man
+cop	trying	is
+mark	trying	inside
+root	ROOT	trying
+case	glasses	on
+nmod:on	trying	glasses
+punct	trying	.

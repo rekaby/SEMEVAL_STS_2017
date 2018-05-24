@@ -1,0 +1,10 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	seat	of
+det	seat	a
+compound	seat	love
+nmod:of	photo	seat
+punct	photo	.

@@ -1,0 +1,5 @@
+root	ROOT	Furnish
+case	spurs	with
+compound	spurs	metal
+nmod:with	Furnish	spurs
+punct	Furnish	.

@@ -1,0 +1,16 @@
+nummod	dogs	Two
+amod	dogs	black
+nsubj	jumping	dogs
+aux	jumping	are
+root	ROOT	jumping
+cc	jumping	and
+conj:and	jumping	playing
+case	ball	with
+det	ball	a
+amod	ball	yellow
+compound	ball	tennis
+nmod:with	playing	ball
+case	snow	in
+det	snow	the
+nmod:in	ball	snow
+punct	jumping	.

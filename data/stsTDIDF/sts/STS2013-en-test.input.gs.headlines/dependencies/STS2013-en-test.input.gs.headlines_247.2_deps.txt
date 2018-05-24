@@ -1,0 +1,8 @@
+root	ROOT	Ictu
+punct	Ictu	,
+appos	Ictu	Ibec
+case	move	in
+nmod:in	Ictu	move
+case	strike	on
+compound	strike	airline
+nmod:on	move	strike

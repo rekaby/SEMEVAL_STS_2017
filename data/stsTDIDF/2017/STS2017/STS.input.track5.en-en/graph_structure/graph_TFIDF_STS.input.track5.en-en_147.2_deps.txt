@@ -1,0 +1,9 @@
+dog	small	amod
+ROOT	dog	root
+dog	ocean	nmod:in
+dog	rocks	nmod:with
+ocean	in	case
+rocks	with	case
+rocks	background	nmod:in
+rocks	some	det
+dog	black	amod

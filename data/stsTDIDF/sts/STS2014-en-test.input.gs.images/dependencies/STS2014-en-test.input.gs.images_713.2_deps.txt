@@ -1,0 +1,8 @@
+det	animal	A
+amod	animal	domestic
+nsubj	stands	animal
+root	ROOT	stands
+case	pen	in
+det	pen	a
+nmod:in	stands	pen
+punct	stands	.

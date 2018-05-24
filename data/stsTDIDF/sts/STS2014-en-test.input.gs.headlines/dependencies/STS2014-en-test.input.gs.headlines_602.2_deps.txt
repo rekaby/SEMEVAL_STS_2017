@@ -1,0 +1,7 @@
+compound	drivers	Women
+nsubj	rise	drivers
+mark	face	to
+acl	drivers	face
+compound	premium	insurance
+dobj	face	premium
+root	ROOT	rise

@@ -1,0 +1,8 @@
+det	player	A
+compound	player	soccer
+nsubj	kicking	player
+aux	kicking	is
+root	ROOT	kicking
+det	ball	the
+dobj	kicking	ball
+punct	kicking	.

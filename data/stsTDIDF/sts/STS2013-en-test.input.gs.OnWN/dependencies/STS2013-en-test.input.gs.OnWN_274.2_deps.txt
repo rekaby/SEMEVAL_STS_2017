@@ -1,0 +1,6 @@
+root	ROOT	adapt
+case	measurement	to
+det	measurement	a
+amod	measurement	specified
+nmod:to	adapt	measurement
+punct	adapt	.

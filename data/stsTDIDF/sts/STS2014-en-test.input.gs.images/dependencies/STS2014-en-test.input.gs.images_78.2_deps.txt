@@ -1,0 +1,13 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	motorcycle	of
+det	motorcycle	a
+nmod:of	photo	motorcycle
+acl	photo	laying
+case	ground	on
+det	ground	the
+nmod:on	laying	ground
+punct	photo	.

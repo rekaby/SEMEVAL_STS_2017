@@ -1,0 +1,7 @@
+nummod	city	2
+compound	city	explosions
+amod	city	rock
+root	ROOT	city
+case	Lebanon	in
+amod	Lebanon	northern
+nmod:in	city	Lebanon

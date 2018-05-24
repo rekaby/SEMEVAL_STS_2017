@@ -1,0 +1,12 @@
+car	on	case
+leans	woman	nsubj
+nails	her	nmod:poss
+leans	car	nmod:on
+woman	man	conj:and
+leans	biting	xcomp
+talking	woman	nsubj
+talking	leans	advcl
+woman	another	det
+car	her	nmod:poss
+leans	while	mark
+biting	nails	dobj

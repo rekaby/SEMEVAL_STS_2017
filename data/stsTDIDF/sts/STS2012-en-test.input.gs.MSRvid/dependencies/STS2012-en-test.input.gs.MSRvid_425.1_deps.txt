@@ -1,0 +1,5 @@
+det	guy	A
+nsubj	playing	guy
+aux	playing	is
+root	ROOT	playing
+dobj	playing	hackysack

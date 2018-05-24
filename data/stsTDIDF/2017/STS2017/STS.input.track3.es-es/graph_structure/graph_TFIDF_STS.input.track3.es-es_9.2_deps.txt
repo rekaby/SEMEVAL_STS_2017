@@ -1,0 +1,10 @@
+woman	pink	nmod:in
+scarf	with	case
+covering	.	punct
+covering	woman	nsubj
+ROOT	covering	root
+scarf	a	det
+covering	is	aux
+covering	face	dobj
+pink	in	case
+covering	scarf	nmod:with

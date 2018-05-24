@@ -1,0 +1,7 @@
+nsubj	condemns	Pakistan
+root	ROOT	condemns
+compound	strike	US
+compound	strike	drone
+dobj	condemns	strike
+case	Miranshah	in
+nmod:in	condemns	Miranshah

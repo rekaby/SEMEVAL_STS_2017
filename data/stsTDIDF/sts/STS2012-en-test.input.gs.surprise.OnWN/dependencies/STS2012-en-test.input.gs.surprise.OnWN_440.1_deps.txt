@@ -1,0 +1,9 @@
+root	ROOT	make
+det	size	a
+amod	size	certain
+dobj	make	size
+cc	size	or
+conj:or	size	sort
+case	size	according
+mwe	according	to
+nmod:according_to	make	size

@@ -1,0 +1,9 @@
+root	ROOT	Stop
+det	man	the
+dobj	Stop	man
+case	banner	near
+det	banner	the
+nmod:near	man	banner
+case	Nebraska	of
+nmod:of	banner	Nebraska
+punct	Stop	.

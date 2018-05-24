@@ -1,0 +1,8 @@
+root	ROOT	provide
+punct	provide	,
+conj:or	provide	raise
+punct	provide	,
+cc	provide	or
+compound	funds	supply
+conj:or	provide	funds
+dep	provide	to

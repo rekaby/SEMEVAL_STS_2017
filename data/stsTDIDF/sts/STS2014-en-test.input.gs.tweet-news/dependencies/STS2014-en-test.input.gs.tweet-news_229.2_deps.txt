@@ -1,0 +1,8 @@
+compound	Response	Netanyahu
+compound	Response	Issues
+compound	Response	Veiled
+root	ROOT	Response
+case	Criticism	to
+nmod:to	Response	Criticism
+case	Obama	From
+nmod:from	Criticism	Obama

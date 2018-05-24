@@ -1,0 +1,11 @@
+det	man	A
+nsubj	maneuvering	man
+aux	maneuvering	is
+root	ROOT	maneuvering
+det	ball	a
+compound	ball	soccer
+dobj	maneuvering	ball
+case	feet	with
+nmod:poss	feet	his
+nmod:with	maneuvering	feet
+punct	maneuvering	.

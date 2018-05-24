@@ -1,0 +1,9 @@
+shirt	jeans	conj:and
+playing	hula	nmod:with
+shirt	an	det
+hula	a	det
+man	shirt	nmod:in
+hula	with	case
+shirt	orange	amod
+playing	man	nsubj
+jeans	blue	amod

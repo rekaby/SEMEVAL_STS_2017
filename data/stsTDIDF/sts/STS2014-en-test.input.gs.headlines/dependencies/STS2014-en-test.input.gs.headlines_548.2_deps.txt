@@ -1,0 +1,6 @@
+nsubj	planned	Protests
+root	ROOT	planned
+case	Brazil	across
+nmod:across	planned	Brazil
+case	concessions	despite
+nmod:despite	planned	concessions

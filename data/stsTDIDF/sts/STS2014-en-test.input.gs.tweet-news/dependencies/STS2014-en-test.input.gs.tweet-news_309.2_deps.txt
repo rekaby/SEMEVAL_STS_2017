@@ -1,0 +1,6 @@
+root	ROOT	America
+punct	America	,
+compound	Arabia	Saudi
+appos	America	Arabia
+case	tomorrow	of
+nmod:of	Arabia	tomorrow

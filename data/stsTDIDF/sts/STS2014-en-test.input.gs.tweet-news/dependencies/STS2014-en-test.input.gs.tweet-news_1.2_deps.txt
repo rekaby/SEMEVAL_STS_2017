@@ -1,0 +1,7 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+nsubj	Hits	Revolution
+dep	Columnist	Hits
+det	Universities	the
+dobj	Hits	Universities

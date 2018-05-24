@@ -1,0 +1,9 @@
+compound	leader	Taiwan
+compound	leader	gang
+nsubj	nabbed	leader
+root	ROOT	nabbed
+case	airport	at
+nmod:at	nabbed	airport
+case	years	after
+nummod	years	17
+nmod:after	nabbed	years

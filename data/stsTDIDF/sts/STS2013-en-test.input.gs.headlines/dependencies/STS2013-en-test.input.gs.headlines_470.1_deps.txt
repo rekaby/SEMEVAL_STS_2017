@@ -1,0 +1,8 @@
+amod	activists	Foreign
+amod	activists	pro-Palestinian
+nsubj	seek	activists
+root	ROOT	seek
+mark	enter	to
+xcomp	seek	enter
+compound	Bank	West
+dobj	enter	Bank

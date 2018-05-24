@@ -1,0 +1,10 @@
+det	man	A
+nsubj	race	man
+cop	race	was
+case	race	in
+det	race	a
+root	ROOT	race
+case	scooter	with
+det	scooter	a
+nmod:with	race	scooter
+punct	race	.

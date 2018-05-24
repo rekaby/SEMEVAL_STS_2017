@@ -1,0 +1,15 @@
+det	device	a
+root	ROOT	device
+mark	control	to
+acl	device	control
+det	rate	the
+dobj	control	rate
+case	activity	of
+det	activity	some
+nmod:of	rate	activity
+punct	activity	,
+appos	activity	e.g.
+punct	e.g.	,
+root	,	chemical
+cc	chemical	or
+conj:or	chemical	mechanical

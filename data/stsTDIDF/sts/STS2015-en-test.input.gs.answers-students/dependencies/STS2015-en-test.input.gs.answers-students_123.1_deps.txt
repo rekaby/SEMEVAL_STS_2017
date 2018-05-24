@@ -1,0 +1,13 @@
+amod	6	terminal
+nsubjpass	connected	6
+auxpass	connected	is
+root	ROOT	connected
+case	end	to
+amod	end	postive
+nmod:to	connected	end
+case	battery	of
+nmod:of	end	battery
+cc	battery	and
+det	meter	the
+compound	meter	voltage
+conj:and	battery	meter

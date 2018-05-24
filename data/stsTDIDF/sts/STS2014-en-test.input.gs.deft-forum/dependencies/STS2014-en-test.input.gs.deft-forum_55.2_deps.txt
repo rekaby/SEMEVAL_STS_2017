@@ -1,0 +1,11 @@
+advmod	read	personally
+nsubj	read	i
+aux	read	would
+root	ROOT	read
+det	bible	the
+dobj	read	bible
+mark	learn	to
+xcomp	read	learn
+case	christianity	about
+nmod:about	learn	christianity
+punct	read	.

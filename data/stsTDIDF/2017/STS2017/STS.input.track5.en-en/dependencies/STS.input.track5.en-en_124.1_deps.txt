@@ -1,0 +1,7 @@
+det	kid	A
+nsubj	talking	kid
+aux	talking	is
+root	ROOT	talking
+case	class	in
+nmod:in	talking	class
+punct	talking	.

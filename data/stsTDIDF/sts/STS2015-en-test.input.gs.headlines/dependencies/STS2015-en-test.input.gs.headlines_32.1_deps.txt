@@ -1,0 +1,9 @@
+compound	junta	Thai
+nsubj	amasses	junta
+root	ROOT	amasses
+compound	force	security
+dobj	amasses	force
+mark	smother	to
+advcl	amasses	smother
+dobj	smother	Bangkok
+dep	amasses	protests

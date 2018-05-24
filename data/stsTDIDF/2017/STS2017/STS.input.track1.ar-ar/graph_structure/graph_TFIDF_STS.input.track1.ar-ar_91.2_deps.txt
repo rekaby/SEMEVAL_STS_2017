@@ -1,0 +1,10 @@
+runabout	a	det
+ROOT	stealing	root
+runabout	vendor	compound
+stealing	runabout	nmod:from
+stealing	are	aux
+stealing	People	nsubj
+runabout	from	case
+runabout	food	compound
+stealing	.	punct
+stealing	food	dobj

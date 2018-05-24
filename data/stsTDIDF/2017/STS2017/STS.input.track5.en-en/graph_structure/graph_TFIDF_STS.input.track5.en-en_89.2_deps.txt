@@ -1,0 +1,11 @@
+working	guy	nsubj
+kicks	him	dobj
+farm	on	case
+farm	kicks	conj:and
+guy	An	det
+kicks	cow	nsubj
+farm	his	nmod:poss
+cow	a	det
+guy	old	amod
+working	farm	nmod:on
+farm	and	cc

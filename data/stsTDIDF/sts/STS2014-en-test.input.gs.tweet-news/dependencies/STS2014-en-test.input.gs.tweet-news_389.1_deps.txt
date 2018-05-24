@@ -1,0 +1,17 @@
+nsubj	is	Question
+root	ROOT	is
+punct	is	:
+dep	is	Does
+det	War	this
+amod	War	mean
+amod	War	Civil
+dobj	Does	War
+punct	is	?-9) advmod(not-2, Probably
+root	ROOT	not
+punct	not	.-3) cc(#Iraq-7, But
+advmod	situation	still
+neg	situation	not
+det	situation	a
+amod	situation	good
+compound	#Iraq	situation
+root	ROOT	#Iraq

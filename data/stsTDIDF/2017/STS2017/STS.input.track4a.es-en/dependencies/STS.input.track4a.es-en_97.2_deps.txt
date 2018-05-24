@@ -1,0 +1,8 @@
+nsubj	plane	THere
+cop	plane	is
+det	plane	a
+root	ROOT	plane
+case	hangar	in
+det	hangar	the
+nmod:in	plane	hangar
+punct	plane	.

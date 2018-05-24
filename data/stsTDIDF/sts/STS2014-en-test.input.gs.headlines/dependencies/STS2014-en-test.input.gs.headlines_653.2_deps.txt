@@ -1,0 +1,7 @@
+amod	president	Palestinian
+nsubj	wants	president
+root	ROOT	wants
+dobj	wants	Israelis
+mark	talk	to
+xcomp	wants	talk
+dobj	talk	peace

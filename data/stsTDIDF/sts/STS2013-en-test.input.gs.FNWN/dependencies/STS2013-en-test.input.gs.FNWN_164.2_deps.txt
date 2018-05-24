@@ -1,0 +1,10 @@
+root	ROOT	decide
+conj:and	decide	decide
+case	declaration	on
+cc	on	and
+conj:and	on	make
+det	declaration	a
+nmod:make	decide	declaration
+nmod:on	decide	declaration
+advmod	declaration	about
+punct	decide	;

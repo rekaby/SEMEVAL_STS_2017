@@ -1,0 +1,11 @@
+root	ROOT	take
+dobj	take	vows
+punct	vows	,
+dep	vows	join
+cc	join	or
+conj:or	join	allow
+mark	join	to
+xcomp	allow	join
+det	order	a
+amod	order	religious
+dobj	join	order

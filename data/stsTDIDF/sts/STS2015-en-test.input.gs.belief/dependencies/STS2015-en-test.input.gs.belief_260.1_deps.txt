@@ -1,0 +1,9 @@
+nsubj	live	they
+root	ROOT	live
+case	england	in
+nmod:in	live	england
+cc	live	and
+aux	speek	should
+conj:and	live	speek
+dobj	speek	english
+punct	live	!

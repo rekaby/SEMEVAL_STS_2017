@@ -1,0 +1,17 @@
+det	boy	A
+amod	boy	young
+nsubj	wore	boy
+dep	wore	becoming
+det	fool	a
+nsubj	wore	fool
+root	ROOT	wore
+nmod:poss	coat	his
+dobj	wore	coat
+case	head	on
+nmod:poss	head	his
+nmod:on	wore	head
+cc	wore	and
+conj:and	wore	holds
+det	goat	a
+dobj	holds	goat
+punct	wore	.

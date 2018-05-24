@@ -1,0 +1,5 @@
+collects	man	nsubj
+collects	garbage	dobj
+ROOT	collects	root
+garbage	all	det
+collects	.	punct

@@ -1,0 +1,9 @@
+det	man	The
+nsubj	stirred	man
+root	ROOT	stirred
+det	sauce	the
+dobj	stirred	sauce
+case	chicken	for
+det	chicken	the
+nmod:for	stirred	chicken
+punct	stirred	.

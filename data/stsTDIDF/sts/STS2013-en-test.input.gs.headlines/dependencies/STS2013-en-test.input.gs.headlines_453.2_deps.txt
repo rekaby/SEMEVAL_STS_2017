@@ -1,0 +1,9 @@
+nummod	dead	6
+root	ROOT	dead
+punct	missing	,
+amod	missing	several
+dep	dead	missing
+case	avalanche	in
+compound	avalanche	Mont
+compound	avalanche	Blanc
+nmod:in	missing	avalanche

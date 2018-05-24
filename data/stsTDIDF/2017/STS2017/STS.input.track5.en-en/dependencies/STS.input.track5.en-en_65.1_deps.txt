@@ -1,0 +1,7 @@
+det	man	a
+root	ROOT	man
+acl	man	working
+case	mill	at
+det	mill	the
+compound	mill	steel
+nmod:at	working	mill

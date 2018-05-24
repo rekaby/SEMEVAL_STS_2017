@@ -1,0 +1,5 @@
+nsubj	plays	Musician
+root	ROOT	plays
+det	guitar	the
+dobj	plays	guitar
+punct	plays	.

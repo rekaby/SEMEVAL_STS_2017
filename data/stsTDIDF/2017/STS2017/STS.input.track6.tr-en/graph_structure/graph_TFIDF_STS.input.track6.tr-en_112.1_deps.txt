@@ -1,0 +1,5 @@
+erupts	.	punct
+chorus	A	det
+ROOT	erupts	root
+erupts	chorus	nsubj
+chorus	large	amod

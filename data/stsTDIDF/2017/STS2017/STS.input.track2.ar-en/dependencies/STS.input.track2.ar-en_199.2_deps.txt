@@ -1,0 +1,11 @@
+det	man	The
+root	ROOT	man
+advmod	goofy	generally
+amod	man	goofy
+advmod	swimming	underwater
+mark	swimming	while
+advcl	goofy	swimming
+case	pool	in
+det	pool	a
+nmod:in	swimming	pool
+punct	man	.

@@ -1,0 +1,5 @@
+driving	people	nsubj
+driving	trucks	dobj
+driving	are	aux
+ROOT	driving	root
+driving	.	punct

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	bouncing	man
+cc	man	and
+nummod	boys	two
+conj:and	man	boys
+aux	bouncing	are
+root	ROOT	bouncing
+case	trampoline	on
+det	trampoline	a
+nmod:on	bouncing	trampoline
+punct	bouncing	.

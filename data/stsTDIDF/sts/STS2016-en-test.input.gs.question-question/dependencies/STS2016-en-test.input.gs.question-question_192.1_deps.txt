@@ -1,0 +1,17 @@
+advmod	Paying	How
+aux	Paying	does
+advcl	affect	Paying
+compound	card	credit
+dobj	Paying	card
+case	VS	in
+amod	VS	full
+nmod:in	affect	VS
+csubj	affect	paying
+case	interest	with
+nmod:with	paying	interest
+aux	affect	will
+root	ROOT	affect
+nmod:poss	score	your
+compound	score	credit
+dobj	affect	score
+punct	affect	?

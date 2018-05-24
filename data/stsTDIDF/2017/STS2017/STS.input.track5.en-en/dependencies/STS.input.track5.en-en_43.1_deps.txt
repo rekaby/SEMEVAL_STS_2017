@@ -1,0 +1,13 @@
+det	group	A
+nsubj	repair	group
+case	workers	of
+amod	workers	male
+compound	workers	construction
+nmod:of	group	workers
+root	ROOT	repair
+compound	tracks	railroad
+dobj	repair	tracks
+case	day	on
+det	day	a
+amod	day	cloudy
+nmod:on	repair	day

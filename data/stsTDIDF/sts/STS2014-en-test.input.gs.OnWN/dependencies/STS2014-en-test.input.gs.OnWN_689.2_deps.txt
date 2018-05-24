@@ -1,0 +1,7 @@
+det	appearance	the
+amod	appearance	general
+amod	appearance	outward
+root	ROOT	appearance
+case	something	of
+nmod:of	appearance	something
+punct	appearance	.

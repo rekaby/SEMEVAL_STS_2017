@@ -1,0 +1,11 @@
+root	ROOT	AOL
+mark	sell	to
+acl	AOL	sell
+nummod	patents	800
+dobj	sell	patents
+case	Microsoft	to
+nmod:to	sell	Microsoft
+case	$	for
+nmod:for	sell	$
+compound	billion	1
+nummod	$	billion

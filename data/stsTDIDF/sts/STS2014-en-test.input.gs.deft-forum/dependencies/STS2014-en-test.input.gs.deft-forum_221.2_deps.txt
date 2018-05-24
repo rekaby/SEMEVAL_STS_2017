@@ -1,0 +1,12 @@
+nsubj	make	That
+aux	make	would
+ccomp	think	make
+nsubj	sort	you
+det	sort	a
+xcomp	make	sort
+case	accessory	of
+nmod:of	sort	accessory
+punct	think	,
+nsubj	think	I
+root	ROOT	think
+punct	think	.

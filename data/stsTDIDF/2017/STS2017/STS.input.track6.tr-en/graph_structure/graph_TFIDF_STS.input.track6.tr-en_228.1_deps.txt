@@ -1,0 +1,10 @@
+board	.	punct
+ROOT	board	root
+windsurfer	A	det
+teal	in	case
+board	his	nmod:poss
+dressed	teal	nmod:in
+board	windsurfer	nsubj
+board	is	cop
+board	boogie	compound
+windsurfer	dressed	acl

@@ -1,0 +1,17 @@
+nummod	girls	2
+amod	girls	young
+nsubj	sitting	girls
+aux	sitting	are
+csubj	reading	sitting
+case	bookcase	in
+mwe	in	front
+mwe	in	of
+det	bookcase	a
+nmod:in_front_of	sitting	bookcase
+cc	bookcase	and
+conj:and	bookcase	1
+aux	reading	is
+root	ROOT	reading
+det	book	a
+dobj	reading	book
+punct	reading	.

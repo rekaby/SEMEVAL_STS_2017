@@ -1,0 +1,11 @@
+trousers	and	cc
+set	father	nmod:for
+wearing	trousers	dobj
+has	boy	nsubj
+has	set	xcomp
+trousers	black	amod
+trousers	shirts	conj:and
+boy	wearing	acl
+father	for	case
+shirts	gray	amod
+set	be	auxpass

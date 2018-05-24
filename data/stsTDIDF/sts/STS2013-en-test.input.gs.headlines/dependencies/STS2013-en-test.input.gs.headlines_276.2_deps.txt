@@ -1,0 +1,7 @@
+root	ROOT	Fla.
+punct	Fla.	.-2) nsubj(want-2, Democrats
+root	ROOT	want
+amod	hours	extended
+amod	voting	early
+compound	hours	voting
+dobj	want	hours

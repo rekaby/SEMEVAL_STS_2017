@@ -1,0 +1,8 @@
+nsubj	confirms	UK
+root	ROOT	confirms
+dobj	confirms	fears
+case	weapons	over
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+nmod:over	fears	weapons

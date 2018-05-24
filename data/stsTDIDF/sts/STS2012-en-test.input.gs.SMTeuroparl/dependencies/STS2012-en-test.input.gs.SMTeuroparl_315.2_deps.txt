@@ -1,0 +1,11 @@
+nsubj	enorgueillissons	We
+root	ROOT	enorgueillissons
+dobj	enorgueillissons	ourselves
+advmod	here	often
+advmod	enorgueillissons	here
+mark	represent	to
+advcl	enorgueillissons	represent
+det	citizens	the
+amod	citizens	European
+dobj	represent	citizens
+punct	enorgueillissons	.

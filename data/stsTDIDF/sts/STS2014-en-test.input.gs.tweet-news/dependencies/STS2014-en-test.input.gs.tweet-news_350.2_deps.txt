@@ -1,0 +1,10 @@
+compound	Blog	Bits
+root	ROOT	Blog
+punct	Blog	:
+compound	Right	A
+nmod:npmod	Away	Right
+mark	Unlock	to
+acl	Right	Unlock
+compound	Fades	Cellphones
+dobj	Unlock	Fades
+advmod	Blog	Away

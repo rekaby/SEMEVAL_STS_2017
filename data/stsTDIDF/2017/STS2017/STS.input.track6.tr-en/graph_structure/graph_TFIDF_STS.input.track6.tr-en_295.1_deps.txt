@@ -1,0 +1,5 @@
+cowboy	riding	acl
+cowboy	.	punct
+cowboy	A	det
+riding	horse	dobj
+ROOT	cowboy	root

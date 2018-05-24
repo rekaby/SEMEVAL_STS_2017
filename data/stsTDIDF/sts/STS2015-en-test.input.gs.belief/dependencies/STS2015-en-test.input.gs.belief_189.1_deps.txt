@@ -1,0 +1,14 @@
+compound	nobody	george0b1
+nsubj	said	nobody
+case	thread	on
+det	thread	this
+nmod:on	nobody	thread
+aux	said	has
+root	ROOT	said
+det	word	a
+amod	word	good
+dobj	said	word
+case	vietnam	about
+compound	vietnam	north
+nmod:about	word	vietnam
+punct	said	.

@@ -1,0 +1,10 @@
+root	ROOT	make
+det	channel	a
+dobj	make	channel
+acl	channel	for
+punct	make	;
+parataxis	make	provide
+case	channel	with
+det	channel	a
+nmod:with	provide	channel
+punct	make	.

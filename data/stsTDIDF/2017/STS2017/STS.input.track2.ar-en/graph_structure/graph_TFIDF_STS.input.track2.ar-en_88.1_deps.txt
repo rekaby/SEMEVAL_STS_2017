@@ -1,0 +1,4 @@
+plays	father	nsubj
+plays	catch	dobj
+son	with	case
+plays	son	nmod:with

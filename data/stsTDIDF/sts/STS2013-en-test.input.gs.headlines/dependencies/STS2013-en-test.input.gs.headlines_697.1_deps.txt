@@ -1,0 +1,12 @@
+compound	Cross	Red
+nsubj	says	Cross
+root	ROOT	says
+xcomp	says	negotiating
+dobj	negotiating	halt
+mark	fighting	to
+advcl	negotiating	fighting
+case	Syria	in
+nmod:in	fighting	Syria
+mark	take	to
+xcomp	fighting	take
+dobj	take	aid

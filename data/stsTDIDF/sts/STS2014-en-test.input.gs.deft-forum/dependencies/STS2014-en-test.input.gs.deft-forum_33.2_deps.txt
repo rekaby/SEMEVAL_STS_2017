@@ -1,0 +1,4 @@
+advmod	expensive	More
+amod	cars	expensive
+root	ROOT	cars
+punct	cars	.

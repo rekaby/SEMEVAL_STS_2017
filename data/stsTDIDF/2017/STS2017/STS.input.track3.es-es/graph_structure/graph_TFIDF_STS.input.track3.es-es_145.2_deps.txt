@@ -1,0 +1,10 @@
+forest	through	case
+jogging	,	punct
+jogging	forest	nmod:through
+ROOT	jogging	root
+jogging	.	punct
+forest	a	det
+jogging	Man	compound
+path	on	case
+jogging	path	nmod:on
+forest	large	amod

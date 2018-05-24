@@ -1,0 +1,8 @@
+det	man	A
+nsubj	tying	man
+aux	tying	is
+root	ROOT	tying
+case	machine	in
+det	machine	the
+nmod:in	tying	machine
+punct	tying	.

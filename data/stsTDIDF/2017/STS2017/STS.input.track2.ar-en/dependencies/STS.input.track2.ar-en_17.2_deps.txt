@@ -1,0 +1,14 @@
+compound	earrings	Woman
+acl	Woman	wearing
+dobj	wearing	glasses
+punct	earrings	,
+amod	earrings	big
+root	ROOT	earrings
+punct	earrings	,
+cc	earrings	and
+det	lid	a
+conj:and	earrings	lid
+case	head	on
+nmod:poss	head	her
+nmod:on	lid	head
+punct	earrings	.

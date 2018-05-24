@@ -1,0 +1,23 @@
+amod	Laws	Weak
+compound	Laws	Protection
+root	ROOT	Laws
+case	Workers	For
+amod	Workers	Domestic
+nmod:for	Laws	Workers
+punct	Laws	:
+amod	execution	Saudi
+dep	Laws	execution
+punct	execution	:
+dep	execution	Brutal
+punct	Brutal	,
+conj:and	Brutal	inhuman
+cc	Brutal	and
+conj:and	Brutal	illegal
+punct	Laws	?-16) root(ROOT-0, -
+nsubj	-	CNN
+dep	CNN	#p
+nummod	#p	2
+dep	#p	#p
+nummod	#tcot	21
+dep	#p	#tcot
+dep	#p	#ccot

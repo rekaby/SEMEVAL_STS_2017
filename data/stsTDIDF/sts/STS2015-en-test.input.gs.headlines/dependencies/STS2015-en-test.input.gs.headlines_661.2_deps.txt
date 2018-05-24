@@ -1,0 +1,8 @@
+nmod:poss	population	China
+case	China	's
+amod	population	online
+nsubj	rises	population
+root	ROOT	rises
+case	618	to
+nmod:to	rises	618
+dobj	rises	mln

@@ -1,0 +1,10 @@
+root	ROOT	cause
+cc	cause	or
+conj:or	cause	become
+amod	state	accessible
+xcomp	become	state
+punct	cause	,
+conj:or	cause	make
+cc	cause	or
+conj:or	cause	become
+amod	cause	available

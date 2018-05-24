@@ -1,0 +1,17 @@
+det	pound	The
+nsubj	made	pound
+advmod	made	also
+root	ROOT	made
+dobj	made	progress
+case	dollar	against
+det	dollar	the
+nmod:against	progress	dollar
+punct	made	,
+advcl	made	reached
+amod	highs	fresh
+amod	highs	three-year
+dobj	reached	highs
+case	$	at
+nmod:at	reached	$
+nummod	$	1.6789
+punct	made	.

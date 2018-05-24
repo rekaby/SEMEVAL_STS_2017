@@ -1,0 +1,16 @@
+compound	analysts	Gartner
+nsubj	said	analysts
+root	ROOT	said
+mark	feeling	that
+nsubj	feeling	businesses
+aux	feeling	are
+neg	feeling	not
+advmod	feeling	yet
+ccomp	said	feeling
+xcomp	feeling	confident
+xcomp	confident	enough
+mark	upgrade	to
+xcomp	enough	upgrade
+amod	PCs	corporate
+dobj	upgrade	PCs
+punct	said	.

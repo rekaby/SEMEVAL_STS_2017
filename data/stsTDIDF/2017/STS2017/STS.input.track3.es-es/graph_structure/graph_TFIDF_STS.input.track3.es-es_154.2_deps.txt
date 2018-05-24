@@ -1,0 +1,9 @@
+front	bus	nmod:of
+bus	carrying	acl
+turning	car	nsubj
+turning	is	aux
+bus	of	case
+turning	front	dobj
+turning	in	compound:prt
+car	A	det
+carrying	passengers	dobj

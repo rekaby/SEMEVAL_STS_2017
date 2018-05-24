@@ -1,0 +1,9 @@
+compound	presses	UN
+compound	presses	chief
+root	ROOT	presses
+case	boost	for
+amod	boost	major
+nmod:for	presses	boost
+case	aid	in
+amod	aid	Syrian
+nmod:in	boost	aid

@@ -1,0 +1,13 @@
+case	general	In
+nmod:in	considered	general
+nsubjpass	considered	they
+auxpass	considered	are
+neg	considered	not
+root	ROOT	considered
+xcomp	considered	dangerous
+mark	attack	because
+nsubj	attack	they
+advmod	attack	rarely
+advcl	considered	attack
+dobj	attack	humans
+punct	considered	.

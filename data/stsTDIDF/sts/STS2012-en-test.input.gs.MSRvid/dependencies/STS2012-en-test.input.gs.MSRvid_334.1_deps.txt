@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+det	tomatoes	some
+dobj	slicing	tomatoes
+punct	slicing	.

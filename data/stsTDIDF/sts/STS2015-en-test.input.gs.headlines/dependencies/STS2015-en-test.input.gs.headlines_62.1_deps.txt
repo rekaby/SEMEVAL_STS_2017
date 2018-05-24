@@ -1,0 +1,8 @@
+compound	Miller	Sienna
+nsubj	testifies	Miller
+root	ROOT	testifies
+case	trial	at
+compound	trial	UK
+compound	trial	phone
+compound	trial	hacking
+nmod:at	testifies	trial

@@ -1,0 +1,12 @@
+advmod	studying	When
+advcl	used	studying
+amod	IQ	adult
+nsubjpass	used	IQ
+punct	IQ	,
+amod	norms	general
+amod	norms	adult
+conj	IQ	norms
+auxpass	used	are
+advmod	used	often
+root	ROOT	used
+punct	used	.

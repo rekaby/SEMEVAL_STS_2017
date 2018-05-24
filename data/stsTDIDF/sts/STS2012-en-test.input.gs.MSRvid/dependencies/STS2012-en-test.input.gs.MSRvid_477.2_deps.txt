@@ -1,0 +1,10 @@
+det	man	The
+nsubj	added	man
+root	ROOT	added
+dobj	added	seasoning
+case	water	to
+nmod:to	added	water
+case	bowl	in
+det	bowl	a
+nmod:in	water	bowl
+punct	added	.

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	jumping	man
+aux	jumping	is
+root	ROOT	jumping
+case	trampoline	on
+det	trampoline	the
+nmod:on	jumping	trampoline
+punct	jumping	.

@@ -1,0 +1,9 @@
+det	orchestra	An
+nsubj	tuning	orchestra
+cop	tuning	is
+root	ROOT	tuning
+case	rehearsal	for
+det	rehearsal	a
+amod	rehearsal	private
+nmod:for	tuning	rehearsal
+punct	tuning	.

@@ -1,0 +1,9 @@
+compound	Tsarnaev	Dzhokhar
+nsubj	pleads	Tsarnaev
+root	ROOT	pleads
+neg	guilty	not
+amod	charges	guilty
+case	bombing	to
+compound	bombing	Boston
+nmod:to	guilty	bombing
+dobj	pleads	charges

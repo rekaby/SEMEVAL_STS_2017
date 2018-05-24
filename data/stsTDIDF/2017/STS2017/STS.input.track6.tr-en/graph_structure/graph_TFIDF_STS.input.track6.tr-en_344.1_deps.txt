@@ -1,0 +1,7 @@
+dock	the	det
+day	dock	nmod:on
+running	day	nmod:on
+dock	on	case
+running	guy	nsubj
+day	pretty	amod
+guy	A	det

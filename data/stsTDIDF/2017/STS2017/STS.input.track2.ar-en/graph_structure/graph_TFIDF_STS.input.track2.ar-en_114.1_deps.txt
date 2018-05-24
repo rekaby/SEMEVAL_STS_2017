@@ -1,0 +1,10 @@
+whipping	worker	nsubj
+worker	male	amod
+worker	A	det
+whipping	.	punct
+male	female	conj:and
+male	and	cc
+whipping	meal	nmod:up
+ROOT	whipping	root
+whipping	is	cop
+meal	up	case

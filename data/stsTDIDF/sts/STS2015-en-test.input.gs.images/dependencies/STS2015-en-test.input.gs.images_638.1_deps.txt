@@ -1,0 +1,11 @@
+det	dog	The
+compound	dog	tan
+cc	tan	and
+conj:and	tan	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	field	in
+det	field	the
+nmod:in	running	field
+punct	running	.

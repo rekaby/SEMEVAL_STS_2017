@@ -1,0 +1,9 @@
+nsubj	monitors	UN
+root	ROOT	monitors
+amod	killings	unable
+mark	reach	to
+xcomp	unable	reach
+dobj	reach	site
+case	Syria	of
+nmod:of	site	Syria
+dobj	monitors	killings

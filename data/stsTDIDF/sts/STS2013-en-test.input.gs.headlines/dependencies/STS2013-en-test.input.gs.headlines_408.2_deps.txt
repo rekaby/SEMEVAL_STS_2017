@@ -1,0 +1,7 @@
+nsubj	go	Egyptians
+root	ROOT	go
+case	polls	to
+nmod:to	go	polls
+case	election	in
+amod	election	historic
+nmod:in	polls	election

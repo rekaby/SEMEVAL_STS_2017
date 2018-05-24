@@ -1,0 +1,16 @@
+cc	understand	and
+nsubj	understand	all
+case	few	to
+nmod:to	all	few
+root	ROOT	understand
+punct	understand	,
+advmod	done	therefore
+nsubjpass	done	nothing
+aux	done	will
+auxpass	done	be
+dep	understand	done
+mark	avoid	to
+xcomp	done	avoid
+det	slide	the
+dobj	avoid	slide
+punct	understand	.

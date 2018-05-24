@@ -1,0 +1,11 @@
+det	standing	A
+amod	standing	black
+cc	black	and
+conj:and	black	tan
+compound	standing	dog
+root	ROOT	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+case	trees	near
+nmod:near	field	trees

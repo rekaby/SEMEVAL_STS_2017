@@ -1,0 +1,9 @@
+root	ROOT	Women
+case	factory	in
+det	factory	a
+compound	factory	sewing
+nmod:in	Women	factory
+case	fabric	with
+amod	fabric	red
+nmod:with	factory	fabric
+punct	Women	.

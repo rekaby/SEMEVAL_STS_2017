@@ -1,0 +1,11 @@
+root	ROOT	was
+nsubj	was	it
+mark	gruelling	as
+acl	it	gruelling
+case	them	for
+nmod:for	gruelling	them
+mark	imagining	as
+nsubj	imagining	i
+aux	imagining	'm
+advcl	gruelling	imagining
+punct	was	?

@@ -1,0 +1,10 @@
+det	boy	A
+nsubj	riding	boy
+aux	riding	is
+root	ROOT	riding
+det	bike	a
+dobj	riding	bike
+case	gate	on
+det	gate	a
+nmod:on	riding	gate
+punct	riding	.

@@ -1,0 +1,13 @@
+det	bird	A
+amod	bird	small
+nsubj	perches	bird
+root	ROOT	perches
+case	bird	on
+det	bird	the
+nmod:on	perches	bird
+dep	bird	feeder
+acl	feeder	hanging
+case	tree	from
+det	tree	the
+nmod:from	hanging	tree
+punct	perches	.

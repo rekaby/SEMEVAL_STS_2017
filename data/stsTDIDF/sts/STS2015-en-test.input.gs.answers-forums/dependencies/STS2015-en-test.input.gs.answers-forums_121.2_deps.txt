@@ -1,0 +1,13 @@
+det	rate	The
+compound	rate	USSR
+compound	rate	growth
+root	ROOT	rate
+mark	high	during
+det	50	the
+nsubj	high	50
+case	50	's
+cop	high	was
+neg	high	not
+advmod	high	exceptionally
+acl	rate	high
+punct	rate	.

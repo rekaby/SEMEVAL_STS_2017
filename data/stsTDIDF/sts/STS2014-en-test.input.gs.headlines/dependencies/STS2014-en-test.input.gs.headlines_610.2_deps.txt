@@ -1,0 +1,7 @@
+compound	Tsarnaev	Dzhokhar
+nsubj	charged	Tsarnaev
+root	ROOT	charged
+case	bombing	in
+compound	bombing	Boston
+compound	bombing	Marathon
+nmod:in	charged	bombing

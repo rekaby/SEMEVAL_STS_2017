@@ -1,0 +1,14 @@
+nsubj	stated	afriforum
+root	ROOT	stated
+mark	organize	that
+det	group	the
+nsubj	organize	group
+aux	organize	would
+ccomp	stated	organize
+dobj	organize	protests
+case	route	along
+det	route	the
+nmod:along	organize	route
+case	zimbabwe	to
+nmod:to	route	zimbabwe
+punct	stated	.

@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	large
+nsubj	running	dogs
+root	ROOT	running
+case	grass	in
+det	grass	some
+nmod:in	running	grass
+punct	running	.

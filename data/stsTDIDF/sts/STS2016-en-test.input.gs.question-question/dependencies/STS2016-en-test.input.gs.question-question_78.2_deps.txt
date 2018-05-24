@@ -1,0 +1,9 @@
+advmod	wire	How
+aux	wire	do
+nsubj	wire	I
+root	ROOT	wire
+det	fan	a
+compound	fan	replacement
+compound	fan	ceiling
+dobj	wire	fan
+punct	wire	?

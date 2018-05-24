@@ -1,0 +1,6 @@
+amod	police	Turkish
+compound	police	riot
+nsubj	enter	police
+root	ROOT	enter
+compound	Square	Taksim
+dobj	enter	Square

@@ -1,0 +1,12 @@
+nsubj	read	You
+aux	read	should
+root	ROOT	read
+dobj	read	this
+punct	this	:
+det	Lifting	The
+dep	this	Lifting
+case	Veil	of
+det	Veil	a
+nmod:of	Lifting	Veil
+punct	Veil	,
+appos	Veil	Discreetly

@@ -1,0 +1,6 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	sand	across
+det	sand	the
+nmod:across	running	sand

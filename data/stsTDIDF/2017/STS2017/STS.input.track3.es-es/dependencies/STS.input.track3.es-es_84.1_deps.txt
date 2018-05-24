@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	harvesting
+nmod:poss	crops	her
+dobj	harvesting	crops
+case	area	in
+det	area	a
+amod	area	swampy
+nmod:in	harvesting	area
+punct	woman	.

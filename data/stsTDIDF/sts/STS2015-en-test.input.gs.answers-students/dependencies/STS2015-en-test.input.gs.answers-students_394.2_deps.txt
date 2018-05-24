@@ -1,0 +1,9 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+nsubj	is	path
+acl	path	containing
+cc:preconj	Z	both
+dobj	containing	Z
+cc	Z	and
+conj:and	Z	C

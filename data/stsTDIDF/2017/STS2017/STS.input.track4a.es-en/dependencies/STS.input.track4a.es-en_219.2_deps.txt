@@ -1,0 +1,16 @@
+det	child	A
+amod	child	female
+nsubj	turns	child
+root	ROOT	turns
+det	page	the
+dobj	turns	page
+case	book	of
+det	book	a
+nmod:of	page	book
+mark	sits	while
+nsubj	sits	she
+advcl	turns	sits
+case	stool	on
+det	stool	a
+amod	stool	colorful
+nmod:on	sits	stool

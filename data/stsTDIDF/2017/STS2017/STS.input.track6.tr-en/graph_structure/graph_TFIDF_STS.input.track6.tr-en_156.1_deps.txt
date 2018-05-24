@@ -1,0 +1,8 @@
+kids	Three	nummod
+read	story	dobj
+sit	listen	conj:and
+sit	read	xcomp
+listen	librarian	nmod:to
+librarian	a	det
+sit	kids	nsubj
+librarian	to	case

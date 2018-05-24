@@ -1,0 +1,15 @@
+det	set	a
+root	ROOT	set
+acl	set	containing
+dobj	containing	all
+cc	all	and
+conj:and	all	only
+det	members	the
+dep	all	members
+case	sets	of
+nummod	sets	two
+cc	two	or
+conj:or	two	more
+amod	sets	given
+nmod:of	members	sets
+punct	set	.

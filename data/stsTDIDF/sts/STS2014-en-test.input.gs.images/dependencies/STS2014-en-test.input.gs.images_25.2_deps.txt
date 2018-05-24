@@ -1,0 +1,7 @@
+det	grazing	A
+compound	grazing	sheep
+root	ROOT	grazing
+case	field	in
+det	field	a
+nmod:in	grazing	field
+punct	grazing	.

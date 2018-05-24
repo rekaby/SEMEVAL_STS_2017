@@ -1,0 +1,10 @@
+amod	forces	Syrian
+nsubj	hit	forces
+root	ROOT	hit
+dobj	hit	mosque
+case	bomb	with
+compound	bomb	barrel
+nmod:with	hit	bomb
+punct	hit	,
+conj	hit	kill
+dobj	kill	5

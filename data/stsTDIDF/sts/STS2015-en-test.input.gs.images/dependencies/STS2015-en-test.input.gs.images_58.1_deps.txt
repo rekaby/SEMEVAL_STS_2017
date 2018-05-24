@@ -1,0 +1,12 @@
+nummod	men	Two
+amod	men	Asian
+nsubj	sit	men
+cc	men	and
+amod	woman	Asian
+conj:and	men	woman
+root	ROOT	sit
+case	chairs	in
+amod	chairs	black
+compound	chairs	massage
+nmod:in	sit	chairs
+punct	sit	.

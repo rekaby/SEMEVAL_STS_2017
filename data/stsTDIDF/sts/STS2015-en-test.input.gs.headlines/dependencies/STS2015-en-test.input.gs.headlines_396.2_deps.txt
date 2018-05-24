@@ -1,0 +1,6 @@
+nsubj	pray	Muslims
+root	ROOT	pray
+case	end	for
+nmod:for	pray	end
+case	divisions	to
+nmod:to	pray	divisions

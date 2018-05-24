@@ -1,0 +1,6 @@
+root	ROOT	creating
+det	picture	a
+dobj	creating	picture
+case	paints	with
+nmod:with	picture	paints
+punct	creating	.

@@ -1,0 +1,8 @@
+compound	C	Bulb
+nsubj	path	C
+cop	path	was
+case	path	in
+det	path	an
+amod	path	open
+root	ROOT	path
+punct	path	,

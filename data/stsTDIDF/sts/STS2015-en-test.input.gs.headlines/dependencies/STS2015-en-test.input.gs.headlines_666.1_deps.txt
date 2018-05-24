@@ -1,0 +1,7 @@
+nsubj	appears	Burial
+case	suspect	of
+compound	suspect	Boston
+compound	suspect	bombing
+nmod:of	Burial	suspect
+root	ROOT	appears
+xcomp	appears	legal

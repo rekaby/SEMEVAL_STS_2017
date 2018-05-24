@@ -1,0 +1,13 @@
+nmod:poss	success	Moscow
+case	Moscow	's
+compound	success	Crimea
+nsubj	lead	success
+aux	lead	could
+root	ROOT	lead
+xcomp	lead	to
+dobj	to	it
+acl	it	redrawing
+nmod:poss	border	Ukraine
+case	Ukraine	's
+amod	border	eastern
+dobj	redrawing	border

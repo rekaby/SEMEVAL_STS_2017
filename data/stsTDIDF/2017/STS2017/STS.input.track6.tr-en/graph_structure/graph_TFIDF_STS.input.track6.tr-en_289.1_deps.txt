@@ -1,0 +1,7 @@
+deciding	.	punct
+fish	which	det
+deciding	men	nsubj
+deciding	are	aux
+deciding	fish	dobj
+fish	want	acl:relcl
+ROOT	deciding	root

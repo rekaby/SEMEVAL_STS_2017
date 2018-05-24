@@ -1,0 +1,9 @@
+compound	Moves	Backstage
+nsubj	Widens	Moves
+acl	Moves	Intensify
+case	Fight	as
+nmod:as	Intensify	Fight
+case	State	Against
+amod	State	Islamic
+nmod:against	Fight	State
+root	ROOT	Widens

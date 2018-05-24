@@ -1,0 +1,7 @@
+nummod	soldiers	4
+amod	soldiers	Egyptian
+nsubj	ambush	soldiers
+acl	soldiers	killed
+case	Sinai	in
+nmod:in	killed	Sinai
+root	ROOT	ambush

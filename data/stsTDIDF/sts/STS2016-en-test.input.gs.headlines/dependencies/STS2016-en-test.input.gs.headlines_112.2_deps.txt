@@ -1,0 +1,6 @@
+compound	inspectors	Debt
+nsubj	reach	inspectors
+root	ROOT	reach
+dobj	reach	agreement
+case	Greece	with
+nmod:with	agreement	Greece

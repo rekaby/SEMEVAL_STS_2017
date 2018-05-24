@@ -1,0 +1,17 @@
+root	ROOT	What
+cop	What	's
+det	way	the
+amod	way	best
+nsubj	What	way
+mark	run	to
+acl	way	run
+det	wire	a
+dobj	run	wire
+case	garage	from
+case	garage	inside
+nmod:poss	garage	my
+nmod:inside	run	garage
+case	outside	to
+det	outside	the
+nmod:to	run	outside
+punct	What	?

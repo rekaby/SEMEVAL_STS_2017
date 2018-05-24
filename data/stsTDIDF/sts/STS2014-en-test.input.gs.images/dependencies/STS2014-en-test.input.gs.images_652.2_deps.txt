@@ -1,0 +1,11 @@
+amod	cat	Calico
+root	ROOT	cat
+acl	cat	sitting
+case	step	on
+nmod:on	sitting	step
+case	door	in
+mwe	in	front
+mwe	in	of
+det	door	a
+nmod:in_front_of	step	door
+punct	cat	.

@@ -1,0 +1,11 @@
+det	rider	The
+amod	rider	young
+nsubj	takes	rider
+root	ROOT	takes
+det	ride	a
+dobj	takes	ride
+case	horse	on
+det	horse	the
+amod	horse	brown
+nmod:on	ride	horse
+punct	takes	.

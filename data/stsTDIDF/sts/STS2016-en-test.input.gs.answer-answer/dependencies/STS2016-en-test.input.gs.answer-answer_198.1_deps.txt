@@ -1,0 +1,8 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	habit	it
+cop	habit	's
+advmod	habit	just
+det	habit	a
+ccomp	think	habit
+punct	think	.

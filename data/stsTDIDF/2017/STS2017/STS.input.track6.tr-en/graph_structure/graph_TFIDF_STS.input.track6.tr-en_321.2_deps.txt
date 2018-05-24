@@ -1,0 +1,8 @@
+performance	people	nmod:of
+watches	performance	dobj
+watches	.	punct
+audience	An	det
+watches	audience	nsubj
+people	yellow	nmod:in
+yellow	in	case
+ROOT	watches	root

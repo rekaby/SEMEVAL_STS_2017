@@ -1,0 +1,11 @@
+det	woman	An
+amod	woman	elderly
+nsubj	rides	woman
+root	ROOT	rides
+det	bicycle	a
+dobj	rides	bicycle
+case	street	along
+det	street	a
+compound	street	city
+nmod:along	bicycle	street
+punct	rides	.

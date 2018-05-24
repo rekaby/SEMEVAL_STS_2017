@@ -1,0 +1,9 @@
+ROOT	lady	root
+lady	man	conj:and
+lady	sitting	acl
+sitting	reading	nmod:on
+reading	on	case
+sweats	in	case
+sitting	sweats	nmod:in
+reading	couch	compound
+lady	and	cc

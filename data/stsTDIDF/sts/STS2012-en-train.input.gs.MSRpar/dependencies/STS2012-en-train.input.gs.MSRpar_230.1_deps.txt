@@ -1,0 +1,18 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-6) nsubj(edged-2, DJI
+root	ROOT	edged
+case	points	up
+nummod	points	13.33
+nmod:up	edged	points
+punct	points	,
+cc	points	or
+nummod	percent	0.15
+conj:or	points	percent
+punct	points	,
+case	9,196.55	to
+nmod:to	points	9,196.55
+punct	edged	.

@@ -1,0 +1,7 @@
+root	ROOT	Police
+punct	Police	:
+nsubj	leads	YouTube
+dep	Police	leads
+mark	pot	to
+xcomp	leads	pot
+dobj	pot	bust

@@ -1,0 +1,16 @@
+compound	Mallard	Chante
+compound	Mallard	Jawan
+root	ROOT	Mallard
+punct	Mallard	,
+dep	Mallard	27
+punct	Mallard	,
+dep	Mallard	went
+case	trial	on
+nmod:on	went	trial
+nmod:tmod	went	Monday
+punct	Mallard	,
+acl	Mallard	charged
+case	murder	with
+amod	murder	first-degree
+nmod:with	charged	murder
+punct	Mallard	.

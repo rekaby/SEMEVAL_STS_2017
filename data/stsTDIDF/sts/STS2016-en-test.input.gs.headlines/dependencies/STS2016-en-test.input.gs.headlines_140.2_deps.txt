@@ -1,0 +1,11 @@
+nsubj	cools	AbbVie
+root	ROOT	cools
+case	$	on
+nmod:on	cools	$
+nummod	$	55bn
+compound	deal	Shire
+dep	$	deal
+case	changes	after
+compound	changes	US
+compound	changes	tax
+nmod:after	deal	changes

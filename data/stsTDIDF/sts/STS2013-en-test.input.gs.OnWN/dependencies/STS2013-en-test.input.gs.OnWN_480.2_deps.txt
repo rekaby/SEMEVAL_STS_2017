@@ -1,0 +1,13 @@
+det	arc	the
+amod	arc	graduated
+root	ROOT	arc
+nsubjpass	attached	that
+auxpass	attached	is
+acl:relcl	arc	attached
+case	instrument	to
+det	instrument	an
+nmod:to	attached	instrument
+mark	measuring	for
+acl	instrument	measuring
+dobj	measuring	angles
+punct	arc	.

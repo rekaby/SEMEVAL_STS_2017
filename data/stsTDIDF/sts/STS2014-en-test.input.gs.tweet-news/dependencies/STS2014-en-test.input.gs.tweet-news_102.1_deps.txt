@@ -1,0 +1,7 @@
+root	ROOT	Boosting
+nmod:poss	Response	Your
+compound	Response	#Flu
+compound	Response	Shot
+dobj	Boosting	Response
+case	#Exercise	With
+nmod:with	Boosting	#Exercise

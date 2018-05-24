@@ -1,0 +1,13 @@
+det	activity	the
+amod	activity	principal
+root	ROOT	activity
+case	life	in
+nmod:poss	life	your
+nmod:in	activity	life
+dobj	do	that
+nsubj	do	you
+acl:relcl	activity	do
+mark	earn	to
+xcomp	do	earn
+dobj	earn	money
+punct	activity	.

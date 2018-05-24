@@ -1,0 +1,14 @@
+root	ROOT	fill
+conj:or	fill	fill
+cc	fill	or
+conj:or	fill	close
+advmod	fill	tightly
+case	plug	with
+cc	with	or
+conj:or	with	as
+dep	plug	if
+case	plug	with
+det	plug	a
+nmod:as	fill	plug
+nmod:with	fill	plug
+punct	fill	.

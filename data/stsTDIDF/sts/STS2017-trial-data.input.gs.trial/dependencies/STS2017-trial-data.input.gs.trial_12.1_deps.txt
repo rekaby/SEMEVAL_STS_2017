@@ -1,0 +1,7 @@
+nsubj	demands	Mayawati
+root	ROOT	demands
+nmod:poss	rule	president
+case	president	's
+dobj	demands	rule
+case	Kashmir	in
+nmod:in	rule	Kashmir

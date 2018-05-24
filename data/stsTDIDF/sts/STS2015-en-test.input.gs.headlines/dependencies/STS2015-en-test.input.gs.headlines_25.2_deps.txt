@@ -1,0 +1,8 @@
+amod	plane	Chinese
+compound	plane	search
+nsubj	finds	plane
+root	ROOT	finds
+punct	objects	`
+amod	objects	suspicious
+dobj	finds	objects
+case	objects	'

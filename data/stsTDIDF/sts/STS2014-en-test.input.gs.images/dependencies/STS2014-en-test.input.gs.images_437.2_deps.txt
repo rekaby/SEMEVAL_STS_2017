@@ -1,0 +1,11 @@
+compound	coast	Ocean
+compound	coast	liner
+case	coast	close
+mwe	close	to
+root	ROOT	coast
+case	houses	with
+nmod:with	coast	houses
+case	background	in
+det	background	the
+nmod:in	houses	background
+punct	coast	.

@@ -1,0 +1,10 @@
+root	ROOT	add
+dobj	add	cream
+case	coffee	to
+nmod:poss	coffee	one
+case	one	's
+nmod:to	add	coffee
+punct	add	,
+case	example	for
+nmod:for	add	example
+punct	add	.

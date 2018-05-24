@@ -1,0 +1,13 @@
+det	man	A
+amod	man	young
+nsubj	kissing	man
+cc	man	and
+conj:and	man	woman
+acl	woman	sitting
+case	bench	on
+det	bench	a
+nmod:on	sitting	bench
+advmod	sitting	outside
+aux	kissing	are
+root	ROOT	kissing
+punct	kissing	.

@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	applying	girl
+aux	applying	is
+root	ROOT	applying
+dobj	applying	makeup
+case	face	on
+nmod:poss	face	her
+nmod:on	applying	face
+punct	applying	.

@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	running	boy
+aux	running	is
+root	ROOT	running
+case	beach	on
+det	beach	a
+nmod:on	running	beach
+punct	running	.

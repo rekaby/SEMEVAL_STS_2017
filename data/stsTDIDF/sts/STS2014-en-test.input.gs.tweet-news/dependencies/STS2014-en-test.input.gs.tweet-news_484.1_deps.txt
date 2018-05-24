@@ -1,0 +1,16 @@
+root	ROOT	Finally
+det	RESPECT	a
+amod	RESPECT	little
+dep	Finally	RESPECT
+case	Vets	for
+nmod:for	RESPECT	Vets
+punct	Finally	!-7) compound(Plans-2, Wal-Mart
+root	ROOT	Plans
+mark	Hire	to
+acl	Plans	Hire
+det	Veteran	Any
+dobj	Hire	Veteran
+nsubj	Wants	Who
+acl:relcl	Veteran	Wants
+det	Job	a
+dobj	Wants	Job

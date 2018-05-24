@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	white
+root	ROOT	dog
+acl	dog	running
+case	beach	on
+det	beach	the
+nmod:on	running	beach
+punct	dog	.

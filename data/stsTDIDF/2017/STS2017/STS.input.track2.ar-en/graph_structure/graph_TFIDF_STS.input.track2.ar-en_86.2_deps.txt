@@ -1,0 +1,4 @@
+shoes	near	case
+shoes	the	det
+boy	shoes	nmod:near
+is	boy	nsubj

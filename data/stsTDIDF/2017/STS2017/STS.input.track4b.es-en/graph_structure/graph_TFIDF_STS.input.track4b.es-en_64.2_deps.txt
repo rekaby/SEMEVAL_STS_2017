@@ -1,0 +1,6 @@
+business	deeply	advmod
+deeply	very	advmod
+things	business	nmod:in
+thinks	things	nmod:of
+do	thinks	parataxis
+thinks	one	nsubj

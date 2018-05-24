@@ -1,0 +1,9 @@
+det	jockey	A
+root	ROOT	jockey
+acl	jockey	riding
+det	horse	a
+dobj	riding	horse
+case	pen	in
+det	pen	a
+nmod:in	riding	pen
+punct	jockey	.

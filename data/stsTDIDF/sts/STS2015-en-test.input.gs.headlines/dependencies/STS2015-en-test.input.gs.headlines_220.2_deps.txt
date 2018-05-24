@@ -1,0 +1,5 @@
+compound	Mandela	Nelson
+nmod:poss	condition	Mandela
+case	Mandela	's
+nsubj	improves	condition
+root	ROOT	improves

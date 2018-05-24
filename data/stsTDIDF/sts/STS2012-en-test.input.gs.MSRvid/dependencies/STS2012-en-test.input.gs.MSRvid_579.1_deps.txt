@@ -1,0 +1,8 @@
+det	child	A
+nsubj	playing	child
+aux	playing	is
+root	ROOT	playing
+det	game	a
+compound	game	computer
+dobj	playing	game
+punct	playing	.

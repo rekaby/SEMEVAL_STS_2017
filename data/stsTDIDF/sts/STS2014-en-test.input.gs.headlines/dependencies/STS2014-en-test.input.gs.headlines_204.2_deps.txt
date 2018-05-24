@@ -1,0 +1,8 @@
+compound	Talks	Iran
+compound	Talks	Nuclear
+nsubj	Hopes	Talks
+case	High	in
+compound	High	Geneva
+compound	High	Spur
+nmod:in	Talks	High
+root	ROOT	Hopes

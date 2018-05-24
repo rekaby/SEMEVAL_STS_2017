@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	explaining	of
+acl	act	explaining
+punct	act	;
+dep	act	making
+dobj	making	something
+dep	something	plain
+cc	plain	or
+conj:or	plain	intelligible
+punct	act	.

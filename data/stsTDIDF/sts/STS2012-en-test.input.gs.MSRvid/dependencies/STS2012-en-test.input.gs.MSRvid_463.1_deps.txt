@@ -1,0 +1,9 @@
+nummod	kittens	Five
+nsubj	eating	kittens
+aux	eating	are
+root	ROOT	eating
+case	dishes	out
+mwe	out	of
+nummod	dishes	five
+nmod:out_of	eating	dishes
+punct	eating	.

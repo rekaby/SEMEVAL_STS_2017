@@ -1,0 +1,16 @@
+compound	officials	US
+amod	officials	military
+nsubj	say	officials
+root	ROOT	say
+compound	wash	rotor
+nsubj	blown	wash
+case	helicopter	from
+det	helicopter	the
+nmod:from	wash	helicopter
+aux	blown	might
+aux	blown	have
+ccomp	say	blown
+compound:prt	blown	down
+det	banner	the
+dobj	blown	banner
+punct	say	.

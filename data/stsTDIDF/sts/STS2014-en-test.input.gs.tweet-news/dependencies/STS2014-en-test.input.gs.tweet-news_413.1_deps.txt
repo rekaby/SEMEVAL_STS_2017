@@ -1,0 +1,9 @@
+root	ROOT	Salivating
+punct	Salivating	!-2) root(ROOT-0, ?-1) punct(tours-4, :
+amod	tours	Exotic
+amod	tours	culinary
+root	ROOT	tours
+case	world	from
+case	world	around
+nmod:around	tours	world
+punct	tours	?

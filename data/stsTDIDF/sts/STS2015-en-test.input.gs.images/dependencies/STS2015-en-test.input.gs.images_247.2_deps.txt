@@ -1,0 +1,16 @@
+det	man	a
+nsubj	blading	man
+case	shirt	in
+det	shirt	a
+amod	shirt	black
+nmod:in	man	shirt
+aux	blading	is
+compound	blading	roller
+root	ROOT	blading
+case	bench	past
+det	bench	a
+nmod:past	blading	bench
+case	city	in
+det	city	the
+nmod:in	bench	city
+punct	blading	.

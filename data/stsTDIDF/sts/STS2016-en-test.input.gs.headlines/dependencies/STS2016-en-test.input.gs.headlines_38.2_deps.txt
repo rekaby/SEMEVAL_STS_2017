@@ -1,0 +1,9 @@
+nmod:poss	army	Thailand
+case	Thailand	's
+nsubj	declares	army
+root	ROOT	declares
+amod	law	martial
+dobj	declares	law
+punct	declares	,
+dep	declares	denies
+dobj	denies	coup

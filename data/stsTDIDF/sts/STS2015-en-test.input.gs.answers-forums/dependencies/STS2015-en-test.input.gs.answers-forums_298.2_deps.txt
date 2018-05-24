@@ -1,0 +1,17 @@
+nsubj	rule	This
+cop	rule	is
+det	rule	the
+root	ROOT	rule
+mark	equal	if
+det	runs	the
+nsubj	equal	runs
+dep	equal	scored
+case	teams	by
+nummod	teams	two
+nmod:by	scored	teams
+case	Super	in
+nmod:in	teams	Super
+nsubj	equal	Over
+cop	equal	is
+advcl	rule	equal
+punct	rule	...

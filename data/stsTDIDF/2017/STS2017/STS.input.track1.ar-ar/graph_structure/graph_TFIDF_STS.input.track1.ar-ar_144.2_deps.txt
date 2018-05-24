@@ -1,0 +1,8 @@
+Child	sitting	acl
+autumn	the	det
+sitting	wall	nmod:on
+ROOT	Child	root
+autumn	in	case
+wall	stone	compound
+wall	autumn	nmod:in
+Child	.	punct

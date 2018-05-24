@@ -1,0 +1,6 @@
+ROOT	swings	root
+swings	mountain	compound
+swings	biker	compound
+swings	.	punct
+swings	quickly	advmod
+swings	A	det

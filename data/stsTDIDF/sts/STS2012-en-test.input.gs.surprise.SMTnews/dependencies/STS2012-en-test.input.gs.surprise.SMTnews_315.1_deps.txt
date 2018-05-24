@@ -1,0 +1,13 @@
+advmod	reproduced	More
+case	that	than
+nmod:than	More	that
+punct	reproduced	,
+det	divisions	the
+nsubjpass	reproduced	divisions
+auxpass	reproduced	are
+root	ROOT	reproduced
+case	level	at
+det	level	the
+amod	level	local
+nmod:at	reproduced	level
+punct	reproduced	.

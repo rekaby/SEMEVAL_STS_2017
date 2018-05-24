@@ -1,0 +1,10 @@
+nsubj	jailed	Briton
+root	ROOT	jailed
+case	years	for
+nummod	years	10
+nmod:for	jailed	years
+mark	selling	for
+advcl	jailed	selling
+amod	detectors	fake
+compound	detectors	bomb
+dobj	selling	detectors

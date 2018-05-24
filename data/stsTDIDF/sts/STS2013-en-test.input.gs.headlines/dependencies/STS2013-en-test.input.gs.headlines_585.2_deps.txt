@@ -1,0 +1,7 @@
+compound	scandal	Secret
+compound	scandal	Service
+compound	scandal	sex
+nsubj	regret	scandal
+punct	regret	`
+root	ROOT	regret
+punct	regret	'

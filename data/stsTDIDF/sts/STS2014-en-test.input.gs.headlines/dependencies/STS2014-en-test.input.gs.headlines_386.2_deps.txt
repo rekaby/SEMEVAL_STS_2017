@@ -1,0 +1,12 @@
+amod	cliff	Fiscal
+dep	vote	cliff
+punct	vote	:
+compound	delays	House
+nsubj	vote	delays
+root	ROOT	vote
+case	deal	on
+amod	deal	fiscal
+compound	deal	cliff
+nmod:on	vote	deal
+punct	vote	-
+dep	vote	live

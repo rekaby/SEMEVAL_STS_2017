@@ -1,0 +1,12 @@
+root	ROOT	billion
+punct	billion	.-2) root(ROOT-0, Everyone
+case	world	in
+det	world	the
+nmod:in	Everyone	world
+case	level	at
+nmod:poss	level	Mexico
+case	Mexico	's
+amod	level	current
+compound	level	prosperity
+nmod:at	world	level
+punct	Everyone	.

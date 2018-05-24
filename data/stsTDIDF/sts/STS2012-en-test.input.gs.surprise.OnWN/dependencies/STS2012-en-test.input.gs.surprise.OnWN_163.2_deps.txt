@@ -1,0 +1,12 @@
+det	part	the
+root	ROOT	part
+acl	part	played
+case	person	by
+det	person	a
+nmod:by	played	person
+mark	bringing	in
+advcl	played	bringing
+case	result	about
+det	result	a
+nmod:about	bringing	result
+punct	part	.

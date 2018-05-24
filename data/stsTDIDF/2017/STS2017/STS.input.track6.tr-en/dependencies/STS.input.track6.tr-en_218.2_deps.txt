@@ -1,0 +1,10 @@
+nsubj	are	Workers
+root	ROOT	are
+advmod	are	out
+case	night	at
+nmod:at	are	night
+mark	do	to
+xcomp	are	do
+nmod:poss	jobs	their
+dobj	do	jobs
+punct	are	.

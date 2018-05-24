@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	wearing	girl
+aux	wearing	is
+root	ROOT	wearing
+det	sash	a
+amod	sash	purple
+dobj	wearing	sash
+cc	sash	and
+amod	skirt	matching
+conj:and	sash	skirt
+punct	wearing	.

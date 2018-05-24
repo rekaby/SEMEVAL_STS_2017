@@ -1,0 +1,7 @@
+root	ROOT	But
+det	athlete	what
+amod	athlete	great
+dep	But	athlete
+case	substance	of
+nmod:of	athlete	substance
+punct	But	.

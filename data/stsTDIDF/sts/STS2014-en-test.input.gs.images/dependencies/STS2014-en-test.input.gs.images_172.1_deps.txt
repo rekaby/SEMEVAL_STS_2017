@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+case	yard	in
+det	yard	a
+advmod	yard	back
+nmod:in	sitting	yard
+acl	yard	playing
+det	guitar	the
+dobj	playing	guitar
+punct	man	.

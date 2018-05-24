@@ -1,0 +1,14 @@
+nsubj	have	I
+root	ROOT	have
+dobj	have	years
+case	rights	of
+punct	rights	``
+compound	rights	Neener
+compound	rights	Neener
+punct	rights	''
+nmod:of	years	rights
+nsubj	use	I
+acl:relcl	rights	use
+dobj	use	lettuce
+advmod	use	too
+punct	have	.

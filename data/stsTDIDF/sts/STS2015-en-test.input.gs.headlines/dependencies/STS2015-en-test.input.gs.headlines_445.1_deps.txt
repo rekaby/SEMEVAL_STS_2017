@@ -1,0 +1,7 @@
+compound	Indians	Mumbai
+nsubj	puts	Indians
+root	ROOT	puts
+dobj	puts	T&T
+case	place	in
+nmod:poss	place	its
+nmod:in	puts	place

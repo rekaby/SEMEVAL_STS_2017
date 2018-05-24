@@ -1,0 +1,8 @@
+root	ROOT	connect
+cc	connect	or
+conj:or	connect	fasten
+case	chain	into
+det	chain	a
+nmod:into	connect	chain
+mark	linking	by
+advcl	connect	linking

@@ -1,0 +1,17 @@
+root	ROOT	incorporate
+det	ingredient	a
+compound	ingredient	food
+dobj	incorporate	ingredient
+case	mixture	into
+det	mixture	a
+nmod:into	incorporate	mixture
+mark	turning	by
+advmod	turning	repeatedly
+advcl	incorporate	turning
+dobj	turning	it
+compound:prt	turning	over
+mark	stirring	without
+advcl	turning	stirring
+cc	stirring	or
+conj:or	stirring	beating
+punct	incorporate	.

@@ -1,0 +1,6 @@
+people	dressed	acl
+dressed	white	nmod:in
+staring	horses	nmod:at
+horses	at	case
+white	staring	acl
+white	in	case

@@ -1,0 +1,7 @@
+compound	Tips	Training
+nsubj	#fitness	Tips
+case	#motivation	From
+compound	#motivation	Star
+compound	#motivation	Athletes
+nmod:from	Tips	#motivation
+root	ROOT	#fitness

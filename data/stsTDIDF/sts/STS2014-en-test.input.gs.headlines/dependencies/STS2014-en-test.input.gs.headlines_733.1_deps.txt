@@ -1,0 +1,8 @@
+compound	Protest	Tens
+case	Thousands	of
+nmod:of	Tens	Thousands
+case	Ukrainians	of
+nmod:of	Thousands	Ukrainians
+root	ROOT	Protest
+case	Kyiv	in
+nmod:in	Protest	Kyiv

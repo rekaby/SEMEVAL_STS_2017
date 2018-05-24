@@ -1,0 +1,12 @@
+compound	Theorem	Bayes
+nsubj	formula	Theorem
+cop	formula	is
+det	formula	a
+amod	formula	mathematical
+root	ROOT	formula
+acl	formula	used
+mark	calculate	to
+xcomp	used	calculate
+amod	probabilities	conditional
+dobj	calculate	probabilities
+punct	formula	.

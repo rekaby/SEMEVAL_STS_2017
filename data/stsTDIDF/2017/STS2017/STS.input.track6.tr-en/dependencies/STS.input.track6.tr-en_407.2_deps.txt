@@ -1,0 +1,12 @@
+det	man	A
+nsubj	watching	man
+cc	man	and
+det	boy	a
+conj:and	man	boy
+aux	watching	are
+root	ROOT	watching
+dobj	watching	something
+case	telescope	with
+det	telescope	a
+nmod:with	something	telescope
+punct	watching	.

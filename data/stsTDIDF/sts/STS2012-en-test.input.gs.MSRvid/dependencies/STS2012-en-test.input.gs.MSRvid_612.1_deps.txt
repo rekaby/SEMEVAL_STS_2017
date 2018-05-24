@@ -1,0 +1,6 @@
+det	person	A
+nsubj	soup	person
+cop	soup	is
+amod	soup	boiling
+root	ROOT	soup
+punct	soup	.

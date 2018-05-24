@@ -1,0 +1,15 @@
+det	spokeswoman	A
+nsubj	said	spokeswoman
+case	Hospital	at
+amod	Hospital	Strong
+compound	Hospital	Memorial
+nmod:at	spokeswoman	Hospital
+root	ROOT	said
+nsubj	condition	Doud
+cop	condition	was
+case	condition	in
+amod	condition	satisfactory
+ccomp	said	condition
+compound	night	Tuesday
+nmod:tmod	condition	night
+punct	said	.

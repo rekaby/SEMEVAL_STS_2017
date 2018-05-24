@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	child	girl
+cop	child	is
+case	child	near
+det	child	a
+root	ROOT	child
+nmod:poss	face	whose
+nsubjpass	shown	face
+auxpass	shown	is
+neg	shown	not
+acl:relcl	child	shown
+punct	child	.

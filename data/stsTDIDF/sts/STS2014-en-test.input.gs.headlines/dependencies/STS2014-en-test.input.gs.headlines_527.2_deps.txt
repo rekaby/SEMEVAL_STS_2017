@@ -1,0 +1,10 @@
+nmod:tmod	hold	Japan
+punct	hold	,
+nsubj	hold	US
+root	ROOT	hold
+dobj	hold	talks
+acl	talks	linked
+case	pact	to
+amod	pact	regional
+compound	pact	trade
+nmod:to	linked	pact

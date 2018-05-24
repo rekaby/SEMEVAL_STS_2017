@@ -1,0 +1,11 @@
+compound	Wolf	Robert
+nsubj	Said	Wolf
+root	ROOT	Said
+mark	Hire	to
+xcomp	Said	Hire
+dobj	Hire	Goolsbee
+case	Adviser	as
+nmod:as	Hire	Adviser
+case	Firm	for
+nmod:poss	Firm	His
+nmod:for	Adviser	Firm

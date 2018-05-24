@@ -1,0 +1,11 @@
+det	couple	The
+nsubj	sitting	couple
+aux	sitting	is
+root	ROOT	sitting
+case	water	near
+det	water	the
+nmod:near	sitting	water
+case	chairs	in
+compound	chairs	lawn
+nmod:in	water	chairs
+punct	sitting	.

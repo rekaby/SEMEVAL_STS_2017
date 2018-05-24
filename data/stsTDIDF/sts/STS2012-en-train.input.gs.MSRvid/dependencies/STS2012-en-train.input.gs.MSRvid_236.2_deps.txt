@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	straightening	woman
+aux	straightening	is
+root	ROOT	straightening
+nmod:poss	hair	her
+dobj	straightening	hair
+punct	straightening	.

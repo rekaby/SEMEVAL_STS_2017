@@ -1,0 +1,11 @@
+root	ROOT	Russia
+punct	Russia	,
+compound	Work	Syria
+root	,	Work
+case	Plan	on
+punct	Plan	`
+compound	Plan	Concrete
+punct	Plan	'
+compound	Plan	Chemical
+compound	Plan	Weapons
+nmod:on	Work	Plan

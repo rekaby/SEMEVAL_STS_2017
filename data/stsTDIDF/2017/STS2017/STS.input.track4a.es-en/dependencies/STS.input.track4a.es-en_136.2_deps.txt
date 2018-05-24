@@ -1,0 +1,12 @@
+det	man	A
+nsubj	sledding	man
+cc	man	and
+det	child	a
+conj:and	man	child
+cop	sledding	are
+root	ROOT	sledding
+case	snow	in
+det	snow	the
+nmod:in	sledding	snow
+advmod	sledding	together
+punct	sledding	.

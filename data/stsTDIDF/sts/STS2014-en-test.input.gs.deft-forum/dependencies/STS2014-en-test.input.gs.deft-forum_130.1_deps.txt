@@ -1,0 +1,7 @@
+det	money	The
+root	ROOT	money
+nsubj	spent	I
+acl:relcl	money	spent
+xcomp	spent	adopting
+dobj	adopting	Velociraptor
+punct	money	.

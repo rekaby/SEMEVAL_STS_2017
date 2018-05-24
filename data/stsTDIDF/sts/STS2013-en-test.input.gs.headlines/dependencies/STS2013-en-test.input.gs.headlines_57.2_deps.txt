@@ -1,0 +1,13 @@
+nsubj	says	NATO
+root	ROOT	says
+nummod	troops	four
+nmod:npmod	south	troops
+acl	troops	killed
+case	attack	in
+punct	attack	``
+compound	attack	insider
+punct	attack	''
+nmod:in	killed	attack
+case	Afghan	in
+nmod:in	attack	Afghan
+advmod	says	south

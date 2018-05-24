@@ -1,0 +1,20 @@
+nsubj	trust	Kids
+aux	trust	ca
+neg	trust	n't
+root	ROOT	trust
+compound	!!	anyone
+dobj	trust	!!
+punct	trust	''-7) root(ROOT-0, :
+root	:	50
+acl	50	arrested
+case	sting	in
+compound	sting	Florida
+compound	sting	child
+compound	sting	sex
+nmod:in	arrested	sting
+punct	sting	-
+case	teachers	including
+amod	teachers	several
+nmod:including	sting	teachers
+punct	50	:
+punct	50	''

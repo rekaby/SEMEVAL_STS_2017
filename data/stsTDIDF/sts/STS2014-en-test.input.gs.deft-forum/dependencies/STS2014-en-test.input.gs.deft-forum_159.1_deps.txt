@@ -1,0 +1,12 @@
+aux	know	Do
+nsubj	know	you
+root	ROOT	know
+advmod	many	how
+amod	passengers	many
+nsubj	testified	passengers
+ccomp	know	testified
+cc	testified	or
+dobj	said	what
+nsubj	said	they
+conj:or	testified	said
+punct	know	?

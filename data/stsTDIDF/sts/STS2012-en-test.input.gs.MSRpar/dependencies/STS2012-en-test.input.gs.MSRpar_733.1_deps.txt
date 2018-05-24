@@ -1,0 +1,17 @@
+nsubj	owned	Yucaipa
+root	ROOT	owned
+dobj	owned	Dominick
+case	Dominick	's
+mark	selling	before
+advcl	owned	selling
+det	chain	the
+dobj	selling	chain
+case	Safeway	to
+nmod:to	selling	Safeway
+case	1998	in
+nmod:in	selling	1998
+case	$	for
+nmod:for	1998	$
+compound	billion	2.5
+nummod	$	billion
+punct	owned	.

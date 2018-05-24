@@ -1,0 +1,5 @@
+work	bicycle	nmod:on
+bicycle	on	case
+bicycle	his	nmod:poss
+going	person	nsubj
+going	work	xcomp

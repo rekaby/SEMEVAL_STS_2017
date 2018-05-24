@@ -1,0 +1,6 @@
+ROOT	Child	root
+tunnel	the	det
+tunnel	inside	case
+Child	tunnel	nmod:inside
+tunnel	rail	compound
+Child	.	punct

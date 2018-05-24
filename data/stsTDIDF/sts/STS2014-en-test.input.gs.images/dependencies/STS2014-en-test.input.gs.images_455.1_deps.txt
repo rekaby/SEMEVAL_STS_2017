@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+det	bicycle	a
+amod	bicycle	small
+dobj	riding	bicycle
+punct	man	.

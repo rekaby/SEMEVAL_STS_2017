@@ -1,0 +1,6 @@
+pistol	test	compound
+pistol	new	amod
+pistol	target	compound
+pistol	in	case
+pistol	the	det
+man	pistol	nmod:in

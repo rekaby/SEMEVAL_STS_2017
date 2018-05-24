@@ -1,0 +1,9 @@
+nsubj	Struggles	Myanmar
+root	ROOT	Struggles
+mark	Finalize	to
+xcomp	Struggles	Finalize
+compound	Lists	Voter
+dobj	Finalize	Lists
+case	Polls	for
+compound	Polls	Sunday
+nmod:for	Finalize	Polls

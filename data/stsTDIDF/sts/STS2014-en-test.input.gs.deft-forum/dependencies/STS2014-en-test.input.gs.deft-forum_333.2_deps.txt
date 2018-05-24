@@ -1,0 +1,10 @@
+root	ROOT	It
+acl	It	's
+neg	's	not
+advmod	sold	how
+nsubjpass	sold	it
+auxpass	sold	was
+dep	not	sold
+punct	sold	,
+dep	sold	gb
+punct	It	.

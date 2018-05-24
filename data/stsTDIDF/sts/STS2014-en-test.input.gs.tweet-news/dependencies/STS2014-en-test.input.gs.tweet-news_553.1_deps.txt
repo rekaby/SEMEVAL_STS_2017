@@ -1,0 +1,27 @@
+root	ROOT	''
+punct	fave	-LRB-
+compound	fave	UK
+root	''	fave
+punct	fave	-RRB-
+punct	fave	``
+dep	fave	Mate
+punct	Mate	,
+advmod	skip	why
+aux	skip	do
+neg	skip	n't
+acl:relcl	Mate	skip
+xcomp	skip	killing
+compound	night	people
+dobj	killing	night
+punct	fave	?-16) nsubj(cold-4, It
+cop	cold	's
+advmod	cold	too
+root	ROOT	cold
+punct	cold	.
+punct	cold	''-6) punct(murderers-3, -
+compound	murderers	NYC
+root	ROOT	murderers
+case	days	in
+amod	days	last
+nummod	days	9
+nmod:in	murderers	days

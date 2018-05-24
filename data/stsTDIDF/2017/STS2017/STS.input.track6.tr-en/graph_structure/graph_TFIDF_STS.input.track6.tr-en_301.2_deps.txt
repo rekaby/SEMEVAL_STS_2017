@@ -1,0 +1,5 @@
+walking	water	nmod:in
+shore	the	det
+man	walking	acl
+walking	shore	nmod:on
+shore	on	case

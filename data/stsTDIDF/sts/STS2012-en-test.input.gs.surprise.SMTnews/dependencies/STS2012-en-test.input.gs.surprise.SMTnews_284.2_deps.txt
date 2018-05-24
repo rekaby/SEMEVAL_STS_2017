@@ -1,0 +1,17 @@
+det	line	The
+amod	line	bottom
+nsubj	is	line
+root	ROOT	is
+nsubj	is	that
+advmod	go	when
+compound	rates	interest
+nsubj	go	rates
+dep	that	go
+advmod	go	up
+punct	go	,
+det	values	the
+root	,	values
+case	fall	of
+compound	fall	credit
+nmod:of	values	fall
+punct	values	.

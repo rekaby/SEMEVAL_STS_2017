@@ -1,0 +1,14 @@
+det	man	A
+nsubj	offers	man
+csubj	high	offers
+dobj	offers	tricks
+case	bike	on
+det	bike	a
+nmod:on	offers	bike
+cop	high	is
+advmod	high	very
+root	ROOT	high
+case	air	in
+det	air	the
+nmod:in	high	air
+punct	high	.

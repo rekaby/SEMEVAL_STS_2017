@@ -1,0 +1,5 @@
+compound	Mandela	Nelson
+nsubj	taken	Mandela
+root	ROOT	taken
+case	hospital	to
+nmod:to	taken	hospital

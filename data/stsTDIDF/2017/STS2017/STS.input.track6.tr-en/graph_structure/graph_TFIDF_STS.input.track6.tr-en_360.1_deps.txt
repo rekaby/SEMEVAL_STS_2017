@@ -1,0 +1,7 @@
+races	Collie	compound
+ROOT	races	root
+pole	around	case
+races	dog	compound
+races	pole	nmod:around
+pole	a	det
+races	.	punct

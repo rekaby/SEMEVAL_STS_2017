@@ -1,0 +1,15 @@
+nsubj	seem	we
+root	ROOT	seem
+mark	lost	to
+aux	lost	have
+xcomp	seem	lost
+dobj	lost	sight
+case	meaning	of
+det	meaning	the
+nmod:of	sight	meaning
+case	thing	of
+det	thing	the
+amod	thing	whole
+nmod:of	meaning	thing
+punct	seem	...
+punct	seem	is

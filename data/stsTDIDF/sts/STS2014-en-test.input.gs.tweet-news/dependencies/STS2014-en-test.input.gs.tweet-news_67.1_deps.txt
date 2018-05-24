@@ -1,0 +1,6 @@
+compound	Center	Fitness
+root	ROOT	Center
+case	Room	in
+det	Room	a
+compound	Room	#Hotel
+nmod:in	Center	Room

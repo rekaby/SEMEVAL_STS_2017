@@ -1,0 +1,14 @@
+advmod	Posted	Originally
+root	ROOT	Posted
+case	eye	by
+compound	eye	Odins
+nmod:by	Posted	eye
+punct	Posted	.-6) nsubj(term-5, Nazi
+cop	term	is
+det	term	a
+compound	term	slang
+root	ROOT	term
+case	NSWP	for
+det	NSWP	the
+nmod:for	term	NSWP
+punct	term	.

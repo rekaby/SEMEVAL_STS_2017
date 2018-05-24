@@ -1,0 +1,9 @@
+nsubj	kills	Gunman
+root	ROOT	kills
+dobj	kills	6
+case	shooting	in
+nmod:in	kills	shooting
+case	temple	at
+compound	temple	Wisconsin
+compound	temple	Sikh
+nmod:at	shooting	temple

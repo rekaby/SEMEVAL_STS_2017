@@ -1,0 +1,11 @@
+compound	Britt	Russ
+nsubj	Chief	Britt
+cop	Chief	is
+det	Chief	the
+compound	Chief	Los
+compound	Chief	Angeles
+compound	Chief	Bureau
+root	ROOT	Chief
+case	CBS.MarketWatch.com	for
+nmod:for	Chief	CBS.MarketWatch.com
+punct	Chief	.

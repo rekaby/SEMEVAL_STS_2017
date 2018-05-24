@@ -1,0 +1,7 @@
+Men	attend	acl
+attend	fish	dobj
+Men	East	nmod:from
+Men	.	punct
+East	from	case
+attend	kitchen	nmod:in
+ROOT	Men	root

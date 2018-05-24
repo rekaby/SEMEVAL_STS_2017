@@ -1,0 +1,14 @@
+det	man	A
+nsubj	sweeping	man
+aux	sweeping	is
+root	ROOT	sweeping
+det	floor	the
+dobj	sweeping	floor
+case	house	of
+det	house	a
+nmod:of	floor	house
+advcl	sweeping	using
+det	broom	a
+amod	broom	long
+dobj	using	broom
+punct	sweeping	.

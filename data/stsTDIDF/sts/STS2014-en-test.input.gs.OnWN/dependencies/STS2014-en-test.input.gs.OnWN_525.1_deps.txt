@@ -1,0 +1,6 @@
+det	aggregation	an
+root	ROOT	aggregation
+case	things	of
+nmod:of	aggregation	things
+cc	things	or
+conj:or	things	people

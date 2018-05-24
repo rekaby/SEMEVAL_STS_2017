@@ -1,0 +1,11 @@
+cc	know	or
+aux	know	does
+nsubj	know	anyone
+root	ROOT	know
+det	way	any
+dobj	know	way
+nsubj	help	i
+aux	help	could
+acl:relcl	way	help
+dobj	help	it
+punct	know	?

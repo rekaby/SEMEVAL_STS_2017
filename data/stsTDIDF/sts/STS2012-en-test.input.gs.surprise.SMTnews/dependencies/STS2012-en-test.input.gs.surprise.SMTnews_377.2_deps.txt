@@ -1,0 +1,9 @@
+det	politization	The
+root	ROOT	politization
+case	markets	of
+det	markets	the
+nmod:of	politization	markets
+case	securities	of
+det	securities	the
+amod	securities	transferable
+nmod:of	markets	securities

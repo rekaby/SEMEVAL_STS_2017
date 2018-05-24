@@ -1,0 +1,11 @@
+root	ROOT	Tehran
+punct	Tehran	:
+compound	sanctions	EU
+nsubj	force	sanctions
+aux	force	wo
+neg	force	n't
+parataxis	Tehran	force
+dobj	force	Iran
+case	talks	into
+amod	talks	nuclear
+nmod:into	force	talks

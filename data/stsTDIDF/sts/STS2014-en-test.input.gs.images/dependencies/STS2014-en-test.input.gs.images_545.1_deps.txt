@@ -1,0 +1,7 @@
+det	man	A
+nsubj	jumping	man
+root	ROOT	jumping
+nmod:poss	bike	his
+compound	bike	dirt
+dobj	jumping	bike
+punct	jumping	.

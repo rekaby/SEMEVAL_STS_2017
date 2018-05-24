@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	casino	in
+det	casino	the
+nmod:in	sitting	casino
+case	desk	at
+det	desk	the
+nmod:at	sitting	desk
+cc	sitting	and
+conj:and	sitting	playing
+dobj	playing	twenty-one
+punct	sitting	.

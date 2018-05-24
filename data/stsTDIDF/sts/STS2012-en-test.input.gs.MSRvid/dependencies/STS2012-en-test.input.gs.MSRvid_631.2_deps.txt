@@ -1,0 +1,14 @@
+det	cat	A
+nsubj	crawling	cat
+aux	crawling	is
+root	ROOT	crawling
+case	piece	under
+det	piece	a
+nmod:under	crawling	piece
+case	furniture	of
+nmod:of	piece	furniture
+mark	back	on
+nsubj	back	it
+cop	back	's
+advmod	piece	back
+punct	crawling	.

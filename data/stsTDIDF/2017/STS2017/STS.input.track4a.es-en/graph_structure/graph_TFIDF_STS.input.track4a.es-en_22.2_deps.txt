@@ -1,0 +1,4 @@
+eats	frog	dobj
+frog	a	det
+ROOT	eats	root
+eats	kid	nsubj

@@ -1,0 +1,12 @@
+det	action	the
+root	ROOT	action
+mark	opposing	of
+acl	action	opposing
+dobj	opposing	something
+mark	disapprove	that
+nsubj	disapprove	you
+ccomp	something	disapprove
+cc	disapprove	or
+conj:or	disapprove	disagree
+dep	disapprove	with
+punct	action	.

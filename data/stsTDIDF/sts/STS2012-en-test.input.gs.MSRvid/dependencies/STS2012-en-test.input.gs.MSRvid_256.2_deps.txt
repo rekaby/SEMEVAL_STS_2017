@@ -1,0 +1,7 @@
+det	people	Some
+nsubj	dancing	people
+aux	dancing	are
+root	ROOT	dancing
+case	stage	on
+nmod:on	dancing	stage
+punct	dancing	.

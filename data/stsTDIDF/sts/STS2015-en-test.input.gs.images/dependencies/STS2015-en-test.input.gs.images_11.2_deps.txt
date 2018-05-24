@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	woods	through
+det	woods	the
+nmod:through	running	woods
+punct	dog	.

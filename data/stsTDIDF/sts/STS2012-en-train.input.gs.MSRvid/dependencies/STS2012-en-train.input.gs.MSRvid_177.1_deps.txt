@@ -1,0 +1,8 @@
+det	man	A
+nsubj	writing	man
+aux	writing	is
+root	ROOT	writing
+case	book	in
+det	book	a
+nmod:in	writing	book
+punct	writing	.

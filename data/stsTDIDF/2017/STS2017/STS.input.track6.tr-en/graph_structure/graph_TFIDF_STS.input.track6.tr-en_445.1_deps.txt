@@ -1,0 +1,11 @@
+hangs	stands	advcl
+stands	boy	nsubj
+ROOT	hangs	root
+hangs	girl	nsubj
+hoop	basketball	compound
+hoop	from	case
+stands	while	mark
+hangs	hoop	nmod:from
+hangs	.	punct
+stands	underneath	advmod
+hoop	a	det

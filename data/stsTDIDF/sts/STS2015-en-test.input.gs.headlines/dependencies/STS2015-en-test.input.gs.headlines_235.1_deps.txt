@@ -1,0 +1,8 @@
+root	ROOT	Quotes
+case	leaders	from
+nmod:from	Quotes	leaders
+punct	leaders	,
+appos	leaders	family
+case	memorial	at
+compound	memorial	Mandela
+nmod:at	family	memorial

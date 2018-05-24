@@ -1,0 +1,15 @@
+advmod	went	Instead
+punct	went	,
+nsubj	went	tickets
+case	jam	for
+det	jam	the
+compound	jam	Jersey
+nmod:for	tickets	jam
+root	ROOT	went
+case	sale	on
+nmod:on	went	sale
+amod	night	last
+nmod:tmod	went	night
+case	Ticketmaster	through
+nmod:through	went	Ticketmaster
+punct	went	.

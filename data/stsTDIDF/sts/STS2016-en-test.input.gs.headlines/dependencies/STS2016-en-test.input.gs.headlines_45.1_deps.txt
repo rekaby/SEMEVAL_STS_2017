@@ -1,0 +1,11 @@
+root	ROOT	Quake
+case	strikes	of
+nummod	strikes	6.2
+compound	strikes	magnitude
+nmod:of	Quake	strikes
+case	Sumatra	off
+nmod:poss	Sumatra	Indonesia
+case	Indonesia	's
+nmod:off	strikes	Sumatra
+punct	Quake	-
+dep	Quake	USGS

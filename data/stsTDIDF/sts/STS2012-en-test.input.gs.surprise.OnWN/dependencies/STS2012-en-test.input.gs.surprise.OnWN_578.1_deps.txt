@@ -1,0 +1,12 @@
+root	ROOT	react
+punct	react	,
+cc	react	or
+conj:or	react	respond
+case	call	to
+det	call	a
+nmod:to	respond	call
+punct	call	,
+conj:or	call	command
+punct	call	,
+cc	call	or
+conj:or	call	stimulus

@@ -1,0 +1,9 @@
+nsubj	hear	i
+aux	hear	can
+root	ROOT	hear
+det	desperation	the
+dobj	hear	desperation
+case	words	in
+nmod:poss	words	your
+nmod:in	desperation	words
+punct	hear	.

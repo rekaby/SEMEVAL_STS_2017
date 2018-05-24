@@ -1,0 +1,8 @@
+highway	on	case
+motorcycle	a	det
+man	shirt	appos
+shirt	red	amod
+shirt	riding	acl
+riding	highway	nmod:on
+wearing	jeans	dobj
+riding	motorcycle	dobj

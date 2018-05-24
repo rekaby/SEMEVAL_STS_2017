@@ -1,0 +1,9 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	wire	across
+det	wire	a
+amod	wire	high
+nmod:across	running	wire
+punct	running	.

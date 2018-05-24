@@ -1,0 +1,6 @@
+nsubj	shoots	Israel
+root	ROOT	shoots
+compound:prt	shoots	down
+dobj	shoots	drone
+case	Lebanon	from
+nmod:from	shoots	Lebanon

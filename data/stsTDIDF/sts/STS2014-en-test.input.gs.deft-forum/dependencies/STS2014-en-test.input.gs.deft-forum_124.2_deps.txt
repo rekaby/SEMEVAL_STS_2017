@@ -1,0 +1,12 @@
+cop	worse	is
+advmod	worse	even
+root	ROOT	worse
+mark	talking	than
+advcl	worse	talking
+case	it	about
+nmod:about	talking	it
+cc	talking	and
+neg	doing	not
+conj:and	talking	doing
+dobj	doing	anything
+punct	worse	.

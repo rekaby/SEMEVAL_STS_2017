@@ -1,0 +1,6 @@
+nsubj	killed	Six
+root	ROOT	killed
+case	building	in
+compound	building	US
+nmod:in	killed	building
+dobj	killed	collapse

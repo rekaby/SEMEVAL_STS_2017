@@ -1,0 +1,14 @@
+nsubj	ask	I
+root	ROOT	ask
+advmod	ask	again
+mark	exist	if
+nsubj	exist	God
+aux	exist	does
+neg	exist	not
+advcl	wrong	exist
+aux	wrong	can
+nsubj	wrong	anything
+cop	wrong	be
+advmod	wrong	morally
+ccomp	ask	wrong
+punct	ask	?

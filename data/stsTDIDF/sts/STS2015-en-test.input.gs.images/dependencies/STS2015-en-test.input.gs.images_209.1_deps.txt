@@ -1,0 +1,8 @@
+nummod	girls	Two
+amod	girls	little
+nsubj	dancing	girls
+case	pink	in
+nmod:in	girls	pink
+cop	dancing	are
+root	ROOT	dancing
+punct	dancing	.

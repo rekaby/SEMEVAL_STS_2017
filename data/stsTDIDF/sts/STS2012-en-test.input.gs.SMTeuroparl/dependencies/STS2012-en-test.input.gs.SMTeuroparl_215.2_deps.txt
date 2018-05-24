@@ -1,0 +1,14 @@
+nsubj	form	I
+root	ROOT	form
+dobj	form	part
+case	members	of
+det	members	the
+nmod:of	part	members
+case	Parliament	of
+nmod:of	members	Parliament
+nsubj	present	who
+cop	present	are
+advmod	honourably	rather
+advmod	present	honourably
+acl:relcl	members	present
+punct	form	.

@@ -1,0 +1,15 @@
+root	ROOT	Theme
+punct	Theme	?-2) nsubj(trying-2, Ppl
+root	ROOT	trying
+mark	sell	to
+xcomp	trying	sell
+dobj	sell	stuff
+nsubj	theirs	that
+cop	theirs	's
+neg	theirs	not
+acl:relcl	stuff	theirs
+punct	trying	...
+dep	trying	cc
+punct	cc	:
+compound	#music	#JoyDivision
+dep	cc	#music

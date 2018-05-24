@@ -1,0 +1,8 @@
+root	ROOT	bulb
+nsubj	burn	a
+aux	burn	will
+acl:relcl	bulb	burn
+compound:prt	burn	out
+case	C	with
+compound	C	bulb
+nmod:with	burn	C

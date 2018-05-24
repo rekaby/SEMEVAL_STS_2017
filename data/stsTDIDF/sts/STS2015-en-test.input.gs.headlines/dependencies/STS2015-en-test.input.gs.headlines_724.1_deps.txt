@@ -1,0 +1,7 @@
+compound	Cup	World
+nsubj	live	Cup
+root	ROOT	live
+punct	live	:
+compound	Germany	France
+nummod	Germany	0-0
+dobj	live	Germany

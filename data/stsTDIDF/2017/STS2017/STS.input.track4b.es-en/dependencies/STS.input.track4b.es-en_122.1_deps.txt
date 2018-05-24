@@ -1,0 +1,14 @@
+nsubjpass	involved	Hundreds
+case	officers	of
+compound	officers	police
+nmod:of	Hundreds	officers
+auxpass	involved	were
+root	ROOT	involved
+punct	involved	,
+dobj	involved	some
+case	them	of
+nmod:of	some	them
+acl	them	wearing
+compound	helmets	riot
+dobj	wearing	helmets
+punct	involved	.

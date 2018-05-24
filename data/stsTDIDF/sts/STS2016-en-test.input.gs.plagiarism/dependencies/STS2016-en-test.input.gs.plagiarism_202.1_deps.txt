@@ -1,0 +1,11 @@
+advmod	contest	So
+case	essence	in
+nmod:in	contest	essence
+nsubj	contest	it
+cop	contest	is
+det	contest	a
+compound	contest	popularity
+root	ROOT	contest
+case	WebPages	between
+nmod:between	contest	WebPages
+punct	contest	.

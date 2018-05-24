@@ -1,0 +1,10 @@
+amod	doctors	Israeli
+nsubjpass	tried	doctors
+aux	tried	could
+auxpass	tried	be
+root	ROOT	tried
+advmod	tried	abroad
+case	prisoners	for
+amod	prisoners	force-feeding
+amod	prisoners	Palestinian
+nmod:for	tried	prisoners

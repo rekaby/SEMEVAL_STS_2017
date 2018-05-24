@@ -1,0 +1,6 @@
+ROOT	blaspheme	root
+blaspheme	They	nsubj
+river	favorite	amod
+blaspheme	down	compound:prt
+blaspheme	river	dobj
+blaspheme	.	punct

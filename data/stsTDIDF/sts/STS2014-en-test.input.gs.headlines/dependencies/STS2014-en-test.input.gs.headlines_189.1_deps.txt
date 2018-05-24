@@ -1,0 +1,10 @@
+compound	grapes	Red
+nsubj	boost	grapes
+cc	grapes	and
+conj:and	grapes	blueberries
+ccomp	say	boost
+amod	system	immune
+dobj	boost	system
+punct	say	,
+nsubj	say	scientists
+root	ROOT	say

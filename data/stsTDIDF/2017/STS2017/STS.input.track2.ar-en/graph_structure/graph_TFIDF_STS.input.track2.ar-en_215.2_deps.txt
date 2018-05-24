@@ -1,0 +1,4 @@
+boat	on	case
+man	woman	nmod:by
+woman	boat	nmod:on
+woman	by	case

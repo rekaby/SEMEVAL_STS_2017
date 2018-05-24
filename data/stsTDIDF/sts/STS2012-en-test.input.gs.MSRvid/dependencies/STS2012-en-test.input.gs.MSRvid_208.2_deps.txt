@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	licks	dog
+root	ROOT	licks
+det	baby	a
+dobj	licks	baby
+punct	licks	.

@@ -1,0 +1,6 @@
+sell	something	dobj
+trying	women	nsubj
+trying	sell	xcomp
+sell	individual	nmod:to
+individual	to	case
+individual	the	det

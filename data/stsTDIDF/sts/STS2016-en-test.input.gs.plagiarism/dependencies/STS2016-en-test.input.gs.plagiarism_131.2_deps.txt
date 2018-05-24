@@ -1,0 +1,16 @@
+mark	explain	To
+root	ROOT	explain
+amod	models	further
+compound	models	vector
+compound	models	space
+dobj	explain	models
+punct	explain	,
+advmod	characterized	basically
+det	document	a
+nsubjpass	characterized	document
+auxpass	characterized	is
+advcl	explain	characterized
+case	vector	by
+det	vector	a
+nmod:agent	characterized	vector
+punct	explain	.

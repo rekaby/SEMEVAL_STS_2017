@@ -1,0 +1,8 @@
+root	ROOT	act
+mark	becoming	of
+acl	act	becoming
+xcomp	becoming	distant
+punct	act	,
+dep	act	moving
+advmod	moving	away
+compound:prt	moving	from

@@ -1,0 +1,7 @@
+root	ROOT	person
+nsubj	manages	who
+acl:relcl	person	manages
+dobj	manages	money
+case	board	in
+nmod:in	manages	board
+dobj	manages	games

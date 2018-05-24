@@ -1,0 +1,9 @@
+compound	strike	General
+nsubj	ends	strike
+root	ROOT	ends
+punct	ends	:
+nsubj	reach	Histadrut
+punct	Histadrut	,
+appos	Histadrut	Treasury
+parataxis	ends	reach
+dobj	reach	agreement

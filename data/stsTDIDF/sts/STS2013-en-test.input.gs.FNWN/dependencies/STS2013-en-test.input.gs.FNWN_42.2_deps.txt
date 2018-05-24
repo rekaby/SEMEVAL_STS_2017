@@ -1,0 +1,10 @@
+case	nature	unlike
+case	nature	in
+root	ROOT	nature
+cc	nature	or
+conj:or	nature	quality
+cc	quality	or
+conj:or	quality	form
+cc	quality	or
+conj:or	quality	degree
+punct	nature	;

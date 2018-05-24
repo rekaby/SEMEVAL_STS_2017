@@ -1,0 +1,10 @@
+compound	jets	Army
+nsubj	kill	jets
+root	ROOT	kill
+nummod	militants	38
+dobj	kill	militants
+case	air	in
+compound	air	NW
+compound	air	Pakistan
+nmod:in	kill	air
+dobj	kill	raids

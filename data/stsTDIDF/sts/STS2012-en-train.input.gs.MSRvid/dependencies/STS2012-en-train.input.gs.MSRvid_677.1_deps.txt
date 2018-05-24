@@ -1,0 +1,9 @@
+det	man	A
+nsubj	coming	man
+aux	coming	is
+root	ROOT	coming
+compound:prt	coming	out
+case	water	into
+det	water	the
+nmod:into	coming	water
+punct	coming	.

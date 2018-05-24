@@ -1,0 +1,11 @@
+root	ROOT	strike
+advmod	strike	heavily
+punct	strike	,
+advmod	fist	especially
+case	fist	with
+det	fist	the
+nmod:with	strike	fist
+cc	fist	or
+det	bat	a
+conj:or	fist	bat
+punct	strike	.

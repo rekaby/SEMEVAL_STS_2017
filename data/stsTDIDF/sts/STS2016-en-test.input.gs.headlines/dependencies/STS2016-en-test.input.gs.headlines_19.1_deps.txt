@@ -1,0 +1,9 @@
+nsubj	marry	Couple
+root	ROOT	marry
+case	wedding	in
+det	UK	the
+nmod:poss	wedding	UK
+case	UK	's
+amod	wedding	first
+compound	wedding	Scientology
+nmod:in	marry	wedding

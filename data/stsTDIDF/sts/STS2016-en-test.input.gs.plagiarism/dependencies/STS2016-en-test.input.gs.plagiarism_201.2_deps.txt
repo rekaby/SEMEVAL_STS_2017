@@ -1,0 +1,17 @@
+advmod	cast	However
+det	object	an
+nsubjpass	cast	object
+aux	cast	can
+neg	cast	not
+auxpass	cast	be
+root	ROOT	cast
+case	class	to
+det	class	a
+nmod:to	cast	class
+nsubj	relative	which
+cop	relative	is
+neg	relative	no
+acl:relcl	class	relative
+case	it	of
+nmod:of	relative	it
+punct	cast	.

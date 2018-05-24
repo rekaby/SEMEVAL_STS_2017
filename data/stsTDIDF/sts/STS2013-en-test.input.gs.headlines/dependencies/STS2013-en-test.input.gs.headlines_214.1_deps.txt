@@ -1,0 +1,5 @@
+compound	team	Obama
+nsubj	raises	team
+root	ROOT	raises
+compound	stakes	debate
+dobj	raises	stakes

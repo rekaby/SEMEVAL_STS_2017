@@ -1,0 +1,5 @@
+root	ROOT	People
+case	ceremony	at
+det	ceremony	the
+nmod:at	People	ceremony
+amod	People	newborn

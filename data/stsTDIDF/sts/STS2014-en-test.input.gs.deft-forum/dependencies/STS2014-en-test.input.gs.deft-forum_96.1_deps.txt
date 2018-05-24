@@ -1,0 +1,17 @@
+amod	way	Best
+nsubj	is	way
+mark	get	to
+acl	way	get
+dobj	get	money
+compound:prt	get	out
+root	ROOT	is
+mark	rid	to
+dep	rid	get
+xcomp	is	rid
+case	lobby	of
+nmod:of	rid	lobby
+punct	all	,
+dep	is	all
+case	it	of
+nmod:of	all	it
+punct	is	.

@@ -1,0 +1,8 @@
+det	panda	A
+compound	panda	baby
+nsubj	plays	panda
+root	ROOT	plays
+case	stick	with
+det	stick	a
+nmod:with	plays	stick
+punct	plays	.

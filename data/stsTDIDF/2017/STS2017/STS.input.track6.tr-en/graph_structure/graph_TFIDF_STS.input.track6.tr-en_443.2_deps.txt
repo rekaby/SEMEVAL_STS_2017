@@ -1,0 +1,12 @@
+ROOT	guys	root
+guys	playing	acl
+guys	.	punct
+people	back	nmod:in
+guys	Four	nummod
+playing	lawn	nmod:on
+playing	frisbee	dobj
+playing	people	nmod:with
+lawn	on	case
+lawn	an	det
+people	tents	conj:and
+lawn	open	amod

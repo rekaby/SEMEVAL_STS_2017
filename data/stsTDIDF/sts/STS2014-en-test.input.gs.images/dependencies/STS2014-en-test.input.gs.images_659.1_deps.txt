@@ -1,0 +1,10 @@
+compound	woman	Young
+root	ROOT	woman
+mark	riding	in
+acl	woman	riding
+dobj	riding	gear
+case	horse	on
+mwe	on	top
+mwe	on	of
+nmod:on_top_of	riding	horse
+punct	woman	.

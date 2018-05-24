@@ -1,0 +1,14 @@
+cop	appropriate	Is
+nsubj	appropriate	it
+root	ROOT	appropriate
+mark	call	to
+xcomp	appropriate	call
+det	professor	a
+dobj	call	professor
+case	recommendation	for
+det	recommendation	a
+nmod:for	call	recommendation
+case	weekend	on
+det	weekend	the
+nmod:on	recommendation	weekend
+punct	appropriate	?

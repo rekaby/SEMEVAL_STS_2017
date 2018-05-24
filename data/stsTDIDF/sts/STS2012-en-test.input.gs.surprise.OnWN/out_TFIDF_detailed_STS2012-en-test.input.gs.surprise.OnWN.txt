@@ -1,0 +1,745 @@
+[language#2 language#6=1.0, render#0 restate#0=1.0, language#2 language#9=1.0, one#1 one#5=1.0, another#4 another#8=1.0, language#2 words#2=1.0, language#5 language#6=1.0]	1
+[nations#0 nations#3=1.0, shared#3 interests#6=1.0, or#7 common#5=0.5109764431653344, interests#4 interests#6=1.0, institutions#8 interests#6=0.5524252564384786]	2
+[chemical#12 chemical#6=1.0, substances#3 means#4=1.0, process#13 action#7=1.0, heat#10 heat#9=1.0, heat#10 moisture#12=0.6166500718233329]	3
+[devote#0 devote#0=1.0, work#11 work#7=1.0, study#8 work#7=1.0]	4
+[wooden#1 porch#1=0.527083859752201, house#5 porch#1=0.572293839138741, porch#2 porch#1=1.0, porch#2 deck#5=1.0]	5
+[either#0 either#0=1.0000000000000002, bow#5 bow#7=1.0, half#1 two#3=0.6367685963381994, half#1 halves#4=1.0]	6
+[accessory#6 accessory#4=1.0, object#9 part#2=1.0]	7
+[restrict#0 limits#1=1.0, restrict#0 extent#4=0.5353684571742765, confine#2 limits#1=1.0]	8
+[positioned#3 opposite#1=0.5305266734207555]	9
+[Bring#0 cause#0=1.0, life#3 become#2=0.5396722359221214, life#3 alive#3=0.630552898405968, back#1 again#4=0.7696894441735828, dead#8 alive#3=0.7174257226101443]	10
+[anything#0 something#0=0.9028353816536254, concrete#4 concrete#3=1.0, real#6 something#0=0.5206410769246667]	11
+[name#1 name#1=1.0, that#4 given#2=0.6561806532327229, product#7 product#5=1.0, thing#11 given#2=0.5244033656880506, identifies#5 name#1=1.0]	12
+[the#0 part#6=0.6546617065682859, something#5 a#0=0.5806079283905188]	13
+[line#0 front#2=1.0, cover#2 cover#0=1.0]	14
+[determine#0 value#2=1.0, estimate#4 estimate#0=1.0, standard#2 value#2=1.0]	15
+[reading#6 representation#2=1.0, situation#11 something#9=0.5601687926633238, interpretation#1 representation#2=1.0, interpretation#1 meaning#5=0.5492879660996809, interpretation#1 significance#7=0.5650177400461698]	16
+[festive#0 occasion#1=0.5862942122557208, celebration#4 occasion#1=1.0, social#1 people#4=0.5189898432424203, event#2 occasion#1=0.504787331471878, social#1 social#8=1.0, social#1 interaction#9=0.5122517356300257]	17
+[Make#0 make#0=1.0, optimal#5 optimal#9=1.0, fine#1 fine#1=1.0, scale#12 measuring#10=1.0, certain#11 make#0=0.5761331724253517, adjust#8 adjustments#2=0.7623341395667821, adjustments#2 adjustments#2=1.0]	18
+[poem#4 song#2=0.5270750544037961, sung#8 song#2=0.6976944692852363, lyric#2 song#2=0.6633886214768853]	19
+[effectively#0 effectively#1=1.0, wield#1 handle#0=1.0, manipulate#3 handle#0=1.0]	20
+[position#6 position#5=1.0, or#1 someone#1=0.5656839358667279, employed#3 job#8=1.0, employ#0 job#8=1.0, become#2 to#2=0.5011301365692165]	21
+[group#0 organization#0=0.5586157575991645, people#2 especially#7=0.6395960706714973, specific#6 associated#4=0.6059980587067479, defined#3 associated#4=0.5935378151471952]	22
+[storage#0 container#5=0.5476862830665772, cabinet#1 furniture#1=1.0, storage#0 keeping#7=1.0, furniture#2 furniture#1=1.0]	23
+[Signal#0 signal#0=1.0, winking#7 winking#2=1.0]	24
+[corporation#4 corporation#12=1.0, corporation#4 ownership#16=0.524630218890247, capital#0 capital#8=1.0, stock#1 stock#23=1.0, stock#1 certificate#24=1.0, stock#1 stock#9=1.0]	25
+[prove#0 establish#0=1.0, prove#0 evidence#6=1.0, prove#0 facts#8=0.5828492592577522, corroborate#2 establish#0=1.0]	26
+[communication#6 signaled#12=1.0, content#2 communication#1=1.0, communication#6 communication#1=1.0]	27
+[a#0 either#6=0.519850797525244, denture#2 denture#1=1.0]	28
+[something#7 an#1=0.5258926803468135, terminate#6 terminate#0=1.0]	29
+[liquids#4 state#12=1.0, as#2 usually#14=0.5585244598781608, flow#0 liquid#11=0.5215631536226273, liquids#4 liquid#11=1.0]	30
+[protect#4 cover#29=1.0]	31
+[scar#0 marks#2=1.0, someone#7 make#0=0.6270833863305527, mark#5 marks#2=1.0, something#9 make#0=0.711931351044391, create#3 make#0=1.0]	32
+[Surround#0 surround#0=1.0, completely#1 completely#1=1.0]	33
+[ending#5 ending#10=1.0, ending#5 final#12=0.5201501797729129, ending#5 end#1=1.0, state#9 end#1=1.0]	34
+[service#6 fault#8=1.0, good#4 that#2=0.6282999088762509, good#4 someone#3=0.5793032075657158]	35
+[model#9 image#2=1.0]	36
+[shaped#4 shape#3=1.0, like#5 into#1=0.5529773011565488]	37
+[perhaps#7 make#2=0.5969769170497586, mock#5 mock#0=1.0, playfully#8 playfully#5=1.0]	38
+[bad#5 one#7=0.5659442440941381, bad#5 extremely#1=0.5222233808247262, bad#5 bad#2=1.0, bad#5 quality#4=1.0]	39
+[position#3 relative#1=0.5080356705121526, position#3 position#2=1.0, position#3 standing#4=1.0, ranking#1 position#2=1.0, social#0 society#12=0.6674759770982318]	40
+[ponder#0 consider#0=1.0, consider#2 order#9=0.5131582253543708, consider#2 consider#0=1.0, observe#4 discover#11=1.0]	41
+[persuade#0 persuade#0=1.0, acceptance#3 accept#3=0.6203924474949417, or#1 something#4=0.530078323224595, achieve#2 to#2=0.5126066074431592]	42
+[behind#3 that#1=0.5989176599626267, matter#1 matter#0=1.0, removal#6 removed#7=0.6317166681592945, matter#1 remains#2=0.5025422645415518, matter#1 something#4=0.6928764761628724]	43
+[any#0 anything#0=0.7428591609689822, vertical#3 column#7=1.0, shape#4 shape#4=1.0, shape#4 tower#9=1.0]	44
+[physically#0 become#0=0.5099587120964987, inflate#1 inflated#1=0.7886019412154373]	45
+[radioactive#1 isotopes#11=0.6600933849794037, heavy#0 heavy#1=1.0, radioactive#1 nuclear#15=0.6160263003876914, element#3 element#6=1.0, radioactive#1 toxic#2=0.6396217260255468, radioactive#1 nuclear#18=0.6160263003876914, atomic#5 nuclear#15=0.6075821454350575, number#6 many#10=0.5859241474877345, radioactive#1 radioactive#4=1.0, metallic#2 metallic#5=1.0]	46
+[things#6 things#2=1.0, say#4 say#0=1.0, someone#8 say#0=0.680196729028722, mean#5 mean#1=1.0, something#2 things#2=0.8008639663294809]	47
+[bothered#4 offended#1=0.6554293048637155, bothered#4 bothered#3=1.0, be#7 take#6=0.6076978858636062, concerned#8 bothered#3=0.651814056166863, bothered#4 bothered#11=1.0]	48
+[given#9 expresses#3=1.0, game#5 team#8=0.5179220361386212, time#10 that#2=0.5964427247875709, game#5 game#14=1.0, given#9 individual#11=0.5409713068821566, game#5 contest#16=1.0, given#9 number#1=0.5670937464490187]	49
+[truth#6 moral#7=0.6064831856096123, prevent#8 to#1=0.5019241642452971]	50
+[someone#6 or#2=0.5656839358667279, casual#1 casual#1=1.0, meeting#4 convergence#4=1.0]	51
+[electrical#1 electrical#4=1.0, conductor#4 device#5=1.0, connection#2 connection#1=1.0, earth#6 earth#15=1.0, electrical#1 voltage#24=0.5906866640865339]	52
+[act#3 act#1=1.0, activity#7 act#1=1.0, terminating#5 ending#3=1.0, or#8 something#4=0.530078323224595, event#9 act#1=1.0]	53
+[notable#0 notable#3=1.0, persons#3 person#4=1.0, famous#2 well-known#1=0.7599017902731432]	54
+[manipulate#3 operates#3=1.0, machine#9 machine#7=1.0, device#7 apparatus#5=0.6976788114322862, device#7 machine#7=1.0, person#1 machine#7=1.0]	55
+[find#0 determine#0=1.0, determine#2 limits#9=1.0, place#4 place#4=1.0, determine#2 determine#0=1.0, place#4 site#6=1.0, determine#2 indicate#2=0.6876182417513158]	56
+[illegal#8 illegal#12=1.0000000000000002, nature#11 purpose#13=0.535522966090945, engage#1 act#0=1.0, to#0 towards#8=0.5284054245645766, activities#5 act#0=1.0, deceitful#10 deceitful#10=1.0]	57
+[equivalent#1 equivalent#3=1.0, something#8 be#0=0.6412912409694294]	58
+[cause#1 cause#0=1.0, to#2 move#2=0.6458681100877932]	59
+[money#1 money#6=1.0, the#0 made#12=0.5191453038651465]	60
+[vocalization#3 utterance#2=1.0, sudden#1 loud#1=0.50642965924984, sudden#1 when#7=0.5784060018356824, emotional#2 emotion#4=0.773196501749922]	61
+[go#0 go#0=1.0, back#1 back#1=1.0]	62
+[people#2 far#6=0.6079373873258312, settlement#0 body#1=1.0, their#5 maintain#10=0.5716995701076485, homeland#6 state#22=1.0, people#2 literally#26=0.5166599497004883, settlement#0 settle#5=0.6062734845007511, distant#3 far#6=0.53146235950187, their#5 remain#17=0.5119752652863838, homeland#6 homeland#14=1.0, homeland#6 state#30=1.0, people#2 people#3=1.0]	63
+[truth#12 statements#4=1.0, something#14 something#12=1.0000000000000002, something#14 else#13=0.8224216825118194, that#9 one#8=0.7697202484986965, establishes#10 showing#5=1.0, truth#12 true#11=0.6943448148213649, factual#7 statements#4=0.5847855520728055, that#9 necessarily#14=0.6348511719427141, evidence#8 statements#4=1.0, something#14 thing#9=0.8046225695666464]	64
+[enter#0 be#6=1.0, become#4 move#2=0.5140384293399095, become#4 be#6=0.7181988148076941, become#4 certain#9=0.5231533839507716, involved#5 be#6=0.5193761105837844]	65
+[undertaking#3 accomplish#8=0.5559892561783113, a#0 something#9=0.5806079283905188]	66
+[heaviness#6 weight#8=1.0, a#0 something#10=0.5806079283905188, system#2 system#1=1.0]	67
+[concern#1 situation#1=0.673698491722196, concern#1 thought#6=0.5255908643693888]	68
+[have#0 feel#0=0.6016949989886026, strong#2 strongly#8=0.5847144313084625, sexual#3 desire#4=0.558082125724326, have#0 want#7=0.7120444699649362]	69
+[utterance#4 words#7=0.505850407902115, word#8 words#7=1.0]	70
+[facility#0 facility#1=1.0, facility#0 deposited#6=1.0, storage#3 storage#8=1.0, often#7 can#4=0.6999734051206421, things#5 things#3=1.0]	71
+[noise#5 noise#3=1.0, cause#2 certain#2=0.5890524908151463, noise#5 sound#5=1.0, to#3 make#0=0.7082784492151654]	72
+[make#0 cause#0=1.0, physically#10 be#2=0.5128950024387194, effect#8 cause#0=0.5492848796501648, possibly#5 be#2=0.6818133783264799, contact#2 contact#5=1.0]	73
+[find#0 get#0=1.0, understand#10 get#0=1.0, be#3 become#4=0.7181988148076941, understand#10 aware#5=0.7181583227213904, be#3 usually#8=0.6811677411554262, informed#4 aware#5=0.6882476659132524, realize#12 get#0=1.0, realize#12 know#2=1.0]	74
+[head#0 chief#1=1.0, head#0 executive#2=1.0]	75
+[Touch#0 touch#0=1.0, lips#3 lips#3=1.0, lips#3 lips#7=1.0, the#2 part#16=0.6546617065682859, lips#3 mouth#12=1.0, .#4 etc.#26=0.5506585799698757]	76
+[force#3 force#1=1.0, force#3 pulling#4=1.0, something#7 the#0=0.5143287439727262, drawing#5 pulling#4=1.0, towards#6 the#0=0.5200701570052143]	77
+[change#1 decrease#2=1.0, decrease#5 gradual#1=0.5088535777434756, decrease#5 decrease#2=1.0, change#1 current#9=0.5922368524120389]	78
+[grade#9 quality#5=1.0, worth#6 quality#5=1.0]	79
+[having#0 something#6=0.5508114707978814, or#4 someone#4=0.5656839358667279]	80
+[failure#3 failure#1=1.0, fail#0 failure#1=0.6802346125697081, suffer#2 suffer#0=1.0]	81
+[abundance#1 copious#3=0.5041190205184879, abundance#1 abundance#4=1.0, something#3 the#0=0.5143287439727262]	82
+[citation#6 note#2=1.0, text#2 passage#12=1.0, citation#6 quoted#11=1.0]	83
+[perception#4 extent#14=0.5471723059364401, instance#1 often#1=0.5317298028937067, of#2 amount#12=0.5275769979281015]	84
+[back#3 to#1=0.60361680616697, move#2 to#1=0.6458681100877932, forth#5 fro#3=0.5042889226755766]	85
+[the#0 change#1=0.5122760295257349]	86
+[religious#6 church#11=0.6360072239650482, community#7 participation#8=0.5786333720265852]	87
+[]	88
+[a#2 single#8=0.5530273672222664, move#0 to#5=0.6458681100877932, situation#9 cause#0=0.5188453922722457]	89
+[one#1 give#0=0.6385778275599872, another#3 another#8=1.0, one#1 one#7=1.0]	90
+[stop#2 end#9=1.0, punctuation#6 abbreviations#21=0.5659155503776139, mark#7 mark#2=1.0, full#1 full#17=1.0, as#4 placed#6=0.5307438761391158, stop#2 stop#18=1.0, punctuation#6 punctuation#1=1.0]	91
+[something#0 something#0=1.0000000000000002, craved#3 craved#1=1.0, that#1 especially#3=0.666386448514571]	92
+[grow#1 increase#0=1.0, rapidly#2 rapidly#1=1.0]	93
+[high-pitched#3 high-pitched#1=1.0, voice#6 sounds#2=1.0, Speak#0 sounds#2=1.0, tone#4 sounds#2=1.0, might#14 make#0=0.7166896530394404, either#9 make#0=0.612881623635124]	94
+[domesticated#0 domesticated#4=1.0, animals#1 animals#5=1.0, animals#1 species#8=0.5737900012253037]	95
+[discipline#1 discipline#1=1.0, knowledge#6 human#9=0.5328899682044481, branch#4 events#7=1.0, knowledge#6 discipline#1=0.557920823957869]	96
+[person#1 victim#12=1.0, who#2 especially#10=0.5258365053824425, person#1 person#1=1.0, person#1 person#21=1.0]	97
+[personnel#0 military#0=1.0, personnel#0 personnel#1=1.0]	98
+[avoid#2 avoid#7=1.0, escape#0 escape#5=1.0, or#1 use#0=0.5734850059445747, situation#4 avoid#7=0.5168400339421173]	99
+[price#4 value#13=1.0, relative#1 value#13=0.5406954922767367, a#0 giving#4=0.5106634729668785, a#0 something#8=0.5806079283905188, loss#2 loss#1=1.0, value#6 value#13=1.0, price#4 selling#7=0.6026897873427015]	100
+[decrease#4 decrease#3=1.0]	101
+[Change#0 change#0=1.0, pitch#4 key#2=1.0, reasons#15 change#0=0.5408106561284864, key#2 key#2=1.0, likely#12 change#0=0.5409699633861634]	102
+[message#2 offered#8=1.0, a#0 something#5=0.5806079283905188, message#2 message#1=1.0]	103
+[cause#1 that#2=0.6252604240169639, to#2 move#0=0.6458681100877932, stop#4 obstructed#8=1.0, bring#7 make#10=1.0, stop#4 shut#11=0.6127650396228465]	104
+[surface#4 surface#2=1.0, surface#4 surface#8=1.0]	105
+[structure#2 forms#10=1.0, top#5 top#12=1.0, structure#2 structure#2=1.0]	106
+[list#2 bill#9=1.0, particular#4 as#5=0.5862941643042275, list#2 list#1=1.0, things#5 as#5=0.5530352335385118]	107
+[used#3 used#3=1.0, diacritic#7 diacritical#1=0.7647270235082461, diacritic#7 mark#2=1.0, mark#2 mark#2=1.0, diacritic#7 vowel#11=0.5596812952459532]	108
+[something#11 others#10=0.6262160855835023, believing#3 believing#3=1.0, someone#13 others#10=0.6276124572858834, confidence#8 honesty#6=0.5626559459898806]	109
+[effort#3 attempt#1=1.0, a#6 something#4=0.5806079283905188, goal#7 attempt#1=0.5208761653344881, attempt#1 attempt#1=1.0, to#4 get#3=0.6527531917748144, achieve#5 to#2=0.5126066074431592]	110
+[increase#0 advance#3=1.0, amount#2 advance#3=1.0, or#6 go#0=0.5198451822507116]	111
+[clean#0 clean#0=1.0, wash#2 clean#0=0.634771267451983, thoroughly#3 clean#0=0.5073444308489995]	112
+[into#5 become#0=0.5504592140975166]	113
+[point#0 point#0=1.0, weapon#5 weapons#8=1.0, point#0 towards#17=0.5092753517237029, something#10 go#4=0.6617534218024094, object#3 objects#11=1.0, blow#8 blows#6=1.0, someone#12 cause#2=1.0]	114
+[employ#0 give#0=1.0, put#4 give#0=0.7351401707200642, utilize#2 give#0=1.0]	115
+[performing#13 do#0=1.0, perhaps#10 do#0=0.5643175327788249, lacework#14 lacework#1=1.0]	116
+[flowers#7 flowers#14=1.0, holding#6 hold#13=1.0, decorative#1 porcelain#6=0.5811124952672697, often#4 used#7=0.5668222320460341, often#4 as#8=0.6420274650294655, container#2 jar#2=0.5720075114260955, container#2 glass#4=1.0, decorative#1 ornament#10=0.6702198036955301]	117
+[preserve#0 preserve#0=1.0, keep#2 preserve#0=1.0, use#6 with#1=0.5242169104507929]	118
+[used#3 or#6=0.5192154394030156, open#1 open#4=1.0, motorboat#2 motorboat#1=1.0]	119
+[development#3 process#1=1.0, process#1 important#12=0.5243842493178248, or#6 longer#6=0.5434961584065839, process#1 process#1=1.0, increase#5 process#1=1.0]	120
+[sure#1 something#11=0.7622575531572567, sure#1 careful#1=0.6310280373890258, Make#0 make#8=1.0, sure#1 certain#3=0.5732561175801265, sure#1 something#6=0.7622575531572567, sure#1 make#8=0.7630379619370521, sure#1 certain#9=0.5732561175801265]	121
+[wanted#7 something#1=0.6904816445734784, something#4 something#1=1.0000000000000002, furnish#2 give#0=1.0, needed#5 necessary#4=1.0]	122
+[instrument#3 tool#1=1.0, sharp#1 edge#0=0.5376590800811071, hair#7 shaving#4=0.5583104865830616, shaving#5 shaving#4=1.0]	123
+[learn#0 learn#0=1.0, assimilate#2 learn#0=1.0, knowledge#6 learn#0=0.6271625769576802]	124
+[provide#7 extend#2=1.0]	125
+[keep#0 doing#2=0.6085545613504755, something#10 something#3=1.0000000000000002, away#1 something#3=0.5796452995160088, happening#5 something#3=0.6276959435393004]	126
+[Something#0 something#0=1.0, that#1 course#11=0.5451130956688839, advice#3 advice#5=1.0, provides#2 provides#2=1.0, that#1 decision#9=0.5585883803081048]	127
+[someone#7 person#4=1.0, act#1 that#5=0.5392688479676496, else#8 that#5=0.6564964571228814, actions#5 that#5=0.514190473903799]	128
+[entity#2 entity#4=1.0]	129
+[or#6 make#0=0.5414066724011374, or#6 less#1=0.5442905058214138]	130
+[opinion#3 judgment#1=1.0, something#5 somebody#8=0.7230145744770331, judgement#1 judgment#1=1.0, something#5 something#6=1.0000000000000002]	131
+[flog#0 beat#0=1.0, whip#2 whip#4=1.0]	132
+[to#7 give#4=0.6641152299771645, form#2 shape#0=1.0]	133
+[Germinate#0 germinate#6=1.0]	134
+[scope#3 environment#2=1.0, interest#7 particular#1=0.5744811262410148, sphere#1 environment#2=1.0]	135
+[vertical#2 vertical#1=1.0, numbers#8 numbers#4=1.0, e.g.#5 or#5=0.5645907156483876]	136
+[recognize#0 be#0=1.0, recognize#0 aware#3=0.638701414349346, recognize#0 fact#6=0.610177679985319, recognize#0 specific#9=0.5262523754707181, well-versed#5 cognizant#1=0.5710449138999967, recognize#0 possess#14=0.5126514619039393]	137
+[something#5 any#7=0.6211940898550198, someone#3 person#4=1.0, portrayal#1 likeness#1=1.0]	138
+[control#3 controls#3=1.0, or#13 etc.#17=0.5635349726288255, rate#5 flow#11=1.0, e.g.#10 various#2=0.5707344587141068, some#7 various#2=0.656735049185019, control#3 regulating#7=1.0, control#3 controlling#9=1.0, device#1 devices#5=1.0, activity#8 controls#3=1.0, control#3 pressure#13=0.5280196836535986]	139
+[Form#0 form#2=1.0, aesthetic#2 aesthetically#9=0.5874969166276464, whole#5 whole#11=1.0]	140
+[usage#4 terms#1=0.507655635646855, legs#1 leg#4=1.0, informal#3 informal#0=1.0]	141
+[goal#0 goal#1=1.0, objective#2 goal#1=1.0, objective#2 intended#2=0.5052864471955452]	142
+[conditions#9 place#0=1.0]	143
+[something#5 person#11=0.5567715337837621, or#2 individual#10=0.5073921151373083, or#2 person#11=0.5896140929254906, percentage#3 assets#0=1.0]	144
+[something#0 that#2=0.7453347681327083, that#1 intended#5=0.5915469099349789, that#1 purpose#6=0.5749430224400512, attains#2 accomplishes#3=1.0]	145
+[line#0 place#0=1.0, up#1 straight#12=0.5960443042640634, line#0 line#3=1.0, bring#6 to#8=0.6928866251837814, make#3 be#9=1.0, proper#8 place#0=0.5044918565583622, parallel#4 parallel#10=1.0]	146
+[that#3 something#18=0.7453347681327083, fabric#6 cloth#5=1.0, cover#7 bedclothes#0=1.0, cover#7 covering#6=1.0, cover#7 afghan#9=1.0]	147
+[frame#1 frame#12=1.0, meshed#0 netting#5=1.0, over#2 covering#2=0.5296084299698992]	148
+[event#9 cases#20=1.0, measure#1 measure#1=1.0, event#9 event#9=1.0, the#3 whole#23=0.6434256267968984, event#9 cases#26=1.0, likelihood#4 favorable#19=0.565055448069767, likelihood#4 likely#4=0.6420685471487063, the#3 will#10=0.5748394760444907, probability#6 measure#1=1.0, likelihood#4 possible#27=0.5886937789070739, likelihood#4 occur#11=0.5134558954439492]	149
+[Anyone#0 someone#0=0.5625659596795465, something#7 someone#0=0.8128225707771393, judges#2 judgments#10=0.5131316634509653, finds#4 finds#3=1.0, who#1 frequently#2=0.5275237816514626, finds#4 makes#6=1.0, fault#5 fault#4=1.0]	150
+[release#3 loss#4=1.0, something#7 or#1=0.530078323224595, rescue#1 recovery#0=1.0, someone#5 or#1=0.5656839358667279]	151
+[observe#0 observe#0=1.0, perceive#2 observe#0=0.6155886829927956]	152
+[deter#6 deter#3=1.0, keep#2 if#7=0.6387212261953548, deter#6 threats#9=0.5245660674992801, forbid#8 compel#1=0.5481487666623651]	153
+[stick#0 out#1=0.5088994420116884]	154
+[act#1 be#0=0.5178955246807112, host#4 host#2=1.0]	155
+[put#0 use#3=1.0, already#11 make#0=0.5515658180676101, make#5 make#0=1.0, end#2 make#0=0.5320326251372677, invalid#6 invalid#1=1.0]	156
+[enjoy#0 feel#0=0.5871291697208142, approve#6 evaluate#7=1.0, be#2 consider#5=0.6111029865665736]	157
+[per#0 per#13=1.0]	158
+[something#6 example#4=0.5336624719432655, or#3 example#4=0.5362748354939615, approximate#1 approximate#1=1.0]	159
+[having#3 fact#3=0.5593509508116162, property#6 owner#7=0.5470363046744947, act#1 being#5=0.5081975712655605]	160
+[small#6 especially#4=0.5182091994440934, protuberance#2 juts#9=1.0, small#6 one#7=0.5698132140980207, a#0 one#7=0.7051319245341068, large#4 into#11=0.5182376454194403]	161
+[estimate#0 estimate#2=1.0, something#7 or#1=0.530078323224595, calculate#2 evaluate#0=1.0, value#5 estimate#2=0.5010672992610311]	162
+[percentage#3 part#1=1.0, whole#6 bringing#7=0.5580284815878218, portion#1 part#1=1.0, whole#6 part#1=0.6723826495874045, or#2 person#5=0.5896140929254906]	163
+[abundant#2 abundant#22=1.0, most#1 highly#11=0.7001177543796797, element#3 element#3=1.0, lightest#0 lightest#19=1.0, number#6 most#21=0.5127265908120332, element#3 element#23=1.0, most#1 normally#6=0.5174238498004546]	164
+[a#0 single#1=0.5530273672222664, something#4 chance#2=0.5895212733950896, something#4 instance#4=0.5039936620656078]	165
+[move#0 move#0=1.0, move#0 rising#5=1.0, back#1 move#0=0.6313460140237387]	166
+[time#4 period#1=1.0, time#4 time#3=1.0, time#4 days#10=1.0]	167
+[face#0 face#0=1.0, endure#6 withstand#2=1.0, survive#4 withstand#2=0.5737116120430724]	168
+[disease#11 disease#11=1.0, medicine#1 medicine#1=1.0, defend#9 resist#10=1.0, organism#7 organism#8=1.0, disease#11 condition#4=0.527530991070021]	169
+[idea#4 statement#2=1.0, statement#1 statement#2=1.0, expressed#5 statement#2=0.5377045107485402]	170
+[perform#0 do#0=1.0, duty#2 function#10=1.0, duty#2 duty#1=1.0, duty#2 offices#4=1.0]	171
+[forces#8 troops#9=1.0, group#9 unit#5=1.0, member#4 member#1=1.0, member#4 unit#5=1.0, soldier#0 troops#9=0.6533059844577376, forces#8 military#4=1.0]	172
+[become#0 get#0=1.0, overcome#4 successfully#7=0.5005434120753364]	173
+[damaged#2 casualty#1=1.0]	174
+[revolve#0 revolving#4=1.0]	175
+[something#6 that#2=0.7453347681327083, twice#0 twice#4=1.0, something#6 great#6=0.5528125447008501, amount#4 quantity#1=1.0, something#6 another#8=0.7045845749655385, quantity#2 quantity#1=1.0]	176
+[urge#11 provoke#0=0.5045632272134021, stir#8 stir#2=1.0, provoke#6 provoke#0=1.0]	177
+[Funeral#0 funeral#4=1.0]	178
+[ignite#1 catch#0=1.0, fire#5 fire#1=1.0, catch#3 catch#0=1.0]	179
+[some#5 example#2=0.5650025305328558, thing#8 something#4=0.8046225695666464]	180
+[]	181
+[solving#3 solving#4=1.0, problem#5 problem#6=1.0]	182
+[reach#0 way#4=0.5788190747833877]	183
+[take#0 go#0=1.0, take#0 leave#3=0.6714581530644274, away#4 away#1=1.0, something#1 go#0=0.6617534218024094, somewhere#6 go#0=0.6329784472451772, someone#3 go#0=0.6247308274224589]	184
+[]	185
+[passageway#3 passageway#1=1.0, underground#2 underground#8=1.0, a#0 something#5=0.5806079283905188, a#0 one#11=0.7051319245341068]	186
+[discern#0 cognizant#4=0.5583204075379598, know#5 aware#2=0.6761515939558437, identify#2 aware#2=0.5528688910230309]	187
+[move#0 move#0=1.0, one#3 very#1=0.6214801637868712, change#2 move#0=1.0, position#6 move#0=0.5857669236140781]	188
+[incorporate#0 incorporate#0=1.0, or#1 without#12=0.628816999442343, another#6 turning#9=0.5450395668768477, one#3 it#10=0.7384914039910969, thing#4 it#10=0.779936103943733, another#6 a#1=0.790967454470122]	189
+[through#3 across#3=0.6460833416970976]	190
+[harm#6 harming#2=1.0]	191
+[whip#7 whipping#4=0.752189156320784]	192
+[medical#1 aid#11=0.5385314254646527, manually#4 manual#0=0.5156054690864345, uterus#7 fetus#4=0.6764974517689438, turning#5 turning#1=1.0, uterus#7 uterus#7=1.0]	193
+[]	194
+[continue#2 take#0=0.6504652762452842, continue#2 begin#3=0.766508474349613]	195
+[the#6 certain#18=0.5595627757987417, the#6 upon#3=0.6148090366036337, discover#4 discover#0=1.0, ensnare#2 catch#11=1.0, act#7 certain#18=0.5285090119557854, capture#0 catch#11=1.0, the#6 something#14=0.5143287439727262]	196
+[something#6 something#4=1.0000000000000002, initiation#0 starting#3=1.0, something#6 time#8=0.589459618538618, introduction#4 starting#3=1.0, something#6 something#11=1.0000000000000002, founding#2 starting#3=1.0, introduction#4 introducing#10=0.695470778971103]	197
+[form#4 shape#4=1.0, form#4 made#5=1.0]	198
+[tutor#2 teach#0=0.5823420251380125, judgement#10 judgment#9=1.0, taste#8 taste#7=1.0]	199
+[activity#2 action#6=1.0, interpreting#6 interpretation#1=0.6823023237960748]	200
+[attention#3 attention#8=1.0, emphasize#0 attention#8=0.5386099121888474, draw#2 draw#0=1.0]	201
+[]	202
+[something#3 need#1=0.6315307202131981, require#0 need#1=1.0, need#2 need#1=1.0]	203
+[manifestation#3 indication#1=1.0, indication#1 indication#1=1.0, something#5 an#0=0.5258926803468135]	204
+[light#6 brightness#2=1.0, sudden#1 momentary#1=0.566102496720122]	205
+[existence#9 consciousness#3=0.622279888997075, back#3 to#1=0.60361680616697, come#0 to#1=0.5997564597058883, use#11 to#1=0.5626150936235924, bring#2 cause#0=1.0]	206
+[mental#1 lack#13=0.5265459125580316, mental#1 mental#1=1.0, state#2 activity#15=1.0, sadness#4 sense#7=0.5244290829147149, state#2 state#2=1.0, mental#1 sense#7=0.5299995109250725]	207
+[change#3 changing#3=1.0, position#0 location#5=1.0, change#3 something#7=0.5840866561300188, location#2 location#5=1.0]	208
+[move#4 move#0=1.0, starting#18 move#0=0.5077438191388978, returning#15 move#0=1.0, circuit#9 circles#2=1.0, point#19 move#0=0.5416270304314753]	209
+[bring#0 bring#0=1.0, bring#0 things#3=0.632844519356192, consonance#3 consonance#6=1.0]	210
+[to#3 certain#9=0.5177890107211786, send#2 move#2=1.0]	211
+[state#0 state#1=1.0, unified#3 joined#4=1.0, unified#3 united#6=1.0]	212
+[different#9 different#5=1.0000000000000002, become#4 become#0=1.0, aquire#7 acquire#3=0.6362133278318104, character#10 character#6=1.0, different#5 distinct#1=0.6951051588615599, possibly#12 become#0=0.5803028597137747, different#5 different#5=1.0000000000000002]	213
+[goal#3 goal#1=1.0, objective#1 goal#1=1.0, objective#1 intended#2=0.5052864471955452]	214
+[seize#0 take#0=1.0, something#10 take#0=0.6370735238077462, take#5 take#0=1.0, possession#8 possession#1=1.0, take#2 take#0=1.0]	215
+[give#0 give#0=1.0, dedicate#2 give#0=1.0]	216
+[decide#0 make#0=1.0, time#3 schedule#2=0.5086348579647004, decide#0 plan#4=0.5603251342166632, time#3 time#6=1.0, time#3 place#8=0.6412515302483124, event#6 events#10=1.0]	217
+[another#10 like#0=0.5570910146010144, value#0 value#3=1.0, thing#2 like#0=0.7114213661629383, highly#8 highly#5=1.0, than#9 better#1=0.7350913560677268]	218
+[give#0 give#0=1.0, give#0 good#5=0.6679732731393326, something#1 give#0=0.665245803575547, cause#4 cause#6=1.0]	219
+[furnish#0 furnish#0=1.0]	220
+[pleading#7 petition#1=0.5200398431182142, or#6 person#7=0.5896140929254906, pleading#7 appeal#3=1.0, as#4 made#4=0.594779647605885, courtship#5 appeal#3=1.0, entreaty#2 appeal#3=1.0]	221
+[fail#0 break#0=1.0, cease#6 break#0=1.0]	222
+[verbally#1 verbally#1=1.0]	223
+[surface#6 surface#2=1.0, cut#2 notch#7=1.0, cut#2 made#10=0.5161319772804794, slight#1 slight#1=1.0, cut#2 cut#3=1.0]	224
+[cause#0 cause#0=1.0, cause#0 cause#4=1.0, be#3 certain#9=0.6020134748290364, case#5 cause#0=1.0, something#1 be#6=0.6412912409694294, to#2 move#2=0.6458681100877932, cause#0 condition#12=0.5431157641393278]	225
+[space#7 space#15=1.0, small#6 into#10=0.5423180781065187, state#1 being#7=1.0]	226
+[meaning#4 definition#2=0.6071904540334827, meaning#4 meaning#5=1.0, explain#2 give#0=0.6138814321886245, meaning#4 word#8=0.7356594000351753]	227
+[animals#1 wild#8=0.5831671675779765, animals#1 animals#9=1.0]	228
+[be#0 act#0=0.5178955246807112, against#1 opposition#4=0.6038218333004103]	229
+[bank#7 deposited#1=1.0, bank#7 bank#4=1.0, account#8 bank#4=0.549367811903738, money#3 money#0=1.0]	230
+[cause#0 bring#0=0.5091182305186097, existence#4 being#2=1.0, come#2 being#2=1.0, create#6 bring#0=1.0]	231
+[Performance#0 theatrical#2=1.0, Performance#0 performance#3=1.0, Performance#0 program#10=1.0, routine#2 performance#3=1.0]	232
+[people#0 people#3=1.0, assembled#1 assembled#4=1.0]	233
+[server#2 network#22=0.5302298150093422, computer#1 computer#1=1.0, computer#1 computer#5=1.0, computer#1 computer#21=1.0, server#2 computer#1=1.0, computer#1 client#8=1.0]	234
+[forbid#0 forbid#0=1.0, prohibit#2 forbid#0=1.0]	235
+[files#2 file#6=1.0, computer#0 computer#1=1.0, text#1 formatting#13=0.6059717432273692, computer#0 computer#5=1.0, text#1 text#9=1.0]	236
+[something#7 an#0=0.5258926803468135, acknowledging#4 acknowledgment#1=0.6782502331475116, gratitude#5 appreciation#3=0.720947238065808]	237
+[something#8 something#9=1.0000000000000002, else#9 something#9=0.8224216825118194, someone#6 something#9=0.8128225707771393, pretending#3 something#9=0.5273696541986581, state#1 that#3=0.5007442179007489, something#8 true#6=0.5729876208762231]	238
+[Become#0 become#2=1.0, widespread#1 widely#3=0.6294720273722609, as#2 known#4=0.6889898083916897]	239
+[]	240
+[income#0 income#1=1.0, tax#3 taxation#4=1.0, government#6 government#0=1.0]	241
+[be#0 give#4=0.6025826710026558, outcome#11 influence#2=1.0, deciding#2 shape#0=1.0, deciding#2 influence#2=1.0]	242
+[end#0 put#0=0.5544529502065441, end#0 end#2=1.0]	243
+[something#5 something#7=1.0000000000000002, region#1 portion#2=0.5180738827478764, something#5 particular#1=0.579115774030889, allocated#2 portion#2=1.0]	244
+[acknowledge#0 trust#1=0.5229661046591447, cause#4 have#0=0.5493157735019086, acknowledge#0 trust#4=0.5229661046591447, acknowledge#0 truth#7=0.5285950144497801]	245
+[arrangement#0 arrangement#3=1.0]	246
+[system#0 arrangement#1=1.0, system#0 scheme#2=1.0, arrangement#2 arrangement#1=1.0]	247
+[close#0 close#1=1.0, bounds#2 hold#7=1.0, within#1 within#2=1.0, close#0 back#8=0.5687907494965229, freedom#6 movement#10=0.5089748180511099, bounds#2 bounds#3=1.0, bounds#2 limit#5=1.0]	248
+[collect#1 get#0=1.0, gather#5 gather#2=1.0, gather#5 together#3=0.5549831074317833]	249
+[reprimand#5 censure#0=0.7278047604105736]	250
+[pair#1 pair#1=1.0, people#4 people#3=1.0]	251
+[unfit#3 unfit#1=1.0, become#2 become#0=1.0, consumption#5 consumption#3=1.0, consumption#5 use#5=1.0]	252
+[another#3 another#6=1.0, one#2 become#0=0.571189358750301, one#2 one#5=1.0]	253
+[take#0 take#0=1.0, religious#9 religious#5=1.0, vows#1 vows#1=1.0, order#10 order#6=1.0, allow#5 take#0=0.5851823199113237]	254
+[activity#0 activity#2=1.0, selling#2 selling#4=1.0]	255
+[give#0 allow#0=1.0, allow#3 allow#0=1.0]	256
+[secondary#0 secondary#2=1.0, public#1 public#1=1.0, grades#4 grades#6=1.0, school#2 school#3=1.0]	257
+[Revolutionary#6 Revolutionary#3=1.0000000000000002, leader#7 leader#4=1.0, American#5 American#2=1.0, physician#3 physician#0=1.0]	258
+[luggage#0 luggage#4=1.0, compartment#1 compartment#5=1.0, car#4 car#8=1.0]	259
+[control#5 monopoly#4=1.0, monopoly#2 monopoly#4=1.0, fully#6 have#0=0.5265093352376066]	260
+[reduce#0 reduce#0=1.0, compound#5 compound#7=1.0, simpler#3 simpler#6=1.0]	261
+[cause#0 cause#2=1.0, interested#3 be#4=0.5060642581952222]	262
+[without#6 or#3=0.628816999442343, necessary#7 to#0=0.5923392693203482, remain#1 remain#1=1.0, intellectually#4 intellectually#4=1.0, emotionally#2 emotionally#2=1.0, attached#5 attached#5=1.0]	263
+[goods#4 goods#1=1.0000000000000002, rates#7 rates#4=1.0, express#10 express#7=1.0, rates#7 rates#8=1.0, rates#11 rates#4=1.0, commerically#5 commercially#2=0.5736491484185445, cheaper#8 cheaper#5=1.0, transporting#3 transporting#0=1.0]	264
+[resources#11 resources#11=1.0, management#8 management#4=1.0, natural#10 natural#10=1.0, preservation#6 preservation#1=1.0, management#8 environment#7=0.5454339803224414]	265
+[remove#0 husk#6=1.0, husk#4 husk#6=1.0, pod#2 pod#4=1.0]	266
+[abstain#0 abstain#0=1.0, foods#6 eating#2=0.7070778464447852, eating#2 eating#2=1.0]	267
+[feel#0 feel#0=1.0, painful#3 painful#3=1.0000000000000002, burning#7 feel#0=1.0, hot#1 hot#1=1.0000000000000002]	268
+[cause#1 come#0=0.5072518134321549, refused#7 refused#4=1.0, after#5 back#1=0.6253035686973747, to#2 come#0=0.5997564597058883]	269
+[function#3 function#4=1.0, loss#1 loss#0=1.0]	270
+[controls#4 controls#2=1.0, one#2 someone#0=0.6749798944826738, resources#5 resources#3=1.0]	271
+[cooking#3 kitchen#1=0.6316622799441485, cooking#3 cooking#5=1.0, cooking#3 food#6=0.6717242198357809, appliance#4 appliance#2=1.0, stovetop#1 cooking#5=0.5076766419549409]	272
+[rinse#0 rinse#0=1.0, mouthwash#5 mouthwash#7=1.0, mouth#3 mouth#3=1.0, gargle#7 rinse#0=1.0, mouth#3 throat#5=0.7572128700380918, one#1 one#1=1.0]	273
+[calculation#6 calculation#2=1.0, quantity#1 quantity#4=1.0, approximate#5 approximate#1=1.0]	274
+[turn#0 turn#0=1.0, turn#0 around#3=0.5143500433607626, axis#3 axis#5=1.0]	275
+[marriage#0 marriage#3=1.0, offer#1 offer#1=1.0]	276
+[showing#7 show#0=1.0, fear#10 fear#3=1.0, submission#8 submission#1=1.0]	277
+[the#0 entering#1=0.5103830038255359, record#6 document#5=1.0, record#6 record#9=1.0, public#1 public#8=1.0, legal#5 legal#4=1.0]	278
+[imperfectly#6 imperfectly#5=1.0, wither#2 shrivel#0=1.0, wither#2 wither#2=1.0, mature#5 mature#4=1.0]	279
+[faith#1 faith#1=1.0, faith#1 confidence#3=0.5407570607921381]	280
+[flames#2 flames#6=1.0, burst#0 burst#4=1.0, flames#2 burn#2=0.577436881443203]	281
+[remember#6 past#4=0.5596343389157227, remember#6 remembered#7=0.7418539358346867, cognitive#1 cognitive#1=1.0, processes#2 processes#2=1.0]	282
+[water#4 water#14=1.0, section#8 closed#10=1.0, controls#2 control#12=1.0, that#1 used#17=0.5496951752415796, level#5 level#15=1.0, canal#10 canal#6=1.0, section#8 section#4=1.0, mechanism#0 control#12=1.0, level#5 lower#21=0.5705915657407783]	283
+[onerous#1 onerous#1=1.0, concern#4 concern#4=1.0, worry#2 difficult#3=0.5979052231344456, worry#2 concern#4=1.0]	284
+[someone#0 someone#0=1.0, expectations#10 expectations#7=1.0, something#2 something#3=1.0000000000000002, fulfilling#8 expectations#7=0.5126621235790202]	285
+[side#2 surfaces#9=1.0, object#5 object#12=1.0, sharp#1 sharp#1=1.0, a#0 two#8=0.500008594371059, side#2 side#2=1.0]	286
+[hit#2 hitting#0=1.0, ball#5 ball#3=1.0]	287
+[something#7 something#3=1.0000000000000002, remains#5 remains#1=1.0, broken#10 broken#9=1.0, destroyed#8 destroyed#7=1.0]	288
+[throw#0 utter#0=1.0, throw#0 utter#4=1.0, force#2 force#2=1.0]	289
+[Treat#0 treat#0=1.0, agent#9 agent#3=1.0, agent#5 agent#8=1.0, add#7 add#5=1.0, agent#5 agent#3=1.0, substance#2 agent#3=1.0]	290
+[pass#0 pass#0=1.0, esophagus#3 esophagus#3=1.0, the#2 part#5=0.6546617065682859]	291
+[move#0 move#2=1.0, usually#3 or#3=0.6059078106196455, bounded#6 bounded#8=1.0, freely#1 freely#5=1.0, within#4 within#6=1.0, space#7 space#9=1.0, usually#3 cause#0=0.5152353852084919]	292
+[secrete#0 secrete#0=1.0, water#3 water#3=1.0, secrete#0 saliva#8=0.5211841359301478, form#2 form#2=1.0]	293
+[state#1 state#1=1.0]	294
+[duration#11 duration#9=1.0, duration#11 length#14=1.0, original#14 original#17=1.0, which#6 usually#11=0.6240321377625663, theme#5 statement#1=1.0, reduced#10 lesser#8=0.518955147614128, theme#5 theme#4=1.0, the#13 half#12=0.5006879267286255, notes#8 notes#6=1.0, theme#15 theme#4=1.0]	295
+[time#0 time#1=1.0, come#2 yet#2=0.6205470814804136, come#2 come#4=1.0]	296
+[money#5 money#7=1.0, the#0 something#4=0.5143287439727262, the#0 especially#6=0.5011574568125485, owing#4 owing#3=1.0, state#2 state#1=1.0]	297
+[size#3 size#2=1.0, style#1 style#4=1.0, style#1 type#6=0.5285942146972811, style#1 type#9=0.5285942146972811]	298
+[demand#0 demand#0=1.0, one#8 one#10=1.0, due#10 due#5=1.0, take#6 assert#9=1.0, ask#2 demand#0=1.0, one#8 one#3=1.0, take#6 demand#0=1.0, due#10 right#12=1.0]	299
+[damage#7 damage#0=1.0, reputation#9 reputation#2=1.0]	300
+[Give#0 give#0=1.0, equal#1 equal#1=1.0, right#8 give#0=0.6141310227362013, rights#2 rights#2=1.0]	301
+[time#8 last#8=0.6481026990833434, time#8 longer#9=0.6256674092567922, expand#6 to#5=0.5615197151317287, lengthen#4 lengthen#0=1.0, cause#1 cause#4=1.0, time#8 time#2=1.0]	302
+[bundle#3 bundle#1=1.0, a#0 one#4=0.7051319245341068, back#6 back#8=1.0, the#5 especially#3=0.5011574568125485]	303
+[delivers#3 conveys#3=1.0, delivers#3 carries#5=1.0, person#1 person#1=1.0]	304
+[understanding#3 understanding#2=1.0, something#7 something#4=1.0000000000000002, intuitive#2 intuitive#1=1.0, appreciation#5 understanding#2=1.0]	305
+[adherence#0 adhering#0=0.688667754584514, principles#3 principles#3=1.0, moral#2 moral#2=1.0]	306
+[sex#1 sexual#1=0.7431298840100989, sex#1 intercourse#2=1.0]	307
+[partake#0 partake#0=1.0, banquet#4 feast#3=1.0, banquet#4 banquet#5=1.0]	308
+[make#0 make#0=1.0, sound#3 sound#5=1.0, ticking#2 clicking#2=1.0, ticking#2 ticking#4=1.0]	310
+[run#0 run#0=1.0, slowly#3 slowly#3=1.0, flow#2 flow#2=1.0, run#0 stream#12=1.0]	311
+[Write#0 write#0=1.0, programme#3 program#3=1.0, computer#2 computer#2=1.0]	312
+[conformance#6 conform#7=0.592783964756355, state#1 state#1=1.0, order#4 order#3=1.0, law#9 law#10=1.0]	313
+[device#3 device#3=1.0, electronic#1 electronic#1=1.0000000000000002, storage#2 memory#2=1.0]	314
+[align#5 align#10=1.0, used#3 used#5=1.0, lettering#6 lettering#7=1.0, lettering#6 letters#12=1.0, line#2 line#2=1.0, to#4 help#9=0.6728997638114127]	315
+[dedication#3 sincere#3=0.5213206234459228, dedication#3 steadfast#5=0.545909820400732, purpose#7 purpose#8=1.0, fixity#5 fixity#6=1.0]	316
+[Look#0 look#0=1.0, furtively#1 furtively#1=1.0, something#3 look#0=0.6453504170578688]	317
+[rid#4 rid#1=1.0, something#6 get#0=0.6976003986605973, get#3 get#0=1.0]	318
+[or#2 use#7=0.5734850059445747, recover#0 find#2=1.0, recover#0 recover#5=1.0, back#4 back#3=1.0, get#3 get#0=1.0]	319
+[element#18 elements#7=1.0, distribution#8 distribution#11=1.0, relative#14 relative#17=1.0, coefficient#1 coefficient#4=1.0, elements#4 elements#7=1.0, indicate#12 represent#15=1.0, frequency#7 frequency#10=1.0, importance#15 importance#18=1.0, assigned#2 assigned#5=1.0, order#10 order#13=1.0]	320
+[cause#1 cause#0=1.0, move#4 move#2=1.0, around#5 move#2=0.5227963169555967]	321
+[become#0 become#0=1.0, due#1 due#1=1.0]	322
+[Provide#0 provide#0=1.0, medical#1 veterinary#1=0.671005059927602, care#2 care#2=1.0]	323
+[new#4 new#1=1.0000000000000002, make#3 make#0=1.0]	324
+[surface#7 surface#13=1.0, coat#0 coat#2=1.0, surface#7 surface#7=1.0, the#6 put#0=0.5894538511589633, cover#2 cover#5=1.0]	325
+[batter#5 pitcher#10=0.546965232918874, strike#2 strike#0=1.0, batter#5 batter#4=1.0]	326
+[Regain#0 regain#0=1.0, make#2 make#2=1.0]	327
+[duplicate#0 duplicate#0=1.0, match#2 match#2=1.0]	328
+[indistinct#0 indistinct#0=1.0, articulations#2 articulation#1=1.0]	329
+[away#5 move#8=0.5889256562031457, away#5 away#10=1.0, shoving#3 force#4=1.0, act#1 act#1=1.0, act#1 order#6=1.0, something#4 something#9=1.0000000000000002]	330
+[forcefully#3 forcibly#1=0.7731483820750225, move#0 if#3=0.5897206821151945, drive#2 drive#0=1.0, punch#8 punch#6=1.0]	331
+[often#4 or#2=0.5759558825712271, unpleasant#5 unpleasant#1=1.0, surprise#2 disappointing#3=0.5797809408337686, surprise#2 surprise#4=1.0]	332
+[Make#0 make#0=1.0, hostile#3 hostile#2=1.0, less#1 less#1=1.0000000000000002, win#5 win#4=1.0]	333
+[informal#0 informal#0=1.0, usage#1 terms#1=0.507655635646855, domestic#4 domestic#5=1.0, cat#5 cat#6=1.0]	334
+[one#4 one#1=1.0, others#7 others#4=1.0, thing#5 thing#2=1.0, sorting#3 sorting#0=1.0]	335
+[act#1 act#1=1.0, things#7 things#4=1.0, things#7 together#5=0.5708073425393948]	336
+[camp#6 camp#8=1.0, people#1 group#1=1.0, people#1 people#3=1.0, people#1 living#4=1.0]	337
+[unforseen#1 unforeseen#1=0.8795816872281, development#2 development#2=1.0]	338
+[make#0 make#0=1.0, impure#1 impure#1=1.0, make#3 make#0=1.0]	340
+[wood#9 wood#7=1.0, implement#4 implement#1=1.0, long#1 length#5=0.630498371130714]	341
+[Formally#0 formally#0=1.0, disavow#3 disavow#3=1.0, or#2 usually#9=0.6059078106196455, held#6 held#6=1.0, reject#1 reject#1=1.0, belief#7 belief#7=1.0, formerly#5 formerly#5=1.0]	342
+[side#9 port#5=1.0, side#9 side#8=1.0, turn#5 turn#0=1.0, turn#5 go#2=1.0, left#8 left#7=1.0]	343
+[necessary#3 involve#2=0.6085828651147316, Entail#0 imply#5=1.0, necessary#3 necessary#8=1.0, result#6 result#11=1.0, accompaniment#4 accompaniment#9=1.0, necessary#3 impose#0=0.5138655902295698]	344
+[something#3 to#1=0.5546997520284509, attach#1 fix#0=1.0, attach#1 attach#3=1.0]	345
+[assign#0 assign#0=1.0, particular#3 specific#3=1.0, task#4 task#4=1.0]	346
+[culminating#0 culminating#2=1.0, event#1 event#3=1.0]	347
+[act#0 act#1=1.0, constructing#2 constructing#3=1.0]	348
+[chip#11 chip#12=1.0, component#3 processing#20=0.5077232396280406, component#3 part#5=1.0, computer#6 computer#8=1.0, microprocessor#10 microprocessor#11=1.0, computer#6 computer#1=1.0]	349
+[consider#0 consider#0=1.0, usually#3 that#6=0.5707222971068653, changing#8 altering#17=0.6882281207224965, view#6 view#15=1.0, to#7 upon#10=0.5104939349117964]	350
+[cancel#0 cancel#0=1.0, annul#4 annul#2=1.0, reverse#2 reverse#5=1.0]	351
+[define#0 determine#0=1.0, essential#3 essential#2=1.0, qualities#4 quality#3=1.0, determine#2 determine#0=1.0]	352
+[killing#3 killing#3=1.0, pursuit#1 pursuit#1=1.0, animals#7 wild#7=0.5831671675779765, animals#7 animals#8=1.0, capture#5 capture#5=1.0]	353
+[manipulate#0 manipulate#0=1.0, instrument#6 organ#5=0.5139423047781055, registers#2 registers#2=1.0]	354
+[move#0 move#0=1.0, course#4 course#13=1.0, irregular#3 irregular#12=1.0, in#1 place#6=0.5709612416421497, in#1 place#8=0.5709612416421497]	355
+[rights#6 rights#4=1.0, legal#1 rights#4=0.6127638176129578, granting#2 granting#3=1.0]	356
+[electrical#2 electric#7=0.6969516634431505, current#3 current#8=1.0, body#6 body#11=1.0]	357
+[Become#0 become#0=1.0, pregnant#1 pregnant#1=1.0000000000000002]	358
+[bestowing#1 bestowing#5=1.0, franchise#4 franchise#7=1.0]	359
+[act#0 act#1=1.0, distributing#2 apportioning#3=1.0, distributing#2 distributing#5=1.0]	360
+[state#1 state#1=1.0, more#4 full#6=0.5378809940875797]	361
+[conscious#0 conscious#1=1.0, emotion#2 emotion#7=1.0, subjective#1 subjective#2=1.0, desire#4 feeling#5=1.0, emotion#2 feeling#5=1.0]	362
+[candidate#7 election#13=0.6831501815393713, for#8 suitable#8=0.5186670640926272, something#9 as#6=0.5952949939876824, proposing#3 proposed#5=1.0, someone#4 having#3=1.0, act#1 as#6=0.5524155947139773, candidate#7 candidate#9=1.0, someone#4 appointment#11=1.0]	363
+[hunt#1 hunt#0=1.0, snipe#2 snipe#3=1.0]	364
+[hunt#0 hunt#0=1.0, hawks#2 hawks#2=1.0]	365
+[layer#3 layer#4=1.0, brick#5 masonry#6=0.7001689282631302]	366
+[some#4 usually#1=0.5497330471431603, brief#1 brief#2=1.0, endeavor#5 attempt#3=1.0, attempt#2 attempt#3=1.0]	367
+[propagation#0 propagating#4=0.7884285211701252, back#3 back#13=1.0, surface#6 surface#16=1.0, waves#2 wave#5=1.0]	368
+[examine#0 examine#0=1.0, minutely#1 minutely#1=1.0]	369
+[fond#3 fond#1=1.0]	370
+[another#8 another#12=1.0, person#1 person#1=1.0, custody#6 custody#10=1.0, guardianship#4 protection#6=1.0]	371
+[Strike#0 strike#0=1.0, sharply#3 sharply#1=1.0, hit#2 strike#0=1.0, sport#8 sports#6=1.0, perhaps#5 some#5=0.696868994296878]	372
+[Fly#0 fly#0=1.0, glider#5 glider#7=1.0, plane#6 plane#8=1.0]	373
+[one#0 part#2=0.6408772416697527, fourth#1 fourth#1=1.0, one#0 three#7=0.7206590199773432, year#4 year#5=1.0, year#4 months#8=0.72334869365576]	374
+[make#0 make#0=1.0, tight#4 tight#1=1.0, tight#4 tighter#3=0.6323652062690066, thing#3 make#0=0.6445304132548553]	375
+[provide#0 provide#0=1.0, person#3 authority#4=1.0, authority#10 authority#4=1.0, power#8 power#2=1.0]	376
+[Run#0 run#0=1.0, moderately#3 moderately#3=1.0, swift#4 swift#4=1.0, pace#5 pace#5=1.0]	377
+[Envelop#0 cover#3=1.0, cover#5 cover#3=1.0, form#3 form#0=1.0]	378
+[mold#0 mold#1=1.0, setting#4 setting#3=1.0, casting#2 mold#1=1.0, concrete#5 concrete#4=1.0]	379
+[erode#6 erode#3=1.0, away#4 away#1=1.0, wear#3 wear#0=1.0]	380
+[desired#6 desired#3=1.0, intensely#7 intensely#4=1.0, feeling#1 desired#3=1.0, something#3 something#0=1.0000000000000002]	381
+[bottle#5 bottles#7=1.0, put#0 bottles#7=1.0, store#2 store#0=1.0]	382
+[meaning#10 be#0=0.5219482570272646, indication#4 indication#4=1.0, sign#2 sign#2=1.0]	383
+[choosing#3 choosing#3=1.0, choosing#3 selecting#5=1.0, among#7 of#2=0.5265015805381275, act#1 act#1=1.0, many#8 the#0=0.5080083446490662, picking#5 choosing#3=0.5434479583228081, one#6 the#0=0.6881828387095303]	384
+[act#0 act#1=1.0, distant#3 distant#5=1.0, becoming#2 becoming#3=1.0]	385
+[take#0 take#0=1.0, marriage#6 marriage#2=1.0, marriage#2 marriage#2=1.0]	386
+[Skip#0 skip#0=1.0, motion#15 move#5=1.0, leap#2 leap#2=1.0, sideways#10 sideways#10=1.0, move#5 move#5=1.0]	387
+[stronghold#4 stronghold#1=1.0]	388
+[fashionable#1 fashionable#1=1.0, given#5 the#0=0.5689862446396118, elite#2 elite#2=1.0]	389
+[characteristic#0 characteristic#1=1.0, call#1 utterance#2=1.0, animal#4 animal#5=1.0]	390
+[make#0 make#0=1.0, intense#6 intense#2=1.0, become#2 make#0=1.0]	391
+[some#3 usually#6=0.5497330471431603, journey#1 journey#1=1.0, some#3 including#7=0.5098203379431997, purpose#4 purpose#4=1.0]	392
+[fraudulent#7 fraudulent#3=1.0, falsify#2 manipulate#0=1.0, manner#8 manner#4=1.0]	393
+[fruit#0 fruit#0=1.0, cooked#1 cooking#3=0.6828706124333284, sugar#4 sugar#5=1.0]	394
+[leading#3 leading#3=1.0, act#1 activity#1=1.0]	395
+[coating#0 finishing#1=1.0, coating#0 coat#2=1.0, moisture#6 moisture#6=1.0, used#1 applied#3=0.5531575347203965]	396
+[cleans#3 cleans#2=1.0, person#1 someone#0=1.0, chimneys#4 chimneys#5=1.0]	397
+[Shine#0 emit#0=1.0, even#7 even#3=1.0, Shine#0 flames#6=1.0, even#7 without#5=0.6728564826728066, steady#5 steady#2=1.0, light#8 light#4=1.0, emit#3 emit#0=1.0]	398
+[behave#0 behave#0=1.0, effect#9 certain#3=0.5381541548777397, certain#3 certain#3=1.0, way#4 way#4=1.0, specific#8 certain#3=0.7485469708352019]	399
+[communicate#0 express#0=1.0, communicate#0 utter#2=1.0, hiss#3 hiss#5=1.0]	400
+[bee#2 bees#8=1.0, queen#9 queen#21=1.0, the#8 especially#10=0.5011574568125485, function#4 function#15=1.0, bee#2 honeybees#11=1.0, male#1 male#1=1.0, bee#2 bee#2=1.0, whose#3 whose#13=1.0]	401
+[boxing#4 boxing#1=1.0, boxing#4 wrestling#3=0.6633059859198762, match#2 match#4=1.0]	402
+[cause#0 cause#0=1.0, animals#6 animals#4=1.0, reproduce#2 procreate#2=1.0]	403
+[annoyance#3 annoyance#3=1.0, hindered#6 hindered#6=1.0, feeling#1 feeling#1=1.0, thwarted#8 hindered#6=0.5428290375255069]	404
+[move#0 move#0=1.0, along#1 along#1=1.0, wheels#3 wheels#7=1.0, wheels#3 wheeled#10=1.0]	405
+[provide#1 provide#0=1.0, new#4 new#3=1.0000000000000002, provide#1 seat#4=1.0, place#8 seat#4=1.0, different#6 with#1=0.5245949267577616]	406
+[activity#0 act#1=1.0, ore#3 ores#4=1.0, ore#3 coal#6=0.6531025739068377, ground#9 earth#10=1.0, extracting#2 extracting#3=1.0, matter#6 act#1=0.5204689249186694]	407
+[uninvited#4 uninvited#1=1.0, enter#3 enter#0=1.0]	408
+[value#8 value#8=1.0, thing#3 thing#3=1.0, value#8 measure#10=1.0, another#6 another#6=1.0, person#1 person#1=1.0, equal#4 equal#4=1.0, or#2 etc.#17=0.5635349726288255]	409
+[cause#1 cause#1=1.0, cause#1 pain#3=0.605263078466888, harm#5 injury#5=1.0]	410
+[make#0 make#0=1.0, make#0 clear#1=1.0, comprehensible#4 comprehensible#6=1.0]	411
+[being#3 act#1=0.5081975712655605, being#3 something#4=0.6249890993939865, retained#4 retaining#3=1.0]	412
+[wrong#4 problem#1=0.6458982591348044, problem#1 problem#1=1.0, something#3 a#0=0.5806079283905188]	413
+[stretch#0 stretch#0=1.0, completely#4 completely#2=1.0]	414
+[continue#0 continue#0=1.0, exist#4 live#2=1.0, live#2 live#2=1.0]	415
+[caress#1 caressing#3=1.0, lips#4 lips#6=1.0]	416
+[Provide#0 rails#2=1.0, rails#2 rails#2=1.0, laying#6 lay#0=1.0]	417
+[one#4 one#3=1.0, close#1 one#3=0.542621078914338, another#7 another#7=1.0, approach#2 motion#1=1.0, object#5 object#4=1.0]	418
+[make#0 make#0=1.0, pointed#5 pointed#7=1.0, make#0 especially#4=0.590680541820681, tool#6 tool#11=1.0, make#0 hand#10=0.5462363155055473, hole#2 hole#2=1.0]	419
+[part#8 part#8=1.0, old#3 old#3=1.0, part#8 piece#0=1.0, new#7 new#7=1.0000000000000002, something#2 something#2=1.0000000000000002]	420
+[act#1 act#1=1.0, breakage#7 breaking#3=1.0, something#4 something#4=1.0000000000000002]	421
+[building#6 building#18=1.0, building#6 building#4=1.0, ground#1 ground#15=1.0, level#2 level#12=1.0, ground#1 floor#1=1.0]	422
+[quantity#1 quantity#1=1.0, something#3 a#0=0.5806079283905188]	423
+[large#1 large#1=1.0, room#2 room#2=1.0]	424
+[leave#0 keep#4=0.6647345668600964, entering#7 entering#2=1.0, prevent#5 prevent#0=1.0, prevent#5 keep#4=1.0]	425
+[Sniff#0 sniff#0=1.0, Sniff#0 smell#2=1.0, inquiringly#2 inquiringly#3=1.0]	426
+[provide#0 provide#0=1.0]	427
+[Change#0 change#0=1.0, a#6 something#7=0.5806079283905188, system#7 function#5=0.5003971953668302, functioning#4 function#5=1.0, purpose#2 inherent#2=0.5158228882182497, purpose#2 purpose#3=1.0]	428
+[provide#0 provide#0=1.0, purpose#8 purpose#9=1.0, a#6 something#3=0.5806079283905188, or#3 usually#5=0.6059078106196455, specific#7 specific#8=1.0]	429
+[gain#0 gain#0=1.0, points#1 points#1=1.0, game#4 game#4=1.0]	430
+[travel#0 travel#0=1.0, be#5 others#9=0.5374931801804802, travel#0 advance#7=1.0, precede#8 travel#0=1.0, front#2 front#2=1.0, precede#8 go#5=1.0]	431
+[Remove#0 remove#0=1.0, rubbing#2 rubbing#6=1.0]	432
+[upper#2 upper#6=1.0, human#6 that#3=0.5056902538609253, hard#1 hard#1=1.0, part#3 part#7=1.0, nose#7 nose#10=1.0]	433
+[make#0 make#0=1.0, shine#1 shine#5=1.0]	434
+[recover#0 return#0=1.0, former#4 former#3=1.0, state#5 condition#4=1.0]	435
+[remove#0 remove#0=1.0, husk#4 husks#2=1.0, pod#2 husks#2=1.0]	436
+[speed#0 speed#0=1.0, process#3 progress#3=0.5702270370038197, process#3 facilitate#6=0.5222767214723224]	437
+[miss#6 missing#5=1.0, third#8 third#11=1.0, pitch#9 pitch#7=1.0, swing#4 swinging#3=1.0, striking#11 strike#0=0.5549050958667421, pitch#9 strike#0=1.0]	438
+[rank#6 rank#2=1.0, raise#3 raise#0=1.0, status#8 status#7=1.0]	439
+[alter#0 make#0=1.0, means#3 means#3=1.0, make#6 make#0=1.0, chemical#2 chemical#5=1.0]	440
+[disease#3 acute#1=0.6346997374711507, highly#0 highly#3=1.0, disease#3 disease#6=1.0, infectious#1 contagious#4=0.7742628105637057, viral#2 viral#5=1.0]	441
+[make#0 make#0=1.0, size#3 size#3=1.0, make#0 bring#5=1.0, size#3 size#9=1.0, sort#5 make#0=1.0, certain#2 make#0=0.5761331724253517, size#8 size#3=1.0]	442
+[Remove#0 remove#0=1.0, tree#1 tree#1=1.0, stumps#2 stumps#2=1.0]	443
+[pass#0 pass#0=1.0, take#5 the#1=0.5523843107462206, tongue#2 tongue#2=1.0, tongue#9 tongue#2=1.0]	444
+[image#3 image#1=1.0]	445
+[do#0 come#0=0.6910397034162628, win#6 race#7=0.5127555455140906, better#1 better#2=1.0, competition#4 competition#5=1.0, competition#4 race#7=1.0]	446
+[gravity#4 gravity#12=1.0, aerodynamic#0 aerodynamic#4=1.0, opposed#3 acting#6=1.0, aerodynamic#0 airfoil#9=0.5801496512496203, force#1 forces#5=1.0, opposed#3 opposes#11=1.0]	447
+[Start#0 start#0=1.0, abruptly#1 abruptly#1=1.0]	448
+[public#6 local#4=0.5274284254687593, announcement#2 program#10=1.0, broadcast#7 broadcasting#1=0.8814001044403613, made#3 into#7=0.5000168942520514, local#1 local#4=1.0, within#4 into#7=0.581748204408265, broadcast#7 network#9=0.5334902070155516, broadcast#7 program#10=1.0, announcement#2 announcement#5=1.0]	449
+[making#0 something#0=0.6439316515418516, making#0 made#3=1.0, concrete#3 concrete#6=1.0, real#1 real#4=1.0]	450
+[Sound#0 sound#0=1.0, shrilly#3 shrilly#3=1.0, sharply#1 sharply#1=1.0]	451
+[to#6 enter#6=0.5820906427008833, act#1 act#1=1.0, somewhere#7 someone#4=0.6577663375021916, entrance#5 enter#6=0.5071951958640434]	452
+[spend#0 spend#0=1.0, prison#3 prison#3=1.0, time#1 time#1=1.0]	453
+[hold#0 hold#2=1.0, within#3 within#5=1.0, contain#2 contain#0=1.0]	454
+[act#0 act#1=1.0, informing#3 informing#3=1.0, informing#3 report#6=1.0, verbally#2 verbal#5=0.6230484652331416]	455
+[forcefully#0 forcefully#3=1.0, request#1 request#0=1.0]	456
+[quality#1 quality#1=1.0]	457
+[throw#0 throw#0=1.0, quickly#1 quickly#1=1.0]	458
+[move#0 move#0=1.0, fro#3 fro#3=1.0, point#7 move#0=0.5416270304314753, around#4 move#0=0.5227963169555967, remain#11 move#0=0.5247838012273983]	459
+[Put#0 put#0=1.0, something#3 something#3=1.0000000000000002, towards#10 up#1=0.5091250857204245, unpleasant#6 unpleasant#6=1.0, authority#14 somebody#5=1.0, someone#11 somebody#5=1.0, someone#5 somebody#5=1.0]	460
+[termination#3 termination#1=1.0, social#6 relationship#6=0.5037493535993465, breakup#1 termination#1=1.0, relationship#7 relationship#6=1.0]	461
+[destruction#0 destroy#0=0.6854356083040666, ship#3 ship#2=1.0]	462
+[something#5 something#11=1.0000000000000002, making#4 act#1=1.0, new#6 first#7=0.5765477147651594, making#4 starting#3=1.0, new#6 introducing#10=0.5017727517181036, new#6 new#12=1.0000000000000002, act#2 act#1=1.0, making#4 time#8=0.590946838378726, something#5 something#4=1.0000000000000002]	463
+[ride#0 ride#0=1.0, bicycle#3 motorcycle#2=0.7087192772370012, motorcycle#5 motorcycle#2=1.0]	464
+[money#8 money#11=1.0, principal#1 principal#1=1.0, one#4 life#5=0.5441531911793603, one#4 that#6=0.7697202484986965, activity#2 activity#2=1.0, earn#7 earn#10=1.0]	465
+[maintain#0 continue#0=1.0, state#7 state#3=1.0, particular#4 certain#2=0.804967833955002, activity#10 activity#8=1.0, preserve#2 continue#0=1.0, condition#5 condition#5=1.0]	466
+[reply#4 reply#12=1.0, question#7 question#15=1.0, written#3 written#6=1.0, reply#4 statement#1=1.0, spoken#1 spoken#4=1.0, written#3 made#10=1.0, or#2 either#3=0.7964318064868536]	467
+[committee#0 committee#1=1.0, powers#3 powers#4=1.0, supervisory#2 supervisory#3=1.0]	468
+[section#1 section#2=1.0, composition#4 composition#6=1.0, musical#8 musical#5=1.0]	469
+[machine#8 machine#8=1.0, gear#1 reversed#11=1.0, direction#12 motion#5=0.5056536451960367, opposite#11 reversed#11=1.0, changing#3 motion#5=1.0, gear#1 gears#1=1.0, motion#5 motion#5=1.0]	470
+[take#0 take#0=1.0, walk#3 walk#2=1.0, a#1 one#4=0.7051319245341068, meal#6 meal#15=1.0]	471
+[forked#0 forked#4=1.0, shape#3 shape#7=1.0, forked#0 branching#6=1.0, form#1 shape#7=1.0]	472
+[plug#5 plug#10=1.0, close#2 close#2=1.0]	473
+[incite#0 incite#0=1.0, insubordination#4 insubordination#12=1.0, act#2 act#8=1.0, incite#0 move#2=1.0, incite#0 persuade#5=0.5045092341927552]	474
+[formally#0 announce#0=0.5233332634909827, agreement#6 termination#2=0.5179037319689783, termination#3 termination#2=1.0, announce#1 announce#0=1.0, agreement#6 treaties#7=0.5043406140966451]	475
+[beat#0 throb#2=1.0, beat#0 beat#4=1.0, rapidly#3 rapidly#5=1.0]	476
+[Make#0 make#0=1.0, lines#13 lines#4=1.0, marks#4 mark#2=1.0, surface#7 surface#7=1.0, line#2 lines#4=1.0]	477
+[recite#0 recite#0=1.0, recite#0 recite#5=1.0, chant#3 chant#8=1.0, intone#5 recite#0=0.5510802604180414]	478
+[computers#3 computer#1=1.0, exchange#5 exchange#7=1.0, them#9 several#21=0.5884059897393583, it#14 usually#12=0.5565848937629868, use#12 use#9=1.0, ability#1 science#2=1.0, make#11 made#18=1.0, ability#1 ability#5=1.0, information#7 information#10=1.0, digital#6 computer#1=0.5181450515232532]	479
+[act#0 act#1=1.0, force#3 force#4=1.0, applying#2 applying#3=1.0]	480
+[becoming#3 becoming#3=1.0, smaller#6 smaller#4=1.0, smaller#6 shorter#6=0.5954947744309188, process#1 process#1=1.0, less#4 smaller#4=0.604595290399615]	481
+[authority#6 control#2=1.0, exercise#5 exercise#0=1.0, control#8 control#2=1.0, command#2 control#2=1.0, control#8 power#4=1.0]	482
+[role#6 part#4=1.0, play#4 play#2=1.0, something#8 be#0=0.6412912409694294, factor#2 part#4=1.0]	483
+[land#3 land#4=1.0, expanse#1 area#2=1.0]	484
+[move#0 move#0=1.0, motion#7 move#0=1.0, implement#2 implement#2=1.0]	485
+[deprive#0 deprive#0=1.0, hope#4 feel#13=0.6645032973323124, deprive#0 take#6=1.0, optimism#7 hope#4=1.0, hope#4 hope#4=1.0, courage#2 courage#2=1.0, hope#4 hope#8=1.0, hope#4 cause#11=0.509750376276167]	486
+[forces#2 forces#9=1.0, armed#1 branch#5=1.0, forces#2 force#1=1.0, armed#1 armed#8=1.0]	487
+[Furnish#0 furnish#0=1.0]	488
+[Remove#0 remove#0=1.0, water#1 water#1=1.0]	489
+[Provide#0 provide#0=1.0, laying#6 rails#2=1.0, rails#2 rails#2=1.0]	490
+[make#0 be#0=1.0, summary#4 summary#2=1.0]	491
+[smut#3 smut#2=1.0, affected#1 affect#0=1.0, mildew#5 mildew#4=1.0]	492
+[Talk#0 talk#0=1.0, amorously#3 amorously#3=1.0, with#7 without#5=0.6350925904898556, behave#2 behave#2=1.0, have#5 serious#6=0.52455224550389]	493
+[Excuse#0 excuse#2=1.0, something#10 excuse#2=0.5548467689578939, excuse#8 excuse#2=1.0, accept#6 accept#0=1.0]	494
+[signs#3 signal#2=1.0, indicate#0 signal#2=1.0, symptoms#5 symptom#6=1.0]	495
+[written#3 written#3=1.0, verbal#1 verbal#1=1.0, request#4 request#4=1.0, access#6 admission#10=1.0, something#8 a#0=0.5806079283905188, request#4 assistance#6=0.5176440988174029]	496
+[result#3 consequence#4=1.0, logical#2 logical#3=1.0000000000000002]	497
+[foot#2 foot#2=1.0]	498
+[suction#3 sucking#3=1.0, act#1 act#1=1.0]	499
+[identify#8 placed#8=1.0, leather#3 leather#3=1.0, made#6 is#7=1.0, band#1 band#1=1.0, animals#9 animal#11=1.0, identify#8 identify#19=1.0, to#7 around#9=0.5064145798253393, rope#5 rope#5=1.0]	500
+[Put#0 put#0=1.0, harness#2 harness#2=1.0]	501
+[Provide#0 provide#0=1.0, equip#2 equip#2=1.0, furniture#5 furniture#4=1.0, specifically#3 provide#0=0.5892491691385082]	502
+[quickly#8 quickly#8=1.0, something#14 away#11=0.5796452995160088, away#11 away#11=1.0, body#6 body#6=1.0, move#1 move#1=1.0, downwards#9 downwards#9=1.0, head#4 head#4=1.0]	503
+[reason#0 reason#0=1.0, deduction#4 deduction#2=1.0, deduction#4 deduction#6=1.0, establish#2 establish#4=1.0]	504
+[Make#0 cause#2=1.0, grow#7 grow#4=1.0, cause#5 cause#2=1.0, fertilize#3 fertilize#0=1.0]	505
+[find#0 find#0=1.0, meaning#7 meaning#13=1.0, understand#5 question#8=0.6138171152892912, understand#5 understand#11=1.0, solution#2 solution#2=1.0, understand#5 problem#6=0.595924894069498]	506
+[Move#0 move#0=1.0, confused#4 confused#4=1.0, manner#7 manner#5=1.0]	507
+[put#0 put#0=1.0, something#3 something#3=1.0000000000000002, something#3 somebody#5=0.7230145744770331, unpleasant#4 unpleasant#6=1.0]	508
+[communicated#8 expressed#8=1.0, agency#3 agency#3=1.0, communicated#8 communicated#10=1.0, something#6 something#6=1.0000000000000002, means#1 means#1=1.0]	509
+[take#0 take#0=1.0, constituent#3 constituent#4=1.0, apart#1 apart#1=1.0, pieces#4 pieces#5=1.0]	510
+[part#6 part#6=1.0, short#1 short#1=1.0, longer#9 longer#9=1.0, program#3 program#10=1.0, theatrical#2 theatrical#2=1.0, program#10 program#10=1.0, theatrical#2 performance#3=1.0]	511
+[decree#0 order#2=1.0, order#4 order#2=1.0, issue#2 issue#0=1.0]	512
+[ending#3 termination#1=1.0, meeting#6 meeting#4=1.0, termination#1 termination#1=1.0]	513
+[orients#3 orients#3=1.0, indicator#1 indicator#1=1.0, one#4 that#2=0.7697202484986965, generally#5 generally#5=1.0]	514
+[Increase#0 increase#0=1.0, volume#3 volume#2=1.0]	515
+[open#0 open#0=1.0, members#2 members#6=1.0, races#5 races#9=1.0, groups#8 groups#12=1.0, all#4 place#3=0.5738089030168138, ethnic#7 ethnic#11=1.0]	516
+[reduce#0 reduce#0=1.0, pounding#5 pounding#7=1.0, pieces#3 pieces#3=1.0, small#2 small#2=1.0, abrading#7 abrading#9=1.0]	517
+[hit#0 hit#0=1.0, fly#2 fly#2=1.0]	518
+[pull#4 pull#4=1.0, line#7 line#7=1.0, allowing#2 allowing#2=1.0]	519
+[conflict#4 conflict#7=1.0, come#2 come#5=1.0]	520
+[Produce#0 produce#0=1.0, click#3 click#2=1.0]	521
+[angle#0 angle#0=1.0, hook#3 hook#3=1.0, water#9 water#9=1.0, draw#7 drawn#6=1.0, line#5 line#5=1.0]	522
+[front#1 front#3=1.0, face#2 face#1=1.0, building#5 building#6=1.0]	523
+[make#0 make#0=1.0, diverse#3 diverse#3=1.0, something#1 something#1=1.0000000000000002, varied#5 varied#5=1.0]	524
+[issue#0 issue#0=1.0, bonds#1 bonds#1=1.0]	525
+[women#0 woman#1=1.0, undergarment#3 undergarment#4=1.0, sleeveless#2 sleeveless#3=1.0]	526
+[Move#0 move#0=1.0, fast#3 fast#2=1.0]	527
+[Oppose#0 oppose#0=1.0, hostility#6 hostility#4=1.0, competition#8 competition#7=1.0]	528
+[make#0 make#0=1.0, intricate#4 intricate#4=1.0000000000000002, complex#2 complex#2=1.0]	529
+[create#0 create#0=1.0, components#6 components#3=1.0, together#9 together#6=1.0, new#2 create#0=0.5026693075191133, putting#5 putting#2=1.0, members#8 members#5=1.0]	531
+[providing#3 providing#5=1.0, activity#1 activity#1=1.0, the#0 something#6=0.5143287439727262, supplies#4 supplying#3=0.6283965855513286, activity#1 supplying#3=1.0]	532
+[make#0 make#0=1.0, brighter#3 brighter#3=1.0, lighter#5 lighter#1=1.0, become#2 make#0=1.0]	533
+[actors#0 actors#1=1.0, play#3 play#4=1.0]	534
+[take#0 take#0=1.0, soul#3 soul#4=1.0, someone#1 someone#2=1.0, heaven#5 heaven#6=1.0]	535
+[Discipline#0 discipline#0=1.0, social#4 social#4=1.0, personal#2 personal#2=1.0, activities#5 activities#5=1.0]	536
+[often#6 especially#6=0.7496777338253463, person#1 person#1=1.0, restaurant#9 restaurant#9=1.0, meal#4 meal#4=1.0, eating#2 eating#2=1.0]	537
+[sudden#1 sudden#1=1.0, outburst#5 outburst#2=1.0]	538
+[make#0 make#0=1.0, harder#3 hard#1=0.702056991015564, harder#3 harder#3=1.0, become#2 make#0=1.0]	539
+[introductory#1 introductory#1=1.0, portion#2 section#2=1.0, story#5 story#5=1.0]	540
+[work#0 work#0=1.0, tool#4 tool#3=1.0]	541
+[less#3 less#1=1.0000000000000002, make#0 make#0=1.0, severe#6 severe#2=1.0, strict#4 strict#4=1.0, become#2 make#0=1.0]	542
+[support#0 support#0=1.0, something#6 something#4=1.0000000000000002, solid#7 solid#5=1.0, placing#2 placing#2=1.0]	543
+[Part#0 part#0=1.0, something#9 or#3=0.530078323224595, association#6 association#5=1.0, cease#2 cease#2=1.0, break#5 break#4=1.0]	544
+[something#11 something#9=1.0000000000000002, means#3 means#3=1.0, buy#7 buy#8=1.0, financial#2 financial#2=1.0000000000000002, something#11 something#6=1.0000000000000002, obtain#5 to#4=0.5155486370967859]	545
+[party#8 party#8=1.0, political#7 public#14=0.5544637559144004, candidates#3 candidates#3=1.0, list#1 list#1=1.0, nominated#4 nominated#4=1.0, election#12 election#12=1.0, political#7 political#7=1.0, run#10 run#10=1.0]	546
+[say#0 say#1=1.0, state#2 state#3=1.0, perform#5 perform#6=1.0]	547
+[allow#0 allow#0=1.0, air#4 air#4=1.0, passage#2 passage#2=1.0]	548
+[unite#0 unite#0=1.0, something#4 something#4=1.0000000000000002, existence#7 existence#7=1.0, merge#2 merge#2=1.0, already#5 already#5=1.0]	549
+[use#0 use#0=1.0, materials#3 materials#5=1.0, resources#1 resources#3=1.0]	550
+[make#0 become#0=1.0, harder#3 hard#1=0.702056991015564, harder#3 harder#3=1.0, become#2 become#0=1.0]	551
+[attached#6 attached#4=1.0, Cause#1 cause#0=1.0, firmly#5 firmly#3=1.0]	552
+[make#0 become#0=1.0, wider#3 broader#1=0.8032852597752755, wider#3 wider#3=1.0, extensive#6 extensive#6=1.0, become#2 become#0=1.0]	553
+[Unrestricted#0 unrestricted#0=1.0, use#3 use#3=1.0, freedom#1 freedom#1=1.0, something#4 to#2=0.5546997520284509]	554
+[taking#6 taking#3=1.0, act#4 act#1=1.0, possession#7 possession#4=1.0, power#11 power#7=1.0, something#14 something#9=1.0000000000000002]	555
+[give#0 give#0=1.0, structure#1 structure#2=1.0]	556
+[mark#0 mark#0=1.0, scars#2 scar#3=1.0]	557
+[runner#6 runner#3=1.0, base#5 base#2=1.0, get#8 get#5=1.0, Tag#3 tag#0=1.0]	558
+[light#5 light#8=1.0, heat#3 heat#3=1.0, shock#8 shock#10=1.0, reflected#1 reflected#1=1.0, waves#9 waves#11=1.0]	559
+[likely#3 thought#2=0.5952214871228659, likely#3 likely#3=1.0, competitor#1 competitor#1=1.0, win#5 win#5=1.0]	560
+[make#0 become#0=1.0, longer#3 long#1=0.7411580349344995, longer#3 longer#3=1.0, become#2 become#0=1.0]	561
+[inning#8 inning#9=1.0, base#2 base#3=1.0, end#5 end#6=1.0]	562
+[Either#0 either#0=1.0, female#8 female#8=1.0, two#3 two#3=1.0, male#6 male#6=1.0, categories#23 categories#4=1.0, categories#4 categories#4=1.0, divided#15 divided#15=1.0, organisms#13 organisms#13=1.0]	563
+[element#8 oxygen#25=1.0, given#17 given#14=1.0, weight#5 weight#15=1.0, combining#13 combining#10=1.0, element#8 element#5=1.0, element#21 element#5=1.0, capacity#14 capacity#11=1.0, same#12 standard#21=0.5225583860494795, atomic#4 atomic#1=1.0, another#20 another#17=1.0, element#8 element#18=1.0, weight#5 weight#2=1.0, weight#18 weight#2=1.0]	564
+[provide#0 provide#0=1.0, toggle#3 toggle#3=1.0, toggle#3 toggles#5=1.0]	565
+[side#9 back#3=1.0, cause#1 cause#0=1.0, move#4 move#2=1.0, forth#7 forth#5=1.0, side#11 back#3=1.0, back#5 back#3=1.0]	566
+[measure#0 measure#0=1.0, water#7 water#8=1.0, depth#2 depth#2=1.0, measure#0 sounding#12=1.0, body#5 body#6=1.0]	567
+[make#0 make#0=1.0, noise#3 noise#3=1.0, animal#7 animal#7=1.0, loud#2 loud#2=1.0]	568
+[voyage#8 voyage#8=1.0, coming#3 coming#3=1.0, coming#3 land#5=1.0, act#1 act#1=1.0, rest#5 the#0=0.6161683452743085]	569
+[ideas#9 ideas#4=1.0, people#12 people#7=1.0, objects#7 objects#2=1.0, together#3 together#8=1.0, join#0 together#8=0.5313221102654296, bring#2 bring#0=1.0, two#5 two#1=1.0]	570
+[Make#0 make#0=1.0, reference#1 reference#1=1.0, something#3 make#0=0.711931351044391]	571
+[Behave#0 behave#0=1.0, break#12 if#4=0.5508811348418007, violently#1 violently#1=1.0, great#9 great#9=1.0, state#7 state#6=1.0, anger#10 anger#10=1.0, violently#15 violently#1=1.0]	572
+[move#4 move#0=1.0, spiral#7 spiral#3=1.0, Form#0 course#6=1.0, spiral#7 zigzag#5=0.5324149285234442, spiral#2 spiral#3=1.0, course#8 course#6=1.0]	573
+[aversion#3 aversion#3=1.0, feeling#1 feeling#1=1.0, antipathy#7 antipathy#5=1.0, distaste#5 aversion#3=1.0]	574
+[result#8 result#8=1.0, Release#0 release#0=1.0, chemical#11 chemical#11=1.0, physical#14 physical#14=1.0, sense#21 physical#14=0.5327929596941483, energy#4 energy#4=1.0, reaction#12 reaction#12=1.0, decomposition#15 decomposition#15=1.0, perhaps#17 as#6=0.6362584949200119, gas#2 gas#2=1.0]	575
+[overcome#0 overcome#0=1.0, amazement#2 amazement#2=1.0]	576
+[behave#0 behave#0=1.0, condescending#3 patronizing#3=0.8426220973888522, condescending#3 condescending#5=1.0, manner#4 manner#6=1.0]	577
+[take#0 take#0=1.0, family#4 family#4=1.0, one#2 one#2=1.0]	578
+[bid#6 bid#6=1.0, Contract#1 contract#1=1.0, becomes#7 becomes#7=1.0, bidder#18 bidder#17=1.0, bridge#2 bridge#2=1.0, number#13 number#12=1.0, Contract#1 contract#9=1.0, contract#9 contract#1=1.0, must#19 must#18=1.0, make#20 make#19=1.0, tricks#15 tricks#14=1.0, setting#10 setting#10=1.0, highest#5 highest#5=1.0]	579
+[go#0 go#0=1.0, campaign#3 campaign#3=1.0, go#0 go#5=1.0, war#7 war#8=1.0]	580
+[react#0 react#0=1.0, call#6 command#5=1.0, stimulus#11 stimulus#3=1.0, command#8 command#5=1.0, respond#3 react#0=0.6965608604748568]	581
+[resonance#5 resonance#2=1.0, sound#3 sound#0=1.0]	582
+[heat#9 heat#6=1.0, injury#1 injury#1=1.0, radiation#7 exposure#4=0.5540781588873923, caused#5 caused#2=1.0, radiation#7 radiation#10=1.0, chemicals#11 chemicals#8=1.0]	583
+[make#0 make#0=1.0, logical#4 logical#2=1.0000000000000002, together#8 make#0=0.5791920222635718, causal#2 causal#4=1.0, connection#5 connection#5=1.0]	584
+[Apply#0 apply#0=1.0, make#3 make#6=1.0, conditioner#1 conditioner#1=1.0, shiny#6 shiny#9=1.0, smooth#4 smooth#7=1.0, to#2 order#4=0.5855139662945723]	585
+[exercise#0 exercise#0=1.0, memory#5 memory#8=1.0, power#3 power#5=1.0]	586
+[state#3 state#1=1.0, anger#6 anger#4=1.0, feeling#1 state#1=1.0, extreme#5 extreme#3=1.0]	587
+[Wrinkled#0 wrinkled#1=1.0, crumpled#2 crumpled#3=1.0, creased#5 creased#5=1.0]	588
+[accounting#1 accounting#1=1.0, 12#4 12#4=1.0, period#2 period#2=1.0, months#5 months#5=1.0]	590
+[qualities#2 qualities#7=1.0, praise#0 praise#5=1.0, promote#8 promote#14=1.0, to#5 make#0=0.7082784492151654, sell#6 sell#12=1.0, promote#8 plug#2=1.0, order#4 order#10=1.0]	591
+[relative#0 relative#0=1.0, darkness#1 darkness#1=1.0, color#4 color#6=1.0]	592
+[Strike#0 strike#0=1.0, especially#3 especially#3=1.0, fist#6 fist#6=1.0, heavily#1 heavily#1=1.0]	593
+[Make#0 make#0=1.0, belief#8 attitude#8=0.601776183353901, willing#3 willing#3=1.0, belief#8 belief#10=1.0, action#6 action#6=1.0, receptive#1 receptive#1=1.0, toward#4 towards#4=0.8749689138052004]	594
+[open#0 open#0=1.0, anew#4 anew#3=1.0, open#3 open#0=1.0]	595
+[conceiving#7 conceiving#3=1.0, way#5 way#1=1.0, something#8 something#4=1.0000000000000002]	596
+[heat#0 heat#0=1.0, metal#1 metal#2=1.0, working#4 working#5=1.0, prior#2 prior#3=1.0000000000000002]	597
+[feel#0 feel#0=1.0, need#3 need#2=1.0, strong#2 feel#0=0.5018773450013814, eat#5 eat#4=1.0]	598
+[physical#3 physical#3=1.0, be#0 make#7=0.6650285185949484, contact#4 contact#4=1.0, direct#2 direct#2=1.0, contact#4 contact#8=1.0]	599
+[Give#0 give#0=1.0, receive#4 give#0=0.5683851606661311, suck#1 suck#1=1.0, suck#5 suck#1=1.0]	600
+[covering#0 cover#1=1.0, bed#3 bed#4=1.0]	601
+[grip#0 grip#1=1.0, jaws#14 jaws#16=1.0, teeth#12 teeth#14=1.0, tear#4 tear#7=1.0, penetrate#2 cut#3=1.0]	602
+[play#0 play#0=1.0, instrument#3 instrument#4=1.0, bow#6 bow#7=1.0, stringed#2 instrument#4=0.5926117591222754]	603
+[impression#3 impression#1=1.0, might#6 might#4=1.0, case#10 case#7=1.0, something#5 something#3=1.0000000000000002]	604
+[successful#1 successful#1=1.0, try#4 try#5=1.0, point#7 point#7=1.0, touchdown#10 touchdown#10=1.0, throw#2 throw#3=1.0]	605
+[words#8 words#8=1.0, Express#0 express#0=1.0, utter#3 utter#3=1.0, audibly#1 audibly#1=1.0, sounds#4 sounds#4=1.0, necessarily#7 necessarily#7=1.0, indicate#11 necessarily#7=0.5996803212929969]	606
+[unwillingness#5 unwillingness#7=1.0, hold#0 pause#0=1.0, hold#0 hold#2=1.0, uncertainty#3 uncertainty#5=1.0, back#1 back#3=1.0]	607
+[a#3 single#1=0.5530273672222664, serving#1 serving#2=1.0, beverage#4 beverage#5=1.0]	608
+[Give#0 give#0=1.0, action#6 action#4=1.0, reason#4 give#0=0.6461385934606138, incentive#2 incentive#2=1.0]	609
+[today#3 today#4=1.0, day#1 day#1=1.0, before#2 immediately#2=0.7407284551771485]	610
+[take#0 take#0=1.0, authority#6 force#4=0.5062344319820372, force#4 force#4=1.0, capture#2 capture#2=1.0]	611
+[cast#6 cast#3=1.0, plaster#5 plaster#2=1.0, Apply#3 apply#0=1.0]	612
+[interfere#0 interfere#0=1.0, else#3 else#3=1.0, someone#2 someone#2=1.0, activity#5 activity#5=1.0]	613
+[Assign#0 assign#0=1.0, time#3 time#3=1.0, Assign#0 place#5=1.0, event#6 event#8=1.0, new#2 new#2=1.0000000000000002]	614
+[Value#0 value#0=1.0, done#8 done#8=1.0, something#11 something#13=1.0000000000000002, given#6 given#6=1.0, measured#1 measured#1=1.0, must#4 must#4=1.0, obtain#10 obtain#12=1.0]	615
+[touch#0 touch#0=1.0, hands#5 hands#8=1.0, hold#2 hold#5=1.0]	616
+[scrape#0 scrape#0=1.0, itching#5 itching#7=1.0, relieve#4 relieve#6=1.0, rub#2 rub#2=1.0]	617
+[give#0 give#2=1.0, account#3 account#5=1.0, detailed#2 detailed#4=1.0]	618
+[activity#1 activity#1=1.0, attention#7 attention#7=1.0, person#5 person#5=1.0]	619
+[cause#0 cause#0=1.0, awake#3 awake#3=1.0, awake#3 conscious#5=0.5178694177289949, become#2 become#2=1.0]	620
+[provide#0 provide#0=1.0, banquet#4 banquet#4=1.0, feast#2 feast#2=1.0]	621
+[efforts#8 efforts#8=1.0, hindering#3 hindering#3=1.0, plans#6 plans#6=1.0, act#1 act#1=1.0, someone#4 someone#4=1.0]	622
+[Fool#0 fool#0=1.0, someone#4 or#1=0.5656839358667279, hoax#2 hoax#2=1.0]	623
+[raising#0 raising#0=1.0, bet#4 stakes#2=1.0, game#7 game#6=1.0, factor#10 factor#9=1.0, stakes#2 stakes#2=1.0]	624
+[foreign#14 foreign#10=1.0, power#15 power#11=1.0, military#10 military#6=1.0, control#5 control#1=1.0, country#8 country#4=1.0, forces#11 forces#7=1.0]	625
+[incorrect#8 incorrect#8=1.0, computer#1 computer#13=1.0, computer#13 computer#1=1.0, computer#1 computer#1=1.0, result#9 result#9=1.0, science#2 science#2=1.0, produced#10 produced#10=1.0, occurence#5 occurrence#5=0.73790285999976]	626
+[give#0 give#0=1.0, pleasing#9 pleasing#5=1.0, pleasure#1 pleasure#1=1.0, happiness#6 pleasure#1=0.5834695056489514]	627
+[soft#1 soft#1=1.0, padding#2 pad#2=1.0, saddle#5 saddle#6=1.0]	628
+[transfiguration#8 transfiguration#9=1.0, Christ#6 Christ#7=1.0, allusion#4 allusion#5=1.0, idealize#2 idealize#2=1.0]	629
+[inability#0 inability#0=1.0, life#9 heart#3=0.5581905458064971, sustain#8 sustain#9=1.0, heart#3 heart#3=1.0, blood#6 blood#7=1.0, blood#6 normal#10=0.5151915554412845, to#7 enough#6=0.6197651139107548, pump#5 pump#5=1.0, functions#10 functions#12=1.0]	630
+[cause#0 cause#0=1.0, pattern#6 pattern#6=1.0, vibrate#2 vibrate#2=1.0]	631
+[warn#0 warn#0=1.0, preparedness#7 preparedness#14=1.0, call#2 call#9=1.0, warn#0 danger#7=0.5765635656798216, sense#5 sense#5=1.0, preparedness#7 state#12=1.0]	632
+[different#5 different#7=1.0000000000000002, Adapt#0 adapt#0=1.0, Adapt#0 conform#2=1.0, new#3 new#5=1.0000000000000002, conditions#6 conditions#8=1.0, oneself#1 oneself#3=1.0]	633
+[move#6 move#2=1.0, move#0 move#2=1.0, cause#4 cause#0=1.0, faster#7 faster#3=1.0, faster#1 faster#3=1.0]	634
+[Supply#0 supply#0=1.0, food#1 food#1=1.0, eat#4 eat#4=1.0, banquets#10 banquets#9=1.0, ready#2 ready#2=1.0, parties#8 parties#7=1.0]	635
+[express#0 express#0=1.0, objection#7 objection#4=1.0, dissent#3 criticism#8=0.5526614887365905, express#0 express#10=1.0, dissent#3 dissent#11=1.0, protest#1 protest#6=1.0, raise#5 raise#2=1.0]	636
+[clear#0 clear#0=1.0, throat#5 throat#7=1.0, one#3 one#5=1.0, mucus#1 mucus#1=1.0]	637
+[pass#0 pass#0=1.0, state#3 state#4=1.0, condition#5 condition#6=1.0]	638
+[add#0 add#0=1.0, manuscripts#5 manuscripts#7=1.0, embellishments#1 embellishments#1=1.0, medieval#4 medieval#6=1.0000000000000002]	639
+[make#0 make#0=1.0, thick#3 thick#1=1.0, thick#3 thicker#3=0.7086636521231766, become#2 make#0=1.0]	640
+[move#0 move#2=1.0, hastily#6 hastily#6=1.0, quickly#4 quickly#4=1.0, execute#2 run#0=1.0]	641
+[physical#3 physical#1=1.0, hurt#0 pain#2=1.0, pain#4 pain#2=1.0, feel#2 feel#0=1.0]	642
+[tell#0 tell#0=1.0, rumors#3 rumors#3=1.0, say#5 tell#0=1.0, spread#2 spread#2=1.0]	643
+[throw#0 throw#0=1.0, away#7 throw#0=0.5356794900934305, recklessness#4 recklessness#4=1.0, force#2 force#2=1.0, cast#6 throw#0=1.0]	644
+[thought#3 thought#2=1.0, thought#3 something#6=0.7832400095889744, speech#5 speech#4=1.0]	645
+[Try#0 try#0=1.0, illness#11 illness#11=1.0, treat#15 treatment#7=0.6742547511888892, special#4 special#4=1.0, treatment#7 treatment#7=1.0, cure#2 cure#2=1.0, care#5 care#5=1.0, injury#13 injury#13=1.0]	646
+[sharp#5 sharp#7=1.0, with#3 made#4=0.5469771976922517, instrument#6 instrument#8=1.0, sweeping#1 sweeping#2=1.0, sharp#5 strong#1=0.5014592728348386, cut#2 cut#3=1.0]	647
+[temporarily#8 temporarily#8=1.0, address#1 address#1=1.0, one#4 which#3=0.6958222991380942, dwells#5 dwell#5=1.0]	648
+[buds#11 buds#9=1.0, BOTANY#0 botany#1=1.0, plant#8 plant#25=1.0, salts#22 salts#19=1.0, usually#3 usually#21=1.0, plant#28 plant#25=1.0, absorbs#18 absorbs#15=1.0, leaves#13 leaves#11=1.0, water#19 water#16=1.0, usually#3 usually#4=1.0, --#1 ;#14=0.5542633490512293, ground#31 ground#28=1.0, nodes#15 nodes#13=1.0, underground#4 underground#5=1.0, anchors#26 anchors#23=1.0, lacks#10 lacks#8=1.0, mineral#21 mineral#18=1.0, usually#24 usually#4=1.0, organ#5 organ#6=1.0]	649
+[Reproduce#0 reproduce#0=1.0, perform#13 make#2=1.0, exact#4 exact#4=1.0, make#8 make#2=1.0, make#2 make#2=1.0, copy#5 copy#5=1.0]	650
+[string#15 string#7=1.0, thread#3 thread#0=1.0]	651
+[Engrave#0 engrave#0=1.0, dots#4 dots#4=1.0, means#2 means#2=1.0]	652
+[desire#3 desire#3=1.0, desire#3 urge#5=1.0, something#6 something#8=1.0000000000000002, strong#2 strong#2=1.0]	653
+[pertinent#3 pertinent#1=1.0, relevant#1 relevant#3=1.0000000000000002, relevant#1 applicable#5=0.655110897428325]	654
+[indicate#0 indicate#0=1.0, breathing#3 breathing#3=1.0, forcefully#6 forcefully#6=1.0, contempt#1 contempt#1=1.0, noisily#4 noisily#4=1.0]	655
+[become#0 become#1=1.0, aware#1 aware#2=1.0, senses#5 senses#6=1.0]	656
+[cause#0 cause#0=1.0, alert#3 alert#3=1.0, energetic#5 energetic#5=1.0000000000000002]	657
+[Remove#0 remove#0=1.0, crossing#4 crossing#4=1.0, line#12 line#12=1.0, erasing#2 erasing#2=1.0, drawing#10 drawing#10=1.0]	658
+[cook#0 cook#0=1.0, slowly#1 slowly#1=1.0, long#4 long#5=1.0, liquid#7 liquid#8=1.0, time#5 time#6=1.0]	659
+[boils#6 boils#6=1.0, temperature#1 temperature#1=1.0, liquid#5 liquid#5=1.0]	660
+[Make#0 make#0=1.0, details#11 details#11=1.0, map#23 map#2=1.0, features#9 features#9=1.0, explore#14 map#2=1.0, making#21 make#0=1.0, establish#7 establish#7=1.0, map#2 map#2=1.0, show#5 show#5=1.0]	661
+[courses#8 courses#8=1.0, demanded#11 demanded#11=1.0, social#1 social#1=1.0, one#5 that#13=0.7697202484986965, force#2 force#14=1.0, binds#4 binds#4=1.0, force#14 force#2=1.0, force#2 force#2=1.0, action#10 action#10=1.0]	662
+[Avoid#0 avoid#0=1.0, answering#7 questions#14=0.6239884869732073, Avoid#0 avoid#4=1.0, avoid#4 avoid#0=1.0, answering#7 answering#7=1.0, try#2 try#2=1.0, performing#10 performing#10=1.0, fulfilling#5 fulfilling#5=1.0]	663
+[Lead#0 lead#0=1.0, direction#5 directions#10=1.0, physically#7 someone#1=0.5144454055305714, someone#1 someone#1=1.0, directions#13 direction#5=1.0, wrong#4 wrong#4=1.0, give#10 give#7=1.0, wrong#11 wrong#4=1.0, someone#1 someone#8=1.0, wrong#4 wrong#9=1.0, direction#5 direction#5=1.0]	664
+[maintain#0 maintain#0=1.0, claim#5 assert#2=0.5657444109489335, assert#2 assert#2=1.0]	665
+[Improve#0 restore#0=1.0, better#7 better#5=1.0, restoring#2 restore#0=1.0, previous#5 previous#3=1.0, condition#8 condition#6=1.0]	666
+[make#0 make#2=1.0, influence#6 influence#8=1.0, accessible#1 accessible#3=1.0, action#4 action#6=1.0]	667
+[Approach#0 approach#0=1.0, increases#8 increases#8=1.0, term#15 terms#7=1.0, limit#2 limit#10=1.0, limit#10 limit#2=1.0, without#9 without#9=1.0, terms#7 terms#7=1.0, limit#2 limit#2=1.0, number#5 number#5=1.0, specifically#12 as#3=0.5186957660080889]	668
+[shoe#8 shoe#8=1.0, forms#3 forms#3=1.0, stiching#1 stitching#1=0.6810693305308887, boot#10 boot#10=1.0, rim#5 rim#5=1.0]	669
+[put#0 put#0=1.0, control#3 control#3=1.0, control#3 authority#5=1.0, federal#6 federal#8=1.0, government#7 government#9=1.0]	670
+[pleasure#8 pleasure#8=1.0, Manual#0 manual#0=1.0, stimulation#1 stimulation#1=1.0, genital#4 genital#4=1.0, sexual#7 sexual#7=1.0, area#5 area#5=1.0]	671
+[equip#0 equip#0=1.0, fuse#3 fuse#3=1.0, equip#0 provide#5=1.0, fuse#3 fuse#8=1.0]	672
+[end#0 ending#2=1.0, American#3 American#5=1.0, Revolution#4 Revolution#6=1.0]	673
+[number#6 number#3=1.0, numeral#9 numeral#6=1.0, smallest#4 smallest#1=1.0, number#6 number#9=1.0, representing#10 representing#7=1.0, whole#5 whole#2=1.0, number#12 number#3=1.0]	674
+[situation#6 situation#4=1.0, stimulating#0 stimulating#3=1.0, demanding#2 demanding#1=1.0]	675
+[part#6 part#2=1.0, natural#9 natural#5=1.0, preserved#15 preserved#11=1.0, object#10 object#6=1.0, example#18 example#14=1.0, collected#13 collected#9=1.0, class#21 class#17=1.0, portion#2 part#2=1.0]	676
+[Amplify#0 amplify#0=1.0, causing#5 causing#7=1.0, upon#16 upon#18=1.0, part#6 part#8=1.0, output#12 output#14=1.0, electron#2 electron#3=1.0, input#18 input#20=1.0, circuit#19 circuit#15=1.0, circuit#13 circuit#15=1.0, current#3 current#4=1.0, circuit#13 circuit#21=1.0, power#9 power#11=1.0, act#15 act#17=1.0]	677
+[words#3 words#1=1.0, forcefully#6 forcefully#4=1.0, loudly#4 loudly#2=1.0, utters#2 utter#0=1.0]	678
+[oppose#0 contrast#0=1.0, weight#3 weight#3=1.0, equal#2 equal#2=1.0, force#5 force#5=1.0]	679
+[air#6 air#2=1.0, strike#4 strike#0=1.0, flight#8 flight#4=1.0]	680
+[Preserve#0 preserve#0=1.0, tin#3 tin#5=1.0]	681
+[loop#10 loop#14=1.0, atoms#3 atoms#6=1.0, molecule#6 molecule#9=1.0, chain#1 chain#4=1.0, closed#9 closed#13=1.0, forming#7 forms#11=1.0]	682
+[make#0 make#0=1.0, level#3 level#4=1.0, surface#2 surface#2=1.0, smooth#5 smooth#6=1.0]	683
+[Impress#0 impress#0=1.0, deeply#3 deeply#3=1.0, affect#2 affect#2=1.0, emotionally#5 deeply#3=0.6042392693610842]	684
+[Supply#0 supply#0=1.0, cooling#13 cooling#15=1.0, constant#3 constant#3=1.0, purpose#11 purpose#13=1.0, flow#4 flow#4=1.0, liquid#7 liquid#9=1.0, cleansing#15 cleansing#17=1.0, disinfecting#18 disinfecting#20=1.0]	685
+[attend#4 attend#2=1.0, fail#2 fail#0=1.0]	687
+[make#0 make#0=1.0, sharp#4 sharp#2=1.0, sound#5 sound#3=1.0]	688
+[connect#0 connect#0=1.0, linking#7 linking#7=1.0, chain#5 chain#5=1.0]	689
+[beat#0 beat#0=1.0, thoroughly#1 thoroughly#1=1.0, fight#6 fight#8=1.0, competition#4 competition#6=1.0]	690
+[Look#0 look#0=1.0, book#3 book#3=1.0, written#7 written#6=1.0, information#11 material#7=1.0, material#8 material#7=1.0]	691
+[state#0 state#1=1.0, active#3 active#4=1.0]	692
+[sin#8 sin#8=1.0, theology#1 theology#1=1.0, act#4 act#4=1.0, evil#12 evil#12=1.0, saving#10 saving#10=1.0]	693
+[unfit#3 unfit#1=1.0, make#2 make#0=1.0, unsuitable#5 unsuitable#3=1.0]	694
+[Cook#0 cook#0=1.0, hot#3 hot#3=1.0000000000000002, fat#6 fat#6=1.0, surface#4 surface#4=1.0, cook#8 cook#0=1.0, using#5 using#5=1.0]	695
+[Improve#0 improve#0=1.0, Improve#0 perfect#2=1.0, polishing#4 polishing#6=1.0, pruning#2 pruning#4=1.0]	696
+[region#8 region#9=1.0, area#1 area#1=1.0, central#4 central#5=1.0, larger#7 larger#8=1.0, within#5 within#6=1.0]	697
+[start#0 start#0=1.0, fright#6 fright#5=1.0, suddenly#1 suddenly#1=1.0]	698
+[without#14 or#10=0.628816999442343, power#18 power#7=1.0, number#3 number#3=1.0, larger#1 larger#1=1.0, status#9 status#9=1.0, importance#12 importance#11=1.0, power#7 power#7=1.0, personally#15 be#0=0.5488306811861132, quantity#5 quantity#5=1.0]	699
+[Give#0 give#0=1.0, cause#11 cause#10=1.0, person#6 person#5=1.0, entirely#2 entirely#1=1.0, specific#5 specific#4=1.0, activity#8 activity#7=1.0]	700
+[forefinger#7 finger#1=1.0, finger#1 finger#1=1.0, next#2 next#2=1.0000000000000002, thumb#5 thumb#5=1.0]	701
+[put#0 put#0=1.0, something#3 something#3=1.0000000000000002, unpleasant#7 unpleasant#6=1.0, someone#5 somebody#5=1.0]	702
+[role#0 role#1=1.0, department#9 department#8=1.0, function#2 role#1=1.0, head#5 head#4=1.0, government#8 government#7=1.0]	703
+[consider#0 consider#0=1.0, changing#8 changing#13=1.0, consider#0 consideration#5=0.7124444128878444, to#7 give#3=0.6641152299771645, usually#3 usually#8=1.0, view#6 view#11=1.0]	704
+[excessive#3 excessive#3=1.0, velocity#6 velocity#6=1.0, illegal#5 illegal#5=1.0000000000000002]	705
+[military#3 force#2=1.0, smaller#6 smaller#4=1.0, squadron#9 squadron#7=1.0, air#1 air#1=1.0, unit#4 unit#3=1.0, force#2 force#2=1.0]	706
+[someone#9 someone#4=1.0, giving#3 giving#3=1.0, job#6 job#6=1.0, act#1 act#1=1.0, someone#4 someone#4=1.0, hiring#8 act#1=1.0]	707
+[annoying#3 annoying#5=1.0, something#6 someone#6=0.8128225707771393, act#1 act#1=1.0, someone#4 someone#6=1.0]	708
+[Droop#0 droop#0=1.0, pressure#11 pressure#11=1.0, less#18 if#9=0.5665783454955581, tautness#15 tautness#15=1.0, become#17 settle#5=1.0, sink#2 sink#2=1.0, settle#5 settle#5=1.0, loss#13 loss#13=1.0]	709
+[Cite#0 cite#0=1.0, authority#3 authority#3=1.0, resort#5 resort#5=1.0]	710
+[dedicate#2 use#9=1.0, set#4 set#0=1.0, apart#7 apart#3=1.0, specific#10 specific#6=1.0, aside#5 aside#1=1.0, use#13 use#9=1.0, purpose#11 purpose#7=1.0]	711
+[make#0 make#0=1.0, manner#8 manner#9=1.0, components#3 components#3=1.0, make#0 often#5=0.5617445702926069, improvising#7 improvising#8=1.0]	712
+[repetition#4 repetition#2=1.0, learn#2 learn#0=1.0]	713
+[Intend#0 intend#0=1.0, move#3 move#5=1.0, certain#6 certain#8=1.0, something#1 something#2=1.0000000000000002, toward#4 towards#6=0.8749689138052004, goal#7 goal#9=1.0]	714
+[register#0 register#0=1.0, formally#1 formally#1=1.0, participant#4 participant#4=1.0]	715
+[write#0 write#0=1.0, print#4 print#4=1.0, cursive#8 cursive#7=1.0]	716
+[shoot#0 shoot#0=1.0, birds#2 birds#4=1.0]	717
+[appoint#0 appoint#0=1.0, posts#3 posts#4=1.0, clerical#2 clerical#3=1.0]	718
+[forming#6 forming#3=1.0, compound#9 compound#6=1.0, sequestration#4 sequestration#1=1.0, ion#12 ion#9=1.0, stable#8 stable#5=1.0, Undergo#3 undergo#0=1.0]	719
+[Furnish#0 furnish#0=1.0, circulate#8 circulate#8=1.0, opening#3 opening#3=1.0, air#6 air#6=1.0, escape#12 escape#12=1.0, air#6 gas#10=1.0, allow#5 allow#5=1.0]	720
+[Stand#0 stand#0=1.0, menacing#9 menacing#9=1.0, forelegs#4 forelegs#4=1.0, arms#2 arms#2=1.0, raised#5 raised#5=1.0]	721
+[accounting#0 accounting#1=1.0, 12#3 12#4=1.0, period#1 period#2=1.0, months#4 months#5=1.0]	722
+[Convert#0 convert#0=1.0, RNA#13 RNA#15=1.0, DNA#8 DNA#9=1.0, information#3 information#3=1.0, RNA#13 RNA#19=1.0, strand#6 strand#7=1.0, the#1 especially#17=0.5011574568125485, strand#6 strand#13=1.0, genetic#2 genetic#2=1.0000000000000002, strand#11 strand#7=1.0]	723
+[give#0 give#0=1.0, give#0 hard#6=0.5557589222189218, thrashing#2 thrashing#2=1.0, beat#5 beat#5=1.0]	724
+[Immerse#0 immerse#0=1.0, Immerse#0 immersed#3=1.0, be#2 often#9=0.6554646691254896, boiling#6 boiling#6=1.0, cooking#12 cooking#11=1.0, liquid#7 liquid#7=1.0, purposes#10 purposes#12=1.0, immersed#3 immerse#0=1.0]	725
+[Supply#0 supply#0=1.0, ditches#10 ditches#8=1.0, streams#13 streams#10=1.0, water#2 water#2=1.0, channels#8 channels#6=1.0]	726
+[time#3 time#3=1.0, leasing#7 period#1=1.0, period#1 period#1=1.0, effect#11 effect#15=1.0, is#9 person#12=0.5419267727530045, leasing#7 property#9=1.0, contract#8 contract#7=1.0]	727
+[Protect#0 protect#0=1.0, sandbags#4 sandbags#4=1.0, strengthen#2 strengthen#2=1.0]	728
+[tour#4 tour#2=1.0, place#7 place#6=1.0, make#2 make#0=1.0, make#2 certain#5=0.5761331724253517]	729
+[city#4 city#4=1.0, political#1 government#5=0.6654352271521091, head#2 head#1=1.0, government#5 government#5=1.0]	730
+[pass#0 take#0=0.5128229945583324, tongue#9 tongue#4=1.0, take#5 take#0=1.0, tongue#2 tongue#4=1.0]	731
+[city#1 city#1=1.0, southern#9 southern#9=1.0, River#4 River#4=1.0, England#10 England#10=1.0, Thames#5 Thames#5=1.0]	732
+[map#3 map#3=1.0, chart#1 chart#1=1.0, showing#4 showing#4=1.0, progress#10 progress#8=1.0, something#12 a#0=0.5806079283905188, movements#8 movements#6=1.0]	733
+[Take#0 take#0=1.0, vital#3 vital#3=1.0, part#6 part#6=1.0, away#1 away#1=1.0, something#8 take#0=0.6370735238077462, essential#5 essential#5=1.0]	734
+[falling#9 falling#6=1.0, quality#4 quality#1=1.0, inadequate#7 inadequate#4=1.0000000000000002, short#10 short#7=1.0, imperfection#1 perfection#9=0.5077879560166246]	735
+[Pat#0 pat#0=1.0, especially#4 especially#7=1.0, squeeze#2 squeeze#2=1.0, chin#7 chin#10=1.0]	736
+[make#0 make#0=1.0, something#2 something#2=1.0000000000000002, untrue#5 untrue#5=1.0]	737
+[swallowing#3 swallowing#3=1.0, act#1 act#1=1.0]	738
+[unlawful#1 unlawful#1=1.0, sex#2 sex#2=1.0, prostitute#5 whore#5=1.0]	739
+[Reverse#0 reverse#0=1.0, twisting#4 twisting#4=1.0, winding#2 winding#2=1.0]	740
+[Reimburse#0 reimburse#0=1.0, sacrifice#12 loss#10=1.0, someone#4 someone#4=1.0, compensate#2 compensate#2=1.0, loss#10 loss#10=1.0]	741
+[sharpen#0 sharpen#0=1.0, strap#5 strap#3=1.0]	742
+[Morse#5 Morse#9=1.0000000000000002, Morse#5 code#10=1.0, the#0 two#4=0.5565364728648968, signal#3 signals#6=1.0, longer#1 longer#1=1.0, Code#6 code#10=1.0, telegraphic#2 telegraphic#5=1.0]	743
+[subparts#16 part#1=1.0, part#1 part#1=1.0, upper#9 upper#10=1.0, body#4 body#4=1.0, neck#7 neck#7=1.0, arm#10 arm#11=1.0]	744
+[Rain#0 rain#0=1.0, lightning#16 lightning#16=1.0, hard#6 hard#6=1.0, thunder#14 thunder#14=1.0, hard#19 hard#6=1.0, often#12 often#12=1.0, hail#2 hail#2=1.0, windy#10 windy#10=1.0, snow#5 snow#5=1.0, blow#18 snow#5=1.0]	745
+[fill#0 fill#0=1.0, spirits#3 spirits#3=1.0, fill#0 fill#5=1.0, high#2 high#2=1.0]	746
+[pressure#3 forced#2=1.0, pressure#3 pressure#5=1.0, stop#8 stop#14=1.0, release#1 release#3=1.0, built#4 built#6=1.0, consonant#9 consonant#15=1.0]	747
+[drops#6 drops#6=1.0, cause#1 cause#2=1.0, fall#4 fall#4=1.0, to#2 let#0=0.6841777506301994]	748
+[status#1 status#1=1.0, champion#4 champion#5=1.0]	749
+[Draw#0 draw#0=1.0, take#4 draw#0=1.0, advantages#1 advantages#1=1.0, advantage#5 advantages#1=1.0]	750

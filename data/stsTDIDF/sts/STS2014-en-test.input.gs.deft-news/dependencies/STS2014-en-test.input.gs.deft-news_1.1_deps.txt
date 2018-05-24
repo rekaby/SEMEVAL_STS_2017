@@ -1,0 +1,8 @@
+nsubj	wishes	mexico
+root	ROOT	wishes
+mark	guarantee	to
+xcomp	wishes	guarantee
+nmod:poss	safety	citizens
+case	citizens	'
+dobj	guarantee	safety
+punct	wishes	.

@@ -1,0 +1,6 @@
+amod	paths	Seperate
+root	ROOT	paths
+acl	paths	connected
+case	battery	to
+det	battery	the
+nmod:to	connected	battery

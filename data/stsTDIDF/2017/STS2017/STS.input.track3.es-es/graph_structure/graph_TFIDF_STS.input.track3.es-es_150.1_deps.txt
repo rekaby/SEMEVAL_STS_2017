@@ -1,0 +1,7 @@
+flies	lake	nmod:over
+bird	A	det
+lake	the	det
+flies	bird	nsubj
+lake	over	case
+flies	.	punct
+ROOT	flies	root

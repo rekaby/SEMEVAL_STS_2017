@@ -1,0 +1,13 @@
+det	line	A
+nsubj	parking	line
+case	scooters	of
+nmod:of	line	scooters
+cop	parking	are
+root	ROOT	parking
+case	middle	in
+det	middle	the
+nmod:in	parking	middle
+case	street	of
+det	street	a
+nmod:of	middle	street
+punct	parking	.

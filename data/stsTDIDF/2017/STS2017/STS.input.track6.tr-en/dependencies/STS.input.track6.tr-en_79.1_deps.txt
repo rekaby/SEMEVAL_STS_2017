@@ -1,0 +1,14 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	sidewalk	the
+dobj	walking	sidewalk
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	the
+amod	building	colorful
+nmod:in_front_of	walking	building
+punct	walking	.

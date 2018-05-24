@@ -1,0 +1,6 @@
+compound	Futures	KLCI
+nsubj	traded	Futures
+root	ROOT	traded
+xcomp	traded	mixed
+case	mid-day	at
+nmod:at	mixed	mid-day

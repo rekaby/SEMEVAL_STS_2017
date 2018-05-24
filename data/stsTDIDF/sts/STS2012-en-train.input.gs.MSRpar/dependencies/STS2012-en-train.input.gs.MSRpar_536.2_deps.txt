@@ -1,0 +1,15 @@
+amod	countries	Other
+nsubjpass	owed	countries
+auxpass	owed	are
+root	ROOT	owed
+case	least	at
+nmod:npmod	$	least
+dobj	owed	$
+compound	billion	US80
+nummod	$	billion
+punct	$	-LRB-
+dep	$	$
+compound	billion	108.52
+nummod	$	billion
+punct	$	-RRB-
+punct	owed	.

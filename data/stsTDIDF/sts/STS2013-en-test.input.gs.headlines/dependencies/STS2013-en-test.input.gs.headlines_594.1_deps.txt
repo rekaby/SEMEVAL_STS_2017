@@ -1,0 +1,6 @@
+compound	striker	Israel
+case	hunger	to
+amod	hunger	free
+compound	hunger	Palestinian
+nmod:to	Israel	hunger
+root	ROOT	striker

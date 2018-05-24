@@ -1,0 +1,8 @@
+nsubj	leads	Romney
+root	ROOT	leads
+dobj	leads	Santorum
+case	contests	in
+compound	contests	GOP
+compound	contests	Super
+compound	contests	Tuesday
+nmod:in	Santorum	contests

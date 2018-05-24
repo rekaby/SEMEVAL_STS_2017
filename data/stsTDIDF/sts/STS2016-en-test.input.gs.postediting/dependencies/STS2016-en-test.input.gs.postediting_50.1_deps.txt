@@ -1,0 +1,7 @@
+cc	heels	Or
+root	ROOT	heels
+case	trial	of
+nmod:of	heels	trial
+case	clothes	of
+nmod:of	trial	clothes
+punct	heels	.

@@ -1,0 +1,6 @@
+nsubj	learn	Journalists
+punct	learn	,
+root	ROOT	learn
+case	Sullivan	from
+compound	Sullivan	blogger
+nmod:from	learn	Sullivan

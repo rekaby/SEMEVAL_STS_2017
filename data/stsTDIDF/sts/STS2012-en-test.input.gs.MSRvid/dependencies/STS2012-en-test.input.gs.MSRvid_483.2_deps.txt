@@ -1,0 +1,6 @@
+det	man	A
+nsubj	catches	man
+root	ROOT	catches
+det	fish	a
+dobj	catches	fish
+punct	catches	.

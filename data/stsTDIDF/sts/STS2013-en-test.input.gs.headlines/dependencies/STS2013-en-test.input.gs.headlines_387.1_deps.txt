@@ -1,0 +1,11 @@
+nummod	rockets	8
+nsubj	fired	rockets
+root	ROOT	fired
+case	Gaza	from
+nmod:from	fired	Gaza
+case	Israel	into
+amod	Israel	southern
+nmod:into	fired	Israel
+punct	fired	;
+nsubj	hurt	none
+parataxis	fired	hurt

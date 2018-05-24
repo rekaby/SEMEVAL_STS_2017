@@ -1,0 +1,8 @@
+using	woman	nsubj
+booklet	a	det
+booklet	at	case
+look	booklet	nmod:at
+woman	hooded	amod
+using	glass	dobj
+glass	magnifying	amod
+woman	white	amod

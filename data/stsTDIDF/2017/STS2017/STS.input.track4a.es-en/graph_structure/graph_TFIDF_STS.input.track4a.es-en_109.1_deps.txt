@@ -1,0 +1,4 @@
+garden	a	det
+looking	People	nsubj
+garden	at	case
+looking	garden	nmod:at

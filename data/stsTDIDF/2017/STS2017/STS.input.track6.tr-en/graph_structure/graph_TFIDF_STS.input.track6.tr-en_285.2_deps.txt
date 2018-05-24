@@ -1,0 +1,7 @@
+ran	dog	nsubj
+white	brown	conj:and
+dog	white	amod
+grass	long	amod
+grass	through	case
+ran	grass	nmod:through
+grass	green	amod

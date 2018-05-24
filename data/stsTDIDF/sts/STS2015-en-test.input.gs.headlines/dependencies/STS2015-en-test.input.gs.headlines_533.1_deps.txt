@@ -1,0 +1,10 @@
+nummod	dead	Three
+dep	hurt	dead
+punct	hurt	,
+nummod	hurt	63
+root	ROOT	hurt
+mark	collapse	as
+compound	buildings	New
+compound	buildings	York
+nsubj	collapse	buildings
+advcl	hurt	collapse

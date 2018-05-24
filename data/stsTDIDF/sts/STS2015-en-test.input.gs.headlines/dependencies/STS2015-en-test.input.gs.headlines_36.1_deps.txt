@@ -1,0 +1,9 @@
+nmod:poss	economy	Taiwan
+case	Taiwan	's
+nsubj	grows	economy
+root	ROOT	grows
+nummod	%	2.27
+dobj	grows	%
+case	quarter	in
+amod	quarter	April-June
+nmod:in	grows	quarter

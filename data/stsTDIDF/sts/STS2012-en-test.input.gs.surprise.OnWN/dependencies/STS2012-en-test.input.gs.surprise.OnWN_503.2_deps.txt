@@ -1,0 +1,6 @@
+root	ROOT	fertilize
+cc	fertilize	and
+conj:and	fertilize	cause
+mark	grow	to
+xcomp	cause	grow
+punct	fertilize	.

@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+acl	woman	standing
+case	hands	next
+mwe	next	to
+nmod:poss	hands	his
+nmod:next_to	standing	hands
+case	tree	on
+compound	tree	Zqounama
+compound	tree	holiday
+compound	tree	Christmas
+nmod:on	hands	tree
+punct	man	.

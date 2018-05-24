@@ -1,0 +1,7 @@
+det	woman	A
+root	ROOT	woman
+amod	woman	equestrian
+xcomp	equestrian	riding
+det	horse	a
+dobj	riding	horse
+punct	woman	.

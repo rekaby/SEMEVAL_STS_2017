@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	knocks	dog
+root	ROOT	knocks
+det	boy	a
+dobj	knocks	boy
+case	water	into
+det	water	the
+nmod:into	knocks	water
+advmod	knocks	twice
+punct	knocks	.

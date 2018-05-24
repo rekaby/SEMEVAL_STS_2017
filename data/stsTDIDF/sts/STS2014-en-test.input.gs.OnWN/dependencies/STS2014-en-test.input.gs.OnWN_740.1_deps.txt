@@ -1,0 +1,6 @@
+det	crown	the
+root	ROOT	crown
+case	plant	of
+det	plant	a
+compound	plant	flowering
+nmod:of	crown	plant

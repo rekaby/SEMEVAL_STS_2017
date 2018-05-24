@@ -1,0 +1,7 @@
+det	speeds	A
+compound	speeds	skier
+root	ROOT	speeds
+case	snow	through
+det	snow	the
+nmod:through	speeds	snow
+punct	speeds	.

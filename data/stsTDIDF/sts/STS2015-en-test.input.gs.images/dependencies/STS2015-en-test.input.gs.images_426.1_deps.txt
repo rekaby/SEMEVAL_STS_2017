@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+amod	dog	standing
+case	grass	in
+det	grass	the
+nmod:in	standing	grass
+case	volleyball	near
+det	volleyball	a
+nmod:near	standing	volleyball
+punct	dog	.

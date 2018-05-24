@@ -1,0 +1,7 @@
+amod	strikes	Israeli
+compound	strikes	air
+nsubj	kill	strikes
+root	ROOT	kill
+dobj	kill	16
+case	Gaza	in
+nmod:in	kill	Gaza

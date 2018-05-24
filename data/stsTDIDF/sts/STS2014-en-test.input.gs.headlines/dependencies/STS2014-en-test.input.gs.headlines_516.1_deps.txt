@@ -1,0 +1,6 @@
+compound	quake	China
+nsubj	rises	quake
+punct	quake	:
+compound	toll	Death
+dep	quake	toll
+root	ROOT	rises

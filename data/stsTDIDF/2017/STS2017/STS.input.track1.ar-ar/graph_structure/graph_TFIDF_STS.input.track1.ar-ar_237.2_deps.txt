@@ -1,0 +1,8 @@
+drum	on	case
+band	in	case
+drum	band	nmod:in
+knocks	.	punct
+drum	a	det
+knocks	man	nsubj
+knocks	drum	nmod:on
+ROOT	knocks	root

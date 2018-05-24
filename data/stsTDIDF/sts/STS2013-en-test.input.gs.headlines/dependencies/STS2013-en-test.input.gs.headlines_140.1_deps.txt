@@ -1,0 +1,7 @@
+nsubj	talked	Erdogan
+cc	Erdogan	and
+conj:and	Erdogan	Putin
+root	ROOT	talked
+case	voice	in
+amod	voice	raised
+nmod:in	talked	voice

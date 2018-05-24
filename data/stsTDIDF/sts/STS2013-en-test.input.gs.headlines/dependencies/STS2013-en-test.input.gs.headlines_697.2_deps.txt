@@ -1,0 +1,8 @@
+compound	Cross	Red
+nsubj	negotiating	Cross
+root	ROOT	negotiating
+compound	ceasefire	Syria
+dobj	negotiating	ceasefire
+mark	bring	to
+advcl	negotiating	bring
+dobj	bring	aid

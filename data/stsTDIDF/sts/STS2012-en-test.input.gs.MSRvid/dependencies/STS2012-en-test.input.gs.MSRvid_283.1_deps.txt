@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	communicating	girl
+aux	communicating	is
+root	ROOT	communicating
+case	language	with
+compound	language	sign
+nmod:with	communicating	language
+punct	communicating	.

@@ -1,0 +1,16 @@
+det	sum	The
+nsubjpass	paid	sum
+punct	paid	,
+advmod	paid	however
+punct	paid	,
+aux	paid	must
+neg	paid	not
+auxpass	paid	be
+root	ROOT	paid
+case	once	at
+nmod:at	paid	once
+punct	paid	,
+cc	paid	but
+case	installments	in
+conj:but	paid	installments
+punct	paid	.

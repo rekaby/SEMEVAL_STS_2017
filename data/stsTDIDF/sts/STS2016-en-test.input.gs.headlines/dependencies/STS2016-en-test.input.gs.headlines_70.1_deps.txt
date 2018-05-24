@@ -1,0 +1,8 @@
+nsubj	orders	Obama
+root	ROOT	orders
+compound	attack	Syria
+punct	attack	`
+compound	attack	gas
+nmod:poss	inquiry	attack
+punct	attack	'
+dobj	orders	inquiry

@@ -1,0 +1,7 @@
+det	monkey	A
+nsubj	riding	monkey
+aux	riding	is
+root	ROOT	riding
+det	bus	a
+dobj	riding	bus
+punct	riding	.

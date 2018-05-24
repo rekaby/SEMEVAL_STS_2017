@@ -1,0 +1,11 @@
+det	people	Some
+nsubj	practicing	people
+aux	practicing	were
+root	ROOT	practicing
+dobj	practicing	sports
+punct	practicing	,
+cc	practicing	and
+conj:and	practicing	wounded
+nummod	man	one
+dobj	wounded	man
+punct	practicing	.

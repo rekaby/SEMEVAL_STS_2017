@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	brown
+nsubj	laying	dog
+aux	laying	is
+root	ROOT	laying
+case	snow	in
+det	snow	the
+nmod:in	laying	snow
+punct	laying	.

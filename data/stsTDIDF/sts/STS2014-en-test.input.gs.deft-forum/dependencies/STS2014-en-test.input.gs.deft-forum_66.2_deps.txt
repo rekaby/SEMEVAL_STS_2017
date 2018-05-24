@@ -1,0 +1,16 @@
+det	study	The
+amod	study	new
+nsubj	shows	study
+root	ROOT	shows
+mark	stand	that
+det	story	the
+compound	story	Titanic
+nsubj	stand	story
+aux	stand	does
+neg	stand	not
+ccomp	shows	stand
+compound:prt	stand	up
+mark	scrutiny	to
+xcomp	stand	scrutiny
+dobj	scrutiny	imo
+punct	shows	.

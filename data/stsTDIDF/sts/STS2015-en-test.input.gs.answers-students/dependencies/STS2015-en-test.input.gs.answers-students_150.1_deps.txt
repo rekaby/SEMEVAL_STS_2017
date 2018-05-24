@@ -1,0 +1,10 @@
+mark	connected	That
+det	terminals	the
+nsubjpass	connected	terminals
+auxpass	connected	are
+neg	connected	not
+root	ROOT	connected
+case	other	to
+det	other	each
+nmod:to	connected	other
+punct	connected	.

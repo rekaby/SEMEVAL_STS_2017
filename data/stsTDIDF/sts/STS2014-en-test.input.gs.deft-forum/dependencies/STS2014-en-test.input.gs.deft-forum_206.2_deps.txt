@@ -1,0 +1,11 @@
+root	ROOT	Ben
+punct	Ben	,
+appos	Ben	Stop
+acl	Stop	trying
+mark	find	to
+xcomp	trying	find
+dobj	find	excuses
+case	man	for
+det	man	the
+nmod:for	excuses	man
+punct	Ben	.

@@ -1,0 +1,5 @@
+root	ROOT	Putting
+dobj	Putting	Spice
+case	Cooking	Into
+compound	Cooking	Dutch
+nmod:into	Putting	Cooking

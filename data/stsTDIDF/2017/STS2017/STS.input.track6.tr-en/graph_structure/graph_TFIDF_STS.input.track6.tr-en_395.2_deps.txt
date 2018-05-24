@@ -1,0 +1,6 @@
+wondering	going	advcl
+person	walking	acl
+street	wondering	acl
+walking	street	nmod:in
+'s	person	nsubj
+people	all	det:predet

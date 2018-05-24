@@ -1,0 +1,13 @@
+det	period	an
+amod	period	indefinite
+root	ROOT	period
+punct	marked	-LRB-
+advmod	marked	usually
+dep	period	marked
+case	attributes	by
+amod	attributes	specific
+nmod:by	marked	attributes
+cc	attributes	or
+conj:or	attributes	activities
+punct	marked	-RRB-
+punct	period	;

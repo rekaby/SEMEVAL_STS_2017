@@ -1,0 +1,14 @@
+det	bus	A
+amod	bus	red
+amod	bus	double
+compound	bus	decker
+nsubj	picking	bus
+aux	picking	is
+root	ROOT	picking
+compound:prt	picking	up
+amod	passengers	more
+dobj	picking	passengers
+case	city	in
+det	city	a
+nmod:in	picking	city
+punct	picking	.

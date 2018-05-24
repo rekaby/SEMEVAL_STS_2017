@@ -1,0 +1,11 @@
+amod	Gas	Classical
+root	ROOT	Gas
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Gas	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Gas	.

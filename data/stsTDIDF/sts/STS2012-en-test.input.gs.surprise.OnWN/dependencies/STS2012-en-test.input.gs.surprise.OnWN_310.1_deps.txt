@@ -1,0 +1,4 @@
+root	ROOT	run
+cc	run	or
+conj:or	run	flow
+advmod	run	slowly

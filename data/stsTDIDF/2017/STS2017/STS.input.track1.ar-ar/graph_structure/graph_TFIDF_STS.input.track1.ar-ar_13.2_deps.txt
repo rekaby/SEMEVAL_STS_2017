@@ -1,0 +1,9 @@
+ROOT	Stands	root
+chair	on	case
+harp	the	det
+playing	harp	dobj
+playing	chair	nmod:on
+Stands	.	punct
+Stands	woman	dobj
+chair	House	nmod:in_front_of
+woman	playing	acl

@@ -1,0 +1,9 @@
+det	cat	A
+nsubj	eating	cat
+aux	eating	is
+root	ROOT	eating
+dobj	eating	corn
+case	cob	on
+det	cob	the
+nmod:on	eating	cob
+punct	eating	.

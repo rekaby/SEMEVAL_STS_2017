@@ -1,0 +1,10 @@
+nsubjpass	connected	Terminal
+nummod	Terminal	6
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	posititve
+compound	terminal	battery
+nmod:to	connected	terminal
+punct	connected	.

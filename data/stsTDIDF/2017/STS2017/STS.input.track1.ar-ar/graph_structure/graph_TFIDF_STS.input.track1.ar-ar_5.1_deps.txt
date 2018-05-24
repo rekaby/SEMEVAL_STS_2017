@@ -1,0 +1,6 @@
+banana	a	det
+men	sitting	acl
+men	them	conj:and
+grass	on	case
+them	banana	dep
+sitting	grass	nmod:on

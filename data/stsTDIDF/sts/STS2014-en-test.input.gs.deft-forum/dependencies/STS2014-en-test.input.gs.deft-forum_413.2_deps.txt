@@ -1,0 +1,9 @@
+compound	Thanks	Candy
+punct	Thanks	-
+root	ROOT	Thanks
+mark	starting	for
+acl	Thanks	starting
+dobj	starting	us
+compound:prt	starting	off
+nmod:tmod	starting	today
+punct	Thanks	.

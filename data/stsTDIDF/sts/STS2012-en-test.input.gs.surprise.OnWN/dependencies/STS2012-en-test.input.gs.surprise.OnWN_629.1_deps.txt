@@ -1,0 +1,8 @@
+root	ROOT	Adapt
+dobj	Adapt	oneself
+case	conditions	to
+amod	conditions	new
+cc	new	or
+conj:or	new	different
+nmod:to	oneself	conditions
+punct	Adapt	.

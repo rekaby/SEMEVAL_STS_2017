@@ -1,0 +1,12 @@
+det	frame	this
+nsubj	describes	frame
+root	ROOT	describes
+det	attributes	the
+dobj	describes	attributes
+case	phase	of
+det	phase	a
+amod	phase	thermodynamic
+nmod:of	attributes	phase
+case	matter	of
+nmod:of	phase	matter
+punct	describes	.

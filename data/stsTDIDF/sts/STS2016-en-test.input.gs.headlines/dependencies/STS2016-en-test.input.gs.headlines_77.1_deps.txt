@@ -1,0 +1,9 @@
+amod	man	Saudi
+root	ROOT	man
+case	cooker	with
+compound	cooker	pressure
+nmod:with	man	cooker
+acl	cooker	arrested
+case	Detroit	at
+nmod:at	arrested	Detroit
+dep	man	airport

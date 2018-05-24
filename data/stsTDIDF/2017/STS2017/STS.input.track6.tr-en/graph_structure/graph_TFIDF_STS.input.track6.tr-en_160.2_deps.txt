@@ -1,0 +1,11 @@
+table	sitting	acl:relcl
+table	picnic	compound
+table	A	det
+sitting	has	conj:and
+sitting	where	advmod
+table	.	punct
+ROOT	table	root
+has	carriage	dobj
+sitting	woman	nsubj
+carriage	a	det
+carriage	baby	compound

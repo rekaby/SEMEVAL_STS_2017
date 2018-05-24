@@ -1,0 +1,5 @@
+compete	.	punct
+compete	women	nsubj
+contest	in	case
+ROOT	compete	root
+compete	contest	nmod:in

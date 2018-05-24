@@ -1,0 +1,9 @@
+det	man	A
+nsubj	buttering	man
+aux	buttering	is
+root	ROOT	buttering
+det	piece	a
+dobj	buttering	piece
+case	bread	of
+nmod:of	piece	bread
+punct	buttering	.

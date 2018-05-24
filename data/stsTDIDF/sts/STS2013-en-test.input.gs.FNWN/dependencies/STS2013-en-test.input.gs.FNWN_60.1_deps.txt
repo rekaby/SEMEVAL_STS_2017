@@ -1,0 +1,22 @@
+det	record	a
+root	ROOT	record
+nsubj	contains	that
+acl:relcl	record	contains
+det	account	a
+amod	account	permanent
+dobj	contains	account
+case	data	of
+nmod:of	account	data
+punct	record	.-10) det(record-2, this
+nsubjpass	maintained	record
+aux	maintained	may
+auxpass	maintained	be
+root	ROOT	maintained
+case	recorder	by
+det	recorder	a
+nmod:agent	maintained	recorder
+case	entity	for
+det	entity	a
+amod	entity	certain
+nmod:for	recorder	entity
+punct	maintained	.

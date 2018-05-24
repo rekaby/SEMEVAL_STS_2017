@@ -1,0 +1,9 @@
+compound	helicopter	Police
+nsubj	crashes	helicopter
+root	ROOT	crashes
+case	bar	on
+mwe	on	top
+mwe	on	of
+nmod:on_top_of	crashes	bar
+case	Glasgow	in
+nmod:in	crashes	Glasgow

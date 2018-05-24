@@ -1,0 +1,6 @@
+det	man	A
+nsubj	cut	man
+root	ROOT	cut
+det	cake	a
+dobj	cut	cake
+punct	cut	.

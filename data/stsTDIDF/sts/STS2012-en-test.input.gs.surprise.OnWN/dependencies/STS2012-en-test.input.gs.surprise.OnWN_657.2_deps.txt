@@ -1,0 +1,14 @@
+root	ROOT	make
+det	map	a
+dobj	make	map
+acl	map	of
+punct	make	;
+dep	make	show
+cc	show	or
+conj:or	show	establish
+det	features	the
+dobj	show	features
+case	details	of
+nmod:of	features	details
+acl	details	of
+punct	make	.

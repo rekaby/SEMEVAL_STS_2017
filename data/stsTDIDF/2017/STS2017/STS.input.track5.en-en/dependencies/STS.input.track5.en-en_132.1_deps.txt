@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	have	woman
+aux	have	does
+neg	have	n't
+root	ROOT	have
+nmod:poss	arms	her
+dobj	have	arms
+advmod	have	up
+mark	paralyzed	because
+nsubjpass	paralyzed	she
+auxpass	paralyzed	's
+advcl	have	paralyzed
+case	neck	from
+det	neck	the
+nmod:from	paralyzed	neck
+compound:prt	have	down

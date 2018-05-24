@@ -1,0 +1,9 @@
+extend	.	punct
+Gulf	to	case
+pipeline	The	det
+extend	pipeline	nsubj
+extend	Canada	nmod:from
+extend	Gulf	nmod:to
+pipeline	1,700-mile	amod
+extend	would	aux
+ROOT	extend	root

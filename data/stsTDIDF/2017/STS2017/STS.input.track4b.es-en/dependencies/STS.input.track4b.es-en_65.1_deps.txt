@@ -1,0 +1,15 @@
+det	purpose	The
+nsubj	is	purpose
+ccomp	said	is
+mark	hold	to
+xcomp	is	hold
+compound	LaBelle	Patti
+nsubj	responsible	LaBelle
+xcomp	hold	responsible
+case	conduct	for
+nmod:poss	conduct	her
+nmod:for	responsible	conduct
+punct	said	,
+nsubj	said	Davis
+root	ROOT	said
+punct	said	.

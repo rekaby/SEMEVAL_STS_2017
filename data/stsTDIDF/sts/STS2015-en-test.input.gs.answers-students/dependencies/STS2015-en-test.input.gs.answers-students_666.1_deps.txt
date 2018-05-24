@@ -1,0 +1,8 @@
+expl	gap	There
+aux	gap	will
+cop	gap	be
+det	gap	a
+root	ROOT	gap
+case	path	in
+det	path	the
+nmod:in	gap	path

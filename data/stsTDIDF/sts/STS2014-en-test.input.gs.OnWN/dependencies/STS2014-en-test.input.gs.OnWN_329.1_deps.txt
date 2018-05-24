@@ -1,0 +1,7 @@
+det	projectile	a
+amod	projectile	self-propelled
+root	ROOT	projectile
+acl	projectile	driven
+case	propellant	by
+amod	propellant	self-contained
+nmod:by	driven	propellant

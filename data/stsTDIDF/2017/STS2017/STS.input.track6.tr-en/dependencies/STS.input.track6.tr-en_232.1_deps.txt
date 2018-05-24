@@ -1,0 +1,14 @@
+det	photographer	A
+nsubj	takes	photographer
+root	ROOT	takes
+dobj	takes	pictures
+case	family	of
+det	family	a
+nmod:of	pictures	family
+nsubj	includes	that
+acl:relcl	family	includes
+nummod	children	four
+dobj	includes	children
+cc	children	and
+nummod	parents	two
+conj:and	children	parents

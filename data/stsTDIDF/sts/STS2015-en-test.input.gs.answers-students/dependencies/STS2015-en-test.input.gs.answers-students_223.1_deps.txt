@@ -1,0 +1,9 @@
+nsubjpass	needed	Y
+auxpass	needed	is
+neg	needed	not
+root	ROOT	needed
+case	bulb	for
+nmod:for	needed	bulb
+root	bulb	a
+case	light	to
+nmod:to	a	light

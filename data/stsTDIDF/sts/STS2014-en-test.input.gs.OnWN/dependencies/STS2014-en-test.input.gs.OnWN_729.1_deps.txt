@@ -1,0 +1,6 @@
+mark	make	to
+root	ROOT	make
+xcomp	make	ready
+punct	make	,
+dep	make	fit
+compound:prt	fit	out

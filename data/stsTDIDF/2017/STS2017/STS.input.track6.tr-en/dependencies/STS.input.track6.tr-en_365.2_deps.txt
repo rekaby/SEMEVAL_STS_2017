@@ -1,0 +1,8 @@
+det	player	The
+compound	player	baseball
+nsubj	wearing	player
+aux	wearing	is
+root	ROOT	wearing
+det	uniform	a
+dobj	wearing	uniform
+punct	wearing	.

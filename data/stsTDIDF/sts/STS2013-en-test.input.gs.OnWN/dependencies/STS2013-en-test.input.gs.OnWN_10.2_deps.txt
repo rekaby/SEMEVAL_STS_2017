@@ -1,0 +1,11 @@
+det	mark	a
+amod	mark	V-shaped
+root	ROOT	mark
+case	end	at
+nummod	end	one
+nmod:at	mark	end
+case	pointer	of
+det	pointer	an
+compound	pointer	arrow
+nmod:of	end	pointer
+punct	mark	.

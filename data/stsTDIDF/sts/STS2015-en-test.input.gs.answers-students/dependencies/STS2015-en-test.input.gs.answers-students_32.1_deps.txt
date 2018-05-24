@@ -1,0 +1,7 @@
+det	battery	the
+nsubj	path	battery
+cop	path	is
+case	path	on
+det	path	a
+amod	path	closed
+root	ROOT	path

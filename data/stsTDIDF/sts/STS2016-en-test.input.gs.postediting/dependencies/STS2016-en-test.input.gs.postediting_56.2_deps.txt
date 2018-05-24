@@ -1,0 +1,9 @@
+det	process	The
+nsubjpass	held	process
+aux	held	must
+auxpass	held	be
+root	ROOT	held
+case	heartbeat	in
+det	heartbeat	a
+nmod:in	held	heartbeat
+punct	held	.

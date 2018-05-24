@@ -1,0 +1,11 @@
+det	car	A
+nummod	car	four
+compound	car	wheel
+compound	car	drive
+nsubj	driving	car
+aux	driving	is
+root	ROOT	driving
+case	mud	through
+det	mud	the
+nmod:through	driving	mud
+punct	driving	.

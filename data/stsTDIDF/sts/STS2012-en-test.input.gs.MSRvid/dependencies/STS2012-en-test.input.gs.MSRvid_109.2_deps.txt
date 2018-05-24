@@ -1,0 +1,6 @@
+det	tiger	A
+nsubj	walking	tiger
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	around
+punct	walking	.

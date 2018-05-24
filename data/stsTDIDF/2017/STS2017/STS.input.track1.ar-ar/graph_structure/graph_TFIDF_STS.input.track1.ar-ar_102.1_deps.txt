@@ -1,0 +1,6 @@
+ROOT	length	root
+length	feet	nmod:of
+feet	20	nummod
+length	bubble	compound
+length	.	punct
+length	Air	compound

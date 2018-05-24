@@ -1,0 +1,12 @@
+det	person	a
+root	ROOT	person
+acl	person	eating
+det	meal	a
+dobj	eating	meal
+punct	restaurant	-LRB-
+advmod	restaurant	especially
+case	restaurant	in
+det	restaurant	a
+appos	person	restaurant
+punct	restaurant	-RRB-
+punct	person	.

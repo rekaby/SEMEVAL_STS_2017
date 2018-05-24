@@ -1,0 +1,13 @@
+nsubj	worn	you
+aux	worn	've
+root	ROOT	worn
+compound:prt	worn	out
+nmod:poss	pair	your
+amod	pair	third
+dobj	worn	pair
+case	shoes	of
+compound	shoes	tennis
+nmod:of	pair	shoes
+det	week	this
+nmod:tmod	worn	week
+punct	worn	.

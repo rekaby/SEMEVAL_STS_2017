@@ -1,0 +1,6 @@
+root	ROOT	Syria
+punct	Syria	:
+amod	airstrikes	Deadly
+dep	Syria	airstrikes
+case	Damascus	in
+nmod:in	airstrikes	Damascus

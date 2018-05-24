@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	troops	3
+amod	troops	Lebanese
+dobj	kill	troops
+case	Syria	near
+nmod:near	kill	Syria

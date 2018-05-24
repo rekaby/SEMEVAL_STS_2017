@@ -1,0 +1,11 @@
+root	ROOT	Sell
+dobj	Sell	something
+mark	obtain	to
+cc	to	or
+advcl	Sell	obtain
+dobj	obtain	something
+case	activity	from
+case	activity	by
+amod	activity	underhanded
+nmod:by	obtain	activity
+punct	Sell	.

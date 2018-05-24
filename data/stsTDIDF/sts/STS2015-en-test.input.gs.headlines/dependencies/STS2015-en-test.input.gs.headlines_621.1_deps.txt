@@ -1,0 +1,11 @@
+compound	Obama	President
+nsubj	reveals	Obama
+root	ROOT	reveals
+dobj	reveals	plans
+mark	withdraw	to
+acl	plans	withdraw
+dobj	withdraw	troops
+case	Afghanistan	from
+nmod:from	withdraw	Afghanistan
+case	2016	by
+nmod:by	withdraw	2016

@@ -1,0 +1,13 @@
+nummod	breeds	Two
+amod	breeds	different
+nsubj	play	breeds
+case	brown	of
+nmod:of	breeds	brown
+cc	brown	and
+conj:and	brown	white
+dep	brown	dogs
+root	ROOT	play
+case	beach	on
+det	beach	the
+nmod:on	play	beach
+punct	play	.

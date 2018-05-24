@@ -1,0 +1,16 @@
+compound	McDevitt	Mr
+nsubjpass	granted	McDevitt
+aux	granted	has
+auxpass	granted	been
+root	ROOT	granted
+dobj	granted	control
+case	aspects	of
+nummod	aspects	three
+amod	aspects	crucial
+nmod:of	control	aspects
+case	policing	of
+nmod:of	aspects	policing
+case	Solomons	in
+det	Solomons	the
+nmod:in	policing	Solomons
+punct	granted	.

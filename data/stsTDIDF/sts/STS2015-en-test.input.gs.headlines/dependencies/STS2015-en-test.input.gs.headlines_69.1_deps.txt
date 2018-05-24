@@ -1,0 +1,5 @@
+root	ROOT	Scores
+acl	Scores	Killed
+case	Protests	In
+amod	Protests	Egyptian
+nmod:in	Killed	Protests

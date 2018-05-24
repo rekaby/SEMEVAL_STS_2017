@@ -1,0 +1,12 @@
+nummod	kids	Three
+nsubj	sit	kids
+root	ROOT	sit
+cc	sit	and
+conj:and	sit	listen
+case	librarian	to
+det	librarian	a
+nmod:to	listen	librarian
+xcomp	sit	read
+det	story	a
+dobj	read	story
+punct	sit	.

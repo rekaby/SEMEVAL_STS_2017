@@ -1,0 +1,8 @@
+det	power	the
+root	ROOT	power
+mark	use	to
+acl	power	use
+dobj	use	something
+cc	something	or
+conj:or	something	someone
+punct	power	.

@@ -1,0 +1,9 @@
+det	lady	The
+nsubj	broke	lady
+root	ROOT	broke
+amod	eggs	raw
+dobj	broke	eggs
+case	bowl	into
+det	bowl	a
+nmod:into	broke	bowl
+punct	broke	.

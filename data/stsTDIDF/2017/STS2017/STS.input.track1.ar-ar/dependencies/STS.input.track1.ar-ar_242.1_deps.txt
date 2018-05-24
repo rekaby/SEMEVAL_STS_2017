@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+cc	men	and
+det	woman	a
+conj:and	men	woman
+acl	woman	working
+case	booths	in
+det	booths	the
+nmod:in	working	booths
+punct	men	.

@@ -1,0 +1,6 @@
+nsubj	agrees	Syria
+root	ROOT	agrees
+mark	surrender	to
+xcomp	agrees	surrender
+compound	weapons	chemical
+dobj	surrender	weapons

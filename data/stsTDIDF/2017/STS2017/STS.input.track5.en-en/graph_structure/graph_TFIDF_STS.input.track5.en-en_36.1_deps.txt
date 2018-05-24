@@ -1,0 +1,9 @@
+looking	bag	nmod:through
+outfit	a	det
+woman	outfit	nmod:in
+outfit	plaid	compound
+outfit	in	case
+produce	of	case
+looking	woman	nsubj
+bag	through	case
+bag	produce	nmod:of

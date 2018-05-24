@@ -1,0 +1,8 @@
+amod	strikes	6.9-magnitude
+compound	strikes	quake
+root	ROOT	strikes
+case	Islands	off
+nmod:poss	Islands	Russia
+case	Russia	's
+compound	Islands	Kuril
+nmod:off	strikes	Islands

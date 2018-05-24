@@ -1,0 +1,8 @@
+root	ROOT	make
+det	tour	a
+dobj	make	tour
+case	place	of
+det	place	a
+amod	place	certain
+nmod:of	tour	place
+punct	make	.

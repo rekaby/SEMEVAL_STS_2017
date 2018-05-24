@@ -1,0 +1,6 @@
+det	boy	A
+nsubj	plays	boy
+root	ROOT	plays
+det	piano	a
+dobj	plays	piano
+punct	plays	.

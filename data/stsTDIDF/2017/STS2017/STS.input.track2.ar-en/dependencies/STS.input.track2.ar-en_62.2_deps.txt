@@ -1,0 +1,5 @@
+nsubj	chasing	Dog
+root	ROOT	chasing
+det	ghost	a
+dobj	chasing	ghost
+punct	chasing	.

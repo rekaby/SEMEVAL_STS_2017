@@ -1,0 +1,15 @@
+nsubj	refused	He
+root	ROOT	refused
+mark	say	to
+xcomp	refused	say
+det	percentage	what
+nsubj	had	percentage
+case	flights	of
+amod	flights	domestic
+nmod:of	percentage	flights
+ccomp	say	had
+compound	officers	security
+dobj	had	officers
+case	board	on
+nmod:on	had	board
+punct	refused	.

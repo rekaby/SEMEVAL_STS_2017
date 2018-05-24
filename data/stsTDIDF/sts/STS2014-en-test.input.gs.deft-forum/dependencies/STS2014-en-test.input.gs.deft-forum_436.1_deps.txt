@@ -1,0 +1,9 @@
+root	ROOT	And
+det	part	a
+amod	part	large
+dep	And	part
+case	coast	of
+det	coast	the
+amod	coast	east
+nmod:of	part	coast
+punct	And	.

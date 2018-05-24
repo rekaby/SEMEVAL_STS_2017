@@ -1,0 +1,12 @@
+root	ROOT	Reading
+nmod:poss	post	your
+dobj	Reading	post
+punct	Reading	,
+dep	Reading	made
+nsubj	think	me
+ccomp	made	think
+case	years	of
+nmod:poss	years	my
+amod	years	younger
+nmod:of	think	years
+dep	Reading	!!

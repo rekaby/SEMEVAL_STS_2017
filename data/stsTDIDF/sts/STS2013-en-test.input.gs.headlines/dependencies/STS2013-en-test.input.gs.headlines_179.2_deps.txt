@@ -1,0 +1,7 @@
+amod	militia	Libyan
+nsubj	takes	militia
+root	ROOT	takes
+dobj	takes	control
+case	Tripoli	of
+nmod:of	control	Tripoli
+dobj	takes	airport

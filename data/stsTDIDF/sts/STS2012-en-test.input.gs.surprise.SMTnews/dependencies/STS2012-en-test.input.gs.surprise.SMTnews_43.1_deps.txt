@@ -1,0 +1,17 @@
+dobj	witnessing	What
+nsubj	witnessing	we
+aux	witnessing	are
+csubj	shift	witnessing
+nmod:tmod	witnessing	today
+cop	shift	is
+det	shift	a
+root	ROOT	shift
+case	identity	from
+det	identity	a
+amod	identity	Muslim
+nmod:from	shift	identity
+case	identity	to
+det	identity	an
+amod	identity	Islamist
+nmod:to	identity	identity
+punct	shift	.

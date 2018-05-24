@@ -1,0 +1,16 @@
+mark	side	that
+det	terminal	the
+compound	terminal	bulb
+nsubj	side	terminal
+cc	terminal	and
+compound	terminal	battery
+conj:and	terminal	terminal
+cop	side	are
+case	side	on
+det	side	the
+amod	side	same
+root	ROOT	side
+case	circut	of
+det	circut	a
+amod	circut	disconnected
+nmod:of	side	circut

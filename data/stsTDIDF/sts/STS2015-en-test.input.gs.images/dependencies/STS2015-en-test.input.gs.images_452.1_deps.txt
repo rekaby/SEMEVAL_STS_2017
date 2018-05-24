@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	harnessed
+nsubj	leaps	dog
+root	ROOT	leaps
+case	log	over
+det	log	a
+nmod:over	leaps	log
+mark	follows	as
+det	dog	another
+nsubj	follows	dog
+advcl	log	follows
+compound:prt	follows	behind
+punct	leaps	.

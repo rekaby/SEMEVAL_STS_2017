@@ -1,0 +1,17 @@
+advmod	appropriate	When
+punct	process	-LRB-
+mark	process	if
+advmod	process	ever
+punct	process	-RRB-
+case	process	in
+det	process	the
+compound	process	interview
+nmod:in	appropriate	process
+cop	appropriate	is
+nsubj	appropriate	it
+root	ROOT	appropriate
+mark	recommend	to
+xcomp	appropriate	recommend
+det	colleague	a
+dobj	recommend	colleague
+punct	appropriate	?

@@ -1,0 +1,6 @@
+nsubj	eating	Kittens
+aux	eating	are
+root	ROOT	eating
+case	dishes	from
+nmod:from	eating	dishes
+punct	eating	.

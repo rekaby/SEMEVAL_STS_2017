@@ -1,0 +1,14 @@
+case	photo	In
+det	photo	this
+nmod:in	are	photo
+expl	are	there
+root	ROOT	are
+det	people	a
+amod	people	few
+nsubj	are	people
+case	group	on
+det	group	a
+nmod:on	are	group
+case	bicycles	of
+nmod:of	group	bicycles
+punct	are	.

@@ -1,0 +1,12 @@
+dep	right	edgar
+punct	right	,
+nsubj	right	you
+aux	right	may
+cop	right	be
+root	ROOT	right
+punct	right	-
+case	least	at
+nmod:at	right	least
+case	part	in
+nmod:in	least	part
+punct	right	.

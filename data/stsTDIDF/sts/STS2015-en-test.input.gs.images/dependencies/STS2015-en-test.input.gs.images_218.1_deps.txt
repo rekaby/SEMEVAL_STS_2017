@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+nmod:in	man	suit
+amod	suit	dances
+case	girl	with
+det	girl	a
+amod	girl	young
+nmod:with	dances	girl
+case	audience	in
+mwe	in	front
+mwe	in	of
+det	audience	an
+nmod:in_front_of	girl	audience
+punct	man	.

@@ -1,0 +1,10 @@
+root	ROOT	Act
+conj:or	Act	Act
+case	permission	without
+nmod:without	Act	permission
+cc	Act	or
+case	confidence	with
+advmod	much	too
+amod	confidence	much
+nmod:with	Act	confidence
+punct	Act	.

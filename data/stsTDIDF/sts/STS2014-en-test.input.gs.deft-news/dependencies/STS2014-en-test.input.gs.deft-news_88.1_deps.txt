@@ -1,0 +1,9 @@
+nsubj	provides	france
+root	ROOT	provides
+det	rockets	the
+dobj	provides	rockets
+punct	rockets	,
+conj:and	rockets	guns
+cc	rockets	and
+conj:and	rockets	engines
+punct	provides	.

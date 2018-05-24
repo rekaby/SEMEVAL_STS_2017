@@ -1,0 +1,12 @@
+amod	dog	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	dog
+case	standing	in
+amod	standing	living
+compound	standing	room
+nmod:in	dog	standing
+case	legs	on
+amod	legs	hind
+nmod:on	standing	legs
+punct	dog	.

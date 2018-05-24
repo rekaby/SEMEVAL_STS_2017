@@ -1,0 +1,16 @@
+nsubjpass	arrested	He
+auxpass	arrested	was
+root	ROOT	arrested
+compound	night	Tuesday
+nmod:tmod	arrested	night
+case	shop	at
+det	shop	a
+amod	shop	northwest
+compound	shop	Atlanta
+compound	shop	tire
+nmod:at	arrested	shop
+case	manhunt	after
+det	manhunt	a
+amod	manhunt	national
+nmod:after	shop	manhunt
+punct	arrested	.

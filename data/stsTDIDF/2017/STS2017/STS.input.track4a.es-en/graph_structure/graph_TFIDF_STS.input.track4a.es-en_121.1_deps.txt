@@ -1,0 +1,11 @@
+man	hat	nmod:in
+slipped	ice	nmod:on
+ROOT	slipped	root
+hat	the	det
+slipped	.	punct
+ice	the	det
+slipped	man	nsubj
+hat	gray	amod
+ice	on	case
+slipped	has	aux
+hat	in	case

@@ -1,0 +1,5 @@
+Child	sitting	acl
+sitting	wall	nmod:on
+ROOT	Child	root
+wall	stone	compound
+Child	.	punct

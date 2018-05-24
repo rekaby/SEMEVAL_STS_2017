@@ -1,0 +1,14 @@
+nsubj	read	I
+aux	read	have
+neg	read	n't
+root	ROOT	read
+det	books	the
+dobj	read	books
+punct	read	,
+cc	read	but
+nsubj	saw	I
+conj:but	read	saw
+det	movie	the
+dobj	saw	movie
+nmod:tmod	saw	today
+punct	read	.

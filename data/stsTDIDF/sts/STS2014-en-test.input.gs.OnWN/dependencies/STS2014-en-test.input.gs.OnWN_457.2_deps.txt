@@ -1,0 +1,12 @@
+det	removal	the
+root	ROOT	removal
+case	piece	of
+det	opponent	an
+nmod:poss	piece	opponent
+case	opponent	's
+nmod:of	removal	piece
+case	board	from
+det	board	the
+compound	board	chess
+nmod:from	piece	board
+punct	removal	.

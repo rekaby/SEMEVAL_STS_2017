@@ -1,0 +1,16 @@
+nsubjpass	affected	Earnings
+auxpass	affected	were
+root	ROOT	affected
+case	$	by
+det	$	a
+amod	$	non-recurring
+nmod:agent	affected	$
+compound	million	8
+nummod	$	million
+compound	benefit	tax
+dep	$	benefit
+case	period	in
+det	period	the
+amod	period	year-ago
+nmod:in	benefit	period
+punct	affected	.

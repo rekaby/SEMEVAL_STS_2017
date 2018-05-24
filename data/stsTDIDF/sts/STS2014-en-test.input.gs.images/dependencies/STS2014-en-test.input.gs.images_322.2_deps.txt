@@ -1,0 +1,10 @@
+det	pets	A
+compound	pets	woman
+nsubj	dog	pets
+det	dog	a
+root	ROOT	dog
+case	yard	in
+det	yard	a
+amod	yard	gated
+nmod:in	dog	yard
+punct	dog	.

@@ -1,0 +1,6 @@
+compound	Housing	May
+nsubj	Starts	Housing
+root	ROOT	Starts
+compound:prt	Starts	Up
+nummod	%	6.8
+dobj	Starts	%

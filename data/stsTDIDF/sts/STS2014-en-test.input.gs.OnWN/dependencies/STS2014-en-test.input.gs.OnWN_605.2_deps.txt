@@ -1,0 +1,7 @@
+root	ROOT	change
+case	something	toward
+nmod:toward	change	something
+amod	something	smaller
+cc	smaller	or
+conj:or	smaller	lower
+punct	change	.

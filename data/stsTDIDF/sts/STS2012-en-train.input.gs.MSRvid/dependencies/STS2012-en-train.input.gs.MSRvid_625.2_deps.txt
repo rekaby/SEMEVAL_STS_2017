@@ -1,0 +1,8 @@
+det	man	The
+nsubj	drew	man
+root	ROOT	drew
+case	paper	on
+det	paper	the
+amod	paper	white
+nmod:on	drew	paper
+punct	drew	.

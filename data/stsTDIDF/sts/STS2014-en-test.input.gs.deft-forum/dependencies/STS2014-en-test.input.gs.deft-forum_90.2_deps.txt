@@ -1,0 +1,12 @@
+mark	person	If
+nsubj	person	it
+cop	person	is
+neg	person	n't
+det	person	a
+advcl	it	person
+punct	it	,
+advmod	WTF	then
+nsubj	it	WTF
+cop	it	is
+root	ROOT	it
+punct	it	?

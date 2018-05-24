@@ -1,0 +1,11 @@
+root	ROOT	Disruptions
+punct	Disruptions	:
+compound	Technology	Design
+compound	Technology	Rivals
+dep	Disruptions	Technology
+case	Importance	in
+nmod:in	Technology	Importance
+punct	Technology	:
+amod	quotes	Nice
+dep	Technology	quotes
+punct	Disruptions	!

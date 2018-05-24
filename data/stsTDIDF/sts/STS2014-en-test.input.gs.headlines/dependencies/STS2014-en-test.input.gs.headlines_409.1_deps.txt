@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	45	least
+nummod	crash	45
+amod	crash	killed
+case	train	in
+compound	train	Spain
+nmod:in	killed	train
+root	ROOT	crash

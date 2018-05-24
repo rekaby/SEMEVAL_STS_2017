@@ -1,0 +1,12 @@
+nsubj	depends	It
+root	ROOT	depends
+case	what	on
+nmod:on	depends	what
+cc	what	and
+advmod	going	where
+nsubj	going	you
+aux	going	are
+conj:and	what	going
+mark	do	to
+xcomp	going	do
+punct	depends	.

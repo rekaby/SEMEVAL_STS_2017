@@ -1,0 +1,15 @@
+det	dog	A
+nsubj	holding	dog
+case	ears	with
+amod	ears	big
+nmod:with	dog	ears
+aux	holding	is
+root	ROOT	holding
+det	stick	a
+amod	stick	small
+dobj	holding	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	holding	mouth
+punct	holding	.

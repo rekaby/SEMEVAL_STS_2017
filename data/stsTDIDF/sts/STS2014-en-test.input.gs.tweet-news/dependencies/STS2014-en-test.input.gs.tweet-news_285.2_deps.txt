@@ -1,0 +1,8 @@
+amod	Deal	Bipartisan
+compound	Deal	Filibuster
+nsubj	Taking	Deal
+aux	Taking	Is
+root	ROOT	Taking
+dobj	Taking	Shape
+case	Senate	in
+nmod:in	Shape	Senate

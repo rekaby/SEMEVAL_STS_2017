@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	active	of
+cop	active	being
+acl	state	active
+punct	state	.

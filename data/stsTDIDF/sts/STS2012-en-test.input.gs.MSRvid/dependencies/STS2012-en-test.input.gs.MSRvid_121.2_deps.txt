@@ -1,0 +1,6 @@
+det	man	A
+nsubj	peeled	man
+root	ROOT	peeled
+det	potatoe	a
+dobj	peeled	potatoe
+punct	peeled	.

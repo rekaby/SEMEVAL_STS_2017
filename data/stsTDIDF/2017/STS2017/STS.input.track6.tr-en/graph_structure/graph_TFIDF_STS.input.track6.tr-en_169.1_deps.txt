@@ -1,0 +1,7 @@
+attempts	Young	amod
+attempts	.	punct
+attempts	man	compound
+repair	job	dobj
+attempts	repair	acl
+job	wiring	compound
+ROOT	attempts	root

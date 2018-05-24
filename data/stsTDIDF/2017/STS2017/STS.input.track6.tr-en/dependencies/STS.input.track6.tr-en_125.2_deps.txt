@@ -1,0 +1,15 @@
+det	man	The
+nsubj	swimming	man
+aux	swimming	is
+root	ROOT	swimming
+case	middle	in
+det	middle	the
+nmod:in	swimming	middle
+case	ocean	of
+det	ocean	the
+nmod:of	middle	ocean
+case	Sea	in
+det	Sea	the
+compound	Sea	North
+nmod:in	swimming	Sea
+punct	swimming	.

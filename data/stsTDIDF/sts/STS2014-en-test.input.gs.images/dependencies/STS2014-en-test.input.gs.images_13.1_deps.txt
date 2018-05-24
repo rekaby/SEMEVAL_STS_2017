@@ -1,0 +1,6 @@
+det	jockey	A
+root	ROOT	jockey
+acl	jockey	riding
+det	horse	a
+dobj	riding	horse
+punct	jockey	.

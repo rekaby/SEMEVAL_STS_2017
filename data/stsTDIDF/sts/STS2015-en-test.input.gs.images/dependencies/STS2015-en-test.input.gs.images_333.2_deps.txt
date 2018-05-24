@@ -1,0 +1,12 @@
+det	dog	A
+compound	dog	tan
+root	ROOT	dog
+case	collar	with
+det	collar	a
+amod	collar	black
+nmod:with	dog	collar
+acl	collar	barking
+case	snow	in
+det	snow	the
+nmod:in	barking	snow
+punct	dog	.

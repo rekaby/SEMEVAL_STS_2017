@@ -1,0 +1,8 @@
+amod	ruler	Former
+compound	ruler	Pakistan
+amod	ruler	military
+root	ROOT	ruler
+compound	Musharraf	Pervez
+nsubj	granted	Musharraf
+acl:relcl	ruler	granted
+dobj	granted	bail

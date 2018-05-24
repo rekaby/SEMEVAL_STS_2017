@@ -1,0 +1,8 @@
+compound	Haiyan	Super
+compound	Haiyan	typhoon
+nsubj	closes	Haiyan
+root	ROOT	closes
+case	Philippines	in
+case	Philippines	on
+det	Philippines	the
+nmod:on	closes	Philippines

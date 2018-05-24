@@ -1,0 +1,7 @@
+amod	markets	European
+nsubj	rise	markets
+root	ROOT	rise
+case	bailout	on
+amod	bailout	Greek
+nmod:on	rise	bailout
+dobj	rise	hopes

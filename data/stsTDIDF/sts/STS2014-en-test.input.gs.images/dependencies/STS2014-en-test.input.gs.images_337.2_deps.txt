@@ -1,0 +1,10 @@
+det	bird	A
+amod	bird	large
+root	ROOT	bird
+case	prey	of
+nmod:of	bird	prey
+acl	prey	flying
+case	camera	towards
+det	camera	the
+nmod:towards	flying	camera
+punct	bird	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	singing	man
+cop	singing	is
+root	ROOT	singing
+advmod	singing	together
+case	band	with
+nmod:poss	band	his
+nmod:with	singing	band
+punct	singing	.

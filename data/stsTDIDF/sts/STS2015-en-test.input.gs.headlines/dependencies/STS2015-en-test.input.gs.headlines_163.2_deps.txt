@@ -1,0 +1,7 @@
+nsubj	agrees	Assad
+root	ROOT	agrees
+mark	hand	to
+xcomp	agrees	hand
+case	weapons	over
+compound	weapons	chemical
+nmod:over	hand	weapons

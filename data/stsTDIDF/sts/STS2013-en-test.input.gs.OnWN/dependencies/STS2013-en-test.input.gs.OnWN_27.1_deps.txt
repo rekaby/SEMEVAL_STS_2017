@@ -1,0 +1,7 @@
+root	ROOT	giving
+det	reference	a
+dobj	giving	reference
+cc	reference	or
+conj:or	reference	citation
+case	something	of
+nmod:of	reference	something

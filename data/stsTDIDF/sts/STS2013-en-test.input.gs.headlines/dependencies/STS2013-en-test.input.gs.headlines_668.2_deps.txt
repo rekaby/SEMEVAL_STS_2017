@@ -1,0 +1,7 @@
+compound	prices	Oil
+nsubj	rise	prices
+root	ROOT	rise
+case	hopes	on
+nmod:on	rise	hopes
+case	stimulus	for
+nmod:for	hopes	stimulus

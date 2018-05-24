@@ -1,0 +1,6 @@
+walking	market	nmod:through
+market	through	case
+walking	People	nsubj
+market	themed	amod
+market	Christmas	compound
+walking	are	aux

@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	young
+nsubj	punching	boy
+aux	punching	is
+root	ROOT	punching
+det	ball	a
+amod	ball	yellow
+dobj	punching	ball
+punct	punching	.

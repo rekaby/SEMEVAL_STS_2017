@@ -1,0 +1,12 @@
+det	man	a
+nsubj	holds	man
+root	ROOT	holds
+det	sign	a
+amod	sign	pro
+compound	sign	Judea
+compound	sign	protest
+dobj	holds	sign
+case	protest	at
+det	protest	a
+nmod:at	sign	protest
+dobj	holds	rally

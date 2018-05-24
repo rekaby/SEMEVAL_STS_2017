@@ -1,0 +1,15 @@
+det	man	A
+nsubj	delivering	man
+aux	delivering	is
+root	ROOT	delivering
+det	lecture	a
+dobj	delivering	lecture
+case	event	at
+det	event	an
+nmod:at	delivering	event
+acl	event	celebrating
+det	game	the
+dobj	celebrating	game
+case	cricket	of
+nmod:of	game	cricket
+punct	delivering	.

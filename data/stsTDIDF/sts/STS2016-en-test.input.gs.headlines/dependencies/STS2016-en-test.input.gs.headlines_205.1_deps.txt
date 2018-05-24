@@ -1,0 +1,7 @@
+root	ROOT	Govt
+punct	Govt	.-2) mark(hold-2, to
+root	ROOT	hold
+dobj	hold	talks
+case	students	with
+compound	students	FTII
+nmod:with	talks	students

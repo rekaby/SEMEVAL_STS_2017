@@ -1,0 +1,11 @@
+nsubj	worn	you
+aux	worn	've
+root	ROOT	worn
+compound:prt	worn	out
+det	handle	the
+dobj	worn	handle
+case	mug	on
+nmod:poss	mug	your
+amod	mug	favorite
+nmod:on	handle	mug
+punct	worn	.

@@ -1,0 +1,4 @@
+tree	in	case
+child	.	punct
+child	tree	nmod:in
+ROOT	child	root

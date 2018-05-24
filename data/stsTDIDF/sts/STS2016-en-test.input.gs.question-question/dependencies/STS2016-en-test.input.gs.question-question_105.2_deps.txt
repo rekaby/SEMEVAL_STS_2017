@@ -1,0 +1,9 @@
+advmod	find	Where
+aux	find	can
+nsubj	find	I
+root	ROOT	find
+det	thesaurus	a
+amod	thesaurus	good
+compound	thesaurus	online
+dobj	find	thesaurus
+punct	find	?

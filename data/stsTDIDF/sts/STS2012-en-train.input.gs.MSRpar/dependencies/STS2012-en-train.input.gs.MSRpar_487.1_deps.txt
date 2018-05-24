@@ -1,0 +1,14 @@
+compound	groups	Consumer
+nsubj	changes	groups
+cop	changes	are
+case	changes	against
+det	changes	the
+root	ROOT	changes
+punct	changes	,
+acl	changes	saying
+nsubj	hurt	they
+ccomp	saying	hurt
+dobj	hurt	individuality
+case	markets	in
+nmod:in	individuality	markets
+punct	changes	.

@@ -1,0 +1,17 @@
+nsubjpass	intended	It
+auxpass	intended	was
+root	ROOT	intended
+mark	allow	to
+xcomp	intended	allow
+amod	code	existing
+dobj	allow	code
+mark	used	to
+auxpass	used	be
+xcomp	allow	used
+advmod	used	again
+case	minimal	with
+nmod:with	used	minimal
+cc	minimal	or
+neg	alteration	no
+conj:or	minimal	alteration
+punct	intended	.

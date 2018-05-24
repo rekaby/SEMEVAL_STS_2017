@@ -1,0 +1,11 @@
+root	ROOT	apply
+dobj	apply	conditioner
+mark	make	to
+mark	make	in
+mwe	in	order
+mark	make	to
+advcl	apply	make
+dobj	make	smooth
+cc	smooth	and
+conj:and	smooth	shiny
+punct	apply	.

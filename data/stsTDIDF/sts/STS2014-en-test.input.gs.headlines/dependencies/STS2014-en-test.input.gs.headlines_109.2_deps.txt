@@ -1,0 +1,8 @@
+amod	PM	British
+nsubj	pushes	PM
+root	ROOT	pushes
+compound	Lanka	Sri
+dobj	pushes	Lanka
+case	crimes	on
+compound	crimes	war
+nmod:on	pushes	crimes

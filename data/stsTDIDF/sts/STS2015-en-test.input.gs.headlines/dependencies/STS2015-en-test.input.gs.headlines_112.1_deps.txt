@@ -1,0 +1,6 @@
+nummod	Filipinos	Seven
+nsubj	slain	Filipinos
+root	ROOT	slain
+case	Yemen	in
+nmod:in	slain	Yemen
+dobj	slain	attack

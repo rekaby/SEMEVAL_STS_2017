@@ -1,0 +1,5 @@
+compound	day	Laundry
+root	ROOT	day
+case	Mike	for
+nmod:for	day	Mike
+punct	day	.

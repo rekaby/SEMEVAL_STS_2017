@@ -1,0 +1,6 @@
+amod	orders	German
+compound	orders	factory
+nsubj	rebound	orders
+root	ROOT	rebound
+case	January	in
+nmod:in	rebound	January

@@ -1,0 +1,10 @@
+det	Casualty	A
+root	ROOT	Casualty
+case	Battlefield	on
+det	Battlefield	the
+nmod:on	Casualty	Battlefield
+mark	Book	of
+dep	Book	Amazon?s
+nsubj	Book	Partisan
+acl	Battlefield	Book
+dobj	Book	Reviews

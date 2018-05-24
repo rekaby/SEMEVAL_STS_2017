@@ -1,0 +1,8 @@
+det	man	the
+nsubj	planning	man
+aux	planning	is
+root	ROOT	planning
+mark	shoot	to
+xcomp	planning	shoot
+det	wedding	a
+dobj	shoot	wedding

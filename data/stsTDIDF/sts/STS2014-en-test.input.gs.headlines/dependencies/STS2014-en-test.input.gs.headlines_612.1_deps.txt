@@ -1,0 +1,10 @@
+amod	general	Chinese
+nmod:poss	son	general
+case	general	's
+nsubj	gets	son
+root	ROOT	gets
+nummod	years	10
+nmod:npmod	jail	years
+dobj	gets	jail
+case	rape	for
+nmod:for	gets	rape

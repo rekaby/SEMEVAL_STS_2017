@@ -1,0 +1,7 @@
+det	pile	A
+amod	pile	large
+root	ROOT	pile
+case	wood	of
+compound	wood	scrap
+nmod:of	pile	wood
+punct	pile	.

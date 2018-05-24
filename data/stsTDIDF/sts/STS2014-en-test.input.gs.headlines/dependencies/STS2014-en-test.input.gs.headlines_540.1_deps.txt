@@ -1,0 +1,8 @@
+nmod:poss	Zone	China
+case	China	's
+amod	Zone	1st
+compound	Zone	Pilot
+compound	Zone	Free
+compound	Zone	Trade
+nsubj	Opens	Zone
+root	ROOT	Opens

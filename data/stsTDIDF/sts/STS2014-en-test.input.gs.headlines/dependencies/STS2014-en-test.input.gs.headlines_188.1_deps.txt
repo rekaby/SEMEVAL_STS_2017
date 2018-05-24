@@ -1,0 +1,8 @@
+amod	PM	Turkish
+nsubj	urges	PM
+root	ROOT	urges
+mark	end	to
+xcomp	urges	end
+dobj	end	protests
+case	Istanbul	in
+nmod:in	protests	Istanbul

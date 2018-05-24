@@ -1,0 +1,6 @@
+nsubj	thanks	Japan
+root	ROOT	thanks
+dobj	thanks	Taiwan
+case	quake	for
+nmod:for	thanks	quake
+nmod:npmod	thanks	aid

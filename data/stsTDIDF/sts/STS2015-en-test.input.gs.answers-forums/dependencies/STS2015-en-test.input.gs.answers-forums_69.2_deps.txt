@@ -1,0 +1,11 @@
+nsubj	heard	I
+aux	heard	have
+neg	heard	never
+root	ROOT	heard
+cc	heard	or
+conj:or	heard	seen
+det	phrase	the
+dobj	seen	phrase
+nsubj	mention	you
+acl:relcl	phrase	mention
+punct	heard	.

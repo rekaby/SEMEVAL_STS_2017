@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	boy	a
+amod	boy	young
+nsubj	is	boy
+case	woman	with
+det	woman	the
+nmod:with	is	woman
+punct	is	.

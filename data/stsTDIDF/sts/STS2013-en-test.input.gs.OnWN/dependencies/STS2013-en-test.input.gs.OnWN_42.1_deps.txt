@@ -1,0 +1,8 @@
+det	act	the
+nsubj	rotating	act
+mark	turning	of
+acl	act	turning
+punct	act	,
+root	ROOT	rotating
+det	object	an
+dobj	rotating	object

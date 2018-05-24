@@ -1,0 +1,8 @@
+det	match	The
+compound	match	volleyball
+nsubj	ongoing	match
+cop	ongoing	is
+root	ROOT	ongoing
+case	ladies	between
+det	ladies	the
+nmod:between	ongoing	ladies

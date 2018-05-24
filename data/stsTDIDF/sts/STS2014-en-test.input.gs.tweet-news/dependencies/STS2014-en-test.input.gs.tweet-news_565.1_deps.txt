@@ -1,0 +1,15 @@
+nsubj	??	#Pentagon
+mark	lift	to
+acl	#Pentagon	lift
+compound	ban	combat
+dobj	lift	ban
+case	women	for
+nmod:for	lift	women
+punct	#Pentagon	...
+advmod	about	How
+advmod	banning	about
+csubj	??	banning
+dobj	banning	combat
+case	men	for
+nmod:for	banning	men
+root	ROOT	??

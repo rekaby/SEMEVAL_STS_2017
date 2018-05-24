@@ -1,0 +1,13 @@
+compound	poll	Egypt
+root	ROOT	poll
+punct	poll	:
+dep	poll	98
+case	vote	per
+compound	vote	cent
+nmod:per	98	vote
+punct	yes	`
+dep	98	yes
+punct	yes	'
+case	constitution	for
+amod	constitution	new
+nmod:for	98	constitution

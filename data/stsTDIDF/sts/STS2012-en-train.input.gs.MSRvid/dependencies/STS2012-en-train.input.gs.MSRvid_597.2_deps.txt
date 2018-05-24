@@ -1,0 +1,9 @@
+det	girl	The
+nsubj	applied	girl
+root	ROOT	applied
+compound	makeup	face
+dobj	applied	makeup
+case	man	to
+det	man	a
+nmod:to	applied	man
+punct	applied	.

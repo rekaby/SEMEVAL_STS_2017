@@ -1,0 +1,9 @@
+nsubj	want	You
+aux	want	will
+root	ROOT	want
+mark	clean	to
+xcomp	want	clean
+det	area	the
+dobj	clean	area
+advmod	clean	first
+punct	want	.

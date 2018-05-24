@@ -1,0 +1,11 @@
+det	man	A
+amod	man	young
+nsubj	performing	man
+case	beach	on
+det	beach	a
+nmod:on	man	beach
+aux	performing	is
+root	ROOT	performing
+compound	stunts	skateboard
+dobj	performing	stunts
+punct	performing	.

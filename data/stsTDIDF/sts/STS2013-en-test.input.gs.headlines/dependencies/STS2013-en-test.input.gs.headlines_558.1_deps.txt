@@ -1,0 +1,5 @@
+nsubj	hangs	Hamas
+root	ROOT	hangs
+nummod	prisoners	three
+compound	prisoners	Gaza
+dobj	hangs	prisoners

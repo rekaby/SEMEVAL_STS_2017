@@ -1,0 +1,11 @@
+root	ROOT	cover
+conj:or	cover	cover
+conj:or	cover	cover
+case	flakes	with
+nmod:with	cover	flakes
+cc	cover	or
+case	flakes	as
+mark	flakes	if
+case	flakes	with
+nmod:with	cover	flakes
+punct	cover	.

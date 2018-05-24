@@ -1,0 +1,8 @@
+det	way	a
+root	ROOT	way
+cc	way	or
+conj:or	way	means
+mark	achieve	to
+xcomp	means	achieve
+dobj	achieve	something
+punct	way	.

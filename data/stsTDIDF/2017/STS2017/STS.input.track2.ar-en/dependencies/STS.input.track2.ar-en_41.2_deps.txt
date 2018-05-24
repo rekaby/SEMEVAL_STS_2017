@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	prepares	boy
+root	ROOT	prepares
+mark	catch	to
+xcomp	prepares	catch
+det	ball	a
+dobj	catch	ball
+punct	prepares	.

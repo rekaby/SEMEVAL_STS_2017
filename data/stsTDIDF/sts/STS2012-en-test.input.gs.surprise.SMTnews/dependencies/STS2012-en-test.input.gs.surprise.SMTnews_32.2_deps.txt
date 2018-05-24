@@ -1,0 +1,15 @@
+cc	exerts	And
+punct	exerts	,
+advmod	important	perhaps
+advmod	important	most
+dep	exerts	important
+punct	exerts	,
+nsubj	exerts	Ahmadinejad
+root	ROOT	exerts
+det	influence	a
+amod	influence	destabilizing
+dobj	exerts	influence
+punct	exerts	,
+neg	Bernanke	not
+dep	exerts	Bernanke
+punct	exerts	.

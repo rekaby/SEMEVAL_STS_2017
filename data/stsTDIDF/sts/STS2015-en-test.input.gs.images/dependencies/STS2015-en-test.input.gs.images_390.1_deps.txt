@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	small
+nsubj	sitting	boy
+case	bathrobe	in
+det	bathrobe	a
+nmod:in	boy	bathrobe
+aux	sitting	is
+root	ROOT	sitting
+case	chair	in
+det	chair	a
+compound	chair	metal
+nmod:in	sitting	chair
+punct	sitting	.

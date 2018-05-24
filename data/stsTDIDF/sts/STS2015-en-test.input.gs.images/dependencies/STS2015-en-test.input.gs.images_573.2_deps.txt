@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	black
+nsubj	walking	dogs
+root	ROOT	walking
+case	snow	through
+det	snow	the
+nmod:through	walking	snow
+punct	walking	.

@@ -1,0 +1,6 @@
+root	ROOT	put
+cc	put	or
+conj:or	put	store
+case	bottle	in
+det	bottle	a
+nmod:in	put	bottle

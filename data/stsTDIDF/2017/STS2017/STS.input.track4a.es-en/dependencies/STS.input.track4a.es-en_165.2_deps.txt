@@ -1,0 +1,15 @@
+nummod	girls	Two
+nsubj	prepare	girls
+root	ROOT	prepare
+det	sailboat	a
+amod	sailboat	small
+dobj	prepare	sailboat
+mark	watch	as
+nummod	boys	two
+nsubj	watch	boys
+advcl	prepare	watch
+dobj	watch	them
+case	beach	from
+det	beach	the
+nmod:from	watch	beach
+punct	prepare	.

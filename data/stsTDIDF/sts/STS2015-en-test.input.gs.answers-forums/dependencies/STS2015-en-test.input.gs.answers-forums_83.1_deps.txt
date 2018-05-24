@@ -1,0 +1,16 @@
+advmod	used	Back
+case	day	in
+det	day	the
+nmod:in	Back	day
+punct	used	,
+punct	used	``
+nsubjpass	used	cable
+punct	used	''
+auxpass	used	was
+root	ROOT	used
+mark	describe	to
+xcomp	used	describe
+dobj	describe	communications
+acl	communications	sent
+advmod	sent	abroad
+punct	used	.

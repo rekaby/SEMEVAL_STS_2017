@@ -1,0 +1,5 @@
+root	ROOT	Photos
+punct	Photos	:
+dep	Photos	Fires
+case	Australia	across
+nmod:across	Fires	Australia

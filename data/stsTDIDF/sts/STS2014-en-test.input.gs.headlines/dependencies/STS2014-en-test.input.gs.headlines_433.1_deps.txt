@@ -1,0 +1,10 @@
+advmod	1,000	More
+mwe	More	than
+nummod	inmates	1,000
+nsubj	escape	inmates
+root	ROOT	escape
+case	prison	from
+nmod:poss	prison	Libya
+case	Libya	's
+compound	prison	al-Kweifiya
+nmod:from	escape	prison

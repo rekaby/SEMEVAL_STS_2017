@@ -1,0 +1,5 @@
+country	.	punct
+ROOT	country	root
+country	cross	amod
+country	People	compound
+country	skiing	compound

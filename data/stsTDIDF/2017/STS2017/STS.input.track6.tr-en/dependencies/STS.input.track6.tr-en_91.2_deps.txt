@@ -1,0 +1,6 @@
+det	group	The
+compound	group	music
+nsubj	sleeping	group
+aux	sleeping	is
+root	ROOT	sleeping
+punct	sleeping	.

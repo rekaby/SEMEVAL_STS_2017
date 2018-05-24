@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	swinging	cat
+aux	swinging	is
+root	ROOT	swinging
+case	fan	on
+det	fan	a
+nmod:on	swinging	fan
+punct	swinging	.

@@ -1,0 +1,15 @@
+nsubj	said	I
+root	ROOT	said
+nsubj	had	she
+aux	had	has
+neg	had	not
+advmod	had	ever
+ccomp	said	had
+mark	part	to
+cop	part	be
+det	part	a
+xcomp	had	part
+case	workforce	of
+det	workforce	any
+nmod:of	part	workforce
+punct	said	.

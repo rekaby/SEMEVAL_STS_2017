@@ -1,0 +1,15 @@
+det	request	a
+amod	request	verbal
+cc	verbal	or
+conj:or	verbal	written
+root	ROOT	request
+case	assistance	for
+nmod:for	request	assistance
+cc	assistance	or
+conj:or	assistance	employment
+cc	assistance	or
+conj:or	assistance	admission
+case	school	to
+det	school	a
+nmod:to	admission	school
+punct	request	.

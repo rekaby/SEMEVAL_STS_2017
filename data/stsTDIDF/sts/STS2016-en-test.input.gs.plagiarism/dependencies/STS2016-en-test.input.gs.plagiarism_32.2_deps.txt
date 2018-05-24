@@ -1,0 +1,15 @@
+det	value	The
+nsubj	non-zero	value
+case	vector	of
+det	vector	a
+nmod:of	value	vector
+cop	non-zero	is
+root	ROOT	non-zero
+mark	occurs	if
+det	term	a
+nsubj	occurs	term
+advcl	non-zero	occurs
+case	document	in
+det	document	the
+nmod:in	occurs	document
+punct	non-zero	.

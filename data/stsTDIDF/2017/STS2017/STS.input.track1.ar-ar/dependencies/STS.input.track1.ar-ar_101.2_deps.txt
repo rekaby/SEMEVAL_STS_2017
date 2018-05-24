@@ -1,0 +1,12 @@
+det	man	A
+nsubj	looks	man
+root	ROOT	looks
+case	watch	at
+nmod:poss	watch	his
+nmod:at	looks	watch
+mark	waiting	while
+advcl	looks	waiting
+case	subway	at
+det	subway	the
+nmod:at	waiting	subway
+punct	looks	.

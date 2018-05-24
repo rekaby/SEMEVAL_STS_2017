@@ -1,0 +1,9 @@
+det	guy	A
+nsubj	singing	guy
+cop	singing	is
+root	ROOT	singing
+mark	playing	while
+advcl	singing	playing
+nmod:poss	guitar	his
+dobj	playing	guitar
+punct	singing	.

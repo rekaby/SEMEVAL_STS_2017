@@ -1,0 +1,7 @@
+compound	Grass	Israel
+compound	Grass	bars
+amod	Grass	German
+compound	Grass	author
+root	ROOT	Grass
+case	poem	over
+nmod:over	Grass	poem

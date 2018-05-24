@@ -1,0 +1,5 @@
+root	ROOT	Train
+case	station	in
+det	station	a
+nmod:in	Train	station
+punct	Train	.

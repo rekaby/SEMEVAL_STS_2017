@@ -1,0 +1,11 @@
+det	jockey	The
+nsubj	wearing	jockey
+aux	wearing	is
+root	ROOT	wearing
+amod	horse	purple
+cc	purple	and
+conj:and	purple	riding
+det	horse	a
+amod	horse	brown
+dobj	wearing	horse
+punct	wearing	.

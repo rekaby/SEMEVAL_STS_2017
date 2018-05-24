@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+nsubj	is	man
+acl	man	having
+dobj	having	dinner
+case	restaurant	in
+det	restaurant	a
+nmod:in	having	restaurant
+punct	is	.

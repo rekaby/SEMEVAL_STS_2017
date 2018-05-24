@@ -1,0 +1,9 @@
+det	period	the
+root	ROOT	period
+case	time	of
+nmod:of	period	time
+det	prisoner	a
+nsubjpass	imprisoned	prisoner
+auxpass	imprisoned	is
+acl:relcl	period	imprisoned
+punct	period	;

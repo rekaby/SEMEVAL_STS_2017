@@ -1,0 +1,9 @@
+amod	head	bulgarian
+compound	head	police
+compound	head	arrest
+root	ROOT	head
+case	group	of
+compound	group	drug
+compound	group	trafficking
+nmod:of	head	group
+punct	head	.

@@ -1,0 +1,12 @@
+det	businessman	A
+amod	businessman	tired
+nsubj	takes	businessman
+root	ROOT	takes
+det	nap	a
+amod	nap	quick
+dobj	takes	nap
+mark	riding	while
+advcl	takes	riding
+det	train	the
+dobj	riding	train
+punct	takes	.

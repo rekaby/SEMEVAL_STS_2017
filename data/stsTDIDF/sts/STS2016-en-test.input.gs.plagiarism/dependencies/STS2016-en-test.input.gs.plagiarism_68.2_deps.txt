@@ -1,0 +1,15 @@
+nsubjpass	used	It
+auxpass	used	is
+root	ROOT	used
+case	filtering	in
+compound	filtering	information
+nmod:in	used	filtering
+punct	filtering	,
+conj:and	filtering	indexing
+punct	filtering	,
+compound	rankings	relevancy
+conj:and	filtering	rankings
+cc	filtering	and
+compound	retrieval	information
+conj:and	filtering	retrieval
+punct	used	.

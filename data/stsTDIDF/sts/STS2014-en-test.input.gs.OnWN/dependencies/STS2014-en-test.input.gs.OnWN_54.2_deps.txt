@@ -1,0 +1,7 @@
+det	ability	the
+root	ROOT	ability
+mark	recall	to
+acl	ability	recall
+amod	occurrences	past
+dobj	recall	occurrences
+punct	ability	.

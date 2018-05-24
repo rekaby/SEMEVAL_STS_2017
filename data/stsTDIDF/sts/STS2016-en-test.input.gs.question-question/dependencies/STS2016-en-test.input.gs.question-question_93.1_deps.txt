@@ -1,0 +1,14 @@
+aux	enter	Must
+nsubj	enter	I
+root	ROOT	enter
+dobj	enter	Europe
+case	visa	with
+compound	visa	Schengen
+nmod:with	enter	visa
+case	country	from
+det	country	the
+nmod:from	visa	country
+advmod	applied	where
+nsubj	applied	I
+acl:relcl	country	applied
+punct	enter	?

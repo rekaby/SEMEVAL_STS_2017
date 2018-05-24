@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	walking
+case	side	on
+det	side	the
+nmod:on	walking	side
+case	track	of
+det	track	a
+compound	track	railroad
+nmod:of	side	track
+punct	group	.

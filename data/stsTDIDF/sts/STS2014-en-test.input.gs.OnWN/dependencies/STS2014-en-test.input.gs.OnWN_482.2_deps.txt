@@ -1,0 +1,6 @@
+root	ROOT	put
+cc	put	or
+conj:or	put	introduce
+case	something	into
+nmod:into	introduce	something
+punct	put	.

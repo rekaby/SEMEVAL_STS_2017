@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	laying
+case	water	in
+det	water	the
+nmod:in	laying	water
+punct	dog	.

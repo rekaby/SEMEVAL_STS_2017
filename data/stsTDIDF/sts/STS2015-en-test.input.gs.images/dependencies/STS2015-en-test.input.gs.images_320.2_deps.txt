@@ -1,0 +1,12 @@
+det	group	A
+nsubj	skating	group
+case	people	of
+nmod:of	group	people
+cop	skating	are
+compound	skating	ice
+root	ROOT	skating
+case	city	in
+det	city	a
+amod	city	big
+nmod:in	skating	city
+punct	skating	.

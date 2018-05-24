@@ -1,0 +1,7 @@
+nummod	birds	Five
+nsubj	stand	birds
+root	ROOT	stand
+case	snow	on
+det	snow	the
+nmod:on	stand	snow
+punct	stand	.

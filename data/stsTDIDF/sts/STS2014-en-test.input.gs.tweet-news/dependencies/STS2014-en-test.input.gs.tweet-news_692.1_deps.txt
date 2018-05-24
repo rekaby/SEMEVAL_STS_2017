@@ -1,0 +1,24 @@
+mark	face	To
+root	ROOT	face
+dobj	face	someone
+nsubj	shot	that
+advmod	shot	already
+acl:relcl	someone	shot
+det	student	a
+dobj	shot	student
+punct	face	.-9) root(ROOT-0, .
+punct	.	''-2) punct(hero-5, :
+nsubj	hero	I
+cop	hero	'm
+neg	hero	no
+root	ROOT	hero
+punct	hero	,
+dep	hero	says
+xcomp	says	teacher
+nsubj	talked	who
+acl:relcl	teacher	talked
+compound:prt	talked	down
+amod	student	armed
+dobj	talked	student
+punct	hero	.
+punct	hero	''

@@ -1,0 +1,8 @@
+root	ROOT	cause
+punct	someone	-LRB-
+appos	cause	someone
+punct	someone	-RRB-
+mark	undergo	to
+acl	cause	undergo
+dobj	undergo	something
+punct	cause	.

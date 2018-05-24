@@ -1,0 +1,6 @@
+compound	toll	Earthquake
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	260	to
+nmod:to	rises	260

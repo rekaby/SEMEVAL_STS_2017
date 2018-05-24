@@ -1,0 +1,11 @@
+det	person	A
+nsubj	skijoring	person
+aux	skijoring	is
+root	ROOT	skijoring
+case	dog	with
+det	dog	a
+nmod:with	skijoring	dog
+case	mountains	in
+det	mountains	the
+nmod:in	dog	mountains
+punct	skijoring	.

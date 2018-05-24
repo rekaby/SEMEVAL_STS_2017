@@ -1,0 +1,7 @@
+det	mimes	The
+amod	mimes	comedic
+root	ROOT	mimes
+acl	mimes	performed
+case	stage	on
+nmod:on	performed	stage
+punct	mimes	.

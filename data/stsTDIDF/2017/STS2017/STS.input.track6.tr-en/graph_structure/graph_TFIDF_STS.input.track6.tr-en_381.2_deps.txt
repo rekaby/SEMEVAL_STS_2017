@@ -1,0 +1,8 @@
+man	hat	nmod:in
+lamp	a	det
+lamp	next	case
+lamp	street	compound
+hat	black	amod
+stands	lamp	nmod:next_to
+stands	man	nsubj
+hat	in	case

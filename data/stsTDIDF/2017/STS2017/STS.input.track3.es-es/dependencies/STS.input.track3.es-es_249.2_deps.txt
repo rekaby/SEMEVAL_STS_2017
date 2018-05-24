@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	steps	on
+det	steps	the
+nmod:on	sitting	steps
+case	door	of
+det	door	the
+nmod:of	steps	door
+case	house	in
+mwe	in	front
+mwe	in	of
+det	house	a
+nmod:in_front_of	steps	house
+punct	sitting	.

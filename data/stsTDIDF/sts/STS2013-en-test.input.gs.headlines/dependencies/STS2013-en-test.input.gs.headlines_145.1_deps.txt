@@ -1,0 +1,8 @@
+nummod	men	Four
+nsubj	admit	men
+root	ROOT	admit
+compound	bomb	London
+compound	bomb	Stock
+compound	bomb	Exchange
+dobj	admit	bomb
+dobj	admit	plot

@@ -1,0 +1,11 @@
+det	boy	A
+nsubj	doing	boy
+root	ROOT	doing
+det	flip	a
+advmod	flip	back
+dobj	doing	flip
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	flip	pool
+punct	doing	.

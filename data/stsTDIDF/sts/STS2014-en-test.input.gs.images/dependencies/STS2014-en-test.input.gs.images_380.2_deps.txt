@@ -1,0 +1,9 @@
+det	office	An
+root	ROOT	office
+case	desks	with
+amod	desks	multiple
+nmod:with	office	desks
+cc	desks	and
+amod	walls	green
+conj:and	desks	walls
+punct	office	.

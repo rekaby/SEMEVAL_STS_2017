@@ -1,0 +1,9 @@
+root	ROOT	devote
+dobj	devote	oneself
+case	area	to
+det	area	a
+amod	area	special
+nmod:to	devote	area
+case	work	of
+nmod:of	area	work
+punct	devote	.

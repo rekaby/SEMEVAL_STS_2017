@@ -1,0 +1,10 @@
+root	ROOT	soldier
+nsubj	member	who
+cop	member	is
+det	member	a
+acl:relcl	soldier	member
+case	group	of
+det	group	a
+amod	group	special
+compound	group	forces
+nmod:of	member	group

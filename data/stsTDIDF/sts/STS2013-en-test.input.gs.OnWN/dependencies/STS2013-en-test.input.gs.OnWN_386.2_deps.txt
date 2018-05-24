@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	looking	of
+acl	act	looking
+cc	looking	or
+conj:or	looking	seeing
+cc	looking	or
+conj:or	looking	observing
+punct	act	.

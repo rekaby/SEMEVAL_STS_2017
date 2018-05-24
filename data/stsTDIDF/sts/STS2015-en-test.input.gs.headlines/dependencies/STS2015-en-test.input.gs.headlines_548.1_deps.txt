@@ -1,0 +1,6 @@
+compound	stocks	Tokyo
+nsubj	open	stocks
+root	ROOT	open
+compound:prt	open	down
+nummod	%	0.24
+dobj	open	%

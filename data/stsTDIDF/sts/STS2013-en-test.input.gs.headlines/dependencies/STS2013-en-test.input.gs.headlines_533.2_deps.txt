@@ -1,0 +1,5 @@
+amod	president	Indonesian
+root	ROOT	president
+mark	visit	to
+acl	president	visit
+dobj	visit	Australia

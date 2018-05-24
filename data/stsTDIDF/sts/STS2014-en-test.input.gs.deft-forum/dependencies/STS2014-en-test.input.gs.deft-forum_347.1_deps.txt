@@ -1,0 +1,12 @@
+root	ROOT	peeve
+mark	agree	So
+nsubj	agree	we
+advcl	peeve	agree
+mark	came	that
+nsubj	came	it
+ccomp	agree	came
+compound:prt	came	down
+advmod	freefall	essentially
+case	freefall	in
+nmod:in	came	freefall
+punct	peeve	?

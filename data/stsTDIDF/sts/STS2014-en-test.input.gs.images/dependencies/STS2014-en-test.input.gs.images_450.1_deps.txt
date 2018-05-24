@@ -1,0 +1,9 @@
+nummod	men	Two
+root	ROOT	men
+case	boat	on
+nmod:on	men	boat
+acl	boat	floating
+case	water	on
+det	water	the
+nmod:on	floating	water
+punct	men	.

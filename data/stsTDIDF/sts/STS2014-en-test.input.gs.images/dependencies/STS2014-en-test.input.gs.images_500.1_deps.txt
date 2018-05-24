@@ -1,0 +1,15 @@
+nummod	girls	Two
+compound	girls	brunette
+nsubj	sit	girls
+root	ROOT	sit
+case	motorcycle	atop
+det	motorcycle	a
+amod	motorcycle	red
+det	motorcycle	an
+amod	motorcycle	yellow
+nmod:atop	sit	motorcycle
+case	car	with
+det	car	a
+compound	car	side
+nmod:with	sit	car
+punct	sit	.

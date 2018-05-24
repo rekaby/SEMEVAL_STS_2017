@@ -1,0 +1,14 @@
+root	ROOT	Is
+nsubj	coincidence	it
+det	coincidence	a
+xcomp	Is	coincidence
+det	America	the
+amod	America	most
+compound	America	Miss
+nsubj	come	America
+case	America	's
+acl:relcl	coincidence	come
+case	South	from
+det	South	the
+nmod:from	come	South
+punct	Is	?

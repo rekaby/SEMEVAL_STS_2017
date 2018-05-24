@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	black
+nsubj	standing	dog
+root	ROOT	standing
+case	area	in
+det	area	a
+amod	area	grassy
+nmod:in	standing	area
+punct	standing	.

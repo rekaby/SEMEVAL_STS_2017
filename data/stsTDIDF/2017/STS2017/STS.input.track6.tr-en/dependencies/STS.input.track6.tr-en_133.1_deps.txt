@@ -1,0 +1,6 @@
+nummod	children	Two
+root	ROOT	children
+acl	children	read
+case	bed	in
+nmod:in	read	bed
+punct	children	.

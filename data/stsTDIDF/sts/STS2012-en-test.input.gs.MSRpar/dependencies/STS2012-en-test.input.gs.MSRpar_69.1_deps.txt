@@ -1,0 +1,17 @@
+nsubj	rose	Shares
+case	Hartford	of
+nmod:of	Shares	Hartford
+root	ROOT	rose
+dobj	rose	$
+nummod	$	2.88
+case	$	to
+nmod:to	rose	$
+nummod	$	46.50
+case	trading	in
+compound	trading	New
+compound	trading	York
+compound	trading	Stock
+compound	trading	Exchange
+amod	trading	composite
+nmod:in	$	trading
+punct	rose	.

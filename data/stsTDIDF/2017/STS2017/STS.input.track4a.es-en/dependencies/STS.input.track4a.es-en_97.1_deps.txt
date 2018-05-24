@@ -1,0 +1,8 @@
+det	man	The
+nsubj	flying	man
+aux	flying	is
+root	ROOT	flying
+det	shuttle	a
+compound	shuttle	space
+dobj	flying	shuttle
+punct	flying	.

@@ -1,0 +1,8 @@
+det	splashes	A
+compound	splashes	dog
+root	ROOT	splashes
+case	water	in
+det	water	the
+amod	water	murky
+nmod:in	splashes	water
+punct	splashes	.

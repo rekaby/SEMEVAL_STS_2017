@@ -1,0 +1,6 @@
+cop	communication	be
+case	communication	in
+cc	in	or
+conj:or	in	establish
+root	ROOT	communication
+advmod	communication	with

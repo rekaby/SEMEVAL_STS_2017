@@ -1,0 +1,9 @@
+amod	woman	South
+amod	woman	Korean
+nsubj	dies	woman
+case	contact	in
+nmod:in	woman	contact
+case	patient	with
+compound	patient	MERS
+nmod:with	contact	patient
+root	ROOT	dies

@@ -1,0 +1,14 @@
+det	person	A
+nsubj	climbing	person
+aux	climbing	is
+root	ROOT	climbing
+det	pole	a
+dobj	climbing	pole
+mark	secure	to
+advcl	climbing	secure
+det	flag	the
+dobj	secure	flag
+mark	look	as
+nsubj	look	people
+advcl	secure	look
+punct	climbing	.

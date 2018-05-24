@@ -1,0 +1,7 @@
+amod	power	Qatari
+compound	power	emir
+compound	power	hands
+nsubj	Tamim	power
+case	son	to
+nmod:to	power	son
+root	ROOT	Tamim

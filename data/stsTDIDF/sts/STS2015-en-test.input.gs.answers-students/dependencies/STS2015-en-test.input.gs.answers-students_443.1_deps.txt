@@ -1,0 +1,16 @@
+amod	4	terminal
+nsubjpass	connected	4
+punct	4	,
+amod	5	terminal
+conj:and	4	5
+punct	4	,
+cc	4	and
+amod	6	terminal
+conj:and	4	6
+auxpass	connected	are
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:to	connected	terminal

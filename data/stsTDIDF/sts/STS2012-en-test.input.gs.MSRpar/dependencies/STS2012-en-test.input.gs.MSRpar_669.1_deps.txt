@@ -1,0 +1,9 @@
+nsubj	pared	Cisco
+root	ROOT	pared
+xcomp	pared	spending
+mark	compensate	to
+xcomp	spending	compensate
+case	sales	for
+amod	sales	sluggish
+nmod:for	compensate	sales
+punct	pared	.

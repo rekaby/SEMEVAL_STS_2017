@@ -1,0 +1,10 @@
+det	bird	The
+nsubj	has	bird
+root	ROOT	has
+nmod:poss	wings	its
+nsubj	spread	wings
+ccomp	has	spread
+mark	flies	as
+nsubj	flies	it
+advcl	spread	flies
+punct	has	.

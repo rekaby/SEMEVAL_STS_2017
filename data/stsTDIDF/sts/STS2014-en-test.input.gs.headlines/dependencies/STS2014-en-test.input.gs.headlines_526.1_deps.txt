@@ -1,0 +1,8 @@
+root	ROOT	Tropical
+compound	Andrea	Storm
+nsubj	zipping	Andrea
+ccomp	Tropical	zipping
+compound:prt	zipping	up
+det	Coast	the
+compound	Coast	East
+dobj	zipping	Coast

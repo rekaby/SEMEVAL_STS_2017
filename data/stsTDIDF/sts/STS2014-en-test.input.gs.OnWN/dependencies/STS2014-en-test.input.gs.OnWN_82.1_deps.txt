@@ -1,0 +1,9 @@
+det	framework	a
+amod	framework	physical
+root	ROOT	framework
+mark	crossing	of
+acl	framework	crossing
+dobj	crossing	strips
+punct	framework	,
+advmod	wooden	often
+amod	framework	wooden

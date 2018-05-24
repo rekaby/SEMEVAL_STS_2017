@@ -1,0 +1,6 @@
+root	ROOT	Boy
+acl	Boy	wearing
+det	T-shirt	a
+amod	T-shirt	yellow
+dobj	wearing	T-shirt
+punct	Boy	.

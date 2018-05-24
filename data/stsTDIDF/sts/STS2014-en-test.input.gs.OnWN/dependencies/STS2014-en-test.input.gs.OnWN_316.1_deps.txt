@@ -1,0 +1,10 @@
+det	result	a
+root	ROOT	result
+cc	result	or
+conj:or	result	outcome
+case	cause	of
+det	cause	a
+amod	cause	previous
+nmod:of	result	cause
+cc	cause	or
+conj:or	cause	condition

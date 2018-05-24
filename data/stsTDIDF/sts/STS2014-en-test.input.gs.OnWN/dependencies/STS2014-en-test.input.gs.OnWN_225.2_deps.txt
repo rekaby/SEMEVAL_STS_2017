@@ -1,0 +1,16 @@
+root	ROOT	fail
+mark	make	to
+xcomp	fail	make
+dobj	make	money
+case	business	in
+det	business	a
+nmod:in	make	business
+punct	fail	;
+parataxis	fail	make
+det	loss	a
+dobj	make	loss
+cc	make	or
+conj:or	make	fail
+mark	profit	to
+xcomp	fail	profit
+punct	fail	.

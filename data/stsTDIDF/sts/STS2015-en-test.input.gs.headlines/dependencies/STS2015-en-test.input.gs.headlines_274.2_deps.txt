@@ -1,0 +1,7 @@
+compound	press	Israel
+nsubj	bemoans	press
+root	ROOT	bemoans
+compound	resumption	price
+case	talks	of
+nmod:of	price	talks
+dobj	bemoans	resumption

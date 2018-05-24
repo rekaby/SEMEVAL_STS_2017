@@ -1,0 +1,10 @@
+nsubj	stealing	People
+aux	stealing	are
+root	ROOT	stealing
+dobj	stealing	food
+case	runabout	from
+det	runabout	a
+compound	runabout	vendor
+compound	runabout	food
+nmod:from	stealing	runabout
+punct	stealing	.

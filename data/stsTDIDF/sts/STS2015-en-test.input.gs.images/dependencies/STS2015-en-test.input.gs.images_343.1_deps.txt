@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	leading	woman
+aux	leading	is
+root	ROOT	leading
+det	dog	a
+dobj	leading	dog
+case	course	through
+det	course	an
+compound	course	obstacle
+nmod:through	leading	course
+punct	leading	.

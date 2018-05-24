@@ -1,0 +1,7 @@
+root	ROOT	23
+acl	23	Missing
+mark	Hits	as
+compound	Utor	Typhoon
+nsubj	Hits	Utor
+advcl	Missing	Hits
+dobj	Hits	Philippines

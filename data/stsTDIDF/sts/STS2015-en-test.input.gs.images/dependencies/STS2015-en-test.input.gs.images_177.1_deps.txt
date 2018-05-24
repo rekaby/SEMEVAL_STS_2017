@@ -1,0 +1,8 @@
+det	group	A
+nsubj	swim	group
+case	youngsters	of
+nmod:of	group	youngsters
+root	ROOT	swim
+case	water	in
+compound	water	lake
+nmod:in	swim	water

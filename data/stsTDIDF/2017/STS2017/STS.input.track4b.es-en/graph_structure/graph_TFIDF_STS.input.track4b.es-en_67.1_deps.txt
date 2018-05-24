@@ -1,0 +1,14 @@
+outlets	to	case
+sold	outlets	nmod:to
+6,000	to	case
+sold	awaiting	conj:and
+said	Ha	nsubj
+stock	new	amod
+sold	up	compound:prt
+awaiting	stock	dobj
+said	sold	ccomp
+sold	had	aux
+sold	6,000	nmod:to
+awaiting	was	aux
+outlets	wholesale	amod
+sold	Zico	nsubj

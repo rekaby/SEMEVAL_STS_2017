@@ -1,0 +1,9 @@
+ROOT	lady	root
+microscope	a	det
+microscope	through	case
+lady	A	det
+lady	.	punct
+look	daughter	compound
+lady	look	conj:and
+look	microscope	nmod:through
+lady	and	cc

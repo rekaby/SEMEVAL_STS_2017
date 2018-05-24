@@ -1,0 +1,13 @@
+det	man	The
+amod	man	older
+nsubj	has	man
+root	ROOT	has
+det	sense	a
+amod	sense	younger
+compound	sense	fashion
+dobj	has	sense
+case	man	than
+det	man	the
+amod	man	younger
+nmod:than	sense	man
+punct	has	.

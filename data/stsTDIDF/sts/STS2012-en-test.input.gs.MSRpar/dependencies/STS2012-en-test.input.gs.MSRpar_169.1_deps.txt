@@ -1,0 +1,16 @@
+nmod:poss	wife	Morrill
+case	Morrill	's
+nsubj	sobbed	wife
+punct	wife	,
+appos	wife	Ellie
+punct	wife	,
+root	ROOT	sobbed
+cc	sobbed	and
+conj:and	sobbed	hugged
+nmod:poss	sister-in-law	Bondeson
+case	Bondeson	's
+dobj	hugged	sister-in-law
+case	service	during
+det	service	the
+nmod:during	hugged	service
+punct	sobbed	.

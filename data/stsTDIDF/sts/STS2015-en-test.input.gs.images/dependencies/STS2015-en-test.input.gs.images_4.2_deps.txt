@@ -1,0 +1,16 @@
+det	dog	a
+amod	dog	black
+nsubj	walking	dog
+root	ROOT	walking
+case	water	out
+mwe	out	of
+det	water	the
+nmod:out_of	walking	water
+case	ball	with
+det	ball	a
+amod	ball	white
+nmod:with	walking	ball
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	ball	mouth
+punct	walking	.

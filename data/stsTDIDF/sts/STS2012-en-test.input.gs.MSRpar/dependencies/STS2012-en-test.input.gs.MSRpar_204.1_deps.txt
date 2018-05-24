@@ -1,0 +1,15 @@
+case	exchange	In
+nmod:in	required	exchange
+punct	required	,
+compound	Korea	North
+nsubjpass	required	Korea
+aux	required	would
+auxpass	required	be
+root	ROOT	required
+mark	end	to
+xcomp	required	end
+nmod:poss	program	its
+amod	program	nuclear
+compound	program	weapons
+dobj	end	program
+punct	required	.

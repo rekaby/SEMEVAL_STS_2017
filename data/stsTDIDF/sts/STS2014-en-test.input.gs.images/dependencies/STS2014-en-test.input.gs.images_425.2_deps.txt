@@ -1,0 +1,8 @@
+amod	bus	Red
+amod	bus	double
+compound	bus	decker
+root	ROOT	bus
+case	hood	with
+nmod:with	bus	hood
+advmod	bus	up
+punct	bus	.

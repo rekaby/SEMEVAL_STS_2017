@@ -1,0 +1,8 @@
+nummod	soldiers	3
+amod	soldiers	Egyptian
+root	ROOT	soldiers
+acl	soldiers	killed
+case	bombing	in
+compound	bombing	Sinai
+compound	bombing	car
+nmod:in	killed	bombing

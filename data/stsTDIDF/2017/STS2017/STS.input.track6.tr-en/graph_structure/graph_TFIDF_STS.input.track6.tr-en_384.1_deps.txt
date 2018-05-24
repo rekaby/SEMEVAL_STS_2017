@@ -1,0 +1,10 @@
+waits	taxis	nmod:for
+waits	Man	nsubj
+road	wet	amod
+waits	.	punct
+pass	crossing	advcl
+ROOT	waits	root
+crossing	before	advmod
+waits	pass	xcomp
+crossing	road	dobj
+taxis	for	case

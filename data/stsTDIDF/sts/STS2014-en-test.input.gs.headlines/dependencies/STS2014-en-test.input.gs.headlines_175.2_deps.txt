@@ -1,0 +1,10 @@
+compound	Beatrix	Queen
+nsubj	abdicates	Beatrix
+case	Netherlands	of
+det	Netherlands	the
+nmod:of	Beatrix	Netherlands
+root	ROOT	abdicates
+case	favour	in
+nmod:in	abdicates	favour
+case	son	of
+nmod:of	favour	son

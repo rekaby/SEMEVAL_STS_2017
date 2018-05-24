@@ -1,0 +1,7 @@
+compound	authorities	US
+nsubj	charge	authorities
+root	ROOT	charge
+dobj	charge	man
+case	probe	in
+compound	probe	ricin
+nmod:in	charge	probe

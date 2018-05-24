@@ -1,0 +1,16 @@
+compound	Hawthorne	Bruce
+compound	Hawthorne	N.
+nsubjpass	named	Hawthorne
+punct	Hawthorne	,
+amod	Hawthorne	53
+punct	Hawthorne	,
+auxpass	named	was
+root	ROOT	named
+amod	president	executive
+compound	president	vice
+xcomp	named	president
+cc	president	and
+amod	officer	chief
+compound	officer	staff
+conj:and	president	officer
+punct	named	.

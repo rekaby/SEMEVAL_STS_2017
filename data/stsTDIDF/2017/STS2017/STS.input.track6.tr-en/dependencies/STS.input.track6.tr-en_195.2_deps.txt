@@ -1,0 +1,7 @@
+nsubj	expect	People
+root	ROOT	expect
+det	train	a
+dobj	expect	train
+mark	come	to
+xcomp	expect	come
+punct	expect	.

@@ -1,0 +1,8 @@
+compound	Smith	Matt
+nsubj	quits	Smith
+root	ROOT	quits
+compound	Doctor	BBC
+nummod	Doctor	‚
+compound	Doctor	Äôs
+dobj	quits	Doctor
+dep	Doctor	Who

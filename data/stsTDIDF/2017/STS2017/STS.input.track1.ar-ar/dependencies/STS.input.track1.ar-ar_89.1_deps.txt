@@ -1,0 +1,8 @@
+root	ROOT	People
+acl	People	standing
+case	equipment	in
+mwe	in	front
+mwe	in	of
+amod	equipment	mechanical
+nmod:in_front_of	standing	equipment
+punct	People	.

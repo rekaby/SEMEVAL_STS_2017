@@ -1,0 +1,9 @@
+det	rider	A
+amod	rider	young
+amod	rider	female
+root	ROOT	rider
+case	horse	on
+det	horse	a
+amod	horse	brown
+nmod:on	rider	horse
+punct	rider	.

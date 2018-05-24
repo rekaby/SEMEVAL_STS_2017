@@ -1,0 +1,9 @@
+ball	beach	nmod:on
+dogs	Three	nummod
+holds	ball	dobj
+human	like	case
+human	a	det
+look	holds	xcomp
+look	human	nmod:like
+look	dogs	nsubj
+ball	pink	amod

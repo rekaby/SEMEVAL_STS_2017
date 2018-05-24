@@ -1,0 +1,7 @@
+det	chef	A
+compound	chef	cartoon
+nsubj	flipping	chef
+aux	flipping	is
+root	ROOT	flipping
+dobj	flipping	pancakes
+punct	flipping	.

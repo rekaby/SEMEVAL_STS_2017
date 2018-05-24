@@ -1,0 +1,8 @@
+amod	darkness	relative
+root	ROOT	darkness
+cc	darkness	or
+conj:or	darkness	lightness
+case	color	of
+det	color	a
+nmod:of	darkness	color
+punct	darkness	.

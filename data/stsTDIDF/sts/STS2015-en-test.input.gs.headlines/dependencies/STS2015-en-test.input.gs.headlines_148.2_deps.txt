@@ -1,0 +1,8 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+dobj	kill	nine
+case	Pakistan	in
+compound	Pakistan	southwest
+nmod:in	kill	Pakistan
+punct	kill	:
+dobj	kill	Police

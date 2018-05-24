@@ -1,0 +1,15 @@
+punct	said	``
+nsubj	think	We
+ccomp	said	think
+compound	customers	PeopleSoft
+nsubj	deserve	customers
+ccomp	think	deserve
+det	right	the
+dobj	deserve	right
+mark	choose	to
+acl	right	choose
+punct	said	,
+punct	said	''
+nsubj	said	Ellison
+root	ROOT	said
+punct	said	.

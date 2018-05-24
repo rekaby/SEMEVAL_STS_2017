@@ -1,0 +1,14 @@
+nsubj	looks	It
+root	ROOT	looks
+case	me	to
+nmod:to	looks	me
+mark	set	that
+nsubjpass	set	this
+auxpass	set	is
+ccomp	looks	set
+compound:prt	set	up
+mark	want	for
+dobj	want	what
+nsubj	want	you
+advcl	set	want
+punct	looks	:

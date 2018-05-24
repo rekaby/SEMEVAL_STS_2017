@@ -1,0 +1,6 @@
+case	situation	on
+det	situation	the
+root	ROOT	situation
+case	Burma	in
+nmod:in	situation	Burma
+punct	situation	.

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	flouring	woman
+aux	flouring	is
+root	ROOT	flouring
+cc	flouring	and
+amod	dough	rolling
+conj:and	flouring	dough
+punct	flouring	.

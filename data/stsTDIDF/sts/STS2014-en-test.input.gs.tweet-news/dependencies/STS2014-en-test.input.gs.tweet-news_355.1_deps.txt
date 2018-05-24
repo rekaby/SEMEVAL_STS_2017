@@ -1,0 +1,6 @@
+amod	perspective	Interesting
+root	ROOT	perspective
+case	#Broncos	on
+nmod:on	perspective	#Broncos
+dep	#Broncos	playcalling
+punct	perspective	-

@@ -1,0 +1,16 @@
+nsubj	causes	That
+root	ROOT	causes
+mark	increase	to
+xcomp	causes	increase
+det	power	the
+dobj	increase	power
+case	countries	of
+det	countries	the
+amod	countries	large
+nmod:of	power	countries
+case	detriment	to
+det	detriment	the
+nmod:to	increase	detriment
+case	small	of
+nmod:of	detriment	small
+punct	causes	.

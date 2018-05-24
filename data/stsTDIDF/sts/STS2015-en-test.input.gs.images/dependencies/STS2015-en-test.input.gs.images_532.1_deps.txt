@@ -1,0 +1,10 @@
+det	toddler	A
+amod	toddler	blonde
+amod	toddler	haired
+nsubj	swinging	toddler
+root	ROOT	swinging
+case	swing	on
+det	swing	a
+compound	swing	tire
+nmod:on	swinging	swing
+punct	swinging	.

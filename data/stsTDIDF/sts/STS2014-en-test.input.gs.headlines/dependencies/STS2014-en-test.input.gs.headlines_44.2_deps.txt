@@ -1,0 +1,7 @@
+nsubj	killed	Eleven
+root	ROOT	killed
+case	station	in
+compound	station	China
+compound	station	police
+nmod:in	killed	station
+dobj	killed	attack

@@ -1,0 +1,8 @@
+det	lady	The
+nsubj	cut	lady
+root	ROOT	cut
+compound:prt	cut	up
+det	onion	a
+amod	onion	green
+dobj	cut	onion
+punct	cut	.

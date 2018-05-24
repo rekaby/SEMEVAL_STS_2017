@@ -1,0 +1,15 @@
+det	alternative	An
+nsubj	be	alternative
+aux	be	would
+root	ROOT	be
+mark	expose	to
+xcomp	be	expose
+dobj	expose	her
+advmod	or	solely
+cc	her	or
+advmod	Hindi	additionally
+case	Hindi	to
+conj:or	her	Hindi
+case	daycare	in
+nmod:in	Hindi	daycare
+punct	be	.

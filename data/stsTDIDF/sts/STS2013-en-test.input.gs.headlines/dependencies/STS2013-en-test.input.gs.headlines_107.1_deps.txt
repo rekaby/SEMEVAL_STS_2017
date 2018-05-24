@@ -1,0 +1,6 @@
+compound	income	Halliburton
+compound	income	1Q
+nsubj	rises	income
+root	ROOT	rises
+nummod	pct	23
+dobj	rises	pct

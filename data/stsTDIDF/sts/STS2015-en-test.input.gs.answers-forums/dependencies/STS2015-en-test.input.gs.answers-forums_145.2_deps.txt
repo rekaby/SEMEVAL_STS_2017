@@ -1,0 +1,13 @@
+case	laws	As
+case	laws	with
+det	laws	all
+amod	laws	natural
+nmod:with	approximation	laws
+punct	approximation	,
+nmod:poss	law	Zipf
+case	Zipf	's
+nsubj	approximation	law
+cop	approximation	is
+det	approximation	an
+root	ROOT	approximation
+punct	approximation	.

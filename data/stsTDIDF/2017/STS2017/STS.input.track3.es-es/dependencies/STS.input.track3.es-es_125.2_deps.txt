@@ -1,0 +1,14 @@
+det	couple	A
+nsubj	enjoying	couple
+aux	enjoying	is
+root	ROOT	enjoying
+det	session	a
+amod	session	moving
+dobj	enjoying	session
+case	sofa	on
+det	sofa	a
+nmod:on	session	sofa
+acl	sofa	watching
+det	movie	a
+dobj	watching	movie
+punct	enjoying	.

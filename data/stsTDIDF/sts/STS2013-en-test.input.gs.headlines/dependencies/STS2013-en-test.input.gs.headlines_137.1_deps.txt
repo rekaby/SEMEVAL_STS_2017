@@ -1,0 +1,9 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	4
+case	HQ	near
+nmod:poss	HQ	NATO
+case	NATO	's
+compound	HQ	Afghan
+nmod:near	4	HQ

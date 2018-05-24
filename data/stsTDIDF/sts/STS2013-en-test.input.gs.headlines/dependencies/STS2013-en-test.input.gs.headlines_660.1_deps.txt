@@ -1,0 +1,8 @@
+root	ROOT	4
+acl	4	Killed
+case	Strike	in
+compound	Strike	US
+compound	Strike	Drone
+nmod:in	Killed	Strike
+case	Pakistan	in
+nmod:in	Strike	Pakistan

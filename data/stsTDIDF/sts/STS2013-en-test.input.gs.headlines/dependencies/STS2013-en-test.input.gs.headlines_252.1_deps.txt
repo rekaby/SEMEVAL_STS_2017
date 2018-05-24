@@ -1,0 +1,6 @@
+compound	heaps	EU
+nsubj	sanctions	heaps
+amod	sanctions	new
+root	ROOT	sanctions
+case	Syria	on
+nmod:on	sanctions	Syria

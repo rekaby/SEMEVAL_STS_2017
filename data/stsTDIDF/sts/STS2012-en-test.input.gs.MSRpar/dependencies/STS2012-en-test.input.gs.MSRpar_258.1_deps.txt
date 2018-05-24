@@ -1,0 +1,16 @@
+nsubj	replacing	Prince
+aux	replacing	is
+root	ROOT	replacing
+compound	Weill	Sanford
+punct	Weill	``
+compound	Weill	Sandy
+punct	Weill	''
+dobj	replacing	Weill
+punct	Weill	,
+nsubj	remain	who
+aux	remain	will
+acl:relcl	Weill	remain
+nmod:poss	chairman	Citigroup
+case	Citigroup	's
+xcomp	remain	chairman
+punct	replacing	.

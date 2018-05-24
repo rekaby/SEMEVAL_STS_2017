@@ -1,0 +1,12 @@
+nsubjpass	charged	Dotson
+punct	Dotson	,
+nummod	Dotson	21
+punct	Dotson	,
+auxpass	charged	was
+advmod	charged	subsequently
+root	ROOT	charged
+case	murder	with
+nmod:poss	murder	Dennehy
+case	Dennehy	's
+nmod:with	charged	murder
+punct	charged	.

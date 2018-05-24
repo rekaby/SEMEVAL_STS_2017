@@ -1,0 +1,5 @@
+amod	bus	Red
+amod	bus	double
+compound	bus	decker
+root	ROOT	bus
+punct	bus	.

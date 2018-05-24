@@ -1,0 +1,14 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	Stern	Richard
+compound	Stern	G.
+dep	NYTimes	Stern
+punct	Stern	,
+appos	Stern	Writers
+punct	NYTimes	?-8) nsubj(Dies-3, Writer
+punct	Dies	,
+root	ROOT	Dies
+case	loss	at
+nummod	loss	84
+amod	loss	Big
+nmod:at	Dies	loss

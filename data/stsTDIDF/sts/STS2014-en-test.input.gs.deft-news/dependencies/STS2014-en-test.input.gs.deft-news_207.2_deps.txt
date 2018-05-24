@@ -1,0 +1,12 @@
+nsubj	spokesman	grenell
+cop	spokesman	is
+root	ROOT	spokesman
+case	mission	for
+det	mission	the
+amod	mission	u.s.
+nmod:for	spokesman	mission
+case	nations	to
+det	nations	the
+amod	nations	united
+nmod:to	mission	nations
+punct	spokesman	.

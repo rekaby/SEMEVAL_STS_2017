@@ -1,0 +1,4 @@
+enemy	dog	nmod:of
+ROOT	enemy	root
+dog	of	case
+enemy	The	det

@@ -1,0 +1,8 @@
+compound	avalanche	Pakistan
+root	ROOT	avalanche
+punct	avalanche	:
+compound	search	rescuers
+dep	avalanche	search
+case	soldiers	for
+amod	soldiers	buried
+nmod:for	search	soldiers

@@ -1,0 +1,7 @@
+case	chemical	because
+mwe	because	of
+det	chemical	the
+root	ROOT	chemical
+case	battery	in
+det	battery	the
+nmod:in	chemical	battery

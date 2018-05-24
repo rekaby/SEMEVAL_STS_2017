@@ -1,0 +1,6 @@
+boys	Teenage	amod
+walking	together	advmod
+walking	boys	nsubj
+walking	sidewalk	nmod:on
+walking	city	nmod:in
+sidewalk	on	case

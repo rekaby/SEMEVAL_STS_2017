@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	bounds	dog
+root	ROOT	bounds
+case	grass	across
+det	grass	the
+amod	grass	brown
+nmod:across	bounds	grass
+punct	bounds	.

@@ -1,0 +1,4 @@
+Shave	.	punct
+ROOT	Shave	root
+Shave	air	nmod:in
+Shave	dog	dobj

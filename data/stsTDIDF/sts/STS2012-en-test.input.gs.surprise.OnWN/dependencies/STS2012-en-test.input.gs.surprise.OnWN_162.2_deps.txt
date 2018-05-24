@@ -1,0 +1,16 @@
+root	ROOT	evaluate
+cc	evaluate	or
+conj:or	evaluate	estimate
+det	nature	the
+dobj	evaluate	nature
+punct	nature	,
+conj:or	nature	quality
+punct	nature	,
+conj:or	nature	ability
+punct	nature	,
+conj:or	nature	extent
+punct	nature	,
+cc	nature	or
+conj:or	nature	significance
+acl	significance	of
+punct	evaluate	.

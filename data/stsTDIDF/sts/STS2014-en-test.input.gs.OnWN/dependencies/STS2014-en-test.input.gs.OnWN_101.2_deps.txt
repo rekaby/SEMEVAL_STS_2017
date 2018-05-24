@@ -1,0 +1,9 @@
+root	ROOT	undergo
+punct	injuries	-LRB-
+case	injuries	as
+mwe	as	of
+nmod:as_of	undergo	injuries
+cc	injuries	and
+conj:and	injuries	illnesses
+punct	injuries	-RRB-
+punct	undergo	.

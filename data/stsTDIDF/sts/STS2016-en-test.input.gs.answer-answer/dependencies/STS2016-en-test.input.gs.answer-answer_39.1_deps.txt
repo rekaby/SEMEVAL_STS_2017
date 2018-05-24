@@ -1,0 +1,16 @@
+nsubj	have	You
+aux	have	might
+root	ROOT	have
+mark	try	to
+xcomp	have	try
+det	variety	a
+dobj	try	variety
+mark	find	before
+nsubj	find	you
+advcl	try	find
+dobj	find	one
+nsubj	clicks	that
+acl:relcl	one	clicks
+case	him	with
+nmod:with	clicks	him
+punct	have	.

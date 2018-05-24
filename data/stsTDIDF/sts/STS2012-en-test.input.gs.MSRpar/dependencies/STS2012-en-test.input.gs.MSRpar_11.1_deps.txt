@@ -1,0 +1,11 @@
+compound	Kerry	Sens.
+compound	Kerry	John
+nsubj	declined	Kerry
+cc	Kerry	and
+compound	Graham	Bob
+conj:and	Kerry	Graham
+root	ROOT	declined
+dobj	declined	invitations
+mark	speak	to
+acl	invitations	speak
+punct	declined	.

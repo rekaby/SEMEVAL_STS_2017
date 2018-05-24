@@ -1,0 +1,5 @@
+working	field	nmod:in
+farmer	A	det
+farmer	Chinese	amod
+working	farmer	nsubj
+field	rice	compound

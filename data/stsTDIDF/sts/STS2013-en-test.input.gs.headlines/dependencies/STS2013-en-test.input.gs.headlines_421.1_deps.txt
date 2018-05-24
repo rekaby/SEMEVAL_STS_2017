@@ -1,0 +1,10 @@
+compound	Bairstow	Jonny
+nsubj	shine	Bairstow
+cc	Bairstow	and
+compound	Morgan	Eoin
+conj:and	Bairstow	Morgan
+root	ROOT	shine
+case	England	for
+nmod:for	shine	England
+case	Mumbai	in
+nmod:in	shine	Mumbai

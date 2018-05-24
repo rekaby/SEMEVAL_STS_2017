@@ -1,0 +1,17 @@
+det	udders	The
+root	ROOT	udders
+case	cow	of
+det	cow	a
+compound	cow	dairy
+nmod:of	udders	cow
+nsubj	standing	that
+aux	standing	is
+acl:relcl	cow	standing
+case	pasture	in
+det	pasture	a
+nmod:in	standing	pasture
+case	building	near
+det	building	a
+amod	building	large
+nmod:near	pasture	building
+punct	udders	.

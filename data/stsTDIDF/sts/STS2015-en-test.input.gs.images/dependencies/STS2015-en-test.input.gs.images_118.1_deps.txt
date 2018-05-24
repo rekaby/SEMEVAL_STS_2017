@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+cc	woman	and
+det	dog	a
+conj:and	woman	dog
+acl	dog	standing
+case	grass	in
+det	grass	the
+nmod:in	standing	grass
+punct	woman	.

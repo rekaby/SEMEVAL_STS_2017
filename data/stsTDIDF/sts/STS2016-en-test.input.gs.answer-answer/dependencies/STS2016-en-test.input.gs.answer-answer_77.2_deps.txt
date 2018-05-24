@@ -1,0 +1,8 @@
+nsubj	answer	This
+cop	answer	is
+det	answer	a
+compound	answer	part
+root	ROOT	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question

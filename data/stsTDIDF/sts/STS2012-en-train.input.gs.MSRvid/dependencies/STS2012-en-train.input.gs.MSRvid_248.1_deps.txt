@@ -1,0 +1,7 @@
+det	men	The
+nsubj	performing	men
+aux	performing	are
+root	ROOT	performing
+case	stage	on
+nmod:on	performing	stage
+punct	performing	.

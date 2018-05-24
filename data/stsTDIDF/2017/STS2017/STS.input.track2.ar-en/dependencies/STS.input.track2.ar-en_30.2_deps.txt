@@ -1,0 +1,6 @@
+nummod	men	Four
+root	ROOT	men
+case	platform	on
+det	platform	the
+nmod:on	men	platform
+punct	men	.

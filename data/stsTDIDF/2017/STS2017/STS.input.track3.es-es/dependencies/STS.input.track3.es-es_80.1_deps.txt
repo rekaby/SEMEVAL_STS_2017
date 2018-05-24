@@ -1,0 +1,11 @@
+det	group	A
+nsubj	talk	group
+case	people	of
+nmod:of	group	people
+root	ROOT	talk
+mark	huddle	while
+nsubj	huddle	they
+advcl	talk	huddle
+case	street	in
+det	street	the
+nmod:in	huddle	street

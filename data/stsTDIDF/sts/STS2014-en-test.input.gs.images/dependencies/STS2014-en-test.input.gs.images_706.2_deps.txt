@@ -1,0 +1,16 @@
+det	bus	a
+amod	bus	brown
+amod	bus	double
+compound	bus	decker
+compound	bus	tour
+root	ROOT	bus
+case	street	on
+det	street	a
+nmod:on	bus	street
+case	wheel	with
+det	wheel	a
+amod	wheel	ferris
+nmod:with	bus	wheel
+case	it	behind
+nmod:behind	bus	it
+punct	bus	.

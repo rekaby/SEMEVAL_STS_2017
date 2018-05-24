@@ -1,0 +1,8 @@
+victory	great	amod
+plans	team	nsubj
+team	A	det
+athletes	young	amod
+team	athletes	nmod:of
+athletes	of	case
+victory	their	nmod:poss
+plans	victory	dobj

@@ -1,0 +1,8 @@
+det	skateboarder	A
+nsubj	riding	skateboarder
+root	ROOT	riding
+compound:prt	riding	up
+case	slope	to
+det	slope	a
+nmod:to	riding	slope
+punct	riding	.

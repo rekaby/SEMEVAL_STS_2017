@@ -1,0 +1,13 @@
+dressed	and	cc
+tube	a	det
+dressed	clothing	nmod:in
+putting	tube	nmod:in_front_of
+dressed	is	auxpass
+clothing	in	case
+ROOT	dressed	root
+dressed	Someone	nsubjpass
+dressed	putting	conj:and
+putting	face	dobj
+tube	talking	amod
+tube	in	case
+dressed	.	punct

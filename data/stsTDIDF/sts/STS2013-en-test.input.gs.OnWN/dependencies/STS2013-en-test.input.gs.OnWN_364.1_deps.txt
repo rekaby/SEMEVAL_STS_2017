@@ -1,0 +1,9 @@
+auxpass	given	be
+root	ROOT	given
+mark	come	to
+punct	come	,
+xcomp	given	come
+case	possession	into
+det	possession	the
+nmod:into	come	possession
+nmod	come	of

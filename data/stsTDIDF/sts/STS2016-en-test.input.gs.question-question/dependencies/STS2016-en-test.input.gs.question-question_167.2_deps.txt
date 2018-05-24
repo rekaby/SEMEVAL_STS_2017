@@ -1,0 +1,15 @@
+nsubjpass	offered	I
+auxpass	offered	was
+root	ROOT	offered
+det	salary	the
+amod	salary	minimum
+dobj	offered	salary
+nsubj	requested	I
+acl:relcl	salary	requested
+punct	offered	,
+aux	ask	should
+nsubj	ask	I
+parataxis	offered	ask
+case	more	for
+nmod:for	ask	more
+punct	offered	?

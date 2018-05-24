@@ -1,0 +1,7 @@
+compound	Talks	New
+compound	Talks	York
+compound	Talks	City
+nsubj	Evaluations	Talks
+case	Teacher	on
+nmod:on	Talks	Teacher
+root	ROOT	Evaluations

@@ -1,0 +1,9 @@
+nsubj	make	bribe
+punct	bribe	,
+root	ROOT	make
+dobj	make	payments
+case	exchange	to
+case	exchange	in
+nmod:in	payments	exchange
+case	benefits	for
+nmod:for	payments	benefits

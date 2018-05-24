@@ -1,0 +1,9 @@
+root	ROOT	James
+punct	James	:
+dep	James	says
+nsubj	dead	faith
+case	works	without
+nmod:without	faith	works
+cop	dead	is
+ccomp	says	dead
+punct	James	.

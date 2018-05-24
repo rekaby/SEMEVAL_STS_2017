@@ -1,0 +1,7 @@
+compound	president	Maldives
+nsubj	quits	president
+root	ROOT	quits
+case	weeks	after
+nmod:after	quits	weeks
+case	protest	of
+nmod:of	weeks	protest

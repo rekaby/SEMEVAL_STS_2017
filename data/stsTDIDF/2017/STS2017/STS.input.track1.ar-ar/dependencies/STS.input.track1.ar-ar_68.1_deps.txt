@@ -1,0 +1,10 @@
+root	ROOT	Shave
+det	dog	the
+dobj	Shave	dog
+case	air	through
+det	air	the
+nmod:through	Shave	air
+case	plane	in
+det	plane	the
+nmod:in	air	plane
+punct	Shave	.

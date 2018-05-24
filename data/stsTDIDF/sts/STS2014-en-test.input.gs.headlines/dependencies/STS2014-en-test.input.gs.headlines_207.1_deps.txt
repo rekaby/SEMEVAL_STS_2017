@@ -1,0 +1,9 @@
+compound	protesters	Thai
+nsubj	obstruct	protesters
+root	ROOT	obstruct
+dobj	obstruct	vote
+punct	obstruct	;
+dep	obstruct	1
+amod	1	dead
+case	violence	in
+nmod:in	dead	violence

@@ -1,0 +1,9 @@
+det	tan	A
+nsubj	runs	tan
+cc	tan	and
+amod	dog	white
+conj:and	tan	dog
+root	ROOT	runs
+case	water	through
+nmod:through	runs	water
+punct	runs	.

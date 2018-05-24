@@ -1,0 +1,12 @@
+nsubj	look	Girl
+root	ROOT	look
+case	image	to
+nmod:poss	image	her
+nmod:to	look	image
+acl	image	reflected
+case	pool	in
+det	pool	a
+nmod:in	reflected	pool
+case	water	of
+nmod:of	pool	water
+punct	look	.

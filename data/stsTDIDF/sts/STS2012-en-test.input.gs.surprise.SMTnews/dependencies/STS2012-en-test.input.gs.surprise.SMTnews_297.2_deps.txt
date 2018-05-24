@@ -1,0 +1,9 @@
+det	tendency	This
+nsubj	goes	tendency
+root	ROOT	goes
+advmod	goes	well
+case	scarves	beyond
+det	scarves	the
+amod	scarves	simple
+nmod:beyond	goes	scarves
+punct	goes	.

@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+compound	dance	woman
+conj:and	man	dance
+punct	man	.

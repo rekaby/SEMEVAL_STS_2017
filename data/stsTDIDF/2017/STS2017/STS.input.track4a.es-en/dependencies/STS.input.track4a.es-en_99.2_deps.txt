@@ -1,0 +1,9 @@
+det	man	A
+nsubj	doing	man
+case	shirt	with
+det	shirt	a
+nmod:with	man	shirt
+aux	doing	is
+root	ROOT	doing
+dobj	doing	work
+punct	doing	.

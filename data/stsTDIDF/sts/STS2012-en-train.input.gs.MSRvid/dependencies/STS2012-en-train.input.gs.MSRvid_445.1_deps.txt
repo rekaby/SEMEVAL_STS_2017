@@ -1,0 +1,6 @@
+det	boy	A
+nsubj	played	boy
+root	ROOT	played
+det	keyboard	a
+dobj	played	keyboard
+punct	played	.

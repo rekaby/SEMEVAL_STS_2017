@@ -1,0 +1,10 @@
+nsubj	have	You
+root	ROOT	have
+advmod	much	too
+amod	regulation	much
+dobj	have	regulation
+punct	have	,
+neg	little	not
+advmod	little	too
+dep	have	little
+punct	have	.

@@ -1,0 +1,11 @@
+nsubj	left	This
+aux	left	has
+root	ROOT	left
+det	opposition	the
+amod	opposition	Conservative
+dobj	left	opposition
+case	response	without
+det	response	an
+amod	response	effective
+nmod:without	left	response
+punct	left	.

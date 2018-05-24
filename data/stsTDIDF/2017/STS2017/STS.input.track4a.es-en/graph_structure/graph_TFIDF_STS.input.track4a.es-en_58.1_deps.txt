@@ -1,0 +1,7 @@
+put	pads	nmod:on
+pads	helmet	conj:and
+helmet	a	det
+pads	elbow	compound
+pads	and	cc
+pads	on	case
+put	man	nsubj

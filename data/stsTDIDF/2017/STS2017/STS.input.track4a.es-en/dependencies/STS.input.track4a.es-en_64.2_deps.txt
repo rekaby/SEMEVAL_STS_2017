@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	has	dog
+root	ROOT	has
+det	stick	a
+dobj	has	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	stick	mouth
+punct	has	.

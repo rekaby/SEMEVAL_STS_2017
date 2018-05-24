@@ -1,0 +1,4 @@
+outside	man	nsubj
+day	July	compound
+outside	day	nmod:on
+ROOT	outside	root

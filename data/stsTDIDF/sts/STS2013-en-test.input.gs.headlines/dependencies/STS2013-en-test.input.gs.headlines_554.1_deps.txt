@@ -1,0 +1,8 @@
+compound	PM	Japan
+nsubj	calls	PM
+root	ROOT	calls
+case	processing	for
+amod	processing	quicker
+compound	processing	tsunami
+compound	processing	waste
+nmod:for	calls	processing

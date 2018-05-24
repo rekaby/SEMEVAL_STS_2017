@@ -1,0 +1,5 @@
+nsubj	killed	Soldier
+root	ROOT	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan
+dobj	killed	blast

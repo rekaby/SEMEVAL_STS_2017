@@ -1,0 +1,15 @@
+det	rapper	The
+nmod:poss	lawyer	rapper
+case	rapper	's
+nsubj	return	lawyer
+punct	lawyer	,
+compound	Gann	Mark
+appos	lawyer	Gann
+punct	lawyer	,
+aux	return	did
+neg	return	n't
+root	ROOT	return
+dobj	return	calls
+case	comment	for
+nmod:for	calls	comment
+punct	return	.

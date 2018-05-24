@@ -1,0 +1,6 @@
+compound	presidents	US
+nsubj	pay	presidents
+root	ROOT	pay
+dobj	pay	tribute
+case	Mandela	to
+nmod:to	pay	Mandela

@@ -1,0 +1,14 @@
+expl	's	There
+root	ROOT	's
+neg	's	not
+det	much	that
+nsubj	's	much
+mark	do	that
+nsubj	do	you
+aux	do	can
+ccomp	much	do
+case	starter	with
+det	starter	a
+amod	starter	sourdough
+nmod:with	do	starter
+punct	's	.

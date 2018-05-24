@@ -1,0 +1,7 @@
+compound	arrests	Zambia
+root	ROOT	arrests
+acl	arrests	ex-leader
+dobj	ex-leader	Banda
+case	deal	over
+compound	deal	oil
+nmod:over	Banda	deal

@@ -1,0 +1,15 @@
+root	ROOT	Landon
+cc	Landon	And
+advmod	Christmas	So
+nsubj	Christmas	This
+cop	Christmas	is
+conj:and	Landon	Christmas
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+dep	Landon	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Landon	.

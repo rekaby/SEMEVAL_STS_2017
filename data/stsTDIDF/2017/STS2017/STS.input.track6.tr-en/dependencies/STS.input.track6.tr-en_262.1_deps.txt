@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+det	shoes	some
+nsubj	are	shoes
+case	hands	in
+det	child	the
+nmod:poss	hands	child
+case	child	's
+nmod:in	shoes	hands
+punct	are	.

@@ -1,0 +1,16 @@
+compound	Barbour	U.S.
+compound	Barbour	District
+compound	Barbour	Judge
+compound	Barbour	William
+nsubj	said	Barbour
+root	ROOT	said
+nsubj	imposed	he
+ccomp	said	imposed
+det	maximum	the
+dobj	imposed	maximum
+mark	showed	because
+nsubj	showed	Avants
+advcl	imposed	showed
+neg	remorse	no
+dobj	showed	remorse
+punct	said	.

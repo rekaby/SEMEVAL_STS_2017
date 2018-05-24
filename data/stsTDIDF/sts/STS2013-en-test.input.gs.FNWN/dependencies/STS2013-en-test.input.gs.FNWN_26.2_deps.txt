@@ -1,0 +1,13 @@
+root	ROOT	slightly
+cc	slightly	and
+advmod	intoxicated	pleasantly
+conj:and	slightly	intoxicated
+case	alcohol	from
+nmod:from	slightly	alcohol
+cc	alcohol	or
+det	drug	a
+conj:or	alcohol	drug
+punct	marijuana	-LRB-
+advmod	marijuana	especially
+appos	alcohol	marijuana
+punct	marijuana	-RRB-

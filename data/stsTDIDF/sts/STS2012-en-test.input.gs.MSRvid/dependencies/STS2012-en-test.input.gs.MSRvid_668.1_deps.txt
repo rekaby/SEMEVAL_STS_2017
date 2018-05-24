@@ -1,0 +1,6 @@
+nummod	robots	Two
+nsubj	share	robots
+root	ROOT	share
+det	kiss	a
+dobj	share	kiss
+punct	share	.

@@ -1,0 +1,8 @@
+amod	FM	Greek
+root	ROOT	FM
+punct	FM	:
+amod	chance	Small
+nsubj	exit	chance
+case	euro	of
+nmod:of	chance	euro
+dep	FM	exit

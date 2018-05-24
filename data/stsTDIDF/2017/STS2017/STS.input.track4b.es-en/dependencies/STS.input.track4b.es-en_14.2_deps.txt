@@ -1,0 +1,17 @@
+det	union	The
+amod	union	European
+amod	union	monetary
+nsubjpass	affected	union
+aux	affected	has
+auxpass	affected	been
+advmod	affected	badly
+root	ROOT	affected
+case	crisis	by
+det	crisis	a
+amod	crisis	sovereign
+compound	crisis	debt
+nmod:agent	affected	crisis
+case	months	in
+amod	months	recent
+nmod:in	crisis	months
+punct	affected	.

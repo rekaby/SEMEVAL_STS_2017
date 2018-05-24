@@ -1,0 +1,8 @@
+root	ROOT	Sony
+mark	sell	to
+acl	Sony	sell
+compound	unit	PC
+dobj	sell	unit
+cc	sell	and
+conj:and	sell	cut
+dobj	sell	jobs

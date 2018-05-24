@@ -1,0 +1,10 @@
+det	dimension	Every
+nsubj	related	dimension
+cop	related	is
+advmod	related	precisely
+root	ROOT	related
+case	term	to
+det	term	a
+amod	term	separate
+nmod:to	related	term
+punct	related	.

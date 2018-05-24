@@ -1,0 +1,4 @@
+root	ROOT	destroy
+det	ship	a
+dobj	destroy	ship
+punct	destroy	.

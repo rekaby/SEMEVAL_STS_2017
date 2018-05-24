@@ -1,0 +1,7 @@
+climbs	man	nsubj
+steps	houses	nmod:between
+climbs	night	nmod:at
+ROOT	climbs	root
+houses	between	case
+climbs	steps	dobj
+houses	two	nummod

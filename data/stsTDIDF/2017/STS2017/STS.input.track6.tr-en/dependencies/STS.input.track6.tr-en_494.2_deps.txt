@@ -1,0 +1,15 @@
+det	mother	A
+root	ROOT	mother
+cc	mother	and
+nmod:poss	pretzel	her
+compound	pretzel	sister
+conj:and	mother	pretzel
+case	area	in
+det	area	the
+compound	area	dining
+nmod:in	pretzel	area
+case	mall	of
+det	mall	a
+compound	mall	shopping
+nmod:of	area	mall
+punct	mother	.

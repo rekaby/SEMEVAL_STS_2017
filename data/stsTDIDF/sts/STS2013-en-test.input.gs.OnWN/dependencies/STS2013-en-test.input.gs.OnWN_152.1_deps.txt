@@ -1,0 +1,9 @@
+det	context	the
+root	ROOT	context
+cc	context	or
+conj:or	context	setting
+case	which	in
+nmod:in	takes	which
+nsubj	takes	something
+acl:relcl	context	takes
+dobj	takes	place

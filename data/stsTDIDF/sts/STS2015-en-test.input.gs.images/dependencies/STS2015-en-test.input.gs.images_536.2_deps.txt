@@ -1,0 +1,14 @@
+det	person	A
+nsubj	tricks	person
+aux	tricks	does
+root	ROOT	tricks
+case	bike	on
+det	bike	a
+nmod:on	tricks	bike
+case	ramp	on
+det	ramp	a
+nmod:on	tricks	ramp
+acl	ramp	surrounded
+case	trees	by
+nmod:by	surrounded	trees
+punct	tricks	.

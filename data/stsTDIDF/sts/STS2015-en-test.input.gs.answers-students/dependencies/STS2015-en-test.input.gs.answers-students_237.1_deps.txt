@@ -1,0 +1,9 @@
+mark	runs	Because
+det	battery	the
+nsubj	runs	battery
+root	ROOT	runs
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+nmod:in	runs	circuit
+punct	runs	.

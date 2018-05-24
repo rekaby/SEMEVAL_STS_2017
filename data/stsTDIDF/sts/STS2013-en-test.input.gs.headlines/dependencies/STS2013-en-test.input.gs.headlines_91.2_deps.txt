@@ -1,0 +1,12 @@
+nsubj	killed	9
+root	ROOT	killed
+punct	killed	,
+root	,	31
+acl	31	wounded
+case	bombs	in
+compound	bombs	car
+nmod:in	wounded	bombs
+case	Kirkuk	in
+nmod:poss	Kirkuk	Iraq
+case	Iraq	's
+nmod:in	wounded	Kirkuk

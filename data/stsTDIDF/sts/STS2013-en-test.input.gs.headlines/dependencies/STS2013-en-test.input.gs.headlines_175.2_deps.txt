@@ -1,0 +1,11 @@
+nsubjpass	charged	Brother
+case	McCluskie	of
+compound	McCluskie	EastEnders
+compound	McCluskie	actress
+compound	McCluskie	Gemma
+nmod:of	Brother	McCluskie
+auxpass	charged	is
+root	ROOT	charged
+case	murder	with
+nmod:poss	murder	her
+nmod:with	charged	murder

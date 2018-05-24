@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	preparing	woman
+aux	preparing	is
+root	ROOT	preparing
+det	egg	an
+dobj	preparing	egg
+case	skillet	in
+det	skillet	a
+nmod:in	preparing	skillet
+punct	preparing	.

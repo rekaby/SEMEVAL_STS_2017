@@ -1,0 +1,6 @@
+root	ROOT	Man
+det	windows	what
+compound	windows	Anziv
+dobj	Man	windows
+amod	windows	inside
+punct	Man	.

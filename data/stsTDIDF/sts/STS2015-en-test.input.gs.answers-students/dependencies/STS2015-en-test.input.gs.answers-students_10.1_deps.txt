@@ -1,0 +1,8 @@
+det	terminals	The
+compound	terminals	battery
+nsubj	have	terminals
+root	ROOT	have
+amod	states	different
+amod	states	electrical
+dobj	have	states
+punct	have	.

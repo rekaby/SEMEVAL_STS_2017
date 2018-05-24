@@ -1,0 +1,11 @@
+det	man	A
+nsubj	rowing	man
+case	rowboat	in
+det	rowboat	a
+nmod:in	man	rowboat
+cop	rowing	is
+root	ROOT	rowing
+case	water	across
+amod	water	blue
+nmod:across	rowing	water
+punct	rowing	.

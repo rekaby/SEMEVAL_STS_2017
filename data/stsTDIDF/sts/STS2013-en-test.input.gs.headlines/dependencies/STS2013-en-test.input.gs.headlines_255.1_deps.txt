@@ -1,0 +1,6 @@
+compound	Underway	Bahrain
+compound	Underway	Grand
+compound	Underway	Prix
+root	ROOT	Underway
+case	Protests	Amid
+nmod:amid	Underway	Protests

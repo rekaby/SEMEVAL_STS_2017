@@ -1,0 +1,13 @@
+nsubj	found	I
+aux	found	have
+root	ROOT	found
+expl	is	there
+ccomp	found	is
+neg	way	no
+amod	way	single
+amod	way	best
+nsubj	is	way
+mark	increase	to
+acl	way	increase
+dobj	increase	size
+punct	found	.

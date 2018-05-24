@@ -1,0 +1,8 @@
+amod	bottle	Old
+amod	bottle	green
+root	ROOT	bottle
+acl	bottle	sitting
+case	table	on
+det	table	a
+nmod:on	sitting	table
+punct	bottle	.

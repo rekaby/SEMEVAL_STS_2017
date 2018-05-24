@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+root	ROOT	boy
+case	jacket	in
+det	jacket	a
+amod	jacket	brown
+nmod:in	boy	jacket
+acl	jacket	playing
+case	snow	with
+nmod:with	playing	snow
+punct	boy	.

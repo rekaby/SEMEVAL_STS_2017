@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	workers	6
+compound	workers	polio
+dobj	kill	workers
+case	Pakistan	in
+nmod:in	kill	Pakistan

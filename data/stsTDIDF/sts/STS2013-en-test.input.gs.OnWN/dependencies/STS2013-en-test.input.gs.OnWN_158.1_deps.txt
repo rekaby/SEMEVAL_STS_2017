@@ -1,0 +1,6 @@
+root	ROOT	Turn
+det	paddle	the
+dobj	Turn	paddle
+cc	paddle	or
+conj:or	paddle	oar
+punct	Turn	.

@@ -1,0 +1,9 @@
+compound	A	Bulb
+nsubj	create	A
+aux	create	will
+root	ROOT	create
+det	gap	a
+dobj	create	gap
+case	path	in
+det	path	the
+nmod:in	gap	path

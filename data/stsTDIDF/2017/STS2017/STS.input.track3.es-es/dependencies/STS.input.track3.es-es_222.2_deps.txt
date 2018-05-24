@@ -1,0 +1,11 @@
+amod	trucks	Big
+compound	trucks	orange
+nsubj	traveling	trucks
+aux	traveling	are
+root	ROOT	traveling
+compound:prt	traveling	down
+det	street	a
+nummod	street	four
+compound	street	lane
+dobj	traveling	street
+punct	traveling	.

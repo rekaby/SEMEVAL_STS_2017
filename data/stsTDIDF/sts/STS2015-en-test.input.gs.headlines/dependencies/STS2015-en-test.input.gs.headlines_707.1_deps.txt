@@ -1,0 +1,10 @@
+root	ROOT	India
+punct	India	,
+compound	pact	China
+compound	pact	ink
+compound	pact	border
+conj	India	pact
+punct	India	;
+nummod	agreements	8
+amod	agreements	other
+appos	India	agreements

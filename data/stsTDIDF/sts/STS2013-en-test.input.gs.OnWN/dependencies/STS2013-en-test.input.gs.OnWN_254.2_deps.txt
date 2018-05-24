@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+mark	stopping	of
+acl	act	stopping
+dobj	stopping	something
+punct	act	.

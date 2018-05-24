@@ -1,0 +1,8 @@
+det	person	A
+nsubj	eating	person
+aux	eating	is
+root	ROOT	eating
+case	table	at
+det	table	a
+nmod:at	eating	table
+punct	eating	.

@@ -1,0 +1,6 @@
+people	Three	nummod
+meeting	are	aux
+meeting	.	punct
+meeting	coffee	nmod:for
+meeting	people	nsubj
+coffee	for	case

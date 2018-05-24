@@ -1,0 +1,15 @@
+case	Wednesday	As
+mwe	As	of
+nmod:as_of	were	Wednesday
+punct	were	,
+expl	were	there
+root	ROOT	were
+nummod	cases	65
+amod	cases	probable
+compound	cases	SARS
+nsubj	were	cases
+case	region	in
+det	region	the
+compound	region	Toronto
+nmod:in	cases	region
+punct	were	.

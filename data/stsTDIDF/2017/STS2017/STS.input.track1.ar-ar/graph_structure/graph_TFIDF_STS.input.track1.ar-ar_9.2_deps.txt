@@ -1,0 +1,6 @@
+jacket	with	case
+jacket	sidewalk	nmod:on
+man	walking	acl
+jacket	black	amod
+walking	jacket	nmod:with
+sidewalk	on	case

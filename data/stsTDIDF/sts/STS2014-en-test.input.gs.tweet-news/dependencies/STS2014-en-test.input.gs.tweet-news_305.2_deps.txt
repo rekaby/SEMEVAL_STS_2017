@@ -1,0 +1,10 @@
+advmod	Effects	Well
+punct	Effects	:
+amod	Effects	Long
+compound	Effects	Term
+root	ROOT	Effects
+case	Expectancy	on
+compound	Expectancy	Life
+nmod:on	Effects	Expectancy
+case	Smoking	From
+nmod:from	Expectancy	Smoking

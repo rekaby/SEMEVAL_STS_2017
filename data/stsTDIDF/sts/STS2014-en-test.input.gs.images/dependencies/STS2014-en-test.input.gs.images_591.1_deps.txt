@@ -1,0 +1,7 @@
+nsubj	driving	Cars
+root	ROOT	driving
+case	building	near
+det	building	a
+compound	building	model
+nmod:near	driving	building
+punct	driving	.

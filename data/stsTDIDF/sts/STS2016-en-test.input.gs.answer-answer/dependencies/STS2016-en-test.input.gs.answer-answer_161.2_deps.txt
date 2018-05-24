@@ -1,0 +1,10 @@
+nsubj	should	You
+root	ROOT	should
+punct	should	,
+cc	should	but
+nsubj	have	you
+aux	have	do
+neg	have	n't
+conj:but	should	have
+nmod	have	to
+punct	should	.

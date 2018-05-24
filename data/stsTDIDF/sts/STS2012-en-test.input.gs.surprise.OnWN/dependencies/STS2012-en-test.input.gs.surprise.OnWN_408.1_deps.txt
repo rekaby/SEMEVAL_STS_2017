@@ -1,0 +1,6 @@
+det	cause	a
+root	ROOT	cause
+cc	cause	or
+conj:or	cause	source
+case	harm	of
+nmod:of	cause	harm

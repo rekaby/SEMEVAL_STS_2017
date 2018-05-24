@@ -1,0 +1,12 @@
+root	ROOT	feel
+dep	feel	about
+cc	about	or
+conj:or	about	towards
+punct	about	;
+conj:or	about	consider
+punct	evaluate	,
+xcomp	consider	evaluate
+punct	evaluate	,
+cc	evaluate	or
+conj:or	evaluate	regard
+punct	feel	.

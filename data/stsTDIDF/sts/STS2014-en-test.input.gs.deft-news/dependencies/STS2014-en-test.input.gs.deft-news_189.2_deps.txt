@@ -1,0 +1,9 @@
+nsubj	warned	putin
+root	ROOT	warned
+mark	take	that
+nsubj	take	russia
+aux	take	would
+ccomp	warned	take
+amod	actions	retaliatory
+dobj	take	actions
+punct	warned	.

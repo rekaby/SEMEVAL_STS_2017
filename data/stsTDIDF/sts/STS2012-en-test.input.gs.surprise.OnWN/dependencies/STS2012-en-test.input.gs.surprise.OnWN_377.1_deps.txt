@@ -1,0 +1,6 @@
+nsubj	setting	mold
+case	casting	for
+nmod:for	mold	casting
+punct	mold	,
+root	ROOT	setting
+dobj	setting	concrete

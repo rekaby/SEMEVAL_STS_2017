@@ -1,0 +1,12 @@
+advmod	keep	How
+aux	keep	do
+nsubj	keep	I
+root	ROOT	keep
+det	egg	an
+dobj	keep	egg
+mark	cracking	from
+advcl	keep	cracking
+mark	boiled	while
+auxpass	boiled	being
+advcl	cracking	boiled
+punct	keep	?

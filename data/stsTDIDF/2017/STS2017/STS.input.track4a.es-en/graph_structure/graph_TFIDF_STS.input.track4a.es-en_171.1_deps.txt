@@ -1,0 +1,11 @@
+wall	against	case
+poster	a	det
+stand	men	nsubj
+holding	poster	dobj
+looks	boy	nsubj
+conversing	looks	advcl
+holding	forward	advmod
+stand	wall	nmod:against
+men	Three	nummod
+looks	holding	xcomp
+wall	conversing	acl

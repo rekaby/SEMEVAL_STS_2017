@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+det	garland	a
+dobj	puts	garland
+case	shoulders	over
+det	man	a
+nmod:poss	shoulders	man
+case	man	's
+nmod:over	puts	shoulders
+punct	puts	.

@@ -1,0 +1,12 @@
+det	train	A
+nsubj	running	train
+aux	running	is
+root	ROOT	running
+compound:prt	running	down
+det	track	the
+dobj	running	track
+case	area	in
+det	area	a
+amod	area	rural
+nmod:in	track	area
+punct	running	.

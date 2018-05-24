@@ -1,0 +1,3 @@
+license	driver	nmod:poss
+has	license	dobj
+has	man	nsubj

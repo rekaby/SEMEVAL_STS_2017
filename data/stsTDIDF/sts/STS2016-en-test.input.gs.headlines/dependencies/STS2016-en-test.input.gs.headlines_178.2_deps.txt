@@ -1,0 +1,7 @@
+compound	tests	Texas
+compound	tests	hospital
+compound	tests	worker
+root	ROOT	tests
+amod	tests	positive
+case	Ebola	for
+nmod:for	positive	Ebola

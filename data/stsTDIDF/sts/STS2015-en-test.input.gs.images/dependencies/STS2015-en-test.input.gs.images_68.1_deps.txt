@@ -1,0 +1,16 @@
+nummod	dolphins	Three
+nsubj	jumping	dolphins
+aux	jumping	are
+root	ROOT	jumping
+case	pool	out
+mwe	out	of
+det	pool	a
+nmod:out_of	jumping	pool
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+nmod:in_front_of	jumping	crowd
+case	people	of
+nmod:of	crowd	people
+punct	jumping	.

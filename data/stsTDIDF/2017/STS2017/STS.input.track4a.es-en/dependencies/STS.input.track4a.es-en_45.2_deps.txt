@@ -1,0 +1,8 @@
+det	person	An
+amod	person	old
+nsubj	sleeps	person
+root	ROOT	sleeps
+case	bed	in
+det	bed	a
+nmod:in	sleeps	bed
+punct	sleeps	.

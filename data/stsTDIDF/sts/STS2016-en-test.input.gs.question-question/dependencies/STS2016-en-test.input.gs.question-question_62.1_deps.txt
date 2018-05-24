@@ -1,0 +1,10 @@
+root	ROOT	Is
+nmod:poss	driver	my
+compound	driver	U.S.
+nmod:poss	license	driver
+case	driver	's
+nsubj	Is	license
+amod	license	valid
+case	Europe	in
+nmod:in	valid	Europe
+punct	Is	?

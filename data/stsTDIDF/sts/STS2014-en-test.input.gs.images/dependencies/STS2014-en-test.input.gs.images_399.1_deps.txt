@@ -1,0 +1,13 @@
+det	cat	The
+nsubj	sitting	cat
+aux	sitting	is
+root	ROOT	sitting
+case	bicycles	between
+nummod	bicycles	two
+nmod:between	sitting	bicycles
+case	door	in
+mwe	in	front
+mwe	in	of
+det	door	a
+nmod:in_front_of	bicycles	door
+punct	sitting	.

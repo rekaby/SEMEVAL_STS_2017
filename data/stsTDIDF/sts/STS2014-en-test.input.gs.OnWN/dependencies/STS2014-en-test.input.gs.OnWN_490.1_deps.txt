@@ -1,0 +1,7 @@
+root	ROOT	severance
+case	connection	from
+det	connection	a
+amod	connection	social
+nmod:from	severance	connection
+cc	connection	or
+conj:or	connection	tie

@@ -1,0 +1,9 @@
+nsubj	feel	You
+aux	feel	should
+neg	feel	n't
+root	ROOT	feel
+det	obligation	any
+dobj	feel	obligation
+case	all	at
+nmod:at	obligation	all
+punct	feel	.

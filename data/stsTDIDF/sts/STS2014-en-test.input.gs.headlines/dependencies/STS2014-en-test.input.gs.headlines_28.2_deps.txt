@@ -1,0 +1,10 @@
+compound	Korea	North
+amod	unions	Korea
+punct	unions	`
+amod	unions	postpones
+punct	unions	'
+compound	unions	family
+root	ROOT	unions
+case	Korea	with
+compound	Korea	South
+nmod:with	unions	Korea

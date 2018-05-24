@@ -1,0 +1,9 @@
+mark	reach	Because
+det	voltage	the
+nsubj	reach	voltage
+aux	reach	does
+neg	reach	not
+root	ROOT	reach
+det	bulbs	the
+dobj	reach	bulbs
+punct	reach	.

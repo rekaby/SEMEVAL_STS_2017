@@ -1,0 +1,6 @@
+wrapped	is	auxpass
+wrapped	.	punct
+wrapped	item	nsubjpass
+wrapped	paper	nmod:in
+item	The	det
+ROOT	wrapped	root

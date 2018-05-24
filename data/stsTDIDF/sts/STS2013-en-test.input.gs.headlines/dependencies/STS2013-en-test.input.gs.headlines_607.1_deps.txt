@@ -1,0 +1,9 @@
+compound	names	Libya
+compound	names	PM
+nsubj	cabinet	names
+amod	cabinet	new
+root	ROOT	cabinet
+case	protests	after
+nmod:after	cabinet	protests
+case	original	over
+nmod:over	protests	original

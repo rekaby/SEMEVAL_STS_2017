@@ -1,0 +1,13 @@
+det	prices	The
+nsubj	gone	prices
+case	everything	for
+nmod:for	prices	everything
+nsubj	need	you
+acl:relcl	everything	need
+aux	gone	have
+root	ROOT	gone
+compound:prt	gone	up
+xcomp	gone	due
+case	inflation	to
+nmod:to	due	inflation
+punct	gone	.

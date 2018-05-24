@@ -1,0 +1,7 @@
+det	rabbit	A
+nsubj	kissing	rabbit
+aux	kissing	is
+root	ROOT	kissing
+det	rabbit	another
+dobj	kissing	rabbit
+punct	kissing	.

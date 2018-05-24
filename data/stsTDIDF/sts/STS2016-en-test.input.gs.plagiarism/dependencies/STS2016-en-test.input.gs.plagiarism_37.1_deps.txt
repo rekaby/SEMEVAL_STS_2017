@@ -1,0 +1,11 @@
+nsubj	calculating	One
+case	uses	of
+nmod:poss	uses	its
+nmod:of	One	uses
+aux	calculating	is
+root	ROOT	calculating
+amod	probabilities	posterior
+nsubj	observations	probabilities
+amod	observations	given
+ccomp	calculating	observations
+punct	calculating	.

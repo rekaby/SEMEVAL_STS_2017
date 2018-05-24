@@ -1,0 +1,8 @@
+amod	forces	Syrian
+nsubj	shell	forces
+root	ROOT	shell
+dobj	shell	towns
+punct	shell	,
+dep	shell	clash
+case	rebels	with
+nmod:with	clash	rebels

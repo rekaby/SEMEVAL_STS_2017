@@ -1,0 +1,9 @@
+nsubj	hurt	One
+dep	hurt	dead
+punct	hurt	,
+nummod	hurt	11
+root	ROOT	hurt
+case	car	in
+compound	car	LA
+nmod:in	hurt	car
+dep	hurt	chaos

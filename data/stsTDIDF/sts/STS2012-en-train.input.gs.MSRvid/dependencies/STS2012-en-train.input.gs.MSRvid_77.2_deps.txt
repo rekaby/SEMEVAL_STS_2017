@@ -1,0 +1,8 @@
+det	man	A
+nsubj	dives	man
+root	ROOT	dives
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	dives	pool
+punct	dives	.

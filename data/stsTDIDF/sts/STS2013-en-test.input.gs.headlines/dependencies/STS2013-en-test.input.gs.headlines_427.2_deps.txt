@@ -1,0 +1,7 @@
+compound	police	Nigeria
+nsubj	make	police
+root	ROOT	make
+dobj	make	arrests
+case	massacre	after
+compound	massacre	college
+nmod:after	arrests	massacre

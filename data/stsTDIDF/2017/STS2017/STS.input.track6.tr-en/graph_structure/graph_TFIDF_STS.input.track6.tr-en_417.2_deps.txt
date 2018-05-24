@@ -1,0 +1,8 @@
+womens	Three	nummod
+walk	floor	nmod:on
+building	stone	compound
+walk	building	nmod:in
+walk	womens	nsubj
+building	sand	nmod:with
+sand	with	case
+building	open	amod

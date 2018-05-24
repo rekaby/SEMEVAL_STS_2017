@@ -1,0 +1,11 @@
+root	ROOT	perceive
+case	senses	with
+det	senses	the
+nmod:with	perceive	senses
+advmod	perceive	quickly
+punct	perceive	,
+advmod	momentarily	suddenly
+punct	momentarily	,
+cc	momentarily	or
+advmod	perceive	momentarily
+punct	perceive	.

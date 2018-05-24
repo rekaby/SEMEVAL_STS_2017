@@ -1,0 +1,12 @@
+det	player	The
+compound	player	basketball
+root	ROOT	player
+dep	player	is
+dep	is	about
+mark	score	to
+xcomp	about	score
+dobj	score	points
+case	team	for
+nmod:poss	team	his
+nmod:for	points	team
+punct	player	.

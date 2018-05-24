@@ -1,0 +1,6 @@
+bar	drinking	appos
+bar	an	det
+bar	,	punct
+People	bar	nmod:at
+bar	at	case
+bar	outside	amod

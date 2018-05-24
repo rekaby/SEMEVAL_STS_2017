@@ -1,0 +1,13 @@
+recount	during	case
+blanket	his	nmod:poss
+cover	blanket	nmod:with
+testified	given	ccomp
+given	chance	dobj
+cover	recount	nmod:during
+cover	himself	dobj
+blanket	with	case
+testified	crew	nsubj
+chance	cover	acl
+recount	the	det
+crew	The	det
+testified	had	aux

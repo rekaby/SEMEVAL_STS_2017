@@ -1,0 +1,7 @@
+root	ROOT	Thousands
+case	troops	of
+nmod:of	Thousands	troops
+mark	march	to
+acl	Thousands	march
+case	Jubilee	for
+nmod:for	march	Jubilee

@@ -1,0 +1,14 @@
+nmod:poss	theorem	Bayes
+case	Bayes	'
+nsubj	relates	theorem
+root	ROOT	relates
+det	probabilities	the
+amod	probabilities	conditional
+cc	conditional	and
+conj:and	conditional	marginal
+dobj	relates	probabilities
+case	events	of
+nummod	events	two
+amod	events	random
+nmod:of	probabilities	events
+punct	relates	.

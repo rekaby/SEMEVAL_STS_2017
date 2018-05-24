@@ -1,0 +1,13 @@
+det	person	A
+root	ROOT	person
+csubj	poses	swimming
+amod	poses	underwater
+acl:relcl	person	poses
+case	picture	for
+det	picture	a
+nmod:for	poses	picture
+case	vegetation	with
+det	vegetation	some
+amod	vegetation	underwater
+nmod:with	picture	vegetation
+punct	person	.

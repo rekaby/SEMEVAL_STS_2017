@@ -1,0 +1,8 @@
+amod	cat	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	cat
+acl	cat	lying
+case	bush	under
+nmod:under	lying	bush
+punct	cat	.

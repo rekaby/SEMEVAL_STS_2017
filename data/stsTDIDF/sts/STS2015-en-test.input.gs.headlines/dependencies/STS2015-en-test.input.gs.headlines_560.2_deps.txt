@@ -1,0 +1,12 @@
+root	ROOT	Mufti
+punct	Mufti	:
+appos	Mufti	conspiracy
+mark	targets	aginst
+nsubj	targets	Syria
+ccomp	conspiracy	targets
+nmod:poss	stances	its
+dobj	targets	stances
+punct	targets	,
+advmod	targets	particularly
+case	Palestine	towards
+nmod:towards	particularly	Palestine

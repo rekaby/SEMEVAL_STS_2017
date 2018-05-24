@@ -1,0 +1,7 @@
+compound	Resigns	BBC
+compound	Resigns	Director
+compound	Resigns	General
+root	ROOT	Resigns
+case	Scandal	amid
+compound	Scandal	Newsnight
+nmod:amid	Resigns	Scandal

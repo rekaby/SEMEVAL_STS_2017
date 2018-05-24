@@ -1,0 +1,10 @@
+compound	Aircraft	US
+compound	Aircraft	Military
+nsubj	Hit	Aircraft
+root	ROOT	Hit
+case	Sudan	in
+compound	Sudan	S.
+nmod:in	Hit	Sudan
+punct	Hit	,
+nummod	Wounded	4
+dep	Hit	Wounded

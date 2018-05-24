@@ -1,0 +1,12 @@
+helping	man	dobj
+helping	.	punct
+ground	up	case
+man	hat	nmod:in
+helping	hair	nmod:with
+ground	off	case
+hat	brown	amod
+helping	man	nsubj
+hair	no	neg
+ROOT	helping	root
+hair	ground	nmod:off
+hat	in	case

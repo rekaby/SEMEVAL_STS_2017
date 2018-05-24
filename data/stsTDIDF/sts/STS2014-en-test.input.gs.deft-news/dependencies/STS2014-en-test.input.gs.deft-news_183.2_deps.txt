@@ -1,0 +1,14 @@
+nsubj	negotiator	hill
+cop	negotiator	is
+det	negotiator	the
+compound	negotiator	head
+compound	negotiator	american
+root	ROOT	negotiator
+case	program	on
+compound	korea	north
+nmod:poss	program	korea
+case	korea	's
+amod	program	nuclear
+compound	program	weapons
+nmod:on	negotiator	program
+punct	negotiator	.

@@ -1,0 +1,9 @@
+nsubj	express	Lawmakers
+case	sides	from
+det	sides	both
+nmod:from	Lawmakers	sides
+root	ROOT	express
+dobj	express	outrage
+case	Service	at
+compound	Service	Secret
+nmod:at	outrage	Service

@@ -1,0 +1,8 @@
+compound	Man	Train
+compound	Man	Kills
+root	ROOT	Man
+case	Station	in
+compound	Station	125th
+compound	Station	Street
+compound	Station	Subway
+nmod:in	Man	Station

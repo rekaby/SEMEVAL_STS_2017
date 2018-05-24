@@ -1,0 +1,7 @@
+det	trait	a
+amod	trait	general
+root	ROOT	trait
+cc	trait	or
+conj:or	trait	characteristic
+case	something	of
+nmod:of	characteristic	something

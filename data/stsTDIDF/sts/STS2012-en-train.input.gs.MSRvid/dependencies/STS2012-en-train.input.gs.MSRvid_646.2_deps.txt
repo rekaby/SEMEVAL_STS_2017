@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	walking	cat
+aux	walking	is
+root	ROOT	walking
+case	floor	on
+compound	floor	hardwood
+nmod:on	walking	floor
+punct	walking	.

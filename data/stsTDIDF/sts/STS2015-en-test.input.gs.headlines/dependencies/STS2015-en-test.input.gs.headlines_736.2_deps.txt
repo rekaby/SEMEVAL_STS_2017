@@ -1,0 +1,7 @@
+amod	alignments	Old
+compound	alignments	TV
+nsubj	crack	alignments
+root	ROOT	crack
+case	edges	at
+det	edges	the
+nmod:at	crack	edges

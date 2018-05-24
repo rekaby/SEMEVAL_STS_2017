@@ -1,0 +1,9 @@
+root	ROOT	take
+cc	take	or
+conj:or	take	consume
+punct	or	-LRB-
+advmod	or	regularly
+dep	take	or
+advmod	or	habitually
+punct	or	-RRB-
+punct	take	;

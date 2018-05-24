@@ -1,0 +1,8 @@
+nsubj	kill	Islamists
+root	ROOT	kill
+dobj	kill	21
+case	attacks	in
+compound	attacks	suicide
+nmod:in	kill	attacks
+case	Niger	in
+nmod:in	attacks	Niger

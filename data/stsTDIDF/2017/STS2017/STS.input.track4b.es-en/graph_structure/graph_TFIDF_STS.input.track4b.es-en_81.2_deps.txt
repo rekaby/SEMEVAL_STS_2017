@@ -1,0 +1,17 @@
+linked	TransCanada	nmod:to
+is	choice	ccomp
+company	hired	acl:relcl
+choice	company	nsubj
+choice	inadequate	amod
+linked	it	nsubjpass
+linked	was	auxpass
+hired	run	xcomp
+run	study	dobj
+choice	linked	advcl
+choice	was	cop
+TransCanada	to	case
+choice	whether	mark
+choice	an	det
+hired	that	nsubjpass
+linked	because	mark
+study	original	amod

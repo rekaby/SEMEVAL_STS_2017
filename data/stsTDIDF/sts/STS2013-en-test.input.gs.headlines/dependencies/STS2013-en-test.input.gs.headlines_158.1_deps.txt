@@ -1,0 +1,9 @@
+nsubj	city	Mumbai
+cop	city	is
+amod	city	2nd
+amod	city	costliest
+amod	city	Indian
+root	ROOT	city
+mark	live	to
+acl	city	live
+nmod	live	in

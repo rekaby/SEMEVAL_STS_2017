@@ -1,0 +1,8 @@
+advmod	rid	How
+aux	rid	can
+nsubj	rid	I
+dep	rid	get
+root	ROOT	rid
+case	fleas	of
+nmod:of	rid	fleas
+punct	rid	?

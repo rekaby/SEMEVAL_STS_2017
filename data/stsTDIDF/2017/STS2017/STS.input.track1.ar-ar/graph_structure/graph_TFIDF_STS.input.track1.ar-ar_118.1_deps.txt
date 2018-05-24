@@ -1,0 +1,4 @@
+Person	reclining	acl
+Person	.	punct
+ROOT	Person	root
+reclining	wall	nmod:on

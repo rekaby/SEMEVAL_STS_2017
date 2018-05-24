@@ -1,0 +1,11 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+root	ROOT	chopping
+det	trunk	a
+compound	trunk	tree
+dobj	chopping	trunk
+case	axe	with
+det	axe	an
+nmod:with	chopping	axe
+punct	chopping	.

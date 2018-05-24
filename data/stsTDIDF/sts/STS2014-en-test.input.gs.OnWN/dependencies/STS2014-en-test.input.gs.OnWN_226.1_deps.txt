@@ -1,0 +1,7 @@
+det	instrument	a
+amod	instrument	pointed
+root	ROOT	instrument
+mark	writing	for
+acl	instrument	writing
+punct	instrument	,
+appos	instrument	stylus

@@ -1,0 +1,9 @@
+compound	spat	Oil
+compound	spat	rig
+root	ROOT	spat
+punct	spat	:
+nsubj	send	Beijing
+neg	send	not
+mark	send	to
+dep	spat	send
+dobj	send	army

@@ -1,0 +1,7 @@
+root	ROOT	have
+cc	have	or
+conj:or	have	exploit
+det	monopoly	a
+dobj	have	monopoly
+acl	monopoly	of
+punct	have	.

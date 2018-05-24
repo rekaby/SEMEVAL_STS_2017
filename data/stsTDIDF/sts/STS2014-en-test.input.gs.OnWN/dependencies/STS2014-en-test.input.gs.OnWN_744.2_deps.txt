@@ -1,0 +1,13 @@
+punct	theology	-LRB-
+root	ROOT	theology
+punct	theology	-RRB-
+nmod:poss	act	God
+case	God	's
+dep	theology	act
+mark	bringing	of
+acl	act	bringing
+det	universe	the
+dobj	bringing	universe
+case	existence	into
+nmod:into	bringing	existence
+punct	theology	.

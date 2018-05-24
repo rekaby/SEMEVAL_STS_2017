@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	plays	woman
+root	ROOT	plays
+case	dog	with
+det	dog	a
+amod	dog	brown
+nmod:with	plays	dog
+punct	plays	.

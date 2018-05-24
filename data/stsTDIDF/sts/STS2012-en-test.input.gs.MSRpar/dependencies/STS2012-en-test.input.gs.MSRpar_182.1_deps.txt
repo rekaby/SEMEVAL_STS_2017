@@ -1,0 +1,13 @@
+det	woman	The
+amod	woman	dead
+nsubj	wearing	woman
+aux	wearing	was
+advmod	wearing	also
+root	ROOT	wearing
+det	ring	a
+dobj	wearing	ring
+cc	ring	and
+det	watch	a
+compound	watch	Cartier
+conj:and	ring	watch
+punct	wearing	.

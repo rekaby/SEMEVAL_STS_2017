@@ -1,0 +1,9 @@
+compound	turnout	Algerian
+amod	turnout	national
+nsubj	reaches	turnout
+case	vote	of
+amod	vote	parliamentary
+nmod:of	turnout	vote
+root	ROOT	reaches
+nummod	pct	44.38
+dobj	reaches	pct

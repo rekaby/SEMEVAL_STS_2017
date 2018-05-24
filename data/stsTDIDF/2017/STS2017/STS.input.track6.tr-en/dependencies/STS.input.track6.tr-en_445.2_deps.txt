@@ -1,0 +1,15 @@
+det	woman	A
+amod	woman	red-haired
+nsubj	passing	woman
+case	white	in
+nmod:in	woman	white
+cc	white	and
+conj:and	white	purple
+aux	passing	is
+root	ROOT	passing
+case	car	by
+det	car	a
+amod	car	red
+compound	car	sports
+nmod:by	passing	car
+punct	passing	.

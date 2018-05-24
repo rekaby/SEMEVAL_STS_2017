@@ -1,0 +1,14 @@
+resolution	non-binding	amod
+supports	idea	dobj
+amendment	of	case
+resolution	of	case
+amendment	such	det:predet
+resolution	supports	acl:relcl
+senators	58	nummod
+March	In	case
+voted	senators	nsubj
+voted	favor	nmod:in
+idea	amendment	nmod:of
+supports	that	nsubj
+voted	March	nmod:in
+favor	resolution	nmod:of

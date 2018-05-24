@@ -1,0 +1,7 @@
+compound	football	Penn
+compound	football	State
+nsubj	slammed	football
+root	ROOT	slammed
+case	sanctions	with
+compound	sanctions	NCAA
+nmod:with	slammed	sanctions

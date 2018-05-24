@@ -1,0 +1,9 @@
+compound	case	Mumbai
+compound	case	journalist
+compound	case	gang-rape
+root	ROOT	case
+punct	case	:
+det	accused	All
+nummod	accused	five
+dep	case	accused
+dep	accused	arrested

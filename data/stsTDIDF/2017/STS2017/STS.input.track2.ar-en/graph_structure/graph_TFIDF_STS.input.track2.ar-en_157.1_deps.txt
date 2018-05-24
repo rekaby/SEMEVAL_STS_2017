@@ -1,0 +1,4 @@
+subway	near	case
+women	standing	acl
+subway	the	det
+standing	subway	nmod:near

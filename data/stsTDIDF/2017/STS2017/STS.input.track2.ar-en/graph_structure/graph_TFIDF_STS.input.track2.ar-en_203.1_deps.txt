@@ -1,0 +1,4 @@
+running	woman	nsubj
+lawn	a	det
+lawn	on	case
+running	lawn	nmod:on

@@ -1,0 +1,9 @@
+det	ducks	The
+amod	ducks	white
+nsubj	standing	ducks
+aux	standing	are
+root	ROOT	standing
+case	ground	on
+det	ground	the
+nmod:on	standing	ground
+punct	standing	.

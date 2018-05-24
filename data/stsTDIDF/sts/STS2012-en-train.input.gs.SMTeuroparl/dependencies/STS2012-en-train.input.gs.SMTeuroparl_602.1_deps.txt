@@ -1,0 +1,8 @@
+nsubj	made	That
+root	ROOT	made
+nsubj	dependent	them
+advmod	dependent	heavily
+xcomp	made	dependent
+case	loans	on
+nmod:on	dependent	loans
+punct	made	.

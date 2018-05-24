@@ -1,0 +1,11 @@
+det	father	A
+nsubj	rides	father
+root	ROOT	rides
+det	horse	a
+dobj	rides	horse
+mark	stands	while
+nmod:poss	daughter	his
+nsubj	stands	daughter
+advcl	rides	stands
+advmod	stands	nearby
+punct	rides	.

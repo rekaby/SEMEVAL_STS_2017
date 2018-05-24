@@ -1,0 +1,7 @@
+compound	Assembly	UN
+root	ROOT	Assembly
+mark	Vote	to
+acl	Assembly	Vote
+case	Syria	on
+nmod:on	Vote	Syria
+dobj	Vote	Resolution

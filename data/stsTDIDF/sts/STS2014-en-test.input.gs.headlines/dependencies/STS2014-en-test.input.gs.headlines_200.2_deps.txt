@@ -1,0 +1,6 @@
+amod	killer	Alleged
+compound	killer	cop
+nsubj	died	killer
+root	ROOT	died
+case	gunshot	from
+nmod:from	died	gunshot

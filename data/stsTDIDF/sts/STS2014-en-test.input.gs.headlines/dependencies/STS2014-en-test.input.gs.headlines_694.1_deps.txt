@@ -1,0 +1,9 @@
+amod	planes	Japanese
+nsubj	flew	planes
+root	ROOT	flew
+case	zone	into
+nmod:poss	zone	China
+case	China	's
+amod	zone	new
+compound	zone	defense
+nmod:into	flew	zone

@@ -1,0 +1,9 @@
+rides	horse	dobj
+stands	daughter	nsubj
+stands	while	mark
+rides	stands	advcl
+rides	father	nsubj
+father	A	det
+rides	.	punct
+stands	nearby	advmod
+ROOT	rides	root

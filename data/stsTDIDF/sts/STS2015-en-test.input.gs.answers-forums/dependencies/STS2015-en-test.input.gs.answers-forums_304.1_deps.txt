@@ -1,0 +1,16 @@
+expl	is	There
+root	ROOT	is
+det	reason	NO
+amod	reason	good
+nsubj	is	reason
+case	failure	for
+det	failure	the
+nmod:for	reason	failure
+mark	implement	to
+acl	failure	implement
+compound	plays	video
+dobj	implement	plays
+case	soccer	in
+amod	soccer	professional
+nmod:in	plays	soccer
+punct	is	.

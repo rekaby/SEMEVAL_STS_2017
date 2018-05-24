@@ -1,0 +1,9 @@
+nummod	boys	Two
+amod	boys	young
+nsubj	hold	boys
+root	ROOT	hold
+det	man	a
+nmod:poss	hands	man
+case	man	's
+dobj	hold	hands
+punct	hold	.

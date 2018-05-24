@@ -1,0 +1,9 @@
+completes	He	nsubj
+moves	arts	compound
+completes	set	dobj
+moves	of	case
+set	moves	nmod:of
+ROOT	completes	root
+completes	.	punct
+moves	martial	amod
+completes	successfully	advmod

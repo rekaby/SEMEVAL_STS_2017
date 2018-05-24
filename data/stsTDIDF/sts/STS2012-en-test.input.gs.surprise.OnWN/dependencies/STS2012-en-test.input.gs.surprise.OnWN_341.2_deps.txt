@@ -1,0 +1,14 @@
+root	ROOT	turn
+cc	turn	or
+conj:or	turn	go
+case	port	to
+det	port	the
+nmod:to	go	port
+cc	port	or
+amod	side	left
+conj:or	port	side
+punct	turn	,
+case	ship	of
+det	ship	a
+nmod:of	turn	ship
+punct	turn	.

@@ -1,0 +1,14 @@
+mark	derive	To
+advcl	begin	derive
+det	theorem	the
+dobj	derive	theorem
+punct	begin	,
+nsubj	begin	we
+root	ROOT	begin
+case	definition	with
+det	definition	the
+nmod:with	begin	definition
+case	probability	of
+amod	probability	conditional
+nmod:of	definition	probability
+punct	begin	.

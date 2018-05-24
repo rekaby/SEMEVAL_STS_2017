@@ -1,0 +1,10 @@
+compound	shares	Boeing
+compound	shares	Co
+nsubj	increased	shares
+root	ROOT	increased
+nummod	%	1.5
+dobj	increased	%
+case	$	to
+nmod:to	increased	$
+nummod	$	67.94
+punct	increased	.

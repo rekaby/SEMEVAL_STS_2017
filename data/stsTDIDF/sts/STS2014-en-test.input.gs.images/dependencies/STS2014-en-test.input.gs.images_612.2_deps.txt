@@ -1,0 +1,11 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	shearing
+det	sheep	a
+amod	sheep	white
+dobj	shearing	sheep
+case	stall	in
+det	stall	a
+amod	stall	wooden
+nmod:in	shearing	stall
+punct	women	.

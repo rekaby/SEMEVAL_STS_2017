@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	cross	people
+root	ROOT	cross
+det	street	the
+dobj	cross	street
+case	ambulance	in
+mwe	in	front
+mwe	in	of
+det	ambulance	an
+nmod:in_front_of	cross	ambulance
+punct	cross	.

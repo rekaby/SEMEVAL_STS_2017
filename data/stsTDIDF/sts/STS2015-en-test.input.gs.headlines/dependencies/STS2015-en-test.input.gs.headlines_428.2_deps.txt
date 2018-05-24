@@ -1,0 +1,6 @@
+compound	collapse	Bangladesh
+compound	collapse	garment
+compound	collapse	factory
+nsubj	kills	collapse
+root	ROOT	kills
+dobj	kills	149

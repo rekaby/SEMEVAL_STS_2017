@@ -1,0 +1,11 @@
+det	government	neither
+nsubj	impose	government
+cc	government	nor
+conj:nor	government	people
+aux	impose	should
+root	ROOT	impose
+nmod:poss	values	their
+dobj	impose	values
+case	anyone	on
+nmod:on	impose	anyone
+punct	impose	.

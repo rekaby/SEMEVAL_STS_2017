@@ -1,0 +1,8 @@
+det	band	The
+nsubj	performing	band
+aux	performing	is
+root	ROOT	performing
+case	stage	on
+det	stage	a
+nmod:on	performing	stage
+punct	performing	.

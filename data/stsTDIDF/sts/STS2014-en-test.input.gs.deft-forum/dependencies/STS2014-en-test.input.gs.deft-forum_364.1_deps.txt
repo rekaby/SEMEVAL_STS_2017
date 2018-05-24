@@ -1,0 +1,7 @@
+nsubj	fault	It
+cop	fault	is
+det	fault	all
+nmod:poss	fault	Bush
+case	Bush	's
+root	ROOT	fault
+punct	fault	.

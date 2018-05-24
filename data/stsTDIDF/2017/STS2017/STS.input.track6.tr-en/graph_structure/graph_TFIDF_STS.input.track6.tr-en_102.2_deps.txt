@@ -1,0 +1,6 @@
+gives	concert	dobj
+cheers	crowd	nsubj
+cheers	while	mark
+gives	cheers	advcl
+cheers	them	nmod:at
+gives	group	nsubj

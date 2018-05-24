@@ -1,0 +1,9 @@
+root	ROOT	Man
+case	knife	with
+nmod:with	Man	knife
+acl	knife	arrested
+case	entrance	at
+nmod:at	arrested	entrance
+case	Palace	to
+compound	Palace	Buckingham
+nmod:to	entrance	Palace

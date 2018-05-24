@@ -1,0 +1,8 @@
+det	Eyes	All
+nsubj	Set	Eyes
+case	Capriles	on
+nmod:on	Eyes	Capriles
+case	Election	as
+compound	Election	Venezuela
+nmod:as	Capriles	Election
+root	ROOT	Set

@@ -1,0 +1,6 @@
+root	ROOT	Mandela
+mark	spend	to
+acl	Mandela	spend
+dobj	spend	Christmas
+case	hospital	in
+nmod:in	spend	hospital

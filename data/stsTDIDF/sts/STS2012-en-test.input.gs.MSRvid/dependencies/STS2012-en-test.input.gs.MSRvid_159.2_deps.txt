@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	boiling	woman
+aux	boiling	is
+root	ROOT	boiling
+dobj	boiling	noodles
+case	water	in
+nmod:in	boiling	water
+punct	boiling	.

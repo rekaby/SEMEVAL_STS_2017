@@ -1,0 +1,11 @@
+nsubj	taking	He
+aux	taking	is
+root	ROOT	taking
+det	diaper	the
+dobj	taking	diaper
+compound:prt	taking	off
+mark	uncomfortable	because
+nsubj	uncomfortable	he
+cop	uncomfortable	is
+advcl	taking	uncomfortable
+punct	taking	.

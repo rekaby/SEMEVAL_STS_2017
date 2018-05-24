@@ -1,0 +1,17 @@
+root	ROOT	Pictures
+case	Day	of
+det	Day	the
+nmod:of	Pictures	Day
+punct	Day	:
+dep	Day	Pakistan
+punct	Pakistan	,
+conj:and	Pakistan	Syria
+punct	Pakistan	,
+conj:and	Pakistan	Indonesia
+punct	Pakistan	,
+conj:and	Pakistan	Germany
+punct	Pakistan	,
+conj:and	Pakistan	Phillipines
+cc	Pakistan	and
+conj:and	Pakistan	Mali
+punct	Pictures	.

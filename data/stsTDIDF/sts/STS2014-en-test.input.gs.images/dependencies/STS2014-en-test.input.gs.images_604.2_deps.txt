@@ -1,0 +1,13 @@
+det	train	A
+amod	train	red
+cc	red	and
+conj:and	red	gray
+nsubj	travels	train
+root	ROOT	travels
+case	tunnel	through
+det	tunnel	a
+nmod:through	travels	tunnel
+case	trees	amongst
+det	trees	the
+nmod:amongst	tunnel	trees
+punct	travels	.

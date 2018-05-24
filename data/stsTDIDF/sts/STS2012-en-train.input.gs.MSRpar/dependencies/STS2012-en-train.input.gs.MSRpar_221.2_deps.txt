@@ -1,0 +1,23 @@
+det	Standard	The
+amod	Standard	broad
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+root	ROOT	Index
+punct	Index	.-9) nsubj(shed-2, SPX
+root	ROOT	shed
+dobj	shed	0.17
+case	point	of
+det	point	a
+nmod:of	0.17	point
+punct	0.17	,
+cc	0.17	or
+advmod	0.02	just
+nummod	percent	0.02
+conj:or	0.17	percent
+punct	0.17	,
+case	934	to
+nmod:to	shed	934
+punct	shed	.

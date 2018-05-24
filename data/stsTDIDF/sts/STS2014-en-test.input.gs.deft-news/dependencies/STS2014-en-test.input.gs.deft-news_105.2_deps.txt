@@ -1,0 +1,8 @@
+det	official	the
+nsubj	spoke	official
+root	ROOT	spoke
+case	condition	on
+nmod:on	spoke	condition
+case	anonymity	of
+nmod:of	condition	anonymity
+punct	spoke	.

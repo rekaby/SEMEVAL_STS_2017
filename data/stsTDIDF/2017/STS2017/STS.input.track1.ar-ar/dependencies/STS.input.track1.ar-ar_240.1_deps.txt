@@ -1,0 +1,6 @@
+root	ROOT	Biker
+case	shop	in
+det	shop	the
+compound	shop	bike
+nmod:in	Biker	shop
+punct	Biker	.

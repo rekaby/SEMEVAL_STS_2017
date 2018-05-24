@@ -1,0 +1,12 @@
+punct	No	-
+compound	No	CryptoLutheran
+root	ROOT	No
+punct	No	.-4) nsubj(have-2, We
+root	ROOT	have
+det	Christian	a
+dobj	have	Christian
+case	office	in
+nmod:in	Christian	office
+advmod	now	right
+advmod	Christian	now
+punct	have	.

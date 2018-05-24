@@ -1,0 +1,8 @@
+nsubj	find	Jurors
+root	ROOT	find
+compound	Arias	Jodi
+nsubj	eligible	Arias
+xcomp	find	eligible
+case	penalty	for
+compound	penalty	death
+nmod:for	eligible	penalty

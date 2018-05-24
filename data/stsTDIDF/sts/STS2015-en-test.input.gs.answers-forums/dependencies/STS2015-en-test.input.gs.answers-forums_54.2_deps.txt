@@ -1,0 +1,14 @@
+nsubj	boil	I
+aux	boil	do
+neg	boil	n't
+root	ROOT	boil
+dobj	boil	eggs
+advmod	boil	enough
+mark	keep	to
+xcomp	enough	keep
+det	feel	a
+dobj	keep	feel
+case	timing	for
+det	timing	the
+nmod:for	feel	timing
+punct	boil	...

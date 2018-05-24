@@ -1,0 +1,12 @@
+det	bird	A
+amod	bird	white
+root	ROOT	bird
+case	legs	with
+amod	legs	long
+amod	legs	orange
+nmod:with	bird	legs
+acl	legs	standing
+case	lake	by
+det	lake	a
+nmod:by	standing	lake
+punct	bird	.

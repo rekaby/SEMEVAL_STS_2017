@@ -1,0 +1,9 @@
+nsubj	leads	Romney
+root	ROOT	leads
+dobj	leads	rivals
+punct	leads	,
+neg	Obama	not
+dep	leads	Obama
+punct	Obama	,
+case	fundraising	in
+nmod:in	Obama	fundraising

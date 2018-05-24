@@ -1,0 +1,13 @@
+det	children	The
+nsubj	running	children
+aux	running	are
+root	ROOT	running
+case	snow	in
+det	snow	the
+nmod:in	running	snow
+case	fences	with
+nmod:with	snow	fences
+case	background	in
+det	background	the
+nmod:in	fences	background
+punct	running	.

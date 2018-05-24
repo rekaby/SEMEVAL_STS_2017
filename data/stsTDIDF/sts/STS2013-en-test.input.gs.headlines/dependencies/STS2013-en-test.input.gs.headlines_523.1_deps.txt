@@ -1,0 +1,7 @@
+compound	players	Penn
+compound	players	State
+compound	players	football
+nsubj	react	players
+root	ROOT	react
+case	sanctions	to
+nmod:to	react	sanctions

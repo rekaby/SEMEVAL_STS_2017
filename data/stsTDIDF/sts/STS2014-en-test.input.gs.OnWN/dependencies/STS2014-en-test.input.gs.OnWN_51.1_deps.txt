@@ -1,0 +1,13 @@
+punct	abstract	-LRB-
+dep	characterize	abstract
+punct	abstract	-RRB-
+root	ROOT	characterize
+punct	characterize	,
+conj	characterize	commemorate
+punct	characterize	,
+conj	characterize	make
+xcomp	make	special
+punct	respectful	-LRB-
+cc	respectful	or
+dep	special	respectful
+punct	respectful	-RRB-

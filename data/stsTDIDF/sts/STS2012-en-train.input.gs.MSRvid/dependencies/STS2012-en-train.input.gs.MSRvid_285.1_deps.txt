@@ -1,0 +1,9 @@
+det	person	A
+nsubj	walking	person
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	path	a
+compound	path	stone
+dobj	walking	path
+punct	walking	.

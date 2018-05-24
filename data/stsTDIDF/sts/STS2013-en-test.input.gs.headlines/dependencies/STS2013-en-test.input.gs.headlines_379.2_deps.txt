@@ -1,0 +1,9 @@
+root	ROOT	Tennis
+punct	Tennis	:
+nsubj	defeats	Nadal
+dep	Tennis	defeats
+dobj	defeats	Djokovic
+case	Carlo	for
+compound	Carlo	Monte
+nmod:for	defeats	Carlo
+nmod:tmod	defeats	title

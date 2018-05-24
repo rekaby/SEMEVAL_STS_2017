@@ -1,0 +1,11 @@
+nsubj	disagree	I
+root	ROOT	disagree
+case	Bruce	with
+compound	Bruce	Josh
+nmod:with	disagree	Bruce
+case	some	on
+nmod:on	disagree	some
+case	tips	of
+nmod:poss	tips	his
+nmod:of	some	tips
+punct	disagree	.

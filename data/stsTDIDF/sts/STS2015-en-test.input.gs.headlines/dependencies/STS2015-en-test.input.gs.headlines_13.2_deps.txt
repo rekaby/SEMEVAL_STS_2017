@@ -1,0 +1,7 @@
+amod	Diplomats	Top
+nsubj	Discuss	Diplomats
+root	ROOT	Discuss
+nmod:poss	Program	Iran
+case	Iran	's
+amod	Program	Nuclear
+dobj	Discuss	Program

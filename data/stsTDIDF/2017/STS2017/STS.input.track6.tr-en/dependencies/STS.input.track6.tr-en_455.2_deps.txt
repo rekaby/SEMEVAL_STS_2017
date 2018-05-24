@@ -1,0 +1,10 @@
+nummod	people	Three
+nsubj	driving	people
+aux	driving	are
+root	ROOT	driving
+dobj	driving	motorcycles
+case	road	on
+det	road	the
+amod	road	open
+nmod:on	driving	road
+punct	driving	.

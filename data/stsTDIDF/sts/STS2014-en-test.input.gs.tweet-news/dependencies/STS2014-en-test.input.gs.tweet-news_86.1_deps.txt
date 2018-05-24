@@ -1,0 +1,13 @@
+amod	official	Indonesian
+root	ROOT	official
+punct	official	:
+compound	victims	Rape
+nsubj	enjoy	victims
+dep	official	enjoy
+nsubj	hell	it
+amod	hell	Oh
+dobj	enjoy	hell
+dobj	do	no
+nsubj	do	they
+acl:relcl	hell	do
+neg	do	n't

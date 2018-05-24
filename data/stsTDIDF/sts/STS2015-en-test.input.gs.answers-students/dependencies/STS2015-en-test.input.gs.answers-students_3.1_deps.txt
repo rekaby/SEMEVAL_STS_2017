@@ -1,0 +1,13 @@
+root	ROOT	because
+nsubj	because	bulb
+nsubjpass	contained	a
+auxpass	contained	is
+acl:relcl	bulb	contained
+case	path	within
+det	path	the
+amod	path	same
+amod	path	closed
+nmod:within	contained	path
+case	battery	as
+det	battery	the
+nmod:as	contained	battery

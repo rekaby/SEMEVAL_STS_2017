@@ -1,0 +1,8 @@
+compound	tourist	US
+nsubj	gang-raped	tourist
+root	ROOT	gang-raped
+case	India	in
+amod	India	northern
+nmod:in	gang-raped	India
+punct	gang-raped	:
+dep	gang-raped	Police

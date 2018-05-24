@@ -1,0 +1,9 @@
+cruising	.	punct
+cruising	is	aux
+cruising	sunshine	nmod:in
+cruising	man	nsubj
+ROOT	cruising	root
+man	sharp	amod
+sunshine	the	det
+man	looking	amod
+sunshine	in	case

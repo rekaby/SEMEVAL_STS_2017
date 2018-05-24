@@ -1,0 +1,4 @@
+sleepover	a	det
+having	group	nsubj
+having	sleepover	dobj
+group	kids	nmod:of

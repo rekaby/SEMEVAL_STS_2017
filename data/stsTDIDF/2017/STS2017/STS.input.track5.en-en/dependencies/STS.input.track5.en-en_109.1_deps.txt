@@ -1,0 +1,8 @@
+det	person	A
+nsubj	scaling	person
+aux	scaling	is
+root	ROOT	scaling
+det	wall	a
+compound	wall	rock
+dobj	scaling	wall
+punct	scaling	.

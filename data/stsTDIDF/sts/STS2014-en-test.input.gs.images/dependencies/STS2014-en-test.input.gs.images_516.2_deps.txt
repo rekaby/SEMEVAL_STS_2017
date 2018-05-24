@@ -1,0 +1,13 @@
+det	kitchen	A
+amod	kitchen	small
+root	ROOT	kitchen
+cc	kitchen	and
+det	table	a
+amod	table	cluttered
+conj:and	kitchen	table
+case	cloth	with
+det	cloth	a
+amod	cloth	blue
+compound	cloth	table
+nmod:with	table	cloth
+punct	kitchen	.

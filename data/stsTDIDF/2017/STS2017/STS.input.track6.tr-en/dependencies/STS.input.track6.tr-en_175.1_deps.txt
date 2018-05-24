@@ -1,0 +1,12 @@
+nummod	bicyclists	Two
+nsubj	running	bicyclists
+aux	running	are
+root	ROOT	running
+case	hill	over
+det	hill	a
+nmod:over	running	hill
+mark	carrying	while
+advcl	running	carrying
+nmod:poss	bicycles	their
+dobj	carrying	bicycles
+punct	running	.

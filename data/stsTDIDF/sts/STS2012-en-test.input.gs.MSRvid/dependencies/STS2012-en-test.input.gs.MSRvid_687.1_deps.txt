@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	robot	cat
+cop	robot	is
+case	robot	on
+det	robot	a
+root	ROOT	robot
+punct	robot	.

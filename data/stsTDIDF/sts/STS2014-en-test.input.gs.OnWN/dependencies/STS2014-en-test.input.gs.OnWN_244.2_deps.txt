@@ -1,0 +1,7 @@
+root	ROOT	force
+mark	go	to
+acl	force	go
+advmod	go	away
+case	blinking	by
+nmod:by	go	blinking
+punct	force	.

@@ -1,0 +1,14 @@
+amod	koizumi	japanese
+amod	koizumi	prime
+compound	koizumi	minister
+compound	koizumi	junichiro
+nsubj	said	koizumi
+root	ROOT	said
+det	shift	the
+nsubj	proactive	shift
+case	rods	of
+det	rods	the
+nmod:of	shift	rods
+cop	proactive	was
+ccomp	said	proactive
+punct	said	.

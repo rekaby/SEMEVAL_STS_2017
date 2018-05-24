@@ -1,0 +1,9 @@
+nsubj	Hails	France
+root	ROOT	Hails
+dobj	Hails	Breakthrough
+case	Deal	after
+compound	Deal	U.S.-Russia
+nmod:after	Hails	Deal
+case	Syria	on
+nmod:on	Deal	Syria
+dobj	Hails	Weapons

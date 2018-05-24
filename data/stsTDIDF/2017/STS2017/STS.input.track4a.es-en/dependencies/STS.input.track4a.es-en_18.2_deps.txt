@@ -1,0 +1,11 @@
+det	musician	The
+nsubj	have	musician
+root	ROOT	have
+det	guitar	a
+dobj	have	guitar
+cc	have	and
+aux	waiting	is
+conj:and	have	waiting
+mark	perform	to
+xcomp	waiting	perform
+punct	have	.

@@ -1,0 +1,17 @@
+nsubj	have	LOL
+aux	have	Do
+neg	have	n't
+nsubj	have	you
+root	ROOT	have
+mark	take	to
+xcomp	have	take
+det	test	a
+dobj	take	test
+mark	drive	to
+advcl	take	drive
+det	vehicle	a
+dobj	drive	vehicle
+case	US	in
+det	US	the
+nmod:in	drive	US
+punct	have	?

@@ -1,0 +1,7 @@
+nsubj	meets	Queen
+root	ROOT	meets
+nmod:poss	prince	Britain
+case	Britain	's
+amod	prince	new
+compound	prince	baby
+dobj	meets	prince

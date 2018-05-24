@@ -1,0 +1,17 @@
+compound	Gillespie	Republican
+compound	Gillespie	National
+compound	Gillespie	Committee
+compound	Gillespie	Chairman
+compound	Gillespie	Ed
+nsubj	issued	Gillespie
+root	ROOT	issued
+det	letter	a
+dobj	issued	letter
+nmod:tmod	issued	Friday
+case	Moonves	to
+compound	Moonves	CBS
+compound	Moonves	Television
+compound	Moonves	President
+compound	Moonves	Leslie
+nmod:to	issued	Moonves
+punct	issued	.

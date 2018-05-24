@@ -1,0 +1,8 @@
+nummod	puppies	Two
+root	ROOT	puppies
+acl	puppies	playing
+case	bag	with
+det	bag	a
+amod	bag	plastic
+nmod:with	playing	bag
+punct	puppies	.

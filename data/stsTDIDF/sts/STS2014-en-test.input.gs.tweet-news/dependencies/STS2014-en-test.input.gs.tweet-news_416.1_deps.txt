@@ -1,0 +1,13 @@
+amod	#outsources	#coder
+nsubj	own	#outsources
+csubjpass	fired	own
+dobj	own	job
+mark	#china	to
+advcl	own	#china
+case	#profit	for
+det	#profit	a
+nmod:for	#china	#profit
+punct	own	,
+auxpass	fired	gets
+root	ROOT	fired
+punct	fired	.

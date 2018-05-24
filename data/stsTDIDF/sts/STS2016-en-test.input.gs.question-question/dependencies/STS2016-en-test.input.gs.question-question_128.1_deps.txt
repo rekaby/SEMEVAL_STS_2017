@@ -1,0 +1,9 @@
+advmod	remove	How
+aux	remove	can
+nsubj	remove	I
+root	ROOT	remove
+det	screw	a
+advmod	stuck	really
+amod	screw	stuck
+dobj	remove	screw
+punct	remove	?

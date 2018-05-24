@@ -1,0 +1,6 @@
+nummod	people	four
+nsubj	walk	people
+root	ROOT	walk
+case	tower	toward
+det	tower	a
+nmod:toward	walk	tower

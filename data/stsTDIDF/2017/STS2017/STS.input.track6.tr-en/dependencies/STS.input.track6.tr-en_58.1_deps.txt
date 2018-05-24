@@ -1,0 +1,10 @@
+det	group	The
+nsubj	wait	group
+case	people	of
+nmod:of	group	people
+root	ROOT	wait
+mark	cross	to
+xcomp	wait	cross
+det	road	the
+dobj	cross	road
+punct	wait	.

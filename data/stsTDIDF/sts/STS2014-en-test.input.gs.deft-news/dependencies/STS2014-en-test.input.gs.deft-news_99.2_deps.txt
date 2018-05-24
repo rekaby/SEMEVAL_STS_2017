@@ -1,0 +1,10 @@
+nsubj	denies	syria
+root	ROOT	denies
+det	existence	the
+dobj	denies	existence
+case	program	of
+det	program	an
+amod	program	undeclared
+amod	program	nuclear
+nmod:of	existence	program
+punct	denies	.

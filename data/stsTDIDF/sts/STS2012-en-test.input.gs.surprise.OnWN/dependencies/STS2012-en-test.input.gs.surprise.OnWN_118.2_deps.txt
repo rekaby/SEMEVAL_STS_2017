@@ -1,0 +1,4 @@
+root	ROOT	preserve
+case	sugar	with
+nmod:with	preserve	sugar
+punct	preserve	.

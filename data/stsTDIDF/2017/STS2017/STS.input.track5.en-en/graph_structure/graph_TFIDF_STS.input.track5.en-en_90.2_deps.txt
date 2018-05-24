@@ -1,0 +1,10 @@
+smiling	.	punct
+smiling	Two	nsubj
+playing	fountain	nmod:in
+fountain	people	nmod:with
+fountain	in	case
+fountain	a	det
+ROOT	smiling	root
+smiling	girls	dobj
+girls	playing	acl
+girls	little	amod

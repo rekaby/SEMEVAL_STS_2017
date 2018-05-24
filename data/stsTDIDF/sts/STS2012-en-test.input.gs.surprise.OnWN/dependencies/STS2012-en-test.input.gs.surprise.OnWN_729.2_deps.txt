@@ -1,0 +1,9 @@
+root	ROOT	take
+compound:prt	take	away
+det	part	a
+amod	part	vital
+cc	vital	or
+conj:or	vital	essential
+dobj	take	part
+acl	part	of
+punct	take	.

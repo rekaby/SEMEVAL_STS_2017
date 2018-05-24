@@ -1,0 +1,6 @@
+amod	woman	Blond
+root	ROOT	woman
+case	tunnel	in
+det	tunnel	a
+nmod:in	woman	tunnel
+punct	woman	.

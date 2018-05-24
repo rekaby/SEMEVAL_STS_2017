@@ -1,0 +1,10 @@
+det	bag	A
+root	ROOT	bag
+case	cotton	of
+nmod:of	bag	cotton
+case	couch	in
+mwe	in	front
+mwe	in	of
+det	couch	a
+nmod:in_front_of	bag	couch
+punct	bag	.

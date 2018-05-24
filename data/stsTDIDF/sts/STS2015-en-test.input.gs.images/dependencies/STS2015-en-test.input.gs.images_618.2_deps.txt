@@ -1,0 +1,7 @@
+det	snowboarder	A
+nsubj	flies	snowboarder
+root	ROOT	flies
+case	air	through
+det	air	the
+nmod:through	flies	air
+punct	flies	.

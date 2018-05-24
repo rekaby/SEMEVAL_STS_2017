@@ -1,0 +1,6 @@
+amod	activist	Palestinian
+root	ROOT	activist
+acl	activist	detained
+case	raid	in
+amod	raid	Israeli
+nmod:in	detained	raid

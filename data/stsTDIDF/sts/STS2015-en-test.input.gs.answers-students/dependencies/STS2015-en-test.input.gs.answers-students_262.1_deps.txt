@@ -1,0 +1,7 @@
+det	bulb	the
+nsubj	has	bulb
+advmod	has	only
+root	ROOT	has
+nummod	terminal	one
+dobj	has	terminal
+dep	terminal	connected

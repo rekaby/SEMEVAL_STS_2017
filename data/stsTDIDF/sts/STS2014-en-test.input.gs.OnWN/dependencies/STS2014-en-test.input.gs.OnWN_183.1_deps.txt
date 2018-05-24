@@ -1,0 +1,16 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+case	separate	to
+punct	separate	-RRB-
+nmod:to	Cause	separate
+case	constituents	into
+nmod:into	separate	constituents
+punct	Cause	,
+conj:or	Cause	weaken
+punct	Cause	,
+cc	Cause	or
+conj:or	Cause	destroy
+advmod	destroy	specifically
+mark	soaking	by
+advcl	destroy	soaking
+punct	Cause	.

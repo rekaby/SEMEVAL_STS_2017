@@ -1,0 +1,6 @@
+det	children	The
+nsubj	reading	children
+aux	reading	are
+root	ROOT	reading
+advmod	reading	silently
+punct	reading	.

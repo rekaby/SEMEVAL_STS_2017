@@ -1,0 +1,7 @@
+ROOT	buried	root
+buried	is	auxpass
+sand	the	det
+buried	.	punct
+buried	man	nsubjpass
+sand	in	case
+buried	sand	nmod:in

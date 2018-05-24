@@ -1,0 +1,12 @@
+rail	a	det
+snowboarder	A	det
+snowboarder	green	nmod:in
+rail	of	case
+grinds	snowboarder	nsubj
+grinds	night	nmod:at
+edge	rail	nmod:of
+ROOT	grinds	root
+green	in	case
+grinds	.	punct
+edge	along	case
+grinds	edge	nmod:along

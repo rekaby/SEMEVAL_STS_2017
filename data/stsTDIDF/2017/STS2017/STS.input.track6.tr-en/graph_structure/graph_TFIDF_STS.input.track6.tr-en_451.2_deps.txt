@@ -1,0 +1,7 @@
+reporter	backstage	advmod
+ROOT	interviewing	root
+interviewing	group	nsubj
+interviewing	.	punct
+reporter	news	compound
+interviewing	reporter	dobj
+interviewing	is	aux

@@ -1,0 +1,8 @@
+nsubj	wrong	What
+cop	wrong	is
+root	ROOT	wrong
+case	furnace	with
+nmod:poss	furnace	my
+compound	furnace	gas
+nmod:with	wrong	furnace
+punct	wrong	?

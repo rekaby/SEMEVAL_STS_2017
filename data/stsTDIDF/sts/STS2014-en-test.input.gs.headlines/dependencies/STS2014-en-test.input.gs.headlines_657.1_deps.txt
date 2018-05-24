@@ -1,0 +1,9 @@
+root	ROOT	two
+acl	two	found
+xcomp	found	dead
+case	pool	in
+amod	pool	swimming
+nmod:in	dead	pool
+case	hotel	at
+compound	hotel	essex
+nmod:at	dead	hotel

@@ -1,0 +1,11 @@
+nsubj	asked	I
+advmod	asked	then
+root	ROOT	asked
+punct	asked	:
+dobj	trying	What
+aux	trying	are
+nsubj	trying	they
+ccomp	asked	trying
+mark	hide	to
+xcomp	trying	hide
+punct	asked	?

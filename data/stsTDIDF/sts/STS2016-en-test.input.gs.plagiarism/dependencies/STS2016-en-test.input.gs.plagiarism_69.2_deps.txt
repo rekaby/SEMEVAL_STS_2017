@@ -1,0 +1,13 @@
+nmod:poss	theorem	Bayes
+case	Bayes	'
+nsubj	useful	theorem
+cop	useful	is
+root	ROOT	useful
+mark	evaluating	in
+advcl	useful	evaluating
+det	result	the
+dobj	evaluating	result
+case	tests	of
+compound	tests	drug
+nmod:of	result	tests
+punct	useful	.

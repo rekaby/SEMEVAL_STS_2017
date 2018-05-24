@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	reading	woman
+root	ROOT	reading
+mark	waiting	while
+advcl	reading	waiting
+case	train	for
+det	train	a
+nmod:for	waiting	train
+punct	reading	.

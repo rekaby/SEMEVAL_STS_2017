@@ -1,0 +1,15 @@
+nmod:poss	recommendation	My
+nsubj	say	recommendation
+aux	say	is
+neg	say	not
+mark	say	to
+root	ROOT	say
+dobj	say	anything
+punct	say	,
+cc	say	and
+conj:and	say	do
+det	best	the
+dobj	do	best
+nsubj	can	you
+acl:relcl	best	can
+punct	say	.

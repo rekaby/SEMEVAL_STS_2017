@@ -1,0 +1,7 @@
+compound	chief	New
+compound	chief	Syria
+compound	chief	opposition
+nsubj	wants	chief
+root	ROOT	wants
+amod	aid	no-strings
+dobj	wants	aid

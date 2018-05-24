@@ -1,0 +1,5 @@
+sitting	fruit	nmod:near
+sitting	lady	nsubj
+lady	The	det
+fruit	near	case
+fruit	the	det

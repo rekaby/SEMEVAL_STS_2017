@@ -1,0 +1,7 @@
+det	hamster	A
+nsubj	eating	hamster
+aux	eating	is
+root	ROOT	eating
+det	seeds	some
+dobj	eating	seeds
+punct	eating	.

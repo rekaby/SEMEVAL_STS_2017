@@ -1,0 +1,4 @@
+root	ROOT	put
+det	harness	a
+dobj	put	harness
+punct	put	.

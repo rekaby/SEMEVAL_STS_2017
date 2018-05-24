@@ -1,0 +1,10 @@
+nummod	people	Two
+nsubj	course	people
+cop	course	are
+case	course	on
+det	course	a
+compound	course	golf
+root	ROOT	course
+acl	course	playing
+dobj	playing	golf
+punct	course	.

@@ -1,0 +1,7 @@
+compound	cat	Tan
+amod	cat	domestic
+root	ROOT	cat
+case	tarp	under
+amod	tarp	black
+nmod:under	cat	tarp
+punct	cat	.

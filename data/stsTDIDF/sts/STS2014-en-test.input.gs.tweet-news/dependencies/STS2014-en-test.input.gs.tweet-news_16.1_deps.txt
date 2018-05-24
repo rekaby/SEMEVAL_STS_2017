@@ -1,0 +1,14 @@
+root	ROOT	So
+det	company	the
+nsubj	mad	company
+dep	So	mad
+punct	mad	,
+cop	this	is
+neg	this	n't
+dep	mad	this
+dobj	doing	what
+amod	companies	most
+nsubj	doing	companies
+aux	doing	are
+acl:relcl	this	doing
+punct	So	?

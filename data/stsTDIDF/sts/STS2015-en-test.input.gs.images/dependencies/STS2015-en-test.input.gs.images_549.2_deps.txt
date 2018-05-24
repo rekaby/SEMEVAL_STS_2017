@@ -1,0 +1,13 @@
+nummod	ladies	Two
+nsubj	pose	ladies
+case	clothes	in
+amod	clothes	skimpy
+nmod:in	ladies	clothes
+root	ROOT	pose
+case	car	next
+mwe	next	to
+det	car	an
+amod	car	old
+amod	car	fashioned
+nmod:next_to	pose	car
+punct	pose	.

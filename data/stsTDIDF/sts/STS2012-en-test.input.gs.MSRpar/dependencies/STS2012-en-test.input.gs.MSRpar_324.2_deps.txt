@@ -1,0 +1,14 @@
+compound	Rehnquist	Chief
+compound	Rehnquist	Justice
+compound	Rehnquist	William
+compound	Rehnquist	H.
+nsubj	dissented	Rehnquist
+cc	Rehnquist	and
+compound	Scalia	Justices
+compound	Scalia	Antonin
+conj:and	Rehnquist	Scalia
+cc	Scalia	and
+compound	Thomas	Clarence
+conj:and	Scalia	Thomas
+root	ROOT	dissented
+punct	dissented	.

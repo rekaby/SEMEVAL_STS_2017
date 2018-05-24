@@ -1,0 +1,10 @@
+laundry	the	det
+basket	a	det
+basket	out	case
+man	laundry	nmod:in
+about	man	nsubj
+bag	blue	amod
+laundry	in	case
+take	basket	nmod:out_of
+bag	his	nmod:poss
+take	bag	dobj

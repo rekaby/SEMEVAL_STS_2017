@@ -1,0 +1,12 @@
+nsubj	statement	It
+cop	statement	is
+det	statement	a
+root	ROOT	statement
+case	support	of
+amod	support	bipartisan
+nmod:of	statement	support
+case	aspirations	for
+nmod:poss	aspirations	their
+amod	aspirations	democratic
+nmod:for	support	aspirations
+punct	statement	.

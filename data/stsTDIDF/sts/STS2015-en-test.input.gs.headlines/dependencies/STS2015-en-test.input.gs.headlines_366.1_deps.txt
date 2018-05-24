@@ -1,0 +1,8 @@
+root	ROOT	20
+acl	20	killed
+case	attack	in
+compound	attack	bomb
+nmod:in	killed	attack
+case	base	at
+amod	base	Pakistani
+nmod:at	attack	base

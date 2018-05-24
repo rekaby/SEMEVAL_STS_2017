@@ -1,0 +1,8 @@
+det	man	A
+nsubj	pours	man
+root	ROOT	pours
+dobj	pours	liquid
+case	pan	into
+det	pan	a
+nmod:into	pours	pan
+punct	pours	.

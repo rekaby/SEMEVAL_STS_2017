@@ -1,0 +1,14 @@
+nsubj	know	you
+root	ROOT	know
+advmod	feel	how
+nsubj	feel	i
+aux	feel	would
+ccomp	know	feel
+xcomp	feel	supported
+mark	troop	if
+nsubj	troop	i
+cop	troop	was
+det	troop	a
+advcl	supported	troop
+advmod	troop	overseas
+punct	know	?

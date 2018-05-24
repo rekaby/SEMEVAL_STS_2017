@@ -1,0 +1,5 @@
+nsubj	faces	Menendez
+root	ROOT	faces
+amod	charges	possible
+compound	charges	corruption
+dobj	faces	charges

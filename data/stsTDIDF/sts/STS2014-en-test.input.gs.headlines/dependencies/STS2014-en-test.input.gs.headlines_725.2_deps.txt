@@ -1,0 +1,7 @@
+nsubj	denies	Taliban
+root	ROOT	denies
+compound	bombing	involvement
+case	marathon	in
+compound	marathon	Boston
+nmod:in	involvement	marathon
+dobj	denies	bombing

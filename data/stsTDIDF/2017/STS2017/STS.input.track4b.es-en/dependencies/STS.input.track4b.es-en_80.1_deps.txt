@@ -1,0 +1,10 @@
+nsubj	given	Kagan
+aux	given	has
+root	ROOT	given
+neg	indication	no
+dobj	given	indication
+nsubj	do	she
+aux	do	will
+acl:relcl	indication	do
+advmod	do	so
+punct	given	.

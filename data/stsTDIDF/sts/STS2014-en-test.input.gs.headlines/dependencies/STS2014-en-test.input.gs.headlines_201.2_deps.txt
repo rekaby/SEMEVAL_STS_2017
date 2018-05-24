@@ -1,0 +1,10 @@
+case	least	At
+nmod:npmod	28	least
+nummod	people	28
+nsubj	die	people
+root	ROOT	die
+case	mine	in
+amod	mine	Chinese
+compound	mine	coal
+nmod:in	die	mine
+dobj	die	explosion

@@ -1,0 +1,10 @@
+root	ROOT	put
+det	end	an
+dobj	put	end
+case	state	to
+det	state	a
+nmod:to	put	state
+cc	state	or
+det	activity	an
+conj:or	state	activity
+punct	put	.

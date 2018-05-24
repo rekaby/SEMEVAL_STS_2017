@@ -1,0 +1,7 @@
+root	ROOT	Amnesty
+punct	Amnesty	:
+compound	rebels	Syria
+nsubj	committing	rebels
+advmod	committing	also
+parataxis	Amnesty	committing
+dobj	committing	abuses

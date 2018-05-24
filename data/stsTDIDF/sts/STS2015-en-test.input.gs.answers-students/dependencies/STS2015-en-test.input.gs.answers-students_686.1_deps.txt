@@ -1,0 +1,8 @@
+compound	A	Bulb
+nsubj	path	A
+cop	path	is
+case	path	on
+det	path	a
+amod	path	closed
+compound	path	circut
+root	ROOT	path

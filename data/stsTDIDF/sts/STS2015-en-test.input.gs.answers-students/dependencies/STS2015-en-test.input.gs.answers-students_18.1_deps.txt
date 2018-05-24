@@ -1,0 +1,13 @@
+expl	is	there
+root	ROOT	is
+neg	is	not
+det	terminal	a
+nsubj	is	terminal
+acl	terminal	connected
+case	path	to
+det	path	the
+amod	path	positive
+nmod:to	connected	path
+case	battery	of
+det	battery	the
+nmod:of	path	battery

@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	person	a
+nsubj	is	person
+case	tree	next
+mwe	next	to
+det	tree	the
+nmod:next_to	person	tree
+punct	is	.

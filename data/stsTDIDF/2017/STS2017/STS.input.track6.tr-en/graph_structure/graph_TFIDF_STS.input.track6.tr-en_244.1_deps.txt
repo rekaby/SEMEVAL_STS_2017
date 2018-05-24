@@ -1,0 +1,6 @@
+strolling	casually	advmod
+strolling	bridge	nmod:across
+strolling	People	nsubj
+ROOT	strolling	root
+bridge	across	case
+strolling	.	punct

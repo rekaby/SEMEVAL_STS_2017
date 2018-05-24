@@ -1,0 +1,8 @@
+nsubj	excluded	Iran
+root	ROOT	excluded
+case	talks	from
+compound	talks	Syria
+compound	talks	peace
+nmod:from	excluded	talks
+punct	excluded	:
+dep	excluded	UN

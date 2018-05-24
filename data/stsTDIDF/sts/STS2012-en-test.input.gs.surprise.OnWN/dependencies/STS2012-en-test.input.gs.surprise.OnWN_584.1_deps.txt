@@ -1,0 +1,8 @@
+det	feeling	A
+root	ROOT	feeling
+cc	feeling	or
+conj:or	feeling	state
+case	anger	of
+amod	anger	extreme
+nmod:of	feeling	anger
+punct	feeling	.

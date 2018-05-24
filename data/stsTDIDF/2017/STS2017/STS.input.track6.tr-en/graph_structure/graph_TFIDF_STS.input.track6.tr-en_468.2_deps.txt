@@ -1,0 +1,13 @@
+wear	but	cc
+wear	not	neg
+clothes	her	nmod:poss
+wear	does	aux
+standing	water	nmod:in
+woman	wear	acl:relcl
+woman	dark-skinned	amod
+standing	band	nsubj
+wear	standing	conj:but
+wear	anything	dobj
+water	washing	acl
+washing	clothes	dobj
+wear	who	nsubj

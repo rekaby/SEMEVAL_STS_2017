@@ -1,0 +1,16 @@
+nsubj	circuit	Circuit
+nummod	Circuit	2
+cop	circuit	is
+neg	circuit	not
+det	circuit	a
+amod	circuit	short
+root	ROOT	circuit
+mark	connected	because
+det	battery	the
+nsubjpass	connected	battery
+auxpass	connected	is
+neg	connected	not
+advcl	circuit	connected
+case	itself	to
+nmod:to	connected	itself
+punct	circuit	.

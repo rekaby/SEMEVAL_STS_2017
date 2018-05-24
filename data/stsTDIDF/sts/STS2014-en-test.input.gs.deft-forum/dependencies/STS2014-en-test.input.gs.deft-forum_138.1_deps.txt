@@ -1,0 +1,17 @@
+nsubj	guess	I
+root	ROOT	guess
+nsubj	pulled	I
+ccomp	guess	pulled
+dobj	pulled	it
+case	end	out
+mwe	out	of
+det	census	the
+nmod:poss	end	census
+case	census	's
+amod	end	rear
+nmod:out_of	pulled	end
+case	hat	in
+det	hat	a
+amod	hat	top
+nmod:in	pulled	hat
+punct	guess	.

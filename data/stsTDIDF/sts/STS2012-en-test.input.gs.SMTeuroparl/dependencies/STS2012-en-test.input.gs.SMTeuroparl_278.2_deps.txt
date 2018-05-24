@@ -1,0 +1,14 @@
+nsubj	important	It
+cop	important	is
+root	ROOT	important
+mark	itself	that
+det	Union	the
+compound	Union	European
+nsubj	itself	Union
+ccomp	important	itself
+cc	itself	and
+mark	do	to
+conj:and	itself	do
+dobj	do	it
+advmod	do	quickly
+punct	important	.

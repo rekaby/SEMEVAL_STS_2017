@@ -1,0 +1,15 @@
+amod	article	Interesting
+root	ROOT	article
+case	homepage	on
+det	homepage	the
+compound	homepage	CNN
+nmod:on	article	homepage
+punct	article	.-7) root(ROOT-0, ``
+nsubj	has	Mickleson
+root	``	has
+det	point	a
+dobj	has	point
+case	taxes	on
+nmod:on	point	taxes
+punct	has	.
+punct	has	''

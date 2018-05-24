@@ -1,0 +1,17 @@
+det	man	The
+nsubj	pushes	man
+root	ROOT	pushes
+det	cart	the
+compound	cart	baby
+dobj	pushes	cart
+case	hand	with
+nmod:poss	hand	his
+amod	hand	free
+nmod:with	pushes	hand
+cc	pushes	and
+conj:and	pushes	carries
+dobj	carries	her
+case	market	on
+det	market	the
+nmod:on	her	market
+punct	pushes	.

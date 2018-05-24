@@ -1,0 +1,8 @@
+amod	city	Sectarian
+compound	city	clashes
+compound	city	rock
+amod	city	Lebanese
+nsubj	killed	city
+punct	city	,
+appos	city	3
+root	ROOT	killed

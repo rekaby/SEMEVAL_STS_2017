@@ -1,0 +1,9 @@
+det	man	A
+nsubj	sleeping	man
+aux	sleeping	is
+root	ROOT	sleeping
+case	dog	with
+det	dog	a
+amod	dog	small
+nmod:with	sleeping	dog
+punct	sleeping	.

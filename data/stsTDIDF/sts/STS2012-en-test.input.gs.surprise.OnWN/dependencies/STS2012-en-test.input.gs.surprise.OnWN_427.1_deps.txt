@@ -1,0 +1,9 @@
+root	ROOT	provide
+case	tools	with
+nmod:with	provide	tools
+cc	tools	or
+conj:or	tools	items
+case	purpose	for
+det	purpose	a
+amod	purpose	specific
+nmod:for	tools	purpose

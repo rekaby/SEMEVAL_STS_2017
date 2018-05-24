@@ -1,0 +1,10 @@
+det	bird	A
+nsubj	flapping	bird
+aux	flapping	is
+root	ROOT	flapping
+nmod:poss	wings	its
+dobj	flapping	wings
+case	water	in
+det	water	the
+nmod:in	flapping	water
+punct	flapping	.

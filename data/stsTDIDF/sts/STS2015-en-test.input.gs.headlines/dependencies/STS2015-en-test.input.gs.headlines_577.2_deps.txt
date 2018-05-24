@@ -1,0 +1,8 @@
+amod	Researcher	Top
+compound	Researcher	AIDS
+compound	Crash	Researcher
+amod	Crash	Killed
+case	Plane	in
+compound	Plane	Malaysia
+nmod:in	Killed	Plane
+root	ROOT	Crash

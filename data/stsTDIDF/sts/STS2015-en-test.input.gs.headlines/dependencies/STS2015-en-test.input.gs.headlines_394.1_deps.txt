@@ -1,0 +1,9 @@
+compound	attacks	Bomb
+nsubj	kill	attacks
+root	ROOT	kill
+dobj	kill	20
+case	areas	in
+nmod:poss	areas	Baghdad
+case	Baghdad	's
+amod	areas	Christian
+nmod:in	kill	areas

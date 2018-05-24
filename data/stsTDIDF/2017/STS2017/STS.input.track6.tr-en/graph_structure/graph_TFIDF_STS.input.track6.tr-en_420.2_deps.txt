@@ -1,0 +1,5 @@
+cooking	is	cop
+cooking	kitchen	nmod:in
+cooking	.	punct
+ROOT	cooking	root
+cooking	woman	nsubj

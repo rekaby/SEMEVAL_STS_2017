@@ -1,0 +1,6 @@
+det	person	A
+nsubj	reading	person
+root	ROOT	reading
+det	book	a
+dobj	reading	book
+punct	reading	.

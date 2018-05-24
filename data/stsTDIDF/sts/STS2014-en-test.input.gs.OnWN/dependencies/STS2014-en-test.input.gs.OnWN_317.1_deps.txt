@@ -1,0 +1,7 @@
+root	ROOT	regard
+dobj	regard	something
+amod	something	likely
+cc	likely	or
+conj:or	likely	reasonable
+mark	happen	to
+acl	regard	happen

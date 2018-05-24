@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	look	people
+root	ROOT	look
+compound:prt	look	up
+case	statue	towards
+det	statue	a
+compound	statue	gold
+nmod:towards	look	statue
+punct	look	.

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	cuts	man
+root	ROOT	cuts
+det	melon	a
+dobj	cuts	melon
+punct	cuts	.

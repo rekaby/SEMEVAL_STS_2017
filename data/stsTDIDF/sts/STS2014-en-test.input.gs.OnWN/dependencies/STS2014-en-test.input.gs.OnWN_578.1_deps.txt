@@ -1,0 +1,12 @@
+root	ROOT	turn
+punct	turn	,
+conj:or	turn	twist
+cc	turn	or
+conj:or	turn	fasten
+punct	screw	-LRB-
+mark	screw	as
+mark	screw	if
+punct	screw	-RRB-
+case	screw	with
+det	screw	a
+dep	fasten	screw

@@ -1,0 +1,7 @@
+det	child	A
+nsubj	holds	child
+root	ROOT	holds
+det	balloon	a
+amod	balloon	yellow
+dobj	holds	balloon
+punct	holds	.

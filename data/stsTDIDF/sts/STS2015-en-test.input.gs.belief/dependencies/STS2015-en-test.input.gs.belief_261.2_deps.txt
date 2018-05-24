@@ -1,0 +1,15 @@
+mark	self	if
+nsubj	self	that
+cop	self	is
+neg	self	not
+det	self	a
+root	ROOT	self
+acl	self	made
+compound	i	man
+nsubj	heard	i
+aux	heard	have
+neg	heard	never
+ccomp	made	heard
+case	one	of
+nmod:of	heard	one
+punct	self	.

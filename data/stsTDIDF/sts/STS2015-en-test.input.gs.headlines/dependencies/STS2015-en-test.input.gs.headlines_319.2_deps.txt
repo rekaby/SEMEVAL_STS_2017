@@ -1,0 +1,5 @@
+compound	crew	Sewol
+compound	crew	ferry
+nsubj	faces	crew
+root	ROOT	faces
+dobj	faces	trial

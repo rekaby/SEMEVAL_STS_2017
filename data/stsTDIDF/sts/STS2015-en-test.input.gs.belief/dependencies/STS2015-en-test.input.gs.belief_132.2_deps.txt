@@ -1,0 +1,14 @@
+det	strike	a
+amod	strike	conventional
+nsubj	going	strike
+case	iran	on
+nmod:on	strike	iran
+aux	going	is
+root	ROOT	going
+mark	raise	to
+xcomp	going	raise
+amod	consequences	massive
+amod	consequences	geopolitical
+dobj	raise	consequences
+advmod	raise	too
+punct	going	.

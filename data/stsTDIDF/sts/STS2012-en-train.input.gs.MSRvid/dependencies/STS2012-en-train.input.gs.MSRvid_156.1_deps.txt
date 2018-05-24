@@ -1,0 +1,11 @@
+det	boy	A
+nsubj	dancing	boy
+cc	boy	and
+det	girl	a
+conj:and	boy	girl
+aux	dancing	is
+root	ROOT	dancing
+case	rain	in
+det	rain	the
+nmod:in	dancing	rain
+punct	dancing	.

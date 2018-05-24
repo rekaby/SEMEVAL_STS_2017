@@ -1,0 +1,6 @@
+compound	Arrest	Man
+amod	Arrest	Charged
+case	Palace	After
+compound	Palace	Buckingham
+nmod:after	Charged	Palace
+root	ROOT	Arrest

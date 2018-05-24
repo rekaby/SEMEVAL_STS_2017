@@ -1,0 +1,8 @@
+bicycle	on	case
+ROOT	shirt	root
+shirt	.	punct
+bicycle	a	det
+sitting	bicycle	nmod:on
+shirt	striped	compound
+shirt	Girl	compound
+shirt	sitting	acl

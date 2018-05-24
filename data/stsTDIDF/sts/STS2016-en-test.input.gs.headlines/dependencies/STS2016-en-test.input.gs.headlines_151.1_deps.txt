@@ -1,0 +1,5 @@
+compound	Leone	Sierra
+nsubj	lockdown	Leone
+case	Ebola	in
+nmod:in	Leone	Ebola
+root	ROOT	lockdown

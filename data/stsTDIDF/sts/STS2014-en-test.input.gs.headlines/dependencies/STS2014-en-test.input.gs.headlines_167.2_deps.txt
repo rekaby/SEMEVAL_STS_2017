@@ -1,0 +1,7 @@
+compound	Hall	Stuart
+nsubj	Admits	Hall
+root	ROOT	Admits
+compound	Assaults	Sex
+dobj	Admits	Assaults
+case	Children	On
+nmod:on	Admits	Children

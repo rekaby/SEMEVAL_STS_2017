@@ -1,0 +1,16 @@
+root	ROOT	Feel
+det	fear	the
+dobj	Feel	fear
+punct	Feel	...
+cc	Feel	And
+conj:and	Feel	do
+dobj	do	it
+advmod	recommends	anyway
+det	book	The
+nsubj	recommends	book
+dep	do	recommends
+mark	feel	to
+xcomp	recommends	feel
+det	fear	the
+dobj	feel	fear
+punct	Feel	.

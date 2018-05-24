@@ -1,0 +1,8 @@
+det	man	A
+nsubj	climbs	man
+root	ROOT	climbs
+det	face	a
+amod	face	sheer
+compound	face	cliff
+dobj	climbs	face
+punct	climbs	.

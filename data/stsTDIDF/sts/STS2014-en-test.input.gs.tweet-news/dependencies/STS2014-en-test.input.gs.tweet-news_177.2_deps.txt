@@ -1,0 +1,14 @@
+compound	Million	Swatch
+mark	Buy	to
+acl	Swatch	Buy
+compound	Business	Watch
+cc	Watch	and
+conj:and	Watch	Jewelry
+dobj	Buy	Business
+case	Winston	of
+compound	Winston	Harry
+nmod:of	Business	Winston
+case	$	for
+nmod:for	Buy	$
+nummod	$	750
+root	ROOT	Million

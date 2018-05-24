@@ -1,0 +1,12 @@
+nmod:poss	Pickle	Our
+amod	Pickle	Economic
+root	ROOT	Pickle
+punct	Pickle	:
+nmod:poss	Climbs	America
+case	America	's
+compound	Climbs	Productivity
+dep	Pickle	Climbs
+punct	Climbs	,
+cc	Climbs	but
+compound	Stagnate	Wages
+conj:but	Climbs	Stagnate

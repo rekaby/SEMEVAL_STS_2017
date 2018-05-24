@@ -1,0 +1,11 @@
+det	group	A
+root	ROOT	group
+case	barges	of
+compound	barges	river
+nmod:of	group	barges
+case	trees	with
+nmod:with	barges	trees
+case	background	in
+det	background	the
+nmod:in	group	background
+punct	group	.

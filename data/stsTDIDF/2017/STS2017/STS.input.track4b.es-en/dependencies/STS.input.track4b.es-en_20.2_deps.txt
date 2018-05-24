@@ -1,0 +1,17 @@
+cc	is	And
+punct	is	,
+case	homeland	in
+nmod:poss	grandfather	my
+nmod:poss	homeland	grandfather
+case	grandfather	's
+nmod:in	is	homeland
+punct	is	,
+expl	is	there
+root	ROOT	is
+neg	need	no
+nsubj	is	need
+case	shorthand	for
+nmod:for	need	shorthand
+cc	shorthand	or
+conj:or	shorthand	hyphens
+punct	is	.

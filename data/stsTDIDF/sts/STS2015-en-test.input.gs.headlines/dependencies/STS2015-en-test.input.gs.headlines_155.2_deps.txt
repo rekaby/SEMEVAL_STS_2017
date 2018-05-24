@@ -1,0 +1,13 @@
+nmod:poss	timebomb	Britain
+case	Britain	's
+compound	timebomb	debt
+root	ROOT	timebomb
+punct	timebomb	:
+compound	million	Nine
+nsubj	debt	million
+cop	debt	are
+case	debt	in
+punct	debt	`
+amod	debt	serious
+appos	timebomb	debt
+punct	debt	'

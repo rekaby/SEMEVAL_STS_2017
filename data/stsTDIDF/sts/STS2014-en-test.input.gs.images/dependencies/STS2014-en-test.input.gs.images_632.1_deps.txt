@@ -1,0 +1,7 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	leading
+det	horse	a
+amod	horse	white
+dobj	leading	horse
+punct	woman	.

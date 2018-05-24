@@ -1,0 +1,9 @@
+advmod	much	How
+advmod	know	much
+aux	know	do
+nsubj	know	you
+root	ROOT	know
+case	Service	about
+compound	Service	Secret
+nmod:about	know	Service
+punct	know	?

@@ -1,0 +1,8 @@
+det	debarment	a
+amod	debarment	temporary
+root	ROOT	debarment
+punct	debarment	,
+acl	debarment	revoking
+case	privilege	of
+det	privilege	a
+nmod:of	revoking	privilege

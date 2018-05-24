@@ -1,0 +1,13 @@
+det	resolution	The
+nsubj	voted	resolution
+case	Nice	on
+nmod:on	resolution	Nice
+punct	resolution	,
+root	ROOT	voted
+nmod:tmod	voted	today
+punct	voted	,
+aux	reflect	does
+neg	reflect	not
+dep	voted	reflect
+dobj	reflect	this
+punct	voted	.

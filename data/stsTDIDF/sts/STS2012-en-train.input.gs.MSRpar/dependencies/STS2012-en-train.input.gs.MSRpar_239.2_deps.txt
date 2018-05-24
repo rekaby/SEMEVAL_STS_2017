@@ -1,0 +1,17 @@
+compound	Robinson	Chief
+compound	Robinson	Executive
+compound	Robinson	Mickey
+nsubjpass	fired	Robinson
+auxpass	fired	was
+ccomp	said	fired
+case	cause	for
+nmod:for	fired	cause
+case	September	in
+nmod:in	cause	September
+punct	said	,
+det	company	the
+nsubj	said	company
+root	ROOT	said
+amod	month	last
+nmod:tmod	said	month
+punct	said	.

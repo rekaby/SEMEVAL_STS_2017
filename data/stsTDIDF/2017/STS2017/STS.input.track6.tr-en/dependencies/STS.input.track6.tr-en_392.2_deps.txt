@@ -1,0 +1,6 @@
+nummod	man	One
+root	ROOT	man
+case	puppy	with
+det	puppy	a
+nmod:with	man	puppy
+punct	man	.

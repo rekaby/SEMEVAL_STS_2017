@@ -1,0 +1,7 @@
+amod	sailing	Sail
+compound	sailing	boat
+root	ROOT	sailing
+case	water	on
+det	water	the
+nmod:on	sailing	water
+punct	sailing	.

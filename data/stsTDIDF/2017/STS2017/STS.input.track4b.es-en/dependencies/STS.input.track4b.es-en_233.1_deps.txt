@@ -1,0 +1,9 @@
+advmod	28	About
+nummod	people	28
+nsubj	perimeter	people
+cop	perimeter	were
+case	perimeter	on
+det	perimeter	the
+amod	perimeter	northern
+root	ROOT	perimeter
+punct	perimeter	.

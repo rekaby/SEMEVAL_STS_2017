@@ -1,0 +1,16 @@
+compound	McDevitt	Mr
+nsubjpass	granted	McDevitt
+aux	granted	has
+auxpass	granted	been
+root	ROOT	granted
+dobj	granted	control
+case	aspects	of
+nummod	aspects	three
+nmod:of	control	aspects
+case	policing	of
+nmod:of	aspects	policing
+case	Morrell	by
+compound	Morrell	Commissioner
+compound	Morrell	William
+nmod:agent	granted	Morrell
+punct	granted	.

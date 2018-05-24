@@ -1,0 +1,6 @@
+nsubj	holds	Philippines
+root	ROOT	holds
+amod	senator	second
+dobj	holds	senator
+case	corruption	over
+nmod:over	holds	corruption

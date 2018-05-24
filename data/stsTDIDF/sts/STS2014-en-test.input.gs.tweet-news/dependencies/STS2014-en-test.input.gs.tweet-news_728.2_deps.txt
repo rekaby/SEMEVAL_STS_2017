@@ -1,0 +1,7 @@
+root	ROOT	Pentagon
+mark	open	to
+acl	Pentagon	open
+compound	jobs	combat
+dobj	open	jobs
+case	women	to
+nmod:to	open	women

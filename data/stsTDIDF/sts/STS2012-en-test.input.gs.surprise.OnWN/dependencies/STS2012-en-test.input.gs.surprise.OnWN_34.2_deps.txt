@@ -1,0 +1,16 @@
+det	end	the
+root	ROOT	end
+case	word	of
+det	word	a
+nmod:of	end	word
+punct	suffix	-LRB-
+det	suffix	a
+appos	word	suffix
+cc	suffix	or
+conj:or	suffix	inflectional
+dep	suffix	ending
+cc	ending	or
+conj:or	ending	final
+dep	ending	morpheme
+punct	suffix	-RRB-
+punct	end	.

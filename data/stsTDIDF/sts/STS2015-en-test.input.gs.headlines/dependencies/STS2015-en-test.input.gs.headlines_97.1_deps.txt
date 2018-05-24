@@ -1,0 +1,7 @@
+compound	toll	Glasgow
+compound	toll	helicopter
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	nine	to
+nmod:to	rises	nine

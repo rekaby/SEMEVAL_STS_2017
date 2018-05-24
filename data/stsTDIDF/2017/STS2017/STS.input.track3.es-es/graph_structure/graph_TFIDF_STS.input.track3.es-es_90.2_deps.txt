@@ -1,0 +1,4 @@
+walking	is	aux
+runner	on	case
+walking	runner	nmod:on
+walking	man	nsubj

@@ -1,0 +1,8 @@
+det	process	a
+root	ROOT	process
+mark	becoming	of
+acl	process	becoming
+xcomp	becoming	smaller
+cc	smaller	or
+conj:or	smaller	shorter
+punct	process	.

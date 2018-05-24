@@ -1,0 +1,8 @@
+running	snow	nmod:through
+Frisbee	a	det
+mouth	its	nmod:poss
+snow	through	case
+Frisbee	with	case
+Frisbee	mouth	nmod:in
+dog	Frisbee	nmod:with
+running	dog	nsubj

@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	young
+nsubj	plays	boy
+root	ROOT	plays
+det	game	a
+compound	game	video
+dobj	plays	game
+case	restaurant	at
+det	McDonald	a
+nmod:poss	restaurant	McDonald
+case	McDonald	's
+nmod:at	plays	restaurant
+punct	plays	.

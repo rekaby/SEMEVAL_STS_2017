@@ -1,0 +1,16 @@
+compound	HP	No.
+nummod	HP	2
+nsubj	saw	HP
+root	ROOT	saw
+nmod:poss	sales	its
+compound	sales	Unix
+compound	sales	server
+nsubj	dropped	sales
+ccomp	saw	dropped
+nummod	percent	3.6
+dobj	dropped	percent
+case	$	to
+nmod:to	dropped	$
+compound	billion	1.36
+nummod	$	billion
+punct	saw	.

@@ -1,0 +1,17 @@
+det	year	The
+amod	year	academic
+nsubj	start	year
+aux	start	does
+root	ROOT	start
+case	September	around
+nmod:around	start	September
+case	USA	in
+det	USA	the
+nmod:in	September	USA
+cc	start	and
+nsubj	think	I
+conj:and	start	think
+advmod	European	most
+amod	countries	European
+dobj	think	countries
+punct	start	.

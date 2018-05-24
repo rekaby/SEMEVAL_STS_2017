@@ -1,0 +1,8 @@
+root	ROOT	Italy
+nummod	Äôs	‚
+dep	Italy	Äôs
+amod	splinters	centre-left
+dep	Äôs	splinters
+case	vote	in
+amod	vote	presidential
+nmod:in	splinters	vote

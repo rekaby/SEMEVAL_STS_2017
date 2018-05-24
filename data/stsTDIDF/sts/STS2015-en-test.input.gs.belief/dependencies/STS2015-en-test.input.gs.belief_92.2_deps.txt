@@ -1,0 +1,14 @@
+det	bubble	a
+nsubj	market	bubble
+cop	market	is
+det	market	a
+root	ROOT	market
+nsubjpass	propped	that
+auxpass	propped	is
+advmod	propped	artificially
+acl:relcl	market	propped
+compound:prt	propped	up
+case	reason	for
+det	reason	any
+nmod:for	propped	reason
+punct	market	.

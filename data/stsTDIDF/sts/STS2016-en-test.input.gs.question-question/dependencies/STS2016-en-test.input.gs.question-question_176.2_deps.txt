@@ -1,0 +1,14 @@
+advmod	stop	How
+aux	stop	do
+nsubj	stop	I
+root	ROOT	stop
+nmod:poss	dog	my
+dobj	stop	dog
+case	barking	from
+nmod:from	stop	barking
+case	people	at
+nmod:at	barking	people
+case	fence	through
+det	fence	the
+nmod:through	barking	fence
+punct	stop	?

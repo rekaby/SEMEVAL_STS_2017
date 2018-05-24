@@ -1,0 +1,9 @@
+compound	bomb	Car
+nsubj	kills	bomb
+root	ROOT	kills
+compound	five	one
+cc	one	and
+conj:and	one	wounds
+dobj	kills	five
+case	Benghazi	in
+nmod:in	kills	Benghazi

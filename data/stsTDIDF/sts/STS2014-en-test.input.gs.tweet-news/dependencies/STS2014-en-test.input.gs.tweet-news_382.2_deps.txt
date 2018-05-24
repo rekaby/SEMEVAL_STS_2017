@@ -1,0 +1,7 @@
+compound	Firm	Security
+nsubj	Discovers	Firm
+root	ROOT	Discovers
+compound	#itsecurity	Cyber-Spy
+compound	#itsecurity	Campaign
+compound	#cyberspy	#itsecurity
+dobj	Discovers	#cyberspy

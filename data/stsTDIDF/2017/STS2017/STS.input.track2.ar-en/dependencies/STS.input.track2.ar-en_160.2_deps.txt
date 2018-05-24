@@ -1,0 +1,7 @@
+det	man	The
+root	ROOT	man
+acl	man	skating
+compound:prt	skating	down
+det	mountain	the
+dobj	skating	mountain
+punct	man	.

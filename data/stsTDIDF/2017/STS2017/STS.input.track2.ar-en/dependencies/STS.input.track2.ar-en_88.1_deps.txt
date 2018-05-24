@@ -1,0 +1,7 @@
+det	father	the
+nsubj	plays	father
+root	ROOT	plays
+dobj	plays	catch
+case	son	with
+nmod:poss	son	his
+nmod:with	plays	son

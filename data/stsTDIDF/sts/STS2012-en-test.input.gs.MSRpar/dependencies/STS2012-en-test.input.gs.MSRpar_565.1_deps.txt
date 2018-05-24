@@ -1,0 +1,16 @@
+nmod:poss	representatives	Its
+amod	representatives	legal
+nsubj	began	representatives
+root	ROOT	began
+xcomp	began	meeting
+case	attorneys	with
+nmod:poss	attorneys	plaintiffs
+case	plaintiffs	'
+nmod:with	meeting	attorneys
+amod	week	last
+nmod:tmod	meeting	week
+mark	discuss	to
+xcomp	meeting	discuss
+det	settlement	a
+dobj	discuss	settlement
+punct	began	.

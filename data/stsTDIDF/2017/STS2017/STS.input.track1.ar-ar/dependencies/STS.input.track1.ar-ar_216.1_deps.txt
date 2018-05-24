@@ -1,0 +1,6 @@
+compound	jogging	Dog
+root	ROOT	jogging
+case	grass	across
+det	grass	the
+nmod:across	jogging	grass
+punct	jogging	.

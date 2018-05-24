@@ -1,0 +1,14 @@
+case	January	In
+nmod:in	represented	January
+nummod	January	2000
+punct	represented	,
+nsubj	represented	notebooks
+root	ROOT	represented
+advmod	25	less
+mwe	less	than
+nummod	percent	25
+dobj	represented	percent
+case	volume	of
+compound	volume	sales
+nmod:of	percent	volume
+punct	represented	.

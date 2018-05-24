@@ -1,0 +1,14 @@
+det	osce	the
+nsubj	discussed	osce
+root	ROOT	discussed
+det	extension	the
+amod	extension	possible
+dobj	discussed	extension
+case	mission	of
+det	osce	the
+nmod:poss	mission	osce
+case	osce	's
+nmod:of	extension	mission
+case	kosovo	in
+nmod:in	mission	kosovo
+punct	discussed	.

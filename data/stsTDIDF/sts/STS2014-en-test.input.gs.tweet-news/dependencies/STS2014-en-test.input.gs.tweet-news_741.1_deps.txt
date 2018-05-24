@@ -1,0 +1,8 @@
+root	ROOT	Christensen
+punct	Christensen	:
+nsubj	living	We
+aux	living	are
+dep	Christensen	living
+nmod:poss	dilemma	capitalist
+case	capitalist	's
+dobj	living	dilemma

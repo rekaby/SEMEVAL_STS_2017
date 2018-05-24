@@ -1,0 +1,17 @@
+advmod	deal	How
+mark	deal	to
+root	ROOT	deal
+case	child	with
+det	child	the
+nmod:with	deal	child
+advmod	page	when
+det:predet	parents	both
+det	parents	the
+nsubj	page	parents
+cop	page	are
+neg	page	not
+case	page	on
+det	page	the
+amod	page	same
+advcl:on	deal	page
+punct	deal	?

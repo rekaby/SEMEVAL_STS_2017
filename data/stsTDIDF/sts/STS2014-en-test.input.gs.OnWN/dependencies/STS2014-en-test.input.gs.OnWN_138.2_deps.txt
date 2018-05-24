@@ -1,0 +1,9 @@
+root	ROOT	communicate
+advmod	communicate	silently
+cc	silently	and
+conj:and	silently	non-verbally
+case	signals	by
+nmod:by	communicate	signals
+cc	signals	or
+conj:or	signals	signs
+punct	communicate	.

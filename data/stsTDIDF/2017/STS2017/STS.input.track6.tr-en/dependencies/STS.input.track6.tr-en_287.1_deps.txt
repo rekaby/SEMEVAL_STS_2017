@@ -1,0 +1,7 @@
+det	children	The
+nummod	children	two
+nsubj	love	children
+root	ROOT	love
+det	other	each
+dobj	love	other
+punct	love	.

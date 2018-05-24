@@ -1,0 +1,11 @@
+advmod	long	How
+advmod	store	long
+aux	store	can
+nsubj	store	I
+root	ROOT	store
+amod	rice	cooked
+dobj	store	rice
+case	refrigerator	in
+det	refrigerator	the
+nmod:in	store	refrigerator
+punct	store	?

@@ -1,0 +1,4 @@
+root	ROOT	maintain
+cc	maintain	or
+conj:or	maintain	assert
+punct	maintain	.

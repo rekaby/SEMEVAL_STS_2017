@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	trying
+mark	hide	to
+xcomp	trying	hide
+case	mom	from
+nmod:poss	mom	her
+nmod:from	hide	mom
+punct	girl	.

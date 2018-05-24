@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	brown
+nsubj	runs	dog
+root	ROOT	runs
+case	sand	on
+det	sand	the
+nmod:on	runs	sand
+punct	runs	,
+xcomp	runs	holding
+det	stick	a
+dobj	holding	stick
+punct	runs	.

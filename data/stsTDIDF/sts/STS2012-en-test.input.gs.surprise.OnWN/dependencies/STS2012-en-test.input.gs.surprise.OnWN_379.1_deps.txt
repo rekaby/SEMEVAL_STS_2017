@@ -1,0 +1,9 @@
+det	feeling	A
+root	ROOT	feeling
+case	something	for
+nmod:for	feeling	something
+nsubjpass	desired	that
+auxpass	desired	is
+acl:relcl	something	desired
+advmod	desired	intensely
+punct	feeling	.

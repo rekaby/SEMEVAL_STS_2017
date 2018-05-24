@@ -1,0 +1,5 @@
+root	ROOT	speed
+compound:prt	speed	up
+det	process	the
+dobj	speed	process
+acl	process	of

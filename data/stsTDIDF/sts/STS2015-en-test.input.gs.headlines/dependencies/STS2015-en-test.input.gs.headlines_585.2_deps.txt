@@ -1,0 +1,7 @@
+nsubjpass	trapped	Two
+auxpass	trapped	are
+csubj	collapses	trapped
+case	building	as
+compound	building	US
+nmod:as	trapped	building
+root	ROOT	collapses

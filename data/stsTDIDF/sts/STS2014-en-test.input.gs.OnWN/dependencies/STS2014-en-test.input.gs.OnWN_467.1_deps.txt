@@ -1,0 +1,9 @@
+root	ROOT	look
+conj:or	look	look
+case	something	at
+cc	at	or
+conj:or	at	observe
+nmod:at	look	something
+nmod:observe	look	something
+cc	something	or
+conj:or	something	someone

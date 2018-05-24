@@ -1,0 +1,8 @@
+nummod	horses	Two
+amod	horses	white
+root	ROOT	horses
+acl	horses	staring
+case	fence	over
+det	fence	a
+nmod:over	staring	fence
+punct	horses	.

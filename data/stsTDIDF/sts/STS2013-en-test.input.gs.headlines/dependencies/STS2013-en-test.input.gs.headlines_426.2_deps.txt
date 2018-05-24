@@ -1,0 +1,7 @@
+nsubj	spends	US
+root	ROOT	spends
+dobj	spends	$
+nummod	$	50m
+case	invasion	on
+compound	invasion	carp
+nmod:on	$	invasion

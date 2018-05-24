@@ -1,0 +1,7 @@
+compound	bomb	Car
+nsubj	kills	bomb
+root	ROOT	kills
+dobj	kills	40
+case	Pakistan	in
+amod	Pakistan	northwest
+nmod:in	kills	Pakistan

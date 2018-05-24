@@ -1,0 +1,12 @@
+nummod	Afghans	Three
+nsubj	dead	Afghans
+root	ROOT	dead
+case	blast	in
+amod	blast	new
+nmod:in	dead	blast
+case	base	at
+compound	base	US
+nmod:at	blast	base
+case	Afghanistan	in
+amod	Afghanistan	east
+nmod:in	base	Afghanistan

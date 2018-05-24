@@ -1,0 +1,7 @@
+det	kind	What
+nsubj	above	kind
+case	floors	of
+nmod:of	kind	floors
+cop	above	are
+root	ROOT	above
+punct	above	?

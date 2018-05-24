@@ -1,0 +1,17 @@
+nsubj	looks	Yours
+root	ROOT	looks
+case	one	like
+det	one	the
+nmod:like	looks	one
+nsubj	used	we
+acl:relcl	one	used
+case	kids	for
+nmod:poss	kids	my
+nmod:for	used	kids
+punct	brand	-LRB-
+amod	brand	same
+dep	kids	brand
+cc	brand	and
+conj:and	brand	everything
+punct	brand	-RRB-
+punct	looks	.

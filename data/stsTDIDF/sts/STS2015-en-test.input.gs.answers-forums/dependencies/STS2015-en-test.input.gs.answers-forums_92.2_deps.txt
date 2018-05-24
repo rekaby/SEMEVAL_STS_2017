@@ -1,0 +1,12 @@
+expl	are	There
+root	ROOT	are
+cc:preconj	physiological	both
+amod	reasons	physiological
+cc	physiological	and
+conj:and	physiological	neurological
+nsubj	are	reasons
+mark	build	to
+acl	reasons	build
+case	rest	in
+nmod:in	build	rest
+punct	are	.

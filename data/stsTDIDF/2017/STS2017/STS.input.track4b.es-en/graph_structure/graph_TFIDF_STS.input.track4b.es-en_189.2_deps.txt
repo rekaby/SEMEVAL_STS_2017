@@ -1,0 +1,9 @@
+owned	Xerox	nsubjpass
+industry	entire	amod
+ROOT	owned	root
+owned	.	punct
+industry	computer	compound
+owned	could	aux
+industry	by	case
+owned	industry	nmod:agent
+owned	be	auxpass

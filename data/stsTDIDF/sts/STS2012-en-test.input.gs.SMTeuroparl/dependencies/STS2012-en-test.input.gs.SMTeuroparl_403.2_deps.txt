@@ -1,0 +1,10 @@
+nsubj	offers	Amendment
+nummod	Amendment	7
+root	ROOT	offers
+amod	modifications	certain
+dobj	offers	modifications
+case	references	in
+nmod:in	offers	references
+case	paragraphs	to
+nmod:to	references	paragraphs
+punct	offers	.

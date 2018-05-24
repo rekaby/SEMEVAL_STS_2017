@@ -1,0 +1,17 @@
+case	warrant	According
+mwe	According	to
+det	warrant	an
+compound	warrant	arrest
+nmod:according_to	attacked	warrant
+punct	attacked	,
+nsubj	attacked	Bryant
+punct	Bryant	,
+amod	Bryant	24
+punct	Bryant	,
+root	ROOT	attacked
+det	woman	a
+dobj	attacked	woman
+case	June	on
+nmod:on	attacked	June
+nummod	June	30
+punct	attacked	.

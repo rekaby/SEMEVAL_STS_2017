@@ -1,0 +1,6 @@
+chair	his	nmod:poss
+sitting	man	nsubj
+watching	television	dobj
+sitting	chair	nmod:in
+sitting	watching	conj:and
+chair	in	case

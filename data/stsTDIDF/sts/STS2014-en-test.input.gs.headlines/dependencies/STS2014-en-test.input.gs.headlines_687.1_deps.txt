@@ -1,0 +1,5 @@
+nsubj	vote	Egyptians
+root	ROOT	vote
+case	constitution	on
+amod	constitution	Islamist-backed
+nmod:on	vote	constitution

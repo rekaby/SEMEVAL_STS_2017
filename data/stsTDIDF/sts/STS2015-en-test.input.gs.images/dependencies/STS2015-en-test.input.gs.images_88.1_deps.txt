@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	stands	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	black
+nmod:in	woman	shirt
+root	ROOT	stands
+case	bananas	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	stands	bananas
+case	stand	at
+det	stand	a
+compound	stand	fruit
+nmod:at	stands	stand
+punct	stands	.

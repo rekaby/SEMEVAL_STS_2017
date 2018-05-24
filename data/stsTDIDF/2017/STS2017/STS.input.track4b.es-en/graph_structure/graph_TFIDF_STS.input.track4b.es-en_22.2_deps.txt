@@ -1,0 +1,15 @@
+triumph	line	nsubj
+change	calculations	dobj
+ROOT	triumph	root
+Spring	the	det
+calculations	its	nmod:poss
+line	hard	amod
+triumph	change	parataxis
+triumph	;	punct
+change	Spring	nsubj
+triumph	However	advmod
+Spring	Arab	compound
+triumph	,	punct
+triumph	Perhaps	advmod
+triumph	will	aux
+triumph	.	punct

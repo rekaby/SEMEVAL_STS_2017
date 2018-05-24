@@ -1,0 +1,8 @@
+compound	metal	heat
+det	metal	a
+root	ROOT	metal
+amod	metal	prior
+mark	working	to
+advcl	prior	working
+dobj	working	it
+punct	metal	.

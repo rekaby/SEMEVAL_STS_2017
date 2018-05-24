@@ -1,0 +1,4 @@
+root	ROOT	abstain
+case	eating	from
+nmod:from	abstain	eating
+punct	abstain	.

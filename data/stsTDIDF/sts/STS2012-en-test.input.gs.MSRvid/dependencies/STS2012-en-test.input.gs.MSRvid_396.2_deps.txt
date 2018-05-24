@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	swims	dog
+root	ROOT	swims
+case	ball	after
+det	ball	a
+compound	ball	tennis
+nmod:after	swims	ball
+punct	swims	.

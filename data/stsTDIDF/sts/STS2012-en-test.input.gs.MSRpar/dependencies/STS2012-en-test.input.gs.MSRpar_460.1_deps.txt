@@ -1,0 +1,15 @@
+det	dollar	The
+nsubj	yen	dollar
+cop	yen	was
+case	yen	at
+nummod	yen	117.85
+root	ROOT	yen
+case	currency	against
+det	currency	the
+amod	currency	Japanese
+nmod:against	yen	currency
+punct	yen	,
+case	percent	up
+nummod	percent	0.1
+nmod:up	yen	percent
+punct	yen	.

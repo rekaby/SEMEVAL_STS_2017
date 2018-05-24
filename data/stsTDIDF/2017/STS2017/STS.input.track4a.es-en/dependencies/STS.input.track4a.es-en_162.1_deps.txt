@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	compete	women
+root	ROOT	compete
+case	fight	in
+det	fight	a
+amod	fight	kick-boxing
+nmod:in	compete	fight
+punct	compete	.

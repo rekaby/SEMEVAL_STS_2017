@@ -1,0 +1,8 @@
+det	train	A
+amod	train	black
+nsubj	moves	train
+root	ROOT	moves
+case	tracks	down
+det	tracks	the
+nmod:down	moves	tracks
+punct	moves	.

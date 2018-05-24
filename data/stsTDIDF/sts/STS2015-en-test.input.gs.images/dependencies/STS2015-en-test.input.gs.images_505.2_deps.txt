@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	chases	dog
+root	ROOT	chases
+dobj	chases	another
+case	tree	by
+det	tree	a
+nmod:by	chases	tree
+punct	chases	.

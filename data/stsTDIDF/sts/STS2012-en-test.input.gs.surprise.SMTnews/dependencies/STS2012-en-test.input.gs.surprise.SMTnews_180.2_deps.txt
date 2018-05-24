@@ -1,0 +1,8 @@
+amod	year	Last
+nmod:tmod	required	year
+nsubjpass	required	it
+auxpass	required	was
+root	ROOT	required
+case	murder	for
+nmod:for	required	murder
+punct	required	.

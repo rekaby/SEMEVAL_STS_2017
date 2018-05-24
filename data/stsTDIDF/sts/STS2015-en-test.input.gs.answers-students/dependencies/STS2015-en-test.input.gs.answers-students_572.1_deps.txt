@@ -1,0 +1,14 @@
+nsubj	contains	it
+root	ROOT	contains
+det	bulb	a
+dobj	contains	bulb
+cc	contains	and
+aux	complete	does
+neg	complete	not
+conj:and	contains	complete
+det	circuit	a
+amod	circuit	full
+dobj	complete	circuit
+case	battery	to
+det	battery	the
+nmod:to	circuit	battery

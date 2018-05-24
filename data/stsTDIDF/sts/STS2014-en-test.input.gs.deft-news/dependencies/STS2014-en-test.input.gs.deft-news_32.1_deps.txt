@@ -1,0 +1,13 @@
+nsubj	competition	alstom
+cop	competition	is
+case	competition	in
+root	ROOT	competition
+case	countries	with
+amod	countries	japanese
+cc	japanese	and
+conj:and	japanese	german
+nmod:with	competition	countries
+case	contract	for
+det	contract	the
+nmod:for	competition	contract
+punct	competition	.

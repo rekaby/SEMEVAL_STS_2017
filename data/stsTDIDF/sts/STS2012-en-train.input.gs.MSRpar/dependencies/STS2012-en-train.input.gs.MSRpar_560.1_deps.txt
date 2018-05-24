@@ -1,0 +1,15 @@
+case	that	After
+nmod:after	told	that
+punct	told	,
+compound	Pribbenow	college
+compound	Pribbenow	President
+compound	Pribbenow	Paul
+nsubj	told	Pribbenow
+root	ROOT	told
+dobj	told	him
+mark	wrap	to
+xcomp	told	wrap
+compound:prt	wrap	up
+nmod:poss	speech	his
+dobj	wrap	speech
+punct	told	.

@@ -1,0 +1,10 @@
+neg	one	no
+nsubj	appears	one
+root	ROOT	appears
+mark	posted	to
+aux	posted	have
+xcomp	appears	posted
+case	yet	about
+det	yet	this
+nmod:about	posted	yet
+punct	appears	.

@@ -1,0 +1,6 @@
+dep	boosts	Tropical
+compound	Isaac	Storm
+nsubj	boosts	Isaac
+root	ROOT	boosts
+amod	claims	jobless
+dobj	boosts	claims

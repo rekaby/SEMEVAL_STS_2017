@@ -1,0 +1,14 @@
+det	group	A
+nsubj	sitting	group
+case	people	of
+nmod:of	group	people
+aux	sitting	are
+root	ROOT	sitting
+case	beach	at
+det	beach	a
+nmod:at	sitting	beach
+acl	beach	watching
+det	Angels	the
+compound	Angels	Blue
+dobj	watching	Angels
+punct	sitting	.

@@ -1,0 +1,6 @@
+nsubj	killed	Fourteen
+root	ROOT	killed
+case	accident	in
+compound	accident	Brazil
+compound	accident	bus
+nmod:in	killed	accident

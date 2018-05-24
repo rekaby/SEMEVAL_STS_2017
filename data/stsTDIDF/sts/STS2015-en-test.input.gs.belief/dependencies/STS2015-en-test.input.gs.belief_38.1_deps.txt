@@ -1,0 +1,9 @@
+det	gop	the
+nsubj	fighting	gop
+aux	fighting	is
+root	ROOT	fighting
+case	freedom	for
+nmod:for	fighting	freedom
+case	choice	of
+nmod:of	freedom	choice
+punct	fighting	.

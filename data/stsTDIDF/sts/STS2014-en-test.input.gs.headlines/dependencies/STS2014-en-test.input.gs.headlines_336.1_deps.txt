@@ -1,0 +1,8 @@
+compound	Index	Hushen
+nummod	Index	300
+nsubj	closes	Index
+root	ROOT	closes
+dobj	closes	higher
+punct	higher	--
+dep	higher	Oct.
+nummod	Oct.	14

@@ -1,0 +1,16 @@
+compound	analysts	Wall
+compound	analysts	Street
+nsubj	expected	analysts
+aux	expected	had
+root	ROOT	expected
+nummod	cents	22
+dobj	expected	cents
+det	share	a
+nmod:npmod	cents	share
+punct	expected	,
+case	Call	according
+mwe	according	to
+compound	Call	Thomson
+compound	Call	First
+nmod:according_to	expected	Call
+punct	expected	.

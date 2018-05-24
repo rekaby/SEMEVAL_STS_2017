@@ -1,0 +1,7 @@
+root	ROOT	recite
+cc	recite	or
+conj:or	recite	repeat
+det	text	a
+amod	text	fixed
+dobj	recite	text
+punct	recite	;

@@ -1,0 +1,16 @@
+cop	safe	be
+root	ROOT	safe
+punct	safe	.-3) nsubj(heard-3, i
+aux	heard	've
+root	ROOT	heard
+case	news	on
+det	news	the
+nmod:on	heard	news
+case	pollution	about
+nmod:poss	pollution	china
+case	china	's
+compound	pollution	air
+nmod:about	news	pollution
+nsubj	terrible	that
+cop	terrible	is
+acl:relcl	news	terrible

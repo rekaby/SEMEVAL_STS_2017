@@ -1,0 +1,7 @@
+det	officer	An
+nsubj	talking	officer
+aux	talking	is
+root	ROOT	talking
+case	recruits	to
+nmod:to	talking	recruits
+punct	talking	.

@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	taking	dog
+aux	taking	is
+root	ROOT	taking
+det	bath	a
+dobj	taking	bath
+punct	taking	.

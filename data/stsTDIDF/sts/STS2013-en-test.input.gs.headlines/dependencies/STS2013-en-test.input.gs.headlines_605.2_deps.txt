@@ -1,0 +1,8 @@
+compound	soldier	US
+nsubj	recall	soldier
+punct	recall	`
+aux	recall	does
+neg	recall	n't
+root	ROOT	recall
+dobj	recall	massacre
+punct	recall	'

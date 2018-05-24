@@ -1,0 +1,6 @@
+root	ROOT	pronounce
+case	sibilant	with
+det	sibilant	an
+amod	sibilant	initial
+nmod:with	pronounce	sibilant
+punct	pronounce	.

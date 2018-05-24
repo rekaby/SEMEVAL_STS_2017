@@ -1,0 +1,15 @@
+det	crowd	A
+nsubj	run	crowd
+case	men	of
+nmod:of	crowd	men
+acl	men	wearing
+compound	numbers	paper
+dobj	wearing	numbers
+case	shirts	on
+nmod:poss	shirts	their
+nmod:on	wearing	shirts
+root	ROOT	run
+case	race	in
+det	race	a
+nmod:in	run	race
+punct	run	.

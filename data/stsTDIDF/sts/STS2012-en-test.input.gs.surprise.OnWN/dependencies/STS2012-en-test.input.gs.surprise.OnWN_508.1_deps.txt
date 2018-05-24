@@ -1,0 +1,5 @@
+root	ROOT	take
+advmod	take	apart
+case	pieces	into
+amod	pieces	constituent
+nmod:into	take	pieces

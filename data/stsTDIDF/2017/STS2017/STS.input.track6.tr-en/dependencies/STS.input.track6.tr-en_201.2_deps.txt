@@ -1,0 +1,9 @@
+det	man	The
+nsubj	stands	man
+root	ROOT	stands
+case	ocean	in
+mwe	in	front
+mwe	in	of
+det	ocean	the
+nmod:in_front_of	stands	ocean
+punct	stands	.

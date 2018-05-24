@@ -1,0 +1,8 @@
+root	ROOT	men
+acl	men	sitting
+case	couch	on
+nmod:poss	couch	their
+nmod:on	sitting	couch
+mark	eating	while
+advcl	sitting	eating
+dobj	eating	bull

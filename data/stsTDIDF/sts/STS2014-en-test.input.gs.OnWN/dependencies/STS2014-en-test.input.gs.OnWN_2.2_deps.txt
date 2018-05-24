@@ -1,0 +1,13 @@
+amod	strip	thin
+root	ROOT	strip
+case	metal	of
+nmod:of	strip	metal
+acl	metal	used
+case	lines	to
+amod	lines	separate
+nmod:to	used	lines
+case	type	of
+nmod:of	lines	type
+case	printing	in
+nmod:in	lines	printing
+punct	strip	.

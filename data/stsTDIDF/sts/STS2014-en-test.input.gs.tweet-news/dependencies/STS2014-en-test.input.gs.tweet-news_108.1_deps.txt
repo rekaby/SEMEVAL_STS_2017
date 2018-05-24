@@ -1,0 +1,10 @@
+punct	Escape	``
+root	ROOT	Escape
+case	Crosse	from
+compound	Crosse	La
+nmod:from	Escape	Crosse
+punct	Crosse	''
+det	Preppers	The
+appos	Crosse	Preppers
+compound	Door	Next
+dep	Preppers	Door

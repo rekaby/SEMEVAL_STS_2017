@@ -1,0 +1,15 @@
+nsubj	claim	you
+aux	claim	can
+root	ROOT	claim
+nsubj	false	it
+cop	false	's
+ccomp	claim	false
+dobj	want	all
+nsubj	want	you
+ccomp	false	want
+punct	claim	,
+cc	claim	but
+nsubj	facts	facts
+cop	facts	are
+conj:but	claim	facts
+punct	claim	.

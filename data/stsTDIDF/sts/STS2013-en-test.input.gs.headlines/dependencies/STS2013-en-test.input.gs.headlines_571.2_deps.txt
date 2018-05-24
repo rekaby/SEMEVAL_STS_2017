@@ -1,0 +1,10 @@
+compound	bomb	Afghan
+compound	bomb	suicide
+compound	bomb	car
+nsubj	kills	bomb
+root	ROOT	kills
+case	least	at
+nmod:npmod	seven	least
+dobj	kills	seven
+punct	kills	:
+dep	kills	officials

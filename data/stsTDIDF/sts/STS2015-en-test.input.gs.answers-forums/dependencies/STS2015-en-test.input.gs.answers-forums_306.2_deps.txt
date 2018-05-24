@@ -1,0 +1,14 @@
+case	experience	From
+amod	experience	personal
+nmod:from	found	experience
+nsubj	found	I
+root	ROOT	found
+mark	setter	that
+det	pace	a
+nsubj	setter	pace
+ccomp	found	setter
+mark	helpful	to
+cop	helpful	be
+advmod	helpful	incredibly
+xcomp	setter	helpful
+punct	found	.

@@ -1,0 +1,8 @@
+root	ROOT	Headlines
+case	newspapers	in
+amod	newspapers	major
+amod	newspapers	Iranian
+nmod:in	Headlines	newspapers
+case	August	on
+nmod:on	Headlines	August
+nummod	August	18

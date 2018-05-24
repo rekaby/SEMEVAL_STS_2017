@@ -1,0 +1,13 @@
+det	person	A
+nsubj	standing	person
+aux	standing	is
+root	ROOT	standing
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	standing	building
+acl	building	holding
+compound:prt	holding	aloft
+det	plywood	some
+dobj	holding	plywood

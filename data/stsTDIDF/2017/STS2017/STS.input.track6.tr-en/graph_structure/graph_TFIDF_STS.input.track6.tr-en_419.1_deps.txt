@@ -1,0 +1,6 @@
+walking	is	aux
+walking	toddler	nsubj
+toddler	The	det
+pram	the	det
+walking	pram	nmod:next_to
+pram	next	case

@@ -1,0 +1,7 @@
+root	ROOT	make
+xcomp	make	ready
+case	action	for
+nmod:for	ready	action
+cc	action	or
+conj:or	action	use
+punct	make	.

@@ -1,0 +1,7 @@
+det	hedgehog	The
+nsubj	chewed	hedgehog
+root	ROOT	chewed
+case	towel	on
+det	towel	the
+nmod:on	chewed	towel
+punct	chewed	.

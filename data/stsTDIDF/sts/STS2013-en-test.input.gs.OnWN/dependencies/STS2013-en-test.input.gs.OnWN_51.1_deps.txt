@@ -1,0 +1,13 @@
+det	act	The
+amod	act	physical
+root	ROOT	act
+mark	following	of
+acl	act	following
+case	effort	in
+det	effort	an
+nmod:in	following	effort
+mark	overtake	to
+acl	effort	overtake
+cc	overtake	or
+conj:or	overtake	capture
+punct	act	.

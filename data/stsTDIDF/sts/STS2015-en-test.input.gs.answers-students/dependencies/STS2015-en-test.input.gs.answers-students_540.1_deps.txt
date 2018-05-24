@@ -1,0 +1,8 @@
+nsubj	possess	terminal
+compound	2	1
+cc	1	and
+conj:and	1	terminal
+nummod	terminal	2
+root	ROOT	possess
+neg	difference	no
+dobj	possess	difference

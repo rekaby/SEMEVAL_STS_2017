@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+neg	difference	no
+nsubj	is	difference
+case	terminals	between
+det	terminals	the
+nummod	terminals	two
+nmod:between	difference	terminals
+punct	is	.

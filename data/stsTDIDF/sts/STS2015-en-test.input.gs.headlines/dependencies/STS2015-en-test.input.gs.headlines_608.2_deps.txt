@@ -1,0 +1,13 @@
+nsubj	release	Israel
+mark	release	to
+root	ROOT	release
+amod	prisoners	Palestinian
+dobj	release	prisoners
+case	part	as
+nmod:as	release	part
+case	deal	of
+nmod:of	part	deal
+mark	revive	to
+acl	part	revive
+compound	talks	peace
+dobj	revive	talks

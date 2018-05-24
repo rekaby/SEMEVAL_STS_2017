@@ -1,0 +1,15 @@
+det	announcements	The
+nsubjpass	made	announcements
+auxpass	made	were
+root	ROOT	made
+case	Convention	at
+det	Convention	the
+compound	Convention	International
+compound	Convention	Broadcasting
+nmod:at	made	Convention
+punct	IBC	-LRB-
+appos	Convention	IBC
+punct	IBC	-RRB-
+case	Amsterdam	in
+nmod:in	Convention	Amsterdam
+punct	made	.

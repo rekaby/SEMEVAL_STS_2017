@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	watching
+det	ball	a
+dobj	watching	ball
+case	air	in
+det	air	the
+nmod:in	watching	air
+punct	man	.

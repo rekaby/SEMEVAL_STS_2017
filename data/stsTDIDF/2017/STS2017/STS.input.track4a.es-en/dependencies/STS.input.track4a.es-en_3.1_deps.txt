@@ -1,0 +1,9 @@
+nummod	fishermen	Two
+nsubj	walking	fishermen
+root	ROOT	walking
+mark	work	to
+xcomp	walking	work
+case	pier	on
+det	pier	the
+nmod:on	work	pier
+punct	walking	.

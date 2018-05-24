@@ -1,0 +1,10 @@
+nummod	people	Two
+root	ROOT	people
+dep	people	holding
+dobj	holding	hands
+cc	holding	and
+conj:and	holding	walking
+case	field	in
+det	field	a
+nmod:in	walking	field
+punct	people	.

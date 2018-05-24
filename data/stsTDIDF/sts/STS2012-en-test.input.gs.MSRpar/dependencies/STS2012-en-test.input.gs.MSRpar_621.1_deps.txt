@@ -1,0 +1,13 @@
+advmod	120	About
+nummod	jurors	120
+amod	jurors	potential
+nsubjpass	asked	jurors
+aux	asked	were
+auxpass	asked	being
+root	ROOT	asked
+mark	complete	to
+xcomp	asked	complete
+det	questionnaire	a
+amod	questionnaire	lengthy
+dobj	complete	questionnaire
+punct	asked	.

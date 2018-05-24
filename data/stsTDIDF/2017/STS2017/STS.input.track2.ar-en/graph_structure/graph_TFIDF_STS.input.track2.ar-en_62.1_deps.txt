@@ -1,0 +1,7 @@
+chasing	lizard	dobj
+chasing	.	punct
+lizard	a	det
+chasing	is	aux
+ROOT	chasing	root
+dog	The	det
+chasing	dog	nsubj

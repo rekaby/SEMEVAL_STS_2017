@@ -1,0 +1,8 @@
+driving	motorcycles	dobj
+people	Three	nummod
+driving	people	nsubj
+road	open	amod
+driving	are	aux
+ROOT	driving	root
+driving	road	nmod:on
+driving	.	punct

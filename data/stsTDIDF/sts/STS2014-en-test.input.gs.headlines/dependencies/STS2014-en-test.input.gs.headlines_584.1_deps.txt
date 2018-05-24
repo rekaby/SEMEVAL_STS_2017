@@ -1,0 +1,7 @@
+nummod	Australians	Six
+nsubj	killed	Australians
+root	ROOT	killed
+case	plane	in
+compound	plane	Laos
+nmod:in	killed	plane
+dobj	killed	crash

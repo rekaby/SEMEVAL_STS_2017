@@ -1,0 +1,14 @@
+nummod	cats	Two
+nsubj	sit	cats
+root	ROOT	sit
+case	back	on
+det	back	the
+nmod:on	sit	back
+case	couch	of
+det	couch	a
+nmod:of	back	couch
+acl	couch	looking
+compound:prt	looking	out
+det	window	the
+dobj	looking	window
+punct	sit	.

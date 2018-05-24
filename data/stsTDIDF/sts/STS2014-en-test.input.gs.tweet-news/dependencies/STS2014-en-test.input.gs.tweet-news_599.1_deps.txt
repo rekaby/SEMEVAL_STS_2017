@@ -1,0 +1,17 @@
+det	power	The
+root	ROOT	power
+case	reviews	of
+compound	reviews	user
+nmod:of	power	reviews
+punct	power	-
+dep	power	wielded
+case	good	for
+nmod:for	wielded	good
+cc	good	or
+conj:or	good	evil
+punct	power	?-12) root(ROOT-0, NYTimes
+punct	NYTimes	:
+compound	Online	Swarming
+det	Book	a
+compound	Online	Book
+dep	NYTimes	Online

@@ -1,0 +1,8 @@
+nummod	boy	Two
+nsubj	playing	boy
+aux	playing	are
+root	ROOT	playing
+case	trampoline	on
+det	trampoline	a
+nmod:on	playing	trampoline
+punct	playing	.

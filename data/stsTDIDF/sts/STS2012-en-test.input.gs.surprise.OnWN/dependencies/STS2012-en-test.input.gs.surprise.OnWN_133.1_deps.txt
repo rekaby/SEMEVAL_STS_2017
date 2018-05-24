@@ -1,0 +1,12 @@
+root	ROOT	act
+punct	act	,
+conj:or	act	form
+punct	act	,
+cc	act	or
+conj:or	act	progress
+case	plan	according
+mwe	according	to
+det	plan	a
+nmod:according_to	progress	plan
+cc	plan	or
+conj:or	plan	ideal

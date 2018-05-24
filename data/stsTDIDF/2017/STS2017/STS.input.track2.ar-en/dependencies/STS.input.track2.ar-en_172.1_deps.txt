@@ -1,0 +1,8 @@
+det	reader	A
+nsubj	telling	reader
+aux	telling	is
+root	ROOT	telling
+det	children	the
+nsubj	story	children
+det	story	a
+xcomp	telling	story

@@ -1,0 +1,12 @@
+root	ROOT	come
+cc	come	or
+conj:or	come	bring
+advmod	bring	back
+case	life	to
+nmod:to	bring	life
+punct	life	,
+conj:or	life	health
+punct	life	,
+conj:or	life	existence
+cc	life	or
+conj:or	life	use

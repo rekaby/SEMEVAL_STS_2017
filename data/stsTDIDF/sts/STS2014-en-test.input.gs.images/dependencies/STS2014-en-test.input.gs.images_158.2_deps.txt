@@ -1,0 +1,10 @@
+nummod	people	four
+nsubj	boat	people
+cop	boat	are
+case	boat	on
+det	boat	a
+root	ROOT	boat
+case	water	on
+amod	water	green
+nmod:on	boat	water
+punct	boat	.

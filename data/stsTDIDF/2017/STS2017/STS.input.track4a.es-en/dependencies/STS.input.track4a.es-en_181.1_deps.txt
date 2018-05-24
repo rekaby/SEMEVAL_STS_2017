@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	tries	woman
+root	ROOT	tries
+mark	keep	to
+xcomp	tries	keep
+dobj	keep	children
+case	parents	away
+mwe	away	from
+nmod:poss	parents	her
+nmod:away_from	keep	parents
+punct	tries	.

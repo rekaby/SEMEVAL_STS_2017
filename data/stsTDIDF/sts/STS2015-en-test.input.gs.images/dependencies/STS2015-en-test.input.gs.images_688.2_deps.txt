@@ -1,0 +1,8 @@
+det	person	A
+nsubj	skiing	person
+root	ROOT	skiing
+case	hill	down
+det	hill	a
+amod	hill	snowy
+nmod:down	skiing	hill
+punct	skiing	.

@@ -1,0 +1,9 @@
+det	man	A
+amod	man	young
+nsubj	talking	man
+aux	talking	is
+root	ROOT	talking
+case	leaf	to
+det	leaf	a
+nmod:to	talking	leaf
+punct	talking	.

@@ -1,0 +1,8 @@
+kill	Adding	csubj
+ROOT	kill	root
+Adding	aspirin	dobj
+kill	could	aux
+kill	.	punct
+Adding	water	nmod:to
+water	to	case
+kill	plant	dobj

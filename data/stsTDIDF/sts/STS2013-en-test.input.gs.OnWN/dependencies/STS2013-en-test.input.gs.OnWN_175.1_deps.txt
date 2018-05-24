@@ -1,0 +1,7 @@
+root	ROOT	have
+det	desire	a
+amod	desire	strong
+dobj	have	desire
+mark	do	to
+acl	desire	do
+dobj	do	something

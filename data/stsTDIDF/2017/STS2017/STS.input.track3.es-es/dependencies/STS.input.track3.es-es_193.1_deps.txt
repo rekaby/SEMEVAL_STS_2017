@@ -1,0 +1,10 @@
+det	group	A
+nsubj	playing	group
+case	girls	of
+nmod:of	group	girls
+aux	playing	are
+root	ROOT	playing
+case	dumpster	in
+det	dumpster	a
+nmod:in	playing	dumpster
+punct	playing	.

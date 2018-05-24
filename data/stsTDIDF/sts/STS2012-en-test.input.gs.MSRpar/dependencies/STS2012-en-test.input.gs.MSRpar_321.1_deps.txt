@@ -1,0 +1,13 @@
+nsubjpass	arrested	Dotson
+auxpass	arrested	was
+root	ROOT	arrested
+nmod:tmod	arrested	Monday
+case	Maryland	in
+nmod:poss	Maryland	his
+amod	Maryland	native
+nmod:in	arrested	Maryland
+cc	arrested	and
+conj:and	arrested	charged
+case	murder	with
+nmod:with	charged	murder
+punct	arrested	.

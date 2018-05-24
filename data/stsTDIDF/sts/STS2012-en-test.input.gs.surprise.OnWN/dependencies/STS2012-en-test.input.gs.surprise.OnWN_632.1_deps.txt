@@ -1,0 +1,8 @@
+advcl	raise	express
+dobj	express	protest
+cc	protest	or
+conj:or	protest	dissent
+punct	raise	,
+root	ROOT	raise
+det	objection	an
+dobj	raise	objection

@@ -1,0 +1,5 @@
+compound	#whiskey	U.S.
+amod	#whiskey	single-malt
+nsubj	arrived	#whiskey
+aux	arrived	has
+root	ROOT	arrived

@@ -1,0 +1,10 @@
+root	ROOT	Putin
+acl	Putin	sworn
+case	president	in
+case	president	as
+nmod:poss	president	Russia
+case	Russia	's
+nmod:as	sworn	president
+case	years	for
+nummod	years	6
+nmod:for	sworn	years

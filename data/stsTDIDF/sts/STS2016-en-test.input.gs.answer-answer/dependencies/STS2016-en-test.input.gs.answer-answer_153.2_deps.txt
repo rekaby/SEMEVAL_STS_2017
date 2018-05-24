@@ -1,0 +1,14 @@
+det	you	The
+amod	you	more
+nsubj	sweat	you
+root	ROOT	sweat
+punct	sweat	,
+det	you	the
+amod	you	faster
+nsubj	burn	you
+aux	burn	will
+ccomp	sweat	burn
+dobj	burn	calories
+cc	calories	and
+conj:and	calories	fat
+punct	sweat	.

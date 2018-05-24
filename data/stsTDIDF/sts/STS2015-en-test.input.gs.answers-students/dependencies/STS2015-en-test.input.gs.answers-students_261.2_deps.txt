@@ -1,0 +1,8 @@
+expl	is	there
+root	ROOT	is
+neg	path	no
+amod	path	closed
+nsubj	is	path
+acl	path	containing
+det	battery	the
+dobj	containing	battery

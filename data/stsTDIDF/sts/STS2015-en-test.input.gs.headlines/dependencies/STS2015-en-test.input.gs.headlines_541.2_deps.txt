@@ -1,0 +1,8 @@
+root	ROOT	Democrats
+nsubj	Divide	Face
+acl:relcl	Democrats	Divide
+case	Strike	Over
+det	Strike	a
+nmod:over	Divide	Strike
+case	Syria	on
+nmod:on	Strike	Syria

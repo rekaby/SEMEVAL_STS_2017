@@ -1,0 +1,8 @@
+det	officer	The
+amod	officer	military
+nsubj	barked	officer
+root	ROOT	barked
+case	recruits	at
+det	recruits	the
+nmod:at	barked	recruits
+punct	barked	.

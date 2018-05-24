@@ -1,0 +1,13 @@
+compound	arabia	saudi
+nsubj	monarchy	arabia
+cop	monarchy	is
+det	monarchy	an
+amod	monarchy	absolute
+root	ROOT	monarchy
+nsubj	taken	that
+aux	taken	has
+acl:relcl	monarchy	taken
+dobj	taken	steps
+case	reform	towards
+nmod:towards	steps	reform
+punct	monarchy	.

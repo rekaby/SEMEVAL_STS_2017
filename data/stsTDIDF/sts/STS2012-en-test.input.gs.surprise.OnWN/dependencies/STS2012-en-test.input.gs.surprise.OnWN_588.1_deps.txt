@@ -1,0 +1,5 @@
+amod	darkness	relative
+root	ROOT	darkness
+case	color	of
+det	color	a
+nmod:of	darkness	color

@@ -1,0 +1,6 @@
+nsubj	floating	Someone
+root	ROOT	floating
+case	ocean	in
+det	ocean	the
+nmod:in	floating	ocean
+punct	floating	.

@@ -1,0 +1,16 @@
+rockets	fire	compound
+ROOT	rockets	root
+rockets	not	neg
+done	Gaza	nmod:in
+rockets	,	punct
+rockets	done	advcl
+compatriots	their	nmod:poss
+rockets	ran	advcl
+rockets	they	nsubj
+rockets	?	punct
+ran	If	mark
+rockets	would	aux
+ran	Bank	dobj
+done	compatriots	nsubj
+ran	really	advmod
+ran	they	nsubj

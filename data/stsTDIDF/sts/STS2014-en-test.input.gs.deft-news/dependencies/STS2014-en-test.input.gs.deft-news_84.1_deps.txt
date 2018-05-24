@@ -1,0 +1,11 @@
+amod	rods	existing
+nsubj	produce	rods
+aux	produce	could
+root	ROOT	produce
+nummod	bombs	3-6
+amod	bombs	atomic
+dobj	produce	bombs
+case	months	in
+nummod	months	6-8
+nmod:in	produce	months
+punct	produce	.

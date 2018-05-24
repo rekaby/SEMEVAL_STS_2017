@@ -1,0 +1,10 @@
+face	whose	nmod:poss
+shown	is	auxpass
+child	.	punct
+child	girl	nsubj
+child	near	case
+shown	not	neg
+child	shown	acl:relcl
+shown	face	nsubjpass
+ROOT	child	root
+child	is	cop

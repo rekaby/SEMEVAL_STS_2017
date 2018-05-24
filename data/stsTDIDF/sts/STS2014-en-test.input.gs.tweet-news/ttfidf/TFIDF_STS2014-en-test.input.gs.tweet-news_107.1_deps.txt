@@ -1,0 +1,24 @@
+root ROOT Convicted	15.060439779775294
+nmod:in Convicted Thailand	15.060439779775294
+case * of	15.060439779775294
+nmod:of Convicted *	15.060439779775294
+acl * implying	15.060439779775294
+xcomp implying *	15.060439779775294
+dobj * insult	15.060439779775294
+nmod:to insult king	15.060439779775294
+punct Convicted .-13) root(ROOT-0, ?-1) expl(was-2, There	15.060439779775294
+compound name king?s	15.060439779775294
+punct was .-12) root(ROOT-0, ?	15.060439779775294
+nmod:of mention name	14.367292599215348
+nmod:in mention speech	13.961827491107185
+case king to	12.662544506976923
+nsubj was mention	12.352389578673083
+det insult an	11.69314394978882
+neg mention no	10.71663435792161
+case Thailand in	10.111679889397125
+case name of	10.063227506011179
+det speech the	9.94845199141875
+det king the	9.782325120544776
+case speech in	9.397479299639347
+det name the	8.113463787639875
+root ROOT was	6.87648406247034

@@ -1,0 +1,16 @@
+advmod	left	Why
+aux	left	would
+det	addition	the
+nsubjpass	left	addition
+case	more	of
+nmod:of	addition	more
+case	words	of
+compound	words	Jesus
+nmod:of	more	words
+auxpass	left	be
+root	ROOT	left
+case	canon	out
+mwe	out	of
+det	canon	the
+nmod:out_of	left	canon
+punct	left	?

@@ -1,0 +1,9 @@
+compound	law	Obama
+compound	law	signs
+root	ROOT	law
+acl	law	aimed
+mark	barring	at
+advcl	aimed	barring
+compound	envoy	Iran
+compound	envoy	UN
+dobj	barring	envoy

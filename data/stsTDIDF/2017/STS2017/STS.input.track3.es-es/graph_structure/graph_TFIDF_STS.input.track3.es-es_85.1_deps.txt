@@ -1,0 +1,5 @@
+material	black	amod
+man	sad	amod
+putting	street	nmod:on
+putting	material	dobj
+man	putting	acl

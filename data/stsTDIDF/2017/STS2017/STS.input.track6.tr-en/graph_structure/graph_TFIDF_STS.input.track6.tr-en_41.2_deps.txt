@@ -1,0 +1,5 @@
+person	floating	acl
+person	talking	conj:and
+talking	someone	nmod:to
+floating	pool	nmod:in
+person	and	cc

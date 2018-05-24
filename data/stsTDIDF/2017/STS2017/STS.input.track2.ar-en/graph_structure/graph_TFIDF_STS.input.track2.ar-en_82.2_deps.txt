@@ -1,0 +1,8 @@
+high	air	nmod:in
+bike	on	case
+high	very	advmod
+offers	man	nsubj
+high	offers	csubj
+bike	a	det
+offers	tricks	dobj
+offers	bike	nmod:on

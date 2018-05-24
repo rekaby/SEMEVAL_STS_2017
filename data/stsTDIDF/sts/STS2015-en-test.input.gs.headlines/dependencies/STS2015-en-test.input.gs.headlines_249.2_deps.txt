@@ -1,0 +1,8 @@
+nummod	children	Nine
+nsubj	die	children
+root	ROOT	die
+case	attack	in
+nmod:in	die	attack
+case	Afghanistan	in
+nmod:in	attack	Afghanistan
+dobj	die	attack

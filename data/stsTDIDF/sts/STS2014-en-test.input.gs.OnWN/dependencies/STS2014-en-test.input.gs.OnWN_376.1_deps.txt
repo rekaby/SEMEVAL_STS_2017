@@ -1,0 +1,7 @@
+root	ROOT	Provide
+amod	gratification	sexual
+dobj	Provide	gratification
+case	stimulation	through
+amod	stimulation	oral
+nmod:through	Provide	stimulation
+punct	Provide	.

@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+case	son	with
+nmod:poss	son	his
+nmod:with	man	son
+case	farm	on
+det	farm	a
+compound	farm	horse
+nmod:on	son	farm
+case	areas	in
+det	areas	the
+amod	areas	rural
+nmod:in	farm	areas
+punct	man	.

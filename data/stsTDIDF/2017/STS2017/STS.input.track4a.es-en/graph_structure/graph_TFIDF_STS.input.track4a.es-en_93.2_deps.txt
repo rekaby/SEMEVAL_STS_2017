@@ -1,0 +1,4 @@
+band	performing	acl
+performing	crowd	nmod:in_front_of
+is	band	nsubj
+crowd	large	amod

@@ -1,0 +1,4 @@
+root	ROOT	say
+xcomp	say	mean
+dobj	mean	things
+punct	say	.

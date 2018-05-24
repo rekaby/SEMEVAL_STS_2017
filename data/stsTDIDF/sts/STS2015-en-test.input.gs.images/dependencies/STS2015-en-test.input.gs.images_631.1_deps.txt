@@ -1,0 +1,11 @@
+det	cyclist	a
+nsubj	making	cyclist
+aux	making	is
+root	ROOT	making
+nmod:poss	jump	his
+compound	jump	bike
+dobj	making	jump
+case	rocks	between
+nummod	rocks	two
+nmod:between	jump	rocks
+punct	making	.

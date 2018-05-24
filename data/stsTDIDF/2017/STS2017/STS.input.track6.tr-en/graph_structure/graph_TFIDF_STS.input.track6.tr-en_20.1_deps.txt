@@ -1,0 +1,8 @@
+Boy	look	advcl
+ROOT	Boy	root
+look	parents	nsubj
+trunks	pavements	nmod:on
+Boy	trunks	nmod:in
+trunks	in	case
+pavements	watery	amod
+pavements	on	case

@@ -1,0 +1,17 @@
+det	man	The
+nsubj	has	man
+root	ROOT	has
+det	scarf	a
+amod	scarf	black
+cc	black	and
+conj:and	black	white
+dobj	has	scarf
+case	neck	around
+nmod:poss	neck	his
+nmod:around	has	neck
+cc	has	and
+conj:and	has	wearing
+det	hat	a
+amod	hat	black
+dobj	wearing	hat
+punct	has	.

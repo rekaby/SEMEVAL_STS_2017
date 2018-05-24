@@ -1,0 +1,5 @@
+root	ROOT	Stir
+nmod:poss	couch	man
+case	man	's
+dobj	Stir	couch
+punct	Stir	.

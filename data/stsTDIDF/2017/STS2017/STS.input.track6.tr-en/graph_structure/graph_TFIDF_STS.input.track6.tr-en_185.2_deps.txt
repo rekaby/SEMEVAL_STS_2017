@@ -1,0 +1,5 @@
+athletes	Three	nummod
+ROOT	posing	root
+posing	photo	nmod:for
+photo	for	case
+posing	athletes	nsubj

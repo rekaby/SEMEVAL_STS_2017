@@ -1,0 +1,9 @@
+compound	Islands	Magnitude-6
+nummod	Islands	.0
+compound	Islands	quake
+compound	Islands	jolts
+compound	Islands	Santa
+compound	Islands	Cruz
+root	ROOT	Islands
+punct	Islands	:
+dep	Islands	CENC

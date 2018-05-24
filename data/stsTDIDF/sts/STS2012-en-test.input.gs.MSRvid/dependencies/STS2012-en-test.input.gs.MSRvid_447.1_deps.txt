@@ -1,0 +1,7 @@
+det	chef	A
+nsubj	preparing	chef
+aux	preparing	is
+root	ROOT	preparing
+det	food	some
+dobj	preparing	food
+punct	preparing	.

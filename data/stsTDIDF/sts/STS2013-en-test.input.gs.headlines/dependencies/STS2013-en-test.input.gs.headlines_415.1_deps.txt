@@ -1,0 +1,6 @@
+nsubj	focus	Obama
+cc	Obama	and
+conj:and	Obama	Romney
+root	ROOT	focus
+case	swing-states	on
+nmod:on	focus	swing-states

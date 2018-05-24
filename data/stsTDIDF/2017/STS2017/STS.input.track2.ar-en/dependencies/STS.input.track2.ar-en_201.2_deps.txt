@@ -1,0 +1,9 @@
+compound	Ptsabakan	Kalban
+root	ROOT	Ptsabakan
+case	other	with
+det	other	each
+nmod:with	Ptsabakan	other
+case	water	in
+det	water	the
+nmod:in	other	water
+punct	Ptsabakan	.

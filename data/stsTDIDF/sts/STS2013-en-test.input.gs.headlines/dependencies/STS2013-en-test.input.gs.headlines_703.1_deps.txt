@@ -1,0 +1,8 @@
+compound	Bolt	Usain
+nsubj	wins	Bolt
+root	ROOT	wins
+dobj	wins	200m
+punct	200m	--
+compound	reaction	Steven
+compound	reaction	Howard
+dep	200m	reaction

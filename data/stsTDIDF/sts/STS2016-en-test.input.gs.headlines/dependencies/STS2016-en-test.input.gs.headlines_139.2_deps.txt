@@ -1,0 +1,8 @@
+root	ROOT	Headlines
+case	newspapers	in
+amod	newspapers	several
+amod	newspapers	Iranian
+nmod:in	Headlines	newspapers
+case	Oct	on
+nmod:on	Headlines	Oct
+nummod	Oct	19

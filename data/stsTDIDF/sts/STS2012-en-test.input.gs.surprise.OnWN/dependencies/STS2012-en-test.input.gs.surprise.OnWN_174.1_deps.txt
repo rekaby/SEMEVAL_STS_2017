@@ -1,0 +1,10 @@
+root	ROOT	area
+case	damaged	of
+acl:of	area	damaged
+punct	damaged	,
+conj	damaged	cut
+dobj	cut	tissue
+case	body	on
+det	body	a
+compound	body	living
+nmod:on	cut	body

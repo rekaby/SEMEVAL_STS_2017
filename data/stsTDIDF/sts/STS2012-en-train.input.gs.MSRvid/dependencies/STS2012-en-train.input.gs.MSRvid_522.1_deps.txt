@@ -1,0 +1,10 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+det	jetski	a
+dobj	riding	jetski
+case	waves	in
+det	waves	the
+nmod:in	riding	waves
+punct	riding	.

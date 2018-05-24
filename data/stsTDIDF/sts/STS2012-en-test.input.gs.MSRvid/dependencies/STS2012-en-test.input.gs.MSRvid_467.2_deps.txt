@@ -1,0 +1,8 @@
+det	baby	A
+nsubj	crawling	baby
+aux	crawling	is
+root	ROOT	crawling
+case	floor	across
+det	floor	the
+nmod:across	crawling	floor
+punct	crawling	.

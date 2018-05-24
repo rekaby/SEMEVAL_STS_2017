@@ -1,0 +1,7 @@
+compound	Breaks	Justice
+compound	Breaks	Thomas
+nsubj	Silence	Breaks
+nmod:poss	Silence	His
+root	ROOT	Silence
+case	Court	in
+nmod:in	Silence	Court

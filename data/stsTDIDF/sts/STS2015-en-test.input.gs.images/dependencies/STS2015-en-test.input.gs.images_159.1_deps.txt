@@ -1,0 +1,17 @@
+det	boy	A
+amod	boy	young
+nsubj	eating	boy
+acl	boy	wearing
+det	coat	a
+amod	coat	red
+compound	coat	winter
+dobj	wearing	coat
+aux	eating	is
+root	ROOT	eating
+cc	eating	and
+conj:and	eating	holding
+compound:prt	holding	up
+det	bar	a
+compound	bar	candy
+dobj	holding	bar
+punct	eating	.

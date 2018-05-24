@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	young
+amod	girl	blonde
+root	ROOT	girl
+acl	girl	wearing
+det	smile	a
+dobj	wearing	smile
+cc	smile	and
+det	helmet	a
+compound	helmet	bicycle
+conj:and	smile	helmet
+punct	girl	.

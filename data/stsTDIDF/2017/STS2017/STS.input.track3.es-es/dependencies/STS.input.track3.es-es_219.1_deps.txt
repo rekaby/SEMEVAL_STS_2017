@@ -1,0 +1,6 @@
+det	child	A
+root	ROOT	child
+case	balloon	with
+det	balloon	a
+nmod:with	child	balloon
+punct	child	.

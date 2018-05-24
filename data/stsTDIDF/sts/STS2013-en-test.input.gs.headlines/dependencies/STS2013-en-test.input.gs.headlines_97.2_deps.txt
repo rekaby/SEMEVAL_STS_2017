@@ -1,0 +1,6 @@
+nsubj	decries	US
+root	ROOT	decries
+compound	doctor	Pakistan
+nmod:poss	fate	doctor
+case	doctor	's
+dobj	decries	fate

@@ -1,0 +1,13 @@
+tail	crocodile	nmod:poss
+holding	's	aux
+holding	who	nsubj
+crocodile	fake	amod
+kid	's	cop
+kid	It	nsubj
+ROOT	kid	root
+crocodile	's	case
+kid	.	punct
+holding	tail	nmod:onto
+crocodile	a	det
+kid	holding	acl:relcl
+tail	onto	case

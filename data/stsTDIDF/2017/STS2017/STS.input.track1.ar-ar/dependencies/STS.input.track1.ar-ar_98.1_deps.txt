@@ -1,0 +1,9 @@
+nsubj	going	Someone
+aux	going	is
+root	ROOT	going
+mark	swim	to
+xcomp	going	swim
+case	ocean	in
+det	ocean	the
+nmod:in	swim	ocean
+punct	going	.

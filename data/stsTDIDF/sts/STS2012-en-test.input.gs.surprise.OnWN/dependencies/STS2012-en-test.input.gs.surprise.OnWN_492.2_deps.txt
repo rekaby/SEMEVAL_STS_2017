@@ -1,0 +1,5 @@
+root	ROOT	accept
+det	excuse	an
+dobj	accept	excuse
+acl	excuse	for
+punct	accept	.

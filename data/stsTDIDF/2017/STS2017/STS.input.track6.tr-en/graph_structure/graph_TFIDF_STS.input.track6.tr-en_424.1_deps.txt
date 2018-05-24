@@ -1,0 +1,9 @@
+structure	burned	acl
+people	man	appos
+people	,	punct
+structure	at	case
+burned	down	compound:prt
+looking	people	nsubj
+structure	a	det
+looking	structure	nmod:at
+burned	being	auxpass

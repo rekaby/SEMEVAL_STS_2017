@@ -1,0 +1,8 @@
+nsubj	found	Producer
+case	videos	of
+amod	videos	popular
+amod	videos	gun-related
+nmod:of	Producer	videos
+root	ROOT	found
+advmod	shot	fatally
+dobj	found	shot

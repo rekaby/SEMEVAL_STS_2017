@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+root	ROOT	rises
+case	236	to
+nmod:to	rises	236
+case	blasts	after
+compound	blasts	Brazzaville
+nmod:after	rises	blasts

@@ -1,0 +1,12 @@
+aux	cash	Should
+nsubj	cash	I
+root	ROOT	cash
+compound:prt	cash	out
+nmod:poss	IRA	my
+dobj	cash	IRA
+mark	pay	to
+advcl	cash	pay
+nmod:poss	loans	my
+compound	loans	student
+dobj	pay	loans
+punct	cash	?

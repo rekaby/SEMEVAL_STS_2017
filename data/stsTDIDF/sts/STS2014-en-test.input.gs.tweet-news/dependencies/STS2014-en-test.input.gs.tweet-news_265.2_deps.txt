@@ -1,0 +1,10 @@
+nsubj	held	Man
+root	ROOT	held
+case	woman	after
+nmod:after	held	woman
+acl	woman	thrown
+case	tracks	onto
+compound	tracks	subway
+nmod:onto	thrown	tracks
+case	Philadelphia	in
+nmod:in	woman	Philadelphia

@@ -1,0 +1,8 @@
+det	lamb	A
+nsubj	stands	lamb
+root	ROOT	stands
+case	animals	near
+nummod	animals	two
+amod	animals	tiny
+nmod:near	stands	animals
+punct	stands	.

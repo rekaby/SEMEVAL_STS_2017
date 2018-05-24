@@ -1,0 +1,10 @@
+compound	victim	Notre
+compound	victim	Dame
+compound	victim	linebacker
+root	ROOT	victim
+case	hoax	of
+det	hoax	a
+compound	hoax	Catfish
+compound	hoax	type
+nmod:of	victim	hoax
+punct	victim	?

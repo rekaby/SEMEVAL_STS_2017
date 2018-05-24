@@ -1,0 +1,13 @@
+Factor	peace	nmod:of
+men	works	nmod:at
+jacket	,	punct
+peace	wearing	acl
+ROOT	Factor	root
+works	bottom	amod
+wearing	jacket	dobj
+while	men	dep
+jacket	helmet	compound
+men	other	amod
+jacket	steel	compound
+Factor	,	punct
+works	at	case

@@ -1,0 +1,6 @@
+nsubj	resume	China
+mark	resume	to
+root	ROOT	resume
+compound	talks	US
+compound	talks	investment
+dobj	resume	talks

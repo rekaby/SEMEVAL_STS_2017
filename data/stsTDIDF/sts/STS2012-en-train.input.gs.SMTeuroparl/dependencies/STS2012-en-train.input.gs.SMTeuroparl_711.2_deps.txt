@@ -1,0 +1,24 @@
+nsubj	crosses	It
+root	ROOT	crosses
+det	January	the
+nummod	January	8
+dobj	crosses	January
+case	year	of
+det	year	this
+nmod:of	January	year
+punct	crosses	.-9) nsubj(is-2, it
+root	ROOT	is
+mark	have	to
+xcomp	is	have
+det	Union	a
+dobj	have	Union
+case	opponents	of
+amod	opponents	Tunisian
+nmod:of	Union	opponents
+case	France	in
+nmod:in	opponents	France
+punct	Union	,
+nsubj	it	which
+advmod	it	Moreover
+acl:relcl	Union	it
+punct	is	.

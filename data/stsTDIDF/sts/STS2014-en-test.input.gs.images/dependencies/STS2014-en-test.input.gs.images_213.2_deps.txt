@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	large
+nsubj	flying	bird
+aux	flying	is
+root	ROOT	flying
+case	air	through
+det	air	the
+nmod:through	flying	air
+punct	flying	.

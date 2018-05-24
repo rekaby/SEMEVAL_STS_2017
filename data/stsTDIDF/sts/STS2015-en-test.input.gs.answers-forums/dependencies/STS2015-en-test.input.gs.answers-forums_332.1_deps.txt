@@ -1,0 +1,15 @@
+nsubj	started	I
+aux	started	've
+root	ROOT	started
+nmod:poss	tool	my
+amod	tool	own
+dobj	started	tool
+mark	like	since
+nsubj	like	I
+aux	like	did
+neg	like	n't
+advcl	started	like
+dobj	like	yWriter
+cc	yWriter	and
+conj:and	yWriter	Storybook
+punct	started	.

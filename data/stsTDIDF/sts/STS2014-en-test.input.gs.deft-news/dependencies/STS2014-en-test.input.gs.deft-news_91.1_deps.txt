@@ -1,0 +1,16 @@
+nsubj	told	lavrov
+aux	told	has
+root	ROOT	told
+compound	secretary	us
+dobj	told	secretary
+case	rice	of
+compound	rice	state
+compound	rice	condoleezza
+nmod:of	secretary	rice
+dobj	remains	that
+nsubj	remains	russia
+acl:relcl	rice	remains
+xcomp	remains	open
+case	dialogue	to
+nmod:to	open	dialogue
+punct	told	.

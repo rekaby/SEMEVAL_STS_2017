@@ -1,0 +1,7 @@
+tire	on	case
+play	children	nsubj
+tire	swing	compound
+tire	a	det
+tire	large	amod
+children	Two	nummod
+play	tire	nmod:on

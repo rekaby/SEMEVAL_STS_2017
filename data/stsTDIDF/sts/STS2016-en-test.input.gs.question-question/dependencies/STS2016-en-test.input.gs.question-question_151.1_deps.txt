@@ -1,0 +1,11 @@
+advmod	tell	How
+aux	tell	can
+nsubj	tell	I
+root	ROOT	tell
+mark	seems	whether
+det	journal	a
+compound	journal	mathematics
+nsubj	seems	journal
+ccomp	tell	seems
+xcomp	seems	reputable
+punct	tell	?

@@ -1,0 +1,12 @@
+mark	had	If
+nsubj	had	I
+advcl	choice	had
+mark	pick	to
+xcomp	had	pick
+punct	choice	,
+nsubj	choice	Linhof
+aux	choice	would
+cop	choice	be
+nmod:poss	choice	my
+root	ROOT	choice
+punct	choice	.

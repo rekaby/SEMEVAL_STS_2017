@@ -1,0 +1,14 @@
+nsubj	grazing	Sheep
+cop	grazing	are
+root	ROOT	grazing
+case	field	in
+det	field	the
+nmod:in	grazing	field
+case	line	in
+mwe	in	front
+mwe	in	of
+det	line	a
+nmod:in_front_of	field	line
+case	trees	of
+nmod:of	line	trees
+punct	grazing	.

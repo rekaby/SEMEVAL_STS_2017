@@ -1,0 +1,8 @@
+root	ROOT	cost
+cc	cost	or
+amod	value	monetary
+conj:or	cost	value
+case	goods	of
+nmod:of	cost	goods
+cc	goods	or
+conj:or	goods	services

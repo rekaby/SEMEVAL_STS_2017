@@ -1,0 +1,8 @@
+det	boy	A
+root	ROOT	boy
+cc	boy	and
+det	dog	a
+conj:and	boy	dog
+acl	dog	running
+case	grass	on
+nmod:on	running	grass

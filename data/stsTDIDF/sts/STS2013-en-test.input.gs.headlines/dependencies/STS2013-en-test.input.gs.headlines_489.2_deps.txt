@@ -1,0 +1,7 @@
+nsubj	plans	EU
+root	ROOT	plans
+amod	sanctions	major
+amod	sanctions	new
+dobj	plans	sanctions
+case	Iran	against
+nmod:against	sanctions	Iran

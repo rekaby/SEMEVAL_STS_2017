@@ -1,0 +1,9 @@
+nummod	women	Two
+root	ROOT	women
+dep	women	Tjlsan
+case	table	to
+nmod:to	Tjlsan	table
+nmod:poss	clothes	their
+nsubj	resemble	clothes
+acl:relcl	table	resemble
+dobj	resemble	frogs

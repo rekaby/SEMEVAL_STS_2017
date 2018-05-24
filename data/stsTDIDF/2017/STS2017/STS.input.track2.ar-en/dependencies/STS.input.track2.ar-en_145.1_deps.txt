@@ -1,0 +1,9 @@
+det	player	a
+nsubjpass	tackled	player
+acl	player	throwing
+det	ball	a
+dobj	throwing	ball
+auxpass	tackled	is
+root	ROOT	tackled
+case	another	by
+nmod:agent	tackled	another

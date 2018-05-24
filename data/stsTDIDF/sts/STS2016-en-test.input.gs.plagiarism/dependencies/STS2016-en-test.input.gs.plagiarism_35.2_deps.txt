@@ -1,0 +1,17 @@
+case	word	In
+det	word	a
+nmod:in	solve	word
+punct	solve	,
+nsubj	solve	we
+aux	solve	can
+root	ROOT	solve
+det	problem	a
+dobj	solve	problem
+case	substructure	with
+amod	substructure	optimal
+nmod:with	problem	substructure
+xcomp	solve	using
+det	process	a
+amod	process	three-step
+dobj	using	process
+punct	solve	.

@@ -1,0 +1,13 @@
+det	government	the
+amod	government	chinese
+nsubj	strengthened	government
+aux	strengthened	has
+root	ROOT	strengthened
+nmod:poss	capacity	china
+case	china	's
+amod	capacity	anti-proliferation
+dobj	strengthened	capacity
+case	years	in
+amod	years	recent
+nmod:in	strengthened	years
+punct	strengthened	.

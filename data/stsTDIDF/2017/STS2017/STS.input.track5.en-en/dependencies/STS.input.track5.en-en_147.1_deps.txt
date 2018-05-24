@@ -1,0 +1,12 @@
+amod	image	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	image
+case	wave	of
+det	wave	a
+nmod:of	image	wave
+acl	wave	crashing
+case	ocean	in
+det	ocean	the
+nmod:in	crashing	ocean
+punct	image	.

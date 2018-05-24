@@ -1,0 +1,4 @@
+standing	microwave	nmod:next_to
+microwave	next	case
+microwave	a	det
+woman	standing	acl

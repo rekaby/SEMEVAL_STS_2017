@@ -1,0 +1,6 @@
+compound	Blog	Live
+root	ROOT	Blog
+punct	Blog	:
+dep	Blog	Iraq
+case	Turmoil	In
+nmod:in	Iraq	Turmoil

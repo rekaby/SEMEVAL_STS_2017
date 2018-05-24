@@ -1,0 +1,13 @@
+det	battle	The
+nsubj	rages	battle
+case	service	around
+compound	service	VeriSign
+punct	service	``
+compound	service	s
+amod	Site	three-week-old
+compound	service	Site
+compound	service	Finder
+nmod:around	battle	service
+root	ROOT	rages
+advmod	rages	on
+punct	rages	.

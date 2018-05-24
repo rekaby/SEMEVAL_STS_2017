@@ -1,0 +1,15 @@
+nsubjpass	separated	terminals
+auxpass	separated	are
+root	ROOT	separated
+case	gay	by
+det	gay	a
+nmod:agent	separated	gay
+case	terminals	between
+det	terminals	the
+amod	terminals	positive
+cc	positive	and
+conj:and	positive	negative
+nmod:between	gay	terminals
+case	battery	of
+det	battery	the
+nmod:of	terminals	battery

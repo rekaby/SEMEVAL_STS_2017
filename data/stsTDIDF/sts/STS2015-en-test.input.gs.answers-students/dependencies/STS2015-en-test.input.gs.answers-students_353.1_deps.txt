@@ -1,0 +1,7 @@
+mark	open	if
+det	path	the
+nsubj	open	path
+cop	open	is
+root	ROOT	open
+cc	open	or
+conj:or	open	closed

@@ -1,0 +1,7 @@
+det	man	The
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+nmod:poss	bike	his
+dobj	walking	bike
+punct	walking	.

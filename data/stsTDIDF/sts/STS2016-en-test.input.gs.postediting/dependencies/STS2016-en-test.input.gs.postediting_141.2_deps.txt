@@ -1,0 +1,5 @@
+root	ROOT	Colossus
+case	attack	to
+det	attack	the
+nmod:to	Colossus	attack
+punct	Colossus	.

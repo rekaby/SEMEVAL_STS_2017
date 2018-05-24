@@ -1,0 +1,12 @@
+nsubj	Starts	Williams
+root	ROOT	Starts
+advmod	Starts	Strong
+punct	Starts	,
+cc	Starts	but
+compound	Don?t	Nets
+nsubj	Follow	Don?t
+conj:but	Starts	Follow
+case	Loss	in
+nmod:in	Follow	Loss
+case	Rockets	to
+nmod:to	Loss	Rockets

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+dobj	walking	stairs
+punct	walking	.

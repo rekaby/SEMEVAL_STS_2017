@@ -1,0 +1,14 @@
+nsubj	acquired	Microsoft
+root	ROOT	acquired
+amod	PC	Virtual
+dobj	acquired	PC
+case	developer	from
+nmod:poss	developer	its
+nmod:from	acquired	developer
+punct	developer	,
+appos	developer	Connectix
+punct	developer	,
+advmod	year	earlier
+det	year	this
+nmod:tmod	developer	year
+punct	acquired	.

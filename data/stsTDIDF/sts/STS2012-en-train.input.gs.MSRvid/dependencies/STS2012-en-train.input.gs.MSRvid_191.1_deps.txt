@@ -1,0 +1,12 @@
+det	man	The
+nsubj	erased	man
+root	ROOT	erased
+dobj	had	what
+det	man	the
+amod	man	other
+nsubj	had	man
+ccomp	erased	had
+case	board	on
+det	board	the
+nmod:on	had	board
+punct	erased	.

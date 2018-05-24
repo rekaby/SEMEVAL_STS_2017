@@ -1,0 +1,8 @@
+nsubj	admire	Tourists
+root	ROOT	admire
+case	fountain	in
+nmod:poss	fountain	Rome
+case	Rome	's
+compound	fountain	Trevi
+nmod:in	admire	fountain
+punct	admire	.

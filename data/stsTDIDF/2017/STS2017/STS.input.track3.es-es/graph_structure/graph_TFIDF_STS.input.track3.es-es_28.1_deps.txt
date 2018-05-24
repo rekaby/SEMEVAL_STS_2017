@@ -1,0 +1,9 @@
+wearing	headscarves	dobj
+poses	group	nsubj
+group	wearing	acl
+poses	.	punct
+photo	for	case
+poses	photo	nmod:for
+ROOT	poses	root
+group	girls	nmod:of
+photo	group	compound

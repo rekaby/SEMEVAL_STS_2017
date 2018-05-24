@@ -1,0 +1,14 @@
+nsubj	allow	withdrawal
+case	treaty	from
+det	treaty	the
+nmod:from	withdrawal	treaty
+aux	allow	would
+root	ROOT	allow
+dobj	allow	russia
+mark	bolster	to
+xcomp	allow	bolster
+dobj	bolster	forces
+case	borders	near
+amod	borders	russian
+nmod:near	forces	borders
+punct	allow	.

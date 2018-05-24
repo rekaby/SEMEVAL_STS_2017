@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+det	unicycle	a
+dobj	riding	unicycle
+case	road	down
+det	road	a
+amod	road	paved
+nmod:down	riding	road

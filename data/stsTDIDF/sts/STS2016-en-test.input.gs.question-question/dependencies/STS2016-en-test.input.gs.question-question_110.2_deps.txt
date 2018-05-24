@@ -1,0 +1,10 @@
+root	ROOT	What
+cop	What	are
+det	routines	some
+amod	routines	good
+compound	routines	strength
+compound	routines	training
+nsubj	What	routines
+case	runners	for
+nmod:for	routines	runners
+punct	What	?

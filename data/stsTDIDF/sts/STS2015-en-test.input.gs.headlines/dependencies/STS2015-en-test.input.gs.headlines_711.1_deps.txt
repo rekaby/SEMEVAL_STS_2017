@@ -1,0 +1,9 @@
+amod	smog	Heavy
+nsubj	hits	smog
+root	ROOT	hits
+advmod	city	north
+compound	city	China
+dobj	hits	city
+punct	hits	,
+nsubj	cancelled	flights
+parataxis	hits	cancelled

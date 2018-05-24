@@ -1,0 +1,12 @@
+root	ROOT	Avoid
+cc	Avoid	or
+conj:or	Avoid	try
+mark	avoid	to
+xcomp	try	avoid
+ccomp	avoid	fulfilling
+punct	fulfilling	,
+conj:or	fulfilling	answering
+punct	fulfilling	,
+cc	fulfilling	or
+conj:or	fulfilling	performing
+punct	Avoid	.

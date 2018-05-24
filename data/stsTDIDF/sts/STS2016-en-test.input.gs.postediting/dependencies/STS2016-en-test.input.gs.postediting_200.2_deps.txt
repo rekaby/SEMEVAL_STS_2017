@@ -1,0 +1,10 @@
+case	ego	With
+amod	ego	little
+root	ROOT	ego
+punct	ego	,
+det	show	the
+amod	show	ultimate
+root	,	show
+case	quality	of
+nmod:of	show	quality
+punct	show	.

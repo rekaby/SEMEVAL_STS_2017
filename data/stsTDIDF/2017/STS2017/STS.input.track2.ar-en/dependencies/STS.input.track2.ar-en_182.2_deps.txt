@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	talks	woman
+root	ROOT	talks
+case	children	to
+det	children	the
+nmod:to	talks	children
+punct	talks	.

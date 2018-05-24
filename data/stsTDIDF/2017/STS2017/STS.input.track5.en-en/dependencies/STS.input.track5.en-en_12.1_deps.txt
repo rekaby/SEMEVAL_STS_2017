@@ -1,0 +1,16 @@
+det	cooks	These
+nsubj	busy	cooks
+case	white	in
+det	white	the
+nmod:in	cooks	white
+cop	busy	are
+root	ROOT	busy
+case	kitchen	in
+det	kitchen	the
+nmod:in	busy	kitchen
+acl	kitchen	making
+dobj	making	dinner
+case	customers	for
+nmod:poss	customers	their
+nmod:for	making	customers
+punct	busy	.

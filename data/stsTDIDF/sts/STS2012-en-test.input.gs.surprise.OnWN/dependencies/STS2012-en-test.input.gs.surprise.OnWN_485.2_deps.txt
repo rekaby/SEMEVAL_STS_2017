@@ -1,0 +1,11 @@
+det	force	a
+root	ROOT	force
+nsubj	branch	that
+cop	branch	is
+det	branch	a
+acl:relcl	force	branch
+case	forces	of
+det	forces	the
+amod	forces	armed
+nmod:of	branch	forces
+punct	force	.

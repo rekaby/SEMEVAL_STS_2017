@@ -1,0 +1,9 @@
+compound	rockets	Gazans
+compound	rockets	fire
+nummod	rockets	2
+root	ROOT	rockets
+case	Israel	into
+nmod:into	rockets	Israel
+punct	rockets	;
+neg	injuries	no
+dep	rockets	injuries

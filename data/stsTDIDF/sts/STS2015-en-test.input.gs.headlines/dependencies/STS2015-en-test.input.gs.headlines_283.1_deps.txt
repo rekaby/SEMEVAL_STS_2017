@@ -1,0 +1,7 @@
+root	ROOT	G7
+punct	intensify	`
+mark	intensify	to
+acl:'	G7	intensify
+compound	sanctions	Russia
+dobj	intensify	sanctions
+case	intensify	'

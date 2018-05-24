@@ -1,0 +1,7 @@
+nsubjpass	connected	circuit
+nummod	circuit	2
+auxpass	connected	is
+root	ROOT	connected
+case	battery	to
+det	battery	the
+nmod:to	connected	battery

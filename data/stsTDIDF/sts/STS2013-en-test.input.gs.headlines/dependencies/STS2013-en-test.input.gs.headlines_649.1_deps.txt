@@ -1,0 +1,7 @@
+compound	Afghanistan	US
+root	ROOT	Afghanistan
+amod	Afghanistan	general
+dep	general	linked
+case	scandal	to
+compound	scandal	Petraeus
+nmod:to	linked	scandal

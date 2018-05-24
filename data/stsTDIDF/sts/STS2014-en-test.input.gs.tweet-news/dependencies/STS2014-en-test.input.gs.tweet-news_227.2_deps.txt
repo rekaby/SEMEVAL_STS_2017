@@ -1,0 +1,11 @@
+root	ROOT	Slap
+dobj	Slap	Shot
+punct	Shot	:
+dep	Shot	N.H.L.
+punct	Slap	?-5) compound(Sprint-2, s
+nsubj	Includes	Sprint
+case	Season	of
+det	Season	a
+nmod:of	Sprint	Season
+root	ROOT	Includes
+dobj	Includes	Pitfalls

@@ -1,0 +1,4 @@
+looks	woman	nsubj
+person	at	case
+person	another	det
+looks	person	nmod:at

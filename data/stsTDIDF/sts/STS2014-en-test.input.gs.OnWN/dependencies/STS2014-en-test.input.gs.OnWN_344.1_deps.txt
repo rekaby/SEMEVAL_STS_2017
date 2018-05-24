@@ -1,0 +1,8 @@
+det	campaign	an
+amod	campaign	official
+root	ROOT	campaign
+case	harm	against
+det	harm	a
+amod	harm	perceived
+amod	harm	societal
+nmod:against	campaign	harm

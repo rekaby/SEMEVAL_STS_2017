@@ -1,0 +1,8 @@
+det	person	a
+nsubj	chased	person
+nsubjpass	pursued	who
+auxpass	pursued	is
+advmod	pursued	aggressively
+acl:relcl	person	pursued
+punct	person	,
+root	ROOT	chased

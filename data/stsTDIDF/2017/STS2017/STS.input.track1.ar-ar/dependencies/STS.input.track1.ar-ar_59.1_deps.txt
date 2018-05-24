@@ -1,0 +1,9 @@
+nsubj	taking	People
+root	ROOT	taking
+dobj	taking	photos
+case	one	of
+nmod:of	photos	one
+case	elephants	of
+det	elephants	the
+nmod:of	one	elephants
+punct	taking	.

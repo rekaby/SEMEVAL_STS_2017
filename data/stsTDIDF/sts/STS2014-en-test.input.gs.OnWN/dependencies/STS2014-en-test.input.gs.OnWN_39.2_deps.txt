@@ -1,0 +1,6 @@
+root	ROOT	make
+amod	claims	undue
+dobj	make	claims
+mark	having	to
+advcl	make	having
+punct	make	.

@@ -1,0 +1,12 @@
+det	family	The
+nsubj	owns	family
+root	ROOT	owns
+compound	clubs	Cheetahs
+compound	clubs	strip
+dobj	owns	clubs
+advmod	owns	here
+cc	owns	and
+case	Vegas	in
+compound	Vegas	Las
+conj:and	owns	Vegas
+punct	owns	.

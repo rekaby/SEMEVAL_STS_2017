@@ -1,0 +1,9 @@
+nsubj	owned	Xerox
+aux	owned	could
+aux	owned	have
+root	ROOT	owned
+det	industry	the
+amod	industry	entire
+compound	industry	computer
+dobj	owned	industry
+punct	owned	.

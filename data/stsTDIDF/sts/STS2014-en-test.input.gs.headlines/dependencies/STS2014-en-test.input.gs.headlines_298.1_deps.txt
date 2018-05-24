@@ -1,0 +1,10 @@
+nsubj	hits	Meteorite
+root	ROOT	hits
+amod	Russia	central
+dobj	hits	Russia
+punct	hits	,
+advmod	500	more
+mwe	more	than
+nummod	people	500
+nsubj	hurt	people
+parataxis	hits	hurt

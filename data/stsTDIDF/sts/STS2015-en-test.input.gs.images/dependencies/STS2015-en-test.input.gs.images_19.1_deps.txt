@@ -1,0 +1,9 @@
+nsubj	riding	Man
+root	ROOT	riding
+det	bicycle	a
+dobj	riding	bicycle
+case	path	down
+det	path	a
+amod	path	narrow
+nmod:down	riding	path
+punct	riding	.

@@ -1,0 +1,8 @@
+amod	slump	Asian
+compound	slump	markets
+nsubj	fears	slump
+case	stimulus	on
+amod	stimulus	central
+compound	stimulus	bank
+nmod:on	slump	stimulus
+root	ROOT	fears

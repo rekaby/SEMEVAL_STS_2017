@@ -1,0 +1,17 @@
+nsubj	refused	Lay
+aux	refused	had
+root	ROOT	refused
+mark	turn	to
+xcomp	refused	turn
+compound:prt	turn	over
+det	papers	the
+dobj	turn	papers
+punct	refused	,
+xcomp	refused	asserting
+nmod:poss	right	his
+compound	right	Fifth
+compound	right	Amendment
+dobj	asserting	right
+case	self-incrimination	against
+nmod:against	right	self-incrimination
+punct	refused	.

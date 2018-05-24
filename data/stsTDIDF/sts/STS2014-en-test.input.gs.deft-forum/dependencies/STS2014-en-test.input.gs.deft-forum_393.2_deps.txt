@@ -1,0 +1,11 @@
+nsubj	accept	Ford
+aux	accept	did
+neg	accept	n't
+root	ROOT	accept
+compound	money	taxpayer
+dobj	accept	money
+mark	save	to
+advcl	accept	save
+det	company	the
+dobj	save	company
+punct	accept	.

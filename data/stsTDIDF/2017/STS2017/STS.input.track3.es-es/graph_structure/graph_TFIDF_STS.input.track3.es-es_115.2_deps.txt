@@ -1,0 +1,4 @@
+image	this	det
+sign	image	nmod:in
+is	sign	nsubj
+image	in	case

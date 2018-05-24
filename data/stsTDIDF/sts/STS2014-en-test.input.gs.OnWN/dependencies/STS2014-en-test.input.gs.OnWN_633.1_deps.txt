@@ -1,0 +1,8 @@
+det	context	a
+root	ROOT	context
+cc	context	or
+conj:or	context	situation
+nsubj	hinders	that
+acl:relcl	context	hinders
+cc	hinders	or
+conj:or	hinders	impedes

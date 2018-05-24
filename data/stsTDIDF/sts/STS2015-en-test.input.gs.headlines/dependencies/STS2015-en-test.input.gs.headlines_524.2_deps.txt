@@ -1,0 +1,8 @@
+nsubj	alerts	Flood
+nsubj	rise	alerts
+case	France	in
+nmod:in	alerts	France
+case	levels	as
+compound	levels	river
+nmod:as	alerts	levels
+root	ROOT	rise

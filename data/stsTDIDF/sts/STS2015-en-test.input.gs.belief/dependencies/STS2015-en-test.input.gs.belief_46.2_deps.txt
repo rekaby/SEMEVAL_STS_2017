@@ -1,0 +1,8 @@
+nsubj	talking	you
+aux	talking	're
+neg	talking	not
+root	ROOT	talking
+case	events	about
+amod	events	current
+nmod:about	talking	events
+punct	talking	.

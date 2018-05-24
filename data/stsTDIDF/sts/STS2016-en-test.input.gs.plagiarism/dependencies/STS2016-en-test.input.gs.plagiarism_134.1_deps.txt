@@ -1,0 +1,15 @@
+nmod:poss	payoff	Google
+case	Google	's
+nsubj	is	payoff
+root	ROOT	is
+mark	gets	that
+nsubj	gets	it
+ccomp	is	gets
+mark	track	to
+xcomp	gets	track
+det	behaviour	the
+dobj	track	behaviour
+case	users	of
+amod	users	actual
+nmod:of	behaviour	users
+punct	is	.

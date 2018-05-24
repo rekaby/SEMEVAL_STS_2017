@@ -1,0 +1,5 @@
+Man	.	punct
+ROOT	Man	root
+communicate	to	mark
+trying	communicate	xcomp
+Man	trying	acl

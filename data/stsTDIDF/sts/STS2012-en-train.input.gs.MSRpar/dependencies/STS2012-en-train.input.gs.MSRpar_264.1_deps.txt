@@ -1,0 +1,16 @@
+det	passenger	The
+amod	passenger	injured
+nsubj	died	passenger
+case	Hospital	at
+compound	Hospital	John
+compound	Hospital	Peter
+compound	Hospital	Smith
+nmod:at	passenger	Hospital
+ccomp	said	died
+advmod	died	later
+compound	morning	Friday
+nmod:tmod	died	morning
+punct	said	,
+nsubj	said	Jones
+root	ROOT	said
+punct	said	.

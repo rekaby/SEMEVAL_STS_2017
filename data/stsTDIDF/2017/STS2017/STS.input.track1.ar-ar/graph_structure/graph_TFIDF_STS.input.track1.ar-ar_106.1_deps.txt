@@ -1,0 +1,9 @@
+shellfish	for	case
+ROOT	Hop	root
+Hop	around	advmod
+Hop	.	punct
+Hop	beach	nmod:on
+Hop	looking	conj:and
+Hop	and	cc
+looking	shellfish	nmod:for
+Hop	Children	nsubj

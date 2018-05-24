@@ -1,0 +1,10 @@
+nsubj	killed	41
+root	ROOT	killed
+punct	killed	,
+dep	killed	22
+acl	22	wounded
+case	attacks	in
+amod	attacks	violent
+nmod:in	wounded	attacks
+case	Iraq	in
+nmod:in	wounded	Iraq

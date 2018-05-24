@@ -1,0 +1,7 @@
+root	ROOT	become
+xcomp	become	wrinkled
+cc	wrinkled	or
+conj:or	wrinkled	crumpled
+cc	wrinkled	or
+conj:or	wrinkled	creased
+punct	become	.

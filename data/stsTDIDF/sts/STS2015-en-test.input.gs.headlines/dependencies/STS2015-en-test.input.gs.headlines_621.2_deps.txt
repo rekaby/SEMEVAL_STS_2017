@@ -1,0 +1,17 @@
+compound	Shutdown	US
+compound	Shutdown	Government
+root	ROOT	Shutdown
+punct	Shutdown	:
+nsubj	tells	Obama
+appos	Shutdown	tells
+dobj	tells	Republicans
+mark	lift	to
+xcomp	tells	lift
+dobj	lift	threat
+case	economy	to
+compound	economy	US
+nmod:to	threat	economy
+mark	want	if
+nsubj	want	they
+advcl	lift	want
+dobj	want	talks

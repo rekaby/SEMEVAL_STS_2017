@@ -1,0 +1,8 @@
+det	child	The
+nsubj	kid	child
+cop	kid	is
+det	woman	the
+nmod:poss	kid	woman
+case	woman	's
+root	ROOT	kid
+punct	kid	.

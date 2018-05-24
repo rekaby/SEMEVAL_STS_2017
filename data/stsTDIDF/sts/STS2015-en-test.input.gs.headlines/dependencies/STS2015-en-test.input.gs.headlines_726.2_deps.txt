@@ -1,0 +1,11 @@
+dep	set	Funeral
+case	chief	for
+compound	chief	Pakistan
+compound	chief	Taliban
+nmod:for	Funeral	chief
+punct	set	`
+root	ROOT	set
+mark	take	to
+xcomp	set	take
+dobj	take	place
+punct	set	'

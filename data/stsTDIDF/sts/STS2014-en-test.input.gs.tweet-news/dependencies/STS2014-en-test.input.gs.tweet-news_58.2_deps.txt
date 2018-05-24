@@ -1,0 +1,5 @@
+compound	Swimming	Dolphin
+root	ROOT	Swimming
+case	Canal	in
+compound	Canal	Gowanus
+nmod:in	Swimming	Canal

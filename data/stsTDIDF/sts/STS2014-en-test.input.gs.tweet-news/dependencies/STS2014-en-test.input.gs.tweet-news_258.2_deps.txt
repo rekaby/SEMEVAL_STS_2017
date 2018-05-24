@@ -1,0 +1,7 @@
+compound	Globes	Golden
+nsubj	kick	Globes
+root	ROOT	kick
+compound:prt	kick	off
+compound	award	Hollywood
+dobj	kick	award
+dobj	kick	season

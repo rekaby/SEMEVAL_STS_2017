@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+nummod	teams	two
+nsubj	are	teams
+case	field	in
+det	field	the
+nmod:in	teams	field
+punct	are	.

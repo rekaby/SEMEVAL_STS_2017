@@ -1,0 +1,12 @@
+det	nba	the
+nsubj	example	nba
+cop	example	is
+det	example	a
+amod	example	classic
+root	ROOT	example
+case	government	of
+det	government	a
+nmod:of	example	government
+amod	monopoly	enforced
+dep	government	monopoly
+punct	example	.

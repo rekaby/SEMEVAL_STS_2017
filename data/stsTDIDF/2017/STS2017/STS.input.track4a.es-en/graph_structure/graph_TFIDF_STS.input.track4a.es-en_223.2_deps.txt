@@ -1,0 +1,6 @@
+laying	are	aux
+laying	Bicycles	nsubj
+laying	.	punct
+ROOT	laying	root
+side	road	nmod:of
+laying	side	nmod:on

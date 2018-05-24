@@ -1,0 +1,8 @@
+nummod	employees	17
+compound	employees	govt
+root	ROOT	employees
+acl	employees	killed
+case	bombing	in
+compound	bombing	Pakistan
+compound	bombing	bus
+nmod:in	killed	bombing

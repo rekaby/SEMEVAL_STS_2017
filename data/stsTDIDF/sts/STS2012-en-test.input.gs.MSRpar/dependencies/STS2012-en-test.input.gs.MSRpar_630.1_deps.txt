@@ -1,0 +1,17 @@
+det	panel	The
+nsubj	ordered	panel
+root	ROOT	ordered
+det	Department	the
+compound	Department	Commerce
+dobj	ordered	Department
+mark	issue	to
+xcomp	ordered	issue
+amod	figures	revised
+dobj	issue	figures
+case	duties	for
+det	duties	the
+nmod:for	figures	duties
+case	days	within
+nummod	days	60
+nmod:within	duties	days
+punct	ordered	.

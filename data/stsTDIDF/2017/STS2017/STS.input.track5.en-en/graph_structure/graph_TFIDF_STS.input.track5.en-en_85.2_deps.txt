@@ -1,0 +1,8 @@
+packet	a	det
+drinking	boy	nsubj
+drinking	packet	nmod:from
+drinking	.	punct
+ROOT	drinking	root
+drinking	is	aux
+packet	from	case
+packet	juice	compound

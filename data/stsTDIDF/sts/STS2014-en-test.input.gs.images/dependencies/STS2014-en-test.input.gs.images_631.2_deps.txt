@@ -1,0 +1,8 @@
+amod	space	Small
+compound	space	office
+root	ROOT	space
+case	walls	with
+amod	walls	bright
+amod	walls	green
+nmod:with	space	walls
+punct	space	.

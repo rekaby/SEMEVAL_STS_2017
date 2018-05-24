@@ -1,0 +1,13 @@
+compound	Parseghian	Gregory
+nsubjpass	appointed	Parseghian
+punct	Parseghian	,
+det	banker	a
+amod	banker	former
+compound	banker	investment
+appos	Parseghian	banker
+punct	Parseghian	,
+auxpass	appointed	was
+root	ROOT	appointed
+amod	executive	chief
+xcomp	appointed	executive
+punct	appointed	.

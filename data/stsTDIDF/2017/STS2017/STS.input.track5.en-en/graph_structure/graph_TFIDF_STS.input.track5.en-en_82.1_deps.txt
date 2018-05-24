@@ -1,0 +1,7 @@
+card	for	case
+card	Christmas	compound
+posing	is	aux
+ROOT	posing	root
+posing	woman	nsubj
+posing	card	nmod:for
+posing	.	punct

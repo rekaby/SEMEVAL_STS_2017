@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cut	man
+root	ROOT	cut
+dobj	cut	something
+case	knife	with
+det	knife	a
+nmod:with	cut	knife
+punct	cut	.

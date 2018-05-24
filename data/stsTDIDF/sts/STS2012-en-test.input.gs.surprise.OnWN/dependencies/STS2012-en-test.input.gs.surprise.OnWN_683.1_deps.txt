@@ -1,0 +1,6 @@
+root	ROOT	make
+det	sound	a
+amod	sound	short
+punct	sound	,
+amod	sound	sharp
+dobj	make	sound

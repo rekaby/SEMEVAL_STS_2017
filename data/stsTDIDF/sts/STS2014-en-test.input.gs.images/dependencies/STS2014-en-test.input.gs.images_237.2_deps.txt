@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	small
+root	ROOT	bird
+acl	bird	perched
+case	branch	on
+det	branch	an
+compound	branch	icy
+nmod:on	perched	branch
+punct	bird	.

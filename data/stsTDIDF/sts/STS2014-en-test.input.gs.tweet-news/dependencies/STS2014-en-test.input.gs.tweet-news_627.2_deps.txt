@@ -1,0 +1,15 @@
+det	Cases	The
+amod	Cases	Neediest
+root	ROOT	Cases
+punct	Cases	:
+case	Care	After
+compound	Care	Foster
+nmod:after	Cases	Care
+punct	Care	,
+acl	Care	Becoming
+det	Model	a
+compound	Model	Role
+dobj	Becoming	Model
+case	Sisters	for
+nmod:poss	Sisters	Her
+nmod:for	Model	Sisters

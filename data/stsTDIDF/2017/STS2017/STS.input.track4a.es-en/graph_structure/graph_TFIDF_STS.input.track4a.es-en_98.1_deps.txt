@@ -1,0 +1,9 @@
+woman	clothes	nmod:in
+fixing	woman	nsubj
+fixing	toenails	dobj
+toenails	her	nmod:poss
+ROOT	fixing	root
+fixing	is	aux
+fixing	.	punct
+clothes	comfortable	amod
+clothes	in	case

@@ -1,0 +1,14 @@
+det	expression	a
+amod	expression	courteous
+root	ROOT	expression
+punct	word	-LRB-
+case	word	by
+nmod:by	expression	word
+cc	word	or
+conj:or	word	deed
+punct	word	-RRB-
+case	esteem	of
+nmod:of	word	esteem
+cc	esteem	or
+conj:or	esteem	regard
+punct	expression	.

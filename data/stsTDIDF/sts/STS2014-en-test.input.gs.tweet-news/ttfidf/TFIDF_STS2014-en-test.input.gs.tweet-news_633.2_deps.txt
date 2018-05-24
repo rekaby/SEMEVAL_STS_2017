@@ -1,0 +1,14 @@
+compound Review Movie	15.060439779775294
+punct Review ?-4) compound(Squad-2, Gangster	15.060439779775294
+root ROOT Squad	15.060439779775294
+punct Squad ?-3) case(Penn-3, With	15.060439779775294
+conj:and Penn Gosling	15.060439779775294
+compound Stone Emma	15.060439779775294
+conj:and Penn Stone	15.060439779775294
+root ROOT Penn	13.674145418655403
+compound Gosling Ryan	13.451001867341194
+punct Review :	12.757854686781249
+cc Penn and	12.421382450160035
+root ROOT Review	11.802343241753812
+punct Penn ,	11.534079255159133
+compound Penn Sean	11.053106594542824

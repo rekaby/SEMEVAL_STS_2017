@@ -1,0 +1,12 @@
+amod	someone	lead
+root	ROOT	someone
+case	direction	in
+det	direction	the
+amod	direction	wrong
+nmod:in	someone	direction
+cc	direction	or
+conj:or	direction	give
+iobj	give	someone
+amod	directions	wrong
+dobj	give	directions
+punct	someone	.

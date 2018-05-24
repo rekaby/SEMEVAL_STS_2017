@@ -1,0 +1,9 @@
+nsubj	says	Ankara
+root	ROOT	says
+det	bombers	all
+nummod	bombers	four
+compound	bombers	suicide
+nsubj	Turkish	bombers
+cop	Turkish	were
+ccomp	says	Turkish
+punct	says	.

@@ -1,0 +1,9 @@
+stop	bus	compound
+stop	building	nmod:in_front_of
+dresser	a	det
+People	and	cc
+building	brick	compound
+stop	at	case
+People	dresser	conj:and
+waiting	stop	nmod:at
+waiting	People	nsubj

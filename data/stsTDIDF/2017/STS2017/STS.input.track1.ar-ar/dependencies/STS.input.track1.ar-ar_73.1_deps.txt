@@ -1,0 +1,11 @@
+nsubj	plays	He
+root	ROOT	plays
+det	man	the
+compound	man	tuba
+compound	man	machine
+dobj	plays	man
+acl	man	wearing
+det	jacket	a
+compound	jacket	leather
+dobj	wearing	jacket
+punct	plays	.

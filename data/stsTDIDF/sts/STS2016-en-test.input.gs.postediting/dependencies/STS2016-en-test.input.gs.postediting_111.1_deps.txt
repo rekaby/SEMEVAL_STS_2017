@@ -1,0 +1,9 @@
+det	time	The
+amod	time	wrong
+root	ROOT	time
+mark	spoil	to
+acl	time	spoil
+det	rat	the
+dobj	spoil	rat
+case	Pozoblanco	of
+nmod:of	rat	Pozoblanco

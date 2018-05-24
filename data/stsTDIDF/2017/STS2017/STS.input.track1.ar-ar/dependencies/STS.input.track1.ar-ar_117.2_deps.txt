@@ -1,0 +1,8 @@
+cc:preconj	men	Both
+nsubj	shopping	men
+cc	men	and
+conj:and	men	women
+aux	shopping	were
+root	ROOT	shopping
+case	dinner	for
+nmod:for	shopping	dinner

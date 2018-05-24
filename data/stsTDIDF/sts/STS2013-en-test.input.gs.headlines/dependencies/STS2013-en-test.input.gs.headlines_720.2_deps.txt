@@ -1,0 +1,9 @@
+amod	quake	5.9-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+compound	Strait	Sunda
+dobj	hits	Strait
+punct	Strait	,
+appos	Strait	Indonesia
+punct	hits	:
+dep	hits	USGS

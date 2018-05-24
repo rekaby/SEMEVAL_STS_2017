@@ -1,0 +1,7 @@
+det	cougar	A
+nsubj	chasing	cougar
+aux	chasing	is
+root	ROOT	chasing
+det	bear	a
+dobj	chasing	bear
+punct	chasing	.

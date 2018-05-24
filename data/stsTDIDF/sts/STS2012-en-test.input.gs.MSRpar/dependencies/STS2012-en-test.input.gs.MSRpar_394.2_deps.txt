@@ -1,0 +1,19 @@
+det	Index	The
+amod	Index	technology-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	<	Index
+root	ROOT	<
+punct	<	.-7) nsubj(rose-3, IXIC
+nsubj	rose	>
+root	ROOT	rose
+nummod	points	6
+dobj	rose	points
+punct	rose	,
+cc	rose	or
+nummod	percent	0.41
+conj:or	rose	percent
+punct	percent	,
+case	1,498	to
+nmod:to	percent	1,498
+punct	rose	.

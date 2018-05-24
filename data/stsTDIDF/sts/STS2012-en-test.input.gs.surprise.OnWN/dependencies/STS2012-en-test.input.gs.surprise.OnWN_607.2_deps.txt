@@ -1,0 +1,6 @@
+root	ROOT	take
+cc	take	or
+conj:or	take	capture
+case	force	by
+nmod:by	take	force
+punct	take	.

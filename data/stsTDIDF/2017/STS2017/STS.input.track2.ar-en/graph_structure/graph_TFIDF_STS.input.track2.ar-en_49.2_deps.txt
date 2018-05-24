@@ -1,0 +1,15 @@
+hats	carrying	acl
+carrying	flags	dobj
+shirts	hats	conj:and
+dressed	shirts	nmod:in
+shorts	white	amod
+shirts	and	cc
+shirts	red	amod
+red	white	conj:and
+men	dressed	acl
+shirts	,	punct
+shirts	shorts	conj:and
+men	Three	nummod
+shirts	striped	amod
+hats	black	amod
+shirts	in	case

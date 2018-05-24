@@ -1,0 +1,11 @@
+det	entering	the
+root	ROOT	entering
+case	document	of
+det	document	a
+amod	document	legal
+nmod:of	entering	document
+case	record	into
+det	record	the
+amod	record	public
+nmod:into	entering	record
+punct	entering	.

@@ -1,0 +1,8 @@
+compound	Bush	George
+compound	Bush	W.
+nsubj	warns	Bush
+root	ROOT	warns
+case	debate	against
+amod	debate	bitter
+compound	debate	immigration
+nmod:against	warns	debate

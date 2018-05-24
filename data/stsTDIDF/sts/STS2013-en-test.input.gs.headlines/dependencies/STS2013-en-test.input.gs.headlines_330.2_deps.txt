@@ -1,0 +1,8 @@
+nummod	things	Five
+root	ROOT	things
+mark	watch	to
+acl	things	watch
+case	debate	in
+det	debate	the
+amod	debate	presidential
+nmod:in	watch	debate

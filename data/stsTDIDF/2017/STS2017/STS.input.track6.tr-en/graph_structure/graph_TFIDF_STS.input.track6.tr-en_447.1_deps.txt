@@ -1,0 +1,12 @@
+instruments	playing	amod
+people	wearing	acl
+parade	people	nmod:of
+ROOT	parade	root
+march	red	amod
+parade	.	punct
+building	past	case
+wearing	building	nmod:past
+instruments	while	case
+wearing	march	dobj
+parade	A	det
+wearing	instruments	nmod:while

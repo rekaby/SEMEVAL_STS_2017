@@ -1,0 +1,14 @@
+advmod	rests	Tired
+punct	rests	,
+det	woman	the
+nsubj	rests	woman
+root	ROOT	rests
+nmod:poss	head	her
+dobj	rests	head
+case	backpack	in
+nmod:poss	backpack	her
+nmod:in	head	backpack
+mark	lying	while
+advcl	rests	lying
+compound:prt	lying	down
+punct	rests	.

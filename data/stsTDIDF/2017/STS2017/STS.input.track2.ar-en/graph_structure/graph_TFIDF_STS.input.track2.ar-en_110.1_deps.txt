@@ -1,0 +1,4 @@
+sheep	next	case
+sheep	a	det
+standing	man	nsubj
+standing	sheep	nmod:next_to

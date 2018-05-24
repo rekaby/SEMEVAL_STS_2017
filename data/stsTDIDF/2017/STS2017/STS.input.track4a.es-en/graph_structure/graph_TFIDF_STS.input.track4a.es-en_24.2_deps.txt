@@ -1,0 +1,4 @@
+sell	street	nmod:on
+sell	something	dobj
+tries	sell	xcomp
+tries	man	nsubj

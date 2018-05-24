@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	clothes	in
+amod	clothes	blue
+nmod:in	man	clothes
+case	skateboard	on
+det	skateboard	a
+nmod:on	man	skateboard
+punct	man	.

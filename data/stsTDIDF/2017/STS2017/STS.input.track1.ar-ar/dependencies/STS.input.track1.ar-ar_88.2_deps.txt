@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+case	something	with
+nmod:with	man	something
+case	hand	in
+nmod:poss	hand	his
+nmod:in	something	hand
+punct	man	.

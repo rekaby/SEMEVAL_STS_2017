@@ -1,0 +1,7 @@
+root	ROOT	runs
+dep	proof	victim
+case	proof	down
+dep	proof	Got
+det	proof	any
+nmod:down	runs	proof
+punct	runs	?

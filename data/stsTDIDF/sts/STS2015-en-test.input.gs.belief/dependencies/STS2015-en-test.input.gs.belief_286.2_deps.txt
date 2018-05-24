@@ -1,0 +1,15 @@
+det	government	either
+nsubj	has	government
+root	ROOT	has
+mark	honor	to
+xcomp	has	honor
+compound	doctrine	religioius
+dobj	honor	doctrine
+cc	honor	or
+nsubj	pick	it
+aux	pick	does
+neg	pick	n't
+punct	pick	-
+conj:or	honor	pick
+dobj	pick	one
+punct	has	.

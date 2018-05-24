@@ -1,0 +1,8 @@
+amod	forces	Syrian
+nsubj	clash	forces
+cc	forces	and
+conj:and	forces	rebels
+root	ROOT	clash
+case	province	in
+amod	province	coastal
+nmod:in	clash	province

@@ -1,0 +1,9 @@
+det	cat	A
+compound	cat	ginger
+root	ROOT	cat
+acl	cat	sitting
+case	chair	on
+det	chair	an
+compound	chair	office
+nmod:on	sitting	chair
+punct	cat	.

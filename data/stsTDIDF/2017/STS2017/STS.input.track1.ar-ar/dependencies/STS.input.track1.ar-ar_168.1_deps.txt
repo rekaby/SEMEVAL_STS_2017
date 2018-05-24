@@ -1,0 +1,5 @@
+root	ROOT	Workers
+acl	Workers	clearing
+amod	street	rubbish
+dobj	clearing	street
+punct	Workers	.

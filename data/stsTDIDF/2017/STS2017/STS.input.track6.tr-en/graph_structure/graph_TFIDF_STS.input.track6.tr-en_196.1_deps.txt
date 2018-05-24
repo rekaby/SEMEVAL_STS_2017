@@ -1,0 +1,5 @@
+ROOT	tree	root
+tree	boy	nsubj
+tree	in	case
+tree	is	cop
+tree	.	punct

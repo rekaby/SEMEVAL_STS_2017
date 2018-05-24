@@ -1,0 +1,8 @@
+det	man	A
+nsubj	plays	man
+root	ROOT	plays
+dobj	plays	football
+case	park	in
+det	park	the
+nmod:in	plays	park
+punct	plays	.

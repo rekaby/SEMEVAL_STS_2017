@@ -1,0 +1,10 @@
+advmod	make	How
+mark	make	to
+root	ROOT	make
+compound	round	chapattis
+dobj	make	round
+cc	round	and
+case	thickness	of
+amod	thickness	same
+conj:and	round	thickness
+punct	make	?

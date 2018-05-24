@@ -1,0 +1,14 @@
+det	Crusader	A
+compound	Crusader	Data
+root	ROOT	Crusader
+punct	Crusader	,
+det	Defendant	a
+appos	Crusader	Defendant
+cc	Defendant	and
+advmod	#badbranding	Now
+punct	#badbranding	,
+det	#MITfail	a
+compound	#MITfail	Cause
+compound	#MITfail	#AaronSwartz
+nsubj	#badbranding	#MITfail
+conj:and	Defendant	#badbranding

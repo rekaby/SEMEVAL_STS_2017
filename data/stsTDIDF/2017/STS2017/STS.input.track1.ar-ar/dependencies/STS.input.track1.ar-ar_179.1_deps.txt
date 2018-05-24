@@ -1,0 +1,7 @@
+nsubj	walking	People
+root	ROOT	walking
+case	group	as
+det	group	a
+nmod:as	walking	group
+advmod	group	abroad
+punct	walking	.

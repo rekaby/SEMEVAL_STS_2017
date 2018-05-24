@@ -1,0 +1,6 @@
+singer	a	det
+pianist	A	det
+ready	perform	xcomp
+pianist	and	cc
+ready	pianist	nsubj
+pianist	singer	conj:and

@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+mark	reading	inside
+acl	man	reading
+det	newspaper	the
+dobj	reading	newspaper
+punct	man	.

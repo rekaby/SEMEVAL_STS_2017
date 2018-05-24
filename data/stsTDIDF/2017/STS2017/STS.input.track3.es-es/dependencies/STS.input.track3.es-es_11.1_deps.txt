@@ -1,0 +1,13 @@
+det	man	A
+nsubj	standing	man
+acl	man	wearing
+advmod	towel	only
+det	towel	a
+dobj	wearing	towel
+aux	standing	is
+root	ROOT	standing
+advmod	standing	outside
+case	water	near
+det	water	the
+nmod:near	outside	water
+punct	standing	.

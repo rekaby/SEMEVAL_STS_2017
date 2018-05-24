@@ -1,0 +1,7 @@
+det	man	The
+nsubj	lost	man
+root	ROOT	lost
+nmod:poss	leg	his
+amod	leg	prosthetic
+dobj	lost	leg
+punct	lost	.

@@ -1,0 +1,16 @@
+root	ROOT	cover
+conj:or	cover	cover
+punct	cover	,
+conj:or	cover	fill
+punct	cover	,
+conj:or	cover	fix
+cc	cover	or
+conj:or	cover	smear
+case	gum	with
+cc	with	or
+conj:or	with	as
+dep	gum	if
+case	gum	with
+nmod:as	cover	gum
+nmod:with	cover	gum
+punct	cover	.

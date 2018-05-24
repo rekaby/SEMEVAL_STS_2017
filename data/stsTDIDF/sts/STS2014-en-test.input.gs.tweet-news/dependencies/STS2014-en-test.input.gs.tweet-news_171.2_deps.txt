@@ -1,0 +1,8 @@
+amod	Graduates	Chinese
+nsubj	Say	Graduates
+root	ROOT	Say
+neg	Thanks	No
+dobj	Say	Thanks
+case	Jobs	to
+compound	Jobs	Factory
+nmod:to	Thanks	Jobs

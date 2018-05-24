@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+nmod:poss	dog	his
+conj:and	man	dog
+case	mountain	on
+mwe	on	top
+mwe	on	of
+det	mountain	a
+nmod:on_top_of	dog	mountain
+punct	man	.

@@ -1,0 +1,10 @@
+det	rock	The
+nsubj	about	rock
+cop	about	is
+root	ROOT	about
+mark	fall	to
+xcomp	about	fall
+case	man	on
+det	man	the
+nmod:on	fall	man
+punct	about	.

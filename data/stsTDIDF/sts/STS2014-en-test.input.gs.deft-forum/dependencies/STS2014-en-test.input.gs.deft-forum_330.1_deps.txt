@@ -1,0 +1,15 @@
+nsubj	deciding	Government
+root	ROOT	deciding
+dobj	need	what
+nsubj	need	pregnancies
+ccomp	deciding	need
+mark	carried	to
+auxpass	carried	be
+xcomp	need	carried
+case	term	to
+nmod:to	carried	term
+punct	deciding	,
+nsubj	fine	that
+cop	fine	's
+ccomp	deciding	fine
+punct	deciding	.

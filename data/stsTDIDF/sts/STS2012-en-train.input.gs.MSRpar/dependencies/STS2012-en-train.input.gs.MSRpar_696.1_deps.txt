@@ -1,0 +1,16 @@
+compound	Kong	Hong
+nsubj	flat	Kong
+cop	flat	was
+root	ROOT	flat
+punct	flat	,
+nsubj	lost	Australia
+punct	Australia	,
+conj:and	Australia	Singapore
+cc	Australia	and
+compound	Korea	South
+conj:and	Australia	Korea
+ccomp	flat	lost
+nummod	percent	0.2-0
+nummod	percent	.4
+dobj	lost	percent
+punct	flat	.

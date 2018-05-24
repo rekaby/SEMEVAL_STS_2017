@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	frolics	dog
+root	ROOT	frolics
+case	snow	in
+det	snow	the
+nmod:in	frolics	snow
+punct	frolics	.

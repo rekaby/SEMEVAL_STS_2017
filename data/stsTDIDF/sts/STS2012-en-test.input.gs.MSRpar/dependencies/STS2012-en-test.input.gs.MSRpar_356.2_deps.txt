@@ -1,0 +1,11 @@
+nmod:poss	attorney	O'Brien
+case	O'Brien	's
+nsubj	declined	attorney
+punct	attorney	,
+compound	Green	Jordan
+appos	attorney	Green
+punct	attorney	,
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+punct	declined	.

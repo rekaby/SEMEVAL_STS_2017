@@ -1,0 +1,10 @@
+compound	Z2	Sony
+compound	Z2	Xperia
+nsubj	unveiled	Z2
+cc	Z2	and
+compound	series	Nokia
+nummod	series	‚
+compound	series	Äôs
+compound	series	X
+conj:and	Z2	series
+root	ROOT	unveiled

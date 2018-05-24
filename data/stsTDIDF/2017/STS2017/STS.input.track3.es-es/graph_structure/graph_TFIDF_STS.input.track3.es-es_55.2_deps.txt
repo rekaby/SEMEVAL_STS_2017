@@ -1,0 +1,11 @@
+stands	trying	advcl
+parallel	air	nmod:in
+goalkeeper	the	det
+kick	ball	dobj
+trying	kick	xcomp
+kick	to	mark
+stands	parallel	dobj
+goalkeeper	past	case
+kick	goalkeeper	nmod:past
+ball	soccer	compound
+stands	man	nsubj

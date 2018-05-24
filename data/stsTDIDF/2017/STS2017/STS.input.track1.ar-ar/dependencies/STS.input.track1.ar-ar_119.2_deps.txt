@@ -1,0 +1,13 @@
+nummod	women	Two
+nsubj	play	women
+root	ROOT	play
+det	game	a
+dobj	play	game
+case	sticks	with
+nmod:with	play	sticks
+cc	sticks	and
+det	ball	a
+amod	ball	small
+amod	ball	white
+conj:and	sticks	ball
+punct	play	.

@@ -1,0 +1,10 @@
+nmod:poss	decree	Putin
+case	Putin	's
+compound	decree	security
+nsubj	draws	decree
+case	Sochi	for
+nmod:for	decree	Sochi
+root	ROOT	draws
+dobj	draws	ire
+case	critics	of
+nmod:of	ire	critics

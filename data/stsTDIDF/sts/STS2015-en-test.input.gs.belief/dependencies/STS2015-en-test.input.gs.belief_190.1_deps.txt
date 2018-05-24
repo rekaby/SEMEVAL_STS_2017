@@ -1,0 +1,11 @@
+advmod	it	so
+punct	it	,
+nsubj	it	it
+dep	it	's
+nsubj	's	something
+advmod	something	else
+punct	's	,
+cop	it	is
+neg	it	n't
+root	ROOT	it
+punct	it	?

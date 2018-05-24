@@ -1,0 +1,12 @@
+root	ROOT	cancel
+punct	cancel	,
+conj:or	cancel	annul
+punct	cancel	,
+cc	cancel	or
+conj:or	cancel	reverse
+det	action	an
+dobj	reverse	action
+cc	action	or
+nmod:poss	effect	its
+conj:or	action	effect
+punct	cancel	.

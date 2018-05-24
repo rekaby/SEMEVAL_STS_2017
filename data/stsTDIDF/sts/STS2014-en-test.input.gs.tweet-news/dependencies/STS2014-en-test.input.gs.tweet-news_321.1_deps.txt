@@ -1,0 +1,11 @@
+compound	book	Jared
+compound	book	Diamond
+nsubj	reading	book
+amod	reading	worth
+root	ROOT	reading
+punct	reading	?-6) root(ROOT-0, ``
+det	World	The
+root	``	World
+case	Yesterday	Until
+nmod:until	World	Yesterday
+punct	World	''

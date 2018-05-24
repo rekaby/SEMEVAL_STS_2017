@@ -1,0 +1,9 @@
+compound	chief	CIA
+root	ROOT	chief
+case	Israel	in
+nmod:in	chief	Israel
+mark	discuss	to
+acl	chief	discuss
+dobj	discuss	situation
+case	Syria	in
+nmod:in	situation	Syria

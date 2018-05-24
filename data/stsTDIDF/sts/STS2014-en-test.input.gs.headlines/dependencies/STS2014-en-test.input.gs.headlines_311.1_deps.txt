@@ -1,0 +1,8 @@
+compound	Abbott	Tony
+root	ROOT	Abbott
+acl	Abbott	sworn
+case	PM	in
+case	PM	as
+amod	PM	new
+amod	PM	Australian
+nmod:as	sworn	PM

@@ -1,0 +1,17 @@
+det	state	a
+amod	state	mental
+root	ROOT	state
+acl	state	characterized
+case	sense	by
+det	sense	a
+amod	sense	pessimistic
+nmod:by	characterized	sense
+case	inadequacy	of
+nmod:of	sense	inadequacy
+cc	inadequacy	and
+det	lack	a
+amod	lack	despondent
+conj:and	inadequacy	lack
+case	activity	of
+nmod:of	lack	activity
+punct	state	.

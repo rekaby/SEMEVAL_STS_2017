@@ -1,0 +1,9 @@
+nsubj	walking	people
+root	ROOT	walking
+det	standing	a
+dobj	walking	standing
+case	park	in
+det	park	a
+compound	park	city
+nmod:in	standing	park
+punct	walking	.

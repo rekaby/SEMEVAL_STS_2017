@@ -1,0 +1,8 @@
+amod	Mine	Deadly
+compound	Mine	Blast
+compound	Mine	Rocks
+compound	Mine	Coal
+root	ROOT	Mine
+case	Ukraine	in
+compound	Ukraine	East
+nmod:in	Mine	Ukraine

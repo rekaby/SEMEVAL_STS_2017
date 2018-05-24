@@ -1,0 +1,12 @@
+compound	officials	Service
+nsubj	said	officials
+root	ROOT	said
+nsubj	refused	Carlson
+ccomp	said	refused
+mark	recuse	to
+xcomp	refused	recuse
+dobj	recuse	himself
+case	case	from
+det	case	the
+nmod:from	recuse	case
+punct	said	.

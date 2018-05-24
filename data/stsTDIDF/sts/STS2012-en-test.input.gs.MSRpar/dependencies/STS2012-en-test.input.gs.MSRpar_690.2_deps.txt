@@ -1,0 +1,13 @@
+compound	representatives	Puretunes
+nsubj	located	representatives
+aux	located	could
+neg	located	not
+cop	located	be
+root	ROOT	located
+nmod:tmod	located	Thursday
+mark	comment	to
+xcomp	located	comment
+case	suit	on
+det	suit	the
+nmod:on	comment	suit
+punct	located	.

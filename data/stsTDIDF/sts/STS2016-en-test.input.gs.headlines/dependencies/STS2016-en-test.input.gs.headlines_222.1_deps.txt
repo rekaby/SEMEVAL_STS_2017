@@ -1,0 +1,12 @@
+compound	UK	Ebola
+root	ROOT	UK
+punct	UK	:
+compound	staff	NHS
+appos	UK	staff
+punct	panicked	`
+acl	staff	panicked
+punct	panicked	'
+case	cases	after
+amod	cases	suspected
+compound	cases	Ebola
+nmod:after	panicked	cases

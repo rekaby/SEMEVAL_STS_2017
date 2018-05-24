@@ -1,0 +1,15 @@
+det	man	A
+amod	man	large
+nsubj	holding	man
+case	jacket	in
+det	jacket	a
+nmod:in	man	jacket
+cc	jacket	and
+conj:and	jacket	hat
+aux	holding	is
+root	ROOT	holding
+dobj	holding	something
+case	ear	toward
+nmod:poss	ear	his
+nmod:toward	something	ear
+punct	holding	.

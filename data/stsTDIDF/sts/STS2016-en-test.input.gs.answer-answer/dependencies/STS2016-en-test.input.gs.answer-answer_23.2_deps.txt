@@ -1,0 +1,12 @@
+dep	know	Sorry
+punct	know	,
+nsubj	know	I
+aux	know	do
+neg	know	n't
+root	ROOT	know
+det	answer	the
+dobj	know	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+punct	know	.

@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	fires	woman
+root	ROOT	fires
+det	shotgun	a
+dobj	fires	shotgun
+punct	fires	.

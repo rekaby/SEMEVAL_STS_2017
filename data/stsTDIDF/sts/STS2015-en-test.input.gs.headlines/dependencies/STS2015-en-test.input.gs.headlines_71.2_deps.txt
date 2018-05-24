@@ -1,0 +1,8 @@
+compound	probe	Veterans
+compound	probe	health
+nsubj	confirms	probe
+root	ROOT	confirms
+compound	delays	cover-up
+case	care	of
+nmod:of	cover-up	care
+dobj	confirms	delays

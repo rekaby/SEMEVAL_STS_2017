@@ -1,0 +1,7 @@
+nsubj	warns	Iran
+root	ROOT	warns
+case	intervention	against
+amod	intervention	military
+nmod:against	warns	intervention
+case	Iraq	in
+nmod:in	intervention	Iraq

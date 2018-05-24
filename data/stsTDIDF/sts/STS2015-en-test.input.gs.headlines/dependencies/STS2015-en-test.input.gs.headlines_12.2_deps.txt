@@ -1,0 +1,7 @@
+root	ROOT	Egypt
+punct	Egypt	:
+compound	clash	Police
+dep	Egypt	clash
+case	protesters	with
+amod	protesters	pro-Morsi
+nmod:with	clash	protesters

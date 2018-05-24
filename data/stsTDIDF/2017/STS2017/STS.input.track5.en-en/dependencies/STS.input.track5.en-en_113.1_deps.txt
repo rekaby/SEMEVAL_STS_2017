@@ -1,0 +1,10 @@
+det	girl	The
+nsubj	skilled	girl
+cop	skilled	is
+advmod	skilled	very
+root	ROOT	skilled
+cc	skilled	and
+conj:and	skilled	practices
+det	lot	a
+dobj	practices	lot
+punct	skilled	.

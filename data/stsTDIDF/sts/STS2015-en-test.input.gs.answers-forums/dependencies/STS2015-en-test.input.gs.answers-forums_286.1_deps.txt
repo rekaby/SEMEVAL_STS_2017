@@ -1,0 +1,11 @@
+nsubj	have	We
+root	ROOT	have
+nummod	worlds	two
+amod	worlds	parallel
+dobj	have	worlds
+case	collision	in
+nmod:in	worlds	collision
+cc	worlds	or
+advmod	more	maybe
+conj:or	worlds	more
+punct	have	.

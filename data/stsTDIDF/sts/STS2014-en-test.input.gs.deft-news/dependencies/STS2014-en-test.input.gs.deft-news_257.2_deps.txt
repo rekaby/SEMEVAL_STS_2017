@@ -1,0 +1,6 @@
+det	meetings	the
+nsubj	lasted	meetings
+root	ROOT	lasted
+nummod	days	2
+nmod:tmod	lasted	days
+punct	lasted	.

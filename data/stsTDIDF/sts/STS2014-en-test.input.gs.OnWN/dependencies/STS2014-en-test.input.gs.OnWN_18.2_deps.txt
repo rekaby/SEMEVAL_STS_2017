@@ -1,0 +1,10 @@
+root	ROOT	free
+case	burden	from
+det	burden	a
+nmod:from	free	burden
+punct	burden	,
+conj:or	burden	evil
+punct	burden	,
+cc	burden	or
+conj:or	burden	distress
+punct	free	.

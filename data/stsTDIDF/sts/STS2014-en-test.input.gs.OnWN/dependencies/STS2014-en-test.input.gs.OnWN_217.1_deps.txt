@@ -1,0 +1,8 @@
+root	ROOT	assign
+conj:or	assign	assign
+case	categories	to
+cc	to	or
+conj:or	to	arrange
+case	categories	into
+nmod:arrange	assign	categories
+nmod:into	assign	categories

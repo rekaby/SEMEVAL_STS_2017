@@ -1,0 +1,10 @@
+root	ROOT	Hamas
+amod	Hamas	senior
+dep	senior	denies
+dobj	denies	Gaza
+punct	Gaza	,
+appos	Gaza	PA
+acl	PA	coordinated
+case	talks	on
+compound	talks	peace
+nmod:on	coordinated	talks

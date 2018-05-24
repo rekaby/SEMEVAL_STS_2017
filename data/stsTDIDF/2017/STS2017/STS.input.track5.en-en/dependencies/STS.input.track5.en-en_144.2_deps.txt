@@ -1,0 +1,12 @@
+amod	men	Several
+nsubj	pull	men
+root	ROOT	pull
+det	net	a
+compound	net	fishing
+dobj	pull	net
+advmod	pull	up
+case	beach	on
+case	beach	to
+det	beach	the
+nmod:to	pull	beach
+punct	pull	.

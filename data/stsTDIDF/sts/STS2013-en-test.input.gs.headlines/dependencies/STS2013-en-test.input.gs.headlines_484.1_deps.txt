@@ -1,0 +1,6 @@
+nsubj	hands	Syria
+root	ROOT	hands
+case	bodies	over
+nmod:over	hands	bodies
+case	journalists	of
+nmod:of	bodies	journalists

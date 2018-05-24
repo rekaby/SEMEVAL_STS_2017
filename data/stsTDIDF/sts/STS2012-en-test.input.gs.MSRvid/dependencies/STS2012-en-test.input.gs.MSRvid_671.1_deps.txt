@@ -1,0 +1,7 @@
+det	rhino	The
+nsubj	grazed	rhino
+root	ROOT	grazed
+case	grass	on
+det	grass	the
+nmod:on	grazed	grass
+punct	grazed	.

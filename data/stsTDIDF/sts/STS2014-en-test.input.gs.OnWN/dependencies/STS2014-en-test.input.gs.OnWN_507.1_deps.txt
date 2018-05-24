@@ -1,0 +1,7 @@
+det	act	The
+root	ROOT	act
+mark	beginning	of
+acl	act	beginning
+dobj	beginning	something
+amod	something	new
+punct	act	.

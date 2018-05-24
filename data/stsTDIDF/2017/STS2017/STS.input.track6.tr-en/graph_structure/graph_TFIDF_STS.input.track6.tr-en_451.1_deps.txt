@@ -1,0 +1,5 @@
+conducting	interview	dobj
+conducting	man	nsubj
+conducting	is	aux
+interview	News	nmod:for
+ROOT	conducting	root

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	ridint	woman
+cop	ridint	is
+root	ROOT	ridint
+det	horse	a
+dobj	ridint	horse
+punct	ridint	.

@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	carrying
+compound	beams	steel
+dobj	carrying	beams
+case	lumberyard	across
+det	lumberyard	a
+nmod:across	carrying	lumberyard
+punct	man	.

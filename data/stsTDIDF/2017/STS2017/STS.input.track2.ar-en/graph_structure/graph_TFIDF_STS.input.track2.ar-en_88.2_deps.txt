@@ -1,0 +1,7 @@
+father	play	conj:and
+sons	his	nmod:poss
+father	.	punct
+ROOT	father	root
+play	basketball	dobj
+father	A	det
+play	sons	nsubj

@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	is	woman
+root	ROOT	is
+case	dark	out
+case	dark	in
+det	dark	the
+nmod:in	is	dark
+punct	is	.

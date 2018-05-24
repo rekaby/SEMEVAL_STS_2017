@@ -1,0 +1,16 @@
+root	ROOT	Additional
+case	answers	to
+det	answers	the
+amod	answers	other
+nmod:to	Additional	answers
+punct	answers	,
+nsubj	like	basil
+advmod	like	famously
+aux	like	does
+neg	like	n't
+acl:relcl	answers	like
+mark	damp	to
+cop	damp	be
+xcomp	like	damp
+advmod	damp	overnight
+punct	Additional	.

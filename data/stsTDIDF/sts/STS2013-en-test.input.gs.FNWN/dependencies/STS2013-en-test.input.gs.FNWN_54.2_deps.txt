@@ -1,0 +1,6 @@
+cop	adjacent	be
+root	ROOT	adjacent
+cc	adjacent	or
+conj:or	adjacent	come
+advmod	adjacent	together
+punct	adjacent	;

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	eating	dog
+aux	eating	is
+root	ROOT	eating
+det	melon	some
+compound	melon	water
+dobj	eating	melon
+punct	eating	.

@@ -1,0 +1,12 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	truck	in
+mwe	in	front
+mwe	in	of
+det	truck	a
+amod	truck	red
+compound	truck	fire
+nmod:in_front_of	people	truck
+punct	group	.

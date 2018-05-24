@@ -1,0 +1,10 @@
+det	Alarm	An
+root	ROOT	Alarm
+case	Offing	in
+det	Offing	the
+nmod:in	Alarm	Offing
+case	#ExtremeWeather	on
+compound	#ExtremeWeather	#ClimateChange
+nmod:on	Offing	#ExtremeWeather
+compound	#eco	#globalwarming
+nummod	#ExtremeWeather	#eco

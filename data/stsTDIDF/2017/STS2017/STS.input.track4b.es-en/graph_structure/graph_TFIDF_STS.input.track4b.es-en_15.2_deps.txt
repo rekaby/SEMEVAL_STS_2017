@@ -1,0 +1,10 @@
+Tucked	overpasses	nmod:under
+,	suburb	root
+is	Tucked	advcl
+overpasses	the	det
+suburb	a	det
+is	ways	nmod:in
+overpasses	under	case
+overpasses	freeway	compound
+suburb	.	punct
+suburb	City	nmod:of

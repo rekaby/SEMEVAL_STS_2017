@@ -1,0 +1,14 @@
+det	list	a
+root	ROOT	list
+case	particulars	of
+nmod:of	list	particulars
+punct	playbill	-LRB-
+case	playbill	as
+det	playbill	a
+nmod:as	list	playbill
+cc	playbill	or
+conj:or	playbill	bill
+case	fare	of
+nmod:of	bill	fare
+punct	playbill	-RRB-
+punct	list	.

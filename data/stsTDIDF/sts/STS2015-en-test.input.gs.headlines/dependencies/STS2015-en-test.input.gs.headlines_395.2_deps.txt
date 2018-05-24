@@ -1,0 +1,7 @@
+compound	trial	China
+compound	trial	Bo
+compound	trial	Xilai
+root	ROOT	trial
+case	day	in
+amod	day	fourth
+nmod:in	trial	day

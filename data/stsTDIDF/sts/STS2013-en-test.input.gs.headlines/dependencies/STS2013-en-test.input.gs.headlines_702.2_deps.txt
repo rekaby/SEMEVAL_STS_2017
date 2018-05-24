@@ -1,0 +1,8 @@
+compound	activists	Burma
+nsubj	say	activists
+root	ROOT	say
+ccomp	say	go
+amod	go	slow
+mark	easing	on
+advcl	slow	easing
+dobj	easing	sanctions

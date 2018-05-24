@@ -1,0 +1,9 @@
+woman	old	amod
+yarn	with	case
+yarn	blue	amod
+woman	An	det
+knitting	woman	nsubj
+knitting	yarn	nmod:with
+knitting	.	punct
+ROOT	knitting	root
+knitting	is	aux

@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	standing	men
+acl	men	wearing
+amod	clothing	traditional
+dobj	wearing	clothing
+aux	standing	is
+root	ROOT	standing
+advmod	standing	outside
+punct	standing	.

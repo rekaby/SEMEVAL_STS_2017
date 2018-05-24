@@ -1,0 +1,13 @@
+det	character	a
+amod	character	blank
+root	ROOT	character
+acl	character	used
+mark	separate	to
+xcomp	used	separate
+amod	words	successive
+dobj	separate	words
+case	writing	in
+nmod:in	separate	writing
+cc	writing	or
+conj:or	writing	printing
+punct	character	.

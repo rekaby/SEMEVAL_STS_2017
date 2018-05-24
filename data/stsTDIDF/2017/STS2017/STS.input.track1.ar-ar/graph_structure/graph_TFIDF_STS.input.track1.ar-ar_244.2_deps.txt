@@ -1,0 +1,7 @@
+area	Ckrtin	nmod:between
+Ckrtin	river	compound
+Ckrtin	between	case
+ramps	boat	compound
+are	ramps	nsubj
+ramps	area	nmod:in
+Ckrtin	the	det

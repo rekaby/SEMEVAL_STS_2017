@@ -1,0 +1,9 @@
+kid	sitting	acl
+sitting	ball	nmod:on
+kid	.	punct
+ball	on	case
+park	at	case
+sitting	park	nmod:at
+ball	soccer	compound
+kid	A	det
+ROOT	kid	root

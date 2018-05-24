@@ -1,0 +1,8 @@
+amod	terms	informal
+root	ROOT	terms
+acl	terms	referring
+case	cat	to
+det	cat	a
+amod	cat	domestic
+nmod:to	referring	cat
+punct	terms	.

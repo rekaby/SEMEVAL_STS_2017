@@ -1,0 +1,13 @@
+det	musician	A
+nsubj	jam	musician
+cop	jam	is
+compound	jam	smearing
+root	ROOT	jam
+case	guitar	on
+nmod:poss	guitar	his
+amod	guitar	white
+nmod:on	jam	guitar
+case	concert	at
+det	concert	a
+nmod:at	jam	concert
+punct	jam	.

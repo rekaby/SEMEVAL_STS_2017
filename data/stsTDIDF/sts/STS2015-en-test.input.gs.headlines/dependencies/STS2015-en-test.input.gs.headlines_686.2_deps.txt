@@ -1,0 +1,6 @@
+compound	floods	Europe
+nsubj	continue	floods
+root	ROOT	continue
+mark	create	to
+xcomp	continue	create
+dobj	create	havoc

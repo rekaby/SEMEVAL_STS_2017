@@ -1,0 +1,8 @@
+root	ROOT	Cause
+mark	perplexed	to
+cop	perplexed	be
+xcomp	Cause	perplexed
+cc	perplexed	or
+advmod	confounded	mentally
+conj:or	perplexed	confounded
+punct	Cause	.

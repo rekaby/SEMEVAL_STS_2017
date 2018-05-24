@@ -1,0 +1,8 @@
+nummod	soldiers	Four
+amod	soldiers	French
+root	ROOT	soldiers
+acl	soldiers	killed
+case	blast	in
+compound	blast	Afghan
+compound	blast	suicide
+nmod:in	killed	blast

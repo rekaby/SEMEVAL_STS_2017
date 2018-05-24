@@ -1,0 +1,12 @@
+det	group	A
+nsubj	playing	group
+case	personnel	of
+amod	personnel	military
+nmod:of	group	personnel
+aux	playing	are
+root	ROOT	playing
+case	quintet	in
+det	quintet	a
+compound	quintet	brass
+nmod:in	playing	quintet
+punct	playing	.

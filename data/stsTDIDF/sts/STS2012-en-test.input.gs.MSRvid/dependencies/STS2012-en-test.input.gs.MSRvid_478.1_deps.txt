@@ -1,0 +1,11 @@
+det	woman	An
+amod	woman	elderly
+nsubj	pouring	woman
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	oil
+case	pan	into
+det	pan	a
+amod	pan	frying
+nmod:into	pouring	pan
+punct	pouring	.

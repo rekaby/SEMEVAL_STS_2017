@@ -1,0 +1,10 @@
+compound	sentences	Egypt
+compound	sentences	court
+nsubj	supporters	sentences
+nummod	supporters	10
+compound	supporters	Brotherhood
+root	ROOT	supporters
+case	death	to
+nmod:to	supporters	death
+punct	supporters	-
+dep	supporters	sources

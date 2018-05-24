@@ -1,0 +1,12 @@
+root	ROOT	180
+punct	180	!-2) root(ROOT-0, ``
+punct	90	:
+case	least	At
+nmod:npmod	90	least
+root	``	90
+acl	90	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	90	''

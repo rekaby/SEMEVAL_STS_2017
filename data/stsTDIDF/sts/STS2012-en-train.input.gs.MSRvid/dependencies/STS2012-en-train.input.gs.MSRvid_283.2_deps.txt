@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	riding	girl
+aux	riding	is
+root	ROOT	riding
+det	scooter	a
+dobj	riding	scooter
+punct	riding	.

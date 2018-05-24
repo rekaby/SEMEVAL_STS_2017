@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+nsubj	is	someone
+case	cloth	with
+det	cloth	a
+nmod:with	someone	cloth
+punct	is	.

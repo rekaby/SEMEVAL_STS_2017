@@ -1,0 +1,5 @@
+nummod	factors	Two
+root	ROOT	factors
+case	sun	in
+det	sun	the
+nmod:in	factors	sun

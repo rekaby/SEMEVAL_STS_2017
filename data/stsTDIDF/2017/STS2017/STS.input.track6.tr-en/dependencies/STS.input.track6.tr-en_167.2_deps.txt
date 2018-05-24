@@ -1,0 +1,14 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+root	ROOT	running
+case	field	on
+det	field	a
+amod	field	grassy
+nmod:on	running	field
+cc	field	and
+det	dog	a
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+conj:and	field	dog

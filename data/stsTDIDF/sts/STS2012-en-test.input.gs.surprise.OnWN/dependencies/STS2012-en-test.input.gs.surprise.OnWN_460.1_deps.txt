@@ -1,0 +1,4 @@
+root	ROOT	destruction
+case	ship	of
+det	ship	a
+nmod:of	destruction	ship

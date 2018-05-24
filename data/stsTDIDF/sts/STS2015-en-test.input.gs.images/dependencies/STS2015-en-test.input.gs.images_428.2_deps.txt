@@ -1,0 +1,15 @@
+det	man	A
+nsubj	climbing	man
+acl	man	dressed
+case	suit	in
+det	suit	a
+compound	suit	Santa
+nmod:in	dressed	suit
+aux	climbing	is
+root	ROOT	climbing
+compound:prt	climbing	up
+det	building	a
+amod	building	large
+amod	building	concrete
+dobj	climbing	building
+punct	climbing	.

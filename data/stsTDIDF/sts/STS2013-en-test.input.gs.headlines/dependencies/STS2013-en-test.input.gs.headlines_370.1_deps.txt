@@ -1,0 +1,9 @@
+nsubj	vows	Romney
+root	ROOT	vows
+mark	restore	to
+xcomp	vows	restore
+punct	promise	`
+dobj	restore	promise
+case	America	of
+nmod:of	promise	America
+punct	vows	'

@@ -1,0 +1,14 @@
+nsubj	has	It
+root	ROOT	has
+det	margin	a
+dobj	has	margin
+case	error	of
+nmod:of	margin	error
+acl	error	of
+dep	of	plus
+cc	plus	or
+conj:or	plus	minus
+nummod	points	4
+compound	points	percentage
+conj:or	plus	points
+punct	has	.

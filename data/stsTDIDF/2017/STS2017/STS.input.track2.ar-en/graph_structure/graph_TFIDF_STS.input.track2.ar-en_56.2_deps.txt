@@ -1,0 +1,7 @@
+blowtorch	a	det
+using	blowtorch	dobj
+man	using	acl
+blowtorch	melt	acl
+melt	plastic	dobj
+plastic	the	det
+melt	to	mark

@@ -1,0 +1,11 @@
+sitting	girls	nsubj
+girls	2	nummod
+bookcase	1	conj:and
+bookcase	in	case
+sitting	bookcase	nmod:in_front_of
+reading	sitting	csubj
+bookcase	and	cc
+bookcase	a	det
+reading	book	dobj
+reading	is	aux
+girls	young	amod

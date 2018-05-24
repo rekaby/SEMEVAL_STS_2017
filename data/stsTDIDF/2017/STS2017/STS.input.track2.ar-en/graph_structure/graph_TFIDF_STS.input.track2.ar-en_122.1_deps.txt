@@ -1,0 +1,9 @@
+people	Three	nummod
+hang	.	punct
+hang	out	compound:prt
+hill	big	amod
+hill	on	case
+hang	hill	nmod:on_top_of
+hang	people	nsubj
+ROOT	hang	root
+hill	a	det

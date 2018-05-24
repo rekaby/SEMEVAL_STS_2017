@@ -1,0 +1,5 @@
+det	kitten	A
+nsubj	walking	kitten
+aux	walking	is
+root	ROOT	walking
+punct	walking	.

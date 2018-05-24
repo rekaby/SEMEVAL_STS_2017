@@ -1,0 +1,9 @@
+compound	Acquitted	Edwards
+root	ROOT	Acquitted
+case	Count	on
+nummod	Count	1
+nmod:on	Acquitted	Count
+punct	Count	,
+appos	Count	Mistrial
+case	Others	on
+nmod:on	Mistrial	Others

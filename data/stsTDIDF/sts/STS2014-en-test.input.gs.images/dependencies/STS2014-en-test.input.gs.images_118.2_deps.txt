@@ -1,0 +1,8 @@
+det	TV	A
+amod	TV	flat
+compound	TV	screen
+root	ROOT	TV
+case	floor	on
+det	floor	the
+nmod:on	TV	floor
+punct	TV	.

@@ -1,0 +1,7 @@
+det	person	The
+nsubj	starting	person
+aux	starting	is
+root	ROOT	starting
+det	fire	a
+dobj	starting	fire
+punct	starting	.

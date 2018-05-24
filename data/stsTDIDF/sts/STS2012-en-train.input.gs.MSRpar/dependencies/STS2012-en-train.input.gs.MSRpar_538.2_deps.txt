@@ -1,0 +1,13 @@
+det	bomb	The
+nsubj	exploded	bomb
+root	ROOT	exploded
+mark	waited	while
+nsubj	waited	authorities
+advcl	exploded	waited
+case	squad	for
+det	squad	a
+compound	squad	bomb
+nmod:for	waited	squad
+mark	arrive	to
+acl	squad	arrive
+punct	exploded	.

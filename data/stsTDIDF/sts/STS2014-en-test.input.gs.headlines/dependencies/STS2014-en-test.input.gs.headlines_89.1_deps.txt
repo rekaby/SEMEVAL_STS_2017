@@ -1,0 +1,7 @@
+root	ROOT	Manning
+acl	Manning	sentenced
+case	years	to
+nummod	years	35
+nmod:to	sentenced	years
+case	prison	in
+nmod:in	years	prison

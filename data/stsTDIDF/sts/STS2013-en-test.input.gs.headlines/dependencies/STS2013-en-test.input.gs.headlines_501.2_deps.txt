@@ -1,0 +1,11 @@
+nsubj	found	Edwards
+root	ROOT	found
+neg	guilty	not
+xcomp	found	guilty
+case	count	on
+nummod	count	one
+nmod:on	guilty	count
+punct	found	;
+parataxis	found	mistrial
+case	others	on
+nmod:on	mistrial	others

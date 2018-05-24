@@ -1,0 +1,6 @@
+food	fast	amod
+restaurant	serving	acl
+walks	woman	nsubj
+serving	food	dobj
+walks	restaurant	nmod:next_to
+restaurant	next	case

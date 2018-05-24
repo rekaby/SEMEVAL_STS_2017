@@ -1,0 +1,13 @@
+det	band	An
+amod	band	African-American
+nsubj	playing	band
+aux	playing	is
+root	ROOT	playing
+advmod	playing	outdoors
+case	stage	on
+det	stage	a
+nmod:on	playing	stage
+acl	stage	surrounded
+case	trees	by
+nmod:by	surrounded	trees
+punct	playing	.

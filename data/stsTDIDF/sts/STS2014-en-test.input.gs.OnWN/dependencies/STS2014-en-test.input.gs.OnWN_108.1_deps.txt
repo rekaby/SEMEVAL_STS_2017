@@ -1,0 +1,8 @@
+root	ROOT	imagine
+punct	imagine	;
+conj	imagine	form
+det	picture	a
+amod	picture	mental
+dobj	form	picture
+case	something	of
+nmod:of	picture	something

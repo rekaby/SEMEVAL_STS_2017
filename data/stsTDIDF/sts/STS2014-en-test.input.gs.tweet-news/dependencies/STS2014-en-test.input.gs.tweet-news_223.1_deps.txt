@@ -1,0 +1,9 @@
+compound	Lessons	Tribal
+root	ROOT	Lessons
+punct	Lessons	-
+punct	World	`
+det	World	The
+dep	Lessons	World
+case	Yesterday	Until
+nmod:until	World	Yesterday
+punct	Lessons	'

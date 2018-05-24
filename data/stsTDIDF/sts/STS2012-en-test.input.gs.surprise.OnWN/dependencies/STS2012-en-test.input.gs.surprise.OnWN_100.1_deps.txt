@@ -1,0 +1,7 @@
+det	loss	a
+amod	loss	relative
+root	ROOT	loss
+case	price	in
+nmod:in	loss	price
+punct	loss	,
+appos	loss	value

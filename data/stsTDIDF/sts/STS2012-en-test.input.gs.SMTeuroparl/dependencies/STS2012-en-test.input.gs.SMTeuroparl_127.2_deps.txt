@@ -1,0 +1,15 @@
+det	leaders	The
+nsubj	chance	leaders
+aux	chance	have
+advmod	chance	now
+case	chance	of
+det	chance	a
+amod	chance	new
+root	ROOT	chance
+cc	chance	and
+conj:and	chance	let
+punct	chance	--
+advmod	take	therefore
+det	take	the
+dep	chance	take
+punct	chance	.

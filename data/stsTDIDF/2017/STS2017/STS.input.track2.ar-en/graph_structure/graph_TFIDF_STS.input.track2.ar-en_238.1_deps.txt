@@ -1,0 +1,7 @@
+Olympics	at	case
+female	A	det
+vaulting	.	punct
+vaulting	Olympics	nmod:at
+vaulting	female	nsubj
+ROOT	vaulting	root
+vaulting	is	aux

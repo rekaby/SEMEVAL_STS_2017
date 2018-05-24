@@ -1,0 +1,11 @@
+det	decrease	a
+amod	decrease	gradual
+root	ROOT	decrease
+punct	decrease	;
+case	charge	as
+mwe	as	of
+amod	charge	stored
+nmod:as_of	decrease	charge
+cc	charge	or
+conj:or	charge	current
+punct	decrease	.

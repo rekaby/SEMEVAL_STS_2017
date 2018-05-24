@@ -1,0 +1,12 @@
+nsubj	condition	Another
+cop	condition	was
+case	condition	in
+amod	condition	serious
+root	ROOT	condition
+case	Center	at
+compound	Center	Northwest
+compound	Center	Medical
+nmod:at	condition	Center
+case	Springdale	in
+nmod:in	Center	Springdale
+punct	condition	.

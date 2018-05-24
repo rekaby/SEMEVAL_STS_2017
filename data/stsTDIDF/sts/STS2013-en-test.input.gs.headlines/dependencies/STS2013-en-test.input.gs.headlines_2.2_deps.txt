@@ -1,0 +1,10 @@
+nsubj	dismisses	SC
+root	ROOT	dismisses
+nmod:poss	petition	govt
+case	govt	's
+compound	petition	review
+dobj	dismisses	petition
+case	verdict	on
+compound	verdict	Vodafone
+compound	verdict	tax
+nmod:on	petition	verdict

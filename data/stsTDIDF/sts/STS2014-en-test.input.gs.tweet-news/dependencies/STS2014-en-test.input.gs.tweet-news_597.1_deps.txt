@@ -1,0 +1,14 @@
+compound	Voting	#NHL
+compound	Voting	Players
+compound	Voting	Begin
+root	ROOT	Voting
+case	Deal	on
+compound	Deal	Labor
+nmod:on	Voting	Deal
+punct	Voting	;
+compound	Expected	Approval
+dep	Voting	Expected
+case	#Antitrust	by
+compound	#Antitrust	Saturday
+compound	#Antitrust	#ABASAL
+nmod:by	Expected	#Antitrust

@@ -1,0 +1,12 @@
+attempts	re-enact	xcomp
+game	favorite	amod
+ROOT	dressed	root
+dressed	Hitler	nsubj
+re-enact	game	dobj
+goalie	a	det
+attempts	as	mark
+attempts	goalie	nsubj
+dressed	.	punct
+game	soccer	compound
+dressed	attempts	advcl
+re-enact	to	mark

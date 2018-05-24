@@ -1,0 +1,9 @@
+det	battery	a
+nsubj	has	battery
+advmod	has	always
+root	ROOT	has
+dobj	has	voltage
+mark	damaged	unless
+nsubjpass	damaged	it
+auxpass	damaged	is
+advcl	has	damaged

@@ -1,0 +1,13 @@
+root	ROOT	Hilsenrath
+cc	Hilsenrath	and
+conj:and	Hilsenrath	Klarman
+nsubjpass	indicted	each
+auxpass	indicted	were
+acl:relcl	Hilsenrath	indicted
+case	counts	on
+nummod	counts	three
+nmod:on	indicted	counts
+case	fraud	of
+compound	fraud	securities
+nmod:of	counts	fraud
+punct	Hilsenrath	.

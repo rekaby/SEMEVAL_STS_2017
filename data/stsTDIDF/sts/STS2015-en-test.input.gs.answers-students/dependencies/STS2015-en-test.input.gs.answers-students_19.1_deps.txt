@@ -1,0 +1,9 @@
+det	terminal	the
+nsubjpass	connected	terminal
+auxpass	connected	is
+neg	connected	not
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+compound	terminal	battery
+nmod:to	connected	terminal

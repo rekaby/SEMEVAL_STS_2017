@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	changing	of
+acl	act	changing
+nummod	thing	one
+dobj	changing	thing
+cc	thing	or
+conj:or	thing	position
+case	another	for
+nmod:for	changing	another
+punct	act	.

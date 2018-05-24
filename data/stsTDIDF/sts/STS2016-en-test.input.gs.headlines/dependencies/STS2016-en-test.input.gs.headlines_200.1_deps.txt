@@ -1,0 +1,8 @@
+compound	Pistorius	Oscar
+nsubj	sentenced	Pistorius
+root	ROOT	sentenced
+case	years	to
+nummod	years	5
+nmod:to	sentenced	years
+case	prison	in
+nmod:in	years	prison

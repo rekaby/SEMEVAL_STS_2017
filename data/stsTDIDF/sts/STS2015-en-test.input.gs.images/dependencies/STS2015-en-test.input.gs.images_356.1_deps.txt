@@ -1,0 +1,10 @@
+det	man	A
+amod	man	yellow
+amod	man	shirted
+root	ROOT	man
+acl	man	wearing
+det	mask	a
+amod	mask	golden
+compound	mask	sun
+dobj	wearing	mask
+punct	man	.

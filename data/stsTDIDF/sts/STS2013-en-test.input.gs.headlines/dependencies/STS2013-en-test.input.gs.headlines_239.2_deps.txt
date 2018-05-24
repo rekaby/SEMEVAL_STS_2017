@@ -1,0 +1,8 @@
+compound	Strauss-Kahn	Dominique
+nsubj	faces	Strauss-Kahn
+root	ROOT	faces
+compound	ring	questions
+case	prostitution	over
+amod	prostitution	French
+nmod:over	questions	prostitution
+dobj	faces	ring

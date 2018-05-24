@@ -1,0 +1,8 @@
+det	man	A
+nsubj	dives	man
+root	ROOT	dives
+case	cliff	off
+mwe	off	of
+det	cliff	a
+nmod:off_of	dives	cliff
+punct	dives	.

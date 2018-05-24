@@ -1,0 +1,7 @@
+det	player	The
+compound	player	basketball
+nsubj	holds	player
+root	ROOT	holds
+det	ball	the
+dobj	holds	ball
+punct	holds	.

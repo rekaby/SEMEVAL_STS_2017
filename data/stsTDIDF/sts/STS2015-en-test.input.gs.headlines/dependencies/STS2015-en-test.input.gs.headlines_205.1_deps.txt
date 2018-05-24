@@ -1,0 +1,7 @@
+compound	comment	Philippines
+compound	comment	defers
+root	ROOT	comment
+case	attack	on
+compound	attack	Taiwan
+compound	attack	fisher
+nmod:on	comment	attack

@@ -1,0 +1,7 @@
+det	group	A
+nsubj	shopping	group
+case	friends	of
+nmod:of	group	friends
+aux	shopping	are
+root	ROOT	shopping
+punct	shopping	.

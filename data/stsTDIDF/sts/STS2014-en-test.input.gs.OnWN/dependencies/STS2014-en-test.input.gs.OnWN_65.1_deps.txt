@@ -1,0 +1,5 @@
+root	ROOT	go
+case	rim	around
+det	rim	the
+nmod:around	go	rim
+nmod	go	of

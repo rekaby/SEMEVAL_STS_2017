@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	kneading	woman
+aux	kneading	is
+root	ROOT	kneading
+dobj	kneading	dough
+punct	kneading	.

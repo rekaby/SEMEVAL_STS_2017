@@ -1,0 +1,17 @@
+nsubj	alluding	Wittgenstein
+aux	alluding	is
+root	ROOT	alluding
+mark	solved	to
+advmod	solved	how
+compound	himself	Russell
+nsubj	solved	himself
+advcl	alluding	solved
+det	Paradox	the
+dobj	solved	Paradox
+punct	Paradox	-
+det	theory	the
+dep	Paradox	theory
+case	types	of
+amod	types	ramified
+nmod:of	theory	types
+punct	alluding	.

@@ -1,0 +1,9 @@
+advmod	800	More
+mwe	More	than
+nummod	cases	800
+compound	cases	NYC
+compound	cases	rape
+root	ROOT	cases
+acl	cases	reviewed
+case	mistakes	for
+nmod:for	reviewed	mistakes

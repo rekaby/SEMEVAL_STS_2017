@@ -1,0 +1,14 @@
+nsubj	put	You
+aux	put	can
+root	ROOT	put
+nmod:poss	toys	her
+dobj	put	toys
+case	her	near
+nmod:near	put	her
+cc	her	or
+conj:or	her	give
+nsubj	toys	he
+ccomp	give	toys
+case	her	to
+nmod:to	toys	her
+punct	put	.

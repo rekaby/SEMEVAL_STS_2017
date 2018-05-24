@@ -1,0 +1,9 @@
+feet	a	det
+feet	.	punct
+feet	gymnast	nsubj
+ground	off	case
+ROOT	feet	root
+gymnast	The	det
+feet	is	cop
+feet	ground	nmod:off
+feet	few	amod

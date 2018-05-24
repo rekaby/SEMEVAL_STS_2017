@@ -1,0 +1,8 @@
+nsubj	okra	Someone
+cop	okra	is
+amod	okra	cooking
+root	ROOT	okra
+case	pan	in
+det	pan	a
+nmod:in	okra	pan
+punct	okra	.

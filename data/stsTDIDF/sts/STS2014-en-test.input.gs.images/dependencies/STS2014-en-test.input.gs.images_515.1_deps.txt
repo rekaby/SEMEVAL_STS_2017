@@ -1,0 +1,10 @@
+root	ROOT	Group
+case	people	of
+nmod:of	Group	people
+acl	people	sitting
+case	table	around
+det	table	a
+compound	table	restaurant
+compound	table	dining
+nmod:around	sitting	table
+punct	Group	.

@@ -1,0 +1,15 @@
+det	company	The
+nsubj	claims	company
+root	ROOT	claims
+nsubj	sale	it
+cop	sale	's
+det	sale	the
+amod	sale	largest
+amod	sale	single
+compound	sale	Apple
+compound	sale	VAR
+compound	sale	Xserve
+ccomp	claims	sale
+case	date	to
+nmod:to	sale	date
+punct	claims	.

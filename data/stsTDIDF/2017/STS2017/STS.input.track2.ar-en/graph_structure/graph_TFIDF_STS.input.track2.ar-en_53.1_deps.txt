@@ -1,0 +1,7 @@
+strawberries	only	advmod
+were	strawberries	nsubj
+shower	baby	compound
+shower	the	det
+strawberries	eat	acl
+shower	at	case
+eat	shower	nmod:at

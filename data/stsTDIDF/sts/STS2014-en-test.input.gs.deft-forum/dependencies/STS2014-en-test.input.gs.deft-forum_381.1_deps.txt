@@ -1,0 +1,15 @@
+aux	understand	Do
+nsubj	understand	you
+root	ROOT	understand
+advmod	absurd	why
+nsubj	absurd	it
+cop	absurd	's
+ccomp	understand	absurd
+mark	limit	to
+xcomp	absurd	limit
+det	question	the
+dobj	limit	question
+case	residents	to
+compound	residents	US
+nmod:to	question	residents
+punct	understand	?

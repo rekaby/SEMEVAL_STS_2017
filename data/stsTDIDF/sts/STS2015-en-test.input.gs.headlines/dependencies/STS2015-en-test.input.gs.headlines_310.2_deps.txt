@@ -1,0 +1,10 @@
+compound	Council	UN
+compound	Council	Security
+nsubj	attack	Council
+compound	attack	slams
+amod	attack	deadly
+amod	attack	terrorist
+root	ROOT	attack
+case	capital	in
+amod	capital	Kenyan
+nmod:in	attack	capital

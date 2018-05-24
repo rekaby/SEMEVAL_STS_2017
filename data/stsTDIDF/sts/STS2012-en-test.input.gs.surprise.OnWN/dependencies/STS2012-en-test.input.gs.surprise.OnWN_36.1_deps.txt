@@ -1,0 +1,10 @@
+root	ROOT	depict
+cc	depict	or
+conj:or	depict	portray
+case	art	in
+nmod:in	portray	art
+punct	art	,
+conj:or	art	words
+punct	art	,
+cc	art	or
+conj:or	art	model

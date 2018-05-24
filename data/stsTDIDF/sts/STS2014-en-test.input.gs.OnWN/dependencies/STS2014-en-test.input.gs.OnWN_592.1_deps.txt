@@ -1,0 +1,14 @@
+root	ROOT	Move
+cc	Move	or
+conj:or	Move	arrange
+dobj	arrange	oneself
+punct	oneselves	-LRB-
+appos	oneself	oneselves
+punct	oneselves	-RRB-
+case	position	in
+det	position	a
+amod	position	comfortable
+cc	comfortable	and
+conj:and	comfortable	cozy
+nmod:in	Move	position
+punct	Move	.

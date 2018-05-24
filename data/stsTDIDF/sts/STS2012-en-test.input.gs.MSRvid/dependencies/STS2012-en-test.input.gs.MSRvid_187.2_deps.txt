@@ -1,0 +1,9 @@
+det	man	The
+nsubj	cracking	man
+aux	cracking	is
+root	ROOT	cracking
+dobj	cracking	eggs
+case	bowl	into
+det	bowl	a
+nmod:into	cracking	bowl
+punct	cracking	.

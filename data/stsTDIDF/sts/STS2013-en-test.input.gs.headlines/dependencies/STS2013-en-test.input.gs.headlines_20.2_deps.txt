@@ -1,0 +1,7 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+nummod	Pakistan	21
+case	NW	in
+nmod:in	21	NW
+dobj	kills	Pakistan

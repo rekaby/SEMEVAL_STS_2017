@@ -1,0 +1,6 @@
+amod	train	French
+nsubj	derails	train
+root	ROOT	derails
+advmod	derails	south
+case	Paris	of
+nmod:of	south	Paris

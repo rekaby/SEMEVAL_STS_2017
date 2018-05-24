@@ -1,0 +1,10 @@
+nsubj	cuts	Bollywood
+root	ROOT	cuts
+dobj	cuts	costs
+case	bites	by
+det	bites	a
+amod	a	third
+case	collapse	as
+compound	collapse	rupee
+nmod:as	third	collapse
+nmod:by	cuts	bites

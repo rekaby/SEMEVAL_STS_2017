@@ -1,0 +1,19 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-6) nsubj(fell-2, DJI
+root	ROOT	fell
+nummod	points	79.43
+dobj	fell	points
+punct	points	,
+cc	points	or
+nummod	percent	0.86
+conj:or	points	percent
+punct	points	,
+case	9,117.12	to
+nmod:to	fell	9,117.12
+case	Friday	on
+nmod:on	fell	Friday
+punct	fell	.

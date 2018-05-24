@@ -1,0 +1,12 @@
+nsubj	says	Israel
+root	ROOT	says
+nsubj	carried	it
+ccomp	says	carried
+compound:prt	carried	out
+amod	test	joint
+compound	test	missile
+dobj	carried	test
+case	US	with
+nmod:with	test	US
+case	Mediterranean	in
+nmod:in	carried	Mediterranean

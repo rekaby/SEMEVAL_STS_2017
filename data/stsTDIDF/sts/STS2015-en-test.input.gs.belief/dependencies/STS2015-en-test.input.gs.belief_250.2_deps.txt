@@ -1,0 +1,9 @@
+nsubj	killing	they
+aux	killing	are
+root	ROOT	killing
+dobj	killing	themselves
+case	force	as
+det	force	a
+amod	force	politcal
+nmod:as	killing	force
+punct	killing	.

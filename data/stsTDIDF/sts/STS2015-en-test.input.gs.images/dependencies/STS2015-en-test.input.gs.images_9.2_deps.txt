@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	multicolour
+root	ROOT	dog
+case	crouching	in
+det	crouching	a
+amod	crouching	red
+compound	crouching	collar
+nmod:in	dog	crouching
+case	grass	on
+det	grass	the
+nmod:on	crouching	grass
+punct	dog	.

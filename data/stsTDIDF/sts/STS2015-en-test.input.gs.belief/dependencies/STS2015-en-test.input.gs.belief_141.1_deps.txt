@@ -1,0 +1,10 @@
+root	ROOT	rslw
+punct	rslw	:
+neg	hate	no
+punct	hate	,
+advmod	hate	why
+aux	hate	would
+nsubj	hate	i
+dep	rslw	hate
+dobj	hate	them
+punct	rslw	?

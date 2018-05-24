@@ -1,0 +1,6 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	10
+case	Pakistan	in
+nmod:in	kills	Pakistan

@@ -1,0 +1,10 @@
+nummod	people	Two
+nsubj	ride	people
+root	ROOT	ride
+nmod:poss	bikes	their
+dobj	ride	bikes
+case	road	down
+det	road	a
+compound	road	dirt
+nmod:down	ride	road
+punct	ride	.

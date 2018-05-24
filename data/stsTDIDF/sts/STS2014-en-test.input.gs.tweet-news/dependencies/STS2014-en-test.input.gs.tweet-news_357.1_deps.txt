@@ -1,0 +1,13 @@
+amod	Ordered	Russian
+amod	Ordered	Military
+nsubj	!!!	Ordered
+mark	Switch	to
+acl	Ordered	Switch
+mark	learned	to
+dep	learned	Socks
+nsubj	learned	I
+advcl	Switch	learned
+dobj	learned	something
+amod	today	new
+nmod:tmod	something	today
+root	ROOT	!!!

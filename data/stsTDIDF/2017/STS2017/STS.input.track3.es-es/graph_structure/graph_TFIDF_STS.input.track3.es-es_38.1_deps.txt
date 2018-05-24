@@ -1,0 +1,7 @@
+Stadium	inside	case
+concert	Stadium	nmod:inside
+Stadium	the	det
+watching	People	nsubj
+concert	rap	compound
+watching	are	aux
+watching	concert	dobj

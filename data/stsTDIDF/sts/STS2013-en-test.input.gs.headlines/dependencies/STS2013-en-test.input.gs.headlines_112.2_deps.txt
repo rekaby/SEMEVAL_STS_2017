@@ -1,0 +1,10 @@
+nsubj	monitors	UN
+root	ROOT	monitors
+dobj	monitors	shot
+case	way	at
+case	way	on
+nmod:on	monitors	way
+case	site	to
+amod	site	Syrian
+compound	site	massacre
+nmod:to	way	site

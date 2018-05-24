@@ -1,0 +1,14 @@
+det	man	A
+nsubj	using	man
+aux	using	is
+root	ROOT	using
+det	pole	a
+amod	pole	large
+dobj	using	pole
+mark	remove	to
+advcl	using	remove
+dobj	remove	letters
+case	sign	from
+det	sign	a
+nmod:from	remove	sign
+punct	using	.

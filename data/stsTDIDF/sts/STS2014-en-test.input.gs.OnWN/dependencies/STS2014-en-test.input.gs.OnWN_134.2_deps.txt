@@ -1,0 +1,16 @@
+det	instrument	an
+root	ROOT	instrument
+mark	torture	of
+acl	instrument	torture
+nsubjpass	used	that
+auxpass	used	is
+ccomp	torture	used
+case	heat	to
+nmod:to	used	heat
+cc	heat	or
+conj:or	heat	crush
+det	foot	the
+dep	heat	foot
+cc	foot	and
+conj:and	foot	leg
+punct	instrument	.

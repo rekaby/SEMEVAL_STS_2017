@@ -1,0 +1,7 @@
+det	connection	an
+amod	connection	electrical
+root	ROOT	connection
+case	conductor	between
+nmod:between	connection	conductor
+cc	conductor	and
+conj:and	conductor	earth

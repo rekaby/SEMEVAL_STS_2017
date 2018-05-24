@@ -1,0 +1,12 @@
+root	ROOT	GRATE
+dep	GRATE	ON
+punct	ON	:
+dep	ON	gnaw
+case	emotionally	into
+nmod:into	gnaw	emotionally
+punct	GRATE	;
+dep	GRATE	make
+xcomp	make	resentful
+cc	resentful	or
+conj:or	resentful	angry
+punct	GRATE	.

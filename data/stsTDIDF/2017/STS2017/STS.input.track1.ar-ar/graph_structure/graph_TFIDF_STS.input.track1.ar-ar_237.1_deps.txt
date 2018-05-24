@@ -1,0 +1,7 @@
+blow	trumpet	dobj
+trumpet	the	det
+band	in	case
+blow	.	punct
+blow	Man	compound
+ROOT	blow	root
+blow	band	nmod:in

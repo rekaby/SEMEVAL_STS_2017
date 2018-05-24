@@ -1,0 +1,6 @@
+ROOT	beach	root
+beach	.	punct
+animals	with	case
+beach	are	cop
+beach	animals	nmod:with
+beach	People	nsubj

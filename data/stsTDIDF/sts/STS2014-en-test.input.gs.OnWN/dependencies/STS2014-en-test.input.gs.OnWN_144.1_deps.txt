@@ -1,0 +1,7 @@
+root	ROOT	free
+case	obligations	from
+nmod:from	free	obligations
+punct	obligations	,
+conj:or	obligations	service
+cc	obligations	or
+conj:or	obligations	confinement

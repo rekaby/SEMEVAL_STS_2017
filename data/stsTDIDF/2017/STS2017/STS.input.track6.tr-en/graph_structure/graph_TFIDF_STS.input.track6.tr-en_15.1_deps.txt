@@ -1,0 +1,7 @@
+bull	with	case
+man	flag	nmod:with
+flag	with	case
+flag	red	amod
+flag	a	det
+flag	bull	nmod:with
+bull	a	det

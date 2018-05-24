@@ -1,0 +1,6 @@
+nsubj	ablaze	Vehicles
+root	ROOT	ablaze
+case	Japan	in
+amod	Japan	collapsed
+nmod:in	ablaze	Japan
+dobj	ablaze	tunnel

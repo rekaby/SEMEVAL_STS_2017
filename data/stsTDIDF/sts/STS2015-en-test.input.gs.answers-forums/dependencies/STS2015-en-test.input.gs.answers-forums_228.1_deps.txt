@@ -1,0 +1,16 @@
+advmod	decreases	Apart
+case	aperture	from
+nmod:from	decreases	aperture
+cc	aperture	and
+amod	length	focal
+conj:and	aperture	length
+punct	aperture	,
+appos	aperture	depth
+case	field	of
+nmod:of	depth	field
+advmod	decreases	also
+root	ROOT	decreases
+case	distance	with
+amod	distance	camera-subject
+nmod:with	decreases	distance
+punct	decreases	.

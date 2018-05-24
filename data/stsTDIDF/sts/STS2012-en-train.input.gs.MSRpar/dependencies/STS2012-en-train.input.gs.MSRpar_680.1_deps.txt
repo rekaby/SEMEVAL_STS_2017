@@ -1,0 +1,17 @@
+root	ROOT	That
+case	profit	compared
+mwe	compared	with
+det	profit	a
+amod	profit	year-earlier
+acl:compared_with	That	profit
+case	$	of
+nmod:of	profit	$
+compound	million	102
+nummod	$	million
+punct	$	,
+cc	$	or
+nummod	cents	13
+conj:or	$	cents
+det	share	a
+nmod:npmod	cents	share
+punct	That	.

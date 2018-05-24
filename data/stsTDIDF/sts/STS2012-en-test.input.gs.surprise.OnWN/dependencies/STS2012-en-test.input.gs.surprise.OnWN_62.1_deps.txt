@@ -1,0 +1,6 @@
+root	ROOT	go
+advmod	go	back
+punct	go	,
+xcomp	go	restore
+punct	go	,
+dep	go	revive

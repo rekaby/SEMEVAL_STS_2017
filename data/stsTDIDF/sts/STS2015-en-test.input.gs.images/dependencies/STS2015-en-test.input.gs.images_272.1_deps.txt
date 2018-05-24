@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	walking	people
+root	ROOT	walking
+case	beach	on
+det	beach	the
+nmod:on	walking	beach
+case	sunset	at
+nmod:at	walking	sunset
+punct	walking	.

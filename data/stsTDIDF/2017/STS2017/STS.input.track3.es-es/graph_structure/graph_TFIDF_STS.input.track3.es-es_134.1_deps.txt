@@ -1,0 +1,5 @@
+event	is	cop
+ROOT	event	root
+event	.	punct
+event	crowd	nsubj
+crowd	A	det

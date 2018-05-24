@@ -1,0 +1,5 @@
+needs	car	nsubj
+car	The	det
+needs	work	nmod:to
+work	some	det
+work	to	case

@@ -1,0 +1,6 @@
+det	part	a
+amod	part	supplementary
+root	ROOT	part
+cc	part	or
+conj:or	part	accessory
+punct	part	.

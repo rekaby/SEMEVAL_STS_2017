@@ -1,0 +1,6 @@
+riding	day	nmod:on
+riding	bike	dobj
+day	sunny	amod
+riding	person	nsubj
+bike	his	nmod:poss
+riding	is	aux

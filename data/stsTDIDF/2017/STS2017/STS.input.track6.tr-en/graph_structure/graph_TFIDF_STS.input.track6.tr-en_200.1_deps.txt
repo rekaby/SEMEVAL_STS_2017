@@ -1,0 +1,5 @@
+show	begin	acl
+woman	An	det
+woman	Asian	amod
+waiting	show	nmod:for
+waiting	woman	nsubj

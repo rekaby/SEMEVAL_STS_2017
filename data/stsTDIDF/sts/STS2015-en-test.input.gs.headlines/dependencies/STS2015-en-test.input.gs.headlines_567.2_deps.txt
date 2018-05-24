@@ -1,0 +1,9 @@
+root	ROOT	GM
+mark	start	to
+acl	GM	start
+xcomp	start	taking
+compound	compensation	recall
+nsubj	claims	compensation
+ccomp	taking	claims
+dobj	claims	Aug
+nummod	Aug	1

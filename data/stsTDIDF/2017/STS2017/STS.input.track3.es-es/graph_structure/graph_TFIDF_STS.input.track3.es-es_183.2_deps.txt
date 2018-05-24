@@ -1,0 +1,8 @@
+queuing	people	nsubj
+people	Several	amod
+queuing	.	punct
+queuing	counter	nmod:at
+ROOT	queuing	root
+counter	at	case
+queuing	are	aux
+counter	a	det

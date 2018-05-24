@@ -1,0 +1,11 @@
+det	man	A
+nsubj	throwing	man
+aux	throwing	is
+root	ROOT	throwing
+dobj	throwing	blades
+case	target	into
+det	target	a
+amod	target	close
+nmod:into	throwing	target
+advmod	target	outside
+punct	throwing	.

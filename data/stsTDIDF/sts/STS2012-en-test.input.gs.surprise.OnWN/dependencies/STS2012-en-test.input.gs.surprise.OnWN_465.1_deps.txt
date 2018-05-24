@@ -1,0 +1,8 @@
+det	reply	a
+amod	reply	spoken
+cc	spoken	or
+conj:or	spoken	written
+root	ROOT	reply
+case	question	to
+det	question	a
+nmod:to	reply	question

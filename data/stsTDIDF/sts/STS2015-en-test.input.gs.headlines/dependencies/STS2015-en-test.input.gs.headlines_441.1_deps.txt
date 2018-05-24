@@ -1,0 +1,7 @@
+nsubj	killed	Son
+case	leader	of
+amod	leader	top
+amod	leader	Muslim
+compound	leader	Brotherhood
+nmod:of	Son	leader
+root	ROOT	killed

@@ -1,0 +1,7 @@
+band	with	case
+band	e	det
+band	new	amod
+partying	Friends	nsubj
+ROOT	partying	root
+partying	band	nmod:with
+partying	are	aux

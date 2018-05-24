@@ -1,0 +1,17 @@
+root	ROOT	grip
+punct	grip	,
+acl	grip	penetrate
+conj:or	penetrate	penetrate
+cc	penetrate	or
+conj:or	penetrate	tear
+compound:prt	penetrate	off
+case	teeth	with
+cc	with	or
+conj:or	with	as
+case	teeth	if
+case	teeth	with
+det	teeth	the
+nmod:as	penetrate	teeth
+nmod:with	penetrate	teeth
+cc	teeth	or
+conj:or	teeth	jaws

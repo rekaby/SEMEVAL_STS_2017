@@ -1,0 +1,7 @@
+det	child	A
+nsubj	riding	child
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+punct	riding	.

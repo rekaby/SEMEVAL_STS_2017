@@ -1,0 +1,10 @@
+nsubj	talking	i
+aux	talking	'm
+neg	talking	not
+root	ROOT	talking
+case	year	about
+det	year	this
+nmod:about	talking	year
+punct	talking	,
+dobj	talking	maggie
+punct	talking	.

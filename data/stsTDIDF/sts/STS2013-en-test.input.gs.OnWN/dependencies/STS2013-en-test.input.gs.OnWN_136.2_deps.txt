@@ -1,0 +1,10 @@
+root	ROOT	make
+det	copy	a
+dobj	make	copy
+case	intent	of
+case	intent	with
+det	intent	the
+nmod:with	copy	intent
+mark	deceive	to
+acl	copy	deceive
+punct	make	.

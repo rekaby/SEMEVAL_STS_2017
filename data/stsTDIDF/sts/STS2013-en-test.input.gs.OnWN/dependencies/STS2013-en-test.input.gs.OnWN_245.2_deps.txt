@@ -1,0 +1,11 @@
+root	ROOT	twist
+cc	twist	and
+conj:and	twist	turn
+advmod	give	so
+mark	give	as
+mark	give	to
+advcl	twist	give
+det	interpretation	an
+amod	interpretation	intended
+dobj	give	interpretation
+punct	twist	.

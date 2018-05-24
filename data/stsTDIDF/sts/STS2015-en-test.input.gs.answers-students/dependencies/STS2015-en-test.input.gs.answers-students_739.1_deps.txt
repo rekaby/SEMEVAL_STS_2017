@@ -1,0 +1,14 @@
+advmod	pathway	When
+nsubj	pathway	it
+cop	pathway	is
+case	pathway	on
+det	pathway	the
+amod	pathway	same
+root	ROOT	pathway
+case	batter	as
+det	batter	the
+nmod:as	pathway	batter
+cc	batter	and
+det	bulb	the
+conj:and	batter	bulb
+punct	pathway	.

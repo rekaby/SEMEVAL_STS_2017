@@ -1,0 +1,9 @@
+case	areas	In
+amod	areas	other
+nmod:in	imposed	areas
+punct	imposed	,
+det	charia	the
+nsubjpass	imposed	charia
+auxpass	imposed	is
+root	ROOT	imposed
+punct	imposed	.

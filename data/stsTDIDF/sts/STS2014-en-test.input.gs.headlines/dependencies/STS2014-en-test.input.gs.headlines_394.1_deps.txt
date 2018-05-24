@@ -1,0 +1,6 @@
+compound	blasts	Almagor
+nsubj	release	blasts
+compound	release	Netanyahu
+case	prisoner	over
+nmod:over	Netanyahu	prisoner
+root	ROOT	release

@@ -1,0 +1,10 @@
+det	cat	A
+nsubjpass	spun	cat
+auxpass	spun	is
+root	ROOT	spun
+compound:prt	spun	around
+case	fan	by
+det	fan	a
+compound	fan	ceiling
+nmod:agent	spun	fan
+punct	spun	.

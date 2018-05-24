@@ -1,0 +1,7 @@
+det	child	A
+nsubj	runs	child
+root	ROOT	runs
+case	grass	through
+det	grass	the
+nmod:through	runs	grass
+punct	runs	.

@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+det	bicycle	a
+amod	bicycle	blue
+dobj	riding	bicycle
+case	park	in
+det	park	a
+nmod:in	riding	park
+punct	riding	.

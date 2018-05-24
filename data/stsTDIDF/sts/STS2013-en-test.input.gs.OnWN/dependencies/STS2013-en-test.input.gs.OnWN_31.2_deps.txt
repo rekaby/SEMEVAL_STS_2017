@@ -1,0 +1,15 @@
+root	ROOT	extend
+cc	extend	or
+conj:or	extend	spread
+advmod	extend	outward
+case	center	from
+det	center	a
+nmod:from	outward	center
+cc	center	or
+conj:or	center	focus
+cc	center	or
+conj:or	center	inward
+case	center	towards
+det	center	a
+nmod:towards	inward	center
+punct	extend	.

@@ -1,0 +1,7 @@
+nsubj	likes	James
+root	ROOT	likes
+mark	pray	to
+xcomp	likes	pray
+case	church	in
+nmod:in	pray	church
+punct	likes	.

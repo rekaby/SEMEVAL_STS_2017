@@ -1,0 +1,8 @@
+nsubj	feared	Three
+root	ROOT	feared
+xcomp	feared	dead
+case	crashes	after
+compound	crashes	helicopter
+nmod:after	dead	crashes
+case	pub	into
+nmod:into	crashes	pub

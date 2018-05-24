@@ -1,0 +1,8 @@
+root	ROOT	feel
+xcomp	feel	hot
+cc	hot	or
+conj:or	hot	painful
+punct	hot	,
+case	burning	as
+mwe	as	if
+nmod:as_if	hot	burning

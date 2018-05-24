@@ -1,0 +1,22 @@
+case	frame	in
+det	frame	this
+nmod:in	takes	frame
+det	ingestor	an
+nsubj	takes	ingestor
+root	ROOT	takes
+det	substance	a
+dobj	takes	substance
+case	body	into
+nmod:poss	body	his
+cc	his	or
+conj:or	his	her
+nmod:into	takes	body
+punct	takes	.-14) det(delivery_device-2, the
+nsubj	appear	delivery_device
+aux	appear	can
+root	ROOT	appear
+case	object	as
+det	object	a
+amod	object	direct
+nmod:as	appear	object
+punct	appear	.

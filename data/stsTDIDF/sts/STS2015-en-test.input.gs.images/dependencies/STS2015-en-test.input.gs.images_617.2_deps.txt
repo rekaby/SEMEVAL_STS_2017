@@ -1,0 +1,15 @@
+nummod	males	Two
+root	ROOT	males
+punct	males	,
+appos	males	one
+case	red	in
+nmod:in	one	red
+cc	red	and
+conj:and	red	one
+mark	playing	in
+amod	playing	white
+acl	one	playing
+det	game	a
+compound	game	basketball
+dobj	playing	game
+punct	males	.

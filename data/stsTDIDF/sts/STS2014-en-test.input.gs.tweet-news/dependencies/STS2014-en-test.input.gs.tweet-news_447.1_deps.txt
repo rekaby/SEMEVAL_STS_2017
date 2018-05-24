@@ -1,0 +1,8 @@
+nsubj	stole	Who
+root	ROOT	stole
+amod	relics	precious
+dobj	stole	relics
+case	church	from
+compound	church	Mo.
+nmod:from	stole	church
+punct	stole	?

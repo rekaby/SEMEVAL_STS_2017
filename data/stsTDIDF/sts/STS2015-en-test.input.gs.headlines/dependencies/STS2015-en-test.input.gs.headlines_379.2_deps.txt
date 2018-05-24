@@ -1,0 +1,5 @@
+root	ROOT	Search
+acl	Search	narrowed
+case	man	for
+amod	man	missing
+nmod:for	narrowed	man

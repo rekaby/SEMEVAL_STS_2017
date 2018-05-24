@@ -1,0 +1,10 @@
+det	tool	a
+amod	tool	pointed
+root	ROOT	tool
+mark	writing	for
+acl	tool	writing
+cc	writing	or
+conj:or	writing	drawing
+cc	writing	or
+conj:or	writing	engraving
+punct	tool	.

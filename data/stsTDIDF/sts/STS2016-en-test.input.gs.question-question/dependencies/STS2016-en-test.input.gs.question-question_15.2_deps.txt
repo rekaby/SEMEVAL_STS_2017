@@ -1,0 +1,16 @@
+aux	pay	Can
+nsubj	pay	I
+root	ROOT	pay
+det	agency	a
+compound	agency	collection
+dobj	pay	agency
+case	way	in
+det	way	a
+nmod:in	pay	way
+nsubj	improve	that
+aux	improve	will
+acl:relcl	way	improve
+nmod:poss	score	my
+compound	score	credit
+dobj	improve	score
+punct	pay	?

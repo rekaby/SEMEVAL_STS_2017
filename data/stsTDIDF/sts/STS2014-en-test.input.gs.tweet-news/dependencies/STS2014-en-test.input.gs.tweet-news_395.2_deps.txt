@@ -1,0 +1,8 @@
+punct	battles	`
+compound	hunter	Bounty
+nsubj	battles	hunter
+punct	battles	'
+root	ROOT	battles
+dobj	battles	FIFA
+case	Facebook	on
+nmod:on	battles	Facebook

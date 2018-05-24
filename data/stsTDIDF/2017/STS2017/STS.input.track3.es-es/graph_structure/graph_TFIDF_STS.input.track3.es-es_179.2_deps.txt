@@ -1,0 +1,4 @@
+people	standing	acl
+door	outside	case
+door	a	det
+standing	door	nmod:outside

@@ -1,0 +1,9 @@
+nsubj	direct	That
+cop	direct	is
+neg	direct	not
+root	ROOT	direct
+xcomp	direct	responsibilty
+case	constituents	to
+det	constituents	the
+nmod:to	responsibilty	constituents
+punct	direct	.

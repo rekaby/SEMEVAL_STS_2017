@@ -1,0 +1,8 @@
+root	ROOT	does
+det	sound	this
+dobj	does	sound
+case	option	like
+det	option	the
+amod	option	sensible
+nmod:like	sound	option
+punct	does	.

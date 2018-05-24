@@ -1,0 +1,12 @@
+root	ROOT	settle
+case	position	into
+det	position	a
+nmod:into	settle	position
+punct	settle	,
+advmod	surface	usually
+case	surface	on
+det	surface	a
+nmod:on	settle	surface
+cc	surface	or
+conj:or	surface	ground
+punct	settle	.

@@ -1,0 +1,12 @@
+root	ROOT	make
+det	schedule	a
+dobj	make	schedule
+punct	make	;
+dep	make	plan
+det	time	the
+dobj	plan	time
+cc	time	and
+conj:and	time	place
+case	events	for
+nmod:for	time	events
+punct	make	.

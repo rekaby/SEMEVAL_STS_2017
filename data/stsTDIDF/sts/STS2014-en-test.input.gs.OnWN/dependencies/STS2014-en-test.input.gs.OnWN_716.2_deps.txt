@@ -1,0 +1,10 @@
+root	ROOT	move
+case	rake	through
+mark	rake	with
+cc	with	or
+conj:or	with	as
+advmod	rake	if
+case	rake	with
+det	rake	a
+nmod:with	move	rake
+punct	move	.

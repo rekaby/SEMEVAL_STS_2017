@@ -1,0 +1,6 @@
+root	ROOT	has
+dobj	has	anyone
+acl	anyone	heard
+case	this	about
+nmod:about	heard	this
+punct	has	?

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	relaxes	man
+acl	man	dressed
+case	race	for
+det	race	a
+nmod:for	dressed	race
+root	ROOT	relaxes
+punct	relaxes	.

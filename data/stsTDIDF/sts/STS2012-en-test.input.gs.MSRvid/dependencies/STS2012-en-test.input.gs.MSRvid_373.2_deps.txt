@@ -1,0 +1,6 @@
+det	animal	A
+nsubj	walking	animal
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	around
+punct	walking	.

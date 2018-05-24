@@ -1,0 +1,11 @@
+nsubj	kill	Police
+root	ROOT	kill
+dobj	kill	gunman
+punct	kill	,
+dep	kill	find
+dobj	find	3
+advmod	dead	more
+amod	3	dead
+case	home	in
+compound	home	Colo.
+nmod:in	dead	home

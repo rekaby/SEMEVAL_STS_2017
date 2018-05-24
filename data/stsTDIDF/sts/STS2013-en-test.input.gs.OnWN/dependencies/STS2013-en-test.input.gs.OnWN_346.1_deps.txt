@@ -1,0 +1,6 @@
+root	ROOT	advance
+cc	advance	or
+conj:or	advance	set
+advmod	set	forward
+case	court	in
+nmod:in	advance	court

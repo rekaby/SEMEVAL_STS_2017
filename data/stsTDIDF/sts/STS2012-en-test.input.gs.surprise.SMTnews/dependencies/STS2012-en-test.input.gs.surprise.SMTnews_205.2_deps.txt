@@ -1,0 +1,15 @@
+cc	has	And
+punct	has	,
+advmod	importantly	perhaps
+advmod	importantly	most
+advmod	has	importantly
+punct	has	,
+nsubj	has	Ahmadinejad
+root	ROOT	has
+det	influence	an
+dobj	has	influence
+punct	influence	,
+neg	destabilizing	not
+dep	influence	destabilizing
+dobj	destabilizing	Bernanke
+punct	has	.

@@ -1,0 +1,3 @@
+race	A	det
+taking	race	nsubj
+taking	stadium	nmod:in

@@ -1,0 +1,7 @@
+det	bicycle	A
+amod	bicycle	wooden
+root	ROOT	bicycle
+case	awning	with
+det	awning	an
+nmod:with	bicycle	awning
+punct	bicycle	.

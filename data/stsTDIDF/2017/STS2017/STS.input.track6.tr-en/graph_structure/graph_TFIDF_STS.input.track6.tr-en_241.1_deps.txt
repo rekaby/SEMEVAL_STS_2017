@@ -1,0 +1,7 @@
+workers	construction	compound
+fence	wooden	amod
+workers	The	det
+appear	workers	nsubj
+fence	a	det
+appear	fence	nmod:through
+fence	through	case

@@ -1,0 +1,7 @@
+det	termination	the
+root	ROOT	termination
+punct	termination	,
+acl	termination	ending
+case	meeting	of
+det	meeting	a
+nmod:of	ending	meeting

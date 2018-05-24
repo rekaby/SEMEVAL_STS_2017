@@ -1,0 +1,12 @@
+nsubj	member	russia
+cop	member	is
+det	member	a
+root	ROOT	member
+case	quartet	of
+det	quartet	the
+nmod:of	member	quartet
+case	east	on
+det	east	the
+amod	east	middle
+nmod:on	member	east
+punct	member	.

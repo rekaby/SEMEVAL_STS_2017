@@ -1,0 +1,9 @@
+det	quantity	a
+amod	quantity	large
+amod	quantity	approximate
+root	ROOT	quantity
+case	attribute	of
+det	attribute	some
+nmod:of	quantity	attribute
+cc	attribute	or
+conj:or	attribute	thing

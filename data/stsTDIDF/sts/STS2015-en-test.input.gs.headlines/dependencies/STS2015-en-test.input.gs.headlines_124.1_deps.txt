@@ -1,0 +1,7 @@
+root	ROOT	Relief
+case	Boston	in
+nmod:in	Relief	Boston
+case	suspect	as
+amod	suspect	second
+nmod:as	Relief	suspect
+dep	suspect	captured

@@ -1,0 +1,9 @@
+amod	stocks	Weak
+compound	stocks	earnings
+compound	stocks	drag
+compound	stocks	US
+root	ROOT	stocks
+amod	stocks	lower
+case	trade	in
+amod	trade	early
+nmod:in	lower	trade

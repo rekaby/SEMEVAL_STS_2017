@@ -1,0 +1,13 @@
+punct NYTimes ?-3) compound(Men-2, Mad	15.060439779775294
+punct Men ?-3) root(ROOT-0, Set	15.060439779775294
+punct Set .-7) amod(news-2, Excellent	15.060439779775294
+case Return to	14.367292599215348
+nmod:to Set Return	14.367292599215348
+nmod:on Return April	14.367292599215348
+nummod April 7	12.980998238095458
+root ROOT Men	12.352389578673083
+root ROOT NYTimes	11.72823526960009
+punct NYTimes :	11.253777290004974
+case April on	10.224157872823815
+punct news .	9.414992882132056
+root ROOT news	9.350012762400423

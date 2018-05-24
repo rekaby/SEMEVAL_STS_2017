@@ -1,0 +1,6 @@
+swimming	pool	nmod:in
+swimming	while	mark
+swimming	underwater	advmod
+goofy	generally	advmod
+man	goofy	amod
+goofy	swimming	advcl

@@ -1,0 +1,11 @@
+nummod	man	One
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	house	through
+det	house	the
+nmod:through	running	house
+case	dog	with
+nmod:poss	dog	his
+nmod:with	house	dog
+punct	running	.

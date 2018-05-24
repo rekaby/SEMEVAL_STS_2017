@@ -1,0 +1,11 @@
+det	guy	A
+nsubj	smiling	guy
+cc	guy	and
+nummod	girls	two
+conj:and	guy	girls
+aux	smiling	are
+root	ROOT	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+punct	smiling	.

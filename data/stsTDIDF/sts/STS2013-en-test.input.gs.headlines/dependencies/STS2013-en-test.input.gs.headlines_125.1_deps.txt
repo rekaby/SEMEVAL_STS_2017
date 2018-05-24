@@ -1,0 +1,11 @@
+det	Note	The
+root	ROOT	Note
+case	Note	's
+dep	Note	Must
+nsubj	Must	Reads
+case	Wednesday	for
+nmod:for	Reads	Wednesday
+dep	Wednesday	July
+nummod	July	4
+punct	Reads	,
+dep	Reads	2012

@@ -1,0 +1,5 @@
+root	ROOT	become
+xcomp	become	long
+cc	long	or
+conj:or	long	longer
+punct	become	.

@@ -1,0 +1,14 @@
+compound	bomb	Calorie
+nsubj	make	bomb
+case	menu	on
+det	menu	the
+nmod:on	bomb	menu
+aux	make	will
+root	ROOT	make
+nsubj	feel	eaters
+ccomp	make	feel
+dobj	feel	guilt
+case	meals	after
+compound	meals	finish
+det	meals	those
+nmod:after	feel	meals

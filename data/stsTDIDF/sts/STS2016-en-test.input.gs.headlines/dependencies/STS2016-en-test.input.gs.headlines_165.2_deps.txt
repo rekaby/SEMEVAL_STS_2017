@@ -1,0 +1,8 @@
+amod	attacks	Suspected
+compound	attacks	Boko
+compound	attacks	Haram
+nsubj	kill	attacks
+root	ROOT	kill
+dobj	kill	dozens
+case	Nigeria	in
+nmod:in	kill	Nigeria

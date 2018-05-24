@@ -1,0 +1,10 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	string	with
+nmod:with	playing	string
+case	window	in
+det	window	a
+nmod:in	playing	window
+punct	playing	.

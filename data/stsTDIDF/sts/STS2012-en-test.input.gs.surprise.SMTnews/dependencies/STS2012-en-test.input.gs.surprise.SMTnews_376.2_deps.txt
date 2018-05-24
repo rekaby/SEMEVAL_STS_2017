@@ -1,0 +1,12 @@
+nsubj	undeniable	It
+cop	undeniable	is
+root	ROOT	undeniable
+mark	reached	that
+nsubj	reached	intolerance
+ccomp	undeniable	reached
+dobj	reached	summits
+case	Government	of
+det	Government	the
+amod	Government	Turkish
+nmod:of	summits	Government
+punct	undeniable	.

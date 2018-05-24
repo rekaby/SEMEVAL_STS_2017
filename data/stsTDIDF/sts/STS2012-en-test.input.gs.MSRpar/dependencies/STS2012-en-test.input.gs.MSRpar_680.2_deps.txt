@@ -1,0 +1,13 @@
+compound	oil	October
+compound	oil	heating
+nsubj	ended	oil
+root	ROOT	ended
+compound:prt	ended	down
+nummod	cent	0.41
+dobj	ended	cent
+case	cents	to
+nummod	cents	70.74
+nmod:to	ended	cents
+det	gallon	a
+nmod:npmod	cents	gallon
+punct	ended	.

@@ -1,0 +1,8 @@
+det	lion	A
+nsubj	pacing	lion
+cop	pacing	is
+root	ROOT	pacing
+case	pen	in
+det	pen	a
+nmod:in	pacing	pen
+punct	pacing	.

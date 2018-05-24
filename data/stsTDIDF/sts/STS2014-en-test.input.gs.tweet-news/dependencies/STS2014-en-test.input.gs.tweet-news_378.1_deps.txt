@@ -1,0 +1,13 @@
+amod	NYTimes	Lean
+case	Sisters	in
+nmod:in	Lean	Sisters
+punct	Lean	...
+root	ROOT	NYTimes
+punct	NYTimes	:
+nsubj	Boss	She
+cop	Boss	's
+punct	Rarely	-LRB-
+appos	Boss	Rarely
+punct	Rarely	-RRB-
+det	Boss	the
+parataxis	NYTimes	Boss

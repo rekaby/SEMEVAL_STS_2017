@@ -1,0 +1,6 @@
+nsubj	tense	Bangkok
+root	ROOT	tense
+case	election	on
+compound	election	Thai
+nmod:on	tense	election
+nmod:tmod	tense	eve

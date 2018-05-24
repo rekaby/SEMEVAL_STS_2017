@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	jumps	boy
+root	ROOT	jumps
+case	pool	into
+det	pool	a
+amod	pool	not-so-crowded
+amod	pool	public
+nmod:into	jumps	pool
+punct	jumps	.

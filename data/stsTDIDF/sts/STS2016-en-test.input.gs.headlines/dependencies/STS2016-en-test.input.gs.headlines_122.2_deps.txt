@@ -1,0 +1,9 @@
+nsubj	urges	Pope
+root	ROOT	urges
+dobj	urges	action
+case	change	on
+compound	change	climate
+nmod:on	urges	change
+case	draft	in
+nmod:in	change	draft
+dep	urges	encyclical

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+nsubj	surfs	who
+acl:relcl	man	surfs
+det	ocean	the
+dobj	surfs	ocean
+case	day	in
+det	day	a
+amod	day	sunny
+nmod:in	surfs	day
+punct	man	.

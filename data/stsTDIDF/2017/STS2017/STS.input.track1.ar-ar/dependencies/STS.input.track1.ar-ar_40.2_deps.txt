@@ -1,0 +1,10 @@
+root	ROOT	Mince
+compound	something	man
+dobj	Mince	something
+case	table	on
+det	table	the
+nmod:on	something	table
+case	knife	with
+det	knife	a
+nmod:with	table	knife
+punct	Mince	.

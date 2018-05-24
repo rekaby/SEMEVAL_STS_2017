@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+amod	suit	blue
+nmod:in	man	suit
+case	light	next
+mwe	next	to
+det	light	a
+compound	light	traffic
+nmod:next_to	man	light
+punct	man	.

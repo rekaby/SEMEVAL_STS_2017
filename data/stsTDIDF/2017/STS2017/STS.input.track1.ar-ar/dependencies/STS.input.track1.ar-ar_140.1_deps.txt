@@ -1,0 +1,5 @@
+nsubj	ate	Men
+root	ROOT	ate
+det	topic	a
+dobj	ate	topic
+punct	ate	.

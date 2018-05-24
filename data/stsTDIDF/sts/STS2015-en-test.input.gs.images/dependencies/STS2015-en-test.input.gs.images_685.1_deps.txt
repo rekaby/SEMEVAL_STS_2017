@@ -1,0 +1,8 @@
+det	boy	a
+amod	boy	young
+nsubj	climbing	boy
+root	ROOT	climbing
+case	wall	on
+det	wall	a
+compound	wall	rock
+nmod:on	climbing	wall

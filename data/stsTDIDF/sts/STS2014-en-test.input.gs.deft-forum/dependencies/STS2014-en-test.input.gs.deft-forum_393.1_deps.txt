@@ -1,0 +1,7 @@
+advmod	accept	Sadly
+nsubj	accept	Ford
+aux	accept	did
+root	ROOT	accept
+compound	money	taxpayer
+dobj	accept	money
+punct	accept	.

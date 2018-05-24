@@ -1,0 +1,10 @@
+det	cow	A
+amod	black	large
+amod	cow	black
+cc	black	and
+conj:and	black	white
+root	ROOT	cow
+case	field	in
+det	field	a
+nmod:in	cow	field
+punct	cow	.

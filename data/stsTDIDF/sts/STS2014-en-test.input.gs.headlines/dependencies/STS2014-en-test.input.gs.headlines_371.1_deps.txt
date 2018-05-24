@@ -1,0 +1,7 @@
+nummod	peacekeepers	Seven
+nsubj	killed	peacekeepers
+root	ROOT	killed
+case	Darfur	in
+nmod:poss	Darfur	Sudan
+case	Sudan	's
+nmod:in	killed	Darfur

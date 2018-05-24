@@ -1,0 +1,4 @@
+doing	person	nsubj
+skateboard	their	nmod:poss
+skateboard	on	case
+doing	skateboard	nmod:on

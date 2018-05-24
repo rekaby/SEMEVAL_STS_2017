@@ -1,0 +1,10 @@
+det	man	A
+nsubj	knocks	man
+root	ROOT	knocks
+case	drum	on
+det	drum	a
+nmod:on	knocks	drum
+case	band	in
+det	band	a
+nmod:in	drum	band
+punct	knocks	.

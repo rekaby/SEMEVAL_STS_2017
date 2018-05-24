@@ -1,0 +1,16 @@
+compound	shooting	Hackney
+root	ROOT	shooting
+punct	shooting	:
+compound	Marsh	Teenager
+compound	Marsh	Shereka
+nsubj	bled	Marsh
+punct	bled	`
+dep	shooting	bled
+case	death	to
+nmod:to	bled	death
+mark	shot	after
+auxpass	shot	being
+advcl	bled	shot
+case	neck	in
+nmod:in	shot	neck
+punct	bled	'

@@ -1,0 +1,7 @@
+boy	coat	nmod:with
+coat	with	case
+coat	a	det
+coat	head	nmod:on
+goat	his	nmod:poss
+holding	boy	nsubj
+holding	goat	dobj

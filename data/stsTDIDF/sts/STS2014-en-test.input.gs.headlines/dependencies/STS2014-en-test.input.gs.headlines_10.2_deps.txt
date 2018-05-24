@@ -1,0 +1,5 @@
+compound	strikes	Suicide
+compound	strikes	bomber
+root	ROOT	strikes
+case	Syria	in
+nmod:in	strikes	Syria

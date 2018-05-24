@@ -1,0 +1,7 @@
+gets	boy	nsubj
+gets	ball	dobj
+uniform	a	det
+boy	uniform	nmod:in
+rival	from	case
+gets	rival	nmod:from
+uniform	in	case

@@ -1,0 +1,12 @@
+advmod	contained	When
+det	switch	the
+nsubjpass	contained	switch
+cc	switch	and
+det	bulb	the
+conj:and	switch	bulb
+auxpass	contained	are
+root	ROOT	contained
+case	path	in
+det	path	the
+amod	path	same
+nmod:in	contained	path

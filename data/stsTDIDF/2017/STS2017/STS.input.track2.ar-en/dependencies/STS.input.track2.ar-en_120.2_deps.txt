@@ -1,0 +1,6 @@
+nsubj	tend	Girls
+root	ROOT	tend
+case	house	to
+det	house	the
+nmod:to	tend	house
+punct	tend	.

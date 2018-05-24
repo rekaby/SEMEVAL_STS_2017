@@ -1,0 +1,8 @@
+det	sheep	A
+amod	sheep	large
+nsubj	standing	sheep
+root	ROOT	standing
+case	hill	on
+det	hill	a
+nmod:on	standing	hill
+punct	standing	.

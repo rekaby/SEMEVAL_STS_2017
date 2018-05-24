@@ -1,0 +1,10 @@
+nummod	girls	two
+amod	girls	young
+nsubj	holding	girls
+root	ROOT	holding
+det	other	each
+dobj	holding	other
+case	ground	on
+det	ground	the
+amod	ground	grassy
+nmod:on	holding	ground

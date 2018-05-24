@@ -1,0 +1,9 @@
+compound	vulnerability	Java
+root	ROOT	vulnerability
+amod	vulnerability	due
+case	patch	to
+amod	patch	incomplete
+nmod:to	due	patch
+punct	from	-LRB-
+dep	patch	from
+punct	from	-RRB-

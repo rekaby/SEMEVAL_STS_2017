@@ -1,0 +1,14 @@
+compound	lights	Security
+nsubjpass	installed	lights
+aux	installed	have
+advmod	installed	also
+auxpass	installed	been
+root	ROOT	installed
+case	barn	on
+det	barn	a
+nmod:on	installed	barn
+case	gate	near
+det	gate	the
+amod	gate	front
+nmod:near	barn	gate
+punct	installed	.

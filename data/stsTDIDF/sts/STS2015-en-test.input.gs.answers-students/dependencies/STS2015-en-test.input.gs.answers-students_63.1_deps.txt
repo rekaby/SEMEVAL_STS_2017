@@ -1,0 +1,10 @@
+mark	path	because
+compound	A	bulb
+nsubj	path	A
+cc	A	and
+conj:and	A	B
+cop	path	are
+case	path	within
+det	path	the
+amod	path	same
+root	ROOT	path

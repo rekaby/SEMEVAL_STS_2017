@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	eats	boy
+acl	boy	wearing
+det	coat	a
+amod	coat	red
+dobj	wearing	coat
+root	ROOT	eats
+det	bar	a
+compound	bar	chocolate
+dobj	eats	bar
+punct	eats	.

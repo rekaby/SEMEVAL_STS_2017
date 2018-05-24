@@ -1,0 +1,9 @@
+compound	attackers	Mall
+compound	strategy	attackers
+amod	strategy	used
+punct	strategy	`
+amod	strategy	less
+cop	strategy	is
+amod	strategy	more
+punct	more	'
+root	ROOT	strategy

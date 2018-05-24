@@ -1,0 +1,10 @@
+det	group	A
+nsubj	play	group
+case	men	of
+nmod:of	group	men
+root	ROOT	play
+dobj	play	soccer
+case	beach	on
+det	beach	the
+nmod:on	play	beach
+punct	play	.

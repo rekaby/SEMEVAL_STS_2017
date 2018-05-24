@@ -1,0 +1,10 @@
+nummod	dead	Two
+root	ROOT	dead
+punct	dead	,
+advmod	trapped	more
+appos	dead	trapped
+case	collapse	in
+amod	collapse	latest
+compound	collapse	Mumbai
+compound	collapse	building
+nmod:in	trapped	collapse

@@ -1,0 +1,10 @@
+det	person	a
+root	ROOT	person
+nsubj	conveys	who
+acl:relcl	person	conveys
+punct	carries	-LRB-
+dep	conveys	carries
+cc	carries	or
+conj:or	carries	transmits
+punct	carries	-RRB-
+punct	person	.

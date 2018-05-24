@@ -1,0 +1,9 @@
+root	ROOT	Bring
+iobj	Bring	DJ
+det	lot	a
+dobj	Bring	lot
+case	money	of
+nmod:of	lot	money
+case	club	for
+det	club	the
+nmod:for	money	club

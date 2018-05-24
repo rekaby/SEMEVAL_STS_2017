@@ -1,0 +1,13 @@
+advmod	possible	Yes
+punct	possible	,
+nsubj	possible	it
+cop	possible	is
+root	ROOT	possible
+mark	publish	to
+xcomp	possible	publish
+det	paper	a
+dobj	publish	paper
+case	analysis	on
+compound	analysis	model
+nmod:on	publish	analysis
+punct	possible	.

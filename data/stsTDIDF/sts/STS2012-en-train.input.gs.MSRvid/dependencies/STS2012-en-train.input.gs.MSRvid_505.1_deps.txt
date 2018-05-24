@@ -1,0 +1,9 @@
+det	clown	A
+nsubj	singing	clown
+cop	singing	is
+root	ROOT	singing
+cc	singing	and
+nsubj	dancing	people
+aux	dancing	are
+conj:and	singing	dancing
+punct	singing	.

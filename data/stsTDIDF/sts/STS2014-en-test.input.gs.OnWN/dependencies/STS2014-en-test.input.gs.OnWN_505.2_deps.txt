@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	passing	of
+acl	act	passing
+dobj	passing	something
+case	person	to
+det	person	another
+nmod:to	passing	person
+punct	act	.

@@ -1,0 +1,10 @@
+det	person	A
+nsubj	breaks	person
+root	ROOT	breaks
+det	egg	an
+dobj	breaks	egg
+case	bowl	into
+det	bowl	a
+amod	bowl	small
+nmod:into	breaks	bowl
+punct	breaks	.

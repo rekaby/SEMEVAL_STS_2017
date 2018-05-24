@@ -1,0 +1,7 @@
+root	ROOT	contain
+cc	contain	or
+conj:or	contain	hold
+punct	contain	;
+conj:or	contain	have
+nmod	have	within
+punct	contain	.

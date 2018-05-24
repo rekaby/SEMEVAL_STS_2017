@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	removing
+det	net	a
+compound	net	tennis
+dobj	removing	net
+punct	man	.

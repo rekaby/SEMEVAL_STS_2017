@@ -1,0 +1,12 @@
+det	book	the
+nsubj	states	book
+root	ROOT	states
+mark	conveys	that
+det	drug	the
+nsubj	conveys	drug
+ccomp	states	conveys
+det	image	a
+advmod	positive	completely
+amod	image	positive
+dobj	conveys	image
+punct	states	.

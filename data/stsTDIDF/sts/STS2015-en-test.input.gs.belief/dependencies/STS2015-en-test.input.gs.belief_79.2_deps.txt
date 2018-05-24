@@ -1,0 +1,16 @@
+det	conspiracy	the
+compound	conspiracy	career
+root	ROOT	conspiracy
+dep	conspiracy	exploiters
+cc	exploiters	and
+det	lunatics	the
+conj:and	exploiters	lunatics
+nsubj	exploit	they
+acl:relcl	lunatics	exploit
+punct	conspiracy	,
+nsubj	familiar	we
+cop	familiar	're
+advmod	familiar	already
+acl:relcl	conspiracy	familiar
+nmod	familiar	with
+punct	conspiracy	.

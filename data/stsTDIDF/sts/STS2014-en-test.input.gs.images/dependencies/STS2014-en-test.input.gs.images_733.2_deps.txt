@@ -1,0 +1,14 @@
+compound	girl	TThe
+nsubj	standing	girl
+aux	standing	is
+root	ROOT	standing
+case	door	in
+mwe	in	front
+mwe	in	of
+det	door	the
+amod	door	open
+nmod:in_front_of	standing	door
+case	bus	of
+det	bus	the
+nmod:of	door	bus
+punct	standing	.

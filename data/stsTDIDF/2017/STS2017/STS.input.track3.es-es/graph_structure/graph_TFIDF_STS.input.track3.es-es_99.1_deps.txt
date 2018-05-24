@@ -1,0 +1,6 @@
+using	woman	nsubj
+using	net	dobj
+using	river	nmod:in
+river	in	case
+net	a	det
+net	fishing	compound

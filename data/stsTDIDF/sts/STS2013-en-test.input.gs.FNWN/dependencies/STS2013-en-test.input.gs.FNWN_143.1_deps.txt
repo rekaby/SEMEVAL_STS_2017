@@ -1,0 +1,7 @@
+root	ROOT	geography
+mark	defined	as
+acl	geography	defined
+case	use	by
+nmod:poss	use	its
+nmod:by	defined	use
+punct	geography	.

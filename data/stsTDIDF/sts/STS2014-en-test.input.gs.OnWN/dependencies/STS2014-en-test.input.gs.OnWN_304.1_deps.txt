@@ -1,0 +1,8 @@
+amod	conditioner	Apply
+root	ROOT	conditioner
+mark	make	to
+acl	conditioner	make
+xcomp	make	smooth
+cc	smooth	and
+conj:and	smooth	shiny
+punct	conditioner	.

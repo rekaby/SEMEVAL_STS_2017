@@ -1,0 +1,15 @@
+det	man	The
+nsubj	rappel	man
+case	team	with
+det	team	the
+amod	team	yellow
+nmod:with	man	team
+cop	rappel	is
+mark	rappel	about
+mark	rappel	to
+root	ROOT	rappel
+case	distance	from
+det	distance	a
+amod	distance	high
+nmod:from	rappel	distance
+punct	rappel	.

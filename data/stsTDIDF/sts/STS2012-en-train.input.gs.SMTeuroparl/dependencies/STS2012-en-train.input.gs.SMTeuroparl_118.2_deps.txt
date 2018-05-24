@@ -1,0 +1,13 @@
+amod	ships	Greek
+nsubjpass	sunk	ships
+auxpass	sunk	were
+ccomp	Gayssot	sunk
+punct	sunk	,
+case	storm	without
+det	storm	any
+nmod:without	sunk	storm
+advmod	storm	around
+punct	Gayssot	,
+compound	Gayssot	Mr
+root	ROOT	Gayssot
+punct	Gayssot	.

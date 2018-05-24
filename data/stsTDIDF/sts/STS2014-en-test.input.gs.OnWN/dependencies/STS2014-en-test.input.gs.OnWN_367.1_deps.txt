@@ -1,0 +1,10 @@
+root	ROOT	Soak
+compound:prt	Soak	up
+punct	sponge	-LRB-
+case	sponge	as
+mark	sponge	if
+punct	sponge	-RRB-
+case	sponge	with
+det	sponge	a
+nmod:with	Soak	sponge
+punct	Soak	.

@@ -1,0 +1,7 @@
+compound	Linked	Brain
+compound	Linked	Aging
+nsubj	Decline	Linked
+case	Memory	to
+compound	Memory	Sleep-Related
+nmod:to	Linked	Memory
+root	ROOT	Decline

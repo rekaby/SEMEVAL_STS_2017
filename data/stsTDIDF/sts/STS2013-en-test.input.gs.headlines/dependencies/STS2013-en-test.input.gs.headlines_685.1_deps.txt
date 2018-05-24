@@ -1,0 +1,7 @@
+nummod	soldier	One
+compound	soldier	NATO
+root	ROOT	soldier
+acl	soldier	killed
+case	Afghanistan	in
+compound	Afghanistan	S.
+nmod:in	killed	Afghanistan

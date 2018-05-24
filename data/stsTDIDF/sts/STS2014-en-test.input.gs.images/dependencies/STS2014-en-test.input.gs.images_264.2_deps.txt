@@ -1,0 +1,7 @@
+nummod	men	Three
+root	ROOT	men
+acl	men	eating
+case	kitchen	in
+det	kitchen	a
+nmod:in	eating	kitchen
+punct	men	.

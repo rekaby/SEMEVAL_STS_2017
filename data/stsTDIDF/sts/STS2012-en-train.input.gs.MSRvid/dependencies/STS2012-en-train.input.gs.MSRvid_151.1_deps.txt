@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	rain	in
+det	rain	the
+nmod:in	walking	rain
+punct	walking	.

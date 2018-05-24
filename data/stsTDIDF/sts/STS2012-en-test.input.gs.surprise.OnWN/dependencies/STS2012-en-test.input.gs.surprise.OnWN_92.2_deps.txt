@@ -1,0 +1,12 @@
+nsubj	craved	something
+root	ROOT	craved
+punct	craved	,
+advmod	injection	especially
+det	injection	an
+amod	injection	intravenous
+dep	craved	injection
+case	drug	of
+det	drug	a
+amod	drug	narcotic
+nmod:of	injection	drug
+punct	craved	.

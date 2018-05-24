@@ -1,0 +1,12 @@
+det	Watch	The
+compound	Watch	TV
+root	ROOT	Watch
+punct	Watch	:
+compound	Foster	Jodie
+nsubj	Lifts	Foster
+dep	Watch	Lifts
+det	Veil	a
+dobj	Lifts	Veil
+case	Globes	at
+compound	Globes	Golden
+nmod:at	Veil	Globes

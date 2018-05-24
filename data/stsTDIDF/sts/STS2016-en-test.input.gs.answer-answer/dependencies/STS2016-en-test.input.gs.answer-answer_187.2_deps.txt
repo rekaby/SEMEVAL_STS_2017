@@ -1,0 +1,9 @@
+nsubj	right	You
+cop	right	're
+root	ROOT	right
+case	definition	on
+case	definition	about
+det	definition	the
+compound	definition	sample
+nmod:about	right	definition
+punct	right	.

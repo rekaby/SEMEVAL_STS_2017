@@ -1,0 +1,9 @@
+amod	pitch	lower
+det	pitch	the
+root	ROOT	pitch
+case	notes	of
+punct	notes	-LRB-
+amod	notes	musical
+nmod:of	pitch	notes
+punct	notes	-RRB-
+punct	pitch	.

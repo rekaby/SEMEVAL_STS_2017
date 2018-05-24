@@ -1,0 +1,14 @@
+nsubj	renews	Obama
+root	ROOT	renews
+dobj	renews	offer
+mark	cut	to
+acl	offer	cut
+amod	net	social
+compound	net	safety
+dobj	cut	net
+case	deal	in
+amod	deal	big
+compound	deal	budget
+nmod:in	cut	deal
+punct	renews	:
+dep	renews	aide

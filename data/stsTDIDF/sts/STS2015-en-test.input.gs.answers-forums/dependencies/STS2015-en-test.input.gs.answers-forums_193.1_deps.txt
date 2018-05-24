@@ -1,0 +1,13 @@
+nsubj	noticed	I
+aux	noticed	have
+root	ROOT	noticed
+amod	cats	most
+nsubj	lick	cats
+aux	lick	do
+neg	lick	n't
+ccomp	noticed	lick
+nsubj	deal	people
+det	deal	a
+amod	deal	great
+xcomp	lick	deal
+punct	noticed	.

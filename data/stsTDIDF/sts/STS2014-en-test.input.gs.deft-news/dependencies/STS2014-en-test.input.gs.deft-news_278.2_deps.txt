@@ -1,0 +1,12 @@
+nmod:poss	suspension	russia
+case	russia	's
+nsubj	temporary	suspension
+case	obligations	of
+nmod:of	suspension	obligations
+case	treaty	under
+det	treaty	the
+compound	treaty	cfe
+nmod:under	obligations	treaty
+cop	temporary	is
+root	ROOT	temporary
+punct	temporary	.

@@ -1,0 +1,9 @@
+nsubj	kills	Wave
+case	attacks	of
+nmod:of	Wave	attacks
+root	ROOT	kills
+case	least	at
+nmod:npmod	95	least
+dobj	kills	95
+case	Iraq	in
+nmod:in	kills	Iraq

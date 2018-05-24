@@ -1,0 +1,17 @@
+nsubj	have	we
+aux	have	do
+root	ROOT	have
+det	disparity	a
+dobj	have	disparity
+case	justice	of
+punct	justice	``
+nmod:of	disparity	justice
+punct	justice	''
+case	nation	in
+det	nation	this
+nmod:in	justice	nation
+punct	justice	,
+det	one	a
+amod	one	severe
+appos	justice	one
+punct	have	.

@@ -1,0 +1,13 @@
+det	document	A
+root	ROOT	document
+acl	document	granting
+det	right	a
+dobj	granting	right
+cc	right	or
+conj:or	right	privilege
+punct	inventor	,
+case	inventor	as
+mwe	as	to
+det	inventor	an
+nmod:as_to	document	inventor
+punct	document	.

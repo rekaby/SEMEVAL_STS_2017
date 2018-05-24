@@ -1,0 +1,6 @@
+compound	toll	Typhoon
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	3633	to
+nmod:to	rises	3633

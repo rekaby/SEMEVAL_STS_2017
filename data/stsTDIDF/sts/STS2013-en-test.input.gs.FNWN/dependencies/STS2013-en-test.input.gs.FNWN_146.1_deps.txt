@@ -1,0 +1,16 @@
+det	entity	an
+nsubj	bear	entity
+aux	bear	can
+root	ROOT	bear
+det	force	a
+amod	force	great
+amod	force	outer
+dobj	bear	force
+advmod	bear	so
+mark	resist	as
+mark	resist	to
+advcl	so	resist
+dobj	resist	destruction
+cc	destruction	and
+conj:and	destruction	damage
+punct	bear	.

@@ -1,0 +1,13 @@
+compound	Notebook	Critic?s
+root	ROOT	Notebook
+punct	Notebook	:
+punct	Notebook	?-4) amod(Husbands-2, Real
+root	ROOT	Husbands
+case	Hollywood	of
+nmod:of	Husbands	Hollywood
+punct	Husbands	?-5) cc(Lack-2, and
+nsubj	Leads	Lack
+case	Male	of
+amod	Male	Black
+nmod:of	Lack	Male
+root	ROOT	Leads

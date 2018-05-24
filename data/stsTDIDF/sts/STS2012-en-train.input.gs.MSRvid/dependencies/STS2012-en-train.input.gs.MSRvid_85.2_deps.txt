@@ -1,0 +1,9 @@
+det	group	A
+nsubj	dancing	group
+case	people	of
+nmod:of	group	people
+aux	dancing	are
+root	ROOT	dancing
+case	concert	in
+nmod:in	dancing	concert
+punct	dancing	.

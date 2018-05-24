@@ -1,0 +1,7 @@
+det	lady	The
+nsubj	sang	lady
+root	ROOT	sang
+case	microphone	into
+det	microphone	the
+nmod:into	sang	microphone
+punct	sang	.

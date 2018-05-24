@@ -1,0 +1,10 @@
+nsubj	assumed	I
+aux	assumed	've
+root	ROOT	assumed
+dobj	assumed	this
+cc	this	as
+mwe	as	well
+mwe	as	in
+nmod:poss	argument	my
+conj:and	this	argument
+punct	assumed	.

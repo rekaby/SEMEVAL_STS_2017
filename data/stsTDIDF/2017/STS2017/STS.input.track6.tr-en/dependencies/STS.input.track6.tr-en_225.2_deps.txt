@@ -1,0 +1,7 @@
+nummod	cars	Two
+nsubj	got	cars
+root	ROOT	got
+case	accident	into
+det	accident	the
+nmod:into	got	accident
+punct	got	.

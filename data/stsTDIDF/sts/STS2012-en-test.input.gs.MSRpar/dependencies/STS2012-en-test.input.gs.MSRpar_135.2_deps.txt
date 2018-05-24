@@ -1,0 +1,17 @@
+nsubj	added	Congress
+aux	added	has
+root	ROOT	added
+det	benefit	a
+amod	benefit	new
+dobj	added	benefit
+punct	benefit	-
+det	option	an
+dep	benefit	option
+mark	buy	to
+acl	option	buy
+compound	coverage	insurance
+dobj	buy	coverage
+case	drugs	for
+compound	drugs	prescription
+nmod:for	buy	drugs
+punct	added	.

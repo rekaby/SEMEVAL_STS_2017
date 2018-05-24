@@ -1,0 +1,17 @@
+det	infant	An
+root	ROOT	infant
+acl	infant	sitting
+case	cot	on
+det	cot	a
+nmod:on	sitting	cot
+acl	cot	reaching
+mark	touch	over
+mark	touch	to
+advcl	reaching	touch
+det	face	the
+dobj	touch	face
+case	boy	of
+det	boy	an
+amod	boy	older
+nmod:of	face	boy
+punct	infant	.

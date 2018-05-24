@@ -1,0 +1,7 @@
+nmod:tmod	convene	Israelis
+punct	convene	,
+nsubj	convene	Palestinians
+root	ROOT	convene
+case	prisoner	over
+nmod:over	convene	prisoner
+dobj	convene	swap

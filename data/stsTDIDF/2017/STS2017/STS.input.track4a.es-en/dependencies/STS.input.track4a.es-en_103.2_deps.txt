@@ -1,0 +1,13 @@
+det	group	A
+nsubj	walking	group
+case	people	of
+nmod:of	group	people
+aux	walking	are
+root	ROOT	walking
+case	side	along
+det	side	the
+nmod:along	walking	side
+case	road	of
+det	road	the
+nmod:of	side	road
+punct	walking	.

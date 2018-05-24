@@ -1,0 +1,6 @@
+amod	soldiers	Egyptian
+root	ROOT	soldiers
+acl	soldiers	killed
+case	attack	in
+compound	attack	Sinai
+nmod:in	killed	attack

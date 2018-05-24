@@ -1,0 +1,9 @@
+compound	George	Prince
+nsubjpass	christened	George
+auxpass	christened	is
+root	ROOT	christened
+case	Palace	at
+compound	James	St
+nmod:poss	Palace	James
+case	James	's
+nmod:at	christened	Palace

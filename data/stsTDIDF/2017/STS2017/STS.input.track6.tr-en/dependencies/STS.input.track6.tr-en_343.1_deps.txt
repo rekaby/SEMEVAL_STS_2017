@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	climbing	cat
+aux	climbing	is
+root	ROOT	climbing
+det	tree	a
+dobj	climbing	tree
+punct	climbing	.

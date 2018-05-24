@@ -1,0 +1,7 @@
+nsubj	boasts	Button
+root	ROOT	boasts
+amod	time	best
+dobj	boasts	time
+case	practice	after
+amod	practice	first
+nmod:after	time	practice

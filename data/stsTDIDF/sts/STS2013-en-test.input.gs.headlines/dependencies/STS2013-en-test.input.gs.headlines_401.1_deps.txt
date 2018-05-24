@@ -1,0 +1,10 @@
+nsubj	says	China
+root	ROOT	says
+compound	budget	defense
+dobj	says	budget
+mark	rise	to
+acl	budget	rise
+nummod	%	11.2
+dobj	rise	%
+case	2012	in
+nmod:in	rise	2012

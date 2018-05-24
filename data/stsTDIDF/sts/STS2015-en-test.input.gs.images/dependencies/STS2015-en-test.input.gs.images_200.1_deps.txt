@@ -1,0 +1,12 @@
+nummod	women	Two
+dep	walking	women
+nsubj	walking	contestants
+aux	walking	are
+root	ROOT	walking
+nmod:poss	dogs	their
+dobj	walking	dogs
+case	show	in
+det	show	a
+compound	show	dog
+nmod:in	walking	show
+punct	walking	.

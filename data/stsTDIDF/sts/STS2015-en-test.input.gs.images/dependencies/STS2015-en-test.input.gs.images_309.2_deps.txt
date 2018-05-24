@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	runs	dog
+root	ROOT	runs
+case	water	through
+det	water	the
+nmod:through	runs	water
+punct	runs	.

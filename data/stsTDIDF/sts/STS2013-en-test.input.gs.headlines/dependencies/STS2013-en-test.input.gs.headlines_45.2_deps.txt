@@ -1,0 +1,7 @@
+nummod	soldiers	Two
+amod	soldiers	British
+root	ROOT	soldiers
+acl	soldiers	killed
+case	policeman	by
+compound	policeman	Afghan
+nmod:by	killed	policeman

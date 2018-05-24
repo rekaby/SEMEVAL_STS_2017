@@ -1,0 +1,11 @@
+nsubjpass	barred	He
+advmod	barred	also
+aux	barred	could
+auxpass	barred	be
+root	ROOT	barred
+advmod	barred	permanently
+case	industry	from
+det	industry	the
+compound	industry	securities
+nmod:from	barred	industry
+punct	barred	.

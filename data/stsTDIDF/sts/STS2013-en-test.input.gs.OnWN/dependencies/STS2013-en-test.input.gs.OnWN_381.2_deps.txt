@@ -1,0 +1,10 @@
+root	ROOT	make
+punct	images	-LRB-
+dobj	make	images
+cc	images	or
+conj:or	images	sounds
+punct	images	-RRB-
+amod	images	sharp
+cc	sharp	or
+conj:or	sharp	sharper
+punct	make	.

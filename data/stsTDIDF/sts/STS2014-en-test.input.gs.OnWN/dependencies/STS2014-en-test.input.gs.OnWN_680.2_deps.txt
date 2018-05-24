@@ -1,0 +1,11 @@
+det	rate	the
+root	ROOT	rate
+mark	moving	of
+acl	rate	moving
+punct	walking	-LRB-
+advmod	walking	especially
+dep	moving	walking
+cc	walking	or
+conj:or	walking	running
+punct	walking	-RRB-
+punct	rate	.

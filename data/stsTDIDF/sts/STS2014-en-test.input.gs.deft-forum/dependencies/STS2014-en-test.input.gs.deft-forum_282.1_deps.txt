@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+neg	war	no
+nsubj	is	war
+case	east	in
+det	east	the
+compound	east	Middle
+nmod:in	war	east
+punct	is	.

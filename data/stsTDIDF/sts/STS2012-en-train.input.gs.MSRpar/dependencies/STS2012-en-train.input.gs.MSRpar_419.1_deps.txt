@@ -1,0 +1,16 @@
+case	charges	Excluding
+compound	charges	litigation
+nmod:excluding	narrowed	charges
+punct	narrowed	,
+nmod:poss	loss	RIM
+case	RIM	's
+nsubj	narrowed	loss
+root	ROOT	narrowed
+advmod	further	even
+advmod	narrowed	further
+case	cent	to
+nummod	cent	1
+nmod:to	further	cent
+det	share	a
+nmod:npmod	cent	share
+punct	narrowed	.

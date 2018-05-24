@@ -1,0 +1,10 @@
+nummod	firefighters	Two
+compound	firefighters	New
+compound	firefighters	York
+root	ROOT	firefighters
+case	condition	in
+amod	condition	guarded
+nmod:in	firefighters	condition
+case	ambush	after
+amod	ambush	deadly
+nmod:after	firefighters	ambush

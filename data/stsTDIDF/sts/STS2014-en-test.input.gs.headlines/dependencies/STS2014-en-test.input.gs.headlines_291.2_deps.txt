@@ -1,0 +1,8 @@
+compound	flexibility	EXCLUSIVE-UPDATE
+amod	flexibility	1-Egypt
+amod	flexibility	pro-Mursi
+compound	flexibility	alliance
+compound	flexibility	signals
+root	ROOT	flexibility
+case	talks	in
+nmod:in	flexibility	talks

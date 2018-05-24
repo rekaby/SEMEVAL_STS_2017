@@ -1,0 +1,9 @@
+det	man	A
+nsubj	riding	man
+cc	man	and
+conj:and	man	child
+aux	riding	are
+root	ROOT	riding
+det	elephant	an
+dobj	riding	elephant
+punct	riding	.

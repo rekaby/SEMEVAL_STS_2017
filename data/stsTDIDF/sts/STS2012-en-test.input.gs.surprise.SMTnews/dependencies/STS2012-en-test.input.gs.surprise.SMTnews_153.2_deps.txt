@@ -1,0 +1,16 @@
+cc	built	But
+case	Union	as
+det	Union	the
+compound	Union	European
+nmod:as	built	Union
+nmod:npmod	Union	itself
+punct	built	,
+nsubjpass	built	this
+aux	built	will
+auxpass	built	be
+root	ROOT	built
+cc	built	and
+nsubj	happen	this
+aux	happen	will
+conj:and	built	happen
+punct	built	.

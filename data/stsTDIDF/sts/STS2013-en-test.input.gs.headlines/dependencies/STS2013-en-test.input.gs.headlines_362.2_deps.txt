@@ -1,0 +1,8 @@
+nummod	crash	49
+amod	crash	feared
+amod	crash	dead
+case	train	in
+compound	train	Buenos
+compound	train	Aires
+nmod:in	dead	train
+root	ROOT	crash

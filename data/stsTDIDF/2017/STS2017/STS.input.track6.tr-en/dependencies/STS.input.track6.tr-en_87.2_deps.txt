@@ -1,0 +1,10 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	truck	in
+det	truck	an
+compound	truck	ice
+compound	truck	cream
+nmod:in	standing	truck
+punct	standing	.

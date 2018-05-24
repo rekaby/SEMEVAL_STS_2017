@@ -1,0 +1,16 @@
+root	ROOT	charge
+advmod	charge	falsely
+cc	falsely	or
+case	intent	with
+amod	intent	malicious
+conj:or	falsely	intent
+punct	charge	;
+dep	charge	attack
+det	name	the
+amod	name	good
+dobj	attack	name
+cc	name	and
+conj:and	name	reputation
+case	someone	of
+nmod:of	name	someone
+punct	charge	.

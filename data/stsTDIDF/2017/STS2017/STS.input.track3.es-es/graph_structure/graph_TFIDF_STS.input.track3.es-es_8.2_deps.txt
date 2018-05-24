@@ -1,0 +1,7 @@
+instrument	an	det
+created	he	nsubj
+playing	instrument	dobj
+money	street	nmod:on
+created	money	nmod:for
+playing	man	nsubj
+instrument	created	acl:relcl

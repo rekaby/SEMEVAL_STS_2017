@@ -1,0 +1,7 @@
+nmod:npmod	ill	Hundreds
+case	workers	of
+compound	workers	Bangladesh
+compound	workers	clothes
+compound	workers	factory
+nmod:of	Hundreds	workers
+root	ROOT	ill

@@ -1,0 +1,5 @@
+letter	hand	nmod:in
+standing	store	nmod:in
+boy	letter	nmod:with
+standing	boy	nsubj
+letter	with	case

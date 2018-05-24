@@ -1,0 +1,11 @@
+compound	Y	switch
+nsubj	affect	Y
+aux	affect	does
+neg	affect	not
+root	ROOT	affect
+det	circuit	the
+amod	circuit	closed
+dobj	affect	circuit
+case	bulb	of
+nmod:of	circuit	bulb
+dep	circuit	A

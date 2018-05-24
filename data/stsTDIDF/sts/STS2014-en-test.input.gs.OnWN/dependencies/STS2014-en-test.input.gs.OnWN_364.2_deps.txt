@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	angry	of
+cop	angry	being
+acl	state	angry
+punct	state	.

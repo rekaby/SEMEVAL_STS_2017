@@ -1,0 +1,6 @@
+plays	game	dobj
+McDonald	a	det
+plays	boy	nsubj
+plays	restaurant	nmod:at
+restaurant	McDonald	nmod:poss
+game	video	compound

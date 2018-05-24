@@ -1,0 +1,14 @@
+root	ROOT	stemming
+case	characteristics	from
+amod	characteristics	evil
+nmod:from	stemming	characteristics
+cc	characteristics	or
+conj:or	characteristics	forces
+punct	stemming	;
+dep	stemming	wicked
+cc	wicked	or
+conj:or	wicked	dishonorable
+punct	wicked	;
+punct	wicked	-
+compound	Hardy	Thomas
+dep	wicked	Hardy

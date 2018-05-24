@@ -1,0 +1,7 @@
+root	ROOT	freshen
+punct	freshen	,
+mark	make	to
+xcomp	freshen	make
+xcomp	make	fresh
+punct	freshen	;
+dep	freshen	refreshen

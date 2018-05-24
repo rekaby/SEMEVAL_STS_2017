@@ -1,0 +1,6 @@
+group	Men	compound
+friends	close	amod
+have	night	dobj
+night	game	compound
+have	group	nsubj
+group	friends	nmod:of

@@ -1,0 +1,13 @@
+case	result	As
+det	result	a
+nmod:as	broke	result
+punct	broke	,
+nummod	players	24
+nsubj	broke	players
+root	ROOT	broke
+dobj	broke	par
+case	round	in
+det	round	the
+amod	round	first
+nmod:in	broke	round
+punct	broke	.

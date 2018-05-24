@@ -1,0 +1,6 @@
+root	ROOT	travel
+case	path	along
+det	path	a
+compound	path	zigzag
+nmod:along	travel	path
+punct	travel	.

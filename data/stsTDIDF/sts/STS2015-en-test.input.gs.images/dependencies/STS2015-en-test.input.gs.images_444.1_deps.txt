@@ -1,0 +1,14 @@
+det	woman	The
+amod	woman	blonde
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	flag	a
+amod	flag	black
+punct	flag	,
+amod	flag	american
+dobj	wearing	flag
+punct	flag	,
+compound	cap	tartan
+appos	flag	cap
+punct	wearing	.

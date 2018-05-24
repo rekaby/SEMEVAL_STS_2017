@@ -1,0 +1,8 @@
+are	hanging	ccomp
+vehicle	this	det
+road	is	cop
+hanging	people	nsubj
+hanging	vehicle	nmod:out_of
+road	that	nsubj
+vehicle	road	acl:relcl
+vehicle	out	case

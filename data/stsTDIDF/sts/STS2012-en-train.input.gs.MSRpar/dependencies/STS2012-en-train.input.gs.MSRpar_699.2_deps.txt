@@ -1,0 +1,15 @@
+expl	's	There
+root	ROOT	's
+advmod	's	also
+case	least	at
+nmod:npmod	three	least
+nummod	cases	three
+amod	cases	suspected
+nsubj	's	cases
+case	Illinois	in
+nmod:in	cases	Illinois
+cc	cases	and
+conj:and	cases	11
+case	Indiana	in
+nmod:in	11	Indiana
+punct	's	.

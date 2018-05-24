@@ -1,0 +1,13 @@
+det	man	A
+nsubjpass	crossed	man
+auxpass	crossed	sits
+root	ROOT	crossed
+xcomp	crossed	legged
+case	bed	on
+det	bed	a
+nmod:on	legged	bed
+acl	bed	watching
+det	TV	a
+amod	TV	small
+dobj	watching	TV
+punct	crossed	.

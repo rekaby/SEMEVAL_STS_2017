@@ -1,0 +1,6 @@
+nsubj	all	It
+cop	all	's
+root	ROOT	all
+case	adhesion	about
+nmod:about	all	adhesion
+punct	all	.

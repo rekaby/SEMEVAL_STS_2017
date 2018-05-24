@@ -1,0 +1,6 @@
+bag	Women	nmod:poss
+ROOT	bag	root
+containing	exhibition	dobj
+exhibition	art	compound
+bag	.	punct
+bag	are	acl:relcl

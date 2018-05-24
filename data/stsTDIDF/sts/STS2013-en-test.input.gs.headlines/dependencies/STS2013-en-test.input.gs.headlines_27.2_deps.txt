@@ -1,0 +1,7 @@
+compound	Women	Saudi
+nsubj	Allowed	Women
+root	ROOT	Allowed
+mark	Compete	To
+acl	Allowed	Compete
+case	Olympics	At
+nmod:at	Compete	Olympics

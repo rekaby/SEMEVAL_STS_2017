@@ -1,0 +1,8 @@
+amod	chief	Pakistani
+compound	chief	Taliban
+nsubj	killed	chief
+root	ROOT	killed
+case	strike	in
+compound	strike	US
+compound	strike	drone
+nmod:in	killed	strike

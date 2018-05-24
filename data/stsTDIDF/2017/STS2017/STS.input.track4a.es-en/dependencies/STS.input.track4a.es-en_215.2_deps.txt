@@ -1,0 +1,13 @@
+det	women	a
+nsubj	has	women
+case	blonde	with
+nmod:with	women	blonde
+cc	blonde	and
+amod	hair	brown
+conj:and	blonde	hair
+root	ROOT	has
+nmod:poss	arms	her
+dobj	has	arms
+case	man	around
+det	man	a
+nmod:around	has	man

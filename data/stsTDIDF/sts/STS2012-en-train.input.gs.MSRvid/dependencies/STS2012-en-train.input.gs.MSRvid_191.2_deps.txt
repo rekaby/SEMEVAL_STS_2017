@@ -1,0 +1,9 @@
+det	man	The
+nsubj	erased	man
+root	ROOT	erased
+det	work	the
+dobj	erased	work
+case	board	on
+det	board	the
+nmod:on	work	board
+punct	erased	.

@@ -1,0 +1,6 @@
+compound	spray	Elephants
+root	ROOT	spray
+nmod:npmod	spray	themselves
+case	water	with
+nmod:with	themselves	water
+punct	spray	.

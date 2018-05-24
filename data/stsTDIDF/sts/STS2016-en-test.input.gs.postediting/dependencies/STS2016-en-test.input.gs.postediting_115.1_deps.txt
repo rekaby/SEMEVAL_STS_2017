@@ -1,0 +1,8 @@
+det	supercolle	The
+root	ROOT	supercolle
+mark	walk	to
+acl	supercolle	walk
+case	walls	on
+det	walls	the
+nmod:on	walk	walls
+punct	supercolle	.

@@ -1,0 +1,15 @@
+advmod	assigned	However
+punct	assigned	,
+det	patent	the
+nsubjpass	assigned	patent
+auxpass	assigned	is
+root	ROOT	assigned
+conj:and	assigned	assigned
+case	University	to
+compound	University	Stanford
+nmod:to	assigned	University
+cc	assigned	and
+neg	Google	not
+case	Google	to
+nmod:to	assigned	Google
+punct	assigned	.

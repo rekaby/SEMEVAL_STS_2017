@@ -1,0 +1,5 @@
+nsubj	mount	Complaints
+case	election	in
+amod	election	Russian
+nmod:in	Complaints	election
+root	ROOT	mount

@@ -1,0 +1,6 @@
+root	ROOT	have
+dobj	have	faith
+mark	bet	in
+punct	bet	,
+advcl	have	bet
+compound:prt	bet	on

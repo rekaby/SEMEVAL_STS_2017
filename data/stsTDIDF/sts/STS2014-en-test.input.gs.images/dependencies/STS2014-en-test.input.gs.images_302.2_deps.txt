@@ -1,0 +1,8 @@
+det	plane	A
+compound	plane	passenger
+root	ROOT	plane
+acl	plane	parked
+case	runway	on
+det	runway	a
+nmod:on	parked	runway
+punct	plane	.

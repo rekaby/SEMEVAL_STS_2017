@@ -1,0 +1,8 @@
+amod	something	Intend
+root	ROOT	something
+mark	move	to
+acl	something	move
+case	goal	toward
+det	goal	a
+amod	goal	certain
+nmod:toward	move	goal

@@ -1,0 +1,9 @@
+nsubj	answer	This
+aux	answer	does
+neg	answer	n't
+root	ROOT	answer
+nmod:poss	question	your
+dobj	answer	question
+punct	answer	,
+cc	answer	but
+punct	answer	:

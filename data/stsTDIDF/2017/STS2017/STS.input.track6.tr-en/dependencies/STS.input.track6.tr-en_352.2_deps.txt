@@ -1,0 +1,7 @@
+nummod	people	Five
+nsubj	watch	people
+root	ROOT	watch
+nummod	people	two
+nsubj	wrestling	people
+ccomp	watch	wrestling
+punct	watch	.

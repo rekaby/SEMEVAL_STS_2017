@@ -1,0 +1,8 @@
+nsubj	says	Activist
+root	ROOT	says
+amod	cameraman	Syrian
+compound	cameraman	citizen
+nsubj	says	cameraman
+acl	cameraman	killed
+case	Homs	in
+nmod:in	killed	Homs

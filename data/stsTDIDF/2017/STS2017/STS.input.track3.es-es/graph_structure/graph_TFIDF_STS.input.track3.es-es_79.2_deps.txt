@@ -1,0 +1,7 @@
+ROOT	discussing	root
+discussing	meeting	dobj
+meeting	business	compound
+discussing	.	punct
+discussing	are	aux
+discussing	men	nsubj
+meeting	their	nmod:poss

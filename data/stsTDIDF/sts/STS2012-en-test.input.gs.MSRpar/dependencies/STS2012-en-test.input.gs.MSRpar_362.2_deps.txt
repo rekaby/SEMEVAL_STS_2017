@@ -1,0 +1,17 @@
+det	Index	The
+compound	Index	Nasdaq
+compound	Index	Composite
+root	ROOT	Index
+punct	Index	.-5) nsubj(points-5, IXIC
+cop	points	was
+case	points	off
+nummod	points	6.52
+root	ROOT	points
+punct	points	,
+cc	points	or
+nummod	percent	0.39
+conj:or	points	percent
+punct	points	,
+case	1,645.66	at
+nmod:at	points	1,645.66
+punct	points	.

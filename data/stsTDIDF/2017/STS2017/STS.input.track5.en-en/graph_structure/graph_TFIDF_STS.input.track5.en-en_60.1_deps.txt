@@ -1,0 +1,14 @@
+head	no	neg
+standing	head	nmod:with
+statue	large	amod
+statue	figure	nmod:of
+head	with	case
+applying	.	punct
+statue	standing	acl
+ROOT	applying	root
+applying	statue	nmod:to
+statue	to	case
+applying	Sculptor	nsubj
+applying	concrete	dobj
+figure	human	amod
+figure	of	case

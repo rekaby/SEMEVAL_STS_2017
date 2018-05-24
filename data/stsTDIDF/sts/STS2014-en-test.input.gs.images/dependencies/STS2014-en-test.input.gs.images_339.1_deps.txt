@@ -1,0 +1,13 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	bottle	of
+det	bottle	a
+compound	bottle	glass
+nmod:of	photo	bottle
+case	Cola	of
+compound	Cola	Coca
+nmod:of	bottle	Cola
+punct	photo	.

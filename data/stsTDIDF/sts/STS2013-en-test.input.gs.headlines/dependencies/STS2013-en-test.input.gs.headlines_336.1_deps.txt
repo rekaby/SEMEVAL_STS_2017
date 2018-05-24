@@ -1,0 +1,7 @@
+root	ROOT	Nine
+acl	Nine	killed
+case	attack	in
+compound	attack	gun
+nmod:in	killed	attack
+case	Pakistan	in
+nmod:in	attack	Pakistan

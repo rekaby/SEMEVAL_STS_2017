@@ -1,0 +1,12 @@
+det	couple	A
+nsubj	enjoy	couple
+cc	couple	and
+nmod:poss	child	their
+conj:and	couple	child
+root	ROOT	enjoy
+det	day	a
+dobj	enjoy	day
+case	beach	at
+det	beach	the
+nmod:at	day	beach
+punct	enjoy	.

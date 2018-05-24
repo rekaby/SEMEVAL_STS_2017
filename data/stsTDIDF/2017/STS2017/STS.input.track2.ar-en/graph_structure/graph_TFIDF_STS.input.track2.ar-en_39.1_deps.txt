@@ -1,0 +1,5 @@
+looks	Oriental	xcomp
+selling	man	nsubj
+man	looks	acl:relcl
+selling	things	dobj
+selling	.	punct

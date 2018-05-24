@@ -1,0 +1,6 @@
+root	ROOT	Today
+case	History	in
+nmod:in	Today	History
+punct	History	,
+appos	History	Jan.
+nummod	Jan.	21

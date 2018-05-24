@@ -1,0 +1,13 @@
+det	game	a
+amod	game	cooperative
+root	ROOT	game
+case	which	in
+nmod:in	passed	which
+det	ball	a
+nsubjpass	passed	ball
+auxpass	passed	is
+acl:relcl	game	passed
+advmod	passed	back
+cc	passed	and
+conj:and	passed	forth
+punct	game	.

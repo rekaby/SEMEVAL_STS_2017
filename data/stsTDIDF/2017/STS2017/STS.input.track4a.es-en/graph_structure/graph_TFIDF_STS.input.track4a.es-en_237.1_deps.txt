@@ -1,0 +1,6 @@
+competition	their	nmod:poss
+swimmers	Three	nummod
+ready	start	xcomp
+competition	swimming	compound
+start	competition	dobj
+getting	swimmers	nsubj

@@ -1,0 +1,12 @@
+nsubj	carries	A
+dep	carries	wet
+punct	carries	,
+amod	dog	blond
+nsubj	carries	dog
+root	ROOT	carries
+det	stick	a
+dobj	carries	stick
+case	shore	on
+det	shore	the
+nmod:on	stick	shore
+punct	carries	.

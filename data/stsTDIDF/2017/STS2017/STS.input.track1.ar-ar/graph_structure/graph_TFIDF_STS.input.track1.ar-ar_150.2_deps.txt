@@ -1,0 +1,11 @@
+street	.	punct
+seeing	camera	dobj
+street	Cross	compound
+buses	are	cop
+woman	seeing	acl
+street	buses	acl:relcl
+buses	the	det
+buses	two	nummod
+buses	woman	nsubj
+buses	among	case
+ROOT	street	root

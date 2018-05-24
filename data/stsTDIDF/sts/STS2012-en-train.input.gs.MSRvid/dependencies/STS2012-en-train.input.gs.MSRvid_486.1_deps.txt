@@ -1,0 +1,5 @@
+det	dog	A
+nsubj	looking	dog
+aux	looking	is
+root	ROOT	looking
+compound:prt	looking	around

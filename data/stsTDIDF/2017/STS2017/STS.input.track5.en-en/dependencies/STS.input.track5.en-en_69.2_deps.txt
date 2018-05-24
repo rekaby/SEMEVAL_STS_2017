@@ -1,0 +1,16 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	one	on
+nmod:on	sitting	one
+case	benches	of
+nummod	benches	two
+amod	benches	red
+nmod:of	one	benches
+cc	sitting	and
+conj:and	sitting	staring
+case	kiosk	into
+det	kiosk	a
+nmod:into	staring	kiosk
+punct	sitting	.

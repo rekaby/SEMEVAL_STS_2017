@@ -1,0 +1,11 @@
+det	man	A
+nsubj	talking	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	talking	are
+root	ROOT	talking
+case	other	to
+det	other	each
+nmod:to	talking	other
+punct	talking	.

@@ -1,0 +1,10 @@
+laundry	the	det
+showing	use	ccomp
+woman	elderly	amod
+woman	An	det
+table	washing	amod
+ROOT	showing	root
+use	table	dobj
+showing	woman	nsubj
+do	laundry	dobj
+showing	.	punct

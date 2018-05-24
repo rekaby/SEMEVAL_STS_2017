@@ -1,0 +1,15 @@
+compound	Mallard	Chante
+compound	Mallard	Jawaon
+nsubjpass	charged	Mallard
+punct	Mallard	,
+amod	Mallard	27
+punct	Mallard	,
+auxpass	charged	is
+root	ROOT	charged
+case	murder	with
+nmod:with	charged	murder
+cc	charged	and
+conj:and	charged	tampering
+case	evidence	with
+nmod:with	tampering	evidence
+punct	charged	.

@@ -1,0 +1,17 @@
+amod	talks	Buried
+compound	talks	Memories
+root	ROOT	talks
+dep	talks	on
+dep	on	a
+neg	told	never
+mark	told	before
+acl	a	told
+amod	story	true
+dobj	told	story
+case	survival	of
+nmod:of	story	survival
+punct	survival	,
+conj:and	survival	memory
+cc	survival	and
+conj:and	survival	recovery
+punct	talks	.

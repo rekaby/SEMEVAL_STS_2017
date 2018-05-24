@@ -1,0 +1,11 @@
+neg	way	no
+root	ROOT	way
+nsubj	allow	they
+aux	allow	would
+acl:relcl	way	allow
+det	industries	those
+dobj	allow	industries
+mark	re-regulated	to
+cop	re-regulated	be
+xcomp	allow	re-regulated
+punct	way	.

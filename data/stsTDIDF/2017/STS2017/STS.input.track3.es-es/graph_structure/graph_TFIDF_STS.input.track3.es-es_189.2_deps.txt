@@ -1,0 +1,6 @@
+ROOT	sandbox	root
+sandbox	a	det
+sandbox	children	nsubj
+sandbox	in	case
+sandbox	.	punct
+sandbox	are	cop

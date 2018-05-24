@@ -1,0 +1,13 @@
+nsubj	have	You
+root	ROOT	have
+case	intervention	to
+amod	intervention	much
+nmod:to	have	intervention
+case	markets	in
+amod	markets	free
+nmod:in	intervention	markets
+punct	have	,
+neg	little	not
+advmod	little	too
+dep	have	little
+punct	have	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	screwing	man
+aux	screwing	is
+root	ROOT	screwing
+dobj	screwing	wood
+case	wall	to
+det	wall	a
+nmod:to	screwing	wall
+punct	screwing	.

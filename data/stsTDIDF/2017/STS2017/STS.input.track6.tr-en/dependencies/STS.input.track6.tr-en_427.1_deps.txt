@@ -1,0 +1,10 @@
+compound	Nelson	Willie
+nsubj	looking	Nelson
+root	ROOT	looking
+compound	right	stage
+dobj	looking	right
+mark	microphone	while
+case	microphone	at
+det	microphone	the
+advcl:at	looking	microphone
+punct	looking	.

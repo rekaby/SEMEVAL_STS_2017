@@ -1,0 +1,5 @@
+ROOT	escape	root
+fire	from	case
+escape	.	punct
+escape	Children	nsubj
+escape	fire	nmod:from

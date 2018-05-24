@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+case	rending	of
+nmod:of	act	rending
+cc	rending	or
+conj:or	rending	ripping
+cc	rending	or
+conj:or	rending	splitting
+dobj	splitting	something
+punct	act	.

@@ -1,0 +1,8 @@
+compound	changes	Amendment
+nummod	changes	7
+root	ROOT	changes
+case	references	in
+nmod:in	changes	references
+case	paragraphs	to
+nmod:to	references	paragraphs
+punct	changes	.

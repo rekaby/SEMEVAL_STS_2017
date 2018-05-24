@@ -1,0 +1,13 @@
+nummod	months	Four
+nmod:npmod	later	months
+advmod	signed	later
+nsubj	signed	it
+root	ROOT	signed
+det	agreement	a
+amod	agreement	joint
+compound	agreement	marketing
+dobj	signed	agreement
+case	Co.	with
+compound	Co.	Hewlett-Packard
+nmod:with	agreement	Co.
+punct	signed	.

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	fish	a
+nsubj	open	fish
+xcomp	slicing	open
+punct	slicing	.

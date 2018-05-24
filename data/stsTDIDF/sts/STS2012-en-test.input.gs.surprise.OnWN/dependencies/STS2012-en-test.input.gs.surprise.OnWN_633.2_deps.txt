@@ -1,0 +1,9 @@
+amod	mucus	clear
+root	ROOT	mucus
+cc	mucus	or
+conj:or	mucus	food
+case	throat	from
+nmod:poss	throat	one
+case	one	's
+nmod:from	mucus	throat
+punct	mucus	.

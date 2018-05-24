@@ -1,0 +1,7 @@
+det	elephant	A
+compound	elephant	baby
+nsubj	eats	elephant
+root	ROOT	eats
+det	sapling	a
+dobj	eats	sapling
+punct	eats	.

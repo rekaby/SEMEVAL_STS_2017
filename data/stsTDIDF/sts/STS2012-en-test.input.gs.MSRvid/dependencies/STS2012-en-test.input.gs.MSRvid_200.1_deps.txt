@@ -1,0 +1,9 @@
+det	puppy	The
+nsubj	played	puppy
+root	ROOT	played
+case	ball	with
+det	ball	a
+amod	ball	blue
+compound	ball	tennis
+nmod:with	played	ball
+punct	played	.

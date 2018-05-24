@@ -1,0 +1,6 @@
+amod	Party	French
+compound	Party	Socialist
+nsubj	wins	Party
+root	ROOT	wins
+compound	victory	parliament
+dobj	wins	victory

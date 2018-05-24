@@ -1,0 +1,15 @@
+det	child	A
+nsubj	plays	child
+root	ROOT	plays
+case	car	in
+det	car	a
+nmod:in	plays	car
+cc	car	and
+conj:and	car	Igilz
+punct	plays	,
+cc	plays	and
+det	man	a
+conj:and	plays	man
+acl	man	watching
+dobj	watching	him
+punct	plays	.

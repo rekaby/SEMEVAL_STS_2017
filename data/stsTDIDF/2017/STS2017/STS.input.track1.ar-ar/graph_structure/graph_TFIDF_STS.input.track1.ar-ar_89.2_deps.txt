@@ -1,0 +1,4 @@
+equipment	mechanical	amod
+people	standing	acl
+standing	equipment	nmod:in_front_of
+equipment	in	case

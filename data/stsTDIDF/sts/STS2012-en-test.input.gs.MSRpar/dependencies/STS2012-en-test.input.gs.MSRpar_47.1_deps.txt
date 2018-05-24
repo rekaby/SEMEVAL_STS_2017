@@ -1,0 +1,17 @@
+det	analysis	The
+compound	analysis	budget
+nsubj	comes	analysis
+root	ROOT	comes
+case	negotiations	as
+nmod:as	comes	negotiations
+case	Council	between
+det	Council	the
+compound	Council	City
+nmod:between	negotiations	Council
+cc	Council	and
+det	heat	the
+compound	heat	Bloomberg
+compound	heat	administration
+conj:and	Council	heat
+advmod	heat	up
+punct	comes	.

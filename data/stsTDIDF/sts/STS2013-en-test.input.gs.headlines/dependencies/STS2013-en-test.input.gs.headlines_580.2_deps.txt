@@ -1,0 +1,9 @@
+compound	doctor	British
+compound	doctor	Red
+compound	doctor	Cross
+nsubj	found	doctor
+acl	doctor	kidnapped
+case	Pakistan	in
+nmod:in	kidnapped	Pakistan
+root	ROOT	found
+dobj	found	beheaded

@@ -1,0 +1,15 @@
+root	ROOT	What
+cop	What	's
+det	way	the
+amod	way	best
+nsubj	What	way
+mark	introduce	to
+acl	way	introduce
+det	chinchilla	a
+dobj	introduce	chinchilla
+case	household	to
+det	household	a
+nmod:to	introduce	household
+case	cats	with
+nmod:with	household	cats
+punct	What	?

@@ -1,0 +1,12 @@
+det	cooks	The
+nsubj	putting	cooks
+aux	putting	are
+root	ROOT	putting
+compound:prt	putting	together
+det	ingredients	the
+dobj	putting	ingredients
+case	burrito	for
+det	burrito	a
+amod	burrito	massive
+nmod:for	ingredients	burrito
+punct	putting	.

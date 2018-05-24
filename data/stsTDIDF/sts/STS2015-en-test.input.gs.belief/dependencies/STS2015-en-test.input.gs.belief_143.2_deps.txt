@@ -1,0 +1,12 @@
+cc	know	and
+dobj	know	what
+aux	know	do
+nsubj	know	you
+root	ROOT	know
+punct	know	,
+nsubj	stayed	receipts
+ccomp	know	stayed
+case	same	about
+det	same	the
+nmod:about	stayed	same
+punct	know	.

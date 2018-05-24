@@ -1,0 +1,6 @@
+compound	workers	Fast-food
+nsubj	strike	workers
+root	ROOT	strike
+case	pay	for
+amod	pay	higher
+nmod:for	strike	pay

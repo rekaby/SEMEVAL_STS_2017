@@ -1,0 +1,8 @@
+det	man	A
+nsubj	tries	man
+root	ROOT	tries
+mark	read	to
+xcomp	tries	read
+det	paper	the
+dobj	read	paper
+punct	tries	.

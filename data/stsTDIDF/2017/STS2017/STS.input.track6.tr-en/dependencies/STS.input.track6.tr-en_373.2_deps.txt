@@ -1,0 +1,11 @@
+nummod	children	Two
+nsubj	play	children
+root	ROOT	play
+advmod	play	together
+case	room	in
+nmod:poss	room	their
+amod	room	own
+nmod:in	play	room
+case	home	at
+nmod:at	room	home
+punct	play	.

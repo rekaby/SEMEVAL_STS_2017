@@ -1,0 +1,8 @@
+root	ROOT	IDF
+mark	deploy	to
+acl	IDF	deploy
+compound	Dome	Iron
+dobj	deploy	Dome
+case	Central	in
+nmod:in	Dome	Central
+dep	Dome	Israel

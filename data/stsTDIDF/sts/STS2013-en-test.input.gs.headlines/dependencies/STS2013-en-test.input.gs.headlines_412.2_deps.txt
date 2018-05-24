@@ -1,0 +1,11 @@
+compound	Hunt	Jeremy
+nsubj	clings	Hunt
+root	ROOT	clings
+mark	quits	on
+mark	quits	as
+nsubj	quits	SpAd
+advcl	clings	quits
+case	emails	over
+compound	emails	News
+compound	emails	Corp
+nmod:over	quits	emails

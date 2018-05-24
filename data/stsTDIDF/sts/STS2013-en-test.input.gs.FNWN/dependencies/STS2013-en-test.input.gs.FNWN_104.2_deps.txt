@@ -1,0 +1,11 @@
+root	ROOT	speak
+punct	speak	,
+conj:or	speak	pronounce
+punct	speak	,
+cc	speak	or
+conj:or	speak	utter
+case	way	in
+det	way	a
+amod	way	certain
+nmod:in	utter	way
+punct	speak	;

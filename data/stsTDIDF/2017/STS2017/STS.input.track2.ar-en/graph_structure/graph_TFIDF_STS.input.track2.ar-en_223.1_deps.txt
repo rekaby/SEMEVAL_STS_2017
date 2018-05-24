@@ -1,0 +1,7 @@
+crowd	watch	acl
+skates	roller	compound
+skates	crowd	nmod:for
+ROOT	skates	root
+skates	.	punct
+skates	Man	compound
+crowd	for	case

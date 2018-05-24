@@ -1,0 +1,7 @@
+det	man	A
+nsubj	carrying	man
+aux	carrying	is
+root	ROOT	carrying
+det	tree	a
+dobj	carrying	tree
+punct	carrying	.

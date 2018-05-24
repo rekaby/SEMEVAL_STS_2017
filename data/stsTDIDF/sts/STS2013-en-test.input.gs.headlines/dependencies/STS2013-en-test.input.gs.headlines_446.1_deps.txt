@@ -1,0 +1,5 @@
+nsubj	wins	Hollande
+root	ROOT	wins
+amod	election	French
+amod	election	presidential
+dobj	wins	election

@@ -1,0 +1,13 @@
+nsubj	grazing	Sheep
+cop	grazing	are
+root	ROOT	grazing
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	grazing	field
+case	stand	near
+det	stand	a
+nmod:near	field	stand
+case	trees	of
+nmod:of	stand	trees
+punct	grazing	.

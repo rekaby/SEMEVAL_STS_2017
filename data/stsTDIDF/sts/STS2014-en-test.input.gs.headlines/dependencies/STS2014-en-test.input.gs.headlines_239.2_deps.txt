@@ -1,0 +1,5 @@
+compound	solider	Nato
+nsubj	dies	solider
+root	ROOT	dies
+case	Afghanistan	in
+nmod:in	dies	Afghanistan

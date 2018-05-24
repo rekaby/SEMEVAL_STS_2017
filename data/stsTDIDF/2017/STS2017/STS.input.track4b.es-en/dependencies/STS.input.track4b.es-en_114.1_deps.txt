@@ -1,0 +1,13 @@
+nsubj	gone	I
+aux	gone	had
+root	ROOT	gone
+advmod	gone	up
+case	September	in
+nmod:in	gone	September
+nummod	September	1986
+punct	gone	,
+det	18-year-old	a
+advmod	shy	cripplingly
+amod	18-year-old	shy
+xcomp	gone	18-year-old
+punct	gone	.

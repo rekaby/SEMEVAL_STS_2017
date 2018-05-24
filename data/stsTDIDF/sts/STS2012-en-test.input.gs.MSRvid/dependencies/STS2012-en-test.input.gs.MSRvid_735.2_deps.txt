@@ -1,0 +1,10 @@
+det	kitten	A
+nsubj	playing	kitten
+aux	playing	is
+root	ROOT	playing
+case	finger	with
+det	woman	a
+nmod:poss	finger	woman
+case	woman	's
+nmod:with	playing	finger
+punct	playing	.

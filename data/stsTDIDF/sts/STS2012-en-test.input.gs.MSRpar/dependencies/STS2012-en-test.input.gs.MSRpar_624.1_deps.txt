@@ -1,0 +1,12 @@
+det	Bureau	The
+compound	Bureau	California
+compound	Bureau	Farm
+nsubj	return	Bureau
+aux	return	did
+neg	return	not
+advmod	return	immediately
+root	ROOT	return
+dobj	return	calls
+acl	calls	seeking
+dobj	seeking	comment
+punct	return	.

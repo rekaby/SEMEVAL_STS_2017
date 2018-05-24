@@ -1,0 +1,6 @@
+lessons	girl	compound
+lessons	karate	amod
+apply	lessons	nsubj
+brother	to	case
+apply	brother	nmod:to
+lessons	Little	amod

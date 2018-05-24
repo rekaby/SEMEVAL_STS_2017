@@ -1,0 +1,8 @@
+root	ROOT	NATO
+punct	NATO	:
+nummod	Americans	5
+dep	NATO	Americans
+acl	Americans	killed
+case	Afghanistan	in
+amod	Afghanistan	southern
+nmod:in	killed	Afghanistan

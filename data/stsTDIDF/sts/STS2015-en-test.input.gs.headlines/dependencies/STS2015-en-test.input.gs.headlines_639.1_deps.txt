@@ -1,0 +1,10 @@
+nmod:poss	anger	China
+case	China	's
+nsubj	overcomes	anger
+case	Korea	at
+compound	Korea	N.
+nmod:at	anger	Korea
+root	ROOT	overcomes
+dobj	overcomes	worry
+case	US	over
+nmod:over	overcomes	US

@@ -1,0 +1,7 @@
+nsubj	getting	People
+aux	getting	are
+root	ROOT	getting
+nmod:poss	clothes	their
+nsubj	cleaned	clothes
+ccomp	getting	cleaned
+punct	getting	.

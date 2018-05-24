@@ -1,0 +1,5 @@
+nsubj	stop	Police
+root	ROOT	stop
+compound	election	Maldives
+amod	election	presidential
+dobj	stop	election

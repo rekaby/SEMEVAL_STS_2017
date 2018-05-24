@@ -1,0 +1,14 @@
+nsubj	hailed	Putin
+root	ROOT	hailed
+compound	Arabia	Saudi
+dobj	hailed	Arabia
+case	one	as
+punct	one	``
+nmod:as	hailed	one
+case	nations	of
+det	nations	the
+advmod	important	most
+amod	nations	important
+amod	nations	Muslim
+nmod:of	one	nations
+punct	hailed	.

@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	bouncing	girl
+aux	bouncing	is
+root	ROOT	bouncing
+case	head	on
+nmod:poss	head	her
+nmod:on	bouncing	head
+case	trampoline	on
+det	trampoline	a
+nmod:on	bouncing	trampoline
+punct	bouncing	.

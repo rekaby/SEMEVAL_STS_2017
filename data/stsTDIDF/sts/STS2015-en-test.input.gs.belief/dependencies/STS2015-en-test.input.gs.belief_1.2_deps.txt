@@ -1,0 +1,14 @@
+nsubjpass	required	hollywood
+aux	required	will
+advmod	required	also
+auxpass	required	be
+root	ROOT	required
+mark	cast	to
+xcomp	required	cast
+amod	actors	english
+dobj	cast	actors
+mark	play	to
+advcl	cast	play
+amod	characters	english
+dobj	play	characters
+punct	required	.

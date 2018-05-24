@@ -1,0 +1,13 @@
+dog	tracking	compound
+sniffing	is	aux
+ROOT	sniffing	root
+group	trying	acl
+sniffing	.	punct
+sniffing	group	dobj
+criminal	the	det
+scent	criminal	nmod:of
+sniffing	dog	nsubj
+find	scent	dobj
+criminal	of	case
+trying	find	xcomp
+scent	the	det

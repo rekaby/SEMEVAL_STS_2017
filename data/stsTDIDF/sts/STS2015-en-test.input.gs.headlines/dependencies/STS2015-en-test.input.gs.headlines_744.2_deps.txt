@@ -1,0 +1,9 @@
+compound	Haiyan	Typhoon
+root	ROOT	Haiyan
+punct	Haiyan	:
+nsubj	sends	world
+dep	Haiyan	sends
+dobj	sends	relief
+mark	battered	to
+advcl	sends	battered
+dobj	battered	Philippines

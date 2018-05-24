@@ -1,0 +1,17 @@
+root	ROOT	ArtsBeat
+punct	ArtsBeat	:
+dep	ArtsBeat	Q.
+cc	Q.	and
+conj:and	Q.	A.
+punct	Q.	:
+compound	Gonzales	Manuel
+dep	Q.	Gonzales
+case	Collection	on
+nmod:poss	Collection	His
+compound	Collection	Story
+nmod:on	Gonzales	Collection
+punct	Collection	`
+det	Wife	The
+compound	Wife	Miniature
+dep	Collection	Wife
+punct	Gonzales	'

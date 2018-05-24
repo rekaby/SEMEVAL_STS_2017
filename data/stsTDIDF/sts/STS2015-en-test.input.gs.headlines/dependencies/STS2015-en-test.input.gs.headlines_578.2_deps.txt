@@ -1,0 +1,9 @@
+dobj	Say	What
+det	Papers	the
+nsubj	Say	Papers
+root	ROOT	Say
+punct	Say	,
+nmod:tmod	Say	Aug.
+nummod	Aug.	19
+punct	Aug.	,
+nummod	Aug.	2013

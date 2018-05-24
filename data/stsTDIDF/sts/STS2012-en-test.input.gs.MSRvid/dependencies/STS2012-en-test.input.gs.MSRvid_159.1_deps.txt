@@ -1,0 +1,7 @@
+nsubj	sitring	Someone
+aux	sitring	is
+root	ROOT	sitring
+dobj	sitring	noodles
+case	water	in
+nmod:in	sitring	water
+punct	sitring	.

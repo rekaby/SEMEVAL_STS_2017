@@ -1,0 +1,6 @@
+pictures	car	nmod:of
+Spectators	.	punct
+car	rally	compound
+taking	pictures	dobj
+Spectators	taking	acl
+ROOT	Spectators	root

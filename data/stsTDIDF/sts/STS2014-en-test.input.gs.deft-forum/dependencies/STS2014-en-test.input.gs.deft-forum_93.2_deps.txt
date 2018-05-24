@@ -1,0 +1,7 @@
+nsubj	started	i
+root	ROOT	started
+dobj	started	it
+amod	xanis	last
+compound	xanis	night
+nmod:tmod	started	xanis
+punct	started	.

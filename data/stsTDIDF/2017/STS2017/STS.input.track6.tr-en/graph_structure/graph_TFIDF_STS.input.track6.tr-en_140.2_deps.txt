@@ -1,0 +1,12 @@
+looking	woman	nmod:at
+standing	men	nsubj
+talking	them	nmod:to
+dress	in	case
+dress	talking	acl
+patio	a	det
+woman	at	case
+patio	looking	acl
+woman	dress	nmod:in
+standing	patio	nmod:on
+patio	on	case
+patio	wooden	amod

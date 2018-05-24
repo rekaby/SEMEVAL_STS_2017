@@ -1,0 +1,6 @@
+root	ROOT	Queen
+mark	name	to
+acl	Queen	name
+amod	carrier	biggest
+advmod	carrier	ever
+dobj	name	carrier

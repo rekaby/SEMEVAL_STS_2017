@@ -1,0 +1,9 @@
+det	band	The
+nsubj	playing	band
+aux	playing	is
+root	ROOT	playing
+case	nightclub	inside
+det	nightclub	a
+amod	nightclub	small
+nmod:inside	playing	nightclub
+punct	playing	.

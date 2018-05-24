@@ -1,0 +1,16 @@
+nummod	boys	Three
+amod	boys	little
+root	ROOT	boys
+acl	boys	playing
+case	hall	in
+det	hall	the
+nmod:in	playing	hall
+mark	watching	while
+acl	boys	watching
+det	man	a
+dobj	watching	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+punct	boys	.

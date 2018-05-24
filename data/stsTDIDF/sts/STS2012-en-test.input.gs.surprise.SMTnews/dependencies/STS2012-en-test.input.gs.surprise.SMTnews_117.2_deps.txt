@@ -1,0 +1,13 @@
+det	success	The
+nsubj	itself	success
+case	books	of
+nmod:of	success	books
+cop	itself	is
+root	ROOT	itself
+det	sign	a
+nmod:npmod	itself	sign
+case	malaise	of
+punct	malaise	`
+nmod:of	sign	malaise
+punct	malaise	'
+punct	itself	.

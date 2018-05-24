@@ -1,0 +1,7 @@
+compound	chief	State
+compound	chief	Dept
+compound	chief	security
+nsubj	resigns	chief
+root	ROOT	resigns
+case	Benghazi	after
+nmod:after	resigns	Benghazi

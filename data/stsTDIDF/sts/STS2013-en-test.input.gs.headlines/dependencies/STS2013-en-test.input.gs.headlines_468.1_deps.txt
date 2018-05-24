@@ -1,0 +1,8 @@
+punct	Dies	`
+amod	Housewives	Desperate
+nmod:poss	Joosten	Housewives
+case	Housewives	'
+compound	Joosten	Actress
+compound	Joosten	Kathryn
+nsubj	Dies	Joosten
+root	ROOT	Dies

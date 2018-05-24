@@ -1,0 +1,16 @@
+mark	want	If
+nsubj	want	you
+advcl	do	want
+mark	learn	to
+xcomp	want	learn
+dobj	learn	photography
+punct	do	,
+advmod	camera	almost
+det	camera	any
+nsubj	do	camera
+aux	do	will
+root	ROOT	do
+mark	start	to
+xcomp	do	start
+nmod	start	with
+punct	do	.

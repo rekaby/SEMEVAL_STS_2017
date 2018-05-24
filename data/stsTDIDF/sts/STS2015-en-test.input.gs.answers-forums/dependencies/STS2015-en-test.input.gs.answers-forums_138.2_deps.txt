@@ -1,0 +1,17 @@
+nsubj	depends	It
+root	ROOT	depends
+case	structure	on
+advmod	syntactic	generally
+amod	structure	syntactic
+nmod:on	depends	structure
+case	languages	of
+nummod	languages	two
+nmod:of	structure	languages
+cc	depends	and
+punct	depends	-
+dep	issues	yes
+punct	issues	-
+det	issues	some
+amod	issues	pragmatic
+conj:and	depends	issues
+punct	depends	.

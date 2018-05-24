@@ -1,0 +1,12 @@
+nsubj	fool	Natalie
+cop	fool	was
+det	fool	a
+amod	fool	complete
+root	ROOT	fool
+mark	insulted	to
+aux	insulted	have
+xcomp	fool	insulted
+nmod:poss	base	their
+compound	base	fan
+dobj	insulted	base
+punct	fool	.

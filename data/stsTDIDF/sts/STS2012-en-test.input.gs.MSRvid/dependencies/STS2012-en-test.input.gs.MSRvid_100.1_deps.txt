@@ -1,0 +1,8 @@
+det	squirrel	A
+nsubj	spinning	squirrel
+aux	spinning	is
+root	ROOT	spinning
+compound:prt	spinning	around
+case	circles	in
+nmod:in	spinning	circles
+punct	spinning	.

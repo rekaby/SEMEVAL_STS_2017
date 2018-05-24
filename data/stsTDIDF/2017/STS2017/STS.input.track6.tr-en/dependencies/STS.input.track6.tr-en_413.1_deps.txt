@@ -1,0 +1,12 @@
+nummod	men	Three
+nsubj	standing	men
+aux	standing	are
+root	ROOT	standing
+case	ledge	on
+det	ledge	a
+nmod:on	standing	ledge
+cc	ledge	and
+neg	one	no
+nsubj	smokes	one
+conj:and	ledge	smokes
+punct	standing	.

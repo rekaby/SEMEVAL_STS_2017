@@ -1,0 +1,8 @@
+det	crowd	A
+root	ROOT	crowd
+case	people	of
+nmod:of	crowd	people
+case	event	at
+det	event	an
+amod	event	outdoor
+nmod:at	crowd	event

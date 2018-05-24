@@ -1,0 +1,6 @@
+det	man	A
+nsubj	collects	man
+root	ROOT	collects
+det	garbage	all
+dobj	collects	garbage
+punct	collects	.

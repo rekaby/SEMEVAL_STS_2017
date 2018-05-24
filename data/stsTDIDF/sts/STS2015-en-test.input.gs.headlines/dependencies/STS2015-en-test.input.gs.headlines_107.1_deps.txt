@@ -1,0 +1,7 @@
+nsubj	drop	Feds
+root	ROOT	drop
+punct	pill	`
+amod	pill	morning-after
+compound	appeal	pill
+punct	pill	'
+dobj	drop	appeal

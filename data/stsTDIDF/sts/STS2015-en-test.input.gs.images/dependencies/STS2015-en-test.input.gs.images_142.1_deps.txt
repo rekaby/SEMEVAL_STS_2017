@@ -1,0 +1,6 @@
+nummod	dogs	Two
+root	ROOT	dogs
+case	yard	in
+det	yard	a
+nmod:in	dogs	yard
+punct	dogs	.

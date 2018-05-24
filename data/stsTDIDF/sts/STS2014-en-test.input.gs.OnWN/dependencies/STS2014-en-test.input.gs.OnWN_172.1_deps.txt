@@ -1,0 +1,6 @@
+amod	salary	lowest
+compound	salary	employee
+root	ROOT	salary
+acl	salary	permitted
+case	law	by
+nmod:by	permitted	law

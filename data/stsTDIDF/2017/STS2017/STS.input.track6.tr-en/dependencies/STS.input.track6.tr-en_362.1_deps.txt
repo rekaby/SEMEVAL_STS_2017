@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	friends	of
+nmod:of	group	friends
+advmod	listing	together
+acl	group	listing
+case	U2	to
+nmod:to	listing	U2
+punct	group	.

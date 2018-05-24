@@ -1,0 +1,9 @@
+nsubj	frees	Sudan
+root	ROOT	frees
+compound	woman	Christian
+dobj	frees	woman
+acl	woman	sentenced
+case	death	to
+nmod:to	sentenced	death
+case	apostasy	for
+nmod:for	sentenced	apostasy

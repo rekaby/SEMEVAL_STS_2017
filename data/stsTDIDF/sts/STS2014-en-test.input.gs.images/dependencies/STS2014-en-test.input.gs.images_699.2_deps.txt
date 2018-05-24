@@ -1,0 +1,9 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	Corvette	next
+mwe	next	to
+det	Corvette	a
+amod	Corvette	yellow
+nmod:next_to	stands	Corvette
+punct	stands	.

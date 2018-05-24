@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	dancing	girl
+aux	dancing	is
+root	ROOT	dancing
+case	cage	in
+det	cage	a
+nmod:in	dancing	cage
+punct	dancing	.

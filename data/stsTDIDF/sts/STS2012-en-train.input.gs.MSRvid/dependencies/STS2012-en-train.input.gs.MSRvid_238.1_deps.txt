@@ -1,0 +1,9 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	bowl	a
+dobj	eating	bowl
+case	cereal	of
+nmod:of	bowl	cereal
+punct	eating	.

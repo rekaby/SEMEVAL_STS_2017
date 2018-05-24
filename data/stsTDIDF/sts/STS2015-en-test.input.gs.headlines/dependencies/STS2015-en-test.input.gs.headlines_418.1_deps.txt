@@ -1,0 +1,5 @@
+compound	downs	Israel
+nsubj	drone	downs
+root	ROOT	drone
+case	Lebanon	from
+nmod:from	drone	Lebanon

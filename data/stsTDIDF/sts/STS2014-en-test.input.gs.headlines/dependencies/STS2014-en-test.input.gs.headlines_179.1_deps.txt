@@ -1,0 +1,9 @@
+compound	building	Philadelphia
+nsubj	collapses	building
+ccomp	trapped	collapses
+punct	trapped	,
+nummod	people	8-10
+nsubjpass	trapped	people
+aux	trapped	may
+auxpass	trapped	be
+root	ROOT	trapped

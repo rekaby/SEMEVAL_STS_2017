@@ -1,0 +1,11 @@
+nummod	officers	7
+compound	officers	police
+nsubjpass	killed	officers
+auxpass	killed	were
+root	ROOT	killed
+cc	killed	and
+nummod	officers	4
+nsubjpass	wounded	officers
+auxpass	wounded	were
+conj:and	killed	wounded
+punct	killed	.

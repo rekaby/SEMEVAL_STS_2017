@@ -1,0 +1,9 @@
+det	man	The
+nsubj	sat	man
+root	ROOT	sat
+case	suit	in
+nmod:poss	suit	his
+nmod:in	sat	suit
+cc	suit	and
+conj:and	suit	smoked
+punct	sat	.

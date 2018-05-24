@@ -1,0 +1,10 @@
+root	ROOT	bind
+case	obligation	by
+det	obligation	an
+nmod:by	bind	obligation
+punct	bind	;
+dep	bind	cause
+mark	indebted	to
+cop	indebted	be
+xcomp	cause	indebted
+punct	bind	.

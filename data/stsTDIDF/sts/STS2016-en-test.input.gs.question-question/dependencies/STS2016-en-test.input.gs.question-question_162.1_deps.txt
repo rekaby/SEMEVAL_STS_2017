@@ -1,0 +1,13 @@
+advmod	increase	How
+aux	increase	do
+nsubj	increase	I
+root	ROOT	increase
+det	height	the
+dobj	increase	height
+case	lock	of
+det	lock	a
+amod	lock	sliding
+compound	lock	glass
+compound	lock	door
+nmod:of	height	lock
+punct	increase	?

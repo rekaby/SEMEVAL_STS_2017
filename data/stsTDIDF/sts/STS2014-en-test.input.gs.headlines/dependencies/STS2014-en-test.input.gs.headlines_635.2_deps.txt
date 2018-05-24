@@ -1,0 +1,8 @@
+amod	Markets	Asian
+nsubj	up	Markets
+root	ROOT	up
+case	Jobs	on
+amod	Jobs	Strong
+compound	Jobs	US
+nmod:on	up	Jobs
+nmod:npmod	up	Data

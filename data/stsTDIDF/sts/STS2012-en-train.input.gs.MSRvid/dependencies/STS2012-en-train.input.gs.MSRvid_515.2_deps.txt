@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	exercising	woman
+aux	exercising	is
+root	ROOT	exercising
+case	barbell	with
+det	barbell	a
+nmod:with	exercising	barbell
+punct	exercising	.

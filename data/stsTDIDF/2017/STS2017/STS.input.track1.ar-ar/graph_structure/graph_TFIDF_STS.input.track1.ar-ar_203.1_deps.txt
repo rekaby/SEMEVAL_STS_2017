@@ -1,0 +1,4 @@
+has	world	nsubj
+microscope	seen	acl
+microscope	no	neg
+has	microscope	dobj

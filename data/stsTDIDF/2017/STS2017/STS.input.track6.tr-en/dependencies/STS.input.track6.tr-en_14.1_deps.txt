@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	cloth	on
+nmod:on	sitting	cloth
+punct	sitting	.

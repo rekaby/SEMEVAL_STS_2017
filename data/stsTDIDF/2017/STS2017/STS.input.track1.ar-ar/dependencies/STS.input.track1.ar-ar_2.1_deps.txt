@@ -1,0 +1,8 @@
+compound	women	Aldaitona
+nsubj	racing	women
+root	ROOT	racing
+case	race	in
+det	race	the
+nummod	race	500
+nmod:in	racing	race
+punct	racing	.

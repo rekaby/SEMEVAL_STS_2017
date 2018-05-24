@@ -1,0 +1,7 @@
+det	woman	a
+root	ROOT	woman
+case	necklace	with
+det	necklace	a
+amod	necklace	big
+nmod:with	woman	necklace
+punct	woman	.

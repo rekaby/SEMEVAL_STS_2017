@@ -1,0 +1,14 @@
+expl	gap	there
+aux	gap	will
+cop	gap	be
+det	gap	a
+root	ROOT	gap
+case	terminal	between
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:between	gap	terminal
+cc	terminal	and
+det	terminal	the
+compound	terminal	bulb
+conj:and	terminal	terminal

@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	young
+amod	girl	Asian
+nsubj	applying	girl
+aux	applying	is
+root	ROOT	applying
+dobj	applying	eyeliner
+punct	applying	.

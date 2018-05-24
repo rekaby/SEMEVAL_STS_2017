@@ -1,0 +1,6 @@
+compound	protesters	NATO
+root	ROOT	protesters
+acl	protesters	convicted
+case	charges	on
+amod	charges	non-terrorism
+nmod:on	convicted	charges

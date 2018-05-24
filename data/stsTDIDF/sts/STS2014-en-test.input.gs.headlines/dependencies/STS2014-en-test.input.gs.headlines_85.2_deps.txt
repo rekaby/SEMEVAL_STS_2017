@@ -1,0 +1,10 @@
+nmod:poss	military	Egypt
+case	Egypt	's
+nsubj	takes	military
+root	ROOT	takes
+dobj	takes	control
+case	Brotherhood	over
+amod	Brotherhood	Muslim
+nmod:over	control	Brotherhood
+punct	takes	,
+dep	takes	supporters

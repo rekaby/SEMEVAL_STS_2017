@@ -1,0 +1,15 @@
+amod	yu	chinese
+amod	yu	foreign
+compound	yu	ministry
+compound	yu	spokeswoman
+compound	yu	jiang
+nsubj	stated	yu
+root	ROOT	stated
+mark	issue	that
+compound	hacking	cyber
+nsubj	issue	hacking
+cop	issue	is
+det	issue	a
+amod	issue	global
+ccomp	stated	issue
+punct	stated	.

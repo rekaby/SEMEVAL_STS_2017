@@ -1,0 +1,11 @@
+root	ROOT	`
+compound	March	Million
+compound	March	Man
+nmod:poss	Capital	March
+case	March	'
+compound	Capital	Threatens
+compound	Capital	#Pakistan
+root	`	Capital
+punct	Capital	-
+appos	Capital	CNN
+punct	Capital	,

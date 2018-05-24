@@ -1,0 +1,10 @@
+compound	meat	Horse
+root	ROOT	meat
+acl	meat	discovered
+case	meat	in
+compound	meat	hamburgers
+nmod:in	discovered	meat
+case	UK	in
+nmod:in	discovered	UK
+cc	UK	and
+conj:and	UK	Ireland

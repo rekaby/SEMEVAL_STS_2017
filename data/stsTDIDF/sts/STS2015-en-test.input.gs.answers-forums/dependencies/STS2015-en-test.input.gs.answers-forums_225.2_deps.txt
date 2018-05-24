@@ -1,0 +1,12 @@
+det	tripod	An
+amod	tripod	alternative
+nsubj	TrekPod	tripod
+nsubj	serve	that
+aux	serve	may
+acl:relcl	tripod	serve
+nmod:poss	needs	your
+dobj	serve	needs
+cop	TrekPod	is
+det	TrekPod	the
+root	ROOT	TrekPod
+punct	TrekPod	.

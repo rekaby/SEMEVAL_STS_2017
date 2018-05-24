@@ -1,0 +1,14 @@
+root	ROOT	``
+det	difference	the
+amod	difference	electrical
+compound	difference	state
+root	``	difference
+case	battery	between
+det	battery	the
+nmod:between	difference	battery
+punct	battery	''
+punct	terminals	``
+compound	terminals	s
+nummod	terminals	two
+dep	battery	terminals
+punct	difference	''

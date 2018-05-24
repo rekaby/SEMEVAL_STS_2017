@@ -1,0 +1,9 @@
+amod	striker	Second
+amod	hunger	Islamist
+compound	striker	hunger
+nsubj	dies	striker
+root	ROOT	dies
+case	prison	in
+det	prison	a
+amod	prison	Tunisian
+nmod:in	dies	prison

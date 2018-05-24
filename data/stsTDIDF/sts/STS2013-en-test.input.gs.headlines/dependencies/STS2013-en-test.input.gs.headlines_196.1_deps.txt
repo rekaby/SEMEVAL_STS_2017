@@ -1,0 +1,7 @@
+compound	Rowling	JK
+nsubj	launches	Rowling
+root	ROOT	launches
+nmod:poss	novel	her
+amod	novel	first
+amod	novel	adult
+dobj	launches	novel

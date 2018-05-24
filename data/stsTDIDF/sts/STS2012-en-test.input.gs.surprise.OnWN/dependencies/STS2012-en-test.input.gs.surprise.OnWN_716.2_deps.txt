@@ -1,0 +1,11 @@
+root	ROOT	stand
+case	arms	with
+nmod:with	stand	arms
+cc	arms	or
+nsubj	raised	forelegs
+conj:or	arms	raised
+punct	stand	,
+mark	menacing	as
+mark	menacing	if
+advcl	stand	menacing
+punct	stand	.

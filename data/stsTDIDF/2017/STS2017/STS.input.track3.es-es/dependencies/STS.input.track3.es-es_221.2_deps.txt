@@ -1,0 +1,16 @@
+det	painter	A
+nsubj	painting	painter
+aux	painting	is
+root	ROOT	painting
+det	image	a
+amod	image	vivid
+dobj	painting	image
+case	park	of
+det	park	a
+nmod:of	image	park
+case	side	on
+det	side	the
+nmod:on	park	side
+case	street	of
+det	street	a
+nmod:of	side	street

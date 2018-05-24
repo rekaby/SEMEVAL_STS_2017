@@ -1,0 +1,10 @@
+nsubj	welcomes	China
+root	ROOT	welcomes
+dobj	welcomes	US
+punct	US	,
+compound	deal	Russia
+appos	US	deal
+case	weapons	on
+compound	weapons	Syria
+compound	weapons	chemical
+nmod:on	deal	weapons

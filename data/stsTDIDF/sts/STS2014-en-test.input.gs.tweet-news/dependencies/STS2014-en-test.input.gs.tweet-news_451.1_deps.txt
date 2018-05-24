@@ -1,0 +1,12 @@
+nummod	Miles	40
+root	ROOT	Miles
+mark	Work	to
+acl	Miles	Work
+punct	Miles	,
+case	Bike	on
+det	Bike	a
+nmod:on	Miles	Bike
+punct	Miles	:
+punct	Miles	--
+dep	Miles	Incredible
+punct	Miles	!

@@ -1,0 +1,6 @@
+det	guy	A
+nsubj	repairs	guy
+root	ROOT	repairs
+det	jacket	a
+dobj	repairs	jacket
+punct	repairs	.

@@ -1,0 +1,8 @@
+root	ROOT	concentrate
+case	place	on
+det	place	a
+amod	place	particular
+nmod:on	concentrate	place
+cc	place	or
+conj:or	place	spot
+punct	concentrate	.

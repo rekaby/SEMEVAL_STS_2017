@@ -1,0 +1,7 @@
+nsubj	want	didnt
+root	ROOT	want
+mark	read	to
+xcomp	want	read
+cc	read	and
+conj:and	read	run
+punct	want	.-7) root(ROOT-0, .

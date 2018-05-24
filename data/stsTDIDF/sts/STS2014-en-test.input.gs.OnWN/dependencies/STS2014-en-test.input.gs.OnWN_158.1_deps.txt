@@ -1,0 +1,13 @@
+root	ROOT	Organize
+advmod	Organize	anew
+punct	Organize	,
+case	setback	as
+case	setback	after
+det	setback	a
+nmod:after	Organize	setback
+punct	Organize	;
+parataxis	Organize	collect
+cc	collect	or
+conj:or	collect	compose
+dobj	collect	oneself
+punct	Organize	.

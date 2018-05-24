@@ -1,0 +1,9 @@
+nsubj	says	Mayor
+root	ROOT	says
+nummod	blast	14
+amod	blast	dead
+case	plant	in
+compound	plant	Texas
+compound	plant	fertilizer
+nmod:in	dead	plant
+dobj	says	blast

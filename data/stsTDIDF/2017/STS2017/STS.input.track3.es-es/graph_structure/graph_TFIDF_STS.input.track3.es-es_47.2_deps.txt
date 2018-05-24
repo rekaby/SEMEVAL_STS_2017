@@ -1,0 +1,4 @@
+inside	.	punct
+ROOT	inside	root
+inside	child	nsubj
+inside	is	cop

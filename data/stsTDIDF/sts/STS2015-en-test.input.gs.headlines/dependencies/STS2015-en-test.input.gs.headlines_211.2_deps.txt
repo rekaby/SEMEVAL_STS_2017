@@ -1,0 +1,5 @@
+compound	expands	China
+compound	expands	manufacturing
+root	ROOT	expands
+case	September	in
+nmod:in	expands	September

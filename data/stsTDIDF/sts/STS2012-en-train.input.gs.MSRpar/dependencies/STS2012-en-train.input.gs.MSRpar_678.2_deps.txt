@@ -1,0 +1,14 @@
+case	May	In
+nmod:in	accounted	May
+nummod	May	2002
+punct	accounted	,
+nsubj	accounted	LCDs
+root	ROOT	accounted
+case	percent	for
+advmod	22	only
+nummod	percent	22
+nmod:for	accounted	percent
+case	sales	of
+compound	sales	monitor
+nmod:of	percent	sales
+punct	accounted	.

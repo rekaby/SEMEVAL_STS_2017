@@ -1,0 +1,16 @@
+compound	danilov	physicist
+compound	danilov	valentin
+nsubjpass	found	danilov
+auxpass	found	was
+root	ROOT	found
+xcomp	found	guilty
+mark	selling	of
+advcl	guilty	selling
+amod	information	classified
+dobj	selling	information
+case	technology	on
+compound	technology	space
+nmod:on	information	technology
+case	china	to
+nmod:to	technology	china
+punct	found	.

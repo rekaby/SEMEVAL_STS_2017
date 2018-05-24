@@ -1,0 +1,10 @@
+punct	group	-LRB-
+compound	group	biology
+punct	group	-RRB-
+amod	group	taxonomic
+root	ROOT	group
+acl	group	containing
+nummod	families	one
+cc	one	or
+conj:or	one	more
+dobj	containing	families

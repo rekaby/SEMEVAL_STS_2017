@@ -1,0 +1,8 @@
+root	ROOT	16
+acl	16	killed
+case	series	in
+nmod:in	killed	series
+case	attacks	of
+nmod:of	series	attacks
+case	Iraq	in
+nmod:in	attacks	Iraq

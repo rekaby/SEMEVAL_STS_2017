@@ -1,0 +1,15 @@
+det	man	a
+amod	man	young
+root	ROOT	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+case	building	with
+det	building	a
+amod	building	strange
+amod	building	white
+nmod:with	wearing	building
+case	background	in
+det	background	the
+nmod:in	building	background

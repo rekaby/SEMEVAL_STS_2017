@@ -1,0 +1,9 @@
+deprivation	making	conj:and
+deprivation	and	cc
+ROOT	deprivation	root
+deprivation	Many	nsubj
+deprivation	are	cop
+deprivation	do	dep
+Many	these	nmod:of
+deprivation	about	case
+deprivation	.	punct

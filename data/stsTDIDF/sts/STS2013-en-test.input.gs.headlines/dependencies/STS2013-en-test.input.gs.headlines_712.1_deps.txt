@@ -1,0 +1,8 @@
+compound	Tuesday	Annan
+mark	visit	to
+acl	Annan	visit
+amod	refugees	Syrian
+dobj	visit	refugees
+case	Turkey	in
+nmod:in	visit	Turkey
+root	ROOT	Tuesday

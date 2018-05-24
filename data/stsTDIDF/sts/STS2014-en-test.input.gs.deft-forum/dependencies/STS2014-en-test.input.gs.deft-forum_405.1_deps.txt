@@ -1,0 +1,14 @@
+nsubj	seem	You
+root	ROOT	seem
+mark	think	to
+xcomp	seem	think
+mark	responsible	that
+amod	people	poor
+nsubj	responsible	people
+cop	responsible	are
+neg	responsible	not
+ccomp	think	responsible
+case	actions	for
+nmod:poss	actions	their
+nmod:for	responsible	actions
+punct	seem	.

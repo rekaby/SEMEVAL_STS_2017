@@ -1,0 +1,7 @@
+compound	clothes	Baby
+root	ROOT	clothes
+case	white	by
+det	white	the
+compound	white	color
+nmod:by	clothes	white
+punct	clothes	.

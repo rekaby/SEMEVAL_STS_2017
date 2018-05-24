@@ -1,0 +1,9 @@
+nsubj	continued	People
+root	ROOT	continued
+mark	play	to
+xcomp	continued	play
+dobj	play	hopscotch
+case	hours	for
+nummod	hours	12
+nmod:for	play	hours
+punct	continued	.

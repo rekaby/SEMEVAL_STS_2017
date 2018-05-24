@@ -1,0 +1,12 @@
+nummod	people	Two
+nsubj	standing	people
+aux	standing	are
+root	ROOT	standing
+case	shop	outside
+det	shop	a
+nmod:outside	standing	shop
+case	street	on
+det	street	a
+compound	street	city
+nmod:on	shop	street
+punct	standing	.

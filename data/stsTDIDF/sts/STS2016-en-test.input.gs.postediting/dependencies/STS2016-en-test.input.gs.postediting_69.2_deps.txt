@@ -1,0 +1,16 @@
+root	ROOT	Shame
+punct	Shame	,
+compound	Toews	Mr
+appos	Shame	Toews
+punct	Shame	,
+nsubj	is	it
+acl:relcl	Shame	is
+punct	is	,
+case	instance	in
+det	instance	this
+nmod:in	is	instance
+punct	is	,
+cc	is	and
+neg	elsewhere	not
+conj:and	is	elsewhere
+punct	Shame	.

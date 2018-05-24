@@ -1,0 +1,10 @@
+amod	puppy	Brown
+nsubj	lay	puppy
+root	ROOT	lay
+case	back	on
+nmod:poss	back	his
+nmod:on	lay	back
+case	grass	on
+det	grass	the
+nmod:on	back	grass
+punct	lay	.

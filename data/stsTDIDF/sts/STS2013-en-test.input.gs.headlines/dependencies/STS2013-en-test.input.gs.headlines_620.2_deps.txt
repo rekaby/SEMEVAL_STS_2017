@@ -1,0 +1,6 @@
+compound	Gazzara	Actor
+compound	Gazzara	Ben
+nsubj	dies	Gazzara
+root	ROOT	dies
+case	81	at
+nmod:at	dies	81

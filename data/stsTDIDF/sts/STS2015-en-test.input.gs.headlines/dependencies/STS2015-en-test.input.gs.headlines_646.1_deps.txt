@@ -1,0 +1,7 @@
+compound	swap	Iran
+compound	swap	ups
+compound	swap	oil
+root	ROOT	swap
+case	neighbors	with
+amod	neighbors	eastern
+nmod:with	swap	neighbors

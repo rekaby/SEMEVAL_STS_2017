@@ -1,0 +1,8 @@
+root	ROOT	`
+root	`	Credibility
+case	line	on
+det	line	the
+nmod:on	Credibility	line
+case	Syria	over
+nmod:over	line	Syria
+punct	Credibility	'

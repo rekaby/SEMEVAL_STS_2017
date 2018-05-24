@@ -1,0 +1,7 @@
+compound	hikes	Food
+compound	hikes	price
+nsubj	raise	hikes
+root	ROOT	raise
+dobj	raise	concerns
+case	Iran	in
+nmod:in	concerns	Iran

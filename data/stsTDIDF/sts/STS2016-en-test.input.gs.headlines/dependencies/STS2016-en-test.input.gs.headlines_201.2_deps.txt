@@ -1,0 +1,8 @@
+amod	activists	Pro-Palestinian
+nsubj	prepare	activists
+root	ROOT	prepare
+dobj	prepare	flotilla
+mark	break	to
+advcl	prepare	break
+compound	blockade	Gaza
+dobj	break	blockade

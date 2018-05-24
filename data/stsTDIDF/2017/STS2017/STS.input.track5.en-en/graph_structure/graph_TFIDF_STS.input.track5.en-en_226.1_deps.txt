@@ -1,0 +1,9 @@
+man	hooded	amod
+booklet	a	det
+booklet	at	case
+glass	large	amod
+look	booklet	nmod:at
+using	glass	dobj
+glass	magnifying	amod
+man	black	amod
+using	man	nsubj

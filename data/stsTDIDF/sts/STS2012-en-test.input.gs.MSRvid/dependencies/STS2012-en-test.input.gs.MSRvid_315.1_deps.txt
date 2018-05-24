@@ -1,0 +1,7 @@
+det	man	A
+nsubj	punching	man
+aux	punching	is
+root	ROOT	punching
+case	boards	through
+nmod:through	punching	boards
+punct	punching	.

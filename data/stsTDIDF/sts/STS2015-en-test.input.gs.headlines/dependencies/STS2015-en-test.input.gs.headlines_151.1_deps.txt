@@ -1,0 +1,9 @@
+nmod:poss	Ark	China
+case	China	's
+compound	Ark	Peace
+nsubj	departs	Ark
+root	ROOT	departs
+case	Philippines	for
+det	Philippines	the
+nmod:for	departs	Philippines
+nmod:tmod	departs	Thursday

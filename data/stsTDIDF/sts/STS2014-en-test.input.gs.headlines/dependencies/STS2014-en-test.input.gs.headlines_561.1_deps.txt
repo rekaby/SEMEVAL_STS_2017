@@ -1,0 +1,9 @@
+root	ROOT	Kerry
+punct	Kerry	:
+amod	Plan	$
+compound	$	4b
+amod	Plan	Palestinian
+compound	Plan	Economic
+nsubj	Work	Plan
+aux	Work	Could
+dep	Kerry	Work

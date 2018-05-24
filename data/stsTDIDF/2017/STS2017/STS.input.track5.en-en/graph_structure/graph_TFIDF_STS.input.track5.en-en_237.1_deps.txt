@@ -1,0 +1,6 @@
+waves	breaking	compound
+walks	dog	nsubj
+walks	beach	nmod:along
+walks	waves	nmod:with
+waves	with	case
+beach	along	case

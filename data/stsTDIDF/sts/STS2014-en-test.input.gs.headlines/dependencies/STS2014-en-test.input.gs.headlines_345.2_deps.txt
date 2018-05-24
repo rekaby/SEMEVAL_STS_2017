@@ -1,0 +1,8 @@
+compound	Africa	South
+root	ROOT	Africa
+punct	Africa	:
+appos	Africa	Mandela
+case	hospital	in
+nmod:in	Mandela	hospital
+case	tests	for
+nmod:for	Mandela	tests

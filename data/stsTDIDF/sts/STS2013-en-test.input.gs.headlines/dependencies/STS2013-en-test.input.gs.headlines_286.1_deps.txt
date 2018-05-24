@@ -1,0 +1,9 @@
+compound	Airlines	American
+root	ROOT	Airlines
+cc	Airlines	and
+compound	Agree	Pilots
+conj:and	Airlines	Agree
+case	Contract	on
+det	Contract	a
+compound	Contract	New
+nmod:on	Airlines	Contract

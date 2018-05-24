@@ -1,0 +1,5 @@
+compound	shares	KL
+nsubj	lower	shares
+root	ROOT	lower
+case	mid-morning	at
+nmod:at	lower	mid-morning

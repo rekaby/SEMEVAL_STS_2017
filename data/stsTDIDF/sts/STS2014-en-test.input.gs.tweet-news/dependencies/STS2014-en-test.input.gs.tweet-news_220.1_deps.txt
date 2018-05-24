@@ -1,0 +1,6 @@
+root	ROOT	Look
+case	Moment	of
+det	Moment	The
+nmod:of	Look	Moment
+punct	Look	:
+dep	Look	#TaylorSwift

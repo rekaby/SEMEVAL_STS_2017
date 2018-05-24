@@ -1,0 +1,8 @@
+compound	Rican	Puerto
+nsubj	arrested	Rican
+root	ROOT	arrested
+case	production	for
+nmod:for	arrested	production
+case	pornography	of
+compound	pornography	child
+nmod:of	production	pornography

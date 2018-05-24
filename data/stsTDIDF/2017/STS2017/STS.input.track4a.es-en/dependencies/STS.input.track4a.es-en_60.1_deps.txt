@@ -1,0 +1,13 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	children	next
+mwe	next	to
+nummod	children	two
+nmod:next_to	standing	children
+case	day	on
+det	day	a
+amod	day	hot
+nmod:on	children	day
+punct	standing	.

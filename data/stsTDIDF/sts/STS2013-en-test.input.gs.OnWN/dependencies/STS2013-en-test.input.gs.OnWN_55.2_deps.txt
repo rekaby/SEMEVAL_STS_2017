@@ -1,0 +1,7 @@
+det	opinion	an
+root	ROOT	opinion
+acl	opinion	formed
+mark	judging	by
+advcl	formed	judging
+dobj	judging	something
+punct	opinion	.

@@ -1,0 +1,8 @@
+nsubj	dodges	Germany
+root	ROOT	dodges
+dobj	dodges	recession
+case	growth	with
+nmod:with	dodges	growth
+case	quarter	in
+amod	quarter	first
+nmod:in	growth	quarter

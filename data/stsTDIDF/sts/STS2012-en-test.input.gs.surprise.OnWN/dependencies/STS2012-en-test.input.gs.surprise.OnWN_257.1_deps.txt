@@ -1,0 +1,6 @@
+amod	school	secondary
+amod	school	public
+root	ROOT	school
+punct	school	,
+appos	school	grades
+nummod	grades	9-12

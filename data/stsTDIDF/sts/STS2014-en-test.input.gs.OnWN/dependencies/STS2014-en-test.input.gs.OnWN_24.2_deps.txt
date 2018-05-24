@@ -1,0 +1,11 @@
+det	quality	the
+root	ROOT	quality
+mark	inadequate	of
+cop	inadequate	being
+acl	quality	inadequate
+cc	inadequate	or
+conj:or	inadequate	falling
+xcomp	inadequate	short
+case	perfection	of
+nmod:of	short	perfection
+punct	quality	.

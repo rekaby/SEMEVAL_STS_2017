@@ -1,0 +1,7 @@
+nsubj	swears	Mexico
+root	ROOT	swears
+case	president	in
+nmod:in	swears	president
+case	protests	amid
+amod	protests	violent
+nmod:amid	swears	protests

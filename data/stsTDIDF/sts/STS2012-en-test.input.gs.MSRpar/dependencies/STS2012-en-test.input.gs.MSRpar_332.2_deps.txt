@@ -1,0 +1,13 @@
+compound	Formby	Staff
+compound	Formby	writers
+compound	Formby	Brandon
+nsubj	contributed	Formby
+cc	Formby	and
+compound	Nelson	Colleen
+compound	Nelson	McCain
+conj:and	Formby	Nelson
+root	ROOT	contributed
+case	report	to
+det	report	this
+nmod:to	contributed	report
+punct	contributed	.

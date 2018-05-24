@@ -1,0 +1,14 @@
+advmod	submitted	Respectfully
+root	ROOT	submitted
+punct	submitted	,
+compound	I	Steve
+nsubj	seen	I
+aux	seen	have
+ccomp	submitted	seen
+xcomp	seen	UFO
+case	Warsaw	over
+nmod:over	UFO	Warsaw
+case	past	in
+det	past	the
+nmod:in	UFO	past
+punct	submitted	.

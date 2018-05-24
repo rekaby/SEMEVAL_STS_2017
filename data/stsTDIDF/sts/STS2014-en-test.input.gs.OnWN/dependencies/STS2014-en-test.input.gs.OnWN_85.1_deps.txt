@@ -1,0 +1,10 @@
+det	event	An
+root	ROOT	event
+nsubj	causes	that
+acl:relcl	event	causes
+dobj	causes	someone
+cc	someone	or
+conj:or	someone	something
+mark	die	to
+xcomp	causes	die
+punct	event	.

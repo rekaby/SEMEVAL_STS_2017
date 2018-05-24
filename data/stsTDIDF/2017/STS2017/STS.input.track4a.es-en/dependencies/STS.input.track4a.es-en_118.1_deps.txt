@@ -1,0 +1,7 @@
+det	group	A
+nsubj	run	group
+case	people	of
+nmod:of	group	people
+root	ROOT	run
+det	float	a
+dobj	run	float

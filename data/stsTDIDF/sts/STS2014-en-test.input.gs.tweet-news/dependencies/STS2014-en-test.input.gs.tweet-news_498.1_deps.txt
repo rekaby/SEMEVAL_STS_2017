@@ -1,0 +1,18 @@
+root	ROOT	All
+case	kid	from
+det	kid	a
+nmod:from	All	kid
+acl	All	starting
+det	petition	an
+amod	petition	online
+dobj	starting	petition
+punct	All	.-9) root(ROOT-0, NYTimes
+punct	NYTimes	:
+compound	Use	PepsiCo
+compound	Use	Will
+compound	Use	Halt
+dep	NYTimes	Use
+case	Additive	of
+nmod:of	Use	Additive
+case	Gatorade	in
+nmod:in	Use	Gatorade

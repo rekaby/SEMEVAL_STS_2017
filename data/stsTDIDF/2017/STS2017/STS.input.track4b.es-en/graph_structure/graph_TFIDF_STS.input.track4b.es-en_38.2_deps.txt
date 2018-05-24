@@ -1,0 +1,17 @@
+unable	maintain	xcomp
+suffers	that	nsubj
+adversaries	with	case
+suffers	disposition	conj:and
+morale	low	amod
+disposition	poor	amod
+suffers	,	punct
+suffers	and	cc
+suffers	unable	conj:and
+suffers	morale	dobj
+adversaries	potential	amod
+unable	is	cop
+ROOT	force	root
+force	It	nsubj
+force	is	cop
+maintain	adversaries	nmod:with
+force	suffers	acl:relcl

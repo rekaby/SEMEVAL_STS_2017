@@ -1,0 +1,11 @@
+compound	Airways	British
+nmod:poss	runs	Airways
+case	Airways	'
+amod	runs	New
+compound	runs	York-to-London
+nsubj	end	runs
+aux	end	will
+root	ROOT	end
+case	October	in
+nmod:in	end	October
+punct	end	.

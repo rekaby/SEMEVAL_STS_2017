@@ -1,0 +1,6 @@
+root	ROOT	smother
+punct	smother	,
+conj:or	smother	surpress
+cc	smother	or
+conj:or	smother	lessen
+dobj	smother	something

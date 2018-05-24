@@ -1,0 +1,10 @@
+det	violence	Some
+compound	violence	Syria
+nsubj	qualifies	violence
+root	ROOT	qualifies
+case	war	as
+amod	war	civil
+nmod:as	qualifies	war
+punct	war	-
+compound	Cross	Red
+appos	war	Cross

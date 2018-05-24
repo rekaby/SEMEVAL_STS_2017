@@ -1,0 +1,7 @@
+nummod	building	Three
+compound	building	storey
+nsubj	collapses	building
+root	ROOT	collapses
+case	Meta	in
+compound	Meta	Ebute
+nmod:in	collapses	Meta

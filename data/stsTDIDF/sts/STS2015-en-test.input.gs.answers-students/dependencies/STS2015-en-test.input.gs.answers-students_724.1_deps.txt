@@ -1,0 +1,8 @@
+mark	has	because
+det	bulb	each
+nsubj	has	bulb
+root	ROOT	has
+nmod:poss	path	its
+amod	path	own
+amod	path	complete
+dobj	has	path

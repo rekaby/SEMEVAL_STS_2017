@@ -1,0 +1,7 @@
+det	center	a
+compound	center	detention
+root	ROOT	center
+case	prisoners	for
+nmod:for	center	prisoners
+cc	prisoners	or
+conj:or	prisoners	drunks

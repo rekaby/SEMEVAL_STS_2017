@@ -1,0 +1,11 @@
+det	week	Each
+root	ROOT	week
+compound	million	138
+nummod	week	million
+nsubj	visit	shoppers
+acl:relcl	week	visit
+nmod:poss	stores	Wal-Mart
+case	Wal-Mart	's
+nummod	stores	4,750
+dobj	visit	stores
+punct	week	.

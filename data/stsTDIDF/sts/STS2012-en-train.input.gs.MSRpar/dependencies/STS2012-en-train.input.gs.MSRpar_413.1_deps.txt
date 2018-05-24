@@ -1,0 +1,23 @@
+det	Standard	The
+amod	Standard	broader
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+nsubj	<	Index
+root	ROOT	<
+punct	<	.-10) nsubj(gave-3, SPX
+nsubj	gave	>
+root	ROOT	gave
+compound:prt	gave	up
+nummod	points	11.91
+dobj	gave	points
+punct	points	,
+cc	points	or
+nummod	percent	1.19
+conj:or	points	percent
+punct	gave	,
+case	986.60	at
+nmod:at	gave	986.60
+punct	gave	.

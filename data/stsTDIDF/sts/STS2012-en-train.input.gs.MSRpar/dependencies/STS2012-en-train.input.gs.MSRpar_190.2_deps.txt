@@ -1,0 +1,13 @@
+case	law	By
+nmod:by	information	law
+punct	information	,
+nummod	calls	911
+nsubj	information	calls
+cop	information	are
+neg	information	not
+amod	information	public
+root	ROOT	information
+case	Island	in
+compound	Island	Rhode
+nmod:in	information	Island
+punct	information	.

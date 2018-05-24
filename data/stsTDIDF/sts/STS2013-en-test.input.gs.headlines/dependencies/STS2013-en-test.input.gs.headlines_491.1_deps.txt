@@ -1,0 +1,10 @@
+compound	Summer	Donna
+nsubj	dies	Summer
+punct	Summer	,
+appos	Summer	Queen
+case	Disco	of
+nmod:of	Queen	Disco
+punct	Summer	,
+root	ROOT	dies
+case	63	at
+nmod:at	dies	63

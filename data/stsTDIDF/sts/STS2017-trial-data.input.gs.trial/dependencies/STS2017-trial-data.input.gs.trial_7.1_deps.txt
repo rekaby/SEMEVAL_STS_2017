@@ -1,0 +1,16 @@
+nsubj	weighting	One
+case	schemes	of
+det	schemes	the
+amod	schemes	best
+amod	schemes	known
+nmod:of	One	schemes
+cop	weighting	is
+amod	weighting	tf-idf
+root	ROOT	weighting
+punct	see	-LRB-
+dep	weighting	see
+det	example	the
+dobj	see	example
+amod	example	below
+punct	see	-RRB-
+punct	weighting	.

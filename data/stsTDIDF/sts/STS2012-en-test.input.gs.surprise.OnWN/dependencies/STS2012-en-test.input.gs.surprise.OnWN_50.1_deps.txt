@@ -1,0 +1,10 @@
+root	ROOT	edit
+advmod	block	so
+mark	block	as
+mark	block	to
+advcl	edit	block
+det	truth	the
+dobj	block	truth
+punct	edit	;
+parataxis	edit	prevent
+dobj	prevent	distribution

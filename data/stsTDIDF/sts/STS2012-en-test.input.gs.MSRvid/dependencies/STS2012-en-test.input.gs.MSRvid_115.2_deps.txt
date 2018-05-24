@@ -1,0 +1,7 @@
+det	monkey	The
+nsubj	pushed	monkey
+root	ROOT	pushed
+det	monkey	the
+amod	monkey	other
+dobj	pushed	monkey
+punct	pushed	.

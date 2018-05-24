@@ -1,0 +1,7 @@
+det	bicycle	A
+nsubj	jumps	bicycle
+root	ROOT	jumps
+case	air	in
+det	air	the
+nmod:in	jumps	air
+punct	jumps	.

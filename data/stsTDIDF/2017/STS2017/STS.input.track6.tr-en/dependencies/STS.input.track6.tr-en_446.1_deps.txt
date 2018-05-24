@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	hangs	woman
+case	pajamas	in
+nmod:in	woman	pajamas
+root	ROOT	hangs
+dobj	hangs	laundry
+case	clothesline	on
+det	clothesline	a
+nmod:on	hangs	clothesline
+punct	hangs	.

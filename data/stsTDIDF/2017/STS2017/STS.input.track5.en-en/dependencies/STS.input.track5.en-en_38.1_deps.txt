@@ -1,0 +1,15 @@
+det	player	The
+compound	player	tennis
+nsubj	hit	player
+root	ROOT	hit
+det	ball	the
+dobj	hit	ball
+case	space	into
+amod	space	outer
+nmod:into	hit	space
+cc	hit	and
+conj:and	hit	broke
+det	star	the
+compound	star	death
+dobj	broke	star
+punct	hit	.

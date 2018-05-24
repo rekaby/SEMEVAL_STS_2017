@@ -1,0 +1,10 @@
+det	skateboarder	A
+root	ROOT	skateboarder
+acl	skateboarder	doing
+det	trick	a
+dobj	doing	trick
+case	wall	on
+det	wall	a
+compound	wall	stone
+nmod:on	doing	wall
+punct	skateboarder	.

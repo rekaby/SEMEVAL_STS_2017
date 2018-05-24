@@ -1,0 +1,10 @@
+amod	protesters	Greek
+root	ROOT	protesters
+punct	protesters	,
+compound	clash	police
+appos	protesters	clash
+case	deal	as
+compound	deal	bailout
+nmod:as	clash	deal
+case	limbo	in
+nmod:in	clash	limbo

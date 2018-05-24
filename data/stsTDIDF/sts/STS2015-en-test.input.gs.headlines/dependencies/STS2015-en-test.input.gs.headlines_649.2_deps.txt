@@ -1,0 +1,7 @@
+nsubj	dies	Woman
+root	ROOT	dies
+case	fire	in
+compound	fire	Co
+compound	fire	Cork
+compound	fire	house
+nmod:in	dies	fire

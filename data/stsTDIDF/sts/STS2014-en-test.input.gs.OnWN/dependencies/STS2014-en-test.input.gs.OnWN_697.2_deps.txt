@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	flipping	of
+acl	act	flipping
+det	coin	a
+dobj	flipping	coin
+punct	act	.

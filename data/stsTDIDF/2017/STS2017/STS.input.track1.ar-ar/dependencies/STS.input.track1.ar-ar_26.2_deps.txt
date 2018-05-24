@@ -1,0 +1,7 @@
+nsubj	tries	Dog
+root	ROOT	tries
+mark	catch	to
+xcomp	tries	catch
+det	cat	a
+dobj	catch	cat
+punct	tries	.

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	ride	man
+acl	man	riding
+det	bike	a
+dobj	riding	bike
+punct	ride	,
+root	ROOT	ride
+nmod:poss	daughter	his
+dobj	ride	daughter
+case	side	by
+nmod:poss	side	his
+nmod:by	ride	side
+punct	ride	.

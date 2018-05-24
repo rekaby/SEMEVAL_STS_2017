@@ -1,0 +1,17 @@
+nsubj	walking	Woman
+root	ROOT	walking
+case	street	on
+det	street	the
+nmod:on	walking	street
+case	heels	in
+amod	heels	high
+nmod:in	walking	heels
+punct	leggings	,
+amod	leggings	black
+dobj	walking	leggings
+punct	leggings	,
+amod	coat	black
+conj:and	leggings	coat
+cc	leggings	and
+amod	wallet	red
+conj:and	leggings	wallet

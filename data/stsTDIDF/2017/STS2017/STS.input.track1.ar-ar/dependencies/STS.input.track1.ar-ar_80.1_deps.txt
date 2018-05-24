@@ -1,0 +1,6 @@
+nsubj	playing	Boys
+root	ROOT	playing
+det	game	a
+compound	game	video
+dobj	playing	game
+punct	playing	.

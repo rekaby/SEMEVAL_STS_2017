@@ -1,0 +1,6 @@
+working	restaurant	nmod:at
+restaurant	cutting	acl
+ROOT	Waitress	root
+Waitress	working	acl
+Waitress	.	punct
+cutting	watermelon	dobj

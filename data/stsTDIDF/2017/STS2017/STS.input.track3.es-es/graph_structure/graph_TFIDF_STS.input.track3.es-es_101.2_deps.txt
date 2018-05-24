@@ -1,0 +1,7 @@
+keep	sun	dobj
+man	This	det
+wears	keep	advcl
+eyes	out	case
+keep	eyes	nmod:out_of
+wears	sunglasses	dobj
+wears	man	nsubj

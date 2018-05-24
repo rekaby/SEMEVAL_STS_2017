@@ -1,0 +1,11 @@
+det	goose	A
+nsubj	flapping	goose
+root	ROOT	flapping
+nmod:poss	wings	its
+dobj	flapping	wings
+case	body	in
+det	body	a
+nmod:in	flapping	body
+case	water	of
+nmod:of	body	water
+punct	flapping	.

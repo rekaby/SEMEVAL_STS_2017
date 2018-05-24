@@ -1,0 +1,10 @@
+det	kid	A
+amod	kid	little
+nsubj	running	kid
+aux	running	is
+root	ROOT	running
+compound:prt	running	around
+det	pole	a
+compound	pole	fishing
+dobj	running	pole
+punct	running	.

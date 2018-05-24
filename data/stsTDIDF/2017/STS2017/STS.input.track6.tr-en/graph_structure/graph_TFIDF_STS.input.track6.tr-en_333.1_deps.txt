@@ -1,0 +1,6 @@
+riding	bicyclists	nsubj
+riding	are	aux
+bicyclists	The	det
+store	book	compound
+riding	store	nmod:to
+store	to	case

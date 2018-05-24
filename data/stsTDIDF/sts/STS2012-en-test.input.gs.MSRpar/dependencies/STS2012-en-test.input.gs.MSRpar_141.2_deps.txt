@@ -1,0 +1,14 @@
+nsubj	maintained	Prosecutors
+root	ROOT	maintained
+dobj	maintained	that
+compound	Black	Durst
+amod	Black	murdered
+dep	that	Black
+mark	try	to
+acl	Black	try
+mark	assume	to
+xcomp	try	assume
+nmod:poss	identity	Black
+case	Black	's
+dobj	assume	identity
+punct	maintained	.

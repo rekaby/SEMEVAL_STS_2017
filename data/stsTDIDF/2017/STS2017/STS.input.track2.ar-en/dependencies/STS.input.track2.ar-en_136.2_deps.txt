@@ -1,0 +1,6 @@
+nsubj	sitting	Adults
+aux	sitting	are
+root	ROOT	sitting
+case	home	at
+nmod:at	sitting	home
+punct	sitting	.

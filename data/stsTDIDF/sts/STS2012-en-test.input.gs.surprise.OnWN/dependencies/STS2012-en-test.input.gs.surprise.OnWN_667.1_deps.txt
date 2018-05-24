@@ -1,0 +1,10 @@
+amod	fo	Manual
+compound	fo	stimulation
+root	ROOT	fo
+det	area	the
+amod	area	genital
+dobj	fo	area
+case	pleasure	for
+amod	pleasure	sexual
+nmod:for	area	pleasure
+punct	fo	.

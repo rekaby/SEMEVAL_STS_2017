@@ -1,0 +1,15 @@
+root	ROOT	What
+cop	What	are
+det	advantages	the
+nsubj	What	advantages
+cc	advantages	and
+conj:and	advantages	disadvantages
+case	methods	of
+amod	methods	various
+nmod:of	advantages	methods
+mark	supporting	of
+acl	methods	supporting
+det	guitar	the
+amod	guitar	classical
+dobj	supporting	guitar
+punct	What	?

@@ -1,0 +1,12 @@
+root	ROOT	do
+dobj	do	something
+mark	considers	that
+nsubj	considers	one
+ccomp	something	considers
+mark	dignity	to
+cop	dignity	be
+case	dignity	below
+nmod:poss	dignity	one
+case	one	's
+xcomp	considers	dignity
+punct	do	.

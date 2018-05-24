@@ -1,0 +1,8 @@
+nummod	men	Two
+root	ROOT	men
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+nmod:in_front_of	men	crowd
+punct	men	.

@@ -1,0 +1,13 @@
+nummod	cats	Two
+nsubj	close	cats
+cop	close	are
+root	ROOT	close
+advmod	close	together
+dep	close	inside
+cc	inside	and
+conj:and	inside	black
+cc	inside	and
+amod	enclosure	white
+amod	enclosure	furry
+conj:and	inside	enclosure
+punct	close	.

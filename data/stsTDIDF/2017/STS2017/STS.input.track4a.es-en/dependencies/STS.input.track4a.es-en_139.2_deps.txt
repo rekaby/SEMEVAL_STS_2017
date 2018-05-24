@@ -1,0 +1,8 @@
+root	ROOT	Firemen
+acl	Firemen	looking
+compound:prt	looking	down
+det	set	a
+dobj	looking	set
+case	stairs	of
+nmod:of	set	stairs
+punct	Firemen	.

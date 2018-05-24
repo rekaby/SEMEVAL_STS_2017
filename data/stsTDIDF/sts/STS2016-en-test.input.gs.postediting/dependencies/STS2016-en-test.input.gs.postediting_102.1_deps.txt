@@ -1,0 +1,15 @@
+nsubj	better	It
+cop	better	is
+root	ROOT	better
+case	way	for
+det	way	this
+nmod:for	better	way
+punct	better	,
+mark	need	as
+nsubj	need	they
+aux	need	will
+advmod	need	still
+advcl	better	need
+nmod:poss	strength	their
+dobj	need	strength
+punct	better	.

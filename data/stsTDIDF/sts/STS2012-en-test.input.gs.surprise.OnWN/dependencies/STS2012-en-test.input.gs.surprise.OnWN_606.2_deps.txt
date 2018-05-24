@@ -1,0 +1,6 @@
+det	day	the
+root	ROOT	day
+advmod	day	immediately
+case	today	before
+nmod:before	immediately	today
+punct	day	.

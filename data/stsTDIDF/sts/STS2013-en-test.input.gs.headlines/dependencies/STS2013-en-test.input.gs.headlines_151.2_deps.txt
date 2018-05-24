@@ -1,0 +1,11 @@
+compound	soldier	US
+nsubj	kills	soldier
+root	ROOT	kills
+compound:prt	kills	up
+case	civilians	to
+nummod	civilians	16
+compound	civilians	Afghan
+nmod:to	kills	civilians
+case	spree	in
+amod	spree	shooting
+nmod:in	civilians	spree

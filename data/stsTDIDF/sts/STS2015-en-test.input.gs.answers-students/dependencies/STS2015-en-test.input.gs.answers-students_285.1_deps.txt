@@ -1,0 +1,11 @@
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	bul	between
+det	bul	the
+nmod:between	gap	bul
+cc	bul	and
+compound	terminal	battery
+conj:and	bul	terminal
+punct	is	.

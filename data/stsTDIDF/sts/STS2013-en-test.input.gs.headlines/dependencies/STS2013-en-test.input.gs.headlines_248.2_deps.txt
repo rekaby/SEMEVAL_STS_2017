@@ -1,0 +1,9 @@
+root	ROOT	19
+acl	19	Killed
+case	Attacks	in
+compound	Attacks	Iraq
+nmod:in	Killed	Attacks
+advmod	Attacks	ahead
+case	End	of
+compound	End	Ramadan
+nmod:of	ahead	End

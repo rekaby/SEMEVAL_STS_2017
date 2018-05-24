@@ -1,0 +1,9 @@
+compound	chief	New
+compound	chief	UN
+compound	chief	peacekeeping
+nsubj	named	chief
+root	ROOT	named
+case	Republic	for
+amod	African	Central
+amod	Republic	African
+nmod:for	named	Republic

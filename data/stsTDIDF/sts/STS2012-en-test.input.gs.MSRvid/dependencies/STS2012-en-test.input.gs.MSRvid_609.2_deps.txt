@@ -1,0 +1,7 @@
+det	monkey	A
+nsubj	pulled	monkey
+root	ROOT	pulled
+det	tail	a
+compound	tail	dogs
+dobj	pulled	tail
+punct	pulled	.

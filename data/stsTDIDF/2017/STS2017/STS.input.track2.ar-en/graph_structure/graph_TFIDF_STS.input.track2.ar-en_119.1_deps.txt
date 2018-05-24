@@ -1,0 +1,5 @@
+sofas	on	case
+hair	long	amod
+sit	sofas	nmod:on
+sit	men	nsubj
+men	hair	nmod:with

@@ -1,0 +1,10 @@
+nsubj	believed	Scientists
+root	ROOT	believed
+nsubj	trapped	Stardust
+ccomp	believed	trapped
+dobj	trapped	thousands
+case	particles	of
+nmod:of	thousands	particles
+case	dust	of
+nmod:of	particles	dust
+punct	believed	.

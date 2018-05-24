@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	bicycle	with
+det	bicycle	a
+nmod:with	man	bicycle
+case	house	at
+det	house	a
+compound	house	coffee
+nmod:at	bicycle	house
+punct	man	.

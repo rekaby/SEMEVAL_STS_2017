@@ -1,0 +1,7 @@
+nsubj	flip	People
+root	ROOT	flip
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	flip	pool
+punct	flip	.

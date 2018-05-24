@@ -1,0 +1,7 @@
+root	ROOT	manage
+punct	manage	,
+conj:or	manage	handle
+punct	manage	,
+cc	manage	or
+conj:or	manage	control
+dobj	manage	something

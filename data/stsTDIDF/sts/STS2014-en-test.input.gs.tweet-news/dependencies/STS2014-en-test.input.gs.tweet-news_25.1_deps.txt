@@ -1,0 +1,9 @@
+compound	withdrawal	U.S.
+nsubj	love	withdrawal
+cop	love	is
+punct	love	`
+amod	love	tough
+root	ROOT	love
+punct	love	'
+case	Afghans	for
+nmod:for	love	Afghans

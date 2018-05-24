@@ -1,0 +1,8 @@
+det	musician	The
+nsubj	decided	musician
+root	ROOT	decided
+mark	stay	to
+xcomp	decided	stay
+compound	tonight	home
+nmod:tmod	stay	tonight
+punct	decided	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	playing	woman
+aux	playing	is
+root	ROOT	playing
+compound	ball	volley
+dobj	playing	ball
+punct	playing	.

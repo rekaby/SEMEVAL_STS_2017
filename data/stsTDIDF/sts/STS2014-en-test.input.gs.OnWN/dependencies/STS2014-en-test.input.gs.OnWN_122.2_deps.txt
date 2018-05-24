@@ -1,0 +1,12 @@
+compound	animals	breed
+root	ROOT	animals
+cc	animals	or
+conj:or	animals	plants
+acl	animals	using
+dobj	using	parents
+case	races	of
+amod	races	different
+nmod:of	parents	races
+cc	races	and
+conj:and	races	varieties
+punct	animals	.

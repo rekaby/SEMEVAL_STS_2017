@@ -1,0 +1,9 @@
+amod	table	Black
+cc	Black	and
+conj:and	Black	brown
+root	ROOT	table
+case	setting	in
+amod	setting	living
+compound	setting	room
+nmod:in	table	setting
+punct	table	.

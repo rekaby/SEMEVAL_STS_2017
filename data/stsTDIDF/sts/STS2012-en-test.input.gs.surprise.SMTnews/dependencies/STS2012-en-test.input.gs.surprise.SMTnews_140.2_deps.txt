@@ -1,0 +1,13 @@
+root	ROOT	But
+case	Union	as
+det	Union	the
+compound	Union	European
+nmod:as	But	Union
+nmod:npmod	Union	itself
+punct	Union	,
+cc	Union	and
+nsubj	build	it
+aux	build	will
+conj:and	Union	build
+dobj	build	it
+punct	But	.

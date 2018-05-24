@@ -1,0 +1,5 @@
+root	ROOT	fall
+case	groups	between
+nummod	groups	two
+amod	groups	taxonomic
+nmod:between	fall	groups

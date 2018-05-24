@@ -1,0 +1,6 @@
+root	ROOT	give
+amod	properties	certain
+dobj	give	properties
+case	something	to
+nmod:to	give	something
+punct	give	.

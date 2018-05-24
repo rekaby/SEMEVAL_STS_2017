@@ -1,0 +1,9 @@
+amod	lessons	Little
+compound	lessons	girl
+amod	lessons	karate
+nsubj	apply	lessons
+root	ROOT	apply
+case	brother	to
+nmod:poss	brother	her
+nmod:to	apply	brother
+punct	apply	.

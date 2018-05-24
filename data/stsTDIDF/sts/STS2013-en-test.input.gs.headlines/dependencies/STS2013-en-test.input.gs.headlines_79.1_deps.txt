@@ -1,0 +1,7 @@
+nsubj	warns	Iran
+csubj	stall	warns
+compound	talks	Moscow
+amod	talks	nuclear
+dobj	warns	talks
+aux	stall	could
+root	ROOT	stall

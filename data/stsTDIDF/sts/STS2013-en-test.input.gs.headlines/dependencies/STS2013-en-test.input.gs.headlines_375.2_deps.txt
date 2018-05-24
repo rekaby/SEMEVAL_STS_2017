@@ -1,0 +1,13 @@
+compound	Prada	Jaya
+nsubj	likely	Prada
+root	ROOT	likely
+mark	join	to
+xcomp	likely	join
+dobj	join	BJP
+punct	BJP	,
+compound	Singh	Amar
+appos	BJP	Singh
+mark	decide	to
+acl	BJP	decide
+case	her	for
+nmod:for	decide	her

@@ -1,0 +1,8 @@
+det	train	A
+compound	train	passenger
+nsubj	sits	train
+root	ROOT	sits
+case	station	in
+det	station	the
+nmod:in	sits	station
+punct	sits	.

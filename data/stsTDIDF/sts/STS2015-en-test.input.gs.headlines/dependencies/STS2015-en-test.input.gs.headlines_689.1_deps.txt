@@ -1,0 +1,12 @@
+compound	powers	World
+root	ROOT	powers
+cc	powers	and
+conj:and	powers	Iran
+mark	resume	to
+acl	powers	resume
+amod	talks	expert
+amod	talks	nuclear
+dobj	resume	talks
+case	Dec.	on
+nmod:on	resume	Dec.
+nummod	Dec.	30

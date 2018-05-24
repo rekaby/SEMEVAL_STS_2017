@@ -1,0 +1,5 @@
+man	hat	nmod:in
+bow	a	det
+hat	bow	nmod:with
+bow	with	case
+hat	in	case

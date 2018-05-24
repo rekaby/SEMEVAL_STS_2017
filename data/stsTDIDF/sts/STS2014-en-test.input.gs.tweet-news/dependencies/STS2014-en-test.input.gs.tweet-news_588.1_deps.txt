@@ -1,0 +1,16 @@
+nsubj	start	It
+cop	start	's
+det	start	a
+root	ROOT	start
+punct	start	!-5) root(ROOT-0, Kudos
+case	kid	to
+det	kid	this
+nmod:to	Kudos	kid
+nummod	Kudos	!!!-5) compound(Use-4, PepsiCo
+compound	Use	Will
+compound	Use	Halt
+root	ROOT	Use
+case	Additive	of
+nmod:of	Use	Additive
+case	Gatorade	in
+nmod:in	Use	Gatorade

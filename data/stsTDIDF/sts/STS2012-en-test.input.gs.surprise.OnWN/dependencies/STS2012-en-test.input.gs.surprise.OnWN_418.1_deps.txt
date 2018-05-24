@@ -1,0 +1,12 @@
+root	ROOT	Fix
+punct	something	-LRB-
+dobj	Fix	something
+amod	something	old
+punct	something	-RRB-
+case	part	with
+det	part	a
+amod	part	new
+nmod:with	something	part
+punct	something	;
+dep	something	improve
+punct	Fix	.

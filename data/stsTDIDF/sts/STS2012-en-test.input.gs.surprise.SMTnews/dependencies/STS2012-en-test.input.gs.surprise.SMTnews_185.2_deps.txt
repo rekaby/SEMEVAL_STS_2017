@@ -1,0 +1,11 @@
+det	time	Each
+root	ROOT	time
+punct	time	,
+case	progress	of
+amod	progress	radical
+amod	progress	technological
+root	,	progress
+acl	progress	leave
+det	threats	these
+dobj	leave	threats
+punct	progress	.

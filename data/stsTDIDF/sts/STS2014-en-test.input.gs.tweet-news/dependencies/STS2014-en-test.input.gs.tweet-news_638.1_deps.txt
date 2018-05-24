@@ -1,0 +1,23 @@
+root	ROOT	War
+case	Evil	on
+nmod:on	War	Evil
+punct	War	?-4) root(ROOT-0, War
+case	Sociopaths	on
+nmod:on	War	Sociopaths
+punct	War	?-4) root(ROOT-0, Banning
+nsubj	sounds	guns
+ccomp	Banning	sounds
+mark	work	like
+nsubj	work	it
+aux	work	will
+advcl	sounds	work
+det	lot	a
+nmod:npmod	better	lot
+advmod	work	better
+case	War	than
+det	War	that
+nmod:than	better	War
+case	stuff	on
+compound	stuff	Drugs
+nmod:on	War	stuff
+punct	Banning	.

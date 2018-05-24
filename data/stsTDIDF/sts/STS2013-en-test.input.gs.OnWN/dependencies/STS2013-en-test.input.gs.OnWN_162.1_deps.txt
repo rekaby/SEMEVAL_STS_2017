@@ -1,0 +1,9 @@
+cop	reason	be
+det	reason	a
+root	ROOT	reason
+punct	reason	,
+conj:or	reason	cause
+punct	reason	,
+cc	reason	or
+conj:or	reason	justification
+acl	justification	of

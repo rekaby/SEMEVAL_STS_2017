@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	red
+nsubj	jumps	dog
+root	ROOT	jumps
+det	catches	an
+dobj	jumps	catches
+det	ball	a
+compound	ball	tennis
+nmod:npmod	catches	ball
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	jumps	mouth
+punct	jumps	.

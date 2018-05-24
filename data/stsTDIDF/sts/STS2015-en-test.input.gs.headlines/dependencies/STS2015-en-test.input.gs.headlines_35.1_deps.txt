@@ -1,0 +1,8 @@
+compound	bomb	Pakistan
+compound	bomb	fighter
+compound	bomb	jets
+compound	hideouts	bomb
+punct	hideouts	`
+compound	hideouts	Taliban
+root	ROOT	hideouts
+case	hideouts	'

@@ -1,0 +1,7 @@
+compound	Chavan	Ankeet
+nsubj	granted	Chavan
+root	ROOT	granted
+amod	bail	conditional
+dobj	granted	bail
+case	marriage	for
+nmod:for	granted	marriage

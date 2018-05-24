@@ -1,0 +1,6 @@
+det	man	The
+nsubj	wears	man
+root	ROOT	wears
+det	pole	a
+amod	pole	green
+dobj	wears	pole

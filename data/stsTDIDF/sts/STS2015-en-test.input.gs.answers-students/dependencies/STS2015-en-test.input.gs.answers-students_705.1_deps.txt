@@ -1,0 +1,5 @@
+neg	contained	not
+root	ROOT	contained
+compound	path	inthe
+amod	path	same
+dobj	contained	path

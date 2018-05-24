@@ -1,0 +1,9 @@
+nummod	floods	38
+acl	38	killed
+case	rains	in
+nmod:in	killed	rains
+punct	floods	,
+compound	floods	flash
+root	ROOT	floods
+case	Pakistan	in
+nmod:in	floods	Pakistan

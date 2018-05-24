@@ -1,0 +1,8 @@
+det	man	The
+nsubj	jogging	man
+cc	man	and
+det	women	the
+conj:and	man	women
+cop	jogging	are
+root	ROOT	jogging
+punct	jogging	.

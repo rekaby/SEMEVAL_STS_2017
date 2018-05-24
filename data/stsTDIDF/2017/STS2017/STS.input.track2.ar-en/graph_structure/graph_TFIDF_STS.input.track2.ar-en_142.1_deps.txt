@@ -1,0 +1,8 @@
+cart	full	amod
+had	woman	nsubj
+woman	older	amod
+cart	a	det
+woman	An	det
+had	cart	dobj
+groceries	of	case
+full	groceries	nmod:of

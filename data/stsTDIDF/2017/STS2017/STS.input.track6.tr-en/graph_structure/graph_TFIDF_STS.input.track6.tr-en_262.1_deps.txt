@@ -1,0 +1,4 @@
+are	shoes	nsubj
+hands	child	nmod:poss
+shoes	some	det
+shoes	hands	nmod:in

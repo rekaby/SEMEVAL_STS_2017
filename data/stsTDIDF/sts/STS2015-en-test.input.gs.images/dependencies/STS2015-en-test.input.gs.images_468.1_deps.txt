@@ -1,0 +1,6 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	grass	on
+det	grass	the
+nmod:on	running	grass

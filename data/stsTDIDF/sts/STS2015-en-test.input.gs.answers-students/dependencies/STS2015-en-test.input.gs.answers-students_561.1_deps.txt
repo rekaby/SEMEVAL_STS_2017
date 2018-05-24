@@ -1,0 +1,16 @@
+expl	gap	there
+aux	gap	will
+cop	gap	be
+det	gap	a
+root	ROOT	gap
+case	b	at
+compound	b	bulb
+nmod:at	gap	b
+punct	gap	,
+advmod	affecting	thus
+acl	gap	affecting
+det	rest	the
+dobj	affecting	rest
+case	circuit	of
+det	circuit	the
+nmod:of	rest	circuit

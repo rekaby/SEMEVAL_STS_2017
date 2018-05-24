@@ -1,0 +1,8 @@
+nsubj	kills	Blast
+root	ROOT	kills
+nummod	girls	10
+amod	girls	young
+dobj	kills	girls
+case	Afghanistan	in
+amod	Afghanistan	eastern
+nmod:in	kills	Afghanistan

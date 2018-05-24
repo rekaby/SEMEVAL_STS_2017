@@ -1,0 +1,9 @@
+det	man	A
+nsubj	pouring	man
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	chili
+case	bowl	into
+det	bowl	a
+nmod:into	pouring	bowl
+punct	pouring	.

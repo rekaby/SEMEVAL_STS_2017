@@ -1,0 +1,7 @@
+nummod	dogs	Four
+root	ROOT	dogs
+acl	dogs	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	dogs	.

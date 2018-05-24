@@ -1,0 +1,11 @@
+advmod	six	only
+nummod	percent	six
+nsubj	read	percent
+case	posters	of
+nmod:of	percent	posters
+aux	read	will
+root	ROOT	read
+det	article	that
+amod	article	entire
+dobj	read	article
+punct	read	.

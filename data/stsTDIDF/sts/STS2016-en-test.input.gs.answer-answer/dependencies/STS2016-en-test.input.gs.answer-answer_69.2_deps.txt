@@ -1,0 +1,17 @@
+compound	answer	Th
+nsubj	is	answer
+case	problem	to
+compound	problem	you
+nmod:to	answer	problem
+root	ROOT	is
+mark	know	that
+nsubj	know	you
+nsubj	know	dont
+advmod	know	actually
+ccomp	is	know
+dobj	getting	what
+nsubj	getting	you
+aux	getting	're
+ccomp	know	getting
+compound:prt	getting	in
+punct	is	.

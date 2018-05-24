@@ -1,0 +1,8 @@
+aux	know	do
+nsubj	know	you
+root	ROOT	know
+nsubj	benefits	who
+ccomp	know	benefits
+case	profits	from
+nmod:from	benefits	profits
+punct	know	?

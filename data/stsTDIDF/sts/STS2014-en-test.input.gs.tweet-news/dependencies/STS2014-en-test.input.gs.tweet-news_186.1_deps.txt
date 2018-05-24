@@ -1,0 +1,22 @@
+advmod	saw	When
+nsubj	saw	i
+amod	saw	first
+advcl	thought	saw
+det	guy	this
+amod	guy	sing
+dobj	saw	guy
+case	subway	on
+det	subway	the
+nmod:on	saw	subway
+punct	thought	,
+nsubj	thought	i
+root	ROOT	thought
+nsubj	needed	he
+ccomp	thought	needed
+det	article	an
+dobj	needed	article
+punct	thought	.-18) cc(delivered-4, And
+nsubj	delivered	NYT
+aux	delivered	has
+root	ROOT	delivered
+punct	delivered	!

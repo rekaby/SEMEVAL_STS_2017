@@ -1,0 +1,12 @@
+amod	calf	Little
+amod	calf	black
+cc	black	and
+conj:and	black	white
+root	ROOT	calf
+case	tag	with
+det	tag	a
+nmod:with	calf	tag
+case	ear	on
+nmod:poss	ear	its
+nmod:on	tag	ear
+punct	calf	.

@@ -1,0 +1,11 @@
+det	bulb	The
+nsubj	path	bulb
+cop	path	is
+neg	path	not
+case	path	in
+det	path	the
+amod	path	closed
+root	ROOT	path
+acl	path	containing
+det	battery	the
+dobj	containing	battery

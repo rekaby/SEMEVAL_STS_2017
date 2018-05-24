@@ -1,0 +1,13 @@
+union	Europe	nmod:poss
+crisis	by	case
+undermined	has	aux
+crisis	sovereign	amod
+crisis	months	nmod:in
+union	monetary	amod
+crisis	debt	compound
+ROOT	undermined	root
+undermined	.	punct
+undermined	been	auxpass
+undermined	badly	advmod
+undermined	crisis	nmod:agent
+undermined	union	nsubjpass

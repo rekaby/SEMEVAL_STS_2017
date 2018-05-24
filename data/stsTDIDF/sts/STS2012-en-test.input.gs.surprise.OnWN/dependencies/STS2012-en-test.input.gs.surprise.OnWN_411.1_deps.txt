@@ -1,0 +1,5 @@
+det	problem	a
+root	ROOT	problem
+punct	problem	,
+appos	problem	something
+amod	something	wrong

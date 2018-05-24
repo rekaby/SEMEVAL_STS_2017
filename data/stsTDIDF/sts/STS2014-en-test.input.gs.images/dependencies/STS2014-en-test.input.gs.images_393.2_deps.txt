@@ -1,0 +1,9 @@
+det	car	A
+root	ROOT	car
+acl	car	parked
+case	tracks	in
+mwe	in	front
+mwe	in	of
+compound	tracks	train
+nmod:in_front_of	parked	tracks
+punct	car	.

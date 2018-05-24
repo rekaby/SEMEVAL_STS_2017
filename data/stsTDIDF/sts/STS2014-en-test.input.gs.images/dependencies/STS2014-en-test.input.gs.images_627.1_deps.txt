@@ -1,0 +1,10 @@
+det	jet	A
+amod	jet	large
+root	ROOT	jet
+case	ground	on
+det	ground	the
+nmod:on	jet	ground
+case	airport	at
+det	airport	the
+nmod:at	jet	airport
+punct	jet	.

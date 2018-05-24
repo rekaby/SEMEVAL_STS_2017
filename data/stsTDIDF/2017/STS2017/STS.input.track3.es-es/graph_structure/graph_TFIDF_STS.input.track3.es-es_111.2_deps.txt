@@ -1,0 +1,8 @@
+dog	Black	amod
+chasing	cat	dobj
+Black	and	cc
+chasing	.	punct
+chasing	is	aux
+ROOT	chasing	root
+chasing	dog	nsubj
+Black	white	conj:and

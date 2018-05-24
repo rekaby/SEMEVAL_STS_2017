@@ -1,0 +1,13 @@
+ways	is	cop
+suburb	a	det
+Tucked	away	advmod
+ways	.	punct
+ROOT	ways	root
+away	flyovers	nmod:under
+suburb	City	nmod:of
+flyovers	under	case
+suburb	itself	nmod:npmod
+ways	suburb	dobj
+flyovers	motorway	compound
+ways	Tucked	advcl
+ways	it	nsubj

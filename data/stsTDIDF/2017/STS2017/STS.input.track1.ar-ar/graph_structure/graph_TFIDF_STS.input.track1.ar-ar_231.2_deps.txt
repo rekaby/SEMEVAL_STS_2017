@@ -1,0 +1,3 @@
+people	car	nmod:in
+people	street	nmod:on
+street	city	compound

@@ -1,0 +1,7 @@
+cop	dog	Being
+det	dog	a
+root	ROOT	dog
+cc	dog	and
+conj:and	dog	holding
+det	ball	a
+dobj	holding	ball

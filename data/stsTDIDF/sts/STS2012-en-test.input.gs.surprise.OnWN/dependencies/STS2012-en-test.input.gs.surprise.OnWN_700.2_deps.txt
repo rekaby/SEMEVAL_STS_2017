@@ -1,0 +1,8 @@
+root	ROOT	travel
+case	velocity	at
+det	velocity	an
+amod	velocity	excessive
+cc	excessive	or
+conj:or	excessive	illegal
+nmod:at	travel	velocity
+punct	travel	.

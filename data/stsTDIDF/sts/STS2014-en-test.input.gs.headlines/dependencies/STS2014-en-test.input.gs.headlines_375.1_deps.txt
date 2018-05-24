@@ -1,0 +1,8 @@
+root	ROOT	NATO
+punct	NATO	:
+nummod	troops	3
+nsubj	attack	troops
+acl	troops	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan
+dep	NATO	attack

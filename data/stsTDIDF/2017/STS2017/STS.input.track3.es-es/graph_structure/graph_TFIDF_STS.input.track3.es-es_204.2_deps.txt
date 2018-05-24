@@ -1,0 +1,10 @@
+stands	dog	nsubj
+stands	man	nmod:next_to
+shorts	shirt	conj:and
+shorts	and	cc
+blue	and	cc
+shorts	in	case
+man	shorts	nmod:in
+blue	white	conj:and
+man	next	case
+shirt	blue	amod

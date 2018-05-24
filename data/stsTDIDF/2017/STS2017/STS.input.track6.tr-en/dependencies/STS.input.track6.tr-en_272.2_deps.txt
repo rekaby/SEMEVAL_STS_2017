@@ -1,0 +1,9 @@
+det	people	Some
+nsubj	doing	people
+aux	doing	are
+root	ROOT	doing
+compound	work	hand
+dobj	doing	work
+mark	sell	to
+advcl	doing	sell
+punct	doing	.

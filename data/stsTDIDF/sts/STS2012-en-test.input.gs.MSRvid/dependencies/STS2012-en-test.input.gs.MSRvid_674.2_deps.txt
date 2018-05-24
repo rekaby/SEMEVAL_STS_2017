@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	talking	woman
+acl	woman	driving
+det	car	a
+dobj	driving	car
+aux	talking	is
+root	ROOT	talking
+case	man	to
+det	man	the
+nmod:to	talking	man
+acl	man	seated
+case	her	beside
+nmod:beside	seated	her
+punct	talking	.

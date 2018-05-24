@@ -1,0 +1,14 @@
+root	ROOT	Nerves
+acl	Nerves	Calmed
+punct	Jump	--
+case	Now	For
+nmod:for	Jump	Now
+punct	Jump	:
+compound	Jump	Markets
+dep	Calmed	Jump
+case	Relief	on
+nmod:on	Jump	Relief
+case	Bailout	over
+compound	Bailout	Spanish
+compound	Bailout	Bank
+nmod:over	Relief	Bailout

@@ -1,0 +1,8 @@
+nsubj	ride	People
+root	ROOT	ride
+dobj	ride	mopeds
+case	setting	in
+det	setting	an
+amod	setting	urban
+nmod:in	ride	setting
+punct	ride	.

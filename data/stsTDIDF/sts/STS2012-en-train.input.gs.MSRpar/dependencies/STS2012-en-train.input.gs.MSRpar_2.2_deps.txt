@@ -1,0 +1,17 @@
+nmod:poss	numbers	Micron
+case	Micron	's
+nsubj	marked	numbers
+advmod	marked	also
+root	ROOT	marked
+det	profit	the
+amod	profit	first
+amod	profit	quarterly
+dobj	marked	profit
+case	years	in
+nummod	years	three
+nmod:in	marked	years
+case	manufacturer	for
+det	manufacturer	the
+compound	manufacturer	DRAM
+nmod:for	years	manufacturer
+punct	marked	.

@@ -1,0 +1,9 @@
+nsubj	dies	Woman
+root	ROOT	dies
+xcomp	dies	riding
+compound	coaster	roller
+dobj	riding	coaster
+case	park	at
+compound	park	Texas
+compound	park	amusement
+nmod:at	riding	park

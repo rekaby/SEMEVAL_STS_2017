@@ -1,0 +1,14 @@
+neg	extortion	No
+root	ROOT	extortion
+punct	extortion	,
+neg	bribery	no
+appos	extortion	bribery
+punct	extortion	,
+neg	money	no
+appos	extortion	money
+acl	money	involved
+advmod	felonies	Only
+compound	felonies	class
+compound	felonies	E
+dobj	involved	felonies
+punct	extortion	.

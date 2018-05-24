@@ -1,0 +1,7 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	are	on
+dobj	are	what
+nsubj	are	they
+advcl	depends	are
+punct	depends	.

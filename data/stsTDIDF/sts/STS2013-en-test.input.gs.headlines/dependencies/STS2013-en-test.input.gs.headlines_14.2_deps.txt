@@ -1,0 +1,6 @@
+nsubj	kills	Teenager
+root	ROOT	kills
+dobj	kills	8
+case	attack	in
+compound	attack	knife
+nmod:in	8	attack

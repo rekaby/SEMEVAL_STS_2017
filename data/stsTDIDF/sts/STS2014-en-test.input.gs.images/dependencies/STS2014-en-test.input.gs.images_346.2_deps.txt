@@ -1,0 +1,16 @@
+det	room	A
+compound	room	living
+root	ROOT	room
+case	sofa	with
+det	sofa	a
+amod	sofa	blue
+nmod:with	room	sofa
+punct	sofa	,
+compound	bed	camp
+conj:and	sofa	bed
+punct	sofa	,
+amod	bench	wooden
+conj:and	sofa	bench
+cc	sofa	and
+conj:and	sofa	dresser
+punct	room	.

@@ -1,0 +1,16 @@
+mark	waiting	While
+advcl	exploded	waiting
+case	squad	for
+det	squad	a
+compound	squad	bomb
+nmod:for	waiting	squad
+mark	arrive	to
+acl	squad	arrive
+punct	exploded	,
+det	bomb	the
+nsubj	exploded	bomb
+root	ROOT	exploded
+punct	exploded	,
+xcomp	exploded	killing
+dobj	killing	Wells
+punct	exploded	.

@@ -1,0 +1,17 @@
+nsubj	need	i
+aux	need	do
+neg	need	n't
+root	ROOT	need
+mark	create	to
+xcomp	need	create
+dobj	create	problems
+case	myself	for
+nmod:for	problems	myself
+punct	need	,
+case	customers	with
+nmod:with	need	customers
+acl	customers	feeling
+nsubj	mislead	they
+cop	mislead	were
+ccomp	feeling	mislead
+punct	need	.

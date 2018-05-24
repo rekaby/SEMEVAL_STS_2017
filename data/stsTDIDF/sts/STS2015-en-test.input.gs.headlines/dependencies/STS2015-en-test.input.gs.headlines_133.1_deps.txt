@@ -1,0 +1,6 @@
+nsubj	crash	Dozens
+acl	Dozens	killed
+case	plane	in
+amod	plane	Russian
+nmod:in	killed	plane
+root	ROOT	crash

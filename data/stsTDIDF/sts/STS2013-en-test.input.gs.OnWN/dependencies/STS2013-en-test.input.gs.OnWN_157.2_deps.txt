@@ -1,0 +1,7 @@
+det	participant	any
+amod	participant	new
+root	ROOT	participant
+case	activity	in
+det	activity	some
+nmod:in	participant	activity
+punct	participant	.

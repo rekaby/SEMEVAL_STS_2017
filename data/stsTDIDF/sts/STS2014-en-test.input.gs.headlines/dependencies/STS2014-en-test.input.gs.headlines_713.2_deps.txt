@@ -1,0 +1,8 @@
+compound	collapse	India
+compound	collapse	building
+nsubj	kills	collapse
+root	ROOT	kills
+dobj	kills	14
+punct	kills	;
+dep	kills	dozens
+acl	dozens	trapped

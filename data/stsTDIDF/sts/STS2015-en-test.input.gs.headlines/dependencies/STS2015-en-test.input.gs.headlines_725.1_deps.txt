@@ -1,0 +1,5 @@
+compound	Games	Tokyo
+case	host	to
+nmod:to	Tokyo	host
+nummod	host	2020
+root	ROOT	Games

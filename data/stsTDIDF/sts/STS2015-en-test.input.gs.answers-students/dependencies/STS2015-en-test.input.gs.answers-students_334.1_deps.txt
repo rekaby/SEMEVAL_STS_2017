@@ -1,0 +1,14 @@
+compound	z	switch
+nsubjpass	closed	z
+auxpass	closed	is
+root	ROOT	closed
+advmod	creates	so
+nsubj	creates	it
+advmod	creates	still
+advcl	closed	creates
+det	path	a
+amod	path	complete
+dobj	creates	path
+case	battery	to
+det	battery	the
+nmod:to	path	battery

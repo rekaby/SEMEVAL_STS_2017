@@ -1,0 +1,10 @@
+root	ROOT	cause
+mark	spread	to
+xcomp	cause	spread
+case	part	in
+det	part	another
+nmod:in	spread	part
+case	world	of
+det	world	the
+nmod:of	part	world
+punct	cause	.

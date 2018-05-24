@@ -1,0 +1,17 @@
+nsubj	found	He
+advmod	found	later
+root	ROOT	found
+case	incident	out
+det	incident	the
+amod	incident	alarming
+nmod:out	found	incident
+aux	caused	had
+auxpass	caused	been
+ccomp	found	caused
+case	boom	by
+nmod:poss	boom	Concorde
+case	Concorde	's
+amod	boom	powerful
+amod	boom	sonic
+nmod:agent	caused	boom
+punct	found	.

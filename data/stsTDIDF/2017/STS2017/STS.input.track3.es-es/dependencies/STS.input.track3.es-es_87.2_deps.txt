@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+case	horse	on
+det	horse	a
+nmod:on	man	horse
+punct	man	.

@@ -1,0 +1,14 @@
+nsubj	denied	Obus
+advmod	denied	also
+root	ROOT	denied
+det	motion	a
+compound	motion	defense
+dobj	denied	motion
+mark	postpone	to
+xcomp	denied	postpone
+det	date	the
+compound	date	Sept.
+nummod	date	29
+compound	date	trial
+dobj	postpone	date
+punct	denied	.

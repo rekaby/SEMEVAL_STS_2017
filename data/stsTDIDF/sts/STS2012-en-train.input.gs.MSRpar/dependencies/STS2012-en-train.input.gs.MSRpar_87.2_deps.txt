@@ -1,0 +1,14 @@
+det	company	The
+nsubj	identified	company
+aux	identified	has
+advmod	identified	publicly
+root	ROOT	identified
+dobj	identified	Linux
+case	one	as
+nmod:as	identified	one
+case	threats	of
+nmod:poss	threats	its
+amod	threats	biggest
+amod	threats	competitive
+nmod:of	one	threats
+punct	identified	.

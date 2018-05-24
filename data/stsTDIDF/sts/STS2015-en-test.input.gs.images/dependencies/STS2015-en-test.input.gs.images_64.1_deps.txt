@@ -1,0 +1,6 @@
+nummod	people	five
+root	ROOT	people
+acl	people	standing
+case	sidewalk	on
+det	sidewalk	a
+nmod:on	standing	sidewalk

@@ -1,0 +1,14 @@
+hall	down	case
+ROOT	Imagine	root
+hall	a	det
+Imagine	looking	xcomp
+cyclist	at	case
+hall	people	nmod:of
+bike	on	case
+cyclist	a	det
+Imagine	.	punct
+looking	cyclist	nmod:at
+cyclist	bike	nmod:on
+cyclist	marathon	compound
+bike	his	nmod:poss
+looking	hall	nmod:down

@@ -1,0 +1,15 @@
+compound	Finder	Site
+nsubjpass	visited	Finder
+aux	visited	has
+auxpass	visited	been
+ccomp	said	visited
+compound	million	65
+nummod	times	million
+dobj	visited	times
+case	introduction	since
+nmod:poss	introduction	its
+nmod:since	visited	introduction
+punct	said	,
+nsubj	said	Galvin
+root	ROOT	said
+punct	said	.

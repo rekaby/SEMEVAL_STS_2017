@@ -1,0 +1,13 @@
+nsubj	laying	Man
+root	ROOT	laying
+case	bench	on
+det	bench	a
+amod	bench	wooden
+nmod:on	laying	bench
+case	people	with
+amod	people	other
+nmod:with	bench	people
+case	background	in
+det	background	the
+nmod:in	laying	background
+punct	laying	.

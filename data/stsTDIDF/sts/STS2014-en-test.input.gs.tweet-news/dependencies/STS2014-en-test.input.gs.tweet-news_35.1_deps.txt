@@ -1,0 +1,7 @@
+advmod	#Vine	How
+amod	video	#Vine
+nsubj	change	video
+aux	change	may
+root	ROOT	change
+compound	#in	Twitter
+dobj	change	#in

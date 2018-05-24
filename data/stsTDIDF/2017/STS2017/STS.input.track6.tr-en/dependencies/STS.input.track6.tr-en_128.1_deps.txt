@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+det	lot	a
+nsubj	are	lot
+case	people	of
+nmod:of	lot	people
+acl	people	riding
+dobj	riding	bikes
+punct	are	.

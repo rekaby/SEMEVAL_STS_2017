@@ -1,0 +1,7 @@
+skiing	mountain	dobj
+mountain	a	det
+skiing	people	nsubj
+skiing	are	aux
+skiing	down	compound:prt
+ROOT	skiing	root
+skiing	.	punct

@@ -1,0 +1,13 @@
+nsubj	used	I
+aux	used	've
+root	ROOT	used
+compound	Pro	Paint
+compound	Pro	Shop
+dobj	used	Pro
+cc	Pro	and
+compound	Pro	DxO
+compound	Pro	Optics
+conj:and	Pro	Pro
+case	Windows	on
+nmod:on	used	Windows
+punct	used	.

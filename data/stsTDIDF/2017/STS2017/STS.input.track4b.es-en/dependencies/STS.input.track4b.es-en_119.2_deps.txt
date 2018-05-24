@@ -1,0 +1,15 @@
+det	PRI	The
+nsubj	ruled	PRI
+root	ROOT	ruled
+dobj	ruled	Mexico
+case	decades	for
+nummod	decades	seven
+nmod:for	ruled	decades
+mark	lost	until
+nsubj	lost	it
+advcl	ruled	lost
+det	presidency	the
+dobj	lost	presidency
+case	2000	in
+nmod:in	lost	2000
+punct	ruled	.

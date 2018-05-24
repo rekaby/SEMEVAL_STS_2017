@@ -1,0 +1,11 @@
+root	ROOT	Romney
+punct	Romney	,
+compound	clash	Obama
+appos	Romney	clash
+case	tax	on
+nmod:on	clash	tax
+punct	tax	,
+conj	tax	economy
+case	debate	in
+amod	debate	first
+nmod:in	tax	debate

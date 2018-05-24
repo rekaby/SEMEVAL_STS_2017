@@ -1,0 +1,14 @@
+nsubj	rose	Revenue
+root	ROOT	rose
+nummod	percent	3.9
+dobj	rose	percent
+punct	rose	,
+case	$	to
+nmod:to	rose	$
+compound	billion	1.63
+nummod	$	billion
+case	$	from
+nmod:from	rose	$
+compound	billion	1.57
+nummod	$	billion
+punct	rose	.

@@ -1,0 +1,10 @@
+root	ROOT	Yahoo!
+mark	name	to
+acl	Yahoo!	name
+nmod:poss	Mayer	Google
+case	Google	's
+dobj	name	Mayer
+case	CEO	as
+nmod:as	name	CEO
+punct	Yahoo!	:
+dep	Yahoo!	report

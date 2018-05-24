@@ -1,0 +1,8 @@
+det	train	A
+nsubj	station	train
+cop	station	is
+case	station	at
+det	station	a
+compound	station	train
+root	ROOT	station
+punct	station	.

@@ -1,0 +1,7 @@
+det	people	Some
+nsubj	wait	people
+root	ROOT	wait
+case	train	for
+det	train	a
+nmod:for	wait	train
+punct	wait	.

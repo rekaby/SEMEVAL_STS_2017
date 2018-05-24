@@ -1,0 +1,6 @@
+cop	contact	be
+case	contact	in
+amod	contact	direct
+amod	contact	physical
+root	ROOT	contact
+advmod	contact	with

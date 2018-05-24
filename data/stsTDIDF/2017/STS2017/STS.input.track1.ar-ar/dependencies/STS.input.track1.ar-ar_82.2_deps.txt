@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+det	group	a
+nsubj	is	group
+case	people	of
+nmod:of	group	people
+case	contest	in
+det	contest	the
+nmod:in	group	contest
+punct	is	.

@@ -1,0 +1,10 @@
+det	kitten	A
+nsubj	playing	kitten
+aux	playing	is
+root	ROOT	playing
+case	toy	with
+det	toy	a
+amod	toy	blue
+compound	toy	rope
+nmod:with	playing	toy
+punct	playing	.

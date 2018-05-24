@@ -1,0 +1,16 @@
+punct	stores	``
+nsubj	stores	They
+aux	stores	've
+cop	stores	been
+case	stores	in
+det	stores	the
+dep	says	stores
+case	weeks	for
+case	weeks	over
+nummod	weeks	six
+nmod:over	stores	weeks
+punct	stores	,
+punct	stores	''
+root	ROOT	says
+nsubj	says	Carney
+punct	says	.

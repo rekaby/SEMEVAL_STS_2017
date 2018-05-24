@@ -1,0 +1,12 @@
+compound	Andrei	@Lustig
+root	ROOT	Andrei
+punct	Andrei	,
+advmod	compatible	So
+compound	Johnson	Lyndon
+nsubj	compatible	Johnson
+cc	Johnson	and
+compound	Kennedy	John
+conj:and	Johnson	Kennedy
+cop	compatible	were
+dep	Andrei	compatible
+punct	Andrei	?

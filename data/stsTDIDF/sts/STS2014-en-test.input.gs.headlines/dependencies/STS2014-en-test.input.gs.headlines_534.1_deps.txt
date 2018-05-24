@@ -1,0 +1,7 @@
+amod	militant	Suspected
+amod	militant	Saudi
+nsubj	dies	militant
+root	ROOT	dies
+case	custody	in
+amod	custody	Lebanese
+nmod:in	dies	custody

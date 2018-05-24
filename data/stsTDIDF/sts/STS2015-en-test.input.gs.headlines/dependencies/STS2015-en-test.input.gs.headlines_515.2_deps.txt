@@ -1,0 +1,6 @@
+amod	jolts	6.7-magnitude
+compound	jolts	earthquake
+root	ROOT	jolts
+dobj	jolts	Taiwan
+punct	jolts	:
+dep	jolts	CENC

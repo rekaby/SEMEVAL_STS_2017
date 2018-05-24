@@ -1,0 +1,8 @@
+nsubj	erupt	Clashes
+root	ROOT	erupt
+mark	push	as
+nsubj	push	Islamists
+advcl	erupt	push
+advmod	push	back
+case	Egypt	in
+nmod:in	push	Egypt

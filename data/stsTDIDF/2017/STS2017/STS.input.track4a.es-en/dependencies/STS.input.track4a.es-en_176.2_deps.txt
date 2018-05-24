@@ -1,0 +1,9 @@
+det	man	The
+nsubj	waited	man
+root	ROOT	waited
+case	night	until
+nmod:until	waited	night
+mark	go	to
+xcomp	waited	go
+dobj	go	home
+punct	waited	.

@@ -1,0 +1,14 @@
+nsubj	paths	b
+cc	b	and
+conj:and	b	c
+aux	paths	will
+cop	paths	be
+case	paths	in
+nmod:poss	paths	their
+amod	paths	own
+amod	paths	closed
+root	ROOT	paths
+case	battery	with
+det	battery	the
+nmod:with	paths	battery
+punct	paths	.

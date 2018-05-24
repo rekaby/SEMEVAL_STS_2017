@@ -1,0 +1,7 @@
+root	ROOT	prove
+mark	false	to
+cop	false	be
+xcomp	prove	false
+cc	false	or
+conj:or	false	incorrect
+punct	prove	.

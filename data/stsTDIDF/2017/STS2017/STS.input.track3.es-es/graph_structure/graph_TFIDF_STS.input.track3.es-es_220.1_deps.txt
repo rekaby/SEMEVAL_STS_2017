@@ -1,0 +1,6 @@
+plays	tuba	dobj
+plays	man	nsubj
+shirt	an	det
+tuba	the	det
+man	shirt	nmod:in
+shirt	orange	amod

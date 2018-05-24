@@ -1,0 +1,7 @@
+followed	girl	nsubjpass
+purple	in	case
+girl	purple	nmod:in
+followed	girl	nmod:agent
+pink	in	case
+girl	pink	nmod:in
+girl	by	case

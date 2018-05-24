@@ -1,0 +1,12 @@
+amod	governments	indian
+cc	indian	and
+conj:and	indian	pakistani
+nsubj	tests	governments
+det	tests	each
+amod	tests	conducted
+amod	tests	nuclear
+root	ROOT	tests
+case	1998	in
+aux	1998	may
+nmod:in	tests	1998
+punct	tests	.

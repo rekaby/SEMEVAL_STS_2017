@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+det	dog	a
+amod	dog	black
+nsubj	jumping	dog
+ccomp	is	jumping
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	jumping	pool
+punct	is	.

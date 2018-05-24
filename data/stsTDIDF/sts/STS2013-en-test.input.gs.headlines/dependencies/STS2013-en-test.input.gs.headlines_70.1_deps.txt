@@ -1,0 +1,8 @@
+compound	East	Middle
+root	ROOT	East
+punct	East	:
+dep	East	Israel
+punct	East	:
+compound	Leader	Hamas
+compound	Convicted	Leader
+dep	East	Convicted

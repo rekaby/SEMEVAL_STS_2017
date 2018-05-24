@@ -1,0 +1,12 @@
+nsubjpass	charged	Bryant
+punct	Bryant	,
+appos	Bryant	24
+punct	Bryant	,
+aux	charged	has
+auxpass	charged	been
+root	ROOT	charged
+case	assault	with
+compound	assault	felony
+amod	assault	sexual
+nmod:with	charged	assault
+punct	charged	.

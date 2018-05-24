@@ -1,0 +1,14 @@
+dep	hospitalized	One
+punct	hospitalized	,
+compound	McDonald	Capt.
+compound	McDonald	Doug
+nsubjpass	hospitalized	McDonald
+punct	McDonald	,
+auxpass	hospitalized	remained
+root	ROOT	hospitalized
+case	condition	in
+amod	condition	critical
+nmod:in	hospitalized	condition
+case	Thursday	on
+nmod:on	condition	Thursday
+punct	hospitalized	.

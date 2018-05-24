@@ -1,0 +1,11 @@
+det	man	A
+nsubj	wiping	man
+aux	wiping	is
+root	ROOT	wiping
+det	edge	the
+dobj	wiping	edge
+case	bowl	of
+det	bowl	a
+nmod:of	edge	bowl
+compound:prt	wiping	off
+punct	wiping	.

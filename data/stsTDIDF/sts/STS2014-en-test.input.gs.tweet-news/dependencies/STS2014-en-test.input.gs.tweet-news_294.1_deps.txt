@@ -1,0 +1,16 @@
+root	ROOT	NYT
+case	Swartz	on
+compound	Swartz	Aaron
+nmod:on	NYT	Swartz
+punct	NYT	:
+compound	Crusader	A
+compound	Crusader	Data
+dep	NYT	Crusader
+punct	Crusader	,
+det	Defendant	a
+appos	Crusader	Defendant
+cc	Defendant	and
+advmod	Cause	Now
+punct	Cause	,
+det	Cause	a
+conj:and	Defendant	Cause

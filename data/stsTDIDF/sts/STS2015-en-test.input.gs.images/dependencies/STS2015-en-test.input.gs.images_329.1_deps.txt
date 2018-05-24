@@ -1,0 +1,13 @@
+det	girl	The
+nsubj	playing	girl
+aux	playing	is
+root	ROOT	playing
+compound:prt	playing	along
+case	images	with
+det	images	the
+nmod:with	playing	images
+case	screen	on
+det	screen	the
+amod	screen	big
+nmod:on	images	screen
+punct	playing	.

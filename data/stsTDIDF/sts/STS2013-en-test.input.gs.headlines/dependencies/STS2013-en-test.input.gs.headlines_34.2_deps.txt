@@ -1,0 +1,9 @@
+amod	forms	Tropical
+compound	forms	Storm
+compound	forms	Joyce
+nsubj	stays	forms
+punct	stays	,
+root	ROOT	stays
+case	Atlantic	in
+amod	Atlantic	open
+nmod:in	stays	Atlantic

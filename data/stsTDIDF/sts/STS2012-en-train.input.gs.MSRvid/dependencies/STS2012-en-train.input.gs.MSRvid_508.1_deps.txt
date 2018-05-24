@@ -1,0 +1,10 @@
+det	person	A
+nsubj	rinsing	person
+aux	rinsing	is
+root	ROOT	rinsing
+det	steak	a
+dobj	rinsing	steak
+compound:prt	rinsing	off
+case	water	with
+nmod:with	rinsing	water
+punct	rinsing	.

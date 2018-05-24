@@ -1,0 +1,16 @@
+root	ROOT	Time
+case	Season	of
+det	Season	the
+nmod:of	Time	Season
+case	Zombies	by
+det	Zombies	the
+nmod:by	Time	Zombies
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Zombies	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Time	.

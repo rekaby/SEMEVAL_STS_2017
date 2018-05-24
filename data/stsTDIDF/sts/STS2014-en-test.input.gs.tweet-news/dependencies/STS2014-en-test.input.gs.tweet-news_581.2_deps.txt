@@ -1,0 +1,8 @@
+compound	bullying	Allergy
+root	ROOT	bullying
+punct	bullying	:
+advmod	weapon	When
+nsubj	weapon	food
+cop	weapon	is
+det	weapon	a
+dep	bullying	weapon

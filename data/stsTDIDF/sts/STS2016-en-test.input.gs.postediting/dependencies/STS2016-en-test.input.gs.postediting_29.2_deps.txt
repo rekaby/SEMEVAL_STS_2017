@@ -1,0 +1,12 @@
+nsubj	facilitate	What
+dep	facilitate	good
+advmod	facilitate	then
+mark	facilitate	to
+root	ROOT	facilitate
+det	advent	the
+dobj	facilitate	advent
+case	competitor	of
+det:predet	competitor	such
+det	competitor	a
+nmod:of	advent	competitor
+punct	facilitate	?

@@ -1,0 +1,16 @@
+nsubj	able	I
+cop	able	'm
+neg	able	not
+advmod	able	yet
+root	ROOT	able
+mark	answer	to
+xcomp	able	answer
+mark	has	if
+det	phenomenon	the
+nsubj	has	phenomenon
+advcl	answer	has
+det	name	an
+amod	name	official
+compound	name	PoliSci
+dobj	has	name
+punct	able	.

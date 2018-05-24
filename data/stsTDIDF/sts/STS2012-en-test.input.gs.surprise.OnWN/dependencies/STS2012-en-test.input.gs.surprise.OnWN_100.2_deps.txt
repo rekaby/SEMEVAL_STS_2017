@@ -1,0 +1,15 @@
+det	loss	a
+root	ROOT	loss
+acl	loss	entailed
+mark	giving	by
+advcl	entailed	giving
+compound:prt	giving	up
+cc	giving	or
+conj:or	giving	selling
+dobj	selling	something
+case	value	at
+case	value	less
+mwe	less	than
+nmod:poss	value	its
+nmod:less_than	selling	value
+punct	loss	.

@@ -1,0 +1,6 @@
+root	ROOT	10
+acl	10	killed
+case	attack	in
+compound	attack	Iraq
+compound	attack	bomb
+nmod:in	killed	attack

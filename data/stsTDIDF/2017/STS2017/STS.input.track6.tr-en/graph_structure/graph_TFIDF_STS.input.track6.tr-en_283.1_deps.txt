@@ -1,0 +1,6 @@
+wearing	opposing	xcomp
+fight	fist	compound
+men	wearing	acl
+getting	fight	nmod:in
+getting	men	nsubj
+opposing	jerseys	dobj

@@ -1,0 +1,17 @@
+compound	shares	Vivendi
+nsubj	closed	shares
+root	ROOT	closed
+nummod	percent	1.9
+dobj	closed	percent
+case	euros	at
+nummod	euros	15.80
+nmod:at	closed	euros
+case	Paris	in
+nmod:in	euros	Paris
+mark	falling	after
+advcl	closed	falling
+nummod	percent	3.6
+dobj	falling	percent
+case	Monday	on
+nmod:on	falling	Monday
+punct	closed	.

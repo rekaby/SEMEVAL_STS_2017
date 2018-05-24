@@ -1,0 +1,8 @@
+compound	raid	Russia
+dobj	raid	detains
+amod	militants	suspected
+amod	militants	Islamist
+nsubj	raid	militants
+case	Moscow	in
+nmod:in	militants	Moscow
+root	ROOT	raid

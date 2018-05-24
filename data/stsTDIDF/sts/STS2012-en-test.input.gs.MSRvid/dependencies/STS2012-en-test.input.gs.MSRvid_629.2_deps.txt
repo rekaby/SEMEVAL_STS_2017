@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	putting	girl
+aux	putting	is
+root	ROOT	putting
+compound:prt	putting	on
+compound	makeup	eye
+dobj	putting	makeup
+punct	putting	.

@@ -1,0 +1,10 @@
+root	ROOT	`
+compound	Diaries	Vampire
+nmod:poss	pilot	Diaries
+case	Diaries	'
+compound	pilot	spinoff
+root	`	pilot
+acl	pilot	coming
+case	CW	to
+det	CW	The
+nmod:to	coming	CW

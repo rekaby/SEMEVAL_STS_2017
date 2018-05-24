@@ -1,0 +1,9 @@
+kids	two	nummod
+kids	The	det
+shop	subway	compound
+sold	shop	nmod:inside
+look	products	nmod:at
+products	at	case
+shop	inside	case
+look	kids	nsubj
+look	sold	xcomp

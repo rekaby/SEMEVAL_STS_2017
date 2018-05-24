@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+compound:prt	slicing	up
+det	pork	some
+dobj	slicing	pork
+punct	slicing	.

@@ -1,0 +1,10 @@
+surf	out	case
+walks	boy	nsubj
+beach	onto	case
+walks	beach	conj:and
+oar	with	case
+boy	oar	nmod:with
+walks	surf	nmod:out_of
+oar	an	det
+surf	the	det
+walks	and	cc

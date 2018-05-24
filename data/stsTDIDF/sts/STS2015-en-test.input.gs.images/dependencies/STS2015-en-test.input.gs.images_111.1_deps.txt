@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	little
+nsubj	holds	girl
+root	ROOT	holds
+det	stick	a
+amod	stick	wooden
+dobj	holds	stick
+punct	holds	.

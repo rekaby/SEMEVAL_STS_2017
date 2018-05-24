@@ -1,0 +1,6 @@
+men	sitting	acl
+doorway	in	case
+sitting	doorway	nmod:in
+working	something	nmod:on
+doorway	a	det
+doorway	working	acl

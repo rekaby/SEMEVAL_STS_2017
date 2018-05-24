@@ -1,0 +1,10 @@
+amod	official	Senior
+compound	official	CPC
+nsubj	meets	official
+root	ROOT	meets
+amod	leader	top
+compound	leader	DPRK
+nmod:poss	envoy	leader
+case	leader	's
+amod	envoy	special
+dobj	meets	envoy

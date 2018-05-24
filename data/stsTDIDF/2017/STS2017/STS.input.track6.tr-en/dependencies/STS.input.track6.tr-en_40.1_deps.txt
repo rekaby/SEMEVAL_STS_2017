@@ -1,0 +1,7 @@
+det	dogs	Both
+nsubj	have	dogs
+root	ROOT	have
+det	toy	a
+amod	toy	red
+dobj	have	toy
+punct	have	.

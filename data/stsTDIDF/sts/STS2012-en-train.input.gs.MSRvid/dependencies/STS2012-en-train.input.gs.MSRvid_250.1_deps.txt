@@ -1,0 +1,9 @@
+det	lady	The
+nsubj	put	lady
+root	ROOT	put
+det	int	the
+compound	int	baby
+dobj	put	int
+det	trashcan	a
+nmod:npmod	int	trashcan
+punct	put	.

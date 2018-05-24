@@ -1,0 +1,16 @@
+nsubj	loss	It
+cop	loss	was
+det	loss	the
+amod	loss	biggest
+root	ROOT	loss
+case	points	of
+nmod:of	loss	points
+case	space	in
+det	space	the
+nmod:in	points	space
+case	day	of
+det	day	a
+nmod:of	space	day
+case	history	in
+nmod:in	day	history
+punct	loss	.

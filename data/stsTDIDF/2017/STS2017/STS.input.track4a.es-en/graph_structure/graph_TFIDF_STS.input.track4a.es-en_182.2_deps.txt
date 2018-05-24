@@ -1,0 +1,6 @@
+puts	up	compound:prt
+puts	Man	nsubj
+puts	desk	nmod:on
+desk	on	case
+puts	feet	dobj
+desk	a	det

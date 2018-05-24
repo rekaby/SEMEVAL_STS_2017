@@ -1,0 +1,7 @@
+compound	stocks	Hong
+compound	stocks	Kong
+nsubj	open	stocks
+root	ROOT	open
+nummod	pct	0.62
+nmod:npmod	higher	pct
+advmod	open	higher

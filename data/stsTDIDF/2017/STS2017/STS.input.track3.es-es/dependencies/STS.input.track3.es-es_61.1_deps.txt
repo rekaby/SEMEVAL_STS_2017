@@ -1,0 +1,9 @@
+det	stranger	A
+nsubj	sleeping	stranger
+aux	sleeping	is
+root	ROOT	sleeping
+case	gallery	in
+det	gallery	an
+compound	gallery	art
+nmod:in	sleeping	gallery
+punct	sleeping	.

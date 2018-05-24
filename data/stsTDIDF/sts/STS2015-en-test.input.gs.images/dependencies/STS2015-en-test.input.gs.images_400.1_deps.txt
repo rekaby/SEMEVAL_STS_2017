@@ -1,0 +1,8 @@
+root	ROOT	Woman
+dep	Woman	playing
+dobj	playing	tennis
+cc	playing	and
+conj:and	playing	hitting
+det	ball	the
+dobj	hitting	ball
+punct	Woman	.

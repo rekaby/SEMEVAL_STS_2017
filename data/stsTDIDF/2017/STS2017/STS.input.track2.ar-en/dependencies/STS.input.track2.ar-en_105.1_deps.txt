@@ -1,0 +1,12 @@
+root	ROOT	Group
+case	men	of
+amod	men	black
+nmod:of	Group	men
+acl	men	loading
+dobj	loading	luggage
+case	top	onto
+det	top	the
+nmod:onto	loading	top
+case	bus	of
+det	bus	a
+nmod:of	top	bus

@@ -1,0 +1,12 @@
+root	ROOT	Move
+cc	Move	or
+conj:or	Move	cause
+mark	move	to
+xcomp	cause	move
+case	movement	with
+det	movement	a
+amod	movement	sudden
+punct	movement	,
+amod	movement	jerky
+nmod:with	move	movement
+punct	Move	.

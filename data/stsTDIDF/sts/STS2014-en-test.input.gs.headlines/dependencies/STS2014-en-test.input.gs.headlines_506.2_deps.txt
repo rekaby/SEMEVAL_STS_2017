@@ -1,0 +1,8 @@
+amod	MP	Nigerian
+nsubj	charged	MP
+root	ROOT	charged
+mark	accepting	with
+advcl	charged	accepting
+amod	bribe	$
+nummod	$	3m
+dobj	accepting	bribe

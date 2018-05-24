@@ -1,0 +1,7 @@
+root	ROOT	Profiles
+case	candidates	of
+nmod:poss	candidates	Egypt
+case	Egypt	's
+amod	candidates	main
+amod	candidates	presidential
+nmod:of	Profiles	candidates

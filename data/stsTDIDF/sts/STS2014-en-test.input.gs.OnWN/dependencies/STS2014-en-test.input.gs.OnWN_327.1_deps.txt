@@ -1,0 +1,7 @@
+root	ROOT	signify
+cc	signify	or
+conj:or	signify	mean
+mark	express	to
+xcomp	mean	express
+cc	express	or
+conj:or	express	convey

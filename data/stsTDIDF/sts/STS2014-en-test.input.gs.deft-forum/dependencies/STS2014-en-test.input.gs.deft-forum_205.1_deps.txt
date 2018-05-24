@@ -1,0 +1,11 @@
+nsubj	believe	We
+nsubj	believe	all
+root	ROOT	believe
+mark	getting	that
+nsubj	getting	we
+aux	getting	are
+ccomp	believe	getting
+dobj	expect	what
+nsubj	expect	we
+ccomp	getting	expect
+punct	believe	.

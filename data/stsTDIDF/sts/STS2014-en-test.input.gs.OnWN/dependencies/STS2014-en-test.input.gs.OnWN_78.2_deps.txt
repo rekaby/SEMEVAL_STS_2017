@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	go	to
+xcomp	cause	go
+case	solution	into
+det	solution	a
+nmod:into	go	solution
+punct	cause	.

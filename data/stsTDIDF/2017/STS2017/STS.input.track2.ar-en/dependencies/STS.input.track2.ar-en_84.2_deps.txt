@@ -1,0 +1,14 @@
+det	man	A
+nsubj	uses	man
+root	ROOT	uses
+det	wheelchair	a
+dobj	uses	wheelchair
+acl	wheelchair	talking
+case	field	in
+det	field	a
+nmod:in	talking	field
+case	women	for
+det	women	a
+amod	women	few
+nmod:for	talking	women
+punct	uses	.

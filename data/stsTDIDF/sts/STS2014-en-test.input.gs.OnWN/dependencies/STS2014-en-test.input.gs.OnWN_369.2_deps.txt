@@ -1,0 +1,9 @@
+det	act	an
+root	ROOT	act
+case	delaying	of
+nmod:of	act	delaying
+cc	act	or
+conj:or	act	interrupting
+det	continuity	the
+dobj	interrupting	continuity
+punct	act	.

@@ -1,0 +1,17 @@
+advmod	accused	However
+punct	accused	,
+det	Americans	the
+nsubj	accused	Americans
+aux	accused	have
+root	ROOT	accused
+dobj	accused	that
+amod	%	lower
+nummod	%	5.2
+dep	that	%
+case	9	between
+nmod:between	%	9
+cc	%	and
+case	May	on
+nummod	May	24
+conj:and	%	May
+punct	accused	.

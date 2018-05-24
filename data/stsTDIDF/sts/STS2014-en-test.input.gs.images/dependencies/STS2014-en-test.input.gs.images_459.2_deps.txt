@@ -1,0 +1,8 @@
+compound	puppy	Tan
+nsubj	lying	puppy
+root	ROOT	lying
+compound:prt	lying	down
+case	carpeting	on
+amod	carpeting	white
+nmod:on	lying	carpeting
+punct	lying	.

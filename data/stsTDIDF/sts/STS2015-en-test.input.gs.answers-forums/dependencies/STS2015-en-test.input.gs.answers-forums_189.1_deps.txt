@@ -1,0 +1,15 @@
+nmod:poss	experience	My
+nsubj	has	experience
+case	Danios	with
+nmod:with	experience	Danios
+root	ROOT	has
+mark	fish	that
+nsubj	fish	they
+advmod	fish	always
+aux	fish	have
+cop	fish	been
+punct	fish	``
+compound	fish	bossy
+punct	fish	''
+ccomp	has	fish
+punct	has	.

@@ -1,0 +1,11 @@
+det	action	The
+root	ROOT	action
+mark	opposing	of
+acl	action	opposing
+det	force	some
+amod	force	other
+amod	force	social
+cc	social	or
+conj:or	social	military
+dobj	opposing	force
+punct	action	.

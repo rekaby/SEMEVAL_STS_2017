@@ -1,0 +1,18 @@
+compound	violence	Gun
+nsubj	issue	violence
+cop	issue	is
+amod	issue	absolute
+det	issue	a
+amod	issue	#publichealth
+root	ROOT	issue
+punct	issue	.-8) amod(work-2, Good
+root	ROOT	work
+punct	work	,
+case	reform	on
+nmod:poss	reform	your
+compound	reform	gun
+nmod:on	,	reform
+case	generation	for
+det	generation	a
+nmod:for	reform	generation
+dep	generation	#itsastart

@@ -1,0 +1,8 @@
+nsubj	Opens	Jordan
+root	ROOT	Opens
+amod	Camp	First
+compound	Camp	Tent
+dobj	Opens	Camp
+case	Refugees	for
+amod	Refugees	Syrian
+nmod:for	Camp	Refugees

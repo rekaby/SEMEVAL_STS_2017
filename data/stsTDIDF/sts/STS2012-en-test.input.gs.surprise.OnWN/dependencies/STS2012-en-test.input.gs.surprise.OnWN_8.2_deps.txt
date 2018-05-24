@@ -1,0 +1,9 @@
+compound	limits	place
+root	ROOT	limits
+case	extent	on
+punct	extent	-LRB-
+nmod:on	limits	extent
+cc	extent	or
+conj:or	extent	access
+punct	extent	-RRB-
+punct	limits	.

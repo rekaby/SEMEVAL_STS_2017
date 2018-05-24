@@ -1,0 +1,10 @@
+ROOT	earning	root
+earning	.	punct
+earning	boys	nsubj
+belt	their	nmod:poss
+earning	karate	nmod:in
+karate	in	case
+belt	next	amod
+earning	are	aux
+earning	belt	dobj
+boys	The	det

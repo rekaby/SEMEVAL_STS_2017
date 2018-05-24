@@ -1,0 +1,9 @@
+compound	Raids	Egypt
+compound	Raids	Army
+compound	Raids	Launches
+compound	Raids	New
+compound	Raids	Air
+nsubj	Militants	Raids
+case	Sinai	on
+nmod:on	Raids	Sinai
+root	ROOT	Militants

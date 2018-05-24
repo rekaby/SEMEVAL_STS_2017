@@ -1,0 +1,13 @@
+nsubj	work	Everyone
+nsubj	works	who
+acl:relcl	Everyone	works
+cop	work	are
+advmod	work	currently
+amod	work	obtiendraient
+amod	work	undeclared
+root	ROOT	work
+case	conditions	in
+amod	conditions	decent
+amod	conditions	social
+nmod:in	work	conditions
+punct	work	.

@@ -1,0 +1,12 @@
+root	ROOT	Part
+punct	Part	,
+conj:or	Part	cease
+punct	Part	,
+cc	Part	or
+compound	association	break
+conj:or	Part	association
+case	something	with
+punct	something	-LRB-
+nmod:with	association	something
+punct	something	-RRB-
+punct	Part	.

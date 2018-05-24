@@ -1,0 +1,13 @@
+nmod:poss	opinion	My
+nsubj	is	opinion
+root	ROOT	is
+mark	wait	to
+xcomp	is	wait
+case	child	for
+det	child	the
+nmod:for	wait	child
+mark	ask	to
+xcomp	wait	ask
+case	it	for
+nmod:for	ask	it
+punct	is	.

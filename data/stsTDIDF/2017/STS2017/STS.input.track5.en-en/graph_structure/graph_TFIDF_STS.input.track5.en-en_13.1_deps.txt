@@ -1,0 +1,4 @@
+person	young	amod
+thought	in	case
+person	deep	amod
+deep	thought	nmod:in

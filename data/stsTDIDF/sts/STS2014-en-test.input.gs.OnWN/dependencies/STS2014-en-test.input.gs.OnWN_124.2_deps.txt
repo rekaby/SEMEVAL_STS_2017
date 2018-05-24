@@ -1,0 +1,9 @@
+root	ROOT	pay
+amod	attention	unsolicited
+cc	unsolicited	and
+advmod	unwanted	usually
+conj:and	unsolicited	unwanted
+amod	attention	sexual
+dobj	pay	attention
+dep	pay	to
+punct	pay	.

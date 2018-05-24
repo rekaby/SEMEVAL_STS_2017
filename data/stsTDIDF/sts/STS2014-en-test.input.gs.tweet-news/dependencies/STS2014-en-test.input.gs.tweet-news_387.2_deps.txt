@@ -1,0 +1,11 @@
+amod	Athletes	Disabled
+nsubj	Suit	Athletes
+root	ROOT	Suit
+compound:prt	Suit	Up
+punct	Suit	,
+compound	Questions	Raising
+conj	Suit	Questions
+case	Logistics	of
+nmod:of	Questions	Logistics
+cc	Logistics	and
+conj:and	Logistics	Fairness

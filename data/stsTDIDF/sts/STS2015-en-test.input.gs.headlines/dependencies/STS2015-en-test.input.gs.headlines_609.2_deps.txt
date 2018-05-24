@@ -1,0 +1,6 @@
+compound	Killed	Sky
+compound	Killed	News
+compound	Killed	Cameraman
+root	ROOT	Killed
+case	Egypt	In
+nmod:in	Killed	Egypt

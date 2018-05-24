@@ -1,0 +1,7 @@
+case	numbers	By
+root	ROOT	numbers
+punct	numbers	:
+dep	numbers	Women
+case	military	in
+compound	military	U.S.
+nmod:in	Women	military

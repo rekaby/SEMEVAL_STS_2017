@@ -1,0 +1,8 @@
+compound	Syria	Ban
+compound	Syria	Warns
+nsubj	Strikes	Syria
+root	ROOT	Strikes
+aux	Worsen	Could
+ccomp	Strikes	Worsen
+compound	Violence	Sectarian
+dobj	Worsen	Violence

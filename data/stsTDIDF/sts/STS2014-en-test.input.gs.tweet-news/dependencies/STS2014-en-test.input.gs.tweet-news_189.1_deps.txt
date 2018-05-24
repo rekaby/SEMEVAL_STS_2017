@@ -1,0 +1,10 @@
+compound	#Doctors	#New
+compound	#Doctors	York
+compound	#Doctors	City
+compound	#Doctors	Ties
+root	ROOT	#Doctors
+punct	#Doctors	?-6) root(ROOT-0, #Income
+case	#Quality	to
+nmod:to	#Income	#Quality
+case	#Care	of
+nmod:of	#Quality	#Care

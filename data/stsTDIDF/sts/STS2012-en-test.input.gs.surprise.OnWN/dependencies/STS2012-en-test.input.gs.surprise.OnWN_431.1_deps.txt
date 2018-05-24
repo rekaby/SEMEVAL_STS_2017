@@ -1,0 +1,8 @@
+det	part	the
+amod	part	hard
+amod	part	upper
+root	ROOT	part
+case	nose	of
+det	nose	the
+amod	nose	human
+nmod:of	part	nose

@@ -1,0 +1,5 @@
+compound	shares	KL
+root	ROOT	shares
+amod	shares	higher
+case	mid-afternoon	at
+nmod:at	higher	mid-afternoon

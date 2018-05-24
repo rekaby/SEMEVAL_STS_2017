@@ -1,0 +1,7 @@
+amod	people	Several
+nsubj	carrying	people
+aux	carrying	are
+root	ROOT	carrying
+amod	bags	large
+dobj	carrying	bags
+punct	carrying	.

@@ -1,0 +1,7 @@
+root	ROOT	make
+det	clicking	a
+dobj	make	clicking
+cc	clicking	or
+compound	sound	ticking
+conj:or	clicking	sound
+punct	make	.

@@ -1,0 +1,15 @@
+nsubj	man	This
+cop	man	is
+det	man	a
+root	ROOT	man
+acl	man	riding
+det	bike	a
+compound	bike	mountain
+dobj	riding	bike
+case	rocks	over
+nmod:over	riding	rocks
+case	day	on
+det	day	a
+amod	day	clear
+nmod:on	riding	day
+punct	man	.

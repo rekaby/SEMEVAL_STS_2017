@@ -1,0 +1,7 @@
+root	ROOT	DealBook
+punct	DealBook	:
+compound	Exchanges	Stock
+nsubj	Prepare	Exchanges
+dep	DealBook	Prepare
+mark	Open	to
+xcomp	Prepare	Open

@@ -1,0 +1,9 @@
+advmod	blowing	Why
+aux	blowing	is
+nmod:poss	furnace	my
+nsubj	blowing	furnace
+root	ROOT	blowing
+amod	air	hot
+dobj	blowing	air
+advmod	blowing	outside
+punct	blowing	?

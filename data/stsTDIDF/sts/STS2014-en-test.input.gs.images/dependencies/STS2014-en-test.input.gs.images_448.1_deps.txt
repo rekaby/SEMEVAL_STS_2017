@@ -1,0 +1,11 @@
+det	cat	A
+compound	cat	orange
+cc	orange	and
+conj:and	orange	white
+root	ROOT	cat
+advmod	cat	asleep
+case	chair	on
+det	chair	a
+compound	chair	leather
+nmod:on	asleep	chair
+punct	cat	.

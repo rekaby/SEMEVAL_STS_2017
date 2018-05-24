@@ -1,0 +1,7 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+compound:prt	walks	down
+det	staircase	a
+dobj	walks	staircase
+punct	walks	.

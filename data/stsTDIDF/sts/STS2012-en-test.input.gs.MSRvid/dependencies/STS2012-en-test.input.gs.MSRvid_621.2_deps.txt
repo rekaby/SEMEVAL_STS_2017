@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	pulling	woman
+aux	pulling	is
+root	ROOT	pulling
+det	kind	some
+dobj	pulling	kind
+case	goo	of
+amod	goo	sticky
+nmod:of	kind	goo
+case	bowl	out
+mwe	out	of
+det	bowl	a
+nmod:out_of	pulling	bowl
+punct	pulling	.

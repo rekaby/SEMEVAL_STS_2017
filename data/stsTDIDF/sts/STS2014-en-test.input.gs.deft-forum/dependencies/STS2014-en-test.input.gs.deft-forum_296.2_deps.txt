@@ -1,0 +1,13 @@
+advmod	long	How
+root	ROOT	long
+mark	bother	after
+det	obliteration	the
+nsubj	bother	obliteration
+aux	bother	should
+nsubj	bother	it
+neg	longer	no
+advmod	bother	longer
+advcl	long	bother
+det	kid	the
+dobj	bother	kid
+punct	long	?

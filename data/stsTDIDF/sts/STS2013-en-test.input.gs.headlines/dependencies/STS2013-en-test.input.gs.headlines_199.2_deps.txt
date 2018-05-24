@@ -1,0 +1,11 @@
+compound	stocks	US
+nsubj	slip	stocks
+root	ROOT	slip
+case	Street	on
+compound	Street	Wall
+nmod:on	slip	Street
+mark	drag	as
+amod	talks	Greek
+nsubj	drag	talks
+advcl	slip	drag
+dep	slip	on

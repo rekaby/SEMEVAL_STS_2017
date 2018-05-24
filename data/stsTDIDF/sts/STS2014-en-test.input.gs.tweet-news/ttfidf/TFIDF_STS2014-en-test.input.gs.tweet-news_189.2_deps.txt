@@ -1,0 +1,12 @@
+compound Hospitals New	14.367292599215348
+compound Hospitals York	14.367292599215348
+compound Hospitals City	14.367292599215348
+root ROOT Hospitals	14.367292599215348
+mark Tie to	14.367292599215348
+acl Hospitals Tie	14.367292599215348
+dobj Tie Doctors	14.367292599215348
+punct Hospitals ?-8) nsubj(Pay-2, Performance	14.367292599215348
+case Measures to	14.367292599215348
+compound Measures Quality	14.367292599215348
+nmod:to Pay Measures	14.367292599215348
+root ROOT Pay	11.882385949427348

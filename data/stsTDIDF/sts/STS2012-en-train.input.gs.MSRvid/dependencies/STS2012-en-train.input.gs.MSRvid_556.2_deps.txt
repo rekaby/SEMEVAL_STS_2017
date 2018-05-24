@@ -1,0 +1,5 @@
+det	person	A
+nsubj	makes	person
+root	ROOT	makes
+dobj	makes	fire
+punct	makes	.

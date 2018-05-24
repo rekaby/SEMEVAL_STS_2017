@@ -1,0 +1,9 @@
+det	kitchen	A
+root	ROOT	kitchen
+case	cabinets	with
+compound	cabinets	wood
+nmod:with	kitchen	cabinets
+cc	cabinets	and
+compound	table	dining
+conj:and	cabinets	table
+punct	kitchen	.

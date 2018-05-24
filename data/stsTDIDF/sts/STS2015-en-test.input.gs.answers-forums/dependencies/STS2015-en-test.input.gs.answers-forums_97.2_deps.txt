@@ -1,0 +1,13 @@
+nsubj	seen	I
+aux	seen	've
+root	ROOT	seen
+dobj	seen	guys
+nsubj	flexable	that
+cop	flexable	are
+advmod	flexable	still
+advmod	flexable	very
+acl:relcl	guys	flexable
+mark	lifting	while
+advcl	flexable	lifting
+dobj	lifting	weights
+punct	seen	.

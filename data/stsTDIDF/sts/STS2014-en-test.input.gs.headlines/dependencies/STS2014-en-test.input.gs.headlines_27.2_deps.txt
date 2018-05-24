@@ -1,0 +1,6 @@
+compound	Defects	Afghan
+compound	Defects	District
+compound	Defects	Governor
+root	ROOT	Defects
+case	Taliban	To
+nmod:to	Defects	Taliban

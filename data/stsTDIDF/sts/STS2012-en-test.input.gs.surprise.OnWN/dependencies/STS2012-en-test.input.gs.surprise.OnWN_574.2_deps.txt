@@ -1,0 +1,8 @@
+root	ROOT	behave
+case	patronizing	in
+det	patronizing	a
+nmod:in	behave	patronizing
+cc	patronizing	and
+amod	manner	condescending
+conj:and	patronizing	manner
+punct	behave	.

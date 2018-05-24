@@ -1,0 +1,7 @@
+det	team	A
+compound	team	football
+nsubj	watching	team
+aux	watching	is
+root	ROOT	watching
+dobj	watching	baseball
+punct	watching	.

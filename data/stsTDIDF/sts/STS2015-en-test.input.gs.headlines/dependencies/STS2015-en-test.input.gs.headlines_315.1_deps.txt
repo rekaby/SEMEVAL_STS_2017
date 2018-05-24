@@ -1,0 +1,9 @@
+nsubj	praises	Russia
+root	ROOT	praises
+dobj	praises	idea
+mark	render	to
+advcl	praises	render
+compound	assistance	rights
+dobj	render	assistance
+case	Ukraine	to
+nmod:to	render	Ukraine

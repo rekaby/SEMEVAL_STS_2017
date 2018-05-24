@@ -1,0 +1,10 @@
+nmod:poss	Stage	Brazil
+case	Brazil	's
+punct	Stage	`
+compound	Priest	Pop-Star
+nsubj	Stage	Priest
+case	Priest	'
+cop	Stage	Gets
+compound	Stage	Mammoth
+compound	Stage	New
+root	ROOT	Stage

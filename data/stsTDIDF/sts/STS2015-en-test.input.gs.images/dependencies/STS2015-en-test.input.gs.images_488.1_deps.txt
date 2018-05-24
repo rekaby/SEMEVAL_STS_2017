@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+case	collar	with
+det	collar	a
+amod	collar	blue
+nmod:with	dog	collar
+aux	running	is
+root	ROOT	running
+case	snow	in
+det	snow	the
+nmod:in	running	snow
+punct	running	.

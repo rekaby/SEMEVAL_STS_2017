@@ -1,0 +1,14 @@
+nummod	sheep	Two
+nsubj	standing	sheep
+aux	standing	are
+root	ROOT	standing
+punct	standing	,
+xcomp	standing	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	camera	,
+compound	directions	face
+amod	directions	opposite
+appos	camera	directions
+punct	standing	.

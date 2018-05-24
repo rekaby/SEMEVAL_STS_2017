@@ -1,0 +1,13 @@
+nsubj	happened	what
+root	ROOT	happened
+mark	america	to
+xcomp	happened	america
+cop	nation	being
+det	nation	a
+dobj	america	nation
+case	laws	of
+nmod:of	nation	laws
+cc	laws	and
+neg	men	not
+conj:and	laws	men
+punct	happened	?

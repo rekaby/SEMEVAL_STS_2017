@@ -1,0 +1,8 @@
+det	enclosure	a
+amod	enclosure	public
+root	ROOT	enclosure
+case	animals	for
+nmod:for	enclosure	animals
+punct	enclosure	,
+case	dogs	as
+nmod:as	enclosure	dogs

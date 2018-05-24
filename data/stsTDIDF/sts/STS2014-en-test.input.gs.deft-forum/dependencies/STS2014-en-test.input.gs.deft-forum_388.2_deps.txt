@@ -1,0 +1,8 @@
+punct	rate	-
+compound	rate	Income
+punct	rate	,
+amod	rate	top
+root	ROOT	rate
+punct	rate	:
+dep	rate	percent
+punct	rate	.

@@ -1,0 +1,9 @@
+det	man	The
+nsubj	expects	man
+root	ROOT	expects
+det	pizza	the
+dobj	expects	pizza
+mark	delivered	to
+auxpass	delivered	be
+xcomp	expects	delivered
+punct	expects	.

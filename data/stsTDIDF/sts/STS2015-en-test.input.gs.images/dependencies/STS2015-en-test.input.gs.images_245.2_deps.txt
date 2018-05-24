@@ -1,0 +1,12 @@
+nummod	dogs	Three
+nsubj	play	dogs
+root	ROOT	play
+case	shallows	in
+det	shallows	the
+nmod:in	play	shallows
+case	shore	next
+mwe	next	to
+det	shore	a
+amod	shore	rocky
+nmod:next_to	play	shore
+punct	play	.

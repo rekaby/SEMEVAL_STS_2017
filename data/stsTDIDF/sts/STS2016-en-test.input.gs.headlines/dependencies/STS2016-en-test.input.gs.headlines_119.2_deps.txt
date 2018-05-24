@@ -1,0 +1,12 @@
+root	ROOT	Kremlin
+punct	Kremlin	:
+nsubj	decide	Putin
+advmod	decide	yet
+mark	decide	to
+dep	Kremlin	decide
+mark	using	on
+advcl	decide	using
+amod	troops	Russian
+dobj	using	troops
+case	Ukraine	in
+nmod:in	using	Ukraine

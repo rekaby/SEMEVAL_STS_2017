@@ -1,0 +1,6 @@
+nsubj	city	zahedan
+cop	city	is
+det	city	a
+root	ROOT	city
+case	southeastern	in
+nmod:in	city	southeastern

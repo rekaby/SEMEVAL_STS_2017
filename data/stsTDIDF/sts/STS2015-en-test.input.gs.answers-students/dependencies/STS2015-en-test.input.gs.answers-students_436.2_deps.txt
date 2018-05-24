@@ -1,0 +1,13 @@
+expl	is	There
+root	ROOT	is
+det	path	a
+nsubj	is	path
+case	B	with
+nmod:with	path	B
+cc	B	and
+conj:and	B	C
+nsubj	include	that
+aux	include	does
+neg	include	not
+acl:relcl	path	include
+dobj	include	X

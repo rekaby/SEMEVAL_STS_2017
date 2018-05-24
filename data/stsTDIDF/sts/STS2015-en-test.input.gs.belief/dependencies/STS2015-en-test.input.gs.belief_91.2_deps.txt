@@ -1,0 +1,11 @@
+det	winter	every
+nsubj	affects	winter
+acl	winter	driving
+case	roads	on
+compound	roads	icy
+nmod:on	driving	roads
+root	ROOT	affects
+dobj	affects	thousands
+case	people	of
+nmod:of	thousands	people
+punct	affects	.

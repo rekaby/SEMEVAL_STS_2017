@@ -1,0 +1,17 @@
+det	jury	The
+nsubj	found	jury
+advmod	found	also
+root	ROOT	found
+nsubj	guilty	Gonzales
+ccomp	found	guilty
+mark	using	of
+advcl	guilty	using
+amod	force	excessive
+dobj	using	force
+mark	dousing	by
+advcl	using	dousing
+dobj	dousing	Olvera-Carrera
+case	spray	with
+compound	spray	pepper
+nmod:with	Olvera-Carrera	spray
+punct	found	.

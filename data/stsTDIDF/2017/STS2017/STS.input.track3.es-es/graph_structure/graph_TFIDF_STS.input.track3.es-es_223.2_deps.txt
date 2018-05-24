@@ -1,0 +1,7 @@
+has	mop	dobj
+mop	hands	nmod:in
+mop	a	det
+shirt	yellow	amod
+has	man	nsubj
+man	shirt	nmod:in
+shirt	the	det

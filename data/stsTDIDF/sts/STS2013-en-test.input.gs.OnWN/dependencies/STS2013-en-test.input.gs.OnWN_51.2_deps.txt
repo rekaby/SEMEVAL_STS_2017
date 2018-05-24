@@ -1,0 +1,12 @@
+det	act	the
+root	ROOT	act
+mark	pursuing	of
+acl	act	pursuing
+case	effort	in
+det	effort	an
+nmod:in	pursuing	effort
+mark	overtake	to
+acl	effort	overtake
+cc	overtake	or
+conj:or	overtake	capture
+punct	act	.

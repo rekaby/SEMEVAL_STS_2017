@@ -1,0 +1,12 @@
+punct	way	`
+cop	way	Is
+expl	way	there
+det	way	a
+amod	way	worse
+root	ROOT	way
+mark	live	to
+acl	way	live
+case	this	than
+nmod:than	live	this
+punct	way	?
+punct	way	'

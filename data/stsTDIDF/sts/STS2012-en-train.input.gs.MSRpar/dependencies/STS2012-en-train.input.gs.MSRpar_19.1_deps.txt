@@ -1,0 +1,12 @@
+nsubj	Hospital	They
+cop	Hospital	were
+case	Hospital	at
+compound	Hospital	Raffles
+root	ROOT	Hospital
+case	weekend	over
+det	weekend	the
+nmod:over	Hospital	weekend
+case	evaluation	for
+amod	evaluation	further
+nmod:for	Hospital	evaluation
+punct	Hospital	.

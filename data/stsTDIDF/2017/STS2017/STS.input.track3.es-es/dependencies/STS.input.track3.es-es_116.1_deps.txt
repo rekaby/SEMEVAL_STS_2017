@@ -1,0 +1,10 @@
+det	tourist	A
+nsubj	using	tourist
+aux	using	is
+root	ROOT	using
+dobj	using	binoculars
+mark	see	to
+advcl	using	see
+det	ocean	the
+dobj	see	ocean
+punct	using	.

@@ -1,0 +1,8 @@
+ROOT	war	root
+lost	won	conj:or
+war	lost	acl:relcl
+war	A	det
+lost	or	cc
+lost	is	auxpass
+lost	that	nsubjpass
+lost	neither	nsubjpass

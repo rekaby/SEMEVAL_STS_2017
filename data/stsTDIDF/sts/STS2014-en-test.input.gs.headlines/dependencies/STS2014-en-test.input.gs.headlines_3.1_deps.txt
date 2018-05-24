@@ -1,0 +1,5 @@
+amod	stocks	Weak
+compound	stocks	earnings
+compound	stocks	drag
+nsubj	lower	stocks
+root	ROOT	lower

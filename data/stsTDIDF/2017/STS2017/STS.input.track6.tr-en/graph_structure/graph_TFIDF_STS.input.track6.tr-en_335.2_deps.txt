@@ -1,0 +1,5 @@
+sleep	.	punct
+couch	the	det
+sleep	They	nsubj
+ROOT	sleep	root
+sleep	couch	nmod:on

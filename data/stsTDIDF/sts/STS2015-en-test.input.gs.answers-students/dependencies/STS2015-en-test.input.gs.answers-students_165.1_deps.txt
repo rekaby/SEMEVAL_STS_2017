@@ -1,0 +1,8 @@
+csubj	shuts	removing
+nummod	bulb	one
+dobj	removing	bulb
+root	ROOT	shuts
+compound:prt	shuts	off
+det	other	the
+dobj	shuts	other
+punct	shuts	.

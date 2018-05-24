@@ -1,0 +1,14 @@
+nsubj	reading	I
+aux	reading	have
+aux	reading	been
+root	ROOT	reading
+case	topic	on
+det	topic	this
+nmod:on	reading	topic
+mark	asked	since
+nsubj	asked	I
+aux	asked	have
+advcl	reading	asked
+det	question	this
+dobj	asked	question
+punct	reading	.

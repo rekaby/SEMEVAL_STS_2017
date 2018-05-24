@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	picks	woman
+root	ROOT	picks
+compound:prt	picks	up
+cc	picks	and
+conj:and	picks	holds
+det	kangaroo	a
+compound	kangaroo	baby
+dobj	holds	kangaroo
+punct	picks	.

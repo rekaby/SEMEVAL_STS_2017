@@ -1,0 +1,12 @@
+confusing	,	punct
+confusing	identity	nsubj
+confusing	clear	conj:but
+identity	Our	nmod:poss
+confusing	but	cc
+confusing	can	aux
+confusing	be	aux
+loyalty	our	nmod:poss
+clear	loyalty	nsubj
+ROOT	confusing	root
+confusing	.	punct
+confusing	times	nmod:at

@@ -1,0 +1,11 @@
+det	train	A
+amod	train	red
+cc	red	and
+conj:and	red	gray
+nsubj	going	train
+aux	going	is
+root	ROOT	going
+case	tunnel	through
+det	tunnel	a
+nmod:through	going	tunnel
+punct	going	.

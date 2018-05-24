@@ -1,0 +1,13 @@
+det	man	A
+nsubj	standing	man
+acl	man	wearing
+compound	shorts	US
+compound	shorts	flag
+compound	shorts	boxer
+dobj	wearing	shorts
+aux	standing	is
+root	ROOT	standing
+case	stairway	on
+det	stairway	a
+nmod:on	standing	stairway
+punct	standing	.

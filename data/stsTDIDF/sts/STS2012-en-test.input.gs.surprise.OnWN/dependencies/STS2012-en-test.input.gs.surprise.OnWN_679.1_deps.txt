@@ -1,0 +1,6 @@
+root	ROOT	make
+det	level	the
+compound	level	surface
+dobj	make	level
+cc	make	or
+conj:or	make	smooth

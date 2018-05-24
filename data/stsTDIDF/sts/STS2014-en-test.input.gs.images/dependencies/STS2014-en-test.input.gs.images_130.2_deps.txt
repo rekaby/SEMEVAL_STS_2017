@@ -1,0 +1,16 @@
+expl	is	There
+root	ROOT	is
+det	boy	a
+amod	boy	young
+nsubj	is	boy
+case	jacket	with
+det	jacket	a
+amod	jacket	red
+cc	red	and
+conj:and	red	blue
+nmod:with	is	jacket
+mark	feeding	on
+acl	jacket	feeding
+det	sheep	a
+dobj	feeding	sheep
+punct	is	.

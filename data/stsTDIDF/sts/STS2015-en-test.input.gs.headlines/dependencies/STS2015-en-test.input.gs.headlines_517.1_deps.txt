@@ -1,0 +1,7 @@
+compound	Bombs	Car
+nsubj	Kill	Bombs
+root	ROOT	Kill
+dobj	Kill	58
+case	Capital	in
+amod	Capital	Iraqi
+nmod:in	58	Capital

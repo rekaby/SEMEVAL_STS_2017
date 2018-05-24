@@ -1,0 +1,13 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	talking
+case	other	to
+det	other	each
+nmod:to	talking	other
+punct	women	,
+mark	seen	while
+det	man	a
+nsubj	seen	man
+advcl	women	seen
+dobj	seen	them
+punct	women	.

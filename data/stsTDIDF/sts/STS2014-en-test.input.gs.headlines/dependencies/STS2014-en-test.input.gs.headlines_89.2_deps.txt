@@ -1,0 +1,8 @@
+compound	Castro	Ariel
+nsubj	sentenced	Castro
+root	ROOT	sentenced
+case	years	to
+nummod	years	1,000
+nmod:to	sentenced	years
+case	prison	in
+nmod:in	years	prison

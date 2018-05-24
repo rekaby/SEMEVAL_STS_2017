@@ -1,0 +1,7 @@
+nummod	Soldiers	4
+amod	Soldiers	French
+root	ROOT	Soldiers
+acl	Soldiers	Reported
+xcomp	Reported	Killed
+case	Afghanistan	in
+nmod:in	Killed	Afghanistan

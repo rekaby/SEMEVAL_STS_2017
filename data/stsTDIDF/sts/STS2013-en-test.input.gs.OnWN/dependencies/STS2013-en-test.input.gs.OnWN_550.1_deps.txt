@@ -1,0 +1,6 @@
+root	ROOT	cover
+case	boards	with
+amod	boards	wooden
+nmod:with	cover	boards
+punct	cover	;
+dep	cover	secure

@@ -1,0 +1,15 @@
+nsubj	said	donohue
+root	ROOT	said
+nsubj	difficult	it
+cop	difficult	is
+advmod	difficult	very
+ccomp	said	difficult
+mark	manipulate	to
+xcomp	difficult	manipulate
+amod	isotopes	radioactive
+dobj	manipulate	isotopes
+mark	leaving	without
+advcl	manipulate	leaving
+det	trail	a
+dobj	leaving	trail
+punct	said	.

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	jumping	man
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	on
+det	man	another
+dobj	jumping	man
+punct	jumping	.

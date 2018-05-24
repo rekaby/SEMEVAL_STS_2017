@@ -1,0 +1,16 @@
+det	calf	A
+compound	calf	tan
+root	ROOT	calf
+case	tag	with
+det	tag	a
+amod	tag	yellow
+nmod:with	calf	tag
+case	ear	on
+nmod:poss	ear	his
+amod	ear	left
+nmod:on	tag	ear
+acl	ear	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	calf	.

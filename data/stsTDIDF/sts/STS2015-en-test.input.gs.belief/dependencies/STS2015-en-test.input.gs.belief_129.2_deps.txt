@@ -1,0 +1,10 @@
+neg	one	no
+nsubj	wants	one
+advmod	wants	really
+root	ROOT	wants
+mark	talk	to
+xcomp	wants	talk
+case	anythiing	about
+nmod:about	talk	anythiing
+advmod	anythiing	else
+punct	wants	.

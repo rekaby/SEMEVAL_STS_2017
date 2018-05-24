@@ -1,0 +1,8 @@
+det	girl	The
+nsubj	tiding	girl
+aux	tiding	is
+root	ROOT	tiding
+compound:prt	tiding	up
+nmod:poss	bed	her
+dobj	tiding	bed
+punct	tiding	.

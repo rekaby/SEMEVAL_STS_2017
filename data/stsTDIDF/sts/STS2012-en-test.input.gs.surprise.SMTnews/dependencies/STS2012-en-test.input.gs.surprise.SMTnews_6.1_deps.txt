@@ -1,0 +1,16 @@
+advmod	month	Only
+det	month	a
+nmod:npmod	ago	month
+advmod	dismissed	ago
+punct	dismissed	,
+nsubj	dismissed	Mubarak
+root	ROOT	dismissed
+dobj	dismissed	demands
+case	reform	for
+amod	reform	constitutional
+nmod:for	demands	reform
+case	futile	as
+punct	futile	``
+advcl:as	dismissed	futile
+punct	dismissed	.
+punct	dismissed	''

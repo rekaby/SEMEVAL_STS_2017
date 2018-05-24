@@ -1,0 +1,4 @@
+color	image	nmod:in
+color	no	neg
+is	color	nsubj
+image	in	case

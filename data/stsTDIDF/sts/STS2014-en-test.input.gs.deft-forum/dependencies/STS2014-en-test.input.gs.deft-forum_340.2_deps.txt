@@ -1,0 +1,10 @@
+nsubj	question	It
+cop	question	is
+det	question	a
+root	ROOT	question
+nsubj	needs	that
+acl:relcl	question	needs
+mark	answered	to
+auxpass	answered	be
+xcomp	needs	answered
+punct	question	.

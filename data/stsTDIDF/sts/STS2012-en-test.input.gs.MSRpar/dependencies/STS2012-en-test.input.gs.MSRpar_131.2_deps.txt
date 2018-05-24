@@ -1,0 +1,17 @@
+compound	Gibbons	Naval
+compound	Gibbons	Academy
+compound	Gibbons	spokesman
+compound	Gibbons	Cmdr.
+compound	Gibbons	Rod
+nsubj	said	Gibbons
+root	ROOT	said
+punct	said	:
+punct	said	``
+nmod:poss	announcement	Today
+case	Today	's
+nsubj	came	announcement
+ccomp	said	came
+case	surprise	as
+det	surprise	a
+nmod:as	came	surprise
+punct	said	.

@@ -1,0 +1,11 @@
+nmod:poss	growth	China
+case	China	's
+amod	growth	industrial
+compound	growth	output
+nsubj	slows	growth
+root	ROOT	slows
+case	pct	to
+nummod	pct	9.2
+nmod:to	slows	pct
+case	July	in
+nmod:in	slows	July

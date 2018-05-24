@@ -1,0 +1,9 @@
+root	ROOT	Approval
+case	Minutes	of
+det	Minutes	the
+nmod:of	Approval	Minutes
+case	sitting	of
+det	sitting	the
+amod	sitting	previous
+nmod:of	Minutes	sitting
+punct	Approval	.

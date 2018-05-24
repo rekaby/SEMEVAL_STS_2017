@@ -1,0 +1,6 @@
+amod	Sets	British
+compound	Sets	Warship
+nsubj	Sail	Sets
+root	ROOT	Sail
+case	Falklands	for
+nmod:for	Sail	Falklands

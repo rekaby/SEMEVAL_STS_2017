@@ -1,0 +1,8 @@
+nsubj	attack	Islamists
+root	ROOT	attack
+compound	city	north
+compound	city	Mali
+dobj	attack	city
+case	bombings	after
+compound	bombings	suicide
+nmod:after	attack	bombings

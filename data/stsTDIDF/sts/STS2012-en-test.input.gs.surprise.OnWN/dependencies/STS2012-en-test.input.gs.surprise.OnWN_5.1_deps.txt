@@ -1,0 +1,6 @@
+amod	porch	elevated
+amod	porch	wooden
+root	ROOT	porch
+case	house	of
+det	house	a
+nmod:of	porch	house

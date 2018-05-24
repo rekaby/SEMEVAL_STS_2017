@@ -1,0 +1,10 @@
+nsubj	ruining	An
+amod	An	adult
+cc	adult	and
+det	child	a
+conj:and	adult	child
+aux	ruining	are
+root	ROOT	ruining
+nmod:poss	nails	their
+dobj	ruining	nails
+punct	ruining	.

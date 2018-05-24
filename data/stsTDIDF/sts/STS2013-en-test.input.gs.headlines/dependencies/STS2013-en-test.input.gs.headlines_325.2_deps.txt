@@ -1,0 +1,9 @@
+compound	Tendulkar	Sachin
+nsubj	reaches	Tendulkar
+case	Tendulkar	's
+root	ROOT	reaches
+nummod	centuries	100
+dobj	reaches	centuries
+punct	centuries	-
+case	pictures	in
+nmod:in	centuries	pictures

@@ -1,0 +1,9 @@
+compound	diplomat	Iran
+root	ROOT	diplomat
+punct	diplomat	:
+nsubjpass	made	progress
+auxpass	made	being
+dep	diplomat	made
+case	talks	in
+amod	talks	expert-level
+nmod:in	made	talks

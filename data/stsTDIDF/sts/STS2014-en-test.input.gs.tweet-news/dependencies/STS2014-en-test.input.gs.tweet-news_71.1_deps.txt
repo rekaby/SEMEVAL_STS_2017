@@ -1,0 +1,6 @@
+case	FP	on
+compound	Clinton	Hillary
+nmod:poss	FP	Clinton
+case	Clinton	's
+nmod:on	approach	FP
+root	ROOT	approach

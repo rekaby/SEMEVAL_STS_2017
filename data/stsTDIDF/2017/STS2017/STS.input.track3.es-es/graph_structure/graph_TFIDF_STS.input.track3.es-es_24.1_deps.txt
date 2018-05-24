@@ -1,0 +1,11 @@
+sitting	,	punct
+feet	their	nmod:poss
+sitting	feet	nmod:with
+grass	on	case
+feet	with	case
+kissing	are	aux
+kissing	they	nsubj
+sitting	couple	nsubj
+feet	crossed	acl
+sitting	grass	nmod:on
+sitting	kissing	conj:and

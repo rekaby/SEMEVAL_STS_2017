@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	carrying
+det	shirt	a
+amod	shirt	blue
+dobj	carrying	shirt
+dep	shirt	Cuba
+punct	man	.

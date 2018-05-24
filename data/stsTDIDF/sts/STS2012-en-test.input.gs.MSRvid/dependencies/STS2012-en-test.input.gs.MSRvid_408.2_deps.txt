@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	feeding	woman
+aux	feeding	is
+root	ROOT	feeding
+nmod:poss	baby	her
+dobj	feeding	baby
+case	bottle	with
+det	bottle	a
+nmod:with	feeding	bottle
+punct	feeding	.

@@ -1,0 +1,9 @@
+nummod	Americans	2
+root	ROOT	Americans
+acl	Americans	Killed
+mark	Enters	as
+compound	Unrest	Afghan
+nsubj	Enters	Unrest
+advcl	Killed	Enters
+amod	Day	Fifth
+nmod:tmod	Enters	Day

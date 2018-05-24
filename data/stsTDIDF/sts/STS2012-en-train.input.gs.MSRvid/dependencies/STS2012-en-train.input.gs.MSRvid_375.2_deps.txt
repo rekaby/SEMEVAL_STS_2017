@@ -1,0 +1,7 @@
+det	man	A
+nsubj	breaking	man
+aux	breaking	is
+root	ROOT	breaking
+det	egg	an
+dobj	breaking	egg
+punct	breaking	.

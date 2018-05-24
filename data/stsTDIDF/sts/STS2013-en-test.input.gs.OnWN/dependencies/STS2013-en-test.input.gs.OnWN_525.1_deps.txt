@@ -1,0 +1,9 @@
+root	ROOT	strive
+case	another	against
+nmod:against	strive	another
+cc	another	or
+conj:or	another	others
+mark	attain	to
+xcomp	strive	attain
+det	goal	a
+dobj	attain	goal

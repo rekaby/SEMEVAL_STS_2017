@@ -1,0 +1,6 @@
+csubj	cast	apply
+det	plaster	a
+dobj	apply	plaster
+root	ROOT	cast
+nmod	cast	to
+punct	cast	.

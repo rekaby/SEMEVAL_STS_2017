@@ -1,0 +1,10 @@
+playground	a	det
+riding	swing	dobj
+playground	on	case
+playground	.	punct
+playground	child	nsubj
+ROOT	playground	root
+child	young	amod
+playground	is	cop
+swing	the	det
+playground	riding	acl

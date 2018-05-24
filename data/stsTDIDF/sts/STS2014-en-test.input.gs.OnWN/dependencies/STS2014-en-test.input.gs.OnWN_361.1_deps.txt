@@ -1,0 +1,7 @@
+amod	stage	final
+root	ROOT	stage
+case	event	of
+det	event	an
+nmod:of	stage	event
+cc	event	or
+conj:or	event	activity

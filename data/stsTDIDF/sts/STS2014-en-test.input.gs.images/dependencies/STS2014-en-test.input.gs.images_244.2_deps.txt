@@ -1,0 +1,10 @@
+det	bird	A
+root	ROOT	bird
+acl	bird	standing
+case	fencepost	on
+mwe	on	top
+mwe	on	of
+det	fencepost	a
+amod	fencepost	wooden
+nmod:on_top_of	standing	fencepost
+punct	bird	.

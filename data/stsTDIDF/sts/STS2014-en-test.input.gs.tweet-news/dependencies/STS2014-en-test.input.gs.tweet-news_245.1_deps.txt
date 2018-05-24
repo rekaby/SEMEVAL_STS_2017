@@ -1,0 +1,11 @@
+dep	Ban	NYT
+punct	Ban	-
+compound	Ban	Pentagon
+compound	Ban	Lifts
+root	ROOT	Ban
+case	Women	on
+nmod:on	Ban	Women
+acl	Women	Serving
+case	Combat	in
+nmod:in	Serving	Combat
+dep	Serving	Roles

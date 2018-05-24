@@ -1,0 +1,5 @@
+harvesting	crops	dobj
+area	swampy	amod
+crops	her	nmod:poss
+woman	harvesting	acl
+harvesting	area	nmod:in

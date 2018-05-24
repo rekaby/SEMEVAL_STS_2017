@@ -1,0 +1,9 @@
+cc	happening	And
+nsubj	happening	that
+aux	happening	is
+root	ROOT	happening
+case	states	in
+compound	states	GOP
+amod	states	controlled
+nmod:in	happening	states
+punct	happening	.

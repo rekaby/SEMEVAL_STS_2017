@@ -1,0 +1,14 @@
+nsubj	meditate	Girl
+root	ROOT	meditate
+case	peak	on
+det	peak	a
+compound	peak	rock
+amod	peak	high
+nmod:on	meditate	peak
+case	middle	in
+det	middle	the
+nmod:in	peak	middle
+case	forest	of
+det	forest	a
+nmod:of	middle	forest
+punct	meditate	.

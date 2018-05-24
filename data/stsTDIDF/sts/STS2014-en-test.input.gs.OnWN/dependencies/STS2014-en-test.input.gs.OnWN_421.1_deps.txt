@@ -1,0 +1,9 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	overcome	to
+punct	overcome	-RRB-
+auxpass	overcome	be
+acl	cause	overcome
+case	fears	with
+amod	fears	sudden
+nmod:with	overcome	fears

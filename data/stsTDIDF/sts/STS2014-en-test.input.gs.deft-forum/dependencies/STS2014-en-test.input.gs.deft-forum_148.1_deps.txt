@@ -1,0 +1,10 @@
+nsubj	shut	Nixon
+punct	Nixon	,
+conj:and	Nixon	Ford
+cc	Nixon	and
+conj:and	Nixon	Carter
+root	ROOT	shut
+compound:prt	shut	down
+det	oilfields	the
+dobj	shut	oilfields
+punct	shut	?

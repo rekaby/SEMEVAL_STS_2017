@@ -1,0 +1,6 @@
+det	example	a
+amod	example	concentrated
+root	ROOT	example
+case	something	of
+nmod:of	example	something
+punct	example	.

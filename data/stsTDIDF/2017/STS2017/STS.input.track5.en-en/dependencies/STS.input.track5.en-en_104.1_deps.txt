@@ -1,0 +1,7 @@
+det	man	The
+nsubj	has	man
+root	ROOT	has
+det	shirt	a
+amod	shirt	orange
+dobj	has	shirt
+punct	has	.

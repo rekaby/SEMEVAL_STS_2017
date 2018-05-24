@@ -1,0 +1,6 @@
+nsubj	said	He
+root	ROOT	said
+case	level	at
+compound	level	EVERY
+nmod:at	said	level
+punct	said	.

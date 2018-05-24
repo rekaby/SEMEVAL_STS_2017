@@ -1,0 +1,10 @@
+root	ROOT	Bar
+dep	Bar	ware
+punct	ware	-
+det	kind	What
+dep	is	kind
+case	glass	of
+nmod:of	kind	glass
+dep	ware	is
+nsubj	is	this
+punct	Bar	?

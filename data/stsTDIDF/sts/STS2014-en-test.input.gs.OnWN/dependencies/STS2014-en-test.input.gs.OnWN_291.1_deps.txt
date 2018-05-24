@@ -1,0 +1,6 @@
+amod	force	physical
+root	ROOT	force
+nsubj	draws	that
+acl:relcl	force	draws
+dobj	draws	objects
+advmod	force	together

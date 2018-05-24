@@ -1,0 +1,13 @@
+compound	form	Stars
+root	ROOT	form
+case	regions	in
+compound	regions	star-formation
+nmod:in	form	regions
+punct	regions	,
+dobj	develop	which
+nsubj	develop	itself
+acl:relcl	regions	develop
+case	clouds	from
+amod	clouds	molecular
+nmod:from	develop	clouds
+punct	form	.

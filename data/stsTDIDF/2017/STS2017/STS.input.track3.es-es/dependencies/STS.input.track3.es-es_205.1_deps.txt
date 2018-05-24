@@ -1,0 +1,10 @@
+nsubj	preparing	Men
+root	ROOT	preparing
+mark	take	to
+xcomp	preparing	take
+det	bath	a
+dobj	take	bath
+case	ocean	in
+det	ocean	the
+nmod:in	take	ocean
+punct	preparing	.

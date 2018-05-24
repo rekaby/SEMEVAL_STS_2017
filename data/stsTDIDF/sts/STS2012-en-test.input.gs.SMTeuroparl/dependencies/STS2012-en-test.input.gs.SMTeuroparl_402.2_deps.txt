@@ -1,0 +1,10 @@
+det	rules	The
+nsubj	comparable	rules
+cop	comparable	are
+root	ROOT	comparable
+advmod	good	only
+xcomp	comparable	good
+punct	comparable	,
+xcomp	comparable	let
+advmod	let	alone
+punct	comparable	.

@@ -1,0 +1,6 @@
+compound	tool	edge
+root	ROOT	tool
+acl	tool	used
+case	shaving	in
+nmod:in	used	shaving
+punct	tool	.

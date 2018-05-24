@@ -1,0 +1,7 @@
+net	the	det
+help	fix	acl
+waiting	fisherman	nsubj
+waiting	help	nmod:on
+fisherman	The	det
+waiting	is	aux
+fix	net	dobj

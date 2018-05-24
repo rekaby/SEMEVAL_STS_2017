@@ -1,0 +1,7 @@
+nummod	people	Four
+nsubj	rowing	people
+root	ROOT	rowing
+case	river	down
+det	river	a
+nmod:down	rowing	river
+punct	rowing	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	sings	man
+root	ROOT	sings
+case	guitar	with
+det	guitar	a
+nmod:with	sings	guitar
+punct	sings	.

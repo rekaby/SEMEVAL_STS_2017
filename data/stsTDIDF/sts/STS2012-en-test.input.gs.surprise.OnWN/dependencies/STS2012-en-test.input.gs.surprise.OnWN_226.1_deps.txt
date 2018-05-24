@@ -1,0 +1,8 @@
+det	state	a
+root	ROOT	state
+case	confinement	of
+nmod:of	state	confinement
+case	space	in
+det	space	a
+amod	space	small
+nmod:in	state	space

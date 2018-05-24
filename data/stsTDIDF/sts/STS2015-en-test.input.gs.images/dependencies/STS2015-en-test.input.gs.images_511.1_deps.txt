@@ -1,0 +1,10 @@
+det	dog	The
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	runs	dog
+root	ROOT	runs
+case	grass	through
+det	grass	the
+nmod:through	runs	grass
+punct	runs	.

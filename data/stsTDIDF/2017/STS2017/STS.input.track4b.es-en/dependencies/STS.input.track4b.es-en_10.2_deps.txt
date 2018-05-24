@@ -1,0 +1,7 @@
+nsubj	become	Some
+case	people	of
+det	people	these
+nmod:of	Some	people
+root	ROOT	become
+xcomp	become	heroes
+punct	become	.

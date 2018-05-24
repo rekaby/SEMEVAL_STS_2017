@@ -1,0 +1,6 @@
+compound	announcement	Labor
+compound	announcement	ministry
+root	ROOT	announcement
+case	Monday	due
+case	Monday	on
+acl:on	announcement	Monday

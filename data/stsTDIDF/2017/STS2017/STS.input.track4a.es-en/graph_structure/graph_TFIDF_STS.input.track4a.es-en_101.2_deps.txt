@@ -1,0 +1,8 @@
+brown	and	cc
+dog	brown	amod
+standing	bank	nmod:by
+standing	dog	nsubj
+river	in	case
+standing	river	nmod:in
+brown	white	conj:and
+bank	by	case

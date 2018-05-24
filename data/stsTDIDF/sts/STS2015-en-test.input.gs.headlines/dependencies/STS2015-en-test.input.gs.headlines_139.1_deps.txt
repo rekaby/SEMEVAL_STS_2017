@@ -1,0 +1,8 @@
+det	eyes	All
+root	ROOT	eyes
+case	trip	on
+compound	trip	Khurshid
+nummod	trip	‚
+compound	trip	Äôs
+nmod:on	eyes	trip
+punct	eyes	...

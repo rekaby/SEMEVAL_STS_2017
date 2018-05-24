@@ -1,0 +1,6 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	foreigners	nine
+dobj	kill	foreigners
+case	Pakistan	in
+nmod:in	kill	Pakistan

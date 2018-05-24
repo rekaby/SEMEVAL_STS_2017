@@ -1,0 +1,8 @@
+det	act	The
+amod	act	human
+root	ROOT	act
+mark	making	of
+acl	act	making
+dobj	making	something
+amod	something	new
+punct	act	.

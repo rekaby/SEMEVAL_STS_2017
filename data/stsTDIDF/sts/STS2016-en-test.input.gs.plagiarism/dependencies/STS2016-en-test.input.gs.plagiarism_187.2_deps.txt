@@ -1,0 +1,11 @@
+det	model	The
+compound	model	vector
+compound	model	space
+nsubj	has	model
+root	ROOT	has
+det	limitations	the
+amod	limitations	following
+dobj	has	limitations
+punct	has	:
+dep	has	1
+punct	has	.

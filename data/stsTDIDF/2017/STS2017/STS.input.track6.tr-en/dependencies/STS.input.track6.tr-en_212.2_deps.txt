@@ -1,0 +1,15 @@
+det	children	The
+nummod	children	two
+nsubj	bring	children
+root	ROOT	bring
+nmod:poss	hands	their
+dobj	bring	hands
+advmod	bring	together
+cc	bring	and
+conj:and	bring	pass
+case	hands	under
+det	child	another
+nmod:poss	hands	child
+case	child	's
+nmod:under	pass	hands
+punct	bring	.

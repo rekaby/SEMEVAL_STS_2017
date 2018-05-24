@@ -1,0 +1,12 @@
+discourse	do	Yes
+punct	do	,
+nsubj	do	you
+aux	do	can
+root	ROOT	do
+advmod	want	exactly
+dobj	want	what
+nsubj	want	you
+ccomp	do	want
+mark	do	to
+xcomp	want	do
+punct	do	.

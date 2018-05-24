@@ -1,0 +1,8 @@
+nummod	girls	Four
+nsubj	walk	girls
+advmod	walk	happily
+root	ROOT	walk
+compound:prt	walk	down
+det	sidewalk	a
+dobj	walk	sidewalk
+punct	walk	.

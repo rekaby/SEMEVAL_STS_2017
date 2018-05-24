@@ -1,0 +1,5 @@
+compound	b	bulb
+nsubj	created	b
+root	ROOT	created
+det	gap	a
+dobj	created	gap

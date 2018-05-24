@@ -1,0 +1,6 @@
+amod	diplomat	Palestinian
+nsubj	dies	diplomat
+root	ROOT	dies
+case	blast	in
+compound	blast	Prague
+nmod:in	dies	blast

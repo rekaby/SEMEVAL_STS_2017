@@ -1,0 +1,17 @@
+det	front	the
+root	ROOT	front
+case	head	of
+det	head	the
+amod	head	human
+nmod:of	front	head
+case	forehead	from
+det	forehead	the
+nmod:from	head	forehead
+case	chin	to
+det	chin	the
+nmod:to	forehead	chin
+cc	chin	and
+conj:and	chin	ear
+case	ear	to
+nmod:to	front	ear
+punct	front	;

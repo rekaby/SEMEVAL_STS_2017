@@ -1,0 +1,5 @@
+det	man	A
+root	ROOT	man
+case	store	in
+det	store	a
+nmod:in	man	store

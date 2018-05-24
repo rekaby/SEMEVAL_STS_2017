@@ -1,0 +1,8 @@
+maintained	person	nmod:by
+Stick	maintained	acl
+ROOT	Stick	root
+clothing	with	case
+person	by	case
+person	clothing	nmod:with
+Stick	.	punct
+clothing	dark	amod

@@ -1,0 +1,14 @@
+det	television	A
+root	ROOT	television
+punct	television	,
+amod	chair	upholstered
+conj:and	television	chair
+punct	television	,
+cc	television	and
+compound	stable	coffee
+conj:and	television	stable
+case	room	in
+det	room	a
+amod	room	bright
+nmod:in	stable	room
+punct	television	.

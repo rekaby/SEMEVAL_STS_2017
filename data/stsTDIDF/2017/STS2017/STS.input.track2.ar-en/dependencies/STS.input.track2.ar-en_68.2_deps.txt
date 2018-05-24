@@ -1,0 +1,11 @@
+amod	farmer	Asian
+nsubj	walking	farmer
+root	ROOT	walking
+case	field	in
+det	field	a
+compound	field	rice
+nmod:in	walking	field
+case	ox	with
+det	ox	an
+nmod:with	field	ox
+punct	walking	.

@@ -1,0 +1,12 @@
+root	ROOT	treat
+case	agent	with
+det	agent	an
+nmod:with	treat	agent
+punct	treat	;
+parataxis	treat	add
+punct	agent	-LRB-
+det	agent	an
+dep	add	agent
+punct	agent	-RRB-
+nmod	add	to
+punct	treat	.

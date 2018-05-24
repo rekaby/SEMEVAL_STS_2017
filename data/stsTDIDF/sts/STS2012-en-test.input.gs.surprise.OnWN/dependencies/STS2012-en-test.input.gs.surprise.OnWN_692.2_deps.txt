@@ -1,0 +1,11 @@
+det	area	an
+root	ROOT	area
+nsubj	central	that
+cop	central	is
+advmod	central	approximately
+acl:relcl	area	central
+case	region	within
+det	region	some
+amod	region	larger
+nmod:within	central	region
+punct	area	.

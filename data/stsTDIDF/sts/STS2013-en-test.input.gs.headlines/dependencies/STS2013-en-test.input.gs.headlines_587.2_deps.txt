@@ -1,0 +1,10 @@
+root	ROOT	Rapturous
+amod	Rapturous	welcome
+case	trip	for
+compound	Kyi	Aung
+compound	Kyi	San
+compound	Kyi	Suu
+nmod:poss	trip	Kyi
+case	Kyi	's
+amod	trip	historic
+nmod:for	welcome	trip

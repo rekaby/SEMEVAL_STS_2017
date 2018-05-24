@@ -1,0 +1,6 @@
+compound	Roshan	Hrithik
+root	ROOT	Roshan
+punct	Roshan	,
+appos	Roshan	Sussanne
+case	divorce	to
+nmod:to	Sussanne	divorce

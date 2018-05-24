@@ -1,0 +1,8 @@
+compound	Murray	Andy
+nsubj	deserves	Murray
+root	ROOT	deserves
+ccomp	says	knighthood
+punct	says	,
+compound	Cameron	David
+nsubj	says	Cameron
+ccomp	deserves	says

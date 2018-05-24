@@ -1,0 +1,12 @@
+nsubj	produce	They
+root	ROOT	produce
+nsubj	live	nothing
+nsubj	eat	I
+aux	eat	can
+acl:relcl	nothing	eat
+punct	nothing	,
+appos	nothing	wear
+punct	nothing	,
+ccomp	produce	live
+advmod	live	in
+punct	produce	.

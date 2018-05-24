@@ -1,0 +1,12 @@
+mark	affect	since
+det	gap	a
+det	gap	a
+nsubj	affect	gap
+aux	affect	does
+neg	affect	not
+root	ROOT	affect
+det	voltage	the
+dobj	affect	voltage
+case	battery	of
+det	battery	a
+nmod:of	voltage	battery

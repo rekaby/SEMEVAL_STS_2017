@@ -1,0 +1,7 @@
+nummod	blast	18
+acl	18	trapped
+case	mine	in
+amod	mine	Russian
+compound	mine	coal
+nmod:in	trapped	mine
+root	ROOT	blast

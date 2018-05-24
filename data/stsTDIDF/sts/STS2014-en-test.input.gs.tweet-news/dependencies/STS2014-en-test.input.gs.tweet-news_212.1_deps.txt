@@ -1,0 +1,18 @@
+advmod	pass	So
+punct	pass	,
+aux	pass	can
+nsubj	pass	we
+advmod	pass	just
+root	ROOT	pass
+det	ERA	the
+dobj	pass	ERA
+advmod	pass	now
+punct	pass	?-10) nsubj(Set-3, Pentagon
+aux	Set	Is
+root	ROOT	Set
+mark	Lift	to
+xcomp	Set	Lift
+compound	Ban	Combat
+dobj	Lift	Ban
+case	Women	for
+nmod:for	Lift	Women

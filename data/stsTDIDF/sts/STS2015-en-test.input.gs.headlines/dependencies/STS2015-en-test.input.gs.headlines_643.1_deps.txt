@@ -1,0 +1,8 @@
+amod	army	Indian
+nsubj	kill	army
+root	ROOT	kill
+nummod	militants	3
+dobj	kill	militants
+case	Kashmir	in
+amod	Kashmir	Indian-controlled
+nmod:in	kill	Kashmir

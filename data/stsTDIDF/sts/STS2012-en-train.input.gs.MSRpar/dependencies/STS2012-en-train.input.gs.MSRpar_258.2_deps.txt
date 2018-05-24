@@ -1,0 +1,16 @@
+nmod:poss	belief	Their
+nsubjpass	based	belief
+auxpass	based	was
+root	ROOT	based
+case	speculation	on
+nmod:on	based	speculation
+mark	prevents	that
+nsubj	prevents	estrogen
+ccomp	speculation	prevents
+compound	damage	cell
+dobj	prevents	damage
+cc	prevents	and
+conj:and	prevents	improves
+compound	flow	blood
+dobj	improves	flow
+punct	based	.

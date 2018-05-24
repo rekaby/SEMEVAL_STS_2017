@@ -1,0 +1,16 @@
+det	dog	A
+nsubj	stands	dog
+root	ROOT	stands
+case	man	next
+mwe	next	to
+det	man	a
+nmod:next_to	stands	man
+case	shorts	in
+nmod:in	man	shorts
+cc	shorts	and
+det	shirt	a
+amod	shirt	blue
+cc	blue	and
+conj:and	blue	white
+conj:and	shorts	shirt
+punct	stands	.

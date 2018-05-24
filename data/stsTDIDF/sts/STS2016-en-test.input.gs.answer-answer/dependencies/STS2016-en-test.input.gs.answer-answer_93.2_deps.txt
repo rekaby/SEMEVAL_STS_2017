@@ -1,0 +1,8 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	looking	you
+aux	looking	're
+ccomp	think	looking
+case	movie	for
+det	movie	the
+nmod:for	looking	movie

@@ -1,0 +1,8 @@
+mark	put	to
+root	ROOT	put
+compound:prt	put	down
+case	force	by
+nmod:by	put	force
+cc	force	or
+conj:or	force	authority
+punct	put	.

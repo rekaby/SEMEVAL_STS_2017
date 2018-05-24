@@ -1,0 +1,11 @@
+det	children	The
+nummod	children	three
+nsubj	standing	children
+aux	standing	are
+root	ROOT	standing
+nmod	standing	on
+cc	on	and
+case	fence	by
+det	fence	a
+conj:and	on	fence
+punct	standing	.

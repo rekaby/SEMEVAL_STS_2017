@@ -1,0 +1,8 @@
+det	activity	the
+root	ROOT	activity
+mark	protecting	of
+acl	activity	protecting
+dobj	protecting	someone
+cc	someone	or
+conj:or	someone	something
+punct	activity	.

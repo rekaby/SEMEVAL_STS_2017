@@ -1,0 +1,14 @@
+det	group	A
+root	ROOT	group
+case	yoga	of
+compound	yoga	women
+compound	yoga	practice
+nmod:of	group	yoga
+case	backyard	in
+det	backyard	the
+nmod:in	group	backyard
+case	house	of
+det	house	a
+amod	house	yellow
+nmod:of	backyard	house
+punct	group	.

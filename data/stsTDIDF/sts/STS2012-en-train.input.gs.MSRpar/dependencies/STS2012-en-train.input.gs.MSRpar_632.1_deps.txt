@@ -1,0 +1,14 @@
+advmod	dismissed	Instead
+punct	dismissed	,
+nsubj	dismissed	prosecutors
+root	ROOT	dismissed
+nsubj	left	charges
+cc	charges	and
+conj:and	charges	Rucker
+ccomp	dismissed	left
+det	courtroom	the
+nsubj	man	courtroom
+det	man	a
+amod	man	free
+xcomp	left	man
+punct	dismissed	.

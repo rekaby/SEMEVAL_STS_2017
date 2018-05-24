@@ -1,0 +1,7 @@
+nummod	people	Two
+nsubj	walking	people
+root	ROOT	walking
+case	waterfall	near
+det	waterfall	a
+nmod:near	walking	waterfall
+punct	walking	.

@@ -1,0 +1,14 @@
+root	ROOT	request
+advmod	request	earnestly
+punct	something	-LRB-
+dep	earnestly	something
+case	somebody	from
+nmod:from	something	somebody
+punct	something	-RRB-
+punct	request	;
+dep	request	ask
+case	aid	for
+nmod:for	ask	aid
+cc	aid	or
+conj:or	aid	protection
+punct	request	.

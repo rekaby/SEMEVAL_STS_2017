@@ -1,0 +1,6 @@
+compound	powder	Choc
+nsubj	recalled	powder
+root	ROOT	recalled
+case	concerns	over
+compound	concerns	salmonella
+nmod:over	recalled	concerns

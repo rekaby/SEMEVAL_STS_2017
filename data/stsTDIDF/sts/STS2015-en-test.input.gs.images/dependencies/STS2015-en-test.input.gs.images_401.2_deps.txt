@@ -1,0 +1,13 @@
+det	kid	The
+nsubj	sliding	kid
+case	shirt	in
+det	shirt	the
+amod	shirt	orange
+nmod:in	kid	shirt
+aux	sliding	is
+root	ROOT	sliding
+compound:prt	sliding	down
+det	slide	a
+compound	slide	teal
+dobj	sliding	slide
+punct	sliding	.

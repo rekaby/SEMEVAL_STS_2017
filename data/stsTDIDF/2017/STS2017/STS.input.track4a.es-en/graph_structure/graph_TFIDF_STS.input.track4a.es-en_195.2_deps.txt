@@ -1,0 +1,7 @@
+bench	a	det
+ROOT	lays	root
+lays	man	nsubj
+bench	park	compound
+man	An	det
+lays	bench	nmod:on
+lays	.	punct

@@ -1,0 +1,8 @@
+root	ROOT	Earthquake
+case	strikes	of
+nummod	strikes	6.9
+compound	strikes	magnitude
+nmod:of	Earthquake	strikes
+case	island	off
+compound	island	Indonesia
+nmod:off	strikes	island

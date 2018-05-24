@@ -1,0 +1,16 @@
+det	man	A
+nsubj	tying	man
+aux	tying	is
+root	ROOT	tying
+det	band	a
+amod	band	red
+compound	band	arm
+dobj	tying	band
+case	arm	around
+det	arm	another
+compound	arm	mans
+nmod:around	tying	arm
+case	street	in
+det	street	the
+nmod:in	arm	street
+punct	tying	.

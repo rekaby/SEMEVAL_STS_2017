@@ -1,0 +1,16 @@
+expl	is	there
+root	ROOT	is
+advmod	much	so
+advmod	wrong	much
+nsubj	is	wrong
+cc	wrong	and
+nsubj	seem	you
+aux	seem	do
+neg	seem	n't
+conj:and	wrong	seem
+mark	understand	to
+xcomp	seem	understand
+nsubj	wrong	what
+cop	wrong	's
+ccomp	understand	wrong
+punct	is	.

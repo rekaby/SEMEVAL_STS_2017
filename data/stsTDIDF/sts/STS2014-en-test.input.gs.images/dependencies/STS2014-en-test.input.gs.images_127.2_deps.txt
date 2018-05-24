@@ -1,0 +1,9 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	sitting
+case	couch	on
+nmod:on	sitting	couch
+xcomp	sitting	posing
+case	camera	for
+nmod:for	posing	camera
+punct	women	.

@@ -1,0 +1,14 @@
+det	person	A
+root	ROOT	person
+case	cap	in
+det	cap	a
+amod	cap	red
+nmod:in	person	cap
+acl	cap	standing
+case	beam	next
+mwe	next	to
+det	beam	a
+compound	beam	brick
+compound	beam	support
+nmod:next_to	standing	beam
+punct	person	.

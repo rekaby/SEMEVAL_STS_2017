@@ -1,0 +1,8 @@
+amod	decrease	gradual
+root	ROOT	decrease
+case	strength	in
+det	strength	the
+nmod:in	decrease	strength
+case	signal	of
+det	signal	a
+nmod:of	strength	signal

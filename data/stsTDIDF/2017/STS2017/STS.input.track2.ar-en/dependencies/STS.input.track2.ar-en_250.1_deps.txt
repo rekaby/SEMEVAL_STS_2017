@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	learning	men
+root	ROOT	learning
+mark	use	to
+xcomp	learning	use
+nmod:poss	legs	their
+dobj	use	legs
+advmod	use	again
+punct	learning	.

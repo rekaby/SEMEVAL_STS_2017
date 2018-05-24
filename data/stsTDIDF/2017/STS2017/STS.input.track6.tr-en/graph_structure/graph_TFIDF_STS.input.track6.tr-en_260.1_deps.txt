@@ -1,0 +1,8 @@
+wearing	bags	dobj
+wearing	heads	nmod:on
+heads	on	case
+closeup	A	det
+ROOT	closeup	root
+women	wearing	acl
+closeup	.	punct
+closeup	women	nmod:of

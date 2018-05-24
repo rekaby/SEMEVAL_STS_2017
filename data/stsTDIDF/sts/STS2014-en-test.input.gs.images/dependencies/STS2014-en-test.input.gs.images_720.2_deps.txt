@@ -1,0 +1,11 @@
+nummod	women	Three
+root	ROOT	women
+case	dresses	in
+amod	dresses	Indian
+nmod:in	women	dresses
+case	room	in
+det	room	a
+amod	room	crowded
+nmod:in	women	room
+acl	room	smiling
+punct	women	.

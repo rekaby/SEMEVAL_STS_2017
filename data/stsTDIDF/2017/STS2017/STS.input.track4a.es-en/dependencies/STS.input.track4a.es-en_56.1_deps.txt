@@ -1,0 +1,10 @@
+nummod	girl	One
+nsubj	wetting	girl
+aux	wetting	is
+root	ROOT	wetting
+dobj	wetting	another
+case	gun	with
+nmod:poss	gun	her
+compound	gun	water
+nmod:with	another	gun
+punct	wetting	.

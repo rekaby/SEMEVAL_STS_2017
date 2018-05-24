@@ -1,0 +1,17 @@
+nummod	Democrats	Six
+nsubj	vying	Democrats
+aux	vying	are
+root	ROOT	vying
+mark	succeed	to
+xcomp	vying	succeed
+dobj	succeed	Jacques
+cc	vying	and
+aux	qualified	have
+conj:and	vying	qualified
+case	ballot	for
+det	ballot	the
+compound	ballot	Feb.
+nummod	ballot	3
+amod	ballot	primary
+nmod:for	qualified	ballot
+punct	vying	.

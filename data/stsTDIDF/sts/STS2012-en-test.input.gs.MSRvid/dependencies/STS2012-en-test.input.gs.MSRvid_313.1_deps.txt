@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+amod	octopus	cooked
+dobj	cutting	octopus
+punct	cutting	.

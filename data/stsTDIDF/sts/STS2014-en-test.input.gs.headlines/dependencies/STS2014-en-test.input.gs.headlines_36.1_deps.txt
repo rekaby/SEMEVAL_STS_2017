@@ -1,0 +1,7 @@
+compound	attacks	Taliban
+nsubj	kill	attacks
+root	ROOT	kill
+nummod	civilians	17
+dobj	kill	civilians
+case	Afghanistan	in
+nmod:in	kill	Afghanistan

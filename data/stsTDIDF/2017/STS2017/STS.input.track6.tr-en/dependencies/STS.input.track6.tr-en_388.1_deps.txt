@@ -1,0 +1,16 @@
+det	man	A
+nsubj	looking	man
+aux	looking	is
+root	ROOT	looking
+case	ducks	at
+nmod:at	looking	ducks
+acl	ducks	hanging
+case	window	through
+det	window	a
+nmod:through	hanging	window
+case	store	of
+det	store	an
+amod	store	ethnic
+compound	store	food
+nmod:of	window	store
+punct	looking	.

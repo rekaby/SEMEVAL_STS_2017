@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	white
+nsubj	runs	dog
+root	ROOT	runs
+case	field	through
+det	field	a
+nmod:through	runs	field
+case	flowers	of
+amod	flowers	yellow
+nmod:of	field	flowers
+punct	runs	.

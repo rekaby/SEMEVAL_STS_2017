@@ -1,0 +1,9 @@
+root	ROOT	take
+compound:prt	take	up
+punct	take	,
+case	debts	as
+mwe	as	of
+nmod:as_of	take	debts
+cc	debts	or
+conj:or	debts	payments
+punct	take	.

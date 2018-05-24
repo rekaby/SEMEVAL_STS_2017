@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	prepares	dog
+root	ROOT	prepares
+case	herd	to
+nmod:to	prepares	herd
+nummod	sheep	three
+dep	herd	sheep
+case	horns	with
+nmod:with	sheep	horns
+punct	prepares	.

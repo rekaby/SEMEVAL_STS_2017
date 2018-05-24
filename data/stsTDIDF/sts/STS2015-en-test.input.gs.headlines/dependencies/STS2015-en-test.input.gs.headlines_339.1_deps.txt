@@ -1,0 +1,6 @@
+amod	premier	Chinese
+nsubj	meets	premier
+root	ROOT	meets
+amod	president	Indian
+compound	president	vice
+dobj	meets	president

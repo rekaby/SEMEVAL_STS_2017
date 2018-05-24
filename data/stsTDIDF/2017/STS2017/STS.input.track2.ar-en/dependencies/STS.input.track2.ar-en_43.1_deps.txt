@@ -1,0 +1,12 @@
+det	man	The
+nsubj	taking	man
+aux	taking	is
+root	ROOT	taking
+det	picture	a
+dobj	taking	picture
+case	Building	of
+det	Building	the
+compound	Building	Empire
+compound	Building	State
+nmod:of	picture	Building
+punct	taking	.

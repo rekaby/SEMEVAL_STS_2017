@@ -1,0 +1,7 @@
+holds	protester	nsubj
+protester	young	amod
+war	against	case
+protester	A	det
+holds	sign	dobj
+holds	up	compound:prt
+sign	war	nmod:against

@@ -1,0 +1,9 @@
+det	retriever	A
+amod	retriever	golden
+nsubj	jumping	retriever
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	off
+det	porch	a
+amod	porch	wooden
+dobj	jumping	porch

@@ -1,0 +1,13 @@
+amod	activity	drug-trafficking
+nsubj	rampant	activity
+cop	rampant	is
+root	ROOT	rampant
+case	part	in
+det	part	the
+amod	part	southeastern
+nmod:in	rampant	part
+case	peninsula	of
+det	peninsula	the
+compound	peninsula	balkan
+nmod:of	part	peninsula
+punct	rampant	.

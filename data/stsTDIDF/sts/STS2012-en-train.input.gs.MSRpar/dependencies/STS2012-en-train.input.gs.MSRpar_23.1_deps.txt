@@ -1,0 +1,14 @@
+mark	convicted	If
+advcl	face	convicted
+case	charges	of
+det	charges	the
+compound	charges	spying
+nmod:of	convicted	charges
+punct	face	,
+nsubj	face	he
+aux	face	could
+root	ROOT	face
+det	penalty	the
+compound	penalty	death
+dobj	face	penalty
+punct	face	.

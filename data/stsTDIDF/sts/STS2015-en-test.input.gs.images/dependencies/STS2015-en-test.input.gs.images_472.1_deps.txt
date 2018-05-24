@@ -1,0 +1,14 @@
+det	man	A
+nsubj	spraying	man
+aux	spraying	is
+root	ROOT	spraying
+det	fluid	a
+dobj	spraying	fluid
+case	hose	from
+det	hose	a
+amod	hose	long
+nmod:from	spraying	hose
+case	beach	at
+det	beach	the
+nmod:at	hose	beach
+punct	spraying	.

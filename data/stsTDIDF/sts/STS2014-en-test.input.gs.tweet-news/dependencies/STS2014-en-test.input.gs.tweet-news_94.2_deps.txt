@@ -1,0 +1,9 @@
+nsubj	Signs	Ukraine
+root	ROOT	Signs
+compound	Deal	Drilling
+dobj	Signs	Deal
+case	Shell	With
+nmod:with	Deal	Shell
+case	Gas	for
+compound	Gas	Shale
+nmod:for	Shell	Gas

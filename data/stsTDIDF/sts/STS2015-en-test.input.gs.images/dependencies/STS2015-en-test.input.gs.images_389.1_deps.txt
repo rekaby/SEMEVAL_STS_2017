@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+case	men	with
+nummod	men	two
+nmod:with	woman	men
+case	hats	in
+nmod:in	men	hats
+acl	hats	socializing
+advmod	socializing	outside
+punct	woman	.

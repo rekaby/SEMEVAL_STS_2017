@@ -1,0 +1,10 @@
+det	bird	a
+amod	bird	small
+root	ROOT	bird
+acl	bird	sitting
+case	branch	on
+det	branch	a
+nmod:on	sitting	branch
+case	winter	in
+nmod:in	sitting	winter
+punct	bird	.

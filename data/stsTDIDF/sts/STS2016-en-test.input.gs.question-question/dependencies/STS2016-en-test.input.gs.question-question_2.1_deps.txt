@@ -1,0 +1,13 @@
+advmod	find	How
+aux	find	can
+nsubj	find	I
+root	ROOT	find
+compound:prt	find	out
+advmod	outlet	why
+nmod:poss	trips	my
+amod	trips	washing
+compound	trips	machine
+nsubj	outlet	trips
+det	outlet	the
+advcl	find	outlet
+punct	find	?

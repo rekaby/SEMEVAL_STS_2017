@@ -1,0 +1,5 @@
+root	ROOT	fail
+mark	attend	to
+xcomp	fail	attend
+nmod	attend	to
+punct	fail	.

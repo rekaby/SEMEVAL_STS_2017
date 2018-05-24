@@ -1,0 +1,16 @@
+det	force	the
+amod	force	social
+root	ROOT	force
+nsubj	binds	that
+acl:relcl	force	binds
+dobj	binds	you
+case	courses	to
+det	courses	the
+nmod:to	binds	courses
+case	action	of
+nmod:of	courses	action
+acl	action	demanded
+case	force	by
+det	force	that
+nmod:by	demanded	force
+punct	force	.

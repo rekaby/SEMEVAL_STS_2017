@@ -1,0 +1,10 @@
+det	toddler	A
+nsubj	shows	toddler
+case	dress	in
+det	dress	a
+amod	dress	frilly
+nmod:in	toddler	dress
+root	ROOT	shows
+nmod:poss	joy	her
+dobj	shows	joy
+punct	shows	.

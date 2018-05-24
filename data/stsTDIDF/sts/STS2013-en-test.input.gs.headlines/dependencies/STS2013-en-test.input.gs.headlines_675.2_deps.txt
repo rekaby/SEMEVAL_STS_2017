@@ -1,0 +1,7 @@
+amod	rebels	Syrian
+nsubj	retreat	rebels
+root	ROOT	retreat
+case	district	from
+amod	district	besieged
+compound	district	Homs
+nmod:from	retreat	district

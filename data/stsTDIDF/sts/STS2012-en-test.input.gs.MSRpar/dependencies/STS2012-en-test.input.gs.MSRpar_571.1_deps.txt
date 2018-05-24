@@ -1,0 +1,15 @@
+case	Nicolo	For
+compound	Nicolo	Kathy
+nmod:for	means	Nicolo
+punct	Connelly	-LRB-
+compound	Connelly	Jennifer
+appos	Nicolo	Connelly
+punct	Connelly	-RRB-
+punct	means	,
+det	house	the
+nsubj	means	house
+root	ROOT	means
+dobj	means	stability
+cc	stability	and
+conj:and	stability	family
+punct	means	.

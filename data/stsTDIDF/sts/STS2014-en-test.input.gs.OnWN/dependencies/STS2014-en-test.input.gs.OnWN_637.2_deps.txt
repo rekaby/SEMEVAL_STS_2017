@@ -1,0 +1,6 @@
+det	current	a
+amod	current	strong
+root	ROOT	current
+case	air	of
+nmod:of	current	air
+punct	current	.

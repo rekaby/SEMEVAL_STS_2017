@@ -1,0 +1,7 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	walking
+case	grass	in
+det	grass	the
+nmod:in	walking	grass
+punct	boy	.

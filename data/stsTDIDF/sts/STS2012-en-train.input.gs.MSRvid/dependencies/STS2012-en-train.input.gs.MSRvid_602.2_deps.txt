@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	slices	woman
+root	ROOT	slices
+det	fish	a
+dobj	slices	fish
+punct	slices	.

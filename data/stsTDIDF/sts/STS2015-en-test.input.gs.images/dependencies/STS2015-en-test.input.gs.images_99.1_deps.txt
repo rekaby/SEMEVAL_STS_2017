@@ -1,0 +1,8 @@
+det	poodle	A
+amod	poodle	black
+nsubj	plays	poodle
+root	ROOT	plays
+case	snow	in
+det	snow	the
+nmod:in	plays	snow
+punct	plays	.

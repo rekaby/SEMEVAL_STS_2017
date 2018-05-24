@@ -1,0 +1,8 @@
+root	ROOT	Obama
+mark	press	to
+acl	Obama	press
+dobj	press	Congress
+mark	act	to
+advcl	press	act
+case	economy	on
+nmod:on	act	economy

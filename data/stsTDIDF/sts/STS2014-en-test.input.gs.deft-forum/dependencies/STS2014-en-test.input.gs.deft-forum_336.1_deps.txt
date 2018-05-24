@@ -1,0 +1,9 @@
+nsubj	indicator	It
+cop	indicator	is
+det	indicator	an
+amod	indicator	excellent
+root	ROOT	indicator
+case	change	of
+compound	change	climate
+nmod:of	indicator	change
+punct	indicator	.

@@ -1,0 +1,13 @@
+root	ROOT	``
+amod	anything	smart
+punct	anything	''
+nsubj	bit	anything
+cop	bit	is
+det	bit	a
+root	``	bit
+case	reach	of
+det	reach	a
+nmod:of	bit	reach
+case	him	for
+nmod:for	reach	him
+punct	bit	.

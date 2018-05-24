@@ -1,0 +1,11 @@
+det	friend	a
+root	ROOT	friend
+nsubj	company	who
+cop	company	is
+advmod	company	frequently
+case	company	in
+det	company	the
+acl:relcl	friend	company
+case	another	of
+nmod:of	company	another
+punct	friend	.

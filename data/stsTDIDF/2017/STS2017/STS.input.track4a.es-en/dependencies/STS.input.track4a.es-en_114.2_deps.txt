@@ -1,0 +1,6 @@
+det	dogs	The
+nsubj	cages	dogs
+cop	cages	are
+case	cages	in
+root	ROOT	cages
+punct	cages	.

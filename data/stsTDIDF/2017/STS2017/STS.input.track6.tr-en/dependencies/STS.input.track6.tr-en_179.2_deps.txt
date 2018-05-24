@@ -1,0 +1,12 @@
+det	boys	The
+nummod	boys	two
+nsubj	smile	boys
+root	ROOT	smile
+mark	talking	while
+advcl	smile	talking
+case	fathers	to
+nmod:poss	fathers	their
+nmod:to	talking	fathers
+case	video	with
+nmod:with	talking	video
+punct	smile	.

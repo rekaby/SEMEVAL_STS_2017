@@ -1,0 +1,16 @@
+det	goal	the
+root	ROOT	goal
+acl	goal	intended
+mark	attained	to
+auxpass	attained	be
+xcomp	intended	attained
+punct	believed	-LRB-
+cc	believed	and
+nsubjpass	believed	which
+auxpass	believed	is
+dep	attained	believed
+mark	attainable	to
+cop	attainable	be
+xcomp	believed	attainable
+punct	believed	-RRB-
+punct	goal	.

@@ -1,0 +1,7 @@
+det	band	A
+nsubj	playing	band
+aux	playing	is
+root	ROOT	playing
+case	stage	on
+nmod:on	playing	stage
+punct	playing	.

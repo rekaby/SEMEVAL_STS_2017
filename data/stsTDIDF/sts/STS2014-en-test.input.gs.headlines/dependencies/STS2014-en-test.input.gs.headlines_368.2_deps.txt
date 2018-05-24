@@ -1,0 +1,13 @@
+compound	Africa	South
+nsubj	admits	Africa
+root	ROOT	admits
+amod	mistake	possible
+punct	mistake	`
+dobj	admits	mistake
+punct	mistake	'
+case	signer	over
+amod	signer	deaf
+nmod:over	mistake	signer
+case	memorial	at
+compound	memorial	Mandela
+nmod:at	signer	memorial

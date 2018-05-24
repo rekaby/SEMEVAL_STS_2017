@@ -1,0 +1,5 @@
+nsubj	eat	Girl
+root	ROOT	eat
+compound	cream	ice
+dobj	eat	cream
+punct	eat	.

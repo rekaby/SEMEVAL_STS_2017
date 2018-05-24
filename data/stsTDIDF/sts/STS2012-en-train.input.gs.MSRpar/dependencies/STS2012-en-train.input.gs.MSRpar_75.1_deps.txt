@@ -1,0 +1,16 @@
+det	bill	The
+nsubj	says	bill
+root	ROOT	says
+mark	prosecuted	that
+det	woman	a
+nsubjpass	prosecuted	woman
+nsubj	undergoes	who
+acl:relcl	woman	undergoes
+det:predet	abortion	such
+det	abortion	an
+dobj	undergoes	abortion
+aux	prosecuted	could
+neg	prosecuted	n't
+auxpass	prosecuted	be
+ccomp	says	prosecuted
+punct	says	.

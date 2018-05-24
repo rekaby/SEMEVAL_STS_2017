@@ -1,0 +1,11 @@
+nsubj	fired	Rocket
+root	ROOT	fired
+case	damages	from
+compound	damages	Gaza
+nmod:from	fired	damages
+amod	damages	home
+case	Sderot	in
+nmod:in	home	Sderot
+punct	fired	;
+nsubj	hurt	none
+parataxis	fired	hurt

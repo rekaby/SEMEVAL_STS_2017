@@ -1,0 +1,11 @@
+glass	through	case
+dog	shirt	nmod:in
+chasing	.	punct
+chasing	glass	nmod:through
+squirrel	a	det
+shirt	red	amod
+chasing	is	aux
+ROOT	chasing	root
+chasing	squirrel	dobj
+glass	the	det
+chasing	dog	nsubj

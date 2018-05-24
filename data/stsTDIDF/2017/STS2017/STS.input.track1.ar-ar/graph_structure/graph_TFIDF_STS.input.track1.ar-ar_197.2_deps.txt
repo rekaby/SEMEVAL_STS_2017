@@ -1,0 +1,6 @@
+had	couple	nsubj
+ROOT	Addresses	root
+had	dinner	dobj
+Addresses	had	acl:relcl
+had	restaurant	nmod:at
+Addresses	.	punct

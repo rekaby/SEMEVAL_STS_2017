@@ -1,0 +1,7 @@
+nummod	birds	Two
+root	ROOT	birds
+acl	birds	flying
+case	feeder	towards
+compound	feeder	water
+nmod:towards	flying	feeder
+punct	birds	.

@@ -1,0 +1,10 @@
+amod	reasons	uhhhh
+nummod	reasons	10
+root	ROOT	reasons
+nsubj	get	we
+aux	get	ca
+neg	get	n't
+acl:relcl	reasons	get
+advmod	Gosling	enough
+amod	yummie	Gosling
+dobj	get	yummie

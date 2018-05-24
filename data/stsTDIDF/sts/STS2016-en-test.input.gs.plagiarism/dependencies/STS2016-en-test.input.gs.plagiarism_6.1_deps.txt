@@ -1,0 +1,16 @@
+compound	P	•
+nsubj	probability	P
+punct	B	-LRB-
+det	B	A
+compound	B	|
+appos	P	B
+punct	B	-RRB-
+cop	probability	is
+det	probability	the
+amod	probability	conditional
+root	ROOT	probability
+case	A	of
+nmod:of	probability	A
+punct	probability	,
+case	B.	given
+nmod:given	probability	B.

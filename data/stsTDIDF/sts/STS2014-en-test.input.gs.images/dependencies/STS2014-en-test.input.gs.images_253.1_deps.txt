@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	scantily
+amod	woman	clad
+nsubj	standing	woman
+aux	standing	is
+root	ROOT	standing
+case	car	next
+mwe	next	to
+det	car	a
+nmod:next_to	standing	car
+punct	standing	.

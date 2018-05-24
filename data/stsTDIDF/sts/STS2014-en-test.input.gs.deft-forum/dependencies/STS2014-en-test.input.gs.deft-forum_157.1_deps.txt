@@ -1,0 +1,15 @@
+mark	leap	If
+nsubj	leap	you
+advcl	getting	leap
+compound:prt	leap	up
+mark	make	to
+xcomp	leap	make
+det	hit	a
+dobj	make	hit
+punct	getting	,
+nsubj	getting	you
+aux	getting	're
+root	ROOT	getting
+det	penalty	a
+dobj	getting	penalty
+punct	getting	.

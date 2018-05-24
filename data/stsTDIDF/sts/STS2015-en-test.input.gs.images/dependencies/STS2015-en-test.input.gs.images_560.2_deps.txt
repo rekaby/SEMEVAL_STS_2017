@@ -1,0 +1,13 @@
+det	boy	A
+root	ROOT	boy
+case	middle	in
+det	middle	the
+nmod:in	boy	middle
+case	pitch	of
+det	pitch	a
+nmod:of	middle	pitch
+case	game	at
+det	game	a
+compound	game	baseball
+nmod:at	pitch	game
+punct	boy	.

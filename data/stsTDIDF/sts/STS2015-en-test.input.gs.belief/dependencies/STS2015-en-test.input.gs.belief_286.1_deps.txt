@@ -1,0 +1,12 @@
+det	government	the
+nsubj	have	government
+aux	have	did
+neg	have	n't
+root	ROOT	have
+det	thing	any
+dobj	have	thing
+mark	do	to
+acl	thing	do
+case	it	with
+nmod:with	do	it
+punct	have	.

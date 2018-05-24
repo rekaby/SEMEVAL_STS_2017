@@ -1,0 +1,4 @@
+people	sitting	acl
+sitting	sidewalk	nmod:on
+sitting	night	nmod:at
+sidewalk	on	case

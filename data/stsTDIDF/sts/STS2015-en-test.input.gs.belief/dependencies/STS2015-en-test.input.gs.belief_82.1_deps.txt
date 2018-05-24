@@ -1,0 +1,9 @@
+aux	pay	do
+nsubj	pay	you
+advmod	pay	even
+root	ROOT	pay
+dobj	pay	attention
+case	events	to
+amod	events	current
+nmod:to	pay	events
+punct	pay	?

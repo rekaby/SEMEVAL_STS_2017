@@ -1,0 +1,8 @@
+nummod	girls	Three
+amod	girls	young
+nsubj	walk	girls
+root	ROOT	walk
+case	sidewalk	down
+det	sidewalk	a
+nmod:down	walk	sidewalk
+punct	walk	.

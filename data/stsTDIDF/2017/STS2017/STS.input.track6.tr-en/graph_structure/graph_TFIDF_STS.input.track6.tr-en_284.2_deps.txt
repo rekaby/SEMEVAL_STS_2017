@@ -1,0 +1,8 @@
+held	father	nmod:agent
+held	library	nmod:in
+held	is	aux
+library	a	det
+library	in	case
+father	by	case
+held	child	nsubjpass
+child	The	det

@@ -1,0 +1,9 @@
+det	person	A
+nsubj	jumping	person
+root	ROOT	jumping
+det	motorbike	a
+dobj	jumping	motorbike
+case	air	in
+det	air	the
+nmod:in	jumping	air
+punct	jumping	.

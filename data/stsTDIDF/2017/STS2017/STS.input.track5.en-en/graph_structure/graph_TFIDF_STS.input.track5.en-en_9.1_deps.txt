@@ -1,0 +1,7 @@
+yard	outside	case
+yard	front	compound
+jumps	yard	nmod:in
+jumps	.	punct
+ROOT	jumps	root
+jumps	barefoot	dobj
+jumps	boy	nsubj

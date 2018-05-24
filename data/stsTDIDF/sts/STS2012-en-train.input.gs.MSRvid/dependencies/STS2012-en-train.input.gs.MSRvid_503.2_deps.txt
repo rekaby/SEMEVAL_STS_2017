@@ -1,0 +1,10 @@
+det	man	A
+nsubj	teasing	man
+aux	teasing	is
+root	ROOT	teasing
+det	snake	a
+dobj	teasing	snake
+case	mouse	with
+det	mouse	a
+nmod:with	teasing	mouse
+punct	teasing	.

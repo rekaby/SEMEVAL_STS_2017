@@ -1,0 +1,12 @@
+amod	lord	Suspected
+compound	lord	drug
+root	ROOT	lord
+acl	lord	known
+mark	held	as
+punct	held	`
+compound	Taliban	El
+nsubj	held	Taliban
+case	Taliban	'
+advcl	known	held
+case	Mexico	in
+nmod:in	held	Mexico

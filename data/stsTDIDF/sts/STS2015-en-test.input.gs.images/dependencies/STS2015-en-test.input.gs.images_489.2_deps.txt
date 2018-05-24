@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	getting	woman
+aux	getting	is
+root	ROOT	getting
+nmod:poss	dog	her
+dobj	getting	dog
+mark	jump	to
+xcomp	getting	jump
+case	air	in
+det	air	the
+nmod:in	jump	air
+punct	getting	.

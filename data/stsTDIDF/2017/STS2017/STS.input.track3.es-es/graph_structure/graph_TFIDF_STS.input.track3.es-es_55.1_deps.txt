@@ -1,0 +1,7 @@
+foul	in	case
+catching	ball	dobj
+amateur	An	det
+catching	amateur	nsubj
+catching	is	aux
+catching	foul	nmod:in
+ROOT	catching	root

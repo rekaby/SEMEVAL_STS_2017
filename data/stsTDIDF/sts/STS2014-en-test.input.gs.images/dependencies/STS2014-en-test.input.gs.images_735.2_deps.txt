@@ -1,0 +1,14 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+nsubj	standing	photo
+case	man	of
+det	man	a
+nmod:of	photo	man
+root	ROOT	standing
+case	bus	next
+mwe	next	to
+det	bus	a
+nmod:next_to	standing	bus
+punct	standing	.

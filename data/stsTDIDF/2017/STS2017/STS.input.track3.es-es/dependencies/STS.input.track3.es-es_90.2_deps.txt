@@ -1,0 +1,7 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	runner	on
+det	runner	a
+nmod:on	walking	runner

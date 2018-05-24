@@ -1,0 +1,5 @@
+root	ROOT	stretch
+advmod	stretch	out
+cc	out	or
+conj:or	out	over
+advmod	stretch	completely

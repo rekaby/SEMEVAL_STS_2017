@@ -1,0 +1,13 @@
+bikini	in	case
+woman	bikini	nmod:in
+shirt	with	case
+look	consciously	advmod
+camera	away	case
+bikini	a	det
+look	Man	nsubj
+bikini	water	nmod:in
+shirt	woman	conj:and
+Man	shirt	nmod:with
+look	eyes	nmod:in
+look	camera	nmod:away_from
+shirt	no	neg

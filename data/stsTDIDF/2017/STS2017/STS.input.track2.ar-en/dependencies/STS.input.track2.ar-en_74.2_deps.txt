@@ -1,0 +1,8 @@
+nsubj	lighting	Proven
+root	ROOT	lighting
+det	lamp	the
+dobj	lighting	lamp
+case	floor	on
+det	floor	the
+nmod:on	lighting	floor
+punct	lighting	.

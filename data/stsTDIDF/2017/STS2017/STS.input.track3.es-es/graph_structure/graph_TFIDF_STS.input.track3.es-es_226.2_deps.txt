@@ -1,0 +1,4 @@
+running	dog	nsubj
+running	beach	nmod:on
+dog	black	amod
+black	brown	conj:and

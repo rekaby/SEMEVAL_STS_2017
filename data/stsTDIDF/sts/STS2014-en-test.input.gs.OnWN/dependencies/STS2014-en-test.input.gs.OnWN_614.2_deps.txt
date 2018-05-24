@@ -1,0 +1,10 @@
+root	ROOT	cause
+mark	agitated	to
+auxpass	agitated	be
+xcomp	cause	agitated
+punct	cause	,
+dep	cause	excited
+punct	excited	,
+cc	excited	or
+conj:or	excited	roused
+punct	cause	.

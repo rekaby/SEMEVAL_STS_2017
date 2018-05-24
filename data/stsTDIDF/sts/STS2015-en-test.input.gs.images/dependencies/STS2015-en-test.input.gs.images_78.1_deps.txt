@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+compound:prt	sitting	up
+advmod	sitting	asleep
+case	head	with
+nmod:poss	head	her
+nmod:with	sitting	head
+acl	head	resting
+case	hand	on
+nmod:poss	hand	her
+nmod:on	resting	hand
+punct	sitting	.

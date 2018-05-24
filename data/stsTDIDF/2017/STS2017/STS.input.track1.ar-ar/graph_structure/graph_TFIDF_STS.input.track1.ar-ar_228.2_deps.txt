@@ -1,0 +1,9 @@
+put	arm	dobj
+men	uniform	nmod:in
+wearing	T-shirt	dobj
+put	wall	nmod:on
+wall	men	nmod:next_to
+T-shirt	gray	amod
+uniform	in	case
+men	next	case
+put	man	nsubj

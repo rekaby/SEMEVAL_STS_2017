@@ -1,0 +1,10 @@
+compound	shares	Boeing
+compound	shares	Co
+nsubj	rose	shares
+root	ROOT	rose
+nummod	%	1.5
+dobj	rose	%
+case	$	to
+nmod:to	rose	$
+nummod	$	67.94
+punct	rose	.

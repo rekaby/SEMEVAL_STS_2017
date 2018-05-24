@@ -1,0 +1,8 @@
+det	Doll	A
+nmod:poss	Magic	Doll
+case	Doll	's
+root	ROOT	Magic
+punct	Magic	,
+appos	Magic	Free
+mark	Renew	to
+acl	Free	Renew

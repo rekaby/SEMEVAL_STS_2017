@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	small
+root	ROOT	dog
+acl	dog	looking
+compound:prt	looking	up
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+mark	standing	while
+advcl	looking	standing
+case	grass	on
+nmod:on	standing	grass
+punct	dog	.

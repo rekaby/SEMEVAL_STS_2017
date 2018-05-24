@@ -1,0 +1,10 @@
+det	judge	The
+nsubj	scheduled	judge
+root	ROOT	scheduled
+det	hearing	another
+compound	hearing	oversight
+dobj	scheduled	hearing
+case	January	for
+amod	January	late
+nmod:for	hearing	January
+punct	scheduled	.

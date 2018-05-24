@@ -1,0 +1,17 @@
+amod	way	awful
+root	ROOT	way
+mark	go	to
+acl	way	go
+compound:prt	go	out
+punct	way	...
+punct	...	''
+punct	220	:
+case	least	At
+nmod:npmod	220	least
+root	''	220
+acl	220	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	220	''

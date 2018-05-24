@@ -1,0 +1,7 @@
+det	guy	A
+nsubj	playing	guy
+aux	playing	is
+root	ROOT	playing
+det	instrument	an
+dobj	playing	instrument
+punct	playing	.

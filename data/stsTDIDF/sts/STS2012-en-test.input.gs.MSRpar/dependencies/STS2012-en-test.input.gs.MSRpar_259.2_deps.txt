@@ -1,0 +1,14 @@
+amod	revenues	Operating
+nsubj	rose	revenues
+root	ROOT	rose
+case	$	to
+nmod:to	rose	$
+compound	billion	1.45
+nummod	$	billion
+case	$	from
+nmod:from	rose	$
+compound	billion	1.38
+nummod	$	billion
+amod	year	last
+nmod:tmod	$	year
+punct	rose	.

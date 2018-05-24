@@ -1,0 +1,6 @@
+root	ROOT	Child
+acl	Child	milking
+det	cow	a
+dobj	milking	cow
+advmod	milking	outside
+punct	Child	.

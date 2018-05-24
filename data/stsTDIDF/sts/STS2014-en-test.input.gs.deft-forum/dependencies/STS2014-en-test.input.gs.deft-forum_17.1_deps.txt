@@ -1,0 +1,9 @@
+root	ROOT	BTW
+nsubj	had	he
+acl:relcl	BTW	had
+amod	deferments	appropriate
+dobj	had	deferments
+case	time	for
+det	time	the
+nmod:for	had	time
+punct	BTW	.

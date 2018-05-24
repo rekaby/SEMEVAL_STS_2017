@@ -1,0 +1,15 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+mark	become	to
+punct	become	-RRB-
+acl	Cause	become
+advmod	tense	less
+xcomp	become	tense
+punct	Cause	;
+dep	Cause	rest
+cc	rest	or
+conj:or	rest	take
+nmod:poss	ease	one
+case	one	's
+dobj	take	ease
+punct	Cause	.

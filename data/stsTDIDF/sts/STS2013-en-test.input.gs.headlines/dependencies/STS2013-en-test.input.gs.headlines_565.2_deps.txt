@@ -1,0 +1,6 @@
+nsubj	taped	Romney
+root	ROOT	taped
+case	donor	at
+amod	donor	secret
+nmod:at	taped	donor
+dobj	taped	talk

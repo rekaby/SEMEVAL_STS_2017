@@ -1,0 +1,9 @@
+det	dog	The
+amod	dog	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	beach	along
+det	beach	the
+nmod:along	running	beach
+punct	running	.

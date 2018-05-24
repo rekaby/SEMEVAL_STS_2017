@@ -1,0 +1,12 @@
+csubj	way	Running
+advmod	Running	downhill
+cop	way	is
+det	way	the
+amod	way	BEST
+root	ROOT	way
+mark	strengthen	to
+acl	way	strengthen
+nmod:poss	muscles	your
+compound	muscles	quad
+dobj	strengthen	muscles
+punct	way	.

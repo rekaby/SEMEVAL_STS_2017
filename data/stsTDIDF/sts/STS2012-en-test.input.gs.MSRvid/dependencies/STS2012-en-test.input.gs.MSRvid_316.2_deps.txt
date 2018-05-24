@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+dobj	putting	flour
+case	meat	onto
+det	meat	some
+nmod:onto	putting	meat
+punct	putting	.

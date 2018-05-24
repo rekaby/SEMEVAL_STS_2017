@@ -1,0 +1,13 @@
+det	mallard	A
+root	ROOT	mallard
+cc	mallard	and
+det	duck	a
+amod	duck	tame
+amod	duck	white
+conj:and	mallard	duck
+case	grass	on
+det	grass	the
+nmod:on	mallard	grass
+case	water	near
+nmod:near	grass	water
+punct	mallard	.

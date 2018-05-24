@@ -1,0 +1,7 @@
+root	ROOT	US
+acl	US	helping
+amod	rebels	get
+dobj	get	arms
+case	Syria	to
+nmod:to	get	Syria
+dobj	helping	rebels

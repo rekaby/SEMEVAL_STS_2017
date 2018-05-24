@@ -1,0 +1,11 @@
+det	point	This
+compound	point	regulation
+nsubj	opens	point
+root	ROOT	opens
+det	door	the
+dobj	opens	door
+case	one	to
+det	one	the
+amod	one	arbitrary
+nmod:to	opens	one
+punct	opens	.

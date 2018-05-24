@@ -1,0 +1,9 @@
+compound	powers	World
+root	ROOT	powers
+punct	powers	,
+nsubj	revive	Iran
+case	Rouhani	under
+nmod:under	Iran	Rouhani
+acl:relcl	powers	revive
+amod	talks	nuclear
+dobj	revive	talks

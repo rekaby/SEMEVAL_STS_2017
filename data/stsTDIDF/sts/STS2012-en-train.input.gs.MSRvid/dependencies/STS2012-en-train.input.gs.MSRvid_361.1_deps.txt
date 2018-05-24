@@ -1,0 +1,7 @@
+det	man	A
+nsubj	walking	man
+cc	man	and
+conj:and	man	woman
+aux	walking	are
+root	ROOT	walking
+punct	walking	.

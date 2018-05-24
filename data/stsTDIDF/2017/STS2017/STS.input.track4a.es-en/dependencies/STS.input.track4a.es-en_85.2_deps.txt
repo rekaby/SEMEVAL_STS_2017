@@ -1,0 +1,9 @@
+det	guy	The
+nsubj	standing	guy
+aux	standing	is
+root	ROOT	standing
+case	tree	next
+mwe	next	to
+det	tree	a
+nmod:next_to	standing	tree
+punct	standing	.

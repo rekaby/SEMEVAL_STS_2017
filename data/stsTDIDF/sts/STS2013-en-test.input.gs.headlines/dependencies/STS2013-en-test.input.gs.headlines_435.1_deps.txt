@@ -1,0 +1,5 @@
+amod	stocks	Chinese
+nsubj	open	stocks
+root	ROOT	open
+advmod	open	lower
+nmod:tmod	open	Wednesday

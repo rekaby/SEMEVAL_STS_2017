@@ -1,0 +1,7 @@
+nsubj	playing	Someone
+aux	playing	is
+root	ROOT	playing
+case	toad	with
+det	toad	a
+nmod:with	playing	toad
+punct	playing	.

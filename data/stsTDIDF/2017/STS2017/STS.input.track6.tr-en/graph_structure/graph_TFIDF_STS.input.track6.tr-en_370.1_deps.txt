@@ -1,0 +1,8 @@
+'s	woman	nsubj
+women	other	amod
+camera	with	case
+'s	camera	nmod:with
+women	several	amod
+camera	women	nmod:among
+women	among	case
+women	area	nmod:in

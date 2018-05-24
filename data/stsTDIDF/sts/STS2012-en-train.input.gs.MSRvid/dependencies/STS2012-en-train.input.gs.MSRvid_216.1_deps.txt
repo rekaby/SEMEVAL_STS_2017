@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	riding	boy
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+punct	riding	.

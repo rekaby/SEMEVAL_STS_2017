@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+case	mud	in
+det	mud	the
+nmod:in	playing	mud
+punct	playing	.

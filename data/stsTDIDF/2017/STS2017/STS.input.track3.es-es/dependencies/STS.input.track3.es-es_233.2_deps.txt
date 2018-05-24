@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	sitting	woman
+case	phone	on
+det	phone	the
+nmod:on	woman	phone
+aux	sitting	is
+root	ROOT	sitting
+case	chair	on
+det	chair	a
+nmod:on	sitting	chair
+punct	sitting	.

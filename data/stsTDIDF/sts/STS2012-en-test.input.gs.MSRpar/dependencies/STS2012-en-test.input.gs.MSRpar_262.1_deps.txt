@@ -1,0 +1,13 @@
+nsubj	program	Lawtey
+cop	program	is
+neg	program	not
+det	program	the
+amod	program	first
+amod	program	faith-based
+root	ROOT	program
+case	system	in
+nmod:poss	system	Florida
+case	Florida	's
+compound	system	prison
+nmod:in	program	system
+punct	program	.

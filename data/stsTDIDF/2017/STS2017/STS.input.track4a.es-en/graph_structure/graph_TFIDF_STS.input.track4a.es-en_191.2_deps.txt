@@ -1,0 +1,6 @@
+woman	man	conj:and
+ROOT	dancing	root
+dancing	street	nmod:in
+dancing	.	punct
+dancing	are	aux
+dancing	woman	nsubj

@@ -1,0 +1,11 @@
+det	x	the
+amod	x	red
+nsubj	means	x
+root	ROOT	means
+mark	safe	that
+det	circuit	the
+nsubj	safe	circuit
+cop	safe	is
+neg	safe	not
+ccomp	means	safe
+punct	means	.

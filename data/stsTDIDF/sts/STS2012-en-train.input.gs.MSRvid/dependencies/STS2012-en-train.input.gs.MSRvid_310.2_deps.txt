@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	cleaning	woman
+aux	cleaning	is
+root	ROOT	cleaning
+det	shrimp	a
+dobj	cleaning	shrimp
+punct	cleaning	.

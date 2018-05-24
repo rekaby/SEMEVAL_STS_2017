@@ -1,0 +1,14 @@
+nsubj	said	Sendmail
+root	ROOT	said
+det	system	the
+nsubjpass	set	system
+aux	set	can
+advmod	set	even
+auxpass	set	be
+ccomp	said	set
+compound:prt	set	up
+mark	permit	to
+xcomp	set	permit
+amod	usage	business-only
+dobj	permit	usage
+punct	said	.

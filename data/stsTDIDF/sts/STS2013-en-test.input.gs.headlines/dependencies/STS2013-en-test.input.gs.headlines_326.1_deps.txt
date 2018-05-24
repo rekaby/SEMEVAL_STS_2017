@@ -1,0 +1,8 @@
+compound	protest	Police
+compound	protest	disperse
+root	ROOT	protest
+case	Sudan	in
+amod	Sudan	east
+nmod:in	protest	Sudan
+punct	protest	-
+dep	protest	witnesses

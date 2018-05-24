@@ -1,0 +1,9 @@
+det	man	A
+nsubj	tries	man
+root	ROOT	tries
+mark	extinguish	to
+xcomp	tries	extinguish
+det	fire	a
+amod	fire	small
+dobj	extinguish	fire
+punct	tries	.

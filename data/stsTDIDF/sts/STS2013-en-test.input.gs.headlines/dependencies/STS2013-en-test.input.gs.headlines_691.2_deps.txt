@@ -1,0 +1,9 @@
+det	Planner	The
+compound	Planner	Presidential
+root	ROOT	Planner
+punct	Planner	-
+det	Fair	The
+compound	Fair	White
+compound	Fair	House
+compound	Fair	Science
+dep	Planner	Fair

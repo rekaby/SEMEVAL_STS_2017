@@ -1,0 +1,8 @@
+nummod	sheep	Three
+root	ROOT	sheep
+case	middle	in
+nmod:in	sheep	middle
+case	road	of
+compound	road	gravel
+nmod:of	middle	road
+punct	sheep	.

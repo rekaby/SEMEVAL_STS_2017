@@ -1,0 +1,15 @@
+nsubj	was	Revenue
+root	ROOT	was
+case	tad	up
+det	tad	a
+nmod:up	was	tad
+punct	tad	,
+case	$	from
+nmod:from	tad	$
+compound	million	610.6
+nummod	$	million
+case	$	to
+nmod:to	$	$
+compound	million	616.5
+nummod	$	million
+punct	was	.

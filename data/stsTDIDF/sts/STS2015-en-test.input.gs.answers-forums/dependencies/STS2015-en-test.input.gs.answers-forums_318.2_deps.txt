@@ -1,0 +1,11 @@
+det	list	This
+compound	list	page
+root	ROOT	list
+det:predet	markets	all
+det	markets	the
+amod	markets	big
+compound	markets	Christmas
+dobj	list	markets
+case	Switzerland	in
+nmod:in	markets	Switzerland
+punct	list	.

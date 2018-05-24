@@ -1,0 +1,8 @@
+crossing	using	xcomp
+ROOT	crossing	root
+lake	a	det
+crossing	Dogs	nsubj
+footbridge	a	det
+crossing	lake	dobj
+crossing	.	punct
+using	footbridge	dobj

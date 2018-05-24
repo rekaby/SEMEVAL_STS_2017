@@ -1,0 +1,16 @@
+root	ROOT	Write
+advmod	Write	differently
+cc	Write	or
+conj:or	Write	alter
+det	piece	a
+dobj	alter	piece
+cc	piece	or
+conj:or	piece	writing
+punct	Write	,
+advmod	suit	perhaps
+mark	suit	to
+advcl	Write	suit
+det	purpose	a
+amod	purpose	different
+dobj	suit	purpose
+punct	Write	.

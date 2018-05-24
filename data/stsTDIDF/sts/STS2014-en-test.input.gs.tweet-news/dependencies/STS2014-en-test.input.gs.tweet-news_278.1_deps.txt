@@ -1,0 +1,13 @@
+root	ROOT	Life
+case	Militants	under
+amod	Militants	Islamist
+nmod:under	Life	Militants
+punct	Life	-
+amod	limbs	Broken
+dep	Life	limbs
+punct	limbs	,
+amod	lives	torn
+appos	limbs	lives
+case	Mali	in
+amod	Mali	northern
+nmod:in	lives	Mali

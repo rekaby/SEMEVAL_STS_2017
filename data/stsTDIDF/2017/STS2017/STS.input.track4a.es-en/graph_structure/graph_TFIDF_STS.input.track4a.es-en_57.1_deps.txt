@@ -1,0 +1,14 @@
+green	,	punct
+green	red	conj:and
+group	hikers	nmod:of
+green	black	conj:and
+hikers	of	case
+wearing	standing	dobj
+area	wooded	amod
+hikers	wearing	acl
+dirt	the	det
+green	and	cc
+dirt	in	case
+standing	dirt	nmod:in
+wearing	area	nmod:in
+standing	green	amod

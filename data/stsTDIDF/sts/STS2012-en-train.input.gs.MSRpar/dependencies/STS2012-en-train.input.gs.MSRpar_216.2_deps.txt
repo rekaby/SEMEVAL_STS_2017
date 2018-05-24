@@ -1,0 +1,14 @@
+nsubj	said	Ridge
+root	ROOT	said
+mark	used	that
+neg	explosives	no
+amod	explosives	actual
+nsubjpass	used	explosives
+cc	explosives	or
+amod	substances	other
+amod	substances	harmful
+conj:or	explosives	substances
+aux	used	will
+auxpass	used	be
+ccomp	said	used
+punct	said	.

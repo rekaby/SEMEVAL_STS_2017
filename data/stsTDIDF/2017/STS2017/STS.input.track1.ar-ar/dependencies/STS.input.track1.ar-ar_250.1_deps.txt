@@ -1,0 +1,9 @@
+root	ROOT	Stick
+acl	Stick	maintained
+case	person	by
+det	person	a
+nmod:by	maintained	person
+case	clothing	with
+amod	clothing	dark
+nmod:with	person	clothing
+punct	Stick	.

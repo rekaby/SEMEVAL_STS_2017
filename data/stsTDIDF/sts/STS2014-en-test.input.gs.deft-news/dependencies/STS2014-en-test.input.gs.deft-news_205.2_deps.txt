@@ -1,0 +1,16 @@
+det	group	the
+compound	group	abductee
+compound	group	support
+nsubj	use	group
+aux	use	will
+root	ROOT	use
+det	survey	the
+dobj	use	survey
+mark	press	to
+advcl	use	press
+dobj	press	parliament
+mark	pass	to
+advcl	press	pass
+amod	laws	new
+dobj	pass	laws
+punct	use	.

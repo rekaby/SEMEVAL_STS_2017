@@ -1,0 +1,16 @@
+advmod	is	Here
+root	ROOT	is
+nmod:poss	answer	my
+nsubj	posted	answer
+case	question	to
+det	question	a
+amod	question	similar
+nmod:to	answer	question
+ccomp	is	posted
+case	website	on
+det	website	the
+compound	website	physics
+compound	website	stack
+compound	website	exchange
+nmod:on	posted	website
+punct	is	.

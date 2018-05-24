@@ -1,0 +1,17 @@
+det	player	A
+compound	player	baseball
+nsubj	runs	player
+root	ROOT	runs
+case	member	as
+det	member	a
+nmod:as	runs	member
+case	team	of
+det	team	the
+amod	team	opposing
+nmod:of	member	team
+xcomp	runs	lengthens
+mark	catch	to
+xcomp	lengthens	catch
+det	ball	the
+dobj	catch	ball
+punct	runs	.

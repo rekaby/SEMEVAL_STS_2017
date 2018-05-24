@@ -1,0 +1,9 @@
+nsubj	held	Girls
+root	ROOT	held
+nmod:poss	fingers	their
+dobj	held	fingers
+case	form	on
+det	form	the
+nmod:on	held	form
+case	V.	of
+nmod:of	form	V.

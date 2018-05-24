@@ -1,0 +1,16 @@
+advmod	meaning	Here
+mark	meaning	by
+root	ROOT	meaning
+mark	plan	that
+det	program	a
+nsubj	plan	program
+aux	plan	can
+cop	plan	be
+det	plan	an
+amod	plan	optimal
+ccomp	meaning	plan
+case	action	for
+det	action	the
+amod	action	produced
+nmod:for	plan	action
+punct	meaning	.

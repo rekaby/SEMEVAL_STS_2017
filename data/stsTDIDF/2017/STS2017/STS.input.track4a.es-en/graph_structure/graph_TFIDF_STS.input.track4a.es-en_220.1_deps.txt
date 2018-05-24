@@ -1,0 +1,9 @@
+crosswalk	a	det
+cycling	.	punct
+cycling	men	nsubj
+cycling	are	aux
+cycling	crosswalk	nmod:through
+crosswalk	through	case
+men	suits	nmod:in
+suits	in	case
+ROOT	cycling	root

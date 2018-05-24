@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	gather	men
+root	ROOT	gather
+case	lunch	for
+nmod:for	gather	lunch
+mark	discuss	to
+xcomp	gather	discuss
+dobj	discuss	business
+punct	gather	.

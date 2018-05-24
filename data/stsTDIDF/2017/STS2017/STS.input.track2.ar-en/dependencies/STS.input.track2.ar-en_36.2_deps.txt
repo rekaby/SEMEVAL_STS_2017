@@ -1,0 +1,5 @@
+compound	Atsabakan	Varsan
+root	ROOT	Atsabakan
+case	horseback	on
+nmod:on	Atsabakan	horseback
+punct	Atsabakan	.

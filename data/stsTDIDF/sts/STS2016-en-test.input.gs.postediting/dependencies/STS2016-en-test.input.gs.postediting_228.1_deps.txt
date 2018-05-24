@@ -1,0 +1,14 @@
+nsubj	pleased	I
+cop	pleased	am
+root	ROOT	pleased
+mark	have	to
+xcomp	pleased	have
+det	family	a
+amod	family	wonderful
+dobj	have	family
+nsubj	best	who
+aux	best	will
+case	best	at
+acl:relcl	family	best
+punct	best	''
+punct	pleased	.

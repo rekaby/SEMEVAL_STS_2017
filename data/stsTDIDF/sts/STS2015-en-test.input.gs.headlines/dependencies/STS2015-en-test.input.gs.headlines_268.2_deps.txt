@@ -1,0 +1,10 @@
+compound	wildfire	Colorado
+nsubj	destroyer	wildfire
+aux	destroyer	may
+cop	destroyer	be
+amod	destroyer	biggest
+compound	destroyer	property
+root	ROOT	destroyer
+case	history	in
+compound	history	state
+nmod:in	destroyer	history

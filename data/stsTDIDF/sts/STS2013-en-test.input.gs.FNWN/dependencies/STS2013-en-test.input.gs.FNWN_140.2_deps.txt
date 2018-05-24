@@ -1,0 +1,11 @@
+root	ROOT	help
+case	food	to
+det	food	some
+nmod:to	help	food
+punct	help	;
+dep	help	help
+case	food	with
+nmod:with	help	food
+cc	food	or
+conj:or	food	drink
+punct	help	;

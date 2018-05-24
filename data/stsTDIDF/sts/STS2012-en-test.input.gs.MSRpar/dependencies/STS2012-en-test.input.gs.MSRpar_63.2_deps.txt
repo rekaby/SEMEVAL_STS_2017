@@ -1,0 +1,14 @@
+nsubj	reading	It
+cop	reading	is
+det	reading	the
+amod	reading	highest
+root	ROOT	reading
+mark	created	since
+det	index	the
+nsubjpass	created	index
+auxpass	created	was
+advcl	reading	created
+case	August	in
+nmod:in	created	August
+nummod	August	1997
+punct	reading	.

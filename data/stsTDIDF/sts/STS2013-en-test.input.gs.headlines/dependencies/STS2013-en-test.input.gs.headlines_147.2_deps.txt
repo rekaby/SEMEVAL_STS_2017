@@ -1,0 +1,8 @@
+compound	attacks	Israel
+root	ROOT	attacks
+case	Strip	in
+compound	Strip	Gaza
+nmod:in	attacks	Strip
+case	fire	after
+compound	fire	rocket
+nmod:after	attacks	fire

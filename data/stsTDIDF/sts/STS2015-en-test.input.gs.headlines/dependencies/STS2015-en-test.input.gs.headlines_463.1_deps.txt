@@ -1,0 +1,7 @@
+nsubj	makes	US
+root	ROOT	makes
+dobj	makes	case
+case	action	for
+nmod:for	case	action
+case	Syria	against
+nmod:against	action	Syria

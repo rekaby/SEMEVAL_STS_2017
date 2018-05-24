@@ -1,0 +1,5 @@
+det	cubicle	An
+amod	cubicle	empty
+compound	cubicle	office
+root	ROOT	cubicle
+punct	cubicle	.

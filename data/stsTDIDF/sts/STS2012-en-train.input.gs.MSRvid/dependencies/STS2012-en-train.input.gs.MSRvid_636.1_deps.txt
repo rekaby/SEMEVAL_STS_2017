@@ -1,0 +1,6 @@
+det	person	A
+nsubj	boiling	person
+aux	boiling	is
+root	ROOT	boiling
+dobj	boiling	noodles
+punct	boiling	.

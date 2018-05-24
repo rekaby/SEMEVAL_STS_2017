@@ -1,0 +1,9 @@
+det	person	A
+nsubj	adding	person
+aux	adding	is
+root	ROOT	adding
+dobj	adding	food
+case	pan	in
+det	pan	a
+nmod:in	adding	pan
+punct	adding	.

@@ -1,0 +1,10 @@
+root	ROOT	become
+xcomp	become	injured
+punct	injured	,
+conj:or	injured	broken
+punct	injured	,
+cc	injured	or
+conj:or	injured	distorted
+case	pressure	by
+nmod:by	distorted	pressure
+punct	become	.

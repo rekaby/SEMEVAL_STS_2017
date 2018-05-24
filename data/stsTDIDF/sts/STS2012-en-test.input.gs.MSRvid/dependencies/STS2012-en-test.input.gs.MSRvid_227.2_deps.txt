@@ -1,0 +1,9 @@
+det	man	The
+nsubj	poured	man
+root	ROOT	poured
+dobj	poured	oil
+case	tomatoes	on
+det	tomatoes	the
+compound	tomatoes	cut
+nmod:on	poured	tomatoes
+punct	poured	.

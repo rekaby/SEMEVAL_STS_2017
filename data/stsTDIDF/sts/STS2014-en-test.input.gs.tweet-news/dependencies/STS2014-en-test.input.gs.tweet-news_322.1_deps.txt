@@ -1,0 +1,11 @@
+nsubj	makes	#Socialmedia
+ccomp	says	makes
+dobj	makes	folks
+advmod	honest	more
+amod	folks	honest
+punct	says	,
+root	ROOT	says
+compound	#Facebook	#Cornell
+compound	#Facebook	prof
+nsubj	#LinkedIn	#Facebook
+ccomp	says	#LinkedIn

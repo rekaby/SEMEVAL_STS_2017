@@ -1,0 +1,8 @@
+root	ROOT	22
+acl	22	killed
+case	accident	in
+amod	accident	mine
+nmod:in	killed	accident
+case	China	in
+amod	China	southwestern
+nmod:in	accident	China

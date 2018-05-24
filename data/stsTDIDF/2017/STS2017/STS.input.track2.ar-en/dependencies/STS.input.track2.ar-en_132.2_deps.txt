@@ -1,0 +1,10 @@
+nsubj	jumps	Skater
+root	ROOT	jumps
+advmod	jumps	aloft
+mark	skateboard	while
+nsubj	skateboard	he
+cop	skateboard	is
+case	skateboard	on
+det	skateboard	a
+advcl:on	jumps	skateboard
+punct	jumps	.

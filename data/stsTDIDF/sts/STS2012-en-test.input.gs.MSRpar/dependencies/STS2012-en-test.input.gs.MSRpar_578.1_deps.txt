@@ -1,0 +1,13 @@
+det	settlement	The
+nsubj	includes	settlement
+root	ROOT	includes
+dobj	includes	$
+compound	million	4.1
+nummod	$	million
+case	fees	in
+nmod:poss	fees	attorneys
+case	attorneys	'
+nmod:in	$	fees
+cc	fees	and
+conj:and	fees	expenses
+punct	includes	.

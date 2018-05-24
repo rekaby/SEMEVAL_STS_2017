@@ -1,0 +1,11 @@
+root	ROOT	Front
+cc	Front	and
+conj:and	Front	left
+dobj	left	side
+case	bus	of
+det	bus	a
+amod	bus	red
+amod	bus	double
+compound	bus	decker
+nmod:of	side	bus
+punct	Front	.

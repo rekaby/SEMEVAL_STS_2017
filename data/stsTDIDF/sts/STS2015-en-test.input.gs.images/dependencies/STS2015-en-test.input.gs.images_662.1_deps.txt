@@ -1,0 +1,9 @@
+root	ROOT	Woman
+case	overalls	in
+amod	overalls	red
+nmod:in	Woman	overalls
+acl	overalls	standing
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	standing	sidewalk
+punct	Woman	.

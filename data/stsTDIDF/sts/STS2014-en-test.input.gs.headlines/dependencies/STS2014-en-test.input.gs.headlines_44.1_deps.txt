@@ -1,0 +1,7 @@
+nummod	attack	11
+acl	11	killed
+case	station	in
+amod	station	Chinese
+compound	station	police
+nmod:in	killed	station
+root	ROOT	attack

@@ -1,0 +1,8 @@
+amod	rebels	Communist
+nsubj	ambush	rebels
+root	ROOT	ambush
+amod	police	Philippine
+dobj	ambush	police
+punct	ambush	,
+dep	ambush	kill
+dobj	kill	7

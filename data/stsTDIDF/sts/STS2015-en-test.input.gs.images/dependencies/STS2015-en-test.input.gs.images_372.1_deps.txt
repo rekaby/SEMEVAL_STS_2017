@@ -1,0 +1,5 @@
+det	boy	A
+nsubj	plays	boy
+root	ROOT	plays
+dobj	plays	baseball
+punct	plays	.

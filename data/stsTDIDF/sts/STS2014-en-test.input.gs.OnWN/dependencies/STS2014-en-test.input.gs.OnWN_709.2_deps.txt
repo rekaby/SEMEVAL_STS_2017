@@ -1,0 +1,10 @@
+det	event	the
+root	ROOT	event
+acl	event	of
+dep	of	something
+amod	something	burning
+punct	destructive	-LRB-
+advmod	destructive	often
+dep	burning	destructive
+punct	destructive	-RRB-
+punct	event	.

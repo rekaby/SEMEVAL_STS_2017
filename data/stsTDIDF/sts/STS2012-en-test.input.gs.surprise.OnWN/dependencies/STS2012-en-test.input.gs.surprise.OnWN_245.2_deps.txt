@@ -1,0 +1,12 @@
+root	ROOT	have
+dobj	have	trust
+case	trust	in
+punct	trust	;
+nmod:in	trust	trust
+case	truth	in
+det	truth	the
+nmod:in	trust	truth
+cc	truth	or
+conj:or	truth	veracity
+acl	truth	of
+punct	have	.

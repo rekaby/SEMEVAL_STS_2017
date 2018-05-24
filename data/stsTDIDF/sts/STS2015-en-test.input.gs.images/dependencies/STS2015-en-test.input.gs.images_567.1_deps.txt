@@ -1,0 +1,11 @@
+det	swimmer	A
+nsubj	doing	swimmer
+aux	doing	is
+root	ROOT	doing
+det	backstroke	the
+dobj	doing	backstroke
+case	pool	in
+det	pool	the
+compound	pool	swimming
+nmod:in	backstroke	pool
+punct	doing	.

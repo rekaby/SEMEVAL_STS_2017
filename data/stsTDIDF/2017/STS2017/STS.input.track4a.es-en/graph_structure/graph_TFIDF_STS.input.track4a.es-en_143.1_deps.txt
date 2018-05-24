@@ -1,0 +1,5 @@
+unicycle	a	det
+is	man	nsubj
+shirt	yellow	amod
+shirt	riding	acl
+riding	unicycle	dobj

@@ -1,0 +1,5 @@
+walking	is	aux
+walking	She	nsubj
+park	through	case
+park	public	amod
+walking	park	nmod:through

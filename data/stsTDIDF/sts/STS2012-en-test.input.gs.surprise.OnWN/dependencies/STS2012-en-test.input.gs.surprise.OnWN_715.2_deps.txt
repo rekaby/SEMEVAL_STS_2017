@@ -1,0 +1,14 @@
+root	ROOT	furnish
+case	opening	with
+det	opening	an
+nmod:with	furnish	opening
+mark	allow	to
+acl	opening	allow
+dobj	allow	air
+mark	circulate	to
+xcomp	allow	circulate
+cc	circulate	or
+conj:or	circulate	gas
+mark	escape	to
+xcomp	circulate	escape
+punct	furnish	.

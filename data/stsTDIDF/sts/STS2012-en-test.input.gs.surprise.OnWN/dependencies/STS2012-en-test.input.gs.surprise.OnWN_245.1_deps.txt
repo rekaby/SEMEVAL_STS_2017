@@ -1,0 +1,5 @@
+root	ROOT	acknowledge
+det	contribution	a
+dobj	acknowledge	contribution
+cc	acknowledge	or
+conj:or	acknowledge	cause

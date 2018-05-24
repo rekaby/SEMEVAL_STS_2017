@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	jumping	dog
+root	ROOT	jumping
+case	yard	in
+det	yard	a
+nmod:in	jumping	yard
+punct	jumping	.

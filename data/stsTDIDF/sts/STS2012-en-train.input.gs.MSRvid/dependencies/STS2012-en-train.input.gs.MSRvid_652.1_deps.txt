@@ -1,0 +1,7 @@
+det	man	A
+nsubj	performs	man
+root	ROOT	performs
+case	stage	on
+det	stage	a
+nmod:on	performs	stage
+punct	performs	.

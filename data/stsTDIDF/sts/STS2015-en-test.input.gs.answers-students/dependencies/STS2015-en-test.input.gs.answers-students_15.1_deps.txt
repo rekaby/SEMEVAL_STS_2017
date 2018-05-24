@@ -1,0 +1,11 @@
+advmod	open	When
+det	switch	a
+nsubj	open	switch
+cop	open	is
+csubj	complete	open
+det	circuit	the
+dobj	open	circuit
+cop	complete	is
+neg	longer	no
+advmod	complete	longer
+root	ROOT	complete

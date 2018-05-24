@@ -1,0 +1,17 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	distance	in
+det	distance	the
+nmod:in	stands	distance
+case	ocean	on
+det	ocean	the
+nmod:on	distance	ocean
+mark	stands	while
+nsubj	stands	he
+advcl	stands	stands
+case	boat	on
+det	boat	a
+amod	boat	small
+nmod:on	stands	boat
+punct	stands	.

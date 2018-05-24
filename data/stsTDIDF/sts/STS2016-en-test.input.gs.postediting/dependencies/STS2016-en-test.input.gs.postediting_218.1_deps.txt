@@ -1,0 +1,17 @@
+case	this	Despite
+nmod:despite	been	this
+punct	been	,
+nsubj	been	Iraq
+aux	been	has
+root	ROOT	been
+punct	been	,
+case	part	for
+det	part	the
+amod	part	most
+nmod:for	been	part
+punct	been	,
+det	weakness	the
+nsubj	been	weakness
+case	Bush	of
+nmod:of	weakness	Bush
+punct	been	.

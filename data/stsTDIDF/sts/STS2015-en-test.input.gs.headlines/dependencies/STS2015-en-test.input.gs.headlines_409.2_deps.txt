@@ -1,0 +1,9 @@
+nsubj	agree	US
+cc	US	and
+conj:and	US	Russia
+root	ROOT	agree
+compound	deal	Syria
+compound	deal	arms
+dobj	agree	deal
+case	Geneva	in
+nmod:in	agree	Geneva

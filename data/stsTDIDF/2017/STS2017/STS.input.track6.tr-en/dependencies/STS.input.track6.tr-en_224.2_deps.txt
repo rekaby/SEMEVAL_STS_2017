@@ -1,0 +1,9 @@
+det	man	A
+nsubj	painting	man
+aux	painting	is
+root	ROOT	painting
+case	gallery	for
+det	gallery	the
+compound	gallery	art
+nmod:for	painting	gallery
+punct	painting	.

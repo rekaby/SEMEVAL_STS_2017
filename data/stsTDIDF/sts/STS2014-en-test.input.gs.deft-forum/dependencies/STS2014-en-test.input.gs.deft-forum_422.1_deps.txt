@@ -1,0 +1,13 @@
+det	law	A
+nsubj	constitutional	law
+cop	constitutional	is
+root	ROOT	constitutional
+mark	conflict	if
+nsubj	conflict	it
+aux	conflict	does
+neg	conflict	not
+advcl	constitutional	conflict
+case	Constitution	with
+det	Constitution	the
+nmod:with	conflict	Constitution
+punct	constitutional	.

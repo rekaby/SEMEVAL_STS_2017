@@ -1,0 +1,10 @@
+det	group	A
+nsubj	sitting	group
+case	people	of
+nmod:of	group	people
+aux	sitting	are
+root	ROOT	sitting
+case	beach	on
+det	beach	the
+nmod:on	sitting	beach
+punct	sitting	.

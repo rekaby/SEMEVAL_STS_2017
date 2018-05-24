@@ -1,0 +1,10 @@
+mark	cause	to
+root	ROOT	cause
+mark	separate	to
+xcomp	cause	separate
+cc	separate	and
+conj:and	separate	go
+case	directions	in
+amod	directions	different
+nmod:in	separate	directions
+punct	cause	.

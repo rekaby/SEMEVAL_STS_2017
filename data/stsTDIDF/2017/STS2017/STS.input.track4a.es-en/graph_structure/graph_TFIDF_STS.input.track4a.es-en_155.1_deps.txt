@@ -1,0 +1,6 @@
+dressed	well	advmod
+area	through	case
+walking	area	nmod:through
+area	rural	amod
+man	walking	acl
+man	dressed	amod

@@ -1,0 +1,9 @@
+girls	dresses	nmod:in
+run	fountain	nmod:toward
+fountain	toward	case
+fountain	a	det
+girls	Three	nummod
+dresses	in	case
+dresses	white	amod
+run	girls	nsubj
+fountain	park	nmod:in

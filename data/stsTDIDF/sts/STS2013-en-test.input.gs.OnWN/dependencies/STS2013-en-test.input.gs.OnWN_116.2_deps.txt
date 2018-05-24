@@ -1,0 +1,8 @@
+det	boundary	a
+root	ROOT	boundary
+acl	boundary	marking
+det	extremities	the
+dobj	marking	extremities
+case	something	of
+nmod:of	extremities	something
+punct	boundary	.

@@ -1,0 +1,12 @@
+advmod	useful	Also
+nsubj	useful	it
+cop	useful	is
+root	ROOT	useful
+mark	keep	to
+xcomp	useful	keep
+det	consistency	the
+dobj	keep	consistency
+case	story	in
+nmod:poss	story	your
+nmod:in	keep	story
+punct	useful	.

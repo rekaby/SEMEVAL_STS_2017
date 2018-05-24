@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	museum	woman
+cop	museum	is
+case	museum	inside
+det	museum	an
+compound	museum	art
+root	ROOT	museum
+punct	museum	.

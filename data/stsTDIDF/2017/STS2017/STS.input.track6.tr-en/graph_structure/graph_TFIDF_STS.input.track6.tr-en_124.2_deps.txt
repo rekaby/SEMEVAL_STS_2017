@@ -1,0 +1,5 @@
+drives	man	nsubj
+drives	.	punct
+drives	street	nmod:down
+street	down	case
+ROOT	drives	root

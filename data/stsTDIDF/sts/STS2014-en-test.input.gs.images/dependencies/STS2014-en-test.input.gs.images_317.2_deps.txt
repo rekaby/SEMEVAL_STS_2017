@@ -1,0 +1,6 @@
+nsubj	fly	Birds
+root	ROOT	fly
+xcomp	fly	low
+case	water	over
+nmod:over	low	water
+punct	fly	.

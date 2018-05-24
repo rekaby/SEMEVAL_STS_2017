@@ -1,0 +1,7 @@
+accepts	simply	advmod
+is	accepts	ccomp
+want	What	dobj
+accepts	say	ccomp
+accepts	that	mark
+accepts	one	nsubj
+say	closes	conj:and

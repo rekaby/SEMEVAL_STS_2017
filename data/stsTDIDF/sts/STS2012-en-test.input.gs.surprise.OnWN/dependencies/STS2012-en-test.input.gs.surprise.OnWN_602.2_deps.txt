@@ -1,0 +1,11 @@
+root	ROOT	express
+advmod	express	audibly
+punct	express	;
+amod	sounds	utter
+dep	express	sounds
+punct	words	-LRB-
+neg	words	not
+advmod	words	necessarily
+appos	sounds	words
+punct	words	-RRB-
+punct	express	.

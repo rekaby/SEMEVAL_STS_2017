@@ -1,0 +1,4 @@
+amod	election	Egyptian
+nsubj	result	election
+root	ROOT	result
+ccomp	result	delayed

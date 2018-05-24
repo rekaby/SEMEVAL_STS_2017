@@ -1,0 +1,8 @@
+compound	million	Five
+nummod	citizens	million
+nsubj	get	citizens
+root	ROOT	get
+amod	salary	unofficial
+dobj	get	salary
+case	Ukraine	in
+nmod:in	get	Ukraine

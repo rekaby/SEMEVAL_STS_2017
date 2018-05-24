@@ -1,0 +1,12 @@
+det	reports	Those
+nsubjpass	denied	reports
+auxpass	denied	were
+root	ROOT	denied
+case	minister	by
+det	minister	the
+amod	minister	interior
+nmod:agent	denied	minister
+punct	Nayef	,
+compound	Nayef	Prince
+dep	denied	Nayef
+punct	denied	.

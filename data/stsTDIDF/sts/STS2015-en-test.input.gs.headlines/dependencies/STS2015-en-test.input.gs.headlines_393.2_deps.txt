@@ -1,0 +1,9 @@
+amod	officials	Iraqi
+root	ROOT	officials
+punct	officials	:
+nummod	bodies	50
+dep	officials	bodies
+acl	bodies	found
+advmod	found	south
+case	Baghdad	of
+nmod:of	south	Baghdad

@@ -1,0 +1,8 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	9
+case	rally	at
+compound	rally	Pakistan
+amod	rally	political
+nmod:at	kills	rally

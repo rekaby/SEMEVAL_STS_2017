@@ -1,0 +1,9 @@
+nmod:poss	Bezos	Amazon
+case	Amazon	's
+nsubj	buys	Bezos
+root	ROOT	buys
+compound	Post	Washington
+dobj	buys	Post
+case	$	for
+nmod:for	buys	$
+nummod	$	250-M

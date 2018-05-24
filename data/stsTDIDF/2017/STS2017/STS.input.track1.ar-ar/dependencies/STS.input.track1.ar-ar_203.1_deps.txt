@@ -1,0 +1,8 @@
+det	world	The
+nsubj	has	world
+root	ROOT	has
+neg	microscope	no
+dobj	has	microscope
+mark	seen	to
+auxpass	seen	be
+acl	microscope	seen

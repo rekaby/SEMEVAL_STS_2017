@@ -1,0 +1,10 @@
+root	ROOT	CCTV
+punct	CCTV	:
+compound	dress	York
+compound	dress	conmen
+dep	CCTV	dress
+case	women	as
+nmod:as	dress	women
+mark	trick	to
+acl	dress	trick
+dobj	trick	pensioners

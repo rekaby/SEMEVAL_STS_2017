@@ -1,0 +1,6 @@
+compound	Younis	Waqar
+root	ROOT	Younis
+advmod	Younis	back
+case	coach	as
+compound	coach	Pakistan
+nmod:as	back	coach

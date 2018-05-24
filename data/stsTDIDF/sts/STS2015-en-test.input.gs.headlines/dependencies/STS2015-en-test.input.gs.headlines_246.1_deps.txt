@@ -1,0 +1,10 @@
+compound	Kong	Hong
+nsubj	set	Kong
+root	ROOT	set
+case	rally	for
+amod	rally	huge
+compound	rally	democracy
+nmod:for	set	rally
+case	anniversary	on
+compound	anniversary	handover
+nmod:on	set	anniversary

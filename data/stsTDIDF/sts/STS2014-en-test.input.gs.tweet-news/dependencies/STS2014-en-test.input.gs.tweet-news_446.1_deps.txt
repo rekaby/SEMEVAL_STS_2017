@@ -1,0 +1,20 @@
+root	ROOT	Amen
+punct	Amen	!
+punct	Amen	''-3) punct(news-3, :
+amod	news	Good
+root	ROOT	news
+punct	news	...
+punct	news	.-5) nmod:poss(Plans-5, My
+compound	Plans	shero
+compound	Plans	Robin
+compound	Plans	Roberts
+root	ROOT	Plans
+nsubj	Return	February
+acl:relcl	Plans	Return
+case	America	to
+punct	America	`
+amod	America	Good
+compound	America	Morning
+nmod:to	Return	America
+punct	Plans	'
+punct	Plans	''

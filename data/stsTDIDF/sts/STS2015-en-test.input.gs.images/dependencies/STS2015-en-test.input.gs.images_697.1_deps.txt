@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	blowing
+det	bubble	a
+amod	bubble	large
+dobj	blowing	bubble
+punct	man	.

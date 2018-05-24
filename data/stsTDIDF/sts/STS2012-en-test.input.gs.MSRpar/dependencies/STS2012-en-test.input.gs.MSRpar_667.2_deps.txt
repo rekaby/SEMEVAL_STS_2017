@@ -1,0 +1,16 @@
+nsubj	cost	It
+aux	cost	will
+root	ROOT	cost
+advmod	$	about
+dobj	cost	$
+nummod	$	20,000
+case	course	per
+amod	course	average
+nmod:per	$	course
+case	treatment	of
+nmod:of	course	treatment
+compound	17	-16
+dep	17	to
+nummod	weeks	17
+nmod:tmod	treatment	weeks
+punct	cost	.

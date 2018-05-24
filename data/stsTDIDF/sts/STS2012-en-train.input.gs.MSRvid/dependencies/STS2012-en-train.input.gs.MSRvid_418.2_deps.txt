@@ -1,0 +1,7 @@
+det	man	A
+nsubj	tying	man
+aux	tying	is
+root	ROOT	tying
+det	noose	a
+dobj	tying	noose
+punct	tying	.

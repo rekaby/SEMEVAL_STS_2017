@@ -1,0 +1,11 @@
+root	ROOT	cause
+mark	move	to
+xcomp	cause	move
+cc	move	or
+conj:or	move	operate
+advmod	move	freely
+case	space	within
+det	space	a
+amod	space	bounded
+nmod:within	move	space
+punct	cause	.

@@ -1,0 +1,10 @@
+nsubj	takes	Obama
+root	ROOT	takes
+punct	selfie	`
+dobj	takes	selfie
+punct	selfie	'
+case	service	at
+nmod:poss	service	Mandela
+case	Mandela	's
+amod	service	funeral
+nmod:at	selfie	service

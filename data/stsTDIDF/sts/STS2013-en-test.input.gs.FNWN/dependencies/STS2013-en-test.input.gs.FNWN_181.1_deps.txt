@@ -1,0 +1,12 @@
+det	perceiver	a
+nsubj	determines	perceiver
+root	ROOT	determines
+det	location	the
+dobj	determines	location
+case	sought_entity	of
+det	sought_entity	a
+nmod:of	location	sought_entity
+case	ground	within
+det	ground	a
+nmod:within	location	ground
+punct	determines	.

@@ -1,0 +1,9 @@
+nsubj	path	bulbs
+dep	bulbs	A
+cc	A	and
+conj:and	A	B
+cop	path	are
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

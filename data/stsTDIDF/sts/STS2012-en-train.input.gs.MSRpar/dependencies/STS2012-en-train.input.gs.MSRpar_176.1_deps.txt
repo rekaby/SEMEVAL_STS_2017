@@ -1,0 +1,15 @@
+case	connection	In
+nmod:in	acknowledged	connection
+case	incident	with
+det	incident	the
+nmod:with	connection	incident
+punct	acknowledged	,
+nsubj	acknowledged	I
+aux	acknowledged	have
+root	ROOT	acknowledged
+mark	behaved	that
+nsubj	behaved	I
+ccomp	acknowledged	behaved
+advmod	behaved	inappropriately
+punct	acknowledged	.
+punct	acknowledged	''

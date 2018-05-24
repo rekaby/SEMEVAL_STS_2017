@@ -1,0 +1,9 @@
+holding	jacket	dobj
+jacket	pink	amod
+arms	her	nmod:poss
+top	in	case
+holding	woman	nsubj
+top	blue	amod
+woman	top	nmod:in
+arms	in	case
+holding	arms	nmod:in

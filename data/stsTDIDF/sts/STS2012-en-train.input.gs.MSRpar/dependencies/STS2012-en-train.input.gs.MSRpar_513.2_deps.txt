@@ -1,0 +1,13 @@
+nsubj	reported	They
+root	ROOT	reported
+dobj	reported	symptoms
+case	fever	of
+nmod:of	symptoms	fever
+punct	fever	,
+conj:and	fever	headache
+punct	fever	,
+conj:and	fever	rash
+cc	fever	and
+compound	aches	muscle
+conj:and	fever	aches
+punct	reported	.

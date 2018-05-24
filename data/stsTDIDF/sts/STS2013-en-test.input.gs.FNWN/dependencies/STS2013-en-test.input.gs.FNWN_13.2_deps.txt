@@ -1,0 +1,5 @@
+root	ROOT	engage
+case	performance	for
+det	performance	a
+nmod:for	engage	performance
+punct	engage	;

@@ -1,0 +1,20 @@
+det	Standard	The
+amod	Standard	broader
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+root	ROOT	Index
+punct	Index	.-9) nsubj(advanced-2, SPX
+root	ROOT	advanced
+nummod	points	2
+dobj	advanced	points
+punct	points	,
+cc	points	or
+nummod	percent	0.24
+conj:or	points	percent
+punct	points	,
+case	977	to
+nmod:to	advanced	977
+punct	advanced	.

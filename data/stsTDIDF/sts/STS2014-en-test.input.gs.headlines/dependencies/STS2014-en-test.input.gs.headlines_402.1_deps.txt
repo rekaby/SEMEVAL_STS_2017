@@ -1,0 +1,7 @@
+amod	president	Iranian
+nsubj	calls	president
+root	ROOT	calls
+case	talks	for
+amod	talks	new
+amod	talks	nuclear
+nmod:for	calls	talks

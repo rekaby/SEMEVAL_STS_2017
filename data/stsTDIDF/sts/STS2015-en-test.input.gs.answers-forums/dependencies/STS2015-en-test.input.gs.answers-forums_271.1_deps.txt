@@ -1,0 +1,14 @@
+nsubj	start	I
+aux	start	'd
+root	ROOT	start
+mark	reading	by
+advcl	start	reading
+compound	Allen	David
+nmod:poss	book	Allen
+case	Allen	's
+dobj	reading	book
+punct	start	:
+dep	start	Getting
+dobj	Getting	Things
+acl	Things	Done
+punct	start	.

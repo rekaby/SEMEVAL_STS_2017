@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	plays	boy
+case	pants	in
+amod	pants	blue
+nmod:in	boy	pants
+root	ROOT	plays
+case	floor	on
+det	floor	the
+nmod:on	plays	floor

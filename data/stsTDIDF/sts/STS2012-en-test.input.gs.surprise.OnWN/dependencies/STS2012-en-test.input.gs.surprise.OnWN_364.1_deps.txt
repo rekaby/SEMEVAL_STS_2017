@@ -1,0 +1,6 @@
+det	layer	a
+amod	layer	continuous
+amod	layer	horizontal
+root	ROOT	layer
+case	brick	of
+nmod:of	layer	brick

@@ -1,0 +1,7 @@
+nsubj	disagrees	reality
+punct	disagrees	,
+case	course	of
+nmod:of	disagrees	course
+punct	disagrees	,
+root	ROOT	disagrees
+punct	disagrees	.

@@ -1,0 +1,7 @@
+nummod	cows	Two
+nsubj	cross	cows
+root	ROOT	cross
+det	street	a
+amod	street	paved
+dobj	cross	street
+punct	cross	.

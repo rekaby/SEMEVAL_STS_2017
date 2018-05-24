@@ -1,0 +1,5 @@
+standing	kids	nsubj
+tent	a	det
+tent	in	case
+standing	tent	nmod:in_front_of
+kids	Five	nummod

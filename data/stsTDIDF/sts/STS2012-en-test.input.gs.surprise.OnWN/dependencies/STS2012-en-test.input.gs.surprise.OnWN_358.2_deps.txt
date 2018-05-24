@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	apportioning	of
+nmod:of	act	apportioning
+cc	apportioning	or
+conj:or	apportioning	distributing
+dobj	distributing	something
+punct	act	.

@@ -1,0 +1,8 @@
+perform	.	punct
+perform	spotlight	nmod:under
+spotlight	under	case
+band	The	det
+perform	songs	dobj
+songs	eight	nummod
+perform	band	nsubj
+ROOT	perform	root

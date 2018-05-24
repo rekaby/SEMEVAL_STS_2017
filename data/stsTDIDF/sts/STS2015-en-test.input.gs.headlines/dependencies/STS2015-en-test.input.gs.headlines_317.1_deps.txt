@@ -1,0 +1,5 @@
+nsubj	kills	Attack
+root	ROOT	kills
+dobj	kills	12
+case	Afghanistan	in
+nmod:in	kills	Afghanistan

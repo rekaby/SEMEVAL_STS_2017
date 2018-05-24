@@ -1,0 +1,6 @@
+grass	in	case
+sitting	man	nsubj
+beard	with	case
+beard	a	det
+sitting	grass	nmod:in
+man	beard	nmod:with

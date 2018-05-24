@@ -1,0 +1,6 @@
+det	group	a
+nsubj	eat	group
+case	rabbits	of
+nmod:of	group	rabbits
+root	ROOT	eat
+dobj	eat	carrots

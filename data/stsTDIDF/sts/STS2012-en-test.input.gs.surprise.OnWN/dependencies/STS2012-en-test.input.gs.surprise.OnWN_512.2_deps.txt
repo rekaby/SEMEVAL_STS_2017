@@ -1,0 +1,7 @@
+det	indicator	an
+root	ROOT	indicator
+nsubj	orients	that
+acl:relcl	indicator	orients
+nsubj	generally	you
+advmod	orients	generally
+punct	indicator	.

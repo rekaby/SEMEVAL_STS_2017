@@ -1,0 +1,7 @@
+case	egos	Without
+root	ROOT	egos
+amod	amount	ultimate
+dep	egos	amount
+case	quality	of
+nmod:of	amount	quality
+punct	egos	.

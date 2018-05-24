@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	picked	woman
+root	ROOT	picked
+compound:prt	picked	up
+det	kangaroo	the
+dobj	picked	kangaroo
+punct	picked	.

@@ -1,0 +1,11 @@
+det	man	The
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	performance	after
+nmod:poss	performance	his
+nmod:after	standing	performance
+case	play	on
+det	play	the
+nmod:on	performance	play
+punct	standing	.

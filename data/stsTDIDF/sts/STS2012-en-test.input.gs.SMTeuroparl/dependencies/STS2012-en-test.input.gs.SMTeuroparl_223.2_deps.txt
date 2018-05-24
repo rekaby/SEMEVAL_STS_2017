@@ -1,0 +1,13 @@
+nsubj	remind	I
+aux	remind	would
+root	ROOT	remind
+dobj	remind	you
+xcomp	remind	that
+nmod:poss	allies	our
+dep	that	allies
+punct	allies	,
+appos	allies	devotees
+case	tax	of
+det	tax	this
+nmod:of	devotees	tax
+punct	remind	.

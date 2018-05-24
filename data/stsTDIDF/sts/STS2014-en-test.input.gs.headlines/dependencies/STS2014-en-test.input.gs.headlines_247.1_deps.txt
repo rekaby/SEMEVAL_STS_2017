@@ -1,0 +1,10 @@
+nsubj	cites	Reid
+root	ROOT	cites
+punct	cites	`
+amod	progress	tremendous
+nsubj	talks	progress
+punct	progress	'
+case	ceiling	in
+compound	ceiling	debt
+nmod:in	progress	ceiling
+ccomp	cites	talks

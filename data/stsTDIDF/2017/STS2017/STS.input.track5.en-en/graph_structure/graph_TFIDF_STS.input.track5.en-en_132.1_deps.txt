@@ -1,0 +1,10 @@
+have	paralyzed	advcl
+arms	her	nmod:poss
+neck	the	det
+paralyzed	's	auxpass
+have	woman	nsubj
+neck	from	case
+paralyzed	neck	nmod:from
+paralyzed	because	mark
+have	arms	dobj
+paralyzed	she	nsubjpass

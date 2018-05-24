@@ -1,0 +1,7 @@
+det	teacher	An
+compound	teacher	art
+root	ROOT	teacher
+acl	teacher	helping
+det	student	a
+dobj	helping	student
+punct	teacher	.

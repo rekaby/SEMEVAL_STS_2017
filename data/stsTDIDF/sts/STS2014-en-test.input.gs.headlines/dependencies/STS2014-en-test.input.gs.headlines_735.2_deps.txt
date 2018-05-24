@@ -1,0 +1,6 @@
+nsubj	steal	Thieves
+root	ROOT	steal
+compound	swimmer	Channel
+nmod:poss	wheelchair	swimmer
+case	swimmer	's
+dobj	steal	wheelchair

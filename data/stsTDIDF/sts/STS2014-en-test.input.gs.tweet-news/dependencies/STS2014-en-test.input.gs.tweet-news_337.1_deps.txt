@@ -1,0 +1,11 @@
+compound	Hillary	President
+root	ROOT	Hillary
+punct	Hillary	!-3) expl(are-2, There
+root	ROOT	are
+amod	things	few
+nsubj	are	things
+nsubj	like	I
+aux	like	would
+acl:relcl	things	like
+dobj	like	more
+punct	are	!

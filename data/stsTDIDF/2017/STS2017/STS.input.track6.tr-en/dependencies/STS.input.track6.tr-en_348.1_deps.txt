@@ -1,0 +1,15 @@
+det	man	A
+nsubj	measuring	man
+acl	man	wearing
+det	shirt	an
+amod	shirt	orange
+dobj	wearing	shirt
+cc	shirt	and
+amod	hat	blue
+amod	hat	hard
+conj:and	shirt	hat
+aux	measuring	is
+root	ROOT	measuring
+det	area	an
+dobj	measuring	area
+punct	measuring	.

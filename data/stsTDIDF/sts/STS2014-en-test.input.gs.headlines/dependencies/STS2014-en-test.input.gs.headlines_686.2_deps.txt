@@ -1,0 +1,8 @@
+amod	credibility	Israeli
+root	ROOT	credibility
+case	line	on
+nmod:on	credibility	line
+case	challenge	over
+compound	challenge	Iran
+amod	challenge	nuclear
+nmod:over	line	challenge

@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	broccoli	woman
+cop	broccoli	is
+amod	broccoli	cooking
+root	ROOT	broccoli
+punct	broccoli	.

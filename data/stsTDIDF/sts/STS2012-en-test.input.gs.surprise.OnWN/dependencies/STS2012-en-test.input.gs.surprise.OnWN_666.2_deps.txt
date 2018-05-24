@@ -1,0 +1,11 @@
+root	ROOT	put
+case	control	under
+det	control	the
+nmod:under	put	control
+cc	control	and
+conj:and	control	authority
+case	government	of
+det	government	a
+amod	government	federal
+nmod:of	control	government
+punct	put	.

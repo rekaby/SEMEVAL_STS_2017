@@ -1,0 +1,8 @@
+compound	Morgan	Piers
+root	ROOT	Morgan
+acl	Morgan	Interviewed
+case	Police	by
+nmod:by	Interviewed	Police
+case	Case	in
+compound	Case	Hacking
+nmod:in	Interviewed	Case

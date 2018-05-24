@@ -1,0 +1,6 @@
+buses	next	dep
+buses	to	case
+buses	banner	compound
+buses	a	det
+man	buses	nmod:to
+buses	outside	case

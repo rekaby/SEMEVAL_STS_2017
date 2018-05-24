@@ -1,0 +1,14 @@
+nummod	woman	One
+amod	woman	Asian
+cc	Asian	and
+conj:and	Asian	one
+compound	woman	occasion
+root	ROOT	woman
+case	glasses	in
+nmod:in	woman	glasses
+acl	glasses	smiling
+case	thumbs	with
+nmod:poss	thumbs	their
+nmod:with	smiling	thumbs
+advmod	thumbs	up
+punct	woman	.

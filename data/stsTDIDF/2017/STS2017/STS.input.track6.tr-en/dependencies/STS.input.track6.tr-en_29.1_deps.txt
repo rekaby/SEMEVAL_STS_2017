@@ -1,0 +1,9 @@
+root	ROOT	man
+case	microphone	with
+nmod:with	man	microphone
+punct	microphone	,
+appos	microphone	hair
+case	style	in
+compound	style	afro
+nmod:in	hair	style
+punct	man	.

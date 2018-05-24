@@ -1,0 +1,11 @@
+nsubj	talk	We
+aux	talk	shall
+root	ROOT	talk
+case	voice	with
+nummod	voice	one
+nmod:with	talk	voice
+dep	voice	disgracieuse
+case	WTO	within
+det	WTO	the
+nmod:within	disgracieuse	WTO
+punct	talk	.

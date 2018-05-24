@@ -1,0 +1,10 @@
+det	audience	An
+nsubj	watches	audience
+root	ROOT	watches
+det	performance	the
+dobj	watches	performance
+case	people	of
+nmod:of	performance	people
+case	yellow	in
+nmod:in	people	yellow
+punct	watches	.

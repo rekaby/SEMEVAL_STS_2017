@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	takes	woman
+case	suitcase	with
+det	suitcase	a
+nmod:with	woman	suitcase
+root	ROOT	takes
+det	break	a
+dobj	takes	break
+case	bench	at
+det	bench	the
+compound	bench	park
+nmod:at	break	bench
+punct	takes	.

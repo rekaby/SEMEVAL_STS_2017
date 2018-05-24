@@ -1,0 +1,14 @@
+mark	series	because
+nsubj	series	a
+cc	a	and
+conj:and	a	b
+cop	series	are
+case	series	in
+root	ROOT	series
+cc	series	and
+nsubj	parallel	a
+cc	a	and
+conj:and	a	c
+cop	parallel	are
+case	parallel	in
+conj:and	series	parallel

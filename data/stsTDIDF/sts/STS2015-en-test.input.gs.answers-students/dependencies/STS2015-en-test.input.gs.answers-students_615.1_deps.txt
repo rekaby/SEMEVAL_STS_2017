@@ -1,0 +1,12 @@
+dep	path	Bulb
+nsubj	path	a
+cc	a	and
+compound	Y	switch
+conj:and	a	Y
+cop	path	are
+neg	path	not
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path
+punct	path	.

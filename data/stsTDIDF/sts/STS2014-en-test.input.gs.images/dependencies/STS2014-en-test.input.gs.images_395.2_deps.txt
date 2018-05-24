@@ -1,0 +1,8 @@
+nummod	eagles	Two
+nsubjpass	perched	eagles
+auxpass	perched	are
+root	ROOT	perched
+case	branch	on
+det	branch	a
+nmod:on	perched	branch
+punct	perched	.

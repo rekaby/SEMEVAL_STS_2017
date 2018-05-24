@@ -1,0 +1,9 @@
+nummod	Pakistan	6
+acl	6	killed
+case	strike	in
+compound	strike	U.S.
+compound	strike	drone
+nmod:in	killed	strike
+case	NW	in
+nmod:in	strike	NW
+root	ROOT	Pakistan

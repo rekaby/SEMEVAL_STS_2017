@@ -1,0 +1,15 @@
+nsubj	has	Cisco
+root	ROOT	has
+amod	relationships	similar
+dobj	has	relationships
+case	competitors	with
+compound	competitors	BellSouth
+nmod:with	relationships	competitors
+compound	Communications	SBC
+dep	competitors	Communications
+punct	Communications	,
+conj:and	Communications	AT&T
+cc	Communications	and
+compound	Communications	Sprint
+conj:and	Communications	Communications
+punct	has	.

@@ -1,0 +1,7 @@
+compound	Modi	Narendra
+nsubj	pledges	Modi
+root	ROOT	pledges
+amod	stand	tough
+dobj	pledges	stand
+case	Pakistan	against
+nmod:against	stand	Pakistan

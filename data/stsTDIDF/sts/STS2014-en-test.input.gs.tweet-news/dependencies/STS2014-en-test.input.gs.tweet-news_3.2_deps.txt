@@ -1,0 +1,8 @@
+root	ROOT	Bloomberg
+punct	Bloomberg	:
+compound	ban	Assault
+compound	ban	weapons
+nsubj	tough	ban
+cop	tough	is
+dep	Bloomberg	tough
+dep	tough	sell

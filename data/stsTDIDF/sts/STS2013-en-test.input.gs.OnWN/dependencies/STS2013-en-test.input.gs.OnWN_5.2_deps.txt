@@ -1,0 +1,12 @@
+det	numeral	a
+root	ROOT	numeral
+cc	numeral	or
+conj:or	numeral	string
+case	numerals	of
+nmod:of	string	numerals
+nsubjpass	used	that
+auxpass	used	is
+acl:relcl	numerals	used
+case	identification	for
+nmod:for	used	identification
+punct	numeral	.

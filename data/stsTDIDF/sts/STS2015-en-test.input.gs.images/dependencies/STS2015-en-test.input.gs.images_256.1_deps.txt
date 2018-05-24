@@ -1,0 +1,11 @@
+det	child	A
+amod	child	wet
+compound	shivers	child
+root	ROOT	shivers
+case	towel	under
+det	towel	a
+nmod:under	shivers	towel
+case	pool	at
+det	pool	a
+nmod:at	shivers	pool
+punct	shivers	.

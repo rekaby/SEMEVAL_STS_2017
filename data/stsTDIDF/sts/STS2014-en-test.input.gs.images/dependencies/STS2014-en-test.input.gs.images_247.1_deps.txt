@@ -1,0 +1,8 @@
+compound	grazing	Cows
+nsubj	covered	grazing
+case	snow	in
+det	snow	a
+nmod:in	grazing	snow
+root	ROOT	covered
+dobj	covered	field
+punct	covered	.

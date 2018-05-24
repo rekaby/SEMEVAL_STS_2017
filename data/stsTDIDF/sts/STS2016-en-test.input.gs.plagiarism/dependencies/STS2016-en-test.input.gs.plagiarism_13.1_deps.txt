@@ -1,0 +1,11 @@
+advmod	define	Secondly
+mark	define	to
+root	ROOT	define
+det	value	the
+dobj	define	value
+case	solution	of
+det	solution	the
+amod	solution	optimal
+nmod:of	value	solution
+advmod	solution	recursively
+punct	define	.

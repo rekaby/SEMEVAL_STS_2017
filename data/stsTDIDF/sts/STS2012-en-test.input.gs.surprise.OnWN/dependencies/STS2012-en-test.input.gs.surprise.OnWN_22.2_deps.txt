@@ -1,0 +1,11 @@
+root	ROOT	organization
+case	performers	of
+nmod:of	organization	performers
+cc	performers	and
+amod	personnel	associated
+conj:and	performers	personnel
+punct	theatrical	-LRB-
+advmod	theatrical	especially
+dep	organization	theatrical
+punct	theatrical	-RRB-
+punct	organization	.

@@ -1,0 +1,6 @@
+det	trait	the
+root	ROOT	trait
+case	resources	of
+amod	resources	wasting
+nmod:of	trait	resources
+punct	trait	.

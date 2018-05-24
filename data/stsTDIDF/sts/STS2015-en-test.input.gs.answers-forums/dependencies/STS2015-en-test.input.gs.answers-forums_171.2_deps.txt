@@ -1,0 +1,16 @@
+amod	children	Many
+nsubjpass	motivated	children
+punct	children	,
+mark	motivated	instead
+mwe	instead	of
+auxpass	motivated	being
+acl	children	motivated
+case	reward	by
+nmod:agent	motivated	reward
+auxpass	motivated	are
+root	ROOT	motivated
+mark	control	by
+cop	control	being
+case	control	in
+advcl:in	motivated	control
+punct	motivated	.

@@ -1,0 +1,15 @@
+nmod:poss	Rosie	Cracklin
+case	Cracklin	'
+root	ROOT	Rosie
+case	Diamond	by
+compound	Diamond	Neil
+nmod:by	Rosie	Diamond
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Rosie	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Rosie	.

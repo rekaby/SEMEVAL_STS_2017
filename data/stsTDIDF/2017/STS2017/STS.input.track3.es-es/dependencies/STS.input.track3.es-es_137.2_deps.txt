@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+nsubj	walking	people
+ccomp	are	walking
+case	street	on
+det	street	a
+amod	street	busy
+nmod:on	walking	street
+punct	are	.

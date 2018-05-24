@@ -1,0 +1,14 @@
+det	close-up	A
+root	ROOT	close-up
+case	woman	of
+det	woman	a
+nmod:of	close-up	woman
+case	boots	with
+amod	boots	black
+nmod:with	woman	boots
+case	motorcycle	next
+mwe	next	to
+det	motorcycle	a
+amod	motorcycle	blue
+nmod:next_to	close-up	motorcycle
+punct	close-up	.

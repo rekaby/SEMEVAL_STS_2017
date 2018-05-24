@@ -1,0 +1,6 @@
+det	airplane	An
+root	ROOT	airplane
+acl	airplane	facing
+det	camera	the
+dobj	facing	camera
+punct	airplane	.

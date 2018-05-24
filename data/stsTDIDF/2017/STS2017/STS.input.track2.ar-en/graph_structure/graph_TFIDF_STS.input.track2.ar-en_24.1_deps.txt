@@ -1,0 +1,12 @@
+garbage	who	nsubj
+man	overalls	nmod:in
+overalls	in	case
+street	from	case
+walks	man	dobj
+overalls	orange	amod
+walks	Boy	nsubj
+garbage	is	cop
+man	garbage	acl:relcl
+garbage	sweeping	amod
+garbage	street	nmod:from
+man	past	amod

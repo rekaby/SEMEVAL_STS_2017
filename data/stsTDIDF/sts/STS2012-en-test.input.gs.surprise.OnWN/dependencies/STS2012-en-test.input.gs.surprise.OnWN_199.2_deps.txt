@@ -1,0 +1,11 @@
+root	ROOT	teach
+cc	teach	or
+conj:or	teach	refine
+mark	discriminative	to
+cop	discriminative	be
+xcomp	teach	discriminative
+case	taste	in
+nmod:in	discriminative	taste
+cc	taste	or
+conj:or	taste	judgment
+punct	teach	.

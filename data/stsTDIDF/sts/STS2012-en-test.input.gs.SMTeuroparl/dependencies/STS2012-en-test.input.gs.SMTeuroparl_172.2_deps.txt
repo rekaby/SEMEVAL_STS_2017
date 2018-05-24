@@ -1,0 +1,12 @@
+det	aid	The
+amod	aid	occasional
+nsubj	essential	aid
+case	market	as
+det	market	the
+nmod:as	aid	market
+cc	market	or
+det	grass	the
+conj:or	market	grass
+cop	essential	is
+root	ROOT	essential
+punct	essential	.

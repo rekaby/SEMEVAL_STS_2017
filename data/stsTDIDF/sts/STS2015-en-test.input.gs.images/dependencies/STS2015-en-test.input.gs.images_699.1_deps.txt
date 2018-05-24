@@ -1,0 +1,14 @@
+nummod	dogs	Two
+nsubj	running	dogs
+root	ROOT	running
+advmod	running	together
+cc	running	and
+nsubj	has	one
+conj:and	running	has
+det	toy	a
+compound	toy	duck
+dobj	has	toy
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	has	mouth
+punct	running	.

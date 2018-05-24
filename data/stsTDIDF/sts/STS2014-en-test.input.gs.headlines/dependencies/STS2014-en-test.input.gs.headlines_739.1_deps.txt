@@ -1,0 +1,10 @@
+amod	rebels	Kurdish
+nsubj	report	rebels
+mark	withdraw	to
+acl	rebels	withdraw
+case	Turkey	from
+nmod:from	withdraw	Turkey
+case	March	in
+nmod:in	withdraw	March
+punct	rebels	:
+root	ROOT	report

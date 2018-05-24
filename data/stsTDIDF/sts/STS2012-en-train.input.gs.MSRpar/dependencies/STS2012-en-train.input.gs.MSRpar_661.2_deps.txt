@@ -1,0 +1,13 @@
+root	ROOT	``
+det	petitioners	The
+nsubjpass	entitled	petitioners
+auxpass	entitled	are
+root	``	entitled
+case	respect	to
+nmod:to	entitled	respect
+case	lives	for
+nmod:poss	lives	their
+amod	lives	private
+nmod:for	respect	lives
+punct	entitled	.
+punct	entitled	''

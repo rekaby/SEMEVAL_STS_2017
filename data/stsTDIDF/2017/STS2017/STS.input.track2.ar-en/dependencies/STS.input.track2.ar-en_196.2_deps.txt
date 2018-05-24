@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+case	verge	on
+det	verge	the
+nmod:on	woman	verge
+mark	throwing	of
+acl	verge	throwing
+det	ball	a
+dobj	throwing	ball
+punct	woman	.

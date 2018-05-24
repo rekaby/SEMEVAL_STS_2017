@@ -1,0 +1,16 @@
+compound	Schumer	Senator
+nsubj	Says	Schumer
+root	ROOT	Says
+nsubj	Vote	He
+aux	Vote	Will
+ccomp	Says	Vote
+case	Hagel	For
+compound	Hagel	Chuck
+nmod:for	Vote	Hagel
+case	Secretary	for
+nmod:for	Vote	Secretary
+case	Defense	of
+nmod:of	Secretary	Defense
+amod	news	Good
+dep	Defense	news
+punct	Says	!

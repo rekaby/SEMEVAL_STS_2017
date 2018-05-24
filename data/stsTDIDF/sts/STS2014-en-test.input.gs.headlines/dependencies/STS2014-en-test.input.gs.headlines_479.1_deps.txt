@@ -1,0 +1,7 @@
+amod	commander	Senior
+compound	commander	Pakistani
+compound	commander	Taliban
+root	ROOT	commander
+acl	commander	captured
+case	Afghanistan	in
+nmod:in	captured	Afghanistan

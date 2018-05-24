@@ -1,0 +1,6 @@
+nummod	dogs	Two
+root	ROOT	dogs
+case	stream	in
+det	stream	a
+nmod:in	dogs	stream
+punct	dogs	.

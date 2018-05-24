@@ -1,0 +1,11 @@
+nsubj	official	It
+cop	official	's
+root	ROOT	official
+punct	official	:
+nsubj	reached	Deal
+parataxis	official	reached
+case	cliff	on
+punct	cliff	``
+amod	cliff	fiscal
+nmod:on	reached	cliff
+punct	reached	''

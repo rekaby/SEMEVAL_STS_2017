@@ -1,0 +1,8 @@
+root	ROOT	Group
+case	horses	of
+nmod:of	Group	horses
+dep	horses	grazing
+case	field	in
+amod	field	grassy
+nmod:in	grazing	field
+punct	Group	.

@@ -1,0 +1,5 @@
+compound	pet	Children
+root	ROOT	pet
+det	dog	a
+nmod:npmod	pet	dog
+punct	pet	.

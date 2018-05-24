@@ -1,0 +1,6 @@
+compound	bombing	Boston
+nsubj	suspect	bombing
+root	ROOT	suspect
+xcomp	suspect	buried
+case	Virginia	in
+nmod:in	buried	Virginia

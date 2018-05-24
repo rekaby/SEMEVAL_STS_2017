@@ -1,0 +1,14 @@
+nsubj	finalized	cambodia
+cc	cambodia	and
+conj:and	cambodia	vietnam
+root	ROOT	finalized
+det	agreement	an
+dobj	finalized	agreement
+mark	stop	to
+acl	agreement	stop
+amod	traffickers	asian
+cc	asian	and
+conj:and	asian	european
+compound	traffickers	drug
+dobj	stop	traffickers
+punct	finalized	.

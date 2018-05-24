@@ -1,0 +1,5 @@
+compound	death	Rodney
+compound	death	King
+nsubj	ruled	death
+root	ROOT	ruled
+dobj	ruled	accidental

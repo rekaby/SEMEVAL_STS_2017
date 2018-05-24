@@ -1,0 +1,11 @@
+nsubj	driving	Man
+root	ROOT	driving
+dobj	driving	one
+case	cars	of
+det	cars	the
+nmod:of	one	cars
+punct	driving	,
+mark	seen	while
+nsubj	seen	truck
+advcl	driving	seen
+punct	driving	.

@@ -1,0 +1,10 @@
+case	Movies	In
+compound	Movies	Hollywood
+nmod:in	Want	Movies
+case	China	for
+nmod:for	Movies	China
+punct	Want	,
+nsubj	Want	Bureaucrats
+root	ROOT	Want
+det	Say	a
+dobj	Want	Say

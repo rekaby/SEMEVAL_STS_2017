@@ -1,0 +1,9 @@
+det	fact	The
+nsubj	is	fact
+root	ROOT	is
+mark	cut	that
+nsubjpass	cut	dividends
+aux	cut	have
+auxpass	cut	been
+ccomp	is	cut
+punct	is	.

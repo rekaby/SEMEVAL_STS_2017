@@ -1,0 +1,5 @@
+children	read	acl
+read	bed	nmod:in
+children	.	punct
+children	Two	nummod
+ROOT	children	root

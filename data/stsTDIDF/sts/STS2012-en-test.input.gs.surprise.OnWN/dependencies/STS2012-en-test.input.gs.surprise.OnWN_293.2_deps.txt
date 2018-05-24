@@ -1,0 +1,10 @@
+root	ROOT	secrete
+cc	secrete	or
+conj:or	secrete	form
+dobj	form	water
+punct	secrete	,
+case	tears	as
+nmod:as	secrete	tears
+cc	tears	or
+conj:or	tears	saliva
+punct	secrete	.

@@ -1,0 +1,11 @@
+advmod	put	Well
+punct	put	,
+nsubj	put	I
+aux	put	would
+neg	put	n't
+root	ROOT	put
+dobj	put	it
+case	cv	on
+nmod:poss	cv	my
+nmod:on	put	cv
+punct	put	.

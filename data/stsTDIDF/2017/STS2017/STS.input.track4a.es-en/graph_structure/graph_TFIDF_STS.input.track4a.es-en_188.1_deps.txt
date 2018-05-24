@@ -1,0 +1,5 @@
+pose	ocean	nmod:in_front_of
+pose	.	punct
+pose	group	nsubj
+ocean	in	case
+ROOT	pose	root

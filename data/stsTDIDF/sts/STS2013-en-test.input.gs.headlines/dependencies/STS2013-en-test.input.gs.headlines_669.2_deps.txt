@@ -1,0 +1,6 @@
+compound	army	Syria
+nsubj	takes	army
+root	ROOT	takes
+amod	stronghold	northern
+compound	stronghold	rebel
+dobj	takes	stronghold

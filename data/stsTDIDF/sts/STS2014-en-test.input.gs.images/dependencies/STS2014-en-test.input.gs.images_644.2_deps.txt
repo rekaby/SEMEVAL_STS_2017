@@ -1,0 +1,8 @@
+det	train	A
+compound	train	passenger
+root	ROOT	train
+case	engine	with
+det	engine	a
+amod	engine	yellow
+nmod:with	train	engine
+punct	train	.

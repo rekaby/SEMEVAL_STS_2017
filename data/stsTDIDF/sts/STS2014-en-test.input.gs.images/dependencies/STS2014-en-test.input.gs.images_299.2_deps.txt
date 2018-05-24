@@ -1,0 +1,16 @@
+det	bus	A
+compound	bus	school
+nsubj	driving	bus
+root	ROOT	driving
+compound:prt	driving	down
+det	road	a
+dobj	driving	road
+case	trees	with
+amod	trees	green
+nmod:with	road	trees
+cc	trees	and
+conj:and	trees	grass
+case	background	in
+det	background	the
+nmod:in	driving	background
+punct	driving	.

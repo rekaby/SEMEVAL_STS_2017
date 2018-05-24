@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	walking	people
+aux	walking	are
+root	ROOT	walking
+case	ocean	by
+det	ocean	the
+nmod:by	walking	ocean
+punct	walking	.

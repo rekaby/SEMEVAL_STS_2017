@@ -1,0 +1,11 @@
+compound	goal-keeper	Hockey
+root	ROOT	goal-keeper
+acl	goal-keeper	laying
+case	ice	on
+det	ice	the
+nmod:on	laying	ice
+case	net	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	laying	net
+punct	goal-keeper	.

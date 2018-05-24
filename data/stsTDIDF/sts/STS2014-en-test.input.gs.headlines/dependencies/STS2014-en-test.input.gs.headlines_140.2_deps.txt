@@ -1,0 +1,8 @@
+root	ROOT	Gunman
+case	dead	among
+nummod	dead	7
+nmod:among	Gunman	dead
+case	shootout	after
+compound	shootout	Fla.
+compound	shootout	apartment
+nmod:after	dead	shootout

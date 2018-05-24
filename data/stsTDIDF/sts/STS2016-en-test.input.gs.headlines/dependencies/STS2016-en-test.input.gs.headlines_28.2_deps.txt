@@ -1,0 +1,5 @@
+compound	brawl	Venezuela
+compound	brawl	lawmakers
+root	ROOT	brawl
+case	election	over
+nmod:over	brawl	election

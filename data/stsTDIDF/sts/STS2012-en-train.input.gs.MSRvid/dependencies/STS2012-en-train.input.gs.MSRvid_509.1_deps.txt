@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	rode	boy
+root	ROOT	rode
+nmod:poss	bike	his
+dobj	rode	bike
+case	fence	on
+mwe	on	top
+mwe	on	of
+det	fence	a
+compound	fence	metal
+nmod:on_top_of	rode	fence
+punct	rode	.

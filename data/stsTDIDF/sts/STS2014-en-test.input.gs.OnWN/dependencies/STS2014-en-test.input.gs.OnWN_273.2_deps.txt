@@ -1,0 +1,8 @@
+root	ROOT	reveal
+nmod:poss	presence	its
+dobj	reveal	presence
+cc	presence	or
+conj:or	presence	make
+det	appearance	an
+dobj	make	appearance
+punct	reveal	.

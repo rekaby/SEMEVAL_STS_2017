@@ -1,0 +1,11 @@
+compound	Northeast	Blizzard
+compound	Northeast	hammers
+compound	Northeast	U.S.
+root	ROOT	Northeast
+punct	Northeast	,
+nummod	dead	five
+amod	power	dead
+punct	dead	,
+dep	dead	700,000
+dep	dead	lose
+appos	Northeast	power

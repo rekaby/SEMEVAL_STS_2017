@@ -1,0 +1,10 @@
+det	activity	the
+nsubj	else	activity
+mark	pretending	of
+acl	activity	pretending
+mark	someone	to
+cop	someone	be
+xcomp	pretending	someone
+cc	someone	or
+conj:or	someone	something
+root	ROOT	else

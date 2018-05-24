@@ -1,0 +1,12 @@
+det	brown	The
+amod	brown	large
+nsubj	running	brown
+cc	brown	and
+amod	dog	white
+conj:and	brown	dog
+aux	running	is
+root	ROOT	running
+case	snow	through
+det	snow	the
+nmod:through	running	snow
+punct	running	.

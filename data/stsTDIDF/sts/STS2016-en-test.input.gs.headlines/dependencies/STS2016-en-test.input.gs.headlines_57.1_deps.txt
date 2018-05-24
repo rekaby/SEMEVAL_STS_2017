@@ -1,0 +1,11 @@
+nsubj	reach	U.S.
+cc	U.S.	and
+conj:and	U.S.	Russia
+root	ROOT	reach
+det	deal	a
+dobj	reach	deal
+case	weapons	on
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+nmod:on	deal	weapons

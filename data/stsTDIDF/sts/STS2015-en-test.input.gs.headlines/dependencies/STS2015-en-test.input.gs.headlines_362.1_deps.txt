@@ -1,0 +1,10 @@
+nsubj	begin	Iran
+punct	begin	,
+compound	powers	world
+nsubj	begin	powers
+root	ROOT	begin
+amod	round	new
+dobj	begin	round
+case	talks	of
+amod	talks	nuclear
+nmod:of	round	talks

@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	crying	girl
+aux	crying	is
+root	ROOT	crying
+case	park	in
+det	park	the
+nmod:in	crying	park
+punct	crying	.

@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+nsubj	is	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	yellow
+dobj	wearing	shirt
+acl	shirt	riding
+det	unicycle	a
+dobj	riding	unicycle
+punct	is	.

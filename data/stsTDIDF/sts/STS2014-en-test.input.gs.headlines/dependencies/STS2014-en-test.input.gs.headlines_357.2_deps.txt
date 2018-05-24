@@ -1,0 +1,9 @@
+nsubj	Prove	Destruction
+case	Weapons	of
+nmod:poss	Weapons	Syria
+case	Syria	's
+compound	Weapons	Chemical
+nmod:of	Destruction	Weapons
+aux	Prove	Could
+root	ROOT	Prove
+dobj	Prove	Difficult

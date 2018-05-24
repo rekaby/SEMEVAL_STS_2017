@@ -1,0 +1,8 @@
+nsubj	refused	Those
+root	ROOT	refused
+amod	cards	medical
+nsubj	urged	cards
+ccomp	refused	urged
+mark	contact	to
+xcomp	urged	contact
+dobj	contact	HSE

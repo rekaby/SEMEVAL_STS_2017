@@ -1,0 +1,14 @@
+det	battery	The
+nsubjpass	contained	battery
+auxpass	contained	is
+root	ROOT	contained
+case	path	in
+det	path	a
+nmod:in	contained	path
+nsubj	contain	which
+aux	contain	does
+neg	contain	not
+acl:relcl	path	contain
+det	components	any
+amod	components	other
+dobj	contain	components

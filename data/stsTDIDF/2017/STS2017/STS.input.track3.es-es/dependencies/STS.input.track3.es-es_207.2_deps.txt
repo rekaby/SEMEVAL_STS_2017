@@ -1,0 +1,7 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	people
+case	boat	in
+det	boat	a
+nmod:in	people	boat
+punct	are	.

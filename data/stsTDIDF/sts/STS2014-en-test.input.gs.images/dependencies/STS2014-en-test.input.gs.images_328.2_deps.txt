@@ -1,0 +1,11 @@
+nummod	woman	Two
+nsubj	pose	woman
+root	ROOT	pose
+case	room	in
+det	room	a
+compound	room	dining
+nmod:in	pose	room
+case	baby	with
+det	baby	a
+nmod:with	room	baby
+punct	pose	.

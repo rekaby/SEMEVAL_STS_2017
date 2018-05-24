@@ -1,0 +1,7 @@
+root	ROOT	Cars
+acl	Cars	trapped
+case	collapse	in
+compound	collapse	tunnel
+nmod:in	trapped	collapse
+case	Tokyo	outside
+nmod:outside	Cars	Tokyo

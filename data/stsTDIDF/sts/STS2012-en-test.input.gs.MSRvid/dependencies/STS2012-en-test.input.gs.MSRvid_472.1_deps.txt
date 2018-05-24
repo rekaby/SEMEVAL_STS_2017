@@ -1,0 +1,9 @@
+det	monkey	A
+nsubj	pulls	monkey
+root	ROOT	pulls
+det	tail	the
+dobj	pulls	tail
+case	dog	of
+det	dog	a
+nmod:of	tail	dog
+punct	pulls	.

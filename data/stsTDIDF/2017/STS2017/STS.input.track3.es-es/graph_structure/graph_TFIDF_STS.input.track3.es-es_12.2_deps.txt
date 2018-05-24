@@ -1,0 +1,5 @@
+reading	man	nsubj
+book	Harry	compound
+book	Potter	compound
+reading	book	dobj
+reading	is	aux

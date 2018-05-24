@@ -1,0 +1,10 @@
+ROOT	buying	root
+buying	groceries	dobj
+buying	are	aux
+buying	supermarket	nmod:at
+buying	.	punct
+supermarket	At	case
+groceries	their	nmod:poss
+buying	,	punct
+supermarket	a	det
+buying	people	nsubj

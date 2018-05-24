@@ -1,0 +1,10 @@
+sun	hot	amod
+play	fountains	nmod:between
+play	girls	nsubj
+sun	summer	compound
+sun	in	case
+play	sun	nmod:in
+fountains	the	det
+fountains	between	case
+girls	Two	nummod
+girls	young	amod

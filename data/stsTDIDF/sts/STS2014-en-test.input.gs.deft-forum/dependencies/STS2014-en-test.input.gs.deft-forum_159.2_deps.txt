@@ -1,0 +1,9 @@
+advmod	many	How
+amod	passengers	many
+nsubj	said	passengers
+root	ROOT	said
+nsubj	saw	they
+ccomp	said	saw
+det	iceberg	an
+dobj	saw	iceberg
+punct	said	?

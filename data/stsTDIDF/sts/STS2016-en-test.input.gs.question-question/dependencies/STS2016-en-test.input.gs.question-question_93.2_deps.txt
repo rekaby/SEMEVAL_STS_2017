@@ -1,0 +1,15 @@
+mark	have	If
+nsubj	have	I
+advcl	enter	have
+amod	visa	Schengen
+dobj	have	visa
+punct	enter	,
+aux	enter	can
+nsubj	enter	I
+root	ROOT	enter
+compound	area	Schengen
+dobj	enter	area
+case	country	from
+amod	country	different
+nmod:from	enter	country
+punct	enter	?

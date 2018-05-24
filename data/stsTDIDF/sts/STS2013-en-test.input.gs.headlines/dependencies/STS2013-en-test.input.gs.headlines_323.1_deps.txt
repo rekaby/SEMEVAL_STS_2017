@@ -1,0 +1,9 @@
+compound	leader	Qaida
+nsubj	calls	leader
+root	ROOT	calls
+case	kidnap	for
+nmod:for	calls	kidnap
+case	Westerners	of
+nmod:of	kidnap	Westerners
+case	Egypt	in
+nmod:in	kidnap	Egypt

@@ -1,0 +1,12 @@
+advmod	remove	How
+aux	remove	can
+nsubj	remove	I
+root	ROOT	remove
+det	screw	a
+amod	screw	stuck
+dobj	remove	screw
+nsubj	turn	that
+aux	turn	will
+advmod	turn	still
+acl:relcl	screw	turn
+punct	remove	?

@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	big
+amod	dog	brown
+root	ROOT	dog
+acl	dog	floating
+case	water	in
+amod	water	deep
+nmod:in	floating	water
+case	stick	with
+det	stick	a
+nmod:with	floating	stick
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	stick	mouth
+punct	dog	.

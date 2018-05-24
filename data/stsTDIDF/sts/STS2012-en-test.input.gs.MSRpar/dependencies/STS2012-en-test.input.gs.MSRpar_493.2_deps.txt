@@ -1,0 +1,15 @@
+cc	declined	And
+punct	declined	,
+advmod	declined	globally
+punct	declined	,
+det	number	the
+nsubj	declined	number
+case	cases	of
+amod	cases	active
+amod	cases	probable
+nmod:of	number	cases
+aux	declined	has
+root	ROOT	declined
+case	573	to
+nmod:to	declined	573
+punct	declined	.

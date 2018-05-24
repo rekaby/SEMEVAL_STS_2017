@@ -1,0 +1,12 @@
+nummod	sheep	Two
+nsubj	looking	sheep
+case	cliff	on
+case	cliff	to
+case	cliff	of
+det	cliff	a
+nmod:of	sheep	cliff
+root	ROOT	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	looking	.

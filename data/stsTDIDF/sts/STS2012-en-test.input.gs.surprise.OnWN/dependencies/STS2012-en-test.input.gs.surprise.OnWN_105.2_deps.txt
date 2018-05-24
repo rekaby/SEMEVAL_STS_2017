@@ -1,0 +1,11 @@
+root	ROOT	cut
+det	surface	the
+dobj	cut	surface
+acl	surface	of
+punct	cut	;
+dep	cut	wear
+compound:prt	wear	away
+det	surface	the
+dobj	wear	surface
+acl	surface	of
+punct	cut	.

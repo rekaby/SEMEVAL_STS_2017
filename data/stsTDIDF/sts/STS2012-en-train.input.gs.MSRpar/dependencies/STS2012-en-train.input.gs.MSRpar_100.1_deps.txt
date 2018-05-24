@@ -1,0 +1,10 @@
+nsubj	introduced	VeriSign
+root	ROOT	introduced
+nmod:poss	service	its
+compound	service	Site
+compound	service	Finder
+dobj	introduced	service
+case	Sept.	on
+nmod:on	introduced	Sept.
+nummod	Sept.	15
+punct	introduced	.

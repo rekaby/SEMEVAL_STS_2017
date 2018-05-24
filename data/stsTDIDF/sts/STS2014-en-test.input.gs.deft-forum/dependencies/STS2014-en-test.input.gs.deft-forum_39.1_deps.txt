@@ -1,0 +1,10 @@
+nsubj	mention	You
+aux	mention	did
+neg	mention	n't
+root	ROOT	mention
+dobj	mention	PFA
+case	post	before
+det	post	that
+nummod	post	one
+nmod:before	mention	post
+punct	mention	.

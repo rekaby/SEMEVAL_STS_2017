@@ -1,0 +1,5 @@
+sleep	.	punct
+kids	The	det
+ROOT	sleep	root
+sleep	kids	nsubj
+sleep	are	cop

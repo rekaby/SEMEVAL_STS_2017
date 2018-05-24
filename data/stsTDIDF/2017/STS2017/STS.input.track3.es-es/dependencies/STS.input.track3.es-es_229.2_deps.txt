@@ -1,0 +1,6 @@
+nummod	people	Two
+nsubj	wear	people
+root	ROOT	wear
+compound	uniforms	work
+dobj	wear	uniforms
+punct	wear	.

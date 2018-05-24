@@ -1,0 +1,5 @@
+nsubj	rattled	Taiwan
+root	ROOT	rattled
+case	earthquake	by
+amod	earthquake	strong
+nmod:by	rattled	earthquake

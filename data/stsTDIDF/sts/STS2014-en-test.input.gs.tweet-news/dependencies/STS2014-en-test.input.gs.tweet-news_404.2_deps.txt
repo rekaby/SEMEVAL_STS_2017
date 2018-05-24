@@ -1,0 +1,6 @@
+root	ROOT	Lives
+punct	Lives	:
+nsubj	Division	We
+cop	Division	Were
+compound	Division	Joy
+dep	Lives	Division

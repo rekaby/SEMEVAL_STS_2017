@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+det	ball	a
+dobj	playing	ball
+punct	playing	.

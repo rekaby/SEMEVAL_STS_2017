@@ -1,0 +1,6 @@
+root	ROOT	return
+case	thought	to
+case	thought	in
+acl:in	return	thought
+cc	return	or
+conj:or	return	speech

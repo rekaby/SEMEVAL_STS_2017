@@ -1,0 +1,11 @@
+det	man	A
+nsubj	shaking	man
+aux	shaking	is
+root	ROOT	shaking
+det	container	a
+dobj	shaking	container
+case	sink	over
+det	sink	a
+compound	sink	kitchen
+nmod:over	shaking	sink
+punct	shaking	.

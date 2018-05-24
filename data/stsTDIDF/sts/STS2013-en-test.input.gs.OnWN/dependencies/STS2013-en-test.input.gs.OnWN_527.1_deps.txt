@@ -1,0 +1,11 @@
+root	ROOT	Gather
+cc	Gather	or
+conj:or	Gather	remove
+punct	location	-LRB-
+case	location	from
+det	location	a
+dep	Gather	location
+punct	location	-RRB-
+case	use	for
+nmod:for	Gather	use
+punct	Gather	.

@@ -1,0 +1,5 @@
+people	playing	acl
+playing	field	nmod:on
+field	crowd	nmod:in_front_of
+field	soccer	compound
+playing	soccer	dobj

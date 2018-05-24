@@ -1,0 +1,15 @@
+det	region	the
+amod	region	golden
+compound	region	triangle
+nsubj	1	region
+cop	1	was
+root	ROOT	1
+case	producers	of
+det	world	the
+nmod:poss	producers	world
+case	world	's
+amod	producers	biggest
+nmod:of	1	producers
+case	opium	of
+nmod:of	producers	opium
+punct	1	.

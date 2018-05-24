@@ -1,0 +1,13 @@
+det	person	A
+root	ROOT	person
+acl	person	wearing
+det	rides	a
+compound	rides	helmet
+dobj	wearing	rides
+det	bike	a
+dep	rides	bike
+case	structure	near
+det	structure	a
+amod	structure	white
+nmod:near	bike	structure
+punct	person	.

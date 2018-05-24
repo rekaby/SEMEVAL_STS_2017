@@ -1,0 +1,7 @@
+det	system	a
+amod	system	standardized
+root	ROOT	system
+case	measurements	of
+nmod:of	system	measurements
+case	heaviness	for
+nmod:for	system	heaviness

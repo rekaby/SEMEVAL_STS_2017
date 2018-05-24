@@ -1,0 +1,7 @@
+det	dog	a
+amod	dog	white
+root	ROOT	dog
+acl	dog	running
+case	snow	in
+det	snow	the
+nmod:in	running	snow

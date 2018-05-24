@@ -1,0 +1,10 @@
+root	ROOT	tolerate
+punct	tolerate	;
+dep	tolerate	aceept
+cc	aceept	or
+conj:or	aceept	take
+compound:prt	aceept	on
+case	responsibility	as
+det	responsibility	a
+nmod:as	aceept	responsibility
+punct	tolerate	.

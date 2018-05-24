@@ -1,0 +1,16 @@
+case	fall	After
+det	fall	the
+nmod:after	losses	fall
+case	morning	of
+compound	morning	Tuesday
+nmod:of	fall	morning
+punct	losses	,
+det	exchange	the
+compound	exchange	stock
+nsubj	losses	exchange
+case	réctifia	of
+compound	réctifia	Prague
+nmod:of	exchange	réctifia
+nmod:poss	losses	its
+root	ROOT	losses
+punct	losses	.

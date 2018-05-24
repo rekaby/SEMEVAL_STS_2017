@@ -1,0 +1,6 @@
+playing	cat	nsubj
+playing	string	nmod:with
+string	with	case
+window	in	case
+playing	window	nmod:in
+cat	A	det

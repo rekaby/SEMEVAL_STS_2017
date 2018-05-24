@@ -1,0 +1,10 @@
+det	condition	a
+amod	condition	general
+root	ROOT	condition
+case	soundness	of
+nmod:of	condition	soundness
+case	system	of
+det	system	a
+nmod:of	soundness	system
+cc	system	or
+conj:or	system	machine

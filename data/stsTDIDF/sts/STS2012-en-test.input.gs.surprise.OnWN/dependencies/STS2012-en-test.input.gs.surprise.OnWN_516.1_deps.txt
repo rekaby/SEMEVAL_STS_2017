@@ -1,0 +1,6 @@
+root	ROOT	hit
+det	fly	a
+dobj	hit	fly
+punct	baseball	-LRB-
+appos	fly	baseball
+punct	baseball	-RRB-

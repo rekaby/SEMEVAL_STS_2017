@@ -1,0 +1,8 @@
+compound	suspect	Police
+compound	suspect	arrest
+root	ROOT	suspect
+case	LA	in
+amod	LA	deadly
+nmod:in	suspect	LA
+amod	attack	driving
+dobj	LA	attack

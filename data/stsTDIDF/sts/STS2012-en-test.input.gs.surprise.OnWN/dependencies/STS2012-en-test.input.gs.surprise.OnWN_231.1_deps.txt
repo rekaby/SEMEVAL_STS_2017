@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	come	to
+xcomp	cause	come
+case	existence	into
+nmod:into	come	existence
+punct	cause	;
+dep	cause	create

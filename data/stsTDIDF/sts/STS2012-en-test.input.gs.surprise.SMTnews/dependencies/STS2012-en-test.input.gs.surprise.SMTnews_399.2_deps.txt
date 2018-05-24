@@ -1,0 +1,11 @@
+dobj	did	What
+nsubj	did	it
+root	ROOT	did
+case	initiative	without
+det	initiative	the
+nmod:without	did	initiative
+neg	going	not
+acl	initiative	going
+advmod	far	very
+advmod	going	far
+punct	did	.

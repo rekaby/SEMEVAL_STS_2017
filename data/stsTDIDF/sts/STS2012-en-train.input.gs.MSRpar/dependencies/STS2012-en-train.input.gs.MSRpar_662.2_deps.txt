@@ -1,0 +1,13 @@
+nmod:poss	partner	His
+nsubjpass	charged	partner
+compound	Darvish	Bijan
+nsubjpass	charged	Darvish
+auxpass	charged	is
+root	ROOT	charged
+mark	filing	with
+advcl	charged	filing
+det	report	a
+amod	report	false
+compound	report	police
+dobj	filing	report
+punct	charged	.

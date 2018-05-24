@@ -1,0 +1,7 @@
+nsubj	crashes	Helicopter
+root	ROOT	crashes
+case	station	near
+compound	station	rail
+nmod:near	crashes	station
+case	London	in
+nmod:in	crashes	London

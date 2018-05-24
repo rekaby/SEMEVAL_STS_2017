@@ -1,0 +1,6 @@
+nsubj	launches	China
+root	ROOT	launches
+amod	mission	first
+compound	mission	moon
+compound	mission	rover
+dobj	launches	mission

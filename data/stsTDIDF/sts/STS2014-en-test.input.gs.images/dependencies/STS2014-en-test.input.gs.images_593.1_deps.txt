@@ -1,0 +1,12 @@
+det	airplane	A
+amod	airplane	blue
+cc	blue	and
+conj:and	blue	orange
+root	ROOT	airplane
+acl	airplane	flying
+case	gear	with
+nmod:poss	gear	its
+compound	gear	landing
+nmod:with	flying	gear
+advmod	flying	down
+punct	airplane	.

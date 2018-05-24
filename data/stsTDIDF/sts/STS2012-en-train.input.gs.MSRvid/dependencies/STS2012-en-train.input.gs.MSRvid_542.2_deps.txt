@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	rope	on
+det	rope	a
+nmod:on	walking	rope
+punct	walking	.

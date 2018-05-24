@@ -1,0 +1,8 @@
+root	ROOT	use
+compound:prt	use	up
+punct	resources	-LRB-
+dep	use	resources
+cc	resources	or
+conj:or	resources	materials
+punct	resources	-RRB-
+punct	use	.

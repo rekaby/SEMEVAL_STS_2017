@@ -1,0 +1,11 @@
+nsubj	dies	Man
+punct	dies	`
+nsubj	set	who
+csubj	dies	set
+dobj	set	himself
+dep	himself	ablaze
+punct	ablaze	'
+case	Mall	on
+compound	Mall	National
+nmod:on	ablaze	Mall
+root	ROOT	dies

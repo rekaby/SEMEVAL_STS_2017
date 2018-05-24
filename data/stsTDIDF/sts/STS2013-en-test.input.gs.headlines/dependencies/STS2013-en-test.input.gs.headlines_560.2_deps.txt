@@ -1,0 +1,8 @@
+root	ROOT	Spaniard
+case	trial	on
+nmod:on	Spaniard	trial
+case	death	for
+amod	dissident	Cuban
+nmod:poss	death	dissident
+case	dissident	's
+nmod:for	trial	death

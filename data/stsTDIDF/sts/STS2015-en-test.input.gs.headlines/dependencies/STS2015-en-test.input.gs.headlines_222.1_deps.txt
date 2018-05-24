@@ -1,0 +1,8 @@
+root	ROOT	Ukraine
+punct	Ukraine	:
+nummod	people	Nine
+nsubj	die	people
+dep	Ukraine	die
+case	clashes	in
+compound	clashes	Kyiv
+nmod:in	die	clashes

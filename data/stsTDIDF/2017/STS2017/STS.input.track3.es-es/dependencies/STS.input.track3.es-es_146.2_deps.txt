@@ -1,0 +1,10 @@
+det	band	The
+nsubj	performing	band
+aux	performing	is
+root	ROOT	performing
+case	group	for
+det	group	a
+nmod:for	performing	group
+case	people	of
+nmod:of	group	people
+punct	performing	.

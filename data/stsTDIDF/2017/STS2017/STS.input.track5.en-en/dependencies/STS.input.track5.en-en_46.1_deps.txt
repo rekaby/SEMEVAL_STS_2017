@@ -1,0 +1,7 @@
+det	dogs	The
+nsubj	chasing	dogs
+aux	chasing	are
+root	ROOT	chasing
+det	cat	a
+dobj	chasing	cat
+punct	chasing	.

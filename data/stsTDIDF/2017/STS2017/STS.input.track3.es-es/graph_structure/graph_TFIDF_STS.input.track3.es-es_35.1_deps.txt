@@ -1,0 +1,5 @@
+pants	playing	acl
+playing	floor	nmod:on
+pants	in	case
+girl	pants	nmod:in
+pants	pink	amod

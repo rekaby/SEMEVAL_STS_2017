@@ -1,0 +1,10 @@
+compound	lands	Gaza
+compound	lands	rockets
+root	ROOT	lands
+case	area	in
+compound	area	Ashkelon
+compound	area	Coast
+nmod:in	lands	area
+punct	lands	;
+nsubj	hurt	none
+parataxis	lands	hurt

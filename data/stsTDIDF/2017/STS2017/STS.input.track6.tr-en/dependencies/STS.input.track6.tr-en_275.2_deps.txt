@@ -1,0 +1,6 @@
+det	child	The
+nsubj	keeps	child
+root	ROOT	keeps
+det	cat	a
+dobj	keeps	cat
+advmod	keeps	inside

@@ -1,0 +1,18 @@
+advmod	build	So
+compound	Lijun	Wang
+nsubj	build	Lijun
+aux	build	did
+root	ROOT	build
+det	network	a
+compound	network	surveillance
+dobj	build	network
+punct	build	.-9) punct(Party-3, -
+compound	Party	Chinese
+nsubj	Scandal	Party
+cc	Party	and
+compound	Fired	Business
+compound	Fired	Officials
+conj:and	Party	Fired
+case	Sex	in
+nmod:in	Party	Sex
+root	ROOT	Scandal

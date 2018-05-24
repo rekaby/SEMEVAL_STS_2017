@@ -1,0 +1,6 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	20
+case	Iraq	in
+nmod:in	kills	Iraq

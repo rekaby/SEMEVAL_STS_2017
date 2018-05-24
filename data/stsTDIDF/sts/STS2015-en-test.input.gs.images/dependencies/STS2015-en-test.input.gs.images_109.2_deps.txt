@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	has	dog
+root	ROOT	has
+det	stick	a
+dobj	has	stick
+case	paws	in
+nmod:poss	paws	his
+nmod:in	stick	paws
+punct	has	.

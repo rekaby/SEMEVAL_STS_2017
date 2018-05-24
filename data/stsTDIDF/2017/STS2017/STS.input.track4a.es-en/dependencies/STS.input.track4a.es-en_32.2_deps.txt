@@ -1,0 +1,8 @@
+det	people	The
+nsubj	trying	people
+aux	trying	are
+root	ROOT	trying
+mark	get	to
+xcomp	trying	get
+dobj	get	home
+punct	trying	.

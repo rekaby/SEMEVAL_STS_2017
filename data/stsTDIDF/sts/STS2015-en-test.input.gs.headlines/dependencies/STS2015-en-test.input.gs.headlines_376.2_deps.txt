@@ -1,0 +1,8 @@
+amod	airstrikes	Syrian
+nsubj	kill	airstrikes
+root	ROOT	kill
+case	least	at
+nmod:npmod	18	least
+dobj	kill	18
+case	Aleppo	in
+nmod:in	kill	Aleppo

@@ -1,0 +1,17 @@
+nsubj	managed	I
+advcl	think	managed
+mark	find	to
+xcomp	managed	find
+det	recipe	this
+dobj	find	recipe
+punct	think	,
+nsubj	think	I
+root	ROOT	think
+dobj	think	this
+dep	this	is
+advmod	got	where
+nsubj	got	I
+advcl	is	got
+det	idea	the
+dobj	got	idea
+punct	think	.

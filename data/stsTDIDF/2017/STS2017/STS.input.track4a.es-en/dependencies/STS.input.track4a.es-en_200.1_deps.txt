@@ -1,0 +1,14 @@
+det	group	A
+nsubj	trying	group
+case	butchers	of
+nmod:of	group	butchers
+aux	trying	are
+root	ROOT	trying
+dobj	trying	recipes
+acl	recipes	made
+case	meat	with
+nmod:with	made	meat
+dobj	cut	that
+nsubj	cut	they
+ccomp	trying	cut
+punct	trying	.

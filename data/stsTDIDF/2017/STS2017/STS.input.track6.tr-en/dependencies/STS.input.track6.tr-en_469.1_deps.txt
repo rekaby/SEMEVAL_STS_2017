@@ -1,0 +1,10 @@
+det	man	A
+nsubj	serving	man
+case	party	at
+det	party	a
+compound	party	costume
+nmod:at	man	party
+aux	serving	is
+root	ROOT	serving
+dobj	serving	drinks
+punct	serving	.

@@ -1,0 +1,6 @@
+det	swimming	A
+compound	swimming	dog
+root	ROOT	swimming
+case	pond	in
+det	pond	a
+nmod:in	swimming	pond

@@ -1,0 +1,7 @@
+root	ROOT	123
+acl	123	killed
+mark	fighting	in
+advcl	killed	fighting
+case	Syria	in
+amod	Syria	northern
+nmod:in	fighting	Syria

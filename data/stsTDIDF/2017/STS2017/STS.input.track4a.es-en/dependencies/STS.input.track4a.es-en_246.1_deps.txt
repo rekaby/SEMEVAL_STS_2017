@@ -1,0 +1,11 @@
+det	man	The
+nsubj	talking	man
+aux	talking	was
+root	ROOT	talking
+case	phone	on
+det	phone	the
+nmod:on	talking	phone
+case	bathroom	in
+det	bathroom	the
+nmod:in	phone	bathroom
+punct	talking	.

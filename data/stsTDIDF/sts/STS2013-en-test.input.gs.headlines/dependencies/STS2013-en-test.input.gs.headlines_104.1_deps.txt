@@ -1,0 +1,11 @@
+nsubj	reported	Two
+root	ROOT	reported
+xcomp	reported	dead
+case	shooting	in
+nmod:in	dead	shooting
+case	Building	at
+compound	Building	Empire
+compound	Building	State
+nmod:at	shooting	Building
+case	NY	in
+nmod:in	dead	NY

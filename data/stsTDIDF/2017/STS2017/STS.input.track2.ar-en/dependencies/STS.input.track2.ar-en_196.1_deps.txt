@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	is
+mark	release	about
+mark	release	to
+advcl	is	release
+det	ball	a
+dobj	release	ball
+punct	man	.

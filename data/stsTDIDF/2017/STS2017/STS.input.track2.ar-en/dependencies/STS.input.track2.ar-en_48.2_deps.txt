@@ -1,0 +1,15 @@
+det	woman	An
+amod	woman	elderly
+nsubj	showing	woman
+root	ROOT	showing
+advmod	use	how
+mark	use	to
+ccomp	showing	use
+det	table	the
+amod	table	washing
+dobj	use	table
+mark	do	to
+advcl	use	do
+det	laundry	the
+dobj	do	laundry
+punct	showing	.

@@ -1,0 +1,11 @@
+nsubjpass	used	It
+auxpass	used	is
+advmod	used	often
+root	ROOT	used
+mark	calculate	to
+xcomp	used	calculate
+amod	probabilities	posterior
+dobj	calculate	probabilities
+amod	observations	given
+dep	probabilities	observations
+punct	used	.

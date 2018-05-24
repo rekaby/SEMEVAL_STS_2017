@@ -1,0 +1,12 @@
+nsubj	says	AOL
+root	ROOT	says
+mark	sell	to
+xcomp	says	sell
+nummod	patents	800
+dobj	sell	patents
+case	Microsoft	to
+nmod:to	sell	Microsoft
+case	$	for
+nmod:for	sell	$
+nummod	$	1.0
+nmod:npmod	$	bn

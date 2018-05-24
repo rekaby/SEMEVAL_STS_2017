@@ -1,0 +1,17 @@
+case	weeks	In
+det	weeks	the
+nmod:in	received	weeks
+acl	weeks	leading
+compound:prt	leading	up
+case	execution	to
+det	execution	the
+nmod:to	leading	execution
+punct	received	,
+amod	officials	several
+compound	officials	Florida
+nsubj	received	officials
+root	ROOT	received
+amod	letters	anonymous
+amod	letters	threatening
+dobj	received	letters
+punct	received	.

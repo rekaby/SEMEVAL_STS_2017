@@ -1,0 +1,8 @@
+det	hare	A
+nsubj	running	hare
+aux	running	is
+root	ROOT	running
+case	eagle	from
+det	eagle	a
+nmod:from	running	eagle
+punct	running	.

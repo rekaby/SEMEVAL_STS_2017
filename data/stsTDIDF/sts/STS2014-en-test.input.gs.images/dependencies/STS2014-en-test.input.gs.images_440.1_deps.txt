@@ -1,0 +1,10 @@
+det	bird	A
+amod	bird	large
+amod	bird	black
+nsubj	sitting	bird
+aux	sitting	is
+root	ROOT	sitting
+case	water	in
+det	water	the
+nmod:in	sitting	water
+punct	sitting	.

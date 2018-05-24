@@ -1,0 +1,9 @@
+nummod	inmates	105
+nsubj	serving	inmates
+aux	serving	are
+root	ROOT	serving
+dobj	serving	sentences
+case	trafficking	for
+compound	trafficking	drug
+nmod:for	sentences	trafficking
+punct	serving	.

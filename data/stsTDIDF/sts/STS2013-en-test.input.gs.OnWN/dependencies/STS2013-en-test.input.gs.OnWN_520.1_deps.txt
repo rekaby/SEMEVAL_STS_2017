@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	acknowledging	of
+acl	act	acknowledging
+det	truth	the
+dobj	acknowledging	truth
+case	something	of
+nmod:of	truth	something

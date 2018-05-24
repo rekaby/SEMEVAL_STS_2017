@@ -1,0 +1,8 @@
+nsubj	found	Horsemeat
+root	ROOT	found
+case	hamburgers	in
+nmod:in	found	hamburgers
+case	Britain	in
+nmod:in	hamburgers	Britain
+cc	Britain	and
+conj:and	Britain	Ireland

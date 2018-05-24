@@ -1,0 +1,17 @@
+case	record	For
+det	record	the
+nmod:for	chopped	record
+punct	chopped	,
+nsubj	chopped	I
+root	ROOT	chopped
+nmod:poss	hair	my
+dobj	chopped	hair
+case	Karlie	into
+punct	Karlie	``
+det	Karlie	The
+nmod:into	chopped	Karlie
+punct	Karlie	''
+case	Karlie	before
+nmod:before	Karlie	Karlie
+punct	chopped	;
+punct	chopped	-RRB-

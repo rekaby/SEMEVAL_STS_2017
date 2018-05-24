@@ -1,0 +1,9 @@
+compound	victims	Pakistan
+compound	victims	bomb
+nsubj	ends	victims
+mark	buried	to
+auxpass	buried	be
+acl	victims	buried
+case	protest	after
+nmod:after	buried	protest
+root	ROOT	ends

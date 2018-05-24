@@ -1,0 +1,11 @@
+root	ROOT	Close-up
+case	horse	of
+amod	horse	young
+nmod:of	Close-up	horse
+acl	horse	walking
+case	horse	next
+mwe	next	to
+det	horse	a
+amod	horse	larger
+nmod:next_to	walking	horse
+punct	Close-up	.

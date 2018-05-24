@@ -1,0 +1,8 @@
+det	men	Some
+nsubj	skating	men
+aux	skating	are
+root	ROOT	skating
+case	road	on
+det	road	the
+nmod:on	skating	road
+punct	skating	.

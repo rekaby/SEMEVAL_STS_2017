@@ -1,0 +1,5 @@
+nsubj	kills	Fire
+case	Beijing	in
+nmod:in	Fire	Beijing
+root	ROOT	kills
+dobj	kills	10

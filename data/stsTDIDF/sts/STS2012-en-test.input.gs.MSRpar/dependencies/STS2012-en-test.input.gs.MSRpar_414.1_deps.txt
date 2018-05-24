@@ -1,0 +1,16 @@
+det	Nasdaq	The
+nsubj	fell	Nasdaq
+root	ROOT	fell
+advmod	1.3	about
+nummod	%	1.3
+dobj	fell	%
+case	month	for
+det	month	the
+nmod:for	fell	month
+punct	fell	,
+advcl	fell	snapping
+det	streak	a
+amod	streak	seven-month
+compound	streak	winning
+dobj	snapping	streak
+punct	fell	.

@@ -1,0 +1,8 @@
+nsubj	wants	Pakistan
+csubj	stopped	wants
+compound	supply	arms
+dobj	wants	supply
+case	sides	to
+amod	sides	Syrian
+nmod:to	wants	sides
+root	ROOT	stopped

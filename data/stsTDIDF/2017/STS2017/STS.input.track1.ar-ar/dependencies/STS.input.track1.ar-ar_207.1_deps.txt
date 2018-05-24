@@ -1,0 +1,11 @@
+det	man	The
+nsubj	reach	man
+aux	reach	will
+root	ROOT	reach
+det	age	the
+dobj	reach	age
+case	49	of
+nmod:of	age	49
+det	year	this
+nmod:tmod	reach	year
+punct	reach	.

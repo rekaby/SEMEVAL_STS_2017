@@ -1,0 +1,9 @@
+det	men	The
+nsubj	going	men
+cc	men	and
+conj:and	men	women
+aux	going	are
+root	ROOT	going
+mark	perform	to
+xcomp	going	perform
+punct	going	.

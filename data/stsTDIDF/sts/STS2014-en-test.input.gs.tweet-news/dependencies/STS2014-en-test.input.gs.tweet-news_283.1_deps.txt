@@ -1,0 +1,14 @@
+det	I	The
+amod	I	closest
+nsubj	get	I
+aux	get	'll
+det	get	every
+root	ROOT	get
+case	Hollywood	to
+nmod:to	get	Hollywood
+punct	get	:
+parataxis	get	#GreenFashion
+case	Carpet	on
+det	Carpet	the
+compound	Carpet	Red
+nmod:on	#GreenFashion	Carpet

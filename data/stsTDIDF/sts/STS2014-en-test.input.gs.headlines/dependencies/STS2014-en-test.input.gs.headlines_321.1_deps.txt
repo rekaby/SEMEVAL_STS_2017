@@ -1,0 +1,11 @@
+compound	fault	Track
+nsubj	disrupts	fault
+root	ROOT	disrupts
+compound	service	train
+dobj	disrupts	service
+case	Place	between
+compound	Place	Raffles
+nmod:between	disrupts	Place
+punct	Place	,
+compound	Bay	Marina
+appos	Place	Bay

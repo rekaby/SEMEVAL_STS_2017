@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	brown
+root	ROOT	dog
+cc	dog	and
+nummod	dogs	two
+amod	dogs	black
+conj:and	dog	dogs
+case	field	in
+det	field	an
+amod	field	overgrown
+amod	field	grassy
+nmod:in	dog	field
+punct	dog	.

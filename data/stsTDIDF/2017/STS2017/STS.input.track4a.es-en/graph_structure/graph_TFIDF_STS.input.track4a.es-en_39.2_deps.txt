@@ -1,0 +1,4 @@
+person	young	amod
+screwdriver	a	det
+person	turning	acl
+turning	screwdriver	dobj

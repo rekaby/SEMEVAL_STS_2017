@@ -1,0 +1,5 @@
+compound	summary	News
+root	ROOT	summary
+case	March	for
+nmod:for	summary	March
+nummod	March	11

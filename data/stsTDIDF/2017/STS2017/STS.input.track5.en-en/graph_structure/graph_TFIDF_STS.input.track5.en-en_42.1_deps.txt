@@ -1,0 +1,9 @@
+chainsaw	a	det
+sculpture	ice	compound
+sculpture	a	det
+sculpt	to	mark
+sculpt	sculpture	dobj
+uses	chainsaw	dobj
+sculpture	phallic	amod
+uses	man	nsubj
+uses	sculpt	advcl

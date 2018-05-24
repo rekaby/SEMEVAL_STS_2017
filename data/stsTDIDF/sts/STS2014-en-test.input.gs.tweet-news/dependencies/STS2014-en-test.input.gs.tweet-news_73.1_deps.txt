@@ -1,0 +1,13 @@
+root	ROOT	Sign
+case	#apocalypse	of
+det	#apocalypse	the
+nmod:of	Sign	#apocalypse
+punct	Sign	:
+dep	Sign	Voice
+case	Brown	of
+compound	Brown	Charlie
+nmod:of	Voice	Brown
+acl	Voice	arrested
+punct	arrested	,
+xcomp	arrested	charged
+punct	Sign	.-13) root(ROOT-0, ?

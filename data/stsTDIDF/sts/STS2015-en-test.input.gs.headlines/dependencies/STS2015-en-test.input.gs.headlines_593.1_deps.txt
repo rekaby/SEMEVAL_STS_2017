@@ -1,0 +1,5 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	soldiers	15
+amod	soldiers	Libyan
+dobj	kill	soldiers

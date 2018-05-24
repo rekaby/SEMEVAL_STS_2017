@@ -1,0 +1,15 @@
+root	ROOT	#Wtf
+nsubj	happened	it
+acl:relcl	#Wtf	happened
+advmod	happened	again
+punct	#Wtf	.-5) root(ROOT-0, Police
+punct	Police	:
+nummod	passenger	7
+compound	passenger	men
+compound	passenger	gang
+compound	passenger	rape
+compound	passenger	bus
+dep	Police	passenger
+case	#India	in
+nmod:in	passenger	#India
+punct	Police	-

@@ -1,0 +1,10 @@
+nsubj	shakes	Obama
+root	ROOT	shakes
+dobj	shakes	hands
+case	Castro	with
+nmod:poss	Castro	Cuba
+case	Cuba	's
+nmod:with	shakes	Castro
+case	memorial	at
+compound	memorial	Mandela
+nmod:at	shakes	memorial

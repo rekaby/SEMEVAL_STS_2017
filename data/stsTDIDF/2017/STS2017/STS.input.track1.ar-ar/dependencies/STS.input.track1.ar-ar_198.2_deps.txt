@@ -1,0 +1,10 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	line	in
+nmod:in	stands	line
+case	theater	at
+det	theater	the
+compound	theater	movie
+nmod:at	stands	theater
+punct	stands	.

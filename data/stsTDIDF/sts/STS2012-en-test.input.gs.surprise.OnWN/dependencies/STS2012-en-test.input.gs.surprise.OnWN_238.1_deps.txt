@@ -1,0 +1,10 @@
+det	state	a
+root	ROOT	state
+case	pretending	of
+nmod:of	state	pretending
+mark	someone	to
+cop	someone	be
+acl	state	someone
+punct	someone	,
+nmod:npmod	else	something
+advmod	someone	else

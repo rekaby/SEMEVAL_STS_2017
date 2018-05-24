@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	black
+root	ROOT	dogs
+acl	dogs	playing
+case	grass	in
+det	grass	the
+nmod:in	playing	grass
+punct	dogs	.

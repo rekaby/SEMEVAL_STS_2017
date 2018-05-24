@@ -1,0 +1,11 @@
+dep	are	Today
+expl	are	there
+root	ROOT	are
+nummod	ways	two
+amod	ways	plausible
+nsubj	are	ways
+case	tyrant	to
+det	tyrant	a
+nmod:to	ways	tyrant
+acl	tyrant	deposed
+punct	are	.

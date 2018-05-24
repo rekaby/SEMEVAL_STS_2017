@@ -1,0 +1,8 @@
+det	dog	The
+compound	dog	tan
+nsubj	runs	dog
+root	ROOT	runs
+case	leaves	through
+det	leaves	the
+nmod:through	runs	leaves
+punct	runs	.

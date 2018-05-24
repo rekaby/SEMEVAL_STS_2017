@@ -1,0 +1,7 @@
+nsubj	takes	Obama
+root	ROOT	takes
+dobj	takes	offensive
+case	Romney	against
+nmod:against	offensive	Romney
+case	debate	in
+nmod:in	offensive	debate

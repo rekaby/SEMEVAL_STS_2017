@@ -1,0 +1,13 @@
+nsubj	aware	J&J
+cop	aware	was
+root	ROOT	aware
+case	rate	of
+compound	%	40
+amod	rate	%
+compound	rate	failure
+nmod:of	aware	rate
+case	Implants	in
+compound	Implants	DePuy
+compound	Implants	Hip
+nmod:in	rate	Implants
+punct	aware	.

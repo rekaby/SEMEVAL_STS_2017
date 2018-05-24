@@ -1,0 +1,5 @@
+street	and	cc
+street	chatting	conj:and
+street	city	compound
+sitting	street	nmod:in
+sitting	group	nsubj

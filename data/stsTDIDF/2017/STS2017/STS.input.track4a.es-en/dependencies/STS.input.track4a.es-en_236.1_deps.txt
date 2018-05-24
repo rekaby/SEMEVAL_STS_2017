@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	asleep	dog
+cop	asleep	is
+root	ROOT	asleep
+case	bed	in
+nmod:in	asleep	bed
+punct	asleep	.

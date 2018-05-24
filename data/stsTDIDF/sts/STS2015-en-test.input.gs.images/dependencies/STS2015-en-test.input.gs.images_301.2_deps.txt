@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	watches	woman
+root	ROOT	watches
+det	dog	a
+nsubj	jump	dog
+ccomp	watches	jump
+case	stairs	down
+det	stairs	the
+nmod:down	jump	stairs
+punct	watches	.

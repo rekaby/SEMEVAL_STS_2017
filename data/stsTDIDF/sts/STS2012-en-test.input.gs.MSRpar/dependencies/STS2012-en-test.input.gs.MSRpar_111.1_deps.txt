@@ -1,0 +1,16 @@
+det	consensus	The
+nsubj	was	consensus
+case	analysts	among
+compound	analysts	Wall
+compound	analysts	Street
+nmod:among	consensus	analysts
+root	ROOT	was
+case	loss	for
+det	loss	a
+nmod:for	was	loss
+case	cents	of
+nummod	cents	28
+nmod:of	loss	cents
+det	share	a
+nmod:npmod	cents	share
+punct	was	.

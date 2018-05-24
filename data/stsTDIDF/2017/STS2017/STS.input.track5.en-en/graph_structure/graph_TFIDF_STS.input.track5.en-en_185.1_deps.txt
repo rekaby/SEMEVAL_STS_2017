@@ -1,0 +1,7 @@
+stunt	a	det
+ROOT	performing	root
+performing	stunt	dobj
+performing	.	punct
+performing	man	nsubj
+performing	is	aux
+stunt	outdoors	advmod

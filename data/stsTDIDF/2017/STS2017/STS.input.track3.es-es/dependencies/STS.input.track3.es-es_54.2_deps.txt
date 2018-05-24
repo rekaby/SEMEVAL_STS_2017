@@ -1,0 +1,6 @@
+nummod	women	Three
+nsubj	staying	women
+root	ROOT	staying
+case	night	at
+nmod:at	staying	night
+punct	staying	.

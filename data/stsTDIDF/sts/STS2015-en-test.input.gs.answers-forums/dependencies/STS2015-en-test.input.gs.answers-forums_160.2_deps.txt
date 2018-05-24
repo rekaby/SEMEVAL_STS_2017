@@ -1,0 +1,12 @@
+case	others	Unlike
+nmod:unlike	think	others
+punct	think	,
+nsubj	think	I
+root	ROOT	think
+det	route	the
+nsubjpass	described	route
+auxpass	described	is
+advmod	well	pretty
+advmod	described	well
+ccomp	think	described
+punct	think	.

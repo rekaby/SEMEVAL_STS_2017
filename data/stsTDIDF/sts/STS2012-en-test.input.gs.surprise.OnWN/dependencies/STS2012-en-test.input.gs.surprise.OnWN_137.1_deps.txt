@@ -1,0 +1,7 @@
+root	ROOT	recognize
+punct	recognize	,
+cop	familar	be
+dep	recognize	familar
+cc	familar	or
+conj:or	familar	well-versed
+dep	familar	with

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	black	in
+nmod:in	man	black
+case	surfboard	on
+det	surfboard	a
+nmod:on	black	surfboard
+acl	surfboard	riding
+det	wave	a
+dobj	riding	wave
+punct	man	.

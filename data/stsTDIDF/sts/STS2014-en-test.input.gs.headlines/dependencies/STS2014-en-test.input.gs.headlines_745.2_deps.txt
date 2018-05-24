@@ -1,0 +1,9 @@
+amod	collapse	Bangladesh
+compound	collapse	building
+root	ROOT	collapse
+punct	collapse	:
+compound	toll	death
+nsubj	climbs	toll
+dep	collapse	climbs
+case	580	to
+nmod:to	climbs	580

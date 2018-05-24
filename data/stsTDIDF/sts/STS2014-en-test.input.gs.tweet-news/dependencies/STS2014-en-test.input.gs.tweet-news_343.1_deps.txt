@@ -1,0 +1,9 @@
+compound	Feinstein	Sen.
+nsubj	announces	Feinstein
+root	ROOT	announces
+dobj	announces	bill
+mark	limit	to
+xcomp	announces	limit
+amod	weapons	semiautomatic
+dobj	limit	weapons
+punct	announces	:

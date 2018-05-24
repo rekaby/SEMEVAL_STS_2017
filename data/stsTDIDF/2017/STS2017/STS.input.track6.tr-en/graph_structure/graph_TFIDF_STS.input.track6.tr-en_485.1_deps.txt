@@ -1,0 +1,10 @@
+other	sitting	acl
+workers	,	punct
+take	workers	nsubj
+workers	one	appos
+lying	down	advmod
+sitting	chair	nmod:in
+take	break	dobj
+workers	Two	nummod
+chair	in	case
+one	lying	acl

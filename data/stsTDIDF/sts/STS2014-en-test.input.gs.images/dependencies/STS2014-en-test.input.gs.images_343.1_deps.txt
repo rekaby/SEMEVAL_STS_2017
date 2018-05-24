@@ -1,0 +1,8 @@
+root	ROOT	Boy
+case	typing	with
+compound	typing	glasses
+nmod:with	Boy	typing
+case	computer	on
+det	computer	a
+nmod:on	typing	computer
+punct	Boy	.

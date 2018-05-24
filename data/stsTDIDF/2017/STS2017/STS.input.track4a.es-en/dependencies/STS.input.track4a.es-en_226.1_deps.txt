@@ -1,0 +1,9 @@
+det	boy	The
+nsubj	finished	boy
+root	ROOT	finished
+xcomp	finished	opening
+det:predet	presents	all
+nmod:poss	presents	his
+compound	presents	Christmas
+dobj	opening	presents
+punct	finished	.

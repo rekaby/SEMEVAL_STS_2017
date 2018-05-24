@@ -1,0 +1,15 @@
+det	speaker	a
+nsubj	characterizes	speaker
+root	ROOT	characterizes
+det	intensity	the
+dobj	characterizes	intensity
+case	attribute	of
+det	attribute	an
+nmod:of	intensity	attribute
+case	entity	of
+det	entity	an
+nmod:of	attribute	entity
+case	degree	by
+det	degree	a
+nmod:by	characterizes	degree
+punct	characterizes	.

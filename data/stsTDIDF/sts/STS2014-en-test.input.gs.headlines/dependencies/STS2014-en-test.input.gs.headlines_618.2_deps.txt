@@ -1,0 +1,8 @@
+compound	army	Pak
+nsubj	adamant	army
+root	ROOT	adamant
+mark	fighting	on
+advcl	adamant	fighting
+det	Taleban	the
+amod	Taleban	other
+dobj	fighting	Taleban

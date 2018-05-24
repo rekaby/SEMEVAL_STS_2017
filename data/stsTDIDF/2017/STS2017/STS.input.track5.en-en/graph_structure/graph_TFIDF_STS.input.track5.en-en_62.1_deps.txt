@@ -1,0 +1,9 @@
+person	playing	acl:relcl
+child	with	case
+person	is	cop
+person	behind	case
+playing	that	nsubj
+playing	peekaboo	dobj
+playing	child	nmod:with
+pole	A	det
+person	pole	nsubj

@@ -1,0 +1,10 @@
+nsubjpass	charged	Klarman
+auxpass	charged	was
+root	ROOT	charged
+case	counts	with
+nummod	counts	16
+nmod:with	charged	counts
+case	fraud	of
+compound	fraud	wire
+nmod:of	counts	fraud
+punct	charged	.

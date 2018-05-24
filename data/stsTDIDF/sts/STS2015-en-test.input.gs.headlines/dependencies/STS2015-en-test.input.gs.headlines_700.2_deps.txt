@@ -1,0 +1,9 @@
+nsubj	apologizes	Mediator
+root	ROOT	apologizes
+case	Syrians	to
+nmod:to	apologizes	Syrians
+case	lack	for
+nmod:for	apologizes	lack
+case	peace	of
+nmod:of	lack	peace
+dobj	apologizes	progress

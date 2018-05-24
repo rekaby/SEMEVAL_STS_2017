@@ -1,0 +1,5 @@
+root	ROOT	make
+dobj	make	noise
+case	engine	like
+amod	engine	bad
+nmod:like	noise	engine

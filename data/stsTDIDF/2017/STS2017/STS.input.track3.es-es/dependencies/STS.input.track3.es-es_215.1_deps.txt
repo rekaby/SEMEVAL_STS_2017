@@ -1,0 +1,8 @@
+det	man	A
+nsubj	plays	man
+case	t-shirt	in
+det	t-shirt	a
+nmod:in	man	t-shirt
+root	ROOT	plays
+dobj	plays	basketball
+punct	plays	.

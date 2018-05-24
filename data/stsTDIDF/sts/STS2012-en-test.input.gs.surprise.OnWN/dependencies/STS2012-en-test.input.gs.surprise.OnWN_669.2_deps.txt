@@ -1,0 +1,8 @@
+det	ending	the
+amod	ending	successful
+root	ROOT	ending
+case	Revolution	of
+det	Revolution	the
+amod	Revolution	American
+nmod:of	ending	Revolution
+punct	ending	.

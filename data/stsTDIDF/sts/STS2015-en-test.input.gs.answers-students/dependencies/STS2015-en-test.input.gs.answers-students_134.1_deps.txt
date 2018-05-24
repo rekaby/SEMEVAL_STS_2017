@@ -1,0 +1,7 @@
+nsubj	turns	It
+root	ROOT	turns
+compound:prt	turns	off
+det:predet	bulbs	all
+det	bulbs	the
+dobj	turns	bulbs
+punct	turns	.

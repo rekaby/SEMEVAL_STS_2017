@@ -1,0 +1,10 @@
+amod	kids	Several
+nsubj	jump	kids
+root	ROOT	jump
+advmod	jump	up
+cc	jump	and
+advmod	jump	down
+case	trampoline	on
+det	trampoline	a
+nmod:on	down	trampoline
+punct	jump	.

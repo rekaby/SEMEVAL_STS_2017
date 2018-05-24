@@ -1,0 +1,9 @@
+compound	resigns	BBC
+compound	resigns	director
+amod	resigns	general
+root	ROOT	resigns
+case	journalism	over
+punct	journalism	`
+amod	journalism	shoddy
+nmod:over	resigns	journalism
+punct	resigns	'

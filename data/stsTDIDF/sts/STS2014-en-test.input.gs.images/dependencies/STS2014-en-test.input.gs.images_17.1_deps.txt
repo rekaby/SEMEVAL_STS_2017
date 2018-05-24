@@ -1,0 +1,12 @@
+det	cows	The
+amod	cows	black
+cc	black	and
+conj:and	black	white
+nsubj	pause	cows
+root	ROOT	pause
+case	gate	in
+mwe	in	front
+mwe	in	of
+det	gate	the
+nmod:in_front_of	pause	gate
+punct	pause	.

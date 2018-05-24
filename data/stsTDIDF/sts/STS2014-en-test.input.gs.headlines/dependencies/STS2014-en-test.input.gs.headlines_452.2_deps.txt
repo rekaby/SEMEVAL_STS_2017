@@ -1,0 +1,9 @@
+compound	Rouhani	Iran
+compound	Rouhani	President
+compound	Rouhani	Hassan
+nsubj	wants	Rouhani
+root	ROOT	wants
+amod	deal	nuclear
+dobj	wants	deal
+case	months	in
+nmod:in	wants	months

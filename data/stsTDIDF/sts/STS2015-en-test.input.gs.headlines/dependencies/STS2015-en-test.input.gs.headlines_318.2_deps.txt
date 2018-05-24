@@ -1,0 +1,7 @@
+nsubj	remains	Mandela
+root	ROOT	remains
+case	care	in
+punct	care	`
+amod	care	intensive
+nmod:in	remains	care
+punct	remains	'

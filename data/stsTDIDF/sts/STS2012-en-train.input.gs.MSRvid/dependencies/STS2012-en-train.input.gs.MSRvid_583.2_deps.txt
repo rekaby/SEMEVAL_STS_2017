@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	filling	boy
+aux	filling	is
+root	ROOT	filling
+det	pitcher	a
+dobj	filling	pitcher
+case	water	with
+nmod:with	filling	water
+punct	filling	.

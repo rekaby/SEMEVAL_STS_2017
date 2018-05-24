@@ -1,0 +1,7 @@
+amod	Horner	American
+compound	Horner	Chris
+nsubj	wins	Horner
+root	ROOT	wins
+dobj	wins	Tour
+case	Spain	of
+nmod:of	Tour	Spain

@@ -1,0 +1,17 @@
+det	debate	the
+nsubj	is	debate
+root	ROOT	is
+mark	built	whether
+cc	whether	or
+mwe	whether	not
+det	mosque	a
+amod	mosque	new
+nsubjpass	built	mosque
+aux	built	should
+auxpass	built	be
+ccomp	is	built
+case	location	at
+det	location	that
+advmod	location	very
+nmod:at	built	location
+punct	is	.

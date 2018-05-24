@@ -1,0 +1,7 @@
+det	man	A
+nsubj	turns	man
+root	ROOT	turns
+case	microwave	on
+det	microwave	the
+nmod:on	turns	microwave
+punct	turns	.

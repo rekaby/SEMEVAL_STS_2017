@@ -1,0 +1,13 @@
+bicycle	on	case
+woman	wearing	acl
+wearing	equipment	dobj
+pedals	helmet	compound
+equipment	black	amod
+pedals	uphill	amod
+equipment	cycling	compound
+pedals	white	amod
+uphill	bicycle	nmod:on
+pedals	a	det
+bicycle	her	nmod:poss
+uphill	hard	amod
+equipment	pedals	conj:and

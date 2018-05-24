@@ -1,0 +1,5 @@
+root	ROOT	utter
+case	way	in
+det	way	a
+amod	way	certain
+nmod:in	utter	way

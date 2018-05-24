@@ -1,0 +1,7 @@
+aux	lot	Could
+cop	lot	be
+det	lot	a
+root	ROOT	lot
+case	things	of
+nmod:of	lot	things
+punct	lot	.

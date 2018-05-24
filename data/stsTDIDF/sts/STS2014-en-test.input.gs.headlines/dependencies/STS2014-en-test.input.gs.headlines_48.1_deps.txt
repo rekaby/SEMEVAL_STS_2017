@@ -1,0 +1,9 @@
+compound	ministers	EU
+nsubj	determined	ministers
+punct	determined	`
+root	ROOT	determined
+punct	determined	'
+mark	resolve	to
+xcomp	determined	resolve
+compound	scandal	horsemeat
+dobj	resolve	scandal

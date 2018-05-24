@@ -1,0 +1,17 @@
+case	addition	In
+nmod:in	quarantine	addition
+punct	quarantine	,
+nummod	people	6,800
+nsubj	quarantine	people
+cop	quarantine	were
+case	quarantine	in
+root	ROOT	quarantine
+cc	quarantine	and
+conj:and	quarantine	thousands
+case	workers	of
+compound	workers	health-care
+nmod:of	thousands	workers
+case	quarantine	in
+amod	quarantine	working
+nmod:in	thousands	quarantine
+punct	quarantine	.

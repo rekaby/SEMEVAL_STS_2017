@@ -1,0 +1,6 @@
+root	ROOT	remove
+case	memory	from
+nmod:from	remove	memory
+cc	memory	or
+conj:or	memory	existence
+punct	remove	.

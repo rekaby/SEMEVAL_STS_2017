@@ -1,0 +1,9 @@
+running	bicyclists	nsubj
+bicyclists	Two	nummod
+running	carrying	advcl
+running	hill	nmod:over
+carrying	while	mark
+hill	a	det
+carrying	bicycles	dobj
+bicycles	their	nmod:poss
+hill	over	case

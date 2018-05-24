@@ -1,0 +1,16 @@
+nummod	people	Two
+nsubj	padding	people
+root	ROOT	padding
+case	canoe	in
+det	canoe	a
+amod	canoe	yellow
+nmod:in	padding	canoe
+case	river	down
+det	river	a
+nmod:down	canoe	river
+case	trees	with
+nmod:with	river	trees
+case	background	in
+det	background	the
+nmod:in	river	background
+punct	padding	.

@@ -1,0 +1,8 @@
+root	ROOT	having
+det	understanding	an
+amod	understanding	intuitive
+dobj	having	understanding
+cc	understanding	or
+conj:or	understanding	appreciation
+case	something	of
+nmod:of	understanding	something

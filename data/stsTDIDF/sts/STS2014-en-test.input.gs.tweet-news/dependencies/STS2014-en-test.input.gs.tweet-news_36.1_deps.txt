@@ -1,0 +1,23 @@
+compound	MT	+1
+root	ROOT	MT
+punct	MT	?-3) root(ROOT-0, ``
+nsubj	loathe	I
+root	``	loathe
+xcomp	loathe	writing
+nmod	writing	with
+punct	loathe	.-6) root(ROOT-0, .-1) det(kind-2, a
+root	ROOT	kind
+case	phobia	of
+nmod:of	kind	phobia
+punct	kind	.-5) root(ROOT-0, .-1) advmod(sort-3, only
+det	sort	a
+nsubj	keeps	sort
+case	masochism	of
+amod	masochism	perverse
+nmod:of	sort	masochism
+root	ROOT	keeps
+dobj	keeps	me
+case	it	at
+nmod:at	keeps	it
+punct	keeps	''
+dobj	keeps	Styron

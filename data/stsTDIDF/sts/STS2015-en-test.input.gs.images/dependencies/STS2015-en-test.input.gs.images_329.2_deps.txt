@@ -1,0 +1,11 @@
+nummod	girls	Three
+nsubj	umbrellas	girls
+amod	umbrellas	holding
+root	ROOT	umbrellas
+case	backs	with
+nmod:poss	backs	their
+nmod:with	umbrellas	backs
+case	camera	to
+det	camera	the
+nmod:to	backs	camera
+punct	umbrellas	.

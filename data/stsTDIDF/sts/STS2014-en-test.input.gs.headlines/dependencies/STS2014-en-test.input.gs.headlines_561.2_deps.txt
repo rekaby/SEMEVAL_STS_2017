@@ -1,0 +1,10 @@
+root	ROOT	Kerry
+punct	Kerry	:
+neg	deal	No
+dep	Kerry	deal
+advmod	deal	yet
+case	talks	in
+amod	talks	nuclear
+nmod:in	deal	talks
+case	Iran	with
+nmod:with	talks	Iran

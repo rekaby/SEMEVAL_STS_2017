@@ -1,0 +1,12 @@
+det	man	The
+nsubj	trying	man
+aux	trying	is
+root	ROOT	trying
+mark	feed	to
+xcomp	trying	feed
+det	snake	the
+dobj	feed	snake
+case	mouse	with
+det	mouse	a
+nmod:with	feed	mouse
+punct	trying	.

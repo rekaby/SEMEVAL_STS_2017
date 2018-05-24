@@ -1,0 +1,12 @@
+term	first	amod
+ROOT	neglected	root
+peace	for	case
+neglected	,	punct
+plan	own	amod
+neglected	present	xcomp
+neglected	.	punct
+term	During	case
+neglected	he	nsubj
+plan	peace	nmod:for
+neglected	term	nmod:during
+present	plan	dobj

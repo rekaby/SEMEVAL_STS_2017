@@ -1,0 +1,8 @@
+det	train	The
+nsubj	sits	train
+root	ROOT	sits
+case	station	at
+det	station	the
+compound	station	train
+nmod:at	sits	station
+punct	sits	.

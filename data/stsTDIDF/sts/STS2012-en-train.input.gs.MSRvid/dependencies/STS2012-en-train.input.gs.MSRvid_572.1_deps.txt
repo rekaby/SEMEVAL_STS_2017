@@ -1,0 +1,8 @@
+det	man	A
+nsubj	speaking	man
+aux	speaking	is
+root	ROOT	speaking
+case	phone	on
+det	phone	a
+nmod:on	speaking	phone
+punct	speaking	.

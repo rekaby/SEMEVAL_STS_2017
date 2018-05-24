@@ -1,0 +1,10 @@
+det	man	A
+nsubj	watch	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+root	ROOT	watch
+det	movie	a
+dobj	watch	movie
+advmod	watch	together
+punct	watch	.

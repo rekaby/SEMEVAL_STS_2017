@@ -1,0 +1,12 @@
+plates	paper	compound
+standing	table	nmod:behind
+dressings	and	cc
+dressings	salad	compound
+dressings	with	case
+standing	woman	nsubj
+dressings	many	amod
+table	dressings	nmod:with
+shirt	pink	amod
+dressings	plates	conj:and
+woman	shirt	nmod:in
+table	behind	case

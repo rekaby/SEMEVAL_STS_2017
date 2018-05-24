@@ -1,0 +1,9 @@
+compound	forecasts	Sony
+root	ROOT	forecasts
+amod	loss	record
+amod	loss	annual
+dep	forecasts	loss
+case	$	of
+nmod:of	loss	$
+nummod	$	6.4
+dep	loss	bn

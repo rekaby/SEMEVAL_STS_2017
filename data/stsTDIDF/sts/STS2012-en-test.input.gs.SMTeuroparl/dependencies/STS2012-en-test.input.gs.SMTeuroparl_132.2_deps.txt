@@ -1,0 +1,15 @@
+nsubj	have	We
+root	ROOT	have
+det	unanimity	the
+dobj	have	unanimity
+case	Council	in
+det	Council	the
+nmod:in	unanimity	Council
+cc	unanimity	and
+advmod	inability	therefore
+det	inability	a
+amod	inability	covert
+conj:and	unanimity	inability
+mark	act	to
+acl	inability	act
+punct	have	.

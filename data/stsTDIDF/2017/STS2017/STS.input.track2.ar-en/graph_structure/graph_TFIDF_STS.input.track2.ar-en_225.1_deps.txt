@@ -1,0 +1,7 @@
+swimming	.	punct
+swimming	ocean	nmod:in
+ocean	in	case
+swimming	girl	compound
+swimming	little	amod
+swimming	A	det
+ROOT	swimming	root

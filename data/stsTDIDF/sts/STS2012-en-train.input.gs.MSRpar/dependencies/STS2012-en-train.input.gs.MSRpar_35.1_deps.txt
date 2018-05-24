@@ -1,0 +1,18 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-6) nsubj(points-5, DJI
+cop	points	was
+case	points	off
+nummod	points	58.69
+root	ROOT	points
+punct	points	,
+cc	points	or
+nummod	percent	0.64
+conj:or	points	percent
+punct	points	,
+case	9,137.86	at
+nmod:at	points	9,137.86
+punct	points	.

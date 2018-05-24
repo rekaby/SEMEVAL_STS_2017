@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	pouring	woman
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	oil
+case	bowl	in
+det	bowl	a
+nmod:in	pouring	bowl
+punct	pouring	.

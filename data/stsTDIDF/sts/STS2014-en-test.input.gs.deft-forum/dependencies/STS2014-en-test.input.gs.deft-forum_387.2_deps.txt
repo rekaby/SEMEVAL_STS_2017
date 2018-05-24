@@ -1,0 +1,11 @@
+nsubj	refers	Pro-life
+advmod	refers	also
+root	ROOT	refers
+dep	refers	to
+dep	to	just
+punct	just	``
+root	``	opposition
+case	abortion	to
+nmod:to	opposition	abortion
+punct	opposition	''
+punct	opposition	.

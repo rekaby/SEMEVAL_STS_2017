@@ -1,0 +1,12 @@
+det	men	Both
+nsubjpass	held	men
+aux	held	are
+auxpass	held	being
+root	ROOT	held
+case	investigation	for
+nmod:for	held	investigation
+case	violations	of
+amod	violations	administrative
+compound	violations	immigration
+nmod:of	investigation	violations
+punct	held	.

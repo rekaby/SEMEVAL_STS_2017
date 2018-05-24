@@ -1,0 +1,7 @@
+nsubj	dies	Woman
+root	ROOT	dies
+mark	collapses	after
+nsubj	collapses	cliff
+advcl	dies	collapses
+case	Dorset	in
+nmod:in	collapses	Dorset

@@ -1,0 +1,10 @@
+pacifier	mouth	nmod:in
+mouth	its	nmod:poss
+stroller	pacifier	nmod:with
+pacifier	a	det
+child	.	punct
+child	stroller	nmod:in
+stroller	in	case
+stroller	a	det
+pacifier	with	case
+ROOT	child	root

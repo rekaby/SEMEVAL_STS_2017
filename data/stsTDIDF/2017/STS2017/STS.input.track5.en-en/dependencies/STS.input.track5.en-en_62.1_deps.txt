@@ -1,0 +1,14 @@
+det	pole	A
+nsubj	person	pole
+cop	person	is
+case	person	behind
+det	person	a
+root	ROOT	person
+nsubj	playing	that
+aux	playing	is
+acl:relcl	person	playing
+dobj	playing	peekaboo
+case	child	with
+det	child	a
+nmod:with	playing	child
+punct	person	.

@@ -1,0 +1,9 @@
+compound	leaders	Senate
+nsubj	appear	leaders
+root	ROOT	appear
+case	ceiling	close
+mwe	close	to
+compound	ceiling	US
+compound	ceiling	debt
+nmod:close_to	appear	ceiling
+dobj	appear	deal

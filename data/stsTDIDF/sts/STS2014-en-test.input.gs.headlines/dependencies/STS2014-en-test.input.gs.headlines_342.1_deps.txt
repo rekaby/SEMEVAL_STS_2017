@@ -1,0 +1,6 @@
+nummod	Afghans	Three
+nsubj	killed	Afghans
+root	ROOT	killed
+case	attack	in
+compound	attack	suicide
+nmod:in	killed	attack

@@ -1,0 +1,9 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	bicycle	of
+det	bicycle	a
+nmod:of	photo	bicycle
+punct	photo	.

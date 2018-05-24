@@ -1,0 +1,7 @@
+kicking	player	nsubj
+player	soccer	compound
+player	A	det
+kicking	ball	dobj
+kicking	is	aux
+ROOT	kicking	root
+kicking	.	punct

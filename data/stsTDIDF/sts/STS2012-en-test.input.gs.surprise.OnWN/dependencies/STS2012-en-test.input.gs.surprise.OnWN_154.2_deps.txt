@@ -1,0 +1,7 @@
+root	ROOT	extend
+compound:prt	extend	out
+cc	extend	or
+conj:or	extend	project
+case	space	in
+nmod:in	project	space
+punct	extend	.

@@ -1,0 +1,9 @@
+det	terminal	The
+amod	terminal	positive
+nsubjpass	seperated	terminal
+auxpass	seperated	is
+neg	seperated	not
+root	ROOT	seperated
+case	gap	from
+det	gap	the
+nmod:from	seperated	gap

@@ -1,0 +1,11 @@
+det	battery	The
+nsubj	path	battery
+cop	path	is
+case	path	in
+det	path	an
+amod	path	open
+root	ROOT	path
+case	bulb	to
+det	bulb	the
+nmod:to	path	bulb
+punct	path	.

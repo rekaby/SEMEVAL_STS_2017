@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	up
+amod	steps	snowy
+dobj	walking	steps
+punct	walking	.

@@ -1,0 +1,7 @@
+nsubj	begins	Destruction
+case	weapons	of
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+nmod:of	Destruction	weapons
+root	ROOT	begins

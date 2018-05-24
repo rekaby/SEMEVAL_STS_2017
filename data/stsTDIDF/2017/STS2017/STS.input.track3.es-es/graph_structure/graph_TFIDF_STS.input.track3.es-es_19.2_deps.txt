@@ -1,0 +1,8 @@
+riding	bicycle	dobj
+helmet	a	det
+riding	helmet	nmod:with
+helmet	on	acl
+riding	woman	nsubj
+bicycle	her	nmod:poss
+helmet	with	case
+riding	is	aux

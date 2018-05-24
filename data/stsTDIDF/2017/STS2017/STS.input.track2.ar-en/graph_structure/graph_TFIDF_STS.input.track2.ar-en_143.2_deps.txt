@@ -1,0 +1,7 @@
+sits	truck	nmod:inside
+slope	a	det
+truck	inside	case
+sits	Furniture	nsubj
+truck	moving	amod
+truck	slope	nmod:on
+slope	on	case

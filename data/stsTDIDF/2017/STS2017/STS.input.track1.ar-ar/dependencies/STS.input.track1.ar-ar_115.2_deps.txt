@@ -1,0 +1,6 @@
+neg	one	No
+root	ROOT	one
+case	bike	on
+det	bike	the
+nmod:on	one	bike
+punct	one	.

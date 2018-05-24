@@ -1,0 +1,16 @@
+det	Blog	The
+compound	Blog	Learning
+compound	Blog	Network
+root	ROOT	Blog
+punct	Blog	:
+compound	Opinion	Student
+nsubj	Make	Opinion
+dep	Make	|
+aux	Make	Does
+nsubj	Make	Facebook
+advmod	Make	Ever
+dep	Blog	Make
+nsubj	Bad	You
+compound	Bad	Feel
+xcomp	Make	Bad
+punct	Blog	?

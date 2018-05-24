@@ -1,0 +1,10 @@
+root	ROOT	FiveThirtyEight
+punct	FiveThirtyEight	:
+compound	Changes	Electoral
+compound	Changes	College
+nsubj	Pose	Changes
+aux	Pose	Would
+dep	FiveThirtyEight	Pose
+dobj	Pose	Danger
+case	Democrats	for
+nmod:for	Danger	Democrats

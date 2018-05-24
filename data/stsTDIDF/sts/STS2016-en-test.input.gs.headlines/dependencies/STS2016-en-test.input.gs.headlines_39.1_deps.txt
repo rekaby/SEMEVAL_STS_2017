@@ -1,0 +1,8 @@
+nsubj	dies	Woman
+root	ROOT	dies
+mark	riding	while
+advcl	dies	riding
+compound	coaster	roller
+dobj	riding	coaster
+case	Texas	in
+nmod:in	riding	Texas

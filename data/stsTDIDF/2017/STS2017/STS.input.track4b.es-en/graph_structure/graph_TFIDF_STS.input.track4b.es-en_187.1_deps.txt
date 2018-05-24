@@ -1,0 +1,8 @@
+142	about	advmod
+arrested	were	auxpass
+people	142	nummod
+arrested	park	nmod:in
+said	arrested	ccomp
+arrested	people	nsubjpass
+Browne	Mr.	compound
+said	Browne	nsubj

@@ -1,0 +1,6 @@
+det	girl	The
+nsubj	saw	girl
+root	ROOT	saw
+det	car	the
+dobj	saw	car
+punct	saw	.

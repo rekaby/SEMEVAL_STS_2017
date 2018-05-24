@@ -1,0 +1,15 @@
+cc	tops	But
+dep	tops	attention
+punct	tops	,
+mark	only	because
+det	brand	the
+amod	brand	Belgian
+nsubj	only	brand
+aux	only	does
+neg	only	not
+dep	tops	only
+dep	tops	that
+det	tops	the
+compound	tops	tank
+root	ROOT	tops
+punct	tops	.

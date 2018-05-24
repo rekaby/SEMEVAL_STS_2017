@@ -1,0 +1,6 @@
+root	ROOT	operating
+cc	operating	or
+conj:or	operating	traveling
+case	vehicle	via
+det	vehicle	a
+nmod:via	operating	vehicle

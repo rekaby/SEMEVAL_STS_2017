@@ -1,0 +1,16 @@
+root	ROOT	unreal
+punct	unreal	?-2) root(ROOT-0, :
+mark	heard	If
+nsubj	heard	you
+aux	heard	have
+neg	heard	not
+dep	:	heard
+case	attack	of
+det	attack	the
+compound	attack	acid
+nmod:of	heard	attack
+case	director	on
+det	director	the
+compound	director	Bolshoi
+nmod:on	attack	director
+punct	heard	.-15) root(ROOT-0, ?

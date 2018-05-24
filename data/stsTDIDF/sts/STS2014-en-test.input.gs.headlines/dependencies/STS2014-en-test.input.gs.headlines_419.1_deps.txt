@@ -1,0 +1,8 @@
+nmod:poss	Brotherhood	Egypt
+case	Egypt	's
+root	ROOT	Brotherhood
+case	Beleaguered	as
+nmod:as	Brotherhood	Beleaguered
+case	Leader	as
+nmod:poss	Leader	Its
+nmod:as	Beleaguered	Leader

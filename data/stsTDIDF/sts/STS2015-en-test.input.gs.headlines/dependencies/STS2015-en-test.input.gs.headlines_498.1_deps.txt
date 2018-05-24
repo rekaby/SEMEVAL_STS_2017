@@ -1,0 +1,7 @@
+compound	Sales	Manchester
+compound	Sales	United
+compound	Sales	Ticket
+nsubj	Down	Sales
+cc	Sales	And
+conj:and	Sales	Profit
+root	ROOT	Down

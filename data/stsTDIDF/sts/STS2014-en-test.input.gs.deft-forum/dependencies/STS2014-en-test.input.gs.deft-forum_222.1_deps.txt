@@ -1,0 +1,12 @@
+root	ROOT	``
+aux	like	Would
+nsubj	like	you
+dep	``	like
+mark	pay	to
+xcomp	like	pay
+case	care	for
+compound	care	others
+compound	care	health
+nmod:for	pay	care
+punct	like	?
+punct	like	''

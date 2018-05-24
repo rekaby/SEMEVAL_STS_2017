@@ -1,0 +1,7 @@
+nummod	men	Three
+nsubj	washing	men
+aux	washing	are
+root	ROOT	washing
+nmod:poss	hands	their
+dobj	washing	hands
+punct	washing	.

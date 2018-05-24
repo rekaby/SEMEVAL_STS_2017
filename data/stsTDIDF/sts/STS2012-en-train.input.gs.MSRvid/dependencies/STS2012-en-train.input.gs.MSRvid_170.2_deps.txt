@@ -1,0 +1,7 @@
+det	person	A
+nsubj	slicing	person
+aux	slicing	is
+root	ROOT	slicing
+det	potato	a
+dobj	slicing	potato
+punct	slicing	.

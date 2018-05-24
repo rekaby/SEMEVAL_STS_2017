@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	talking	people
+aux	talking	are
+root	ROOT	talking
+case	other	to
+det	other	each
+nmod:to	talking	other
+punct	talking	.

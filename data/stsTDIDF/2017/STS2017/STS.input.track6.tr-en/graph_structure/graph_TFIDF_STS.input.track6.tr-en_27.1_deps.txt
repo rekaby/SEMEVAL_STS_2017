@@ -1,0 +1,8 @@
+concrete	on	case
+skateboarder	.	punct
+ROOT	skateboarder	root
+trick	concrete	nmod:on
+skateboarder	A	det
+does	trick	dobj
+skateboarder	does	acl
+trick	a	det

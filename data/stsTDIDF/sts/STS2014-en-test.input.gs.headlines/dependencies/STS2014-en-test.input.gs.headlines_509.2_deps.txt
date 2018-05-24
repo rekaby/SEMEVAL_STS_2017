@@ -1,0 +1,9 @@
+nmod:poss	Peres	Israel
+case	Israel	's
+nsubj	calls	Peres
+root	ROOT	calls
+case	return	for
+nmod:for	calls	return
+case	peace	to
+nmod:to	return	peace
+dobj	calls	talks

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	chopping	woman
+aux	chopping	is
+root	ROOT	chopping
+dobj	chopping	garlic
+case	knife	with
+det	knife	a
+nmod:with	chopping	knife
+punct	chopping	.

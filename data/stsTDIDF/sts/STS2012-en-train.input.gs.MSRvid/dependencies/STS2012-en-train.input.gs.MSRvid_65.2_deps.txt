@@ -1,0 +1,7 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	plantain	a
+dobj	cutting	plantain
+punct	cutting	.

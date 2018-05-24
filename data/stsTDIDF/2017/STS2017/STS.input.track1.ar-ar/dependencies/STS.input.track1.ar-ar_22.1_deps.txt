@@ -1,0 +1,7 @@
+det	parade	A
+amod	parade	military
+root	ROOT	parade
+case	washroom	in
+det	washroom	the
+nmod:in	parade	washroom
+punct	parade	.

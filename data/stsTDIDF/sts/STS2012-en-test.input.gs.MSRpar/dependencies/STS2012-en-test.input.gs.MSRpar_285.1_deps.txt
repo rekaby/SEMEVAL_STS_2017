@@ -1,0 +1,17 @@
+det	arrests	The
+nsubj	revealed	arrests
+root	ROOT	revealed
+amod	details	new
+dobj	revealed	details
+case	investigation	about
+det	investigation	the
+amod	investigation	four-month
+nmod:about	details	investigation
+case	home	at
+nmod:poss	home	Selenski
+case	Selenski	's
+compound	home	Mount
+compound	home	Olivet
+compound	home	Road
+nmod:at	investigation	home
+punct	revealed	.

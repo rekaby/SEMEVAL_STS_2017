@@ -1,0 +1,7 @@
+nsubj	defends	Hagel
+root	ROOT	defends
+amod	cuts	proposed
+dobj	defends	cuts
+case	defense	in
+nmod:in	cuts	defense
+dobj	defends	spending

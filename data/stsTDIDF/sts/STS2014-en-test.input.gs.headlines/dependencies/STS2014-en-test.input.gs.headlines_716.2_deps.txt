@@ -1,0 +1,7 @@
+amod	army	Syrian
+nsubj	pushes	army
+root	ROOT	pushes
+dobj	pushes	assault
+case	town	on
+amod	town	rebel-held
+nmod:on	assault	town

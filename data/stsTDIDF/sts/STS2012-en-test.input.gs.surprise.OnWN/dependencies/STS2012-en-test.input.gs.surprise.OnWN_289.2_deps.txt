@@ -1,0 +1,7 @@
+root	ROOT	utter
+case	force	with
+nmod:with	utter	force
+punct	utter	;
+amod	vehemently	utter
+advmod	utter	vehemently
+punct	utter	.

@@ -1,0 +1,10 @@
+cc	thought	And
+advmod	thought	here
+nsubj	thought	I
+root	ROOT	thought
+nsubj	knew	I
+ccomp	thought	knew
+nsubj	math	me
+det	math	some
+ccomp	knew	math
+punct	thought	.

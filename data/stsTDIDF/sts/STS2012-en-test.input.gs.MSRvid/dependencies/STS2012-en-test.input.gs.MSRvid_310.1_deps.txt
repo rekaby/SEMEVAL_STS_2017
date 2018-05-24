@@ -1,0 +1,7 @@
+det	man	A
+nsubj	opening	man
+aux	opening	is
+root	ROOT	opening
+det	door	a
+dobj	opening	door
+punct	opening	.

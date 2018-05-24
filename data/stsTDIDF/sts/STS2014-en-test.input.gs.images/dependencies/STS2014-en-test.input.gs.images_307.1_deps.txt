@@ -1,0 +1,9 @@
+nummod	bicyclists	Three
+nsubj	crossing	bicyclists
+root	ROOT	crossing
+det	bridge	a
+dobj	crossing	bridge
+case	city	in
+det	city	a
+nmod:in	crossing	city
+punct	crossing	.

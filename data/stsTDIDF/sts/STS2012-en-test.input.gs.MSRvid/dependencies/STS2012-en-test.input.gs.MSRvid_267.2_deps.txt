@@ -1,0 +1,9 @@
+det	person	A
+nsubj	stirring	person
+aux	stirring	is
+root	ROOT	stirring
+dobj	stirring	vegetables
+case	pot	in
+det	pot	a
+nmod:in	stirring	pot
+punct	stirring	.

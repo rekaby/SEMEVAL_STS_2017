@@ -1,0 +1,7 @@
+det	cows	The
+nsubj	feed	cows
+root	ROOT	feed
+case	trough	in
+det	trough	the
+nmod:in	feed	trough
+punct	feed	.

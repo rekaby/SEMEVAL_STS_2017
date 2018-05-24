@@ -1,0 +1,14 @@
+det	pile	A
+nsubj	caused	pile
+case	rocks	of
+nmod:of	pile	rocks
+acl	pile	bearing
+amod	signs	strange
+dobj	bearing	signs
+punct	pile	,
+root	ROOT	caused
+det	people	the
+nsubj	gathered	people
+ccomp	caused	gathered
+advmod	gathered	around
+punct	caused	.

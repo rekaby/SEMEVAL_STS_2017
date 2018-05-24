@@ -1,0 +1,9 @@
+root	ROOT	McAfee
+mark	acquire	to
+acl	McAfee	acquire
+compound	Stonesoft	firewall
+dobj	acquire	Stonesoft
+case	$	for
+nmod:for	acquire	$
+nummod	$	389
+nummod	$	million

@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	running	girl
+aux	running	is
+root	ROOT	running
+case	path	on
+det	path	a
+compound	path	desert
+nmod:on	running	path
+punct	running	.

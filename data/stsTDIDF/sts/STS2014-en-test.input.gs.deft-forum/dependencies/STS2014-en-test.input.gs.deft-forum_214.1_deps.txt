@@ -1,0 +1,8 @@
+root	ROOT	Being
+case	isnt	in
+det	isnt	a
+compound	isnt	gang
+nmod:in	Being	isnt
+det	crime	a
+dep	isnt	crime
+punct	Being	.

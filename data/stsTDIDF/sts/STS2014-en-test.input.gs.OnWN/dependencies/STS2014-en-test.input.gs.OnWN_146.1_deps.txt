@@ -1,0 +1,8 @@
+det	cause	a
+nsubj	worry	cause
+cc	cause	or
+conj:or	cause	source
+case	duress	of
+nmod:of	source	duress
+punct	cause	,
+root	ROOT	worry

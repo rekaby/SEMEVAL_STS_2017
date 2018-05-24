@@ -1,0 +1,7 @@
+tent	in	case
+videotapes	event	dobj
+event	tent	nmod:in
+ROOT	videotapes	root
+videotapes	woman	nsubj
+videotapes	.	punct
+tent	the	det

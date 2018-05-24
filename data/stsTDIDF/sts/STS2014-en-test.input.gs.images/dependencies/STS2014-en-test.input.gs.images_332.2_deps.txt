@@ -1,0 +1,8 @@
+det	baby	A
+nsubj	sitting	baby
+aux	sitting	is
+root	ROOT	sitting
+case	grass	in
+det	grass	the
+nmod:in	sitting	grass
+punct	sitting	.

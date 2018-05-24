@@ -1,0 +1,9 @@
+root	ROOT	Apps
+mark	help	to
+acl	Apps	help
+nsubj	ski	you
+ccomp	help	ski
+punct	Apps	:
+case	Times	via
+compound	Times	NY
+nmod:via	Apps	Times

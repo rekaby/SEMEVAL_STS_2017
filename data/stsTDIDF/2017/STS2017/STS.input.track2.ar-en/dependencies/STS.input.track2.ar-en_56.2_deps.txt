@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	using
+det	blowtorch	a
+dobj	using	blowtorch
+mark	melt	to
+acl	blowtorch	melt
+det	plastic	the
+dobj	melt	plastic
+punct	man	.

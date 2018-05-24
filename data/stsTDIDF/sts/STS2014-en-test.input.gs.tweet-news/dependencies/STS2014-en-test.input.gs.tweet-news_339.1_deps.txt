@@ -1,0 +1,11 @@
+punct	making	''
+punct	making	:
+compound	media	Social
+nsubj	making	media
+root	ROOT	making
+nsubj	honest	us
+advmod	honest	more
+xcomp	making	honest
+punct	making	?-9) root(ROOT-0, talks
+dep	talks	to
+punct	talks	''

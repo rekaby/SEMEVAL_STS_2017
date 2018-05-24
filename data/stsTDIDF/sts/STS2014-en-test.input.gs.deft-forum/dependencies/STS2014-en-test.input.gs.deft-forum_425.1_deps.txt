@@ -1,0 +1,15 @@
+advmod	Posted	Originally
+root	ROOT	Posted
+case	zaf	by
+nmod:by	Posted	zaf
+nsubj	suppose	I
+acl:relcl	zaf	suppose
+det	water	the
+nsubj	makes	water
+case	middle	in
+det	middle	the
+nmod:in	water	middle
+ccomp	suppose	makes
+det	difference	a
+dobj	makes	difference
+punct	Posted	.

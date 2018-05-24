@@ -1,0 +1,15 @@
+compound	??	wtf
+root	ROOT	??
+punct	??	''
+punct	??	''-4) root(ROOT-0, :
+case	least	At
+nmod:npmod	245	least
+root	:	245
+acl	245	killed
+case	Update	in
+compound	Update	Brazil
+compound	Update	nightclub
+compound	Update	fire
+nmod:in	killed	Update
+punct	245	:
+punct	245	''

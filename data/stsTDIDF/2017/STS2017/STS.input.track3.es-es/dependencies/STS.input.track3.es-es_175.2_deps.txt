@@ -1,0 +1,7 @@
+det	child	A
+nsubj	leaving	child
+aux	leaving	was
+root	ROOT	leaving
+det	park	the
+dobj	leaving	park
+punct	leaving	.

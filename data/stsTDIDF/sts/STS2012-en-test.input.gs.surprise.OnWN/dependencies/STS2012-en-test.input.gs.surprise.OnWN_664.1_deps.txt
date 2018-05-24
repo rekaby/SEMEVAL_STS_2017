@@ -1,0 +1,17 @@
+root	ROOT	Approach
+det	limit	a
+dobj	Approach	limit
+case	number	as
+det	number	the
+nmod:as	Approach	number
+case	terms	of
+nmod:of	number	terms
+dep	Approach	increases
+case	limit	without
+nmod:without	increases	limit
+punct	Approach	;
+advmod	term	specifically
+det	term	a
+amod	term	mathematical
+dep	Approach	term
+punct	Approach	.

@@ -1,0 +1,7 @@
+det	plane	A
+amod	plane	white
+root	ROOT	plane
+case	runway	on
+det	runway	the
+nmod:on	plane	runway
+punct	plane	.

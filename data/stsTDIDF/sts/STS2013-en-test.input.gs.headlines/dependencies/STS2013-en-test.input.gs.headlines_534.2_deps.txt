@@ -1,0 +1,8 @@
+compound	lawyer	ICC
+nsubj	faces	lawyer
+acl	lawyer	held
+case	Libya	in
+nmod:in	held	Libya
+root	ROOT	faces
+amod	detention	45-day
+dobj	faces	detention

@@ -1,0 +1,16 @@
+case	percent	With
+nummod	percent	97
+nmod:with	opposed	percent
+case	precincts	of
+nmod:of	percent	precincts
+acl	precincts	counted
+advmod	counted	tonight
+punct	opposed	,
+nummod	percent	68
+nsubj	opposed	percent
+case	voters	of
+nmod:of	percent	voters
+root	ROOT	opposed
+det	tax	the
+dobj	opposed	tax
+punct	opposed	.

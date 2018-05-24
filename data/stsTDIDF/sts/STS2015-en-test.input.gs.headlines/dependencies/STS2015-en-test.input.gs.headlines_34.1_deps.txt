@@ -1,0 +1,10 @@
+nsubj	kill	Explosions
+root	ROOT	kill
+nummod	mosques	29
+amod	mosques	outside
+nummod	mosques	two
+dobj	kill	mosques
+case	Tripoli	in
+nmod:poss	Tripoli	Lebanon
+case	Lebanon	's
+nmod:in	mosques	Tripoli

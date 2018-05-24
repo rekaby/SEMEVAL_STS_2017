@@ -1,0 +1,8 @@
+det	occasion	a
+amod	occasion	social
+root	ROOT	occasion
+punct	occasion	,
+advmod	official	often
+amod	occasion	official
+cc	official	or
+conj:or	official	formal

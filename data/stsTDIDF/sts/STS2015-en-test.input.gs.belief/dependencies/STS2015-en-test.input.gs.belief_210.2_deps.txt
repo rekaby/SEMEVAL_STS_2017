@@ -1,0 +1,11 @@
+expl	's	there
+root	ROOT	's
+nsubj	's	kurds
+case	syria	in
+nmod:in	's	syria
+punct	's	,
+advmod	's	too
+punct	's	,
+nsubj	believe	i
+parataxis	's	believe
+punct	's	.

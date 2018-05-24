@@ -1,0 +1,16 @@
+compound	parties	Tamil
+nsubj	blame	parties
+root	ROOT	blame
+det	Tigers	the
+compound	Tigers	Liberation
+dobj	blame	Tigers
+case	Eelam	of
+compound	Eelam	Tamil
+nmod:of	Tigers	Eelam
+punct	LTTE	-LRB-
+appos	Eelam	LTTE
+punct	LTTE	-RRB-
+case	killings	for
+det	killings	these
+nmod:for	blame	killings
+punct	blame	.

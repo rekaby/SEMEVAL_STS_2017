@@ -1,0 +1,6 @@
+cook	People	nsubj
+grill	the	det
+ROOT	cook	root
+cook	grill	nmod:on
+grill	on	case
+cook	.	punct

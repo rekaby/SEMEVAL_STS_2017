@@ -1,0 +1,11 @@
+consequences	undesirable	amod
+McIntyre	Scott	compound
+Australia	Tobacco	compound
+Australia	of	case
+Australia	British	amod
+McIntyre	Australia	nmod:of
+serious	There	expl
+consequences	legislation	nmod:of
+said	McIntyre	nsubj
+serious	consequences	dobj
+Australia	American	amod

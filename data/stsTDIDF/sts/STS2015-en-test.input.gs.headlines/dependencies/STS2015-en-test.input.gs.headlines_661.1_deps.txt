@@ -1,0 +1,8 @@
+nmod:poss	Xinjiang	China
+case	China	's
+amod	Xinjiang	troubled
+nsubj	hit	Xinjiang
+root	ROOT	hit
+case	violence	by
+amod	violence	more
+nmod:by	hit	violence

@@ -1,0 +1,6 @@
+compound	Zone	Shanghai
+compound	Zone	Free
+compound	Zone	Trade
+nsubj	begins	Zone
+root	ROOT	begins
+dobj	begins	operation

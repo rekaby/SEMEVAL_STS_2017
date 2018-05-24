@@ -1,0 +1,9 @@
+pantheon	an	det
+joins	.	punct
+joins	pantheon	dobj
+Englund	's	case
+Englund	Mr.	compound
+pantheon	unconventional	amod
+joins	volume	nsubj
+volume	Englund	nmod:poss
+ROOT	joins	root

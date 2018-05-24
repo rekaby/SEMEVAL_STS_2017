@@ -1,0 +1,8 @@
+compound	stocks	China
+nsubj	end	stocks
+root	ROOT	end
+advmod	end	higher
+case	PMI	on
+nmod:on	end	PMI
+case	midday	at
+nmod:at	end	midday

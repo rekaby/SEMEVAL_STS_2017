@@ -1,0 +1,9 @@
+det	man	The
+nsubj	looks	man
+root	ROOT	looks
+case	city	at
+det	city	the
+nmod:at	looks	city
+case	telescope	with
+det	telescope	a
+nmod:with	looks	telescope

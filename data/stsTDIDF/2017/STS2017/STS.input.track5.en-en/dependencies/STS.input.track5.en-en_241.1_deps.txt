@@ -1,0 +1,9 @@
+det	kid	A
+nsubj	sits	kid
+root	ROOT	sits
+case	ball	on
+det	ball	a
+compound	ball	soccer
+nmod:on	sits	ball
+advmod	ball	outside
+punct	sits	.

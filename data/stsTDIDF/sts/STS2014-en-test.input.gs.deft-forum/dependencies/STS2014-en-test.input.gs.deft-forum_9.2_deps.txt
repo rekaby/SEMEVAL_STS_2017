@@ -1,0 +1,7 @@
+det	WAR	A
+root	ROOT	WAR
+case	east	in
+det	east	the
+amod	east	middle
+nmod:in	WAR	east
+punct	WAR	.

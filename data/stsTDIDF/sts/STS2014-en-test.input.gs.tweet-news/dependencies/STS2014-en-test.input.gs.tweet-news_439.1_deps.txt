@@ -1,0 +1,20 @@
+nsubj	problem	This
+aux	problem	should
+neg	problem	n't
+cop	problem	be
+det	problem	the
+root	ROOT	problem
+dobj	is	that
+nsubj	is	it
+acl:relcl	problem	is
+punct	problem	.-10) root(ROOT-0, Ready-set-go
+punct	Ready-set-go	.-2) root(ROOT-0, NYTimes
+punct	NYTimes	:
+case	Athletes	As
+amod	Athletes	Disabled
+nmod:as	NYTimes	Athletes
+dep	Athletes	Compete
+punct	Compete	,
+conj	Compete	Questions
+case	Logistics	of
+nmod:of	Questions	Logistics

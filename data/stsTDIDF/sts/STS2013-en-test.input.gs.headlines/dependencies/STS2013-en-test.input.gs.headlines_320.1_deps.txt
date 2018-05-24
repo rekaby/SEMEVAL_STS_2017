@@ -1,0 +1,9 @@
+nsubj	report	Israel
+case	exporters	among
+amod	exporters	top
+compound	exporters	arms
+nmod:among	Israel	exporters
+case	world	in
+nmod:in	Israel	world
+punct	Israel	:
+root	ROOT	report

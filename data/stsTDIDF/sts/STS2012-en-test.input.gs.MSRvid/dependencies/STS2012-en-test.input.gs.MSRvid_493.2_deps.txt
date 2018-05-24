@@ -1,0 +1,12 @@
+det	plane	A
+amod	plane	South
+compound	plane	African
+compound	plane	Airways
+nsubj	flying	plane
+aux	flying	is
+root	ROOT	flying
+case	sky	in
+det	sky	a
+amod	sky	blue
+nmod:in	flying	sky
+punct	flying	.

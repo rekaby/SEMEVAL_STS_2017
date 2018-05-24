@@ -1,0 +1,9 @@
+amod	leadership	Palestinian
+nsubj	condemn	leadership
+root	ROOT	condemn
+amod	call	Israeli
+compound	call	FM
+dobj	condemn	call
+mark	oust	to
+acl	call	oust
+dobj	oust	Abbas

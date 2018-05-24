@@ -1,0 +1,7 @@
+compound	Questions	WORLD
+punct	Questions	:
+compound	Questions	Green
+root	ROOT	Questions
+case	Growth	About
+amod	Growth	Greek
+nmod:about	Questions	Growth

@@ -1,0 +1,11 @@
+det	player	A
+compound	player	basketball
+nsubj	makes	player
+root	ROOT	makes
+det	rebound	the
+amod	rebound	5th
+dobj	makes	rebound
+case	night	of
+det	night	the
+nmod:of	rebound	night
+punct	makes	,

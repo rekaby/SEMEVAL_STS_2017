@@ -1,0 +1,16 @@
+det	point	The
+nsubj	say	point
+nsubj	quote	you
+acl:relcl	point	quote
+aux	say	should
+root	ROOT	say
+punct	said	``
+nsubj	said	I
+neg	said	never
+ccomp	say	said
+nsubj	work	rehabilitation
+aux	work	could
+neg	work	never
+ccomp	said	work
+punct	say	.
+punct	say	''

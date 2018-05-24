@@ -1,0 +1,6 @@
+root	ROOT	Search
+case	man	after
+nmod:after	Search	man
+acl	man	swept
+case	sea	into
+nmod:into	swept	sea

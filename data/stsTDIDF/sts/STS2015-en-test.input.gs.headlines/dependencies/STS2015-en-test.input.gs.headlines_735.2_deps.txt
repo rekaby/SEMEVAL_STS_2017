@@ -1,0 +1,8 @@
+nsubj	alleged	Probe
+root	ROOT	alleged
+dobj	alleged	use
+case	weapons	of
+compound	weapons	chemical
+nmod:of	use	weapons
+case	Syria	in
+nmod:in	use	Syria

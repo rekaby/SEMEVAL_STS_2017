@@ -1,0 +1,12 @@
+aux	wait	Should
+nsubj	wait	I
+advmod	wait	just
+root	ROOT	wait
+dobj	wait	it
+compound:prt	wait	out
+cc	wait	and
+conj:and	wait	see
+advmod	goes	how
+nsubj	goes	it
+ccomp	see	goes
+punct	wait	?

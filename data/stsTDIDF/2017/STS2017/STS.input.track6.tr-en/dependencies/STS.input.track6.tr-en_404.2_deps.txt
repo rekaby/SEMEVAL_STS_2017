@@ -1,0 +1,8 @@
+det	woman	A
+amod	woman	blonde
+root	ROOT	woman
+case	buildings	in
+mwe	in	front
+mwe	in	of
+amod	buildings	brilliant
+nmod:in_front_of	woman	buildings

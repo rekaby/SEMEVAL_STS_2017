@@ -1,0 +1,8 @@
+det	man	The
+nsubj	outside	man
+cop	outside	is
+root	ROOT	outside
+case	field	in
+det	field	the
+nmod:in	outside	field
+punct	outside	.

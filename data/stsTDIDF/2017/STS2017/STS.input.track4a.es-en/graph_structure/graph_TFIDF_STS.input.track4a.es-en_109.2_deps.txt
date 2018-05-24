@@ -1,0 +1,4 @@
+garden	a	det
+People	sitting	acl
+sitting	garden	nmod:at
+garden	at	case

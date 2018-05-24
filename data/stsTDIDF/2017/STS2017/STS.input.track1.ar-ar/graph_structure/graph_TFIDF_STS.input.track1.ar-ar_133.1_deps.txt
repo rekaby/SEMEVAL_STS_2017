@@ -1,0 +1,6 @@
+Man	.	punct
+ROOT	Man	root
+Man	windows	dobj
+windows	Anziv	compound
+windows	what	det
+windows	inside	amod

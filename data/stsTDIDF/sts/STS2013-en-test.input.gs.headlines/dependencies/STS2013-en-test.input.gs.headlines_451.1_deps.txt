@@ -1,0 +1,8 @@
+amod	stocks	Asian
+nsubj	rise	stocks
+csubj	eases	rise
+case	vote	after
+amod	vote	Greek
+nmod:after	rise	vote
+root	ROOT	eases
+dobj	eases	fears

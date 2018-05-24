@@ -1,0 +1,9 @@
+nsubj	think	I
+root	ROOT	think
+nsubjpass	depends	it
+auxpass	depends	is
+ccomp	think	depends
+case	program	on
+det	program	the
+nmod:on	depends	program
+punct	think	.

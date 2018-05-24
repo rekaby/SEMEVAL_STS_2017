@@ -1,0 +1,10 @@
+det	dogs	The
+nsubj	play	dogs
+root	ROOT	play
+case	snow	in
+det	snow	the
+nmod:in	play	snow
+case	legs	on
+amod	legs	hind
+nmod:on	snow	legs
+punct	play	.

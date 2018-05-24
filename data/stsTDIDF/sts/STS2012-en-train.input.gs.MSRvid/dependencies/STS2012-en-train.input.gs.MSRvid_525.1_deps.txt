@@ -1,0 +1,9 @@
+det	kitten	A
+nsubj	drinking	kitten
+aux	drinking	is
+root	ROOT	drinking
+dobj	drinking	milk
+case	bowl	from
+det	bowl	a
+nmod:from	drinking	bowl
+punct	drinking	.

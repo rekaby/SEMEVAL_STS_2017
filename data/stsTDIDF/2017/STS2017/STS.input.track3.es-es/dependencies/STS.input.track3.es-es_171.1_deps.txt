@@ -1,0 +1,10 @@
+det	child	A
+nsubj	makes	child
+root	ROOT	makes
+det	prayer	a
+dobj	makes	prayer
+case	candle	before
+det	candle	a
+amod	candle	lit
+nmod:before	makes	candle
+punct	makes	.

@@ -1,0 +1,10 @@
+compound	Magazine	T
+root	ROOT	Magazine
+punct	Magazine	:
+dep	Magazine	Look
+case	Swift	of
+det	Swift	The
+compound	Swift	Moment
+nummod	Swift	|
+compound	Swift	Taylor
+nmod:of	Look	Swift

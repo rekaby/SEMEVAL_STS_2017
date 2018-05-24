@@ -1,0 +1,4 @@
+root	ROOT	equip
+case	fuse	with
+det	fuse	a
+nmod:with	equip	fuse

@@ -1,0 +1,10 @@
+det	close	A
+nsubj	view	close
+case	close	up
+root	ROOT	view
+case	bottle	of
+det	bottle	a
+nmod:of	view	bottle
+case	water	of
+nmod:of	bottle	water
+punct	view	.

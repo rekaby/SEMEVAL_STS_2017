@@ -1,0 +1,5 @@
+mural	a	det
+walking	is	aux
+walking	mural	nmod:by
+mural	by	case
+walking	man	nsubj

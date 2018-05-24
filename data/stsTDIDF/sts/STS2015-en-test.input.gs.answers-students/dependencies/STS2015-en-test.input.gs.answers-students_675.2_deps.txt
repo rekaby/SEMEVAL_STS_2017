@@ -1,0 +1,13 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+nsubj	is	path
+acl	path	containing
+dobj	containing	A
+punct	A	,
+root	,	C
+punct	C	,
+root	,	Z
+cc	Z	and
+det	battery	the
+conj:and	Z	battery

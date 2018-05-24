@@ -1,0 +1,10 @@
+hall	by	case
+hall	exhibition	compound
+car	small	amod
+car	yellow	amod
+driving	man	nsubj
+driving	is	aux
+ROOT	driving	root
+driving	hall	nmod:by
+driving	.	punct
+driving	car	nmod:in

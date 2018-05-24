@@ -1,0 +1,6 @@
+det	man	A
+nsubj	slaps	man
+root	ROOT	slaps
+det	woman	a
+dobj	slaps	woman
+punct	slaps	.

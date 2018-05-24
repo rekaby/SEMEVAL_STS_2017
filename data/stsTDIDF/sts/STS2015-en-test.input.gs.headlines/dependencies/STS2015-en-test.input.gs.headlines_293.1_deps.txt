@@ -1,0 +1,7 @@
+advmod	targets	Tropical
+compound	Karen	Storm
+nsubj	targets	Karen
+root	ROOT	targets
+compound	Coast	US
+compound	Coast	Gulf
+dobj	targets	Coast

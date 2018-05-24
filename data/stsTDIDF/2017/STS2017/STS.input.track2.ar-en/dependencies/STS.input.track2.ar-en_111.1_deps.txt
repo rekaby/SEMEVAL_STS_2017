@@ -1,0 +1,11 @@
+amod	man	Young
+root	ROOT	man
+case	shirt	in
+amod	shirt	blue
+nmod:in	man	shirt
+acl	man	peering
+case	bubble	through
+det	bubble	a
+amod	bubble	large
+nmod:through	peering	bubble
+punct	man	.

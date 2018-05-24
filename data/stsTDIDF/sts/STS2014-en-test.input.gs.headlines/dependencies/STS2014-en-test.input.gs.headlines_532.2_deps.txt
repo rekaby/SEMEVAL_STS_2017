@@ -1,0 +1,12 @@
+amod	man	Austrian
+root	ROOT	man
+acl	man	charged
+mark	found	after
+nummod	skulls	56
+amod	skulls	human
+nsubjpass	found	skulls
+auxpass	found	are
+advcl	charged	found
+case	home	at
+nmod:poss	home	his
+nmod:at	found	home

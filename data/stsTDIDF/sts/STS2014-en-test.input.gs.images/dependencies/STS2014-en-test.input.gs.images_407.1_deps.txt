@@ -1,0 +1,11 @@
+det	room	A
+root	ROOT	room
+case	computers	with
+amod	computers	several
+nmod:with	room	computers
+cc	computers	and
+conj:and	computers	pictures
+case	wall	on
+det	wall	the
+nmod:on	room	wall
+punct	room	.

@@ -1,0 +1,16 @@
+nsubjpass	joined	Thomas
+auxpass	joined	was
+root	ROOT	joined
+case	full	in
+nmod:in	joined	full
+case	Rehnquist	by
+nmod:by	full	Rehnquist
+punct	joined	,
+cc	joined	and
+case	parts	in
+conj:and	joined	parts
+case	O'Connor	by
+nmod:by	parts	O'Connor
+cc	O'Connor	and
+conj:and	O'Connor	Scalia
+punct	joined	.

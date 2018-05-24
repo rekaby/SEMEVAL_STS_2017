@@ -1,0 +1,9 @@
+amod	Shephard	German
+nsubj	jumping	Shephard
+root	ROOT	jumping
+case	hoop	through
+amod	hoop	black
+nmod:through	jumping	hoop
+mark	watch	while
+nsubj	watch	people
+advcl	jumping	watch

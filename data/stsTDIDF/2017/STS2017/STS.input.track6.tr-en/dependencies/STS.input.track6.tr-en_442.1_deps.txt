@@ -1,0 +1,7 @@
+det	people	Some
+nsubj	engaging	people
+aux	engaging	are
+root	ROOT	engaging
+case	activities	in
+nmod:in	engaging	activities
+punct	engaging	.

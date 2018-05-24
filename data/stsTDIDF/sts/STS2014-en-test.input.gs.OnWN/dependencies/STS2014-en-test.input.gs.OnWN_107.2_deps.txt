@@ -1,0 +1,15 @@
+det	act	the
+root	ROOT	act
+mark	furnishing	of
+acl	act	furnishing
+det	person	an
+amod	person	equivalent
+dobj	furnishing	person
+cc	person	or
+conj:or	person	thing
+case	place	in
+det	place	the
+nmod:in	furnishing	place
+case	another	of
+nmod:of	place	another
+punct	act	.

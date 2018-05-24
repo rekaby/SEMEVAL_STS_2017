@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	playing
+det	game	a
+compound	game	video
+dobj	playing	game
+case	store	in
+det	store	a
+nmod:in	playing	store
+punct	man	.

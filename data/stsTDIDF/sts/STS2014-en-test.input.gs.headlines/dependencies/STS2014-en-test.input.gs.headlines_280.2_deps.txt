@@ -1,0 +1,6 @@
+nsubj	protest	Thousands
+root	ROOT	protest
+amod	marriage	gay
+dobj	protest	marriage
+case	Paris	in
+nmod:in	protest	Paris

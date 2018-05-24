@@ -1,0 +1,14 @@
+det	year	This
+nmod:tmod	hosts	year
+det	Society	the
+compound	Society	Audubon
+nsubj	hosts	Society
+advmod	again	once
+advmod	hosts	again
+root	ROOT	hosts
+nmod:poss	Count	its
+amod	Count	annual
+compound	Count	Christmas
+compound	Count	Bird
+dobj	hosts	Count
+punct	hosts	.

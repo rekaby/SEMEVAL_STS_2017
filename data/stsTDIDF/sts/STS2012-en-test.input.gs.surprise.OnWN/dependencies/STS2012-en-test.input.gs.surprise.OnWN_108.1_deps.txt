@@ -1,0 +1,8 @@
+det	mark	a
+amod	mark	notational
+nsubj	diacritic	mark
+acl	mark	used
+mark	writing	in
+advcl	used	writing
+punct	mark	,
+root	ROOT	diacritic

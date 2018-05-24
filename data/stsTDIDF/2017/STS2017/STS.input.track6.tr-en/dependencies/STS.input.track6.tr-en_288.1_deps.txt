@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	crosses	woman
+root	ROOT	crosses
+det	street	the
+nsubj	empty-handed	street
+xcomp	crosses	empty-handed
+punct	crosses	.

@@ -1,0 +1,5 @@
+looking	man	nmod:at
+man	at	case
+looking	crowd	nsubj
+man	stage	nmod:on
+crowd	A	det

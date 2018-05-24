@@ -1,0 +1,5 @@
+root	ROOT	Rock
+amod	Rock	longer
+case	men	than
+nmod:than	longer	men
+punct	Rock	.

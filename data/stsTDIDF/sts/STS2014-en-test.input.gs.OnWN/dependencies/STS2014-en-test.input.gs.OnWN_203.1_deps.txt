@@ -1,0 +1,7 @@
+root	ROOT	Incline
+cc	Incline	or
+conj:or	Incline	bend
+punct	Incline	;
+compound	configuration	changle
+conj:or	Incline	configuration
+punct	Incline	.

@@ -1,0 +1,13 @@
+det	roofer	A
+amod	roofer	professional
+nsubj	thinks	roofer
+root	ROOT	thinks
+mark	forms	about
+advmod	better	how
+advmod	forms	better
+cop	forms	are
+amod	forms	other
+ccomp	thinks	forms
+case	roof	of
+nmod:of	forms	roof
+punct	thinks	.

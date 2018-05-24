@@ -1,0 +1,10 @@
+det	assertion	an
+nsubj	offered	assertion
+root	ROOT	offered
+case	evidence	as
+nmod:as	offered	evidence
+punct	evidence	,
+det	line	a
+appos	evidence	line
+case	reasoning	of
+nmod:of	line	reasoning

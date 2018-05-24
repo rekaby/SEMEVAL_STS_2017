@@ -1,0 +1,8 @@
+riding	bicycle	dobj
+riding	clown	nsubj
+dressed	race	nmod:in
+riding	as	mark
+bicycle	a	det
+man	dressed	acl
+dressed	riding	advcl
+clown	a	det

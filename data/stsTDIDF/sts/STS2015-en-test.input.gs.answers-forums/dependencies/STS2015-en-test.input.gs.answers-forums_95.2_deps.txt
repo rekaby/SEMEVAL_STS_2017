@@ -1,0 +1,16 @@
+case	general	In
+nmod:in	warming	general
+punct	warming	,
+root	ROOT	warming
+compound:prt	warming	up
+nmod:poss	muscles	your
+dobj	warming	muscles
+advmod	requires	only
+advcl	warming	requires
+xcomp	requires	performing
+det	movement	the
+dobj	performing	movement
+case	weights	with
+amod	weights	lower
+nmod:with	performing	weights
+punct	warming	.

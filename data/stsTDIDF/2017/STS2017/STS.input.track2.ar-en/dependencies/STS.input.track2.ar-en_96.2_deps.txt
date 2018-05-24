@@ -1,0 +1,8 @@
+compound	building	Man
+amod	building	standing
+root	ROOT	building
+mark	wait	to
+acl	building	wait
+case	someone	for
+nmod:for	wait	someone
+punct	building	.

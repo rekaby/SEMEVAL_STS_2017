@@ -1,0 +1,7 @@
+expl	are	There
+root	ROOT	are
+nummod	people	three
+nsubj	are	people
+case	grass	on
+nmod:on	people	grass
+punct	are	.

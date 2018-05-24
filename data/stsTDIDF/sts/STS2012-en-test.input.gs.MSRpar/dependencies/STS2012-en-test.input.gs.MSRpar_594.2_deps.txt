@@ -1,0 +1,14 @@
+nsubj	struck	Gagne
+root	ROOT	struck
+compound:prt	struck	out
+dobj	struck	two
+case	inning	in
+det	inning	a
+amod	inning	perfect
+amod	inning	ninth
+nmod:in	struck	inning
+case	23rd	for
+nmod:poss	23rd	his
+nmod:for	inning	23rd
+dep	23rd	save
+punct	struck	.

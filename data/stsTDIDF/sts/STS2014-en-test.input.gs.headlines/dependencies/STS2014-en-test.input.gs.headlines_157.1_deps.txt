@@ -1,0 +1,7 @@
+compound	Scouts	Boy
+nsubj	delay	Scouts
+root	ROOT	delay
+dobj	delay	decision
+mark	admitting	on
+advcl	delay	admitting
+dobj	admitting	gays

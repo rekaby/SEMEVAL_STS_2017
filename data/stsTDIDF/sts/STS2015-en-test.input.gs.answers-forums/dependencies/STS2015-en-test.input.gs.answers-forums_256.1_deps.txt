@@ -1,0 +1,15 @@
+mark	are	Because
+expl	are	there
+root	ROOT	are
+advmod	effective	more
+amod	ways	effective
+nsubj	are	ways
+mark	change	for
+nmod:poss	Majesty	Her
+nsubj	change	Majesty
+mark	change	to
+acl	ways	change
+cc	change	or
+conj:or	change	veto
+dobj	veto	laws
+punct	are	.

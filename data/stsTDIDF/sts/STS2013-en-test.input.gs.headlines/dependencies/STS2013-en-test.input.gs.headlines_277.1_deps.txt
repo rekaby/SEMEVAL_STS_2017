@@ -1,0 +1,5 @@
+nsubj	sets	Warship
+root	ROOT	sets
+dobj	sets	sail
+case	Falklands	for
+nmod:for	sets	Falklands

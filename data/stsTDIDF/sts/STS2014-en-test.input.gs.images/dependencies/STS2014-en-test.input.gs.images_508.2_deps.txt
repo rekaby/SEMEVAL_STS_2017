@@ -1,0 +1,13 @@
+nummod	women	Two
+root	ROOT	women
+cc	women	and
+det	baby	a
+nsubj	pose	baby
+conj:and	women	pose
+case	room	in
+mwe	in	front
+mwe	in	of
+det	room	a
+compound	room	dining
+nmod:in_front_of	pose	room
+punct	women	.

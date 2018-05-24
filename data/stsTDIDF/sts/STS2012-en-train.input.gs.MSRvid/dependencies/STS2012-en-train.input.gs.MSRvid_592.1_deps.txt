@@ -1,0 +1,16 @@
+det	dog	The
+nsubj	figure	dog
+aux	figure	could
+neg	figure	not
+root	ROOT	figure
+compound:prt	figure	out
+advmod	get	how
+mark	get	to
+ccomp	figure	get
+det	stick	a
+dobj	get	stick
+compound:prt	get	out
+det	door	the
+compound	door	doggy
+dobj	get	door
+punct	figure	.

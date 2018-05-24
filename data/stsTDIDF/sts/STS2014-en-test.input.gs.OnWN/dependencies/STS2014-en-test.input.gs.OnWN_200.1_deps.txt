@@ -1,0 +1,6 @@
+root	ROOT	bubble
+case	feeling	over
+case	feeling	with
+det	feeling	a
+amod	feeling	certain
+nmod:with	bubble	feeling

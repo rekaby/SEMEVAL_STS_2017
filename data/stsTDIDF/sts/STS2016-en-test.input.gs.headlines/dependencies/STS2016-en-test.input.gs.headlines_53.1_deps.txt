@@ -1,0 +1,6 @@
+compound	body	Pak
+amod	body	religious
+nsubj	endorses	body
+root	ROOT	endorses
+amod	marriage	underage
+dobj	endorses	marriage

@@ -1,0 +1,5 @@
+bed	couple	nsubj
+bed	was	cop
+bed	.	punct
+bed	on	case
+ROOT	bed	root

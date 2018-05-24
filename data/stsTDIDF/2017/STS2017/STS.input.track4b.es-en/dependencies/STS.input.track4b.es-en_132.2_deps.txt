@@ -1,0 +1,9 @@
+compound	Englund	Mr.
+nmod:poss	volume	Englund
+case	Englund	's
+nsubj	joins	volume
+root	ROOT	joins
+det	pantheon	an
+amod	pantheon	unconventional
+dobj	joins	pantheon
+punct	joins	.

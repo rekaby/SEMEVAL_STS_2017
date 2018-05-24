@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	dogs	with
+amod	dogs	several
+nmod:with	walking	dogs
+punct	walking	.

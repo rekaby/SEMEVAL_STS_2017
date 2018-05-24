@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+nsubj	leaping	dog
+aux	leaping	is
+root	ROOT	leaping
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	leaping	pool
+punct	leaping	.

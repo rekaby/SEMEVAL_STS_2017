@@ -1,0 +1,5 @@
+walk	women	nsubj
+afternoon	in	case
+walk	sidewalk	nmod:down
+sidewalk	down	case
+walk	afternoon	nmod:in

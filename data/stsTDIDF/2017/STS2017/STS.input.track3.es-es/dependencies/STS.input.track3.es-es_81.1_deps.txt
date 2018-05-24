@@ -1,0 +1,6 @@
+det	shares	A
+compound	shares	woman
+root	ROOT	shares
+nmod:poss	umbrella	her
+dep	shares	umbrella
+punct	shares	.

@@ -1,0 +1,10 @@
+root	ROOT	Wait
+punct	Wait	,
+det	?!	what
+dep	Wait	?!-4) punct(defined-7, -
+punct	defined	`
+compound	checks	Universal
+compound	checks	background
+nsubjpass	defined	checks
+case	checks	'
+root	ROOT	defined

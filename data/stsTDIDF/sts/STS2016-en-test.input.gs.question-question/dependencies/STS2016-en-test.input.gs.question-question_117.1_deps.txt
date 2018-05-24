@@ -1,0 +1,10 @@
+advmod	judge	How
+mark	judge	to
+root	ROOT	judge
+det	quality	the
+dobj	judge	quality
+case	paper	of
+nmod:poss	paper	my
+amod	paper	own
+nmod:of	quality	paper
+punct	judge	?

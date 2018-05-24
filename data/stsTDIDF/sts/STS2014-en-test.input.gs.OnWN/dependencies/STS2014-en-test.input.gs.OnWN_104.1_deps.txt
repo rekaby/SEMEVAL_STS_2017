@@ -1,0 +1,5 @@
+root	ROOT	return
+case	state	to
+det	state	a
+amod	state	prior
+nmod:to	return	state

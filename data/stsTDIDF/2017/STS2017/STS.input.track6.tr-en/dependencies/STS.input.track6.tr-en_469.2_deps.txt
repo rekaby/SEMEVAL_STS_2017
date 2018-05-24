@@ -1,0 +1,14 @@
+det	man	A
+nsubj	participating	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	participating	are
+root	ROOT	participating
+case	cup	in
+det	cup	a
+nmod:in	participating	cup
+case	party	of
+det	party	the
+compound	party	Witches
+nmod:of	cup	party

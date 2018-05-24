@@ -1,0 +1,5 @@
+root	ROOT	People
+case	snow	in
+det	snow	the
+nmod:in	People	snow
+punct	People	.

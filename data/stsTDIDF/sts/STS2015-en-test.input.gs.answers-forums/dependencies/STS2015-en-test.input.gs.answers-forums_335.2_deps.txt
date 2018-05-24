@@ -1,0 +1,16 @@
+dobj	start	Whenever
+nsubj	start	I
+advcl	start	start
+xcomp	start	reading
+det	lines	the
+amod	lines	same
+dobj	reading	lines
+advmod	reading	over
+cc	over	and
+case	again	over
+conj:and	over	again
+punct	start	,
+nsubj	start	I
+root	ROOT	start
+xcomp	start	skimming
+punct	start	.

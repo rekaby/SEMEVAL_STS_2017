@@ -1,0 +1,8 @@
+det	person	A
+nsubj	walking	person
+aux	walking	is
+root	ROOT	walking
+case	ocean	towards
+det	ocean	the
+nmod:towards	walking	ocean
+punct	walking	.

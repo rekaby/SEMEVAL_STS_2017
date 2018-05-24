@@ -1,0 +1,14 @@
+compound	Blog	Economix
+root	ROOT	Blog
+punct	Blog	:
+compound	Bartlett	Bruce
+dep	Blog	Bartlett
+punct	Bartlett	:
+dep	Bartlett	Accounting
+case	Coin	for
+det	Coin	a
+amod	Coin	$
+compound	$	1
+compound	Coin	Trillion
+compound	Coin	Platinum
+nmod:for	Accounting	Coin

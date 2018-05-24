@@ -1,0 +1,4 @@
+det	objective	an
+root	ROOT	objective
+cc	objective	or
+conj:or	objective	goal

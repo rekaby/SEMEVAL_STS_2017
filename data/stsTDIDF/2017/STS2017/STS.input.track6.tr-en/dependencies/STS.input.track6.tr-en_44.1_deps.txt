@@ -1,0 +1,10 @@
+det	climber	A
+compound	climber	rock
+nsubj	falling	climber
+aux	falling	is
+root	ROOT	falling
+advmod	falling	off
+case	mountain	of
+det	mountain	a
+nmod:of	off	mountain
+punct	falling	.

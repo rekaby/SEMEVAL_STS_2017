@@ -1,0 +1,10 @@
+det	woman	any
+nsubj	get	woman
+nsubj	wants	that
+acl:relcl	woman	wants
+compound	control	birth
+dobj	wants	control
+aux	get	can
+root	ROOT	get
+dobj	get	it
+punct	get	.

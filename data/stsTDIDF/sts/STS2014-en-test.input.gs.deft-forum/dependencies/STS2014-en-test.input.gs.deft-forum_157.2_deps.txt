@@ -1,0 +1,16 @@
+mark	hits	If
+nmod:poss	stick	your
+nsubj	hits	stick
+advcl	getting	hits
+det	guy	a
+dobj	hits	guy
+case	face	in
+det	face	the
+nmod:in	hits	face
+punct	getting	,
+nsubj	getting	you
+aux	getting	're
+root	ROOT	getting
+det	penalty	a
+dobj	getting	penalty
+punct	getting	.

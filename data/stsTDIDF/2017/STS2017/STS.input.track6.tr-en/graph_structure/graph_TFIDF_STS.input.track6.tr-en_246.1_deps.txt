@@ -1,0 +1,6 @@
+coach	A	det
+smiles	coach	nsubj
+ROOT	smiles	root
+smiles	player	nmod:at
+player	at	case
+smiles	.	punct

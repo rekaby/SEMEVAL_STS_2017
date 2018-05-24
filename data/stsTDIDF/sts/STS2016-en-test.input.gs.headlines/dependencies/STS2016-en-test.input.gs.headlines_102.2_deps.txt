@@ -1,0 +1,8 @@
+root	ROOT	Egypt
+punct	Egypt	:
+compound	Brotherhood	Protesters
+compound	Brotherhood	storm
+amod	Brotherhood	Muslim
+nmod:poss	HQ	Brotherhood
+case	Brotherhood	's
+dep	Egypt	HQ

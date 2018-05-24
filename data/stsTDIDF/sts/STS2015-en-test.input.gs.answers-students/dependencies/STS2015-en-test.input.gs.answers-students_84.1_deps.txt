@@ -1,0 +1,9 @@
+mark	caught	Because
+nsubj	caught	it
+advmod	caught	still
+root	ROOT	caught
+det	current	the
+dobj	caught	current
+case	terminals	from
+det	terminals	both
+nmod:from	current	terminals

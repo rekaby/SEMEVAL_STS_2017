@@ -1,0 +1,4 @@
+nsubj	informing	act
+case	verbally	of
+nmod:of	act	verbally
+root	ROOT	informing

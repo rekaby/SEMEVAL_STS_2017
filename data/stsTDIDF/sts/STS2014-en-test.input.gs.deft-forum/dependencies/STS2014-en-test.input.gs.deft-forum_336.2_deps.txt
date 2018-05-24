@@ -1,0 +1,12 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	agree	we
+nsubj	agree	all
+ccomp	think	agree
+case	nature	on
+det	nature	the
+nmod:on	agree	nature
+case	change	of
+det	change	the
+nmod:of	nature	change
+punct	think	.

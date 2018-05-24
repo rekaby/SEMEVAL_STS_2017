@@ -1,0 +1,12 @@
+mother	A	det
+area	mall	nmod:of
+mother	.	punct
+pretzel	area	nmod:in
+pretzel	her	nmod:poss
+area	dining	compound
+pretzel	sister	compound
+mall	a	det
+mother	pretzel	conj:and
+mall	of	case
+mall	shopping	compound
+ROOT	mother	root

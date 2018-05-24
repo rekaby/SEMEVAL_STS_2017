@@ -1,0 +1,7 @@
+nummod	boys	Two
+root	ROOT	boys
+acl	boys	playing
+det	game	a
+compound	game	video
+dobj	playing	game
+punct	boys	.

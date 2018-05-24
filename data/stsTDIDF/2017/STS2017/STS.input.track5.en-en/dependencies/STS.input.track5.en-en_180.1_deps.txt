@@ -1,0 +1,6 @@
+det	woman	A
+amod	woman	pregnant
+nsubj	labor	woman
+cop	labor	is
+case	labor	in
+root	ROOT	labor

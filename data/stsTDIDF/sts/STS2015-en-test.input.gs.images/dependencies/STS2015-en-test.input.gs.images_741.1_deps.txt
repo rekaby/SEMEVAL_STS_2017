@@ -1,0 +1,13 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+det	skateboard	a
+dobj	riding	skateboard
+case	air	in
+det	air	the
+nmod:in	riding	air
+case	ramp	above
+det	ramp	a
+nmod:above	riding	ramp
+punct	riding	.

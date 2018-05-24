@@ -1,0 +1,16 @@
+case	theory	According
+mwe	According	to
+compound	Herzberg	Frederick
+nmod:poss	theory	Herzberg
+case	Herzberg	's
+amod	theory	two-factor
+nmod:according_to	motivators	theory
+case	motivation	of
+nmod:of	theory	motivation
+punct	motivators	,
+amod	rewards	intrinsic
+nsubj	motivators	rewards
+cop	motivators	are
+root	ROOT	motivators
+punct	motivators	-LRB-
+dep	motivators	e.g.

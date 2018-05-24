@@ -1,0 +1,4 @@
+group	kids	nmod:of
+having	time	dobj
+group	having	acl
+time	good	amod

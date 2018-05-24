@@ -1,0 +1,17 @@
+nsubj	have	Losing
+case	Alstom	of
+nmod:of	Losing	Alstom
+aux	have	would
+root	ROOT	have
+amod	repercussions	serious
+dobj	have	repercussions
+case	Europe	in
+nmod:in	repercussions	Europe
+cc	have	and
+neg	just	not
+advmod	policies	just
+case	policies	for
+conj:and	have	policies
+case	competition	on
+nmod:on	policies	competition
+punct	have	.

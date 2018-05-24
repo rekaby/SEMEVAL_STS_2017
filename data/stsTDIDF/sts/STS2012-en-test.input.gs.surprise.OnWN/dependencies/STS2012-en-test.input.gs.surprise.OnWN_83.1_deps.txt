@@ -1,0 +1,8 @@
+det	text	An
+amod	text	authoritative
+root	ROOT	text
+cc	text	or
+det	citation	the
+amod	citation	corresponding
+conj:or	text	citation
+punct	text	.

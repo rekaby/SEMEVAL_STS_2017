@@ -1,0 +1,6 @@
+compound	meeting	SFG
+nsubj	reviews	meeting
+root	ROOT	reviews
+dobj	reviews	situation
+case	Mali	in
+nmod:in	situation	Mali

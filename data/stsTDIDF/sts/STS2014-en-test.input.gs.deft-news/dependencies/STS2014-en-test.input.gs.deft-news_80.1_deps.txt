@@ -1,0 +1,14 @@
+nsubj	stated	activists
+aux	stated	have
+root	ROOT	stated
+mark	imprisoning	that
+nsubj	imprisoning	russia
+aux	imprisoning	is
+ccomp	stated	imprisoning
+dobj	imprisoning	people
+case	evidence	without
+nmod:without	imprisoning	evidence
+case	activity	of
+amod	activity	illegal
+nmod:of	evidence	activity
+punct	stated	.

@@ -1,0 +1,9 @@
+compound	voters	India
+nsubj	kick	voters
+root	ROOT	kick
+compound:prt	kick	off
+compound	Äôs	world
+nummod	Äôs	‚
+det	election	Äôs
+amod	election	biggest
+dobj	kick	election

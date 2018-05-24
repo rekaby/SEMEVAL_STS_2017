@@ -1,0 +1,7 @@
+group	children	nmod:poss
+making	man	nsubj
+children	small	amod
+making	group	nmod:for
+children	a	det
+making	animals	dobj
+animals	balloon	compound

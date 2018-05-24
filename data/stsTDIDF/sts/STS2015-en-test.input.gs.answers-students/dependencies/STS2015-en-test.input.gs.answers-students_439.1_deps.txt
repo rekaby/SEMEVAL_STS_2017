@@ -1,0 +1,7 @@
+expl	is	there
+root	ROOT	is
+neg	path	no
+nsubj	is	path
+case	bulb	through
+nmod:through	path	bulb
+nsubj	is	b.

@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	plays	woman
+case	jeans	in
+nmod:in	woman	jeans
+root	ROOT	plays
+det	game	a
+compound	game	video
+dobj	plays	game
+case	screen	in
+mwe	in	front
+mwe	in	of
+det	screen	a
+amod	screen	large
+nmod:in_front_of	plays	screen
+punct	plays	.

@@ -1,0 +1,7 @@
+nmod:tmod	resume	Israelis
+punct	resume	,
+nsubj	resume	Palestinians
+root	ROOT	resume
+dobj	resume	talks
+case	US	in
+nmod:in	resume	US

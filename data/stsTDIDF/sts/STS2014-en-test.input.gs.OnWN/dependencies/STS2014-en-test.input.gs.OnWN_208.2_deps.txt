@@ -1,0 +1,9 @@
+root	ROOT	transfer
+case	place	from
+nummod	place	one
+nmod:from	transfer	place
+cc	place	or
+conj:or	place	period
+case	another	to
+nmod:to	transfer	another
+punct	transfer	.

@@ -1,0 +1,9 @@
+nsubj	wealthy	He
+cop	wealthy	's
+neg	wealthy	not
+root	ROOT	wealthy
+mark	successful	because
+nsubj	successful	he
+cop	successful	's
+advcl	wealthy	successful
+punct	wealthy	.

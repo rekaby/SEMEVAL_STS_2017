@@ -1,0 +1,11 @@
+compound	Fight	#Myanmar
+compound	Fight	s
+nsubj	#kachin	Fight
+case	Edges	With
+amod	Edges	Armed
+compound	Edges	#Rebels
+nmod:with	Fight	Edges
+case	China	Toward
+nmod:toward	Fight	China
+dep	China	#burma
+root	ROOT	#kachin

@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	earthquake	from
+amod	earthquake	Philippine
+nmod:from	toll	earthquake
+root	ROOT	rises
+case	185	to
+nmod:to	rises	185

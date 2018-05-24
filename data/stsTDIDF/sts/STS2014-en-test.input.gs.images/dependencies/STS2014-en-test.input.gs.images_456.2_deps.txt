@@ -1,0 +1,8 @@
+nummod	goats	Three
+nsubjpass	chased	goats
+auxpass	chased	are
+root	ROOT	chased
+case	dog	by
+det	dog	a
+nmod:agent	chased	dog
+punct	chased	.

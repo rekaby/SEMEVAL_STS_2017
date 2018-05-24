@@ -1,0 +1,8 @@
+det	train	A
+advmod	black	mostly
+amod	train	black
+root	ROOT	train
+case	track	on
+det	track	a
+nmod:on	train	track
+punct	train	.

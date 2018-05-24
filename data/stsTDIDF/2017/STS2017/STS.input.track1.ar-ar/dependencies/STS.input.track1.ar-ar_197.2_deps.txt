@@ -1,0 +1,9 @@
+root	ROOT	Addresses
+det	couple	the
+nsubj	had	couple
+acl:relcl	Addresses	had
+dobj	had	dinner
+case	restaurant	at
+det	restaurant	a
+nmod:at	had	restaurant
+punct	Addresses	.

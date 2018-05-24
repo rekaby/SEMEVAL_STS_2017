@@ -1,0 +1,16 @@
+nsubj	continues	violence
+root	ROOT	continues
+case	opinion	despite
+amod	opinion	conflicting
+nmod:despite	continues	opinion
+case	extent	on
+det	extent	the
+nmod:on	opinion	extent
+case	damage	of
+nmod:of	extent	damage
+acl	damage	suffered
+case	groups	by
+det	groups	the
+compound	groups	rebel
+nmod:by	suffered	groups
+punct	continues	.

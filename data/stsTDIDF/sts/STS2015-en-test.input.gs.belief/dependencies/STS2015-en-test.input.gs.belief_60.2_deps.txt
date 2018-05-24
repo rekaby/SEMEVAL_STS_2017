@@ -1,0 +1,16 @@
+nmod:poss	understanding	my
+nsubj	sector	understanding
+case	bubble	of
+det	bubble	a
+punct	bubble	``
+nmod:of	understanding	bubble
+punct	bubble	''
+cop	sector	is
+det	sector	a
+root	ROOT	sector
+nsubjpass	propped	that
+auxpass	propped	is
+advmod	propped	artificially
+acl:relcl	sector	propped
+compound:prt	propped	up
+punct	sector	.-16) root(ROOT-0, .-1) root(ROOT-0, despite

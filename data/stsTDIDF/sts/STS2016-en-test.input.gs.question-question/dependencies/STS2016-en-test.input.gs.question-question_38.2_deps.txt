@@ -1,0 +1,10 @@
+root	ROOT	What
+cop	What	is
+det	way	the
+amod	way	best
+nsubj	What	way
+mark	store	to
+acl	way	store
+amod	vegetables	chopped
+dobj	store	vegetables
+punct	What	?

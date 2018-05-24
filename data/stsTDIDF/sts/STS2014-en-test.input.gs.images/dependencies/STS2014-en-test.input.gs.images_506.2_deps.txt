@@ -1,0 +1,12 @@
+det	child	A
+amod	child	small
+nsubj	sits	child
+root	ROOT	sits
+case	wall	on
+det	wall	a
+compound	wall	cement
+nmod:on	sits	wall
+case	flower	near
+amod	flower	white
+nmod:near	wall	flower
+punct	sits	.

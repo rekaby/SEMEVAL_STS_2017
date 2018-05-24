@@ -1,0 +1,9 @@
+root	ROOT	State
+punct	State	:
+neg	funds	No
+dep	State	funds
+case	yeshiva	for
+nmod:for	funds	yeshiva
+nsubj	incites	that
+acl:relcl	yeshiva	incites
+dobj	incites	violence

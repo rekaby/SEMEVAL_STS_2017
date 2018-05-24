@@ -1,0 +1,14 @@
+det	package	That
+nsubj	included	package
+root	ROOT	included
+dobj	included	increases
+case	sales	to
+cc:preconj	sales	both
+det	city	the
+nmod:poss	sales	city
+case	city	's
+nmod:to	increases	sales
+cc	sales	and
+compound	taxes	income
+conj:and	sales	taxes
+punct	included	.

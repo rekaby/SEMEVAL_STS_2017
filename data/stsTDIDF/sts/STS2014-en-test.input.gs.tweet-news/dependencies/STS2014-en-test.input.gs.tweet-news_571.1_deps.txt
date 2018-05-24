@@ -1,0 +1,15 @@
+root	ROOT	Sent
+case	App	from
+det	App	the
+compound	App	CNN
+nmod:from	Sent	App
+case	Android	for
+nmod:for	App	Android
+case	least	At
+nmod:npmod	245	least
+dep	Sent	245
+acl	245	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire

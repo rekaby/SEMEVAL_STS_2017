@@ -1,0 +1,5 @@
+root	ROOT	put
+case	position	in
+det	position	a
+amod	position	dangerous
+nmod:in	put	position

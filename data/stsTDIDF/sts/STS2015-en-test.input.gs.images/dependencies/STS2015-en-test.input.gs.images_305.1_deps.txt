@@ -1,0 +1,7 @@
+det	dog	a
+nsubj	jumps	dog
+root	ROOT	jumps
+case	water	into
+det	water	the
+nmod:into	jumps	water
+punct	jumps	.

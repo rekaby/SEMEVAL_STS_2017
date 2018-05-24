@@ -1,0 +1,8 @@
+man	shirtless	amod
+met	just	advmod
+talking	while	mark
+met	she	nsubj
+sitting	woman	nsubj
+sitting	talking	advcl
+talking	man	nmod:to
+man	met	acl:relcl

@@ -1,0 +1,8 @@
+compound	Leone	Sierra
+nsubj	Reaches	Leone
+root	ROOT	Reaches
+amod	Day	Final
+nmod:tmod	Reaches	Day
+case	Ebola	of
+nmod:of	Day	Ebola
+dobj	Reaches	Lockdown

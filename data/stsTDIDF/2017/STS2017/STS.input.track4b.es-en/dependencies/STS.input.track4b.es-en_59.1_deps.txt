@@ -1,0 +1,15 @@
+nsubj	minority	I
+cop	minority	was
+case	minority	in
+det	minority	a
+root	ROOT	minority
+case	one	of
+nmod:of	minority	one
+case	weeks	during
+nmod:poss	weeks	my
+amod	weeks	first
+amod	weeks	few
+nmod:during	minority	weeks
+case	Oxford	at
+nmod:at	weeks	Oxford
+punct	minority	.

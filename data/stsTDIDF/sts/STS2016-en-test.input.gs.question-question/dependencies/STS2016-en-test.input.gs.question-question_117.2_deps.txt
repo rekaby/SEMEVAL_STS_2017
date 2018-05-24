@@ -1,0 +1,13 @@
+advmod	assess	How
+aux	assess	can
+nsubj	assess	I
+root	ROOT	assess
+det	quality	the
+dobj	assess	quality
+case	paper	of
+det	paper	a
+nmod:of	quality	paper
+case	field	outside
+nmod:poss	field	my
+nmod:outside	assess	field
+punct	assess	?

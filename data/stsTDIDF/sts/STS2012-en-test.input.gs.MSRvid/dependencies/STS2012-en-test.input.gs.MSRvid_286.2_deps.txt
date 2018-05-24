@@ -1,0 +1,8 @@
+det	ball	A
+amod	ball	large
+amod	ball	green
+nsubj	hits	ball
+root	ROOT	hits
+det	potato	a
+dobj	hits	potato
+punct	hits	.

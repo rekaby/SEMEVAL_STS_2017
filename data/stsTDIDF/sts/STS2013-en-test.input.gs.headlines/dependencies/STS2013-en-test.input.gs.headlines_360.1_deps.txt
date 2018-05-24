@@ -1,0 +1,7 @@
+amod	city	Sectarian
+compound	city	clashes
+compound	city	rock
+amod	city	Lebanese
+root	ROOT	city
+case	Tripoli	of
+nmod:of	city	Tripoli

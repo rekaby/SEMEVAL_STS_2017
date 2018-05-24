@@ -1,0 +1,12 @@
+det	position	a
+amod	position	figurative
+root	ROOT	position
+case	relation	in
+nmod:in	position	relation
+case	positions	to
+amod	positions	other
+nmod:to	relation	positions
+punct	position	,
+case	arguments	as
+case	arguments	in
+nmod:in	position	arguments

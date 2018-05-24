@@ -1,0 +1,10 @@
+compound	gov	US
+nmod:poss	t	gov
+case	gov	'
+nsubj	designates	t
+advmod	designates	officially
+root	ROOT	designates
+compound	network	Haqqani
+dobj	designates	network
+case	terrorists	as
+nmod:as	designates	terrorists

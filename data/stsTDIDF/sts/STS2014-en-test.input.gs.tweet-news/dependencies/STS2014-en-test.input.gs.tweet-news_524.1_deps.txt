@@ -1,0 +1,23 @@
+nsubj	ten	peter
+cop	ten	is
+neg	ten	not
+case	ten	in
+det	ten	the
+amod	ten	top
+root	ROOT	ten
+cc	ten	but
+conj:but	ten	mo
+punct	ten	,
+conj:but	ten	bertie
+cc	ten	and
+conj:and	ten	gus
+advmod	ten	are
+punct	ten	?-15) root(ROOT-0, :
+root	:	``
+det	names	The
+amod	names	top
+compound	names	baby
+root	``	names
+case	2013	of
+nmod:of	names	2013
+punct	names	''

@@ -1,0 +1,8 @@
+forest	a	det
+forest	in	case
+ROOT	tying	root
+tying	is	aux
+tying	forest	nmod:in
+hair	his	nmod:poss
+tying	hair	dobj
+tying	person	nsubj

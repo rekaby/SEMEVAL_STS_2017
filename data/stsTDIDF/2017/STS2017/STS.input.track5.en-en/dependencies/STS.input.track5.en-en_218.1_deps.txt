@@ -1,0 +1,8 @@
+det	man	The
+nsubj	jumping	man
+case	shirt	without
+det	shirt	a
+nmod:without	man	shirt
+aux	jumping	is
+root	ROOT	jumping
+punct	jumping	.

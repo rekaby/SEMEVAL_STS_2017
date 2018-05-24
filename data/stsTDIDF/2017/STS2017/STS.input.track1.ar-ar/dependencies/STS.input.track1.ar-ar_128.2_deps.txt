@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	is	boy
+root	ROOT	is
+mark	achieve	to
+xcomp	is	achieve
+det	plate	a
+compound	plate	balance
+dobj	achieve	plate
+punct	is	.

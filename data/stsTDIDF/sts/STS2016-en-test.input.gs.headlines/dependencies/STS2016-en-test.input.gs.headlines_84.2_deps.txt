@@ -1,0 +1,10 @@
+nsubj	laments	Hagel
+root	ROOT	laments
+punct	laments	``
+amod	changes	political
+punct	changes	''
+dobj	laments	changes
+case	budget	to
+compound	budget	US
+compound	budget	defence
+nmod:to	changes	budget

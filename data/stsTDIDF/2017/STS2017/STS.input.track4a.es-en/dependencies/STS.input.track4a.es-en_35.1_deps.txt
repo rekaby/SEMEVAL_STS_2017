@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	group	sitting
+mark	discussing	around
+advcl	sitting	discussing
+dobj	discussing	something
+punct	group	.

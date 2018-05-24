@@ -1,0 +1,4 @@
+dog	and	cc
+run	dog	nsubj
+dog	sheep	conj:and
+run	together	advmod

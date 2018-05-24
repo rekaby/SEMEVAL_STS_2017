@@ -1,0 +1,6 @@
+root	ROOT	People
+acl	People	gathered
+case	room	in
+det	room	a
+nmod:in	gathered	room
+punct	People	.

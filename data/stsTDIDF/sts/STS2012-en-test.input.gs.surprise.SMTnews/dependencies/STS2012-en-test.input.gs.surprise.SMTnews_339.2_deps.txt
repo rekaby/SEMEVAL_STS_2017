@@ -1,0 +1,9 @@
+nsubj	embarks	Ahmadinejad
+root	ROOT	embarks
+case	adventure	in
+det	adventure	an
+nmod:in	embarks	adventure
+punct	embarks	,
+neg	Bernanke	not
+dep	embarks	Bernanke
+punct	embarks	.

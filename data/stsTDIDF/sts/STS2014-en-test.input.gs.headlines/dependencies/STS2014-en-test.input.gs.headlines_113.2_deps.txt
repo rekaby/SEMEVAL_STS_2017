@@ -1,0 +1,6 @@
+nsubj	leads	Rouhani
+root	ROOT	leads
+case	Iran	in
+amod	Iran	initial
+nmod:in	leads	Iran
+dobj	leads	count

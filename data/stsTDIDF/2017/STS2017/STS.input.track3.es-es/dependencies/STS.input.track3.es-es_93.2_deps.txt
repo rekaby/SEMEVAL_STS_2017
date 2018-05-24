@@ -1,0 +1,10 @@
+det	man	The
+nsubj	driving	man
+aux	driving	is
+root	ROOT	driving
+det	bicycle	a
+dobj	driving	bicycle
+case	street	in
+det	street	the
+nmod:in	driving	street
+punct	driving	.

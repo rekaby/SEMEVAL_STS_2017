@@ -1,0 +1,9 @@
+det	battery	the
+nsubj	bath	battery
+cop	bath	is
+neg	bath	not
+case	bath	in
+det	bath	a
+amod	bath	closed
+root	ROOT	bath
+advmod	bath	alone

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	lifting	man
+aux	lifting	is
+root	ROOT	lifting
+amod	weights	heavy
+dobj	lifting	weights
+punct	lifting	.

@@ -1,0 +1,5 @@
+root	ROOT	make
+cc	make	or
+cop	summary	be
+det	summary	a
+conj:or	make	summary

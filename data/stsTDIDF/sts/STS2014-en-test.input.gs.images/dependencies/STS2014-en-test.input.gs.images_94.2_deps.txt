@@ -1,0 +1,12 @@
+det	car	A
+amod	car	black
+root	ROOT	car
+acl	car	parked
+case	dirt	in
+det	dirt	the
+nmod:in	parked	dirt
+compound:prt	parked	out
+case	country	in
+det	country	the
+nmod:in	parked	country
+punct	car	.

@@ -1,0 +1,8 @@
+nsubj	directed	activity
+root	ROOT	directed
+mark	making	toward
+advcl	directed	making
+cc	making	or
+conj:or	making	doing
+dobj	making	something
+punct	directed	;

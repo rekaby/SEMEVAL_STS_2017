@@ -1,0 +1,17 @@
+advmod	countries	Nearly
+det	countries	all
+nsubj	grew	countries
+root	ROOT	grew
+advmod	grew	quickly
+case	1950s	in
+det	1950s	the
+nmod:in	grew	1950s
+cc	1950s	and
+conj:and	1950s	1960s
+case	reasons	for
+advmod	much	pretty
+advmod	reasons	much
+det	reasons	the
+amod	reasons	same
+nmod:for	grew	reasons
+punct	grew	.

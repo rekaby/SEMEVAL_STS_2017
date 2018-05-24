@@ -1,0 +1,4 @@
+root	ROOT	Quotations
+case	News	in
+det	News	the
+nmod:in	Quotations	News

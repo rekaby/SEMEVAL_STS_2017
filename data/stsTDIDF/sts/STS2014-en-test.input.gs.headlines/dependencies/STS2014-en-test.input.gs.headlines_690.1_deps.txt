@@ -1,0 +1,8 @@
+compound	supporters	Morsi
+nsubj	clash	supporters
+root	ROOT	clash
+case	police	with
+compound	police	riot
+nmod:with	clash	police
+case	Cairo	in
+nmod:in	clash	Cairo

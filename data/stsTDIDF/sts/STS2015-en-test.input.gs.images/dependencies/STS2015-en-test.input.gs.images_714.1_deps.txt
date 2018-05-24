@@ -1,0 +1,6 @@
+det	surfer	A
+root	ROOT	surfer
+case	wave	on
+det	wave	a
+nmod:on	surfer	wave
+punct	surfer	.

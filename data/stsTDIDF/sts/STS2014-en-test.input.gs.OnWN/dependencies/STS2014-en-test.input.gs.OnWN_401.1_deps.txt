@@ -1,0 +1,8 @@
+root	ROOT	want
+punct	want	,
+dobj	want	desire
+cc	desire	or
+conj:or	desire	perfer
+mark	do	to
+acl	desire	do
+dobj	do	something

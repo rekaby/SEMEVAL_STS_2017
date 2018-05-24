@@ -1,0 +1,11 @@
+det	girl	A
+root	ROOT	girl
+cc	girl	and
+det	lady	a
+conj:and	girl	lady
+cc:preconj	looking	both
+acl	girl	looking
+case	microscope	through
+det	microscope	a
+nmod:through	looking	microscope
+punct	girl	.

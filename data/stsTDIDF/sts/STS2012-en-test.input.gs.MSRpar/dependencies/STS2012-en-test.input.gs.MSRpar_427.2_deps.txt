@@ -1,0 +1,16 @@
+det	truck	A
+amod	truck	black
+compound	truck	pickup
+nsubjpass	seen	truck
+auxpass	seen	was
+advmod	seen	also
+ccomp	said	seen
+case	area	in
+det	area	the
+compound	area	Campbells
+compound	area	Creek
+nmod:in	seen	area
+punct	said	,
+nsubj	said	Morris
+root	ROOT	said
+punct	said	.

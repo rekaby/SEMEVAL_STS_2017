@@ -1,0 +1,8 @@
+root	ROOT	register
+advmod	participant	formally
+case	participant	as
+det	participant	a
+nmod:as	register	participant
+cc	participant	or
+conj:or	participant	member
+punct	register	.

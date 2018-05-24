@@ -1,0 +1,10 @@
+advmod	determine	How
+aux	determine	can
+nsubj	determine	I
+root	ROOT	determine
+nsubj	water	what
+cop	water	is
+case	water	in
+nmod:poss	water	my
+ccomp	determine	water
+punct	determine	?

@@ -1,0 +1,6 @@
+nsubj	dressed	Conmen
+root	ROOT	dressed
+mark	steal	as
+nsubj	steal	women
+advcl	dressed	steal
+dobj	steal	cash

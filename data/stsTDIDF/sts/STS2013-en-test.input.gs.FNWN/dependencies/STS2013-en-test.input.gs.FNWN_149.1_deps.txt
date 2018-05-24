@@ -1,0 +1,14 @@
+det	frame	this
+nsubj	covers	frame
+root	ROOT	covers
+dobj	covers	words
+nsubj	name	that
+acl:relcl	words	name
+dobj	name	locations
+mark	defined	as
+advcl	name	defined
+advmod	defined	politically
+punct	words	,
+cc	words	or
+conj:or	words	administratively
+punct	covers	.

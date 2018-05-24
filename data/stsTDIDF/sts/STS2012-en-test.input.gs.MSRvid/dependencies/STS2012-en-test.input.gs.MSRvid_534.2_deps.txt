@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	plays	woman
+root	ROOT	plays
+det	clarinet	the
+dobj	plays	clarinet
+punct	plays	.

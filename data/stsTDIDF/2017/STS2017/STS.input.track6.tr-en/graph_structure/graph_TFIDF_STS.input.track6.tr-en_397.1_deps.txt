@@ -1,0 +1,7 @@
+rides	guy	nsubj
+metro	to	case
+metro	the	det
+rides	metro	nmod:to
+bike	his	nmod:poss
+rides	bike	dobj
+ROOT	rides	root

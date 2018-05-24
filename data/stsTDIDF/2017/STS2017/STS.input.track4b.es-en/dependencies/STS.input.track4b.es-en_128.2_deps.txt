@@ -1,0 +1,14 @@
+case	1997	In
+nmod:in	took	1997
+nsubj	took	he
+root	ROOT	took
+det	chair	a
+dobj	took	chair
+case	University	at
+compound	University	Bilkent
+nmod:at	took	University
+punct	University	,
+conj	University	Ankara
+punct	University	,
+appos	University	Turkey
+punct	took	.

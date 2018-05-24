@@ -1,0 +1,11 @@
+det	name	The
+nsubj	Hook	name
+case	bottle	of
+det	bottle	the
+amod	bottle	brown
+compound	bottle	beer
+nmod:of	name	bottle
+cop	Hook	is
+compound	Hook	Winter
+root	ROOT	Hook
+punct	Hook	.

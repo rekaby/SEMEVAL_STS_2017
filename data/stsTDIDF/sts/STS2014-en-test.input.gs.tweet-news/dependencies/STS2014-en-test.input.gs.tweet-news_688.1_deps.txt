@@ -1,0 +1,17 @@
+compound	drivers	#NYC
+compound	drivers	school
+compound	drivers	bus
+nsubj	go	drivers
+root	ROOT	go
+case	corruption	on
+compound	corruption	strike
+compound	corruption	NYC
+compound	corruption	school
+compound	corruption	bus
+nmod:on	go	corruption
+cc	corruption	&
+case	cases	in
+det	cases	some
+nmod:in	crime	cases
+amod	crime	organized
+conj:&	corruption	crime

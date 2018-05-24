@@ -1,0 +1,12 @@
+aux	have	do
+nsubj	have	you
+root	ROOT	have
+dobj	have	anything
+mark	make	to
+acl	anything	make
+nsubj	compelling	it
+advmod	compelling	less
+xcomp	make	compelling
+cc	compelling	or
+conj:or	compelling	not
+punct	have	?

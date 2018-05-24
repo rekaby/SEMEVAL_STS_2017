@@ -1,0 +1,6 @@
+nummod	blast	6
+amod	blast	killed
+case	restaurant	in
+compound	restaurant	Philippines
+nmod:in	killed	restaurant
+root	ROOT	blast

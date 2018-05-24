@@ -1,0 +1,8 @@
+det	man	A
+nsubjpass	buried	man
+auxpass	buried	is
+root	ROOT	buried
+case	sand	in
+det	sand	the
+nmod:in	buried	sand
+punct	buried	.

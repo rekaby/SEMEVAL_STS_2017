@@ -1,0 +1,5 @@
+nsubj	helps	Child
+root	ROOT	helps
+nmod:poss	mother	his
+dobj	helps	mother
+punct	helps	.

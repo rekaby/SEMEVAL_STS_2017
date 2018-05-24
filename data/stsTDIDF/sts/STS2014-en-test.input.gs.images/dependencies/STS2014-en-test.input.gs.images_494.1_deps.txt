@@ -1,0 +1,14 @@
+det	foal	A
+compound	foal	bay
+nsubj	walking	foal
+aux	walking	is
+root	ROOT	walking
+case	mother	next
+mwe	next	to
+nmod:poss	mother	its
+nmod:next_to	walking	mother
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	mother	field
+punct	walking	.

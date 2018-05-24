@@ -1,0 +1,12 @@
+competing	.	punct
+streets	through	case
+ROOT	competing	root
+streets	city	nmod:of
+competing	group	nsubj
+group	athletes	nmod:of
+athletes	triathlon	compound
+competing	race	nmod:in
+competing	are	aux
+athletes	of	case
+group	large	amod
+race	streets	nmod:through

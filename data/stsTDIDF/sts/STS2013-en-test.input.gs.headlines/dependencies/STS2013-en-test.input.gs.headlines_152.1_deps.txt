@@ -1,0 +1,11 @@
+compound	Murdoch	Rupert
+root	ROOT	Murdoch
+punct	Murdoch	:
+nsubj	victim	I
+cop	victim	was
+det	victim	the
+dep	Murdoch	victim
+case	cover	of
+det	cover	a
+nmod:of	victim	cover
+compound:prt	victim	up

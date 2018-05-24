@@ -1,0 +1,8 @@
+det	questions	The
+root	ROOT	questions
+nsubj	asked	Oprah
+aux	asked	should
+aux	asked	've
+acl:relcl	questions	asked
+compound	Amstrong	Lance
+dobj	asked	Amstrong

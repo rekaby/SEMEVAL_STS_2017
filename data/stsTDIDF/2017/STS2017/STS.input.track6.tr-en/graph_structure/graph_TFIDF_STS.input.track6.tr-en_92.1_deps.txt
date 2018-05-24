@@ -1,0 +1,7 @@
+ran	dog	nsubj
+lost	seems	auxpass
+lost	out	compound:prt
+lost	streets	nmod:on
+ran	lost	conj:and
+ran	away	advmod
+ran	home	nmod:from

@@ -1,0 +1,8 @@
+root	ROOT	something
+acl	something	serving
+case	cover	as
+det	cover	a
+nmod:as	serving	cover
+cc	cover	or
+conj:or	cover	protection
+punct	something	.

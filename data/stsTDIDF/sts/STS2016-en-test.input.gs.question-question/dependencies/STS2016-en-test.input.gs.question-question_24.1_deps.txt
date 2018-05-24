@@ -1,0 +1,9 @@
+root	ROOT	Do
+nsubj	need	I
+advmod	need	really
+ccomp	Do	need
+det	pump	a
+amod	pump	redundant
+compound	pump	sump
+dobj	need	pump
+punct	Do	?

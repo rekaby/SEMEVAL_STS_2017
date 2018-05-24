@@ -1,0 +1,15 @@
+nsubj	anniversary	July
+nummod	July	1st
+cop	anniversary	is
+det	anniversary	the
+amod	anniversary	sixth
+root	ROOT	anniversary
+case	return	of
+compound	Kong	Hong
+nmod:poss	return	Kong
+case	Kong	's
+nmod:of	anniversary	return
+case	rule	to
+amod	rule	Chinese
+nmod:to	return	rule
+punct	anniversary	.

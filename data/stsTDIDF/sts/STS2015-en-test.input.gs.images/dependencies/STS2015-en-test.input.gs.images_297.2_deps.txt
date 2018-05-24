@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	brown
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	ball	with
+det	ball	a
+nmod:with	playing	ball
+case	water	in
+det	water	the
+nmod:in	ball	water
+punct	playing	.

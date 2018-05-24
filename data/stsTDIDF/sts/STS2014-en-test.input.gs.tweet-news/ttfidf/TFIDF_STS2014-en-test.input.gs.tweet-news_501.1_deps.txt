@@ -1,0 +1,11 @@
+compound Darwin Debunking	15.060439779775294
+dep NYTimes Darwin	15.060439779775294
+punct NYTimes .-5) root(ROOT-0, Was	15.060439779775294
+nsubj Wrong He	15.060439779775294
+ccomp Was Wrong	15.060439779775294
+punct Was ?-6) compound(#gender-2, #sex	15.060439779775294
+root ROOT #gender	15.060439779775294
+mark Dating About	14.367292599215348
+advcl Wrong Dating	14.367292599215348
+root ROOT NYTimes	11.72823526960009
+punct NYTimes :	11.253777290004974

@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	play	dogs
+root	ROOT	play
+case	football	with
+amod	football	purple
+nmod:with	play	football
+punct	play	.

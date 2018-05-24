@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	riding	girl
+case	shirt	in
+det	shirt	a
+amod	shirt	red
+nmod:in	girl	shirt
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+amod	horse	brown
+dobj	riding	horse
+punct	riding	.

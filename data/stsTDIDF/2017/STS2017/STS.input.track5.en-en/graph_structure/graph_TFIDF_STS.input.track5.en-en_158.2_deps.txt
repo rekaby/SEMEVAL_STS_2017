@@ -1,0 +1,7 @@
+singing	are	aux
+singing	instruments	conj:and
+singing	and	cc
+instruments	playing	compound
+ROOT	singing	root
+singing	group	nsubj
+group	children	nmod:of

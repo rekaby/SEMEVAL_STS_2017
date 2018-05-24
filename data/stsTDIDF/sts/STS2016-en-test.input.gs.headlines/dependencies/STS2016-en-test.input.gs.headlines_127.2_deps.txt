@@ -1,0 +1,6 @@
+nsubj	kill	Bombings
+root	ROOT	kill
+nummod	people	19
+dobj	kill	people
+case	Iraq	in
+nmod:in	kill	Iraq

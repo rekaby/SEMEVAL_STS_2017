@@ -1,0 +1,15 @@
+expl	's	There
+root	ROOT	's
+det	version	the
+amod	version	naïve
+nsubj	triggered	version
+case	spike	of
+nmod:of	version	spike
+ccomp	's	triggered
+dobj	triggered	averaging
+punct	triggered	,
+cc	triggered	and
+det	version	the
+amod	version	sophisticated
+conj:and	triggered	version
+punct	's	.

@@ -1,0 +1,7 @@
+seated	woman	nsubjpass
+woman	girl	conj:and
+seated	.	punct
+ROOT	seated	root
+table	restaurant	nmod:in
+seated	table	nmod:at
+seated	are	auxpass

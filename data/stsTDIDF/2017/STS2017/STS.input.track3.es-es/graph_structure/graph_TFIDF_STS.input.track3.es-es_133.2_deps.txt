@@ -1,0 +1,8 @@
+reading	side	dobj
+reading	woman	nsubj
+woman	glasses	nmod:with
+bowl	metal	compound
+bowl	of	case
+reading	is	aux
+side	bowl	nmod:of
+glasses	with	case

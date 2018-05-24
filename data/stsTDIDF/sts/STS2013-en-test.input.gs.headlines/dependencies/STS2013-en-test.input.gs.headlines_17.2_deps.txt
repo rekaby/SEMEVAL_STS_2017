@@ -1,0 +1,8 @@
+nmod:poss	Netanyahu	Israel
+case	Israel	's
+nsubj	set	Netanyahu
+root	ROOT	set
+mark	call	to
+xcomp	set	call
+amod	vote	early
+dobj	call	vote

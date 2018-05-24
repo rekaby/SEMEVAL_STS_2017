@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	plays	woman
+root	ROOT	plays
+case	flute	on
+det	flute	a
+nmod:on	plays	flute
+punct	plays	.

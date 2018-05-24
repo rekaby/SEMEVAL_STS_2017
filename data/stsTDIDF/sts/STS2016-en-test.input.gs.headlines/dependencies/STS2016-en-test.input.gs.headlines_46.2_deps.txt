@@ -1,0 +1,8 @@
+amod	checks	High
+compound	checks	court
+root	ROOT	checks
+nmod:poss	power	President
+case	President	's
+compound	power	recess
+compound	power	appointment
+dobj	checks	power

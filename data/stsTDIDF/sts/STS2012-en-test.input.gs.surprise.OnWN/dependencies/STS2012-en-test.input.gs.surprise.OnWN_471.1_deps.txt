@@ -1,0 +1,6 @@
+root	ROOT	insert
+cc	insert	or
+conj:or	insert	close
+case	plug	with
+det	plug	a
+nmod:with	insert	plug

@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	singing	boy
+cop	singing	is
+root	ROOT	singing
+cc	singing	and
+conj:and	singing	playing
+det	piano	the
+dobj	playing	piano
+punct	singing	.

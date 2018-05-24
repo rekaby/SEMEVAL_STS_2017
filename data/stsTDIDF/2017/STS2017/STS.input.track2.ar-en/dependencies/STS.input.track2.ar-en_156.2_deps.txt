@@ -1,0 +1,14 @@
+det	dog	A
+nsubjpass	built	dog
+aux	built	is
+auxpass	built	being
+root	ROOT	built
+case	bird	in
+det	bird	the
+compound	bird	snow
+compound	bird	dish
+nmod:in	built	bird
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	built	mouth
+punct	built	.

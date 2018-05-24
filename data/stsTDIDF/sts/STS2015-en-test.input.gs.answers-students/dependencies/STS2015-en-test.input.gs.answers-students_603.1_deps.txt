@@ -1,0 +1,7 @@
+det	bulb	the
+nsubj	circuit	bulb
+cop	circuit	is
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+root	ROOT	circuit

@@ -1,0 +1,14 @@
+compound	danilov	physicist
+nsubjpass	convicted	danilov
+auxpass	convicted	was
+root	ROOT	convicted
+mark	selling	of
+advcl	convicted	selling
+amod	information	classified
+dobj	selling	information
+case	technology	on
+compound	technology	space
+nmod:on	selling	technology
+case	china	to
+nmod:to	technology	china
+punct	convicted	.

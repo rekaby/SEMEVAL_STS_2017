@@ -1,0 +1,12 @@
+compound	coronavirus	New
+nsubjpass	passed	coronavirus
+aux	passed	can
+advmod	passed	probably
+aux	passed	can
+auxpass	passed	be
+root	ROOT	passed
+dobj	passed	person
+case	person	to
+nmod:to	person	person
+punct	person	-
+dep	person	WHO

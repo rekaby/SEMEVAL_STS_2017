@@ -1,0 +1,9 @@
+det	player	A
+compound	player	hockey
+nsubj	playing	player
+aux	playing	is
+root	ROOT	playing
+case	disc	with
+det	disc	a
+nmod:with	playing	disc
+punct	playing	.

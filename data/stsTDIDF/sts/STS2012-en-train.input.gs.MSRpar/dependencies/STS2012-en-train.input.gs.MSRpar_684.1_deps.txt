@@ -1,0 +1,17 @@
+det	soldier	A
+nsubjpass	killed	soldier
+auxpass	killed	was
+root	ROOT	killed
+nmod:tmod	killed	Monday
+cc	killed	and
+det	wounded	another
+conj:and	killed	wounded
+advmod	ambushed	when
+nmod:poss	convoy	their
+nsubjpass	ambushed	convoy
+auxpass	ambushed	was
+advcl	wounded	ambushed
+case	Iraq	in
+amod	Iraq	northern
+nmod:in	ambushed	Iraq
+punct	killed	.

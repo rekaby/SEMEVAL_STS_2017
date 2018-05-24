@@ -1,0 +1,11 @@
+det	group	A
+nsubj	obama	group
+case	people	of
+nmod:of	group	people
+acl	people	cheering
+case	statue	for
+det	statue	a
+nmod:for	cheering	statue
+case	Barack	of
+nmod:of	statue	Barack
+root	ROOT	obama

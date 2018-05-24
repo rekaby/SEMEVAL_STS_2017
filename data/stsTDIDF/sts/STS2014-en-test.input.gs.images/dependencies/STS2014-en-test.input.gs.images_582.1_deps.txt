@@ -1,0 +1,6 @@
+amod	cat	Domestic
+nsubj	looking	cat
+root	ROOT	looking
+compound:prt	looking	out
+dobj	looking	window
+punct	looking	.

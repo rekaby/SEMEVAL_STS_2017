@@ -1,0 +1,5 @@
+root	ROOT	Woman
+acl	Woman	wearing
+amod	pants	gray
+dobj	wearing	pants
+punct	Woman	.

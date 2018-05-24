@@ -1,0 +1,17 @@
+cop	feature	be
+det	feature	a
+amod	feature	distinctive
+root	ROOT	feature
+punct	feature	,
+conj:or	feature	attribute
+punct	feature	,
+cc	feature	or
+conj:or	feature	trait
+punct	feature	;
+advmod	sense	sometimes
+case	sense	in
+det	sense	a
+advmod	positive	very
+amod	sense	positive
+dep	feature	sense
+punct	feature	.

@@ -1,0 +1,9 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+nsubj	has	Paul
+ccomp	think	has
+det	shot	a
+dobj	has	shot
+punct	think	.

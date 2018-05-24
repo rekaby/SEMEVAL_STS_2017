@@ -1,0 +1,10 @@
+nummod	girls	Two
+nsubj	ride	girls
+case	ponytails	with
+nmod:with	girls	ponytails
+root	ROOT	ride
+det	ride	an
+compound	ride	amusement
+compound	ride	park
+dobj	ride	ride
+punct	ride	.

@@ -1,0 +1,10 @@
+nmod:poss	Acts	Washington
+case	Washington	's
+nsubj	sells	Acts
+case	Congress	of
+nmod:of	Acts	Congress
+root	ROOT	sells
+case	$	for
+nmod:for	sells	$
+nummod	$	9.8
+nmod:npmod	$	M

@@ -1,0 +1,8 @@
+nsubj	city	khoramabad
+cop	city	is
+det	city	a
+root	ROOT	city
+case	iran	in
+amod	iran	western
+nmod:in	city	iran
+punct	city	.

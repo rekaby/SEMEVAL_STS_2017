@@ -1,0 +1,5 @@
+explodes	fight	nsubj
+fight	A	det
+game	hockey	compound
+fight	game	nmod:in
+ROOT	explodes	root

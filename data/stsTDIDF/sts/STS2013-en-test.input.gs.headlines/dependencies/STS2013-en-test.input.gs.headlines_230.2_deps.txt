@@ -1,0 +1,10 @@
+compound	strike	U.S.
+compound	strike	drone
+nsubj	kills	strike
+root	ROOT	kills
+dobj	kills	10
+case	Pakistan	in
+amod	Pakistan	northwest
+nmod:in	kills	Pakistan
+punct	kills	:
+dobj	kills	officials

@@ -1,0 +1,15 @@
+kids	.	punct
+wearing	down	advmod
+swing	through	case
+wearing	look	dobj
+ROOT	kids	root
+look	clothing	compound
+kids	Two	nummod
+down	happily	advmod
+picture	for	case
+kids	wearing	acl
+swing	tire	compound
+swing	picture	nmod:for
+look	cold	amod
+swing	a	det
+wearing	swing	nmod:through

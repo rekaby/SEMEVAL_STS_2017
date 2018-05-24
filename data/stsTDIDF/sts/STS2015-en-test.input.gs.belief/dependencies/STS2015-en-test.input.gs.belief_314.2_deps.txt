@@ -1,0 +1,13 @@
+nsubj	day	it
+cop	day	was
+nmod:poss	day	our
+root	ROOT	day
+punct	day	,
+advmod	wanted	how
+nsubj	wanted	we
+acl:relcl	day	wanted
+cc	wanted	and
+nsubj	wonderful	it
+cop	wonderful	was
+conj:and	wanted	wonderful
+punct	day	.

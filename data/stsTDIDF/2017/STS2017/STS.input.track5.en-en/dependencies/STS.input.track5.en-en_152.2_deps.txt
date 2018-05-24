@@ -1,0 +1,6 @@
+nummod	kids	Six
+nsubj	going	kids
+aux	going	are
+root	ROOT	going
+dobj	going	swimming
+punct	going	.

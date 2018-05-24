@@ -1,0 +1,12 @@
+det	girl	The
+amod	girl	little
+nsubj	putting	girl
+aux	putting	is
+root	ROOT	putting
+nmod:poss	hair	her
+dobj	putting	hair
+case	tail	into
+det	tail	a
+compound	tail	pony
+nmod:into	putting	tail
+punct	putting	.

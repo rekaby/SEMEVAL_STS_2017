@@ -1,0 +1,9 @@
+det	elephant	A
+compound	elephant	baby
+nsubj	eating	elephant
+aux	eating	is
+root	ROOT	eating
+det	tree	a
+amod	tree	small
+dobj	eating	tree
+punct	eating	.

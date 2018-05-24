@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	opens	woman
+root	ROOT	opens
+det	closet	a
+dobj	opens	closet
+punct	opens	.

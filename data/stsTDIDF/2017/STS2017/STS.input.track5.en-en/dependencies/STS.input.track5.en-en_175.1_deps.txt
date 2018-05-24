@@ -1,0 +1,12 @@
+det	lady	The
+nsubj	looks	lady
+root	ROOT	looks
+xcomp	looks	sad
+mark	buying	because
+neg	one	no
+nsubj	buying	one
+aux	buying	is
+advcl	looks	buying
+nmod:poss	wares	her
+dobj	buying	wares
+punct	looks	.

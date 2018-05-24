@@ -1,0 +1,9 @@
+det	airplane	A
+amod	airplane	small
+amod	airplane	camouflaged
+root	ROOT	airplane
+acl	airplane	parked
+case	grass	in
+det	grass	the
+nmod:in	parked	grass
+punct	airplane	.

@@ -1,0 +1,10 @@
+holds	man	nsubj
+holds	hand	dobj
+beard	with	case
+holds	mouth	nmod:near
+mouth	near	case
+beard	a	det
+mouth	his	nmod:poss
+beard	red	amod
+man	bald	amod
+man	beard	nmod:with

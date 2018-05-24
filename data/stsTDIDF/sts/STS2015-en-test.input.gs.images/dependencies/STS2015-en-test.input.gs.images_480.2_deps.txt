@@ -1,0 +1,9 @@
+det	girl	a
+nsubj	smiling	girl
+acl	girl	holding
+det	picture	a
+dobj	holding	picture
+case	Jackson	of
+compound	Jackson	Michael
+nmod:of	picture	Jackson
+root	ROOT	smiling

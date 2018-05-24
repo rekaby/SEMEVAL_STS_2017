@@ -1,0 +1,10 @@
+sun	bright	amod
+wearing	sunglasses	dobj
+lady	older	amod
+wearing	lady	nsubj
+lady	The	det
+sun	from	case
+wearing	protect	advcl
+protect	sun	nmod:from
+protect	eyes	dobj
+eyes	her	nmod:poss

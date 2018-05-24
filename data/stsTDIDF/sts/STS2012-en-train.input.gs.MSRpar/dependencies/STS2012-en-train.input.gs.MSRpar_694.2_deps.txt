@@ -1,0 +1,14 @@
+compound	prices	Energy
+nsubj	dropped	prices
+root	ROOT	dropped
+case	percent	by
+nummod	percent	8.6
+nmod:by	dropped	percent
+punct	dropped	,
+det	decline	the
+amod	decline	biggest
+dobj	dropped	decline
+case	July	since
+nmod:since	decline	July
+nummod	July	1986
+punct	dropped	.

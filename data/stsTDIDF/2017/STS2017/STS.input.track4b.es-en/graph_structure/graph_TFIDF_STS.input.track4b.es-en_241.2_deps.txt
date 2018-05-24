@@ -1,0 +1,13 @@
+Kelly	present	acl:at
+directing	operations	dobj
+said	directing	ccomp
+present	while	advmod
+Kelly	Mr.	compound
+Kelly	,	punct
+present	at	case
+directing	was	aux
+directing	not	neg
+directing	``	punct
+directing	Kelly	nsubj
+Browne	Mr.	compound
+said	Browne	nsubj

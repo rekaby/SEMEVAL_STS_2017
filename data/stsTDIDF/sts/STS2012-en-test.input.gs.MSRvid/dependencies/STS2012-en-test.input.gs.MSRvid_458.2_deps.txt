@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+det	scooter	a
+compound	scooter	water
+dobj	riding	scooter
+punct	riding	.

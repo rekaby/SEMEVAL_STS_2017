@@ -1,0 +1,14 @@
+player	baseball	compound
+caught	has	aux
+throwing	ball	dobj
+caught	player	nsubj
+member	team	compound
+player	Houston	compound
+throwing	now	advmod
+throwing	is	aux
+caught	throwing	conj:and
+member	towards	case
+player	A	det
+member	another	det
+throwing	member	nmod:towards
+caught	ball	dobj

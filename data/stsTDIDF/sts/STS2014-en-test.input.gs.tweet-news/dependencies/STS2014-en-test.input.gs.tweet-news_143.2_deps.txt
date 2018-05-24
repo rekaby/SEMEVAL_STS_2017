@@ -1,0 +1,7 @@
+nmod:poss	app	Facebook
+case	Facebook	's
+amod	app	mobile
+nsubj	takes	app
+root	ROOT	takes
+amod	spot	top
+dobj	takes	spot

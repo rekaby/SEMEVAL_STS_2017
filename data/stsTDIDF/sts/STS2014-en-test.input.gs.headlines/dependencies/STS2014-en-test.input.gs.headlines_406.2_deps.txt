@@ -1,0 +1,9 @@
+compound	movie	Mandela
+root	ROOT	movie
+mark	open	to
+acl	movie	open
+det	month	this
+nmod:tmod	open	month
+case	Africa	in
+compound	Africa	South
+nmod:in	open	Africa

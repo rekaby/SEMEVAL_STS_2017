@@ -1,0 +1,8 @@
+nsubj	trying	Doctors
+aux	trying	are
+root	ROOT	trying
+mark	revive	to
+xcomp	trying	revive
+det	man	a
+dobj	revive	man
+punct	trying	.

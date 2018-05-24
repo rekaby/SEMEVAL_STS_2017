@@ -1,0 +1,12 @@
+nmod:poss	work	Mann
+case	Mann	's
+root	ROOT	work
+cc	work	and
+det	HS	the
+conj:and	work	HS
+dep	work	was
+nsubj	was	all
+case	rings	about
+compound	rings	Tree
+nmod:about	all	rings
+punct	work	.

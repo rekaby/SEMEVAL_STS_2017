@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	calling	woman
+aux	calling	is
+root	ROOT	calling
+nmod:poss	friend	her
+dobj	calling	friend
+punct	calling	.

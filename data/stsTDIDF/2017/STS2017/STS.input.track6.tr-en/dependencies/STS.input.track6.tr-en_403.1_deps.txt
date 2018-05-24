@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	eating	girl
+aux	eating	is
+root	ROOT	eating
+dobj	eating	cereal
+advmod	eating	straight
+case	box	out
+mwe	out	of
+det	box	the
+nmod:out_of	straight	box
+punct	eating	.

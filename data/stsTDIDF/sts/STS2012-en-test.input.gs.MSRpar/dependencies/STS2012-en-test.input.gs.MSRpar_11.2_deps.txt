@@ -1,0 +1,14 @@
+det	no-shows	The
+nsubj	Kerry	no-shows
+cop	Kerry	were
+compound	Kerry	Sens.
+compound	Kerry	John
+root	ROOT	Kerry
+case	Massachusetts	of
+nmod:of	Kerry	Massachusetts
+cc	Kerry	and
+compound	Graham	Bob
+conj:and	Kerry	Graham
+case	Florida	of
+nmod:of	Graham	Florida
+punct	Kerry	.

@@ -1,0 +1,12 @@
+det	owl	An
+nsubj	has	owl
+root	ROOT	has
+nmod:poss	wings	its
+dobj	has	wings
+advmod	has	up
+cc	up	and
+conj:and	up	widespread
+case	day	during
+det	day	the
+nmod:during	has	day
+punct	has	.

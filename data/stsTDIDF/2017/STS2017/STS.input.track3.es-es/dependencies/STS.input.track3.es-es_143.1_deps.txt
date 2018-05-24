@@ -1,0 +1,7 @@
+det	player	A
+compound	player	hockey
+nsubj	throws	player
+root	ROOT	throws
+det	disc	the
+dobj	throws	disc
+punct	throws	.

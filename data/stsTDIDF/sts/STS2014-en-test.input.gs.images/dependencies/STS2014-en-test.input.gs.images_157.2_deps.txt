@@ -1,0 +1,12 @@
+nummod	trains	Two
+amod	trains	green
+cc	green	and
+conj:and	green	white
+nsubj	sitting	trains
+aux	sitting	are
+root	ROOT	sitting
+case	track	on
+det	track	the
+compound	track	train
+nmod:on	sitting	track
+punct	sitting	.

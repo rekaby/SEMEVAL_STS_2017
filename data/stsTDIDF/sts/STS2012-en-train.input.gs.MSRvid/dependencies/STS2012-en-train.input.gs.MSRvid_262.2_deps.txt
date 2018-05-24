@@ -1,0 +1,10 @@
+nsubj	seasoning	Someone
+aux	seasoning	is
+root	ROOT	seasoning
+nummod	eggs	two
+amod	eggs	raw
+dobj	seasoning	eggs
+case	bowl	in
+det	bowl	a
+nmod:in	seasoning	bowl
+punct	seasoning	.

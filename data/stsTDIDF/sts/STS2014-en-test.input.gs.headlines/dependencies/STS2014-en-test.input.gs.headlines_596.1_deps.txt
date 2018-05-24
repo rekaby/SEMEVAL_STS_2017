@@ -1,0 +1,5 @@
+compound	Ready	Kardashian
+compound	Ready	Divorce
+root	ROOT	Ready
+case	Trial	for
+nmod:for	Ready	Trial

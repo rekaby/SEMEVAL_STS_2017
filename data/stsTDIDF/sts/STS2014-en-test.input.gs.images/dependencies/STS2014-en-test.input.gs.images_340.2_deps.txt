@@ -1,0 +1,8 @@
+det	bird	A
+amod	bird	yellow
+root	ROOT	bird
+acl	bird	perched
+case	branch	on
+det	branch	a
+nmod:on	perched	branch
+punct	bird	.

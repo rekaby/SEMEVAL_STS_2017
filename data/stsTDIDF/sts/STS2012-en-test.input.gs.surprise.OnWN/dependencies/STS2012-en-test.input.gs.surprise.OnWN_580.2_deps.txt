@@ -1,0 +1,12 @@
+det	injury	an
+root	ROOT	injury
+acl	injury	caused
+case	exposure	by
+nmod:by	caused	exposure
+case	heat	to
+nmod:to	exposure	heat
+cc	heat	or
+conj:or	heat	chemicals
+cc	heat	or
+conj:or	heat	radiation
+punct	injury	.

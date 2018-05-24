@@ -1,0 +1,6 @@
+nsubj	recalled	something
+root	ROOT	recalled
+case	mind	to
+det	mind	the
+nmod:to	recalled	mind
+punct	recalled	.

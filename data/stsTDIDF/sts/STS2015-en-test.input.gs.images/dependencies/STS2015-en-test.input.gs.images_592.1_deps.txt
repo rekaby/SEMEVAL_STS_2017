@@ -1,0 +1,13 @@
+det	dog	a
+amod	dog	grey
+root	ROOT	dog
+acl	dog	swimming
+case	river	through
+det	river	a
+nmod:through	swimming	river
+case	stick	with
+det	stick	a
+nmod:with	swimming	stick
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	stick	mouth

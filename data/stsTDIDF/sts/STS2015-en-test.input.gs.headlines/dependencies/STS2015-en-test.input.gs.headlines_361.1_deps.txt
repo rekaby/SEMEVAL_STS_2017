@@ -1,0 +1,6 @@
+compound	worker	Zoo
+nsubj	dies	worker
+root	ROOT	dies
+case	attack	after
+compound	attack	tiger
+nmod:after	dies	attack

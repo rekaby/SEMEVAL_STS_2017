@@ -1,0 +1,8 @@
+compound	Blast	Deadly
+compound	Blast	Gas
+compound	Blast	Cylinder
+nsubj	Hits	Blast
+root	ROOT	Hits
+compound	Bus	Pakistan
+compound	Bus	School
+dobj	Hits	Bus

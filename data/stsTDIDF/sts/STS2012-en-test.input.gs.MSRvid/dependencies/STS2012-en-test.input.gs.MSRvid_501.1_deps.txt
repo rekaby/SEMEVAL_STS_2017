@@ -1,0 +1,7 @@
+det	man	A
+nsubj	breaking	man
+aux	breaking	is
+root	ROOT	breaking
+compound	jugs	water
+dobj	breaking	jugs
+punct	breaking	.

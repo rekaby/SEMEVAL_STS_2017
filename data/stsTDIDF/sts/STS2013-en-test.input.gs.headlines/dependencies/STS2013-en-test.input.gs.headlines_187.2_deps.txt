@@ -1,0 +1,8 @@
+nummod	Killed	Six
+compound	Killed	Police
+compound	Killed	Officers
+root	ROOT	Killed
+case	Attacks	in
+nmod:in	Killed	Attacks
+case	Dagestan	in
+nmod:in	Attacks	Dagestan

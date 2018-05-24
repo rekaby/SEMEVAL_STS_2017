@@ -1,0 +1,9 @@
+det	room	An
+amod	room	elegant
+amod	room	pink
+compound	room	dining
+root	ROOT	room
+case	furniture	with
+amod	furniture	wooden
+nmod:with	room	furniture
+punct	room	.

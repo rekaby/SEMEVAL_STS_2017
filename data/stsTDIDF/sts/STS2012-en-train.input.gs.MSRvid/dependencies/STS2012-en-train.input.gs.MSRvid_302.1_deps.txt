@@ -1,0 +1,10 @@
+nummod	men	Three
+nsubj	doing	men
+aux	doing	are
+root	ROOT	doing
+amod	dance	same
+dobj	doing	dance
+case	street	in
+det	street	the
+nmod:in	doing	street
+punct	doing	.

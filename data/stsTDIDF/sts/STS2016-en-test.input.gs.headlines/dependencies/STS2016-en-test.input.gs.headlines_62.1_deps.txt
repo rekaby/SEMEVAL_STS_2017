@@ -1,0 +1,12 @@
+amod	PM	Australian
+nsubj	says	PM
+root	ROOT	says
+punct	signals	`
+advmod	confident	Very
+amod	signals	confident
+punct	signals	'
+nsubj	box	signals
+cop	box	are
+case	box	from
+amod	box	black
+ccomp	says	box

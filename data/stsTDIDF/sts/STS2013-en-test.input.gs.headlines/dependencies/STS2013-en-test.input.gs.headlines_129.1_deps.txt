@@ -1,0 +1,9 @@
+compound	Nieto	Pena
+nsubj	wins	Nieto
+root	ROOT	wins
+compound	vote	Mexico
+amod	vote	presidential
+dobj	wins	vote
+punct	wins	:
+compound	polls	exit
+dep	wins	polls

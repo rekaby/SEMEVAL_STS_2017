@@ -1,0 +1,15 @@
+det	exchange	The
+compound	exchange	stock
+nsubj	made	exchange
+case	Warsaw	of
+nmod:of	exchange	Warsaw
+root	ROOT	made
+det	proposal	a
+dobj	made	proposal
+mark	buy	to
+acl	proposal	buy
+det	exchange	the
+compound	exchange	stock
+dobj	buy	exchange
+case	Prague	of
+nmod:of	exchange	Prague

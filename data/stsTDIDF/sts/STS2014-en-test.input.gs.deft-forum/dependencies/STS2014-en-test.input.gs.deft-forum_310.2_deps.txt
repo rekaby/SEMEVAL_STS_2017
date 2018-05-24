@@ -1,0 +1,10 @@
+advmod	looking	Why
+aux	looking	are
+nsubj	looking	they
+root	ROOT	looking
+case	other	at
+det	other	each
+nmod:at	looking	other
+case	that	like
+nmod:like	other	that
+dep	looking	?!?!

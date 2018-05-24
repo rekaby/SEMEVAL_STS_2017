@@ -1,0 +1,13 @@
+nsubj	urges	Obama
+root	ROOT	urges
+amod	action	military
+dobj	urges	action
+case	Syria	against
+nmod:against	action	Syria
+punct	urges	,
+cc	urges	but
+aux	seek	will
+conj:but	urges	seek
+nmod:poss	OK	Congress
+case	Congress	'
+dobj	seek	OK

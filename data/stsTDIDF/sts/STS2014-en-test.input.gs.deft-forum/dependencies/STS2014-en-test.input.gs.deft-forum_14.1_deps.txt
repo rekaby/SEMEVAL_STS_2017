@@ -1,0 +1,8 @@
+nsubj	think	We
+case	Britain	in
+nmod:in	We	Britain
+root	ROOT	think
+advmod	think	differently
+case	Americans	to
+nmod:to	think	Americans
+punct	think	.

@@ -1,0 +1,5 @@
+kid	.	punct
+kid	surfed	acl
+kid	The	det
+surfed	time	nmod:for
+ROOT	kid	root

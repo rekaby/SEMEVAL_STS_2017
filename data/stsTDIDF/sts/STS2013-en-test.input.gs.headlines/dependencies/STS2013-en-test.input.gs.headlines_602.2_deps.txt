@@ -1,0 +1,7 @@
+compound	Brown	Lakers
+compound	Brown	fire
+compound	Brown	Mike
+nsubj	start	Brown
+case	1-4	after
+nmod:after	Brown	1-4
+root	ROOT	start

@@ -1,0 +1,10 @@
+root	ROOT	op-ed
+punct	Help	-
+advmod	Help	Why
+nsubj	Help	We
+aux	Help	Must
+dep	op-ed	Help
+xcomp	Help	Save
+compound	#HelpMali	#Mali
+compound	#HelpMali	#Africa
+dobj	Save	#HelpMali

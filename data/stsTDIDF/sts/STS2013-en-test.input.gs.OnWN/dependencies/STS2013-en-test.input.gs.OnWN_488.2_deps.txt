@@ -1,0 +1,8 @@
+root	ROOT	make
+xcomp	make	believe
+case	intent	with
+det	intent	the
+nmod:with	believe	intent
+mark	deceive	to
+acl	intent	deceive
+punct	make	.

@@ -1,0 +1,9 @@
+compound	Aware	Maker
+nsubj	Implant	Aware
+case	Failure	of
+compound	%	40
+amod	Failure	%
+nmod:of	Aware	Failure
+case	Hip	in
+nmod:in	Failure	Hip
+root	ROOT	Implant

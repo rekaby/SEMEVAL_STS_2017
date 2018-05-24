@@ -1,0 +1,16 @@
+nsubj	came	Volume
+root	ROOT	came
+case	shares	to
+compound	million	439.66
+nummod	shares	million
+nmod:to	came	shares
+punct	came	,
+case	million	below
+compound	million	450.39
+nmod:below	came	million
+case	point	at
+det	point	the
+amod	point	same
+nmod:at	million	point
+nmod:tmod	came	Wednesday
+punct	came	.

@@ -1,0 +1,10 @@
+nsubj	comes	ALL
+case	energy	of
+det	energy	the
+amod	energy	electrical
+nmod:of	ALL	energy
+root	ROOT	comes
+case	battery	from
+det	battery	the
+nmod:from	comes	battery
+punct	comes	.

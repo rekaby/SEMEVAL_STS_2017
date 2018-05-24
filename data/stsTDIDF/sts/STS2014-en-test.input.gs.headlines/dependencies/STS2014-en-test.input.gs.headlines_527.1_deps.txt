@@ -1,0 +1,11 @@
+compound	hints	New
+compound	hints	Japan
+compound	hints	govt
+root	ROOT	hints
+mark	joining	at
+acl	hints	joining
+compound	pact	Pacific
+compound	pact	trade
+dobj	joining	pact
+punct	hints	:
+dep	hints	Report

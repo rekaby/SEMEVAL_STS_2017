@@ -1,0 +1,6 @@
+standing	Lady	compound
+shoulders	the	det
+shoulders	on	case
+standing	shoulders	nmod:on
+man	tall	amod
+shoulders	man	nmod:of

@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	beach	along
+det	beach	the
+nmod:along	running	beach
+case	ocean	beside
+det	ocean	the
+nmod:beside	beach	ocean
+punct	running	.

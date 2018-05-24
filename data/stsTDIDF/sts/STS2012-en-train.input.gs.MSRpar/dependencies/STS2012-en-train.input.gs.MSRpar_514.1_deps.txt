@@ -1,0 +1,15 @@
+punct	quotes	``
+nsubj	become	We
+aux	become	've
+ccomp	quotes	become
+case	strangers	like
+amod	strangers	total
+nmod:like	become	strangers
+punct	quotes	,
+punct	quotes	''
+nsubj	quotes	Klein
+root	ROOT	quotes
+dobj	quotes	him
+mark	saying	as
+advcl	quotes	saying
+punct	quotes	.

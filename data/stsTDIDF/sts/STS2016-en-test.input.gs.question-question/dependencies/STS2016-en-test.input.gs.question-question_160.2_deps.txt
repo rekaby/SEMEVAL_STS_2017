@@ -1,0 +1,14 @@
+advmod	tell	How
+mark	tell	to
+root	ROOT	tell
+nmod:poss	company	my
+dobj	tell	company
+mark	having	that
+nsubj	having	I
+aux	having	am
+ccomp	tell	having
+dobj	having	issues
+case	boss	with
+nmod:poss	boss	my
+nmod:with	having	boss
+punct	tell	?

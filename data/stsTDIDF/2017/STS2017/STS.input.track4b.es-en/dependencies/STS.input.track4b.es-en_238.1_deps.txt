@@ -1,0 +1,16 @@
+cc	subject	But
+neg	18-year-old	no
+nsubj	subject	18-year-old
+aux	subject	should
+cop	subject	be
+root	ROOT	subject
+case	intimidation	to
+amod	intimidation	such
+nmod:to	subject	intimidation
+cc	intimidation	and
+conj:and	intimidation	vitriol
+case	institution	in
+det	institution	an
+amod	institution	educational
+nmod:in	intimidation	institution
+punct	subject	.

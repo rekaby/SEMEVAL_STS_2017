@@ -1,0 +1,6 @@
+det	brushes	A
+compound	brushes	monkey
+root	ROOT	brushes
+det	dog	a
+nmod:npmod	brushes	dog
+punct	brushes	.

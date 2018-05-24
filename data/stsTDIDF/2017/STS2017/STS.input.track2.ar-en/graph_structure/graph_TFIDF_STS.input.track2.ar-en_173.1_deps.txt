@@ -1,0 +1,13 @@
+tag	name	compound
+suit	and	cc
+presentation	a	det
+sitting	waiting	advcl
+sitting	outside	advmod
+suit	with	case
+man	suit	nmod:with
+suit	tag	conj:and
+sitting	,	punct
+sitting	man	nsubj
+start	presentation	dobj
+tag	a	det
+waiting	start	xcomp

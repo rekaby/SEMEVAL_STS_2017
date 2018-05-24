@@ -1,0 +1,6 @@
+trying	Men	nsubj
+remove	oil	dobj
+remove	body	nmod:from
+body	water	nmod:of
+body	from	case
+trying	remove	xcomp

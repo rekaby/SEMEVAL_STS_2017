@@ -1,0 +1,9 @@
+nummod	civilians	Four
+root	ROOT	civilians
+punct	civilians	,
+nummod	soldiers	three
+compound	soldiers	NATO
+appos	civilians	soldiers
+acl	soldiers	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

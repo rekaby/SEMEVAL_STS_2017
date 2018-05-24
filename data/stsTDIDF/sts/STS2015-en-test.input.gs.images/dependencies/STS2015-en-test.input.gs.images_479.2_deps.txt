@@ -1,0 +1,9 @@
+det	surfer	A
+root	ROOT	surfer
+acl	surfer	does
+det	flip	a
+dobj	does	flip
+case	wave	on
+det	wave	a
+nmod:on	flip	wave
+punct	surfer	.

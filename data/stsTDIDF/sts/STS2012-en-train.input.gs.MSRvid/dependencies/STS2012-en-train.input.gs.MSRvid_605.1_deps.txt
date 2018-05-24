@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	runs	boy
+root	ROOT	runs
+advmod	runs	away
+case	line	from
+nmod:poss	line	his
+compound	line	fishing
+nmod:from	runs	line
+punct	runs	.

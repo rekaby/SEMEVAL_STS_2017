@@ -1,0 +1,7 @@
+root	ROOT	energy
+case	form	in
+det	form	the
+nmod:in	energy	form
+case	motion	of
+amod	motion	molecular
+nmod:of	form	motion

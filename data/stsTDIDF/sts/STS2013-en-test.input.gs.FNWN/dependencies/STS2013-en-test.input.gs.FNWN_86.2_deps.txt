@@ -1,0 +1,6 @@
+root	ROOT	free
+case	clouds	of
+nmod:of	free	clouds
+cc	clouds	or
+conj:or	clouds	rain
+punct	free	;

@@ -1,0 +1,8 @@
+det	boy	The
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+case	fountain	with
+det	fountain	the
+nmod:with	playing	fountain
+punct	playing	.

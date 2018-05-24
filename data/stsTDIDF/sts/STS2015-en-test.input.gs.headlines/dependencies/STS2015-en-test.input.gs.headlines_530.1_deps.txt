@@ -1,0 +1,11 @@
+nsubj	tried	Men
+root	ROOT	tried
+mark	behead	to
+xcomp	tried	behead
+dobj	behead	soldier
+case	street	on
+compound	street	London
+nmod:on	soldier	street
+punct	tried	,
+nsubj	hears	court
+parataxis	tried	hears

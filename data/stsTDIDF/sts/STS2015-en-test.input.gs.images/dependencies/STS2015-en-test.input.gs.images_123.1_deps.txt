@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	large
+amod	dog	brown
+nsubj	crouching	dog
+aux	crouching	is
+root	ROOT	crouching
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	crouching	field
+punct	crouching	.

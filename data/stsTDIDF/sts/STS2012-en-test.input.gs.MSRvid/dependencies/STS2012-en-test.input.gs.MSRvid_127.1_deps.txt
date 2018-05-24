@@ -1,0 +1,7 @@
+det	man	A
+nsubj	talking	man
+cc	man	and
+conj:and	man	woman
+aux	talking	are
+root	ROOT	talking
+punct	talking	.

@@ -1,0 +1,9 @@
+root	ROOT	Cameron
+mark	hold	to
+acl	Cameron	hold
+dobj	hold	talks
+case	Sturgeon	with
+nmod:with	talks	Sturgeon
+case	future	on
+compound	future	UK
+nmod:on	talks	future

@@ -1,0 +1,7 @@
+det	boy	The
+nsubj	looking	boy
+aux	looking	is
+root	ROOT	looking
+case	bugs	at
+nmod:at	looking	bugs
+punct	looking	.

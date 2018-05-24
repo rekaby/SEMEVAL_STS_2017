@@ -1,0 +1,7 @@
+compound	Industry	Music
+nsubj	Pays	Industry
+root	ROOT	Pays
+dobj	Pays	Tribute
+case	Houston	to
+compound	Houston	Whitney
+nmod:to	Tribute	Houston

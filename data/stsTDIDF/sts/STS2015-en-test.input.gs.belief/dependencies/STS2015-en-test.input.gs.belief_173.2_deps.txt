@@ -1,0 +1,14 @@
+nsubj	's	it
+root	ROOT	's
+nsubj	cause	whether
+cc	not	or
+cc	whether	not
+amod	rhetoric	political
+conj:not	whether	rhetoric
+aux	cause	can
+ccomp	's	cause
+dobj	cause	people
+mark	do	to
+acl	people	do
+dobj	do	violence
+punct	's	.

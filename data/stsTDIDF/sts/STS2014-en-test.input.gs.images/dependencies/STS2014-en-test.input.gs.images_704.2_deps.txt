@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	looking
+case	motorcycle	at
+det	motorcycle	a
+amod	motorcycle	red
+nmod:at	looking	motorcycle
+punct	man	.

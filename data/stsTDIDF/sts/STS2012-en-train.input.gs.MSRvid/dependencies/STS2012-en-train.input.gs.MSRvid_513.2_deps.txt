@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+cc	sitting	and
+conj:and	sitting	playing
+det	guitar	a
+amod	guitar	small
+dobj	playing	guitar
+punct	sitting	.

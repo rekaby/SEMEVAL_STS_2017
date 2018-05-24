@@ -1,0 +1,9 @@
+ROOT	water	root
+has	shirt	dobj
+water	girls	nsubj
+shirt	white	amod
+girls	The	det
+water	.	punct
+water	has	conj:and
+water	are	cop
+girls	two	nummod

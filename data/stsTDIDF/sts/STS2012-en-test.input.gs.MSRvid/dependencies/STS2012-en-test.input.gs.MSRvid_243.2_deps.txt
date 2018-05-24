@@ -1,0 +1,9 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	piece	a
+dobj	eating	piece
+case	bread	of
+nmod:of	piece	bread
+punct	eating	.

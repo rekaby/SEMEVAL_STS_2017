@@ -1,0 +1,14 @@
+det	crowd	The
+nsubj	cheers	crowd
+root	ROOT	cheers
+case	breakdancer	on
+det	breakdancer	the
+nmod:on	cheers	breakdancer
+mark	shows	as
+nsubj	shows	he
+advcl	cheers	shows
+compound:prt	shows	off
+nmod:poss	moves	his
+compound	moves	dance
+dobj	shows	moves
+punct	cheers	.

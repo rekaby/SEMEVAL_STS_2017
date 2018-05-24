@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	runs	dog
+root	ROOT	runs
+case	field	through
+det	field	a
+nmod:through	runs	field
+acl	field	chasing
+det	ball	a
+dobj	chasing	ball
+punct	runs	.

@@ -1,0 +1,7 @@
+nsubj	stops	It
+root	ROOT	stops
+det	flow	the
+dobj	stops	flow
+case	electricity	of
+nmod:of	flow	electricity
+punct	stops	.

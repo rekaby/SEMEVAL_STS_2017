@@ -1,0 +1,13 @@
+nsubj	ask	You
+aux	ask	should
+advmod	ask	just
+root	ROOT	ask
+nmod:poss	boss	your
+dobj	ask	boss
+dobj	wants	what
+nsubj	wants	he
+acl:relcl	boss	wants
+dobj	wants	you
+mark	do	to
+xcomp	wants	do
+punct	ask	.

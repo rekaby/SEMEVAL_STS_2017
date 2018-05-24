@@ -1,0 +1,10 @@
+root	ROOT	provide
+case	covering	with
+det	covering	a
+nmod:with	provide	covering
+cc	covering	or
+conj:or	covering	cause
+mark	covered	to
+auxpass	covered	be
+xcomp	cause	covered
+punct	provide	.

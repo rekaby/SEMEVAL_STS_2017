@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+root	ROOT	dog
+acl	dog	playing
+case	sand	in
+det	sand	the
+nmod:in	playing	sand
+punct	dog	.

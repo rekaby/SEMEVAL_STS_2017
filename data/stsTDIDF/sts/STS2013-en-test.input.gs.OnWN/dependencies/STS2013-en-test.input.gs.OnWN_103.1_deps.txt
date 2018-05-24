@@ -1,0 +1,11 @@
+det	shape	the
+root	ROOT	shape
+case	wave	of
+det	wave	a
+nmod:of	shape	wave
+case	period	in
+det	period	a
+amod	period	given
+nmod:in	shape	period
+case	time	of
+nmod:of	period	time

@@ -1,0 +1,16 @@
+advmod	's	Here
+root	ROOT	's
+det	technique	a
+nsubj	's	technique
+nsubj	developed	I
+aux	developed	've
+acl:relcl	technique	developed
+mark	aware	without
+cop	aware	being
+advcl	developed	aware
+case	it	of
+nmod:of	aware	it
+punct	technique	:
+amod	Browsers	Multiple
+dep	technique	Browsers
+punct	's	.

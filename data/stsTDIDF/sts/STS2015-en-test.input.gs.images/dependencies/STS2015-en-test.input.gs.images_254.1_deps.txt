@@ -1,0 +1,11 @@
+det	dog	The
+compound	dog	#
+nummod	dog	2
+compound	dog	greyhound
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+compound:prt	running	around
+det	track	a
+dobj	running	track
+punct	running	.

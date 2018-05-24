@@ -1,0 +1,11 @@
+pull	net	nmod:in
+boat	getting	acl
+net	in	case
+pull	see	xcomp
+caught	what	dobj
+see	caught	ccomp
+caught	he	nsubj
+boat	on	case
+man	boat	nmod:on
+ready	pull	xcomp
+net	his	nmod:poss

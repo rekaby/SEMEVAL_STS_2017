@@ -1,0 +1,7 @@
+det	television	A
+root	ROOT	television
+case	show	with
+det	show	a
+nmod:with	television	show
+acl	show	on
+punct	television	.

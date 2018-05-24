@@ -1,0 +1,17 @@
+det	couple	A
+nsubj	sitting	couple
+aux	sitting	is
+root	ROOT	sitting
+case	grass	on
+det	grass	the
+nmod:on	sitting	grass
+case	feet	with
+nmod:poss	feet	their
+nmod:with	sitting	feet
+acl	feet	crossed
+punct	sitting	,
+cc	sitting	and
+nsubj	kissing	they
+aux	kissing	are
+conj:and	sitting	kissing
+punct	sitting	.

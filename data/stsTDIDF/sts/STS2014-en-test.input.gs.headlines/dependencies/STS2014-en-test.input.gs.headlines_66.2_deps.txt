@@ -1,0 +1,6 @@
+nsubj	launches	Israel
+root	ROOT	launches
+amod	airstrike	new
+dobj	launches	airstrike
+case	Syria	against
+nmod:against	airstrike	Syria

@@ -1,0 +1,6 @@
+root	ROOT	trace
+det	form	the
+dobj	trace	form
+cc	form	or
+conj:or	form	outline
+dep	trace	of

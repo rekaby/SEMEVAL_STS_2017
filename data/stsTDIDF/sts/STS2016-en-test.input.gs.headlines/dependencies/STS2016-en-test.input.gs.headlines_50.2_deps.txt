@@ -1,0 +1,9 @@
+compound	diamond	White
+nsubj	fetches	diamond
+root	ROOT	fetches
+dobj	fetches	record
+dobj	record	$
+nummod	$	34m
+case	auction	at
+amod	auction	HK
+nmod:at	$	auction

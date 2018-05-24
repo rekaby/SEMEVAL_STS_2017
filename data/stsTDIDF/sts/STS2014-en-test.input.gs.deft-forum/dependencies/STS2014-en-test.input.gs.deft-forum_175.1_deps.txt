@@ -1,0 +1,8 @@
+det	problem	the
+root	ROOT	problem
+dep	problem	is
+neg	is	n't
+nsubj	has	who
+dep	n't	has
+dobj	has	money
+punct	problem	.

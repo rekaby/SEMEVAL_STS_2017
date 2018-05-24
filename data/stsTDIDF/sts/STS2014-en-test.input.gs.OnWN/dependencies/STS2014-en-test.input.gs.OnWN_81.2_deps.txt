@@ -1,0 +1,7 @@
+root	ROOT	disentangle
+cc	disentangle	and
+conj:and	disentangle	raise
+det	fibers	the
+dep	disentangle	fibers
+acl	fibers	of
+punct	disentangle	.

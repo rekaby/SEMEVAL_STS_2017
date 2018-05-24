@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	stealing	dog
+aux	stealing	is
+root	ROOT	stealing
+dobj	stealing	food
+case	refrigerator	from
+det	refrigerator	a
+nmod:from	stealing	refrigerator
+punct	stealing	.

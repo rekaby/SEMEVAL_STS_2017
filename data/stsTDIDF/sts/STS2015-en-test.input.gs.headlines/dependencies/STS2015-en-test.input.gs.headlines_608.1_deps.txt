@@ -1,0 +1,9 @@
+compound	Palestinians	Israel
+compound	Palestinians	sanctions
+nsubj	talks	Palestinians
+case	blow	in
+amod	blow	new
+nmod:in	Palestinians	blow
+case	peace	to
+nmod:to	blow	peace
+root	ROOT	talks

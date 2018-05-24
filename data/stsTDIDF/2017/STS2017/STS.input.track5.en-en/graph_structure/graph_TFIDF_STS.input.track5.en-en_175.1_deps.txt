@@ -1,0 +1,9 @@
+wares	her	nmod:poss
+buying	is	aux
+buying	one	nsubj
+lady	The	det
+buying	because	mark
+looks	buying	advcl
+buying	wares	dobj
+looks	lady	nsubj
+looks	sad	xcomp

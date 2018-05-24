@@ -1,0 +1,5 @@
+mud	a	det
+runs	dog	nsubj
+mud	through	case
+runs	mud	nmod:through
+runs	puddle	dobj

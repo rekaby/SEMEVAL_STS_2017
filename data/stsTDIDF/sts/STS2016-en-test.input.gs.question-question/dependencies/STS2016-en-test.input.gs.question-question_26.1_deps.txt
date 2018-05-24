@@ -1,0 +1,11 @@
+aux	connect	Can
+nsubj	connect	I
+root	ROOT	connect
+nummod	lines	two
+compound	lines	load
+dobj	connect	lines
+case	receptacle	to
+det	receptacle	a
+compound	receptacle	GFCI
+nmod:to	connect	receptacle
+punct	connect	?

@@ -1,0 +1,14 @@
+compound	authorities	durban
+compound	authorities	port
+nsubjpass	reached	authorities
+cc	authorities	and
+compound	inspectors	police
+compound	inspectors	explosives
+conj:and	authorities	inspectors
+aux	reached	could
+neg	reached	not
+auxpass	reached	be
+root	ROOT	reached
+case	comment	for
+nmod:for	reached	comment
+punct	reached	.

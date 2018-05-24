@@ -1,0 +1,13 @@
+advmod	link	here
+cop	link	's
+det	link	a
+root	ROOT	link
+case	interview	to
+det	interview	an
+nmod:to	link	interview
+nsubj	gave	he
+acl:relcl	interview	gave
+case	spill	about
+det	spill	the
+nmod:about	gave	spill
+punct	link	.

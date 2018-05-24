@@ -1,0 +1,9 @@
+advmod	Fared	How
+det	Average	the
+compound	Average	Dow
+compound	Average	Jones
+compound	Average	Industrial
+nsubj	Fared	Average
+root	ROOT	Fared
+case	Monday	on
+nmod:on	Fared	Monday

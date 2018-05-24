@@ -1,0 +1,14 @@
+det	circuit	an
+amod	circuit	incomplete
+nsubj	effect	circuit
+aux	effect	would
+neg	effect	not
+root	ROOT	effect
+det	state	the
+det	state	the
+amod	state	electrical
+dobj	effect	state
+case	terminals	between
+det	terminals	the
+nmod:between	effect	terminals
+punct	effect	.

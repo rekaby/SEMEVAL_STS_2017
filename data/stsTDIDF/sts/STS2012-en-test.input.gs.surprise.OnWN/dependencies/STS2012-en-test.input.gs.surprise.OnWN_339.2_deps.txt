@@ -1,0 +1,9 @@
+det	implement	an
+root	ROOT	implement
+acl	implement	consisting
+case	length	of
+det	length	a
+nmod:of	consisting	length
+case	wood	of
+nmod:of	length	wood
+punct	implement	.

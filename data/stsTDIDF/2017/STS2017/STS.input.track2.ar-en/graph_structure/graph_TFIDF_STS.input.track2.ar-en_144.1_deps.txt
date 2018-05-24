@@ -1,0 +1,8 @@
+sweet	is	cop
+sweet	food	nsubj
+eating	is	aux
+food	The	det
+eating	child	nsubj
+ROOT	sweet	root
+sweet	.	punct
+food	eating	acl:relcl

@@ -1,0 +1,14 @@
+advmod	happens	However
+punct	happens	,
+det	process	a
+nsubj	happens	process
+case	experience	of
+compound	experience	désinstitutionalisation
+nmod:of	process	experience
+case	religious	of
+nmod:of	experience	religious
+advmod	happens	also
+root	ROOT	happens
+case	Islam	within
+nmod:within	happens	Islam
+punct	happens	.

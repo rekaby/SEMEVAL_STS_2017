@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	brown
+nsubj	laying	dog
+aux	laying	is
+root	ROOT	laying
+compound:prt	laying	down
+case	sheet	on
+det	sheet	a
+amod	sheet	blue
+nmod:on	laying	sheet
+punct	laying	.

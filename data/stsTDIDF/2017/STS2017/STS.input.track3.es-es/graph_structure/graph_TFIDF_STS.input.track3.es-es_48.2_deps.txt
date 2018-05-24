@@ -1,0 +1,6 @@
+jacket	red	amod
+jacket	climbing	acl
+climbing	mountain	dobj
+mountain	a	det
+man	jacket	nmod:in
+jacket	in	case

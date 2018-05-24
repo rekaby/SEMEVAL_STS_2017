@@ -1,0 +1,18 @@
+compound	Schumer	Senator
+nsubj	Says	Schumer
+root	ROOT	Says
+compound	Satisfied	He?s
+dobj	Says	Satisfied
+case	Hagel	With
+compound	Hagel	Chuck
+nmod:with	Satisfied	Hagel
+case	Mideast	on
+det	Mideast	the
+nmod:on	Hagel	Mideast
+punct	Says	.-12) nmod:poss(endorsement-2, His
+nsubj	settle	endorsement
+aux	settle	should
+root	ROOT	settle
+det	issue	that
+dobj	settle	issue
+punct	settle	.

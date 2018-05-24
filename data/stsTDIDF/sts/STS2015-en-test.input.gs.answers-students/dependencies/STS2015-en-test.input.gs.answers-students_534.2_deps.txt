@@ -1,0 +1,7 @@
+compound	B	Bulb
+nsubj	path	B
+cop	path	is
+case	path	in
+det	path	a
+amod	path	separate
+root	ROOT	path

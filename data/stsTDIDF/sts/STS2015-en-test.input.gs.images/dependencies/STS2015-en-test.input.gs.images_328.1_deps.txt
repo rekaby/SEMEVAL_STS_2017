@@ -1,0 +1,10 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	forest	through
+det	forest	a
+nmod:through	running	forest
+case	time	in
+det	time	the
+compound	time	winter
+nmod:in	running	time

@@ -1,0 +1,15 @@
+nsubjpass	arrested	He
+aux	arrested	had
+auxpass	arrested	been
+root	ROOT	arrested
+advmod	arrested	twice
+case	trespassing	before
+case	trespassing	for
+nmod:for	arrested	trespassing
+cc	arrested	and
+auxpass	barred	was
+conj:and	arrested	barred
+case	complex	from
+det	complex	the
+nmod:from	barred	complex
+punct	arrested	.

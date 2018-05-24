@@ -1,0 +1,10 @@
+nsubj	thought	Discipline
+case	gunman	against
+compound	gunman	student
+nmod:against	Discipline	gunman
+root	ROOT	thought
+mark	sparked	to
+aux	sparked	have
+xcomp	thought	sparked
+compound	shooting	Colorado
+dobj	sparked	shooting

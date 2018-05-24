@@ -1,0 +1,6 @@
+compound	Crashes	Navy
+compound	Crashes	Jet
+root	ROOT	Crashes
+case	Building	Into
+compound	Building	Apartment
+nmod:into	Crashes	Building

@@ -1,0 +1,7 @@
+det	boy	The
+nsubj	riding	boy
+aux	riding	is
+root	ROOT	riding
+det	tricycle	a
+dobj	riding	tricycle
+punct	riding	.

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	dances	man
+root	ROOT	dances
+case	wall	on
+det	wall	a
+amod	wall	colorful
+nmod:on	dances	wall
+punct	dances	.

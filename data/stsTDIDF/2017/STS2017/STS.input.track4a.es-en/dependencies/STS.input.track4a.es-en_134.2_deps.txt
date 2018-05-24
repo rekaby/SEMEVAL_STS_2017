@@ -1,0 +1,9 @@
+det	car	A
+compound	car	race
+nsubj	track	car
+cop	track	is
+case	track	on
+det	track	the
+compound	track	dirt
+root	ROOT	track
+punct	track	.

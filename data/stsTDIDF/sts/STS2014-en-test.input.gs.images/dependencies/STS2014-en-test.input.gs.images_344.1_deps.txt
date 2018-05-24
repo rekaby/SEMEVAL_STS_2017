@@ -1,0 +1,11 @@
+nsubj	posing	Group
+case	people	of
+nmod:of	Group	people
+root	ROOT	posing
+case	men	with
+nummod	men	two
+nmod:with	posing	men
+acl	men	dressed
+case	Elvis	as
+nmod:as	dressed	Elvis
+punct	posing	.

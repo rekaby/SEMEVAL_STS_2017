@@ -1,0 +1,11 @@
+det	girl	The
+root	ROOT	girl
+case	bucket	with
+det	bucket	the
+amod	bucket	blue
+nmod:with	girl	bucket
+dep	bucket	splashes
+case	pier	beneath
+det	pier	the
+nmod:beneath	splashes	pier
+punct	girl	.

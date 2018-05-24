@@ -1,0 +1,16 @@
+advmod	higher	Why
+cop	higher	is
+nmod:npmod	higher	compensation
+advmod	much	so
+advmod	higher	much
+root	ROOT	higher
+case	US	in
+det	US	the
+nmod:in	higher	US
+case	Europe	than
+case	Europe	in
+compound	Europe	Western
+nmod:in	higher	Europe
+case	average	on
+nmod:on	higher	average
+punct	higher	?

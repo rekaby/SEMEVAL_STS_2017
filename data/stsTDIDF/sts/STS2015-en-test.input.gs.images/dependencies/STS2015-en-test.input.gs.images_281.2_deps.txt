@@ -1,0 +1,9 @@
+compound	standing	Man
+cc	Man	and
+conj:and	Man	dog
+root	ROOT	standing
+case	rocks	on
+nmod:on	standing	rocks
+case	water	next
+mwe	next	to
+nmod:next_to	standing	water

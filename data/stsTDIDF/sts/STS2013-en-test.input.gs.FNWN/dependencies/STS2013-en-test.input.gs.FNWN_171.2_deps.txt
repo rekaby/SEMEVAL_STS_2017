@@ -1,0 +1,8 @@
+root	ROOT	animation
+cc	animation	and
+conj:and	animation	energy
+case	action	in
+nmod:in	animation	action
+cc	action	or
+conj:or	action	expression
+punct	animation	;

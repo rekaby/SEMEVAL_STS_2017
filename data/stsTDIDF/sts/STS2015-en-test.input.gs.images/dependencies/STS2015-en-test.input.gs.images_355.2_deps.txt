@@ -1,0 +1,11 @@
+det	playfully	A
+compound	playfully	pet
+nsubj	investigates	playfully
+root	ROOT	investigates
+det	contents	the
+dobj	investigates	contents
+case	bag	of
+det	bag	a
+compound	bag	gift
+nmod:of	contents	bag
+punct	investigates	.

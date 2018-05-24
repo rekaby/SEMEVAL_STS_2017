@@ -1,0 +1,7 @@
+aux	answer	Does
+det	page	this
+nsubj	answer	page
+root	ROOT	answer
+nmod:poss	question	your
+dobj	answer	question
+punct	answer	?

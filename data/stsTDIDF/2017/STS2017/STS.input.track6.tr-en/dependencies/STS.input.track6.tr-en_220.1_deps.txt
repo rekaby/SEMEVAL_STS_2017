@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+nmod:in	man	suit
+case	stoplight	by
+det	stoplight	a
+nmod:by	man	stoplight
+punct	man	.

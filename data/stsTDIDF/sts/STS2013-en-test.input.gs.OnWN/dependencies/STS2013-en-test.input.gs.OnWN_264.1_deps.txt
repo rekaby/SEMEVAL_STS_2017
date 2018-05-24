@@ -1,0 +1,7 @@
+det	condition	the
+amod	condition	apparent
+root	ROOT	condition
+cc	condition	or
+conj:or	condition	state
+case	something	of
+nmod:of	condition	something

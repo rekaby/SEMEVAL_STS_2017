@@ -1,0 +1,8 @@
+amod	woman	Smiling
+root	ROOT	woman
+acl	woman	sitting
+xcomp	sitting	wearing
+det	hat	a
+amod	hat	viking
+dobj	wearing	hat
+punct	woman	.

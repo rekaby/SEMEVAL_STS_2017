@@ -1,0 +1,7 @@
+punct	guru	'
+amod	guru	4-hour
+punct	guru	'
+compound	guru	work
+root	ROOT	guru
+case	outsourcer	on
+nmod:on	guru	outsourcer

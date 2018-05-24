@@ -1,0 +1,15 @@
+det	Democrats	The
+compound	Democrats	New
+nsubj	renewed	Democrats
+advmod	renewed	also
+root	ROOT	renewed
+nmod:poss	commitment	their
+dobj	renewed	commitment
+case	privatization	to
+neg	privatization	no
+compound	privatization	health-care
+nmod:to	commitment	privatization
+cc	renewed	and
+neg	premiums	no
+conj:and	renewed	premiums
+punct	renewed	.

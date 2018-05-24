@@ -1,0 +1,11 @@
+det	women	The
+nummod	women	two
+nsubj	jumping	women
+aux	jumping	are
+root	ROOT	jumping
+compound:prt	jumping	up
+cc	jumping	and
+case	beach	down
+det	beach	the
+conj:and	jumping	beach
+punct	jumping	.

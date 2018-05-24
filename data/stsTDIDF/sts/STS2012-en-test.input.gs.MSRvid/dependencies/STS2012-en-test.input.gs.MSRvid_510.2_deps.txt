@@ -1,0 +1,6 @@
+det	gorilla	A
+nsubj	plays	gorilla
+root	ROOT	plays
+det	drums	the
+dobj	plays	drums
+punct	plays	.

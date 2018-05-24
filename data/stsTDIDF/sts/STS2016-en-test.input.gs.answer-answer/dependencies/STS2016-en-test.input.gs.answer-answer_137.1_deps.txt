@@ -1,0 +1,10 @@
+nsubj	problem	That
+cop	problem	is
+nmod:poss	problem	your
+root	ROOT	problem
+punct	problem	,
+neg	supervisor	not
+nmod:poss	supervisor	your
+appos	problem	supervisor
+case	supervisor	's
+punct	problem	.

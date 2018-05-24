@@ -1,0 +1,5 @@
+work	restaurant	nmod:in
+girls	The	det
+new	girls	nsubj
+girls	work	acl:relcl
+girls	two	nummod

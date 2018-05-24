@@ -1,0 +1,6 @@
+compound	president	Afghan
+nsubj	approves	president
+root	ROOT	approves
+amod	law	new
+compound	law	electon
+dobj	approves	law

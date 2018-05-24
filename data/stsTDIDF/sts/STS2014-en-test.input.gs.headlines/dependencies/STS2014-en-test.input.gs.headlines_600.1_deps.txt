@@ -1,0 +1,10 @@
+root	ROOT	10
+advmod	injured	dead
+punct	injured	,
+nsubj	injured	five
+acl	10	injured
+case	accident	in
+compound	accident	SW
+compound	accident	China
+compound	accident	road
+nmod:in	injured	accident

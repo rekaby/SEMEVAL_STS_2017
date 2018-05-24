@@ -1,0 +1,17 @@
+expl	's	There
+root	ROOT	's
+advmod	one	only
+nummod	person	one
+nsubj	's	person
+acl	person	walking
+case	street	in
+det	street	the
+nmod:in	walking	street
+acl	street	wondering
+advmod	going	where
+det:predet	people	all
+det	people	the
+nsubj	going	people
+aux	going	are
+advcl	wondering	going
+punct	's	.

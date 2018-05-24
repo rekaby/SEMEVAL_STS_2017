@@ -1,0 +1,7 @@
+det	person	A
+nsubj	sleeping	person
+aux	sleeping	is
+root	ROOT	sleeping
+case	home	at
+nmod:at	sleeping	home
+punct	sleeping	.

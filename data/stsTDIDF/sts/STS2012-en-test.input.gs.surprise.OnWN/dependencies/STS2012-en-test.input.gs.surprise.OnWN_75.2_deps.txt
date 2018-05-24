@@ -1,0 +1,7 @@
+det	executive	the
+amod	executive	chief
+root	ROOT	executive
+case	republic	of
+det	republic	a
+nmod:of	executive	republic
+punct	executive	.

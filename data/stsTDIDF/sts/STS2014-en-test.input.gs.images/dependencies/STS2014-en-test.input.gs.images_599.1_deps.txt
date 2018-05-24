@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	women
+acl	man	sitting
+case	sofa	on
+det	sofa	a
+nmod:on	sitting	sofa
+acl	sofa	holding
+det	baby	a
+amod	baby	small
+dobj	holding	baby
+punct	man	.

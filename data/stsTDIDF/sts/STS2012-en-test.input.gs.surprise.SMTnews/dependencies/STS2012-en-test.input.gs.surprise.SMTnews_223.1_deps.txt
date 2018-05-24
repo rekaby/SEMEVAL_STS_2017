@@ -1,0 +1,13 @@
+nsubj	believed	Tocqueville
+root	ROOT	believed
+mark	are	that
+expl	are	there
+ccomp	believed	are
+neg	constraints	no
+amod	constraints	effective
+amod	constraints	long-term
+nsubj	are	constraints
+case	tendency	on
+det	tendency	this
+nmod:on	constraints	tendency
+punct	believed	.

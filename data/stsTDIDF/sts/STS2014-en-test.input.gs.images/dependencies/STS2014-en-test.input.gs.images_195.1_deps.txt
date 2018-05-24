@@ -1,0 +1,9 @@
+nsubj	walking	Brown
+cc	Brown	and
+amod	ducks	white
+conj:and	Brown	ducks
+root	ROOT	walking
+case	grass	on
+amod	grass	green
+nmod:on	walking	grass
+punct	walking	.

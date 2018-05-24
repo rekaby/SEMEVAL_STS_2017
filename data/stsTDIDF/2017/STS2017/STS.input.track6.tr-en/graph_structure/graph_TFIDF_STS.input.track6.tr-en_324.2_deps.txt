@@ -1,0 +1,4 @@
+walking	house	nmod:out_of
+walking	is	aux
+house	out	case
+walking	man	nsubj

@@ -1,0 +1,7 @@
+root	ROOT	remove
+case	position	from
+det	position	a
+nmod:from	remove	position
+cc	position	or
+conj:or	position	office
+punct	remove	.

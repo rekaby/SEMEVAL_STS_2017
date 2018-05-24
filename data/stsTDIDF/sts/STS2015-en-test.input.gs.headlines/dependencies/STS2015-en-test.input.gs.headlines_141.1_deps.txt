@@ -1,0 +1,9 @@
+compound	Agency	Chinese
+compound	Agency	News
+nsubj	Slams	Agency
+root	ROOT	Slams
+dobj	Slams	Delays
+case	Search	in
+nmod:in	Slams	Search
+case	Jet	for
+nmod:for	Search	Jet

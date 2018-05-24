@@ -1,0 +1,9 @@
+amod	downfall	social
+cc	social	or
+conj:or	social	economic
+root	ROOT	downfall
+case	someone	of
+nmod:of	downfall	someone
+cc	someone	or
+det	group	a
+conj:or	someone	group

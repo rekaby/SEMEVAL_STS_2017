@@ -1,0 +1,9 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	talking
+case	man	with
+det	man	another
+nmod:with	talking	man
+case	balcony	in
+det	balcony	the
+nmod:in	talking	balcony

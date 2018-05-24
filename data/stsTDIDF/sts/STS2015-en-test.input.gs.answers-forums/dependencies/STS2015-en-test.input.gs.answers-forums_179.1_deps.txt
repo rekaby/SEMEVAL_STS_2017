@@ -1,0 +1,13 @@
+nmod:poss	son	My
+nsubj	become	son
+aux	become	did
+neg	become	n't
+root	ROOT	become
+nsubj	trained	potty
+xcomp	become	trained
+case	birthday	until
+case	birthday	about
+nmod:poss	birthday	his
+amod	birthday	4th
+nmod:about	trained	birthday
+punct	become	.

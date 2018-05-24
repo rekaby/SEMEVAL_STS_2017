@@ -1,0 +1,5 @@
+nsubj	allows	Java
+root	ROOT	allows
+compound	inheritance	object
+dobj	allows	inheritance
+punct	allows	.

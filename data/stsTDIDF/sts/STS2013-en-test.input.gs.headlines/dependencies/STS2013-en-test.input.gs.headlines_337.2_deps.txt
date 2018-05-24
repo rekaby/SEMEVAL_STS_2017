@@ -1,0 +1,7 @@
+nsubj	demands	Syria
+root	ROOT	demands
+amod	guarantee	written
+dobj	demands	guarantee
+case	pullback	for
+compound	pullback	troop
+nmod:for	guarantee	pullback

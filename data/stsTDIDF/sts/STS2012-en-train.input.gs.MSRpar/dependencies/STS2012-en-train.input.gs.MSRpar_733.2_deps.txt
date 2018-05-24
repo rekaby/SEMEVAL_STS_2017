@@ -1,0 +1,15 @@
+nsubj	died	McCloskey
+root	ROOT	died
+compound	afternoon	Sunday
+nmod:tmod	died	afternoon
+case	home	in
+nmod:poss	home	his
+nmod:in	died	home
+case	battle	after
+det	battle	a
+amod	battle	year-long
+nmod:after	died	battle
+case	cancer	with
+compound	cancer	bladder
+nmod:with	battle	cancer
+punct	died	.

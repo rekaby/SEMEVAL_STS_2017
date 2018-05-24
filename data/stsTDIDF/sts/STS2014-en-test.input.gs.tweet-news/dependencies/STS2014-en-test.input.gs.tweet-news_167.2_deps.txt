@@ -1,0 +1,11 @@
+compound	Legislators	New
+compound	Legislators	York
+nsubj	Hope	Legislators
+root	ROOT	Hope
+case	Vote	for
+compound	Vote	Speedy
+nmod:for	Hope	Vote
+case	Laws	on
+compound	Laws	New
+compound	Laws	Gun
+nmod:on	Vote	Laws

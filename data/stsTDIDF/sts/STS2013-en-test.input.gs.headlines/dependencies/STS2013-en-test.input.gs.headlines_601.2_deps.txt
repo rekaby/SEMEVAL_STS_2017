@@ -1,0 +1,12 @@
+compound	Washington	George
+nmod:poss	copy	Washington
+case	Washington	's
+nsubj	sells	copy
+case	Constitution	of
+compound	Constitution	US
+nmod:of	copy	Constitution
+root	ROOT	sells
+case	$	for
+nmod:for	sells	$
+nummod	$	9.8
+nmod:npmod	$	m

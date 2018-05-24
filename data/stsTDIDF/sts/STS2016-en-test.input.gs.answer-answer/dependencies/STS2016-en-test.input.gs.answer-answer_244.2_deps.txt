@@ -1,0 +1,13 @@
+neg	answer	Not
+det	answer	a
+amod	answer	real
+root	ROOT	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+punct	answer	,
+cc	answer	but
+advmod	helps	maybe
+nsubj	helps	it
+conj:but	answer	helps
+punct	answer	.

@@ -1,0 +1,14 @@
+compound	Editorial	NYT
+root	ROOT	Editorial
+punct	Editorial	:
+dobj	Know	What
+nsubj	Know	We
+aux	Know	Do
+neg	Know	n't
+dep	Killing	Know
+aux	Killing	Is
+dep	Editorial	Killing
+compound	#guns	Us
+amod	#guns	#research
+nsubj	#violence	#guns
+dep	Killing	#violence

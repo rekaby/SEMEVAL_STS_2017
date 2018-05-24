@@ -1,0 +1,6 @@
+det	baby	A
+nsubj	eats	baby
+root	ROOT	eats
+nmod:poss	food	his
+dobj	eats	food
+punct	eats	.

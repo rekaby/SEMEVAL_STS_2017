@@ -1,0 +1,7 @@
+det	baby	A
+nsubj	holds	baby
+root	ROOT	holds
+det	packet	a
+compound	packet	ketchup
+dobj	holds	packet
+punct	holds	.

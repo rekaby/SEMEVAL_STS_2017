@@ -1,0 +1,10 @@
+nsubj	rip	Tornadoes
+root	ROOT	rip
+case	Midwest	through
+nmod:through	rip	Midwest
+punct	rip	,
+advcl	rip	killing
+dobj	killing	6
+cc	killing	and
+conj:and	killing	devastating
+dobj	killing	neighborhoods

@@ -1,0 +1,6 @@
+nsubj	prepare	Obama
+punct	Obama	,
+nsubj	prepare	Romney
+root	ROOT	prepare
+mark	debate	to
+xcomp	prepare	debate

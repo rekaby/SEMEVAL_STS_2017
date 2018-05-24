@@ -1,0 +1,7 @@
+shuttle	space	compound
+flying	.	punct
+shuttle	a	det
+flying	man	nsubj
+flying	is	aux
+ROOT	flying	root
+flying	shuttle	dobj

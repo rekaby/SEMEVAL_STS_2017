@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	opens	woman
+case	hatch	in
+det	hatch	the
+nmod:in	woman	hatch
+root	ROOT	opens
+nmod:poss	wallet	her
+dobj	opens	wallet
+punct	opens	.

@@ -1,0 +1,16 @@
+punct	tennis	-LRB-
+root	ROOT	tennis
+punct	tennis	-RRB-
+det	score	a
+dep	tennis	score
+acl	score	consisting
+mark	winning	of
+advcl	consisting	winning
+det	game	a
+dobj	winning	game
+advmod	serving	when
+nmod:poss	opponent	your
+nsubj	serving	opponent
+aux	serving	was
+advcl	winning	serving
+punct	tennis	.

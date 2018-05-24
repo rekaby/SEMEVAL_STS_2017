@@ -1,0 +1,6 @@
+nsubj	return	Residents
+root	ROOT	return
+case	site	to
+compound	site	Texas
+compound	site	blast
+nmod:to	return	site

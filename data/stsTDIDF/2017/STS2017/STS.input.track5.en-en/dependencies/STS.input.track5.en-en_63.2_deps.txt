@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	take	boy
+aux	take	is
+mark	take	about
+mark	take	to
+root	ROOT	take
+det	picture	a
+dobj	take	picture
+punct	take	.

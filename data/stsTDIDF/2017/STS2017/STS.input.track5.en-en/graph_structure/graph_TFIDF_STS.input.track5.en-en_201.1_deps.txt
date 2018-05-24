@@ -1,0 +1,7 @@
+rebound	the	det
+player	basketball	compound
+makes	player	nsubj
+rebound	night	nmod:of
+rebound	5th	amod
+makes	rebound	dobj
+player	A	det

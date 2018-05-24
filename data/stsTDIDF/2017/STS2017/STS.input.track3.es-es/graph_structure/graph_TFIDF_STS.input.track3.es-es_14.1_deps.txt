@@ -1,0 +1,8 @@
+forest	covered	acl
+Cyclist	night	nmod:at
+forest	a	det
+forest	in	case
+ROOT	Cyclist	root
+snow	with	case
+Cyclist	forest	nmod:in
+covered	snow	nmod:with

@@ -1,0 +1,13 @@
+mark	circuit	because
+det	paths	the
+nsubj	circuit	paths
+cop	circuit	were
+advmod	circuit	still
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+root	ROOT	circuit
+case	terminal	with
+det	terminal	the
+compound	terminal	battery
+nmod:with	circuit	terminal

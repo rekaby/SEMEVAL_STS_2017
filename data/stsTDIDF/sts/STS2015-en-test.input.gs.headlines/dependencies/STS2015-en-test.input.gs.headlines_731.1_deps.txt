@@ -1,0 +1,12 @@
+nummod	people	Four
+amod	people	more
+nsubj	arrested	people
+root	ROOT	arrested
+case	syndicate	over
+nmod:poss	syndicate	Australia
+case	Australia	's
+amod	syndicate	largest
+amod	syndicate	illegal
+compound	syndicate	tobacco
+compound	syndicate	importation
+nmod:over	arrested	syndicate

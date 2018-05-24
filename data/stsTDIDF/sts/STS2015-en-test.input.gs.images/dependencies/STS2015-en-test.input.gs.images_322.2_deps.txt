@@ -1,0 +1,7 @@
+det	dog	a
+nsubj	runs	dog
+root	ROOT	runs
+case	grass	across
+det	grass	the
+nmod:across	runs	grass
+punct	runs	.

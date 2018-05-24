@@ -1,0 +1,11 @@
+nsubj	clash	Protesters
+advcl	detained	clash
+case	police	with
+nmod:with	clash	police
+case	Mantar	at
+compound	Mantar	Jantar
+nmod:at	detained	Mantar
+punct	Mantar	,
+nummod	people	5
+nsubj	detained	people
+root	ROOT	detained

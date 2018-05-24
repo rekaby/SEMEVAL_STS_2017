@@ -1,0 +1,12 @@
+auxpass	reflected	Be
+root	ROOT	reflected
+case	heat	as
+nmod:as	reflected	heat
+punct	heat	,
+conj:or	heat	light
+punct	heat	,
+cc	heat	or
+compound	waves	shock
+conj:or	heat	waves
+punct	reflected	;
+punct	reflected	.

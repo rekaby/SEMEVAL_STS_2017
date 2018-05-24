@@ -1,0 +1,6 @@
+walk	day	nmod:during
+day	sunny	amod
+walk	People	nsubj
+walk	street	nmod:down
+street	down	case
+day	during	case

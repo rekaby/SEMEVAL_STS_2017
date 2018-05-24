@@ -1,0 +1,16 @@
+amod	Minister	Best
+root	ROOT	Minister
+punct	Minister	,
+conj:and	Minister	Scrimshaw
+punct	Minister	,
+cc	Minister	and
+nummod	Most	Ten
+nsubj	Wanted	Most
+conj:and	Minister	Wanted
+nsubj	had	all
+ccomp	Wanted	had
+dobj	had	workouts
+case	morning	on
+compound	morning	Monday
+nmod:on	had	morning
+punct	Minister	.

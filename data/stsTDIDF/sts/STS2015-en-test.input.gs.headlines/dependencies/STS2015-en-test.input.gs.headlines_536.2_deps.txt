@@ -1,0 +1,11 @@
+amod	Muslims	Asian
+nsubj	celebrate	Muslims
+root	ROOT	celebrate
+dobj	celebrate	Eid
+case	die	as
+nummod	die	52
+nmod:as	celebrate	die
+case	Pakistan	in
+nmod:in	die	Pakistan
+punct	celebrate	,
+dobj	celebrate	Afghanistan

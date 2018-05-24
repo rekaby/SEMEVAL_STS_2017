@@ -1,0 +1,7 @@
+root	ROOT	cause
+dobj	cause	friction
+punct	cause	;
+dep	cause	wear
+advmod	wear	away
+cc	wear	or
+conj:or	wear	erode

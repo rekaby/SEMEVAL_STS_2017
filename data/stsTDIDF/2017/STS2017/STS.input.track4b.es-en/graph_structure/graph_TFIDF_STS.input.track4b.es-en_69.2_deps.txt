@@ -1,0 +1,7 @@
+says	time	ccomp
+time	military	nmod:for
+modernize	well	advmod
+says	Burke	nsubj
+military	for	case
+modernize	to	mark
+military	modernize	acl

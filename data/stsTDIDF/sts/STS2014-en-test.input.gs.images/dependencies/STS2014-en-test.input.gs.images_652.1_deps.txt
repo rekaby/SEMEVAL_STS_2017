@@ -1,0 +1,11 @@
+det	ship	A
+compound	ship	cruise
+nsubj	area	ship
+cop	area	is
+case	area	in
+mwe	in	front
+mwe	in	of
+det	area	a
+compound	area	docking
+root	ROOT	area
+punct	area	.

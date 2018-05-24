@@ -1,0 +1,7 @@
+det	person	A
+root	ROOT	person
+nsubj	provides	who
+acl:relcl	person	provides
+det	concert	a
+dobj	provides	concert
+punct	person	.

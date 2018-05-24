@@ -1,0 +1,17 @@
+root	ROOT	demand
+dep	demand	as
+dep	as	being
+xcomp	being	one
+case	one	's
+amod	one	due
+cc	due	or
+conj:or	due	property
+punct	being	;
+dep	being	assert
+nmod:poss	right	one
+case	one	's
+dobj	assert	right
+cc	right	or
+conj:or	right	title
+dep	right	to
+punct	demand	.

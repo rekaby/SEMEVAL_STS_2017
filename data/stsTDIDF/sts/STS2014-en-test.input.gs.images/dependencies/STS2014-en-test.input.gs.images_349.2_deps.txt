@@ -1,0 +1,8 @@
+nummod	planes	Four
+amod	planes	blue
+cc	blue	and
+conj:and	blue	yellow
+root	ROOT	planes
+case	flight	in
+nmod:in	planes	flight
+punct	planes	.

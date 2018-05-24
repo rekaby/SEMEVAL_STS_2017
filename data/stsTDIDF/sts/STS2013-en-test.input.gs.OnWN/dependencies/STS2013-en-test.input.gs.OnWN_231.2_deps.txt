@@ -1,0 +1,9 @@
+root	ROOT	cause
+mark	turn	to
+xcomp	cause	turn
+compound:prt	turn	on
+det	axis	an
+dobj	turn	axis
+cc	axis	or
+conj:or	axis	center
+punct	cause	.

@@ -1,0 +1,9 @@
+drinking	juice	dobj
+drinking	.	punct
+drinking	men	nsubj
+ROOT	drinking	root
+beach	while	case
+drinking	are	aux
+juice	apple	compound
+drinking	beach	nmod:on
+men	Three	nummod

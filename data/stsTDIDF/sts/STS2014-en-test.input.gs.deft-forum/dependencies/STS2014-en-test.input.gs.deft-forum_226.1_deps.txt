@@ -1,0 +1,9 @@
+det	point	The
+nsubj	child	point
+cop	child	is
+det	child	an
+amod	child	unarmed
+nsubjpass	murdered	child
+auxpass	murdered	was
+root	ROOT	murdered
+punct	murdered	.

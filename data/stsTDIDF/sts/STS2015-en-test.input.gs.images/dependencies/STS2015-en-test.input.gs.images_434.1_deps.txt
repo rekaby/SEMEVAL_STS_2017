@@ -1,0 +1,12 @@
+det	racing	a
+amod	racing	red
+cc	red	and
+conj:and	red	white
+compound	racing	race
+compound	racing	car
+root	ROOT	racing
+case	racetrack	on
+det	racetrack	a
+compound	racetrack	dirt
+nmod:on	racing	racetrack
+punct	racing	.

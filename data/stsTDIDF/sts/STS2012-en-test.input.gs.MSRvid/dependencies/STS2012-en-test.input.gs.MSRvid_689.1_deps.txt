@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	speaking	woman
+aux	speaking	is
+root	ROOT	speaking
+case	language	in
+compound	language	sign
+nmod:in	speaking	language
+punct	speaking	.

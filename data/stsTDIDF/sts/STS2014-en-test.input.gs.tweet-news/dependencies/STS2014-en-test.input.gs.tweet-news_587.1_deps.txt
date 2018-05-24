@@ -1,0 +1,9 @@
+nsubj	driving	what
+aux	driving	is
+root	ROOT	driving
+nmod:poss	growth	our
+dobj	driving	growth
+case	spending	in
+compound	spending	government
+nmod:in	driving	spending
+dep	driving	#facts

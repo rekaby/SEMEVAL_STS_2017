@@ -1,0 +1,10 @@
+det	bus	A
+advmod	decker	doubly
+amod	bus	decker
+amod	bus	red
+root	ROOT	bus
+acl	bus	driving
+compound:prt	driving	down
+det	road	the
+dobj	driving	road
+punct	bus	.

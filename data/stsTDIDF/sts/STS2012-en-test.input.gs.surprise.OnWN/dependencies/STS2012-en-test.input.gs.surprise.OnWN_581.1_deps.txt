@@ -1,0 +1,9 @@
+root	ROOT	make
+det	connection	a
+amod	connection	causal
+cc	causal	or
+conj:or	causal	logical
+dobj	make	connection
+punct	make	;
+nmod:npmod	together	group
+advmod	make	together

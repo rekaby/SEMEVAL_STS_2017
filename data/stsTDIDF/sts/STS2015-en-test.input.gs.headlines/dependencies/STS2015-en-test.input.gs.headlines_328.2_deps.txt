@@ -1,0 +1,7 @@
+amod	Gillard	Australian
+compound	Gillard	PM
+nsubj	ousted	Gillard
+root	ROOT	ousted
+case	leadership	in
+nmod:in	ousted	leadership
+dobj	ousted	vote

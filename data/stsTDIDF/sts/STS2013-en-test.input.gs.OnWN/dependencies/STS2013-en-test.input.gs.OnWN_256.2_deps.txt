@@ -1,0 +1,8 @@
+root	ROOT	cause
+mark	come	to
+xcomp	cause	come
+compound:prt	come	out
+case	squirt	in
+det	squirt	a
+nmod:in	come	squirt
+punct	cause	.

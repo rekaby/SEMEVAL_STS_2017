@@ -1,0 +1,9 @@
+compound	Ishikawa	Ryo
+nsubj	Get	Ishikawa
+cc	Ishikawa	and
+compound	Wiratchant	Thaworn
+conj:and	Ishikawa	Wiratchant
+root	ROOT	Get
+dobj	Get	Invites
+case	Masters	to
+nmod:to	Invites	Masters

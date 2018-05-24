@@ -1,0 +1,5 @@
+root	ROOT	write
+det	program	a
+compound	program	computer
+dobj	write	program
+punct	write	.

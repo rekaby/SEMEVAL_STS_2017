@@ -1,0 +1,10 @@
+det	group	A
+nsubj	playing	group
+case	children	of
+nmod:of	group	children
+aux	playing	are
+root	ROOT	playing
+case	water	in
+det	water	the
+nmod:in	playing	water
+punct	playing	.

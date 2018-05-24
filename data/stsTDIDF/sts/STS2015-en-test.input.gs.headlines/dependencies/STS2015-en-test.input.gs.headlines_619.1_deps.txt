@@ -1,0 +1,7 @@
+nsubj	announces	Obama
+root	ROOT	announces
+compound	hubs	creation
+case	manufacturing	of
+amod	manufacturing	twin
+nmod:of	creation	manufacturing
+dobj	announces	hubs

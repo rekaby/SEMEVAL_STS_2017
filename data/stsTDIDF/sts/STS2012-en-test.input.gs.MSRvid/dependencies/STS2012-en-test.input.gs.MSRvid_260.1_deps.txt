@@ -1,0 +1,6 @@
+det	man	A
+nsubj	paper	man
+cop	paper	is
+amod	paper	folding
+root	ROOT	paper
+punct	paper	.

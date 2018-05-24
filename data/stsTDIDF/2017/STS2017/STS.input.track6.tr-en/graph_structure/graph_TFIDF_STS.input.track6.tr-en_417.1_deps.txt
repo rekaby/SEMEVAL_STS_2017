@@ -1,0 +1,10 @@
+area	walls	nmod:with
+discussion	outdoors	amod
+men	older	amod
+walls	and	cc
+outdoors	area	nmod:in
+having	men	nsubj
+walls	stone	compound
+walls	with	case
+walls	floor	conj:and
+having	discussion	dobj

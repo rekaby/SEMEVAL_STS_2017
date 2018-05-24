@@ -1,0 +1,14 @@
+punct	leaves	`
+dep	leaves	Ready
+mark	go	to
+xcomp	Ready	go
+advmod	go	home
+punct	leaves	:
+punct	leaves	'
+amod	victim	Last
+compound	victim	Boston
+compound	victim	bombing
+nsubj	leaves	victim
+root	ROOT	leaves
+det	hospital	the
+dobj	leaves	hospital

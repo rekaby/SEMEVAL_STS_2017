@@ -1,0 +1,9 @@
+det	person	A
+nsubj	stands	person
+root	ROOT	stands
+case	back	with
+nmod:poss	back	their
+nmod:with	stands	back
+case	us	to
+nmod:to	back	us
+punct	stands	.

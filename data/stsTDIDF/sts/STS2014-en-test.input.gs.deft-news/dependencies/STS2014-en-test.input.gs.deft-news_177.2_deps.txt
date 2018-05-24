@@ -1,0 +1,13 @@
+amod	trafficking	illegal
+compound	trafficking	arms
+nsubj	increased	trafficking
+aux	increased	has
+root	ROOT	increased
+case	kenya	in
+nmod:in	increased	kenya
+cc	increased	and
+amod	concern	raised
+conj:and	increased	concern
+case	security	about
+nmod:about	concern	security
+punct	increased	.

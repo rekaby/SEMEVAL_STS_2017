@@ -1,0 +1,8 @@
+compound	Falls	Iran
+compound	Falls	Currency
+root	ROOT	Falls
+advmod	Concerns	Further
+case	Concerns	on
+acl:on	Falls	Concerns
+case	Bank	Over
+nmod:over	Concerns	Bank

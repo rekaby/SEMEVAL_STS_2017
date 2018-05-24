@@ -1,0 +1,14 @@
+root	ROOT	``
+advmod	own	Still
+root	``	own
+det	bracelet	a
+amod	bracelet	Livestrong
+dobj	own	bracelet
+punct	own	?-7) root(ROOT-0, Tell
+dobj	Tell	us
+case	it	about
+nmod:about	Tell	it
+punct	Tell	.
+punct	Tell	''-6) punct(CNN-2, -LRB-
+root	ROOT	CNN
+punct	CNN	-RRB-

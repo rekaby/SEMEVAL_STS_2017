@@ -1,0 +1,14 @@
+amod	woman	Elderly
+root	ROOT	woman
+acl	woman	sitting
+case	couch	on
+amod	couch	red
+amod	couch	patterned
+nmod:on	sitting	couch
+case	arm	with
+nmod:poss	arm	her
+nmod:with	sitting	arm
+case	woman	around
+amod	woman	younger
+nmod:around	sitting	woman
+punct	woman	.

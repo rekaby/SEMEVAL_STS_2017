@@ -1,0 +1,12 @@
+det	means	a
+root	ROOT	means
+cc	means	or
+conj:or	means	agency
+case	which	by
+nmod:agent	expressed	which
+nsubjpass	expressed	something
+auxpass	expressed	is
+acl:relcl	means	expressed
+cc	expressed	or
+conj:or	expressed	communicated
+punct	means	.

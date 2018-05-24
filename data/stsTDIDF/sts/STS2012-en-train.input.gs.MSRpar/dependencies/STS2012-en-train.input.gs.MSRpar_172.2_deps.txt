@@ -1,0 +1,13 @@
+det	spokesman	A
+nsubjpass	reached	spokesman
+case	SCO	for
+nmod:for	spokesman	SCO
+aux	reached	could
+neg	reached	not
+auxpass	reached	be
+root	ROOT	reached
+case	comment	for
+nmod:for	reached	comment
+det	afternoon	this
+nmod:tmod	comment	afternoon
+punct	reached	.

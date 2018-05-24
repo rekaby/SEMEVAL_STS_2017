@@ -1,0 +1,9 @@
+compound	Report	Zen
+root	ROOT	Report
+punct	Report	:
+nmod:tmod	maintenance	Ai
+neg	easy	n't
+nsubj	maintenance	easy
+cop	maintenance	being
+amod	maintenance	high
+dep	Report	maintenance

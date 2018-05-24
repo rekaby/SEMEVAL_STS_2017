@@ -1,0 +1,9 @@
+punct	spark	`
+compound	Man	Iron
+nsubj	spark	Man
+punct	spark	'
+nsubj	spark	jetpacks
+root	ROOT	spark
+dobj	spark	concerns
+case	Hawaii	in
+nmod:in	spark	Hawaii

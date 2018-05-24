@@ -1,0 +1,7 @@
+det	crowd	A
+nsubj	prepares	crowd
+root	ROOT	prepares
+case	event	for
+det	event	an
+nmod:for	prepares	event
+punct	prepares	.

@@ -1,0 +1,10 @@
+root	ROOT	Remarks
+case	President	by
+det	President	the
+nmod:by	Remarks	President
+case	Fair	at
+det	Fair	the
+compound	Fair	White
+compound	Fair	House
+compound	Fair	Science
+nmod:at	Remarks	Fair

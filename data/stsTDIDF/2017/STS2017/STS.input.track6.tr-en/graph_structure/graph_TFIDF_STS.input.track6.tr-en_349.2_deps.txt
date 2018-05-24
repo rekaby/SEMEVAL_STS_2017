@@ -1,0 +1,3 @@
+table	dinner	compound
+man	table	nmod:on
+man	An	det

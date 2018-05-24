@@ -1,0 +1,6 @@
+bicycle	on	case
+riding	side	nmod:by
+riding	bicycle	nmod:on
+side	building	nmod:of
+man	riding	acl
+bicycle	a	det

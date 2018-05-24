@@ -1,0 +1,6 @@
+compound	cracks	Egypt
+compound	cracks	army
+root	ROOT	cracks
+advmod	cracks	down
+case	Brotherhood	on
+nmod:on	down	Brotherhood

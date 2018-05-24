@@ -1,0 +1,13 @@
+nmod:poss	sales	AMD
+case	AMD	's
+compound	sales	chip
+nsubj	jumped	sales
+root	ROOT	jumped
+nummod	percent	7
+nmod:npmod	year-on-year	percent
+advmod	jumped	year-on-year
+case	$	to
+nmod:to	jumped	$
+compound	million	402
+nummod	$	million
+punct	jumped	.

@@ -1,0 +1,14 @@
+root	ROOT	Signal
+punct	approval	-LRB-
+dep	Signal	approval
+cc	approval	or
+conj:or	approval	interest
+punct	approval	-RRB-
+mark	winking	by
+dep	Signal	winking
+punct	winking	;
+advmod	shut	briefly
+parataxis	winking	shut
+nummod	eye	one
+dobj	shut	eye
+punct	Signal	.

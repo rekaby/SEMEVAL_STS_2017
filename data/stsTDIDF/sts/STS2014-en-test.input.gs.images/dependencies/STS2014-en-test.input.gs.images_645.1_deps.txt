@@ -1,0 +1,7 @@
+nummod	women	Two
+amod	women	young
+nsubj	shear	women
+root	ROOT	shear
+det	sheep	a
+dobj	shear	sheep
+punct	shear	.

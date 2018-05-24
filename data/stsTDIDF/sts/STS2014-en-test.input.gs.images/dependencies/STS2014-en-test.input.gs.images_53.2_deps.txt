@@ -1,0 +1,11 @@
+det	man	A
+nsubj	lies	man
+root	ROOT	lies
+case	bed	in
+det	bed	a
+nmod:in	lies	bed
+case	room	in
+det	room	a
+amod	room	cluttered
+nmod:in	lies	room
+punct	lies	.

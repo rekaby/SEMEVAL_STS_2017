@@ -1,0 +1,7 @@
+nsubj	Kill	Bombs
+root	ROOT	Kill
+dobj	Kill	35
+case	Area	in
+compound	Area	Baghdad
+compound	Area	Christian
+nmod:in	35	Area

@@ -1,0 +1,7 @@
+det	woman	A
+root	ROOT	woman
+mark	eat	about
+mark	eat	to
+acl	woman	eat
+dobj	eat	trout
+punct	woman	.

@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	black
+nsubj	emerges	dog
+root	ROOT	emerges
+case	water	from
+det	water	the
+nmod:from	emerges	water
+case	ball	with
+det	ball	a
+amod	ball	white
+nmod:with	water	ball
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	ball	mouth
+punct	emerges	.

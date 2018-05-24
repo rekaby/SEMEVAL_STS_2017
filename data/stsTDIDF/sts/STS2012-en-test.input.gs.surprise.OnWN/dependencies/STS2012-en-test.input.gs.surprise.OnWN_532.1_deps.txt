@@ -1,0 +1,6 @@
+root	ROOT	take
+nmod:poss	soul	someone
+case	someone	's
+dobj	take	soul
+case	heaven	into
+nmod:into	take	heaven

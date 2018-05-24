@@ -1,0 +1,11 @@
+advmod	pump	How
+aux	pump	do
+nsubj	pump	I
+root	ROOT	pump
+compound:prt	pump	up
+compound	pressure	water
+dobj	pump	pressure
+case	shower	in
+nmod:poss	shower	my
+nmod:in	pump	shower
+punct	pump	?

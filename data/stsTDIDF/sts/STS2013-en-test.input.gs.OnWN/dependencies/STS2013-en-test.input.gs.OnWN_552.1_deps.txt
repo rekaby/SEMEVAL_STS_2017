@@ -1,0 +1,7 @@
+det	lid	a
+root	ROOT	lid
+cc	lid	or
+conj:or	lid	top
+case	container	of
+det	container	a
+nmod:of	top	container

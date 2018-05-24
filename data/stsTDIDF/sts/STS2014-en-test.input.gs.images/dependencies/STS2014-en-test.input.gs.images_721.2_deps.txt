@@ -1,0 +1,13 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	cat	of
+det	cat	a
+nmod:of	photo	cat
+acl	photo	sitting
+case	sofa	on
+det	sofa	a
+nmod:on	sitting	sofa
+punct	photo	.

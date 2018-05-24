@@ -1,0 +1,7 @@
+amod	boat	Large
+amod	boat	green
+root	ROOT	boat
+acl	boat	floating
+case	water.l	on
+nmod:on	floating	water.l
+punct	boat	.

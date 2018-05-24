@@ -1,0 +1,12 @@
+nsubj	proud	We
+cop	proud	are
+root	ROOT	proud
+advmod	here	often
+advmod	proud	here
+mark	represent	to
+xcomp	proud	represent
+det	citizens	the
+dobj	represent	citizens
+case	Europe	of
+nmod:of	citizens	Europe
+punct	proud	.

@@ -1,0 +1,7 @@
+root	ROOT	U.N.
+punct	U.N.	:
+dep	U.N.	Stop
+det	suffering	the
+dobj	Stop	suffering
+case	Syria	in
+nmod:in	suffering	Syria

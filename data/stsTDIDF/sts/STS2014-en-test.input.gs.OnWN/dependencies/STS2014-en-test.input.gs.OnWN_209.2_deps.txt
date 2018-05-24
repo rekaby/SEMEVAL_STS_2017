@@ -1,0 +1,11 @@
+root	ROOT	make
+det	effort	a
+amod	effort	great
+dobj	make	effort
+case	task	at
+det	task	a
+amod	task	mental
+cc	mental	or
+conj:or	mental	physical
+nmod:at	effort	task
+punct	make	.

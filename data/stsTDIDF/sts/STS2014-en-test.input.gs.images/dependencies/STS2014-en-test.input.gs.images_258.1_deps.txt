@@ -1,0 +1,7 @@
+det	sheep	A
+nsubj	stands	sheep
+root	ROOT	stands
+case	hillside	on
+det	hillside	a
+nmod:on	stands	hillside
+punct	stands	.

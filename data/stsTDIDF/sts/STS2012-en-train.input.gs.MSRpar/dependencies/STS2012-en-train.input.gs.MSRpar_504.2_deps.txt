@@ -1,0 +1,14 @@
+dep	Powell	Secretary
+case	State	of
+nmod:of	Secretary	State
+compound	Powell	Colin
+nsubj	said	Powell
+root	ROOT	said
+nmod:tmod	said	yesterday
+mark	continue	that
+nsubj	continue	contacts
+case	Iran	with
+nmod:with	contacts	Iran
+aux	continue	would
+ccomp	said	continue
+punct	said	.

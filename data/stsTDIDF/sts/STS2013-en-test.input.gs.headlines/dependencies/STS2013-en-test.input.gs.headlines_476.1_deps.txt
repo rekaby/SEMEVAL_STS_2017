@@ -1,0 +1,7 @@
+compound	police	South
+compound	police	Africa
+nsubj	shot	police
+root	ROOT	shot
+amod	miners	dead
+nummod	miners	30
+dobj	shot	miners

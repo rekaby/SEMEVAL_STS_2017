@@ -1,0 +1,13 @@
+nsubj	have	they
+punct	have	``
+root	ROOT	have
+punct	have	''
+dobj	have	fox
+advcl	have	because
+compound	reports	fox
+compound	reports	news
+nsubj	because	reports
+case	events	on
+amod	events	newsworthy
+nmod:on	reports	events
+punct	have	.

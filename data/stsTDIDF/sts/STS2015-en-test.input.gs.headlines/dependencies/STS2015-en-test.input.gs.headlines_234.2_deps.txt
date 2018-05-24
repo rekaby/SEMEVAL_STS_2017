@@ -1,0 +1,7 @@
+nsubj	agree	Iran
+punct	agree	,
+compound	powers	world
+nsubj	agree	powers
+root	ROOT	agree
+amod	deal	nuclear
+dobj	agree	deal

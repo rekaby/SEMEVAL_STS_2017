@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	stands	woman
+case	overalls	in
+amod	overalls	red
+nmod:in	woman	overalls
+root	ROOT	stands
+case	sidewalk	on
+nmod:on	stands	sidewalk
+punct	stands	.

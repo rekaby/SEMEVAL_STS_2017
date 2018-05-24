@@ -1,0 +1,7 @@
+shorts	red	amod
+running	sidewalk	nmod:on
+shirt	white	amod
+running	man	nsubj
+shirt	shorts	conj:and
+red	black	conj:and
+sidewalk	on	case

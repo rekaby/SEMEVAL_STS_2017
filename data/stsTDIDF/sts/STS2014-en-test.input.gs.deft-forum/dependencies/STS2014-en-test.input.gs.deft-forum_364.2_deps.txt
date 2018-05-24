@@ -1,0 +1,6 @@
+nsubj	fault	Obama
+cop	fault	is
+nmod:poss	fault	Bush
+case	Bush	's
+root	ROOT	fault
+punct	fault	.

@@ -1,0 +1,11 @@
+root	ROOT	Outrage
+mark	emerge	after
+nsubj	emerge	reports
+acl	Outrage	emerge
+case	girl	about
+amod	girl	6-year-old
+amod	girl	Indian
+nmod:about	emerge	girl
+acl	girl	raped
+case	school	at
+nmod:at	raped	school

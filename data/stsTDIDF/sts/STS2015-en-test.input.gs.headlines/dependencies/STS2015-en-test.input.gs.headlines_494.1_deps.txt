@@ -1,0 +1,7 @@
+compound	search	Missing
+compound	search	plane
+nsubj	turns	search
+root	ROOT	turns
+case	islands	to
+amod	islands	Vietnamese
+nmod:to	turns	islands

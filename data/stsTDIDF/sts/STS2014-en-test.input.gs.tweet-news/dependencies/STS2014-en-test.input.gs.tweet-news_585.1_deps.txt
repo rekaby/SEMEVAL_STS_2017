@@ -1,0 +1,15 @@
+nsubj	holds	Senate
+root	ROOT	holds
+dobj	holds	key
+mark	fixing	to
+acl	key	fixing
+dobj	fixing	Washington
+punct	Washington	-
+dep	Washington	thanks
+case	#tcot	for
+det	#tcot	that
+compound	#tcot	insight
+compound	#tcot	Ari
+compound	#tcot	#p
+nummod	#tcot	2
+nmod:for	thanks	#tcot

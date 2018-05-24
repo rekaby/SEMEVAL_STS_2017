@@ -1,0 +1,11 @@
+root	ROOT	keep
+advmod	keep	away
+punct	keep	,
+dep	keep	prevent
+mark	happening	from
+advcl	prevent	happening
+punct	happening	,
+cc	happening	or
+neg	do	not
+conj:or	happening	do
+dobj	happening	something

@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	grey
+root	ROOT	dog
+cc	dog	and
+det	dog	a
+compound	dog	tan
+conj:and	dog	dog
+acl	dog	playing
+case	field	on
+det	field	a
+amod	field	grassy
+nmod:on	playing	field
+punct	dog	.

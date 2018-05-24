@@ -1,0 +1,14 @@
+case	gym	In
+det	gym	a
+nmod:in	wrapped	gym
+punct	wrapped	,
+det	toprope	the
+nsubjpass	wrapped	toprope
+aux	wrapped	will
+auxpass	wrapped	be
+root	ROOT	wrapped
+case	bar	over
+det	bar	a
+amod	bar	cylindrical
+nmod:over	wrapped	bar
+punct	wrapped	.

@@ -1,0 +1,17 @@
+root	ROOT	Healthcare
+nsubj	reject	They
+aux	reject	would
+advmod	reject	probably
+acl:relcl	Healthcare	reject
+nmod:poss	claim	your
+amod	claim	implied
+dobj	reject	claim
+mark	save	that
+nmod:poss	law	Obama
+case	Obama	's
+compound	law	healthcare
+nsubj	save	law
+aux	save	will
+ccomp	claim	save
+dobj	save	lives
+punct	Healthcare	.

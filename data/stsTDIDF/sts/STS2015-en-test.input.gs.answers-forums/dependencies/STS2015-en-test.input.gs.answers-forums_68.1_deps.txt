@@ -1,0 +1,15 @@
+case	cases	In
+det	cases	some
+nmod:in	be	cases
+det	implication	the
+nsubj	be	implication
+aux	be	could
+advmod	be	even
+root	ROOT	be
+mark	love	that
+nsubj	love	Tom
+aux	love	does
+neg	love	not
+ccomp	be	love
+dobj	love	her
+punct	be	.

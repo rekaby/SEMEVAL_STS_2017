@@ -1,0 +1,12 @@
+det	group	A
+root	ROOT	group
+case	ladies	of
+nmod:of	group	ladies
+case	cheer	in
+det	cheer	the
+amod	cheer	cold
+nmod:in	group	cheer
+case	flags	with
+amod	flags	American
+nmod:with	cheer	flags
+punct	group	.

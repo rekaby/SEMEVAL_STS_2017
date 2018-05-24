@@ -1,0 +1,11 @@
+amod	government	myanmar
+nsubj	stated	government
+aux	stated	has
+root	ROOT	stated
+nsubj	become	myanmar
+aux	become	will
+ccomp	stated	become
+xcomp	become	opium-free
+case	2014	by
+nmod:by	become	2014
+punct	stated	.

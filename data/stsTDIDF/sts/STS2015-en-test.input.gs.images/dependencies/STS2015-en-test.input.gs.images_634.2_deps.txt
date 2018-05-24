@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+case	dress	in
+det	dress	a
+amod	dress	pink
+nmod:in	girl	dress
+case	something	with
+nmod:with	dress	something
+case	hand	in
+nmod:poss	hand	her
+nmod:in	something	hand
+punct	girl	.

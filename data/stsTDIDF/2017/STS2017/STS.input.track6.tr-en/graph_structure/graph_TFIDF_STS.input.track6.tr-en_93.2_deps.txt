@@ -1,0 +1,4 @@
+runs	girl	nsubj
+runs	boy	nmod:from
+runs	away	advmod
+boy	from	case

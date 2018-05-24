@@ -1,0 +1,11 @@
+bride	the	det
+watches	.	punct
+watches	group	nsubj
+vows	bride	nmod:as
+bride	exchange	conj:and
+vows	their	nmod:poss
+watches	vows	dobj
+bride	as	case
+exchange	groom	compound
+bride	and	cc
+ROOT	watches	root

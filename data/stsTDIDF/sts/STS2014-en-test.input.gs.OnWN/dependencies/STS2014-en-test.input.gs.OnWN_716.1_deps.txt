@@ -1,0 +1,11 @@
+root	ROOT	Hollow
+compound:prt	Hollow	out
+case	form	in
+det	form	the
+nmod:in	Hollow	form
+case	furrow	of
+det	furrow	a
+nmod:of	form	furrow
+cc	furrow	or
+conj:or	furrow	groove
+punct	Hollow	.

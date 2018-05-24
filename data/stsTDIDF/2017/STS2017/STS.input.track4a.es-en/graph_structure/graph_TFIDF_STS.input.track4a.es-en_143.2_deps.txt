@@ -1,0 +1,6 @@
+is	person	nsubj
+riding	skateboard	dobj
+shirt	red	amod
+shirt	riding	acl
+person	wearing	acl
+skateboard	a	det

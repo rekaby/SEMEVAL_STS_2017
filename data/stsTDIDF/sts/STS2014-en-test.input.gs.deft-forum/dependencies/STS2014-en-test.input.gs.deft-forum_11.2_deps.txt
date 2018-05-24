@@ -1,0 +1,10 @@
+root	ROOT	Imagine
+det	place	a
+dobj	Imagine	place
+case	men	with
+amod	men	%
+nmod:with	place	men
+cc	men	and
+compound	women	%
+conj:and	men	women
+punct	Imagine	.

@@ -1,0 +1,5 @@
+advmod	use	completely
+root	ROOT	use
+compound:prt	use	up
+det	resource	a
+dobj	use	resource

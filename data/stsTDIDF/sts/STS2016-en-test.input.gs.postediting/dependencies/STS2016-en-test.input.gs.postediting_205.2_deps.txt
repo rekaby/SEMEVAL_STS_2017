@@ -1,0 +1,17 @@
+case	case	In
+det	case	the
+nmod:in	play	case
+case	mobile	of
+nmod:of	case	mobile
+advmod	mobile	cheap
+punct	play	,
+aux	play	do
+nsubj	play	they
+aux	play	will
+root	ROOT	play
+dobj	play	music
+case	hours	for
+det	hours	a
+amod	hours	few
+nmod:for	play	hours
+punct	play	.

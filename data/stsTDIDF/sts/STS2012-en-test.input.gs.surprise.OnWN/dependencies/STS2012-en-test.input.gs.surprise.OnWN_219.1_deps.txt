@@ -1,0 +1,5 @@
+root	ROOT	give
+dobj	give	something
+case	cause	for
+det	cause	a
+nmod:for	give	cause

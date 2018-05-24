@@ -1,0 +1,8 @@
+compound	Timor	East
+nsubj	bans	Timor
+root	ROOT	bans
+amod	clubs	martial
+compound	clubs	arts
+dobj	bans	clubs
+case	killings	amid
+nmod:amid	bans	killings

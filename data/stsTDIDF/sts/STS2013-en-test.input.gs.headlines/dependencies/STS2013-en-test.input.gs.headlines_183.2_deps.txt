@@ -1,0 +1,6 @@
+root	ROOT	NZ
+mark	increase	to
+acl	NZ	increase
+dobj	increase	exports
+case	China	to
+nmod:to	increase	China

@@ -1,0 +1,6 @@
+compound	passengers	X'mas
+compound	passengers	cruise
+nsubj	hit	passengers
+root	ROOT	hit
+case	Norovirus	by
+nmod:by	hit	Norovirus

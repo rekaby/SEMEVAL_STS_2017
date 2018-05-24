@@ -1,0 +1,11 @@
+advmod	obtained	how
+det	result	a
+nsubjpass	obtained	result
+auxpass	obtained	is
+root	ROOT	obtained
+cc	obtained	or
+det	end	an
+nsubjpass	achieved	end
+auxpass	achieved	is
+conj:or	obtained	achieved
+punct	obtained	;

@@ -1,0 +1,11 @@
+det	sprays	A
+compound	sprays	man
+root	ROOT	sprays
+det	man	another
+dobj	sprays	man
+case	water	with
+nmod:with	man	water
+case	hose	from
+det	hose	a
+nmod:from	water	hose
+punct	sprays	.

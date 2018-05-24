@@ -1,0 +1,7 @@
+det	chimpanzee	A
+nsubj	hurting	chimpanzee
+aux	hurting	is
+root	ROOT	hurting
+det	woman	a
+dobj	hurting	woman
+punct	hurting	.

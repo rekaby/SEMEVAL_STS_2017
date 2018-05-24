@@ -1,0 +1,8 @@
+det	man	The
+nsubj	wears	man
+root	ROOT	wears
+det	shirt	a
+amod	shirt	green
+compound	shirt	polo
+dobj	wears	shirt
+punct	wears	.

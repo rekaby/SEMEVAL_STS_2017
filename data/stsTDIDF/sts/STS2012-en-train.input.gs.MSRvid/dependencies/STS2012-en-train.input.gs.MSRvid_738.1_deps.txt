@@ -1,0 +1,13 @@
+det	man	A
+nsubj	karate	man
+cop	karate	is
+root	ROOT	karate
+xcomp	karate	kicking
+case	man	at
+det	man	another
+nmod:at	kicking	man
+acl	man	wearing
+amod	gloves	protective
+compound	gloves	boxing
+dobj	wearing	gloves
+punct	karate	.

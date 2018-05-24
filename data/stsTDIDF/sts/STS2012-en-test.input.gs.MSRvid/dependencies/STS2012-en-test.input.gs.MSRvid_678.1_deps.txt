@@ -1,0 +1,10 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	garlic
+case	slices	on
+det	slices	some
+compound	slices	bread
+nmod:on	putting	slices
+punct	putting	.

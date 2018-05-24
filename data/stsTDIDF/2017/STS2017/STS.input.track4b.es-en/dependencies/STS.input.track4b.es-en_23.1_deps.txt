@@ -1,0 +1,17 @@
+compound	Monk	Roseanna
+nsubj	said	Monk
+root	ROOT	said
+nsubj	stopped	she
+ccomp	said	stopped
+case	door	near
+det	door	the
+nmod:near	stopped	door
+cc	stopped	and
+conj:and	stopped	put
+nsubj	daughter	her
+xcomp	put	daughter
+case	moment	down
+case	moment	for
+det	moment	a
+nmod:for	daughter	moment
+punct	said	.

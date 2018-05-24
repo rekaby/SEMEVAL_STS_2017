@@ -1,0 +1,9 @@
+root	ROOT	have
+cc	have	or
+conj:or	have	contain
+det	wording	a
+amod	wording	certain
+dobj	contain	wording
+cc	wording	or
+conj:or	wording	form
+punct	have	.

@@ -1,0 +1,14 @@
+nsubj	estimated	It
+root	ROOT	estimated
+case	Thursday	on
+nmod:on	estimated	Thursday
+nsubj	has	it
+ccomp	estimated	has
+det	share	a
+compound	percent	51
+amod	share	percent
+compound	share	market
+dobj	has	share
+case	Europe	in
+nmod:in	share	Europe
+punct	estimated	.

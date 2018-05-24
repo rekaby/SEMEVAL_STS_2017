@@ -1,0 +1,12 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	watching
+amod	clothes	Mrtdian
+amod	clothes	dark-colored
+dobj	watching	clothes
+punct	men	,
+det	crowd	a
+appos	men	crowd
+case	people	of
+nmod:of	crowd	people
+punct	men	.

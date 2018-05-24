@@ -1,0 +1,9 @@
+root	ROOT	CNN
+punct	CNN	:
+compound	debris	Helicopter
+compound	debris	crash
+compound	debris	rains
+dep	CNN	debris
+case	street	on
+compound	street	London
+nmod:on	debris	street

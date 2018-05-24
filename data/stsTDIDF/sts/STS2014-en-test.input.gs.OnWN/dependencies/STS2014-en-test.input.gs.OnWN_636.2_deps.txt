@@ -1,0 +1,7 @@
+root	ROOT	be
+cc	be	or
+conj:or	be	act
+case	association	in
+nmod:in	act	association
+nmod	act	with
+punct	be	.

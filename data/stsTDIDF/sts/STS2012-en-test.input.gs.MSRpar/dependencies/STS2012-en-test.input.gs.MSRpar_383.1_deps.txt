@@ -1,0 +1,13 @@
+amod	reports	Initial
+compound	reports	autopsy
+nsubj	show	reports
+root	ROOT	show
+nsubj	died	they
+ccomp	show	died
+case	dehydration	of
+nmod:of	died	dehydration
+punct	dehydration	,
+conj:and	dehydration	hyperthermia
+cc	dehydration	and
+conj:and	dehydration	suffocation
+punct	show	.

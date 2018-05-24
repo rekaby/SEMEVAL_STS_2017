@@ -1,0 +1,4 @@
+compound	resources	use
+root	ROOT	resources
+cc	resources	or
+conj:or	resources	materials

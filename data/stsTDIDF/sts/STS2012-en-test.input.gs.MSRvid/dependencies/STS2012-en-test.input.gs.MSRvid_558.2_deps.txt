@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	plays	cat
+root	ROOT	plays
+case	bottle	with
+det	bottle	a
+amod	bottle	small
+nmod:with	plays	bottle
+punct	plays	.

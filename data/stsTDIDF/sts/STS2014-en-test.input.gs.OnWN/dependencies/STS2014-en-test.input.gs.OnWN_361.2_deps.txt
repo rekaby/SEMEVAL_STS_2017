@@ -1,0 +1,10 @@
+root	ROOT	make
+det	retreat	a
+dobj	make	retreat
+case	commitment	from
+det	commitment	an
+amod	commitment	earlier
+nmod:from	retreat	commitment
+cc	commitment	or
+conj:or	commitment	activity
+punct	make	.

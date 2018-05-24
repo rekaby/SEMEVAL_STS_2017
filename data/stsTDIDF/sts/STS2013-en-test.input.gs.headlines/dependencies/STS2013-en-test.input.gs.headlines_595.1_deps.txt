@@ -1,0 +1,7 @@
+nsubj	meet	Obama
+mark	meet	to
+root	ROOT	meet
+dobj	meet	families
+case	victims	of
+amod	victims	shooting
+nmod:of	families	victims

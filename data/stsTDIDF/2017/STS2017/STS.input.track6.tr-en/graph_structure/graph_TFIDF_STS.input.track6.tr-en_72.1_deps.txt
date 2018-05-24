@@ -1,0 +1,5 @@
+have	merchant	nsubj
+items	sale	nmod:for
+merchant	A	det
+items	any	det
+have	items	dobj

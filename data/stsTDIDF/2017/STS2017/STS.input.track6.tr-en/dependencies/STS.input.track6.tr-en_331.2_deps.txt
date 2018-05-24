@@ -1,0 +1,10 @@
+nsubj	wearing	Someone
+root	ROOT	wearing
+det	bikes	a
+amod	bikes	hard
+compound	bikes	hat
+dobj	wearing	bikes
+case	street	on
+det	street	the
+nmod:on	wearing	street
+punct	wearing	.

@@ -1,0 +1,9 @@
+mother	pay	acl:relcl
+Sleeping	baby	dobj
+Sleeping	while	dep
+while	mother	dep
+Sleeping	.	punct
+pay	stroller	nmod:in
+stroller	in	case
+stroller	a	det
+ROOT	Sleeping	root

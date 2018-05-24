@@ -1,0 +1,6 @@
+root	ROOT	Watching
+dobj	Watching	tourists
+case	sculptures	in
+compound	sculptures	Rome
+nmod:in	tourists	sculptures
+punct	Watching	.

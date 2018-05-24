@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	riding
+det	bull	a
+dobj	riding	bull
+mark	waiting	while
+nsubj	waiting	clowns
+acl	woman	waiting
+advmod	waiting	patiently
+punct	woman	.

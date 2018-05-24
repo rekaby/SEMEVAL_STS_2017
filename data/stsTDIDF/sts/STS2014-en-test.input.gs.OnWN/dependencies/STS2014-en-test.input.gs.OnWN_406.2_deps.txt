@@ -1,0 +1,10 @@
+det	state	the
+root	ROOT	state
+mark	effect	of
+cop	effect	being
+case	effect	in
+acl:in	state	effect
+cc	effect	or
+cop	operative	being
+conj:or	effect	operative
+punct	state	.

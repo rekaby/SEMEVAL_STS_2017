@@ -1,0 +1,16 @@
+det	girl	A
+amod	girl	young
+nsubj	standing	girl
+acl	girl	holding
+nummod	sticks	two
+amod	sticks	walking
+dobj	holding	sticks
+aux	standing	is
+root	ROOT	standing
+case	rock	on
+det	rock	a
+nmod:on	standing	rock
+case	creek	in
+det	creek	a
+nmod:in	rock	creek
+punct	standing	.

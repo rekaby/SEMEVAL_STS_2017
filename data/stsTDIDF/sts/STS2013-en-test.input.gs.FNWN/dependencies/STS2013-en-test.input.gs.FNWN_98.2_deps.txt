@@ -1,0 +1,6 @@
+det	range	a
+root	ROOT	range
+case	vision	of
+amod	vision	mental
+nmod:of	range	vision
+punct	range	;

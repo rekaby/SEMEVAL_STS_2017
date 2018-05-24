@@ -1,0 +1,8 @@
+det	car	A
+amod	car	green
+root	ROOT	car
+acl	car	parked
+case	saloon	at
+det	saloon	a
+nmod:at	parked	saloon
+punct	car	.

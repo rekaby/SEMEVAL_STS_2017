@@ -1,0 +1,16 @@
+compound	Ewan	National
+compound	Ewan	Breast
+compound	Ewan	Cancer
+compound	Ewan	Centre
+compound	Ewan	head
+compound	Ewan	Professor
+compound	Ewan	Christine
+nsubj	said	Ewan
+root	ROOT	said
+expl	was	there
+ccomp	said	was
+neg	need	no
+nsubj	was	need
+case	panic	for
+nmod:for	need	panic
+punct	said	.

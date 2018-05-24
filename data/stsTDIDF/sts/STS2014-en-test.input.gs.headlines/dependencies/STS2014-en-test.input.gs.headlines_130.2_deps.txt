@@ -1,0 +1,7 @@
+dep	ban	Hamas
+case	school	in
+amod	school	mixed-sex
+nmod:in	Hamas	school
+punct	ban	`
+root	ROOT	ban
+punct	ban	'

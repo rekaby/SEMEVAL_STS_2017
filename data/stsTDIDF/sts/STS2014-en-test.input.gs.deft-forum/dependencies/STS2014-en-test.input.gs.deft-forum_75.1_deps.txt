@@ -1,0 +1,9 @@
+aux	tell	Should
+nsubj	tell	I
+advmod	tell	just
+root	ROOT	tell
+dobj	tell	her
+advmod	feel	how
+nsubj	feel	I
+acl:relcl	her	feel
+punct	tell	?

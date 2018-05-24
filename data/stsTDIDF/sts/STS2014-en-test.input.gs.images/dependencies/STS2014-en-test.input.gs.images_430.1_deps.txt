@@ -1,0 +1,7 @@
+det	train	A
+amod	train	multi-colored
+root	ROOT	train
+case	track	on
+det	track	a
+nmod:on	train	track
+punct	train	.

@@ -1,0 +1,8 @@
+det	dog	a
+root	ROOT	dog
+acl	dog	napping
+case	table	under
+det	table	a
+amod	table	small
+nmod:under	napping	table
+punct	dog	.

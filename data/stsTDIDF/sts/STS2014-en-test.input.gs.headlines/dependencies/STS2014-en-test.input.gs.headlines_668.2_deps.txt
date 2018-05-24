@@ -1,0 +1,6 @@
+compound	stocks	China
+nsubj	lower	stocks
+advmod	lower	close
+root	ROOT	lower
+case	Friday	on
+nmod:on	lower	Friday

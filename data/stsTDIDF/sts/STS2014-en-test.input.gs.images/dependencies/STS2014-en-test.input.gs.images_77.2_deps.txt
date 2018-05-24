@@ -1,0 +1,15 @@
+det	person	A
+root	ROOT	person
+acl	person	wearing
+det	helmet	a
+compound	helmet	bike
+nsubj	rides	helmet
+ccomp	wearing	rides
+det	bike	a
+dobj	rides	bike
+case	path	on
+det	path	a
+nmod:on	rides	path
+case	trees	through
+nmod:through	path	trees
+punct	person	.

@@ -1,0 +1,10 @@
+det	bus	A
+amod	bus	white
+cc	white	and
+conj:and	white	red
+root	ROOT	bus
+acl	bus	traveling
+case	street	on
+det	street	the
+nmod:on	traveling	street
+punct	bus	.

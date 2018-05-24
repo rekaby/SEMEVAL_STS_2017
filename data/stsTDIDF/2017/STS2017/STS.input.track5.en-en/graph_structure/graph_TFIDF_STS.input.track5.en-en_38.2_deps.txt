@@ -1,0 +1,9 @@
+ROOT	leaping	root
+leaping	hit	xcomp
+player	female	amod
+leaping	is	aux
+leaping	.	punct
+player	tennis	compound
+leaping	air	nmod:into
+player	A	det
+leaping	player	nsubj

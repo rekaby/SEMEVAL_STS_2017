@@ -1,0 +1,7 @@
+det	level	the
+compound	level	ground
+root	ROOT	level
+case	building	of
+det	building	a
+amod	building	multi-storied
+nmod:of	level	building

@@ -1,0 +1,9 @@
+root	ROOT	NATO
+punct	NATO	:
+nummod	workers	4
+compound	workers	aid
+nsubj	rescued	workers
+dep	NATO	rescued
+case	insurgents	from
+compound	insurgents	Afghan
+nmod:from	rescued	insurgents

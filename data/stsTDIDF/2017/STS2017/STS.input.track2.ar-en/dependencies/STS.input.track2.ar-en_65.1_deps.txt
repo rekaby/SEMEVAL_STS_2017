@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	trying	woman
+aux	trying	is
+root	ROOT	trying
+mark	make	to
+xcomp	trying	make
+det	man	the
+nsubj	get	man
+ccomp	make	get
+compound:prt	get	up
+punct	trying	.

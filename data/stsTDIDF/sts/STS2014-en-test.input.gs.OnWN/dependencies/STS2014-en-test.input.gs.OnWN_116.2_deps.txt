@@ -1,0 +1,16 @@
+punct	meteorology	-LRB-
+root	ROOT	meteorology
+punct	meteorology	-RRB-
+det	unit	a
+dep	meteorology	unit
+case	pressure	of
+nmod:of	unit	pressure
+amod	pressure	equal
+case	dynes	to
+det	dynes	a
+nummod	dynes	million
+nmod:to	equal	dynes
+case	centimeter	per
+compound	centimeter	square
+nmod:per	dynes	centimeter
+punct	meteorology	.

@@ -1,0 +1,8 @@
+compound	Gains	Google
+root	ROOT	Gains
+mark	Creating	From
+acl	Gains	Creating
+dobj	Creating	Apps
+case	Opposition	for
+det	Opposition	the
+nmod:for	Apps	Opposition

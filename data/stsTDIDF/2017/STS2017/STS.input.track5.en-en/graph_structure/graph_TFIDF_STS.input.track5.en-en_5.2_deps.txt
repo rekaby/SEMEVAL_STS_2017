@@ -1,0 +1,5 @@
+tree	an	det
+take	group	nsubj
+tree	at	case
+look	tree	nmod:at
+tree	unusual	amod

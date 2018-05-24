@@ -1,0 +1,8 @@
+det	state	the
+root	ROOT	state
+mark	controlled	of
+auxpass	controlled	being
+acl	state	controlled
+cc	controlled	or
+conj:or	controlled	governed
+punct	state	.

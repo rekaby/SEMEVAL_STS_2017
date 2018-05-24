@@ -1,0 +1,9 @@
+det	boat	Another
+amod	boat	migrant
+nsubj	capsizes	boat
+root	ROOT	capsizes
+compound:prt	capsizes	off
+nmod:tmod	capsizes	Italy
+punct	Italy	,
+nummod	Italy	27
+dep	capsizes	dead

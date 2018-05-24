@@ -1,0 +1,8 @@
+det	panda	A
+compound	panda	baby
+nsubj	relaxes	panda
+root	ROOT	relaxes
+case	logs	on
+det	logs	some
+nmod:on	relaxes	logs
+punct	relaxes	.

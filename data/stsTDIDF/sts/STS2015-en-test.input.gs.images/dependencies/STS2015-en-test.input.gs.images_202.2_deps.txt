@@ -1,0 +1,13 @@
+det	dog	the
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	carrying	dog
+aux	carrying	is
+root	ROOT	carrying
+det	stick	a
+dobj	carrying	stick
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	carrying	mouth
+punct	carrying	.

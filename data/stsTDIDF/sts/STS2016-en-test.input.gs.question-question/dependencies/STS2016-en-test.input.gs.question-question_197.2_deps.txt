@@ -1,0 +1,15 @@
+advmod	make	How
+mark	make	to
+root	ROOT	make
+advmod	one	more
+mwe	more	than
+nummod	cup	one
+amod	cup	good
+dobj	make	cup
+case	coffee	of
+nmod:of	cup	coffee
+case	pot	with
+det	pot	a
+compound	pot	moka
+nmod:with	make	pot
+punct	make	?

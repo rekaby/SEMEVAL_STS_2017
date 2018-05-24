@@ -1,0 +1,12 @@
+mark	has	If
+nsubj	has	freedom
+case	speech	of
+nmod:of	freedom	speech
+advcl	free	has
+dobj	has	consequences
+advmod	free	then
+nsubj	free	it
+cop	free	is
+neg	free	not
+root	ROOT	free
+punct	free	.

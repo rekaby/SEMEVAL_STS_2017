@@ -1,0 +1,8 @@
+nummod	girls	Three
+amod	girls	teenage
+nsubj	danced	girls
+root	ROOT	danced
+case	room	in
+det	room	the
+nmod:in	danced	room
+punct	danced	.

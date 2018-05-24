@@ -1,0 +1,10 @@
+root	ROOT	Bangladesh
+punct	Bangladesh	:
+compound	Sentenced	Fugitive
+appos	Bangladesh	Sentenced
+case	Death	to
+nmod:to	Sentenced	Death
+case	Tribunal	by
+compound	Tribunal	War
+compound	Tribunal	Crimes
+nmod:by	Death	Tribunal

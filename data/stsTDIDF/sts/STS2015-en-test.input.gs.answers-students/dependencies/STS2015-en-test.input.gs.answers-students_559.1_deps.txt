@@ -1,0 +1,10 @@
+det	terminal	The
+amod	terminal	ppositive
+compound	terminal	battery
+nsubjpass	connected	terminal
+auxpass	connected	is
+root	ROOT	connected
+case	6	in
+amod	6	terminal
+nmod:in	connected	6
+punct	connected	.

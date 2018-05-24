@@ -1,0 +1,11 @@
+root	ROOT	Keep
+case	mind	in
+nmod:in	Keep	mind
+dobj	swear	that
+nsubj	swear	you
+aux	swear	can
+advmod	swear	easily
+ccomp	Keep	swear
+case	swearing	without
+nmod:without	swear	swearing
+punct	Keep	.

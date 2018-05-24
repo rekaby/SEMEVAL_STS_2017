@@ -1,0 +1,6 @@
+wheelchair	a	det
+man	wheelchair	nmod:in
+wheelchair	in	case
+walking	sidewalk	nmod:down
+sidewalk	down	case
+wheelchair	walking	acl

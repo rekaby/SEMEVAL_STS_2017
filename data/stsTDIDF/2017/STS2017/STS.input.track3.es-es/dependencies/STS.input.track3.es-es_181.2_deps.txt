@@ -1,0 +1,9 @@
+det	waitress	The
+nsubj	giving	waitress
+aux	giving	is
+root	ROOT	giving
+nmod:poss	customers	her
+nsubj	drinks	customers
+amod	drinks	free
+dobj	giving	drinks
+punct	giving	.

@@ -1,0 +1,6 @@
+standing	street	nmod:on
+holding	bag	dobj
+bag	red	amod
+standing	,	punct
+standing	holding	xcomp
+standing	girl	nsubj

@@ -1,0 +1,5 @@
+crowd	watching	acl
+crowd	outside	acl
+ROOT	crowd	root
+watching	man	dobj
+crowd	A	det

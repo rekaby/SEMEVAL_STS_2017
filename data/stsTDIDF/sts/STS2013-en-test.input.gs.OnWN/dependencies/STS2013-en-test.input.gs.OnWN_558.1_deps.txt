@@ -1,0 +1,7 @@
+det	observer	an
+root	ROOT	observer
+case	process	of
+det	process	a
+nmod:of	observer	process
+cc	process	or
+conj:or	process	activity

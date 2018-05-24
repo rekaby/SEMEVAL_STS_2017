@@ -1,0 +1,8 @@
+nsubj	going	What
+advmod	going	exactly
+aux	going	is
+root	ROOT	going
+case	Mali	on
+case	Mali	in
+nmod:in	going	Mali
+punct	going	?-8) root(ROOT-0, @

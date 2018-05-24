@@ -1,0 +1,13 @@
+compound	rebels	US
+advmod	trained	inadvertently
+amod	rebels	trained
+root	ROOT	rebels
+punct	rebels	:
+amod	Strikes	French
+dep	rebels	Strikes
+case	Caution	in
+compound	Caution	Mali
+compound	Caution	Supplant
+nmod:in	Strikes	Caution
+case	U.S.	of
+nmod:of	Caution	U.S.

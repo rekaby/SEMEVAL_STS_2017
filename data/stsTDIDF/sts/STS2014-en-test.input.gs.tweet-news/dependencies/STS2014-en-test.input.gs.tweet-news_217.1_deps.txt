@@ -1,0 +1,12 @@
+compound	Salazar	Ken
+nsubj	leaving	Salazar
+root	ROOT	leaving
+mark	spend	to
+xcomp	leaving	spend
+amod	time	more
+dobj	spend	time
+case	ties	with
+nmod:poss	ties	his
+compound	ties	bolo
+nmod:with	spend	ties
+punct	leaving	.

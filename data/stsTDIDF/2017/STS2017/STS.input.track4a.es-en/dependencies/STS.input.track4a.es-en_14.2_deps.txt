@@ -1,0 +1,8 @@
+nummod	musicians	Two
+nsubj	tune	musicians
+cop	tune	are
+advmod	tune	completely
+case	tune	out
+mwe	out	of
+root	ROOT	tune
+punct	tune	.

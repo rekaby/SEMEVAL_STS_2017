@@ -1,0 +1,5 @@
+det	woman	A
+nsubj	lifts	woman
+root	ROOT	lifts
+dobj	lifts	weights
+punct	lifts	.

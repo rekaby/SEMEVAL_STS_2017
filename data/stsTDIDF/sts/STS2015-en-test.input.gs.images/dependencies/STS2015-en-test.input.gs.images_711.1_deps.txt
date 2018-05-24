@@ -1,0 +1,8 @@
+nummod	dogs	Three
+nsubj	play	dogs
+root	ROOT	play
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	play	field
+punct	play	.

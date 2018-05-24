@@ -1,0 +1,12 @@
+det	woman	A
+root	ROOT	woman
+case	tracksuit	in
+det	tracksuit	an
+amod	tracksuit	red
+nmod:in	woman	tracksuit
+acl	tracksuit	squeezing
+dobj	squeezing	lemons
+case	press	in
+det	press	a
+nmod:in	squeezing	press
+punct	woman	.

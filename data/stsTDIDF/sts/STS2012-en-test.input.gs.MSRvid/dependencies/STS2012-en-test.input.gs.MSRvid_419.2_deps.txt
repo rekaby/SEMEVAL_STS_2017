@@ -1,0 +1,7 @@
+det	person	A
+nsubj	holding	person
+aux	holding	is
+root	ROOT	holding
+det	skunk	a
+dobj	holding	skunk
+punct	holding	.

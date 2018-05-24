@@ -1,0 +1,6 @@
+nsubj	declares	Argentina
+root	ROOT	declares
+dobj	declares	mourning
+case	victims	for
+compound	victims	flood
+nmod:for	mourning	victims

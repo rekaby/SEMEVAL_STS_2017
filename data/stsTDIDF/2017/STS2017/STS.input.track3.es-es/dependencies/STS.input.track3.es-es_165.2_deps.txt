@@ -1,0 +1,7 @@
+det	hearing	A
+nsubj	meeting	hearing
+aux	meeting	is
+root	ROOT	meeting
+case	performance	for
+det	performance	a
+nmod:for	meeting	performance

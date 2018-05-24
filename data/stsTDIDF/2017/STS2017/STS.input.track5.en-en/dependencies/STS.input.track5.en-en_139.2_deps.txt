@@ -1,0 +1,10 @@
+nummod	professionals	Two
+amod	professionals	medical
+root	ROOT	professionals
+case	look	in
+amod	look	green
+nmod:in	professionals	look
+case	something	on
+case	something	at
+nmod:at	look	something
+punct	professionals	.

@@ -1,0 +1,13 @@
+advmod	half	Nearly
+nsubj	shopping	half
+punct	half	-
+nummod	percent	45
+dep	half	percent
+punct	half	-
+cop	shopping	are
+case	shopping	for
+root	ROOT	shopping
+cc	shopping	or
+conj:or	shopping	running
+dobj	running	errands
+punct	shopping	.

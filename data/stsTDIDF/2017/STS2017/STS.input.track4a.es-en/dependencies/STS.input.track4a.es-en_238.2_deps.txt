@@ -1,0 +1,8 @@
+nsubj	running	two
+case	men	of
+det	men	the
+nummod	men	three
+nmod:of	two	men
+aux	running	are
+root	ROOT	running
+punct	running	.

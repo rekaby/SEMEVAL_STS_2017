@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+nsubj	football	people
+case	football	close
+mwe	close	to
+det	football	the
+nmod:close_to	are	football
+punct	are	.

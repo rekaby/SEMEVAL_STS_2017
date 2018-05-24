@@ -1,0 +1,12 @@
+mark	engage	to
+root	ROOT	engage
+mark	plotting	in
+advcl	engage	plotting
+cc	plotting	or
+conj:or	plotting	activities
+case	nature	of
+det	nature	an
+amod	nature	illegal
+cc	illegal	or
+conj:or	illegal	deceitful
+nmod:of	plotting	nature

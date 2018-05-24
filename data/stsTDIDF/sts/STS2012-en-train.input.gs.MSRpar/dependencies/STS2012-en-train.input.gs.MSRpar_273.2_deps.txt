@@ -1,0 +1,16 @@
+nsubj	said	He
+root	ROOT	said
+nsubj	expects	he
+advmod	expects	also
+ccomp	said	expects
+mark	have	to
+xcomp	expects	have
+det	support	the
+dobj	have	support
+case	lawmakers	of
+nmod:of	support	lawmakers
+case	states	from
+amod	states	other
+amod	states	agricultural
+nmod:from	lawmakers	states
+punct	said	.

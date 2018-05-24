@@ -1,0 +1,7 @@
+det	conveyance	a
+nsubj	wheeled	conveyance
+cc	conveyance	or
+conj:or	conveyance	transporter
+punct	conveyance	,
+advmod	wheeled	often
+root	ROOT	wheeled

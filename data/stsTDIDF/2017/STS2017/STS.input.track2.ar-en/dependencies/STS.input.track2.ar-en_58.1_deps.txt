@@ -1,0 +1,11 @@
+det	people	The
+nsubj	standing	people
+aux	standing	are
+root	ROOT	standing
+case	line	in
+nmod:in	standing	line
+case	slide	at
+det	slide	the
+compound	slide	water
+nmod:at	line	slide
+punct	standing	.

@@ -1,0 +1,12 @@
+det	firm	The
+compound	firm	research
+nsubj	forecast	firm
+advmod	forecast	earlier
+aux	forecast	had
+root	ROOT	forecast
+det	increase	an
+dobj	forecast	increase
+case	percent	of
+nummod	percent	4.9
+nmod:of	increase	percent
+punct	forecast	.

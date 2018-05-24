@@ -1,0 +1,6 @@
+root	ROOT	get
+dep	get	involved
+dep	involved	with
+cc	with	or
+conj:or	with	mixed
+compound:prt	involved	up

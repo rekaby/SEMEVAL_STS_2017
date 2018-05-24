@@ -1,0 +1,14 @@
+nsubj	idea	This
+cop	idea	is
+advmod	idea	probably
+neg	idea	not
+det	idea	a
+amod	idea	good
+root	ROOT	idea
+cc	idea	but
+nsubj	suggest	I
+aux	suggest	will
+conj:but	idea	suggest
+nsubj	anyhow	it
+ccomp	suggest	anyhow
+punct	idea	.

@@ -1,0 +1,10 @@
+det	silhouette	A
+root	ROOT	silhouette
+case	dogs	of
+nummod	dogs	two
+nmod:of	silhouette	dogs
+acl	silhouette	running
+case	lake	by
+det	lake	a
+nmod:by	running	lake
+punct	silhouette	.

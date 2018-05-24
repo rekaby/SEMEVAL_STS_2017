@@ -1,0 +1,6 @@
+nummod	Soldiers	Two
+compound	Soldiers	UK
+root	ROOT	Soldiers
+acl	Soldiers	Killed
+case	Afghanistan	In
+nmod:in	Killed	Afghanistan

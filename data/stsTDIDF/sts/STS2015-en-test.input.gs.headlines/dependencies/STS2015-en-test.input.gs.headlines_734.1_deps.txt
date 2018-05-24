@@ -1,0 +1,7 @@
+nmod:poss	Musharraf	Pakistan
+case	Pakistan	's
+nsubj	charged	Musharraf
+root	ROOT	charged
+case	murder	over
+compound	murder	Bhutto
+nmod:over	charged	murder

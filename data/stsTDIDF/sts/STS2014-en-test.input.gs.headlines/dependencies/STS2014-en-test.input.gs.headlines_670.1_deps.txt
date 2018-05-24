@@ -1,0 +1,5 @@
+nsubj	renews	EU
+root	ROOT	renews
+dobj	renews	sanctions
+case	Zimbabwe	against
+nmod:against	renews	Zimbabwe

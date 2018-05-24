@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	chopping	woman
+aux	chopping	is
+root	ROOT	chopping
+det	shiso	some
+dobj	chopping	shiso
+advcl	chopping	leaves
+punct	chopping	.

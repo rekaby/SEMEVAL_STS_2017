@@ -1,0 +1,9 @@
+compound	Merkel	Angela
+nsubj	headed	Merkel
+root	ROOT	headed
+case	win	for
+amod	win	narrow
+nmod:for	headed	win
+case	elections	in
+amod	elections	German
+nmod:in	win	elections

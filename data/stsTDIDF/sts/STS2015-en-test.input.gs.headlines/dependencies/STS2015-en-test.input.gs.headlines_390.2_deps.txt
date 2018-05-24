@@ -1,0 +1,7 @@
+nummod	explosions	Two
+root	ROOT	explosions
+case	line	at
+compound	line	Boston
+compound	line	Marathon
+compound	line	finish
+nmod:at	explosions	line

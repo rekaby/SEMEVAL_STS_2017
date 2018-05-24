@@ -1,0 +1,12 @@
+nummod	cats	Two
+root	ROOT	cats
+acl	cats	sitting
+advmod	sitting	together
+case	sofa	on
+det	sofa	the
+nmod:on	sitting	sofa
+acl	sofa	looking
+compound:prt	looking	out
+det	window	the
+dobj	looking	window
+punct	cats	.

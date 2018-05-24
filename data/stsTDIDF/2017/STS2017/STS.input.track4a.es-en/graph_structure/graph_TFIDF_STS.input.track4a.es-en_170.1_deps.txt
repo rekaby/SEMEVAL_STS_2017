@@ -1,0 +1,12 @@
+skater	of	case
+photographers	of	case
+taking	picture	dobj
+photographers	Three	nummod
+skater	a	det
+photographers	the	det
+taking	photographers	nsubj
+trick	a	det
+doing	trick	dobj
+one	photographers	nmod:of
+skater	doing	acl
+picture	skater	nmod:of

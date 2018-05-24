@@ -1,0 +1,11 @@
+det	door	The
+root	ROOT	door
+case	purity	with
+det	purity	a
+nmod:with	door	purity
+punct	door	,
+case	woman	next
+mwe	next	to
+det	woman	the
+nmod:next_to	door	woman
+punct	door	.

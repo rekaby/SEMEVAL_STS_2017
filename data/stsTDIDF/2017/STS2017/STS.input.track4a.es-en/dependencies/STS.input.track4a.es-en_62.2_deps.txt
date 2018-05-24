@@ -1,0 +1,11 @@
+det	man	A
+nsubj	waiting	man
+aux	waiting	is
+root	ROOT	waiting
+case	friend	for
+nmod:poss	friend	his
+nmod:for	waiting	friend
+mark	catch	to
+xcomp	waiting	catch
+compound:prt	catch	up
+punct	waiting	.

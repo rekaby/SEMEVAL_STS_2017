@@ -1,0 +1,6 @@
+det	expanse	the
+amod	expanse	physical
+root	ROOT	expanse
+case	universe	of
+det	universe	the
+nmod:of	expanse	universe

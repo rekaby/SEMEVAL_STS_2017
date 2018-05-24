@@ -1,0 +1,5 @@
+nummod	earthquake	7.3
+compound	earthquake	magnitude
+nsubj	strikes	earthquake
+root	ROOT	strikes
+dobj	strikes	Nepal

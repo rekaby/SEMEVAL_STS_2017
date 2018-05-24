@@ -1,0 +1,7 @@
+det	man	A
+nsubj	lifting	man
+aux	lifting	is
+root	ROOT	lifting
+det	barbell	a
+dobj	lifting	barbell
+punct	lifting	.

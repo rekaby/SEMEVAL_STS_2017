@@ -1,0 +1,9 @@
+man	is	amod
+ball	tennis	compound
+man	middle	amod
+racket	with	case
+racket	his	nmod:poss
+man	aged	amod
+hit	about	mark
+hit	racket	nmod:with
+is	hit	advcl

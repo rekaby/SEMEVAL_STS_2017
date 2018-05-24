@@ -1,0 +1,8 @@
+mark	make	to
+root	ROOT	make
+det	effort	a
+amod	mental	great
+amod	effort	mental
+cc	mental	or
+conj:or	mental	physical
+dobj	make	effort

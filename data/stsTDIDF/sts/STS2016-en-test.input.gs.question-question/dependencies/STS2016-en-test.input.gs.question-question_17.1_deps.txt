@@ -1,0 +1,13 @@
+aux	ask	Can
+nsubj	ask	I
+root	ROOT	ask
+det	company	a
+dobj	ask	company
+dobj	wear	what
+nsubj	wear	I
+aux	wear	should
+acl:relcl	company	wear
+case	interview	to
+det	interview	an
+nmod:to	wear	interview
+punct	ask	?

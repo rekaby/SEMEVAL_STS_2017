@@ -1,0 +1,6 @@
+root	ROOT	restrict
+cc	restrict	or
+conj:or	restrict	limit
+det	range	the
+dobj	restrict	range
+acl	range	of

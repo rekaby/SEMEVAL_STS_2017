@@ -1,0 +1,7 @@
+root	ROOT	Schumacher
+case	coma	in
+det	coma	a
+nmod:in	Schumacher	coma
+case	accident	after
+compound	accident	ski
+nmod:after	Schumacher	accident

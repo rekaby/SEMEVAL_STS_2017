@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	rides	woman
+root	ROOT	rides
+det	horse	a
+dobj	rides	horse
+punct	rides	.

@@ -1,0 +1,6 @@
+det	boxing	a
+root	ROOT	boxing
+cc	boxing	or
+compound	match	wrestling
+conj:or	boxing	match
+punct	boxing	.

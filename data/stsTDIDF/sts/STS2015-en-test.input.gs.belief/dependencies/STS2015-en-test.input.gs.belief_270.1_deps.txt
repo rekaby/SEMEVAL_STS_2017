@@ -1,0 +1,12 @@
+nsubj	given	quartermass
+aux	given	has
+neg	given	not
+root	ROOT	given
+dobj	given	opinion
+case	that	in
+nmod:in	given	that
+amod	post	last
+dep	that	post
+punct	post	,
+appos	post	namvet
+punct	given	.

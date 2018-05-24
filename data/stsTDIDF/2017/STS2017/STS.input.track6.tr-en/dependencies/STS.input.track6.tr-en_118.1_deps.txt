@@ -1,0 +1,12 @@
+det	couple	A
+nsubj	walks	couple
+root	ROOT	walks
+case	rain	through
+det	rain	the
+nmod:through	walks	rain
+case	umbrellas	with
+nmod:poss	umbrellas	their
+compound	umbrellas	child
+amod	umbrellas	holding
+nmod:with	rain	umbrellas
+punct	walks	.

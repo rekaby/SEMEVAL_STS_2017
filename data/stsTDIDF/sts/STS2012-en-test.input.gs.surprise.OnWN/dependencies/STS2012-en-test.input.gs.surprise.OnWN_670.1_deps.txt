@@ -1,0 +1,14 @@
+punct	mathematics	-LRB-
+dep	number	mathematics
+punct	mathematics	-RRB-
+det	number	The
+amod	number	smallest
+amod	number	whole
+root	ROOT	number
+cc	number	or
+det	numeral	a
+conj:or	number	numeral
+acl	numeral	representing
+det	number	this
+dobj	representing	number
+punct	number	.

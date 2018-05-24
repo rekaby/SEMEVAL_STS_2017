@@ -1,0 +1,17 @@
+nsubj	Want	I
+root	ROOT	Want
+mark	Rock	to
+xcomp	Want	Rock
+cc	Rock	and
+conj:and	Rock	Roll
+case	Kiss	by
+nmod:by	Want	Kiss
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+ccomp	Kiss	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Want	.

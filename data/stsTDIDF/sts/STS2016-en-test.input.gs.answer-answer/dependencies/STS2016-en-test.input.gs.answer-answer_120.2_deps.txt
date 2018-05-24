@@ -1,0 +1,9 @@
+nsubj	idea	It
+cop	idea	's
+det	idea	a
+amod	idea	good
+root	ROOT	idea
+mark	do	to
+acl	idea	do
+dobj	do	both
+punct	idea	.

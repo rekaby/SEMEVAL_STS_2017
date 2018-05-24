@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	providing	of
+acl	act	providing
+dobj	providing	help
+cc	help	or
+conj:or	help	aid
+case	someone	to
+nmod:to	providing	someone

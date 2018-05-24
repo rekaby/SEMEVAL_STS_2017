@@ -1,0 +1,12 @@
+det	cat	A
+nsubj	retrieves	cat
+root	ROOT	retrieves
+det	object	an
+dobj	retrieves	object
+case	dish	out
+mwe	out	of
+det	dish	a
+nmod:out_of	retrieves	dish
+case	water	of
+nmod:of	dish	water
+punct	retrieves	.

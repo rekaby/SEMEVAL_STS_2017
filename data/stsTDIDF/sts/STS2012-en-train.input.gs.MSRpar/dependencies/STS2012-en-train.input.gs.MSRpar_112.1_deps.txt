@@ -1,0 +1,15 @@
+csubj	communities	Joining
+dobj	Joining	Boston
+case	Monday	on
+nmod:on	Joining	Monday
+cop	communities	were
+det	communities	the
+compound	communities	Massachusetts
+root	ROOT	communities
+case	Watertown	of
+nmod:of	communities	Watertown
+punct	Watertown	,
+conj:and	Watertown	Saugus
+cc	Watertown	and
+conj:and	Watertown	Framingham
+punct	communities	.

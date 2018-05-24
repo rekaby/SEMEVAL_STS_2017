@@ -1,0 +1,7 @@
+nsubj	running	Dog
+root	ROOT	running
+advmod	running	around
+case	field	in
+det	field	the
+nmod:in	running	field
+punct	running	.

@@ -1,0 +1,7 @@
+nsubj	lies	Boy
+root	ROOT	lies
+case	stomach	on
+nmod:on	lies	stomach
+case	grass	in
+nmod:in	stomach	grass
+punct	lies	.

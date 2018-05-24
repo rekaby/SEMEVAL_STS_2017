@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+neg	WAR	no
+punct	WAR	``
+nsubj	is	WAR
+punct	WAR	''
+case	east	in
+det	east	the
+amod	east	middle
+nmod:in	WAR	east
+punct	is	.

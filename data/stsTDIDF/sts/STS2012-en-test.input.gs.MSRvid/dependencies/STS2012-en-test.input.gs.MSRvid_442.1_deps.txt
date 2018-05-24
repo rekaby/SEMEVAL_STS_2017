@@ -1,0 +1,8 @@
+det	helicopter	A
+nsubj	landing	helicopter
+cop	landing	is
+root	ROOT	landing
+case	helipad	on
+det	helipad	a
+nmod:on	landing	helipad
+punct	landing	.

@@ -1,0 +1,10 @@
+root	ROOT	bulbs
+nsubj	creat	b
+cc	b	and
+conj:and	b	c
+acl:relcl	bulbs	creat
+det	gap	a
+dobj	creat	gap
+case	path	in
+det	path	the
+nmod:in	creat	path

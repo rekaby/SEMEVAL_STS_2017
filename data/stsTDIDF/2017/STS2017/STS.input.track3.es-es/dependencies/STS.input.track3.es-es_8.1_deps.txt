@@ -1,0 +1,15 @@
+det	man	The
+nsubjpass	excited	man
+auxpass	excited	is
+root	ROOT	excited
+mark	presentation	because
+nsubj	presentation	this
+cop	presentation	is
+nmod:poss	presentation	his
+amod	presentation	first
+advcl	excited	presentation
+case	company	for
+nmod:poss	company	his
+amod	company	new
+nmod:for	presentation	company
+punct	excited	.

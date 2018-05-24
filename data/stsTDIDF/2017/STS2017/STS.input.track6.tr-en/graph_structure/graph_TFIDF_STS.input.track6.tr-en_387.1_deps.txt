@@ -1,0 +1,6 @@
+Man	sitting	acl
+sitting	bench	nmod:on
+Man	.	punct
+ROOT	Man	root
+bike	next	case
+sitting	bike	nmod:next_to

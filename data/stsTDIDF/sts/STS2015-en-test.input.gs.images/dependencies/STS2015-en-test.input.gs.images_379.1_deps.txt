@@ -1,0 +1,11 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	bicycle	a
+dobj	riding	bicycle
+case	path	on
+det	path	a
+compound	path	dirt
+nmod:on	riding	path
+punct	riding	.

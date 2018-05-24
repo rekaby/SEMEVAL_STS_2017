@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	walking
+case	water	in
+det	water	the
+nmod:in	walking	water
+case	shore	on
+det	shore	the
+nmod:on	walking	shore
+punct	man	.

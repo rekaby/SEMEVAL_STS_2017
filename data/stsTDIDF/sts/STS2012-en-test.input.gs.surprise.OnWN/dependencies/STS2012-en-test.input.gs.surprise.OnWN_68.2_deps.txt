@@ -1,0 +1,9 @@
+det	situation	some
+root	ROOT	situation
+cc	situation	or
+conj:or	situation	event
+nsubjpass	thought	that
+auxpass	thought	is
+acl:relcl	situation	thought
+advmod	thought	about
+punct	situation	.

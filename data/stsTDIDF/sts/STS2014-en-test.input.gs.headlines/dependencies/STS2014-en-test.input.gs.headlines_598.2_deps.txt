@@ -1,0 +1,10 @@
+nsubj	converge	Police
+root	ROOT	converge
+case	street	on
+nmod:on	converge	street
+case	search	in
+nmod:in	converge	search
+case	bomb	for
+compound	bomb	Boston
+nmod:for	search	bomb
+dobj	converge	suspect

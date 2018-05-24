@@ -1,0 +1,10 @@
+nsubj	Violence	Families
+case	Organize	of
+compound	Organize	Newtown
+compound	Organize	School
+compound	Organize	Massacre
+compound	Organize	Victims
+nmod:of	Families	Organize
+case	Gun	Against
+nmod:against	Families	Gun
+root	ROOT	Violence

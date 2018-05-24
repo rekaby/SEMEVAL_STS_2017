@@ -1,0 +1,5 @@
+det	stiffener	a
+root	ROOT	stiffener
+case	garment	in
+det	garment	a
+nmod:in	stiffener	garment

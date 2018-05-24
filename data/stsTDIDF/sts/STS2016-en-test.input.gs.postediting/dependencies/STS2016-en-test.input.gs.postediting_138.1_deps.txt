@@ -1,0 +1,12 @@
+nsubj	say	People
+root	ROOT	say
+mark	person	that
+nsubj	person	Naomi
+cop	person	is
+det	person	a
+ccomp	say	person
+case	heart	with
+det	heart	a
+amod	heart	warm
+nmod:with	person	heart
+punct	say	.

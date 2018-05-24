@@ -1,0 +1,11 @@
+compound	burning	Vehicles
+punct	burning	`
+amod	burning	left
+nsubj	tunnel	burning
+punct	burning	'
+case	smoke	as
+nmod:as	burning	smoke
+amod	tunnel	emits
+case	Japan	from
+nmod:from	emits	Japan
+root	ROOT	tunnel

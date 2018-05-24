@@ -1,0 +1,13 @@
+nmod:poss	Morsi	Egypt
+case	Egypt	's
+nsubj	faces	Morsi
+ccomp	says	faces
+dobj	faces	trial
+case	break	for
+compound	break	prison
+nmod:for	trial	break
+punct	break	,
+appos	break	murder
+punct	says	,
+root	ROOT	says
+nsubj	says	prosecution

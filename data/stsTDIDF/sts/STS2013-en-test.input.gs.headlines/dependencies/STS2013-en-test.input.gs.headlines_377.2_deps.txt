@@ -1,0 +1,7 @@
+nsubj	calls	Hezbollah
+root	ROOT	calls
+case	film	for
+amod	film	more
+amod	film	anti-Islam
+nmod:for	calls	film
+dobj	calls	protests

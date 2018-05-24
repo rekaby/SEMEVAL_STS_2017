@@ -1,0 +1,5 @@
+nummod	people	4
+nsubj	riding	people
+aux	riding	are
+root	ROOT	riding
+dobj	riding	bikes

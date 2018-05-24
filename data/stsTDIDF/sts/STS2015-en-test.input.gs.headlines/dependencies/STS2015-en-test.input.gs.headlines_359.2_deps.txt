@@ -1,0 +1,8 @@
+root	ROOT	Tottenham
+dep	Tottenham	v
+compound	City	Manchester
+nsubj	v	City
+nummod	Äď	‚
+nsubj	live	Äď
+acl:relcl	City	live
+punct	Tottenham	!

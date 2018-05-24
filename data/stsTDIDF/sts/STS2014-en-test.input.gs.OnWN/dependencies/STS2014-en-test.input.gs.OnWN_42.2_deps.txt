@@ -1,0 +1,7 @@
+root	ROOT	move
+advmod	move	forward
+case	leaps	by
+nmod:by	move	leaps
+cc	leaps	and
+conj:and	leaps	bounds
+punct	move	.

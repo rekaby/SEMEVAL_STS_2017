@@ -1,0 +1,6 @@
+root	ROOT	Mischief
+case	pool	in
+det	pool	an
+amod	pool	indoor
+nmod:in	Mischief	pool
+punct	Mischief	.

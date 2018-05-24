@@ -1,0 +1,10 @@
+det	bear	A
+amod	bear	polar
+nsubj	chasing	bear
+aux	chasing	is
+root	ROOT	chasing
+det	group	a
+dobj	chasing	group
+case	walruses	of
+nmod:of	group	walruses
+punct	chasing	.

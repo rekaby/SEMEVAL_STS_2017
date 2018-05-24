@@ -1,0 +1,7 @@
+root	ROOT	become
+cc	become	or
+conj:or	become	make
+xcomp	make	oneself
+dep	oneself	fresh
+advmod	fresh	again
+punct	become	.

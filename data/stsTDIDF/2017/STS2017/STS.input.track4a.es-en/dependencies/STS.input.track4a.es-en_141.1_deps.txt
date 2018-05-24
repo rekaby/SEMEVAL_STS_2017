@@ -1,0 +1,6 @@
+det	paints	A
+compound	paints	guy
+root	ROOT	paints
+det	ad	an
+nmod:npmod	paints	ad
+punct	paints	.

@@ -1,0 +1,5 @@
+dogs	The	det
+reptiles	are	cop
+reptiles	dogs	nsubj
+reptiles	.	punct
+ROOT	reptiles	root

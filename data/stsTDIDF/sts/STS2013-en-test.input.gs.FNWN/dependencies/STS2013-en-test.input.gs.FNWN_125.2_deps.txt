@@ -1,0 +1,17 @@
+det	work	a
+amod	work	written
+root	ROOT	work
+cc	work	or
+conj:or	work	composition
+nsubjpass	published	that
+aux	published	has
+auxpass	published	been
+acl:relcl	composition	published
+punct	printed	-LRB-
+dep	published	printed
+case	pages	on
+nmod:on	printed	pages
+acl	pages	bound
+advmod	bound	together
+punct	printed	-RRB-
+punct	work	;

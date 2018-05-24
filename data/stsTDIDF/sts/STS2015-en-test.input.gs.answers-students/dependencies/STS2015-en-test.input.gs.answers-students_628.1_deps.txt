@@ -1,0 +1,11 @@
+mark	gap	Because
+nsubj	gap	their
+cop	gap	is
+det	gap	a
+root	ROOT	gap
+case	A	between
+nmod:between	gap	A
+cc	A	and
+conj:and	A	C
+advmod	gap	now
+punct	gap	.

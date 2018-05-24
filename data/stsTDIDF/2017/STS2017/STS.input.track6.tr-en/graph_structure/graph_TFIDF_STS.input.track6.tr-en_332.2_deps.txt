@@ -1,0 +1,5 @@
+walking	is	aux
+dog	his	nmod:poss
+dog	around	case
+walking	dog	nmod:around
+walking	man	nsubj

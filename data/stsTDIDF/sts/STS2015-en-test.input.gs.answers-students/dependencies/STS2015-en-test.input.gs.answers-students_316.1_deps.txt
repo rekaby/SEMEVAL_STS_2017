@@ -1,0 +1,16 @@
+mark	damaged	if
+nsubjpass	damaged	C
+auxpass	damaged	is
+advcl	contained	damaged
+punct	contained	,
+det	A	the
+compound	A	bulb
+nsubj	contained	A
+cc	A	and
+compound	ae	B
+conj:and	A	ae
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path

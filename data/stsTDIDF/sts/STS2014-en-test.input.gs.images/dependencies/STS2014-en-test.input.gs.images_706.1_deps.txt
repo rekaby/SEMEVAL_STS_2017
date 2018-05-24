@@ -1,0 +1,12 @@
+amod	bus	Double
+compound	bus	decker
+root	ROOT	bus
+case	wheel	with
+det	wheel	the
+compound	wheel	London
+compound	wheel	Eye
+amod	wheel	ferris
+nmod:with	bus	wheel
+case	background	in
+nmod:in	bus	background
+punct	bus	.

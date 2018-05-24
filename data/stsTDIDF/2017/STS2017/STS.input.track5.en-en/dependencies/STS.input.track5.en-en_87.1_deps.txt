@@ -1,0 +1,7 @@
+det	biker	The
+nsubj	doing	biker
+aux	doing	is
+root	ROOT	doing
+amod	stunts	dangerous
+dobj	doing	stunts
+punct	doing	.

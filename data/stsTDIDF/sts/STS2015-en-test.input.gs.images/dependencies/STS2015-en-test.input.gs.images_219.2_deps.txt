@@ -1,0 +1,10 @@
+nummod	children	Three
+root	ROOT	children
+acl	children	sitting
+case	playing	in
+compound	playing	floor
+nmod:in	sitting	playing
+case	toys	with
+amod	toys	several
+nmod:with	sitting	toys
+punct	children	.

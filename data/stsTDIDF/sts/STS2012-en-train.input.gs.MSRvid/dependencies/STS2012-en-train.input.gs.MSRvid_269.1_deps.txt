@@ -1,0 +1,6 @@
+det	man	A
+nsubj	cuts	man
+root	ROOT	cuts
+det	potato	a
+dobj	cuts	potato
+punct	cuts	.

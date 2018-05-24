@@ -1,0 +1,7 @@
+nsubjpass	connected	terminal
+compound	4	1
+cc	1	and
+conj:and	1	terminal
+nummod	terminal	4
+auxpass	connected	are
+root	ROOT	connected

@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+nummod	dogs	two
+amod	dogs	white
+nsubj	are	dogs
+cc	dogs	and
+nummod	dog	one
+amod	dog	brown
+nsubj	chasing	dog
+conj:and	dogs	chasing
+det	ball	a
+dobj	chasing	ball
+punct	are	.

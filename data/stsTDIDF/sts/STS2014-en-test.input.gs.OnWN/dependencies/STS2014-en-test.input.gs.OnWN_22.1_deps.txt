@@ -1,0 +1,6 @@
+root	ROOT	move
+case	group	in
+det	group	a
+nmod:in	move	group
+cc	group	or
+conj:or	group	flock

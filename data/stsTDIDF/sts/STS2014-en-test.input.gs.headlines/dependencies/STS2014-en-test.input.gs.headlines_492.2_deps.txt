@@ -1,0 +1,7 @@
+compound	commander	Taliban
+nsubj	killed	commander
+root	ROOT	killed
+case	strike	in
+compound	strike	US
+compound	strike	drone
+nmod:in	killed	strike

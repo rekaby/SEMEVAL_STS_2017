@@ -1,0 +1,7 @@
+ladder	tanks	nmod:near
+ladder	on	case
+ladder	a	det
+stands	ladder	nmod:on
+tanks	near	case
+tanks	huge	amod
+stands	man	nsubj

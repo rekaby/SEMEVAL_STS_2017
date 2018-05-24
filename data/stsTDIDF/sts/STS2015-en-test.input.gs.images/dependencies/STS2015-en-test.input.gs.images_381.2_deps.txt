@@ -1,0 +1,7 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	running	dogs
+root	ROOT	running
+case	water	through
+nmod:through	running	water
+punct	running	.

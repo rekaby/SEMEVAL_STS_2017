@@ -1,0 +1,10 @@
+advmod	know	How
+aux	know	do
+nsubj	know	you
+root	ROOT	know
+nsubj	right	what
+cop	right	's
+ccomp	know	right
+cc	right	and
+conj:and	right	wrong
+punct	know	?

@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	explaining	of
+acl	act	explaining
+cc	explaining	or
+conj:or	explaining	defending
+dobj	explaining	something

@@ -1,0 +1,13 @@
+det	person	A
+nsubj	putting	person
+aux	putting	is
+root	ROOT	putting
+dobj	putting	salt
+cc	salt	and
+conj:and	salt	pepper
+case	piece	on
+det	piece	a
+nmod:on	putting	piece
+case	pork	of
+nmod:of	piece	pork
+punct	putting	.

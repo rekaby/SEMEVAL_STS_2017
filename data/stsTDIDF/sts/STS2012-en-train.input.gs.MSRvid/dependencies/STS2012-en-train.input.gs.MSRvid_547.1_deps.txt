@@ -1,0 +1,13 @@
+det	dog	A
+nsubj	pawing	dog
+aux	pawing	is
+root	ROOT	pawing
+case	fly	at
+det	fly	a
+nmod:at	pawing	fly
+case	carpet	in
+det	carpet	the
+nmod:in	fly	carpet
+case	it	before
+nmod:before	pawing	it
+punct	pawing	.

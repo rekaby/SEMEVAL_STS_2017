@@ -1,0 +1,12 @@
+det	trait	the
+root	ROOT	trait
+mark	believing	of
+acl	trait	believing
+case	honesty	in
+det	honesty	the
+nmod:in	believing	honesty
+cc	honesty	and
+conj:and	honesty	reliability
+case	others	of
+nmod:of	honesty	others
+punct	trait	.

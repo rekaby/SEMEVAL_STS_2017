@@ -1,0 +1,8 @@
+nsubj	testify	Clinton
+mark	testify	to
+root	ROOT	testify
+det	month	this
+nmod:tmod	testify	month
+case	attack	on
+compound	attack	Benghazi
+nmod:on	testify	attack

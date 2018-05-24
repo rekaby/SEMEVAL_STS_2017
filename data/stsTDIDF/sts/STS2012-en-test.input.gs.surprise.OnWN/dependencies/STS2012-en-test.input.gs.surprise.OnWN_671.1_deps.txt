@@ -1,0 +1,7 @@
+root	ROOT	stimulating
+cc	stimulating	or
+conj:or	stimulating	demanding
+dobj	stimulating	factors
+case	situation	of
+det	situation	a
+nmod:of	factors	situation

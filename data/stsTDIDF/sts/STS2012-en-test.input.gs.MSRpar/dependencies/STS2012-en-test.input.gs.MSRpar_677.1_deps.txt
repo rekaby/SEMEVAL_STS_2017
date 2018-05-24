@@ -1,0 +1,14 @@
+case	Saturday	On
+nmod:on	serve	Saturday
+punct	serve	,
+det	149mph	a
+nsubj	serve	149mph
+root	ROOT	serve
+case	Agassi	against
+nmod:against	serve	Agassi
+acl	Agassi	equalled
+nmod:poss	record	Rusedski
+case	Rusedski	's
+compound	record	world
+dobj	equalled	record
+punct	serve	.

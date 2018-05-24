@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	bound	dogs
+root	ROOT	bound
+case	grass	across
+det	grass	the
+nmod:across	bound	grass
+punct	bound	.

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	feet	on
+nummod	feet	one
+nmod:on	standing	feet
+case	bridge	on
+det	bridge	a
+nmod:on	standing	bridge
+punct	standing	.

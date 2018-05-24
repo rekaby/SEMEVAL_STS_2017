@@ -1,0 +1,14 @@
+case	agreement	Under
+det	agreement	the
+nmod:under	begin	agreement
+punct	begin	,
+compound	coverage	Medicare
+nsubj	begin	coverage
+case	benefits	for
+compound	benefits	drug
+nmod:for	coverage	benefits
+aux	begin	would
+root	ROOT	begin
+case	2006	in
+nmod:in	begin	2006
+punct	begin	.

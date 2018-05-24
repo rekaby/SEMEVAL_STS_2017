@@ -1,0 +1,7 @@
+root	ROOT	move
+advmod	move	back
+cc	back	and
+conj:and	back	forth
+cc	move	or
+conj:or	move	sideways
+punct	move	.

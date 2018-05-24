@@ -1,0 +1,12 @@
+amod	boss	Israeli
+amod	boss	ex-spy
+nsubj	video	boss
+punct	boss	:
+neg	trust	no
+dep	boss	trust
+case	leadership	in
+nmod:in	trust	leadership
+case	Iran	over
+nmod:over	leadership	Iran
+punct	boss	--
+root	ROOT	video

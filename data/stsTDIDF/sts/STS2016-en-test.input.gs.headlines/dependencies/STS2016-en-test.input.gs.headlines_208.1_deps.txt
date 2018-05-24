@@ -1,0 +1,7 @@
+nsubj	prove	Scientists
+root	ROOT	prove
+expl	is	there
+ccomp	prove	is
+nsubj	is	water
+case	Mars	on
+nmod:on	is	Mars

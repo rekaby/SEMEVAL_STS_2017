@@ -1,0 +1,11 @@
+nummod	dogs	Two
+nsubj	share	dogs
+root	ROOT	share
+det	toy	a
+dobj	share	toy
+case	field	in
+det	field	a
+nmod:in	share	field
+case	vegetation	of
+nmod:of	field	vegetation
+punct	share	.

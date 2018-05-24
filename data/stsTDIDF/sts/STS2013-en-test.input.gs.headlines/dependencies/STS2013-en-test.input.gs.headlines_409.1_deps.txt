@@ -1,0 +1,10 @@
+compound	pilot	JetBlue
+nsubj	guilty	pilot
+nsubj	disrupted	who
+acl:relcl	pilot	disrupted
+dobj	disrupted	flight
+acl	flight	declared
+xcomp	declared	insane
+punct	pilot	,
+neg	guilty	not
+root	ROOT	guilty

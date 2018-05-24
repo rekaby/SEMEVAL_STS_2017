@@ -1,0 +1,8 @@
+compound	crashes	Boeing
+compound	crashes	airliner
+nsubj	killed	crashes
+case	Russia	in
+nmod:in	crashes	Russia
+punct	crashes	,
+dep	crashes	50
+root	ROOT	killed

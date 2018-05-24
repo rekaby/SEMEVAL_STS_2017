@@ -1,0 +1,7 @@
+nmod:poss	man	World
+case	World	's
+amod	man	oldest
+nsubj	dies	man
+root	ROOT	dies
+case	116	at
+nmod:at	dies	116

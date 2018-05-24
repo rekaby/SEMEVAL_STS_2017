@@ -1,0 +1,16 @@
+compound	hunting	Bounty
+nsubj	illegal	hunting
+cop	illegal	is
+root	ROOT	illegal
+case	Mexico	in
+nmod:in	illegal	Mexico
+punct	illegal	,
+cc	illegal	and
+det	hunter	the
+compound	hunter	bounty
+nsubjpass	charged	hunter
+auxpass	charged	was
+conj:and	illegal	charged
+case	kidnapping	with
+nmod:with	charged	kidnapping
+punct	illegal	.

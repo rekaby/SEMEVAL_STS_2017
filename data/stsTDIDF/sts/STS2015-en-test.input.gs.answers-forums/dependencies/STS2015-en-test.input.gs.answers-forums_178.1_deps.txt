@@ -1,0 +1,17 @@
+nsubj	facing	I
+aux	facing	'm
+root	ROOT	facing
+det	situation	a
+amod	situation	similar
+dobj	facing	situation
+punct	facing	;
+cop	Danish	being
+parataxis	facing	Danish
+cc	Danish	and
+conj:and	Danish	living
+case	Austria	in
+punct	German-speaking	-LRB-
+dep	Austria	German-speaking
+punct	German-speaking	-RRB-
+nmod:in	Danish	Austria
+punct	facing	.

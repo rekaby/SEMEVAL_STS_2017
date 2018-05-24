@@ -1,0 +1,9 @@
+nsubj	lauds	Obama
+root	ROOT	lauds
+dobj	lauds	progress
+case	rights	on
+amod	rights	gay
+nmod:on	progress	rights
+case	address	in
+amod	address	inaugural
+nmod:in	progress	address

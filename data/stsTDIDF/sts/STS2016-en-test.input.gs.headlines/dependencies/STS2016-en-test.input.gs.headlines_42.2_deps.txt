@@ -1,0 +1,11 @@
+nmod:poss	ATM	India
+case	India	's
+amod	ATM	first
+compound	ATM	post
+compound	ATM	office
+compound	ATM	savings
+compound	ATM	bank
+nsubj	inaugurated	ATM
+root	ROOT	inaugurated
+case	Chennai	in
+nmod:in	inaugurated	Chennai

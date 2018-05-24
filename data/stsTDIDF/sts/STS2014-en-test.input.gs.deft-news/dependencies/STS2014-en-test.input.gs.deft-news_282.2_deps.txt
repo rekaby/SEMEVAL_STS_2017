@@ -1,0 +1,10 @@
+nsubj	awarded	lugar
+cc	lugar	and
+conj:and	lugar	nunn
+root	ROOT	awarded
+det	minister	the
+amod	minister	prime
+dobj	awarded	minister
+det	medal	a
+dep	minister	medal
+punct	awarded	.

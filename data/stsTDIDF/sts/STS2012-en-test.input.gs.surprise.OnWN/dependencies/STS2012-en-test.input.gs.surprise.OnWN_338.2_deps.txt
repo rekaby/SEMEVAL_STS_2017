@@ -1,0 +1,3 @@
+root	ROOT	make
+dobj	make	impure
+punct	make	.

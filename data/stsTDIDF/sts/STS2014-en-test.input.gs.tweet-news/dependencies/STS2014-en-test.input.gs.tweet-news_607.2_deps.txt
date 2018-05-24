@@ -1,0 +1,10 @@
+nsubj	Says	Morsi
+root	ROOT	Says
+nsubjpass	Taken	Slurs
+case	Jews	of
+nmod:of	Slurs	Jews
+auxpass	Taken	Were
+ccomp	Says	Taken
+case	Context	Out
+mwe	Out	of
+nmod:out_of	Taken	Context

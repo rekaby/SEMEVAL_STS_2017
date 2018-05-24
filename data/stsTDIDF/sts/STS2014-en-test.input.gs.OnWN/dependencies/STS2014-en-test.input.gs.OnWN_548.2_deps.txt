@@ -1,0 +1,9 @@
+root	ROOT	penetrate
+cc	penetrate	or
+conj:or	penetrate	cut
+case	instrument	through
+case	instrument	with
+det	instrument	a
+amod	instrument	sharp
+nmod:with	cut	instrument
+punct	penetrate	.

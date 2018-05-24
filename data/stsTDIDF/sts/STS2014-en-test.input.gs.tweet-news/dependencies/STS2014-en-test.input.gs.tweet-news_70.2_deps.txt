@@ -1,0 +1,11 @@
+nsubj	prompts	Video
+case	plane	of
+compound	plane	stunt
+nmod:of	Video	plane
+advmod	missing	barely
+acl	Video	missing
+nummod	people	two
+dobj	missing	people
+root	ROOT	prompts
+compound	probe	FAA
+dobj	prompts	probe

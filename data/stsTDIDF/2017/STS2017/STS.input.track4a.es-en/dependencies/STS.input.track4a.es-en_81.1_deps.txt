@@ -1,0 +1,7 @@
+det	people	Some
+nsubj	wait	people
+root	ROOT	wait
+case	taxi	for
+det	taxi	a
+nmod:for	wait	taxi
+punct	wait	.

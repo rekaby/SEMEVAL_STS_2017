@@ -1,0 +1,12 @@
+det	question	This
+nsubjpass	discussed	question
+aux	discussed	has
+advmod	discussed	already
+auxpass	discussed	been
+advmod	discussed	widely
+root	ROOT	discussed
+cc	discussed	and
+conj:and	discussed	answered
+case	Skeptics	on
+nmod:on	answered	Skeptics
+punct	discussed	.

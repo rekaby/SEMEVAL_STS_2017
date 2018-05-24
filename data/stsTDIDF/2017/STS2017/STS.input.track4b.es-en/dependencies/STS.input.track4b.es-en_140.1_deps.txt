@@ -1,0 +1,9 @@
+advmod	observe	First
+punct	observe	,
+root	ROOT	observe
+nmod:poss	subject	your
+nmod:poss	behavior	subject
+case	subject	's
+amod	behavior	normal
+dobj	observe	behavior
+punct	observe	.

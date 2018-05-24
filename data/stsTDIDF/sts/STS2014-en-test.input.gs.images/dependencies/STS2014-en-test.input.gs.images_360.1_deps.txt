@@ -1,0 +1,8 @@
+nummod	cows	Two
+root	ROOT	cows
+acl	cows	standing
+case	field	in
+det	field	a
+amod	field	large
+nmod:in	standing	field
+punct	cows	.

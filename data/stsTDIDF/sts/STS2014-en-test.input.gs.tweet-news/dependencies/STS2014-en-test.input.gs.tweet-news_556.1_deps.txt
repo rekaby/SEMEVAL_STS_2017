@@ -1,0 +1,14 @@
+amod	perspective	Interesting
+root	ROOT	perspective
+punct	perspective	...
+dep	perspective	NYTimes
+punct	NYTimes	:
+det	Boom	A
+compound	Boom	New
+compound	Boom	Housing
+dep	NYTimes	Boom
+punct	perspective	?-10) aux(Count-3, Do
+neg	Count	n't
+root	ROOT	Count
+case	It	on
+nmod:on	Count	It

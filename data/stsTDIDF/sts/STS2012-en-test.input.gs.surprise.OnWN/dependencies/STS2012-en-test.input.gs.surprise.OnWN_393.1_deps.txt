@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	leading	of
+acl	act	leading
+cc	leading	or
+conj:or	leading	guiding
+dobj	leading	others

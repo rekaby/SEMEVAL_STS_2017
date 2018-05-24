@@ -1,0 +1,11 @@
+det	song	The
+nsubjpass	performed	song
+auxpass	performed	is
+root	ROOT	performed
+case	Kneˇzˇínková	by
+compound	Kneˇzˇínková	Katerˇina
+nmod:agent	performed	Kneˇzˇínková
+cc	Kneˇzˇínková	and
+compound	Plachetka	Adam
+conj:and	Kneˇzˇínková	Plachetka
+punct	performed	.

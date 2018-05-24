@@ -1,0 +1,8 @@
+eating	girl	nsubj
+eating	cereal	dobj
+eating	is	aux
+straight	box	nmod:out_of
+eating	straight	advmod
+ROOT	eating	root
+eating	.	punct
+box	out	case

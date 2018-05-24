@@ -1,0 +1,13 @@
+det	man	A
+nsubj	holding	man
+case	shirt	in
+det	shirt	a
+amod	shirt	black
+nmod:in	man	shirt
+aux	holding	is
+root	ROOT	holding
+det	child	a
+dobj	holding	child
+acl	child	wearing
+dobj	wearing	sunglasses
+punct	holding	.

@@ -1,0 +1,13 @@
+neg	answer	Not
+det	answer	a
+amod	answer	direct
+root	ROOT	answer
+case	question	to
+det	question	the
+nmod:to	answer	question
+punct	answer	,
+cc	answer	but
+conj:but	answer	something
+mark	consider	to
+acl	something	consider
+punct	answer	.

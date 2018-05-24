@@ -1,0 +1,12 @@
+nmod:poss	Erdogan	Turkey
+case	Turkey	's
+root	ROOT	Erdogan
+case	Iran	in
+nmod:in	Erdogan	Iran
+mark	mend	to
+acl	Erdogan	mend
+dobj	mend	ties
+case	split	after
+nmod:after	ties	split
+case	Syria	over
+nmod:over	split	Syria

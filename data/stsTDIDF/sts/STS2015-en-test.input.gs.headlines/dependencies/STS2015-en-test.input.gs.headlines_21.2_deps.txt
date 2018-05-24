@@ -1,0 +1,9 @@
+amod	ElBaradei	Liberal
+nsubj	cry	ElBaradei
+acl	ElBaradei	named
+compound	PM	Egypt
+xcomp	named	PM
+punct	ElBaradei	,
+nsubj	cry	Islamists
+root	ROOT	cry
+dobj	cry	foul

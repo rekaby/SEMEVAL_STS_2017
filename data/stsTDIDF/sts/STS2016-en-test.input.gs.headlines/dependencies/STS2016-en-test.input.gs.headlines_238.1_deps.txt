@@ -1,0 +1,9 @@
+compound	skids	Volkswagen
+nsubj	scandal	skids
+case	red	into
+nmod:into	skids	red
+case	wake	in
+nmod:in	red	wake
+case	pollution	of
+nmod:of	wake	pollution
+root	ROOT	scandal

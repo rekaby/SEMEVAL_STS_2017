@@ -1,0 +1,8 @@
+root	ROOT	HRW
+punct	HRW	:
+nsubj	biased	Jordan
+dep	HRW	biased
+case	Palestinians	against
+nmod:against	biased	Palestinians
+case	Syria	from
+nmod:from	Palestinians	Syria

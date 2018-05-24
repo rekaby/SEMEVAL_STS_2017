@@ -1,0 +1,10 @@
+root	ROOT	expect
+punct	predict	,
+dep	expect	predict
+punct	predict	,
+cc	predict	or
+compound	something	forsee
+conj:or	predict	something
+case	future	in
+det	future	the
+nmod:in	something	future

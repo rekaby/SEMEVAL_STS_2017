@@ -1,0 +1,6 @@
+root	ROOT	19
+acl	19	killed
+case	attack	in
+compound	attack	Tunis
+compound	attack	museum
+nmod:in	killed	attack

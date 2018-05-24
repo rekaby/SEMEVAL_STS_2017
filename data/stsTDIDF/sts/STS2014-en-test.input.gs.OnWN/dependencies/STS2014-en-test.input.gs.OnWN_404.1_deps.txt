@@ -1,0 +1,7 @@
+root	ROOT	make
+dobj	make	sense
+mark	give	of
+punct	give	,
+acl	sense	give
+dobj	give	meaning
+nmod	give	to

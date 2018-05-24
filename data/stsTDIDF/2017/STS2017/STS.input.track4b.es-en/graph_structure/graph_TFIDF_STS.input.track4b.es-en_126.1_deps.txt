@@ -1,0 +1,4 @@
+find	?	punct
+But	find	dep
+find	how	advmod
+find	them	dobj

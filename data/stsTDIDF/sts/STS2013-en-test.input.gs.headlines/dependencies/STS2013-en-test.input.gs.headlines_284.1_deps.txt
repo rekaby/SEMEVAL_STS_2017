@@ -1,0 +1,8 @@
+compound	patrol	U.N.
+compound	patrol	observer
+nsubj	arrives	patrol
+root	ROOT	arrives
+case	Syria	at
+nmod:at	arrives	Syria
+compound	site	massacre
+dobj	arrives	site

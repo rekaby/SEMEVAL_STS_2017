@@ -1,0 +1,9 @@
+compound	Islamists	Salafi
+nsubj	witnesses	Islamists
+punct	Islamists	,
+compound	clash	police
+appos	Islamists	clash
+case	Tunis	in
+nmod:in	clash	Tunis
+punct	Islamists	-
+root	ROOT	witnesses

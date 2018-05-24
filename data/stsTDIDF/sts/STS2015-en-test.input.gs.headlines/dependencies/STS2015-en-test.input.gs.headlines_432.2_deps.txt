@@ -1,0 +1,8 @@
+root	ROOT	Greece
+mark	close	to
+acl	Greece	close
+compound	broadcaster	state
+dobj	close	broadcaster
+mark	save	to
+advcl	close	save
+dobj	save	money

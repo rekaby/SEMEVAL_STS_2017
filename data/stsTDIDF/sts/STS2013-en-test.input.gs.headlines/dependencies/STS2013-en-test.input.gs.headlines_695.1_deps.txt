@@ -1,0 +1,10 @@
+nsubj	tainted	Bank
+case	Tucker	of
+nmod:poss	Tucker	England
+case	England	's
+compound	Tucker	Paul
+nmod:of	Bank	Tucker
+root	ROOT	tainted
+case	Libor	by
+nmod:by	tainted	Libor
+dobj	tainted	mess

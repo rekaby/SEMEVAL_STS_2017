@@ -1,0 +1,14 @@
+mark	#Armstrong	For
+root	ROOT	#Armstrong
+nsubj	rebuilding	it
+cop	rebuilding	's
+mark	rebuilding	about
+ccomp	#Armstrong	rebuilding
+det	stream	a
+compound	stream	revenue
+dobj	rebuilding	stream
+det	same	the
+advmod	stream	same
+case	always	as
+nmod:as	same	always
+punct	#Armstrong	.-14) root(ROOT-0, #doprah

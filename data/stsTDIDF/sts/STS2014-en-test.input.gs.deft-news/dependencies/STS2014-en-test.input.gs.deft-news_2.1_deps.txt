@@ -1,0 +1,10 @@
+nsubj	holds	spain
+advmod	holds	currently
+root	ROOT	holds
+det	presidency	the
+amod	presidency	rotating
+dobj	holds	presidency
+case	osce	of
+det	osce	the
+nmod:of	presidency	osce
+punct	holds	.

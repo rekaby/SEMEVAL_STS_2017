@@ -1,0 +1,13 @@
+det	boy	A
+nsubj	water	boy
+case	hair	with
+amod	hair	dark
+nmod:with	boy	hair
+cop	water	is
+case	water	in
+root	ROOT	water
+cc	water	and
+aux	looking	is
+conj:and	water	looking
+compound:prt	looking	up
+punct	water	.

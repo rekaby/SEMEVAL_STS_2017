@@ -1,0 +1,15 @@
+det	researchers	The
+nsubj	found	researchers
+root	ROOT	found
+advmod	empty	only
+amod	cavities	empty
+dobj	found	cavities
+cc	cavities	and
+compound	tissue	scar
+conj:and	cavities	tissue
+advmod	been	where
+det	tumors	the
+nsubj	been	tumors
+aux	been	had
+acl:relcl	cavities	been
+punct	found	.

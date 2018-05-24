@@ -1,0 +1,6 @@
+compound	Snowden	Whistleblower
+compound	Snowden	Edward
+nsubj	flies	Snowden
+root	ROOT	flies
+case	Moscow	to
+nmod:to	flies	Moscow

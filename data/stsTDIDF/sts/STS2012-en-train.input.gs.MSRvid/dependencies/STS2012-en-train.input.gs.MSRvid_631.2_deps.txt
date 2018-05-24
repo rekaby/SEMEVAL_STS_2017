@@ -1,0 +1,10 @@
+compound	swimmers	Women
+nsubj	diving	swimmers
+cop	diving	are
+root	ROOT	diving
+case	platform	in
+case	platform	from
+det	platform	the
+amod	platform	starting
+nmod:from	diving	platform
+punct	diving	.

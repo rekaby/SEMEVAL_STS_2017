@@ -1,0 +1,10 @@
+mark	connected	Because
+nsubjpass	connected	it
+auxpass	connected	was
+advmod	connected	still
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+compound	terminal	battery
+nmod:to	connected	terminal
+punct	connected	.

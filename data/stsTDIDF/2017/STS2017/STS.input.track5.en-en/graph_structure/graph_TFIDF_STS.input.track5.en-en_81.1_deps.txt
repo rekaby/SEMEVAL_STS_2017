@@ -1,0 +1,6 @@
+watching	television	dobj
+guy	sitting	acl
+couch	a	det
+couch	watching	acl
+guy	Some	det
+sitting	couch	nmod:on

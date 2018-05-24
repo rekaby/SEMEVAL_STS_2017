@@ -1,0 +1,15 @@
+case	government	at
+compound	government	un
+compound	government	assembly
+amod	government	chinese
+nmod:at	urges	government
+root	ROOT	urges
+amod	efforts	increased
+dobj	urges	efforts
+case	control	toward
+amod	control	global
+compound	control	arms
+nmod:toward	efforts	control
+cc	control	and
+conj:and	control	disarmament
+punct	urges	.

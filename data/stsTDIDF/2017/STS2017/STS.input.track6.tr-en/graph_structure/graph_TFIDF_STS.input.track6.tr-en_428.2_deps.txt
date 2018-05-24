@@ -1,0 +1,12 @@
+ROOT	staring	root
+guy	girl	conj:and
+sitting	while	mark
+staring	other	nmod:at
+guy	and	cc
+staring	.	punct
+staring	guy	nsubj
+chair	in	case
+sitting	cheerfully	advmod
+other	sitting	acl
+sitting	chair	nmod:in
+staring	are	aux

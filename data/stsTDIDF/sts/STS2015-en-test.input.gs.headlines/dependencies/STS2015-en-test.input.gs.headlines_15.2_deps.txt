@@ -1,0 +1,6 @@
+nsubj	marks	Pakistan
+root	ROOT	marks
+compound	Day	World
+compound	Day	Press
+compound	Day	Freedom
+nmod:tmod	marks	Day

@@ -1,0 +1,9 @@
+nsubj	voices	Obama
+root	ROOT	voices
+dobj	voices	willingness
+mark	talk	to
+acl	willingness	talk
+case	GOP	with
+nmod:with	talk	GOP
+case	budget	on
+nmod:on	talk	budget

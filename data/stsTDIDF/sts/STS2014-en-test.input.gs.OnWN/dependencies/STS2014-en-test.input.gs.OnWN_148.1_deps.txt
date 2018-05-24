@@ -1,0 +1,7 @@
+root	ROOT	move
+punct	by	-LRB-
+mark	by	as
+mwe	as	if
+punct	by	-RRB-
+mark	lowering	by
+acl	move	lowering

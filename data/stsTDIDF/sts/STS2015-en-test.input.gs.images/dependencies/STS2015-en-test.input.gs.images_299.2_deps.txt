@@ -1,0 +1,7 @@
+det	closeup	A
+root	ROOT	closeup
+case	hummingbird	of
+det	hummingbird	a
+nmod:of	closeup	hummingbird
+acl	hummingbird	flying
+punct	closeup	.

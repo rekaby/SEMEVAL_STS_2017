@@ -1,0 +1,8 @@
+amod	bus	Double
+compound	bus	decker
+compound	bus	passenger
+nsubj	driving	bus
+root	ROOT	driving
+case	traffic	with
+nmod:with	driving	traffic
+punct	driving	.

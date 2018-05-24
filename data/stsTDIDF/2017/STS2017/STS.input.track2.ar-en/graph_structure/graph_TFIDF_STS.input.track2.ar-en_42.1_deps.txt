@@ -1,0 +1,8 @@
+sit	women	nsubj
+women	Four	nummod
+sit	bench	nmod:on
+wearing	bicycle	dobj
+bench	a	det
+riding	clothing	dobj
+women	wearing	acl
+bicycle	riding	acl

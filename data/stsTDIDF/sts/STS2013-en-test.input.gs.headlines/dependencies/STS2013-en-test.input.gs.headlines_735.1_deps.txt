@@ -1,0 +1,10 @@
+nummod	rockets	2
+root	ROOT	rockets
+acl	rockets	hit
+case	region	in
+det	region	the
+compound	region	Eshkol
+nmod:in	hit	region
+punct	rockets	;
+neg	injuries	no
+dep	rockets	injuries

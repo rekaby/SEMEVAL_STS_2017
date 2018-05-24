@@ -1,0 +1,8 @@
+root	ROOT	move
+punct	move	,
+conj:or	move	transfer
+cc	move	or
+conj:or	move	carry
+dobj	carry	something
+cc	move	or
+conj:or	move	someone

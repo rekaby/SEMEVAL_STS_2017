@@ -1,0 +1,7 @@
+det	military	A
+advmod	equal	more
+amod	military	equal
+root	ROOT	military
+punct	military	?-5) root(ROOT-0, Bring
+compound:prt	Bring	back
+dobj	Bring	draft

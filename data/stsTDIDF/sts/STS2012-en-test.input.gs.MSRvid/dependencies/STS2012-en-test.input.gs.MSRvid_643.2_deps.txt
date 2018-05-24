@@ -1,0 +1,11 @@
+det	girl	The
+nsubj	using	girl
+aux	using	is
+root	ROOT	using
+det	pencil	an
+compound	pencil	eye
+dobj	using	pencil
+case	eyelid	on
+nmod:poss	eyelid	her
+nmod:on	using	eyelid
+punct	using	.

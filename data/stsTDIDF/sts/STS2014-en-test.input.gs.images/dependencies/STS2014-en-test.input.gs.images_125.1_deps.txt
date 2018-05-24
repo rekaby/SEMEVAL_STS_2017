@@ -1,0 +1,14 @@
+det	group	A
+root	ROOT	group
+case	people	of
+amod	people	black
+nmod:of	group	people
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	people	building
+case	moped	with
+det	moped	a
+nmod:with	building	moped
+punct	group	.

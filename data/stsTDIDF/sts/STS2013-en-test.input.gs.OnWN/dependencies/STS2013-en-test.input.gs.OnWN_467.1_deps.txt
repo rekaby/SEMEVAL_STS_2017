@@ -1,0 +1,10 @@
+det	argument	an
+root	ROOT	argument
+nsubj	gives	that
+acl:relcl	argument	gives
+dobj	gives	grounds
+cc	grounds	or
+conj:or	grounds	justification
+case	position	for
+det	position	a
+nmod:for	gives	position

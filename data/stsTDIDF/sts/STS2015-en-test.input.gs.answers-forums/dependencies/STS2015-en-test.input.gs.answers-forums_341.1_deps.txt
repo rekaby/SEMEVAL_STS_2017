@@ -1,0 +1,16 @@
+advmod	removed	Yes
+punct	removed	,
+amod	dialog	dull
+nsubjpass	removed	dialog
+aux	removed	should
+auxpass	removed	be
+root	ROOT	removed
+advmod	transformed	completely
+punct	transformed	-LRB-
+cc	transformed	or
+dep	removed	transformed
+case	dialog	to
+amod	dialog	interesting
+nmod:to	transformed	dialog
+punct	transformed	-RRB-
+punct	removed	.

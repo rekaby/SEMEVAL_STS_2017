@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+mark	climbing	of
+acl	act	climbing
+dobj	climbing	something
+punct	act	.

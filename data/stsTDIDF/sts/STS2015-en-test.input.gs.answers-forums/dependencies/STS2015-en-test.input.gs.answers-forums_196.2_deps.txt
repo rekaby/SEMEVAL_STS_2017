@@ -1,0 +1,13 @@
+det	info	The
+nsubj	good	info
+nsubjpass	given	you
+aux	given	've
+auxpass	given	been
+acl:relcl	info	given
+case	answers	in
+det	answers	the
+amod	answers	previous
+nmod:in	given	answers
+cop	good	is
+root	ROOT	good
+punct	good	.

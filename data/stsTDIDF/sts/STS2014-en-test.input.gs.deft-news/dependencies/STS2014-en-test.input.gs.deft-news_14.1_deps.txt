@@ -1,0 +1,17 @@
+amod	police	brazilian
+root	ROOT	police
+acl	police	surrounding
+dobj	surrounding	slums
+advmod	slums	north
+case	janeiro	of
+compound	janeiro	rio
+compound	janeiro	de
+nmod:of	north	janeiro
+mark	rid	to
+acl	police	rid
+dobj	rid	them
+case	traffickers	of
+amod	traffickers	violent
+compound	traffickers	drug
+nmod:of	them	traffickers
+punct	police	.

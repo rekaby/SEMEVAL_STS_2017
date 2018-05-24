@@ -1,0 +1,6 @@
+nsubj	launches	Israel
+root	ROOT	launches
+compound	strikes	air
+dobj	launches	strikes
+case	Damascus	near
+nmod:near	launches	Damascus

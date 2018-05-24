@@ -1,0 +1,17 @@
+compound	Online	BusinessWeek
+nsubj	learned	Online
+aux	learned	has
+root	ROOT	learned
+mark	come	that
+det	settlement	the
+nsubj	come	settlement
+aux	come	could
+ccomp	learned	come
+advmod	early	as
+advmod	come	early
+case	Monday	as
+nmod:as	early	Monday
+punct	come	,
+nmod:tmod	come	May
+nummod	May	19
+punct	learned	.

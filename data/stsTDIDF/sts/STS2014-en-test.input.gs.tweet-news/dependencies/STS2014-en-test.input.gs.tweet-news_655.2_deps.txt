@@ -1,0 +1,14 @@
+det	Carpetbagger	The
+root	ROOT	Carpetbagger
+punct	Carpetbagger	:
+dep	Carpetbagger	Parsing
+dobj	Did	What
+compound	Foster	Jodie
+nsubj	Did	Foster
+ccomp	Parsing	Did
+punct	Say	-LRB-
+cc	Say	and
+aux	Say	Did
+neg	Say	n't
+ccomp	Did	Say
+punct	Carpetbagger	-RRB-

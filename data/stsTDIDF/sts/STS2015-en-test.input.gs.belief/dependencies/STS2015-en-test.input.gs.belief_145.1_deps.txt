@@ -1,0 +1,13 @@
+compound	graduates	spring
+nummod	graduates	1959
+root	ROOT	graduates
+case	school	from
+compound	school	sterling
+amod	school	high
+nmod:from	graduates	school
+case	greenville	in
+nmod:in	school	greenville
+punct	graduates	,
+advmod	carolina	south
+appos	graduates	carolina
+punct	graduates	.

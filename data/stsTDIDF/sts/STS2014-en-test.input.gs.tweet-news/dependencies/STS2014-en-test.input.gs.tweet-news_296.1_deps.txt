@@ -1,0 +1,13 @@
+nsubj	regretful	I
+cop	regretful	'm
+root	ROOT	regretful
+mark	has	that
+nsubj	has	it
+ccomp	regretful	has
+mark	come	to
+xcomp	has	come
+case	this	to
+nmod:to	come	this
+case	some	for
+nmod:for	come	some
+punct	regretful	.

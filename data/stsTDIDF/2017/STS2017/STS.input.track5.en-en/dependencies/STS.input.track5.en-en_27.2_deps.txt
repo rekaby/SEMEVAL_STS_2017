@@ -1,0 +1,8 @@
+nummod	guys	two
+root	ROOT	guys
+acl	guys	playing
+det	game	a
+dobj	playing	game
+case	baseball	of
+nmod:of	game	baseball
+punct	guys	.

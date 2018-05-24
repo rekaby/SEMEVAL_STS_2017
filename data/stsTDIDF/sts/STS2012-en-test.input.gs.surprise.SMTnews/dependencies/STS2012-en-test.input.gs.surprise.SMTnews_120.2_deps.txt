@@ -1,0 +1,10 @@
+nsubj	indisputable	It
+cop	indisputable	is
+root	ROOT	indisputable
+nsubj	reaches	that
+ccomp	indisputable	reaches
+case	government	to
+det	government	the
+amod	government	Turkish
+nmod:to	reaches	government
+punct	indisputable	.

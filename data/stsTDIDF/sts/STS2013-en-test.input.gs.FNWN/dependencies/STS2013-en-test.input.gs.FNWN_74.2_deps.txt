@@ -1,0 +1,10 @@
+root	ROOT	act
+mark	improving	of
+acl	act	improving
+mark	expanding	by
+advcl	improving	expanding
+cc	expanding	or
+conj:or	expanding	enlarging
+cc	enlarging	or
+conj:or	enlarging	refining
+punct	act	;

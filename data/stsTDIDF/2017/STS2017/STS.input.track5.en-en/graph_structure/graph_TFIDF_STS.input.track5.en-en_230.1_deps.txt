@@ -1,0 +1,4 @@
+having	group	nsubj
+having	contest	dobj
+group	kids	nmod:of
+contest	jumping	amod

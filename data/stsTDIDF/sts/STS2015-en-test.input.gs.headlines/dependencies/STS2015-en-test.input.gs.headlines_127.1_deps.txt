@@ -1,0 +1,6 @@
+compound	workers	Red
+compound	workers	Cross
+nsubj	released	workers
+root	ROOT	released
+case	Ukraine	in
+nmod:in	released	Ukraine

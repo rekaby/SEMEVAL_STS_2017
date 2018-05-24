@@ -1,0 +1,9 @@
+root	ROOT	CES
+punct	CES	:
+compound	people	Young
+nsubj	mobile	people
+cop	mobile	are
+punct	mobile	`
+amod	mobile	born
+dep	CES	mobile
+punct	mobile	'

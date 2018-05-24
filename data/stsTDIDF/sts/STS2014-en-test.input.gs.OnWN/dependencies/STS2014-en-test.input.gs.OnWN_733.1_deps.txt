@@ -1,0 +1,10 @@
+det	manner	the
+root	ROOT	manner
+case	which	in
+nmod:in	manner	which
+compound	functions	something
+cc	something	or
+conj:or	something	someon
+dep	which	functions
+cc	functions	or
+conj:or	functions	operates

@@ -1,0 +1,16 @@
+det	dog	A
+amod	white	large
+amod	dog	white
+cc	white	and
+conj:and	white	grey
+nsubj	runs	dog
+root	ROOT	runs
+case	tunnel	through
+det	tunnel	a
+amod	tunnel	yellow
+nmod:through	runs	tunnel
+case	course	in
+det	course	an
+compound	course	obstacle
+nmod:in	runs	course
+punct	runs	.

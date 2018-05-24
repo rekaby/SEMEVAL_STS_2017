@@ -1,0 +1,6 @@
+amod	minister	Syrian
+amod	minister	prime
+nsubj	survives	minister
+root	ROOT	survives
+compound	attempt	assassination
+dobj	survives	attempt

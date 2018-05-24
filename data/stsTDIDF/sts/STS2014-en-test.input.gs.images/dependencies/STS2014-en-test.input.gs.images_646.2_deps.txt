@@ -1,0 +1,8 @@
+det	close-up	A
+root	ROOT	close-up
+case	engine	of
+det	engine	a
+amod	engine	black
+compound	engine	train
+nmod:of	close-up	engine
+punct	close-up	.

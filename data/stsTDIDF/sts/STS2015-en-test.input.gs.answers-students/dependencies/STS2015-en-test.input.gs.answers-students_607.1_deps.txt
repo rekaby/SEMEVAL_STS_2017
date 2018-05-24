@@ -1,0 +1,8 @@
+mark	measures	because
+nsubj	measures	voltage
+root	ROOT	measures
+det	difference	the
+dobj	measures	difference
+case	points	between
+nummod	points	two
+nmod:between	difference	points

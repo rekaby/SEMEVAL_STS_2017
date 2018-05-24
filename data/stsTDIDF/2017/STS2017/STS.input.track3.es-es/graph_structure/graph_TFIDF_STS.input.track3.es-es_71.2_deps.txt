@@ -1,0 +1,7 @@
+start	game	dobj
+start	not	neg
+players	soccer	compound
+start	do	aux
+teams	players	nmod:of
+teams	Two	nummod
+start	teams	nsubj

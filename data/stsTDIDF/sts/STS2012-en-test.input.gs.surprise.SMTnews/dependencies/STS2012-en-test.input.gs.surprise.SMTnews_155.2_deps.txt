@@ -1,0 +1,16 @@
+amod	Europeans	Western
+nsubj	take	Europeans
+punct	Europeans	,
+nsubj	forgotten	who
+aux	forgotten	have
+acl:relcl	Europeans	forgotten
+det	history	this
+dobj	forgotten	history
+punct	Europeans	,
+aux	take	should
+root	ROOT	take
+dobj	take	account
+case	warnings	of
+nmod:poss	warnings	our
+nmod:of	account	warnings
+punct	take	.

@@ -1,0 +1,9 @@
+root	ROOT	take
+amod	action	legal
+dobj	take	action
+mark	seek	to
+advcl	take	seek
+dobj	seek	compensation
+case	wrong	for
+det	wrong	a
+nmod:for	seek	wrong

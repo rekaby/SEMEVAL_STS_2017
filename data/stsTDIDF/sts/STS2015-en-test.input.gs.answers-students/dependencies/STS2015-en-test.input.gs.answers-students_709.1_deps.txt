@@ -1,0 +1,5 @@
+root	ROOT	bulb
+nsubj	creates	a
+acl:relcl	bulb	creates
+det	gap	a
+dobj	creates	gap

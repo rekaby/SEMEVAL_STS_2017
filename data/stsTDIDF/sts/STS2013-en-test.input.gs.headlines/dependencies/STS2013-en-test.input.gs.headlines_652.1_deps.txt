@@ -1,0 +1,9 @@
+root	ROOT	HRW
+punct	HRW	:
+nsubj	turning	Jordan
+parataxis	HRW	turning
+compound:prt	turning	away
+amod	refugees	Palestinian
+dobj	turning	refugees
+case	Syria	from
+nmod:from	turning	Syria

@@ -1,0 +1,10 @@
+det	plane	A
+compound	plane	Das
+compound	plane	Air
+compound	plane	Cargo
+nsubj	sits	plane
+root	ROOT	sits
+case	runway	on
+det	runway	the
+nmod:on	sits	runway
+punct	sits	.

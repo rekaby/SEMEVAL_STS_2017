@@ -1,0 +1,11 @@
+advmod	Posted	Originally
+root	ROOT	Posted
+case	objectivism	by
+nmod:by	Posted	objectivism
+neg	thinking	Not
+amod	thinking	wishful
+dep	Posted	thinking
+punct	thinking	,
+advmod	realistic	rather
+amod	thinking	realistic
+punct	Posted	.

@@ -1,0 +1,9 @@
+compound	futures	China
+compound	futures	stock
+compound	futures	index
+nsubj	lower	futures
+advmod	lower	close
+root	ROOT	lower
+punct	lower	--
+nmod:tmod	lower	April
+nummod	April	23

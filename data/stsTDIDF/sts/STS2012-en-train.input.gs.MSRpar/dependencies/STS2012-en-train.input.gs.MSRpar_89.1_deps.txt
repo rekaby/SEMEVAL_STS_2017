@@ -1,0 +1,17 @@
+punct	answer	``
+nsubj	answer	Spin
+cc	Spin	and
+amod	relations	manipulative
+amod	relations	public
+conj:and	Spin	relations
+cc	Spin	and
+conj:and	Spin	propaganda
+cop	answer	are
+neg	answer	not
+det	answer	the
+dep	said	answer
+punct	answer	,
+punct	answer	''
+nsubj	said	it
+root	ROOT	said
+punct	said	.

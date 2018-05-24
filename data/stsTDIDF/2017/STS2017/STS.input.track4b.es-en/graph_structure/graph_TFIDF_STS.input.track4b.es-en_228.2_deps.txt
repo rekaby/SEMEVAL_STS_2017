@@ -1,0 +1,15 @@
+put	position	nmod:in
+position	said	acl:relcl
+problem	big	amod
+license	,	punct
+license	and	cc
+Nicholson	member	appos
+want	put	xcomp
+said	license	nsubj
+problem	federal	amod
+license	someone	nmod:poss
+member	Council	nmod:of
+Nicholson	,	punct
+said	Nicholson	dobj
+Nicholson	Bob	compound
+license	have	conj:and

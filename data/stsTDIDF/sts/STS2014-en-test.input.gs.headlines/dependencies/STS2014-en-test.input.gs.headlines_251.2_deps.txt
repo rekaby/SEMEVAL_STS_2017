@@ -1,0 +1,9 @@
+nsubj	step	Chairman
+case	easyJet	of
+compound	easyJet	British
+amod	easyJet	no-frills
+compound	easyJet	airline
+nmod:of	Chairman	easyJet
+mark	step	to
+root	ROOT	step
+compound:prt	step	down

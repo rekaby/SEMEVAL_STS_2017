@@ -1,0 +1,5 @@
+root	ROOT	Man
+acl	Man	quizzed
+case	murder	over
+amod	murder	Megan-Leigh
+nmod:over	quizzed	murder

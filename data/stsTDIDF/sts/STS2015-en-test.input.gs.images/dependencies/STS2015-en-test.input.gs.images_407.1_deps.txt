@@ -1,0 +1,14 @@
+det	man	The
+nsubj	climbing	man
+case	shirt	in
+det	shirt	the
+amod	shirt	red
+nmod:in	man	shirt
+aux	climbing	is
+root	ROOT	climbing
+det	side	the
+dobj	climbing	side
+case	mountain	of
+det	mountain	a
+nmod:of	side	mountain
+punct	climbing	.

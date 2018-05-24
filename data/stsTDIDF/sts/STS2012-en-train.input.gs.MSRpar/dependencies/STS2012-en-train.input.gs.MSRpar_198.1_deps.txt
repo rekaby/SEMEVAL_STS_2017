@@ -1,0 +1,15 @@
+nsubj	says	SCO
+root	ROOT	says
+det	terms	the
+compound	terms	pricing
+nsubjpass	announced	terms
+case	license	for
+det	license	a
+nmod:for	terms	license
+aux	announced	will
+neg	announced	not
+auxpass	announced	be
+ccomp	says	announced
+case	weeks	for
+nmod:for	announced	weeks
+punct	says	.

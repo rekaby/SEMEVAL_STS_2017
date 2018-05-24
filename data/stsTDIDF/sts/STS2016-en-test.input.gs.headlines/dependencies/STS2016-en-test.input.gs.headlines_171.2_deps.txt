@@ -1,0 +1,8 @@
+nsubj	Go	Guineans
+root	ROOT	Go
+case	Polls	to
+det	Polls	the
+nmod:to	Go	Polls
+case	Elections	in
+compound	Elections	Presidential
+nmod:in	Polls	Elections

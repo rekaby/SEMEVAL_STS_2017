@@ -1,0 +1,16 @@
+det	switch	the
+nsubj	has	switch
+root	ROOT	has
+mark	contained	to
+auxpass	contained	be
+xcomp	has	contained
+case	path	in
+det	path	the
+amod	path	same
+nmod:in	contained	path
+case	bulb	as
+det	bulb	the
+nmod:as	path	bulb
+cc	path	and
+det	battery	the
+conj:and	path	battery

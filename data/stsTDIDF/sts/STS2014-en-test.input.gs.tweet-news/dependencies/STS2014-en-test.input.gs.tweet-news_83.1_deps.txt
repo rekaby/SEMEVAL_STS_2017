@@ -1,0 +1,17 @@
+dobj	Know	What
+nsubj	Know	We
+aux	Know	Do
+neg	Know	n't
+dep	handle	Know
+aux	Killing	Is
+dep	handle	Killing
+compound	industry	Us
+det	industry	The
+compound	industry	gun
+nsubj	handle	industry
+aux	handle	ca
+neg	handle	n't
+root	ROOT	handle
+det	truth	the
+dobj	handle	truth
+punct	handle	.

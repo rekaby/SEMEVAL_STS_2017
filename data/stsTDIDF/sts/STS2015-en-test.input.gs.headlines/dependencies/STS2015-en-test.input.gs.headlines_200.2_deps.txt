@@ -1,0 +1,11 @@
+root	ROOT	Outrage
+case	Girl	After
+amod	Girl	Indian
+nmod:after	Outrage	Girl
+punct	Girl	,
+nummod	Girl	6
+punct	Girl	,
+acl	Girl	Raped
+case	School	at
+nmod:poss	School	Her
+nmod:at	Raped	School

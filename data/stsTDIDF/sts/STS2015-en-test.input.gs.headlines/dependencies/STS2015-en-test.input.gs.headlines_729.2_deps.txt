@@ -1,0 +1,8 @@
+nsubj	fears	France
+root	ROOT	fears
+nsubj	benefit	extremists
+aux	benefit	will
+ccomp	fears	benefit
+case	Egypt	from
+nmod:from	benefit	Egypt
+dobj	benefit	violence

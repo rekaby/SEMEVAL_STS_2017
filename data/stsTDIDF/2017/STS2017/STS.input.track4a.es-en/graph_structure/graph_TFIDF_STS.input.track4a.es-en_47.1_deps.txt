@@ -1,0 +1,5 @@
+train	for	case
+reading	woman	nsubj
+waiting	train	nmod:for
+reading	waiting	advcl
+waiting	while	mark

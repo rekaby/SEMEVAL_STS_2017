@@ -1,0 +1,16 @@
+det	boy	A
+nsubj	squats	boy
+root	ROOT	squats
+case	net	in
+mwe	in	front
+mwe	in	of
+det	net	an
+amod	net	empty
+nmod:in_front_of	squats	net
+case	castle	with
+det	castle	an
+amod	castle	inflatable
+nmod:with	squats	castle
+case	him	behind
+nmod:behind	castle	him
+punct	squats	.

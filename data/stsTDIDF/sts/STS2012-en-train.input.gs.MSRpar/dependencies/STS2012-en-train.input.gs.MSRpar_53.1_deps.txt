@@ -1,0 +1,17 @@
+compound	Heatley	Mr.
+nsubj	faces	Heatley
+punct	Heatley	,
+nsubj	suffered	who
+acl:relcl	Heatley	suffered
+det	jaw	a
+amod	jaw	broken
+dobj	suffered	jaw
+cc	jaw	and
+amod	ligaments	torn
+compound	ligaments	knee
+conj:and	jaw	ligaments
+punct	Heatley	,
+root	ROOT	faces
+amod	charges	several
+dobj	faces	charges
+punct	faces	.

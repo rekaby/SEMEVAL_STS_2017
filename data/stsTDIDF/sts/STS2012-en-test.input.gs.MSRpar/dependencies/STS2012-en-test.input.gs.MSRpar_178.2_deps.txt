@@ -1,0 +1,14 @@
+det	decision	The
+nsubj	incorrect	decision
+cop	incorrect	is
+punct	incorrect	``
+advmod	incorrect	clearly
+ccomp	said	incorrect
+punct	said	,
+punct	said	''
+compound	Muris	FTC
+compound	Muris	Chairman
+compound	Muris	Tim
+nsubj	said	Muris
+root	ROOT	said
+punct	said	.

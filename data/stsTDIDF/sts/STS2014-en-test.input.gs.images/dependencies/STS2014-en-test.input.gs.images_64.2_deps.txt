@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	young
+root	ROOT	woman
+case	top	with
+det	top	a
+amod	top	black
+nmod:with	woman	top
+cc	top	and
+det	necklace	a
+conj:and	top	necklace
+punct	woman	.

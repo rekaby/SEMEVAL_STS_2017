@@ -1,0 +1,9 @@
+doing	man	nsubj
+shorts	in	case
+pose	beach	nmod:on
+man	shorts	nmod:in
+doing	yoga	dobj
+yoga	a	det
+shorts	printed	amod
+shorts	board	compound
+doing	pose	xcomp

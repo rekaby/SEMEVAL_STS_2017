@@ -1,0 +1,10 @@
+punct	falls	``
+punct	falls	:
+compound	Dog	Secret
+compound	Dog	Service
+nsubj	falls	Dog
+root	ROOT	falls
+case	Death	to
+nmod:poss	Death	its
+nmod:to	falls	Death
+punct	falls	''

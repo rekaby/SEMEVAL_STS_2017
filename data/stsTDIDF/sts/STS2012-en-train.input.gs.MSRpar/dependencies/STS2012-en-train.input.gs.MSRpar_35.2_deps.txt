@@ -1,0 +1,27 @@
+det	average	The
+amod	average	blue-chip
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-7) nsubj(fell-2, DJI
+root	ROOT	fell
+nummod	points	86.56
+dobj	fell	points
+punct	points	,
+cc	points	or
+nummod	percent	0.94
+conj:or	points	percent
+punct	points	,
+case	9,109.99	to
+nmod:to	fell	9,109.99
+punct	fell	,
+mark	giving	after
+advcl	fell	giving
+compound:prt	giving	up
+advmod	1	more
+mwe	more	than
+nummod	percent	1
+nmod:npmod	earlier	percent
+advmod	giving	earlier
+punct	fell	.

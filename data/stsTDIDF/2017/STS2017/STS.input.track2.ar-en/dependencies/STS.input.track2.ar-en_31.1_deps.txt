@@ -1,0 +1,9 @@
+det	man	The
+amod	man	homeless
+root	ROOT	man
+dep	man	is
+advmod	is	alone
+case	box	in
+nmod:poss	box	his
+nmod:in	alone	box
+punct	man	.

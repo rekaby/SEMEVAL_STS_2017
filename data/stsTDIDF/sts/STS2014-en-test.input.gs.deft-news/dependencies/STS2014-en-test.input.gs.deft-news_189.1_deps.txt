@@ -1,0 +1,9 @@
+compound	putin	president
+nsubj	stated	putin
+root	ROOT	stated
+mark	take	that
+nsubj	take	russia
+aux	take	would
+ccomp	stated	take
+dobj	take	countermeasures
+punct	stated	.

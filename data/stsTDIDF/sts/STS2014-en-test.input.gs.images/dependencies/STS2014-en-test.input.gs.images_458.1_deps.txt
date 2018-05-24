@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	doing
+det	wheelie	a
+dobj	doing	wheelie
+case	bike	on
+det	bike	a
+compound	bike	mountain
+nmod:on	doing	bike
+punct	man	.

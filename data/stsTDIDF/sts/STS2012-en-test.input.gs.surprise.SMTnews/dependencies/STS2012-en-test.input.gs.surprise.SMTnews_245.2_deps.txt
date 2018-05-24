@@ -1,0 +1,10 @@
+nmod:poss	spouses	Their
+amod	spouses	donnerait-elle
+compound	spouses	divorce
+compound	spouses	law
+root	ROOT	spouses
+nsubj	abandoned	who
+aux	abandoned	have
+acl:relcl	spouses	abandoned
+dobj	abandoned	them
+punct	spouses	?

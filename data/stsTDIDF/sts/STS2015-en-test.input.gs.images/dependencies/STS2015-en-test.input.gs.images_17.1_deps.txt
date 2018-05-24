@@ -1,0 +1,13 @@
+det	man	A
+nsubj	hanging	man
+aux	hanging	is
+root	ROOT	hanging
+case	line	by
+det	line	a
+nmod:by	hanging	line
+case	cliff	off
+det	cliff	a
+nmod:off	line	cliff
+case	water	above
+nmod:above	cliff	water
+punct	hanging	.

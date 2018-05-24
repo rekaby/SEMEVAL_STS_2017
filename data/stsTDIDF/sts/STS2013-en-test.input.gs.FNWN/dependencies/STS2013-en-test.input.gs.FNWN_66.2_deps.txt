@@ -1,0 +1,7 @@
+compound	something	drive
+root	ROOT	something
+advmod	location	violently
+case	location	into
+det	location	a
+nmod:into	something	location
+punct	something	;

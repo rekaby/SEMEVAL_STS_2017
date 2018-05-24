@@ -1,0 +1,14 @@
+root	ROOT	Look
+case	book	through
+det	book	a
+nmod:through	Look	book
+cc	book	or
+det	material	some
+amod	material	other
+amod	material	written
+conj:or	book	material
+punct	information	-LRB-
+case	information	for
+nmod:for	material	information
+punct	information	-RRB-
+punct	Look	.

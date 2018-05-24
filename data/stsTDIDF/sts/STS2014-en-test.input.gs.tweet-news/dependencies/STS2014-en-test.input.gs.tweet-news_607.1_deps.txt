@@ -1,0 +1,17 @@
+nsubj	calling	I
+aux	calling	am
+root	ROOT	calling
+dobj	calling	BS
+nummod	BS	!!!-5) root(ROOT-0, NYTimes
+punct	NYTimes	:
+nsubj	Says	Morsi
+dep	NYTimes	Says
+nmod:poss	Slurs	His
+nsubjpass	Taken	Slurs
+case	Jews	of
+nmod:of	Slurs	Jews
+auxpass	Taken	Were
+ccomp	Says	Taken
+case	Context	Out
+mwe	Out	of
+nmod:out_of	Taken	Context

@@ -1,0 +1,8 @@
+det	pad	a
+amod	pad	soft
+root	ROOT	pad
+acl	pad	placed
+case	saddle	under
+det	saddle	a
+nmod:under	placed	saddle
+punct	pad	.

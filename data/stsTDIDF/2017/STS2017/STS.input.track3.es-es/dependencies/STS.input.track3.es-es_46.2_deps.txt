@@ -1,0 +1,8 @@
+nsubj	sewing	Women
+aux	sewing	are
+root	ROOT	sewing
+cc	sewing	and
+conj:and	sewing	knitting
+compound	blankets	baby
+dobj	knitting	blankets
+punct	sewing	.

@@ -1,0 +1,9 @@
+root	ROOT	Force
+mark	go	to
+acl	Force	go
+advmod	go	away
+case	eye	by
+advmod	eye	blinking
+nummod	eye	one
+nmod:by	go	eye
+punct	Force	.

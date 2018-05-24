@@ -1,0 +1,17 @@
+nsubjpass	minded	i
+auxpass	minded	'm
+amod	minded	open
+root	ROOT	minded
+cc	minded	and
+nsubj	take	i
+advmod	take	just
+aux	take	do
+neg	take	n't
+conj:and	minded	take
+dobj	take	things
+mark	do	as
+advmod	do	personally
+mark	do	as
+nsubj	do	others
+advcl	take	do
+punct	minded	.

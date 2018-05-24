@@ -1,0 +1,6 @@
+nsubj	show	Photos
+root	ROOT	show
+compound	Korea	N.
+compound	readiness	Korea
+amod	readiness	nuclear
+dobj	show	readiness

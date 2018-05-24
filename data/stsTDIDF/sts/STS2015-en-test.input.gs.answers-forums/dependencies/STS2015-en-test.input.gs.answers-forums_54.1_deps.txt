@@ -1,0 +1,14 @@
+nsubj	adjusted	I
+aux	adjusted	've
+neg	adjusted	never
+root	ROOT	adjusted
+det	length	the
+dobj	adjusted	length
+case	time	of
+nmod:of	length	time
+acl	time	based
+case	number	on
+nmod:on	based	number
+case	eggs	of
+nmod:of	number	eggs
+punct	adjusted	.

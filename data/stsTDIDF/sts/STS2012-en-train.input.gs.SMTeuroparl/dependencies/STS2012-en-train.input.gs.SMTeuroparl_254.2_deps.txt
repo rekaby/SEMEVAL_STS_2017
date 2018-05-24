@@ -1,0 +1,16 @@
+det	right	The
+nsubj	definition	right
+case	government	to
+det	government	a
+nmod:to	right	government
+case	Constitution	of
+advmod	Constitution	arbitrarily
+nmod:poss	Constitution	its
+nmod:of	government	Constitution
+cop	definition	is
+det	definition	the
+root	ROOT	definition
+case	dictatorship	of
+det	dictatorship	a
+nmod:of	definition	dictatorship
+punct	definition	.

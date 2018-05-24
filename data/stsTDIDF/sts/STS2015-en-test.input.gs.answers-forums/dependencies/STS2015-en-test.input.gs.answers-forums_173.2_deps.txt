@@ -1,0 +1,16 @@
+nsubj	difficult	It
+cop	difficult	is
+advmod	difficult	always
+root	ROOT	difficult
+advmod	refuse	when
+nsubj	refuse	parents
+advcl	difficult	refuse
+mark	see	to
+xcomp	refuse	see
+nsubj	seems	what
+ccomp	see	seems
+xcomp	seems	obvious
+case	teacher	to
+det	teacher	a
+nmod:to	obvious	teacher
+punct	difficult	.

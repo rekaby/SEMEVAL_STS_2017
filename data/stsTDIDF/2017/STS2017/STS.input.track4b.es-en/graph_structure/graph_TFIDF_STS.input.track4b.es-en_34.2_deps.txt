@@ -1,0 +1,11 @@
+term	first	amod
+plan	own	amod
+forgot	term	nmod:during
+plan	peace	compound
+term	During	case
+ROOT	forgot	root
+forgot	,	punct
+forgot	he	nsubj
+forgot	.	punct
+forgot	present	xcomp
+present	plan	dobj

@@ -1,0 +1,12 @@
+root	ROOT	Spur
+case	urge	on
+punct	urge	,
+nmod:on	Spur	urge
+punct	urge	,
+cc	urge	or
+conj:or	urge	deride
+case	cheers	by
+nmod:by	deride	cheers
+cc	cheers	and
+conj:and	cheers	shouts
+punct	Spur	.

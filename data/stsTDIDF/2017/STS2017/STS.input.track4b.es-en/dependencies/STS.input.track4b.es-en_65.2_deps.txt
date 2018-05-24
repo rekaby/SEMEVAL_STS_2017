@@ -1,0 +1,15 @@
+det	goal	The
+nsubj	is	goal
+ccomp	said	is
+mark	celebrate	to
+xcomp	is	celebrate
+compound	LaBelle	Patti
+dobj	celebrate	LaBelle
+amod	LaBelle	responsible
+case	conduct	for
+nmod:poss	conduct	his
+nmod:for	responsible	conduct
+punct	said	,
+nsubj	said	Davis
+root	ROOT	said
+punct	said	.

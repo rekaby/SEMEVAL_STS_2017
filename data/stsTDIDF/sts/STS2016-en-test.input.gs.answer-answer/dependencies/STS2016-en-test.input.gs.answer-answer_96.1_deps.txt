@@ -1,0 +1,9 @@
+nsubj	going	I
+aux	going	'm
+root	ROOT	going
+mark	direct	to
+cop	direct	be
+advmod	direct	very
+xcomp	going	direct
+advmod	direct	here
+punct	going	.

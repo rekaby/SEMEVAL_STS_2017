@@ -1,0 +1,10 @@
+waiting	cross	xcomp
+cross	street	dobj
+lady	shirt	nmod:in
+lady	The	det
+lady	sad	amod
+waiting	is	aux
+waiting	lady	nsubj
+street	busy	amod
+shirt	the	det
+shirt	blue	amod

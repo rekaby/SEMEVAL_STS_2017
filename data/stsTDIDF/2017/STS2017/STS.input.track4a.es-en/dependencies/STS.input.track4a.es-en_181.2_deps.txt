@@ -1,0 +1,7 @@
+root	ROOT	Man
+acl	Man	giving
+det	child	the
+dobj	giving	child
+advmod	giving	back
+case	parents	to
+nmod:to	giving	parents

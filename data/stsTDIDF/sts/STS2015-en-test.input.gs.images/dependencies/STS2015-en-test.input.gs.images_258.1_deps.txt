@@ -1,0 +1,8 @@
+nummod	dogs	Six
+nsubj	running	dogs
+root	ROOT	running
+case	beach	on
+det	beach	the
+amod	beach	sandy
+nmod:on	running	beach
+punct	running	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	preparing	man
+aux	preparing	is
+root	ROOT	preparing
+det	dish	some
+dobj	preparing	dish
+punct	preparing	.

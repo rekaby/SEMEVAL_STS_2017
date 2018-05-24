@@ -1,0 +1,16 @@
+nsubj	has	It
+root	ROOT	has
+det	record	a
+amod	record	chequered
+compound	record	safety
+dobj	has	record
+punct	record	,
+case	accidents	including
+nummod	accidents	47
+nmod:including	record	accidents
+nsubj	resulted	that
+acl:relcl	accidents	resulted
+case	deaths	in
+nummod	deaths	668
+nmod:in	resulted	deaths
+punct	has	.

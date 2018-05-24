@@ -1,0 +1,12 @@
+det	time	Each
+nmod:tmod	made	time
+punct	made	,
+amod	radicals	technological
+compound	radicals	progress
+nsubj	made	radicals
+aux	made	have
+root	ROOT	made
+det	threats	these
+nsubj	slip	threats
+ccomp	made	slip
+punct	made	.

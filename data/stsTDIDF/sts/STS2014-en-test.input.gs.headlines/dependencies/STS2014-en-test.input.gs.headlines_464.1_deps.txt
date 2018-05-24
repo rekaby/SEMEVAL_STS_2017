@@ -1,0 +1,9 @@
+amod	Opposition	Syrian
+nsubj	Urges	Opposition
+root	ROOT	Urges
+dobj	Urges	EU
+mark	Send	to
+advcl	Urges	Send
+dobj	Send	Arms
+case	Rebels	to
+nmod:to	Send	Rebels

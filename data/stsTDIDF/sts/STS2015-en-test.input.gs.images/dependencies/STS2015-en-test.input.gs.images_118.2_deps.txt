@@ -1,0 +1,11 @@
+det	man	A
+nsubj	carries	man
+root	ROOT	carries
+det	sign	a
+dobj	carries	sign
+mark	standing	while
+advcl	carries	standing
+case	rain	in
+det	rain	the
+nmod:in	standing	rain
+punct	carries	.

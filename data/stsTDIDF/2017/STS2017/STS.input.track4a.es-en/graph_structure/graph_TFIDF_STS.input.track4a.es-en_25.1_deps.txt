@@ -1,0 +1,7 @@
+lush	green	conj:and
+lush	and	cc
+ROOT	trees	root
+trees	The	det
+all	lush	dep
+trees	.	punct
+trees	are	acl

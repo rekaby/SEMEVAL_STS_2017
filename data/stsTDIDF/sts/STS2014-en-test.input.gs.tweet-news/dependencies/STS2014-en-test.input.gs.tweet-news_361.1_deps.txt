@@ -1,0 +1,21 @@
+det	architect	An
+nsubj	building	architect
+aux	building	is
+root	ROOT	building
+det	house	a
+compound	house	mobius
+compound	house	band
+dobj	building	house
+case	printer	with
+det	printer	a
+compound	printer	3D
+nmod:with	building	printer
+punct	building	.-13) nsubj(knew-2, I
+root	ROOT	knew
+det	things	those
+nsubj	come	things
+aux	come	would
+ccomp	knew	come
+case	handy	in
+nmod:in	come	handy
+punct	knew	.

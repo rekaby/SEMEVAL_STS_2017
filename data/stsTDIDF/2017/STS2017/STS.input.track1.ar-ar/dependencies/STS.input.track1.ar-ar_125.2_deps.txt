@@ -1,0 +1,6 @@
+nsubj	bouncing	Boy
+root	ROOT	bouncing
+case	trampoline	on
+det	trampoline	a
+nmod:on	bouncing	trampoline
+punct	bouncing	.

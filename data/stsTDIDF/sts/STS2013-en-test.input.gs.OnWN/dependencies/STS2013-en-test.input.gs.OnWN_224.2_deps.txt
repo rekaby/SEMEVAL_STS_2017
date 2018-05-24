@@ -1,0 +1,6 @@
+det	chance	a
+root	ROOT	chance
+mark	do	to
+acl	chance	do
+dobj	do	something
+punct	chance	.

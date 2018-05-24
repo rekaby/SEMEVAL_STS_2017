@@ -1,0 +1,9 @@
+expl	's	There
+root	ROOT	's
+neg	chance	no
+nsubj	's	chance
+case	trial	of
+det	trial	a
+amod	trial	fair
+nmod:of	chance	trial
+punct	's	.

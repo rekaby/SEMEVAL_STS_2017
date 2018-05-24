@@ -1,0 +1,6 @@
+nsubj	resigns	Head
+case	CIA	of
+nmod:of	Head	CIA
+root	ROOT	resigns
+case	affair	over
+nmod:over	resigns	affair

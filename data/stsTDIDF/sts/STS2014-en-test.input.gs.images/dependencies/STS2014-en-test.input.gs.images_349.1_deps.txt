@@ -1,0 +1,10 @@
+nummod	planes	Four
+amod	planes	blue
+cc	blue	and
+conj:and	blue	yellow
+nsubj	flying	planes
+root	ROOT	flying
+case	boats	over
+nummod	boats	four
+nmod:over	flying	boats
+punct	flying	.

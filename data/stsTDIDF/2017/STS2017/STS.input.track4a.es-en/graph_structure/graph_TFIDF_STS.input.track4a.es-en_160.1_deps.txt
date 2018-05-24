@@ -1,0 +1,5 @@
+ROOT	tree	root
+tree	bird	nsubj
+tree	on	case
+bird	The	det
+tree	is	cop

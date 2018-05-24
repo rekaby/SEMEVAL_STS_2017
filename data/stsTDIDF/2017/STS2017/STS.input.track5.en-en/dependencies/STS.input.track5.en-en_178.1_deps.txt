@@ -1,0 +1,12 @@
+det	guy	A
+nsubj	rock	guy
+cc	guy	and
+det	girl	a
+conj:and	guy	girl
+cop	rock	are
+root	ROOT	rock
+xcomp	rock	climbing
+case	backpacks	with
+nmod:with	climbing	backpacks
+nmod	climbing	on
+punct	rock	.

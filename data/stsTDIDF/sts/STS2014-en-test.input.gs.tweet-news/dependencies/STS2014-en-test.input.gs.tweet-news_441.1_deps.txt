@@ -1,0 +1,19 @@
+aux	good	Could
+nsubj	good	it
+cop	good	be
+root	ROOT	good
+punct	good	?-5) root(ROOT-0, Sounds
+amod	ABC	intriguing
+punct	intriguing	...
+dobj	Sounds	ABC
+mark	look	to
+xcomp	Sounds	look
+case	series	at
+punct	series	`
+compound	Wars	Star
+nmod:poss	series	Wars
+case	Wars	'
+amod	series	live-action
+compound	series	TV
+nmod:at	look	series
+punct	Sounds	-

@@ -1,0 +1,12 @@
+det	man	The
+nsubj	wears	man
+root	ROOT	wears
+det	thong	a
+dobj	wears	thong
+cc	wears	and
+aux	standing	is
+conj:and	wears	standing
+case	stool	on
+det	stool	the
+nmod:on	standing	stool
+punct	wears	.

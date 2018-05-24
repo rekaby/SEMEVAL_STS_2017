@@ -1,0 +1,8 @@
+compound	strategy	Lance
+compound	strategy	Armstrong
+compound	strategy	plots
+root	ROOT	strategy
+case	loss	after
+nmod:after	strategy	loss
+case	titles	of
+nmod:of	loss	titles

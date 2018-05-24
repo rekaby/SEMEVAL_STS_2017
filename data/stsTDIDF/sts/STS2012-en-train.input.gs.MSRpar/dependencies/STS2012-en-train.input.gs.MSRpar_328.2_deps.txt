@@ -1,0 +1,19 @@
+det	average	The
+amod	average	blue-chip
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-7) nsubj(tacked-2, DJI
+root	ROOT	tacked
+case	points	on
+nummod	points	97
+nmod:on	tacked	points
+punct	points	,
+cc	points	or
+nummod	percent	1.14
+conj:or	points	percent
+punct	tacked	,
+case	8,699	to
+nmod:to	tacked	8,699
+punct	tacked	.

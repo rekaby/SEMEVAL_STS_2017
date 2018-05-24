@@ -1,0 +1,7 @@
+nmod:poss	party	Erdogan
+case	Erdogan	's
+nsubj	aims	party
+root	ROOT	aims
+case	presidency	for
+amod	presidency	Turkish
+nmod:for	aims	presidency

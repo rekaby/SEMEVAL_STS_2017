@@ -1,0 +1,11 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	used	on
+advmod	used	how
+det	term	the
+nsubjpass	used	term
+auxpass	used	is
+advcl	depends	used
+nsubj	think	I
+ccomp	used	think
+punct	depends	.

@@ -1,0 +1,10 @@
+root	ROOT	Man
+case	standing	in
+amod	standing	red
+compound	standing	jacket
+nmod:in	Man	standing
+case	lighthouse	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	standing	lighthouse
+punct	Man	.

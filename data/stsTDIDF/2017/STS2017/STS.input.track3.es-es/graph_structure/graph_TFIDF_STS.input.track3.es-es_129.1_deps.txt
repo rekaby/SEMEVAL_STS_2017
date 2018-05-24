@@ -1,0 +1,5 @@
+truck	fire	compound
+work	truck	nmod:in
+firefighters	Two	nummod
+work	firefighters	nsubj
+truck	in	case

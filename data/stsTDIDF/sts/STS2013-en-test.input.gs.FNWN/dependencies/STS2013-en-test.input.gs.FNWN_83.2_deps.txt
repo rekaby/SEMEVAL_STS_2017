@@ -1,0 +1,9 @@
+det	land	the
+root	ROOT	land
+case	which	on
+nmod:on	located	which
+amod	estate	real
+nsubj	located	estate
+cop	located	is
+acl:relcl	land	located
+punct	land	;

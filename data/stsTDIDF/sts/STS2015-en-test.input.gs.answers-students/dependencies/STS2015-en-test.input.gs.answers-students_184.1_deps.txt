@@ -1,0 +1,10 @@
+det	battery	The
+amod	battery	positive
+nsubjpass	connected	battery
+auxpass	connected	was
+neg	connected	not
+root	ROOT	connected
+case	one	to
+amod	one	terminal
+nmod:to	connected	one
+punct	connected	.

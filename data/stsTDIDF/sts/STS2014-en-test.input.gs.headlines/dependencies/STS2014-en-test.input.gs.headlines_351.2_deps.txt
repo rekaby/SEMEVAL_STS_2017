@@ -1,0 +1,7 @@
+compound	Jones	Vinnie
+nsubj	reveals	Jones
+root	ROOT	reveals
+nsubj	has	he
+ccomp	reveals	has
+compound	cancer	skin
+dobj	has	cancer

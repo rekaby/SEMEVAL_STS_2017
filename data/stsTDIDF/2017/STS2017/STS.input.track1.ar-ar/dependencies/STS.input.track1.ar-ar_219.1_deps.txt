@@ -1,0 +1,12 @@
+root	ROOT	Woman
+cc	Woman	and
+det	man	a
+amod	man	young
+conj:and	Woman	man
+dep	Woman	in
+dep	in	the
+amod	the	outside
+case	animal	with
+det	animal	the
+nmod:with	outside	animal
+punct	Woman	.

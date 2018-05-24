@@ -1,0 +1,12 @@
+det	act	an
+root	ROOT	act
+punct	failure	-LRB-
+cc	failure	or
+dep	act	failure
+mark	act	to
+acl	failure	act
+punct	failure	-RRB-
+nsubj	disappoints	that
+acl:relcl	act	disappoints
+dobj	disappoints	someone
+punct	act	.

@@ -1,0 +1,16 @@
+advmod	true	Yes
+punct	true	,
+nsubj	true	it
+cop	true	's
+root	ROOT	true
+mark	arcmin	that
+det	size	the
+amod	size	apparent
+nsubj	arcmin	size
+case	Moon	of
+det	Moon	the
+nmod:of	size	Moon
+cop	arcmin	is
+nummod	arcmin	30
+ccomp	true	arcmin
+punct	true	.

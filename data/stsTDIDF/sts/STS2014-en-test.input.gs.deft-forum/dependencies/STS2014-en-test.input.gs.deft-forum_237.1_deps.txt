@@ -1,0 +1,7 @@
+nsubj	get	Regulation
+root	ROOT	get
+det	government	the
+dobj	get	government
+case	everything	into
+nmod:into	get	everything
+punct	get	.

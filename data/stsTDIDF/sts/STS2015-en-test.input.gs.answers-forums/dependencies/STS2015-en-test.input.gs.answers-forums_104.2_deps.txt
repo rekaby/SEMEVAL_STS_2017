@@ -1,0 +1,15 @@
+det	support	Some
+nsubj	hurt	support
+aux	hurt	wo
+neg	hurt	n't
+root	ROOT	hurt
+punct	hurt	,
+advmod	variety	especially
+mark	variety	if
+nsubj	variety	it
+cop	variety	is
+det	variety	a
+amod	variety	large
+amod	variety	fruited
+advcl	hurt	variety
+punct	hurt	.

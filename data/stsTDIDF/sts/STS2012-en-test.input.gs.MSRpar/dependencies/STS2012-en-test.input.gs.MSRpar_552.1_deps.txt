@@ -1,0 +1,16 @@
+punct	found	``
+nsubj	found	We
+aux	found	have
+root	ROOT	found
+det	gun	the
+compound	gun	smoking
+dobj	found	gun
+punct	found	,
+punct	found	''
+advcl	found	investigating
+compound	Hubbard	board
+compound	Hubbard	member
+compound	Hubbard	Scott
+dobj	investigating	Hubbard
+dep	found	said
+punct	found	.

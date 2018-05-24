@@ -1,0 +1,7 @@
+compound	test	US
+compound	test	delays
+compound	test	missile
+nsubj	rise	test
+case	tensions	as
+nmod:as	test	tensions
+root	ROOT	rise

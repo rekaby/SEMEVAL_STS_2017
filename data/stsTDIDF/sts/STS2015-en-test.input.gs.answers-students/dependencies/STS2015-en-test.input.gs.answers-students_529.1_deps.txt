@@ -1,0 +1,5 @@
+det	path	The
+nsubj	close	path
+aux	close	does
+neg	close	not
+root	ROOT	close

@@ -1,0 +1,13 @@
+det	committee	The
+compound	committee	compensation
+nsubj	prohibit	committee
+aux	prohibit	will
+root	ROOT	prohibit
+compound	directors	securities
+compound	directors	industry
+dobj	prohibit	directors
+mark	sitting	from
+advcl	prohibit	sitting
+case	it	on
+nmod:on	sitting	it
+punct	prohibit	.

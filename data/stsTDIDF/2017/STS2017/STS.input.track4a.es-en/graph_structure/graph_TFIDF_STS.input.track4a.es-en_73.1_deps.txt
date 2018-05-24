@@ -1,0 +1,9 @@
+awaits	person	nsubj
+awaits	.	punct
+costume	SpongeBob	compound
+awaits	dog	dobj
+person	costume	nmod:in
+ROOT	awaits	root
+dog	hot	amod
+costume	in	case
+costume	a	det

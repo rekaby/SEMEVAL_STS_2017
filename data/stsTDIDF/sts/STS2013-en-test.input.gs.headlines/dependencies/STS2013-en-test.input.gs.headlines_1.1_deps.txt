@@ -1,0 +1,7 @@
+compound	lord	Drug
+root	ROOT	lord
+acl	lord	captured
+case	marines	by
+nmod:by	captured	marines
+case	Mexico	in
+nmod:in	marines	Mexico

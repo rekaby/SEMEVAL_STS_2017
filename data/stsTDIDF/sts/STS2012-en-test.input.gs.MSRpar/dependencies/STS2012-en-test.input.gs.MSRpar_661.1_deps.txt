@@ -1,0 +1,13 @@
+det	conservatives	The
+amod	conservatives	American
+nsubj	minority	conservatives
+cop	minority	are
+advmod	minority	clearly
+case	minority	in
+det	minority	the
+root	ROOT	minority
+case	Church	within
+det	Church	the
+compound	Church	Episcopal
+nmod:within	minority	Church
+punct	minority	.

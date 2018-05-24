@@ -1,0 +1,7 @@
+det	dog	A
+amod	dog	brown
+nsubj	squating	dog
+root	ROOT	squating
+case	grass	on
+nmod:on	squating	grass
+punct	squating	.

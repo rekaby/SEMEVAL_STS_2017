@@ -1,0 +1,12 @@
+root	ROOT	drag
+advmod	surface	loosely
+case	surface	along
+det	surface	a
+nmod:along	drag	surface
+punct	drag	;
+dep	drag	allow
+mark	sweep	to
+xcomp	allow	sweep
+det	ground	the
+dobj	sweep	ground
+punct	drag	.

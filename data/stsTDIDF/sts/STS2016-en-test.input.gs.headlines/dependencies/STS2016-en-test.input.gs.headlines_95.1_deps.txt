@@ -1,0 +1,10 @@
+nsubj	elected	Jordan
+root	ROOT	elected
+mark	take	to
+xcomp	elected	take
+amod	seat	Saudi
+dobj	take	seat
+case	Council	on
+compound	Council	UN
+compound	Council	Security
+nmod:on	take	Council

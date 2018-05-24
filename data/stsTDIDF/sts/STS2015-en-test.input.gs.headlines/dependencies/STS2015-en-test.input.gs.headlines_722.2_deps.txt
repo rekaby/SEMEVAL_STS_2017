@@ -1,0 +1,7 @@
+compound	Prize	Nobel
+nsubj	dies	Prize
+acl	Prize	winning
+compound	Lessing	author
+compound	Lessing	Doris
+dobj	winning	Lessing
+root	ROOT	dies

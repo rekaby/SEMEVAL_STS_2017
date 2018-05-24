@@ -1,0 +1,13 @@
+nsubj	causes	gap
+case	circuit	in
+nmod:in	gap	circuit
+case	B	at
+compound	B	bulb
+nmod:at	gap	B
+root	ROOT	causes
+det	reading	the
+compound	reading	voltage
+dobj	causes	reading
+mark	be	to
+xcomp	causes	be
+nsubj	be	0

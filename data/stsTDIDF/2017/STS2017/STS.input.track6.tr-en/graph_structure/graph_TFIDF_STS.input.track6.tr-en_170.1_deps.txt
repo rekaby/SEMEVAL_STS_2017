@@ -1,0 +1,7 @@
+wear	of	case
+ROOT	statue	root
+bit	with	case
+statue	.	punct
+statue	bit	nmod:with
+bit	wear	nmod:of
+statue	A	det

@@ -1,0 +1,11 @@
+punct	heads	`
+amod	heads	Large
+cc	Large	and
+advmod	dangerous	extremely
+conj:and	Large	dangerous
+punct	heads	'
+compound	heads	tornado
+root	ROOT	heads
+case	Oklahoma	towards
+nmod:towards	heads	Oklahoma
+dep	heads	City

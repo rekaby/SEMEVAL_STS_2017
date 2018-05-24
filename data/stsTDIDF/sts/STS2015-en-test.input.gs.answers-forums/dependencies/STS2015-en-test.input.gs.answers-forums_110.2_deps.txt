@@ -1,0 +1,17 @@
+nsubjpass	meant	It
+auxpass	meant	is
+root	ROOT	meant
+mark	stimulate	to
+xcomp	meant	stimulate
+compound	growth	root
+dobj	stimulate	growth
+punct	growth	-
+case	particular	in
+nmod:in	growth	particular
+mark	stimulate	to
+acl	particular	stimulate
+det	creation	the
+dobj	stimulate	creation
+case	roots	of
+nmod:of	creation	roots
+punct	meant	.

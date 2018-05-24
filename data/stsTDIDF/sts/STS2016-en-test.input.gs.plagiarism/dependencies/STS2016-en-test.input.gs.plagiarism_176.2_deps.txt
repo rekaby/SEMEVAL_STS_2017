@@ -1,0 +1,17 @@
+case	theorem	As
+det	theorem	an
+amod	theorem	official
+nmod:as	valid	theorem
+punct	valid	,
+nmod:poss	theorem	Bayes
+case	Bayes	'
+nsubj	valid	theorem
+cop	valid	is
+root	ROOT	valid
+case	interpretations	in
+det	interpretations	all
+amod	interpretations	universal
+nmod:in	valid	interpretations
+case	probability	of
+nmod:of	interpretations	probability
+punct	valid	.

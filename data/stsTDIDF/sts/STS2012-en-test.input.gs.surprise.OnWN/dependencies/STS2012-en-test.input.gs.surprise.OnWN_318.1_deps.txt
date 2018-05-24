@@ -1,0 +1,6 @@
+root	ROOT	recover
+dobj	recover	posession
+cc	recover	or
+conj:or	recover	get
+advmod	get	back
+advmod	recover	again

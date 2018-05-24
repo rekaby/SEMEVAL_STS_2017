@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	working	woman
+cc	woman	and
+det	man	the
+conj:and	woman	man
+aux	working	are
+root	ROOT	working
+case	farm	on
+det	farm	a
+nmod:on	working	farm
+punct	working	.

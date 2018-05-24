@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	woman	by
+det	woman	a
+nmod:by	man	woman
+case	boat	on
+det	boat	a
+nmod:on	woman	boat
+punct	man	.

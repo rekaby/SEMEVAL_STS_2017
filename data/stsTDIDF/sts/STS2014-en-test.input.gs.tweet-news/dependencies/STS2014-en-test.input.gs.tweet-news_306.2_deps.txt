@@ -1,0 +1,8 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+amod	Politics	Racial
+dep	Contributor	Politics
+cc	Politics	and
+compound	America	Miss
+conj:and	Politics	America

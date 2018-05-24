@@ -1,0 +1,6 @@
+have	Dog	nsubj
+Dog	chicken	conj:and
+colors	same	amod
+colors	the	det
+Dog	and	cc
+have	colors	dobj

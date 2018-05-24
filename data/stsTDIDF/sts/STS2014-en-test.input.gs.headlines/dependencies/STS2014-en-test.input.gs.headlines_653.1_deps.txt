@@ -1,0 +1,11 @@
+amod	president	Palestinian
+nsubj	assigns	president
+root	ROOT	assigns
+dobj	assigns	academic
+mark	form	to
+xcomp	assigns	form
+compound	gov	West
+compound	gov	Bank
+nmod:poss	t	gov
+punct	gov	'
+dobj	form	t

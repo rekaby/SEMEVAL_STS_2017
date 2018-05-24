@@ -1,0 +1,8 @@
+det	man	A
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+det	monitor	a
+compound	monitor	computer
+dobj	holding	monitor
+punct	holding	.

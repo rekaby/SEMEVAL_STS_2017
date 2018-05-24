@@ -1,0 +1,17 @@
+det	research	The
+amod	research	new
+nsubjpass	published	research
+aux	published	will
+auxpass	published	be
+root	ROOT	published
+advmod	published	soon
+case	Proceedings	in
+det	Proceedings	the
+nmod:in	published	Proceedings
+case	Academy	of
+det	Academy	the
+compound	Academy	National
+nmod:of	Proceedings	Academy
+case	Sciences	of
+nmod:of	Academy	Sciences
+punct	published	.

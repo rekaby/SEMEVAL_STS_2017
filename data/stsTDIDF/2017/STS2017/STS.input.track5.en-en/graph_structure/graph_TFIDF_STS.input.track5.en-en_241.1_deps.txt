@@ -1,0 +1,6 @@
+ball	outside	advmod
+ball	on	case
+sits	kid	nsubj
+sits	ball	nmod:on
+ball	soccer	compound
+kid	A	det

@@ -1,0 +1,8 @@
+det	dog	A
+compound	dog	tan
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	snow	through
+nmod:through	walking	snow
+punct	walking	.

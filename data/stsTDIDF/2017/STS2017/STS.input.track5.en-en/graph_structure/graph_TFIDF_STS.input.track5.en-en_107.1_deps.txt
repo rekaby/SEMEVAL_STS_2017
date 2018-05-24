@@ -1,0 +1,5 @@
+jacket	pink	amod
+girl	jacket	nmod:in
+game	board	compound
+playing	girl	nsubj
+jacket	in	case

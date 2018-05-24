@@ -1,0 +1,5 @@
+det	device	An
+amod	device	electronic
+compound	device	storage
+root	ROOT	device
+punct	device	.

@@ -1,0 +1,10 @@
+expl	path	There
+aux	path	must
+cop	path	be
+det	path	a
+amod	path	closed
+root	ROOT	path
+cc	path	and
+det	battery	a
+conj:and	path	battery
+punct	path	.

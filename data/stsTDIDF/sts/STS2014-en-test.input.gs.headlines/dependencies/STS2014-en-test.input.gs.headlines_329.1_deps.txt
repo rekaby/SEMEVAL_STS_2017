@@ -1,0 +1,6 @@
+compound	hits	Eurozone
+amod	hits	jobless
+root	ROOT	hits
+amod	record	fresh
+compound	high	record
+dobj	hits	high

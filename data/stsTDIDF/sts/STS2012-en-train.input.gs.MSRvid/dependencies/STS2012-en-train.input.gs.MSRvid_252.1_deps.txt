@@ -1,0 +1,11 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+advmod	chopping	rapidly
+root	ROOT	chopping
+det	mushrooms	some
+dobj	chopping	mushrooms
+xcomp	chopping	using
+det	knife	a
+dobj	using	knife
+punct	chopping	.

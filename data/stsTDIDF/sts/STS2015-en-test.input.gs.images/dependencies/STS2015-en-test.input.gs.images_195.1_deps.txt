@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	brown
+nsubj	running	dog
+root	ROOT	running
+case	woods	through
+det	woods	the
+nmod:through	running	woods
+punct	running	.

@@ -1,0 +1,5 @@
+det	stovetop	a
+root	ROOT	stovetop
+punct	stovetop	,
+compound	appliance	cooking
+appos	stovetop	appliance

@@ -1,0 +1,10 @@
+nsubj	forces	Egypt
+root	ROOT	forces
+xcomp	forces	set
+mark	block	to
+xcomp	set	block
+dobj	block	access
+case	camps	to
+compound	camps	Morsi
+compound	camps	protest
+nmod:to	access	camps

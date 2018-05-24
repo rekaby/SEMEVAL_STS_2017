@@ -1,0 +1,17 @@
+root	ROOT	But
+det	point	the
+compound	point	US
+nsubj	But	point
+case	view	of
+nmod:of	point	view
+punct	point	,
+det	role	the
+amod	role	international
+nsubj	trap	role
+case	dollar	of
+det	dollar	the
+nmod:of	role	dollar
+cop	trap	was
+det	trap	a
+acl:relcl	point	trap
+punct	But	.

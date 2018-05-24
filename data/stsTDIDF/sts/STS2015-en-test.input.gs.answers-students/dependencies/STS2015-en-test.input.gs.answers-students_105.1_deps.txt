@@ -1,0 +1,7 @@
+det	bulb	The
+nsubj	effect	bulb
+aux	effect	does
+neg	effect	not
+root	ROOT	effect
+det	others	the
+dobj	effect	others

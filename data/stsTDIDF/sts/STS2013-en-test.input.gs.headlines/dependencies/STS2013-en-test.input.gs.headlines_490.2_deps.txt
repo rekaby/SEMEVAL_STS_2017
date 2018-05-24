@@ -1,0 +1,8 @@
+nsubj	steps	Iran
+root	ROOT	steps
+compound:prt	steps	up
+amod	work	sensitive
+amod	work	nuclear
+dobj	steps	work
+punct	steps	-
+dep	steps	IAEA

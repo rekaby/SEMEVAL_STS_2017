@@ -1,0 +1,5 @@
+nsubj	watched	Ive
+root	ROOT	watched
+nsubj	play	kids
+ccomp	watched	play
+punct	watched	.

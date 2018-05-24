@@ -1,0 +1,9 @@
+compound	tests	US
+compound	tests	sprinter
+compound	tests	Tyson
+compound	tests	Gay
+root	ROOT	tests
+amod	tests	positive
+case	substance	for
+amod	substance	banned
+nmod:for	positive	substance

@@ -1,0 +1,10 @@
+det	skateboards	A
+compound	skateboards	boy
+root	ROOT	skateboards
+case	handrail	down
+det	handrail	the
+compound	handrail	metal
+nmod:down	skateboards	handrail
+case	night	at
+nmod:at	skateboards	night
+punct	skateboards	.

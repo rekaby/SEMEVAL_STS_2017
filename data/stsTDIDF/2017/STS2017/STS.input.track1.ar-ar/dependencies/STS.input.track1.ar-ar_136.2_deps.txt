@@ -1,0 +1,6 @@
+root	ROOT	Woman
+acl	Woman	playing
+case	crowd	to
+det	crowd	a
+nmod:to	playing	crowd
+punct	Woman	.

@@ -1,0 +1,9 @@
+nummod	bodies	12
+root	ROOT	bodies
+acl	bodies	found
+case	crash	at
+amod	crash	Russian
+compound	crash	jet
+nmod:at	found	crash
+case	Indonesia	in
+nmod:in	crash	Indonesia

@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	admitting	of
+acl	act	admitting
+dobj	admitting	someone
+mark	enter	to
+xcomp	admitting	enter
+punct	act	.

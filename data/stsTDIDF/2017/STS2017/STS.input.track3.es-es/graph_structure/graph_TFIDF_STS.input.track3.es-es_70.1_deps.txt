@@ -1,0 +1,5 @@
+walking	is	aux
+bicycle	his	nmod:poss
+bicycle	with	case
+walking	bicycle	nmod:with
+walking	man	nsubj

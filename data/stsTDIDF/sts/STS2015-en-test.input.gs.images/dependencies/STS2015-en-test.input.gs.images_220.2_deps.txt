@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	fluffy
+nsubj	carries	dog
+root	ROOT	carries
+det	leash	a
+amod	leash	black
+dobj	carries	leash
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	carries	mouth
+punct	carries	.

@@ -1,0 +1,9 @@
+root	ROOT	billow
+compound:prt	billow	up
+case	form	in
+det	form	the
+nmod:in	billow	form
+case	cloud	of
+det	cloud	a
+nmod:of	form	cloud
+punct	billow	.

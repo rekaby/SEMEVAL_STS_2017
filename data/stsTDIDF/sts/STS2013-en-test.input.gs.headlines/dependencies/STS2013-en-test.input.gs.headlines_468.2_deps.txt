@@ -1,0 +1,9 @@
+punct	dies	`
+nmod:poss	Joosten	Housewives
+case	Housewives	'
+compound	Joosten	actress
+compound	Joosten	Kathryn
+nsubj	dies	Joosten
+root	ROOT	dies
+case	72	at
+nmod:at	dies	72

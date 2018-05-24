@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	putting	of
+acl	act	putting
+dobj	putting	something
+mark	use	to
+advcl	putting	use
+punct	act	.

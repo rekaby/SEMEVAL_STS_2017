@@ -1,0 +1,9 @@
+det	fishermen	The
+nsubj	inactive	fishermen
+cop	inactive	are
+root	ROOT	inactive
+punct	inactive	,
+dep	inactive	tired
+cc	tired	and
+conj:and	tired	disappointed
+punct	inactive	.

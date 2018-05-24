@@ -1,0 +1,8 @@
+det	vehicle	any
+root	ROOT	vehicle
+amod	vehicle	self-propelled
+case	engine	by
+det	engine	a
+compound	engine	rocket
+nmod:by	self-propelled	engine
+punct	vehicle	.

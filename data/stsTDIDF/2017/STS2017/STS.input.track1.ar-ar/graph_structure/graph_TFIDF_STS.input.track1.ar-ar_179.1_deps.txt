@@ -1,0 +1,4 @@
+walking	People	nsubj
+group	abroad	advmod
+walking	group	nmod:as
+group	as	case

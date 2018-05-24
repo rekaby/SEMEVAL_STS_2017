@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	way	woman
+cop	way	is
+case	way	on
+nmod:poss	way	her
+root	ROOT	way
+case	date	to
+det	date	a
+nmod:to	way	date
+punct	way	.

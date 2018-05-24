@@ -1,0 +1,15 @@
+compound	sung-lac	wi
+nsubj	refused	sung-lac
+root	ROOT	refused
+mark	give	to
+xcomp	refused	give
+det	details	any
+dobj	give	details
+case	project	about
+det	project	the
+compound	project	north
+amod	project	korean
+amod	project	nuclear
+compound	project	reactor
+nmod:about	details	project
+punct	refused	.

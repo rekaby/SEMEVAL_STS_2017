@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+acl	dog	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	dog	.

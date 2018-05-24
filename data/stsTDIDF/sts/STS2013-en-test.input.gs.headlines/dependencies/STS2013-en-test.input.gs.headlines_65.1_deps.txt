@@ -1,0 +1,9 @@
+compound	Korea	South
+nsubj	Orders	Korea
+root	ROOT	Orders
+amod	Shutdown	Immediate
+dobj	Orders	Shutdown
+case	Reactors	of
+nummod	Reactors	2
+amod	Reactors	Nuclear
+nmod:of	Shutdown	Reactors

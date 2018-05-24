@@ -1,0 +1,16 @@
+det	One	The
+compound	One	Standard
+compound	One	Edition
+nsubj	version	One
+cop	version	is
+det	version	a
+amod	version	single
+compound	version	processor
+root	ROOT	version
+case	Database	of
+det	Database	the
+compound	Database	Oracle
+compound	Database	Standard
+compound	Database	Edition
+nmod:of	version	Database
+punct	version	.

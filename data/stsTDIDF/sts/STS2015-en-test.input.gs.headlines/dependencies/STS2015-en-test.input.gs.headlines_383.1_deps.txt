@@ -1,0 +1,10 @@
+compound	Court	Supreme
+nsubj	takes	Court
+root	ROOT	takes
+compound:prt	takes	on
+amod	action	affirmative
+dobj	takes	action
+case	Michigan	in
+nmod:in	action	Michigan
+compound	case	ban
+dobj	takes	case

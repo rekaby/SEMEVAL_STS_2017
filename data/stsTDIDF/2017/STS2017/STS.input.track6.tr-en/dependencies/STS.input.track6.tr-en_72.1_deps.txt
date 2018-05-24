@@ -1,0 +1,10 @@
+det	merchant	A
+nsubj	have	merchant
+aux	have	does
+neg	have	n't
+root	ROOT	have
+det	items	any
+dobj	have	items
+case	sale	for
+nmod:for	items	sale
+punct	have	.

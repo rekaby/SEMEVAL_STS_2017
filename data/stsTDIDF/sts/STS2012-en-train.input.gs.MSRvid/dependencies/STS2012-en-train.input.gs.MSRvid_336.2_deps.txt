@@ -1,0 +1,9 @@
+det	lady	The
+nsubj	measured	lady
+root	ROOT	measured
+det	woman	the
+amod	woman	other
+nmod:poss	ankle	woman
+case	woman	's
+dobj	measured	ankle
+punct	measured	.

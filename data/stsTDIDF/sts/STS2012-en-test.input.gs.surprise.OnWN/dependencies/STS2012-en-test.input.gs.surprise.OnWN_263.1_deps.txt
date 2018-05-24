@@ -1,0 +1,11 @@
+mark	remain	To
+root	ROOT	remain
+advmod	attached	emotionally
+cc	emotionally	or
+conj:or	emotionally	intellectually
+xcomp	remain	attached
+case	contact	without
+amod	contact	necessary
+amod	contact	physical
+nmod:without	attached	contact
+punct	remain	.

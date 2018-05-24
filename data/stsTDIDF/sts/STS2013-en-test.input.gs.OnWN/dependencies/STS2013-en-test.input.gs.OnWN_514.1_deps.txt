@@ -1,0 +1,12 @@
+root	ROOT	Have
+det	taste	a
+amod	taste	distinctive
+cc	distinctive	or
+conj:or	distinctive	characteristic
+dobj	Have	taste
+punct	taste	,
+amod	taste	perceptible
+case	experiencer	by
+det	experiencer	an
+nmod:by	perceptible	experiencer
+punct	Have	.

@@ -1,0 +1,4 @@
+det	quantity	A
+root	ROOT	quantity
+case	something	of
+nmod:of	quantity	something

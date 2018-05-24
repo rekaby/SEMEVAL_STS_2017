@@ -1,0 +1,16 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+dep	NYTimes	Talking
+punct	Talking	,
+amod	Objects	Walking
+conj	Talking	Objects
+punct	world	-LRB-
+nsubj	world	this
+cop	world	is
+det	world	a
+compound	world	fantasy
+appos	Objects	world
+case	me	for
+amod	me	geeky
+nmod:for	world	me
+punct	world	-RRB-

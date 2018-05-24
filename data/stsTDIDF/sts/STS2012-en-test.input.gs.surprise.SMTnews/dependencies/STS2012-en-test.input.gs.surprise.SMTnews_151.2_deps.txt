@@ -1,0 +1,12 @@
+cc	leading	And
+det	mistake	this
+amod	mistake	big
+nsubj	leading	mistake
+aux	leading	is
+root	ROOT	leading
+dobj	leading	Russia
+case	ruin	to
+nmod:poss	ruin	its
+amod	ruin	political
+nmod:to	leading	ruin
+punct	leading	.

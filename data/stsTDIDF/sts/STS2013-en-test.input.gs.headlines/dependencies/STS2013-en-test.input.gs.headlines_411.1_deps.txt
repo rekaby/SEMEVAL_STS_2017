@@ -1,0 +1,8 @@
+compound	Hands	US
+root	ROOT	Hands
+case	Prison	Over
+compound	Prison	Bagram
+nmod:over	Hands	Prison
+case	Authorities	to
+compound	Authorities	Afghan
+nmod:to	Hands	Authorities

@@ -1,0 +1,11 @@
+root	ROOT	someone
+cc	someone	or
+conj:or	someone	something
+nsubj	agent	that
+cop	agent	is
+det	agent	the
+acl:relcl	someone	agent
+mark	fulfilling	of
+acl	agent	fulfilling
+amod	expectations	desired
+dobj	fulfilling	expectations

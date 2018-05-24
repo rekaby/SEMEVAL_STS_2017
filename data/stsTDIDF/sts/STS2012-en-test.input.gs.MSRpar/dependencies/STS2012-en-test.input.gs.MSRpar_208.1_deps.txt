@@ -1,0 +1,15 @@
+nsubj	exploit	That
+root	ROOT	exploit
+dobj	exploit	works
+case	machines	on
+amod	machines	unpatched
+compound	machines	Windows
+nummod	machines	2000
+nmod:on	works	machines
+mark	Pack	with
+nsubj	Pack	Service
+acl	machines	Pack
+dobj	Pack	3
+cc	3	and
+conj:and	3	4
+punct	exploit	.

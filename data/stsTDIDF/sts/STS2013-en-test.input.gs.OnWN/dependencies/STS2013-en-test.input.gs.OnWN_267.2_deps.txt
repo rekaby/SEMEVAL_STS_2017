@@ -1,0 +1,12 @@
+punct	football	-LRB-
+amod	football	American
+root	ROOT	football
+punct	football	-RRB-
+det	position	a
+dep	football	position
+case	line	on
+det	line	the
+nmod:on	position	line
+case	scrimmage	of
+nmod:of	line	scrimmage
+punct	football	.

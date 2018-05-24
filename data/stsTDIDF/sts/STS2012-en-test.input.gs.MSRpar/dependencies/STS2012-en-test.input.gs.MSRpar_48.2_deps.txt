@@ -1,0 +1,16 @@
+root	ROOT	Also
+case	risk	at
+amod	risk	increased
+nmod:at	those	risk
+cop	those	are
+dep	Also	those
+case	systems	with
+amod	systems	suppressed
+amod	systems	immune
+nmod:with	those	systems
+amod	systems	due
+case	illness	to
+nmod:to	due	illness
+cc	illness	or
+conj:or	illness	medicines
+punct	Also	.

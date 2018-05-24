@@ -1,0 +1,16 @@
+nsubj	know	i
+aux	know	do
+neg	know	n't
+advmod	know	really
+root	ROOT	know
+dobj	know	what
+dep	what	is
+advmod	is	up
+cc	up	but
+nsubj	mad	i
+cop	mad	'm
+amod	mad	super
+conj:but	up	mad
+case	it	about
+nmod:about	mad	it
+punct	know	.

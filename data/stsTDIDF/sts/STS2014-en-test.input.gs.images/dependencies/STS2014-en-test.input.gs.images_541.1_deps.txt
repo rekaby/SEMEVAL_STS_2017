@@ -1,0 +1,11 @@
+det	cat	The
+nsubj	sitting	cat
+aux	sitting	is
+root	ROOT	sitting
+case	bag	on
+det	bag	a
+nmod:on	sitting	bag
+case	food	of
+compound	food	cat
+nmod:of	bag	food
+punct	sitting	.

@@ -1,0 +1,11 @@
+compound	Holmes	D.
+compound	Holmes	Brainerd
+nsubj	Dies	Holmes
+punct	Holmes	,
+compound	Official	Top
+compound	Official	NASA
+appos	Holmes	Official
+punct	Holmes	,
+root	ROOT	Dies
+case	91	at
+nmod:at	Dies	91

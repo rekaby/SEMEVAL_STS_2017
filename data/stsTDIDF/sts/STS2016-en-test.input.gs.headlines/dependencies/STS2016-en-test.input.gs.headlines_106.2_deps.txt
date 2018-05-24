@@ -1,0 +1,7 @@
+compound	Mandela	Nelson
+nsubj	Goes	Mandela
+root	ROOT	Goes
+dobj	Goes	Home
+case	Stay	After
+compound	Stay	Hospital
+nmod:after	Goes	Stay

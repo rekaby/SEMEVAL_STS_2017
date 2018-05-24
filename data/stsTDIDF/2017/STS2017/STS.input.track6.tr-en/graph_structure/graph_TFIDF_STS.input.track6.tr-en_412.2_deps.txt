@@ -1,0 +1,5 @@
+street	The	det
+crowded	street	nsubjpass
+crowded	is	auxpass
+ROOT	crowded	root
+crowded	.	punct

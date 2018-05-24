@@ -1,0 +1,12 @@
+compound	O'Neill	Unifi
+amod	O'Neill	official
+compound	O'Neill	Rob
+nsubj	said	O'Neill
+root	ROOT	said
+punct	said	:
+punct	said	``
+det	gloves	The
+nsubj	off	gloves
+cop	off	are
+ccomp	said	off
+punct	said	.

@@ -1,0 +1,12 @@
+det	study	The
+nsubj	appears	study
+root	ROOT	appears
+nmod:tmod	appears	today
+case	Journal	in
+det	Journal	the
+compound	Journal	New
+compound	Journal	England
+nmod:in	appears	Journal
+case	Medicine	of
+nmod:of	Journal	Medicine
+punct	appears	.

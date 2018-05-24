@@ -1,0 +1,8 @@
+det	terminal	the
+amod	terminal	positive
+nsubjpass	connected	terminal
+auxpass	connected	is
+root	ROOT	connected
+case	bulb	to
+det	bulb	the
+nmod:to	connected	bulb

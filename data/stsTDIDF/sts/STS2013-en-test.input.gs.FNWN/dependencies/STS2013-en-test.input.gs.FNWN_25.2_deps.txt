@@ -1,0 +1,13 @@
+det	request	a
+root	ROOT	request
+case	something	for
+nmod:for	request	something
+mark	made	to
+auxpass	made	be
+acl	request	made
+punct	made	,
+conj:or	made	supplied
+punct	made	,
+cc	made	or
+conj:or	made	served
+punct	request	;

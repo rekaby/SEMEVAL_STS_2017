@@ -1,0 +1,8 @@
+compound	unity	Syria
+compound	unity	opposition
+nsubj	take	unity
+root	ROOT	take
+compound	specter	face
+dobj	take	specter
+case	collapse	of
+nmod:of	specter	collapse

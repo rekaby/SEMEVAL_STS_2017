@@ -1,0 +1,14 @@
+case	bubble	like
+det	bubble	the
+punct	bubble	``
+compound	bubble	housing
+punct	bubble	''
+root	ROOT	bubble
+case	beginning	at
+det	beginning	the
+nmod:at	bubble	beginning
+case	administration	of
+det	administration	the
+amod	administration	bush
+nmod:of	beginning	administration
+punct	bubble	.

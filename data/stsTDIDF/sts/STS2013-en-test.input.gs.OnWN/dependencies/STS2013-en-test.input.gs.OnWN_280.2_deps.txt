@@ -1,0 +1,6 @@
+det	set	a
+amod	set	special
+root	ROOT	set
+case	circumstances	of
+nmod:of	set	circumstances
+punct	set	.

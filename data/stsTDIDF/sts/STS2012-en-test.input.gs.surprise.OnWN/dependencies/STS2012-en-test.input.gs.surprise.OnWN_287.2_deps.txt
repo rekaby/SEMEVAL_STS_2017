@@ -1,0 +1,12 @@
+root	ROOT	hitting
+det	ball	a
+compound	ball	golf
+dobj	hitting	ball
+case	tee	off
+mwe	off	of
+det	tee	a
+nmod:off_of	hitting	tee
+case	driver	with
+det	driver	a
+nmod:with	hitting	driver
+punct	hitting	.

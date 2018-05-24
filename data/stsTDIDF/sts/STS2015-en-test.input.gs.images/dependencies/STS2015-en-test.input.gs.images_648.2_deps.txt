@@ -1,0 +1,13 @@
+nummod	climbers	Two
+compound	climbers	mountain
+nsubj	stand	climbers
+root	ROOT	stand
+case	top	on
+det	top	the
+nmod:on	stand	top
+case	mountain	of
+det	mountain	a
+nmod:of	top	mountain
+acl	mountain	looking
+advmod	looking	around
+punct	stand	.

@@ -1,0 +1,14 @@
+riding	whilst	mark
+riding	snowboard	nmod:on
+performing	jump	dobj
+performing	is	aux
+snowboard	on	case
+snowboard	pink	amod
+performing	riding	advcl
+performing	snowboarder	nsubj
+snowboarder	A	det
+snowboard	a	det
+ROOT	performing	root
+performing	.	punct
+jump	a	det
+riding	end	nmod:at

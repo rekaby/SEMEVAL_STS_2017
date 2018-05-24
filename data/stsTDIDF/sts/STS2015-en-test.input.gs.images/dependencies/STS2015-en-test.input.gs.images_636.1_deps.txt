@@ -1,0 +1,9 @@
+det	animal	A
+amod	animal	brown
+amod	animal	furry
+nsubj	stands	animal
+root	ROOT	stands
+case	plants	behind
+det	plants	some
+nmod:behind	stands	plants
+punct	stands	.

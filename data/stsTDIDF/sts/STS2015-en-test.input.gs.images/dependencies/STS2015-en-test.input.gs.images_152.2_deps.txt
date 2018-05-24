@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+case	pool	into
+det	pool	a
+compound	pool	backyard
+nmod:into	jumps	pool
+punct	jumps	.

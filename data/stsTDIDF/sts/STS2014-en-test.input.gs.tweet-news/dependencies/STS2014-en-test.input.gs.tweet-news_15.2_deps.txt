@@ -1,0 +1,9 @@
+root	ROOT	Scores
+amod	Scores	Dead
+case	Sweeps	as
+compound	Sweeps	Fire
+nmod:as	Dead	Sweeps
+case	Nightclub	Through
+nmod:through	Dead	Nightclub
+case	Brazil	in
+nmod:in	Nightclub	Brazil

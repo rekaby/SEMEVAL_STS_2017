@@ -1,0 +1,17 @@
+det	development	The
+nsubj	prompted	development
+case	Orlando	of
+nmod:of	development	Orlando
+aux	prompted	has
+advmod	prompted	already
+root	ROOT	prompted
+dobj	prompted	Interstate
+nummod	Interstate	4
+case	west	up
+case	west	to
+det	west	the
+nmod:to	prompted	west
+case	city	of
+det	city	the
+nmod:of	west	city
+punct	prompted	.

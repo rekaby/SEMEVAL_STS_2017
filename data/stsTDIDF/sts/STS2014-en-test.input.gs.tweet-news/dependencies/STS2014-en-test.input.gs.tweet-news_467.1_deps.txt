@@ -1,0 +1,13 @@
+root	ROOT	Love
+det	Forms	this
+punct	Forms	--
+nsubj	got	Forms
+case	office	at
+det	doctor	the
+nmod:poss	office	doctor
+case	doctor	's
+nmod:at	Forms	office
+advmod	got	just
+acl:relcl	Love	got
+dobj	got	fun
+punct	Love	-

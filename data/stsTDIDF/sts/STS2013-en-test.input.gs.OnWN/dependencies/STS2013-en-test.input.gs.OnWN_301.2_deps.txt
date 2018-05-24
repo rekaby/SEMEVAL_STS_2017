@@ -1,0 +1,14 @@
+det	sovereign	the
+root	ROOT	sovereign
+cc	sovereign	and
+nmod:poss	advisers	his
+conj:and	sovereign	advisers
+nsubj	power	who
+cop	power	are
+det	power	the
+amod	power	governing
+acl:relcl	sovereign	power
+case	state	of
+det	state	a
+nmod:of	power	state
+punct	sovereign	.

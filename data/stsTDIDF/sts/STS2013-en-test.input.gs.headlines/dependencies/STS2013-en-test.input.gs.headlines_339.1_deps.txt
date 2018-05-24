@@ -1,0 +1,9 @@
+root	ROOT	Golf
+punct	Golf	:
+nsubj	takes	Westwood
+dep	Golf	takes
+dobj	takes	lead
+case	Classic	in
+compound	Classic	Dubai
+compound	Classic	Desert
+nmod:in	lead	Classic

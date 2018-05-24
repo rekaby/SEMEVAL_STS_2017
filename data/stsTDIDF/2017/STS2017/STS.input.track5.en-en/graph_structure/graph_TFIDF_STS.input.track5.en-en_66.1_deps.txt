@@ -1,0 +1,6 @@
+boy	with	case
+ROOT	flirting	root
+flirting	.	punct
+flirting	woman	nsubj
+flirting	is	aux
+flirting	boy	nmod:with

@@ -1,0 +1,15 @@
+punct	talking	-
+neg	talking	Not
+punct	talking	-
+root	ROOT	talking
+case	it	about
+nmod:about	talking	it
+punct	talking	`
+cc	talking	and
+punct	talking	'
+punct	talking	-
+neg	doing	Not
+punct	doing	-
+xcomp	talking	doing
+dobj	doing	anything
+punct	talking	.

@@ -1,0 +1,11 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nummod	people	four
+nmod:of	group	people
+acl	people	walking
+case	mushroom	past
+det	mushroom	a
+amod	mushroom	giant
+nmod:past	walking	mushroom
+punct	group	.

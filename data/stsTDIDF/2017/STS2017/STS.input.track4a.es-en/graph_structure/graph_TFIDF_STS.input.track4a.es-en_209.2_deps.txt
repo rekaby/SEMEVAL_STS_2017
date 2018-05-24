@@ -1,0 +1,7 @@
+hide	boys	nsubj
+hide	seek	conj:and
+hide	and	cc
+ROOT	hide	root
+hide	playing	amod
+hide	are	aux
+hide	home	compound

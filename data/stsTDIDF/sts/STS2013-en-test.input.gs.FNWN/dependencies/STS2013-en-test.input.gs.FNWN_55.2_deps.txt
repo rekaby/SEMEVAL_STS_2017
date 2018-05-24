@@ -1,0 +1,6 @@
+det	participant	a
+root	ROOT	participant
+case	date	in
+det	date	a
+nmod:in	participant	date
+punct	participant	;

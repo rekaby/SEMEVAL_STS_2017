@@ -1,0 +1,13 @@
+root	ROOT	Rush
+det	woman	a
+dobj	Rush	woman
+case	one	in
+nmod:in	Rush	one
+case	alleys	of
+det	alleys	the
+nmod:of	one	alleys
+punct	Rush	,
+root	,	wearing
+amod	clothes	black
+dobj	wearing	clothes
+punct	wearing	.

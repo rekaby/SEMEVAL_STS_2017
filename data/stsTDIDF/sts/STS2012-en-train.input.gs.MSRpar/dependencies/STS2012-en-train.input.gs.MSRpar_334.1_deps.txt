@@ -1,0 +1,17 @@
+nsubj	rallied	FRIENDS
+case	Niro	of
+compound	Niro	Robert
+compound	Niro	De
+nmod:of	FRIENDS	Niro
+nmod:tmod	rallied	yesterday
+root	ROOT	rallied
+case	him	around
+nmod:around	rallied	him
+mark	diagnosed	after
+nsubjpass	diagnosed	he
+auxpass	diagnosed	was
+advcl	rallied	diagnosed
+case	cancer	with
+compound	cancer	prostate
+nmod:with	diagnosed	cancer
+punct	rallied	.

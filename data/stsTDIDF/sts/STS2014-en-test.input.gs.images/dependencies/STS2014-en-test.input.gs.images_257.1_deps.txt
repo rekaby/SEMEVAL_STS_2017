@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	wearing	dog
+aux	wearing	is
+root	ROOT	wearing
+det	jacket	a
+amod	jacket	gray
+dobj	wearing	jacket
+punct	wearing	.

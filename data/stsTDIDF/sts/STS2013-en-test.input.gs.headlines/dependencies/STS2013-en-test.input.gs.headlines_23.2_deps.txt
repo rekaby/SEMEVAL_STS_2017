@@ -1,0 +1,5 @@
+nummod	Tibetans	7
+nsubj	self-immolate	Tibetans
+root	ROOT	self-immolate
+case	China	in
+nmod:in	self-immolate	China

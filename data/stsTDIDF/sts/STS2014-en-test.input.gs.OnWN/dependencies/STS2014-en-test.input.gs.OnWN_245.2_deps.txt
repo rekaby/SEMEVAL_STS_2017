@@ -1,0 +1,10 @@
+det	sensation	the
+root	ROOT	sensation
+acl	sensation	produced
+case	receptors	by
+compound	receptors	pressure
+nmod:by	produced	receptors
+case	skin	in
+det	skin	the
+nmod:in	receptors	skin
+punct	sensation	.

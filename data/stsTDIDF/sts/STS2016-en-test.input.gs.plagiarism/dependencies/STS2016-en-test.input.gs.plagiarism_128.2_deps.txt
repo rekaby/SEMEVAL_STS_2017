@@ -1,0 +1,11 @@
+root	ROOT	LIMITATION
+punct	LIMITATION	:
+expl	is	There
+parataxis	LIMITATION	is
+det	limitation	some
+nsubj	is	limitation
+case	model	of
+compound	model	vector
+compound	model	space
+nmod:of	limitation	model
+punct	LIMITATION	.

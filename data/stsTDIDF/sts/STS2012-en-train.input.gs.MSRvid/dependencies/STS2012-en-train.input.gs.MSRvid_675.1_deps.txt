@@ -1,0 +1,10 @@
+det	bird	The
+nsubj	taking	bird
+aux	taking	is
+root	ROOT	taking
+det	bath	a
+dobj	taking	bath
+case	faucet	under
+det	faucet	the
+nmod:under	taking	faucet
+punct	taking	.

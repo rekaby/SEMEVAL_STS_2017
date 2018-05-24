@@ -1,0 +1,11 @@
+nummod	talk	Two
+compound	talk	police
+root	ROOT	talk
+advmod	talk	together
+case	middle	in
+det	middle	the
+nmod:in	talk	middle
+case	road	of
+det	road	the
+nmod:of	middle	road
+punct	talk	.

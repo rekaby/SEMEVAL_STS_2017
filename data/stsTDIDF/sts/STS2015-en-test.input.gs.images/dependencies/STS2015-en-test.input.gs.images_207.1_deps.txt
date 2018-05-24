@@ -1,0 +1,10 @@
+nsubj	playing	Girl
+root	ROOT	playing
+case	puddle	in
+det	puddle	a
+nmod:in	playing	puddle
+case	feet	with
+nmod:poss	feet	her
+amod	feet	bare
+nmod:with	puddle	feet
+punct	playing	.

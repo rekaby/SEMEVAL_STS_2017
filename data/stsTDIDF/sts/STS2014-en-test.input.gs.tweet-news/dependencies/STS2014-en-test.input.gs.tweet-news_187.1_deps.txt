@@ -1,0 +1,13 @@
+nsubj	Move	Germany
+mark	Move	to
+root	ROOT	Move
+nummod	Tons	674
+dobj	Move	Tons
+case	Gold	of
+nmod:of	Tons	Gold
+case	Manhattan	from
+compound	Manhattan	Downtown
+nmod:from	Move	Manhattan
+case	Frankfurt	to
+nmod:to	Move	Frankfurt
+punct	Move	.-13) root(ROOT-0, .

@@ -1,0 +1,8 @@
+compound	attack	School
+compound	attack	bomb
+nsubj	kills	attack
+root	ROOT	kills
+dobj	kills	two
+case	Thailand	in
+amod	Thailand	southern
+nmod:in	two	Thailand

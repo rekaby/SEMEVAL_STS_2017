@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	two	least
+nummod	clash	two
+acl	two	killed
+case	Egypt	in
+amod	Egypt	southern
+nmod:in	killed	Egypt
+root	ROOT	clash

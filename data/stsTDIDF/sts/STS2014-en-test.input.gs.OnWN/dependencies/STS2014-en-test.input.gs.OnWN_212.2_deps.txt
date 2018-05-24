@@ -1,0 +1,11 @@
+dep	harm	maintain
+case	safety	in
+nmod:in	maintain	safety
+case	injury	from
+nmod:from	safety	injury
+punct	harm	,
+root	ROOT	harm
+punct	harm	,
+cc	harm	or
+conj:or	harm	danger
+punct	harm	.

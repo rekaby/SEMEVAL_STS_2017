@@ -1,0 +1,13 @@
+weeks	Oxford	nmod:at
+ROOT	minority	root
+weeks	my	nmod:poss
+minority	weeks	nmod:during
+minority	one	nmod:of
+weeks	first	amod
+minority	I	nsubj
+weeks	during	case
+minority	.	punct
+minority	in	case
+Oxford	at	case
+minority	a	det
+minority	was	cop

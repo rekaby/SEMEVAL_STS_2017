@@ -1,0 +1,17 @@
+compound	Museveni	PRESIDENT
+compound	Museveni	Yoweri
+nsubj	promoted	Museveni
+aux	promoted	has
+root	ROOT	promoted
+compound	Nyakairima	Brigadier
+compound	Nyakairima	Aronda
+dobj	promoted	Nyakairima
+case	General	to
+compound	General	Major
+nmod:to	promoted	General
+cc	promoted	and
+conj:and	promoted	named
+compound	Commander	him
+compound	Commander	Army
+xcomp	named	Commander
+punct	promoted	.

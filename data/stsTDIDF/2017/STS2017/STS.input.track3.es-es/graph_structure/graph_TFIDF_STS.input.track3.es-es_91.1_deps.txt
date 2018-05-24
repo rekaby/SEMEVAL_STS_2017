@@ -1,0 +1,5 @@
+bridge	.	punct
+bridge	near	case
+ROOT	bridge	root
+bridge	was	cop
+bridge	He	nsubj

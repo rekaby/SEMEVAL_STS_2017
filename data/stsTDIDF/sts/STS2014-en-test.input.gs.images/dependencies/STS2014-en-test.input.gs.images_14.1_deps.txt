@@ -1,0 +1,7 @@
+det	bull	A
+root	ROOT	bull
+amod	bull	standing
+case	field	in
+det	field	the
+nmod:in	standing	field
+punct	bull	.

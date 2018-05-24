@@ -1,0 +1,8 @@
+root	ROOT	put
+case	control	under
+det	control	the
+nmod:under	put	control
+case	government	of
+det	government	the
+amod	government	federal
+nmod:of	control	government

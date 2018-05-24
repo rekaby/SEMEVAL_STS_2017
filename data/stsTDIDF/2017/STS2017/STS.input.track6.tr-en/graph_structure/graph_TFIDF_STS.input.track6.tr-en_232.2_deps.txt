@@ -1,0 +1,5 @@
+photos	family	compound
+mother	A	det
+taking	photos	dobj
+taking	mother	nsubj
+mother	children	conj:and

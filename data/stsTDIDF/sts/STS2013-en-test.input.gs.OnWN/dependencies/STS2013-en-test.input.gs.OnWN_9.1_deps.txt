@@ -1,0 +1,8 @@
+punct	do	-LRB-
+advmod	do	finally
+punct	do	-RRB-
+root	ROOT	do
+dobj	do	something
+cc	do	or
+conj:or	do	be
+dep	do	somewhere

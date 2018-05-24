@@ -1,0 +1,8 @@
+root	ROOT	Try
+dobj	Try	something
+amod	something	new
+case	vacation	on
+nmod:poss	vacation	your
+amod	vacation	next
+nmod:on	Try	vacation
+punct	Try	.

@@ -1,0 +1,9 @@
+pants	white	amod
+wall	shirt	nmod:with
+man	standing	amod
+shirt	with	case
+wall	in	case
+standing	wall	nmod:in_front_of
+shirt	brown	amod
+wall	blue	amod
+shirt	pants	conj:and

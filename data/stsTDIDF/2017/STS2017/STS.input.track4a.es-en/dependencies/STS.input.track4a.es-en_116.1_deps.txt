@@ -1,0 +1,17 @@
+det	girl	A
+nsubj	sitting	girl
+case	hair	with
+amod	hair	dark
+amod	hair	brown
+nmod:with	girl	hair
+aux	sitting	is
+root	ROOT	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+cc	sitting	and
+conj:and	sitting	looking
+case	shoulder	over
+nmod:poss	shoulder	her
+nmod:over	looking	shoulder
+punct	sitting	.

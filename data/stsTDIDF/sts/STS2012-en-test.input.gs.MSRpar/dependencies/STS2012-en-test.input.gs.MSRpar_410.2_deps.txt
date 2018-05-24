@@ -1,0 +1,14 @@
+det	airline	The
+nsubj	said	airline
+root	ROOT	said
+det	discovery	a
+amod	discovery	similar
+nsubjpass	made	discovery
+auxpass	made	was
+ccomp	said	made
+case	plane	on
+det	plane	the
+nmod:on	made	plane
+case	Houston	in
+nmod:in	plane	Houston
+punct	said	.

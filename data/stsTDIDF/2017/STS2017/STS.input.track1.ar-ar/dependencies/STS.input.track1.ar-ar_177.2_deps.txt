@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	training	men
+cop	training	were
+nsubj	race	training
+case	preparation	in
+nmod:in	training	preparation
+case	marathon	for
+det	marathon	the
+nmod:for	preparation	marathon
+root	ROOT	race

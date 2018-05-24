@@ -1,0 +1,7 @@
+compound	protesters	Ukraine
+nsubj	topple	protesters
+root	ROOT	topple
+compound	statue	Lenin
+dobj	topple	statue
+case	Kiev	in
+nmod:in	topple	Kiev

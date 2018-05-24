@@ -1,0 +1,13 @@
+mark	contained	because
+nsubjpass	contained	bulbs
+nsubjpass	contained	A
+cc	A	and
+conj:and	A	C
+auxpass	contained	are
+root	ROOT	contained
+case	paths	in
+amod	paths	different
+nmod:in	contained	paths
+case	battery	with
+det	battery	the
+nmod:with	paths	battery

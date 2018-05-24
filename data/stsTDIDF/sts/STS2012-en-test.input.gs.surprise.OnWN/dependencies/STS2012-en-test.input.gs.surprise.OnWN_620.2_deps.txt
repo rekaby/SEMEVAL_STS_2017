@@ -1,0 +1,13 @@
+root	ROOT	raising
+det	stakes	the
+dobj	raising	stakes
+case	game	in
+det	game	a
+compound	game	card
+nmod:in	raising	game
+case	factor	by
+det	factor	a
+nmod:by	raising	factor
+case	2	of
+nmod:of	factor	2
+punct	raising	.

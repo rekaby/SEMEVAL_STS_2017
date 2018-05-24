@@ -1,0 +1,9 @@
+nummod	extremist	1
+amod	extremist	suspected
+nsubjpass	released	extremist
+auxpass	released	was
+advmod	released	provisionally
+root	ROOT	released
+case	bail	without
+nmod:without	released	bail
+punct	released	.

@@ -1,0 +1,14 @@
+nummod	sheep	Three
+nsubj	graze	sheep
+root	ROOT	graze
+case	field	on
+det	field	the
+amod	field	grassy
+nmod:on	graze	field
+case	dog	with
+det	dog	a
+nmod:with	graze	dog
+acl	dog	walking
+case	them	behind
+nmod:behind	walking	them
+punct	graze	.

@@ -1,0 +1,8 @@
+nummod	men	Three
+nsubj	preparing	men
+aux	preparing	are
+root	ROOT	preparing
+case	marathon	for
+det	marathon	the
+nmod:for	preparing	marathon
+punct	preparing	.

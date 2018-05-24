@@ -1,0 +1,6 @@
+shirt	oversized	amod
+sits	shop	nmod:at
+shirt	an	det
+man	shirt	nmod:in
+sits	man	nsubj
+shop	at	case

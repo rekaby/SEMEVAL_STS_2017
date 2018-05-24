@@ -1,0 +1,11 @@
+aux	going	Would
+root	ROOT	going
+case	count	on
+det	count	a
+compound	count	cargo
+compound	count	ship
+nmod:on	going	count
+case	tour	as
+det	tour	a
+nmod:as	going	tour
+punct	going	?

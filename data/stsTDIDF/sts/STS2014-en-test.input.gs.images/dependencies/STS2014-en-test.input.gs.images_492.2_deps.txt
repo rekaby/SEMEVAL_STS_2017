@@ -1,0 +1,8 @@
+det	close-up	A
+root	ROOT	close-up
+case	bus	of
+det	bus	a
+amod	bus	yellow
+compound	bus	school
+nmod:of	close-up	bus
+punct	close-up	.

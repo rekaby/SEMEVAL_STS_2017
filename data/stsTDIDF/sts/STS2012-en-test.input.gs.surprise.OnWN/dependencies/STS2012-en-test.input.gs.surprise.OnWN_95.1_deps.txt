@@ -1,0 +1,7 @@
+amod	animals	domesticated
+nsubj	kept	animals
+root	ROOT	kept
+case	use	for
+nmod:for	kept	use
+cc	use	or
+conj:or	use	profit

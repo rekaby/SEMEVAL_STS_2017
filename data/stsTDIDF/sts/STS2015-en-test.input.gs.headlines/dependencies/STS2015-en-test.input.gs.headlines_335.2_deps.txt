@@ -1,0 +1,7 @@
+compound	South	Explosion
+compound	South	Hits
+compound	South	Hezbollah
+compound	South	Area
+root	ROOT	South
+case	Beirut	of
+nmod:of	South	Beirut

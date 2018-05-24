@@ -1,0 +1,6 @@
+root	ROOT	cover
+case	sheathing	with
+det	sheathing	a
+amod	sheathing	protective
+nmod:with	cover	sheathing
+punct	cover	.

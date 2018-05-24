@@ -1,0 +1,7 @@
+amod	terminal	positive
+nsubjpass	serperated	terminal
+auxpass	serperated	is
+root	ROOT	serperated
+case	terminal	from
+nmod:from	serperated	terminal
+nummod	terminal	2

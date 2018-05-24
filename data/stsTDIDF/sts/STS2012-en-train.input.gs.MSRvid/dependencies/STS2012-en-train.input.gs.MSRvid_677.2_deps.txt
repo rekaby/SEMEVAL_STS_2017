@@ -1,0 +1,7 @@
+det	man	A
+nsubj	rises	man
+root	ROOT	rises
+case	swamp	from
+det	swamp	a
+nmod:from	rises	swamp
+punct	rises	.

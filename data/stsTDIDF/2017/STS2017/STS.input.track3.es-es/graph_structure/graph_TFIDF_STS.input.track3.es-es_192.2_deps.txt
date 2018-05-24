@@ -1,0 +1,8 @@
+alley	bowling	compound
+hang	alley	nmod:at
+hang	.	punct
+hang	out	compound:prt
+alley	at	case
+hang	people	nsubj
+ROOT	hang	root
+alley	the	det

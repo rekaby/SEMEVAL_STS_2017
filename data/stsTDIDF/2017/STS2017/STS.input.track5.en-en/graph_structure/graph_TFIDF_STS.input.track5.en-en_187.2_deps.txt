@@ -1,0 +1,7 @@
+clean	take	xcomp
+boat	his	nmod:poss
+water	on	case
+clean	boat	nsubj
+take	water	nmod:on
+getting	man	nsubj
+getting	clean	xcomp

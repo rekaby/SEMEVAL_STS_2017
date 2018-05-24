@@ -1,0 +1,13 @@
+det	union	the
+amod	union	european
+nsubj	frozen	union
+cc	union	and
+det	states	the
+amod	states	united
+conj:and	union	states
+aux	frozen	have
+root	ROOT	frozen
+nmod:poss	assets	al-qadi
+case	al-qadi	's
+dobj	frozen	assets
+punct	frozen	.

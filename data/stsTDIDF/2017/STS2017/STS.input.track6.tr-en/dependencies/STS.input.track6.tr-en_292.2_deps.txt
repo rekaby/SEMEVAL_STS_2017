@@ -1,0 +1,8 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	leaping
+mark	hit	to
+xcomp	leaping	hit
+det	ball	a
+compound	ball	tennis
+dobj	hit	ball

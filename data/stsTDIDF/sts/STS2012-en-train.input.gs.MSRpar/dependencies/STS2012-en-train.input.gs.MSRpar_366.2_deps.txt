@@ -1,0 +1,12 @@
+nsubj	confiscated	Agents
+root	ROOT	confiscated
+amod	documents	several
+amod	documents	classified
+dobj	confiscated	documents
+case	possession	in
+nmod:poss	possession	his
+nmod:in	confiscated	possession
+cc	confiscated	and
+conj:and	confiscated	interrogated
+dobj	interrogated	him
+punct	confiscated	.

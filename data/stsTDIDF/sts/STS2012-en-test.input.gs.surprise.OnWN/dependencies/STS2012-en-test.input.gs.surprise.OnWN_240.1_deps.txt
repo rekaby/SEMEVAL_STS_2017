@@ -1,0 +1,8 @@
+root	ROOT	connect
+nmod	connect	with
+punct	connect	;
+parataxis	connect	reach
+det	target	a
+dobj	reach	target
+cc	reach	or
+conj:or	reach	goal

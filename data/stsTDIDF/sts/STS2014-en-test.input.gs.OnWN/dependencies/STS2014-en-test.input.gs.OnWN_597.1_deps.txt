@@ -1,0 +1,8 @@
+root	ROOT	meet
+cc	meet	or
+conj:or	meet	encounter
+case	capacity	on
+amod	capacity	social
+cc	social	or
+conj:or	social	professional
+nmod:on	encounter	capacity

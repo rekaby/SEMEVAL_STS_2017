@@ -1,0 +1,20 @@
+punct Amen ''-3) punct(news-3, :	15.060439779775294
+punct news .-5) nmod:poss(Plans-5, My	15.060439779775294
+compound Plans shero	15.060439779775294
+nsubj Return February	15.060439779775294
+acl:relcl Plans Return	15.060439779775294
+nmod:to Return America	15.060439779775294
+punct Plans '	15.060439779775294
+punct Amen !	14.367292599215348
+compound Plans Robin	14.367292599215348
+compound Plans Roberts	14.367292599215348
+punct Plans ''	14.367292599215348
+punct news ...	13.451001867341194
+punct America `	13.11452963071998
+root ROOT Plans	12.980998238095458
+root ROOT Amen	12.863215202439074
+amod news Good	12.287851057535512
+amod America Good	11.476920841319183
+compound America Morning	11.476920841319183
+case America to	9.722901700073976
+root ROOT news	9.350012762400423

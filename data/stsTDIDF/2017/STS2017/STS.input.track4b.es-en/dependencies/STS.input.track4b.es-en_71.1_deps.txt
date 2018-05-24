@@ -1,0 +1,8 @@
+det	indicators	The
+advmod	common	most
+amod	indicators	common
+amod	indicators	verbal
+nsubj	subtle	indicators
+cop	subtle	are
+root	ROOT	subtle
+punct	subtle	.

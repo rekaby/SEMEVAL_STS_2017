@@ -1,0 +1,15 @@
+det	man	A
+nsubj	display	man
+case	mall	in
+det	mall	a
+compound	mall	shopping
+nmod:in	man	mall
+cc	mall	and
+det	sculpture	a
+amod	sculpture	biciclete
+compound	sculpture	gold
+conj:and	mall	sculpture
+cop	display	are
+case	display	on
+root	ROOT	display
+punct	display	.

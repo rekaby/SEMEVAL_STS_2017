@@ -1,0 +1,8 @@
+root	ROOT	anything
+case	form	with
+det	form	the
+nmod:with	anything	form
+case	strip	of
+det	strip	a
+amod	strip	thin
+nmod:of	form	strip

@@ -1,0 +1,6 @@
+holds	child	nsubj
+holds	and	cc
+watch	people	nsubj
+holds	kite	dobj
+kite	a	det
+holds	watch	conj:and

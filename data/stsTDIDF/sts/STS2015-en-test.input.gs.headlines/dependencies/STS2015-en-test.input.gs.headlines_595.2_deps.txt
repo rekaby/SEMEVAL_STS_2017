@@ -1,0 +1,7 @@
+compound	talks	Iran
+amod	talks	nuclear
+nsubj	enter	talks
+root	ROOT	enter
+amod	day	crucial
+amod	day	third
+nmod:tmod	enter	day

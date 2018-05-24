@@ -1,0 +1,6 @@
+det	man	The
+nsubj	moves	man
+root	ROOT	moves
+det	table	a
+dobj	moves	table
+punct	moves	.

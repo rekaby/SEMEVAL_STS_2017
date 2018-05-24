@@ -1,0 +1,13 @@
+compound	Brewer	AZ
+compound	Brewer	Gov
+compound	Brewer	Jan
+nsubj	changes	Brewer
+root	ROOT	changes
+nmod:poss	mind	her
+dobj	changes	mind
+cc	changes	and
+aux	expand	will
+conj:and	changes	expand
+dobj	expand	Medicaid
+punct	changes	:
+dep	changes	#Medicaid

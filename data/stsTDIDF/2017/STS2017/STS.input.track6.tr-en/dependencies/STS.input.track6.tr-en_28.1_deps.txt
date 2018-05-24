@@ -1,0 +1,5 @@
+nsubj	snowed	It
+root	ROOT	snowed
+det	day	that
+nmod:tmod	snowed	day
+punct	snowed	.

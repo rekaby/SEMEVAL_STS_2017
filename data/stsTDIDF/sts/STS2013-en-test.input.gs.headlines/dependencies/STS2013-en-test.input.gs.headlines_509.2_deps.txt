@@ -1,0 +1,7 @@
+compound	wildfires	Oklahoma
+nsubj	destroy	wildfires
+root	ROOT	destroy
+dobj	destroy	homes
+punct	destroy	-
+case	pictures	in
+nmod:in	destroy	pictures

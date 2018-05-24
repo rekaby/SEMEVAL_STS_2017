@@ -1,0 +1,8 @@
+compound	Crash	Glasgow
+compound	Crash	Helicopter
+root	ROOT	Crash
+punct	Crash	:
+compound	PC	Woman
+nsubj	Victim	PC
+cop	Victim	Is
+parataxis	Crash	Victim

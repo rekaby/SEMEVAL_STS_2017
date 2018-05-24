@@ -1,0 +1,17 @@
+nsubj	is	This
+root	ROOT	is
+dobj	think	what
+nsubj	think	we
+ccomp	is	think
+cop	contributions	is
+det	contributions	the
+amod	contributions	most
+ccomp	think	contributions
+case	point	from
+det	point	the
+nmod:from	contributions	point
+case	view	of
+nmod:of	point	view
+case	customers	of
+nmod:of	view	customers
+punct	is	.

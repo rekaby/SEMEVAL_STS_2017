@@ -1,0 +1,8 @@
+nsubj	warns	France
+root	ROOT	warns
+case	extremists	of
+nmod:of	warns	extremists
+acl	extremists	benefiting
+case	Egypt	from
+nmod:from	benefiting	Egypt
+dobj	warns	violence

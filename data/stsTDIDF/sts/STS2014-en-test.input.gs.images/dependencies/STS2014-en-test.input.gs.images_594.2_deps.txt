@@ -1,0 +1,12 @@
+det	man	A
+nsubj	staring	man
+aux	staring	is
+root	ROOT	staring
+case	horse	at
+det	horse	a
+nmod:at	staring	horse
+case	mane	with
+det	mane	a
+amod	mane	white
+nmod:with	horse	mane
+punct	staring	.

@@ -1,0 +1,13 @@
+det	tan	A
+root	ROOT	tan
+cc	tan	and
+amod	dog	white
+conj:and	tan	dog
+acl	tan	laying
+case	bed	in
+nmod:in	laying	bed
+case	coverlet	with
+det	coverlet	a
+amod	coverlet	yellow
+nmod:with	laying	coverlet
+punct	tan	.

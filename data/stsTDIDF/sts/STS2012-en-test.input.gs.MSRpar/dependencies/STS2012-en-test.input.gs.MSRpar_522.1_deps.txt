@@ -1,0 +1,10 @@
+nummod	years	Two
+nmod:npmod	later	years
+advmod	begin	later
+punct	begin	,
+det	coverage	the
+compound	coverage	insurance
+nsubj	begin	coverage
+aux	begin	would
+root	ROOT	begin
+punct	begin	.

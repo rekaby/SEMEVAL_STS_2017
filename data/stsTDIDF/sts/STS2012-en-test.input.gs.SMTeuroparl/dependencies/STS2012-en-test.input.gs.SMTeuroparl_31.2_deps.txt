@@ -1,0 +1,14 @@
+det	point	This
+nsubj	opens	point
+case	rules	of
+det	rules	the
+nmod:of	point	rules
+case	procedure	of
+nmod:of	rules	procedure
+root	ROOT	opens
+det	door	the
+dobj	opens	door
+case	arbitrary	to
+det	arbitrary	the
+nmod:to	opens	arbitrary
+punct	opens	.

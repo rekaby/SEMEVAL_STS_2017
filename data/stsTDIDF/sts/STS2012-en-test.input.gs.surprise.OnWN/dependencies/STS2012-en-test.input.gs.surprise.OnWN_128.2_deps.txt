@@ -1,0 +1,12 @@
+det	representation	a
+root	ROOT	representation
+case	person	of
+det	person	a
+nmod:of	representation	person
+nsubjpass	exaggerated	that
+auxpass	exaggerated	is
+acl:relcl	person	exaggerated
+case	effect	for
+amod	effect	comic
+nmod:for	exaggerated	effect
+punct	representation	.

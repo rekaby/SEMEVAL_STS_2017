@@ -1,0 +1,9 @@
+det	man	A
+nsubj	tying	man
+aux	tying	is
+root	ROOT	tying
+case	machine	on
+det	machine	a
+compound	machine	stenographers
+nmod:on	tying	machine
+punct	tying	.

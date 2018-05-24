@@ -1,0 +1,8 @@
+nummod	soldiers	2
+amod	soldiers	British
+root	ROOT	soldiers
+acl	soldiers	killed
+case	attack	in
+compound	attack	Afghan
+compound	attack	insider
+nmod:in	killed	attack

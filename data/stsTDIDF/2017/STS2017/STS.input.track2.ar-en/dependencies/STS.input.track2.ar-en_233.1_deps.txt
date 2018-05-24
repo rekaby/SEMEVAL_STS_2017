@@ -1,0 +1,12 @@
+nummod	children	Two
+root	ROOT	children
+acl	children	dressed
+case	clowns	as
+nmod:as	dressed	clowns
+case	ropes	on
+nmod:on	dressed	ropes
+acl	ropes	performing
+case	children	with
+amod	children	other
+nmod:with	performing	children
+punct	children	.

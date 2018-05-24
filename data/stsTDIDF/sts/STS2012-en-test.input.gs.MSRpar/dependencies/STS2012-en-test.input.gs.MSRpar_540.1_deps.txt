@@ -1,0 +1,16 @@
+root	ROOT	Perry
+acl	Perry	has
+mark	called	since
+advcl	has	called
+nummod	sessions	two
+amod	sessions	special
+amod	sessions	legislative
+dobj	called	sessions
+mark	try	to
+xcomp	called	try
+dobj	try	force
+det	plan	the
+compound	plan	redistricting
+dobj	force	plan
+advmod	force	through
+punct	Perry	.

@@ -1,0 +1,13 @@
+cc	taking	And
+det	error	this
+amod	error	serious
+nsubj	taking	error
+aux	taking	is
+root	ROOT	taking
+case	Russia	to
+nmod:to	taking	Russia
+case	policy	to
+nmod:poss	policy	its
+compound	policy	ruin
+nmod:to	taking	policy
+punct	taking	.

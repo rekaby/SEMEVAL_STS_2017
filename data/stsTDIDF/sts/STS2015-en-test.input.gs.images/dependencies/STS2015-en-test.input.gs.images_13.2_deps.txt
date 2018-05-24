@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	running	dogs
+root	ROOT	running
+case	field	through
+det	field	a
+amod	field	grassy
+nmod:through	running	field
+punct	running	.

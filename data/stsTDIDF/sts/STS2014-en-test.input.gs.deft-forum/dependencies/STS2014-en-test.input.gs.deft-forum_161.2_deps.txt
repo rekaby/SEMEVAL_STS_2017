@@ -1,0 +1,11 @@
+root	ROOT	get
+det	trend	a
+amod	trend	cooling
+dobj	get	trend
+case	decline	from
+case	decline	because
+mwe	because	of
+det	decline	the
+amod	decline	recent
+nmod:because_of	get	decline
+punct	get	.

@@ -1,0 +1,14 @@
+Children	playing	acl
+Children	sitting	acl
+outfit	a	det
+man	above	case
+sitting	man	nmod:above
+outfit	in	case
+balloons	with	case
+outfit	banana	compound
+Children	.	punct
+Children	,	punct
+ROOT	Children	root
+playing	balloons	nmod:with
+man	dressed	acl
+dressed	outfit	nmod:in

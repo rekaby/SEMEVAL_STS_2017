@@ -1,0 +1,16 @@
+det	words	the
+nsubj	refer	words
+case	frame	in
+det	frame	this
+nmod:in	words	frame
+root	ROOT	refer
+case	expressions	to
+amod	expressions	facial
+nmod:to	refer	expressions
+cc	expressions	and
+det	possessors	the
+conj:and	expressions	possessors
+case	expressions	of
+det	expressions	those
+nmod:of	possessors	expressions
+punct	refer	.

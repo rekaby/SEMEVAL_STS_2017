@@ -1,0 +1,13 @@
+nsubj	app	Facebook
+cop	app	was
+det	app	the
+advmod	popular	most
+amod	app	popular
+amod	app	mobile
+root	ROOT	app
+case	States	in
+det	States	the
+compound	States	United
+nmod:in	app	States
+case	2012	in
+nmod:in	app	2012

@@ -1,0 +1,4 @@
+root	ROOT	make
+xcomp	make	reference
+dep	reference	to
+punct	make	.

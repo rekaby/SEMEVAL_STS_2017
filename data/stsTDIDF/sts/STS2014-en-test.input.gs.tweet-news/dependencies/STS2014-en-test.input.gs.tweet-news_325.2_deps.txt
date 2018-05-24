@@ -1,0 +1,13 @@
+nsubj	Divide	Opinionator
+nummod	Divide	|
+det	Divide	The
+amod	Divide	Great
+root	ROOT	Divide
+punct	Divide	:
+det	Rise	The
+dobj	Divide	Rise
+case	Economy	of
+det	Economy	the
+amod	Economy	Permanent
+compound	Economy	Temp
+nmod:of	Rise	Economy

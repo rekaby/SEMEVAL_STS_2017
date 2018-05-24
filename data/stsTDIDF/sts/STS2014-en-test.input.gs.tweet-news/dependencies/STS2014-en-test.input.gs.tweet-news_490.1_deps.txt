@@ -1,0 +1,13 @@
+compound	Monsters	Saudis
+nsubj	try	Monsters
+root	ROOT	try
+mark	defend	to
+xcomp	try	defend
+compound	maid	Sri
+compound	maid	Lankan
+nmod:poss	#p	maid
+case	maid	's
+compound	#p	execution
+dobj	defend	#p
+nummod	#p	2
+dobj	defend	#tcot

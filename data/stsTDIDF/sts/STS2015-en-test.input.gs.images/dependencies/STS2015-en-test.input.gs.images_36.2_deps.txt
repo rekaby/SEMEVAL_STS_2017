@@ -1,0 +1,12 @@
+nummod	dogs	Two
+amod	dogs	white
+nsubj	walk	dogs
+root	ROOT	walk
+case	bank	through
+det	bank	a
+amod	bank	huge
+nmod:through	walk	bank
+case	snow	of
+compound	snow	mountain
+nmod:of	bank	snow
+punct	walk	.

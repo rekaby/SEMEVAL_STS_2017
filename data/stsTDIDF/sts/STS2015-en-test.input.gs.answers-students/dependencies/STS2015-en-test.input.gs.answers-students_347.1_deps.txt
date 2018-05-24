@@ -1,0 +1,8 @@
+det	bulb	the
+nsubjpass	contained	bulb
+auxpass	contained	is
+neg	contained	not
+root	ROOT	contained
+case	path	in
+det	path	the
+nmod:in	contained	path

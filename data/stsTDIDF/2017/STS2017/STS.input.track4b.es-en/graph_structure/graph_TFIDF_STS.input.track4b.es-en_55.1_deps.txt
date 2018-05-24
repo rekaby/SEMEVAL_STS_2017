@@ -1,0 +1,11 @@
+ROOT	recovery	root
+shooting	since	case
+shooting	8	nummod
+recovery	special	amod
+recovery	shooting	nmod:since
+shooting	Jan.	compound
+recovery	Giffords	nmod:poss
+Giffords	's	case
+recovery	.	punct
+special	The	det
+recovery	traced	amod

@@ -1,0 +1,11 @@
+nsubj	watching	Father
+cc	Father	and
+conj:and	Father	son
+acl	Father	wearing
+compound	outfits	cowboy
+dobj	wearing	outfits
+aux	watching	are
+root	ROOT	watching
+det	rodeo	a
+dobj	watching	rodeo
+punct	watching	.

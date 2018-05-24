@@ -1,0 +1,9 @@
+plays	in	case
+lawn	a	det
+lawn	outside	case
+girl	dressed	acl
+plays	blue	amod
+lawn	on	case
+dressed	lawn	nmod:on
+dressed	plays	nmod:in
+lawn	nice	amod

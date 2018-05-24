@@ -1,0 +1,5 @@
+det	dog	A
+root	ROOT	dog
+case	stairs	under
+det	stairs	the
+nmod:under	dog	stairs

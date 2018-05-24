@@ -1,0 +1,6 @@
+match	in	case
+compete	.	punct
+compete	women	nsubj
+match	soccer	compound
+ROOT	compete	root
+compete	match	nmod:in

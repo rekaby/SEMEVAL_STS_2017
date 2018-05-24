@@ -1,0 +1,13 @@
+advmod	maintain	How
+aux	maintain	do
+nsubj	maintain	I
+root	ROOT	maintain
+det	relationship	a
+amod	relationship	good
+dobj	maintain	relationship
+case	employer	with
+det	employer	an
+nmod:with	relationship	employer
+mark	resigning	after
+advcl	maintain	resigning
+punct	maintain	?

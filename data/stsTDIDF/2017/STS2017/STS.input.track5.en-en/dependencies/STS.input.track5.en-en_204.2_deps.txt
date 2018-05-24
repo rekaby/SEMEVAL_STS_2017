@@ -1,0 +1,9 @@
+det	plane	The
+root	ROOT	plane
+dep	plane	is
+xcomp	is	getting
+xcomp	getting	ready
+mark	take	to
+xcomp	ready	take
+compound:prt	take	off
+punct	plane	.

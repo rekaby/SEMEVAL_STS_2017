@@ -1,0 +1,8 @@
+dep	bilateral	China
+punct	China	,
+compound	vow	India
+dep	bilateral	vow
+dep	bilateral	to
+advmod	bilateral	further
+amod	ties	bilateral
+root	ROOT	ties

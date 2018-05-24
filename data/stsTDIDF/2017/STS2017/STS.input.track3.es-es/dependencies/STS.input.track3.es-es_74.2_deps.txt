@@ -1,0 +1,8 @@
+det	couple	A
+nsubj	enjoying	couple
+aux	enjoying	is
+root	ROOT	enjoying
+det	day	the
+amod	day	good
+dobj	enjoying	day
+punct	enjoying	.

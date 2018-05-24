@@ -1,0 +1,12 @@
+compound	signs	Ukraine
+nsubj	shale	signs
+root	ROOT	shale
+compound	deal	gas
+compound	deal	drilling
+nsubj	#marketentry	deal
+case	#Shell	with
+nmod:with	deal	#Shell
+case	#energy	at
+compound	#energy	#Davos
+nmod:at	deal	#energy
+ccomp	shale	#marketentry

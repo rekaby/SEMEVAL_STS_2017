@@ -1,0 +1,6 @@
+det	portion	the
+amod	portion	introductory
+root	ROOT	portion
+case	story	of
+det	story	a
+nmod:of	portion	story

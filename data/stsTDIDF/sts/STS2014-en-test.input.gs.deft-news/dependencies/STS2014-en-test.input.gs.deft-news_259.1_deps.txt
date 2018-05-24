@@ -1,0 +1,13 @@
+nsubj	power	china
+cop	power	is
+det	power	a
+amod	power	nuclear
+root	ROOT	power
+cc	power	and
+conj:and	power	member
+case	council	of
+det	council	the
+compound	council	u.n.
+compound	council	security
+nmod:of	member	council
+punct	power	.

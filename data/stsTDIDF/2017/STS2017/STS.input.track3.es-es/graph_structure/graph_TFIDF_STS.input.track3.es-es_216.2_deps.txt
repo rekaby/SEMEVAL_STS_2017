@@ -1,0 +1,6 @@
+shirt	jeans	conj:and
+shirt	teaching	acl
+teaching	school	nmod:in
+school	wooden	amod
+jeans	blue	amod
+shirt	blue	amod

@@ -1,0 +1,9 @@
+compound	battles	Gun
+nsubj	create	battles
+case	capital	in
+amod	capital	Central
+amod	capital	African
+nmod:in	battles	capital
+root	ROOT	create
+amod	panic	fresh
+dobj	create	panic

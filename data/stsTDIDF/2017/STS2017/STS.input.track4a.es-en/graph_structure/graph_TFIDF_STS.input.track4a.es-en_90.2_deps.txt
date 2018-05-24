@@ -1,0 +1,16 @@
+bags	construction	compound
+vests	in	case
+bags	blue	amod
+vests	orange	amod
+workers	Several	amod
+bags	holding	amod
+workers	vests	nmod:in
+working	tracks	nmod:along
+tracks	along	case
+vests	and	cc
+bags	hats	compound
+vests	bags	conj:and
+bags	white	amod
+working	workers	nsubj
+tracks	side	compound
+tracks	railroad	compound

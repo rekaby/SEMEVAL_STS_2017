@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	stands	woman
+root	ROOT	stands
+case	wall	against
+det	wall	a
+nmod:against	stands	wall
+case	camera	near
+det	camera	a
+compound	camera	video
+nmod:near	wall	camera
+punct	stands	.

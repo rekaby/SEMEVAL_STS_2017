@@ -1,0 +1,16 @@
+det	table	A
+amod	table	wooden
+nsubjpass	set	table
+auxpass	set	is
+root	ROOT	set
+case	candles	with
+nmod:with	set	candles
+punct	candles	,
+conj:and	candles	wine
+punct	candles	,
+cc	candles	and
+det	bowl	a
+amod	bowl	purple
+compound	bowl	plastic
+conj:and	candles	bowl
+punct	set	.

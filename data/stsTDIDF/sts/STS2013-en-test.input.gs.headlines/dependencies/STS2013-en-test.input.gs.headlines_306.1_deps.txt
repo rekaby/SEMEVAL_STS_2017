@@ -1,0 +1,12 @@
+root	ROOT	U.S.
+punct	U.S.	,
+nsubj	Welcome	EU
+advmod	Welcome	Cautiously
+acl:relcl	U.S.	Welcome
+nmod:poss	Proposal	Iran
+case	Iran	's
+dobj	Welcome	Proposal
+mark	Restart	To
+advcl	Welcome	Restart
+amod	Talks	Nuclear
+dobj	Restart	Talks

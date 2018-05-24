@@ -1,0 +1,12 @@
+nsubj	called	i
+aux	called	have
+root	ROOT	called
+case	sick	in
+nmod:in	called	sick
+advmod	cat	when
+nsubj	cat	i
+cop	cat	was
+neg	cat	n't
+advcl	called	cat
+punct	cat	...
+neg	cat	not

@@ -1,0 +1,3 @@
+root	ROOT	flog
+cc	flog	or
+conj:or	flog	whip

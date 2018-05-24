@@ -1,0 +1,13 @@
+nsubj	hollow	It
+cop	hollow	is
+neg	hollow	not
+root	ROOT	hollow
+punct	hollow	,
+nsubj	round	it
+cop	round	is
+parataxis	hollow	round
+advmod	world	just
+case	world	as
+nmod:poss	world	our
+nmod:as	round	world
+punct	hollow	.

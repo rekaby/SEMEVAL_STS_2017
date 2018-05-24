@@ -1,0 +1,7 @@
+det	children	The
+nsubj	sandbox	children
+cop	sandbox	are
+case	sandbox	in
+det	sandbox	a
+root	ROOT	sandbox
+punct	sandbox	.

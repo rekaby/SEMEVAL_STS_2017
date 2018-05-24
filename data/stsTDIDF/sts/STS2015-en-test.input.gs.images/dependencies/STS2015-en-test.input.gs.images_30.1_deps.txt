@@ -1,0 +1,9 @@
+det	dogs	The
+nummod	dogs	two
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	grass	through
+det	grass	the
+nmod:through	running	grass
+punct	running	.

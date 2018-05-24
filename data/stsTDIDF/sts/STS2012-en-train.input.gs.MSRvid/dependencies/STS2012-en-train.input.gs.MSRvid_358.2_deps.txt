@@ -1,0 +1,8 @@
+det	man	A
+nsubj	adding	man
+aux	adding	is
+root	ROOT	adding
+dobj	adding	oil
+case	car	to
+nmod:to	adding	car
+punct	adding	.

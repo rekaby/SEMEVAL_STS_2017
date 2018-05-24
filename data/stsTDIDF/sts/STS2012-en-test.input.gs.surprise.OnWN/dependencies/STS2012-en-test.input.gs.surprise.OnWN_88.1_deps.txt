@@ -1,0 +1,6 @@
+det	gesture	a
+amod	gesture	social
+nsubj	greeting	gesture
+case	deferential	of
+nmod:of	gesture	deferential
+root	ROOT	greeting

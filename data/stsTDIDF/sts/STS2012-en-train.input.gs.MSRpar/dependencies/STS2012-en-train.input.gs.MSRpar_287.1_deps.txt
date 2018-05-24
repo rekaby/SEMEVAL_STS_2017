@@ -1,0 +1,14 @@
+nsubj	chided	He
+advmod	chided	playfully
+root	ROOT	chided
+det	Senate	the
+nmod:poss	plan	Senate
+case	Senate	's
+punct	plan	``
+amod	plan	little
+amod	plan	bitty
+compound	plan	tax
+compound	plan	relief
+dobj	chided	plan
+punct	chided	.
+punct	chided	''

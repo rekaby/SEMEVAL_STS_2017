@@ -1,0 +1,15 @@
+mark	has	If
+det	universe	the
+nsubj	has	universe
+advcl	God	has
+det	explanation	an
+dobj	has	explanation
+case	existence	of
+nmod:poss	existence	its
+nmod:of	explanation	existence
+punct	God	,
+det	explanation	that
+nsubj	God	explanation
+cop	God	is
+root	ROOT	God
+punct	God	.

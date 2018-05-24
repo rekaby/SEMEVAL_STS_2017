@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	sleeping	woman
+aux	sleeping	is
+root	ROOT	sleeping
+case	bedroom	in
+det	bedroom	the
+nmod:in	sleeping	bedroom
+punct	sleeping	.

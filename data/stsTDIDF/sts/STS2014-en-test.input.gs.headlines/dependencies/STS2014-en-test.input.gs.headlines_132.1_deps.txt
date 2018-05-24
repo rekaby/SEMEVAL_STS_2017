@@ -1,0 +1,8 @@
+root	ROOT	Man
+acl	Man	arrested
+case	shot	after
+compound	shot	police
+compound	shot	officer
+nmod:after	arrested	shot
+case	Leeds	in
+nmod:in	shot	Leeds

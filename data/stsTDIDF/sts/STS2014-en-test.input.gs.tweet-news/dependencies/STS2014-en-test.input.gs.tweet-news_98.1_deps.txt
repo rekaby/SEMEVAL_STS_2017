@@ -1,0 +1,8 @@
+amod	Man	Pooping
+root	ROOT	Man
+acl	Man	Killed
+case	Fall	in
+nmod:in	Killed	Fall
+case	Cars	Between
+compound	Cars	Subway
+nmod:between	Fall	Cars

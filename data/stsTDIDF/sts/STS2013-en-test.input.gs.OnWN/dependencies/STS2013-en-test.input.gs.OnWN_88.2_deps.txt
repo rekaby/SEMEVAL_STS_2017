@@ -1,0 +1,16 @@
+det	store	a
+root	ROOT	store
+cc	store	or
+conj:or	store	supply
+case	something	of
+nmod:of	supply	something
+punct	food	-LRB-
+advmod	food	especially
+case	food	of
+dep	something	food
+cc	food	or
+conj:or	food	clothing
+cc	food	or
+conj:or	food	arms
+punct	food	-RRB-
+punct	store	.

@@ -1,0 +1,6 @@
+nummod	Journalists	2
+amod	Journalists	French
+root	ROOT	Journalists
+acl	Journalists	Killed
+case	Mali	in
+nmod:in	Killed	Mali

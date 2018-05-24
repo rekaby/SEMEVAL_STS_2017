@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	pouring	woman
+aux	pouring	is
+root	ROOT	pouring
+det	mixture	a
+amod	mixture	yellow
+dobj	pouring	mixture
+case	pan	on
+det	pan	a
+amod	pan	frying
+nmod:on	pouring	pan
+punct	pouring	.

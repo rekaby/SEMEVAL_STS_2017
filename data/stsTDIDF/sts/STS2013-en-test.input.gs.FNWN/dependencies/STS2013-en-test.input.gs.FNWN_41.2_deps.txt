@@ -1,0 +1,8 @@
+det	occupation	the
+root	ROOT	occupation
+case	which	for
+nmod:for	paid	which
+nsubjpass	paid	you
+auxpass	paid	are
+acl:relcl	occupation	paid
+punct	occupation	;

@@ -1,0 +1,16 @@
+compound	sheikh	Sunni
+root	ROOT	sheikh
+case	al-Maliki	to
+nmod:to	sheikh	al-Maliki
+punct	sheikh	:
+dep	sheikh	Hand
+conj:or	Hand	Hand
+case	soldiers	over
+nmod:over	Hand	soldiers
+case	shootings	behind
+nmod:behind	Hand	shootings
+cc	Hand	or
+punct	losses	`
+compound	losses	face
+nmod:'	Hand	losses
+case	losses	'

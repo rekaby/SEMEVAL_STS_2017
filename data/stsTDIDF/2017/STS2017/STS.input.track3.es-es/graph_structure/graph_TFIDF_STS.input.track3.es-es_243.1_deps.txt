@@ -1,0 +1,8 @@
+stop	mall	nmod:at
+workers	construction	compound
+mall	at	case
+stop	lunch	nmod:for
+workers	Two	nummod
+lunch	for	case
+mall	the	det
+stop	workers	nsubj

@@ -1,0 +1,11 @@
+nsubj	think	i
+root	ROOT	think
+nsubj	accurate	newt
+aux	accurate	has
+cop	accurate	been
+det	accurate	the
+advmod	accurate	most
+ccomp	think	accurate
+cc	accurate	and
+conj:and	accurate	forthright
+punct	think	.

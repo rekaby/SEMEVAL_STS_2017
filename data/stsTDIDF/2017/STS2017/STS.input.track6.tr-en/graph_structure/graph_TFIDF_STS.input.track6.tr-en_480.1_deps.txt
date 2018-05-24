@@ -1,0 +1,6 @@
+band	popular	amod
+photoshoot	band	nmod:for
+photoshoot	A	det
+band	for	case
+ROOT	photoshoot	root
+photoshoot	.	punct

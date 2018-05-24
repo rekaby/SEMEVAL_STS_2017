@@ -1,0 +1,9 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+advmod	street	still
+case	street	in
+det	street	the
+nmod:in	standing	street
+punct	standing	.

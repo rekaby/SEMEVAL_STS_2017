@@ -1,0 +1,9 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	riding
+nmod:poss	bikes	their
+dobj	riding	bikes
+case	hill	on
+det	hill	a
+nmod:on	riding	hill
+punct	people	.

@@ -1,0 +1,4 @@
+eat	carrots	dobj
+eat	group	nsubj
+rabbits	of	case
+group	rabbits	nmod:of

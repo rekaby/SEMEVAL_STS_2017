@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+root	ROOT	girl
+acl	girl	falling
+case	snow	in
+det	snow	the
+nmod:in	falling	snow
+mark	observes	while
+nsubj	observes	another
+dep	girl	observes
+punct	girl	.

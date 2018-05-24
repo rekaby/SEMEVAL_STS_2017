@@ -1,0 +1,9 @@
+nsubj	meet	Obama
+mark	meet	to
+root	ROOT	meet
+amod	minister	Ukrainian
+amod	minister	prime
+dobj	meet	minister
+case	House	at
+compound	House	White
+nmod:at	minister	House

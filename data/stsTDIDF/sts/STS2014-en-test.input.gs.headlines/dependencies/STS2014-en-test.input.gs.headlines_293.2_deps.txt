@@ -1,0 +1,12 @@
+amod	police	Scottish
+nsubj	say	police
+root	ROOT	say
+case	least	at
+nmod:npmod	one	least
+dobj	say	one
+amod	one	dead
+case	crashes	after
+compound	crashes	helicopter
+nmod:after	dead	crashes
+case	pub	into
+nmod:into	crashes	pub

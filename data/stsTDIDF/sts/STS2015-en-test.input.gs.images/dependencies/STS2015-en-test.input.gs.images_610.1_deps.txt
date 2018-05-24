@@ -1,0 +1,9 @@
+nummod	man	One
+root	ROOT	man
+cc	man	and
+nummod	women	two
+conj:and	man	women
+acl	women	dressed
+case	costumes	in
+compound	costumes	vampire
+nmod:in	dressed	costumes

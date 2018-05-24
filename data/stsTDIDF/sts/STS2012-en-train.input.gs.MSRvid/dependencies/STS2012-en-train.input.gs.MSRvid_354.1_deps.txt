@@ -1,0 +1,6 @@
+det	turtle	A
+amod	turtle	big
+nsubj	walking	turtle
+aux	walking	is
+root	ROOT	walking
+punct	walking	.

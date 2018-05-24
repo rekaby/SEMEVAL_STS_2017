@@ -1,0 +1,6 @@
+riding	park	nmod:through
+girl	riding	acl
+riding	bike	dobj
+bike	a	det
+is	girl	nsubj
+park	through	case

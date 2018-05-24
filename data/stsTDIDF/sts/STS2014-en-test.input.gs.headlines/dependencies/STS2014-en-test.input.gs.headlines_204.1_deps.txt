@@ -1,0 +1,9 @@
+nsubj	hopes	Iran
+root	ROOT	hopes
+amod	talks	nuclear
+nsubj	yield	talks
+aux	yield	will
+ccomp	hopes	yield
+punct	yield	`
+dobj	yield	roadmap
+punct	hopes	'

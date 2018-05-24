@@ -1,0 +1,13 @@
+compound	hat	tin
+compound	hat	foil
+root	ROOT	hat
+case	sarg	for
+det	sarg	the
+nmod:for	hat	sarg
+punct	hat	,
+det	size	what
+dobj	wear	size
+aux	wear	do
+nsubj	wear	u
+acl:relcl	hat	wear
+punct	hat	?

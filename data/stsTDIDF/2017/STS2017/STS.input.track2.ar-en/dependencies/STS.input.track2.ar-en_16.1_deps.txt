@@ -1,0 +1,8 @@
+det	man	The
+nsubj	works	man
+root	ROOT	works
+case	market	in
+det	market	the
+amod	market	local
+nmod:in	works	market
+punct	works	.

@@ -1,0 +1,6 @@
+amod	ambassador	Palestinian
+nsubj	injured	ambassador
+root	ROOT	injured
+case	blast	in
+compound	blast	apartment
+nmod:in	injured	blast

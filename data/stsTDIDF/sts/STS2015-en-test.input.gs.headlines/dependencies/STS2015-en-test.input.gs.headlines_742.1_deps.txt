@@ -1,0 +1,8 @@
+nsubj	detains	Israel
+nsubj	continues	detains
+nummod	Palestinians	37
+dobj	detains	Palestinians
+case	operation	as
+compound	operation	arrest
+nmod:as	detains	operation
+root	ROOT	continues

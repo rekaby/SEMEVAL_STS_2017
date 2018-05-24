@@ -1,0 +1,6 @@
+nsubj	launches	Egypt
+root	ROOT	launches
+dobj	launches	offensive
+case	insurgents	against
+compound	insurgents	Sinai
+nmod:against	offensive	insurgents

@@ -1,0 +1,7 @@
+det	sheep	A
+root	ROOT	sheep
+acl	sheep	standing
+case	children	near
+nmod:poss	children	her
+nmod:near	standing	children
+punct	sheep	.

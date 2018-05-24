@@ -1,0 +1,10 @@
+nummod	snowboarders	Two
+nsubj	air	snowboarders
+cop	air	are
+case	air	in
+det	air	the
+root	ROOT	air
+case	snow	over
+det	snow	the
+nmod:over	air	snow
+punct	air	.

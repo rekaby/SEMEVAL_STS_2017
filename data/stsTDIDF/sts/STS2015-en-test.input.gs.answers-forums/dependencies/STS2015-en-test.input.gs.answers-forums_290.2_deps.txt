@@ -1,0 +1,13 @@
+det	answer	The
+amod	answer	short
+nsubj	is	answer
+root	ROOT	is
+mark	create	that
+nsubj	create	evolution
+aux	create	could
+neg	create	n't
+ccomp	is	create
+dobj	create	gills
+case	humans	in
+nmod:in	gills	humans
+punct	is	.

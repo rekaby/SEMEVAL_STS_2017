@@ -1,0 +1,12 @@
+mark	had	So
+nsubj	had	I
+aux	had	've
+root	ROOT	had
+dobj	had	plenty
+case	time	of
+nmod:of	plenty	time
+mark	think	to
+advcl	had	think
+case	boredom	about
+nmod:about	think	boredom
+punct	had	.

@@ -1,0 +1,9 @@
+det	boy	The
+amod	boy	little
+nsubj	swung	boy
+root	ROOT	swung
+case	ball	at
+det	ball	the
+compound	ball	golf
+nmod:at	swung	ball
+punct	swung	.

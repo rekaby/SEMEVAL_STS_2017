@@ -1,0 +1,7 @@
+nsubj	move	Feds
+root	ROOT	move
+mark	require	to
+xcomp	move	require
+compound	communication	car-to-car
+compound	communication	safety
+dobj	require	communication

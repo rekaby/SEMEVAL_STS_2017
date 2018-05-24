@@ -1,0 +1,14 @@
+det	co-worker	An
+amod	co-worker	injured
+compound	co-worker	woman
+nsubjpass	hospitalized	co-worker
+advmod	hospitalized	also
+auxpass	hospitalized	was
+root	ROOT	hospitalized
+cc	hospitalized	and
+auxpass	listed	was
+conj:and	hospitalized	listed
+case	condition	in
+amod	condition	good
+nmod:in	listed	condition
+punct	hospitalized	.

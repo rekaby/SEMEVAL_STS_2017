@@ -1,0 +1,17 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	man	of
+det	man	a
+nmod:of	photo	man
+acl	man	driving
+det	car	a
+dobj	driving	car
+cc	photo	and
+conj:and	photo	someone
+case	motorcycle	with
+det	motorcycle	a
+nmod:with	someone	motorcycle
+punct	photo	.

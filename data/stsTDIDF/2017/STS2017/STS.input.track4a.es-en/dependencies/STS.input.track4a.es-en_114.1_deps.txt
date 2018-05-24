@@ -1,0 +1,9 @@
+det	animals	The
+nsubj	cages	animals
+cop	cages	are
+case	cages	in
+root	ROOT	cages
+case	zoo	at
+det	zoo	the
+nmod:at	cages	zoo
+punct	cages	.

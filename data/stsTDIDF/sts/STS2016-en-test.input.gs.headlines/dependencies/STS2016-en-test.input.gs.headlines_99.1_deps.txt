@@ -1,0 +1,9 @@
+compound	Zimmerman	George
+nsubj	found	Zimmerman
+root	ROOT	found
+neg	guilty	not
+xcomp	found	guilty
+case	murder	of
+compound	murder	Trayvon
+compound	murder	Martin
+nmod:of	guilty	murder

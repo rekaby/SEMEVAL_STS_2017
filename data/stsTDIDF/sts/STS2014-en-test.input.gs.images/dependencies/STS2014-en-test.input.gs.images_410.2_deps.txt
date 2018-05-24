@@ -1,0 +1,9 @@
+det	plane	An
+compound	plane	aeromexico
+compound	plane	silver
+nsubj	runway	plane
+cop	runway	is
+case	runway	on
+det	runway	a
+root	ROOT	runway
+punct	runway	.

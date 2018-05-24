@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	sitting	men
+case	shorts	in
+nmod:in	men	shorts
+aux	sitting	are
+root	ROOT	sitting
+case	sofa	on
+det	sofa	a
+nmod:on	sitting	sofa
+punct	sitting	.

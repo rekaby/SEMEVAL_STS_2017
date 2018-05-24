@@ -1,0 +1,14 @@
+nsubj	sign	You
+aux	sign	could
+root	ROOT	sign
+compound	Berkman	Lance
+dobj	sign	Berkman
+case	end	at
+det	end	the
+nmod:at	sign	end
+case	year	of
+det	year	the
+nmod:of	end	year
+nsubj	guess	I
+acl:relcl	year	guess
+punct	sign	?

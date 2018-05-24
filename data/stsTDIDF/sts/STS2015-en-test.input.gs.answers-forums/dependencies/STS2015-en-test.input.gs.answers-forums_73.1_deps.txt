@@ -1,0 +1,17 @@
+mark	understand	If
+nsubj	understand	I
+root	ROOT	understand
+nsubj	looking	you
+advmod	looking	correctly
+punct	looking	,
+nsubj	looking	you
+aux	looking	are
+ccomp	understand	looking
+case	hypernym	for
+det	hypernym	a
+nmod:for	looking	hypernym
+case	inclusion	of
+nmod:of	hypernym	inclusion
+cc	inclusion	and
+conj:and	inclusion	exclusion
+punct	understand	.

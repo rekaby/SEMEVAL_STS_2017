@@ -1,0 +1,8 @@
+compound	I	Chuck
+nsubj	offer	I
+aux	offer	'd
+root	ROOT	offer
+iobj	offer	Iran
+det	deal	a
+dobj	offer	deal
+punct	offer	.

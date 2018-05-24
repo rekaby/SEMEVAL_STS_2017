@@ -1,0 +1,15 @@
+root	ROOT	approach
+det	measurement	a
+amod	measurement	certain
+dobj	approach	measurement
+punct	approach	,
+dep	approach	whether
+case	age	of
+nmod:of	whether	age
+punct	age	,
+conj	age	speed
+punct	age	,
+conj	age	temperature
+punct	age	,
+conj	age	etc.
+punct	approach	.

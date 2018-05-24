@@ -1,0 +1,11 @@
+det	utterance	a
+amod	utterance	loud
+root	ROOT	utterance
+case	emotion	of
+nmod:of	utterance	emotion
+punct	inarticulate	-LRB-
+advmod	inarticulate	especially
+advmod	inarticulate	when
+appos	utterance	inarticulate
+punct	inarticulate	-RRB-
+punct	utterance	.

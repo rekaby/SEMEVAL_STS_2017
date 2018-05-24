@@ -1,0 +1,6 @@
+compound	Activists	Pro-Palestinian
+root	ROOT	Activists
+dep	Activists	March
+case	Headquarters	to
+compound	Headquarters	UN
+nmod:to	March	Headquarters

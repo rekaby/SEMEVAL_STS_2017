@@ -1,0 +1,6 @@
+compound	Fitow	Typhoon
+nsubj	slams	Fitow
+root	ROOT	slams
+case	China	into
+amod	China	southeastern
+nmod:into	slams	China

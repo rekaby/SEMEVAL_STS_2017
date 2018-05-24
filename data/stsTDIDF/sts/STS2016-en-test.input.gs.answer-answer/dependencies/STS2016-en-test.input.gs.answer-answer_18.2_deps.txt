@@ -1,0 +1,11 @@
+nmod:poss	answer	My
+root	ROOT	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+dep	answer	is
+punct	is	``
+root	``	Probably
+dep	Probably	Not
+punct	Not	''
+punct	Probably	.

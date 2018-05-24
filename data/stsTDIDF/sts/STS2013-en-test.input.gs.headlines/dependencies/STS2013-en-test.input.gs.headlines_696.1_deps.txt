@@ -1,0 +1,7 @@
+nsubj	postpones	Libya
+root	ROOT	postpones
+compound	election	assembly
+dobj	postpones	election
+case	July	to
+nmod:to	postpones	July
+dep	postpones	7

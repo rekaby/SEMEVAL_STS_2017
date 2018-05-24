@@ -1,0 +1,8 @@
+root	ROOT	Philippines
+punct	Philippines	,
+compound	pledge	Canada
+appos	Philippines	pledge
+mark	boost	to
+amod	boost	further
+acl	pledge	boost
+dobj	boost	relations

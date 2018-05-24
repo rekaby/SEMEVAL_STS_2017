@@ -1,0 +1,7 @@
+nsubj	opposes	China
+root	ROOT	opposes
+compound	sales	US
+compound	sales	arms
+dobj	opposes	sales
+case	Taiwan	to
+nmod:to	opposes	Taiwan

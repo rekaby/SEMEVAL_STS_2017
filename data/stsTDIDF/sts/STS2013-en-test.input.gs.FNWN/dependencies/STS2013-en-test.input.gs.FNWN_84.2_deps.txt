@@ -1,0 +1,8 @@
+det	body	a
+root	ROOT	body
+case	rules	of
+nmod:of	body	rules
+acl	body	followed
+case	assembly	by
+det	assembly	an
+nmod:by	followed	assembly

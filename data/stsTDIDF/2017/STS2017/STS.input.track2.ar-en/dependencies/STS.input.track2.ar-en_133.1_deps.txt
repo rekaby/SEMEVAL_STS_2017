@@ -1,0 +1,9 @@
+compound	playing	Child
+root	ROOT	playing
+case	hoop	with
+det	hoop	a
+compound	hoop	hula
+nmod:with	playing	hoop
+case	home	in
+nmod:poss	home	his
+nmod:in	playing	home

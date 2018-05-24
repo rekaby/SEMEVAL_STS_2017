@@ -1,0 +1,9 @@
+root	ROOT	UN
+punct	UN	:
+compound	Invited	Iran
+appos	UN	Invited
+mark	Attend	to
+acl	Invited	Attend
+amod	Conference	Syrian
+compound	Conference	Peace
+dobj	Attend	Conference

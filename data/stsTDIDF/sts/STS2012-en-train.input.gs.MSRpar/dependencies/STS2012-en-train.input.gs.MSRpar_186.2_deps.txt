@@ -1,0 +1,16 @@
+punct	miles	``
+det	error	The
+amod	error	average
+compound	error	track
+nsubj	miles	error
+case	forecast	for
+det	forecast	the
+amod	forecast	five-day
+punct	forecast	-LRB-
+nmod:for	error	forecast
+punct	error	-RRB-
+cop	miles	is
+nummod	miles	323
+amod	miles	nautical
+root	ROOT	miles
+punct	miles	.

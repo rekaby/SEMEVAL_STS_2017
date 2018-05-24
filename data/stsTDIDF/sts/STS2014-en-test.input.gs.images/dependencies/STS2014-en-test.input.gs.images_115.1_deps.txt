@@ -1,0 +1,9 @@
+det	animal	A
+amod	animal	white
+nsubj	covered	animal
+acl	animal	running
+case	snow	through
+nmod:through	running	snow
+root	ROOT	covered
+dobj	covered	woods
+punct	covered	.

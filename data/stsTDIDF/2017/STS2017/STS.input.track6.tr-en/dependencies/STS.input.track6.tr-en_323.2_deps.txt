@@ -1,0 +1,10 @@
+nsubj	sitting	People
+aux	sitting	are
+root	ROOT	sitting
+case	fence	in
+mwe	in	front
+mwe	in	of
+det	fence	a
+amod	fence	white
+nmod:in_front_of	sitting	fence
+punct	sitting	.

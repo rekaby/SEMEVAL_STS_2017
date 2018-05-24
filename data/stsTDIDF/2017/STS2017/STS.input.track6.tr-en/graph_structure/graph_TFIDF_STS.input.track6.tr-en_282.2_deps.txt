@@ -1,0 +1,7 @@
+building	from	case
+building	shaded	amod
+walks	man	nsubj
+walks	away	advmod
+walks	building	nmod:from
+building	long	amod
+man	suit	nmod:in

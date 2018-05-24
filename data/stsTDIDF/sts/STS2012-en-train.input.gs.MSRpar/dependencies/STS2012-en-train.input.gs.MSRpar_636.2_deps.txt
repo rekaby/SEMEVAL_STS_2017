@@ -1,0 +1,12 @@
+det	firm	The
+nsubj	predicted	firm
+aux	predicted	had
+root	ROOT	predicted
+advmod	year	earlier
+det	year	this
+nmod:tmod	predicted	year
+det	increase	a
+compound	percent	4.9
+amod	increase	percent
+dobj	predicted	increase
+punct	predicted	.

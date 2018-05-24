@@ -1,0 +1,11 @@
+det	dog	A
+compound	dog	tan
+nsubj	licks	dog
+root	ROOT	licks
+det	hand	a
+compound	hand	girls
+dobj	licks	hand
+mark	laying	while
+advcl	licks	laying
+compound:prt	laying	down
+punct	licks	.

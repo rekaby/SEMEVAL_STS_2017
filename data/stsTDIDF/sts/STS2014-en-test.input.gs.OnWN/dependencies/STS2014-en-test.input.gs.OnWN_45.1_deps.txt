@@ -1,0 +1,7 @@
+det	event	the
+root	ROOT	event
+mark	vanishing	of
+advmod	vanishing	gradually
+acl	event	vanishing
+case	view	from
+nmod:from	vanishing	view

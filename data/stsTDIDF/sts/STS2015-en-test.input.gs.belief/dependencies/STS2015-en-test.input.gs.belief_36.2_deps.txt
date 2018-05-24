@@ -1,0 +1,6 @@
+root	ROOT	know
+dobj	talking	what
+nsubj	talking	im
+ccomp	know	talking
+advmod	talking	about
+punct	know	.

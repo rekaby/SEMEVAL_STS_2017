@@ -1,0 +1,8 @@
+compound	Republicans	US
+compound	Republicans	House
+nsubj	elect	Republicans
+root	ROOT	elect
+compound	Ryan	Paul
+dobj	elect	Ryan
+case	speaker	as
+nmod:as	elect	speaker

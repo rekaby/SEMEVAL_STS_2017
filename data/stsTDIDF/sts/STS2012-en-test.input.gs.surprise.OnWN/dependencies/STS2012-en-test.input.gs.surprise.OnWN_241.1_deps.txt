@@ -1,0 +1,7 @@
+root	ROOT	income
+acl	income	collected
+case	tax	as
+nmod:as	collected	tax
+case	government	by
+det	government	a
+nmod:by	collected	government

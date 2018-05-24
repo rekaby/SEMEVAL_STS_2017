@@ -1,0 +1,11 @@
+det	thing	The
+amod	thing	best
+nsubj	is	thing
+mark	do	to
+acl	thing	do
+root	ROOT	is
+mark	overcome	to
+xcomp	is	overcome
+det	fussiness	the
+dobj	overcome	fussiness
+punct	is	.

@@ -1,0 +1,8 @@
+amod	officials	Ukrainian
+nsubj	continue	officials
+acl	officials	barred
+case	Canada	from
+nmod:from	barred	Canada
+case	protests	as
+nmod:as	barred	protests
+root	ROOT	continue

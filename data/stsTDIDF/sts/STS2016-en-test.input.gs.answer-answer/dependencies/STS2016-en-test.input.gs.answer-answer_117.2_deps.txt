@@ -1,0 +1,9 @@
+det	answer	The
+nsubj	really	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+cop	really	is
+neg	really	not
+root	ROOT	really
+punct	really	.

@@ -1,0 +1,12 @@
+det	remains	the
+root	ROOT	remains
+case	something	of
+nmod:of	remains	something
+nsubjpass	destroyed	that
+aux	destroyed	has
+auxpass	destroyed	been
+acl:relcl	something	destroyed
+cc	destroyed	or
+conj:or	destroyed	broken
+compound:prt	broken	up
+punct	remains	.

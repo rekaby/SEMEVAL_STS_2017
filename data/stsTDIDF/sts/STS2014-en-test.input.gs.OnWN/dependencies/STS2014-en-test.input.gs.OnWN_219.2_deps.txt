@@ -1,0 +1,7 @@
+root	ROOT	make
+mark	combining	by
+advcl	make	combining
+dobj	combining	materials
+cc	materials	and
+conj:and	materials	parts
+punct	make	.

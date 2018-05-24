@@ -1,0 +1,8 @@
+compound	Weaver	Jacki
+root	ROOT	Weaver
+cc	Weaver	and
+det	Lord	the
+conj:and	Weaver	Lord
+case	Village	of
+compound	Village	Greenwich
+nmod:of	Lord	Village

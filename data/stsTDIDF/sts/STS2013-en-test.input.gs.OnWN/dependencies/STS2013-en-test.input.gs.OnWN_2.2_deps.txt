@@ -1,0 +1,8 @@
+det	actor	an
+root	ROOT	actor
+nsubj	plays	who
+acl:relcl	actor	plays
+det	role	a
+amod	role	principal
+dobj	plays	role
+punct	actor	.

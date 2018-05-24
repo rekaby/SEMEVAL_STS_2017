@@ -1,0 +1,9 @@
+det	woman	A
+compound	woman	cartoon
+nsubj	diving	woman
+cop	diving	is
+root	ROOT	diving
+case	board	off
+det	board	a
+nmod:off	diving	board
+punct	diving	.

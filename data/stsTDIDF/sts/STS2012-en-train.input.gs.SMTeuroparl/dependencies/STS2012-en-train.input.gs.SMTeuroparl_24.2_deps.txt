@@ -1,0 +1,12 @@
+det	programmes	A
+compound	programmes	budget
+compound	programmes	line
+compound	programmes	finances
+compound	programmes	clearance
+root	ROOT	programmes
+cc	programmes	and
+case	prevention	of
+conj:and	programmes	prevention
+case	years	since
+nmod:since	prevention	years
+punct	programmes	.

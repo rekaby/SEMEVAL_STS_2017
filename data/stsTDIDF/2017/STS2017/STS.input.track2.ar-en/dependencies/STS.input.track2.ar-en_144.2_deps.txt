@@ -1,0 +1,5 @@
+det	boy	The
+nsubj	eats	boy
+root	ROOT	eats
+dobj	eats	food
+punct	eats	.

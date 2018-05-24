@@ -1,0 +1,9 @@
+nsubj	preparing	They
+aux	preparing	are
+root	ROOT	preparing
+case	performance	for
+det	performance	a
+nmod:for	preparing	performance
+case	school	at
+nmod:at	performance	school
+punct	preparing	.

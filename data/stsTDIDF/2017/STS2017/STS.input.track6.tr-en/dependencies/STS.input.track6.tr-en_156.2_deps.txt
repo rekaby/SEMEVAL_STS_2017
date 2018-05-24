@@ -1,0 +1,9 @@
+nsubj	sit	Children
+root	ROOT	sit
+advmod	sit	down
+cc	sit	and
+conj:and	sit	listen
+case	story	to
+det	story	a
+nmod:to	listen	story
+punct	sit	.

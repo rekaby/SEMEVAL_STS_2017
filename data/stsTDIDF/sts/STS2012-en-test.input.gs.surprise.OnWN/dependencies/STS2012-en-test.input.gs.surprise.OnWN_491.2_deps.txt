@@ -1,0 +1,9 @@
+root	ROOT	talk
+cc	talk	or
+conj:or	talk	behave
+advmod	talk	amorously
+punct	talk	,
+case	intentions	without
+amod	intentions	serious
+nmod:without	talk	intentions
+punct	talk	.

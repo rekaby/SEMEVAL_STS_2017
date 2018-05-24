@@ -1,0 +1,14 @@
+punct	crime	`
+compound	crime	War
+root	ROOT	crime
+punct	crime	'
+punct	crime	:
+nsubj	finds	U.N.
+parataxis	crime	finds
+compound	attack	sarin
+acl	sarin	used
+case	weapons	in
+compound	weapons	Syria
+compound	weapons	chemical
+nmod:in	used	weapons
+dobj	finds	attack

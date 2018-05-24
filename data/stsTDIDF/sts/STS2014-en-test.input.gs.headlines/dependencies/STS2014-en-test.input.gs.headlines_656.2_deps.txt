@@ -1,0 +1,5 @@
+compound	service	Internet
+nsubj	resumes	service
+root	ROOT	resumes
+case	Syria	in
+nmod:in	resumes	Syria

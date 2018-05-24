@@ -1,0 +1,15 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+advmod	sitting	alone
+xcomp	sitting	reading
+case	table	on
+det	table	a
+compound	table	round
+nmod:on	reading	table
+punct	man	,
+case	store	outside
+det	store	a
+compound	store	convenience
+nmod:outside	man	store
+punct	man	.

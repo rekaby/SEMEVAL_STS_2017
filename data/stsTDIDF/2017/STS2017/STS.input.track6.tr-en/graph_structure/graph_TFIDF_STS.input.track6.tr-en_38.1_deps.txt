@@ -1,0 +1,3 @@
+sits	person	nsubj
+car	small	amod
+sits	car	nmod:in

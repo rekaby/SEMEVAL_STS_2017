@@ -1,0 +1,12 @@
+nsubj	path	Bulb
+dep	Bulb	A
+cc	A	and
+conj:and	A	B
+aux	path	will
+advmod	path	still
+cop	path	be
+case	path	in
+det	path	a
+amod	path	contained
+root	ROOT	path
+punct	path	.

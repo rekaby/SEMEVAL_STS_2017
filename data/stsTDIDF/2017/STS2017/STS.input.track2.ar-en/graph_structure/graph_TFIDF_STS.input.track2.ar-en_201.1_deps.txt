@@ -1,0 +1,8 @@
+competing	water	nmod:in
+competing	.	punct
+ROOT	competing	root
+water	open	amod
+competing	are	aux
+competing	other	nmod:against
+competing	surfers	nsubj
+surfers	Two	nummod

@@ -1,0 +1,6 @@
+preparing	bartender	nsubj
+customers	his	nmod:poss
+preparing	is	aux
+preparing	drinks	dobj
+bartender	A	det
+preparing	customers	nmod:for

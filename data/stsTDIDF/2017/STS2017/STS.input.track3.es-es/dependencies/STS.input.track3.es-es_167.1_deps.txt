@@ -1,0 +1,6 @@
+det	man	A
+nsubj	sends	man
+root	ROOT	sends
+det	order	a
+compound	order	food
+dobj	sends	order

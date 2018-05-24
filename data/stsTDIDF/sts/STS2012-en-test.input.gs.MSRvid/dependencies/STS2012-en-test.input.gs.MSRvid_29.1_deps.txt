@@ -1,0 +1,9 @@
+det	cat	A
+nsubj	rubbing	cat
+aux	rubbing	is
+root	ROOT	rubbing
+case	face	against
+nmod:poss	face	baby
+case	baby	's
+nmod:against	rubbing	face
+punct	rubbing	.

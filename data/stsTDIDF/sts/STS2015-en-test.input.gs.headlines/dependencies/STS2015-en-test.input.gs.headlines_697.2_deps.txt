@@ -1,0 +1,6 @@
+compound	Offensive	Israel
+compound	Offensive	Launches
+compound	Offensive	Ground
+root	ROOT	Offensive
+case	Gaza	In
+nmod:in	Offensive	Gaza

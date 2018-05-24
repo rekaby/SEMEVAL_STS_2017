@@ -1,0 +1,8 @@
+nummod	inmates	40
+nsubj	serving	inmates
+aux	serving	are
+root	ROOT	serving
+dobj	serving	sentences
+case	murder	for
+nmod:for	sentences	murder
+punct	serving	.

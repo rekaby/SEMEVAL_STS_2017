@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	brown
+nsubj	loves	dog
+root	ROOT	loves
+det	water	the
+dobj	loves	water
+cc	loves	and
+conj:and	loves	splashing
+advmod	splashing	around
+punct	loves	.

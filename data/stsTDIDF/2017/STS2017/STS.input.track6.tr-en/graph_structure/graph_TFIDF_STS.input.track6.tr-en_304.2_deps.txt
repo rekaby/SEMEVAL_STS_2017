@@ -1,0 +1,7 @@
+jumps	pond	nmod:out_of
+jumps	.	punct
+dog	black	amod
+ROOT	jumps	root
+pond	a	det
+pond	out	case
+jumps	dog	nsubj

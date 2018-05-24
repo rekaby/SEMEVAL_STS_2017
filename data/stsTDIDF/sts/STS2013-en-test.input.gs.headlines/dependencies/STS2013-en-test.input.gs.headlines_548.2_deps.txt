@@ -1,0 +1,8 @@
+compound	stock	ArQule
+nsubj	plunges	stock
+csubj	shelved	plunges
+case	study	as
+compound	study	lung
+compound	study	cancer
+nmod:as	plunges	study
+root	ROOT	shelved

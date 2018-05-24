@@ -1,0 +1,7 @@
+ROOT	trees	root
+trees	night	nmod:on
+trees	.	punct
+trees	Beautiful	amod
+trees	lights	compound
+trees	accent	compound
+night	dark	amod

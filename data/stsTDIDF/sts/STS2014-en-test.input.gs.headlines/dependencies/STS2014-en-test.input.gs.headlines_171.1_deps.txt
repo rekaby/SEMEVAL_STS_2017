@@ -1,0 +1,7 @@
+amod	anniversary	50th
+nsubj	remembered	anniversary
+case	death	of
+nmod:poss	death	JFK
+case	JFK	's
+nmod:of	anniversary	death
+root	ROOT	remembered

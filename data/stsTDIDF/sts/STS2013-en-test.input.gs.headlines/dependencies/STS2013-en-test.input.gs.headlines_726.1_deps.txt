@@ -1,0 +1,8 @@
+nsubj	get	Spurs
+root	ROOT	get
+dobj	get	revenge
+case	Lakers	on
+nmod:on	revenge	Lakers
+punct	get	,
+dep	get	lead
+dobj	lead	West

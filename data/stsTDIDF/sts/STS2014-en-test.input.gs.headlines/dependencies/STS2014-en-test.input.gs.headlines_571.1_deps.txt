@@ -1,0 +1,6 @@
+compound	cruises	Ferrer
+root	ROOT	cruises
+case	quarter-finals	into
+amod	quarter-finals	Australian
+compound	quarter-finals	Open
+nmod:into	cruises	quarter-finals

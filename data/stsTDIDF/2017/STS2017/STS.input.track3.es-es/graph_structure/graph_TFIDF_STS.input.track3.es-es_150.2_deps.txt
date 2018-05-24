@@ -1,0 +1,4 @@
+walking	is	aux
+ocean	towards	case
+walking	ocean	nmod:towards
+walking	person	nsubj

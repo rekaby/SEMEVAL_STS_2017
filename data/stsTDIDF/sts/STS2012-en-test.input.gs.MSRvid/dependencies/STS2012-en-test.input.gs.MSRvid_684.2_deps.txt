@@ -1,0 +1,9 @@
+det	group	A
+nsubj	fall	group
+case	swimmers	of
+nmod:of	group	swimmers
+root	ROOT	fall
+case	pool	into
+det	pool	a
+nmod:into	fall	pool
+punct	fall	.

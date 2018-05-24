@@ -1,0 +1,10 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	ground	on
+det	ground	the
+nmod:on	standing	ground
+case	paintbrush	with
+det	paintbrush	a
+nmod:with	ground	paintbrush

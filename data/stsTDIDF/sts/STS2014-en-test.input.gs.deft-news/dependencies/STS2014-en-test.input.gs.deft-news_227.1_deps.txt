@@ -1,0 +1,17 @@
+amod	lies	iran
+root	ROOT	lies
+case	route	on
+det	route	a
+amod	route	major
+compound	route	drug
+nmod:on	lies	route
+case	afghanistan	between
+nmod:between	route	afghanistan
+cc	afghanistan	and
+conj:and	afghanistan	europe
+cc	afghanistan	and
+det	states	the
+amod	states	persian
+compound	states	gulf
+conj:and	afghanistan	states
+punct	lies	.

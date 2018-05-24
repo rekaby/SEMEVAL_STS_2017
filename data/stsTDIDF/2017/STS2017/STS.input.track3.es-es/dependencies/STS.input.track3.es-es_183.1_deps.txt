@@ -1,0 +1,9 @@
+nsubj	talking	Students
+aux	talking	are
+root	ROOT	talking
+case	debate	in
+det	debate	a
+compound	debate	gun
+compound	debate	control
+nmod:in	talking	debate
+punct	talking	.

@@ -1,0 +1,13 @@
+det	Nazis	The
+nsubj	lowered	Nazis
+root	ROOT	lowered
+det	age	the
+amod	age	minimum
+dobj	lowered	age
+mark	buy	to
+advcl	lowered	buy
+det	firearm	a
+dobj	buy	firearm
+case	to	from
+nmod:from	buy	to
+punct	lowered	.

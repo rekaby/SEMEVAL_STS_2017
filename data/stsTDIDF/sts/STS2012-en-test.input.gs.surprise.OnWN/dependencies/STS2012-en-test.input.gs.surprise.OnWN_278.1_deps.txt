@@ -1,0 +1,7 @@
+det	submission	the
+amod	submission	public
+root	ROOT	submission
+case	record	of
+det	record	a
+amod	record	legal
+nmod:of	submission	record

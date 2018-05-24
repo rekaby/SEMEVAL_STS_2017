@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+compound:prt	cutting	up
+det	chicken	a
+dobj	cutting	chicken
+punct	cutting	.

@@ -1,0 +1,19 @@
+root	ROOT	any
+case	controls	of
+amod	controls	various
+nmod:of	any	controls
+cc	controls	or
+conj:or	controls	devices
+mark	regulating	for
+acl	any	regulating
+cc	regulating	or
+conj:or	regulating	controlling
+compound	flow	fluid
+dobj	regulating	flow
+punct	flow	,
+conj	flow	pressure
+punct	flow	,
+conj	flow	temperature
+punct	flow	,
+dep	flow	etc.
+punct	any	.-19) root(ROOT-0, .

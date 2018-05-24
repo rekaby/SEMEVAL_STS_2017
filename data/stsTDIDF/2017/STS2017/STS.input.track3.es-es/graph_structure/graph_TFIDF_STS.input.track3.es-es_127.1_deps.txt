@@ -1,0 +1,5 @@
+hoop	with	case
+plays	animal	nsubj
+plays	hoop	nmod:with
+animal	An	det
+hoop	a	det

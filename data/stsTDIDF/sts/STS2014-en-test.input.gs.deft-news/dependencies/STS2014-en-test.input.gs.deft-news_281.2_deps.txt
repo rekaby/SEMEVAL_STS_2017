@@ -1,0 +1,9 @@
+nmod:poss	laboratory	korobeynichev
+case	korobeynichev	's
+nsubj	worked	laboratory
+root	ROOT	worked
+case	institutes	with
+amod	institutes	other
+amod	institutes	scientific
+nmod:with	worked	institutes
+punct	worked	.

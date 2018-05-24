@@ -1,0 +1,12 @@
+root	ROOT	become
+advmod	tense	less
+xcomp	become	tense
+punct	rest	,
+dep	become	rest
+punct	rest	,
+cc	rest	or
+conj:or	rest	take
+nmod:poss	ease	one
+case	one	's
+dobj	take	ease
+punct	become	.

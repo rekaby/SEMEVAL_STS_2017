@@ -1,0 +1,10 @@
+amod	police	Spanish
+root	ROOT	police
+acl	police	say
+amod	items	seized
+dobj	say	items
+acl	items	intended
+case	program	for
+compound	program	Iran
+amod	program	nuclear
+nmod:for	intended	program

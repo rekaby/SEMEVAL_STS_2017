@@ -1,0 +1,6 @@
+amod	troops	Indian
+nsubj	raid	troops
+root	ROOT	raid
+amod	post	Pakistani
+amod	post	military
+dobj	raid	post

@@ -1,0 +1,13 @@
+nsubj	option	guillemets
+punct	option	,
+mark	suggested	as
+advcl	option	suggested
+case	Ipsum	by
+compound	Ipsum	Lauren
+nmod:by	suggested	Ipsum
+punct	option	,
+cop	option	is
+det	option	a
+amod	option	good
+root	ROOT	option
+punct	option	.

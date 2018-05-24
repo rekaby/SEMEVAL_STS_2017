@@ -1,0 +1,14 @@
+advmod	unusual	here
+nsubj	unusual	it
+cop	unusual	's
+neg	unusual	not
+root	ROOT	unusual
+mark	see	to
+advmod	see	only
+xcomp	unusual	see
+det	doctor	a
+dobj	see	doctor
+case	weeks	at
+nummod	weeks	12-14
+nmod:at	doctor	weeks
+punct	unusual	.

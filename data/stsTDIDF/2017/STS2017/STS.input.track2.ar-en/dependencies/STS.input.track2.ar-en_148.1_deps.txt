@@ -1,0 +1,15 @@
+root	ROOT	Man
+acl	Man	sitting
+case	end	at
+det	end	the
+nmod:at	sitting	end
+case	row	of
+det	row	a
+nmod:of	end	row
+case	chairs	of
+amod	chairs	green
+nmod:of	row	chairs
+case	payphones	by
+det	payphones	some
+nmod:by	sitting	payphones
+punct	Man	.

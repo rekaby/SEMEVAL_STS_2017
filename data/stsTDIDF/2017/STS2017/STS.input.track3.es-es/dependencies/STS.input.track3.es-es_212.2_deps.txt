@@ -1,0 +1,10 @@
+det	group	A
+nsubj	standing	group
+case	people	of
+nmod:of	group	people
+aux	standing	is
+root	ROOT	standing
+case	bar	in
+det	bar	a
+nmod:in	standing	bar
+punct	standing	.

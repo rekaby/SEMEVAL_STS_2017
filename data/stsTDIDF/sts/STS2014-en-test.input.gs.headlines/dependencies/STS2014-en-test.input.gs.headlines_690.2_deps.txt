@@ -1,0 +1,7 @@
+nsubj	clash	Protesters
+root	ROOT	clash
+case	police	with
+compound	police	riot
+nmod:with	clash	police
+case	Kiev	in
+nmod:in	clash	Kiev

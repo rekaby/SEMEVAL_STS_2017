@@ -1,0 +1,11 @@
+det	group	A
+nsubj	pose	group
+case	people	of
+nmod:of	group	people
+root	ROOT	pose
+case	ocean	in
+mwe	in	front
+mwe	in	of
+det	ocean	the
+nmod:in_front_of	pose	ocean
+punct	pose	.

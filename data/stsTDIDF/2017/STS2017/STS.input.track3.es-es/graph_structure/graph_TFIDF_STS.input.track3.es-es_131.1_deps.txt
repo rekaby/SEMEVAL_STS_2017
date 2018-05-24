@@ -1,0 +1,8 @@
+hair	dress	conj:and
+dress	white	amod
+hair	gray	amod
+dress	standing	amod
+wall	in	case
+hair	and	cc
+standing	wall	nmod:in_front_of
+woman	hair	nmod:with

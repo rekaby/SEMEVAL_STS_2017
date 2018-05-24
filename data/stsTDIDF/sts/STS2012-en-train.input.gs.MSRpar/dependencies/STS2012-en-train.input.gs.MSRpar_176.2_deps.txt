@@ -1,0 +1,13 @@
+punct	said	``
+nsubj	acknowledged	I
+aux	acknowledged	have
+ccomp	said	acknowledged
+mark	behaved	that
+nsubj	behaved	I
+ccomp	acknowledged	behaved
+advmod	behaved	inappropriately
+punct	said	,
+punct	said	''
+nsubj	said	he
+root	ROOT	said
+punct	said	.

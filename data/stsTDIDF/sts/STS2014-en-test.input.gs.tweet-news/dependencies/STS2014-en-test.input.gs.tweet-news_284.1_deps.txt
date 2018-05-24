@@ -1,0 +1,11 @@
+advmod	NYTimes	Again
+punct	NYTimes	:
+root	ROOT	NYTimes
+punct	NYTimes	:
+nummod	Fuel	787
+compound	Fuel	Jet
+compound	Fuel	Leaks
+nsubj	Test	Fuel
+case	Safety	During
+nmod:during	Fuel	Safety
+parataxis	NYTimes	Test

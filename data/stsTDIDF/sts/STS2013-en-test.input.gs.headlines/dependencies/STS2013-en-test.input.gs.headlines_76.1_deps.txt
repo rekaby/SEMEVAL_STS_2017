@@ -1,0 +1,7 @@
+nsubj	Have	I
+aux	Have	'll
+root	ROOT	Have
+dobj	Have	Another
+acl	Another	retired
+case	stud	to
+nmod:to	retired	stud

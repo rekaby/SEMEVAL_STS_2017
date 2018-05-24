@@ -1,0 +1,15 @@
+compound	Said	Khan
+nsubj	named	Said
+root	ROOT	named
+case	leader	as
+amod	leader	new
+compound	leader	Pakistani
+compound	leader	Taliban
+nmod:as	named	leader
+mark	killed	after
+compound	Mehsud	Hakimullah
+nsubj	killed	Mehsud
+advcl	named	killed
+case	strike	in
+compound	strike	drone
+nmod:in	killed	strike

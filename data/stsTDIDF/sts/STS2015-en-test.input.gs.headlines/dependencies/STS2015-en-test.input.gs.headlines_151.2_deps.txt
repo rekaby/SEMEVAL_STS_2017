@@ -1,0 +1,6 @@
+nsubj	sends	China
+root	ROOT	sends
+compound	team	aid
+dobj	sends	team
+case	Philippines	to
+nmod:to	sends	Philippines

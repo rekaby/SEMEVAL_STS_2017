@@ -1,0 +1,7 @@
+det	fight	A
+nsubj	explodes	fight
+case	game	in
+det	game	a
+compound	game	hockey
+nmod:in	fight	game
+root	ROOT	explodes

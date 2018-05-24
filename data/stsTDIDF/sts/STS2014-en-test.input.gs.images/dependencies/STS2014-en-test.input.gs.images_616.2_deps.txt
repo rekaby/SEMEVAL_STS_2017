@@ -1,0 +1,9 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	standing
+case	bus	in
+mwe	in	front
+mwe	in	of
+compound	bus	tour
+nmod:in_front_of	standing	bus
+punct	women	.

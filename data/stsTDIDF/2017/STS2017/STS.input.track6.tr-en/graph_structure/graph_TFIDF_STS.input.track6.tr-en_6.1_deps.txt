@@ -1,0 +1,4 @@
+playing	child	nsubj
+ocean	in	case
+playing	ocean	nmod:in
+child	The	det

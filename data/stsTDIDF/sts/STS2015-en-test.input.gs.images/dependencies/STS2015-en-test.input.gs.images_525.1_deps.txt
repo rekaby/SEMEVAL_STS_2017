@@ -1,0 +1,11 @@
+nummod	workers	Two
+compound	workers	constructions
+nsubj	sit	workers
+root	ROOT	sit
+case	beam	on
+det	beam	a
+nmod:on	sit	beam
+acl	beam	taking
+det	break	a
+dobj	taking	break
+punct	sit	.

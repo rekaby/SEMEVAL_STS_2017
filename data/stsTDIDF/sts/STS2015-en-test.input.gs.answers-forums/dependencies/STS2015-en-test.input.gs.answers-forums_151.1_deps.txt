@@ -1,0 +1,15 @@
+nsubj	resistant	Nylon
+acl	Nylon	dries
+advmod	dries	fast
+punct	Nylon	,
+cop	resistant	is
+root	ROOT	resistant
+mark	ripping	to
+advcl	resistant	ripping
+cc	ripping	and
+conj:and	ripping	tearing
+punct	ripping	,
+cc	ripping	and
+advmod	breathable	fairly
+conj:and	ripping	breathable
+punct	resistant	.

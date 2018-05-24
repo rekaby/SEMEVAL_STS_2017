@@ -1,0 +1,12 @@
+det	statue	A
+compound	statue	buddha
+nsubj	sitting	statue
+acl	statue	holding
+det	candle	a
+dobj	holding	candle
+aux	sitting	is
+root	ROOT	sitting
+case	table	on
+det	table	a
+nmod:on	sitting	table
+punct	sitting	.

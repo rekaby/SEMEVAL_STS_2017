@@ -1,0 +1,8 @@
+amod	court	Chinese
+nsubj	upholds	court
+root	ROOT	upholds
+compound	penalties	death
+dobj	upholds	penalties
+case	murderers	for
+compound	murderers	Mekong
+nmod:for	penalties	murderers

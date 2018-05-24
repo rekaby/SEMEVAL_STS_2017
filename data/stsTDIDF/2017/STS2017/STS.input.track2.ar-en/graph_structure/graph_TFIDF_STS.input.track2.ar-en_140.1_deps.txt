@@ -1,0 +1,14 @@
+child	given	acl
+given	bread	dobj
+child	missionaries	conj:and
+ROOT	child	root
+child	Africa	nmod:in
+child	starving	amod
+child	,	punct
+bread	her	nmod:poss
+given	eat	advcl
+child	.	punct
+child	girl	nsubj
+child	homeless	amod
+child	and	cc
+child	is	cop

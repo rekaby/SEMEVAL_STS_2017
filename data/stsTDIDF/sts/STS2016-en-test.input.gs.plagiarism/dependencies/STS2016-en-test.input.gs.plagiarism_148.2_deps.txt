@@ -1,0 +1,17 @@
+det	model	The
+compound	model	vector
+compound	model	space
+nsubj	documents	model
+cop	documents	are
+det	documents	the
+root	ROOT	documents
+nsubjpass	represented	which
+auxpass	represented	are
+acl:relcl	documents	represented
+case	bags	as
+punct	bags	``
+nmod:as	represented	bags
+case	words	of
+nmod:of	bags	words
+punct	bags	''
+punct	documents	.

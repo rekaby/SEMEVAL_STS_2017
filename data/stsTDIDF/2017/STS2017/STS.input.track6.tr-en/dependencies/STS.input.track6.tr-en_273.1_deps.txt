@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	beard	with
+det	beard	a
+amod	beard	long
+nmod:with	man	beard
+acl	beard	playing
+det	guitar	a
+dobj	playing	guitar
+punct	man	.

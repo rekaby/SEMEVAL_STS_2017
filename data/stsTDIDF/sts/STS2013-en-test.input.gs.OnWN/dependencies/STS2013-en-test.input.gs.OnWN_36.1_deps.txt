@@ -1,0 +1,13 @@
+nsubj	indicate	Express
+advmod	Express	audibly
+punct	Express	;
+amod	sounds	utter
+dep	Express	sounds
+punct	words	-LRB-
+neg	words	not
+advmod	words	necessarily
+appos	sounds	words
+punct	words	-RRB-
+punct	Express	;
+root	ROOT	indicate
+punct	indicate	.

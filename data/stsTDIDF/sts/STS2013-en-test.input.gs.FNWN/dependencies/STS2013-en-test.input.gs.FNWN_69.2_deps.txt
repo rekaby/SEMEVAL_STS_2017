@@ -1,0 +1,10 @@
+root	ROOT	spend
+dobj	spend	time
+case	prison	in
+nmod:in	time	prison
+cc	spend	or
+case	camp	in
+det	camp	a
+compound	camp	labor
+conj:or	spend	camp
+punct	spend	;

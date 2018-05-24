@@ -1,0 +1,7 @@
+amod	Economy	German
+nsubj	Shrank	Economy
+advmod	Shrank	Probably
+root	ROOT	Shrank
+case	Quarter	in
+amod	Quarter	Fourth
+nmod:in	Shrank	Quarter

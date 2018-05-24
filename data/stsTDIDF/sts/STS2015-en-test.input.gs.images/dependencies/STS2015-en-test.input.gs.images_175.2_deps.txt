@@ -1,0 +1,10 @@
+det	dog	The
+amod	dog	yellow
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	road	on
+det	road	the
+compound	road	dirt
+nmod:on	running	road
+punct	running	.

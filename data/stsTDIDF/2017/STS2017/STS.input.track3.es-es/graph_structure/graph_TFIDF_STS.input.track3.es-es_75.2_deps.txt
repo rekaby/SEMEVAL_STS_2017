@@ -1,0 +1,5 @@
+flag	.	punct
+flag	People	nsubj
+ROOT	flag	root
+flag	near	case
+flag	are	cop

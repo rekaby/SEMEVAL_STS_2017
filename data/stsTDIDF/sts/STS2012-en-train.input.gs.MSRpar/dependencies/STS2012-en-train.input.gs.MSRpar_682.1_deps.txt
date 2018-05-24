@@ -1,0 +1,13 @@
+punct	exhibit	``
+det	economy	The
+nsubj	exhibit	economy
+punct	exhibit	,
+advmod	exhibit	nonetheless
+punct	exhibit	,
+aux	exhibit	has
+advmod	exhibit	yet
+mark	exhibit	to
+root	ROOT	exhibit
+amod	growth	sustainable
+dobj	exhibit	growth
+punct	exhibit	.

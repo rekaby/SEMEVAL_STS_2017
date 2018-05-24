@@ -1,0 +1,7 @@
+cop	sign	be
+det	sign	a
+root	ROOT	sign
+cc	sign	or
+conj:or	sign	indication
+acl	indication	of
+punct	sign	.

@@ -1,0 +1,6 @@
+match	in	case
+trying	girl	nsubj
+beat	someone	dobj
+beat	match	nmod:in
+trying	beat	xcomp
+match	bowling	compound

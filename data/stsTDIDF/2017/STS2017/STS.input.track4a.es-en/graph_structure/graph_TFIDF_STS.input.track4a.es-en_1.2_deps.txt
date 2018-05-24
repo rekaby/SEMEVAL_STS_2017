@@ -1,0 +1,6 @@
+lady	other	amod
+giving	lady	nmod:to
+women	A	det
+giving	women	nsubj
+lady	to	case
+giving	something	dobj

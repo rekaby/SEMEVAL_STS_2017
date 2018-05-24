@@ -1,0 +1,15 @@
+advmod	occurs	However
+punct	occurs	,
+det	process	a
+nsubj	occurs	process
+case	desinstitutionalisation	of
+nmod:of	process	desinstitutionalisation
+case	experiment	of
+det	experiment	the
+amod	experiment	religious
+nmod:of	desinstitutionalisation	experiment
+advmod	occurs	also
+root	ROOT	occurs
+case	Islam	within
+nmod:within	occurs	Islam
+punct	occurs	.

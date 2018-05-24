@@ -1,0 +1,7 @@
+det	cue	a
+root	ROOT	cue
+acl	cue	given
+case	someone	to
+nmod:to	given	someone
+case	assistance	for
+nmod:for	someone	assistance

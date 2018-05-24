@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	brushes	woman
+root	ROOT	brushes
+det	shrimp	some
+dobj	brushes	shrimp
+punct	brushes	.

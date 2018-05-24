@@ -1,0 +1,11 @@
+amod	soldiers	South
+amod	soldiers	Korean
+nsubj	kill	soldiers
+root	ROOT	kill
+dobj	kill	man
+acl	man	trying
+mark	cross	to
+xcomp	trying	cross
+dobj	cross	border
+case	North	into
+nmod:into	cross	North

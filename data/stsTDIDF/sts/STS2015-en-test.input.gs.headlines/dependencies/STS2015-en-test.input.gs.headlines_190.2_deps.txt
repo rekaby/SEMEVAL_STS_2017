@@ -1,0 +1,7 @@
+nsubj	believes	US
+root	ROOT	believes
+amod	government	Syrian
+nsubj	used	government
+ccomp	believes	used
+amod	weapons	chemical
+dobj	used	weapons

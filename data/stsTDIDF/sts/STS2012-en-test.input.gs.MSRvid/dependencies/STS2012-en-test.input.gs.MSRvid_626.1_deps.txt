@@ -1,0 +1,8 @@
+nsubj	boiling	Someone
+aux	boiling	is
+root	ROOT	boiling
+dobj	boiling	okra
+case	pot	in
+det	pot	a
+nmod:in	boiling	pot
+punct	boiling	.

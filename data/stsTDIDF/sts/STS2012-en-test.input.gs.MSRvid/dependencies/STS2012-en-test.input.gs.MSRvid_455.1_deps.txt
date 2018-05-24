@@ -1,0 +1,9 @@
+det	lady	The
+nsubj	cracked	lady
+root	ROOT	cracked
+det	egg	an
+dobj	cracked	egg
+case	mixer	for
+det	mixer	the
+nmod:for	cracked	mixer
+punct	cracked	.

@@ -1,0 +1,5 @@
+walkway	along	case
+walks	man	nsubj
+walks	store	nmod:to
+store	to	case
+walks	walkway	nmod:along

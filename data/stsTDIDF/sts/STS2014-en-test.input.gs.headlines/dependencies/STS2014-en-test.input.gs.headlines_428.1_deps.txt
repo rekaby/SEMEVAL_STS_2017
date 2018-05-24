@@ -1,0 +1,10 @@
+nsubj	says	Iran
+root	ROOT	says
+nsubj	captures	it
+ccomp	says	captures
+dobj	captures	drone
+punct	says	;
+nsubj	denies	U.S.
+parataxis	says	denies
+xcomp	denies	losing
+dobj	losing	one

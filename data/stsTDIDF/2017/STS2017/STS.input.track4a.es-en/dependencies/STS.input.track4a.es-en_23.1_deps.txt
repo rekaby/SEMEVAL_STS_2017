@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+case	obstacles	over
+nmod:over	jumps	obstacles
+case	show	for
+det	show	a
+amod	show	canine
+nmod:for	obstacles	show
+punct	jumps	.

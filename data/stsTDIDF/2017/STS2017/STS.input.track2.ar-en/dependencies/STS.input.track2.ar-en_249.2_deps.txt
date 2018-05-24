@@ -1,0 +1,8 @@
+det	call	The
+compound	call	phone
+root	ROOT	call
+dep	call	someone
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	someone	sidewalk
+punct	call	.

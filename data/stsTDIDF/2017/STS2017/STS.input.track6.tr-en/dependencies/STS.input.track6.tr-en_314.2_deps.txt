@@ -1,0 +1,7 @@
+det	man	A
+nmod:poss	hand	man
+case	man	's
+root	ROOT	hand
+case	shopping	over
+nmod:over	hand	shopping
+punct	hand	.

@@ -1,0 +1,7 @@
+amod	driver	Spanish
+compound	driver	train
+compound	driver	crash
+nsubjpass	questioned	driver
+mark	questioned	to
+auxpass	questioned	be
+root	ROOT	questioned

@@ -1,0 +1,9 @@
+compound	nets	Messi
+nsubj	300th	nets
+parataxis	win	300th
+punct	300th	,
+amod	goals	301st
+nsubj	win	goals
+case	Barcelona	in
+nmod:in	goals	Barcelona
+root	ROOT	win

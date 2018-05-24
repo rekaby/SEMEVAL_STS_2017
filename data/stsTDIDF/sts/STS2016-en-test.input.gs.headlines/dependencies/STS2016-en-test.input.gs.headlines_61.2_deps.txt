@@ -1,0 +1,9 @@
+root	ROOT	US
+punct	US	,
+compound	pressure	UN
+case	pressure	up
+root	US	pressure
+case	Israel	on
+nmod:on	pressure	Israel
+case	Gaza	over
+nmod:over	pressure	Gaza

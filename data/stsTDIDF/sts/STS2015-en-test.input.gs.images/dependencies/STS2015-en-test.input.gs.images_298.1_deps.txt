@@ -1,0 +1,9 @@
+nummod	people	Two
+amod	people	shirtless
+amod	people	young
+root	ROOT	people
+acl	people	playing
+case	water	in
+det	water	the
+nmod:in	playing	water
+punct	people	.

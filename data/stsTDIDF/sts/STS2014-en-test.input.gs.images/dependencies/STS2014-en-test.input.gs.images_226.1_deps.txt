@@ -1,0 +1,12 @@
+nummod	buses	Two
+amod	buses	red
+nsubj	parked	buses
+root	ROOT	parked
+compound:prt	parked	up
+case	gardens	with
+nmod:with	parked	gardens
+case	them	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	gardens	them
+punct	parked	.

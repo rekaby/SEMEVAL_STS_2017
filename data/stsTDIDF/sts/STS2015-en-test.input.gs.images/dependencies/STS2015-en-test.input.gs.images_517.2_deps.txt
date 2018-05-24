@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	black
+cc	black	and
+conj:and	black	tan
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+dobj	chasing	something
+nsubj	spotted	he
+aux	spotted	has
+acl:relcl	something	spotted
+punct	chasing	.

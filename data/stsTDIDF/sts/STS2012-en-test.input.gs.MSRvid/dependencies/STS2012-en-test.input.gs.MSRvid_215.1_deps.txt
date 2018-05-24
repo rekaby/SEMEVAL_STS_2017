@@ -1,0 +1,6 @@
+det	run	An
+compound	run	animal
+root	ROOT	run
+case	circles	in
+nmod:in	run	circles
+punct	run	.

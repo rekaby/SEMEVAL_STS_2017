@@ -1,0 +1,10 @@
+det	occupants	the
+root	ROOT	occupants
+nsubj	dwell	who
+acl:relcl	occupants	dwell
+case	level	on
+det	level	a
+nmod:on	dwell	level
+case	building	of
+det	building	a
+nmod:of	level	building

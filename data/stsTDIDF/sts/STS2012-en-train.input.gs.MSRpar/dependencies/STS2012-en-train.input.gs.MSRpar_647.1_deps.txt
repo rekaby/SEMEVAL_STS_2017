@@ -1,0 +1,16 @@
+case	reports	According
+mwe	According	to
+nmod:according_to	punched	reports
+punct	punched	,
+nsubj	punched	Knight
+advmod	punched	allegedly
+root	ROOT	punched
+det	attendant	a
+compound	attendant	parking
+dobj	punched	attendant
+case	nightclub	outside
+det	nightclub	a
+compound	nightclub	Los
+compound	nightclub	Angeles
+nmod:outside	attendant	nightclub
+punct	punched	.

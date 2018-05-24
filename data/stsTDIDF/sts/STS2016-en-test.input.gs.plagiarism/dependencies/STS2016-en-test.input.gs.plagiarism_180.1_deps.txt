@@ -1,0 +1,7 @@
+det	popular	The
+advmod	popular	most
+nsubj	weighting	popular
+cop	weighting	is
+amod	weighting	tf-idf
+root	ROOT	weighting
+punct	weighting	.

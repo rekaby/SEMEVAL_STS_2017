@@ -1,0 +1,10 @@
+det	dogs	The
+nummod	dogs	two
+nsubj	blend	dogs
+root	ROOT	blend
+case	animals	in
+case	animals	with
+det	animals	the
+compound	animals	stuff
+nmod:with	blend	animals
+punct	blend	.

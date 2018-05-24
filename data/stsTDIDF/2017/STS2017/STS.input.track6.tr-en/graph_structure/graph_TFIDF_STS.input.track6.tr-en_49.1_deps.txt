@@ -1,0 +1,5 @@
+riding	inside	advmod
+riding	man	nsubj
+riding	bike	dobj
+bike	his	nmod:poss
+riding	is	aux

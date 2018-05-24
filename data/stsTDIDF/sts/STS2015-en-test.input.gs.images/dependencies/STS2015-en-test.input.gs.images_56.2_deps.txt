@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+case	clothes	in
+amod	clothes	warm
+nmod:in	man	clothes
+acl	clothes	swinging
+case	bars	on
+compound	bars	monkey
+nmod:on	swinging	bars
+case	night	at
+nmod:at	swinging	night
+punct	man	.

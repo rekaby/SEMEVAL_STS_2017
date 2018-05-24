@@ -1,0 +1,15 @@
+expl	's	There
+root	ROOT	's
+det	answer	a
+amod	answer	geek
+nsubj	's	answer
+case	this	to
+nmod:to	answer	this
+punct	's	,
+cc	's	and
+det	answer	a
+amod	answer	practical
+conj:and	's	answer
+case	this	to
+nmod:to	answer	this
+punct	's	.

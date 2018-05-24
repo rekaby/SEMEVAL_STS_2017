@@ -1,0 +1,6 @@
+det	soldier	A
+nsubj	walks	soldier
+root	ROOT	walks
+det	dog	a
+dobj	walks	dog
+punct	walks	.

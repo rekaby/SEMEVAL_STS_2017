@@ -1,0 +1,9 @@
+aux	play	be
+cc	play	or
+root	ROOT	play
+det	part	a
+dobj	play	part
+acl	part	of
+cc	of	or
+conj:or	of	in
+punct	play	.

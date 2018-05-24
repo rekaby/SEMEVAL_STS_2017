@@ -1,0 +1,13 @@
+nsubj	said	Grassley
+cc	Grassley	and
+conj:and	Grassley	Baucus
+root	ROOT	said
+nsubj	rejected	they
+aux	rejected	had
+ccomp	said	rejected
+dobj	rejected	that
+dep	that	approach
+case	plan	in
+nmod:poss	plan	their
+nmod:in	approach	plan
+punct	said	.

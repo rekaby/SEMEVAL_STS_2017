@@ -1,0 +1,12 @@
+det	man	A
+nsubj	rolls	man
+root	ROOT	rolls
+advmod	rolls	back
+case	pool	into
+det	pool	the
+nmod:into	rolls	pool
+case	watches	as
+det	watches	the
+compound	watches	audience
+nmod:as	rolls	watches
+punct	rolls	.

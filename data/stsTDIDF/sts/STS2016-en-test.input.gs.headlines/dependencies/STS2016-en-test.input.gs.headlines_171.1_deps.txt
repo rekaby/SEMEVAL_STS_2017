@@ -1,0 +1,6 @@
+compound	Votes	Nigeria
+root	ROOT	Votes
+case	Election	in
+compound	Election	Tight
+compound	Election	Presidential
+nmod:in	Votes	Election

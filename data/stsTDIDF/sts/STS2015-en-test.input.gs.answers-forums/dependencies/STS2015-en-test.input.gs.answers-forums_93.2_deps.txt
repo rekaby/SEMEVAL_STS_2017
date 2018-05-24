@@ -1,0 +1,14 @@
+det	treadmill	A
+nsubj	prepare	treadmill
+aux	prepare	wo
+neg	prepare	n't
+root	ROOT	prepare
+dobj	prepare	you
+case	impact	for
+det	impact	the
+nmod:for	prepare	impact
+mark	running	of
+acl	impact	running
+case	real	for
+nmod:for	running	real
+punct	prepare	.

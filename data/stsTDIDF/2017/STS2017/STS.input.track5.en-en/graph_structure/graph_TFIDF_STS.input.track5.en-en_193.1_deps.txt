@@ -1,0 +1,9 @@
+racetrack	around	case
+motorcycles	on	case
+ride	gear	compound
+People	motorcycles	nmod:on
+motorcycles	wearing	acl
+ride	racing	compound
+wearing	racetrack	nmod:around
+wearing	ride	dobj
+racetrack	a	det

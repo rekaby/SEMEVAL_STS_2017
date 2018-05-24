@@ -1,0 +1,7 @@
+nsubj	opens	Nigeria
+root	ROOT	opens
+dobj	opens	probe
+case	air	into
+amod	air	deadly
+nmod:into	opens	air
+dobj	opens	crash

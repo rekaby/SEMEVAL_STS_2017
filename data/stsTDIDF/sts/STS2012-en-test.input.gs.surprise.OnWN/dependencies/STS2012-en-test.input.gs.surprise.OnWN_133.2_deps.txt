@@ -1,0 +1,8 @@
+root	ROOT	shape
+cc	shape	or
+conj:or	shape	influence
+punct	shape	;
+dep	shape	give
+dobj	give	direction
+nmod	give	to
+punct	shape	.

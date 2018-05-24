@@ -1,0 +1,14 @@
+det	focus	The
+amod	focus	primary
+nsubj	chronic	focus
+case	Dialectics	of
+amod	Dialectics	Systematic
+nmod:of	focus	Dialectics
+cop	chronic	is
+nmod:npmod	chronic	syn
+root	ROOT	chronic
+punct	chronic	,
+neg	dia	not
+appos	chronic	dia
+amod	dia	chronic
+punct	chronic	.

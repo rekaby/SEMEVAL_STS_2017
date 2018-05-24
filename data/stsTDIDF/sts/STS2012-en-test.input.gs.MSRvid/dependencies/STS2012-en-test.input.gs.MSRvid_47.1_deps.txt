@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	flying	girl
+aux	flying	is
+root	ROOT	flying
+det	kite	a
+dobj	flying	kite
+punct	flying	.

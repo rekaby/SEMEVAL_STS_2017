@@ -1,0 +1,12 @@
+nsubjpass	reached	Officials
+case	Speedway	with
+compound	Speedway	North
+compound	Speedway	Carolina
+nmod:with	Officials	Speedway
+case	Rockingham	at
+nmod:at	Officials	Rockingham
+aux	reached	could
+neg	reached	not
+auxpass	reached	be
+root	ROOT	reached
+punct	reached	.

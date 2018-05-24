@@ -1,0 +1,8 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+case	least	at
+nmod:npmod	4	least
+dobj	kills	4
+case	Kabul	in
+nmod:in	kills	Kabul

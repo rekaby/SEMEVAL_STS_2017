@@ -1,0 +1,10 @@
+sitting	staring	conj:and
+sitting	man	nsubj
+one	benches	nmod:of
+benches	of	case
+benches	red	amod
+staring	kiosk	nmod:into
+benches	two	nummod
+sitting	one	nmod:on
+kiosk	a	det
+kiosk	into	case

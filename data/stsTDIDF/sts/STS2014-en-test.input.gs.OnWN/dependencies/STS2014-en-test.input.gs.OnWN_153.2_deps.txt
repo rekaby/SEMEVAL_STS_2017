@@ -1,0 +1,16 @@
+punct	baseball	-LRB-
+root	ROOT	baseball
+punct	baseball	-RRB-
+det	act	the
+dep	baseball	act
+mark	throwing	of
+acl	act	throwing
+det	baseball	a
+dobj	throwing	baseball
+case	pitcher	by
+det	pitcher	a
+nmod:by	throwing	pitcher
+case	batter	to
+det	batter	a
+nmod:to	throwing	batter
+punct	baseball	.

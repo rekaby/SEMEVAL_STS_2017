@@ -1,0 +1,11 @@
+root	ROOT	ArtsBeat
+punct	ArtsBeat	:
+compound	Theater	Second
+compound	Theater	Stage
+nsubj	Adds	Theater
+dep	ArtsBeat	Adds
+punct	Loves	`
+nsubj	Loves	Nobody
+ccomp	Adds	Loves
+dobj	Loves	You
+punct	Loves	'

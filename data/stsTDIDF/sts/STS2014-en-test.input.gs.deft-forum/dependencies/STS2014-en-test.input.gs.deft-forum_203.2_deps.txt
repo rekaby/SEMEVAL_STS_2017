@@ -1,0 +1,16 @@
+compound	Romney	Ann
+nsubj	had	Romney
+aux	had	has
+neg	had	never
+root	ROOT	had
+mark	get	to
+xcomp	had	get
+compound:prt	get	out
+cc	get	and
+cop	part	be
+det	part	a
+conj:and	get	part
+case	workforce	of
+det	workforce	the
+nmod:of	part	workforce
+punct	had	.

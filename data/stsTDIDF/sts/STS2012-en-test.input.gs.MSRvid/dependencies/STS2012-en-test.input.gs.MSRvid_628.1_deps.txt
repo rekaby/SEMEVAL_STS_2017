@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	jumping	cat
+aux	jumping	is
+root	ROOT	jumping
+case	box	into
+det	box	a
+nmod:into	jumping	box
+punct	jumping	.

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+case	bicycle	on
+det	bicycle	a
+nmod:on	riding	bicycle
+case	side	by
+nmod:by	riding	side
+case	building	of
+nmod:of	side	building
+punct	man	.

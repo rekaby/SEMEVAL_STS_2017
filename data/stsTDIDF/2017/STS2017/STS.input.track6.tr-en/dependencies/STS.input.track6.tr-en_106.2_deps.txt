@@ -1,0 +1,10 @@
+nsubj	looks	She
+root	ROOT	looks
+case	woman	at
+det	woman	a
+nmod:at	looks	woman
+case	shirt	with
+det	shirt	a
+amod	shirt	black
+nmod:with	woman	shirt
+punct	looks	.

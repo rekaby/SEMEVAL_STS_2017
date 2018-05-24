@@ -1,0 +1,8 @@
+compound	cat	White
+nsubj	sitting	cat
+root	ROOT	sitting
+case	sink	inside
+mwe	inside	of
+det	sink	a
+nmod:inside_of	sitting	sink
+punct	sitting	.

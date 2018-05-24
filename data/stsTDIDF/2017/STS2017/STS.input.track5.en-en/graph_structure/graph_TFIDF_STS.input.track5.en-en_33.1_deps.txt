@@ -1,0 +1,14 @@
+watches	of	case
+brother	and	cc
+performs	rest	nmod:as
+watches	the	det
+rest	as	case
+performs	.	punct
+ROOT	performs	root
+rest	watches	nmod:of
+brother	sister	conj:and
+clown	A	det
+performs	brother	nmod:for
+watches	party	compound
+brother	for	case
+performs	clown	nsubj

@@ -1,0 +1,11 @@
+turns	sits	advcl
+stool	colorful	amod
+stool	on	case
+turns	page	dobj
+sits	she	nsubj
+page	book	nmod:of
+sits	stool	nmod:on
+child	female	amod
+stool	a	det
+turns	child	nsubj
+sits	while	mark

@@ -1,0 +1,10 @@
+det	cowboy	A
+root	ROOT	cowboy
+cc	cowboy	and
+nmod:poss	slip	his
+compound	slip	horse
+conj:and	cowboy	slip
+case	mud	in
+det	mud	the
+nmod:in	slip	mud
+punct	cowboy	.

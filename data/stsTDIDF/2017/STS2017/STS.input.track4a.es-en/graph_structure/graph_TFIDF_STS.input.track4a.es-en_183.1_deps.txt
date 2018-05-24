@@ -1,0 +1,5 @@
+rock	The	det
+about	fall	xcomp
+about	rock	nsubj
+fall	man	nmod:on
+man	on	case

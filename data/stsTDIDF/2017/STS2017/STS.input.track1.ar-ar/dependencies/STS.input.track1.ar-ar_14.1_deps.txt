@@ -1,0 +1,6 @@
+root	ROOT	Backpack
+amod	Backpack	wide
+case	inside	from
+det	inside	the
+nmod:from	wide	inside
+punct	Backpack	.

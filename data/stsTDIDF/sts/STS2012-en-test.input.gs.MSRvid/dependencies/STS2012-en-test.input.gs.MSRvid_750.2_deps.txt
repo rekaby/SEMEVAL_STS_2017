@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	moving	dog
+aux	moving	is
+root	ROOT	moving
+nmod:poss	mouth	its
+dobj	moving	mouth
+punct	moving	.

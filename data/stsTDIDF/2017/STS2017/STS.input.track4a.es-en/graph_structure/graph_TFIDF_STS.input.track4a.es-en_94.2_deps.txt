@@ -1,0 +1,10 @@
+sit	tent	nmod:under
+stands	as	mark
+sit	people	nsubj
+sit	table	nmod:at
+tent	a	det
+stands	them	nmod:near
+sit	stands	advcl
+tent	under	case
+man	third	amod
+stands	man	nsubj

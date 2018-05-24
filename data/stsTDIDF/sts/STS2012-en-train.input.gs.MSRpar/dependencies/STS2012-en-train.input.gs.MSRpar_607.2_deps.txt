@@ -1,0 +1,13 @@
+nsubj	sight	Relief
+cop	sight	is
+case	sight	in
+root	ROOT	sight
+case	Texans	for
+nmod:for	sight	Texans
+acl	sight	saddled
+case	premiums	with
+amod	premiums	skyrocketing
+compound	premiums	homeowners
+compound	premiums	insurance
+nmod:with	saddled	premiums
+punct	sight	.

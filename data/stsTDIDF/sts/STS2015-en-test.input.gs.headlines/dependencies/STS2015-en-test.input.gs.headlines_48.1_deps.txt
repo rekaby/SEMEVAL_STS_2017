@@ -1,0 +1,6 @@
+nmod:npmod	moderate	Declines
+case	market	in
+compound	market	US
+compound	market	stock
+nmod:in	Declines	market
+root	ROOT	moderate

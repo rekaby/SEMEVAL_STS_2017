@@ -1,0 +1,8 @@
+nsubj	lets	Egypt
+root	ROOT	lets
+compound	PM	Mubarak
+dobj	lets	PM
+advmod	lets	back
+case	race	in
+amod	race	presidential
+nmod:in	back	race

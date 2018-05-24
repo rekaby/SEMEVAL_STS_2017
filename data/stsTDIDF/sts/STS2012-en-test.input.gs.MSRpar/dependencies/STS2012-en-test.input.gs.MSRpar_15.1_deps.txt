@@ -1,0 +1,17 @@
+compound	Niemann	RT
+compound	Niemann	Jones
+compound	Niemann	analyst
+compound	Niemann	Juli
+nsubj	said	Niemann
+root	ROOT	said
+dobj	said	Grant
+dep	Grant	was
+punct	was	``
+det	one	the
+root	``	one
+nsubj	pulling	we
+aux	pulling	were
+advmod	pulling	all
+acl:relcl	one	pulling
+nmod	pulling	for
+punct	one	.

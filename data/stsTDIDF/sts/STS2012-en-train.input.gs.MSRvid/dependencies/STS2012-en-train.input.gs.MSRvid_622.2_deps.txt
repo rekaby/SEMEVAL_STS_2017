@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	onstage	boy
+cop	onstage	is
+root	ROOT	onstage
+xcomp	onstage	playing
+det	violin	the
+dobj	playing	violin
+punct	onstage	.

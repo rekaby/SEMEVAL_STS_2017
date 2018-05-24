@@ -1,0 +1,6 @@
+det	man	A
+nsubj	drives	man
+root	ROOT	drives
+det	car	a
+dobj	drives	car
+punct	drives	.

@@ -1,0 +1,17 @@
+advmod	have	Most
+case	time	of
+det	time	the
+nmod:of	Most	time
+punct	have	,
+nsubj	have	I
+root	ROOT	have
+neg	idea	no
+dobj	have	idea
+dobj	eat	what
+nsubj	eat	I
+acl:relcl	idea	eat
+advmod	here	exactly
+advmod	eat	here
+case	Japan	in
+nmod:in	eat	Japan
+punct	have	.

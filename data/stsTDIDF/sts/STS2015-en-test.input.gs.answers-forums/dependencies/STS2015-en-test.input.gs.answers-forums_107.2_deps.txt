@@ -1,0 +1,16 @@
+det	longer	The
+advmod	leave	longer
+nsubj	leave	you
+aux	leave	can
+root	ROOT	leave
+det	seed-heads	the
+dobj	leave	seed-heads
+case	plant	on
+det	plant	the
+nmod:on	leave	plant
+dep	plant	the
+amod	the	better
+punct	IMHO	-LRB-
+dep	better	IMHO
+punct	IMHO	-RRB-
+punct	leave	.

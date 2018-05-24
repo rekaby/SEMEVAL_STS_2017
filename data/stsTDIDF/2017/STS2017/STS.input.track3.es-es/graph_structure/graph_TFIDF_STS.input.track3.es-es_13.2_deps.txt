@@ -1,0 +1,9 @@
+swaying	girls	nsubj
+swaying	side	dobj
+ROOT	swaying	root
+swaying	day	nmod:on
+swaying	.	punct
+side	park	nmod:in
+swaying	side	nmod:by
+girls	Two	nummod
+day	warm	amod

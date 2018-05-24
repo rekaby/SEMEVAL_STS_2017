@@ -1,0 +1,7 @@
+amod	prisoners	Palestinian
+nsubj	arrive	prisoners
+root	ROOT	arrive
+case	Muqata	at
+nmod:at	arrive	Muqata
+case	Ramallah	in
+nmod:in	arrive	Ramallah

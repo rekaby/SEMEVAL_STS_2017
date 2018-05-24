@@ -1,0 +1,16 @@
+mark	move	to
+root	ROOT	move
+cc	move	or
+conj:or	move	cause
+mark	move	to
+xcomp	cause	move
+case	course	in
+det	course	a
+amod	course	sinuous
+punct	sinuous	,
+conj:or	sinuous	spiral
+punct	sinuous	,
+cc	sinuous	or
+conj:or	sinuous	circular
+nmod:in	move	course
+punct	move	.

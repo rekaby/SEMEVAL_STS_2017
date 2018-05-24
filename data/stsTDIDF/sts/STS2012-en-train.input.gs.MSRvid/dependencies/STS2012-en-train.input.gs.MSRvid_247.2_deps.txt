@@ -1,0 +1,6 @@
+nsubj	peeling	Someone
+aux	peeling	is
+root	ROOT	peeling
+det	banana	a
+dobj	peeling	banana
+punct	peeling	.

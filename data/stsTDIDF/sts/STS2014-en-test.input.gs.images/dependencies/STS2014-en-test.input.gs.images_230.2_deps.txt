@@ -1,0 +1,8 @@
+det	motorcycle	A
+nsubj	parked	motorcycle
+root	ROOT	parked
+case	car	next
+mwe	next	to
+det	car	a
+nmod:next_to	parked	car
+punct	parked	.

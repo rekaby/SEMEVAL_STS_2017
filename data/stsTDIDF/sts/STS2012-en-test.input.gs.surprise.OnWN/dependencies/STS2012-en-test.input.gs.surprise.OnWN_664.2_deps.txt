@@ -1,0 +1,12 @@
+nsubj	increases	approach
+det	limit	a
+dobj	approach	limit
+case	number	as
+det	number	the
+nmod:as	approach	number
+case	terms	of
+nmod:of	number	terms
+root	ROOT	increases
+case	limit	without
+nmod:without	increases	limit
+punct	increases	.

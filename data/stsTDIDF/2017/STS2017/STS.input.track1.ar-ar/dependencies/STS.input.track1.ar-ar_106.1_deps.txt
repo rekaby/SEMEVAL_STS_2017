@@ -1,0 +1,13 @@
+nsubj	Hop	Children
+root	ROOT	Hop
+advmod	Hop	around
+case	beach	on
+det	beach	the
+nmod:on	Hop	beach
+cc	Hop	and
+nsubj	looking	they
+aux	looking	are
+conj:and	Hop	looking
+case	shellfish	for
+nmod:for	looking	shellfish
+punct	Hop	.

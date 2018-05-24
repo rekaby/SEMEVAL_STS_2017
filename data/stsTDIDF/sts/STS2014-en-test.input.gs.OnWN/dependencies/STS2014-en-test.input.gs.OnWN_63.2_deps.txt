@@ -1,0 +1,17 @@
+det	relation	a
+root	ROOT	relation
+case	affinity	of
+nmod:of	relation	affinity
+cc	affinity	or
+conj:or	affinity	harmony
+case	people	between
+nmod:between	relation	people
+punct	relation	;
+nsubj	affects	whatever
+acl:relcl	relation	affects
+nummod	correspondingly	one
+nsubj	affects	correspondingly
+ccomp	affects	affects
+det	other	the
+dobj	affects	other
+punct	relation	.

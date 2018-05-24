@@ -1,0 +1,4 @@
+root	ROOT	remove
+dobj	remove	water
+nmod	remove	from
+punct	remove	.

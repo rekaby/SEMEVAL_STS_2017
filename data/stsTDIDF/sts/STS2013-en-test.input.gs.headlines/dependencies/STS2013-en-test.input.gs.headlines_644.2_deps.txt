@@ -1,0 +1,9 @@
+amod	forces	Syrian
+nsubj	bombard	forces
+root	ROOT	bombard
+nsubj	arrives	Homs
+punct	Homs	,
+appos	Homs	Lavrov
+ccomp	bombard	arrives
+case	talks	for
+nmod:for	arrives	talks

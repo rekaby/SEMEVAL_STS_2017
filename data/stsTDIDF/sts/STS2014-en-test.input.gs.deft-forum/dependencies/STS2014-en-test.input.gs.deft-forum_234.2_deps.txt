@@ -1,0 +1,10 @@
+nmod:poss	Sheriff	My
+nsubj	told	Sheriff
+aux	told	has
+root	ROOT	told
+dobj	told	me
+nmod:poss	bad	its
+xcomp	told	bad
+case	you	for
+nmod:for	bad	you
+punct	told	.

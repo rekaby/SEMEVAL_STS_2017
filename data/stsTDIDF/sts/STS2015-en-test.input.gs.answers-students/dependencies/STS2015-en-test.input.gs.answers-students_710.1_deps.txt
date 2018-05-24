@@ -1,0 +1,10 @@
+expl	was	there
+root	ROOT	was
+det	gap	a
+nsubj	was	gap
+case	2	from
+amod	2	terminal
+nmod:from	gap	2
+case	terminal	to
+nmod:to	gap	terminal
+nsubj	was	6

@@ -1,0 +1,13 @@
+cop	careful	be
+root	ROOT	careful
+cc	careful	or
+conj:or	careful	certain
+mark	do	to
+xcomp	careful	do
+dobj	do	something
+punct	careful	;
+parataxis	careful	make
+xcomp	make	certain
+case	something	of
+nmod:of	certain	something
+punct	careful	.

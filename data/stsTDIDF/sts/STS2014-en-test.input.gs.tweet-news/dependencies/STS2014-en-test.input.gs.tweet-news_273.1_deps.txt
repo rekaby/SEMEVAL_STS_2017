@@ -1,0 +1,11 @@
+amod	limbs	Broken
+root	ROOT	limbs
+punct	limbs	,
+amod	lives	torn
+appos	limbs	lives
+case	#Mali	in
+amod	#Mali	northern
+nmod:in	lives	#Mali
+punct	#Mali	-
+compound	#Sharia	#Islamism
+dep	#Mali	#Sharia

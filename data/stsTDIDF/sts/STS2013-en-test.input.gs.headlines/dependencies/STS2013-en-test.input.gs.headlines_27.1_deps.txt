@@ -1,0 +1,8 @@
+root	ROOT	Saudis
+mark	permit	to
+acl	Saudis	permit
+dobj	permit	women
+mark	compete	to
+xcomp	permit	compete
+case	Olympics	in
+nmod:in	compete	Olympics

@@ -1,0 +1,8 @@
+nummod	shooting	Two
+amod	shooting	dead
+punct	shooting	,
+nummod	shooting	7
+acl	7	injured
+case	Finland	in
+nmod:in	injured	Finland
+root	ROOT	shooting

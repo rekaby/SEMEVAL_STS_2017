@@ -1,0 +1,10 @@
+amod	talks	Syrian
+amod	talks	civil
+compound	talks	war
+compound	talks	peace
+nsubj	invitation	talks
+case	risk	at
+nmod:at	talks	risk
+case	Iran	from
+nmod:from	risk	Iran
+root	ROOT	invitation

@@ -1,0 +1,9 @@
+root	ROOT	change
+punct	high	-LRB-
+advmod	high	dramatically
+punct	high	-RRB-
+case	high	between
+dep	change	high
+cc	high	and
+conj:and	high	low
+dep	high	values

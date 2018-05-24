@@ -1,0 +1,7 @@
+cheering	.	punct
+ROOT	cheering	root
+team	their	nmod:poss
+cheering	team	nmod:for
+cheering	are	aux
+team	favorite	amod
+cheering	They	nsubj

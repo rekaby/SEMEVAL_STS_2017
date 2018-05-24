@@ -1,0 +1,14 @@
+root	ROOT	convert
+case	substances	into
+amod	substances	absorbable
+nmod:into	convert	substances
+punct	convert	,
+punct	process	-LRB-
+case	process	as
+mark	heat	if
+punct	heat	-RRB-
+case	heat	with
+compound	process	heat
+cc	heat	or
+conj:or	heat	chemical
+nmod:as	convert	process

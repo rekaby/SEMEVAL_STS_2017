@@ -1,0 +1,8 @@
+ROOT	kissing	root
+kissing	boardwalk	nmod:on
+boardwalk	on	case
+woman	man	conj:and
+kissing	are	aux
+kissing	woman	nsubj
+boardwalk	the	det
+kissing	.	punct

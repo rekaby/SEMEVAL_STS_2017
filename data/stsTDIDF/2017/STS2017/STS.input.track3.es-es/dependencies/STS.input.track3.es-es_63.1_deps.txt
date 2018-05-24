@@ -1,0 +1,11 @@
+det	boy	A
+nsubj	opening	boy
+aux	opening	is
+root	ROOT	opening
+det	box	the
+dobj	opening	box
+acl	box	containing
+nmod:poss	puppy	his
+amod	puppy	new
+dobj	containing	puppy
+punct	opening	.

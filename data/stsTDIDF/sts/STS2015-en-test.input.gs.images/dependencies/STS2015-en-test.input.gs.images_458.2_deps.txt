@@ -1,0 +1,12 @@
+det	driver	A
+compound	driver	race
+compound	driver	car
+nsubj	driving	driver
+aux	driving	is
+root	ROOT	driving
+nmod:poss	car	his
+dobj	driving	car
+case	mud	through
+det	mud	the
+nmod:through	driving	mud
+punct	driving	.

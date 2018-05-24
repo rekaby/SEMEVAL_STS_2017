@@ -1,0 +1,13 @@
+nsubj	sure	I
+cop	sure	am
+neg	sure	not
+root	ROOT	sure
+nsubj	site	this
+cop	site	is
+det	site	the
+amod	site	right
+ccomp	sure	site
+case	question	for
+det	question	the
+nmod:for	site	question
+punct	sure	.

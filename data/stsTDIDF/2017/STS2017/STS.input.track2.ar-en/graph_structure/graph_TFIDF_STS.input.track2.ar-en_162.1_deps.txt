@@ -1,0 +1,9 @@
+edge	of	acl
+edge	onto	case
+pool	ground	compound
+suit	black	amod
+holding	man	nsubj
+suit	swimming	compound
+holding	edge	nmod:onto
+a	pool	nmod:in
+man	suit	nmod:in

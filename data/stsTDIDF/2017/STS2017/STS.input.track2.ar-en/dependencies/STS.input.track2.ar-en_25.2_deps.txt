@@ -1,0 +1,8 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	carrying
+dobj	carrying	drinks
+cc	women	and
+nummod	PAG	two
+conj:and	women	PAG
+punct	women	.

@@ -1,0 +1,8 @@
+nmod:poss	leader	Guatemala
+case	Guatemala	's
+amod	leader	former
+nsubj	found	leader
+root	ROOT	found
+xcomp	found	guilty
+case	genocide	of
+nmod:of	guilty	genocide

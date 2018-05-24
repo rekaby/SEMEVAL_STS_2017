@@ -1,0 +1,11 @@
+det	dog	The
+nsubj	pulled	dog
+root	ROOT	pulled
+det	dogs	the
+nsubj	tail	dogs
+xcomp	pulled	tail
+cc	pulled	and
+advmod	leg	then
+nmod:poss	leg	his
+conj:and	pulled	leg
+punct	pulled	.

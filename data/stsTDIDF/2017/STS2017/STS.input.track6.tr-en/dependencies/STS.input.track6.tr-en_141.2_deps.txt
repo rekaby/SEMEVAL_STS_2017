@@ -1,0 +1,6 @@
+root	ROOT	Father
+cc	Father	and
+conj:and	Father	son
+case	church	in
+nmod:in	Father	church
+punct	Father	.

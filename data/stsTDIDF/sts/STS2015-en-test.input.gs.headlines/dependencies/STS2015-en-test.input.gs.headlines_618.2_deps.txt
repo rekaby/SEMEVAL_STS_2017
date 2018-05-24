@@ -1,0 +1,7 @@
+compound	collapse	Toll
+case	India	from
+nmod:from	Toll	India
+compound	collapse	building
+nsubj	hits	collapse
+root	ROOT	hits
+dobj	hits	25

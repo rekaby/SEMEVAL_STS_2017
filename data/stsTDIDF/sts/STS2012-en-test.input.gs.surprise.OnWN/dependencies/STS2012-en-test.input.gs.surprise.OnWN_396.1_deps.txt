@@ -1,0 +1,13 @@
+root	ROOT	Shine
+advmod	Shine	intensely
+punct	Shine	;
+parataxis	Shine	emit
+det	light	a
+amod	light	steady
+punct	light	,
+advmod	light	even
+dobj	emit	light
+case	source	from
+det	source	a
+nmod:from	light	source
+punct	Shine	.

@@ -1,0 +1,6 @@
+root	ROOT	Fires
+acl	Fires	threaten
+dobj	threaten	parts
+case	Australia	of
+nmod:of	parts	Australia
+punct	Fires	-

@@ -1,0 +1,9 @@
+back	car	nmod:of
+loading	group	nsubj
+loading	are	aux
+loading	back	nmod:on
+group	men	nmod:of
+goods	the	det
+loading	goods	dobj
+ROOT	loading	root
+loading	.	punct

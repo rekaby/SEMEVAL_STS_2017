@@ -1,0 +1,8 @@
+det	dog	The
+amod	dog	white
+nsubj	runs	dog
+root	ROOT	runs
+case	snow	across
+det	snow	the
+nmod:across	runs	snow
+punct	runs	.

@@ -1,0 +1,8 @@
+root	ROOT	However
+punct	However	,
+det	woman	a
+root	,	woman
+acl	woman	holding
+nmod:poss	child	her
+dobj	holding	child
+punct	woman	.

@@ -1,0 +1,12 @@
+root	ROOT	remove
+amod	hair	facial
+dobj	remove	hair
+mark	tying	by
+advcl	remove	tying
+det	string	a
+amod	string	fine
+dobj	tying	string
+case	it	around
+nmod:around	tying	it
+cc	remove	and
+conj:and	remove	pulling

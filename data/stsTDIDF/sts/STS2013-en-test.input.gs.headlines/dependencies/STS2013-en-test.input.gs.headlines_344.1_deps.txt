@@ -1,0 +1,10 @@
+nsubj	rally	Russians
+root	ROOT	rally
+dobj	rally	support
+case	church	for
+compound	church	Orthodox
+nmod:for	support	church
+case	controversy	over
+compound	controversy	Pussy
+compound	controversy	Riot
+nmod:over	rally	controversy

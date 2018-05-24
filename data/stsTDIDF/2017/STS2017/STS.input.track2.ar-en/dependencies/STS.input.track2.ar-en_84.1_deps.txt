@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	training	woman
+aux	training	is
+root	ROOT	training
+mark	shot	to
+cop	shot	be
+det	shot	an
+amod	shot	expert
+xcomp	training	shot
+case	pistol	with
+det	pistol	a
+nmod:with	shot	pistol
+punct	training	.

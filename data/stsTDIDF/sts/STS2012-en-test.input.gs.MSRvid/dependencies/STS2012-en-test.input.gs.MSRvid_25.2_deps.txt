@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	brushing	girl
+aux	brushing	is
+root	ROOT	brushing
+nmod:poss	hair	her
+dobj	brushing	hair
+punct	brushing	.

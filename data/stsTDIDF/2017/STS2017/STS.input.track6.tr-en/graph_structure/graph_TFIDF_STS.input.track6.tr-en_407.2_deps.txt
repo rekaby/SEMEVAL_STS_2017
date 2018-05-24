@@ -1,0 +1,7 @@
+man	boy	conj:and
+watching	something	dobj
+something	telescope	nmod:with
+watching	man	nsubj
+watching	are	aux
+telescope	a	det
+telescope	with	case

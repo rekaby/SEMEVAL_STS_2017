@@ -1,0 +1,7 @@
+nsubj	march	Thousands
+case	Amsterdammers	of
+amod	Amsterdammers	white-clad
+nmod:of	Thousands	Amsterdammers
+root	ROOT	march
+case	MH17	for
+nmod:for	march	MH17

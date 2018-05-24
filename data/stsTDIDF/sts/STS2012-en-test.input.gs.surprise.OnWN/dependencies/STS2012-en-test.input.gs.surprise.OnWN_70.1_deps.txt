@@ -1,0 +1,9 @@
+det	expression	a
+amod	expression	surrogate
+root	ROOT	expression
+punct	expression	,
+appos	expression	utterance
+case	word	for
+det	word	a
+amod	word	taboo
+nmod:for	utterance	word

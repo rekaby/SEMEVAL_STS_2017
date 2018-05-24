@@ -1,0 +1,9 @@
+nummod	attacks	Three
+compound	attacks	bomb
+nsubj	kill	attacks
+root	ROOT	kill
+nummod	soldiers	six
+dobj	kill	soldiers
+punct	kill	,
+nummod	civilian	one
+dep	kill	civilian

@@ -1,0 +1,8 @@
+det	person	A
+nsubj	team	person
+cop	team	is
+case	team	on
+det	team	a
+compound	team	baseball
+root	ROOT	team
+punct	team	.

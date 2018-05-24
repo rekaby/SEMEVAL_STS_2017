@@ -1,0 +1,7 @@
+det	component	the
+amod	component	controlling
+root	ROOT	component
+case	constituent	of
+det	constituent	a
+amod	constituent	grammatical
+nmod:of	component	constituent

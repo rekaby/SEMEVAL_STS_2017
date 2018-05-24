@@ -1,0 +1,13 @@
+advmod	christians	most
+nsubj	hate	christians
+aux	hate	do
+neg	hate	not
+root	ROOT	hate
+advmod	hate	gay
+case	gay	's
+punct	hate	,
+nsubj	hate	they
+ccomp	hate	hate
+det	sin	the
+dobj	hate	sin
+punct	hate	.

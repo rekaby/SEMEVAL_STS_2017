@@ -1,0 +1,16 @@
+det	bill	The
+amod	bill	new
+nsubj	have	bill
+aux	have	would
+root	ROOT	have
+nsubj	cover	Medicare
+ccomp	have	cover
+nummod	percent	95
+dobj	cover	percent
+case	costs	of
+compound	costs	drug
+nmod:of	percent	costs
+case	$	over
+nmod:over	cover	$
+nummod	$	5,100
+punct	have	.

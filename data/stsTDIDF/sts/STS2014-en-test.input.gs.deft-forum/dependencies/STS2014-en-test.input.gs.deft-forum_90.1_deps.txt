@@ -1,0 +1,13 @@
+nsubj	said	I
+root	ROOT	said
+nsubj	person	it
+cop	person	was
+neg	person	n't
+det	person	a
+ccomp	said	person
+punct	person	,
+case	sense	in
+det	sense	the
+amod	sense	legal
+nmod:in	person	sense
+punct	said	.

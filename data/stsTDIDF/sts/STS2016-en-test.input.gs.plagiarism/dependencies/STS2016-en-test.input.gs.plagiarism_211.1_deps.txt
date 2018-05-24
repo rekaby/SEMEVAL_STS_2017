@@ -1,0 +1,17 @@
+csubj	style	Object
+amod	programming	oriented
+dobj	Object	programming
+cop	style	is
+det	style	a
+root	ROOT	style
+case	programming	of
+nmod:of	style	programming
+nsubj	supports	that
+acl:relcl	programming	supports
+dobj	supports	encapsulation
+punct	encapsulation	,
+conj:and	encapsulation	inheritance
+punct	encapsulation	,
+cc	encapsulation	and
+conj:and	encapsulation	polymorphism
+punct	style	.

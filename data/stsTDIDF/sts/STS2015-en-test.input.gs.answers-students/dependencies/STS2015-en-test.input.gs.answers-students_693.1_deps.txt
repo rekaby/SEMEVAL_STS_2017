@@ -1,0 +1,11 @@
+mark	contained	if
+nsubjpass	contained	switch
+cc	switch	and
+conj:and	switch	bulb
+auxpass	contained	are
+root	ROOT	contained
+case	path	in
+det	path	the
+amod	path	same
+amod	path	closed
+nmod:in	contained	path

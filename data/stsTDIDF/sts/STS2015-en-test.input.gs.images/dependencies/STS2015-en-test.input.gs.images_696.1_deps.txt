@@ -1,0 +1,9 @@
+det	children	Some
+nsubj	raising	children
+aux	raising	are
+root	ROOT	raising
+nmod:poss	hands	their
+dobj	raising	hands
+cc	raising	and
+conj:and	raising	clapping
+punct	raising	.

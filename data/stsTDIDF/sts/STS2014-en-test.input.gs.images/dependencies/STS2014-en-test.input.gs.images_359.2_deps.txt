@@ -1,0 +1,7 @@
+nummod	birds	Two
+root	ROOT	birds
+acl	birds	flying
+case	feeders	near
+compound	feeders	bird
+nmod:near	flying	feeders
+punct	birds	.

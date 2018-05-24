@@ -1,0 +1,5 @@
+booths	in	case
+working	booths	nmod:in
+woman	working	acl
+men	woman	conj:and
+booths	the	det

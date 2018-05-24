@@ -1,0 +1,7 @@
+nsubj	queries	Obama
+root	ROOT	queries
+dobj	queries	Turnbull
+case	deal	over
+compound	deal	China
+compound	deal	port
+nmod:over	Turnbull	deal

@@ -1,0 +1,7 @@
+compound	McDonnell	Ex-Virginia
+compound	McDonnell	governor
+compound	McDonnell	Bob
+nsubj	charged	McDonnell
+root	ROOT	charged
+case	corruption	with
+nmod:with	charged	corruption

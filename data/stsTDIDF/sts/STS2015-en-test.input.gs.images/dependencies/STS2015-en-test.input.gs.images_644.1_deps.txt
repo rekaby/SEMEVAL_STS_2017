@@ -1,0 +1,8 @@
+nummod	girls	Two
+amod	girls	teenage
+root	ROOT	girls
+punct	girls	,
+nsubj	smiling	one
+aux	smiling	is
+acl:relcl	girls	smiling
+punct	girls	.

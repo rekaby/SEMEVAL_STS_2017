@@ -1,0 +1,8 @@
+det	model	The
+compound	model	vector
+compound	model	space
+nsubj	has	model
+root	ROOT	has
+amod	disadvantages	several
+dobj	has	disadvantages
+punct	has	.

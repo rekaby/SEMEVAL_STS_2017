@@ -1,0 +1,7 @@
+root	ROOT	emphasize
+punct	emphasize	;
+conj	emphasize	draw
+dobj	draw	attention
+nmod	draw	to
+punct	emphasize	;
+dep	emphasize	underline

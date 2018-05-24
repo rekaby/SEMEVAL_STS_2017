@@ -1,0 +1,11 @@
+root	ROOT	Voters
+case	hopeful	in
+compound	hopeful	Myanmar
+acl:in	Voters	hopeful
+mark	claims	as
+compound	Kyi	Suu
+nmod:poss	party	Kyi
+case	Kyi	's
+nsubj	claims	party
+ccomp	hopeful	claims
+ccomp	claims	win

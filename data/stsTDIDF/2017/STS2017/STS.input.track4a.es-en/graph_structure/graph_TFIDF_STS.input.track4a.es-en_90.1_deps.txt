@@ -1,0 +1,17 @@
+vests	orange	amod
+standing	number	nsubj
+tracks	on	case
+number	large	amod
+shine	that	nsubj
+standing	tracks	nmod:on
+tracks	some	det
+number	workers	nmod:of
+vests	shine	acl:relcl
+shine	day	nmod:by
+hats	hard	amod
+day	hats	conj:and
+workers	wearing	acl
+tracks	railroad	compound
+workers	railway	compound
+wearing	vests	dobj
+day	by	case

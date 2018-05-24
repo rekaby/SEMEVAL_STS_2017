@@ -1,0 +1,7 @@
+root	ROOT	make
+compound:prt	make	up
+dobj	make	something
+amod	something	artificial
+cc	artificial	or
+conj:or	artificial	untrue
+punct	make	.

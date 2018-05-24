@@ -1,0 +1,6 @@
+det	man	A
+nsubj	slices	man
+root	ROOT	slices
+det	onion	an
+dobj	slices	onion
+punct	slices	.

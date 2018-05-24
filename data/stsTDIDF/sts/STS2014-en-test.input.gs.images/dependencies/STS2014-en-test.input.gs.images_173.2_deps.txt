@@ -1,0 +1,8 @@
+nummod	trains	Two
+nsubj	traveling	trains
+aux	traveling	are
+root	ROOT	traveling
+case	track	on
+det	track	the
+nmod:on	traveling	track
+punct	traveling	.

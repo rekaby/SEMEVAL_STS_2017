@@ -1,0 +1,6 @@
+compound	Senate	US
+nsubj	passes	Senate
+root	ROOT	passes
+amod	bill	gay
+compound	bill	workers
+dobj	passes	bill

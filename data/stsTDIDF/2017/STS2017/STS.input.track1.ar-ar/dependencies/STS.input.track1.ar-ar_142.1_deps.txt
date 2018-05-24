@@ -1,0 +1,8 @@
+amod	people	Many
+nsubj	walking	people
+aux	walking	are
+root	ROOT	walking
+case	street	in
+det	street	the
+nmod:in	walking	street
+punct	walking	.

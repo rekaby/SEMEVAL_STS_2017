@@ -1,0 +1,7 @@
+amod	pleads	Syrian
+compound	pleads	opposition
+root	ROOT	pleads
+case	action	for
+amod	action	criminal
+compound	action	court
+nmod:for	pleads	action

@@ -1,0 +1,5 @@
+compound	votes	Greece
+root	ROOT	votes
+case	election	in
+amod	election	crucial
+nmod:in	votes	election

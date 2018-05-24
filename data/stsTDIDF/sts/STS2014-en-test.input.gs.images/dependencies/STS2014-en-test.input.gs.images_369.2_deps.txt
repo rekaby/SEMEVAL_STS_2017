@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	standing	women
+root	ROOT	standing
+case	bus	outside
+mwe	outside	of
+det	bus	a
+nmod:outside_of	standing	bus
+punct	standing	.

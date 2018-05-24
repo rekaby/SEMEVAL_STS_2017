@@ -1,0 +1,11 @@
+nummod	sheep	Three
+root	ROOT	sheep
+case	shot	on
+det	shot	a
+compound	shot	dirt
+compound	shot	road
+nmod:on	sheep	shot
+case	car	from
+det	car	a
+nmod:from	shot	car
+punct	sheep	.

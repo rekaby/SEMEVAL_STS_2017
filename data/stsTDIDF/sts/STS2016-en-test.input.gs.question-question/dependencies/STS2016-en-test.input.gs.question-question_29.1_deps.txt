@@ -1,0 +1,8 @@
+aux	need	Do
+nsubj	need	I
+root	ROOT	need
+mark	apply	to
+xcomp	need	apply
+case	ESTA	for
+nmod:for	apply	ESTA
+punct	need	?

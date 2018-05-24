@@ -1,0 +1,13 @@
+det	terminology	The
+nsubjpass	called	terminology
+auxpass	called	is
+advmod	called	usually
+root	ROOT	called
+punct	called	``
+xcomp	called	Destructive
+cc	Destructive	vs
+conj:vs	Destructive	Non
+compound	editing	Destructive
+punct	editing	''
+dep	Destructive	editing
+punct	called	.

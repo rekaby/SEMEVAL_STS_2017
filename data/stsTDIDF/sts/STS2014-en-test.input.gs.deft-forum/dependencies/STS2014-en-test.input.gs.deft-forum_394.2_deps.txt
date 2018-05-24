@@ -1,0 +1,12 @@
+det	Hindus	The
+nsubj	say	Hindus
+aux	say	would
+root	ROOT	say
+det	thing	the
+amod	thing	same
+dobj	say	thing
+case	Ghita	about
+det	Ghita	the
+compound	Ghita	Bhagavad
+nmod:about	thing	Ghita
+punct	say	.

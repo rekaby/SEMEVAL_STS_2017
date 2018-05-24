@@ -1,0 +1,11 @@
+det	accident	An
+nsubj	grabbed	accident
+case	automobiles	between
+nummod	automobiles	two
+nmod:between	accident	automobiles
+aux	grabbed	has
+root	ROOT	grabbed
+nmod:poss	attention	people
+case	people	's
+dobj	grabbed	attention
+punct	grabbed	.

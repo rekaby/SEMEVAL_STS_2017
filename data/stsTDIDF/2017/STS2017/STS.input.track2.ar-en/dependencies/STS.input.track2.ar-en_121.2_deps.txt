@@ -1,0 +1,13 @@
+det	man	A
+nsubj	takes	man
+root	ROOT	takes
+det	break	a
+dobj	takes	break
+case	dog	with
+nmod:poss	dog	his
+nmod:with	break	dog
+case	park	in
+det	park	a
+amod	park	public
+nmod:in	takes	park
+punct	takes	.

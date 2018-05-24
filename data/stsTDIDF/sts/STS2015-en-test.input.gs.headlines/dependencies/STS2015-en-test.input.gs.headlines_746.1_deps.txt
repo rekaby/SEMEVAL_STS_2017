@@ -1,0 +1,9 @@
+nsubj	says	Assad
+root	ROOT	says
+nsubj	comply	Syria
+aux	comply	will
+ccomp	says	comply
+case	resolution	with
+compound	resolution	UN
+compound	resolution	arms
+nmod:with	comply	resolution

@@ -1,0 +1,6 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	sitting
+amod	laughing	outside
+dobj	sitting	laughing
+punct	women	.

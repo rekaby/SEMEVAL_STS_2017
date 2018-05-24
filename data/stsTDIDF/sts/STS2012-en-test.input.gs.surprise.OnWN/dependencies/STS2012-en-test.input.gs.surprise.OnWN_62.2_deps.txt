@@ -1,0 +1,7 @@
+root	ROOT	go
+advmod	go	back
+case	state	to
+det	state	a
+amod	state	previous
+nmod:to	go	state
+punct	go	.

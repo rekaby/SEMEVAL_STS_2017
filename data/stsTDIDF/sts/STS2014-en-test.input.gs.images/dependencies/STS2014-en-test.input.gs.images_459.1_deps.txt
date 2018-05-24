@@ -1,0 +1,8 @@
+det	puppy	A
+compound	puppy	tan
+root	ROOT	puppy
+case	floor	on
+det	floor	a
+amod	floor	carpeted
+nmod:on	puppy	floor
+punct	puppy	.

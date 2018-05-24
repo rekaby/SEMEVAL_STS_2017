@@ -1,0 +1,5 @@
+compound	terminals	Bulb
+root	ROOT	terminals
+nummod	terminals	3
+cc	terminals	and
+conj:and	terminals	4

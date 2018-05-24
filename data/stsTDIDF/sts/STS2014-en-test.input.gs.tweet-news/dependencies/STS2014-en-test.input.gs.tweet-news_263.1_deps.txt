@@ -1,0 +1,12 @@
+det	?!	What
+det	?!	the
+det	?!	what
+root	ROOT	?!-4) root(ROOT-0, ?-1) punct(arrested-6, :
+nsubj	arrested	Voice
+case	Brown	of
+compound	Brown	Charlie
+nmod:of	Voice	Brown
+root	ROOT	arrested
+punct	arrested	,
+xcomp	arrested	charged
+punct	arrested	.-9) root(ROOT-0, ?

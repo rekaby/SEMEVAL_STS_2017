@@ -1,0 +1,8 @@
+root	ROOT	make
+det	film	a
+dobj	make	film
+cc	film	or
+conj:or	film	photograph
+case	something	of
+nmod:of	film	something
+punct	make	.

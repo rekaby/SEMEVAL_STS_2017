@@ -1,0 +1,5 @@
+compound	stocks	China
+nsubj	end	stocks
+root	ROOT	end
+advmod	end	lower
+nmod:tmod	end	Thursday

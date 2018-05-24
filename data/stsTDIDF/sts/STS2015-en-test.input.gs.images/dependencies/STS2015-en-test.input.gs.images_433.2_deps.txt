@@ -1,0 +1,15 @@
+det	kid	A
+nsubj	runs	kid
+root	ROOT	runs
+case	direction	in
+det	direction	the
+amod	direction	opposite
+nmod:in	runs	direction
+case	others	of
+nmod:of	direction	others
+nsubj	playing	who
+aux	playing	were
+acl:relcl	others	playing
+det	game	a
+dobj	playing	game
+punct	runs	.

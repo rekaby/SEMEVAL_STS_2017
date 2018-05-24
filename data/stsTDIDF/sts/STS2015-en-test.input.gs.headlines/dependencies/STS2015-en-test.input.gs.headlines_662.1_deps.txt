@@ -1,0 +1,9 @@
+compound	scuffle	Relatives
+root	ROOT	scuffle
+case	police	with
+nmod:with	scuffle	police
+mark	kills	after
+compound	fire	China
+nsubj	kills	fire
+acl	scuffle	kills
+dobj	kills	120

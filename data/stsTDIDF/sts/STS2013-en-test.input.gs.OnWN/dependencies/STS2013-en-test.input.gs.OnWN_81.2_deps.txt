@@ -1,0 +1,12 @@
+root	ROOT	decide
+advmod	is	how
+nsubj	is	much
+ccomp	decide	is
+mark	paid	to
+auxpass	paid	be
+xcomp	is	paid
+case	claim	on
+det	claim	an
+compound	claim	insurance
+nmod:on	paid	claim
+punct	decide	.

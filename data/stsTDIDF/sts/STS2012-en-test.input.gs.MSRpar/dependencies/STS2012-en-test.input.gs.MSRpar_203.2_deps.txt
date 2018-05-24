@@ -1,0 +1,17 @@
+det	bits	The
+amod	bits	foreign
+nsubjpass	recognized	bits
+auxpass	recognized	are
+root	ROOT	recognized
+case	cells	by
+amod	cells	other
+nmod:agent	recognized	cells
+nsubj	realize	that
+acl:relcl	cells	realize
+nsubj	infected	it
+cop	infected	is
+ccomp	realize	infected
+cc	infected	and
+conj:and	infected	kill
+dobj	kill	it
+punct	recognized	.

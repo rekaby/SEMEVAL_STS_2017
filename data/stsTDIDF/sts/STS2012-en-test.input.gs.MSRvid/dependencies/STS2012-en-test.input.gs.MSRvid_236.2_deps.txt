@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	make	women
+root	ROOT	make
+dobj	make	something
+case	blender	in
+det	blender	a
+nmod:in	something	blender
+punct	make	.

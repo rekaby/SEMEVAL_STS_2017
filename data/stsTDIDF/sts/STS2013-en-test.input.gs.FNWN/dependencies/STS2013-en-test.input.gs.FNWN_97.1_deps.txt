@@ -1,0 +1,10 @@
+det	event	an
+nsubj	takes	event
+root	ROOT	takes
+dobj	takes	place
+case	place	at
+det	place	a
+nmod:at	takes	place
+cc	place	and
+conj:and	place	time
+punct	takes	.

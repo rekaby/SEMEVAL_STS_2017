@@ -1,0 +1,12 @@
+root	ROOT	when
+det	switch	the
+dep	when	switch
+acl	switch	is
+nsubj	is	the
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	the	path
+case	bulb	with
+det	bulb	the
+nmod:with	path	bulb

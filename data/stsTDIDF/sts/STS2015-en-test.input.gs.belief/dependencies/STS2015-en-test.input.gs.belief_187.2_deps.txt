@@ -1,0 +1,6 @@
+root	ROOT	makes
+nsubj	feel	me
+ccomp	makes	feel
+advmod	festive	all
+xcomp	feel	festive
+punct	makes	.

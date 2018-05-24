@@ -1,0 +1,15 @@
+punct	told	``
+nsubjpass	excited	I
+auxpass	excited	'm
+advmod	excited	really
+ccomp	told	excited
+mark	going	about
+advcl	excited	going
+case	Cleveland	to
+nmod:to	going	Cleveland
+punct	told	,
+punct	told	''
+nsubj	told	James
+root	ROOT	told
+dobj	told	ESPN.com
+punct	told	.

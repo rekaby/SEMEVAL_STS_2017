@@ -1,0 +1,14 @@
+det	Commission	The
+compound	Commission	Commerce
+nsubj	hurdle	Commission
+aux	hurdle	would
+aux	hurdle	have
+cop	hurdle	been
+det	hurdle	a
+amod	hurdle	significant
+root	ROOT	hurdle
+case	deal	for
+det:predet	deal	such
+det	deal	a
+nmod:for	hurdle	deal
+punct	hurdle	.

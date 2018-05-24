@@ -1,0 +1,8 @@
+lavished	troops	nsubj
+lavished	sacrifices	nmod:on
+lavished	praise	dobj
+ROOT	lavished	root
+sacrifices	on	case
+sacrifices	their	nmod:poss
+troops	The	det
+lavished	.	punct

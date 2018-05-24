@@ -1,0 +1,16 @@
+det	man	a
+nsubj	walking	man
+case	shorts	in
+amod	shorts	red
+nmod:in	man	shorts
+aux	walking	is
+root	ROOT	walking
+case	rocks	along
+nmod:along	walking	rocks
+case	river	by
+det	river	a
+nmod:by	walking	river
+acl	river	carrying
+det	stick	a
+dobj	carrying	stick
+punct	walking	.

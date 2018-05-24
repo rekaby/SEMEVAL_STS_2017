@@ -1,0 +1,13 @@
+det	plane	A
+amod	plane	small
+nsubj	parked	plane
+root	ROOT	parked
+case	airfield	at
+det	airfield	an
+nmod:at	parked	airfield
+case	overhead	with
+det	overhead	a
+amod	overhead	cloudy
+compound	overhead	sky
+nmod:with	parked	overhead
+punct	parked	.

@@ -1,0 +1,6 @@
+det	activity	the
+amod	activity	general
+root	ROOT	activity
+case	selling	of
+nmod:of	activity	selling
+punct	activity	.

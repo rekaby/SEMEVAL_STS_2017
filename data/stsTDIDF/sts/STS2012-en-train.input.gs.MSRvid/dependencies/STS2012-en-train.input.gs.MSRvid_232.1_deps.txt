@@ -1,0 +1,8 @@
+det	monkey	A
+nsubj	brushing	monkey
+aux	brushing	is
+root	ROOT	brushing
+det	dog	a
+compound	dog	bull
+dobj	brushing	dog
+punct	brushing	.

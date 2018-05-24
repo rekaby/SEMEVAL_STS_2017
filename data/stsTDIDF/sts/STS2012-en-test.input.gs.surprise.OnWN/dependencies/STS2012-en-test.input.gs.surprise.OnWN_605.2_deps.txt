@@ -1,0 +1,6 @@
+root	ROOT	give
+det	incentive	an
+dobj	give	incentive
+case	action	for
+nmod:for	incentive	action
+punct	give	.

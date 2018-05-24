@@ -1,0 +1,4 @@
+dog	brown	amod
+wading	dog	nsubj
+ROOT	wading	root
+wading	not	neg

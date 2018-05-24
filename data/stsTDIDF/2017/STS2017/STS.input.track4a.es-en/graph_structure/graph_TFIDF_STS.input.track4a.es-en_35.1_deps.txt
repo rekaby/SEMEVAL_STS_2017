@@ -1,0 +1,4 @@
+group	sitting	acl
+discussing	something	dobj
+discussing	around	mark
+sitting	discussing	advcl

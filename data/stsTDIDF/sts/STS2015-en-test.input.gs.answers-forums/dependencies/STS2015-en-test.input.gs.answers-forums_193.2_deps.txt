@@ -1,0 +1,15 @@
+root	ROOT	Cats
+dep	Cats	may
+cc	may	or
+aux	lick	may
+neg	lick	not
+conj:or	may	lick
+det	person	a
+dobj	lick	person
+acl	person	based
+case	kinds	on
+det	kinds	all
+nmod:on	based	kinds
+case	things	of
+nmod:of	kinds	things
+punct	Cats	.

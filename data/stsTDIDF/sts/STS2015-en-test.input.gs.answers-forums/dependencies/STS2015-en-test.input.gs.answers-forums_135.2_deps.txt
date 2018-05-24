@@ -1,0 +1,14 @@
+amod	articles	Indefinite
+root	ROOT	articles
+acl	articles	developed
+case	numerals	from
+nmod:from	developed	numerals
+punct	articles	,
+cc	articles	and
+det	articles	the
+amod	articles	definite
+conj:and	articles	articles
+acl	articles	developed
+case	demonstratives	from
+nmod:from	developed	demonstratives
+punct	articles	.

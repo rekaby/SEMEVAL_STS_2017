@@ -1,0 +1,10 @@
+det	state	The
+root	ROOT	state
+cc	state	or
+conj:or	state	condition
+case	feeling	of
+nmod:of	state	feeling
+cc	state	or
+auxpass	rushed	being
+conj:or	state	rushed
+punct	state	.

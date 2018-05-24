@@ -1,0 +1,9 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	move	to
+punct	move	-RRB-
+nmod:to	cause	move
+advmod	move	gently
+advmod	move	back
+cc	move	and
+advmod	move	forth

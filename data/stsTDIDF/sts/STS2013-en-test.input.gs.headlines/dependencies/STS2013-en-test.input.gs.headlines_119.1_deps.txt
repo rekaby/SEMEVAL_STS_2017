@@ -1,0 +1,5 @@
+nsubj	quits	Capello
+root	ROOT	quits
+case	manager	as
+compound	manager	England
+nmod:as	quits	manager

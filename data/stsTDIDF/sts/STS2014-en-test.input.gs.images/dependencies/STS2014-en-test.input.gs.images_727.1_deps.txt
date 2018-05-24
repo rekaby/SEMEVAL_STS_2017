@@ -1,0 +1,9 @@
+det	close-up	A
+root	ROOT	close-up
+case	sheep	of
+det	sheep	a
+nmod:of	close-up	sheep
+case	grass	in
+det	grass	the
+nmod:in	close-up	grass
+punct	close-up	.

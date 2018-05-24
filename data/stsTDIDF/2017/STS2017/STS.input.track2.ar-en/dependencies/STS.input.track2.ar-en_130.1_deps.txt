@@ -1,0 +1,7 @@
+nummod	girls	Two
+nsubj	reading	girls
+aux	reading	are
+root	ROOT	reading
+dobj	reading	books
+advmod	reading	outside
+punct	reading	.

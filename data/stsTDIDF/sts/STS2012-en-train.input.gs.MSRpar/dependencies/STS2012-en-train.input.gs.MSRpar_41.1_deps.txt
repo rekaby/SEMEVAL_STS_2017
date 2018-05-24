@@ -1,0 +1,16 @@
+nsubj	closed	Shares
+case	EDS	in
+nmod:in	Shares	EDS
+root	ROOT	closed
+case	Thursday	on
+nmod:on	closed	Thursday
+case	$	at
+nmod:at	closed	$
+nummod	$	18.51
+punct	closed	,
+det	gain	a
+dobj	closed	gain
+case	cents	of
+nummod	cents	6
+nmod:of	gain	cents
+punct	closed	.

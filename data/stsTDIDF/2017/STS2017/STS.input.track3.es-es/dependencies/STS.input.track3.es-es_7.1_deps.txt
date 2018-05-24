@@ -1,0 +1,7 @@
+nsubj	waiting	People
+aux	waiting	are
+root	ROOT	waiting
+case	parts	for
+compound	parts	car
+nmod:for	waiting	parts
+punct	waiting	.

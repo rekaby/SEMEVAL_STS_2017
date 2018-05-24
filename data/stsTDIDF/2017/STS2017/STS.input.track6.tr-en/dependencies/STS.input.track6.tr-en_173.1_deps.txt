@@ -1,0 +1,9 @@
+det	man	The
+nsubj	jumps	man
+root	ROOT	jumps
+case	ground	on
+det	ground	the
+nmod:on	jumps	ground
+cc	ground	and
+conj:and	ground	dances
+punct	jumps	.

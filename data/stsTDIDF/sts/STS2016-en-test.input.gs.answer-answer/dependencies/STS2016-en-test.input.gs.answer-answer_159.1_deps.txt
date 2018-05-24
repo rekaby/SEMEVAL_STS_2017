@@ -1,0 +1,7 @@
+nsubj	look	I
+aux	look	would
+root	ROOT	look
+case	this	at
+nmod:at	look	this
+punct	look	:
+dobj	look	U.S.

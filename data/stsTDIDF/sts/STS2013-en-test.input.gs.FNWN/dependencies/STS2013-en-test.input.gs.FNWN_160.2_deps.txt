@@ -1,0 +1,5 @@
+neg	excessive	not
+root	ROOT	excessive
+cc	excessive	or
+conj:or	excessive	extreme
+punct	excessive	;

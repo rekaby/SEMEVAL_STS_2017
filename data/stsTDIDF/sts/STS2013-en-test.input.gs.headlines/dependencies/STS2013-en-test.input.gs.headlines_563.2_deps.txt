@@ -1,0 +1,5 @@
+amod	journalist	Senior
+root	ROOT	journalist
+acl	journalist	killed
+case	Pakistan	in
+nmod:in	killed	Pakistan

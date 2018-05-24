@@ -1,0 +1,9 @@
+nummod	dogs	Two
+amod	dogs	white
+nsubj	swimming	dogs
+aux	swimming	are
+root	ROOT	swimming
+case	water	in
+det	water	the
+nmod:in	swimming	water
+punct	swimming	.

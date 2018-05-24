@@ -1,0 +1,9 @@
+root	ROOT	make
+dobj	make	sense
+acl	sense	of
+punct	make	;
+parataxis	make	assign
+det	meaning	a
+dobj	assign	meaning
+nmod	assign	to
+punct	make	.

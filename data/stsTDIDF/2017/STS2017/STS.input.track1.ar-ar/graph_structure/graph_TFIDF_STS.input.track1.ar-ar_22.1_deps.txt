@@ -1,0 +1,7 @@
+parade	washroom	nmod:in
+ROOT	parade	root
+washroom	in	case
+parade	.	punct
+parade	military	amod
+parade	A	det
+washroom	the	det

@@ -1,0 +1,9 @@
+case	division	Beyond
+det	division	the
+amod	division	geographical
+nmod:beyond	level	division
+punct	level	,
+case	level	at
+amod	level	local
+root	ROOT	level
+punct	level	.

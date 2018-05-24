@@ -1,0 +1,9 @@
+det	square	A
+amod	square	busy
+compound	square	city
+root	ROOT	square
+case	country	in
+det	country	an
+amod	country	asian
+nmod:in	square	country
+punct	square	.

@@ -1,0 +1,17 @@
+Mexican-Americans	with	case
+million	35	compound
+Mexican-Americans	,	punct
+challenging	really	advmod
+Mexican-Americans	living	acl
+Mexican-Americans	.	punct
+Mexican-Americans	million	nummod
+ROOT	Mexican-Americans	root
+living	States	nmod:in
+Mexico	for	case
+Mexican-Americans	is	cop
+Mexican-Americans	Mexico	nmod:for
+Mexican-Americans	relationship	nsubj
+Mexican-Americans	the	det
+Mexican-Americans	And	cc
+Mexican-Americans	yet	advmod
+relationship	challenging	amod

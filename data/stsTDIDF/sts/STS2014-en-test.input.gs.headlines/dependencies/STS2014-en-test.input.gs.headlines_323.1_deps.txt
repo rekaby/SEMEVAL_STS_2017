@@ -1,0 +1,9 @@
+compound	Sentenced	Manning
+root	ROOT	Sentenced
+case	Years	to
+nummod	Years	35
+nmod:to	Sentenced	Years
+case	Secrets	for
+amod	Secrets	Leaking
+compound	Secrets	Government
+nmod:for	Sentenced	Secrets

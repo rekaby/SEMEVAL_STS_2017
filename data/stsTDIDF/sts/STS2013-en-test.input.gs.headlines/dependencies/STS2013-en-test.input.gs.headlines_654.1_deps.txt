@@ -1,0 +1,8 @@
+compound	president	Maldives
+nsubj	quits	president
+root	ROOT	quits
+case	mutiny	after
+compound	mutiny	police
+nmod:after	quits	mutiny
+punct	quits	,
+dobj	quits	protests

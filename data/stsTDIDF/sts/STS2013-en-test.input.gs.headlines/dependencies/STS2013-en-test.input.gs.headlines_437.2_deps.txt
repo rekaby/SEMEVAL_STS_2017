@@ -1,0 +1,5 @@
+nsubj	wins	Romney
+root	ROOT	wins
+compound	primary	Maryland
+compound	primary	Republican
+dobj	wins	primary

@@ -1,0 +1,5 @@
+det	activity	the
+root	ROOT	activity
+mark	leading	of
+acl	activity	leading
+punct	activity	.

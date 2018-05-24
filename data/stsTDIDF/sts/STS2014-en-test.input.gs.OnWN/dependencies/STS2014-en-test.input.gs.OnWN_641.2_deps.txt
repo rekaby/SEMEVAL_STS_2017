@@ -1,0 +1,7 @@
+root	ROOT	put
+case	mind	in
+det	mind	the
+nmod:in	put	mind
+case	someone	of
+nmod:of	mind	someone
+punct	put	.

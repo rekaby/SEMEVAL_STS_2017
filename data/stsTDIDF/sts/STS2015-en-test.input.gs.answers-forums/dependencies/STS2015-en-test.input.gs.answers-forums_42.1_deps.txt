@@ -1,0 +1,14 @@
+amod	reward	Intrinsic
+nsubj	pay-off	reward
+cop	pay-off	is
+det	pay-off	the
+amod	pay-off	emotional
+root	ROOT	pay-off
+mark	get	that
+nsubj	get	you
+ccomp	pay-off	get
+mark	completing	by
+advcl	get	completing
+det	activity	an
+dobj	completing	activity
+punct	pay-off	.

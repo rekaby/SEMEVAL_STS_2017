@@ -1,0 +1,7 @@
+amod	swimmers	Several
+nsubj	jump	swimmers
+root	ROOT	jump
+case	water	into
+det	water	the
+nmod:into	jump	water
+punct	jump	.

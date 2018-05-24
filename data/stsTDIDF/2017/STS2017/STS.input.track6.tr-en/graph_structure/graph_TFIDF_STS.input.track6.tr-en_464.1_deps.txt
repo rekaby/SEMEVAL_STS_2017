@@ -1,0 +1,10 @@
+riding	are	aux
+riding	trailer	nmod:in
+riding	passengers	nsubj
+connected	tractor	nmod:to
+trailer	in	case
+trailer	connected	acl
+passengers	The	det
+tractor	to	case
+trailer	the	det
+tractor	the	det

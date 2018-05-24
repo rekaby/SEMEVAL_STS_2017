@@ -1,0 +1,8 @@
+det	kitchen	A
+root	ROOT	kitchen
+case	cabinets	with
+amod	cabinets	wooden
+nmod:with	kitchen	cabinets
+cc	cabinets	and
+conj:and	cabinets	furniture
+punct	kitchen	.

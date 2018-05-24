@@ -1,0 +1,11 @@
+nsubj	drilling	Someone
+aux	drilling	is
+root	ROOT	drilling
+det	hole	a
+dobj	drilling	hole
+case	piece	in
+det	piece	a
+nmod:in	drilling	piece
+case	wood	of
+nmod:of	piece	wood
+punct	drilling	.

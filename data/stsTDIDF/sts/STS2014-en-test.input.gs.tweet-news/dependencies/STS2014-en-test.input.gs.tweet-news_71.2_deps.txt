@@ -1,0 +1,10 @@
+compound	Rendezvous	IHT
+root	ROOT	Rendezvous
+punct	Rendezvous	:
+det	Doctrine	The
+compound	Doctrine	Clinton
+dep	Rendezvous	Doctrine
+case	Policy	of
+compound	Policy	American
+compound	Policy	Foreign
+nmod:of	Doctrine	Policy

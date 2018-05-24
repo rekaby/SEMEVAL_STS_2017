@@ -1,0 +1,8 @@
+gallery	the	det
+painting	.	punct
+gallery	art	compound
+painting	is	aux
+gallery	for	case
+ROOT	painting	root
+painting	man	nsubj
+painting	gallery	nmod:for

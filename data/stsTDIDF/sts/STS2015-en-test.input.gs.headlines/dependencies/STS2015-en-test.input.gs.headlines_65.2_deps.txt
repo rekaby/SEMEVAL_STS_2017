@@ -1,0 +1,9 @@
+nsubj	set	House
+root	ROOT	set
+mark	vote	to
+xcomp	set	vote
+case	plan	on
+nmod:on	vote	plan
+mark	reopen	to
+acl	plan	reopen
+dobj	reopen	government

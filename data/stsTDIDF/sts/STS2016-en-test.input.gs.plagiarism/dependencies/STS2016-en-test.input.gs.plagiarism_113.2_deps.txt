@@ -1,0 +1,14 @@
+nsubj	probability	P
+punct	B	-LRB-
+appos	P	B
+nummod	A	|
+dep	B	A
+punct	B	-RRB-
+cop	probability	is
+det	probability	the
+amod	probability	conditional
+root	ROOT	probability
+case	B	of
+nmod:of	probability	B
+case	A.	given
+nmod:given	B	A.

@@ -1,0 +1,6 @@
+nummod	eruption	Five
+acl	Five	killed
+case	volcano	in
+compound	volcano	Philippines
+nmod:in	killed	volcano
+root	ROOT	eruption

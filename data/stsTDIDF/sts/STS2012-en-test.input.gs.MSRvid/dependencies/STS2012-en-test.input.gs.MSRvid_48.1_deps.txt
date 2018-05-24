@@ -1,0 +1,8 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	bull	a
+amod	bull	mechanical
+dobj	riding	bull
+punct	riding	.

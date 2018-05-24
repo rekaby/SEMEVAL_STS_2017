@@ -1,0 +1,7 @@
+det	group	A
+nsubj	dancing	group
+case	couples	of
+nmod:of	group	couples
+aux	dancing	are
+root	ROOT	dancing
+punct	dancing	.

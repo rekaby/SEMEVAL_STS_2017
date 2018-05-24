@@ -1,0 +1,7 @@
+nsubj	grating	Some
+aux	grating	is
+root	ROOT	grating
+dobj	grating	onion
+case	water	into
+nmod:into	onion	water
+punct	grating	.

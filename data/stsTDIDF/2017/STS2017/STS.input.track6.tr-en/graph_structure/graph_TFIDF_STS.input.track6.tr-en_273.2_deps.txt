@@ -1,0 +1,5 @@
+hair	long	amod
+plays	man	nsubj
+man	hair	nmod:with
+plays	guitar	dobj
+guitar	the	det

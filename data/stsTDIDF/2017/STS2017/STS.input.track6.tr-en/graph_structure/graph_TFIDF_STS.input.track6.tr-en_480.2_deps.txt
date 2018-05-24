@@ -1,0 +1,14 @@
+photographed	is	auxpass
+photographed	range	nmod:from
+gives	concert	dobj
+range	from	case
+gives	photographed	advcl
+photographed	singer	nsubjpass
+band	.	punct
+band	It	nsubj
+ROOT	band	root
+photographed	when	advmod
+singer	the	det
+range	close	amod
+band	gives	acl:relcl
+band	's	cop

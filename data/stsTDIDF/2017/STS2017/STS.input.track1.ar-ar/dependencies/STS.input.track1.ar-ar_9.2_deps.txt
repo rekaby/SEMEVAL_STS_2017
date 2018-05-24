@@ -1,0 +1,12 @@
+det	man	A
+amod	man	young
+root	ROOT	man
+acl	man	walking
+case	jacket	with
+det	jacket	a
+amod	jacket	black
+nmod:with	walking	jacket
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	jacket	sidewalk
+punct	man	.

@@ -1,0 +1,5 @@
+standing	ground	nmod:on
+standing	man	nsubj
+ground	mountain	nmod:in_front_of
+ground	rocky	amod
+mountain	in	case

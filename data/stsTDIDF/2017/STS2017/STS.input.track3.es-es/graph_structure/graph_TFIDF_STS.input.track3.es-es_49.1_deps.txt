@@ -1,0 +1,6 @@
+plays	saxophone	dobj
+plays	man	nsubj
+mustache	with	case
+saxophone	the	det
+man	mustache	nmod:with
+mustache	a	det

@@ -1,0 +1,15 @@
+advmod	take	Why
+aux	take	does
+nsubj	take	it
+root	ROOT	take
+nmod:poss	dryer	my
+dobj	take	dryer
+nummod	hours	3
+dep	dryer	hours
+mark	dry	to
+acl	hours	dry
+det	load	a
+dobj	dry	load
+case	clothes	of
+nmod:of	load	clothes
+punct	take	?

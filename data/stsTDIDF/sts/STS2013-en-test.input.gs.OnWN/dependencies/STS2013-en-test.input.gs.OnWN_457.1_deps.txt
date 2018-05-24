@@ -1,0 +1,6 @@
+det	selection	the
+root	ROOT	selection
+case	winner	of
+det	winner	a
+compound	winner	lottery
+nmod:of	selection	winner

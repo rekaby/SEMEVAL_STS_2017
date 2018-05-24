@@ -1,0 +1,15 @@
+compound	#NYT	jl
+root	ROOT	#NYT
+punct	#NYT	:
+compound	Military	U.S.
+appos	#NYT	Military
+acl	Military	Stops
+xcomp	Stops	Sending
+det	Detainees	Some
+dobj	Sending	Detainees
+case	#p	to
+compound	#p	Afghan
+compound	#p	Custody
+nmod:to	Detainees	#p
+nummod	#p	2
+dep	Detainees	#topprog

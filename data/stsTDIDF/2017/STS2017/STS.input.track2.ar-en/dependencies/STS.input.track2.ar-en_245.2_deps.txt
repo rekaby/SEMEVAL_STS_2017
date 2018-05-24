@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	cars	of
+nmod:of	group	cars
+acl	cars	parked
+case	street	on
+det	street	the
+nmod:on	parked	street
+punct	group	.

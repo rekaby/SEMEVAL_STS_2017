@@ -1,0 +1,9 @@
+root	ROOT	burst
+xcomp	burst	open
+case	sound	with
+det	sound	a
+amod	sound	sharp
+punct	sound	,
+amod	sound	explosive
+nmod:with	open	sound
+punct	burst	.

@@ -1,0 +1,7 @@
+nsubj	writes	Someone
+root	ROOT	writes
+dobj	writes	something
+case	book	on
+det	book	the
+nmod:on	something	book
+punct	writes	.

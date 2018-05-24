@@ -1,0 +1,11 @@
+advmod	lives	More
+root	ROOT	lives
+auxpass	saved	being
+acl	lives	saved
+punct	lives	:
+compound	rates	Cancer
+compound	rates	death
+nsubj	drop	rates
+dep	lives	drop
+nummod	%	20
+dobj	drop	%

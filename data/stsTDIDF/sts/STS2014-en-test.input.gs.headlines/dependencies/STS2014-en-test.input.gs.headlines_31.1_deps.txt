@@ -1,0 +1,6 @@
+compound	Retirement	David
+compound	Retirement	Beckham
+compound	Retirement	Announces
+root	ROOT	Retirement
+case	Soccer	From
+nmod:from	Retirement	Soccer

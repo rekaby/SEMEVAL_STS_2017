@@ -1,0 +1,7 @@
+nsubj	talking	People
+aux	talking	are
+root	ROOT	talking
+case	weather	about
+det	weather	the
+nmod:about	talking	weather
+punct	talking	.

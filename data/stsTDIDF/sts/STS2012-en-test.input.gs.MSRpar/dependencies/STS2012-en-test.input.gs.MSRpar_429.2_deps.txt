@@ -1,0 +1,9 @@
+compound	Powell	FCC
+compound	Powell	chief
+compound	Powell	Michael
+nsubj	presides	Powell
+root	ROOT	presides
+case	hearing	over
+nmod:over	presides	hearing
+nmod:tmod	presides	Monday
+punct	presides	.

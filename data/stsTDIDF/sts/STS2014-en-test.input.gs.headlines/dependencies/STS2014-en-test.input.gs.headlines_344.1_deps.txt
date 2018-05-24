@@ -1,0 +1,8 @@
+amod	markets	Asian
+nsubj	gain	markets
+root	ROOT	gain
+case	data	on
+amod	data	upbeat
+compound	data	US
+amod	data	economic
+nmod:on	gain	data

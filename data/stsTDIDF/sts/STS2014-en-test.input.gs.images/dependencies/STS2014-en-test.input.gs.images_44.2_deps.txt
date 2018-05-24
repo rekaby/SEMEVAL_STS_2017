@@ -1,0 +1,9 @@
+det	care	A
+compound	care	race
+root	ROOT	care
+acl	care	driving
+case	road	along
+det	road	a
+compound	road	dirt
+nmod:along	driving	road
+punct	care	.

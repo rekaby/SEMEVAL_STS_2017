@@ -1,0 +1,15 @@
+det	woman	A
+amod	woman	smiling
+amod	woman	young
+nsubj	poses	woman
+case	shirt	in
+det	shirt	a
+compound	shirt	tourquoise
+nmod:in	woman	shirt
+cc	shirt	and
+conj:and	shirt	bandanna
+root	ROOT	poses
+case	outdoors	at
+compound	outdoors	table
+nmod:at	poses	outdoors
+punct	poses	.

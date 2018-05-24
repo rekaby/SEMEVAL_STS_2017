@@ -1,0 +1,5 @@
+det	woman	A
+nsubj	swims	woman
+root	ROOT	swims
+xcomp	swims	underwater
+punct	swims	.

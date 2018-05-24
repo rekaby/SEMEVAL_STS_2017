@@ -1,0 +1,9 @@
+det	man	The
+nsubj	kissing	man
+aux	kissing	is
+root	ROOT	kissing
+cc	kissing	and
+conj:and	kissing	hugging
+det	woman	the
+dobj	hugging	woman
+punct	kissing	.

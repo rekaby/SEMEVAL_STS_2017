@@ -1,0 +1,8 @@
+fabric	red	amod
+ROOT	Women	root
+factory	sewing	compound
+factory	in	case
+Women	.	punct
+fabric	with	case
+Women	factory	nmod:in
+factory	fabric	nmod:with

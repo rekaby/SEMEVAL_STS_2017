@@ -1,0 +1,10 @@
+root	ROOT	establish
+cc	establish	or
+conj:or	establish	strengthen
+case	evidence	as
+case	evidence	with
+amod	evidence	new
+nmod:with	establish	evidence
+cc	evidence	or
+conj:or	evidence	facts
+punct	establish	.

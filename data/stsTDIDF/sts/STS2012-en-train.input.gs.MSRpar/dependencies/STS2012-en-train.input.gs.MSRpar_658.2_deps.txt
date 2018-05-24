@@ -1,0 +1,15 @@
+compound	Scientific	Boston
+nsubj	said	Scientific
+root	ROOT	said
+nsubj	gained	it
+aux	gained	has
+ccomp	said	gained
+nummod	percent	51
+dobj	gained	percent
+case	market	of
+det	market	the
+amod	market	coated-stent
+nmod:of	percent	market
+case	Europe	in
+nmod:in	market	Europe
+punct	said	.

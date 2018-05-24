@@ -1,0 +1,7 @@
+compound	protesters	Bahraini
+root	ROOT	protesters
+cc	protesters	and
+compound	clash	police
+conj:and	protesters	clash
+case	funeral	after
+nmod:after	protesters	funeral

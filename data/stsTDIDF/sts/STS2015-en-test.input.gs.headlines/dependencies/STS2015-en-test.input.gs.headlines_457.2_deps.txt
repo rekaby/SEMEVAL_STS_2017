@@ -1,0 +1,8 @@
+nsubj	applies	Telstra
+root	ROOT	applies
+mark	list	to
+xcomp	applies	list
+compound	site	China
+dobj	list	site
+case	NY	in
+nmod:in	list	NY

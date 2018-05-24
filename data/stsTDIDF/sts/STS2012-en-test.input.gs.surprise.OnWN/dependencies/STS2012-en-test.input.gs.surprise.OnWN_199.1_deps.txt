@@ -1,0 +1,11 @@
+root	ROOT	train
+punct	train	,
+conj:or	train	tutor
+cc	train	or
+amod	behavior	polish
+amod	behavior	social
+conj:or	train	behavior
+punct	train	,
+conj:or	train	taste
+punct	train	,
+appos	train	judgement

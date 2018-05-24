@@ -1,0 +1,7 @@
+area	Ckrtin	nmod:between
+area	sloping	compound
+resisting	area	dobj
+Ckrtin	between	case
+boat	resisting	acl
+area	river	compound
+are	boat	nsubj

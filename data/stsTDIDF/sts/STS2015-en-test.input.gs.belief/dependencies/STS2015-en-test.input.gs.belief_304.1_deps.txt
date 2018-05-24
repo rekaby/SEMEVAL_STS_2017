@@ -1,0 +1,14 @@
+det	party	the
+compound	party	tea
+nsubj	promote	party
+aux	promote	did
+neg	promote	n't
+root	ROOT	promote
+xcomp	promote	ending
+det	intereference	the
+dobj	ending	intereference
+case	religion	of
+nmod:of	intereference	religion
+case	politics	in
+nmod:in	ending	politics
+punct	promote	.

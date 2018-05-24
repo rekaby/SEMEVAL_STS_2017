@@ -1,0 +1,9 @@
+det	area	any
+nsubj	set	area
+root	ROOT	set
+advmod	set	aside
+case	purpose	for
+det	purpose	a
+amod	purpose	particular
+nmod:for	set	purpose
+punct	set	.

@@ -1,0 +1,8 @@
+nsubj	ingredient	opium
+cop	ingredient	is
+det	ingredient	the
+amod	ingredient	raw
+root	ROOT	ingredient
+case	heroin	for
+nmod:for	ingredient	heroin
+punct	ingredient	.

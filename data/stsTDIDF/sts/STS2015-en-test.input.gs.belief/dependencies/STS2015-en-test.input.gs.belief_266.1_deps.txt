@@ -1,0 +1,10 @@
+root	ROOT	people
+nsubj	technicians	who
+cop	technicians	are
+det	technicians	the
+acl:relcl	people	technicians
+mark	maintain	to
+acl	technicians	maintain
+det	robots	the
+dobj	maintain	robots
+punct	people	.

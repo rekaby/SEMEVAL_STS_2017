@@ -1,0 +1,9 @@
+compound	jump	Facebook
+compound	jump	earnings
+nsubj	accelerate	jump
+nummod	%	63
+dep	jump	%
+case	ads	as
+amod	ads	mobile
+nmod:as	%	ads
+root	ROOT	accelerate

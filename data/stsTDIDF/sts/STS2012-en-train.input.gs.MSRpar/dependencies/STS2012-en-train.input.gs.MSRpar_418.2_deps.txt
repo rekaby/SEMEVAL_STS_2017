@@ -1,0 +1,14 @@
+case	officials	According
+mwe	According	to
+compound	officials	law
+compound	officials	enforcement
+root	ROOT	officials
+punct	officials	,
+det	passwords	the
+amod	passwords	individual
+amod	passwords	decrypted
+root	,	passwords
+case	server	on
+det	server	the
+nmod:on	passwords	server
+punct	passwords	.

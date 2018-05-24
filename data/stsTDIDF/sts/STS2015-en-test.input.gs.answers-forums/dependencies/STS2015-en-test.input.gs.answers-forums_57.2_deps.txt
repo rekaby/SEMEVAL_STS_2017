@@ -1,0 +1,12 @@
+root	ROOT	lay
+compound:prt	lay	down
+det	knife	a
+dobj	lay	knife
+dep	knife	horizontaly
+case	cloves	on
+det	cloves	the
+nmod:on	horizontaly	cloves
+cc	horizontaly	and
+conj:and	horizontaly	hit
+dobj	hit	it
+punct	lay	.

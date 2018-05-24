@@ -1,0 +1,11 @@
+det	ideology	The
+nsubjpass	built	ideology
+auxpass	built	was
+root	ROOT	built
+case	expansion	around
+amod	expansion	violent
+nmod:around	built	expansion
+cc	expansion	and
+compound	superiority	race
+conj:and	expansion	superiority
+punct	built	.

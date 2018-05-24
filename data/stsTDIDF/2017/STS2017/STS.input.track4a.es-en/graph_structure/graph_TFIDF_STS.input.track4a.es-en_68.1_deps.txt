@@ -1,0 +1,10 @@
+Grumpy	the	det
+figure	giant	amod
+figure	enlarged	amod
+Oscar	of	case
+Oscar	Grumpy	dep
+figure	out	case
+figure	Oscar	nmod:of
+figure	in	case
+lot	figure	acl:in_front_of
+figure	an	det

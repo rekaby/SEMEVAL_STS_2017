@@ -1,0 +1,3 @@
+water	outside	case
+man	water	nmod:near
+water	near	case

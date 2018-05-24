@@ -1,0 +1,8 @@
+det	man	The
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+advmod	running	away
+case	people	from
+nmod:from	running	people
+punct	running	.

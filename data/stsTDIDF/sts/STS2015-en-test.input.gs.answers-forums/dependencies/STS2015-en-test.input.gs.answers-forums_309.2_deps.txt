@@ -1,0 +1,14 @@
+nsubj	swimmer	I
+cop	swimmer	am
+advmod	swimmer	too
+det	swimmer	a
+compound	swimmer	hobby
+root	ROOT	swimmer
+cc	swimmer	but
+case	part	as
+conj:but	swimmer	part
+case	training	of
+nmod:poss	training	my
+compound	training	triathlon
+nmod:of	part	training
+punct	swimmer	.

@@ -1,0 +1,7 @@
+compound	hopefuls	GOP
+amod	hopefuls	presidential
+nsubj	clash	hopefuls
+root	ROOT	clash
+case	races	in
+compound	races	Southern
+nmod:in	clash	races

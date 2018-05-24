@@ -1,0 +1,9 @@
+compound	House	White
+nsubj	discuss	House
+punct	House	,
+compound	firms	defense
+appos	House	firms
+root	ROOT	discuss
+amod	spending	automatic
+dobj	discuss	spending
+dobj	discuss	cuts

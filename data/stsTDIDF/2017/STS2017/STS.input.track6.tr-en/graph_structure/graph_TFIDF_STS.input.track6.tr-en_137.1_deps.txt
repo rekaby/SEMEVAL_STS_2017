@@ -1,0 +1,9 @@
+hillside	a	det
+hiker	A	det
+bottom	hillside	nmod:of
+bottom	is	cop
+bottom	.	punct
+bottom	hiker	nsubj
+ROOT	bottom	root
+bottom	on	case
+hillside	of	case

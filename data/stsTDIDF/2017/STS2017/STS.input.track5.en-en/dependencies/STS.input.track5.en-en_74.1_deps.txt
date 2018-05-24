@@ -1,0 +1,10 @@
+det	women	The
+nummod	women	four
+nsubj	practicing	women
+aux	practicing	are
+root	ROOT	practicing
+case	match	for
+det	match	a
+amod	match	upcoming
+nmod:for	practicing	match
+punct	practicing	.

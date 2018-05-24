@@ -1,0 +1,8 @@
+nsubj	urges	Obama
+root	ROOT	urges
+amod	action	decisive
+dobj	urges	action
+case	crisis	on
+compound	crisis	Europe
+compound	crisis	debt
+nmod:on	action	crisis

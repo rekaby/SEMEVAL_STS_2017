@@ -1,0 +1,9 @@
+root	ROOT	Let
+nsubj	let	's
+ccomp	Let	let
+det	play	this
+dobj	let	play
+compound:prt	play	out
+case	court	in
+nmod:in	play	court
+punct	Let	.

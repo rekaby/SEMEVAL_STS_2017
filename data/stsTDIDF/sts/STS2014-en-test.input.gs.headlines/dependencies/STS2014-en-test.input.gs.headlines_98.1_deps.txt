@@ -1,0 +1,6 @@
+amod	quake	7.2-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+dobj	hits	Pakistan
+punct	hits	:
+dep	hits	CENC

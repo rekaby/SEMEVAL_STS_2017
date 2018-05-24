@@ -1,0 +1,13 @@
+det	wood	The
+nsubj	rotten	wood
+advmod	rotten	probably
+cop	rotten	is
+neg	rotten	n't
+root	ROOT	rotten
+punct	rotten	,
+nsubjpass	worn	it
+auxpass	worn	's
+advmod	worn	just
+ccomp	rotten	worn
+compound:prt	worn	out
+punct	rotten	.

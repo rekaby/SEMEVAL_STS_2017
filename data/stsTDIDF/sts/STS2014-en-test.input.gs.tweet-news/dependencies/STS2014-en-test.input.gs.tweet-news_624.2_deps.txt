@@ -1,0 +1,8 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+det	Point	The
+dep	Columnist	Point
+case	Armstrong	of
+compound	Armstrong	Lance
+nmod:of	Point	Armstrong

@@ -1,0 +1,17 @@
+det	states	the
+amod	states	united
+nsubj	said	states
+root	ROOT	said
+nsubj	stand	it
+aux	stand	would
+ccomp	said	stand
+compound:prt	stand	up
+mark	blackmail	to
+amod	blackmail	nuclear
+xcomp	stand	blackmail
+cc	stand	and
+aux	ruled	has
+conj:and	stand	ruled
+compound:prt	ruled	out
+dobj	ruled	negotiations
+punct	said	.

@@ -1,0 +1,10 @@
+nmod:tmod	hold	India
+punct	hold	,
+nsubj	hold	US
+mark	hold	to
+root	ROOT	hold
+dobj	hold	talks
+case	China	on
+nmod:on	talks	China
+amod	week	next
+nmod:tmod	hold	week

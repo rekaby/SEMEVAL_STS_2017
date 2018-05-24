@@ -1,0 +1,12 @@
+nsubj	calls	UNICEF
+root	ROOT	calls
+case	access	for
+amod	access	immediate
+amod	access	safe
+nmod:for	calls	access
+case	women	to
+nmod:to	access	women
+punct	calls	,
+dobj	calls	children
+case	Homs	in
+nmod:in	children	Homs

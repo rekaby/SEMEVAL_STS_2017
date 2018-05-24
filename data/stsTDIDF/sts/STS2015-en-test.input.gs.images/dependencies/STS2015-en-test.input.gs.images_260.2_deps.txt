@@ -1,0 +1,8 @@
+nummod	kids	Four
+nsubj	jumping	kids
+aux	jumping	are
+root	ROOT	jumping
+case	trampoline	on
+det	trampoline	a
+nmod:on	jumping	trampoline
+punct	jumping	.

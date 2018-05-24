@@ -1,0 +1,6 @@
+nsubj	collision	Dozens
+acl	Dozens	injured
+case	train	in
+compound	train	Connecticut
+nmod:in	injured	train
+root	ROOT	collision

@@ -1,0 +1,6 @@
+root	ROOT	People
+advmod	People	asleep
+case	couch	on
+det	couch	the
+nmod:on	asleep	couch
+punct	People	.

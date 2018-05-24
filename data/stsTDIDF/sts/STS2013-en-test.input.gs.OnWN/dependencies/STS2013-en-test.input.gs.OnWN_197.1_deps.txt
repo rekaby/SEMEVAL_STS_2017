@@ -1,0 +1,7 @@
+det	company	a
+root	ROOT	company
+nsubj	provides	that
+acl:relcl	company	provides
+amod	commodities	public
+compound	commodities	service
+dobj	provides	commodities

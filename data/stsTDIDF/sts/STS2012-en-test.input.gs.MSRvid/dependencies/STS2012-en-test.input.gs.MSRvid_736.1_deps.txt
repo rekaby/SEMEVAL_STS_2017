@@ -1,0 +1,16 @@
+det	pig	A
+amod	pig	small
+compound	pig	guinea
+nsubj	gnawing	pig
+cop	gnawing	is
+root	ROOT	gnawing
+cc	gnawing	and
+conj:and	gnawing	eating
+det	piece	a
+dobj	eating	piece
+case	carrot	of
+nmod:of	piece	carrot
+case	floor	on
+det	floor	the
+nmod:on	eating	floor
+punct	gnawing	.

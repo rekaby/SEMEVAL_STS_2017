@@ -1,0 +1,6 @@
+lighting	lamp	dobj
+lighting	.	punct
+lighting	floor	nmod:on
+lighting	Proven	nsubj
+ROOT	lighting	root
+lamp	the	det

@@ -1,0 +1,14 @@
+compound	negotiations	Budget
+nsubj	entering	negotiations
+case	mayor	between
+det	mayor	the
+nmod:between	negotiations	mayor
+cc	mayor	and
+det	Council	the
+compound	Council	City
+conj:and	mayor	Council
+aux	entering	are
+root	ROOT	entering
+amod	gear	high
+dobj	entering	gear
+punct	entering	.

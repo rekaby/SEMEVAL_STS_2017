@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	reenactment	a
+compound	reenactment	war
+nsubj	is	reenactment
+case	friends	among
+nmod:among	reenactment	friends
+punct	is	.

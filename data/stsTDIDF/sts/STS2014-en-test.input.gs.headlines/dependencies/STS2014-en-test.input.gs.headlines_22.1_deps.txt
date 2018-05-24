@@ -1,0 +1,8 @@
+nsubj	postponed	Protest
+case	strikes	against
+compound	strikes	US
+compound	strikes	drone
+nmod:against	Protest	strikes
+case	Pak	in
+nmod:in	strikes	Pak
+root	ROOT	postponed

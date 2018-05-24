@@ -1,0 +1,7 @@
+det	group	A
+nsubj	talking	group
+case	men	of
+nmod:of	group	men
+aux	talking	are
+root	ROOT	talking
+punct	talking	.

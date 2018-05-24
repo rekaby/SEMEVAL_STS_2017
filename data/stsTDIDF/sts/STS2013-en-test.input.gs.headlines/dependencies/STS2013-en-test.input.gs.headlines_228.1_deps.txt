@@ -1,0 +1,7 @@
+amod	troops	Syrian
+nsubj	kill	troops
+root	ROOT	kill
+dobj	kill	35
+case	Damascus	in
+nmod:in	kill	Damascus
+dobj	kill	suburb

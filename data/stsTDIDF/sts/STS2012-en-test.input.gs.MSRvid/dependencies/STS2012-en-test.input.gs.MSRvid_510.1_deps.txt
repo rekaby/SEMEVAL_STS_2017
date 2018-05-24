@@ -1,0 +1,6 @@
+det	monkey	A
+nsubj	playing	monkey
+aux	playing	is
+root	ROOT	playing
+dobj	playing	drums
+punct	playing	.

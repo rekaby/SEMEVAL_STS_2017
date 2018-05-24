@@ -1,0 +1,15 @@
+root	ROOT	suspected
+amod	militants	islamic
+nsubjpass	arrested	militants
+case	links	with
+amod	links	alleged
+compound	links	al-qaida
+nmod:with	militants	links
+aux	arrested	have
+auxpass	arrested	been
+ccomp	suspected	arrested
+case	malaysia	in
+nmod:in	arrested	malaysia
+cc	malaysia	and
+conj:and	malaysia	singapore
+punct	suspected	.

@@ -1,0 +1,11 @@
+compound	credits	Michael
+compound	credits	R.
+compound	credits	Bloomberg
+root	ROOT	credits
+dep	credits	#JohnsHopkinsUniversity
+mark	turning	for
+acl	#JohnsHopkinsUniversity	turning
+dobj	turning	him
+case	leader	into
+det	leader	a
+nmod:into	turning	leader

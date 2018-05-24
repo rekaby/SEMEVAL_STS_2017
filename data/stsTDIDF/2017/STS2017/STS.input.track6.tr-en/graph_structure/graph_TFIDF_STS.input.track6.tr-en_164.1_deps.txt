@@ -1,0 +1,11 @@
+cheering	.	punct
+male	of	case
+cheering	group	nsubj
+cheerleaders	female	amod
+ROOT	cheering	root
+male	cheerleaders	conj:and
+cheering	team	nmod:for
+cheering	are	aux
+male	and	cc
+group	male	nmod:of
+cheering	outside	advmod

@@ -1,0 +1,13 @@
+advmod	Posted	Originally
+root	ROOT	Posted
+case	Fox	by
+compound	Fox	Lone
+nmod:by	Posted	Fox
+nsubj	said	You
+aux	said	've
+ccomp	Posted	said
+dobj	said	that
+amod	times	multiple
+dep	that	times
+advmod	times	now
+punct	Posted	.

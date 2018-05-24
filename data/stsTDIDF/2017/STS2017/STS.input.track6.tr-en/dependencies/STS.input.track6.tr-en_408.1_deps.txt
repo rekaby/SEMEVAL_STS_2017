@@ -1,0 +1,13 @@
+nummod	children	Two
+root	ROOT	children
+acl	children	playing
+case	gym	on
+det	gym	an
+amod	gym	orange
+compound	gym	jungle
+nmod:on	playing	gym
+case	time	in
+det	time	the
+compound	time	winter
+nmod:in	gym	time
+punct	children	.

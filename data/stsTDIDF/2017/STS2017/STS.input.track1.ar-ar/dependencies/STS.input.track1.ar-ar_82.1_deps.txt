@@ -1,0 +1,11 @@
+amod	group	Competing
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	kind	in
+det	kind	a
+nmod:in	group	kind
+case	competitions	of
+compound	competitions	enemy
+nmod:of	kind	competitions
+punct	group	.

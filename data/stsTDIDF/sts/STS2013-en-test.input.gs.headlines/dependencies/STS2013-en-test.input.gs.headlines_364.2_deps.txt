@@ -1,0 +1,8 @@
+compound	man	US
+nsubj	recovers	man
+root	ROOT	recovers
+compound	years	car
+nummod	years	42
+dobj	recovers	years
+case	theft	after
+nmod:after	recovers	theft

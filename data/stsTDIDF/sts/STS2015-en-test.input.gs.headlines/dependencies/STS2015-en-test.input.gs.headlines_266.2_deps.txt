@@ -1,0 +1,10 @@
+compound	Kimura	Jiroemon
+root	ROOT	Kimura
+punct	Kimura	:
+nmod:poss	person	World
+case	World	's
+amod	person	oldest
+nsubj	dies	person
+dep	Kimura	dies
+amod	116	aged
+dobj	dies	116

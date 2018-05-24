@@ -1,0 +1,5 @@
+ROOT	surfing	root
+surfing	.	punct
+skateboarder	a	det
+surfing	skateboarder	nsubj
+surfing	is	aux

@@ -1,0 +1,9 @@
+compound	futures	Stock
+nsubj	edge	futures
+root	ROOT	edge
+advmod	edge	higher
+punct	edge	,
+det	eyes	all
+dobj	edge	eyes
+case	Fed	on
+nmod:on	eyes	Fed

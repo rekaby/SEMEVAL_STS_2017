@@ -1,0 +1,11 @@
+nsubj	grill	I
+root	ROOT	grill
+dobj	grill	salmon
+dobj	get	that
+nsubj	get	I
+acl:relcl	salmon	get
+case	skin	with
+det	skin	the
+nmod:with	get	skin
+advcl	get	on
+punct	grill	.

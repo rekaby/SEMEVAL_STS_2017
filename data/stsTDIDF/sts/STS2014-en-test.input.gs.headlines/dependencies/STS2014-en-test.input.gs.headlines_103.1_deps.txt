@@ -1,0 +1,6 @@
+nummod	trackers	Two
+compound	trackers	Santa
+root	ROOT	trackers
+acl	trackers	competing
+det	Christmas	this
+nmod:tmod	competing	Christmas

@@ -1,0 +1,16 @@
+det	problems	A
+amod	problems	few
+amod	problems	possible
+root	ROOT	problems
+punct	problems	:
+dep	seems	1
+punct	1	-RRB-
+det:predet	system	Such
+det	system	an
+compound	system	ID
+nsubj	seems	system
+dep	problems	seems
+det	intrusive	a
+amod	intrusive	little
+xcomp	seems	intrusive
+punct	seems	.

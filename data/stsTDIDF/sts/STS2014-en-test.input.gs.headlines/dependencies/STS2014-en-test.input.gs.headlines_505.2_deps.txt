@@ -1,0 +1,7 @@
+nsubj	feared	Three
+root	ROOT	feared
+amod	crash	dead
+case	pub	after
+compound	pub	helicopter
+nmod:after	dead	pub
+dobj	feared	crash

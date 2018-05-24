@@ -1,0 +1,9 @@
+amod	divide	Other
+root	ROOT	divide
+advmod	divide	unfortunately
+case	grudge	because
+mwe	because	of
+det	grudge	a
+nmod:because_of	unfortunately	grudge
+acl	grudge	accumulated
+punct	divide	.

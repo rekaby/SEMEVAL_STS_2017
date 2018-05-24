@@ -1,0 +1,7 @@
+case	short	In
+nmod:in	goal	short
+punct	goal	-
+amod	goal	victorious
+root	ROOT	goal
+case	Kovalev	for
+nmod:for	goal	Kovalev

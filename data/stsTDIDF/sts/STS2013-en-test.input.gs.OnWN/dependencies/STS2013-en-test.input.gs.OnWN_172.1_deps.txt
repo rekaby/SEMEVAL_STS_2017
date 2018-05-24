@@ -1,0 +1,6 @@
+det	state	a
+root	ROOT	state
+case	exposure	of
+nmod:of	state	exposure
+case	harm	to
+nmod:to	state	harm

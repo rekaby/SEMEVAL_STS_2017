@@ -1,0 +1,12 @@
+nsubj	move	chances
+aux	move	are
+nsubj	move	it
+aux	move	will
+root	ROOT	move
+advmod	middle	more
+case	middle	to
+det	middle	the
+nmod:to	move	middle
+case	time	over
+nmod:over	middle	time
+punct	move	.

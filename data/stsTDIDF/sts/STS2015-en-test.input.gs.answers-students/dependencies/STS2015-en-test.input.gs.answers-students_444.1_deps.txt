@@ -1,0 +1,12 @@
+compound	C	Bulb
+nsubjpass	contained	C
+cc	C	and
+det	battery	the
+conj:and	C	battery
+auxpass	contained	are
+neg	contained	not
+root	ROOT	contained
+case	pathway	in
+det	pathway	a
+amod	pathway	closed
+nmod:in	contained	pathway

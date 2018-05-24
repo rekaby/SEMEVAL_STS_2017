@@ -1,0 +1,7 @@
+chasing	geese	dobj
+chasing	.	punct
+geese	the	det
+chasing	is	aux
+ROOT	chasing	root
+dog	The	det
+chasing	dog	nsubj

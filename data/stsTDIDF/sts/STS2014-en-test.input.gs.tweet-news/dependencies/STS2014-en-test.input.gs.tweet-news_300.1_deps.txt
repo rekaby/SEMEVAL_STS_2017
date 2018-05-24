@@ -1,0 +1,17 @@
+punct	thinks	:
+compound	nut	Popular
+compound	nut	gun
+nsubj	thinks	nut
+dep	thinks	*
+acl	*	shot
+xcomp	shot	dead
+case	home	in
+amod	home	own
+nmod:in	dead	home
+punct	thinks	,
+nsubj	thinks	NRA
+root	ROOT	thinks
+nsubj	needed	he
+ccomp	thinks	needed
+amod	guns	more
+dobj	needed	guns

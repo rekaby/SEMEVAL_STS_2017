@@ -1,0 +1,12 @@
+root	ROOT	Strategies
+punct	Strategies	:
+compound	Isn?t	Apple
+compound	Isn?t	Stock
+dep	Strategies	Isn?t
+det	Bellwether	a
+nmod:npmod	Isn?t	Bellwether
+punct	Isn?t	,
+advmod	Big	Even
+case	Big	if
+compound	Big	It?s
+nmod:if	Isn?t	Big

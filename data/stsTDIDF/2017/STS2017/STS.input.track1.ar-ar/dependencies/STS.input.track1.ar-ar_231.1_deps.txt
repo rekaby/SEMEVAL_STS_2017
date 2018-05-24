@@ -1,0 +1,6 @@
+root	ROOT	Teenagers
+case	bus	on
+det	bus	a
+compound	bus	city
+nmod:on	Teenagers	bus
+punct	Teenagers	.

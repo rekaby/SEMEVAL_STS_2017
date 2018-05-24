@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+acl	dog	looking
+case	sheep	at
+det	sheep	a
+amod	sheep	brown
+nmod:at	looking	sheep
+case	pen	in
+det	pen	a
+nmod:in	looking	pen
+punct	dog	.

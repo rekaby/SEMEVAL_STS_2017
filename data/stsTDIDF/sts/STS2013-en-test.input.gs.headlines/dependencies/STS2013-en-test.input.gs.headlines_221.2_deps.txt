@@ -1,0 +1,8 @@
+nmod:poss	Morsi	Egypt
+case	Egypt	's
+compound	Morsi	President-Elect
+nsubj	Starts	Morsi
+root	ROOT	Starts
+mark	Form	to
+xcomp	Starts	Form
+dobj	Form	Government

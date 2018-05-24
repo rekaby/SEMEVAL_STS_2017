@@ -1,0 +1,5 @@
+det	man	A
+nsubj	cut	man
+root	ROOT	cut
+dobj	cut	fish
+punct	cut	.

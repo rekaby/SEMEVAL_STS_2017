@@ -1,0 +1,14 @@
+nsubjpass	intended	It
+auxpass	intended	is
+root	ROOT	intended
+mark	help	to
+xcomp	intended	help
+xcomp	help	reuse
+amod	code	existing
+dobj	reuse	code
+case	little	with
+nmod:with	reuse	little
+cc	little	or
+neg	modification	no
+conj:or	little	modification
+punct	intended	.

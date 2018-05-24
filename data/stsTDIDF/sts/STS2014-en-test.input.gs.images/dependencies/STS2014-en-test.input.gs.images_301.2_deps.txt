@@ -1,0 +1,13 @@
+det	man	A
+nsubj	sits	man
+root	ROOT	sits
+case	bed	on
+det	bed	a
+nmod:on	sits	bed
+advmod	television	very
+case	television	close
+mwe	close	to
+det	television	a
+amod	television	small
+nmod:close_to	bed	television
+punct	sits	.

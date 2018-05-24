@@ -1,0 +1,5 @@
+root	ROOT	stain
+case	substance	with
+det	substance	a
+amod	substance	dirty
+nmod:with	stain	substance

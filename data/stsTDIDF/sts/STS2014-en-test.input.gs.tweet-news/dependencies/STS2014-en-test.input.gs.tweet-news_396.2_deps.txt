@@ -1,0 +1,6 @@
+det	Preppers	The
+compound	Preppers	Doomsday
+root	ROOT	Preppers
+case	York	of
+compound	York	New
+nmod:of	Preppers	York

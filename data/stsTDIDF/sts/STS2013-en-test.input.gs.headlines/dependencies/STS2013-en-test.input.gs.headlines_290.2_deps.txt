@@ -1,0 +1,7 @@
+compound	court	Bahrain
+nsubj	upholds	court
+root	ROOT	upholds
+dobj	upholds	sentences
+case	leaders	against
+compound	leaders	uprising
+nmod:against	sentences	leaders

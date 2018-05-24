@@ -1,0 +1,5 @@
+bed	is	cop
+bed	.	punct
+bed	man	nsubj
+ROOT	bed	root
+bed	asleep	advmod

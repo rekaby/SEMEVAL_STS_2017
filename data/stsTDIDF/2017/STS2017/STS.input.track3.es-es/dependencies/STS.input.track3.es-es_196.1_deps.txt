@@ -1,0 +1,10 @@
+det	volunteers	Some
+nsubj	help	volunteers
+root	ROOT	help
+ccomp	help	clean
+compound:prt	clean	up
+case	meter	next
+mwe	next	to
+det	meter	a
+nmod:next_to	clean	meter
+punct	help	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	posing	man
+cc	man	and
+conj:and	man	woman
+aux	posing	are
+root	ROOT	posing
+case	camera	for
+det	camera	the
+nmod:for	posing	camera
+punct	posing	.

@@ -1,0 +1,6 @@
+det	boy	A
+nsubj	holds	boy
+root	ROOT	holds
+det	rope	a
+dobj	holds	rope
+punct	holds	.

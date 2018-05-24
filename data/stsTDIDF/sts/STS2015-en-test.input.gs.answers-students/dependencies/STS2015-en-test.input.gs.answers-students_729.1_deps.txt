@@ -1,0 +1,16 @@
+mark	is	if
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+advmod	light	there
+det	bulb	the
+nsubj	light	bulb
+aux	light	will
+neg	light	not
+acl:relcl	gap	light
+compound:prt	light	up
+punct	is	.

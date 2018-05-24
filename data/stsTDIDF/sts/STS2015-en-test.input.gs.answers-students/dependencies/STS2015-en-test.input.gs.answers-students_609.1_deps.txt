@@ -1,0 +1,13 @@
+det	battery	The
+nsubj	path	battery
+cc	battery	and
+det	bulb	the
+conj:and	battery	bulb
+aux	path	must
+cop	path	be
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path
+advmod	path	together
+punct	path	.

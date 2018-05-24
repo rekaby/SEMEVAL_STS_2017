@@ -1,0 +1,7 @@
+compound	Korea	N.
+nsubj	vows	Korea
+root	ROOT	vows
+mark	expand	to
+xcomp	vows	expand
+amod	deterrent	nuclear
+dobj	expand	deterrent

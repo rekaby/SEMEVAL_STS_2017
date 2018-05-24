@@ -1,0 +1,13 @@
+compound	Below	Eclipse
+nsubj	list	Below
+cop	list	are
+root	ROOT	list
+case	shortcuts	of
+compound	shortcuts	eclipse
+nmod:of	list	shortcuts
+dobj	use	which
+nsubj	use	I
+acl:relcl	shortcuts	use
+advmod	everyday	almost
+dobj	use	everyday
+punct	list	.

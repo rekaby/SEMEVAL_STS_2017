@@ -1,0 +1,17 @@
+amod	violations	human
+compound	violations	rights
+nsubj	include	violations
+case	myanmar	in
+nmod:in	violations	myanmar
+root	ROOT	include
+compound	executions	summary
+dobj	include	executions
+punct	executions	,
+conj:and	executions	torture
+cc	executions	and
+det	recruitment	the
+conj:and	executions	recruitment
+case	soldiers	of
+compound	soldiers	child
+nmod:of	recruitment	soldiers
+punct	include	.

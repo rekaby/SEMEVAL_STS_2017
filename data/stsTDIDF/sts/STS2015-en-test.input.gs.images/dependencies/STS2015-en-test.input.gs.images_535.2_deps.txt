@@ -1,0 +1,15 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	body	in
+det	body	a
+amod	body	large
+nmod:in	running	body
+case	water	of
+nmod:of	body	water
+xcomp	running	causing
+dobj	causing	it
+case	splash	to
+nmod:to	causing	splash
+punct	running	.

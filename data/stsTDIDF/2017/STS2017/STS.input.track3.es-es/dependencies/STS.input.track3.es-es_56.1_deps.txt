@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+det	ball	a
+nsubj	is	ball
+case	field	near
+det	field	the
+nmod:near	ball	field
+acl	field	doing
+advmod	run	where
+det	players	the
+nsubj	run	players
+advcl	doing	run

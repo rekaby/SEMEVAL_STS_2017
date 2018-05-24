@@ -1,0 +1,9 @@
+nsubj	meets	Obama
+root	ROOT	meets
+compound	family	Mandela
+dobj	meets	family
+mark	remains	as
+nsubj	remains	icon
+advcl	meets	remains
+case	hospital	in
+nmod:in	remains	hospital

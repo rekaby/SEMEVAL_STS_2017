@@ -1,0 +1,13 @@
+det	defense	The
+nsubj	appeal	defense
+aux	appeal	can
+neg	appeal	not
+root	ROOT	appeal
+nmod:poss	ruling	Roush
+case	Roush	's
+dobj	appeal	ruling
+case	trial	until
+case	trial	after
+det	trial	the
+nmod:after	appeal	trial
+punct	appeal	.

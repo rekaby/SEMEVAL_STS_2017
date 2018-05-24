@@ -1,0 +1,9 @@
+mark	happened	as
+mark	happened	to
+nsubj	happened	what
+root	ROOT	happened
+case	kid	to
+nmod:poss	kid	their
+amod	kid	missing
+nmod:to	happened	kid
+punct	happened	.

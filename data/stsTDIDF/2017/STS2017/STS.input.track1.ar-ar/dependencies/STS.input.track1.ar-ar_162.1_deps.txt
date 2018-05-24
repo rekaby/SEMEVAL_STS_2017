@@ -1,0 +1,7 @@
+det	male	A
+root	ROOT	male
+cc	male	and
+det	inside	a
+amod	inside	female
+conj:and	male	inside
+punct	male	.

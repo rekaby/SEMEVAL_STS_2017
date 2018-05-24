@@ -1,0 +1,4 @@
+coming	down	advmod
+person	coming	acl
+down	mountain	nmod:from
+mountain	from	case

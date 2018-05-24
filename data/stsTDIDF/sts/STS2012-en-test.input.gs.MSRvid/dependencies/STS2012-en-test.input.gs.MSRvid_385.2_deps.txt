@@ -1,0 +1,9 @@
+det	girls	Some
+amod	girls	teenage
+nsubj	dancing	girls
+aux	dancing	are
+root	ROOT	dancing
+case	camera	for
+det	camera	the
+nmod:for	dancing	camera
+punct	dancing	.

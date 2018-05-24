@@ -1,0 +1,13 @@
+case	repeat	to
+root	ROOT	repeat
+punct	repeat	:
+nsubj	NOT	They
+cop	NOT	are
+parataxis	repeat	NOT
+case	sovereign	as
+nmod:as	NOT	sovereign
+mark	before	as
+nsubj	before	they
+cop	before	were
+advcl	NOT	before
+punct	repeat	.

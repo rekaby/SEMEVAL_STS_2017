@@ -1,0 +1,13 @@
+root	ROOT	Russia
+punct	Russia	`
+root	`	alone
+punct	blaming	'
+mark	blaming	in
+dep	alone	blaming
+amod	rebels	Syrian
+dobj	blaming	rebels
+case	attack	for
+compound	attack	chemical
+nmod:for	blaming	attack
+punct	blaming	:
+dobj	blaming	US

@@ -1,0 +1,7 @@
+compound	Room	City
+root	ROOT	Room
+punct	Room	:
+compound	Building	Empire
+compound	Building	State
+compound	Shooting	Building
+dep	Room	Shooting

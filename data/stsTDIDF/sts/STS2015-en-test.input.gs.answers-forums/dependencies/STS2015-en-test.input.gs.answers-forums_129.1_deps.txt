@@ -1,0 +1,15 @@
+discourse	tell	Yes
+punct	tell	,
+nsubj	tell	I
+aux	tell	can
+root	ROOT	tell
+dobj	tell	you
+case	experience	from
+amod	experience	personal
+nmod:from	tell	experience
+mark	whistle	that
+nsubj	whistle	they
+advmod	whistle	certainly
+aux	whistle	did
+ccomp	experience	whistle
+punct	tell	.

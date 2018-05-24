@@ -1,0 +1,17 @@
+det	right	The
+nsubj	defining	right
+case	government	for
+det	government	a
+nmod:for	right	government
+mark	remove	to
+acl	right	remove
+advmod	constitution	arbitrarily
+nmod:poss	constitution	its
+dobj	remove	constitution
+aux	defining	is
+root	ROOT	defining
+xcomp	defining	characteristic
+case	tyranny	of
+det	tyranny	a
+nmod:of	characteristic	tyranny
+punct	defining	.

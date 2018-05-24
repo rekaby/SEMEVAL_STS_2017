@@ -1,0 +1,6 @@
+compound	streets	Protesters
+compound	streets	swamp
+root	ROOT	streets
+mark	reclaim	to
+acl	streets	reclaim
+dobj	reclaim	revolution

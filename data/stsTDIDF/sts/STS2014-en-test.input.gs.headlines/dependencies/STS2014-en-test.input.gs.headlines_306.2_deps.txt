@@ -1,0 +1,8 @@
+compound	yuan	China
+nsubj	weakens	yuan
+root	ROOT	weakens
+case	6.1818	to
+nmod:to	weakens	6.1818
+case	USD	against
+nmod:against	weakens	USD
+nmod:tmod	weakens	Tuesday

@@ -1,0 +1,12 @@
+det	terminal	the
+amod	terminal	positive
+nsubjpass	seperated	terminal
+auxpass	seperated	is
+neg	seperated	not
+root	ROOT	seperated
+case	gap	by
+det	gap	a
+nmod:agent	seperated	gap
+case	terminal	from
+nmod:from	gap	terminal
+nummod	seperated	5

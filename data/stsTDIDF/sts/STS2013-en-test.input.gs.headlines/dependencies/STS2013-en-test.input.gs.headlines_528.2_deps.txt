@@ -1,0 +1,7 @@
+amod	shifts	Romney
+nsubj	focus	shifts
+root	ROOT	focus
+case	Santorum	to
+nmod:to	focus	Santorum
+advmod	Santorum	ahead
+dobj	focus	caucuses

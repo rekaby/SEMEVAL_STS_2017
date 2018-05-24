@@ -1,0 +1,13 @@
+det	woman	A
+amod	woman	young
+nsubj	sits	woman
+case	purse	with
+det	purse	a
+amod	purse	black
+nmod:with	woman	purse
+root	ROOT	sits
+case	bench	on
+det	bench	a
+amod	bench	wooden
+nmod:on	sits	bench
+punct	sits	.

@@ -1,0 +1,17 @@
+advmod	far	So
+advmod	returned	far
+punct	returned	,
+nsubjpass	returned	Georgia
+aux	returned	has
+auxpass	returned	been
+root	ROOT	returned
+dobj	returned	all
+cc	all	but
+conj:but	all	$
+nummod	$	70,000
+case	money	of
+det	money	the
+nmod:of	all	money
+nsubj	wired	it
+acl:relcl	money	wired
+punct	returned	.

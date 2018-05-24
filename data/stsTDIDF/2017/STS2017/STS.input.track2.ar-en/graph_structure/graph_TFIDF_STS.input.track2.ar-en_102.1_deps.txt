@@ -1,0 +1,5 @@
+ROOT	field	root
+field	.	punct
+field	is	cop
+canine	A	det
+field	canine	nsubj

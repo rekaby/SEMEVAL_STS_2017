@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	young
+nsubj	jumping	boy
+case	trunks	in
+amod	trunks	red
+compound	trunks	swim
+nmod:in	boy	trunks
+aux	jumping	is
+root	ROOT	jumping
+case	pool	into
+det	pool	a
+nmod:into	jumping	pool
+punct	jumping	.

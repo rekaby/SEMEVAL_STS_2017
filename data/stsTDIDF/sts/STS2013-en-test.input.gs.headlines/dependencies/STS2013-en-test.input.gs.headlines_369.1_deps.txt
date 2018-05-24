@@ -1,0 +1,8 @@
+root	ROOT	Australian
+case	four	among
+nmod:among	Australian	four
+case	plane	on
+nmod:on	Australian	plane
+acl	plane	missing
+case	Indonesia	in
+nmod:in	missing	Indonesia

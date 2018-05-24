@@ -1,0 +1,13 @@
+det	boy	The
+nsubj	had	boy
+root	ROOT	had
+det	hat	a
+amod	hat	black
+dobj	had	hat
+cc	hat	and
+amod	shirt	red
+conj:and	hat	shirt
+case	skateboarding	on
+mark	skateboarding	while
+nmod:on	had	skateboarding
+punct	had	.

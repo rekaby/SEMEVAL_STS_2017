@@ -1,0 +1,8 @@
+det	states	Some
+amod	states	GOP-led
+nsubj	look	states
+root	ROOT	look
+case	vote	at
+amod	vote	electoral
+nmod:at	look	vote
+dobj	look	changes

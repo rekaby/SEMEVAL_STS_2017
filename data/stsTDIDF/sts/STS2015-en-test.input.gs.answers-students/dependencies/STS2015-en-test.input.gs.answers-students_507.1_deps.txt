@@ -1,0 +1,13 @@
+det	voltage	the
+nsubj	difference	voltage
+cop	difference	is
+det	difference	the
+root	ROOT	difference
+case	state	between
+det	state	the
+amod	state	electrical
+nmod:between	difference	state
+case	terminals	of
+det	terminals	the
+nmod:of	state	terminals
+punct	difference	.

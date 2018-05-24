@@ -1,0 +1,10 @@
+brown	and	cc
+tree	in	case
+fighting	area	nmod:on
+area	tree	nmod:in_front_of
+dogs	brown	amod
+fighting	dogs	nsubj
+area	grassy	amod
+area	on	case
+brown	white	conj:and
+dogs	Two	nummod

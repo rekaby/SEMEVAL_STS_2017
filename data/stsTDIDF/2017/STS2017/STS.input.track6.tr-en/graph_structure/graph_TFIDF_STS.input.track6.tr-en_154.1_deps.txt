@@ -1,0 +1,7 @@
+ROOT	dogs	root
+dogs	one	appos
+one	holding	acl
+dogs	,	punct
+dogs	Two	nummod
+holding	ball	dobj
+dogs	.	punct

@@ -1,0 +1,6 @@
+det	panda	A
+nsubj	lying	panda
+aux	lying	is
+root	ROOT	lying
+compound:prt	lying	down
+punct	lying	.

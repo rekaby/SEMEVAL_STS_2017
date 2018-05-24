@@ -1,0 +1,16 @@
+advmod	reference	Just
+case	reference	for
+nmod:for	ended	reference
+punct	ended	,
+nsubj	ended	I
+root	ROOT	ended
+compound:prt	ended	up
+xcomp	ended	writing
+amod	software	simple
+amod	software	web-based
+amod	software	lexical
+compound	software	decision
+compound	software	task
+dobj	writing	software
+nmod:npmod	writing	myself
+punct	ended	.

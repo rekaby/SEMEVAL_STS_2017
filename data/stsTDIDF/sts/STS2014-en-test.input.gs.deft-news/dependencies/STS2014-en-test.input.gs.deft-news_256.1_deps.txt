@@ -1,0 +1,10 @@
+det	states	the
+amod	states	united
+nsubj	dismissed	states
+root	ROOT	dismissed
+det	action	the
+dobj	dismissed	action
+mark	blackmail	as
+amod	blackmail	nuclear
+advcl	dismissed	blackmail
+punct	dismissed	.

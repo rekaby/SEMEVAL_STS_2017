@@ -1,0 +1,15 @@
+det	girl	A
+amod	girl	little
+nsubj	riding	girl
+case	shirt	in
+det	shirt	a
+amod	shirt	purple
+nmod:in	girl	shirt
+cc	shirt	and
+conj:and	shirt	helmet
+aux	riding	is
+root	ROOT	riding
+case	scooter	on
+det	scooter	a
+nmod:on	riding	scooter
+punct	riding	.

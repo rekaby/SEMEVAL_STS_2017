@@ -1,0 +1,12 @@
+compound	Title	Paper
+nsubj	better	Title
+punct	Title	,
+cop	better	Is
+nsubj	better	it
+root	ROOT	better
+mark	start	to
+xcomp	better	start
+case	verb	with
+det	verb	a
+nmod:with	start	verb
+punct	better	?

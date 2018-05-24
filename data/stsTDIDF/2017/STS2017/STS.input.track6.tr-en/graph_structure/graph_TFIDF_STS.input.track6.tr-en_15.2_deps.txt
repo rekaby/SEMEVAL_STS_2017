@@ -1,0 +1,7 @@
+sitting	boat	nmod:on
+sitting	man	nsubj
+hat	blue	amod
+man	hat	nmod:with
+boat	blue	amod
+hat	with	case
+boat	on	case

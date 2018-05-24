@@ -1,0 +1,5 @@
+root	ROOT	adhering
+case	principles	to
+amod	principles	moral
+nmod:to	adhering	principles
+punct	adhering	.

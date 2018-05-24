@@ -1,0 +1,11 @@
+compound	journalist	Sunday
+compound	journalist	Times
+nsubj	killed	journalist
+punct	journalist	,
+amod	photographer	French
+appos	journalist	photographer
+punct	journalist	`
+root	ROOT	killed
+case	Syria	in
+nmod:in	killed	Syria
+punct	killed	'

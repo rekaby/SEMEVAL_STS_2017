@@ -1,0 +1,9 @@
+det	man	A
+nsubj	riding	man
+cc	man	and
+conj:and	man	woman
+aux	riding	are
+root	ROOT	riding
+det	motorcycle	a
+dobj	riding	motorcycle
+punct	riding	.

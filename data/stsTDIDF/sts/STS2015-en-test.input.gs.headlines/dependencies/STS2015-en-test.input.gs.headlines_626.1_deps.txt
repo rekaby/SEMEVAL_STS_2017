@@ -1,0 +1,8 @@
+nsubj	backs	Iran
+root	ROOT	backs
+dobj	backs	proposal
+case	meeting	for
+nmod:for	backs	meeting
+case	Syria	on
+nmod:on	meeting	Syria
+dobj	backs	conflict

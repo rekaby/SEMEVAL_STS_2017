@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	little
+nsubj	holding	boy
+aux	holding	is
+root	ROOT	holding
+dobj	holding	hands
+case	someone	with
+nmod:with	holding	someone
+punct	holding	.

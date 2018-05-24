@@ -1,0 +1,9 @@
+root	ROOT	Outbound
+punct	Outbound	,
+appos	Outbound	links
+case	page	from
+nmod:poss	page	your
+nmod:from	links	page
+case	others	to
+nmod:to	links	others
+punct	Outbound	.

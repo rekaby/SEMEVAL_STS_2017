@@ -1,0 +1,10 @@
+nsubj	Says	France
+root	ROOT	Says
+ccomp	Says	Wo
+neg	Wo	n't
+punct	n't	`
+root	`	Shirk
+dobj	Shirk	Responsibilities
+case	Responsibilities	'
+case	Syria	in
+nmod:in	Responsibilities	Syria

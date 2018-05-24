@@ -1,0 +1,10 @@
+det	woman	a
+nsubj	sitting	woman
+cc	woman	and
+det	boy	a
+conj:and	woman	boy
+aux	sitting	are
+root	ROOT	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table

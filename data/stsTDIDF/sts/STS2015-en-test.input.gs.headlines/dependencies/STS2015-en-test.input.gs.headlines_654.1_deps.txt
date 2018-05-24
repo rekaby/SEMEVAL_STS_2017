@@ -1,0 +1,12 @@
+punct	dies	`
+amod	Walker	Fast
+cc	Fast	&
+conj:&	Fast	Furious
+punct	Walker	'
+compound	Walker	star
+compound	Walker	Paul
+nsubj	dies	Walker
+root	ROOT	dies
+case	crash	in
+compound	crash	car
+nmod:in	dies	crash

@@ -1,0 +1,6 @@
+det	doctor	A
+nsubj	prescribes	doctor
+root	ROOT	prescribes
+det	medicine	a
+dobj	prescribes	medicine
+punct	prescribes	.

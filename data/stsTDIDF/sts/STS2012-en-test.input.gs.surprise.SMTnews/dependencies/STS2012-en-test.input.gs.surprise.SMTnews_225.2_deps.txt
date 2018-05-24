@@ -1,0 +1,15 @@
+root	ROOT	But
+advmod	itself	just
+mark	itself	as
+det	Union	the
+compound	Union	European
+nsubj	itself	Union
+dep	But	itself
+punct	itself	,
+cc	itself	and
+mark	done	that
+nsubjpass	done	it
+aux	done	will
+auxpass	done	be
+conj:and	itself	done
+punct	But	.

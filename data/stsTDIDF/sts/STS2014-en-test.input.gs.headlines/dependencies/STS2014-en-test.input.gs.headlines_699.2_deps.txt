@@ -1,0 +1,9 @@
+nsubj	confirms	Senate
+root	ROOT	confirms
+compound	Yellen	Janet
+nsubj	Chair	Yellen
+case	Reserve	as
+amod	Reserve	next
+compound	Reserve	Federal
+nmod:as	Yellen	Reserve
+ccomp	confirms	Chair

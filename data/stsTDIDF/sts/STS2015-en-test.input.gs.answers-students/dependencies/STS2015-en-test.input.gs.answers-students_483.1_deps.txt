@@ -1,0 +1,15 @@
+mark	different	because
+det	states	the
+amod	states	electrical
+nsubj	different	states
+case	terminals	between
+det	terminals	the
+nummod	terminals	two
+compound	terminals	battery
+nmod:between	states	terminals
+aux	different	will
+cop	different	be
+root	ROOT	different
+neg	matter	no
+dobj	different	matter
+nummod	matter	what

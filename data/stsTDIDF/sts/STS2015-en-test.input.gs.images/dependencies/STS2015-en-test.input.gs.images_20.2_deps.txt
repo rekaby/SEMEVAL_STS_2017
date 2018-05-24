@@ -1,0 +1,14 @@
+det	man	A
+nsubj	sit	man
+cc	man	and
+compound	clothing	woman
+compound	clothing	dressedin
+amod	clothing	old
+compound	clothing	fashion
+conj:and	man	clothing
+root	ROOT	sit
+advmod	sit	outside
+case	table	at
+det	table	a
+nmod:at	sit	table
+punct	sit	.

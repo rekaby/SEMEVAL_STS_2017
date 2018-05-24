@@ -1,0 +1,14 @@
+nummod	girls	Two
+nsubj	walking	girls
+aux	walking	are
+root	ROOT	walking
+case	tree	by
+det	tree	a
+nmod:by	walking	tree
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+compound	building	brick
+nmod:in_front_of	walking	building
+punct	walking	.

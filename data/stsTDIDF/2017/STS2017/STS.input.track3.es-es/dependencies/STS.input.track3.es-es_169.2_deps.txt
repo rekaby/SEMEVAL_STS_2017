@@ -1,0 +1,11 @@
+det	man	A
+nsubj	working	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	working	are
+root	ROOT	working
+case	garden	in
+det	garden	a
+nmod:in	working	garden
+punct	working	.

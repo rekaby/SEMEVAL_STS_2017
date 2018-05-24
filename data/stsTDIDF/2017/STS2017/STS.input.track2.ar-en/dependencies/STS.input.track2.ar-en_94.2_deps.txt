@@ -1,0 +1,8 @@
+nsubj	have	Dog
+cc	Dog	and
+conj:and	Dog	chicken
+root	ROOT	have
+det	colors	the
+amod	colors	same
+dobj	have	colors
+punct	have	.

@@ -1,0 +1,6 @@
+det	man	The
+nsubj	holds	man
+root	ROOT	holds
+nmod:poss	guitar	his
+dobj	holds	guitar
+punct	holds	.

@@ -1,0 +1,4 @@
+root	ROOT	issue
+det	order	an
+dobj	issue	order
+punct	issue	.

@@ -1,0 +1,13 @@
+nsubj	spirit	That
+cop	spirit	is
+det	spirit	the
+root	ROOT	spirit
+case	which	in
+nmod:in	developed	which
+aux	developed	must
+auxpass	developed	be
+acl:relcl	spirit	developed
+det	Constitution	the
+amod	Constitution	European
+dobj	developed	Constitution
+punct	spirit	.

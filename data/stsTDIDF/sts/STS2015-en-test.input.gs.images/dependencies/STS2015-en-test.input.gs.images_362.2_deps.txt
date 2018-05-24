@@ -1,0 +1,13 @@
+det	baby	The
+nsubj	wearing	baby
+aux	wearing	is
+root	ROOT	wearing
+det	shirt	a
+amod	shirt	red
+dobj	wearing	shirt
+cc	wearing	and
+conj:and	wearing	walking
+case	plaza	in
+det	plaza	a
+nmod:in	walking	plaza
+punct	wearing	.

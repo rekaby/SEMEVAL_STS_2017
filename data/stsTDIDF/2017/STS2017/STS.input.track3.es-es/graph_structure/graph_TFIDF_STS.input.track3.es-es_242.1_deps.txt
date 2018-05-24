@@ -1,0 +1,7 @@
+guitar	and	cc
+sat	boy	nsubj
+guitar	next	case
+guitar	book	conj:and
+sat	guitar	nmod:next_to
+boy	blond	amod
+guitar	the	det

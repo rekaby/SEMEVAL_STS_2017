@@ -1,0 +1,7 @@
+amod	PM	Syrian
+nsubj	survives	PM
+root	ROOT	survives
+compound	attack	bomb
+dobj	survives	attack
+case	capital	in
+nmod:in	attack	capital

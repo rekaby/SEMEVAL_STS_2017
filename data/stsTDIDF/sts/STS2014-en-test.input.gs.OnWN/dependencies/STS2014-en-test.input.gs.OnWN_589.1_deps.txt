@@ -1,0 +1,14 @@
+root	ROOT	Make
+det	noise	a
+amod	noise	crushing
+dobj	Make	noise
+punct	Make	,
+advmod	result	possibly
+case	result	as
+det	result	the
+nmod:as	Make	result
+mark	pressing	of
+acl	result	pressing
+cc	pressing	or
+conj:or	pressing	grinding
+punct	Make	.

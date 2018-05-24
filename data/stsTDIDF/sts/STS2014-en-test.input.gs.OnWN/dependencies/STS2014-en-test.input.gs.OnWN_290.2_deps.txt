@@ -1,0 +1,9 @@
+root	ROOT	direct
+det	course	the
+dobj	direct	course
+acl	course	of
+punct	direct	;
+dep	direct	manage
+cc	manage	or
+conj:or	manage	control
+punct	direct	.

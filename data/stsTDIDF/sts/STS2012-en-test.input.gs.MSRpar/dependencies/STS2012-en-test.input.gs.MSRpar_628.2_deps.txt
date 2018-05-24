@@ -1,0 +1,15 @@
+compound	Sattler	General
+nsubj	heads	Sattler
+root	ROOT	heads
+det	Force	a
+amod	Force	Combined
+compound	Force	Joint
+compound	Force	Task
+dobj	heads	Force
+case	Whitney	aboard
+det	Whitney	the
+compound	Whitney	command
+compound	Whitney	ship
+compound	Whitney	Mount
+nmod:aboard	Force	Whitney
+punct	heads	.

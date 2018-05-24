@@ -1,0 +1,13 @@
+compound	storms	Eastern
+compound	storms	U.S.
+nsubj	leave	storms
+root	ROOT	leave
+nummod	dead	2
+dobj	leave	dead
+case	Va.	in
+nmod:in	dead	Va.
+punct	dead	,
+compound	million	2
+dep	dead	million
+case	power	without
+nmod:without	dead	power

@@ -1,0 +1,9 @@
+nsubj	given	Kagan
+aux	given	has
+root	ROOT	given
+neg	indication	no
+dobj	given	indication
+mark	will	that
+nsubj	will	he
+ccomp	indication	will
+punct	given	.

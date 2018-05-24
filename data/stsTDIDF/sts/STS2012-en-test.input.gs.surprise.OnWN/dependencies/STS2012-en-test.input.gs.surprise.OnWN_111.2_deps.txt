@@ -1,0 +1,5 @@
+root	ROOT	go
+compound:prt	go	up
+cc	go	or
+conj:or	go	advance
+punct	go	.

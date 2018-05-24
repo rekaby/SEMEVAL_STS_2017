@@ -1,0 +1,10 @@
+nsubj	say	I
+aux	say	'd
+root	ROOT	say
+nsubj	depends	it
+advmod	depends	primarily
+ccomp	say	depends
+case	things	on
+nummod	things	two
+nmod:on	depends	things
+punct	say	:

@@ -1,0 +1,5 @@
+ROOT	dives	root
+pool	into	case
+dives	.	punct
+dives	pool	nmod:into
+dives	girl	nsubj

@@ -1,0 +1,15 @@
+compound	wood	I
+nsubj	have	wood
+root	ROOT	have
+case	least	at
+nmod:npmod	asked	least
+xcomp	have	asked
+mark	question	if
+det	threesome	a
+nsubj	question	threesome
+cop	question	was
+case	question	out
+mwe	out	of
+det	question	the
+advcl:out_of	asked	question
+punct	have	.

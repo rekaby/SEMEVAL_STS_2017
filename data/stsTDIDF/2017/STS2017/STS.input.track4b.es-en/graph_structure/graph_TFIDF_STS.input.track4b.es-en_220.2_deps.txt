@@ -1,0 +1,11 @@
+Falling	love	nmod:in
+Falling	:	punct
+Hewlett	-RRB-	punct
+ROOT	Falling	root
+Hewlett	and	cc
+Falling	Hewlett	dep
+Hewlett	cold-calling	amod
+Hewlett	Bill	compound
+Hewlett	-LRB-	punct
+love	technology	nmod:with
+technology	with	case

@@ -1,0 +1,9 @@
+nsubj	true	this
+cop	true	is
+advmod	true	particularly
+root	ROOT	true
+case	countries	in
+det	countries	the
+amod	countries	poorest
+nmod:in	true	countries
+punct	true	.

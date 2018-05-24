@@ -1,0 +1,9 @@
+det	body	a
+root	ROOT	body
+case	students	of
+nmod:of	body	students
+nsubjpass	taught	who
+auxpass	taught	are
+acl:relcl	students	taught
+advmod	taught	together
+punct	body	.

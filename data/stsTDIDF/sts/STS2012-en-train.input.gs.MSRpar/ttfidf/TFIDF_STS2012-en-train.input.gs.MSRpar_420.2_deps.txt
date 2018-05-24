@@ -1,0 +1,23 @@
+punct average .-6) nsubj(jumped-2, DJI	15.060439779775294
+case Index while	15.060439779775294
+nmod:while jumped Index	15.060439779775294
+punct jumped .-14) nsubj(leapt-2, SPX	15.060439779775294
+nummod percent 2.23	15.060439779775294
+dobj leapt percent	15.060439779775294
+nummod percent 2.09	14.367292599215348
+root ROOT leapt	12.116000800608854
+punct leapt .	12.116000800608854
+nmod:poss Index Standard	11.563932218308814
+nummod Index 500	11.50509171828588
+root ROOT average	10.71663435792161
+dobj jumped percent	10.617788523284977
+det Standard the	10.617788523284977
+det average The	10.208409515855676
+compound average Jones	10.097595149515387
+amod average industrial	10.08370603735472
+compound average Dow	10.076833158066957
+conj:& Standard Poor	9.563271554482093
+cc Standard &	9.547011033610312
+punct jumped ,	9.542986883310586
+case Standard 's	9.53101069226387
+root ROOT jumped	9.26742617139115

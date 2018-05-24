@@ -1,0 +1,10 @@
+root	ROOT	make
+advmod	intense	more
+xcomp	make	intense
+punct	intense	,
+conj:or	intense	stronger
+punct	intense	,
+cc	intense	or
+advmod	marked	more
+conj:or	intense	marked
+punct	make	.

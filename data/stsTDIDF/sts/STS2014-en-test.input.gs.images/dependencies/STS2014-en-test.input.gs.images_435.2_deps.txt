@@ -1,0 +1,12 @@
+det	ship	An
+amod	ship	old
+amod	ship	fashioned
+amod	ship	wooden
+compound	ship	sailing
+nsubjpass	parked	ship
+auxpass	parked	is
+root	ROOT	parked
+case	pier	at
+det	pier	the
+nmod:at	parked	pier
+punct	parked	.

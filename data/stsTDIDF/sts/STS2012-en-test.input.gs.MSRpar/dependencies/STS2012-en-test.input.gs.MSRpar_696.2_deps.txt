@@ -1,0 +1,16 @@
+nummod	years	Two
+nmod:npmod	ago	years
+advmod	passed	ago
+punct	passed	,
+det	House	the
+nsubj	passed	House
+root	ROOT	passed
+det	version	a
+amod	version	similar
+dobj	passed	version
+nsubj	floundered	that
+acl:relcl	version	floundered
+case	Senate	in
+det	Senate	the
+nmod:in	floundered	Senate
+punct	passed	.

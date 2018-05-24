@@ -1,0 +1,6 @@
+det	band	A
+nsubj	playing	band
+aux	playing	is
+root	ROOT	playing
+dobj	playing	instruments
+punct	playing	.

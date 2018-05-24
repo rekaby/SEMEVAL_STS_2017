@@ -1,0 +1,5 @@
+dep	attach	fix
+dep	fix	to
+punct	fix	;
+root	ROOT	attach
+punct	attach	.

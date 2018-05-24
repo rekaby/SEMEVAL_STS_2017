@@ -1,0 +1,9 @@
+compound	leak	Liquid
+compound	leak	ammonia
+nsubj	kills	leak
+root	ROOT	kills
+case	least	at
+nmod:npmod	15	least
+dobj	kills	15
+case	Shanghai	in
+nmod:in	kills	Shanghai

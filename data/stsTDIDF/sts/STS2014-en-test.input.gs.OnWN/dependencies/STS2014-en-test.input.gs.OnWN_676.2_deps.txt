@@ -1,0 +1,10 @@
+det	date	the
+root	ROOT	date
+case	which	on
+nmod:on	repaid	which
+det	obligation	an
+nsubjpass	repaid	obligation
+aux	repaid	must
+auxpass	repaid	be
+acl:relcl	date	repaid
+punct	date	.

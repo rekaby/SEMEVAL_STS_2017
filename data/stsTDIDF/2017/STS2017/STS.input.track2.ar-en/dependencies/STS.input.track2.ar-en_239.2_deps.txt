@@ -1,0 +1,16 @@
+nsubj	seems	It
+root	ROOT	seems
+mark	gets	that
+det	man	a
+nsubj	gets	man
+ccomp	seems	gets
+det	lot	a
+dobj	gets	lot
+case	love	of
+nmod:of	lot	love
+case	shark	from
+det	shark	the
+amod	shark	great
+amod	shark	white
+nmod:from	gets	shark
+punct	seems	.

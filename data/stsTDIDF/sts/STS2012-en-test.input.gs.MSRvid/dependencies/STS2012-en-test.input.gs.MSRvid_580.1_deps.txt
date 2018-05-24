@@ -1,0 +1,12 @@
+nummod	women	Two
+nsubj	dancing	women
+aux	dancing	are
+root	ROOT	dancing
+cc	dancing	and
+conj:and	dancing	singing
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+nmod:in_front_of	singing	crowd
+punct	dancing	.

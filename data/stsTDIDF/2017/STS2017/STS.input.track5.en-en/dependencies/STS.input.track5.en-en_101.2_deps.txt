@@ -1,0 +1,7 @@
+det	person	The
+nsubj	making	person
+aux	making	is
+root	ROOT	making
+det	blanket	a
+dobj	making	blanket
+punct	making	.

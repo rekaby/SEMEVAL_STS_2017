@@ -1,0 +1,10 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	done	you
+aux	done	've
+advmod	much	pretty
+advmod	done	much
+ccomp	think	done
+nmod:poss	review	your
+dobj	done	review
+punct	think	.

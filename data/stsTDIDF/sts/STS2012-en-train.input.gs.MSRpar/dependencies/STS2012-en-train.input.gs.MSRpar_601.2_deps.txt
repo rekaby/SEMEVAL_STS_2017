@@ -1,0 +1,13 @@
+det	governor	The
+nsubj	going	governor
+aux	going	is
+root	ROOT	going
+case	Jackson	to
+nmod:to	going	Jackson
+punct	Jackson	,
+advmod	killed	where
+nummod	people	13
+nsubjpass	killed	people
+auxpass	killed	were
+acl:relcl	Jackson	killed
+punct	going	.

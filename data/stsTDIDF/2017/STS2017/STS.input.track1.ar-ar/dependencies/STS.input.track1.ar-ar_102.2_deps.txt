@@ -1,0 +1,6 @@
+nsubj	climbs	Climber
+root	ROOT	climbs
+case	dark	in
+det	dark	the
+nmod:in	climbs	dark
+punct	climbs	.

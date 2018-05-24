@@ -1,0 +1,6 @@
+nsubj	work	You
+root	ROOT	work
+case	it	on
+nmod:on	work	it
+advmod	work	slowly
+punct	work	.

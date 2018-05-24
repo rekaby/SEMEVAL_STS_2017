@@ -1,0 +1,8 @@
+det	train	A
+nsubj	running	train
+aux	running	is
+root	ROOT	running
+case	tracks	on
+det	tracks	the
+nmod:on	running	tracks
+punct	running	.

@@ -1,0 +1,9 @@
+root	ROOT	read
+det	little	a
+nmod:npmod	deeper	little
+advmod	read	deeper
+case	article	in
+det	article	the
+compound	article	wikipedia
+nmod:in	deeper	article
+punct	read	.

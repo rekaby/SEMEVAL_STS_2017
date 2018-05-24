@@ -1,0 +1,10 @@
+det	ship	A
+amod	ship	large
+compound	ship	cruise
+root	ROOT	ship
+case	harbor	in
+nmod:in	ship	harbor
+case	trees	with
+nmod:with	ship	trees
+acl	ship	behind
+punct	ship	.

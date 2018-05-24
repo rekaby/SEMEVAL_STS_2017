@@ -1,0 +1,7 @@
+compound	Hotel	Gunmen
+compound	Hotel	Attack
+root	ROOT	Hotel
+case	Province	In
+compound	Province	Remote
+compound	Province	Pakistani
+nmod:in	Hotel	Province

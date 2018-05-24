@@ -1,0 +1,6 @@
+nummod	Things	7
+root	ROOT	Things
+mark	Know	to
+acl	Things	Know
+case	Ethanol	About
+nmod:about	Know	Ethanol

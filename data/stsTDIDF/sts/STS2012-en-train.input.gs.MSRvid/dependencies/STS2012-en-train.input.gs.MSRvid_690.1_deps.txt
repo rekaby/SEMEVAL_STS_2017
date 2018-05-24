@@ -1,0 +1,10 @@
+det	person	A
+nsubj	putting	person
+aux	putting	is
+root	ROOT	putting
+amod	cheese	shredded
+dobj	putting	cheese
+case	pot	in
+det	pot	a
+nmod:in	putting	pot
+punct	putting	.

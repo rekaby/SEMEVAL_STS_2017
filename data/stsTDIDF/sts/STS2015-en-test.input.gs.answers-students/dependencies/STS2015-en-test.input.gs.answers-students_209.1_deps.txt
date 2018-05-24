@@ -1,0 +1,9 @@
+mark	has	because
+nsubj	has	it
+root	ROOT	has
+det	path	another
+amod	path	closed
+dobj	has	path
+nsubj	use	it
+aux	use	can
+acl:relcl	path	use

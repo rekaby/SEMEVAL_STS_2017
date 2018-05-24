@@ -1,0 +1,6 @@
+helping	.	punct
+helping	dressed	ccomp
+helping	man	nsubj
+dressed	someone	nsubjpass
+dressed	get	auxpass
+ROOT	helping	root

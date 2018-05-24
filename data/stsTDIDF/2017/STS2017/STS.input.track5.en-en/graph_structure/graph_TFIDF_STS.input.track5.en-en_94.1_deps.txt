@@ -1,0 +1,6 @@
+umbrella	an	det
+wields	umbrella	dobj
+wields	person	nsubj
+wields	.	punct
+person	One	nummod
+ROOT	wields	root

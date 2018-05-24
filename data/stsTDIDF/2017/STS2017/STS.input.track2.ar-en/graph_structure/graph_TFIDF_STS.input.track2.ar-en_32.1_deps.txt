@@ -1,0 +1,6 @@
+bunch	people	nmod:of
+bunch	.	punct
+ROOT	bunch	root
+gathered	beach	nmod:on
+bunch	A	det
+people	gathered	acl

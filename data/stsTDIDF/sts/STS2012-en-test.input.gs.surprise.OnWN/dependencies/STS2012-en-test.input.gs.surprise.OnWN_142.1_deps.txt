@@ -1,0 +1,3 @@
+root	ROOT	goal
+cc	goal	or
+conj:or	goal	objective

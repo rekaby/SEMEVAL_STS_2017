@@ -1,0 +1,5 @@
+swimming	.	punct
+kids	Two	nummod
+swimming	kids	nsubj
+swimming	are	aux
+ROOT	swimming	root

@@ -1,0 +1,6 @@
+det	aircraft	a
+amod	aircraft	military
+root	ROOT	aircraft
+nsubj	drops	that
+acl:relcl	aircraft	drops
+dobj	drops	ordinance

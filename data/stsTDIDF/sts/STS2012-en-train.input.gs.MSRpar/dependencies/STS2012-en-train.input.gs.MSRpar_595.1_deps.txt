@@ -1,0 +1,17 @@
+nsubj	attributed	He
+cc	He	and
+nmod:poss	colleagues	his
+conj:and	He	colleagues
+root	ROOT	attributed
+dobj	attributed	some
+case	gap	of
+det	gap	the
+compound	gap	communication
+nmod:of	some	gap
+case	doctors	to
+nmod:to	attributed	doctors
+auxpass	pressed	feeling
+acl	doctors	pressed
+case	time	for
+nmod:for	pressed	time
+punct	attributed	.

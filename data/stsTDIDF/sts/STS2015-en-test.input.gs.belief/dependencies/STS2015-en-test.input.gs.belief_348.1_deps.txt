@@ -1,0 +1,19 @@
+advmod	done	why
+aux	done	has
+neg	done	n't
+det	government	the
+compound	government	us
+nsubj	done	government
+root	ROOT	done
+xcomp	done	that
+punct	fake	-LRB-
+mark	fake	if
+det	affair	the
+nsubj	fake	affair
+cop	fake	is
+dep	that	fake
+punct	fake	,
+dep	fake	taht
+dep	fake	is
+punct	fake	.-18) root(ROOT-0, .
+punct	.	-RRB-

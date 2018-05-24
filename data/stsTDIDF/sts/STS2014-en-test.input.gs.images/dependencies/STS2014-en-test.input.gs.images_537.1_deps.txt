@@ -1,0 +1,8 @@
+det	sheep	A
+nsubj	standing	sheep
+root	ROOT	standing
+case	area	in
+det	area	a
+amod	area	mountainous
+nmod:in	standing	area
+punct	standing	.

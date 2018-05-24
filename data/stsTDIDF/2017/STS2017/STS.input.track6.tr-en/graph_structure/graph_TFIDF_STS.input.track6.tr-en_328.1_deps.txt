@@ -1,0 +1,8 @@
+wall	by	case
+tent	People	nsubj
+tent	a	det
+tent	.	punct
+tent	in	case
+tent	are	cop
+tent	wall	nmod:by
+ROOT	tent	root

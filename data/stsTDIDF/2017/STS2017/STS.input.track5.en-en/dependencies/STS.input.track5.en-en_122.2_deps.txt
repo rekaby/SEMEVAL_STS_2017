@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+acl	man	making
+compound	animals	balloon
+dobj	making	animals
+case	children	for
+nummod	children	two
+nmod:for	making	children
+case	corner	on
+det	corner	a
+compound	corner	street
+nmod:on	children	corner
+punct	man	.

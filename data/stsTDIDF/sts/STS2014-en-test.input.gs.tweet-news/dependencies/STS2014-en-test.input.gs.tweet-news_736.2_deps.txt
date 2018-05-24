@@ -1,0 +1,9 @@
+nsubj	Increasing	France
+aux	Increasing	Is
+root	ROOT	Increasing
+dobj	Increasing	Security
+case	Sites	at
+compound	Sites	Uranium
+nmod:at	Increasing	Sites
+case	Niger	in
+nmod:in	Increasing	Niger

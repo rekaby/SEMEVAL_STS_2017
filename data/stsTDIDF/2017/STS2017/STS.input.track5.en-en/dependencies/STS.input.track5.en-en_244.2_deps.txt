@@ -1,0 +1,7 @@
+nummod	dog	One
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+det	other	the
+dobj	chasing	other
+punct	chasing	.

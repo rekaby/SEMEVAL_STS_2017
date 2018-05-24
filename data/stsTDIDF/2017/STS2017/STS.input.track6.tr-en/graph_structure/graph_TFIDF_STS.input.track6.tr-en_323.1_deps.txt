@@ -1,0 +1,7 @@
+banner	white	amod
+people	sitting	acl
+people	banner	nsubj
+people	is	cop
+sitting	down	compound:prt
+banner	The	det
+people	behind	case

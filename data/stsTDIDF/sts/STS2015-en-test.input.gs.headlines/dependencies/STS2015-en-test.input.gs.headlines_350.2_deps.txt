@@ -1,0 +1,8 @@
+nmod:poss	day	Obama
+case	Obama	's
+root	ROOT	day
+punct	day	:
+compound	time	Prime
+dep	day	time
+case	Syria	on
+nmod:on	time	Syria

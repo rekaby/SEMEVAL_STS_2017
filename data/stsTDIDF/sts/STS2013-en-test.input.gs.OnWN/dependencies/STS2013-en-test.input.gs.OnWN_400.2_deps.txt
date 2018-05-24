@@ -1,0 +1,8 @@
+root	ROOT	sever
+cc	sever	or
+conj:or	sever	remove
+mark	pinching	by
+advcl	sever	pinching
+cc	pinching	or
+conj:or	pinching	snipping
+punct	sever	.

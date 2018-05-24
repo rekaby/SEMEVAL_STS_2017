@@ -1,0 +1,16 @@
+nsubj	has	Young
+root	ROOT	has
+nummod	days	28
+dobj	has	days
+mark	file	to
+acl	days	file
+det	response	a
+dobj	file	response
+cc	has	and
+conj:and	has	ask
+det	NASD	the
+dobj	ask	NASD
+case	hearing	for
+det	hearing	a
+nmod:for	ask	hearing
+punct	has	.

@@ -1,0 +1,10 @@
+det	boy	The
+nsubj	wearing	boy
+aux	wearing	is
+neg	wearing	not
+root	ROOT	wearing
+dobj	wearing	something
+case	head	on
+nmod:poss	head	his
+nmod:on	wearing	head
+punct	wearing	.

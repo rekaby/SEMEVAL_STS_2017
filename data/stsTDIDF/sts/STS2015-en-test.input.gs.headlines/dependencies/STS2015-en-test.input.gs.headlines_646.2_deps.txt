@@ -1,0 +1,6 @@
+nsubj	urges	Iran
+root	ROOT	urges
+amod	release	rapid
+dobj	urges	release
+case	diplomat	of
+nmod:of	release	diplomat

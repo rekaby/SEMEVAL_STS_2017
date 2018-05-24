@@ -1,0 +1,9 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	slice	a
+dobj	eating	slice
+case	pizza	of
+nmod:of	slice	pizza
+punct	eating	.

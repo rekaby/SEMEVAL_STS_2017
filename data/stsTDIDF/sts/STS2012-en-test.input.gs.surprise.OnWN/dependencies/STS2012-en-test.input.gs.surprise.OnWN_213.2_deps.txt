@@ -1,0 +1,8 @@
+root	ROOT	become
+xcomp	become	distinct
+cc	become	and
+conj:and	become	acquire
+det	character	a
+amod	character	different
+dobj	acquire	character
+punct	become	.

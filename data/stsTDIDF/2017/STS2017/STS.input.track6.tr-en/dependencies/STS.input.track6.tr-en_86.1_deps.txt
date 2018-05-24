@@ -1,0 +1,7 @@
+det	people	The
+nsubj	conversing	people
+aux	conversing	are
+root	ROOT	conversing
+case	weather	about
+det	weather	the
+nmod:about	conversing	weather

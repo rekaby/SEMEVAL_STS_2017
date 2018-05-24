@@ -1,0 +1,17 @@
+det	scene	A
+amod	scene	black
+cc	black	and
+conj:and	black	white
+root	ROOT	scene
+case	room	of
+det	room	a
+advmod	furnished	well
+amod	room	furnished
+nmod:of	scene	room
+case	view	with
+det	view	a
+nmod:with	room	view
+acl	view	outlooking
+det	forest	a
+dobj	outlooking	forest
+punct	scene	.

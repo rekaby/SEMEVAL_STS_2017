@@ -1,0 +1,8 @@
+nsubj	searches	Iraq
+root	ROOT	searches
+nsubj	bound	Syria
+ccomp	searches	bound
+compound	plane	Iran
+dobj	bound	plane
+punct	searches	:
+dep	searches	officials

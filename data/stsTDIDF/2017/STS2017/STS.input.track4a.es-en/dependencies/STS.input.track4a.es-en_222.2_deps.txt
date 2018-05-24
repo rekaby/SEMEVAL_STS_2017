@@ -1,0 +1,9 @@
+det	people	The
+nsubj	standing	people
+aux	standing	are
+root	ROOT	standing
+case	store	in
+det	store	a
+amod	store	crowded
+nmod:in	standing	store
+punct	standing	.

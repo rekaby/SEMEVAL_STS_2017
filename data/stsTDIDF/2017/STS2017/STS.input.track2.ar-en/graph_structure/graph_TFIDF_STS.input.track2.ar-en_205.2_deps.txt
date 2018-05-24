@@ -1,0 +1,11 @@
+wearing	jacket	dobj
+walking	top	nmod:to
+jacket	and	cc
+foot	on	case
+wearing	walking	dep
+trousers	brown	amod
+jacket	trousers	conj:and
+top	mountain	nmod:of
+mountain	of	case
+walking	foot	nmod:on
+jacket	blue	amod

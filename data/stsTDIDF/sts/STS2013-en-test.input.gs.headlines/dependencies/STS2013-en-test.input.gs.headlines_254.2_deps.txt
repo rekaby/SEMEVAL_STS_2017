@@ -1,0 +1,11 @@
+root	ROOT	Tens
+case	rally	of
+compound	rally	thousands
+nmod:of	Tens	rally
+case	rule	against
+nmod:poss	rule	Putin
+case	Putin	's
+nmod:against	rally	rule
+punct	AP	-LRB-
+appos	rule	AP
+punct	AP	-RRB-

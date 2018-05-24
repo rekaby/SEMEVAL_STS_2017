@@ -1,0 +1,6 @@
+nsubj	holds	Pakistan
+root	ROOT	holds
+amod	talks	direct
+dobj	holds	talks
+case	Taliban	with
+nmod:with	talks	Taliban

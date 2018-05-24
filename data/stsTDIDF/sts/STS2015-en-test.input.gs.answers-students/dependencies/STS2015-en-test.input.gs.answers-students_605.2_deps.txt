@@ -1,0 +1,7 @@
+nsubjpass	connected	Terminals
+dep	Terminals	1
+cc	1	and
+conj:and	1	6
+auxpass	connected	are
+neg	connected	not
+root	ROOT	connected

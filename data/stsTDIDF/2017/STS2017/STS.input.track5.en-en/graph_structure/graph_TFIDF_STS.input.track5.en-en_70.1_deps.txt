@@ -1,0 +1,10 @@
+night	late	advmod
+night	one	nummod
+while	watching	dep
+watching	night	nmod:tmod
+eats	popcorn	dobj
+eats	while	dep
+eats	.	punct
+watching	cartoons	dobj
+eats	man	nsubj
+ROOT	eats	root

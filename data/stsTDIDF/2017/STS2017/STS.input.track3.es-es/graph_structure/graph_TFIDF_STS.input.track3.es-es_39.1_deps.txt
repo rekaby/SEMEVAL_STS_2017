@@ -1,0 +1,10 @@
+watching	set	dobj
+alcove	in	case
+set	television	compound
+watching	man	nsubj
+watching	is	aux
+alcove	building	nmod:of
+alcove	the	det
+set	small	amod
+set	alcove	nmod:in
+building	red	amod

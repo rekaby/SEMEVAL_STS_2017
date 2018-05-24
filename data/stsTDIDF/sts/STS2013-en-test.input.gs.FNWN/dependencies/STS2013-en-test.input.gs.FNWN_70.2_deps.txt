@@ -1,0 +1,14 @@
+root	ROOT	give
+conj:or	give	give
+dobj	give	instructions
+case	somebody	to
+cc	to	or
+conj:or	to	direct
+nmod:direct	give	somebody
+nmod:to	give	somebody
+mark	do	to
+xcomp	give	do
+dobj	do	something
+case	authority	with
+nmod:with	something	authority
+punct	give	;

@@ -1,0 +1,7 @@
+nsubj	Carrying	Israel
+root	ROOT	Carrying
+case	Offensive	Out
+compound	Offensive	Ground
+nmod:out	Carrying	Offensive
+case	Gaza	In
+nmod:in	Offensive	Gaza

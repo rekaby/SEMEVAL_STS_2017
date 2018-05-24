@@ -1,0 +1,15 @@
+amod	countries	Other
+nsubjpass	owed	countries
+cc	countries	and
+amod	creditors	private
+conj:and	countries	creditors
+auxpass	owed	are
+root	ROOT	owed
+case	least	at
+nmod:npmod	$	least
+dobj	owed	$
+compound	billion	80
+nummod	$	billion
+case	addition	in
+nmod:in	$	addition
+punct	owed	.

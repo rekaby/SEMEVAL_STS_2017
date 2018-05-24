@@ -1,0 +1,12 @@
+compound	cabezas	puerto
+nsubj	located	cabezas
+cop	located	is
+root	ROOT	located
+nummod	km	557
+xcomp	located	km
+dep	km	northeast
+case	managua	of
+nmod:of	northeast	managua
+punct	managua	,
+appos	managua	nicaragua
+punct	located	.

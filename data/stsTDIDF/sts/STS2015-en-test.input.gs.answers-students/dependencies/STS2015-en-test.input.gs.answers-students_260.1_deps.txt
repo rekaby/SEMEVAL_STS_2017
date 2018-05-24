@@ -1,0 +1,13 @@
+det	battery	The
+nsubj	need	battery
+cc	battery	and
+conj:and	battery	bulb
+root	ROOT	need
+mark	path	to
+cop	path	be
+case	path	in
+det	path	a
+amod	path	closed
+xcomp	need	path
+advmod	path	together
+punct	need	.

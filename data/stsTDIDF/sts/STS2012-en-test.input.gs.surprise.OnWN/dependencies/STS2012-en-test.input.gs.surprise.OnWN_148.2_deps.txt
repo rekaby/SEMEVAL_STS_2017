@@ -1,0 +1,14 @@
+det	covering	a
+amod	covering	protective
+root	ROOT	covering
+acl	covering	consisting
+case	netting	of
+nmod:of	consisting	netting
+punct	covering	;
+aux	mounted	can
+auxpass	mounted	be
+parataxis	covering	mounted
+case	frame	in
+det	frame	a
+nmod:in	mounted	frame
+punct	covering	.

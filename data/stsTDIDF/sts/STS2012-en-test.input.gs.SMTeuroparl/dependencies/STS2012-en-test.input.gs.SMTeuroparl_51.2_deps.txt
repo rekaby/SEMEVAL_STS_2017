@@ -1,0 +1,17 @@
+expl	was	There
+root	ROOT	was
+neg	voting	no
+advmod	qualified	more
+amod	voting	qualified
+compound	voting	majority
+nsubj	was	voting
+case	Parliament	in
+det	Parliament	this
+nmod:in	voting	Parliament
+mark	come	to
+dep	was	come
+advmod	come	back
+case	Article	to
+nmod:to	come	Article
+nummod	Article	272
+punct	was	.

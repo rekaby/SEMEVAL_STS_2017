@@ -1,0 +1,6 @@
+compound	president	Micronesia
+compound	president	vice
+root	ROOT	president
+mark	visit	to
+acl	president	visit
+dobj	visit	China

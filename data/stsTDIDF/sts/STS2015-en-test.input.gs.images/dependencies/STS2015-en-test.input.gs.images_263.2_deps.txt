@@ -1,0 +1,10 @@
+det	boy	A
+root	ROOT	boy
+case	slides	in
+amod	slides	red
+nmod:in	boy	slides
+case	ride	down
+det	ride	an
+amod	ride	inflatable
+nmod:down	slides	ride
+punct	boy	.

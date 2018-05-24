@@ -1,0 +1,9 @@
+compound	shares	Google
+nsubj	soar	shares
+root	ROOT	soar
+xcomp	soar	past
+dobj	past	$
+nummod	$	1,000
+case	earnings	on
+amod	earnings	strong
+nmod:on	$	earnings

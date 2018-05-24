@@ -1,0 +1,8 @@
+compound	airstrikes	Israel
+nsubj	kill	airstrikes
+root	ROOT	kill
+compound	commander	Hamas
+dobj	kill	commander
+punct	kill	,
+nummod	others	5
+dobj	kill	others

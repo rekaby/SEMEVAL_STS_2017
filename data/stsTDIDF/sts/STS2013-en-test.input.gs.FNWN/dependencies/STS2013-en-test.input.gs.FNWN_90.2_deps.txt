@@ -1,0 +1,12 @@
+det	sequence	a
+root	ROOT	sequence
+case	numbers	of
+nmod:of	sequence	numbers
+cc	numbers	or
+conj:or	numbers	letters
+nsubj	opens	that
+acl:relcl	numbers	opens
+det	lock	a
+compound	lock	combination
+dobj	opens	lock
+punct	sequence	;

@@ -1,0 +1,17 @@
+nsubj	form	This
+cop	form	is
+advmod	form	still
+det	form	a
+amod	form	representational
+root	ROOT	form
+case	t	of
+compound	t	gov
+punct	t	`
+nmod:of	form	t
+punct	form	,
+cc	form	but
+case	twist	with
+det	twist	a
+amod	twist	unique
+conj:but	form	twist
+punct	form	.

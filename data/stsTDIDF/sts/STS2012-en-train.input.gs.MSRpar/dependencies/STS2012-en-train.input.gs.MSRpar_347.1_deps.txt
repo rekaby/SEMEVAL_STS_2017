@@ -1,0 +1,17 @@
+det	companies	The
+amod	companies	new
+nsubj	begin	companies
+aux	begin	will
+root	ROOT	begin
+xcomp	begin	trading
+case	Nasdaq	on
+nmod:on	trading	Nasdaq
+nmod:tmod	trading	today
+case	symbols	under
+det	symbols	the
+compound	symbols	ticker
+nmod:under	trading	symbols
+dep	symbols	PLMO
+cc	PLMO	and
+conj:and	PLMO	PSRC
+punct	begin	.

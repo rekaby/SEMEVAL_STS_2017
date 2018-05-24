@@ -1,0 +1,9 @@
+nsubj	calls	Quartet
+root	ROOT	calls
+case	Israelis	on
+nmod:on	end	Israelis
+punct	Israelis	,
+nsubj	end	Palestinians
+mark	end	to
+ccomp	calls	end
+dobj	end	irritants

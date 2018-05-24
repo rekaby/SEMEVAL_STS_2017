@@ -1,0 +1,8 @@
+det	toll	The
+amod	toll	deadly
+root	ROOT	toll
+case	bombs	of
+compound	bombs	cluster
+nmod:of	toll	bombs
+case	#Syria	in
+nmod:in	toll	#Syria

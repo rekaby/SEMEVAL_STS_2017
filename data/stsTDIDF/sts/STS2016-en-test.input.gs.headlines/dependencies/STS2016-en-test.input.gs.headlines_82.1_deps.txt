@@ -1,0 +1,12 @@
+nsubj	warns	UN
+root	ROOT	warns
+case	plight	of
+nmod:of	warns	plight
+case	women	of
+nmod:of	plight	women
+punct	warns	,
+dobj	warns	children
+case	Homs	in
+nmod:poss	Homs	Syria
+case	Syria	's
+nmod:in	children	Homs

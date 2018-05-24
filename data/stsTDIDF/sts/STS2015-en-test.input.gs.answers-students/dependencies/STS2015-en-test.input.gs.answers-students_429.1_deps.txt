@@ -1,0 +1,13 @@
+nsubjpass	contained	B
+cc	B	and
+conj:and	B	C
+auxpass	contained	were
+advmod	contained	still
+root	ROOT	contained
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+nmod:in	contained	circuit
+case	battery	with
+det	battery	the
+nmod:with	circuit	battery

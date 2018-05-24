@@ -1,0 +1,13 @@
+det	suit	The
+nsubjpass	filed	suit
+auxpass	filed	was
+root	ROOT	filed
+case	Court	in
+det	Court	the
+compound	Court	Supreme
+nmod:in	filed	Court
+case	County	of
+compound	County	New
+compound	County	York
+nmod:of	Court	County
+punct	filed	.

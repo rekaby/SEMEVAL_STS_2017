@@ -1,0 +1,13 @@
+root	ROOT	make
+det	movement	a
+amod	movement	sudden
+dobj	make	movement
+case	direction	in
+det	direction	a
+amod	direction	new
+nmod:in	movement	direction
+advmod	avoid	so
+mark	avoid	as
+mark	avoid	to
+acl	direction	avoid
+punct	make	.

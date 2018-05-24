@@ -1,0 +1,15 @@
+nsubj	reached	You
+aux	reached	have
+root	ROOT	reached
+det	point	a
+dobj	reached	point
+advmod	connected	where
+det	terminals	the
+nsubjpass	connected	terminals
+auxpass	connected	are
+neg	connected	not
+acl:relcl	point	connected
+case	other	to
+det	other	each
+nmod:to	connected	other
+punct	reached	.

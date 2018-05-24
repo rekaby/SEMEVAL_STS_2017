@@ -1,0 +1,8 @@
+nummod	men	Seven
+nsubj	praying	men
+aux	praying	were
+root	ROOT	praying
+case	church	in
+det	church	the
+nmod:in	praying	church
+punct	praying	.

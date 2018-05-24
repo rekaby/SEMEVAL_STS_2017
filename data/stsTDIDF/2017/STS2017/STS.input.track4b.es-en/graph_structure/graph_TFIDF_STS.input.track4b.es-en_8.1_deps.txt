@@ -1,0 +1,12 @@
+be	goal	nsubj
+chatter	activity	nmod:of
+chatter	away	case
+chatter	constant	amod
+chatter	the	det
+goal	our	nmod:poss
+be	Rather	advmod
+activity	technology	conj:and
+be	feel	xcomp
+activity	and	cc
+feel	comfortable	xcomp
+comfortable	chatter	nmod:away_from

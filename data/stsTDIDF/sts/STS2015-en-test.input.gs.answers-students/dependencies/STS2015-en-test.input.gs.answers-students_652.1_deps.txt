@@ -1,0 +1,14 @@
+det	path	the
+amod	path	closed
+nsubj	existed	path
+advmod	existed	still
+root	ROOT	existed
+case	A	for
+compound	A	bulb
+nmod:for	existed	A
+advmod	open	even
+mark	open	though
+compound	Y	switch
+nsubjpass	open	Y
+auxpass	open	was
+advcl	existed	open

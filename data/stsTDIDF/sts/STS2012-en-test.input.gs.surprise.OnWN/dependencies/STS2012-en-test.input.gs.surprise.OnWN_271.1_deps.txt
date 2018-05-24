@@ -1,0 +1,6 @@
+root	ROOT	administrator
+punct	administrator	,
+appos	administrator	one
+nsubj	controls	who
+acl:relcl	one	controls
+dobj	controls	resources

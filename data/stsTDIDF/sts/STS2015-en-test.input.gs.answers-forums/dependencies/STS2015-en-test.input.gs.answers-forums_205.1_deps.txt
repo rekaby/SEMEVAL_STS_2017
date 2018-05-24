@@ -1,0 +1,17 @@
+nsubj	put	We
+advmod	put	always
+root	ROOT	put
+nsubj	crushed	it
+ccomp	put	crushed
+conj:or	crushed	crushed
+compound:prt	crushed	up
+case	bit	in
+det	bit	a
+nmod:in	crushed	bit
+case	butter	of
+nmod:of	bit	butter
+cc	crushed	or
+case	sardine	on
+det	sardine	a
+nmod:on	crushed	sardine
+punct	put	.

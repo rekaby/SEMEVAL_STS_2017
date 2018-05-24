@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	relaxes	woman
+root	ROOT	relaxes
+case	tube	in
+det	tube	an
+amod	tube	inner
+nmod:in	relaxes	tube
+punct	relaxes	.

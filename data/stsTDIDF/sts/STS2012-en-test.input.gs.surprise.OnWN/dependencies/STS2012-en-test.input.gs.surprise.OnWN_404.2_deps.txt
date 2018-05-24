@@ -1,0 +1,6 @@
+root	ROOT	provide
+case	seat	with
+det	seat	a
+amod	seat	new
+nmod:with	provide	seat
+punct	provide	.

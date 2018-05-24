@@ -1,0 +1,5 @@
+participants	team	nmod:on
+team	each	det
+participants	70	nummod
+team	field	nmod:on
+are	participants	nsubj

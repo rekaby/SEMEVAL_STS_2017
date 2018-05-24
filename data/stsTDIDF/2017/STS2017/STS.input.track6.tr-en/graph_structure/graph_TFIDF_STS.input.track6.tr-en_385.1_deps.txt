@@ -1,0 +1,4 @@
+sleeping	is	aux
+bed	bunk	compound
+sleeping	girl	nsubj
+sleeping	bed	nmod:in

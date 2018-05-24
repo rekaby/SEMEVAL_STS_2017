@@ -1,0 +1,12 @@
+root	ROOT	Man
+case	shorts	in
+amod	shorts	red
+nmod:in	Man	shorts
+cc	shorts	and
+amod	shirt	white
+conj:and	shorts	shirt
+acl	shirt	kicking
+det	ball	a
+compound	ball	soccer
+dobj	kicking	ball
+punct	Man	.

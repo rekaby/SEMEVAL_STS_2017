@@ -1,0 +1,11 @@
+nummod	boys	Two
+amod	boys	skinny
+amod	boys	young
+root	ROOT	boys
+acl	boys	playing
+case	sand	with
+nmod:with	playing	sand
+case	water	in
+det	water	the
+nmod:in	playing	water
+punct	boys	.

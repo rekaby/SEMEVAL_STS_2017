@@ -1,0 +1,8 @@
+det	terminals	The
+nsubj	state	terminals
+cop	state	are
+case	state	in
+det	state	the
+amod	state	same
+root	ROOT	state
+punct	state	.

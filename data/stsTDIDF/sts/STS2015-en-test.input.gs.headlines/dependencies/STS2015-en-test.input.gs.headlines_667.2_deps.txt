@@ -1,0 +1,6 @@
+compound	earthquake	02:41
+nummod	earthquake	156
+acl	156	killed
+case	China	in
+nmod:in	killed	China
+root	ROOT	earthquake

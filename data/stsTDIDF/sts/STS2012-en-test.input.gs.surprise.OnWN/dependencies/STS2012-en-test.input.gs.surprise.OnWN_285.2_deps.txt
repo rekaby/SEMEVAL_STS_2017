@@ -1,0 +1,11 @@
+root	ROOT	someone
+punct	something	-LRB-
+cc	something	or
+dep	someone	something
+punct	something	-RRB-
+case	which	on
+nmod:on	centered	which
+nsubjpass	centered	expectations
+auxpass	centered	are
+acl:relcl	something	centered
+punct	something	.

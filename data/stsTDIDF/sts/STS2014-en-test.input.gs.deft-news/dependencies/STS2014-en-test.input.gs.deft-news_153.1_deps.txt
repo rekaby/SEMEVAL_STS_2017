@@ -1,0 +1,16 @@
+det	statement	the
+nsubj	specify	statement
+aux	specify	did
+neg	specify	not
+root	ROOT	specify
+det	quantity	the
+dobj	specify	quantity
+case	warheads	of
+nmod:of	quantity	warheads
+det	missile	the
+nsubj	capable	missile
+cop	capable	is
+acl:relcl	warheads	capable
+mark	carrying	of
+advcl	capable	carrying
+punct	specify	.

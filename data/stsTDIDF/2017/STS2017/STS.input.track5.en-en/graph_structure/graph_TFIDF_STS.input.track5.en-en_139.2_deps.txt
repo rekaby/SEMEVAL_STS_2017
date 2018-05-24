@@ -1,0 +1,6 @@
+professionals	.	punct
+professionals	medical	amod
+professionals	look	nmod:in
+look	green	amod
+professionals	Two	nummod
+ROOT	professionals	root

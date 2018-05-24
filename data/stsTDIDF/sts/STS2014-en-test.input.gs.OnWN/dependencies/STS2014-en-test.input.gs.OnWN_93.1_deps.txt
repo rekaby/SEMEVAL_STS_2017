@@ -1,0 +1,7 @@
+root	ROOT	give
+compound	explanations	interlinear
+dobj	give	explanations
+cc	explanations	or
+conj:or	explanations	citations
+case	text	for
+nmod:for	give	text

@@ -1,0 +1,12 @@
+amod	investigators	russian
+nsubj	stated	investigators
+root	ROOT	stated
+mark	cover	that
+det	company	the
+amod	company	british
+nsubj	cover	company
+cop	cover	was
+det	cover	a
+compound	cover	cia
+ccomp	stated	cover
+punct	stated	.

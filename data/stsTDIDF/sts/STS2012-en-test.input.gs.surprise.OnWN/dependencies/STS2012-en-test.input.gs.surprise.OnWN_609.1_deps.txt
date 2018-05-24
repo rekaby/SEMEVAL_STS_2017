@@ -1,0 +1,6 @@
+root	ROOT	interfere
+mark	activity	with
+nsubj	activity	someone
+nmod:poss	activity	else
+case	else	's
+advcl	interfere	activity

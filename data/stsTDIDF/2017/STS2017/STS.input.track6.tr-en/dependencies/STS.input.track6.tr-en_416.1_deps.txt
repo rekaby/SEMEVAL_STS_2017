@@ -1,0 +1,17 @@
+det	pipe	A
+amod	pipe	large
+amod	pipe	white
+nsubjpass	lowered	pipe
+aux	lowered	is
+auxpass	lowered	being
+root	ROOT	lowered
+case	trailer	on
+det	trailer	a
+nmod:on	lowered	trailer
+punct	lowered	,
+mark	stand	as
+nummod	workers	two
+nsubj	stand	workers
+advcl	lowered	stand
+advmod	stand	by
+punct	lowered	.

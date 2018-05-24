@@ -1,0 +1,7 @@
+amod	gentleman	Older
+root	ROOT	gentleman
+acl	gentleman	looking
+case	motorcycle	at
+amod	motorcycle	red
+nmod:at	looking	motorcycle
+punct	gentleman	.

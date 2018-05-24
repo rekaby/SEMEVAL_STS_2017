@@ -1,0 +1,5 @@
+compound	official	Security
+root	ROOT	official
+acl	official	killed
+case	Yemen	in
+nmod:in	killed	Yemen

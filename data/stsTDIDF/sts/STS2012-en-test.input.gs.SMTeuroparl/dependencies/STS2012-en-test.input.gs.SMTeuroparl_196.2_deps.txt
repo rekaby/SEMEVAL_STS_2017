@@ -1,0 +1,14 @@
+nsubj	is	It
+root	ROOT	is
+mark	involved	that
+det	Union	the
+compound	Union	European
+nsubjpass	involved	Union
+auxpass	involved	is
+ccomp	is	involved
+cc	involved	and
+mark	soon	that
+nsubj	soon	it
+aux	soon	will
+conj:and	involved	soon
+punct	is	.

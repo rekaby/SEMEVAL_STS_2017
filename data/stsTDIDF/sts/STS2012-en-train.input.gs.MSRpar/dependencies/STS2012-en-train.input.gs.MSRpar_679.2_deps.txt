@@ -1,0 +1,17 @@
+case	slump	Besides
+det	slump	a
+compound	slump	sales
+nmod:besides	sparring	slump
+punct	sparring	,
+nsubj	sparring	Siebel
+aux	sparring	is
+root	ROOT	sparring
+case	shareholders	with
+det	shareholders	some
+nmod:with	sparring	shareholders
+case	windfalls	over
+compound	windfalls	management
+compound	windfalls	stock
+compound	windfalls	option
+nmod:over	shareholders	windfalls
+punct	sparring	.

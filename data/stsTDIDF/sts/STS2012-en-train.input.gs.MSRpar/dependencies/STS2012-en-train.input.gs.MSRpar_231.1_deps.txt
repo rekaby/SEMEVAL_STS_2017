@@ -1,0 +1,11 @@
+nsubjpass	found	Monkeypox
+auxpass	found	is
+advmod	found	usually
+root	ROOT	found
+advmod	central	only
+case	central	in
+nmod:in	found	central
+cc	central	and
+amod	Africa	western
+conj:and	central	Africa
+punct	found	.

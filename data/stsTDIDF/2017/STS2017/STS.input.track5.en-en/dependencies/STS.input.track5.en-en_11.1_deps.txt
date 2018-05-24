@@ -1,0 +1,7 @@
+det	cyclists	Some
+nsubj	stop	cyclists
+root	ROOT	stop
+case	sign	near
+det	sign	a
+nmod:near	stop	sign
+punct	stop	.

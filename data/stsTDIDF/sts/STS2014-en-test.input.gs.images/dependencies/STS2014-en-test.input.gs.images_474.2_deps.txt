@@ -1,0 +1,7 @@
+det	woman	A
+root	ROOT	woman
+case	horse	with
+det	horse	a
+amod	horse	white
+nmod:with	woman	horse
+punct	woman	.

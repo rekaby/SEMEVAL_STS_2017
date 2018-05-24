@@ -1,0 +1,5 @@
+amod	paths	closed
+root	ROOT	paths
+case	battery	from
+det	battery	the
+nmod:from	paths	battery

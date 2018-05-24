@@ -1,0 +1,7 @@
+compound	Boom	Washington?s
+compound	Boom	Economic
+root	ROOT	Boom
+punct	Boom	,
+acl	Boom	Financed
+case	You	by
+nmod:by	Financed	You

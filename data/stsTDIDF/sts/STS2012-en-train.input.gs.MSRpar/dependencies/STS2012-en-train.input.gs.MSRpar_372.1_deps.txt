@@ -1,0 +1,13 @@
+compound	revenue	Licensing
+nsubj	slid	revenue
+root	ROOT	slid
+nummod	percent	21
+dobj	slid	percent
+punct	slid	,
+advmod	slid	however
+punct	slid	,
+case	$	to
+nmod:to	slid	$
+compound	million	107.6
+nummod	$	million
+punct	slid	.

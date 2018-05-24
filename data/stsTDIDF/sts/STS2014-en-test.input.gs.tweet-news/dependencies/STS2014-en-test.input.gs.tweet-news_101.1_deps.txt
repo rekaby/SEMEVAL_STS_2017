@@ -1,0 +1,12 @@
+root	ROOT	live
+mark	eat	to
+xcomp	live	eat
+cc	eat	or
+conj:or	eat	eat
+mark	live	to
+xcomp	eat	live
+punct	live	?-8) nsubj(take-2, I
+root	ROOT	take
+det	former	the
+dobj	take	former
+punct	take	.

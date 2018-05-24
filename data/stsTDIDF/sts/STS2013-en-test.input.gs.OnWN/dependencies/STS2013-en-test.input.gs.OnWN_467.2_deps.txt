@@ -1,0 +1,8 @@
+det	justification	the
+root	ROOT	justification
+case	act	for
+det	act	some
+nmod:for	justification	act
+cc	act	or
+conj:or	act	belief
+punct	justification	.

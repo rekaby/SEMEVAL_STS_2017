@@ -1,0 +1,8 @@
+amod	1	Terminal
+nsubjpass	seperated	1
+auxpass	seperated	is
+root	ROOT	seperated
+case	terminal	from
+det	terminal	the
+amod	terminal	positive
+nmod:from	seperated	terminal

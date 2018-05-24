@@ -1,0 +1,8 @@
+det	person	A
+nsubj	hitchhiking	person
+aux	hitchhiking	is
+root	ROOT	hitchhiking
+case	road	on
+det	road	a
+nmod:on	hitchhiking	road
+punct	hitchhiking	.

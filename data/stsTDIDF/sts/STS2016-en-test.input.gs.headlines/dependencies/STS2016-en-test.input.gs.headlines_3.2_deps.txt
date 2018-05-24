@@ -1,0 +1,8 @@
+nsubj	approves	Senate
+root	ROOT	approves
+compound	nominee	Obama
+dobj	approves	nominee
+case	court	to
+amod	court	key
+compound	court	appeals
+nmod:to	approves	court

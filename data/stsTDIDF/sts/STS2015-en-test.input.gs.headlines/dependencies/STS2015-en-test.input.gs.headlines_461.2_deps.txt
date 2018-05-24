@@ -1,0 +1,5 @@
+amod	lands	Hijacked
+compound	lands	aircraft
+root	ROOT	lands
+case	Geneva	in
+nmod:in	lands	Geneva

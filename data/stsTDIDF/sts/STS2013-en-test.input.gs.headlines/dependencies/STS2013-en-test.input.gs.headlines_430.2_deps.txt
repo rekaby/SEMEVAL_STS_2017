@@ -1,0 +1,9 @@
+nmod:poss	Hollande	France
+case	France	's
+nsubj	backs	Hollande
+root	ROOT	backs
+dobj	backs	Greece
+cc	backs	but
+conj:but	backs	urges
+amod	reform	credible
+dobj	urges	reform

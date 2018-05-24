@@ -1,0 +1,9 @@
+det	instrument	an
+root	ROOT	instrument
+case	torture	of
+nmod:of	instrument	torture
+dep	torture	applied
+case	foot	to
+nmod:to	applied	foot
+cc	applied	and
+conj:and	applied	leg

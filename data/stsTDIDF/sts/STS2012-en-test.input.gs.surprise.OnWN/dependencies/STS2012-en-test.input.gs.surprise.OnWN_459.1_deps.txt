@@ -1,0 +1,8 @@
+det	breakup	the
+root	ROOT	breakup
+cc	breakup	or
+conj:or	breakup	termination
+case	relationship	of
+det	relationship	a
+amod	relationship	social
+nmod:of	breakup	relationship

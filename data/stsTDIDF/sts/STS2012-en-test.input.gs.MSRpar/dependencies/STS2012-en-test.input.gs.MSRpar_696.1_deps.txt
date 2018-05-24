@@ -1,0 +1,12 @@
+amod	bills	Similar
+nsubj	passed	bills
+root	ROOT	passed
+det	House	the
+dobj	passed	House
+advmod	passed	twice
+cc	passed	but
+conj:but	passed	died
+case	Senate	in
+det	Senate	the
+nmod:in	died	Senate
+punct	passed	.

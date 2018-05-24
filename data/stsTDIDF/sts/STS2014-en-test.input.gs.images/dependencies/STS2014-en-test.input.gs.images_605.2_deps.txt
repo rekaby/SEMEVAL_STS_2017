@@ -1,0 +1,12 @@
+det	bus	An
+amod	bus	old
+compound	bus	Red
+compound	bus	London
+amod	bus	double
+compound	bus	decker
+nsubj	raised	bus
+case	hood	with
+nmod:poss	hood	its
+nmod:with	bus	hood
+root	ROOT	raised
+punct	raised	.

@@ -1,0 +1,7 @@
+holding	eyes	nmod:to
+eyes	up	case
+eyes	to	case
+holding	child	nsubj
+toys	the	det
+holding	toys	dobj
+child	The	det

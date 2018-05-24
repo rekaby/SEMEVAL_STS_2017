@@ -1,0 +1,18 @@
+punct	calls	''
+punct	calls	:
+compound	Spears	Britney
+nsubj	calls	Spears
+root	ROOT	calls
+compound:prt	calls	off
+compound	reports	engagement
+punct	reports	''
+compound	reports	loool
+compound	reports	CNN
+dobj	calls	reports
+advmod	calls	this
+punct	calls	?-13) advmod(going-5, Where
+aux	going	is
+det	world	this
+nsubj	going	world
+root	ROOT	going
+punct	going	?

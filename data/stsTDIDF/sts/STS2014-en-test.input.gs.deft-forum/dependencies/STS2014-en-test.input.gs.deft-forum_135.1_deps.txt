@@ -1,0 +1,12 @@
+nsubj	stupid	It
+cop	stupid	's
+advmod	stupid	so
+root	ROOT	stupid
+mark	has	that
+nsubj	has	it
+advmod	has	just
+ccomp	stupid	has
+mark	true	to
+cop	true	be
+xcomp	has	true
+punct	stupid	.

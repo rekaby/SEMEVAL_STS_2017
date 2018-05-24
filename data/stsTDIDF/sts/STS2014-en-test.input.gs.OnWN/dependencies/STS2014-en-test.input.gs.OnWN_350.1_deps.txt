@@ -1,0 +1,8 @@
+det	activation	the
+amod	activation	physiological
+root	ROOT	activation
+case	organism	of
+det	organism	an
+nmod:of	activation	organism
+cc	organism	or
+conj:or	organism	organ

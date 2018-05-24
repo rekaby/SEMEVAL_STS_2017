@@ -1,0 +1,14 @@
+det	findings	The
+nsubjpass	published	findings
+auxpass	published	are
+root	ROOT	published
+case	edition	in
+det	edition	the
+compound	edition	November
+nummod	edition	6
+nmod:in	published	edition
+case	Nature	of
+det	Nature	the
+compound	Nature	journal
+nmod:of	edition	Nature
+punct	published	.

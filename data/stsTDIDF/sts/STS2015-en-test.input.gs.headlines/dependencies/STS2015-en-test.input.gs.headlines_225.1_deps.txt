@@ -1,0 +1,6 @@
+compound	speaker	Deputy
+nsubj	faces	speaker
+root	ROOT	faces
+amod	claims	new
+compound	claims	sex
+dobj	faces	claims

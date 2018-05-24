@@ -1,0 +1,17 @@
+root	ROOT	who
+mark	going	in
+det	media	the
+nsubj	going	media
+case	media	's
+aux	going	been
+dep	who	going
+punct	half-cocked	``
+xcomp	going	half-cocked
+punct	half-cocked	''
+cc	going	and
+advmod	do	how
+aux	do	did
+nsubj	do	they
+conj:and	going	do
+dobj	do	it
+punct	who	?

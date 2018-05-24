@@ -1,0 +1,6 @@
+nummod	bikes	One
+compound	bikes	person
+root	ROOT	bikes
+case	night	at
+nmod:at	bikes	night
+punct	bikes	.

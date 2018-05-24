@@ -1,0 +1,7 @@
+compound	work	Demolition
+nsubj	begins	work
+root	ROOT	begins
+case	Stadium	on
+compound	Stadium	Don
+compound	Stadium	Valley
+nmod:on	begins	Stadium

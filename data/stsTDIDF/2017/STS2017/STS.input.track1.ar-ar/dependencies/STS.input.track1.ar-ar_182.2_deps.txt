@@ -1,0 +1,7 @@
+amod	standing	Osewean
+compound	standing	couple
+root	ROOT	standing
+case	poster	alongside
+amod	poster	fictional
+nmod:alongside	standing	poster
+punct	standing	.

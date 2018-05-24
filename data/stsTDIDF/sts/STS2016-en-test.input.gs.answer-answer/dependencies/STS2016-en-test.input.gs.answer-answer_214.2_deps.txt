@@ -1,0 +1,11 @@
+root	ROOT	Is
+det	kind	this
+det	kind	the
+nsubj	Is	kind
+case	thing	of
+nmod:of	kind	thing
+nsubj	looking	you
+aux	looking	're
+acl:relcl	thing	looking
+nmod	looking	for
+punct	Is	?

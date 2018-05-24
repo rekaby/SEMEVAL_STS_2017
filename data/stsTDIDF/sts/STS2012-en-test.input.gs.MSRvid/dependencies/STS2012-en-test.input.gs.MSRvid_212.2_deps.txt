@@ -1,0 +1,14 @@
+det	man	A
+nsubj	strumming	man
+acl	man	sitting
+case	floor	on
+det	floor	the
+nmod:on	sitting	floor
+case	room	in
+det	room	a
+nmod:in	sitting	room
+aux	strumming	is
+root	ROOT	strumming
+det	guitar	a
+dobj	strumming	guitar
+punct	strumming	.

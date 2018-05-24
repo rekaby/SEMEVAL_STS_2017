@@ -1,0 +1,9 @@
+compound	crew	US
+compound	crew	Air
+compound	crew	Force
+compound	crew	helicopter
+nsubj	killed	crew
+root	ROOT	killed
+case	crash	in
+amod	crash	British
+nmod:in	killed	crash

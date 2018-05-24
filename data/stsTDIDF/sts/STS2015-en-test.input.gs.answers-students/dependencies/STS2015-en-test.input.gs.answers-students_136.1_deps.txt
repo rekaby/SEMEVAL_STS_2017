@@ -1,0 +1,10 @@
+mark	circuit	because
+nsubj	circuit	a
+cc	a	and
+conj:and	a	c
+cop	circuit	are
+advmod	circuit	still
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+root	ROOT	circuit

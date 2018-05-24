@@ -1,0 +1,6 @@
+doing	man	nsubj
+bicycle	on	case
+stunt	bicycle	nmod:on
+bicycle	his	nmod:poss
+stunt	a	det
+doing	stunt	dobj

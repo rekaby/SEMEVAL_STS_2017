@@ -1,0 +1,16 @@
+det	girl	A
+compound	girl	baby
+nsubj	standing	girl
+cc	girl	and
+amod	boy	little
+conj:and	girl	boy
+aux	standing	are
+root	ROOT	standing
+case	guitar	next
+mwe	next	to
+det	guitar	a
+nmod:next_to	standing	guitar
+cc	guitar	and
+det	drum	a
+conj:and	guitar	drum
+punct	standing	.

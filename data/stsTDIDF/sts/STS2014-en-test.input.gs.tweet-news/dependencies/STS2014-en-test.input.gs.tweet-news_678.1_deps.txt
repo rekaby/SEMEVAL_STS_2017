@@ -1,0 +1,8 @@
+root	ROOT	Robots
+acl	Robots	making
+nsubj	competitive	US
+advmod	competitive	more
+xcomp	making	competitive
+case	manufacturing	in
+nmod:in	competitive	manufacturing
+punct	Robots	:

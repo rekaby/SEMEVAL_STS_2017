@@ -1,0 +1,8 @@
+nsubj	confirms	Hezbollah
+root	ROOT	confirms
+nsubj	sent	it
+ccomp	confirms	sent
+nsubj	downed	drone
+ccomp	sent	downed
+case	Israel	over
+nmod:over	downed	Israel

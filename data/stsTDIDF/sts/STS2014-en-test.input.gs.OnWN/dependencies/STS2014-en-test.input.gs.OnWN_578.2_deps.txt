@@ -1,0 +1,14 @@
+root	ROOT	take
+conj:or	take	take
+compound:prt	take	out
+cc	take	or
+conj:or	take	up
+case	scoop	with
+cc	with	or
+conj:or	with	as
+case	scoop	if
+case	scoop	with
+det	scoop	a
+nmod:as	take	scoop
+nmod:with	take	scoop
+punct	take	.

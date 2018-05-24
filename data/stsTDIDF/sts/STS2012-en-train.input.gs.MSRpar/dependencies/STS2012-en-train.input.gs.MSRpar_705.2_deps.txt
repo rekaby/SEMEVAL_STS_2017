@@ -1,0 +1,13 @@
+det	findings	The
+nsubj	appear	findings
+root	ROOT	appear
+case	Journal	in
+nmod:poss	Journal	Wednesday
+case	Wednesday	's
+nmod:in	appear	Journal
+case	Association	of
+det	Association	the
+compound	Association	American
+compound	Association	Medical
+nmod:of	Journal	Association
+punct	appear	.

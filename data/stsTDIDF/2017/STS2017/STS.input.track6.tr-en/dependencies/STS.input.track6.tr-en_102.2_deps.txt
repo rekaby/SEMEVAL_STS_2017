@@ -1,0 +1,12 @@
+det	group	The
+nsubj	gives	group
+root	ROOT	gives
+det	concert	a
+dobj	gives	concert
+mark	cheers	while
+det	crowd	the
+nsubj	cheers	crowd
+advcl	gives	cheers
+case	them	at
+nmod:at	cheers	them
+punct	gives	.

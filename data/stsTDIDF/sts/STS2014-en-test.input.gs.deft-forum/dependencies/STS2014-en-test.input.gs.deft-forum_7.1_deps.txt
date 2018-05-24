@@ -1,0 +1,7 @@
+nsubj	OK	I
+cop	OK	am
+root	ROOT	OK
+case	use	with
+compound	use	MEDICAL
+nmod:with	OK	use
+punct	OK	!

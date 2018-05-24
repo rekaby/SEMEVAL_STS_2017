@@ -1,0 +1,8 @@
+nsubj	defends	Allen
+root	ROOT	defends
+compound	claims	self
+case	abuse	against
+nmod:poss	abuse	Farrow
+case	Farrow	's
+nmod:against	self	abuse
+dobj	defends	claims

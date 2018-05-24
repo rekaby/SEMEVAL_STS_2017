@@ -1,0 +1,7 @@
+compound	journalists	Egypt
+compound	journalists	sentences
+compound	journalists	Al
+compound	journalists	Jazeera
+root	ROOT	journalists
+case	jail	to
+nmod:to	journalists	jail

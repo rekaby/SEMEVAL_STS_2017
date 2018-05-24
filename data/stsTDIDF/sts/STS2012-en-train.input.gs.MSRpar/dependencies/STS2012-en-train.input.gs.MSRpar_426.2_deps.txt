@@ -1,0 +1,16 @@
+nmod:poss	series	Wells
+case	Wells	'
+amod	series	other
+nsubj	include	series
+root	ROOT	include
+nmod:poss	ER	NBC
+case	NBC	's
+punct	ER	``
+dobj	include	ER
+punct	ER	''
+cc	ER	and
+punct	ER	``
+compound	Watch	Third
+conj:and	ER	Watch
+punct	ER	.
+punct	ER	''

@@ -1,0 +1,14 @@
+nsubj	done	I
+aux	done	have
+root	ROOT	done
+advmod	bit	quite
+det	bit	a
+dobj	done	bit
+case	writing	of
+amod	writing	technical
+nmod:of	bit	writing
+case	systems	for
+compound	systems	healthcare
+compound	systems	information
+nmod:for	writing	systems
+punct	done	.

@@ -1,0 +1,15 @@
+nsubj	allowed	Redman
+aux	allowed	has
+root	ROOT	allowed
+nummod	runs	two
+amod	runs	earned
+dobj	allowed	runs
+cc	runs	or
+advmod	six	less
+case	six	in
+conj:or	runs	six
+case	starts	of
+nmod:poss	starts	his
+nummod	starts	nine
+nmod:of	six	starts
+punct	allowed	.

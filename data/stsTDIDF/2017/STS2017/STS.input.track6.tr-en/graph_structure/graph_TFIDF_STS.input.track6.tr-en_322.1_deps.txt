@@ -1,0 +1,5 @@
+talking	couple	nsubj
+couple	side	nmod:on
+things	deep	amod
+side	road	nmod:of
+talking	things	nmod:about

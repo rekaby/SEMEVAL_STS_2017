@@ -1,0 +1,8 @@
+case	Rebounding	With
+compound	Rebounding	California
+nmod:with	Pushes	Rebounding
+punct	Pushes	,
+nsubj	Pushes	Governor
+root	ROOT	Pushes
+amod	Projects	Big
+dobj	Pushes	Projects

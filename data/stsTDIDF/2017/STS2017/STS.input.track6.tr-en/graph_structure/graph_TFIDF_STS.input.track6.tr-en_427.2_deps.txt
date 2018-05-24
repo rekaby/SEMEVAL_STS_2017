@@ -1,0 +1,14 @@
+'s	man	nsubj
+playing	guitar	dobj
+guy	playing	acl
+man	playing	acl
+playing	out	compound:prt
+playing	sunset	nmod:at
+sitting	him	nmod:behind
+sunset	guy	conj:and
+drums	a	det
+playing	sitting	advcl
+playing	drums	dobj
+sunset	at	case
+guitar	a	det
+sunset	and	cc

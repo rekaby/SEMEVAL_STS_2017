@@ -1,0 +1,11 @@
+nsubj	sells	BP
+root	ROOT	sells
+det	Gulf	some
+dobj	sells	Gulf
+case	assets	of
+compound	assets	Mexico
+nmod:of	Gulf	assets
+case	$	for
+nmod:for	sells	$
+nummod	$	5.55
+nmod:npmod	$	bil

@@ -1,0 +1,9 @@
+compound	Kerry	US
+amod	Kerry	top
+compound	Kerry	diplomat
+nmod:poss	wife	Kerry
+case	Kerry	's
+nsubj	rushed	wife
+root	ROOT	rushed
+case	hospital	to
+nmod:to	rushed	hospital

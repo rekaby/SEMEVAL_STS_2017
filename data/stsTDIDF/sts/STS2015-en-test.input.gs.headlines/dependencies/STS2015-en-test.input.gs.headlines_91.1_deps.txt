@@ -1,0 +1,6 @@
+nsubj	warns	Russia
+root	ROOT	warns
+dobj	warns	Ukraine
+case	deal	against
+compound	deal	EU
+nmod:against	warns	deal

@@ -1,0 +1,9 @@
+nsubj	treat	Police
+root	ROOT	treat
+amod	object	suspicious
+dobj	treat	object
+case	station	at
+compound	station	Tel
+compound	station	Aviv
+compound	station	bus
+nmod:at	treat	station

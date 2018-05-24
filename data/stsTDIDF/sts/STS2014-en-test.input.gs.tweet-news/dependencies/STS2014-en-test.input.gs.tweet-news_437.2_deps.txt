@@ -1,0 +1,7 @@
+nsubj	Orders	F.A.A.
+root	ROOT	Orders
+compound	787s	Grounding
+case	Boeing	of
+amod	Boeing	U.S.-Operated
+nmod:of	Grounding	Boeing
+dobj	Orders	787s

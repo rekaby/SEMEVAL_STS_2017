@@ -1,0 +1,12 @@
+nsubj	keep	they
+root	ROOT	keep
+xcomp	keep	talking
+case	deficit	about
+det	deficit	the
+amod	deficit	huge
+nmod:about	talking	deficit
+case	admin	in
+det	admin	the
+compound	admin	obama
+nmod:in	deficit	admin
+punct	keep	.

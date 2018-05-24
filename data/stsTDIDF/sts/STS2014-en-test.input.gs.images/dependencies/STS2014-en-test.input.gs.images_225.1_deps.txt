@@ -1,0 +1,8 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	sitting
+case	motorcycle	on
+det	motorcycle	a
+amod	motorcycle	large
+nmod:on	sitting	motorcycle
+punct	people	.

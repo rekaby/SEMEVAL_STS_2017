@@ -1,0 +1,6 @@
+root	ROOT	cause
+mark	move	to
+xcomp	cause	move
+mark	pulling	by
+advcl	move	pulling
+punct	cause	.

@@ -1,0 +1,6 @@
+amod	prisoner	Pakistani
+root	ROOT	prisoner
+acl	prisoner	assaulted
+case	jail	in
+compound	jail	Jammu
+nmod:in	assaulted	jail

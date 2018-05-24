@@ -1,0 +1,8 @@
+root	ROOT	Provide
+case	rails	with
+nmod:with	Provide	rails
+punct	Provide	,
+mark	laying	as
+mark	laying	by
+advcl	Provide	laying
+punct	Provide	.

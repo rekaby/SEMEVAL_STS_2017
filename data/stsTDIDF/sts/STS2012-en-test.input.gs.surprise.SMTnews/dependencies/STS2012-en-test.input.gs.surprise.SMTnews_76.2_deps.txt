@@ -1,0 +1,17 @@
+compound	businesses	Economists
+amod	businesses	pro-marché
+neg	contradictory	not
+amod	businesses	contradictory
+root	ROOT	businesses
+nsubj	use	that
+acl:relcl	businesses	use
+advmod	use	openly
+det	attraction	the
+dobj	use	attraction
+case	luxury	of
+nmod:of	attraction	luxury
+mark	promote	to
+advcl	use	promote
+nmod:poss	products	their
+dobj	promote	products
+punct	businesses	.

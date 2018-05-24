@@ -1,0 +1,5 @@
+nsubj	begin	Libyans
+root	ROOT	begin
+xcomp	begin	handing
+case	weapons	in
+nmod:in	handing	weapons

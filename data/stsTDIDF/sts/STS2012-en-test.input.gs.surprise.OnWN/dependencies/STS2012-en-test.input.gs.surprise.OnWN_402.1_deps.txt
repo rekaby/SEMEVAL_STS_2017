@@ -1,0 +1,10 @@
+det	feeling	The
+root	ROOT	feeling
+case	annoyance	of
+nmod:of	feeling	annoyance
+mark	hindered	at
+auxpass	hindered	being
+acl	feeling	hindered
+cc	hindered	or
+conj:or	hindered	thwarted
+punct	feeling	.

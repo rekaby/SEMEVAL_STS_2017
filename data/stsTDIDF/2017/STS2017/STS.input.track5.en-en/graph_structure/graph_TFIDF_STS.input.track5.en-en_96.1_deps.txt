@@ -1,0 +1,7 @@
+group	teenagers	nmod:of
+jumping	group	nsubj
+jumping	and	cc
+teenagers	of	case
+having	time	dobj
+time	good	amod
+jumping	having	conj:and

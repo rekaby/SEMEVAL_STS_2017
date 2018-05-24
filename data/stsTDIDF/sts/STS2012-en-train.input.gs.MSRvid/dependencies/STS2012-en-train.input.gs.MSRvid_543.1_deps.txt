@@ -1,0 +1,6 @@
+det	man	A
+nsubj	rides	man
+root	ROOT	rides
+det	horse	a
+dobj	rides	horse
+punct	rides	.

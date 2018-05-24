@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	cottage	in
+det	cottage	the
+compound	cottage	summer
+nmod:in	running	cottage
+punct	running	.

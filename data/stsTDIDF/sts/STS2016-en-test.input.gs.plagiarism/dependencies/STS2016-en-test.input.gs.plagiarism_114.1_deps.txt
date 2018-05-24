@@ -1,0 +1,17 @@
+det	website	A
+nmod:poss	rank	website
+case	website	's
+compound	rank	page
+nsubj	web	rank
+punct	web	,
+cop	web	is
+advmod	web	how
+punct	web	`
+amod	web	important
+punct	web	'
+nsubj	web	it
+cop	web	is
+case	web	on
+det	web	the
+root	ROOT	web
+punct	web	.

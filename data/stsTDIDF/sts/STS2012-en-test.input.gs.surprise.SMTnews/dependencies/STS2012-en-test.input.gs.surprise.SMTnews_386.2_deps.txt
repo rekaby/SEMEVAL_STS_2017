@@ -1,0 +1,9 @@
+case	regions	In
+amod	regions	other
+nmod:in	imposed	regions
+punct	imposed	,
+det	Sharia	the
+nsubjpass	imposed	Sharia
+auxpass	imposed	is
+root	ROOT	imposed
+punct	imposed	.

@@ -1,0 +1,14 @@
+det	girl	A
+compound	girl	tan
+nsubj	swimming	girl
+case	bikini	in
+det	bikini	a
+amod	bikini	floral
+nmod:in	girl	bikini
+aux	swimming	is
+root	ROOT	swimming
+case	waters	in
+amod	waters	dark
+amod	waters	blue
+nmod:in	swimming	waters
+punct	swimming	.

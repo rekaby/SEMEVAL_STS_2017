@@ -1,0 +1,5 @@
+holds	man	nsubj
+microphone	the	det
+holds	microphone	dobj
+woman	for	case
+microphone	woman	nmod:for

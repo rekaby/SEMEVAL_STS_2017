@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	standing	woman
+case	apron	in
+det	apron	a
+amod	apron	black
+nmod:in	woman	apron
+aux	standing	is
+root	ROOT	standing
+case	mirror	in
+mwe	in	front
+mwe	in	of
+det	mirror	a
+nmod:in_front_of	standing	mirror
+punct	standing	.

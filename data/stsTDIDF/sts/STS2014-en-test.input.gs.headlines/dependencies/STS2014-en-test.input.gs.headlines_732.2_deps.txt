@@ -1,0 +1,11 @@
+nsubj	returns	Clinton
+root	ROOT	returns
+mark	work	to
+xcomp	returns	work
+punct	returns	,
+dep	returns	plans
+mark	testify	to
+xcomp	plans	testify
+case	attack	on
+compound	attack	Benghazi
+nmod:on	testify	attack

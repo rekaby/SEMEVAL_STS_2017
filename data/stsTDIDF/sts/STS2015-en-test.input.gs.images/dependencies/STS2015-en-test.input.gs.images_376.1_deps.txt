@@ -1,0 +1,11 @@
+det	man	A
+amod	man	smiling
+root	ROOT	man
+cc	man	and
+det	girl	a
+compound	girl	baby
+conj:and	man	girl
+acl	girl	posing
+case	photo	for
+nmod:for	posing	photo
+punct	man	.

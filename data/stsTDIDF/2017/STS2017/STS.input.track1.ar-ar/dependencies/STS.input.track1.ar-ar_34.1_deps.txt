@@ -1,0 +1,13 @@
+amod	woman	Sitting
+root	ROOT	woman
+acl	woman	wearing
+det	T-shirt	a
+dobj	wearing	T-shirt
+case	plastered	in
+amod	plastered	white
+nmod:in	wearing	plastered
+acl	plastered	surrounded
+case	garden	by
+det	garden	a
+nmod:by	surrounded	garden
+punct	woman	.

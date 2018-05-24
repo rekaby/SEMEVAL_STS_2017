@@ -1,0 +1,6 @@
+amod	unemployment	Australian
+nsubj	percent	unemployment
+advmod	5.1	up
+dep	5.1	to
+nummod	percent	5.1
+root	ROOT	percent

@@ -1,0 +1,5 @@
+nsubj	travels	Obama
+root	ROOT	travels
+case	Oklahoma	to
+amod	Oklahoma	tornado-ravaged
+nmod:to	travels	Oklahoma

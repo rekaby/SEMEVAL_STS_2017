@@ -1,0 +1,7 @@
+amod	envoy	German
+nsubj	optimistic	envoy
+root	ROOT	optimistic
+case	talks	about
+compound	talks	Iran-G5
+nummod	talks	+1
+nmod:about	optimistic	talks

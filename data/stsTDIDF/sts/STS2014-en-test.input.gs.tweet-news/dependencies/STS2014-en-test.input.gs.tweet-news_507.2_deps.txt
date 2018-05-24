@@ -1,0 +1,11 @@
+root	ROOT	Note
+case	napkin	on
+nmod:on	Note	napkin
+punct	Note	:
+punct	us	`
+det	meal	This
+nsubj	us	meal
+cop	us	is
+case	us	on
+parataxis	Note	us
+punct	us	'

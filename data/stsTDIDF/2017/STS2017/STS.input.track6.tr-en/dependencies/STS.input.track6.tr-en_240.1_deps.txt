@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	ballcap	a
+dobj	wearing	ballcap
+punct	wearing	.

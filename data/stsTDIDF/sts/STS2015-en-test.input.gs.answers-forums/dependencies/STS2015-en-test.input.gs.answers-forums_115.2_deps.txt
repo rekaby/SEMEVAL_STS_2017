@@ -1,0 +1,17 @@
+nmod:poss	pile	Your
+nsubj	compost	pile
+aux	compost	will
+root	ROOT	compost
+mark	turning	without
+advcl	compost	turning
+dobj	turning	it
+punct	compost	,
+cc	compost	but
+nsubj	goes	it
+conj:but	compost	goes
+advmod	goes	faster
+mark	turn	if
+nsubj	turn	you
+advcl	goes	turn
+dobj	turn	it
+punct	compost	.

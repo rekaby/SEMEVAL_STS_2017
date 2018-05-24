@@ -1,0 +1,8 @@
+det	monkey	A
+nsubj	walking	monkey
+aux	walking	is
+root	ROOT	walking
+case	water	through
+det	water	the
+nmod:through	walking	water
+punct	walking	.

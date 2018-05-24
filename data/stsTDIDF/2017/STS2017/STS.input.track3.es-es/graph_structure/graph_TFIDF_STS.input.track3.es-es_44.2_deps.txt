@@ -1,0 +1,6 @@
+plays	mother	nsubj
+mother	A	det
+baby	her	nmod:poss
+baby	with	case
+plays	peek-a-boo	dobj
+plays	baby	nmod:with

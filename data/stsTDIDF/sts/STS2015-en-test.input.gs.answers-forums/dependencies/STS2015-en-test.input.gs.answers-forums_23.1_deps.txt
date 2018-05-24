@@ -1,0 +1,16 @@
+case	website	According
+mwe	According	to
+det	website	this
+root	ROOT	website
+det	peak	the
+nsubj	magnitude	peak
+amod	magnitude	visible
+nsubj	10.5	magnitude
+aux	10.5	will
+cop	10.5	be
+advmod	10.5	about
+acl:relcl	website	10.5
+case	February	around
+nmod:around	10.5	February
+amod	February	2nd
+punct	website	.

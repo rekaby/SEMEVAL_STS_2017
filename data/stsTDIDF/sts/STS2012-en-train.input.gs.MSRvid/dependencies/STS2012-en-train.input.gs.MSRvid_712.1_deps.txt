@@ -1,0 +1,8 @@
+det	couple	A
+nsubj	singing	couple
+case	policewomen	of
+nmod:of	couple	policewomen
+aux	singing	are
+root	ROOT	singing
+dobj	singing	karaoke
+punct	singing	.

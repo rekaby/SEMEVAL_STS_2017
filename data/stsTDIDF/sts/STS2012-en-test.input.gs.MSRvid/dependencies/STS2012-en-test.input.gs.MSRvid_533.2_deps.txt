@@ -1,0 +1,10 @@
+det	lady	The
+nsubj	fried	lady
+root	ROOT	fried
+det	meat	the
+amod	meat	breaded
+dobj	fried	meat
+case	oil	in
+amod	oil	hot
+nmod:in	fried	oil
+punct	fried	.

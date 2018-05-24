@@ -1,0 +1,8 @@
+det	couple	The
+nsubj	going	couple
+aux	going	is
+root	ROOT	going
+case	store	to
+det	store	the
+nmod:to	going	store
+punct	going	.

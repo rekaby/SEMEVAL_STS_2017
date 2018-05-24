@@ -1,0 +1,11 @@
+root	ROOT	relieve
+punct	someone	-LRB-
+dobj	relieve	someone
+punct	someone	-RRB-
+case	work	from
+nmod:from	someone	work
+mark	taking	by
+acl	work	taking
+det	turn	a
+dobj	taking	turn
+punct	relieve	.

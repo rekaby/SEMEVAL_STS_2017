@@ -1,0 +1,14 @@
+nsubj	think	I
+advmod	think	really
+aux	think	do
+neg	think	not
+root	ROOT	think
+expl	is	there
+ccomp	think	is
+advmod	do	much
+nsubj	do	you
+aux	do	can
+ccomp	is	do
+case	that	about
+nmod:about	do	that
+punct	think	.

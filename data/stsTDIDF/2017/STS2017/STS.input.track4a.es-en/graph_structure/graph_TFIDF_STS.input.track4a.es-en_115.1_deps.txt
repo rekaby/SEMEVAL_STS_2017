@@ -1,0 +1,12 @@
+instruments	long	amod
+instruments	play	compound
+lies	while	mark
+lies	couch	nmod:on
+instruments	with	case
+instruments	hair	compound
+dog	their	nmod:poss
+couch	the	det
+Men	lies	advcl
+Men	instruments	nmod:with
+lies	dog	nsubj
+ROOT	Men	root

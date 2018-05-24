@@ -1,0 +1,8 @@
+det	girls	A
+nsubj	jumping	girls
+aux	jumping	is
+root	ROOT	jumping
+case	sand	in
+det	sand	the
+nmod:in	jumping	sand
+punct	jumping	.

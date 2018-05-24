@@ -1,0 +1,8 @@
+amod	parliament	Russian
+nsubj	adoptions	parliament
+mark	consider	to
+acl	parliament	consider
+dobj	consider	ban
+case	U.S.	on
+nmod:on	ban	U.S.
+root	ROOT	adoptions

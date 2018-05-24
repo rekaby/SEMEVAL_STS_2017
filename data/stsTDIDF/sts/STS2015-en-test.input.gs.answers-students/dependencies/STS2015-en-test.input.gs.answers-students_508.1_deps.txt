@@ -1,0 +1,12 @@
+mark	is	Because
+expl	is	there
+root	ROOT	is
+neg	gap	no
+nsubj	is	gap
+case	4	between
+amod	4	terminal
+nmod:between	gap	4
+cc	4	and
+det	terminal	the
+amod	terminal	positive
+conj:and	4	terminal

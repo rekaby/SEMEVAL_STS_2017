@@ -1,0 +1,9 @@
+det	Returns	An
+compound	Returns	Insider
+nsubj	#politics	Returns
+case	Politics	to
+nmod:to	Returns	Politics
+case	Italy	in
+nmod:in	Returns	Italy
+compound	#politics	#memofromrome
+root	ROOT	#politics

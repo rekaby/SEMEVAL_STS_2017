@@ -1,0 +1,10 @@
+det	request	a
+amod	request	verbal
+cc	verbal	or
+conj:or	verbal	written
+root	ROOT	request
+case	access	for
+nmod:for	request	access
+case	something	to
+nmod:to	access	something
+punct	request	.

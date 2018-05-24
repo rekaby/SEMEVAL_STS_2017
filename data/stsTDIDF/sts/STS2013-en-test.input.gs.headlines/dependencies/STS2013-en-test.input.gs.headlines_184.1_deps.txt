@@ -1,0 +1,7 @@
+amod	Morsi	Islamist
+nsubj	Wins	Morsi
+root	ROOT	Wins
+nmod:poss	Election	Egypt
+case	Egypt	's
+compound	Election	Presidential
+dobj	Wins	Election

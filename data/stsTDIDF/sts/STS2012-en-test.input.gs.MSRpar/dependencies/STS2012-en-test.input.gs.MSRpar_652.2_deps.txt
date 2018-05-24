@@ -1,0 +1,14 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+nsubj	finished	average
+root	ROOT	finished
+det	day	the
+nmod:tmod	finished	day
+advmod	day	down
+nummod	points	98.32
+nmod:npmod	down	points
+case	9,011.53	at
+nmod:at	day	9,011.53
+punct	finished	.

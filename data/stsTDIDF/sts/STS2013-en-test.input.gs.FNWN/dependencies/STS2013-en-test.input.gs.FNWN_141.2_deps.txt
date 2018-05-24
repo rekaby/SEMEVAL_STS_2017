@@ -1,0 +1,8 @@
+det	pane	a
+root	ROOT	pane
+case	glass	of
+nmod:of	pane	glass
+case	window	in
+det	window	a
+nmod:in	pane	window
+punct	pane	;

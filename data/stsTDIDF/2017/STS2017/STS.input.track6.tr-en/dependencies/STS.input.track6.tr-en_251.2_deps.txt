@@ -1,0 +1,6 @@
+det	dog	A
+amod	dog	brown
+nsubj	walking	dog
+root	ROOT	walking
+case	water	in
+nmod:in	walking	water

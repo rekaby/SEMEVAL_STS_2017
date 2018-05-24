@@ -1,0 +1,13 @@
+det	women	A
+nsubj	painting	women
+root	ROOT	painting
+det	chair	a
+dobj	painting	chair
+case	room	with
+det	room	a
+compound	room	dining
+nmod:with	painting	room
+case	background	in
+det	background	the
+nmod:in	room	background
+punct	painting	.

@@ -1,0 +1,5 @@
+compound	rebels	Syria
+nsubj	leave	rebels
+root	ROOT	leave
+amod	Homs	besieged
+dobj	leave	Homs

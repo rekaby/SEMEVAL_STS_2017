@@ -1,0 +1,7 @@
+nsubj	walking	Girls
+aux	walking	are
+root	ROOT	walking
+case	stage	on
+det	stage	the
+nmod:on	walking	stage
+punct	walking	.

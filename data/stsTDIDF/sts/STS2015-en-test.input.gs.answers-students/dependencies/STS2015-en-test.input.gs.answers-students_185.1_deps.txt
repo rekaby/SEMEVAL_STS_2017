@@ -1,0 +1,9 @@
+det	circuit	The
+nsubjpass	closed	circuit
+auxpass	closed	is
+neg	closed	not
+root	ROOT	closed
+case	battery	around
+det	battery	the
+nmod:around	closed	battery
+punct	closed	.

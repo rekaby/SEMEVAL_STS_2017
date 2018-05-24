@@ -1,0 +1,12 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	riding
+det	bike	a
+amod	bike	green
+compound	bike	trick
+dobj	riding	bike
+case	steps	over
+det	steps	some
+nmod:over	riding	steps
+advmod	steps	outdoors
+punct	boy	.

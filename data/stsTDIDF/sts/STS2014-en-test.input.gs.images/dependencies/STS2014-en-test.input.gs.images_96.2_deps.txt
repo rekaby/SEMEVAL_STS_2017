@@ -1,0 +1,7 @@
+det	blackbird	A
+root	ROOT	blackbird
+acl	blackbird	sitting
+case	ground	on
+det	ground	the
+nmod:on	sitting	ground
+punct	blackbird	.

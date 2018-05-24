@@ -1,0 +1,14 @@
+root	ROOT	because
+nsubj	because	bulb
+nsubj	circuit	a
+cop	circuit	is
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+acl:relcl	bulb	circuit
+case	battery	with
+det	battery	the
+nmod:with	circuit	battery
+cc	battery	and
+conj:and	battery	switch
+dep	battery	x

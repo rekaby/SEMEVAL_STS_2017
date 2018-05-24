@@ -1,0 +1,7 @@
+nsubj	spinning	Children
+root	ROOT	spinning
+case	wheel	on
+det	wheel	a
+compound	wheel	glass
+amod	wheel	rotating
+nmod:on	spinning	wheel

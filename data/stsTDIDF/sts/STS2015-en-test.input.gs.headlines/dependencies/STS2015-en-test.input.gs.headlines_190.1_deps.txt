@@ -1,0 +1,8 @@
+nsubj	believes	US
+root	ROOT	believes
+nsubj	used	Syria
+aux	used	has
+advmod	used	probably
+ccomp	believes	used
+compound	weapons	chemical
+dobj	used	weapons

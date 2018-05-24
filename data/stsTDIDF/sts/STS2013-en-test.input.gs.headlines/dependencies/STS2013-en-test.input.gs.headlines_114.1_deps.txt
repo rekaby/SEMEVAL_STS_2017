@@ -1,0 +1,7 @@
+compound	Islamists	Radical
+root	ROOT	Islamists
+mark	enlist	in
+nsubj	enlist	Mali
+acl	Islamists	enlist
+amod	militia	new
+dobj	enlist	militia

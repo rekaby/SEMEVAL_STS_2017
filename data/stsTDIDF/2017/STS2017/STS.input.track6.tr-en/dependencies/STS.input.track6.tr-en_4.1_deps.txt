@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	competing	dog
+aux	competing	is
+root	ROOT	competing
+case	agility	in
+compound	agility	dog
+nmod:in	competing	agility

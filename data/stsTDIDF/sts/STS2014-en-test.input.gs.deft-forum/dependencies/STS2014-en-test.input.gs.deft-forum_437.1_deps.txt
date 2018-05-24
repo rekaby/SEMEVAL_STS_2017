@@ -1,0 +1,11 @@
+advmod	talking	Why
+aux	talking	are
+nsubj	talking	you
+root	ROOT	talking
+case	women	about
+nmod:about	talking	women
+case	tribes	within
+det	tribes	the
+amod	tribes	Hebrew
+nmod:within	talking	tribes
+punct	talking	?

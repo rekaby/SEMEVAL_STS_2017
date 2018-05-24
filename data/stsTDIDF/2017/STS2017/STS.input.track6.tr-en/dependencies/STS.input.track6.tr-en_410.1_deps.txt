@@ -1,0 +1,7 @@
+amod	women	Asian
+nsubj	hold	women
+root	ROOT	hold
+det	girl	a
+amod	girl	young
+dobj	hold	girl
+punct	hold	.

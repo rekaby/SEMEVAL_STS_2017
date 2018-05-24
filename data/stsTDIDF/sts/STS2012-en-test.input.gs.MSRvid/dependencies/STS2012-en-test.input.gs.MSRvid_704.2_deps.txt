@@ -1,0 +1,7 @@
+det	person	A
+nsubj	mixing	person
+aux	mixing	is
+root	ROOT	mixing
+det	pot	a
+dobj	mixing	pot
+punct	mixing	.

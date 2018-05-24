@@ -1,0 +1,13 @@
+outfit	orange	amod
+bouncing	whilst	mark
+airborne	bouncing	advcl
+airborne	is	cop
+bouncing	bed	nmod:on
+outfit	in	case
+girl	outfit	nmod:in
+airborne	girl	nsubj
+bed	on	case
+outfit	an	det
+ROOT	airborne	root
+outfit	striped	amod
+airborne	.	punct

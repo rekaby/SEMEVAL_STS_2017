@@ -1,0 +1,9 @@
+root	ROOT	observe
+case	care	with
+nmod:with	observe	care
+cc	care	or
+conj:or	care	pay
+amod	attention	close
+dobj	pay	attention
+dep	care	to
+punct	observe	.

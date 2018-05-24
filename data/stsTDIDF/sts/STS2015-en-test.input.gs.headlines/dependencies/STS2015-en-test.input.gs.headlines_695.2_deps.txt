@@ -1,0 +1,11 @@
+nsubj	hold	Egypt
+mark	hold	to
+root	ROOT	hold
+amod	talks	more
+dobj	hold	talks
+case	IMF	with
+nmod:with	talks	IMF
+case	loan	on
+nmod:on	hold	loan
+amod	week	next
+nmod:tmod	loan	week

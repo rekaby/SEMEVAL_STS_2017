@@ -1,0 +1,7 @@
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nsubjpass	connected	terminal
+auxpass	connected	is
+neg	connected	not
+root	ROOT	connected

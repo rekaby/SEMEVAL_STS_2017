@@ -1,0 +1,5 @@
+tower	toward	case
+walk	tower	nmod:toward
+tower	a	det
+walk	people	nsubj
+people	four	nummod

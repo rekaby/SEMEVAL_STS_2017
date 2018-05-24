@@ -1,0 +1,6 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	standing
+case	beach	on
+nmod:on	standing	beach
+punct	men	.

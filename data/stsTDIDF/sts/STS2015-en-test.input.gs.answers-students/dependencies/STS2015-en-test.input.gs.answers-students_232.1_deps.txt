@@ -1,0 +1,7 @@
+mark	connected	Because
+det	bulb	the
+nsubjpass	connected	bulb
+auxpass	connected	is
+root	ROOT	connected
+advmod	connected	correctly
+punct	connected	.

@@ -1,0 +1,4 @@
+sitting	man	nsubj
+sitting	taxi	nmod:in
+taxi	in	case
+taxi	a	det

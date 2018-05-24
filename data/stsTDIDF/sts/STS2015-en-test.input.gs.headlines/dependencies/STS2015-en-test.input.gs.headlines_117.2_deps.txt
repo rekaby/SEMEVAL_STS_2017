@@ -1,0 +1,7 @@
+nsubj	says	Iran
+root	ROOT	says
+ccomp	says	detects
+dobj	detects	sabotage
+case	facility	at
+amod	facility	nuclear
+nmod:at	sabotage	facility

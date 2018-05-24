@@ -1,0 +1,9 @@
+root	ROOT	What
+cop	What	is
+nmod:poss	definition	your
+nsubj	What	definition
+case	life	of
+punct	life	``
+nmod:of	definition	life
+punct	life	''
+punct	What	?

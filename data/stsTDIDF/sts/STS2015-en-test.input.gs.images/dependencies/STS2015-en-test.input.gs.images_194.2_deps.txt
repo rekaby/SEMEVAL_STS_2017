@@ -1,0 +1,8 @@
+det	dances	A
+compound	dances	girl
+root	ROOT	dances
+case	man	like
+det	man	a
+nmod:like	dances	man
+case	costume	in
+nmod:in	man	costume

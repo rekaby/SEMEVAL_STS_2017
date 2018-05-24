@@ -1,0 +1,15 @@
+det	terminals	the
+nsubj	side	terminals
+cop	side	are
+case	side	on
+det	side	the
+amod	side	same
+root	ROOT	side
+case	side	as
+det	side	the
+amod	side	negative
+nmod:as	side	side
+case	battery	of
+det	battery	the
+nmod:of	side	battery
+punct	side	.

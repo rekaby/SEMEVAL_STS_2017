@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	sad
+nsubj	swinging	boy
+case	shirt	in
+det	shirt	a
+compound	shirt	surfing
+nmod:in	boy	shirt
+aux	swinging	is
+root	ROOT	swinging
+case	swing	on
+det	swing	a
+nmod:on	swinging	swing
+punct	swinging	.

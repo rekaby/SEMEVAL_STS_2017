@@ -1,0 +1,7 @@
+amod	Attacks	Iraqi
+nsubj	Kill	Attacks
+root	ROOT	Kill
+dobj	Kill	General
+punct	General	,
+nummod	Police	Four
+appos	General	Police

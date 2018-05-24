@@ -1,0 +1,12 @@
+det	s	the
+amod	s	positive
+compound	s	battery
+amod	s	terminal
+root	ROOT	s
+acl	s	separated
+case	gap	by
+det	gap	a
+nmod:by	separated	gap
+case	terminal	from
+nmod:from	gap	terminal
+nummod	gap	4

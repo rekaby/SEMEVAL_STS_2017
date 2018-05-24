@@ -1,0 +1,4 @@
+walk	wall	nmod:beside
+walk	People	nsubj
+wall	beside	case
+wall	stone	compound

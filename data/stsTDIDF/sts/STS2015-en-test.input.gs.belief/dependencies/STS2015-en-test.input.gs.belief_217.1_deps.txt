@@ -1,0 +1,16 @@
+cop	desperate	are
+nsubj	desperate	you
+advmod	desperate	so
+root	ROOT	desperate
+mark	appear	to
+xcomp	desperate	appear
+xcomp	appear	clever
+mark	have	that
+nsubj	have	you
+ccomp	clever	have
+mark	make	to
+xcomp	have	make
+det	sh*t	this
+dobj	make	sh*t
+compound:prt	make	up
+punct	desperate	?

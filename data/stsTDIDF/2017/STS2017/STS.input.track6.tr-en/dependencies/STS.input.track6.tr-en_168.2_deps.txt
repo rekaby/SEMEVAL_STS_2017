@@ -1,0 +1,14 @@
+det	boy	A
+amod	boy	young
+nsubj	makes	boy
+root	ROOT	makes
+det	words	a
+nummod	words	hundred
+dobj	makes	words
+mark	playing	while
+advcl	makes	playing
+case	console	in
+det	console	a
+compound	console	game
+nmod:in	playing	console
+punct	makes	.

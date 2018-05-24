@@ -1,0 +1,17 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	man	next
+mwe	next	to
+det	man	a
+amod	man	helmeted
+nmod:next_to	stands	man
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	man	motorcycle
+case	lot	in
+det	lot	an
+amod	lot	empty
+compound	lot	parking
+nmod:in	motorcycle	lot
+punct	stands	.

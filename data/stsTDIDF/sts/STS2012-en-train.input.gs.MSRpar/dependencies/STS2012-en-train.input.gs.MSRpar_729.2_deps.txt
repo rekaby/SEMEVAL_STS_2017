@@ -1,0 +1,14 @@
+nsubj	include	Symptoms
+root	ROOT	include
+amod	diarrhoea	chronic
+dobj	include	diarrhoea
+punct	diarrhoea	,
+amod	pain	abdominal
+conj:and	diarrhoea	pain
+punct	diarrhoea	,
+compound	loss	weight
+conj:and	diarrhoea	loss
+cc	diarrhoea	and
+amod	tiredness	extreme
+conj:and	diarrhoea	tiredness
+punct	include	.

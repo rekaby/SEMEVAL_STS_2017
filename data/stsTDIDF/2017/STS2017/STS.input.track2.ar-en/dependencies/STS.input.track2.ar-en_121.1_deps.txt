@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	tying
+nmod:poss	shoe	his
+dobj	tying	shoe
+case	beach	at
+det	beach	a
+nmod:at	tying	beach
+punct	man	.

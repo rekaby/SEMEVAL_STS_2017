@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	break	on
+det	break	a
+nmod:on	group	break
+punct	group	.

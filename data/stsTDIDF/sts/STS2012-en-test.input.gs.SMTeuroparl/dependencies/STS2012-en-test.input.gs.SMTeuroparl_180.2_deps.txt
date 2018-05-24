@@ -1,0 +1,14 @@
+det	leaders	The
+nsubj	have	leaders
+root	ROOT	have
+dep	chance	today
+det	chance	a
+amod	chance	new
+dobj	have	chance
+cc	chance	and
+conj:and	chance	let
+nsubj	seize	them
+advmod	seize	therefore
+ccomp	let	seize
+dobj	seize	it
+punct	have	.

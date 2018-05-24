@@ -1,0 +1,10 @@
+root	ROOT	Advance
+punct	Advance	;
+dep	Advance	contribute
+case	progress	to
+det	progress	the
+nmod:to	contribute	progress
+cc	progress	or
+conj:or	progress	growth
+acl	progress	of
+punct	Advance	.

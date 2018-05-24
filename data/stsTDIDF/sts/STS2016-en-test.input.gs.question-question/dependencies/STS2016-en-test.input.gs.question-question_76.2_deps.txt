@@ -1,0 +1,15 @@
+root	ROOT	What
+cop	What	are
+det	differences	the
+nsubj	What	differences
+case	IRA	between
+det	IRA	a
+punct	IRA	``
+amod	IRA	traditional
+punct	IRA	''
+nmod:between	differences	IRA
+cc	IRA	and
+det	IRA	a
+compound	IRA	Roth
+conj:and	IRA	IRA
+punct	What	?

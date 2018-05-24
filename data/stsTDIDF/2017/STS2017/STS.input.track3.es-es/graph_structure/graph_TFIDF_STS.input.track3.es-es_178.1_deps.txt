@@ -1,0 +1,5 @@
+sitting	eating	nmod:on
+eating	bench	compound
+eating	on	case
+eating	a	det
+sitting	women	nsubj

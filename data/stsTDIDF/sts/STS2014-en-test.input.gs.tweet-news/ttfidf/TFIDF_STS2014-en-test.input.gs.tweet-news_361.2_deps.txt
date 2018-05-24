@@ -1,0 +1,7 @@
+acl Architect build	15.060439779775294
+acl home using	15.060439779775294
+amod printer 3-D	15.060439779775294
+dobj using printer	15.060439779775294
+root ROOT Architect	14.367292599215348
+dobj build home	12.287851057535512
+mark build to	7.825541359460462

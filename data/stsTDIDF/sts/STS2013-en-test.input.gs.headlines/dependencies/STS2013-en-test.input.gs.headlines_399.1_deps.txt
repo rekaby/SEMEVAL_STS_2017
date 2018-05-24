@@ -1,0 +1,10 @@
+compound	poll	AP
+root	ROOT	poll
+punct	poll	:
+nsubj	prejudice	Majority
+case	US	in
+nmod:in	Majority	US
+aux	prejudice	have
+appos	poll	prejudice
+case	blacks	against
+nmod:against	prejudice	blacks

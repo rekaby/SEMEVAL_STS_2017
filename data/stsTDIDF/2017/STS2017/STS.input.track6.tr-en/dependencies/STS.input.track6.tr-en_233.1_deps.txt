@@ -1,0 +1,9 @@
+det	men	Some
+root	ROOT	men
+acl	men	doing
+compound	work	volunteer
+dobj	doing	work
+case	park	at
+det	park	the
+nmod:at	doing	park
+punct	men	.

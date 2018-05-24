@@ -1,0 +1,8 @@
+compound	Drownings	Portugal
+root	ROOT	Drownings
+punct	Drownings	:
+compound	Girl	UK
+nsubj	Named	Girl
+cc	Girl	And
+conj:and	Girl	Grandad
+parataxis	Drownings	Named

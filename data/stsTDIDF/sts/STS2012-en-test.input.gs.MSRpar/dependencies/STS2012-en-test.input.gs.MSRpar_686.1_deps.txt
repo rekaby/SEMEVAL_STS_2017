@@ -1,0 +1,16 @@
+det	rovers	The
+amod	rovers	identical
+nsubj	act	rovers
+aux	act	will
+root	ROOT	act
+case	geologists	as
+amod	geologists	robotic
+nmod:as	act	geologists
+punct	act	,
+xcomp	act	searching
+case	evidence	for
+nmod:for	searching	evidence
+case	water	of
+amod	water	past
+nmod:of	evidence	water
+punct	act	.

@@ -1,0 +1,18 @@
+aux	get	Do
+neg	get	n't
+root	ROOT	get
+det	ideas	any
+dobj	get	ideas
+punct	get	,
+punct	get	.-7) compound(programmer-2, U.S.
+nsubj	outsources	programmer
+root	ROOT	outsources
+amod	job	own
+dobj	outsources	job
+case	China	to
+nmod:to	job	China
+punct	outsources	,
+amod	videos	surfs
+compound	videos	cat
+dep	outsources	videos
+punct	outsources	-

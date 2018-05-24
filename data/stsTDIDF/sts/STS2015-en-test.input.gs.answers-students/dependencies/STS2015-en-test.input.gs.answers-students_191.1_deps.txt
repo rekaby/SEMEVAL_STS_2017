@@ -1,0 +1,7 @@
+det	gap	the
+nsubj	postive	gap
+case	2	in
+amod	2	terminal
+nmod:in	gap	2
+cop	postive	is
+root	ROOT	postive

@@ -1,0 +1,6 @@
+det	attack	Dozens
+amod	attack	dead
+case	resort	in
+compound	resort	Taliban
+nmod:in	dead	resort
+root	ROOT	attack

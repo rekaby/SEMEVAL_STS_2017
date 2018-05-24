@@ -1,0 +1,6 @@
+nsubj	have	Children
+root	ROOT	have
+advmod	clean	very
+amod	faces	clean
+dobj	have	faces
+punct	have	.

@@ -1,0 +1,10 @@
+det	guy	The
+nsubj	wearing	guy
+case	line	in
+det	line	the
+nmod:in	guy	line
+aux	wearing	is
+root	ROOT	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt

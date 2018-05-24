@@ -1,0 +1,4 @@
+waiting	role	nmod:for
+role	for	case
+sits	waiting	xcomp
+sits	man	nsubj

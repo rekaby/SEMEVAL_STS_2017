@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	plays	dog
+case	collar	with
+det	collar	a
+amod	collar	red
+nmod:with	dog	collar
+root	ROOT	plays
+case	snow	in
+det	snow	the
+nmod:in	plays	snow
+punct	plays	.

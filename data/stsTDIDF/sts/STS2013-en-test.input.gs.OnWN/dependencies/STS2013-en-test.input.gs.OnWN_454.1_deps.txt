@@ -1,0 +1,6 @@
+det	indication	an
+root	ROOT	indication
+case	something	of
+nmod:of	indication	something
+punct	indication	,
+appos	indication	evidence

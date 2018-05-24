@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	brown
+nsubj	resting	dog
+aux	resting	is
+root	ROOT	resting
+nmod:poss	head	his
+dobj	resting	head
+case	pillow	on
+det	pillow	a
+amod	pillow	white
+nmod:on	resting	pillow
+punct	resting	.

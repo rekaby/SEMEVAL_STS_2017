@@ -1,0 +1,14 @@
+passes	background	nmod:in
+animal	a	det
+man	coat	nmod:in
+animal	white	amod
+animal	to	case
+coat	blue	amod
+coat	in	case
+walks	animal	nmod:to
+walks	passes	advcl
+animal	small	amod
+passes	bus	nsubj
+coat	a	det
+walks	man	nsubj
+passes	while	mark

@@ -1,0 +1,5 @@
+nmod:npmod	higher	Stocks
+advmod	%	close
+nummod	%	0.39
+nmod:npmod	higher	%
+root	ROOT	higher

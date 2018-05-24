@@ -1,0 +1,7 @@
+root	ROOT	Thailand
+punct	Thailand	:
+nsubj	planned	Iranians
+parataxis	Thailand	planned
+mark	attack	to
+xcomp	planned	attack
+dobj	attack	Israelis

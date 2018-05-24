@@ -1,0 +1,6 @@
+det	resonant	a
+amod	resonant	loud
+root	ROOT	resonant
+dep	resonant	repeating
+dobj	repeating	noise
+punct	resonant	.

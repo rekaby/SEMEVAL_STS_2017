@@ -1,0 +1,13 @@
+det	beach	the
+nsubjpass	isolated	beach
+auxpass	isolated	is
+advmod	isolated	mainly
+root	ROOT	isolated
+case	families	except
+mwe	except	for
+det	families	a
+amod	families	few
+nmod:except_for	isolated	families
+cc	isolated	and
+det	rain	some
+conj:and	isolated	rain

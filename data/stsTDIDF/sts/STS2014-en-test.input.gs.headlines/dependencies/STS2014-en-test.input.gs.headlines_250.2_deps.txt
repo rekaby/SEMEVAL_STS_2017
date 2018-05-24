@@ -1,0 +1,8 @@
+root	ROOT	6
+amod	6	dead
+punct	6	,
+nummod	hurt	33
+appos	6	hurt
+case	blast	in
+compound	blast	Cotabato
+nmod:in	hurt	blast

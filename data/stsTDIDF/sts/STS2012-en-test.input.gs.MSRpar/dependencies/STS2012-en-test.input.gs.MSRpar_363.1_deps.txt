@@ -1,0 +1,17 @@
+nummod	officials	Two
+nsubj	said	officials
+advmod	said	initially
+root	ROOT	said
+advmod	300	about
+nummod	workers	300
+nsubjpass	arrested	workers
+aux	arrested	had
+auxpass	arrested	been
+ccomp	said	arrested
+case	stores	at
+nummod	stores	61
+nmod:at	arrested	stores
+case	states	in
+nummod	states	21
+nmod:in	stores	states
+punct	said	.

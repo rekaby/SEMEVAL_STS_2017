@@ -1,0 +1,6 @@
+compound	crash	South
+compound	crash	Africa
+compound	crash	train
+nsubj	kills	crash
+root	ROOT	kills
+dobj	kills	26

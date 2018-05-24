@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	fixing	woman
+case	clothes	in
+amod	clothes	comfortable
+nmod:in	woman	clothes
+aux	fixing	is
+root	ROOT	fixing
+nmod:poss	toenails	her
+dobj	fixing	toenails
+punct	fixing	.

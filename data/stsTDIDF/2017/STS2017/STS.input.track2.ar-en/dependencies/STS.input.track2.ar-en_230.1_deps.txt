@@ -1,0 +1,11 @@
+root	ROOT	Dogs
+case	mountainside	on
+det	mountainside	a
+nmod:on	Dogs	mountainside
+case	heads	with
+nmod:poss	heads	their
+nmod:with	mountainside	heads
+case	ground	in
+det	ground	the
+nmod:in	heads	ground
+punct	Dogs	.

@@ -1,0 +1,11 @@
+root	ROOT	Is
+nsubj	possible	it
+xcomp	Is	possible
+mark	replace	to
+xcomp	possible	replace
+det	switch	a
+dobj	replace	switch
+case	receptacle	with
+det	receptacle	a
+nmod:with	switch	receptacle
+punct	Is	?

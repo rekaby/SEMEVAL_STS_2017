@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	standing	men
+aux	standing	are
+root	ROOT	standing
+case	room	in
+det	room	a
+nmod:in	standing	room
+punct	standing	.

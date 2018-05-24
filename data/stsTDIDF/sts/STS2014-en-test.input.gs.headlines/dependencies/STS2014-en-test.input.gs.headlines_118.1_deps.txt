@@ -1,0 +1,9 @@
+compound	victim	India
+amod	victim	gang-rape
+nsubj	struggling	victim
+punct	struggling	``
+root	ROOT	struggling
+case	odds	against
+det	odds	the
+nmod:against	struggling	odds
+punct	struggling	''

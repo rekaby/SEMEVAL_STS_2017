@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	little
+nsubj	plays	girl
+root	ROOT	plays
+det	violin	the
+dobj	plays	violin
+case	beach	on
+det	beach	a
+nmod:on	plays	beach
+punct	plays	.

@@ -1,0 +1,5 @@
+det	ability	the
+root	ROOT	ability
+mark	recall	to
+acl	ability	recall
+dobj	recall	things

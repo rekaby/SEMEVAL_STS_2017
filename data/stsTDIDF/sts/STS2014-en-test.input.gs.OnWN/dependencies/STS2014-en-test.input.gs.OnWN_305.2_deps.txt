@@ -1,0 +1,13 @@
+det	vote	a
+root	ROOT	vote
+mark	select	to
+acl	vote	select
+det	winner	the
+dobj	select	winner
+case	position	of
+det	position	a
+nmod:of	winner	position
+cc	position	or
+amod	office	political
+conj:or	position	office
+punct	vote	.

@@ -1,0 +1,13 @@
+det	man	The
+nsubj	wears	man
+root	ROOT	wears
+det	sweater	a
+amod	sweater	blue
+dobj	wears	sweater
+cc	wears	and
+cop	barefoot	is
+conj:and	wears	barefoot
+case	court	on
+det	court	a
+nmod:on	barefoot	court
+punct	wears	.

@@ -1,0 +1,10 @@
+wearing	dress	dobj
+sidewalk	wet	amod
+woman	wearing	acl
+dress	wedding	compound
+wearing	suit	dobj
+wearing	and	cc
+wearing	woman	conj:and
+walking	sidewalk	nmod:on
+dress	walking	acl
+sidewalk	on	case

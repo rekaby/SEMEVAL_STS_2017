@@ -1,0 +1,14 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+case	child	near
+det	child	a
+amod	child	small
+nmod:near	standing	child
+acl	child	sitting
+case	horse	on
+det	horse	a
+nmod:on	sitting	horse
+punct	group	.

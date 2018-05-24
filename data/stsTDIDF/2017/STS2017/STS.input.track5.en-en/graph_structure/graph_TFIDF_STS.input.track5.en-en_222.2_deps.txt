@@ -1,0 +1,7 @@
+player	The	det
+gave	player	nsubj
+player	soccer	compound
+kick	a	det
+gave	ball	iobj
+kick	high	amod
+gave	kick	dobj

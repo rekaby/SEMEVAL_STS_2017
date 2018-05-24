@@ -1,0 +1,10 @@
+dep	govts	Afghan
+punct	govts	,
+nsubj	govts	US
+root	ROOT	govts
+compound	deal	sign
+nsubj	raid	deal
+case	night	on
+amod	night	controversial
+nmod:on	deal	night
+ccomp	govts	raid

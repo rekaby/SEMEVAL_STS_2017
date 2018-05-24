@@ -1,0 +1,10 @@
+furniture	around	case
+changing	furniture	nmod:around
+changing	man	nsubj
+changing	is	aux
+furniture	the	det
+changing	.	punct
+furniture	room	nmod:in
+ROOT	changing	root
+party	for	case
+furniture	party	nmod:for

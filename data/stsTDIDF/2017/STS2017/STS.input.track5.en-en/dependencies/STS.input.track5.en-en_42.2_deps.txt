@@ -1,0 +1,12 @@
+det	man	A
+nsubj	using	man
+aux	using	is
+root	ROOT	using
+det	chainsaw	a
+dobj	using	chainsaw
+mark	carve	to
+acl	chainsaw	carve
+det	sculpture	a
+amod	sculpture	wooden
+dobj	carve	sculpture
+punct	using	.

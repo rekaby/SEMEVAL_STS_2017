@@ -1,0 +1,7 @@
+nsubj	gather	Thousands
+root	ROOT	gather
+case	rally	for
+amod	rally	new
+amod	rally	Russian
+amod	rally	anti-Putin
+nmod:for	gather	rally

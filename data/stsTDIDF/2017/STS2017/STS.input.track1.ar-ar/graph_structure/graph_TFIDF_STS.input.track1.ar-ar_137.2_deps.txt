@@ -1,0 +1,12 @@
+meditate	peak	nmod:on
+meditate	.	punct
+peak	rock	compound
+ROOT	meditate	root
+forest	a	det
+peak	a	det
+peak	middle	nmod:in
+peak	on	case
+forest	of	case
+meditate	Girl	nsubj
+middle	forest	nmod:of
+peak	high	amod

@@ -1,0 +1,12 @@
+compound	Huang	Eddie
+root	ROOT	Huang
+case	Times	in
+det	Times	the
+compound	Times	NY
+nmod:in	Huang	Times
+punct	Huang	.-7) root(ROOT-0, i
+dep	i	vibe
+det	dude	this
+dobj	vibe	dude
+advmod	hard	so
+advmod	vibe	hard

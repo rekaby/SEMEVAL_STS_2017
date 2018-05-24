@@ -1,0 +1,9 @@
+root	ROOT	form
+det	boundary	the
+dobj	form	boundary
+nmod	boundary	of
+punct	form	;
+cop	contiguous	be
+parataxis	form	contiguous
+dep	contiguous	to
+punct	form	.

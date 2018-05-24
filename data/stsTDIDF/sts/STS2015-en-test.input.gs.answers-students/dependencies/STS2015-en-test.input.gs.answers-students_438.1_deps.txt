@@ -1,0 +1,10 @@
+nsubj	path	Switch
+dobj	Switch	Y
+cop	path	is
+case	path	in
+det	path	a
+amod	path	different
+root	ROOT	path
+case	Bulb	than
+nmod:than	path	Bulb
+dep	Bulb	A

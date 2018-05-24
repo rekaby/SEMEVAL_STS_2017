@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	hindering	of
+acl	act	hindering
+cc	hindering	or
+conj:or	hindering	obstructing
+cc	hindering	or
+conj:or	hindering	impeding
+punct	act	.

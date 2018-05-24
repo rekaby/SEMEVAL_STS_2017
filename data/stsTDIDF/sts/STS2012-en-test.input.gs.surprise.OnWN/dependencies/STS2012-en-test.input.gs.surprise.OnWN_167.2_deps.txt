@@ -1,0 +1,12 @@
+det	period	a
+root	ROOT	period
+case	time	of
+nmod:of	period	time
+acl	time	containing
+nummod	days	365
+punct	366	-LRB-
+cc	366	or
+dep	365	366
+punct	366	-RRB-
+dobj	containing	days
+punct	period	.

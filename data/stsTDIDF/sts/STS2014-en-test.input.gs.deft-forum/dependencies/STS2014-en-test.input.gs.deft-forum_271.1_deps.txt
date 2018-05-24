@@ -1,0 +1,11 @@
+root	ROOT	Tell
+dobj	Tell	me
+advmod	working	exactly
+det	system	which
+nsubj	working	system
+aux	working	is
+neg	working	n't
+advcl	Tell	working
+advmod	now	right
+advmod	working	now
+punct	Tell	?

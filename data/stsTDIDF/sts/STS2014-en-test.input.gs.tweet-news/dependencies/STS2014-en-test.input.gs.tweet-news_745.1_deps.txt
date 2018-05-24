@@ -1,0 +1,9 @@
+compound	REVIEW	DAILY
+root	ROOT	REVIEW
+punct	REVIEW	:
+amod	Letters	Selected
+dep	REVIEW	Letters
+case	Styron	of
+compound	Styron	William
+nmod:of	Letters	Styron
+dep	Letters	#Review

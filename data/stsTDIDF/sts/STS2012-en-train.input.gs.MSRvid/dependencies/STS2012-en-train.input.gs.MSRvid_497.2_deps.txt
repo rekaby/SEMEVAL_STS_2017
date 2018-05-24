@@ -1,0 +1,10 @@
+nsubj	removing	Someone
+aux	removing	is
+root	ROOT	removing
+det	seeds	the
+dobj	removing	seeds
+case	pepper	from
+det	pepper	a
+compound	pepper	bell
+nmod:from	removing	pepper
+punct	removing	.

@@ -1,0 +1,11 @@
+compound	officials	AirTran
+nsubj	declined	officials
+cc	officials	and
+det	official	a
+compound	official	Boeing
+conj:and	officials	official
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+nmod:tmod	comment	yesterday
+punct	declined	.

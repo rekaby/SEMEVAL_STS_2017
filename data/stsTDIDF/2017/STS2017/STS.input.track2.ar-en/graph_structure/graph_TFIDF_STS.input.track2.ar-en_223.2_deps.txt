@@ -1,0 +1,7 @@
+jumps	man	nsubj
+watched	crowd	nsubj
+jumps	watched	advcl
+watched	while	mark
+jumps	Motocross	dobj
+jumps	.	punct
+ROOT	jumps	root

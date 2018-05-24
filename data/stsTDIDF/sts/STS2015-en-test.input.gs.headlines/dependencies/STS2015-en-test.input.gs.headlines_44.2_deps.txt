@@ -1,0 +1,13 @@
+nsubj	win	Zimbabwe
+nummod	Äôs	‚
+dep	Zimbabwe	Äôs
+compound	challenges	opposition
+compound	challenges	MDC
+compound	challenges	party
+dep	Äôs	challenges
+compound	Mugabe	Robert
+dobj	challenges	Mugabe
+nummod	election	‚
+compound	election	Äôs
+dep	Mugabe	election
+root	ROOT	win

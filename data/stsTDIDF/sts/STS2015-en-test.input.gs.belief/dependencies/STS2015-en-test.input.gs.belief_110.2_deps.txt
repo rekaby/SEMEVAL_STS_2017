@@ -1,0 +1,15 @@
+nsubj	think	one
+aux	think	would
+root	ROOT	think
+nsubj	run	they
+aux	run	would
+ccomp	think	run
+case	story	with
+det	story	the
+nmod:with	run	story
+punct	think	,
+cc	think	but
+nsubj	n't	they
+aux	n't	have
+conj:but	think	n't
+punct	think	.

@@ -1,0 +1,7 @@
+compound	Snowden	Fugitive
+nsubj	short-listed	Snowden
+root	ROOT	short-listed
+case	prize	for
+amod	prize	European
+compound	prize	rights
+nmod:for	short-listed	prize

@@ -1,0 +1,8 @@
+compound	Operative	Iraq
+compound	Operative	Releases
+compound	Operative	Suspected
+compound	Operative	Hezbollah
+nsubj	Wanted	Operative
+root	ROOT	Wanted
+case	U.S.	By
+nmod:by	Wanted	U.S.

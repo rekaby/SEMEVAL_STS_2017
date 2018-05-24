@@ -1,0 +1,9 @@
+root	ROOT	Australia
+punct	Australia	:
+compound	asylum-seekers	Australia
+compound	asylum-seekers	hands
+dep	Australia	asylum-seekers
+advmod	asylum-seekers	back
+case	Lanka	to
+compound	Lanka	Sri
+nmod:to	back	Lanka

@@ -1,0 +1,7 @@
+ride	People	nsubj
+racetrack	around	case
+motorcycles	on	case
+People	motorcycles	nmod:on
+ROOT	ride	root
+ride	racetrack	nmod:around
+racetrack	a	det

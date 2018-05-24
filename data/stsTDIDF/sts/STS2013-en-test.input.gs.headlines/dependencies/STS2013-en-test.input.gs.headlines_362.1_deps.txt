@@ -1,0 +1,9 @@
+amod	dead	Several
+root	ROOT	dead
+punct	dead	,
+dep	dead	550
+acl	550	injured
+case	train	in
+compound	train	Argentina
+nmod:in	injured	train
+dep	dead	crash

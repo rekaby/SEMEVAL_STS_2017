@@ -1,0 +1,7 @@
+det	people	The
+nummod	people	two
+nsubj	males	people
+cop	males	are
+det	males	both
+root	ROOT	males
+punct	males	.

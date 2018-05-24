@@ -1,0 +1,8 @@
+root	ROOT	hit
+cc	hit	or
+conj:or	hit	return
+mark	touches	before
+nsubj	touches	it
+advcl	hit	touches
+det	ground	the
+dobj	touches	ground

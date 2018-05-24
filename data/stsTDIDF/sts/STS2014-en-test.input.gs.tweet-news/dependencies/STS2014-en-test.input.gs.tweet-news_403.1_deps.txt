@@ -1,0 +1,12 @@
+compound	Plan	#Cosmos
+compound	Plan	Unveil
+root	ROOT	Plan
+case	Stadium	for
+compound	Stadium	#Soccer
+nmod:for	Plan	Stadium
+case	#EconDev	Near
+compound	#EconDev	#BelmontPark
+compound	#EconDev	#NYS
+compound	#EconDev	#NY
+compound	#EconDev	#LongIsland
+nmod:near	Plan	#EconDev

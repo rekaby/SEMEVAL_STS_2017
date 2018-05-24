@@ -1,0 +1,8 @@
+compound	Newman	Paul
+nsubj	one	Newman
+cop	one	was
+root	ROOT	one
+case	them	of
+nmod:of	one	them
+punct	one	.
+punct	one	''

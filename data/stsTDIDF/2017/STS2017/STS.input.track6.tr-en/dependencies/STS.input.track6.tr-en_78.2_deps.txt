@@ -1,0 +1,7 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	people
+case	balcony	on
+det	balcony	the
+nmod:on	people	balcony
+punct	are	.

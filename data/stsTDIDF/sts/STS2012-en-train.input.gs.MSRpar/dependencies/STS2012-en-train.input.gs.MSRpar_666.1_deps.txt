@@ -1,0 +1,15 @@
+nsubj	detailed	McGill
+advmod	detailed	also
+root	ROOT	detailed
+det	hole	the
+dobj	detailed	hole
+nsubjpass	cut	that
+aux	cut	had
+auxpass	cut	been
+acl:relcl	hole	cut
+case	trunk	in
+det	Caprice	the
+nmod:poss	trunk	Caprice
+case	Caprice	's
+nmod:in	cut	trunk
+punct	detailed	.

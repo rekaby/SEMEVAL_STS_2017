@@ -1,0 +1,7 @@
+nsubj	Live	Markets
+root	ROOT	Live
+punct	Live	:
+amod	data	Waiting
+case	China	for
+nmod:for	Waiting	China
+dobj	Live	data

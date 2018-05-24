@@ -1,0 +1,5 @@
+compound	attack	Sex
+nsubj	investigated	attack
+case	woman	on
+nmod:on	attack	woman
+root	ROOT	investigated

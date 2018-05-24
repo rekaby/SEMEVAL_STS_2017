@@ -1,0 +1,9 @@
+det	portion	the
+amod	portion	particular
+root	ROOT	portion
+case	space	of
+nmod:of	portion	space
+acl	space	occupied
+case	something	by
+nmod:by	occupied	something
+punct	portion	.

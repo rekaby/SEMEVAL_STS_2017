@@ -1,0 +1,4 @@
+root	ROOT	pass
+case	esophagus	through
+det	esophagus	the
+nmod:through	pass	esophagus

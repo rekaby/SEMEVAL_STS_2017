@@ -1,0 +1,9 @@
+det	bike	A
+nsubj	women	bike
+cop	women	is
+case	women	next
+mwe	next	to
+det	women	a
+compound	women	couple
+root	ROOT	women
+punct	women	.

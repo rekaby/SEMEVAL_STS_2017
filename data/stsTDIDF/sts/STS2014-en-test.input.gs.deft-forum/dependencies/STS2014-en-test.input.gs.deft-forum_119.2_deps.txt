@@ -1,0 +1,8 @@
+compound	Ollie	Hi
+root	ROOT	Ollie
+punct	Ollie	:
+nsubj	amazing	That
+cop	amazing	is
+advmod	amazing	absolutely
+dep	Ollie	amazing
+punct	Ollie	.

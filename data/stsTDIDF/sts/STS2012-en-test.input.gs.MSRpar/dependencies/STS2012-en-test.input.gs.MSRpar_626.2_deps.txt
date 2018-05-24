@@ -1,0 +1,13 @@
+nmod:poss	council	Philadelphia
+case	Philadelphia	's
+nsubj	first	council
+cop	first	is
+neg	first	not
+det	first	the
+root	ROOT	first
+mark	defy	to
+xcomp	first	defy
+det	policy	the
+amod	policy	national
+dobj	defy	policy
+punct	first	.

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	barking	dog
+aux	barking	is
+root	ROOT	barking
+case	toy	at
+det	toy	a
+nmod:at	barking	toy
+punct	barking	.

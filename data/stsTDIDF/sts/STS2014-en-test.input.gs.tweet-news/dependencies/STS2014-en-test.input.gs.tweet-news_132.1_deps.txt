@@ -1,0 +1,8 @@
+aux	survive	Can
+nsubj	survive	Livestrong
+root	ROOT	survive
+compound	Armstrong	Lance
+nsubj	admission	Armstrong
+compound	admission	doping
+ccomp	survive	admission
+punct	survive	?

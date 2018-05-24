@@ -1,0 +1,3 @@
+children	swimming	acl
+swimming	pool	nmod:in
+group	children	nmod:of

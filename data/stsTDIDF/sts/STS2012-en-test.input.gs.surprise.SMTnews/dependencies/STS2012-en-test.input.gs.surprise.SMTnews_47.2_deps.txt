@@ -1,0 +1,9 @@
+case	absence	In
+det	absence	the
+root	ROOT	absence
+case	change	of
+det	change	a
+nmod:of	absence	change
+case	associations	of
+nmod:of	change	associations
+punct	absence	.

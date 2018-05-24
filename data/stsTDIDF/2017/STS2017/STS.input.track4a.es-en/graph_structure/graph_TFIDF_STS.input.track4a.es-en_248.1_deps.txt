@@ -1,0 +1,6 @@
+holding	street	nsubj
+accordion	an	det
+woman	running	acl
+running	holding	xcomp
+holding	accordion	dobj
+running	down	compound:prt

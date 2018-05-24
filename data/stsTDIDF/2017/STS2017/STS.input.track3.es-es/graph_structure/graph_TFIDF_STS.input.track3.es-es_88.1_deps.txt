@@ -1,0 +1,5 @@
+wedding	at	case
+wedding	a	det
+wearing	dress	dobj
+wearing	wedding	nmod:at
+girl	wearing	acl

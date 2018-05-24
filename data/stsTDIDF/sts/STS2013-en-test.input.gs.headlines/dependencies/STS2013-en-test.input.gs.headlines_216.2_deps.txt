@@ -1,0 +1,8 @@
+root	ROOT	U.S.
+punct	U.S.	,
+nsubj	prepare	Iran
+acl:relcl	U.S.	prepare
+case	talks	for
+compound	talks	Istanbul
+amod	talks	nuclear
+nmod:for	prepare	talks

@@ -1,0 +1,12 @@
+mark	is	because
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	1	between
+amod	1	terminal
+nmod:between	gap	1
+cc	1	and
+amod	6	terminal
+conj:and	1	6
+punct	is	.

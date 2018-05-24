@@ -1,0 +1,11 @@
+nsubj	killed	17
+root	ROOT	killed
+punct	killed	,
+dobj	killed	133
+acl	133	wounded
+case	attacks	in
+compound	attacks	bomb
+nmod:in	wounded	attacks
+case	Iraq	in
+amod	Iraq	northern
+nmod:in	attacks	Iraq

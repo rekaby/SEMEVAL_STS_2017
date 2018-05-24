@@ -1,0 +1,12 @@
+root	ROOT	Regain
+cc	Regain	or
+conj:or	Regain	make
+compound:prt	make	up
+case	loss	for
+punct	loss	,
+case	loss	as
+mwe	as	of
+det	loss	a
+amod	loss	financial
+nmod:as_of	make	loss
+punct	Regain	.

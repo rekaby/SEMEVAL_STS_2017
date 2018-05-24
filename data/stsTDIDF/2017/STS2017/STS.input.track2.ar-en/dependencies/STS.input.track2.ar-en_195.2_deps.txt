@@ -1,0 +1,8 @@
+root	ROOT	Atorjuhan
+nummod	adults	two
+dobj	Atorjuhan	adults
+case	area	in
+det	area	the
+compound	area	gaming
+nmod:in	Atorjuhan	area
+punct	Atorjuhan	.

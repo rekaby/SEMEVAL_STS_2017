@@ -1,0 +1,12 @@
+root	ROOT	claims
+case	character	about
+nmod:poss	character	trayvon
+case	trayvon	's
+nmod:about	claims	character
+cc	character	And
+advmod	do	when
+aux	do	did
+nsubj	do	I
+conj:and	character	do
+dobj	do	that
+punct	claims	?

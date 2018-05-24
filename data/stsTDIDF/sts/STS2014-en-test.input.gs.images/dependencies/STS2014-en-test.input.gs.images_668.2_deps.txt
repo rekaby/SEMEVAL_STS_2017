@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	talking
+case	plane	in
+mwe	in	front
+mwe	in	of
+det	plane	a
+amod	plane	small
+nmod:in_front_of	talking	plane
+punct	men	.

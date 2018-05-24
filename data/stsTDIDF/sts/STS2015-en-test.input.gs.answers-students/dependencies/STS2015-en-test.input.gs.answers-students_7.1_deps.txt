@@ -1,0 +1,7 @@
+root	ROOT	had
+det	path	a
+amod	path	closed
+dobj	had	path
+case	battery	to
+det	battery	the
+nmod:to	path	battery

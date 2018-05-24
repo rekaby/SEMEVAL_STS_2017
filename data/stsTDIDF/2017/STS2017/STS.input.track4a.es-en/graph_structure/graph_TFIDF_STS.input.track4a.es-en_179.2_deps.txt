@@ -1,0 +1,15 @@
+grows	he	nsubj
+drives	cattle	nmod:on
+crops	corn	compound
+grows	crops	dobj
+work	grows	acl
+cattle	two	nummod
+ROOT	drives	root
+drives	plow	xcomp
+farmer	A	det
+plow	to	mark
+plow	field	dobj
+cattle	on	case
+plow	work	nmod:for
+drives	farmer	nsubj
+grows	as	mark

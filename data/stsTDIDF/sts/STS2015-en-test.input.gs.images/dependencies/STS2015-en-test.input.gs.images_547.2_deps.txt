@@ -1,0 +1,14 @@
+det	boy	A
+amod	boy	young
+nsubj	poses	boy
+acl	boy	wearing
+advmod	shorts	only
+amod	shorts	green
+dobj	wearing	shorts
+root	ROOT	poses
+advmod	poses	awkwardly
+case	background	with
+det	background	a
+compound	background	brick
+nmod:with	awkwardly	background
+punct	poses	.

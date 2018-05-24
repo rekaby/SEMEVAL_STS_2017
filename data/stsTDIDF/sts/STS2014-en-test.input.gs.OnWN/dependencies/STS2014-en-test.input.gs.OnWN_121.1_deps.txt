@@ -1,0 +1,7 @@
+det	weapon	a
+amod	weapon	thrusting
+root	ROOT	weapon
+punct	weapon	,
+case	sword	as
+det	sword	a
+nmod:as	weapon	sword

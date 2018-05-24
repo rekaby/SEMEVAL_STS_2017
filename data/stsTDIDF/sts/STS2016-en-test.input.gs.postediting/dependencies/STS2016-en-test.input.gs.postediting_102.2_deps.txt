@@ -1,0 +1,12 @@
+nsubj	better	It
+cop	better	is
+ccomp	need	better
+case	example	for
+nmod:for	better	example
+punct	need	,
+nsubj	need	they
+aux	need	will
+advmod	need	still
+root	ROOT	need
+dobj	need	forces
+punct	need	.

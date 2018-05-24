@@ -1,0 +1,7 @@
+advmod	quantity	twice
+det	quantity	the
+root	ROOT	quantity
+cc	quantity	or
+conj:or	quantity	amount
+case	something	of
+nmod:of	quantity	something

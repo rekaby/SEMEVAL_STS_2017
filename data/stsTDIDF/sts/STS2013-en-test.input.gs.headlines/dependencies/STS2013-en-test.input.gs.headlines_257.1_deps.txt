@@ -1,0 +1,7 @@
+compound	Crow	Sheryl
+nsubj	says	Crow
+root	ROOT	says
+ccomp	says	has
+amod	tumor	benign
+compound	tumor	brain
+dobj	has	tumor

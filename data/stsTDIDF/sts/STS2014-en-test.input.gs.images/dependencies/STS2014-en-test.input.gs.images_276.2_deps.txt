@@ -1,0 +1,9 @@
+det	motorcycle	The
+amod	motorcycle	yellow
+nsubjpass	parked	motorcycle
+auxpass	parked	is
+root	ROOT	parked
+case	street	on
+det	street	the
+nmod:on	parked	street
+punct	parked	.

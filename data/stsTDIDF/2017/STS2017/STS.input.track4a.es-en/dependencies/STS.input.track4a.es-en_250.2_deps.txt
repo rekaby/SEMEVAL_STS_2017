@@ -1,0 +1,9 @@
+det	man	A
+nsubj	working	man
+aux	working	is
+root	ROOT	working
+case	register	at
+det	register	a
+compound	register	cash
+nmod:at	working	register
+punct	working	.

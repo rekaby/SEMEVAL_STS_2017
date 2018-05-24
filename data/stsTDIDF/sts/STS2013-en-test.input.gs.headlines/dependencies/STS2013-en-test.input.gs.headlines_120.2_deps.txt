@@ -1,0 +1,9 @@
+nummod	shooting	1
+amod	shooting	dead
+punct	shooting	,
+nummod	shooting	4
+amod	shooting	wounded
+case	school	in
+compound	school	Ohio
+nmod:in	wounded	school
+root	ROOT	shooting

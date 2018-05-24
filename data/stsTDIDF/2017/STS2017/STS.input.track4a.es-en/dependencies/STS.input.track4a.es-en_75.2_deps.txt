@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	working	people
+aux	working	are
+root	ROOT	working
+case	site	at
+det	site	a
+compound	site	construction
+nmod:at	working	site
+punct	working	.

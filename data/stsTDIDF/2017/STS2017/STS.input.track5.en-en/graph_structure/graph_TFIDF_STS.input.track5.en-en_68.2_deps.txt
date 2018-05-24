@@ -1,0 +1,4 @@
+about	men	nsubj
+match	in	case
+about	compete	xcomp
+compete	match	nmod:in

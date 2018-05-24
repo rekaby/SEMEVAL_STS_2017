@@ -1,0 +1,8 @@
+root	ROOT	manner
+case	handling	of
+nmod:of	manner	handling
+punct	manner	,
+acl	manner	managing
+dobj	managing	someone
+cc	someone	or
+conj:or	someone	something

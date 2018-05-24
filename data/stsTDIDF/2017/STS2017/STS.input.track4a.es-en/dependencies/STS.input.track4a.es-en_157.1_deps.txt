@@ -1,0 +1,15 @@
+det	man	A
+amod	man	shaved
+nsubj	runs	man
+root	ROOT	runs
+case	speed	at
+amod	speed	full
+nmod:at	runs	speed
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	runs	sidewalk
+case	leotard	with
+det	leotard	a
+amod	leotard	white
+nmod:with	sidewalk	leotard
+punct	runs	.

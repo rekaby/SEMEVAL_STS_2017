@@ -1,0 +1,11 @@
+compound	Swartz	Aaron
+root	ROOT	Swartz
+punct	Swartz	,
+det	Crusader	a
+compound	Crusader	Data
+appos	Swartz	Crusader
+cc	Crusader	and
+advmod	Cause	Now
+punct	Cause	,
+det	Cause	a
+conj:and	Crusader	Cause

@@ -1,0 +1,15 @@
+root	ROOT	`
+compound	books	Dad
+punct	books	,
+nsubj	books	it
+cop	books	's
+advmod	books	only
+nmod:poss	books	my
+root	`	books
+nsubj	friends	I
+cop	friends	am
+acl:relcl	books	friends
+nmod	friends	with
+punct	books	.
+punct	books	'-14) compound(#womenonthefrontline-2, #Malala
+root	ROOT	#womenonthefrontline

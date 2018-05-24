@@ -1,0 +1,6 @@
+dog	playing	acl
+dog	Black	amod
+ROOT	dog	root
+game	green	nmod:of
+dog	.	punct
+green	of	case

@@ -1,0 +1,6 @@
+nsubj	walking	People
+root	ROOT	walking
+case	dark	in
+det	dark	the
+nmod:in	walking	dark
+punct	walking	.

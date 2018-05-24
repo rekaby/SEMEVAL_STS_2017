@@ -1,0 +1,11 @@
+punct	emergency	``
+amod	emergency	humanitarian
+root	ROOT	emergency
+punct	emergency	.-4) root(ROOT-0, ``
+root	``	declared
+case	groups	by
+compound	groups	Aid
+nmod:by	declared	groups
+case	Syria	in
+nmod:in	groups	Syria
+punct	declared	''

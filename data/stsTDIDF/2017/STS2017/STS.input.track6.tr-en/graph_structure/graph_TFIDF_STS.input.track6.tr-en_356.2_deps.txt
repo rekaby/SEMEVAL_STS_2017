@@ -1,0 +1,14 @@
+brown	and	cc
+dog	brown	amod
+lies	rug	nmod:in
+rug	a	det
+rug	red	amod
+lies	dog	nsubj
+rug	shot	acl
+dog	The	det
+shot	sunlight	nmod:by
+rug	in	case
+sunlight	by	case
+dog	little	amod
+sunlight	the	det
+brown	white	conj:and

@@ -1,0 +1,8 @@
+root	ROOT	Facilitator
+punct	Facilitator	:
+compound	me	Show
+nsubj	child	me
+det	child	the
+amod	child	smart
+dep	Facilitator	child
+punct	Facilitator	.

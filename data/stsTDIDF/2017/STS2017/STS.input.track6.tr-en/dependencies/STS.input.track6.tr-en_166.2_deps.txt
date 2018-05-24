@@ -1,0 +1,9 @@
+det	bunch	A
+root	ROOT	bunch
+case	landing	of
+compound	landing	goose
+nmod:of	bunch	landing
+case	field	in
+det	field	a
+nmod:in	bunch	field
+punct	bunch	.

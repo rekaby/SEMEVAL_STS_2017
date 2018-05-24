@@ -1,0 +1,11 @@
+det	people	The
+nsubj	shouting	people
+csubj	hypocrites	shouting
+case	justice	for
+nmod:for	shouting	justice
+case	Trayvon	for
+nmod:for	justice	Trayvon
+cop	hypocrites	are
+det	hypocrites	all
+root	ROOT	hypocrites
+punct	hypocrites	.

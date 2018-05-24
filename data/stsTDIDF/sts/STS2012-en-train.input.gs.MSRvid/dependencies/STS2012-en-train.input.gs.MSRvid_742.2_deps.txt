@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	little
+nsubj	vacuuming	boy
+aux	vacuuming	is
+root	ROOT	vacuuming
+det	floor	the
+dobj	vacuuming	floor
+punct	vacuuming	.

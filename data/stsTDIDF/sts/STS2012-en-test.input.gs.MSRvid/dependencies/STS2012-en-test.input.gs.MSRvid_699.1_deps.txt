@@ -1,0 +1,8 @@
+det	cheetah	A
+nsubj	running	cheetah
+aux	running	is
+root	ROOT	running
+case	prey	behind
+nmod:poss	prey	its
+nmod:behind	running	prey
+punct	running	.

@@ -1,0 +1,10 @@
+det	cat	A
+nsubj	opening	cat
+aux	opening	is
+root	ROOT	opening
+det	drawer	a
+dobj	opening	drawer
+cc	drawer	and
+conj:and	drawer	climbing
+advmod	climbing	inside
+punct	opening	.

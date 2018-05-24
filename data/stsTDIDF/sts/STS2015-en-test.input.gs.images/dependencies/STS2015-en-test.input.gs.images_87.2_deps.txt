@@ -1,0 +1,8 @@
+det	man	The
+root	ROOT	man
+dep	man	is
+advmod	is	up
+case	air	in
+det	air	the
+nmod:in	up	air
+punct	man	.

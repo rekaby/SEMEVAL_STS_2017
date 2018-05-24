@@ -1,0 +1,10 @@
+tripped	she	nsubj
+tripped	hurt	conj:and
+tripped	and	cc
+tripped	because	mark
+steps	on	case
+sitting	woman	nsubj
+hurt	ankle	dobj
+ankle	her	nmod:poss
+sitting	steps	nmod:on
+sitting	tripped	advcl

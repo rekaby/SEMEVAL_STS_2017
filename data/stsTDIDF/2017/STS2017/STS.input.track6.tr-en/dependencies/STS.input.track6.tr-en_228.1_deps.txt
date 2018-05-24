@@ -1,0 +1,11 @@
+det	windsurfer	A
+nsubj	board	windsurfer
+acl	windsurfer	dressed
+case	teal	in
+nmod:in	dressed	teal
+cop	board	is
+case	board	on
+nmod:poss	board	his
+compound	board	boogie
+root	ROOT	board
+punct	board	.

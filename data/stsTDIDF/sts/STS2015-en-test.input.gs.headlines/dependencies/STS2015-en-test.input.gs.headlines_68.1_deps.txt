@@ -1,0 +1,7 @@
+amod	president	Iranian
+nsubj	makes	president
+root	ROOT	makes
+dobj	makes	debut
+case	stage	on
+compound	stage	world
+nmod:on	debut	stage

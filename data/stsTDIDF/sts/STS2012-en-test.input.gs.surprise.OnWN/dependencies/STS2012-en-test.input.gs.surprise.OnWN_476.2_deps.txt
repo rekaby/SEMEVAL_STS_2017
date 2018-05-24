@@ -1,0 +1,13 @@
+root	ROOT	recite
+case	intonation	with
+amod	intonation	musical
+nmod:with	recite	intonation
+punct	recite	;
+dep	recite	recite
+case	chant	as
+det	chant	a
+nmod:as	recite	chant
+cc	chant	or
+det	psalm	a
+conj:or	chant	psalm
+punct	recite	.

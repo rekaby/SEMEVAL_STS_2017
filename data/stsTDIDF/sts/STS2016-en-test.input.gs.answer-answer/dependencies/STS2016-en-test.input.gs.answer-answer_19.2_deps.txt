@@ -1,0 +1,7 @@
+root	ROOT	Start
+dobj	Start	them
+advmod	early	as
+advmod	Start	early
+case	possible	as
+nmod:as	early	possible
+punct	Start	.

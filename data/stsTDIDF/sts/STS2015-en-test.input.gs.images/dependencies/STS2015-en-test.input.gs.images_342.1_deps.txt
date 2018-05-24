@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	surfing	girl
+case	suit	in
+det	suit	a
+amod	suit	black
+cc	black	and
+conj:and	black	blue
+amod	suit	wet
+nmod:in	girl	suit
+aux	surfing	is
+root	ROOT	surfing
+punct	surfing	.

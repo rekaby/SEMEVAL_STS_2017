@@ -1,0 +1,8 @@
+det	terminal	the
+nsubjpass	separated	terminal
+auxpass	separated	is
+root	ROOT	separated
+case	terminal	from
+det	terminal	the
+compound	terminal	battery
+nmod:from	separated	terminal

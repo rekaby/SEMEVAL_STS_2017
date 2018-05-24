@@ -1,0 +1,5 @@
+ROOT	players	root
+players	Soccer	compound
+players	day	nmod:on
+day	game	compound
+players	.	punct

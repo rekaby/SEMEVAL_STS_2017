@@ -1,0 +1,11 @@
+det	man	The
+nsubj	singing	man
+cop	singing	is
+root	ROOT	singing
+cc	singing	and
+det	woman	the
+nsubj	playing	woman
+aux	playing	is
+conj:and	singing	playing
+dobj	playing	guitar
+punct	singing	.

@@ -1,0 +1,17 @@
+nummod	people	Two
+nsubj	sit	people
+root	ROOT	sit
+case	bench	on
+det	bench	a
+amod	bench	wooden
+nmod:on	sit	bench
+case	trees	by
+det	trees	the
+nmod:by	sit	trees
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+amod	building	white
+nmod:in_front_of	trees	building
+punct	sit	.

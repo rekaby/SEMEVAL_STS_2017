@@ -1,0 +1,7 @@
+compound	Deaths	US
+compound	Deaths	Military
+root	ROOT	Deaths
+case	Afghanistan	in
+nmod:in	Deaths	Afghanistan
+case	2,153	at
+nmod:at	Deaths	2,153

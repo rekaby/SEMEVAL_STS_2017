@@ -1,0 +1,9 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	papers
+case	dish	on
+det	dish	a
+nmod:on	putting	dish
+punct	putting	.

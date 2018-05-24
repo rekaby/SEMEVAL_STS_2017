@@ -1,0 +1,5 @@
+mucus	a	det
+nose	The	det
+has	nose	nsubj
+has	mucus	dobj
+mucus	inside	advmod

@@ -1,0 +1,10 @@
+nummod	trains	Two
+amod	trains	green
+cc	green	and
+conj:and	green	white
+root	ROOT	trains
+acl	trains	sitting
+case	tracks	on
+det	tracks	the
+nmod:on	sitting	tracks
+punct	trains	.

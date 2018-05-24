@@ -1,0 +1,6 @@
+amod	pilgrims	Italian
+nsubj	die	pilgrims
+root	ROOT	die
+case	plunge	in
+compound	plunge	bus
+nmod:in	die	plunge

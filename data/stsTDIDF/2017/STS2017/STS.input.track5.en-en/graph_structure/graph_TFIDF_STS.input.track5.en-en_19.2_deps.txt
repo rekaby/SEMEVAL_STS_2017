@@ -1,0 +1,8 @@
+vest	fishing	compound
+wearing	stream	nmod:in
+hat	vest	conj:and
+hat	straw	compound
+hat	and	cc
+wearing	hat	dobj
+stream	in	case
+stream	a	det

@@ -1,0 +1,12 @@
+det	lamb	A
+amod	lamb	black
+cc	black	and
+conj:and	black	white
+root	ROOT	lamb
+case	lambs	with
+amod	lambs	other
+nmod:with	lamb	lambs
+case	background	in
+det	background	the
+nmod:in	lamb	background
+punct	lamb	.

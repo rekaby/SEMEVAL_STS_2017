@@ -1,0 +1,14 @@
+det	treaty	the
+compound	treaty	cfe
+nsubj	protect	treaty
+aux	protect	does
+neg	protect	not
+advmod	protect	duly
+root	ROOT	protect
+det	federation	the
+amod	federation	russian
+nmod:poss	interests	federation
+case	federation	's
+compound	interests	security
+dobj	protect	interests
+punct	protect	.

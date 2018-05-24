@@ -1,0 +1,8 @@
+det	man	A
+nsubj	talks	man
+root	ROOT	talks
+case	phone	on
+nmod:poss	phone	his
+compound	phone	cell
+nmod:on	talks	phone
+punct	talks	.

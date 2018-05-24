@@ -1,0 +1,14 @@
+amod	Erdogan	Turkish
+compound	Erdogan	PM
+nsubj	says	Erdogan
+root	ROOT	says
+punct	says	``
+dobj	says	duty
+punct	duty	''
+mark	order	to
+acl	duty	order
+dobj	order	crackdown
+case	protest	on
+compound	protest	Istanbul
+compound	protest	park
+nmod:on	crackdown	protest

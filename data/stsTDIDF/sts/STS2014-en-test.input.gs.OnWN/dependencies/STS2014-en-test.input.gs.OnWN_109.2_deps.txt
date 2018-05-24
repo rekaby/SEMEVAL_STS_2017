@@ -1,0 +1,7 @@
+root	ROOT	indicate
+det	decision	a
+dobj	indicate	decision
+case	regard	in
+nmod:in	decision	regard
+dep	regard	to
+punct	indicate	.

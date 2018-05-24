@@ -1,0 +1,5 @@
+shopping	dinner	nmod:for
+men	Both	cc:preconj
+ROOT	shopping	root
+shopping	men	nsubj
+shopping	were	aux

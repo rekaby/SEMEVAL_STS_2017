@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	sign	a
+nsubj	is	sign
+case	image	in
+det	image	this
+nmod:in	sign	image
+punct	is	.

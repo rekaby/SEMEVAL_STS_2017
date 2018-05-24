@@ -1,0 +1,8 @@
+nsubj	Found	Bodies
+root	ROOT	Found
+case	Crash	at
+amod	Crash	Russian
+compound	Crash	Jet
+nmod:at	Found	Crash
+case	Indonesia	in
+nmod:in	Crash	Indonesia

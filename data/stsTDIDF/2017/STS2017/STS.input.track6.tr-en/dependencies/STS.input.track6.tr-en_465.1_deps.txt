@@ -1,0 +1,11 @@
+det	group	A
+nsubj	hang	group
+case	people	of
+amod	people	young
+nmod:of	group	people
+root	ROOT	hang
+compound:prt	hang	out
+case	evening	in
+det	evening	the
+nmod:in	hang	evening
+punct	hang	.

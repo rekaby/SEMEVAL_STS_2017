@@ -1,0 +1,5 @@
+suit	blue	amod
+man	light	nmod:next_to
+light	traffic	compound
+light	next	case
+man	suit	nmod:in

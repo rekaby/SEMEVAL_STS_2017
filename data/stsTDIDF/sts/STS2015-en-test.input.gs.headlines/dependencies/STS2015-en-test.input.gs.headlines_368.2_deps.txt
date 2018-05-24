@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	78	least
+root	ROOT	78
+acl	78	killed
+case	bombing	in
+compound	bombing	Pakistan
+compound	bombing	church
+nmod:in	killed	bombing

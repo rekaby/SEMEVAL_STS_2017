@@ -1,0 +1,7 @@
+det	deer	A
+nsubj	jumping	deer
+root	ROOT	jumping
+compound:prt	jumping	over
+det	fence	a
+dobj	jumping	fence
+punct	jumping	.

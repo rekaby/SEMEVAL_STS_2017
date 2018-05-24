@@ -1,0 +1,8 @@
+amod	stocks	Weak
+compound	stocks	earnings
+compound	stocks	drag
+root	ROOT	stocks
+amod	stocks	lower
+case	Street	on
+compound	Street	Wall
+nmod:on	lower	Street

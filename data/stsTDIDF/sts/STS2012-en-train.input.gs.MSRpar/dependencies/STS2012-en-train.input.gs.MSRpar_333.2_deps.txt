@@ -1,0 +1,13 @@
+det	talks	Those
+nsubj	taken	talks
+aux	taken	have
+neg	taken	not
+root	ROOT	taken
+dobj	taken	place
+punct	taken	,
+case	spokeswoman	according
+mwe	according	to
+det	spokeswoman	an
+compound	spokeswoman	Oracle
+nmod:according_to	taken	spokeswoman
+punct	taken	.

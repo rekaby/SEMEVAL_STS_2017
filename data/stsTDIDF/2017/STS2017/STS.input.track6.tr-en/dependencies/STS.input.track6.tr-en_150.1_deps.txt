@@ -1,0 +1,7 @@
+det	man	The
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+det	tube	a
+dobj	holding	tube
+punct	holding	.

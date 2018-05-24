@@ -1,0 +1,10 @@
+nsubj	sentences	Egypt
+root	ROOT	sentences
+dobj	sentences	Pakistani
+case	5	amid
+nmod:amid	sentences	5
+case	death	to
+nmod:to	5	death
+case	smuggling	for
+compound	smuggling	drug
+nmod:for	death	smuggling

@@ -1,0 +1,15 @@
+det	silver	A
+root	ROOT	silver
+cc	silver	and
+amod	train	blue
+compound	train	Amtrak
+conj:and	silver	train
+case	tracks	on
+det	tracks	the
+nmod:on	silver	tracks
+case	station	near
+det	station	a
+amod	station	small
+compound	station	train
+nmod:near	tracks	station
+punct	silver	.

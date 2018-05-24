@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+det	girl	a
+nsubj	is	girl
+acl	girl	riding
+det	bike	a
+dobj	riding	bike
+case	park	through
+det	park	the
+nmod:through	riding	park
+punct	is	.

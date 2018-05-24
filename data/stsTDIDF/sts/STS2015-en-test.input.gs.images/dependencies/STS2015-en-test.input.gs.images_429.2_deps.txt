@@ -1,0 +1,13 @@
+det	girl	A
+nsubj	takes	girl
+case	shirt	in
+det	shirt	a
+amod	shirt	red
+nmod:in	girl	shirt
+root	ROOT	takes
+det	picture	a
+dobj	takes	picture
+case	phone	on
+det	phone	a
+nmod:on	takes	phone
+punct	takes	.

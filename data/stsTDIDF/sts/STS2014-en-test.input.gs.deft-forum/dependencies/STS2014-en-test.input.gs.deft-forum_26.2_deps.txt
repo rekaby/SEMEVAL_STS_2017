@@ -1,0 +1,7 @@
+compound	Holliday	Matt
+nsubj	owns	Holliday
+root	ROOT	owns
+punct	owns	,
+xcomp	owns	y'
+dobj	y'	all
+punct	owns	.

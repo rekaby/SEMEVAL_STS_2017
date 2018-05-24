@@ -1,0 +1,7 @@
+det	man	The
+nsubj	dog	man
+cop	dog	is
+case	dog	with
+det	dog	a
+root	ROOT	dog
+punct	dog	.

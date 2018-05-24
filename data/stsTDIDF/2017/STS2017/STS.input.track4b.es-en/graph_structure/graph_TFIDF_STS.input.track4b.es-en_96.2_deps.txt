@@ -1,0 +1,11 @@
+something	vital	appos
+vital	if	dep
+something	important	amod
+part	smelly	amod
+Norway	of	case
+smelly	rather	advmod
+vital	a	det
+part	past	nmod:in
+seen	Rakfisk	nsubjpass
+if	part	dep
+part	Norway	nmod:of

@@ -1,0 +1,7 @@
+root	ROOT	snatching
+cc	snatching	or
+conj:or	snatching	capturing
+det	object	a
+advmod	moving	freely
+amod	object	moving
+dobj	snatching	object

@@ -1,0 +1,17 @@
+compound	volumes	Unit
+nsubj	set	volumes
+advmod	set	also
+root	ROOT	set
+det	record	a
+dobj	set	record
+case	notebooks	as
+nmod:as	set	notebooks
+dep	set	accounted
+case	percent	for
+advmod	40	more
+mwe	more	than
+nummod	percent	40
+nmod:for	accounted	percent
+case	sales	of
+nmod:of	percent	sales
+punct	set	.

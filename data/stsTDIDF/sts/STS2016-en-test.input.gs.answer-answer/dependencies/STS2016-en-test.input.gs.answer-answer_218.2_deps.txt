@@ -1,0 +1,9 @@
+det	answer	The
+nsubj	is	answer
+case	questions	to
+det	questions	both
+nmod:to	answer	questions
+root	ROOT	is
+punct	is	:
+dep	is	Yes
+punct	is	.

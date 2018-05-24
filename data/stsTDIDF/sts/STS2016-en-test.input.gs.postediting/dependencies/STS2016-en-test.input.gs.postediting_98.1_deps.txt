@@ -1,0 +1,17 @@
+det	cinema	The
+root	ROOT	cinema
+case	1950s	of
+det	1950s	the
+nmod:of	cinema	1950s
+cc	cinema	and
+dep	dazzles	1960s
+nsubj	dazzles	we
+conj:and	cinema	dazzles
+cc	dazzles	and
+nsubj	let	we
+conj:and	dazzles	let
+dobj	let	much
+case	collections	for
+nmod:poss	collections	our
+nmod:for	let	collections
+punct	cinema	.

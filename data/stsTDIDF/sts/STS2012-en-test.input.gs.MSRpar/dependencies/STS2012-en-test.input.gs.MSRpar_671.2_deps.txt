@@ -1,0 +1,13 @@
+det	dollar	The
+nsubj	rose	dollar
+root	ROOT	rose
+nummod	percent	0.15
+dobj	rose	percent
+case	currency	against
+det	currency	the
+amod	currency	Japanese
+nmod:against	rose	currency
+case	yen	to
+nummod	yen	115.97
+nmod:to	rose	yen
+punct	rose	.

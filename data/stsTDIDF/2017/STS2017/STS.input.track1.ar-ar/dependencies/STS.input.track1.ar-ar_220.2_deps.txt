@@ -1,0 +1,9 @@
+det	man	An
+amod	man	old
+nsubj	falls	man
+root	ROOT	falls
+advmod	falls	asleep
+det	bit	a
+amod	bit	little
+dobj	falls	bit
+punct	falls	.

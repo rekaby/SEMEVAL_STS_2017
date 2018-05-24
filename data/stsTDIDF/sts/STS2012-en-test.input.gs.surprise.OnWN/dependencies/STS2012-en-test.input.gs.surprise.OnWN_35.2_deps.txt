@@ -1,0 +1,12 @@
+det	assertion	an
+root	ROOT	assertion
+mark	guilty	that
+nsubj	guilty	someone
+cop	guilty	is
+ccomp	assertion	guilty
+case	fault	of
+det	fault	a
+nmod:of	guilty	fault
+cc	fault	or
+conj:or	fault	offence
+punct	assertion	.

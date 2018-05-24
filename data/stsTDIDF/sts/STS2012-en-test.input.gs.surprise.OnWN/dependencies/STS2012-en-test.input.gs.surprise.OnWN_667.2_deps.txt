@@ -1,0 +1,10 @@
+amod	stimulation	manual
+root	ROOT	stimulation
+case	area	of
+det	area	the
+amod	area	genital
+nmod:of	stimulation	area
+case	pleasure	for
+amod	pleasure	sexual
+nmod:for	stimulation	pleasure
+punct	stimulation	.

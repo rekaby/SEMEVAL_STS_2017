@@ -1,0 +1,9 @@
+nsubj	holds	Pakistan
+root	ROOT	holds
+amod	election	landmark
+dobj	holds	election
+mark	killed	as
+nsubj	killed	29
+advcl	holds	killed
+case	attacks	in
+nmod:in	killed	attacks

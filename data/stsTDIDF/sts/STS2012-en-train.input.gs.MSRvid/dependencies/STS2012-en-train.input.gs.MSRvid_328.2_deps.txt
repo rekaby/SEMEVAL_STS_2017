@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	hitting	woman
+aux	hitting	is
+root	ROOT	hitting
+det	man	a
+dobj	hitting	man
+punct	hitting	.

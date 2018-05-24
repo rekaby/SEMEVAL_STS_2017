@@ -1,0 +1,6 @@
+sitting	man	nsubj
+man	shirt	nmod:in
+sitting	truck	nmod:in
+shirt	hat	conj:and
+truck	in	case
+shirt	blue	amod

@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	singing	woman
+acl	woman	seated
+aux	singing	is
+root	ROOT	singing
+det	song	a
+dobj	singing	song
+cc	singing	and
+conj:and	singing	playing
+det	guitar	the
+dobj	playing	guitar
+advmod	playing	too
+punct	singing	.

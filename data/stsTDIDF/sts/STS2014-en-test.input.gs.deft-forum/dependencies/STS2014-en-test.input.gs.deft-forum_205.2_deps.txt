@@ -1,0 +1,15 @@
+amod	times	Most
+nsubj	getting	times
+punct	getting	,
+dep	getting	%
+case	time	of
+det	time	the
+nmod:of	%	time
+punct	getting	,
+nsubj	getting	we
+aux	getting	are
+root	ROOT	getting
+dobj	expect	what
+nsubj	expect	we
+ccomp	getting	expect
+punct	getting	.

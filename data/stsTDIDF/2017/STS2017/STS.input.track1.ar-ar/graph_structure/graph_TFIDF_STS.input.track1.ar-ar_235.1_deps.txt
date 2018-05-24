@@ -1,0 +1,13 @@
+band	wears	acl:relcl
+pitch	Tserali	amod
+uniforms	yellow	amod
+pitch	uniforms	nsubj
+uniforms	the	det
+band	.	punct
+ROOT	band	root
+wears	who	nsubj
+wears	pitch	xcomp
+yellow	and	cc
+band	The	det
+yellow	green	conj:and
+band	,	punct

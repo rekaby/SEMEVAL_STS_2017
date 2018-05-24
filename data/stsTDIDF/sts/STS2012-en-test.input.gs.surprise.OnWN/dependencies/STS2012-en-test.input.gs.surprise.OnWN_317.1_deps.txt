@@ -1,0 +1,7 @@
+dep	rid	cast
+compound:prt	cast	off
+punct	rid	,
+dep	rid	get
+root	ROOT	rid
+case	something	of
+nmod:of	rid	something

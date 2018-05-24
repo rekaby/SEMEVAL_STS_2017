@@ -1,0 +1,8 @@
+jump	about	mark
+water	into	case
+dog	is	acl
+ROOT	dog	root
+is	jump	xcomp
+dog	.	punct
+jump	water	nmod:into
+dog	The	det

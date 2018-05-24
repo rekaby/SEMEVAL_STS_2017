@@ -1,0 +1,10 @@
+nummod	birds	Two
+amod	birds	green
+nsubj	fly	birds
+root	ROOT	fly
+case	pole	towards
+det	pole	a
+amod	pole	wooden
+compound	pole	telephone
+nmod:towards	fly	pole
+punct	fly	.

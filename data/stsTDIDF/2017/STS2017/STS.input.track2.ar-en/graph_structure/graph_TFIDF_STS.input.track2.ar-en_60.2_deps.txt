@@ -1,0 +1,5 @@
+bubble	Girl	compound
+stick	by	case
+bubble	stick	nmod:by
+bubble	blowing	amod
+ROOT	bubble	root

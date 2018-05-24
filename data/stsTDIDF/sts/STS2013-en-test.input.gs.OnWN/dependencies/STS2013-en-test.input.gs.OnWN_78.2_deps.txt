@@ -1,0 +1,7 @@
+det	account	a
+amod	account	short
+root	ROOT	account
+case	news	of
+det	news	the
+nmod:of	account	news
+punct	account	.

@@ -1,0 +1,10 @@
+det	rabbit	A
+nsubj	sniffing	rabbit
+aux	sniffing	is
+root	ROOT	sniffing
+cc	sniffing	and
+conj:and	sniffing	pawing
+det	rabbit	a
+amod	rabbit	stuffed
+dobj	pawing	rabbit
+punct	sniffing	.

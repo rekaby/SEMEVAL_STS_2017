@@ -1,0 +1,7 @@
+root	ROOT	?-1) compound(Clinicas-2, Bodega
+root	ROOT	Clinicas
+punct	Clinicas	?-3) root(ROOT-0, Draw
+dobj	Draw	Interest
+case	Officials	of
+compound	Officials	Health
+nmod:of	Interest	Officials

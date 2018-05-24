@@ -1,0 +1,13 @@
+organized	fundraiser	dobj
+said	Saltzman	nsubj
+heroes	as	case
+organized	who	nsubj
+considered	heroes	nmod:as
+fundraiser	the	det
+Saltzman	organized	acl:relcl
+Saltzman	David	compound
+said	considered	ccomp
+considered	men	nsubjpass
+Saltzman	,	punct
+considered	were	auxpass
+fundraiser	spring	compound

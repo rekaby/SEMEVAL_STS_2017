@@ -1,0 +1,10 @@
+amod	army	Israeli
+nsubj	kills	army
+root	ROOT	kills
+nummod	militants	3
+amod	militants	Palestinian
+dobj	kills	militants
+case	Bank	in
+compound	Bank	West
+nmod:in	kills	Bank
+dobj	kills	clashes

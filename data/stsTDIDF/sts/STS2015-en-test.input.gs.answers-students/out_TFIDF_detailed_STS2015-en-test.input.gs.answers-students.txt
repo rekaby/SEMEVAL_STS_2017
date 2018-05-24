@@ -1,0 +1,750 @@
+[terminal#6 connected#3=0.5693515043910348, battery#9 battery#7=1.0, terminal#6 terminal#8=1.0, terminal#6 terminal#0=1.0]	1
+[is#3 still#3=0.6303286274740282, path#2 path#9=1.0, connected#4 was#2=1.0, bulb#8 Bulb#0=1.0, closed#1 closed#8=1.0]	2
+[closed#8 closed#8=1.0, because#0 still#3=0.7870150457493789, bulb#1 Bulb#0=1.0, path#9 path#9=1.0, contained#4 contained#4=1.0, battery#12 battery#12=1.0, within#5 in#5=0.605048415230064]	3
+[]	4
+[c#3 C#4=1.0, separate#6 different#7=0.5957386872019106, paths#7 paths#8=1.0, are#4 different#7=0.6190944127061078]	5
+[terminals#7 terminals#1=1.0, point#4 terminals#1=1.0, connected#10 connected#4=1.0]	6
+[closed#2 closed#8=1.0, had#0 still#3=0.6806793963805543, path#3 path#9=1.0, battery#6 battery#12=1.0]	7
+[gap#3 gap#3=1.0, terminal#5 terminal#10=1.0, positive#9 positive#9=1.0, terminal#10 terminal#5=1.0, terminal#5 terminal#5=1.0]	8
+[path#5 path#7=1.0, contained#1 was#2=1.0, closed#4 closed#6=1.0]	9
+[electrical#5 electrical#9=1.0, battery#1 battery#1=1.0, terminals#2 terminals#13=1.0, states#6 states#10=1.0, different#4 different#8=1.0000000000000002]	10
+[open#1 open#1=1.0, switch#2 switch#2=1.0, gap#5 gap#5=1.0]	11
+[C#4 C#2=1.0]	12
+[separated#3 separated#3=1.0, terminal#7 terminals#1=1.0, terminal#1 terminals#1=1.0]	13
+[not#3 still#3=0.7820495658018758, path#7 path#7=1.0, bulb#9 Bulb#0=1.0]	14
+[circuit#6 circuit#4=1.0, open#4 there#0=0.5250934869002324, complete#10 incomplete#3=0.5100274340431183, longer#9 there#0=0.5939962870025657, switch#2 circuit#4=0.5296309865362726]	15
+[positive#2 positive#4=1.0]	16
+[connected#4 is#2=1.0]	17
+[path#9 path#6=1.0, there#0 open#5=0.5250934869002324, connected#5 is#2=1.0, battery#12 battery#1=1.0]	18
+[terminal#1 terminals#1=1.0, connected#4 connected#4=1.0, terminal#8 terminals#1=1.0]	19
+[gap#3 gap#3=1.0, terminal#8 terminal#10=1.0, positive#6 positive#9=1.0, terminal#10 terminal#5=1.0, terminal#8 terminal#5=1.0]	20
+[current#3 the#0=0.5416456542611935]	21
+[bulb#0 Bulbs#0=1.0, path#11 paths#9=1.0, battery#14 battery#12=1.0, still#6 still#5=1.0, c#4 C#3=1.0, contained#7 contained#6=1.0, closed#10 closed#8=1.0, bulb#3 Bulbs#0=1.0]	22
+[difference#5 different#8=0.5819199978726122, creates#3 uses#2=0.5100209871216219, states#8 states#10=1.0, because#0 different#8=0.5932579832321572, electrical#7 electrical#9=1.0]	23
+[devices#10 components#14=0.5172110244246741, contained#3 contained#3=1.0, without#8 not#10=0.7071473943388212, closed#6 closed#6=1.0, battery#1 battery#1=1.0, contained#3 contain#11=1.0, path#7 path#7=1.0]	24
+[closed#4 closed#14=1.0, still#2 still#11=1.0, path#5 path#15=1.0]	25
+[]	26
+[]	27
+[closed#3 closed#7=1.0, path#4 path#8=1.0]	28
+[voltage#10 voltage#1=1.0, if#0 whether#3=0.7849686239988554, different#13 two#4=0.6691387724012431, terminals#7 terminals#5=1.0, is#2 indicates#2=0.5116588399666585, will#11 are#6=0.6391223493735185, gap#4 gap#10=1.0]	29
+[terminal#0 terminal#0=1.0, connected#3 connected#3=1.0, terminal#0 terminal#8=1.0, volt#7 battery#7=0.5733423083618779, battery#8 battery#7=1.0]	30
+[C#3 C#3=1.0, still#4 still#5=1.0, battery#10 battery#11=1.0]	31
+[path#6 path#7=1.0, battery#1 battery#1=1.0, closed#5 closed#6=1.0]	32
+[bulb#9 bulb#5=1.0, path#6 path#11=1.0]	33
+[gap#4 gap#10=1.0]	34
+[gap#4 gap#6=1.0]	35
+[path#8 path#11=1.0, switch#11 switch#2=1.0, contained#4 contained#7=1.0, bulb#2 bulb#5=1.0]	36
+[z#3 Z#6=1.0, c#7 C#8=1.0, path#12 path#3=1.0]	37
+[Bulb#0 bulbs#0=1.0, B#3 B#3=1.0, contained#6 are#4=1.0, paths#9 path#8=1.0, within#7 in#5=0.605048415230064, still#5 are#4=0.6050153290397329, closed#8 closed#7=1.0]	38
+[always#2 different#8=0.5468862294075754, battery#1 battery#1=1.0, voltage#4 electrical#9=0.5906866640865339]	39
+[terminal#0 Terminals#0=1.0, connected#3 connected#6=1.0, terminal#6 Terminals#0=1.0]	40
+[terminal#7 Terminals#0=1.0, terminal#1 Terminals#0=1.0, connected#5 connected#6=1.0]	41
+[difference#3 positive#10=0.5082542318042059, difference#3 gap#15=1.0]	42
+[terminal#7 Terminals#0=1.0, connected#3 connected#7=1.0, negative#6 negative#10=1.0, battery#10 battery#11=1.0, terminal#7 terminal#12=1.0]	43
+[bulb#0 bulbs#0=1.0, C#3 C#3=1.0, closed#9 closed#7=1.0, B#1 B#1=1.0, path#10 paths#8=1.0, battery#13 battery#11=1.0, still#5 still#5=1.0]	44
+[terminals#1 Terminals#0=1.0, connected#4 connected#6=1.0]	45
+[path#6 path#7=1.0, bulb#8 Bulb#0=1.0, not#2 still#3=0.7820495658018758]	46
+[path#9 path#7=1.0, battery#12 battery#10=1.0, contained#4 containing#8=1.0, closed#8 closed#6=1.0]	47
+[terminal#0 Terminals#0=1.0, connected#6 connected#5=1.0, terminal#3 Terminals#0=1.0]	48
+[battery#11 battery#11=1.0, voltage#8 battery#11=0.5345926934647287, gap#3 gap#15=1.0]	49
+[positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, connected#4 are#6=1.0, terminal#2 terminal#5=1.0]	50
+[]	51
+[bulb#12 bulb#4=1.0, contained#5 be#7=1.0, switch#1 switch#1=1.0, path#9 path#11=1.0]	52
+[contained#6 was#2=1.0, closed#9 closed#7=1.0, bulb#1 Bulb#0=1.0, path#10 path#8=1.0, C#2 C#1=1.0, battery#13 battery#11=1.0, still#5 longer#4=0.7043378383341383]	53
+[connected#3 is#2=1.0, closed#10 open#5=0.7198416428185891, path#11 path#6=1.0]	54
+[terminal#9 terminals#5=1.0, terminal#6 terminals#5=1.0, gap#4 gap#3=1.0]	55
+[C#3 C#2=1.0, path#10 path#8=1.0]	56
+[path#10 path#14=1.0, B#3 C#1=0.7441219661660923, still#5 still#10=1.0, connected#12 are#9=1.0, B#3 B#8=1.0, contained#6 are#9=1.0, closed#9 closed#13=1.0, battery#15 battery#17=1.0, within#7 in#11=0.605048415230064]	57
+[because#0 still#3=0.7870150457493789, bulb#1 Bulb#0=1.0, closed#6 closed#7=1.0, switch#12 switch#13=1.0, circuit#7 path#8=1.0, battery#10 battery#11=1.0]	58
+[path#6 path#7=1.0]	59
+[gap#4 gap#3=1.0]	60
+[bulb#0 Bulb#0=1.0, contained#3 contained#4=1.0, closed#6 closed#7=1.0, path#7 path#8=1.0, battery#10 battery#11=1.0, is#2 still#3=0.6303286274740282]	61
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	62
+[within#6 in#3=0.605048415230064, path#9 path#6=1.0, bulb#1 bulb#1=1.0]	63
+[circuit#6 path#11=1.0]	64
+[C#3 C#2=1.0, separate#6 different#5=0.5957386872019106, paths#7 paths#6=1.0, are#4 different#5=0.6190944127061078]	65
+[closed#3 closed#7=1.0, was#1 still#3=0.6750435540717791, circuit#4 path#8=1.0]	66
+[creates#1 is#1=0.5092312732313476]	67
+[gap#4 gap#3=1.0, circuit#7 circuit#6=1.0]	68
+[closed#4 closed#5=1.0, not#2 longer#3=0.7031638782916044, path#5 path#6=1.0]	69
+[alone#2 not#9=0.6515211911045037, battery#1 battery#1=1.0, path#7 path#6=1.0]	70
+[C#3 C#2=1.0, path#9 path#7=1.0, B#1 B#0=1.0, battery#12 battery#10=1.0, contained#5 are#3=1.0]	71
+[closed#2 closed#8=1.0, there#0 still#3=0.7757454917122999, paths#3 path#9=1.0, battery#6 battery#12=1.0]	72
+[Terminal#0 Terminals#0=1.0, state#5 state#11=1.0, electrical#4 electrical#10=1.0]	73
+[bulb#1 Bulb#0=1.0, different#6 with#9=0.5245949267577616, path#7 path#8=1.0, than#8 still#3=0.6517980456761161, bulbs#9 Bulb#0=1.0]	74
+[bulb#0 Bulb#0=1.0, closed#5 closed#7=1.0, path#6 path#8=1.0, was#2 still#3=0.6750435540717791]	75
+[closed#6 closed#8=1.0, path#7 path#9=1.0]	76
+[open#10 open#1=1.0, turn#7 the#0=0.532367276165724, turn#7 switch#2=0.5202363336529852, gap#4 gap#5=1.0, created#8 creates#3=1.0, creates#2 creates#3=1.0]	77
+[path#5 path#11=1.0]	78
+[terminal#0 Terminals#0=1.0, terminal#0 connected#5=0.5693515043910348, terminal#5 Terminals#0=1.0]	79
+[circuit#6 path#8=1.0, is#1 still#3=0.6303286274740282]	80
+[Bulb#0 Bulb#0=1.0, Bulb#0 Bulb#3=1.0, closed#8 closed#11=1.0, C#4 B#1=0.7441219661660923, C#4 C#4=1.0, path#9 path#12=1.0, battery#12 battery#15=1.0, bulb#3 Bulb#0=1.0, are#5 still#6=0.6050153290397329]	81
+[battery#13 battery#16=1.0, still#5 still#9=1.0, b#3 B#7=1.0, contained#6 are#8=1.0, closed#9 closed#12=1.0, path#10 path#13=1.0]	82
+[positive#7 positive#4=1.0, terminal#8 Terminal#0=1.0, terminal#8 terminal#5=1.0, gap#4 gap#10=1.0]	83
+[still#2 not#6=0.7820495658018758, current#5 same#9=0.56313878987611]	84
+[shorted#3 short#3=1.0]	85
+[connected#9 connected#4=1.0, connected#6 connected#4=1.0, terminals#1 terminals#1=1.0, go#2 are#2=1.0]	86
+[terminal#1 terminal#0=1.0, connected#4 connected#3=1.0, positive#7 negative#6=0.8138100018470491, terminal#1 terminal#8=1.0, terminal#9 terminal#0=1.0, battery#8 battery#7=1.0]	87
+[without#8 not#9=0.7071473943388212, another#9 a#5=0.790967454470122, battery#1 battery#1=1.0, path#7 path#6=1.0, component#10 components#13=1.0]	88
+[path#11 path#9=1.0, battery#1 battery#1=1.0, contained#7 is#4=1.0, close#10 closed#8=1.0]	89
+[terminals#5 connected#7=0.5757339643029956, ones#12 are#6=0.6684956215700433, terminals#5 terminal#12=1.0, terminals#5 Terminals#0=1.0, good#14 and#4=0.5063439935899645, one#1 the#9=0.6881828387095303]	90
+[still#3 still#3=1.0, connected#4 is#2=1.0, battery#7 battery#11=1.0]	91
+[gap#3 gap#3=1.0, difference#8 gap#3=1.0]	92
+[battery#7 battery#1=1.0, within#5 the#12=0.5573087346414919, same#4 uses#2=0.5012216764170384, same#4 different#8=0.738347688399116, voltage#1 electrical#9=0.5906866640865339]	93
+[paths#9 path#4=1.0, one#6 there#0=0.7371077736887162]	94
+[path#9 path#11=1.0, bulb#4 bulb#5=1.0, switch#2 switch#2=1.0]	95
+[gap#3 gap#3=1.0]	96
+[Terminal#0 Terminals#0=1.0, connected#3 connected#5=1.0]	97
+[gap#8 gap#10=1.0, terminal#10 Terminal#0=1.0, terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	98
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#0 terminal#5=1.0, connected#3 are#6=1.0]	99
+[C#3 C#1=1.0, still#5 still#10=1.0, closed#8 closed#13=1.0, contained#6 are#9=1.0, C#3 B#8=0.7441219661660923, paths#9 path#14=1.0, battery#12 battery#17=1.0]	100
+[C#2 B#2=0.7441219661660923, path#8 path#6=1.0]	101
+[terminal#0 Terminal#0=1.0, connected#2 connected#7=1.0, terminal#0 terminal#5=1.0, postive#4 positive#4=0.6718230300013343, terminal#5 Terminal#0=1.0]	102
+[voltage#1 battery#1=0.5345926934647287, change#4 different#8=0.5845357533219437, does#2 uses#2=0.5824600386229212, voltage#1 electrical#9=0.5906866640865339]	103
+[battery#19 battery#1=1.0, states#11 states#10=1.0, inside#17 the#12=0.5408750306588767, will#6 to#6=0.7073010791833597, to#13 maintain#7=0.5451889938922871, always#7 different#8=0.5468862294075754, two#1 different#8=0.6691387724012431, chemical#15 chemical#4=1.0, different#9 different#8=1.0000000000000002, reaction#16 reaction#5=1.0, terminals#2 terminals#13=1.0, battery#5 battery#1=1.0, electrical#10 electrical#9=1.0]	104
+[others#6 there#0=0.656784904523177]	105
+[PATH#5 path#7=1.0]	106
+[contained#3 containing#4=1.0, path#7 path#3=1.0, z#1 Z#6=1.0]	107
+[will#2 to#6=0.7073010791833597, different#5 different#8=1.0000000000000002, battery#1 battery#1=1.0, electrical#6 electrical#9=1.0, circuit#10 electrical#9=0.5301041158636476, state#7 states#10=1.0]	108
+[working#9 same#6=0.5283969485991714, others#7 and#1=0.6231294979967877, one#1 same#6=0.7720435166389559, stop#8 closed#7=1.0]	109
+[Terminals#0 Terminals#0=1.0, connected#9 connected#7=1.0, positive#12 positive#10=1.0, terminal#14 Terminals#0=1.0, Terminals#0 terminal#12=1.0, battery#13 battery#11=1.0]	110
+[positive#0 positive#4=1.0, seperated#3 separated#7=0.7442253605044499, gap#6 gap#10=1.0, terminal#8 Terminal#0=1.0, terminal#8 terminal#5=1.0]	111
+[two#3 2#3=1.0, connections#5 connected#5=0.6975686315466991]	112
+[PATHS#4 paths#6=1.0]	113
+[because#0 still#3=0.7870150457493789, path#9 path#7=1.0, battery#15 battery#10=1.0, bulb#11 Bulb#0=1.0, closed#8 closed#6=1.0]	114
+[are#8 still#10=0.6050153290397329, battery#7 battery#17=1.0, closed#11 closed#13=1.0, B#4 C#1=0.7441219661660923, path#12 path#14=1.0, B#4 B#8=1.0]	115
+[switch#2 switch#2=1.0, path#10 path#11=1.0, bulb#5 bulb#5=1.0]	116
+[creates#3 creates#3=1.0, damaged#1 damaged#1=1.0, bulb#2 bulb#2=1.0, gap#5 gap#5=1.0]	117
+[circuit#10 path#6=1.0, path#7 path#6=1.0, fully#4 not#9=0.5482119274040574]	118
+[connected#5 connected#7=1.0, terminal#7 Terminal#0=1.0, terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	119
+[terminal#4 Terminal#0=1.0, positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, seperated#7 separated#7=0.7442253605044499, gap#10 gap#10=1.0, terminal#2 terminal#5=1.0]	120
+[closed#6 closed#8=1.0, paths#7 path#9=1.0, need#2 are#5=0.6039288154531561]	121
+[allow#8 to#9=0.6783425147420835, battery#11 battery#12=1.0, current#12 the#10=0.5416456542611935, positive#10 positive#11=1.0, reach#14 to#9=0.628819810572398]	122
+[terminal#0 Terminal#0=1.0, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, postive#5 positive#4=0.6718230300013343, end#6 Terminal#0=1.0]	123
+[terminal#1 Terminals#0=1.0, connected#4 connected#5=1.0, terminal#9 Terminals#0=1.0]	124
+[positive#0 positive#4=1.0, terminal#1 Terminal#0=1.0, terminal#5 Terminal#0=1.0, terminal#1 terminal#5=1.0]	125
+[path#6 path#6=1.0, battery#1 battery#1=1.0, open#5 open#5=1.0]	126
+[supposed#10 there#0=0.7162272265565856, will#1 there#0=0.615613289911106, gap#4 gap#3=1.0]	127
+[Bulbs#0 bulbs#0=1.0, C#3 C#3=1.0, paths#9 paths#8=1.0, B#1 B#1=1.0, battery#12 battery#11=1.0, will#4 still#5=0.6473440171800929, still#5 still#5=1.0, closed#8 closed#7=1.0]	128
+[path#7 path#3=1.0, same#16 different#8=0.738347688399116, C#12 C#13=1.0, path#7 path#9=1.0, B#10 B#11=1.0, path#18 path#3=1.0]	129
+[connected#3 is#1=1.0, Z#6 Y#7=0.5733103462343739, bulb#0 bulb#9=1.0, switch#5 switch#6=1.0]	130
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	131
+[circuit#4 circuit#4=1.0]	132
+[Battery#0 battery#1=1.0, always#2 different#8=0.5468862294075754, have#3 different#8=0.6013901707449911, will#1 to#6=0.7073010791833597, voltage#4 electrical#9=0.5906866640865339]	133
+[]	134
+[terminal#6 terminal#8=1.0, connected#8 connected#3=1.0, terminal#12 terminal#0=1.0, voltage#1 battery#7=0.5345926934647287, terminal#6 terminal#0=1.0, battery#11 battery#7=1.0]	135
+[c#3 C#3=1.0, circuit#9 path#8=1.0, still#5 are#4=0.6050153290397329, closed#8 closed#7=1.0]	136
+[terminals#1 terminal#12=1.0, terminal#7 Terminals#0=1.0, terminals#1 Terminals#0=1.0, negative#6 negative#10=1.0, terminals#1 connected#7=0.5757339643029956, battery#10 battery#11=1.0]	137
+[battery#11 battery#11=1.0, terminals#2 terminal#12=1.0, terminal#8 Terminals#0=1.0, terminals#2 Terminals#0=1.0, connected#4 connected#7=1.0, positive#7 positive#10=1.0]	138
+[Bulb#0 Bulb#0=1.0, still#3 still#3=1.0, closed#6 closed#7=1.0, path#7 path#8=1.0]	139
+[gap#3 gap#3=1.0]	140
+[lightbulb#8 bulb#12=1.0, path#4 path#6=1.0, path#11 path#6=1.0]	141
+[bulbs#0 Bulbs#0=1.0, c#3 C#3=1.0, contained#6 are#4=1.0, closed#9 closed#7=1.0, path#10 paths#8=1.0, battery#13 battery#11=1.0, still#5 still#5=1.0]	142
+[terminal#0 Terminal#0=1.0, terminal#0 terminal#5=1.0, positive#7 positive#4=1.0, connected#4 connected#8=1.0, terminal#9 Terminal#0=1.0]	143
+[contained#3 contained#3=1.0, circuit#6 path#6=1.0, battery#1 battery#1=1.0, light#9 bulb#12=0.5834795418055034, bulb#10 bulb#12=1.0]	144
+[the#8 different#8=0.5033785291201394, battery#1 battery#1=1.0, voltage#9 electrical#9=0.5906866640865339, chemical#4 chemical#4=1.0, maintain#7 maintain#7=1.0, uses#2 uses#2=1.0, reaction#5 reaction#5=1.0]	145
+[Terminal#0 Terminals#0=1.0, terminal#7 Terminals#0=1.0, terminal#14 Terminals#0=1.0, connected#10 connected#7=1.0, positive#13 positive#10=1.0, Terminal#0 terminal#12=1.0, terminal#3 Terminals#0=1.0]	146
+[c#3 C#2=1.0, path#9 path#7=1.0, b#1 B#0=1.0, battery#12 battery#10=1.0, contained#5 are#3=1.0]	147
+[terminal#10 terminal#0=1.0, terminal#3 terminal#11=1.0, seperated#5 separated#3=0.7442253605044499, negative#1 negative#9=1.0, gap#8 gap#6=1.0, terminal#3 terminal#0=1.0]	148
+[closed#12 closed#4=1.0, path#2 path#1=1.0]	149
+[terminals#2 terminals#1=1.0, connected#5 connected#4=1.0]	150
+[]	151
+[path#2 path#8=1.0, because#0 still#3=0.7870150457493789, closed#4 closed#7=1.0]	152
+[separated#5 separated#7=1.0, gap#8 gap#10=1.0, terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	153
+[switch#13 switch#2=1.0, bulb#19 bulb#5=1.0, will#16 are#6=0.6391223493735185, switch#15 switch#2=1.0, circuit#7 path#11=1.0, bulb#2 bulb#5=1.0]	154
+[closed#5 closed#7=1.0, c#10 C#1=1.0, not#3 longer#4=0.7031638782916044, circuit#6 path#8=1.0, anymore#7 longer#4=0.6001154774283242, bulb#9 Bulb#0=1.0]	155
+[Terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	156
+[path#2 path#1=1.0]	157
+[path#1 path#3=1.0]	158
+[terminals#12 terminals#6=1.0, terminal#3 terminals#6=1.0, one#8 there#0=0.7371077736887162, connected#6 is#1=1.0]	159
+[Bulbs#0 Bulbs#0=1.0, closed#8 closed#8=1.0, C#3 C#3=1.0, contained#6 contained#6=1.0, paths#9 paths#9=1.0, batery#12 battery#12=0.5010517551115031, still#5 still#5=1.0]	160
+[Terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, five#1 5#1=1.0, terminal#8 Terminal#0=1.0]	161
+[closed#4 closed#4=1.0, path#5 path#1=1.0]	162
+[terminal#0 terminal#0=1.0, connected#3 connected#3=1.0, negative#6 negative#6=1.0, one#1 1#1=1.0, terminal#0 terminal#8=1.0, terminal#8 terminal#0=1.0, battery#7 battery#7=1.0]	163
+[bulb#10 bulb#5=1.0, switch#2 switch#2=1.0, path#7 path#11=1.0]	164
+[shuts#3 closed#7=1.0, one#1 same#6=0.7720435166389559]	165
+[bulb#0 Bulb#0=1.0, path#6 path#7=1.0, battery#9 battery#10=1.0, is#2 still#3=0.6303286274740282, closed#5 closed#6=1.0]	166
+[path#11 path#11=1.0, switch#14 switch#2=1.0, contained#7 contained#7=1.0, bulb#17 bulb#5=1.0, switch#5 switch#2=1.0, bulb#2 bulb#5=1.0]	167
+[will#2 there#0=0.615613289911106]	168
+[longer#11 no#2=0.6495300748899149, closed#12 closed#3=1.0]	169
+[creates#3 creates#3=1.0, damaged#1 damaged#1=1.0, bulb#2 bulb#2=1.0, gap#5 gap#5=1.0]	170
+[path#10 path#3=1.0, z#4 Z#6=1.0, c#1 C#8=1.0]	171
+[closed#7 open#1=0.7198416428185891, switch#1 switch#2=1.0, break#4 gap#5=1.0, creates#2 creates#3=1.0]	172
+[because#0 different#8=0.5932579832321572, does#8 uses#2=0.5824600386229212, battery#2 battery#1=1.0, electricity#4 electrical#9=0.6712682897080542]	173
+[closed#5 closed#8=1.0, path#6 path#9=1.0, must#1 are#5=0.6485956584525727]	174
+[connected#12 is#4=1.0, circuit#6 path#9=1.0, Circuit#0 path#9=1.0, battery#9 battery#1=1.0]	175
+[B#3 C#1=0.7441219661660923, battery#13 battery#16=1.0, still#5 still#9=1.0, B#3 B#7=1.0, connected#6 are#8=1.0, closed#9 closed#12=1.0, circuit#10 path#13=1.0, containing#11 are#8=1.0]	176
+[Bulb#0 Bulbs#0=1.0, battery#14 battery#11=1.0, C#3 C#3=1.0, contained#7 are#4=1.0, closed#10 closed#7=1.0, will#4 still#5=0.6473440171800929, still#5 still#5=1.0, path#11 paths#8=1.0]	177
+[terminal#0 Terminals#0=1.0, connected#2 connected#7=1.0, battery#5 battery#11=1.0, terminal#0 terminal#12=1.0]	178
+[happen#13 there#0=0.7264387693780204, think#1 there#0=0.7445013692601172, seriously#17 there#0=0.615411185871437, unless#14 there#0=0.6273199314728253, wrong#18 there#0=0.6738888441906244, means#5 is#1=0.6699095584940696, something#15 there#0=0.7402585488708477, never#12 there#0=0.7205100813711678]	179
+[terminal#0 Terminals#0=1.0, terminal#4 Terminals#0=1.0, connected#2 connected#5=1.0]	180
+[terminal#0 Terminals#0=1.0, one#1 1#1=1.0, six#7 6#3=1.0, connected#4 connected#6=1.0, terminal#6 Terminals#0=1.0]	181
+[switch#3 switch#5=1.0, bulb#23 bulb#2=1.0, affect#21 affects#13=1.0, bulb#8 bulb#15=1.0, bulb#8 bulb#2=1.0, switch#17 switch#5=1.0, will#20 are#6=0.6391223493735185, switch#3 switch#12=1.0, path#13 path#10=1.0]	182
+[light#10 bulb#15=0.5834795418055034, bulb#8 bulb#15=1.0, bulb#8 bulb#2=1.0, path#1 path#10=1.0]	183
+[connected#5 connected#8=1.0, terminal#7 Terminal#0=1.0, terminal#7 terminal#5=1.0, positive#1 positive#4=1.0, one#8 1#1=1.0]	184
+[battery#7 battery#1=1.0, around#5 in#2=0.5797948119563099, closed#4 closed#8=1.0, circuit#1 path#9=1.0]	185
+[go#3 is#1=1.0, Z#6 Z#9=1.0]	186
+[path#2 path#10=1.0, switch#10 switch#5=1.0, affect#12 affects#13=1.0, switch#10 switch#12=1.0]	187
+[terminal#0 Terminal#0=1.0, connected#8 connected#8=1.0, terminal#0 terminal#5=1.0, terminal#5 Terminal#0=1.0]	188
+[path#9 path#4=1.0, c#2 C#10=1.0, closed#8 closed#3=1.0, included#5 with#5=0.5223766406186768]	189
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, positive#4 positive#4=1.0, terminal#5 Terminal#0=1.0, different#7 are#6=0.6190944127061078]	190
+[postive#6 positive#4=0.6718230300013343, terminal#3 terminal#5=1.0, gap#1 gap#10=1.0, terminal#3 Terminal#0=1.0]	191
+[battery#11 battery#9=1.0, c#3 C#2=1.0, separate#6 different#5=0.5957386872019106, are#4 different#5=0.6190944127061078, paths#8 paths#6=1.0]	192
+[bulb#0 bulb#5=1.0, path#9 path#11=1.0, switch#5 switch#2=1.0]	193
+[terminals#0 Terminals#0=1.0, positive#11 positive#10=1.0, terminal#13 Terminals#0=1.0, battery#12 battery#11=1.0, terminals#0 terminal#12=1.0, connected#8 connected#7=1.0]	194
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, terminal#6 connected#7=0.5693515043910348, positive#4 positive#4=1.0, terminal#6 Terminal#0=1.0]	195
+[battery#11 battery#9=1.0, c#3 C#2=1.0, different#7 different#5=1.0000000000000002, contained#5 are#3=1.0, paths#8 paths#6=1.0]	196
+[path#8 path#9=1.0, battery#2 battery#1=1.0, closed#7 closed#8=1.0]	197
+[bulb#0 bulb#1=1.0, creates#2 is#2=0.5092312732313476]	198
+[Terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	199
+[find#2 changes#9=1.0, the#3 place#4=0.6418197644936163, voltage#9 electrical#7=0.5906866640865339, bulb#6 bulb#14=1.0, different#11 where#5=0.5875840296628079, finding#8 where#5=0.5006334847807719, voltage#9 voltage#1=1.0]	200
+[terminals#1 terminal#12=1.0, terminals#1 Terminals#0=1.0, negative#9 negative#10=1.0, battery#13 battery#11=1.0, terminals#1 connected#7=0.5757339643029956]	201
+[terminal#10 Terminal#0=1.0, terminal#3 terminal#6=1.0, positive#1 positive#4=1.0, battery#2 battery#5=1.0, terminal#3 Terminal#0=1.0]	202
+[it#0 open#1=0.5036561923716235, gap#3 gap#5=1.0, creates#1 creates#3=1.0, current#6 the#0=0.5416456542611935]	203
+[positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#1 Terminal#0=1.0, connected#3 connected#7=1.0, terminal#1 terminal#5=1.0]	204
+[path#5 path#4=1.0, battery#8 battery#7=1.0]	205
+[bulb#3 bulb#1=1.0, path#11 path#9=1.0, must#6 are#5=0.6485956584525727, closed#10 closed#8=1.0, light#2 bulb#1=0.5834795418055034, battery#5 battery#4=1.0]	206
+[two#1 the#3=0.5565364728648968, terminals#2 Terminal#0=1.0, connected#4 connected#7=1.0, terminals#2 terminal#5=1.0]	207
+[path#8 path#9=1.0, battery#11 battery#12=1.0, bulb#1 Bulb#0=1.0, still#4 still#3=1.0, closed#7 closed#8=1.0]	208
+[path#5 path#7=1.0, use#8 with#8=0.5242169104507929, because#0 still#3=0.7870150457493789, another#3 a#5=0.790967454470122, closed#4 closed#6=1.0]	209
+[c#10 C#1=1.0, b#3 B#8=1.0, because#0 still#10=0.7870150457493789]	210
+[Z.#5 Z#9=0.5107682945594024]	211
+[terminal#10 Terminal#0=1.0, gap#8 gap#11=1.0, terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	212
+[c#3 C#2=1.0, contained#6 are#3=1.0, path#9 path#8=1.0]	213
+[c#3 C#2=1.0, path#9 path#7=1.0, b#1 B#0=1.0, battery#12 battery#10=1.0, contained#5 are#3=1.0]	214
+[x#1 X#11=1.0, z#3 Z#9=1.0, will#8 there#0=0.615613289911106, path#12 path#3=1.0]	215
+[connected#3 is#1=1.0, negative#6 no#2=1.0, terminal#7 terminals#6=1.0, terminal#1 terminals#6=1.0]	216
+[circuit#8 path#6=1.0]	217
+[]	218
+[bulbs#0 Bulb#0=1.0, path#9 path#6=1.0, b#1 B#1=1.0]	219
+[battery#11 battery#10=1.0, path#6 path#7=1.0, bulb#9 Bulb#0=1.0, not#2 still#3=0.7820495658018758]	220
+[b#0 B#1=1.0, will#3 still#5=0.6473440171800929, paths#9 paths#8=1.0, battery#12 battery#11=1.0, be#4 still#5=0.71187294578367, c#2 C#3=1.0, closed#8 closed#7=1.0]	221
+[makes#6 are#6=1.0, switch#2 switch#2=1.0, bulb#11 bulb#5=1.0]	222
+[needed#3 still#3=0.5497117123334264, bulb#5 Bulb#0=1.0, not#2 still#3=0.7820495658018758]	223
+[y#3 Y#1=1.0, bulb#10 bulb#3=1.0, closed#15 closed#10=1.0, switch#2 Switch#0=1.0, path#16 path#11=1.0]	224
+[bulb#9 bulb#5=1.0, path#6 path#11=1.0, switch#2 switch#2=1.0]	225
+[terminal#10 Terminal#0=1.0, terminal#10 terminal#6=1.0, positive#1 positive#4=1.0, battery#2 battery#5=1.0]	226
+[path#3 path#3=1.0, z#6 Z#9=1.0]	227
+[gap#3 gap#5=1.0, creates#1 creates#3=1.0]	228
+[Bulb#0 Bulb#0=1.0, contained#5 contained#7=1.0, Bulb#0 Bulb#3=1.0, C#3 C#4=1.0, closed#8 closed#11=1.0, B#1 B#1=1.0, path#9 path#12=1.0, were#4 still#6=0.6215392212445796, battery#12 battery#15=1.0]	229
+[current#5 the#16=0.5416456542611935, it#0 still#10=0.7599010381305096, different#4 are#9=0.6190944127061078]	230
+[bulb#5 bulb#8=1.0, battery#8 battery#11=1.0, containing#3 containing#5=1.0, closed#1 closed#3=1.0, circuit#2 path#4=1.0]	231
+[connected#4 is#2=1.0]	232
+[contained#3 is#1=1.0, closed#6 closed#4=1.0, path#7 path#5=1.0, is#2 still#2=0.6303286274740282]	233
+[Bulb#0 bulbs#0=1.0, C#3 C#3=1.0, contained#6 are#4=1.0, path#9 paths#8=1.0, B#1 B#1=1.0, battery#12 battery#11=1.0, still#5 still#5=1.0]	234
+[Z#10 Y#1=0.5733103462343739, bulb#1 bulb#3=1.0, path#6 path#11=1.0, switch#9 Switch#0=1.0, contained#8 are#5=1.0]	235
+[separates#2 separated#7=1.0, terminal#6 terminal#5=1.0, positive#4 positive#4=1.0, terminal#8 Terminal#0=1.0, terminal#6 Terminal#0=1.0, gap#1 gap#10=1.0]	236
+[circuit#7 circuit#4=1.0]	237
+[circuit#1 circuit#4=1.0, must#2 there#0=0.5785544353001227]	238
+[terminal#0 Terminals#0=1.0, positive#3 positive#10=1.0, terminal#0 terminal#12=1.0, connected#1 connected#7=1.0, charge#4 battery#11=0.5068102274738329]	239
+[contained#4 containing#4=1.0, path#8 path#3=1.0]	240
+[bulbs#0 bulb#1=1.0, circuit#10 path#15=1.0, c#3 C#8=1.0, b#1 B#6=1.0, closed#9 closed#14=1.0, paths#6 path#15=1.0, within#7 in#12=0.605048415230064, have#4 longer#11=0.5897662966798645]	241
+[will#9 are#6=0.6391223493735185, path#2 path#10=1.0, switch#8 switch#12=1.0, affect#11 affects#13=1.0, switch#8 switch#5=1.0]	242
+[positive#6 positive#4=1.0, terminal#10 Terminal#0=1.0, battery#7 battery#5=1.0, terminal#8 Terminal#0=1.0, terminal#8 terminal#6=1.0]	243
+[positive#6 positive#4=1.0, terminal#9 terminal#5=1.0, difference#3 gap#10=1.0, negative#8 positive#4=0.8138100018470491, terminal#9 Terminal#0=1.0]	244
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	245
+[positive#9 positive#4=1.0, terminal#10 Terminal#0=1.0, gap#3 gap#10=1.0, terminal#5 Terminal#0=1.0, terminal#5 terminal#5=1.0]	246
+[bulb#0 Bulb#0=1.0, not#3 longer#4=0.7031638782916044, c#1 C#1=1.0, connected#4 was#2=1.0, battery#7 battery#11=1.0]	247
+[negative#12 positive#4=0.8138100018470491, terminal#13 Terminal#0=1.0, terminal#1 Terminal#0=1.0, positive#7 positive#4=1.0, terminal#8 Terminal#0=1.0, terminal#1 terminal#5=1.0, connected#4 connected#7=1.0]	248
+[separates#2 separated#7=1.0, terminal#6 terminal#5=1.0, positive#4 positive#4=1.0, terminal#8 Terminal#0=1.0, terminal#6 Terminal#0=1.0, gap#1 gap#10=1.0]	249
+[path#15 path#9=1.0, circuit#6 path#9=1.0, Circuit#0 path#9=1.0, battery#9 battery#1=1.0, closed#14 closed#8=1.0]	250
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#0 terminal#5=1.0, connected#3 are#6=1.0]	251
+[path#10 path#14=1.0, closed#9 closed#13=1.0, no#8 neither#6=0.6138698140587734]	252
+[circuit#8 path#9=1.0, battery#2 battery#1=1.0, closed#7 closed#8=1.0]	253
+[battery#5 battery#11=1.0, closed#1 closed#3=1.0, bulb#7 bulb#8=1.0, path#2 path#4=1.0]	254
+[terminal#2 terminals#6=1.0, terminal#7 terminals#6=1.0, negative#5 no#2=1.0, gap#12 gap#3=1.0]	255
+[Bulb#0 bulb#1=1.0, create#3 burns#3=1.0, will#2 are#9=0.6391223493735185, will#2 longer#11=0.580379710032173, path#8 path#15=1.0]	256
+[creates#3 creates#3=1.0, damaged#1 damaged#1=1.0, bulb#2 bulb#2=1.0, gap#5 gap#5=1.0]	257
+[circuit#12 circuit#6=1.0, open#11 there#0=0.5250934869002324, gap#1 gap#3=1.0, circuit#7 circuit#6=1.0, circuit#4 circuit#6=1.0]	258
+[longer#7 there#0=0.5939962870025657, circuit#4 circuit#4=1.0, paths#1 circuit#4=1.0, complete#8 incomplete#3=0.5100274340431183]	259
+[bulb#3 bulb#1=1.0, closed#9 closed#8=1.0, battery#1 battery#4=1.0, need#4 are#5=0.6039288154531561, together#11 and#2=0.5996914539289444, path#10 path#9=1.0]	260
+[connected#4 is#1=1.0, batery#7 battery#7=0.5010517551115031, still#3 there#0=0.7757454917122999]	261
+[connected#6 is#2=1.0, one#4 a#5=0.7051319245341068]	262
+[difference#3 not#3=0.5320666276832859]	263
+[electrical#8 electrical#9=1.0, always#5 different#8=0.5468862294075754, two#2 different#8=0.6691387724012431, states#9 states#10=1.0, will#4 to#6=0.7073010791833597, different#7 different#8=1.0000000000000002, terminals#3 terminals#13=1.0]	264
+[path#6 path#7=1.0, battery#1 battery#1=1.0, closed#5 closed#6=1.0]	265
+[there#0 neither#6=0.6084804297114165, will#1 is#10=0.5837646633191089]	266
+[own#5 different#8=0.5724531292038941, B#11 B#11=1.0, path#7 path#3=1.0, within#3 different#8=0.5215634689652053, path#7 path#9=1.0, C#13 C#13=1.0]	267
+[Bulb#0 bulbs#0=1.0, still#6 still#5=1.0, paths#9 paths#8=1.0, B#1 B#1=1.0, C#4 C#3=1.0, bulb#3 bulbs#0=1.0, closed#8 closed#7=1.0]	268
+[Bulb#0 bulb#1=1.0, path#7 path#15=1.0, C.#12 C#8=0.5944061206805015, B#10 B#6=1.0, B#10 C#8=0.7441219661660923, not#3 longer#11=0.7031638782916044, bulbs#9 bulb#1=1.0]	269
+[terminal#0 Terminals#0=1.0, battery#14 battery#11=1.0, terminal#7 Terminals#0=1.0, connected#10 connected#7=1.0, negative#13 negative#10=1.0, terminal#0 terminal#12=1.0, terminal#3 Terminals#0=1.0]	270
+[containing#3 are#5=1.0]	271
+[bulb#0 Bulbs#0=1.0, still#6 still#5=1.0, closed#9 closed#8=1.0, c#4 C#3=1.0, path#10 paths#9=1.0, battery#13 battery#12=1.0, bulb#3 Bulbs#0=1.0]	272
+[burns#3 burns#3=1.0, longer#12 neither#6=0.5883399837994578, path#17 path#14=1.0, bulb#1 bulb#1=1.0, C#9 C#9=1.0, if#0 neither#6=0.6927095390277024, B#7 B#7=1.0, will#10 is#10=0.5837646633191089, closed#16 closed#13=1.0, bulbs#6 bulb#1=1.0]	273
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, positive#7 positive#4=1.0, connected#4 connected#7=1.0, terminal#9 Terminal#0=1.0]	274
+[positive#3 positive#4=1.0, connected#1 terminal#5=0.5693515043910348, connected#1 connected#8=1.0]	275
+[terminal#0 terminal#0=1.0, connected#3 connected#3=1.0, negative#6 negative#6=1.0, terminal#0 terminal#8=1.0, terminal#8 terminal#0=1.0, battery#7 battery#7=1.0]	276
+[battery#11 battery#9=1.0, c#3 C#2=1.0, different#7 different#5=1.0000000000000002, contained#5 are#3=1.0, paths#8 paths#6=1.0]	277
+[]	278
+[c#3 C#2=1.0, path#10 path#8=1.0, battery#13 battery#11=1.0]	279
+[terminal#4 Terminal#0=1.0, positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, seperated#7 separated#7=0.7442253605044499, gap#10 gap#10=1.0, terminal#2 terminal#5=1.0]	280
+[b#0 B#1=1.0, battery#11 battery#11=1.0, parts#5 bulbs#0=1.0, both#4 still#5=0.6166058692544233, c#2 C#3=1.0]	281
+[contains#9 contained#7=1.0, part#4 bulb#5=1.0, bulb#11 bulb#5=1.0]	282
+[contained#6 is#2=1.0, will#3 still#3=0.6473440171800929, closed#9 closed#6=1.0, bulb#1 Bulb#0=1.0, still#4 still#3=1.0, path#10 path#7=1.0, battery#13 battery#10=1.0]	283
+[]	284
+[gap#3 gap#3=1.0, terminal#9 terminals#6=1.0]	285
+[complete#13 incomplete#3=0.5100274340431183, make#5 is#1=1.0]	286
+[battery#13 battery#15=1.0, still#6 still#6=1.0, bulbs#1 Bulb#0=1.0, bulbs#1 Bulb#3=1.0, C#4 C#4=1.0, closed#9 closed#11=1.0, B#2 B#1=1.0, path#10 path#12=1.0]	287
+[bulbs#0 bulbs#0=1.0, path#8 paths#8=1.0, c#3 C#3=1.0, battery#11 battery#11=1.0, b#1 B#1=1.0, remain#4 are#4=1.0, remain#4 still#5=0.6703269534036929, closed#7 closed#7=1.0]	288
+[circuit#13 voltage#2=0.6421138677669008, state#3 that#4=0.5007442179007489, is#4 means#3=0.6699095584940696, non-zero#5 non-zero#1=1.0000000000000002, gap#10 gap#8=1.0, electrical#2 voltage#2=0.5906866640865339, find#8 there#5=0.6473997075698895]	289
+[connected#3 connected#4=1.0, terminal#1 terminals#1=1.0, terminal#8 terminals#1=1.0]	290
+[connected#4 is#1=1.0, working#8 there#0=0.5448093785758084, terminal#1 terminals#6=1.0]	291
+[gap#8 gap#3=1.0, circuit#11 circuit#6=1.0]	292
+[terminals#3 terminal#5=1.0, terminals#3 Terminal#0=1.0]	293
+[Bulb#0 bulb#1=1.0, created#2 burns#3=1.0]	294
+[bulb#0 Bulb#0=1.0, switch#11 switch#13=1.0, when#10 still#3=0.7182814169112561, circuit#6 path#8=1.0, battery#9 battery#11=1.0, closed#14 closed#7=1.0]	295
+[path#6 path#3=1.0, bulb#8 bulb#9=1.0, Switch#0 switch#6=1.0, Y#1 Y#7=1.0]	296
+[bulb#6 bulb#5=1.0, longer#9 same#10=0.5990594579125246, path#13 path#11=1.0]	297
+[closed#7 closed#4=1.0, closed#4 closed#4=1.0, path#8 Circuit#0=1.0, path#8 paths#5=1.0]	298
+[path#6 path#4=1.0, closed#5 open#3=0.7198416428185891]	299
+[Bulbs#0 Bulb#0=1.0, B#3 C#1=0.7441219661660923, within#6 in#3=0.605048415230064, path#9 path#6=1.0, bulb#11 Bulb#0=1.0, C.#12 C#1=0.5944061206805015, same#8 separate#5=0.538131735856865]	300
+[bulbs#10 bulb#2=1.0, breaks#1 gap#5=1.0]	301
+[gap#4 gap#15=1.0]	302
+[terminal#10 terminal#0=1.0, battery#2 battery#10=1.0, terminal#3 terminal#11=1.0, seperated#5 separated#3=0.7442253605044499, negative#1 negative#9=1.0, gap#8 gap#6=1.0, terminal#3 terminal#0=1.0]	303
+[to#5 maintain#7=0.5451889938922871, battery#7 battery#1=1.0, there#0 different#8=0.6321457396438721, circuit#4 electrical#9=0.5301041158636476]	304
+[terminal#13 Terminals#0=1.0, terminals#5 Terminals#0=1.0, terminals#5 connected#5=0.5757339643029956]	305
+[battery#13 battery#15=1.0, still#6 still#6=1.0, bulb#1 Bulb#0=1.0, bulb#1 Bulb#3=1.0, c#4 C#4=1.0, closed#9 closed#11=1.0, b#2 B#1=1.0, path#10 path#12=1.0]	306
+[bulb#0 Bulb#0=1.0, Z#4 Z.#14=0.5107682945594024, path#9 path#8=1.0, switch#3 switch#13=1.0, are#5 still#3=0.6050153290397329, closed#8 closed#7=1.0]	307
+[]	308
+[Closed#0 closed#3=0.5500085814395247, bulb#4 bulb#8=1.0, battery#7 battery#11=1.0]	309
+[paths#5 path#7=1.0]	310
+[path#5 path#11=1.0]	311
+[terminals#9 terminals#5=1.0, find#4 whether#3=0.581813022929333, where#7 two#4=0.5632258060409205, gap#6 gap#10=1.0, because#2 whether#3=0.7001937392670998, disconnected#11 separated#7=1.0]	312
+[bulbs#0 Bulbs#0=1.0, path#8 paths#8=1.0, c#3 C#3=1.0, battery#11 battery#11=1.0, are#4 still#5=0.6050153290397329, closed#7 closed#7=1.0]	313
+[terminal#4 Terminals#0=1.0, connected#0 connected#5=1.0]	314
+[terminal#13 Terminals#0=1.0, terminal#5 Terminals#0=1.0, two#8 2#3=1.0, one#6 1#1=1.0]	315
+[damaged#3 damaged#3=1.0, closed#14 closed#12=1.0, B#9 B#7=1.0, C#1 C#1=1.0, path#15 path#13=1.0, contained#11 is#2=1.0, if#0 still#9=0.6909318022332712]	316
+[CREATED#4 burns#3=1.0]	317
+[c#6 C#2=1.0, path#10 path#7=1.0]	318
+[paths#12 paths#6=1.0, C#7 C#2=1.0, B#4 C#2=0.7441219661660923, different#10 different#5=1.0000000000000002]	319
+[terminal#3 terminal#5=1.0, terminal#8 Terminal#0=1.0, positive#1 positive#4=1.0, gaps#6 gap#11=1.0, terminal#3 Terminal#0=1.0]	320
+[circuit#6 path#9=1.0, Circuit#0 path#9=1.0]	321
+[battery#8 battery#11=1.0, must#1 there#0=0.5785544353001227, closed#4 closed#3=1.0, path#5 path#4=1.0]	322
+[switch#3 switch#2=1.0, gap#6 gap#5=1.0, creates#4 creates#3=1.0, open#2 open#1=1.0]	323
+[path#8 path#8=1.0, closed#7 closed#7=1.0, c#2 C#2=1.0]	324
+[B#3 C#1=0.7441219661660923, battery#13 battery#16=1.0, still#5 still#9=1.0, B#3 B#7=1.0, connected#6 are#8=1.0, closed#9 closed#12=1.0, path#10 path#13=1.0, containing#11 are#8=1.0]	325
+[path#9 paths#6=1.0, C#1 C#2=1.0, contained#5 are#3=1.0, same#8 different#5=0.738347688399116]	326
+[pathway#6 path#6=1.0, bulb#2 bulb#1=1.0]	327
+[path#8 path#11=1.0, switch#2 switch#2=1.0, bulb#11 bulb#5=1.0]	328
+[positive#11 positive#10=1.0, terminals#2 terminal#12=1.0, battery#15 battery#11=1.0, terminals#2 Terminals#0=1.0, terminal#12 Terminals#0=1.0, connected#8 connected#7=1.0]	329
+[bulbs#0 Bulb#0=1.0, bulbs#0 Bulb#3=1.0, c#3 C#4=1.0, b#1 B#1=1.0, battery#11 battery#15=1.0, were#4 still#6=0.6215392212445796, closed#7 closed#11=1.0]	330
+[closed#9 closed#4=1.0, means#3 is#2=0.6699095584940696, path#10 path#1=1.0, open#1 closed#4=0.7198416428185891, circuit#5 path#1=1.0]	331
+[is#2 neither#6=0.5037617043398531, bulb#0 bulb#1=1.0, closed#5 closed#13=1.0, path#6 path#14=1.0]	332
+[reason#3 the#8=0.5842785428427553]	333
+[still#6 still#2=1.0, closed#3 closed#4=1.0, battery#13 battery#19=1.0, creates#7 is#1=0.5092312732313476, switch#0 Switch#7=1.0, path#10 path#5=1.0, switch#0 Switch#10=1.0, z#1 Z#8=1.0]	334
+[separated#3 separated#3=1.0, gap#6 gap#6=1.0, terminals#1 terminals#1=1.0]	335
+[light#1 bulb#12=0.5834795418055034, bulb#2 bulb#12=1.0, path#8 path#6=1.0]	336
+[closed#3 open#1=0.7198416428185891, circuit#4 switch#2=0.5296309865362726, breaks#1 gap#5=1.0]	337
+[terminal#10 Terminals#0=1.0, terminal#3 Terminals#0=1.0]	338
+[contained#6 are#3=1.0, paths#9 paths#6=1.0, battery#12 battery#9=1.0, C#4 C#2=1.0, different#8 different#5=1.0000000000000002]	339
+[within#5 in#8=0.605048415230064, path#8 path#11=1.0, switch#1 switch#1=1.0, bulb#11 bulb#4=1.0]	340
+[battery#1 battery#1=1.0, closed#6 closed#8=1.0, alone#8 not#5=0.6515211911045037]	341
+[contained#6 are#3=1.0, paths#9 paths#6=1.0, C#4 C#2=1.0, battery#13 battery#9=1.0, different#8 different#5=1.0000000000000002]	342
+[terminal#0 Terminals#0=1.0, connected#4 connected#5=1.0]	343
+[Terminal#0 Terminals#0=1.0, terminal#3 connected#5=0.5693515043910348, terminal#3 Terminals#0=1.0]	344
+[short#1 short#3=1.0, circuit#2 circuit#4=1.0]	345
+[gap#6 gap#3=1.0]	346
+[bulb#1 bulb#1=1.0, path#7 path#7=1.0, contained#4 containing#8=1.0]	347
+[positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#1 Terminal#0=1.0, connected#3 connected#7=1.0, terminal#1 terminal#5=1.0]	348
+[positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, connected#4 connected#7=1.0, terminal#6 Terminal#0=1.0, terminal#2 terminal#5=1.0]	349
+[Bulbs#0 Bulbs#0=1.0, paths#8 paths#9=1.0, C#3 C#3=1.0, battery#11 battery#12=1.0, closed#7 closed#8=1.0, still#5 still#5=1.0]	350
+[Switch#0 Switch#0=1.0, Y#1 Y#1=1.0, path#6 path#11=1.0]	351
+[switch#7 switch#13=1.0, path#5 path#8=1.0, X.#8 X.#14=1.0, was#1 still#3=0.6750435540717791]	352
+[path#2 path#10=1.0]	353
+[path#8 path#9=1.0, battery#1 battery#1=1.0, contained#4 is#4=1.0, closed#7 closed#8=1.0]	354
+[Y#2 Z#9=0.5733103462343739, connected#7 is#1=1.0, Z#4 Z#9=1.0, also#6 is#1=0.6548292685445942]	355
+[bulbs#2 bulb#6=1.0, within#5 in#10=0.605048415230064, path#8 path#13=1.0, if#0 must#7=0.7011357788153834, bulbs#2 bulb#2=1.0, contained#4 contained#9=1.0]	356
+[burn#3 burns#2=1.0, C#7 C#1=1.0, will#2 still#10=0.6473440171800929, C#7 B#8=0.7441219661660923, will#2 then#5=0.6512115037222568]	357
+[terminal#0 Terminals#0=1.0, working#12 same#9=0.5283969485991714, connected#14 connected#5=1.0, voltage#7 electrical#10=0.5906866640865339, terminal#19 Terminals#0=1.0]	358
+[gap#4 gap#3=1.0]	359
+[positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#7 terminal#5=1.0, gap#3 gap#11=1.0, terminal#9 Terminal#0=1.0]	360
+[closed#4 closed#4=1.0, path#5 path#1=1.0]	361
+[two#10 same#5=0.6233677146044383, terminals#11 terminals#1=1.0, states#7 state#6=1.0, difference#4 same#5=0.639617520570069]	362
+[path#5 paths#8=1.0, containing#6 are#4=1.0, bulb#7 bulbs#0=1.0, C#10 C#3=1.0, B#8 B#1=1.0, closed#4 closed#7=1.0, battery#13 battery#11=1.0, still#2 still#5=1.0]	363
+[terminal#5 terminals#13=1.0, because#0 different#8=0.5932579832321572]	364
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#0 terminal#5=1.0, connected#3 are#6=1.0, one#1 1#1=1.0, terminal#8 Terminal#0=1.0]	365
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, one#1 1#1=1.0, positive#7 positive#4=1.0, connected#4 connected#8=1.0, terminal#9 Terminal#0=1.0]	366
+[gap#8 gap#3=1.0, indicates#6 is#1=0.5116588399666585]	367
+[c#3 C#2=1.0, path#9 path#8=1.0, battery#12 battery#11=1.0, contained#5 are#3=1.0]	368
+[else#11 does#9=0.7099165071229094, path#6 path#7=1.0, battery#1 battery#1=1.0, connects#8 is#2=1.0, nothing#10 not#10=0.778149020020756, closed#5 closed#6=1.0]	369
+[must#2 to#6=0.6242052408764874, voltage#11 electrical#9=0.5906866640865339, difference#5 different#8=0.5819199978726122, must#2 maintain#7=0.5502640720658154, terminals#1 terminals#13=1.0, states#8 states#10=1.0, have#3 different#8=0.6013901707449911, voltage#11 battery#1=0.5345926934647287, electrical#7 electrical#9=1.0]	370
+[two#1 the#3=0.5565364728648968, seperated#4 separated#7=0.7442253605044499]	371
+[gap#5 gap#10=1.0, positive#1 positive#4=1.0]	372
+[path#6 path#3=1.0, bulb#8 bulb#9=1.0, Switch#0 switch#6=1.0, Y#1 Y#7=1.0]	373
+[two#6 separated#3=0.5066923201273754, gap#3 gap#6=1.0, terminals#8 terminals#1=1.0, two#6 the#0=0.5565364728648968]	374
+[terminal#4 Terminal#0=1.0, positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, connected#7 connected#7=1.0, terminal#2 terminal#5=1.0]	375
+[bulb#1 bulb#15=1.0, contained#3 are#6=1.0, bulb#1 bulb#2=1.0, circuit#7 switch#5=0.5296309865362726, circuit#7 path#10=1.0, circuit#7 switch#12=0.5296309865362726]	376
+[battery#0 battery#1=1.0, contained#2 contain#11=1.0, path#6 path#7=1.0, contained#2 contained#3=1.0, closed#5 closed#6=1.0]	377
+[chemical#9 chemical#4=1.0, voltage#5 electrical#9=0.5906866640865339, inside#11 the#12=0.5408750306588767, same#4 uses#2=0.5012216764170384, reaction#10 reaction#5=1.0, to#7 maintain#7=0.5451889938922871, voltage#5 battery#1=0.5345926934647287, same#4 different#8=0.738347688399116, always#1 different#8=0.5468862294075754]	378
+[terminals#0 Terminals#0=1.0, terminals#11 Terminals#0=1.0]	379
+[Terminal#0 Terminals#0=1.0, terminal#10 Terminals#0=1.0, connected#6 connected#5=1.0, terminal#3 Terminals#0=1.0]	380
+[one#3 a#3=0.7051319245341068, one#3 different#8=0.6574381566689564, regardless#4 maintain#7=0.5649330464533333, circuit#7 electrical#9=0.5301041158636476]	381
+[gap#3 gap#15=1.0]	382
+[states#2 state#6=1.0, terminals#5 terminals#1=1.0]	383
+[positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, connected#4 connected#7=1.0, terminal#6 Terminal#0=1.0, terminal#2 terminal#5=1.0]	384
+[cause#3 neither#6=0.5195177082754219, because#0 neither#6=0.7270278686248727]	385
+[closed#0 closed#8=1.0, battery#4 battery#4=1.0, paths#1 path#9=1.0]	386
+[Switch#0 Switch#0=1.0, Y#1 Y#1=1.0, bulb#5 bulb#3=1.0]	387
+[Bulbs#0 bulbs#0=1.0, battery#14 battery#11=1.0, B#3 B#3=1.0, contained#7 are#4=1.0, closed#10 closed#7=1.0, will#4 still#5=0.6473440171800929, still#5 still#5=1.0, path#11 paths#8=1.0]	388
+[Battery#0 battery#1=1.0, contained#3 is#4=1.0, closed#6 closed#8=1.0, path#7 path#9=1.0]	389
+[positive#6 positive#4=1.0, end#9 terminal#5=1.0, difference#3 gap#10=1.0, negative#8 positive#4=0.8138100018470491, end#9 Terminal#0=1.0]	390
+[switch#0 Switch#0=1.0, Y#1 Y#1=1.0, bulb#5 bulb#3=1.0]	391
+[c#3 C#2=1.0, b#1 B#0=1.0, path#8 path#7=1.0]	392
+[battery#0 battery#1=1.0, contained#2 contain#10=1.0, contained#2 contained#3=1.0]	393
+[pathway#7 path#3=1.0]	394
+[contained#6 are#3=1.0, paths#9 path#7=1.0, B#1 B#0=1.0, C#4 C#2=1.0, battery#12 battery#10=1.0, different#8 same#6=0.738347688399116]	395
+[seperated#5 separated#8=0.7442253605044499, gap#8 gap#11=1.0, positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, terminal#2 terminal#5=1.0]	396
+[C#3 C#1=1.0, own#10 separate#5=0.5179965394900159, bulb#2 Bulb#0=1.0, pathway#11 path#6=1.0]	397
+[]	398
+[must#16 there#0=0.5785544353001227, needed#1 there#0=0.5613515797566659, path#11 path#4=1.0, closed#18 closed#3=1.0, battery#4 battery#11=1.0, path#15 path#4=1.0]	399
+[gap#3 gap#3=1.0, two#8 them#5=0.5807220559491183, one#6 is#1=0.6857000905922799]	400
+[gap#4 gap#7=1.0]	401
+[switch#1 switch#12=1.0, path#5 path#10=1.0, switch#1 switch#5=1.0, whether#3 If#0=0.651274504153208]	402
+[will#2 are#6=0.6391223493735185, path#15 path#11=1.0, switch#1 switch#2=1.0, switch#11 switch#2=1.0, bulb#8 bulb#5=1.0, bulb#5 bulb#5=1.0]	403
+[]	404
+[closed#5 closed#8=1.0, exists#10 is#4=1.0, circuit#6 path#9=1.0, circuit#13 path#9=1.0, battery#9 battery#1=1.0]	405
+[separated#5 separated#8=1.0, terminal#10 Terminal#0=1.0, gap#8 gap#11=1.0, positive#0 positive#4=1.0, terminal#2 Terminal#0=1.0, terminal#2 terminal#5=1.0]	406
+[bulb#2 bulb#6=1.0, will#3 must#7=0.7798343545946775, will#3 be#8=0.821198929870904, light#5 bulb#2=0.5834795418055034, bulb#2 bulb#2=1.0]	407
+[closed#8 closed#11=1.0, bulbs#1 Bulb#0=1.0, because#0 still#6=0.7870150457493789, bulbs#1 Bulb#3=1.0, c#4 C#4=1.0, path#9 path#12=1.0, b#2 B#1=1.0, battery#12 battery#15=1.0]	408
+[terminals#6 connected#3=0.5757339643029956, terminals#6 terminal#8=1.0, terminals#6 terminal#0=1.0]	409
+[connections#7 connected#6=0.6975686315466991]	410
+[because#0 still#3=0.7870150457493789]	411
+[battery#1 battery#1=1.0, closed#4 closed#8=1.0]	412
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, positive#7 positive#4=1.0, terminal#8 Terminal#0=1.0, connected#4 connected#8=1.0]	413
+[connected#3 connected#4=1.0, terminal#1 terminals#1=1.0, terminal#8 terminals#1=1.0]	414
+[terminal#3 terminal#5=1.0, connected#9 connected#8=1.0, positive#1 positive#4=1.0, terminal#5 Terminal#0=1.0, terminal#3 Terminal#0=1.0]	415
+[difference#3 gap#6=1.0]	416
+[still#3 still#3=1.0, closed#6 closed#8=1.0, circuit#7 path#9=1.0]	417
+[gap#4 gap#3=1.0, circuit#7 circuit#6=1.0]	418
+[voltage#8 electrical#9=0.5906866640865339, to#6 maintain#7=0.5451889938922871, battery#1 battery#1=1.0, chemical#4 chemical#4=1.0, create#7 to#6=0.5892275905478832, chemical#4 reaction#5=0.5110835623597028, create#7 different#8=0.5457889559710383, uses#2 uses#2=1.0]	419
+[terminal#0 Terminal#0=1.0, difference#6 positive#4=0.5082542318042059, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0]	420
+[terminal#10 Terminal#0=1.0, terminal#3 terminal#6=1.0, positive#1 positive#4=1.0, battery#2 battery#5=1.0, terminal#3 Terminal#0=1.0]	421
+[contained#2 are#6=1.0, switch#1 switch#12=1.0, bulb#16 bulb#2=1.0, affect#14 affects#13=1.0, will#13 are#6=0.6391223493735185, path#6 path#10=1.0, switch#1 switch#5=1.0, bulb#9 bulb#15=1.0, bulb#9 bulb#2=1.0]	422
+[separated#5 separated#7=1.0, gap#8 gap#10=1.0, terminal#10 Terminal#0=1.0, terminal#3 terminal#5=1.0, positive#2 positive#4=1.0, terminal#3 Terminal#0=1.0]	423
+[path#6 path#7=1.0, not#2 still#3=0.7820495658018758]	424
+[damaged#0 damaged#1=1.0, bulb#1 bulb#2=1.0, gap#4 gap#5=1.0, creates#2 creates#3=1.0]	425
+[bulb#7 bulb#14=1.0, the#0 place#4=0.6418197644936163, voltage#1 voltage#1=1.0, voltage#1 electrical#7=0.5906866640865339, is#2 indicates#2=0.5116588399666585]	426
+[electrical#5 electrical#7=1.0, allows#1 to#11=0.5212964875825731, measure#4 Measuring#0=1.0, it#0 place#4=0.6526827825614159, states#6 state#8=1.0, electrical#5 voltage#1=0.5906866640865339, it#0 due#10=0.520048187658387]	427
+[path#6 path#7=1.0, circuit#0 path#7=1.0, closed#5 closed#6=1.0]	428
+[contained#5 contained#7=1.0, B#0 B#1=1.0, closed#8 closed#11=1.0, circuit#9 path#12=1.0, still#4 still#6=1.0, battery#12 battery#15=1.0, C#2 C#4=1.0]	429
+[find#3 whether#3=0.581813022929333, is#10 indicates#2=0.5116588399666585, where#4 whether#3=0.6405940706591613, gap#6 gap#10=1.0, where#4 two#4=0.5632258060409205, will#1 are#6=0.6391223493735185, circuit#9 voltage#1=0.6421138677669008]	430
+[connect#8 is#2=1.0, battery#2 battery#1=1.0]	431
+[terminal#0 Terminals#0=1.0, connected#2 connected#7=1.0, end#5 Terminals#0=1.0, terminal#0 terminal#12=1.0, battery#7 battery#11=1.0, postive#4 positive#10=0.6718230300013343]	432
+[therefore#6 not#3=0.7236161426419576, circuit#4 path#1=1.0, circuit#8 path#1=1.0, closed#11 closed#4=1.0, opens#2 closed#4=0.5174875172545271]	433
+[closed#6 closed#6=1.0, path#7 path#7=1.0, battery#2 battery#1=1.0]	434
+[paths#6 paths#5=1.0, neither#1 no#3=0.6138698140587734, closed#5 closed#4=1.0, paths#6 Circuit#0=1.0]	435
+[X#1 X#12=1.0, B#6 B#5=1.0, effect#4 that#8=0.5364074648070553, and#7 include#11=0.506555625075075, C#8 C#7=1.0]	436
+[Bulb#0 bulb#1=1.0, will#2 is#10=0.5837646633191089, no#3 neither#6=0.6138698140587734, longer#4 neither#6=0.5883399837994578]	437
+[Switch#0 Switch#0=1.0, different#5 same#9=0.738347688399116, Y#1 Y#1=1.0, path#6 path#11=1.0, Bulb#8 bulb#3=1.0]	438
+[path#3 circuit#4=1.0]	439
+[battery#4 battery#17=1.0, still#0 still#10=1.0]	440
+[it#0 still#3=0.7599010381305096, closed#3 closed#8=1.0, path#4 path#9=1.0]	441
+[c#1 C#1=1.0, creates#2 burns#2=1.0]	442
+[terminal#0 Terminals#0=1.0, battery#14 battery#11=1.0, terminal#7 Terminals#0=1.0, connected#10 connected#7=1.0, positive#13 positive#10=1.0, terminal#15 Terminals#0=1.0, terminal#0 terminal#12=1.0, terminal#3 Terminals#0=1.0]	443
+[Bulb#0 Bulb#0=1.0, not#6 longer#4=0.7031638782916044, contained#7 was#2=1.0, C#1 C#1=1.0, closed#10 closed#7=1.0, battery#4 battery#11=1.0, pathway#11 path#8=1.0]	444
+[]	445
+[b#12 B#7=1.0, c#1 C#1=1.0, not#3 still#9=0.7820495658018758, path#9 path#13=1.0]	446
+[bulb#3 bulb#2=1.0, path#11 path#13=1.0, bulb#3 bulb#6=1.0, longer#6 must#7=0.6026542825989774, longer#6 be#8=0.6558318772567036, contained#7 contained#9=1.0]	447
+[]	448
+[positive#6 positive#4=1.0, terminal#10 Terminal#0=1.0, terminal#8 Terminal#0=1.0, gap#3 gap#11=1.0, terminal#8 terminal#5=1.0]	449
+[gap#5 gap#10=1.0, terminal#1 Terminal#0=1.0, terminal#1 terminal#5=1.0]	450
+[]	451
+[terminal#1 Terminal#0=1.0, terminal#1 terminal#5=1.0, terminal#6 Terminal#0=1.0, seperated#8 separated#7=0.7442253605044499]	452
+[Terminal#0 terminal#0=1.0, connected#3 connected#3=1.0, terminal#7 terminal#0=1.0, negative#6 negative#6=1.0, Terminal#0 terminal#8=1.0]	453
+[two#9 2#3=1.0, voltage#1 battery#11=0.5345926934647287, terminals#10 Terminals#0=1.0, two#9 separated#7=0.5066923201273754, terminals#10 terminal#12=1.0]	454
+[circuit#3 circuit#4=1.0, makes#1 is#1=1.0, incomplete#4 incomplete#3=1.0000000000000002]	455
+[terminal#6 connected#3=0.5693515043910348, terminal#6 terminal#8=1.0, terminal#6 terminal#0=1.0]	456
+[path#10 path#14=1.0, B#3 C#1=0.7441219661660923, still#5 still#10=1.0, contained#9 are#9=1.0, B#3 B#8=1.0, will#4 then#5=0.6512115037222568]	457
+[terminal#0 Terminals#0=1.0, seperated#6 separated#5=0.7442253605044499, gap#9 gap#8=1.0, terminal#3 Terminals#0=1.0]	458
+[switch#13 switch#2=1.0, contained#6 contained#7=1.0, bulb#4 bulb#5=1.0, bulb#17 bulb#5=1.0, switch#2 switch#2=1.0, will#14 are#6=0.6391223493735185, path#10 path#11=1.0]	459
+[contained#6 are#3=1.0, paths#9 paths#6=1.0, battery#12 battery#9=1.0, C#4 C#2=1.0, different#8 different#5=1.0000000000000002]	460
+[was#3 still#3=0.6750435540717791, yes#0 still#3=0.6201557867953312, bulb#1 Bulb#0=1.0]	461
+[contained#6 are#3=1.0, paths#9 paths#6=1.0, c#4 C#2=1.0, different#8 different#5=1.0000000000000002]	462
+[terminal#11 Terminal#0=1.0, gap#9 gap#11=1.0, terminal#11 terminal#5=1.0]	463
+[bulb#6 bulb#2=1.0, path#2 path#10=1.0, will#7 are#6=0.6391223493735185, bulb#6 bulb#15=1.0]	464
+[will#1 means#3=0.5525364556735375, will#1 that#4=0.700304308185573]	465
+[terminals#1 Terminal#0=1.0, terminals#1 terminal#5=1.0]	466
+[Bulb#0 Bulb#0=1.0, contain#3 contained#4=1.0, closed#6 closed#8=1.0, path#7 path#9=1.0, is#2 still#3=0.6303286274740282]	467
+[bulb#10 Bulbs#0=1.0, closed#15 closed#7=1.0, bulb#1 Bulbs#0=1.0, closed#6 closed#7=1.0, because#0 still#5=0.7870150457493789, path#16 paths#8=1.0, c#11 C#3=1.0, path#7 paths#8=1.0]	468
+[battery#11 battery#9=1.0, C#3 C#2=1.0, different#7 different#5=1.0000000000000002, contained#5 are#3=1.0, paths#8 paths#6=1.0]	469
+[]	470
+[circuit#12 path#5=1.0, closed#6 closed#4=1.0, bulb#14 Bulbs#13=1.0, X#2 X#11=1.0, it#7 still#2=0.7599010381305096, will#8 still#2=0.6473440171800929, closed#11 closed#4=1.0, switches#1 Switch#7=1.0, Z#4 Z#8=1.0, switches#1 Switch#10=1.0]	471
+[Bulb#0 Bulb#0=1.0, closed#5 closed#7=1.0, path#6 path#8=1.0, battery#9 battery#11=1.0, was#2 still#3=0.6750435540717791]	472
+[stops#3 closed#4=1.0, open#1 closed#4=0.7198416428185891]	473
+[bulbs#0 Bulb#0=1.0, contained#5 contained#7=1.0, bulbs#0 Bulb#3=1.0, c#3 C#4=1.0, closed#8 closed#11=1.0, b#1 B#1=1.0, path#9 path#12=1.0, were#4 still#6=0.6215392212445796, battery#12 battery#15=1.0]	474
+[c#3 C#2=1.0]	475
+[there#0 still#5=0.7757454917122999, closed#3 closed#8=1.0, path#4 paths#9=1.0, battery#7 battery#12=1.0]	476
+[electrical#3 voltage#1=0.5906866640865339, two#6 where#5=0.5632258060409205, it#0 place#4=0.6526827825614159, electrical#3 electrical#7=1.0, it#0 due#10=0.520048187658387, state#4 state#8=1.0]	477
+[path#12 circuit#4=1.0, incomplete#14 incomplete#3=1.0000000000000002, circuit#11 circuit#4=1.0, will#3 there#0=0.615613289911106]	478
+[positive#6 positive#4=1.0, connected#3 terminal#5=0.5693515043910348, connected#3 are#6=1.0]	479
+[electrical#5 electrical#7=1.0, there#2 due#10=0.5602852142389426, states#6 state#8=1.0, Find#0 changes#9=1.0, where#1 place#4=0.7126766507461855, different#4 where#5=0.5875840296628079, electrical#5 voltage#1=0.5906866640865339]	480
+[path#10 path#15=1.0, bulb#4 bulb#1=1.0, contained#6 are#10=1.0, same#9 still#11=0.663177600907521, bulb#4 bulbs#6=1.0]	481
+[switch#9 switch#6=1.0, path#4 path#3=1.0]	482
+[electrical#2 electrical#9=1.0, will#9 to#6=0.7073010791833597, battery#7 battery#1=1.0, terminals#8 terminals#13=1.0, two#6 different#8=0.6691387724012431, states#3 states#10=1.0, matter#13 different#8=0.5558341406179136, different#11 different#8=1.0000000000000002]	483
+[terminal#3 terminals#1=1.0, disconnected#4 connected#4=0.5787721370893834, terminal#8 terminals#1=1.0]	484
+[Terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, Terminal#0 terminal#5=1.0, seperated#3 separated#7=0.7442253605044499]	485
+[circuit#8 paths#9=1.0, paths#2 paths#9=1.0, battery#11 battery#12=1.0, still#4 still#5=1.0, closed#7 closed#8=1.0]	486
+[because#0 still#3=0.7870150457493789, closed#6 closed#6=1.0, bulb#1 Bulb#0=1.0, path#7 path#7=1.0, battery#10 battery#10=1.0]	487
+[terminal#5 Terminals#0=1.0]	488
+[gap#3 gap#15=1.0]	489
+[connected#5 connected#7=1.0, terminal#7 Terminal#0=1.0, terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	490
+[]	491
+[are#9 different#5=0.6190944127061078, contained#10 are#3=1.0, paths#13 paths#6=1.0, c#8 C#2=1.0]	492
+[path#1 path#4=1.0, closed#11 closed#3=1.0, contains#2 is#1=1.0, path#8 path#4=1.0]	493
+[contained#6 are#3=1.0, b#1 B#0=1.0, c#4 C#2=1.0, within#7 in#4=0.605048415230064, path#10 path#7=1.0]	494
+[path#11 path#9=1.0, closed#10 closed#8=1.0, battery#2 battery#1=1.0]	495
+[lightbulb#3 bulb#2=1.0, contained#5 contained#9=1.0, lightbulb#3 bulb#6=1.0, if#0 must#7=0.7011357788153834, circuit#9 path#13=1.0, damaged#2 damaged#1=1.0]	496
+[terminal#0 Terminals#0=1.0, connected#2 connected#6=1.0, terminal#4 Terminals#0=1.0]	497
+[C#3 C#2=1.0, contained#6 are#3=1.0, path#11 path#8=1.0]	498
+[terminal#1 Terminal#0=1.0, negative#7 positive#4=0.8138100018470491, terminal#8 Terminal#0=1.0, terminal#1 terminal#6=1.0, connected#4 are#7=1.0]	499
+[connected#6 is#2=1.0, battery#4 battery#1=1.0]	500
+[electrical#8 electrical#9=1.0, circuit#2 electrical#9=0.5301041158636476, state#9 states#10=1.0, terminals#12 terminals#13=1.0, between#10 different#8=0.5499238296952285]	501
+[switch#2 switch#6=1.0, connected#4 is#1=1.0, circuit#8 path#3=1.0]	502
+[path#12 path#8=1.0, C#4 C#2=1.0, contained#7 are#3=1.0]	503
+[terminal#3 terminals#6=1.0, terminal#10 terminals#6=1.0, negative#8 no#2=1.0]	504
+[gap#3 gap#5=1.0, creates#1 creates#3=1.0]	505
+[terminal#7 terminal#0=1.0, terminal#1 terminal#0=1.0, battery#6 battery#7=1.0, terminal#7 connected#3=0.5693515043910348, one#2 1#1=1.0, terminal#1 terminal#8=1.0, positive#5 negative#6=0.8138100018470491]	506
+[terminals#11 Terminal#0=1.0, difference#4 positive#4=0.5082542318042059, terminals#11 terminal#5=1.0, difference#4 gap#10=1.0]	507
+[terminal#6 terminal#5=1.0, gap#4 gap#3=1.0, terminal#6 terminal#10=1.0, positive#10 positive#9=1.0, terminal#11 terminal#5=1.0]	508
+[z#8 Z#9=1.0, path#4 path#3=1.0, contains#11 containing#4=1.0, battery#16 battery#12=1.0]	509
+[contained#12 is#4=1.0, closed#15 closed#8=1.0, circuit#6 path#9=1.0, path#16 path#9=1.0, Circuit#0 path#9=1.0, battery#9 battery#1=1.0]	510
+[reason#3 not#7=0.7803632424782438]	511
+[terminal#3 terminal#5=1.0, terminal#11 Terminal#0=1.0, gap#9 gap#11=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	512
+[voltage#8 battery#10=0.5345926934647287, gap#0 gap#6=1.0]	513
+[voltage#9 electrical#9=0.5906866640865339, not#6 different#8=0.5366062304010636, does#5 uses#2=0.5824600386229212, affect#7 different#8=0.505848713503549, battery#12 battery#1=1.0, circuit#4 electrical#9=0.5301041158636476]	514
+[even#8 different#8=0.6187637198526599, will#3 to#6=0.7073010791833597, battery#2 battery#1=1.0, voltage#7 electrical#9=0.5906866640865339, always#4 different#8=0.5468862294075754]	515
+[connected#8 terminals#13=0.5757339643029956, terminal#5 terminals#13=1.0, are#6 different#8=0.6190944127061078, terminal#2 terminals#13=1.0, negative#4 reaction#5=0.5141059861541348]	516
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0]	517
+[bulbs#0 bulb#2=1.0, switches#5 switch#12=1.0, will#1 are#6=0.6391223493735185, affected#3 affects#13=1.0, path#10 path#10=1.0, switches#5 switch#5=1.0, bulbs#0 bulb#15=1.0]	518
+[closed#4 closed#7=1.0]	519
+[will#12 are#6=0.6391223493735185, path#2 path#10=1.0, switch#8 switch#12=1.0, bulb#11 bulb#15=1.0, bulb#11 bulb#2=1.0, connected#4 are#6=1.0, switch#8 switch#5=1.0]	520
+[paths#6 paths#6=1.0, all#0 different#5=0.6575492265997541]	521
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#0 terminal#5=1.0, terminal#0 connected#7=0.5693515043910348]	522
+[voltage#5 electrical#7=0.5906866640865339, that#6 indicates#2=0.5516915215465032, gap#11 gap#13=1.0, that#6 state#8=0.5007442179007489, that#6 changes#9=0.511981389782939, means#7 where#5=0.5602135338572664, voltage#5 voltage#1=1.0, because#0 due#10=0.6262851328157799, there#8 place#4=0.6925346813936312]	523
+[Terminal#0 Terminal#0=1.0, terminal#10 Terminal#0=1.0, positve#6 positive#4=0.5543183873286962, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	524
+[Terminal#0 Terminal#0=1.0, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	525
+[because#0 still#3=0.7870150457493789, bulb#1 Bulb#0=1.0, closed#6 closed#7=1.0, circuit#7 path#8=1.0, battery#10 battery#11=1.0]	526
+[connected#3 is#1=1.0, circuit#0 path#4=1.0, battery#6 battery#7=1.0]	527
+[connected#2 are#9=1.0, paths#1 path#15=1.0, battery#5 battery#18=1.0]	528
+[close#4 open#5=0.5636706799501378, path#1 path#6=1.0]	529
+[Bulbs#0 Bulbs#0=1.0, C#3 C#3=1.0, will#4 are#4=0.6391223493735185, still#5 are#4=0.6050153290397329]	530
+[Bulb#0 bulbs#0=1.0, still#6 still#5=1.0, paths#9 paths#8=1.0, battery#12 battery#11=1.0, C#4 B#3=0.7441219661660923, B#1 B#3=1.0, bulb#3 bulbs#0=1.0, closed#8 closed#7=1.0]	531
+[terminal#1 Terminals#0=1.0, connected#4 connected#5=1.0, terminal#9 Terminals#0=1.0]	532
+[electrical#18 electrical#7=1.0, voltage#4 voltage#1=1.0, where#10 place#4=0.7126766507461855, states#19 state#8=1.0, difference#16 changes#9=1.0, gap#9 gap#13=1.0, find#7 changes#9=1.0, measuring#3 Measuring#0=1.0, because#1 due#10=0.6262851328157799]	533
+[bulb#0 Bulb#0=1.0, same#6 separate#5=0.538131735856865, b#1 B#1=1.0, path#7 path#6=1.0, bulbs#9 Bulb#0=1.0]	534
+[contained#4 contained#3=1.0, contained#4 contain#10=1.0, path#8 path#6=1.0]	535
+[path#5 paths#9=1.0, bulb#14 Bulbs#0=1.0, bulb#11 Bulbs#0=1.0, contains#7 contained#6=1.0, battery#9 battery#12=1.0, closed#4 closed#8=1.0, c#15 C#3=1.0, still#2 still#5=1.0]	536
+[]	537
+[Terminal#0 Terminals#0=1.0, connected#3 connected#6=1.0, terminal#8 Terminals#0=1.0]	538
+[switch#12 switch#5=1.0, path#2 path#10=1.0, switch#12 switch#12=1.0, bulb#15 bulb#15=1.0, directly#4 the#8=0.5099796502198662, bulb#15 bulb#2=1.0, affects#13 affects#13=1.0, connected#5 are#6=1.0]	539
+[terminal#0 Terminals#0=1.0, terminal#0 connected#5=0.5693515043910348, difference#7 same#9=0.639617520570069, terminal#3 Terminals#0=1.0]	540
+[closed#3 closed#7=1.0, B#7 C#3=0.7441219661660923, without#5 and#2=0.5361352967110579, path#4 path#8=1.0, bulb#6 Bulbs#0=1.0]	541
+[terminal#4 Terminal#0=1.0, connected#9 connected#7=1.0, terminal#4 terminal#5=1.0, positive#2 positive#4=1.0, terminal#6 Terminal#0=1.0]	542
+[C#3 C#2=1.0, battery#11 battery#10=1.0, B#1 B#0=1.0, path#8 path#7=1.0]	543
+[terminal#0 Terminals#0=1.0, connected#3 are#4=1.0, terminal#5 Terminals#0=1.0]	544
+[connected#5 terminals#13=0.5757339643029956, terminals#2 terminals#13=1.0, are#3 different#8=0.6190944127061078]	545
+[connected#5 connected#7=1.0, positive#8 positive#10=1.0, terminal#10 Terminals#0=1.0, battery#9 battery#11=1.0, terminals#3 terminal#12=1.0, terminals#3 Terminals#0=1.0]	546
+[Bulb#0 bulb#1=1.0, create#3 own#5=0.6017123685175294, will#2 is#2=0.5837646633191089, path#8 path#6=1.0]	547
+[paths#11 path#15=1.0, because#0 still#11=0.7870150457493789, creates#2 burns#3=1.0]	548
+[closed#5 closed#7=1.0, path#6 path#8=1.0, bulb#8 Bulb#0=1.0, switch#0 switch#13=1.0, is#2 still#3=0.6303286274740282]	549
+[will#12 that#4=0.700304308185573, time#9 that#4=0.5964427247875709, one#6 that#4=0.7697202484986965, know#19 separated#8=1.0, point#7 terminals#6=1.0, will#1 that#4=0.700304308185573, voltage#15 voltage#2=1.0, be#2 means#3=0.6522140549414939, gap#4 gap#11=1.0]	550
+[gap#4 gap#15=1.0]	551
+[makes#6 uses#2=0.5382355945514337, electrical#8 electrical#9=1.0, states#9 states#10=1.0, times#19 different#8=0.5003192855329708, different#16 different#8=1.0000000000000002, terminals#15 terminals#13=1.0, chemical#1 chemical#4=1.0, battery#5 battery#1=1.0, inside#3 the#12=0.5408750306588767, negative#14 reaction#5=0.5141059861541348, reaction#2 reaction#5=1.0]	552
+[different#0 same#6=0.738347688399116, paths#1 path#7=1.0, battery#4 battery#10=1.0]	553
+[open#3 open#5=1.0, path#4 path#6=1.0]	554
+[terminal#0 Terminal#0=1.0, terminal#0 terminal#5=1.0, directly#3 connected#7=0.570051675032652, positive#7 positive#4=1.0, terminal#8 Terminal#0=1.0, connected#4 connected#7=1.0]	555
+[bulb#7 bulb#5=1.0, connected#4 are#6=1.0, switch#2 switch#2=1.0]	556
+[becomes#9 creates#3=0.5348023000902943, gap#4 gap#5=1.0, creates#2 creates#3=1.0]	557
+[Bulb#0 Bulb#0=1.0, path#6 path#6=1.0, B#1 B#1=1.0]	558
+[connected#5 connected#7=1.0, terminal#7 Terminal#0=1.0, terminal#3 terminal#5=1.0, terminal#3 Terminal#0=1.0]	559
+[terminal#9 terminals#6=1.0, terminal#9 connected#9=0.5693515043910348, terminal#13 terminals#6=1.0, will#1 that#4=0.700304308185573, battery#8 voltage#2=0.5345926934647287, be#2 means#3=0.6522140549414939]	560
+[b#7 B#1=1.0, gap#4 gap#4=1.0, bulb#6 bulb#0=1.0]	561
+[Terminal#0 Terminals#0=1.0, connected#3 connected#5=1.0, terminal#5 Terminals#0=1.0]	562
+[terminal#1 terminal#12=1.0, terminal#1 Terminals#0=1.0, connected#3 are#6=1.0]	563
+[electrical#2 electrical#9=1.0, battery#7 battery#1=1.0, state#3 states#10=1.0, terminals#12 terminals#13=1.0, difference#4 different#8=0.5819199978726122, two#11 different#8=0.6691387724012431]	564
+[involved#4 not#5=0.5201612920674302, circuit#7 path#9=1.0, one#1 a#7=0.7051319245341068]	565
+[something#3 the#3=0.5143287439727262, gap#6 gap#10=1.0]	566
+[chemical#3 chemical#4=1.0, chemical#3 reaction#5=0.5110835623597028, because#0 different#8=0.5932579832321572, battery#6 battery#1=1.0]	567
+[path#2 circuit#6=1.0, connecting#3 is#1=1.0, will#6 there#0=0.615613289911106]	568
+[b#5 B#8=1.0, contained#8 are#9=1.0, will#6 then#5=0.6512115037222568, closed#11 closed#13=1.0, path#12 path#14=1.0, be#7 still#10=0.71187294578367]	569
+[path#1 path#4=1.0, bulb#7 bulb#8=1.0, battery#4 battery#11=1.0, including#2 containing#5=1.0]	570
+[path#8 path#8=1.0, battery#11 battery#11=1.0, it#1 still#3=0.7599010381305096, closed#7 closed#7=1.0]	571
+[battery#13 battery#1=1.0, contains#1 is#4=1.0, circuit#10 path#9=1.0]	572
+[path#7 path#15=1.0, not#3 still#11=0.7820495658018758]	573
+[connect#3 are#5=1.0, closed#9 closed#8=1.0, battery#1 battery#4=1.0, path#10 path#9=1.0, bulb#6 bulb#1=1.0]	574
+[terminal#0 Terminal#0=1.0, terminal#0 terminal#5=1.0, positive#4 positive#4=1.0, terminal#5 Terminal#0=1.0, connected#7 are#6=1.0]	575
+[terminals#7 terminal#0=1.0, terminals#7 terminal#9=1.0]	576
+[terminal#0 Terminals#0=1.0, terminal#9 Terminals#0=1.0, connected#5 connected#5=1.0]	577
+[two#8 different#8=0.6691387724012431, always#2 different#8=0.5468862294075754, voltage#6 electrical#9=0.5906866640865339, difference#4 different#8=0.5819199978726122, battery#9 battery#1=1.0, terminals#10 terminals#13=1.0]	578
+[voltage#8 electrical#9=0.5906866640865339, to#6 maintain#7=0.5451889938922871, chemical#4 chemical#4=1.0, create#7 to#6=0.5892275905478832, voltage#8 battery#1=0.5345926934647287, create#7 different#8=0.5457889559710383, uses#2 uses#2=1.0, reaction#5 reaction#5=1.0]	579
+[circuit#6 path#7=1.0, C#8 C#1=1.0]	580
+[Terminal#0 Terminal#0=1.0, postive#6 positive#4=0.6718230300013343, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	581
+[bulb#10 bulb#5=1.0, switch#2 switch#2=1.0]	582
+[terminal#3 terminals#1=1.0, that#0 state#6=0.5007442179007489, side#11 same#5=0.5054948606339104, terminal#6 terminals#1=1.0]	583
+[terminal#11 terminals#6=1.0, connected#6 is#1=1.0]	584
+[paths#3 path#3=1.0, paths#3 path#9=1.0, are#1 different#8=0.6190944127061078]	585
+[bulb#0 Bulb#0=1.0, path#8 path#9=1.0, still#3 still#3=1.0, battery#11 battery#12=1.0, contained#4 contained#4=1.0, closed#7 closed#8=1.0]	586
+[closed#5 closed#8=1.0, battery#7 battery#4=1.0, circuit#6 path#9=1.0]	587
+[closed#7 closed#6=1.0, bulb#2 bulb#1=1.0, path#8 path#7=1.0]	588
+[one#2 same#6=0.7720435166389559, others#10 and#1=0.6231294979967877]	589
+[terminal#7 Terminals#0=1.0, terminal#1 Terminals#0=1.0, directly#4 connected#5=0.570051675032652, connected#5 connected#5=1.0]	590
+[bulbs#1 Bulbs#0=1.0, path#9 paths#8=1.0, c#4 C#3=1.0, still#5 still#5=1.0, closed#8 closed#7=1.0]	591
+[battery#12 battery#7=1.0, positive#6 negative#6=0.8138100018470491, end#9 terminal#8=1.0, difference#3 negative#6=0.5085778344349934, end#9 terminal#0=1.0, negative#8 negative#6=1.0]	592
+[B#13 B#2=1.0, same#9 different#7=0.738347688399116, c#4 C#4=1.0, path#10 paths#8=1.0]	593
+[terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#5 Terminal#0=1.0, terminal#3 Terminal#0=1.0, connected#8 connected#7=1.0]	594
+[negative#6 no#2=1.0, terminal#9 terminals#6=1.0, either#4 there#0=0.6468527441073423]	595
+[Terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, Terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	596
+[path#12 path#11=1.0, contained#7 contained#7=1.0, switch#5 switch#2=1.0, switch#15 switch#2=1.0, bulb#2 bulb#5=1.0, bulb#18 bulb#5=1.0]	597
+[bulb#0 Bulb#0=1.0, pathway#6 path#6=1.0, c#1 C#1=1.0, own#5 separate#5=0.5179965394900159]	598
+[Bulb#0 Bulbs#0=1.0, path#8 paths#9=1.0, C#3 C#3=1.0, battery#11 battery#12=1.0, still#4 still#5=1.0, closed#7 closed#8=1.0]	599
+[terminal#17 terminals#13=1.0, voltage#5 electrical#9=0.5906866640865339, always#2 different#8=0.5468862294075754, terminal#11 terminals#13=1.0, negative#16 reaction#5=0.5141059861541348, battery#1 battery#1=1.0, there#7 different#8=0.6321457396438721]	600
+[positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, terminal#2 terminal#5=1.0]	601
+[is#6 indicates#2=0.5116588399666585, where#3 place#4=0.7126766507461855, gap#5 gap#13=1.0, see#2 where#5=0.6591682391872657]	602
+[circuit#6 path#6=1.0, closed#5 open#5=0.7198416428185891]	603
+[seperated#1 separated#8=0.7442253605044499, gap#4 gap#11=1.0]	604
+[terminal#1 Terminals#0=1.0, connected#4 connected#6=1.0, terminal#9 Terminals#0=1.0]	605
+[c#6 C#2=1.0, path#12 path#7=1.0]	606
+[two#6 the#3=0.5565364728648968, points#7 Terminal#0=1.0, two#6 separated#7=0.5066923201273754, points#7 terminal#5=1.0, difference#4 positive#4=0.5082542318042059, difference#4 gap#10=1.0]	607
+[path#6 path#3=1.0, path#6 path#9=1.0, with#7 different#8=0.5245949267577616]	608
+[bulb#4 bulb#1=1.0, closed#9 closed#8=1.0, battery#1 battery#4=1.0, together#11 and#2=0.5996914539289444, path#10 path#9=1.0, must#5 are#5=0.6485956584525727]	609
+[difference#1 positive#4=0.5082542318042059, difference#1 gap#10=1.0]	610
+[takes#2 is#1=1.0, path#5 path#4=1.0, away#3 there#0=0.593055374292896]	611
+[Bulb#0 Bulb#0=1.0, path#6 path#7=1.0, C#1 C#1=1.0, open#5 closed#6=0.7198416428185891]	612
+[B#2 B#7=1.0, bulbs#1 bulb#1=1.0, both#0 neither#6=0.6200159944941124, bulb#11 bulb#1=1.0, path#9 path#14=1.0, C#4 C#9=1.0]	613
+[two#6 same#5=0.6233677146044383, terminals#7 terminals#1=1.0, difference#3 same#5=0.639617520570069]	614
+[Bulb#0 bulb#3=1.0, Y#4 Y#1=1.0, path#10 path#11=1.0, switch#3 Switch#0=1.0]	615
+[path#7 path#3=1.0, same#6 different#8=0.738347688399116, path#7 path#9=1.0, B#10 B#11=1.0, C#13 C#13=1.0]	616
+[short#9 short#3=1.0, means#3 is#1=0.6699095584940696, circuit#10 circuit#4=1.0]	617
+[bulb#12 bulb#5=1.0, switch#2 switch#2=1.0, path#7 path#11=1.0]	618
+[bulb#0 bulbs#0=1.0, still#6 still#5=1.0, closed#9 closed#7=1.0, b#4 B#3=1.0, path#10 paths#8=1.0, battery#13 battery#11=1.0, bulb#3 bulbs#0=1.0]	619
+[bulbs#0 Bulb#0=1.0, b#13 B#1=1.0, path#10 path#6=1.0, bulb#12 Bulb#0=1.0, same#8 separate#5=0.538131735856865]	620
+[everything#12 own#5=0.6341278426731677, whole#9 own#5=0.616736757022527, bulb#2 bulb#1=1.0]	621
+[terminals#2 terminal#8=1.0, terminals#2 terminal#0=1.0, terminals#2 connected#3=0.5757339643029956]	622
+[connected#7 connected#7=1.0, positive#10 positive#10=1.0, connected#7 terminal#12=0.5693515043910348]	623
+[path#4 circuit#4=1.0, open#3 there#0=0.5250934869002324]	624
+[circuit#3 path#1=1.0]	625
+[reason#3 not#7=0.7803632424782438]	626
+[path#1 path#6=1.0, will#2 is#2=0.5837646633191089]	627
+[now#9 there#0=0.6784353686263674]	628
+[terminal#0 Terminals#0=1.0, terminal#0 connected#5=0.5693515043910348, terminal#3 Terminals#0=1.0]	629
+[means#3 is#1=0.6699095584940696, circuit#6 circuit#4=1.0]	630
+[path#5 paths#8=1.0, C.#16 C#3=0.5944061206805015, Bulb#11 bulbs#0=1.0, contains#7 are#4=1.0, battery#9 battery#11=1.0, closed#4 closed#7=1.0, Bulb#15 bulbs#0=1.0, B#12 B#1=1.0, still#2 still#5=1.0, B#12 C#3=0.7441219661660923]	631
+[terminal#10 Terminals#0=1.0, negative#8 negative#11=1.0, connected#6 connected#8=1.0, battery#9 battery#12=1.0, terminal#10 terminal#13=1.0]	632
+[closed#3 open#1=0.7198416428185891, breaks#1 gap#5=1.0]	633
+[b#1 B#11=1.0, path#9 path#3=1.0, path#9 path#9=1.0, same#7 different#8=0.738347688399116, c#3 C#13=1.0]	634
+[]	635
+[connected#3 connected#3=1.0, terminal#1 terminal#0=1.0, battery#6 battery#7=1.0, terminal#1 terminal#8=1.0]	636
+[will#4 are#3=0.6391223493735185, one#2 different#5=0.6574381566689564]	637
+[terminal#0 Terminal#0=1.0, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, postive#5 positive#4=0.6718230300013343, terminal#6 Terminal#0=1.0]	638
+[path#8 path#11=1.0, contained#4 contained#7=1.0, switch#2 switch#2=1.0, Bulb#11 bulb#5=1.0]	639
+[terminal#3 terminals#5=1.0, terminal#10 terminals#5=1.0, gap#8 gap#3=1.0]	640
+[terminals#2 terminal#12=1.0, terminal#8 Terminals#0=1.0, terminals#2 Terminals#0=1.0, connected#4 connected#7=1.0, positive#7 positive#10=1.0]	641
+[closed#4 closed#4=1.0, path#5 path#1=1.0]	642
+[gap#4 gap#5=1.0, creates#2 creates#3=1.0]	643
+[battery#5 battery#11=1.0, is#1 still#3=0.6303286274740282]	644
+[must#14 there#0=0.5785544353001227, connected#5 is#1=1.0, circuit#18 circuit#4=1.0, must#3 there#0=0.5785544353001227]	645
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#0 terminal#5=1.0, connected#3 connected#7=1.0, terminal#8 Terminal#0=1.0]	646
+[longer#10 not#3=0.7031638782916044, open#4 closed#4=0.7198416428185891, closed#11 closed#4=1.0]	647
+[bulb#0 bulbs#0=1.0, c#3 C#3=1.0, path#9 paths#8=1.0, b#1 B#1=1.0, battery#12 battery#11=1.0, still#5 still#5=1.0, closed#8 closed#7=1.0]	648
+[terminal#1 Terminal#0=1.0, positive#7 positive#4=1.0, terminal#1 terminal#5=1.0, connected#4 connected#8=1.0, terminal#9 Terminal#0=1.0]	649
+[bulb#0 Bulbs#0=1.0, not#3 still#5=0.7820495658018758, path#9 paths#8=1.0, bulb#11 Bulbs#0=1.0, c#14 C#3=1.0]	650
+[terminal#3 terminal#5=1.0, positive#1 positive#4=1.0, terminal#5 Terminal#0=1.0, terminal#3 Terminal#0=1.0, connected#8 connected#7=1.0]	651
+[though#9 still#3=0.8248794143094214, path#2 path#8=1.0, still#3 still#3=1.0, existed#4 is#2=1.0, open#13 closed#7=0.7198416428185891, even#8 still#3=1.0, closed#1 closed#7=1.0, bulb#6 Bulb#0=1.0]	652
+[Bulb#0 Bulb#0=1.0, still#3 still#3=1.0, closed#6 closed#8=1.0, path#7 path#9=1.0, battery#10 battery#12=1.0]	653
+[circuit#4 path#4=1.0, opens#2 open#3=1.0]	654
+[terminal#0 Terminal#0=1.0, positive#6 positive#4=1.0, terminal#0 terminal#5=1.0, connected#3 are#6=1.0, terminal#8 Terminal#0=1.0]	655
+[Bulbs#0 Bulb#0=1.0, B#3 C#1=0.7441219661660923, path#9 path#6=1.0, Bulb#11 Bulb#0=1.0, C.#12 C#1=0.5944061206805015, same#8 separate#5=0.538131735856865]	656
+[switch#7 switch#5=1.0, path#1 path#10=1.0, switch#7 switch#12=1.0]	657
+[makes#3 is#1=1.0, open#6 open#3=1.0, open#1 open#3=1.0, path#5 path#4=1.0]	658
+[path#9 path#8=1.0, c#4 C#2=1.0, closed#8 closed#7=1.0]	659
+[open#11 open#1=1.0, switch#12 switch#2=1.0]	660
+[terminal#0 Terminals#0=1.0, connected#3 connected#5=1.0, terminal#5 Terminals#0=1.0]	661
+[seperated#5 separated#8=0.7442253605044499, terminal#10 Terminal#0=1.0, gap#8 gap#11=1.0, positive#1 positive#4=1.0, terminal#2 Terminal#0=1.0, terminal#2 terminal#5=1.0]	662
+[connection#3 connected#4=0.7209838022164177, terminal#7 terminals#1=1.0, terminal#11 terminals#1=1.0]	663
+[battery#1 battery#1=1.0, closed#6 closed#8=1.0, path#7 path#9=1.0]	664
+[gap#3 gap#10=1.0]	665
+[be#2 neither#6=0.5769710194294209, path#7 path#14=1.0, will#1 is#10=0.5837646633191089]	666
+[giving#13 uses#2=1.0, voltage#15 electrical#9=0.5906866640865339, terminals#2 terminals#13=1.0, are#3 different#8=0.6190944127061078, battery#18 battery#1=1.0, giving#13 states#10=1.0]	667
+[gap#3 gap#15=1.0]	668
+[switch#0 Switch#0=1.0, bulb#9 bulb#3=1.0, Y#1 Y#1=1.0, closed#6 closed#10=1.0, affect#4 not#6=0.5210980737208356, circuit#7 path#11=1.0]	669
+[will#2 are#6=0.6391223493735185, determine#3 indicates#2=0.6222692050471443, electrical#0 voltage#1=0.5906866640865339, gap#8 gap#10=1.0, circuit#13 voltage#1=0.6421138677669008, whether#4 whether#3=1.0, there#5 two#4=0.5810132774451373, determine#3 Measuring#0=1.0]	670
+[closed#2 closed#8=1.0, was#4 still#3=0.6750435540717791, circuit#3 path#9=1.0]	671
+[switch#2 switch#2=1.0, path#10 path#11=1.0, bulb#5 bulb#5=1.0]	672
+[will#6 not#4=0.6945223406567435, affect#8 not#4=0.5210980737208356]	673
+[there#4 whether#3=0.652658683089589, there#4 two#4=0.5810132774451373, is#5 indicates#2=0.5116588399666585, gap#7 gap#10=1.0, find#2 whether#3=0.581813022929333]	674
+[battery#8 battery#12=1.0, path#5 path#3=1.0]	675
+[Bulb#0 Bulbs#0=1.0, contains#12 are#4=1.0, battery#14 battery#11=1.0, still#6 still#5=1.0, closed#9 closed#7=1.0, C#4 C#3=1.0, path#10 paths#8=1.0, bulb#3 Bulbs#0=1.0]	676
+[path#11 path#11=1.0, bulb#4 bulb#5=1.0]	677
+[nothing#11 not#10=0.778149020020756, contained#3 contained#3=1.0, closed#6 closed#6=1.0, battery#1 battery#1=1.0, contained#3 contain#11=1.0, circuit#7 path#7=1.0, pathway#14 path#7=1.0]	678
+[battery#13 battery#16=1.0, still#6 still#9=1.0, closed#9 closed#12=1.0, b#4 B#7=1.0, contained#7 are#8=1.0, paths#10 path#13=1.0]	679
+[]	680
+[another#12 an#4=0.6795117813946643, one#11 the#0=0.6881828387095303, two#2 the#0=0.5565364728648968, battery#6 battery#1=1.0, connect#9 is#2=1.0]	681
+[keeps#2 maintain#7=1.0, reaction#6 reaction#5=1.0, battery#1 battery#1=1.0, chemical#4 chemical#4=1.0, reaction#5 reaction#5=1.0]	682
+[terminals#0 Terminals#0=1.0, terminal#10 Terminals#0=1.0, connected#6 connected#7=1.0, positive#9 positive#10=1.0, terminals#0 terminal#12=1.0]	683
+[terminal#3 terminal#5=1.0, terminal#3 terminal#10=1.0, positive#1 positive#9=1.0, connected#6 is#1=1.0]	684
+[will#18 are#6=0.6391223493735185, light#10 bulb#15=0.5834795418055034, one#2 same#9=0.7720435166389559, will#9 are#6=0.6391223493735185, light#10 bulb#2=0.5834795418055034]	685
+[Bulb#0 Bulb#0=1.0, closed#5 closed#8=1.0, path#7 path#9=1.0, is#2 still#3=0.6303286274740282]	686
+[bulb#2 bulb#6=1.0, path#8 path#13=1.0, If#0 must#7=0.5986828752848884, bulb#2 bulb#2=1.0]	687
+[closed#3 open#5=0.7198416428185891, open#8 open#5=1.0]	688
+[bulb#0 Bulb#0=1.0, contained#3 contained#4=1.0, closed#6 closed#8=1.0, path#7 path#9=1.0, was#2 still#3=0.6750435540717791, battery#10 battery#12=1.0]	689
+[closed#3 closed#3=1.0, path#4 path#4=1.0]	690
+[there#0 still#3=0.7757454917122999, path#3 path#8=1.0, bulb#5 Bulb#0=1.0, battery#7 battery#11=1.0]	691
+[B#5 B#7=1.0, contained#8 are#8=1.0, closed#11 closed#12=1.0, path#12 path#13=1.0, B#5 C#1=0.7441219661660923, battery#15 battery#16=1.0, still#7 still#9=1.0]	692
+[contained#5 contained#7=1.0, bulb#3 bulb#5=1.0, switch#1 switch#2=1.0, path#10 path#11=1.0]	693
+[Bulbs#0 Bulb#0=1.0, battery#13 battery#15=1.0, Bulbs#0 Bulb#3=1.0, C#3 C#4=1.0, contained#6 contained#7=1.0, B#1 B#1=1.0, closed#9 closed#11=1.0, path#10 path#12=1.0, still#5 still#6=1.0]	694
+[terminal#4 Terminal#0=1.0, terminal#4 terminal#5=1.0, separated#7 separated#8=1.0, terminal#12 Terminal#0=1.0, gap#10 gap#11=1.0, positive#2 positive#4=1.0]	695
+[positive#4 positive#4=1.0, gap#0 gap#10=1.0]	696
+[closed#3 closed#4=1.0, path#4 paths#5=1.0, circuit#6 Circuit#0=1.0]	697
+[voltage#2 electrical#9=0.5906866640865339, battery#7 battery#1=1.0, because#0 different#8=0.5932579832321572, change#4 different#8=0.5845357533219437]	698
+[PATH#5 path#9=1.0, C#8 C#13=1.0, B#6 B#11=1.0, PATH#11 path#3=1.0, PATH#5 path#3=1.0]	699
+[chemical#3 chemical#4=1.0, There#0 different#8=0.513498373896639, reaction#4 reaction#5=1.0]	700
+[paths#7 path#13=1.0, Bulbs#0 bulb#2=1.0, Bulbs#0 bulb#6=1.0, be#3 must#7=0.8152117344363483, contained#4 contained#9=1.0]	701
+[bulb#0 Bulb#0=1.0, circuit#6 path#7=1.0, battery#9 battery#10=1.0, without#10 with#8=0.6350925904898556, is#2 still#3=0.6303286274740282, closed#5 closed#6=1.0]	702
+[battery#11 battery#9=1.0, c#3 C#2=1.0, different#7 different#5=1.0000000000000002, contained#5 are#3=1.0, paths#8 paths#6=1.0]	703
+[Z#1 Z.#14=0.5107682945594024, path#6 path#8=1.0, bulb#8 Bulb#0=1.0, same#5 still#3=0.663177600907521, Switch#0 switch#13=1.0]	704
+[path#4 path#14=1.0, not#0 still#10=0.7820495658018758, contained#1 are#9=1.0]	705
+[bulb#0 bulb#1=1.0, closed#7 closed#14=1.0, bulb#0 bulbs#6=1.0, path#8 path#15=1.0, c#3 C#9=1.0, b#1 B#7=1.0, are#4 still#11=0.6050153290397329]	706
+[C#11 C#3=1.0, paths#4 paths#8=1.0, battery#7 battery#11=1.0, B#9 B#1=1.0, still#2 still#5=1.0]	707
+[connected#5 connected#5=1.0, two#2 are#4=0.5490813481269456, terminals#3 Terminals#0=1.0]	708
+[bulb#0 bulb#1=1.0, creates#2 burns#3=1.0]	709
+[terminal#8 Terminals#0=1.0, terminal#5 Terminals#0=1.0]	710
+[closed#5 closed#8=1.0, path#6 path#9=1.0, still#2 still#3=1.0]	711
+[gap#3 gap#3=1.0, circuit#6 circuit#6=1.0]	712
+[terminal#10 Terminal#0=1.0, terminal#3 terminal#6=1.0, positive#1 positive#4=1.0, battery#2 battery#5=1.0, terminal#3 Terminal#0=1.0]	713
+[gap#3 gap#3=1.0, terminal#12 terminals#6=1.0]	714
+[connection#5 connected#9=0.7209838022164177, a#0 means#3=0.5159740836889081]	715
+[is#3 means#3=0.6699095584940696, electrical#1 voltage#2=0.5906866640865339, state#2 that#4=0.5007442179007489]	716
+[open#6 closed#6=0.7198416428185891, bulb#1 Bulb#0=1.0, path#7 path#7=1.0, c#2 C#1=1.0]	717
+[bulb#0 Bulb#0=1.0, path#6 path#7=1.0, battery#9 battery#10=1.0, is#2 still#3=0.6303286274740282, closed#5 closed#6=1.0]	718
+[own#5 maintain#7=0.5208128466756331, negative#12 reaction#5=0.5141059861541348, chemical#6 chemical#4=1.0, because#0 different#8=0.5932579832321572, battery#2 battery#1=1.0]	719
+[positive#6 positive#4=1.0, terminal#7 Terminal#0=1.0, terminal#1 Terminal#0=1.0, connected#3 connected#7=1.0, terminal#1 terminal#5=1.0]	720
+[terminal#1 terminal#12=1.0, another#5 the#9=0.6330330548142379, terminal#1 Terminals#0=1.0, connected#3 connected#7=1.0, terminal#6 Terminals#0=1.0]	721
+[Bulb#0 Bulbs#0=1.0, closed#8 closed#8=1.0, C#3 C#3=1.0, path#9 paths#9=1.0, battery#12 battery#12=1.0, still#5 still#5=1.0]	722
+[bulb#10 bulb#5=1.0, switch#2 switch#2=1.0, path#7 path#11=1.0]	723
+[path#7 path#6=1.0, bulb#2 bulb#1=1.0]	724
+[terminal#3 terminal#5=1.0, seperated#6 separated#8=0.7442253605044499, terminal#11 Terminal#0=1.0, gap#9 gap#11=1.0, positive#1 positive#4=1.0, terminal#3 Terminal#0=1.0]	725
+[terminal#0 Terminals#0=1.0, connected#3 are#4=1.0, terminal#5 Terminals#0=1.0]	726
+[c#4 C#2=1.0, are#5 different#5=0.6190944127061078, parallel#8 paths#6=0.5299880182782425]	727
+[work#6 there#0=0.5974748904835915]	728
+[circuit#7 voltage#2=0.6421138677669008, will#11 that#4=0.700304308185573, is#2 means#3=0.6699095584940696]	729
+[terminal#0 Terminals#0=1.0, terminal#0 connected#5=0.5693515043910348, electrical#9 electrical#10=1.0, difference#7 same#9=0.639617520570069, states#10 state#11=1.0]	730
+[must#2 are#6=0.6485956584525727, path#1 path#10=1.0]	731
+[connected#2 are#6=1.0, terminal#6 terminal#5=1.0, positive#5 positive#4=1.0, terminal#6 Terminal#0=1.0]	732
+[path#4 path#6=1.0, connected#5 is#2=1.0]	733
+[bulb#9 bulb#5=1.0, path#6 path#11=1.0]	734
+[path#6 path#6=1.0, battery#1 battery#1=1.0]	735
+[Bulb#0 Bulb#0=1.0, pathway#5 path#9=1.0, closed#4 closed#8=1.0, has#2 still#3=0.6550705143037922]	736
+[depends#1 affects#13=0.6105714591621301, path#9 path#10=1.0, depends#1 are#6=1.0, whether#3 If#0=0.651274504153208]	737
+[terminal#1 Terminal#0=1.0, positive#7 positive#4=1.0, terminal#1 terminal#5=1.0, seperated#4 separated#7=0.7442253605044499, terminal#9 Terminal#0=1.0]	738
+[bulb#12 bulb#5=1.0, pathway#6 path#11=1.0]	739
+[terminals#11 terminals#13=1.0, two#10 different#8=0.6691387724012431, difference#4 different#8=0.5819199978726122, states#7 states#10=1.0]	740
+[terminal#7 Terminals#0=1.0, connected#3 connected#5=1.0]	741
+[will#3 are#2=0.6391223493735185, two#1 same#5=0.6233677146044383, terminals#2 terminals#1=1.0]	742
+[gap#7 gap#15=1.0, charge#13 battery#11=0.5068102274738329]	743
+[path#2 path#10=1.0, bulb#8 bulb#15=1.0, bulb#8 bulb#2=1.0]	744
+[will#2 be#8=0.821198929870904, burned#4 damaged#1=1.0, be#3 must#7=0.8152117344363483, bulb#1 bulb#2=1.0, bulb#1 bulb#6=1.0]	745
+[path#6 path#6=1.0, contain#10 contained#3=1.0, battery#1 battery#1=1.0, contain#10 contain#10=1.0, components#13 components#13=1.0]	746
+[terminals#1 Terminal#0=1.0, terminals#1 terminal#5=1.0, connected#4 connected#8=1.0]	747
+[closed#8 closed#11=1.0, bulbs#1 Bulb#0=1.0, because#0 still#6=0.7870150457493789, bulbs#1 Bulb#3=1.0, c#4 C#4=1.0, path#9 path#12=1.0, b#2 B#1=1.0, battery#12 battery#15=1.0]	748
+[negative#6 negative#6=1.0, connection#7 connected#3=0.7209838022164177, positive#4 negative#6=0.8138100018470491]	749
+[seperated#2 separated#7=0.7442253605044499, gap#5 gap#10=1.0, terminal#7 Terminal#0=1.0, terminal#7 terminal#5=1.0]	750

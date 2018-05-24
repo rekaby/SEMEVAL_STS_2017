@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	little
+root	ROOT	girl
+acl	girl	running
+case	feed	during
+nmod:during	running	feed
+det	ducks	the
+dobj	feed	ducks
+punct	girl	.

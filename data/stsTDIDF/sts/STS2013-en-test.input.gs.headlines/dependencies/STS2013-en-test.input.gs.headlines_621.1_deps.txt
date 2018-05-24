@@ -1,0 +1,7 @@
+amod	rush	British
+compound	rush	gold
+nsubj	silences	rush
+root	ROOT	silences
+dobj	silences	gripes
+case	cost	over
+nmod:over	gripes	cost

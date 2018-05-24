@@ -1,0 +1,10 @@
+advmod	long	How
+advmod	take	long
+aux	take	should
+nsubj	take	it
+root	ROOT	take
+dobj	take	concrete
+mark	cure	to
+advmod	cure	fully
+advcl	take	cure
+punct	take	?

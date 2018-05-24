@@ -1,0 +1,10 @@
+det	close-up	A
+root	ROOT	close-up
+case	sheep	of
+det	sheep	a
+nmod:of	close-up	sheep
+case	head	with
+det	head	a
+amod	head	black
+nmod:with	close-up	head
+punct	close-up	.

@@ -1,0 +1,14 @@
+nsubjpass	scheduled	NASA
+auxpass	scheduled	is
+root	ROOT	scheduled
+mark	launch	to
+xcomp	scheduled	launch
+det	Facility	the
+compound	Facility	Space
+amod	Facility	Infrared
+compound	Facility	Telescope
+dobj	launch	Facility
+case	morning	on
+compound	morning	Monday
+nmod:on	launch	morning
+punct	scheduled	.

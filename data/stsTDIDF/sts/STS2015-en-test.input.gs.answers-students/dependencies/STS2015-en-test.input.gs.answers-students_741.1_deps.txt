@@ -1,0 +1,9 @@
+nsubj	terminal	The
+cop	terminal	are
+det	terminal	both
+amod	terminal	connected
+det	terminal	the
+amod	terminal	negative
+compound	terminal	battery
+root	ROOT	terminal
+punct	terminal	.

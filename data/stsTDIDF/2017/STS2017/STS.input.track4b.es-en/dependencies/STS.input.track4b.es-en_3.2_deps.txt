@@ -1,0 +1,13 @@
+det	centers	The
+compound	centers	hearing
+root	ROOT	centers
+case	time	on
+nmod:poss	time	Manning
+case	Manning	's
+nmod:on	centers	time
+case	Prison	at
+compound	Prison	Quantico
+compound	Prison	Military
+nmod:at	time	Prison
+punct	time	,
+appos	time	Virginia

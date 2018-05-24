@@ -1,0 +1,4 @@
+root	ROOT	people
+case	house	in
+det	house	a
+nmod:in	people	house

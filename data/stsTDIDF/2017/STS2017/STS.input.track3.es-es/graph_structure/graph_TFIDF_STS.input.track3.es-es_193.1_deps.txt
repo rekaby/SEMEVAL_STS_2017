@@ -1,0 +1,5 @@
+dumpster	in	case
+playing	dumpster	nmod:in
+dumpster	a	det
+playing	group	nsubj
+group	girls	nmod:of

@@ -1,0 +1,9 @@
+det	people	Some
+nsubj	threw	people
+root	ROOT	threw
+det	football	the
+dobj	threw	football
+case	sun	toward
+det	sun	the
+nmod:toward	threw	sun
+punct	threw	.

@@ -1,0 +1,8 @@
+det	feeling	a
+root	ROOT	feeling
+case	aversion	of
+nmod:of	feeling	aversion
+punct	aversion	,
+conj	aversion	distaste
+punct	aversion	,
+dep	feeling	antipathy

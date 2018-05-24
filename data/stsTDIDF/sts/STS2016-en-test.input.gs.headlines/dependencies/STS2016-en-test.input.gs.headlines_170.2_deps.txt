@@ -1,0 +1,7 @@
+compound	Clash	Israel
+compound	Clash	Police
+root	ROOT	Clash
+case	Palestinians	With
+nmod:with	Clash	Palestinians
+case	Jerusalem	in
+nmod:in	Clash	Jerusalem

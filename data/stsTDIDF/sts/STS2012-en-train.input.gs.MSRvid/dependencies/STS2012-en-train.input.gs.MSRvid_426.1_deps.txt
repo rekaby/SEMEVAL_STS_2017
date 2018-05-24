@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	swinging	woman
+aux	swinging	is
+root	ROOT	swinging
+nmod:poss	arms	her
+dobj	swinging	arms
+punct	swinging	.

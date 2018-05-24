@@ -1,0 +1,8 @@
+nsubj	strikes	Israel
+root	ROOT	strikes
+dobj	strikes	Syria
+mark	rise	as
+nsubj	rise	tensions
+advcl	strikes	rise
+case	weapons	on
+nmod:on	rise	weapons

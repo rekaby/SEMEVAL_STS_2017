@@ -1,0 +1,6 @@
+det	disease	a
+root	ROOT	disease
+case	heart	of
+det	heart	the
+nmod:of	disease	heart
+punct	disease	.

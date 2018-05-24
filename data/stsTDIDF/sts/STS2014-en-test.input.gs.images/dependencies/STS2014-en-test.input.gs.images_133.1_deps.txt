@@ -1,0 +1,16 @@
+det	close-up	A
+root	ROOT	close-up
+case	animal	of
+det	animal	an
+nmod:of	close-up	animal
+case	standing	with
+det	standing	a
+amod	standing	long
+compound	standing	face
+nmod:with	close-up	standing
+case	grass	on
+nmod:on	standing	grass
+case	tree	near
+det	tree	a
+nmod:near	grass	tree
+punct	close-up	.

@@ -1,0 +1,14 @@
+det	person	A
+nsubj	reclines	person
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	person	shirt
+root	ROOT	reclines
+case	table	near
+det	table	a
+compound	table	coffee
+nmod:near	reclines	table
+cc	table	and
+conj:and	table	television
+punct	reclines	.

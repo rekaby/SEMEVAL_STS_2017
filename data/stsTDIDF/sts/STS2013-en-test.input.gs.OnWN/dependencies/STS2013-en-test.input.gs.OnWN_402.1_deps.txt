@@ -1,0 +1,11 @@
+root	ROOT	prepare
+punct	prepare	,
+conj	prepare	arrange
+punct	prepare	;
+conj	prepare	create
+cc	create	or
+conj:or	create	organize
+case	purpose	for
+det	purpose	a
+amod	purpose	particular
+nmod:for	create	purpose

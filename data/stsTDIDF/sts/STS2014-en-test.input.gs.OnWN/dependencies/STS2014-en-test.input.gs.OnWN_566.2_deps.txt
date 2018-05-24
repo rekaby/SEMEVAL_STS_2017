@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	forcing	of
+acl	act	forcing
+det	enemy	the
+dobj	forcing	enemy
+mark	withdraw	to
+xcomp	forcing	withdraw
+punct	act	.

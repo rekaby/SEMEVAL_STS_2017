@@ -1,0 +1,7 @@
+det	man	The
+nsubj	painting	man
+aux	painting	is
+root	ROOT	painting
+det	house	a
+dobj	painting	house
+punct	painting	.

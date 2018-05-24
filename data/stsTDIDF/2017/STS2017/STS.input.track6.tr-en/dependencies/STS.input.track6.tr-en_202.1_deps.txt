@@ -1,0 +1,13 @@
+det	woman	A
+nsubjpass	suspended	woman
+case	beach	on
+det	beach	a
+nmod:on	woman	beach
+case	sunset	at
+nmod:at	woman	sunset
+auxpass	suspended	is
+root	ROOT	suspended
+case	air	in
+det	air	the
+nmod:in	suspended	air
+punct	suspended	.

@@ -1,0 +1,5 @@
+nsubj	closes	Japan
+root	ROOT	closes
+amod	reactor	last
+amod	reactor	nuclear
+dobj	closes	reactor

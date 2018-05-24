@@ -1,0 +1,13 @@
+water	into	case
+hurdle	a	det
+jumping	hurdle	dobj
+falls	athlete	nsubj
+jumping	take	advcl
+athlete	A	det
+athlete	male	amod
+jumping	,	punct
+falls	jumping	advcl
+take	pictures	dobj
+take	people	nsubj
+jumping	water	nmod:into
+jumping	after	mark

@@ -1,0 +1,9 @@
+det	man	The
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	chicken
+case	container	into
+det	container	the
+nmod:into	putting	container
+punct	putting	.

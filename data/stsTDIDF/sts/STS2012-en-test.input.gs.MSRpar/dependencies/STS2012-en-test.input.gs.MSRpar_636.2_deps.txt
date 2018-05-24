@@ -1,0 +1,15 @@
+punct	said	``
+nsubj	think	We
+ccomp	said	think
+nsubj	news	it
+cop	news	's
+amod	news	great
+ccomp	think	news
+punct	said	,
+punct	said	''
+root	ROOT	said
+compound	Thode	Enron
+compound	Thode	spokesman
+compound	Thode	Eric
+nsubj	said	Thode
+punct	said	.

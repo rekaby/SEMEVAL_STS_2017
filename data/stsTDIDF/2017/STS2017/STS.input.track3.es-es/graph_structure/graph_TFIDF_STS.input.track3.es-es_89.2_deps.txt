@@ -1,0 +1,6 @@
+doing	backflip	dobj
+bicycle	on	case
+backflip	a	det
+doing	Someone	nsubj
+bicycle	a	det
+doing	bicycle	nmod:on

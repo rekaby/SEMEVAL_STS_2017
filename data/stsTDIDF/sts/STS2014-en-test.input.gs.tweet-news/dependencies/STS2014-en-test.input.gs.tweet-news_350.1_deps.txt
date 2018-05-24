@@ -1,0 +1,21 @@
+det	industry	The
+compound	industry	telecom
+nsubj	took	industry
+advmod	took	just
+root	ROOT	took
+compound:prt	took	away
+nmod:poss	rights	our
+dobj	took	rights
+punct	took	.-9) case(today-3, As
+mwe	As	of
+nmod:as_of	illegal	today
+punct	illegal	,
+nsubj	illegal	it
+cop	illegal	's
+root	ROOT	illegal
+mark	choose	to
+xcomp	illegal	choose
+det	carrier	a
+amod	carrier	different
+compound	carrier	cellphone
+dobj	choose	carrier

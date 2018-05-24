@@ -1,0 +1,6 @@
+agree	Libya	nmod:on
+Libya	on	case
+willing	agree	xcomp
+mission	During	case
+willing	mission	nmod:during
+willing	Congress	nsubj

@@ -1,0 +1,17 @@
+nsubj	testimony	That
+cop	testimony	's
+advmod	threw	when
+nsubj	threw	officers
+advcl	's	threw
+dobj	threw	him
+case	ground	to
+det	ground	the
+nmod:to	threw	ground
+cc	threw	and
+conj:and	threw	handcuffed
+dobj	handcuffed	him
+punct	's	,
+case	testimony	according
+mwe	according	to
+root	ROOT	testimony
+punct	testimony	.

@@ -1,0 +1,6 @@
+uses	hose	dobj
+uses	put	xcomp
+hose	high-power	amod
+hose	a	det
+uses	man	nsubj
+put	fire	dobj

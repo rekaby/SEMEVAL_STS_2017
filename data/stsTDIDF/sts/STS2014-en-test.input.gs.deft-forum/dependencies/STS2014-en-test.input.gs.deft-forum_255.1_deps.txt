@@ -1,0 +1,9 @@
+nsubj	eclipses	This
+root	ROOT	eclipses
+det	record	the
+amod	record	old
+dobj	eclipses	record
+mark	set	of
+acl	record	set
+compound:prt	set	in
+punct	eclipses	.

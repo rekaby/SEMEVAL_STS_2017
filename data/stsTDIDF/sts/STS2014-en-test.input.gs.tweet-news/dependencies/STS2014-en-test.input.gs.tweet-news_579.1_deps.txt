@@ -1,0 +1,15 @@
+amod	crap	Holy
+root	ROOT	crap
+punct	crap	!-3) root(ROOT-0, :-LRB-
+punct	:-LRB-	``
+nsubj	killed	2
+root	``	killed
+case	crashes	as
+compound	crashes	helicopter
+nmod:as	killed	crashes
+case	crane	into
+nmod:into	crashes	crane
+case	London	in
+amod	London	central
+nmod:in	crane	London
+punct	killed	''

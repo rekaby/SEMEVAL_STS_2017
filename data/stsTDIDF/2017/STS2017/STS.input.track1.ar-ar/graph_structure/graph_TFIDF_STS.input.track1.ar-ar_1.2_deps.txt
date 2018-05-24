@@ -1,0 +1,8 @@
+store	convenience	compound
+sitting	reading	xcomp
+man	sitting	acl
+man	store	nmod:outside
+table	round	compound
+sitting	alone	advmod
+reading	table	nmod:on
+store	outside	case

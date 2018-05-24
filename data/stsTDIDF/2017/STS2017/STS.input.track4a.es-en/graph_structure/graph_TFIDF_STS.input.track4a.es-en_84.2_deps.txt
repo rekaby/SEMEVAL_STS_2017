@@ -1,0 +1,5 @@
+ROOT	rode	root
+rode	.	punct
+person	The	det
+rode	horse	dobj
+rode	person	nsubj

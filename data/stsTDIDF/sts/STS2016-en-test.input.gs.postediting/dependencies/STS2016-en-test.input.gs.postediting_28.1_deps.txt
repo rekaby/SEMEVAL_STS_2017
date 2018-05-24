@@ -1,0 +1,12 @@
+mark	expect	With
+det	film	this
+compound	Garci	film
+nsubj	expect	Garci
+aux	expect	does
+neg	expect	not
+root	ROOT	expect
+mark	win	to
+xcomp	expect	win
+det	prizes	any
+dobj	win	prizes
+punct	expect	.

@@ -1,0 +1,10 @@
+det	bus	A
+amod	bus	red
+nummod	bus	two
+compound	bus	story
+nsubj	driving	bus
+root	ROOT	driving
+case	street	along
+det	street	the
+nmod:along	driving	street
+punct	driving	.

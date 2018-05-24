@@ -1,0 +1,12 @@
+dep	Good	America
+punct	Good	,
+det	Arabia	the
+compound	Arabia	Saudi
+nsubj	Good	Arabia
+case	tomorrow	of
+nmod:of	Arabia	tomorrow
+punct	Good	-
+root	ROOT	Good
+cc	Good	or
+conj:or	Good	Bad
+punct	Good	?

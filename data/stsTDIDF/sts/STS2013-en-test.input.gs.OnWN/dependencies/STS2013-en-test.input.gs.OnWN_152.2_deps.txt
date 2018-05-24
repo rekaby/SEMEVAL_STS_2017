@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	cutting	of
+acl	act	cutting
+dobj	cutting	something
+case	parts	into
+nmod:into	cutting	parts
+punct	act	.

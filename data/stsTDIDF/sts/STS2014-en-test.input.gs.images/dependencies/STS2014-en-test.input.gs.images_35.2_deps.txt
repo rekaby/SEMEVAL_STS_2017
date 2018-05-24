@@ -1,0 +1,12 @@
+det	sheep	A
+root	ROOT	sheep
+case	mist	in
+det	mist	the
+compound	mist	morning
+nmod:in	sheep	mist
+case	trees	with
+nmod:with	mist	trees
+case	background	in
+det	background	the
+nmod:in	sheep	background
+punct	sheep	.

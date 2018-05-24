@@ -1,0 +1,11 @@
+det	man	A
+nsubj	laying	man
+aux	laying	is
+root	ROOT	laying
+case	ground	on
+det	ground	the
+nmod:on	laying	ground
+acl	ground	shooting
+det	rifle	a
+dobj	shooting	rifle
+punct	laying	.

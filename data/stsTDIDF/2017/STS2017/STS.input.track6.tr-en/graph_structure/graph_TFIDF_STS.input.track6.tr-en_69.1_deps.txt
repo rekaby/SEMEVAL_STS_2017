@@ -1,0 +1,6 @@
+player	baseball	compound
+player	's	case
+team	player	nmod:poss
+watching	is	aux
+player	A	det
+watching	team	nsubj

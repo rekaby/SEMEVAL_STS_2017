@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	handling	woman
+aux	handling	is
+root	ROOT	handling
+det	frog	a
+dobj	handling	frog
+punct	handling	.

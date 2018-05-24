@@ -1,0 +1,11 @@
+nsubj	frame	this
+cop	frame	is
+det	frame	the
+amod	frame	primary
+root	ROOT	frame
+acl	frame	evoked
+case	numbers	by
+det	numbers	the
+amod	numbers	cardinal
+nmod:by	evoked	numbers
+punct	frame	.

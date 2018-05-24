@@ -1,0 +1,17 @@
+root	ROOT	ArtsBeat
+punct	ArtsBeat	:
+dep	ArtsBeat	Biden
+acl	Biden	Getting
+det	Autobiography	an
+dobj	Getting	Autobiography
+case	Onion	From
+det	Onion	The
+nmod:from	Autobiography	Onion
+punct	Wants	-LRB-
+dobj	Wants	Whether
+nsubj	Wants	He
+dep	Onion	Wants
+dobj	Wants	It
+cc	It	or
+conj:or	It	Not
+punct	Wants	-RRB-

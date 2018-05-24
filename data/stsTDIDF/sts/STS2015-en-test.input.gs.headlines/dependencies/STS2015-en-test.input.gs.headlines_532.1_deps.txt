@@ -1,0 +1,11 @@
+compound	Smith	Mel
+root	ROOT	Smith
+amod	Smith	dead
+case	60	at
+nmod:at	dead	60
+cc	Smith	and
+compound	mourns	UK
+conj:and	Smith	mourns
+det	favourite	a
+compound	favourite	comedy
+dobj	mourns	favourite

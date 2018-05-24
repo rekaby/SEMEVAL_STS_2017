@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	beach	dog
+cop	beach	is
+case	beach	on
+det	beach	the
+root	ROOT	beach
+case	ball	near
+det	ball	a
+nmod:near	beach	ball
+punct	beach	.

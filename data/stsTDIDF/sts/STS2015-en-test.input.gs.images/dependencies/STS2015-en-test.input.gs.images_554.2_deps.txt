@@ -1,0 +1,9 @@
+det	drives	A
+amod	drives	yellow
+compound	drives	car
+root	ROOT	drives
+advmod	snow	quickly
+case	snow	in
+det	snow	the
+nmod:in	drives	snow
+punct	drives	.

@@ -1,0 +1,7 @@
+root	ROOT	argue
+cc	argue	or
+conj:or	argue	speak
+case	defense	in
+nmod:in	speak	defense
+acl	defense	of
+punct	argue	.

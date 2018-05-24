@@ -1,0 +1,9 @@
+det	association	a
+amod	association	formal
+root	ROOT	association
+case	people	of
+nmod:of	association	people
+case	interests	with
+amod	interests	similar
+nmod:with	association	interests
+punct	association	.

@@ -1,0 +1,16 @@
+nsubj	underwent	They
+root	ROOT	underwent
+amod	tests	more
+dobj	underwent	tests
+case	weekend	over
+det	weekend	the
+nmod:over	tests	weekend
+punct	underwent	,
+cc	underwent	and
+auxpass	warded	are
+advmod	warded	now
+conj:and	underwent	warded
+case	Hospital	at
+compound	Hospital	Raffles
+nmod:at	warded	Hospital
+punct	underwent	.

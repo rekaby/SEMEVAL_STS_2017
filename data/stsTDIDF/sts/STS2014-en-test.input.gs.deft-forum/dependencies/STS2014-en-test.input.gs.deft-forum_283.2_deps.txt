@@ -1,0 +1,10 @@
+root	ROOT	-
+dep	-	I
+acl	I	didnt
+xcomp	didnt	say
+nsubj	planned	he
+ccomp	say	planned
+mark	apprehending	on
+advcl	planned	apprehending
+dobj	apprehending	him
+punct	-	.

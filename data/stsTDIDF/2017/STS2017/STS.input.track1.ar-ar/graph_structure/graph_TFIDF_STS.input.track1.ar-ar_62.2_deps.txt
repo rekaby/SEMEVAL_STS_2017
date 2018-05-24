@@ -1,0 +1,6 @@
+breakfast	woman	nsubj
+ROOT	breakfast	root
+breakfast	.	punct
+breakfast	her	nmod:for
+her	boyfriend	conj:and
+boyfriend	her	nmod:poss

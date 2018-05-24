@@ -1,0 +1,8 @@
+compound	report	Pakistan-UN
+nsubj	reveals	report
+root	ROOT	reveals
+amod	levels	alarming
+dobj	reveals	levels
+case	use	of
+compound	use	drug
+nmod:of	levels	use

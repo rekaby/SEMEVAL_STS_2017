@@ -1,0 +1,9 @@
+compound	Mehsud	Pakistani
+compound	Mehsud	Taliban
+compound	Mehsud	chief
+compound	Mehsud	Hakimullah
+nsubj	killed	Mehsud
+root	ROOT	killed
+case	strike	in
+compound	strike	drone
+nmod:in	killed	strike

@@ -1,0 +1,11 @@
+nsubj	picks	Schwarzenegger
+root	ROOT	picks
+compound:prt	picks	up
+advmod	independents	more
+dobj	picks	independents
+cc	independents	and
+compound	voters	crossover
+conj:and	independents	voters
+case	Bustamante	than
+nmod:than	independents	Bustamante
+punct	picks	.

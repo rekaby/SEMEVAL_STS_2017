@@ -1,0 +1,24 @@
+det	price	The
+nsubj	fell	price
+case	oil	of
+amod	oil	crude
+nmod:of	price	oil
+root	ROOT	fell
+case	percent	by
+nummod	percent	7
+nmod:by	fell	percent
+case	$	to
+nmod:to	fell	$
+nummod	$	99.80
+det	barrel	a
+nmod:npmod	$	barrel
+punct	fell	.-15) det(Exchange-5, The
+compound	Exchange	New
+compound	Exchange	York
+compound	Exchange	Mercantile
+root	ROOT	Exchange
+case	sales	during
+nmod:during	Exchange	sales
+det	morning	this
+nmod:tmod	Exchange	morning
+punct	Exchange	.

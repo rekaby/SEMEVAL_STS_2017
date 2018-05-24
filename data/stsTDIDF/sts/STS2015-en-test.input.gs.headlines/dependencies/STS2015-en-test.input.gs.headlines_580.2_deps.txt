@@ -1,0 +1,8 @@
+nummod	nurses	46
+amod	nurses	Indian
+nsubj	return	nurses
+acl	nurses	stranded
+case	Iraq	in
+nmod:in	stranded	Iraq
+root	ROOT	return
+dobj	return	home

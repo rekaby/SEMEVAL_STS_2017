@@ -1,0 +1,7 @@
+compound	delegates	Chicago
+compound	delegates	teachers
+compound	delegates	union
+nsubj	end	delegates
+aux	end	could
+root	ROOT	end
+dobj	end	strike

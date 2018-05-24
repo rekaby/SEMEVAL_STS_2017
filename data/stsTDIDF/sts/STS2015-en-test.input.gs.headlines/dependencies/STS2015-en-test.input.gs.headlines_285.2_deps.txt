@@ -1,0 +1,7 @@
+nsubj	warns	Russia
+root	ROOT	warns
+mark	setting	against
+advcl	warns	setting
+dobj	setting	preconditions
+case	Syria	for
+nmod:for	setting	Syria

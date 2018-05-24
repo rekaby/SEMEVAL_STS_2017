@@ -1,0 +1,12 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	rocks	on
+mwe	on	top
+mwe	on	of
+nmod:on_top_of	standing	rocks
+acl	rocks	overlooking
+det	ocean	the
+dobj	overlooking	ocean
+punct	standing	.

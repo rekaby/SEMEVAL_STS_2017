@@ -1,0 +1,12 @@
+case	Term	For
+compound	Term	Obama?s
+compound	Term	New
+nmod:for	Kristof	Term
+punct	Kristof	,
+dep	Kristof	Start
+advmod	Start	Here
+punct	Kristof	-
+compound	Kristof	Nick
+root	ROOT	Kristof
+case	NYT	for
+nmod:for	Kristof	NYT

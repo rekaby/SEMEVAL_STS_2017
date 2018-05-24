@@ -1,0 +1,7 @@
+nsubj	FOOLS	YOU
+root	ROOT	FOOLS
+punct	FOOLS	.-3) root(ROOT-0, .-1) root(ROOT-0, bought
+det	cover-up	the
+dobj	bought	cover-up
+punct	bought	.-4) root(ROOT-0, .-1) root(ROOT-0, hook
+punct	hook	.-2) root(ROOT-0, .

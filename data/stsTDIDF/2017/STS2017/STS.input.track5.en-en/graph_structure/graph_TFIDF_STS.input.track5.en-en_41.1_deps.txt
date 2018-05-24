@@ -1,0 +1,4 @@
+jumping	deck	nmod:onto
+jumping	boy	nsubj
+deck	onto	case
+boy	Blond	amod

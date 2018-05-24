@@ -1,0 +1,10 @@
+compound	Missions	US
+compound	Missions	Flying
+compound	Missions	Surveillance
+root	ROOT	Missions
+mark	Help	to
+acl	Missions	Help
+xcomp	Help	Find
+amod	Girls	Kidnapped
+amod	Girls	Nigerian
+dobj	Find	Girls

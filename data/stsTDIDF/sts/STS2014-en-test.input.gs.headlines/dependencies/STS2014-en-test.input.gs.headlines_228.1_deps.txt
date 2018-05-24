@@ -1,0 +1,6 @@
+nummod	militants	38
+compound	militants	Taliban
+root	ROOT	militants
+acl	militants	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

@@ -1,0 +1,8 @@
+compound	attack	Yemen
+compound	attack	suicide
+nsubj	kills	attack
+root	ROOT	kills
+nummod	soldiers	7
+dobj	kills	soldiers
+punct	kills	:
+dep	kills	officials

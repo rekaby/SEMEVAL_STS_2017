@@ -1,0 +1,22 @@
+det	reader	the
+nsubj	attends	reader
+root	ROOT	attends
+case	text	to
+det	text	a
+nmod:to	attends	text
+mark	process	to
+acl	text	process
+nmod:poss	information	its
+dobj	process	information
+punct	attends	.-11) advmod(sought-8, sometimes
+det	kind	a
+amod	kind	particular
+nsubjpass	sought	kind
+case	phenomenon	of
+nmod:of	kind	phenomenon
+auxpass	sought	is
+root	ROOT	sought
+case	text	in
+det	text	the
+nmod:in	sought	text
+punct	sought	.

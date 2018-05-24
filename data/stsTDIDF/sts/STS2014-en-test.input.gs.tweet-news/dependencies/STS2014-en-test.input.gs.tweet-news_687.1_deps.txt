@@ -1,0 +1,14 @@
+nsubj	sanguine	Damn
+punct	sanguine	,
+advmod	sanguine	maybe
+nsubj	sanguine	I
+aux	sanguine	should
+neg	sanguine	n't
+cop	sanguine	be
+advmod	sanguine	so
+root	ROOT	sanguine
+case	fog	about
+det	fog	the
+compound	fog	London
+nmod:about	sanguine	fog
+punct	sanguine	:

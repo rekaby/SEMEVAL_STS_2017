@@ -1,0 +1,9 @@
+det	man	A
+nsubj	hugging	man
+aux	hugging	is
+root	ROOT	hugging
+cc	hugging	and
+conj:and	hugging	kissing
+det	woman	a
+dobj	kissing	woman
+punct	hugging	.

@@ -1,0 +1,9 @@
+vision	excellent	amod
+vision	country	nmod:of
+committed	very	advmod
+man	straightforward	amod
+man	committed	amod
+vision	with	case
+committed	vision	nmod:with
+vision	an	det
+straightforward	very	advmod

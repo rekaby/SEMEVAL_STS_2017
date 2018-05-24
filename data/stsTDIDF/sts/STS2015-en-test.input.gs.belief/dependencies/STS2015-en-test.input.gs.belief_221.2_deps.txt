@@ -1,0 +1,23 @@
+root	ROOT	9
+punct	9	.-2) neg(spouse-3, no
+punct	spouse	``
+nsubj	means	spouse
+punct	spouse	''
+root	ROOT	means
+neg	established	no
+xcomp	means	established
+det	relationship	a
+compound	relationship	family
+dobj	established	relationship
+advmod	sponsor	where
+det	spouse	a
+nsubj	sponsor	spouse
+aux	sponsor	can
+advmod	sponsor	then
+acl:relcl	relationship	sponsor
+nmod:poss	spouse	their
+dobj	sponsor	spouse
+case	purposes	for
+compound	purposes	immigration
+nmod:for	sponsor	purposes
+punct	means	.

@@ -1,0 +1,9 @@
+fixing	truck	dobj
+man	boy	conj:and
+fixing	man	nsubj
+fixing	are	aux
+ROOT	fixing	root
+garage	a	det
+fixing	.	punct
+fixing	garage	nmod:in
+garage	in	case

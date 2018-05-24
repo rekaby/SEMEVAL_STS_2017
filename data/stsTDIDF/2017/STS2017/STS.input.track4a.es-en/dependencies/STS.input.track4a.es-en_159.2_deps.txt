@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+case	cliff	on
+det	cliff	a
+nmod:on	man	cliff
+punct	man	.

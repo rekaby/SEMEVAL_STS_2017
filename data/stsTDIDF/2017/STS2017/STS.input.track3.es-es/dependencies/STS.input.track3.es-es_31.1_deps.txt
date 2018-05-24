@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+dep	woman	feeling
+acl	feeling	scared
+case	horse	on
+det	horse	a
+nmod:on	scared	horse
+case	mountain	on
+det	mountain	a
+amod	mountain	snowy
+nmod:on	scared	mountain

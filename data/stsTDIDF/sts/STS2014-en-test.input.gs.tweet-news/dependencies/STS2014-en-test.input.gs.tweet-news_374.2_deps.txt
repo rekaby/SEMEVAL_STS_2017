@@ -1,0 +1,8 @@
+compound	Millepied	Benjamin
+root	ROOT	Millepied
+mark	Director	to
+cop	Director	Be
+compound	Director	Paris
+compound	Director	Opera
+compound	Director	Ballet
+acl	Millepied	Director

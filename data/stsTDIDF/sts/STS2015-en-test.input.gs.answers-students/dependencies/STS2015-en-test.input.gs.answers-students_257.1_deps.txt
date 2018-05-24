@@ -1,0 +1,9 @@
+det	bulb	A
+amod	bulb	damaged
+nsubj	creates	bulb
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap
+case	path	in
+det	path	the
+nmod:in	gap	path

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	climbs	man
+root	ROOT	climbs
+det	steps	the
+dobj	climbs	steps
+case	houses	between
+nummod	houses	two
+nmod:between	steps	houses
+case	night	at
+nmod:at	climbs	night

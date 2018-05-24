@@ -1,0 +1,10 @@
+root	ROOT	Lie
+case	angle	at
+det	angle	an
+nmod:at	Lie	angle
+punct	Lie	;
+dep	Lie	bend
+case	path	along
+det	path	a
+nmod:along	bend	path
+punct	Lie	.

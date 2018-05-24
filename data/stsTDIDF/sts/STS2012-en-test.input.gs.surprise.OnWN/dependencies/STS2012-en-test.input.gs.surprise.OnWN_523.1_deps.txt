@@ -1,0 +1,4 @@
+compound	bonds	issue
+root	ROOT	bonds
+case	something	on
+nmod:on	bonds	something

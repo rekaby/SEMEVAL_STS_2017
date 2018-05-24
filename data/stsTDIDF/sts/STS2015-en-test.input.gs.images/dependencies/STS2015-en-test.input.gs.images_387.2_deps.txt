@@ -1,0 +1,11 @@
+det	boy	A
+nsubj	grinding	boy
+aux	grinding	is
+root	ROOT	grinding
+det	skateboard	a
+dobj	grinding	skateboard
+case	wall	down
+det	wall	a
+amod	wall	concrete
+nmod:down	grinding	wall
+punct	grinding	.

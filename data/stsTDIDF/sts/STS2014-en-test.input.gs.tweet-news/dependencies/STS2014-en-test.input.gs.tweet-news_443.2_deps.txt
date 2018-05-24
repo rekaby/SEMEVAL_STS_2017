@@ -1,0 +1,13 @@
+punct	enough	`
+nsubj	enough	Enough
+cop	enough	is
+advmod	says	enough
+punct	says	,
+punct	says	'
+nsubj	says	Feinstein
+root	ROOT	says
+mark	proposing	in
+advcl	says	proposing
+amod	ban	new
+compound	ban	gun
+dobj	proposing	ban

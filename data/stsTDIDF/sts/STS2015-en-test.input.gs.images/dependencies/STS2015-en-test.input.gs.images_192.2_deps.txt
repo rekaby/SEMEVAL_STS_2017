@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	jumps	dog
+root	ROOT	jumps
+case	snow	in
+det	snow	the
+nmod:in	jumps	snow
+punct	jumps	.

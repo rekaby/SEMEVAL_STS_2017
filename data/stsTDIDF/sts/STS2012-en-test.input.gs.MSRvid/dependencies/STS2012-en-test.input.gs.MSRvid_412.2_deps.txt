@@ -1,0 +1,7 @@
+det	monkey	A
+nsubj	fighting	monkey
+aux	fighting	is
+root	ROOT	fighting
+det	man	a
+dobj	fighting	man
+punct	fighting	.

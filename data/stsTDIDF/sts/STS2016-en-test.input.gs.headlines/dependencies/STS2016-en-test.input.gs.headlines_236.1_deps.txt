@@ -1,0 +1,7 @@
+compound	Korea	South
+nsubj	declares	Korea
+root	ROOT	declares
+compound	outbreak	end
+case	MERS	to
+nmod:to	end	MERS
+dobj	declares	outbreak

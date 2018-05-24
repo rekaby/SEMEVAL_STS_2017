@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	plays	dog
+root	ROOT	plays
+case	park	in
+det	park	the
+nmod:in	plays	park
+punct	plays	.

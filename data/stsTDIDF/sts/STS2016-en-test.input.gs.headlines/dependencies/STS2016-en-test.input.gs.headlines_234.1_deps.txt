@@ -1,0 +1,10 @@
+nsubj	Struggles	Obama
+root	ROOT	Struggles
+mark	Soothe	to
+xcomp	Struggles	Soothe
+amod	Fears	Saudi
+dobj	Soothe	Fears
+case	Talks	As
+compound	Talks	Iran
+nmod:as	Soothe	Talks
+dep	Soothe	Resume

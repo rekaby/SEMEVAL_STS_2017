@@ -1,0 +1,6 @@
+nummod	children	Two
+root	ROOT	children
+acl	children	playing
+case	knives	with
+nmod:with	playing	knives
+punct	children	.

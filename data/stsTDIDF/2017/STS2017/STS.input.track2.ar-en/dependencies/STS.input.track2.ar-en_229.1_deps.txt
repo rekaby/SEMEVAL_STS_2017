@@ -1,0 +1,11 @@
+det	groom	A
+root	ROOT	groom
+cc	groom	and
+nmod:poss	wife	his
+compound	kiss	wife
+conj:and	groom	kiss
+mark	posing	while
+acl	groom	posing
+case	photos	for
+nmod:for	posing	photos
+punct	groom	.

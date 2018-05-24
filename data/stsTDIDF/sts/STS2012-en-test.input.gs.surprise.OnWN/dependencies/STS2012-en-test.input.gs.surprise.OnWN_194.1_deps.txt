@@ -1,0 +1,5 @@
+root	ROOT	create
+det	edge	an
+dobj	create	edge
+cc	edge	or
+conj:or	edge	border

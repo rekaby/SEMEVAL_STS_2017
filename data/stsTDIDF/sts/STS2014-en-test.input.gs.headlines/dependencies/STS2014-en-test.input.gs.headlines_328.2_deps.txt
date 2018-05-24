@@ -1,0 +1,8 @@
+nsubj	postpones	Kerry
+root	ROOT	postpones
+dobj	postpones	visit
+case	Israel	to
+nmod:to	visit	Israel
+case	one	in
+nmod:in	visit	one
+nmod:tmod	visit	week

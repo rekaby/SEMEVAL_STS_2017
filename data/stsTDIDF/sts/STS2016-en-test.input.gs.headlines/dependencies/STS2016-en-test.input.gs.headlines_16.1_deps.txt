@@ -1,0 +1,7 @@
+compound	retrial	Hosni
+compound	retrial	Mubarak
+nsubj	adjourned	retrial
+root	ROOT	adjourned
+case	8	until
+nmod:until	adjourned	8
+nmod:tmod	adjourned	June

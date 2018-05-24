@@ -1,0 +1,14 @@
+nummod	individuals	Three
+nsubj	posing	individuals
+aux	posing	are
+root	ROOT	posing
+case	skis	on
+nmod:on	posing	skis
+case	sign	behind
+det	sign	a
+punct	sign	``
+neg	sign	no
+compound	sign	skiing
+punct	sign	''
+nmod:behind	posing	sign
+punct	posing	.

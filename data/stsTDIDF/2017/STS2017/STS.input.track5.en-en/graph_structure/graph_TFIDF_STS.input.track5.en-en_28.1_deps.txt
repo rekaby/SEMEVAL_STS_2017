@@ -1,0 +1,11 @@
+jumping	meet	advcl
+man	sad	amod
+jumping	stream	dobj
+jumping	man	nsubj
+meet	side	nmod:on
+meet	companion	dobj
+jumping	is	aux
+companion	his	nmod:poss
+stream	small	amod
+jumping	over	compound:prt
+stream	a	det

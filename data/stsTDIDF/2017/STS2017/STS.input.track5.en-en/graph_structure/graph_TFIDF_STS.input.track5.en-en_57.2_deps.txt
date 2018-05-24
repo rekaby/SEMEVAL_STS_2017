@@ -1,0 +1,11 @@
+supplies	suitcase	nmod:in
+supplies	medical	amod
+searching	is	aux
+suitcase	a	det
+searching	.	punct
+suitcase	in	case
+woman	blond	amod
+ROOT	searching	root
+searching	woman	nsubj
+supplies	for	case
+searching	supplies	nmod:for

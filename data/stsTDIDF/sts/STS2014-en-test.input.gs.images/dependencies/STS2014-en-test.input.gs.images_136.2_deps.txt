@@ -1,0 +1,14 @@
+det	man	an
+amod	man	African
+root	ROOT	man
+acl	man	hanging
+case	back	onto
+det	back	the
+nmod:onto	hanging	back
+case	van	of
+det	van	a
+advmod	full	very
+amod	van	full
+amod	van	yellow
+nmod:of	back	van
+punct	man	.

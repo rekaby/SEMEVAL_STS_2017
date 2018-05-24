@@ -1,0 +1,9 @@
+compound	strike	Air
+nsubj	kills	strike
+root	ROOT	kills
+nummod	man	one
+dobj	kills	man
+case	Hama	in
+nmod:poss	Hama	Syria
+case	Syria	's
+nmod:in	kills	Hama

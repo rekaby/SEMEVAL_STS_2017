@@ -1,0 +1,15 @@
+compound	-----------	------
+root	ROOT	-----------
+dobj	get	What
+aux	get	do
+nsubj	get	we
+acl:relcl	-----------	get
+case	return	in
+nmod:in	get	return
+mark	doing	for
+acl	return	doing
+det	fighting	the
+dobj	doing	fighting
+case	them	for
+nmod:for	fighting	them
+punct	-----------	?

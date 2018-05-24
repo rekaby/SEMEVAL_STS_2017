@@ -1,0 +1,16 @@
+field	covered	acl
+mud	in	case
+huddled	field	nmod:on
+photographers	looking	acl
+teams	Two	nummod
+covered	photographers	nmod:with
+huddled	are	auxpass
+huddled	.	punct
+huddled	teams	nsubjpass
+photographers	with	case
+players	male	amod
+ROOT	huddled	root
+teams	players	nmod:of
+players	sports	compound
+covered	mud	nmod:in
+huddled	together	advmod

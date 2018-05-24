@@ -1,0 +1,8 @@
+det	okapi	An
+nsubj	eating	okapi
+aux	eating	is
+root	ROOT	eating
+case	tree	from
+det	tree	a
+nmod:from	eating	tree
+punct	eating	.

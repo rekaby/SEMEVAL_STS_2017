@@ -1,0 +1,8 @@
+nsubj	investing	China
+aux	investing	is
+root	ROOT	investing
+case	#education	in
+nmod:in	investing	#education
+punct	#education	-
+amod	#edpolicy	#highered
+dep	#education	#edpolicy

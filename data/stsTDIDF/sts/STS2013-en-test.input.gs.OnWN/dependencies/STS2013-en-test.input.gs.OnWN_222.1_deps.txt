@@ -1,0 +1,8 @@
+compound	restraint	attachment
+punct	restraint	,
+root	ROOT	restraint
+cc	restraint	or
+conj:or	restraint	shackle
+case	entities	between
+amod	entities	physical
+nmod:between	restraint	entities

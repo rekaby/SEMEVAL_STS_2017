@@ -1,0 +1,12 @@
+shorts	sneakers	conj:and
+ROOT	mowing	root
+shorts	and	cc
+shorts	,	punct
+shorts	in	case
+mowing	.	punct
+man	shorts	nmod:in
+shorts	sweatshirt	conj:and
+sweatshirt	a	det
+mowing	man	nsubj
+mowing	is	aux
+mowing	grass	dobj

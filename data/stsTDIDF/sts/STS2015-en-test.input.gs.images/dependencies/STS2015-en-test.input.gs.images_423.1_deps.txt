@@ -1,0 +1,6 @@
+amod	dog	Brown
+nsubj	running	dog
+root	ROOT	running
+case	grass	on
+nmod:on	running	grass
+punct	running	.

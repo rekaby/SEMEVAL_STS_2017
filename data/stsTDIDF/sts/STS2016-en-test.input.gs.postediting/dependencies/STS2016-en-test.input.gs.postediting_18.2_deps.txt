@@ -1,0 +1,17 @@
+det	problem	The
+nsubj	is	problem
+root	ROOT	is
+mark	prohibits	that
+det	state	the
+amod	state	commercial
+nsubj	prohibits	state
+case	operators	of
+det	operators	all
+amod	operators	Czech
+amod	operators	mobile
+nmod:of	state	operators
+ccomp	is	prohibits
+det:predet	resale	such
+det	resale	a
+dobj	prohibits	resale
+punct	is	.

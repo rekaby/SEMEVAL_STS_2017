@@ -1,0 +1,7 @@
+Pulls	dogs	dobj
+dogs	the	det
+one	races	nmod:of
+Pulls	.	punct
+ROOT	Pulls	root
+Pulls	one	nmod:in
+dogs	sledge	compound

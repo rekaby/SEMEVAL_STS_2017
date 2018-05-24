@@ -1,0 +1,7 @@
+compound	cop	Pistorius
+root	ROOT	cop
+case	charges	on
+nummod	charges	seven
+amod	charges	attempted
+compound	charges	murder
+nmod:on	cop	charges

@@ -1,0 +1,12 @@
+root	ROOT	Work
+case	supervisor	with
+nmod:poss	supervisor	your
+nmod:with	Work	supervisor
+cc	supervisor	and
+nmod:poss	team	your
+conj:and	supervisor	team
+mark	solve	to
+acl	Work	solve
+det	problem	the
+dobj	solve	problem
+punct	Work	.

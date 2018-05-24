@@ -1,0 +1,7 @@
+root	ROOT	``
+amod	Memories	Buried
+root	``	Memories
+punct	Memories	''
+case	Beers	of
+compound	Beers	Katie
+nmod:of	Memories	Beers

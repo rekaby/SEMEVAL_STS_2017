@@ -1,0 +1,13 @@
+root	ROOT	Relieve
+dobj	Relieve	someone
+case	work	from
+nmod:from	someone	work
+mark	taking	by
+advcl	Relieve	taking
+det	turn	a
+dobj	taking	turn
+punct	Relieve	;
+parataxis	Relieve	take
+dobj	take	turns
+acl	turns	working
+punct	Relieve	.

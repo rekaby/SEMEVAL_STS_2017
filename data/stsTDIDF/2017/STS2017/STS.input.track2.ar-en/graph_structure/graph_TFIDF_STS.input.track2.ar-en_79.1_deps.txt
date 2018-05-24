@@ -1,0 +1,7 @@
+walks	surf	nmod:in
+beach	at	case
+woman	lone	amod
+walks	woman	nsubj
+walks	beach	nmod:at
+surf	in	case
+surf	the	det

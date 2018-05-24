@@ -1,0 +1,6 @@
+root	ROOT	provide
+det	seat	a
+dobj	provide	seat
+cc	seat	or
+conj:or	seat	base
+nmod	provide	for

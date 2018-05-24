@@ -1,0 +1,12 @@
+nsubj	asks	PM
+case	Tehran	in
+nmod:in	PM	Tehran
+punct	PM	,
+root	ROOT	asks
+dobj	asks	NAM
+mark	take	to
+xcomp	asks	take
+amod	stand	clear
+dobj	take	stand
+case	Syria	on
+nmod:on	take	Syria

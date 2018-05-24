@@ -1,0 +1,8 @@
+compound	smugglers	arms
+nsubj	abet	smugglers
+cc	smugglers	and
+compound	cartels	drug
+conj:and	smugglers	cartels
+root	ROOT	abet
+dobj	abet	terrorists
+punct	abet	.

@@ -1,0 +1,14 @@
+det	group	A
+nsubj	walking	group
+case	people	of
+nmod:of	group	people
+aux	walking	are
+root	ROOT	walking
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	walking	sidewalk
+case	city	of
+det	city	a
+amod	city	big
+nmod:of	sidewalk	city
+punct	walking	.

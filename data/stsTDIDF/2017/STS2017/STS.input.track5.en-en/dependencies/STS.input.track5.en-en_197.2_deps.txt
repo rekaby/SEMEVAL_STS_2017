@@ -1,0 +1,9 @@
+det	man	A
+nsubj	spent	man
+root	ROOT	spent
+nmod:poss	time	his
+dobj	spent	time
+case	son	with
+nmod:poss	son	his
+nmod:with	spent	son
+punct	spent	.

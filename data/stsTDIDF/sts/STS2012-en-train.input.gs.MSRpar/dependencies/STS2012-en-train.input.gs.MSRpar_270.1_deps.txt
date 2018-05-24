@@ -1,0 +1,17 @@
+case	match	During
+det	match	a
+amod	match	screaming
+nmod:during	told	match
+case	1999	in
+nmod:in	match	1999
+punct	told	,
+nsubj	told	Carolyn
+root	ROOT	told
+dobj	told	John
+nsubj	sleeping	she
+aux	sleeping	was
+advmod	sleeping	still
+acl:relcl	John	sleeping
+case	Bergin	with
+nmod:with	sleeping	Bergin
+punct	told	.

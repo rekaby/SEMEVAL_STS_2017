@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	running
+case	marathon	for
+det	marathon	a
+nmod:for	running	marathon
+punct	man	.

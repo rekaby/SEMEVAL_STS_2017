@@ -1,0 +1,15 @@
+case	universities	At
+det	universities	the
+nmod:at	worked	universities
+nsubj	worked	I
+aux	worked	've
+root	ROOT	worked
+case	America	in
+compound	America	North
+nmod:in	worked	America
+punct	America	,
+amod	studies	human-subject
+appos	America	studies
+punct	esp	-LRB-
+dep	studies	esp
+punct	worked	.

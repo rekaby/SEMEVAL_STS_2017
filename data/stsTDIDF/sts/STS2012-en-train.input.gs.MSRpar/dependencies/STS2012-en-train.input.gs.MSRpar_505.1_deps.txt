@@ -1,0 +1,15 @@
+amod	issues	Declining
+nsubj	outnumbered	issues
+root	ROOT	outnumbered
+dobj	outnumbered	advancers
+advmod	2	nearly
+dobj	outnumbered	2
+case	1	to
+nmod:to	2	1
+case	Exchange	on
+det	Exchange	the
+compound	Exchange	New
+compound	Exchange	York
+compound	Exchange	Stock
+nmod:on	2	Exchange
+punct	outnumbered	.

@@ -1,0 +1,12 @@
+lying	.	punct
+lying	dog	nsubj
+stick	large	amod
+ROOT	lying	root
+lying	stick	nmod:with
+lying	down	compound:prt
+stick	with	case
+stick	a	det
+paw	under	case
+stick	paw	nmod:under
+dog	black	amod
+paw	its	nmod:poss

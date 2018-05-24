@@ -1,0 +1,8 @@
+nsubj	Say	French
+root	ROOT	Say
+dobj	Say	Airstrikes
+case	Mali	in
+nmod:in	Airstrikes	Mali
+punct	Say	?-6) root(ROOT-0, Blocked
+punct	Blocked	?-2) compound(Advance-2, Rebel
+root	ROOT	Advance

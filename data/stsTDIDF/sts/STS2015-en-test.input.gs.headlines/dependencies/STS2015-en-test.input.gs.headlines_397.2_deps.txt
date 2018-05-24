@@ -1,0 +1,8 @@
+root	ROOT	Separatists
+case	plane	down
+compound	plane	Ukraine
+amod	plane	military
+nmod:down	Separatists	plane
+punct	Separatists	,
+amod	dead	several
+appos	Separatists	dead

@@ -1,0 +1,11 @@
+det	train	The
+nsubj	riding	train
+aux	riding	is
+root	ROOT	riding
+case	tracks	on
+det	tracks	the
+nmod:on	riding	tracks
+case	snow	in
+det	snow	the
+nmod:in	tracks	snow
+punct	riding	.

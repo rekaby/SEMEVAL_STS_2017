@@ -1,0 +1,6 @@
+nsubj	erupt	Clashes
+csubj	nears	erupt
+case	vote	as
+amod	vote	Greek
+nmod:as	erupt	vote
+root	ROOT	nears

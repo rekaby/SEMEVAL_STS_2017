@@ -1,0 +1,9 @@
+nsubj	bunch	I
+cop	bunch	'm
+punct	bunch	``
+det	bunch	a
+root	ROOT	bunch
+case	cells	of
+nmod:of	bunch	cells
+punct	bunch	.
+punct	bunch	''

@@ -1,0 +1,4 @@
+root	ROOT	committee
+case	powers	with
+amod	powers	supervisory
+nmod:with	committee	powers

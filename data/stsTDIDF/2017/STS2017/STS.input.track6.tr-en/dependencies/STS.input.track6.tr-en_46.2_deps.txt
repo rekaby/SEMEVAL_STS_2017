@@ -1,0 +1,6 @@
+det	boat	The
+nsubj	sails	boat
+root	ROOT	sails
+case	ocean	into
+det	ocean	the
+nmod:into	sails	ocean

@@ -1,0 +1,9 @@
+advmod	30	More
+mwe	More	than
+nummod	miners	30
+amod	miners	striking
+root	ROOT	miners
+acl	miners	killed
+case	Africa	in
+compound	Africa	South
+nmod:in	killed	Africa

@@ -1,0 +1,6 @@
+nsubj	Kills	Bomb
+root	ROOT	Kills
+nummod	Pakistan	19
+case	Northwest	In
+nmod:in	19	Northwest
+dobj	Kills	Pakistan

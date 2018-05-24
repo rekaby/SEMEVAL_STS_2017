@@ -1,0 +1,6 @@
+nsubj	classifies	Israel
+root	ROOT	classifies
+compound	natives	Jerusalem
+dobj	classifies	natives
+case	noncitizens	as
+nmod:as	classifies	noncitizens

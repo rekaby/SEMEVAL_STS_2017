@@ -1,0 +1,12 @@
+det	woman	A
+amod	woman	scantily
+amod	woman	clad
+root	ROOT	woman
+acl	woman	standing
+case	vehicle	next
+mwe	next	to
+det	vehicle	a
+amod	vehicle	small
+amod	vehicle	red
+nmod:next_to	standing	vehicle
+punct	woman	.

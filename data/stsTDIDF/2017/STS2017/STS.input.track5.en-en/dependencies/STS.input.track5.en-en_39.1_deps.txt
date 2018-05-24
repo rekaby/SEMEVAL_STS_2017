@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	climbs	boy
+root	ROOT	climbs
+det	hill	a
+compound	hill	forest
+dobj	climbs	hill
+punct	climbs	.

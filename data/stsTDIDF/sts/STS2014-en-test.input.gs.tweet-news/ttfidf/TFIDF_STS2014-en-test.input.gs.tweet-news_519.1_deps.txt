@@ -1,0 +1,27 @@
+root ROOT Lol	15.060439779775294
+punct Lol .-2) root(ROOT-0, .-1) root(ROOT-0, errm	15.060439779775294
+punct errm .-2) root(ROOT-0, .-1) punct(test-2, ``	15.060439779775294
+nmod:on test U.S.	15.060439779775294
+punct test ?-9) root(ROOT-0, #damn	15.060439779775294
+punct #damn !-2) punct(says-4, :	15.060439779775294
+nmod:against fight U.S.	14.367292599215348
+nsubj part test	13.961827491107185
+nmod:of U.S. A.	13.674145418655403
+nmod:of part fight	13.674145418655403
+case A. of	13.451001867341194
+nsubj says Korea	13.26868031054724
+amod test nuclear	12.757854686781249
+case U.S. against	12.064707506221303
+ccomp says part	11.72823526960009
+amod test new	11.626452575290147
+case U.S. on	11.276250145857032
+aux part will	11.053106594542824
+punct says ?	10.811944537725935
+punct test ''	10.690991927308271
+case fight of	10.315507651412045
+punct says :	10.11879735716599
+root ROOT test	9.907148185277515
+cop part be	8.964615217343068
+det U.S. the	8.789451347916994
+compound Korea North	8.428438002379664
+root ROOT says	5.774528220952037

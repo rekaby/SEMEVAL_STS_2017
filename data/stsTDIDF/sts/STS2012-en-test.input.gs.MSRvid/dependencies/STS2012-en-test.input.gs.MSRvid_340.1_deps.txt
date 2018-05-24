@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	meat
+case	pieces	into
+nmod:into	cutting	pieces
+punct	cutting	.

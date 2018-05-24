@@ -1,0 +1,11 @@
+compound	Estia	Occupation
+mark	confiscate	to
+acl	Occupation	confiscate
+nummod	dunums	30
+dobj	confiscate	dunums
+case	land	of
+amod	land	Palestinian
+nmod:of	dunums	land
+case	Deir	in
+nmod:in	confiscate	Deir
+root	ROOT	Estia

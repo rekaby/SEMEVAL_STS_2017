@@ -1,0 +1,11 @@
+nsubj	take	You
+aux	take	should
+root	ROOT	take
+det	animal	this
+dobj	take	animal
+case	vet	to
+det	vet	a
+nmod:to	take	vet
+advmod	away	right
+advmod	take	away
+punct	take	.

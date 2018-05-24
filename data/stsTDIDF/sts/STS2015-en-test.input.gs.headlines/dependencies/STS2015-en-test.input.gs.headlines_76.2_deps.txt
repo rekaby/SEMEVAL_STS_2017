@@ -1,0 +1,9 @@
+nummod	suspect	1
+root	ROOT	suspect
+acl	suspect	arrested
+mark	kill	after
+compound	bombings	Lebanon
+compound	bombings	car
+nsubj	kill	bombings
+advcl	arrested	kill
+dobj	kill	45

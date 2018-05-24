@@ -1,0 +1,7 @@
+det	length	The
+root	ROOT	length
+case	rock	of
+det	rock	the
+nmod:of	length	rock
+amod	rock	scalable
+punct	length	.

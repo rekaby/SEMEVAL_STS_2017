@@ -1,0 +1,13 @@
+det	response	a
+amod	response	reflex
+root	ROOT	response
+case	passage	to
+det	passage	the
+nmod:to	response	passage
+case	current	of
+amod	current	electric
+nmod:of	passage	current
+case	body	through
+det	body	the
+nmod:through	response	body
+punct	response	.

@@ -1,0 +1,16 @@
+det	makes	The
+amod	makes	average
+amod	makes	American
+root	ROOT	makes
+nummod	trips	four
+dep	makes	trips
+det	day	a
+nmod:npmod	trips	day
+punct	trips	,
+nummod	percent	45
+appos	trips	percent
+case	shopping	for
+nmod:for	percent	shopping
+cc	shopping	or
+conj:or	shopping	errands
+punct	makes	.

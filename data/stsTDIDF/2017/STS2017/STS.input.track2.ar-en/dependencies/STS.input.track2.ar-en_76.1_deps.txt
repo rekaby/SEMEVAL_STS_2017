@@ -1,0 +1,7 @@
+det	group	A
+nsubj	stretching	group
+case	children	of
+nmod:of	group	children
+aux	stretching	are
+root	ROOT	stretching
+punct	stretching	.

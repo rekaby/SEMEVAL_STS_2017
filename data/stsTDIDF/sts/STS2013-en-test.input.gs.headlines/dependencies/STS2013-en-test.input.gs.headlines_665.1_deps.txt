@@ -1,0 +1,9 @@
+compound	Stallone	Sly
+nmod:poss	Dead	Stallone
+case	Stallone	's
+compound	Dead	Sone
+compound	Dead	Sage
+compound	Dead	Found
+root	ROOT	Dead
+case	LA	in
+nmod:in	Dead	LA

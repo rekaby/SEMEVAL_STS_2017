@@ -1,0 +1,6 @@
+referee	The	det
+flag	a	det
+flag	dark	amod
+holding	referee	nsubj
+flag	black	amod
+holding	flag	dobj

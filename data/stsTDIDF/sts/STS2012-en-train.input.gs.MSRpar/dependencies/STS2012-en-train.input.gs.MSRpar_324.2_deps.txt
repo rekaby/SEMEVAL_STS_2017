@@ -1,0 +1,16 @@
+det	Mets	The
+nsubj	took	Mets
+root	ROOT	took
+compound	Milledge	Lastings
+dobj	took	Milledge
+punct	Milledge	,
+det	outfielder	an
+appos	Milledge	outfielder
+case	Florida	from
+nmod:from	outfielder	Florida
+punct	Milledge	,
+case	pick	with
+det	pick	the
+amod	pick	12th
+nmod:with	took	pick
+punct	took	.

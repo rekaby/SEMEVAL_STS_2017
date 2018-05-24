@@ -1,0 +1,4 @@
+walk	men	nsubj
+walk	building	nmod:toward
+building	dome-shaped	amod
+building	toward	case

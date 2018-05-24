@@ -1,0 +1,11 @@
+det	chain	a
+root	ROOT	chain
+case	atoms	of
+nmod:of	chain	atoms
+case	molecule	in
+det	molecule	a
+nmod:in	chain	molecule
+acl	molecule	forming
+det	loop	a
+amod	loop	closed
+dobj	forming	loop

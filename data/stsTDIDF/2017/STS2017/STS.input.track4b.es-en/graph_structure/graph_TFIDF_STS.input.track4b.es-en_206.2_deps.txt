@@ -1,0 +1,17 @@
+Netanyahu	,	punct
+Netanyahu	minister	appos
+Netanyahu	Binyamin	compound
+minister	ignored	acl:relcl
+prospered	.	punct
+ROOT	prospered	root
+all	Above	case
+prospered	,	punct
+prospered	Netanyahu	nmod:in
+process	peace	compound
+ignored	largely	advmod
+Netanyahu	in	case
+Netanyahu	especially	advmod
+ignored	process	dobj
+prospered	has	aux
+prospered	all	nmod:above
+prospered	Israel	nsubj

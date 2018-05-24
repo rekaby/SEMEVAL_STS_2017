@@ -1,0 +1,6 @@
+driving	car	dobj
+driving	dog	nsubj
+driving	is	aux
+dog	The	det
+ROOT	driving	root
+driving	.	punct

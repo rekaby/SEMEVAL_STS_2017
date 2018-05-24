@@ -1,0 +1,16 @@
+nummod	female	Two
+nsubj	walking	female
+aux	walking	are
+root	ROOT	walking
+nmod:poss	dogs	their
+dobj	walking	dogs
+punct	walking	,
+cc	walking	and
+det	male	the
+nsubj	interested	male
+cop	interested	is
+conj:and	walking	interested
+case	dogs	in
+det	dogs	the
+nmod:in	interested	dogs
+punct	walking	.

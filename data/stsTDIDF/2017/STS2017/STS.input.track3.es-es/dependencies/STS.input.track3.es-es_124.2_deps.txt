@@ -1,0 +1,8 @@
+det	dog	The
+nsubj	wearing	dog
+aux	wearing	is
+root	ROOT	wearing
+det	collar	a
+amod	collar	red
+dobj	wearing	collar
+punct	wearing	.

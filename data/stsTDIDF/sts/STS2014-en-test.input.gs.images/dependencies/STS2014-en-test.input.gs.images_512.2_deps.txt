@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+case	baby	with
+det	baby	a
+amod	baby	smiling
+nmod:with	woman	baby
+acl	baby	sitting
+case	table	on
+det	table	the
+nmod:on	sitting	table
+punct	woman	.

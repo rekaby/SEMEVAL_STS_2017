@@ -1,0 +1,8 @@
+nsubj	Meets	Biden
+root	ROOT	Meets
+case	Democrats	With
+compound	Democrats	House
+nmod:with	Meets	Democrats
+case	Proposals	on
+compound	Proposals	Gun-Violence
+nmod:on	Meets	Proposals

@@ -1,0 +1,9 @@
+amod	Minister	Former
+compound	Minister	Prime
+nsubjpass	Elected	Minister
+auxpass	Elected	Is
+root	ROOT	Elected
+xcomp	Elected	President
+case	Republic	of
+compound	Republic	Czech
+nmod:of	President	Republic

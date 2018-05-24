@@ -1,0 +1,6 @@
+nsubj	pays	Queen
+root	ROOT	pays
+dobj	pays	tribute
+case	Mandela	to
+compound	Mandela	Nelson
+nmod:to	pays	Mandela

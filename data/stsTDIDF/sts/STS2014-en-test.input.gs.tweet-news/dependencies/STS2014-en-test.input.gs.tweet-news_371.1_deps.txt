@@ -1,0 +1,8 @@
+root	ROOT	Reading
+punct	Reading	:
+advmod	Get	How
+mark	Get	to
+parataxis	Reading	Get
+compound	Online	America
+dobj	Get	Online
+dep	Get	via

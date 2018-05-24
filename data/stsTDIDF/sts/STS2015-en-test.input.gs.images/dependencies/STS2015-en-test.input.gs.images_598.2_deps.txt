@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	returns	dog
+root	ROOT	returns
+det	stick	a
+dobj	returns	stick
+case	snow	in
+det	snow	the
+nmod:in	returns	snow
+punct	returns	.

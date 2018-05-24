@@ -1,0 +1,9 @@
+compound	Plan	Cosmos
+compound	Plan	Unveil
+nsubj	Park	Plan
+case	Stadium	for
+compound	Stadium	Soccer
+nmod:for	Plan	Stadium
+case	Belmont	Near
+nmod:near	Stadium	Belmont
+root	ROOT	Park

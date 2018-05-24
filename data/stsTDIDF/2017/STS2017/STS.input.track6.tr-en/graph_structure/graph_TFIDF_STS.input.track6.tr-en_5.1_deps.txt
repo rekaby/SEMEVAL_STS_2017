@@ -1,0 +1,7 @@
+man	taking	acl
+bag	out	case
+taking	apples	dobj
+taking	bag	nmod:out_of
+counter	on	case
+taking	counter	nmod:on
+counter	a	det

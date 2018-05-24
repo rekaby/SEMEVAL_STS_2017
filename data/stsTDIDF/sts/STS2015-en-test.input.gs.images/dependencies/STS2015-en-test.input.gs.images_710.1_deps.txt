@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	sidewalk	on
+det	sidewalk	a
+nmod:on	sitting	sidewalk
+case	phone	with
+det	phone	a
+compound	phone	cell
+nmod:with	sitting	phone
+case	ear	at
+nmod:poss	ear	her
+nmod:at	phone	ear
+punct	sitting	.

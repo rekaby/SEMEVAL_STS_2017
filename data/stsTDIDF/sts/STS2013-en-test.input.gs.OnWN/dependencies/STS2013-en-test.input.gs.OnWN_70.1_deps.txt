@@ -1,0 +1,10 @@
+det	document	a
+root	ROOT	document
+acl	document	authorizing
+det	vote	another
+mark	vote	to
+dobj	authorizing	vote
+case	behalf	on
+nmod:poss	behalf	one
+case	one	's
+nmod:on	vote	behalf

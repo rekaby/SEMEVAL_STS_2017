@@ -1,0 +1,5 @@
+compound	Braces	India
+root	ROOT	Braces
+case	Cyclone	for
+amod	Cyclone	Massive
+nmod:for	Braces	Cyclone

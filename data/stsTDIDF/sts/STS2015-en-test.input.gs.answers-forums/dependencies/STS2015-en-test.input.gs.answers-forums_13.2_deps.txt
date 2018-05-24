@@ -1,0 +1,12 @@
+nsubj	say	I
+aux	say	would
+root	ROOT	say
+nsubj	approaching	you
+aux	approaching	are
+ccomp	say	approaching
+dobj	approaching	it
+case	way	in
+det	way	the
+amod	way	wrong
+nmod:in	approaching	way
+punct	say	.

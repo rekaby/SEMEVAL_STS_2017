@@ -1,0 +1,11 @@
+root	ROOT	pass
+dep	pass	by
+punct	by	,
+root	,	over
+punct	over	,
+root	,	or
+dep	or	under
+mark	making	without
+advcl	under	making
+dobj	making	contact
+punct	or	.

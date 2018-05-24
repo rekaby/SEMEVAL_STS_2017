@@ -1,0 +1,15 @@
+nsubj	hardy	Aloes
+punct	Aloes	,
+case	succulents	like
+amod	succulents	most
+nmod:like	Aloes	succulents
+punct	Aloes	,
+cop	hardy	are
+advmod	hardy	very
+root	ROOT	hardy
+cc	hardy	and
+aux	withstand	will
+conj:and	hardy	withstand
+amod	neglect	considerable
+dobj	withstand	neglect
+punct	hardy	.

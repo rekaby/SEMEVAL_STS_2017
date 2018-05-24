@@ -1,0 +1,5 @@
+compound	hospitalised	Prince
+compound	hospitalised	Philip
+root	ROOT	hospitalised
+case	London	in
+nmod:in	hospitalised	London

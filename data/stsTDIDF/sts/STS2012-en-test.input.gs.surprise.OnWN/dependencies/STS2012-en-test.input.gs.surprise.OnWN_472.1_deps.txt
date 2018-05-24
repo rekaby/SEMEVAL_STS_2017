@@ -1,0 +1,5 @@
+root	ROOT	incite
+det	act	some
+dobj	incite	act
+case	insubordination	of
+nmod:of	act	insubordination

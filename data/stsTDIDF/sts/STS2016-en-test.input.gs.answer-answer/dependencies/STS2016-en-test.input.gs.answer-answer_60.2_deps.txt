@@ -1,0 +1,6 @@
+nsubj	sounds	This
+root	ROOT	sounds
+det	bit	a
+nmod:npmod	unusual	bit
+xcomp	sounds	unusual
+punct	sounds	.

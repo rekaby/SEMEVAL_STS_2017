@@ -1,0 +1,8 @@
+det	computer	A
+amod	computer	laptop
+root	ROOT	computer
+cc	computer	and
+det	monitor	a
+compound	monitor	computer
+conj:and	computer	monitor
+punct	computer	.

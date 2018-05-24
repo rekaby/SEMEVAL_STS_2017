@@ -1,0 +1,11 @@
+nsubj	like	I
+root	ROOT	like
+mark	think	to
+xcomp	like	think
+mark	multitasking	of
+advcl	think	multitasking
+case	switching	as
+amod	switching	rapid
+compound	switching	task
+nmod:as	multitasking	switching
+punct	like	.

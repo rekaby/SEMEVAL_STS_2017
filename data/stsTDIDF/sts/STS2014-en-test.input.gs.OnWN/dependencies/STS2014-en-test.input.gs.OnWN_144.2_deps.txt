@@ -1,0 +1,6 @@
+root	ROOT	free
+case	obligations	from
+nmod:from	free	obligations
+cc	obligations	or
+conj:or	obligations	duties
+punct	free	.

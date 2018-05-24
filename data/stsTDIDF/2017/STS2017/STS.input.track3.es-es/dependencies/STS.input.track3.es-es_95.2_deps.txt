@@ -1,0 +1,9 @@
+det	group	A
+nsubj	outside	group
+case	men	of
+nmod:of	group	men
+cop	outside	are
+root	ROOT	outside
+case	guns	with
+nmod:with	outside	guns
+punct	outside	.

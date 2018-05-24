@@ -1,0 +1,11 @@
+nsubj	Died	Man
+nsubj	Set	Who
+acl:relcl	Man	Set
+dobj	Set	Himself
+case	Fire	on
+nmod:on	Set	Fire
+case	Mall	on
+compound	Mall	National
+nmod:on	Fire	Mall
+aux	Died	Has
+root	ROOT	Died

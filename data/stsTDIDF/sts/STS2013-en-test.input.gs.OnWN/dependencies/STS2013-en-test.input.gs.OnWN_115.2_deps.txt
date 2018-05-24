@@ -1,0 +1,6 @@
+det	position	the
+amod	position	physical
+root	ROOT	position
+case	something	of
+nmod:of	position	something
+punct	position	.

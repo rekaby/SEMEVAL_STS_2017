@@ -1,0 +1,8 @@
+mouth	it	nsubj
+has	dog	nsubj
+has	stick	dobj
+mouth	's	cop
+stick	a	det
+dog	The	det
+stick	mouth	advcl
+mouth	in	mark

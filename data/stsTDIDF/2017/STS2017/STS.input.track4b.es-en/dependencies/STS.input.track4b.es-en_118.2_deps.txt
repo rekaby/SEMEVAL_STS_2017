@@ -1,0 +1,17 @@
+expl	are	There
+root	ROOT	are
+amod	paintings	Latin
+nsubj	are	paintings
+case	boredom	about
+nmod:about	paintings	boredom
+case	walls	on
+det	walls	the
+nmod:on	paintings	walls
+case	Pompeii	of
+nmod:of	walls	Pompeii
+acl	walls	dating
+case	century	from
+det	century	the
+amod	century	21st
+nmod:from	dating	century
+punct	are	.

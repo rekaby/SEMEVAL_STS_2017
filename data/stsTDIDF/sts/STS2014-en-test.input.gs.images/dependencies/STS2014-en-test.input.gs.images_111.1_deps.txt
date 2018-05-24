@@ -1,0 +1,8 @@
+nummod	cows	Five
+nsubj	grazing	cows
+cop	grazing	are
+root	ROOT	grazing
+case	road	beside
+det	road	the
+nmod:beside	grazing	road
+punct	grazing	.

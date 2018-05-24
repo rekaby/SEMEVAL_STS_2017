@@ -1,0 +1,9 @@
+PRI	The	det
+decades	seven	nummod
+losing	2000	nmod:in
+ruled	PRI	nsubj
+losing	until	mark
+ruled	decades	nmod:for
+ruled	losing	advcl
+losing	presidency	dobj
+ruled	Mexico	dobj

@@ -1,0 +1,12 @@
+case	least	At
+nmod:npmod	245	least
+nummod	shame	245
+acl	245	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	245	,
+det:predet	shame	such
+det	shame	a
+root	ROOT	shame

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	is
+case	door	by
+det	door	the
+nmod:by	is	door
+acl	door	looking
+case	phone	at
+nmod:poss	phone	his
+nmod:at	looking	phone
+punct	man	.

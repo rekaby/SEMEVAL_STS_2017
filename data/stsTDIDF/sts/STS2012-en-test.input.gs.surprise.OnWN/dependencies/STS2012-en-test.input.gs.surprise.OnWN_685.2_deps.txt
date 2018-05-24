@@ -1,0 +1,10 @@
+root	ROOT	beat
+advmod	and	thoroughly
+xcomp	beat	and
+advmod	and	conclusively
+case	competition	in
+det	competition	a
+nmod:in	and	competition
+cc	competition	or
+conj:or	competition	fight
+punct	beat	.

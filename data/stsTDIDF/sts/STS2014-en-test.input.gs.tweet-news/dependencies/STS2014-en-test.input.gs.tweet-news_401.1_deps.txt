@@ -1,0 +1,11 @@
+amod	Ground	Female
+compound	Ground	Directors
+compound	Ground	Gain
+root	ROOT	Ground
+punct	Ground	,
+advmod	gender	Slowly
+det	storyteller?s	The
+nsubj	gender	storyteller?s
+amod	matters	gender
+appos	Ground	matters
+punct	Ground	.

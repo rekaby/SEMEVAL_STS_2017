@@ -1,0 +1,9 @@
+advmod	ready	Now
+det	Senate	the
+nsubj	ready	Senate
+aux	ready	may
+cop	ready	be
+root	ROOT	ready
+mark	act	to
+xcomp	ready	act
+punct	ready	.

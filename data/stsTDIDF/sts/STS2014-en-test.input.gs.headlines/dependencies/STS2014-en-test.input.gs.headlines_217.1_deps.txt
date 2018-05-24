@@ -1,0 +1,8 @@
+compound	businesses	Lebanon
+nsubj	strike	businesses
+root	ROOT	strike
+case	protest	in
+nmod:in	strike	protest
+case	impasse	at
+amod	impasse	political
+nmod:at	strike	impasse

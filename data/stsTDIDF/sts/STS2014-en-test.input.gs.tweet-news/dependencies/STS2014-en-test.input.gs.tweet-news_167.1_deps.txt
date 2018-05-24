@@ -1,0 +1,16 @@
+amod	step	Excellent
+nsubj	Deal	step
+case	Lawmakers	with
+amod	Lawmakers	tricky
+amod	Lawmakers	legal
+compound	Lawmakers	issues.New
+compound	Lawmakers	York
+nmod:with	step	Lawmakers
+compound	Deal	Reach
+root	ROOT	Deal
+case	Curbs	on
+compound	Curbs	New
+compound	Curbs	Gun
+nmod:on	Deal	Curbs
+compound	#cdnpoli	#law
+dobj	Deal	#cdnpoli

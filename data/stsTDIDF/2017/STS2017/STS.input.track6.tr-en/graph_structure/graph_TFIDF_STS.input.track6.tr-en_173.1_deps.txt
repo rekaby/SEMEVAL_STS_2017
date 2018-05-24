@@ -1,0 +1,6 @@
+jumps	man	nsubj
+ground	and	cc
+jumps	ground	nmod:on
+ground	dances	conj:and
+jumps	.	punct
+ROOT	jumps	root

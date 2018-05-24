@@ -1,0 +1,3 @@
+is	group	nsubj
+group	contest	nmod:in
+contest	in	case

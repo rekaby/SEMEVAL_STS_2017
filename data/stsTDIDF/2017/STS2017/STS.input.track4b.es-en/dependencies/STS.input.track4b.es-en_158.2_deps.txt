@@ -1,0 +1,13 @@
+nsubj	turning	Facebook
+punct	Facebook	,
+advmod	Facebook	too
+punct	Facebook	,
+aux	turning	is
+advmod	turning	constantly
+root	ROOT	turning
+case	population	to
+nmod:poss	population	its
+amod	population	own
+compound	population	data
+nmod:to	turning	population
+punct	turning	.

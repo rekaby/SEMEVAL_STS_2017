@@ -1,0 +1,13 @@
+det	man	A
+nsubj	removes	man
+acl	man	wearing
+det	hat	a
+amod	hat	hard
+dobj	wearing	hat
+root	ROOT	removes
+nmod:poss	glasses	his
+dobj	removes	glasses
+mark	speaks	as
+nsubj	speaks	he
+advcl	removes	speaks
+punct	removes	.

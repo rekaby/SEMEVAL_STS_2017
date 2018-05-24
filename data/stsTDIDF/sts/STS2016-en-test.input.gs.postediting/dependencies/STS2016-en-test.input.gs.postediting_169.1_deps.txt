@@ -1,0 +1,13 @@
+nsubj	listen	You
+aux	listen	can
+root	ROOT	listen
+case	versions	to
+det	versions	the
+nummod	versions	four
+amod	versions	new
+nmod:to	listen	versions
+case	iHNed.cz	on
+det	iHNed.cz	the
+compound	iHNed.cz	server
+nmod:on	versions	iHNed.cz
+punct	listen	.

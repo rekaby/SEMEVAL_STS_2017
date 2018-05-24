@@ -1,0 +1,11 @@
+det	story	This
+amod	story	sweet
+compound	story	love
+nsubj	made	story
+root	ROOT	made
+nsubj	weepy	me
+xcomp	made	weepy
+punct	made	.-8) discourse(really-3, No
+punct	really	,
+root	ROOT	really
+punct	really	:

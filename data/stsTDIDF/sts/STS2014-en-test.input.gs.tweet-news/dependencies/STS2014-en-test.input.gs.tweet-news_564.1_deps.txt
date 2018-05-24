@@ -1,0 +1,9 @@
+compound	photos	Travel
+root	ROOT	photos
+mark	wish	that
+nsubj	wish	you
+acl:relcl	photos	wish
+nsubj	taken	you
+aux	taken	had
+ccomp	wish	taken
+punct	photos	-

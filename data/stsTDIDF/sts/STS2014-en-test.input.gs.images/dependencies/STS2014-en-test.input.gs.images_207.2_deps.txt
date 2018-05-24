@@ -1,0 +1,7 @@
+nummod	people	four
+root	ROOT	people
+acl	people	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+punct	people	.

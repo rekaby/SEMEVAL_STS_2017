@@ -1,0 +1,15 @@
+expl	was	There
+root	ROOT	was
+neg	was	not
+det	majority	a
+nsubj	was	majority
+dep	majority	voting
+case	Parliament	in
+nmod:in	voting	Parliament
+mark	go	to
+acl	voting	go
+advmod	go	back
+case	Article	to
+nmod:to	go	Article
+nummod	Article	272
+punct	was	.

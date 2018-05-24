@@ -1,0 +1,9 @@
+case	Least	At
+root	ROOT	Least
+nummod	Least	66
+acl	Least	Killed
+case	Blasts	in
+compound	Blasts	Bomb
+nmod:in	Killed	Blasts
+case	Iraq	in
+nmod:in	Killed	Iraq

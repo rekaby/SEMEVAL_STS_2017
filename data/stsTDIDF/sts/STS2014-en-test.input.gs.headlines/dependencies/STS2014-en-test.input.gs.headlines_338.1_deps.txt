@@ -1,0 +1,9 @@
+root	ROOT	Soccer-France
+case	Australia	to
+compound	Australia	host
+nmod:to	Soccer-France	Australia
+case	time	for
+amod	time	first
+nmod:for	Soccer-France	time
+case	October	in
+nmod:in	time	October

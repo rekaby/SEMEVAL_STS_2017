@@ -1,0 +1,6 @@
+root	ROOT	cause
+mark	run	to
+xcomp	cause	run
+case	panic	in
+nmod:in	run	panic
+punct	cause	.

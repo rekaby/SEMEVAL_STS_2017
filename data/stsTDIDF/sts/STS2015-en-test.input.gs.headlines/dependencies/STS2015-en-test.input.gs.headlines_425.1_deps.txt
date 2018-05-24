@@ -1,0 +1,9 @@
+compound	Hanged	Cleveland
+compound	Hanged	Kidnapper
+compound	Hanged	Ariel
+compound	Hanged	Castro
+compound	Hanged	Found
+root	ROOT	Hanged
+case	Cell	in
+compound	Cell	Prison
+nmod:in	Hanged	Cell

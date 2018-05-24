@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+det	person	a
+nsubj	is	person
+acl	person	wearing
+det	shirt	a
+amod	shirt	red
+dobj	wearing	shirt
+acl	shirt	riding
+det	skateboard	a
+dobj	riding	skateboard
+punct	is	.

@@ -1,0 +1,10 @@
+root	ROOT	continue
+det	state	a
+amod	state	certain
+dobj	continue	state
+punct	state	,
+conj:or	state	condition
+punct	state	,
+cc	state	or
+conj:or	state	activity
+punct	continue	.

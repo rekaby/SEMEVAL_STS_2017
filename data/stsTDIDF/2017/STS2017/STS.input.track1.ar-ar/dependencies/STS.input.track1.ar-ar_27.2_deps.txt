@@ -1,0 +1,10 @@
+root	ROOT	Pulls
+det	dogs	the
+compound	dogs	sledge
+dobj	Pulls	dogs
+case	one	in
+nmod:in	Pulls	one
+case	races	of
+det	races	the
+nmod:of	one	races
+punct	Pulls	.

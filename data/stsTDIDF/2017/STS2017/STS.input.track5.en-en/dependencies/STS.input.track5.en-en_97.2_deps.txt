@@ -1,0 +1,9 @@
+det	man	A
+nsubj	outside	man
+cop	outside	is
+root	ROOT	outside
+case	day	on
+det	day	a
+compound	day	July
+nmod:on	outside	day
+punct	outside	.

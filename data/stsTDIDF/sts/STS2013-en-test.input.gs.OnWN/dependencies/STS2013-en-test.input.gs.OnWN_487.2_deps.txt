@@ -1,0 +1,11 @@
+root	ROOT	enclose
+conj:or	enclose	enclose
+case	if	in
+cc	in	or
+conj:or	in	as
+nmod:as	enclose	if
+nmod:in	enclose	if
+case	frame	in
+det	frame	a
+nmod:in	if	frame
+punct	enclose	.

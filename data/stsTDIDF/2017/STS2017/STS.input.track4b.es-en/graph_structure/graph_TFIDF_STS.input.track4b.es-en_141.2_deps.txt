@@ -1,0 +1,10 @@
+offer	one	dep
+offer	is	cop
+amendment	prohibits	acl:relcl
+offer	amendment	nsubj
+one	prohibits	acl:relcl
+offer	perennial	amod
+prohibits	that	nsubj
+prohibits	marriage	dobj
+amendment	An	det
+prohibits	flag-burning	dobj

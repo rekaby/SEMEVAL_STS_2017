@@ -1,0 +1,26 @@
+root	ROOT	Is
+nsubj	Is	Studio
+nummod	Studio	54
+case	'60s	like
+det	'60s	the
+nmod:like	Studio	'60s
+punct	Studio	-
+mark	remember	if
+nsubj	remember	u
+aux	remember	can
+advcl	really	remember
+dobj	remember	it
+punct	really	,
+nsubj	really	u
+cop	really	were
+neg	really	n't
+dep	Studio	really
+dep	really	there
+punct	Is	?-19) root(ROOT-0, Selling
+det	Studio	Some
+amod	Studio	Old
+compound	Studio	Sparkle
+compound	Studio	Fr
+dobj	Selling	Studio
+nummod	Studio	54
+punct	Selling	:

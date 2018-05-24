@@ -1,0 +1,15 @@
+nsubj	priority	It
+cop	priority	is
+nmod:poss	priority	our
+nsubj	choices	priority
+case	assertion	for
+det	assertion	the
+nmod:for	priority	assertion
+case	rights	of
+amod	rights	fundamental
+nmod:of	assertion	rights
+cop	choices	is
+case	choices	in
+amod	choices	political
+root	ROOT	choices
+punct	choices	.

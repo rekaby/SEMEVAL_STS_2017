@@ -1,0 +1,9 @@
+advmod	get	How
+aux	get	do
+nsubj	get	you
+root	ROOT	get
+det	child	a
+dobj	get	child
+mark	eat	to
+xcomp	get	eat
+punct	get	?

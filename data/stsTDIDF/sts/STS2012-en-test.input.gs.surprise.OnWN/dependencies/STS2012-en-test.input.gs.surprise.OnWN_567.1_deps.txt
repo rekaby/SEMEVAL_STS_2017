@@ -1,0 +1,13 @@
+root	ROOT	join
+cc	join	or
+conj:or	join	bring
+advmod	bring	together
+punct	two	-LRB-
+dep	objects	two
+punct	two	-RRB-
+dobj	bring	objects
+punct	objects	,
+conj:or	objects	ideas
+punct	objects	,
+cc	objects	or
+conj:or	objects	people

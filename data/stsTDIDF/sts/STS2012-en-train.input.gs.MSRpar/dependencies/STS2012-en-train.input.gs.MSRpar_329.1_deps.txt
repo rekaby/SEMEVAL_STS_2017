@@ -1,0 +1,14 @@
+det	warrant	An
+compound	warrant	arrest
+nsubj	claimed	warrant
+root	ROOT	claimed
+nsubj	assaulted	Bryant
+ccomp	claimed	assaulted
+det	woman	the
+dobj	assaulted	woman
+nmod:tmod	woman	June
+nummod	June	30
+case	hotel	at
+det	hotel	a
+nmod:at	assaulted	hotel
+punct	claimed	.

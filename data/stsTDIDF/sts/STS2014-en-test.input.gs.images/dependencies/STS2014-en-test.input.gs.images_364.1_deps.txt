@@ -1,0 +1,9 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	train	in
+mwe	in	front
+mwe	in	of
+det	train	a
+nmod:in_front_of	stands	train
+punct	stands	.

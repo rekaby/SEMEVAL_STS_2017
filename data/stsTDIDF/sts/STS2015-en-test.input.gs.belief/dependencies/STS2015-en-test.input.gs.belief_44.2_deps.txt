@@ -1,0 +1,9 @@
+nsubj	sure	i
+cop	sure	'm
+neg	sure	not
+root	ROOT	sure
+case	any	about
+nmod:about	sure	any
+case	those	of
+nmod:of	any	those
+punct	sure	.

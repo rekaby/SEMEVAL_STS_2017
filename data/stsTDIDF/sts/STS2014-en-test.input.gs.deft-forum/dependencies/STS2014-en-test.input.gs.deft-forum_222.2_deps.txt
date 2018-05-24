@@ -1,0 +1,10 @@
+root	ROOT	``
+aux	like	Would
+nsubj	like	you
+dep	``	like
+mark	wear	to
+xcomp	like	wear
+nmod:poss	seatbelt	your
+dobj	wear	seatbelt
+punct	like	?
+punct	like	''

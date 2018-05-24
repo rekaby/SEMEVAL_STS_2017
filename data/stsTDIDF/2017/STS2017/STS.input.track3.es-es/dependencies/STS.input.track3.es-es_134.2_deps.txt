@@ -1,0 +1,9 @@
+det	race	A
+nsubj	taking	race
+aux	taking	is
+root	ROOT	taking
+dobj	taking	place
+case	stadium	in
+det	stadium	a
+nmod:in	taking	stadium
+punct	taking	.

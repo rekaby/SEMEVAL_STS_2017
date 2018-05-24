@@ -1,0 +1,9 @@
+dep	clever	Oh
+advmod	clever	so
+dep	weighs	clever
+punct	weighs	,
+root	ROOT	weighs
+case	fight	in
+case	fight	on
+compound	fight	#obesity
+nmod:on	weighs	fight

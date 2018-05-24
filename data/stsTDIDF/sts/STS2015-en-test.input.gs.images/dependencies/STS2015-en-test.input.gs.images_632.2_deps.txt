@@ -1,0 +1,16 @@
+det	dog	A
+amod	dog	spotted
+nsubj	stands	dog
+root	ROOT	stands
+case	legs	on
+nmod:poss	legs	his
+amod	legs	hind
+nmod:on	stands	legs
+mark	catch	to
+xcomp	stands	catch
+det	ball	a
+dobj	catch	ball
+case	beach	on
+det	beach	the
+nmod:on	catch	beach
+punct	stands	.

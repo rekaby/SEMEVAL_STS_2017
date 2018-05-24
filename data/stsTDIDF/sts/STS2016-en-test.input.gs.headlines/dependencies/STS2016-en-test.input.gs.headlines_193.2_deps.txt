@@ -1,0 +1,9 @@
+amod	reaches	Chinese
+amod	reaches	military
+root	ROOT	reaches
+advmod	Sea	out
+case	Sea	amid
+compound	Sea	South
+compound	Sea	China
+acl:amid	reaches	Sea
+dobj	reaches	tensions

@@ -1,0 +1,9 @@
+det	bicyclists	The
+nsubj	riding	bicyclists
+aux	riding	are
+root	ROOT	riding
+case	store	to
+det	store	the
+compound	store	book
+nmod:to	riding	store
+punct	riding	.

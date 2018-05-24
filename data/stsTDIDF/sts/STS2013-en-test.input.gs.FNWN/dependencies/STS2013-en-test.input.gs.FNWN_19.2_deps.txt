@@ -1,0 +1,10 @@
+root	ROOT	inhabit
+cc	inhabit	or
+conj:or	inhabit	live
+nmod	inhabit	in
+punct	inhabit	;
+cop	inhabitant	be
+det	inhabitant	an
+parataxis	inhabit	inhabitant
+acl	inhabitant	of
+punct	inhabit	;

@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	plays	boy
+root	ROOT	plays
+dobj	plays	violin
+case	stage	on
+nmod:on	plays	stage
+punct	plays	.

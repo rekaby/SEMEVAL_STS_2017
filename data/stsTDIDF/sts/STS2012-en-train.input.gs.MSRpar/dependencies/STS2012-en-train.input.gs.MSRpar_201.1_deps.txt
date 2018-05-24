@@ -1,0 +1,13 @@
+nsubj	estimates	Wal-Mart
+root	ROOT	estimates
+advmod	million	more
+mwe	more	than
+compound	million	100
+nummod	Americans	million
+nsubj	visit	Americans
+ccomp	estimates	visit
+nmod:poss	stores	their
+dobj	visit	stores
+det	week	every
+nmod:tmod	visit	week
+punct	estimates	.

@@ -1,0 +1,8 @@
+amod	talks	Iranian
+amod	talks	nuclear
+root	ROOT	talks
+mark	extended	to
+auxpass	extended	be
+acl	talks	extended
+case	November	to
+nmod:to	extended	November

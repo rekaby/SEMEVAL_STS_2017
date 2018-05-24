@@ -1,0 +1,13 @@
+det	man	A
+nsubj	canoeing	man
+acl	man	wearing
+det	vest	a
+amod	vest	orange
+dobj	wearing	vest
+aux	canoeing	is
+root	ROOT	canoeing
+case	water	in
+det	water	the
+amod	water	blue
+nmod:in	canoeing	water
+punct	canoeing	.

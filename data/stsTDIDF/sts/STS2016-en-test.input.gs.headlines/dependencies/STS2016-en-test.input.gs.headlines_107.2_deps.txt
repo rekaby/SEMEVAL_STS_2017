@@ -1,0 +1,5 @@
+nsubj	expected	Fed
+root	ROOT	expected
+mark	maintain	to
+xcomp	expected	maintain
+dobj	maintain	stimulus

@@ -1,0 +1,9 @@
+root	ROOT	act
+conj:or	act	act
+case	to	against
+cc	against	or
+case	opposition	in
+conj:or	against	opposition
+nmod:against	act	to
+nmod:opposition	act	to
+punct	act	.

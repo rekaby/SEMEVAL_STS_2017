@@ -1,0 +1,12 @@
+amod	extremism	religious
+nsubj	continues	extremism
+root	ROOT	continues
+case	pakistan	in
+nmod:in	continues	pakistan
+case	banning	despite
+det	banning	the
+nmod:despite	continues	banning
+case	groups	of
+amod	groups	militant
+nmod:of	banning	groups
+punct	continues	.

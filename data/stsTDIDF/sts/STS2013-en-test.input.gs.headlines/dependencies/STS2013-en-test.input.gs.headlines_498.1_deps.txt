@@ -1,0 +1,6 @@
+nsubj	ready	Clinton
+root	ROOT	ready
+mark	fight	to
+xcomp	ready	fight
+case	Obama	for
+nmod:for	fight	Obama

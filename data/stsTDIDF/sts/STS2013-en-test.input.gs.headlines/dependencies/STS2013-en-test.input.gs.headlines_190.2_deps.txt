@@ -1,0 +1,6 @@
+amod	expectations	Low
+root	ROOT	expectations
+case	talks	for
+compound	talks	Iran
+amod	talks	nuclear
+nmod:for	expectations	talks

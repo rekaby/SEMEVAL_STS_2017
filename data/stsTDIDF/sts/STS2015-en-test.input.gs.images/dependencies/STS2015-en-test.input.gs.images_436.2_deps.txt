@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	white
+nsubj	holds	dog
+root	ROOT	holds
+det	stick	a
+dobj	holds	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	stick	mouth
+mark	runs	while
+nsubj	runs	it
+advcl	holds	runs
+case	snow	through
+nmod:through	runs	snow
+punct	holds	.

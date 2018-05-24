@@ -1,0 +1,10 @@
+compound	pledge	Gov
+punct	pledge	`
+advcl	pledge	ts
+punct	pledge	,
+nsubj	pledge	groups
+root	ROOT	pledge
+dobj	pledge	millions
+case	relief	for
+compound	relief	typhoon
+nmod:for	millions	relief

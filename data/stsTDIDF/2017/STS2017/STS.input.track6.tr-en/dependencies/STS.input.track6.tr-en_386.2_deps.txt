@@ -1,0 +1,6 @@
+compound	boxes	People
+amod	boxes	open
+root	ROOT	boxes
+advmod	eat	when
+nsubj	eat	people
+acl:relcl	boxes	eat

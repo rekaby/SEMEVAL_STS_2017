@@ -1,0 +1,10 @@
+det	bulbs	both
+root	ROOT	bulbs
+nsubj	have	a
+cc	a	and
+conj:and	a	c
+advmod	have	still
+acl:relcl	bulbs	have
+det	path	a
+amod	path	closed
+dobj	have	path

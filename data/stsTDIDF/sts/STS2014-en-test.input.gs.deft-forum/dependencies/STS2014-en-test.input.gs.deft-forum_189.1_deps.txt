@@ -1,0 +1,12 @@
+det	one	The
+root	ROOT	one
+nsubj	walks	that
+aux	walks	has
+acl:relcl	one	walks
+dobj	walks	home
+advmod	walks	afterwards
+cc	walks	and
+conj:and	walks	goes
+mark	sleep	to
+xcomp	goes	sleep
+punct	one	.

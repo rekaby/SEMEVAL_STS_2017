@@ -1,0 +1,10 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+det	wheelie	a
+dobj	doing	wheelie
+case	motorcycle	on
+nmod:poss	motorcycle	his
+nmod:on	wheelie	motorcycle
+punct	doing	.

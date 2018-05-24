@@ -1,0 +1,19 @@
+det	Index	The
+amod	Index	technology-packed
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	<	Index
+root	ROOT	<
+punct	<	.-7) nsubj(dropped-3, IXIC
+advmod	dropped	>
+root	ROOT	dropped
+nummod	points	37.78
+dobj	dropped	points
+punct	points	,
+cc	points	or
+nummod	percent	1.94
+conj:or	points	percent
+punct	points	,
+case	1,912.36	to
+nmod:to	dropped	1,912.36
+punct	dropped	.

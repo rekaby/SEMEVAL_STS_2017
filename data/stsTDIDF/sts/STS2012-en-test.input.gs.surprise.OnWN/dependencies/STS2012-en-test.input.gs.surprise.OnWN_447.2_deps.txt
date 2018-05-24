@@ -1,0 +1,12 @@
+punct	broadcasting	-LRB-
+root	ROOT	broadcasting
+punct	broadcasting	-RRB-
+det	announcement	a
+amod	announcement	local
+dep	broadcasting	announcement
+acl	announcement	inserted
+case	program	into
+det	program	a
+compound	program	network
+nmod:into	inserted	program
+punct	broadcasting	.

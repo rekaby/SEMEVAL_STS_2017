@@ -1,0 +1,6 @@
+compound	legislators	Afghan
+nsubj	approve	legislators
+root	ROOT	approve
+amod	law	new
+compound	law	election
+dobj	approve	law

@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	stands	dog
+root	ROOT	stands
+case	middle	in
+det	middle	the
+nmod:in	stands	middle
+case	site	of
+det	site	a
+compound	site	construction
+nmod:of	middle	site
+punct	stands	.

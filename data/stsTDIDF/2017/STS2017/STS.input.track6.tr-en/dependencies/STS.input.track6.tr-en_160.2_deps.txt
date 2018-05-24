@@ -1,0 +1,17 @@
+det	table	A
+compound	table	picnic
+root	ROOT	table
+advmod	sitting	where
+det	woman	a
+nsubj	sitting	woman
+aux	sitting	is
+acl:relcl	table	sitting
+cc	sitting	and
+conj:and	sitting	has
+det	carriage	a
+compound	carriage	baby
+dobj	has	carriage
+case	her	next
+mwe	next	to
+nmod:next_to	has	her
+punct	table	.

@@ -1,0 +1,17 @@
+nummod	jurors	Five
+amod	jurors	alternate
+nsubjpass	selected	jurors
+advmod	selected	also
+auxpass	selected	were
+root	ROOT	selected
+punct	selected	,
+case	alternate	with
+det	alternate	a
+amod	alternate	sixth
+nmod:with	selected	alternate
+mark	picked	to
+auxpass	picked	be
+acl	alternate	picked
+case	Friday	on
+nmod:on	picked	Friday
+punct	selected	.

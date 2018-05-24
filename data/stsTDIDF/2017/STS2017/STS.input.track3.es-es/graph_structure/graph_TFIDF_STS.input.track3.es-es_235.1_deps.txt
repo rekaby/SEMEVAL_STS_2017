@@ -1,0 +1,4 @@
+ROOT	crying	root
+children	Four	nummod
+crying	children	nsubj
+crying	are	aux

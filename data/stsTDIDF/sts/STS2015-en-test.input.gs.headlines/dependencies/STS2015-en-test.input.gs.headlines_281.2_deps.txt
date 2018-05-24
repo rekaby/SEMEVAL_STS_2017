@@ -1,0 +1,10 @@
+nsubj	has	Russia
+root	ROOT	has
+neg	intention	no
+dobj	has	intention
+mark	incorporate	to
+acl	intention	incorporate
+amod	Ukraine	southeastern
+dobj	incorporate	Ukraine
+punct	has	:
+punct	has	FM

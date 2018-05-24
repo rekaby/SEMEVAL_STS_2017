@@ -1,0 +1,7 @@
+nsubj	stuck	Dolphin
+csubj	dies	stuck
+case	canal	in
+compound	canal	New
+compound	canal	York
+nmod:in	stuck	canal
+root	ROOT	dies

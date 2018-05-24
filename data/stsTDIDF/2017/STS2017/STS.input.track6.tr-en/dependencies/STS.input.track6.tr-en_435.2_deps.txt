@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	reading	woman
+aux	reading	is
+root	ROOT	reading
+det	story	a
+dobj	reading	story
+case	boy	to
+det	boy	the
+amod	boy	little
+nmod:to	reading	boy

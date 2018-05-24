@@ -1,0 +1,17 @@
+det	coffee	The
+nsubj	picks	coffee
+advmod	picks	simply
+root	ROOT	picks
+compound:prt	picks	up
+det	aluminum	the
+dobj	picks	aluminum
+case	pot	from
+det	pot	the
+nmod:from	picks	pot
+punct	picks	,
+mark	acidic	as
+det	coffee	the
+nsubj	acidic	coffee
+cop	acidic	is
+advcl	picks	acidic
+punct	picks	.

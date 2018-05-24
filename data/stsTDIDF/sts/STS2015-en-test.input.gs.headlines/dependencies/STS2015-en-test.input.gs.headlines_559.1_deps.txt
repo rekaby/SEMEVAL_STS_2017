@@ -1,0 +1,9 @@
+compound	building	World
+nummod	building	‚
+compound	building	Äôs
+amod	building	largest
+nsubj	opened	building
+root	ROOT	opened
+case	west	in
+nmod:in	opened	west
+dobj	opened	China

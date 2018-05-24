@@ -1,0 +1,9 @@
+nsubj	avoids	Eurozone
+root	ROOT	avoids
+dobj	avoids	recession
+case	Q1	in
+nmod:in	recession	Q1
+punct	avoids	,
+dep	avoids	thanks
+case	Germany	to
+nmod:to	thanks	Germany

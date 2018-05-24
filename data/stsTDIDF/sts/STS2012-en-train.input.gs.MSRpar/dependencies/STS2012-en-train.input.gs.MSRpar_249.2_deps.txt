@@ -1,0 +1,16 @@
+nsubj	says	Moore
+case	Alabama	of
+nmod:of	Moore	Alabama
+root	ROOT	says
+nsubj	appeal	he
+aux	appeal	will
+ccomp	says	appeal
+nmod:poss	case	his
+dobj	appeal	case
+case	court	to
+det	nation	the
+nmod:poss	court	nation
+case	nation	's
+amod	court	highest
+nmod:to	appeal	court
+punct	says	.

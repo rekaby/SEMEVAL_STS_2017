@@ -1,0 +1,10 @@
+nsubj	speak	We
+aux	speak	will
+root	ROOT	speak
+case	disgracieuse	with
+nummod	disgracieuse	one
+compound	disgracieuse	voice
+nmod:with	speak	disgracieuse
+case	OMC	within
+nmod:within	speak	OMC
+punct	speak	.

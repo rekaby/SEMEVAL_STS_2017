@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	riding
+det	bicycle	a
+dobj	riding	bicycle
+case	area	on
+det	area	a
+amod	area	large
+amod	area	concrete
+nmod:on	riding	area
+punct	woman	.

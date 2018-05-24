@@ -1,0 +1,12 @@
+compound	condition	Mandela
+advmod	hospital	back
+case	hospital	in
+nmod:in	Mandela	hospital
+case	Äėserious	in
+nummod	Äėserious	‚
+nmod:in	Mandela	Äėserious
+cc	Mandela	but
+amod	condition	stable
+compound	condition	‚
+compound	condition	Äô
+root	ROOT	condition

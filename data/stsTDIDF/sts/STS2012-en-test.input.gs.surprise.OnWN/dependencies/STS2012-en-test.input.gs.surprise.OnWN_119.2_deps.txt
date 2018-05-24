@@ -1,0 +1,11 @@
+det	motorboat	a
+root	ROOT	motorboat
+case	deck	with
+det	deck	an
+amod	deck	open
+nmod:with	motorboat	deck
+cc	deck	or
+det	deck	a
+compound	deck	half
+conj:or	deck	deck
+punct	motorboat	.

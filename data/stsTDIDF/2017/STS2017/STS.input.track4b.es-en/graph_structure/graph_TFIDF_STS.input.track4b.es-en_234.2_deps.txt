@@ -1,0 +1,13 @@
+neighbors	four	nummod
+neighbors	its	nmod:poss
+greater	.	punct
+greater	that	nmod:than
+neighbors	of	case
+budget	defense	compound
+that	neighbors	nmod:of
+greater	budget	nsubj
+neighbors	combined	amod
+budget	Israel	nmod:poss
+ROOT	greater	root
+neighbors	Arab	compound
+greater	is	cop

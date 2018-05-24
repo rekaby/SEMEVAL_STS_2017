@@ -1,0 +1,9 @@
+nsubj	marks	Japan
+root	ROOT	marks
+nummod	year	one
+dobj	marks	year
+case	quake	since
+nmod:since	year	quake
+cc	marks	and
+compound	disaster	tsunami
+conj:and	marks	disaster

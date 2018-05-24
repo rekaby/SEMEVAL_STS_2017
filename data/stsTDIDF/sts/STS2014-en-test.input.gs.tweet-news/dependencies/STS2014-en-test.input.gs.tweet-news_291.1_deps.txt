@@ -1,0 +1,14 @@
+det	climate	The
+nsubj	changing	climate
+aux	changing	is
+root	ROOT	changing
+punct	changing	,
+neg	future	not
+case	future	in
+det	future	the
+amod	future	distant
+nmod:in	changing	future
+punct	changing	,
+cc	changing	but
+advmod	changing	now
+punct	changing	:

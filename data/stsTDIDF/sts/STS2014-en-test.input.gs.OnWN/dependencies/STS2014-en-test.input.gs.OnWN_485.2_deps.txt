@@ -1,0 +1,9 @@
+det	restraint	a
+root	ROOT	restraint
+nsubj	checks	that
+acl:relcl	restraint	checks
+det	motion	the
+dobj	checks	motion
+case	something	of
+nmod:of	motion	something
+punct	restraint	.

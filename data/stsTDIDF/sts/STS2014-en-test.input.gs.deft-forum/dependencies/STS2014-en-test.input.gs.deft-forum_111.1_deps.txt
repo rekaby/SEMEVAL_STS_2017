@@ -1,0 +1,8 @@
+amod	Jeopardy	Double
+nsubj	enforces	Jeopardy
+advmod	enforces	actually
+root	ROOT	enforces
+det	nullification	a
+compound	nullification	jury
+dobj	enforces	nullification
+punct	enforces	.

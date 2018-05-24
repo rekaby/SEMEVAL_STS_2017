@@ -1,0 +1,12 @@
+det	part	Which
+nsubj	important	part
+case	GRE	of
+det	GRE	the
+nmod:of	part	GRE
+cop	important	is
+advmod	important	more
+root	ROOT	important
+case	committees	to
+compound	committees	admissions
+nmod:to	important	committees
+punct	important	?

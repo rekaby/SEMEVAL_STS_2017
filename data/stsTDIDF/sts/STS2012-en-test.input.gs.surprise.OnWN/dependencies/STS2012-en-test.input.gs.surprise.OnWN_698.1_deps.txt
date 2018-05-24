@@ -1,0 +1,10 @@
+root	ROOT	role
+cc	role	or
+conj:or	role	function
+case	head	of
+det	head	the
+nmod:of	role	head
+case	department	of
+det	department	a
+compound	department	government
+nmod:of	head	department

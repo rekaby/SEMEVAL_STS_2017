@@ -1,0 +1,7 @@
+root	ROOT	60
+acl	60	killed
+case	attack	in
+compound	attack	Nigeria
+compound	attack	cattle
+compound	attack	market
+nmod:in	killed	attack

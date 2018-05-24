@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	small
+root	ROOT	dog
+acl	dog	laying
+case	bed	on
+det	bed	the
+nmod:on	laying	bed
+punct	dog	.

@@ -1,0 +1,11 @@
+advmod	get	Why
+nsubj	get	we
+aux	get	ca
+neg	get	n't
+root	ROOT	get
+advmod	get	enough
+dep	enough	Gosling
+punct	Duh	-LRB-
+dep	Gosling	Duh
+punct	Duh	!
+punct	get	-RRB-

@@ -1,0 +1,7 @@
+nmod:poss	stocks	China
+case	China	's
+nsubj	lower	stocks
+advmod	lower	close
+root	ROOT	lower
+case	Monday	on
+nmod:on	lower	Monday

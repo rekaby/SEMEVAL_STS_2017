@@ -1,0 +1,9 @@
+nsubj	leaves	Someone
+aux	leaves	is
+amod	cabbage	shredding
+nsubj	leaves	cabbage
+root	ROOT	leaves
+case	knife	with
+det	knife	a
+nmod:with	leaves	knife
+punct	leaves	.

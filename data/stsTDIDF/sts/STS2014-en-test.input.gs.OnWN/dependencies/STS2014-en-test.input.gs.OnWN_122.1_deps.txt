@@ -1,0 +1,9 @@
+root	ROOT	mix
+cc	mix	or
+conj:or	mix	breed
+dobj	breed	things
+case	varieties	of
+amod	varieties	different
+nmod:of	things	varieties
+cc	varieties	or
+conj:or	varieties	qualities

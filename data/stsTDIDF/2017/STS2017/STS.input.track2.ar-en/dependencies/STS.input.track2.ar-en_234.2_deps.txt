@@ -1,0 +1,7 @@
+det	person	A
+amod	person	homeless
+nsubj	takes	person
+root	ROOT	takes
+det	nap	a
+dobj	takes	nap
+punct	takes	.

@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	riding	dog
+aux	riding	is
+root	ROOT	riding
+case	shoulders	on
+det	shoulders	a
+compound	shoulders	bicyclists
+nmod:on	riding	shoulders
+punct	riding	.

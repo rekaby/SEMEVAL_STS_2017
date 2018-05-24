@@ -1,0 +1,15 @@
+types	terror	nmod:of
+types	the	det
+are	Europe	nmod:of
+are	types	conj:and
+Europe	an	det
+types	about	case
+terror	of	case
+Europe	old	amod
+ROOT	observations	root
+Europe	falling	acl
+observations	.	punct
+observations	are	dep
+falling	away	advmod
+observations	Other	amod
+types	new	amod

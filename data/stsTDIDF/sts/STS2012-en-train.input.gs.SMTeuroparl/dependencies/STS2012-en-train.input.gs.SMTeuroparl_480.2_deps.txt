@@ -1,0 +1,26 @@
+nsubj	continue	They
+root	ROOT	continue
+mark	put	to
+xcomp	continue	put
+det	pressure	the
+dobj	put	pressure
+dobj	earn	that
+nsubj	earn	they
+acl:relcl	pressure	earn
+punct	continue	.-10) nsubj(allows-11, money
+case	distribution	with
+det	distribution	the
+nmod:with	money	distribution
+case	limit	of
+det	limit	the
+nmod:of	distribution	limit
+case	grammes	of
+nummod	grammes	150
+nmod:of	limit	grammes
+root	ROOT	allows
+dobj	allows	them
+mark	strengthen	to
+xcomp	allows	strengthen
+nmod:poss	position	their
+dobj	strengthen	position
+punct	allows	.

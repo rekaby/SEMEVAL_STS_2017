@@ -1,0 +1,6 @@
+nummod	tourists	3
+amod	tourists	Chinese
+root	ROOT	tourists
+acl	tourists	killed
+case	Pakistan	in
+nmod:in	killed	Pakistan

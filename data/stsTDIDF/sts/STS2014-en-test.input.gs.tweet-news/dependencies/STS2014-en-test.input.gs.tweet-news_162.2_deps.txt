@@ -1,0 +1,9 @@
+root	ROOT	`
+amod	Taliban	American
+nmod:poss	wins	Taliban
+case	Taliban	'
+root	`	wins
+amod	wins	right
+case	group	to
+nmod:to	right	group
+nmod:tmod	wins	prayer

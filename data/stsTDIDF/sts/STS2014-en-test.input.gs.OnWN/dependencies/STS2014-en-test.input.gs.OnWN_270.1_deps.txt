@@ -1,0 +1,7 @@
+root	ROOT	function
+case	manner	in
+det	manner	a
+amod	manner	particular
+nmod:in	function	manner
+advmod	moving	when
+advcl	function	moving

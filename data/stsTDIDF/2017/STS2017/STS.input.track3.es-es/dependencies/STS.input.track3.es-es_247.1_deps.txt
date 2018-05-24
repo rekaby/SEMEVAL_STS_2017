@@ -1,0 +1,9 @@
+nummod	men	Two
+root	ROOT	men
+punct	men	,
+compound	layers	dress
+conj:and	men	layers
+cc	men	and
+compound	bags	canvas
+conj:and	men	bags
+punct	men	.

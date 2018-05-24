@@ -1,0 +1,7 @@
+det	child	A
+nsubj	receiving	child
+aux	receiving	is
+root	ROOT	receiving
+amod	surgery	painful
+amod	surgery	dental
+dobj	receiving	surgery

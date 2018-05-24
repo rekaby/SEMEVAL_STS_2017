@@ -1,0 +1,15 @@
+nsubj	right	Microsoft
+cop	right	is
+advcl	losing	right
+punct	losing	,
+nmod:poss	system	its
+amod	system	operational
+nsubj	losing	system
+aux	losing	is
+root	ROOT	losing
+dobj	losing	importance
+cc	losing	but
+advmod	software	also
+nmod:poss	software	its
+conj:and	losing	software
+punct	losing	.

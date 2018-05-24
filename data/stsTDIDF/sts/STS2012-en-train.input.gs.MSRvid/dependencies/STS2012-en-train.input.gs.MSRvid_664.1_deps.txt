@@ -1,0 +1,13 @@
+det	player	the
+compound	player	soccer
+nsubj	kicked	player
+root	ROOT	kicked
+det	side	the
+compound	side	ball
+dobj	kicked	side
+case	side	to
+nmod:to	kicked	side
+case	legs	between
+nmod:poss	legs	his
+nmod:between	kicked	legs
+punct	kicked	.

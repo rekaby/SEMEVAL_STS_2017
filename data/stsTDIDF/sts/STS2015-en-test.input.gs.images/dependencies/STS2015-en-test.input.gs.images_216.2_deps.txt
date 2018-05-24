@@ -1,0 +1,17 @@
+det	man	A
+nsubj	posing	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	posing	are
+root	ROOT	posing
+case	photograph	for
+det	photograph	a
+nmod:for	posing	photograph
+case	flower-bed	in
+mwe	in	front
+mwe	in	of
+det	flower-bed	a
+amod	flower-bed	yellow
+nmod:in_front_of	photograph	flower-bed
+punct	posing	.

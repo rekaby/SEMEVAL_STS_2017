@@ -1,0 +1,6 @@
+nummod	women	Two
+nsubj	keratosis	women
+root	ROOT	keratosis
+case	train	on
+det	train	the
+nmod:on	keratosis	train

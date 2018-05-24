@@ -1,0 +1,10 @@
+root	ROOT	give
+mark	receive	to
+punct	receive	,
+cc	receive	and
+xcomp	give	receive
+case	another	from
+punct	another	,
+nummod	another	one
+nmod:from	receive	another
+punct	give	.

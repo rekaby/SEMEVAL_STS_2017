@@ -1,0 +1,9 @@
+nsubj	depends	All
+ccomp	says	depends
+case	it	on
+nmod:on	depends	it
+punct	depends	,
+punct	says	``
+nsubj	says	he
+root	ROOT	says
+punct	says	.

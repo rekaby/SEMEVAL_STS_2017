@@ -1,0 +1,5 @@
+det	person	A
+nsubj	asking	person
+root	ROOT	asking
+case	directions	for
+nmod:for	asking	directions

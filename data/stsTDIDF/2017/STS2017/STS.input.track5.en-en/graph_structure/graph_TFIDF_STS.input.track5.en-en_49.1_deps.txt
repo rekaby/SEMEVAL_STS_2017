@@ -1,0 +1,5 @@
+making	People	nsubj
+making	cards	nmod:out_of
+structure	a	det
+making	structure	dobj
+cards	out	case

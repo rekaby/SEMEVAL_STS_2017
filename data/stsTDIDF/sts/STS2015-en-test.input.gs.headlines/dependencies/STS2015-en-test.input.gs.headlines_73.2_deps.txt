@@ -1,0 +1,6 @@
+compound	stocks	Singapore
+nsubj	end	stocks
+root	ROOT	end
+compound:prt	end	down
+nummod	%	0.45
+dobj	end	%

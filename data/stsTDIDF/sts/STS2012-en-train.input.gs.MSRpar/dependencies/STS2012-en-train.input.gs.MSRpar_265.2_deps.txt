@@ -1,0 +1,15 @@
+det	Caesarean	A
+nsubjpass	planned	Caesarean
+aux	planned	had
+advmod	planned	originally
+auxpass	planned	been
+root	ROOT	planned
+case	mid	in
+nmod:in	planned	mid
+punct	mid	-
+dep	mid	November
+punct	mid	,
+nummod	weeks	two
+nmod:npmod	early	weeks
+advmod	mid	early
+punct	planned	.

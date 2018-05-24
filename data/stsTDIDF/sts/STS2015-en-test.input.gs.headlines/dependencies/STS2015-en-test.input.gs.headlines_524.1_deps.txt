@@ -1,0 +1,9 @@
+det	eyes	All
+root	ROOT	eyes
+case	Raheel	on
+amod	Raheel	new
+compound	Raheel	Pak
+compound	Raheel	army
+compound	Raheel	chief
+nmod:on	eyes	Raheel
+dep	eyes	Sharif

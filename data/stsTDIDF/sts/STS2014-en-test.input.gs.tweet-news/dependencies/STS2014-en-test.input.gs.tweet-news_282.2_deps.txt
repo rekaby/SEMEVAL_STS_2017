@@ -1,0 +1,9 @@
+case	Outposts	At
+compound	Outposts	Remote
+nmod:at	Sift	Outposts
+punct	Sift	,
+compound	Agents	Border
+nsubj	Sift	Agents
+root	ROOT	Sift
+case	Clues	for
+nmod:for	Sift	Clues

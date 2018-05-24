@@ -1,0 +1,6 @@
+pizza	the	det
+delivered	be	auxpass
+expects	man	nsubj
+expects	pizza	dobj
+expects	delivered	xcomp
+delivered	to	mark

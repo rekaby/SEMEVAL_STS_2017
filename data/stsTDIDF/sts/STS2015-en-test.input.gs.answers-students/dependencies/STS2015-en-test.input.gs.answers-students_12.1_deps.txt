@@ -1,0 +1,9 @@
+compound	A	Bulb
+nsubj	affect	A
+cc	A	and
+compound	C	bulb
+conj:and	A	C
+root	ROOT	affect
+det	other	each
+dobj	affect	other
+punct	affect	.

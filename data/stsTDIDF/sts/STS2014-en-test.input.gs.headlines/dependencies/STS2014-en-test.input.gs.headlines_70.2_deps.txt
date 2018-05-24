@@ -1,0 +1,7 @@
+root	ROOT	Wrestling
+mark	feature	to
+xcomp	Wrestling	feature
+case	Olympics	in
+nummod	Olympics	2020
+compound	Olympics	Tokyo
+nmod:in	feature	Olympics

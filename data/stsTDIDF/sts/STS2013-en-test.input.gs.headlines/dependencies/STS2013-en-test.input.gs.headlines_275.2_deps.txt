@@ -1,0 +1,7 @@
+compound	man	WA
+root	ROOT	man
+acl	man	arrested
+case	raid	in
+compound	raid	police
+compound	raid	drug
+nmod:in	arrested	raid

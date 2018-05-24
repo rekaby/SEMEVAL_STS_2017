@@ -1,0 +1,17 @@
+compound	santos	francisco
+nsubj	stated	santos
+root	ROOT	stated
+mark	found	that
+amod	police	colombian
+nsubj	found	police
+ccomp	stated	found
+det	evidence	the
+dobj	found	evidence
+case	computers	on
+nummod	computers	two
+nmod:on	evidence	computers
+acl	computers	discovered
+case	reyes	with
+compound	reyes	raul
+nmod:with	discovered	reyes
+punct	stated	.

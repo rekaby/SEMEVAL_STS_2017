@@ -1,0 +1,6 @@
+case	innovation	On
+root	ROOT	innovation
+case	form	as
+compound	form	art
+nmod:as	innovation	form
+punct	innovation	:

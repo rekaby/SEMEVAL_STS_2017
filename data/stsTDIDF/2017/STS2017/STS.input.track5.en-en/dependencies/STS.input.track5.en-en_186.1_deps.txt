@@ -1,0 +1,7 @@
+det	man	A
+nsubj	laughing	man
+aux	laughing	is
+root	ROOT	laughing
+case	woman	with
+det	woman	a
+nmod:with	laughing	woman

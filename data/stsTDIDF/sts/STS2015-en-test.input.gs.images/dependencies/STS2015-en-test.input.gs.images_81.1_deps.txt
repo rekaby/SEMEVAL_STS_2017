@@ -1,0 +1,13 @@
+det	tan	A
+root	ROOT	tan
+cc	tan	and
+amod	dog	white
+conj:and	tan	dog
+acl	tan	retrieving
+det	ball	a
+dobj	retrieving	ball
+case	path	on
+det	path	a
+compound	path	gravel
+nmod:on	retrieving	path
+punct	tan	.

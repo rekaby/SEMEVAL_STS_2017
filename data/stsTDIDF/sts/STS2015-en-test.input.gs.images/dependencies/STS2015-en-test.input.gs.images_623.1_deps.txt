@@ -1,0 +1,10 @@
+det	man	A
+nsubj	jumps	man
+root	ROOT	jumps
+advmod	jumps	off
+case	rooftop	of
+nummod	rooftop	one
+nmod:of	off	rooftop
+case	another	onto
+nmod:onto	jumps	another
+punct	jumps	.

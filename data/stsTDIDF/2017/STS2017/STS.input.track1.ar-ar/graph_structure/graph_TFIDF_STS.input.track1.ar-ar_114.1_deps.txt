@@ -1,0 +1,9 @@
+ROOT	Baby	root
+Baby	.	punct
+Baby	wearing	acl
+wearing	T-shirt	dobj
+cart	striped	compound
+cart	rainbow	compound
+cart	game	compound
+cart	paid	amod
+T-shirt	cart	dobj

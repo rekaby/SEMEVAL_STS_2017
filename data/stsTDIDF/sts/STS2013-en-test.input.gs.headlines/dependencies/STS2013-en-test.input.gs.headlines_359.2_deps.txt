@@ -1,0 +1,6 @@
+nsubj	has	Romney
+aux	win	has
+amod	caucus	narrow
+compound	caucus	Maine
+nsubj	win	caucus
+root	ROOT	win

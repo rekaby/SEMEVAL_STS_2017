@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	droppped	woman
+root	ROOT	droppped
+dobj	droppped	eggplant
+case	pan	into
+det	pan	the
+nmod:into	droppped	pan
+punct	droppped	.

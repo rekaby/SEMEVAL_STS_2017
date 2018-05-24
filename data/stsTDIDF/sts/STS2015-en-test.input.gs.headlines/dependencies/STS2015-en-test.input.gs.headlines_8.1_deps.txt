@@ -1,0 +1,9 @@
+root	ROOT	Malala
+punct	Malala	,
+conj	Malala	Snowden
+punct	Malala	,
+compound	Short-Listed	Belarusians
+appos	Malala	Short-Listed
+case	Prize	For
+compound	Prize	Sakharov
+nmod:for	Short-Listed	Prize

@@ -1,0 +1,17 @@
+det	boy	A
+nsubj	holding	boy
+acl	boy	wearing
+det	jacket	a
+amod	jacket	blue
+compound	jacket	life
+dobj	wearing	jacket
+aux	holding	is
+root	ROOT	holding
+case	side	onto
+det	side	the
+nmod:onto	holding	side
+case	boat	of
+det	boat	a
+amod	boat	green
+nmod:of	side	boat
+punct	holding	.

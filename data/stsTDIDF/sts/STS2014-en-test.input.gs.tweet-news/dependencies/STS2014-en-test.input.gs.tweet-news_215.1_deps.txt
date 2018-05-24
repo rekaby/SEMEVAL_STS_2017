@@ -1,0 +1,9 @@
+nummod	NYTimes	*****
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	Firm	Security
+compound	Campaign	Firm
+compound	Campaign	Discovers
+compound	Campaign	Cyber-Spy
+compound	*****	Campaign
+dep	NYTimes	*****

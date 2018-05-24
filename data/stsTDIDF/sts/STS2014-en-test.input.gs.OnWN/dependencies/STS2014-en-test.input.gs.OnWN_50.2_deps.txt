@@ -1,0 +1,8 @@
+det	sculpture	a
+root	ROOT	sculpture
+acl	sculpture	representing
+dobj	representing	a
+amod	a	human
+cc	human	or
+conj:or	human	animal
+punct	sculpture	.

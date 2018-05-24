@@ -1,0 +1,8 @@
+det	baby	A
+nsubj	playing	baby
+aux	playing	is
+root	ROOT	playing
+case	doll	with
+det	doll	a
+nmod:with	playing	doll
+punct	playing	.

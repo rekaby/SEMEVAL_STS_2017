@@ -1,0 +1,8 @@
+compound	Pistorius	Oscar
+nsubj	shot	Pistorius
+punct	shot	`
+root	ROOT	shot
+dobj	shot	Steenkamp
+case	bathroom	in
+nmod:in	shot	bathroom
+punct	shot	'

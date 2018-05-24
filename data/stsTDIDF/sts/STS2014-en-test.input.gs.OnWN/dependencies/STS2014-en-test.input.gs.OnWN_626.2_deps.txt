@@ -1,0 +1,6 @@
+root	ROOT	give
+compound	credit	someone
+dobj	give	credit
+case	something	for
+nmod:for	give	something
+punct	give	.

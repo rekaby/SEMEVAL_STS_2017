@@ -1,0 +1,12 @@
+nsubj	constructs	Constellations
+cop	constructs	are
+amod	constructs	human
+root	ROOT	constructs
+mark	make	to
+acl	constructs	make
+dobj	make	sense
+case	sky	of
+det	sky	the
+compound	sky	night
+nmod:of	sense	sky
+punct	constructs	.

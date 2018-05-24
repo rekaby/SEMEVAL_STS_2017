@@ -1,0 +1,7 @@
+compound	Bush	George
+compound	Bush	W
+nsubj	weighs	Bush
+root	ROOT	weighs
+case	debate	into
+compound	debate	immigration
+nmod:into	weighs	debate

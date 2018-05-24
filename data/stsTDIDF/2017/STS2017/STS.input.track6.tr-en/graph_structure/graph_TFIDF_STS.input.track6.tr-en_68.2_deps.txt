@@ -1,0 +1,8 @@
+dressed	clothes	nmod:in
+clothes	women	nmod:poss
+riding	man	nsubj
+riding	bicycle	dobj
+bicycle	a	det
+man	dressed	acl
+riding	is	aux
+clothes	in	case

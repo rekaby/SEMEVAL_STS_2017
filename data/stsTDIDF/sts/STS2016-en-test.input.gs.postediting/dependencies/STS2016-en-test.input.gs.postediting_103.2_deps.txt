@@ -1,0 +1,8 @@
+nsubj	are	You
+root	ROOT	are
+dobj	divulgues	what
+nsubj	divulgues	you
+ccomp	are	divulgues
+dobj	divulgues	subject
+case	tone	to
+nmod:to	subject	tone

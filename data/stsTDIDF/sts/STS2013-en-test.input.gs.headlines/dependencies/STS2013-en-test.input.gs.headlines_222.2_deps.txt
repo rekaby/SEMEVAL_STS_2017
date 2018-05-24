@@ -1,0 +1,7 @@
+nummod	rockets	2
+nsubj	hit	rockets
+root	ROOT	hit
+dobj	hit	Eshkol
+punct	hit	;
+nsubj	injured	none
+parataxis	hit	injured

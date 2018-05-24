@@ -1,0 +1,9 @@
+root	ROOT	change
+cc	change	or
+conj:or	change	conform
+mark	fit	to
+xcomp	conform	fit
+amod	conditions	new
+cc	new	or
+conj:or	new	different
+dobj	fit	conditions

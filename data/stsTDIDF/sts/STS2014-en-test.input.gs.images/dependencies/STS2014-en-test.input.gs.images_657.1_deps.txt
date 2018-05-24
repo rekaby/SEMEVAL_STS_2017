@@ -1,0 +1,14 @@
+det	standing	A
+amod	standing	black
+cc	black	and
+conj:and	black	white
+compound	standing	cow
+nsubj	looks	standing
+case	hay	in
+nmod:in	standing	hay
+root	ROOT	looks
+advmod	looks	back
+case	camera	at
+det	camera	the
+nmod:at	looks	camera
+punct	looks	.

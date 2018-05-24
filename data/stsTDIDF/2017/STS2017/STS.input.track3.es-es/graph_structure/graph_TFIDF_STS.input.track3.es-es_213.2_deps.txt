@@ -1,0 +1,5 @@
+ledge	building	nmod:in_front_of
+sitting	ledge	nmod:on
+ledge	on	case
+ledge	a	det
+sitting	group	nsubj

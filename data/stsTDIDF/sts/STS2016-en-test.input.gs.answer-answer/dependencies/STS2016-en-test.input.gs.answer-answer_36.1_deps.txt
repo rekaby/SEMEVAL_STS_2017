@@ -1,0 +1,10 @@
+nsubj	buy	You
+aux	buy	can
+root	ROOT	buy
+dobj	buy	it
+case	amazon	on
+nmod:on	buy	amazon
+case	$	for
+nmod:for	buy	$
+nummod	$	5
+punct	buy	.

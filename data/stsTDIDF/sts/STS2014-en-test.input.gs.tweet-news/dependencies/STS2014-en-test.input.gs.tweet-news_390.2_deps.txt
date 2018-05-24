@@ -1,0 +1,7 @@
+root	ROOT	Opinionator
+punct	Opinionator	:
+nsubj	Losing	India
+aux	Losing	Is
+dep	Opinionator	Losing
+det	Race	the
+dobj	Losing	Race

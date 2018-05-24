@@ -1,0 +1,10 @@
+compound	Abrams	J.J.
+nsubj	Movie	Abrams
+case	Direct	to
+nmod:to	Abrams	Direct
+amod	Movie	Next
+punct	Movie	`
+compound	Wars	Star
+nmod:poss	Movie	Wars
+case	Wars	'
+root	ROOT	Movie

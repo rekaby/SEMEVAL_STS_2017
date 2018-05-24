@@ -1,0 +1,13 @@
+nsubj	docks	SpaceX
+root	ROOT	docks
+case	Station	with
+compound	Station	International
+compound	Station	Space
+nmod:with	docks	Station
+punct	docks	:
+case	next	Up
+dep	travel	next
+punct	travel	,
+amod	travel	public
+parataxis	docks	travel
+punct	travel	?

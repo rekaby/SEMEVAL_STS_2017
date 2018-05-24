@@ -1,0 +1,14 @@
+case	term	During
+nmod:poss	term	his
+amod	term	first
+nmod:during	forgot	term
+punct	forgot	,
+nsubj	forgot	he
+root	ROOT	forgot
+mark	present	to
+xcomp	forgot	present
+nmod:poss	plan	his
+amod	plan	own
+compound	plan	peace
+dobj	present	plan
+punct	forgot	.

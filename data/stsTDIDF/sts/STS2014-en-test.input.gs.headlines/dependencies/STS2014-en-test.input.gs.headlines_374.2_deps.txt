@@ -1,0 +1,5 @@
+amod	vote	Equatoguineans
+root	ROOT	vote
+case	polls	in
+amod	polls	legislative
+nmod:in	vote	polls

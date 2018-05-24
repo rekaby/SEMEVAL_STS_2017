@@ -1,0 +1,12 @@
+advmod	battle	Potentially
+amod	battle	explosive
+amod	battle	legal
+root	ROOT	battle
+punct	battle	:
+compound	hospital	Catholic
+nsubj	argues	hospital
+dep	battle	argues
+compound	person	fetus
+neg	person	not
+det	person	a
+dobj	argues	person

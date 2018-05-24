@@ -1,0 +1,5 @@
+shirt	running	acl
+pants	black	amod
+shirt	green	amod
+shirt	pants	conj:and
+woman	shirt	nmod:in

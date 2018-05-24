@@ -1,0 +1,8 @@
+det	status	the
+root	ROOT	status
+cc	status	or
+conj:or	status	fact
+mark	elected	of
+auxpass	elected	being
+acl	status	elected
+punct	status	.

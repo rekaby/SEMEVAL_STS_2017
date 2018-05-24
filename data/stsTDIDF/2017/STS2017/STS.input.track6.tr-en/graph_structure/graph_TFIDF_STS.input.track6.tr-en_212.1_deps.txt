@@ -1,0 +1,9 @@
+father	over	case
+father	their	nmod:poss
+crawling	father	nmod:over
+father	excitedly	advmod
+crawling	all	dobj
+crawling	baby	nsubj
+crawling	.	punct
+baby	A	det
+ROOT	crawling	root

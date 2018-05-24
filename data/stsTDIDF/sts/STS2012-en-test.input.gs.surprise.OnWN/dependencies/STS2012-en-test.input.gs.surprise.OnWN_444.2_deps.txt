@@ -1,0 +1,12 @@
+root	ROOT	come
+advmod	better	out
+advmod	come	better
+case	competition	in
+det	competition	a
+nmod:in	come	competition
+punct	come	,
+conj:or	come	race
+punct	come	,
+cc	come	or
+conj:or	come	conflict
+punct	come	.

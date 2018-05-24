@@ -1,0 +1,15 @@
+dobj	want	What
+nsubj	want	they
+csubj	is	want
+root	ROOT	is
+mark	accepts	that
+nsubj	accepts	one
+advmod	accepts	simply
+ccomp	is	accepts
+dobj	say	what
+nsubj	say	they
+ccomp	accepts	say
+cc	accepts	and
+conj:and	accepts	shuts
+compound:prt	shuts	up
+punct	is	.

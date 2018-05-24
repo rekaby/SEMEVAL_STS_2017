@@ -1,0 +1,9 @@
+advmod	Rusty	Where
+case	Rusty	's
+root	ROOT	Rusty
+punct	Rusty	?-4) compound(panda-2, Red
+nsubj	vanishes	panda
+root	ROOT	vanishes
+case	Zoo	from
+compound	Zoo	National
+nmod:from	vanishes	Zoo

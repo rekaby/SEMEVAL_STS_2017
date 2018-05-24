@@ -1,0 +1,12 @@
+compound	morning	Thursday
+nmod:tmod	rejected	morning
+punct	rejected	,
+nmod:poss	board	PeopleSoft
+case	PeopleSoft	's
+nsubj	rejected	board
+root	ROOT	rejected
+det	offer	the
+compound	offer	Oracle
+compound	offer	takeover
+dobj	rejected	offer
+punct	rejected	.

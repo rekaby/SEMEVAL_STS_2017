@@ -1,0 +1,14 @@
+det	dog	A
+amod	dog	white
+amod	dog	curly
+compound	dog	haired
+nsubj	runs	dog
+root	ROOT	runs
+case	stick	with
+det	stick	a
+nmod:with	runs	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+acl	stick	mouth
+punct	runs	.

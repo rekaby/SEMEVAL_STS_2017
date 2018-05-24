@@ -1,0 +1,7 @@
+compound	c	bulb
+nsubj	pathway	c
+cop	pathway	is
+case	pathway	in
+nmod:poss	pathway	its
+amod	pathway	own
+root	ROOT	pathway

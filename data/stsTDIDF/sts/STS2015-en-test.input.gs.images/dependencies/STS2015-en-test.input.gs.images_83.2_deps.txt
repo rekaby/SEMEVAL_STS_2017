@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+amod	man	wades
+case	water	in
+det	water	the
+nmod:in	wades	water
+cc	man	and
+conj:and	man	watches
+det	fall	a
+compound	fall	water
+dobj	watches	fall
+punct	man	.

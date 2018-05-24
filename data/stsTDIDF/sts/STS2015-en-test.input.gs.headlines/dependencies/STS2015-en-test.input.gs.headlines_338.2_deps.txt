@@ -1,0 +1,9 @@
+nsubj	break	North
+cc	North	and
+compound	Korea	South
+conj:and	North	Korea
+root	ROOT	break
+nmod:poss	silence	their
+dobj	break	silence
+case	talks	with
+nmod:with	break	talks

@@ -1,0 +1,16 @@
+compound	fish	White
+nsubj	are	fish
+root	ROOT	are
+punct	are	,
+case	rule	as
+det	rule	a
+nmod:as	are	rule
+punct	rule	,
+advmod	flavored	more
+advmod	flavored	delicately
+acl	rule	flavored
+case	fish	than
+amod	fish	darker
+amod	fish	fleshed
+nmod:than	flavored	fish
+punct	are	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	hitting	man
+aux	hitting	is
+root	ROOT	hitting
+det	boy	a
+dobj	hitting	boy
+case	vase	with
+compound	vase	flower
+nmod:with	hitting	vase
+punct	hitting	.

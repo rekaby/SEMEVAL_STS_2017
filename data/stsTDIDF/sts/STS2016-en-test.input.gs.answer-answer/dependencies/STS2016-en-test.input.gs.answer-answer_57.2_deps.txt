@@ -1,0 +1,17 @@
+nsubj	job	It
+cop	job	is
+nmod:poss	job	his
+root	ROOT	job
+mark	see	to
+acl	job	see
+mark	have	that
+nsubj	have	you
+ccomp	see	have
+dobj	need	what
+nsubj	need	you
+ccomp	have	need
+mark	do	to
+xcomp	need	do
+nmod:poss	job	your
+dobj	do	job
+punct	job	.

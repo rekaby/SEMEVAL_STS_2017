@@ -1,0 +1,4 @@
+band	.	punct
+ROOT	band	root
+band	The	det
+band	stage	nmod:on

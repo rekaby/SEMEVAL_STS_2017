@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+det	things	a
+amod	things	few
+nsubj	are	things
+nsubj	understand	I
+aux	understand	do
+neg	understand	n't
+acl:relcl	things	understand
+punct	are	:

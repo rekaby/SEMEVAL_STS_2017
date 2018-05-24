@@ -1,0 +1,6 @@
+nsubj	confirms	Malawi
+root	ROOT	confirms
+compound	Mutharika	President
+nmod:poss	death	Mutharika
+case	Mutharika	's
+dobj	confirms	death

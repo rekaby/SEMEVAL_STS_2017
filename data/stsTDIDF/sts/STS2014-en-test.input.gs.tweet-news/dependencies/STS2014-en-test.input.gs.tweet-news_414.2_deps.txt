@@ -1,0 +1,6 @@
+root	ROOT	Cycling
+punct	Cycling	:
+nsubj	apologizes	Armstrong
+parataxis	Cycling	apologizes
+case	staff	to
+nmod:to	apologizes	staff

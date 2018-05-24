@@ -1,0 +1,6 @@
+knitting	woman	nsubj
+knitting	sweater	dobj
+knitting	.	punct
+ROOT	knitting	root
+knitting	is	aux
+sweater	a	det

@@ -1,0 +1,16 @@
+amod	girl	Teenage
+nsubjpass	shot	girl
+acl	girl	killed
+case	Marsh	in
+amod	Marsh	east
+compound	Marsh	London
+compound	Marsh	Shereka
+nmod:in	killed	Marsh
+auxpass	shot	was
+root	ROOT	shot
+case	neck	in
+det	neck	the
+nmod:in	shot	neck
+punct	shot	,
+nsubj	say	police
+parataxis	shot	say

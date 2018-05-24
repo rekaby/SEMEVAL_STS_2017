@@ -1,0 +1,9 @@
+compound	dances	Lionel
+compound	dances	Ritchie
+root	ROOT	dances
+mark	standing	while
+acl	dances	standing
+case	ceiling	on
+det	ceiling	the
+nmod:on	standing	ceiling
+punct	dances	.

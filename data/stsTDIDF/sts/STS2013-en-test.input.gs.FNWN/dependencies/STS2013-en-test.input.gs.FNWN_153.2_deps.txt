@@ -1,0 +1,10 @@
+det	day	a
+amod	day	particular
+root	ROOT	day
+acl	day	specified
+case	time	as
+det	time	the
+nmod:as	specified	time
+nsubj	happens	something
+acl:relcl	time	happens
+punct	day	;

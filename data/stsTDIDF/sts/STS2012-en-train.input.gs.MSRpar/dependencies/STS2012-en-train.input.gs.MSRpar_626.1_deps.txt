@@ -1,0 +1,16 @@
+compound	Benson	Arthur
+nsubj	said	Benson
+punct	Benson	,
+appos	Benson	attorney
+case	schoolchildren	for
+det	case	the
+nmod:poss	schoolchildren	case
+case	case	's
+compound	schoolchildren	plaintiff
+nmod:for	attorney	schoolchildren
+punct	Benson	,
+root	ROOT	said
+nsubj	appeal	he
+aux	appeal	will
+ccomp	said	appeal
+punct	said	.

@@ -1,0 +1,14 @@
+case	proof	Without
+det	proof	a
+nmod:without	likely	proof
+case	correctness	of
+nmod:of	proof	correctness
+punct	likely	,
+det:predet	algorithm	such
+det	algorithm	an
+nsubj	likely	algorithm
+cop	likely	is
+root	ROOT	likely
+mark	fail	to
+xcomp	likely	fail
+punct	likely	.

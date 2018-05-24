@@ -1,0 +1,7 @@
+det	importance	The
+root	ROOT	importance
+mark	taking	of
+acl	importance	taking
+det	day	a
+dobj	taking	day
+case	importance	off

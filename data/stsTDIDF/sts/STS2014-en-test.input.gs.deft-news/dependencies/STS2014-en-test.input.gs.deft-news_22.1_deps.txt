@@ -1,0 +1,10 @@
+det	drug	the
+nsubjpass	known	drug
+auxpass	known	is
+advmod	known	also
+root	ROOT	known
+case	ice	as
+nmod:as	known	ice
+cc	ice	or
+conj:or	ice	shabu
+punct	known	.

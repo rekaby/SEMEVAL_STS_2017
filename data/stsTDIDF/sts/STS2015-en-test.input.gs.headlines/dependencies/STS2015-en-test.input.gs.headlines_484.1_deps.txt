@@ -1,0 +1,7 @@
+root	ROOT	Ukraine
+punct	Ukraine	:
+nummod	Killed	Three
+dep	Ukraine	Killed
+case	Parliament	In
+nmod:in	Killed	Parliament
+appos	Killed	Protests

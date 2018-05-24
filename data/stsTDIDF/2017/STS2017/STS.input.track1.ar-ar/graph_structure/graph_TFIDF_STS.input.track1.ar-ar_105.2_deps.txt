@@ -1,0 +1,4 @@
+ROOT	displays	root
+displays	.	punct
+displays	person	nsubj
+displays	street	nmod:in

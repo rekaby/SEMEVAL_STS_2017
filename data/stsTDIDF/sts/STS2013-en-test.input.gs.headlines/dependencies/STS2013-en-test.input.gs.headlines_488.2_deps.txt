@@ -1,0 +1,7 @@
+nsubj	lowers	Wal-Mart
+root	ROOT	lowers
+dobj	lowers	fee
+case	program	for
+compound	program	holiday
+compound	program	layaway
+nmod:for	lowers	program

@@ -1,0 +1,9 @@
+nsubjpass	exercised	territory
+case	rule	over
+det	rule	which
+nmod:over	territory	rule
+cc	rule	or
+conj:or	rule	control
+auxpass	exercised	is
+root	ROOT	exercised
+punct	exercised	;

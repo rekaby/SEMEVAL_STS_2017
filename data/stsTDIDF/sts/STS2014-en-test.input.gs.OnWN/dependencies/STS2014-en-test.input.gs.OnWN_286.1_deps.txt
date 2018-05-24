@@ -1,0 +1,8 @@
+root	ROOT	hinder
+cc	hinder	or
+conj:or	hinder	conceal
+det	progress	the
+dep	hinder	progress
+cc	progress	or
+conj:or	progress	occurrence
+dep	hinder	of

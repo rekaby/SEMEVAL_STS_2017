@@ -1,0 +1,6 @@
+is	woman	nsubj
+head	hair	nmod:of
+head	full	amod
+head	with	case
+woman	head	nmod:with
+hair	of	case

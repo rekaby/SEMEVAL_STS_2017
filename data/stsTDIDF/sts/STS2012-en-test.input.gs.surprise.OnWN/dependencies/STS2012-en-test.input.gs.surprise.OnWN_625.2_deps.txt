@@ -1,0 +1,11 @@
+root	ROOT	elevate
+cc	elevate	or
+conj:or	elevate	idealize
+punct	elevate	,
+case	allusion	in
+nmod:in	elevate	allusion
+case	transfiguration	to
+nmod:poss	transfiguration	Christ
+case	Christ	's
+nmod:to	allusion	transfiguration
+punct	elevate	.

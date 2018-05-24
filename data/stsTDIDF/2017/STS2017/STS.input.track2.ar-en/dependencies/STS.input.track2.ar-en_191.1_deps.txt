@@ -1,0 +1,10 @@
+det	mother	A
+amod	mother	black
+root	ROOT	mother
+cc	mother	and
+nummod	children	five
+conj:and	mother	children
+case	area	in
+det	area	a
+amod	area	rural
+nmod:in	mother	area

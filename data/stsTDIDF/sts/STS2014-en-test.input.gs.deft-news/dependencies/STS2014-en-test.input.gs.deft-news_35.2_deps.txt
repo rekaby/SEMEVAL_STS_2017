@@ -1,0 +1,8 @@
+nsubj	member	russia
+cop	member	is
+det	member	a
+root	ROOT	member
+case	nsg	of
+det	nsg	the
+nmod:of	member	nsg
+punct	member	.

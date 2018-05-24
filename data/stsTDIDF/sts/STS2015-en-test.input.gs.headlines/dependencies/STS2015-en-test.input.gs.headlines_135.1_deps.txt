@@ -1,0 +1,8 @@
+compound	retailers	U.S.
+nsubj	agree	retailers
+root	ROOT	agree
+case	pact	to
+compound	pact	Bangladesh
+compound	pact	plant
+compound	pact	safety
+nmod:to	agree	pact

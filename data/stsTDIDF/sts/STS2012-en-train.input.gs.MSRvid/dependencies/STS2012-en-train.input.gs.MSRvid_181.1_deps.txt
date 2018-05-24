@@ -1,0 +1,7 @@
+det	person	A
+nsubj	making	person
+aux	making	is
+root	ROOT	making
+det	bed	a
+dobj	making	bed
+punct	making	.

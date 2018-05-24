@@ -1,0 +1,7 @@
+nsubj	shows	Artist
+root	ROOT	shows
+nmod:poss	paintings	his
+dobj	shows	paintings
+case	others	to
+nmod:to	shows	others
+punct	shows	.

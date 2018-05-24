@@ -1,0 +1,9 @@
+det	cat	A
+amod	cat	white
+root	ROOT	cat
+acl	cat	laying
+case	chair	on
+det	chair	an
+compound	chair	office
+nmod:on	laying	chair
+punct	cat	.

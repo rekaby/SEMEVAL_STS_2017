@@ -1,0 +1,7 @@
+det	man	The
+nsubj	sleeping	man
+aux	sleeping	is
+root	ROOT	sleeping
+case	job	during
+nmod:poss	job	his
+nmod:during	sleeping	job

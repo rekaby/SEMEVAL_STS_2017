@@ -1,0 +1,11 @@
+expl	were	There
+root	ROOT	were
+advmod	strawberries	only
+nsubj	were	strawberries
+mark	eat	to
+acl	strawberries	eat
+case	shower	at
+det	shower	the
+compound	shower	baby
+nmod:at	eat	shower
+punct	were	.

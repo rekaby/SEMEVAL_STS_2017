@@ -1,0 +1,7 @@
+root	ROOT	employ
+cc	employ	or
+conj:or	employ	become
+xcomp	become	employed
+case	position	in
+det	position	a
+nmod:in	employed	position

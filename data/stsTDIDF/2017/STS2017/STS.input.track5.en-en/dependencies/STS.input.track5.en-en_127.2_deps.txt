@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	run	dog
+cc	dog	and
+conj:and	dog	sheep
+root	ROOT	run
+advmod	run	together
+punct	run	.

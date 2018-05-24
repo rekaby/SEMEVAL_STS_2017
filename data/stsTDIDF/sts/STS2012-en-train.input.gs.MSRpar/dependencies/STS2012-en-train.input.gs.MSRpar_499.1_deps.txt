@@ -1,0 +1,17 @@
+nsubj	fell	They
+advmod	fell	later
+root	ROOT	fell
+compound:prt	fell	out
+cc	fell	and
+aux	backed	have
+conj:and	fell	backed
+det	series	a
+dobj	backed	series
+case	militias	of
+amod	militias	rival
+amod	militias	Congolese
+nmod:of	series	militias
+case	years	in
+amod	years	recent
+nmod:in	backed	years
+punct	fell	.

@@ -1,0 +1,12 @@
+det	man	The
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	monocycle	a
+dobj	riding	monocycle
+case	parrot	with
+det	parrot	a
+nmod:with	riding	parrot
+case	shoulder	on
+nmod:poss	shoulder	his
+nmod:on	parrot	shoulder

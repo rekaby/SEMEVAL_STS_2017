@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	green
+nmod:in	woman	shirt
+cc	shirt	and
+amod	pants	black
+conj:and	shirt	pants
+acl	shirt	running
+punct	woman	.

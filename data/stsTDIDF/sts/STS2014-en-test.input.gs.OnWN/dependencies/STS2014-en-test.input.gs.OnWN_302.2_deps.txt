@@ -1,0 +1,8 @@
+det	conveyance	a
+root	ROOT	conveyance
+nsubj	transports	that
+acl:relcl	conveyance	transports
+dobj	transports	people
+cc	people	or
+conj:or	people	objects
+punct	conveyance	.

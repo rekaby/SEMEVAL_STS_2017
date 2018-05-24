@@ -1,0 +1,7 @@
+nsubj	have	I
+root	ROOT	have
+det	problem	the
+amod	problem	exact
+amod	problem	same
+dobj	have	problem
+punct	have	.

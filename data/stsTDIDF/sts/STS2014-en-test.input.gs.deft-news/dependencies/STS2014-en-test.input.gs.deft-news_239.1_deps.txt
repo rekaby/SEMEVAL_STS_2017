@@ -1,0 +1,9 @@
+amod	authorities	chinese
+nsubj	available	authorities
+cop	available	were
+neg	available	not
+advmod	available	immediately
+root	ROOT	available
+case	comment	for
+nmod:for	available	comment
+punct	available	.

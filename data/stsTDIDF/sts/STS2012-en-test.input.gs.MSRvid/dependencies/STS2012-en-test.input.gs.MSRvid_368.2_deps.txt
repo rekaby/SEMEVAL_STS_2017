@@ -1,0 +1,7 @@
+nsubj	chopping	Someone
+aux	chopping	is
+root	ROOT	chopping
+det	cabbage	some
+dobj	chopping	cabbage
+advcl	chopping	leaves
+punct	chopping	.

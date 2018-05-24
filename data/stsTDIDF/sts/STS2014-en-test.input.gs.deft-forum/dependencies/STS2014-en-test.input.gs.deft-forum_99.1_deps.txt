@@ -1,0 +1,5 @@
+compound	Value-Form	Commodity
+compound	Value-Form	Expanded
+root	ROOT	Value-Form
+punct	Value-Form	,
+punct	Value-Form	.

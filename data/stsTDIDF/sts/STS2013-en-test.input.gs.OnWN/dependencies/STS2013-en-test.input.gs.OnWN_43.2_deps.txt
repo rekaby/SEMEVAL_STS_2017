@@ -1,0 +1,6 @@
+root	ROOT	increase
+case	extent	in
+nmod:in	increase	extent
+cc	extent	or
+conj:or	extent	intensity
+punct	increase	.

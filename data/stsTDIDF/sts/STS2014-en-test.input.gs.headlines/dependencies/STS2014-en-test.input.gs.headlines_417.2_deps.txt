@@ -1,0 +1,8 @@
+compound	Slips	Pope
+compound	Slips	Francis
+root	ROOT	Slips
+case	Vatican	Out
+mwe	Out	of
+acl:out_of	Slips	Vatican
+case	Prayers	for
+nmod:for	Slips	Prayers

@@ -1,0 +1,4 @@
+nsubj	return	Residents
+root	ROOT	return
+case	Fallujah	to
+nmod:to	return	Fallujah

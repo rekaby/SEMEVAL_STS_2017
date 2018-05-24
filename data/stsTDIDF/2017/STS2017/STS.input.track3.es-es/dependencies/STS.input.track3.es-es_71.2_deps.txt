@@ -1,0 +1,10 @@
+nummod	teams	Two
+nsubj	start	teams
+case	players	of
+compound	players	soccer
+nmod:of	teams	players
+aux	start	do
+neg	start	not
+root	ROOT	start
+det	game	a
+dobj	start	game

@@ -1,0 +1,12 @@
+root	ROOT	spur
+conj:or	spur	spur
+case	cheers	on
+cc	on	or
+conj:or	on	encourage
+advmod	cheers	especially
+case	cheers	by
+nmod:by	spur	cheers
+nmod:encourage	spur	cheers
+cc	cheers	and
+conj:and	cheers	shouts
+punct	spur	.

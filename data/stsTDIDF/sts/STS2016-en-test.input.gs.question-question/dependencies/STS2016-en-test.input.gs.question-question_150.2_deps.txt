@@ -1,0 +1,8 @@
+advmod	troubleshoot	How
+aux	troubleshoot	do
+nsubj	troubleshoot	I
+root	ROOT	troubleshoot
+det	furnace	an
+amod	furnace	electric
+dobj	troubleshoot	furnace
+punct	troubleshoot	?

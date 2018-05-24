@@ -1,0 +1,11 @@
+crowd	amongst	case
+stands	woman	nsubj
+crowd	hands	nmod:of
+hands	of	case
+woman	An	det
+woman	asian	amod
+hands	raised	amod
+microphone	a	det
+microphone	with	case
+stands	crowd	nmod:amongst
+woman	microphone	nmod:with

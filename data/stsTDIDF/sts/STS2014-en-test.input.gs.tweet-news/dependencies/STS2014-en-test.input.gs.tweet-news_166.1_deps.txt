@@ -1,0 +1,6 @@
+root	ROOT	Bending
+det	Rules	the
+compound	Rules	Steakhouse
+dobj	Bending	Rules
+compound	#eatingout	#food
+dobj	Bending	#eatingout

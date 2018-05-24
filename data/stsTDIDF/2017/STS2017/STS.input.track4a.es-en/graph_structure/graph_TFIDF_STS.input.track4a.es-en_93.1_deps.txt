@@ -1,0 +1,8 @@
+playing	band	nsubj
+surrounded	trees	nmod:by
+band	An	det
+playing	outdoors	advmod
+stage	surrounded	acl
+playing	stage	nmod:on
+trees	by	case
+band	African-American	amod

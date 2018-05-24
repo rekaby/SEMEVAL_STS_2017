@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	dancing	woman
+aux	dancing	is
+root	ROOT	dancing
+case	street	in
+det	street	the
+nmod:in	dancing	street
+punct	dancing	.

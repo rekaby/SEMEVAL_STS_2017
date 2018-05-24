@@ -1,0 +1,6 @@
+det	group	A
+root	ROOT	group
+case	friends	of
+nmod:of	group	friends
+advmod	group	together
+punct	group	.

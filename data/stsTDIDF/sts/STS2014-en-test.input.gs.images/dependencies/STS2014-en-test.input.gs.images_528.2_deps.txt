@@ -1,0 +1,12 @@
+nummod	kittens	Two
+compound	kittens	baby
+nsubj	sitting	kittens
+aux	sitting	are
+root	ROOT	sitting
+case	dome	inside
+det	dome	a
+amod	dome	cow-schemed
+punct	dome	,
+amod	dome	fur-covered
+nmod:inside	sitting	dome
+punct	sitting	.

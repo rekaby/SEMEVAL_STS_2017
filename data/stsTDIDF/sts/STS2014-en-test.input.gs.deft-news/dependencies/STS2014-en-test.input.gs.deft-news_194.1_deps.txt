@@ -1,0 +1,10 @@
+amod	ministry	indian
+compound	ministry	defense
+nsubj	increased	ministry
+aux	increased	has
+root	ROOT	increased
+dobj	increased	spending
+case	purchases	on
+compound	purchases	defense
+nmod:on	spending	purchases
+punct	increased	.

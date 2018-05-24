@@ -1,0 +1,9 @@
+root	ROOT	People
+dobj	person	that
+nsubj	person	Naomi
+cop	person	is
+det	person	a
+acl:relcl	People	person
+amod	aim	central
+dobj	person	aim
+punct	People	.

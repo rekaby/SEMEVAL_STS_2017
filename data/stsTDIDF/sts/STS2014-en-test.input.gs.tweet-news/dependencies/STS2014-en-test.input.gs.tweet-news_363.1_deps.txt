@@ -1,0 +1,19 @@
+compound	schoolers	Philly
+amod	schoolers	high
+root	ROOT	schoolers
+punct	schoolers	,
+acl	schoolers	join
+det	conversation	the
+dobj	join	conversation
+punct	schoolers	.-8) punct(Feel-4, :
+aux	Feel	Would
+nsubj	Feel	You
+root	ROOT	Feel
+xcomp	Feel	Safer
+case	Guards	With
+compound	Guards	Armed
+nmod:with	Safer	Guards
+case	School	In
+nmod:poss	School	Your
+nmod:in	Safer	School
+punct	Feel	?

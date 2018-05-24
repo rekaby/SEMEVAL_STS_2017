@@ -1,0 +1,8 @@
+compound	president	Tunisia
+nsubj	says	president
+root	ROOT	says
+nsubj	overcome	confident
+aux	overcome	can
+ccomp	says	overcome
+amod	crisis	political
+dobj	overcome	crisis

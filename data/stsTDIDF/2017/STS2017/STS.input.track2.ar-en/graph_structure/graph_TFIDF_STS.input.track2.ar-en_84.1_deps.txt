@@ -1,0 +1,12 @@
+training	is	aux
+shot	expert	amod
+training	shot	xcomp
+shot	be	cop
+shot	pistol	nmod:with
+training	.	punct
+training	woman	nsubj
+shot	an	det
+shot	to	mark
+ROOT	training	root
+pistol	with	case
+pistol	a	det

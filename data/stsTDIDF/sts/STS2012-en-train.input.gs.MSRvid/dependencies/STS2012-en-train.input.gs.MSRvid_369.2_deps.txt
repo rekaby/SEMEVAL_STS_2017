@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	peeling	woman
+aux	peeling	is
+root	ROOT	peeling
+det	tuber	a
+dobj	peeling	tuber
+punct	peeling	.

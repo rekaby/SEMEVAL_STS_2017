@@ -1,0 +1,4 @@
+stage	man	nsubj
+ROOT	stage	root
+stage	.	punct
+stage	is	cop

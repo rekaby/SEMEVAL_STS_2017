@@ -1,0 +1,4 @@
+cliff	on	case
+man	standing	amod
+cliff	a	det
+standing	cliff	nmod:on

@@ -1,0 +1,11 @@
+nummod	dogs	Two
+nsubj	wrestling	dogs
+aux	wrestling	are
+root	ROOT	wrestling
+case	ground	on
+det	ground	the
+nmod:on	wrestling	ground
+case	snow	in
+det	snow	the
+nmod:in	ground	snow
+punct	wrestling	.

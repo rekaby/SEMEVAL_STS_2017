@@ -1,0 +1,6 @@
+amod	hotels	Hard-hit
+nsubj	ready	hotels
+root	ROOT	ready
+case	war	for
+compound	war	price
+nmod:for	ready	war

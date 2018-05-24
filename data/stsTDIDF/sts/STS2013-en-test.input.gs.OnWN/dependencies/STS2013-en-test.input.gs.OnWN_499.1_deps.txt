@@ -1,0 +1,11 @@
+root	ROOT	take
+dobj	take	possession
+case	authority	of
+case	authority	by
+amod	authority	legal
+nmod:by	possession	authority
+punct	security	-LRB-
+case	security	for
+nmod:for	take	security
+punct	security	-RRB-
+punct	take	.

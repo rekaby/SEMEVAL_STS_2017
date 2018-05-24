@@ -1,0 +1,7 @@
+nsubj	predicts	Iran
+root	ROOT	predicts
+compound	talks	failure
+case	peace	of
+amod	peace	Israeli-Palestinian
+nmod:of	failure	peace
+dobj	predicts	talks

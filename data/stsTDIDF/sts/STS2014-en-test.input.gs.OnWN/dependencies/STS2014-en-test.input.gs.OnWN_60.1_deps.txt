@@ -1,0 +1,13 @@
+root	ROOT	raising
+det	stakes	the
+dobj	raising	stakes
+cc	stakes	or
+conj:or	stakes	bet
+case	game	of
+det	game	a
+nmod:of	stakes	game
+case	factor	by
+det	factor	a
+nmod:by	raising	factor
+case	2	of
+nmod:of	factor	2

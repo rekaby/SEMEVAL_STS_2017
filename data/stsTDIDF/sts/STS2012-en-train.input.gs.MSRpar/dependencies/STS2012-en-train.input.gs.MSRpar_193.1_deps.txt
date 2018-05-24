@@ -1,0 +1,9 @@
+compound	shares	Orange
+nsubj	jumped	shares
+root	ROOT	jumped
+advmod	15	as
+advmod	15	much
+advmod	15	as
+nummod	percent	15
+dobj	jumped	percent
+punct	jumped	.

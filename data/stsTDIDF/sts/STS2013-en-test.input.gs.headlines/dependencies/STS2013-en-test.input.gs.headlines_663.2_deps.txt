@@ -1,0 +1,8 @@
+amod	Bids	Syrian
+compound	Bids	Regime
+root	ROOT	Bids
+mark	Retake	To
+acl	Bids	Retake
+dobj	Retake	City
+case	Aleppo	Of
+nmod:of	City	Aleppo

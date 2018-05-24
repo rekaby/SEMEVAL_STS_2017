@@ -1,0 +1,11 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+nmod:poss	bike	his
+dobj	riding	bike
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	riding	day
+punct	riding	.

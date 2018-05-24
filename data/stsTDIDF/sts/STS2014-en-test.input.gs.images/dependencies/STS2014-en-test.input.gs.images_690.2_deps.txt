@@ -1,0 +1,11 @@
+det	cyclist	A
+nsubj	speeding	cyclist
+case	lira	in
+amod	lira	black
+cc	black	and
+conj:and	black	white
+nmod:in	cyclist	lira
+root	ROOT	speeding
+amod	spectators	past
+dobj	speeding	spectators
+punct	speeding	.

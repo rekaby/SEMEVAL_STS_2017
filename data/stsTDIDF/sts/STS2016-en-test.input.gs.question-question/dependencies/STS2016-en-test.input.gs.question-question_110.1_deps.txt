@@ -1,0 +1,10 @@
+root	ROOT	What
+cop	What	are
+det	exercises	some
+amod	exercises	good
+compound	exercises	strength
+nsubj	What	exercises
+case	runners	for
+compound	runners	marathon
+nmod:for	exercises	runners
+punct	What	?

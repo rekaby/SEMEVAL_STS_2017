@@ -1,0 +1,10 @@
+det	person	A
+nsubj	chopping	person
+aux	chopping	is
+advmod	chopping	quickly
+root	ROOT	chopping
+dobj	chopping	mushrooms
+case	knife	with
+det	knife	a
+nmod:with	chopping	knife
+punct	chopping	.

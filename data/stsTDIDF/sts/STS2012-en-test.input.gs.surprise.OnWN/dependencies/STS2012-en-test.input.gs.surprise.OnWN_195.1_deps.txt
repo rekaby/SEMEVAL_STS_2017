@@ -1,0 +1,10 @@
+root	ROOT	restart
+cc	restart	or
+conj:or	restart	continue
+det	activity	an
+dobj	continue	activity
+case	interruption	after
+det	interruption	an
+nmod:after	restart	interruption
+cc	restart	or
+conj:or	restart	pause

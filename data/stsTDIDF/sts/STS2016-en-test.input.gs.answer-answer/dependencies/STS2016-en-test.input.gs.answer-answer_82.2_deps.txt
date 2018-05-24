@@ -1,0 +1,11 @@
+nsubj	had	I
+aux	had	've
+root	ROOT	had
+det	problem	this
+dobj	had	problem
+mark	working	while
+advcl	had	working
+case	pubs	in
+det	pubs	a
+nmod:in	working	pubs
+punct	had	.

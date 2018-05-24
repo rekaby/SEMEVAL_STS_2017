@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+acl	woman	sitting
+case	bank	in
+det	bank	a
+nmod:in	sitting	bank
+punct	man	.

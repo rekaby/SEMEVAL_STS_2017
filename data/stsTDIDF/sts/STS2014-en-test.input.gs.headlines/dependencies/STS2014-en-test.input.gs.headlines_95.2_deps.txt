@@ -1,0 +1,8 @@
+nsubj	unveils	Russia
+root	ROOT	unveils
+amod	link	$
+amod	link	25bn
+compound	link	oil
+dobj	unveils	link
+case	Pacific	to
+nmod:to	unveils	Pacific

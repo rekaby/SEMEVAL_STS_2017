@@ -1,0 +1,12 @@
+compound	Englund	Mr.
+nmod:poss	book	Englund
+case	Englund	's
+nsubj	deviation	book
+cop	deviation	is
+det	deviation	a
+root	ROOT	deviation
+case	books	from
+amod	books	standard
+compound	books	history
+nmod:from	deviation	books
+punct	deviation	.

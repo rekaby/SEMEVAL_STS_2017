@@ -1,0 +1,17 @@
+det	dog	A
+compound	dog	tan
+nsubj	lying	dog
+aux	lying	is
+root	ROOT	lying
+case	couch	on
+det	couch	a
+nmod:on	lying	couch
+cc	lying	and
+conj:and	lying	has
+nmod:poss	head	its
+dobj	has	head
+case	pillow	on
+det	pillow	a
+amod	pillow	white
+nmod:on	head	pillow
+punct	lying	.

@@ -1,0 +1,7 @@
+amod	minister	Israeli
+nsubj	slams	minister
+root	ROOT	slams
+nmod:poss	boycott	Kerry
+case	Kerry	's
+dobj	slams	boycott
+dep	slams	warning

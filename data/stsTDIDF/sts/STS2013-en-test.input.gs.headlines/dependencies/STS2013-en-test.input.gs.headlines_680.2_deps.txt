@@ -1,0 +1,7 @@
+nsubj	Accuses	Assad
+root	ROOT	Accuses
+dobj	Accuses	US
+mark	Fueling	of
+acl	US	Fueling
+amod	Uprising	Syrian
+dobj	Fueling	Uprising

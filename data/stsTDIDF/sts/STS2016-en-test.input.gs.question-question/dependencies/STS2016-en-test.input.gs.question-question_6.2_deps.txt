@@ -1,0 +1,13 @@
+cop	bus	Is
+expl	bus	there
+det	bus	a
+root	ROOT	bus
+case	Tbilisi	from
+nmod:from	bus	Tbilisi
+punct	Tbilisi	,
+appos	Tbilisi	Georgia
+case	Thessaloniki	to
+nmod:to	Georgia	Thessaloniki
+punct	Thessaloniki	,
+appos	Thessaloniki	Greece
+punct	bus	?

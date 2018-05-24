@@ -1,0 +1,5 @@
+amod	Cars	Hurricane-Flooded
+nsubj	Lure	Cars
+root	ROOT	Lure
+amod	Buyers	Unwitting
+dobj	Lure	Buyers

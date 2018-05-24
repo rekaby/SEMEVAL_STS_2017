@@ -1,0 +1,9 @@
+advmod	forward	More
+root	ROOT	forward
+case	leaping	in
+det	leaping	a
+nmod:in	forward	leaping
+cc	leaping	or
+conj:or	leaping	skipping
+dobj	skipping	manner
+punct	forward	.

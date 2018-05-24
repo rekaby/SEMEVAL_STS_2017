@@ -1,0 +1,10 @@
+nsubj	Destroys	Russia
+root	ROOT	Destroys
+advmod	75	Over
+nummod	%	75
+dobj	Destroys	%
+case	Weapons	of
+nmod:poss	Weapons	Its
+compound	Weapons	Chemical
+nmod:of	%	Weapons
+dep	%	Stockpile

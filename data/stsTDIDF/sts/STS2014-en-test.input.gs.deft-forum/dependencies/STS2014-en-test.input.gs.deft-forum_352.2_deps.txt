@@ -1,0 +1,13 @@
+det	part	The
+amod	part	worst
+nsubj	is	part
+root	ROOT	is
+mark	fan	that
+nsubj	fan	he
+cop	fan	's
+neg	fan	not
+advmod	fan	even
+det	fan	a
+compound	fan	Leafs
+ccomp	is	fan
+punct	is	!

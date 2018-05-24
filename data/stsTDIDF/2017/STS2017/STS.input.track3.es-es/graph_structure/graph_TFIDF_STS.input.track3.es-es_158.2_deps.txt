@@ -1,0 +1,11 @@
+snow	in	case
+snow	the	det
+cat	The	det
+cat	white	amod
+runs	it	nsubj
+difficult	see	xcomp
+runs	as	mark
+difficult	cat	nsubj
+see	runs	advcl
+runs	playfully	advmod
+see	snow	nmod:in

@@ -1,0 +1,7 @@
+det	utterance	the
+amod	utterance	characteristic
+root	ROOT	utterance
+case	animal	of
+det	animal	an
+nmod:of	utterance	animal
+punct	utterance	.

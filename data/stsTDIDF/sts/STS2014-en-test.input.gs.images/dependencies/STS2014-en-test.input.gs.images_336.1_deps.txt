@@ -1,0 +1,8 @@
+det	horse	A
+compound	horse	race
+nsubj	galloping	horse
+root	ROOT	galloping
+case	rider	without
+det	rider	a
+nmod:without	galloping	rider
+punct	galloping	.

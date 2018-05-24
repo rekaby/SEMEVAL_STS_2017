@@ -1,0 +1,6 @@
+nummod	ban	Two
+compound	ban	year
+compound	ban	doping
+root	ROOT	ban
+case	Contador	for
+nmod:for	ban	Contador

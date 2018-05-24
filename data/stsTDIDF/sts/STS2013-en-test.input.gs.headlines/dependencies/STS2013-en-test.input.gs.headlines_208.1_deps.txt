@@ -1,0 +1,7 @@
+amod	reports	Russian
+compound	reports	TV
+nsubj	attempt	reports
+amod	attempt	foiled
+root	ROOT	attempt
+case	Putin	on
+nmod:on	attempt	Putin

@@ -1,0 +1,9 @@
+compound	bombs	Car
+nsubj	kill	bombs
+root	ROOT	kill
+case	least	at
+nmod:npmod	16	least
+dobj	kill	16
+case	capital	in
+amod	capital	Iraqi
+nmod:in	kill	capital

@@ -1,0 +1,6 @@
+compound	Ref	Soccer
+nsubj	Dies	Ref
+acl	Ref	Punched
+case	Player	by
+nmod:by	Punched	Player
+root	ROOT	Dies

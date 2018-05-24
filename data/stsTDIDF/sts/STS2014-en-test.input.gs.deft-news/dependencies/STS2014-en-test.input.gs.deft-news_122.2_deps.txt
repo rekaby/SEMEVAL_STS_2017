@@ -1,0 +1,9 @@
+det	cfe	the
+nsubj	cornerstone	cfe
+cop	cornerstone	is
+det	cornerstone	a
+root	ROOT	cornerstone
+case	security	of
+amod	security	european
+nmod:of	cornerstone	security
+punct	cornerstone	.

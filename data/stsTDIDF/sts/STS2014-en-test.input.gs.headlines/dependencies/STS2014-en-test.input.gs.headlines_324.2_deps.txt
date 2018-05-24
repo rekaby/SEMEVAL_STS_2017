@@ -1,0 +1,7 @@
+compound	police	China
+nsubj	seek	police
+root	ROOT	seek
+nummod	suspects	eight
+dobj	seek	suspects
+case	crash	over
+nmod:over	seek	crash

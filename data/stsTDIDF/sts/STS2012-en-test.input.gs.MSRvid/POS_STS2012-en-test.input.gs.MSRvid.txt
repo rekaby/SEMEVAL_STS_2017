@@ -1,0 +1,750 @@
+[A/DT, man/NN, with/IN, a/DT, hard/JJ, hat/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, wearing/VBG, a/DT, hard/JJ, hat/NN, is/VBZ, dancing/VBG, ./.] 	1
+[A/DT, plane/NN, is/VBZ, taking/VBG, off/RP, ./.] 	[An/DT, air/NN, plane/NN, is/VBZ, taking/VBG, off/RP, ./.] 	2
+[A/DT, young/JJ, child/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, child/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	3
+[A/DT, man/NN, is/VBZ, feeding/VBG, a/DT, mouse/NN, to/TO, a/DT, snake/NN, ./.] 	[The/DT, man/NN, is/VBZ, feeding/VBG, a/DT, mouse/NN, to/TO, the/DT, snake/NN, ./.] 	4
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, large/JJ, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	5
+[A/DT, man/NN, is/VBZ, spreading/VBG, shreded/JJ, cheese/NN, on/IN, a/DT, pizza/NN, ./.] 	[A/DT, man/NN, is/VBZ, spreading/VBG, shredded/JJ, cheese/NN, on/IN, an/DT, uncooked/JJ, pizza/NN, ./.] 	6
+[Three/CD, men/NNS, are/VBP, playing/VBG, chess/NN, ./.] 	[Two/CD, men/NNS, are/VBP, playing/VBG, chess/NN, ./.] 	7
+[A/DT, woman/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	8
+[A/DT, woman/NN, is/VBZ, playing/VBG, the/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	9
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, cello/NN, ./.] 	[A/DT, man/NN, seated/VBN, is/VBZ, playing/VBG, the/DT, cello/NN, ./.] 	10
+[A/DT, woman/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, onions/NNS, ./.] 	11
+[Some/DT, men/NNS, are/VBP, fighting/VBG, ./.] 	[Two/CD, men/NNS, are/VBP, fighting/VBG, ./.] 	12
+[A/DT, man/NN, is/VBZ, smoking/NN, ./.] 	[A/DT, man/NN, is/VBZ, skating/VBG, ./.] 	13
+[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	14
+[A/DT, man/NN, is/VBZ, playing/VBG, on/IN, a/DT, guitar/NN, and/CC, singing/NN, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, an/DT, acoustic/JJ, guitar/NN, and/CC, singing/NN, ./.] 	15
+[A/DT, man/NN, is/VBZ, erasing/VBG, a/DT, chalk/NN, board/NN, ./.] 	[The/DT, man/NN, is/VBZ, erasing/VBG, the/DT, chalk/NN, board/NN, ./.] 	16
+[A/DT, person/NN, is/VBZ, throwing/VBG, a/DT, cat/NN, on/IN, to/TO, the/DT, ceiling/NN, ./.] 	[A/DT, person/NN, throws/VBZ, a/DT, cat/NN, on/IN, the/DT, ceiling/NN, ./.] 	17
+[The/DT, man/NN, hit/VBD, the/DT, other/JJ, man/NN, with/IN, a/DT, stick/NN, ./.] 	[The/DT, man/NN, spanked/VBD, the/DT, other/JJ, man/NN, with/IN, a/DT, stick/NN, ./.] 	18
+[A/DT, woman/NN, picks/VBZ, up/RP, and/CC, holds/VBZ, a/DT, baby/NN, kangaroo/NN, ./.] 	[A/DT, woman/NN, picks/VBZ, up/RP, and/CC, holds/VBZ, a/DT, baby/NN, kangaroo/NN, in/IN, her/PRP$, arms/NNS, ./.] 	19
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, bamboo/NN, flute/NN, ./.] 	20
+[A/DT, person/NN, is/VBZ, folding/JJ, a/DT, piece/NN, of/IN, paper/NN, ./.] 	[Someone/NN, is/VBZ, folding/JJ, a/DT, piece/NN, of/IN, paper/NN, ./.] 	21
+[A/DT, man/NN, is/VBZ, running/VBG, on/IN, the/DT, road/NN, ./.] 	[A/DT, panda/NN, dog/NN, is/VBZ, running/VBG, on/IN, the/DT, road/NN, ./.] 	22
+[A/DT, dog/NN, is/VBZ, trying/VBG, to/TO, get/VB, bacon/NN, off/IN, his/PRP$, back/NN, ./.] 	[A/DT, dog/NN, is/VBZ, trying/VBG, to/TO, eat/VB, the/DT, bacon/NN, on/IN, its/PRP$, back/NN, ./.] 	23
+[A/DT, woman/NN, is/VBZ, carrying/VBG, a/DT, boy/NN, ./.] 	[A/DT, woman/NN, is/VBZ, carrying/VBG, her/PRP$, baby/NN, ./.] 	24
+[A/DT, girl/NN, is/VBZ, styling/VBG, her/PRP$, hair/NN, ./.] 	[A/DT, girl/NN, is/VBZ, brushing/NN, her/PRP$, hair/NN, ./.] 	25
+[The/DT, polar/JJ, bear/NN, is/VBZ, sliding/VBG, on/IN, the/DT, snow/NN, ./.] 	[A/DT, polar/JJ, bear/NN, is/VBZ, sliding/VBG, across/IN, the/DT, snow/NN, ./.] 	26
+[A/DT, woman/NN, is/VBZ, writing/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, swimming/VBG, ./.] 	27
+[Three/CD, men/NNS, are/VBP, playing/VBG, guitars/NNS, ./.] 	[Three/CD, men/NNS, are/VBP, on/IN, stage/NN, playing/VBG, guitars/NNS, ./.] 	28
+[A/DT, cat/NN, is/VBZ, rubbing/VBG, against/IN, baby/NN, 's/POS, face/NN, ./.] 	[A/DT, cat/NN, is/VBZ, rubbing/VBG, against/IN, a/DT, baby/NN, ./.] 	29
+[The/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	30
+[A/DT, man/NN, pours/VBZ, oil/NN, into/IN, a/DT, pot/NN, ./.] 	[A/DT, man/NN, pours/VBZ, wine/NN, in/IN, a/DT, pot/NN, ./.] 	31
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, girl/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	32
+[A/DT, panda/NN, is/VBZ, sliding/VBG, down/RP, a/DT, slide/NN, ./.] 	[A/DT, panda/NN, slides/VBZ, down/RP, a/DT, slide/NN, ./.] 	33
+[A/DT, group/NN, of/IN, men/NNS, play/VBP, soccer/NN, on/IN, the/DT, beach/NN, ./.] 	[A/DT, group/NN, of/IN, boys/NNS, are/VBP, playing/VBG, soccer/NN, on/IN, the/DT, beach/NN, ./.] 	34
+[A/DT, woman/NN, is/VBZ, eating/VBG, something/NN, ./.] 	[A/DT, woman/NN, is/VBZ, eating/VBG, meat/NN, ./.] 	35
+[A/DT, woman/NN, peels/VBZ, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	36
+[A/DT, woman/NN, peels/VBZ, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	37
+[People/NNS, are/VBP, playing/VBG, cricket/NN, ./.] 	[Men/NNS, are/VBP, playing/VBG, cricket/NN, ./.] 	38
+[The/DT, boy/NN, fell/VBD, off/RP, his/PRP$, bike/NN, ./.] 	[A/DT, boy/NN, falls/VBZ, off/RP, his/PRP$, bike/NN, ./.] 	39
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	40
+[The/DT, woman/NN, is/VBZ, playing/VBG, the/DT, flute/NN, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	41
+[The/DT, cougar/NN, is/VBZ, chasing/VBG, the/DT, bear/NN, ./.] 	[A/DT, cougar/NN, is/VBZ, chasing/VBG, a/DT, bear/NN, ./.] 	42
+[A/DT, rabbit/NN, is/VBZ, running/VBG, from/IN, an/DT, eagle/NN, ./.] 	[A/DT, hare/NN, is/VBZ, running/VBG, from/IN, a/DT, eagle/NN, ./.] 	43
+[The/DT, man/NN, cut/VBN, down/RP, a/DT, tree/NN, with/IN, an/DT, axe/NN, ./.] 	[A/DT, man/NN, chops/NNS, down/IN, a/DT, tree/NN, with/IN, an/DT, axe/NN, ./.] 	44
+[The/DT, woman/NN, is/VBZ, frying/VBG, a/DT, breaded/VBN, pork/NN, chop/VBP, ./.] 	[A/DT, woman/NN, is/VBZ, cooking/VBG, a/DT, breaded/VBN, pork/NN, chop/VBP, ./.] 	45
+[One/CD, woman/NN, is/VBZ, measuring/VBG, another/DT, woman/NN, 's/POS, ankle/NN, ./.] 	[A/DT, woman/NN, measures/VBZ, another/DT, woman/NN, 's/POS, ankle/NN, ./.] 	46
+[A/DT, girl/NN, is/VBZ, flying/VBG, a/DT, kite/NN, ./.] 	[A/DT, girl/NN, running/NN, is/VBZ, flying/VBG, a/DT, kite/NN, ./.] 	47
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, mechanical/JJ, bull/NN, ./.] 	[A/DT, man/NN, rode/VBD, a/DT, mechanical/JJ, bull/NN, ./.] 	48
+[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	49
+[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	50
+[A/DT, woman/NN, is/VBZ, dancing/NN, and/CC, singing/NN, with/IN, other/JJ, women/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, and/CC, singing/NN, in/IN, the/DT, rain/NN, ./.] 	51
+[A/DT, man/NN, is/VBZ, finding/VBG, something/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, something/NN, ./.] 	52
+[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, bun/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	53
+[A/DT, man/NN, is/VBZ, pouring/VBG, oil/NN, into/IN, a/DT, pan/NN, ./.] 	[A/DT, man/NN, is/VBZ, pouring/VBG, oil/NN, into/IN, a/DT, skillet/NN, ./.] 	54
+[A/DT, lion/NN, is/VBZ, playing/VBG, with/IN, people/NNS, ./.] 	[A/DT, lion/NN, is/VBZ, playing/VBG, with/IN, two/CD, men/NNS, ./.] 	55
+[A/DT, dog/NN, rides/NNS, a/DT, skateboard/NN, ./.] 	[A/DT, dog/NN, is/VBZ, riding/VBG, a/DT, skateboard/NN, ./.] 	56
+[Someone/NN, is/VBZ, carving/VBG, a/DT, statue/NN, ./.] 	[A/DT, man/NN, is/VBZ, carving/VBG, a/DT, statue/NN, ./.] 	57
+[A/DT, woman/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	58
+[A/DT, woman/NN, peels/VBZ, shrimp/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, shrimp/NN, ./.] 	59
+[A/DT, woman/NN, is/VBZ, frying/JJ, fish/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cooking/JJ, fish/NN, ./.] 	60
+[The/DT, girl/NN, sang/VBD, into/IN, a/DT, microphone/NN, ./.] 	[The/DT, lady/NN, sang/VBD, into/IN, the/DT, microphone/NN, ./.] 	61
+[A/DT, woman/NN, is/VBZ, playing/VBG, an/DT, electric/JJ, guitar/NN, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	62
+[A/DT, baby/NN, tiger/NN, is/VBZ, playing/VBG, with/IN, a/DT, ball/NN, ./.] 	[A/DT, baby/NN, is/VBZ, playing/VBG, with/IN, a/DT, doll/NN, ./.] 	63
+[A/DT, man/NN, is/VBZ, cutting/VBG, up/RP, a/DT, cucumber/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, cucumber/NN, ./.] 	64
+[A/DT, person/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	[A/DT, person/NN, is/VBZ, slicing/VBG, some/DT, meat/NN, ./.] 	65
+[A/DT, person/NN, cuts/VBZ, an/DT, onion/NN, ./.] 	[A/DT, person/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	66
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, harp/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, ./.] 	67
+[A/DT, man/NN, is/VBZ, climbing/VBG, a/DT, rope/NN, ./.] 	[A/DT, man/NN, climbs/VBZ, a/DT, rope/NN, ./.] 	68
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, the/DT, violin/NN, ./.] 	69
+[A/DT, woman/NN, is/VBZ, playing/VBG, the/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	70
+[A/DT, man/NN, is/VBZ, cutting/VBG, up/RP, a/DT, potato/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, up/RP, carrots/NNS, ./.] 	71
+[A/DT, kid/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	72
+[A/DT, boy/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	73
+[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	74
+[A/DT, woman/NN, is/VBZ, cutting/VBG, onions/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, tofu/NN, ./.] 	75
+[A/DT, little/JJ, boy/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, key/JJ, board/NN, ./.] 	76
+[A/DT, man/NN, is/VBZ, riding/VBG, an/DT, electric/JJ, bicycle/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, bicycle/NN, ./.] 	77
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, an/DT, electric/JJ, guitar/NN, ./.] 	78
+[A/DT, dog/NN, licks/VBZ, a/DT, baby/NN, ./.] 	[A/DT, dog/NN, is/VBZ, licking/VBG, a/DT, baby/NN, ./.] 	79
+[Kittens/NNS, are/VBP, eating/VBG, food/NN, ./.] 	[Kittens/NNS, are/VBP, eating/VBG, from/IN, dishes/NNS, ./.] 	80
+[A/DT, woman/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, and/CC, onion/NN, ./.] 	81
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, drums/NNS, ./.] 	82
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, drums/NNS, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	83
+[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, pepper/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, red/JJ, pepper/NN, ./.] 	84
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, drums/NNS, ./.] 	[A/DT, man/NN, plays/VBZ, the/DT, drum/VB, ./.] 	85
+[A/DT, woman/NN, rides/NNS, a/DT, horse/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	86
+[A/DT, man/NN, is/VBZ, eating/VBG, a/DT, banana/NN, by/IN, a/DT, tree/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, a/DT, banana/NN, ./.] 	87
+[A/DT, cat/NN, is/VBZ, playing/VBG, a/DT, key/JJ, board/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, two/CD, keyboards/NNS, ./.] 	88
+[A/DT, man/NN, is/VBZ, speaking/VBG, ./.] 	[A/DT, man/NN, is/VBZ, spitting/VBG, ./.] 	89
+[A/DT, man/NN, chops/NNS, down/IN, a/DT, tree/NN, with/IN, an/DT, axe/NN, ./.] 	[A/DT, man/NN, cut/VBD, a/DT, tree/NN, with/IN, an/DT, axe/NN, ./.] 	90
+[A/DT, kid/NN, plays/VBZ, with/IN, a/DT, toy/NN, phone/NN, ./.] 	[A/DT, little/JJ, boy/NN, plays/VBZ, with/IN, a/DT, toy/NN, phone/NN, ./.] 	91
+[A/DT, woman/NN, is/VBZ, cooking/JJ, eggs/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, cooking/JJ, something/NN, ./.] 	92
+[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, lady/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	93
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, motorcycle/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	94
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, motorcycle/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	95
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, trumpet/NN, ./.] 	96
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, trumpet/NN, ./.] 	97
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, trumpet/NN, ./.] 	98
+[An/DT, animal/NN, is/VBZ, chewing/VBG, on/IN, something/NN, ./.] 	[An/DT, animal/NN, is/VBZ, chewing/VBG, on/IN, a/DT, key/JJ, chain/NN, ./.] 	99
+[A/DT, squirrel/NN, is/VBZ, spinning/VBG, around/RP, in/IN, circles/NNS, ./.] 	[A/DT, squirrel/NN, runs/VBZ, around/IN, in/IN, circles/NNS, ./.] 	100
+[A/DT, man/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	[A/DT, man/NN, cuts/VBZ, an/DT, onion/NN, ./.] 	101
+[A/DT, man/NN, and/CC, a/DT, woman/NN, are/VBP, kissing/VBG, ./.] 	[A/DT, man/NN, and/CC, woman/NN, kiss/NN, ./.] 	102
+[A/DT, man/NN, is/VBZ, getting/VBG, into/IN, a/DT, car/NN, ./.] 	[A/DT, man/NN, is/VBZ, getting/VBG, into/IN, a/DT, car/NN, in/IN, a/DT, garage/NN, ./.] 	103
+[A/DT, man/NN, is/VBZ, cycling/NN, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, ./.] 	104
+[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, ./.] 	105
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, and/CC, singing/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	106
+[A/DT, person/NN, is/VBZ, cutting/VBG, mushrooms/NNS, ./.] 	[A/DT, person/NN, is/VBZ, cutting/VBG, mushrooms/NNS, with/IN, a/DT, knife/NN, ./.] 	107
+[A/DT, man/NN, is/VBZ, slicing/VBG, open/RP, a/DT, fish/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, up/RP, a/DT, fish/NN, ./.] 	108
+[A/DT, tiger/NN, cub/NN, is/VBZ, making/VBG, a/DT, sound/NN, ./.] 	[A/DT, tiger/NN, is/VBZ, walking/VBG, around/RP, ./.] 	109
+[A/DT, person/NN, is/VBZ, slicing/VBG, onions/NNS, ./.] 	[A/DT, person/NN, is/VBZ, peeling/VBG, an/DT, onion/NN, ./.] 	110
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, trumpet/NN, ./.] 	111
+[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, an/DT, apple/NN, ./.] 	112
+[A/DT, pankda/NN, is/VBZ, eating/VBG, bamboo/NN, ./.] 	[A/DT, panda/NN, bear/NN, is/VBZ, eating/VBG, some/DT, bamboo/NN, ./.] 	113
+[A/DT, person/NN, is/VBZ, peeling/VBG, an/DT, onion/NN, ./.] 	[A/DT, person/NN, is/VBZ, peeling/VBG, an/DT, eggplant/NN, ./.] 	114
+[A/DT, monkey/NN, pushes/VBZ, another/DT, monkey/NN, ./.] 	[The/DT, monkey/NN, pushed/VBD, the/DT, other/JJ, monkey/NN, ./.] 	115
+[A/DT, squirrel/NN, runs/VBZ, around/IN, in/IN, circles/NNS, ./.] 	[A/DT, squirrel/NN, is/VBZ, moving/VBG, in/IN, circles/NNS, ./.] 	116
+[A/DT, man/NN, is/VBZ, tying/VBG, his/PRP$, shoe/NN, ./.] 	[A/DT, man/NN, ties/VBZ, his/PRP$, shoe/NN, ./.] 	117
+[A/DT, boy/NN, is/VBZ, singing/NN, and/CC, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	118
+[A/DT, dog/NN, is/VBZ, eating/VBG, water/NN, melon/NN, ./.] 	[A/DT, dog/NN, is/VBZ, eating/VBG, a/DT, piece/NN, of/IN, watermelon/NN, ./.] 	119
+[A/DT, woman/NN, is/VBZ, chopping/VBG, broccoli/NN, ./.] 	[A/DT, woman/NN, is/VBZ, chopping/VBG, broccoli/NN, with/IN, a/DT, knife/NN, ./.] 	120
+[A/DT, man/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	[A/DT, man/NN, peeled/VBD, a/DT, potatoe/NN, ./.] 	121
+[A/DT, woman/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, plays/VBZ, a/DT, guitar/NN, ./.] 	122
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	123
+[A/DT, woman/NN, is/VBZ, slicing/VBG, tomato/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, onion/NN, ./.] 	124
+[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, bun/NN, ./.] 	125
+[A/DT, man/NN, swims/VBZ, underwater/JJ, ./.] 	[A/DT, woman/NN, is/VBZ, swimming/VBG, underwater/JJ, ./.] 	126
+[A/DT, man/NN, and/CC, woman/NN, are/VBP, talking/VBG, ./.] 	[A/DT, man/NN, and/CC, woman/NN, is/VBZ, eating/VBG, ./.] 	127
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, ./.] 	128
+[A/DT, baby/NN, panda/NN, goes/VBZ, down/RP, a/DT, slide/NN, ./.] 	[A/DT, panda/NN, slides/VBZ, down/RP, a/DT, slide/NN, ./.] 	129
+[A/DT, small/JJ, dog/NN, is/VBZ, chasing/VBG, a/DT, yoga/NN, ball/NN, ./.] 	[A/DT, dog/NN, is/VBZ, chasing/VBG, a/DT, ball/NN, ./.] 	130
+[The/DT, men/NNS, are/VBP, playing/VBG, cricket/NN, ./.] 	[The/DT, men/NNS, are/VBP, playing/VBG, basketball/NN, ./.] 	131
+[A/DT, man/NN, rides/NNS, off/RP, on/IN, a/DT, motorcycle/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, on/IN, a/DT, motorcycle/NN, ./.] 	132
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, singing/NN, and/CC, playing/VBG, a/DT, guitar/NN, ./.] 	133
+[The/DT, man/NN, talked/VBN, on/IN, the/DT, telephone/NN, ./.] 	[The/DT, man/NN, is/VBZ, talking/VBG, on/IN, the/DT, phone/NN, ./.] 	134
+[A/DT, man/NN, is/VBZ, singing/NN, and/CC, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	135
+[A/DT, man/NN, is/VBZ, fishing/NN, ./.] 	[A/DT, man/NN, is/VBZ, exercising/VBG, ./.] 	136
+[A/DT, man/NN, is/VBZ, levitating/VBG, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, ./.] 	137
+[A/DT, man/NN, attacks/VBZ, a/DT, woman/NN, ./.] 	[A/DT, man/NN, slaps/VBZ, a/DT, woman/NN, ./.] 	138
+[Two/CD, boys/NNS, are/VBP, driving/VBG, ./.] 	[Two/CD, bays/NNS, are/VBP, dancing/VBG, ./.] 	139
+[A/DT, man/NN, is/VBZ, driving/VBG, a/DT, car/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	140
+[A/DT, man/NN, is/VBZ, playing/VBG, soccer/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, flute/NN, ./.] 	141
+[A/DT, man/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	[A/DT, girl/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	142
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, bicycle/NN, ./.] 	[A/DT, monkey/NN, is/VBZ, riding/VBG, a/DT, bike/NN, ./.] 	143
+[A/DT, man/NN, is/VBZ, slicing/VBG, potatoes/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, potato/NN, ./.] 	144
+[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, potato/NN, ./.] 	145
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[Someoen/NNP, is/VBZ, playing/VBG, guitar/NN, ./.] 	146
+[A/DT, woman/NN, is/VBZ, cutting/VBG, tofu/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	147
+[A/DT, girl/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, girl/NN, is/VBZ, riding/VBG, a/DT, bicycle/NN, ./.] 	148
+[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, leek/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, ginger/NN, ./.] 	149
+[The/DT, man/NN, cut/VBD, a/DT, paper/NN, plate/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, paper/NN, plate/NN, ./.] 	150
+[The/DT, woman/NN, is/VBZ, styling/VBG, her/PRP$, hair/NN, ./.] 	[The/DT, woman/NN, is/VBZ, slicing/VBG, herbs/NNS, ./.] 	151
+[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, flute/NN, ./.] 	152
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, violin/NN, ./.] 	153
+[A/DT, man/NN, is/VBZ, lifting/VBG, weights/NNS, in/IN, a/DT, garage/NN, ./.] 	[A/DT, man/NN, is/VBZ, lifting/VBG, weights/NNS, ./.] 	154
+[A/DT, woman/NN, is/VBZ, slicing/VBG, up/RP, some/DT, meat/NN, ./.] 	[A/DT, woman/NN, is/VBZ, breading/VBG, some/DT, meat/NN, ./.] 	155
+[A/DT, man/NN, is/VBZ, playing/VBG, on/IN, his/PRP$, keyboard/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, piano/NN, ./.] 	156
+[Two/CD, zebras/NNS, play/VBP, in/IN, an/DT, open/JJ, field/NN, ./.] 	[Two/CD, zebras/NNS, are/VBP, playing/VBG, in/IN, a/DT, field/NN, ./.] 	157
+[The/DT, lady/NN, chopped/VBN, up/RP, the/DT, green/JJ, onions/NNS, ./.] 	[The/DT, lady/NN, cut/VBD, up/RP, a/DT, green/JJ, onion/NN, ./.] 	158
+[Someone/NN, is/VBZ, sitring/VBG, noodles/NNS, in/IN, water/NN, ./.] 	[A/DT, woman/NN, is/VBZ, boiling/VBG, noodles/NNS, in/IN, water/NN, ./.] 	159
+[An/DT, animal/NN, is/VBZ, biting/VBG, a/DT, persons/NNS, finger/NN, ./.] 	[A/DT, slow/JJ, loris/NN, is/VBZ, biting/VBG, a/DT, persons/NNS, finger/NN, ./.] 	160
+[Lionel/NNP, Richie/NNP, is/VBZ, dancing/VBG, on/IN, the/DT, ceiling/NN, ./.] 	[Lionel/NNP, Ritchie/NNP, dances/NNS, while/IN, standing/VBG, on/IN, the/DT, ceiling/NN, ./.] 	161
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	[A/DT, person/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	162
+[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, potato/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, some/DT, potato/NN, ./.] 	163
+[A/DT, woman/NN, is/VBZ, playing/VBG, flute/NN, ./.] 	[A/DT, woman/NN, plays/VBZ, on/IN, a/DT, flute/NN, ./.] 	164
+[A/DT, boy/NN, is/VBZ, checking/VBG, a/DT, calender/NN, ./.] 	[A/DT, boy/NN, is/VBZ, looking/VBG, at/IN, a/DT, calendar/NN, ./.] 	165
+[A/DT, woman/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	[A/DT, woman/NN, is/VBZ, chopping/VBG, onions/NNS, ./.] 	166
+[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, man/NN, plays/VBZ, a/DT, guitar/NN, ./.] 	167
+[A/DT, woman/NN, is/VBZ, using/VBG, a/DT, sewing/VBG, machine/NN, ./.] 	[A/DT, woman/NN, is/VBZ, sewing/VBG, on/IN, a/DT, machine/NN, ./.] 	168
+[A/DT, woman/NN, is/VBZ, flipping/VBG, pancakes/NNS, ./.] 	[A/DT, cartoon/NN, chef/NN, is/VBZ, flipping/VBG, pancakes/NNS, ./.] 	169
+[A/DT, man/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, pumpkin/NN, ./.] 	170
+[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, and/CC, woman/NN, is/VBZ, dancing/VBG, ./.] 	171
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, motorcycle/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	172
+[A/DT, man/NN, is/VBZ, running/VBG, on/IN, the/DT, road/NN, ./.] 	[A/DT, car/NN, is/VBZ, driving/VBG, down/RP, the/DT, road/NN, ./.] 	173
+[A/DT, woman/NN, is/VBZ, reading/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, kneading/VBG, dough/NN, ./.] 	174
+[A/DT, woman/NN, is/VBZ, slicing/VBG, garlics/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	175
+[A/DT, man/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, on/IN, a/DT, phone/NN, ./.] 	176
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, bike/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	177
+[A/DT, man/NN, is/VBZ, crying/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	178
+[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, ./.] 	179
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	180
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	181
+[A/DT, man/NN, is/VBZ, speaking/VBG, ./.] 	[A/DT, man/NN, is/VBZ, cooking/NN, ./.] 	182
+[A/DT, man/NN, is/VBZ, spinning/VBG, ./.] 	[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	183
+[A/DT, little/JJ, boy/NN, is/VBZ, singing/NN, and/CC, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, singing/NN, and/CC, playing/VBG, the/DT, guitar/NN, ./.] 	184
+[A/DT, monkey/NN, is/VBZ, swinging/VBG, from/IN, limb/NN, to/TO, limb/NN, ./.] 	[A/DT, monkey/NN, is/VBZ, swinging/VBG, from/IN, tree/NN, to/TO, tree/NN, ./.] 	185
+[The/DT, people/NNS, got/VBD, off/RP, the/DT, train/NN, ./.] 	[The/DT, people/NNS, got/VBD, off/RP, the/DT, train/NN, at/IN, the/DT, station/NN, ./.] 	186
+[The/DT, lady/NN, cracked/VBD, an/DT, egg/NN, into/IN, a/DT, bowl/NN, ./.] 	[The/DT, man/NN, is/VBZ, cracking/VBG, eggs/NNS, into/IN, a/DT, bowl/NN, ./.] 	187
+[A/DT, dog/NN, is/VBZ, jumping/VBG, on/RP, a/DT, trampoline/NN, ./.] 	[A/DT, dog/NN, bounces/VBZ, on/IN, a/DT, trampoline/NN, ./.] 	188
+[A/DT, boy/NN, is/VBZ, playing/VBG, an/DT, instrument/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, trumpet/NN, ./.] 	189
+[A/DT, band/NN, is/VBZ, performing/VBG, on/IN, a/DT, stage/NN, ./.] 	[A/DT, band/NN, is/VBZ, playing/VBG, onstage/RB, ./.] 	190
+[A/DT, woman/NN, plays/VBZ, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, sings/VBZ, and/CC, plays/VBZ, the/DT, guitar/NN, ./.] 	191
+[A/DT, woman/NN, is/VBZ, picking/VBG, a/DT, can/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	192
+[A/DT, man/NN, is/VBZ, climbing/VBG, a/DT, rope/NN, ./.] 	[A/DT, man/NN, climbs/VBZ, up/RP, a/DT, rope/NN, ./.] 	193
+[A/DT, man/NN, is/VBZ, lifting/VBG, a/DT, car/NN, ./.] 	[A/DT, man/NN, is/VBZ, climbing/VBG, a/DT, wall/NN, ./.] 	194
+[Elephants/NNS, are/VBP, walking/VBG, down/RP, a/DT, trail/NN, ./.] 	[A/DT, herd/NN, of/IN, elephants/NNS, are/VBP, walking/VBG, along/IN, a/DT, trail/NN, ./.] 	195
+[A/DT, man/NN, and/CC, woman/NN, are/VBP, driving/VBG, down/IN, the/DT, street/NN, in/IN, a/DT, jeep/NN, ./.] 	[A/DT, man/NN, and/CC, woman/NN, are/VBP, driving/VBG, down/IN, the/DT, road/NN, in/IN, an/DT, open/JJ, air/NN, vehicle/NN, ./.] 	196
+[The/DT, shirtless/JJ, man/NN, sat/VBD, in/IN, a/DT, chair/NN, ./.] 	[A/DT, shirtless/JJ, man/NN, is/VBZ, sitting/VBG, on/IN, a/DT, chair/NN, ./.] 	197
+[A/DT, turtle/NN, is/VBZ, swimming/VBG, in/IN, water/NN, ./.] 	[A/DT, turtle/NN, is/VBZ, walking/VBG, underwater/JJ, ./.] 	198
+[Two/CD, women/NNS, are/VBP, wrestling/VBG, ./.] 	[Two/CD, women/NNS, are/VBP, wrestling/VBG, on/IN, the/DT, floor/NN, ./.] 	199
+[The/DT, puppy/NN, played/VBN, with/IN, a/DT, blue/JJ, tennis/NN, ball/NN, ./.] 	[A/DT, puppy/NN, is/VBZ, playing/VBG, with/IN, a/DT, tennis/NN, ball/NN, ./.] 	200
+[A/DT, kangroo/NN, is/VBZ, eating/VBG, something/NN, ./.] 	[A/DT, kangaroo/NN, is/VBZ, eating/VBG, ./.] 	201
+[A/DT, cat/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	202
+[The/DT, man/NN, cut/VBD, some/DT, carpet/NN, with/IN, a/DT, knife/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, carpet/NN, with/IN, a/DT, knife/NN, ./.] 	203
+[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, motorized/JJ, scooter/NN, down/IN, a/DT, road/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, motor/NN, scooter/NN, ./.] 	204
+[someone/NN, is/VBZ, slicing/VBG, a/DT, vegetable/NN, ./.] 	[Someone/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	205
+[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, ./.] 	206
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, plays/VBZ, the/DT, guitar/NN, ./.] 	207
+[A/DT, dog/NN, licks/VBZ, up/RP, a/DT, baby/NN, 's/POS, drool/NN, ./.] 	[A/DT, dog/NN, licks/VBZ, a/DT, baby/NN, ./.] 	208
+[A/DT, man/NN, is/VBZ, rowing/NN, a/DT, boat/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	209
+[A/DT, young/JJ, woman/NN, is/VBZ, putting/VBG, stickers/NNS, all/DT, over/IN, her/PRP$, face/NN, ./.] 	[A/DT, woman/NN, is/VBZ, applying/VBG, stickers/NNS, to/TO, her/PRP$, face/NN, ./.] 	210
+[A/DT, man/NN, cuts/VBZ, up/RP, potatos/NNS, ./.] 	[A/DT, man/NN, slices/NNS, potatoes/NNS, ./.] 	211
+[A/DT, man/NN, sitting/VBG, on/IN, the/DT, floor/NN, plays/VBZ, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, sitting/VBG, on/IN, the/DT, floor/NN, in/IN, a/DT, room/NN, is/VBZ, strumming/VBG, a/DT, guitar/NN, ./.] 	212
+[A/DT, woman/NN, is/VBZ, chopping/VBG, up/RP, garlic/NN, ./.] 	[The/DT, woman/NN, is/VBZ, dicing/VBG, garlic/NN, ./.] 	213
+[A/DT, puppy/NN, plays/VBZ, with/IN, a/DT, plastic/JJ, container/NN, ./.] 	[The/DT, dog/NN, is/VBZ, playing/VBG, with/IN, a/DT, plastic/JJ, container/NN, ./.] 	214
+[An/DT, animal/NN, run/NN, in/IN, circles/NNS, ./.] 	[A/DT, squirrel/NN, runs/VBZ, in/IN, circles/NNS, ./.] 	215
+[A/DT, man/NN, is/VBZ, walking/VBG, slowly/RB, across/IN, a/DT, rope/NN, bridge/NN, ./.] 	[A/DT, boy/NN, is/VBZ, walking/VBG, across/IN, a/DT, bridge/NN, ./.] 	216
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, seated/VBN, in/IN, a/DT, room/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	217
+[A/DT, man/NN, plays/VBZ, the/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	218
+[A/DT, man/NN, plays/VBZ, the/DT, violin/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, violin/NN, ./.] 	219
+[A/DT, man/NN, plays/VBZ, the/DT, piano/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	220
+[A/DT, man/NN, is/VBZ, eating/VBG, food/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, something/NN, ./.] 	221
+[A/DT, woman/NN, cracks/NNS, two/CD, eggs/NNS, into/IN, a/DT, glass/NN, bowl/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cracking/VBG, an/DT, egg/NN, into/IN, a/DT, bowl/NN, ./.] 	222
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, basketball/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	223
+[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, fish/NN, ./.] 	[A/DT, man/NN, guts/NNS, a/DT, fish/NN, ./.] 	224
+[Two/CD, men/NNS, are/VBP, packing/VBG, suitcases/NNS, into/IN, the/DT, trunk/NN, of/IN, a/DT, car/NN, ./.] 	[The/DT, men/NNS, are/VBP, putting/VBG, suitcases/NNS, into/IN, the/DT, car/NN, 's/POS, trunk/NN, ./.] 	225
+[A/DT, toddler/NN, walks/VBZ, down/RP, a/DT, hallway/NN, ./.] 	[A/DT, little/JJ, girl/NN, is/VBZ, walking/VBG, down/RP, a/DT, hallway/NN, ./.] 	226
+[A/DT, man/NN, pours/VBZ, oil/NN, on/IN, some/DT, tomatos/NNS, ./.] 	[The/DT, man/NN, poured/VBD, oil/NN, on/IN, the/DT, cut/NN, tomatoes/NNS, ./.] 	227
+[A/DT, man/NN, is/VBZ, slicing/VBG, something/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, bun/NN, ./.] 	228
+[A/DT, plane/NN, is/VBZ, landing/NN, ./.] 	[A/DT, animated/JJ, airplane/NN, is/VBZ, landing/NN, ./.] 	229
+[A/DT, woman/NN, is/VBZ, wrapping/VBG, tofu/NN, ./.] 	[A/DT, woman/NN, is/VBZ, balling/VBG, dough/NN, ./.] 	230
+[A/DT, man/NN, is/VBZ, paddling/VBG, a/DT, canoe/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, harp/NN, ./.] 	231
+[A/DT, man/NN, and/CC, woman/NN, are/VBP, walking/VBG, together/RB, through/IN, the/DT, woods/NNS, ./.] 	[A/DT, man/NN, and/CC, woman/NN, are/VBP, walking/VBG, arm/NN, in/IN, arm/NN, through/IN, a/DT, wooded/JJ, area/NN, ./.] 	232
+[A/DT, cat/NN, is/VBZ, eating/VBG, some/DT, corn/NN, ./.] 	[A/DT, cat/NN, is/VBZ, eating/VBG, corn/NN, on/IN, the/DT, cob/NN, ./.] 	233
+[The/DT, woman/NN, picked/VBD, up/RP, the/DT, kangaroo/NN, ./.] 	[A/DT, woman/NN, picks/VBZ, up/RP, a/DT, baby/NN, kangaroo/NN, ./.] 	234
+[Fish/NN, are/VBP, swimming/VBG, ./.] 	[A/DT, fish/NN, is/VBZ, swimming/VBG, ./.] 	235
+[Two/CD, women/NNS, mix/VBP, something/NN, in/IN, a/DT, food/NN, processor/NN, ./.] 	[Two/CD, women/NNS, make/VBP, something/NN, in/IN, a/DT, blender/NN, ./.] 	236
+[A/DT, panda/NN, is/VBZ, climbing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, climbing/VBG, a/DT, rope/NN, ./.] 	237
+[A/DT, person/NN, is/VBZ, surfing/VBG, a/DT, large/JJ, wave/NN, ./.] 	[A/DT, person/NN, is/VBZ, surfing/VBG, ./.] 	238
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, stabbing/VBG, a/DT, target/NN, ./.] 	239
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, in/IN, a/DT, band/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	240
+[The/DT, man/NN, spread/VBN, butter/NN, on/IN, the/DT, loaf/NN, of/IN, bread/NN, ./.] 	[A/DT, man/NN, is/VBZ, spreading/VBG, butter/NN, onto/IN, bread/NN, ./.] 	241
+[A/DT, person/NN, is/VBZ, boiling/VBG, noodles/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, boiling/VBG, noodles/NNS, in/IN, water/NN, ./.] 	242
+[A/DT, man/NN, is/VBZ, eating/VBG, a/DT, food/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, a/DT, piece/NN, of/IN, bread/NN, ./.] 	243
+[A/DT, group/NN, of/IN, people/NNS, dance/NN, on/IN, a/DT, hill/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, are/VBP, dancing/VBG, ./.] 	244
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, pasta/NN, ./.] 	245
+[A/DT, man/NN, is/VBZ, dancing/VBG, outside/RB, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, flute/NN, ./.] 	246
+[A/DT, woman/NN, is/VBZ, feeding/VBG, a/DT, man/NN, ./.] 	[A/DT, woman/NN, is/VBZ, mixing/VBG, meat/NN, ./.] 	247
+[A/DT, man/NN, is/VBZ, putting/VBG, a/DT, pan/NN, into/IN, an/DT, oven/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	248
+[A/DT, man/NN, is/VBZ, kicking/VBG, pots/NNS, of/IN, water/NN, ./.] 	[A/DT, man/NN, is/VBZ, picking/VBG, flowers/NNS, ./.] 	249
+[A/DT, woman/NN, is/VBZ, sitting/VBG, at/IN, a/DT, desk/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, donkey/NN, ./.] 	250
+[Medics/NNPS, transport/VBP, a/DT, patient/NN, on/IN, a/DT, stretcher/NN, ./.] 	[A/DT, doctor/NN, rushes/VBZ, a/DT, patient/NN, on/IN, a/DT, stretcher/NN, ./.] 	251
+[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, pipe/NN, with/IN, scissors/NNS, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, carpet/NN, with/IN, a/DT, knife/NN, ./.] 	252
+[A/DT, woman/NN, is/VBZ, playing/VBG, a/DT, flute/NN, on/IN, stage/NN, ./.] 	[The/DT, woman/NN, is/VBZ, playing/VBG, the/DT, flute/NN, ./.] 	253
+[A/DT, woman/NN, is/VBZ, dancing/VBG, in/IN, the/DT, rain/NN, ./.] 	[A/DT, woman/NN, dances/NNS, in/IN, the/DT, rain/NN, out/IN, side/NN, ./.] 	254
+[Two/CD, baby/NN, pandas/NNS, are/VBP, playing/VBG, ./.] 	[Two/CD, pandas/NNS, are/VBP, laying/VBG, together/RB, ./.] 	255
+[Kids/NNS, are/VBP, dancing/VBG, on/IN, stage/NN, ./.] 	[Some/DT, people/NNS, are/VBP, dancing/VBG, on/IN, stage/NN, ./.] 	256
+[A/DT, baby/NN, is/VBZ, laughing/VBG, ./.] 	[A/DT, baby/NN, is/VBZ, laughing/VBG, and/CC, giggling/VBG, ./.] 	257
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	258
+[A/DT, woman/NN, is/VBZ, taking/VBG, a/DT, bath/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	259
+[A/DT, man/NN, is/VBZ, folding/JJ, paper/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, pepper/NN, ./.] 	260
+[Three/CD, women/NNS, are/VBP, dancing/VBG, ./.] 	[The/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	261
+[A/DT, man/NN, plays/VBZ, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, plays/VBZ, the/DT, piano/NN, ./.] 	262
+[The/DT, cats/NNS, are/VBP, playing/VBG, with/IN, each/DT, other/JJ, ./.] 	[Two/CD, cats/NNS, are/VBP, fighting/VBG, each/DT, other/JJ, ./.] 	263
+[A/DT, person/NN, is/VBZ, writing/VBG, ./.] 	[A/DT, person/NN, is/VBZ, writing/VBG, with/IN, a/DT, pencil/NN, ./.] 	264
+[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, meat/NN, ./.] 	[A/DT, woman/NN, is/VBZ, singing/NN, on/IN, stage/NN, ./.] 	265
+[A/DT, woman/NN, is/VBZ, taking/VBG, a/DT, picture/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	266
+[A/DT, man/NN, mixes/VBZ, vegetables/NNS, in/IN, a/DT, pot/NN, ./.] 	[A/DT, person/NN, is/VBZ, stirring/VBG, vegetables/NNS, in/IN, a/DT, pot/NN, ./.] 	267
+[A/DT, man/NN, is/VBZ, running/VBG, ./.] 	[A/DT, man/NN, is/VBZ, running/VBG, down/RP, a/DT, road/NN, ./.] 	268
+[The/DT, woman/NN, is/VBZ, rolling/VBG, dough/NN, ./.] 	[A/DT, woman/NN, is/VBZ, flouring/VBG, and/CC, rolling/VBG, dough/NN, ./.] 	269
+[A/DT, woman/NN, is/VBZ, adding/VBG, spices/NNS, on/IN, a/DT, meat/NN, ./.] 	[Woman/NNP, is/VBZ, adding/VBG, sugar/NN, to/TO, meat/NN, ./.] 	270
+[A/DT, woman/NN, is/VBZ, adding/VBG, oil/NN, on/IN, fishes/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, pouring/VBG, water/NN, on/IN, fish/NN, ./.] 	271
+[A/DT, young/JJ, boy/NN, is/VBZ, holding/VBG, a/DT, guitar/NN, ./.] 	[A/DT, little/JJ, boy/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	272
+[A/DT, cheetah/NN, is/VBZ, running/VBG, ./.] 	[A/DT, cheetah/NN, is/VBZ, running/VBG, across/IN, a/DT, field/NN, ./.] 	273
+[The/DT, man/NN, is/VBZ, eating/VBG, pizza/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, a/DT, slice/NN, of/IN, pizza/NN, ./.] 	274
+[An/DT, orangutan/NN, is/VBZ, riding/VBG, a/DT, bus/NN, ./.] 	[A/DT, monkey/NN, is/VBZ, riding/VBG, on/IN, a/DT, bus/NN, ./.] 	275
+[A/DT, man/NN, and/CC, a/DT, woman/NN, talk/NN, in/IN, a/DT, diner/NN, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, are/VBP, riding/VBG, on/IN, a/DT, bicycle/NN, ./.] 	276
+[A/DT, woman/NN, is/VBZ, talking/VBG, on/IN, a/DT, cell/NN, phone/NN, ./.] 	[A/DT, man/NN, and/CC, woman/NN, are/VBP, talking/VBG, on/IN, the/DT, phone/NN, ./.] 	277
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, cleaning/VBG, a/DT, glass/NN, door/NN, ./.] 	278
+[A/DT, girl/NN, is/VBZ, singing/NN, and/CC, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, young/JJ, man/NN, is/VBZ, singing/NN, while/IN, playing/VBG, the/DT, guitar/NN, ./.] 	279
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, singing/NN, while/IN, playing/VBG, the/DT, guitar/NN, ./.] 	280
+[The/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, woman/NN, is/VBZ, using/VBG, a/DT, hoe/NN, ./.] 	281
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, driving/VBG, a/DT, car/NN, ./.] 	282
+[A/DT, girl/NN, is/VBZ, communicating/VBG, with/IN, sign/NN, language/NN, ./.] 	[A/DT, young/JJ, girl/NN, is/VBZ, using/VBG, sign/NN, language/NN, ./.] 	283
+[A/DT, woman/NN, is/VBZ, doing/VBG, weight/NN, exercises/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, doing/VBG, her/PRP$, hair/NN, ./.] 	284
+[A/DT, man/NN, is/VBZ, getting/VBG, inside/IN, a/DT, car/NN, ./.] 	[An/DT, elderly/JJ, man/NN, is/VBZ, getting/VBG, into/IN, a/DT, red/JJ, car/NN, ./.] 	285
+[A/DT, big/JJ, green/JJ, ball/NN, knocks/VBZ, a/DT, potato/NN, over/IN, ./.] 	[A/DT, large/JJ, green/JJ, ball/NN, hits/VBZ, a/DT, potato/NN, ./.] 	286
+[A/DT, man/NN, is/VBZ, drilling/VBG, a/DT, hole/NN, in/IN, a/DT, board/NN, ./.] 	[Someone/NN, is/VBZ, drilling/VBG, a/DT, hole/NN, in/IN, a/DT, piece/NN, of/IN, wood/NN, ./.] 	287
+[A/DT, cat/NN, is/VBZ, playing/VBG, keyboards/NNS, ./.] 	[A/DT, cat/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	288
+[Two/CD, dogs/NNS, swim/VBP, in/IN, a/DT, pool/NN, ./.] 	[Dogs/NNS, are/VBP, swimming/VBG, in/IN, a/DT, pool/NN, ./.] 	289
+[A/DT, man/NN, is/VBZ, fitting/JJ, silencer/NN, on/IN, a/DT, pistol/NN, ./.] 	[A/DT, man/NN, is/VBZ, adding/VBG, a/DT, silencer/NN, to/TO, a/DT, gun/NN, ./.] 	290
+[The/DT, man/NN, used/VBN, a/DT, chopper/NN, to/TO, chop/VB, the/DT, onion/NN, ./.] 	[The/DT, man/NN, used/VBN, a/DT, machine/NN, to/TO, chop/VB, up/RP, a/DT, potatoe/NN, ./.] 	291
+[A/DT, woman/NN, slices/NNS, tofu/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, tofu/NN, ./.] 	292
+[A/DT, herd/NN, of/IN, deer/NNS, are/VBP, crossing/VBG, the/DT, street/NN, ./.] 	[A/DT, herd/NN, of/IN, caribou/NN, are/VBP, crossing/VBG, a/DT, road/NN, ./.] 	293
+[The/DT, person/NN, is/VBZ, riding/VBG, the/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	294
+[Someone/NN, is/VBZ, feeding/VBG, a/DT, animal/NN, ./.] 	[Someone/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	295
+[Someone/NN, is/VBZ, slicing/VBG, tortila/NN, 's/POS, ./.] 	[Someone/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	296
+[Someone/NN, is/VBZ, mixing/VBG, ingrediants/NNS, ./.] 	[Someone/NN, is/VBZ, sewing/VBG, things/NNS, ./.] 	297
+[A/DT, rooster/NN, pecks/NNS, at/IN, a/DT, dead/JJ, mouse/NN, ./.] 	[A/DT, chicken/NN, is/VBZ, pecking/VBG, at/IN, a/DT, dead/JJ, mouse/NN, ./.] 	298
+[A/DT, woman/NN, holds/VBZ, a/DT, kangaroo/NN, ./.] 	[A/DT, woman/NN, is/VBZ, picking/VBG, up/RP, a/DT, kangaroo/NN, ./.] 	299
+[A/DT, man/NN, is/VBZ, playing/VBG, with/IN, frogs/NNS] 	[A/DT, cat/NN, is/VBZ, playing/VBG, with/IN, a/DT, camera/NN, ./.] 	300
+[Two/CD, men/NNS, are/VBP, talking/VBG, ./.] 	[Two/CD, men/NNS, are/VBP, playing/VBG, guitar/NN, ./.] 	301
+[Two/CD, little/JJ, girls/NNS, are/VBP, talking/VBG, on/IN, the/DT, phone/NN, ./.] 	[A/DT, little/JJ, girl/NN, is/VBZ, walking/VBG, down/RP, the/DT, street/NN, ./.] 	302
+[A/DT, man/NN, is/VBZ, cutting/VBG, apple/NN, by/IN, his/PRP$, hand/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, carpet/NN, with/IN, a/DT, knife/NN, ./.] 	303
+[A/DT, man/NN, spreads/VBZ, butter/NN, on/IN, a/DT, big/JJ, piece/NN, of/IN, bread/NN, ./.] 	[A/DT, man/NN, is/VBZ, smearing/VBG, butter/NN, on/IN, a/DT, slice/NN, of/IN, garlic/JJ, bread/NN, ./.] 	304
+[A/DT, man/NN, is/VBZ, running/VBG, across/IN, a/DT, high/JJ, wire/NN, ./.] 	[A/DT, man/NN, is/VBZ, running/VBG, on/IN, rope/NN, ./.] 	305
+[Someone/NN, is/VBZ, stirring/VBG, chili/NNS, in/IN, a/DT, kettle/NN, ./.] 	[Someone/NN, is/VBZ, stirring/VBG, a/DT, pot/NN, of/IN, chili/NNS, with/IN, a/DT, spoon/NN, ./.] 	306
+[The/DT, woman/NN, is/VBZ, cracking/VBG, eggs/NNS, into/IN, a/DT, bowl/NN, ./.] 	[The/DT, lady/NN, broke/VBD, raw/JJ, eggs/NNS, into/IN, a/DT, bowl/NN, ./.] 	307
+[A/DT, man/NN, is/VBZ, mowing/VBG, a/DT, lawn/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, lemon/JJ, ./.] 	308
+[A/DT, man/NN, is/VBZ, opening/VBG, a/DT, door/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	309
+[A/DT, man/NN, is/VBZ, opening/VBG, a/DT, door/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	310
+[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	311
+[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, potato/NN, into/IN, pieces/NNS, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, potato/NN, ./.] 	312
+[The/DT, woman/NN, is/VBZ, cutting/VBG, cooked/VBN, octopus/NN, ./.] 	[A/DT, woman/NN, is/VBZ, chopping/VBG, octopus/NN, ./.] 	313
+[A/DT, man/NN, is/VBZ, cutting/VBG, paper/NN, with/IN, a/DT, sword/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, tomato/NN, ./.] 	314
+[A/DT, man/NN, is/VBZ, punching/VBG, through/IN, boards/NNS, ./.] 	[A/DT, dog/NN, is/VBZ, running/VBG, through/IN, water/NN, ./.] 	315
+[A/DT, woman/NN, puts/VBZ, flour/NN, on/IN, a/DT, piece/NN, of/IN, meat/NN, ./.] 	[A/DT, woman/NN, is/VBZ, putting/VBG, flour/NN, onto/IN, some/DT, meat/NN, ./.] 	316
+[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, bread/NN, ./.] 	317
+[Someone/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	318
+[Two/CD, foxes/NNS, are/VBP, eating/VBG, from/IN, a/DT, plate/NN, on/IN, a/DT, brick/NN, patio/NN, ./.] 	[Foxes/NNS, are/VBP, eating/VBG, from/IN, a/DT, plate/NN, ./.] 	319
+[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, key-board/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	320
+[A/DT, person/NN, plays/VBZ, a/DT, keyboard/NN, ./.] 	[Someone/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, ./.] 	321
+[A/DT, boy/NN, studies/NNS, a/DT, calendar/NN, ./.] 	[A/DT, boy/NN, is/VBZ, looking/VBG, at/IN, a/DT, calendar/NN, ./.] 	322
+[A/DT, man/NN, is/VBZ, shooting/VBG, a/DT, gun/NN, ./.] 	[A/DT, man/NN, is/VBZ, spitting/VBG, ./.] 	323
+[Someone/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[Someoen/NNP, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	324
+[A/DT, man/NN, is/VBZ, talking/VBG, on/IN, a/DT, phone/NN, ./.] 	[A/DT, man/NN, is/VBZ, singing/VBG, to/TO, a/DT, woman/NN, ./.] 	325
+[A/DT, man/NN, is/VBZ, swimming/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, meat/NN, ./.] 	326
+[The/DT, ballerina/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	327
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, plays/VBZ, an/DT, acoustic/JJ, guitar/NN, ./.] 	328
+[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, pumpkin/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, an/DT, elephant/NN, ./.] 	329
+[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, kneading/VBG, dough/NN, ./.] 	330
+[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, violin/NN, ./.] 	331
+[A/DT, woman/NN, is/VBZ, cracking/VBG, eggs/NNS, into/IN, a/DT, bowl/NN, ./.] 	[A/DT, woman/NN, is/VBZ, placing/VBG, skewers/NNS, onto/IN, a/DT, rack/NN, ./.] 	332
+[A/DT, car/NN, is/VBZ, moving/VBG, through/IN, a/DT, road/NN, ./.] 	[A/DT, car/NN, is/VBZ, driving/VBG, down/RP, the/DT, road/NN, ./.] 	333
+[A/DT, woman/NN, is/VBZ, slicing/VBG, some/DT, tomatoes/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, chopping/VBG, a/DT, potato/NN, ./.] 	334
+[Someone/NN, is/VBZ, greasing/VBG, a/DT, pan/NN, ./.] 	[Smeone/NNP, is/VBZ, laying/VBG, down/RP, ./.] 	335
+[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, draining/VBG, pasta/NN, ./.] 	336
+[A/DT, woman/NN, is/VBZ, drinking/VBG, vodka/NN, ./.] 	[A/DT, woman/NN, is/VBZ, exercising/VBG, ./.] 	337
+[A/DT, woman/NN, is/VBZ, water/NN, skiing/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, fish/NN, ./.] 	338
+[A/DT, man/NN, is/VBZ, playing/VBG, an/DT, electronic/JJ, keyboard/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	339
+[A/DT, woman/NN, is/VBZ, cutting/VBG, meat/NN, into/IN, pieces/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, up/RP, some/DT, meat/NN, ./.] 	340
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, a/DT, banana/NN, ./.] 	341
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, scooter/NN, ./.] 	342
+[A/DT, man/NN, is/VBZ, rinsing/VBG, a/DT, steak/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	343
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, man/NN, played/VBD, the/DT, guitar/NN, ./.] 	344
+[A/DT, man/NN, is/VBZ, selling/VBG, items/NNS, ./.] 	[A/DT, man/NN, is/VBZ, cleaning/VBG, the/DT, house/NN, ./.] 	345
+[A/DT, man/NN, is/VBZ, jumping/VBG, into/IN, water/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, paper/NN, ./.] 	346
+[A/DT, woman/NN, is/VBZ, picking/VBG, a/DT, can/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	347
+[A/DT, man/NN, is/VBZ, jumping/VBG, a/DT, wall/NN, ./.] 	[A/DT, man/NN, jumps/VBZ, onto/IN, a/DT, short/JJ, wall/NN, ./.] 	348
+[Runners/NNS, race/NN, around/RB, a/DT, track/NN, ./.] 	[Runners/NNS, compete/VBP, in/IN, a/DT, race/NN, ./.] 	349
+[A/DT, man/NN, is/VBZ, kicking/VBG, a/DT, soccer/NN, ball/NN, ./.] 	[A/DT, man/NN, is/VBZ, mixing/VBG, a/DT, bowl/NN, ./.] 	350
+[A/DT, woman/NN, is/VBZ, frying/VBG, something/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	351
+[A/DT, cat/NN, is/VBZ, licking/VBG, a/DT, sucker/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, cucumber/NN, ./.] 	352
+[A/DT, woman/NN, is/VBZ, dancing/VBG, by/IN, a/DT, fire/NN, ./.] 	[A/DT, woman/NN, is/VBZ, taking/VBG, a/DT, bath/NN, ./.] 	353
+[A/DT, man/NN, puts/VBZ, three/CD, pieces/NNS, of/IN, meat/NN, into/IN, a/DT, pan/NN, ./.] 	[A/DT, man/NN, is/VBZ, putting/VBG, meat/NN, in/IN, a/DT, pan/NN, ./.] 	354
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, guy/NN, is/VBZ, playing/VBG, an/DT, instrument/NN, ./.] 	355
+[The/DT, man/NN, is/VBZ, slicing/VBG, a/DT, fish/NN, open/JJ, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, potato/NN, ./.] 	356
+[A/DT, woman/NN, is/VBZ, cutting/VBG, an/DT, onion/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cleaning/VBG, a/DT, garden/NN, ./.] 	357
+[Butter/NN, is/VBZ, melting/VBG, in/IN, a/DT, pan/NN, ./.] 	[A/DT, man/NN, is/VBZ, melting/JJ, butter/NN, in/IN, a/DT, pan/NN, ./.] 	358
+[Some/DT, men/NNS, are/VBP, sawing/VBG, ./.] 	[Men/NNS, are/VBP, sawing/VBG, logs/NNS, ./.] 	359
+[Three/CD, boys/NNS, are/VBP, dancing/VBG, ./.] 	[Kids/NNS, are/VBP, dancing/VBG, ./.] 	360
+[A/DT, woman/NN, is/VBZ, playing/VBG, a/DT, game/NN, with/IN, a/DT, man/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, piano/NN, ./.] 	361
+[The/DT, man/NN, is/VBZ, driving/VBG, a/DT, white/JJ, car/NN, ./.] 	[A/DT, man/NN, is/VBZ, giving/VBG, an/DT, interview/NN, ./.] 	362
+[A/DT, young/JJ, man/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, prawn/NN, ./.] 	363
+[A/DT, car/NN, is/VBZ, driven/VBN, down/IN, the/DT, road/NN, ./.] 	[A/DT, girl/NN, is/VBZ, walking/VBG, down/RP, a/DT, road/NN, ./.] 	364
+[A/DT, woman/NN, is/VBZ, mixing/VBG, ingrediants/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, mixing/VBG, food/NN, in/IN, a/DT, bowl/NN, ./.] 	365
+[A/DT, man/NN, drove/VBD, his/PRP$, car/NN, ./.] 	[A/DT, man/NN, is/VBZ, driving/VBG, a/DT, car/NN, ./.] 	366
+[A/DT, car/NN, backs/VBZ, out/IN, of/IN, a/DT, space/NN, ./.] 	[A/DT, car/NN, is/VBZ, backing/VBG, out/IN, of/IN, a/DT, blocked/VBN, lane/NN, ./.] 	367
+[Someone/NN, is/VBZ, shredding/VBG, cabbage/NN, leaves/VBZ, with/IN, a/DT, knife/NN, ./.] 	[Someone/NN, is/VBZ, chopping/VBG, some/DT, cabbage/NN, leaves/VBZ, ./.] 	368
+[A/DT, man/NN, puts/VBZ, some/DT, cheese/NN, on/IN, a/DT, pizza/NN, ./.] 	[The/DT, man/NN, sprinkled/VBN, cheese/NN, on/IN, the/DT, pizza/NN, ./.] 	369
+[The/DT, boy/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, boy/NN, plays/VBZ, a/DT, piano/NN, ./.] 	370
+[The/DT, man/NN, is/VBZ, kissing/VBG, and/CC, hugging/VBG, the/DT, woman/NN, ./.] 	[A/DT, man/NN, is/VBZ, hugging/VBG, and/CC, kissing/VBG, a/DT, woman/NN, ./.] 	371
+[The/DT, man/NN, played/VBD, his/PRP$, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	372
+[A/DT, slow/JJ, lori/NNS, walks/VBZ, around/RB, ./.] 	[A/DT, animal/NN, is/VBZ, walking/VBG, around/RP, ./.] 	373
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, ./.] 	374
+[A/DT, man/NN, is/VBZ, walking/VBG, on/IN, a/DT, rope/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, mo-pad/NN, ./.] 	375
+[A/DT, little/JJ, boy/NN, is/VBZ, vacuuming/VBG, the/DT, floor/NN, ./.] 	[A/DT, boy/NN, is/VBZ, vacuuming/VBG, ./.] 	376
+[A/DT, girl/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, band/NN, is/VBZ, playing/VBG, on/IN, a/DT, stage/NN, ./.] 	377
+[People/NNS, step/VB, off/RP, a/DT, train/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, get/VBP, off/RP, a/DT, train/NN, ./.] 	378
+[A/DT, woman/NN, is/VBZ, sewing/VBG, on/IN, a/DT, machine/NN, ./.] 	[A/DT, woman/NN, is/VBZ, breading/VBG, some/DT, meat/NN, ./.] 	379
+[A/DT, dog/NN, is/VBZ, looking/VBG, into/IN, swimming/VBG, pool/NN, ./.] 	[A/DT, dog/NN, is/VBZ, walking/VBG, around/IN, a/DT, pool/NN, ./.] 	380
+[A/DT, man/NN, is/VBZ, buttering/VBG, a/DT, piece/NN, of/IN, bread/NN, ./.] 	[A/DT, man/NN, is/VBZ, applying/VBG, butter/NN, to/TO, bread/NN, ./.] 	381
+[A/DT, woman/NN, is/VBZ, applying/VBG, eye/NN, liner/NN, to/TO, her/PRP$, eyelid/NN, using/VBG, an/DT, eye/NN, pencil/NN, ./.] 	[A/DT, woman/NN, is/VBZ, applying/VBG, cosmetics/NNS, to/TO, her/PRP$, eyelid/NN, ./.] 	382
+[A/DT, man/NN, is/VBZ, cutting/VBG, tomatoes/NNS, into/IN, pieces/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, some/DT, vegetables/NNS, ./.] 	383
+[A/DT, train/NN, is/VBZ, moving/VBG, ./.] 	[A/DT, man/NN, is/VBZ, doing/VBG, yoga/NN, ./.] 	384
+[Three/CD, teenage/JJ, girls/NNS, danced/VBD, in/IN, the/DT, room/NN, ./.] 	[Some/DT, teenage/JJ, girls/NNS, are/VBP, dancing/VBG, for/IN, the/DT, camera/NN, ./.] 	385
+[A/DT, lion/NN, is/VBZ, walking/VBG, ./.] 	[A/DT, lion/NN, is/VBZ, pacing/NN, in/IN, a/DT, pen/NN, ./.] 	386
+[A/DT, man/NN, shooting/VBG, a/DT, car/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, potato/NN, ./.] 	387
+[A/DT, man/NN, is/VBZ, making/VBG, a/DT, bed/NN, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	388
+[A/DT, black/JJ, horse/NN, is/VBZ, running/VBG, around/RB, ./.] 	[The/DT, horse/NN, is/VBZ, running/VBG, ./.] 	389
+[Someone/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, onion/NN, ./.] 	390
+[A/DT, woman/NN, is/VBZ, deveining/VBG, shrimp/NN, ./.] 	[A/DT, man/NN, is/VBZ, dancing/VBG, in/IN, rain/NN, ./.] 	391
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, woman/NN, is/VBZ, washing/VBG, a/DT, freezer/NN, ./.] 	392
+[A/DT, man/NN, plays/VBZ, a/DT, keyboard/NN, ./.] 	[A/DT, person/NN, is/VBZ, playing/VBG, the/DT, keyboard/NN, ./.] 	393
+[A/DT, man/NN, walks/VBZ, down/RP, a/DT, path/NN, ./.] 	[A/DT, man/NN, walks/VBZ, across/IN, a/DT, tight/JJ, rope/NN, ./.] 	394
+[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, jalepeno/NN, ./.] 	395
+[A/DT, dog/NN, is/VBZ, barking/VBG, at/IN, a/DT, ball/NN, ./.] 	[A/DT, dog/NN, swims/VBZ, after/IN, a/DT, tennis/NN, ball/NN, ./.] 	396
+[A/DT, woman/NN, is/VBZ, playing/VBG, in/IN, the/DT, ocean/NN, ./.] 	[A/DT, woman/NN, is/VBZ, preparing/VBG, shrimp/NN, to/TO, cook/VB, ./.] 	397
+[A/DT, kid/NN, runs/VBZ, away/RB, from/IN, a/DT, fish/NN, swinging/VBG, around/RP, on/IN, a/DT, fishing/NN, pole/NN, ./.] 	[A/DT, little/JJ, kid/NN, is/VBZ, running/VBG, around/RP, a/DT, fishing/NN, pole/NN, ./.] 	398
+[A/DT, man/NN, is/VBZ, walking/VBG, along/IN, a/DT, path/NN, through/IN, wilderness/NN, ./.] 	[A/DT, man/NN, is/VBZ, walking/VBG, down/RP, a/DT, road/NN, ./.] 	399
+[An/DT, elderly/JJ, man/NN, is/VBZ, speaking/VBG, at/IN, a/DT, podium/NN, ./.] 	[A/DT, man/NN, is/VBZ, making/VBG, a/DT, speech/NN, at/IN, the/DT, podium/NN, ./.] 	400
+[A/DT, person/NN, is/VBZ, playing/VBG, an/DT, electronic/JJ, keyboard/NN, ./.] 	[A/DT, kid/NN, is/VBZ, playing/VBG, keyboard/NN, ./.] 	401
+[A/DT, man/NN, riding/VBG, a/DT, horse/NN, in/IN, slow/JJ, motion/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	402
+[A/DT, person/NN, is/VBZ, cutting/VBG, some/DT, burrata/NN, cheese/NN, ./.] 	[The/DT, person/NN, is/VBZ, slicing/VBG, cheese/NN, ./.] 	403
+[The/DT, man/NN, is/VBZ, shooting/VBG, an/DT, automatic/JJ, rifle/NN, ./.] 	[A/DT, man/NN, is/VBZ, shooting/VBG, a/DT, gun/NN, ./.] 	404
+[A/DT, rabbit/NN, is/VBZ, playing/VBG, with/IN, a/DT, toy/NN, rabbit/NN, ./.] 	[A/DT, bunny/NN, is/VBZ, playing/VBG, with/IN, a/DT, stuffed/VBN, bunny/NN, ./.] 	405
+[A/DT, plane/NN, rides/NNS, on/IN, a/DT, road/NN, ./.] 	[An/DT, airplane/NN, moves/VBZ, along/IN, a/DT, runway/NN, ./.] 	406
+[A/DT, man/NN, is/VBZ, crushing/VBG, garlic/JJ, with/IN, the/DT, back/NN, of/IN, a/DT, knife/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, meat/NN, with/IN, a/DT, knife/NN, ./.] 	407
+[A/DT, woman/NN, is/VBZ, filing/VBG, her/PRP$, fingernails/NNS, with/IN, an/DT, emery/NN, board/NN, ./.] 	[A/DT, woman/NN, is/VBZ, feeding/VBG, her/PRP$, baby/NN, with/IN, a/DT, bottle/NN, ./.] 	408
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, skateboard/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, potato/NN, ./.] 	409
+[A/DT, woman/NN, is/VBZ, taking/VBG, a/DT, shower/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	410
+[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	411
+[A/DT, man/NN, is/VBZ, holding/VBG, a/DT, leaf/NN, ./.] 	[A/DT, monkey/NN, is/VBZ, fighting/VBG, a/DT, man/NN, ./.] 	412
+[A/DT, woman/NN, is/VBZ, peeling/VBG, shrimp/NN, ./.] 	[A/DT, man/NN, is/VBZ, squeezing/VBG, water/NN, ./.] 	413
+[A/DT, man/NN, is/VBZ, rowing/NN, a/DT, boat/NN, ./.] 	[A/DT, man/NN, is/VBZ, shooting/VBG, off/RP, a/DT, gun/NN, ./.] 	414
+[A/DT, man/NN, is/VBZ, swinging/VBG, from/IN, a/DT, rope/NN, attached/VBN, to/TO, the/DT, ceiling/NN, ./.] 	[A/DT, man/NN, is/VBZ, swinging/VBG, on/IN, a/DT, rope/NN, ./.] 	415
+[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, on/IN, a/DT, beach/NN, ./.] 	[A/DT, man/NN, is/VBZ, carrying/VBG, another/DT, man/NN, on/IN, his/PRP$, back/NN, ./.] 	416
+[A/DT, man/NN, holds/VBZ, a/DT, small/JJ, animal/NN, in/IN, one/CD, hand/NN, ./.] 	[A/DT, man/NN, shows/VBZ, off/RP, a/DT, small/JJ, monkey/NN, ./.] 	417
+[A/DT, person/NN, is/VBZ, folding/JJ, a/DT, square/JJ, paper/NN, piece/NN, ./.] 	[A/DT, man/NN, is/VBZ, folding/JJ, paper/NN, ./.] 	418
+[A/DT, person/NN, is/VBZ, frying/JJ, meat/NN, in/IN, a/DT, pan/NN, ./.] 	[A/DT, person/NN, is/VBZ, holding/VBG, a/DT, skunk/NN, ./.] 	419
+[A/DT, man/NN, shoots/VBZ, a/DT, man/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, pistol/NN, shoots/VBZ, another/DT, man/NN, ./.] 	420
+[A/DT, man/NN, plays/VBZ, the/DT, guitar/NN, ./.] 	[The/DT, man/NN, sang/VBD, and/CC, played/VBD, his/PRP$, guitar/NN, ./.] 	421
+[A/DT, man/NN, is/VBZ, sitting/VBG, and/CC, smoking/NN, ./.] 	[A/DT, man/NN, is/VBZ, smoking/VBG, a/DT, cigarette/NN, ./.] 	422
+[A/DT, chimpanzee/NN, is/VBZ, hurting/VBG, a/DT, woman/NN, ./.] 	[A/DT, man/NN, is/VBZ, driving/VBG, a/DT, car/NN, ./.] 	423
+[The/DT, woman/NN, is/VBZ, peeling/VBG, shrimp/NN, ./.] 	[The/DT, man/NN, is/VBZ, holding/VBG, a/DT, lemur/NN, ./.] 	424
+[A/DT, guy/NN, is/VBZ, playing/VBG, hackysack/NN] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, key-board/NN, ./.] 	425
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	426
+[One/CD, man/NN, is/VBZ, breaking/VBG, cement/NN, on/IN, another/DT, man/NN, 's/POS, chest/NN, ./.] 	[A/DT, man/NN, breaks/NNS, cinder/JJ, blocks/NNS, on/IN, another/DT, man/NN, ./.] 	427
+[Two/CD, zebras/NNS, are/VBP, playing/VBG, ./.] 	[Zebras/NNS, are/VBP, socializing/VBG, ./.] 	428
+[A/DT, woman/NN, is/VBZ, slicing/VBG, butter/NN, ./.] 	[A/DT, woman/NN, slices/NNS, tofu/NN, ./.] 	429
+[Some/DT, men/NNS, are/VBP, playing/VBG, guitars/NNS, ./.] 	[Three/CD, men/NNS, are/VBP, playing/VBG, guitars/NNS, and/CC, singing/NN, together/RB, ./.] 	430
+[The/DT, elephants/NNS, sprayed/VBD, water/NN, on/IN, themselves/PRP, ./.] 	[Elephants/NNS, spray/NN, themselves/PRP, with/IN, water/NN, ./.] 	431
+[A/DT, man/NN, is/VBZ, talking/VBG, with/IN, other/JJ, women/NNS, on/IN, the/DT, beach/NN, ./.] 	[A/DT, man/NN, is/VBZ, walking/VBG, down/RP, the/DT, street/NN, ./.] 	432
+[A/DT, dog/NN, sat/VBD, at/IN, the/DT, counter/NN, of/IN, a/DT, store/NN, ./.] 	[The/DT, dog/NN, is/VBZ, standing/VBG, at/IN, the/DT, counter/NN, ./.] 	433
+[Someone/NN, drills/NNS, a/DT, hole/NN, in/IN, a/DT, strip/NN, of/IN, wood/NN, with/IN, a/DT, power/NN, drill/NN, ./.] 	[A/DT, man/NN, drills/NNS, a/DT, hole/NN, in/IN, a/DT, piece/NN, of/IN, wood/NN, ./.] 	434
+[The/DT, woman/NN, is/VBZ, dicing/VBG, onions/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, in/IN, railway/NN, station/NN, ./.] 	435
+[A/DT, man/NN, is/VBZ, standing/VBG, in/IN, front/NN, of/IN, the/DT, window/NN, and/CC, looking/VBG, outside/JJ, ./.] 	[A/DT, man/NN, is/VBZ, staring/VBG, out/RP, the/DT, window/NN, ./.] 	436
+[A/DT, skunk/NN, is/VBZ, looking/VBG, here/RB, and/CC, there/RB, ./.] 	[A/DT, skunk/NN, looks/VBZ, at/IN, the/DT, camera/NN, ./.] 	437
+[A/DT, woman/NN, is/VBZ, slicing/VBG, some/DT, vegetables/NNS, ./.] 	[The/DT, woman/NN, is/VBZ, dicing/VBG, garlic/NN, ./.] 	438
+[A/DT, badger/NN, is/VBZ, burrowing/VBG, a/DT, hole/NN, ./.] 	[A/DT, badger/NN, is/VBZ, digging/NN, the/DT, earth/NN, ./.] 	439
+[A/DT, woman/NN, is/VBZ, water/NN, skiing/NN, on/IN, a/DT, lake/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	440
+[A/DT, girl/NN, is/VBZ, playing/VBG, a/DT, violin/NN, ./.] 	[A/DT, baby/NN, is/VBZ, laughing/VBG, and/CC, giggling/VBG, ./.] 	441
+[A/DT, helicopter/NN, is/VBZ, landing/NN, on/IN, a/DT, helipad/NN, ./.] 	[A/DT, helicopter/NN, lands/NNS, ./.] 	442
+[A/DT, woman/NN, is/VBZ, cutting/VBG, up/RP, a/DT, chicken/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, meat/NN, ./.] 	443
+[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, cucumber/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	444
+[A/DT, woman/NN, rides/NNS, an/DT, elephant/NN, in/IN, front/NN, of/IN, an/DT, adoring/JJ, crowd/NN, ./.] 	[A/DT, woman/NN, rides/NNS, an/DT, elephant/NN, ./.] 	445
+[A/DT, puppy/NN, is/VBZ, sliding/VBG, backwards/RB, along/IN, the/DT, floor/NN, ./.] 	[A/DT, puppy/NN, is/VBZ, pushing/VBG, itself/PRP, backwards/RB, ./.] 	446
+[A/DT, chef/NN, is/VBZ, preparing/VBG, some/DT, food/NN, ./.] 	[A/DT, chef/NN, prepared/VBD, a/DT, meal/NN, ./.] 	447
+[A/DT, woman/NN, splits/VBZ, garlic/JJ, cloves/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, breaking/VBG, a/DT, head/NN, of/IN, garlic/NN, into/IN, cloves/NNS, ./.] 	448
+[A/DT, dog/NN, is/VBZ, looking/VBG, into/IN, swimming/VBG, pool/NN, ./.] 	[A/DT, dog/NN, is/VBZ, walking/VBG, along/IN, the/DT, edge/NN, of/IN, a/DT, pool/NN, ./.] 	449
+[A/DT, woman/NN, mixes/VBZ, a/DT, beauty/NN, treatment/NN, in/IN, a/DT, glass/NN, ./.] 	[A/DT, woman/NN, is/VBZ, mixing/VBG, a/DT, cream/NN, in/IN, a/DT, glass/NN, with/IN, a/DT, spoon/NN, ./.] 	450
+[A/DT, man/NN, is/VBZ, drawing/VBG, a/DT, picture/NN, ./.] 	[A/DT, person/NN, is/VBZ, drawing/VBG, ./.] 	451
+[The/DT, man/NN, talked/VBD, to/TO, a/DT, girl/NN, over/IN, the/DT, internet/NN, camera/NN, ./.] 	[A/DT, teenager/NN, talks/NNS, to/TO, a/DT, girl/NN, over/IN, a/DT, webcam/NN, ./.] 	452
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, and/CC, singing/NN, ./.] 	[A/DT, man/NN, sings/VBZ, with/IN, a/DT, guitar/NN, ./.] 	453
+[A/DT, turtle/NN, walks/VBZ, over/IN, the/DT, ground/NN, ./.] 	[A/DT, large/JJ, turtle/NN, crawls/VBZ, in/IN, the/DT, grass/NN, ./.] 	454
+[The/DT, lady/NN, cracked/VBD, an/DT, egg/NN, for/IN, the/DT, mixer/NN, ./.] 	[The/DT, lady/NN, sliced/VBD, up/RP, the/DT, meat/NN, ./.] 	455
+[A/DT, woman/NN, is/VBZ, picking/VBG, tomatoes/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, pouring/VBG, batter/NN, into/IN, a/DT, bowl/NN, ./.] 	456
+[A/DT, man/NN, is/VBZ, looking/VBG, at/IN, a/DT, computer/NN, monitor/NN, ./.] 	[A/DT, man/NN, is/VBZ, using/VBG, a/DT, laptop/NN, ./.] 	457
+[The/DT, boy/NN, is/VBZ, riding/VBG, a/DT, tricycle/NN, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, water/NN, scooter/NN, ./.] 	458
+[Two/CD, men/NNS, compete/VBP, in/IN, a/DT, tire/NN, rolling/VBG, race/NN, ./.] 	[Two/CD, people/NNS, flipped/VBD, tractor/NN, tires/NNS, in/IN, a/DT, race/NN, ./.] 	459
+[A/DT, woman/NN, opens/VBZ, a/DT, window/NN, ./.] 	[A/DT, man/NN, is/VBZ, crawling/VBG, ./.] 	460
+[A/DT, person/NN, is/VBZ, cutting/VBG, a/DT, meat/NN, ./.] 	[A/DT, person/NN, riding/VBG, a/DT, mechanical/JJ, bull/NN] 	461
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, violin/NN, ./.] 	[A/DT, woman/NN, is/VBZ, using/VBG, a/DT, sewing/VBG, machine/NN, ./.] 	462
+[Five/CD, kittens/NNS, are/VBP, eating/VBG, out/IN, of/IN, five/CD, dishes/NNS, ./.] 	[Kittens/NNS, are/VBP, eating/VBG, food/NN, on/IN, trays/NNS, ./.] 	463
+[People/NNS, are/VBP, dancing/VBG, outside/RB, ./.] 	[A/DT, group/NN, of/IN, people/NNS, are/VBP, dancing/VBG, ./.] 	464
+[A/DT, woman/NN, is/VBZ, slicing/VBG, some/DT, tuna/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, raw/JJ, fish/NN, ./.] 	465
+[The/DT, man/NN, is/VBZ, using/VBG, a/DT, camera/NN, to/TO, hammer/VB, a/DT, nail/NN, ./.] 	[Someone/NN, is/VBZ, banging/VBG, a/DT, camera/NN, lense/NN, against/IN, a/DT, nail/NN, ./.] 	466
+[The/DT, baby/NN, crawled/VBD, through/IN, the/DT, doorway/NN, ./.] 	[A/DT, baby/NN, is/VBZ, crawling/VBG, across/IN, the/DT, floor/NN, ./.] 	467
+[A/DT, man/NN, is/VBZ, playing/VBG, keyboard/NN, ./.] 	[A/DT, person/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	468
+[A/DT, man/NN, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, woman/NN, is/VBZ, painting/VBG, her/PRP$, lips/NNS, ./.] 	469
+[A/DT, man/NN, is/VBZ, smelling/VBG, two/CD, pizzas/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, feeding/VBG, a/DT, man/NN, ./.] 	470
+[A/DT, woman/NN, is/VBZ, filing/VBG, her/PRP$, nails/NNS, ./.] 	[A/DT, man/NN, is/VBZ, peeling/VBG, a/DT, carrot/NN, ./.] 	471
+[A/DT, monkey/NN, pulls/VBZ, the/DT, tail/NN, of/IN, a/DT, dog/NN, ./.] 	[A/DT, monkey/NN, is/VBZ, teasing/VBG, a/DT, dog/NN, at/IN, the/DT, zoo/NN, ./.] 	472
+[A/DT, dog/NN, lies/VBZ, on/IN, his/PRP$, back/NN, on/IN, a/DT, wooden/JJ, floor/NN, ./.] 	[A/DT, dog/NN, is/VBZ, laying/VBG, on/IN, the/DT, floor/NN, ./.] 	473
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, dog/NN, is/VBZ, barking/VBG, at/IN, a/DT, fly/NN, ./.] 	474
+[A/DT, woman/NN, is/VBZ, frying/VBG, something/NN, in/IN, the/DT, pan/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, his/PRP$, guitar/NN, ./.] 	475
+[A/DT, boy/NN, is/VBZ, crawling/VBG, into/IN, a/DT, dog/NN, house/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, wooden/JJ, flute/NN, ./.] 	476
+[A/DT, man/NN, puts/VBZ, seasoning/NN, in/IN, a/DT, bowl/NN, of/IN, water/NN, ./.] 	[The/DT, man/NN, added/VBD, seasoning/NN, to/TO, water/NN, in/IN, a/DT, bowl/NN, ./.] 	477
+[An/DT, elderly/JJ, woman/NN, is/VBZ, pouring/VBG, oil/NN, into/IN, a/DT, frying/JJ, pan/NN, ./.] 	[A/DT, tied/VBN, man/NN, is/VBZ, putting/VBG, into/IN, water/NN, ./.] 	478
+[A/DT, baby/NN, rhino/NN, is/VBZ, walking/VBG, around/IN, his/PRP$, pen/NN, with/IN, his/PRP$, mother/NN, ./.] 	[A/DT, baby/NN, rhino/NN, is/VBZ, following/VBG, an/DT, adult/JJ, rhino/NN, ./.] 	479
+[A/DT, woman/NN, is/VBZ, chopping/VBG, an/DT, onion/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, partially/RB, into/IN, half/NN, of/IN, an/DT, onion/NN, ./.] 	480
+[The/DT, woman/NN, picked/VBD, up/RP, the/DT, kangaroo/NN, ./.] 	[A/DT, woman/NN, is/VBZ, carrying/VBG, a/DT, kangaroo/NN, ./.] 	481
+[A/DT, dog/NN, biting/VBG, on/IN, a/DT, can/NN, ./.] 	[A/DT, dog/NN, opens/VBZ, a/DT, can/NN, of/IN, food/NN, ./.] 	482
+[A/DT, woman/NN, is/VBZ, deboning/VBG, a/DT, fish/NN, ./.] 	[A/DT, man/NN, catches/VBZ, a/DT, fish/NN, ./.] 	483
+[A/DT, man/NN, is/VBZ, mowing/VBG, grass/NN, ./.] 	[A/DT, man/NN, is/VBZ, busting/VBG, concrete/NN, ./.] 	484
+[A/DT, cat/NN, is/VBZ, watching/VBG, a/DT, TV/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, leave/NN, ./.] 	485
+[The/DT, boy/NN, is/VBZ, stuck/VBN, in/IN, the/DT, door/NN, of/IN, the/DT, doghouse/NN, ./.] 	[A/DT, child/NN, is/VBZ, stuck/VBN, in/IN, a/DT, dog/NN, house/NN, ./.] 	486
+[People/NNS, flip/VBP, into/IN, a/DT, swimming/NN, pool/NN, ./.] 	[Men/NNS, are/VBP, falling/VBG, into/IN, a/DT, pool/NN, ./.] 	487
+[A/DT, woman/NN, is/VBZ, swimming/VBG, underwater/JJ, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, some/DT, carrots/NNS, ./.] 	488
+[The/DT, man/NN, used/VBN, a/DT, sword/NN, to/TO, slice/VB, a/DT, plastic/JJ, bottle/NN, ./.] 	[A/DT, man/NN, sliced/VBD, a/DT, plastic/JJ, bottle/NN, with/IN, a/DT, sword/NN, ./.] 	489
+[A/DT, woman/NN, swims/VBZ, underwater/JJ, ./.] 	[A/DT, woman/NN, is/VBZ, swimming/VBG, ./.] 	490
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	491
+[A/DT, machine/NN, is/VBZ, sharpening/VBG, a/DT, pencil/NN, ./.] 	[The/DT, machine/NN, shaved/VBD, the/DT, end/NN, of/IN, the/DT, pencil/NN, ./.] 	492
+[An/DT, airplane/NN, is/VBZ, flying/VBG, in/IN, the/DT, air/NN, ./.] 	[A/DT, South/JJ, African/NNP, Airways/NNPS, plane/NN, is/VBZ, flying/VBG, in/IN, a/DT, blue/JJ, sky/NN, ./.] 	493
+[A/DT, bear/NN, is/VBZ, running/VBG, from/IN, two/CD, dogs/NNS, ./.] 	[A/DT, bear/NN, is/VBZ, fighting/VBG, wolves/NNS, ./.] 	494
+[A/DT, woman/NN, is/VBZ, resting/VBG, in/IN, a/DT, floating/VBG, raft/NN, ./.] 	[A/DT, woman/NN, relaxes/VBZ, in/IN, an/DT, inner/JJ, tube/NN, ./.] 	495
+[A/DT, man/NN, is/VBZ, cleaning/VBG, a/DT, fish/NN, on/IN, a/DT, kitchen/NN, counter/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	496
+[A/DT, man/NN, is/VBZ, dieing/VBG, in/IN, an/DT, operating/NN, room/NN, ./.] 	[A/DT, man/NN, is/VBZ, kissing/VBG, a/DT, woman/NN, in/IN, stage/NN, ./.] 	497
+[A/DT, man/NN, is/VBZ, holding/VBG, a/DT, leaf/NN, ./.] 	[A/DT, woman/NN, is/VBZ, watching/VBG, television/NN, ./.] 	498
+[A/DT, person/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, potatoes/NNS, ./.] 	499
+[A/DT, woman/NN, is/VBZ, slicing/VBG, octopus/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	500
+[A/DT, man/NN, is/VBZ, breaking/VBG, water/NN, jugs/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, garlic/NN, ./.] 	501
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, vegetable/NN, ./.] 	502
+[A/DT, girl/NN, is/VBZ, eating/VBG, a/DT, cupcake/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, cucumber/NN, ./.] 	503
+[The/DT, little/JJ, girl/NN, played/VBN, on/IN, the/DT, grass/NN, with/IN, a/DT, dog/NN, and/CC, a/DT, ball/NN, ./.] 	[A/DT, baby/NN, plays/VBZ, with/IN, a/DT, dog/NN, and/CC, ball/NN, ./.] 	504
+[A/DT, person/NN, is/VBZ, chopping/VBG, coriander/NN, leaves/VBZ, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, up/RP, some/DT, green/JJ, leaves/NNS, ./.] 	505
+[People/NNS, ride/VBP, and/CC, paddle/VBP, a/DT, raft/NN, ./.] 	[Four/CD, people/NNS, are/VBP, floating/VBG, on/IN, a/DT, raft/NN, ./.] 	506
+[A/DT, man/NN, is/VBZ, pressing/VBG, microwave/NN, buttons/NNS, ./.] 	[A/DT, man/NN, turns/VBZ, on/IN, the/DT, microwave/NN, ./.] 	507
+[A/DT, girl/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	[The/DT, girl/NN, trotted/VBD, the/DT, horse/NN, ./.] 	508
+[The/DT, lady/NN, cut/VBD, up/RP, a/DT, potatoe/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, potato/NN, ./.] 	509
+[A/DT, monkey/NN, is/VBZ, playing/VBG, drums/NNS, ./.] 	[A/DT, gorilla/NN, plays/VBZ, the/DT, drums/NNS, ./.] 	510
+[The/DT, missile/NN, exploded/VBD, ./.] 	[A/DT, rocket/NN, exploded/VBD, ./.] 	511
+[A/DT, dog/NN, is/VBZ, playing/VBG, in/IN, the/DT, snow/NN, ./.] 	[A/DT, dog/NN, is/VBZ, pawing/VBG, at/IN, a/DT, fly/NN, in/IN, the/DT, carpet/NN, before/IN, it/PRP, ./.] 	512
+[A/DT, woman/NN, is/VBZ, dancing/VBG, with/IN, other/JJ, women/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, shredding/VBG, chicken/NN, ./.] 	513
+[A/DT, boy/NN, is/VBZ, pushing/VBG, a/DT, van/NN, ./.] 	[A/DT, person/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	514
+[Batman/NNP, and/CC, Robin/NNP, fly/VBP, a/DT, helicopter/NN, over/IN, water/NN, ./.] 	[A/DT, helicopter/NN, flies/VBZ, over/IN, water/NN, ./.] 	515
+[A/DT, boy/NN, is/VBZ, making/VBG, some/DT, dance/NN, steps/NNS, ./.] 	[A/DT, boy/NN, is/VBZ, pouring/VBG, something/NN, from/IN, a/DT, pitcher/NN, ./.] 	516
+[A/DT, woman/NN, is/VBZ, opening/VBG, a/DT, soda/NN, and/CC, drinking/NN, it/PRP, ./.] 	[A/DT, woman/NN, is/VBZ, riding/VBG, on/IN, an/DT, elephant/NN, ./.] 	517
+[A/DT, man/NN, is/VBZ, assembling/VBG, speaker/NN, parts/NNS, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	518
+[A/DT, woman/NN, pours/VBZ, oil/NN, into/IN, a/DT, skillet/NN, from/IN, a/DT, plastic/JJ, bottle/NN, while/IN, she/PRP, is/VBZ, talking/VBG, ./.] 	[An/DT, older/JJR, woman/NN, is/VBZ, pouring/VBG, oil/NN, into/IN, a/DT, skillet/NN, on/IN, the/DT, stove/NN, ./.] 	519
+[The/DT, dog/NN, walked/VBD, along/IN, the/DT, edge/NN, of/IN, the/DT, pool/NN, ./.] 	[A/DT, dog/NN, is/VBZ, walking/VBG, along/IN, a/DT, pool/NN, ./.] 	520
+[Butter/NN, is/VBZ, being/VBG, put/VBN, into/IN, a/DT, bowl/NN, ./.] 	[A/DT, man/NN, cutting/VBG, butter/NN, into/IN, a/DT, mixing/VBG, bowl/NN, ./.] 	521
+[A/DT, man/NN, is/VBZ, opening/VBG, a/DT, box/NN, and/CC, taking/VBG, out/RP, paper/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	522
+[Raccoons/NNS, are/VBP, eating/VBG, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, ./.] 	523
+[Someone/NN, fell/VBD, off/RP, a/DT, horse/NN, ./.] 	[A/DT, man/NN, gets/VBZ, knocked/VBN, off/IN, of/IN, a/DT, horse/NN, ./.] 	524
+[A/DT, woman/NN, is/VBZ, cutting/VBG, some/DT, herbs/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, chopping/VBG, cilantro/NN, ./.] 	525
+[A/DT, woman/NN, peels/VBZ, an/DT, apple/NN, ./.] 	[A/DT, man/NN, pops/VBZ, wheelies/RB, on/IN, a/DT, motorcycle/NN, ./.] 	526
+[A/DT, man/NN, is/VBZ, taking/VBG, some/DT, math/NN, classes/NNS, ./.] 	[A/DT, man/NN, is/VBZ, rinsing/VBG, a/DT, steak/NN, ./.] 	527
+[Animals/NNS, are/VBP, playing/VBG, in/IN, water/NN, ./.] 	[Two/CD, men/NNS, are/VBP, playing/VBG, ping/NN, pong/NN, ./.] 	528
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, horse/NN, and/CC, jumping/VBG, over/RP, obstacles/NNS, ./.] 	[A/DT, man/NN, is/VBZ, kicking/VBG, a/DT, soccer/NN, ball/NN, ./.] 	529
+[A/DT, person/NN, is/VBZ, doing/VBG, pencil/NN, tricks/NNS, with/IN, his/PRP$, hand/NN, ./.] 	[A/DT, person/NN, is/VBZ, slicing/VBG, carrots/NNS, in/IN, half/NN, ./.] 	530
+[The/DT, person/NN, lit/VBD, the/DT, cameras/NNS, on/IN, fire/NN, ./.] 	[A/DT, person/NN, is/VBZ, blow/NN, torching/NN, cameras/NNS, ./.] 	531
+[The/DT, man/NN, is/VBZ, slicing/VBG, the/DT, tape/NN, from/IN, the/DT, box/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, open/RP, a/DT, box/NN, ./.] 	532
+[The/DT, lady/NN, put/VBD, the/DT, skewered/JJ, shimp/NN, in/IN, the/DT, hot/JJ, water/NN, ./.] 	[The/DT, lady/NN, fried/VBD, the/DT, breaded/VBN, meat/NN, in/IN, hot/JJ, oil/NN, ./.] 	533
+[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, woman/NN, plays/VBZ, the/DT, clarinet/NN, ./.] 	534
+[A/DT, man/NN, is/VBZ, fishing/NN, in/IN, the/DT, river/NN, ./.] 	[A/DT, man/NN, is/VBZ, singing/NN, while/IN, walking/VBG, down/RP, the/DT, sidewalk/NN, ./.] 	535
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, bike/NN, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, in/IN, the/DT, street/NN, ./.] 	536
+[A/DT, man/NN, is/VBZ, doing/VBG, push-ups/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, some/DT, octopus/NN, ./.] 	537
+[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, up/RP, some/DT, pork/NN, ./.] 	538
+[A/DT, woman/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, shooting/VBG, off/RP, guns/NNS, ./.] 	539
+[The/DT, boy/NN, is/VBZ, playing/VBG, the/DT, piano/NN, ./.] 	[A/DT, band/NN, is/VBZ, playing/VBG, on/IN, stage/NN, ./.] 	540
+[A/DT, person/NN, is/VBZ, drawing/VBG, on/IN, a/DT, large/JJ, touchscreen/NN, ./.] 	[A/DT, man/NN, is/VBZ, drawing/VBG, on/IN, a/DT, digital/JJ, dry/JJ, erase/VB, board/NN, ./.] 	541
+[The/DT, cook/NN, is/VBZ, kneading/VBG, the/DT, flour/NN, ./.] 	[A/DT, woman/NN, is/VBZ, kneading/VBG, tortilla/NN, dough/NN, ./.] 	542
+[The/DT, little/JJ, boy/NN, is/VBZ, singing/NN, and/CC, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, baby/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	543
+[A/DT, woman/NN, is/VBZ, powdering/VBG, her/PRP$, face/NN, ./.] 	[The/DT, woman/NN, is/VBZ, tapping/VBG, her/PRP$, fingers/NNS, on/IN, the/DT, table/NN, ./.] 	544
+[The/DT, men/NNS, played/VBD, follow/VB, the/DT, leader/NN, on/IN, the/DT, grass/NN, ./.] 	[The/DT, rhino/NN, grazed/VBN, on/IN, the/DT, grass/NN, ./.] 	545
+[A/DT, woman/NN, is/VBZ, cracking/VBG, eggs/NNS, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, to/TO, a/DT, woman/NN, ./.] 	546
+[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	[A/DT, lion/NN, is/VBZ, walking/VBG, around/RP, ./.] 	547
+[A/DT, woman/NN, is/VBZ, firing/NN, a/DT, rifle/NN, ./.] 	[A/DT, man/NN, is/VBZ, performing/VBG, stunts/NNS, ./.] 	548
+[A/DT, woman/NN, peels/VBZ, garlic/NN, with/IN, her/PRP$, hands/NNS, ./.] 	[The/DT, woman/NN, is/VBZ, slicing/VBG, herbs/NNS, ./.] 	549
+[The/DT, polar/JJ, bears/NNS, fought/VBN, over/IN, the/DT, kill/NN, ./.] 	[Polar/NNP, bears/NNS, are/VBP, fighting/VBG, each/DT, other/JJ, ./.] 	550
+[A/DT, woman/NN, is/VBZ, riding/VBG, a/DT, horse/NN, along/IN, a/DT, perimeter/NN, ./.] 	[A/DT, dog/NN, is/VBZ, riding/VBG, a/DT, skateboard/NN, ./.] 	551
+[A/DT, woman/NN, is/VBZ, putting/VBG, her/PRP$, baby/NN, in/IN, a/DT, waste/NN, bin/NN, ./.] 	[The/DT, woman/NN, is/VBZ, poking/VBG, holes/NNS, in/IN, the/DT, potato/NN, ./.] 	552
+[A/DT, woman/NN, puts/VBZ, a/DT, garland/NN, over/IN, a/DT, man/NN, 's/POS, shoulders/NNS, ./.] 	[A/DT, man/NN, pours/VBZ, water/NN, over/IN, a/DT, pilots/NNS, head/NN, ./.] 	553
+[An/DT, old/JJ, woman/NN, is/VBZ, shaking/VBG, hand/NN, with/IN, a/DT, man/NN, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, shake/VB, hands/NNS, ./.] 	554
+[A/DT, man/NN, is/VBZ, doing/VBG, trick/NN, with/IN, play/NN, cards/NNS, ./.] 	[A/DT, man/NN, is/VBZ, performing/VBG, a/DT, card/NN, trick/NN, ./.] 	555
+[The/DT, woman/NN, is/VBZ, waterskiing/NN, ./.] 	[A/DT, woman/NN, is/VBZ, wake/NN, boarding/VBG, on/IN, a/DT, lake/NN, ./.] 	556
+[Trees/NNP, are/VBP, bending/VBG, in/IN, storm/NN, ./.] 	[Trees/NNP, are/VBP, hit/VBN, by/IN, very/RB, hard/JJ, winds/NNS, ./.] 	557
+[The/DT, cat/NN, is/VBZ, licking/VBG, a/DT, bottle/NN, ./.] 	[A/DT, cat/NN, plays/VBZ, with/IN, a/DT, small/JJ, bottle/NN, ./.] 	558
+[A/DT, man/NN, and/CC, woman/NN, is/VBZ, riding/VBG, in/IN, a/DT, car/NN, ./.] 	[A/DT, woman/NN, is/VBZ, frying/JJ, shrimp/NN, ./.] 	559
+[A/DT, man/NN, is/VBZ, moving/VBG, a/DT, tree/NN, limb/NN, ./.] 	[The/DT, woman/NN, is/VBZ, playing/VBG, the/DT, violin/NN, ./.] 	560
+[A/DT, cat/NN, is/VBZ, pouncing/VBG, on/IN, a/DT, trampoline/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, tomato/NN, ./.] 	561
+[A/DT, man/NN, plays/VBZ, a/DT, piano/NN, ./.] 	[A/DT, woman/NN, is/VBZ, playing/VBG, the/DT, violin/NN, ./.] 	562
+[A/DT, person/NN, pours/VBZ, oil/NN, on/IN, a/DT, skillet/NN, ./.] 	[A/DT, person/NN, is/VBZ, dicing/VBG, an/DT, onion/NN, ./.] 	563
+[A/DT, person/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[A/DT, person/NN, cuts/NNS, ginger/NN, ./.] 	564
+[The/DT, animal/NN, is/VBZ, eating/VBG, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	565
+[A/DT, man/NN, and/CC, woman/NN, are/VBP, eating/VBG, at/IN, a/DT, table/NN, ./.] 	[A/DT, couple/NN, are/VBP, eating/VBG, a/DT, meal/NN, and/CC, talking/NN, ./.] 	566
+[The/DT, woman/NN, is/VBZ, walking/VBG, her/PRP$, dog/NN, ./.] 	[A/DT, woman/NN, walks/VBZ, her/PRP$, dog/NN, down/IN, the/DT, street/NN, ./.] 	567
+[A/DT, woman/NN, is/VBZ, riding/VBG, on/IN, a/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, turning/VBG, over/RP, tables/NNS, in/IN, anger/NN, ./.] 	568
+[A/DT, man/NN, is/VBZ, screwing/VBG, wood/NN, to/TO, a/DT, wall/NN, ./.] 	[A/DT, man/NN, is/VBZ, giving/VBG, a/DT, woman/NN, a/DT, massage/NN, ./.] 	569
+[A/DT, girl/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	[A/DT, girl/NN, plays/VBZ, a/DT, wind/NN, instrument/NN, ./.] 	570
+[A/DT, group/NN, of/IN, people/NNS, sing/VB, ./.] 	[Some/DT, people/NNS, are/VBP, singing/NN, ./.] 	571
+[The/DT, cat/NN, is/VBZ, drinking/VBG, milk/NN, ./.] 	[A/DT, cat/NN, is/VBZ, licking/VBG, from/IN, a/DT, saucer/NN, of/IN, milk/NN, ./.] 	572
+[A/DT, person/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, with/IN, a/DT, potato/NN, peeler/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, tomatoes/NNS, with/IN, a/DT, cleaver/NN, ./.] 	573
+[A/DT, small/JJ, baby/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, boy/NN, sits/VBZ, on/IN, a/DT, bed/NN, ,/,, sings/VBZ, and/CC, plays/VBZ, a/DT, guitar/NN, ./.] 	574
+[A/DT, girl/NN, is/VBZ, making/VBG, eyelid/NN, ./.] 	[A/DT, woman/NN, is/VBZ, applying/VBG, eyeshadow/NN, ./.] 	575
+[A/DT, woman/NN, is/VBZ, chopping/VBG, onion/NN, ./.] 	[A/DT, man/NN, is/VBZ, doing/VBG, a/DT, card/NN, trick/NN, ./.] 	576
+[Two/CD, men/NNS, are/VBP, fighting/VBG, ./.] 	[Two/CD, men/NNS, are/VBP, fighting/VBG, using/VBG, a/DT, form/NN, of/IN, martial/JJ, arts/NNS, ./.] 	577
+[A/DT, man/NN, and/CC, a/DT, woman/NN, walk/NN, through/IN, the/DT, woods/NNS, ./.] 	[The/DT, man/NN, and/CC, woman/NN, are/VBP, walking/VBG, ./.] 	578
+[A/DT, child/NN, is/VBZ, playing/VBG, a/DT, computer/NN, game/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, game/NN, on/IN, a/DT, laptop/NN, ./.] 	579
+[Two/CD, women/NNS, are/VBP, dancing/VBG, and/CC, singing/NN, in/IN, front/NN, of/IN, a/DT, crowd/NN, ./.] 	[The/DT, women/NNS, are/VBP, singing/NN, and/CC, dancing/NN, ./.] 	580
+[Men/NNS, are/VBP, jumping/VBG, into/IN, water/NN, from/IN, a/DT, bridge/NN, ./.] 	[Men/NN, jump/NN, in/IN, a/DT, river/NN, ./.] 	581
+[The/DT, military/JJ, officer/NN, barked/VBD, at/IN, the/DT, recruits/NNS, ./.] 	[An/DT, officer/NN, is/VBZ, talking/VBG, to/TO, recruits/NNS, ./.] 	582
+[The/DT, man/NN, is/VBZ, putting/VBG, chicken/NN, into/IN, the/DT, container/NN, ./.] 	[A/DT, man/NN, is/VBZ, putting/VBG, foods/NNS, in/IN, a/DT, box/NN, ./.] 	583
+[A/DT, man/NN, is/VBZ, tying/VBG, on/IN, a/DT, stenographers/NNS, machine/NN, ./.] 	[the/DT, man/NN, used/VBN, a/DT, stenograph/NN, ./.] 	584
+[A/DT, woman/NN, is/VBZ, adding/VBG, pasta/NN, to/TO, a/DT, pot/NN, of/IN, water/NN, ./.] 	[A/DT, woman/NN, is/VBZ, making/VBG, noodles/NNS, ./.] 	585
+[A/DT, woman/NN, is/VBZ, lying/VBG, on/IN, a/DT, blanket/NN, on/IN, a/DT, rock/NN, and/CC, reading/VBG, a/DT, book/NN, ./.] 	[A/DT, woman/NN, seated/VBN, is/VBZ, singing/VBG, a/DT, song/NN, and/CC, playing/VBG, the/DT, guitar/NN, too/RB, ./.] 	586
+[Two/CD, puppies/NNS, are/VBP, playing/VBG, with/IN, each/DT, other/JJ, ./.] 	[Some/DT, men/NNS, are/VBP, playing/VBG, soccer/NN, ./.] 	587
+[A/DT, man/NN, is/VBZ, running/VBG, on/IN, a/DT, field/NN, ./.] 	[A/DT, man/NN, climbs/VBZ, up/RP, a/DT, rope/NN, ./.] 	588
+[A/DT, man/NN, is/VBZ, hugging/VBG, someone/NN, ./.] 	[A/DT, man/NN, is/VBZ, taking/VBG, a/DT, picture/NN, ./.] 	589
+[Someone/NN, is/VBZ, pouring/VBG, ingrediants/NNS, into/IN, a/DT, pot/NN, ./.] 	[A/DT, man/NN, puts/VBZ, vegetables/NNS, into/IN, a/DT, pot/NN, ./.] 	590
+[A/DT, man/NN, is/VBZ, seasoning/VBG, some/DT, carrots/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, garlic/NN, ./.] 	591
+[A/DT, couple/NN, are/VBP, walking/VBG, ./.] 	[Some/DT, men/NNS, are/VBP, sawing/VBG, ./.] 	592
+[Two/CD, men/NNS, pushed/VBD, carts/NNS, through/IN, the/DT, woods/NNS, ./.] 	[Two/CD, men/NNS, are/VBP, pushing/VBG, carts/NNS, ./.] 	593
+[A/DT, person/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[The/DT, man/NN, played/VBD, his/PRP$, guitar/NN, ./.] 	594
+[A/DT, person/NN, is/VBZ, adding/VBG, food/NN, in/IN, a/DT, pan/NN, ./.] 	[A/DT, woman/NN, puts/VBZ, rice/NN, into/IN, a/DT, pan/NN, ./.] 	595
+[A/DT, group/NN, of/IN, penguins/NNS, is/VBZ, walking/VBG, ./.] 	[A/DT, large/JJ, amount/NN, of/IN, penguins/NNS, are/VBP, heading/VBG, to/TO, the/DT, ocean/NN, ./.] 	596
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[Someone/NN, is/VBZ, handling/VBG, a/DT, bun/NN, ./.] 	597
+[A/DT, dog/NN, is/VBZ, jumping/VBG, on/RP, a/DT, trampoline/NN, ./.] 	[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	598
+[A/DT, man/NN, is/VBZ, shaking/VBG, a/DT, container/NN, over/IN, a/DT, kitchen/NN, sink/NN, ./.] 	[A/DT, man/NN, is/VBZ, emptying/VBG, a/DT, plastic/JJ, container/NN, ./.] 	599
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, football/NN, ./.] 	[A/DT, man/NN, is/VBZ, maneuvering/VBG, a/DT, soccer/NN, ball/NN, with/IN, his/PRP$, feet/NNS, ./.] 	600
+[A/DT, man/NN, is/VBZ, walking/VBG, with/IN, a/DT, horse/NN, ./.] 	[A/DT, man/NN, is/VBZ, leading/VBG, a/DT, horse/NN, around/IN, by/IN, it/PRP, 's/VBZ, halter/NN, ./.] 	601
+[Paper/NN, is/VBZ, being/VBG, cut/VBN, with/IN, scissors/NNS, ./.] 	[A/DT, piece/NN, of/IN, paper/NN, is/VBZ, being/VBG, cut/VBN, ./.] 	602
+[The/DT, lady/NN, peeled/VBD, the/DT, potatoe/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	603
+[A/DT, person/NN, peels/VBZ, shrimp/NN, ./.] 	[The/DT, lady/NN, peeled/VBD, the/DT, shrimp/NN, ./.] 	604
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, tries/VBZ, to/TO, read/VB, the/DT, paper/NN, ./.] 	605
+[A/DT, man/NN, making/VBG, a/DT, bed/NN, in/IN, a/DT, hotel/NN, ./.] 	[A/DT, man/NN, is/VBZ, holding/VBG, a/DT, animal/NN, ./.] 	606
+[A/DT, woman/NN, is/VBZ, slicing/VBG, some/DT, tofu/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cutting/VBG, a/DT, block/NN, of/IN, tofu/NN, into/IN, small/JJ, cubes/NNS, ./.] 	607
+[A/DT, woman/NN, is/VBZ, peeling/VBG, some/DT, fish/NN, ./.] 	[A/DT, woman/NN, is/VBZ, pouring/VBG, a/DT, yellow/JJ, mixture/NN, on/IN, a/DT, frying/JJ, pan/NN, ./.] 	608
+[The/DT, dog/NN, pulled/VBD, the/DT, dogs/NNS, tail/NN, and/CC, then/RB, his/PRP$, leg/NN, ./.] 	[A/DT, monkey/NN, pulled/VBD, a/DT, dogs/NNS, tail/NN, ./.] 	609
+[A/DT, woman/NN, beats/VBZ, two/CD, eggs/NNS, in/IN, a/DT, bowl/NN, ./.] 	[A/DT, person/NN, is/VBZ, mixing/VBG, ingredients/NNS, in/IN, a/DT, bowl/NN, ./.] 	610
+[People/NNS, are/VBP, playing/VBG, baseball/NN, ./.] 	[The/DT, cricket/NN, player/NN, hit/VBD, the/DT, ball/NN, ./.] 	611
+[A/DT, person/NN, is/VBZ, boiling/VBG, soup/NN, ./.] 	[A/DT, woman/NN, is/VBZ, placing/VBG, eggs/NNS, into/IN, a/DT, pan/NN, ./.] 	612
+[A/DT, man/NN, is/VBZ, jumping/VBG, rope/NN, outside/NN, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, cucumber/NN, ./.] 	613
+[A/DT, person/NN, is/VBZ, slicing/VBG, some/DT, onions/NNS, ./.] 	[A/DT, hamster/NN, is/VBZ, singing/NN, ./.] 	614
+[A/DT, woman/NN, holds/VBZ, a/DT, kangaroo/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, hat/NN, sings/VBZ, a/DT, song/NN, ./.] 	615
+[Someone/NN, typed/VBD, on/IN, a/DT, keyboard/NN, ./.] 	[Someone/NN, is/VBZ, typing/NN, ./.] 	616
+[Soccer/NN, players/NNS, are/VBP, kicking/VBG, a/DT, soccer/NN, ball/NN, into/IN, the/DT, goal/NN, ./.] 	[A/DT, soccer/NN, player/NN, scores/NNS, a/DT, goal/NN, ./.] 	617
+[A/DT, woman/NN, is/VBZ, cooking/JJ, something/NN, ./.] 	[A/DT, woman/NN, is/VBZ, pouring/VBG, ingredients/NNS, into/IN, a/DT, frying/JJ, pan/NN, ./.] 	618
+[A/DT, woman/NN, is/VBZ, swimming/VBG, in/IN, the/DT, beach/NN, ./.] 	[A/DT, woman/NN, splashes/NNS, around/IN, in/IN, the/DT, ocean/NN, 's/POS, waves/NNS, ./.] 	619
+[A/DT, man/NN, is/VBZ, carrying/VBG, another/DT, man/NN, ./.] 	[A/DT, man/NN, sprays/NNS, another/DT, man/NN, with/IN, water/NN, from/IN, a/DT, hose/NN, ./.] 	620
+[The/DT, woman/NN, is/VBZ, putting/VBG, paste/VB, into/IN, a/DT, dish/NN, ./.] 	[A/DT, woman/NN, is/VBZ, pulling/VBG, some/DT, kind/NN, of/IN, sticky/JJ, goo/NN, out/IN, of/IN, a/DT, bowl/NN, ./.] 	621
+[A/DT, man/NN, is/VBZ, holding/VBG, up/RP, and/CC, talking/VBG, about/IN, a/DT, gray/JJ, You/PRP, Tube/NNP, T-shirt/NNS, ./.] 	[A/DT, man/NN, is/VBZ, showing/VBG, a/DT, t/NN, shirt/NN, ./.] 	622
+[Three/CD, young/JJ, men/NNS, run/VBP, ,/,, jump/VBP, ,/,, and/CC, kick/VB, off/RP, of/IN, a/DT, Coke/NNP, machine/NN, ./.] 	[Three/CD, men/NNS, are/VBP, jumping/VBG, off/RP, a/DT, wall/NN, ./.] 	623
+[Someone/NN, pours/VBZ, olive/JJ, oil/NN, into/IN, a/DT, bowl/NN, of/IN, tomato/NN, wedges/NNS, ./.] 	[The/DT, man/NN, poured/VBD, oil/NN, on/IN, the/DT, tomato/NN, slices/NNS, ./.] 	624
+[A/DT, man/NN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[The/DT, man/NN, played/VBD, his/PRP$, guitar/NN, with/IN, a/DT, friend/NN, ./.] 	625
+[Someone/NN, is/VBZ, boiling/VBG, okra/NN, in/IN, a/DT, pot/NN, ./.] 	[Someone/NN, pours/VBZ, olive/JJ, oil/NN, into/IN, a/DT, bowl/NN, of/IN, tomato/NN, wedges/NNS, ./.] 	626
+[A/DT, person/NN, is/VBZ, peeling/VBG, a/DT, potato/NN, ./.] 	[A/DT, cat/NN, is/VBZ, licking/VBG, a/DT, small/JJ, bottle/NN, ./.] 	627
+[A/DT, cat/NN, is/VBZ, jumping/VBG, into/IN, a/DT, box/NN, ./.] 	[A/DT, young/JJ, man/NN, is/VBZ, talking/VBG, to/TO, a/DT, leaf/NN, ./.] 	628
+[A/DT, young/JJ, Asian/JJ, girl/NN, is/VBZ, applying/VBG, eyeliner/NN, ./.] 	[A/DT, girl/NN, is/VBZ, putting/VBG, on/RP, eye/NN, makeup/NN, ./.] 	629
+[The/DT, woman/NN, is/VBZ, seasoning/VBG, the/DT, oil/NN, ./.] 	[A/DT, woman/NN, is/VBZ, pouring/VBG, ingredients/NNS, in/IN, a/DT, bowl/NN, ./.] 	630
+[A/DT, cat/NN, is/VBZ, sliding/VBG, upside/RB, down/RB, under/IN, a/DT, couch/NN, ./.] 	[A/DT, cat/NN, is/VBZ, crawling/VBG, under/IN, a/DT, piece/NN, of/IN, furniture/NN, on/IN, it/PRP, 's/VBZ, back/RB, ./.] 	631
+[A/DT, woman/NN, dances/NNS, while/IN, a/DT, man/NN, plays/VBZ, the/DT, keyboard/NN, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, on/IN, a/DT, stage/NN, ./.] 	632
+[A/DT, chef/NN, is/VBZ, cleaning/VBG, up/RP, a/DT, bowl/NN, of/IN, soup/NN, ./.] 	[A/DT, man/NN, is/VBZ, wiping/VBG, the/DT, edge/NN, of/IN, a/DT, bowl/NN, off/RP, ./.] 	633
+[An/DT, explosion/NN, is/VBZ, booming/VBG, in/IN, the/DT, desert/NN, ./.] 	[A/DT, nuclear/JJ, weapon/NN, explodes/VBZ, in/IN, a/DT, desert/NN, ./.] 	634
+[A/DT, woman/NN, slices/VBZ, a/DT, lemon/JJ, ./.] 	[A/DT, man/NN, is/VBZ, talking/VBG, into/IN, a/DT, microphone/NN, ./.] 	635
+[An/DT, overweight/JJ, man/NN, is/VBZ, skipping/VBG, rope/NN, ./.] 	[A/DT, young/JJ, man/NN, is/VBZ, dancing/VBG, ./.] 	636
+[A/DT, cat/NN, is/VBZ, walking/VBG, around/IN, a/DT, house/NN, ./.] 	[A/DT, woman/NN, is/VBZ, peeling/VBG, potato/NN, ./.] 	637
+[The/DT, lady/NN, cracked/VBD, two/CD, raw/JJ, eggs/NNS, ./.] 	[The/DT, woman/NN, is/VBZ, cracking/VBG, eggs/NNS, into/IN, a/DT, bowl/NN, ./.] 	638
+[A/DT, man/NN, sharpens/VBZ, a/DT, pencil/NN, using/VBG, a/DT, knife/NN, ./.] 	[A/DT, woman/NN, is/VBZ, dancing/VBG, in/IN, the/DT, rain/NN, ./.] 	639
+[Plastic/JJ, toys/NNS, are/VBP, floating/VBG, in/IN, water/NN, ./.] 	[The/DT, ladies/NNS, are/VBP, performing/VBG, a/DT, dance/NN, ./.] 	640
+[A/DT, woman/NN, is/VBZ, dancing/VBG, ./.] 	[A/DT, man/NN, breaks/VBZ, a/DT, stick/NN, ./.] 	641
+[The/DT, turtle/NN, followed/VBD, the/DT, fish/NN, ./.] 	[A/DT, sea/NN, turtle/NN, is/VBZ, hunting/NN, for/IN, fish/NN, ./.] 	642
+[The/DT, woman/NN, is/VBZ, pencilling/VBG, on/IN, eye/NN, shadow/NN, ./.] 	[The/DT, girl/NN, is/VBZ, using/VBG, an/DT, eye/NN, pencil/NN, on/IN, her/PRP$, eyelid/NN, ./.] 	643
+[A/DT, man/NN, is/VBZ, tying/VBG, his/PRP$, shoe/NN, ./.] 	[A/DT, dog/NN, is/VBZ, riding/VBG, on/IN, a/DT, bicyclists/NNS, shoulders/NNS, ./.] 	644
+[A/DT, ballet/JJ, dancer/NN, is/VBZ, performing/VBG, on/IN, stage/NN, ./.] 	[The/DT, beaver/NN, is/VBZ, being/VBG, petted/VBN, ./.] 	645
+[A/DT, woman/NN, is/VBZ, slicing/VBG, meat/NN, with/IN, a/DT, knife/NN, ./.] 	[A/DT, man/NN, is/VBZ, spreading/VBG, out/RP, dough/NN, ./.] 	646
+[A/DT, dog/NN, is/VBZ, running/VBG, on/IN, the/DT, ground/NN, ./.] 	[A/DT, girl/NN, is/VBZ, tapping/VBG, her/PRP$, finger/NN, nails/NNS, ./.] 	647
+[A/DT, woman/NN, is/VBZ, talking/VBG, to/TO, her/PRP$, pet/NN, bunny/NN, as/IN, she/PRP, fondles/VBZ, it/PRP, ./.] 	[A/DT, woman/NN, walks/VBZ, her/PRP$, dog/NN, onto/IN, astro/NN, turf/NN, ./.] 	648
+[A/DT, monkey/NN, is/VBZ, playing/VBG, drums/NNS, ./.] 	[Someone/NN, in/IN, a/DT, gorilla/NN, costume/NN, is/VBZ, playing/VBG, a/DT, set/NN, of/IN, drums/NNS, ./.] 	649
+[A/DT, man/NN, is/VBZ, petting/VBG, a/DT, tied/VBN, up/RP, dog/NN, ./.] 	[A/DT, man/NN, is/VBZ, showing/VBG, his/PRP$, dog/NN, to/TO, the/DT, camera/NN, ./.] 	650
+[A/DT, woman/NN, is/VBZ, walking/VBG, on/IN, an/DT, open/JJ, ground/NN, with/IN, a/DT, pet/NN, dog/NN, as/IN, some/DT, other/JJ, dogs/NNS, follow/VBP, them/PRP, ./.] 	[A/DT, man/NN, is/VBZ, walking/VBG, with/IN, several/JJ, dogs/NNS, ./.] 	651
+[A/DT, woman/NN, is/VBZ, mincing/VBG, some/DT, garlic/NN, ./.] 	[A/DT, person/NN, is/VBZ, cleaning/VBG, a/DT, disk/NN, ./.] 	652
+[A/DT, man/NN, shoots/VBZ, a/DT, basket/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, guitar/NN, ./.] 	653
+[The/DT, elephants/NNS, are/VBP, bathing/NN, ./.] 	[Two/CD, women/NNS, are/VBP, singing/NN, ./.] 	654
+[Two/CD, teams/NNS, are/VBP, playing/VBG, soccer/NN, ./.] 	[Different/JJ, sets/NNS, of/IN, teams/NNS, are/VBP, playing/VBG, football/NN, on/IN, a/DT, field/NN, ./.] 	655
+[A/DT, rat/NN, like/IN, creature/NN, is/VBZ, smelling/VBG, around/RP, ./.] 	[An/DT, animal/NN, is/VBZ, walking/VBG, on/IN, the/DT, ground/NN, ./.] 	656
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, white/JJ, horse/NN, on/IN, an/DT, enclosed/VBN, ground/NN, ./.] 	[Someone/NN, is/VBZ, riding/VBG, a/DT, horse/NN, ./.] 	657
+[Two/CD, Sumo/NNP, ringers/NNS, are/VBP, fighting/VBG, each/DT, other/JJ, ./.] 	[A/DT, man/NN, rides/NNS, a/DT, water/NN, toy/NN, in/IN, the/DT, water/NN, ./.] 	658
+[An/DT, oriental/JJ, lady/NN, is/VBZ, cutting/VBG, a/DT, carrot/NN, into/IN, thin/JJ, pieces/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, slicing/VBG, a/DT, carrot/NN, ./.] 	659
+[A/DT, man/NN, lays/VBZ, on/IN, the/DT, ground/NN, and/CC, aims/VBZ, a/DT, rifle/NN, ./.] 	[A/DT, man/NN, is/VBZ, spreading/VBG, butter/NN, on/IN, a/DT, tortilla/NN, ./.] 	660
+[The/DT, man/NN, cut/VBN, up/RP, an/DT, onion/NN, ./.] 	[A/DT, man/NN, is/VBZ, dancing/VBG, ./.] 	661
+[A/DT, couple/NN, are/VBP, running/VBG, towards/IN, the/DT, ocean/NN, ./.] 	[A/DT, man/NN, and/CC, and/CC, woman/NN, are/VBP, running/VBG, together/RB, ,/,, holding/VBG, hands/NNS, ./.] 	662
+[A/DT, group/NN, of/IN, people/NNS, are/VBP, dancing/VBG, ./.] 	[Women/NNS, are/VBP, dancing/VBG, outside/RB, ./.] 	663
+[A/DT, man/NN, is/VBZ, playing/VBG, guitar/NN, ./.] 	[A/DT, boy/NN, is/VBZ, talking/VBG, to/TO, a/DT, giant/JJ, dog/NN, ./.] 	664
+[A/DT, woman/NN, mixes/VBZ, up/RP, vegetables/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, adding/VBG, ingredients/NNS, to/TO, a/DT, skillet/NN, ./.] 	665
+[A/DT, woman/NN, pours/VBZ, a/DT, mixture/NN, into/IN, a/DT, bowl/NN, and/CC, mixes/VBZ, it/PRP, ./.] 	[A/DT, woman/NN, is/VBZ, preparing/VBG, an/DT, egg/NN, in/IN, a/DT, skillet/NN, ./.] 	666
+[A/DT, woman/NN, is/VBZ, chopping/VBG, a/DT, hard/JJ, egg/NN, ./.] 	[A/DT, person/NN, is/VBZ, cutting/VBG, boiled/VBN, egg/NN, into/IN, pieces/NNS, ./.] 	667
+[Two/CD, robots/NNS, share/VBP, a/DT, kiss/NN, ./.] 	[A/DT, male/JJ, and/CC, female/JJ, robot/NN, are/VBP, kissing/VBG, ./.] 	668
+[A/DT, cat/NN, is/VBZ, trying/VBG, to/TO, touch/VB, a/DT, dog/NN, ./.] 	[The/DT, cat/NN, teased/VBD, the/DT, dog/NN, by/IN, touching/VBG, his/PRP$, head/NN, ./.] 	669
+[A/DT, woman/NN, puts/VBZ, cosmetics/NNS, on/IN, her/PRP$, eyelid/NN, ./.] 	[The/DT, woman/NN, is/VBZ, pencilling/VBG, on/IN, eye/NN, shadow/NN, ./.] 	670
+[The/DT, rhino/NN, grazed/VBN, on/IN, the/DT, grass/NN, ./.] 	[A/DT, rhino/NN, is/VBZ, grazing/NN, in/IN, a/DT, field/NN, ./.] 	671
+[The/DT, man/NN, drove/VBD, his/PRP$, little/JJ, red/JJ, car/NN, around/IN, the/DT, traffic/NN, ./.] 	[The/DT, dog/NN, ran/VBD, in/IN, the/DT, water/NN, at/IN, the/DT, beach/NN, ./.] 	672
+[A/DT, man/NN, is/VBZ, cutting/VBG, bread/NN, ./.] 	[A/DT, man/NN, is/VBZ, doing/VBG, tricks/NNS, with/IN, a/DT, soccer/NN, ball/NN, ./.] 	673
+[A/DT, woman/NN, and/CC, man/NN, are/VBP, riding/VBG, in/IN, a/DT, car/NN, ./.] 	[A/DT, woman/NN, driving/VBG, a/DT, car/NN, is/VBZ, talking/VBG, to/TO, the/DT, man/NN, seated/VBN, beside/IN, her/PRP, ./.] 	674
+[A/DT, man/NN, is/VBZ, cutting/VBG, pieces/NNS, of/IN, butter/NN, into/IN, a/DT, mixing/VBG, bowl/NN, ./.] 	[Pieces/NNP, of/IN, butter/NN, is/VBZ, added/VBN, in/IN, the/DT, stand/NN, mixer/NN, ./.] 	675
+[A/DT, cat/NN, rapidly/RB, swats/VBZ, a/DT, kid/NN, in/IN, the/DT, head/NN, ./.] 	[A/DT, cat/NN, and/CC, a/DT, boy/NN, play/VB, together/RB, ./.] 	676
+[A/DT, cat/NN, is/VBZ, playing/VBG, in/IN, a/DT, box/NN, ./.] 	[The/DT, dog/NN, is/VBZ, playing/VBG, with/IN, the/DT, floor/NN, cleaner/JJR, ./.] 	677
+[A/DT, man/NN, is/VBZ, putting/VBG, garlic/NN, on/IN, some/DT, bread/NN, slices/NNS, ./.] 	[A/DT, man/NN, is/VBZ, sprinkling/VBG, seasoning/NN, on/IN, several/JJ, split/NN, and/CC, buttered/JJ, loaves/NNS, of/IN, bread/NN, ./.] 	678
+[The/DT, couple/NN, danced/VBD, in/IN, the/DT, church/NN, ./.] 	[A/DT, couple/NN, slow/JJ, dances/NNS, ./.] 	679
+[The/DT, panda/NN, bear/NN, lay/VBD, on/IN, the/DT, logs/NNS, ./.] 	[A/DT, panda/NN, is/VBZ, lying/VBG, down/RP, ./.] 	680
+[A/DT, man/NN, is/VBZ, patting/VBG, an/DT, alligator/NN, on/IN, the/DT, mouth/NN, ./.] 	[A/DT, person/NN, is/VBZ, dumping/VBG, chopped/VBN, vegetables/NNS, into/IN, a/DT, pot/NN, on/IN, the/DT, stove/NN, ./.] 	681
+[A/DT, person/NN, checks/NNS, some/DT, rice/NN, pudding/NN, ./.] 	[A/DT, horse/NN, is/VBZ, running/VBG, ./.] 	682
+[A/DT, girl/NN, is/VBZ, dancing/VBG, in/IN, a/DT, cage/NN, ./.] 	[A/DT, onion/NN, is/VBZ, being/VBG, chopped/VBN, ./.] 	683
+[Five/CD, men/NNS, jump/VBP, into/IN, a/DT, swimming/NN, pool/NN, ./.] 	[A/DT, group/NN, of/IN, swimmers/NNS, fall/VBP, into/IN, a/DT, pool/NN, ./.] 	684
+[A/DT, woman/NN, is/VBZ, stirring/VBG, two/CD, eggs/NNS, in/IN, a/DT, glass/NN, bowl/NN, ./.] 	[A/DT, young/JJ, girl/NN, is/VBZ, singing/NN, on/IN, a/DT, stage/NN, ./.] 	685
+[The/DT, man/NN, is/VBZ, playing/VBG, the/DT, drums/NNS, ./.] 	[A/DT, man/NN, pours/VBZ, cleaner/JJR, in/IN, his/PRP$, sink/NN, ./.] 	686
+[A/DT, cat/NN, is/VBZ, on/IN, a/DT, robot/NN, ./.] 	[A/DT, man/NN, is/VBZ, eating/VBG, bread/NN, ./.] 	687
+[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, pepper/NN, ./.] 	[A/DT, person/NN, cuts/VBZ, a/DT, big/JJ, green/JJ, pepper/NN, apart/RB, ./.] 	688
+[A/DT, woman/NN, is/VBZ, speaking/VBG, in/IN, sign/NN, language/NN, ./.] 	[A/DT, woman/NN, spices/VBZ, some/DT, seafood/NN, ./.] 	689
+[A/DT, boy/NN, is/VBZ, crawling/VBG, into/IN, a/DT, dog/NN, house/NN, ./.] 	[A/DT, cat/NN, is/VBZ, playing/VBG, on/IN, the/DT, floor/NN, ./.] 	690
+[The/DT, girl/NN, flew/VBD, her/PRP$, kite/NN, while/IN, she/PRP, ran/VBD, up/RP, a/DT, hill/NN, ./.] 	[A/DT, girl/NN, loses/VBZ, her/PRP$, kite/NN, ./.] 	691
+[A/DT, woman/NN, is/VBZ, placing/VBG, food/NN, in/IN, a/DT, pot/NN, of/IN, hot/JJ, water/NN, ./.] 	[A/DT, woman/NN, is/VBZ, frying/JJ, meat/NN, ./.] 	692
+[A/DT, small/JJ, monkey/NN, walks/VBZ, through/IN, water/NN, ./.] 	[A/DT, monkey/NN, is/VBZ, wading/VBG, across/IN, a/DT, marsh/NN, ./.] 	693
+[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, bike/NN, ./.] 	[A/DT, panda/NN, bear/NN, is/VBZ, eating/VBG, ./.] 	694
+[A/DT, young/JJ, man/NN, is/VBZ, singing/NN, and/CC, playing/VBG, the/DT, piano/NN, ./.] 	[The/DT, man/NN, is/VBZ, writing/VBG, a/DT, letter/NN, ./.] 	695
+[A/DT, boy/NN, takes/VBZ, off/RP, his/PRP$, sunglasses/NNS, ./.] 	[A/DT, boy/NN, is/VBZ, screaming/VBG, ./.] 	696
+[A/DT, girl/NN, is/VBZ, playing/VBG, a/DT, piano/NN, ./.] 	[A/DT, boy/NN, is/VBZ, doing/VBG, push/NN, ups/NNS, ./.] 	697
+[The/DT, lady/NN, stirred/VBD, up/RP, raw/JJ, eggs/NNS, in/IN, the/DT, bowl/NN, ./.] 	[A/DT, woman/NN, is/VBZ, pouring/VBG, eyes/NNS, into/IN, a/DT, bowl/NN, ./.] 	698
+[A/DT, cheetah/NN, is/VBZ, running/VBG, behind/IN, its/PRP$, prey/NN, ./.] 	[A/DT, cheetah/NN, chases/VBZ, prey/NN, on/IN, across/IN, a/DT, field/NN, ./.] 	699
+[The/DT, lady/NN, sliced/VBD, a/DT, tomatoe/NN, ./.] 	[Someone/NN, is/VBZ, cutting/VBG, a/DT, tomato/NN, ./.] 	700
+[Someone/NN, is/VBZ, holding/VBG, a/DT, hedgehog/NN, ./.] 	[A/DT, onion/NN, is/VBZ, being/VBG, sliced/VBN, ./.] 	701
+[A/DT, woman/NN, peels/VBZ, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, is/VBZ, grilling/VBG, pineapples/NNS, ./.] 	702
+[A/DT, cat/NN, is/VBZ, playing/VBG, on/IN, the/DT, floor/NN, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, garlic/NN, ./.] 	703
+[A/DT, boy/NN, is/VBZ, playing/VBG, violin/NN, on/IN, stage/NN, ./.] 	[A/DT, person/NN, is/VBZ, mixing/VBG, a/DT, pot/NN, ./.] 	704
+[A/DT, cow/NN, is/VBZ, eating/VBG, grass/NN, ./.] 	[A/DT, dog/NN, is/VBZ, pulling/VBG, a/DT, girl/NN, down/IN, a/DT, hill/NN, ./.] 	705
+[A/DT, cat/NN, is/VBZ, drinking/VBG, some/DT, water/NN, ./.] 	[A/DT, truck/NN, is/VBZ, going/VBG, down/RP, a/DT, hill/NN, ./.] 	706
+[A/DT, person/NN, is/VBZ, putting/VBG, salt/NN, and/CC, pepper/NN, on/IN, a/DT, piece/NN, of/IN, pork/NN, ./.] 	[A/DT, youngster/NN, is/VBZ, sitting/VBG, on/IN, a/DT, piano/NN, ./.] 	707
+[The/DT, man/NN, sat/VBD, in/IN, his/PRP$, chair/NN, and/CC, stared/VBD, ./.] 	[The/DT, little/JJ, girl/NN, is/VBZ, putting/VBG, her/PRP$, hair/NN, into/IN, a/DT, pony/NN, tail/NN, ./.] 	708
+[A/DT, woman/NN, is/VBZ, dicing/VBG, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, cuts/NNS, tofu/NN, into/IN, tiny/JJ, pieces/NNS, ./.] 	709
+[The/DT, man/NN, stirred/VBD, the/DT, sauce/NN, for/IN, the/DT, chicken/NN, ./.] 	[The/DT, man/NN, is/VBZ, stirring/VBG, oil/NN, ./.] 	710
+[A/DT, baby/NN, is/VBZ, crawling/VBG, happily/RB, ./.] 	[A/DT, baby/NN, sneezed/VBD, and/CC, scared/VBD, another/DT, baby/NN, ./.] 	711
+[A/DT, person/NN, is/VBZ, frying/VBG, a/DT, meat/NN, in/IN, the/DT, pan/NN, ./.] 	[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, vegetable/NN, ./.] 	712
+[A/DT, man/NN, is/VBZ, looking/VBG, out/IN, of/IN, a/DT, window/NN, ./.] 	[A/DT, woman/NN, is/VBZ, swimming/VBG, in/IN, the/DT, water/NN, ./.] 	713
+[A/DT, man/NN, seated/VBN, is/VBZ, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, an/DT, acoustic/JJ, guitar/NN, and/CC, singing/NN, into/IN, a/DT, microphone/NN, ./.] 	714
+[A/DT, dog/NN, is/VBZ, barking/VBG, at/IN, a/DT, toy/NN, ./.] 	[The/DT, little/JJ, dog/NN, barked/VBD, at/IN, the/DT, electronic/JJ, toy/NN, ./.] 	715
+[A/DT, woman/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, with/IN, a/DT, knife/NN, ./.] 	[A/DT, man/NN, is/VBZ, preparing/VBG, some/DT, dish/NN, ./.] 	716
+[A/DT, man/NN, jumping/VBG, rope/NN] 	[A/DT, man/NN, is/VBZ, talking/VBG, ./.] 	717
+[A/DT, woman/NN, is/VBZ, peeling/VBG, an/DT, orange/NN, ./.] 	[A/DT, woman/NN, cuts/VBZ, off/RP, a/DT, small/JJ, piece/NN, of/IN, lemon/JJ, rind/NN, ./.] 	718
+[A/DT, rider/NN, is/VBZ, running/VBG, and/CC, jumping/VBG, her/PRP$, horse/NN, ./.] 	[A/DT, woman/NN, jumps/VBZ, hurdles/NNS, on/IN, a/DT, horse/NN, ./.] 	719
+[A/DT, boy/NN, is/VBZ, playing/VBG, a/DT, key-board/NN, ./.] 	[A/DT, boy/NN, is/VBZ, sitting/VBG, in/IN, a/DT, room/NN, playing/VBG, a/DT, piano/NN, by/IN, lamp/NN, light/NN, ./.] 	720
+[A/DT, man/NN, is/VBZ, cycling/NN, ./.] 	[A/DT, boy/NN, is/VBZ, riding/VBG, a/DT, bicycle/NN, ./.] 	721
+[Two/CD, men/NNS, are/VBP, fighting/VBG, ./.] 	[The/DT, man/NN, is/VBZ, exercising/VBG, ./.] 	722
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, wooden/JJ, flute/NN, while/IN, several/JJ, other/JJ, men/NNS, play/VBP, bongo/NN, drums/NNS, ./.] 	[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, flute/NN, ./.] 	723
+[Someone/NN, is/VBZ, beating/VBG, an/DT, egg/NN, ./.] 	[A/DT, woman/NN, stirs/VBZ, eggs/NNS, in/IN, a/DT, bowl/NN, ./.] 	724
+[A/DT, person/NN, is/VBZ, petting/VBG, a/DT, monkey/NN, ./.] 	[A/DT, man/NN, is/VBZ, holding/VBG, a/DT, slow/JJ, loris/NN, ./.] 	725
+[A/DT, man/NN, is/VBZ, cutting/VBG, a/DT, potato/NN, ./.] 	[A/DT, woman/NN, plays/VBZ, an/DT, electric/JJ, guitar/NN, ./.] 	726
+[A/DT, woman/NN, is/VBZ, slicing/VBG, ginger/NN, ./.] 	[A/DT, person/NN, is/VBZ, holding/VBG, two/CD, baby/NN, lorises/NNS, ./.] 	727
+[Two/CD, cartoon/NN, rabbits/NNS, are/VBP, kissing/VBG, ./.] 	[A/DT, rabbit/NN, is/VBZ, kissing/VBG, another/DT, rabbit/NN, ./.] 	728
+[The/DT, hedgehog/NN, chewed/VBD, on/IN, the/DT, towel/NN, ./.] 	[A/DT, hedgehog/NN, is/VBZ, biting/VBG, at/IN, a/DT, blanket/NN, ./.] 	729
+[A/DT, man/NN, is/VBZ, buttering/VBG, a/DT, piece/NN, of/IN, bread/NN, ./.] 	[A/DT, slow/JJ, loris/NN, hanging/VBG, on/IN, a/DT, cord/NN, ./.] 	730
+[A/DT, man/NN, is/VBZ, dragging/VBG, a/DT, dead/JJ, deer/NNS, ./.] 	[A/DT, man/NN, is/VBZ, jumping/VBG, into/IN, water/NN, from/IN, a/DT, cliff/NN, ./.] 	731
+[A/DT, cat/NN, is/VBZ, licking/VBG, himself/PRP, ./.] 	[A/DT, man/NN, is/VBZ, slicing/VBG, a/DT, white/JJ, onion/NN, with/IN, a/DT, mandolin/NN, slicer/NN, ./.] 	732
+[A/DT, woman/NN, cuts/VBZ, up/RP, some/DT, vegetables/NNS, ./.] 	[A/DT, woman/NN, is/VBZ, placing/VBG, skewered/JJ, food/NN, onto/IN, a/DT, cooker/NN, ./.] 	733
+[A/DT, man/NN, is/VBZ, preparing/VBG, a/DT, snake/NN, for/IN, cooking/NN, ./.] 	[The/DT, man/NN, is/VBZ, dropping/VBG, sliced/JJ, cucumbers/NNS, into/IN, water/NN, ./.] 	734
+[A/DT, woman/NN, is/VBZ, spreading/VBG, mustard/NN, on/IN, a/DT, bread/NN, roll/NN, ./.] 	[A/DT, kitten/NN, is/VBZ, playing/VBG, with/IN, a/DT, woman/NN, 's/POS, finger/NN, ./.] 	735
+[A/DT, small/JJ, guinea/NN, pig/NN, is/VBZ, gnawing/NN, and/CC, eating/VBG, a/DT, piece/NN, of/IN, carrot/NN, on/IN, the/DT, floor/NN, ./.] 	[A/DT, Guinea/NNP, pig/NN, eats/VBZ, a/DT, carrot/NN, ./.] 	736
+[Four/CD, boys/NNS, are/VBP, standing/VBG, in/IN, front/NN, of/IN, the/DT, burning/NN, car/NN, ./.] 	[Four/CD, young/JJ, men/NNS, stand/VBP, still/RB, as/IN, a/DT, car/NN, explodes/VBZ, behind/IN, them/PRP, ./.] 	737
+[The/DT, lady/NN, cut/VBD, the/DT, tail/NN, and/CC, body/NN, of/IN, a/DT, shrimp/NN, ./.] 	[A/DT, woman/NN, is/VBZ, cleaning/VBG, a/DT, shrimp/NN, ./.] 	738
+[A/DT, man/NN, is/VBZ, smoking/NN, ./.] 	[The/DT, man/NN, sat/VBD, in/IN, his/PRP$, suit/NN, and/CC, smoked/VBN, ./.] 	739
+[Someone/NN, touched/VBD, the/DT, kitten/NN, chewing/VBG, on/IN, a/DT, string/NN, ./.] 	[Someone/NN, is/VBZ, cutting/VBG, paper/NN, ./.] 	740
+[A/DT, woman/NN, is/VBZ, adding/VBG, sauce/NN, to/TO, some/DT, food/NN, ./.] 	[A/DT, person/NN, is/VBZ, cutting/VBG, leaves/NNS, ./.] 	741
+[Meat/NN, is/VBZ, being/VBG, put/VBN, into/IN, a/DT, skillet/NN, ./.] 	[A/DT, woman/NN, is/VBZ, putting/VBG, a/DT, baby/NN, into/IN, a/DT, trash/NN, can/NN, ./.] 	742
+[A/DT, baby/NN, elephant/NN, is/VBZ, eating/VBG, a/DT, small/JJ, tree/NN, ./.] 	[A/DT, little/JJ, girl/NN, peddling/VBG, a/DT, scooter/NN, ./.] 	743
+[A/DT, man/NN, plays/VBZ, an/DT, acoustic/JJ, guitar/NN, ./.] 	[A/DT, woman/NN, and/CC, dog/NN, are/VBP, walking/VBG, together/RB, ./.] 	744
+[Three/CD, children/NNS, are/VBP, eating/VBG, their/PRP$, food/NN, ./.] 	[The/DT, deer/NNS, jumped/VBD, over/IN, the/DT, fence/NN, ./.] 	745
+[A/DT, submarine/NN, is/VBZ, going/VBG, through/IN, water/NN, ./.] 	[A/DT, baby/NN, is/VBZ, falling/VBG, asleep/RB, ./.] 	746
+[A/DT, man/NN, is/VBZ, running/VBG, on/IN, a/DT, street/NN, ./.] 	[A/DT, man/NN, plays/VBZ, the/DT, guitar/NN, ./.] 	747
+[A/DT, person/NN, is/VBZ, slicing/VBG, an/DT, onion/NN, ./.] 	[A/DT, cat/NN, is/VBZ, pooping/VBG, into/IN, a/DT, toilet/NN, ./.] 	748
+[A/DT, badger/NN, is/VBZ, digging/NN, in/IN, the/DT, dirt/NN, ./.] 	[A/DT, man/NN, is/VBZ, moving/VBG, large/JJ, rocks/NNS, ./.] 	749
+[A/DT, woman/NN, is/VBZ, slicing/VBG, big/JJ, pepper/NN, ./.] 	[A/DT, dog/NN, is/VBZ, moving/VBG, its/PRP$, mouth/NN, ./.] 	750

@@ -1,0 +1,17 @@
+root	ROOT	Second
+acl	Second	comes
+xcomp	comes	HP
+punct	percent	-LRB-
+nummod	percent	27
+appos	HP	percent
+case	$	with
+nmod:with	percent	$
+compound	billion	2.9
+nummod	$	billion
+punct	percent	,
+advmod	percent	up
+advmod	0.4	just
+nummod	percent	0.4
+nmod:npmod	up	percent
+punct	percent	-RRB-
+punct	Second	.

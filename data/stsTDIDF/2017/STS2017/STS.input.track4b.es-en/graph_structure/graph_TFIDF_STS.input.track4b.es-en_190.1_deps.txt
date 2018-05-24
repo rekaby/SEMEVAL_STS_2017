@@ -1,0 +1,17 @@
+wealth	present-day	amod
+industries	gas	compound
+oil	industries	conj:and
+oil	biggest	amod
+1970s	early	amod
+much	wealth	nmod:of
+one	oil	nmod:of
+1970s	since	case
+lies	much	nmod:behind
+growth	1970s	nmod:since
+wealth	Norway	nmod:poss
+oil	world	nmod:poss
+growth	The	det
+1970s	one	nmod:of
+wealth	of	case
+lies	growth	nsubj
+Norway	's	case

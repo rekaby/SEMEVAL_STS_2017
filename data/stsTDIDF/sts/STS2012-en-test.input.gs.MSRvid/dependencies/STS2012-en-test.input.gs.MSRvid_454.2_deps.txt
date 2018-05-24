@@ -1,0 +1,8 @@
+det	turtle	A
+amod	turtle	large
+nsubj	crawls	turtle
+root	ROOT	crawls
+case	grass	in
+det	grass	the
+nmod:in	crawls	grass
+punct	crawls	.

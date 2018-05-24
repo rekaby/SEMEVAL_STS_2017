@@ -1,0 +1,6 @@
+det	man	A
+nsubj	breaks	man
+root	ROOT	breaks
+det	stick	a
+dobj	breaks	stick
+punct	breaks	.

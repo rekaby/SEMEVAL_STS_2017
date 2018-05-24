@@ -1,0 +1,6 @@
+compound	warning	Tsunami
+root	ROOT	warning
+acl	warning	issued
+case	Alaska	for
+amod	Alaska	southern
+nmod:for	issued	Alaska

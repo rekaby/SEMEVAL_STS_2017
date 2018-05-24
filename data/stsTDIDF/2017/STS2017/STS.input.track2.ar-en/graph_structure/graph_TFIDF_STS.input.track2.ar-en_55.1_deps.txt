@@ -1,0 +1,4 @@
+monitor	a	det
+holding	monitor	dobj
+monitor	computer	compound
+holding	man	nsubj

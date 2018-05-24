@@ -1,0 +1,6 @@
+nsubj	waives	US
+root	ROOT	waives
+dobj	waives	riders
+case	aid	for
+compound	aid	Pak
+nmod:for	waives	aid

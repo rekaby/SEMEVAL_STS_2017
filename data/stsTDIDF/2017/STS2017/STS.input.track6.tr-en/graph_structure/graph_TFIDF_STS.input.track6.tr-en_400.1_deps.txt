@@ -1,0 +1,5 @@
+keeps	officer	nsubj
+officer	A	det
+watch	parade	dobj
+keeps	watch	xcomp
+parade	a	det

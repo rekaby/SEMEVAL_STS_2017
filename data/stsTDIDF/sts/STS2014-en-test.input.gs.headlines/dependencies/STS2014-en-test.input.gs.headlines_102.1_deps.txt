@@ -1,0 +1,7 @@
+root	ROOT	Fight
+case	Town	for
+compound	Town	Mali
+nmod:for	Fight	Town
+dep	Fight	Reflects
+amod	Tactics	Islamist
+dobj	Reflects	Tactics

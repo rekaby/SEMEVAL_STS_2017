@@ -1,0 +1,7 @@
+aux	become	be
+cc	become	or
+root	ROOT	become
+xcomp	become	visible
+cc	visible	or
+conj:or	visible	noticeable
+punct	become	;

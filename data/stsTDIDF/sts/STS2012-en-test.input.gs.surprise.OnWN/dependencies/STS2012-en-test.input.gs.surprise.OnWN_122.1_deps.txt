@@ -1,0 +1,8 @@
+root	ROOT	supply
+cc	supply	or
+conj:or	supply	furnish
+case	something	with
+nmod:with	furnish	something
+acl	something	needed
+cc	needed	or
+conj:or	needed	wanted

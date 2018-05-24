@@ -1,0 +1,12 @@
+case	request	At
+nmod:poss	request	his
+nmod:at	reassigned	request
+punct	reassigned	,
+nsubjpass	reassigned	he
+aux	reassigned	will
+auxpass	reassigned	be
+root	ROOT	reassigned
+case	district	within
+det	district	the
+nmod:within	reassigned	district
+punct	reassigned	.

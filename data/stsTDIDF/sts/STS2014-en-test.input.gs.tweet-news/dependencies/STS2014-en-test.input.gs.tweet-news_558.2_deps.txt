@@ -1,0 +1,11 @@
+det	Blog	The
+compound	Blog	Lede
+root	ROOT	Blog
+punct	Blog	:
+compound	Updates	Live
+dep	Blog	Updates
+case	Oprah	on
+nmod:poss	Oprah	Armstrong
+case	Armstrong	's
+nmod:on	Updates	Oprah
+dep	Updates	Interview

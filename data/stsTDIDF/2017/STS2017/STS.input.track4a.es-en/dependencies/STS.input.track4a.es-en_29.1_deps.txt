@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	helmet	a
+dobj	wearing	helmet
+acl	helmet	riding
+nmod:poss	bicycle	his
+dobj	riding	bicycle
+case	street	on
+det	street	the
+nmod:on	riding	street
+punct	man	.

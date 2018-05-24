@@ -1,0 +1,9 @@
+nsubj	diverge	Others
+advmod	diverge	unfortunately
+csubj	gained	diverge
+case	response	in
+nmod:in	diverge	response
+case	rancune	to
+nmod:to	response	rancune
+root	ROOT	gained
+punct	gained	.

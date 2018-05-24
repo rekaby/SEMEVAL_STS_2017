@@ -1,0 +1,14 @@
+advmod	plan	Thus
+punct	plan	,
+det	program	the
+nsubj	plan	program
+cop	plan	is
+det	plan	the
+amod	plan	best
+root	ROOT	plan
+case	action	for
+nmod:for	plan	action
+nsubjpass	produced	that
+auxpass	produced	is
+acl:relcl	action	produced
+punct	plan	.

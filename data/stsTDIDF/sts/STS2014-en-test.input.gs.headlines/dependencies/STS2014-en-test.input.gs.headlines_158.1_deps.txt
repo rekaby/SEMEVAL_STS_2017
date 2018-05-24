@@ -1,0 +1,8 @@
+nummod	bombs	2
+compound	bombs	car
+nsubj	kill	bombs
+root	ROOT	kill
+dobj	kill	8
+case	Iraq	in
+amod	Iraq	southern
+nmod:in	8	Iraq

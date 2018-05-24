@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+amod	dog	standing
+case	flowers	in
+mwe	in	front
+mwe	in	of
+amod	flowers	yellow
+nmod:in_front_of	standing	flowers
+punct	dog	.

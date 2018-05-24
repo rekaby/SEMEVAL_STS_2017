@@ -1,0 +1,7 @@
+nsubj	readies	US
+root	ROOT	readies
+amod	action	possible
+compound	action	solo
+dobj	readies	action
+case	Syria	against
+nmod:against	readies	Syria

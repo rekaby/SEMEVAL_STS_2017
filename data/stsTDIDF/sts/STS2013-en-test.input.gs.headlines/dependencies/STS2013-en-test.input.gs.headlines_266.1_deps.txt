@@ -1,0 +1,7 @@
+amod	Gauck	East
+amod	Gauck	German
+compound	Gauck	rights
+compound	Gauck	activist
+nsubj	elected	Gauck
+root	ROOT	elected
+dobj	elected	president

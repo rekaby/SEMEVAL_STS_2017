@@ -1,0 +1,11 @@
+root	ROOT	lengthen
+case	time	in
+nmod:in	lengthen	time
+punct	lengthen	;
+dep	lengthen	cause
+mark	longer	to
+cop	longer	be
+cc	be	or
+conj:or	be	last
+xcomp	cause	longer
+punct	lengthen	.

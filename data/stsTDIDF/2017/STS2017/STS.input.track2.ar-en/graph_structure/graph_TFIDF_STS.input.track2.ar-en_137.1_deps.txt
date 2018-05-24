@@ -1,0 +1,4 @@
+instruments	playing	amod
+is	group	nsubj
+group	men	nmod:of
+men	instruments	dep

@@ -1,0 +1,8 @@
+root	ROOT	Protests
+case	girls	for
+amod	girls	kidnapped
+nmod:for	Protests	girls
+acl	girls	banned
+case	capital	in
+amod	capital	Nigerian
+nmod:in	banned	capital

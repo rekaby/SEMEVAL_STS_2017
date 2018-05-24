@@ -1,0 +1,15 @@
+aux	follow	do
+neg	follow	n't
+nsubj	follow	you
+root	ROOT	follow
+punct	follow	,
+cc	follow	and
+conj:and	follow	want
+nmod:poss	laws	our
+dobj	want	laws
+mark	follow	to
+xcomp	want	follow
+dobj	follow	all
+case	leviticus	of
+nmod:of	all	leviticus
+punct	follow	?

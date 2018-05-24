@@ -1,0 +1,8 @@
+cop	state	be
+case	state	in
+det	state	some
+amod	state	specified
+root	ROOT	state
+cc	state	or
+conj:or	state	condition
+punct	state	.

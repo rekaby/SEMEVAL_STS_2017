@@ -1,0 +1,6 @@
+outdoors	are	cop
+outdoors	mountain	nmod:on
+mountain	a	det
+outdoors	People	nsubj
+outdoors	.	punct
+ROOT	outdoors	root

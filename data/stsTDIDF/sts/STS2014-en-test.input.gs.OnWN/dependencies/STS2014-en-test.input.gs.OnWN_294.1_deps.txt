@@ -1,0 +1,13 @@
+root	ROOT	reverse
+det	direction	a
+dobj	reverse	direction
+punct	direction	,
+conj:or	direction	attitude
+cc	direction	or
+conj:or	direction	course
+case	action	of
+nmod:of	course	action
+punct	reverse	,
+advmod	perceptually	perhaps
+advmod	reverse	perceptually
+punct	reverse	.

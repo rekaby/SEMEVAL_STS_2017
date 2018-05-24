@@ -1,0 +1,5 @@
+amod	earthquake	7.7-magnitude
+nsubj	hits	earthquake
+root	ROOT	hits
+compound	Pakistan	SW
+dobj	hits	Pakistan

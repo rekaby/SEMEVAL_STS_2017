@@ -1,0 +1,6 @@
+compound	attack	Queen
+compound	attack	visits
+compound	attack	London
+compound	attack	soldier
+nsubj	scene	attack
+root	ROOT	scene

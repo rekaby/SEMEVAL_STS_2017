@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	excommunicated	of
+auxpass	excommunicated	being
+acl	state	excommunicated
+punct	state	.

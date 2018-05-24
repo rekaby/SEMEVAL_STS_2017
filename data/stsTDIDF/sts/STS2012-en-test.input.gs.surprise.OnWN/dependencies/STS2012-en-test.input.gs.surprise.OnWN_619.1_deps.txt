@@ -1,0 +1,7 @@
+root	ROOT	Fool
+cc	Fool	or
+conj:or	Fool	hoax
+punct	someone	-LRB-
+appos	hoax	someone
+punct	someone	-RRB-
+punct	Fool	.

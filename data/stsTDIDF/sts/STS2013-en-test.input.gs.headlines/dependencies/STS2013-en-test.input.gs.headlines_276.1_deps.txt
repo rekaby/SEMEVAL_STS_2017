@@ -1,0 +1,5 @@
+compound	counties	Florida
+nsubj	extend	counties
+root	ROOT	extend
+amod	voting	early
+dobj	extend	voting

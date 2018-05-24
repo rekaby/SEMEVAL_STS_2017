@@ -1,0 +1,10 @@
+pants	white	amod
+green	on	case
+golfs	woman	nsubj
+green	the	det
+golfs	green	nmod:on
+ROOT	golfs	root
+golfs	.	punct
+shirt	green	amod
+shirt	pants	conj:and
+woman	shirt	nmod:in

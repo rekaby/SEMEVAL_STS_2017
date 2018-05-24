@@ -1,0 +1,9 @@
+det	man	A
+nsubj	pouring	man
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	oil
+case	skillet	into
+det	skillet	a
+nmod:into	pouring	skillet
+punct	pouring	.

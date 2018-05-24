@@ -1,0 +1,7 @@
+nsubj	defeats	Hollande
+root	ROOT	defeats
+dobj	defeats	Sarkozy
+case	vote	in
+amod	vote	French
+compound	vote	presidency
+nmod:in	defeats	vote

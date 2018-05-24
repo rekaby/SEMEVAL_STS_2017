@@ -1,0 +1,5 @@
+arm	an	det
+bites	dog	nsubj
+bites	arm	dobj
+ROOT	bites	root
+bites	.	punct

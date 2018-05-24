@@ -1,0 +1,16 @@
+compound	Turner	Mr.
+nsubj	transferred	Turner
+root	ROOT	transferred
+advmod	million	about
+compound	million	10
+nummod	shares	million
+dobj	transferred	shares
+case	trust	to
+det	trust	a
+amod	trust	charitable
+nmod:to	transferred	trust
+mark	sold	before
+nsubjpass	sold	they
+auxpass	sold	were
+advcl	transferred	sold
+punct	transferred	.

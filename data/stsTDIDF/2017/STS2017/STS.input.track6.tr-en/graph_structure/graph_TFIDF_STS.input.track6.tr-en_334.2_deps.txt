@@ -1,0 +1,11 @@
+surrounded	,	punct
+wearing	both	cc:preconj
+surrounded	wearing	advcl
+ROOT	surrounded	root
+surrounded	is	auxpass
+surrounded	woman	nmod:agent
+surrounded	man	nsubjpass
+clothes	red	amod
+woman	by	case
+wearing	clothes	dobj
+surrounded	.	punct

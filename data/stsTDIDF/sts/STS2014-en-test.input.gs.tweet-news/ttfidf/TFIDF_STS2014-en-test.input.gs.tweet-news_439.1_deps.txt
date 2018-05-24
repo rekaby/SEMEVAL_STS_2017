@@ -1,0 +1,20 @@
+punct problem .-10) root(ROOT-0, Ready-set-go	15.060439779775294
+punct Ready-set-go .-2) root(ROOT-0, NYTimes	15.060439779775294
+case Athletes As	15.060439779775294
+nmod:as NYTimes Athletes	15.060439779775294
+dep Athletes Compete	15.060439779775294
+conj Compete Questions	15.060439779775294
+punct Compete ,	14.367292599215348
+case Logistics of	13.451001867341194
+nmod:of Questions Logistics	13.451001867341194
+amod Athletes Disabled	13.26868031054724
+acl:relcl problem is	13.11452963071998
+aux problem should	12.757854686781249
+dobj is that	12.287851057535512
+punct NYTimes :	11.253777290004974
+nsubj problem This	11.128614147050968
+neg problem n't	11.035088089040144
+cop problem be	10.140458853947168
+root ROOT problem	8.95341689203304
+nsubj is it	8.01815360783555
+det problem the	7.682680871547421

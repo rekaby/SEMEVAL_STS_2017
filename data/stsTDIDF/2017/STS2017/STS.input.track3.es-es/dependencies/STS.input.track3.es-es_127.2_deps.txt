@@ -1,0 +1,12 @@
+det	man	An
+amod	man	African
+nsubj	doing	man
+aux	doing	is
+neg	doing	not
+root	ROOT	doing
+det	trick	a
+dobj	doing	trick
+case	stick	with
+det	stick	a
+nmod:with	doing	stick
+punct	doing	.

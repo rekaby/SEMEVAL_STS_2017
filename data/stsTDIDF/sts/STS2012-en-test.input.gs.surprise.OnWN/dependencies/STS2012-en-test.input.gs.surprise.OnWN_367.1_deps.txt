@@ -1,0 +1,5 @@
+root	ROOT	examine
+dobj	examine	minutely
+punct	minutely	;
+compound	diligently	search
+conj	minutely	diligently

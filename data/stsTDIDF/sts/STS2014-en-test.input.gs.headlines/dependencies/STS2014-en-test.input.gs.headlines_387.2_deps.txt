@@ -1,0 +1,8 @@
+compound	victim	Delhi
+compound	victim	gang
+compound	victim	rape
+root	ROOT	victim
+acl	victim	flown
+case	hospital	to
+compound	hospital	Singapore
+nmod:to	flown	hospital

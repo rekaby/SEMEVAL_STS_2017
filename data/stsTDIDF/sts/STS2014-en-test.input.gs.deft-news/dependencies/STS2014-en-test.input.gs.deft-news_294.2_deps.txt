@@ -1,0 +1,12 @@
+det	visit	a
+nsubjpass	announced	visit
+case	libya	to
+nmod:to	visit	libya
+case	minister	by
+det	minister	the
+amod	minister	russian
+amod	minister	foreign
+nmod:by	visit	minister
+auxpass	announced	was
+root	ROOT	announced
+punct	announced	.

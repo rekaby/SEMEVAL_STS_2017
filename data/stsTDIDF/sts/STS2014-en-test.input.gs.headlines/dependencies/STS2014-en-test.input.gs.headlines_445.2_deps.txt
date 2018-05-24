@@ -1,0 +1,5 @@
+compound	summary	News
+root	ROOT	summary
+case	January	for
+nmod:for	summary	January
+nummod	January	14

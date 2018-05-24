@@ -1,0 +1,14 @@
+root	ROOT	Taking
+amod	culture	foodie
+dobj	Taking	culture
+advmod	far	maybe
+det	bit	a
+nmod:npmod	far	bit
+advmod	far	too
+dep	Taking	far
+punct	far	...
+det	Luxury	The
+amod	Luxury	Unaffordable
+dep	far	Luxury
+case	Food	of
+nmod:of	Luxury	Food

@@ -1,0 +1,8 @@
+amod	trafficker	afghan
+compound	trafficker	drug
+nsubjpass	caught	trafficker
+auxpass	caught	was
+root	ROOT	caught
+case	tajikistan	in
+nmod:in	caught	tajikistan
+punct	caught	.

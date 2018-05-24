@@ -1,0 +1,18 @@
+nsubj	concur	I
+root	ROOT	concur
+case	@T	with
+nmod:with	concur	@T
+punct	concur	.-5) root(ROOT-0, E.D
+punct	E.D	;
+det	question	the
+nsubj	bet	question
+cop	bet	is
+det	bet	a
+punct	bet	``
+neg	bet	no
+amod	Scotsman	True
+compound	bet	Scotsman
+punct	bet	''
+compound	bet	bar
+parataxis	E.D	bet
+punct	E.D	.

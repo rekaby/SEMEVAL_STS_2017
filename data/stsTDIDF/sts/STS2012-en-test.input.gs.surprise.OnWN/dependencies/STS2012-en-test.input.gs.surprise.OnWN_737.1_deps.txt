@@ -1,0 +1,6 @@
+root	ROOT	sharpen
+det	razor	a
+dobj	sharpen	razor
+case	strap	with
+det	strap	a
+nmod:with	razor	strap

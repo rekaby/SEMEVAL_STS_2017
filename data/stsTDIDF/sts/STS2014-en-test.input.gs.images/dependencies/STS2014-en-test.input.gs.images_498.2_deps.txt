@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	cuts	woman
+case	dress	in
+det	dress	a
+amod	dress	blue
+nmod:in	woman	dress
+root	ROOT	cuts
+det	cake	a
+dobj	cuts	cake
+punct	cuts	.

@@ -1,0 +1,13 @@
+ccomp	says	Come
+cc	Come	and
+conj:and	Come	get
+dobj	get	me
+punct	says	,
+root	ROOT	says
+compound	leader	Thai
+compound	leader	protest
+nsubj	grow	leader
+case	riots	as
+amod	riots	anti-government
+nmod:as	leader	riots
+ccomp	says	grow

@@ -1,0 +1,10 @@
+root	ROOT	request
+cc	request	or
+conj:or	request	demand
+det	response	a
+dobj	request	response
+case	someone	from
+nmod:from	response	someone
+punct	request	;
+compound	someone	challenge
+dep	request	someone

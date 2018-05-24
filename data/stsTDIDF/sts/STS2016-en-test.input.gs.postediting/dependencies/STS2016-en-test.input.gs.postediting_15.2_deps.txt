@@ -1,0 +1,9 @@
+nsubj	lies	All
+root	ROOT	lies
+case	it	with
+nmod:with	lies	it
+punct	lies	,
+punct	says	``
+nsubj	says	he
+parataxis	lies	says
+punct	lies	.

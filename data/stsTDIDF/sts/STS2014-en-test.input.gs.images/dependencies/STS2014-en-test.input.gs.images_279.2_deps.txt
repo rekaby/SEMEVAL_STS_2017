@@ -1,0 +1,11 @@
+det	cow	A
+amod	cow	white
+root	ROOT	cow
+case	ears	with
+amod	ears	big
+nmod:with	cow	ears
+acl	ears	looking
+case	camera	into
+det	camera	the
+nmod:into	looking	camera
+punct	cow	.

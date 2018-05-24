@@ -1,0 +1,7 @@
+det	person	A
+nsubj	drawing	person
+aux	drawing	is
+root	ROOT	drawing
+det	picture	a
+dobj	drawing	picture
+punct	drawing	.

@@ -1,0 +1,9 @@
+root	ROOT	Tour
+compound	France	De
+nsubj	Pack	France
+acl:relcl	Tour	Pack
+dobj	Pack	Sets
+compound:prt	Pack	off
+case	Stage	for
+nmod:for	Pack	Stage
+nummod	Stage	15

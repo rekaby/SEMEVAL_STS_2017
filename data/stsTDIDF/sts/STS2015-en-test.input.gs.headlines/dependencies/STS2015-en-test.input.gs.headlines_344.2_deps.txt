@@ -1,0 +1,6 @@
+compound	drone	US
+nsubj	kills	drone
+root	ROOT	kills
+dobj	kills	16
+case	Pakistan	in
+nmod:in	kills	Pakistan

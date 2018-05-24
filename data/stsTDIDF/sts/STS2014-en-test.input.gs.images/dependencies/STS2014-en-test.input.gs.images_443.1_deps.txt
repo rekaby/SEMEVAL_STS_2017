@@ -1,0 +1,11 @@
+det	bus	A
+amod	bus	yellow
+compound	bus	school
+nsubjpass	parked	bus
+auxpass	parked	is
+root	ROOT	parked
+case	area	in
+det	area	a
+amod	area	rural
+nmod:in	parked	area
+punct	parked	.

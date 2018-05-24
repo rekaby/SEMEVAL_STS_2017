@@ -1,0 +1,8 @@
+nummod	fire	38
+amod	fire	feared
+amod	fire	dead
+case	hospital	in
+amod	hospital	Russian
+amod	hospital	psychiatric
+nmod:in	dead	hospital
+root	ROOT	fire

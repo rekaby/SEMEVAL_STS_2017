@@ -1,0 +1,6 @@
+nsubj	play	Dogs
+root	ROOT	play
+case	water	in
+det	water	the
+nmod:in	play	water
+punct	play	.

@@ -1,0 +1,15 @@
+nsubj	about	I
+cop	about	'm
+advmod	about	actually
+root	ROOT	about
+mark	do	to
+xcomp	about	do
+det	thing	the
+amod	thing	same
+dobj	do	thing
+advmod	transferring	when
+advcl	do	transferring
+case	Heathrow	at
+compound	Heathrow	London
+nmod:at	transferring	Heathrow
+punct	about	.

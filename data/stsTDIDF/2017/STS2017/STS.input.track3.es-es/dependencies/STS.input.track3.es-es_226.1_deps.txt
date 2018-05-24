@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+det	dog	a
+amod	dog	brown
+nsubj	is	dog
+acl	dog	jumping
+case	beach	on
+det	beach	the
+nmod:on	jumping	beach
+punct	is	.

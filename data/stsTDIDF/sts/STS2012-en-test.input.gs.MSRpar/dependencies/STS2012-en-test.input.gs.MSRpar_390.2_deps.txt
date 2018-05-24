@@ -1,0 +1,17 @@
+det	donation	The
+nsubj	brings	donation
+case	tons	of
+nummod	tons	60,000
+nmod:of	donation	tons
+root	ROOT	brings
+det	total	the
+dobj	brings	total
+case	contributions	of
+compound	contributions	U.S.
+nmod:of	total	contributions
+case	year	for
+det	year	the
+nmod:for	contributions	year
+case	100,000	to
+nmod:to	brings	100,000
+punct	brings	.

@@ -1,0 +1,8 @@
+compound	cows	Tan
+nsubj	look	cows
+root	ROOT	look
+advmod	look	closely
+case	camera	at
+det	camera	the
+nmod:at	look	camera
+punct	look	.

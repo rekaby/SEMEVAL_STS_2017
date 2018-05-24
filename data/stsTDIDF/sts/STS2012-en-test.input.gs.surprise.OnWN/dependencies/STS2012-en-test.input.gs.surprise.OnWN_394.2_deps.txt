@@ -1,0 +1,8 @@
+det	coat	a
+amod	coat	finishing
+nsubj	applied	coat
+root	ROOT	applied
+mark	exclude	to
+xcomp	applied	exclude
+dobj	exclude	moisture
+punct	applied	.

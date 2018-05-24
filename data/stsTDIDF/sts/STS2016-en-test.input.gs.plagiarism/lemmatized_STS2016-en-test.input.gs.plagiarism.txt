@@ -1,0 +1,228 @@
+Vector space representation result in the loss of the order which the term be in the document . 	if a term occur in the document , the value will be non-zero in the vector . 	1
+inheritance in object orient programming be a way to form new class use class that have already be define . 	the peropo of inheritance in object orient programming be to minimize the reuse of exist code without modification . 	2
+to explain further vector space model , basically a document be characterize by a vector . 	a document be represent as a vector . 	3
+Bayes ' theorem be name after rev Thomas Bayes and be a method use in probability theory . 	as a official theorem , Bayes ' theorem be valid in all universal interpretation of probability . 	4
+if a term appear in the document then its value in the vector be non-zero . 	a document be represent as a vector and each dimension correspond to a separate term . 	5
+• p -lrb- a | b -rrb- be the conditional probability of a , give B. 	• p -lrb- b | a -rrb- be the conditional probability of b give a. 	6
+the differ application have a direct influence on what the definition of the term mean . 	the way that a ` term ' be define depend on the application . 	7
+thus , the `` program '' be the optimal plan of action that be be produce . 	thus , the `` program '' be the optimal plan for action that be produce . 	8
+thus , the `` program '' be the optimal plan for action that be produce . 	therefore , the `` program '' be the optimal plan for action that be produce . 	9
+one of the best know scheme be tf-idf weighting -lrb- see the example below -rrb- . 	one of the best know method be call tf-idf weighting . 	10
+it be `` previous '' in the sense that it do not take into account any information about B. 	it do not take into account any information about b and therefore be consider `` prior '' . 	11
+the algebraic model for represent text document and object as vector of identifier be call the vector space model . 	a possible use for a vector space model be for retrieval and filter of information . 	12
+secondly to define the value of the optimal solution recursively . 	generalise the structure of a optimal solution 2 . 	13
+there be two main approach for dynamic programming . 	there be four step in Dynamic Programming : 1 . 	14
+p -lrb- a -rrb- , or the probability that the student be a girl regardless of any other information . 	it be mainly use to calculate the probability of one event 's outcome give that a previous event happen . 	15
+for instance , a event schedule at a exhibition be sometimes call a program . 	for instance , a finalize schedule of event at a exhibition be sometimes call a program . 	16
+this can be useful when the number of time a word appear be not consider important . 	one of the most important use of page rank be its meaning to advertising . 	17
+define value of optimal solution recursively . 	characterise structure of a optimal solution . 	18
+it be first use in the SMART Information Retrieval System . 	it be use in information retrieval and be first use in the SMART Information Retrieval System . 	19
+in vector space model , the document from which the information be to be retrieve be represent as vector . 	the vector space model have several disadvantage . 	20
+a term which occur in the document have a value in the vector of non-zero . 	the order in which the term appear in the document be lose in the vector space representation . 	21
+Vector space representation result in the loss of the order which the term be in the document . 	in the vector space model a document be represent as a vector . 	22
+the easiest way to look at inheritance be as a `` ... be a kind of '' relationship . 	a example of this gain in efficiency be a path-finding problem . 	23
+if a term exist in a document , its value in the vector be not equal to zero . 	a document be represent as a vector , with each dimension correspond to a separate term . 	24
+Vector space representation result in the loss of the order which the term be in the document . 	since the PageRank be the most important algorithm which be use in the Google engine . 	25
+a document be represent as a vector , with each dimension correspond to a separate term . 	the basic idea be to represent each document as a vector of certain weighted word frequency . 	26
+thus , the `` program '' be the optimal plan for action that be produce . 	after this , it be use this to pick the best overall path . 	27
+a document be represent as a vector . 	the vector space model be the document which be represent as `` bag of word '' . 	28
+the value of a vector be non-zero if a term occur in the document . 	a term which occur in the document have a value in the vector of non-zero . 	29
+a page that be link to by many page with high pagerank receive a high rank itself . 	a link to a page be see as a vote of support . 	30
+several different way of compute these value , also know as -lrb- term -rrb- weight , have be develop . 	other way of compute these value , or weight , have be develop . 	31
+a document be represent as a vector , with each dimension correspond to a separate term . 	the value of a vector be non-zero if a term occur in the document . 	32
+p -lrb- b -rrb- -lrb- a.k.a. the normalize constant -rrb- be the prior or marginal probability of B. 	p -lrb- b -rrb- be the prior or marginal probability of b , and act as a normalize constant . 	33
+the PageRank be compute iteratively , and it be find that the pagerank value converge fairly rapidly . 	the pagerank depend on the PageRank rating and number of all page that have link to it . 	34
+in general , we can solve a problem with optimal substructure use a three-step process : 1 . 	in a word , we can solve a problem with optimal substructure use a three-step process . 	35
+in the vector space model a document be represent as a vector . 	a possible use for a vector space model be for retrieval and filter of information . 	36
+one of its use be calculate posterior probability give observation . 	it be usually use to calculate posterior probability give observation . 	37
+if a term appear in the document , the term value in the vector be non-zero . 	each item in the vector represent a different keyword . 	38
+finally , the order in which the term appear in the document be lose in the vector space representation . 	a term which occur in the document have a value in the vector of non-zero . 	39
+several different way of compute these value , also know as -lrb- term -rrb- weight , have be develop . 	many different way of calculate these value , also know as -lrb- term -rrb- weight , have be develop . 	40
+to derive the theorem , we begin with the definition of conditional probability . 	in probability theory , the prior and conditional probability of two random event be relate by Bayes ' theorem . 	41
+the way that a ` term ' be define depend on the application . 	the definition of term be dependent on the application . 	42
+its first application be in the SMART Information Retrieval System . 	it be use in the first time in the SMART Information Retrieval System . 	43
+it do not take into account any information about b , so it be `` prior '' . 	however a object can not be cast to a class which be no relative of it . 	44
+follow this , each web page be give a ranking of 0-10 accord to its relevance to a search . 	a variation of the pagerank method basis the importance of a webpage on how many visit the page get . 	45
+thus , the program be the best plan for action that be produce . 	thus , the `` program '' be the optimal plan of action that be be produce . 	46
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	they do not have to be write in a computer language . 	47
+these subproblem be not , however , independent . 	it be similar to divide and conquer , however be differentiate as its subproblem be not independent . 	48
+the key to Dynamic Programming be to find the structure of optimal solution . 	in general , dynamic programming be use on optimisation problem , where the most efficient solution be need . 	49
+when a document be represent as a vector , each dimension correspond to a separate term . 	each dimension correspond to a separate term . 	50
+Bayes Theorem be a mathematical formula use to calculate conditional probability . 	baye ' theorem relate the conditional and marginal probability of two random event . 	51
+lucky Joe like to predict the colour of the ball he select and he be 80 % accurate . 	Joe record all of he result and about 0.5 % of the time he accidently record the wrong result . 	52
+thus , the program be the best plan for action that be produce . 	the other method be the top down approach which be a method that combine memorization and recursion . 	53
+it be usually use to calculate posterior probability give observation . 	it be usually be use to compute posterior probability give observation . 	54
+the methodology take much less time rather than naive method . 	the method take much less time than naive method . 	55
+the methodology take much less time rather than naive method . 	this be a much quicker method than other more naive method . 	56
+the definition of term be dependent on the application . 	the definition of term depend on the application . 	57
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	it be similar to divide and conquer , however be differentiate as its subproblem be not independent . 	58
+characterise structure of a optimal solution . 	use these optimal solution to construct a optimal solution for the original problem . 	59
+the theorem be often use when we have observation and wish to compute posterior probability . 	it be usually use to calculate posterior probability give observation . 	60
+occasionally it be advantageous to differentiate between these use , as it be not necessarily noticeable from context . 	it also provide a way to generalize du to the `` be a '' relationship between class . 	61
+construct a optimal solution from computed value . 	define value of optimal solution recursively . 	62
+occasionally it be advantageous to differentiate between these use , as it be not necessarily noticeable from context . 	it be similar to divide and conquer , however be differentiate as its subproblem be not independent . 	63
+when a document be represent as a vector , each dimension correspond to a separate term . 	the basic idea be to represent each document as a vector of certain weighted word frequency . 	64
+when a document be represent as a vector , each dimension correspond to a separate term . 	each dimension correspond to a separate term . 	65
+Mathematicians use the word to describe a set of rule which anyone can follow to solve a problem . 	however a object can not be cast to a class which be no relative of it . 	66
+whilst bayesian describe probability in term of belief and degree of uncertainty . 	at the same time , Bayesians describe probability in term of belief and degree of uncertainty . 	67
+it be use in information filter , information retrieval , indexing and relevancy ranking . 	it be use in information filter , indexing , relevancy ranking and information retrieval . 	68
+in probability theory , Bayes ' theorem relate the conditional and marginal probability of two random event . 	Bayes ' theorem be useful in evaluate the result of drug test . 	69
+Outbound , link from you page to other . 	dangling , link to a page which have no link to other . 	70
+Vector space representation result in the loss of the order which the term be in the document . 	in vector space model , the document from which the information be to be retrieve be represent as vector . 	71
+in computer science ; dynamic programming be a way of solve problem consist of overlap subproblem and optimal substructure . 	however , the key in Dynamic Programming be to determine the structure of optimal solution . 	72
+if a term appear in the document , the term value in the vector be non-zero . 	Vector space representation result in the loss of the order which the term be in the document . 	73
+in vector space model , the document from which the information be to be retrieve be represent as vector . 	finally , the order in which the term appear in the document be lose in the vector space representation . 	74
+for instance , a finalize schedule of event at a exhibition be sometimes call a program . 	the typical example could be of a finalize schedule of event at a exhibition . 	75
+several different way of compute these value , also know as -lrb- term -rrb- weight , have be develop . 	several different way of compute these value , additionally know as -lrb- term -rrb- weight , have be develop . 	76
+if a term exist in a document , its value in the vector be not equal to zero . 	if a term appear in the document then its value in the vector be non-zero . 	77
+a hyperlink to a page count as a vote of support . 	a link to a page be see as a vote of support . 	78
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	the main problem be divide into sub problem which be solve and store for future use . 	79
+most of these language provide a `` extend '' keyword , which be use to subclass another . 	for example , a program could exist to model different form of transport . 	80
+for instance , a finalize schedule of event at a exhibition be sometimes call a program . 	for example , a schedule of event at a exhibition be sometimes call a programme . 	81
+the value of a vector be non-zero if a term occur in the document . 	each document be a vector where each word be a dimension . 	82
+the theorem be often use when we have observation and wish to compute posterior probability . 	it be often use to calculate posterior probability give observation . 	83
+other possible use for vector space model be indexing and also to rank the relevancy of differ document . 	in this classic model the term specific weight in the document vector be product of local and global parameter . 	84
+the correct answer can be compute use Bayes ' theorem . 	Bayes ' theorem be useful in evaluate the result of drug test . 	85
+• p -lrb- b | a -rrb- be the conditional probability of b give a. 	p -lrb- a | b -rrb- be the conditional probability of a , give B. 	86
+since the PageRank be the most important algorithm which be use in the Google engine . 	the PageRank be a recursive algorithm use by Google to determine which webpage be more important than other . 	87
+nevertheless , the patent be assign to the University of Stanford and not to Google . 	however , the patent be assign to Stanford University and not to Google . 	88
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	it be therefore use to create relationship between one object and another . 	89
+in the vector space model a document be represent as a vector . 	a document be represent as a vector , and each dimension correspond to a separate term . 	90
+p -lrb- b -rrb- be the prior or marginal probability of b , and act to normalise the probability . 	p -lrb- b -rrb- -lrb- a.k.a. the normalize constant -rrb- be the prior or marginal probability of B. 	91
+this can be useful when the number of time a word appear be not consider important . 	the easiest way to look at inheritance be as a `` ... be a kind of '' relationship . 	92
+in probability theory , Bayes ' theorem relate the conditional and marginal probability of two random event . 	baye ' theorem relate the conditional and marginal probability of two random event . 	93
+the definition of term depend on the application . 	the definition of a term depend on the application . 	94
+break up the problem different smaller subproblem . 	a problem with overlap subproblem mean that the same subproblem may be use to solve many different larger problem . 	95
+inheritance be a method of form new class use predefined class . 	inheritance in object orient programming be a way to form new class use class that have already be define . 	96
+so the same rule apply with keyword and indeed longer phrase . 	single word , keyword and occasionally longer phrase be use for term . 	97
+there be also conditional probability which be usually interested in the way variable relate to each other . 	the PageRank be a recursive algorithm use by Google to determine which webpage be more important than other . 	98
+thus , the program be the best plan for action that be produce . 	thus , the `` program '' be the optimal plan for action that be produce . 	99
+inheritance be a basic concept in object orient programming . 	inheritance in object orient programming be a way to form new class use class that have already be define . 	100
+programming , in this sense , mean find a acceptable plan of action . 	programming , in this sense , mean find a acceptable plan , a algorithm . 	101
+the vector space model have some limitation : 1 . 	the vector space model have several disadvantage . 	102
+use the vector space model for Information Retrieval model all page and query as high-dimensional sparse vector . 	a possible use for a vector space model be for retrieval and filter of information . 	103
+one of the most famous scheme be tf-idf weighting . 	one of the best know scheme be tf-idf -lrb- term frequency-inverse document frequency -rrb- weighting . 	104
+a document be represent as a vector , with each dimension correspond to a separate term . 	a document have representation as a vector . 	105
+Vector space representation result in the loss of the order which the term be in the document . 	the order in which term appear in the document be lose in a vector space representation . 	106
+the basic idea be to represent each document as a vector of certain weighted word frequency . 	if a term appear in the document , the term value in the vector be non-zero . 	108
+therefore , the `` program '' be the optimal plan for action that be produce . 	the `` program '' be the optimal plan for action that be produce . 	109
+this be highly use in dynamic programming . 	there be four step in Dynamic Programming : 1 . 	110
+other way of compute these value , or weight , have be develop . 	many different method of calculate these value , sometimes know as -lrb- term -rrb- weight , have be develop . 	111
+it be usually be use to compute posterior probability give observation . 	it be use to compute posterior probability give observation . 	112
+in probability theory , Bayes ' theorem relate the conditional and marginal probability of two random event . 	Bayes Theorem be a mathematical formula use to calculate conditional probability . 	113
+p -lrb- b -rrb- be the prior or marginal probability of b , and act as a normalize constant . 	p -lrb- b | a -rrb- be the conditional probability of b give a. 	114
+a website 's page rank , be how ` important ' it be on the web . 	a variation of the pagerank method basis the importance of a webpage on how many visit the page get . 	115
+in computer science ; dynamic programming be a way of solve problem consist of overlap subproblem and optimal substructure . 	Dynamic Programming be a very powerful mathematical technique , often utilise in programming , for solve optimization problem . 	116
+the most popular be tf-idf weighting . 	one of the most famous scheme be tf-idf weighting . 	117
+this method be use in the Google Toolbar , which report back actual site visit to Google . 	in order to prevent spamming , Google release little information on the way in which a pagerank be calculate . 	118
+to achieve this , the programmer have to note generalisation and similarity about various aspect of the program . 	Mathematicians use the word to describe a set of rule which anyone can follow to solve a problem . 	119
+construct a optimal solution from computed value . 	the last point would be to construct a optimal solution from the computed value . 	120
+if the term do not occur within the document , the value in the vector be zero . 	if a term appear in the document , the term value in the vector be non-zero . 	121
+this be a much quicker method than other more naive method . 	the method take much less time than naive method . 	122
+p -lrb- b -rrb- be the prior or marginal probability of b , and act to normalise the probability . 	p -lrb- a -rrb- , or the probability that the student be a girl regardless of any other information . 	123
+inheritance in object orient programming be a way to form new class use class that have already be define . 	inheritance in object orient programming be where a new class be form use class which have allready be define . 	124
+they also inherit the attribute and method of its superclass . 	the new class be call derive class and they inherit the behaviour and attribute of the base class . 	125
+a term which occur in the document have a value in the vector of non-zero . 	a document be represent as a vector , with each dimension correspond to a separate term . 	126
+if a term appear in the document , the term value in the vector be non-zero . 	a term which occur in the document have a value in the vector of non-zero . 	127
+the order in which term appear in the document be lose in a vector space representation . 	in vector space model , the document from which the information be to be retrieve be represent as vector . 	128
+the vector space model have some limitation : 1 . 	limitation : there be some limitation of vector space model . 	129
+however , the vector space model have limitation . 	the limitation of the vector space model be thus . 	130
+the method can be abuse when people deliberately link to site in order to raise a site 's pagerank . 	Mathematicians use the word to describe a set of rule which anyone can follow to solve a problem . 	131
+when a document be represent as a vector , each dimension correspond to a separate term . 	to explain further vector space model , basically a document be characterize by a vector . 	132
+the basic idea be to represent each document as a vector of certain weighted word frequency . 	a term which occur in the document have a value in the vector of non-zero . 	133
+programming , in this sense , mean find a acceptable plan of action . 	program means find a plan of action . 	134
+Google 's payoff be that it get to track the behaviour of actual user . 	after this , it be use this to pick the best overall path . 	135
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	there be also conditional probability which be usually interested in the way variable relate to each other . 	136
+Bayes ' theorem be name after rev Thomas Bayes and be a method use in probability theory . 	as a formal theorem Bayes theorem be valid in all common interpretation of probability . 	137
+Dynamic Programming solve problem by combine the solution of subproblem . 	the key to Dynamic Programming be to find the structure of optimal solution . 	138
+term be basically the word or any indexing unit use to identify the contents of a text . 	in this classic model the term specific weight in the document vector be product of local and global parameter . 	139
+the vector space model be the document which be represent as `` bag of word '' . 	in vector space model , the document from which the information be to be retrieve be represent as vector . 	140
+thus , the `` program '' be the optimal plan of action that be be produce . 	the easiest way to look at inheritance be as a `` ... be a kind of '' relationship . 	141
+to achieve this , the programmer have to note generalisation and similarity about various aspect of the program . 	the advantage be the less time consumption in comparison to other amateur method . 	142
+subclass be say to extend or specialise they superclass . 	subclass be say to ` extend ' superclass . 	143
+it be also call the posterior probability because it be derive from or depend upon the specify value of B. 	it be also call the subsequent probability because it be derive from or depend upon the specify value of B. 	144
+this can be useful when the number of time a word appear be not consider important . 	it be mainly use to calculate the probability of one event 's outcome give that a previous event happen . 	145
+Java allow object inheritance . 	inheritance be one of the basic concept of Object Oriented Programming . 	146
+Mathematicians use the word to describe a set of rule which anyone can follow to solve a problem . 	instead , a new object be make to inherit property of object which already exist . 	147
+one of the best know scheme be tf-idf weighting , propose by Salton , Wong and Yang . 	tf-idf weighting be one of the most well know scheme . 	149
+in the vector space model a document be represent as a vector . 	the vector space model be the document which be represent as `` bag of word '' . 	150
+the vector space model have the follow limitation : 1 . 	limitation : there be some limitation of vector space model . 	151
+it be intend to help reuse exist code with little or no modification . 	the idea of inheritance be to reuse the exist code with little or no modification at all . 	152
+it be often use to compute posterior probability give observation . 	the theorem be often use when we have observation and wish to compute posterior probability . 	153
+when any sub-problem be meet again , it can be find and re-use to solve another problem . 	it be intend to allow exist code to be use again with minimal or no alteration . 	154
+the peropo of inheritance in object orient programming be to minimize the reuse of exist code without modification . 	in object orient programming inheritance be also dependant on access level modifier . 	155
+every dimension be precisely related to a separate term . 	each and every dimension correspond to a separate term . 	156
+the other method be the top down approach which be a method that combine memorization and recursion . 	the easiest way to look at inheritance be as a `` ... be a kind of '' relationship . 	157
+p -lrb- a -rrb- , or the probability that the student be a girl regardless of any other information . 	later version of pagerank -lrb- see the below formula -rrb- would assume a probability distribution between 0 and 1 . 	158
+when a document be represent as a vector , each dimension correspond to a separate term . 	the value of a vector be non-zero if a term occur in the document . 	159
+to achieve this , the programmer have to note generalisation and similarity about various aspect of the program . 	term be basically the word or any indexing unit use to identify the contents of a text . 	160
+the vector space model be the document which be represent as `` bag of word '' . 	the limitation of the vector space model be thus . 	161
+the vector space model be one of these method , and it be a algebraic model . 	in vector space model , the document from which the information be to be retrieve be represent as vector . 	162
+the vector space model have the follow limitation : 1 . 	the vector space model have some limitation : 1 . 	163
+however a object can not be cast to a class which be no relative of it . 	here by mean that a program can be a optimal plan for the produce action . 	164
+the vector be then constucted of the frequency of eacher word -lrb- dimension -rrb- . 	the basic idea be to represent each document as a vector of certain weighted word frequency . 	165
+typically term be single word , keyword , or longer phrase . 	typically term be keyword , single word or longer phrase . 	166
+it do not take into account any information about b and therefore be consider `` prior '' . 	it do not take into account any information about b , so it be `` prior '' . 	167
+the pagerank depend on the PageRank rating and number of all page that have link to it . 	of a particular page be roughly base upon the quantity of inbound link as well as the PageRank ? 	168
+construct a optimal solution from computed value . 	use these optimal solution to construct a optimal solution for the original problem . 	169
+single word , keyword and occasionally longer phrase be use for term . 	the number of unique word in the vocabulary denote the dimensionality , if word be use for the term . 	170
+the vector space model have several disadvantage . 	a document have representation as a vector . 	171
+every dimension be precisely related to a separate term . 	a document be represent as a vector , with each dimension correspond to a separate term . 	172
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	occasionally it be advantageous to differentiate between these use , as it be not necessarily noticeable from context . 	173
+this be highly use in dynamic programming . 	the key to Dynamic Programming be to find the structure of optimal solution . 	174
+the idea of inheritance be to reuse the exist code with little or no modification at all . 	the idea of inheritance in oop refer to the formation of new class with the already exist class . 	175
+the peropo of inheritance in object orient programming be to minimize the reuse of exist code without modification . 	however , the key in Dynamic Programming be to determine the structure of optimal solution . 	176
+a document be represent as a vector and each dimension correspond to a separate term . 	when a document be represent as a vector , each dimension correspond to a separate term . 	177
+it be valid in all common interpretation of probability . 	as a official theorem , Bayes ' theorem be valid in all universal interpretation of probability . 	178
+the order in which the term appear in the document be lose in the vector space representation . 	if the term do not occur within the document , the value in the vector be zero . 	179
+since it be a formal theorem , Bayes ' theorem hold in all popular interpretation of probability . 	as a formal theorem , Bayes ' theorem be valid in all common interpretation of probability . 	180
+the methodology take much less time rather than naive method . 	the method be more effiecent than naive method . 	181
+the most popular be tf-idf weighting . 	one of the best know scheme be tf-idf -lrb- term frequency-inverse document frequency -rrb- weighting . 	182
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	this can be useful when the number of time a word appear be not consider important . 	183
+the value of a vector be non-zero if a term occur in the document . 	if the term do not occur within the document , the value in the vector be zero . 	184
+the value of a vector be non-zero if a term occur in the document . 	the order in which the term appear in the document be lose in the vector space representation . 	185
+the way that a ` term ' be define depend on the application . 	the easiest way to look at inheritance be as a `` ... be a kind of '' relationship . 	186
+the similarity measure largely identify the retrieval efficiency of a particular information retrieval system . 	it be use in information retrieval and be first use in the SMART Information Retrieval System . 	187
+typically term be keyword , single word or longer phrase . 	single word , keyword and occasionally longer phrase be use for term . 	188
+the vector space model be one of these method , and it be a algebraic model . 	the vector space model have the follow limitation : 1 . 	189
+therefore , the `` program '' be the optimal plan for action that be produce . 	since the PageRank be the most important algorithm which be use in the Google engine . 	190
+• p -lrb- a | b -rrb- be the conditional probability of a , give B. 	p -lrb- b -rrb- -lrb- a.k.a. the normalize constant -rrb- be the prior or marginal probability of B. 	191
+construct a optimal solution from computed value . 	generate the optimal solution of these computed value 	192
+the theorem be often use when we have observation and wish to compute posterior probability . 	it be usually be use to compute posterior probability give observation . 	193
+generalise the structure of a optimal solution 2 . 	use these optimal solution to construct a optimal solution for the original problem . 	194
+the vector space model be one of these method , and it be a algebraic model . 	the vector space model have several disadvantage . 	195
+if the term do not occur within the document , the value in the vector be zero . 	finally , the order in which the term appear in the document be lose in the vector space representation . 	196
+when a document be represent as a vector , each dimension correspond to a separate term . 	in the vector space model a document be represent as a vector . 	197
+overlapping subproblem mean that the same subproblem be use to solve many different larger problem . 	a problem with overlap subproblem mean that the same subproblem may be use to solve many different larger problem . 	198
+the differ application have a direct influence on what the definition of the term mean . 	term be basically the word or any indexing unit use to identify the contents of a text . 	199
+the differ application have a direct influence on what the definition of the term mean . 	the definition of term be dependent on the application . 	200
+inheritance be a important feature in object orientate programming . 	the peropo of inheritance in object orient programming be to minimize the reuse of exist code without modification . 	201
+in probability theory , the prior and conditional probability of two random event be relate by Bayes ' theorem . 	Bayes ' Theorem be a theorem of probability theory originally state by the Reverend Thomas Bayes . 	202
+without a proof of correctness , such a algorithm be likely to fail . 	however a object can not be cast to a class which be no relative of it . 	203
+so in essence it be a popularity contest between webpage . 	it be essentially a popularity meter . 	204
+several different way of compute these value , additionally know as -lrb- term -rrb- weight , have be develop . 	several different way have be develop of calculate these value -lrb- also know as term weight -rrb- . 	205
+the other method be the top down approach which be a method that combine memorization and recursion . 	since the PageRank be the most important algorithm which be use in the Google engine . 	206
+the order in which term appear in the document be lose in a vector space representation . 	if a term occur in the document , the value will be non-zero in the vector . 	207
+the method take much less time than naive method . 	and thus the method take much less time than more naive method . 	208
+inheritance be one of the basic concept of Object Oriented Programming . 	in object orient programming inheritance be also dependant on access level modifier . 	209
+as a formal theorem , Bayes ' theorem be valid in all common interpretation of probability . 	Bayes theorem can be use to compute the probability that a propose diagnosis be correct . 	210
+thus , the program be the best plan for action that be produce . 	after this , it be use this to pick the best overall path . 	211
+the basic idea be to represent each document as a vector of certain weighted word frequency . 	in the vector space model a document be represent as a vector . 	212
+object orient programming be a style of programming that support encapsulation , inheritance , and polymorphism . 	inheritance be a basic concept in object orient programming . 	213
+the vector space model have some limitation : 1 . 	the limitation of the vector space model be thus . 	214
+it be mainly use to calculate the probability of one event 's outcome give that a previous event happen . 	it be also call the posterior probability because it be derive from or depend upon the specify value of B. 	215
+the theorem be often use when we have observation and wish to compute posterior probability . 	Bayes theorem can be use to compute the probability that a propose diagnosis be correct . 	216
+this can be useful when the number of time a word appear be not consider important . 	it have no relationship to computer programming ; instead it be a process of find a satisfactory algorithm . 	217
+in probability theory , Bayes ' theorem relate the conditional and marginal probability of two random event . 	in probability theory , the prior and conditional probability of two random event be relate by Bayes ' theorem . 	218
+one of the best know scheme be tf-idf weighting -lrb- see the example below -rrb- . 	one of the best know scheme be tf-idf weighting , propose by Salton , Wong and Yang . 	219
+it be therefore use to create relationship between one object and another . 	it also provide a way to generalize du to the `` be a '' relationship between class . 	220
+then , use this , the best overall path can be find , thereby demonstrate the dynamic programming principle . 	the further down a inheritance tree you get , the more specific the class become . 	221
+when a document be represent as a vector , each dimension correspond to a separate term . 	a document have representation as a vector . 	222
+to achieve this , the programmer have to note generalisation and similarity about various aspect of the program . 	it be similar to divide and conquer , however be differentiate as its subproblem be not independent . 	223
+the further down a inheritance tree you get , the more specific the class become . 	the differ application have a direct influence on what the definition of the term mean . 	224
+the algebraic model for represent text document and object as vector of identifier be call the vector space model . 	the limitation of the vector space model be thus . 	225
+in general , dynamic programming be use on optimisation problem , where the most efficient solution be need . 	however , the key in Dynamic Programming be to determine the structure of optimal solution . 	226
+it be use in information filter , information retrieval , indexing and relevancy ranking . 	a possible use for a vector space model be for retrieval and filter of information . 	227
+the easiest way to look at inheritance be as a `` ... be a kind of '' relationship . 	it also provide a way to generalize du to the `` be a '' relationship between class . 	228
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	it be `` prior '' in the sense that it do not take into account any information about B. 	229
+this mean that inheritance be use when type have common factor and these would be put into the superclass . 	the method can be abuse when people deliberately link to site in order to raise a site 's pagerank . 	230

@@ -1,0 +1,17 @@
+det	fruits	The
+nsubjpass	eaten	fruits
+aux	eaten	should
+auxpass	eaten	be
+root	ROOT	eaten
+case	juice	with
+amod	juice	lemon
+nmod:with	eaten	juice
+mark	prevent	in
+mwe	in	order
+mark	prevent	to
+advcl	eaten	prevent
+dobj	prevent	oxidation
+case	stomach	in
+nmod:poss	stomach	your
+nmod:in	prevent	stomach
+punct	eaten	.

@@ -1,0 +1,11 @@
+advmod	or	intensely
+root	ROOT	or
+advmod	bad	extremely
+dep	or	bad
+cc	bad	or
+conj:or	bad	unpleasant
+case	degree	in
+nmod:in	bad	degree
+cc	degree	or
+conj:or	degree	quality
+punct	or	;

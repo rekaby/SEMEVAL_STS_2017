@@ -1,0 +1,10 @@
+det	mother	A
+nsubj	pushing	mother
+aux	pushing	is
+csubj	stroller	pushing
+nmod:poss	child	her
+dobj	pushing	child
+cop	stroller	is
+det	stroller	a
+root	ROOT	stroller
+punct	stroller	.

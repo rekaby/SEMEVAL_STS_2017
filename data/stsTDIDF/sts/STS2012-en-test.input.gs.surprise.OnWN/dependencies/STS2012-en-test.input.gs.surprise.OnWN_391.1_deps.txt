@@ -1,0 +1,10 @@
+root	ROOT	Fake
+cc	Fake	or
+conj:or	Fake	falsify
+punct	Fake	;
+dep	Fake	control
+case	manner	in
+det	manner	a
+amod	manner	fraudulent
+nmod:in	control	manner
+punct	Fake	.

@@ -1,0 +1,8 @@
+nsubj	accuses	Sudan
+root	ROOT	accuses
+dobj	accuses	Israel
+case	airstrike	of
+nmod:of	Israel	airstrike
+case	factory	on
+compound	factory	arms
+nmod:on	accuses	factory

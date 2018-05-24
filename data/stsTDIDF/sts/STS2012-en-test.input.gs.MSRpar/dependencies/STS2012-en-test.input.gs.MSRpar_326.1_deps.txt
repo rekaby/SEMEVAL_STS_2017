@@ -1,0 +1,14 @@
+nmod:poss	office	Shelley
+case	Shelley	's
+nsubj	reported	office
+root	ROOT	reported
+nmod:tmod	reported	Friday
+mark	reported	that
+nummod	signatures	575,926
+nsubjpass	reported	signatures
+aux	reported	have
+auxpass	reported	been
+ccomp	reported	reported
+case	him	to
+nmod:to	reported	him
+punct	reported	.

@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+mark	ending	of
+acl	act	ending
+dobj	ending	something
+punct	act	.

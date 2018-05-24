@@ -1,0 +1,3 @@
+group	cars	nmod:of
+parked	street	nmod:on
+cars	parked	acl

@@ -1,0 +1,4 @@
+keep	children	dobj
+keep	parents	nmod:away_from
+parents	away	case
+tries	woman	nsubj

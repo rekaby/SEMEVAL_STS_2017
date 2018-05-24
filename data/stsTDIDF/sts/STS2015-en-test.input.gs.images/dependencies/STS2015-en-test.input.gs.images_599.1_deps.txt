@@ -1,0 +1,10 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+case	building	outside
+mwe	outside	of
+det	building	a
+nmod:outside_of	standing	building
+punct	group	.

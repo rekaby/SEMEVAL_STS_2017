@@ -1,0 +1,10 @@
+case	least	At
+nmod:npmod	150	least
+root	ROOT	150
+amod	150	dead
+mark	hits	as
+amod	quake	strong
+nsubj	hits	quake
+advcl	dead	hits
+amod	Balochistan	southwest
+dobj	hits	Balochistan

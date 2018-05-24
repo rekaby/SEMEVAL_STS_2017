@@ -1,0 +1,10 @@
+nsubj	agrees	Yahoo
+root	ROOT	agrees
+mark	buy	to
+xcomp	agrees	buy
+dobj	buy	Tumblr
+case	$	for
+nmod:for	buy	$
+compound	billion	1.1
+nummod	$	billion
+dobj	buy	cash

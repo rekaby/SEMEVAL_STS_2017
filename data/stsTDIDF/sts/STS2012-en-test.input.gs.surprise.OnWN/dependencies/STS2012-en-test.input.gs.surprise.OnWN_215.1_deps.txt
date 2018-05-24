@@ -1,0 +1,11 @@
+root	ROOT	seize
+cc	seize	and
+conj:and	seize	take
+dobj	take	captive
+punct	seize	;
+conj:and	seize	take
+cc	take	or
+conj:or	take	gain
+dobj	take	possession
+case	something	of
+nmod:of	possession	something

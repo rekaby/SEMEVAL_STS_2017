@@ -1,0 +1,9 @@
+nsubj	trims	Nintendo
+root	ROOT	trims
+amod	ink	red
+dobj	trims	ink
+punct	trims	,
+conj	trims	lowers
+dobj	lowers	forecast
+case	year	for
+nmod:for	lowers	year

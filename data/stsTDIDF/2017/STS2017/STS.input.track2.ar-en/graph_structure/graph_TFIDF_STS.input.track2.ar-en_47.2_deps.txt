@@ -1,0 +1,5 @@
+performs	jump	dobj
+jump	a	det
+performs	.	punct
+ROOT	performs	root
+performs	Slider	nsubj

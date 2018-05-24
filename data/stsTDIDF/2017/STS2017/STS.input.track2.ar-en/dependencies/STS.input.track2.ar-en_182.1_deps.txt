@@ -1,0 +1,13 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	teaching
+det	girl	a
+amod	girl	young
+dobj	teaching	girl
+neg	afraid	not
+mark	afraid	to
+cop	afraid	be
+xcomp	teaching	afraid
+case	puppies	of
+nmod:of	afraid	puppies
+punct	woman	.

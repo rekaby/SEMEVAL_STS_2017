@@ -1,0 +1,11 @@
+sweater	red	amod
+stand	food	compound
+man	sweater	nmod:in
+sweater	in	case
+stand	at	case
+waiting	stand	nmod:at
+stand	street	compound
+waiting	is	aux
+stand	a	det
+waiting	man	nsubj
+sweater	a	det

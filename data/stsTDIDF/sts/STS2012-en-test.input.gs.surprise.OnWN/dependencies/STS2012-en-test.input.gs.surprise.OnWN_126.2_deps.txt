@@ -1,0 +1,5 @@
+root	ROOT	refrain
+mark	doing	from
+acl	refrain	doing
+dobj	doing	something
+punct	refrain	.

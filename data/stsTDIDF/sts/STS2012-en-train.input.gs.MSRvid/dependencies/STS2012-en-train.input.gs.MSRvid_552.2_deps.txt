@@ -1,0 +1,7 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	mat	a
+dobj	cutting	mat
+punct	cutting	.

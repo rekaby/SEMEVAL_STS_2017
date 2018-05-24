@@ -1,0 +1,10 @@
+nsubj	feature	Inheritance
+cop	feature	is
+det	feature	an
+amod	feature	important
+root	ROOT	feature
+case	programming	in
+compound	programming	object
+amod	programming	orientated
+nmod:in	feature	programming
+punct	feature	.

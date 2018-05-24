@@ -1,0 +1,7 @@
+compound	boys	Young
+nsubj	running	boys
+root	ROOT	running
+case	pavement	along
+det	pavement	the
+nmod:along	running	pavement
+punct	running	.

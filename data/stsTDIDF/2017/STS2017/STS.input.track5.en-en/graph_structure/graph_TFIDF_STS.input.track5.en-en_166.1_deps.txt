@@ -1,0 +1,6 @@
+resting	are	aux
+resting	.	punct
+resting	couch	nmod:on
+couch	a	det
+resting	man	nsubj
+ROOT	resting	root

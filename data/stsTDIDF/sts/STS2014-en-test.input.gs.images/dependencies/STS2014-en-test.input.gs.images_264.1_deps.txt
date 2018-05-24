@@ -1,0 +1,7 @@
+nummod	men	Three
+root	ROOT	men
+acl	men	posing
+case	tent	in
+det	tent	a
+nmod:in	posing	tent
+punct	men	.

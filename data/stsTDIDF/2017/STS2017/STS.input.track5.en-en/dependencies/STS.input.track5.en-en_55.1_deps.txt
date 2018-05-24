@@ -1,0 +1,16 @@
+det	man	A
+nsubj	demonstrating	man
+aux	demonstrating	is
+root	ROOT	demonstrating
+advmod	work	how
+mark	work	to
+ccomp	demonstrating	work
+case	clay	with
+nmod:with	work	clay
+mark	observe	while
+case	least	at
+nmod:npmod	two	least
+nummod	people	two
+nsubj	observe	people
+advcl	work	observe
+punct	demonstrating	.

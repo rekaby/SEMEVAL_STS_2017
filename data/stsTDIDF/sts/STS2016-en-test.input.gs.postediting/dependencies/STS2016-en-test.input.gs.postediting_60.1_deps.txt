@@ -1,0 +1,10 @@
+advmod	gone	So
+amod	Newman	many
+amod	Newman	other
+compound	Newman	Paul
+nsubj	gone	Newman
+aux	gone	have
+root	ROOT	gone
+case	history	to
+nmod:to	gone	history
+punct	gone	.

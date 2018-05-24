@@ -1,0 +1,9 @@
+compound	plane	Missing
+compound	plane	Malaysia
+compound	plane	Airlines
+nsubj	crashes	plane
+punct	crashes	`
+root	ROOT	crashes
+case	Vietnam	off
+nmod:off	crashes	Vietnam
+punct	crashes	'

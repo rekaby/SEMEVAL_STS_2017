@@ -1,0 +1,6 @@
+root	ROOT	Protect
+cc	Protect	or
+conj:or	Protect	strengthen
+case	sandbags	with
+nmod:with	Protect	sandbags
+punct	Protect	.

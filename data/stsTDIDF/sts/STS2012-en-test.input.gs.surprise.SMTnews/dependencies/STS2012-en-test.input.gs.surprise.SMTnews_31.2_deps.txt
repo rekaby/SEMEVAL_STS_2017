@@ -1,0 +1,13 @@
+nsubj	emerging	This
+aux	emerging	does
+neg	emerging	not
+advmod	emerging	however
+root	ROOT	emerging
+amod	countries	rich
+dobj	emerging	countries
+case	obligation	from
+nmod:poss	obligation	their
+nmod:from	emerging	obligation
+mark	help	to
+acl	obligation	help
+punct	emerging	.

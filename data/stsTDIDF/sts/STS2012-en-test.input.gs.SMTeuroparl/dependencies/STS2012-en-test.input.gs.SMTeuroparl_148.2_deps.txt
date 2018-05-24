@@ -1,0 +1,13 @@
+nsubj	maintain	We
+root	ROOT	maintain
+dobj	maintain	unanimity
+case	Council	in
+nmod:in	unanimity	Council
+cc	maintain	and
+conj:and	maintain	therefore
+det	inability	a
+amod	inability	latent
+dep	therefore	inability
+mark	act	to
+acl	inability	act
+punct	maintain	.

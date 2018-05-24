@@ -1,0 +1,7 @@
+det	crowd	A
+nsubj	event	crowd
+cop	event	is
+case	event	at
+det	event	an
+root	ROOT	event
+punct	event	.

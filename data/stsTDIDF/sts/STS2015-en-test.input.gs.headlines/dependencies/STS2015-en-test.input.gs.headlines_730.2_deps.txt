@@ -1,0 +1,11 @@
+nmod:poss	Xi	China
+case	China	's
+nsubj	tells	Xi
+root	ROOT	tells
+nsubj	wants	Vietnam
+ccomp	tells	wants
+compound	Sea	peace
+case	China	in
+compound	China	South
+nmod:in	peace	China
+dobj	wants	Sea

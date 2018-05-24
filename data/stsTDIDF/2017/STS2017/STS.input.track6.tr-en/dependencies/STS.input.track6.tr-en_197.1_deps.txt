@@ -1,0 +1,8 @@
+det	man	A
+nsubj	reading	man
+aux	reading	is
+root	ROOT	reading
+det	article	a
+compound	article	news
+dobj	reading	article
+punct	reading	.

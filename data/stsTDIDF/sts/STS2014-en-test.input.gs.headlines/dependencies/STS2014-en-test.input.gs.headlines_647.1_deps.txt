@@ -1,0 +1,6 @@
+nsubj	confirms	Senate
+root	ROOT	confirms
+dobj	confirms	Yellen
+case	head	as
+compound	head	Fed
+nmod:as	Yellen	head

@@ -1,0 +1,16 @@
+case	experience	In
+nmod:poss	experience	my
+nmod:in	tend	experience
+punct	tend	,
+nsubj	tend	babies
+root	ROOT	tend
+mark	wake	to
+xcomp	tend	wake
+compound:prt	wake	up
+case	themselves	by
+nmod:by	wake	themselves
+advmod	get	when
+nsubj	get	they
+advcl	wake	get
+xcomp	get	hungry
+punct	tend	.

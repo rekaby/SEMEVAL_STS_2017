@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	give	women
+root	ROOT	give
+det	demonstration	a
+dobj	give	demonstration
+case	Fair	at
+det	Fair	a
+compound	Fair	Renaissance
+nmod:at	give	Fair
+punct	give	.

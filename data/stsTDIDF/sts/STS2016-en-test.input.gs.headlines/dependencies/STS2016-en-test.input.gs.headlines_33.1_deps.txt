@@ -1,0 +1,7 @@
+compound	toll	Death
+nsubj	tops	toll
+case	Syria	in
+nmod:in	toll	Syria
+advmod	tops	now
+root	ROOT	tops
+dobj	tops	100,000

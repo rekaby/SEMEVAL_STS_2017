@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+case	clipping	of
+nmod:of	act	clipping
+cc	clipping	or
+conj:or	clipping	snipping
+punct	act	.

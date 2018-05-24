@@ -1,0 +1,7 @@
+nsubj	unveils	Israel
+root	ROOT	unveils
+dobj	unveils	plans
+case	homes	for
+amod	homes	new
+amod	homes	settler
+nmod:for	plans	homes

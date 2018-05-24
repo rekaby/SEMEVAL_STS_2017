@@ -1,0 +1,11 @@
+nsubj	Sees	U.S.
+root	ROOT	Sees
+neg	Evidence	No
+amod	Evidence	Conclusive
+nsubj	Use	Evidence
+case	Arms	of
+compound	Arms	Chemical
+nmod:of	Evidence	Arms
+ccomp	Sees	Use
+case	Syria	by
+nmod:by	Use	Syria

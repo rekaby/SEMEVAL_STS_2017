@@ -1,0 +1,8 @@
+root	ROOT	people
+nsubj	impoverished	who
+cop	impoverished	are
+acl:relcl	people	impoverished
+punct	impoverished	,
+case	possessions	without
+amod	possessions	basic
+nmod:without	impoverished	possessions

@@ -1,0 +1,12 @@
+atmosphere	as	cc
+atmosphere	well-being	nmod:to
+well-being	to	case
+atmosphere	to	case
+well-being	the	det
+atmosphere	debate	nmod:of
+well-being	members	nmod:of
+poses	threat	dobj
+threat	atmosphere	nmod:to
+debate	intellectual	amod
+poses	This	nsubj
+says	poses	ccomp

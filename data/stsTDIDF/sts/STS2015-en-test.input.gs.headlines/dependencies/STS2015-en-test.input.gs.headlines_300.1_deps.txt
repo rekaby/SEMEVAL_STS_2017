@@ -1,0 +1,15 @@
+amod	woman	Pregnant
+compound	woman	Sudan
+root	ROOT	woman
+nsubj	married	who
+acl:relcl	woman	married
+det	man	a
+amod	man	Christian
+dobj	married	man
+acl	man	sentenced
+case	death	to
+nmod:to	sentenced	death
+case	apostasy	for
+punct	apostasy	`
+nmod:for	death	apostasy
+punct	woman	'

@@ -1,0 +1,13 @@
+det	man	A
+amod	man	young
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+det	jump	a
+compound	jump	ski
+dobj	doing	jump
+case	board	with
+det	board	a
+amod	board	purple
+nmod:with	doing	board
+punct	doing	.

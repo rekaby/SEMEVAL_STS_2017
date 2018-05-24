@@ -1,0 +1,10 @@
+root	ROOT	EU
+mark	train	to
+acl	EU	train
+compound	army	Mali
+dobj	train	army
+mark	fight	to
+advcl	train	fight
+amod	militants	northern
+amod	militants	Islamist
+dobj	fight	militants

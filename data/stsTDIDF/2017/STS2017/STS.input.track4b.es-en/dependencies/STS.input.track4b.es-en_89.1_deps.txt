@@ -1,0 +1,12 @@
+nsubj	affirmation	It
+cop	affirmation	's
+det	affirmation	an
+root	ROOT	affirmation
+case	support	of
+amod	support	bipartisan
+nmod:of	affirmation	support
+case	aspirations	for
+nmod:poss	aspirations	their
+amod	aspirations	democratic
+nmod:for	support	aspirations
+punct	affirmation	.

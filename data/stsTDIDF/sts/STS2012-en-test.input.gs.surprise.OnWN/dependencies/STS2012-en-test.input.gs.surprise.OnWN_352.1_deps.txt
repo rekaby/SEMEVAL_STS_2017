@@ -1,0 +1,7 @@
+root	ROOT	manipulate
+det	registers	the
+dobj	manipulate	registers
+case	instrument	of
+det	instrument	a
+amod	instrument	musical
+nmod:of	registers	instrument

@@ -1,0 +1,7 @@
+compound	News	Fox
+root	ROOT	News
+cc	News	and
+compound	Ways	Sarah
+compound	Ways	Palin
+compound	Ways	Part
+conj:and	News	Ways

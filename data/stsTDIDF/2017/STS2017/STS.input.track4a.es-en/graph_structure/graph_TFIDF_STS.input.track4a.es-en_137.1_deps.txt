@@ -1,0 +1,16 @@
+harness	from	case
+shoes	and	cc
+hangs	boy	nsubj
+dock	on	case
+hangs	.	punct
+dock	a	det
+harness	dock	nmod:on
+shoes	in	case
+ROOT	hangs	root
+hangs	harness	nmod:from
+harness	a	det
+shoes	velcro	compound
+boy	shoes	nmod:in
+shoes	t-shirt	conj:and
+t-shirt	blue	amod
+t-shirt	a	det

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	adding	man
+aux	adding	is
+root	ROOT	adding
+compound	chops	pork
+dobj	adding	chops
+case	pan	to
+det	pan	a
+nmod:to	adding	pan
+punct	adding	.

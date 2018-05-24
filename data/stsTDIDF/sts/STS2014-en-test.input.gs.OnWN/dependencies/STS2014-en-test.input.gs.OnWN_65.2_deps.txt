@@ -1,0 +1,6 @@
+root	ROOT	run
+case	rim	around
+det	rim	the
+nmod:around	run	rim
+acl	rim	of
+punct	run	.

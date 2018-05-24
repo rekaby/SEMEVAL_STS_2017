@@ -1,0 +1,8 @@
+compound	man	Calif.
+nsubj	case	man
+compound	case	pleads
+neg	guilty	not
+amod	case	guilty
+case	terrorism	in
+nmod:in	guilty	terrorism
+root	ROOT	case

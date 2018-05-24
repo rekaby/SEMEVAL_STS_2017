@@ -1,0 +1,10 @@
+expl	is	there
+root	ROOT	is
+neg	is	not
+det	path	a
+amod	path	complete
+nsubj	is	path
+acl	path	involving
+cc:preconj	terminals	both
+compound	terminals	battery
+dobj	involving	terminals

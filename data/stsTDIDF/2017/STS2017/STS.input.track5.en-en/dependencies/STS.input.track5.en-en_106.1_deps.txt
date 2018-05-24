@@ -1,0 +1,7 @@
+det	boy	The
+compound	boy	baby
+nsubj	wants	boy
+root	ROOT	wants
+nmod:poss	mother	his
+dobj	wants	mother
+punct	wants	.

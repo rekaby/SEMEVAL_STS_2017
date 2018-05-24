@@ -1,0 +1,11 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	stick	with
+det	stick	a
+nmod:with	running	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	running	mouth
+punct	dog	.

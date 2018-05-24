@@ -1,0 +1,7 @@
+root	ROOT	Switch
+dobj	Switch	Y
+aux	effect	did
+neg	effect	not
+dep	Switch	effect
+compound	A	bulb
+dobj	effect	A

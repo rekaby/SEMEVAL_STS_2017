@@ -1,0 +1,7 @@
+amod	negotiator	Iranian
+nsubj	upbeat	negotiator
+root	ROOT	upbeat
+case	talks	about
+amod	talks	latest
+amod	talks	nuclear
+nmod:about	upbeat	talks

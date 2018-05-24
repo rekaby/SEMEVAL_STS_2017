@@ -1,0 +1,12 @@
+picture	is	cop
+picture	toting	advcl
+dress	in	case
+picture	,	punct
+something	bucket	nmod:in
+dress	flowered	amod
+picture	woman	nmod:of
+picture	This	nsubj
+woman	dress	nmod:in
+bucket	in	case
+bucket	a	det
+toting	something	dobj

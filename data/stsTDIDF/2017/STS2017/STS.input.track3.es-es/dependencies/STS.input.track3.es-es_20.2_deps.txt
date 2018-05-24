@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	little
+nsubj	holds	boy
+case	suit	in
+det	suit	a
+nmod:in	boy	suit
+root	ROOT	holds
+det	ring	the
+dobj	holds	ring
+case	wedding	for
+det	wedding	a
+nmod:for	holds	wedding
+punct	holds	.

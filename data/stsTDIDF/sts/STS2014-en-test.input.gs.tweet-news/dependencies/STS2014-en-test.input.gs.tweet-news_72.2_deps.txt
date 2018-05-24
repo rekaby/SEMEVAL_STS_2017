@@ -1,0 +1,6 @@
+nsubj	Stirs	Berlusconi
+root	ROOT	Stirs
+compound:prt	Stirs	Up
+dobj	Stirs	Elections
+case	Italy	in
+nmod:in	Elections	Italy

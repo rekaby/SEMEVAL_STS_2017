@@ -1,0 +1,11 @@
+case	division	Beyond
+amod	division	geographical
+nmod:beyond	reproduce	division
+punct	reproduce	,
+nsubj	reproduce	divisions
+root	ROOT	reproduce
+case	level	at
+det	level	the
+amod	level	local
+nmod:at	reproduce	level
+punct	reproduce	.

@@ -1,0 +1,8 @@
+nsubj	beach	People
+cop	beach	are
+case	beach	on
+det	beach	the
+root	ROOT	beach
+case	animals	with
+nmod:with	beach	animals
+punct	beach	.

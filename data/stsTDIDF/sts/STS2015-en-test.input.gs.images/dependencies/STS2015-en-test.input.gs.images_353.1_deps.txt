@@ -1,0 +1,9 @@
+det	swimming	A
+amod	swimming	black
+cc	black	and
+conj:and	black	white
+compound	swimming	dog
+root	ROOT	swimming
+case	pool	in
+det	pool	the
+nmod:in	swimming	pool

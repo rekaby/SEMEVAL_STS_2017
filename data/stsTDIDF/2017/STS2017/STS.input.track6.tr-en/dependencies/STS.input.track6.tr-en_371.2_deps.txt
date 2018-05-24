@@ -1,0 +1,11 @@
+det	men	The
+nummod	men	two
+nsubj	say	men
+aux	say	do
+neg	say	not
+root	ROOT	say
+dobj	say	anything
+case	debate	during
+det	debate	a
+nmod:during	anything	debate
+punct	say	.

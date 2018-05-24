@@ -1,0 +1,7 @@
+det	person	A
+nsubj	chopping	person
+aux	chopping	is
+root	ROOT	chopping
+det	onion	an
+dobj	chopping	onion
+punct	chopping	.

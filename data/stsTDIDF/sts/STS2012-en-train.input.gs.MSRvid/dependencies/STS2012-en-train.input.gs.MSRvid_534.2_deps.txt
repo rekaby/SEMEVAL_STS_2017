@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	stabbing	woman
+aux	stabbing	is
+root	ROOT	stabbing
+det	potato	a
+dobj	stabbing	potato
+case	fork	with
+det	fork	a
+nmod:with	stabbing	fork
+punct	stabbing	.

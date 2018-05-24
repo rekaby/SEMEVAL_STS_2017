@@ -1,0 +1,8 @@
+nsubj	poor	They
+cop	poor	are
+root	ROOT	poor
+punct	poor	,
+dep	poor	sick
+cc	sick	and
+conj:and	sick	uncultivated
+punct	poor	.

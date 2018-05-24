@@ -1,0 +1,15 @@
+det	man	A
+nsubj	sitting	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+cc	shirt	and
+det	hat	a
+conj:and	shirt	hat
+aux	sitting	is
+root	ROOT	sitting
+case	truck	in
+det	truck	a
+nmod:in	sitting	truck
+punct	sitting	.

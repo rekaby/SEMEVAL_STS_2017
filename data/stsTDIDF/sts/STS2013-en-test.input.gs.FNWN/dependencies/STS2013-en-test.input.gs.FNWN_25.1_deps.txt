@@ -1,0 +1,20 @@
+det	requests	a
+compound	requests	customer
+root	ROOT	requests
+det	entity	an
+dep	requests	entity
+case	supplier	from
+det	supplier	a
+nmod:from	entity	supplier
+punct	requests	.-9) det(customer-2, the
+nsubj	order	customer
+aux	order	can
+root	ROOT	order
+det	entity	the
+dobj	order	entity
+dobj	order	himself
+cc	himself	or
+case	medium	via
+det	medium	a
+conj:or	himself	medium
+punct	order	.

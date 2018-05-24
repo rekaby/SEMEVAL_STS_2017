@@ -1,0 +1,9 @@
+det	method	The
+nsubj	effiecent	method
+cop	effiecent	is
+advmod	effiecent	more
+root	ROOT	effiecent
+case	methods	than
+amod	methods	naive
+nmod:than	effiecent	methods
+punct	effiecent	.

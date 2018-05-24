@@ -1,0 +1,11 @@
+det	attorney	An
+nsubj	said	attorney
+case	schoolchildren	for
+compound	schoolchildren	plaintiff
+nmod:for	attorney	schoolchildren
+root	ROOT	said
+nsubj	plans	he
+ccomp	said	plans
+mark	appeal	to
+xcomp	plans	appeal
+punct	said	.

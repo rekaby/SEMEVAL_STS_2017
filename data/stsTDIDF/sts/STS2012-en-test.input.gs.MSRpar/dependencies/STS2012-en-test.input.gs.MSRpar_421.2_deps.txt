@@ -1,0 +1,16 @@
+compound	Doe	Jane
+nsubj	asked	Doe
+punct	Doe	,
+acl	Doe	deciding
+mark	fight	to
+xcomp	deciding	fight
+det	subpoena	the
+dobj	fight	subpoena
+punct	Doe	,
+root	ROOT	asked
+dobj	asked	Verizon
+mark	withhold	to
+xcomp	asked	withhold
+nmod:poss	name	her
+dobj	withhold	name
+punct	asked	.

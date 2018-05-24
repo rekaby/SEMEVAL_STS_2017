@@ -1,0 +1,8 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+det	trick	a
+compound	trick	card
+dobj	doing	trick
+punct	doing	.

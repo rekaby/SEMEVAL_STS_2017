@@ -1,0 +1,12 @@
+root	ROOT	Refuse
+mark	recognize	to
+xcomp	Refuse	recognize
+dobj	recognize	something
+case	valid	as
+nmod:as	recognize	valid
+punct	person	-LRB-
+neg	person	not
+det	person	a
+dep	valid	person
+punct	person	-RRB-
+punct	Refuse	.

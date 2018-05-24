@@ -1,0 +1,6 @@
+climbing	mound	dobj
+mound	a	det
+climbing	.	punct
+climbing	is	aux
+ROOT	climbing	root
+climbing	girl	nsubj

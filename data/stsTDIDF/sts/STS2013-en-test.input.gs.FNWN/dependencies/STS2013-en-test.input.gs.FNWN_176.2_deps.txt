@@ -1,0 +1,5 @@
+root	ROOT	state
+cc	state	or
+conj:or	state	say
+advmod	state	further
+punct	state	;

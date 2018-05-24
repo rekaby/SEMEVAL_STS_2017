@@ -1,0 +1,11 @@
+cc	Russia	And
+det	mistake	this
+amod	mistake	great
+nsubj	Russia	mistake
+cop	Russia	is
+root	ROOT	Russia
+mark	ruin	to
+acl	Russia	ruin
+nmod:poss	policy	its
+dobj	ruin	policy
+punct	Russia	.

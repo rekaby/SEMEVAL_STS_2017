@@ -1,0 +1,4 @@
+standing	man	nsubj
+standing	store	nmod:in
+store	wearing	acl
+shirt	blue	amod

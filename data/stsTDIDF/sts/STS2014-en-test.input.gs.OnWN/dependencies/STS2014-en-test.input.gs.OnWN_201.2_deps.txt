@@ -1,0 +1,14 @@
+root	ROOT	scoop
+compound:prt	scoop	up
+mark	plunging	by
+advcl	scoop	plunging
+nmod:poss	hand	one
+case	one	's
+dobj	plunging	hand
+cc	hand	or
+det	ladle	a
+conj:or	hand	ladle
+case	surface	below
+det	surface	the
+nmod:below	plunging	surface
+punct	scoop	.

@@ -1,0 +1,10 @@
+compound	man	U.S.
+nsubj	outsources	man
+root	ROOT	outsources
+dobj	outsources	job
+case	China	to
+nmod:to	job	China
+punct	outsources	,
+amod	videos	surfs
+compound	videos	cat
+dep	outsources	videos

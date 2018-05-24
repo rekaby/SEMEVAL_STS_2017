@@ -1,0 +1,9 @@
+det	components	Both
+nsubj	need	components
+root	ROOT	need
+mark	paths	to
+cop	paths	be
+case	paths	in
+amod	paths	closed
+xcomp	need	paths
+punct	need	.

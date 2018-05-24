@@ -1,0 +1,9 @@
+amod	attack	Militant
+nsubj	kills	attack
+case	Afghanistan	from
+nmod:from	attack	Afghanistan
+root	ROOT	kills
+compound	soldier	FC
+dobj	kills	soldier
+case	Balochistan	in
+nmod:in	kills	Balochistan

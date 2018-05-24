@@ -1,0 +1,6 @@
+nsubj	killed	Motorists
+csubj	collapses	killed
+case	tunnel	after
+amod	tunnel	Japanese
+nmod:after	killed	tunnel
+root	ROOT	collapses

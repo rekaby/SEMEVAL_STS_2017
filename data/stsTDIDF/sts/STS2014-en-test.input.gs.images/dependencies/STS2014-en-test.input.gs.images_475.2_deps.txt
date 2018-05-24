@@ -1,0 +1,10 @@
+det	train	A
+amod	train	black
+compound	train	steam
+root	ROOT	train
+acl	train	traveling
+case	tracks	on
+det	tracks	the
+compound	tracks	railroad
+nmod:on	traveling	tracks
+punct	train	.

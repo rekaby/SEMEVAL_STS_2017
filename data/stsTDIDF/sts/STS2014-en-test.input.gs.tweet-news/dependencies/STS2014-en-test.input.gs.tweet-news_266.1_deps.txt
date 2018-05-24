@@ -1,0 +1,25 @@
+advmod	thought	Even
+advcl	using	thought
+nsubj	downloaded	I
+aux	downloaded	've
+ccomp	thought	downloaded
+compound	maps	#Google
+dobj	downloaded	maps
+case	#iPhone	for
+nmod:for	downloaded	#iPhone
+punct	using	,
+nsubj	using	I
+aux	using	'm
+advmod	using	still
+root	ROOT	using
+dobj	using	#Apple
+case	#Apple	's
+acl	#Apple	built
+case	maps	in
+nmod:in	built	maps
+punct	using	.-20) nsubj(easier-3, They
+cop	easier	're
+root	ROOT	easier
+mark	use	to
+xcomp	easier	use
+punct	easier	.

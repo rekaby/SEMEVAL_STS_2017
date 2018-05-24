@@ -1,0 +1,6 @@
+blanket	is	cop
+blanket	Someone	nsubj
+blanket	.	punct
+blanket	a	det
+blanket	on	case
+ROOT	blanket	root

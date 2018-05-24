@@ -1,0 +1,6 @@
+going	driver	nsubj
+driver	motorcross	compound
+going	race	nmod:during
+driver	A	det
+race	by	case
+race	during	case

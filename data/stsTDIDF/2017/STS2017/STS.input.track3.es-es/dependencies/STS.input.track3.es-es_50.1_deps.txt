@@ -1,0 +1,9 @@
+det	child	A
+nsubj	driving	child
+aux	driving	is
+root	ROOT	driving
+det	car	a
+amod	car	small
+compound	car	race
+dobj	driving	car
+punct	driving	.

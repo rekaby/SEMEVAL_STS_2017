@@ -1,0 +1,6 @@
+nummod	men	Three
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+dobj	playing	chess
+punct	playing	.

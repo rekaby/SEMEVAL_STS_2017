@@ -1,0 +1,6 @@
+root	ROOT	Firefighters
+acl	Firefighters	battling
+compound	fire	scrub
+dobj	battling	fire
+case	Hokianga	in
+nmod:in	battling	Hokianga

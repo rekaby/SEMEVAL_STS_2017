@@ -1,0 +1,11 @@
+amod	weighting	tf-idf
+nsubj	one	weighting
+cop	one	is
+root	ROOT	one
+case	schemes	of
+det	schemes	the
+advmod	well	most
+advmod	known	well
+amod	schemes	known
+nmod:of	one	schemes
+punct	one	.

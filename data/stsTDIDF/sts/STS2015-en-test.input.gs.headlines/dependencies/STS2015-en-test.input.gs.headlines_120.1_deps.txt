@@ -1,0 +1,10 @@
+compound	experts	International
+compound	experts	weapons
+nsubj	leave	experts
+root	ROOT	leave
+dobj	leave	Syria
+punct	leave	,
+nsubj	make	Obama
+mark	make	to
+parataxis	leave	make
+dobj	make	statement

@@ -1,0 +1,17 @@
+det	truck	That
+nsubjpass	spotted	truck
+auxpass	spotted	was
+root	ROOT	spotted
+case	area	in
+det	area	the
+compound	area	Campbells
+compound	area	Creek
+nmod:in	spotted	area
+punct	spotted	,
+xcomp	spotted	fitting
+mark	said	that
+dep	said	description
+punct	said	,
+nsubj	said	Morris
+ccomp	fitting	said
+punct	spotted	.

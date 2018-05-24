@@ -1,0 +1,12 @@
+det	close-up	A
+root	ROOT	close-up
+punct	close-up	,
+amod	photo	distorted
+appos	close-up	photo
+case	bottle	of
+det	bottle	an
+amod	bottle	empty
+compound	bottle	glass
+compound	bottle	Coke
+nmod:of	photo	bottle
+punct	close-up	.

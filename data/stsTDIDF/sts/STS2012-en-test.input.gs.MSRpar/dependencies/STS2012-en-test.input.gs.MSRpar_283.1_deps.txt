@@ -1,0 +1,11 @@
+nsubj	succeed	Who
+aux	succeed	will
+csubj	clear	succeed
+compound	O'Neill	Mr.
+dobj	succeed	O'Neill
+case	Hyundai	at
+nmod:at	succeed	Hyundai
+cop	clear	is
+neg	clear	not
+root	ROOT	clear
+punct	clear	.

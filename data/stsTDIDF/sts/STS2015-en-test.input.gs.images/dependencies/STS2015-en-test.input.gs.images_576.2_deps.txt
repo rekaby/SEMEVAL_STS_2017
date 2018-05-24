@@ -1,0 +1,9 @@
+nummod	men	Two
+amod	men	homeless
+amod	men	young
+nsubj	holding	men
+root	ROOT	holding
+det	sign	a
+compound	sign	cardboard
+dobj	holding	sign
+punct	holding	.

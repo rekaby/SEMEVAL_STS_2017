@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	cars	men
+cop	cars	are
+case	cars	in
+nmod:poss	cars	their
+root	ROOT	cars
+case	traffic	in
+amod	traffic	heavy
+nmod:in	cars	traffic

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	cracking	woman
+aux	cracking	is
+root	ROOT	cracking
+nummod	eggs	three
+dobj	cracking	eggs
+case	bowl	into
+det	bowl	a
+nmod:into	cracking	bowl
+punct	cracking	.

@@ -1,0 +1,11 @@
+det	drives	A
+amod	drives	red
+cc	red	and
+conj:and	red	white
+compound	drives	England
+compound	drives	bus
+root	ROOT	drives
+case	street	down
+det	street	the
+nmod:down	drives	street
+punct	drives	.

@@ -1,0 +1,5 @@
+ROOT	sleeps	root
+bed	his	nmod:poss
+sleeps	man	nsubj
+sleeps	.	punct
+sleeps	bed	nmod:in

@@ -1,0 +1,6 @@
+compound	Big	Merkel
+compound	Big	Wins
+nsubj	Election	Big
+case	Germany	in
+nmod:in	Big	Germany
+root	ROOT	Election

@@ -1,0 +1,8 @@
+nummod	people	118
+root	ROOT	people
+acl	people	killed
+case	blasts	in
+amod	blasts	twin
+nmod:in	killed	blasts
+case	Nigeria	in
+nmod:in	blasts	Nigeria

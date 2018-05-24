@@ -1,0 +1,8 @@
+root	ROOT	having
+det	effect	a
+amod	physiological	strong
+amod	effect	physiological
+cc	physiological	or
+conj:or	physiological	chemical
+dobj	having	effect
+punct	having	;

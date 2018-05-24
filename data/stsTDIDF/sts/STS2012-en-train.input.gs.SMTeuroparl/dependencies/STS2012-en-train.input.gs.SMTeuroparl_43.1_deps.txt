@@ -1,0 +1,9 @@
+root	ROOT	Firstly
+punct	Firstly	,
+root	,	simplification
+cc	simplification	and
+conj:and	simplification	clarification
+case	Treaties	of
+det	Treaties	the
+nmod:of	simplification	Treaties
+punct	simplification	.

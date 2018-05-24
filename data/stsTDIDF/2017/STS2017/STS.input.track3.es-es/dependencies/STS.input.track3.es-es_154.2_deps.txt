@@ -1,0 +1,12 @@
+det	car	A
+nsubj	turning	car
+aux	turning	is
+root	ROOT	turning
+compound:prt	turning	in
+dobj	turning	front
+case	bus	of
+det	bus	the
+nmod:of	front	bus
+acl	bus	carrying
+dobj	carrying	passengers
+punct	turning	.

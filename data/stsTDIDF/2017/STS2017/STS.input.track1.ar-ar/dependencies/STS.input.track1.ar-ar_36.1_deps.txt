@@ -1,0 +1,4 @@
+compound	paints	Painter
+root	ROOT	paints
+case	clothing	on
+nmod:on	paints	clothing

@@ -1,0 +1,8 @@
+nsubj	arise	Questions
+root	ROOT	arise
+case	weapons	over
+compound	weapons	chemical
+nmod:over	arise	weapons
+acl	weapons	claims
+case	Syria	in
+nmod:in	claims	Syria

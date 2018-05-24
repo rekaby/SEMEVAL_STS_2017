@@ -1,0 +1,13 @@
+root	ROOT	i
+dep	i	refuse
+mark	argue	to
+acl	refuse	argue
+compound	jackson	jesse
+dobj	argue	jackson
+case	this	on
+nmod:on	jackson	this
+cc	this	or
+det	thread	any
+amod	thread	other
+conj:or	this	thread
+punct	i	.

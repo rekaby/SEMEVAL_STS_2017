@@ -1,0 +1,15 @@
+case	weeks	In
+nummod	weeks	two
+nmod:in	send	weeks
+punct	send	,
+nsubj	send	he
+aux	send	'll
+advmod	send	probably
+root	ROOT	send
+compound:prt	send	out
+compound	Rules	Peace
+dobj	send	Rules
+case	Preakness	in
+det	Preakness	the
+nmod:in	send	Preakness
+punct	send	.

@@ -1,0 +1,8 @@
+bird	A	det
+cord	on	case
+bird	.	punct
+cord	power	compound
+bird	sitting	acl
+cord	a	det
+sitting	cord	nmod:on
+ROOT	bird	root

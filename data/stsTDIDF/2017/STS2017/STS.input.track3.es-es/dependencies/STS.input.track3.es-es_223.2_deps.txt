@@ -1,0 +1,13 @@
+det	man	The
+nsubj	has	man
+case	shirt	in
+det	shirt	the
+amod	shirt	yellow
+nmod:in	man	shirt
+root	ROOT	has
+det	mop	a
+dobj	has	mop
+case	hands	in
+nmod:poss	hands	his
+nmod:in	mop	hands
+punct	has	.

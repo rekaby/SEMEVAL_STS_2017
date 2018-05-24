@@ -1,0 +1,9 @@
+det	participant	a
+root	ROOT	participant
+nsubj	beginner	who
+cop	beginner	is
+det	beginner	a
+acl:relcl	participant	beginner
+case	activity	in
+det	activity	some
+nmod:in	beginner	activity

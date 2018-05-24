@@ -1,0 +1,8 @@
+root	ROOT	Remains
+case	bodies	of
+nummod	bodies	167
+nmod:of	Remains	bodies
+acl	bodies	found
+case	cave	in
+amod	cave	Mexican
+nmod:in	found	cave

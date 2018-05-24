@@ -1,0 +1,7 @@
+det	people	The
+nsubj	got	people
+root	ROOT	got
+compound:prt	got	off
+det	train	the
+dobj	got	train
+punct	got	.

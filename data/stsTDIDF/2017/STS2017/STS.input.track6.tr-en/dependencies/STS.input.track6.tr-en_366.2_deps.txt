@@ -1,0 +1,7 @@
+nummod	women	Three
+root	ROOT	women
+acl	women	wearing
+dobj	wearing	clothes
+xcomp	wearing	stand
+advmod	stand	outside
+punct	women	.

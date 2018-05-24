@@ -1,0 +1,9 @@
+root	ROOT	Why
+dep	Why	does
+neg	cat	n't
+nmod:poss	cat	my
+dobj	does	cat
+mark	held	like
+auxpass	held	being
+acl	cat	held
+punct	Why	?

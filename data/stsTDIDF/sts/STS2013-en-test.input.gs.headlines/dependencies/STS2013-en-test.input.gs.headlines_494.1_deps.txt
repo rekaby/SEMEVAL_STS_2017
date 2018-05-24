@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	80	least
+nummod	dead	80
+root	ROOT	dead
+case	quakes	in
+amod	quakes	northwest
+compound	quakes	Iran
+nmod:in	dead	quakes

@@ -1,0 +1,6 @@
+looks	She	nsubj
+looks	woman	nmod:at
+woman	shirt	nmod:with
+shirt	with	case
+shirt	black	amod
+woman	at	case

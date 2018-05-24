@@ -1,0 +1,16 @@
+compound	siege	Toulouse
+root	ROOT	siege
+punct	siege	:
+nsubj	surround	Police
+dep	siege	surround
+xcomp	surround	flat
+case	warrior	of
+punct	warrior	`
+amod	warrior	Islamic
+nmod:of	flat	warrior
+punct	warrior	'
+acl	warrior	suspected
+mark	killer	of
+cop	killer	being
+amod	killer	serial
+advcl	suspected	killer

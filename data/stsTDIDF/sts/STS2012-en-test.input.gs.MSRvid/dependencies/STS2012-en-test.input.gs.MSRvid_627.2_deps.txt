@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	licking	cat
+aux	licking	is
+root	ROOT	licking
+det	bottle	a
+amod	bottle	small
+dobj	licking	bottle
+punct	licking	.

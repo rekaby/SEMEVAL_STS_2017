@@ -1,0 +1,6 @@
+nsubj	approves	Spain
+root	ROOT	approves
+amod	law	new
+amod	law	restrictive
+compound	law	abortion
+dobj	approves	law

@@ -1,0 +1,10 @@
+kick	ball	dobj
+attempting	kick	xcomp
+attempting	while	mark
+kick	to	mark
+kicking	players	nsubj
+kicking	other	dobj
+kicking	attempting	advcl
+kicking	are	aux
+ROOT	kicking	root
+kicking	.	punct

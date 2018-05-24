@@ -1,0 +1,9 @@
+advmod	one	Only
+nummod	terminal	one
+nsubjpass	involved	terminal
+auxpass	involved	is
+root	ROOT	involved
+case	circuit	in
+det	circuit	the
+nmod:in	involved	circuit
+punct	involved	.

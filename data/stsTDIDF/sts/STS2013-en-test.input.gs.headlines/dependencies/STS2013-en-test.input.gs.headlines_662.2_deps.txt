@@ -1,0 +1,11 @@
+compound	Miliband	David
+root	ROOT	Miliband
+punct	Miliband	:
+nmod:poss	brother	my
+dep	Miliband	brother
+cc	brother	and
+det	return	a
+conj:and	brother	return
+case	Labour	to
+amod	Labour	old
+nmod:to	return	Labour

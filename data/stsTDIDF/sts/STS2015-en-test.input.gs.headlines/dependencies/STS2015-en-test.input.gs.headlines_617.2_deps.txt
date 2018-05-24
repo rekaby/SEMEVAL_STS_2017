@@ -1,0 +1,7 @@
+amod	Delegation	Iranian
+nsubj	Heads	Delegation
+root	ROOT	Heads
+case	Lebanon	to
+nmod:to	Heads	Lebanon
+punct	Heads	,
+nmod:tmod	Heads	Syria

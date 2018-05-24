@@ -1,0 +1,9 @@
+root	ROOT	``
+det	day	The
+amod	day	first
+root	``	day
+case	course	of
+nmod:of	day	course
+case	Japan	in
+nmod:in	course	Japan
+punct	day	.

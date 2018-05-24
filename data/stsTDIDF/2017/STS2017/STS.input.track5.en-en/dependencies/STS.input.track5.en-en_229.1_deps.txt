@@ -1,0 +1,11 @@
+det	group	A
+nsubj	nervous	group
+case	people	of
+nmod:of	group	people
+cop	nervous	are
+root	ROOT	nervous
+mark	crossing	about
+advcl	nervous	crossing
+det	water	the
+dobj	crossing	water
+punct	nervous	.

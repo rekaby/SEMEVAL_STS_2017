@@ -1,0 +1,9 @@
+det	musicians	The
+nsubj	practicing	musicians
+aux	practicing	are
+root	ROOT	practicing
+case	room	in
+det	room	an
+amod	room	empty
+nmod:in	practicing	room
+punct	practicing	.

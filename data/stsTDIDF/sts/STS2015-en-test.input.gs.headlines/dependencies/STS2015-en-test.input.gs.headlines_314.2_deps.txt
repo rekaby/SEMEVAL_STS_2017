@@ -1,0 +1,6 @@
+nsubj	final	Merkel
+mark	attend	to
+acl	Merkel	attend
+compound	Cup	World
+dobj	attend	Cup
+root	ROOT	final

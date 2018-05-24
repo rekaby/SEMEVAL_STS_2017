@@ -1,0 +1,8 @@
+nummod	people	Four
+nsubj	floating	people
+aux	floating	are
+root	ROOT	floating
+case	raft	on
+det	raft	a
+nmod:on	floating	raft
+punct	floating	.

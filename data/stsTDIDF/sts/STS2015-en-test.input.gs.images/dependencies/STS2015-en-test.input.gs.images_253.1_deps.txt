@@ -1,0 +1,7 @@
+nummod	girls	Two
+nsubj	walking	girls
+root	ROOT	walking
+case	ocean	in
+det	ocean	the
+nmod:in	walking	ocean
+punct	walking	.

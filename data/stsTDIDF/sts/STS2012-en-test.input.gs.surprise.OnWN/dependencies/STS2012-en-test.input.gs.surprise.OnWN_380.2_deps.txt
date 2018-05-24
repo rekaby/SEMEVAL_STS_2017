@@ -1,0 +1,9 @@
+root	ROOT	store
+punct	liquids	-LRB-
+dep	store	liquids
+cc	liquids	or
+conj:or	liquids	gases
+punct	liquids	-RRB-
+case	bottles	in
+nmod:in	store	bottles
+punct	store	.

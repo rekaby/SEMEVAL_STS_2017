@@ -1,0 +1,8 @@
+nummod	dogs	Four
+amod	dogs	black
+nsubj	run	dogs
+root	ROOT	run
+case	grass	across
+det	grass	the
+nmod:across	run	grass
+punct	run	.

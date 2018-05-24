@@ -1,0 +1,17 @@
+nsubj	is	That
+root	ROOT	is
+punct	is	,
+mark	has	if
+det	Association	the
+compound	Association	Recording
+compound	Association	Industry
+nsubj	has	Association
+case	America	of
+nmod:of	Association	America
+advcl	is	has
+dobj	has	anything
+mark	say	to
+acl	anything	say
+case	it	about
+nmod:about	say	it
+punct	is	.

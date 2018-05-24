@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	person	a
+nsubj	is	person
+case	picture	in
+det	picture	the
+nmod:in	person	picture
+punct	is	.

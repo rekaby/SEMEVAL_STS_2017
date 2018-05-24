@@ -1,0 +1,7 @@
+sleeps	Someone	nsubj
+Altobah	on	case
+ROOT	sleeps	root
+Altobah	the	det
+Altobah	floor	compound
+sleeps	.	punct
+sleeps	Altobah	nmod:on

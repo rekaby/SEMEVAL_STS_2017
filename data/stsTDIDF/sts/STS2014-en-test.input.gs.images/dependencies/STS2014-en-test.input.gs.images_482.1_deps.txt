@@ -1,0 +1,10 @@
+amod	cows	Several
+nsubj	grazing	cows
+root	ROOT	grazing
+case	median	on
+det	median	the
+nmod:on	grazing	median
+case	road	by
+det	road	the
+nmod:by	grazing	road
+punct	grazing	.

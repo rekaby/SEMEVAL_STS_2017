@@ -1,0 +1,11 @@
+looking	ducks	nmod:at
+looking	man	nsubj
+store	of	case
+window	through	case
+hanging	window	nmod:through
+store	food	compound
+store	an	det
+ducks	hanging	acl
+store	ethnic	amod
+ducks	at	case
+window	store	nmod:of

@@ -1,0 +1,15 @@
+slides	small	amod
+slide	a	det
+slide	playground	compound
+head	slide	nmod:down
+slides	blond	amod
+slide	first	advmod
+slide	blue	amod
+slides	A	det
+slide	youth	nmod:toward
+youth	another	det
+head	slides	nsubj
+slides	boy	compound
+youth	blond	amod
+youth	toward	case
+slide	down	case

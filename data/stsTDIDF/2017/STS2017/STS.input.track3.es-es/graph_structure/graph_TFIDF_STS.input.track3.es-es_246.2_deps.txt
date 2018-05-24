@@ -1,0 +1,7 @@
+shoulder	right	amod
+carries	man	nsubj
+carries	shoulder	nmod:over
+shoulder	over	case
+man	shirt	nmod:in
+carries	bag	dobj
+shirt	blue	amod

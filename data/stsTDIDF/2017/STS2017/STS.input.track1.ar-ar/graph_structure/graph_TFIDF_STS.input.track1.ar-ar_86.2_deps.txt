@@ -1,0 +1,8 @@
+jumps	high	xcomp
+abroad	it	nsubj
+high	abroad	advcl
+abroad	is	cop
+jumps	.	punct
+abroad	when	advmod
+ROOT	jumps	root
+jumps	Dog	nsubj

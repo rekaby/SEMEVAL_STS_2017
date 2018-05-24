@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	standing	girl
+aux	standing	is
+root	ROOT	standing
+case	man	next
+mwe	next	to
+det	man	a
+nmod:next_to	standing	man
+punct	standing	.

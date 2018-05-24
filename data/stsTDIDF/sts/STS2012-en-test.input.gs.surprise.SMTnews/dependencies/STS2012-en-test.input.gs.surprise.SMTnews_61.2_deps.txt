@@ -1,0 +1,8 @@
+cc	regime	And
+punct	regime	,
+advmod	regime	also
+punct	regime	,
+case	regime	of
+nmod:poss	regime	his
+root	ROOT	regime
+punct	regime	.

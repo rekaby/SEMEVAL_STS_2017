@@ -1,0 +1,6 @@
+nsubj	sets	China
+root	ROOT	sets
+compound	trial	Bo
+compound	trial	Xilai
+dobj	sets	trial
+nmod:tmod	sets	date

@@ -1,0 +1,9 @@
+compound	toll	Death
+nsubj	climbs	toll
+root	ROOT	climbs
+case	15	to
+nmod:to	climbs	15
+case	boat	in
+compound	boat	Indonesia
+nmod:in	15	boat
+dobj	climbs	sinking

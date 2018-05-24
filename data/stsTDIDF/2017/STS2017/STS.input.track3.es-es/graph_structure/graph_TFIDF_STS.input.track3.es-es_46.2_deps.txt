@@ -1,0 +1,8 @@
+ROOT	sewing	root
+sewing	are	aux
+sewing	Women	nsubj
+sewing	and	cc
+sewing	knitting	conj:and
+knitting	blankets	dobj
+sewing	.	punct
+blankets	baby	compound

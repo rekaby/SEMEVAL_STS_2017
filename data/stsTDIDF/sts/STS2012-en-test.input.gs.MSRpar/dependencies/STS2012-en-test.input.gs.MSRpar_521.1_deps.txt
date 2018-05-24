@@ -1,0 +1,14 @@
+advmod	seen	Previously
+nsubj	seen	he
+aux	seen	had
+root	ROOT	seen
+det	mechanic	the
+amod	mechanic	grinning
+dobj	seen	mechanic
+case	Java	from
+amod	Java	east
+nmod:from	mechanic	Java
+advmod	television	only
+case	television	on
+nmod:on	mechanic	television
+punct	seen	.

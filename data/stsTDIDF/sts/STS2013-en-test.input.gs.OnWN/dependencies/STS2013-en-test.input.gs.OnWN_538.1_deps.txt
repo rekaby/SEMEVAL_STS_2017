@@ -1,0 +1,8 @@
+root	ROOT	rise
+case	surface	to
+nmod:to	rise	surface
+punct	rise	;
+dep	rise	become
+xcomp	become	visible
+cc	visible	or
+conj:or	visible	known

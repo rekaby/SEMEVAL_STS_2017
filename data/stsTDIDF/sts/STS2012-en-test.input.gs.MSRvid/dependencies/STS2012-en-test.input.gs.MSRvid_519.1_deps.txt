@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	pours	woman
+root	ROOT	pours
+dobj	pours	oil
+case	skillet	into
+det	skillet	a
+nmod:into	pours	skillet
+case	bottle	from
+det	bottle	a
+amod	bottle	plastic
+nmod:from	pours	bottle
+mark	talking	while
+nsubj	talking	she
+aux	talking	is
+advcl	pours	talking
+punct	pours	.

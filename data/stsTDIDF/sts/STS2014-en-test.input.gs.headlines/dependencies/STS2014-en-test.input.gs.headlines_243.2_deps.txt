@@ -1,0 +1,6 @@
+compound	work	Demolition
+root	ROOT	work
+mark	begin	to
+acl	work	begin
+case	stadium	at
+nmod:at	begin	stadium

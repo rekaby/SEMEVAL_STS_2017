@@ -1,0 +1,7 @@
+det	guy	The
+nsubj	sleeping	guy
+aux	sleeping	is
+root	ROOT	sleeping
+case	bed	in
+nmod:in	sleeping	bed
+punct	sleeping	.

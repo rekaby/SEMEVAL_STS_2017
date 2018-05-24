@@ -1,0 +1,15 @@
+det	group	A
+nsubj	standing	group
+case	people	of
+nmod:of	group	people
+aux	standing	are
+root	ROOT	standing
+case	beach	on
+det	beach	the
+nmod:on	standing	beach
+case	boats	in
+mwe	in	front
+mwe	in	of
+det	boats	some
+nmod:in_front_of	standing	boats
+punct	standing	.

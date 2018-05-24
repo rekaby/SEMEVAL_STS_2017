@@ -1,0 +1,6 @@
+det	man	A
+nsubj	draining	man
+aux	draining	is
+root	ROOT	draining
+dobj	draining	pasta
+punct	draining	.

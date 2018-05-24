@@ -1,0 +1,6 @@
+ROOT	daughters	root
+bicycle	on	case
+daughters	bicycle	nmod:on
+daughters	.	punct
+bicycle	a	det
+daughters	Two	nummod

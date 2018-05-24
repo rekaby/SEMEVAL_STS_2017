@@ -1,0 +1,9 @@
+compound	Blog	Bits
+root	ROOT	Blog
+punct	Blog	:
+nsubj	Unveils	Facebook
+parataxis	Blog	Unveils
+det	Search	a
+amod	Search	New
+dobj	Unveils	Search
+dep	Search	Tool

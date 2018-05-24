@@ -1,0 +1,7 @@
+nsubj	defends	Japan
+root	ROOT	defends
+compound	hunt	dolphin
+dobj	defends	hunt
+case	criticism	after
+compound	criticism	US
+nmod:after	defends	criticism

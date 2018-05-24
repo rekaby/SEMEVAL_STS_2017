@@ -1,0 +1,14 @@
+det	snowboarder	A
+root	ROOT	snowboarder
+acl	snowboarder	wearing
+det	jacket	a
+amod	jacket	blue
+dobj	wearing	jacket
+cc	jacket	and
+amod	pants	green
+conj:and	jacket	pants
+advcl	wearing	running
+case	avalanche	from
+det	avalanche	an
+nmod:from	running	avalanche
+punct	snowboarder	.

@@ -1,0 +1,6 @@
+compound	crashes	Helicopter
+root	ROOT	crashes
+case	hour	in
+compound	hour	London
+compound	hour	rush
+nmod:in	crashes	hour

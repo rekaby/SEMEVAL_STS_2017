@@ -1,0 +1,8 @@
+nsubj	wonder	i
+root	ROOT	wonder
+advmod	pan	how
+nsubj	pan	this
+aux	pan	will
+ccomp	wonder	pan
+compound:prt	pan	out
+punct	wonder	.

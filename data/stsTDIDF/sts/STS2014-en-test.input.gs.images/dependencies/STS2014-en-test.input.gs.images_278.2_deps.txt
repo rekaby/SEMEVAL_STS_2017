@@ -1,0 +1,10 @@
+det	jet	A
+amod	jet	large
+compound	jet	passenger
+nsubj	flying	jet
+root	ROOT	flying
+case	ground	close
+mwe	close	to
+det	ground	the
+nmod:close_to	flying	ground
+punct	flying	.

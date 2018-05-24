@@ -1,0 +1,6 @@
+amod	envoys	Israeli
+nsubj	summoned	envoys
+root	ROOT	summoned
+case	plans	over
+compound	plans	settlement
+nmod:over	summoned	plans

@@ -1,0 +1,6 @@
+trying	drink	xcomp
+drink	beer	dobj
+trying	men	nsubj
+tubing	while	case
+drink	tubing	nmod:while
+drink	to	mark

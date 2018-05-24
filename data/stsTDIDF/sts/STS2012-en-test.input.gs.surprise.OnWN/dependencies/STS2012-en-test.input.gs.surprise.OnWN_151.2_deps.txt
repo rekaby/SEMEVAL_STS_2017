@@ -1,0 +1,8 @@
+root	ROOT	recovery
+cc	recovery	or
+conj:or	recovery	preservation
+case	loss	from
+nmod:from	recovery	loss
+cc	loss	or
+conj:or	loss	danger
+punct	recovery	.

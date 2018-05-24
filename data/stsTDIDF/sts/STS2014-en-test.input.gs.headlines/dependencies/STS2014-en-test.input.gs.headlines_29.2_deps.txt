@@ -1,0 +1,11 @@
+compound	rules	U.S.
+compound	rules	trade
+compound	rules	agency
+nsubj	bans	rules
+case	Samsung	for
+nmod:for	rules	Samsung
+punct	rules	,
+root	ROOT	bans
+compound	imports	iPhone
+nummod	imports	4
+dobj	bans	imports

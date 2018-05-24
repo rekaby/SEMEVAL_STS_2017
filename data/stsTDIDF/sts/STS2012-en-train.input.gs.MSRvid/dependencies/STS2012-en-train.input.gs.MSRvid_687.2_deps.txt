@@ -1,0 +1,9 @@
+det	cat	The
+nsubj	cleaned	cat
+root	ROOT	cleaned
+nmod:poss	face	his
+dobj	cleaned	face
+case	paw	with
+nmod:poss	paw	his
+nmod:with	cleaned	paw
+punct	cleaned	.

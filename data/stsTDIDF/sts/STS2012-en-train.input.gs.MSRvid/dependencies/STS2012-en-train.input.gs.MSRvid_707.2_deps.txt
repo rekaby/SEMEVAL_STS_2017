@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	places	woman
+root	ROOT	places
+det	container	a
+dobj	places	container
+case	noodles	of
+nmod:of	container	noodles
+case	pan	in
+det	pan	a
+nmod:in	places	pan
+case	water	of
+nmod:of	pan	water
+punct	places	.

@@ -1,0 +1,7 @@
+advmod	take	Why
+aux	take	did
+det	transaction	that
+nsubj	take	transaction
+root	ROOT	take
+dobj	take	place
+punct	take	.

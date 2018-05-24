@@ -1,0 +1,6 @@
+root	ROOT	cover
+case	liquid	with
+nmod:with	cover	liquid
+case	cooking	before
+nmod:before	cover	cooking
+punct	cover	.

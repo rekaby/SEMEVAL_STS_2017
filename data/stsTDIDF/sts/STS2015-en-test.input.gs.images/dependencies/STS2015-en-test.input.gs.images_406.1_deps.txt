@@ -1,0 +1,9 @@
+det	surfer	A
+nsubj	riding	surfer
+aux	riding	is
+root	ROOT	riding
+case	wave	on
+det	wave	a
+amod	wave	breaking
+nmod:on	riding	wave
+punct	riding	.

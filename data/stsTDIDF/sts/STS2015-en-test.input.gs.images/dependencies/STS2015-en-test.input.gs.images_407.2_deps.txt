@@ -1,0 +1,10 @@
+det	man	A
+nsubj	climbing	man
+aux	climbing	is
+root	ROOT	climbing
+det	side	the
+dobj	climbing	side
+case	mountain	of
+det	mountain	a
+nmod:of	side	mountain
+punct	climbing	.

@@ -1,0 +1,12 @@
+nummod	foxes	Two
+nsubj	eating	foxes
+aux	eating	are
+root	ROOT	eating
+case	plate	from
+det	plate	a
+nmod:from	eating	plate
+case	patio	on
+det	patio	a
+compound	patio	brick
+nmod:on	plate	patio
+punct	eating	.

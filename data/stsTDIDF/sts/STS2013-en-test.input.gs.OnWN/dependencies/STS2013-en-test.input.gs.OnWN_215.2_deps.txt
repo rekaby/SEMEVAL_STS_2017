@@ -1,0 +1,15 @@
+det	price	the
+root	ROOT	price
+case	which	at
+nmod:at	trade	which
+nsubj	trade	buyers
+cc	buyers	and
+conj:and	buyers	sellers
+acl:relcl	price	trade
+det	item	the
+dobj	trade	item
+case	marketplace	in
+det	marketplace	an
+amod	marketplace	open
+nmod:in	trade	marketplace
+punct	price	.

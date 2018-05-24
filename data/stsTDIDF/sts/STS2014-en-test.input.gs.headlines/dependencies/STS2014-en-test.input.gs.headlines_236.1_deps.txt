@@ -1,0 +1,6 @@
+compound	bombs	Roadside
+nsubj	kill	bombs
+root	ROOT	kill
+dobj	kill	5
+case	Afghanistan	in
+nmod:in	kill	Afghanistan

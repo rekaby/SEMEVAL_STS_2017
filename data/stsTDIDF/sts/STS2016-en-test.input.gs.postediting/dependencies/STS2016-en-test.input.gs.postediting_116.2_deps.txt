@@ -1,0 +1,16 @@
+mark	support	To
+advcl	16	support
+det	sector	the
+dobj	support	sector
+punct	16	,
+nsubj	16	it
+aux	16	should
+cop	16	be
+case	16	between
+root	ROOT	16
+cc	16	and
+compound	million	18
+conj:and	16	million
+case	year	per
+nmod:per	million	year
+punct	16	.

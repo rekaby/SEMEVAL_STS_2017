@@ -1,0 +1,10 @@
+case	division	Beyond
+det	division	the
+amod	division	geographical
+nmod:beyond	occur	division
+punct	occur	,
+det	divisions	the
+nsubj	occur	divisions
+root	ROOT	occur
+advmod	occur	locally
+punct	occur	.

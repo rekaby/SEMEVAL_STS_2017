@@ -1,0 +1,7 @@
+compound	bombing	Car
+nsubj	kills	bombing
+root	ROOT	kills
+dobj	kills	14
+case	Iraq	in
+amod	Iraq	northern
+nmod:in	14	Iraq

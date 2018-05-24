@@ -1,0 +1,8 @@
+nummod	children	Three
+nsubj	wrestle	children
+root	ROOT	wrestle
+case	carpet	on
+det	carpet	a
+amod	carpet	floral
+nmod:on	wrestle	carpet
+punct	wrestle	.

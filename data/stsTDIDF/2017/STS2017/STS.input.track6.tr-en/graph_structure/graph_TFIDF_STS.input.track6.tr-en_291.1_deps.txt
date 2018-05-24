@@ -1,0 +1,7 @@
+posing	is	aux
+ROOT	posing	root
+model	A	det
+cameras	for	case
+posing	cameras	nmod:for
+posing	.	punct
+posing	model	nsubj

@@ -1,0 +1,9 @@
+root	ROOT	connect
+cc	connect	or
+conj:or	connect	arrange
+case	chain	into
+det	chain	a
+nmod:into	arrange	chain
+mark	linking	by
+advcl	connect	linking
+punct	connect	.

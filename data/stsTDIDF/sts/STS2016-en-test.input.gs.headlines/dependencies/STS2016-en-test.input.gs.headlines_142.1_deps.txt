@@ -1,0 +1,5 @@
+amod	airstrikes	Saudi-led
+nsubj	hit	airstrikes
+root	ROOT	hit
+amod	capital	Yemeni
+dobj	hit	capital

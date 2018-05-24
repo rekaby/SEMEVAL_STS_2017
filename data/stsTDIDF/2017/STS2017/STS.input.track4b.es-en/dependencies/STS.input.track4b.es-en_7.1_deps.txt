@@ -1,0 +1,8 @@
+nsubj	want	You
+root	ROOT	want
+mark	talk	to
+xcomp	want	talk
+case	feelings	about
+amod	feelings	hard
+nmod:about	talk	feelings
+punct	want	?

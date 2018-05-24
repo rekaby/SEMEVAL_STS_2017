@@ -1,0 +1,17 @@
+det	songs	The
+nsubj	offer	songs
+cop	offer	are
+case	offer	on
+root	ROOT	offer
+case	cents	for
+nummod	cents	99
+nmod:for	offer	cents
+nmod:npmod	cents	each
+punct	cents	,
+cc	cents	or
+conj:or	cents	$
+nummod	$	9.99
+case	album	for
+det	album	an
+nmod:for	$	album
+punct	offer	.

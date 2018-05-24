@@ -1,0 +1,10 @@
+amod	children	Small
+amod	children	Asian
+root	ROOT	children
+acl	children	getting
+xcomp	getting	ready
+case	game	for
+det	game	a
+compound	game	sport
+nmod:for	ready	game
+punct	children	.

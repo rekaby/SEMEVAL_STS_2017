@@ -1,0 +1,9 @@
+root	ROOT	This
+acl	This	is
+advmod	support	why
+nsubj	support	I
+advcl	is	support
+det	penalty	the
+compound	penalty	death
+dobj	support	penalty
+punct	This	.

@@ -1,0 +1,6 @@
+root	ROOT	attack
+case	claws	as
+mark	claws	if
+case	claws	with
+nmod:with	attack	claws
+punct	attack	.

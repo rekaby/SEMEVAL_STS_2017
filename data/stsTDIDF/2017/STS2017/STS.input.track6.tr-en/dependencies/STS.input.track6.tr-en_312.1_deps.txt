@@ -1,0 +1,7 @@
+det	man	The
+nsubj	bed	man
+cop	bed	is
+case	bed	in
+root	ROOT	bed
+advmod	bed	asleep
+punct	bed	.

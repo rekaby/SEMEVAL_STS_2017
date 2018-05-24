@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+nmod:in	man	suit
+case	tie	with
+nmod:poss	tie	his
+nmod:with	suit	tie
+acl	tie	flying
+xcomp	flying	walks
+compound:prt	walks	down
+det	sidewalk	the
+dobj	walks	sidewalk
+punct	man	.

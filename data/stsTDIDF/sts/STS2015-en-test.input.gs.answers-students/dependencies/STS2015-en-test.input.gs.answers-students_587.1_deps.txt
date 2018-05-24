@@ -1,0 +1,9 @@
+expl	has	There
+root	ROOT	has
+mark	battery	to
+cop	battery	be
+det	battery	a
+amod	battery	closed
+compound	battery	circuit
+xcomp	has	battery
+punct	has	.

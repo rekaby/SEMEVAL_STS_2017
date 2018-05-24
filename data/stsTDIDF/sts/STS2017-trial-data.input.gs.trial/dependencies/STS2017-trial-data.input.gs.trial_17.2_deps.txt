@@ -1,0 +1,11 @@
+nmod:poss	condition	Mandela
+case	Mandela	's
+nsubj	worsened	condition
+aux	worsened	has
+punct	worsened	`
+root	ROOT	worsened
+case	hours	over
+amod	hours	past
+nummod	hours	48
+nmod:over	worsened	hours
+punct	worsened	'

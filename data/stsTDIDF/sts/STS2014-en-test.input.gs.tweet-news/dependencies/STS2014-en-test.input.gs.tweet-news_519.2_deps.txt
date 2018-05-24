@@ -1,0 +1,7 @@
+compound	Korea	N.
+nsubj	makes	Korea
+root	ROOT	makes
+amod	threats	new
+dobj	makes	threats
+case	U.S.	against
+nmod:against	threats	U.S.

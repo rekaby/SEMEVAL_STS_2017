@@ -1,0 +1,14 @@
+det	guy	A
+nsubj	sitting	guy
+aux	sitting	is
+root	ROOT	sitting
+case	bike	on
+nmod:poss	bike	his
+nmod:on	sitting	bike
+case	wheel	with
+nummod	wheel	one
+nmod:with	sitting	wheel
+case	air	in
+det	air	the
+nmod:in	wheel	air
+punct	sitting	.

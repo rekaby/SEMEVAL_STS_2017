@@ -1,0 +1,4 @@
+walking	building	nmod:near
+walking	is	aux
+walking	woman	nsubj
+building	near	case

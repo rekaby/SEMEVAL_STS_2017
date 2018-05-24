@@ -1,0 +1,6 @@
+det	way	a
+root	ROOT	way
+mark	conceiving	of
+acl	way	conceiving
+dobj	conceiving	something
+punct	way	.

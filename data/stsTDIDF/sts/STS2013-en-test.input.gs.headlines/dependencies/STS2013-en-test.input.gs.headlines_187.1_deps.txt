@@ -1,0 +1,7 @@
+compound	Drone	U.S.
+nsubj	Kills	Drone
+root	ROOT	Kills
+nummod	Militants	Five
+dobj	Kills	Militants
+case	Pakistan	in
+nmod:in	Kills	Pakistan

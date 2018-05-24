@@ -1,0 +1,15 @@
+advmod	begin	When
+aux	begin	does
+nsubj	begin	life
+root	ROOT	begin
+punct	begin	?-5) amod(hospital-2, Catholic
+nsubj	argues	hospital
+root	ROOT	argues
+mark	person	that
+det	embryo	an
+nsubj	person	embryo
+cop	person	is
+neg	person	not
+det	person	a
+ccomp	argues	person
+punct	argues	.

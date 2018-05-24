@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	grasping	of
+acl	act	grasping
+case	arms	into
+nmod:poss	arms	one
+case	one	's
+nmod:into	grasping	arms

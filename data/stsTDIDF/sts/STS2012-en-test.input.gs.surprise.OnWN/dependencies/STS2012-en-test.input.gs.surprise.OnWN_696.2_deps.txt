@@ -1,0 +1,7 @@
+det	finger	the
+root	ROOT	finger
+case	thumb	next
+mwe	next	to
+det	thumb	the
+nmod:next_to	finger	thumb
+punct	finger	.

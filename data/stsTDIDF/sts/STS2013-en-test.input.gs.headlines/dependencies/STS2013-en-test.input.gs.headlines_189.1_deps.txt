@@ -1,0 +1,9 @@
+nsubj	killed	9
+root	ROOT	killed
+punct	killed	,
+dep	killed	168
+acl	168	injured
+case	Cairo	in
+amod	Cairo	latest
+nmod:in	injured	Cairo
+dep	killed	clashes

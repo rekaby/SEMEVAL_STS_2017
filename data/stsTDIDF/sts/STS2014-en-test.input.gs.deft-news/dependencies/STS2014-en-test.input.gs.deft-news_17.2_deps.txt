@@ -1,0 +1,14 @@
+det	attacks	the
+compound	attacks	cyber
+nsubj	follow	attacks
+root	ROOT	follow
+amod	strikes	russian
+amod	strikes	military
+dobj	follow	strikes
+acl	strikes	launched
+case	georgia	against
+nmod:against	launched	georgia
+advmod	week	late
+amod	week	last
+nmod:tmod	launched	week
+punct	follow	.

@@ -1,0 +1,14 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	exemplary	it
+cop	exemplary	is
+ccomp	think	exemplary
+mark	resolved	that
+nsubjpass	resolved	France
+auxpass	resolved	is
+ccomp	exemplary	resolved
+mark	take	to
+xcomp	resolved	take
+det	step	that
+dobj	take	step
+punct	think	.

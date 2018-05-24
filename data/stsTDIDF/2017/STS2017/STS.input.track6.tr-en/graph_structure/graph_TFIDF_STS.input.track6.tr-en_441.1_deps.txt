@@ -1,0 +1,6 @@
+shines	floors	dobj
+shines	.	punct
+ROOT	shines	root
+shines	janitor	nsubj
+floors	the	det
+janitor	The	det

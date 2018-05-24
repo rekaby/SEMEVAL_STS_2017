@@ -1,0 +1,8 @@
+det	bird	A
+nsubj	eating	bird
+aux	eating	is
+root	ROOT	eating
+case	bowl	from
+det	bowl	a
+nmod:from	eating	bowl
+punct	eating	.

@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	putting	of
+acl	act	putting
+dobj	putting	something
+advmod	putting	somewhere
+punct	act	.

@@ -1,0 +1,23 @@
+compound Swimmer River	28.734585198430697
+root ROOT Swimmer	28.734585198430697
+punct Swimmer ,	28.734585198430697
+compound Books NYT	15.060439779775294
+punct Books -	15.060439779775294
+dep Books Books	15.060439779775294
+punct Books ?-9) det(Swimmer-3, The	15.060439779775294
+punct Swimmer ?-5) det(pair-2, a	15.060439779775294
+case Novellas of	15.060439779775294
+nmod:of pair Novellas	15.060439779775294
+nmod:by pair Harrison	15.060439779775294
+punct pair ?-9) det(Swimmer-3, The	15.060439779775294
+punct Swimmer ?-5) root(ROOT-0, Ji	15.060439779775294
+punct Ji ...	15.060439779775294
+punct pair :	14.367292599215348
+compound Harrison Jim	13.961827491107185
+nmod:of Books Times	12.757854686781249
+punct Books :	12.575533129987294
+case Harrison by	12.170068021879128
+root ROOT pair	11.371560325661358
+root ROOT Books	10.886052509879656
+case Times of	9.079025568520812
+det Times The	7.251304381654756

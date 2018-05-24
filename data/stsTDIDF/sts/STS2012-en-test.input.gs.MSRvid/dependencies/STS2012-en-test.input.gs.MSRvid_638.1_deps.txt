@@ -1,0 +1,7 @@
+det	lady	The
+nsubj	cracked	lady
+root	ROOT	cracked
+nummod	eggs	two
+amod	eggs	raw
+dobj	cracked	eggs
+punct	cracked	.

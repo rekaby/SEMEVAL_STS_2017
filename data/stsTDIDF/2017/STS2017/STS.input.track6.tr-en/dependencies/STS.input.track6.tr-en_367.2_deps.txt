@@ -1,0 +1,11 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	lane	in
+det	lane	a
+nmod:in	standing	lane
+case	room	in
+det	room	the
+nmod:in	lane	room
+punct	standing	.

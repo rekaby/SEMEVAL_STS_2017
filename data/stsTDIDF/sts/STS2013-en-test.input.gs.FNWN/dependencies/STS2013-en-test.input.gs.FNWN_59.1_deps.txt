@@ -1,0 +1,37 @@
+det	frame	this
+nsubj	contains	frame
+root	ROOT	contains
+dobj	contains	words
+nsubj	describe	that
+acl:relcl	words	describe
+amod	aspects	specific
+dobj	describe	aspects
+case	color	of
+det	color	a
+nmod:of	aspects	color
+punct	contains	.-12) det(degree-2, the
+nsubj	deviates	degree
+case	which	to
+nmod:to	discussed	which
+det	color	the
+nsubjpass	discussed	color
+auxpass	discussed	being
+acl:relcl	degree	discussed
+csubjpass	marked	deviates
+case	prototype	from
+det	prototype	the
+nmod:from	deviates	prototype
+aux	marked	may
+auxpass	marked	be
+root	ROOT	marked
+punct	marked	.-16) det(description-2, the
+nsubj	target	description
+aux	target	may
+advmod	target	also
+root	ROOT	target
+det	aspect	a
+amod	aspect	specific
+dobj	target	aspect
+case	color	of
+nmod:of	aspect	color
+punct	target	.

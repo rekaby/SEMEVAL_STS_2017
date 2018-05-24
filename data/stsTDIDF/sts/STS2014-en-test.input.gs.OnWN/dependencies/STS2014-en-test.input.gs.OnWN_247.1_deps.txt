@@ -1,0 +1,7 @@
+root	ROOT	drag
+advmod	surface	loosely
+case	surface	along
+det	surface	a
+nmod:along	drag	surface
+punct	drag	,
+appos	drag	trail

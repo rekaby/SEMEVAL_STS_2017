@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	preparing	woman
+aux	preparing	is
+root	ROOT	preparing
+dobj	preparing	shrimp
+mark	cook	to
+xcomp	preparing	cook
+punct	preparing	.

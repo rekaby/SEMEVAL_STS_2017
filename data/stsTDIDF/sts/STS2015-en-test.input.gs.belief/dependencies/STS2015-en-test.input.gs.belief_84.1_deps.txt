@@ -1,0 +1,10 @@
+nummod	months	six
+root	ROOT	months
+acl	months	is
+det	minimum	the
+nsubj	is	minimum
+acl	minimum	recommended
+case	planners	by
+amod	planners	financial
+nmod:by	recommended	planners
+punct	months	.

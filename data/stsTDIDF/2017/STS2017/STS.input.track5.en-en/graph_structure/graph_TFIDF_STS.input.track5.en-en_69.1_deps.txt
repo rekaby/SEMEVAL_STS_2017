@@ -1,0 +1,12 @@
+drink	on	case
+surrounded	rugs	nmod:by
+drink	bench	compound
+Man	sitting	acl
+Man	.	punct
+rugs	by	case
+ROOT	Man	root
+mug	from	case
+mug	a	det
+drink	mug	nmod:from
+mug	surrounded	acl
+sitting	drink	nmod:on

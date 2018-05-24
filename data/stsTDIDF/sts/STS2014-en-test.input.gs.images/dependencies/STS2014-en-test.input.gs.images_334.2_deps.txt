@@ -1,0 +1,15 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	watching
+det	street	the
+dobj	watching	street
+case	bikes	with
+nmod:poss	bikes	their
+nmod:with	watching	bikes
+mark	see	to
+advcl	watching	see
+advmod	cross	when
+nsubj	cross	they
+aux	cross	may
+advcl	see	cross
+punct	women	.

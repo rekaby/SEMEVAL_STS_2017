@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	black
+nsubj	jumps	dog
+root	ROOT	jumps
+case	ball	for
+det	ball	a
+amod	ball	red
+nmod:for	jumps	ball
+punct	jumps	.

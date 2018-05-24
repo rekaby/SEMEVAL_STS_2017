@@ -1,0 +1,11 @@
+compound	Programming	Dynamic
+nsubj	solves	Programming
+root	ROOT	solves
+dobj	solves	problems
+mark	combining	by
+advcl	solves	combining
+det	solutions	the
+dobj	combining	solutions
+case	subproblems	of
+nmod:of	solutions	subproblems
+punct	solves	.

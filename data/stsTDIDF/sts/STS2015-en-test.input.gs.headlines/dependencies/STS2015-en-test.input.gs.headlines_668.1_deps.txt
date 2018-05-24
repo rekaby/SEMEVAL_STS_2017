@@ -1,0 +1,7 @@
+compound	president	South
+compound	president	Africa
+root	ROOT	president
+punct	president	:
+nsubj	improving	Mandela
+aux	improving	is
+dep	president	improving

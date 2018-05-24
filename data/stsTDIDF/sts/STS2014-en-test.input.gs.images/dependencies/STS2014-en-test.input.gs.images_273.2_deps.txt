@@ -1,0 +1,7 @@
+nummod	rams	Two
+nsubj	stand	rams
+root	ROOT	stand
+case	ground	on
+amod	ground	snowy
+nmod:on	stand	ground
+punct	stand	.

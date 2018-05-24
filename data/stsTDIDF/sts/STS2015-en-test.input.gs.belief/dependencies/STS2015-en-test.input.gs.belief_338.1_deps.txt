@@ -1,0 +1,11 @@
+nsubj	good	it
+cop	good	's
+advmod	good	really
+root	ROOT	good
+punct	good	,
+cc	good	and
+advmod	innovative	quite
+conj:and	good	innovative
+case	places	in
+nmod:in	innovative	places
+punct	good	.

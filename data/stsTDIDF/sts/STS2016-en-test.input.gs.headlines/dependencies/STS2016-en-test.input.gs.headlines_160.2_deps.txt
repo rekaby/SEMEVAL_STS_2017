@@ -1,0 +1,7 @@
+nummod	attack	6
+acl	6	killed
+case	mosque	in
+compound	mosque	Afghan
+compound	mosque	capital
+nmod:in	killed	mosque
+root	ROOT	attack

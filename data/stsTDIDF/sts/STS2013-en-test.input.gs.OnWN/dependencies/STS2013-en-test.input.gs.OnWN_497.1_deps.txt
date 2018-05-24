@@ -1,0 +1,7 @@
+root	ROOT	room
+advmod	done	where
+nsubjpass	done	work
+cc	work	or
+conj:or	work	repairs
+auxpass	done	are
+acl:relcl	room	done

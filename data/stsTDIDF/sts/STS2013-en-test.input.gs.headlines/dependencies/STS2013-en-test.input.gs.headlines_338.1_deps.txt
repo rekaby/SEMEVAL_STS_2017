@@ -1,0 +1,5 @@
+compound	terminal	Minn.
+nsubj	reopens	terminal
+root	ROOT	reopens
+case	evacuation	after
+nmod:after	reopens	evacuation

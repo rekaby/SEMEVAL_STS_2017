@@ -1,0 +1,16 @@
+nmod:poss	brain	Your
+nsubj	beginning	brain
+aux	beginning	is
+advmod	beginning	already
+root	ROOT	beginning
+mark	wind	to
+xcomp	beginning	wind
+compound:prt	wind	down
+mark	see	as
+nsubj	see	you
+advcl	wind	see
+det	end	the
+dobj	see	end
+case	sight	in
+nmod:in	end	sight
+punct	beginning	.

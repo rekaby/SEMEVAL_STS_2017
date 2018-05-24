@@ -1,0 +1,7 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+case	plate	from
+det	plate	the
+nmod:from	walks	plate
+punct	walks	.

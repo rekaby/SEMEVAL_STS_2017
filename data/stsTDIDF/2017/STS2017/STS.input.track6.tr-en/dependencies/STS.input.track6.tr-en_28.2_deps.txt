@@ -1,0 +1,9 @@
+det	baby	The
+nsubjpass	laid	baby
+auxpass	laid	was
+root	ROOT	laid
+case	sleep	for
+nmod:for	laid	sleep
+case	school	after
+nmod:after	laid	school
+punct	laid	.

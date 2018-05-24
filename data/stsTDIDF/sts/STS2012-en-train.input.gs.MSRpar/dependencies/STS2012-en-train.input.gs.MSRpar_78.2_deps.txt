@@ -1,0 +1,10 @@
+nsubj	dominate	Democrats
+root	ROOT	dominate
+det	Assembly	the
+dobj	dominate	Assembly
+mark	control	while
+nsubj	control	Republicans
+advcl	dominate	control
+det	Senate	the
+dobj	control	Senate
+punct	dominate	.

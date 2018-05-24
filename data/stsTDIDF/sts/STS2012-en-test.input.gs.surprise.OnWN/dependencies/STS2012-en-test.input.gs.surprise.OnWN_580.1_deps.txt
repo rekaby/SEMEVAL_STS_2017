@@ -1,0 +1,12 @@
+det	injury	an
+root	ROOT	injury
+case	skin	to
+det	skin	the
+nmod:to	injury	skin
+acl	injury	caused
+case	radiation	by
+nmod:by	caused	radiation
+punct	radiation	,
+conj:or	radiation	heat
+cc	radiation	or
+conj:or	radiation	chemicals

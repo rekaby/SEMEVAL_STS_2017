@@ -1,0 +1,16 @@
+nsubj	strategy	That
+cop	strategy	is
+advmod	strategy	also
+det	strategy	the
+amod	strategy	recommended
+root	ROOT	strategy
+case	marathons	for
+nmod:for	strategy	marathons
+punct	strategy	,
+mark	going	if
+nsubj	going	you
+aux	going	are
+advcl	strategy	going
+case	time	for
+nmod:for	going	time
+punct	strategy	.

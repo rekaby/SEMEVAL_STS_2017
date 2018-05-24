@@ -1,0 +1,6 @@
+compound	job	Man
+amod	job	outsources
+amod	job	own
+root	ROOT	job
+case	China	to
+nmod:to	job	China

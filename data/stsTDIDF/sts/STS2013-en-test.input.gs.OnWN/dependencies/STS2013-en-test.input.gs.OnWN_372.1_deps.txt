@@ -1,0 +1,9 @@
+det	collection	a
+nsubj	amount	collection
+case	something	of
+nmod:of	collection	something
+punct	collection	,
+advmod	amount	often
+det	amount	a
+amod	amount	large
+root	ROOT	amount

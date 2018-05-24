@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	swims	dog
+root	ROOT	swims
+case	water	through
+det	water	the
+nmod:through	swims	water
+punct	swims	.

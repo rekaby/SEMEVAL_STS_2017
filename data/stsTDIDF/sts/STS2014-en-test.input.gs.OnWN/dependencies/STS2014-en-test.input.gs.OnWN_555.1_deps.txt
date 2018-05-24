@@ -1,0 +1,8 @@
+root	ROOT	remove
+conj:or	remove	remove
+case	place	from
+det	place	a
+nmod:from	remove	place
+cc	remove	or
+case	office	from
+nmod:from	remove	office

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	driving	man
+aux	driving	is
+root	ROOT	driving
+det	car	a
+amod	car	blue
+dobj	driving	car
+punct	driving	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubjpass	pulled	man
+auxpass	pulled	being
+root	ROOT	pulled
+case	sled	on
+det	sled	a
+compound	sled	dog
+nmod:on	pulled	sled
+punct	pulled	.

@@ -1,0 +1,12 @@
+nsubj	want	You
+aux	want	'll
+advmod	want	always
+root	ROOT	want
+mark	add	to
+xcomp	want	add
+dobj	add	fish
+case	tank	into
+det	tank	a
+nmod:into	add	tank
+advmod	tank	slowly
+punct	want	.

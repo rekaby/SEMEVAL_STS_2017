@@ -1,0 +1,8 @@
+det	man	A
+nsubj	smiling	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	smiling	are
+root	ROOT	smiling
+punct	smiling	.

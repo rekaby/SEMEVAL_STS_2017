@@ -1,0 +1,12 @@
+nsubj	standing	people
+aux	standing	are
+advmod	standing	just
+root	ROOT	standing
+case	lines	in
+nmod:in	standing	lines
+dep	lines	waitin
+punct	waitin	'
+mark	become	to
+acl	waitin	become
+xcomp	become	teachers
+punct	standing	.

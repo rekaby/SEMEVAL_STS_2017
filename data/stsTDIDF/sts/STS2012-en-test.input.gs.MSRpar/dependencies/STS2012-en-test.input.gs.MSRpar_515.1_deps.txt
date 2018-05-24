@@ -1,0 +1,14 @@
+det	department	The
+nsubj	sent	department
+advmod	sent	also
+root	ROOT	sent
+compound	samples	water
+cc	water	and
+conj:and	water	soil
+dobj	sent	samples
+case	laboratory	to
+det	laboratory	the
+compound	laboratory	state
+compound	laboratory	health
+nmod:to	sent	laboratory
+punct	sent	.

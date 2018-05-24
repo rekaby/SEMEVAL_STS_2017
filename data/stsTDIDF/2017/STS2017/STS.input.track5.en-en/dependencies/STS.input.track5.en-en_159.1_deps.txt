@@ -1,0 +1,9 @@
+nummod	girls	Two
+nsubj	playing	girls
+aux	playing	are
+root	ROOT	playing
+dobj	playing	Doctor
+case	house	inside
+nmod:poss	house	their
+nmod:inside	playing	house
+punct	playing	.

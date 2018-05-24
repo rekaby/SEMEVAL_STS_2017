@@ -1,0 +1,12 @@
+garden	a	det
+garden	wide	amod
+picks	Girl	dobj
+garden	in	case
+older	an	det
+older	of	case
+ROOT	picks	root
+picks	up	compound:prt
+image	older	nmod:of
+picks	Girl	nsubj
+picks	image	dobj
+older	garden	nmod:in

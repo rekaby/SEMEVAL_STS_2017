@@ -1,0 +1,8 @@
+det	appearance	the
+amod	appearance	visual
+root	ROOT	appearance
+case	something	of
+nmod:of	appearance	something
+cc	something	or
+conj:or	something	someone
+punct	appearance	.

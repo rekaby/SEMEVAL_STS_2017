@@ -1,0 +1,8 @@
+nsubj	strikes	Air
+root	ROOT	strikes
+compound	civilians	wound
+dobj	strikes	civilians
+case	Deraa	in
+nmod:poss	Deraa	Syria
+case	Syria	's
+nmod:in	strikes	Deraa

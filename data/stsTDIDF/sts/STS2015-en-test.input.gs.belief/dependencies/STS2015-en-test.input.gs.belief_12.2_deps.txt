@@ -1,0 +1,7 @@
+aux	know	do
+nsubj	know	you
+root	ROOT	know
+dobj	are	who
+nsubj	are	shareholders
+ccomp	know	are
+punct	know	?

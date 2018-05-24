@@ -1,0 +1,11 @@
+nsubj	walking	People
+aux	walking	are
+root	ROOT	walking
+case	hallway	in
+det	hallway	a
+amod	hallway	long
+nmod:in	walking	hallway
+case	walls	with
+amod	walls	blue
+nmod:with	hallway	walls
+punct	walking	.

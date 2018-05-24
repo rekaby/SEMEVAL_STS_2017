@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	walking	dog
+root	ROOT	walking
+case	pool	beside
+det	pool	a
+nmod:beside	walking	pool
+punct	walking	.

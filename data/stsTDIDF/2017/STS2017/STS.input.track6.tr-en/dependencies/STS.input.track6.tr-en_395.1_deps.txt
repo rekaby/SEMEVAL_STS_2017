@@ -1,0 +1,8 @@
+det	man	The
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+mark	pick	to
+xcomp	walking	pick
+dobj	pick	stone
+punct	walking	.

@@ -1,0 +1,6 @@
+beams	wooden	amod
+family	A	det
+walks	family	nsubj
+beams	under	case
+beams	large	amod
+walks	beams	nmod:under

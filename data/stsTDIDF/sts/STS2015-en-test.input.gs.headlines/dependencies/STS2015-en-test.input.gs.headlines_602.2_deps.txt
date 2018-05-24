@@ -1,0 +1,8 @@
+compound	Toll	Death
+nsubj	Rises	Toll
+root	ROOT	Rises
+case	84	to
+nmod:to	Rises	84
+case	Pakistan	in
+nmod:in	84	Pakistan
+dobj	Rises	Floods

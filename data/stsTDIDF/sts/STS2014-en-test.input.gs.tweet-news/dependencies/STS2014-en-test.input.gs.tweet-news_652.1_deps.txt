@@ -1,0 +1,14 @@
+amod	Star	Indian
+nsubj	Tells	Star
+punct	Mirza	-LRB-
+compound	Mirza	Sania
+appos	Star	Mirza
+punct	Mirza	-RRB-
+root	ROOT	Tells
+case	Life	of
+nmod:of	Tells	Life
+cc	Life	and
+conj:and	Life	Marriage
+case	Fishbowl	in
+compound	Fishbowl	Media
+nmod:in	Tells	Fishbowl

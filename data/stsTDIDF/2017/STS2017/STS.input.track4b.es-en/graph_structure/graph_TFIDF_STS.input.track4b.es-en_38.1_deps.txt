@@ -1,0 +1,17 @@
+suffers	that	nsubj
+adversaries	with	case
+readiness	poor	amod
+morale	low	amod
+suffers	,	punct
+suffers	and	cc
+suffers	unable	conj:and
+suffers	morale	dobj
+adversaries	potential	amod
+unable	is	cop
+ROOT	force	root
+keep	adversaries	nmod:with
+force	It	nsubj
+suffers	readiness	conj:and
+force	's	cop
+unable	keep	xcomp
+force	suffers	acl:relcl

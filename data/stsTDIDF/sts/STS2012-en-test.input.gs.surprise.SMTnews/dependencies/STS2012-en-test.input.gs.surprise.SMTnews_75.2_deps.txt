@@ -1,0 +1,15 @@
+dep	are	Today
+expl	are	there
+root	ROOT	are
+nummod	ways	two
+amod	ways	plausible
+nsubj	are	ways
+mark	proceed	to
+acl	ways	proceed
+case	tyrant	with
+mwe	with	regard
+mwe	with	to
+det	tyrant	a
+amod	tyrant	relieved
+nmod:with_regard_to	proceed	tyrant
+punct	are	.

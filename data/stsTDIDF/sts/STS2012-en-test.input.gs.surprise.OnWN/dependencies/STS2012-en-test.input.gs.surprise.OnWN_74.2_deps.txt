@@ -1,0 +1,11 @@
+root	ROOT	get
+mark	know	to
+xcomp	get	know
+cc	know	or
+conj:or	know	become
+xcomp	know	aware
+case	accidentally	of
+punct	accidentally	,
+advmod	accidentally	usually
+nmod:of	aware	accidentally
+punct	get	.

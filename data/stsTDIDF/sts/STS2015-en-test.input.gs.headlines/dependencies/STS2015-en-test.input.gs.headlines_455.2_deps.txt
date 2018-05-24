@@ -1,0 +1,9 @@
+amod	teen	Palestinian
+nsubj	dies	teen
+root	ROOT	dies
+case	wounds	of
+nmod:of	dies	wounds
+acl	wounds	sustained
+case	shooting	in
+amod	shooting	Israeli
+nmod:in	sustained	shooting

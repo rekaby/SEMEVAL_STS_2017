@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	grass	across
+det	grass	the
+nmod:across	running	grass
+punct	running	.

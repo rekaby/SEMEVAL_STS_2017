@@ -1,0 +1,8 @@
+compound	talks	Karzai
+mark	visit	to
+acl	Karzai	visit
+dobj	visit	Pakistan
+case	peace	for
+compound	peace	Taliban
+nmod:for	visit	peace
+root	ROOT	talks

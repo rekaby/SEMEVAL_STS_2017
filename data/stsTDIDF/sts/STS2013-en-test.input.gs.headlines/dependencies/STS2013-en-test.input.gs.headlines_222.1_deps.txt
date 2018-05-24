@@ -1,0 +1,7 @@
+det	rocket	Another
+nsubj	hits	rocket
+root	ROOT	hits
+dobj	hits	Eshkol
+punct	hits	;
+neg	injuries	no
+dep	hits	injuries

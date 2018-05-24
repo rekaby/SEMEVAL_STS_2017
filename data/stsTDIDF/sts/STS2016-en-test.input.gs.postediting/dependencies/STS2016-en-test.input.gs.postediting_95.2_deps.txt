@@ -1,0 +1,13 @@
+case	many	For
+nmod:for	prices	many
+punct	prices	,
+det	advantage	the
+amod	advantage	main
+nsubj	prices	advantage
+case	music	of
+amod	music	mobile
+nmod:of	advantage	music
+cop	prices	is
+nmod:poss	prices	their
+root	ROOT	prices
+punct	prices	.

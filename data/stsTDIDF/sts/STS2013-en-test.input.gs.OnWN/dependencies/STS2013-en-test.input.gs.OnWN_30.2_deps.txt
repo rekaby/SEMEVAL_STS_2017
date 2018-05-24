@@ -1,0 +1,10 @@
+det	state	a
+root	ROOT	state
+mark	relaxed	of
+auxpass	relaxed	being
+acl	state	relaxed
+cc	state	and
+conj:and	state	feeling
+neg	pain	no
+dobj	feeling	pain
+punct	state	.

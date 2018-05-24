@@ -1,0 +1,9 @@
+root	ROOT	money
+case	form	in
+det	form	the
+nmod:in	money	form
+case	bills	of
+nmod:of	form	bills
+cc	bills	or
+conj:or	bills	coins
+punct	money	.

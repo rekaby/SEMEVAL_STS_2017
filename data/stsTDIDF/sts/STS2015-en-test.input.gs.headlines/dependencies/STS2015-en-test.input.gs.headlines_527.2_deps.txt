@@ -1,0 +1,5 @@
+compound	supporters	Morsi
+nsubj	march	supporters
+root	ROOT	march
+case	Egypt	in
+nmod:in	march	Egypt

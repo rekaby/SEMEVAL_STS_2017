@@ -1,0 +1,11 @@
+advmod	separate	Unfortunately
+punct	separate	,
+nsubj	separate	others
+root	ROOT	separate
+case	basis	on
+det	basis	the
+nmod:on	separate	basis
+case	hatred	of
+amod	hatred	accumulated
+nmod:of	basis	hatred
+punct	separate	.

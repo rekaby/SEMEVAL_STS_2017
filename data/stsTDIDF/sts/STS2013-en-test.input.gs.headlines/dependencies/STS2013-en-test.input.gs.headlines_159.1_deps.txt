@@ -1,0 +1,8 @@
+root	ROOT	Man
+punct	Man	,
+appos	Man	19
+punct	Man	,
+appos	Man	quizzed
+case	murder	over
+amod	murder	teen
+nmod:over	quizzed	murder

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	jumps	man
+root	ROOT	jumps
+case	wall	into
+det	wall	a
+nmod:into	jumps	wall
+punct	jumps	.

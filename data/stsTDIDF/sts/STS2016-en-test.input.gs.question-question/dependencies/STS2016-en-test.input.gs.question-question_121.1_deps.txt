@@ -1,0 +1,12 @@
+advmod	stop	How
+aux	stop	can
+nsubj	stop	I
+root	ROOT	stop
+nmod:poss	cat	my
+nmod:poss	playful	cat
+case	cat	's
+dobj	stop	playful
+cc	stop	yet
+amod	behavior	aggressive
+conj:yet	stop	behavior
+punct	stop	?

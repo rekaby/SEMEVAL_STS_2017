@@ -1,0 +1,6 @@
+nsubj	rehearse	Girl
+root	ROOT	rehearse
+case	room	in
+det	room	the
+nmod:in	rehearse	room
+punct	rehearse	.

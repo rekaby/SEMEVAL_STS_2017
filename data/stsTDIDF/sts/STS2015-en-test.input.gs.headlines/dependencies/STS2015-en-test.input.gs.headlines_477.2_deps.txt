@@ -1,0 +1,7 @@
+compound	Sealed	Iran
+compound	Sealed	Nuclear
+compound	Sealed	Deal
+root	ROOT	Sealed
+case	Decades-Long	After
+nmod:after	Sealed	Decades-Long
+dep	Sealed	Dispute

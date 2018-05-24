@@ -1,0 +1,5 @@
+root	ROOT	People
+case	water	in
+det	water	the
+nmod:in	People	water
+punct	People	.

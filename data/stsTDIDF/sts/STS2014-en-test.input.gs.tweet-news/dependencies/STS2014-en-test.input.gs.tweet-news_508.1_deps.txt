@@ -1,0 +1,22 @@
+compound	Weaver	Jacqui
+nsubj	tells	Weaver
+root	ROOT	tells
+det	Times	the
+compound	Times	NY
+dobj	tells	Times
+punct	tells	:
+punct	tells	?-8) nsubj(have-3, I
+aux	have	do
+root	ROOT	have
+dobj	have	friends
+case	Australia	in
+nmod:in	friends	Australia
+nsubj	refer	who
+advmod	refer	now
+acl:relcl	friends	refer
+case	me	to
+nmod:to	refer	me
+nmod	refer	as
+punct	have	?-13) compound(??-3, Hollywood
+compound	??	Jack
+root	ROOT	??

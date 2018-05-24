@@ -1,0 +1,6 @@
+nsubj	slicing	Someone
+aux	slicing	is
+root	ROOT	slicing
+det	tomato	a
+dobj	slicing	tomato
+punct	slicing	.

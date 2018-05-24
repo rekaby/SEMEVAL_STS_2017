@@ -1,0 +1,15 @@
+det	man	A
+amod	man	young
+nsubj	surfs	man
+root	ROOT	surfs
+det	wave	a
+amod	wave	big
+dobj	surfs	wave
+mark	quiet	while
+nsubj	quiet	others
+cop	quiet	are
+advcl	surfs	quiet
+case	background	in
+det	background	the
+nmod:in	quiet	background
+punct	surfs	.

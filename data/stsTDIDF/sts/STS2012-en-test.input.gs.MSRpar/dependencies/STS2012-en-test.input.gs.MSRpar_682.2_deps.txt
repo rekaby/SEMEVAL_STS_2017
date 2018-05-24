@@ -1,0 +1,16 @@
+compound	Bankhead	GBI
+compound	Bankhead	spokesman
+compound	Bankhead	John
+nsubj	said	Bankhead
+root	ROOT	said
+det	scenes	the
+compound	scenes	murder
+nsubj	showed	scenes
+ccomp	said	showed
+mark	methodical	that
+det	killer	the
+nsubj	methodical	killer
+cop	methodical	was
+advmod	methodical	very
+ccomp	showed	methodical
+punct	said	.

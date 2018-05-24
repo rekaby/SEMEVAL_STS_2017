@@ -1,0 +1,9 @@
+root	ROOT	Explosion
+case	Kabul	in
+nmod:in	Explosion	Kabul
+det	attack	a
+compound	attack	suicide
+dobj	Explosion	attack
+case	area	in
+amod	area	diplomatic
+nmod:in	attack	area

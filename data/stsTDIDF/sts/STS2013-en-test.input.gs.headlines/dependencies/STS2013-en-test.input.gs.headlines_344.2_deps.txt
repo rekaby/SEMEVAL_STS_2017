@@ -1,0 +1,7 @@
+amod	Church	Russian
+compound	Church	Orthodox
+nsubj	rallies	Church
+root	ROOT	rallies
+dobj	rallies	faithful
+case	criticism	after
+nmod:after	rallies	criticism

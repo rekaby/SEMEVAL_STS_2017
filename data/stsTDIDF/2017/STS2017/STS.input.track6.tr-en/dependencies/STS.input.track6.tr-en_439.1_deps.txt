@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	sleeping	girl
+aux	sleeping	is
+root	ROOT	sleeping
+case	bedroom	in
+nmod:poss	bedroom	her
+nmod:in	sleeping	bedroom
+punct	sleeping	.

@@ -1,0 +1,17 @@
+nsubj	went	Evacuation
+ccomp	said	went
+advmod	went	smoothly
+punct	went	,
+mark	told	although
+nsubjpass	told	passengers
+auxpass	told	were
+neg	told	n't
+advcl	went	told
+nsubj	going	what
+aux	going	was
+ccomp	told	going
+compound:prt	going	on
+punct	said	,
+nsubj	said	Hunt
+root	ROOT	said
+punct	said	.

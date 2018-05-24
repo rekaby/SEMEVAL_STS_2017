@@ -1,0 +1,7 @@
+det	grasp	a
+amod	grasp	mental
+root	ROOT	grasp
+cc	grasp	or
+conj:or	grasp	understanding
+case	something	of
+nmod:of	understanding	something

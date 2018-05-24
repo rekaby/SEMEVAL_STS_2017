@@ -1,0 +1,8 @@
+nsubj	surround	Gunmen
+root	ROOT	surround
+amod	ministry	Libyan
+amod	ministry	foreign
+dobj	surround	ministry
+mark	push	to
+xcomp	surround	push
+dobj	push	demands

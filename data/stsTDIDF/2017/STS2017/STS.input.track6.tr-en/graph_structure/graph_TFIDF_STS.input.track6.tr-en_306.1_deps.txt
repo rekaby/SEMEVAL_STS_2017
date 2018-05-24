@@ -1,0 +1,8 @@
+dish	holders	nmod:with
+dish	onto	case
+holding	dish	nmod:onto
+holders	pot	compound
+holders	with	case
+holding	man	nsubj
+dish	a	det
+dish	casserole	compound

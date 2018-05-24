@@ -1,0 +1,13 @@
+nsubj	struggle	this
+cop	struggle	was
+det	struggle	a
+amod	struggle	long
+cc	long	and
+conj:and	long	ongoing
+root	ROOT	struggle
+nsubj	lasted	that
+acl:relcl	struggle	lasted
+advmod	2	almost
+nummod	years	2
+nmod:tmod	lasted	years
+punct	struggle	.

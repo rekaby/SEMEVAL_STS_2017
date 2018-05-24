@@ -1,0 +1,13 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	adopt	to
+punct	adopt	-RRB-
+xcomp	cause	adopt
+det	system	a
+amod	system	different
+dobj	adopt	system
+punct	system	,
+conj:or	system	value
+punct	system	,
+cc	system	or
+conj:or	system	viewpoint

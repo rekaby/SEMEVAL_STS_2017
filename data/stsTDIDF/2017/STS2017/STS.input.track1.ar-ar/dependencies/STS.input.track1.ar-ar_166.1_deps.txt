@@ -1,0 +1,7 @@
+nsubj	came	Monster
+root	ROOT	came
+case	ocean	out
+mwe	out	of
+det	ocean	the
+nmod:out_of	came	ocean
+punct	came	.

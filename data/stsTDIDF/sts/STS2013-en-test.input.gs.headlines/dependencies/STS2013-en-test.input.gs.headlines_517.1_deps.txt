@@ -1,0 +1,8 @@
+amod	Archbishop	British
+root	ROOT	Archbishop
+case	career	of
+compound	career	Canterbury
+compound	career	changes
+nmod:of	Archbishop	career
+case	Cambridge	to
+nmod:to	Archbishop	Cambridge

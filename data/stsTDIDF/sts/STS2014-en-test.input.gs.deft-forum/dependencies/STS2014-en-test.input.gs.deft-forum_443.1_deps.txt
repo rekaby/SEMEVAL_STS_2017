@@ -1,0 +1,11 @@
+nmod:poss	word	my
+amod	word	final
+root	ROOT	word
+punct	word	:
+dep	word	ignoring
+dobj	ignoring	has
+det	effect	the
+dobj	has	effect
+case	normalizing	of
+nmod:of	effect	normalizing
+punct	word	.

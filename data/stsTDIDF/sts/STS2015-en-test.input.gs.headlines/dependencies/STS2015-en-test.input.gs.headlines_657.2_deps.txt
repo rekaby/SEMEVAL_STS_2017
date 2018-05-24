@@ -1,0 +1,13 @@
+compound	Taliban	Pakistani
+nsubj	elect	Taliban
+punct	elect	`
+root	ROOT	elect
+amod	chief	new
+dobj	elect	chief
+punct	chief	'
+punct	chief	,
+compound	revenge	vow
+punct	revenge	`
+amod	revenge	unprecedented
+punct	revenge	'
+appos	chief	revenge

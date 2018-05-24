@@ -1,0 +1,6 @@
+nummod	soldiers	Two
+amod	soldiers	Aust
+nsubj	wounded	soldiers
+root	ROOT	wounded
+case	Afghanistan	in
+nmod:in	wounded	Afghanistan

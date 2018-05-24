@@ -1,0 +1,16 @@
+nsubj	increases	It
+root	ROOT	increases
+det	power	the
+dobj	increases	power
+case	countries	of
+det	countries	the
+amod	countries	big
+nmod:of	power	countries
+case	expense	at
+det	expense	the
+nmod:at	increases	expense
+case	countries	of
+det	countries	the
+amod	countries	small
+nmod:of	expense	countries
+punct	increases	.

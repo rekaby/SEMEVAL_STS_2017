@@ -1,0 +1,7 @@
+nmod:tmod	path	bulb
+nsubj	path	a
+cop	path	is
+case	path	in
+det	path	the
+amod	path	closed
+root	ROOT	path

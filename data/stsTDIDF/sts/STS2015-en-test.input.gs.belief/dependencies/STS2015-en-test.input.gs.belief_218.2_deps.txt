@@ -1,0 +1,15 @@
+root	ROOT	ok
+nsubj	explains	that
+acl:relcl	ok	explains
+nummod	trillion	one
+advmod	trillion	more
+dobj	explains	trillion
+case	addition	of
+nmod:poss	addition	bush
+case	bush	's
+nmod:of	trillion	addition
+case	debt	to
+det	debt	the
+amod	debt	national
+nmod:to	explains	debt
+punct	ok	.

@@ -1,0 +1,10 @@
+det	teacher	A
+nsubj	helps	teacher
+root	ROOT	helps
+det	student	a
+dobj	helps	student
+case	class	in
+det	class	the
+compound	class	carpentry
+nmod:in	helps	class
+punct	helps	.

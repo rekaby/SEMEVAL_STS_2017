@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	stares	cat
+root	ROOT	stares
+case	camera	into
+det	camera	the
+nmod:into	stares	camera
+punct	stares	.

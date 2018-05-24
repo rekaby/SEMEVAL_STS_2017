@@ -1,0 +1,16 @@
+nsubj	engaged	Female
+case	shirt	in
+det	shirt	a
+compound	shirt	maroon
+nmod:in	Female	shirt
+root	ROOT	engaged
+case	conversation	in
+nmod:in	engaged	conversation
+case	female	with
+det	female	another
+nmod:with	conversation	female
+case	blazer	in
+det	blazer	a
+compound	blazer	tan
+nmod:in	conversation	blazer
+punct	engaged	.

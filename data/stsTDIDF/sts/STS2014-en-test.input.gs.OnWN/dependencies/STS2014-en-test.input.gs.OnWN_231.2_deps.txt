@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+case	counting	of
+nmod:of	act	counting
+punct	act	;
+dep	act	reciting
+dobj	reciting	numbers
+mark	ascending	in
+advcl	reciting	ascending
+dobj	ascending	order
+punct	act	.

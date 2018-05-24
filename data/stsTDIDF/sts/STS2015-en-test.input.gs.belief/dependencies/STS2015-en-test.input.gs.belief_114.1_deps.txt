@@ -1,0 +1,11 @@
+root	ROOT	ask
+dobj	ask	yourself
+dobj	look	what
+nsubj	look	you
+ccomp	ask	look
+case	friend	for
+case	friend	in
+det	friend	a
+nmod:in	look	friend
+advmod	look	too
+punct	ask	.

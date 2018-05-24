@@ -1,0 +1,12 @@
+det	man	This
+nsubj	wears	man
+root	ROOT	wears
+dobj	wears	sunglasses
+mark	keep	to
+advcl	wears	keep
+det	sun	the
+dobj	keep	sun
+case	eyes	out
+mwe	out	of
+nmod:poss	eyes	his
+nmod:out_of	keep	eyes

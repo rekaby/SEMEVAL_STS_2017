@@ -1,0 +1,7 @@
+amod	train	Black
+nsubj	idle	train
+root	ROOT	idle
+case	tracks	on
+det	tracks	the
+nmod:on	idle	tracks
+punct	idle	.

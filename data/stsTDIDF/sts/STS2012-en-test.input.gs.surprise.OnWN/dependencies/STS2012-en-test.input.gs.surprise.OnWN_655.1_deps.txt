@@ -1,0 +1,8 @@
+root	ROOT	cook
+advmod	time	slowly
+case	time	for
+det	time	a
+amod	time	long
+acl:for	cook	time
+case	liquid	in
+nmod:in	time	liquid

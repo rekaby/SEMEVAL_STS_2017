@@ -1,0 +1,17 @@
+det	BlueCore3-Multimedia	The
+nsubj	includes	BlueCore3-Multimedia
+root	ROOT	includes
+det	CODEC	a
+amod	CODEC	16-bit
+compound	CODEC	stereo
+compound	CODEC	audio
+dobj	includes	CODEC
+case	ADC	with
+amod	ADC	dual
+nmod:with	CODEC	ADC
+cc	ADC	and
+conj:and	ADC	DAC
+case	audio	for
+compound	audio	stereo
+nmod:for	CODEC	audio
+punct	includes	.

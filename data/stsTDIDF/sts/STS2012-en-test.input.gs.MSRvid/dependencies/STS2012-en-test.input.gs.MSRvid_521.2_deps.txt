@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	cutting
+dobj	cutting	butter
+case	bowl	into
+det	bowl	a
+amod	bowl	mixing
+nmod:into	cutting	bowl
+punct	man	.

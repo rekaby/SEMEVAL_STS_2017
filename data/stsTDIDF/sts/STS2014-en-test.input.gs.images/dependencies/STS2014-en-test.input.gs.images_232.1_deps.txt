@@ -1,0 +1,12 @@
+compound	standing	Feet
+root	ROOT	standing
+case	day	on
+det	day	a
+amod	day	pretty
+nmod:on	standing	day
+case	building	with
+amod	building	large
+nmod:with	standing	building
+case	background	in
+nmod:in	building	background
+punct	standing	.

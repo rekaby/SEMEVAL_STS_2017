@@ -1,0 +1,8 @@
+compound	Plans	Julian
+compound	Plans	Assange
+root	ROOT	Plans
+mark	Run	to
+acl	Plans	Run
+case	Senate	for
+amod	Senate	Australian
+nmod:for	Run	Senate

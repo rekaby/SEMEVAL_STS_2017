@@ -1,0 +1,15 @@
+cc	fell	But
+compound	prices	US
+compound	prices	stock
+nsubj	fell	prices
+root	ROOT	fell
+advmod	5.2	only
+nummod	%	5.2
+dobj	fell	%
+case	May	between
+nmod:between	fell	May
+nummod	May	9
+cc	May	and
+conj:and	May	May
+nummod	May	24
+punct	fell	.

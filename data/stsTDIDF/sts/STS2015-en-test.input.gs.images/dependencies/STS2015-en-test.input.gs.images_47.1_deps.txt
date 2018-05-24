@@ -1,0 +1,13 @@
+det	dog	A
+root	ROOT	dog
+case	shirt	in
+det	shirt	a
+punct	shirt	``
+compound	shirt	superman
+punct	shirt	''
+nmod:in	dog	shirt
+acl	shirt	sleeps
+case	blanket	on
+det	blanket	a
+nmod:on	sleeps	blanket
+punct	dog	.

@@ -1,0 +1,12 @@
+nsubj	sees	Snowden
+root	ROOT	sees
+punct	sees	``
+neg	chance	no
+dobj	sees	chance
+punct	sees	''
+mark	get	to
+advcl	sees	get
+amod	trial	fair
+dobj	get	trial
+case	U.S.	in
+nmod:in	get	U.S.

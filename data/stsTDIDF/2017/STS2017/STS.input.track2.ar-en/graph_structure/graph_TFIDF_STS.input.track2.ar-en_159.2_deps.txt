@@ -1,0 +1,4 @@
+sleeps	outside	advmod
+ROOT	sleeps	root
+sleeps	man	nsubj
+sleeps	.	punct

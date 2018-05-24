@@ -1,0 +1,15 @@
+det	note	a
+amod	note	short
+root	ROOT	note
+acl	note	recognizing
+det	source	a
+dobj	recognizing	source
+conj:or	source	source
+case	information	of
+nmod:of	source	information
+cc	source	or
+case	passage	of
+det	passage	a
+amod	passage	quoted
+nmod:of	source	passage
+punct	note	.

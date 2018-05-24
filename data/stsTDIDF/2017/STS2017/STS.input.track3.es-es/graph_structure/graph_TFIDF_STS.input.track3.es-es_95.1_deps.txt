@@ -1,0 +1,5 @@
+ROOT	observe	root
+observe	reaction	dobj
+observe	.	punct
+observe	men	nsubj
+reaction	chemical	amod

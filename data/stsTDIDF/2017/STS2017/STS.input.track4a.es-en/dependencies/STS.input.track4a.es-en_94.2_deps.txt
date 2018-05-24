@@ -1,0 +1,17 @@
+nummod	people	Two
+nsubj	sit	people
+root	ROOT	sit
+case	table	at
+det	table	a
+nmod:at	sit	table
+case	tent	under
+det	tent	a
+nmod:under	sit	tent
+mark	stands	as
+det	man	a
+amod	man	third
+nsubj	stands	man
+advcl	sit	stands
+case	them	near
+nmod:near	stands	them
+punct	sit	.

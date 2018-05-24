@@ -1,0 +1,5 @@
+det	channel	a
+root	ROOT	channel
+case	communication	of
+amod	communication	social
+nmod:of	channel	communication

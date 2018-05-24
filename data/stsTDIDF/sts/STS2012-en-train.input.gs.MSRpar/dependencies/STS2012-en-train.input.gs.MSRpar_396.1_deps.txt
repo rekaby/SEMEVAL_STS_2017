@@ -1,0 +1,16 @@
+det	potties	The
+compound	potties	WiFi
+nsubj	were	potties
+root	ROOT	were
+mark	unveiled	to
+auxpass	unveiled	be
+xcomp	were	unveiled
+det	summer	this
+nmod:tmod	unveiled	summer
+punct	were	,
+case	festivals	at
+compound	festivals	music
+nmod:at	were	festivals
+case	Britain	in
+nmod:in	festivals	Britain
+punct	were	.

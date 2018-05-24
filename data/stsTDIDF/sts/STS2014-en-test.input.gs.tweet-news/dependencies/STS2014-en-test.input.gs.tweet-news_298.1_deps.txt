@@ -1,0 +1,14 @@
+amod	news	Tragic
+root	ROOT	news
+punct	news	:
+compound	Crusader	A
+compound	Crusader	Data
+dep	news	Crusader
+punct	Crusader	,
+det	Defendant	a
+appos	Crusader	Defendant
+cc	Defendant	and
+advmod	Cause	Now
+punct	Cause	,
+det	Cause	a
+conj:and	Defendant	Cause

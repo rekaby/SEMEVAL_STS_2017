@@ -1,0 +1,8 @@
+compound	artist	THe
+nsubj	packing	artist
+aux	packing	is
+csubj	tools	packing
+compound:prt	packing	up
+cop	tools	is
+compound	tools	painting
+root	ROOT	tools

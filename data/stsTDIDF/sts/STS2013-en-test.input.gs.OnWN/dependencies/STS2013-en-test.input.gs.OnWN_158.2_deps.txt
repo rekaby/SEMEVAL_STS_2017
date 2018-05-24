@@ -1,0 +1,7 @@
+root	ROOT	turn
+det	paddle	the
+dobj	turn	paddle
+punct	turn	;
+case	canoeing	in
+nmod:in	turn	canoeing
+punct	turn	.

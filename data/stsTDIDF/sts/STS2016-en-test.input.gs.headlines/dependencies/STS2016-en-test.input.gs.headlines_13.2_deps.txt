@@ -1,0 +1,5 @@
+compound	Berlusconi	Silvio
+nsubj	expelled	Berlusconi
+root	ROOT	expelled
+case	parliament	from
+nmod:from	expelled	parliament

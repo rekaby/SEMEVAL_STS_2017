@@ -1,0 +1,9 @@
+nsubj	smashes	Dhawan
+root	ROOT	smashes
+dobj	smashes	India
+mark	win	to
+amod	win	big
+xcomp	smashes	win
+case	Africa	over
+compound	Africa	South
+nmod:over	win	Africa

@@ -1,0 +1,10 @@
+compound	forces	Thai
+compound	forces	junta
+compound	forces	security
+nsubj	stay	forces
+root	ROOT	stay
+case	barracks	in
+nmod:in	stay	barracks
+case	protests	as
+nmod:as	stay	protests
+dep	stay	dwindle

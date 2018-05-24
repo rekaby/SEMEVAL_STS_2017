@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	forcing	of
+acl	act	forcing
+compound:prt	forcing	out
+dobj	forcing	someone
+cc	someone	or
+conj:or	someone	something
+punct	act	.

@@ -1,0 +1,11 @@
+root	ROOT	urge
+conj:or	urge	urge
+case	goad	with
+cc	with	or
+conj:or	with	as
+case	goad	if
+case	goad	with
+det	goad	a
+nmod:as	urge	goad
+nmod:with	urge	goad
+punct	urge	.

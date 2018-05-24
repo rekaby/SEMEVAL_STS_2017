@@ -1,0 +1,4 @@
+women	Three	nummod
+cook	women	nsubj
+ROOT	cook	root
+cook	.	punct

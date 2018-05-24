@@ -1,0 +1,10 @@
+root	ROOT	Slutstamp
+punct	Slutstamp	!-2) det(friend-3, A
+amod	friend	dear
+nsubj	sent	friend
+case	Ohio	from
+nmod:from	friend	Ohio
+root	ROOT	sent
+dobj	sent	me
+dobj	sent	this
+punct	sent	.

@@ -1,0 +1,4 @@
+holding	sign	dobj
+sign	restaurant	nmod:for
+holding	man	nsubj
+restaurant	for	case

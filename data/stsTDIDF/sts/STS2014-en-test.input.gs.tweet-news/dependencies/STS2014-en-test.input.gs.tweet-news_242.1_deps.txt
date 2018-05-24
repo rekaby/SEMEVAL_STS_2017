@@ -1,0 +1,14 @@
+det	thing	This
+nsubj	reads	thing
+root	ROOT	reads
+case	one	like
+nmod:like	reads	one
+case	death	of
+det	death	those
+amod	death	pre-written
+punct	death	`
+nmod:of	one	death
+punct	articles	'
+dep	death	articles
+punct	reads	.-13) root(ROOT-0, Creepy
+punct	Creepy	.

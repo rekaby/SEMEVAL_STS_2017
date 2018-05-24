@@ -1,0 +1,17 @@
+compound	wildfire	California
+root	ROOT	wildfire
+punct	wildfire	:
+dep	wildfire	1,900
+case	lines	on
+det	lines	the
+nmod:on	1,900	lines
+case	labor	as
+compound	labor	firefighters
+nmod:as	lines	labor
+mark	limit	to
+acl	1,900	limit
+dobj	limit	damage
+punct	video	-LRB-
+cc	video	+
+appos	damage	video
+punct	video	-RRB-

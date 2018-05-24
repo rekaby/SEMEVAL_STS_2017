@@ -1,0 +1,7 @@
+nsubj	made	Obama
+root	ROOT	made
+amod	decision	last-minute
+nsubj	approval	decision
+case	Syria	on
+nmod:on	decision	Syria
+dobj	made	approval

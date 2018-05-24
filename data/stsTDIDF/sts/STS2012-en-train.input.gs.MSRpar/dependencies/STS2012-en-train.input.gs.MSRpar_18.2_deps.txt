@@ -1,0 +1,16 @@
+det	courts	The
+amod	courts	federal
+nsubj	ruled	courts
+aux	ruled	have
+root	ROOT	ruled
+mark	violates	that
+det	monument	the
+nsubj	violates	monument
+ccomp	ruled	violates
+det	ban	the
+amod	ban	constitutional
+dobj	violates	ban
+case	religion	against
+amod	religion	state-established
+nmod:against	ban	religion
+punct	ruled	.

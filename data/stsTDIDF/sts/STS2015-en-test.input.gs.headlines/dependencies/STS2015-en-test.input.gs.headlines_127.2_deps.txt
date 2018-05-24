@@ -1,0 +1,6 @@
+compound	members	Red
+compound	members	Cross
+nsubj	kidnapped	members
+root	ROOT	kidnapped
+case	Syria	in
+nmod:in	kidnapped	Syria

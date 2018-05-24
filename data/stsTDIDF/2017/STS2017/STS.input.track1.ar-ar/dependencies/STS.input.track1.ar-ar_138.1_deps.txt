@@ -1,0 +1,13 @@
+det	woman	This
+root	ROOT	woman
+acl	woman	watching
+dobj	watching	TV
+punct	woman	,
+mark	waiting	while
+nsubj	waiting	it
+aux	waiting	is
+advcl	woman	waiting
+case	food	for
+det	food	the
+nmod:for	waiting	food
+punct	woman	.

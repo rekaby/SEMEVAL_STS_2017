@@ -1,0 +1,8 @@
+compound	courts	Egypt
+nsubj	hear	courts
+root	ROOT	hear
+dobj	hear	cases
+case	Mubarak	against
+nmod:against	cases	Mubarak
+punct	hear	,
+dep	hear	Islamists

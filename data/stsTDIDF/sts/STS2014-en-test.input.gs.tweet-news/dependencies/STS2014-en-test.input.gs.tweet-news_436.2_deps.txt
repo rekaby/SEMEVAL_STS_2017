@@ -1,0 +1,6 @@
+compound	Armstrong	Readers
+compound	Armstrong	sue
+nsubj	refund	Armstrong
+case	book	for
+nmod:for	Armstrong	book
+root	ROOT	refund

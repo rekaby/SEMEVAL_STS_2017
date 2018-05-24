@@ -1,0 +1,6 @@
+root	ROOT	give
+det	thrashing	a
+dobj	give	thrashing
+dep	thrashing	to
+punct	give	,
+dep	give	beat

@@ -1,0 +1,7 @@
+fishing	hat	compound
+boat	out	case
+fishing	gray	amod
+wearing	fishing	dobj
+fishing	a	det
+boat	fishing	compound
+wearing	boat	nmod:out_of

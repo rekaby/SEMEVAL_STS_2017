@@ -1,0 +1,6 @@
+det	head	the
+amod	head	political
+root	ROOT	head
+case	government	of
+compound	government	city
+nmod:of	head	government

@@ -1,0 +1,8 @@
+theater	watching	acl
+watching	movie	dobj
+kids	The	det
+theater	kids	nsubj
+theater	at	case
+ROOT	theater	root
+theater	.	punct
+theater	are	cop

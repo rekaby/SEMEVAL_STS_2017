@@ -1,0 +1,6 @@
+nsubj	investigated	Strauss-Kahn
+root	ROOT	investigated
+case	prostitution	in
+amod	prostitution	French
+nmod:in	investigated	prostitution
+dobj	investigated	ring

@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	multi-colored
+root	ROOT	bird
+dep	bird	clings
+case	fence	to
+det	fence	a
+compound	fence	wire
+nmod:to	clings	fence
+punct	bird	.

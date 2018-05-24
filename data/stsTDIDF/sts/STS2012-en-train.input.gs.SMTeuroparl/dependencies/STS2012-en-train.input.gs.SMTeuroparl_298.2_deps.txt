@@ -1,0 +1,13 @@
+nsubj	heard	We
+aux	heard	have
+root	ROOT	heard
+xcomp	heard	that
+det	first	the
+dep	that	first
+cc	first	and
+advmod	inequality	then
+det	inequality	the
+conj:and	first	inequality
+case	opportunity	of
+nmod:of	inequality	opportunity
+punct	heard	.

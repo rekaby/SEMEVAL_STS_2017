@@ -1,0 +1,17 @@
+root	ROOT	Is
+nmod:poss	cat	my
+nmod:poss	behavior	cat
+case	cat	's
+amod	behavior	aggressive
+nsubj	playful	behavior
+xcomp	Is	playful
+cc	playful	or
+conj:or	playful	mean
+punct	playful	,
+cc	playful	and
+advmod	stop	how
+aux	stop	do
+nsubj	stop	I
+conj:and	playful	stop
+dobj	stop	it
+punct	Is	?

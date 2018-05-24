@@ -1,0 +1,13 @@
+det	children	These
+nummod	children	two
+nsubj	running	children
+cc	children	and
+det	dog	the
+conj:and	children	dog
+aux	running	are
+root	ROOT	running
+case	field	through
+det	field	a
+compound	field	grass
+nmod:through	running	field
+punct	running	.

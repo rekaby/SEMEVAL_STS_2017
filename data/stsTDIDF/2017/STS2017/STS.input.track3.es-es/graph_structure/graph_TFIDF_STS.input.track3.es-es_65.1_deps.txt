@@ -1,0 +1,9 @@
+tuning	orchestra	nsubj
+tuning	rehearsal	nmod:for
+rehearsal	for	case
+rehearsal	a	det
+ROOT	tuning	root
+orchestra	An	det
+tuning	is	cop
+tuning	.	punct
+rehearsal	private	amod

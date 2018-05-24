@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	water	through
+det	water	the
+nmod:through	running	water
+punct	dog	.

@@ -1,0 +1,7 @@
+amod	dog	Brown
+nsubj	splashing	dog
+root	ROOT	splashing
+case	water	into
+det	water	the
+nmod:into	splashing	water
+punct	splashing	.

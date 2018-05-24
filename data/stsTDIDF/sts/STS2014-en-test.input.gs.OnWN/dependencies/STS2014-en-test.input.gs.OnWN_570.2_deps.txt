@@ -1,0 +1,6 @@
+det	disclosure	the
+root	ROOT	disclosure
+case	secret	of
+compound	secret	something
+nmod:of	disclosure	secret
+punct	disclosure	.

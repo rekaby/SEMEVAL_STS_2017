@@ -1,0 +1,7 @@
+power	washing	acl
+washing	building	dobj
+ladder	on	case
+ladder	a	det
+is	power	nsubj
+man	ladder	nmod:on
+man	is	acl

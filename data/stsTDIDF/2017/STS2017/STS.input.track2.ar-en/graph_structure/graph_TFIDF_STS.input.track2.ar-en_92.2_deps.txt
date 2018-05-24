@@ -1,0 +1,5 @@
+ROOT	dogs	root
+dogs	Three	nummod
+dogs	black	amod
+dogs	beach	nmod:on
+dogs	.	punct

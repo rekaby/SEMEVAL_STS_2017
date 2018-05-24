@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	young
+nsubj	using	girl
+aux	using	is
+root	ROOT	using
+compound	language	sign
+dobj	using	language
+punct	using	.

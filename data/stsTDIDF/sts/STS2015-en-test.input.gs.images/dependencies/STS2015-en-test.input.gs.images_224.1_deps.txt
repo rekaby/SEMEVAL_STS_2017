@@ -1,0 +1,8 @@
+det	skier	A
+nsubj	falling	skier
+aux	falling	is
+root	ROOT	falling
+case	snow	into
+det	snow	the
+nmod:into	falling	snow
+punct	falling	.

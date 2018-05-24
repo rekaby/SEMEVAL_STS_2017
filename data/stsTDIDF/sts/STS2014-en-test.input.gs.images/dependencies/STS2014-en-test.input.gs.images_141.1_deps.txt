@@ -1,0 +1,13 @@
+det	computer	A
+amod	computer	white
+compound	computer	Apple
+nsubj	sits	computer
+root	ROOT	sits
+case	carpeting	on
+det	carpeting	the
+amod	carpeting	beige
+nmod:on	sits	carpeting
+case	bedroom	of
+det	bedroom	a
+nmod:of	carpeting	bedroom
+punct	sits	.

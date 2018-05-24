@@ -1,0 +1,8 @@
+compound	plane	Malaysia
+compound	plane	Airlines
+nsubj	vanishes	plane
+root	ROOT	vanishes
+case	flight	on
+nmod:on	vanishes	flight
+case	Beijing	to
+nmod:to	flight	Beijing

@@ -1,0 +1,8 @@
+amod	troops	Israeli
+nsubj	kill	troops
+root	ROOT	kill
+dobj	kill	Palestinian
+case	raid	in
+compound	raid	West
+compound	raid	Bank
+nmod:in	Palestinian	raid

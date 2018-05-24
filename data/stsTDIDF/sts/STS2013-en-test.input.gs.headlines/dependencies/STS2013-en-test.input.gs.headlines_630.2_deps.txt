@@ -1,0 +1,8 @@
+nsubj	emerge	UK
+punct	UK	:
+nummod	victims	300
+amod	victims	potential
+compound	victims	Savile
+compound	victims	abuse
+dep	UK	victims
+root	ROOT	emerge

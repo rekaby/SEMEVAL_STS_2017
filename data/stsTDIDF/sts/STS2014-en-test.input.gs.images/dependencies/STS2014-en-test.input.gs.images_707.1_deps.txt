@@ -1,0 +1,11 @@
+det	bird	A
+amod	bird	yellow
+cc	yellow	and
+conj:and	yellow	black
+nsubj	eats	bird
+root	ROOT	eats
+case	feeder	from
+det	feeder	a
+compound	feeder	bird
+nmod:from	eats	feeder
+punct	eats	.

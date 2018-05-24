@@ -1,0 +1,6 @@
+situation	from	case
+said	transfers	nsubj
+situation	another	nmod:to
+situation	one	nummod
+transfers	self-regulation	compound
+transfers	situation	nmod:from

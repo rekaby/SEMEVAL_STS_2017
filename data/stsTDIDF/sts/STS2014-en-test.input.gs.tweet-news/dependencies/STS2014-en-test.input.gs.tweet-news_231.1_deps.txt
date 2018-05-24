@@ -1,0 +1,5 @@
+nsubj	hurts	It
+root	ROOT	hurts
+nmod:poss	stomach	my
+dobj	hurts	stomach
+punct	hurts	.

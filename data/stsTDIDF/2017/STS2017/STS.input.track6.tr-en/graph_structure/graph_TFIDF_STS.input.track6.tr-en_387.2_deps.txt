@@ -1,0 +1,5 @@
+sitting	camper	nsubj
+sitting	backpack	nmod:next_to
+backpack	his	nmod:poss
+camper	The	det
+backpack	next	case

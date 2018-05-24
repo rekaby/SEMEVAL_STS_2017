@@ -1,0 +1,12 @@
+root	ROOT	take
+punct	gas	-LRB-
+dobj	take	gas
+punct	gas	,
+conj:or	gas	light
+cc	gas	or
+conj:or	gas	heat
+punct	gas	-RRB-
+case	solution	into
+det	solution	a
+nmod:into	take	solution
+punct	take	.

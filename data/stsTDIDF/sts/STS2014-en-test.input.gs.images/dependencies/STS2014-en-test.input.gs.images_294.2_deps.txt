@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+nmod:poss	bicycle	his
+conj:and	man	bicycle
+acl	man	laying
+compound:prt	laying	down
+case	grass	on
+det	grass	the
+amod	grass	green
+nmod:on	laying	grass
+punct	man	.

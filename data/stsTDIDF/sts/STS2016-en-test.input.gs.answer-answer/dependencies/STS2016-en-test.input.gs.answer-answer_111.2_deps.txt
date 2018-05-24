@@ -1,0 +1,11 @@
+advmod	say	Personally
+punct	say	,
+nsubj	say	I
+aux	say	would
+root	ROOT	say
+neg	say	not
+mark	suits	unless
+nsubj	suits	it
+advcl	say	suits
+dobj	suits	you
+punct	say	.

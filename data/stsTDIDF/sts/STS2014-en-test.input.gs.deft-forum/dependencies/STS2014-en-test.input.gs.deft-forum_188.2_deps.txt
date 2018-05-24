@@ -1,0 +1,10 @@
+nsubj	need	You
+root	ROOT	need
+mark	polish	to
+xcomp	need	polish
+compound:prt	polish	up
+case	skills	on
+nmod:poss	skills	your
+compound	skills	logic
+nmod:on	polish	skills
+punct	need	.

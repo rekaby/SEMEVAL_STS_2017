@@ -1,0 +1,7 @@
+det	boy	a
+nsubj	running	boy
+aux	running	is
+root	ROOT	running
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	running	sidewalk

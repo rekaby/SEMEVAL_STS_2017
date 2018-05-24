@@ -1,0 +1,5 @@
+det	man	the
+nsubj	read	man
+root	ROOT	read
+advmod	read	alone
+xcomp	read	outside

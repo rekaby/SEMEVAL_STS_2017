@@ -1,0 +1,17 @@
+punct NYTimes :	22.50755458000995
+punct Ouch ,	15.060439779775294
+dep Ouch possibly	15.060439779775294
+punct Ouch ?-4) root(ROOT-0, ``	15.060439779775294
+root `` NYTimes	15.060439779775294
+nmod:poss Culture Japan	15.060439779775294
+compound Culture Business	15.060439779775294
+nsubj Hovers Culture	15.060439779775294
+parataxis NYTimes Hovers	15.060439779775294
+case Choice Over	15.060439779775294
+nmod:poss Choice Boeing	15.060439779775294
+compound Choice Battery	15.060439779775294
+nmod:over Hovers Choice	15.060439779775294
+punct NYTimes ''	15.060439779775294
+root ROOT Ouch	12.662544506976923
+case Boeing 's	10.248255424402876
+case Japan 's	9.330339996801719

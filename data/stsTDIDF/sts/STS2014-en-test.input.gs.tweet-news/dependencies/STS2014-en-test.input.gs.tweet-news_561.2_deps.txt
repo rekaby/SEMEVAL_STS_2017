@@ -1,0 +1,12 @@
+compound	Military	U.S.
+nsubj	Stops	Military
+root	ROOT	Stops
+amod	Detainees	Sending
+dobj	Stops	Detainees
+case	Prisons	to
+det	Prisons	Some
+compound	Prisons	Afghan
+nmod:to	Stops	Prisons
+case	Rights	on
+nmod:on	Stops	Rights
+dobj	Stops	Fears

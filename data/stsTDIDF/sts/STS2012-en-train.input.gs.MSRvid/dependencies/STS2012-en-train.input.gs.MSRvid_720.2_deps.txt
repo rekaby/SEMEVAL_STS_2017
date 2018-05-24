@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	trying	boy
+aux	trying	is
+root	ROOT	trying
+mark	say	to
+xcomp	trying	say
+dobj	say	firetruck
+punct	trying	.

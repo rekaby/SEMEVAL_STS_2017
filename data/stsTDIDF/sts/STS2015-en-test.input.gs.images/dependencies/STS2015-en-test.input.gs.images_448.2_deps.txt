@@ -1,0 +1,9 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+nummod	dogs	two
+dobj	walks	dogs
+case	city	in
+det	city	the
+nmod:in	walks	city
+punct	walks	.

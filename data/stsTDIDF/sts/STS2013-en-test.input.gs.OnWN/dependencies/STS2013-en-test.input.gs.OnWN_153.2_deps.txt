@@ -1,0 +1,6 @@
+root	ROOT	give
+dobj	give	surety
+cc	give	or
+conj:or	give	assume
+dobj	assume	responsibility
+punct	give	.

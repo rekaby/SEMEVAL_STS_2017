@@ -1,0 +1,10 @@
+root	ROOT	Draw
+conj:and	Draw	Draw
+case	lungs	in
+cc	in	and
+amod	air	expel
+conj:and	in	air
+case	lungs	through
+nmod:air	Draw	lungs
+nmod:through	Draw	lungs
+punct	Draw	.

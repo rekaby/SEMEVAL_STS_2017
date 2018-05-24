@@ -1,0 +1,25 @@
+root	ROOT	Parsing
+dobj	Did	What
+compound	Foster	Jodie
+nsubj	Did	Foster
+ccomp	Parsing	Did
+punct	Say	-LRB-
+cc	Say	and
+aux	Say	Did
+neg	Say	n't
+punct	Say	-RRB-
+ccomp	Did	Say
+dep	honest	Got
+nsubj	honest	ta
+cop	honest	be
+advcl	Say	honest
+punct	Say	:
+nsubj	had	I
+parataxis	Say	had
+neg	idea	not
+dobj	had	idea
+dobj	saying	what
+nsubj	saying	she
+aux	saying	was
+acl:relcl	idea	saying
+punct	Parsing	.-25) root(ROOT-0, #goldenglobes

@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	rides	dog
+root	ROOT	rides
+det	skateboard	a
+dobj	rides	skateboard
+punct	rides	.

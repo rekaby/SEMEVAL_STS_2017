@@ -1,0 +1,8 @@
+det	man	A
+nsubj	staring	man
+aux	staring	is
+root	ROOT	staring
+case	leaf	at
+det	leaf	a
+nmod:at	staring	leaf
+punct	staring	.

@@ -1,0 +1,6 @@
+det	women	A
+root	ROOT	women
+acl	women	slicing
+amod	pepper	green
+dobj	slicing	pepper
+punct	women	.

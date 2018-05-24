@@ -1,0 +1,12 @@
+compound	Browne	Mr.
+nsubj	said	Browne
+root	ROOT	said
+advmod	142	about
+nummod	people	142
+nsubjpass	detained	people
+auxpass	detained	were
+ccomp	said	detained
+case	park	in
+det	park	the
+nmod:in	detained	park
+punct	said	.

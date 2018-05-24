@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	move	to
+xcomp	cause	move
+advmod	move	back
+cc	move	and
+advmod	move	forth
+punct	cause	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	stabbing	man
+aux	stabbing	is
+root	ROOT	stabbing
+det	target	a
+dobj	stabbing	target
+punct	stabbing	.

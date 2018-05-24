@@ -1,0 +1,17 @@
+det	study	The
+nsubj	found	study
+advmod	found	also
+root	ROOT	found
+mark	tripled	that
+compound	cancer	skin
+nsubj	tripled	cancer
+advmod	tripled	nearly
+ccomp	found	tripled
+case	Norway	in
+nmod:in	tripled	Norway
+cc	Norway	and
+conj:and	Norway	Sweden
+case	1950s	since
+det	1950s	the
+nmod:since	tripled	1950s
+punct	found	.

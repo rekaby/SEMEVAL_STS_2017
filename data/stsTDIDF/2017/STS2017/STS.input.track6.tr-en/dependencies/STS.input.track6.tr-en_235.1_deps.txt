@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	relaxing	boy
+aux	relaxing	is
+root	ROOT	relaxing
+case	beach	on
+det	beach	the
+nmod:on	relaxing	beach
+punct	relaxing	.

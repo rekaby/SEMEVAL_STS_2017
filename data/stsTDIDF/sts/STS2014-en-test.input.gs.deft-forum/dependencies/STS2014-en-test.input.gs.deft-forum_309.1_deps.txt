@@ -1,0 +1,12 @@
+compound	@OmSigDAVID	David
+root	ROOT	@OmSigDAVID
+punct	@OmSigDAVID	,
+nsubj	think	I
+acl:relcl	@OmSigDAVID	think
+dobj	think	Santorum
+case	Santorum	's
+advmod	likely	more
+amod	Santorum	likely
+case	Gingrich	than
+nmod:than	likely	Gingrich
+punct	@OmSigDAVID	.

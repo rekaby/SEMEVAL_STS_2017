@@ -1,0 +1,9 @@
+nsubj	wan	You
+root	ROOT	wan
+aux	know	na
+xcomp	wan	know
+dobj	find	what
+nsubj	find	I
+ccomp	know	find
+xcomp	find	curious
+punct	wan	?

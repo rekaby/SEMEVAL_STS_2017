@@ -1,0 +1,7 @@
+nsubj	edge	Stocks
+root	ROOT	edge
+advmod	edge	lower
+case	earnings	after
+nmod:after	edge	earnings
+case	retailers	from
+nmod:from	earnings	retailers

@@ -1,0 +1,6 @@
+amod	forces	Syrian
+nsubj	move	forces
+root	ROOT	move
+mark	retake	to
+xcomp	move	retake
+dobj	retake	Aleppo

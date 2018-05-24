@@ -1,0 +1,11 @@
+compound	city	Tech
+compound	city	capital
+compound	city	Bangalore
+amod	city	costliest
+amod	city	Indian
+root	ROOT	city
+mark	live	to
+acl	city	live
+nmod	live	in
+punct	city	:
+dep	city	Survey

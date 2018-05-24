@@ -1,0 +1,9 @@
+nsubj	delivers	Russia
+root	ROOT	delivers
+amod	aid	humanitarian
+dobj	delivers	aid
+case	refugees	to
+amod	refugees	Syrian
+nmod:to	aid	refugees
+case	Lebanon	in
+nmod:in	delivers	Lebanon

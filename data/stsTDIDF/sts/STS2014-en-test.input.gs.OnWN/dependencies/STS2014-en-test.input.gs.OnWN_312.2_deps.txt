@@ -1,0 +1,12 @@
+root	ROOT	lock
+compound:prt	lock	up
+cc	lock	or
+conj:or	lock	confine
+punct	lock	,
+dep	lock	in
+cc	in	or
+case	jail	as
+case	jail	in
+det	jail	a
+conj:or	in	jail
+punct	lock	.

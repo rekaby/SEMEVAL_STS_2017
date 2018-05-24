@@ -1,0 +1,8 @@
+root	ROOT	Give
+det	incentive	an
+dobj	Give	incentive
+cc	incentive	or
+conj:or	incentive	reason
+case	action	for
+nmod:for	Give	action
+punct	Give	.

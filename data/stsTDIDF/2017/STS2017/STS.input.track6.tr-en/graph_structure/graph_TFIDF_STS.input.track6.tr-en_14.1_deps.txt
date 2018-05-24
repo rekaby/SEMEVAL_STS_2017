@@ -1,0 +1,3 @@
+cloth	on	case
+sitting	cloth	nmod:on
+sitting	woman	nsubj

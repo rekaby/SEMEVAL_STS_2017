@@ -1,0 +1,12 @@
+det	man	A
+nsubj	standing	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	standing	are
+root	ROOT	standing
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	standing	building

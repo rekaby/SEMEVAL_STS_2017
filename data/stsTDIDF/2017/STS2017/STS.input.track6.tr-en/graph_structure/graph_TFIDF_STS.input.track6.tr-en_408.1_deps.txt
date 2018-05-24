@@ -1,0 +1,11 @@
+gym	an	det
+playing	gym	nmod:on
+children	.	punct
+gym	jungle	compound
+gym	orange	amod
+gym	time	nmod:in
+time	winter	compound
+children	Two	nummod
+gym	on	case
+children	playing	acl
+ROOT	children	root

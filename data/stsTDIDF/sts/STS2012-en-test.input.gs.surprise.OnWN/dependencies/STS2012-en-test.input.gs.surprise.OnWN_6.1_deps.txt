@@ -1,0 +1,6 @@
+det	half	either
+root	ROOT	half
+case	bow	of
+det	bow	an
+compound	bow	archery
+nmod:of	half	bow

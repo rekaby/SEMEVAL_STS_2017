@@ -1,0 +1,7 @@
+compound	secretary	Commerce
+root	ROOT	secretary
+mark	take	to
+acl	secretary	take
+dobj	take	leave
+case	absence	of
+nmod:of	leave	absence

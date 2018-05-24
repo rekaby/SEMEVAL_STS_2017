@@ -1,0 +1,7 @@
+nsubj	Kill	Gunmen
+root	ROOT	Kill
+nummod	Tourists	11
+amod	Tourists	Foreign
+dobj	Kill	Tourists
+case	Pakistan	in
+nmod:in	Kill	Pakistan

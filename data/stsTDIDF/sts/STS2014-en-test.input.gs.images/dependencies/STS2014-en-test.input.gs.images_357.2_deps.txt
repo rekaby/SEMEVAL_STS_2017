@@ -1,0 +1,9 @@
+root	ROOT	Bird
+acl	Bird	sitting
+case	log	on
+det	log	a
+nmod:on	sitting	log
+case	lake	in
+det	lake	a
+nmod:in	log	lake
+punct	Bird	.

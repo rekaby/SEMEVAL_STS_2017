@@ -1,0 +1,7 @@
+compound	Korea	South
+nsubj	reports	Korea
+root	ROOT	reports
+nummod	cases	seven
+amod	cases	new
+compound	cases	MERS
+dobj	reports	cases

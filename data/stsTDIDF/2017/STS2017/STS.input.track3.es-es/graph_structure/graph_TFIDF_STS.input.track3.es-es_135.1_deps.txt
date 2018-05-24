@@ -1,0 +1,5 @@
+using	plans	dobj
+using	workers	nsubj
+plans	floor	compound
+workers	Construction	compound
+plans	specific	amod

@@ -1,0 +1,5 @@
+nsubj	dies	Woman
+root	ROOT	dies
+case	refusal	after
+compound	refusal	abortion
+nmod:after	dies	refusal

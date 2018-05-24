@@ -1,0 +1,12 @@
+det	dog	A
+nsubj	follows	dog
+case	stick	with
+det	stick	a
+nmod:with	dog	stick
+root	ROOT	follows
+det	dog	another
+dobj	follows	dog
+case	water	through
+det	water	the
+nmod:through	follows	water
+punct	follows	.

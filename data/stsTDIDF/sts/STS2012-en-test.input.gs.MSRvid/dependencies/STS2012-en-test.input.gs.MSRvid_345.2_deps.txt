@@ -1,0 +1,7 @@
+det	man	A
+nsubj	cleaning	man
+aux	cleaning	is
+root	ROOT	cleaning
+det	house	the
+dobj	cleaning	house
+punct	cleaning	.

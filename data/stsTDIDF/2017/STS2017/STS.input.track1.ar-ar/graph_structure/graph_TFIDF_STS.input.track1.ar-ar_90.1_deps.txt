@@ -1,0 +1,6 @@
+ROOT	dogs	root
+dogs	running	acl
+running	Sahbhma	nmod:towards
+dogs	Two	nummod
+Sahbhma	towards	case
+dogs	.	punct

@@ -1,0 +1,11 @@
+nsubj	keeps	China
+root	ROOT	keeps
+det	eye	an
+dobj	keeps	eye
+case	tiger	on
+amod	tiger	visiting
+nmod:on	eye	tiger
+acl	tiger	freed
+case	President	by
+compound	President	Russian
+nmod:by	freed	President

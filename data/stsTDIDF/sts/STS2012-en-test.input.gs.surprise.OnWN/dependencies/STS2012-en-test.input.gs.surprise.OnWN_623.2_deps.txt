@@ -1,0 +1,8 @@
+root	ROOT	give
+dobj	give	pleasure
+dep	give	to
+cc	to	or
+aux	pleasing	be
+conj:or	to	pleasing
+nmod	pleasing	to
+punct	give	.

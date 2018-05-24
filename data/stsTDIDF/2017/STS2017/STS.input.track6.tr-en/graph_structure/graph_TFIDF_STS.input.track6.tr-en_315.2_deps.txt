@@ -1,0 +1,7 @@
+dog	's	case
+ear	dog	nmod:poss
+bites	dog	nsubj
+dog	other	amod
+bites	ear	dobj
+ROOT	bites	root
+bites	.	punct

@@ -1,0 +1,16 @@
+case	last	At
+advmod	last	long
+amod	truth	last
+punct	truth	,
+det	truth	the
+root	ROOT	truth
+punct	Admits	...
+nsubj	Admits	Armstrong
+dep	truth	Admits
+dobj	Admits	Doping
+punct	Admits	,
+cc	Admits	and
+conj:and	Admits	Says
+nsubj	Testify	He
+aux	Testify	Will
+ccomp	Says	Testify

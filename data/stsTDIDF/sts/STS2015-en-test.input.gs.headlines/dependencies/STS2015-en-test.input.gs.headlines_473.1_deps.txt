@@ -1,0 +1,4 @@
+amod	stocks	Indian
+nsubj	close	stocks
+root	ROOT	close
+advmod	close	lower

@@ -1,0 +1,10 @@
+det	action	the
+amod	action	military
+root	ROOT	action
+mark	resisting	of
+acl	action	resisting
+det	enemy	the
+nmod:poss	advance	enemy
+case	enemy	's
+dobj	resisting	advance
+punct	action	.

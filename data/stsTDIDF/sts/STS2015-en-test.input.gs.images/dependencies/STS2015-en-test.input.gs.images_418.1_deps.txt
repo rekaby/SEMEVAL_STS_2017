@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	holding	woman
+root	ROOT	holding
+det	purse	a
+amod	purse	black
+dobj	holding	purse
+aux	smoking	is
+advcl	holding	smoking
+det	cigarette	a
+dobj	smoking	cigarette
+punct	holding	.

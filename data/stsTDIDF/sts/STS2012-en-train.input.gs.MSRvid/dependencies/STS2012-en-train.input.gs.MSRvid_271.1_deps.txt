@@ -1,0 +1,7 @@
+det	deer	The
+nsubj	jumped	deer
+root	ROOT	jumped
+case	fence	over
+det	fence	the
+nmod:over	jumped	fence
+punct	jumped	.

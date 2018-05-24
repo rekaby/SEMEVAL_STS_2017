@@ -1,0 +1,10 @@
+root	ROOT	Man
+case	shirt	with
+amod	shirt	pink
+nmod:with	Man	shirt
+acl	shirt	sleeping
+case	chair	on
+nmod:on	sleeping	chair
+case	infant	with
+nmod:with	sleeping	infant
+punct	Man	.

@@ -1,0 +1,6 @@
+det	paints	A
+compound	paints	couple
+root	ROOT	paints
+case	floor	on
+det	floor	the
+nmod:on	paints	floor

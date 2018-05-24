@@ -1,0 +1,6 @@
+mother	A	det
+mother	daughter	conj:and
+cooking	mother	nsubj
+cooking	.	punct
+ROOT	cooking	root
+cooking	are	cop

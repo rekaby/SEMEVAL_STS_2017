@@ -1,0 +1,9 @@
+compound	Parseghian	Greg
+nsubjpass	appointed	Parseghian
+auxpass	appointed	was
+root	ROOT	appointed
+det	executive	the
+amod	executive	new
+amod	executive	chief
+xcomp	appointed	executive
+punct	appointed	.

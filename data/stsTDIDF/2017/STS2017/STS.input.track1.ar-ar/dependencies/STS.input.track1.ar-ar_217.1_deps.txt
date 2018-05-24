@@ -1,0 +1,9 @@
+compound	man	Woman
+nsubjpass	finished	man
+aux	finished	have
+advmod	finished	just
+auxpass	finished	been
+root	ROOT	finished
+case	wedding	from
+nmod:poss	wedding	their
+nmod:from	finished	wedding

@@ -1,0 +1,11 @@
+compound	Monteith	Glee
+compound	Monteith	star
+compound	Monteith	Cory
+nsubj	found	Monteith
+root	ROOT	found
+xcomp	found	dead
+case	room	in
+compound	room	hotel
+nmod:in	dead	room
+case	Canada	in
+nmod:in	found	Canada

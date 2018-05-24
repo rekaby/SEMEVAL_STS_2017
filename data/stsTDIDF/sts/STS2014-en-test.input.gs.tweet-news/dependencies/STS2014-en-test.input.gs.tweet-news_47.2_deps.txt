@@ -1,0 +1,9 @@
+advmod	Is	Maybe
+expl	Is	There
+root	ROOT	Is
+det:predet	Thing	Such
+det	Thing	a
+nsubj	Is	Thing
+case	Publicity	as
+amod	Publicity	Bad
+nmod:as	Thing	Publicity

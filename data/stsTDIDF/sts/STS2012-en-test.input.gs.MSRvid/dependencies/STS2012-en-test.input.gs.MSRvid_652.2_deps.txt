@@ -1,0 +1,7 @@
+det	person	A
+nsubj	cleaning	person
+aux	cleaning	is
+root	ROOT	cleaning
+det	disk	a
+dobj	cleaning	disk
+punct	cleaning	.

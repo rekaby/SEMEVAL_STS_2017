@@ -1,0 +1,5 @@
+white	is	cop
+white	.	punct
+ROOT	white	root
+hat	The	det
+white	hat	nsubj

@@ -1,0 +1,9 @@
+nummod	crash	6
+amod	crash	killed
+case	Mexico	in
+compound	crash	Mexico
+punct	truck	`
+compound	truck	monster
+appos	crash	truck
+punct	truck	'
+root	ROOT	crash

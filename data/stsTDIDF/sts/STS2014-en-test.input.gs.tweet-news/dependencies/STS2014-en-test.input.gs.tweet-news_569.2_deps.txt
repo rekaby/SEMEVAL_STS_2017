@@ -1,0 +1,6 @@
+compound	Membership	Union
+nsubj	Drops	Membership
+root	ROOT	Drops
+case	Growth	Despite
+compound	Growth	Job
+nmod:despite	Drops	Growth

@@ -1,0 +1,9 @@
+det	group	A
+nsubj	wearing	group
+case	people	of
+nmod:of	group	people
+aux	wearing	are
+root	ROOT	wearing
+amod	shirts	orange
+dobj	wearing	shirts
+punct	wearing	.

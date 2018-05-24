@@ -1,0 +1,10 @@
+det	gymnast	The
+nsubj	feet	gymnast
+cop	feet	is
+det	feet	a
+amod	feet	few
+root	ROOT	feet
+case	ground	off
+det	ground	the
+nmod:off	feet	ground
+punct	feet	.

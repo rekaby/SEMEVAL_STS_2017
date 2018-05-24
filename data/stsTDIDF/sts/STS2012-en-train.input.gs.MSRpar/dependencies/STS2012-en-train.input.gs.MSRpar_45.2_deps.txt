@@ -1,0 +1,17 @@
+case	votes	Of
+det	votes	the
+compound	million	24
+nummod	votes	million
+compound	votes	phone
+nmod:of	votes	votes
+acl	votes	cast
+punct	votes	,
+nsubj	votes	Studdard
+cop	votes	was
+advmod	130,000	only
+nummod	votes	130,000
+root	ROOT	votes
+advmod	votes	ahead
+case	Aiken	of
+nmod:of	ahead	Aiken
+punct	votes	.

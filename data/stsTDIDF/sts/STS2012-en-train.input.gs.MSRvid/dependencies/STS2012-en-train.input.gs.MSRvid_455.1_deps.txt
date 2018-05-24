@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+det	sheet	a
+amod	sheet	plastic
+dobj	cutting	sheet
+punct	cutting	.

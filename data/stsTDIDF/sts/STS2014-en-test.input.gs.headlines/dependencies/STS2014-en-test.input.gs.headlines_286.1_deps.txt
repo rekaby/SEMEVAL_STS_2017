@@ -1,0 +1,7 @@
+compound	tour	Obama
+amod	tour	economic
+root	ROOT	tour
+case	expectations	buffeted
+case	expectations	by
+amod	expectations	low
+acl:by	tour	expectations

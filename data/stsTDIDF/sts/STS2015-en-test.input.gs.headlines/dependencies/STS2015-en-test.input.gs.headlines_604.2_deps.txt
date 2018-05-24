@@ -1,0 +1,6 @@
+nsubj	spends	Mandela
+root	ROOT	spends
+amod	day	third
+nmod:tmod	spends	day
+case	hospital	in
+nmod:in	spends	hospital

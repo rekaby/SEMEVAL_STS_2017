@@ -1,0 +1,11 @@
+waits	dog	nsubj
+waits	taxis	nmod:for
+passes	road	nsubj
+road	wet	amod
+waits	.	punct
+ROOT	waits	root
+dog	The	det
+waits	pass	xcomp
+passes	before	mark
+pass	passes	advcl
+taxis	for	case

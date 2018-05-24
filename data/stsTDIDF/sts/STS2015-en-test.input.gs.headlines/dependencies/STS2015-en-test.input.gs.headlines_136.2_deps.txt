@@ -1,0 +1,7 @@
+compound	Shutdown	Government
+nsubj	Begins	Shutdown
+root	ROOT	Begins
+case	Feud	Over
+compound	Feud	Health
+compound	Feud	Care
+nmod:over	Begins	Feud

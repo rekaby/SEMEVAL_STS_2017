@@ -1,0 +1,17 @@
+nsubj	think	I
+root	ROOT	think
+det	goals	the
+amod	goals	dual
+nsubj	have	goals
+ccomp	think	have
+det	lot	a
+dobj	have	lot
+mark	do	to
+acl	lot	do
+case	purpose	with
+det	purpose	the
+nmod:with	do	purpose
+case	antagonist	of
+det	antagonist	the
+nmod:of	purpose	antagonist
+punct	think	.

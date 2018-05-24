@@ -1,0 +1,9 @@
+mark	incline	to
+root	ROOT	incline
+cc	incline	or
+conj:or	incline	bend
+case	position	from
+det	position	a
+amod	position	vertical
+nmod:from	incline	position
+punct	incline	.

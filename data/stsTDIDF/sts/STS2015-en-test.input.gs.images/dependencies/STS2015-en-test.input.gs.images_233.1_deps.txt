@@ -1,0 +1,10 @@
+det	skateboards	A
+compound	skateboards	boy
+root	ROOT	skateboards
+case	railing	down
+det	railing	the
+nmod:down	skateboards	railing
+case	stairs	of
+det	stairs	some
+compound	stairs	graffiti
+nmod:of	railing	stairs

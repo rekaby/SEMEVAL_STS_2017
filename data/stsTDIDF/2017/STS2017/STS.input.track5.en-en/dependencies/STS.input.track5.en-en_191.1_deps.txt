@@ -1,0 +1,15 @@
+expl	are	There
+root	ROOT	are
+nummod	snowboarders	four
+nsubj	going	snowboarders
+dep	are	going
+compound:prt	going	off
+det	jump	a
+dobj	going	jump
+cc	going	and
+nsubj	air	that
+cop	air	are
+case	air	in
+det	air	the
+conj:and	going	air
+punct	are	.

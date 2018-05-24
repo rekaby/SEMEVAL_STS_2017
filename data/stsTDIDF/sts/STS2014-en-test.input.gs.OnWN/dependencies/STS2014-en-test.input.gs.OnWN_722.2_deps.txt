@@ -1,0 +1,7 @@
+root	ROOT	gather
+punct	gather	,
+case	products	as
+mwe	as	of
+amod	products	natural
+nmod:as_of	gather	products
+punct	gather	.

@@ -1,0 +1,11 @@
+det	teacher	A
+nmod:poss	papers	teacher
+case	teacher	's
+amod	papers	assistant
+compound	papers	grades
+root	ROOT	papers
+case	shop	in
+det	shop	a
+compound	shop	coffee
+nmod:in	papers	shop
+punct	papers	.

@@ -1,0 +1,7 @@
+amod	stocks	Military
+punct	Military	:
+compound	stocks	Syria
+compound	stocks	chemical
+nsubj	threaten	stocks
+root	ROOT	threaten
+dobj	threaten	Israel

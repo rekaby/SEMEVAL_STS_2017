@@ -1,0 +1,12 @@
+nsubj	Climbs	Unemployment
+case	#Spain	in
+nmod:in	Unemployment	#Spain
+root	ROOT	Climbs
+advmod	Climbs	Again
+punct	Climbs	,
+case	Relief	With
+neg	Relief	No
+nmod:with	Climbs	Relief
+case	Sight	in
+nmod:in	Relief	Sight
+punct	Climbs	...

@@ -1,0 +1,14 @@
+det	close-up	A
+nsubj	tagged	close-up
+case	lamb	of
+det	lamb	a
+nmod:of	close-up	lamb
+case	ear	with
+nmod:poss	ear	its
+nmod:with	close-up	ear
+root	ROOT	tagged
+punct	tagged	,
+xcomp	tagged	standing
+case	grass	on
+nmod:on	standing	grass
+punct	tagged	.

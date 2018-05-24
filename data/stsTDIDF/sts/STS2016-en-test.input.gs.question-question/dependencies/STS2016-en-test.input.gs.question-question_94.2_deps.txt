@@ -1,0 +1,11 @@
+nsubj	causing	What
+aux	causing	could
+aux	causing	be
+csubj	drains	causing
+nmod:poss	bathroom	my
+dobj	causing	bathroom
+root	ROOT	drains
+mark	back	to
+xcomp	drains	back
+compound:prt	back	up
+punct	drains	?

@@ -1,0 +1,10 @@
+posing	photos	nmod:for
+photos	for	case
+kiss	wife	compound
+groom	A	det
+groom	and	cc
+groom	kiss	conj:and
+groom	.	punct
+groom	posing	acl
+posing	while	mark
+ROOT	groom	root

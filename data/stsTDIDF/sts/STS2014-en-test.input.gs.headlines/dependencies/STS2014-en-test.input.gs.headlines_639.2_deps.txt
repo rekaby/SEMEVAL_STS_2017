@@ -1,0 +1,10 @@
+advmod	nothing	Why
+compound	bailout	Cyprus
+nsubj	nothing	bailout
+cop	nothing	is
+compound	nonsense	nothing
+amod	nothing	more
+case	euro	than
+amod	euro	usual
+nmod:than	more	euro
+root	ROOT	nonsense

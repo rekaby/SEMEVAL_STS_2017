@@ -1,0 +1,11 @@
+det	group	A
+nsubj	camping	group
+case	people	of
+nmod:of	group	people
+aux	camping	are
+root	ROOT	camping
+compound:prt	camping	out
+case	rocks	on
+det	rocks	some
+nmod:on	camping	rocks
+punct	camping	.

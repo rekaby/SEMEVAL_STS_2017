@@ -1,0 +1,8 @@
+det	bears	The
+amod	bears	polar
+nsubj	fought	bears
+root	ROOT	fought
+case	kill	over
+det	kill	the
+nmod:over	fought	kill
+punct	fought	.

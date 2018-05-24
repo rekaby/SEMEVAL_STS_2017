@@ -1,0 +1,17 @@
+det	dog	A
+nsubj	chases	dog
+case	leash	with
+det	leash	a
+amod	leash	red
+nmod:with	dog	leash
+advmod	attached	still
+acl	leash	attached
+root	ROOT	chases
+case	grass	over
+det	grass	the
+nmod:over	chases	grass
+case	ball	toward
+det	ball	a
+compound	ball	tennis
+nmod:toward	chases	ball
+punct	chases	.

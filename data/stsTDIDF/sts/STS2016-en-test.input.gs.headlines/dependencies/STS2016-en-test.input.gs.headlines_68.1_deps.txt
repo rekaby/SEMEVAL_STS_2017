@@ -1,0 +1,8 @@
+compound	party	India
+amod	party	anti-graft
+nsubj	takes	party
+root	ROOT	takes
+dobj	takes	charge
+case	Delhi	in
+compound	Delhi	New
+nmod:in	charge	Delhi

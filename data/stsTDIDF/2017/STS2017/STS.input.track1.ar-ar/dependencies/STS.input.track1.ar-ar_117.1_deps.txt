@@ -1,0 +1,5 @@
+det	couple	A
+root	ROOT	couple
+case	Paris	in
+nmod:in	couple	Paris
+punct	couple	.

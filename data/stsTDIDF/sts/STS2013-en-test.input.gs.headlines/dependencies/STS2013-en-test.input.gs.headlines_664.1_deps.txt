@@ -1,0 +1,8 @@
+dep	leaves	20-member
+ccomp	leaves	parliamentary
+punct	leaves	,
+compound	team	trade
+nsubj	leaves	team
+root	ROOT	leaves
+case	India	for
+nmod:for	leaves	India

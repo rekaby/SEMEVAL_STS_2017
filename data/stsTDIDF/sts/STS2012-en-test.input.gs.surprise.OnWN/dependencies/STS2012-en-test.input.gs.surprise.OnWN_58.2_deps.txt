@@ -1,0 +1,6 @@
+cop	tantamount	be
+root	ROOT	tantamount
+cc	tantamount	or
+conj:or	tantamount	equivalent
+dep	equivalent	to
+punct	tantamount	.

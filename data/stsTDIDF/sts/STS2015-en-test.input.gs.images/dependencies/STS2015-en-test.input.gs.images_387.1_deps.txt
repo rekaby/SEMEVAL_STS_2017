@@ -1,0 +1,14 @@
+det	rides	A
+compound	rides	snowboarder
+root	ROOT	rides
+det	snowboard	a
+dep	rides	snowboard
+case	railing	down
+det	railing	a
+nmod:down	snowboard	railing
+case	flight	beside
+det	flight	a
+nmod:beside	snowboard	flight
+case	steps	of
+nmod:of	flight	steps
+punct	rides	.

@@ -1,0 +1,17 @@
+case	Hinduism	In
+nmod:in	is	Hinduism
+cc	Hinduism	and
+conj:and	Hinduism	Buddhism
+expl	is	there
+root	ROOT	is
+dep	materialistic	message
+case	peace	of
+nmod:of	message	peace
+cc	peace	and
+det	encouragement	an
+conj:and	peace	encouragement
+mark	materialistic	to
+neg	materialistic	not
+cop	materialistic	be
+xcomp	is	materialistic
+punct	is	.

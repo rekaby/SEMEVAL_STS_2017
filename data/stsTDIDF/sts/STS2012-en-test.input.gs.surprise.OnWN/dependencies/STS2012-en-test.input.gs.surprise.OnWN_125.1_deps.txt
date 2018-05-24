@@ -1,0 +1,9 @@
+root	ROOT	support
+punct	support	;
+conj	support	hold
+compound:prt	hold	up
+punct	support	;
+dep	support	nurture
+cc	nurture	or
+conj:or	nurture	provide
+dep	nurture	for

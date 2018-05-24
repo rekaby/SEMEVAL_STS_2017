@@ -1,0 +1,6 @@
+root	ROOT	get
+xcomp	get	involved
+cc	involved	or
+conj:or	involved	mixed-up
+dep	involved	with
+punct	get	.

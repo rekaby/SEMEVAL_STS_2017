@@ -1,0 +1,12 @@
+nsubjpass	signed	Iran
+auxpass	signed	is
+advmod	signed	also
+det	signed	a
+root	ROOT	signed
+case	NPT	of
+det	NPT	the
+nmod:of	signed	NPT
+cc	NPT	and
+det	IAEA	the
+conj:and	NPT	IAEA
+punct	signed	.

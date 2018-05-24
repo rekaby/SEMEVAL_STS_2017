@@ -1,0 +1,7 @@
+det	standing	A
+compound	standing	cat
+root	ROOT	standing
+case	branches	on
+compound	branches	tree
+nmod:on	standing	branches
+punct	standing	.

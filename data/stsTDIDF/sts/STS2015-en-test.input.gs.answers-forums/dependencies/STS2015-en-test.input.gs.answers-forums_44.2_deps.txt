@@ -1,0 +1,17 @@
+advmod	compare	Basically
+punct	compare	,
+dobj	do	what
+nsubj	do	you
+csubj	compare	do
+aux	compare	is
+nsubj	compare	you
+root	ROOT	compare
+det	group	each
+compound	group	age
+dobj	compare	group
+dep	group	IQ
+case	sample	to
+det	sample	the
+compound	sample	standardization
+nmod:to	IQ	sample
+punct	compare	.

@@ -1,0 +1,9 @@
+nsubj	injured	Dozens
+root	ROOT	injured
+mark	clash	as
+compound	supporters	Morsi
+nsubj	clash	supporters
+advcl	injured	clash
+case	forces	with
+compound	forces	security
+nmod:with	clash	forces

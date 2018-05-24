@@ -1,0 +1,9 @@
+hallway	long	amod
+hallway	a	det
+hallway	in	case
+walking	People	nsubj
+walking	hallway	nmod:in
+walls	with	case
+hallway	walls	nmod:with
+walls	blue	amod
+walking	are	aux

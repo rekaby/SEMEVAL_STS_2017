@@ -1,0 +1,8 @@
+root	ROOT	engrave
+case	dots	by
+mwe	by	means
+mwe	by	of
+nmod:by_means_of	engrave	dots
+cc	dots	and
+conj:and	dots	flicks
+punct	engrave	.

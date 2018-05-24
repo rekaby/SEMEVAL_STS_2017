@@ -1,0 +1,10 @@
+det	group	A
+root	ROOT	group
+case	children	of
+nummod	children	four
+nmod:of	group	children
+acl	children	dancing
+case	backyard	in
+det	backyard	a
+nmod:in	dancing	backyard
+punct	group	.

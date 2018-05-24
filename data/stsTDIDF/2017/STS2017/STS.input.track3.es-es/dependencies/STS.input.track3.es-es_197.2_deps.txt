@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	pushes	woman
+root	ROOT	pushes
+det	cart	a
+dobj	pushes	cart
+punct	pushes	.

@@ -1,0 +1,7 @@
+nsubj	climb	Ferrets
+root	ROOT	climb
+compound:prt	climb	down
+case	shelf	from
+det	shelf	a
+nmod:from	climb	shelf
+punct	climb	.

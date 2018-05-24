@@ -1,0 +1,12 @@
+det	district	The
+nsubj	sent	district
+advmod	sent	also
+root	ROOT	sent
+dobj	sent	letters
+nmod:tmod	sent	yesterday
+advcl	sent	informing
+dobj	informing	parents
+case	situation	of
+det	situation	the
+nmod:of	parents	situation
+punct	sent	.

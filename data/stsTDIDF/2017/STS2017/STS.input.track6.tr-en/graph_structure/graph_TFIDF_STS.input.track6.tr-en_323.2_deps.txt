@@ -1,0 +1,5 @@
+sitting	People	nsubj
+fence	in	case
+fence	white	amod
+fence	a	det
+sitting	fence	nmod:in_front_of

@@ -1,0 +1,8 @@
+det	couple	A
+nsubj	running	couple
+aux	running	are
+root	ROOT	running
+case	ocean	towards
+det	ocean	the
+nmod:towards	running	ocean
+punct	running	.

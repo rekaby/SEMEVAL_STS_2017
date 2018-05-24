@@ -1,0 +1,6 @@
+amod	month	12th
+root	ROOT	month
+case	year	of
+det	year	the
+compound	year	calendar
+nmod:of	month	year

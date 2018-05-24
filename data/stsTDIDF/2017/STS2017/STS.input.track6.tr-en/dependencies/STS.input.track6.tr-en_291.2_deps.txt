@@ -1,0 +1,6 @@
+det	model	A
+nsubj	poses	model
+root	ROOT	poses
+case	camera	on
+nmod:on	poses	camera
+punct	poses	.

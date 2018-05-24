@@ -1,0 +1,8 @@
+covered	towel	nmod:in
+covered	is	auxpass
+towel	a	det
+pool	at	case
+towel	pool	nmod:at
+pool	swimming	compound
+covered	girl	nsubjpass
+towel	in	case

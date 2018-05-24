@@ -1,0 +1,8 @@
+compound	convoy	Pakistan
+nsubj	heads	convoy
+root	ROOT	heads
+mark	protest	to
+xcomp	heads	protest
+compound	strikes	US
+compound	strikes	drone
+dobj	protest	strikes

@@ -1,0 +1,6 @@
+compound	stocks	Singapore
+nsubj	pct	stocks
+amod	pct	close
+nummod	pct	0.41
+root	ROOT	pct
+advmod	pct	higher

@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	playing	woman
+acl	woman	dressed
+case	green	in
+nmod:in	dressed	green
+aux	playing	is
+root	ROOT	playing
+case	dog	with
+nmod:poss	dog	her
+compound	dog	tan
+nmod:with	playing	dog
+punct	playing	.

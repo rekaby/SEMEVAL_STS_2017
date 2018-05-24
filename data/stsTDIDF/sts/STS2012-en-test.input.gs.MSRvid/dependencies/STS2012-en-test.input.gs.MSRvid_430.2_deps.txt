@@ -1,0 +1,9 @@
+nummod	men	Three
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+dobj	playing	guitars
+cc	guitars	and
+conj:and	guitars	singing
+advmod	playing	together
+punct	playing	.

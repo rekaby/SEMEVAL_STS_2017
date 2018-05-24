@@ -1,0 +1,8 @@
+nsubj	giving	Amazon
+root	ROOT	giving
+iobj	giving	you
+amod	MP3s	free
+dobj	giving	MP3s
+case	CDs	of
+nmod:poss	CDs	your
+nmod:of	MP3s	CDs

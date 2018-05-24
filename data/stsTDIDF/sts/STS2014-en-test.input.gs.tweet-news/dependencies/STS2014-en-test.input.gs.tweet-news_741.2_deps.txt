@@ -1,0 +1,8 @@
+root	ROOT	Are
+nsubj	Are	we
+acl	we	living
+det	capitalist	the
+nmod:poss	dilemma	capitalist
+case	capitalist	's
+dobj	living	dilemma
+punct	Are	?

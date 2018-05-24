@@ -1,0 +1,8 @@
+nsubj	puts	EU
+root	ROOT	puts
+compound	wing	Hezbollah
+amod	wing	military
+dobj	puts	wing
+case	terror	on
+nmod:on	puts	terror
+dobj	puts	list

@@ -1,0 +1,13 @@
+nsubj	time	It
+cop	time	's
+ccomp	says	time
+case	military	for
+det	military	the
+nmod:for	time	military
+mark	modernize	to
+acl	military	modernize
+advmod	modernize	well
+punct	says	,
+nsubj	says	Burke
+root	ROOT	says
+punct	says	.

@@ -1,0 +1,9 @@
+root	ROOT	Hope
+nsubj	is	this
+acl:relcl	Hope	is
+dobj	looking	what
+nsubj	looking	you
+aux	looking	are
+ccomp	is	looking
+nmod	looking	for
+punct	Hope	.

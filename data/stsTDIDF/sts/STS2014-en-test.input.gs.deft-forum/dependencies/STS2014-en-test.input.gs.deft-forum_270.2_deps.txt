@@ -1,0 +1,9 @@
+advmod	many	How
+amod	threads	many
+dobj	plan	threads
+aux	plan	do
+nsubj	plan	you
+root	ROOT	plan
+mark	making	on
+advcl	plan	making
+punct	plan	?

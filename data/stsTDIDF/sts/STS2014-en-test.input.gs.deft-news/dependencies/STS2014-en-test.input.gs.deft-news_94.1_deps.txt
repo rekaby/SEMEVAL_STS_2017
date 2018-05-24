@@ -1,0 +1,16 @@
+nsubj	stated	fan
+root	ROOT	stated
+det	commission	the
+nsubjpass	concerned	commission
+auxpass	concerned	is
+advmod	concerned	primarily
+ccomp	stated	concerned
+case	term	with
+det	term	the
+nmod:with	concerned	term
+case	investment	of
+amod	investment	future
+nmod:of	term	investment
+case	taiwan	in
+nmod:in	investment	taiwan
+punct	stated	.

@@ -1,0 +1,7 @@
+det	person	A
+nsubj	animates	person
+root	ROOT	animates
+case	stands	from
+det	stands	the
+nmod:from	animates	stands
+punct	animates	.

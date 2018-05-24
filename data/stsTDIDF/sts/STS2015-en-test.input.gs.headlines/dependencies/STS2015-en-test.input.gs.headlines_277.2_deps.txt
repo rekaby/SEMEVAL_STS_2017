@@ -1,0 +1,7 @@
+root	ROOT	Foreigners
+case	dead	among
+acl:among	Foreigners	dead
+case	attack	in
+compound	attack	Kabul
+compound	attack	hotel
+nmod:in	dead	attack

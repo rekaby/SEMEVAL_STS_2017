@@ -1,0 +1,9 @@
+root	ROOT	realize
+cc	realize	and
+conj:and	realize	regret
+det	absence	the
+dobj	realize	absence
+case	something	of
+nmod:of	absence	something
+cc	absence	or
+conj:or	absence	somebody

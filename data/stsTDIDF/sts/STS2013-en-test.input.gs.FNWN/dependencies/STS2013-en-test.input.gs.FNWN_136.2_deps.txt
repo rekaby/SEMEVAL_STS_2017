@@ -1,0 +1,11 @@
+punct	hit	-LRB-
+case	baseball	of
+det	baseball	a
+nmod:of	hit	baseball
+punct	hit	-RRB-
+root	ROOT	hit
+case	lines	between
+det	lines	the
+amod	lines	foul
+nmod:between	hit	lines
+punct	hit	;

@@ -1,0 +1,8 @@
+nummod	puppies	Two
+nsubj	playing	puppies
+aux	playing	are
+root	ROOT	playing
+case	other	with
+det	other	each
+nmod:with	playing	other
+punct	playing	.

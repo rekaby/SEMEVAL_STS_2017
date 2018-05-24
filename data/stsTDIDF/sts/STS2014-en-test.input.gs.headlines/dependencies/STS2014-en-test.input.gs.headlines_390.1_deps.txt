@@ -1,0 +1,6 @@
+nummod	people	5
+nsubj	avalanche	people
+acl	people	buried
+case	Colorado	in
+nmod:in	buried	Colorado
+root	ROOT	avalanche

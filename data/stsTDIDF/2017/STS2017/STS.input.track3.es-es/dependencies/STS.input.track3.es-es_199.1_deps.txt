@@ -1,0 +1,10 @@
+det	girl	The
+nsubj	walking	girl
+aux	walking	is
+root	ROOT	walking
+case	school	to
+nmod:to	walking	school
+case	rain	in
+det	rain	the
+nmod:in	walking	rain
+punct	walking	.

@@ -1,0 +1,8 @@
+compound	Billion	Yahoo
+mark	Buy	to
+acl	Yahoo	Buy
+dobj	Buy	Tumblr
+case	$	for
+nmod:for	Buy	$
+nummod	$	1.1
+root	ROOT	Billion

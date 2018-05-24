@@ -1,0 +1,9 @@
+nsubj	recommend	I
+aux	recommend	would
+root	ROOT	recommend
+xcomp	recommend	looking
+case	Fool	at
+det	Fool	The
+compound	Fool	Motley
+nmod:at	looking	Fool
+punct	recommend	.

@@ -1,0 +1,9 @@
+det	band	The
+nsubj	perform	band
+root	ROOT	perform
+nummod	songs	eight
+dobj	perform	songs
+case	spotlight	under
+det	spotlight	the
+nmod:under	perform	spotlight
+punct	perform	.

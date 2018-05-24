@@ -1,0 +1,11 @@
+sliding	is	aux
+slide	a	det
+hair	standing	acl
+sliding	boy	nsubj
+slide	blue	amod
+standing	up	compound:prt
+ROOT	sliding	root
+sliding	down	compound:prt
+sliding	slide	dobj
+hair	his	nmod:poss
+boy	hair	nmod:with

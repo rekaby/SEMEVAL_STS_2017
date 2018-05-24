@@ -1,0 +1,6 @@
+det	couple	The
+nsubj	love	couple
+root	ROOT	love
+det	other	each
+dobj	love	other
+punct	love	.

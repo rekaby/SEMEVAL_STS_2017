@@ -1,0 +1,5 @@
+nsubj	smuggled	Journalists
+root	ROOT	smuggled
+case	Homs	out
+mwe	out	of
+nmod:out_of	smuggled	Homs

@@ -1,0 +1,8 @@
+det	audience	An
+nsubj	watching	audience
+aux	watching	is
+root	ROOT	watching
+det	dance	a
+compound	dance	couple
+dobj	watching	dance
+punct	watching	.

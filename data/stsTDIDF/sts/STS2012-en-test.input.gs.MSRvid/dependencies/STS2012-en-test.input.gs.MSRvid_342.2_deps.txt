@@ -1,0 +1,7 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	scooter	a
+dobj	riding	scooter
+punct	riding	.

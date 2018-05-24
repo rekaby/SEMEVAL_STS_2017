@@ -1,0 +1,13 @@
+bigger	budget	nsubj
+that	neighbours	nmod:of
+neighbours	combined	acl
+ROOT	bigger	root
+bigger	.	punct
+neighbours	Arab	compound
+budget	Israel	nmod:poss
+neighbours	its	nmod:poss
+neighbours	four	nummod
+budget	defence	compound
+neighbours	of	case
+bigger	that	nmod:than
+bigger	is	cop

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	peeling	man
+aux	peeling	is
+root	ROOT	peeling
+det	carrot	a
+dobj	peeling	carrot
+punct	peeling	.

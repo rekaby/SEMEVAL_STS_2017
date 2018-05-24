@@ -1,0 +1,10 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	chase	dogs
+root	ROOT	chase
+det	other	each
+dobj	chase	other
+case	snow	in
+det	snow	the
+nmod:in	chase	snow
+punct	chase	.

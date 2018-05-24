@@ -1,0 +1,7 @@
+root	ROOT	12
+acl	12	killed
+case	Gaza	in
+nmod:in	killed	Gaza
+case	airstrikes	in
+compound	airstrikes	Israeli
+nmod:in	killed	airstrikes

@@ -1,0 +1,10 @@
+compound	Officials	Iran
+punct	Officials	,
+compound	Officials	IAEA
+root	ROOT	Officials
+compound	Ahead	Meet
+dep	Officials	Ahead
+case	March	of
+nmod:of	Ahead	March
+compound	Deadline	Nuclear
+dep	Ahead	Deadline

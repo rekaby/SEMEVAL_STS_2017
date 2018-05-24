@@ -1,0 +1,9 @@
+nummod	accident	3
+amod	accident	dead
+punct	accident	,
+nummod	accident	27
+acl	27	injured
+case	China	in
+compound	China	SW
+nmod:in	injured	China
+root	ROOT	accident

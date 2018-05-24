@@ -1,0 +1,7 @@
+cyclist	road	nmod:on
+cyclist	.	punct
+road	fence	nmod:near
+cyclist	A	det
+ROOT	cyclist	root
+fence	a	det
+fence	near	case

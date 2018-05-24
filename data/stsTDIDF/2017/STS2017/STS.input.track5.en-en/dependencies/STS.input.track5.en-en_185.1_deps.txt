@@ -1,0 +1,8 @@
+det	man	A
+nsubj	performing	man
+aux	performing	is
+root	ROOT	performing
+det	stunt	a
+dobj	performing	stunt
+advmod	stunt	outdoors
+punct	performing	.

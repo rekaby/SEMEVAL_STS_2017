@@ -1,0 +1,8 @@
+amod	sheep	Many
+nsubj	standing	sheep
+root	ROOT	standing
+case	hill	on
+det	hill	a
+amod	hill	green
+nmod:on	standing	hill
+punct	standing	.

@@ -1,0 +1,11 @@
+det	Door	The
+compound	Door	Preppers
+compound	Door	Next
+root	ROOT	Door
+nsubj	wants	Who
+acl:relcl	Door	wants
+mark	join	to
+xcomp	wants	join
+compound	group	MY
+dobj	join	group
+punct	Door	?

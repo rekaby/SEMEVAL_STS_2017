@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	boat
+acl	boat	resisting
+det	area	the
+compound	area	sloping
+compound	area	river
+dobj	resisting	area
+case	Ckrtin	between
+nmod:between	area	Ckrtin
+punct	are	.

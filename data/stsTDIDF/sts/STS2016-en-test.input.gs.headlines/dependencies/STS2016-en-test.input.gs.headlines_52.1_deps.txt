@@ -1,0 +1,7 @@
+compound	touches	Goa
+compound	touches	building
+compound	touches	collapse
+compound	touches	death
+compound	touches	toll
+root	ROOT	touches
+nummod	touches	15

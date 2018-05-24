@@ -1,0 +1,13 @@
+compound	Hollande	French
+compound	Hollande	President
+compound	Hollande	Francois
+nmod:poss	plane	Hollande
+case	Hollande	's
+root	ROOT	plane
+acl	plane	hit
+case	lightning	by
+nmod:by	hit	lightning
+case	route	en
+nmod:en	hit	route
+case	Berlin	to
+nmod:to	route	Berlin

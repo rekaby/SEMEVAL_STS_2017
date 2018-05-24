@@ -1,0 +1,11 @@
+nummod	man	One
+nsubj	breaking	man
+aux	breaking	is
+root	ROOT	breaking
+dobj	breaking	cement
+case	chest	on
+det	man	another
+nmod:poss	chest	man
+case	man	's
+nmod:on	breaking	chest
+punct	breaking	.

@@ -1,0 +1,6 @@
+bed	hospital	compound
+lies	bed	nmod:on
+lies	child	nsubj
+bed	on	case
+child	sleeping	amod
+child	The	det

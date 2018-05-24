@@ -1,0 +1,10 @@
+root	ROOT	Recalling
+dobj	Recalling	Pain
+case	Guns	of
+nmod:of	Pain	Guns
+punct	Recalling	?-5) compound(Bills-5, Toll
+punct	Bills	,
+compound	Bills	Mayors
+compound	Bills	Urge
+root	ROOT	Bills
+punct	Bills	?-6) root(ROOT-0, Passage

@@ -1,0 +1,9 @@
+det	batter	a
+nsubj	uses	batter
+root	ROOT	uses
+det	reaction	a
+amod	reaction	chemical
+dobj	uses	reaction
+mark	create	to
+advcl	uses	create
+dobj	create	voltage

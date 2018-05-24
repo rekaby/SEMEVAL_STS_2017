@@ -1,0 +1,16 @@
+case	night	By
+compound	night	Sunday
+nmod:by	blackened	night
+punct	blackened	,
+det	fires	the
+nsubj	blackened	fires
+aux	blackened	had
+root	ROOT	blackened
+nummod	acres	277,000
+dobj	blackened	acres
+punct	acres	,
+appos	acres	hundreds
+case	miles	of
+nmod:of	hundreds	miles
+advmod	hundreds	apart
+punct	blackened	.

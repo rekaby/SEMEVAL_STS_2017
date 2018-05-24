@@ -1,0 +1,9 @@
+root	ROOT	lacking
+case	resources	in
+amod	resources	specific
+nmod:in	lacking	resources
+punct	resources	,
+conj:or	resources	qualities
+cc	resources	or
+conj:or	resources	substances
+punct	lacking	;

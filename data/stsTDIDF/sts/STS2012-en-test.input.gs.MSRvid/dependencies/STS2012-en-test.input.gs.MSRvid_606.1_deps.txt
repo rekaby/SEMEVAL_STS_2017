@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	making
+det	bed	a
+dobj	making	bed
+case	hotel	in
+det	hotel	a
+nmod:in	making	hotel
+punct	man	.

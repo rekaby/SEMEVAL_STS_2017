@@ -1,0 +1,13 @@
+nsubj	best	It
+cop	best	was
+det	best	the
+root	ROOT	best
+nsubj	mark	that
+aux	mark	could
+acl:relcl	best	mark
+det	jets	the
+dobj	mark	jets
+case	time	at
+det	time	a
+nmod:at	mark	time
+punct	best	.

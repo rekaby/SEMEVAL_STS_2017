@@ -1,0 +1,8 @@
+nummod	Officers	Two
+amod	Officers	American
+nsubj	Murdered	Officers
+nsubj	Continues	Murdered
+case	Unrest	As
+compound	Unrest	Afghan
+nmod:as	Murdered	Unrest
+root	ROOT	Continues

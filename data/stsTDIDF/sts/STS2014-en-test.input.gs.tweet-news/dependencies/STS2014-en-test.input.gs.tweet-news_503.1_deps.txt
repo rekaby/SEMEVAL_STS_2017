@@ -1,0 +1,11 @@
+advmod	know	Well
+punct	know	,
+case	least	at
+nmod:at	know	least
+nsubj	know	we
+root	ROOT	know
+det	slides	the
+nsubj	work	slides
+ccomp	know	work
+advmod	work	now
+punct	know	.

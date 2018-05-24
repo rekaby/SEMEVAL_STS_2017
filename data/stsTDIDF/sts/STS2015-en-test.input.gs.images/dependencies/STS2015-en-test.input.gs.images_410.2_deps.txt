@@ -1,0 +1,7 @@
+nummod	women	Three
+root	ROOT	women
+case	dresses	in
+amod	dresses	brightly
+amod	dresses	colored
+nmod:in	women	dresses
+punct	women	.

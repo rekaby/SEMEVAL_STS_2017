@@ -1,0 +1,10 @@
+det	desk	A
+amod	desk	small
+root	ROOT	desk
+case	chair	with
+nmod:with	desk	chair
+case	closet	near
+det	closet	a
+compound	closet	laundry
+nmod:near	chair	closet
+punct	desk	.

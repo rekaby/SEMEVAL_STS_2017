@@ -1,0 +1,10 @@
+det	child	A
+nsubj	sits	child
+root	ROOT	sits
+case	chair	in
+det	chair	a
+amod	chair	large
+amod	chair	black
+compound	chair	leather
+nmod:in	sits	chair
+punct	sits	.

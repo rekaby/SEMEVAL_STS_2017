@@ -1,0 +1,13 @@
+compound	OUT	FARM
+root	ROOT	OUT
+punct	OUT	:
+dep	OUT	arrange
+case	work	for
+amod	work	contracted
+nmod:for	arrange	work
+mark	done	to
+auxpass	done	be
+xcomp	arrange	done
+case	others	by
+nmod:agent	done	others
+punct	OUT	.

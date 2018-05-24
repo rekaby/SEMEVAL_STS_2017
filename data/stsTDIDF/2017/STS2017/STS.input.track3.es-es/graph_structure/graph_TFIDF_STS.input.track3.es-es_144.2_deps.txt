@@ -1,0 +1,8 @@
+perform	girls	nsubj
+recital	at	case
+recital	a	det
+perform	.	punct
+perform	recital	nmod:at
+girls	Young	amod
+ROOT	perform	root
+recital	dance	compound

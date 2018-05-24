@@ -1,0 +1,12 @@
+det	children	Some
+amod	children	smiling
+nsubj	standing	children
+aux	standing	are
+root	ROOT	standing
+case	sunset	in
+mwe	in	front
+mwe	in	of
+det	sunset	an
+compound	sunset	ocean
+nmod:in_front_of	standing	sunset
+punct	standing	.

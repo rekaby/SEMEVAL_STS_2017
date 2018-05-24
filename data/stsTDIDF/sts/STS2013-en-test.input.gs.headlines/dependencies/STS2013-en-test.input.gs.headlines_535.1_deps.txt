@@ -1,0 +1,6 @@
+compound	delays	Storm
+nsubj	start	delays
+root	ROOT	start
+case	convention	of
+amod	convention	Republican
+nmod:of	start	convention

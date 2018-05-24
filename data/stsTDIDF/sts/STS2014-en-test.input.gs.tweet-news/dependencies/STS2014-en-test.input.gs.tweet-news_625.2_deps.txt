@@ -1,0 +1,8 @@
+root	ROOT	Djokovic
+punct	Djokovic	:
+nummod	wins	3
+amod	wins	Aussie
+dep	Djokovic	wins
+case	row	in
+det	row	a
+nmod:in	wins	row

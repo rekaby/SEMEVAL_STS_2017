@@ -1,0 +1,7 @@
+det	man	A
+nsubj	wearing	man
+aux	wearing	is
+root	ROOT	wearing
+det	uniform	a
+dobj	wearing	uniform
+punct	wearing	.

@@ -1,0 +1,6 @@
+nsubj	detains	Malaysia
+root	ROOT	detains
+amod	senator	Australian
+dobj	detains	senator
+case	airport	at
+nmod:at	detains	airport

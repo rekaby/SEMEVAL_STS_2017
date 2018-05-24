@@ -1,0 +1,14 @@
+det	company	The
+nsubj	offer	company
+aux	offer	will
+root	ROOT	offer
+dobj	offer	songs
+case	cents	for
+nummod	cents	99
+nmod:for	offer	cents
+cc	cents	and
+conj:and	cents	albums
+case	$	for
+nmod:for	cents	$
+nummod	$	9.95
+punct	offer	.

@@ -1,0 +1,9 @@
+root	ROOT	Rupee
+case	paise	up
+nummod	paise	22
+nmod:up	Rupee	paise
+case	dollar	against
+nmod:against	paise	dollar
+case	trade	in
+amod	trade	early
+nmod:in	paise	trade

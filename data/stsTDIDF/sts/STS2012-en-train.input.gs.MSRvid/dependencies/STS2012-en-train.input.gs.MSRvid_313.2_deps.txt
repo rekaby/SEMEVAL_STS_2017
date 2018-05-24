@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	making	woman
+aux	making	is
+root	ROOT	making
+det	food	some
+dobj	making	food
+punct	making	.

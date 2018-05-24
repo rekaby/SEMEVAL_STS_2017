@@ -1,0 +1,9 @@
+det	activity	the
+root	ROOT	activity
+mark	putting	of
+acl	activity	putting
+dobj	putting	something
+case	form	in
+amod	form	written
+nmod:in	putting	form
+punct	activity	.

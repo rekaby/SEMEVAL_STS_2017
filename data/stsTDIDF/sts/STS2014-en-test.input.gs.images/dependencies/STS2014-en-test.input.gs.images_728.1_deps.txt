@@ -1,0 +1,9 @@
+amod	cat	Domestic
+nsubj	laying	cat
+root	ROOT	laying
+case	back	on
+nmod:on	laying	back
+case	litter	of
+compound	litter	cat
+nmod:of	back	litter
+punct	laying	.

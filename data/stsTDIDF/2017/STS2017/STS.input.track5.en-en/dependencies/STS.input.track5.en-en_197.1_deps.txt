@@ -1,0 +1,8 @@
+det	man	A
+nsubj	has	man
+root	ROOT	has
+nmod:poss	son	his
+dobj	has	son
+case	back	on
+nmod:poss	back	his
+nmod:on	has	back

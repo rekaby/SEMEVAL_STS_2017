@@ -1,0 +1,10 @@
+leaps	person	nsubj
+person	shoe	nmod:with
+shoe	a	det
+shoe	green	amod
+ROOT	leaps	root
+shoe	with	case
+leaps	catch	xcomp
+frisbee	a	det
+catch	frisbee	dobj
+leaps	.	punct

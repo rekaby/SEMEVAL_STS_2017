@@ -1,0 +1,13 @@
+det	woman	A
+amod	woman	young
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+det	hose	a
+compound	hose	Bay
+dobj	riding	hose
+case	riding-ring	in
+det	riding-ring	a
+compound	riding-ring	dirt
+nmod:in	riding	riding-ring
+punct	riding	.

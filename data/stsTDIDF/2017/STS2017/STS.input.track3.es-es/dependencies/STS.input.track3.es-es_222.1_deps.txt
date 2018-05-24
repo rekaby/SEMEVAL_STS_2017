@@ -1,0 +1,7 @@
+nummod	trucks	Six
+amod	trucks	large
+amod	trucks	white
+nsubj	moving	trucks
+aux	moving	are
+root	ROOT	moving
+punct	moving	.

@@ -1,0 +1,16 @@
+amod	DNA	Compared
+nsubj	shows	DNA
+case	samples	from
+nummod	samples	6,000
+amod	samples	visceral
+compound	samples	leishmaniasis
+compound	samples	blood
+nmod:from	DNA	samples
+case	India	from
+nmod:from	samples	India
+cc	India	&
+conj:&	India	Brazil
+root	ROOT	shows
+amod	variations	similar
+dobj	shows	variations
+punct	shows	.

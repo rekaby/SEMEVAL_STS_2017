@@ -1,0 +1,16 @@
+nsubj	is	One
+case	facets	of
+det	facets	the
+advmod	well	most
+advmod	studied	well
+amod	facets	studied
+nmod:of	One	facets
+case	temperament	of
+nmod:of	facets	temperament
+root	ROOT	is
+advmod	respond	how
+nsubj	respond	people
+ccomp	is	respond
+case	novelty	to
+nmod:to	respond	novelty
+punct	is	.

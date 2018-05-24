@@ -1,0 +1,9 @@
+nsubj	detains	China
+root	ROOT	detains
+dobj	detains	7
+case	sister	for
+punct	sister	``
+compound	sister	house
+nmod:for	detains	sister
+punct	sister	''
+dep	detains	scandal

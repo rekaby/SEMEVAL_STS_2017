@@ -1,0 +1,6 @@
+nummod	men	Two
+nsubj	go	men
+root	ROOT	go
+mark	work	to
+xcomp	go	work
+punct	go	.

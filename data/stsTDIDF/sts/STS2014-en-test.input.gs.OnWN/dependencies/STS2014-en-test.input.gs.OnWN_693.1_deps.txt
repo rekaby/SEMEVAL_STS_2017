@@ -1,0 +1,8 @@
+det	terminus	a
+amod	terminus	spatial
+root	ROOT	terminus
+cc	terminus	or
+amod	boundary	farthest
+conj:or	terminus	boundary
+case	something	of
+nmod:of	boundary	something

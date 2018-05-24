@@ -1,0 +1,12 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+nummod	police	eight
+punct	eight	,
+conj	eight	wounds
+nummod	wounds	13
+case	capital	in
+compound	capital	Afghan
+nmod:in	13	capital
+punct	eight	-
+dobj	kills	police

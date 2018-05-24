@@ -1,0 +1,14 @@
+det	violations	these
+amod	violations	human
+compound	violations	rights
+nsubj	include	violations
+root	ROOT	include
+compound	executions	summary
+dobj	include	executions
+punct	executions	,
+conj:and	executions	torture
+cc	executions	and
+det	recruitment	the
+conj:and	executions	recruitment
+case	child	of
+nmod:of	recruitment	child

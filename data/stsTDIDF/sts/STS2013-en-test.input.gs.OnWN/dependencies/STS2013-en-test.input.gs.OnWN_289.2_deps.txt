@@ -1,0 +1,11 @@
+root	ROOT	take
+det	risk	a
+dobj	take	risk
+case	hope	in
+det	hope	the
+nmod:in	take	hope
+case	outcome	of
+det	outcome	a
+amod	outcome	favorable
+nmod:of	hope	outcome
+punct	take	.

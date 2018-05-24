@@ -1,0 +1,5 @@
+nsubj	slump	Stocks
+root	ROOT	slump
+case	Street	on
+compound	Street	Wall
+nmod:on	slump	Street

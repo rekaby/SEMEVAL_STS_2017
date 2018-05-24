@@ -1,0 +1,15 @@
+det	shame	The
+nsubj	renouncing	shame
+punct	shame	,
+compound	Toews	Mr
+appos	shame	Toews
+punct	shame	,
+cop	renouncing	is
+case	renouncing	in
+det	renouncing	this
+root	ROOT	renouncing
+punct	renouncing	,
+cc	renouncing	and
+neg	elsewhere	not
+conj:and	renouncing	elsewhere
+punct	renouncing	.

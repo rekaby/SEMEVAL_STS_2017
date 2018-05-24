@@ -1,0 +1,6 @@
+sits	girl	nsubj
+sits	reading	xcomp
+sits	quietly	advmod
+reading	book	dobj
+pink	in	case
+girl	pink	nmod:in

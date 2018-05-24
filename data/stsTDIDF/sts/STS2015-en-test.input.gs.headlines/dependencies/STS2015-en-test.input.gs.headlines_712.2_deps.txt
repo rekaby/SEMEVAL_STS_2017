@@ -1,0 +1,9 @@
+nsubj	says	Russia
+root	ROOT	says
+amod	objects	ballistic
+punct	objects	`
+dobj	says	objects
+case	objects	'
+acl	objects	fired
+case	Mediterranean	in
+nmod:in	fired	Mediterranean

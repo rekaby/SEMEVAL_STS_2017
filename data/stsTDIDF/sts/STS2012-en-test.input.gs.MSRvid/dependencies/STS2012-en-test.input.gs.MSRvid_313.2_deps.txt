@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	chopping	woman
+aux	chopping	is
+root	ROOT	chopping
+dobj	chopping	octopus
+punct	chopping	.

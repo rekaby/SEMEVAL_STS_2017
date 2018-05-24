@@ -1,0 +1,10 @@
+nsubjpass	injured	4
+advmod	injured	dead
+punct	injured	,
+nsubj	injured	3
+amod	accident	injured
+case	road	in
+amod	road	east
+compound	road	China
+nmod:in	injured	road
+root	ROOT	accident

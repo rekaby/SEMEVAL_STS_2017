@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	jogging	men
+cop	jogging	are
+root	ROOT	jogging
+case	trail	on
+det	trail	a
+nmod:on	jogging	trail
+punct	jogging	.

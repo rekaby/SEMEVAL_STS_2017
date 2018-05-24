@@ -1,0 +1,17 @@
+compound	sales	License
+nsubj	fell	sales
+punct	sales	,
+det	measure	a
+amod	measure	key
+appos	sales	measure
+case	demand	of
+nmod:of	measure	demand
+punct	sales	,
+root	ROOT	fell
+nummod	percent	21
+dobj	fell	percent
+case	$	to
+nmod:to	fell	$
+compound	million	107.6
+nummod	$	million
+punct	fell	.

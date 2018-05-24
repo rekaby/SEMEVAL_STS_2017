@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+root	ROOT	dog
+acl	dog	sniffing
+case	door	at
+det	door	a
+amod	door	closed
+nmod:at	sniffing	door
+punct	dog	.

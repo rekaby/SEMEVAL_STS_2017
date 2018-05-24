@@ -1,0 +1,9 @@
+amod	Rudd	Australian
+compound	Rudd	PM
+compound	Rudd	Kevin
+nsubj	calls	Rudd
+root	ROOT	calls
+dobj	calls	election
+case	September	for
+nummod	September	7
+nmod:for	election	September

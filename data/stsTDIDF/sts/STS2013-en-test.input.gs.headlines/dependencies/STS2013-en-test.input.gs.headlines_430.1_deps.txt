@@ -1,0 +1,8 @@
+nsubj	says	France
+root	ROOT	says
+nsubj	show	Greece
+aux	show	must
+ccomp	says	show
+dobj	show	credibility
+case	eurozone	for
+nmod:for	credibility	eurozone

@@ -1,0 +1,9 @@
+nsubj	holding	Child
+root	ROOT	holding
+det	object	an
+dobj	holding	object
+nsubj	fire	that
+cop	fire	is
+case	fire	on
+acl:relcl	object	fire
+punct	holding	.

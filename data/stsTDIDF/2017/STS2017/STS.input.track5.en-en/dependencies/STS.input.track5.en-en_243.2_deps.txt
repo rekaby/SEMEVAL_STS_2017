@@ -1,0 +1,14 @@
+det	man	A
+amod	man	bald
+nsubj	holds	man
+case	beard	with
+det	beard	a
+amod	beard	red
+nmod:with	man	beard
+root	ROOT	holds
+nmod:poss	hand	his
+dobj	holds	hand
+case	mouth	near
+nmod:poss	mouth	his
+nmod:near	holds	mouth
+punct	holds	.

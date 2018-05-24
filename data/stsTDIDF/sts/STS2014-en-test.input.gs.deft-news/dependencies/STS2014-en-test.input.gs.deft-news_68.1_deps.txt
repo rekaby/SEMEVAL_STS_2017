@@ -1,0 +1,13 @@
+det	breakdown	a
+nsubj	lead	breakdown
+case	order	of
+nmod:of	breakdown	order
+case	china	in
+nmod:in	breakdown	china
+aux	lead	will
+root	ROOT	lead
+case	turmoil	to
+amod	turmoil	significant
+amod	turmoil	global
+nmod:to	lead	turmoil
+punct	lead	.

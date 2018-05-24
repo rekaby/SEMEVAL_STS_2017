@@ -1,0 +1,13 @@
+compound	Obama	Barack
+nsubj	admits	Obama
+root	ROOT	admits
+nsubj	has	US
+ccomp	admits	has
+punct	has	`
+amod	weapons	more
+amod	weapons	nuclear
+dobj	has	weapons
+mark	need	than
+nsubj	need	we
+dep	weapons	need
+punct	need	'

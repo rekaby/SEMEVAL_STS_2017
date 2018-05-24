@@ -1,0 +1,9 @@
+det	poppies	the
+nsubj	yielded	poppies
+root	ROOT	yielded
+det	ingredient	the
+amod	ingredient	raw
+dobj	yielded	ingredient
+case	heroin	for
+nmod:for	ingredient	heroin
+punct	yielded	.

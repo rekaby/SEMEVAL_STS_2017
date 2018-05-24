@@ -1,0 +1,6 @@
+det	boy	A
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+dobj	playing	guitar
+punct	playing	.

@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	jumping	boy
+root	ROOT	jumping
+case	chair	from
+nummod	chair	one
+nmod:from	jumping	chair
+case	another	to
+nmod:to	jumping	another
+case	house	in
+nmod:poss	house	his
+nmod:in	another	house

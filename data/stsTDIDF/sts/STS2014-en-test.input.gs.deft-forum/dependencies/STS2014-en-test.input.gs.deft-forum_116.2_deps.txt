@@ -1,0 +1,14 @@
+amod	people	Other
+nsubj	have	people
+root	ROOT	have
+neg	confidence	no
+dobj	have	confidence
+case	all	at
+nmod:at	confidence	all
+case	people	in
+amod	people	teh
+nmod:in	all	people
+acl	people	running
+det	institutions	these
+dobj	running	institutions
+punct	have	.

@@ -1,0 +1,6 @@
+root	ROOT	hold
+compound:prt	hold	in
+det	grasp	a
+amod	grasp	tight
+dobj	hold	grasp
+punct	hold	.

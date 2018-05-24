@@ -1,0 +1,9 @@
+nsubj	hails	West
+root	ROOT	hails
+compound	vote	Syria
+compound	vote	opposition
+dobj	hails	vote
+mark	join	to
+advcl	hails	join
+compound	talks	peace
+dobj	join	talks

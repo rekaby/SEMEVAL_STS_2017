@@ -1,0 +1,6 @@
+nummod	dogs	three
+nsubj	growling	dogs
+root	ROOT	growling
+case	one	On
+nmod:on	growling	one
+dobj	growling	another

@@ -1,0 +1,7 @@
+compound	Anniversary	Norway
+compound	Anniversary	Marks
+root	ROOT	Anniversary
+case	Massacre	of
+nmod:poss	Massacre	Breivik
+case	Breivik	's
+nmod:of	Anniversary	Massacre

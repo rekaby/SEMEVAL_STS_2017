@@ -1,0 +1,14 @@
+det	questions	the
+amod	questions	only
+root	ROOT	questions
+nsubj	bad	remaning
+cop	bad	are
+punct	bad	``
+advmod	bad	when
+punct	bad	''
+cc	bad	and
+punct	bad	``
+advmod	bad	how
+acl:relcl	questions	bad
+punct	bad	''
+punct	questions	.

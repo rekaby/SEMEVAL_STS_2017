@@ -1,0 +1,10 @@
+det	close-up	A
+root	ROOT	close-up
+case	cat	of
+det	cat	a
+amod	cat	gray
+nmod:of	close-up	cat
+case	eyes	with
+amod	eyes	green
+nmod:with	close-up	eyes
+punct	close-up	.

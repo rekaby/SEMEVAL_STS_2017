@@ -1,0 +1,9 @@
+nmod:poss	position	His
+nsubj	way	position
+cop	way	is
+det	way	the
+root	ROOT	way
+nsubj	currently	it
+cop	currently	is
+acl:relcl	way	currently
+punct	way	.

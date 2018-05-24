@@ -1,0 +1,13 @@
+root	ROOT	forbid
+det	distribution	the
+amod	distribution	public
+dobj	forbid	distribution
+case	movie	of
+punct	movie	-LRB-
+det	movie	a
+nmod:of	distribution	movie
+cc	movie	or
+det	newspaper	a
+conj:or	movie	newspaper
+punct	movie	-RRB-
+punct	forbid	.

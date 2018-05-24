@@ -1,0 +1,16 @@
+nsubj	give	Their
+aux	give	would
+root	ROOT	give
+det	right	the
+dobj	give	right
+mark	divorce	to
+acl	right	divorce
+det	husbands	the
+dobj	divorce	husbands
+nsubj	given	who
+aux	given	would
+aux	given	have
+acl:relcl	husbands	given
+compound:prt	given	up
+dobj	given	them
+punct	give	?

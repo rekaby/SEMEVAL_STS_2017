@@ -1,0 +1,7 @@
+compound	sailing	Sailboat
+root	ROOT	sailing
+case	day	on
+det	day	a
+amod	day	cloudy
+nmod:on	sailing	day
+punct	sailing	.

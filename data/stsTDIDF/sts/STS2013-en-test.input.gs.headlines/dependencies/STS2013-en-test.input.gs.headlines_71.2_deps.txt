@@ -1,0 +1,7 @@
+compound	Crashes	US
+compound	Crashes	Navy
+compound	Crashes	Jet
+root	ROOT	Crashes
+case	Block	into
+compound	Block	Apartment
+nmod:into	Crashes	Block

@@ -1,0 +1,9 @@
+nsubj	jumping	Men
+aux	jumping	are
+root	ROOT	jumping
+case	water	into
+nmod:into	jumping	water
+case	bridge	from
+det	bridge	a
+nmod:from	jumping	bridge
+punct	jumping	.

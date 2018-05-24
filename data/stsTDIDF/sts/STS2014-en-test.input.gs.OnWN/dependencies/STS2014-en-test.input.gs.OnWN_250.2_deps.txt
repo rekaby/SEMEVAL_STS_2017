@@ -1,0 +1,8 @@
+root	ROOT	serve
+case	means	as
+det	means	a
+nmod:as	serve	means
+mark	expressing	of
+acl	means	expressing
+dobj	expressing	something
+punct	serve	.

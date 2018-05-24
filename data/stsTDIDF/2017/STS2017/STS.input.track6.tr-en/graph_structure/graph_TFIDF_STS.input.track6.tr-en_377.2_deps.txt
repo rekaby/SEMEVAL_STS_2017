@@ -1,0 +1,4 @@
+sleeping	is	aux
+water	near	case
+sleeping	water	nmod:near
+sleeping	dog	nsubj

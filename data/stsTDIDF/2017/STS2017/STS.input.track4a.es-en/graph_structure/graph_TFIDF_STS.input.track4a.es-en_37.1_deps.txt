@@ -1,0 +1,11 @@
+pose	to	mark
+adults	young	amod
+group	adults	nmod:of
+photo	for	case
+stopped	group	nsubj
+photo	store	nmod:outside
+pose	photo	nmod:for
+adults	three	nummod
+stopped	pose	xcomp
+store	clothing	compound
+store	outside	case

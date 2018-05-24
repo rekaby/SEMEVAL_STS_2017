@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+advmod	running	quickly
+case	ground	along
+det	ground	the
+nmod:along	running	ground
+punct	running	.

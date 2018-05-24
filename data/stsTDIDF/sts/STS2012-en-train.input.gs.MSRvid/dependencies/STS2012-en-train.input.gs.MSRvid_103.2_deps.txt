@@ -1,0 +1,8 @@
+nsubj	pouring	Someone
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	milk
+case	blender	into
+det	blender	a
+nmod:into	pouring	blender
+punct	pouring	.

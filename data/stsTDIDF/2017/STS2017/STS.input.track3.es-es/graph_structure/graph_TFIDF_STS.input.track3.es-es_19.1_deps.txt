@@ -1,0 +1,9 @@
+monocycle	a	det
+parrot	a	det
+parrot	with	case
+riding	man	nsubj
+riding	monocycle	dobj
+riding	parrot	nmod:with
+parrot	shoulder	nmod:on
+shoulder	on	case
+riding	is	aux

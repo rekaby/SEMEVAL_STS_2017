@@ -1,0 +1,8 @@
+nsubj	meets	Assad
+root	ROOT	meets
+case	officials	with
+compound	officials	Red
+compound	officials	Cross
+nmod:with	meets	officials
+case	Syria	in
+nmod:in	meets	Syria

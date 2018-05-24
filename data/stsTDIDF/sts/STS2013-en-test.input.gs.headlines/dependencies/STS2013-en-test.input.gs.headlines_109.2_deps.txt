@@ -1,0 +1,9 @@
+root	ROOT	12
+acl	12	killed
+case	strike	in
+compound	strike	U.S.
+compound	strike	drone
+nmod:in	killed	strike
+case	NW	in
+nmod:in	strike	NW
+nmod:tmod	killed	Pakistan

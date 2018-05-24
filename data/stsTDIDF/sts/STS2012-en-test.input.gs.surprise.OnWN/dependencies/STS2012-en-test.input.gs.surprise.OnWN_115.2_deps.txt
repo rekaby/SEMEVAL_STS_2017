@@ -1,0 +1,5 @@
+root	ROOT	give
+cc	give	or
+conj:or	give	convey
+advmod	give	physically
+punct	give	.

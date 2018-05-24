@@ -1,0 +1,8 @@
+det	man	A
+nsubj	rides	man
+root	ROOT	rides
+compound:prt	rides	off
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	rides	motorcycle
+punct	rides	.

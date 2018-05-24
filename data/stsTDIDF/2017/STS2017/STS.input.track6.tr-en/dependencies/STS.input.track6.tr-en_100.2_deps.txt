@@ -1,0 +1,7 @@
+det	restaurant	This
+nsubj	serve	restaurant
+aux	serve	does
+neg	serve	not
+root	ROOT	serve
+dobj	serve	food
+punct	serve	.

@@ -1,0 +1,9 @@
+root	ROOT	Er
+punct	Er	,
+nsubj	works	that
+aux	works	's
+dep	works	not
+advmod	works	how
+nsubj	works	dilution
+acl:relcl	Er	works
+punct	Er	.

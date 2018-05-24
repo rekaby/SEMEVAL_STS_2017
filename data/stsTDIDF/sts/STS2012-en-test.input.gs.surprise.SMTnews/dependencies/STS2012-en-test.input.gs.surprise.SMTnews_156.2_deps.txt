@@ -1,0 +1,14 @@
+nsubj	spirit	That
+cop	spirit	is
+det	spirit	the
+root	ROOT	spirit
+case	which	in
+nmod:in	worked	which
+aux	worked	must
+auxpass	worked	be
+acl:relcl	spirit	worked
+compound:prt	worked	out
+det	Constitution	the
+amod	Constitution	European
+dobj	worked	Constitution
+punct	spirit	.

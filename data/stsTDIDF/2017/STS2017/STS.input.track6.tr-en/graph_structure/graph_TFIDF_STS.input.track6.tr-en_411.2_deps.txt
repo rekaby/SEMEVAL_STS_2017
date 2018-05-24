@@ -1,0 +1,8 @@
+shirt	hits	acl:relcl
+ball	tennis	compound
+hits	shorts	nsubj
+shirt	,	punct
+shorts	white	amod
+woman	shirt	nmod:in
+hits	ball	dobj
+shirt	blue	amod

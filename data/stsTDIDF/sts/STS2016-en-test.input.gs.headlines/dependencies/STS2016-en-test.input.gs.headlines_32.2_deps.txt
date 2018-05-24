@@ -1,0 +1,8 @@
+compound	officials	Israel
+root	ROOT	officials
+punct	officials	:
+nsubj	targeted	Strike
+case	Syria	on
+nmod:on	Strike	Syria
+dep	officials	targeted
+dobj	targeted	weapons

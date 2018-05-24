@@ -1,0 +1,6 @@
+root	ROOT	make
+dobj	make	something
+advmod	diverse	more
+amod	something	diverse
+cc	diverse	or
+conj:or	diverse	varied

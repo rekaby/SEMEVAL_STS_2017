@@ -1,0 +1,10 @@
+det	car	A
+nsubj	backing	car
+aux	backing	is
+root	ROOT	backing
+case	lane	out
+mwe	out	of
+det	lane	a
+amod	lane	blocked
+nmod:out_of	backing	lane
+punct	backing	.

@@ -1,0 +1,17 @@
+det	release	the
+amod	release	terminal
+amod	release	forced
+root	ROOT	release
+case	pressure	of
+nmod:of	release	pressure
+acl	pressure	built
+compound:prt	built	up
+case	phase	during
+det	phase	the
+amod	phase	occlusive
+nmod:during	built	phase
+case	stop	of
+det	stop	a
+nmod:of	phase	stop
+amod	stop	consonant
+punct	release	.

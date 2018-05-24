@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	getting	woman
+aux	getting	is
+root	ROOT	getting
+xcomp	getting	doused
+case	slime	in
+amod	slime	green
+nmod:in	doused	slime
+punct	getting	.

@@ -1,0 +1,16 @@
+compound	Bolton	Sunderland
+nummod	Bolton	2-2
+root	ROOT	Bolton
+punct	Bolton	:
+compound	double	Davies
+nsubj	point	double
+cop	point	gets
+compound	point	Trotters
+det	point	a
+parataxis	Bolton	point
+cc	point	but
+nsubj	stay	they
+conj:but	point	stay
+case	bottom	in
+nmod:in	stay	bottom
+nummod	point	three

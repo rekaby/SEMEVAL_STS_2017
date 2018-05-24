@@ -1,0 +1,10 @@
+root	ROOT	pass
+case	means	by
+nmod:by	pass	means
+case	lock	through
+det	lock	a
+nmod:through	pass	lock
+case	waterway	in
+det	waterway	a
+nmod:in	lock	waterway
+punct	pass	.

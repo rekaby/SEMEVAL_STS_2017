@@ -1,0 +1,14 @@
+det	woman	A
+amod	woman	young
+nsubj	wearing	woman
+case	bracelet	with
+det	bracelet	a
+nmod:with	woman	bracelet
+aux	wearing	is
+root	ROOT	wearing
+det	top	a
+compound	top	bikini
+dobj	wearing	top
+cc	top	and
+conj:and	top	jeans
+punct	wearing	.

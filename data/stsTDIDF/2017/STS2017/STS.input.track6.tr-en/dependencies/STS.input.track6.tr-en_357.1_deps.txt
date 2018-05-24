@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	getting	women
+case	dresses	in
+nmod:in	women	dresses
+aux	getting	are
+root	ROOT	getting
+case	bus	on
+det	bus	a
+nmod:on	getting	bus
+punct	getting	.

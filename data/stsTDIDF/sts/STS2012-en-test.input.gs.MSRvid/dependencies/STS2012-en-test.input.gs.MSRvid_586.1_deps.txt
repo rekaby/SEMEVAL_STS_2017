@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	lying	woman
+aux	lying	is
+root	ROOT	lying
+case	blanket	on
+det	blanket	a
+nmod:on	lying	blanket
+case	rock	on
+det	rock	a
+nmod:on	blanket	rock
+cc	lying	and
+conj:and	lying	reading
+det	book	a
+dobj	reading	book
+punct	lying	.

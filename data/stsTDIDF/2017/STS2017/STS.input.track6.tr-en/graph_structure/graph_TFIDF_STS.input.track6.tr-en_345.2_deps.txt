@@ -1,0 +1,7 @@
+horse	and	cc
+jumping	horse	nsubj
+horse	A	det
+jumping	are	aux
+jumping	race	nmod:in
+rider	a	det
+horse	rider	conj:and

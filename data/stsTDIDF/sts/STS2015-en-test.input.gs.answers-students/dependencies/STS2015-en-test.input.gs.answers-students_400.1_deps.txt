@@ -1,0 +1,9 @@
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	one	between
+amod	one	terminal
+nmod:between	gap	one
+cc	one	and
+conj:and	one	two

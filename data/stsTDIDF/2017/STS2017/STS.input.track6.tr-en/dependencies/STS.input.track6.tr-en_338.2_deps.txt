@@ -1,0 +1,9 @@
+det	man	The
+nsubj	trying	man
+aux	trying	is
+root	ROOT	trying
+mark	reach	to
+xcomp	trying	reach
+nmod:poss	car	his
+dobj	reach	car
+punct	trying	.

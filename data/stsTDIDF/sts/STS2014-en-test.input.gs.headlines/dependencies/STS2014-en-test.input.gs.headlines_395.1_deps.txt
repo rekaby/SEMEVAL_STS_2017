@@ -1,0 +1,7 @@
+root	ROOT	Explosions
+case	Embassy	Near
+det	Embassy	the
+amod	Embassy	Iranian
+nmod:near	Explosions	Embassy
+case	Beirut	in
+nmod:in	Explosions	Beirut

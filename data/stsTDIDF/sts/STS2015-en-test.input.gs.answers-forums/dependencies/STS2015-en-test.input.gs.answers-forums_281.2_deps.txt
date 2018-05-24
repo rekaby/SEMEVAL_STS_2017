@@ -1,0 +1,16 @@
+nsubj	possible	It
+cop	possible	's
+advmod	possible	obviously
+root	ROOT	possible
+mark	leave	for
+nsubj	leave	it
+mark	leave	to
+dep	occurred	leave
+det	field	the
+dobj	leave	field
+case	harm	without
+nmod:without	leave	harm
+punct	occurred	-
+nsubj	occurred	it
+ccomp	possible	occurred
+punct	possible	.

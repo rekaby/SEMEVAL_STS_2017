@@ -1,0 +1,7 @@
+det	men	The
+nummod	men	three
+nsubj	chasing	men
+root	ROOT	chasing
+det	dog	a
+dobj	chasing	dog
+punct	chasing	.

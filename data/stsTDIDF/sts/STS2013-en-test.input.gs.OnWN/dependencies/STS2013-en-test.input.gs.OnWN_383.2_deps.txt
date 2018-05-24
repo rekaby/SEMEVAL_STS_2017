@@ -1,0 +1,15 @@
+root	ROOT	measure
+det	depth	the
+dobj	measure	depth
+case	body	of
+punct	body	-LRB-
+det	body	a
+nmod:of	depth	body
+case	water	of
+nmod:of	body	water
+punct	measure	-RRB-
+case	line	with
+det	line	a
+amod	line	sounding
+nmod:with	measure	line
+punct	measure	.

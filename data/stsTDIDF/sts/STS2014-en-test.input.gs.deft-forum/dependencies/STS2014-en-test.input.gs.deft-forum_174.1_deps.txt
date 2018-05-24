@@ -1,0 +1,9 @@
+neg	Thatcherite	No
+nsubj	call	Thatcherite
+aux	call	can
+advmod	call	ever
+root	ROOT	call
+iobj	call	themselves
+det	libertarian	a
+dobj	call	libertarian
+punct	call	.

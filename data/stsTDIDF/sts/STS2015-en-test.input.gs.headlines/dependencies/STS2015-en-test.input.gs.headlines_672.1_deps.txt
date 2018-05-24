@@ -1,0 +1,7 @@
+compound	blaze	House
+nsubj	kills	blaze
+root	ROOT	kills
+dobj	kills	7
+case	Pakistan	in
+amod	Pakistan	northern
+nmod:in	7	Pakistan

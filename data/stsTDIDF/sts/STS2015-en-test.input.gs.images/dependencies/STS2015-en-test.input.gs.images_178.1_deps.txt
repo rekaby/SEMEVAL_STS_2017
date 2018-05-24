@@ -1,0 +1,11 @@
+det	team	A
+amod	team	blue
+cc	blue	and
+conj:and	blue	white
+compound	team	soccer
+root	ROOT	team
+acl	team	playing
+case	other	against
+det	other	each
+nmod:against	playing	other
+punct	team	.

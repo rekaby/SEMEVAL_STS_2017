@@ -1,0 +1,6 @@
+det	turtle	The
+nsubj	followed	turtle
+root	ROOT	followed
+det	fish	the
+dobj	followed	fish
+punct	followed	.

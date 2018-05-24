@@ -1,0 +1,9 @@
+nsubj	sets	Tibetan
+root	ROOT	sets
+dobj	sets	himself
+case	fire	on
+nmod:on	sets	fire
+mark	protest	to
+acl	fire	protest
+amod	rule	Chinese
+dobj	protest	rule

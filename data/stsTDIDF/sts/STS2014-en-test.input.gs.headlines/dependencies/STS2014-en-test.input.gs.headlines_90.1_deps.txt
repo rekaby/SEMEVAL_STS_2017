@@ -1,0 +1,6 @@
+compound	Senate	US
+nsubj	approves	Senate
+root	ROOT	approves
+amod	deal	fiscal
+compound	deal	cliff
+dobj	approves	deal

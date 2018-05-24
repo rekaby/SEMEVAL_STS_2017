@@ -1,0 +1,9 @@
+compound	police	UK
+nsubj	say	police
+root	ROOT	say
+neg	link	no
+compound	link	terrorism
+nsubj	crash	link
+case	helicopter	to
+nmod:to	link	helicopter
+ccomp	say	crash

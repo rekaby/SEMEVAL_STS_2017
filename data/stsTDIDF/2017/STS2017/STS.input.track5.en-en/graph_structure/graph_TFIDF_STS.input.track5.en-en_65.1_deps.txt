@@ -1,0 +1,5 @@
+mill	steel	compound
+mill	at	case
+man	working	acl
+mill	the	det
+working	mill	nmod:at

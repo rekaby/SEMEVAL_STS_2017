@@ -1,0 +1,8 @@
+root	ROOT	furnish
+case	rubrics	with
+nmod:with	furnish	rubrics
+cc	rubrics	or
+conj:or	rubrics	regulate
+case	rubrics	by
+nmod:by	regulate	rubrics
+punct	furnish	.

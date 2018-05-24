@@ -1,0 +1,10 @@
+det	men	The
+nummod	men	two
+nsubj	scans	men
+root	ROOT	scans
+amod	insects	rare
+dobj	scans	insects
+case	jungle	in
+det	jungle	the
+nmod:in	scans	jungle
+punct	scans	.

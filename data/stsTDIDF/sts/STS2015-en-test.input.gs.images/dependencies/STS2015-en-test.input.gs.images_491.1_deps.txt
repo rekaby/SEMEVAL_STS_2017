@@ -1,0 +1,9 @@
+det	chews	A
+amod	chews	brown
+compound	chews	dog
+root	ROOT	chews
+case	ball	on
+det	ball	an
+amod	ball	orange
+nmod:on	chews	ball
+punct	chews	.

@@ -1,0 +1,8 @@
+det	bird	A
+amod	bird	small
+root	ROOT	bird
+case	branch	on
+det	branch	a
+amod	branch	tiny
+nmod:on	bird	branch
+punct	bird	.

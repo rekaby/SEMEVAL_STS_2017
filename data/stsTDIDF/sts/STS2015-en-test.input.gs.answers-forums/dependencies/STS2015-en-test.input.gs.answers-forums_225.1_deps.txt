@@ -1,0 +1,14 @@
+advmod	needed	When
+nsubj	needed	I
+advcl	opted	needed
+det	tripod	a
+compound	tripod	travel
+dobj	needed	tripod
+punct	opted	,
+nsubj	opted	I
+advmod	opted	also
+root	ROOT	opted
+case	Trekpod	for
+det	Trekpod	a
+nmod:for	opted	Trekpod
+punct	opted	.

@@ -1,0 +1,6 @@
+compound	bombing	Hunting
+case	clues	for
+nmod:for	Hunting	clues
+case	Boston	in
+nmod:in	clues	Boston
+root	ROOT	bombing

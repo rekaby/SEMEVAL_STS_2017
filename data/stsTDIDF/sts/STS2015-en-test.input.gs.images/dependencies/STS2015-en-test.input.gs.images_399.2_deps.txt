@@ -1,0 +1,10 @@
+det	child	a
+amod	child	young
+root	ROOT	child
+acl	child	running
+case	shore	along
+det	shore	the
+nmod:along	running	shore
+case	beach	at
+det	beach	a
+nmod:at	running	beach

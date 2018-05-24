@@ -1,0 +1,9 @@
+advmod	Search	How
+nmod:poss	Search	Facebook
+case	Facebook	's
+compound	Search	Graph
+csubj	disrupt	Search
+aux	disrupt	could
+root	ROOT	disrupt
+dobj	disrupt	online
+dep	online	dating

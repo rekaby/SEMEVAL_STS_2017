@@ -1,0 +1,10 @@
+det	picture	A
+compound	picture	close-up
+root	ROOT	picture
+case	motorcycle	of
+det	motorcycle	a
+amod	motorcycle	white
+cc	white	and
+conj:and	white	purple
+nmod:of	picture	motorcycle
+punct	picture	.

@@ -1,0 +1,6 @@
+scaling	.	punct
+wall	rock	compound
+scaling	is	aux
+scaling	wall	dobj
+scaling	person	nsubj
+ROOT	scaling	root

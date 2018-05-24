@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	playing
+det	game	a
+dobj	playing	game
+advmod	playing	abroad
+punct	man	.

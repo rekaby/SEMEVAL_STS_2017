@@ -1,0 +1,7 @@
+det	bulb	the
+amod	bulb	other
+nsubj	light	bulb
+aux	light	will
+neg	light	not
+root	ROOT	light
+punct	light	.

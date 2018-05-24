@@ -1,0 +1,9 @@
+root	ROOT	surpassing
+nsubj	common	what
+cop	common	is
+ccomp	surpassing	common
+cc	common	or
+conj:or	common	usual
+cc	common	or
+conj:or	common	expected
+punct	surpassing	;

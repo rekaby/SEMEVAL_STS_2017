@@ -1,0 +1,8 @@
+nsubj	targets	Hezbollah
+root	ROOT	targets
+dobj	targets	Qaeda
+acl	Qaeda	gathering
+case	border	along
+nmod:along	gathering	border
+case	Syria	with
+nmod:with	border	Syria

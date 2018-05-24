@@ -1,0 +1,14 @@
+case India in	19.20170853126227
+det GangRape Another	15.060439779775294
+root ROOT GangRape	15.060439779775294
+nmod:in GangRape India	15.060439779775294
+punct GangRape !-5) root(ROOT-0, WTF	15.060439779775294
+punct WTF !-2) compound(passenger-7, :-LRB-	15.060439779775294
+nmod:in passenger India	15.060439779775294
+punct passenger -	15.060439779775294
+nummod passenger 7	14.367292599215348
+compound passenger men	14.367292599215348
+compound passenger gang	14.367292599215348
+compound passenger rape	14.367292599215348
+compound passenger bus	14.367292599215348
+root ROOT passenger	13.26868031054724

@@ -1,0 +1,5 @@
+amod	opposition	Syrian
+nsubj	talks	opposition
+case	reconciliation	in
+nmod:in	opposition	reconciliation
+root	ROOT	talks

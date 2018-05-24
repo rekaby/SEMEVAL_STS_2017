@@ -1,0 +1,7 @@
+det	price	the
+root	ROOT	price
+case	a	of
+nmod:of	price	a
+amod	a	good
+cc	good	or
+conj:or	good	service

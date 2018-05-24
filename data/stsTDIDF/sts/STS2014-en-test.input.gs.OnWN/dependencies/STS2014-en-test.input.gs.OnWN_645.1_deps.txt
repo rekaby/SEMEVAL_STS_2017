@@ -1,0 +1,8 @@
+det	assertion	the
+nsubj	offered	assertion
+case	proposition	of
+det	proposition	a
+nmod:of	assertion	proposition
+root	ROOT	offered
+dep	offered	as
+mwe	as	true

@@ -1,0 +1,9 @@
+male	A	det
+wearing	while	mark
+playing	guitar	dobj
+male	sad	amod
+wearing	hat	dobj
+playing	male	nsubj
+playing	wearing	advcl
+hat	white	amod
+guitar	electric	amod

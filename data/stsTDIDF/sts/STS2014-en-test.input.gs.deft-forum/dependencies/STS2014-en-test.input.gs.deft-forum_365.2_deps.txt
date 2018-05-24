@@ -1,0 +1,14 @@
+nsubj	prefix	I
+aux	prefix	do
+neg	prefix	n't
+root	ROOT	prefix
+cc	prefix	or
+compound	everything	suffix
+conj:or	prefix	everything
+mark	hate	with
+punct	hate	``
+nsubj	hate	you
+acl	everything	hate
+dobj	hate	Jews
+punct	prefix	.
+punct	prefix	''

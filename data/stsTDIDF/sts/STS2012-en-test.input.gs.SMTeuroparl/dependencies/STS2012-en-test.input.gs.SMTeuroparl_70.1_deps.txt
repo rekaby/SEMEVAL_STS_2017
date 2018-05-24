@@ -1,0 +1,10 @@
+det	provision	That
+nsubj	open	provision
+aux	open	could
+root	ROOT	open
+det	door	the
+dobj	open	door
+amod	door	wide
+case	arbitrariness	to
+nmod:to	wide	arbitrariness
+punct	open	.

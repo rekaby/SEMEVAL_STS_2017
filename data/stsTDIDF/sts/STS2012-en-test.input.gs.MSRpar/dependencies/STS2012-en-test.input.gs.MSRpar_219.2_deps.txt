@@ -1,0 +1,17 @@
+nsubj	accounted	Fatalities
+case	crashes	in
+compound	crashes	rollover
+nmod:in	Fatalities	crashes
+ccomp	said	accounted
+case	percent	for
+nummod	percent	82
+nmod:for	accounted	percent
+case	increase	of
+det	increase	the
+nmod:of	percent	increase
+case	2002	in
+nmod:in	increase	2002
+punct	said	,
+nsubj	said	NHTSA
+root	ROOT	said
+punct	said	.

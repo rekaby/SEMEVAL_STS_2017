@@ -1,0 +1,13 @@
+det	couch	A
+amod	couch	white
+compound	couch	leather
+root	ROOT	couch
+case	purse	with
+det	purse	a
+nmod:with	couch	purse
+cc	purse	and
+conj:and	purse	throw
+dobj	throw	blanket
+case	it	on
+nmod:on	throw	it
+punct	couch	.

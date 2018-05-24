@@ -1,0 +1,17 @@
+compound	Silva	Filmmaker
+compound	Silva	Jason
+compound	Silva	da
+root	ROOT	Silva
+case	challenges	on
+det	challenges	the
+nmod:on	Silva	challenges
+mark	navigating	of
+acl	challenges	navigating
+dobj	navigating	NY
+case	#MS	with
+nmod:with	navigating	#MS
+punct	Silva	:
+det	Wait	The
+amod	Wait	Long
+dep	Silva	Wait
+punct	Silva	?-17) root(ROOT-0, #sundance

@@ -1,0 +1,11 @@
+root	ROOT	affect
+conj:or	affect	affect
+case	cramp	with
+cc	with	or
+conj:or	with	as
+case	cramp	if
+case	cramp	with
+det	cramp	a
+nmod:as	affect	cramp
+nmod:with	affect	cramp
+punct	affect	.

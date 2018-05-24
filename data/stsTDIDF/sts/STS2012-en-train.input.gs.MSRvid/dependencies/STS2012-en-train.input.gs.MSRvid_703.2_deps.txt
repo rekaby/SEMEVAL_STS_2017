@@ -1,0 +1,8 @@
+nsubj	dancing	Boys
+aux	dancing	are
+root	ROOT	dancing
+case	people	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	dancing	people
+punct	dancing	.

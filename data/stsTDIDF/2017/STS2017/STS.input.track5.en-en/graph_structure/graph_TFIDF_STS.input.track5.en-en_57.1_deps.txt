@@ -1,0 +1,9 @@
+looks	woman	nsubj
+looks	supplies	nmod:for
+work	suitcase	nmod:in
+supplies	medical	amod
+suitcase	a	det
+suitcase	in	case
+supplies	work	nmod:for
+woman	blonde	amod
+supplies	for	case

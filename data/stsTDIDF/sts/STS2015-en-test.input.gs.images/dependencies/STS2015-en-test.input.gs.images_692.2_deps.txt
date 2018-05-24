@@ -1,0 +1,6 @@
+nsubj	ride	People
+root	ROOT	ride
+compound:prt	ride	up
+det	escalator	an
+dobj	ride	escalator
+punct	ride	.

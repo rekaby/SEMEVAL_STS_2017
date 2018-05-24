@@ -1,0 +1,7 @@
+det	pig	A
+nsubj	agitating	pig
+aux	agitating	is
+root	ROOT	agitating
+det	lion	a
+dobj	agitating	lion
+punct	agitating	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	talking	man
+case	glasses	with
+nmod:with	man	glasses
+aux	talking	is
+root	ROOT	talking
+punct	talking	.

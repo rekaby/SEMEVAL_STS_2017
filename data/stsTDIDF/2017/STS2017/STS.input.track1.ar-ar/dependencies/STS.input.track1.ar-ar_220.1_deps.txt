@@ -1,0 +1,5 @@
+root	ROOT	Man
+acl	Man	kicking
+det	man	another
+dobj	kicking	man
+punct	Man	.

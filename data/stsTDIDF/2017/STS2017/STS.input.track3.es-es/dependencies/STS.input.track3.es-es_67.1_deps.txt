@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	reassures	boy
+root	ROOT	reassures
+det	dog	a
+amod	dog	big
+dobj	reassures	dog
+punct	reassures	.

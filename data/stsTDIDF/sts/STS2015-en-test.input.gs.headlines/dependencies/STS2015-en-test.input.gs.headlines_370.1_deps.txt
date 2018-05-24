@@ -1,0 +1,10 @@
+compound	Airlines	Malaysia
+nsubj	loses	Airlines
+root	ROOT	loses
+dobj	loses	contact
+case	plane	with
+nmod:with	contact	plane
+acl	plane	carrying
+dobj	carrying	239
+case	Beijing	to
+nmod:to	carrying	Beijing

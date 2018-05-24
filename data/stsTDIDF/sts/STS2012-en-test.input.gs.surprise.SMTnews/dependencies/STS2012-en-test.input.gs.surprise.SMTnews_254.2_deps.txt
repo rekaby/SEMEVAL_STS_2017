@@ -1,0 +1,13 @@
+root	ROOT	But
+advmod	itself	just
+mark	itself	as
+det	Union	the
+compound	Union	European
+nsubj	itself	Union
+dep	But	itself
+punct	itself	,
+cc	itself	and
+nsubj	happen	this
+aux	happen	will
+conj:and	itself	happen
+punct	But	.

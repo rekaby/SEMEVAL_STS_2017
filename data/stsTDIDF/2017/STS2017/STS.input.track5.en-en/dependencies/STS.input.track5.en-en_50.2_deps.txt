@@ -1,0 +1,16 @@
+det	girl	The
+nsubj	standing	girl
+aux	standing	is
+root	ROOT	standing
+case	girl	as
+det	girl	the
+amod	girl	other
+nmod:as	standing	girl
+case	glasses	with
+nmod:with	standing	glasses
+dep	standing	works
+case	painting	on
+nmod:poss	painting	her
+compound	painting	hand
+nmod:on	works	painting
+punct	standing	.

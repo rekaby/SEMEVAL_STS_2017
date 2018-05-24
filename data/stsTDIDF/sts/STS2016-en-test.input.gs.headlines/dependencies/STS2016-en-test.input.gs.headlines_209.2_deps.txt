@@ -1,0 +1,7 @@
+nsubj	arrests	Iran
+root	ROOT	arrests
+amod	spies	several
+dobj	arrests	spies
+case	plant	near
+amod	plant	nuclear
+nmod:near	spies	plant

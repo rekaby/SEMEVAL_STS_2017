@@ -1,0 +1,5 @@
+nsubj	mourns	President
+root	ROOT	mourns
+dobj	mourns	death
+case	Mandela	of
+nmod:of	death	Mandela

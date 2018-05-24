@@ -1,0 +1,7 @@
+nsubj	imposes	EU
+root	ROOT	imposes
+amod	sanctions	new
+dobj	imposes	sanctions
+case	regime	on
+amod	regime	Syrian
+nmod:on	imposes	regime

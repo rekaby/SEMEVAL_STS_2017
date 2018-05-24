@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+amod	bits	playfully
+nsubj	dog	bits
+det	dog	another
+acl:relcl	dog	dog
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	dog	room
+dep	dog	setting

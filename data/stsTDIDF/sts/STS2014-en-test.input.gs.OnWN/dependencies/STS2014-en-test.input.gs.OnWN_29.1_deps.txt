@@ -1,0 +1,9 @@
+advmod	approve	legally
+root	ROOT	approve
+cc	approve	or
+conj:or	approve	ratify
+det	person	a
+dobj	approve	person
+case	position	for
+det	position	a
+nmod:for	person	position

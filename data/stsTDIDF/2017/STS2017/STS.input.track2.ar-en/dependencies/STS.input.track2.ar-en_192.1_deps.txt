@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	assisting	woman
+aux	assisting	is
+root	ROOT	assisting
+det	runner	a
+dobj	assisting	runner
+mark	keeping	by
+advcl	assisting	keeping
+dobj	keeping	rain
+compound:prt	keeping	off
+case	her	of
+nmod:of	off	her
+cc	keeping	and
+conj:and	keeping	giving
+nmod:poss	hydration	her
+dobj	giving	hydration
+punct	assisting	.

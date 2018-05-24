@@ -1,0 +1,14 @@
+case	least	At
+nmod:npmod	11	least
+nummod	cases	11
+amod	cases	more
+nsubjpass	suspected	cases
+case	Indiana	in
+nmod:in	cases	Indiana
+cc	cases	and
+conj:and	cases	three
+case	Illinois	in
+nmod:in	three	Illinois
+auxpass	suspected	are
+root	ROOT	suspected
+punct	suspected	.

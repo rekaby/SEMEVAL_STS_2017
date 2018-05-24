@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	Offers	Korea
+root	ROOT	Offers
+dobj	Offers	Talks
+punct	Offers	:
+amod	May	Complex
+parataxis	Offers	May
+dep	May	Re-Open

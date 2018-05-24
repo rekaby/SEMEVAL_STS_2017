@@ -1,0 +1,11 @@
+root	ROOT	throw
+det	glance	a
+dobj	throw	glance
+nmod	throw	at
+punct	throw	;
+parataxis	throw	take
+det	look	a
+amod	look	brief
+dobj	take	look
+nmod	take	at
+punct	throw	.

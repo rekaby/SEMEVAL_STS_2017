@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	wet
+nsubj	runs	dog
+root	ROOT	runs
+case	grass	through
+det	grass	the
+amod	grass	yellow
+nmod:through	runs	grass
+acl	grass	holding
+det	ball	a
+compound	ball	tennis
+dobj	holding	ball
+punct	runs	.

@@ -1,0 +1,11 @@
+det	dog	A
+compound	dog	tan
+nsubj	jumps	dog
+root	ROOT	jumps
+compound:prt	jumps	up
+mark	catch	to
+xcomp	jumps	catch
+det	ball	a
+compound	ball	tennis
+dobj	catch	ball
+punct	jumps	.

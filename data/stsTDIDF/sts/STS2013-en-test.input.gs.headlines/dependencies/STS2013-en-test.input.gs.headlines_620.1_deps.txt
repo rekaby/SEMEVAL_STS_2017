@@ -1,0 +1,5 @@
+compound	Gazzara	Actor
+nsubj	dead	Gazzara
+root	ROOT	dead
+case	81	at
+nmod:at	dead	81

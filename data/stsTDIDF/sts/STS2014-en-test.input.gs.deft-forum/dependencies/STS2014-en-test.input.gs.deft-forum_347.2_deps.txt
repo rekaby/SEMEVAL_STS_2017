@@ -1,0 +1,11 @@
+aux	agree	Do
+nsubj	agree	we
+root	ROOT	agree
+mark	came	that
+nsubj	came	they
+ccomp	agree	came
+compound:prt	came	down
+advmod	freefall	essentially
+case	freefall	in
+nmod:in	came	freefall
+punct	agree	?

@@ -1,0 +1,10 @@
+compound	Bomb	Car
+nsubj	Hits	Bomb
+root	ROOT	Hits
+amod	Consulate	Swedish
+dobj	Hits	Consulate
+case	Benghazi	in
+nmod:in	Hits	Benghazi
+punct	Hits	,
+compound	Hurt	None
+dep	Hits	Hurt

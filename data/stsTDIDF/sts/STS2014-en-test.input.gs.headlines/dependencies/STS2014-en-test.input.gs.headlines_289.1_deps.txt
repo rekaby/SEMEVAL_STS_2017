@@ -1,0 +1,7 @@
+advmod	French	More
+amod	soldiers	French
+root	ROOT	soldiers
+case	Republic	to
+amod	African	Central
+amod	Republic	African
+nmod:to	soldiers	Republic

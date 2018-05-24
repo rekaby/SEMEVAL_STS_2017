@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	sleeping	dog
+aux	sleeping	is
+root	ROOT	sleeping
+case	pool	near
+det	pool	the
+nmod:near	sleeping	pool

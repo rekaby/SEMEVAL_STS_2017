@@ -1,0 +1,11 @@
+compound	Reddy	Jagan
+nsubj	shifted	Reddy
+root	ROOT	shifted
+case	hospital	to
+nmod:to	shifted	hospital
+punct	hospital	,
+compound	crisis	power
+conj	hospital	crisis
+acl	hospital	continues
+case	Seemandhra	in
+nmod:in	continues	Seemandhra

@@ -1,0 +1,11 @@
+nsubj	is	this
+root	ROOT	is
+dobj	feared	what
+nsubj	feared	we
+dep	feared	all
+ccomp	is	feared
+aux	going	was
+ccomp	feared	going
+case	anyway	on
+nmod:on	going	anyway
+punct	is	.

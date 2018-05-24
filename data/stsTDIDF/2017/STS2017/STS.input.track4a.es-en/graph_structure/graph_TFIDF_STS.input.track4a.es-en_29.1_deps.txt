@@ -1,0 +1,6 @@
+riding	street	nmod:on
+helmet	riding	acl
+bicycle	his	nmod:poss
+riding	bicycle	dobj
+helmet	a	det
+wearing	helmet	dobj

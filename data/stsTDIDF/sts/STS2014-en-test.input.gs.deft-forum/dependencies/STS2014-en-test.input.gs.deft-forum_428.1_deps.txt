@@ -1,0 +1,9 @@
+det	jury	The
+nsubjpass	told	jury
+auxpass	told	is
+neg	told	not
+root	ROOT	told
+case	nullification	about
+compound	nullification	juror
+nmod:about	told	nullification
+punct	told	.

@@ -1,0 +1,10 @@
+det	boat	A
+nsubj	sailing	boat
+case	sails	with
+nummod	sails	four
+nmod:with	boat	sails
+aux	sailing	is
+root	ROOT	sailing
+case	water	on
+nmod:on	sailing	water
+punct	sailing	.

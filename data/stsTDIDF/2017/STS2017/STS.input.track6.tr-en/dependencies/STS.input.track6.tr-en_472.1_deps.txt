@@ -1,0 +1,8 @@
+root	ROOT	People
+acl	People	watching
+dobj	watching	Jaws
+case	theater	at
+det	theater	the
+compound	theater	movie
+nmod:at	watching	theater
+punct	People	.

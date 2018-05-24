@@ -1,0 +1,7 @@
+advmod	korea	north
+nsubj	state	korea
+cop	state	is
+det	state	a
+amod	state	reclusive
+root	ROOT	state
+punct	state	.

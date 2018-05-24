@@ -1,0 +1,7 @@
+det	man	The
+root	ROOT	man
+acl	man	talked
+case	telephone	on
+det	telephone	the
+nmod:on	talked	telephone
+punct	man	.

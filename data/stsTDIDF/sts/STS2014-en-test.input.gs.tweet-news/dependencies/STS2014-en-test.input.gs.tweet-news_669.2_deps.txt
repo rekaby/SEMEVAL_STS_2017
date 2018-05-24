@@ -1,0 +1,8 @@
+amod	court	French
+root	ROOT	court
+punct	court	:
+nsubj	identify	Twitter
+aux	identify	must
+dep	court	identify
+amod	users	racist
+dobj	identify	users

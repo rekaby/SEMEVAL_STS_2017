@@ -1,0 +1,8 @@
+amod	bomber	Female
+compound	bomber	suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	16
+case	station	at
+amod	station	Russian
+nmod:at	kills	station

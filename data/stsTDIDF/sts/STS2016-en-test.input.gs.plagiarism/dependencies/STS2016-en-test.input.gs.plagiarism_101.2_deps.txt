@@ -1,0 +1,15 @@
+nsubj	means	Programming
+punct	means	,
+case	sense	in
+det	sense	this
+nmod:in	means	sense
+punct	means	,
+root	ROOT	means
+xcomp	means	finding
+det	plan	an
+amod	plan	acceptable
+dobj	finding	plan
+punct	finding	,
+det	algorithm	an
+dobj	finding	algorithm
+punct	means	.

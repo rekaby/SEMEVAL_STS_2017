@@ -1,0 +1,13 @@
+det	kids	The
+nsubj	playing	kids
+aux	playing	are
+root	ROOT	playing
+det	game	a
+amod	game	friendly
+dobj	playing	game
+case	one	of
+nmod:of	game	one
+case	soccer	on
+nummod	soccer	one
+nmod:on	playing	soccer
+punct	playing	.

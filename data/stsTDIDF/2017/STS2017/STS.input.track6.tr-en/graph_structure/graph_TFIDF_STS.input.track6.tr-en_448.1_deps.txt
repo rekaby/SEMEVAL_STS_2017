@@ -1,0 +1,10 @@
+rolling	is	aux
+rolling	.	punct
+blading	path	dobj
+Beach	on	case
+rolling	blading	xcomp
+blading	down	compound:prt
+Beach	Venice	compound
+rolling	child	nsubj
+path	Beach	nmod:on
+ROOT	rolling	root

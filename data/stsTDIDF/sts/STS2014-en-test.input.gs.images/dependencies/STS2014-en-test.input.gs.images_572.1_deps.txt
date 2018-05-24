@@ -1,0 +1,12 @@
+det	bird	A
+amod	bird	red
+root	ROOT	bird
+cc	bird	and
+nummod	birds	four
+amod	birds	other
+conj:and	bird	birds
+acl	birds	sitting
+case	snow	in
+det	snow	the
+nmod:in	sitting	snow
+punct	bird	.

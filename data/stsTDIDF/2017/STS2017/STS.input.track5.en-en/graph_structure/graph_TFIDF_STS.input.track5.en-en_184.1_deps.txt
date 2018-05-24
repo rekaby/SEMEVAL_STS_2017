@@ -1,0 +1,6 @@
+girl	water	nmod:in
+girl	goggles	nmod:without
+goggles	without	case
+cap	swimming	compound
+goggles	or	cc
+goggles	cap	conj:or

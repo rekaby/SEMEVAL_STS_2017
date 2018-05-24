@@ -1,0 +1,6 @@
+nsubj	sews	Woman
+root	ROOT	sews
+det	piece	the
+amod	piece	torn
+dobj	sews	piece
+punct	sews	.

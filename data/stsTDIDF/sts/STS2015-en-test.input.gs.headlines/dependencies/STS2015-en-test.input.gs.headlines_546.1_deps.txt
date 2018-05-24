@@ -1,0 +1,10 @@
+nsubj	killed	One
+root	ROOT	killed
+punct	killed	,
+nummod	blast	40
+acl	40	injured
+case	factory	in
+compound	factory	Mexico
+compound	factory	candy
+nmod:in	injured	factory
+dobj	killed	blast

@@ -1,0 +1,6 @@
+nsubj	urges	UK
+root	ROOT	urges
+dobj	urges	countries
+case	Syria	over
+nmod:over	urges	Syria
+dobj	urges	aid

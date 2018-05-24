@@ -1,0 +1,16 @@
+det	man	A
+amod	man	young
+nsubj	jumped	man
+case	trunks	in
+amod	trunks	red
+compound	trunks	swimming
+nmod:in	man	trunks
+root	ROOT	jumped
+compound:prt	jumped	off
+det	rock	a
+amod	rock	large
+dobj	jumped	rock
+case	water	into
+det	water	the
+nmod:into	jumped	water
+punct	jumped	.

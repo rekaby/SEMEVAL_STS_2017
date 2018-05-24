@@ -1,0 +1,15 @@
+bars	child	nsubj
+ROOT	bars	root
+bars	,	punct
+bottom	on	case
+bars	is	cop
+bars	on	case
+bars	.	punct
+bars	the	det
+child	The	det
+brown	the	det
+bottom	is	cop
+bottom	while	mark
+child	white	amod
+bars	bottom	advcl:on
+bottom	brown	nsubj

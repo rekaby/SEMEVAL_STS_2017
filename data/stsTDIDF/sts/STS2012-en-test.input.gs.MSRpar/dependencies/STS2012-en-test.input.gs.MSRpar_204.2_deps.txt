@@ -1,0 +1,14 @@
+punct	expect	``
+case	return	In
+nmod:in	expect	return
+nsubj	expect	we
+root	ROOT	expect
+compound	Korea	North
+dobj	expect	Korea
+mark	give	to
+xcomp	expect	give
+compound:prt	give	up
+amod	weapons	nuclear
+dobj	give	weapons
+punct	expect	.
+punct	expect	''

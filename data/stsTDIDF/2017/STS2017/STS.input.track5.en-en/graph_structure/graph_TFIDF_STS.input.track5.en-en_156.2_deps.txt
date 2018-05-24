@@ -1,0 +1,11 @@
+gathering	are	aux
+gathering	materials	dobj
+business	child	conj:and
+gathering	.	punct
+business	their	nmod:poss
+child	their	nmod:poss
+materials	business	nmod:for
+men	Asian	amod
+gathering	men	nsubj
+ROOT	gathering	root
+gathering	had	xcomp

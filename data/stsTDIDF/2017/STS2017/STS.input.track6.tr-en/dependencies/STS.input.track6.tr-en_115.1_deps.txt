@@ -1,0 +1,10 @@
+amod	people	Several
+nsubj	standing	people
+aux	standing	are
+root	ROOT	standing
+case	stadium	in
+mwe	in	front
+mwe	in	of
+det	stadium	a
+nmod:in_front_of	standing	stadium
+punct	standing	.

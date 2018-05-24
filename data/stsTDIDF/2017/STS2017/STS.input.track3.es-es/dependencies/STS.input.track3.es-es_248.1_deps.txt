@@ -1,0 +1,12 @@
+det	rider	A
+compound	rider	motocross
+root	ROOT	rider
+acl	rider	doing
+det	jump	a
+compound	jump	cross
+dobj	doing	jump
+punct	rider	,
+acl	rider	wearing
+amod	gear	protective
+dobj	wearing	gear
+punct	rider	.

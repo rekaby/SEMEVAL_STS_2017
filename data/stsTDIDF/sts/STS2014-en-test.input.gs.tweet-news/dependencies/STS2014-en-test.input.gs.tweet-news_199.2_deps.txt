@@ -1,0 +1,8 @@
+nsubj	Responds	Kaepernick
+root	ROOT	Responds
+case	Gamble	to
+compound	Gamble	Harbaugh?s
+nmod:to	Responds	Gamble
+case	Performance	With
+compound	Performance	Resounding
+nmod:with	Responds	Performance

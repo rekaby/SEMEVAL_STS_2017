@@ -1,0 +1,7 @@
+compound	bids	Coty
+root	ROOT	bids
+dobj	bids	$
+compound	billion	10
+nummod	$	billion
+case	Avon	for
+nmod:for	$	Avon

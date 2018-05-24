@@ -1,0 +1,7 @@
+det	guy	A
+root	ROOT	guy
+case	horse	on
+det	horse	a
+amod	horse	white
+nmod:on	guy	horse
+punct	guy	.

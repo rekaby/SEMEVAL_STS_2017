@@ -1,0 +1,5 @@
+rain	for	case
+people	Three	nummod
+waiting	rain	nmod:for
+waiting	stop	xcomp
+waiting	people	nsubj

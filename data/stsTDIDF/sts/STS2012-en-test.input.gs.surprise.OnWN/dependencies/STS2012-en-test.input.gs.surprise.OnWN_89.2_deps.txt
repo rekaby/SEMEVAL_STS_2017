@@ -1,0 +1,11 @@
+root	ROOT	cause
+punct	computer	-LRB-
+det	computer	a
+appos	cause	computer
+punct	computer	-RRB-
+mark	execute	to
+acl	cause	execute
+det	command	a
+amod	command	single
+dobj	execute	command
+punct	cause	.

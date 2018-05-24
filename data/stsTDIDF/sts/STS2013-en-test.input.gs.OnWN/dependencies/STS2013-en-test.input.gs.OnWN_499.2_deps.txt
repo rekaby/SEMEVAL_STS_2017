@@ -1,0 +1,12 @@
+root	ROOT	take
+amod	possession	temporary
+dobj	take	possession
+case	security	of
+case	security	as
+det	security	a
+nmod:as	possession	security
+punct	take	,
+case	authority	by
+amod	authority	legal
+nmod:by	take	authority
+punct	take	.

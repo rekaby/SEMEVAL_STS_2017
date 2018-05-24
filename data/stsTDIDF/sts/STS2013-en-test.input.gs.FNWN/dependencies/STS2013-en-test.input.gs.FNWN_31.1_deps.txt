@@ -1,0 +1,12 @@
+det	sequence	a
+amod	sequence	recordable
+nsubjpass	associated	sequence
+case	events	of
+nmod:of	sequence	events
+auxpass	associated	is
+root	ROOT	associated
+case	topic	with
+det	topic	a
+amod	topic	given
+nmod:with	associated	topic
+punct	associated	.

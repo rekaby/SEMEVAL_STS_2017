@@ -1,0 +1,8 @@
+det	quality	the
+root	ROOT	quality
+case	dedication	of
+nmod:of	quality	dedication
+punct	quality	,
+appos	quality	fixity
+case	purpose	of
+nmod:of	fixity	purpose

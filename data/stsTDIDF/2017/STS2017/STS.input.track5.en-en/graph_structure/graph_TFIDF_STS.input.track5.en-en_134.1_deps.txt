@@ -1,0 +1,7 @@
+paints	overalls	compound
+woman	paints	nmod:in
+wall	her	nmod:poss
+wall	for	case
+picture	woman	nsubj
+picture	wall	nmod:for
+paints	in	case

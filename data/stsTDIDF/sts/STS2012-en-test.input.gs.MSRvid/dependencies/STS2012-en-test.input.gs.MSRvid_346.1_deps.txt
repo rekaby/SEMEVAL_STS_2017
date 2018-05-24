@@ -1,0 +1,7 @@
+det	man	A
+nsubj	jumping	man
+aux	jumping	is
+root	ROOT	jumping
+case	water	into
+nmod:into	jumping	water
+punct	jumping	.

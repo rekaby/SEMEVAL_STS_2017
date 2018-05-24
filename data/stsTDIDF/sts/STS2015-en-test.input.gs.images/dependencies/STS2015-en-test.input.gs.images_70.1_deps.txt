@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+compound:prt	running	over
+dobj	running	grass
+punct	running	.

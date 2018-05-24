@@ -1,0 +1,10 @@
+det	skateboarder	A
+nsubj	slides	skateboarder
+root	ROOT	slides
+compound:prt	slides	down
+det	handrail	a
+dobj	slides	handrail
+case	feet	on
+nmod:poss	feet	his
+nmod:on	handrail	feet
+punct	slides	.

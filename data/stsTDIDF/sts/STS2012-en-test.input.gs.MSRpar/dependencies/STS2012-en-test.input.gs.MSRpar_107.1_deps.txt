@@ -1,0 +1,17 @@
+det	value	The
+nsubj	total	value
+aux	total	will
+root	ROOT	total
+advmod	$	about
+dobj	total	$
+compound	million	124
+nummod	$	million
+punct	$	,
+case	securities	including
+amod	securities	convertible
+nmod:including	$	securities
+punct	total	,
+case	Corel	according
+mwe	according	to
+nmod:according_to	total	Corel
+punct	total	.

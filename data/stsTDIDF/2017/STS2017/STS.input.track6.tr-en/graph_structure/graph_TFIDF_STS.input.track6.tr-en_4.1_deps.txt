@@ -1,0 +1,7 @@
+ROOT	competing	root
+agility	dog	compound
+competing	agility	nmod:in
+agility	in	case
+competing	is	aux
+dog	The	det
+competing	dog	nsubj

@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+det	person	a
+nsubj	is	person
+amod	person	ready
+mark	compete	to
+xcomp	ready	compete
+case	competition	in
+det	competition	a
+compound	competition	swimming
+nmod:in	compete	competition
+punct	is	.

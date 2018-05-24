@@ -1,0 +1,6 @@
+amod	quake	6.0-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+dobj	hits	Greece
+punct	hits	--
+dep	hits	USGS

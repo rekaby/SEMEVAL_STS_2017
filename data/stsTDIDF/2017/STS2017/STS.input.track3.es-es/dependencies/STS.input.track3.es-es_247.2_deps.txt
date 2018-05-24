@@ -1,0 +1,15 @@
+nummod	children	Two
+nsubj	standing	children
+case	jeans	in
+amod	jeans	blue
+nmod:in	children	jeans
+cc	jeans	and
+compound	shirts	cinnamon
+conj:and	jeans	shirts
+aux	standing	are
+root	ROOT	standing
+compound:prt	standing	out
+case	tents	from
+det	tents	the
+nmod:from	standing	tents
+punct	standing	.

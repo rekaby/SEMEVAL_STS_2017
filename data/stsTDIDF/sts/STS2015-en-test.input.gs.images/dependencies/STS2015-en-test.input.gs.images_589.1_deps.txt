@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+case	Frisbee	after
+det	Frisbee	a
+amod	Frisbee	red
+nmod:after	chasing	Frisbee
+punct	chasing	.

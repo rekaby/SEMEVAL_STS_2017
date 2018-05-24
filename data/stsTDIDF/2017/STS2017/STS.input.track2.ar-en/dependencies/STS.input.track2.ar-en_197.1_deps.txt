@@ -1,0 +1,6 @@
+root	ROOT	People
+case	race	from
+det	race	a
+compound	race	bike
+nmod:from	People	race
+punct	People	.

@@ -1,0 +1,8 @@
+det	guys	The
+nsubj	throwing	guys
+aux	throwing	are
+root	ROOT	throwing
+dobj	throwing	shovels
+case	hole	in
+det	hole	a
+nmod:in	throwing	hole

@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	climbers	11
+amod	climbers	foreign
+dobj	kill	climbers
+case	Pakistan	in
+nmod:in	kill	Pakistan

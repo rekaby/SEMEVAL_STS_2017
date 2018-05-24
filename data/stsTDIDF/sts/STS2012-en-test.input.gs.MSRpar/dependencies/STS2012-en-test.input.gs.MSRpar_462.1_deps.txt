@@ -1,0 +1,15 @@
+det	company	The
+nsubj	expanded	company
+aux	expanded	has
+root	ROOT	expanded
+mark	providing	into
+advcl	expanded	providing
+amod	services	other
+dobj	providing	services
+case	buyers	for
+nmod:for	providing	buyers
+punct	buyers	,
+case	services	including
+compound	services	payment
+nmod:including	buyers	services
+punct	expanded	.

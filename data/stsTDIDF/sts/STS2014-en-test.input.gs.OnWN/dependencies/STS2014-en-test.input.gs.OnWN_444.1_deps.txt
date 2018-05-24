@@ -1,0 +1,17 @@
+root	ROOT	Discourage
+cc	Discourage	or
+conj:or	Discourage	frighten
+case	threats	with
+nmod:with	Discourage	threats
+cc	threats	or
+det	manner	a
+amod	manner	domineering
+conj:or	threats	manner
+punct	Discourage	;
+dep	Discourage	intimidate
+punct	intimidate	;
+cop	bossy	be
+parataxis	intimidate	bossy
+case	someone	towards
+nmod:towards	bossy	someone
+punct	Discourage	.

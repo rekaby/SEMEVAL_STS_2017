@@ -1,0 +1,6 @@
+det	people	The
+root	ROOT	people
+case	cinema	in
+det	cinema	the
+nmod:in	people	cinema
+punct	people	.

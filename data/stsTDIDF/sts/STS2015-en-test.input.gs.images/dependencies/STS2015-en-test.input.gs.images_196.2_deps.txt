@@ -1,0 +1,11 @@
+det	group	A
+nsubj	stand	group
+case	people	of
+nmod:of	group	people
+root	ROOT	stand
+cc	stand	and
+conj:and	stand	wait
+mark	see	to
+xcomp	wait	see
+dobj	see	something
+punct	stand	.

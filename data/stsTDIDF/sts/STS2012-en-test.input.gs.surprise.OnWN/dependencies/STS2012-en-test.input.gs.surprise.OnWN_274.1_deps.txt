@@ -1,0 +1,7 @@
+det	quantity	a
+root	ROOT	quantity
+nsubj	calculation	that
+cop	calculation	is
+det	calculation	an
+amod	calculation	approximate
+acl:relcl	quantity	calculation

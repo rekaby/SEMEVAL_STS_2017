@@ -1,0 +1,11 @@
+Prison	Quantico	compound
+Prison	Military	compound
+time	Prison	nmod:at
+ROOT	centers	root
+centers	hearing	compound
+Manning	's	case
+centers	The	det
+time	Virginia	appos
+time	Manning	nmod:poss
+centers	time	nmod:on
+Prison	at	case

@@ -1,0 +1,8 @@
+root	ROOT	lumber
+acl	lumber	used
+case	construction	in
+det	construction	the
+nmod:in	used	construction
+case	something	of
+nmod:of	construction	something
+punct	lumber	.

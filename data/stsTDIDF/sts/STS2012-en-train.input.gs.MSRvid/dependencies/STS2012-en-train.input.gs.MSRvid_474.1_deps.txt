@@ -1,0 +1,11 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+case	wheel	on
+nummod	wheel	one
+nmod:on	riding	wheel
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	riding	motorcycle
+punct	riding	.

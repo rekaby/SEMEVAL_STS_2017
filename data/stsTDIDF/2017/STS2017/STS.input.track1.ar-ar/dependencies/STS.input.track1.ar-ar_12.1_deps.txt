@@ -1,0 +1,9 @@
+nmod:poss	bag	Women
+case	Women	's
+root	ROOT	bag
+dep	are	containing
+compound	exhibition	art
+dobj	containing	exhibition
+nsubj	are	you
+acl:relcl	bag	are
+punct	bag	.

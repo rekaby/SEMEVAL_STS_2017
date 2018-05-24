@@ -1,0 +1,11 @@
+det	men	The
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+det	guitar	a
+dobj	playing	guitar
+cc	playing	and
+conj:and	playing	having
+det	drink	a
+dobj	having	drink
+punct	playing	.

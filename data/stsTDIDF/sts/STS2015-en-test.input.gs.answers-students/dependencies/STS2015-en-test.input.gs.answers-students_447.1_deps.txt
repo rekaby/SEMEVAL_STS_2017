@@ -1,0 +1,15 @@
+mark	contained	If
+det	bulb	the
+amod	bulb	other
+nsubjpass	contained	bulb
+auxpass	contained	is
+neg	longer	no
+advmod	contained	longer
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

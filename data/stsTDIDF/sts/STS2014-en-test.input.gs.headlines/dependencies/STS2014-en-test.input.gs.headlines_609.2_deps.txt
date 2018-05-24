@@ -1,0 +1,7 @@
+compound	Zealand	New
+nsubj	votes	Zealand
+root	ROOT	votes
+mark	legalise	to
+xcomp	votes	legalise
+amod	marriage	same-sex
+dobj	legalise	marriage

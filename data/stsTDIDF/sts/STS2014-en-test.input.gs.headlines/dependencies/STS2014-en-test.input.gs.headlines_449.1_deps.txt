@@ -1,0 +1,10 @@
+compound	Protest	Topless
+compound	Protest	Women
+root	ROOT	Protest
+case	Berlusconi	Against
+nmod:against	Protest	Berlusconi
+mark	Votes	As
+nsubj	Votes	He
+advcl	Protest	Votes
+case	Election	In
+nmod:in	Votes	Election

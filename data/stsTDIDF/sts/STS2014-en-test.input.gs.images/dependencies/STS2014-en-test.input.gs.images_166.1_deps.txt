@@ -1,0 +1,9 @@
+compound	headlines	World
+compound	headlines	news
+nsubj	displayed	headlines
+root	ROOT	displayed
+case	screen	on
+det	screen	a
+amod	screen	large
+nmod:on	displayed	screen
+punct	displayed	.

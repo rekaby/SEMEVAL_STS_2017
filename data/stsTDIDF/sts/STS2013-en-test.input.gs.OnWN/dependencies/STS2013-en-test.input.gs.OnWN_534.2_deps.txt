@@ -1,0 +1,14 @@
+root	ROOT	rewrite
+advmod	make	so
+mark	make	as
+mark	make	to
+advcl	rewrite	make
+xcomp	make	fit
+mark	suit	to
+xcomp	fit	suit
+det	purpose	a
+amod	purpose	new
+cc	new	or
+conj:or	new	different
+dobj	suit	purpose
+punct	rewrite	.

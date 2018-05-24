@@ -1,0 +1,6 @@
+compound	boomers	Baby
+root	ROOT	boomers
+acl	boomers	getting
+compound	savvy	tech
+dobj	getting	savvy
+punct	boomers	:

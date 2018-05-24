@@ -1,0 +1,11 @@
+root	ROOT	thread
+conj:or	thread	thread
+case	string	on
+cc	on	or
+conj:or	on	as
+advmod	string	if
+case	string	on
+det	string	a
+nmod:as	thread	string
+nmod:on	thread	string
+punct	thread	.

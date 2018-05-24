@@ -1,0 +1,9 @@
+det	system	the
+root	ROOT	system
+case	production	of
+nmod:of	system	production
+cc	production	and
+conj:and	production	distribution
+cc	production	and
+conj:and	production	consumption
+punct	system	.

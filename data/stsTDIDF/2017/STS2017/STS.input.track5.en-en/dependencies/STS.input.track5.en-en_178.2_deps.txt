@@ -1,0 +1,17 @@
+nummod	boys	Two
+nsubj	riding	boys
+aux	riding	are
+root	ROOT	riding
+case	toy	on
+det	toy	a
+nmod:on	riding	toy
+case	girl	with
+det	girl	a
+amod	girl	blonde
+nmod:with	toy	girl
+amod	side	running
+amod	side	long
+acl	girl	side
+case	them	of
+nmod:of	side	them
+punct	riding	.

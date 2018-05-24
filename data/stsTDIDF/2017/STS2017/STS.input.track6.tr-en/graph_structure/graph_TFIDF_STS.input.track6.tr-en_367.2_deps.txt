@@ -1,0 +1,5 @@
+lane	room	nmod:in
+standing	man	nsubj
+standing	lane	nmod:in
+lane	in	case
+lane	a	det

@@ -1,0 +1,10 @@
+det	engine	A
+compound	engine	steam
+nsubj	moving	engine
+cc	engine	and
+conj:and	engine	train
+root	ROOT	moving
+case	camera	toward
+det	camera	the
+nmod:toward	moving	camera
+punct	moving	.

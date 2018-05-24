@@ -1,0 +1,8 @@
+root	ROOT	put
+cc	put	or
+conj:or	put	set
+dep	put	into
+punct	into	,
+root	,	between
+cc	between	or
+conj:or	between	among

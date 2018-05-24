@@ -1,0 +1,11 @@
+cutting	mother	nsubj
+mother	A	det
+cutting	.	punct
+squares	quilt	nmod:for
+cutting	fabric	dobj
+quilt	a	det
+squares	into	case
+cutting	is	aux
+quilt	for	case
+ROOT	cutting	root
+cutting	squares	nmod:into

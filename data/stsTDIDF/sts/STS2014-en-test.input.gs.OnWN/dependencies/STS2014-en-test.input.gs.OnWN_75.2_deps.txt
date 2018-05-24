@@ -1,0 +1,7 @@
+root	ROOT	confine
+case	prison	as
+mwe	as	if
+case	prison	in
+det	prison	a
+nmod:as_if	confine	prison
+punct	confine	.

@@ -1,0 +1,9 @@
+advmod	changed	How
+det	US	the
+nsubj	changed	US
+aux	changed	has
+root	ROOT	changed
+case	lifetime	in
+nmod:poss	lifetime	my
+nmod:in	changed	lifetime
+punct	changed	:

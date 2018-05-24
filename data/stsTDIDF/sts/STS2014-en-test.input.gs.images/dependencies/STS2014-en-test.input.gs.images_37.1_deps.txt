@@ -1,0 +1,15 @@
+det	bird	A
+amod	bird	small
+amod	bird	red
+cc	red	and
+conj:and	red	gray
+nsubj	perched	bird
+root	ROOT	perched
+case	branches	amongst
+det	branches	the
+amod	branches	bare
+nmod:amongst	perched	branches
+case	tree	of
+det	tree	a
+nmod:of	branches	tree
+punct	perched	.

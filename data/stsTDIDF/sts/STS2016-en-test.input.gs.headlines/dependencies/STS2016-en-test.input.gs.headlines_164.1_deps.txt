@@ -1,0 +1,9 @@
+nsubj	clash	Palestinians
+punct	clash	,
+amod	clash	Israeli
+compound	clash	police
+root	ROOT	clash
+case	al-Aqsa	at
+nmod:poss	al-Aqsa	Jerusalem
+case	Jerusalem	's
+nmod:at	clash	al-Aqsa

@@ -1,0 +1,6 @@
+nsubj	upgrades	Fitch
+root	ROOT	upgrades
+dobj	upgrades	Ford
+case	grade	to
+compound	grade	investment
+nmod:to	upgrades	grade

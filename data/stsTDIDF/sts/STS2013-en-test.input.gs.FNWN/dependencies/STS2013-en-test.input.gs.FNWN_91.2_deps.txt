@@ -1,0 +1,9 @@
+auxpass	used	be
+root	ROOT	used
+nmod	used	by
+punct	used	;
+case	utility	as
+mwe	as	of
+det	utility	a
+nmod:as_of	used	utility
+punct	used	;

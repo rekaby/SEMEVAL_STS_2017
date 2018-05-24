@@ -1,0 +1,7 @@
+compound	terms	Bailout
+nsubj	prompt	terms
+root	ROOT	prompt
+amod	banks	run
+case	Cyprus	on
+nmod:on	run	Cyprus
+dobj	prompt	banks

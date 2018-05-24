@@ -1,0 +1,11 @@
+det	person	A
+amod	person	yellow-eyed
+nsubj	sits	person
+root	ROOT	sits
+compound:prt	sits	down
+case	edge	on
+det	edge	the
+nmod:on	sits	edge
+case	rock	of
+det	rock	a
+nmod:of	edge	rock

@@ -1,0 +1,8 @@
+root	ROOT	place
+case	suspicion	under
+nmod:under	place	suspicion
+cc	place	or
+amod	doubt	cast
+conj:or	place	doubt
+advmod	place	upon
+punct	place	.

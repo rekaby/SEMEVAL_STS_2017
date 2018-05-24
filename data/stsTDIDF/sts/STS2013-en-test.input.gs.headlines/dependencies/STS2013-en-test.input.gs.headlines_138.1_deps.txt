@@ -1,0 +1,7 @@
+amod	plane	Pakistani
+nsubj	crashes	plane
+root	ROOT	crashes
+case	127	with
+nmod:with	crashes	127
+case	board	on
+nmod:on	crashes	board

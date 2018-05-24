@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	little
+nsubj	playing	girl
+aux	playing	is
+root	ROOT	playing
+case	toy	on
+det	toy	a
+nmod:on	playing	toy
+advmod	toy	outdoors
+punct	playing	.

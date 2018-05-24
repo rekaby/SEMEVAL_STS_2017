@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	jacket	with
+det	jacket	a
+amod	jacket	black
+compound	jacket	leather
+nmod:with	man	jacket
+case	movie	in
+det	movie	the
+nmod:in	jacket	movie

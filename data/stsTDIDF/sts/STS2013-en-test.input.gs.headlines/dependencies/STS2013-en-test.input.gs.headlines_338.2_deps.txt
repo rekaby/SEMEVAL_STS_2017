@@ -1,0 +1,7 @@
+root	ROOT	Minn.
+punct	Minn.	.-2) amod(Reopens-2, Terminal
+root	ROOT	Reopens
+mark	Causes	After
+nsubj	Causes	Bag
+acl	Reopens	Causes
+dobj	Causes	Evacuation

@@ -1,0 +1,12 @@
+det	man	A
+nsubj	jumps	man
+root	ROOT	jumps
+nmod:poss	bicycle	his
+dobj	jumps	bicycle
+case	air	in
+det	air	the
+nmod:in	jumps	air
+case	rocks	between
+nummod	rocks	two
+nmod:between	jumps	rocks
+punct	jumps	.

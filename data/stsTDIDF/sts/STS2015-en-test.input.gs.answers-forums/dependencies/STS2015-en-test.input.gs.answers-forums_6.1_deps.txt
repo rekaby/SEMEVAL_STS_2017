@@ -1,0 +1,17 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+expl	are	there
+ccomp	think	are
+xcomp	are	likely
+mark	standards	to
+cop	standards	be
+det	standards	any
+xcomp	likely	standards
+nsubj	address	that
+acl:relcl	standards	address
+det	issue	this
+dobj	address	issue
+advmod	address	specifically
+punct	think	.

@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	looks	woman
+case	coat	in
+det	coat	a
+amod	coat	black
+nmod:in	woman	coat
+root	ROOT	looks
+case	display	at
+det	display	a
+compound	display	window
+nmod:at	looks	display
+case	bread	of
+nmod:of	display	bread
+punct	looks	.

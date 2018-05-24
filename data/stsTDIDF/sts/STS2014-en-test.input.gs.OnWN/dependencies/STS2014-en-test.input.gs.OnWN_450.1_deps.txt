@@ -1,0 +1,8 @@
+det	state	the
+nsubj	supported	state
+mark	having	of
+acl	state	having
+nmod:poss	weight	one
+case	one	's
+dobj	having	weight
+root	ROOT	supported

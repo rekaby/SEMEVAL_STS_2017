@@ -1,0 +1,6 @@
+nsubj	bans	India
+root	ROOT	bans
+compound	texts	bulk
+dobj	bans	texts
+case	riots	after
+nmod:after	bans	riots

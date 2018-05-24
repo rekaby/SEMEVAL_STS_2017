@@ -1,0 +1,12 @@
+cop	test	Is
+expl	test	there
+det	test	a
+root	ROOT	test
+mark	own	to
+acl	test	own
+det	firearm	a
+dobj	own	firearm
+case	US	in
+det	US	the
+nmod:in	firearm	US
+punct	test	?

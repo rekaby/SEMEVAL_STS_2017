@@ -1,0 +1,10 @@
+det	man	a
+nsubj	walks	man
+root	ROOT	walks
+nummod	dogs	two
+dobj	walks	dogs
+case	leashes	on
+nmod:on	walks	leashes
+case	street	down
+det	street	the
+nmod:down	leashes	street

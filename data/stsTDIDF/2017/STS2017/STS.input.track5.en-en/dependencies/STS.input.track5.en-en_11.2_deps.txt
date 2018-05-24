@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	stop	men
+root	ROOT	stop
+mark	talk	to
+xcomp	stop	talk
+case	sign	near
+det	sign	a
+nmod:near	talk	sign
+advmod	sign	outside
+punct	stop	.

@@ -1,0 +1,13 @@
+expl	gap	There
+aux	gap	will
+cop	gap	be
+det	gap	a
+root	ROOT	gap
+advmod	supposed	where
+det	holder	the
+compound	holder	bulb
+nsubjpass	supposed	holder
+auxpass	supposed	is
+acl:relcl	gap	supposed
+mark	be	to
+xcomp	supposed	be

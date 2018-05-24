@@ -1,0 +1,7 @@
+compound	operator	Ride
+root	ROOT	operator
+acl	operator	charged
+case	accident	in
+compound	accident	N.C.
+amod	accident	fair
+nmod:in	charged	accident

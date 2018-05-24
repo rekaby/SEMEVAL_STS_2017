@@ -1,0 +1,10 @@
+det	rule	The
+nsubj	throw	rule
+punct	throw	-
+advmod	throw	When
+case	doubt	in
+nmod:in	throw	doubt
+root	ROOT	throw
+dobj	throw	it
+compound:prt	throw	out
+punct	throw	!

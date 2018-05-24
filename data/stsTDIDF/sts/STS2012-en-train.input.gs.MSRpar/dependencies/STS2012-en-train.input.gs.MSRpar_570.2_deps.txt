@@ -1,0 +1,13 @@
+compound	Dynamics	General
+nsubjpass	sued	Dynamics
+auxpass	sued	was
+root	ROOT	sued
+advmod	changed	when
+nsubj	changed	it
+advcl	sued	changed
+nmod:poss	benefits	its
+compound	benefits	retirement
+dobj	changed	benefits
+case	1997	in
+nmod:in	changed	1997
+punct	sued	.

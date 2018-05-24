@@ -1,0 +1,7 @@
+root	ROOT	act
+cc	act	or
+conj:or	act	move
+case	speed	at
+amod	speed	high
+nmod:at	act	speed
+punct	act	.

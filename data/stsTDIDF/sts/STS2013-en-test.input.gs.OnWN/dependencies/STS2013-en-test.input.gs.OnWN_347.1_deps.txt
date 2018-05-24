@@ -1,0 +1,6 @@
+root	ROOT	make
+det	note	a
+amod	note	written
+dobj	make	note
+case	something	of
+nmod:of	note	something

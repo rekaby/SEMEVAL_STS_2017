@@ -1,0 +1,7 @@
+nummod	dogs	two
+compound	dogs	tan
+nsubj	play	dogs
+root	ROOT	play
+case	grass	in
+det	grass	the
+nmod:in	play	grass

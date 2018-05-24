@@ -1,0 +1,15 @@
+det	woman	The
+nsubj	felt	woman
+root	ROOT	felt
+ccomp	said	threatened
+cc	threatened	and
+conj:and	threatened	went
+case	office	to
+det	magistrate	the
+nmod:poss	office	magistrate
+case	magistrate	's
+nmod:to	went	office
+punct	said	,
+nsubj	said	police
+ccomp	felt	said
+punct	felt	.

@@ -1,0 +1,5 @@
+flip	back	advmod
+doing	water	nmod:in
+doing	girl	nsubj
+flip	a	det
+doing	flip	dobj

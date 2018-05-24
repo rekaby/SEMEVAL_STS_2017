@@ -1,0 +1,6 @@
+nsubj	dancing	Adam
+aux	dancing	is
+root	ROOT	dancing
+case	floor	on
+det	floor	the
+nmod:on	dancing	floor

@@ -1,0 +1,8 @@
+root	ROOT	Zimbabwe
+punct	Zimbabwe	:
+punct	Concerns	`
+compound	Concerns	Grave
+dep	Zimbabwe	Concerns
+case	Concerns	'
+case	Election	Over
+nmod:over	Concerns	Election

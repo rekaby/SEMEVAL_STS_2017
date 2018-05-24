@@ -1,0 +1,17 @@
+det	nod	The
+amod	nod	leading
+compound	nod	actress
+nsubj	went	nod
+root	ROOT	went
+case	Winokur	to
+amod	Winokur	energetic
+compound	Winokur	newcomer
+compound	Winokur	Marissa
+compound	Winokur	Jaret
+nmod:to	went	Winokur
+case	Tracy	as
+nmod:poss	Tracy	Edna
+case	Edna	's
+compound	Tracy	daughter
+nmod:as	went	Tracy
+punct	went	.

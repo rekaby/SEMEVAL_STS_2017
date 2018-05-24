@@ -1,0 +1,6 @@
+root	ROOT	Pacino
+mark	Play	to
+acl	Pacino	Play
+dobj	Play	Paterno
+case	Film	in
+nmod:in	Play	Film

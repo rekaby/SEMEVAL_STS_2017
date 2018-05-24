@@ -1,0 +1,13 @@
+nummod	men	Three
+root	ROOT	men
+acl	men	standing
+case	signal	in
+mwe	in	front
+mwe	in	of
+det	signal	a
+nmod:in_front_of	standing	signal
+case	flag	by
+det	flag	the
+amod	flag	American
+nmod:by	signal	flag
+punct	men	.

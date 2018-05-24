@@ -1,0 +1,13 @@
+det	Daily	Some
+nsubj	right	Daily
+case	crime	on
+compound	crime	Daily
+nmod:on	Daily	crime
+root	ROOT	right
+advmod	right	here
+punct	right	.-8) root(ROOT-0, MT
+punct	MT	:
+case	filib	on
+nmod:on	MT	filib
+punct	MT	.-5) root(ROOT-0, reform?unintelligible
+punct	reform?unintelligible	:

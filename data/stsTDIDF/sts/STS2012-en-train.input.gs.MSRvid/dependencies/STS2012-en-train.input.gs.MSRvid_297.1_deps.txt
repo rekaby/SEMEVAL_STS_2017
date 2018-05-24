@@ -1,0 +1,6 @@
+nsubj	running	Men
+aux	running	are
+root	ROOT	running
+det	race	a
+dobj	running	race
+punct	running	.

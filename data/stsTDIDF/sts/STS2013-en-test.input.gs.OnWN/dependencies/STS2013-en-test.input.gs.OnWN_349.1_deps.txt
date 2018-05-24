@@ -1,0 +1,5 @@
+det	citizen	a
+root	ROOT	citizen
+case	Troy	of
+amod	Troy	ancient
+nmod:of	citizen	Troy

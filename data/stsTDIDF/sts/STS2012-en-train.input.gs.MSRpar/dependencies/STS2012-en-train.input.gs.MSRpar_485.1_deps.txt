@@ -1,0 +1,13 @@
+nsubj	called	Perry
+aux	called	has
+root	ROOT	called
+dobj	called	lawmakers
+case	sessions	into
+nummod	sessions	two
+amod	sessions	special
+nmod:into	called	sessions
+mark	address	to
+advcl	called	address
+amod	redistricting	congressional
+dobj	address	redistricting
+punct	called	.

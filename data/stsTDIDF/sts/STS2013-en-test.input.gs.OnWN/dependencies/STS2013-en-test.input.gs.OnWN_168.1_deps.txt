@@ -1,0 +1,13 @@
+det	act	The
+root	ROOT	act
+mark	giving	of
+acl	act	giving
+compound:prt	giving	up
+det	claim	a
+dobj	giving	claim
+punct	claim	,
+conj:or	claim	office
+punct	claim	,
+cc	claim	or
+conj:or	claim	possession
+punct	act	.

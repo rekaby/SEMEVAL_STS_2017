@@ -1,0 +1,17 @@
+det	man	A
+nsubj	shades	man
+case	hat	in
+det	hat	a
+compound	hat	straw
+nmod:in	man	hat
+root	ROOT	shades
+nmod:poss	phone	his
+dobj	shades	phone
+mark	walk	while
+nsubj	walk	others
+advcl	shades	walk
+case	sidewalk	on
+det	sidewalk	a
+amod	sidewalk	busy
+nmod:on	walk	sidewalk
+punct	shades	.

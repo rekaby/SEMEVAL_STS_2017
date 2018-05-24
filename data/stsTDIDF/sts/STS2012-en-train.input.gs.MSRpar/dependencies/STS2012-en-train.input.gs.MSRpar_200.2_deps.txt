@@ -1,0 +1,14 @@
+det	Office	The
+compound	Office	British
+compound	Office	Foreign
+nsubj	said	Office
+root	ROOT	said
+nsubj	mediated	it
+aux	mediated	had
+ccomp	said	mediated
+det	men	the
+nummod	men	two
+nmod:poss	release	men
+case	men	's
+dobj	mediated	release
+punct	said	.

@@ -1,0 +1,12 @@
+det	company	The
+nsubj	said	company
+root	ROOT	said
+det	earnings	this
+amod	earnings	impacted
+dobj	said	earnings
+case	penny	by
+det	penny	a
+nmod:by	earnings	penny
+det	share	a
+nmod:npmod	penny	share
+punct	said	.

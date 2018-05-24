@@ -1,0 +1,12 @@
+compound	rockets	Gaza
+compound	rockets	militants
+compound	rockets	fire
+nummod	rockets	40
+root	ROOT	rockets
+case	Israel	into
+nmod:into	rockets	Israel
+punct	rockets	,
+nummod	hurt	3
+appos	rockets	hurt
+punct	rockets	:
+dep	rockets	police

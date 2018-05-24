@@ -1,0 +1,10 @@
+det	boy	A
+compound	boy	baby
+nsubj	happy	boy
+cop	happy	is
+root	ROOT	happy
+mark	see	to
+xcomp	happy	see
+nmod:poss	mother	his
+dobj	see	mother
+punct	happy	.

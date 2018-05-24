@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sand	man
+cc	man	and
+det	dog	a
+conj:and	man	dog
+cop	sand	are
+case	sand	on
+det	sand	the
+root	ROOT	sand
+punct	sand	.

@@ -1,0 +1,8 @@
+nsubj	lands	China
+root	ROOT	lands
+compound	rover	Jade
+compound	rover	Rabbit
+compound	rover	robot
+dobj	lands	rover
+case	Moon	on
+nmod:on	lands	Moon

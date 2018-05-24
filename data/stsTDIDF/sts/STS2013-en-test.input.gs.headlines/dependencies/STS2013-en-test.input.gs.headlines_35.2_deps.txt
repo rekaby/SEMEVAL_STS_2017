@@ -1,0 +1,8 @@
+nummod	rockets	2
+compound	rockets	Gaza
+nsubj	hit	rockets
+root	ROOT	hit
+dobj	hit	Israel
+punct	hit	;
+neg	injuries	no
+dep	hit	injuries

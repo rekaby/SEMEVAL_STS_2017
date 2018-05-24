@@ -1,0 +1,8 @@
+det	train	The
+amod	train	blue
+nsubj	station	train
+cop	station	is
+case	station	at
+det	station	the
+root	ROOT	station
+punct	station	.

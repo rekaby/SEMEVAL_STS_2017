@@ -1,0 +1,6 @@
+amod	meteorite	Russian
+nsubj	leaves	meteorite
+root	ROOT	leaves
+xcomp	leaves	building
+amod	open	gaping
+dobj	building	open

@@ -1,0 +1,7 @@
+nsubj	threatens	Iran
+root	ROOT	threatens
+mark	trigger	to
+xcomp	threatens	trigger
+compound	war	oil
+compound	war	price
+dobj	trigger	war

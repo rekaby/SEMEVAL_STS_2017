@@ -1,0 +1,10 @@
+det	report	The
+amod	report	annual
+nsubj	is	report
+root	ROOT	is
+mark	identify	to
+xcomp	is	identify
+amod	improvements	such
+amod	improvements	potential
+dobj	identify	improvements
+punct	is	.

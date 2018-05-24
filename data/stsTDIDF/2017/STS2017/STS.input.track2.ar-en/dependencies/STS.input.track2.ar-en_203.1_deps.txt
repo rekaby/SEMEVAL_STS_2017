@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	running	woman
+aux	running	is
+root	ROOT	running
+case	lawn	on
+det	lawn	a
+nmod:on	running	lawn
+punct	running	.

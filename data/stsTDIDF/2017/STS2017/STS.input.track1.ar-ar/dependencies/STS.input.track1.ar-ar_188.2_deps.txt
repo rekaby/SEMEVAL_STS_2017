@@ -1,0 +1,12 @@
+det	boy	The
+nsubj	goes	boy
+root	ROOT	goes
+case	pool	to
+det	pool	the
+nmod:to	goes	pool
+advmod	recess	when
+nsubj	recess	it
+cop	recess	is
+case	recess	in
+advcl:in	goes	recess
+punct	goes	.

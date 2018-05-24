@@ -1,0 +1,6 @@
+det	portion	a
+amod	portion	specified
+root	ROOT	portion
+case	whole	of
+det	whole	a
+nmod:of	portion	whole

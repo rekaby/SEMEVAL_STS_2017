@@ -1,0 +1,7 @@
+det	skateboarder	A
+nsubj	jumps	skateboarder
+root	ROOT	jumps
+compound:prt	jumps	off
+det	stairs	the
+dobj	jumps	stairs
+punct	jumps	.

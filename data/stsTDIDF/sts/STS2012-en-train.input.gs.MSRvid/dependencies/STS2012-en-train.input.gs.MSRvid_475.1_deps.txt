@@ -1,0 +1,6 @@
+det	man	A
+nsubj	serving	man
+aux	serving	is
+root	ROOT	serving
+dobj	serving	cake
+punct	serving	.

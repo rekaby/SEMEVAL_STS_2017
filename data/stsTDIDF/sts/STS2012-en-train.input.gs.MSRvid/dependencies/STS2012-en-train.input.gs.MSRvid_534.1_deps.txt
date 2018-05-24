@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	relaxing	woman
+aux	relaxing	is
+root	ROOT	relaxing
+case	tub	in
+det	tub	a
+compound	tub	bath
+nmod:in	relaxing	tub
+punct	relaxing	.

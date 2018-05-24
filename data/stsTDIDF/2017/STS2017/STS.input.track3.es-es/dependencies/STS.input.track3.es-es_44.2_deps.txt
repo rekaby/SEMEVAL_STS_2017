@@ -1,0 +1,7 @@
+det	mother	A
+nsubj	plays	mother
+root	ROOT	plays
+dobj	plays	peek-a-boo
+case	baby	with
+nmod:poss	baby	her
+nmod:with	plays	baby

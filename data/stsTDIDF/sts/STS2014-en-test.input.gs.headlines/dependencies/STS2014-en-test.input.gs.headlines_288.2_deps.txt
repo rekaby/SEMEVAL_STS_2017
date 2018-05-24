@@ -1,0 +1,7 @@
+compound	League	Arab
+nsubj	welcomes	League
+root	ROOT	welcomes
+amod	deal	US-Russian
+dobj	welcomes	deal
+case	Syria	on
+nmod:on	welcomes	Syria

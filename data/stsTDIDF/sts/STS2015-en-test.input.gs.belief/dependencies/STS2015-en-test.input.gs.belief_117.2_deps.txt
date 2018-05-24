@@ -1,0 +1,10 @@
+amod	parts	other
+nsubjpass	flawed	parts
+case	methodology	of
+det	study	the
+nmod:poss	methodology	study
+case	study	's
+nmod:of	parts	methodology
+auxpass	flawed	is
+root	ROOT	flawed
+punct	flawed	.

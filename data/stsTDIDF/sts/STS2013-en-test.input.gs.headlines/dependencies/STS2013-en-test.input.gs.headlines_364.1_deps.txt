@@ -1,0 +1,9 @@
+root	ROOT	Sheriff
+punct	Sheriff	:
+nsubj	recovers	Man
+dep	Sheriff	recovers
+amod	car	stolen
+dobj	recovers	car
+nummod	years	42
+nmod:npmod	later	years
+advmod	recovers	later

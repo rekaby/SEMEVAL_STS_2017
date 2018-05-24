@@ -1,0 +1,8 @@
+det	woman	The
+amod	woman	young
+root	ROOT	woman
+case	store	in
+det	store	the
+compound	store	jewelery
+nmod:in	woman	store
+punct	woman	.

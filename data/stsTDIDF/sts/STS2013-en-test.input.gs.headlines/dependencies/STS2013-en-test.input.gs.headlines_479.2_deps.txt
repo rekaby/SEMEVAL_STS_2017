@@ -1,0 +1,10 @@
+root	ROOT	Police
+mark	detonate	to
+acl	Police	detonate
+dobj	detonate	devices
+case	home	in
+compound	suspect	Colorado
+compound	suspect	shooting
+nmod:poss	home	suspect
+case	suspect	's
+nmod:in	devices	home

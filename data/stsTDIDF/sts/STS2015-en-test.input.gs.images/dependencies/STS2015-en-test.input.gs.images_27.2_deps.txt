@@ -1,0 +1,13 @@
+nummod	dogs	Four
+nsubj	play	dogs
+root	ROOT	play
+case	snow	in
+det	snow	the
+nmod:in	play	snow
+case	city	with
+det	city	the
+nmod:with	snow	city
+dep	city	skyline
+case	them	behind
+nmod:behind	skyline	them
+punct	play	.

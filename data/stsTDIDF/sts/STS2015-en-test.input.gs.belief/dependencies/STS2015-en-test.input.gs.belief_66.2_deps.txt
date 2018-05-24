@@ -1,0 +1,7 @@
+root	ROOT	thank
+dobj	thank	you
+case	concern	for
+nmod:poss	concern	your
+nmod:for	thank	concern
+dep	concern	pelastration
+punct	thank	.

@@ -1,0 +1,10 @@
+punct	slang	-LRB-
+root	ROOT	slang
+punct	slang	-RRB-
+det	person	a
+nmod:poss	girlfriend	person
+case	person	's
+dep	slang	girlfriend
+cc	girlfriend	or
+conj:or	girlfriend	boyfriend
+punct	slang	.

@@ -1,0 +1,4 @@
+sitting	bench	nmod:on
+sitting	man	nsubj
+bench	a	det
+bench	park	nmod:in

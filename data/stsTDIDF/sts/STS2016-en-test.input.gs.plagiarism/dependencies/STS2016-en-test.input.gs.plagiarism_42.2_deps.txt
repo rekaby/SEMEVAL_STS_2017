@@ -1,0 +1,10 @@
+det	definition	The
+nsubj	dependent	definition
+case	term	of
+nmod:of	definition	term
+cop	dependent	is
+root	ROOT	dependent
+case	application	on
+det	application	the
+nmod:on	dependent	application
+punct	dependent	.

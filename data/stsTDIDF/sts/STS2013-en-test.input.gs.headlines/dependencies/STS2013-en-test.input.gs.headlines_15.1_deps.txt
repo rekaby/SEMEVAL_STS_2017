@@ -1,0 +1,8 @@
+amod	rebels	Syrian
+nsubj	move	rebels
+root	ROOT	move
+dobj	move	command
+case	Turkey	from
+nmod:from	move	Turkey
+case	Syria	to
+nmod:to	move	Syria

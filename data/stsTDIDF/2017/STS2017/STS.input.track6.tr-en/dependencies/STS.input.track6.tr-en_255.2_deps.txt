@@ -1,0 +1,8 @@
+det	man	The
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	park	in
+det	park	the
+nmod:in	sitting	park
+punct	sitting	.

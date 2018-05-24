@@ -1,0 +1,13 @@
+det	gear	a
+root	ROOT	gear
+mark	changing	for
+acl	gear	changing
+det	motion	the
+dobj	changing	motion
+case	machine	of
+det	machine	a
+nmod:of	motion	machine
+case	direction	to
+det	direction	the
+amod	direction	opposite
+nmod:to	machine	direction

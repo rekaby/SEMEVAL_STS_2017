@@ -1,0 +1,13 @@
+root	ROOT	However
+punct	However	,
+det	process	a
+root	,	process
+case	States	of
+det	States	the
+compound	States	United
+nmod:of	process	States
+cc	process	and
+advmod	Islam	also
+case	Islam	within
+conj:and	process	Islam
+punct	process	.

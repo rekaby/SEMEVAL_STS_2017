@@ -1,0 +1,7 @@
+lay	back	nmod:on
+back	grass	nmod:on
+lay	.	punct
+grass	on	case
+lay	puppy	nsubj
+puppy	Brown	amod
+ROOT	lay	root

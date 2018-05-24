@@ -1,0 +1,13 @@
+mark	take	If
+advmod	take	so
+punct	take	,
+dep	take	alot
+case	inventors	of
+nmod:of	alot	inventors
+punct	take	,
+nsubj	take	writers
+aux	take	should
+root	ROOT	take
+compound	drugs	prescription
+dobj	take	drugs
+punct	take	.-13) root(ROOT-0, .

@@ -1,0 +1,10 @@
+amod	association	international
+amod	association	atomic
+compound	association	energy
+nsubj	watchdog	association
+cop	watchdog	is
+det	watchdog	the
+amod	watchdog	united
+compound	watchdog	nations
+root	ROOT	watchdog
+punct	watchdog	.

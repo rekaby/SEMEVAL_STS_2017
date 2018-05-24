@@ -1,0 +1,11 @@
+det	process	The
+nsubj	happen	process
+aux	happen	must
+root	ROOT	happen
+case	blink	in
+det	blink	the
+nmod:in	happen	blink
+case	eye	of
+det	eye	an
+nmod:of	blink	eye
+punct	happen	.

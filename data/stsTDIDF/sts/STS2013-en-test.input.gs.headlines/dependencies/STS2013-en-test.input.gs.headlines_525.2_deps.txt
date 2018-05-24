@@ -1,0 +1,8 @@
+compound	leader	NATO
+nsubj	plays	leader
+root	ROOT	plays
+compound:prt	plays	down
+compound	clash	risk
+case	Turkey-Syria	of
+nmod:of	risk	Turkey-Syria
+dobj	plays	clash

@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	hat	a
+compound	hat	straw
+dobj	wearing	hat
+cc	hat	and
+compound	vest	fishing
+conj:and	hat	vest
+case	stream	in
+det	stream	a
+nmod:in	wearing	stream
+punct	man	.

@@ -1,0 +1,6 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	shaking
+dobj	shaking	water
+advmod	shaking	off
+punct	dog	.

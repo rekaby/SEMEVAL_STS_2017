@@ -1,0 +1,9 @@
+det	group	A
+nsubj	yelling	group
+case	women	of
+nmod:of	group	women
+root	ROOT	yelling
+case	man	at
+det	man	a
+nmod:at	yelling	man
+punct	yelling	.

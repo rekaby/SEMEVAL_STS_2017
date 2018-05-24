@@ -1,0 +1,6 @@
+nsubj	walks	Someone
+root	ROOT	walks
+case	wall	on
+det	wall	a
+nmod:on	walks	wall
+punct	walks	.

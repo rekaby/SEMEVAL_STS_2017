@@ -1,0 +1,8 @@
+root	ROOT	Man
+case	canoe	in
+amod	canoe	yellow
+nmod:in	Man	canoe
+acl	canoe	paddling
+case	water	through
+nmod:through	paddling	water
+punct	Man	.

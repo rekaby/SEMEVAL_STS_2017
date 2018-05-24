@@ -1,0 +1,14 @@
+nummod	children	Three
+amod	children	young
+nsubj	play	children
+root	ROOT	play
+case	hay	in
+det	hay	the
+nmod:in	play	hay
+punct	play	,
+xcomp	play	throwing
+dobj	throwing	some
+case	camera	at
+det	camera	the
+nmod:at	throwing	camera
+punct	play	.

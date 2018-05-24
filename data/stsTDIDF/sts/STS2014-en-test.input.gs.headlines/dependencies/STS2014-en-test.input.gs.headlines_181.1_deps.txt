@@ -1,0 +1,7 @@
+compound	Senate	U.S.
+nsubj	sets	Senate
+root	ROOT	sets
+compound:prt	sets	off
+compound	debate	gun
+compound	debate	control
+dobj	sets	debate

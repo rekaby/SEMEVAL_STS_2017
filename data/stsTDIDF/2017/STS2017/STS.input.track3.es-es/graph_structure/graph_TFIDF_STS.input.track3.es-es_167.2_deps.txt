@@ -1,0 +1,5 @@
+waiting	businessman	nsubj
+waiting	order	xcomp
+order	food	dobj
+waiting	is	aux
+businessman	A	det

@@ -1,0 +1,17 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+root	ROOT	running
+advmod	fast	very
+advmod	running	fast
+case	woman	with
+det	woman	a
+amod	woman	blond
+nmod:with	running	woman
+acl	woman	running
+case	him	after
+nmod:after	running	him
+case	background	in
+det	background	the
+nmod:in	running	background
+punct	running	.

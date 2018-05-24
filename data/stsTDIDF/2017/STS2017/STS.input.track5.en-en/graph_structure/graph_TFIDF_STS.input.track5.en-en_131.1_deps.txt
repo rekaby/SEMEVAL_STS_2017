@@ -1,0 +1,14 @@
+Subaru	a	det
+pull	ditch	nmod:out_of
+drying	men	nsubj
+ditch	a	det
+pull	Subaru	dobj
+ditch	road	nmod:along
+ditch	out	case
+road	mountain	compound
+drying	are	aux
+ROOT	drying	root
+men	Three	nummod
+drying	pull	xcomp
+drying	.	punct
+road	along	case

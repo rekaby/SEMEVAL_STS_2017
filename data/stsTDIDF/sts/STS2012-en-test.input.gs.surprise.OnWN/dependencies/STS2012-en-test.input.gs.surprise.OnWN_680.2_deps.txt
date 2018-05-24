@@ -1,0 +1,5 @@
+root	ROOT	impress
+cc	impress	or
+conj:or	impress	affect
+advmod	impress	deeply
+punct	impress	.

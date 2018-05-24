@@ -1,0 +1,10 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	fine	it
+cop	fine	's
+ccomp	think	fine
+mark	ask	to
+xcomp	fine	ask
+det	question	this
+dobj	ask	question
+punct	think	.

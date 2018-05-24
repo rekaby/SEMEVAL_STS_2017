@@ -1,0 +1,11 @@
+det	people	These
+nsubj	going	people
+aux	going	are
+root	ROOT	going
+mark	buy	to
+xcomp	going	buy
+det	materials	some
+dobj	buy	materials
+case	pho	for
+nmod:for	buy	pho
+punct	going	.

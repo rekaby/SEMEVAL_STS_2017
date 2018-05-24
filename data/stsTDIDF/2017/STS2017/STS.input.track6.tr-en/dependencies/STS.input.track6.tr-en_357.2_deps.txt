@@ -1,0 +1,9 @@
+det	women	The
+nummod	women	two
+nsubj	sitting	women
+aux	sitting	are
+root	ROOT	sitting
+case	bus	in
+det	bus	a
+nmod:in	sitting	bus
+punct	sitting	.

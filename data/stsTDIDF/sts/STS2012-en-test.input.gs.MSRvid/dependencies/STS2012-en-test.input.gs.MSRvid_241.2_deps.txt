@@ -1,0 +1,8 @@
+det	man	A
+nsubj	spreading	man
+aux	spreading	is
+root	ROOT	spreading
+dobj	spreading	butter
+case	bread	onto
+nmod:onto	spreading	bread
+punct	spreading	.

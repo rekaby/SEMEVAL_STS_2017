@@ -1,0 +1,14 @@
+nsubj	showed	They
+aux	showed	have
+advmod	showed	actually
+root	ROOT	showed
+det	trend	a
+amod	trend	cooling
+dobj	showed	trend
+case	decline	since
+case	decline	due
+mwe	due	to
+det	decline	the
+amod	decline	recent
+nmod:due_to	showed	decline
+punct	showed	.

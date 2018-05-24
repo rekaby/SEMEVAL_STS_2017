@@ -1,0 +1,15 @@
+det	association	the
+amod	association	international
+amod	association	atomic
+compound	association	energy
+nsubj	stated	association
+root	ROOT	stated
+mark	agreed	that
+nsubj	agreed	jordan
+aux	agreed	has
+ccomp	stated	agreed
+case	measures	to
+det	measures	the
+amod	measures	additional
+nmod:to	agreed	measures
+punct	stated	.

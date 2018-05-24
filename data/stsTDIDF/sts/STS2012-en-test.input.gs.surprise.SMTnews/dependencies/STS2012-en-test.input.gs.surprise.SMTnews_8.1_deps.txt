@@ -1,0 +1,13 @@
+nmod:poss	future	Iraq
+case	Iraq	's
+nsubj	depends	future
+root	ROOT	depends
+advmod	depends	directly
+case	fate	on
+det	fate	the
+nmod:on	depends	fate
+case	production	of
+amod	production	Iraqi
+compound	production	oil
+nmod:of	fate	production
+punct	depends	.

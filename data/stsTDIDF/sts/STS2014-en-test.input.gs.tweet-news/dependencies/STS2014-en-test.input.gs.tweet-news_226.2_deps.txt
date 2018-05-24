@@ -1,0 +1,6 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+compound	Muddle	Colorado?s
+compound	Muddle	Marijuana
+dep	Columnist	Muddle

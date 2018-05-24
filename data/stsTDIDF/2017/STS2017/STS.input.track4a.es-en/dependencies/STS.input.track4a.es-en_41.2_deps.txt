@@ -1,0 +1,11 @@
+nsubj	pull	Dogs
+root	ROOT	pull
+det	man	a
+dobj	pull	man
+case	sled	on
+det	sled	a
+nmod:on	pull	sled
+case	hill	down
+det	hill	a
+nmod:down	sled	hill
+punct	pull	.

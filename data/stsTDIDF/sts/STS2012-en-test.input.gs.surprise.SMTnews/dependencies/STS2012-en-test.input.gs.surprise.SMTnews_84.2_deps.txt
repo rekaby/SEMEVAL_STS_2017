@@ -1,0 +1,11 @@
+mark	Muslim	To
+cop	Muslim	be
+nsubj	things	Muslim
+cc	Muslim	and
+cop	Islamiste	be
+conj:and	Muslim	Islamiste
+cop	things	are
+nummod	things	two
+amod	things	different
+root	ROOT	things
+punct	things	.

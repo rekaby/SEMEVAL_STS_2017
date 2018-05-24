@@ -1,0 +1,16 @@
+root	ROOT	becasue
+det	terminals	the
+dobj	becasue	terminals
+nummod	terminals	4,5
+punct	becasue	,
+cc	becasue	and
+nsubjpass	connected	6
+auxpass	connected	are
+conj:and	becasue	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	positive
+nmod:to	connected	terminal
+case	battery	of
+det	battery	the
+nmod:of	terminal	battery

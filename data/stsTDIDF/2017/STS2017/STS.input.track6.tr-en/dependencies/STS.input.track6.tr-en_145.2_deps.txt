@@ -1,0 +1,12 @@
+det	work	The
+nummod	work	two
+amod	work	white
+amod	work	mosaic
+compound	work	worker
+root	ROOT	work
+case	floor	on
+det	floor	a
+amod	floor	detailed
+amod	floor	tiled
+nmod:on	work	floor
+punct	work	.

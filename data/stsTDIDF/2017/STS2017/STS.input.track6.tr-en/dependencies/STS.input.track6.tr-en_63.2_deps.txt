@@ -1,0 +1,10 @@
+nummod	women	Two
+root	ROOT	women
+cc	women	and
+nummod	stand	one
+compound	stand	child
+conj:and	women	stand
+case	shore	on
+det	shore	the
+nmod:on	women	shore
+punct	women	.

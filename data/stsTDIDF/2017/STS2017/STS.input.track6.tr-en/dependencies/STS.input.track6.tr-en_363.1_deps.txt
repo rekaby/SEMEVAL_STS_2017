@@ -1,0 +1,5 @@
+det	children	the
+nsubj	watch	children
+root	ROOT	watch
+det	tv	the
+dobj	watch	tv

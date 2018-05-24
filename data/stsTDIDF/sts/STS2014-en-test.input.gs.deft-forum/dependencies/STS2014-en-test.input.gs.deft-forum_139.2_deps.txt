@@ -1,0 +1,7 @@
+root	ROOT	Where
+dep	Where	is
+det	slant	the
+nsubj	is	slant
+case	Bush	against
+nmod:against	slant	Bush
+punct	is	?

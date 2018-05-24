@@ -1,0 +1,11 @@
+det	man	A
+amod	man	young
+nsubj	cheated	man
+nsubj	works	who
+acl:relcl	man	works
+aux	cheated	has
+root	ROOT	cheated
+case	bicycle	on
+det	bicycle	a
+nmod:on	cheated	bicycle
+punct	cheated	.

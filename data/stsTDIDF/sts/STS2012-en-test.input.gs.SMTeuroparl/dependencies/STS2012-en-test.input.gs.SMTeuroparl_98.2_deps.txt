@@ -1,0 +1,15 @@
+nsubj	suits	It
+root	ROOT	suits
+mark	implies	that
+det	Union	the
+compound	Union	European
+nsubj	implies	Union
+ccomp	suits	implies
+dobj	implies	itself
+cc	implies	and
+mark	do	that
+nsubj	do	she
+conj:and	implies	do
+nsubj	quickly	it
+advmod	do	quickly
+punct	suits	.

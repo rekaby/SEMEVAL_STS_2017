@@ -1,0 +1,8 @@
+nsubj	kills	Fire
+case	terminal	at
+amod	terminal	South
+amod	terminal	Korean
+compound	terminal	bus
+nmod:at	Fire	terminal
+root	ROOT	kills
+dobj	kills	5

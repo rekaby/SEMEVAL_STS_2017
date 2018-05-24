@@ -1,0 +1,7 @@
+compound	Ukraine	East
+root	ROOT	Ukraine
+nsubj	Ask	Separatists
+acl:relcl	Ukraine	Ask
+mark	Join	to
+xcomp	Ask	Join
+dobj	Join	Russia

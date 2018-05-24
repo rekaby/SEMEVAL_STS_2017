@@ -1,0 +1,13 @@
+cats	.	punct
+cats	has	conj:and
+puddle	a	det
+standing	puddle	nmod:in
+cats	standing	acl
+cats	Two	nummod
+has	ball	dobj
+ball	tennis	compound
+ball	yellow	amod
+puddle	in	case
+cats	and	cc
+ROOT	cats	root
+cats	,	punct

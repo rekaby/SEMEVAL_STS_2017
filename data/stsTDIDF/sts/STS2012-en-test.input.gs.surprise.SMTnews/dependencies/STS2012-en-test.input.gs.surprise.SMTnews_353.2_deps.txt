@@ -1,0 +1,12 @@
+nmod:poss	future	Iraq
+case	Iraq	's
+nsubjpass	linked	future
+auxpass	linked	is
+root	ROOT	linked
+case	production	to
+compound	production	oil
+nmod:to	linked	production
+case	country	of
+det	country	the
+nmod:of	production	country
+punct	linked	.

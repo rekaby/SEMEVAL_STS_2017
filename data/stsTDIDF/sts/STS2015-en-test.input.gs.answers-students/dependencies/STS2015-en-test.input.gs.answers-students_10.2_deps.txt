@@ -1,0 +1,14 @@
+det	battery	A
+nsubj	uses	battery
+root	ROOT	uses
+det	reaction	a
+amod	reaction	chemical
+dobj	uses	reaction
+mark	maintain	to
+advcl	uses	maintain
+amod	states	different
+amod	states	electrical
+dobj	maintain	states
+case	terminals	at
+det	terminals	the
+nmod:at	maintain	terminals

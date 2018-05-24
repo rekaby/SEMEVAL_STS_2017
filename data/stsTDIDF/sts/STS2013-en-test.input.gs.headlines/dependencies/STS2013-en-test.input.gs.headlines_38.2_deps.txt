@@ -1,0 +1,7 @@
+nsubj	edge	Stocks
+root	ROOT	edge
+advmod	edge	higher
+case	debt	after
+amod	debt	Greek
+nmod:after	edge	debt
+dobj	edge	deal

@@ -1,0 +1,9 @@
+nsubj	takes	Mursi
+csubj	president	takes
+dobj	takes	oath
+case	office	of
+nmod:of	oath	office
+punct	takes	,
+cop	president	becomes
+amod	president	Egyptian
+root	ROOT	president

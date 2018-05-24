@@ -1,0 +1,8 @@
+nsubj	breaks	White
+compound	breaks	diamond
+root	ROOT	breaks
+compound	auction	record
+case	Kong	in
+compound	Kong	Hong
+nmod:in	record	Kong
+dobj	breaks	auction

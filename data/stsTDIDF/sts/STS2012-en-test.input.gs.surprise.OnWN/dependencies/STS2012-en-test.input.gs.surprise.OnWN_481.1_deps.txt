@@ -1,0 +1,9 @@
+cop	factor	be
+det	factor	a
+root	ROOT	factor
+cc	factor	or
+conj:or	factor	play
+det	role	a
+dobj	play	role
+case	something	in
+nmod:in	play	something

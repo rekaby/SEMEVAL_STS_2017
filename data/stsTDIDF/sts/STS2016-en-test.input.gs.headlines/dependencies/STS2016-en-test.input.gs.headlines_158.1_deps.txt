@@ -1,0 +1,9 @@
+compound	Council	UN
+compound	Council	Security
+nsubj	hears	Council
+root	ROOT	hears
+compound	envoy	Yemen
+nmod:poss	final	envoy
+case	envoy	's
+dobj	hears	final
+punct	hears	...

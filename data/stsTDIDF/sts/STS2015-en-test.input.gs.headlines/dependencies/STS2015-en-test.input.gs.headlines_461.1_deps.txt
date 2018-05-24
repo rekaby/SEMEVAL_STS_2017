@@ -1,0 +1,8 @@
+compound	Airport	Hijacker
+acl	Hijacker	arrested
+case	lands	after
+compound	lands	plane
+nmod:after	arrested	lands
+case	Geneva	at
+nmod:at	lands	Geneva
+root	ROOT	Airport

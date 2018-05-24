@@ -1,0 +1,10 @@
+compound	Magazine	T
+root	ROOT	Magazine
+punct	Magazine	:
+compound	Style	Street
+dep	Magazine	Style
+case	Couture	from
+det	Couture	the
+nmod:from	Style	Couture
+case	Paris	in
+nmod:in	Couture	Paris

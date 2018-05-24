@@ -1,0 +1,11 @@
+nsubj	lying	Grey
+cc	Grey	and
+amod	kitten	white
+amod	kitten	domestic
+conj:and	Grey	kitten
+root	ROOT	lying
+compound:prt	lying	down
+case	desk	on
+det	desk	a
+nmod:on	lying	desk
+punct	lying	.

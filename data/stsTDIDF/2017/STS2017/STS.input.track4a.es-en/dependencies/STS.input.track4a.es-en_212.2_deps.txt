@@ -1,0 +1,10 @@
+det	street	The
+nsubj	empty	street
+cop	empty	is
+root	ROOT	empty
+cc	empty	and
+det	buildings	the
+nsubj	white	buildings
+cop	white	are
+conj:and	empty	white
+punct	empty	.

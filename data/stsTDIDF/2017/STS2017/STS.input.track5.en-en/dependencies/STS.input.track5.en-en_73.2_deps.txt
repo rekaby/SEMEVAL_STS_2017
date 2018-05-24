@@ -1,0 +1,15 @@
+det	boy	A
+amod	boy	young
+nsubj	sliding	boy
+case	hair	with
+nmod:poss	hair	his
+nmod:with	boy	hair
+acl	hair	standing
+compound:prt	standing	up
+punct	boy	,
+aux	sliding	is
+root	ROOT	sliding
+compound:prt	sliding	down
+det	slide	a
+amod	slide	blue
+dobj	sliding	slide

@@ -1,0 +1,9 @@
+root	ROOT	protect
+cc	protect	or
+conj:or	protect	strengthen
+case	sandbags	with
+nmod:with	protect	sandbags
+punct	protect	;
+parataxis	protect	stop
+compound:prt	stop	up
+punct	protect	.

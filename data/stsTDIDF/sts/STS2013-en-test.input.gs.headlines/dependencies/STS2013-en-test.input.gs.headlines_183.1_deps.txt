@@ -1,0 +1,8 @@
+compound	envoy	UN
+root	ROOT	envoy
+case	Turkey	in
+nmod:in	envoy	Turkey
+case	talks	for
+nmod:for	envoy	talks
+case	Syria	on
+nmod:on	talks	Syria

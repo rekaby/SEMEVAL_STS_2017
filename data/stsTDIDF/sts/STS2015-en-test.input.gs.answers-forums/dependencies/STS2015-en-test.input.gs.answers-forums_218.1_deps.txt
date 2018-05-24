@@ -1,0 +1,15 @@
+det	Question	The
+nsubj	Hinduism	Question
+cop	Hinduism	is
+punct	Hinduism	-LRB-
+case	Hinduism	from
+root	ROOT	Hinduism
+punct	Hinduism	-RRB-
+punct	Hinduism	;
+aux	exist	do
+nsubj	exist	you
+parataxis	Hinduism	exist
+case	pregnancy	because
+mwe	because	of
+nmod:because_of	exist	pregnancy
+punct	Hinduism	?

@@ -1,0 +1,5 @@
+compound	soldiers	Italy
+nsubj	die	soldiers
+root	ROOT	die
+case	Afghanistan	in
+nmod:in	die	Afghanistan

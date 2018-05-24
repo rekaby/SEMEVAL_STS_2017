@@ -1,0 +1,7 @@
+compound	point	Stock
+compound	point	index
+compound	point	futures
+root	ROOT	point
+case	start	to
+amod	start	lower
+nmod:to	point	start

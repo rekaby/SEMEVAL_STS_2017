@@ -1,0 +1,12 @@
+det	cat	A
+amod	cat	small
+amod	cat	white
+root	ROOT	cat
+case	eyes	with
+amod	eyes	glowing
+nmod:with	cat	eyes
+acl	eyes	standing
+case	chair	underneath
+det	chair	a
+nmod:underneath	standing	chair
+punct	cat	.

@@ -1,0 +1,15 @@
+nsubj	mathematicians	People
+nsubj	good	who
+cop	good	are
+acl:relcl	People	good
+case	philosophy	at
+det	philosophy	the
+nmod:at	good	philosophy
+case	mathematics	of
+nmod:of	philosophy	mathematics
+cop	mathematicians	are
+root	ROOT	mathematicians
+cc	mathematicians	and
+neg	philosophers	not
+conj:and	mathematicians	philosophers
+punct	mathematicians	.

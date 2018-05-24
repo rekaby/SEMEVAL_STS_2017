@@ -1,0 +1,11 @@
+nsubj	is	This
+root	ROOT	is
+dobj	think	what
+nsubj	think	we
+ccomp	is	think
+aux	bring	will
+ccomp	think	bring
+compound:prt	bring	in
+amod	customers	more
+dobj	bring	customers
+punct	is	.

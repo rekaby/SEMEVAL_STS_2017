@@ -1,0 +1,13 @@
+det	statement	the
+nsubj	specify	statement
+aux	specify	did
+neg	specify	not
+root	ROOT	specify
+advmod	many	how
+advmod	carry	many
+dep	carry	warheads
+det	missile	the
+nsubj	carry	missile
+aux	carry	can
+ccomp	specify	carry
+punct	specify	.

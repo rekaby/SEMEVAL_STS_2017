@@ -1,0 +1,15 @@
+holding	beach	nmod:on
+arms	by	case
+boys	Two	nummod
+holding	boys	nsubj
+holding	boy	dobj
+arms	and	cc
+holding	arms	nmod:by
+holding	are	aux
+arms	his	nmod:poss
+boy	another	det
+trunks	swimming	compound
+trunks	black	amod
+arms	legs	conj:and
+trunks	in	case
+boys	trunks	nmod:in

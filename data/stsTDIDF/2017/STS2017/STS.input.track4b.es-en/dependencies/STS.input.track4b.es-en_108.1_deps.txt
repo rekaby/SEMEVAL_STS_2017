@@ -1,0 +1,9 @@
+advmod	settled	Later
+punct	settled	,
+nsubj	settled	I
+root	ROOT	settled
+case	Mexican-American	on
+punct	Mexican-American	``
+nmod:on	settled	Mexican-American
+punct	settled	.
+punct	settled	''

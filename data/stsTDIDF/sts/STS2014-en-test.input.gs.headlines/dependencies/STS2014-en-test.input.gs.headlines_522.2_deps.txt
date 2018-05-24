@@ -1,0 +1,8 @@
+compound	XVI	Pope
+compound	XVI	Benedict
+nsubj	departs	XVI
+root	ROOT	departs
+dobj	departs	Vatican
+case	time	for
+amod	time	last
+nmod:for	departs	time

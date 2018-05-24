@@ -1,0 +1,10 @@
+det	puppy	The
+nsubj	tried	puppy
+root	ROOT	tried
+mark	get	to
+xcomp	tried	get
+case	tub	out
+mwe	out	of
+det	tub	the
+nmod:out_of	get	tub
+punct	tried	.

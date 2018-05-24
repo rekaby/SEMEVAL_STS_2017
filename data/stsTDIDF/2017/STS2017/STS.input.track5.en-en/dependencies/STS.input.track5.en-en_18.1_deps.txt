@@ -1,0 +1,8 @@
+det	dancing	A
+compound	dancing	girl
+root	ROOT	dancing
+case	beach	on
+det	beach	a
+amod	beach	sandy
+nmod:on	dancing	beach
+punct	dancing	.

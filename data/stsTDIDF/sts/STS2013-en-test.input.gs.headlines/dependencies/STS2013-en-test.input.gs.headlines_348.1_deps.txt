@@ -1,0 +1,7 @@
+nsubj	renews	AL
+root	ROOT	renews
+dobj	renews	condemnation
+case	violence	on
+nmod:poss	violence	Syria
+case	Syria	's
+nmod:on	condemnation	violence

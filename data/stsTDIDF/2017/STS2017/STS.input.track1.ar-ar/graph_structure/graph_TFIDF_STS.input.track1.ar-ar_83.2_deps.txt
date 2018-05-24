@@ -1,0 +1,6 @@
+see	boyfriend	dobj
+see	Girl	nsubj
+arts	martial	amod
+practicing	arts	dobj
+boyfriend	practicing	acl
+boyfriend	her	nmod:poss

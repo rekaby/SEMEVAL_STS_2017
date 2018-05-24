@@ -1,0 +1,5 @@
+compound	protest	Morsi
+compound	protest	supporters
+root	ROOT	protest
+case	Egypt	in
+nmod:in	protest	Egypt

@@ -1,0 +1,6 @@
+amod	politician	Japanese
+nsubj	apologizes	politician
+root	ROOT	apologizes
+case	comment	for
+compound	comment	sex
+nmod:for	apologizes	comment

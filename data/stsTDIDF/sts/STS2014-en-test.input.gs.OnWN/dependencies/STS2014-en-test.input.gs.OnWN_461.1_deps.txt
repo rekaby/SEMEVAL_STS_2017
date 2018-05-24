@@ -1,0 +1,8 @@
+advmod	cause	Literally
+root	ROOT	cause
+mark	become	to
+xcomp	cause	become
+xcomp	become	unable
+mark	see	to
+xcomp	become	see
+punct	cause	.

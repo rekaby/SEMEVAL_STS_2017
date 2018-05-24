@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	pours	woman
+root	ROOT	pours
+det	mixture	a
+dobj	pours	mixture
+case	bowl	into
+det	bowl	a
+nmod:into	pours	bowl
+cc	pours	and
+conj:and	pours	mixes
+dobj	mixes	it
+punct	pours	.

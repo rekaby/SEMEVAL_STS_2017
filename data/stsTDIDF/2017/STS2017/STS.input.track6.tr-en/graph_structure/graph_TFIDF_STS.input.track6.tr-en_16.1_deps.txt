@@ -1,0 +1,5 @@
+first	arrive	xcomp
+scene	at	case
+first	firefighters	nsubj
+arrive	scene	nmod:at
+firefighters	The	det

@@ -1,0 +1,6 @@
+nsubj	hold	Syrians
+root	ROOT	hold
+dobj	hold	solution
+case	Syria	to
+nmod:to	solution	Syria
+dobj	hold	crisis

@@ -1,0 +1,6 @@
+det	act	the
+nsubj	something	act
+case	testing	of
+nmod:of	act	testing
+root	ROOT	something
+punct	something	.

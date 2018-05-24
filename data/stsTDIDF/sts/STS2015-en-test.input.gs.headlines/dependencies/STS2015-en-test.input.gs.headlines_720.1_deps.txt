@@ -1,0 +1,8 @@
+compound	eligible	Detroit
+root	ROOT	eligible
+case	protection	for
+compound	protection	bankruptcy
+nmod:for	eligible	protection
+punct	eligible	:
+compound	judge	U.S.
+dep	eligible	judge

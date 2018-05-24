@@ -1,0 +1,9 @@
+compound	concerns	Hague
+punct	concerns	`
+root	ROOT	concerns
+case	conduct	over
+nmod:over	concerns	conduct
+punct	conduct	'
+case	election	of
+compound	election	Zimbabwe
+nmod:of	conduct	election

@@ -1,0 +1,9 @@
+root	ROOT	consider
+advmod	consider	again
+punct	consider	,
+advmod	view	usually
+case	view	with
+det	view	a
+nmod:with	consider	view
+mark	changing	to
+acl	view	changing

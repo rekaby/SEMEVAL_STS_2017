@@ -1,0 +1,7 @@
+compound	shares	Apple
+nsubj	hit	shares
+root	ROOT	hit
+advmod	hit	hard
+case	disappointment	on
+compound	disappointment	iPhone
+nmod:on	hit	disappointment

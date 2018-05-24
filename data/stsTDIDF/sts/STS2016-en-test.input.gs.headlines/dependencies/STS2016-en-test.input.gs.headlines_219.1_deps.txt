@@ -1,0 +1,9 @@
+nsubj	abandoned	Who
+root	ROOT	abandoned
+nummod	planes	3
+compound	planes	Boeing
+dobj	abandoned	planes
+case	airport	at
+det	airport	the
+nmod:at	abandoned	airport
+punct	abandoned	?

@@ -1,0 +1,6 @@
+nummod	teams	Two
+nsubj	playing	teams
+aux	playing	are
+root	ROOT	playing
+dobj	playing	soccer
+punct	playing	.

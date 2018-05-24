@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+nsubj	sits	girl
+case	pink	in
+nmod:in	girl	pink
+root	ROOT	sits
+advmod	sits	quietly
+xcomp	sits	reading
+det	book	a
+dobj	reading	book
+punct	sits	.

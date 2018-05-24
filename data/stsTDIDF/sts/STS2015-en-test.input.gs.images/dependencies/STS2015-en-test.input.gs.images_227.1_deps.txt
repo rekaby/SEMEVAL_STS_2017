@@ -1,0 +1,9 @@
+nummod	people	Three
+nsubj	stand	people
+root	ROOT	stand
+case	structure	in
+det	structure	an
+amod	structure	outdoor
+compound	structure	glass
+nmod:in	stand	structure
+punct	stand	.

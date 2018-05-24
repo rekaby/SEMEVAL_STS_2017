@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	making	of
+acl	act	making
+compound:prt	making	up
+nmod:poss	mind	your
+dobj	making	mind
+case	something	about
+nmod:about	making	something
+punct	act	.

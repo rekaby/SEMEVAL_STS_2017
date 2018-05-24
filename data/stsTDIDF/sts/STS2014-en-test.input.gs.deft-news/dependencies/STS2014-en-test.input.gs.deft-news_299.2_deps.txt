@@ -1,0 +1,11 @@
+advmod	korea	north
+nsubj	act	korea
+aux	act	should
+neg	act	not
+root	ROOT	act
+advmod	act	further
+mark	aggravate	to
+xcomp	act	aggravate
+det	situation	the
+dobj	aggravate	situation
+punct	act	.

@@ -1,0 +1,11 @@
+compound	Yellen	Janet
+nsubj	become	Yellen
+mark	become	to
+root	ROOT	become
+amod	woman	first
+xcomp	become	woman
+mark	lead	to
+xcomp	become	lead
+det	Reserve	the
+compound	Reserve	Federal
+dobj	lead	Reserve

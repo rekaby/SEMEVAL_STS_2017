@@ -1,0 +1,15 @@
+det	similarity	The
+nsubj	measures	similarity
+root	ROOT	measures
+advmod	identify	largely
+xcomp	measures	identify
+det	efficiency	the
+compound	efficiency	retrieval
+dobj	identify	efficiency
+case	system	of
+det	system	a
+amod	system	particular
+compound	system	information
+compound	system	retrieval
+nmod:of	efficiency	system
+punct	measures	.

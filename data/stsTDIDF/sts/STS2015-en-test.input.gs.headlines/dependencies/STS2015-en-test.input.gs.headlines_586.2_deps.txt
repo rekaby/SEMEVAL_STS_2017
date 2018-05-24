@@ -1,0 +1,10 @@
+nsubj	give	Ukraine
+aux	give	will
+neg	give	not
+root	ROOT	give
+punct	give	`
+det	inch	an
+dobj	give	inch
+punct	inch	'
+case	Crimea	over
+nmod:over	give	Crimea

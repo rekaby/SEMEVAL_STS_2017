@@ -1,0 +1,11 @@
+det	cat	A
+amod	cat	gray
+nsubj	looks	cat
+case	eyes	with
+amod	eyes	green
+nmod:with	cat	eyes
+root	ROOT	looks
+case	camera	at
+det	camera	the
+nmod:at	looks	camera
+punct	looks	.

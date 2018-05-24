@@ -1,0 +1,4 @@
+waiting	stop	nmod:on
+stop	on	case
+stop	bus	compound
+waiting	People	nsubj

@@ -1,0 +1,10 @@
+compound	embassy	Vatican
+nsubj	hit	embassy
+case	Syria	in
+nmod:in	embassy	Syria
+root	ROOT	hit
+case	mortar	by
+nmod:by	hit	mortar
+punct	hit	;
+neg	injuries	no
+dep	hit	injuries

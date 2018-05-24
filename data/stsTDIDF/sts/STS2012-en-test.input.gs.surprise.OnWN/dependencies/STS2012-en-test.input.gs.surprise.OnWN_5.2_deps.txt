@@ -1,0 +1,10 @@
+det	porch	a
+root	ROOT	porch
+nsubj	resembles	that
+acl:relcl	porch	resembles
+det	deck	the
+dobj	resembles	deck
+case	ship	on
+det	ship	a
+nmod:on	deck	ship
+punct	porch	.

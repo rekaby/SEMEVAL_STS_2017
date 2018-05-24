@@ -1,0 +1,12 @@
+nsubj	appeared	Kaichen
+root	ROOT	appeared
+nmod:tmod	appeared	Wednesday
+case	court	in
+amod	court	federal
+nmod:in	appeared	court
+case	charges	on
+nummod	charges	two
+compound	charges	bank
+compound	charges	robbery
+nmod:on	court	charges
+punct	appeared	.

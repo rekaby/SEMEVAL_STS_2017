@@ -1,0 +1,16 @@
+det	elevation	a
+amod	elevation	natural
+root	ROOT	elevation
+punct	one	-LRB-
+advmod	one	especially
+det	one	a
+amod	one	rocky
+dep	elevation	one
+nsubj	juts	that
+acl:relcl	one	juts
+compound:prt	juts	out
+case	sea	into
+det	sea	the
+nmod:into	juts	sea
+punct	one	-RRB-
+punct	elevation	.

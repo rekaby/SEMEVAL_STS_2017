@@ -1,0 +1,10 @@
+compound	Review	Restaurant
+root	ROOT	Review
+punct	Review	:
+compound	Club	Arlington
+dep	Review	Club
+case	Side	on
+det	Side	the
+compound	Side	Upper
+compound	Side	East
+nmod:on	Club	Side

@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+case	planning	of
+nmod:of	act	planning
+cc	act	or
+conj:or	act	deliberating

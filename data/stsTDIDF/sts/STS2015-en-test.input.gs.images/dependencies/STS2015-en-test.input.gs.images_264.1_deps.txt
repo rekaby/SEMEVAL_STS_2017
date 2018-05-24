@@ -1,0 +1,10 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	playing
+case	ball	with
+det	ball	a
+nmod:with	playing	ball
+case	puddle	in
+det	puddle	a
+nmod:in	playing	puddle
+punct	dogs	.

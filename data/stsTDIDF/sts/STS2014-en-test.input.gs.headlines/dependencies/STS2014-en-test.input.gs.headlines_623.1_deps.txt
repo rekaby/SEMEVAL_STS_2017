@@ -1,0 +1,8 @@
+compound	captain	Costa
+compound	captain	Concordia
+root	ROOT	captain
+mark	tried	to
+auxpass	tried	be
+acl	captain	tried
+case	manslaughter	for
+nmod:for	tried	manslaughter

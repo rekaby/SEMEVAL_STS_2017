@@ -1,0 +1,8 @@
+root	ROOT	prevent
+det	progress	the
+dobj	prevent	progress
+cc	progress	or
+amod	movement	free
+conj:or	progress	movement
+acl	progress	of
+punct	prevent	.

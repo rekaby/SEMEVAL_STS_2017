@@ -1,0 +1,11 @@
+det	man	The
+nsubj	put	man
+aux	put	has
+root	ROOT	put
+case	pads	on
+compound	pads	elbow
+nmod:on	put	pads
+cc	pads	and
+det	helmet	a
+conj:and	pads	helmet
+punct	put	.

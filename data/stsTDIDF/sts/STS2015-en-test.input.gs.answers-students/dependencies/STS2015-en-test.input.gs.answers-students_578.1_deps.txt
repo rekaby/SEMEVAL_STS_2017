@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+advmod	is	always
+det	difference	a
+nsubj	is	difference
+case	voltage	in
+nmod:in	difference	voltage
+case	terminals	between
+nummod	terminals	two
+compound	terminals	battery
+nmod:between	voltage	terminals
+punct	is	.

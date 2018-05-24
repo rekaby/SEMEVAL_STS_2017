@@ -1,0 +1,8 @@
+nummod	people	Three
+nsubj	smiling	people
+aux	smiling	are
+root	ROOT	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+punct	smiling	.

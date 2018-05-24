@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	waving
+nmod:poss	hand	his
+dobj	waving	hand
+mark	giving	while
+advcl	waving	giving
+det	speech	a
+dobj	giving	speech
+punct	man	.

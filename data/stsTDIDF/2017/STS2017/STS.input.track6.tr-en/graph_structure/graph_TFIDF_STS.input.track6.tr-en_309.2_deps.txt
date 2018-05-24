@@ -1,0 +1,6 @@
+city	at	case
+looks	telescope	nmod:with
+telescope	a	det
+telescope	with	case
+looks	man	nsubj
+looks	city	nmod:at

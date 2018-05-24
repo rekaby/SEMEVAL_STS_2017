@@ -1,0 +1,6 @@
+compound	breaks	Clarence
+compound	breaks	Thomas
+nsubj	silence	breaks
+root	ROOT	silence
+case	bench	on
+nmod:on	silence	bench

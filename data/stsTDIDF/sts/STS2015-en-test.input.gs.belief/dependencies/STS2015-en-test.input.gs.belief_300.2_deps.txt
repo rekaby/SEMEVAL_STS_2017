@@ -1,0 +1,14 @@
+cc	believe	but
+case	christian	as
+det	christian	a
+nmod:as	believe	christian
+punct	believe	,
+nsubj	believe	i
+root	ROOT	believe
+dobj	tells	what
+nmod:poss	word	god
+case	god	's
+nsubj	tells	word
+ccomp	believe	tells
+dobj	tells	me
+punct	believe	.

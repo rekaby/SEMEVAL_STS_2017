@@ -1,0 +1,10 @@
+amod	Richardson	Former
+compound	Richardson	New
+compound	Richardson	Mexico
+compound	Richardson	Gov.
+nsubj	ban	Richardson
+acl	Richardson	pressing
+amod	Korean	North
+amod	test	Korean
+dobj	pressing	test
+root	ROOT	ban

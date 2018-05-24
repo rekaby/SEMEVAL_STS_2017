@@ -1,0 +1,9 @@
+compound	troops	NATO
+nsubj	killed	troops
+root	ROOT	killed
+case	attack	in
+compound	attack	Afghan
+punct	attack	`
+compound	attack	insider
+nmod:in	killed	attack
+punct	killed	'

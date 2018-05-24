@@ -1,0 +1,8 @@
+root	ROOT	Pakistan
+mark	release	to
+acl	Pakistan	release
+amod	commander	senior
+compound	commander	Taliban
+dobj	release	commander
+case	Saturday	on
+nmod:on	release	Saturday

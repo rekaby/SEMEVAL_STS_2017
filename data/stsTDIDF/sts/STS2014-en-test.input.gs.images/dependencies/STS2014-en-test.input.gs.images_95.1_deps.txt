@@ -1,0 +1,7 @@
+det	train	A
+compound	train	passenger
+root	ROOT	train
+case	snow	in
+det	snow	the
+nmod:in	train	snow
+punct	train	.

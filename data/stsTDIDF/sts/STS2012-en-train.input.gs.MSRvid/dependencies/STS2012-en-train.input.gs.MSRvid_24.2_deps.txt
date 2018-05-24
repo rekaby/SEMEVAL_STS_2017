@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+case	onion	through
+det	onion	an
+nmod:through	cutting	onion
+punct	cutting	.

@@ -1,0 +1,11 @@
+nmod:poss	growth	China
+case	China	's
+amod	growth	economic
+nsubj	rebounds	growth
+root	ROOT	rebounds
+case	%	to
+nummod	%	7.8
+nmod:to	rebounds	%
+case	quarter	in
+amod	quarter	latest
+nmod:in	%	quarter

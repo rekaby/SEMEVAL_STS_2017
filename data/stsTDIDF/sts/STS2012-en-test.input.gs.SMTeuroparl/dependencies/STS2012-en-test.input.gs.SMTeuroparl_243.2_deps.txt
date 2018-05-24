@@ -1,0 +1,10 @@
+nsubj	parting	Others
+cop	parting	are
+root	ROOT	parting
+advmod	parting	unfortunately
+case	rancune	because
+mwe	because	of
+det	rancune	a
+nmod:because_of	parting	rancune
+acl	rancune	gained
+punct	parting	.

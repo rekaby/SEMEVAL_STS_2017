@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+case	expelling	of
+nmod:of	act	expelling
+cc	expelling	or
+conj:or	expelling	projecting
+cc	expelling	or
+conj:or	expelling	ejecting
+punct	act	.

@@ -1,0 +1,12 @@
+det	unit	a
+compound	unit	language
+root	ROOT	unit
+case	which	by
+nmod:agent	known	which
+det	person	a
+nsubjpass	known	person
+cc	person	or
+conj:or	person	thing
+auxpass	known	is
+acl:relcl	unit	known
+punct	unit	;

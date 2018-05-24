@@ -1,0 +1,9 @@
+nsubj	captures	US
+root	ROOT	captures
+compound	leader	al-Qaeda
+dobj	captures	leader
+cc	captures	but
+conj:but	captures	fails
+case	Somalia	in
+nmod:in	fails	Somalia
+dobj	captures	attack

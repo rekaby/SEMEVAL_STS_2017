@@ -1,0 +1,17 @@
+nmod:poss	shares	Its
+nsubj	jumped	shares
+root	ROOT	jumped
+case	$	to
+nmod:to	jumped	$
+nummod	$	54.50
+case	trading	in
+amod	trading	pre-open
+nmod:in	$	trading
+case	$	from
+nmod:from	jumped	$
+nummod	$	50.90
+case	close	at
+nmod:poss	close	Wednesday
+case	Wednesday	's
+nmod:at	$	close
+punct	jumped	.

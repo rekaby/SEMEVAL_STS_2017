@@ -1,0 +1,12 @@
+compound	Armstrong	Lance
+root	ROOT	Armstrong
+punct	Admits	-LSB-
+advmod	Admits	Finally
+punct	Admits	-RSB-
+dep	Armstrong	Admits
+dobj	Admits	Doping
+punct	Admits	,
+dep	Admits	Says
+nsubj	Testify	He
+aux	Testify	Will
+ccomp	Says	Testify

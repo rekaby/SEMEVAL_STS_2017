@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	rollerblading
+case	bar	on
+det	bar	a
+compound	bar	metal
+nmod:on	rollerblading	bar
+punct	man	.

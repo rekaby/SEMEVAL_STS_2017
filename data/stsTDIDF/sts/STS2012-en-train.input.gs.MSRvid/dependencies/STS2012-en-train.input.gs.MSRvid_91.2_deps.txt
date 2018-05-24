@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	eating	woman
+aux	eating	is
+root	ROOT	eating
+det	cupcake	a
+dobj	eating	cupcake
+punct	eating	.

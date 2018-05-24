@@ -1,0 +1,6 @@
+surrounded	by	nmod
+buildings	surrounded	acl
+buildings	with	case
+buildings	no	neg
+field	buildings	nmod:with
+women	field	nmod:in

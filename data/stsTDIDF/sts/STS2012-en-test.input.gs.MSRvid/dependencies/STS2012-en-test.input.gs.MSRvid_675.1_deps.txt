@@ -1,0 +1,12 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	pieces
+case	butter	of
+nmod:of	pieces	butter
+case	bowl	into
+det	bowl	a
+amod	bowl	mixing
+nmod:into	cutting	bowl
+punct	cutting	.

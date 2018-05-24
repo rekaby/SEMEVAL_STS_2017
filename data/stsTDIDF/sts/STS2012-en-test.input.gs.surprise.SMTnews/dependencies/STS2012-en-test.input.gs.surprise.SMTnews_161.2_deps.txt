@@ -1,0 +1,16 @@
+nsubj	believed	Tocqueville
+root	ROOT	believed
+mark	oppose	that
+case	term	in
+det	term	the
+amod	term	long
+nmod:in	oppose	term
+punct	oppose	,
+nsubj	oppose	nothing
+aux	oppose	can
+ccomp	believed	oppose
+advmod	oppose	really
+case	trend	to
+det	trend	this
+nmod:to	oppose	trend
+punct	believed	.

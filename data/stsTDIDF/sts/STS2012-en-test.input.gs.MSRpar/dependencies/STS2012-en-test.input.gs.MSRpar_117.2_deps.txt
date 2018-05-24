@@ -1,0 +1,11 @@
+nsubj	went	Tickets
+punct	Tickets	,
+amod	Tickets	available
+case	Ticketmaster	through
+nmod:through	available	Ticketmaster
+punct	Tickets	,
+root	ROOT	went
+case	sale	on
+nmod:on	went	sale
+nmod:tmod	went	yesterday
+punct	went	.

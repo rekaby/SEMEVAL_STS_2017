@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	brindle
+root	ROOT	dogs
+acl	dogs	running
+case	grass	in
+det	grass	the
+nmod:in	running	grass
+punct	dogs	.

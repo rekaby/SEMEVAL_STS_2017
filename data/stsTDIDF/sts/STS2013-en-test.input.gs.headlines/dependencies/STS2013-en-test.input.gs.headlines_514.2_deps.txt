@@ -1,0 +1,13 @@
+dep	finds	Insight
+punct	Insight	:
+compound	chief	U.N.
+nsubj	finds	chief
+root	ROOT	finds
+nmod:poss	voice	his
+dobj	finds	voice
+punct	finds	,
+cc	finds	but
+conj:but	finds	remains
+xcomp	remains	cautious
+case	China	on
+nmod:on	cautious	China

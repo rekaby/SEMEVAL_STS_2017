@@ -1,0 +1,8 @@
+nsubj	watching	They
+aux	watching	are
+root	ROOT	watching
+nmod:poss	play	their
+amod	play	favorite
+compound	play	team
+dobj	watching	play
+punct	watching	.

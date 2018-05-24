@@ -1,0 +1,12 @@
+nummod	girls	Two
+nsubj	pants	girls
+cop	pants	are
+case	pants	in
+compound	pants	pajama
+root	ROOT	pants
+cc	pants	and
+conj:and	pants	appear
+mark	dancing	to
+cop	dancing	be
+xcomp	appear	dancing
+punct	pants	.

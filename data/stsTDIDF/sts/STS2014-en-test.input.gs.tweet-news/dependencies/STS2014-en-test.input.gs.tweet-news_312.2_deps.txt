@@ -1,0 +1,8 @@
+compound	Restrictions	Hospitals
+compound	Restrictions	Place
+root	ROOT	Restrictions
+case	Visitors	on
+nmod:on	Restrictions	Visitors
+case	Patients	of
+compound	Patients	Flu
+nmod:of	Visitors	Patients

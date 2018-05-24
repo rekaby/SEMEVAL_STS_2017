@@ -1,0 +1,8 @@
+det	child	A
+nsubj	scoops	child
+root	ROOT	scoops
+dobj	scoops	dirt
+case	bucket	into
+det	bucket	a
+nmod:into	scoops	bucket
+punct	scoops	.

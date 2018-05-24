@@ -1,0 +1,11 @@
+compound	b	bulb
+nsubjpass	contained	b
+cc	b	and
+compound	c	bulb
+conj:and	b	c
+auxpass	contained	are
+root	ROOT	contained
+case	path	within
+det	path	a
+amod	path	closed
+nmod:within	contained	path

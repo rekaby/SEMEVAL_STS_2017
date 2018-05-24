@@ -1,0 +1,10 @@
+det	man	An
+amod	man	old
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+case	table	on
+det	table	a
+compound	table	dinner
+nmod:on	man	table
+punct	man	.

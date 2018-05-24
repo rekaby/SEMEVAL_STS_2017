@@ -1,0 +1,8 @@
+det	dogs	The
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	desert	in
+det	desert	the
+nmod:in	running	desert
+punct	running	.

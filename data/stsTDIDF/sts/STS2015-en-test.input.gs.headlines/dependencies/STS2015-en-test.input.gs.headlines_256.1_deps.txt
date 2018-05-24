@@ -1,0 +1,7 @@
+amod	lawmakers	Russian
+nsubj	pass	lawmakers
+root	ROOT	pass
+amod	bill	new
+dobj	pass	bill
+acl	bill	restricting
+dobj	restricting	Internet

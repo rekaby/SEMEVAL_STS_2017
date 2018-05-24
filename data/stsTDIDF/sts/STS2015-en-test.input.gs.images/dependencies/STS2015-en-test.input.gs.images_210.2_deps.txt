@@ -1,0 +1,7 @@
+nummod	dolphins	Two
+nsubj	jumping	dolphins
+root	ROOT	jumping
+case	water	into
+det	water	the
+nmod:into	jumping	water
+punct	jumping	.

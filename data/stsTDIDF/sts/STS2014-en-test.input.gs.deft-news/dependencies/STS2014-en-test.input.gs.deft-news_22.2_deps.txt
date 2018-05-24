@@ -1,0 +1,7 @@
+nsubjpass	known	methamphetamine
+auxpass	known	is
+advmod	known	also
+root	ROOT	known
+case	ice	as
+nmod:as	known	ice
+punct	known	.

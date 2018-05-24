@@ -1,0 +1,16 @@
+advmod	repair	How
+aux	repair	can
+nsubj	repair	I
+csubj	ripped	repair
+det	bar	a
+compound	bar	towel
+dobj	repair	bar
+case	end	with
+nummod	end	one
+nmod:with	repair	end
+root	ROOT	ripped
+case	wall	out
+mwe	out	of
+det	wall	the
+nmod:out_of	ripped	wall
+punct	ripped	?

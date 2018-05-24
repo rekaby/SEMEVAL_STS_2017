@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	going	woman
+aux	going	is
+root	ROOT	going
+case	walk	on
+det	walk	a
+nmod:on	going	walk
+case	dog	with
+nmod:poss	dog	her
+nmod:with	walk	dog
+punct	going	.

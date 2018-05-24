@@ -1,0 +1,10 @@
+nummod	people	Two
+nsubj	sit	people
+root	ROOT	sit
+case	dock	on
+det	dock	a
+nmod:on	sit	dock
+case	water	near
+det	water	the
+nmod:near	dock	water
+punct	sit	.

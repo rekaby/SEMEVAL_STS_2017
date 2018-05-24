@@ -1,0 +1,13 @@
+det	reasons	The
+amod	reasons	legal
+nsubjpass	described	reasons
+advmod	unionize	why
+amod	employees	public
+nsubj	unionize	employees
+aux	unionize	can
+csubjpass	described	unionize
+aux	described	have
+auxpass	described	been
+advmod	described	elsewhere
+root	ROOT	described
+punct	described	.

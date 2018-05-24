@@ -1,0 +1,19 @@
+det	Index	The
+amod	Index	technology-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	<	Index
+root	ROOT	<
+punct	<	.-7) nsubj(climbed-3, IXIC
+advmod	climbed	>
+root	ROOT	climbed
+nummod	points	19.11
+dobj	climbed	points
+punct	points	,
+cc	points	or
+nummod	percent	1.2
+conj:or	points	percent
+punct	climbed	,
+case	1,615.02	to
+nmod:to	climbed	1,615.02
+punct	climbed	.

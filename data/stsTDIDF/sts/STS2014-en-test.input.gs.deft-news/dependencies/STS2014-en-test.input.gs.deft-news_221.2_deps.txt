@@ -1,0 +1,11 @@
+nummod	percent	80
+nsubj	supports	percent
+case	party	of
+det	party	the
+compound	party	opposition
+amod	party	democratic
+nmod:of	percent	party
+root	ROOT	supports
+amod	sanctions	economic
+dobj	supports	sanctions
+punct	supports	.

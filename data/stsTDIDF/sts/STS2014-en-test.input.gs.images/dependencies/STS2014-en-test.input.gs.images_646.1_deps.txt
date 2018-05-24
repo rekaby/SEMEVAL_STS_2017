@@ -1,0 +1,8 @@
+amod	side	Left
+root	ROOT	side
+case	engine	of
+det	engine	a
+compound	engine	silver
+compound	engine	train
+nmod:of	side	engine
+punct	side	.

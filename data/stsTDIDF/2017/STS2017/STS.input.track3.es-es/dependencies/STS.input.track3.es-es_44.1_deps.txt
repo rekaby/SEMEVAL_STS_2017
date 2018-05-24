@@ -1,0 +1,6 @@
+amod	girl	Little
+root	ROOT	girl
+acl	girl	playing
+case	doll	with
+nmod:poss	doll	her
+nmod:with	playing	doll

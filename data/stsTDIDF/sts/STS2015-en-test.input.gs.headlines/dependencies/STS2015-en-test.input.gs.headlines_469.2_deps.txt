@@ -1,0 +1,12 @@
+nmod:poss	court	Ukraine
+case	Ukraine	's
+amod	court	top
+nsubj	dismisses	court
+root	ROOT	dismisses
+nmod:poss	independence	Crimea
+case	Crimea	's
+dobj	dismisses	independence
+case	unconstitutional	as
+punct	unconstitutional	``
+advcl:as	dismisses	unconstitutional
+punct	dismisses	''

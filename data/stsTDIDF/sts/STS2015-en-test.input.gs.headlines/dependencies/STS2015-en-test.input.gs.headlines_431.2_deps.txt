@@ -1,0 +1,7 @@
+nsubj	promises	Canada
+root	ROOT	promises
+dobj	promises	$
+nummod	$	5-million
+case	relief	in
+compound	relief	typhoon
+nmod:in	$	relief

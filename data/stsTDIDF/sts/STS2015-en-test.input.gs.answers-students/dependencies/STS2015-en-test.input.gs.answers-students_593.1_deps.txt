@@ -1,0 +1,14 @@
+root	ROOT	bulb
+nsubj	path	a
+cc	a	and
+compound	c	bulb
+conj:and	a	c
+cop	path	are
+neg	path	not
+case	path	on
+det	path	the
+amod	path	same
+acl:relcl	bulb	path
+case	B	as
+compound	B	bulb
+nmod:as	path	B

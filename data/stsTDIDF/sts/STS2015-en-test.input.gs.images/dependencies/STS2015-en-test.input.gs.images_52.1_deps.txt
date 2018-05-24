@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	young
+nsubj	sits	girl
+case	glasses	with
+nmod:with	girl	glasses
+root	ROOT	sits
+cc	sits	and
+conj:and	sits	holds
+nummod	flags	two
+amod	flags	American
+dobj	holds	flags
+punct	sits	.

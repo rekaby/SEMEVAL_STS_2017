@@ -1,0 +1,5 @@
+compound	chips	Bloomberg
+root	ROOT	chips
+case	billion	in
+det	billion	a
+nmod:in	chips	billion

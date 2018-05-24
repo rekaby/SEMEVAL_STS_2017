@@ -1,0 +1,8 @@
+compound	polls	Exit
+nsubj	suggest	polls
+root	ROOT	suggest
+compound	ally	Putin
+nsubj	wins	ally
+ccomp	suggest	wins
+compound	vote	Moscow
+dobj	wins	vote

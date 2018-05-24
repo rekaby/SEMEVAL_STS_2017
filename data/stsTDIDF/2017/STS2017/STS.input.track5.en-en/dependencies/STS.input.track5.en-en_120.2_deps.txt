@@ -1,0 +1,6 @@
+det	children	The
+nsubj	want	children
+root	ROOT	want
+mark	swim	to
+xcomp	want	swim
+punct	want	.

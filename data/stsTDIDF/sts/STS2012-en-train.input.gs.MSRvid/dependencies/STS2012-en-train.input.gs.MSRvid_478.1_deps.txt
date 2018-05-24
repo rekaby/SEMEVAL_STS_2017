@@ -1,0 +1,10 @@
+det	man	A
+nsubj	opening	man
+aux	opening	is
+root	ROOT	opening
+det	box	a
+dobj	opening	box
+xcomp	opening	using
+det	knife	a
+dobj	using	knife
+punct	opening	.

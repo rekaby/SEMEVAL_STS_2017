@@ -1,0 +1,14 @@
+nsubj	denied	Ernst
+cc	Ernst	&
+conj:&	Ernst	Young
+aux	denied	has
+root	ROOT	denied
+det	wrongdoing	any
+dobj	denied	wrongdoing
+cc	denied	and
+conj:and	denied	plans
+mark	fight	to
+xcomp	plans	fight
+det	allegations	the
+dobj	fight	allegations
+punct	denied	.

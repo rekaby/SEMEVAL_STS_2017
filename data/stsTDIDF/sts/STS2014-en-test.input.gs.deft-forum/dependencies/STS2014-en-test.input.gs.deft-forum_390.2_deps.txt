@@ -1,0 +1,7 @@
+root	ROOT	LOL
+punct	LOL	,
+nsubj	ignorant	you
+cop	ignorant	are
+advmod	ignorant	so
+acl:relcl	LOL	ignorant
+punct	LOL	.

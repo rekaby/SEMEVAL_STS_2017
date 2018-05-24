@@ -1,0 +1,11 @@
+nsubj	releases	#NRA
+root	ROOT	releases
+compound	app	target
+compound	app	shooting
+dobj	releases	app
+punct	releases	,
+nsubj	wait	hmm
+dep	releases	wait
+det	sec	a
+dobj	wait	sec
+punct	releases	.-11) root(ROOT-0, .

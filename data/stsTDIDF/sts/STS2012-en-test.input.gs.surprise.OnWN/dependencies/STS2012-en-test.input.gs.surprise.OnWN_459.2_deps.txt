@@ -1,0 +1,14 @@
+det	termination	the
+root	ROOT	termination
+cc	termination	or
+conj:or	termination	disintegration
+case	relationship	of
+det	relationship	a
+nmod:of	termination	relationship
+punct	termination	-LRB-
+case	persons	between
+conj	-LRB-	persons
+cc	persons	or
+conj:or	persons	nations
+punct	persons	-RRB-
+punct	-LRB-	.

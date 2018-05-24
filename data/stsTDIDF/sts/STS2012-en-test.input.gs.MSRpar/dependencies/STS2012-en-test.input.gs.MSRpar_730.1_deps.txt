@@ -1,0 +1,13 @@
+case	Thursday	Through
+nmod:through	said	Thursday
+punct	said	,
+nsubj	said	Oracle
+root	ROOT	said
+compound	million	34.75
+nummod	shares	million
+compound	shares	PeopleSoft
+nsubjpass	tendered	shares
+aux	tendered	had
+auxpass	tendered	been
+ccomp	said	tendered
+punct	said	.

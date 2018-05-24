@@ -1,0 +1,6 @@
+nsubj	clash	Piers
+punct	Piers	,
+compound	clash	guest
+root	ROOT	clash
+case	AR-15s	over
+nmod:over	clash	AR-15s

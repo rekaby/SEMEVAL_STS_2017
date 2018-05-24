@@ -1,0 +1,14 @@
+det	territory	the
+root	ROOT	territory
+acl	territory	occupied
+case	one	by
+nmod:by	occupied	one
+case	districts	of
+det	districts	the
+compound	districts	constituent
+amod	districts	administrative
+nmod:of	one	districts
+case	nation	of
+det	nation	a
+nmod:of	districts	nation
+punct	territory	;

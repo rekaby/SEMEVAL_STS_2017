@@ -1,0 +1,16 @@
+nsubj	eat	Girl
+root	ROOT	eat
+det:predet	pasta	all
+det	pasta	the
+dobj	eat	pasta
+punct	eat	,
+aux	keep	do
+neg	keep	not
+dep	eat	keep
+dobj	keep	any
+case	it	of
+nmod:of	any	it
+case	friend	to
+nmod:poss	friend	her
+nmod:to	any	friend
+punct	eat	.

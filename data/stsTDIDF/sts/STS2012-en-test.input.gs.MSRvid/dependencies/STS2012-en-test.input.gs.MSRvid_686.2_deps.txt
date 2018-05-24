@@ -1,0 +1,8 @@
+det	man	A
+nsubj	pours	man
+root	ROOT	pours
+dobj	pours	cleaner
+case	sink	in
+nmod:poss	sink	his
+nmod:in	pours	sink
+punct	pours	.

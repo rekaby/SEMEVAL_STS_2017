@@ -1,0 +1,15 @@
+root	ROOT	Said
+compound	Burke	Mr.
+nsubj	Said	Burke
+punct	Said	:
+punct	Said	``
+nsubj	landing	It
+cop	landing	was
+det	landing	a
+compound	landing	textbook
+ccomp	Said	landing
+acl	landing	considering
+det	circumstances	the
+dobj	considering	circumstances
+punct	Said	.
+punct	Said	''

@@ -1,0 +1,8 @@
+det	workers	The
+nsubj	volunteer	workers
+root	ROOT	volunteer
+mark	clean	to
+xcomp	volunteer	clean
+det	subway	the
+dobj	clean	subway
+punct	volunteer	.

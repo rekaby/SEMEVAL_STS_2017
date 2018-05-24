@@ -1,0 +1,10 @@
+det	woman	An
+amod	woman	older
+nsubj	had	woman
+root	ROOT	had
+det	cart	a
+dobj	had	cart
+amod	cart	full
+case	groceries	of
+nmod:of	full	groceries
+punct	had	.

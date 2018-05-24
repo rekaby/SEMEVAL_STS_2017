@@ -1,0 +1,8 @@
+compound	arrests	Saudi
+compound	arrests	Arabia
+root	ROOT	arrests
+acl	arrests	suspected
+dobj	suspected	militants
+case	links	with
+compound	links	al-Qaeda
+nmod:with	militants	links

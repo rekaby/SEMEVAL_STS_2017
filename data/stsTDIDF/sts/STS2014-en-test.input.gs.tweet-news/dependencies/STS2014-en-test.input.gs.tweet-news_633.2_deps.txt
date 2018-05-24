@@ -1,0 +1,14 @@
+compound	Review	Movie
+root	ROOT	Review
+punct	Review	:
+punct	Review	?-4) compound(Squad-2, Gangster
+root	ROOT	Squad
+punct	Squad	?-3) case(Penn-3, With
+compound	Penn	Sean
+root	ROOT	Penn
+punct	Penn	,
+compound	Gosling	Ryan
+conj:and	Penn	Gosling
+cc	Penn	and
+compound	Stone	Emma
+conj:and	Penn	Stone

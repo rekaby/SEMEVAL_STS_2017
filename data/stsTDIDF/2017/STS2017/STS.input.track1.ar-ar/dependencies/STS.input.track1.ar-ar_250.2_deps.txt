@@ -1,0 +1,10 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+case	house	in
+mwe	in	front
+mwe	in	of
+det	house	an
+amod	house	old
+nmod:in_front_of	walks	house
+dobj	walks	Garmtala

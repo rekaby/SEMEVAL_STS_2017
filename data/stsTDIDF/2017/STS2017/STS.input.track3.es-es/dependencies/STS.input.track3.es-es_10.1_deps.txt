@@ -1,0 +1,11 @@
+det	man	A
+nsubj	piling	man
+aux	piling	is
+root	ROOT	piling
+dobj	piling	groups
+case	rocks	of
+nmod:of	groups	rocks
+case	sea	by
+det	sea	the
+nmod:by	piling	sea
+punct	piling	.

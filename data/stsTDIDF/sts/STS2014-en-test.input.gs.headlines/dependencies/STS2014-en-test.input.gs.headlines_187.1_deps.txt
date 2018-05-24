@@ -1,0 +1,11 @@
+compound	protesters	ABVP
+nsubj	clash	protesters
+root	ROOT	clash
+case	police	with
+nmod:with	clash	police
+case	Mantar	at
+compound	Mantar	Jantar
+nmod:at	clash	Mantar
+punct	clash	,
+conj	clash	throw
+dobj	throw	stones

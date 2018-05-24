@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	feeds	woman
+root	ROOT	feeds
+det	animal	an
+dobj	feeds	animal
+case	hand	by
+nmod:by	feeds	hand
+punct	feeds	.

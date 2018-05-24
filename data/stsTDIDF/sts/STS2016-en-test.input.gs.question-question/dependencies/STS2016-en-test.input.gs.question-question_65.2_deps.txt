@@ -1,0 +1,12 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	I
+root	ROOT	remove
+det	layer	a
+amod	layer	thick
+dobj	remove	layer
+case	paint	of
+nmod:of	layer	paint
+case	tiles	from
+nmod:from	remove	tiles
+punct	remove	?

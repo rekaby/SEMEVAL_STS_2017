@@ -1,0 +1,10 @@
+amod	read	Good
+root	ROOT	read
+punct	read	...
+dep	read	Why
+det	Net	the
+dep	Why	Net
+dep	Net	grieves
+compound	Swartz	Aaron
+dep	grieves	Swartz
+punct	read	-

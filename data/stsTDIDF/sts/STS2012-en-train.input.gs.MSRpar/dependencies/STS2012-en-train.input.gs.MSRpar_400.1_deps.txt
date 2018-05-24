@@ -1,0 +1,17 @@
+compound	Hickenlooper	John
+nsubj	had	Hickenlooper
+root	ROOT	had
+nummod	percent	65
+dobj	had	percent
+case	vote	of
+det	vote	the
+nmod:of	percent	vote
+case	percent	to
+nummod	percent	35
+nmod:to	had	percent
+case	Mares	for
+compound	Mares	City
+compound	Mares	Auditor
+compound	Mares	Don
+nmod:for	percent	Mares
+punct	had	.

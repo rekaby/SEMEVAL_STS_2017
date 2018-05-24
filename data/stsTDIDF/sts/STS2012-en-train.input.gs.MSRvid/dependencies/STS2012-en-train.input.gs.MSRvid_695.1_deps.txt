@@ -1,0 +1,13 @@
+det	child	A
+nsubj	walking	child
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	street	the
+dobj	walking	street
+mark	pulls	as
+det	jeep	a
+nsubj	pulls	jeep
+advcl	walking	pulls
+compound:prt	pulls	up
+punct	walking	.

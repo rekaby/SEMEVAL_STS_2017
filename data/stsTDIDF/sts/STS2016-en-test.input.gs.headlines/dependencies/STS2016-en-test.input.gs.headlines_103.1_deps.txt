@@ -1,0 +1,7 @@
+amod	Women	Saudi
+root	ROOT	Women
+mark	Protest	To
+acl	Women	Protest
+mark	Driving	Against
+advcl	Protest	Driving
+dobj	Driving	Ban

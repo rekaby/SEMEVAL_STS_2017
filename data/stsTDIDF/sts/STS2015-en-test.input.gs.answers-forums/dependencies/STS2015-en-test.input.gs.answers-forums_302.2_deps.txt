@@ -1,0 +1,14 @@
+det	disadvantage	Another
+nsubj	is	disadvantage
+case	factor	of
+det	factor	the
+compound	factor	dew
+nmod:of	disadvantage	factor
+root	ROOT	is
+mark	makes	that
+nsubj	makes	it
+ccomp	is	makes
+xcomp	makes	hitting
+dobj	hitting	boundaries
+advmod	hitting	difficult
+punct	is	.

@@ -1,0 +1,7 @@
+shoulder	her	nmod:poss
+hair	orange	amod
+looking	shoulder	nmod:over
+shoulder	over	case
+looking	woman	nsubj
+shoulder	left	amod
+woman	hair	nmod:with

@@ -1,0 +1,4 @@
+floats	pool	nmod:in
+floats	girl	nsubj
+ROOT	floats	root
+floats	.	punct

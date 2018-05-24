@@ -1,0 +1,8 @@
+compound	Richie	Lionel
+nsubj	dancing	Richie
+aux	dancing	is
+root	ROOT	dancing
+case	ceiling	on
+det	ceiling	the
+nmod:on	dancing	ceiling
+punct	dancing	.

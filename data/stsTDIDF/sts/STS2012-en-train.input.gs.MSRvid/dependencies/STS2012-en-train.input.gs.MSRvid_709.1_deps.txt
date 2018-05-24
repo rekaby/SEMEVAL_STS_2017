@@ -1,0 +1,7 @@
+det	girls	The
+nsubj	danced	girls
+root	ROOT	danced
+case	stage	on
+det	stage	the
+nmod:on	danced	stage
+punct	danced	.

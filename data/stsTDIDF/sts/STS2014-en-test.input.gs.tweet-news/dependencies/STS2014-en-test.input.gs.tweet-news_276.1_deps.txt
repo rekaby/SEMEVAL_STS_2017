@@ -1,0 +1,6 @@
+compound	Korea	North
+nsubj	beats	Korea
+root	ROOT	beats
+compound	drums	war
+dobj	beats	drums
+punct	beats	...

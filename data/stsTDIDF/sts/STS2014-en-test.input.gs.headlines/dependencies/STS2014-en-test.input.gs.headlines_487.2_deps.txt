@@ -1,0 +1,7 @@
+amod	rains	Heavy
+nsubj	leave	rains
+root	ROOT	leave
+nummod	dead	18
+dobj	leave	dead
+case	Philippines	in
+nmod:in	dead	Philippines

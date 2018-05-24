@@ -1,0 +1,8 @@
+det	man	A
+nsubj	taking	man
+aux	taking	is
+root	ROOT	taking
+det	classes	some
+compound	classes	math
+dobj	taking	classes
+punct	taking	.

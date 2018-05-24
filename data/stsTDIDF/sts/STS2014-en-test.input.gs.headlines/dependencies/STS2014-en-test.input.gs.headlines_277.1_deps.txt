@@ -1,0 +1,8 @@
+compound	mark	South
+compound	mark	Africans
+compound	birthday	mark
+amod	birthday	ailing
+nmod:poss	birthday	Mandela
+case	Mandela	's
+amod	birthday	95th
+root	ROOT	birthday

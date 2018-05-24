@@ -1,0 +1,10 @@
+det	Note	The
+nmod:poss	Must-Reads	Note
+case	Note	's
+root	ROOT	Must-Reads
+case	May	for
+compound	May	Friday
+nmod:for	Must-Reads	May
+nummod	May	24
+punct	Must-Reads	,
+nummod	Must-Reads	2013

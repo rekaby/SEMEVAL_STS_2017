@@ -1,0 +1,10 @@
+root	ROOT	go
+conj:or	go	go
+conj:or	go	go
+case	campaign	on
+det	campaign	a
+nmod:on	go	campaign
+cc	go	or
+case	war	off
+case	war	to
+nmod:to	go	war

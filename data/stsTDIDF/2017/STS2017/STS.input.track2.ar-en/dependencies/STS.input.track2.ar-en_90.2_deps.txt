@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	standing
+case	crowd	in
+det	crowd	a
+nmod:in	standing	crowd
+case	people	of
+nmod:of	crowd	people
+case	Asia	in
+nmod:in	people	Asia
+punct	woman	.

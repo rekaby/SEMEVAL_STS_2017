@@ -1,0 +1,17 @@
+det	boy	The
+nsubj	has	boy
+acl	boy	wearing
+amod	trousers	black
+dobj	wearing	trousers
+cc	trousers	and
+amod	shirts	gray
+conj:and	trousers	shirts
+root	ROOT	has
+mark	set	to
+auxpass	set	be
+xcomp	has	set
+compound:prt	set	up
+case	father	for
+nmod:poss	father	his
+nmod:for	set	father
+punct	has	.

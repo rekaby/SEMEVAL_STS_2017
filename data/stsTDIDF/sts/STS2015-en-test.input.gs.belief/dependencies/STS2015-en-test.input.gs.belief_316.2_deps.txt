@@ -1,0 +1,10 @@
+nsubj	do	i
+aux	do	will
+root	ROOT	do
+advmod	daughter	so
+case	daughter	with
+nmod:poss	daughter	my
+nmod:with	do	daughter
+det	year	this
+nmod:tmod	daughter	year
+punct	do	...

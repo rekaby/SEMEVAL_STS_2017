@@ -1,0 +1,13 @@
+institution	educational	amod
+institution	in	case
+18-year-old	no	neg
+subject	intimidation	nmod:to
+intimidation	such	amod
+intimidation	and	cc
+institution	an	det
+subject	18-year-old	nsubj
+intimidation	to	case
+intimidation	vitriol	conj:and
+subject	But	cc
+intimidation	institution	nmod:in
+subject	should	aux

@@ -1,0 +1,8 @@
+amod	children	Young
+nsubj	splashing	children
+aux	splashing	are
+root	ROOT	splashing
+dobj	splashing	water
+case	themselves	between
+nmod:between	splashing	themselves
+punct	splashing	.

@@ -1,0 +1,14 @@
+det	key	The
+nsubj	is	key
+case	Programming	to
+compound	Programming	Dynamic
+nmod:to	key	Programming
+root	ROOT	is
+mark	find	to
+xcomp	is	find
+det	structure	the
+dobj	find	structure
+case	solutions	of
+amod	solutions	optimal
+nmod:of	structure	solutions
+punct	is	.

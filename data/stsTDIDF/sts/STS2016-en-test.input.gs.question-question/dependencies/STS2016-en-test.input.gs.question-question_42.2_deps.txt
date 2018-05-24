@@ -1,0 +1,13 @@
+advmod	lower	Why
+cop	lower	is
+nsubj	lower	interest
+case	MMA	on
+nmod:on	interest	MMA
+root	ROOT	lower
+case	US	in
+det	US	the
+nmod:in	lower	US
+case	Europe	than
+case	Europe	in
+nmod:in	lower	Europe
+punct	lower	?

@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	small
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	over
+det	pole	a
+amod	pole	horizontal
+dobj	jumping	pole
+punct	jumping	.

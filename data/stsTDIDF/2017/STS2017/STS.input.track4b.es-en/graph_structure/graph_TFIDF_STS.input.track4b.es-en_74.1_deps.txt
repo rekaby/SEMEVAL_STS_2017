@@ -1,0 +1,14 @@
+left	daughter	dobj
+Monk	Roseanna	compound
+left	should	aux
+left	n't	neg
+said	tone	nmod:in
+left	door	nmod:by
+tone	in	case
+tone	aggressive	amod
+said	left	ccomp
+said	Monk	nsubj
+tone	an	det
+door	by	case
+daughter	your	nmod:poss
+left	You	nsubj

@@ -1,0 +1,17 @@
+compound	murdoch	rupert
+nsubj	inherited	murdoch
+root	ROOT	inherited
+nmod:poss	father	his
+nmod:poss	ownership	father
+case	father	's
+dobj	inherited	ownership
+case	newspapers	of
+nummod	newspapers	two
+nmod:of	ownership	newspapers
+nmod	inherited	in
+det	u.k.	the
+dep	in	u.k.
+punct	australia	-LRB-
+appos	u.k.	australia
+punct	australia	-RRB-
+punct	inherited	.

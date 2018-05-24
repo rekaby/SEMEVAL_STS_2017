@@ -1,0 +1,12 @@
+compound	Korea	South
+nsubj	confirms	Korea
+root	ROOT	confirms
+mark	conducted	that
+compound	Korea	North
+nsubj	conducted	Korea
+aux	conducted	has
+ccomp	confirms	conducted
+amod	test	controversial
+amod	test	third
+amod	test	nuclear
+dobj	conducted	test

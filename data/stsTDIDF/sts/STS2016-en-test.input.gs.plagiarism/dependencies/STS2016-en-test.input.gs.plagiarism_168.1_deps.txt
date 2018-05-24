@@ -1,0 +1,13 @@
+amod	words	Single
+root	ROOT	words
+punct	words	,
+compound	phrases	keywords
+cc	keywords	and
+advmod	longer	occasionally
+conj:and	keywords	longer
+nsubjpass	used	phrases
+auxpass	used	are
+acl:relcl	words	used
+case	terms	for
+nmod:for	used	terms
+punct	words	.

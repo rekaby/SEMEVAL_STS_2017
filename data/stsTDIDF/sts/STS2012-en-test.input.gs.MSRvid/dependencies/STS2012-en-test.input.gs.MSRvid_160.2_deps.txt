@@ -1,0 +1,9 @@
+det	loris	A
+amod	loris	slow
+nsubj	biting	loris
+aux	biting	is
+root	ROOT	biting
+det	finger	a
+compound	finger	persons
+dobj	biting	finger
+punct	biting	.

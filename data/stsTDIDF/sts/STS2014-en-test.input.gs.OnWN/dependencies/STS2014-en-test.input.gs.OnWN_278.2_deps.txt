@@ -1,0 +1,9 @@
+det	motion	the
+root	ROOT	motion
+case	object	of
+nummod	object	one
+nmod:of	motion	object
+amod	object	relative
+case	another	to
+nmod:to	relative	another
+punct	motion	.

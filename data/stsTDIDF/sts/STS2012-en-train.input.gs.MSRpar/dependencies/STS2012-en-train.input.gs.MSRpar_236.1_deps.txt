@@ -1,0 +1,15 @@
+det	launch	The
+nsubj	coincides	launch
+root	ROOT	coincides
+case	conference	with
+det	developers	the
+compound	developers	JavaOne
+nmod:poss	conference	developers
+case	developers	'
+nmod:with	coincides	conference
+case	Francisco	in
+compound	Francisco	San
+nmod:in	conference	Francisco
+det	week	this
+nmod:tmod	coincides	week
+punct	coincides	.

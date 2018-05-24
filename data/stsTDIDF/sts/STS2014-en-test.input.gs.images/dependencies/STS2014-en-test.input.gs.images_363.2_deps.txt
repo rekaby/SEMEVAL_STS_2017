@@ -1,0 +1,9 @@
+det	group	A
+nsubj	hill	group
+case	sheep	of
+nmod:of	group	sheep
+cop	hill	are
+case	hill	on
+det	hill	a
+root	ROOT	hill
+punct	hill	.

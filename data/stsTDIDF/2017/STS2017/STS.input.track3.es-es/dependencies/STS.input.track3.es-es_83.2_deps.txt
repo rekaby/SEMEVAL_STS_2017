@@ -1,0 +1,15 @@
+det	man	A
+amod	man	middle
+amod	man	aged
+root	ROOT	man
+amod	man	is
+mark	hit	about
+mark	hit	to
+advcl	is	hit
+det	ball	a
+compound	ball	tennis
+dobj	hit	ball
+case	racket	with
+nmod:poss	racket	his
+nmod:with	hit	racket
+punct	man	.

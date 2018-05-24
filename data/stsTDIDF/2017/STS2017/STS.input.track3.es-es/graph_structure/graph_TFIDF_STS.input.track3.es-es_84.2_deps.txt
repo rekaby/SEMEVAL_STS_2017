@@ -1,0 +1,8 @@
+crops	farm	nmod:on
+farm	on	case
+crops	her	nmod:poss
+using	hoe	dobj
+hoe	crops	nmod:near
+crops	near	case
+woman	using	acl
+hoe	a	det

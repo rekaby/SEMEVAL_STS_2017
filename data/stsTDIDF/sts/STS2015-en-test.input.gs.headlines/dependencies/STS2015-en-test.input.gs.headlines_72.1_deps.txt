@@ -1,0 +1,8 @@
+compound	Obama	Michelle
+root	ROOT	Obama
+case	Star	To
+nmod:to	Obama	Star
+case	Parks	In
+nmod:in	Star	Parks
+cc	Star	And
+conj:and	Star	Recreation

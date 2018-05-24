@@ -1,0 +1,16 @@
+det	man	An
+amod	man	elderly
+nsubj	holding	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+aux	holding	is
+root	ROOT	holding
+compound:prt	holding	up
+det	piece	a
+dobj	holding	piece
+case	art	of
+compound	art	canvas
+nmod:of	piece	art
+punct	holding	.

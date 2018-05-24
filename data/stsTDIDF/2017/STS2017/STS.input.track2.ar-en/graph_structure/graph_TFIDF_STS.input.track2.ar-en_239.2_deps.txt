@@ -1,0 +1,9 @@
+lot	love	nmod:of
+love	of	case
+gets	lot	dobj
+shark	white	amod
+shark	great	amod
+gets	shark	nmod:from
+shark	the	det
+shark	from	case
+gets	man	nsubj

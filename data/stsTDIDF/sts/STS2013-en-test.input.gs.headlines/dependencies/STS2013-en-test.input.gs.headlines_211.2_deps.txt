@@ -1,0 +1,6 @@
+compound	minister	Finance
+nsubj	promises	minister
+root	ROOT	promises
+neg	taxes	no
+amod	taxes	new
+dobj	promises	taxes

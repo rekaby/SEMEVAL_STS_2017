@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	young
+nsubj	going	girl
+root	ROOT	going
+compound:prt	going	down
+det	slide	a
+compound	slide	tube
+dobj	going	slide
+punct	going	.

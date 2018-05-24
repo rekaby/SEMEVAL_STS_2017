@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	shake	people
+root	ROOT	shake
+dobj	shake	hands
+case	sign	under
+det	sign	a
+nmod:under	shake	sign
+punct	shake	.

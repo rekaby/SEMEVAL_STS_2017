@@ -1,0 +1,9 @@
+amod	article	Interesting
+root	ROOT	article
+punct	article	!-3) nsubj(Boss-7, She
+cop	Boss	's
+punct	Rarely	-LRB-
+appos	Boss	Rarely
+punct	Rarely	-RRB-
+det	Boss	the
+root	ROOT	Boss

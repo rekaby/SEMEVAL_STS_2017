@@ -1,0 +1,13 @@
+compound	King	Missouri
+compound	King	Education
+compound	King	Commissioner
+compound	King	Kent
+nsubj	said	King
+root	ROOT	said
+nsubjpass	disappointed	he
+auxpass	disappointed	was
+ccomp	said	disappointed
+case	scores	by
+det	scores	the
+nmod:agent	disappointed	scores
+punct	said	.

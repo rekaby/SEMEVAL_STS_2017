@@ -1,0 +1,8 @@
+det	battery	The
+nsubj	keeps	battery
+root	ROOT	keeps
+det	reaction	a
+amod	reaction	chemical
+compound	reaction	reaction
+dobj	keeps	reaction
+punct	keeps	.

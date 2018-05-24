@@ -1,0 +1,15 @@
+det	cat	A
+compound	cat	orange
+cc	orange	and
+conj:and	orange	white
+nsubj	laying	cat
+root	ROOT	laying
+case	blanket	on
+det	blanket	a
+nmod:on	laying	blanket
+case	chair	in
+det	chair	a
+amod	chair	black
+compound	chair	leather
+nmod:in	blanket	chair
+punct	laying	.

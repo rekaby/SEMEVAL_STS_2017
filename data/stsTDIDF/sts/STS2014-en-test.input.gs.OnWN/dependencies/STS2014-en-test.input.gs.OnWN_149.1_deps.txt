@@ -1,0 +1,8 @@
+root	ROOT	Process
+punct	Process	,
+cc	Process	or
+conj:or	Process	refine
+case	furnace	in
+det	furnace	a
+amod	furnace	reverberating
+nmod:in	refine	furnace

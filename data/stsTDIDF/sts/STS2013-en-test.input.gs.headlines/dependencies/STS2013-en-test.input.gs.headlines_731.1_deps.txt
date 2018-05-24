@@ -1,0 +1,7 @@
+compound	student	Hundreds
+compound	student	honor
+nsubj	shooting	student
+acl	student	killed
+case	Ohio	in
+nmod:in	killed	Ohio
+root	ROOT	shooting

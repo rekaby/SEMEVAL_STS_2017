@@ -1,0 +1,4 @@
+walking	is	aux
+walking	person	nsubj
+park	through	case
+walking	park	nmod:through

@@ -1,0 +1,9 @@
+nsubj	scramble	Americans
+root	ROOT	scramble
+mark	sign	to
+xcomp	scramble	sign
+compound:prt	sign	up
+case	Obamacare	for
+nmod:for	sign	Obamacare
+case	deadline	by
+nmod:by	sign	deadline

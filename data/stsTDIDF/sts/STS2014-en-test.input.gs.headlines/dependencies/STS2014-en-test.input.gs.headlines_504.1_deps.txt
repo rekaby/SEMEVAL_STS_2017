@@ -1,0 +1,8 @@
+nsubj	dies	Man
+nsubj	battled	who
+acl:relcl	Man	battled
+compound	disaster	Fukushima
+dobj	battled	disaster
+root	ROOT	dies
+case	cancer	of
+nmod:of	dies	cancer

@@ -1,0 +1,8 @@
+compound	Ki-moon	Ban
+nsubj	Accord	Ki-moon
+case	Arms	to
+compound	Arms	Review
+compound	Arms	Syria
+compound	Arms	Chemical
+nmod:to	Ki-moon	Arms
+root	ROOT	Accord

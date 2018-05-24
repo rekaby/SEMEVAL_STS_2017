@@ -1,0 +1,13 @@
+det	man	A
+nsubj	fixing	man
+cc	man	and
+det	boy	a
+conj:and	man	boy
+aux	fixing	are
+root	ROOT	fixing
+det	truck	a
+dobj	fixing	truck
+case	garage	in
+det	garage	a
+nmod:in	fixing	garage
+punct	fixing	.

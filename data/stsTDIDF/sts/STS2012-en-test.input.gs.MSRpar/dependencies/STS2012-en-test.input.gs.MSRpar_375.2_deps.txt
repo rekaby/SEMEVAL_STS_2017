@@ -1,0 +1,10 @@
+nsubj	announced	Dittemore
+root	ROOT	announced
+nmod:poss	plans	his
+dobj	announced	plans
+mark	resign	to
+acl	plans	resign
+case	April	on
+nmod:on	resign	April
+nummod	April	23
+punct	announced	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	cooking	man
+aux	cooking	is
+root	ROOT	cooking
+det	tortilla	a
+dobj	cooking	tortilla
+case	skillet	in
+det	skillet	a
+nmod:in	cooking	skillet
+punct	cooking	.

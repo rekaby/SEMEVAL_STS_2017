@@ -1,0 +1,15 @@
+nsubj	says	He
+root	ROOT	says
+nsubjpass	forced	many
+auxpass	forced	were
+ccomp	says	forced
+mark	leave	to
+xcomp	forced	leave
+dobj	leave	Mexico
+case	lack	because
+mwe	because	of
+det	lack	the
+nmod:because_of	leave	lack
+case	opportunities	of
+nmod:of	lack	opportunities
+advmod	says	there

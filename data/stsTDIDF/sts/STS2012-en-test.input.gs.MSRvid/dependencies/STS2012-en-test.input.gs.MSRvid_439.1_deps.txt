@@ -1,0 +1,7 @@
+det	badger	A
+nsubj	burrowing	badger
+aux	burrowing	is
+root	ROOT	burrowing
+det	hole	a
+dobj	burrowing	hole
+punct	burrowing	.

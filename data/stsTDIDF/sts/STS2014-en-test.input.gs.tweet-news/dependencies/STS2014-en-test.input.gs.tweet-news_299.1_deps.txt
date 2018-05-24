@@ -1,0 +1,20 @@
+nsubj	believe	You
+advmod	believe	better
+root	ROOT	believe
+case	change	in
+compound	change	climate
+nmod:in	believe	change
+punct	believe	,
+nsubj	real	it
+cop	real	's
+parataxis	believe	real
+punct	believe	!-11) dep(Sees-4, @
+compound	Report	Federal
+nsubj	Sees	Report
+root	ROOT	Sees
+amod	Impacts	Big
+compound	Impacts	U.S.
+dobj	Sees	Impacts
+case	Warming	from
+amod	Warming	Global
+nmod:from	Sees	Warming

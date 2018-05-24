@@ -1,0 +1,14 @@
+det	USA	The
+nsubj	country	USA
+cop	country	is
+det	world	the
+nmod:poss	country	world
+case	world	's
+amod	country	strongest
+root	ROOT	country
+case	force	because
+mwe	because	of
+nmod:poss	force	its
+amod	force	military
+nmod:because_of	country	force
+punct	country	.

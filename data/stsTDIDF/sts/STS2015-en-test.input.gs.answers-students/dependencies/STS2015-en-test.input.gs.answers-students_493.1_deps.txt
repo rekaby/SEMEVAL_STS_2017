@@ -1,0 +1,13 @@
+det	path	The
+nsubj	contains	path
+csubjpass	closed	contains
+det	bulb	the
+amod	bulb	light
+dobj	contains	bulb
+cc	bulb	and
+det	path	the
+conj:and	bulb	path
+auxpass	closed	is
+neg	closed	not
+root	ROOT	closed
+punct	closed	.

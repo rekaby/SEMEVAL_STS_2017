@@ -1,0 +1,5 @@
+root	ROOT	Pentagon
+mark	lift	to
+acl	Pentagon	lift
+compound	ban	combat
+dobj	lift	ban

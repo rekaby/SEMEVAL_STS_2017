@@ -1,0 +1,14 @@
+nsubj	features	It
+advmod	features	also
+root	ROOT	features
+det	4.5	a
+dobj	features	4.5
+case	screen	in
+amod	screen	back-lit
+compound	screen	LCD
+nmod:in	4.5	screen
+cc	screen	and
+compound	facilities	memory
+compound	facilities	expansion
+conj:and	screen	facilities
+punct	features	.

@@ -1,0 +1,8 @@
+nsubj	divided	Syria
+amod	struggle	divided
+compound	struggles	opposition
+dobj	divided	struggles
+case	Syrian	within
+amod	Syrian	wider
+nmod:within	struggles	Syrian
+root	ROOT	struggle

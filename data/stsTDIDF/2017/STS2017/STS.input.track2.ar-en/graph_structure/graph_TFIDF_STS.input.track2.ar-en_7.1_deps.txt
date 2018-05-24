@@ -1,0 +1,6 @@
+sweatshirt	blue	amod
+wearing	sweatshirt	dobj
+boy	wearing	acl
+sweatshirt	a	det
+holds	woman	nsubj
+holds	boy	dobj

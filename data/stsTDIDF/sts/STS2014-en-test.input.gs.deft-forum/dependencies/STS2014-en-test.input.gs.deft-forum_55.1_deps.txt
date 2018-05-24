@@ -1,0 +1,13 @@
+advmod	YES	So
+advmod	read	YES
+punct	read	,
+nsubj	read	we
+aux	read	DO
+root	ROOT	read
+det	bible	the
+dobj	read	bible
+mark	learn	to
+xcomp	read	learn
+case	Christianity	about
+nmod:about	learn	Christianity
+punct	read	.

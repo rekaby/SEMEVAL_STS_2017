@@ -1,0 +1,5 @@
+root	ROOT	become
+xcomp	become	due
+case	repayment	for
+nmod:for	due	repayment
+punct	become	.

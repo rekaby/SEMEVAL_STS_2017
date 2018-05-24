@@ -1,0 +1,7 @@
+compound	787s	Boeing
+nsubjpass	Grounded	787s
+auxpass	Grounded	Are
+root	ROOT	Grounded
+case	Airlines	by
+compound	Airlines	Japanese
+nmod:agent	Grounded	Airlines

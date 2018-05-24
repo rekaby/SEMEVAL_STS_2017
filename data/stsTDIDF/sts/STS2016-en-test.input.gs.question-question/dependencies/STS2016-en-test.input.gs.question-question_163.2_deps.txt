@@ -1,0 +1,13 @@
+root	ROOT	What
+dep	What	does
+punct	ranking	``
+compound	ranking	university
+nsubj	does	ranking
+punct	ranking	''
+dep	ranking	mean
+case	committee	for
+det	committee	a
+amod	committee	graduate
+compound	committee	admissions
+nmod:for	mean	committee
+punct	does	?

@@ -1,0 +1,11 @@
+det	person	A
+root	ROOT	person
+acl	person	giving
+dobj	giving	directions
+case	crowd	to
+det	crowd	a
+nmod:to	giving	crowd
+case	people	of
+amod	people	younger
+nmod:of	crowd	people
+punct	person	.

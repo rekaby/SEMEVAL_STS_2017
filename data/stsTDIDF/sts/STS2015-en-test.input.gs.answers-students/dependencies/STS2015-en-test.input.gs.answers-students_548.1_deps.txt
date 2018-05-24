@@ -1,0 +1,12 @@
+mark	creates	because
+nsubj	creates	it
+root	ROOT	creates
+det	bewtween	a
+compound	bewtween	gap
+dobj	creates	bewtween
+det	battery	the
+appos	bewtween	battery
+cc	battery	and
+det	paths	the
+amod	paths	other
+conj:and	battery	paths

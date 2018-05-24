@@ -1,0 +1,8 @@
+compound	drone	US
+nsubj	kills	drone
+case	Pakistan	in
+nmod:in	drone	Pakistan
+root	ROOT	kills
+nsubj	suspected	10
+ccomp	kills	suspected
+dobj	suspected	militants

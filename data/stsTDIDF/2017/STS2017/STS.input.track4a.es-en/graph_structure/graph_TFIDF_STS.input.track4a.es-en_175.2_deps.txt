@@ -1,0 +1,5 @@
+chases	dog	nsubj
+chases	dog	dobj
+ROOT	chases	root
+chases	.	punct
+dog	another	det

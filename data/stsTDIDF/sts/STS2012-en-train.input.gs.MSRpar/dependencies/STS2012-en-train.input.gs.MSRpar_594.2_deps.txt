@@ -1,0 +1,16 @@
+nsubj	stabbed	He
+advmod	stabbed	then
+root	ROOT	stabbed
+nummod	passersby	two
+dobj	stabbed	passersby
+mark	fled	as
+nsubj	fled	he
+advcl	stabbed	fled
+case	promenade	along
+det	promenade	a
+nmod:along	fled	promenade
+case	Sea	by
+det	Sea	the
+compound	Sea	Mediterranean
+nmod:by	promenade	Sea
+punct	stabbed	.

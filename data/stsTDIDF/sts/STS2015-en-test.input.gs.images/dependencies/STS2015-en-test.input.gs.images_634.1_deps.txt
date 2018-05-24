@@ -1,0 +1,16 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+case	hat	with
+det	hat	a
+amod	hat	pink
+nmod:with	girl	hat
+case	building	on
+case	building	with
+det	building	a
+amod	building	yellow
+nmod:with	hat	building
+case	background	in
+det	background	the
+nmod:in	hat	background
+punct	girl	.

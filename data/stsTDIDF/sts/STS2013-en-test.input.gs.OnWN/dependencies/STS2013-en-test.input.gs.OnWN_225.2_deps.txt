@@ -1,0 +1,13 @@
+root	ROOT	cause
+mark	place	to
+cop	place	be
+case	place	in
+det	place	an
+amod	place	appropriate
+xcomp	cause	place
+punct	place	,
+conj:or	place	state
+punct	place	,
+cc	place	or
+conj:or	place	relation
+punct	cause	.

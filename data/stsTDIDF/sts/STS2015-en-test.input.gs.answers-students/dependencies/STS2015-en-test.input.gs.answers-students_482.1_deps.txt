@@ -1,0 +1,10 @@
+expl	was	there
+root	ROOT	was
+det	path	a
+amod	path	closed
+nsubj	was	path
+neg	effected	not
+acl	path	effected
+case	switch	by
+det	switch	the
+nmod:by	effected	switch

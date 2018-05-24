@@ -1,0 +1,6 @@
+running	covered	ccomp
+covered	mountain	dobj
+sand	a	det
+running	man	nsubj
+covered	sand	nsubj
+running	down	compound:prt

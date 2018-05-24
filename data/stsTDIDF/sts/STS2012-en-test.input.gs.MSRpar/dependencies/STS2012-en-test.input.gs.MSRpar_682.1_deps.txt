@@ -1,0 +1,16 @@
+compound	Bankhead	Mr.
+nsubj	said	Bankhead
+root	ROOT	said
+det	scenes	the
+compound	scenes	crime
+nsubj	indicated	scenes
+ccomp	said	indicated
+mark	methodical	that
+det	killer	the
+nsubj	methodical	killer
+cop	methodical	was
+punct	methodical	``
+advmod	methodical	very
+ccomp	indicated	methodical
+punct	said	.
+punct	said	''

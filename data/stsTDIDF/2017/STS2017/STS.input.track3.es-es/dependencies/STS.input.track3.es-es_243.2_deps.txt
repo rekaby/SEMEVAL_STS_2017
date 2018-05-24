@@ -1,0 +1,7 @@
+compound	workers	Construction
+nsubjpass	detained	workers
+auxpass	detained	are
+root	ROOT	detained
+case	lunch	for
+nmod:for	detained	lunch
+punct	detained	.

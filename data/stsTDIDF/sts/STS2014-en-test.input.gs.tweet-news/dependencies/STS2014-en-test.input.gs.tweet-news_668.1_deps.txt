@@ -1,0 +1,18 @@
+punct	arrested	''
+punct	arrested	:
+nsubj	arrested	Voice
+case	Brown	of
+compound	Brown	Charlie
+nmod:of	Voice	Brown
+root	ROOT	arrested
+punct	arrested	,
+xcomp	arrested	charged
+punct	arrested	.
+punct	arrested	''-11) root(ROOT-0, Please
+ccomp	Please	tell
+dobj	tell	me
+nsubj	said	he
+ccomp	tell	said
+amod	grief	good
+dobj	said	grief
+punct	Please	...

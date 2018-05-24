@@ -1,0 +1,6 @@
+nsubj	sworn	Mugabe
+root	ROOT	sworn
+case	term	in
+case	term	for
+det	term	another
+nmod:for	sworn	term

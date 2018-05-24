@@ -1,0 +1,16 @@
+mark	on	If
+det	switch	the
+nsubj	on	switch
+cop	on	is
+root	ROOT	on
+cc	on	and
+conj:and	on	makes
+det	gap	a
+dobj	makes	gap
+case	bulb	between
+det	bulb	the
+nmod:between	gap	bulb
+cc	bulb	and
+det	battery	the
+conj:and	bulb	battery
+punct	on	.

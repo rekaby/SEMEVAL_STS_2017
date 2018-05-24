@@ -1,0 +1,7 @@
+nsubj	had	Moore
+root	ROOT	had
+neg	comment	no
+amod	comment	immediate
+dobj	had	comment
+nmod:tmod	had	Tuesday
+punct	had	.

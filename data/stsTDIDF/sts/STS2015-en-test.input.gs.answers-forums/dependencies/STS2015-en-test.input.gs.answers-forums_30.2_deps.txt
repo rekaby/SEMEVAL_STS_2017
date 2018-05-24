@@ -1,0 +1,17 @@
+nsubj	possible	It
+aux	possible	may
+cop	possible	be
+root	ROOT	possible
+case	system	for
+det	system	a
+amod	system	solar
+nmod:for	possible	system
+case	ours	like
+nmod:like	system	ours
+mark	exist	to
+acl	system	exist
+case	galaxy	outside
+mwe	outside	of
+det	galaxy	a
+nmod:outside_of	exist	galaxy
+punct	possible	.

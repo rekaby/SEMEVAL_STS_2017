@@ -1,0 +1,17 @@
+det	Lady	This
+nsubj	ready	Lady
+aux	ready	might
+cop	ready	be
+root	ROOT	ready
+case	Climbing	for
+compound	Climbing	Rock
+nmod:for	ready	Climbing
+punct	Climbing	,
+cc	Climbing	or
+advmod	watching	just
+conj:or	Climbing	watching
+det	Clouds	the
+dobj	watching	Clouds
+punct	Clouds	,
+advmod	Clouds	above
+punct	ready	.

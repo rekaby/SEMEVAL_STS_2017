@@ -1,0 +1,13 @@
+root	ROOT	But
+compound	criticism	Senate
+dep	But	criticism
+case	plan	of
+det	plan	the
+compound	plan	House
+nmod:of	criticism	plan
+nsubj	came	Tuesday
+acl:relcl	criticism	came
+case	fronts	on
+amod	fronts	several
+nmod:on	came	fronts
+punct	But	.

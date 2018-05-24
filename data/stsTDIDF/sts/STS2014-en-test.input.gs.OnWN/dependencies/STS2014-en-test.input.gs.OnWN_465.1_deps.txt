@@ -1,0 +1,6 @@
+root	ROOT	Cover
+cc	Cover	or
+conj:or	Cover	back
+case	foil	with
+nmod:with	back	foil
+punct	Cover	.

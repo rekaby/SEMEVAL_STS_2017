@@ -1,0 +1,6 @@
+race	500	nummod
+racing	.	punct
+racing	race	nmod:in
+ROOT	racing	root
+racing	women	nsubj
+women	Aldaitona	compound

@@ -1,0 +1,11 @@
+amod	loggers	Illegal
+nsubj	felled	loggers
+root	ROOT	felled
+det	tree	a
+amod	tree	giant
+dobj	felled	tree
+case	forest	in
+det	forest	the
+compound	forest	spring
+nmod:in	felled	forest
+punct	felled	.

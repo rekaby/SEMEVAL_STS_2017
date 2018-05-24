@@ -1,0 +1,10 @@
+det	evaluation	an
+root	ROOT	evaluation
+punct	evaluation	,
+det	estimation	an
+appos	evaluation	estimation
+case	worth	of
+nmod:of	estimation	worth
+punct	worth	,
+det	grade	a
+appos	worth	grade

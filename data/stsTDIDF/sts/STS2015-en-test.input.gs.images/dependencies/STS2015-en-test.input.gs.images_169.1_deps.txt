@@ -1,0 +1,10 @@
+det	swimming	A
+amod	swimming	black
+cc	black	and
+conj:and	black	white
+compound	swimming	dog
+root	ROOT	swimming
+case	water	in
+amod	water	clear
+nmod:in	swimming	water
+punct	swimming	.

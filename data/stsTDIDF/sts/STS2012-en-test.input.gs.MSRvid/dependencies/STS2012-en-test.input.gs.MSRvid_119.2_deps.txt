@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	eating	dog
+aux	eating	is
+root	ROOT	eating
+det	piece	a
+dobj	eating	piece
+case	watermelon	of
+nmod:of	piece	watermelon
+punct	eating	.

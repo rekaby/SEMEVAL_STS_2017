@@ -1,0 +1,6 @@
+woman	to	case
+hat	cowboy	compound
+talking	woman	nmod:to
+man	talking	acl
+woman	holding	acl
+holding	hat	dobj

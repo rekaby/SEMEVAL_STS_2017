@@ -1,0 +1,10 @@
+people	loudspeakers	dep
+talking	while	mark
+listening	group	nmod:to
+seem	talking	advcl
+listening	be	aux
+talking	they	nsubj
+seem	listening	xcomp
+listening	to	mark
+talking	them	nmod:behind
+seem	man	nsubj

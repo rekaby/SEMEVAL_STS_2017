@@ -1,0 +1,12 @@
+nmod:poss	Court	Florida
+case	Florida	's
+compound	Court	Supreme
+nsubj	refused	Court
+aux	refused	has
+advmod	refused	twice
+root	ROOT	refused
+mark	hear	to
+xcomp	refused	hear
+det	case	the
+dobj	hear	case
+punct	refused	.

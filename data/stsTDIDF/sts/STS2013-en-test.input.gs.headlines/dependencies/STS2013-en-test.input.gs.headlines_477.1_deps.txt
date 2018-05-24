@@ -1,0 +1,9 @@
+nsubj	drenches	Isaac
+root	ROOT	drenches
+dobj	drenches	Haiti
+punct	drenches	,
+dep	drenches	heads
+case	Cuba	toward
+nmod:toward	heads	Cuba
+punct	Cuba	,
+appos	Cuba	Florida

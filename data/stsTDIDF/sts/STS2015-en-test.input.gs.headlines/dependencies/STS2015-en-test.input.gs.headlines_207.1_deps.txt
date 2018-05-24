@@ -1,0 +1,7 @@
+nsubj	Urges	Obama
+root	ROOT	Urges
+dobj	Urges	Restraint
+case	Israelis	from
+nmod:from	Restraint	Israelis
+punct	Urges	,
+dep	Urges	Palestinians

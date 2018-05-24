@@ -1,0 +1,4 @@
+root	ROOT	have
+det	result	a
+amod	result	logical
+dobj	have	result

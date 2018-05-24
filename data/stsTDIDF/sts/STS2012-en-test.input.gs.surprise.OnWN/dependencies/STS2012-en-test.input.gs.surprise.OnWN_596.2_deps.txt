@@ -1,0 +1,4 @@
+root	ROOT	give
+dobj	give	suck
+nmod	suck	to
+punct	give	.

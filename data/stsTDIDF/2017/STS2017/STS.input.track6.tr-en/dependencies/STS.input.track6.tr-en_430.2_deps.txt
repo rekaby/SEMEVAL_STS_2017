@@ -1,0 +1,12 @@
+det	women	The
+nummod	women	two
+nsubj	walking	women
+aux	walking	are
+root	ROOT	walking
+nmod:poss	dogs	their
+dobj	walking	dogs
+case	building	beside
+det	building	the
+amod	building	blue
+nmod:beside	walking	building
+punct	walking	.

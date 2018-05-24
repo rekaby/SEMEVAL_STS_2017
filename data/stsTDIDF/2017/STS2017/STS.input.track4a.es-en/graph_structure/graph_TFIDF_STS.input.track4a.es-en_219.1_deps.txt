@@ -1,0 +1,6 @@
+sitting	showing	xcomp
+showing	children	iobj
+chair	on	case
+showing	book	dobj
+sitting	chair	nmod:on
+woman	sitting	acl

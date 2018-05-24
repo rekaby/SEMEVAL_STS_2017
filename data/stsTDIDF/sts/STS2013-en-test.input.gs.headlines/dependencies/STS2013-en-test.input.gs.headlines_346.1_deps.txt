@@ -1,0 +1,5 @@
+compound	leader	Mali
+amod	leader	interim
+nsubj	takes	leader
+root	ROOT	takes
+dobj	takes	office

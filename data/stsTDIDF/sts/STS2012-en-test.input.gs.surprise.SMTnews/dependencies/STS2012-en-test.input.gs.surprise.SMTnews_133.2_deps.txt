@@ -1,0 +1,12 @@
+dep	are	Today
+nsubj	are	we
+root	ROOT	are
+mark	change	to
+xcomp	are	change
+det	identity	a
+amod	identity	Muslim
+dobj	change	identity
+case	identity	for
+amod	identity	Islamic
+nmod:for	identity	identity
+punct	are	.

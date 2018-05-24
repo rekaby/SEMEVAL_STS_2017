@@ -1,0 +1,9 @@
+case	division	Beyond
+det	division	the
+amod	division	geographical
+nmod:beyond	recur	division
+punct	recur	,
+nsubj	recur	divisions
+root	ROOT	recur
+advmod	recur	locally
+punct	recur	.

@@ -1,0 +1,15 @@
+nsubjpass	based	GPS
+punct	wikipedia	-LRB-
+appos	GPS	wikipedia
+punct	wikipedia	-RRB-
+auxpass	based	is
+root	ROOT	based
+case	satellites	on
+amod	satellites	orbiting
+nmod:on	based	satellites
+cc	based	and
+advmod	accurate	so
+cop	accurate	is
+conj:and	based	accurate
+advmod	accurate	worldwide
+punct	based	.

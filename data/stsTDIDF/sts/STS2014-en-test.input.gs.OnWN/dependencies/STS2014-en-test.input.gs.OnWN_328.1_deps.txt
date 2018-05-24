@@ -1,0 +1,10 @@
+root	ROOT	Strike
+advmod	Strike	heavily
+punct	Strike	,
+advmod	fist	especially
+case	fist	with
+det	fist	a
+nmod:with	Strike	fist
+cc	fist	or
+conj:or	fist	implement
+punct	Strike	.

@@ -1,0 +1,13 @@
+det	battery	the
+nsubjpass	contained	battery
+auxpass	contained	is
+root	ROOT	contained
+case	path	in
+det	path	a
+nmod:in	contained	path
+case	which	in
+nmod:in	is	which
+expl	is	there
+acl:relcl	path	is
+neg	bulb	no
+nsubj	is	bulb

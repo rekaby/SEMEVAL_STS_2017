@@ -1,0 +1,17 @@
+root	ROOT	!-1) root(ROOT-0, pay
+dobj	pay	it
+compound:prt	pay	forward
+punct	Note	-
+dep	pay	Note
+case	napkin	on
+det	napkin	a
+nmod:on	Note	napkin
+punct	Note	,
+punct	Note	`
+det	meal	This
+nsubj	us	meal
+cop	us	is
+case	us	on
+dep	Note	us
+punct	us	'
+punct	pay	-

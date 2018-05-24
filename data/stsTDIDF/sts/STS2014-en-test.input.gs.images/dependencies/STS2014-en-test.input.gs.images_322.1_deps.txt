@@ -1,0 +1,10 @@
+det	pets	A
+compound	pets	woman
+nsubj	dog	pets
+det	dog	a
+root	ROOT	dog
+case	area	in
+det	area	a
+amod	area	fenced
+nmod:in	dog	area
+punct	dog	.

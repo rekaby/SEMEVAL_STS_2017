@@ -1,0 +1,12 @@
+compound	strike	Chicago
+compound	strike	teachers
+root	ROOT	strike
+punct	strike	:
+appos	strike	Vacations
+case	students	for
+nmod:for	Vacations	students
+punct	Vacations	,
+case	good	for
+nmod:for	Vacations	good
+cc	good	or
+conj:or	good	ill

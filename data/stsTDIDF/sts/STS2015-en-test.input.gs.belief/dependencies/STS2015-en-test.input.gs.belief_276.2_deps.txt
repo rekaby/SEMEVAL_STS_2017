@@ -1,0 +1,16 @@
+root	ROOT	dodge
+punct	dodge	,
+dep	dodge	change
+det	subject	the
+dobj	change	subject
+punct	dodge	,
+appos	dodge	project
+dobj	instructed	what
+nsubjpass	instructed	they
+aux	instructed	have
+auxpass	instructed	been
+acl:relcl	project	instructed
+mark	believe	to
+xcomp	instructed	believe
+advmod	believe	etc.
+punct	dodge	.-16) root(ROOT-0, .

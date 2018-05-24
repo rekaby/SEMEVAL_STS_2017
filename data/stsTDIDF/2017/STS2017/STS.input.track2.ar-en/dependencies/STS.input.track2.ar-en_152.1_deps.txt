@@ -1,0 +1,7 @@
+det	baby	A
+nsubjpass	held	baby
+case	pink	in
+nmod:in	baby	pink
+auxpass	held	is
+root	ROOT	held
+punct	held	.

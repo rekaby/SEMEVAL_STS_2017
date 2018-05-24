@@ -1,0 +1,4 @@
+groups	Two	nummod
+groups	children	nmod:of
+playing	soccer	dobj
+playing	groups	nsubj

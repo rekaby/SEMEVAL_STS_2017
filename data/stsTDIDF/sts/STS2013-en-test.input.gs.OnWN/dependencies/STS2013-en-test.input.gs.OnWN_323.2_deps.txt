@@ -1,0 +1,8 @@
+det	action	the
+amod	action	successful
+root	ROOT	action
+mark	solving	of
+acl	action	solving
+det	problem	a
+dobj	solving	problem
+punct	action	.

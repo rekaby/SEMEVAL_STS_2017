@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	stands	woman
+root	ROOT	stands
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	stands	building
+case	snow	in
+det	snow	the
+nmod:in	building	snow
+punct	stands	.

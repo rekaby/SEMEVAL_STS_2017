@@ -1,0 +1,7 @@
+nsubj	visits	CIA
+compound	visits	chief
+root	ROOT	visits
+dobj	visits	Israel
+case	Syria	for
+nmod:for	visits	Syria
+dep	visits	talks

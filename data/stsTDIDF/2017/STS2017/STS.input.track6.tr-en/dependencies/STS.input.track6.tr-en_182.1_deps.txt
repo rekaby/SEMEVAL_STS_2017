@@ -1,0 +1,13 @@
+det	woman	An
+amod	woman	old
+nsubj	walking	woman
+aux	walking	is
+root	ROOT	walking
+case	building	by
+det	building	a
+nmod:by	walking	building
+case	graffiti	with
+nmod:with	building	graffiti
+case	it	on
+nmod:on	building	it
+punct	walking	.

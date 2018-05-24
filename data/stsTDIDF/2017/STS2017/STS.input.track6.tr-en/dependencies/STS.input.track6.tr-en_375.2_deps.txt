@@ -1,0 +1,9 @@
+det	man	A
+amod	man	shirtless
+root	ROOT	man
+acl	man	staring
+case	glass	out
+mwe	out	of
+det	glass	a
+nmod:out_of	staring	glass
+punct	man	.

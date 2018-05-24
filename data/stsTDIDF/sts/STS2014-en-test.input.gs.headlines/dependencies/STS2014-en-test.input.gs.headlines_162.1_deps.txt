@@ -1,0 +1,8 @@
+root	ROOT	Pictures
+case	day	of
+det	day	the
+nmod:of	Pictures	day
+punct	Pictures	:
+nummod	August	7
+dep	Pictures	August
+nummod	August	2013

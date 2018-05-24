@@ -1,0 +1,6 @@
+nsubj	defend	Saudis
+root	ROOT	defend
+amod	maid	#SriLankan
+nmod:poss	#execution	maid
+case	maid	's
+dobj	defend	#execution

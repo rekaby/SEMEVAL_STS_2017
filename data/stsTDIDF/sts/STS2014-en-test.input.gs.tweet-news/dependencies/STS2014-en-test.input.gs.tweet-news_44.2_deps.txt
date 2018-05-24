@@ -1,0 +1,9 @@
+nsubj	supported	U.S.
+root	ROOT	supported
+nmod:poss	rescue	France
+case	France	's
+amod	rescue	failed
+compound	rescue	hostage
+dobj	supported	rescue
+case	Somalia	in
+nmod:in	supported	Somalia

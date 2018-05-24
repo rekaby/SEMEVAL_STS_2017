@@ -1,0 +1,7 @@
+det	toddler	A
+nsubj	walks	toddler
+root	ROOT	walks
+compound:prt	walks	down
+det	hallway	a
+dobj	walks	hallway
+punct	walks	.

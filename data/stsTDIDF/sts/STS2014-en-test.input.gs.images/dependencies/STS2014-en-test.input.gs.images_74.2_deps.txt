@@ -1,0 +1,9 @@
+det	rides	A
+compound	rides	jockey
+root	ROOT	rides
+det	horse	a
+dep	rides	horse
+case	gallop	at
+det	gallop	a
+nmod:at	horse	gallop
+punct	rides	.

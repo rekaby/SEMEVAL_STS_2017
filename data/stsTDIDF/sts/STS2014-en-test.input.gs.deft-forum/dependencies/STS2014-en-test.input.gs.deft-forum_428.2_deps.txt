@@ -1,0 +1,12 @@
+det	quote	The
+nsubj	has	quote
+nsubj	provide	you
+acl:relcl	quote	provide
+root	ROOT	has
+dobj	has	nothing
+mark	do	to
+acl	nothing	do
+case	nullification	with
+compound	nullification	jury
+nmod:with	do	nullification
+punct	has	.

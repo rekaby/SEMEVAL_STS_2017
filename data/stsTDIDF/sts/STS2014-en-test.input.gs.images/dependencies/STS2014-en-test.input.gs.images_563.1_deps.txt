@@ -1,0 +1,10 @@
+det	sheep	The
+amod	sheep	white
+nsubj	standing	sheep
+aux	standing	is
+root	ROOT	standing
+case	hill	on
+det	hill	the
+amod	hill	green
+nmod:on	standing	hill
+punct	standing	.

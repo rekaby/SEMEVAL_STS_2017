@@ -1,0 +1,9 @@
+nummod	men	Three
+amod	men	shirtless
+nsubj	dancing	men
+aux	dancing	are
+root	ROOT	dancing
+case	street	in
+det	street	the
+nmod:in	dancing	street
+punct	dancing	.

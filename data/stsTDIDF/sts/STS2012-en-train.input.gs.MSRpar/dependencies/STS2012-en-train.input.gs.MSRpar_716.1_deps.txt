@@ -1,0 +1,14 @@
+nsubj	calls	It
+root	ROOT	calls
+case	agency	for
+det	agency	the
+nmod:for	calls	agency
+mark	plan	to
+xcomp	calls	plan
+det	safety	an
+amod	safety	independent
+dobj	plan	safety
+cc	safety	and
+compound	organization	engineering
+conj:and	safety	organization
+punct	calls	.

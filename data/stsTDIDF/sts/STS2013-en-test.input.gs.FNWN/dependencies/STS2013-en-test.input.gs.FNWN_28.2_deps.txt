@@ -1,0 +1,13 @@
+det	group	a
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+punct	temporary	-LRB-
+advmod	temporary	often
+acl:relcl	group	temporary
+punct	temporary	-RRB-
+xcomp	temporary	having
+det	purpose	a
+amod	purpose	common
+dobj	having	purpose
+punct	group	;

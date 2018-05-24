@@ -1,0 +1,8 @@
+neg	argument	No
+root	ROOT	argument
+case	Jakarta	with
+nmod:with	argument	Jakarta
+case	boats	on
+nmod:on	argument	boats
+punct	argument	:
+dep	argument	Abbott

@@ -1,0 +1,12 @@
+det	girl	The
+nsubj	walking	girl
+case	jacket	in
+det	jacket	the
+compound	jacket	ski
+nmod:in	girl	jacket
+aux	walking	is
+root	ROOT	walking
+case	buildings	near
+det	buildings	the
+nmod:near	walking	buildings
+punct	walking	.

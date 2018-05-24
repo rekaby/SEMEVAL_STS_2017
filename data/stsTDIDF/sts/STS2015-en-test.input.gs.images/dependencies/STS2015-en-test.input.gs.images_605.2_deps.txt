@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	twisting	boy
+aux	twisting	is
+root	ROOT	twisting
+det	sparkler	a
+dobj	twisting	sparkler
+case	air	around
+case	air	in
+det	air	the
+nmod:in	twisting	air
+punct	twisting	.

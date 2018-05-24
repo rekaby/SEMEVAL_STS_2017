@@ -1,0 +1,7 @@
+det	bulb	each
+nsubj	path	bulb
+cop	path	is
+case	path	in
+nmod:poss	path	its
+amod	path	own
+root	ROOT	path

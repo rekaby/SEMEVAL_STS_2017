@@ -1,0 +1,15 @@
+case	threat	After
+compound	threat	U.S.
+nmod:after	turns	threat
+punct	turns	,
+compound	Korea	North
+nsubj	turns	Korea
+root	ROOT	turns
+compound	#politics	ire
+case	#US	on
+compound	#US	South
+amod	#US	#military
+compound	#US	#SKorea
+compound	#US	#NKorea
+nmod:on	ire	#US
+dobj	turns	#politics

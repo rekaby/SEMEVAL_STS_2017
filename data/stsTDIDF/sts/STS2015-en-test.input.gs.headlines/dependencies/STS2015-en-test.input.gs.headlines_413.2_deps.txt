@@ -1,0 +1,8 @@
+nsubj	hopes	Manmohan
+root	ROOT	hopes
+mark	clinch	to
+xcomp	hopes	clinch
+amod	deal	nuclear
+dobj	clinch	deal
+case	Japan	with
+nmod:with	deal	Japan

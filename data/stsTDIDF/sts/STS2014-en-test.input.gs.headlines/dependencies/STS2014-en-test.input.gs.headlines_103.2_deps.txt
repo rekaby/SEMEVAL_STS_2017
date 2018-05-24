@@ -1,0 +1,7 @@
+nsubj	turning	Spain
+root	ROOT	turning
+compound:prt	turning	back
+det	clock	the
+dobj	turning	clock
+case	siestas	on
+nmod:on	clock	siestas

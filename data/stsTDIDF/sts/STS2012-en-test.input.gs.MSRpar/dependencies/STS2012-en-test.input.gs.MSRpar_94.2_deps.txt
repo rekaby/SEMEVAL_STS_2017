@@ -1,0 +1,13 @@
+nsubj	cover	They
+root	ROOT	cover
+advmod	300,000	more
+mwe	more	than
+nummod	workers	300,000
+compound	workers	UAW
+dobj	cover	workers
+cc	workers	and
+nummod	retirees	500,000
+conj:and	workers	retirees
+cc	retirees	and
+conj:and	retirees	spouses
+punct	cover	.

@@ -1,0 +1,11 @@
+det	man	A
+amod	man	young
+nsubj	tries	man
+root	ROOT	tries
+det	game	a
+dobj	tries	game
+compound:prt	tries	out
+case	store	at
+det	store	the
+nmod:at	tries	store
+punct	tries	.

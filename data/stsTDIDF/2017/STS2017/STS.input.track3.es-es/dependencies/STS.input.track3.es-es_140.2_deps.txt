@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+amod	suit	black
+nmod:in	man	suit
+acl	suit	sitting
+case	steps	on
+det	steps	the
+nmod:on	sitting	steps
+case	building	of
+det	building	a
+nmod:of	steps	building
+punct	man	.

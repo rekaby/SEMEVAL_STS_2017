@@ -1,0 +1,13 @@
+det	team	The
+nsubj	playing	team
+case	blue	in
+nmod:in	team	blue
+aux	playing	is
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+case	team	against
+det	team	the
+nmod:against	playing	team
+case	white	in
+nmod:in	playing	white

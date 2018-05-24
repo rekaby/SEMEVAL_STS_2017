@@ -1,0 +1,10 @@
+rolls	man	nsubj
+rolls	back	advmod
+ROOT	rolls	root
+pool	into	case
+rolls	.	punct
+watches	the	det
+rolls	pool	nmod:into
+watches	audience	compound
+rolls	watches	nmod:as
+watches	as	case

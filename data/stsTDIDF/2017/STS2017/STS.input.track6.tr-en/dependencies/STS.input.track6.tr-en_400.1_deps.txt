@@ -1,0 +1,8 @@
+det	officer	A
+compound	officer	police
+nsubj	keeps	officer
+root	ROOT	keeps
+xcomp	keeps	watch
+det	parade	a
+dobj	watch	parade
+punct	keeps	.

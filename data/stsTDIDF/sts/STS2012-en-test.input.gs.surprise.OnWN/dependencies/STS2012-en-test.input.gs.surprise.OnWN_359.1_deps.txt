@@ -1,0 +1,10 @@
+det	state	The
+root	ROOT	state
+mark	satisfied	of
+cop	satisfied	being
+advmod	satisfied	more
+mwe	more	than
+acl	state	satisfied
+cc	satisfied	or
+conj:or	satisfied	satiated
+punct	state	.

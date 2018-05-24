@@ -1,0 +1,15 @@
+advmod	work	How
+aux	work	can
+nsubj	work	I
+root	ROOT	work
+compound:prt	work	out
+advmod	valuable	how
+dep	boss	valuable
+nsubj	boss	I
+cop	boss	am
+case	boss	to
+nmod:poss	boss	my
+dep	work	boss
+cc	boss	and
+conj:and	boss	company
+punct	work	?

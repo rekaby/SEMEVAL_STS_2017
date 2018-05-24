@@ -1,0 +1,8 @@
+root	ROOT	Israel
+cc	Israel	and
+conj:and	Israel	Hamas
+mark	observe	to
+acl	Israel	observe
+amod	truce	brief
+compound	truce	Gaza
+dobj	observe	truce

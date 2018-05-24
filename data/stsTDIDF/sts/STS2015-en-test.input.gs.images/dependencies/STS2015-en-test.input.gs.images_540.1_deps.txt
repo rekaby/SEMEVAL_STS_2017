@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+case	midair	in
+nmod:in	jumps	midair
+mark	catch	to
+xcomp	jumps	catch
+det	Frisbee	a
+dobj	catch	Frisbee
+punct	jumps	.

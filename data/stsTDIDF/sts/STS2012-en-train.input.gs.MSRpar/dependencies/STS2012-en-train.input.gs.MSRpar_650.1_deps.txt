@@ -1,0 +1,10 @@
+nsubjpass	held	Both
+aux	held	are
+auxpass	held	being
+root	ROOT	held
+case	Jail	in
+det	Jail	the
+compound	Jail	Armstrong
+compound	Jail	County
+nmod:in	held	Jail
+punct	held	.

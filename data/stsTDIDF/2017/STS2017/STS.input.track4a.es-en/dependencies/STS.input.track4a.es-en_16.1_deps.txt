@@ -1,0 +1,8 @@
+amod	people	Many
+nsubj	resting	people
+aux	resting	are
+root	ROOT	resting
+case	grass	in
+det	grass	the
+nmod:in	resting	grass
+punct	resting	.

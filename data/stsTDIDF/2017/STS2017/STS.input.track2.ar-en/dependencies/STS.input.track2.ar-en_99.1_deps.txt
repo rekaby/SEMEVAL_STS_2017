@@ -1,0 +1,7 @@
+nummod	kids	Two
+root	ROOT	kids
+acl	kids	having
+det	fight	a
+compound	fight	snowball
+dobj	having	fight
+punct	kids	.

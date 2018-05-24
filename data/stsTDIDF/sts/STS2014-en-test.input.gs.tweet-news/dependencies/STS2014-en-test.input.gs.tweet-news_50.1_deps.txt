@@ -1,0 +1,16 @@
+nsubj	article	This
+cop	article	is
+det	article	a
+amod	article	weird
+root	ROOT	article
+punct	article	.-6) root(ROOT-0, ``
+compound	Kurzweil	Ray
+nsubj	Says	Kurzweil
+root	``	Says
+nsubj	Going	We
+aux	Going	're
+ccomp	Says	Going
+mark	Live	to
+xcomp	Going	Live
+advmod	Live	Forever
+punct	Says	''

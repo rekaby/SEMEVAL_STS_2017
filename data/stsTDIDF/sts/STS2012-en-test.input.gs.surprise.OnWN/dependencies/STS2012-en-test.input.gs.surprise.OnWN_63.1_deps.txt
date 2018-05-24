@@ -1,0 +1,7 @@
+root	ROOT	settlement
+case	people	of
+nmod:of	settlement	people
+amod	people	distant
+case	homeland	from
+nmod:poss	homeland	their
+nmod:from	distant	homeland

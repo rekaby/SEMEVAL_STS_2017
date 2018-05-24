@@ -1,0 +1,16 @@
+det	dog	The
+amod	dog	black
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	grass	on
+det	grass	the
+nmod:on	running	grass
+case	toy	with
+det	toy	a
+nmod:with	running	toy
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+dep	toy	mouth
+punct	running	.

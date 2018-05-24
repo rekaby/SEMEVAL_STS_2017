@@ -1,0 +1,10 @@
+root	ROOT	being
+cc	being	or
+conj:or	being	characteristic
+acl	being	of
+cc	of	or
+conj:or	of	appropriate
+case	language	to
+amod	language	everyday
+nmod:to	of	language
+punct	being	;

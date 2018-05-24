@@ -1,0 +1,12 @@
+det	man	A
+nsubj	uses	man
+root	ROOT	uses
+det	hose	a
+amod	hose	high-power
+dobj	uses	hose
+mark	put	to
+xcomp	uses	put
+compound:prt	put	out
+det	fire	the
+dobj	put	fire
+punct	uses	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+det	tomato	a
+dobj	cutting	tomato
+punct	cutting	.

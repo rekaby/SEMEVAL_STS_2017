@@ -1,0 +1,11 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+xcomp	sitting	watching
+det	parade	a
+dobj	watching	parade
+case	cars	of
+compound	cars	clown
+nmod:of	parade	cars
+punct	sitting	.

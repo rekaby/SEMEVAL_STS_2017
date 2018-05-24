@@ -1,0 +1,6 @@
+compound	jump	Men
+root	ROOT	jump
+case	river	in
+det	river	a
+nmod:in	jump	river
+punct	jump	.

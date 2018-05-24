@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	walks	dog
+root	ROOT	walks
+case	beach	on
+det	beach	the
+nmod:on	walks	beach
+punct	walks	.

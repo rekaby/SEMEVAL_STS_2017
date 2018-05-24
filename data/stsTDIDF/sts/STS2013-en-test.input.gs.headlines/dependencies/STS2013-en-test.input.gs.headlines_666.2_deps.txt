@@ -1,0 +1,4 @@
+compound	Ends	Wall
+compound	Ends	Street
+root	ROOT	Ends
+dep	Ends	Mixed

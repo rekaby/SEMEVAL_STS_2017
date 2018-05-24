@@ -1,0 +1,6 @@
+compound	Korea	North
+nsubj	shuns	Korea
+root	ROOT	shuns
+dobj	shuns	offer
+case	talks	of
+nmod:of	offer	talks

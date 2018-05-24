@@ -1,0 +1,9 @@
+nsubj	think	I
+root	ROOT	think
+expl	is	there
+ccomp	think	is
+neg	is	n't
+det	answer	a
+amod	answer	general
+nsubj	is	answer
+punct	think	.

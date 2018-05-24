@@ -1,0 +1,9 @@
+det	man	A
+nsubjpass	knocked	man
+auxpass	knocked	gets
+root	ROOT	knocked
+case	horse	off
+mwe	off	of
+det	horse	a
+nmod:off_of	knocked	horse
+punct	knocked	.

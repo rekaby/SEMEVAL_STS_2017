@@ -1,0 +1,11 @@
+mark	path	if
+det	switch	the
+nsubj	path	switch
+cc	switch	and
+det	bulb	the
+conj:and	switch	bulb
+cop	path	are
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path

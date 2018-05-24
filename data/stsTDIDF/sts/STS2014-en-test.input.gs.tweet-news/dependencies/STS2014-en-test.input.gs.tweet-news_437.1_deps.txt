@@ -1,0 +1,7 @@
+compound	story	NYT
+nsubj	787s	story
+case	Grounding	on
+nmod:on	story	Grounding
+case	Boeing	of
+nmod:of	Grounding	Boeing
+root	ROOT	787s

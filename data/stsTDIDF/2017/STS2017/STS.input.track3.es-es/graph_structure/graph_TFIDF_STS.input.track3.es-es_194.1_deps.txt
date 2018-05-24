@@ -1,0 +1,8 @@
+husband	a	det
+people	,	punct
+people	one	appos
+them	husband	dep
+wife	one	nummod
+husband	wife	conj:and
+people	leaving	acl
+leaving	store	dobj

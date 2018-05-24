@@ -1,0 +1,7 @@
+det	person	a
+root	ROOT	person
+nsubj	delivers	who
+acl:relcl	person	delivers
+dobj	delivers	information
+cc	information	or
+conj:or	information	goods

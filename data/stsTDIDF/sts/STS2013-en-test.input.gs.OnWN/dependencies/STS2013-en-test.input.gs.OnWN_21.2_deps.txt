@@ -1,0 +1,13 @@
+det	channel	a
+amod	channel	narrow
+nsubj	joining	channel
+case	sea	of
+det	sea	the
+nmod:of	channel	sea
+root	ROOT	joining
+nummod	bodies	two
+amod	bodies	larger
+dobj	joining	bodies
+case	water	of
+nmod:of	bodies	water
+punct	joining	.

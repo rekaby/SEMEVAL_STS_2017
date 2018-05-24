@@ -1,0 +1,6 @@
+root	ROOT	27
+acl	27	killed
+case	attacks	in
+nmod:in	killed	attacks
+case	Iraq	across
+nmod:across	attacks	Iraq

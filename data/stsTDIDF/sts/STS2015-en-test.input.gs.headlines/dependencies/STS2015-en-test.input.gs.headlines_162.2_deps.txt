@@ -1,0 +1,6 @@
+nsubj	killed	Two
+root	ROOT	killed
+case	accident	in
+compound	accident	Arizona
+compound	accident	skydiving
+nmod:in	killed	accident

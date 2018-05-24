@@ -1,0 +1,9 @@
+expl	is	there
+root	ROOT	is
+neg	chance	no
+nsubj	is	chance
+case	trial	at
+det	trial	a
+amod	trial	fair
+nmod:at	chance	trial
+punct	is	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	seasoning	man
+aux	seasoning	is
+root	ROOT	seasoning
+det	carrots	some
+dobj	seasoning	carrots
+punct	seasoning	.

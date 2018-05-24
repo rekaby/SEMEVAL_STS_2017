@@ -1,0 +1,9 @@
+nsubj	relaxing	They
+aux	relaxing	are
+root	ROOT	relaxing
+case	television	in
+mwe	in	front
+mwe	in	of
+det	television	the
+nmod:in_front_of	relaxing	television
+punct	relaxing	.

@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+nummod	Democrats	103
+nsubj	are	Democrats
+case	Assembly	in
+det	Assembly	the
+nmod:in	Democrats	Assembly
+cc	Assembly	and
+nummod	Republicans	47
+conj:and	Assembly	Republicans
+punct	are	.

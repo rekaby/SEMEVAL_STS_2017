@@ -1,0 +1,11 @@
+det	girl	A
+root	ROOT	girl
+case	bag	with
+det	bag	a
+amod	bag	red
+nmod:with	girl	bag
+amod	bag	standing
+case	street	on
+det	street	the
+nmod:on	standing	street
+punct	girl	.

@@ -1,0 +1,7 @@
+nmod:poss	play	Panda
+case	Panda	's
+root	ROOT	play
+case	swing	on
+det	swing	a
+nmod:on	play	swing
+punct	play	.

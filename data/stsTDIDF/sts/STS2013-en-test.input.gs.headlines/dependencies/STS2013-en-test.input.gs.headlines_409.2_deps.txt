@@ -1,0 +1,9 @@
+compound	pilot	JetBlue
+root	ROOT	pilot
+nsubj	caused	who
+acl:relcl	pilot	caused
+dobj	caused	disruption
+case	flight	on
+nmod:on	disruption	flight
+neg	guilty	not
+dobj	caused	guilty

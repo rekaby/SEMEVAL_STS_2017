@@ -1,0 +1,13 @@
+root	ROOT	understanding
+case	nature	of
+det	nature	the
+nmod:of	understanding	nature
+cc	nature	or
+conj:or	nature	meaning
+cc	nature	or
+conj:or	nature	quality
+cc	quality	or
+conj:or	quality	magnitude
+case	something	of
+nmod:of	quality	something
+punct	understanding	.

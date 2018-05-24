@@ -1,0 +1,5 @@
+compound	accident	China
+amod	accident	mine
+nsubj	kills	accident
+root	ROOT	kills
+dobj	kills	10

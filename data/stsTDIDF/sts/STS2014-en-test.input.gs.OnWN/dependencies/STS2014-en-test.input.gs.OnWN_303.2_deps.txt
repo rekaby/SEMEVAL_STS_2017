@@ -1,0 +1,16 @@
+det	year	the
+root	ROOT	year
+punct	reckoned	-LRB-
+dep	year	reckoned
+case	January	from
+nmod:from	reckoned	January
+nummod	January	1
+case	December	to
+nmod:to	reckoned	December
+nummod	December	31
+punct	reckoned	-RRB-
+case	calendar	according
+mwe	according	to
+compound	calendar	Gregorian
+nmod:according_to	year	calendar
+punct	year	.

@@ -1,0 +1,16 @@
+root	ROOT	Throw
+det	glance	a
+dobj	Throw	glance
+nmod	Throw	at
+punct	Throw	;
+parataxis	Throw	take
+conj:or	take	take
+det	look	a
+amod	look	brief
+dobj	take	look
+case	hastily	at
+cc	at	or
+conj:or	at	examine
+nmod:at	take	hastily
+nmod:examine	take	hastily
+punct	Throw	.

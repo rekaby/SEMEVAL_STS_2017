@@ -1,0 +1,9 @@
+det	duplicate	a
+root	ROOT	duplicate
+case	something	of
+nmod:of	duplicate	something
+punct	duplicate	,
+dep	duplicate	serving
+case	backup	as
+det	backup	a
+nmod:as	serving	backup

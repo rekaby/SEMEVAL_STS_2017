@@ -1,0 +1,13 @@
+root	ROOT	Say
+xcomp	Say	What
+dep	vessels	You
+aux	vessels	Will
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+nsubj	What	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Say	.

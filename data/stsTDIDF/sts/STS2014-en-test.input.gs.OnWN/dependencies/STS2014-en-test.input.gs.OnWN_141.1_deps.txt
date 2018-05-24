@@ -1,0 +1,8 @@
+compound	tracks	recording
+root	ROOT	tracks
+case	music	of
+nmod:of	tracks	music
+acl	music	made
+case	medium	on
+det	medium	some
+nmod:on	made	medium

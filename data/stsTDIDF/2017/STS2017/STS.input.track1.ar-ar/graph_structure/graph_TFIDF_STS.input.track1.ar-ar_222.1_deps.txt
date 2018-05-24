@@ -1,0 +1,5 @@
+recited	are	auxpass
+train	in	case
+ROOT	recited	root
+recited	train	nmod:in
+recited	men	nsubjpass

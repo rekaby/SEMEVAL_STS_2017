@@ -1,0 +1,17 @@
+punct	said	``
+expl	is	There
+ccomp	said	is
+det	potential	the
+amod	potential	real
+nsubj	is	potential
+case	collapse	for
+det	collapse	a
+amod	collapse	secondary
+nmod:for	potential	collapse
+punct	said	,
+punct	said	''
+compound	McGreevey	Gov.
+compound	McGreevey	James
+nsubj	said	McGreevey
+root	ROOT	said
+punct	said	.

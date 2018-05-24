@@ -1,0 +1,15 @@
+nsubj	go	I
+advmod	go	always
+root	ROOT	go
+case	rule	by
+det	rule	the
+nmod:by	go	rule
+punct	rule	``
+advmod	doubt	When
+case	doubt	in
+nmod:in	rule	doubt
+punct	go	,
+dep	go	throw
+dobj	throw	it
+compound:prt	throw	out
+punct	go	!

@@ -1,0 +1,12 @@
+compound	Korea	North
+nsubj	cuts	Korea
+root	ROOT	cuts
+amod	ties	last
+dobj	cuts	ties
+case	South	with
+nmod:with	ties	South
+mark	barring	by
+advcl	cuts	barring
+amod	park	joint
+amod	park	industrial
+dobj	barring	park

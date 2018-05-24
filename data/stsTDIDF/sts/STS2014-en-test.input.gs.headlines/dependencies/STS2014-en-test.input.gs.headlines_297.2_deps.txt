@@ -1,0 +1,12 @@
+compound	break	Taliban
+compound	break	prison
+root	ROOT	break
+punct	break	:
+nummod	escape	250
+compound	escape	militants
+dep	break	escape
+case	attack	after
+nmod:after	escape	attack
+case	Pakistan	on
+nmod:on	attack	Pakistan
+nmod:tmod	escape	jail

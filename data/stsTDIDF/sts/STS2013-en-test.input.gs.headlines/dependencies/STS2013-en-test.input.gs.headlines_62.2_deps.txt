@@ -1,0 +1,8 @@
+compound	coast	Hurricane
+compound	coast	Isaac
+compound	coast	batters
+compound	coast	US
+root	ROOT	coast
+case	Orleans	near
+compound	Orleans	New
+nmod:near	coast	Orleans

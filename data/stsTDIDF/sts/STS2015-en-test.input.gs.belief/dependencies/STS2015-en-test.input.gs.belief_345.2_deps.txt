@@ -1,0 +1,11 @@
+root	ROOT	why
+dep	why	has
+neg	one	no
+dobj	has	one
+acl	one	come
+advmod	come	forward
+mark	admit	to
+xcomp	come	admit
+det	truth	the
+dobj	admit	truth
+punct	has	?

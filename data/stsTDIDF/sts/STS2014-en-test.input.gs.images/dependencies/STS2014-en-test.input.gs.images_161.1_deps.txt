@@ -1,0 +1,8 @@
+det	train	A
+compound	train	coal
+root	ROOT	train
+acl	train	traveling
+compound:prt	traveling	down
+det	tracks	the
+dobj	traveling	tracks
+punct	train	.

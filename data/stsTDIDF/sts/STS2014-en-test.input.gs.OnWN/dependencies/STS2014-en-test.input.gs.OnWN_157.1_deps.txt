@@ -1,0 +1,5 @@
+root	ROOT	give
+det	interpretation	a
+amod	interpretation	specific
+dobj	give	interpretation
+dep	give	to

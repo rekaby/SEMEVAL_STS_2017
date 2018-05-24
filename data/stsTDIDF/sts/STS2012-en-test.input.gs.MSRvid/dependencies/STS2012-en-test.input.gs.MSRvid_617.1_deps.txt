@@ -1,0 +1,11 @@
+compound	players	Soccer
+nsubj	kicking	players
+aux	kicking	are
+root	ROOT	kicking
+det	ball	a
+compound	ball	soccer
+dobj	kicking	ball
+case	goal	into
+det	goal	the
+nmod:into	kicking	goal
+punct	kicking	.

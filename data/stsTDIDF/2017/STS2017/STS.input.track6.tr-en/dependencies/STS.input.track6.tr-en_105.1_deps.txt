@@ -1,0 +1,8 @@
+nsubj	doing	Someone
+aux	doing	is
+root	ROOT	doing
+dobj	doing	something
+amod	something	athletic
+mark	gesturing	while
+advcl	athletic	gesturing
+punct	doing	.

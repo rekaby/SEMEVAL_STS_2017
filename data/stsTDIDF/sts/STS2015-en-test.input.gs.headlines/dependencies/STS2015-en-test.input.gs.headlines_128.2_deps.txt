@@ -1,0 +1,10 @@
+root	ROOT	Syria
+punct	Syria	:
+nsubj	move	Cameron
+cc	Cameron	and
+conj:and	Cameron	Obama
+dep	Syria	move
+advmod	closer	west
+advmod	move	closer
+case	intervention	to
+nmod:to	closer	intervention

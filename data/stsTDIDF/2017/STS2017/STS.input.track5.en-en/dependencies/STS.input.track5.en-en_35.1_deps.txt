@@ -1,0 +1,6 @@
+det	riding	A
+amod	riding	human
+root	ROOT	riding
+det	skateboard	a
+dobj	riding	skateboard
+punct	riding	.

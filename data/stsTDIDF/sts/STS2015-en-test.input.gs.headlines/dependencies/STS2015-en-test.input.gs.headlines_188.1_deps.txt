@@ -1,0 +1,7 @@
+amod	rebels	Pro-Russia
+nsubj	downed	rebels
+root	ROOT	downed
+amod	plane	Malaysian
+dobj	downed	plane
+punct	downed	:
+dep	downed	Ukraine

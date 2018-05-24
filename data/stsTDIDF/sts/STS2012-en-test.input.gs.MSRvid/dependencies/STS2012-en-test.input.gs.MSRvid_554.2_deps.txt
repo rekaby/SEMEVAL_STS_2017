@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	shake	woman
+conj:and	man	shake
+dobj	shake	hands
+punct	man	.

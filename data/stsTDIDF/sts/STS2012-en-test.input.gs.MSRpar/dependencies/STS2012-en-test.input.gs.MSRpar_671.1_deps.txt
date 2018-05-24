@@ -1,0 +1,14 @@
+root	ROOT	Sterling
+acl	Sterling	was
+advmod	was	down
+nummod	percent	0.8
+nmod:npmod	down	percent
+case	dollar	against
+det	dollar	the
+nmod:against	down	dollar
+case	$	at
+nmod:at	down	$
+nummod	$	1.5875
+compound	=	GBP
+dep	$	=
+punct	Sterling	.

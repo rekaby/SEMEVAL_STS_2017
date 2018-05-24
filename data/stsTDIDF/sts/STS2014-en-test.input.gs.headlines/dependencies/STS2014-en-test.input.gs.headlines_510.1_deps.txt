@@ -1,0 +1,13 @@
+nsubj	set	Obama
+root	ROOT	set
+mark	speak	to
+xcomp	set	speak
+case	Syria	on
+nmod:on	speak	Syria
+case	House	from
+compound	House	White
+nmod:from	speak	House
+case	1:15	at
+nmod:at	speak	1:15
+advmod	1:15	p.m.
+nmod:tmod	set	EDT

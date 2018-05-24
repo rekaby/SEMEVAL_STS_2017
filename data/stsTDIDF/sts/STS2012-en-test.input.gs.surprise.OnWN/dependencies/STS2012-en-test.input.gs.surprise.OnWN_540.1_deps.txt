@@ -1,0 +1,10 @@
+root	ROOT	support
+mark	placing	by
+acl	support	placing
+conj:or	placing	placing
+case	solid	on
+cc	on	or
+conj:or	on	against
+advmod	solid	something
+nmod:against	placing	solid
+nmod:on	placing	solid

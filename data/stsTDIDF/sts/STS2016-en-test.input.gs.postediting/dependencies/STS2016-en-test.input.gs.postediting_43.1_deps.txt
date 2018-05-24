@@ -1,0 +1,10 @@
+aux	birthday	Will
+nsubj	birthday	it
+cop	birthday	be
+det	birthday	a
+root	ROOT	birthday
+case	party	without
+det	party	a
+amod	party	genuine
+nmod:without	birthday	party
+punct	birthday	.

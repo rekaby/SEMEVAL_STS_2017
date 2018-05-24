@@ -1,0 +1,11 @@
+det	bus	A
+amod	bus	double-decker
+nsubj	driving	bus
+root	ROOT	driving
+case	wheel	in
+mwe	in	front
+mwe	in	of
+det	wheel	a
+amod	wheel	ferris
+nmod:in_front_of	driving	wheel
+punct	driving	.

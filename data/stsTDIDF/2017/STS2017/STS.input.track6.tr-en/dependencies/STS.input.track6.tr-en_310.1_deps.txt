@@ -1,0 +1,9 @@
+det	woman	The
+amod	woman	other
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	jacket	a
+compound	jacket	leather
+dobj	wearing	jacket
+punct	wearing	.

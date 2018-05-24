@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	Qtarattalaa	on
+compound	Qtarattalaa	board
+nmod:on	man	Qtarattalaa
+case	window	of
+det	window	the
+nmod:of	Qtarattalaa	window
+punct	man	.

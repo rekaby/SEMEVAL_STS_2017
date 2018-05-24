@@ -1,0 +1,20 @@
+det	forecast	A
+amod	forecast	sour
+root	ROOT	forecast
+case	Inc.	from
+compound	Inc.	Sun
+compound	Inc.	Microsystems
+nmod:from	forecast	Inc.
+punct	forecast	.-8) nsubj(put-2, SUNW.O
+root	ROOT	put
+amod	pressure	more
+dobj	put	pressure
+case	Street	on
+compound	Street	Wall
+nmod:on	put	Street
+case	season	before
+det	season	the
+amod	season	quarterly
+compound	season	earnings
+nmod:before	put	season
+punct	put	.

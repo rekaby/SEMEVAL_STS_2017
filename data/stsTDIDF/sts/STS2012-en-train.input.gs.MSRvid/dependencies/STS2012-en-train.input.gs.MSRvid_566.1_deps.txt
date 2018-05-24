@@ -1,0 +1,7 @@
+det	child	A
+amod	child	young
+nsubj	rides	child
+root	ROOT	rides
+det	horse	a
+dobj	rides	horse
+punct	rides	.

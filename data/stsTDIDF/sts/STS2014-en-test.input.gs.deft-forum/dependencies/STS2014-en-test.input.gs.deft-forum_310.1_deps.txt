@@ -1,0 +1,7 @@
+nsubj	looking	They
+aux	looking	're
+root	ROOT	looking
+case	other	at
+det	other	each
+nmod:at	looking	other
+punct	looking	!

@@ -1,0 +1,9 @@
+root	ROOT	raise
+case	rank	in
+nmod:in	raise	rank
+punct	rank	,
+conj:or	rank	character
+punct	rank	,
+cc	rank	or
+conj:or	rank	status
+punct	raise	.

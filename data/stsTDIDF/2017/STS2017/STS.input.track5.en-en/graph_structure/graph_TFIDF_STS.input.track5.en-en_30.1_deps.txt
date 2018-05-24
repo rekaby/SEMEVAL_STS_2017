@@ -1,0 +1,7 @@
+digging	woman	nsubj
+ROOT	digging	root
+digging	is	cop
+digging	.	punct
+digging	sand	nmod:in
+sand	the	det
+sand	in	case

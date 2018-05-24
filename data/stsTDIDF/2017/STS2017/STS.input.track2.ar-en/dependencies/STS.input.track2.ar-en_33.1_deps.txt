@@ -1,0 +1,8 @@
+det	girl	The
+nsubj	sitting	girl
+aux	sitting	is
+root	ROOT	sitting
+cc	sitting	and
+conj:and	sitting	drinking
+dobj	drinking	water
+punct	sitting	.

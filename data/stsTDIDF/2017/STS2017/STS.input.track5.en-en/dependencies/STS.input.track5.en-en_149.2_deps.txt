@@ -1,0 +1,10 @@
+det	workers	The
+compound	workers	construction
+nsubj	sitting	workers
+aux	sitting	are
+root	ROOT	sitting
+compound:prt	sitting	down
+mark	eat	to
+xcomp	sitting	eat
+dobj	eat	lunch
+punct	sitting	.

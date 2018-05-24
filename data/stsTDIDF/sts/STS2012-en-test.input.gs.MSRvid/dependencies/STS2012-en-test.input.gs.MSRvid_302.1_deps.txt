@@ -1,0 +1,9 @@
+nummod	girls	Two
+amod	girls	little
+nsubj	talking	girls
+aux	talking	are
+root	ROOT	talking
+case	phone	on
+det	phone	the
+nmod:on	talking	phone
+punct	talking	.

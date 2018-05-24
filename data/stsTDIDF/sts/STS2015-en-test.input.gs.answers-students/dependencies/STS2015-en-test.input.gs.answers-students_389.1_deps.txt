@@ -1,0 +1,9 @@
+nsubjpass	contained	Battery
+auxpass	contained	is
+neg	contained	not
+root	ROOT	contained
+nsubj	path	i
+det	path	a
+amod	path	closed
+xcomp	contained	path
+punct	contained	.

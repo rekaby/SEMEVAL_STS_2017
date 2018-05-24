@@ -1,0 +1,11 @@
+det	man	A
+nsubj	sits	man
+root	ROOT	sits
+case	dock	by
+det	dock	a
+nmod:by	sits	dock
+acl	dock	looking
+case	water	at
+det	water	the
+nmod:at	looking	water
+punct	sits	.

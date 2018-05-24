@@ -1,0 +1,5 @@
+shots	rabbit	dep
+rabbit	Ttardan	amod
+shots	Two	nummod
+ROOT	shots	root
+shots	.	punct

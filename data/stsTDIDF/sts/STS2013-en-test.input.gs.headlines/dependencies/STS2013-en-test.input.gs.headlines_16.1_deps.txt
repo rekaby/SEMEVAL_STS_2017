@@ -1,0 +1,8 @@
+compound	speaker	Knesset
+root	ROOT	speaker
+punct	speaker	:
+compound	reelection	Obama
+appos	speaker	reelection
+amod	reelection	bad
+case	Israel	for
+nmod:for	bad	Israel

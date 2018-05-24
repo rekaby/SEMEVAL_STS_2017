@@ -1,0 +1,8 @@
+det	cat	A
+amod	cat	white
+nsubj	standing	cat
+root	ROOT	standing
+case	carpet	on
+det	carpet	a
+nmod:on	standing	carpet
+punct	standing	.

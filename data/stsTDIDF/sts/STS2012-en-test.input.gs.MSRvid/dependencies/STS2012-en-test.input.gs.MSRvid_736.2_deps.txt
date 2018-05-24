@@ -1,0 +1,7 @@
+det	pig	A
+compound	pig	Guinea
+nsubj	eats	pig
+root	ROOT	eats
+det	carrot	a
+dobj	eats	carrot
+punct	eats	.

@@ -1,0 +1,12 @@
+compound	swimming	Dog
+root	ROOT	swimming
+case	water	in
+det	water	the
+nmod:in	swimming	water
+case	stick	with
+det	stick	a
+nmod:with	swimming	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	stick	mouth
+punct	swimming	.

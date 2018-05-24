@@ -1,0 +1,7 @@
+compound	costs	Childcare
+nsubj	rise	costs
+root	ROOT	rise
+case	%	by
+advmod	6	nearly
+nummod	%	6
+nmod:by	rise	%

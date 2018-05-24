@@ -1,0 +1,17 @@
+risen	costs	nsubj
+resigned	have	aux
+Italy	and	cc
+ministers	Italy	nmod:of
+Italy	Greece	conj:and
+resigned	dangerously	advmod
+risen	have	aux
+risen	days	nmod:in
+dangerously	ministers	conj:and
+risen	resigned	dep
+Italy	's	case
+ministers	the	det
+Italy	of	case
+costs	borrowing	compound
+costs	Italy	nmod:poss
+ministers	prime	amod
+dangerously	and	cc

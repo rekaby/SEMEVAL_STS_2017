@@ -1,0 +1,6 @@
+compound	Moves	Hurricane
+compound	Moves	Isaac
+root	ROOT	Moves
+amod	Moves	Inland
+case	Landfall	After
+nmod:after	Inland	Landfall

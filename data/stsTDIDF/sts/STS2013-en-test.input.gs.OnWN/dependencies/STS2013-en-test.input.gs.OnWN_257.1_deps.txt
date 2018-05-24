@@ -1,0 +1,5 @@
+root	ROOT	provide
+cc	provide	or
+conj:or	provide	supply
+case	water	with
+nmod:with	provide	water

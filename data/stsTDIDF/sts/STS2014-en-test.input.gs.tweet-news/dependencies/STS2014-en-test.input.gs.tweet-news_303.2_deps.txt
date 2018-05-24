@@ -1,0 +1,10 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+dep	Contributor	Diderot
+punct	Diderot	,
+det	Exemplar	an
+amod	Exemplar	American
+appos	Diderot	Exemplar
+punct	Contributor	?-9) compound(S?r-2, Bien
+root	ROOT	S?r

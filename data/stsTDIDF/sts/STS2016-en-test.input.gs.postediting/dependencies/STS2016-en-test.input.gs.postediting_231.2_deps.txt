@@ -1,0 +1,15 @@
+case	end	At
+det	end	the
+nmod:at	exchange	end
+case	trade	of
+nmod:of	end	trade
+punct	exchange	,
+det	exchange	the
+compound	exchange	stock
+root	ROOT	exchange
+case	bascula	of
+compound	bascula	Prague
+nmod:of	exchange	bascula
+case	negative	in
+det	negative	the
+nmod:in	exchange	negative

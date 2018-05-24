@@ -1,0 +1,7 @@
+root	ROOT	Shave
+det	dog	the
+dobj	Shave	dog
+case	air	in
+det	air	the
+nmod:in	Shave	air
+punct	Shave	.

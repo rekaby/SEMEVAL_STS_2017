@@ -1,0 +1,7 @@
+compound	Design	MT
+nsubj	Rivals	Design
+advmod	Rivals	Now
+root	ROOT	Rivals
+dobj	Rivals	Technology
+case	Importance	in
+nmod:in	Technology	Importance

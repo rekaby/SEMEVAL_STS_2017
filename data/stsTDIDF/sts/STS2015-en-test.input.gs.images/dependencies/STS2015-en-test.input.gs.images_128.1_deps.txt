@@ -1,0 +1,10 @@
+nummod	people	Two
+nsubj	playing	people
+aux	playing	are
+root	ROOT	playing
+dobj	playing	golf
+case	course	on
+det	course	a
+compound	course	golf
+nmod:on	playing	course
+punct	playing	.

@@ -1,0 +1,7 @@
+nmod:poss	claims	Spain
+case	Spain	's
+amod	claims	jobless
+nsubj	hit	claims
+root	ROOT	hit
+amod	high	new
+dobj	hit	high

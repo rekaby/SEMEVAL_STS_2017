@@ -1,0 +1,16 @@
+det	dog	a
+nsubj	looks	dog
+case	floor	on
+det	floor	the
+nmod:on	dog	floor
+case	patio	of
+det	patio	a
+nmod:of	floor	patio
+root	ROOT	looks
+case	cat	at
+det	cat	a
+nmod:at	looks	cat
+case	fence	on
+det	fence	the
+nmod:on	looks	fence
+punct	looks	.

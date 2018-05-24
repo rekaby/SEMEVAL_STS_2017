@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	rubs	woman
+root	ROOT	rubs
+det	baby	a
+nmod:poss	leg	baby
+case	baby	's
+dobj	rubs	leg
+punct	rubs	.

@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	watching
+det	procession	the
+dobj	watching	procession
+punct	man	.

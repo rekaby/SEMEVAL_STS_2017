@@ -1,0 +1,6 @@
+root	ROOT	A
+amod	A	black
+cc	black	and
+det	dog	a
+amod	dog	yellow
+conj:and	black	dog

@@ -1,0 +1,6 @@
+det	statement	an
+amod	statement	itemized
+nsubj	owed	statement
+case	money	of
+nmod:of	statement	money
+root	ROOT	owed

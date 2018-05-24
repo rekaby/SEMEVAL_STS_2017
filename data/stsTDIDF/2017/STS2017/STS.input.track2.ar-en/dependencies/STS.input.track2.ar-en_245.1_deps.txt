@@ -1,0 +1,14 @@
+det	carts	The
+compound	carts	Vons
+compound	carts	shopping
+nsubjpass	loaded	carts
+aux	loaded	are
+auxpass	loaded	being
+root	ROOT	loaded
+case	truck	onto
+det	truck	the
+nmod:onto	loaded	truck
+case	man	by
+det	man	a
+nmod:agent	loaded	man
+punct	loaded	.

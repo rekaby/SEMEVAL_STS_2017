@@ -1,0 +1,11 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	Darwin	Debunking
+dep	NYTimes	Darwin
+punct	NYTimes	.-5) root(ROOT-0, Was
+nsubj	Wrong	He
+ccomp	Was	Wrong
+mark	Dating	About
+advcl	Wrong	Dating
+punct	Was	?-6) compound(#gender-2, #sex
+root	ROOT	#gender

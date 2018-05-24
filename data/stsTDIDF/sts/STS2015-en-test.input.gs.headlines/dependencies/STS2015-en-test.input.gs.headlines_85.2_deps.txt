@@ -1,0 +1,6 @@
+amod	chief	Nazi
+root	ROOT	chief
+acl	chief	buried
+case	cemetary	in
+amod	cemetary	Jewish
+nmod:in	buried	cemetary

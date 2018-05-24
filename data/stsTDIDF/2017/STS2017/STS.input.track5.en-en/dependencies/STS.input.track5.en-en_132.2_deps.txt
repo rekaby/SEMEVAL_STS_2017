@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	steps	on
+det	steps	the
+nmod:on	sitting	steps
+mark	tripped	because
+nsubj	tripped	she
+advcl	sitting	tripped
+cc	tripped	and
+conj:and	tripped	hurt
+nmod:poss	ankle	her
+dobj	hurt	ankle
+punct	sitting	.

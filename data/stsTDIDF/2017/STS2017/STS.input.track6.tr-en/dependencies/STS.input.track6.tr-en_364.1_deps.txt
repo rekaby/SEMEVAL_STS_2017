@@ -1,0 +1,10 @@
+det	guys	The
+nsubj	waiting	guys
+aux	waiting	are
+root	ROOT	waiting
+case	game	for
+det	game	a
+nmod:for	waiting	game
+mark	begin	to
+acl	game	begin
+punct	waiting	.

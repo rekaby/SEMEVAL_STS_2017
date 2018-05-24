@@ -1,0 +1,9 @@
+compound	futures	China
+compound	futures	stock
+compound	futures	index
+nsubj	higher	futures
+advmod	higher	close
+root	ROOT	higher
+punct	higher	--
+dep	higher	Dec.
+nummod	Dec.	4

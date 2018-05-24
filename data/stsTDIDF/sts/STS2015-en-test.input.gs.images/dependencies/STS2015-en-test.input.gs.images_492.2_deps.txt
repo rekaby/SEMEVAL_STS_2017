@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+case	hurdle	over
+det	hurdle	a
+nmod:over	jumps	hurdle
+punct	jumps	.

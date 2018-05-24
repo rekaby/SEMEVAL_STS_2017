@@ -1,0 +1,10 @@
+det	man	A
+nsubj	drives	man
+root	ROOT	drives
+det	bicycle	a
+dobj	drives	bicycle
+cc	drives	and
+conj:and	drives	runs
+nmod:poss	dog	his
+dobj	runs	dog
+punct	drives	.

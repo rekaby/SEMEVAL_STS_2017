@@ -1,0 +1,17 @@
+nsubj	think	I
+root	ROOT	think
+mark	set	that
+nsubj	set	France
+aux	set	has
+ccomp	think	set
+det	example	an
+amod	example	excellent
+dobj	set	example
+mark	deciding	by
+advmod	deciding	finally
+advcl	set	deciding
+mark	take	to
+xcomp	deciding	take
+det	step	this
+dobj	take	step
+punct	think	.

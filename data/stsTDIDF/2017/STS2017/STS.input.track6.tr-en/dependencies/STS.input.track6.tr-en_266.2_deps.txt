@@ -1,0 +1,7 @@
+det	entertainer	An
+root	ROOT	entertainer
+nsubj	loves	who
+acl:relcl	entertainer	loves
+det	crowd	a
+dobj	loves	crowd
+punct	entertainer	.

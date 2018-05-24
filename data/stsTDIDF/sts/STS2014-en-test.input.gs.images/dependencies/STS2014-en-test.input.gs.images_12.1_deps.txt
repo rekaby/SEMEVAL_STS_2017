@@ -1,0 +1,8 @@
+det	boys	The
+amod	boys	curious
+nsubj	look	boys
+root	ROOT	look
+case	shed	in
+det	shed	the
+nmod:in	look	shed
+punct	look	.

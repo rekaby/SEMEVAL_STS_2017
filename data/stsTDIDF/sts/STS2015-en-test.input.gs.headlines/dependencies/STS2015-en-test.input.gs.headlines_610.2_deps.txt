@@ -1,0 +1,6 @@
+nsubj	Continue	Protests
+root	ROOT	Continue
+case	Capital	In
+nmod:poss	Capital	Ukraine
+case	Ukraine	's
+nmod:in	Continue	Capital

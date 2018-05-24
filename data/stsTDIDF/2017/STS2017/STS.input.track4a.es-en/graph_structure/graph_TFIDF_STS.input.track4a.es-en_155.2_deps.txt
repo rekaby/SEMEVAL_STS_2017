@@ -1,0 +1,5 @@
+man	boy	conj:and
+walking	area	nmod:in
+area	deserted	amod
+walking	man	nsubj
+walking	are	aux

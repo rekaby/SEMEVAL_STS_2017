@@ -1,0 +1,6 @@
+det	group	The
+nsubj	competed	group
+case	men	of
+nmod:of	group	men
+root	ROOT	competed
+punct	competed	.

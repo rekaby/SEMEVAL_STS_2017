@@ -1,0 +1,10 @@
+root	ROOT	suggest
+det	necessity	the
+dobj	suggest	necessity
+case	intervention	of
+det	intervention	an
+nmod:of	necessity	intervention
+punct	suggest	;
+case	medicine	in
+nmod:in	suggest	medicine
+punct	suggest	.

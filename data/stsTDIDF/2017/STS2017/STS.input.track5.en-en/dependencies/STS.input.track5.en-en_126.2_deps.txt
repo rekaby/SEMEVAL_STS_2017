@@ -1,0 +1,10 @@
+nummod	people	Three
+nsubj	waiting	people
+aux	waiting	are
+root	ROOT	waiting
+case	rain	for
+det	rain	the
+nmod:for	waiting	rain
+mark	stop	to
+xcomp	waiting	stop
+punct	waiting	.

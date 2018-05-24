@@ -1,0 +1,8 @@
+compound	Speakes	Former
+compound	Speakes	Reagan
+compound	Speakes	spokesman
+compound	Speakes	Larry
+nsubj	dies	Speakes
+root	ROOT	dies
+case	74	at
+nmod:at	dies	74

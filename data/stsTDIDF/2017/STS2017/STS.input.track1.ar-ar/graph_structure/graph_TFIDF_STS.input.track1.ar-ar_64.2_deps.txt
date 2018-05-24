@@ -1,0 +1,7 @@
+pond	the	det
+swimming	after	mark
+closed	Dog	nsubj
+swimming	pond	nmod:in
+pond	in	case
+closed	water	dobj
+closed	swimming	advcl

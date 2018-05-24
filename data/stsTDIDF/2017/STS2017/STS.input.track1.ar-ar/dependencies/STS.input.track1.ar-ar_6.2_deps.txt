@@ -1,0 +1,10 @@
+det	people	Some
+nsubj	walking	people
+root	ROOT	walking
+case	rocks	on
+det	rocks	some
+nmod:on	walking	rocks
+case	water	in
+det	water	the
+nmod:in	rocks	water
+punct	walking	.

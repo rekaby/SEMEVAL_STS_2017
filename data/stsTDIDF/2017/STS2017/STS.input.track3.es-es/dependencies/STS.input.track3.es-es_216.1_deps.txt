@@ -1,0 +1,15 @@
+amod	gentlemen	Older
+root	ROOT	gentlemen
+case	jacket	in
+det	jacket	a
+amod	jacket	green
+nmod:in	gentlemen	jacket
+cc	jacket	and
+amod	jeans	blue
+conj:and	jacket	jeans
+acl	jacket	sitting
+case	table	at
+det	table	a
+amod	table	small
+nmod:at	sitting	table
+punct	gentlemen	.

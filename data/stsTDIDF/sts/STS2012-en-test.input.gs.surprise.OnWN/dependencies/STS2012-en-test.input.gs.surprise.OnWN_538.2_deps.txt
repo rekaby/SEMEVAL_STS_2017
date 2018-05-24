@@ -1,0 +1,5 @@
+root	ROOT	work
+case	tool	with
+det	tool	a
+nmod:with	work	tool
+punct	work	.

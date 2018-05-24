@@ -1,0 +1,13 @@
+case	situations	In
+nmod:in	tend	situations
+case	these	like
+nmod:like	situations	these
+punct	tend	,
+nsubj	tend	I
+root	ROOT	tend
+mark	lengthen	to
+xcomp	tend	lengthen
+compound:prt	lengthen	out
+det	phrase	the
+dobj	lengthen	phrase
+punct	tend	.

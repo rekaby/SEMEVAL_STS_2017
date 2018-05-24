@@ -1,0 +1,10 @@
+root	ROOT	protect
+case	heat	from
+nmod:from	protect	heat
+punct	heat	,
+conj:or	heat	cold
+punct	heat	,
+cc	heat	or
+amod	conditions	other
+amod	conditions	detrimental
+conj:or	heat	conditions

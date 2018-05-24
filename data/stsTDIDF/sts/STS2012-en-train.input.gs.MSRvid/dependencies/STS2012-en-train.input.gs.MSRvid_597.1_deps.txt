@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	doing	woman
+aux	doing	is
+root	ROOT	doing
+det	joker	a
+nsubj	make	joker
+ccomp	doing	make
+compound:prt	make	up
+case	man	on
+det	man	a
+nmod:on	make	man
+punct	doing	.

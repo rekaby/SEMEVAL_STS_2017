@@ -1,0 +1,14 @@
+det	guy	A
+nsubj	holding	guy
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	guy	shirt
+aux	holding	is
+root	ROOT	holding
+det	wires	some
+dobj	holding	wires
+punct	holding	,
+cc	holding	and
+conj:and	holding	tools
+punct	holding	.

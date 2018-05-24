@@ -1,0 +1,9 @@
+det	plant	A
+amod	plant	potted
+root	ROOT	plant
+case	sunlight	in
+nmod:in	plant	sunlight
+case	window	from
+det	window	a
+nmod:from	plant	window
+punct	plant	.

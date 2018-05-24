@@ -1,0 +1,11 @@
+rock	a	det
+helmet	white	amod
+climbing	.	punct
+helmet	a	det
+person	helmet	nmod:with
+rock	on	case
+climbing	person	nsubj
+climbing	is	aux
+ROOT	climbing	root
+climbing	rock	nmod:on
+helmet	with	case

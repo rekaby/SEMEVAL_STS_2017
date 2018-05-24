@@ -1,0 +1,7 @@
+compound	Lanka	Sri
+nsubj	seek	Lanka
+root	ROOT	seek
+amod	revival	one-day
+dobj	seek	revival
+case	Pakistan	against
+nmod:against	seek	Pakistan

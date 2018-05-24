@@ -1,0 +1,6 @@
+compound	regime	Syria
+nsubj	releases	regime
+root	ROOT	releases
+dobj	releases	hundreds
+case	prisoners	of
+nmod:of	hundreds	prisoners

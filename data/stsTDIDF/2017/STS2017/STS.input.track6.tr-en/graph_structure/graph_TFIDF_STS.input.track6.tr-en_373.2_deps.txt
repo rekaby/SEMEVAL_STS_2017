@@ -1,0 +1,7 @@
+play	together	advmod
+room	own	amod
+play	children	nsubj
+children	Two	nummod
+room	home	nmod:at
+play	room	nmod:in
+room	their	nmod:poss

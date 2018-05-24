@@ -1,0 +1,5 @@
+house	friend	nmod:poss
+playing	house	nmod:at
+playing	games	dobj
+children	playing	acl
+group	children	nmod:of

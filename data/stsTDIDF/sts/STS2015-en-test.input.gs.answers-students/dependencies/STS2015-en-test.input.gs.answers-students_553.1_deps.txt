@@ -1,0 +1,5 @@
+amod	paths	different
+root	ROOT	paths
+case	battery	with
+det	battery	the
+nmod:with	paths	battery

@@ -1,0 +1,8 @@
+root	ROOT	?-1) root(ROOT-0, Propaganda
+punct	Propaganda	?-2) case(Gays-2, By
+root	ROOT	Gays
+compound	Curbs	Faces
+amod	Curbs	Russian
+dep	Gays	Curbs
+case	Unrest	Amid
+nmod:amid	Gays	Unrest

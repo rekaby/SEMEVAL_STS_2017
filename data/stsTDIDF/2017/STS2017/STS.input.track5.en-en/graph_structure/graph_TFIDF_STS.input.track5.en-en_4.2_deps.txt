@@ -1,0 +1,5 @@
+child	bike	nmod:next_to
+child	.	punct
+bike	next	case
+bike	a	det
+ROOT	child	root

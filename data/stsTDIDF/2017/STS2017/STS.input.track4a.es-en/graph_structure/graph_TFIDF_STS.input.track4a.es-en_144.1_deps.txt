@@ -1,0 +1,12 @@
+pavement	a	det
+boy	suit	nmod:in
+lying	.	punct
+lying	boy	nsubj
+ROOT	lying	root
+lying	face	dobj
+suit	bathing	compound
+down	pavement	nmod:on
+lying	down	advmod
+pavement	damp	amod
+lying	is	aux
+pavement	on	case

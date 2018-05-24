@@ -1,0 +1,7 @@
+det	man	A
+nsubj	reels	man
+root	ROOT	reels
+case	fish	in
+det	fish	a
+nmod:in	reels	fish
+punct	reels	.

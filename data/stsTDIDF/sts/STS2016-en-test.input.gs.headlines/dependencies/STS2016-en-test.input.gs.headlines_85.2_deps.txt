@@ -1,0 +1,9 @@
+root	ROOT	Sony
+mark	axe	to
+acl	Sony	axe
+compound	unit	PC
+dobj	axe	unit
+case	overhaul	in
+amod	overhaul	major
+compound	overhaul	business
+nmod:in	axe	overhaul

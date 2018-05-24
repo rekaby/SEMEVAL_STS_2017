@@ -1,0 +1,9 @@
+amod	Muslims	Asian
+nsubj	celebrate	Muslims
+root	ROOT	celebrate
+dobj	celebrate	Eid
+mark	killed	as
+nsubj	killed	14
+advcl	celebrate	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

@@ -1,0 +1,10 @@
+root	ROOT	make
+det	image	an
+dobj	make	image
+cc	image	or
+conj:or	image	sound
+amod	image	clearer
+punct	make	;
+parataxis	make	put
+case	focus	into
+nmod:into	put	focus

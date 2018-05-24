@@ -1,0 +1,15 @@
+nsubj	say	I
+aux	say	would
+root	ROOT	say
+nsubj	impossible	it
+cop	impossible	is
+ccomp	say	impossible
+mark	know	to
+xcomp	impossible	know
+punct	say	,
+advmod	risk	so
+aux	risk	do
+neg	risk	n't
+parataxis	say	risk
+dobj	risk	it
+punct	say	.

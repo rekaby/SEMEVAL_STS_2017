@@ -1,0 +1,8 @@
+det	man	A
+nsubj	showing	man
+aux	showing	is
+root	ROOT	showing
+det	shirt	a
+compound	shirt	t
+dobj	showing	shirt
+punct	showing	.

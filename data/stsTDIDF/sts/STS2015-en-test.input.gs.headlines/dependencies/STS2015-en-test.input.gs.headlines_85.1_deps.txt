@@ -1,0 +1,9 @@
+root	ROOT	Nazi
+dep	Nazi	Gestapo
+appos	Gestapo	chief
+punct	chief	`
+root	`	buried
+case	cemetery	in
+amod	cemetery	Jewish
+nmod:in	buried	cemetery
+punct	buried	'

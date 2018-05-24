@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	placing	woman
+aux	placing	is
+root	ROOT	placing
+dobj	placing	skewers
+case	rack	onto
+det	rack	a
+nmod:onto	placing	rack
+punct	placing	.

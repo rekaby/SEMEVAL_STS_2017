@@ -1,0 +1,6 @@
+dogs	The	det
+cages	dogs	nsubj
+cages	are	cop
+cages	in	case
+ROOT	cages	root
+cages	.	punct

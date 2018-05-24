@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+case	supermarket	in
+det	supermarket	a
+nmod:in	man	supermarket
+punct	man	.

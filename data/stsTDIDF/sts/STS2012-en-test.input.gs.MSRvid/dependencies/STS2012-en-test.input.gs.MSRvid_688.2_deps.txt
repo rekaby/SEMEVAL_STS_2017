@@ -1,0 +1,9 @@
+det	person	A
+nsubj	cuts	person
+root	ROOT	cuts
+det	pepper	a
+amod	pepper	big
+amod	pepper	green
+dobj	cuts	pepper
+advmod	cuts	apart
+punct	cuts	.

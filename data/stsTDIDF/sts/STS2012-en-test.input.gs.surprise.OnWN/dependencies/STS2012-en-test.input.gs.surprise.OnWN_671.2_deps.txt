@@ -1,0 +1,6 @@
+det	situation	a
+amod	situation	demanding
+cc	demanding	or
+conj:or	demanding	stimulating
+root	ROOT	situation
+punct	situation	.

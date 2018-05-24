@@ -1,0 +1,10 @@
+det	plane	A
+compound	plane	WWII
+compound	plane	fighter
+root	ROOT	plane
+case	gear	with
+nmod:poss	gear	its
+compound	gear	landing
+nmod:with	plane	gear
+advmod	plane	down
+punct	plane	.

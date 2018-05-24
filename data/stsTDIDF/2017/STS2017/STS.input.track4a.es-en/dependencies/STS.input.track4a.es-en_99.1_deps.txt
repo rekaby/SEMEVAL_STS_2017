@@ -1,0 +1,13 @@
+expl	's	There
+root	ROOT	's
+det	man	an
+amod	man	old
+nsubj	's	man
+punct	's	,
+dep	's	ironing
+det	shirt	a
+dobj	ironing	shirt
+case	job	for
+nmod:poss	job	his
+nmod:for	shirt	job
+punct	's	.

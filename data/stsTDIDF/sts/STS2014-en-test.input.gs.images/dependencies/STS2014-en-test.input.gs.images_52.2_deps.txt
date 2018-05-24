@@ -1,0 +1,7 @@
+amod	desk	Messy
+compound	desk	computer
+root	ROOT	desk
+case	monitors	with
+nummod	monitors	two
+nmod:with	desk	monitors
+punct	desk	.

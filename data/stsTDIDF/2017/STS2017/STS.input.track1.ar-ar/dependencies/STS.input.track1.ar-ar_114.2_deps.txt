@@ -1,0 +1,8 @@
+compound	shirt	Girl
+compound	shirt	striped
+root	ROOT	shirt
+acl	shirt	sitting
+case	bicycle	on
+det	bicycle	a
+nmod:on	sitting	bicycle
+punct	shirt	.

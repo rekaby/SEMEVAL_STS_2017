@@ -1,0 +1,7 @@
+advmod	much	How
+amod	deceit	much
+dobj	encounter	deceit
+aux	encounter	do
+nsubj	encounter	we
+root	ROOT	encounter
+punct	encounter	?

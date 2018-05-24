@@ -1,0 +1,6 @@
+compound	bomber	Suicide
+nsubj	hits	bomber
+root	ROOT	hits
+dobj	hits	funeral
+case	Iraq	in
+nmod:in	funeral	Iraq

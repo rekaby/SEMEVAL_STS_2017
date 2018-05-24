@@ -1,0 +1,6 @@
+nsubj	Clash	Protesters
+root	ROOT	Clash
+case	Police	with
+nmod:with	Clash	Police
+case	Brazil	in
+nmod:in	Police	Brazil

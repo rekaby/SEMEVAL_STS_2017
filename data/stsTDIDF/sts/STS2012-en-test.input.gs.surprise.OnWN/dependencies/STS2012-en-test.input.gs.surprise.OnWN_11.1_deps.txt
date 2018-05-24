@@ -1,0 +1,7 @@
+root	ROOT	anything
+amod	anything	illusory
+punct	anything	,
+neg	concrete	not
+conj:or	anything	concrete
+cc	anything	or
+conj:or	anything	real

@@ -1,0 +1,12 @@
+det	group	A
+nsubj	watch	group
+case	people	of
+nmod:of	group	people
+root	ROOT	watch
+det	performance	the
+dobj	watch	performance
+case	group	of
+det	group	a
+compound	group	music
+nmod:of	performance	group
+punct	watch	.

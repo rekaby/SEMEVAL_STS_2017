@@ -1,0 +1,9 @@
+nsubj	steps	Iran
+root	ROOT	steps
+compound:prt	steps	up
+compound	efforts	relief
+dobj	steps	efforts
+mark	kill	after
+nsubj	kill	quakes
+advcl	steps	kill
+dobj	kill	227

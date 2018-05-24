@@ -1,0 +1,8 @@
+nmod:poss	Peres	Israel
+case	Israel	's
+nsubj	urges	Peres
+root	ROOT	urges
+compound	talks	return
+case	peace	to
+nmod:to	return	peace
+dobj	urges	talks

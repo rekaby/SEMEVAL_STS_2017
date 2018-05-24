@@ -1,0 +1,12 @@
+case	areas	In
+amod	areas	other
+nmod:in	introduced	areas
+punct	introduced	,
+compound	law	sharia
+nsubjpass	introduced	law
+aux	introduced	is
+auxpass	introduced	being
+root	ROOT	introduced
+case	force	by
+nmod:agent	introduced	force
+punct	introduced	.

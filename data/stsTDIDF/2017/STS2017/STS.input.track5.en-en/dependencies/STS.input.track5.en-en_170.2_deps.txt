@@ -1,0 +1,6 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+det	dog	a
+dobj	walks	dog
+punct	walks	.

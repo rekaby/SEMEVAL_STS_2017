@@ -1,0 +1,7 @@
+det	identification	the
+root	ROOT	identification
+cc	identification	or
+det	realization	the
+conj:or	identification	realization
+case	something	of
+nmod:of	realization	something

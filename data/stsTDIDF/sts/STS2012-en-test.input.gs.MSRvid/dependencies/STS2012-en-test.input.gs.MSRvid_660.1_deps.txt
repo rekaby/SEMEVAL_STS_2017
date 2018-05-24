@@ -1,0 +1,11 @@
+det	man	A
+nsubj	lays	man
+root	ROOT	lays
+case	ground	on
+det	ground	the
+nmod:on	lays	ground
+cc	lays	and
+conj:and	lays	aims
+det	rifle	a
+dobj	aims	rifle
+punct	lays	.

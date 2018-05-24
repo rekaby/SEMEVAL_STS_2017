@@ -1,0 +1,8 @@
+root	ROOT	protect
+cc	protect	or
+conj:or	protect	speak
+compound:prt	speak	up
+case	criticism	against
+nmod:against	speak	criticism
+cc	criticism	or
+conj:or	criticism	opposition

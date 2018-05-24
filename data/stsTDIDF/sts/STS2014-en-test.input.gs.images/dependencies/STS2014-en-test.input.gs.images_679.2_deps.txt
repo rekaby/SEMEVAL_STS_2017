@@ -1,0 +1,11 @@
+det	bird	A
+amod	red	small
+amod	bird	red
+cc	red	and
+conj:and	red	grey
+root	ROOT	bird
+acl	bird	perched
+case	tree	in
+det	tree	a
+nmod:in	perched	tree
+punct	bird	.

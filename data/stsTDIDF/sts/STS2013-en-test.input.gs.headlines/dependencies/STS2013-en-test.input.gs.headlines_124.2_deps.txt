@@ -1,0 +1,10 @@
+root	ROOT	Sarkozy
+mark	sue	to
+acl	Sarkozy	sue
+case	bursts	after
+compound	bursts	Gaddafi
+compound	bursts	cash
+compound	bursts	claim
+nmod:after	sue	bursts
+case	campaign	into
+nmod:into	bursts	campaign

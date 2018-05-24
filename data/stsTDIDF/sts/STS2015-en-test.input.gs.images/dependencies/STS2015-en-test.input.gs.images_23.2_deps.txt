@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	jumps	dog
+root	ROOT	jumps
+case	air	in
+det	air	the
+nmod:in	jumps	air
+mark	catch	to
+xcomp	jumps	catch
+det	toy	a
+dobj	catch	toy
+punct	jumps	.

@@ -1,0 +1,10 @@
+det	surfer	The
+nsubj	flip	surfer
+aux	flip	does
+det	flip	a
+root	ROOT	flip
+case	wave	off
+mwe	off	of
+det	wave	a
+nmod:off_of	flip	wave
+punct	flip	.

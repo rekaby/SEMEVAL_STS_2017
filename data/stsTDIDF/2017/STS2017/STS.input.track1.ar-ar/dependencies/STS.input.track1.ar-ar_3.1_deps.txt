@@ -1,0 +1,6 @@
+nsubj	walk	Women
+root	ROOT	walk
+dobj	walk	side
+case	side	by
+nmod:by	walk	side
+punct	walk	.

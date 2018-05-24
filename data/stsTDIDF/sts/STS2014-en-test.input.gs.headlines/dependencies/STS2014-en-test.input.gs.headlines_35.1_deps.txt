@@ -1,0 +1,12 @@
+nsubj	Dies	Man
+nsubj	Set	Who
+acl:relcl	Man	Set
+dobj	Set	Himself
+case	Fire	on
+nmod:on	Set	Fire
+case	Mall	on
+compound	Mall	National
+nmod:on	Fire	Mall
+root	ROOT	Dies
+case	Injuries	of
+nmod:of	Dies	Injuries

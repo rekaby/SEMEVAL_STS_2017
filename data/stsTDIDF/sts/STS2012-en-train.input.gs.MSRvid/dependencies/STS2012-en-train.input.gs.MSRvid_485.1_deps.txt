@@ -1,0 +1,12 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	roof	on
+det	roof	a
+nmod:on	standing	roof
+amod	roof	top
+acl	top	playing
+det	violin	a
+dobj	playing	violin
+punct	standing	.

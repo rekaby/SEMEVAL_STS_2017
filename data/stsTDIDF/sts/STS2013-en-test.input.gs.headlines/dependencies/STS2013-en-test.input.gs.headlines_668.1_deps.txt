@@ -1,0 +1,8 @@
+compound	shares	Europe
+nsubj	bounce	shares
+root	ROOT	bounce
+case	stimulus	as
+amod	stimulus	more
+compound	stimulus	China
+nmod:as	bounce	stimulus
+dep	bounce	seen

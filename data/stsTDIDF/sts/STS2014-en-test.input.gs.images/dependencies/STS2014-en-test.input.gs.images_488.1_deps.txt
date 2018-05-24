@@ -1,0 +1,10 @@
+compound	cow	Tan
+root	ROOT	cow
+case	tags	with
+compound	tags	ear
+nmod:with	cow	tags
+case	field	on
+det	field	a
+amod	field	grassy
+nmod:on	tags	field
+punct	cow	.

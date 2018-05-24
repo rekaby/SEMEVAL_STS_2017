@@ -1,0 +1,12 @@
+det	skateboarder	A
+root	ROOT	skateboarder
+case	air	in
+det	air	the
+nmod:in	skateboarder	air
+case	ramp	at
+det	ramp	a
+amod	ramp	big
+punct	ramp	,
+amod	ramp	outdoor
+nmod:at	skateboarder	ramp
+punct	skateboarder	.

@@ -1,0 +1,11 @@
+nsubj	having	i
+aux	having	be
+root	ROOT	having
+nsubj	cornell	conversations
+aux	cornell	will
+ccomp	having	cornell
+amod	brother	west
+nmod:poss	brother	My
+amod	brother	dear
+dobj	cornell	brother
+punct	having	.

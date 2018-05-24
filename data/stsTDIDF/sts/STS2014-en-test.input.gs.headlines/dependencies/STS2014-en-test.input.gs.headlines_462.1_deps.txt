@@ -1,0 +1,5 @@
+nsubj	green-lights	Israel
+root	ROOT	green-lights
+nummod	homes	1500
+amod	homes	settler
+dobj	green-lights	homes

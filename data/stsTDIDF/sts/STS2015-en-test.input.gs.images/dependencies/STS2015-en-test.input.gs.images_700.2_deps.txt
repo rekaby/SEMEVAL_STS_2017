@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	swims	dog
+root	ROOT	swims
+case	water	in
+amod	water	blue
+nmod:in	swims	water
+punct	swims	.

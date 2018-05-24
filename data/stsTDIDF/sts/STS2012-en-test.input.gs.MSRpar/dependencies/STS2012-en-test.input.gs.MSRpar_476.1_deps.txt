@@ -1,0 +1,12 @@
+det	jets	The
+compound	jets	Embraer
+nsubjpass	scheduled	jets
+auxpass	scheduled	are
+root	ROOT	scheduled
+mark	delivered	to
+auxpass	delivered	be
+xcomp	scheduled	delivered
+case	September	by
+nmod:agent	delivered	September
+nummod	September	2006
+punct	scheduled	.

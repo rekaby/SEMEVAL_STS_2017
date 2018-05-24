@@ -1,0 +1,12 @@
+compound	heads	Vodafone
+root	ROOT	heads
+case	attention	rather
+nmod:poss	attention	its
+nmod:rather	heads	attention
+mark	obtaining	on
+acl	attention	obtaining
+nmod:poss	licences	its
+amod	licences	own
+compound	licences	3G
+dobj	obtaining	licences
+punct	heads	.

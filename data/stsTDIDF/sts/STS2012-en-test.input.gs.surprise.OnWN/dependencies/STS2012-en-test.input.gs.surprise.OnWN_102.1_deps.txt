@@ -1,0 +1,17 @@
+root	ROOT	Change
+det	pitch	the
+amod	pitch	key
+punct	pitch	,
+dobj	Change	pitch
+punct	pitch	,
+conj:or	pitch	tone
+punct	pitch	,
+cc	pitch	or
+conj:or	pitch	volume
+case	reasons	of
+punct	reasons	,
+advmod	reasons	likely
+case	reasons	for
+amod	reasons	aesthetic
+nmod:for	volume	reasons
+punct	Change	.

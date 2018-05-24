@@ -1,0 +1,10 @@
+expl	's	There
+root	ROOT	's
+det	man	a
+amod	man	black
+nsubj	's	man
+case	hat	with
+det	hat	a
+amod	hat	black
+nmod:with	's	hat
+punct	's	.

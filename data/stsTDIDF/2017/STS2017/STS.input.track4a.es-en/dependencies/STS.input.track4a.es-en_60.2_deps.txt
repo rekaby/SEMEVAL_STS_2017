@@ -1,0 +1,13 @@
+det	man	A
+nsubj	running	man
+cc	man	and
+conj:and	man	woman
+aux	running	are
+root	ROOT	running
+case	store	to
+det	store	the
+nmod:to	running	store
+case	day	on
+det	day	a
+compound	day	Summer
+nmod:on	running	day

@@ -1,0 +1,7 @@
+nsubj	kills	Fire
+case	hospital	in
+amod	hospital	Russian
+amod	hospital	psychiatric
+nmod:in	Fire	hospital
+root	ROOT	kills
+dobj	kills	38

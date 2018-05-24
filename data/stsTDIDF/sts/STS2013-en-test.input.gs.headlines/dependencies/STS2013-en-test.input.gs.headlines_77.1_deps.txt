@@ -1,0 +1,5 @@
+compound	bid	Syria
+compound	bid	journalists
+compound	bid	rescue
+nsubj	fails	bid
+root	ROOT	fails

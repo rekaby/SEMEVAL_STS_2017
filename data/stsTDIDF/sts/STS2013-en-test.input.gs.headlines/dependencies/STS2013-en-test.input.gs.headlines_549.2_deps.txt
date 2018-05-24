@@ -1,0 +1,7 @@
+nsubj	killed	Three
+csubjpass	named	killed
+case	crash	in
+compound	crash	horror
+nmod:in	killed	crash
+auxpass	named	are
+root	ROOT	named

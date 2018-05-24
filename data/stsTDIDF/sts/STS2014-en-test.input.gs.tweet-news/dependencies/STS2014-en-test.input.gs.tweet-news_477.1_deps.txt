@@ -1,0 +1,8 @@
+amod	FM	Greek
+root	ROOT	FM
+punct	FM	:
+amod	chance	Small
+dep	FM	chance
+nsubj	leaves	Greece
+acl:relcl	chance	leaves
+dobj	leaves	EU

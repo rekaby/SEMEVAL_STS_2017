@@ -1,0 +1,17 @@
+advmod	need	Supposedly
+nsubj	need	Danios
+root	ROOT	need
+case	school	to
+nmod:to	need	school
+nsubj	mean	which
+acl:relcl	school	mean
+nsubj	need	you
+ccomp	mean	need
+case	least	at
+nmod:npmod	5-8	least
+nummod	Danios	5-8
+dobj	need	Danios
+case	tank	in
+nmod:poss	tank	your
+nmod:in	need	tank
+punct	need	.

@@ -1,0 +1,7 @@
+det	crowd	The
+nsubj	goes	crowd
+root	ROOT	goes
+xcomp	goes	crazy
+case	band	over
+det	band	the
+nmod:over	crazy	band

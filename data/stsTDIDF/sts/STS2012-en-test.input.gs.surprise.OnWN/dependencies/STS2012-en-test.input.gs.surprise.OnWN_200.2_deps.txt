@@ -1,0 +1,8 @@
+det	interpretation	an
+root	ROOT	interpretation
+case	text	of
+det	text	a
+nmod:of	interpretation	text
+cc	text	or
+conj:or	text	action
+punct	interpretation	.

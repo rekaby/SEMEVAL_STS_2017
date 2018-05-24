@@ -1,0 +1,13 @@
+compound	wood	I
+nsubj	asked	wood
+aux	asked	have
+root	ROOT	asked
+dobj	asked	her
+mark	is	if
+nsubj	is	she
+advcl	asked	is
+advmod	is	up
+case	treesome	for
+det	treesome	a
+nmod:for	up	treesome
+punct	asked	.

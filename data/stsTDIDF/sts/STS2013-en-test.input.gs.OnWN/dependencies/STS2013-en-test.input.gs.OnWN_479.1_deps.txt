@@ -1,0 +1,10 @@
+det	value	the
+root	ROOT	value
+case	conversion	of
+det	currency	a
+nmod:poss	conversion	currency
+case	currency	's
+nmod:of	value	conversion
+case	currency	to
+det	currency	another
+nmod:to	value	currency

@@ -1,0 +1,8 @@
+det	digs	A
+amod	digs	brown
+compound	digs	dog
+root	ROOT	digs
+case	sand	in
+det	sand	the
+nmod:in	digs	sand
+punct	digs	.

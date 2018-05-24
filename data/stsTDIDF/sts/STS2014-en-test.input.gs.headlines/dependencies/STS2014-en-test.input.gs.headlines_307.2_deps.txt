@@ -1,0 +1,8 @@
+nsubj	loses	Cameron
+root	ROOT	loses
+amod	vote	parliamentary
+dobj	loses	vote
+case	Syria	on
+nmod:on	vote	Syria
+amod	action	military
+dep	Syria	action

@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	racing
+nsubj	run	dogs
+root	ROOT	run
+case	mud	in
+det	mud	the
+nmod:in	run	mud
+punct	run	.

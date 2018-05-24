@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	building	boy
+cop	building	is
+case	building	in
+det	building	an
+compound	building	office
+root	ROOT	building
+punct	building	.

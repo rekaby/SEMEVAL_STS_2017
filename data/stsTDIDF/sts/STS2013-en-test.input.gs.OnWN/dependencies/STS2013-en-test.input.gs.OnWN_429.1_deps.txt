@@ -1,0 +1,12 @@
+aux	else	have
+det	value	the
+amod	value	same
+dobj	have	value
+punct	have	,
+auxpass	else	be
+cc	be	or
+conj:or	be	become
+xcomp	become	equivalent
+case	something	to
+nmod:to	equivalent	something
+root	ROOT	else

@@ -1,0 +1,10 @@
+det	boys	The
+nsubj	earning	boys
+aux	earning	are
+root	ROOT	earning
+nmod:poss	belt	their
+amod	belt	next
+dobj	earning	belt
+case	karate	in
+nmod:in	earning	karate
+punct	earning	.

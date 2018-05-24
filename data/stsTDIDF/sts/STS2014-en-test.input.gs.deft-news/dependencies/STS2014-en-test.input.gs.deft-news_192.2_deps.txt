@@ -1,0 +1,17 @@
+nsubjpass	charged	some
+case	accused	of
+det	accused	the
+nmod:of	some	accused
+aux	charged	will
+advmod	charged	also
+auxpass	charged	be
+root	ROOT	charged
+case	laundering	with
+compound	laundering	money
+nmod:with	charged	laundering
+punct	laundering	,
+compound	evasion	tax
+conj:and	laundering	evasion
+cc	laundering	and
+conj:and	laundering	corruption
+punct	charged	.

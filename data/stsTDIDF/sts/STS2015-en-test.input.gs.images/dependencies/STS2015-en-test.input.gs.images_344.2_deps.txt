@@ -1,0 +1,12 @@
+det	group	A
+nsubj	sit	group
+case	people	of
+nmod:of	group	people
+root	ROOT	sit
+case	fire	around
+det	fire	a
+amod	fire	blazing
+nmod:around	sit	fire
+case	night	at
+nmod:at	sit	night
+punct	sit	.

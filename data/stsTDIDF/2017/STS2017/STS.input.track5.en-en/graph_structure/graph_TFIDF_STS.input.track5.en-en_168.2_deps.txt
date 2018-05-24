@@ -1,0 +1,6 @@
+blue	in	case
+playing	team	nmod:against
+playing	team	nsubj
+team	blue	nmod:in
+white	in	case
+playing	white	nmod:in

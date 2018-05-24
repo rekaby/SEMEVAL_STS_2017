@@ -1,0 +1,12 @@
+aux	cook	do
+neg	cook	n't
+root	ROOT	cook
+case	him	for
+nmod:for	cook	him
+punct	he	-
+nmod	cook	he
+dep	he	's
+nsubj	's	a
+acl	a	grown
+compound:prt	grown	up
+punct	cook	.

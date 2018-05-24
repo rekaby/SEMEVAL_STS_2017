@@ -1,0 +1,15 @@
+advmod	let	First
+punct	let	,
+root	ROOT	let
+nsubj	say	me
+ccomp	let	say
+dobj	say	I
+dep	I	've
+neg	experience	no
+dobj	've	experience
+acl	experience	doing
+dobj	doing	battle
+case	grass	with
+compound	grass	Bermuda
+nmod:with	battle	grass
+punct	let	.

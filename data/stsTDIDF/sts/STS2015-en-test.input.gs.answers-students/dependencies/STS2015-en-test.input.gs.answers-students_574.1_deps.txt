@@ -1,0 +1,12 @@
+det	battery	A
+nsubj	connect	battery
+aux	connect	should
+root	ROOT	connect
+case	bulb	to
+det	bulb	a
+nmod:to	connect	bulb
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	connect	path
+punct	connect	.

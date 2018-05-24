@@ -1,0 +1,7 @@
+nsubj	look	I
+aux	look	would
+root	ROOT	look
+case	way	at
+det	way	this
+nmod:at	look	way
+punct	look	:

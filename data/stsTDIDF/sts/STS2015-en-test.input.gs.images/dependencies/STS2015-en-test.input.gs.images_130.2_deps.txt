@@ -1,0 +1,16 @@
+det	dog	A
+compound	dog	tan
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	grass	through
+det	grass	the
+nmod:through	running	grass
+case	toy	with
+det	toy	a
+amod	toy	yellow
+nmod:with	running	toy
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	toy	mouth
+punct	running	.

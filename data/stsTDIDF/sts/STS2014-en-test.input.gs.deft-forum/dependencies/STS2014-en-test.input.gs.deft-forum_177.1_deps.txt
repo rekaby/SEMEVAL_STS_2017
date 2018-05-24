@@ -1,0 +1,15 @@
+neg	astros	not
+nsubjpass	frozen	astros
+cc	astros	or
+compound	Gameday	orioles
+amod	Gameday	bad
+conj:or	astros	Gameday
+case	game	for
+det	game	the
+compound	game	orioles
+nmod:for	astros	game
+auxpass	frozen	is
+root	ROOT	frozen
+case	me	for
+nmod:for	frozen	me
+punct	frozen	.

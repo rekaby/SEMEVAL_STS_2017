@@ -1,0 +1,12 @@
+nsubj	take	It
+aux	take	would
+root	ROOT	take
+nummod	votes	three
+dobj	take	votes
+mark	kill	to
+advcl	take	kill
+det	ACC	the
+nmod:poss	expansion	ACC
+case	ACC	's
+dobj	kill	expansion
+punct	take	.

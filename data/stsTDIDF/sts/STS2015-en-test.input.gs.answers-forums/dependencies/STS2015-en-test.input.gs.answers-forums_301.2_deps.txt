@@ -1,0 +1,14 @@
+aux	taken	Having
+advmod	recently	fairly
+advmod	taken	recently
+advcl	feel	taken
+compound:prt	taken	up
+det	sport	the
+dobj	taken	sport
+nmod:npmod	sport	myself
+punct	feel	,
+nsubj	feel	I
+root	ROOT	feel
+nmod:poss	discomfort	your
+dobj	feel	discomfort
+punct	feel	.

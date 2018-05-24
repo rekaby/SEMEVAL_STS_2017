@@ -1,0 +1,10 @@
+compound	conditions	Syria
+compound	conditions	peace
+compound	conditions	plan
+nsubj	unacceptable	conditions
+punct	unacceptable	``
+ccomp	says	unacceptable
+punct	says	,
+punct	says	''
+nsubj	says	opposition
+root	ROOT	says

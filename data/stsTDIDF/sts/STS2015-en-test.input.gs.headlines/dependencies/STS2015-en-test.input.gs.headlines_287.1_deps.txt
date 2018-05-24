@@ -1,0 +1,7 @@
+compound	violence	Gang
+nsubj	kills	violence
+root	ROOT	kills
+dobj	kills	16
+case	prison	in
+amod	prison	Venezuelan
+nmod:in	kills	prison

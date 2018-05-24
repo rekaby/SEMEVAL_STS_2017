@@ -1,0 +1,8 @@
+det	man	A
+nsubj	painting	man
+case	beard	with
+det	beard	a
+nmod:with	man	beard
+cop	painting	is
+root	ROOT	painting
+punct	painting	.

@@ -1,0 +1,9 @@
+red	white	conj:and
+wearing	red	dobj
+clothes	gray	amod
+make	music	dobj
+man	An	det
+clothes	bluish	amod
+red	clothes	conj:and
+saw	make	acl
+using	man	nsubj

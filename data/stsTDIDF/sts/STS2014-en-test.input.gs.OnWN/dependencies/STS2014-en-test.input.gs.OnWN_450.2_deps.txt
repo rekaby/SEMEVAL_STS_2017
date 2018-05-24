@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	connected	of
+auxpass	connected	being
+acl	state	connected
+punct	state	.

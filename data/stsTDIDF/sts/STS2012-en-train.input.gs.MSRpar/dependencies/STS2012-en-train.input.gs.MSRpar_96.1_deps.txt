@@ -1,0 +1,15 @@
+nsubjpass	injured	Kadyrov
+auxpass	injured	was
+neg	injured	not
+root	ROOT	injured
+punct	injured	,
+cc	injured	but
+conj:but	injured	four
+case	bodyguards	of
+nmod:poss	bodyguards	his
+nmod:of	four	bodyguards
+cop	those	were
+case	those	among
+dep	four	those
+acl	those	killed
+punct	injured	.

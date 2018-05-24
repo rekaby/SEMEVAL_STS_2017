@@ -1,0 +1,11 @@
+advmod	cite	How
+aux	cite	should
+nsubj	cite	I
+root	ROOT	cite
+compound	questions	StackOverflow
+dobj	cite	questions
+case	paper	in
+nmod:poss	paper	my
+compound	paper	term
+nmod:in	cite	paper
+punct	cite	?

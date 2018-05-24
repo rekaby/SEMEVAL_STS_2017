@@ -1,0 +1,13 @@
+compound	Jones	Griff
+compound	Jones	Rhys
+root	ROOT	Jones
+punct	Jones	:
+compound	Smith	Mel
+nsubj	force	Smith
+cop	force	was
+punct	force	'
+det	force	a
+dep	Jones	force
+case	life	for
+nmod:for	force	life
+punct	force	'

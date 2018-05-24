@@ -1,0 +1,7 @@
+nsubj	confirms	Israel
+root	ROOT	confirms
+nsubj	targeted	strike
+case	Syria	on
+nmod:on	strike	Syria
+ccomp	confirms	targeted
+dobj	targeted	weapons

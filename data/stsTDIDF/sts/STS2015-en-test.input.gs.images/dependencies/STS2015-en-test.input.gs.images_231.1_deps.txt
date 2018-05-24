@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	suit	in
+det	suit	a
+amod	suit	gray
+nmod:in	man	suit
+acl	suit	locking
+compound:prt	locking	up
+det	bicycle	a
+dobj	locking	bicycle

@@ -1,0 +1,8 @@
+nsubj	vows	Obama
+root	ROOT	vows
+mark	save	to
+xcomp	vows	save
+dobj	save	Iraqis
+dep	save	stranded
+case	mountain	on
+nmod:on	stranded	mountain

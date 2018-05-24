@@ -1,0 +1,7 @@
+det	cat	The
+root	ROOT	cat
+acl	cat	played
+case	watermelon	with
+det	watermelon	a
+nmod:with	played	watermelon
+punct	cat	.

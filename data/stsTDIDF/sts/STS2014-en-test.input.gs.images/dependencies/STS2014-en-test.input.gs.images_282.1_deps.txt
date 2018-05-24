@@ -1,0 +1,7 @@
+det	photo	A
+amod	photo	black-and-white
+root	ROOT	photo
+case	loveseat	of
+det	loveseat	a
+nmod:of	photo	loveseat
+punct	photo	.

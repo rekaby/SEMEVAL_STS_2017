@@ -1,0 +1,8 @@
+walking	is	aux
+man	from	case
+officer	next	case
+walking	man	nmod:from
+walking	man	nsubj
+man	officer	nmod:next_to
+walking	away	advmod
+man	another	det

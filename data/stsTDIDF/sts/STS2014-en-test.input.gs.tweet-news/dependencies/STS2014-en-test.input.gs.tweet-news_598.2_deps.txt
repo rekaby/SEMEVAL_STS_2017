@@ -1,0 +1,11 @@
+advmod	5	How
+nummod	Workers	5
+amod	Workers	Older
+nsubj	Saw	Workers
+root	ROOT	Saw
+det	Chance	a
+dobj	Saw	Chance
+mark	Remake	to
+acl	Chance	Remake
+nmod:poss	Careers	Their
+dobj	Remake	Careers

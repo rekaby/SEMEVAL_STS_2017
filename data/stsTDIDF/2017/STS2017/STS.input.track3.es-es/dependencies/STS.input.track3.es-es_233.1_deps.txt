@@ -1,0 +1,8 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	standing
+case	microwave	next
+mwe	next	to
+det	microwave	a
+nmod:next_to	standing	microwave
+punct	woman	.

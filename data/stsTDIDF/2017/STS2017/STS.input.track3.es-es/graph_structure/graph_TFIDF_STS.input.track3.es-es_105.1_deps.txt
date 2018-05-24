@@ -1,0 +1,6 @@
+smartphone	else	advmod
+smartphone	nothing	conj:and
+smartphone	a	det
+has	child	nsubj
+has	smartphone	dobj
+smartphone	and	cc

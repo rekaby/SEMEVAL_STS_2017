@@ -1,0 +1,5 @@
+amod	cabinets	Wooden
+root	ROOT	cabinets
+case	kitchen	in
+nmod:in	cabinets	kitchen
+punct	cabinets	.

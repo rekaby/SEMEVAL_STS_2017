@@ -1,0 +1,6 @@
+compound	Trove	WikiLeaks
+compound	Trove	Releasing
+nsubj	Documents	Trove
+case	Syria	of
+nmod:of	Trove	Syria
+root	ROOT	Documents

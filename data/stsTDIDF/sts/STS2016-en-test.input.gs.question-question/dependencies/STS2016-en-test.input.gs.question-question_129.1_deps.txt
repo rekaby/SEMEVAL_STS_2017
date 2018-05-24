@@ -1,0 +1,13 @@
+root	ROOT	Is
+nsubj	practice	it
+det	practice	a
+amod	practice	bad
+compound	practice	writing
+xcomp	Is	practice
+mark	start	to
+xcomp	practice	start
+dobj	start	sentences
+case	verb	with
+det	verb	a
+nmod:with	start	verb
+punct	Is	?

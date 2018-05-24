@@ -1,0 +1,6 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	tomatoes
+punct	cutting	.

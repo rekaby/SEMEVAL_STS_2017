@@ -1,0 +1,7 @@
+nsubj	falters	Putin
+acl	Putin	sworn
+case	growth	in
+case	growth	as
+amod	growth	Russian
+nmod:as	sworn	growth
+root	ROOT	falters

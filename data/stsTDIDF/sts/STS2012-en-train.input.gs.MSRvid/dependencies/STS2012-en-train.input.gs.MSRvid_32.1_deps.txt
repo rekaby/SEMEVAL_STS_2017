@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	singing	girl
+cop	singing	is
+root	ROOT	singing
+case	stage	on
+nmod:on	singing	stage
+punct	singing	.

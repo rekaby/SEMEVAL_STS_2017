@@ -1,0 +1,9 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	sand	on
+det	sand	the
+nmod:on	running	sand
+punct	running	.

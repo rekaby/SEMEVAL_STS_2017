@@ -1,0 +1,10 @@
+det	cow	A
+amod	cow	black
+cc	black	and
+conj:and	black	white
+root	ROOT	cow
+acl	cow	looking
+case	fence	through
+det	fence	the
+nmod:through	looking	fence
+punct	cow	.

@@ -1,0 +1,5 @@
+det	quantity	a
+root	ROOT	quantity
+case	money	of
+nmod:of	quantity	money
+punct	quantity	.

@@ -1,0 +1,8 @@
+amod	element	lightest
+advmod	abundant	most
+amod	element	abundant
+nsubj	number	element
+punct	number	,
+amod	number	atomic
+root	ROOT	number
+nummod	number	1

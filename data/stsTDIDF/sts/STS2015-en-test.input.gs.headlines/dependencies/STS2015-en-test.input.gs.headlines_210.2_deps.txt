@@ -1,0 +1,9 @@
+compound	drone	U.S.
+nsubj	kills	drone
+advmod	kills	mistakenly
+root	ROOT	kills
+dobj	kills	14
+case	convoy	in
+compound	convoy	Yemen
+compound	convoy	wedding
+nmod:in	kills	convoy

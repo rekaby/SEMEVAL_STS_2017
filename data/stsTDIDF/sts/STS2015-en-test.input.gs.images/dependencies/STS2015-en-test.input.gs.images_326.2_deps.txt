@@ -1,0 +1,11 @@
+det	man	An
+amod	man	older
+nsubj	stands	man
+root	ROOT	stands
+case	boarded	outside
+det	boarded	a
+amod	boarded	old
+nmod:outside	stands	boarded
+case	building	up
+nmod:up	boarded	building
+punct	stands	.

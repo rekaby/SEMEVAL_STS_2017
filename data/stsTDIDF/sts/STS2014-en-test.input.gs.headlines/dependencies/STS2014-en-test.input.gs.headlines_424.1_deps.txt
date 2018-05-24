@@ -1,0 +1,8 @@
+nsubj	rejects	Syria
+root	ROOT	rejects
+compound	claims	US
+punct	US	,
+compound	arms	UK
+compound	arms	chemical
+compound	claims	arms
+dobj	rejects	claims

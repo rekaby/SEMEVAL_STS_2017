@@ -1,0 +1,11 @@
+det	clowns	A
+amod	clowns	little
+compound	clowns	boy
+root	ROOT	clowns
+case	colander	with
+det	colander	a
+nmod:with	clowns	colander
+case	head	on
+nmod:poss	head	his
+nmod:on	colander	head
+punct	clowns	.

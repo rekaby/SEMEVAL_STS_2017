@@ -1,0 +1,8 @@
+root	ROOT	reproduce
+cc	reproduce	or
+conj:or	reproduce	make
+det	copy	an
+amod	copy	exact
+dobj	make	copy
+acl	copy	of
+punct	reproduce	.

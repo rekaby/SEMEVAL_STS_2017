@@ -1,0 +1,14 @@
+punct	#GlobalChangeResearch	``
+nummod	#GlobalChangeResearch	2012
+punct	#GlobalChangeResearch	:
+det	Year	The
+appos	#GlobalChangeResearch	Year
+case	#Weather	of
+compound	#Weather	Extreme
+nmod:of	Year	#Weather
+punct	Year	''
+punct	Year	:
+compound	#NationalClimateAssessment	#ClimateChange
+compound	#NationalClimateAssessment	#Drought
+compound	#GlobalChangeResearch	#NationalClimateAssessment
+root	ROOT	#GlobalChangeResearch

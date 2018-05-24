@@ -1,0 +1,5 @@
+nsubj	rise	Stocks
+root	ROOT	rise
+case	trading	in
+amod	trading	early
+nmod:in	rise	trading

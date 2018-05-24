@@ -1,0 +1,6 @@
+amod	troops	French-led
+nsubj	control	troops
+root	ROOT	control
+dobj	control	access
+case	Timbuktu	to
+nmod:to	access	Timbuktu

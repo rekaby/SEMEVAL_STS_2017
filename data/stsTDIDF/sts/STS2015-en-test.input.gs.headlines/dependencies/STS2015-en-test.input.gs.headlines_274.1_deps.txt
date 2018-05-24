@@ -1,0 +1,8 @@
+amod	German	Greek
+compound	German	police
+compound	German	arrest
+root	ROOT	German
+case	suspicion	on
+nmod:on	German	suspicion
+mark	spying	of
+acl	suspicion	spying

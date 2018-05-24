@@ -1,0 +1,12 @@
+amod	Mugabe	Defiant
+nsubj	sworn	Mugabe
+root	ROOT	sworn
+case	blasts	in
+case	blasts	for
+amod	blasts	seventh
+compound	blasts	term
+nmod:for	sworn	blasts
+punct	West	`
+amod	West	vile
+punct	West	'
+nmod:tmod	sworn	West

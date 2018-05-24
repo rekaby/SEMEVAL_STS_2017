@@ -1,0 +1,10 @@
+root	ROOT	Religion
+nsubj	does	that
+acl:relcl	Religion	does
+mark	have	that
+nsubj	have	I
+ccomp	does	have
+det	problem	a
+dobj	have	problem
+nmod	have	with
+punct	Religion	.

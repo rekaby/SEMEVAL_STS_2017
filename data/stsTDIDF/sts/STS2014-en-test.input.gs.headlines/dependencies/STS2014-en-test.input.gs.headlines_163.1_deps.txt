@@ -1,0 +1,9 @@
+nsubj	hit	Palestinians
+punct	hit	`
+root	ROOT	hit
+punct	hit	'
+case	fire	by
+amod	fire	Israeli
+nmod:by	hit	fire
+case	Gaza	in
+nmod:in	fire	Gaza

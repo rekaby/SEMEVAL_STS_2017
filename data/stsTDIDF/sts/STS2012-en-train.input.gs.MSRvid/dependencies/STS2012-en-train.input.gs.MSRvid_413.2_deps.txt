@@ -1,0 +1,9 @@
+det	dog	The
+nsubj	took	dog
+root	ROOT	took
+dobj	took	something
+case	refrigerator	out
+mwe	out	of
+det	refrigerator	the
+nmod:out_of	took	refrigerator
+punct	took	.

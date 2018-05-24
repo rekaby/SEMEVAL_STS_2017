@@ -1,0 +1,8 @@
+compound	protest	Moscow
+root	ROOT	protest
+case	Putin	against
+compound	Putin	Vladimir
+nmod:against	protest	Putin
+amod	Putin	smaller
+cc	Putin	and
+conj:and	Putin	quieter

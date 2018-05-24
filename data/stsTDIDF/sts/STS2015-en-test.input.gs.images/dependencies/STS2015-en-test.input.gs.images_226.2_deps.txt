@@ -1,0 +1,10 @@
+nummod	players	Two
+compound	players	hockey
+root	ROOT	players
+case	struggle	in
+det	struggle	a
+nmod:in	players	struggle
+case	ice	on
+det	ice	the
+nmod:on	struggle	ice
+punct	players	.

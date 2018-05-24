@@ -1,0 +1,9 @@
+amod	man	Young
+amod	man	redheaded
+root	ROOT	man
+acl	man	holding
+nummod	bicycles	two
+dobj	holding	bicycles
+case	beach	near
+nmod:near	holding	beach
+punct	man	.

@@ -1,0 +1,11 @@
+discourse	is	Yes
+punct	is	,
+expl	is	there
+root	ROOT	is
+case	least	at
+nmod:npmod	one	least
+nsubj	is	one
+case	knowledge	to
+nmod:poss	knowledge	my
+nmod:to	one	knowledge
+punct	is	.

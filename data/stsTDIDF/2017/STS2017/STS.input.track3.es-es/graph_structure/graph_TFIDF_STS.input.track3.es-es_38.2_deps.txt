@@ -1,0 +1,4 @@
+band	over	case
+goes	crowd	nsubj
+goes	crazy	xcomp
+crazy	band	nmod:over

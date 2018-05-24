@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	jumping	dog
+root	ROOT	jumping
+compound:prt	jumping	over
+det	fence	an
+compound	fence	obstacle
+compound	fence	course
+dobj	jumping	fence
+punct	jumping	.

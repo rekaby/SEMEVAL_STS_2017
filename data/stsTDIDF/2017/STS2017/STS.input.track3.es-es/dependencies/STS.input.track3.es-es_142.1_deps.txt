@@ -1,0 +1,10 @@
+det	group	A
+root	ROOT	group
+case	women	of
+nmod:of	group	women
+case	library	in
+det	library	a
+nmod:in	group	library
+case	children	with
+nmod:with	library	children
+punct	group	.

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	shappens	man
+root	ROOT	shappens
+det	knife	a
+dobj	shappens	knife
+punct	shappens	.

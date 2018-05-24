@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	catching	men
+root	ROOT	catching
+det	fish	a
+dobj	catching	fish
+case	swamp	in
+det	swamp	a
+nmod:in	catching	swamp
+punct	catching	.

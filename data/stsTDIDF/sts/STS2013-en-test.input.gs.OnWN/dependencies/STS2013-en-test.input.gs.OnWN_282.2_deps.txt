@@ -1,0 +1,8 @@
+det	unit	the
+amod	unit	basic
+root	ROOT	unit
+case	money	of
+nmod:of	unit	money
+case	Kyrgyzstan	in
+nmod:in	money	Kyrgyzstan
+punct	unit	.

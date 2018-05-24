@@ -1,0 +1,6 @@
+nsubj	sleeping	Man
+root	ROOT	sleeping
+case	street	on
+det	street	the
+nmod:on	sleeping	street
+punct	sleeping	.

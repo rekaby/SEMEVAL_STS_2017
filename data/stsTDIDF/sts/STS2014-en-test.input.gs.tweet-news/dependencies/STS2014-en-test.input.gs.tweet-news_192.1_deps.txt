@@ -1,0 +1,15 @@
+root	ROOT	Congratulations
+case	#Fruitvale	to
+nmod:to	Congratulations	#Fruitvale
+cc	#Fruitvale	and
+conj:and	#Fruitvale	#BloodBrother
+punct	Congratulations	!-6) nsubj(had-4, Sounds
+case	#Sundance	like
+nmod:like	Sounds	#Sundance
+root	ROOT	had
+det	films	some
+amod	films	powerful
+dobj	had	films
+det	year	this
+nmod:tmod	had	year
+punct	had	.

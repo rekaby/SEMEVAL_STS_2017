@@ -1,0 +1,11 @@
+compound	Mandela	Nelson
+nmod:poss	hero	Mandela
+case	Mandela	's
+amod	hero	real
+nsubj	Gandhi	hero
+cop	Gandhi	was
+neg	Gandhi	not
+root	ROOT	Gandhi
+punct	Gandhi	,
+cc	Gandhi	but
+conj:but	Gandhi	Nehru

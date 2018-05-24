@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+case	confining	of
+nmod:of	act	confining
+punct	act	,
+dep	act	preventing
+cc	preventing	or
+conj:or	preventing	blocking
+dep	act	something

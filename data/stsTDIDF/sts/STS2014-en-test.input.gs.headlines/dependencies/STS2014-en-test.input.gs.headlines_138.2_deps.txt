@@ -1,0 +1,10 @@
+root	ROOT	Kosovo
+punct	Kosovo	:
+nummod	time	3
+compound	time	get
+compound	time	jail
+dep	Kosovo	time
+case	trafficking	in
+compound	trafficking	organ
+nmod:in	time	trafficking
+dep	time	case

@@ -1,0 +1,10 @@
+compound	March	Million
+compound	March	Muppet
+nsubj	planned	March
+root	ROOT	planned
+mark	defend	to
+xcomp	planned	defend
+compound	backing	U.S.
+dobj	defend	backing
+case	PBS	for
+nmod:for	backing	PBS

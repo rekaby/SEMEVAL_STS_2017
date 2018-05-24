@@ -1,0 +1,13 @@
+nsubj	makes	This
+root	ROOT	makes
+det	response	the
+advmod	perceptual	most
+amod	response	perceptual
+cc	perceptual	and
+conj:and	perceptual	objective
+nsubj	flag	response
+advmod	flag	often
+det	flag	a
+amod	flag	red
+xcomp	makes	flag
+punct	makes	.

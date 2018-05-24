@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	talking	woman
+cc	woman	and
+conj:and	woman	man
+aux	talking	are
+root	ROOT	talking
+mark	leans	while
+det	woman	another
+nsubj	leans	woman
+advcl	talking	leans
+case	car	on
+nmod:poss	car	her
+nmod:on	leans	car
+xcomp	leans	biting
+nmod:poss	nails	her
+dobj	biting	nails
+punct	talking	.

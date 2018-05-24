@@ -1,0 +1,6 @@
+nummod	nominations	2013
+compound	nominations	Oscar
+root	ROOT	nominations
+punct	nominations	:
+nsubj	got	Who
+dep	nominations	got

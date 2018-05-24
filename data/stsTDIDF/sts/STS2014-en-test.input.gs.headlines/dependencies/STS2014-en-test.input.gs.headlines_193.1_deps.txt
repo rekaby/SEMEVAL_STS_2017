@@ -1,0 +1,12 @@
+case	21	Up
+case	21	to
+root	ROOT	21
+punct	21	,
+advmod	foreigners	mostly
+root	,	foreigners
+punct	foreigners	,
+acl	foreigners	killed
+case	attack	in
+compound	attack	Kabul
+compound	attack	suicide
+nmod:in	killed	attack

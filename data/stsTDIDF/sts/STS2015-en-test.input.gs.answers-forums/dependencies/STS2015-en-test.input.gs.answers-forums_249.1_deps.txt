@@ -1,0 +1,15 @@
+root	ROOT	Let
+nsubj	share	me
+ccomp	Let	share
+nmod:poss	opinion	my
+dobj	share	opinion
+case	citizen	as
+amod	citizen	Ukrainian
+nmod:as	share	citizen
+punct	share	,
+case	Kharkiv	from
+nmod:from	share	Kharkiv
+punct	Kharkiv	,
+amod	Ukraine	eastern
+appos	Kharkiv	Ukraine
+punct	Let	.

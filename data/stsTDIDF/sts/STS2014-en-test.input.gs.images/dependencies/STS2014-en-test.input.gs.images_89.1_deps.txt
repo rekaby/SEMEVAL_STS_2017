@@ -1,0 +1,10 @@
+compound	couch	Blue
+root	ROOT	couch
+cc	couch	and
+amod	bed	twin
+conj:and	couch	bed
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	couch	room
+punct	couch	.

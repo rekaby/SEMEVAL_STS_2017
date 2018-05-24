@@ -1,0 +1,14 @@
+amod	clusters	Globular
+nsubj	occupy	clusters
+root	ROOT	occupy
+det	place	an
+amod	place	interesting
+dobj	occupy	place
+case	spectrum	in
+det	spectrum	the
+nmod:in	place	spectrum
+case	systems	of
+amod	systems	composite
+amod	systems	stellar
+nmod:of	spectrum	systems
+punct	occupy	.

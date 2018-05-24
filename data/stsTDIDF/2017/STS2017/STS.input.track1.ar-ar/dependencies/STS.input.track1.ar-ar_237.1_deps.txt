@@ -1,0 +1,8 @@
+compound	blow	Man
+root	ROOT	blow
+det	trumpet	the
+dobj	blow	trumpet
+case	band	in
+det	band	the
+nmod:in	blow	band
+punct	blow	.

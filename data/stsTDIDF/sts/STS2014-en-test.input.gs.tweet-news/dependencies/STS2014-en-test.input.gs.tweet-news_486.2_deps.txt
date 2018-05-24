@@ -1,0 +1,6 @@
+compound	Panetta	Defense
+compound	Panetta	Secretary
+compound	Panetta	Leon
+nsubj	Meets	Panetta
+root	ROOT	Meets
+dobj	Meets	Pope

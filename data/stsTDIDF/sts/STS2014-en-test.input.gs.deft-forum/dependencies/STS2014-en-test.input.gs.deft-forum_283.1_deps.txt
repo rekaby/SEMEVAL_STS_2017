@@ -1,0 +1,8 @@
+nsubj	had	He
+root	ROOT	had
+neg	intention	no
+dobj	had	intention
+mark	apprehending	of
+acl	intention	apprehending
+dobj	apprehending	him
+punct	had	.

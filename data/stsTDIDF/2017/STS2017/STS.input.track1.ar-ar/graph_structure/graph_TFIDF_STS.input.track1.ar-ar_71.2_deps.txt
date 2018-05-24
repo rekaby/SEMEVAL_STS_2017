@@ -1,0 +1,17 @@
+legs	back	amod
+girls	.	punct
+girls	,	punct
+girls	eating	acl
+eating	legs	nmod:on
+shoes	without	case
+girls	Two	nummod
+girls	young	amod
+girls	shoes	nmod:without
+legs	on	case
+legs	Jawad	compound
+legs	the	det
+eating	corn	dobj
+girls	sidewalk	nmod:on
+legs	short	amod
+ROOT	girls	root
+sidewalk	on	case

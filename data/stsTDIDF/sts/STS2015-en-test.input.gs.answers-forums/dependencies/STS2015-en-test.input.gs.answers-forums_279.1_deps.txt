@@ -1,0 +1,16 @@
+nsubj	inclined	I
+aux	inclined	'd
+cop	inclined	be
+advmod	inclined	more
+root	ROOT	inclined
+mark	believe	to
+xcomp	inclined	believe
+mark	sort	that
+nsubj	sort	it
+cop	sort	's
+det	sort	some
+ccomp	believe	sort
+case	world	of
+compound	world	ring
+nmod:of	sort	world
+punct	inclined	.

@@ -1,0 +1,11 @@
+det	runner	A
+amod	runner	competitive
+nsubj	taking	runner
+root	ROOT	taking
+nmod:poss	sprint	her
+amod	sprint	first
+dobj	taking	sprint
+case	competition	in
+det	competition	a
+nmod:in	taking	competition
+punct	taking	.

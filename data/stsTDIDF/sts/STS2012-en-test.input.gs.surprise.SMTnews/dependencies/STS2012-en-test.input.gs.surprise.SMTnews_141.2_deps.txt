@@ -1,0 +1,13 @@
+nsubj	give	They
+root	ROOT	give
+iobj	give	it
+det	right	the
+dobj	give	right
+mark	divorce	to
+acl	right	divorce
+det	husband	the
+dobj	divorce	husband
+nsubj	abandoned	who
+aux	abandoned	have
+acl:relcl	husband	abandoned
+punct	give	?

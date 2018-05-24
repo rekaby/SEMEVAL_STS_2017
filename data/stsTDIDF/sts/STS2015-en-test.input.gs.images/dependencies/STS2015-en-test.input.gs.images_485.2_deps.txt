@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	fighting	dogs
+root	ROOT	fighting
+case	snow	in
+det	snow	the
+nmod:in	fighting	snow
+punct	fighting	.

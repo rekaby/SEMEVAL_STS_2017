@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	posing
+case	pillar	by
+det	pillar	a
+nmod:by	posing	pillar
+case	sign	with
+det	sign	a
+compound	sign	U2
+nmod:with	pillar	sign
+punct	woman	.

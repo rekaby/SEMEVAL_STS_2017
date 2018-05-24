@@ -1,0 +1,7 @@
+nsubj	condemns	Obama
+root	ROOT	condemns
+dobj	condemns	killing
+case	teens	of
+nummod	teens	3
+amod	teens	Israeli
+nmod:of	killing	teens

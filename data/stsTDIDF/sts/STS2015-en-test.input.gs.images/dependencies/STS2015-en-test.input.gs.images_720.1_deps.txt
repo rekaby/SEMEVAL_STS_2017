@@ -1,0 +1,11 @@
+nummod	kids	Two
+nsubj	walking	kids
+aux	walking	are
+root	ROOT	walking
+case	path	on
+det	path	a
+nmod:on	walking	path
+case	woods	in
+det	woods	the
+nmod:in	path	woods
+punct	walking	.

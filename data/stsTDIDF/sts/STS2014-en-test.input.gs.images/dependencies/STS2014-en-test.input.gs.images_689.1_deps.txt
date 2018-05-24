@@ -1,0 +1,12 @@
+det	man	The
+nsubj	poses	man
+root	ROOT	poses
+case	photo	for
+det	photo	a
+nmod:for	poses	photo
+case	train	in
+mwe	in	front
+mwe	in	of
+det	train	the
+nmod:in_front_of	photo	train
+punct	poses	.

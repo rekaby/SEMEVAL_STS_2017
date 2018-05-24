@@ -1,0 +1,8 @@
+compound	victim	Delhi
+compound	victim	gang
+compound	victim	rape
+nsubj	dies	victim
+root	ROOT	dies
+case	hospital	in
+compound	hospital	Singapore
+nmod:in	dies	hospital

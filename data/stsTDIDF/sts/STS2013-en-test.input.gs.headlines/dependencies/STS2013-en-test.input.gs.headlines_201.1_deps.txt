@@ -1,0 +1,9 @@
+nsubj	sticks	NATO
+root	ROOT	sticks
+case	roadmap	to
+compound	roadmap	transition
+nmod:to	sticks	roadmap
+case	Afghanistan	in
+nmod:in	roadmap	Afghanistan
+punct	sticks	:
+punct	sticks	Rasmussen

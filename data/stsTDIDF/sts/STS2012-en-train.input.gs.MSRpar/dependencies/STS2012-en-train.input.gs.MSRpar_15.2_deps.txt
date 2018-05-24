@@ -1,0 +1,10 @@
+nsubj	decline	Vermillion
+punct	Vermillion	,
+conj:and	Vermillion	Posey
+cc	Vermillion	and
+compound	populations	Madison
+compound	populations	County
+conj:and	Vermillion	populations
+aux	decline	will
+root	ROOT	decline
+punct	decline	.

@@ -1,0 +1,16 @@
+nsubj	wrap	I
+root	ROOT	wrap
+dobj	wrap	steaks
+advmod	wrap	individually
+case	paper	in
+compound	paper	freezer
+nmod:in	wrap	paper
+punct	wrap	,
+advmod	put	then
+advcl	wrap	put
+dobj	put	them
+case	bags	into
+compound	bags	ziploc
+compound	bags	freezer
+nmod:into	put	bags
+punct	wrap	.

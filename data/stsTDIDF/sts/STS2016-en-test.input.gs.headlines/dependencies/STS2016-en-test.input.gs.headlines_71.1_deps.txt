@@ -1,0 +1,7 @@
+amod	ambassador	German
+nmod:poss	residence	ambassador
+case	ambassador	's
+compound	residence	Athens
+nsubj	shot	residence
+root	ROOT	shot
+compound:prt	shot	at

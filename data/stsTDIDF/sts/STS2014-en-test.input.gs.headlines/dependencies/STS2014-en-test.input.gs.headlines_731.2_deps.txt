@@ -1,0 +1,10 @@
+compound	govt	India
+nsubj	rejects	govt
+root	ROOT	rejects
+dobj	rejects	proposal
+mark	shut	to
+acl	proposal	shut
+compound	pumps	petrol
+dobj	shut	pumps
+case	night	at
+nmod:at	shut	night

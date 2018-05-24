@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	walking	woman
+aux	walking	is
+root	ROOT	walking
+nmod:poss	dog	her
+dobj	walking	dog
+punct	walking	.

@@ -1,0 +1,7 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	sway
+case	fashion	in
+det	fashion	a
+amod	fashion	sinuous
+nmod:in	move	fashion

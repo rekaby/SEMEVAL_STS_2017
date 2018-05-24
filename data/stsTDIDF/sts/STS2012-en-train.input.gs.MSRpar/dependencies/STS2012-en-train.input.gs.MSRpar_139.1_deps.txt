@@ -1,0 +1,16 @@
+dep	Spansion	Yes
+punct	Yes	,
+case	today	from
+nmod:from	Spansion	today
+dep	Spansion	Flash
+nsubj	Spansion	memory
+acl	memory	purchased
+case	AMD	from
+nmod:from	purchased	AMD
+cc	AMD	or
+conj:or	AMD	Fujitsu
+aux	Spansion	will
+cop	Spansion	be
+compound	Spansion	branded
+root	ROOT	Spansion
+punct	Spansion	.

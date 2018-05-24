@@ -1,0 +1,4 @@
+root	ROOT	cross
+case	foot	on
+nmod:on	cross	foot
+punct	cross	.

@@ -1,0 +1,10 @@
+nsubj	agree	US
+punct	US	,
+appos	US	Russia
+root	ROOT	agree
+case	seizure	on
+nmod:on	agree	seizure
+case	weapons	of
+compound	weapons	Syria
+compound	weapons	chemical
+nmod:of	seizure	weapons

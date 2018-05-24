@@ -1,0 +1,11 @@
+root	ROOT	try
+xcomp	try	dealing
+case	facts	with
+det	facts	the
+nmod:with	dealing	facts
+case	thinking	instead
+mwe	instead	of
+nmod:poss	thinking	your
+amod	thinking	wishful
+nmod:instead_of	facts	thinking
+punct	try	.

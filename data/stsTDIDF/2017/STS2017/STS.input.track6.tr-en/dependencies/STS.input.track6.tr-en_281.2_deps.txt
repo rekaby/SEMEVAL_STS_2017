@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	shows	woman
+root	ROOT	shows
+det	object	an
+dobj	shows	object
+case	man	to
+det	man	a
+nmod:to	shows	man
+punct	shows	.

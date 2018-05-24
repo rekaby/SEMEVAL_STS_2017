@@ -1,0 +1,14 @@
+amod	ways	Other
+nsubjpass	developed	ways
+mark	computing	of
+acl	ways	computing
+det	values	these
+dobj	computing	values
+punct	ways	,
+cc	ways	or
+conj:or	ways	weights
+punct	ways	,
+aux	developed	have
+auxpass	developed	been
+root	ROOT	developed
+punct	developed	.

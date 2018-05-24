@@ -1,0 +1,14 @@
+nsubj	live	I
+root	ROOT	live
+case	Delaware	in
+nmod:in	live	Delaware
+cc	live	and
+aux	harvested	have
+advmod	harvested	already
+conj:and	live	harvested
+nmod:poss	jalapeno	my
+dobj	harvested	jalapeno
+cc	jalapeno	and
+amod	peppers	chili
+conj:and	jalapeno	peppers
+punct	live	.

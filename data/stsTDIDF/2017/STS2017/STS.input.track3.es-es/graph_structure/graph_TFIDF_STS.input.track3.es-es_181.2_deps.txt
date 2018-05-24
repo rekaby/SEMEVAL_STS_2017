@@ -1,0 +1,6 @@
+waitress	The	det
+giving	drinks	dobj
+giving	waitress	nsubj
+customers	her	nmod:poss
+drinks	customers	nsubj
+drinks	free	amod

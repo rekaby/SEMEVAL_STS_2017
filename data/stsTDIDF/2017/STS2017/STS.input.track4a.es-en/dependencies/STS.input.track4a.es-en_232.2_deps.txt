@@ -1,0 +1,9 @@
+det	player	A
+compound	player	hockey
+nsubj	sitting	player
+aux	sitting	is
+root	ROOT	sitting
+case	ice	on
+det	ice	the
+nmod:on	sitting	ice
+punct	sitting	.

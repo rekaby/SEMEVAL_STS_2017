@@ -1,0 +1,7 @@
+makes	child	nsubj
+makes	prayer	dobj
+makes	candle	nmod:before
+candle	a	det
+prayer	a	det
+candle	before	case
+candle	lit	amod

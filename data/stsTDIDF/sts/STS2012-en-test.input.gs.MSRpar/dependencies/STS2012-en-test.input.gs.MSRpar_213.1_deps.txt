@@ -1,0 +1,16 @@
+det	action	Neither
+amod	action	military
+nsubj	solve	action
+cc	action	nor
+amod	bribery	large-scale
+conj:nor	action	bribery
+aux	solve	can
+ccomp	said	solve
+det	problem	the
+amod	Korean	North
+amod	problem	Korean
+dobj	solve	problem
+punct	said	,
+nsubj	said	Wolfowitz
+root	ROOT	said
+punct	said	.

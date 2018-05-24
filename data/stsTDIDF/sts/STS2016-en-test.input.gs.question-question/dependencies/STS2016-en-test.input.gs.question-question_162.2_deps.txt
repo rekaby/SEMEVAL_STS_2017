@@ -1,0 +1,10 @@
+advmod	measure	How
+aux	measure	do
+nsubj	measure	I
+root	ROOT	measure
+det	door	a
+amod	door	standard
+amod	door	sliding
+compound	door	glass
+dobj	measure	door
+punct	measure	?

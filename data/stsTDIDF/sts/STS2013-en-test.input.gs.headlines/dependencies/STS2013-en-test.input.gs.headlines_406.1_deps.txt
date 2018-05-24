@@ -1,0 +1,8 @@
+nummod	troops	6
+compound	troops	NATO
+nsubj	attack	troops
+amod	attack	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan
+compound	attack	IED
+root	ROOT	attack

@@ -1,0 +1,10 @@
+puddle	white	amod
+mouth	its	nmod:poss
+flip-flop	along	case
+running	flip-flop	nmod:along_with
+puddle	a	det
+running	puddle	nsubj
+flip-flop	a	det
+flip-flop	mouth	nmod:in
+puddle	large	amod
+flip-flop	pink	amod

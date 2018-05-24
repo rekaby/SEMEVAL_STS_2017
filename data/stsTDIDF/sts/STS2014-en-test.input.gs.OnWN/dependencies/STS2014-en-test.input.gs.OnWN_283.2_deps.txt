@@ -1,0 +1,11 @@
+root	ROOT	regard
+cc	regard	or
+conj:or	regard	treat
+case	consideration	with
+nmod:with	treat	consideration
+punct	consideration	,
+conj:and	consideration	respect
+punct	consideration	,
+cc	consideration	and
+conj:and	consideration	esteem
+punct	regard	.

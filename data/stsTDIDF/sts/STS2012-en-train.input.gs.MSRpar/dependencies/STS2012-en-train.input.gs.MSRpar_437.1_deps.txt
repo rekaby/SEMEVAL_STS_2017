@@ -1,0 +1,15 @@
+nsubj	fell	Shares
+case	Corixa	of
+nmod:of	Shares	Corixa
+root	ROOT	fell
+nummod	cents	12
+dobj	fell	cents
+case	$	to
+nmod:to	fell	$
+nummod	$	6.88
+case	market	on
+det	market	the
+compound	market	Nasdaq
+compound	market	stock
+nmod:on	fell	market
+punct	fell	.

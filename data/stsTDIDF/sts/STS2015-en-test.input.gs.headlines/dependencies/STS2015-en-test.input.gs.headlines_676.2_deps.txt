@@ -1,0 +1,12 @@
+nsubj	Sets	Man
+root	ROOT	Sets
+dobj	Sets	Himself
+case	Fire	on
+nmod:on	Sets	Fire
+case	Mall	on
+compound	Mall	National
+nmod:on	Fire	Mall
+punct	Sets	,
+conj	Sets	Flown
+case	Hospital	to
+nmod:to	Flown	Hospital

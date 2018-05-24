@@ -1,0 +1,6 @@
+nummod	Things	10
+root	ROOT	Things
+mark	Know	to
+acl	Things	Know
+case	Wednesday	for
+nmod:for	Know	Wednesday

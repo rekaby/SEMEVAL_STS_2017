@@ -1,0 +1,12 @@
+det	path	the
+nsubj	has	path
+root	ROOT	has
+mark	closed	to
+auxpass	closed	be
+xcomp	has	closed
+case	bulb	for
+det	bulb	the
+nmod:for	closed	bulb
+mark	light	to
+xcomp	closed	light
+compound:prt	light	up

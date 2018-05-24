@@ -1,0 +1,6 @@
+ROOT	lady	root
+walk	girl	compound
+lady	outside	advmod
+lady	walk	conj:and
+lady	a	det
+lady	and	cc

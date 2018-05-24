@@ -1,0 +1,15 @@
+nsubj	grew	Griffith
+punct	Griffith	,
+appos	Griffith	77
+punct	Griffith	,
+root	ROOT	grew
+compound:prt	grew	up
+case	Airy	in
+compound	Airy	Mount
+nmod:in	grew	Airy
+cc	grew	and
+advmod	lives	now
+conj:and	grew	lives
+case	Manteo	in
+nmod:in	lives	Manteo
+punct	grew	.

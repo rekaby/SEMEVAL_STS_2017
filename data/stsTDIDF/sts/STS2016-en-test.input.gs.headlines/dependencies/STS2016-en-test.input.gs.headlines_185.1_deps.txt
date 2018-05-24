@@ -1,0 +1,10 @@
+nsubj	helps	Rooney
+root	ROOT	helps
+compound	United	Man
+nsubj	beat	United
+ccomp	helps	beat
+dobj	beat	Everton
+nummod	Everton	3-0
+case	League	in
+compound	League	Premier
+nmod:in	Everton	League

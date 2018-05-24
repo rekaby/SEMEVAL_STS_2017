@@ -1,0 +1,12 @@
+det	skateboarder	A
+nsubj	attempts	skateboarder
+root	ROOT	attempts
+mark	do	to
+xcomp	attempts	do
+det	trick	a
+dobj	do	trick
+case	ramp	over
+det	ramp	a
+compound	ramp	homemade
+nmod:over	do	ramp
+punct	attempts	.

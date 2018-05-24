@@ -1,0 +1,5 @@
+dog	one	nummod
+photo	the	det
+photo	in	case
+dog	photo	nmod:in
+see	dog	dobj

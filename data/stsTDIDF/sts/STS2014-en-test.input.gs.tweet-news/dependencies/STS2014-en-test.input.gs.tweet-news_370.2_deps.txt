@@ -1,0 +1,6 @@
+root	ROOT	Beheading
+punct	Beheading	:
+dep	Beheading	Inhuman
+cc	Inhuman	and
+conj:and	Inhuman	illegal
+punct	Beheading	?

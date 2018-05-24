@@ -1,0 +1,6 @@
+amod	man	Sad
+root	ROOT	man
+case	game	in
+det	game	the
+nmod:in	man	game
+punct	man	.

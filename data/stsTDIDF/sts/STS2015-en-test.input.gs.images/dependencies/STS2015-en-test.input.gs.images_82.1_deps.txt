@@ -1,0 +1,15 @@
+det	dog	a
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	sand	across
+det	sand	the
+nmod:across	running	sand
+case	stick	with
+det	stick	a
+nmod:with	running	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+acl	stick	mouth
+punct	running	.

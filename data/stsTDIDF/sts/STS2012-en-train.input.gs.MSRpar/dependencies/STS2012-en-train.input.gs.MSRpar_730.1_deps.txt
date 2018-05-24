@@ -1,0 +1,14 @@
+det	committee	The
+nsubjpass	appointed	committee
+auxpass	appointed	was
+root	ROOT	appointed
+case	Rumsfeld	by
+compound	Rumsfeld	Defense
+compound	Rumsfeld	Secretary
+compound	Rumsfeld	Donald
+nmod:agent	appointed	Rumsfeld
+case	orders	under
+nmod:under	appointed	orders
+case	Congress	from
+nmod:from	orders	Congress
+punct	appointed	.

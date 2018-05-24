@@ -1,0 +1,13 @@
+root	ROOT	France
+punct	France	:
+nsubj	pacifists	We
+cop	pacifists	're
+neg	pacifists	not
+det	pacifists	the
+appos	France	pacifists
+nsubj	think	you
+ccomp	pacifists	think
+nsubj	Mali	we
+cop	Mali	are
+punct	are	-
+ccomp	think	Mali

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	cycling	man
+cop	cycling	is
+root	ROOT	cycling
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	cycling	day
+punct	cycling	.

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	keeps	man
+root	ROOT	keeps
+det	table	a
+dobj	keeps	table
+punct	keeps	.

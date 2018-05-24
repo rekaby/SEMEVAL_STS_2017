@@ -1,0 +1,8 @@
+nsubj	you	It
+cop	you	's
+root	ROOT	you
+nsubj	makes	who
+acl:relcl	you	makes
+neg	sense	no
+dobj	makes	sense
+punct	you	.

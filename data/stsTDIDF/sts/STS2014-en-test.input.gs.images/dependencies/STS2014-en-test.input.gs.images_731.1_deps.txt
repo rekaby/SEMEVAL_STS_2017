@@ -1,0 +1,12 @@
+det	person	A
+root	ROOT	person
+acl	person	sitting
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	sitting	motorcycle
+mark	stands	while
+det	man	a
+nsubj	stands	man
+advcl	sitting	stands
+advmod	stands	by
+punct	person	.

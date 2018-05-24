@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	100	least
+root	ROOT	100
+amod	100	dead
+case	Philippines	as
+compound	Philippines	typhoon
+compound	Philippines	batters
+nmod:as	dead	Philippines

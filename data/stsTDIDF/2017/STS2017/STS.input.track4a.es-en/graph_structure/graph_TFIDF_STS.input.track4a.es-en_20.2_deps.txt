@@ -1,0 +1,10 @@
+smoking	cigarette	dobj
+smoking	is	aux
+holding	honeycomb	dobj
+smoking	holding	conj:and
+honeycomb	a	det
+smoking	.	punct
+cigarette	a	det
+smoking	man	nsubj
+ROOT	smoking	root
+smoking	and	cc

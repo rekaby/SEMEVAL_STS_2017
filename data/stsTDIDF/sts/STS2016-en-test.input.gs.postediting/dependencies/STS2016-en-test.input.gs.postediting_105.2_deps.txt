@@ -1,0 +1,8 @@
+nsubj	seeking	Microsoft
+aux	seeking	is
+root	ROOT	seeking
+det	receptionist	a
+dobj	seeking	receptionist
+punct	virtual	-LRB-
+appos	receptionist	virtual
+punct	virtual	-RRB-

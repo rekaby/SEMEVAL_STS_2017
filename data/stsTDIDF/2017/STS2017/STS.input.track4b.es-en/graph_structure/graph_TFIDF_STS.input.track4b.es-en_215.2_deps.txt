@@ -1,0 +1,16 @@
+evade	to	mark
+capture	disease	dobj
+sought	he	nsubj
+Englund	Mr.	compound
+discussed	soldiers	dobj
+prostitutes	of	case
+discussed	Englund	nsubj
+disease	venereal	amod
+capture	way	nmod:as
+evade	front	nmod:on
+sought	actively	advmod
+soldiers	sought	acl:relcl
+disease	prostitutes	nmod:of
+evade	service	dobj
+way	evade	acl
+sought	capture	xcomp

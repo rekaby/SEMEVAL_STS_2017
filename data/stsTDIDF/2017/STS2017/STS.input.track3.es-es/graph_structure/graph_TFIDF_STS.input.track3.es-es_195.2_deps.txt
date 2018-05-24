@@ -1,0 +1,10 @@
+balloon	the	det
+take	ride	dobj
+balloon	air	compound
+balloon	hot	amod
+take	They	nsubj
+ride	balloon	nmod:on
+atlantic	the	det
+atlantic	over	case
+balloon	on	case
+take	atlantic	nmod:over

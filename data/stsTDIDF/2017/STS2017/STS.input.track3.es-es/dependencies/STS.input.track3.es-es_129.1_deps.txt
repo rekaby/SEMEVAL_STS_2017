@@ -1,0 +1,8 @@
+nummod	firefighters	Two
+nsubj	work	firefighters
+root	ROOT	work
+case	truck	in
+det	truck	the
+compound	truck	fire
+nmod:in	work	truck
+punct	work	.

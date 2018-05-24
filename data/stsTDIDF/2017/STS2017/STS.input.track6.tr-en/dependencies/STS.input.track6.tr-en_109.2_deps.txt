@@ -1,0 +1,15 @@
+nummod	boys	Three
+nsubj	sit	boys
+root	ROOT	sit
+case	place	in
+det	place	a
+amod	place	public
+nmod:in	sit	place
+cc	sit	and
+conj:and	sit	make
+xcomp	make	jumping
+dobj	jumping	moves
+mark	watching	while
+advcl	make	watching
+dobj	watching	them
+punct	sit	.

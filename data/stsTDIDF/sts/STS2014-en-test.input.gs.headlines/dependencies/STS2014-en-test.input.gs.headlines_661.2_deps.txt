@@ -1,0 +1,10 @@
+compound	Africa	South
+nsubj	unites	Africa
+root	ROOT	unites
+case	prayer	in
+nmod:in	unites	prayer
+cc	prayer	and
+conj:and	prayer	song
+case	Mandela	for
+compound	Mandela	Nelson
+nmod:for	unites	Mandela

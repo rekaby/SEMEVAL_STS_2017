@@ -1,0 +1,8 @@
+nmod:poss	Putin	Russia
+case	Russia	's
+nsubj	claims	Putin
+root	ROOT	claims
+dobj	claims	authority
+mark	invade	to
+acl	authority	invade
+dobj	invade	Ukraine

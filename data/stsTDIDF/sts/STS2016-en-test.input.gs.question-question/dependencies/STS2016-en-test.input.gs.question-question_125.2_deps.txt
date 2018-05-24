@@ -1,0 +1,15 @@
+advmod	repair	How
+aux	repair	can
+nsubj	repair	I
+root	ROOT	repair
+det	rack	a
+compound	rack	towel
+dobj	repair	rack
+nsubjpass	ripped	that
+auxpass	ripped	was
+acl:relcl	rack	ripped
+case	wall	out
+mwe	out	of
+det	wall	the
+nmod:out_of	ripped	wall
+punct	repair	?

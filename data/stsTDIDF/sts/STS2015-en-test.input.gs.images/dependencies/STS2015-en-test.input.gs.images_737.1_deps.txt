@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	approach	dogs
+root	ROOT	approach
+det	other	each
+dobj	approach	other
+case	grass	in
+det	grass	the
+nmod:in	approach	grass
+punct	approach	.

@@ -1,0 +1,10 @@
+root	ROOT	give
+det	definition	a
+dobj	give	definition
+case	meaning	for
+det	meaning	the
+nmod:for	definition	meaning
+case	word	of
+det	word	a
+nmod:of	meaning	word
+punct	give	.

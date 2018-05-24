@@ -1,0 +1,8 @@
+det	man	A
+nsubj	dancing	man
+cc	man	and
+conj:and	man	woman
+cop	dancing	are
+compound	dancing	Bollywood
+root	ROOT	dancing
+punct	dancing	.

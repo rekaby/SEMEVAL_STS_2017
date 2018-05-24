@@ -1,0 +1,10 @@
+discourse	NEED	No
+punct	NEED	,
+nsubj	NEED	you
+aux	NEED	do
+neg	NEED	not
+root	ROOT	NEED
+det	machine	a
+compound	machine	bread
+dobj	NEED	machine
+punct	NEED	.

@@ -1,0 +1,17 @@
+nsubj	know	I
+root	ROOT	know
+nsubj	question	this
+cop	question	is
+det	question	an
+amod	question	old
+ccomp	know	question
+cc	question	but
+nsubj	feel	I
+conj:but	question	feel
+nsubj	add	I
+aux	add	should
+ccomp	feel	add
+nmod:poss	cents	my
+nummod	cents	2
+dobj	add	cents
+punct	know	.

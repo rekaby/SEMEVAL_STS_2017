@@ -1,0 +1,10 @@
+nsubj	Finds	Disgusting
+punct	Disgusting	,
+advmod	Disgusting	Maybe
+punct	Disgusting	,
+cc	Disgusting	but
+compound	Works	Treatment
+conj:but	Disgusting	Works
+punct	Disgusting	,
+appos	Disgusting	Study
+root	ROOT	Finds

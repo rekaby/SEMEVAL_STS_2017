@@ -1,0 +1,11 @@
+nummod	Palestinians	Two
+nsubj	die	Palestinians
+root	ROOT	die
+case	attacks	in
+nmod:in	die	attacks
+case	Israelis	on
+nmod:on	attacks	Israelis
+advmod	attacks	ahead
+case	Kerry	of
+nmod:of	ahead	Kerry
+dobj	die	visit

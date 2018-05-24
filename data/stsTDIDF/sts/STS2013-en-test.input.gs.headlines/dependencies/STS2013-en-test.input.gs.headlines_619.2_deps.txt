@@ -1,0 +1,6 @@
+amod	day	Second
+root	ROOT	day
+case	election	of
+amod	election	Egyptian
+amod	election	presidential
+nmod:of	day	election

@@ -1,0 +1,13 @@
+nsubj	related	All
+case	effects	of
+det	effects	these
+nmod:of	All	effects
+cop	related	are
+root	ROOT	related
+case	cycle	to
+det	cycle	the
+nummod	cycle	11
+compound	cycle	year
+amod	cycle	solar
+nmod:to	related	cycle
+punct	related	.

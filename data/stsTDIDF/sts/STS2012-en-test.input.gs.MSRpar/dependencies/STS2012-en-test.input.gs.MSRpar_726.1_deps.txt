@@ -1,0 +1,13 @@
+nsubj	said	Carlson
+case	Tuesday	on
+nmod:on	Carlson	Tuesday
+root	ROOT	said
+nsubj	recuse	he
+aux	recuse	would
+neg	recuse	not
+ccomp	said	recuse
+dobj	recuse	himself
+case	case	from
+det	case	the
+nmod:from	recuse	case
+punct	said	.

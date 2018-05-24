@@ -1,0 +1,8 @@
+case	crash	Over
+nummod	crash	70
+amod	crash	dead
+case	train	in
+amod	train	Spanish
+amod	train	high-speed
+nmod:in	dead	train
+root	ROOT	crash

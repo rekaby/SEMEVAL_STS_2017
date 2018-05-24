@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	breaks	woman
+root	ROOT	breaks
+det	egg	an
+dobj	breaks	egg
+case	pan	into
+det	pan	a
+nmod:into	breaks	pan
+punct	breaks	.

@@ -1,0 +1,11 @@
+nsubjpass	pulled	One
+amod	One	dead
+case	collapse	in
+compound	collapse	Philadelphia
+compound	collapse	building
+nmod:in	dead	collapse
+punct	pulled	,
+nsubj	pulled	others
+root	ROOT	pulled
+case	rubble	from
+nmod:from	pulled	rubble

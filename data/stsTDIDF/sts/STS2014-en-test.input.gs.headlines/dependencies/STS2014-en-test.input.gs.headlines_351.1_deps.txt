@@ -1,0 +1,6 @@
+compound	Jones	Vinnie
+nsubj	reveals	Jones
+root	ROOT	reveals
+compound	battle	cancer
+dobj	reveals	battle
+advmod	reveals	new

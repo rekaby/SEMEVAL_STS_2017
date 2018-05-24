@@ -1,0 +1,14 @@
+nsubj	want	i
+advmod	want	really
+root	ROOT	want
+nsubj	sorted	this
+ccomp	want	sorted
+cc	sorted	and
+neg	sure	not
+conj:and	sorted	sure
+dobj	do	what
+advmod	i	else
+nsubj	do	i
+aux	do	can
+ccomp	sorted	do
+punct	want	.

@@ -1,0 +1,10 @@
+nsubj	taking	White
+cc	White	and
+amod	airliner	green
+amod	airliner	commercial
+conj:and	White	airliner
+root	ROOT	taking
+compound:prt	taking	off
+case	runway	of
+nmod:of	taking	runway
+punct	taking	.

@@ -1,0 +1,14 @@
+nsubj	clobbered	Hickenlooper
+root	ROOT	clobbered
+compound	Mares	city
+compound	Mares	Auditor
+compound	Mares	Don
+dobj	clobbered	Mares
+punct	Mares	,
+appos	Mares	46
+punct	Mares	,
+case	runoff	in
+det	runoff	the
+compound	runoff	Tuesday
+nmod:in	clobbered	runoff
+punct	clobbered	.

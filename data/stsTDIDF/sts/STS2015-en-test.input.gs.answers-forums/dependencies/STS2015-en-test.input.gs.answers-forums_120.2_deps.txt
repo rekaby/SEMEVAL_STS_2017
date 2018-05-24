@@ -1,0 +1,16 @@
+det	States	The
+compound	States	United
+nsubj	one	States
+cop	one	is
+root	ROOT	one
+case	countries	of
+det	countries	the
+nummod	countries	five
+amod	countries	largest
+nmod:of	one	countries
+case	world	in
+det	world	the
+nmod:in	countries	world
+case	area	by
+nmod:by	countries	area
+punct	one	.

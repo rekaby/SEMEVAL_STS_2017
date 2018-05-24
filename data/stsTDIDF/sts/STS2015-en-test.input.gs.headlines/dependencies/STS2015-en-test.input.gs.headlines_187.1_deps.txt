@@ -1,0 +1,7 @@
+nsubj	opposes	Egypt
+advmod	opposes	strongly
+root	ROOT	opposes
+amod	action	military
+dobj	opposes	action
+case	Syria	against
+nmod:against	action	Syria

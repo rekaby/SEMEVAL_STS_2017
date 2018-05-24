@@ -1,0 +1,16 @@
+amod	reasons	Valid
+root	ROOT	reasons
+mark	feel	to
+acl	reasons	feel
+det	way	the
+dobj	feel	way
+nsubj	do	you
+acl:relcl	way	do
+punct	reasons	,
+cc	reasons	but
+neg	reason	not
+det	reason	a
+conj:but	reasons	reason
+mark	resign	to
+acl	reason	resign
+punct	reasons	.

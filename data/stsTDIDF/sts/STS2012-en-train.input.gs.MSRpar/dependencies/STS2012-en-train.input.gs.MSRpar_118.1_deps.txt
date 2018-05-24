@@ -1,0 +1,14 @@
+nsubj	class	Dixon
+cop	class	was
+advmod	class	otherwise
+det	class	the
+root	ROOT	class
+case	field	of
+det	field	the
+nmod:of	class	field
+case	Raceway	at
+compound	Raceway	Pikes
+compound	Raceway	Peak
+compound	Raceway	International
+nmod:at	field	Raceway
+punct	class	.

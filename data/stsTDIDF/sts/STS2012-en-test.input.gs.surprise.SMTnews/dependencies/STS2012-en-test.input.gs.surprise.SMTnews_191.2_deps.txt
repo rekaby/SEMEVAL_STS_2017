@@ -1,0 +1,16 @@
+advmod	month	Only
+det	month	a
+root	ROOT	month
+case	month	before
+punct	month	,
+root	,	,
+det	demands	the
+root	,	demands
+case	reform	of
+amod	reform	constitutional
+nmod:of	demands	reform
+case	five	in
+det	five	the
+nmod:in	demands	five
+punct	demands	''
+punct	demands	.

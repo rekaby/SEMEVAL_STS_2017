@@ -1,0 +1,7 @@
+compound	Violin	Titanic
+nsubj	Nabs	Violin
+root	ROOT	Nabs
+dobj	Nabs	Record
+dobj	Record	$
+nummod	$	1.4
+dep	$	Million

@@ -1,0 +1,13 @@
+amod	Palin	Former
+compound	Palin	Alaska
+compound	Palin	Gov
+compound	Palin	Sarah
+nsubj	commentator	Palin
+cop	commentator	is
+neg	commentator	no
+advmod	commentator	long
+det	commentator	a
+root	ROOT	commentator
+case	News	for
+compound	News	Fox
+nmod:for	commentator	News

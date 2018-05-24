@@ -1,0 +1,7 @@
+looking	water	nmod:into
+water	into	case
+looking	people	nsubj
+looking	passes	advcl
+passes	boat	nsubj
+passes	while	mark
+passes	by	advmod

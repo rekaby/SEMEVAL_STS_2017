@@ -1,0 +1,12 @@
+nummod	woman	three
+amod	woman	young
+nsubj	jumping	woman
+root	ROOT	jumping
+case	air	into
+det	air	the
+nmod:into	jumping	air
+mark	catch	to
+xcomp	jumping	catch
+det	ball	a
+dobj	catch	ball
+punct	jumping	.

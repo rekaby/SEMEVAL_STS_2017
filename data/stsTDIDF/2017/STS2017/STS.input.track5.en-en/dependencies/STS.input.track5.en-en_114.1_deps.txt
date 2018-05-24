@@ -1,0 +1,14 @@
+amod	guards	Many
+nsubj	standing	guards
+aux	standing	are
+root	ROOT	standing
+case	line	in
+mwe	in	front
+mwe	in	of
+det	line	the
+amod	line	starting
+nmod:in_front_of	standing	line
+case	race	of
+det	race	a
+nmod:of	line	race
+punct	standing	.

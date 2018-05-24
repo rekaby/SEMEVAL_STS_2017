@@ -1,0 +1,7 @@
+nmod:poss	Charged	Pakistan
+case	Pakistan	's
+compound	Charged	Musharraf
+nsubj	Death	Charged
+case	Bhutto	In
+nmod:in	Charged	Bhutto
+root	ROOT	Death

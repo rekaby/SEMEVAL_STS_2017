@@ -1,0 +1,9 @@
+LaBelle	Patti	compound
+is	purpose	nsubj
+purpose	The	det
+conduct	for	case
+hold	responsible	xcomp
+responsible	LaBelle	nsubj
+conduct	her	nmod:poss
+is	hold	xcomp
+responsible	conduct	nmod:for

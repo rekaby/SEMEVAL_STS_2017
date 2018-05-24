@@ -1,0 +1,8 @@
+nsubj	makes	Who
+root	ROOT	makes
+dobj	makes	money
+case	sense	off
+compound	sense	google
+compound	sense	ad
+nmod:off	money	sense
+punct	makes	?

@@ -1,0 +1,17 @@
+nsubj	said	Sony
+root	ROOT	said
+det	PSP	the
+nsubj	feature	PSP
+aux	feature	would
+advmod	feature	also
+ccomp	said	feature
+det	screen	a
+amod	screen	4.5-inch
+compound	screen	LCD
+dobj	feature	screen
+punct	screen	,
+compound	slots	Memory
+compound	slots	Stick
+compound	slots	expansion
+appos	screen	slots
+punct	said	.

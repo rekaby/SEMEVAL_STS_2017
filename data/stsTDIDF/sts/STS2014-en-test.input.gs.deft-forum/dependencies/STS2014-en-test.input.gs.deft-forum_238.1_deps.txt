@@ -1,0 +1,15 @@
+advmod	assumed	Yes
+punct	assumed	,
+nsubj	assumed	I
+aux	assumed	've
+root	ROOT	assumed
+mark	recyclable	that
+det	packaging	all
+nsubj	recyclable	packaging
+aux	recyclable	would
+cop	recyclable	be
+ccomp	assumed	recyclable
+case	argument	in
+nmod:poss	argument	my
+nmod:in	recyclable	argument
+punct	assumed	.

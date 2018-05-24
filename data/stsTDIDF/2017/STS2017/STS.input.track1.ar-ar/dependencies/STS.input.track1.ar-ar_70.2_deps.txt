@@ -1,0 +1,11 @@
+nsubj	shopping	People
+aux	shopping	are
+root	ROOT	shopping
+mark	buy	to
+xcomp	shopping	buy
+dobj	buy	gifts
+case	Christmas	for
+det	Christmas	the
+compound	Christmas	holiday
+nmod:for	gifts	Christmas
+punct	shopping	.

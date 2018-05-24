@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+dobj	putting	paste
+case	dish	into
+det	dish	a
+nmod:into	paste	dish
+punct	putting	.

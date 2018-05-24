@@ -1,0 +1,15 @@
+expl	are	There
+root	ROOT	are
+nummod	people	two
+nsubj	are	people
+punct	people	,
+det	man	a
+appos	people	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+punct	people	,
+acl	people	sitting
+case	bus	on
+det	bus	a
+nmod:on	sitting	bus

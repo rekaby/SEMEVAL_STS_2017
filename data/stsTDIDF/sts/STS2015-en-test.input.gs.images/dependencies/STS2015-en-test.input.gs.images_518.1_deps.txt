@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+cc	dog	and
+det	dog	a
+amod	dog	white
+conj:and	dog	dog
+acl	dog	playing
+case	street	in
+det	street	the
+nmod:in	playing	street
+punct	dog	.

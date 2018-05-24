@@ -1,0 +1,7 @@
+boy	suit	nmod:in
+wedding	for	case
+wedding	a	det
+holds	wedding	nmod:for
+ring	the	det
+holds	ring	dobj
+holds	boy	nsubj

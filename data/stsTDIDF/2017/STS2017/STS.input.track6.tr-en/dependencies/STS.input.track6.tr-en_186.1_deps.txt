@@ -1,0 +1,5 @@
+det	vehicle	A
+nsubjpass	parked	vehicle
+auxpass	parked	is
+root	ROOT	parked
+punct	parked	.

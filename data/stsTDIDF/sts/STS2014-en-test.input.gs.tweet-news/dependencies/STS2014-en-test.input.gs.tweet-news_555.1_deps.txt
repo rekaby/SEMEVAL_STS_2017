@@ -1,0 +1,14 @@
+neg	Deal	No
+root	ROOT	Deal
+case	Evaluations	on
+nmod:poss	Evaluations	Teacher
+case	Teacher	's
+compound	Evaluations	Union
+nmod:on	Deal	Evaluations
+punct	Deal	;
+compound	Risks	NYC
+dep	Deal	Risks
+acl	Risks	Losing
+dobj	Losing	$
+nummod	$	450
+dep	$	Million

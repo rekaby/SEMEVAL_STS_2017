@@ -1,0 +1,12 @@
+det	guy	A
+compound	guy	maintenance
+nsubj	repairing	guy
+aux	repairing	is
+root	ROOT	repairing
+det	net	a
+dobj	repairing	net
+case	court	on
+det	court	a
+compound	court	tennis
+nmod:on	repairing	court
+punct	repairing	.

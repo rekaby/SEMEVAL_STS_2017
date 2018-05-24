@@ -1,0 +1,9 @@
+compound	girl	Young
+root	ROOT	girl
+mark	riding	in
+acl	girl	riding
+dobj	riding	gear
+case	horse	on
+det	horse	a
+nmod:on	riding	horse
+punct	girl	.

@@ -1,0 +1,8 @@
+amod	toll	Indian
+compound	toll	building
+compound	toll	collapse
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	72	to
+nmod:to	rises	72

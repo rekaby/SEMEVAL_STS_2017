@@ -1,0 +1,8 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+compound:prt	running	down
+det	road	a
+dobj	running	road
+punct	running	.

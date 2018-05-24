@@ -1,0 +1,5 @@
+colleagues	all	det
+colleagues	.	punct
+colleagues	're	cop
+ROOT	colleagues	root
+colleagues	They	nsubj

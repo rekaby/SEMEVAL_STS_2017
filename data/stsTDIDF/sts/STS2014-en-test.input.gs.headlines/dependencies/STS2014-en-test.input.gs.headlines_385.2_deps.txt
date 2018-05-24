@@ -1,0 +1,11 @@
+compound	police	Myanmar
+nsubj	say	police
+root	ROOT	say
+nummod	children	13
+nsubj	die	children
+ccomp	say	die
+case	fire	in
+amod	fire	electrical
+nmod:in	die	fire
+case	mosque	at
+nmod:at	die	mosque

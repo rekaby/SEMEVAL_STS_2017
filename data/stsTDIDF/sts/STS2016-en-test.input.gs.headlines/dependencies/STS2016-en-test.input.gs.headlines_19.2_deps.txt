@@ -1,0 +1,9 @@
+nsubjpass	married	Couple
+auxpass	married	get
+root	ROOT	married
+case	wedding	in
+nmod:poss	wedding	Britain
+case	Britain	's
+amod	wedding	first
+compound	wedding	Scientology
+nmod:in	married	wedding

@@ -1,0 +1,11 @@
+root	ROOT	-LRB-
+det	act	The
+root	-LRB-	act
+mark	making	of
+acl	act	making
+punct	making	-RRB-
+det	measurement	a
+dobj	making	measurement
+case	something	of
+nmod:of	measurement	something
+punct	act	.

@@ -1,0 +1,12 @@
+nummod	children	Two
+nsubj	play	children
+root	ROOT	play
+case	water	in
+det	water	the
+nmod:in	play	water
+case	pier	by
+det	pier	a
+nmod:by	play	pier
+cc	pier	and
+conj:and	pier	building
+punct	play	.

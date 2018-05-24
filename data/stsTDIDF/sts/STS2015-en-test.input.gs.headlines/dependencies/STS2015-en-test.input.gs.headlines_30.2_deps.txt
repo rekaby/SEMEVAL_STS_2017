@@ -1,0 +1,7 @@
+nummod	hurt	5
+root	ROOT	hurt
+case	car	in
+compound	car	Gaza
+compound	car	City
+nmod:in	hurt	car
+dep	hurt	accident

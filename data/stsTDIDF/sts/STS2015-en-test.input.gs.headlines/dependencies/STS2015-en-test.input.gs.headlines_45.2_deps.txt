@@ -1,0 +1,10 @@
+compound	police	Boston
+nsubj	say	police
+root	ROOT	say
+dobj	say	3
+acl	3	taken
+case	custody	into
+nmod:into	taken	custody
+case	bombing	in
+compound	bombing	Marathon
+nmod:in	taken	bombing

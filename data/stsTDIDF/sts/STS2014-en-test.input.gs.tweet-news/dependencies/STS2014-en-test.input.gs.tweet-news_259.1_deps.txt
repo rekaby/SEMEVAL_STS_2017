@@ -1,0 +1,8 @@
+case	#Turkey	In
+nmod:in	protest	#Turkey
+punct	protest	,
+nsubj	protest	mourners
+root	ROOT	protest
+dobj	protest	killings
+case	#Kurds	of
+nmod:of	killings	#Kurds

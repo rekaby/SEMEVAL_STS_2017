@@ -1,0 +1,6 @@
+det	terminals	the
+compound	terminals	batteries
+nsubjpass	connected	terminals
+auxpass	connected	are
+neg	connected	not
+root	ROOT	connected

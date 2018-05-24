@@ -1,0 +1,10 @@
+compound	Vertefeuille	Jeanne
+nsubj	Dies	Vertefeuille
+root	ROOT	Dies
+punct	Dies	,
+advmod	Dies	80
+punct	Dies	;
+parataxis	Dies	Helped
+compound	Aldrich	Catch
+dobj	Helped	Aldrich
+dep	Helped	Ames

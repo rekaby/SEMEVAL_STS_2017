@@ -1,0 +1,3 @@
+ROOT	Person	root
+horseback	on	case
+Person	horseback	nmod:on

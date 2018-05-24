@@ -1,0 +1,13 @@
+det	people	Some
+nsubj	making	people
+aux	making	are
+root	ROOT	making
+amod	faces	funny
+dobj	making	faces
+mark	get	while
+nsubj	get	they
+advcl	making	get
+nmod:poss	picture	their
+nsubj	taken	picture
+ccomp	get	taken
+punct	making	.

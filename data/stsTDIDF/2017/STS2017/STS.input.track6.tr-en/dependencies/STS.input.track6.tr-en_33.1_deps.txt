@@ -1,0 +1,6 @@
+det	boy	a
+nsubj	has	boy
+root	ROOT	has
+amod	hair	blonde
+dobj	has	hair
+punct	has	.

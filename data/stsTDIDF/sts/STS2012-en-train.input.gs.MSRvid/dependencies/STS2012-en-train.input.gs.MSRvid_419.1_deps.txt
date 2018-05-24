@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	dances	woman
+root	ROOT	dances
+case	stage	on
+det	stage	a
+nmod:on	dances	stage
+punct	dances	.

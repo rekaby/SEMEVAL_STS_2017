@@ -1,0 +1,6 @@
+root	ROOT	correct
+case	punishment	by
+nmod:by	correct	punishment
+cc	punishment	or
+conj:or	punishment	discipline
+punct	correct	.

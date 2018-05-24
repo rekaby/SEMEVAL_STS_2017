@@ -1,0 +1,8 @@
+compound	Arabia	Saudi
+nsubj	rejects	Arabia
+root	ROOT	rejects
+dobj	rejects	seat
+case	Council	on
+compound	Council	UN
+compound	Council	Security
+nmod:on	seat	Council

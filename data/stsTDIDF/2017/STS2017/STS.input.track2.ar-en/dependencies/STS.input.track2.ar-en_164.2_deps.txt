@@ -1,0 +1,13 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+compound:prt	walks	down
+det	corridor	the
+dobj	walks	corridor
+case	set	of
+det	set	a
+nmod:of	corridor	set
+case	shops	of
+compound	shops	interfaces
+nmod:of	set	shops
+punct	walks	.

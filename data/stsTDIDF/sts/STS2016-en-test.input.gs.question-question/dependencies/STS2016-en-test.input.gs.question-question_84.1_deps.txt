@@ -1,0 +1,6 @@
+advmod	bake	How
+mark	bake	to
+root	ROOT	bake
+det	chicken	a
+dobj	bake	chicken
+punct	bake	?

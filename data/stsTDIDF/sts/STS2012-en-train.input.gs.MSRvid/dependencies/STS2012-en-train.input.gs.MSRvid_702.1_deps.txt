@@ -1,0 +1,9 @@
+det	man	The
+nsubj	took	man
+root	ROOT	took
+compound:prt	took	off
+nmod:poss	sunglasses	his
+dobj	took	sunglasses
+mark	talking	while
+advcl	took	talking
+punct	took	.

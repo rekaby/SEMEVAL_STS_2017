@@ -1,0 +1,9 @@
+mark	damaged	Because
+det	path	the
+nsubjpass	damaged	path
+acl	path	connecting
+det	bulbs	the
+dobj	connecting	bulbs
+aux	damaged	will
+auxpass	damaged	be
+root	ROOT	damaged

@@ -1,0 +1,12 @@
+root	ROOT	this
+compound	concerns	frame
+dep	this	concerns
+nsubjpass	referred	entities
+advmod	referred	conventionally
+auxpass	referred	being
+acl:relcl	concerns	referred
+case	names	to
+case	names	by
+amod	names	particular
+nmod:agent	referred	names
+punct	this	.

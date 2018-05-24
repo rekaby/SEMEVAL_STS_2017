@@ -1,0 +1,8 @@
+root	ROOT	Programming
+dobj	Programming	means
+acl	means	finding
+det	plan	a
+dobj	finding	plan
+case	action	of
+nmod:of	plan	action
+punct	Programming	.

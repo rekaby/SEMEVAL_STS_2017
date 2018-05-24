@@ -1,0 +1,8 @@
+amod	Bomb	Powerful
+compound	Bomb	Car
+nsubj	Explodes	Bomb
+root	ROOT	Explodes
+amod	Agency	Outside
+compound	Agency	Afghan
+compound	Agency	Intelligence
+dobj	Explodes	Agency

@@ -1,0 +1,12 @@
+neg	counting	Not
+advcl	were	counting
+compound	prices	energy
+dobj	counting	prices
+punct	were	,
+amod	prices	wholesale
+nsubj	were	prices
+root	ROOT	were
+advmod	were	down
+nummod	percent	0.9
+nmod:npmod	down	percent
+punct	were	.

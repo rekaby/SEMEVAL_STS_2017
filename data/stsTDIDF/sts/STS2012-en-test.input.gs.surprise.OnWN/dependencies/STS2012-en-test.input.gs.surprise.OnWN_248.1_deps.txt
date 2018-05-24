@@ -1,0 +1,7 @@
+root	ROOT	close
+case	bounds	within
+nmod:within	close	bounds
+punct	close	;
+parataxis	close	deprive
+case	freedom	of
+nmod:of	deprive	freedom

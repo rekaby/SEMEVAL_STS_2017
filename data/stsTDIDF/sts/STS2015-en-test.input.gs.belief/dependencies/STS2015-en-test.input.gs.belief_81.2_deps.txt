@@ -1,0 +1,10 @@
+nsubj	needs	someone
+root	ROOT	needs
+mark	go	to
+xcomp	needs	go
+case	jail	to
+nmod:to	go	jail
+case	that	for
+nmod:for	go	that
+dep	that	one
+punct	needs	.

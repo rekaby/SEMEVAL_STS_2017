@@ -1,0 +1,10 @@
+det	woman	a
+root	ROOT	woman
+acl	woman	playing
+case	boys	with
+nummod	boys	two
+amod	boys	young
+nmod:with	playing	boys
+case	park	at
+det	park	a
+nmod:at	playing	park

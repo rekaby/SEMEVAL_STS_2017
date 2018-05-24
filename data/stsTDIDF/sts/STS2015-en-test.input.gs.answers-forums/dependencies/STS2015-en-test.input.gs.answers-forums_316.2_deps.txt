@@ -1,0 +1,12 @@
+expl	are	There
+root	ROOT	are
+det	airlines	a
+amod	airlines	few
+nsubj	are	airlines
+nsubj	operate	which
+acl:relcl	airlines	operate
+dobj	operate	flights
+case	fares	at
+amod	fares	lower
+nmod:at	flights	fares
+punct	are	.

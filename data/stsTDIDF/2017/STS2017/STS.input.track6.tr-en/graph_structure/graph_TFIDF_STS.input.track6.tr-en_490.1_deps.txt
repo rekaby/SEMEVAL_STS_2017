@@ -1,0 +1,6 @@
+male	A	det
+sitting	not	neg
+chair	on	case
+sitting	chair	nmod:on
+male	younger	amod
+sitting	male	nsubj

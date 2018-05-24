@@ -1,0 +1,12 @@
+det	man	A
+nsubj	running	man
+cc	man	and
+cc	man	and
+conj:and	man	woman
+aux	running	are
+root	ROOT	running
+advmod	running	together
+punct	running	,
+xcomp	running	holding
+dobj	holding	hands
+punct	running	.

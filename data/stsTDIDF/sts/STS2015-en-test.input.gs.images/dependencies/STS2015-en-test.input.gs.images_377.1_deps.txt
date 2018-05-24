@@ -1,0 +1,17 @@
+nummod	tan	Two
+root	ROOT	tan
+cc	tan	and
+amod	dogs	white
+conj:and	tan	dogs
+cc	tan	and
+nummod	racing	one
+compound	racing	tan
+compound	racing	dog
+conj:and	tan	racing
+compound:prt	racing	down
+det	beach	the
+dobj	racing	beach
+case	water	near
+det	water	the
+nmod:near	beach	water
+punct	tan	.

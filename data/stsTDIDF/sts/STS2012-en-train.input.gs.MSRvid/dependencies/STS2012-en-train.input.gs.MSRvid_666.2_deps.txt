@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	applying	woman
+aux	applying	is
+root	ROOT	applying
+compound	makeup	eye
+dobj	applying	makeup
+punct	applying	.

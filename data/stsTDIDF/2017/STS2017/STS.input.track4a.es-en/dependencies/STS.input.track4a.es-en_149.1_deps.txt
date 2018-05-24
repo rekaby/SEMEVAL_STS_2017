@@ -1,0 +1,10 @@
+det	fortunes	The
+nsubj	said	fortunes
+root	ROOT	said
+aux	turn	will
+ccomp	said	turn
+compound:prt	turn	out
+mark	true	to
+cop	true	be
+xcomp	turn	true
+punct	said	.

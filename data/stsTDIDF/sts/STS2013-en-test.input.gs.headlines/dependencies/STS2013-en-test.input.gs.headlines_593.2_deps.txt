@@ -1,0 +1,9 @@
+compound	zone	Euro
+root	ROOT	zone
+case	Greece	to
+nmod:to	zone	Greece
+punct	zone	:
+neg	rescue	No
+dep	zone	rescue
+case	reforms	without
+nmod:without	rescue	reforms

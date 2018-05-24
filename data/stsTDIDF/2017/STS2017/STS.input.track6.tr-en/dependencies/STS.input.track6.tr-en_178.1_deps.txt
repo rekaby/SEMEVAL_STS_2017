@@ -1,0 +1,8 @@
+det	people	Some
+nsubj	raft	people
+cop	raft	are
+case	raft	in
+det	raft	an
+amod	raft	inflatable
+root	ROOT	raft
+punct	raft	.

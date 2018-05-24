@@ -1,0 +1,11 @@
+det	girl	The
+nsubj	wearing	girl
+aux	wearing	is
+root	ROOT	wearing
+det	shirt	a
+amod	shirt	blue
+amod	shirt	striped
+dobj	wearing	shirt
+cc	shirt	and
+conj:and	shirt	Rollerblades
+punct	wearing	.

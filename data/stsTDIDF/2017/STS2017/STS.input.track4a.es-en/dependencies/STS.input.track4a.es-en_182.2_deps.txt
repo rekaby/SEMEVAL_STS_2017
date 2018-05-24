@@ -1,0 +1,9 @@
+nsubj	puts	Man
+root	ROOT	puts
+nmod:poss	feet	his
+dobj	puts	feet
+compound:prt	puts	up
+case	desk	on
+det	desk	a
+nmod:on	puts	desk
+punct	puts	.

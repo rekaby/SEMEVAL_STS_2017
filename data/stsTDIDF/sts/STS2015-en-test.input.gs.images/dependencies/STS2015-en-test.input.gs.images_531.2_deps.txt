@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	play	dogs
+root	ROOT	play
+advmod	play	together
+case	bed	on
+det	bed	the
+nmod:on	play	bed
+punct	play	.

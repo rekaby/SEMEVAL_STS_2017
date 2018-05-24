@@ -1,0 +1,15 @@
+find	Norwegians	nsubj
+country	their	nmod:poss
+brutality	murder	conj:and
+find	believe	xcomp
+believe	difficult	dep
+capable	country	nmod:in
+brutality	such	amod
+country	peace-loving	amod
+capable	one	nsubj
+capable	brutality	nmod:of
+brutality	and	cc
+capable	was	cop
+believe	capable	ccomp
+capable	that	mark
+brutality	of	case

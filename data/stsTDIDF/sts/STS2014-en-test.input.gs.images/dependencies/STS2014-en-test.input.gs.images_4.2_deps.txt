@@ -1,0 +1,7 @@
+det	boat	A
+amod	boat	large
+root	ROOT	boat
+case	sea	on
+det	sea	the
+nmod:on	boat	sea
+punct	boat	.

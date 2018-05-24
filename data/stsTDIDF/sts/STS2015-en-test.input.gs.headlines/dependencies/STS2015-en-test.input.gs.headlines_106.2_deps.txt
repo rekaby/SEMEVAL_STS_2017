@@ -1,0 +1,7 @@
+nsubj	Condemns	UN
+root	ROOT	Condemns
+amod	Killings	Ethnic
+dobj	Condemns	Killings
+case	Sudan	in
+compound	Sudan	South
+nmod:in	Killings	Sudan

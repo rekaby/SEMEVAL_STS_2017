@@ -1,0 +1,12 @@
+root	ROOT	Cause
+mark	distrusted	to
+auxpass	distrusted	be
+xcomp	Cause	distrusted
+cc	distrusted	or
+conj:or	distrusted	rejected
+punct	Cause	;
+dep	Cause	damage
+det	reputation	the
+dobj	damage	reputation
+acl	reputation	of
+punct	Cause	.

@@ -1,0 +1,7 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	running	dogs
+root	ROOT	running
+advmod	running	together
+case	sand	on
+nmod:on	running	sand

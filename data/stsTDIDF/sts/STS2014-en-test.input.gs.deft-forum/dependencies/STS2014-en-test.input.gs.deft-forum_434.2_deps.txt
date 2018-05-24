@@ -1,0 +1,8 @@
+root	ROOT	What
+mark	had	if
+nsubj	had	they
+dep	What	had
+det	bias	a
+amod	bias	personal
+dobj	had	bias
+punct	What	?

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+amod	eggplant	chopped
+dobj	puts	eggplant
+case	skillet	into
+det	skillet	a
+nmod:into	puts	skillet
+punct	puts	.

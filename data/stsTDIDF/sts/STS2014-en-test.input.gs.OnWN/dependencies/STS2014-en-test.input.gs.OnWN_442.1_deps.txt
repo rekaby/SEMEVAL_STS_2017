@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	expressing	of
+acl	act	expressing
+dobj	expressing	approval
+punct	act	,
+appos	act	support
+case	something	of
+nmod:of	support	something

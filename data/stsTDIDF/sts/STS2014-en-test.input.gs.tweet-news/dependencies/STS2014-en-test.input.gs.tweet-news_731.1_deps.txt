@@ -1,0 +1,9 @@
+amod	Swartz	Online
+compound	Swartz	internet
+compound	Swartz	Aaron
+nsubj	commits	Swartz
+root	ROOT	commits
+dobj	commits	suicide
+punct	commits	,
+advmod	commits	relative
+dep	commits	says

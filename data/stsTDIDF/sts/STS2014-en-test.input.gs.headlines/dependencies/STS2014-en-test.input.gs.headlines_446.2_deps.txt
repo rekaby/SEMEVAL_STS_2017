@@ -1,0 +1,6 @@
+nummod	Dead	Thirty
+amod	Plunge	Dead
+case	Bus	In
+amod	Bus	Italian
+nmod:in	Dead	Bus
+root	ROOT	Plunge

@@ -1,0 +1,10 @@
+det	boy	A
+amod	boy	little
+nsubj	throwing	boy
+aux	throwing	is
+root	ROOT	throwing
+det	man	a
+dobj	throwing	man
+case	water	in
+nmod:in	throwing	water
+punct	throwing	.

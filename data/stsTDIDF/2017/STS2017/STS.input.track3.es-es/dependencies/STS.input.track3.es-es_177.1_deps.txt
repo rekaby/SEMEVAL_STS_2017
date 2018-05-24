@@ -1,0 +1,6 @@
+nummod	girls	Two
+root	ROOT	girls
+acl	girls	visiting
+compound	York	New
+dobj	visiting	York
+punct	girls	.

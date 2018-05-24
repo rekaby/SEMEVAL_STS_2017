@@ -1,0 +1,5 @@
+is	reenactment	nsubj
+reenactment	war	compound
+reenactment	friends	nmod:among
+reenactment	a	det
+friends	among	case

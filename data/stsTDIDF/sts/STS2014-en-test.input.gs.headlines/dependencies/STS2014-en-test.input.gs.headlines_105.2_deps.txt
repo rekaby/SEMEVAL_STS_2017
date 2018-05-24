@@ -1,0 +1,9 @@
+compound	search	Rescuers
+nsubj	blast	search
+case	survivors	for
+nmod:for	search	survivors
+case	plant	of
+compound	plant	Texas
+compound	plant	fertiliser
+nmod:of	survivors	plant
+root	ROOT	blast

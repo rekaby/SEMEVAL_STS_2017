@@ -1,0 +1,10 @@
+talking	building	nmod:outside_of
+building	outside	case
+talking	women	nsubj
+vests	shirts	conj:and
+women	Three	nummod
+women	wearing	acl
+vests	black	amod
+shirts	gray	amod
+vests	and	cc
+wearing	vests	dobj

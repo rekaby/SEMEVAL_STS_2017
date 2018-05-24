@@ -1,0 +1,9 @@
+nsubj	hope	i
+root	ROOT	hope
+nsubj	works	it
+ccomp	hope	works
+compound:prt	works	out
+case	end	in
+det	end	the
+nmod:in	works	end
+punct	hope	...

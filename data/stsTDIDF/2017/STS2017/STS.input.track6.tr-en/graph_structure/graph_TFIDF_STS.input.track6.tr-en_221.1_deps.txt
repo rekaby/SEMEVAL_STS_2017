@@ -1,0 +1,8 @@
+room	an	det
+room	empty	amod
+practicing	.	punct
+ROOT	practicing	root
+practicing	musicians	nsubj
+practicing	room	nmod:in
+practicing	are	aux
+musicians	The	det

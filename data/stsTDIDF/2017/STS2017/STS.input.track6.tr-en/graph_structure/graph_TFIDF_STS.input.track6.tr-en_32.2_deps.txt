@@ -1,0 +1,12 @@
+rock	a	det
+jumping	girl	nsubj
+hand	air	nmod:in
+jumping	air	nmod:into
+rock	with	case
+jumping	rock	nmod:with
+air	the	det
+rock	big	amod
+rock	hand	conj:and
+jumping	is	aux
+girl	beach	nmod:on
+rock	and	cc

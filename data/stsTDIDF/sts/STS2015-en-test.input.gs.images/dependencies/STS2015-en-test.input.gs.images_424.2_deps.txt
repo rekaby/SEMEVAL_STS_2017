@@ -1,0 +1,7 @@
+det	dog	a
+root	ROOT	dog
+amod	dog	trots
+case	grass	through
+det	grass	the
+nmod:through	trots	grass
+punct	dog	.

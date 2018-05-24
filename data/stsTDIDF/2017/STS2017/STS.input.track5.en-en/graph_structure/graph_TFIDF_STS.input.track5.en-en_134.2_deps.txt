@@ -1,0 +1,7 @@
+white	wall	compound
+painting	.	punct
+white	her	nmod:poss
+painting	white	dobj
+painting	is	aux
+ROOT	painting	root
+painting	woman	nsubj

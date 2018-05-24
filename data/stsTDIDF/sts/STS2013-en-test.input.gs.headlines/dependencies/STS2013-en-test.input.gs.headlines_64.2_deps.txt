@@ -1,0 +1,7 @@
+compound	forces	AU
+nsubj	intensify	forces
+root	ROOT	intensify
+dobj	intensify	attack
+case	rebels	on
+amod	rebels	Somali
+nmod:on	attack	rebels

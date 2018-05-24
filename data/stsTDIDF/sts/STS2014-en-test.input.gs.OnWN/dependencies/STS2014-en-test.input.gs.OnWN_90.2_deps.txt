@@ -1,0 +1,7 @@
+det	section	the
+amod	section	last
+root	ROOT	section
+case	communication	of
+det	communication	a
+nmod:of	section	communication
+punct	section	.

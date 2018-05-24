@@ -1,0 +1,11 @@
+det	female	A
+nsubj	applies	female
+root	ROOT	applies
+dobj	applies	something
+mark	hair	to
+nsubj	hair	he
+advcl	applies	hair
+case	hands	with
+nmod:poss	hands	her
+nmod:with	hair	hands
+punct	applies	.

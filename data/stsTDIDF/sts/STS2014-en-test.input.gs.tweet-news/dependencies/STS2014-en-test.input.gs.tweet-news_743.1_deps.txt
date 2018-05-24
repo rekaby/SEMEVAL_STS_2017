@@ -1,0 +1,14 @@
+advmod	people	Really
+root	ROOT	people
+amod	people	???-3) root(ROOT-0, ?-1) punct(sue-3, :
+nsubj	sue	Readers
+root	ROOT	sue
+compound	Armstrong	Lance
+dobj	sue	Armstrong
+case	refund	for
+compound	refund	book
+nmod:for	sue	refund
+case	admission	after
+amod	admission	doping
+nmod:after	sue	admission
+punct	sue	?

@@ -1,0 +1,17 @@
+det	idea	The
+amod	idea	basic
+nsubj	is	idea
+root	ROOT	is
+mark	represent	to
+xcomp	is	represent
+det	document	each
+dobj	represent	document
+case	vector	as
+det	vector	a
+nmod:as	represent	vector
+case	frequencies	of
+amod	frequencies	certain
+amod	frequencies	weighted
+compound	frequencies	word
+nmod:of	vector	frequencies
+punct	is	.

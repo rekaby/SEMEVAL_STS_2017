@@ -1,0 +1,8 @@
+det	man	The
+nsubj	group	man
+cop	group	is
+case	group	with
+det	group	a
+root	ROOT	group
+case	friends	of
+nmod:of	group	friends

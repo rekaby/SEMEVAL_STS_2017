@@ -1,0 +1,4 @@
+men	layers	conj:and
+bags	canvas	compound
+men	bags	conj:and
+layers	dress	compound

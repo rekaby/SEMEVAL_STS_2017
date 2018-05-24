@@ -1,0 +1,17 @@
+det	points	A
+amod	points	few
+root	ROOT	points
+mark	add	to
+acl	points	add
+advmod	add	here
+punct	points	:
+nsubj	know	Coyotes
+aux	know	are
+neg	know	not
+parataxis	points	know
+mark	aggressive	to
+cop	aggressive	be
+xcomp	know	aggressive
+case	humans	towards
+nmod:towards	aggressive	humans
+punct	points	.

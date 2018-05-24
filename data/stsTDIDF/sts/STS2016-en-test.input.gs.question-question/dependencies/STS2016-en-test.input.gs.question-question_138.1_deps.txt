@@ -1,0 +1,13 @@
+dobj	refer	What
+aux	refer	does
+det	term	the
+nsubj	refer	term
+punct	refer	``
+case	Furnace	Out
+mwe	Out	of
+det	Furnace	the
+nmod:out_of	refer	Furnace
+punct	refer	''
+root	ROOT	refer
+nmod	refer	to
+punct	refer	?

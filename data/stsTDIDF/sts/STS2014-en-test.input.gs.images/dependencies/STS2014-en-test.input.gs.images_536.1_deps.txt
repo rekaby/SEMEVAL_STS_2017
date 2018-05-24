@@ -1,0 +1,10 @@
+det	ship	An
+amod	ship	old
+amod	ship	fashioned
+amod	ship	wooden
+compound	ship	sailing
+root	ROOT	ship
+case	ocean	in
+det	ocean	the
+nmod:in	ship	ocean
+punct	ship	.

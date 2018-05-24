@@ -1,0 +1,16 @@
+ersatz	``	punct
+ersatz	''	punct
+story	says	acl:relcl
+ersatz	everywhere	advmod
+ersatz	:	punct
+telling	story	dobj
+schoolgirl	German	amod
+telling	In	mark
+schoolgirl	a	det
+story	schoolgirl	nmod:poss
+schoolgirl	's	case
+ersatz	.	punct
+ersatz	telling	advcl
+ersatz	,	punct
+ROOT	ersatz	root
+ersatz	Ersatz	dep

@@ -1,0 +1,7 @@
+amod	troops	Syrian
+nsubj	push	troops
+root	ROOT	push
+case	town	into
+amod	town	strategic
+compound	town	rebelheld
+nmod:into	push	town

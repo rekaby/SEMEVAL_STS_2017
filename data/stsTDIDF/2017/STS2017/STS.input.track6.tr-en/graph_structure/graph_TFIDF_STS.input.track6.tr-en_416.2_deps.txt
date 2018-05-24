@@ -1,0 +1,14 @@
+rock	a	det
+rock	supported	acl
+sweater	blue	amod
+supported	planks	nmod:by
+sweater	,	punct
+sweater	.	punct
+planks	wooden	amod
+planks	by	case
+working	rock	nmod:on
+sweater	working	acl
+rock	large	amod
+rock	on	case
+sweater	A	det
+ROOT	sweater	root

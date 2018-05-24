@@ -1,0 +1,7 @@
+mother	black	amod
+mother	area	nmod:in
+mother	A	det
+area	rural	amod
+children	five	nummod
+mother	children	conj:and
+ROOT	mother	root

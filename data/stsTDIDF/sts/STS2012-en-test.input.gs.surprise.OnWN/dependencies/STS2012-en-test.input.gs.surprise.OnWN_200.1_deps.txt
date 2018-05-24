@@ -1,0 +1,7 @@
+det	activity	a
+amod	activity	mental
+root	ROOT	activity
+case	construing	of
+nmod:of	activity	construing
+cc	construing	or
+conj:or	construing	interpreting

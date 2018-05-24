@@ -1,0 +1,8 @@
+compound	Stallone	Sylvester
+nmod:poss	Dead	Stallone
+case	Stallone	's
+compound	Dead	Son
+compound	Dead	Found
+root	ROOT	Dead
+case	Home	At
+nmod:at	Dead	Home

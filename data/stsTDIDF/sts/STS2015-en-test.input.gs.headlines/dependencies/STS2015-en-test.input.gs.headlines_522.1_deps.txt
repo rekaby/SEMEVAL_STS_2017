@@ -1,0 +1,11 @@
+compound	Farage	Nigel
+nsubj	calls	Farage
+root	ROOT	calls
+case	Government	on
+nmod:on	calls	Government
+mark	let	to
+xcomp	calls	let
+amod	refugees	Syrian
+dobj	let	refugees
+case	UK	into
+nmod:into	let	UK

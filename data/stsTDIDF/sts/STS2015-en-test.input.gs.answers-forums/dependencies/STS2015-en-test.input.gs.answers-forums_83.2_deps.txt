@@ -1,0 +1,15 @@
+det	cable	The
+compound	cable	word
+punct	cable	``
+nsubj	has	cable
+punct	cable	''
+root	ROOT	has
+nmod:poss	origins	its
+dobj	has	origins
+case	days	in
+det	days	the
+nmod:in	has	days
+case	telegraph	of
+det	telegraph	the
+nmod:of	days	telegraph
+punct	has	.

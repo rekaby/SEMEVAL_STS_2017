@@ -1,0 +1,20 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	has	Keltari
+ccomp	think	has
+det	ideas	some
+amod	ideas	good
+dobj	has	ideas
+punct	think	...
+punct	think	.-9) det(cat-2, A
+nsubj	change	cat
+aux	change	can
+root	ROOT	change
+nmod:poss	taste	its
+punct	taste	``
+dobj	change	taste
+punct	taste	''
+case	material	in
+compound	material	litter
+nmod:in	taste	material
+punct	change	.

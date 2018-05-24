@@ -1,0 +1,10 @@
+nsubj	has	Ahmadinejad
+root	ROOT	has
+dobj	has	embarque
+case	adventure	in
+det	adventure	an
+nmod:in	embarque	adventure
+punct	embarque	,
+neg	Bernanke	not
+appos	embarque	Bernanke
+punct	has	.

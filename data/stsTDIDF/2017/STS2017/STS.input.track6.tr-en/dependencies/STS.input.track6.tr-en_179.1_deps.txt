@@ -1,0 +1,7 @@
+nsubj	partying	Friends
+aux	partying	are
+root	ROOT	partying
+case	band	with
+det	band	e
+amod	band	new
+nmod:with	partying	band

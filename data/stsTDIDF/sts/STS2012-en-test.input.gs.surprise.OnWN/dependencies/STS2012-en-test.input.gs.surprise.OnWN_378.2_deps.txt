@@ -1,0 +1,5 @@
+root	ROOT	wear
+advmod	wear	away
+cc	away	or
+conj:or	away	erode
+punct	wear	.

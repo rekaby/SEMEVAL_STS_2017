@@ -1,0 +1,6 @@
+lumberyard	across	case
+man	carrying	acl
+beams	steel	compound
+carrying	beams	dobj
+lumberyard	a	det
+carrying	lumberyard	nmod:across

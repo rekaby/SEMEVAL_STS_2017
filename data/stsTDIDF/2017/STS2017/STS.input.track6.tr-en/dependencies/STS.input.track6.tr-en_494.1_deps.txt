@@ -1,0 +1,12 @@
+det	mother	A
+nsubj	drinking	mother
+cc	mother	and
+conj:and	mother	daughter
+aux	drinking	are
+root	ROOT	drinking
+dobj	drinking	coffee
+case	table	at
+det	table	the
+compound	table	kitchen
+nmod:at	drinking	table
+punct	drinking	.

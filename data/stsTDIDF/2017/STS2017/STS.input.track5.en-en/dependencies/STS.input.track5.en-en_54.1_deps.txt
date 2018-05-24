@@ -1,0 +1,12 @@
+nsubj	rock	People
+root	ROOT	rock
+xcomp	rock	jumping
+case	water	into
+nmod:into	jumping	water
+nmod	jumping	while
+compound	fish	people
+dep	while	fish
+case	background	in
+det	background	the
+nmod:in	fish	background
+punct	rock	.

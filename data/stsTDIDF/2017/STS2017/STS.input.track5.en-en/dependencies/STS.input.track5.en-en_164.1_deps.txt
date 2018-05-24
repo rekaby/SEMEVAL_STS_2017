@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	bathroom	woman
+cop	bathroom	is
+case	bathroom	in
+det	bathroom	the
+root	ROOT	bathroom
+punct	bathroom	.

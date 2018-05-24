@@ -1,0 +1,7 @@
+nmod:poss	Cabinet	China
+case	China	's
+nsubj	promises	Cabinet
+root	ROOT	promises
+mark	boost	to
+xcomp	promises	boost
+dobj	boost	economy

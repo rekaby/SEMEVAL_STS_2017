@@ -1,0 +1,12 @@
+amod	majority	Absolute
+root	ROOT	majority
+advmod	defined	always
+acl	majority	defined
+case	institution	by
+det	institution	the
+nmod:by	defined	institution
+punct	majority	,
+cc	majority	or
+det	context	the
+conj:or	majority	context
+punct	majority	.

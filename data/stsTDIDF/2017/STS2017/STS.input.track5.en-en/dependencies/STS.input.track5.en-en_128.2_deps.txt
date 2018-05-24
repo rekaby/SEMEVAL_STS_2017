@@ -1,0 +1,6 @@
+nsubj	sitting	People
+aux	sitting	are
+root	ROOT	sitting
+case	benches	on
+nmod:on	sitting	benches
+punct	sitting	.

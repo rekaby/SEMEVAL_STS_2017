@@ -1,0 +1,9 @@
+Father	wearing	acl
+watching	are	aux
+watching	rodeo	dobj
+Father	son	conj:and
+Father	and	cc
+rodeo	a	det
+watching	Father	nsubj
+outfits	cowboy	compound
+wearing	outfits	dobj

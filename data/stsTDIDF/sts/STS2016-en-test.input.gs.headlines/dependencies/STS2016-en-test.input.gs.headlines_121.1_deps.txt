@@ -1,0 +1,9 @@
+compound	unrest	Turkey
+nsubj	goes	unrest
+root	ROOT	goes
+case	end	on
+case	end	despite
+nmod:despite	goes	end
+case	protest	to
+compound	protest	park
+nmod:to	end	protest

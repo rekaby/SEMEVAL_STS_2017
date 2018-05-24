@@ -1,0 +1,5 @@
+nsubj	rocked	China
+root	ROOT	rocked
+case	earthquakes	by
+amod	earthquakes	twin
+nmod:by	rocked	earthquakes

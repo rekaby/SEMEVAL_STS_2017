@@ -1,0 +1,18 @@
+advmod	morning	Feel
+amod	morning	good
+nsubj	read	morning
+root	ROOT	read
+punct	read	!-5) nummod(Note-2, :-RRB-
+root	ROOT	Note
+case	napkin	on
+det	napkin	a
+nmod:on	Note	napkin
+punct	Note	,
+punct	us	`
+det	meal	This
+nsubj	us	meal
+cop	us	is
+case	us	on
+appos	Note	us
+punct	us	'
+punct	Note	-

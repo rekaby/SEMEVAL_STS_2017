@@ -1,0 +1,15 @@
+nsubj	serving	Powell
+aux	serving	is
+root	ROOT	serving
+dobj	serving	time
+case	case	in
+det	case	a
+amod	case	different
+nmod:in	time	case
+punct	serving	--
+advcl	serving	killing
+nmod:poss	landlady	his
+dobj	killing	landlady
+case	1982	in
+nmod:in	killing	1982
+punct	serving	.

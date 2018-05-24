@@ -1,0 +1,11 @@
+root	ROOT	keep
+dobj	keep	something
+cc	something	or
+conj:or	something	someone
+case	control	under
+nmod:under	something	control
+punct	keep	;
+parataxis	keep	stop
+dobj	stop	something
+mark	happening	from
+advcl	stop	happening

@@ -1,0 +1,15 @@
+det	man	A
+nsubj	takes	man
+root	ROOT	takes
+det	photo	a
+dobj	takes	photo
+case	girl	of
+det	girl	a
+nmod:of	photo	girl
+cc	takes	and
+nsubj	water	she
+cop	water	is
+case	water	near
+det	water	the
+conj:and	takes	water
+punct	takes	.

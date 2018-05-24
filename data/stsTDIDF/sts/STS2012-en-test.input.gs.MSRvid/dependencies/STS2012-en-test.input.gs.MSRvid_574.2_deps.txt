@@ -1,0 +1,13 @@
+det	boy	A
+nsubj	sits	boy
+root	ROOT	sits
+case	bed	on
+det	bed	a
+nmod:on	sits	bed
+punct	sits	,
+dep	sits	sings
+cc	sings	and
+conj:and	sings	plays
+det	guitar	a
+dobj	plays	guitar
+punct	sits	.

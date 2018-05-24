@@ -1,0 +1,9 @@
+taking	while	mark
+eating	group	nsubj
+eating	is	aux
+eating	taking	advcl
+view	breathtaking	amod
+ROOT	eating	root
+taking	view	dobj
+eating	.	punct
+taking	in	compound:prt

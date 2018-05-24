@@ -1,0 +1,6 @@
+surgery	painful	amod
+surgery	dental	amod
+receiving	is	aux
+ROOT	receiving	root
+receiving	surgery	dobj
+receiving	child	nsubj

@@ -1,0 +1,4 @@
+ROOT	climbs	root
+climbs	Climber	nsubj
+climbs	dark	nmod:in
+climbs	.	punct

@@ -1,0 +1,5 @@
+ROOT	animates	root
+animates	stands	nmod:from
+animates	.	punct
+stands	from	case
+animates	person	nsubj

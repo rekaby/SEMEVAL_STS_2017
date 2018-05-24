@@ -1,0 +1,7 @@
+det	man	A
+nsubj	climbing	man
+root	ROOT	climbing
+det	face	a
+compound	face	cliff
+dobj	climbing	face
+punct	climbing	.

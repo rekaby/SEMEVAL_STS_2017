@@ -1,0 +1,11 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	mountain	on
+det	mountain	a
+nmod:on	stands	mountain
+punct	stands	,
+xcomp	stands	watching
+det	plane	a
+dobj	watching	plane
+punct	stands	.

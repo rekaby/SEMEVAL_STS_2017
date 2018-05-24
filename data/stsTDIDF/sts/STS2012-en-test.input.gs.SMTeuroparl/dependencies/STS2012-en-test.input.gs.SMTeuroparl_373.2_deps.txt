@@ -1,0 +1,14 @@
+nsubj	part	I
+cop	part	am
+root	ROOT	part
+case	members	of
+det	members	the
+nmod:of	part	members
+case	parliament	of
+nmod:of	members	parliament
+nsubj	present	who
+cop	present	are
+advmod	present	rather
+advmod	present	honorably
+acl:relcl	parliament	present
+punct	part	.

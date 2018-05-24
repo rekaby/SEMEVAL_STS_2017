@@ -1,0 +1,7 @@
+nsubj	gather	Thousands
+root	ROOT	gather
+case	Moscow	in
+nmod:in	gather	Moscow
+case	rallies	for
+amod	rallies	rival
+nmod:for	gather	rallies

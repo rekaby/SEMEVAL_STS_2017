@@ -1,0 +1,14 @@
+cc	keep	But
+cc:preconj	he	neither
+nsubj	keep	he
+cc	he	nor
+compound	Rules	Peace
+conj:nor	he	Rules
+aux	keep	could
+root	ROOT	keep
+compound	Cide	Funny
+dobj	keep	Cide
+mark	drawing	from
+advcl	keep	drawing
+advmod	drawing	away
+punct	keep	.

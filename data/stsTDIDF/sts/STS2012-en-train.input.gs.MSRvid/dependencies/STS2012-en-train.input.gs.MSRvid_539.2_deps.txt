@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	carrying	woman
+aux	carrying	is
+root	ROOT	carrying
+det	wallaby	a
+dobj	carrying	wallaby
+case	bag	in
+det	bag	a
+nmod:in	carrying	bag
+punct	carrying	.

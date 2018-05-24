@@ -1,0 +1,15 @@
+mark	is	if
+expl	is	there
+advcl	different	is
+det	gap	a
+nsubj	is	gap
+case	terminals	between
+det	terminals	the
+nmod:between	gap	terminals
+punct	different	,
+det	voltage	the
+nsubj	different	voltage
+aux	different	will
+cop	different	be
+root	ROOT	different
+punct	different	.

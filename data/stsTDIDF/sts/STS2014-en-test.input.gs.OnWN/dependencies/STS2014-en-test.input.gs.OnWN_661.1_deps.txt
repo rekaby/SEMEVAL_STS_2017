@@ -1,0 +1,14 @@
+root	ROOT	Put
+compound:prt	Put	in
+dobj	Put	motion
+cc	Put	or
+conj:or	Put	move
+mark	act	to
+xcomp	move	act
+punct	Put	;
+parataxis	Put	make
+xcomp	make	active
+cc	active	or
+advmod	active	more
+conj:or	active	active
+punct	Put	.

@@ -1,0 +1,4 @@
+nsubj	heading	President
+root	ROOT	heading
+case	Bahrain	to
+nmod:to	heading	Bahrain

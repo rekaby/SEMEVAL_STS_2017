@@ -1,0 +1,6 @@
+amod	gain	Chinese
+compound	gain	stocks
+root	ROOT	gain
+case	midday	at
+nmod:at	gain	midday
+nmod:tmod	gain	Monday

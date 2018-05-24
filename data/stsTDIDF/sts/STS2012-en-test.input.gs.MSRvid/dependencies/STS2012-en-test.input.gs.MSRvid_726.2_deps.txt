@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	plays	woman
+root	ROOT	plays
+det	guitar	an
+amod	guitar	electric
+dobj	plays	guitar
+punct	plays	.

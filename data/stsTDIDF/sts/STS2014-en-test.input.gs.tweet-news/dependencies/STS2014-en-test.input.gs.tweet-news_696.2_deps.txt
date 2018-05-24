@@ -1,0 +1,8 @@
+case	Quebec	In
+nmod:in	Celebration	Quebec
+punct	Celebration	,
+det	Celebration	a
+compound	Celebration	Winter
+root	ROOT	Celebration
+case	Skis	on
+nmod:on	Celebration	Skis

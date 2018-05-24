@@ -1,0 +1,15 @@
+csubj	spokesman	do
+amod	doan	quy
+dobj	do	doan
+cop	spokesman	is
+det	spokesman	a
+root	ROOT	spokesman
+case	ministry	for
+det	ministry	the
+amod	ministry	vietnamese
+nmod:for	spokesman	ministry
+case	culture	of
+nmod:of	ministry	culture
+cc	culture	and
+conj:and	culture	information
+punct	spokesman	.

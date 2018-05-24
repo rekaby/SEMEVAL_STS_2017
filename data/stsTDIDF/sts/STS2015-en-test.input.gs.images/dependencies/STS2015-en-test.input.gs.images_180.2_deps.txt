@@ -1,0 +1,12 @@
+det	pack	A
+root	ROOT	pack
+case	dogs	of
+compound	dogs	sled
+nmod:of	pack	dogs
+acl	pack	pulling
+det	sled	a
+dobj	pulling	sled
+case	town	through
+det	town	a
+nmod:through	pulling	town
+punct	pack	.

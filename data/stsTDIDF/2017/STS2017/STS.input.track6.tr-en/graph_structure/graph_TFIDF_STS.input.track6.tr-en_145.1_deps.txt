@@ -1,0 +1,9 @@
+ROOT	commissioned	root
+workers	The	det
+commissioned	workers	nsubjpass
+design	floor	dobj
+commissioned	design	xcomp
+commissioned	.	punct
+commissioned	were	auxpass
+floor	tile	compound
+workers	mosaic	amod

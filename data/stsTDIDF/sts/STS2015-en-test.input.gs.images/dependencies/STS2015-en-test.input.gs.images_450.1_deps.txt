@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	snow	in
+det	snow	the
+nmod:in	running	snow
+punct	running	.

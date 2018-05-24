@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+case	skis	on
+nmod:on	man	skis
+case	hill	on
+det	hill	a
+amod	hill	snow-covered
+nmod:on	man	hill
+case	mountains	with
+nmod:with	hill	mountains
+case	background	in
+det	background	the
+nmod:in	hill	background

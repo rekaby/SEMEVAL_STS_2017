@@ -1,0 +1,4 @@
+material	black	amod
+placing	street	nmod:on
+man	placing	acl
+placing	material	dobj

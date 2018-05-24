@@ -1,0 +1,14 @@
+det	frame	this
+nsubj	contains	frame
+root	ROOT	contains
+dobj	contains	nouns
+acl	nouns	denoting
+det	rank	a
+dobj	denoting	rank
+cc	rank	or
+conj:or	rank	level
+case	hierarchy	within
+det	hierarchy	an
+amod	hierarchy	established
+nmod:within	rank	hierarchy
+punct	contains	.

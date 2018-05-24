@@ -1,0 +1,8 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+nmod:poss	bike	his
+dobj	riding	bike
+advmod	riding	inside
+punct	riding	.

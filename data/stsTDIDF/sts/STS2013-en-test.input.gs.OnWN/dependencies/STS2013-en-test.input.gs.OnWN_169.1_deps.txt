@@ -1,0 +1,7 @@
+det	area	the
+compound	area	uppermost
+root	ROOT	area
+case	region	of
+nmod:of	area	region
+case	something	of
+nmod:of	region	something

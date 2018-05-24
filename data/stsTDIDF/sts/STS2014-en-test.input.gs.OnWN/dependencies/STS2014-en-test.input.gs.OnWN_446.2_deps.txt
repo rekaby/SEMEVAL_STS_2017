@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	taking	of
+acl	act	taking
+case	person	of
+det	person	a
+nmod:of	taking	person
+case	force	by
+nmod:by	taking	force
+punct	act	.

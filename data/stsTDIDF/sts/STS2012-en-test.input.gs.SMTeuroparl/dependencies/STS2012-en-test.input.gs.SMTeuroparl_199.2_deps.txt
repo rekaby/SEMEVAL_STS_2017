@@ -1,0 +1,16 @@
+nsubj	right	It
+cop	right	is
+root	ROOT	right
+mark	entails	that
+det	Union	the
+compound	Union	European
+nsubj	entails	Union
+cop	entails	is
+nsubj	entails	it
+ccomp	right	entails
+punct	right	,
+cc	right	and
+conj:and	right	do
+advmod	quickly	so
+advmod	do	quickly
+punct	right	.

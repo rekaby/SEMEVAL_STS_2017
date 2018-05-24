@@ -1,0 +1,10 @@
+root	ROOT	`
+compound	name	India
+compound	name	police
+root	`	name
+nummod	Iranians	3
+dep	name	Iranians
+case	attack	in
+compound	attack	embassy
+nmod:in	Iranians	attack
+punct	name	'

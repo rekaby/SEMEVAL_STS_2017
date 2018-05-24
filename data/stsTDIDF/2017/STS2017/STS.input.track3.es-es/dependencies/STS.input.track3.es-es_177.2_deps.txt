@@ -1,0 +1,11 @@
+det	girls	The
+nummod	girls	two
+nsubj	new	girls
+nsubj	work	who
+acl:relcl	girls	work
+case	restaurant	in
+det	restaurant	the
+nmod:in	work	restaurant
+cop	new	are
+root	ROOT	new
+punct	new	.

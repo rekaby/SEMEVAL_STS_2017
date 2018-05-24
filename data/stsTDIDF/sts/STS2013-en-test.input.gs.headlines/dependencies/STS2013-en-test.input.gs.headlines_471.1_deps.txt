@@ -1,0 +1,7 @@
+compound	Bomber	Suicide
+nsubj	Kills	Bomber
+root	ROOT	Kills
+dobj	Kills	6
+case	Capital	in
+compound	Capital	Afghan
+nmod:in	6	Capital

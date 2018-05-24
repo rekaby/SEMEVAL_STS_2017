@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	white
+nsubj	flying	bird
+root	ROOT	flying
+compound:prt	flying	up
+case	tree	onto
+det	tree	a
+nmod:onto	flying	tree
+punct	flying	.

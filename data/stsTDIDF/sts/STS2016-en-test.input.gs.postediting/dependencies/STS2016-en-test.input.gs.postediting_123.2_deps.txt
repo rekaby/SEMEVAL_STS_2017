@@ -1,0 +1,17 @@
+det	episode	This
+nsubj	shown	episode
+aux	shown	has
+root	ROOT	shown
+xcomp	shown	that
+det	principle	the
+amod	principle	precautionary
+root	that	principle
+nsubjpass	applied	that
+aux	applied	has
+auxpass	applied	been
+acl:relcl	principle	applied
+punct	applied	,
+amod	sense	made
+dobj	applied	sense
+punct	principle	.
+punct	principle	''

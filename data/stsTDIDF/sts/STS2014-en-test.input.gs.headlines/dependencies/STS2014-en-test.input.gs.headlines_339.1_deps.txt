@@ -1,0 +1,8 @@
+amod	ambassador	Honduran
+root	ROOT	ambassador
+case	Colombia	to
+nmod:to	ambassador	Colombia
+acl	Colombia	sacked
+case	party	after
+amod	party	wild
+nmod:after	sacked	party

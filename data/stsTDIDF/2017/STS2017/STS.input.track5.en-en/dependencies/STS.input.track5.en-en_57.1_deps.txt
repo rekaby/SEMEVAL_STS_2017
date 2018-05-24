@@ -1,0 +1,13 @@
+det	woman	A
+amod	woman	blonde
+nsubj	looks	woman
+root	ROOT	looks
+case	supplies	for
+amod	supplies	medical
+nmod:for	looks	supplies
+case	work	for
+nmod:for	supplies	work
+case	suitcase	in
+det	suitcase	a
+nmod:in	work	suitcase
+punct	looks	.

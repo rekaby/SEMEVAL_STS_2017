@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	sits	woman
+root	ROOT	sits
+case	table	by
+det	table	a
+nmod:by	sits	table
+acl	table	covered
+case	dishes	with
+nmod:with	covered	dishes
+cc	dishes	and
+conj:and	dishes	saucers
+punct	sits	.

@@ -1,0 +1,17 @@
+root	ROOT	What
+cop	What	are
+det	holes	these
+nsubj	What	holes
+case	wall	in
+nmod:poss	wall	my
+amod	wall	concrete
+nmod:in	holes	wall
+cc	wall	and
+advmod	mount	how
+aux	mount	can
+nsubj	mount	I
+conj:and	wall	mount
+dobj	mount	things
+case	them	to
+nmod:to	mount	them
+punct	What	?

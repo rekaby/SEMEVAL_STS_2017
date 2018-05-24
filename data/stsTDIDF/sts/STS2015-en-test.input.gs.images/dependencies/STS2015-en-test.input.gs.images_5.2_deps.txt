@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	young
+nsubj	swing	girl
+acl	girl	wearing
+det	hat	a
+dobj	wearing	hat
+cc	hat	and
+amod	jeans	blue
+conj:and	hat	jeans
+cop	swing	is
+case	swing	on
+det	swing	a
+root	ROOT	swing
+punct	swing	.

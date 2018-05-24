@@ -1,0 +1,9 @@
+det	men	The
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+case	basketball	of
+nmod:of	game	basketball
+punct	playing	.

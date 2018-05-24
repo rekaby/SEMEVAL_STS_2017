@@ -1,0 +1,9 @@
+compound	Court	US
+compound	Court	Supreme
+nsubj	limits	Court
+root	ROOT	limits
+nmod:poss	appointments	president
+case	president	's
+compound	appointments	recess
+nsubj	power	appointments
+ccomp	limits	power

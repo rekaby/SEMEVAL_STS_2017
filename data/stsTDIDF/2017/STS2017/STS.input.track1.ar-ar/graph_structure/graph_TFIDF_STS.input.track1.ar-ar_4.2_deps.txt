@@ -1,0 +1,10 @@
+grass	long	amod
+holding	stick	dobj
+shirt	white	amod
+grass	on	case
+shirt	with	case
+walks	man	nsubj
+stick	a	det
+walks	grass	nmod:on
+grass	holding	acl
+walks	shirt	nmod:with

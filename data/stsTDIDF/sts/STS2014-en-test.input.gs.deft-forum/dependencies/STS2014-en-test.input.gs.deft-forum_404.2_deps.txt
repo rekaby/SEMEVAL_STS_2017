@@ -1,0 +1,8 @@
+cc	fight	And
+nsubj	fight	I
+aux	fight	do
+neg	fight	n't
+root	ROOT	fight
+case	marriage	for
+nmod:for	fight	marriage
+punct	fight	.

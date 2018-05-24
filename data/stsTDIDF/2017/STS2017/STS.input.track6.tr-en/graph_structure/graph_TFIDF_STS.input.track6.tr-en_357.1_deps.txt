@@ -1,0 +1,5 @@
+getting	bus	nmod:on
+getting	women	nsubj
+dresses	in	case
+women	dresses	nmod:in
+bus	on	case

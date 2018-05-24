@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+case	back	on
+det	back	the
+nmod:on	riding	back
+case	SUV	of
+det	SUV	an
+amod	SUV	orange
+nmod:of	back	SUV
+punct	man	.

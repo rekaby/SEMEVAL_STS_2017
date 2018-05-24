@@ -1,0 +1,8 @@
+nsubj	takes	UN
+root	ROOT	takes
+compound:prt	takes	over
+dobj	takes	peacekeeping
+case	Republic	in
+amod	African	Central
+amod	Republic	African
+nmod:in	peacekeeping	Republic

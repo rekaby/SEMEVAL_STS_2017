@@ -1,0 +1,16 @@
+nummod	guys	Two
+nsubj	sit	guys
+root	ROOT	sit
+case	beers	on
+det	beers	a
+compound	beers	couch
+amod	beers	holding
+nmod:on	sit	beers
+case	girl	with
+det	girl	a
+nmod:with	beers	girl
+acl	girl	lying
+case	laps	on
+nmod:poss	laps	their
+nmod:on	lying	laps
+punct	sit	.

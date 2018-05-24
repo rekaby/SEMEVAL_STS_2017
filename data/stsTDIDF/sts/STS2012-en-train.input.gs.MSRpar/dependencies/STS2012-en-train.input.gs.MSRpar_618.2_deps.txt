@@ -1,0 +1,12 @@
+case	memo	In
+det	memo	the
+nmod:in	reiterated	memo
+punct	reiterated	,
+nsubj	reiterated	Ballmer
+root	ROOT	reiterated
+det	threat	the
+amod	threat	open-source
+dobj	reiterated	threat
+case	Microsoft	to
+nmod:to	threat	Microsoft
+punct	reiterated	.

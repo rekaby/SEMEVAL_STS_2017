@@ -1,0 +1,7 @@
+det	girl	The
+nsubj	riding	girl
+aux	riding	is
+root	ROOT	riding
+det	horse	the
+dobj	riding	horse
+punct	riding	.

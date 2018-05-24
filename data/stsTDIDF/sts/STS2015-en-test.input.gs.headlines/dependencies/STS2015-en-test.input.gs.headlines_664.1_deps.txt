@@ -1,0 +1,12 @@
+compound	Minister	India
+nmod:poss	wife	Minister
+case	Minister	's
+nsubj	died	wife
+root	ROOT	died
+punct	death	`
+amod	death	unnatural
+dobj	died	death
+punct	death	'
+case	rumours	after
+compound	rumours	affair
+nmod:after	death	rumours

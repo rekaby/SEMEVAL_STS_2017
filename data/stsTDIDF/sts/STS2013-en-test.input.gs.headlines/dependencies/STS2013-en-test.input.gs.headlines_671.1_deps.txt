@@ -1,0 +1,7 @@
+nsubj	charged	Man
+root	ROOT	charged
+case	hurt	after
+compound	hurt	MP
+nmod:after	charged	hurt
+case	attack	in
+nmod:in	charged	attack

@@ -1,0 +1,8 @@
+det	lady	The
+nsubj	added	lady
+root	ROOT	added
+dobj	added	cheese
+case	sauce	to
+det	sauce	the
+nmod:to	added	sauce
+punct	added	.

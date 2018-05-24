@@ -1,0 +1,7 @@
+amod	quake	Strong
+amod	quake	new
+nsubj	hits	quake
+root	ROOT	hits
+amod	region	shattered
+compound	region	Pak
+dobj	hits	region

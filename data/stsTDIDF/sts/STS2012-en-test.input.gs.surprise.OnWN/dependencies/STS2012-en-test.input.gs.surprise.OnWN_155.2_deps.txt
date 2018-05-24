@@ -1,0 +1,7 @@
+cop	host	be
+det	host	the
+root	ROOT	host
+dep	host	of
+cc	of	or
+conj:or	of	for
+punct	host	.

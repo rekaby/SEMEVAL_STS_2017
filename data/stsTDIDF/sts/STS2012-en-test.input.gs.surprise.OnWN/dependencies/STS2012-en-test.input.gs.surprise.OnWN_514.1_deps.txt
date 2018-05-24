@@ -1,0 +1,9 @@
+root	ROOT	open
+case	members	to
+nmod:to	open	members
+case	races	of
+det	races	all
+nmod:of	members	races
+cc	races	and
+amod	groups	ethnic
+conj:and	races	groups

@@ -1,0 +1,6 @@
+nsubj	reading	Someone
+aux	reading	is
+root	ROOT	reading
+det	email	an
+dobj	reading	email
+punct	reading	.

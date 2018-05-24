@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+punct	woman	,
+case	kitchen	in
+det	kitchen	a
+nmod:in	woman	kitchen
+punct	woman	,
+acl	woman	peels
+det	lemon	a
+dobj	peels	lemon
+punct	woman	.

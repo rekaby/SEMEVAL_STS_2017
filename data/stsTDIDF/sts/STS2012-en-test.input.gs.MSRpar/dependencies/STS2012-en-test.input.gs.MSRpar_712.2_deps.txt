@@ -1,0 +1,15 @@
+det	stock	The
+nsubj	rose	stock
+root	ROOT	rose
+nummod	cents	48
+dobj	rose	cents
+case	$	to
+nmod:to	rose	$
+nummod	$	30
+nmod:tmod	rose	yesterday
+case	trading	in
+compound	trading	Nasdaq
+compound	trading	Stock
+compound	trading	Market
+nmod:in	rose	trading
+punct	rose	.

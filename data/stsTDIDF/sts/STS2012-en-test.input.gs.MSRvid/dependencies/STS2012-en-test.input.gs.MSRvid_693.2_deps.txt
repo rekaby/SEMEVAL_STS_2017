@@ -1,0 +1,8 @@
+det	monkey	A
+nsubj	wading	monkey
+aux	wading	is
+root	ROOT	wading
+case	marsh	across
+det	marsh	a
+nmod:across	wading	marsh
+punct	wading	.

@@ -1,0 +1,7 @@
+compound	Korea	North
+nsubj	deports	Korea
+root	ROOT	deports
+acl	deports	detained
+compound	veteran	US
+compound	veteran	war
+dobj	detained	veteran

@@ -1,0 +1,9 @@
+workers	construction	compound
+day	cloudy	amod
+repair	group	nsubj
+ROOT	repair	root
+repair	tracks	dobj
+group	workers	nmod:of
+workers	male	amod
+tracks	railroad	compound
+repair	day	nmod:on

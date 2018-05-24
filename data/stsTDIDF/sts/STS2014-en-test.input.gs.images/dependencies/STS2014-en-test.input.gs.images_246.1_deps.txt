@@ -1,0 +1,10 @@
+nummod	buses	Two
+amod	buses	red
+root	ROOT	buses
+acl	buses	driving
+case	garden	in
+mwe	in	front
+mwe	in	of
+det	garden	a
+nmod:in_front_of	driving	garden
+punct	buses	.

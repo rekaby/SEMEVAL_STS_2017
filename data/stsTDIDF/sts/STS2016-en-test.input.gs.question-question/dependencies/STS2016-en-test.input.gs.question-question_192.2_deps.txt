@@ -1,0 +1,12 @@
+aux	paying	Will
+root	ROOT	paying
+compound:prt	paying	off
+det	card	a
+compound	card	credit
+nsubj	affect	card
+amod	affect	early
+ccomp	paying	affect
+nmod:poss	score	my
+compound	score	credit
+dobj	affect	score
+punct	paying	?

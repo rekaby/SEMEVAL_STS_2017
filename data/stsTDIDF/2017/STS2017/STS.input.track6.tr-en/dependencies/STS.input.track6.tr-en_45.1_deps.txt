@@ -1,0 +1,13 @@
+nummod	people	Two
+nsubj	looking	people
+aux	looking	are
+root	ROOT	looking
+case	water	into
+det	water	the
+nmod:into	looking	water
+mark	passes	while
+det	boat	a
+nsubj	passes	boat
+advcl	looking	passes
+advmod	passes	by
+punct	looking	.

@@ -1,0 +1,11 @@
+nsubj	says	US
+root	ROOT	says
+nsubj	used	Syria
+aux	used	may
+aux	used	have
+ccomp	says	used
+compound	gas	sarin
+dobj	used	gas
+case	weapons	in
+compound	weapons	chemical
+nmod:in	gas	weapons

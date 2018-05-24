@@ -1,0 +1,7 @@
+det	man	A
+nsubj	giving	man
+aux	giving	is
+root	ROOT	giving
+det	interview	an
+dobj	giving	interview
+punct	giving	.

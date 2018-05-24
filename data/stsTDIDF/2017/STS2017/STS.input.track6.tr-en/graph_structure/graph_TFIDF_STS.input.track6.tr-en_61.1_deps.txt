@@ -1,0 +1,7 @@
+has	sails	dobj
+yellow	pink	amod
+yellow	and	cc
+yellow	blue	conj:and
+sails	yellow	amod
+boat	The	det
+has	boat	nsubj

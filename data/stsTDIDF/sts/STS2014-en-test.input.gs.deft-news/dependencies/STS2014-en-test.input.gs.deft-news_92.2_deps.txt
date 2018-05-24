@@ -1,0 +1,16 @@
+det	resolution	the
+nsubj	includes	resolution
+root	ROOT	includes
+det	list	a
+amod	list	broadened
+nsubj	freeze	list
+case	individuals	of
+nmod:of	list	individuals
+cc	individuals	and
+conj:and	individuals	entities
+amod	freeze	subject
+case	assets	to
+det	assets	an
+nmod:to	subject	assets
+ccomp	includes	freeze
+punct	includes	.

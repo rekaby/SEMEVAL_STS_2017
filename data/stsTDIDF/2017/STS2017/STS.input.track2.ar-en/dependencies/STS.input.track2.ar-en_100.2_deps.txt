@@ -1,0 +1,7 @@
+det	baby	A
+root	ROOT	baby
+acl	baby	crying
+case	garden	in
+det	garden	the
+nmod:in	crying	garden
+punct	baby	.

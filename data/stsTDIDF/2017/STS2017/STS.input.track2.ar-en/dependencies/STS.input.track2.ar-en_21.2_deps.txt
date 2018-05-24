@@ -1,0 +1,17 @@
+det	man	A
+nmod:tmod	helps	man
+case	shirt	with
+det	shirt	a
+amod	shirt	blue
+nmod:with	helps	shirt
+det	shirt	a
+amod	shirt	red
+nsubj	helps	shirt
+root	ROOT	helps
+det	man	a
+dobj	helps	man
+mark	fit	to
+xcomp	helps	fit
+det	path	a
+compound	path	bicycle
+dobj	fit	path

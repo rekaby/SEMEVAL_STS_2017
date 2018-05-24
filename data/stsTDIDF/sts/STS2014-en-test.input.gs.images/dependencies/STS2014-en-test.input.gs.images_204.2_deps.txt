@@ -1,0 +1,5 @@
+root	ROOT	Train
+acl	Train	gliding
+case	tracks	on
+nmod:on	gliding	tracks
+punct	Train	.

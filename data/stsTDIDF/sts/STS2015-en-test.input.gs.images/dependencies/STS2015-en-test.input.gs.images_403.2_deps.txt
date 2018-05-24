@@ -1,0 +1,7 @@
+det	playing	A
+compound	playing	girl
+root	ROOT	playing
+case	parachute	on
+det	parachute	a
+nmod:on	playing	parachute
+punct	playing	.

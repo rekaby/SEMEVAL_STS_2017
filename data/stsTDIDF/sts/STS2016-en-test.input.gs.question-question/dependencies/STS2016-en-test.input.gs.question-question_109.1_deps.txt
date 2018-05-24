@@ -1,0 +1,9 @@
+advmod	repair	How
+aux	repair	can
+nsubj	repair	I
+root	ROOT	repair
+nmod:poss	floors	my
+nmod:poss	finish	floors
+case	floors	'
+dobj	repair	finish
+punct	repair	?

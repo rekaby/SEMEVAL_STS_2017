@@ -1,0 +1,6 @@
+fighting	gets	advcl
+microphone	the	det
+fighting	men	nsubj
+microphone	into	case
+speak	microphone	nmod:into
+gets	speak	xcomp

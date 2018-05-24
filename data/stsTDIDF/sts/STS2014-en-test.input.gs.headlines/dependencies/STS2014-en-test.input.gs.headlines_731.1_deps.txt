@@ -1,0 +1,9 @@
+neg	plan	No
+nsubj	Moily	plan
+mark	shut	to
+acl	plan	shut
+compound	pumps	petrol
+dobj	shut	pumps
+case	night	at
+nmod:at	shut	night
+root	ROOT	Moily

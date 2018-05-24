@@ -1,0 +1,9 @@
+det	bear	A
+amod	bear	polar
+nsubj	sliding	bear
+aux	sliding	is
+root	ROOT	sliding
+case	snow	across
+det	snow	the
+nmod:across	sliding	snow
+punct	sliding	.

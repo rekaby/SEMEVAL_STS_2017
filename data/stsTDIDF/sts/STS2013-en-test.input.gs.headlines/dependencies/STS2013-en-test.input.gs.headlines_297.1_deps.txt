@@ -1,0 +1,8 @@
+root	ROOT	Romney
+punct	Romney	,
+compound	fight	Obama
+appos	Romney	fight
+case	edge	for
+nmod:for	fight	edge
+case	Medicare	on
+nmod:on	edge	Medicare

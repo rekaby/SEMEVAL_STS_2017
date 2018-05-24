@@ -1,0 +1,5 @@
+restaurant	Chinese	amod
+guys	Two	nummod
+having	guys	nsubj
+having	lunch	dobj
+having	restaurant	nmod:in

@@ -1,0 +1,6 @@
+compound	Killed	NATO
+compound	Killed	Soldier
+root	ROOT	Killed
+case	Blast	in
+compound	Blast	Afghan
+nmod:in	Killed	Blast

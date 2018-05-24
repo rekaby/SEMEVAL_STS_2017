@@ -1,0 +1,7 @@
+det	attribute	an
+amod	attribute	approximate
+root	ROOT	attribute
+cc	attribute	or
+conj:or	attribute	quality
+case	something	of
+nmod:of	attribute	something

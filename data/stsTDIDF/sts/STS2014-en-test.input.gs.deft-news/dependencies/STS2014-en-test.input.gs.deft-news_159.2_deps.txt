@@ -1,0 +1,10 @@
+amod	officials	estonian
+nsubj	stated	officials
+root	ROOT	stated
+mark	originated	that
+det	attacks	the
+nsubj	originated	attacks
+ccomp	stated	originated
+case	russia	in
+nmod:in	originated	russia
+punct	stated	.

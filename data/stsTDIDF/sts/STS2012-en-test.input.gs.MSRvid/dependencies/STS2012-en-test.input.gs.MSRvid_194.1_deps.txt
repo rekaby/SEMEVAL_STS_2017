@@ -1,0 +1,7 @@
+det	man	A
+nsubj	lifting	man
+aux	lifting	is
+root	ROOT	lifting
+det	car	a
+dobj	lifting	car
+punct	lifting	.

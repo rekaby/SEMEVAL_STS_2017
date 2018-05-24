@@ -1,0 +1,14 @@
+det	contract	A
+root	ROOT	contract
+acl	contract	granting
+dobj	granting	use
+cc	use	or
+conj:or	use	occupation
+case	property	of
+nmod:of	use	property
+case	terms	under
+amod	terms	certain
+nmod:under	granting	terms
+cc	terms	or
+conj:or	terms	conditions
+punct	contract	.

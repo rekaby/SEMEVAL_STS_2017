@@ -1,0 +1,11 @@
+case	weeks	In
+amod	weeks	recent
+nmod:in	made	weeks
+punct	made	,
+nummod	progress	three
+amod	progress	major
+nsubjpass	made	progress
+aux	made	has
+auxpass	made	been
+root	ROOT	made
+punct	made	.

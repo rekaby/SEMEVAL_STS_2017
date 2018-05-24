@@ -1,0 +1,10 @@
+det	people	A
+amod	people	few
+amod	people	young
+nsubj	dealing	people
+aux	dealing	are
+root	ROOT	dealing
+case	activities	with
+amod	activities	different
+nmod:with	dealing	activities
+punct	dealing	.

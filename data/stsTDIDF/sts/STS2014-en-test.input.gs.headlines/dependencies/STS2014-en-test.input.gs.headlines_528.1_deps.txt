@@ -1,0 +1,6 @@
+nummod	accident	Four
+amod	accident	dead
+case	train	in
+compound	train	Indonesia
+nmod:in	dead	train
+root	ROOT	accident

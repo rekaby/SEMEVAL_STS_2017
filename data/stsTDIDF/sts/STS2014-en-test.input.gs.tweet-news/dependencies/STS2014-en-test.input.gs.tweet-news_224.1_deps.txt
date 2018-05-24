@@ -1,0 +1,26 @@
+root	ROOT	So
+punct	So	.-2) root(ROOT-0, Odd
+punct	Odd	.-2) root(ROOT-0, ?-1) root(ROOT-0, :
+case	words	In
+nmod:poss	words	his
+amod	words	own
+root	:	words
+punct	words	:
+compound	Te'o	Manti
+root	:	Te'o
+case	girlfriend	on
+nmod:poss	girlfriend	his
+nmod:on	Te'o	girlfriend
+punct	Te'o	,
+cc	Te'o	and
+nmod:poss	death	her
+conj:and	Te'o	death
+punct	death	-
+advmod	revealed	now
+acl	death	revealed
+mark	hoax	to
+cop	hoax	be
+det	hoax	a
+xcomp	revealed	hoax
+punct	Te'o	:
+punct	Te'o	?

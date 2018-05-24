@@ -1,0 +1,16 @@
+swimsuits	are	cop
+swimsuits	all	advmod
+girls	and	cc
+swimsuits	their	nmod:poss
+swimsuits	girls	nsubj
+girls	Five	nummod
+ROOT	swimsuits	root
+jumping	of	mark
+pool	into	case
+swimsuits	.	punct
+girls	boy	conj:and
+all	middle	nmod:in
+middle	jumping	acl
+swimsuits	in	case
+jumping	pool	nmod:into
+boy	one	nummod

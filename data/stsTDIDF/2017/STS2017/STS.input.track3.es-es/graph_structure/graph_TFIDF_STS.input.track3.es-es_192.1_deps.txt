@@ -1,0 +1,6 @@
+hang	room	nmod:in
+hang	out	compound:prt
+children	All	det
+hang	children	nsubj
+ROOT	hang	root
+room	games	compound

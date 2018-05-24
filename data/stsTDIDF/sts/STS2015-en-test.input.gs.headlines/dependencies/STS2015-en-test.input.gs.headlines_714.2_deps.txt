@@ -1,0 +1,13 @@
+root	ROOT	Clash
+case	Styles	of
+nmod:of	Clash	Styles
+case	Opens	in
+compound	Opens	Court
+nmod:in	Clash	Opens
+dobj	Opens	Trial
+case	Death	in
+compound	Death	Young
+compound	Death	Man
+compound	Death	‚
+compound	Death	Äôs
+nmod:in	Trial	Death

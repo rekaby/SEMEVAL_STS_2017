@@ -1,0 +1,11 @@
+compound	toll	Death
+nsubj	rises	toll
+punct	rises	`
+root	ROOT	rises
+case	17	to
+nmod:to	rises	17
+punct	17	'
+mark	strikes	after
+nsubj	strikes	typhoon
+advcl	rises	strikes
+dobj	strikes	Japan

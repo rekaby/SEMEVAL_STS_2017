@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+det	cook	a
+nsubj	is	cook
+acl	cook	preparing
+dobj	preparing	food
+punct	is	.

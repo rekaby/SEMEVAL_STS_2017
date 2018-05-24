@@ -1,0 +1,12 @@
+root	ROOT	remove
+conj:or	remove	remove
+case	if	by
+cc	by	or
+conj:or	by	as
+nmod:as	remove	if
+nmod:by	remove	if
+case	rubbing	by
+nmod:by	remove	rubbing
+cc	rubbing	or
+conj:or	rubbing	erasing
+punct	remove	.

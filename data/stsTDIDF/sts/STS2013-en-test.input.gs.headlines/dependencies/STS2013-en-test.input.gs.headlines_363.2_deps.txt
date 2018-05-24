@@ -1,0 +1,12 @@
+nmod:poss	Kyi	Burma
+case	Burma	's
+compound	Kyi	Aung
+compound	Kyi	San
+compound	Kyi	Suu
+nsubj	visit	Kyi
+mark	address	to
+acl	Kyi	address
+dobj	address	parliament
+case	June	on
+nmod:on	address	June
+root	ROOT	visit

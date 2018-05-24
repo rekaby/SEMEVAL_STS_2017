@@ -1,0 +1,6 @@
+root	ROOT	set
+case	opposition	into
+nmod:into	set	opposition
+cc	opposition	or
+conj:or	opposition	rivalry
+punct	set	.

@@ -1,0 +1,15 @@
+root	ROOT	yeah
+punct	yeah	,
+case	toddlers	for
+nmod:for	yeah	toddlers
+punct	yeah	,
+mark	smoking	since
+det	teenagers	the
+amod	teenagers	youngest
+nsubj	smoking	teenagers
+cop	smoking	are
+advmod	smoking	already
+advcl	yeah	smoking
+cc	smoking	and
+conj:and	smoking	drinking
+punct	yeah	.

@@ -1,0 +1,12 @@
+aux	go	Can
+nsubj	go	I
+root	ROOT	go
+mark	visit	to
+xcomp	go	visit
+amod	countries	Schengen
+dobj	visit	countries
+case	D-mult	with
+compound	D-mult	visa
+compound	D-mult	type
+nmod:with	visit	D-mult
+punct	go	?

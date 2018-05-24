@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	nest	on
+det	nest	a
+compound	nest	bike
+nmod:on	man	nest
+case	river	to
+det	river	a
+nmod:to	nest	river
+punct	man	.

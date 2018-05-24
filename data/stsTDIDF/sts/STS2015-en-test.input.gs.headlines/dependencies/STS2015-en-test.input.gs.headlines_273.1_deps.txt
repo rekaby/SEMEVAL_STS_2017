@@ -1,0 +1,14 @@
+root	ROOT	`
+nsubj	late	It
+cop	late	's
+advmod	late	either
+advmod	late	too
+root	`	late
+cc	late	or
+advmod	early	too
+conj:or	late	early
+mark	intervene	to
+dep	late	intervene
+case	Syria	in
+nmod:in	intervene	Syria
+punct	late	'

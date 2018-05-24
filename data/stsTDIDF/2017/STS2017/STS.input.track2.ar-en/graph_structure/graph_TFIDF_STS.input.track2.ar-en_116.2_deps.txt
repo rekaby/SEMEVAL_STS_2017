@@ -1,0 +1,15 @@
+dressed	clothes	nmod:in
+clothes	looking	acl
+children	.	punct
+looking	happily	advmod
+frames	through	case
+children	Two	nummod
+children	dressed	acl
+ROOT	children	root
+take	picture	dobj
+clothes	in	case
+clothes	warm	amod
+frames	swing	compound
+looking	frames	nmod:through
+frames	the	det
+frames	take	acl

@@ -1,0 +1,5 @@
+sitting	garden	nmod:in_front_of
+garden	a	det
+sitting	People	nsubj
+sitting	out	mark
+garden	in	case

@@ -1,0 +1,6 @@
+compound	stocks	Tokyo
+nsubj	close	stocks
+root	ROOT	close
+case	pc	down
+nummod	pc	0.26
+nmod:down	close	pc

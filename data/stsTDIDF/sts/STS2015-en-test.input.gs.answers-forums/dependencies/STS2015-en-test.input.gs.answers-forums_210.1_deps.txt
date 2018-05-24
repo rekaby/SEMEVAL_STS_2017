@@ -1,0 +1,14 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+mark	position	that
+nsubj	position	positivism
+cop	position	is
+det	position	a
+ccomp	think	position
+case	philosophers	of
+advmod	leftist	mostly
+amod	philosophers	leftist
+nmod:of	position	philosophers
+punct	think	.

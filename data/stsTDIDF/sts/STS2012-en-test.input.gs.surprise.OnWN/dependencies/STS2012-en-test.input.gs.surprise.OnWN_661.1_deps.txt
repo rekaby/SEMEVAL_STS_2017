@@ -1,0 +1,6 @@
+root	ROOT	maintain
+punct	maintain	,
+conj:or	maintain	assert
+punct	maintain	,
+cc	maintain	or
+conj:or	maintain	claim

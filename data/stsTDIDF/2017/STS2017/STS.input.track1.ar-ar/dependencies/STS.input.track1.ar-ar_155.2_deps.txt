@@ -1,0 +1,6 @@
+nsubj	lead	People
+root	ROOT	lead
+dobj	lead	presentation
+case	stage	on
+nmod:on	presentation	stage
+punct	lead	.

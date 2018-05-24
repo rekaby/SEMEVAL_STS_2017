@@ -1,0 +1,8 @@
+compound	standing	Man
+root	ROOT	standing
+case	train	in
+mwe	in	front
+mwe	in	of
+compound	train	silver
+nmod:in_front_of	standing	train
+punct	standing	.

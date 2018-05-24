@@ -1,0 +1,12 @@
+compound	Garber	Marc
+nsubj	had	Garber
+punct	Garber	,
+nmod:poss	attorney	Whitley
+case	Whitley	's
+appos	Garber	attorney
+punct	Garber	,
+root	ROOT	had
+det	view	a
+amod	view	different
+dobj	had	view
+punct	had	.

@@ -1,0 +1,12 @@
+aux	use	Should
+nsubj	use	I
+root	ROOT	use
+compound	money	IRA
+dobj	use	money
+mark	pay	to
+advcl	use	pay
+compound:prt	pay	down
+nmod:poss	loans	my
+compound	loans	student
+dobj	pay	loans
+punct	use	?

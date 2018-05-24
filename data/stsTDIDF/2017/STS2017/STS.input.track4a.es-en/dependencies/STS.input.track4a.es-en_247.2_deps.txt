@@ -1,0 +1,9 @@
+det	man	A
+nsubj	looking	man
+aux	looking	is
+root	ROOT	looking
+case	shower	at
+det	shower	an
+amod	shower	outdoor
+nmod:at	looking	shower
+punct	looking	.

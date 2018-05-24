@@ -1,0 +1,10 @@
+root	ROOT	Mother
+acl	Mother	arrested
+case	suspicion	on
+nmod:on	arrested	suspicion
+case	manslaughter	of
+nmod:of	suspicion	manslaughter
+mark	kills	after
+nsubj	kills	dog
+acl	Mother	kills
+dobj	kills	daughter

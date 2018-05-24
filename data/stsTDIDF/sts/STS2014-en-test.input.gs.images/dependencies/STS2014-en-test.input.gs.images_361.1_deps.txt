@@ -1,0 +1,14 @@
+compound	bottles	Beer
+nsubj	lined	bottles
+punct	Lager	-LRB-
+punct	Lager	-LRB-
+compound	Lager	Harp
+appos	bottles	Lager
+punct	Lager	-RRB-
+punct	Lager	-RRB-
+root	ROOT	lined
+compound:prt	lined	up
+case	floor	on
+det	floor	the
+nmod:on	lined	floor
+punct	lined	.

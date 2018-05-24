@@ -1,0 +1,8 @@
+det	Race	The
+nsubj	Grows	Race
+root	ROOT	Grows
+xcomp	Grows	Sweeter
+case	Lap	Near
+nmod:poss	Lap	Its
+amod	Lap	Final
+nmod:near	Sweeter	Lap

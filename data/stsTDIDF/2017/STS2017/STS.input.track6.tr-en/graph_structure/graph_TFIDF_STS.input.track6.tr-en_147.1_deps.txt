@@ -1,0 +1,7 @@
+scooters	on	case
+officers	scooters	nmod:on
+officers	Two	nummod
+turn	back	compound:prt
+turn	camera	nmod:towards
+turn	officers	nsubj
+camera	towards	case

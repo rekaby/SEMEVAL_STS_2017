@@ -1,0 +1,10 @@
+det	dog	The
+root	ROOT	dog
+acl	dog	is
+mark	jump	about
+mark	jump	to
+xcomp	is	jump
+case	water	into
+det	water	the
+nmod:into	jump	water
+punct	dog	.

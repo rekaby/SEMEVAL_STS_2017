@@ -1,0 +1,11 @@
+root	ROOT	appoint
+dobj	appoint	someone
+case	position	to
+punct	position	-LRB-
+det	position	a
+nmod:to	appoint	position
+cc	position	or
+det	job	a
+conj:or	position	job
+punct	position	-RRB-
+punct	appoint	.

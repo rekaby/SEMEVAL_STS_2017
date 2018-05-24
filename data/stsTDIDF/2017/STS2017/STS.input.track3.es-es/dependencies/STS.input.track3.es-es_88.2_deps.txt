@@ -1,0 +1,17 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	wearing
+det	dress	a
+dobj	wearing	dress
+cc	woman	and
+det	man	a
+conj:and	woman	man
+acl	man	wearing
+det	shirt	a
+dobj	wearing	shirt
+advcl	wearing	sitting
+case	art	next
+mwe	next	to
+det	art	the
+nmod:next_to	sitting	art
+punct	woman	.

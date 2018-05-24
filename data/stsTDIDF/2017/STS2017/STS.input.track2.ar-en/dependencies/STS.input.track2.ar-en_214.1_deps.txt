@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	playing	woman
+aux	playing	is
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+advmod	playing	inside
+punct	playing	.

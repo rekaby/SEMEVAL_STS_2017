@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	little
+nsubj	running	girl
+root	ROOT	running
+case	shore	at
+case	shore	on
+det	shore	the
+nmod:on	running	shore
+case	beach	of
+det	beach	a
+nmod:of	shore	beach
+punct	running	.

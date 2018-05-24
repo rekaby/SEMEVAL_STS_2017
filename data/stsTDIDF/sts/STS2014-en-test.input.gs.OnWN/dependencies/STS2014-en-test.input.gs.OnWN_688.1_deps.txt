@@ -1,0 +1,10 @@
+root	ROOT	Vomit
+punct	Vomit	,
+dep	Vomit	either
+case	fashion	in
+det	fashion	a
+amod	fashion	controlled
+cc	controlled	or
+conj:or	controlled	uncontrolled
+nmod:in	either	fashion
+punct	Vomit	.

@@ -1,0 +1,13 @@
+nsubj	example	This
+cop	example	is
+det	example	an
+nsubj	helpful	example
+nsubj	find	I
+advmod	find	always
+acl:relcl	example	find
+cop	helpful	is
+root	ROOT	helpful
+case	year	for
+amod	year	first
+nmod:for	helpful	year
+punct	helpful	.

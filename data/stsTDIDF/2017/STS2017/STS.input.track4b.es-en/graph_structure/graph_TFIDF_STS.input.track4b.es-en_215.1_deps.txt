@@ -1,0 +1,16 @@
+tried	actively	advmod
+evade	to	mark
+Englund	Mr.	compound
+discussed	soldiers	dobj
+tried	catch	xcomp
+discussed	Englund	nsubj
+disease	venereal	amod
+catch	disease	dobj
+evade	front	nmod:at
+front	at	case
+prostitutes	from	case
+catch	prostitutes	nmod:from
+soldiers	tried	acl:relcl
+evade	service	dobj
+way	evade	acl
+catch	way	nmod:as

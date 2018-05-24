@@ -1,0 +1,4 @@
+det	man	a
+root	ROOT	man
+acl	man	examining
+dobj	examining	plants

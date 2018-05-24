@@ -1,0 +1,11 @@
+nummod	women	Two
+root	ROOT	women
+case	field	in
+det	field	a
+nmod:in	women	field
+case	buildings	with
+neg	buildings	no
+nmod:with	field	buildings
+acl	buildings	surrounded
+nmod	surrounded	by
+punct	women	.

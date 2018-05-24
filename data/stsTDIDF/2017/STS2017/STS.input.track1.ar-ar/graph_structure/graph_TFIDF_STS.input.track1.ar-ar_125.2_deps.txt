@@ -1,0 +1,6 @@
+ROOT	bouncing	root
+bouncing	trampoline	nmod:on
+bouncing	.	punct
+bouncing	Boy	nsubj
+trampoline	a	det
+trampoline	on	case

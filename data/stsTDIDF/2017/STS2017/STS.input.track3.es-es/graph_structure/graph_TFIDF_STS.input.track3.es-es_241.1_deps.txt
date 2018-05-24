@@ -1,0 +1,7 @@
+tries	person	nsubj
+shorts	in	case
+person	shorts	nmod:in
+tries	catch	xcomp
+shorts	bright	amod
+frisbee	a	det
+catch	frisbee	dobj

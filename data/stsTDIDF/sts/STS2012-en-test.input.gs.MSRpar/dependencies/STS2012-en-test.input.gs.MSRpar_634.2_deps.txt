@@ -1,0 +1,13 @@
+det	findings	The
+nsubjpass	published	findings
+aux	published	are
+auxpass	published	being
+root	ROOT	published
+nmod:tmod	published	today
+case	Annals	in
+det	Annals	the
+nmod:in	published	Annals
+case	Medicine	of
+compound	Medicine	Internal
+nmod:of	Annals	Medicine
+punct	published	.

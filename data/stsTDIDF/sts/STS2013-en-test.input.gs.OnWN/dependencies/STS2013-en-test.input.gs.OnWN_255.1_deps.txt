@@ -1,0 +1,8 @@
+root	ROOT	rein
+case	horse	in
+det	horse	a
+nmod:in	rein	horse
+mark	lose	to
+acl	rein	lose
+det	race	a
+dobj	lose	race

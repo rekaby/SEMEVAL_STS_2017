@@ -1,0 +1,10 @@
+nummod	girls	Two
+nsubj	sitting	girls
+aux	sitting	are
+root	ROOT	sitting
+case	statue	in
+mwe	in	front
+mwe	in	of
+det	statue	a
+nmod:in_front_of	sitting	statue
+punct	sitting	.

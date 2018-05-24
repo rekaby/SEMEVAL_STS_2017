@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	procreate	to
+xcomp	cause	procreate
+punct	animals	-LRB-
+dep	procreate	animals
+punct	animals	-RRB-
+punct	cause	.

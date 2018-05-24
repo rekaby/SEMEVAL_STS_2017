@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	meat	woman
+cop	meat	is
+amod	meat	frying
+compound	meat	ground
+root	ROOT	meat
+punct	meat	.

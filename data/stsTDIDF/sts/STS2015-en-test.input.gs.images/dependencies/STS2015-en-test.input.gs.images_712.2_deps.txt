@@ -1,0 +1,8 @@
+det	steps	a
+amod	steps	small
+compound	steps	dog
+root	ROOT	steps
+case	log	onto
+det	log	a
+nmod:onto	steps	log
+punct	steps	.

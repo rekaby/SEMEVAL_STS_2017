@@ -1,0 +1,12 @@
+det	agent	an
+nsubj	manipulates	agent
+root	ROOT	manipulates
+det	instrument	an
+dobj	manipulates	instrument
+mark	achieve	in
+mwe	in	order
+mark	achieve	to
+advcl	manipulates	achieve
+det	purpose	a
+dobj	achieve	purpose
+punct	manipulates	.

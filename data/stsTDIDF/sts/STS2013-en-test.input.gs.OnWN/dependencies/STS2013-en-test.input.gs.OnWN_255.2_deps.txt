@@ -1,0 +1,9 @@
+root	ROOT	rein
+mark	keep	in
+mark	keep	to
+acl	rein	keep
+mark	winning	from
+advcl	keep	winning
+det	race	a
+dobj	winning	race
+punct	rein	.

@@ -1,0 +1,6 @@
+compound	standing	Horse
+root	ROOT	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+punct	standing	.

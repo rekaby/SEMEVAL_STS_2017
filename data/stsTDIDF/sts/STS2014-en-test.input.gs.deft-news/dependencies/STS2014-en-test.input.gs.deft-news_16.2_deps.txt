@@ -1,0 +1,15 @@
+det	bombing	a
+nsubj	occurred	bombing
+root	ROOT	occurred
+case	afghanistan	in
+nmod:in	occurred	afghanistan
+cc	afghanistan	but
+conj:but	afghanistan	police
+aux	stated	have
+neg	stated	not
+advmod	stated	yet
+dep	occurred	stated
+nsubj	responsible	who
+cop	responsible	is
+ccomp	stated	responsible
+punct	occurred	.

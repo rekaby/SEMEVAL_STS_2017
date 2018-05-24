@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+root	ROOT	dog
+acl	dog	playing
+case	toy	with
+det	toy	a
+amod	toy	black
+nmod:with	playing	toy
+punct	dog	.

@@ -1,0 +1,15 @@
+det	Stage	A
+nsubjpass	declared	Stage
+nummod	episode	1
+nsubjpass	declared	episode
+auxpass	declared	is
+root	ROOT	declared
+advmod	reach	when
+compound	levels	ozone
+nsubj	reach	levels
+advcl	declared	reach
+nummod	parts	0.20
+dobj	reach	parts
+case	million	per
+nmod:per	reach	million
+punct	declared	.

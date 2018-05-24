@@ -1,0 +1,13 @@
+det	dog	The
+amod	dog	skinny
+nsubj	traveling	dog
+case	tail	with
+det	tail	the
+amod	tail	long
+nmod:with	dog	tail
+aux	traveling	is
+root	ROOT	traveling
+case	field	through
+det	field	the
+nmod:through	traveling	field
+punct	traveling	.

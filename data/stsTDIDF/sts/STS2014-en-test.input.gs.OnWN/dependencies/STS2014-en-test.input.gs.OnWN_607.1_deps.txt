@@ -1,0 +1,6 @@
+root	ROOT	carry
+compound:prt	carry	out
+cc	carry	or
+conj:or	carry	complete
+det	activity	an
+dobj	carry	activity

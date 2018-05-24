@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+dep	man	crouching
+cc	crouching	and
+conj:and	crouching	holding
+det	camera	a
+dobj	holding	camera
+punct	man	.

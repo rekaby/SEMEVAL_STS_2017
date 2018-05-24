@@ -1,0 +1,15 @@
+root	ROOT	consider
+advmod	consider	again
+punct	consider	;
+dep	consider	give
+amod	consideration	new
+dobj	give	consideration
+nmod	give	to
+punct	give	;
+advmod	view	usually
+case	view	with
+det	view	a
+parataxis	give	view
+mark	changing	to
+acl	view	changing
+punct	consider	.

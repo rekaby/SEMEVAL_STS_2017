@@ -1,0 +1,11 @@
+root	ROOT	have
+det	means	the
+amod	means	financial
+dobj	have	means
+mark	do	to
+acl	means	do
+dobj	do	something
+cc	do	or
+conj:or	do	buy
+dobj	buy	something
+punct	have	.

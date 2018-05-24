@@ -1,0 +1,13 @@
+det	reflection	The
+nsubjpass	seen	reflection
+case	woman	of
+det	woman	the
+amod	woman	old
+nmod:of	reflection	woman
+aux	seen	can
+auxpass	seen	be
+root	ROOT	seen
+case	puddle	in
+det	puddle	a
+nmod:in	seen	puddle
+punct	seen	.

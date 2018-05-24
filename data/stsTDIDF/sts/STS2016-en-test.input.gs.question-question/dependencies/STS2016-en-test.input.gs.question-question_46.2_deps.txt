@@ -1,0 +1,13 @@
+nsubj	causing	What
+aux	causing	could
+aux	causing	be
+root	ROOT	causing
+dobj	causing	water
+mark	back	to
+advcl	causing	back
+compound:prt	back	up
+case	bathroom	into
+nmod:poss	bathroom	my
+nmod:into	back	bathroom
+dep	bathroom	basin
+punct	causing	?

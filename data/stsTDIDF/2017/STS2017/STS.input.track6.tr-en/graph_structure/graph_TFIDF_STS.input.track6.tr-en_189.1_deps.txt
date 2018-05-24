@@ -1,0 +1,9 @@
+line	spectators	nmod:of
+line	A	det
+betting	.	punct
+ROOT	betting	root
+race	on	case
+betting	are	aux
+betting	line	nsubj
+spectators	of	case
+betting	race	nmod:on

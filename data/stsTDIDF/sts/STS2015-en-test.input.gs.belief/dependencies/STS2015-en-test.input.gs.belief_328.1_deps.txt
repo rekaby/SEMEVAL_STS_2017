@@ -1,0 +1,8 @@
+dep	true	skip
+punct	skip	,
+nsubj	true	that
+cop	true	's
+advmod	true	also
+advmod	true	very
+root	ROOT	true
+punct	true	.

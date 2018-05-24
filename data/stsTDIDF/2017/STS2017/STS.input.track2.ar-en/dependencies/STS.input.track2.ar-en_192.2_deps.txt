@@ -1,0 +1,8 @@
+nsubj	waiting	Woman
+root	ROOT	waiting
+case	rain	for
+det	rain	the
+nmod:for	waiting	rain
+case	umbrella	with
+nmod:with	rain	umbrella
+punct	waiting	.

@@ -1,0 +1,8 @@
+nummod	horses	Two
+amod	horses	brown
+root	ROOT	horses
+acl	horses	standing
+case	field	in
+amod	field	grassy
+nmod:in	standing	field
+punct	horses	.

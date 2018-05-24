@@ -1,0 +1,7 @@
+nsubj	play	Kids
+root	ROOT	play
+dobj	play	soccer
+case	field	on
+det	field	a
+nmod:on	play	field
+punct	play	.

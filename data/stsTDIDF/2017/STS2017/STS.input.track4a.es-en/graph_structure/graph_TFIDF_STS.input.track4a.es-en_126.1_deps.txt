@@ -1,0 +1,8 @@
+dancing	man	compound
+dancing	young	amod
+ROOT	dancing	root
+dancing	.	punct
+dancing	audience	nmod:for
+audience	small	amod
+dancing	A	det
+audience	for	case

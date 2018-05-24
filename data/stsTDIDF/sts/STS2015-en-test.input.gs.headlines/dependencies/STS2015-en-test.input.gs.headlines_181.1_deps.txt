@@ -1,0 +1,7 @@
+root	ROOT	Rudd
+acl	Rudd	sworn
+case	PM	in
+case	PM	as
+amod	PM	new
+amod	PM	Australian
+nmod:as	sworn	PM

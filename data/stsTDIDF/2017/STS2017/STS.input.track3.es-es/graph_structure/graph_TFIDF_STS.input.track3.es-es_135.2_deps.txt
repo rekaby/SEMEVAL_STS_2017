@@ -1,0 +1,7 @@
+work	tunnel	nmod:in
+tunnel	in	case
+tunnel	the	det
+using	tools	dobj
+using	workers	nsubj
+workers	Construction	compound
+using	work	advcl

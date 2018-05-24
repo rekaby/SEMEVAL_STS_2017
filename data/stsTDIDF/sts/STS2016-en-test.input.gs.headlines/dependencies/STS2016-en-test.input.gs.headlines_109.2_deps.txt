@@ -1,0 +1,7 @@
+amod	Korean	South
+amod	Soldier	Korean
+nsubj	Kills	Soldier
+root	ROOT	Kills
+dobj	Kills	Comrades
+cc	Comrades	And
+conj:and	Comrades	Flees

@@ -1,0 +1,15 @@
+amod	pricing	Retail
+nsubj	$	pricing
+case	SMS	for
+nmod:for	pricing	SMS
+nummod	SMS	2003
+case	licenses	with
+nummod	licenses	10
+compound	licenses	device
+compound	licenses	client
+compound	licenses	access
+nmod:with	pricing	licenses
+cop	$	is
+root	ROOT	$
+nummod	$	1,219
+punct	$	.

@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	biting	dogs
+aux	biting	are
+root	ROOT	biting
+det	other	each
+dobj	biting	other
+punct	biting	.

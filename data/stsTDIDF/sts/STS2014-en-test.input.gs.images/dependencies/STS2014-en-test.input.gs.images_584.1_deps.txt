@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	uniform	in
+det	uniform	a
+amod	uniform	black
+nmod:in	man	uniform
+case	horse	on
+det	horse	a
+amod	horse	white
+nmod:on	uniform	horse
+punct	man	.

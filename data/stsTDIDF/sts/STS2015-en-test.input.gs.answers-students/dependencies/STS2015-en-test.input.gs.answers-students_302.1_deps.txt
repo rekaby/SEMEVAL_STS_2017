@@ -1,0 +1,10 @@
+mark	is	because
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+mark	damaged	because
+compound	b	bulb
+nsubjpass	damaged	b
+auxpass	damaged	is
+dep	gap	damaged

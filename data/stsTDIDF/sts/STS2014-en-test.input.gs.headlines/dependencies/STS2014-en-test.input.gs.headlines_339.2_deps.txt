@@ -1,0 +1,7 @@
+compound	ambassador	Honduras
+nsubj	resigns	ambassador
+root	ROOT	resigns
+case	orgy	after
+amod	orgy	alleged
+compound	orgy	embassy
+nmod:after	resigns	orgy

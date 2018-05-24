@@ -1,0 +1,9 @@
+dobj	Say	What
+det	Papers	the
+nsubj	Say	Papers
+root	ROOT	Say
+punct	Say	,
+dep	Say	Mar.
+nummod	Mar.	12
+punct	Say	,
+dep	Say	2013

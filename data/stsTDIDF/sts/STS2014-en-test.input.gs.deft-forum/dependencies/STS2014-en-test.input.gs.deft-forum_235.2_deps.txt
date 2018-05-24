@@ -1,0 +1,12 @@
+nsubj	performer	It
+cop	performer	's
+advmod	performer	also
+det	performer	a
+amod	performer	stellar
+root	ROOT	performer
+case	terms	in
+nmod:in	performer	terms
+case	idiocy	of
+amod	idiocy	blithering
+nmod:of	terms	idiocy
+punct	performer	.

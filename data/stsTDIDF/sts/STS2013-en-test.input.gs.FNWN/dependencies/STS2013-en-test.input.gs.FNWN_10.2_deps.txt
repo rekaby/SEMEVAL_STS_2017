@@ -1,0 +1,9 @@
+root	ROOT	provide
+punct	food	-LRB-
+dep	not	usually
+cc	not	but
+dep	food	not
+advmod	food	necessarily
+dep	provide	food
+punct	food	-RRB-
+punct	provide	;

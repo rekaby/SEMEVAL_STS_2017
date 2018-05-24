@@ -1,0 +1,8 @@
+det	act	the
+nsubj	tearing	act
+case	rending	of
+nmod:of	act	rending
+punct	act	,
+root	ROOT	tearing
+punct	tearing	,
+dobj	tearing	ripping

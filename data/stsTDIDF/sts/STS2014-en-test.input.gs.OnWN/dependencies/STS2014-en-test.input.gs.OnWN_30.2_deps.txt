@@ -1,0 +1,15 @@
+root	ROOT	try
+mark	cure	to
+xcomp	try	cure
+case	care	by
+amod	care	special
+nmod:by	cure	care
+case	treatment	of
+nmod:of	care	treatment
+punct	try	,
+case	illness	of
+det	illness	an
+root	,	illness
+cc	illness	or
+conj:or	illness	injury
+punct	illness	.

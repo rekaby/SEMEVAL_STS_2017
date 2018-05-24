@@ -1,0 +1,7 @@
+compound	expert	FBI
+compound	expert	audio
+nsubj	testifies	expert
+root	ROOT	testifies
+case	trial	in
+compound	trial	Zimmerman
+nmod:in	testifies	trial

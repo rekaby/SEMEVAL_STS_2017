@@ -1,0 +1,12 @@
+nsubj	killed	15
+root	ROOT	killed
+cc	killed	and
+conj:and	killed	scores
+acl	scores	injured
+case	bombing	in
+compound	bombing	suicide
+nmod:in	injured	bombing
+case	station	at
+amod	station	Russian
+compound	station	train
+nmod:at	injured	station

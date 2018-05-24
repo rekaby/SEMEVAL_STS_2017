@@ -1,0 +1,9 @@
+root	ROOT	Woman
+case	dress	in
+amod	dress	blue
+compound	dress	shift
+nmod:in	Woman	dress
+acl	dress	cutting
+case	food	into
+nmod:into	cutting	food
+punct	Woman	.

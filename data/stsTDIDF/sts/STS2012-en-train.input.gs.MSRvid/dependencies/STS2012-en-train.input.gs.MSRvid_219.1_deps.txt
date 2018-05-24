@@ -1,0 +1,8 @@
+det	animal	An
+nsubj	walking	animal
+aux	walking	is
+root	ROOT	walking
+case	ground	on
+det	ground	the
+nmod:on	walking	ground
+punct	walking	.

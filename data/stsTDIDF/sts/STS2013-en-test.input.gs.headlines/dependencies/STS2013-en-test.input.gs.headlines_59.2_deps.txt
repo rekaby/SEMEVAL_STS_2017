@@ -1,0 +1,11 @@
+compound	Council	UN
+compound	Council	Security
+nsubj	vote	Council
+mark	vote	to
+root	ROOT	vote
+case	monitors	on
+advmod	on	up
+case	Syria	to
+nummod	Syria	300
+nmod:to	up	Syria
+nmod:on	vote	monitors

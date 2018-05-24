@@ -1,0 +1,13 @@
+mark	buld	Because
+nsubj	buld	it
+root	ROOT	buld
+nsubj	path	A
+cop	path	was
+case	path	in
+det	path	a
+amod	path	closed
+ccomp	buld	path
+case	battery	with
+det	battery	a
+nmod:with	path	battery
+punct	buld	.

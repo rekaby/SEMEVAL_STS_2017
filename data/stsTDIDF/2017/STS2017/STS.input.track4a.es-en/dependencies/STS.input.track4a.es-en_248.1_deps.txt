@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	running
+compound:prt	running	down
+det	street	the
+nsubj	holding	street
+xcomp	running	holding
+det	accordion	an
+dobj	holding	accordion
+punct	woman	.

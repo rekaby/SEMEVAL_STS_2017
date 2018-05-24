@@ -1,0 +1,6 @@
+det	man	A
+nsubj	finding	man
+aux	finding	is
+root	ROOT	finding
+dobj	finding	something
+punct	finding	.

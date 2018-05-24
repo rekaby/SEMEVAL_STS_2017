@@ -1,0 +1,7 @@
+compound	DJ	Royal
+compound	DJ	Hoax
+nsubj	Takes	DJ
+root	ROOT	Takes
+dobj	Takes	Action
+case	Station	Against
+nmod:against	Takes	Station

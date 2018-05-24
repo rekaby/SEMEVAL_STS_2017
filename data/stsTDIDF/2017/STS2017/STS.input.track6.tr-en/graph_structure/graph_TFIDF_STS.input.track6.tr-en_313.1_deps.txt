@@ -1,0 +1,9 @@
+wall	of	case
+drawing	.	punct
+wall	gray	amod
+ROOT	drawing	root
+drawing	side	nmod:on
+drawing	is	aux
+drawing	man	nsubj
+side	wall	nmod:of
+drawing	graffiti	dobj

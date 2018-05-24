@@ -1,0 +1,15 @@
+nsubj	surprised	Those
+nsubj	know	who
+aux	know	do
+neg	know	not
+acl:relcl	Those	know
+det	methods	the
+amod	methods	intensive
+dobj	know	methods
+root	ROOT	surprised
+det	necessity	the
+dobj	surprised	necessity
+case	legislation	of
+amod	legislation	such
+nmod:of	necessity	legislation
+punct	surprised	.

@@ -1,0 +1,23 @@
+det	Index	The
+amod	Index	technology-focused
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	<	Index
+root	ROOT	<
+punct	<	.-7) nsubj(advanced-3, IXIC
+advmod	advanced	>
+root	ROOT	advanced
+nummod	points	6
+dobj	advanced	points
+punct	points	,
+cc	points	or
+nummod	percent	0.30
+conj:or	points	percent
+punct	points	,
+case	2,053	to
+nmod:to	points	2,053
+punct	advanced	,
+advcl	advanced	erasing
+amod	losses	earlier
+dobj	erasing	losses
+punct	advanced	.

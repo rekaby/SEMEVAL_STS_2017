@@ -1,0 +1,10 @@
+compound	battery	bulb
+punct	battery	,
+nsubj	path	battery
+punct	battery	,
+cc	battery	and
+conj:and	battery	switch
+cop	path	are
+case	path	in
+amod	path	closed
+root	ROOT	path

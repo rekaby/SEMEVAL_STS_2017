@@ -1,0 +1,7 @@
+amod	forces	Syrian
+nsubj	kill	forces
+root	ROOT	kill
+dobj	kill	teen
+case	Aleppo	in
+nmod:in	kill	Aleppo
+dobj	kill	protests

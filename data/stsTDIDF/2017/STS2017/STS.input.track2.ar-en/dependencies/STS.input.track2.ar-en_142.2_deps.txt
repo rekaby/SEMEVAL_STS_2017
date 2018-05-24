@@ -1,0 +1,8 @@
+root	ROOT	Man
+acl	Man	driving
+nmod:poss	cart	his
+dobj	driving	cart
+xcomp	driving	full
+case	purchases	of
+nmod:of	full	purchases
+punct	Man	.

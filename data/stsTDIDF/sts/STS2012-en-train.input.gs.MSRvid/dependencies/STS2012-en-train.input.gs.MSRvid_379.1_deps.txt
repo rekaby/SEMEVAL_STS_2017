@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	scraping	woman
+aux	scraping	is
+root	ROOT	scraping
+det	carrot	a
+dobj	scraping	carrot
+punct	scraping	.

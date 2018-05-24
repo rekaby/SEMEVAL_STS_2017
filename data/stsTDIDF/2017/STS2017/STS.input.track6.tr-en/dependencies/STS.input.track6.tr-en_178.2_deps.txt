@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+det	people	some
+nsubj	are	people
+case	raft	on
+det	raft	the
+nmod:on	people	raft
+punct	are	.

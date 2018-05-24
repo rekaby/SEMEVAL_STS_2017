@@ -1,0 +1,12 @@
+compound	m.	naeem
+nsubj	smuggled	m.
+root	ROOT	smuggled
+nummod	kilograms	10
+dobj	smuggled	kilograms
+punct	pounds	-LRB-
+nummod	pounds	22
+appos	kilograms	pounds
+punct	pounds	-RRB-
+case	heroin	of
+nmod:of	kilograms	heroin
+punct	smuggled	.

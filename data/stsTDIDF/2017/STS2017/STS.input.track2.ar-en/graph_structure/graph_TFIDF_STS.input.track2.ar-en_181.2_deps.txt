@@ -1,0 +1,7 @@
+wearing	purple	dobj
+girl	shoe	compound
+Woman	.	punct
+ROOT	Woman	root
+girl	wearing	acl
+Woman	connecting	acl
+connecting	girl	dobj

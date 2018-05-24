@@ -1,0 +1,9 @@
+nsubj	shopping	Some
+case	people	of
+det	people	the
+nmod:of	Some	people
+aux	shopping	are
+root	ROOT	shopping
+case	clothes	for
+nmod:for	shopping	clothes
+punct	shopping	.

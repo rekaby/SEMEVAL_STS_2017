@@ -1,0 +1,16 @@
+root	ROOT	get
+case	board	on
+nmod:on	get	board
+case	trains	of
+punct	trains	-LRB-
+nmod:of	board	trains
+punct	trains	,
+conj	trains	buses
+punct	trains	,
+conj	trains	ships
+punct	trains	,
+conj	trains	aircraft
+punct	trains	,
+advmod	trains	etc.
+punct	trains	-RRB-
+punct	get	.

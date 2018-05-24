@@ -1,0 +1,9 @@
+punct	terms	`
+compound	Bulger	Whitey
+punct	Bulger	'
+compound	terms	Bulger
+case	life	given
+nummod	life	two
+amod	life	consecutive
+compound	terms	life
+root	ROOT	terms

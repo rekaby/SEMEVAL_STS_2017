@@ -1,0 +1,13 @@
+advmod	deal	How
+aux	deal	should
+nsubj	deal	you
+root	ROOT	deal
+case	teacher	with
+det	teacher	a
+nmod:with	deal	teacher
+nsubj	difficult	who
+cop	difficult	is
+acl:relcl	teacher	difficult
+mark	understand	to
+xcomp	difficult	understand
+punct	deal	?

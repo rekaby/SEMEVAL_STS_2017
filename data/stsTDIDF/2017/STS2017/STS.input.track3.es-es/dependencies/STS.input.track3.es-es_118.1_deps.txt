@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	works	woman
+root	ROOT	works
+case	factory	in
+det	factory	a
+compound	factory	cheese
+nmod:in	works	factory
+punct	works	.

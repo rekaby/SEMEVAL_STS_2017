@@ -1,0 +1,17 @@
+det	men	The
+nsubjpass	flown	men
+auxpass	flown	were
+ccomp	said	flown
+case	Botswana	to
+amod	Botswana	nearby
+nmod:to	flown	Botswana
+case	flight	on
+det	flight	an
+compound	flight	Air
+compound	flight	Malawi
+nmod:on	flown	flight
+punct	said	,
+det	officials	the
+nsubj	said	officials
+root	ROOT	said
+punct	said	.

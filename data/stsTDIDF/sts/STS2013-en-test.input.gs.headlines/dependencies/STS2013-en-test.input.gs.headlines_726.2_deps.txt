@@ -1,0 +1,9 @@
+ccomp	say	Abduct
+dobj	Abduct	Israelis
+case	prisoners	to
+amod	prisoners	free
+nmod:to	Abduct	prisoners
+punct	say	,
+compound	leaders	Gaza
+nsubj	say	leaders
+root	ROOT	say

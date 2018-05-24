@@ -1,0 +1,9 @@
+det	cfe	the
+nsubj	important	cfe
+cop	important	is
+advmod	important	very
+root	ROOT	important
+case	security	for
+amod	security	european
+nmod:for	important	security
+punct	important	.

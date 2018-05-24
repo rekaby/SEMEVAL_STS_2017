@@ -1,0 +1,10 @@
+compound	bug	Stomach
+root	ROOT	bug
+mark	cause	to
+acl	bug	cause
+amod	Nadal	ailing
+dobj	cause	Nadal
+mark	miss	to
+acl	Nadal	miss
+amod	Open	Australian
+dobj	miss	Open

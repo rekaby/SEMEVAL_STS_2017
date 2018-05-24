@@ -1,0 +1,6 @@
+root	ROOT	hold
+compound:prt	hold	back
+case	uncertainty	in
+nmod:in	hold	uncertainty
+cc	uncertainty	or
+conj:or	uncertainty	unwillingness

@@ -1,0 +1,10 @@
+compound	suspect	Boston
+compound	suspect	bombing
+root	ROOT	suspect
+acl	suspect	identified
+case	video	on
+compound	video	surveillance
+nmod:on	identified	video
+punct	suspect	,
+neg	arrest	no
+appos	suspect	arrest

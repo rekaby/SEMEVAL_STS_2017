@@ -1,0 +1,7 @@
+det	man	The
+nsubj	shooting	man
+aux	shooting	is
+root	ROOT	shooting
+det	gun	a
+dobj	shooting	gun
+punct	shooting	.

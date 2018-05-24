@@ -1,0 +1,13 @@
+nsubj	dressed	Hitler
+root	ROOT	dressed
+mark	attempts	as
+det	goalie	a
+nsubj	attempts	goalie
+advcl	dressed	attempts
+mark	re-enact	to
+xcomp	attempts	re-enact
+nmod:poss	game	his
+amod	game	favorite
+compound	game	soccer
+dobj	re-enact	game
+punct	dressed	.

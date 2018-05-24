@@ -1,0 +1,8 @@
+det	pet	The
+nsubj	has	pet
+root	ROOT	has
+det	leash	a
+dobj	has	leash
+case	safety	for
+nmod:for	leash	safety
+punct	has	.

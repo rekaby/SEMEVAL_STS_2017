@@ -1,0 +1,17 @@
+det	man	The
+nsubj	entered	man
+aux	entered	had
+root	ROOT	entered
+det	office	the
+compound	office	post
+dobj	entered	office
+case	Avenue	on
+compound	Avenue	Woodside
+nmod:on	office	Avenue
+case	Avenue	at
+compound	Avenue	Maine
+nmod:at	entered	Avenue
+advmod	p.m.	shortly
+case	p.m.	before
+nummod	p.m.	3
+nmod:before	entered	p.m.

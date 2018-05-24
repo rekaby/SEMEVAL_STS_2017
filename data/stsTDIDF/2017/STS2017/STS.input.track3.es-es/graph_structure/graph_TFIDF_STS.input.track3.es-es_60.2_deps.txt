@@ -1,0 +1,4 @@
+marathon	for	case
+running	marathon	nmod:for
+man	running	acl
+marathon	a	det

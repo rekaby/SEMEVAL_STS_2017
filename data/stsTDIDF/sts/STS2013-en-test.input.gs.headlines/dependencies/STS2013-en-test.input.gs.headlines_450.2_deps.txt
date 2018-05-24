@@ -1,0 +1,6 @@
+compound	peace	Syria
+nsubj	dashed	peace
+csubj	passes	dashed
+case	deadline	as
+nmod:as	dashed	deadline
+root	ROOT	passes

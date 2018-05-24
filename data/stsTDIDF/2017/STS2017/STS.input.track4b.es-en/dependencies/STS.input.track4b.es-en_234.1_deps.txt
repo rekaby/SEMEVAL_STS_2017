@@ -1,0 +1,15 @@
+nmod:poss	budget	Israel
+case	Israel	's
+compound	budget	defence
+nsubj	bigger	budget
+cop	bigger	is
+root	ROOT	bigger
+case	that	than
+nmod:than	bigger	that
+case	neighbours	of
+nmod:poss	neighbours	its
+nummod	neighbours	four
+compound	neighbours	Arab
+nmod:of	that	neighbours
+acl	neighbours	combined
+punct	bigger	.

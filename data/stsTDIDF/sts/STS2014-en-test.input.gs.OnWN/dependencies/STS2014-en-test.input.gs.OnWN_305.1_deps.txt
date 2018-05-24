@@ -1,0 +1,10 @@
+det	vote	a
+root	ROOT	vote
+punct	vote	,
+det	choosing	a
+amod	choosing	public
+cc	public	and
+conj:and	public	legal
+appos	vote	choosing
+case	officials	of
+nmod:of	choosing	officials

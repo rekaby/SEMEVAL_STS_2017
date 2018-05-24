@@ -1,0 +1,7 @@
+gnawing	.	punct
+strap	on	case
+gnawing	strap	nmod:on
+strap	camera	compound
+gnawing	dog	nsubj
+strap	a	det
+ROOT	gnawing	root

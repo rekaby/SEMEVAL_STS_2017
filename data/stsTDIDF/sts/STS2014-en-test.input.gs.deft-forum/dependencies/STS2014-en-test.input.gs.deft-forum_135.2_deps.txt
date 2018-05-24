@@ -1,0 +1,11 @@
+nsubj	amusing	It
+cop	amusing	's
+root	ROOT	amusing
+mark	think	to
+xcomp	amusing	think
+nsubj	true	it
+advmod	true	even
+aux	true	might
+cop	true	be
+xcomp	think	true
+punct	amusing	.

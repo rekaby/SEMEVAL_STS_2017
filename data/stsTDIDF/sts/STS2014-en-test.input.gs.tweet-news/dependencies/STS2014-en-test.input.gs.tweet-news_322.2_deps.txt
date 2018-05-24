@@ -1,0 +1,6 @@
+compound	media	Social
+nsubj	make	media
+root	ROOT	make
+nsubj	more	us
+xcomp	make	more
+amod	more	honest

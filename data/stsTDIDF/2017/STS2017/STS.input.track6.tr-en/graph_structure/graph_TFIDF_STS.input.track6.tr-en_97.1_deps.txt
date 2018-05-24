@@ -1,0 +1,7 @@
+horse	background	nmod:in
+running	dogs	nsubj
+dogs	white	amod
+field	horse	nmod:with
+horse	with	case
+dogs	Two	nummod
+running	field	nmod:in

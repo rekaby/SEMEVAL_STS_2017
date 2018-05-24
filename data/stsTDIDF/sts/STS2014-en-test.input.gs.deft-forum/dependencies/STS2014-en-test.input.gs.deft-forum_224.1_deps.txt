@@ -1,0 +1,12 @@
+nsubj	see	I
+aux	see	do
+neg	see	n't
+root	ROOT	see
+dobj	see	Obama
+case	lesser	as
+det	lesser	the
+nmod:as	see	lesser
+case	evils	of
+nummod	evils	two
+nmod:of	lesser	evils
+punct	see	.

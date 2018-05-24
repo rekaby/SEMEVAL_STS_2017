@@ -1,0 +1,13 @@
+root	ROOT	``
+nsubj	talking	I
+aux	talking	would
+advmod	talking	rather
+aux	talking	be
+root	``	talking
+case	numbers	about
+amod	numbers	positive
+nmod:about	talking	numbers
+advmod	negative	rather
+mwe	rather	than
+amod	numbers	negative
+punct	talking	.

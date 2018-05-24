@@ -1,0 +1,7 @@
+root	ROOT	jolt
+case	current	of
+amod	current	electrical
+nmod:of	jolt	current
+case	body	to
+det	body	the
+nmod:to	current	body

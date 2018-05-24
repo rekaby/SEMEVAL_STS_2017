@@ -1,0 +1,7 @@
+nsubj	killed	Ten
+root	ROOT	killed
+case	mine	in
+compound	mine	Russia
+compound	mine	coal
+nmod:in	killed	mine
+dobj	killed	blast

@@ -1,0 +1,7 @@
+nsubj	jump	you
+aux	jump	can
+root	ROOT	jump
+case	moon	to
+det	moon	the
+nmod:to	jump	moon
+punct	jump	.

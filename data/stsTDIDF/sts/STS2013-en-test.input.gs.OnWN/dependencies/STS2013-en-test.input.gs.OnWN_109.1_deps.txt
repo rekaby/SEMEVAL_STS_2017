@@ -1,0 +1,14 @@
+punct	Cause	-LRB-
+dep	make	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	make
+det	sound	a
+amod	sound	dry
+compound	sound	crackling
+dobj	make	sound
+punct	make	,
+advmod	mixing	possibly
+mark	mixing	by
+advcl	make	mixing
+punct	make	.

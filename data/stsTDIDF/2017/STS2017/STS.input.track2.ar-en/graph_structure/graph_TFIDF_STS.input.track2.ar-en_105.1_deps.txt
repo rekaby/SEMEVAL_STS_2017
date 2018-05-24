@@ -1,0 +1,9 @@
+loading	luggage	dobj
+men	black	amod
+top	onto	case
+ROOT	Group	root
+top	bus	nmod:of
+bus	of	case
+men	loading	acl
+Group	men	nmod:of
+loading	top	nmod:onto

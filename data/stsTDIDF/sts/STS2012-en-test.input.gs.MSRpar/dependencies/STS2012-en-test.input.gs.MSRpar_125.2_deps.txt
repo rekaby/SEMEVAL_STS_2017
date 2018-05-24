@@ -1,0 +1,14 @@
+punct	said	``
+nsubj	crying	She
+aux	crying	was
+ccomp	said	crying
+cc	crying	and
+nsubj	scared	she
+cop	scared	was
+advmod	scared	really
+conj:and	crying	scared
+punct	said	,
+punct	said	''
+root	ROOT	said
+nsubj	said	Yasin
+punct	said	.

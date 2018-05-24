@@ -1,0 +1,6 @@
+party	costume	compound
+serving	.	punct
+serving	drinks	dobj
+man	party	nmod:at
+serving	is	aux
+serving	man	nsubj

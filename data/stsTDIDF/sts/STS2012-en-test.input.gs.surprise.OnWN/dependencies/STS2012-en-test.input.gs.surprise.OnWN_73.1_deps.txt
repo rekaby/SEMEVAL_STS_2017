@@ -1,0 +1,13 @@
+root	ROOT	make
+amod	contact	physical
+dobj	make	contact
+case	effect	with
+punct	effect	,
+advmod	effect	possibly
+case	effect	with
+det	effect	the
+nmod:with	contact	effect
+mark	manipulating	of
+advmod	manipulating	physically
+acl	effect	manipulating
+punct	make	.

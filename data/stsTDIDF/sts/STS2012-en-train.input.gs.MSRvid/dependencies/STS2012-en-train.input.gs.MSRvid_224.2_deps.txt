@@ -1,0 +1,7 @@
+det	group	A
+nsubj	dancing	group
+case	men	of
+nmod:of	group	men
+aux	dancing	are
+root	ROOT	dancing
+punct	dancing	.

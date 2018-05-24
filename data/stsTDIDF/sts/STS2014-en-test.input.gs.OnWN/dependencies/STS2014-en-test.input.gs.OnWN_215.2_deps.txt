@@ -1,0 +1,9 @@
+det	unit	an
+compound	unit	air
+compound	unit	force
+root	ROOT	unit
+amod	unit	smaller
+case	squadron	than
+det	squadron	a
+nmod:than	smaller	squadron
+punct	unit	.

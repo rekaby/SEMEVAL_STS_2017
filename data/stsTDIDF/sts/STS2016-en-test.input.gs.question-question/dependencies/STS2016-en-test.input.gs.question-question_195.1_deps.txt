@@ -1,0 +1,10 @@
+advmod	long	How
+advmod	keep	long
+aux	keep	can
+nsubj	keep	you
+root	ROOT	keep
+dobj	keep	chocolate
+case	freezer	in
+det	freezer	the
+nmod:in	keep	freezer
+punct	keep	?

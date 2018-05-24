@@ -1,0 +1,13 @@
+Grouch	the	det
+ROOT	leading	root
+leading	are	aux
+figure	blow-up	compound
+Oscar	Grouch	dep
+figure	giant	amod
+leading	.	punct
+leading	figure	dobj
+Oscar	of	case
+Grouch	in	acl
+down	street	nmod:npmod
+figure	Oscar	nmod:of
+leading	people	nsubj

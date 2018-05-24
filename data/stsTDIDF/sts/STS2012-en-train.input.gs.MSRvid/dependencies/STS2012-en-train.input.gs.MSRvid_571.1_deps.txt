@@ -1,0 +1,10 @@
+det	man	A
+nsubj	makes	man
+root	ROOT	makes
+det	call	a
+dobj	makes	call
+case	phone	on
+det	phone	a
+compound	phone	cell
+nmod:on	call	phone
+punct	makes	.

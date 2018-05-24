@@ -1,0 +1,13 @@
+root	ROOT	Try
+dobj	Try	switching
+case	rats	to
+nmod:to	switching	rats
+punct	Try	;
+amod	rats	weanling
+dep	Try	rats
+mark	need	if
+nsubj	need	you
+advcl	rats	need
+dobj	need	something
+amod	something	smaller
+punct	Try	.

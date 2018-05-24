@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	young
+nsubj	doing	girl
+root	ROOT	doing
+det	flip	a
+advmod	flip	back
+dobj	doing	flip
+case	water	in
+det	water	the
+nmod:in	doing	water
+punct	doing	.

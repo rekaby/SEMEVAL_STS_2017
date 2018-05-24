@@ -1,0 +1,10 @@
+det	man	A
+nsubj	rides	man
+root	ROOT	rides
+det	bicycle	a
+dobj	rides	bicycle
+case	lot	in
+det	lot	the
+compound	lot	parking
+nmod:in	rides	lot
+punct	rides	.

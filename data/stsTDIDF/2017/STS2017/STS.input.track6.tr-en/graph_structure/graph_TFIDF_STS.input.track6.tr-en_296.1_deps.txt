@@ -1,0 +1,8 @@
+work	artist	nmod:poss
+worker	A	det
+destroying	.	punct
+artist	's	case
+destroying	is	aux
+destroying	work	dobj
+destroying	worker	nsubj
+ROOT	destroying	root

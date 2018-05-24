@@ -1,0 +1,6 @@
+amod	tunnels	connected
+amod	tunnels	underground
+root	ROOT	tunnels
+acl	tunnels	used
+case	rabbits	by
+nmod:by	used	rabbits

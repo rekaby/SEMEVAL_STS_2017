@@ -1,0 +1,16 @@
+root	ROOT	News
+case	Terrorism	of
+nmod:of	News	Terrorism
+cc	Terrorism	and
+det	Conflict	the
+amod	Conflict	Israeli-Palestinian
+conj:and	Terrorism	Conflict
+punct	January	-LRB-
+appos	Conflict	January
+nummod	January	22
+nummod	Äď	‚
+dep	January	Äď
+nummod	January	28
+punct	January	,
+nummod	January	2014
+punct	January	-RRB-

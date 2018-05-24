@@ -1,0 +1,12 @@
+nummod	person	One
+nsubj	checking	person
+aux	checking	is
+root	ROOT	checking
+nmod:poss	e-mail	his
+dobj	checking	e-mail
+case	phone	on
+det	phone	a
+amod	phone	charged
+amod	phone	mobile
+nmod:on	checking	phone
+punct	checking	.

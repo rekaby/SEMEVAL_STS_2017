@@ -1,0 +1,13 @@
+det	show	The
+nmod:poss	closure	show
+case	show	's
+nsubj	affected	closure
+root	ROOT	affected
+amod	earnings	third-quarter
+dobj	affected	earnings
+case	share	per
+nmod:per	earnings	share
+case	penny	by
+det	penny	a
+nmod:by	affected	penny
+punct	affected	.

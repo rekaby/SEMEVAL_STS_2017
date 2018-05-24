@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	small
+root	ROOT	dog
+acl	dog	wearing
+det	shirt	a
+amod	shirt	pink
+dobj	wearing	shirt
+acl	shirt	tied
+case	railing	to
+det	railing	a
+nmod:to	tied	railing
+punct	dog	.

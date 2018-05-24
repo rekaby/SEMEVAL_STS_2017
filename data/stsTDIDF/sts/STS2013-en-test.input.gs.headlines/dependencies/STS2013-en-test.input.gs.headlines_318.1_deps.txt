@@ -1,0 +1,7 @@
+compound	developments	FACTBOX-Security
+root	ROOT	developments
+case	Iraq	in
+nmod:in	developments	Iraq
+punct	Iraq	,
+appos	Iraq	February
+nummod	February	1

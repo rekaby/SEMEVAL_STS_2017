@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	air	dog
+cop	air	is
+case	air	in
+det	air	the
+root	ROOT	air
+case	grass	above
+det	grass	the
+nmod:above	air	grass
+punct	air	.

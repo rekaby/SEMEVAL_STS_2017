@@ -1,0 +1,8 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+case	skull	with
+det	skull	a
+nmod:with	playing	skull
+punct	playing	.

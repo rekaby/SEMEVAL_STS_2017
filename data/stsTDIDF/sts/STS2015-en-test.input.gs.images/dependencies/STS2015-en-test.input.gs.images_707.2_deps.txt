@@ -1,0 +1,11 @@
+det	man	The
+nsubj	kissing	man
+cc	man	and
+conj:and	man	woman
+acl	man	sitting
+case	bench	on
+det	bench	a
+nmod:on	sitting	bench
+aux	kissing	are
+root	ROOT	kissing
+punct	kissing	.

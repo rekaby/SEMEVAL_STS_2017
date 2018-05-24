@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	takes	boy
+root	ROOT	takes
+compound:prt	takes	off
+nmod:poss	sunglasses	his
+dobj	takes	sunglasses
+punct	takes	.

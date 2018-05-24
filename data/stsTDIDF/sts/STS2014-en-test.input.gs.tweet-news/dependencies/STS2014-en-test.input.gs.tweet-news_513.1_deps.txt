@@ -1,0 +1,13 @@
+nsubj	spending	I
+aux	spending	was
+advmod	spending	definitely
+root	ROOT	spending
+dobj	spending	it
+case	music	on
+amod	music	obscure
+compound	music	sheet
+nmod:on	spending	music
+cc	music	and
+compound	tickest	concert
+conj:and	music	tickest
+punct	spending	.-13) root(ROOT-0, #MisspentYouth

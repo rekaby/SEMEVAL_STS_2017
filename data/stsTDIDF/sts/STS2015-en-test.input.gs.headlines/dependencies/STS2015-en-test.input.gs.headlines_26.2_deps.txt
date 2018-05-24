@@ -1,0 +1,8 @@
+nmod:poss	hurdles	Snowden
+case	Snowden	's
+compound	hurdles	hits
+root	ROOT	hurdles
+case	search	in
+nmod:in	hurdles	search
+case	asylum	for
+nmod:for	search	asylum

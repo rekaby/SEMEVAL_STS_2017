@@ -1,0 +1,15 @@
+det	success	The
+nsubj	constitutes	success
+case	book	of
+det	book	the
+nmod:of	success	book
+root	ROOT	constitutes
+case	itself	in
+nmod:in	constitutes	itself
+det	sign	a
+dep	itself	sign
+case	faintness	of
+punct	faintness	``
+nmod:of	sign	faintness
+punct	faintness	''
+punct	constitutes	.

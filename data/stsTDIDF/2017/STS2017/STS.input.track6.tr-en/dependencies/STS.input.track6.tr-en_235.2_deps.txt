@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	walking	boy
+aux	walking	is
+root	ROOT	walking
+case	beach	on
+det	beach	the
+nmod:on	walking	beach
+punct	walking	.

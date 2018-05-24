@@ -1,0 +1,8 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	sitting
+case	chair	in
+det	chair	a
+amod	chair	living
+nmod:in	sitting	chair
+punct	girl	.

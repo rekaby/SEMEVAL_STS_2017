@@ -1,0 +1,17 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	some
+nsubj	feel	who
+acl:relcl	some	feel
+case	conditions	like
+det	conditions	the
+nmod:like	feel	conditions
+ccomp	are	are
+mark	attack	such
+mark	attack	that
+nsubj	attack	they
+aux	attack	can
+advcl	are	attack
+dobj	attack	us
+advmod	attack	there
+punct	are	.

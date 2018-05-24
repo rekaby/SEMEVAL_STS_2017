@@ -1,0 +1,9 @@
+det	temperature	the
+root	ROOT	temperature
+case	which	at
+nmod:at	temperature	which
+det	boils	a
+amod	boils	liquid
+nsubj	which	boils
+punct	boils	,
+appos	boils	bubbles

@@ -1,0 +1,11 @@
+nummod	swimmers	Three
+nsubj	getting	swimmers
+aux	getting	are
+root	ROOT	getting
+xcomp	getting	ready
+mark	start	to
+xcomp	ready	start
+nmod:poss	competition	their
+compound	competition	swimming
+dobj	start	competition
+punct	getting	.

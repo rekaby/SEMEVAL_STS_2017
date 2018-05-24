@@ -1,0 +1,7 @@
+det	child	The
+nmod:poss	bike	child
+case	child	's
+nsubj	got	bike
+root	ROOT	got
+xcomp	got	wet
+punct	got	.

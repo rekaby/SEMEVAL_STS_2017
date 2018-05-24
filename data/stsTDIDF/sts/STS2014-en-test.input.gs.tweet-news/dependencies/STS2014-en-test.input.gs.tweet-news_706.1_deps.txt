@@ -1,0 +1,15 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+nsubj	Dies	#LindaRissPugach
+punct	#LindaRissPugach	,
+nmod:poss	Life	Whose
+nsubj	Ripped	Life
+cop	Ripped	Was
+acl:relcl	#LindaRissPugach	Ripped
+case	Headlines	From
+nmod:from	Ripped	Headlines
+punct	#LindaRissPugach	,
+dep	NYTimes	Dies
+case	#crazylove	at
+nummod	#crazylove	75
+nmod:at	Dies	#crazylove

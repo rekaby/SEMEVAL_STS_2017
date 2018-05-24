@@ -1,0 +1,13 @@
+nummod	Tips	13
+root	ROOT	Tips
+mark	Face	To
+dep	Tips	Face
+nmod:poss	Fear	Your
+dobj	Face	Fear
+cc	Face	and
+dep	seems	Enjoy
+det	Ride	the
+nsubj	seems	Ride
+conj:and	Face	seems
+xcomp	seems	interesting
+punct	Tips	.

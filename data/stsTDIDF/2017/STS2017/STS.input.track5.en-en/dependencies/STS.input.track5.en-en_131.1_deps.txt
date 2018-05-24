@@ -1,0 +1,17 @@
+nummod	men	Three
+nsubj	drying	men
+aux	drying	are
+root	ROOT	drying
+mark	pull	to
+xcomp	drying	pull
+det	Subaru	a
+dobj	pull	Subaru
+case	ditch	out
+mwe	out	of
+det	ditch	a
+nmod:out_of	pull	ditch
+case	road	along
+det	road	a
+compound	road	mountain
+nmod:along	ditch	road
+punct	drying	.

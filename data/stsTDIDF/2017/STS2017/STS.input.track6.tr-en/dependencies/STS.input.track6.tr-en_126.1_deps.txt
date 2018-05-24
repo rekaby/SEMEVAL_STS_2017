@@ -1,0 +1,6 @@
+nsubj	watching	People
+root	ROOT	watching
+det	thing	an
+amod	thing	interesting
+dobj	watching	thing
+punct	watching	.

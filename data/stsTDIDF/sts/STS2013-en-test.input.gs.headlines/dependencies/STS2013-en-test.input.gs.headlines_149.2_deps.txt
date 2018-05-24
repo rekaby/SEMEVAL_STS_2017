@@ -1,0 +1,9 @@
+compound	scores	Messi
+root	ROOT	scores
+nummod	scores	4
+mark	send	to
+acl	4	send
+dobj	send	Guardiola
+compound:prt	send	off
+case	victory	with
+nmod:with	send	victory

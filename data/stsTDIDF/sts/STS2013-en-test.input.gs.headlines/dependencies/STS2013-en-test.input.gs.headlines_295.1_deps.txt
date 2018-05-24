@@ -1,0 +1,8 @@
+nummod	troops	Six
+compound	troops	US
+nsubj	attack	troops
+acl	troops	killed
+case	bomb	in
+compound	bomb	Afghan
+nmod:in	killed	bomb
+root	ROOT	attack

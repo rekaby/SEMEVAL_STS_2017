@@ -1,0 +1,5 @@
+working	bicycle	nmod:on
+person	working	acl
+bicycle	on	case
+is	person	nsubj
+bicycle	a	det

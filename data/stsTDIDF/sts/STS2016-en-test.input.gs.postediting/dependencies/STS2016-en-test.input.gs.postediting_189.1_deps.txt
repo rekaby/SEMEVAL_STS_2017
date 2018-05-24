@@ -1,0 +1,13 @@
+amod	operators	Other
+nsubj	refer	operators
+aux	refer	would
+advmod	refer	also
+root	ROOT	refer
+case	nature	to
+det	nature	the
+nmod:to	refer	nature
+case	market	of
+det	market	the
+amod	market	Czech
+nmod:of	nature	market
+punct	refer	.

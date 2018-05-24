@@ -1,0 +1,8 @@
+compound	painting	Salvador
+compound	painting	Dali
+nsubj	snatched	painting
+root	ROOT	snatched
+case	gallery	from
+compound	gallery	New
+compound	gallery	York
+nmod:from	snatched	gallery

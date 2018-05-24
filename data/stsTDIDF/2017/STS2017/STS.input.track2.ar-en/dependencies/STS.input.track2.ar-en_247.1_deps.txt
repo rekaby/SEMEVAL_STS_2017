@@ -1,0 +1,8 @@
+det	person	The
+nsubj	hiding	person
+aux	hiding	is
+root	ROOT	hiding
+case	umbrella	under
+det	umbrella	an
+nmod:under	hiding	umbrella
+punct	hiding	.

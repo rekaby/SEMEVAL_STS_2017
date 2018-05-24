@@ -1,0 +1,10 @@
+nsubj	sentences	China
+compound	sentences	court
+root	ROOT	sentences
+compound	Xilai	Bo
+dep	sentences	Xilai
+case	life	to
+nmod:to	Xilai	life
+amod	life	imprisonment
+case	corruption	for
+nmod:for	imprisonment	corruption

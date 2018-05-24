@@ -1,0 +1,10 @@
+nsubj	carrying	Man
+aux	carrying	is
+root	ROOT	carrying
+det	box	a
+compound	box	tool
+dobj	carrying	box
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	carrying	sidewalk
+punct	carrying	.

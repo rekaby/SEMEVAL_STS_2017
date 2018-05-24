@@ -1,0 +1,7 @@
+door	shop	compound
+door	outside	case
+stands	door	nmod:outside
+wearing	hat	dobj
+door	a	det
+man	An	det
+stands	man	nsubj

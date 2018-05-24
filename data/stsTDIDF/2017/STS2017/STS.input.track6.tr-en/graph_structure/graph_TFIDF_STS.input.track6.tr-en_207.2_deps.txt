@@ -1,0 +1,8 @@
+pulling	boys	nsubj
+ROOT	pulling	root
+pulling	shovels	dobj
+boys	few	amod
+pulling	.	punct
+boys	A	det
+shovels	their	nmod:poss
+pulling	are	aux

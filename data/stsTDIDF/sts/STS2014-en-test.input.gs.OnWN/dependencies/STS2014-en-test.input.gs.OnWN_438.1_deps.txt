@@ -1,0 +1,8 @@
+punct	cause	-LRB-
+dep	appear	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	appear
+advmod	appear	suddenly
+cc	suddenly	or
+conj:or	suddenly	briefly

@@ -1,0 +1,16 @@
+det	dog	A
+amod	dog	black
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	grass	on
+det	grass	the
+nmod:on	walking	grass
+case	stick	with
+det	stick	a
+nmod:with	walking	stick
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+acl	stick	mouth
+punct	walking	.

@@ -1,0 +1,6 @@
+nsubj	learn	Woman
+root	ROOT	learn
+advmod	swim	how
+mark	swim	to
+ccomp	learn	swim
+punct	learn	.

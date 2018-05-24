@@ -1,0 +1,7 @@
+coat	a	det
+man	coat	nmod:in
+coat	in	case
+nose	his	nmod:poss
+coat	rubs	acl
+coat	brown	amod
+rubs	nose	dobj

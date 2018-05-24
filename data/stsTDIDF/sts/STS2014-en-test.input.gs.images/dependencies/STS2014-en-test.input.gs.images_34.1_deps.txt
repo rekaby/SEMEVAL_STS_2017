@@ -1,0 +1,10 @@
+det	tent	A
+amod	tent	pitched
+root	ROOT	tent
+case	horse	with
+det	horse	a
+nmod:with	tent	horse
+case	background	in
+det	background	the
+nmod:in	tent	background
+punct	tent	.

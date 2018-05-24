@@ -1,0 +1,9 @@
+wires	some	det
+holding	,	punct
+holding	and	cc
+shirt	white	amod
+holding	tools	conj:and
+holding	guy	nsubj
+holding	wires	dobj
+guy	A	det
+guy	shirt	nmod:in

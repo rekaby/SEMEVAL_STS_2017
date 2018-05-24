@@ -1,0 +1,6 @@
+det	lion	A
+nsubj	walking	lion
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	around
+punct	walking	.

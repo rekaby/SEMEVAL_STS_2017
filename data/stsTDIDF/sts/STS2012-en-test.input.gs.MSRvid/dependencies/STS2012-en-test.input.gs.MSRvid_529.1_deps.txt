@@ -1,0 +1,11 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+cc	riding	and
+conj:and	riding	jumping
+compound:prt	jumping	over
+dobj	jumping	obstacles
+punct	riding	.

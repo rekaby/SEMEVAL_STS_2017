@@ -1,0 +1,11 @@
+det	man	A
+nsubj	makes	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+root	ROOT	makes
+det	face	a
+amod	face	grouchy
+dobj	makes	face
+punct	makes	.

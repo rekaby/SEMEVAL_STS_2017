@@ -1,0 +1,7 @@
+root	ROOT	Make
+dobj	Make	marks
+case	surface	in
+det	surface	the
+nmod:in	Make	surface
+acl	surface	of
+punct	Make	.

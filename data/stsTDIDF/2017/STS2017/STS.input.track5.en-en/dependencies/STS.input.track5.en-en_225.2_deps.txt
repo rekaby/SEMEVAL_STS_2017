@@ -1,0 +1,15 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	green
+nmod:in	man	shirt
+cc	shirt	and
+amod	hat	black
+conj:and	shirt	hat
+acl	hat	playing
+det	guitar	a
+dobj	playing	guitar
+case	stage	on
+nmod:on	playing	stage
+punct	man	.

@@ -1,0 +1,9 @@
+nsubj	reveals	Transcript
+root	ROOT	reveals
+dobj	reveals	confusion
+case	evacuation	over
+nmod:over	confusion	evacuation
+case	Korean	of
+amod	Korean	South
+nmod:of	evacuation	Korean
+dep	evacuation	ferry

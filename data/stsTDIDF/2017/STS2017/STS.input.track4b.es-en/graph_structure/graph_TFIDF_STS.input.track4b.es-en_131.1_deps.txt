@@ -1,0 +1,6 @@
+situation	other	nmod:to
+situation	from	case
+said	transfers	ccomp
+situation	one	nummod
+transfers	self-regulation	compound
+transfers	situation	nmod:from

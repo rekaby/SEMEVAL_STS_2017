@@ -1,0 +1,14 @@
+industries	gas	compound
+oil	industries	conj:and
+oil	largest	amod
+much	Growth	nsubj
+oil	Norway	nmod:poss
+1970s	early	amod
+much	wealth	nmod:of
+wealth	today	nmod:poss
+one	oil	nmod:of
+1970s	since	case
+Growth	one	nmod:in
+wealth	of	case
+Growth	1970s	nmod:since
+Norway	's	case

@@ -1,0 +1,7 @@
+root	ROOT	move
+case	place	from
+nummod	place	one
+nmod:from	move	place
+case	another	to
+nmod:to	move	another
+punct	move	.

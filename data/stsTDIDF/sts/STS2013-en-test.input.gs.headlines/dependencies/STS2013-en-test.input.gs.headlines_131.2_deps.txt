@@ -1,0 +1,7 @@
+root	ROOT	4
+dobj	4	Chinese
+case	victims	among
+compound	victims	Nigeria
+compound	victims	plane
+compound	victims	crash
+nmod:among	Chinese	victims

@@ -1,0 +1,16 @@
+case	July	On
+nmod:on	sent	July
+nummod	July	10
+punct	sent	,
+det	team	a
+nsubjpass	sent	team
+case	officers	of
+nummod	officers	32
+amod	officers	Singaporean
+compound	officers	police
+nmod:of	team	officers
+auxpass	sent	was
+root	ROOT	sent
+case	Baghdad	to
+nmod:to	sent	Baghdad
+punct	sent	.

@@ -1,0 +1,13 @@
+root	ROOT	strike
+compound:prt	strike	out
+case	swinging	by
+nmod:by	strike	swinging
+cc	strike	and
+conj:and	strike	missing
+det	pitch	the
+dobj	missing	pitch
+acl	pitch	charged
+case	third	as
+det	third	the
+nmod:as	charged	third
+punct	strike	.

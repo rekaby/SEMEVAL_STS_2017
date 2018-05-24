@@ -1,0 +1,11 @@
+nmod:poss	Generation	Our
+root	ROOT	Generation
+punct	Generation	:
+punct	Generation	?-4) root(ROOT-0, Set
+case	Life	for
+nmod:for	Set	Life
+punct	Set	?-4) compound(Crisis-2, Documents
+root	ROOT	Crisis
+case	Baby	Among
+nmod:among	Crisis	Baby
+dep	Crisis	Boomers

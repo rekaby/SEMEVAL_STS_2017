@@ -1,0 +1,12 @@
+nsubj	playing	Someone
+case	costume	in
+det	costume	a
+compound	costume	gorilla
+nmod:in	Someone	costume
+aux	playing	is
+root	ROOT	playing
+det	set	a
+dobj	playing	set
+case	drums	of
+nmod:of	set	drums
+punct	playing	.

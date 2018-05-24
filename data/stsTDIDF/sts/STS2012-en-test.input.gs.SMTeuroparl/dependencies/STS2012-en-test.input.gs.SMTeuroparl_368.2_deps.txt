@@ -1,0 +1,13 @@
+nmod:poss	others	D
+case	D	'
+nsubj	part	others
+dep	resentment	part
+advmod	part	unfortunately
+case	reason	in
+nmod:in	resentment	reason
+nsubj	resentment	d
+punct	d	'
+det	resentment	a
+amod	resentment	collected
+root	ROOT	resentment
+punct	resentment	.

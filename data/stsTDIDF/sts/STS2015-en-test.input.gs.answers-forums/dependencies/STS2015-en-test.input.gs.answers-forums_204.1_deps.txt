@@ -1,0 +1,16 @@
+det	approach	The
+amod	approach	best
+nsubj	play	approach
+aux	play	is
+root	ROOT	play
+case	cat	with
+nmod:poss	cat	your
+nmod:with	play	cat
+det	night	each
+nmod:tmod	play	night
+case	evening	in
+det	evening	the
+nmod:in	play	evening
+case	bedtime	before
+nmod:before	evening	bedtime
+punct	play	.

@@ -1,0 +1,6 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	watching
+det	water	the
+dobj	watching	water
+punct	people	.

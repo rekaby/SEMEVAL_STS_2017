@@ -1,0 +1,5 @@
+root	ROOT	mark
+case	scar	with
+det	scar	a
+nmod:with	mark	scar
+punct	mark	.

@@ -1,0 +1,12 @@
+bar	.	punct
+advertising	beers	dobj
+bar	A	det
+bar	signs	nmod:with
+Light	such	case
+Light	Corona	conj:and
+Light	and	cc
+signs	with	case
+ROOT	bar	root
+signs	advertising	acl
+Light	Bud	compound
+beers	Light	nmod:such_as

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	dancing	man
+aux	dancing	is
+root	ROOT	dancing
+case	road	on
+det	road	the
+nmod:on	dancing	road
+punct	dancing	.

@@ -1,0 +1,9 @@
+det	man	An
+amod	man	old
+nsubj	lays	man
+root	ROOT	lays
+case	bench	on
+det	bench	a
+compound	bench	park
+nmod:on	lays	bench
+punct	lays	.

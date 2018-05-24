@@ -1,0 +1,8 @@
+nsubj	defends	Japan
+root	ROOT	defends
+nsubj	hunts	dolphin
+ccomp	defends	hunts
+case	criticism	after
+nmod:after	hunts	criticism
+case	US	from
+nmod:from	criticism	US

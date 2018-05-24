@@ -1,0 +1,13 @@
+expl	was	There
+root	ROOT	was
+neg	longer	no
+advmod	path	longer
+det	path	a
+amod	path	closed
+nsubj	was	path
+acl	path	containing
+compound	C	Bulb
+dobj	containing	C
+cc	C	and
+det	battery	the
+conj:and	C	battery

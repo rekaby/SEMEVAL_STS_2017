@@ -1,0 +1,7 @@
+root	ROOT	Meet
+det	crowds	the
+dobj	Meet	crowds
+case	Square	in
+compound	Square	Times
+nmod:in	crowds	Square
+punct	Meet	.

@@ -1,0 +1,8 @@
+root	ROOT	Break
+compound:prt	Break	up
+det	problem	the
+nsubj	subproblems	problem
+amod	subproblems	different
+amod	subproblems	smaller
+ccomp	Break	subproblems
+punct	Break	.

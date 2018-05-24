@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	young
+nsubj	takes	woman
+case	hoodie	in
+det	hoodie	a
+amod	hoodie	pink
+nmod:in	woman	hoodie
+root	ROOT	takes
+det	picture	a
+dobj	takes	picture
+punct	takes	.

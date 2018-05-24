@@ -1,0 +1,9 @@
+det	person	A
+nsubj	checking	person
+aux	checking	is
+root	ROOT	checking
+compound:prt	checking	out
+dobj	checking	buildings
+mark	buy	to
+advcl	checking	buy
+punct	checking	.

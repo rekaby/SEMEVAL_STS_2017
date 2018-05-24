@@ -1,0 +1,8 @@
+nsubj	running	Boy
+cc	Boy	and
+conj:and	Boy	girl
+root	ROOT	running
+case	beach	along
+det	beach	the
+nmod:along	running	beach
+punct	running	.

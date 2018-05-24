@@ -1,0 +1,10 @@
+nsubj	NOT	It
+cop	NOT	's
+advmod	NOT	definitely
+root	ROOT	NOT
+dobj	used	what
+nsubj	used	it
+ccomp	NOT	used
+mark	be	to
+xcomp	used	be
+punct	NOT	.

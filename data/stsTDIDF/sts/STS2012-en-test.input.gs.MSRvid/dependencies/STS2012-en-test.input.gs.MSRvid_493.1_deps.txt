@@ -1,0 +1,8 @@
+det	airplane	An
+nsubj	flying	airplane
+aux	flying	is
+root	ROOT	flying
+case	air	in
+det	air	the
+nmod:in	flying	air
+punct	flying	.

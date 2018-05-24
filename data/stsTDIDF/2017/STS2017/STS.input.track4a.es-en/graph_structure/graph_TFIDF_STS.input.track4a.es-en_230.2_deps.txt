@@ -1,0 +1,5 @@
+makes	restaurant	nsubj
+makes	everyone	nmod:for
+makes	vegetables	dobj
+enters	who	nsubj
+everyone	enters	acl:relcl

@@ -1,0 +1,11 @@
+amod	lawmakers	Israeli
+nsubj	call	lawmakers
+root	ROOT	call
+case	probe	for
+amod	probe	internal
+nmod:for	call	probe
+case	case	into
+nmod:into	call	case
+case	X	of
+compound	X	Prisoner
+nmod:of	case	X

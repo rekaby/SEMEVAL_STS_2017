@@ -1,0 +1,10 @@
+grabbed	accident	nsubj
+ROOT	grabbed	root
+automobiles	between	case
+attention	people	nmod:poss
+grabbed	has	aux
+accident	automobiles	nmod:between
+accident	An	det
+grabbed	.	punct
+grabbed	attention	dobj
+automobiles	two	nummod

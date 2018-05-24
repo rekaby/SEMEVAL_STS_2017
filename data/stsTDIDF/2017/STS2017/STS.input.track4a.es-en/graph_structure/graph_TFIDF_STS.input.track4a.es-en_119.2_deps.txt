@@ -1,0 +1,7 @@
+eat	kids	nmod:with
+eat	women	nsubj
+eat	dinner	dobj
+kids	with	case
+shirts	blue	amod
+women	shirts	nmod:in
+shirts	in	case

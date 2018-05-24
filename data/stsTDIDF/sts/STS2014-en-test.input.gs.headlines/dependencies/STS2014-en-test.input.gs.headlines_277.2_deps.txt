@@ -1,0 +1,10 @@
+compound	Africa	South
+nmod:poss	Mandela	Africa
+case	Africa	's
+amod	Mandela	former
+compound	Mandela	PM
+compound	Mandela	Nelson
+nsubj	back	Mandela
+root	ROOT	back
+case	hospital	in
+nmod:in	back	hospital

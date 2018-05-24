@@ -1,0 +1,17 @@
+nsubj	help	Jobs
+punct	help	,
+case	particular	in
+nmod:in	help	particular
+punct	help	,
+aux	help	will
+root	ROOT	help
+amod	people	young
+dobj	help	people
+mark	create	to
+xcomp	help	create
+amod	lives	new
+dobj	create	lives
+case	work	through
+amod	work	serious
+nmod:through	create	work
+punct	help	.

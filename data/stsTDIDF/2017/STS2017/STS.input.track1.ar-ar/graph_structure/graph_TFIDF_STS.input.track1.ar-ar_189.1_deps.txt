@@ -1,0 +1,7 @@
+car	The	det
+people	next	case
+rain	people	nmod:next_to
+people	prohibitive	amod
+passed	car	nsubj
+passed	them	dobj
+passed	rain	nmod:tmod

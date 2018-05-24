@@ -1,0 +1,13 @@
+compound	center	Fruit
+compound	center	market
+nsubj	offers	center
+root	ROOT	offers
+dobj	offers	artichokes
+punct	offers	,
+cc	offers	and
+amod	types	many
+amod	types	different
+conj:and	offers	types
+case	fruit	of
+nmod:of	types	fruit
+punct	offers	.

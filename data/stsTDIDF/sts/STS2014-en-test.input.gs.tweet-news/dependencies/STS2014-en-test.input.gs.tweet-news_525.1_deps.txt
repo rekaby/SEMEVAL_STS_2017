@@ -1,0 +1,20 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	#School	#Queens
+nsubjpass	Locked	#School
+auxpass	Locked	Is
+dep	Found	Locked
+compound:prt	Locked	Down
+case	#Gun	After
+nmod:after	Locked	#Gun
+cop	Found	Is
+dep	NYTimes	Found
+case	7-Year-Old	in
+nmod:in	Found	7-Year-Old
+punct	NYTimes	?-14) compound(Backpack-2, s
+nsubj	end	Backpack
+cop	end	is
+expl	end	there
+neg	end	no
+root	ROOT	end
+punct	end	?

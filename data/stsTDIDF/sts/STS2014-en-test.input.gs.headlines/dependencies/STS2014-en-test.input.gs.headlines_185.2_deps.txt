@@ -1,0 +1,6 @@
+nsubj	strikes	Series
+case	attacks	of
+amod	attacks	deadly
+nmod:of	Series	attacks
+root	ROOT	strikes
+dobj	strikes	Iraq

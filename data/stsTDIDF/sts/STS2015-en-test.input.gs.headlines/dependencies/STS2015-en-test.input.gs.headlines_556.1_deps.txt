@@ -1,0 +1,9 @@
+nsubj	says	Iran
+root	ROOT	says
+xcomp	says	ready
+case	round	for
+amod	round	fresh
+nmod:for	ready	round
+case	talks	of
+amod	talks	nuclear
+nmod:of	round	talks

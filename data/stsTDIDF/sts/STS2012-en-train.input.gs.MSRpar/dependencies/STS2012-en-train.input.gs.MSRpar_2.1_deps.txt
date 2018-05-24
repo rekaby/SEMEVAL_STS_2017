@@ -1,0 +1,11 @@
+nsubj	declared	Micron
+aux	declared	has
+root	ROOT	declared
+nmod:poss	profit	its
+amod	profit	first
+amod	profit	quarterly
+dobj	declared	profit
+case	years	for
+nummod	years	three
+nmod:for	profit	years
+punct	declared	.

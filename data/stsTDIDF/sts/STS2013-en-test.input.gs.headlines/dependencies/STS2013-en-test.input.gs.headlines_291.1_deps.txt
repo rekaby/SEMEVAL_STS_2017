@@ -1,0 +1,5 @@
+nsubj	overtakes	Samsung
+root	ROOT	overtakes
+dobj	overtakes	Nokia
+case	phones	in
+nmod:in	overtakes	phones

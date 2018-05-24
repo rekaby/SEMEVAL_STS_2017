@@ -1,0 +1,8 @@
+compound	alarm	UN
+compound	alarm	voices
+root	ROOT	alarm
+case	strikes	over
+amod	strikes	Israeli
+nmod:over	alarm	strikes
+case	Syria	on
+nmod:on	strikes	Syria

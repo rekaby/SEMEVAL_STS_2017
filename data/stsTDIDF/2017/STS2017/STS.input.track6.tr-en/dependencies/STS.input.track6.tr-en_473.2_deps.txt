@@ -1,0 +1,10 @@
+det	reporters	The
+nsubj	interviewing	reporters
+aux	interviewing	are
+root	ROOT	interviewing
+dobj	interviewing	people
+case	home	in
+det	home	a
+compound	home	nursing
+nmod:in	interviewing	home
+punct	interviewing	.

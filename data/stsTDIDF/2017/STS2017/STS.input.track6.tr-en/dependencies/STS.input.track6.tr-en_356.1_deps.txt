@@ -1,0 +1,13 @@
+det	puddle	a
+amod	puddle	large
+amod	puddle	white
+nsubj	running	puddle
+root	ROOT	running
+case	flip-flop	along
+mwe	along	with
+det	flip-flop	a
+amod	flip-flop	pink
+nmod:along_with	running	flip-flop
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	flip-flop	mouth

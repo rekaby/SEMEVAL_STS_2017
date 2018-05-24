@@ -1,0 +1,9 @@
+compound	jet	Navy
+nsubj	crashes	jet
+root	ROOT	crashes
+case	apartments	into
+compound	apartments	US
+nmod:into	crashes	apartments
+punct	crashes	,
+dep	crashes	pilots
+dep	crashes	eject

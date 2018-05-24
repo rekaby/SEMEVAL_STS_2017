@@ -1,0 +1,10 @@
+root	ROOT	DealBook
+punct	DealBook	:
+compound	Surge	Dell
+compound	Surge	Shares
+dep	DealBook	Surge
+case	Report	After
+nmod:after	Surge	Report
+case	Buyout	of
+amod	Buyout	Possible
+nmod:of	Report	Buyout

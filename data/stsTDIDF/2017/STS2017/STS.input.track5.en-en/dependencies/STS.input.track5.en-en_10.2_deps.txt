@@ -1,0 +1,8 @@
+det	dogs	The
+root	ROOT	dogs
+dep	dogs	are
+advmod	are	alone
+case	forest	in
+det	forest	the
+nmod:in	alone	forest
+punct	dogs	.

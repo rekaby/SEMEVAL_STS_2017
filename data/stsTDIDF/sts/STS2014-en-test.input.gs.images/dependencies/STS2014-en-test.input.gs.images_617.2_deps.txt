@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+acl	man	talking
+case	bottles	with
+nummod	bottles	two
+compound	bottles	water
+nmod:with	talking	bottles
+acl	bottles	sitting
+case	him	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	sitting	him
+punct	man	.

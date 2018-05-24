@@ -1,0 +1,11 @@
+det	men	the
+nsubj	about	men
+cop	about	are
+root	ROOT	about
+mark	score	to
+acl	about	score
+case	tournament	in
+det	tournament	a
+compound	tournament	water
+compound	tournament	polo
+nmod:in	score	tournament

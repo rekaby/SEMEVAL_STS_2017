@@ -1,0 +1,14 @@
+det	language	Every
+nsubjpass	permeated	language
+auxpass	permeated	is
+root	ROOT	permeated
+case	values	by
+det	values	the
+amod	values	cultural
+nmod:agent	permeated	values
+case	which	in
+nmod:in	immersed	which
+nsubjpass	immersed	it
+auxpass	immersed	is
+acl:relcl	values	immersed
+punct	permeated	.

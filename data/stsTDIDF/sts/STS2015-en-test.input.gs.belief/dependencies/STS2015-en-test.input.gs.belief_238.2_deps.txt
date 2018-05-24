@@ -1,0 +1,6 @@
+nsubj	feel	anyone
+advmod	feel	else
+root	ROOT	feel
+case	this	like
+nmod:like	feel	this
+punct	feel	?

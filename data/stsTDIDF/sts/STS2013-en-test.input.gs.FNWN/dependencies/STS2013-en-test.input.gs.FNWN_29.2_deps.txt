@@ -1,0 +1,13 @@
+root	ROOT	devoid
+dep	devoid	of
+cc	of	or
+conj:or	of	deficient
+case	light	in
+dep	of	light
+cc	light	or
+conj:or	light	brightness
+punct	light	;
+conj:or	light	shadowed
+cc	shadowed	or
+conj:or	shadowed	black
+punct	devoid	;

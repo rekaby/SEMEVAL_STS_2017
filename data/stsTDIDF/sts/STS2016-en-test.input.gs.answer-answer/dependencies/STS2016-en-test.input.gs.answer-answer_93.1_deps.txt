@@ -1,0 +1,11 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	looking	you
+aux	looking	're
+ccomp	think	looking
+case	Mikey	for
+nmod:for	looking	Mikey
+punct	1992	-LRB-
+appos	Mikey	1992
+punct	1992	-RRB-
+punct	think	.

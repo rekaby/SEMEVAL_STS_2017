@@ -1,0 +1,7 @@
+det	man	A
+nsubj	paddling	man
+aux	paddling	is
+root	ROOT	paddling
+det	canoe	a
+dobj	paddling	canoe
+punct	paddling	.

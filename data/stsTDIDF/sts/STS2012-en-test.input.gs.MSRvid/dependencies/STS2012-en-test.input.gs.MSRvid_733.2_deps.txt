@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	placing	woman
+aux	placing	is
+root	ROOT	placing
+amod	food	skewered
+dobj	placing	food
+case	cooker	onto
+det	cooker	a
+nmod:onto	placing	cooker
+punct	placing	.

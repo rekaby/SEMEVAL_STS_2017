@@ -1,0 +1,9 @@
+det	person	A
+nsubj	folding	person
+cop	folding	is
+root	ROOT	folding
+det	piece	a
+amod	piece	square
+compound	piece	paper
+dobj	folding	piece
+punct	folding	.

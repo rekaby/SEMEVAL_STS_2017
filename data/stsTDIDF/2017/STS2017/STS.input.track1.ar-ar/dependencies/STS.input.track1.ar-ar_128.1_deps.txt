@@ -1,0 +1,8 @@
+det	boy	A
+root	ROOT	boy
+cc	boy	and
+advmod	balancing	happily
+conj:and	boy	balancing
+det	plate	a
+dobj	balancing	plate
+punct	boy	.

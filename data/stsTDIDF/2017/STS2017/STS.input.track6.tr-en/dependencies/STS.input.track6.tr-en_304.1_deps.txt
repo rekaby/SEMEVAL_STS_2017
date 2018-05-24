@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	large
+amod	dog	black
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	off
+det	pier	a
+dobj	jumping	pier
+case	pond	into
+det	pond	a
+nmod:into	jumping	pond
+punct	jumping	.

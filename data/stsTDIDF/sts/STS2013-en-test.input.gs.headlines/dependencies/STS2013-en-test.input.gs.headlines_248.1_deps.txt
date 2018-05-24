@@ -1,0 +1,8 @@
+nsubj	killed	9
+root	ROOT	killed
+case	attacks	in
+nmod:in	killed	attacks
+case	day	after
+amod	day	deadly
+compound	day	Iraq
+nmod:after	attacks	day

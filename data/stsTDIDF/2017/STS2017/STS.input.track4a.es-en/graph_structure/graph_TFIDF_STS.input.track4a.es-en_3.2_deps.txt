@@ -1,0 +1,8 @@
+pier	a	det
+play	children	nsubj
+pier	by	case
+play	water	nmod:in
+pier	and	cc
+children	Two	nummod
+play	pier	nmod:by
+pier	building	conj:and

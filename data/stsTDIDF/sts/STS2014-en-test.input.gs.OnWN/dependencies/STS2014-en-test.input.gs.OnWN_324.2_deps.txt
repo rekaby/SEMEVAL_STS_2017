@@ -1,0 +1,15 @@
+root	ROOT	obtain
+cc	obtain	or
+conj:or	obtain	retrieve
+case	device	from
+det	device	a
+compound	device	storage
+nmod:from	retrieve	device
+punct	obtain	;
+case	information	as
+mwe	as	of
+nmod:as_of	obtain	information
+case	computer	on
+det	computer	a
+nmod:on	information	computer
+punct	obtain	.

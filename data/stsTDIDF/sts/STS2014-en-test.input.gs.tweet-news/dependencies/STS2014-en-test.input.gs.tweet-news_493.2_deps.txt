@@ -1,0 +1,12 @@
+csubj	Begins	Making
+nsubj	Liberal	It
+amod	Liberal	Last
+punct	Liberal	:
+amod	Liberal	Conservative
+compound	Liberal	Meets
+xcomp	Making	Liberal
+punct	Liberal	,
+cc	Liberal	and
+amod	Marriage	40-Year
+conj:and	Liberal	Marriage
+root	ROOT	Begins

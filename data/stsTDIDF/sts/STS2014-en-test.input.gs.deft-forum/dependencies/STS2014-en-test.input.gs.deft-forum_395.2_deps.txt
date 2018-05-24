@@ -1,0 +1,11 @@
+advmod	make	Then
+nmod:poss	confusion	your
+nsubj	make	confusion
+aux	make	does
+neg	make	n't
+root	ROOT	make
+nsubj	liar	me
+det	liar	a
+xcomp	make	liar
+advmod	liar	either
+punct	make	.

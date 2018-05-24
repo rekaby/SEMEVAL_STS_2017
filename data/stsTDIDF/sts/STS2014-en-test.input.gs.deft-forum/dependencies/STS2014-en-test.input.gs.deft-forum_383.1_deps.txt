@@ -1,0 +1,12 @@
+root	ROOT	depending
+case	which	on
+nmod:on	furthers	which
+nsubj	furthers	action
+ccomp	depending	furthers
+nmod:poss	agenda	their
+amod	agenda	loony-tunes
+dobj	furthers	agenda
+case	moment	of
+det	moment	the
+nmod:of	agenda	moment
+punct	depending	.

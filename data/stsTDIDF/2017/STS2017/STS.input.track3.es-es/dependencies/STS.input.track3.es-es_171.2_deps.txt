@@ -1,0 +1,12 @@
+det	woman	An
+amod	woman	old
+nsubj	blowing	woman
+aux	blowing	is
+root	ROOT	blowing
+dobj	blowing	candles
+case	cake	on
+nmod:poss	cake	her
+amod	cake	three-tiered
+compound	cake	birthday
+nmod:on	blowing	cake
+punct	blowing	.

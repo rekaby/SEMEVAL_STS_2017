@@ -1,0 +1,12 @@
+det:predet	those	All
+root	ROOT	those
+nsubj	work	who
+acl:relcl	those	work
+advmod	job	currently
+case	job	out
+det	job	a
+nmod:out	work	job
+case	conditions	in
+amod	conditions	social
+nmod:in	job	conditions
+punct	those	.

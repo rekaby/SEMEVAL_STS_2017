@@ -1,0 +1,10 @@
+dog	white	amod
+dog	brown	amod
+field	across	case
+dog	and	cc
+dog	running	conj:and
+ROOT	dog	root
+field	grassy	amod
+dog	.	punct
+running	dog	nsubj
+running	field	nmod:across

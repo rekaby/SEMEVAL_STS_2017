@@ -1,0 +1,10 @@
+nsubj	sit	People
+root	ROOT	sit
+case	train	on
+det	train	a
+compound	train	subway
+nmod:on	sit	train
+nsubj	goes	that
+acl:relcl	train	goes
+dobj	goes	Downtown
+punct	sit	.

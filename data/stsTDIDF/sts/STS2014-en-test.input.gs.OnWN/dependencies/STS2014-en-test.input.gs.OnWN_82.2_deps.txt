@@ -1,0 +1,14 @@
+root	ROOT	framework
+acl	framework	consisting
+case	design	of
+det	design	an
+amod	design	ornamental
+nmod:of	consisting	design
+acl	design	made
+case	strips	of
+nmod:of	made	strips
+case	wood	of
+nmod:of	strips	wood
+cc	wood	or
+conj:or	wood	metal
+punct	framework	.

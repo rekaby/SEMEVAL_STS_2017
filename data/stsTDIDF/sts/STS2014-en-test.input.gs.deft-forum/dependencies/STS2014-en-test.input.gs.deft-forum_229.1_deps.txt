@@ -1,0 +1,15 @@
+mark	angry	If
+nsubj	angry	I
+cop	angry	'm
+advcl	show	angry
+punct	show	,
+nsubj	show	it
+aux	show	will
+root	ROOT	show
+compound:prt	show	up
+case	one	in
+nmod:in	show	one
+case	scans	of
+det	scans	those
+nmod:of	one	scans
+punct	show	.-15) root(ROOT-0, .

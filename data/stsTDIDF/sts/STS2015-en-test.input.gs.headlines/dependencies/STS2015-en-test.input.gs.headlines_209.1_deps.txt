@@ -1,0 +1,7 @@
+amod	wreckage	Russian
+compound	wreckage	aircraft
+root	ROOT	wreckage
+acl	wreckage	found
+case	year	after
+det	year	a
+nmod:after	found	year

@@ -1,0 +1,6 @@
+ROOT	kissing	root
+kissing	man	nsubj
+kissing	.	punct
+kissing	is	aux
+kissing	crowd	nmod:in
+kissing	wife	nmod:with

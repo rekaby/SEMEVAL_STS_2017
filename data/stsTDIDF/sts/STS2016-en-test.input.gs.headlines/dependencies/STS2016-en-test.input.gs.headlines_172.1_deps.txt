@@ -1,0 +1,8 @@
+dep	dons	Prince
+nsubj	dons	William
+root	ROOT	dons
+compound	gear	samurai
+dobj	dons	gear
+case	Japan	on
+nmod:on	dons	Japan
+dep	dons	tour

@@ -1,0 +1,6 @@
+det	thing	The
+amod	thing	appropriate
+cc	appropriate	or
+conj:or	appropriate	desirable
+root	ROOT	thing
+punct	thing	.

@@ -1,0 +1,12 @@
+det	thing	The
+amod	thing	best
+nsubj	is	thing
+nsubj	do	you
+aux	do	can
+acl:relcl	thing	do
+root	ROOT	is
+mark	know	to
+xcomp	is	know
+nmod:poss	stuff	your
+dobj	know	stuff
+punct	is	.

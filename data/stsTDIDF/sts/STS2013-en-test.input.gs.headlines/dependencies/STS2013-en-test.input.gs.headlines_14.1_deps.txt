@@ -1,0 +1,11 @@
+nsubj	kills	Teenager
+case	China	in
+nmod:in	Teenager	China
+root	ROOT	kills
+dobj	kills	8
+punct	8	,
+appos	8	wounds
+nummod	wounds	5
+case	attack	in
+compound	attack	knife
+nmod:in	5	attack

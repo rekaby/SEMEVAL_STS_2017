@@ -1,0 +1,8 @@
+det	man	A
+nsubj	puts	man
+root	ROOT	puts
+dobj	puts	vegetables
+case	pot	into
+det	pot	a
+nmod:into	puts	pot
+punct	puts	.

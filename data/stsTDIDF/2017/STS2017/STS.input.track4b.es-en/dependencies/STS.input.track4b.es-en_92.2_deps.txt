@@ -1,0 +1,12 @@
+aux	do	Do
+neg	do	not
+root	ROOT	do
+dobj	do	it
+punct	do	,
+aux	enter	do
+neg	enter	not
+dep	do	enter
+nmod:poss	needles	my
+compound	needles	dream
+dobj	enter	needles
+punct	do	.

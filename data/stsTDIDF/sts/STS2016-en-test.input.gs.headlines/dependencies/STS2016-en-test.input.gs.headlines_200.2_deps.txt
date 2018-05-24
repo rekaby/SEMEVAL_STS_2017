@@ -1,0 +1,11 @@
+root	ROOT	`
+root	`	Bookkeeper
+case	Sentenced	of
+nmod:poss	Sentenced	Auschwitz
+case	Auschwitz	'
+nmod:of	Bookkeeper	Sentenced
+case	Years	to
+nummod	Years	Four
+nmod:to	Bookkeeper	Years
+case	Prison	in
+nmod:in	Years	Prison

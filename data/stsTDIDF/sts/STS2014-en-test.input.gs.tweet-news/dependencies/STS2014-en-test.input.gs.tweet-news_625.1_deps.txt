@@ -1,0 +1,6 @@
+amod	sights	#Djokovic
+compound	sights	sets
+root	ROOT	sights
+case	party	on
+compound	party	#Paris
+nmod:on	sights	party

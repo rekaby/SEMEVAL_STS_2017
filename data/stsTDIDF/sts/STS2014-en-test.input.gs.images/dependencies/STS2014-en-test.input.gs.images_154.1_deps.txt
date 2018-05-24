@@ -1,0 +1,7 @@
+compound	cat	Gray
+nsubj	looking	cat
+root	ROOT	looking
+compound:prt	looking	out
+det	window	the
+dobj	looking	window
+punct	looking	.

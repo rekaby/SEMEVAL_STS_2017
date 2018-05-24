@@ -1,0 +1,8 @@
+dobj	know	i
+advmod	dont	really
+nsubj	know	dont
+root	ROOT	know
+dobj	do	what
+mark	do	to
+ccomp	know	do
+punct	know	...

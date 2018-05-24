@@ -1,0 +1,12 @@
+root	ROOT	Dozens
+case	Egyptians	of
+nmod:of	Dozens	Egyptians
+dep	Dozens	hostages
+acl	hostages	taken
+case	terrorists	by
+amod	terrorists	Libyan
+nmod:by	taken	terrorists
+case	revenge	as
+nmod:as	taken	revenge
+case	airstrikes	for
+nmod:for	revenge	airstrikes

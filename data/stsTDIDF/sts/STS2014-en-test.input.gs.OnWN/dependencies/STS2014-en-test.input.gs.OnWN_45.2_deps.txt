@@ -1,0 +1,10 @@
+det	event	the
+root	ROOT	event
+case	fading	of
+nmod:of	event	fading
+cc	fading	and
+advmod	vanishing	gradually
+conj:and	fading	vanishing
+case	sight	from
+nmod:from	vanishing	sight
+punct	event	.

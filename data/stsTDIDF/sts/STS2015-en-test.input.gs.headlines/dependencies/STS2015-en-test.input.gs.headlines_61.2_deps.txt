@@ -1,0 +1,11 @@
+compound	orders	Japan
+compound	orders	Airlines
+root	ROOT	orders
+nummod	A350s	31
+compound	A350s	Airbus
+nsubj	bn	A350s
+acl	A350s	valued
+case	$	at
+nmod:at	valued	$
+nummod	$	9.5
+acl:relcl	orders	bn

@@ -1,0 +1,6 @@
+nsubj	jumping	Children
+root	ROOT	jumping
+case	trampoline	on
+det	trampoline	a
+nmod:on	jumping	trampoline
+punct	jumping	.

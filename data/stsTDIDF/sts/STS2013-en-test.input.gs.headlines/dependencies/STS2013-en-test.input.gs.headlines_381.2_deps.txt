@@ -1,0 +1,8 @@
+nsubj	urges	Obama
+root	ROOT	urges
+dobj	urges	Europe
+mark	act	to
+xcomp	urges	act
+advmod	act	quickly
+case	crisis	on
+nmod:on	act	crisis

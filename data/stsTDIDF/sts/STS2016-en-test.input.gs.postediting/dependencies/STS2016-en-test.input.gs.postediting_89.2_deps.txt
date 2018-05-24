@@ -1,0 +1,5 @@
+root	ROOT	Conseillera
+punct	Conseillera	,
+advmod	choose	how
+nsubj	choose	you
+acl:relcl	Conseillera	choose

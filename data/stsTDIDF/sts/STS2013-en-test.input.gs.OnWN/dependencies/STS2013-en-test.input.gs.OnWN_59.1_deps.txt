@@ -1,0 +1,7 @@
+root	ROOT	become
+det	owner	the
+xcomp	become	owner
+cc	owner	or
+conj:or	owner	posessor
+case	something	of
+nmod:of	owner	something

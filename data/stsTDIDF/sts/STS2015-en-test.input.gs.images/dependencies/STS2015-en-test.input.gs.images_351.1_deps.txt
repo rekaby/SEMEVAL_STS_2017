@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	food	with
+nmod:with	running	food
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	running	mouth
+punct	running	.

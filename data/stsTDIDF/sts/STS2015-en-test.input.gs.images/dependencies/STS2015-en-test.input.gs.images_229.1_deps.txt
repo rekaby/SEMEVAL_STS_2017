@@ -1,0 +1,12 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	group	are
+case	convention	at
+det	convention	a
+nmod:at	are	convention
+acl	convention	waving
+amod	flags	American
+dobj	waving	flags
+punct	group	.

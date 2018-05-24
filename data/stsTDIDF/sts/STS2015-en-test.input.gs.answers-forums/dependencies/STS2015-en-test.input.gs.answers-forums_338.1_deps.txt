@@ -1,0 +1,17 @@
+nummod	thing	One
+nsubj	stories	thing
+nsubj	seem	you
+acl:relcl	thing	seem
+mark	forgetting	to
+aux	forgetting	be
+xcomp	seem	forgetting
+case	myths	regarding
+nmod:regarding	forgetting	myths
+punct	thing	,
+cop	stories	is
+nsubj	prevalent	they
+cop	prevalent	are
+advmod	prevalent	extremely
+amod	stories	prevalent
+root	ROOT	stories
+punct	stories	.

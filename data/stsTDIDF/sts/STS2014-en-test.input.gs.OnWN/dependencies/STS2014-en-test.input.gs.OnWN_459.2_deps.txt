@@ -1,0 +1,8 @@
+root	ROOT	make
+cc	make	or
+conj:or	make	become
+advmod	narrow	more
+xcomp	become	narrow
+cc	narrow	or
+conj:or	narrow	restricted
+punct	make	.

@@ -1,0 +1,7 @@
+is	lady	nsubj
+hands	two	nummod
+carrying	children	dobj
+lady	a	det
+hands	her	nmod:poss
+lady	carrying	acl
+carrying	hands	nmod:in

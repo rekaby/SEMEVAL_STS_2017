@@ -1,0 +1,15 @@
+det	woman	A
+nsubjpass	prosecuted	woman
+nsubj	underwent	who
+acl:relcl	woman	underwent
+det:predet	abortion	such
+det	abortion	an
+dobj	underwent	abortion
+aux	prosecuted	could
+neg	prosecuted	not
+auxpass	prosecuted	be
+root	ROOT	prosecuted
+case	bill	under
+det	bill	the
+nmod:under	prosecuted	bill
+punct	prosecuted	.

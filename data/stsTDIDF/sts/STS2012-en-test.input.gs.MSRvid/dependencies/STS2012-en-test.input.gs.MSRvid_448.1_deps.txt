@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	splits	woman
+root	ROOT	splits
+amod	cloves	garlic
+dobj	splits	cloves
+punct	splits	.

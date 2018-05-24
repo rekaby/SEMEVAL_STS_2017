@@ -1,0 +1,12 @@
+nsubj	voted	I
+root	ROOT	voted
+case	sphere	for
+det	sphere	the
+compound	sphere	dyson
+nmod:for	voted	sphere
+mark	realistic	as
+cop	realistic	being
+det	realistic	the
+amod	realistic	biggest
+advcl	voted	realistic
+punct	voted	.

@@ -1,0 +1,17 @@
+advmod	convince	How
+aux	convince	can
+nsubj	convince	I
+root	ROOT	convince
+nmod:poss	boss	my
+dobj	convince	boss
+nsubj	person	I
+cop	person	am
+det	person	the
+amod	person	right
+acl:relcl	boss	person
+mark	lead	to
+acl	person	lead
+det	team	a
+amod	team	future
+dobj	lead	team
+punct	convince	?

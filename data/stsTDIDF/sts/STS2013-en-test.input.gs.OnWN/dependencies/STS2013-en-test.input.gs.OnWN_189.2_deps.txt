@@ -1,0 +1,8 @@
+root	ROOT	give
+det	explanation	a
+amod	explanation	deceptive
+dobj	give	explanation
+cc	give	or
+conj:or	give	excuse
+acl	excuse	for
+punct	give	.

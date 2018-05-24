@@ -1,0 +1,7 @@
+amod	News	Top
+compound	News	Asian
+root	ROOT	News
+case	2:30	at
+nmod:at	News	2:30
+advmod	2:30	p.m.
+dep	News	GMT

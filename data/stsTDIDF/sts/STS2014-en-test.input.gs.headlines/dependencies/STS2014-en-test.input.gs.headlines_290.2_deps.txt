@@ -1,0 +1,7 @@
+nsubj	ready	Germany
+root	ROOT	ready
+mark	help	to
+xcomp	ready	help
+compound	mission	Syria
+compound	mission	chemical
+dobj	help	mission

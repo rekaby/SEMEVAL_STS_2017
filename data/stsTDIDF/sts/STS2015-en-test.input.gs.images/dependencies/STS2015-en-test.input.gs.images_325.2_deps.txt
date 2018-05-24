@@ -1,0 +1,9 @@
+nummod	dogs	Three
+nsubj	round	dogs
+root	ROOT	round
+det	bend	a
+dobj	round	bend
+case	racetrack	at
+det	racetrack	a
+nmod:at	round	racetrack
+punct	round	.

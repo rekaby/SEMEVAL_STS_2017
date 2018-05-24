@@ -1,0 +1,13 @@
+nsubj	refused	some
+root	ROOT	refused
+mark	go	to
+xcomp	refused	go
+mark	want	because
+nsubj	want	they
+aux	want	did
+neg	want	n't
+advcl	go	want
+mark	killed	to
+auxpass	killed	be
+xcomp	want	killed
+punct	refused	.

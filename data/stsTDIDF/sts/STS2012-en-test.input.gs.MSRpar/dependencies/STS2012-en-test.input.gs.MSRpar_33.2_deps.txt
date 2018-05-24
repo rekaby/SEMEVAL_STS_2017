@@ -1,0 +1,14 @@
+det	man	The
+amod	man	dead
+nsubjpass	found	man
+punct	man	,
+compound	Williams	Leon
+appos	man	Williams
+punct	man	,
+auxpass	found	was
+root	ROOT	found
+case	apartment	in
+nmod:poss	apartment	his
+amod	apartment	third-floor
+nmod:in	found	apartment
+punct	found	.

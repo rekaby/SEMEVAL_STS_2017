@@ -1,0 +1,7 @@
+advmod	announce	formally
+root	ROOT	announce
+det	termination	the
+dobj	announce	termination
+case	agreement	of
+det	agreement	an
+nmod:of	termination	agreement

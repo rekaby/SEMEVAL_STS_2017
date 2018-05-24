@@ -1,0 +1,9 @@
+root	ROOT	Police
+punct	Police	:
+nsubj	taking	Four
+acl	Four	killed
+case	hostage	in
+amod	hostage	German
+nmod:in	killed	hostage
+dep	Police	taking
+dobj	taking	incident

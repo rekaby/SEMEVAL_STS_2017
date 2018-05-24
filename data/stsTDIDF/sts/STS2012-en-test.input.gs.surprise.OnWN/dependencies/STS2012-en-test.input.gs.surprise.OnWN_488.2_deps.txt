@@ -1,0 +1,4 @@
+root	ROOT	provide
+case	rails	with
+nmod:with	provide	rails
+punct	provide	.

@@ -1,0 +1,8 @@
+punct	content	-LRB-
+det	content	the
+root	ROOT	content
+case	communication	of
+punct	communication	-RRB-
+det	communication	a
+nmod:of	content	communication
+punct	content	.

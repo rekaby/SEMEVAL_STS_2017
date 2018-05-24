@@ -1,0 +1,8 @@
+talking	were	aux
+people	sitting	acl
+sitting	building	nmod:next_to
+building	large	amod
+building	talking	acl:relcl
+talking	where	advmod
+talking	they	nsubj
+building	next	case

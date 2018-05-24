@@ -1,0 +1,16 @@
+compound	Halla	Brian
+nsubj	claimed	Halla
+punct	Halla	,
+appos	Halla	CEO
+case	NatSemi	of
+nmod:of	CEO	NatSemi
+punct	Halla	,
+root	ROOT	claimed
+det	deal	the
+nsubj	made	deal
+ccomp	claimed	made
+dobj	made	sense
+case	companies	for
+det	companies	both
+nmod:for	sense	companies
+punct	claimed	.

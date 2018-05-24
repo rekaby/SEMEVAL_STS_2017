@@ -1,0 +1,16 @@
+punct	DrPizza	-
+compound	DrPizza	Admin
+nsubj	forgotten	DrPizza
+cc	DrPizza	and
+conj:and	DrPizza	i
+aux	forgotten	'd
+root	ROOT	forgotten
+xcomp	forgotten	what
+det	bed	a
+amod	bed	whiny
+amod	bed	little
+nsubj	what	bed
+acl	bed	wetter
+nsubj	are	you
+ccomp	wetter	are
+punct	forgotten	.

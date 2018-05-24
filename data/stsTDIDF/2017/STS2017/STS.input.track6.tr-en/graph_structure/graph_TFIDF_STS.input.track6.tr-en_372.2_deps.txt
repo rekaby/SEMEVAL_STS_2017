@@ -1,0 +1,11 @@
+piles	sweater	compound
+rake	a	det
+leaves	rake	nmod:with
+rake	with	case
+piles	a	det
+piles	red	amod
+boy	piles	nmod:with
+piles	leaves	nmod:up
+leaves	up	case
+piles	with	case
+leaves	the	det

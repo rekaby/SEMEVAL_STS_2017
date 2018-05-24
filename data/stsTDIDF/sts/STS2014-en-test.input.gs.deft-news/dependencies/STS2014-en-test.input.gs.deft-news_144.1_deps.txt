@@ -1,0 +1,14 @@
+det	forces	the
+amod	forces	conventional
+nsubjpass	considered	forces
+case	treaty	in
+compound	treaty	europe
+nmod:in	forces	treaty
+auxpass	considered	is
+root	ROOT	considered
+det	arms	a
+amod	arms	key
+nsubj	treaty	arms
+compound	treaty	control
+xcomp	considered	treaty
+punct	considered	.

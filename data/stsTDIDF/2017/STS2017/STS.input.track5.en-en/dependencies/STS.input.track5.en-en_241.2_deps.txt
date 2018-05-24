@@ -1,0 +1,11 @@
+det	kid	A
+root	ROOT	kid
+acl	kid	sitting
+case	ball	on
+det	ball	a
+compound	ball	soccer
+nmod:on	sitting	ball
+case	park	at
+det	park	the
+nmod:at	sitting	park
+punct	kid	.

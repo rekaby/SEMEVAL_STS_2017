@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+neg	difference	no
+nsubj	is	difference
+case	states	in
+amod	states	electrical
+nmod:in	difference	states
+punct	is	.

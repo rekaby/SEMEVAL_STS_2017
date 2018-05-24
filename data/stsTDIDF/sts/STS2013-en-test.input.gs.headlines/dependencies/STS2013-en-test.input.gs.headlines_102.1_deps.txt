@@ -1,0 +1,8 @@
+root	ROOT	`
+neg	Evidence	No
+root	`	Evidence
+punct	Case	'
+case	Case	In
+compound	Case	Afghanistan
+compound	Case	Massacre
+nmod:in	Evidence	Case

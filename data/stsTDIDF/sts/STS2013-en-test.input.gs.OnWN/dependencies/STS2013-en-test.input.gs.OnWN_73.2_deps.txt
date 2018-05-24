@@ -1,0 +1,7 @@
+root	ROOT	perceive
+mark	inhaling	by
+advcl	perceive	inhaling
+case	nose	through
+det	nose	the
+nmod:through	inhaling	nose
+punct	perceive	.

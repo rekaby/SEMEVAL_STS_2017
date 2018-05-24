@@ -1,0 +1,27 @@
+det	agent	an
+nsubj	performs	agent
+root	ROOT	performs
+det	action	a
+compound	action	response
+dobj	performs	action
+case	consequence	in
+nmod:in	action	consequence
+case	event	of
+det	event	a
+compound	event	trigger
+nmod:of	consequence	event
+punct	performs	.-13) case(cases-3, in
+amod	cases	many
+nmod:in	causes	cases
+punct	causes	,
+det	responding_entity	a
+amod	responding_entity	non-agentive
+nsubj	causes	responding_entity
+root	ROOT	causes
+det	response	the
+dobj	causes	response
+mark	occurs	after
+det	trigger	the
+nsubj	occurs	trigger
+advcl	causes	occurs
+punct	causes	.

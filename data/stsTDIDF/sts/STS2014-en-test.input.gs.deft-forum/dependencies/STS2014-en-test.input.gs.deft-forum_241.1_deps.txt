@@ -1,0 +1,8 @@
+nmod:poss	work	Mann
+case	Mann	's
+root	ROOT	work
+dep	work	was
+nsubj	was	all
+case	math	about
+nmod:about	all	math
+punct	work	.

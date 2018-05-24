@@ -1,0 +1,12 @@
+det	woman	A
+amod	woman	topless
+nsubjpass	covered	woman
+case	face	with
+nmod:poss	face	her
+nmod:with	woman	face
+acl	face	painted
+auxpass	covered	is
+root	ROOT	covered
+case	mud	in
+nmod:in	covered	mud
+punct	covered	.

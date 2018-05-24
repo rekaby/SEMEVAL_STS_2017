@@ -1,0 +1,6 @@
+nsubj	clash	Police
+punct	clash	,
+nsubj	clash	protesters
+root	ROOT	clash
+case	Pakistan	in
+nmod:in	clash	Pakistan

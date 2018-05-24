@@ -1,0 +1,16 @@
+nummod	boys	Two
+amod	boys	young
+root	ROOT	boys
+cc	boys	and
+nummod	man	one
+amod	man	young
+conj:and	boys	man
+acl	man	run
+case	beach	on
+det	beach	a
+nmod:on	run	beach
+case	water	with
+nmod:with	run	water
+case	them	behind
+nmod:behind	water	them
+punct	boys	.

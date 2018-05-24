@@ -1,0 +1,7 @@
+compound	unemployment	Eurozone
+nsubj	stays	unemployment
+root	ROOT	stays
+case	percent	at
+compound	percent	record
+nummod	percent	11
+nmod:at	stays	percent

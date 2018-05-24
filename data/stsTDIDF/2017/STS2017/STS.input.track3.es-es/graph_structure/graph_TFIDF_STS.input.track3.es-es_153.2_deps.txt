@@ -1,0 +1,5 @@
+eating	is	aux
+ROOT	eating	root
+eating	.	punct
+eating	out	compound:prt
+eating	family	nsubj

@@ -1,0 +1,15 @@
+det	Blog	The
+compound	Blog	Choice
+root	ROOT	Blog
+punct	Blog	:
+dep	Blog	Lessons
+case	Student	From
+det	Student	a
+compound	Student	College
+nmod:from	Lessons	Student
+punct	Lessons	:
+dep	Lessons	Finding
+nmod:poss	Fit	Your
+dobj	Finding	Fit
+case	Campus	on
+nmod:on	Finding	Campus

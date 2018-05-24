@@ -1,0 +1,12 @@
+root	ROOT	What
+cop	What	's
+det	way	the
+amod	way	best
+nsubj	What	way
+mark	keep	to
+acl	way	keep
+nmod:poss	garage	my
+dobj	keep	garage
+case	freezing	from
+nmod:from	keep	freezing
+punct	What	?

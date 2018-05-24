@@ -1,0 +1,7 @@
+nsubj	announces	Romney
+root	ROOT	announces
+compound	Ryan	Paul
+dobj	announces	Ryan
+mark	running	as
+advcl	announces	running
+dobj	running	mate

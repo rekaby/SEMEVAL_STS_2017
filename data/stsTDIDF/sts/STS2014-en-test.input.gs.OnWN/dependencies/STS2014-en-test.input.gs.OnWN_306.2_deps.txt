@@ -1,0 +1,7 @@
+root	ROOT	approach
+det	age	a
+amod	age	certain
+dobj	approach	age
+cc	age	or
+conj:or	age	speed
+punct	approach	.

@@ -1,0 +1,10 @@
+root	ROOT	Details
+case	visit	of
+compound	Kyi	Aung
+compound	Kyi	San
+compound	Kyi	Suu
+nmod:poss	visit	Kyi
+case	Kyi	's
+nmod:of	Details	visit
+case	Ireland	to
+nmod:to	visit	Ireland

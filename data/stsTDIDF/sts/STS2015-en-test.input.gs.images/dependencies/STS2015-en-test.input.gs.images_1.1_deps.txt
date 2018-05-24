@@ -1,0 +1,10 @@
+det	pair	A
+root	ROOT	pair
+case	dogs	of
+nmod:of	pair	dogs
+acl	dogs	playing
+case	ball	with
+det	ball	a
+amod	ball	purple
+nmod:with	playing	ball
+punct	pair	.

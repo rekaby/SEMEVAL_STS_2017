@@ -1,0 +1,6 @@
+Firemen	.	punct
+stairs	of	case
+Firemen	looking	acl
+set	stairs	nmod:of
+ROOT	Firemen	root
+looking	set	dobj

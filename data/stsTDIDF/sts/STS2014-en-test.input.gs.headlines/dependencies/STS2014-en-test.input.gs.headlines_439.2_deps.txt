@@ -1,0 +1,9 @@
+compound	Congress	US
+nsubj	throw	Congress
+aux	throw	may
+root	ROOT	throw
+dobj	throw	wrench
+case	Iran	into
+nmod:into	throw	Iran
+amod	deal	nuclear
+dobj	throw	deal

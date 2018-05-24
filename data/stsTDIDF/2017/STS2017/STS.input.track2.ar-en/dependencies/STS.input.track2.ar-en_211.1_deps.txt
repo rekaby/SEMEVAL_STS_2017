@@ -1,0 +1,7 @@
+nsubj	trying	Someone
+aux	trying	is
+root	ROOT	trying
+mark	trim	to
+xcomp	trying	trim
+det	plants	the
+dobj	trim	plants

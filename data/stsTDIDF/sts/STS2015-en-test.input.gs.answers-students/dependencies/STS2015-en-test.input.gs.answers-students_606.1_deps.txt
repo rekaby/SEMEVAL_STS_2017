@@ -1,0 +1,14 @@
+root	ROOT	bulbs
+nsubj	all	a
+punct	a	,
+conj:and	a	b
+punct	a	,
+cc	a	and
+conj:and	a	c
+cop	all	are
+acl:relcl	bulbs	all
+case	path	in
+det	path	the
+amod	path	same
+nmod:in	all	path
+punct	bulbs	.

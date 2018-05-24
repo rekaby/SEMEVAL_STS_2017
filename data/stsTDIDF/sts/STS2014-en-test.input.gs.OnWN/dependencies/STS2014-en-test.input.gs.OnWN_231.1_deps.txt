@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	enumerating	of
+nmod:of	act	enumerating
+cc	enumerating	or
+conj:or	enumerating	tallying
+det	total	a
+nmod:npmod	enumerating	total

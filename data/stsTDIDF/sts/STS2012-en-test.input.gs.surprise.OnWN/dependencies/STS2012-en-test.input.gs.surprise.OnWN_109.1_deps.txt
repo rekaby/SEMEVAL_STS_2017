@@ -1,0 +1,14 @@
+det	state	the
+root	ROOT	state
+mark	believing	of
+acl	state	believing
+mark	having	in
+punct	having	,
+cc	having	or
+advcl	believing	having
+dobj	having	confidence
+case	something	in
+punct	something	,
+nmod:in	having	something
+cc	something	or
+conj:or	something	someone

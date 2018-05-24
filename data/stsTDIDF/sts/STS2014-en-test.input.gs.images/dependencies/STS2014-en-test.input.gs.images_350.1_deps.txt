@@ -1,0 +1,13 @@
+det	horse	A
+root	ROOT	horse
+acl	horse	standing
+case	gate	near
+det	gate	a
+nmod:near	standing	gate
+case	horse	with
+det	horse	another
+nmod:with	standing	horse
+case	background	in
+det	background	the
+nmod:in	standing	background
+punct	horse	.

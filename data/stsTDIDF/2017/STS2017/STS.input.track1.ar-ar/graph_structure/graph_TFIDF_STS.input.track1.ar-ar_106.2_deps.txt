@@ -1,0 +1,8 @@
+floating	ocean	nmod:in
+fish	at	case
+look	children	nsubj
+children	Three	nummod
+look	fish	nmod:at
+fish	floating	acl
+fish	dead	amod
+ocean	in	case

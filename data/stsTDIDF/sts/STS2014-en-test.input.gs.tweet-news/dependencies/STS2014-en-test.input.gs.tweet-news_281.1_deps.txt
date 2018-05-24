@@ -1,0 +1,21 @@
+root	ROOT	Sad
+cc	Sad	but
+amod	memories	brings
+amod	memories	back
+conj:but	Sad	memories
+case	hands	of
+amod	hands	ink-stained
+nmod:of	memories	hands
+dep	Sad	reading
+nmod:poss	column	her
+dobj	reading	column
+punct	Sad	.-12) det(life-3, What
+det	life	a
+root	ROOT	life
+punct	life	.-4) root(ROOT-0, NYTimes
+punct	NYTimes	:
+compound	Abby	Dear
+nsubj	Dies	Abby
+dep	NYTimes	Dies
+case	94	at
+nmod:at	Dies	94

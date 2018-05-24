@@ -1,0 +1,7 @@
+det	man	The
+nsubj	aiming	man
+aux	aiming	is
+root	ROOT	aiming
+det	gun	a
+dobj	aiming	gun
+punct	aiming	.

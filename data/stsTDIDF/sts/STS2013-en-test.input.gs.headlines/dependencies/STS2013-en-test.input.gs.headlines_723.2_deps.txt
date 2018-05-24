@@ -1,0 +1,5 @@
+nsubj	voted	Rangers
+root	ROOT	voted
+case	division	into
+amod	division	third
+nmod:into	voted	division

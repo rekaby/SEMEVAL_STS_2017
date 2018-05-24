@@ -1,0 +1,8 @@
+det	man	The
+nsubj	shooting	man
+aux	shooting	is
+root	ROOT	shooting
+det	rifle	an
+amod	rifle	automatic
+dobj	shooting	rifle
+punct	shooting	.

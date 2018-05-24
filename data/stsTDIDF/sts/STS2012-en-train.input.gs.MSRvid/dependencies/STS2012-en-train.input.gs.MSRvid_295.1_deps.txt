@@ -1,0 +1,5 @@
+det	cat	A
+nsubj	cleans	cat
+root	ROOT	cleans
+dobj	cleans	itself
+punct	cleans	.

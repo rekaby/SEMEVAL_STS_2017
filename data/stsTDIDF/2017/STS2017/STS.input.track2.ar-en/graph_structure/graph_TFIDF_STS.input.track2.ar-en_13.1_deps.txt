@@ -1,0 +1,5 @@
+bikes	red	amod
+ride	people	nsubj
+ROOT	ride	root
+ride	bikes	dobj
+ride	.	punct

@@ -1,0 +1,10 @@
+pants	tan	compound
+sidewalk	a	det
+sitting	man	nsubj
+sitting	sidewalk	nmod:on
+pants	and	cc
+sidewalk	resting	acl
+wearing	pants	dobj
+pants	shirt	conj:and
+sidewalk	on	case
+shirt	blue	amod

@@ -1,0 +1,6 @@
+ramp	on	case
+makes	skateboarder	nsubj
+ramp	the	det
+makes	number	dobj
+number	ramp	nmod:on
+skateboarder	A	det

@@ -1,0 +1,8 @@
+amod	personnel	military
+nsubj	lost	personnel
+root	ROOT	lost
+case	death	by
+nmod:by	lost	death
+cc	death	or
+conj:or	death	capture
+punct	lost	.

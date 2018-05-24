@@ -1,0 +1,8 @@
+compound	flights	Southwest
+root	ROOT	flights
+acl	flights	delayed
+punct	flights	,
+acl	flights	canceled
+case	glitch	after
+compound	glitch	computer
+nmod:after	canceled	glitch

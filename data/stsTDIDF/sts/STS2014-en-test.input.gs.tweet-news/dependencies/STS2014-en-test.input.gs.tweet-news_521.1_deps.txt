@@ -1,0 +1,24 @@
+root	ROOT	``
+nsubj	attempt	Vine
+cop	attempt	is
+nmod:poss	attempt	Twitter
+case	Twitter	's
+root	``	attempt
+mark	Instagram	to
+cop	Instagram	be
+det	Instagram	the
+xcomp	attempt	Instagram
+case	Video	of
+nmod:of	Instagram	Video
+punct	Instagram	,
+punct	Instagram	''
+compound	sentence	Form
+det	sentence	a
+amod	sentence	nerdier
+dep	Instagram	sentence
+punct	attempt	.-19) aux(try-3, Do
+neg	try	n't
+root	ROOT	try
+punct	try	!-4) nmod:poss(Impossible-2, Its
+root	ROOT	Impossible
+punct	Impossible	!

@@ -1,0 +1,11 @@
+nsubj	received	Parents
+root	ROOT	received
+dobj	received	letters
+acl	letters	informing
+dobj	informing	them
+case	contamination	of
+det	contamination	the
+amod	contamination	possible
+nmod:of	informing	contamination
+nmod:tmod	received	yesterday
+punct	received	.

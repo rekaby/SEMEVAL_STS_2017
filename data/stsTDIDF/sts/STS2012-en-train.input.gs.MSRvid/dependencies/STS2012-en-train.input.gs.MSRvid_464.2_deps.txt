@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+case	lipstick	on
+nmod:on	putting	lipstick
+punct	putting	.

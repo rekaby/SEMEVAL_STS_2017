@@ -1,0 +1,6 @@
+fight	snowball	compound
+kids	.	punct
+kids	Two	nummod
+ROOT	kids	root
+having	fight	dobj
+kids	having	acl

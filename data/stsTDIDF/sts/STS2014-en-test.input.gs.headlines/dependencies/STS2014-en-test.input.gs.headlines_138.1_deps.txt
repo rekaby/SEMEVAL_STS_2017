@@ -1,0 +1,7 @@
+nummod	case	Five
+acl	Five	convicted
+case	trafficking	in
+compound	trafficking	Kosovo
+compound	trafficking	organ
+nmod:in	convicted	trafficking
+root	ROOT	case

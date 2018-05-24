@@ -1,0 +1,7 @@
+root	ROOT	deal
+case	routine	with
+case	routine	according
+mwe	according	to
+nmod:according_to	deal	routine
+cc	routine	or
+conj:or	routine	procedure

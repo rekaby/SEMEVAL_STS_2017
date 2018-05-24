@@ -1,0 +1,13 @@
+det	dancer	A
+root	ROOT	dancer
+acl	dancer	posing
+case	camera	for
+det	camera	the
+nmod:for	posing	camera
+case	dress	in
+det	dress	a
+amod	dress	red
+cc	red	and
+conj:and	red	white
+nmod:in	camera	dress
+punct	dancer	.

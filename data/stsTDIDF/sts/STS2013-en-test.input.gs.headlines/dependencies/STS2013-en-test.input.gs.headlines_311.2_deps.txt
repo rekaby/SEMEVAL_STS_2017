@@ -1,0 +1,7 @@
+amod	marches	Israeli
+compound	marches	delegation
+root	ROOT	marches
+case	opener	in
+compound	Olympics	2012
+amod	opener	Olympics
+nmod:in	marches	opener

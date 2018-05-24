@@ -1,0 +1,14 @@
+nsubj	consisting	souvenir
+root	ROOT	consisting
+case	gift	of
+det	gift	a
+amod	gift	small
+nmod:of	consisting	gift
+acl	gift	given
+case	guest	to
+det	guest	a
+nmod:to	given	guest
+case	party	at
+det	party	a
+nmod:at	guest	party
+punct	consisting	.

@@ -1,0 +1,9 @@
+nsubj	urges	Annan
+root	ROOT	urges
+dobj	urges	end
+case	Syria	to
+nmod:to	end	Syria
+dep	Syria	violence
+punct	urges	,
+compound	defects	minister
+dobj	urges	defects

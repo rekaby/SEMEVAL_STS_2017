@@ -1,0 +1,12 @@
+det	battery	The
+nsubjpass	contaied	battery
+auxpass	contaied	is
+root	ROOT	contaied
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contaied	path
+case	component	without
+det	component	another
+nmod:without	contaied	component
+punct	contaied	.

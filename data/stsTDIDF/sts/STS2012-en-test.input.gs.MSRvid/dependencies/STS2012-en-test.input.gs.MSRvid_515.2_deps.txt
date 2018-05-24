@@ -1,0 +1,6 @@
+det	helicopter	A
+nsubj	flies	helicopter
+root	ROOT	flies
+case	water	over
+nmod:over	flies	water
+punct	flies	.

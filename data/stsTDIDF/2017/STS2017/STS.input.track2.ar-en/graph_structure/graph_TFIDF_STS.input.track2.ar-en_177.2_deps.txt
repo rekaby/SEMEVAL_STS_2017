@@ -1,0 +1,4 @@
+takes	seen	dep
+takes	man	nsubj
+picture	view	nmod:of
+takes	picture	dobj

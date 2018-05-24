@@ -1,0 +1,12 @@
+det	magistrate	A
+amod	magistrate	federal
+nsubj	ordered	magistrate
+case	Lauderdale	in
+compound	Lauderdale	Fort
+nmod:in	magistrate	Lauderdale
+root	ROOT	ordered
+nsubj	held	him
+ccomp	ordered	held
+case	bail	without
+nmod:without	held	bail
+punct	ordered	.

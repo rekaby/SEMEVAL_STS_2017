@@ -1,0 +1,7 @@
+nummod	children	Three
+root	ROOT	children
+acl	children	playing
+case	floor	on
+det	floor	the
+nmod:on	playing	floor
+punct	children	.

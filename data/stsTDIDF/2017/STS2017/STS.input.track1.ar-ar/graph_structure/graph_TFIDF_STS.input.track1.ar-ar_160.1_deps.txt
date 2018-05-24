@@ -1,0 +1,5 @@
+ROOT	Play	root
+shots	two	nummod
+Play	water	nmod:in
+Play	shots	dobj
+Play	.	punct

@@ -1,0 +1,17 @@
+compound	Howard	Mr
+nsubj	said	Howard
+root	ROOT	said
+nsubj	had	he
+advmod	had	also
+ccomp	said	had
+dobj	had	faith
+case	system	in
+det	system	the
+nmod:in	had	system
+case	which	under
+nmod:under	tried	which
+nsubjpass	tried	Hicks
+aux	tried	could
+auxpass	tried	be
+acl:relcl	system	tried
+punct	said	.

@@ -1,0 +1,11 @@
+expl	's	There
+root	ROOT	's
+neg	's	not
+det	lot	a
+nsubj	's	lot
+nsubj	do	you
+aux	do	can
+acl:relcl	lot	do
+case	that	about
+nmod:about	do	that
+punct	's	.

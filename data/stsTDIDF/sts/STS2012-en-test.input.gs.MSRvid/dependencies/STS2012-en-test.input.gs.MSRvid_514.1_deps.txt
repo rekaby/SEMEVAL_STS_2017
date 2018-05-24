@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	pushing	boy
+aux	pushing	is
+root	ROOT	pushing
+det	van	a
+dobj	pushing	van
+punct	pushing	.

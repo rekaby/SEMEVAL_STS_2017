@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	sailing	men
+root	ROOT	sailing
+case	sailboat	in
+det	sailboat	a
+amod	sailboat	small
+nmod:in	sailing	sailboat
+punct	sailing	.

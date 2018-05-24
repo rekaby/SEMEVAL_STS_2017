@@ -1,0 +1,8 @@
+root	ROOT	cause
+cc	cause	or
+conj:or	cause	permit
+mark	fall	to
+acl	cause	fall
+case	ground	to
+det	ground	the
+nmod:to	fall	ground

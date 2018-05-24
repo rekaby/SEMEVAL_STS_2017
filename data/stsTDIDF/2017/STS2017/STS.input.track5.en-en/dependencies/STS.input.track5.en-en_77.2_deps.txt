@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	resting	dog
+aux	resting	is
+root	ROOT	resting
+case	stairs	on
+det	stairs	the
+nmod:on	resting	stairs
+punct	resting	.

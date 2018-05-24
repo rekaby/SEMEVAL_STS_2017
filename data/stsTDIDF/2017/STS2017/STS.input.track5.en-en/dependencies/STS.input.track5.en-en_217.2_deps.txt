@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	golfs	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	green
+nmod:in	woman	shirt
+cc	shirt	and
+amod	pants	white
+conj:and	shirt	pants
+root	ROOT	golfs
+case	green	on
+det	green	the
+nmod:on	golfs	green
+punct	golfs	.

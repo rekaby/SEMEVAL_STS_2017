@@ -1,0 +1,9 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	round	a
+dobj	playing	round
+case	golf	of
+nmod:of	round	golf
+punct	playing	.

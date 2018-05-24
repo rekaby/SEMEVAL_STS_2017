@@ -1,0 +1,13 @@
+det	man	A
+nsubj	sits	man
+root	ROOT	sits
+xcomp	sits	looking
+case	computer	at
+det	computer	a
+amod	computer	laptop
+nmod:at	looking	computer
+case	table	on
+det	table	a
+amod	table	messy
+nmod:on	looking	table
+punct	sits	.

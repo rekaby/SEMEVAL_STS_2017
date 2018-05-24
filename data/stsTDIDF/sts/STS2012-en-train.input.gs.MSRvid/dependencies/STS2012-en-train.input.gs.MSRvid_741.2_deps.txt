@@ -1,0 +1,7 @@
+det	cook	The
+nsubj	slicing	cook
+aux	slicing	is
+root	ROOT	slicing
+compound	peppers	bell
+dobj	slicing	peppers
+punct	slicing	.

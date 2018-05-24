@@ -1,0 +1,9 @@
+det	reduction	the
+root	ROOT	reduction
+case	value	of
+nmod:poss	value	something
+case	something	's
+nmod:of	reduction	value
+cc	value	or
+conj:or	value	worth
+punct	reduction	.

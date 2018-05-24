@@ -1,0 +1,10 @@
+nsubj	depends	It
+advmod	depends	rather
+root	ROOT	depends
+case	which	on
+nmod:on	depends	which
+dep	which	country
+nsubj	in	you
+cop	in	're
+acl:relcl	country	in
+punct	depends	.

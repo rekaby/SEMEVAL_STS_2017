@@ -1,0 +1,5 @@
+det	pulsation	the
+root	ROOT	pulsation
+case	heart	of
+det	heart	the
+nmod:of	pulsation	heart

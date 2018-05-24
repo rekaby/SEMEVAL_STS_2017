@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	ladder	on
+det	ladder	a
+nmod:on	man	ladder
+acl	man	is
+nsubj	is	power
+acl	power	washing
+det	building	a
+dobj	washing	building
+punct	man	.

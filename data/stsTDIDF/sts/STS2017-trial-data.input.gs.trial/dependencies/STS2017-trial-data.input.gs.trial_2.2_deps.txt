@@ -1,0 +1,7 @@
+compound	princess	Spain
+nsubj	testifies	princess
+root	ROOT	testifies
+case	fraud	in
+amod	fraud	historic
+nmod:in	testifies	fraud
+dobj	testifies	probe

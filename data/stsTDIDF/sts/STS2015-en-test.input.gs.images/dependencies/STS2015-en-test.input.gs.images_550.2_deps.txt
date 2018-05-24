@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	video	woman
+case	jacket	in
+det	jacket	a
+amod	jacket	red
+nmod:in	woman	jacket
+cop	video	is
+root	ROOT	video
+xcomp	video	taping
+det	landscape	a
+amod	landscape	natural
+dobj	taping	landscape
+punct	video	.

@@ -1,0 +1,14 @@
+nummod	officers	Two
+compound	officers	police
+nsubj	standing	officers
+root	ROOT	standing
+case	van	behind
+det	van	a
+nmod:behind	standing	van
+case	bus	with
+det	bus	a
+nmod:with	van	bus
+case	background	in
+det	background	the
+nmod:in	van	background
+punct	standing	.

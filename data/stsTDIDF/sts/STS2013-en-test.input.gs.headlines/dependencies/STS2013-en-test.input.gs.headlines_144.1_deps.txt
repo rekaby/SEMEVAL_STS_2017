@@ -1,0 +1,10 @@
+nsubj	says	Panetta
+root	ROOT	says
+compound	role	Afghanistan
+dobj	says	role
+mark	shift	to
+acl	role	shift
+case	combat	from
+nmod:from	shift	combat
+case	2013	in
+nmod:in	shift	2013

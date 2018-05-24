@@ -1,0 +1,13 @@
+amod	progress	Official
+case	relatives	of
+compound	relatives	Malaysia
+compound	relatives	Airlines
+compound	relatives	briefs
+nmod:of	Official	relatives
+case	passengers	of
+amod	passengers	missing
+compound	passengers	flight
+nmod:of	relatives	passengers
+advmod	search	about
+compound	progress	search
+root	ROOT	progress

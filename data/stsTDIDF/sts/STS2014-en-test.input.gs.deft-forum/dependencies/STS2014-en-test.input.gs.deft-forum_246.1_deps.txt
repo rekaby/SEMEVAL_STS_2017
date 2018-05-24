@@ -1,0 +1,12 @@
+root	ROOT	S
+mark	wish	As
+nsubj	wish	you
+advcl	S	wish
+punct	S	:
+aux	see	Do
+nsubj	see	you
+dep	S	see
+nsubj	killing	Hitler
+ccomp	see	killing
+dobj	killing	Jews
+punct	S	?

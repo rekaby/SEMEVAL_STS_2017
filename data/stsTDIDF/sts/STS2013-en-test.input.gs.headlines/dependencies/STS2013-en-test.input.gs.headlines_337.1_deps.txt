@@ -1,0 +1,9 @@
+nsubj	demands	Syria
+ccomp	say	demands
+dobj	demands	guarantees
+punct	say	,
+nsubj	say	rebels
+root	ROOT	say
+compound	plan	peace
+nsubj	doomed	plan
+ccomp	say	doomed

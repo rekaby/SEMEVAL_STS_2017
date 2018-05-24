@@ -1,0 +1,7 @@
+det	sculpture	a
+root	ROOT	sculpture
+case	human	of
+det	human	a
+nmod:of	sculpture	human
+cc	human	or
+conj:or	human	animal

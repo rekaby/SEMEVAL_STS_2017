@@ -1,0 +1,11 @@
+nsubj	do	Workers
+case	China	in
+nmod:in	Workers	China
+root	ROOT	do
+dobj	do	homework
+mark	goes	while
+det	sun	the
+nsubj	goes	sun
+advcl	do	goes
+advmod	goes	down
+punct	do	.

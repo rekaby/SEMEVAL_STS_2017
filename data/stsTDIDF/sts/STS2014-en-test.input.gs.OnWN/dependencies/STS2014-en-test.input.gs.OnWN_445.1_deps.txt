@@ -1,0 +1,7 @@
+root	ROOT	sacrifice
+cc	sacrifice	or
+conj:or	sacrifice	toll
+acl	sacrifice	required
+mark	achieve	to
+xcomp	required	achieve
+dobj	achieve	something

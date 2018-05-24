@@ -1,0 +1,9 @@
+seller	a	det
+steal	to	mark
+ROOT	pulls	root
+pulls	steal	xcomp
+seller	mattress	compound
+pulls	man	nsubj
+steal	seller	dobj
+pulls	.	punct
+pulls	gun	dobj

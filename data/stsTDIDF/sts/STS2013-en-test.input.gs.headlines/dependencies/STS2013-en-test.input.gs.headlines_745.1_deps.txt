@@ -1,0 +1,8 @@
+compound	PM	Pakistani
+nsubj	shocked	PM
+root	ROOT	shocked
+case	personnel	at
+compound	personnel	avalanche
+compound	personnel	trapping
+compound	personnel	army
+nmod:at	shocked	personnel

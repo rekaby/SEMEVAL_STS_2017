@@ -1,0 +1,14 @@
+root	ROOT	Use
+det	solutions	these
+amod	solutions	optimal
+dobj	Use	solutions
+mark	construct	to
+xcomp	Use	construct
+det	solution	an
+amod	solution	optimal
+dobj	construct	solution
+case	problem	for
+det	problem	the
+amod	problem	original
+nmod:for	solution	problem
+punct	Use	.

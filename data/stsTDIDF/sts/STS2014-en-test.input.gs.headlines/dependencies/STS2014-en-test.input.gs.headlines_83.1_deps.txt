@@ -1,0 +1,8 @@
+amod	reform	French
+compound	reform	parliament
+compound	reform	backs
+root	ROOT	reform
+case	law	of
+nmod:of	reform	law
+case	prostitution	on
+nmod:on	reform	prostitution

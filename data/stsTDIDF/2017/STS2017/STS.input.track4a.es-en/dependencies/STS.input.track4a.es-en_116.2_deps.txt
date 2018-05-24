@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	looking	woman
+case	hair	with
+amod	hair	orange
+nmod:with	woman	hair
+aux	looking	is
+root	ROOT	looking
+case	shoulder	over
+nmod:poss	shoulder	her
+amod	shoulder	left
+nmod:over	looking	shoulder
+punct	looking	.

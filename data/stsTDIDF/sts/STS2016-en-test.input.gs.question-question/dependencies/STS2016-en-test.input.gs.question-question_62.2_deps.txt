@@ -1,0 +1,10 @@
+root	ROOT	Is
+amod	driver	Greek
+nmod:poss	license	driver
+case	driver	's
+nsubj	Is	license
+amod	license	valid
+case	US	in
+det	US	the
+nmod:in	valid	US
+punct	Is	?

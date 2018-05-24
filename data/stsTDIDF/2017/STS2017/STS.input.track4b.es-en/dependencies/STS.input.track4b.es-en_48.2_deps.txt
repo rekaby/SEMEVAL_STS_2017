@@ -1,0 +1,16 @@
+nsubj	uncomfortable	It
+cop	uncomfortable	was
+root	ROOT	uncomfortable
+punct	uncomfortable	,
+cc	uncomfortable	but
+nsubj	advanced	I
+conj:but	uncomfortable	advanced
+det	little	a
+dobj	advanced	little
+mark	seeing	after
+advcl	advanced	seeing
+cc	seeing	and
+conj:and	seeing	hearing
+det	suspect	the
+dobj	hearing	suspect
+punct	uncomfortable	.

@@ -1,0 +1,7 @@
+nsubj	leaves	Cyclone
+root	ROOT	leaves
+dobj	leaves	trail
+case	destruction	of
+nmod:of	trail	destruction
+case	India	in
+nmod:in	leaves	India

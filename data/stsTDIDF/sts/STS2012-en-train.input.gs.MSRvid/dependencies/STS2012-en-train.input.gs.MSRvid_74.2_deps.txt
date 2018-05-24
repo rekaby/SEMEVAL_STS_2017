@@ -1,0 +1,8 @@
+det	man	A
+nsubj	diving	man
+cop	diving	is
+root	ROOT	diving
+case	pool	into
+det	pool	a
+nmod:into	diving	pool
+punct	diving	.

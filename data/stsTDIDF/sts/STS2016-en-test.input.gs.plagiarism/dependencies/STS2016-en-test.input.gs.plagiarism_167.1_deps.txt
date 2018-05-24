@@ -1,0 +1,8 @@
+root	ROOT	Construct
+det	solution	an
+amod	solution	optimal
+dobj	Construct	solution
+case	values	from
+amod	values	computed
+nmod:from	solution	values
+punct	Construct	.

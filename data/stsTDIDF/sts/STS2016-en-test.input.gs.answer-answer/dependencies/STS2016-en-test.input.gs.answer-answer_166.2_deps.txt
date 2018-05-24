@@ -1,0 +1,14 @@
+mark	think	So
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+nsubj	need	you
+ccomp	think	need
+mark	put	to
+xcomp	need	put
+dobj	put	it
+case	cover	on
+det	cover	the
+nmod:on	put	cover
+punct	think	.

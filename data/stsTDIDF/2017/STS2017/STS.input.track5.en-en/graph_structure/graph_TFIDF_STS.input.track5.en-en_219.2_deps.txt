@@ -1,0 +1,6 @@
+checking	woman	nsubj
+checking	is	aux
+checking	eyes	dobj
+checking	.	punct
+ROOT	checking	root
+eyes	man	nmod:of

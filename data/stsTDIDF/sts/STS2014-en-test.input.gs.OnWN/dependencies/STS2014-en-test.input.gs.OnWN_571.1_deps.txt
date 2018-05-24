@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	improving	of
+acl	act	improving
+nmod:poss	quality	something
+case	something	's
+dobj	improving	quality

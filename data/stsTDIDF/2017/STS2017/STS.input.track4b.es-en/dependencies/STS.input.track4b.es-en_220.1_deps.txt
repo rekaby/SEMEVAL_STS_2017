@@ -1,0 +1,13 @@
+mark	falling	On
+root	ROOT	falling
+case	love	in
+nmod:in	falling	love
+case	technology	with
+nmod:with	love	technology
+punct	Hewlett	-LRB-
+cc	Hewlett	and
+amod	Hewlett	cold-calling
+compound	Hewlett	Bill
+dep	falling	Hewlett
+punct	Hewlett	-RRB-
+punct	falling	:

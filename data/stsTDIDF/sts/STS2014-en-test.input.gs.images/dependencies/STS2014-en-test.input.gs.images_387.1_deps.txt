@@ -1,0 +1,8 @@
+det	table	A
+amod	table	black
+root	ROOT	table
+case	chair	with
+amod	chair	white
+amod	chair	fuzzy
+nmod:with	table	chair
+punct	table	.

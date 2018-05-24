@@ -1,0 +1,12 @@
+amod	people	Pro-choice
+nsubj	try	people
+aux	try	do
+neg	try	not
+root	ROOT	try
+mark	force	to
+xcomp	try	force
+det	abortion	an
+dobj	force	abortion
+case	anyone	on
+nmod:on	force	anyone
+punct	try	.

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	peels	man
+root	ROOT	peels
+det	apple	an
+dobj	peels	apple
+punct	peels	.

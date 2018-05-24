@@ -1,0 +1,9 @@
+cop	signal	be
+det	signal	a
+root	ROOT	signal
+dep	signal	for
+cc	for	or
+det	symptom	a
+conj:or	for	symptom
+acl	symptom	of
+punct	signal	.

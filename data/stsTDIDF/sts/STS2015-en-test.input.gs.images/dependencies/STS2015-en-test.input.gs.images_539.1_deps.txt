@@ -1,0 +1,15 @@
+det	person	A
+nsubj	water	person
+cop	water	is
+case	water	out
+case	water	in
+det	water	the
+root	ROOT	water
+case	beach	at
+det	beach	the
+nmod:at	water	beach
+case	sets	while
+det	sets	the
+compound	sets	sun
+nmod:while	water	sets
+punct	water	.

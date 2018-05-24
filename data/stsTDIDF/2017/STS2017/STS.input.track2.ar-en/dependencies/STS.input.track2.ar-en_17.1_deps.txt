@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+mark	wears	in
+nsubj	wears	red
+acl	woman	wears
+dobj	wears	glasses
+cc	glasses	and
+amod	earrings	long
+conj:and	glasses	earrings
+punct	woman	.

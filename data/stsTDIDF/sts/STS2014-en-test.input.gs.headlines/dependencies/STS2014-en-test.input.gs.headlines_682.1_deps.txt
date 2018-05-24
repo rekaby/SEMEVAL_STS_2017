@@ -1,0 +1,9 @@
+nsubj	threatens	Hollande
+punct	threatens	`
+root	ROOT	threatens
+amod	action	legal
+dobj	threatens	action
+punct	threatens	'
+case	allegations	after
+compound	allegations	affair
+nmod:after	threatens	allegations

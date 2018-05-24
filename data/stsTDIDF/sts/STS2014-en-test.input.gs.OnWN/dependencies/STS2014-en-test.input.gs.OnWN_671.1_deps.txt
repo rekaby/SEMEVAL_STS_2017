@@ -1,0 +1,5 @@
+det	type	a
+root	ROOT	type
+case	aircraft	of
+amod	aircraft	military
+nmod:of	type	aircraft

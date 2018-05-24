@@ -1,0 +1,10 @@
+det	governments	the
+amod	governments	western
+nsubj	include	governments
+root	ROOT	include
+det	states	the
+amod	states	united
+dobj	include	states
+cc	states	and
+conj:and	states	france
+punct	include	.

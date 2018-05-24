@@ -1,0 +1,14 @@
+advmod	has	Additionally
+punct	has	,
+det	h2210	the
+nmod:poss	cradle	h2210
+case	h2210	's
+nsubj	has	cradle
+root	ROOT	has
+dobj	has	room
+mark	charge	to
+acl	room	charge
+det	battery	a
+amod	battery	second
+dobj	charge	battery
+punct	has	.

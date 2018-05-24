@@ -1,0 +1,9 @@
+det	pair	a
+root	ROOT	pair
+case	people	of
+amod	people	mated
+nmod:of	pair	people
+punct	people	,
+dep	people	e.g.
+punct	people	,
+acl	people	married

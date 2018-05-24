@@ -1,0 +1,12 @@
+compound	b	bulbs
+nsubj	remain	b
+cc	b	and
+conj:and	b	c
+root	ROOT	remain
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	remain	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

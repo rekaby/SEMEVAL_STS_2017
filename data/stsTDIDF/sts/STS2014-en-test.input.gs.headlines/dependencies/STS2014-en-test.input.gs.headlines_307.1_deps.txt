@@ -1,0 +1,6 @@
+nsubj	holds	Obama
+root	ROOT	holds
+compound	action	talks
+case	Syria	over
+nmod:over	talks	Syria
+dobj	holds	action

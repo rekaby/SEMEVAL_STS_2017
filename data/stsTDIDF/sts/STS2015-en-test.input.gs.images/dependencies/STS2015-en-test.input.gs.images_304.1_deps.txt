@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+acl	woman	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	man	.

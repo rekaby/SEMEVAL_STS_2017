@@ -1,0 +1,6 @@
+branch	on	case
+sits	branch	nmod:on
+branch	tree	compound
+bird	The	det
+branch	the	det
+sits	bird	nsubj

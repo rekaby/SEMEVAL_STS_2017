@@ -1,0 +1,14 @@
+nsubj	comply	Women
+root	ROOT	comply
+case	statues	in
+mwe	in	front
+mwe	in	of
+nummod	statues	two
+amod	statues	large
+nmod:in_front_of	comply	statues
+case	elephants	of
+nmod:of	statues	elephants
+case	museum	in
+det	museum	a
+nmod:in	comply	museum
+punct	comply	.

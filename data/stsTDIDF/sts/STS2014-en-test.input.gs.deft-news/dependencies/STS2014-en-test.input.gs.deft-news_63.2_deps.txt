@@ -1,0 +1,8 @@
+nsubj	ratified	russia
+root	ROOT	ratified
+det	treaty	the
+amod	treaty	updated
+dobj	ratified	treaty
+case	2004	in
+nmod:in	ratified	2004
+punct	ratified	.

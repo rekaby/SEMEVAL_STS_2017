@@ -1,0 +1,7 @@
+compound	Bombers	Suicide
+nsubj	Kill	Bombers
+root	ROOT	Kill
+nummod	Soldiers	3
+dobj	Kill	Soldiers
+case	Pakistan	in
+nmod:in	Kill	Pakistan

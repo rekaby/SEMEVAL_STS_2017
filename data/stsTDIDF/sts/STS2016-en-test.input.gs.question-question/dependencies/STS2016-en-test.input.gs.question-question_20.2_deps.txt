@@ -1,0 +1,7 @@
+det	kind	What
+dep	is	kind
+case	glass	of
+nmod:of	kind	glass
+root	ROOT	is
+nsubj	is	this
+punct	is	?

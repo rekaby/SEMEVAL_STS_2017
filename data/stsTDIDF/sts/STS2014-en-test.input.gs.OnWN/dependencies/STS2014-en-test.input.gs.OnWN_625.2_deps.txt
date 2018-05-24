@@ -1,0 +1,10 @@
+root	ROOT	assign
+det	time	a
+amod	time	new
+dobj	assign	time
+cc	time	and
+conj:and	time	place
+case	event	for
+det	event	an
+nmod:for	assign	event
+punct	assign	.

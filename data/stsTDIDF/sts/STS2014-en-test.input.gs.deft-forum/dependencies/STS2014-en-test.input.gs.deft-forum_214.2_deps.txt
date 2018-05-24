@@ -1,0 +1,10 @@
+csubj	crime	Commiting
+det	crime	a
+dobj	Commiting	crime
+case	gang	in
+det	gang	a
+nmod:in	crime	gang
+cop	crime	is
+det	crime	a
+root	ROOT	crime
+punct	crime	.

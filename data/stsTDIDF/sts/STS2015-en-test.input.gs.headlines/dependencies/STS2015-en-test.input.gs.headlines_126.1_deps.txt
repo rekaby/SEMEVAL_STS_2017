@@ -1,0 +1,8 @@
+root	ROOT	Saudi
+mark	give	to
+acl	Saudi	give
+amod	army	Lebanese
+iobj	give	army
+dobj	give	$
+compound	billion	3
+nummod	$	billion

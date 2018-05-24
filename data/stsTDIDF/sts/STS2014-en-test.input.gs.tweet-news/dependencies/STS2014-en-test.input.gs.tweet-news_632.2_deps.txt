@@ -1,0 +1,13 @@
+case	Victims	For
+compound	Victims	Rape
+nmod:for	Part	Victims
+case	India	in
+nmod:in	Victims	India
+punct	Part	,
+nsubj	Part	Police
+cop	Part	Are
+advmod	Part	Often
+root	ROOT	Part
+case	Problem	of
+det	Problem	the
+nmod:of	Part	Problem

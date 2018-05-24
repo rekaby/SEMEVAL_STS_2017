@@ -1,0 +1,16 @@
+det	matters	What
+nsubj	awareness	matters
+advmod	is	most
+cop	awareness	is
+compound	awareness	consumer
+root	ROOT	awareness
+cc	awareness	and
+conj:and	awareness	making
+det	information	this
+dobj	making	information
+amod	information	open
+case	domain	to
+det	domain	the
+amod	domain	public
+nmod:to	open	domain
+punct	awareness	.

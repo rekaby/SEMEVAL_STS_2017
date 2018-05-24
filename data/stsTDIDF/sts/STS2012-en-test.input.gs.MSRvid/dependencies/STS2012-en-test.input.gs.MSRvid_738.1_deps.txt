@@ -1,0 +1,11 @@
+det	lady	The
+nsubj	cut	lady
+root	ROOT	cut
+det	tail	the
+dobj	cut	tail
+cc	tail	and
+conj:and	tail	body
+case	shrimp	of
+det	shrimp	a
+nmod:of	tail	shrimp
+punct	cut	.

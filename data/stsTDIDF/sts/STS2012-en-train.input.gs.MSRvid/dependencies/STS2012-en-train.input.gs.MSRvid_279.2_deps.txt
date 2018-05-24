@@ -1,0 +1,7 @@
+det	man	A
+nsubj	cleaning	man
+aux	cleaning	is
+root	ROOT	cleaning
+det	cd	a
+dobj	cleaning	cd
+punct	cleaning	.

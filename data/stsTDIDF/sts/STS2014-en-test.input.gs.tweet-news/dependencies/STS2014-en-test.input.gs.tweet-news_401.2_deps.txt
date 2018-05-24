@@ -1,0 +1,6 @@
+amod	Directors	Female
+compound	Directors	Film
+nsubj	Gain	Directors
+advmod	Gain	Slowly
+root	ROOT	Gain
+dobj	Gain	Ground

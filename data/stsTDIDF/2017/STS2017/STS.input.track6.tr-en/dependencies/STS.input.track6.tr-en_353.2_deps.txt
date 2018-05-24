@@ -1,0 +1,9 @@
+det	referee	The
+nsubj	holding	referee
+aux	holding	is
+root	ROOT	holding
+det	flag	a
+amod	flag	dark
+amod	flag	black
+dobj	holding	flag
+punct	holding	.

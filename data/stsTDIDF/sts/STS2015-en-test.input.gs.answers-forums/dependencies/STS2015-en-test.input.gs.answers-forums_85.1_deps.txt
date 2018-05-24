@@ -1,0 +1,17 @@
+case	States	In
+det	States	the
+compound	States	United
+nmod:in	operated	States
+punct	operated	,
+nsubjpass	operated	jails
+auxpass	operated	are
+root	ROOT	operated
+case	cities	by
+nmod:agent	operated	cities
+cc	cities	and
+conj:and	cities	counties
+punct	equivalent	-LRB-
+cc	equivalent	or
+dep	cities	equivalent
+punct	equivalent	-RRB-
+punct	operated	.

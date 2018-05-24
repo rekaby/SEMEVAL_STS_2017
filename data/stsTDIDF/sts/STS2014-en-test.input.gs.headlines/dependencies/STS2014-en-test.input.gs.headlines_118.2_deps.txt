@@ -1,0 +1,7 @@
+amod	victim	Indian
+compound	victim	rape
+nsubj	dies	victim
+root	ROOT	dies
+case	hospital	in
+compound	hospital	Singapore
+nmod:in	dies	hospital

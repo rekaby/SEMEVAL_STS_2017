@@ -1,0 +1,11 @@
+advmod	need	Why
+aux	need	do
+nsubj	need	you
+root	ROOT	need
+mark	peel	to
+xcomp	need	peel
+dobj	peel	peaches
+mark	can	to
+advcl	peel	can
+dobj	can	them
+punct	need	?

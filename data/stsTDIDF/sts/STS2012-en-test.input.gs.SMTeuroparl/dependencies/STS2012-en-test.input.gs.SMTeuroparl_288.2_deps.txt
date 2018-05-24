@@ -1,0 +1,16 @@
+nsubj	important	It
+cop	important	is
+root	ROOT	important
+mark	involved	that
+det	Union	the
+compound	Union	European
+nsubjpass	involved	Union
+mark	involved	to
+auxpass	involved	be
+ccomp	important	involved
+cc	involved	and
+mark	do	to
+conj:and	involved	do
+dobj	do	it
+advmod	do	quickly
+punct	important	.

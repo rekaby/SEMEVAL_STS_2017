@@ -1,0 +1,12 @@
+det	battery	The
+nsubjpass	contained	battery
+cc	battery	and
+amod	bulb	light
+conj:and	battery	bulb
+auxpass	contained	are
+neg	contained	not
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	close
+nmod:in	contained	path

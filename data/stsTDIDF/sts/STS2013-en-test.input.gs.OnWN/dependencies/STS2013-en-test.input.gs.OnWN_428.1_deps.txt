@@ -1,0 +1,7 @@
+compound	disgust	strike
+case	horror	with
+nmod:with	strike	horror
+punct	horror	,
+appos	horror	surprise
+punct	horror	,
+root	ROOT	disgust

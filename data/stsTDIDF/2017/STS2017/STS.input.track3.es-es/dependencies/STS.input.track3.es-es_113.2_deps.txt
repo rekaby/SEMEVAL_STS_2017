@@ -1,0 +1,9 @@
+det	girl	The
+amod	girl	little
+nsubj	looking	girl
+aux	looking	is
+root	ROOT	looking
+case	something	for
+nmod:for	looking	something
+amod	something	weird
+punct	looking	.

@@ -1,0 +1,6 @@
+beach	at	case
+flying	.	punct
+flying	beach	nmod:at
+flying	are	aux
+flying	Birds	nsubj
+ROOT	flying	root

@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	standing	men
+root	ROOT	standing
+case	area	in
+det	area	a
+amod	area	sleeping
+nmod:in	standing	area
+punct	standing	.

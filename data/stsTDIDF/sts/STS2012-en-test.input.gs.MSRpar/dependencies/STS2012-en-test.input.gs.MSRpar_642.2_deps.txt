@@ -1,0 +1,17 @@
+advmod	held	Prior
+mark	joining	to
+advcl	Prior	joining
+compound	Kodak	Eastman
+dobj	joining	Kodak
+punct	held	,
+compound	Palumbo	Mr.
+nsubj	held	Palumbo
+root	ROOT	held
+amod	positions	senior
+compound	positions	marketing
+dobj	held	positions
+case	Procter	for
+nmod:for	positions	Procter
+cc	Procter	&
+conj:&	Procter	Gamble
+punct	held	.

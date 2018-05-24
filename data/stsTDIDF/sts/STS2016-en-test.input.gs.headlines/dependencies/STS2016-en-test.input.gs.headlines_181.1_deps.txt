@@ -1,0 +1,8 @@
+root	ROOT	5
+acl	5	killed
+case	strikes	in
+amod	strikes	Israeli
+compound	strikes	air
+nmod:in	killed	strikes
+case	Gaza	in
+nmod:in	strikes	Gaza

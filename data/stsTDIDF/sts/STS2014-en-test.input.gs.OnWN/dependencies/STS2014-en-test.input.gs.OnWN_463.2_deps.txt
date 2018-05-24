@@ -1,0 +1,6 @@
+det	representation	a
+amod	representation	visual
+root	ROOT	representation
+case	something	of
+nmod:of	representation	something
+punct	representation	.

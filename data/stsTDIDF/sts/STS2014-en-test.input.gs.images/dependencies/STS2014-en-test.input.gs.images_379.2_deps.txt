@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	lies	dog
+root	ROOT	lies
+case	grass	on
+det	grass	the
+nmod:on	lies	grass
+punct	lies	.

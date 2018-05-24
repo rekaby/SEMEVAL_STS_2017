@@ -1,0 +1,6 @@
+compound	protesters	NATO
+nsubj	charges	protesters
+acl	protesters	acquitted
+case	terrorism	of
+nmod:of	acquitted	terrorism
+root	ROOT	charges

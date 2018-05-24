@@ -1,0 +1,17 @@
+det	woman	A
+amod	woman	young
+nsubj	takes	woman
+root	ROOT	takes
+det	photo	a
+dobj	takes	photo
+case	break	during
+det	break	a
+amod	break	short
+nmod:during	takes	break
+case	job	from
+nmod:poss	job	her
+nmod:from	break	job
+case	waitress	as
+det	waitress	a
+nmod:as	takes	waitress
+punct	takes	.

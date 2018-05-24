@@ -1,0 +1,9 @@
+compound	rally	Bangladeshi
+compound	rally	Islamists
+root	ROOT	rally
+mark	demand	to
+acl	rally	demand
+compound	bloggers	action
+case	atheist	against
+nmod:against	action	atheist
+dobj	demand	bloggers

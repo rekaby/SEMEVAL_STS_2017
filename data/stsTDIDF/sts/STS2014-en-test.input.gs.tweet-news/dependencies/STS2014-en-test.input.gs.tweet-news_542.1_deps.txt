@@ -1,0 +1,11 @@
+compound	Kong	Hong
+nsubj	takes	Kong
+root	ROOT	takes
+det	title	the
+compound	title	Internet
+compound	title	speed
+dobj	takes	title
+case	Mbps	with
+nummod	Mbps	54.1
+nmod:with	takes	Mbps
+punct	takes	.

@@ -1,0 +1,6 @@
+root	ROOT	become
+cc	become	or
+conj:or	become	cause
+mark	become	to
+xcomp	cause	become
+xcomp	become	obstructed

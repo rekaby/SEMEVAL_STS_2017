@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	ladies	of
+amod	ladies	young
+nmod:of	group	ladies
+case	bikinis	in
+nmod:in	group	bikinis
+punct	group	.

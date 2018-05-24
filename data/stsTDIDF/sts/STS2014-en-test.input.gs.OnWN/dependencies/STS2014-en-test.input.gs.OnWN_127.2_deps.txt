@@ -1,0 +1,13 @@
+det	position	a
+root	ROOT	position
+acl	position	given
+case	location	by
+nmod:poss	location	its
+nmod:by	given	location
+case	side	to
+det	side	the
+nmod:to	location	side
+case	object	of
+det	object	an
+nmod:of	side	object
+punct	position	.

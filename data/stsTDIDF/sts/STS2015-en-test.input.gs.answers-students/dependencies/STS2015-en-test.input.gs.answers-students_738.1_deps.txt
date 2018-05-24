@@ -1,0 +1,11 @@
+mark	seperated	Because
+amod	1	terminal
+nsubjpass	seperated	1
+auxpass	seperated	is
+root	ROOT	seperated
+case	terminal	from
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:from	seperated	terminal
+punct	seperated	.

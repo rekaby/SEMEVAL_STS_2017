@@ -1,0 +1,16 @@
+nsubj	sold	Peregrine
+root	ROOT	sold
+nmod:poss	unit	its
+compound	unit	Remedy
+compound	unit	business
+dobj	sold	unit
+case	Software	to
+compound	Software	BMC
+nmod:to	sold	Software
+case	November	in
+nmod:in	sold	November
+case	$	for
+nmod:for	sold	$
+compound	million	355
+nummod	$	million
+punct	sold	.

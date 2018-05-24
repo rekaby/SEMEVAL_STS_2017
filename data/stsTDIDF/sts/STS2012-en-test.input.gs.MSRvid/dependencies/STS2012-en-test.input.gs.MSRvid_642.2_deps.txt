@@ -1,0 +1,8 @@
+det	turtle	A
+compound	turtle	sea
+nsubj	hunting	turtle
+cop	hunting	is
+root	ROOT	hunting
+case	fish	for
+nmod:for	hunting	fish
+punct	hunting	.

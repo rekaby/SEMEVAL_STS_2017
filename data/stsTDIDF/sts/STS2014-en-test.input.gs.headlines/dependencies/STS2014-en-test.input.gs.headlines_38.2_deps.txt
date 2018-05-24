@@ -1,0 +1,8 @@
+amod	minister	Syrian
+amod	minister	prime
+nsubj	attempt	minister
+punct	attempt	`
+amod	attempt	survives
+compound	attempt	assassination
+root	ROOT	attempt
+punct	attempt	'

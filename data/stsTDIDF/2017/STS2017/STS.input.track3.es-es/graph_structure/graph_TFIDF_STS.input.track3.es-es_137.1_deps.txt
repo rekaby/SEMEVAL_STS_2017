@@ -1,0 +1,4 @@
+walking	People	nsubj
+station	through	case
+walking	station	nmod:through
+walking	are	aux

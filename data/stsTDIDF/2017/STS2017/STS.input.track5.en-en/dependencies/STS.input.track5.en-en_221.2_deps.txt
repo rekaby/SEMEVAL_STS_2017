@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	boy	a
+nsubj	is	boy
+cc	boy	and
+det	girl	a
+conj:and	boy	girl
+punct	is	.

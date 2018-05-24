@@ -1,0 +1,13 @@
+cc	detract	But
+nsubj	detract	that
+aux	detract	does
+neg	detract	not
+root	ROOT	detract
+amod	countries	rich
+dobj	detract	countries
+case	obligation	from
+nmod:poss	obligation	their
+nmod:from	detract	obligation
+mark	help	to
+acl	obligation	help
+punct	detract	.

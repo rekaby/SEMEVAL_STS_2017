@@ -1,0 +1,6 @@
+nsubj	eclipse	Australia
+aux	eclipse	can
+root	ROOT	eclipse
+dobj	eclipse	England
+case	Windies	in
+nmod:in	eclipse	Windies

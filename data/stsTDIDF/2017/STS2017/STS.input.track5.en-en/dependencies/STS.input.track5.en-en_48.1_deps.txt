@@ -1,0 +1,13 @@
+det	dog	the
+compound	dog	tan
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	dog	with
+det	dog	the
+amod	dog	red
+nmod:with	playing	dog
+case	snow	out
+case	snow	in
+det	snow	the
+nmod:in	playing	snow

@@ -1,0 +1,7 @@
+compound	suspect	Boston
+compound	suspect	bombing
+amod	bed	suspect
+amod	bed	charged
+case	hospital	in
+nmod:in	charged	hospital
+root	ROOT	bed

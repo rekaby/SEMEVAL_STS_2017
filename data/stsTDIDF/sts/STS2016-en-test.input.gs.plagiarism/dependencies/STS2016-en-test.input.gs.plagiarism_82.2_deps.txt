@@ -1,0 +1,12 @@
+det	document	Each
+nsubj	vector	document
+cop	vector	is
+det	vector	a
+root	ROOT	vector
+advmod	dimension	where
+det	word	each
+nsubj	dimension	word
+cop	dimension	is
+det	dimension	a
+acl:relcl	vector	dimension
+punct	vector	.

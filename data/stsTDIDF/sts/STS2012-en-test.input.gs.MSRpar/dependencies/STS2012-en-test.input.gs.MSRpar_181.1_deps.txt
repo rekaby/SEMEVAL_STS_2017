@@ -1,0 +1,15 @@
+neg	charges	No
+nsubjpass	announced	charges
+auxpass	announced	were
+root	ROOT	announced
+punct	announced	,
+cc	announced	but
+det	statement	the
+nsubj	said	statement
+conj:but	announced	said
+amod	proceedings	legal
+nsubjpass	expected	proceedings
+auxpass	expected	were
+ccomp	said	expected
+nmod:tmod	expected	Monday
+punct	announced	.

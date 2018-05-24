@@ -1,0 +1,14 @@
+mark	admit	So
+dobj	admit	that
+nsubj	admit	you
+aux	admit	will
+root	ROOT	admit
+cc	admit	and
+conj:and	admit	verify
+mark	made	that
+nsubj	made	I
+aux	made	have
+ccomp	verify	made
+neg	claim	no
+dobj	made	claim
+punct	admit	.

@@ -1,0 +1,16 @@
+det	application	The
+amod	application	differing
+nsubj	has	application
+root	ROOT	has
+det	influence	a
+amod	influence	direct
+dobj	has	influence
+mark	means	on
+dobj	means	what
+det	definition	the
+nsubj	means	definition
+case	term	of
+det	term	the
+nmod:of	definition	term
+acl	influence	means
+punct	has	.

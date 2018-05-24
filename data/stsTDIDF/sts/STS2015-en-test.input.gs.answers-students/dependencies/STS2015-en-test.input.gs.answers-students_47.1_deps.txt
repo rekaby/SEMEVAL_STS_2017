@@ -1,0 +1,13 @@
+det	blub	the
+nsubjpass	contained	blub
+auxpass	contained	is
+neg	contained	not
+root	ROOT	contained
+case	path	in
+det	path	the
+amod	path	same
+amod	path	closed
+nmod:in	contained	path
+case	battery	as
+det	battery	the
+nmod:as	path	battery

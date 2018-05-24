@@ -1,0 +1,12 @@
+det	TV	A
+compound	TV	Philips
+amod	TV	flat-screen
+nsubjpass	shown	TV
+auxpass	shown	is
+root	ROOT	shown
+case	controls	with
+nmod:poss	controls	its
+nummod	controls	two
+amod	controls	remote
+nmod:with	shown	controls
+punct	shown	.

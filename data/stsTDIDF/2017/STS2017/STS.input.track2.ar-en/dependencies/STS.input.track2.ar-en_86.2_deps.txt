@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	boy	a
+nsubj	is	boy
+case	shoes	near
+det	shoes	the
+nmod:near	boy	shoes
+punct	is	.

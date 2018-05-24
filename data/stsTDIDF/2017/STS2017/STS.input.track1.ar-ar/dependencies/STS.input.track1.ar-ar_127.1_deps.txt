@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+acl	man	dressed
+case	ghost	as
+det	ghost	a
+nmod:as	dressed	ghost
+punct	man	,
+case	music	like
+det	music	the
+nmod:like	man	music
+nsubj	plays	that
+acl:relcl	music	plays
+advmod	plays	aggressively
+punct	man	.

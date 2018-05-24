@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	having	of
+acl	act	having
+cc	having	and
+conj:and	having	controlling
+dobj	having	property
+punct	act	.

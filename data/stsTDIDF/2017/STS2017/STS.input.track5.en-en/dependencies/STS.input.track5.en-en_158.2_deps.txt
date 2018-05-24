@@ -1,0 +1,9 @@
+det	group	A
+nsubj	singing	group
+case	children	of
+nmod:of	group	children
+aux	singing	are
+root	ROOT	singing
+cc	singing	and
+compound	instruments	playing
+conj:and	singing	instruments

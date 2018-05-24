@@ -1,0 +1,11 @@
+nsubj	stated	police
+root	ROOT	stated
+dep	run	that
+punct	run	--
+nsubj	run	chung
+aux	run	has
+cop	run	been
+case	run	on
+det	run	the
+ccomp	stated	run
+punct	stated	.

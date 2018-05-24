@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	accusing	of
+acl	act	accusing
+dobj	accusing	someone
+cc	someone	or
+conj:or	someone	something
+mark	fault	for
+cop	fault	being
+case	fault	at
+advcl:at	accusing	fault

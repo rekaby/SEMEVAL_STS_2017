@@ -1,0 +1,15 @@
+nsubj	accelerate	I
+aux	accelerate	would
+neg	accelerate	not
+root	ROOT	accelerate
+dobj	accelerate	things
+punct	accelerate	,
+mark	avoid	to
+advcl	accelerate	avoid
+xcomp	avoid	getting
+amod	grades	worse
+dobj	getting	grades
+dobj	want	that
+nsubj	want	you
+acl:relcl	grades	want
+punct	accelerate	.

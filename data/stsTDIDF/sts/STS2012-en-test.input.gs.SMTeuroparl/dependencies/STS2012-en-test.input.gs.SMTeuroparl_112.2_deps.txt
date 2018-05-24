@@ -1,0 +1,14 @@
+compound	President	Mr
+root	ROOT	President
+punct	President	,
+nsubj	hold	I
+acl:relcl	President	hold
+case	defence	to
+det	defence	the
+nmod:to	hold	defence
+case	workers	of
+nmod:of	defence	workers
+case	sector	in
+det	sector	this
+nmod:in	hold	sector
+punct	President	.

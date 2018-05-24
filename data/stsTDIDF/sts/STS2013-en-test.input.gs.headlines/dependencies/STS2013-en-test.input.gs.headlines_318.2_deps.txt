@@ -1,0 +1,7 @@
+compound	developments	FACTBOX-Security
+root	ROOT	developments
+case	Pakistan	in
+nmod:in	developments	Pakistan
+punct	Pakistan	,
+appos	Pakistan	March
+nummod	March	13

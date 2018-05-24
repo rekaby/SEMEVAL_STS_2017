@@ -1,0 +1,12 @@
+root	ROOT	place
+punct	something	-LRB-
+appos	place	something
+punct	something	-RRB-
+advmod	find	where
+nsubj	find	one
+aux	find	can
+neg	find	not
+acl:relcl	place	find
+dobj	find	it
+advmod	find	again
+punct	place	;

@@ -1,0 +1,7 @@
+nsubj	killed	Many
+root	ROOT	killed
+case	tunnel	in
+compound	tunnel	Japan
+compound	tunnel	road
+nmod:in	killed	tunnel
+dobj	killed	collapse

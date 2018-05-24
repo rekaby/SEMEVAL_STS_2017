@@ -1,0 +1,8 @@
+nummod	couple	Two
+nsubj	talking	couple
+aux	talking	are
+root	ROOT	talking
+case	other	with
+det	other	each
+nmod:with	talking	other
+punct	talking	.

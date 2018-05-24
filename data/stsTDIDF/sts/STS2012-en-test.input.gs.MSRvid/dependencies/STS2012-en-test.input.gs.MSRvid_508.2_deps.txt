@@ -1,0 +1,6 @@
+det	girl	The
+nsubj	trotted	girl
+root	ROOT	trotted
+det	horse	the
+dobj	trotted	horse
+punct	trotted	.

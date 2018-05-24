@@ -1,0 +1,10 @@
+det	spokesman	a
+nsubj	available	spokesman
+case	day	for
+compound	day	stockwell
+nmod:for	spokesman	day
+cop	available	was
+neg	available	not
+advmod	available	immediately
+root	ROOT	available
+dep	available	for

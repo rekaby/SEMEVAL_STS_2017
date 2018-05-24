@@ -1,0 +1,8 @@
+nsubj	meets	Obama
+root	ROOT	meets
+dobj	meets	Zuma
+cc	meets	and
+conj:and	meets	pays
+dobj	pays	tribute
+case	Mandela	to
+nmod:to	pays	Mandela

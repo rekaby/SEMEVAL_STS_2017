@@ -1,0 +1,10 @@
+nsubj	leader	france
+cop	leader	is
+det	leader	a
+root	ROOT	leader
+case	agency	in
+det	agency	the
+amod	agency	european
+compound	agency	space
+nmod:in	leader	agency
+punct	leader	.

@@ -1,0 +1,10 @@
+det	report	The
+amod	report	annual
+nsubj	aims	report
+root	ROOT	aims
+mark	identify	to
+xcomp	aims	identify
+amod	improvements	potential
+amod	improvements	such
+dobj	identify	improvements
+punct	aims	.

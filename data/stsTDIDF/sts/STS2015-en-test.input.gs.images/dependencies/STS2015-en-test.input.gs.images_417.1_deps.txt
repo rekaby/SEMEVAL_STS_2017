@@ -1,0 +1,9 @@
+nummod	girls	Two
+nsubj	jumping	girls
+aux	jumping	are
+root	ROOT	jumping
+xcomp	jumping	high
+case	air	in
+det	air	the
+nmod:in	high	air
+punct	jumping	.

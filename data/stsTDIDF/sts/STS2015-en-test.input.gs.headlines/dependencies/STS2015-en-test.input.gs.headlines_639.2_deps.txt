@@ -1,0 +1,12 @@
+nmod:poss	anger	China
+case	China	's
+nsubj	overcomes	anger
+case	Korea	at
+compound	Korea	North
+nmod:at	anger	Korea
+root	ROOT	overcomes
+dobj	overcomes	worry
+case	flights	over
+compound	flights	U.S.
+compound	flights	stealth
+nmod:over	worry	flights

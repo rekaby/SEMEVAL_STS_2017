@@ -1,0 +1,7 @@
+det	activity	the
+root	ROOT	activity
+mark	breaking	of
+acl	activity	breaking
+cc	breaking	or
+conj:or	breaking	splintering
+dobj	breaking	something

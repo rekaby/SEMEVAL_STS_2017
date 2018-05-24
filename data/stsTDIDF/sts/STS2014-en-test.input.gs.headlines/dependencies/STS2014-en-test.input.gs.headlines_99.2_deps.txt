@@ -1,0 +1,7 @@
+nsubj	raises	West
+root	ROOT	raises
+dobj	raises	stakes
+case	claims	over
+compound	claims	Syria
+compound	claims	chemical
+nmod:over	stakes	claims

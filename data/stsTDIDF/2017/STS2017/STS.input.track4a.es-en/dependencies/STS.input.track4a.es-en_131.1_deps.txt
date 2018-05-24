@@ -1,0 +1,9 @@
+det	skiing	An
+amod	skiing	old
+compound	skiing	man
+root	ROOT	skiing
+advmod	skiing	downhill
+mark	snows	while
+nsubj	snows	it
+advcl	skiing	snows
+punct	skiing	.

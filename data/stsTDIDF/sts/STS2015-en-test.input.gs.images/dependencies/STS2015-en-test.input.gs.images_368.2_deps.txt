@@ -1,0 +1,11 @@
+nummod	girls	Two
+nsubj	eating	girls
+case	caps	with
+compound	caps	baseball
+nmod:with	girls	caps
+aux	eating	are
+root	ROOT	eating
+det	snack	a
+dobj	eating	snack
+advmod	eating	outside
+punct	eating	.

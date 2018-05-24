@@ -1,0 +1,15 @@
+punct	meeting	-LRB-
+det	meeting	The
+nsubjpass	taken	meeting
+punct	meeting	,
+acl	meeting	stopped
+case	14:06	with
+nmod:with	stopped	14:06
+punct	meeting	,
+auxpass	taken	is
+root	ROOT	taken
+advmod	taken	again
+case	p.m.	at
+nummod	p.m.	3
+nmod:at	taken	p.m.
+punct	taken	-RRB-

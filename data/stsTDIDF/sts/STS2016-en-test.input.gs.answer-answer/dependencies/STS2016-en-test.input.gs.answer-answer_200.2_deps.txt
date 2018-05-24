@@ -1,0 +1,8 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	idea	it
+cop	idea	's
+det	idea	a
+amod	idea	bad
+ccomp	think	idea
+punct	think	.

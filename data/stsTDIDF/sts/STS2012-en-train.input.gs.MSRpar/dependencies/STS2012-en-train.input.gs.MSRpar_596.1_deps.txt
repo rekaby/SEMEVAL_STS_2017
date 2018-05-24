@@ -1,0 +1,16 @@
+compound	police	State
+nsubj	said	police
+root	ROOT	said
+advmod	30	as
+advmod	30	many
+advmod	30	as
+nummod	workers	30
+nsubjpass	trapped	workers
+auxpass	trapped	were
+ccomp	said	trapped
+advmod	trapped	immediately
+mark	collapsed	after
+det	garage	the
+nsubj	collapsed	garage
+advcl	trapped	collapsed
+punct	said	.

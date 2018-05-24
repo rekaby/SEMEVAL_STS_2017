@@ -1,0 +1,10 @@
+neg	drug	no
+amod	drug	other
+nsubj	become	drug
+aux	become	has
+root	ROOT	become
+case	integral	as
+nmod:as	become	integral
+case	decades	in
+nmod:in	integral	decades
+punct	become	.

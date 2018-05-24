@@ -1,0 +1,8 @@
+clean	Women	nsubj
+clean	left	ccomp
+porch	on	case
+left	porch	nmod:on
+ROOT	clean	root
+porch	their	nmod:poss
+debris	the	det
+left	debris	nsubj

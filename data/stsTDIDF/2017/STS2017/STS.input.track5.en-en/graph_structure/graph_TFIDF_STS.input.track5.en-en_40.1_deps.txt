@@ -1,0 +1,6 @@
+seals	navy	compound
+group	seals	nmod:of
+seals	of	case
+singing	are	cop
+ROOT	singing	root
+singing	group	nsubj

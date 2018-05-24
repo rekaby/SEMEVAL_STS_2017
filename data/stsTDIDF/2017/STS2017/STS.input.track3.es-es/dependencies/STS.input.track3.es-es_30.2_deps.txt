@@ -1,0 +1,11 @@
+det	man	A
+nsubj	playing	man
+cc	man	and
+det	boy	a
+conj:and	man	boy
+aux	playing	are
+root	ROOT	playing
+case	water	in
+det	water	the
+nmod:in	playing	water
+punct	playing	.

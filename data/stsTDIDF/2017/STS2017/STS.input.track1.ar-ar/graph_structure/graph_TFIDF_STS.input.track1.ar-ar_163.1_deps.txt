@@ -1,0 +1,4 @@
+people	standing	acl
+warehouse	a	det
+standing	warehouse	nmod:in
+warehouse	in	case

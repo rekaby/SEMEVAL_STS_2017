@@ -1,0 +1,6 @@
+compound	strikes	Bomber
+root	ROOT	strikes
+case	army	near
+compound	army	Pakistan
+nmod:near	strikes	army
+dep	strikes	HQ

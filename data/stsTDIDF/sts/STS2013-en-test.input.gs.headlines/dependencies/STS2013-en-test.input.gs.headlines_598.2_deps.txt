@@ -1,0 +1,9 @@
+nmod:poss	butler	Pope
+case	Pope	's
+root	ROOT	butler
+acl	butler	arrested
+case	scandal	in
+nmod:in	arrested	scandal
+case	leaks	over
+compound	leaks	Vatican
+nmod:over	scandal	leaks

@@ -1,0 +1,9 @@
+det	path	the
+amod	path	closed
+nsubjpass	connected	path
+auxpass	connected	is
+root	ROOT	connected
+case	bulb	to
+det	bulb	the
+amod	bulb	light
+nmod:to	connected	bulb

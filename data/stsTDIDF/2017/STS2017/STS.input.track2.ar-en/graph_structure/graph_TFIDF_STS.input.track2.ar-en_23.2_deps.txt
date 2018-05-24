@@ -1,0 +1,6 @@
+skis	feet	nmod:on
+Someone	air	nmod:in
+skis	with	case
+ROOT	Someone	root
+Someone	.	punct
+air	skis	nmod:with

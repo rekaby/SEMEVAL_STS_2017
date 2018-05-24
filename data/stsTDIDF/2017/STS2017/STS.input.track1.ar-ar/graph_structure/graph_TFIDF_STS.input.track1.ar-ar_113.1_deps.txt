@@ -1,0 +1,6 @@
+plays	game	dobj
+plays	he	nsubj
+man	plays	acl:relcl
+man	watching	acl
+watching	man	dobj
+man	another	det

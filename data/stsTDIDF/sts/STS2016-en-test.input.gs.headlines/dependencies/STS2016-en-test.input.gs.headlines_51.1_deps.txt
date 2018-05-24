@@ -1,0 +1,8 @@
+amod	spots	Chinese
+compound	spots	satellite
+root	ROOT	spots
+amod	object	large
+compound	area	object
+case	search	in
+nmod:in	object	search
+dobj	spots	area

@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	uses	woman
+root	ROOT	uses
+det	machine	a
+amod	machine	high
+compound	machine	tech
+compound	machine	sewing
+dobj	uses	machine
+mark	make	to
+advcl	uses	make
+det	scarf	a
+dobj	make	scarf

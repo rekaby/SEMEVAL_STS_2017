@@ -1,0 +1,11 @@
+det	standard	The
+amod	standard	federal
+nsubj	parts	standard
+case	ozone	for
+nmod:for	standard	ozone
+cop	parts	is
+nummod	parts	0.12
+root	ROOT	parts
+case	million	per
+nmod:per	parts	million
+punct	parts	.

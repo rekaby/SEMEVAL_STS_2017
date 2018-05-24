@@ -1,0 +1,11 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	cattle	of
+nmod:of	photo	cattle
+case	trough	at
+det	trough	a
+nmod:at	photo	trough
+punct	photo	.

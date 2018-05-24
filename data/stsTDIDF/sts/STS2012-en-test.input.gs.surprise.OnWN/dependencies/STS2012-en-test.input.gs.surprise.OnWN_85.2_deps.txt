@@ -1,0 +1,5 @@
+root	ROOT	sway
+dep	sway	to
+cc	to	and
+conj:and	to	fro
+punct	sway	.

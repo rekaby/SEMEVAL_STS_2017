@@ -1,0 +1,8 @@
+root	ROOT	Aww
+punct	Aww	?-2) punct(calls-4, :
+compound	Spears	Britney
+nsubj	calls	Spears
+root	ROOT	calls
+compound:prt	calls	off
+dobj	calls	engagement
+punct	calls	?

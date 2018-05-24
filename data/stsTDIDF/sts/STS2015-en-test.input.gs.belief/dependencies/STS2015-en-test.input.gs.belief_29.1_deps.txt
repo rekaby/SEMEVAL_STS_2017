@@ -1,0 +1,12 @@
+nsubj	drop	that
+cop	drop	's
+det	drop	a
+amod	drop	substantial
+root	ROOT	drop
+dobj	choosing	that
+nsubj	choosing	you
+aux	choosing	are
+ccomp	drop	choosing
+mark	ignore	to
+xcomp	choosing	ignore
+punct	drop	.

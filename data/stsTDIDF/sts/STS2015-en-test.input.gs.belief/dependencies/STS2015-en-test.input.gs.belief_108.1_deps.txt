@@ -1,0 +1,15 @@
+punct	disappears	`
+nsubj	disappears	poof
+punct	disappears	'
+root	ROOT	disappears
+punct	disappears	:
+advmod	show	just
+mark	show	because
+nsubj	show	they
+aux	show	do
+neg	show	n't
+advcl	disappears	show
+dobj	show	it
+case	you	to
+nmod:to	show	you
+punct	disappears	.

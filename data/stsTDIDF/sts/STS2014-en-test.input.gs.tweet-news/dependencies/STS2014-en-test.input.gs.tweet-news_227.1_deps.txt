@@ -1,0 +1,10 @@
+compound	Times	NY
+root	ROOT	Times
+punct	Times	-
+compound	Sprint	A
+dep	Times	Sprint
+nsubj	Littered	That
+cop	Littered	Is
+acl:relcl	Sprint	Littered
+case	Pitfalls	With
+nmod:with	Littered	Pitfalls

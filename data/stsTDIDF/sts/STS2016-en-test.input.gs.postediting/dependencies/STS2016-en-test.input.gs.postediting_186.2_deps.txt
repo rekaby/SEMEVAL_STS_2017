@@ -1,0 +1,12 @@
+advmod	fell	Later
+punct	fell	,
+det	houses	the
+amod	houses	other
+nummod	houses	two
+nsubj	fell	houses
+root	ROOT	fell
+case	odds	at
+nmod:at	fell	odds
+advmod	odds	as
+mwe	as	well
+punct	fell	.

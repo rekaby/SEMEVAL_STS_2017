@@ -1,0 +1,8 @@
+root	ROOT	Remarks
+case	Elkeib	With
+compound	Elkeib	Prime
+compound	Elkeib	Minister
+nmod:with	Remarks	Elkeib
+case	Meeting	After
+nmod:poss	Meeting	Their
+nmod:after	Remarks	Meeting

@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	runs	girl
+root	ROOT	runs
+case	bank	along
+det	bank	a
+compound	bank	river
+nmod:along	runs	bank
+case	dogs	with
+nummod	dogs	two
+amod	dogs	black
+nmod:with	bank	dogs
+punct	runs	.

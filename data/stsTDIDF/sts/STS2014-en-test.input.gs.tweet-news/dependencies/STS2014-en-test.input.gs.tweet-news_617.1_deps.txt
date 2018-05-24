@@ -1,0 +1,15 @@
+amod	news	Hot
+compound	news	#Luxury
+root	ROOT	news
+punct	news	:
+amod	airlines	Japanese
+nsubj	suspend	airlines
+dep	news	suspend
+compound	flights	Dreamliner
+dobj	suspend	flights
+case	land	after
+compound	land	emergency
+nmod:after	suspend	land
+punct	news	?-13) punct(see-2, ,
+root	ROOT	see
+dobj	see	more

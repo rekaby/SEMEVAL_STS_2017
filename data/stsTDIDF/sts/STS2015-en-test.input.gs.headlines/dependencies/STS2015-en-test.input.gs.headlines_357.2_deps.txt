@@ -1,0 +1,7 @@
+amod	Minister	British
+compound	Minister	Prime
+nsubj	condemns	Minister
+root	ROOT	condemns
+dobj	condemns	murder
+case	teens	of
+nmod:of	murder	teens

@@ -1,0 +1,7 @@
+nsubj	suffers	Japan
+root	ROOT	suffers
+amod	flooding	severe
+dobj	suffers	flooding
+punct	suffers	-
+case	pictures	in
+nmod:in	suffers	pictures

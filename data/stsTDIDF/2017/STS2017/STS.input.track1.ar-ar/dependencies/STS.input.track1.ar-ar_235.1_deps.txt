@@ -1,0 +1,13 @@
+det	band	The
+root	ROOT	band
+punct	band	,
+nsubj	wears	who
+acl:relcl	band	wears
+det	uniforms	the
+amod	uniforms	yellow
+cc	yellow	and
+conj:and	yellow	green
+nsubj	pitch	uniforms
+amod	pitch	Tserali
+xcomp	wears	pitch
+punct	band	.

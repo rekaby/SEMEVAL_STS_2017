@@ -1,0 +1,4 @@
+root	ROOT	Picture
+case	Day	of
+det	Day	the
+nmod:of	Picture	Day

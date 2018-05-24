@@ -1,0 +1,6 @@
+listen	teacher	nmod:to
+teacher	to	case
+ROOT	listen	root
+listen	.	punct
+teacher	the	det
+listen	children	nsubj

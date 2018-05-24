@@ -1,0 +1,15 @@
+nsubj	insisted	She
+root	ROOT	insisted
+punct	insisted	,
+advmod	insisted	though
+punct	insisted	,
+mark	published	that
+nsubjpass	published	it
+neg	published	not
+auxpass	published	be
+ccomp	insisted	published
+case	death	until
+case	death	after
+nmod:poss	death	her
+nmod:after	published	death
+punct	insisted	.

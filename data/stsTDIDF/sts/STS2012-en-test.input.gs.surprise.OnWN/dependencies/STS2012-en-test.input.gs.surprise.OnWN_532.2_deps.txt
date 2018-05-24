@@ -1,0 +1,8 @@
+root	ROOT	take
+compound:prt	take	up
+nmod:poss	soul	someone
+case	someone	's
+dobj	take	soul
+case	heaven	into
+nmod:into	take	heaven
+punct	take	.

@@ -1,0 +1,7 @@
+det	reason	a
+root	ROOT	reason
+mark	wanting	for
+acl	reason	wanting
+nsubj	done	something
+ccomp	wanting	done
+punct	reason	.

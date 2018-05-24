@@ -1,0 +1,10 @@
+ccomp	rock	Gunshots
+punct	rock	,
+nsubj	rock	explosions
+root	ROOT	rock
+compound	day	Thai
+compound	day	protest
+dobj	rock	day
+advmod	rock	ahead
+case	polls	of
+nmod:of	ahead	polls

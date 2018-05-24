@@ -1,0 +1,12 @@
+teen	The	det
+courtyard	in	case
+people	walking	acl
+ROOT	rode	root
+people	around	case
+rode	.	punct
+rode	people	nmod:around
+courtyard	the	det
+walking	courtyard	nmod:in
+rode	teen	nsubj
+bike	his	nmod:poss
+rode	bike	dobj

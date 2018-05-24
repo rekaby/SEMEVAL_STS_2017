@@ -1,0 +1,5 @@
+ROOT	Family	root
+watching	TV	dobj
+Family	watching	acl
+Family	.	punct
+watching	together	advmod

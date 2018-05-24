@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+compound	bubbles	woman
+compound	bubbles	blow
+conj:and	man	bubbles
+punct	man	.

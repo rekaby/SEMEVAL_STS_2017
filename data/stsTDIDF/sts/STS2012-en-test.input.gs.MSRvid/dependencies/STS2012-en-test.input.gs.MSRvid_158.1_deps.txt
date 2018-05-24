@@ -1,0 +1,8 @@
+det	lady	The
+root	ROOT	lady
+acl	lady	chopped
+compound:prt	chopped	up
+det	onions	the
+amod	onions	green
+dobj	chopped	onions
+punct	lady	.

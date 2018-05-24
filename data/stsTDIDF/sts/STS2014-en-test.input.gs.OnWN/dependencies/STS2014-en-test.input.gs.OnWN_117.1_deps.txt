@@ -1,0 +1,9 @@
+det	shot	a
+amod	shot	winning
+nsubj	serve	shot
+case	tennis	in
+nmod:in	shot	tennis
+case	opponent	against
+nmod:'s	shot	opponent
+case	opponent	's
+root	ROOT	serve

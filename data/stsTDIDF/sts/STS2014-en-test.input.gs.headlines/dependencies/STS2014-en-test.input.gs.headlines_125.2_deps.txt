@@ -1,0 +1,7 @@
+compound	toll	Bangladesh
+amod	toll	building-collapse
+compound	toll	death
+nsubj	climbs	toll
+root	ROOT	climbs
+case	580	to
+nmod:to	climbs	580

@@ -1,0 +1,13 @@
+root	ROOT	lead
+det	kind	a
+amod	kind	certain
+dobj	lead	kind
+case	life	of
+nmod:of	kind	life
+punct	lead	;
+dep	lead	live
+case	style	in
+det	style	a
+amod	style	certain
+nmod:in	live	style
+punct	lead	;

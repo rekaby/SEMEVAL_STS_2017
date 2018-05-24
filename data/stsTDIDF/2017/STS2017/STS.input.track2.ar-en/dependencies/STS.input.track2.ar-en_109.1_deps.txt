@@ -1,0 +1,13 @@
+det	boy	A
+nsubj	putting	boy
+aux	putting	is
+root	ROOT	putting
+nmod:poss	socks	his
+amod	socks	black
+dobj	putting	socks
+cc	socks	and
+conj:and	socks	shoes
+case	feet	on
+nmod:poss	feet	his
+nmod:on	putting	feet
+punct	putting	.

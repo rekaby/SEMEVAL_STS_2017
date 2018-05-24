@@ -1,0 +1,7 @@
+nsubjpass	known	myanmar
+auxpass	known	was
+advmod	known	formerly
+root	ROOT	known
+case	burma	as
+nmod:as	known	burma
+punct	known	.

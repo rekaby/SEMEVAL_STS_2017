@@ -1,0 +1,13 @@
+det	man	A
+nsubj	surfing	man
+case	suit	in
+det	suit	a
+amod	suit	black
+nmod:in	man	suit
+aux	surfing	is
+root	ROOT	surfing
+case	wave	along
+det	wave	a
+amod	wave	crashing
+nmod:along	surfing	wave
+punct	surfing	.

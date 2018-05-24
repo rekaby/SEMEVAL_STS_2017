@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	running
+case	grass	through
+amod	grass	tall
+nmod:through	running	grass
+punct	dogs	.

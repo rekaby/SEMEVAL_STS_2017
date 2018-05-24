@@ -1,0 +1,7 @@
+det	dogs	The
+nsubj	pulling	dogs
+aux	pulling	are
+root	ROOT	pulling
+det	sled	a
+dobj	pulling	sled
+punct	pulling	.

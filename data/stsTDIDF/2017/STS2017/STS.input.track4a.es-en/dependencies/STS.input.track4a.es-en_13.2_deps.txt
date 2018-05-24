@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	crowd	a
+nsubj	is	crowd
+acl	crowd	watching
+det	performance	a
+dobj	watching	performance
+punct	is	.

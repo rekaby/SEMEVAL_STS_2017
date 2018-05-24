@@ -1,0 +1,15 @@
+nsubj	agree	I
+root	ROOT	agree
+advmod	hoping	completely
+nsubj	hoping	I
+aux	hoping	am
+xcomp	agree	hoping
+nsubj	term	he
+cop	term	is
+case	term	into
+det	term	a
+amod	term	second
+ccomp	hoping	term
+case	office	of
+nmod:of	term	office
+punct	agree	.

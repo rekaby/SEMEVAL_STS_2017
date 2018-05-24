@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	is	woman
+acl	woman	blindfolded
+root	ROOT	is
+case	knees	on
+nmod:poss	knees	her
+nmod:on	is	knees
+punct	is	.

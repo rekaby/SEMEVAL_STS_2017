@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	sings	woman
+root	ROOT	sings
+case	microphone	into
+det	microphone	a
+nmod:into	sings	microphone
+case	guy	by
+det	guy	a
+nmod:by	sings	guy
+acl	guy	playing
+det	guitar	a
+dobj	playing	guitar
+punct	sings	.

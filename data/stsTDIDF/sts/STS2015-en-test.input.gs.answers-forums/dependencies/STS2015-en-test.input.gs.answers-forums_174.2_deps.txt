@@ -1,0 +1,16 @@
+det	topics	The
+nsubj	broad	topics
+nsubj	mention	you
+acl:relcl	topics	mention
+cop	broad	are
+advmod	broad	very
+root	ROOT	broad
+cc	broad	and
+neg	related	not
+advmod	related	closely
+conj:and	broad	related
+case	world	in
+det	world	the
+amod	world	scientific
+nmod:in	related	world
+punct	broad	.

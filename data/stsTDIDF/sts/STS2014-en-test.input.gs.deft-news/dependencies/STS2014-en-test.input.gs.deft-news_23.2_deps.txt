@@ -1,0 +1,16 @@
+det	community	the
+amod	community	global
+nsubj	cooperate	community
+aux	cooperate	must
+root	ROOT	cooperate
+mark	end	to
+xcomp	cooperate	end
+amod	trade	illicit
+dobj	end	trade
+case	arms	of
+amod	arms	small
+nmod:of	trade	arms
+cc	arms	and
+amod	weapons	light
+conj:and	arms	weapons
+punct	cooperate	.

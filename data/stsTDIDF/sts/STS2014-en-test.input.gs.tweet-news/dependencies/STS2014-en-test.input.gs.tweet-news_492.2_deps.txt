@@ -1,0 +1,11 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+advmod	Make	How
+nsubj	Make	Turkey
+aux	Make	Can
+parataxis	Contributor	Make
+dobj	Make	Peace
+case	Kurds	With
+det	Kurds	the
+nmod:with	Make	Kurds

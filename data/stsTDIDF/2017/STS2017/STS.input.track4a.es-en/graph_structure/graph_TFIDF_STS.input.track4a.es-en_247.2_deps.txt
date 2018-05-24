@@ -1,0 +1,5 @@
+looking	man	nsubj
+shower	an	det
+shower	outdoor	amod
+shower	at	case
+looking	shower	nmod:at

@@ -1,0 +1,8 @@
+advmod	mention	Yes
+punct	mention	,
+nsubj	mention	you
+aux	mention	should
+root	ROOT	mention
+nmod:poss	experience	your
+dobj	mention	experience
+punct	mention	.

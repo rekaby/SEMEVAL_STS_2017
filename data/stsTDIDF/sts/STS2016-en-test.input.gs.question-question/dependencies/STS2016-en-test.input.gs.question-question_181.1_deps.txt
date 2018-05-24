@@ -1,0 +1,9 @@
+advmod	paint	How
+aux	paint	do
+nsubj	paint	I
+root	ROOT	paint
+dobj	paint	art
+case	wall	onto
+det	wall	a
+nmod:onto	paint	wall
+punct	paint	?

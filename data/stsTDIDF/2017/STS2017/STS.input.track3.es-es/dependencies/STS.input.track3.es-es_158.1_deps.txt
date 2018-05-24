@@ -1,0 +1,10 @@
+det	children	The
+nsubj	laugh	children
+root	ROOT	laugh
+mark	glide	as
+nsubj	glide	they
+advcl	laugh	glide
+case	snow	in
+det	snow	the
+nmod:in	glide	snow
+punct	laugh	.

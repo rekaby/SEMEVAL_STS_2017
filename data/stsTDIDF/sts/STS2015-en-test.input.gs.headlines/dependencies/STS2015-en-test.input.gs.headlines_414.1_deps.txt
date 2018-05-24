@@ -1,0 +1,8 @@
+compound	test	US
+compound	test	postpones
+compound	test	missile
+nsubj	tensions	test
+case	Korea	over
+compound	Korea	N
+nmod:over	test	Korea
+root	ROOT	tensions

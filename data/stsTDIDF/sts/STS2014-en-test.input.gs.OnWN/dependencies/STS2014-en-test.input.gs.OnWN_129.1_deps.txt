@@ -1,0 +1,6 @@
+det	race	a
+compound	race	vehicle
+root	ROOT	race
+case	roads	on
+amod	roads	public
+nmod:on	race	roads

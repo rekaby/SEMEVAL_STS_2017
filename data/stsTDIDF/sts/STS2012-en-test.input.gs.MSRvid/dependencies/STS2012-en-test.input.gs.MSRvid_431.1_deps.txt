@@ -1,0 +1,7 @@
+det	elephants	The
+nsubj	sprayed	elephants
+root	ROOT	sprayed
+dobj	sprayed	water
+case	themselves	on
+nmod:on	sprayed	themselves
+punct	sprayed	.

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	speaking
+case	woman	to
+det	woman	a
+nmod:to	speaking	woman
+acl	woman	sitting
+case	table	behind
+det	table	the
+nmod:behind	sitting	table
+punct	man	.

@@ -1,0 +1,15 @@
+det	birds	A
+amod	birds	small
+amod	birds	brown
+nsubj	eating	birds
+aux	eating	is
+root	ROOT	eating
+case	feeder	from
+det	feeder	a
+compound	feeder	bird
+nmod:from	eating	feeder
+acl	feeder	hanging
+case	tree	from
+det	tree	a
+nmod:from	hanging	tree
+punct	eating	.

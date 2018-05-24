@@ -1,0 +1,10 @@
+compound	clinton	bill
+nsubj	got	clinton
+root	ROOT	got
+det	blowjob	a
+dobj	got	blowjob
+case	office	in
+det	office	the
+amod	office	oval
+nmod:in	blowjob	office
+punct	got	.

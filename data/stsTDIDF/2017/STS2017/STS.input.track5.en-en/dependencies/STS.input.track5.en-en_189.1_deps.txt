@@ -1,0 +1,7 @@
+det	child	A
+amod	child	wet
+nsubj	enjoys	child
+root	ROOT	enjoys
+det	summer	the
+dobj	enjoys	summer
+punct	enjoys	.

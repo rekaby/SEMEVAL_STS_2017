@@ -1,0 +1,5 @@
+root	ROOT	make
+xcomp	make	hard
+cc	hard	or
+conj:or	hard	harder
+punct	make	.

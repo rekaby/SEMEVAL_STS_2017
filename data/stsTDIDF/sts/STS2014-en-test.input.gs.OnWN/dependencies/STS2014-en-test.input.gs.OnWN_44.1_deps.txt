@@ -1,0 +1,8 @@
+aux	inferred	come
+case	consequence	as
+det	consequence	a
+amod	consequence	logical
+nmod:as	come	consequence
+punct	come	,
+auxpass	inferred	be
+root	ROOT	inferred

@@ -1,0 +1,10 @@
+det	engine	A
+amod	engine	green
+compound	engine	steam
+root	ROOT	engine
+acl	engine	traveling
+case	tracks	on
+det	tracks	the
+compound	tracks	railroad
+nmod:on	traveling	tracks
+punct	engine	.

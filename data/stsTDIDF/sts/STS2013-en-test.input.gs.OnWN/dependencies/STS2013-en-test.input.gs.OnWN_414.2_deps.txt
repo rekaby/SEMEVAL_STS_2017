@@ -1,0 +1,8 @@
+cop	equal	be
+root	ROOT	equal
+case	quality	to
+case	quality	in
+nmod:in	equal	quality
+cc	quality	or
+conj:or	quality	ability
+punct	equal	.

@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	shaking	dogs
+aux	shaking	are
+root	ROOT	shaking
+dobj	shaking	water
+advmod	shaking	off
+punct	shaking	.

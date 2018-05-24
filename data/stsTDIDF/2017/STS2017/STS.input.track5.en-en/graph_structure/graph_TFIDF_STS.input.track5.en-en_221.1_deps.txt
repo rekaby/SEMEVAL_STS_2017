@@ -1,0 +1,6 @@
+kid	woman	nmod:poss
+kid	.	punct
+kid	child	nsubj
+kid	is	cop
+child	The	det
+ROOT	kid	root

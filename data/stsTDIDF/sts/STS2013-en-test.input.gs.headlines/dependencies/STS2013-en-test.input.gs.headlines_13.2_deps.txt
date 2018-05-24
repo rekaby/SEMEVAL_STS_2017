@@ -1,0 +1,10 @@
+nsubj	says	Obama
+root	ROOT	says
+amod	rules	clear
+dobj	says	rules
+acl	rules	needed
+mark	calm	to
+xcomp	needed	calm
+compound	Sea	South
+compound	Sea	China
+dobj	calm	Sea

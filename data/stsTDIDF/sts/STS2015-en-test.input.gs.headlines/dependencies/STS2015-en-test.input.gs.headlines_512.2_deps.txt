@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	60	least
+nummod	die	60
+root	ROOT	die
+case	attack	in
+compound	attack	Iraq
+compound	attack	prison
+nmod:in	die	attack

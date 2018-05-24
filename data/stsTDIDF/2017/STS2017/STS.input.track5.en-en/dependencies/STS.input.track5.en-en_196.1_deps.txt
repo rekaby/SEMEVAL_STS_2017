@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	walk	women
+root	ROOT	walk
+case	sidewalk	down
+det	sidewalk	the
+nmod:down	walk	sidewalk
+case	store	to
+det	store	the
+nmod:to	walk	store
+punct	walk	.

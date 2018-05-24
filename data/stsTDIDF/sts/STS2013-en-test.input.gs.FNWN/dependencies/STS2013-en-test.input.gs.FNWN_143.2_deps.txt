@@ -1,0 +1,11 @@
+det	district	a
+root	ROOT	district
+nsubjpass	developed	that
+aux	developed	has
+auxpass	developed	been
+acl:relcl	district	developed
+mark	serve	to
+xcomp	developed	serve
+det	purpose	some
+dobj	serve	purpose
+punct	district	;

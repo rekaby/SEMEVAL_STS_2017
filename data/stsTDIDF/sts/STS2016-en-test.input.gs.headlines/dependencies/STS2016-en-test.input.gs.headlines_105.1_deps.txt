@@ -1,0 +1,9 @@
+amod	parliament	Russian
+nsubj	allows	parliament
+root	ROOT	allows
+dobj	allows	Putin
+mark	use	to
+xcomp	allows	use
+dobj	use	military
+case	Ukraine	in
+nmod:in	military	Ukraine

@@ -1,0 +1,7 @@
+boy	bat	nmod:with
+shouting	boy	nsubj
+shouting	.	punct
+bat	baseball	compound
+bat	with	case
+bat	a	det
+ROOT	shouting	root

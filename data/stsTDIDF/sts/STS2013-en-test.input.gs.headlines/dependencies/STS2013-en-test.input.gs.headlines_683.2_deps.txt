@@ -1,0 +1,10 @@
+nummod	die	5
+root	ROOT	die
+case	strikes	in
+nmod:in	die	strikes
+case	Gaza	on
+nmod:on	strikes	Gaza
+punct	die	,
+compound	barrage	militants
+appos	die	barrage
+dobj	barrage	Israel

@@ -1,0 +1,21 @@
+punct	climbs	``
+punct	climbs	:
+punct	climbs	``
+punct	climbs	:
+compound	toll	Death
+nsubj	climbs	toll
+root	ROOT	climbs
+case	220	to
+nmod:to	climbs	220
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	220	fire
+punct	climbs	,
+nsubj	says	official
+parataxis	climbs	says
+punct	climbs	.
+punct	climbs	''-18) advmod(sad-2, incredibly
+amod	horrifying	sad
+punct	sad	''
+root	ROOT	horrifying

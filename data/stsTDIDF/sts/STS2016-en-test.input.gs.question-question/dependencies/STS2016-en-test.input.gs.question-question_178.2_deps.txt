@@ -1,0 +1,10 @@
+advmod	level	How
+aux	level	do
+nsubj	level	I
+root	ROOT	level
+det	pipe	a
+dobj	level	pipe
+case	ground	with
+det	ground	the
+nmod:with	level	ground
+punct	level	?

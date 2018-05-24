@@ -1,0 +1,15 @@
+det	caveat	A
+root	ROOT	caveat
+punct	caveat	:
+nsubj	experiencing	I
+aux	experiencing	'm
+dep	caveat	experiencing
+det	end	the
+compound	end	tail
+dobj	experiencing	end
+case	migraine	of
+det	migraine	a
+compound	day	three
+amod	migraine	day
+nmod:of	end	migraine
+punct	caveat	.

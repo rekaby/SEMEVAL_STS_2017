@@ -1,0 +1,14 @@
+root	ROOT	Change
+det	meaning	the
+dobj	Change	meaning
+case	words	of
+punct	words	-LRB-
+nmod:poss	words	someone
+case	someone	's
+punct	words	-RRB-
+nmod:of	meaning	words
+case	intent	with
+nmod:with	words	intent
+mark	deceive	to
+acl	intent	deceive
+punct	Change	.

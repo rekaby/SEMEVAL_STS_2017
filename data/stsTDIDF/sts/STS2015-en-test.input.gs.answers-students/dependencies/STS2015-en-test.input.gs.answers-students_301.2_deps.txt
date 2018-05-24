@@ -1,0 +1,6 @@
+det	bulb	a
+amod	bulb	damaged
+nsubj	creates	bulb
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap

@@ -1,0 +1,10 @@
+punct	Cause	-LRB-
+dep	strike	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	strike
+det	air	the
+dobj	strike	air
+case	flight	in
+nmod:in	strike	flight
+punct	strike	.

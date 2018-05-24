@@ -1,0 +1,14 @@
+walkway	woman	nsubj
+body	at	case
+woman	wearing	acl
+looking	body	nmod:at
+walkway	is	cop
+walkway	.	punct
+skirt	a	det
+ROOT	walkway	root
+walkway	looking	acl
+wearing	skirt	dobj
+body	water	nmod:of
+skirt	blue	amod
+walkway	a	det
+walkway	on	case

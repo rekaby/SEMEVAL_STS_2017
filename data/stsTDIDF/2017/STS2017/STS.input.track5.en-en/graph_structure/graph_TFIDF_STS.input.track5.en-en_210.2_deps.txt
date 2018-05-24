@@ -1,0 +1,5 @@
+poses	.	punct
+poses	woman	nsubj
+poses	camera	nmod:for
+ROOT	poses	root
+camera	for	case

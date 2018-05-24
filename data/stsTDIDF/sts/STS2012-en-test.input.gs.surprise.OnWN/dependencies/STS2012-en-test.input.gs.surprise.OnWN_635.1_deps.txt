@@ -1,0 +1,7 @@
+root	ROOT	add
+dobj	add	embellishments
+punct	manuscripts	-LRB-
+case	manuscripts	to
+amod	manuscripts	medieval
+appos	embellishments	manuscripts
+punct	manuscripts	-RRB-

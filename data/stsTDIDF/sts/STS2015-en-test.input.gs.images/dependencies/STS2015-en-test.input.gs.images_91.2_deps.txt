@@ -1,0 +1,7 @@
+det	person	A
+root	ROOT	person
+acl	person	riding
+det	bike	a
+compound	bike	dirt
+dobj	riding	bike
+punct	person	.

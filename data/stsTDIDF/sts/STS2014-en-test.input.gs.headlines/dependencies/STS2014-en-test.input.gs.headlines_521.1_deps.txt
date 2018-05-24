@@ -1,0 +1,10 @@
+amod	troops	Indian
+nsubj	kill	troops
+root	ROOT	kill
+amod	soldier	Pakistani
+dobj	kill	soldier
+case	line	along
+compound	line	Kashmir
+nmod:along	soldier	line
+case	control	of
+nmod:of	line	control

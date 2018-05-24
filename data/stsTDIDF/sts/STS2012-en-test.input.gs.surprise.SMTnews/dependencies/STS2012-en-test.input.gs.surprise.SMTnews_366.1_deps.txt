@@ -1,0 +1,17 @@
+nsubj	is	Foremost
+case	these	among
+nmod:among	Foremost	these
+root	ROOT	is
+mark	hands	that
+amod	development	economic
+nsubj	hands	development
+cop	hands	is
+advmod	hands	largely
+case	hands	in
+det	hands	the
+ccomp	is	hands
+case	nations	of
+amod	nations	poor
+nmod:of	hands	nations
+nmod:npmod	hands	themselves
+punct	is	.

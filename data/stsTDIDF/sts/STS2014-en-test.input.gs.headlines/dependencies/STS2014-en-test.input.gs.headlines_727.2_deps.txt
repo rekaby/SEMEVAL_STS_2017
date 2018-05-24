@@ -1,0 +1,7 @@
+compound	issues	India
+nsubj	alert	issues
+amod	alert	red
+root	ROOT	alert
+case	cyclone	for
+nmod:for	alert	cyclone
+dep	alert	Phailin

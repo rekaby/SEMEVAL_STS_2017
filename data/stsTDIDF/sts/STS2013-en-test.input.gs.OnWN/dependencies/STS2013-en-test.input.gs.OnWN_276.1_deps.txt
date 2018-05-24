@@ -1,0 +1,9 @@
+root	ROOT	cause
+amod	action	romantic
+dobj	cause	action
+punct	cause	;
+parataxis	cause	lure
+advmod	lure	away
+case	conduct	from
+amod	conduct	proper
+nmod:from	lure	conduct

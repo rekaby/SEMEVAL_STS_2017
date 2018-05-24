@@ -1,0 +1,10 @@
+amod	prisoner	Palestinian
+nsubj	dies	prisoner
+root	ROOT	dies
+case	cancer	of
+nmod:of	dies	cancer
+punct	dies	,
+dobj	dies	unrest
+case	jails	in
+compound	jails	Israel
+nmod:in	unrest	jails

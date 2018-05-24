@@ -1,0 +1,9 @@
+compound	Guard	US
+compound	Guard	Coast
+nsubj	suspends	Guard
+root	ROOT	suspends
+dobj	suspends	search
+mark	missing	for
+acl	search	missing
+amod	sailors	British
+dobj	missing	sailors

@@ -1,0 +1,8 @@
+det	bear	The
+compound	bear	panda
+nsubj	lay	bear
+root	ROOT	lay
+case	logs	on
+det	logs	the
+nmod:on	lay	logs
+punct	lay	.

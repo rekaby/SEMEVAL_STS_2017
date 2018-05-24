@@ -1,0 +1,5 @@
+compound	Deaths	U.S.
+compound	Deaths	Military
+root	ROOT	Deaths
+case	Afghanistan	in
+nmod:in	Deaths	Afghanistan

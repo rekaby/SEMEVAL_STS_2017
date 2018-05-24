@@ -1,0 +1,8 @@
+root	ROOT	part
+punct	part	;
+dep	part	cease
+cc	cease	or
+conj:or	cease	break
+dobj	cease	association
+dep	cease	with
+punct	part	.

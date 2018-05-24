@@ -1,0 +1,10 @@
+det	puppy	A
+root	ROOT	puppy
+case	ears	with
+amod	ears	big
+nmod:with	puppy	ears
+acl	ears	chewing
+case	stick	on
+det	stick	a
+nmod:on	chewing	stick
+punct	puppy	.

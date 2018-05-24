@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	little
+nsubjpass	covered	girl
+auxpass	covered	is
+root	ROOT	covered
+case	towel	in
+det	towel	a
+nmod:in	covered	towel
+case	pool	at
+det	pool	a
+compound	pool	swimming
+nmod:at	towel	pool
+punct	covered	.

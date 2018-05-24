@@ -1,0 +1,11 @@
+det	man	A
+nsubjpass	shown	man
+auxpass	shown	is
+root	ROOT	shown
+xcomp	shown	slicing
+det	carrot	a
+dobj	slicing	carrot
+case	knife	with
+det	knife	a
+nmod:with	slicing	knife
+punct	shown	.

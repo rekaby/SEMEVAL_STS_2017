@@ -1,0 +1,11 @@
+shirt	a	det
+helps	man	dobj
+shirt	with	case
+helps	man	nmod:tmod
+shirt	red	amod
+fit	path	dobj
+helps	shirt	nsubj
+path	bicycle	compound
+helps	shirt	nmod:with
+helps	fit	xcomp
+shirt	blue	amod

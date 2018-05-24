@@ -1,0 +1,14 @@
+det	osce	the
+nsubj	discussed	osce
+root	ROOT	discussed
+nmod:poss	bid	kazakhstan
+case	kazakhstan	's
+dobj	discussed	bid
+mark	hold	to
+acl	bid	hold
+det	presidency	the
+compound	presidency	osce
+dobj	hold	presidency
+case	2009	in
+nmod:in	hold	2009
+punct	discussed	.

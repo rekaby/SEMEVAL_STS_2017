@@ -1,0 +1,13 @@
+root	ROOT	devoted
+punct	fanatically	-LRB-
+advmod	fanatically	sometimes
+dep	devoted	fanatically
+punct	fanatically	-RRB-
+case	cause	to
+det	cause	a
+nmod:to	devoted	cause
+cc	cause	or
+conj:or	cause	concept
+cc	concept	or
+conj:or	concept	truth
+punct	devoted	;

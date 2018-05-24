@@ -1,0 +1,9 @@
+wears	standing	conj:and
+stool	on	case
+stool	the	det
+thong	a	det
+wears	thong	dobj
+wears	and	cc
+wears	man	nsubj
+standing	stool	nmod:on
+wears	.	punct

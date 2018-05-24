@@ -1,0 +1,10 @@
+auxpass	located	be
+root	ROOT	located
+conj:or	located	located
+case	something	at
+cc	at	or
+case	top	on
+conj:or	at	top
+case	something	of
+nmod:of	located	something
+nmod:top	located	something

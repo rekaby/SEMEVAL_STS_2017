@@ -1,0 +1,13 @@
+mark	move	to
+root	ROOT	move
+punct	head	-LRB-
+det	head	the
+dobj	move	head
+cc	head	or
+conj:or	head	body
+punct	head	-RRB-
+advmod	downwards	quickly
+dep	head	downwards
+cc	downwards	or
+conj:or	downwards	away
+punct	move	.

@@ -1,0 +1,9 @@
+nsubj	vote	Greece
+mark	vote	to
+root	ROOT	vote
+case	budget	on
+nummod	budget	2013
+nmod:on	vote	budget
+punct	vote	;
+nsubj	gather	protesters
+parataxis	vote	gather

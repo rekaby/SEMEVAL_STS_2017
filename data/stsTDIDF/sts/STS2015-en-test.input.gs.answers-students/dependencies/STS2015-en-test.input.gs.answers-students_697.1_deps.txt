@@ -1,0 +1,9 @@
+expl	is	there
+root	ROOT	is
+neg	path	no
+amod	path	closed
+nsubj	is	path
+case	4	in
+compound	4	circuit
+nmod:in	path	4
+punct	is	.

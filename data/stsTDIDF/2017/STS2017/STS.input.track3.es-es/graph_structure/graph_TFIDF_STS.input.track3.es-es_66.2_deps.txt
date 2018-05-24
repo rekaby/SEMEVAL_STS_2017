@@ -1,0 +1,4 @@
+dog	playing	acl
+playing	field	nmod:in
+ROOT	dog	root
+dog	.	punct

@@ -1,0 +1,8 @@
+amod	train	Old
+amod	train	blue
+cc	blue	and
+conj:and	blue	white
+root	ROOT	train
+case	tracks	on
+nmod:on	train	tracks
+punct	train	.

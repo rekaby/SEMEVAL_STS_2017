@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	sharing	of
+acl	act	sharing
+case	activities	in
+det	activities	the
+nmod:in	sharing	activities
+case	group	of
+det	group	a
+nmod:of	activities	group
+punct	act	.

@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	reading	girl
+aux	reading	is
+root	ROOT	reading
+case	trains	about
+nmod:about	reading	trains
+punct	reading	.

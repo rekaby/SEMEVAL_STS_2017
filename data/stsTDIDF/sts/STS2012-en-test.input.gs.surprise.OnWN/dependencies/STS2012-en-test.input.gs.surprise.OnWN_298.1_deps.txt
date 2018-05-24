@@ -1,0 +1,6 @@
+det	style	a
+root	ROOT	style
+cc	style	and
+conj:and	style	size
+case	typeset	of
+nmod:of	style	typeset

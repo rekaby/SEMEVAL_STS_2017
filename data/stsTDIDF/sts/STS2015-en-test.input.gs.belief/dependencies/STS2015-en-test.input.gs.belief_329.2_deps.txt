@@ -1,0 +1,11 @@
+nsubj	budget	i
+aux	budget	would
+neg	budget	n't
+root	ROOT	budget
+advmod	3-4k	anywhere
+case	3-4k	near
+nmod:near	budget	3-4k
+case	it	on
+nmod:on	3-4k	it
+dep	budget	though
+punct	budget	!

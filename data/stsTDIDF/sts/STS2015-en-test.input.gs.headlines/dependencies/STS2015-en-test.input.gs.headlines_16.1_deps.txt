@@ -1,0 +1,8 @@
+compound	ministers	EU
+amod	ministers	foreign
+root	ROOT	ministers
+mark	discuss	to
+acl	ministers	discuss
+compound	embargo	Syria
+compound	embargo	arms
+dobj	discuss	embargo

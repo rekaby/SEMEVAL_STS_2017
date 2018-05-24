@@ -1,0 +1,12 @@
+root	ROOT	FOLLOW
+det	DINERO	THE
+dobj	FOLLOW	DINERO
+punct	FOLLOW	:
+nsubj	Raises	Cuomo
+parataxis	FOLLOW	Raises
+amod	Million	$
+nummod	$	22.5
+dobj	Raises	Million
+case	Re-election	for
+nmod:for	Raises	Re-election
+dep	Re-election	Bid

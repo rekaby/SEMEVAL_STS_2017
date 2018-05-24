@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	working	dogs
+aux	working	were
+root	ROOT	working
+case	field	in
+det	field	a
+nmod:in	working	field

@@ -1,0 +1,14 @@
+root	ROOT	it
+dep	it	may
+ccomp	may	be
+mark	wants	that
+nsubj	wants	chirac
+ccomp	be	wants
+mark	prevent	to
+xcomp	wants	prevent
+amod	violence	religious
+dobj	prevent	violence
+mark	starts	before
+nsubj	starts	it
+advcl	prevent	starts
+punct	it	.

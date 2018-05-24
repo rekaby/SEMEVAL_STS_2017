@@ -1,0 +1,11 @@
+amod	II	Belgian
+compound	II	King
+compound	II	Albert
+nsubj	step	II
+mark	step	to
+root	ROOT	step
+compound:prt	step	down
+case	favor	in
+nmod:in	step	favor
+case	son	of
+nmod:of	favor	son

@@ -1,0 +1,13 @@
+nsubj	's	That
+root	ROOT	's
+advmod	tests	how
+det	driver	the
+nsubj	tests	driver
+ccomp	's	tests
+det	validity	the
+dobj	tests	validity
+case	voucher	of
+det	voucher	the
+amod	voucher	registered
+nmod:of	validity	voucher
+punct	's	.

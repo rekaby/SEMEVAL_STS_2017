@@ -1,0 +1,9 @@
+root	ROOT	reach
+det	objective	an
+dobj	reach	objective
+punct	reach	,
+conj:or	reach	attain
+det	benchmark	a
+dobj	attain	benchmark
+cc	reach	or
+conj:or	reach	goal

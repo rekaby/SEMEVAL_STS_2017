@@ -1,0 +1,24 @@
+det	frame	this
+nsubj	concerns	frame
+root	ROOT	concerns
+det	cognizer	a
+nmod:poss	certainty	cognizer
+case	cognizer	's
+dobj	concerns	certainty
+case	correctness	about
+det	correctness	the
+nmod:about	certainty	correctness
+case	beliefs	of
+nmod:of	correctness	beliefs
+cc	beliefs	or
+conj:or	beliefs	expectations
+punct	concerns	.-15) nsubj(includes-3, it
+advmod	includes	only
+root	ROOT	includes
+dobj	includes	uses
+advmod	expressed	where
+det	cognizer	a
+nsubjpass	expressed	cognizer
+auxpass	expressed	is
+acl:relcl	uses	expressed
+punct	includes	.

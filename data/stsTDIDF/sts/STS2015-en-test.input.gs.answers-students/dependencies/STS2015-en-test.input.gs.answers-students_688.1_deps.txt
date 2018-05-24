@@ -1,0 +1,10 @@
+nummod	side	One
+nsubjpass	closed	side
+auxpass	closed	is
+root	ROOT	closed
+det	side	the
+amod	side	other
+nsubj	open	side
+cop	open	is
+ccomp	closed	open
+punct	closed	.

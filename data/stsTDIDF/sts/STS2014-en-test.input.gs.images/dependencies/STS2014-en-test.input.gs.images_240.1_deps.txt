@@ -1,0 +1,11 @@
+det	duck	A
+amod	duck	brown
+nsubj	stand	duck
+cc	duck	and
+amod	duck	white
+conj:and	duck	duck
+root	ROOT	stand
+case	grass	on
+det	grass	the
+nmod:on	stand	grass
+punct	stand	.

@@ -1,0 +1,6 @@
+compound	sweats	Child
+root	ROOT	sweats
+case	beach	on
+det	beach	the
+nmod:on	sweats	beach
+punct	sweats	.

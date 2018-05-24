@@ -1,0 +1,4 @@
+pet	his	nmod:poss
+man	pet	conj:and
+outside	man	nsubj
+ROOT	outside	root

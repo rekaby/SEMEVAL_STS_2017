@@ -1,0 +1,15 @@
+nsubj	acquired	Microsoft
+root	ROOT	acquired
+amod	PC	Virtual
+dobj	acquired	PC
+advmod	bought	when
+nsubj	bought	it
+advcl	acquired	bought
+det	assets	the
+dobj	bought	assets
+case	Connectix	of
+nmod:of	assets	Connectix
+advmod	year	earlier
+det	year	this
+nmod:tmod	bought	year
+punct	acquired	.

@@ -1,0 +1,7 @@
+nsubj	blocks	Pakistan
+root	ROOT	blocks
+dobj	blocks	Twitter
+case	blasphemy	over
+punct	blasphemy	`
+nmod:over	blocks	blasphemy
+punct	blocks	'

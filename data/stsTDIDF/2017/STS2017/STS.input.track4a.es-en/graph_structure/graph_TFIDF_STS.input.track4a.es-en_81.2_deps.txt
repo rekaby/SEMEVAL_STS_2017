@@ -1,0 +1,3 @@
+train	for	case
+wait	train	nmod:for
+wait	people	nsubj

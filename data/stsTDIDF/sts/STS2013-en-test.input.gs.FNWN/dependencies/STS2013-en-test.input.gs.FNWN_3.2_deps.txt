@@ -1,0 +1,7 @@
+root	ROOT	win
+dobj	win	something
+case	efforts	through
+nmod:poss	efforts	one
+case	one	's
+nmod:through	win	efforts
+punct	win	;

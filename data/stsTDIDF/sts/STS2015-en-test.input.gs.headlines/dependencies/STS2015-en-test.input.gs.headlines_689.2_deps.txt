@@ -1,0 +1,11 @@
+compound	experts	Iran
+amod	experts	nuclear
+root	ROOT	experts
+punct	experts	,
+compound	powers	world
+appos	experts	powers
+mark	resume	to
+acl	powers	resume
+dobj	resume	talks
+amod	week	next
+nmod:tmod	resume	week

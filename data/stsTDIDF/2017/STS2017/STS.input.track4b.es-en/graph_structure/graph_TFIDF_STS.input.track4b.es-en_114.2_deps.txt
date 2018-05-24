@@ -1,0 +1,13 @@
+shy	cripplingly	advmod
+uploaded	,	punct
+uploaded	.	punct
+old	year	nmod:npmod
+uploaded	been	auxpass
+year	18	nummod
+uploaded	September	nmod:in
+year	shy	amod
+uploaded	had	aux
+uploaded	old	advmod
+September	1986	nummod
+uploaded	I	nsubjpass
+ROOT	uploaded	root

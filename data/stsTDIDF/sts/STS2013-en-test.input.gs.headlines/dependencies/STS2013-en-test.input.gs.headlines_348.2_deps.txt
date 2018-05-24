@@ -1,0 +1,9 @@
+nsubj	closes	U.S.
+root	ROOT	closes
+dobj	closes	embassy
+case	Damascus	in
+nmod:in	closes	Damascus
+amod	violence	due
+case	Syria	to
+nmod:to	due	Syria
+dobj	closes	violence

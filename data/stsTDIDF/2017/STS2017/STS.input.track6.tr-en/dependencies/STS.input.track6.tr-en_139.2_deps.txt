@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	dives	girl
+root	ROOT	dives
+case	pool	into
+det	pool	the
+nmod:into	dives	pool
+punct	dives	.

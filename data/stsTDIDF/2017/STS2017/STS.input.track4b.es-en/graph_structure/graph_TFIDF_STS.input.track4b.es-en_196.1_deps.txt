@@ -1,0 +1,6 @@
+make	bloodier	xcomp
+make	Maybe	advmod
+make	this	nsubj
+bloodier	struggle	nsubj
+bloodier	before	nmod:than
+struggle	their	nmod:poss

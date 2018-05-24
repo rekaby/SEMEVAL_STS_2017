@@ -1,0 +1,8 @@
+det	crowd	A
+nsubj	watches	crowd
+root	ROOT	watches
+det	man	a
+nsubj	logs	man
+amod	logs	cut
+ccomp	watches	logs
+punct	watches	.

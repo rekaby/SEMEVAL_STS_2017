@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+det	band	a
+nsubj	is	band
+acl	band	performing
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+amod	crowd	large
+nmod:in_front_of	performing	crowd

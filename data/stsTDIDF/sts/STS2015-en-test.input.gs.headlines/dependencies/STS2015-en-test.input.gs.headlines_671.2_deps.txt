@@ -1,0 +1,6 @@
+nummod	quake	6.8
+root	ROOT	quake
+case	region	in
+amod	region	shattered
+compound	region	Pakistan
+nmod:in	quake	region

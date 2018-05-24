@@ -1,0 +1,12 @@
+nsubj	find	I
+root	ROOT	find
+dobj	find	that
+dep	that	France
+amod	France	exemplary
+dep	exemplary	committed
+dobj	committed	itself
+mark	take	to
+advcl	committed	take
+det	step	this
+dobj	take	step
+punct	find	.

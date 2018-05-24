@@ -1,0 +1,7 @@
+praying	people	nsubj
+praying	were	aux
+praying	.	punct
+temple	outside	case
+praying	temple	nmod:outside
+temple	the	det
+ROOT	praying	root

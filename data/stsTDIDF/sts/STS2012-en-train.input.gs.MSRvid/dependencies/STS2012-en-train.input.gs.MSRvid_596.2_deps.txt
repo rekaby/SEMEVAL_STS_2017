@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	abusing	woman
+aux	abusing	is
+root	ROOT	abusing
+nmod:poss	child	her
+dobj	abusing	child
+punct	abusing	.

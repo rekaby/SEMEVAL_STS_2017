@@ -1,0 +1,16 @@
+det	group	The
+nsubj	stuck	group
+case	people	of
+nmod:of	group	people
+aux	stuck	have
+root	ROOT	stuck
+case	cellar	in
+det	cellar	the
+nmod:in	stuck	cellar
+advmod	stuck	since
+det	earthquake	the
+dep	since	earthquake
+acl	earthquake	buried
+det	house	the
+dobj	buried	house
+punct	stuck	.

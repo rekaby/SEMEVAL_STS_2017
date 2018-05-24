@@ -1,0 +1,11 @@
+det	family	A
+nsubj	playing	family
+aux	playing	is
+root	ROOT	playing
+case	beach	on
+det	beach	the
+nmod:on	playing	beach
+case	dog	with
+nmod:poss	dog	their
+nmod:with	playing	dog
+punct	playing	.

@@ -1,0 +1,8 @@
+root	ROOT	What
+cop	What	's
+nmod:poss	opinion	my
+nsubj	What	opinion
+case	series	regarding
+det	series	the
+nmod:regarding	opinion	series
+punct	What	?

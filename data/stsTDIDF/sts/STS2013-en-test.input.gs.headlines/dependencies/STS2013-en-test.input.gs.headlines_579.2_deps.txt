@@ -1,0 +1,9 @@
+root	ROOT	Eurozone
+mark	lend	to
+acl	Eurozone	lend
+dobj	lend	Spain
+advmod	lend	up
+case	bil	to
+nummod	bil	100
+nmod:to	up	bil
+punct	Eurozone	.-9) root(ROOT-0, euros

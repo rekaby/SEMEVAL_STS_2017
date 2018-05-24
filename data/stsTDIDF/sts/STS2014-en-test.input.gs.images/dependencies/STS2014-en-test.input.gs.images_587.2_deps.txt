@@ -1,0 +1,7 @@
+nummod	motorbikes	two
+root	ROOT	motorbikes
+case	track	on
+det	track	a
+compound	track	dirt
+nmod:on	motorbikes	track
+punct	motorbikes	.

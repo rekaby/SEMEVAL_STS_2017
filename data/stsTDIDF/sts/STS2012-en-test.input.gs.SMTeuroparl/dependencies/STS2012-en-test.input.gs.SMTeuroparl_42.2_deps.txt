@@ -1,0 +1,14 @@
+det	leaders	The
+nsubj	benefit	leaders
+root	ROOT	benefit
+nmod:tmod	benefit	today
+case	chance	of
+det	chance	a
+amod	chance	new
+nmod:of	benefit	chance
+cc	benefit	and
+advmod	let	thus
+conj:and	benefit	let
+det	matter	the
+dobj	let	matter
+punct	benefit	.

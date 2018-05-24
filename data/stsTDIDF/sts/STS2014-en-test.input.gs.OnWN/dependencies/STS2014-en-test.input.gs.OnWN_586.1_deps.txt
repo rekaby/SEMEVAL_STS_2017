@@ -1,0 +1,7 @@
+det	portion	a
+amod	portion	small
+punct	portion	,
+amod	portion	indefinite
+root	ROOT	portion
+case	something	of
+nmod:of	portion	something

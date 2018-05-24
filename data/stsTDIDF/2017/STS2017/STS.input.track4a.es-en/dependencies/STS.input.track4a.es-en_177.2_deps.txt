@@ -1,0 +1,10 @@
+det	men	The
+nummod	men	two
+nsubj	sitting	men
+case	jackets	in
+amod	jackets	blue
+nmod:in	men	jackets
+aux	sitting	are
+root	ROOT	sitting
+compound:prt	sitting	down
+punct	sitting	.

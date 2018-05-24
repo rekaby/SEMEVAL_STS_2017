@@ -1,0 +1,9 @@
+nsubj	Condemns	NATO
+root	ROOT	Condemns
+nmod:poss	Downing	Syria
+case	Syria	's
+dobj	Condemns	Downing
+case	Jet	of
+amod	Jet	Turkish
+amod	Jet	Military
+nmod:of	Downing	Jet

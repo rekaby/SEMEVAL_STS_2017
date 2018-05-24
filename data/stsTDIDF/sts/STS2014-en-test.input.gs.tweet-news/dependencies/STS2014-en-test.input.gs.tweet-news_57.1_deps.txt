@@ -1,0 +1,15 @@
+nmod:poss	#videogame	#Disney
+case	#Disney	's
+amod	#videogame	new
+root	ROOT	#videogame
+punct	#videogame	,
+case	NYTimes	via
+nmod:via	#videogame	NYTimes
+punct	#videogame	:
+compound	Game	Video
+nsubj	Combines	Game
+parataxis	#videogame	Combines
+det	Worlds	the
+dobj	Combines	Worlds
+case	Disney	of
+nmod:of	Worlds	Disney

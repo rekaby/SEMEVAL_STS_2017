@@ -1,0 +1,8 @@
+det	boys	The
+nummod	boys	two
+nsubj	play	boys
+root	ROOT	play
+case	field	in
+det	field	the
+nmod:in	play	field
+punct	play	.

@@ -1,0 +1,5 @@
+root	ROOT	Provide
+amod	care	medical
+dobj	Provide	care
+nmod	Provide	for
+punct	Provide	.

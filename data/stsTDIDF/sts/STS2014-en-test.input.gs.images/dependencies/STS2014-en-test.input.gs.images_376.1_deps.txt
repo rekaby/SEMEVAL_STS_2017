@@ -1,0 +1,8 @@
+nummod	cows	Two
+compound	cows	dairy
+nsubj	drinking	cows
+root	ROOT	drinking
+case	pond	from
+det	pond	a
+nmod:from	drinking	pond
+punct	drinking	.

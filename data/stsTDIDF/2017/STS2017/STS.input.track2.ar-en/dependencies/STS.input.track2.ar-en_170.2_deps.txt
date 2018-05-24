@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+root	ROOT	boy
+acl	boy	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+cc	shirt	and
+amod	afternoon	red
+compound	afternoon	hat
+conj:and	shirt	afternoon
+punct	boy	.

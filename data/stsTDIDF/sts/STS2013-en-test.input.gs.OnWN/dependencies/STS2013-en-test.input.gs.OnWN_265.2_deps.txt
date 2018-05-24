@@ -1,0 +1,10 @@
+root	ROOT	burn
+advmod	so	slightly
+cc	slightly	and
+conj:and	slightly	superficially
+advmod	burn	so
+mark	affect	as
+mark	affect	to
+advcl	so	affect
+dobj	affect	color
+punct	burn	.

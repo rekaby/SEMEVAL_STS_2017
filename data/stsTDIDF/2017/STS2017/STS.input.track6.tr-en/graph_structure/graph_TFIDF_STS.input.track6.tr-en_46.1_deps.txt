@@ -1,0 +1,7 @@
+shore	past	case
+sails	shore	nmod:past
+shore	the	det
+sails	boat	nsubj
+ROOT	sails	root
+boat	The	det
+sails	.	punct

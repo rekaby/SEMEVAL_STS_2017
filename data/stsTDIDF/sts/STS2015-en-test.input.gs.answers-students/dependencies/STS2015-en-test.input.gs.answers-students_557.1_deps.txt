@@ -1,0 +1,11 @@
+mark	creates	because
+nsubj	creates	it
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap
+punct	creates	,
+mark	becomes	so
+det	circuit	the
+nsubj	becomes	circuit
+advcl	creates	becomes
+xcomp	becomes	incomplete

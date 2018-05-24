@@ -1,0 +1,7 @@
+boy	face	nmod:with
+plays	boy	nsubj
+pavement	on	case
+face	with	case
+plays	pavement	nmod:on
+face	painted	amod
+pavement	the	det

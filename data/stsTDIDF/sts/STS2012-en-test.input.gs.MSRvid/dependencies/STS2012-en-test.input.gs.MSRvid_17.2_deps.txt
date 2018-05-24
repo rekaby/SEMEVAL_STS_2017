@@ -1,0 +1,9 @@
+det	person	A
+nsubj	throws	person
+root	ROOT	throws
+det	cat	a
+dobj	throws	cat
+case	ceiling	on
+det	ceiling	the
+nmod:on	throws	ceiling
+punct	throws	.

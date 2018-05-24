@@ -1,0 +1,9 @@
+nummod	children	Two
+root	ROOT	children
+case	field	in
+det	field	a
+nmod:in	children	field
+case	flowers	of
+amod	flowers	red
+nmod:of	field	flowers
+punct	children	.

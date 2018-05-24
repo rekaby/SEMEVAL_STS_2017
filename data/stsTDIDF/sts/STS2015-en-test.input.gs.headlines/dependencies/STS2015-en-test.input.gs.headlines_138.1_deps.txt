@@ -1,0 +1,7 @@
+nsubj	launches	China
+root	ROOT	launches
+dobj	launches	probe
+cc	probe	and
+conj:and	probe	rover
+case	moon	to
+nmod:to	launches	moon

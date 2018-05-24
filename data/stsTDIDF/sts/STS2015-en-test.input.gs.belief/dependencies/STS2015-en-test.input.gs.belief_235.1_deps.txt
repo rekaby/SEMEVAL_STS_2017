@@ -1,0 +1,8 @@
+nsubj	precsisely	this
+cop	precsisely	is
+root	ROOT	precsisely
+punct	precsisely	,
+cop	not	is
+nsubj	not	it
+dep	precsisely	not
+punct	precsisely	?-8) root(ROOT-0, ,

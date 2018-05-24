@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+case	glasses	with
+nmod:with	man	glasses
+cc	glasses	and
+nummod	bottles	two
+amod	bottles	plastic
+conj:and	glasses	bottles
+case	foreground	in
+det	foreground	the
+nmod:in	man	foreground
+punct	man	.

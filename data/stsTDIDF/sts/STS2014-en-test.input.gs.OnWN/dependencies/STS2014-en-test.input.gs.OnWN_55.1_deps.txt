@@ -1,0 +1,15 @@
+det	agent	An
+amod	agent	animate
+nsubj	utters	agent
+root	ROOT	utters
+case	sound	with
+det	sound	a
+amod	sound	spitting
+nmod:with	utters	sound
+punct	utters	,
+case	rage	as
+mwe	as	if
+case	rage	in
+det	rage	a
+nmod:as_if	utters	rage
+punct	utters	.

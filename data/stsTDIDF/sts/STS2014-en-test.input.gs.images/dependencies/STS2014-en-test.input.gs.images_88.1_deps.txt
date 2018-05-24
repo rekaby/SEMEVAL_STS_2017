@@ -1,0 +1,12 @@
+det	cat	A
+amod	cat	striped
+root	ROOT	cat
+acl	cat	laying
+compound:prt	laying	down
+case	bag	on
+det	bag	a
+nmod:on	laying	bag
+case	litter	of
+compound	litter	cat
+nmod:of	bag	litter
+punct	cat	.

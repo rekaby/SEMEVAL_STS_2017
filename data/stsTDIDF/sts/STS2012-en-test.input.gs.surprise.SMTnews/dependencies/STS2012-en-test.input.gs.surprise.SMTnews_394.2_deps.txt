@@ -1,0 +1,16 @@
+det	key	The
+nsubj	is	key
+root	ROOT	is
+advmod	is	that
+advmod	go	when
+compound	rates	interest
+nsubj	go	rates
+dep	that	go
+advmod	go	up
+punct	go	,
+det	values	the
+root	,	values
+case	fall	of
+amod	fall	active
+nmod:of	values	fall
+punct	values	.

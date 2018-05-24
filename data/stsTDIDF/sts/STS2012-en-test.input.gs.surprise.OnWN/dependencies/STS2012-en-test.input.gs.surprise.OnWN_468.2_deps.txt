@@ -1,0 +1,13 @@
+det	gears	the
+root	ROOT	gears
+case	which	by
+nmod:agent	reversed	which
+det	motion	the
+nsubjpass	reversed	motion
+case	machine	of
+det	machine	a
+nmod:of	motion	machine
+aux	reversed	can
+auxpass	reversed	be
+acl:relcl	gears	reversed
+punct	gears	.

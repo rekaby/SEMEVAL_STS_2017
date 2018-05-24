@@ -1,0 +1,13 @@
+nsubj	had	Seifert
+punct	testified	,
+nsubj	testified	he
+parataxis	had	testified
+punct	testified	,
+root	ROOT	had
+det	wound	a
+amod	wound	gunshot
+dobj	had	wound
+case	back	in
+det	back	the
+nmod:in	wound	back
+punct	had	.

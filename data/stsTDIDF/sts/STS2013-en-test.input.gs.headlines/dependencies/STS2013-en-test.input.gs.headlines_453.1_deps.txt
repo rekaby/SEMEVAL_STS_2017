@@ -1,0 +1,12 @@
+nsubj	hurt	9
+dep	hurt	dead
+punct	hurt	,
+nummod	hurt	11
+root	ROOT	hurt
+punct	hurt	,
+dep	hurt	4
+acl	4	missing
+case	avalanche	in
+compound	avalanche	Mont
+compound	avalanche	Blanc
+nmod:in	missing	avalanche

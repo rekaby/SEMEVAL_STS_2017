@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	making
+amod	faces	strange
+dobj	making	faces
+mark	drink	while
+nsubj	drink	they
+dep	men	drink
+dobj	drink	water
+punct	men	.

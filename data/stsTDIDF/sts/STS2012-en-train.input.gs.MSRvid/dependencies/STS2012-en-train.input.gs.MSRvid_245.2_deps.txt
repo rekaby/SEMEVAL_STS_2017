@@ -1,0 +1,7 @@
+det	man	A
+nsubj	looks	man
+root	ROOT	looks
+compound:prt	looks	out
+det	window	the
+dobj	looks	window
+punct	looks	.

@@ -1,0 +1,9 @@
+amod	Lucia	Spanish
+compound	Lucia	flamenco
+compound	Lucia	guitarist
+compound	Lucia	Paco
+compound	Lucia	de
+nsubj	dies	Lucia
+root	ROOT	dies
+case	66	at
+nmod:at	dies	66

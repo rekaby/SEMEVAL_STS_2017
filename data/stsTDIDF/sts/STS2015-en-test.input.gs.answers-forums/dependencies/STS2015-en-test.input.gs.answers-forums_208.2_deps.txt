@@ -1,0 +1,16 @@
+nsubj	made	Others
+aux	made	have
+root	ROOT	made
+det	suggestions	some
+amod	suggestions	good
+dobj	made	suggestions
+mark	neutralize	about
+advmod	neutralize	how
+mark	neutralize	to
+acl	suggestions	neutralize
+det	odors	the
+dobj	neutralize	odors
+case	area	in
+det	area	the
+nmod:in	odors	area
+punct	made	.

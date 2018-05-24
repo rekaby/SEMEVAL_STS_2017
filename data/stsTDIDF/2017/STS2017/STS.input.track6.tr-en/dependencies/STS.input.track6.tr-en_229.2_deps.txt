@@ -1,0 +1,10 @@
+det	man	A
+nsubj	woman	man
+cop	woman	is
+det	woman	a
+root	ROOT	woman
+case	child	with
+det	child	a
+amod	child	lovely
+nmod:with	woman	child
+punct	woman	.

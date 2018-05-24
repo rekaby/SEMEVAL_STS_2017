@@ -1,0 +1,7 @@
+root	ROOT	make
+det	hole	a
+dobj	make	hole
+case	tool	with
+det	tool	a
+amod	tool	pointed
+nmod:with	hole	tool

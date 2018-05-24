@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	jacket	a
+amod	jacket	black
+dobj	wearing	jacket
+cc	jacket	and
+conj:and	jacket	jeans
+nsubj	set	that
+acl:relcl	jacket	set
+compound:prt	set	up
+det	scene	the
+dobj	set	scene
+punct	man	.

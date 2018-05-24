@@ -1,0 +1,10 @@
+compound	helicopter	Police
+nsubj	crashes	helicopter
+root	ROOT	crashes
+case	pub	into
+nmod:into	crashes	pub
+case	Glasgow	in
+nmod:in	pub	Glasgow
+punct	crashes	-
+amod	casualties	several
+dobj	crashes	casualties

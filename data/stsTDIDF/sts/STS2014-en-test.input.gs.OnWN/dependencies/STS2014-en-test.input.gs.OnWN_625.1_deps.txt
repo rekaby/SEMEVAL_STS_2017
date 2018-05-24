@@ -1,0 +1,8 @@
+root	ROOT	pass
+dobj	pass	time
+case	place	in
+det	place	a
+amod	place	particular
+nmod:in	pass	place
+cc	pass	or
+conj:or	pass	way

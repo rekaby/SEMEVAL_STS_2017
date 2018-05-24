@@ -1,0 +1,13 @@
+amod	4	Terminal
+nsubj	state	4
+cc	4	and
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+conj:and	4	terminal
+cop	state	are
+case	state	in
+det	state	the
+amod	state	same
+amod	state	electrical
+root	ROOT	state

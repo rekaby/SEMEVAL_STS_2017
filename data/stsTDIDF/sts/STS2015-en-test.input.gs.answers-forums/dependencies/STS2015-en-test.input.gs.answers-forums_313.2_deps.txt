@@ -1,0 +1,12 @@
+det	rule	A
+amod	rule	general
+nsubj	hours	rule
+case	thumb	of
+nmod:of	rule	thumb
+cop	hours	is
+det	hours	every
+nummod	hours	5-6
+root	ROOT	hours
+case	skating	of
+nmod:of	hours	skating
+punct	hours	.

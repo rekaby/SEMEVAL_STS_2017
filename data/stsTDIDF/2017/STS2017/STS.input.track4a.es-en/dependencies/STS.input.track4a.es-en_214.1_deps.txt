@@ -1,0 +1,14 @@
+det	man	A
+nsubj	waiting	man
+case	sweater	in
+det	sweater	a
+amod	sweater	red
+nmod:in	man	sweater
+aux	waiting	is
+root	ROOT	waiting
+case	stand	at
+det	stand	a
+compound	stand	street
+compound	stand	food
+nmod:at	waiting	stand
+punct	waiting	.

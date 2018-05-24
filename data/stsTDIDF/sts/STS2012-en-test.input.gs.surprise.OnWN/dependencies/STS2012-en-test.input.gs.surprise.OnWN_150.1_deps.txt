@@ -1,0 +1,9 @@
+root	ROOT	Anyone
+dep	Anyone	who
+dep	who	judges
+cc	judges	or
+conj:or	judges	finds
+xcomp	finds	fault
+case	something	with
+nmod:with	fault	something
+punct	Anyone	.

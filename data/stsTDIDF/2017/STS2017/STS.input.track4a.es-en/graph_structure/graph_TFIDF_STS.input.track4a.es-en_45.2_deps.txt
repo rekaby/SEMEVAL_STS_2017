@@ -1,0 +1,6 @@
+person	old	amod
+ROOT	sleeps	root
+person	An	det
+sleeps	.	punct
+sleeps	person	nsubj
+sleeps	bed	nmod:in

@@ -1,0 +1,15 @@
+nmod:poss	system	My
+compound	system	GTD
+nsubj	electronic	system
+cop	electronic	is
+advmod	100	effectively
+nummod	electronic	100
+compound	electronic	percent
+root	ROOT	electronic
+punct	electronic	--
+mark	described	as
+advcl	electronic	described
+case	detail	in
+nmod:in	described	detail
+advmod	detail	here
+punct	electronic	.

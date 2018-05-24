@@ -1,0 +1,7 @@
+nummod	cats	Two
+nsubj	fighting	cats
+aux	fighting	are
+root	ROOT	fighting
+det	other	each
+dobj	fighting	other
+punct	fighting	.

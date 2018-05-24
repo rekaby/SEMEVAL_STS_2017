@@ -1,0 +1,5 @@
+nsubj	wins	Maduro
+root	ROOT	wins
+amod	vote	Venezuelan
+amod	vote	presidential
+dobj	wins	vote

@@ -1,0 +1,10 @@
+compound	Xi	President
+root	ROOT	Xi
+punct	Xi	:
+nsubj	continue	China
+mark	continue	to
+dep	Xi	continue
+dobj	continue	help
+mark	fight	to
+acl	help	fight
+dobj	fight	Ebola

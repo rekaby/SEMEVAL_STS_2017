@@ -1,0 +1,17 @@
+det	dog	A
+amod	dog	golden
+amod	dog	colored
+nsubj	jumps	dog
+root	ROOT	jumps
+case	grass	around
+case	grass	in
+det	grass	the
+nmod:in	jumps	grass
+mark	holding	while
+advcl	jumps	holding
+det	stick	a
+dobj	holding	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	holding	mouth
+punct	jumps	.

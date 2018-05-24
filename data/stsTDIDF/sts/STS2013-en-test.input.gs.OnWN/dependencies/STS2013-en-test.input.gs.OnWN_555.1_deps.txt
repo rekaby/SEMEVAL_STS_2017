@@ -1,0 +1,7 @@
+det	act	The
+root	ROOT	act
+mark	dividing	of
+acl	act	dividing
+cc	dividing	or
+conj:or	dividing	disconnecting
+punct	act	.

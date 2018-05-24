@@ -1,0 +1,9 @@
+root	ROOT	Wins
+det	race	the
+dobj	Wins	race
+det	person	a
+dep	Wins	person
+case	bicycle	on
+det	bicycle	a
+nmod:on	person	bicycle
+dep	person	BMX

@@ -1,0 +1,17 @@
+advmod	easier	Actually
+punct	easier	,
+nsubj	easier	it
+cop	easier	's
+advmod	more	much
+advmod	easier	more
+root	ROOT	easier
+mark	count	to
+xcomp	easier	count
+det	NOT	the
+nummod	NOT	one
+dobj	count	NOT
+case	continent	on
+det	continent	the
+amod	continent	same
+nmod:on	count	continent
+punct	easier	.

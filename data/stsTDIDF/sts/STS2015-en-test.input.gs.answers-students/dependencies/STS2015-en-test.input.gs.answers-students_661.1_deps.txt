@@ -1,0 +1,7 @@
+amod	1	terminal
+nsubjpass	connected	1
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+nmod:to	connected	terminal
+nummod	terminal	4

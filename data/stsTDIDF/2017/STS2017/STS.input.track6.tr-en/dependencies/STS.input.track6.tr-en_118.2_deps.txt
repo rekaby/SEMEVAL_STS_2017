@@ -1,0 +1,10 @@
+nummod	girls	Two
+root	ROOT	girls
+nsubj	walk	who
+acl:relcl	girls	walk
+nmod:poss	way	their
+dobj	walk	way
+case	fountains	through
+det	fountains	the
+nmod:through	walk	fountains
+punct	girls	.

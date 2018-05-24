@@ -1,0 +1,10 @@
+root	ROOT	expose
+cc	expose	or
+conj:or	expose	make
+xcomp	make	accessible
+case	action	to
+det	action	some
+nmod:to	accessible	action
+cc	action	or
+conj:or	action	influence
+punct	expose	.

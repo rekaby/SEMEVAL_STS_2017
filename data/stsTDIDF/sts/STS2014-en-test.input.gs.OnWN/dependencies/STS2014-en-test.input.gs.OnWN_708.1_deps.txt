@@ -1,0 +1,6 @@
+root	ROOT	state
+mark	unclothed	of
+cop	unclothed	being
+acl	state	unclothed
+punct	state	,
+amod	state	naked

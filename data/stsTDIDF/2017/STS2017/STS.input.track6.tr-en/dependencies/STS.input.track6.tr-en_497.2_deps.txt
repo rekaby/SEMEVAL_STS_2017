@@ -1,0 +1,14 @@
+det	group	A
+nsubj	sitting	group
+case	people	of
+amod	people	young
+nmod:of	group	people
+aux	sitting	are
+root	ROOT	sitting
+case	street	in
+det	street	a
+compound	street	city
+nmod:in	sitting	street
+cc	street	and
+conj:and	street	chatting
+punct	sitting	.

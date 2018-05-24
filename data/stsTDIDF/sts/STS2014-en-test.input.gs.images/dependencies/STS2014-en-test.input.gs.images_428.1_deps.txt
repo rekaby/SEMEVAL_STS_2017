@@ -1,0 +1,11 @@
+nummod	dogs	Two
+amod	dogs	black
+cc	black	and
+conj:and	black	white
+root	ROOT	dogs
+case	bottom	at
+det	bottom	the
+nmod:at	dogs	bottom
+case	stairs	of
+nmod:of	bottom	stairs
+punct	dogs	.

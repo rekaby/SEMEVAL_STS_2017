@@ -1,0 +1,9 @@
+dobj	Say	What
+det	Papers	the
+nsubj	Say	Papers
+root	ROOT	Say
+punct	May	,
+dobj	Say	May
+nummod	May	20
+punct	May	,
+nummod	May	2013

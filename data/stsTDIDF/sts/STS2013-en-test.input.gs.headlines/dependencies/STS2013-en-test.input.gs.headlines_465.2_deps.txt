@@ -1,0 +1,9 @@
+nsubj	reach	Negotiators
+root	ROOT	reach
+dobj	reach	deal
+case	bill	on
+compound	bill	Congress
+compound	bill	payroll
+compound	bill	tax
+compound	bill	cut
+nmod:on	deal	bill

@@ -1,0 +1,10 @@
+root	ROOT	Man
+acl	Man	walking
+dobj	walking	bicycle
+case	patio	to
+nmod:to	walking	patio
+case	shop	of
+det	shop	a
+compound	shop	coffee
+nmod:of	patio	shop
+punct	Man	.

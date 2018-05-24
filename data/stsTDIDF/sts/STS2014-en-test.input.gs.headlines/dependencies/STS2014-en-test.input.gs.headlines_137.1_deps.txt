@@ -1,0 +1,8 @@
+nsubj	gives	Russia
+root	ROOT	gives
+amod	OK	initial
+dobj	gives	OK
+case	adoption	to
+amod	adoption	American
+nmod:to	OK	adoption
+dobj	gives	ban

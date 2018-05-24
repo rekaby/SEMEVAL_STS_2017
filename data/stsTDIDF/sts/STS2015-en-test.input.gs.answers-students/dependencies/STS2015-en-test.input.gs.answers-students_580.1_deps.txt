@@ -1,0 +1,11 @@
+expl	was	there
+root	ROOT	was
+det	gap	a
+dep	was	gap
+case	circuit	in
+det	circuit	the
+nmod:in	was	circuit
+det	C	that
+nsubj	was	C
+nsubj	was	was
+dep	was	on

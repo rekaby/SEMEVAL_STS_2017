@@ -1,0 +1,7 @@
+root	ROOT	Video
+punct	Video	:
+nmod:poss	Collosseum	Rome
+case	Rome	's
+amod	Collosseum	colorful
+dep	Video	Collosseum
+punct	Video	:

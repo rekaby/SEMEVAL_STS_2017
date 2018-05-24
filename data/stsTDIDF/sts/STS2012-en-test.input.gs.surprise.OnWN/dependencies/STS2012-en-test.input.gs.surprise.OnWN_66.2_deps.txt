@@ -1,0 +1,11 @@
+compound	activity	earnest
+cc	earnest	and
+conj:and	earnest	conscientious
+root	ROOT	activity
+acl	activity	intended
+mark	do	to
+xcomp	intended	do
+cc	do	or
+conj:or	do	accomplish
+dobj	do	something
+punct	activity	.

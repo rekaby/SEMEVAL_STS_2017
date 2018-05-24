@@ -1,0 +1,10 @@
+amod	taxis	Yellow
+nsubj	go	taxis
+cc	taxis	and
+conj:and	taxis	bicycles
+root	ROOT	go
+case	store	to
+det	store	the
+amod	store	same
+nmod:to	go	store
+punct	go	.

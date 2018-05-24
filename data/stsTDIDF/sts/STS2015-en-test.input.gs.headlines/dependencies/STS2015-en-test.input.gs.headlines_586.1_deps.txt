@@ -1,0 +1,7 @@
+nsubj	strikes	Air
+root	ROOT	strikes
+dobj	strikes	kills
+dobj	kills	dozens
+case	Syria	in
+amod	Syria	northern
+nmod:in	dozens	Syria

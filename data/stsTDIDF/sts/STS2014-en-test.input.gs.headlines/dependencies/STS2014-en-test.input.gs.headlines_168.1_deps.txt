@@ -1,0 +1,10 @@
+nsubj	killed	7
+root	ROOT	killed
+punct	killed	,
+nummod	accident	3
+acl	3	injured
+case	road	in
+amod	road	south
+compound	road	China
+nmod:in	injured	road
+dobj	killed	accident

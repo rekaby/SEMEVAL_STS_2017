@@ -1,0 +1,5 @@
+standing	children	nmod:next_to
+standing	man	nsubj
+children	day	nmod:on
+day	hot	amod
+children	next	case

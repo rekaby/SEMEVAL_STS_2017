@@ -1,0 +1,4 @@
+root	ROOT	Travel
+case	foot	on
+nmod:on	Travel	foot
+punct	Travel	.

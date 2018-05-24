@@ -1,0 +1,7 @@
+swims	human	nsubj
+swims	water	nmod:under
+ROOT	swims	root
+human	A	det
+water	pool	compound
+water	under	case
+swims	.	punct

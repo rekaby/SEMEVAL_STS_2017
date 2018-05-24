@@ -1,0 +1,16 @@
+root	ROOT	-LRB-
+det	discovery	The
+root	-LRB-	discovery
+cc	discovery	or
+conj:or	discovery	exhibition
+case	evidence	of
+punct	evidence	-RRB-
+amod	evidence	factual
+nmod:of	discovery	evidence
+nsubj	establishes	that
+acl:relcl	evidence	establishes
+det	truth	the
+dobj	establishes	truth
+case	something	of
+nmod:of	truth	something
+punct	discovery	.

@@ -1,0 +1,6 @@
+ROOT	growling	root
+dogs	three	nummod
+growling	another	dobj
+growling	dogs	nsubj
+one	On	case
+growling	one	nmod:on

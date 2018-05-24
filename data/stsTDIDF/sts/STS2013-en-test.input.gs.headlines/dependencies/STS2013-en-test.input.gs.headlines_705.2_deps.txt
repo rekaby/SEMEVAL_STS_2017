@@ -1,0 +1,7 @@
+amod	rocks	Heavy
+compound	rocks	fighting
+root	ROOT	rocks
+amod	Syria	eastern
+dep	rocks	Syria
+punct	Syria	-
+dep	Syria	residents

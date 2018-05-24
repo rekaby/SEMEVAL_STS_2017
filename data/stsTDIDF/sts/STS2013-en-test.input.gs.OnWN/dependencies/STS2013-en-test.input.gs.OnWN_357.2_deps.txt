@@ -1,0 +1,8 @@
+det	part	the
+amod	part	first
+root	ROOT	part
+cc	part	or
+conj:or	part	section
+case	something	of
+nmod:of	section	something
+punct	part	.

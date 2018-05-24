@@ -1,0 +1,7 @@
+compound	Korea	North
+nsubj	Postpones	Korea
+root	ROOT	Postpones
+compound	Reunions	Family
+dobj	Postpones	Reunions
+case	South	with
+nmod:with	Postpones	South

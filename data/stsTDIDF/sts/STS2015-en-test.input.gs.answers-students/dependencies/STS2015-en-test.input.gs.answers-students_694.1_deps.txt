@@ -1,0 +1,15 @@
+compound	B	Bulbs
+nsubj	contained	B
+cc	B	and
+compound	werer	C
+conj:and	B	werer
+advmod	contained	still
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery
+punct	contained	.

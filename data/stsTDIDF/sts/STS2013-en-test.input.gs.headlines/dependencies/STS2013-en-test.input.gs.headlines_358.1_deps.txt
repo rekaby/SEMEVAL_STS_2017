@@ -1,0 +1,6 @@
+compound	case	Man
+amod	case	convicted
+case	leaks	in
+compound	leaks	Vatican
+nmod:in	convicted	leaks
+root	ROOT	case

@@ -1,0 +1,9 @@
+nummod	children	Two
+root	ROOT	children
+acl	children	lying
+case	snow	in
+det	snow	the
+nmod:in	lying	snow
+acl	snow	making
+compound	angels	snow
+dobj	making	angels

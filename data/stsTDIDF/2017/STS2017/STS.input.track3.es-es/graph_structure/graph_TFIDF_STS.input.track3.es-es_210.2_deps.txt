@@ -1,0 +1,9 @@
+boys	playing	acl
+ROOT	boys	root
+woman	with	case
+playing	guitar	dobj
+playing	woman	nmod:with
+standing	them	nmod:next_to
+boys	Two	nummod
+boys	.	punct
+woman	standing	acl

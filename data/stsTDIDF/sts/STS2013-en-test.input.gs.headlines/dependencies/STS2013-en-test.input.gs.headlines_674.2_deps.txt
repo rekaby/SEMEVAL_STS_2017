@@ -1,0 +1,8 @@
+amod	strike	Drone
+nsubj	kills	strike
+root	ROOT	kills
+nummod	militants	four
+amod	militants	suspected
+dobj	kills	militants
+case	Pakistan	in
+nmod:in	kills	Pakistan

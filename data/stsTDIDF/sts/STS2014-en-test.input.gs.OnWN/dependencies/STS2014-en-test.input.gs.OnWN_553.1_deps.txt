@@ -1,0 +1,7 @@
+det	agent	an
+root	ROOT	agent
+cc	agent	or
+conj:or	agent	company
+nsubj	insures	that
+acl:relcl	agent	insures
+dobj	insures	something

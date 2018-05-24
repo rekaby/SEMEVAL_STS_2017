@@ -1,0 +1,11 @@
+compound	Bryant	Kobe
+nsubj	say	Bryant
+punct	Bryant	,
+appos	Bryant	wife
+root	ROOT	say
+nsubj	calling	they
+aux	calling	are
+ccomp	say	calling
+compound:prt	calling	off
+dobj	calling	#divorce
+punct	say	-

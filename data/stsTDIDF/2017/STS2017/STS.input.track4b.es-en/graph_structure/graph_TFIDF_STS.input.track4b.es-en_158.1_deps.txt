@@ -1,0 +1,13 @@
+Facebook	,	punct
+population	into	case
+tapping	constantly	advmod
+ROOT	tapping	root
+population	data	nmod:for
+population	own	amod
+data	for	case
+Facebook	too	advmod
+population	its	nmod:poss
+tapping	population	nmod:into
+tapping	.	punct
+tapping	is	aux
+tapping	Facebook	nsubj

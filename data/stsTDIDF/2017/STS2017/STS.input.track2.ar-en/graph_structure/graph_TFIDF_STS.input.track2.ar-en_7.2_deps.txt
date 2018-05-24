@@ -1,0 +1,6 @@
+carrying	child	dobj
+smiling	,	punct
+child	smiling	acl
+woman	carrying	acl
+smiling	wearing	advcl
+shirt	blue	amod

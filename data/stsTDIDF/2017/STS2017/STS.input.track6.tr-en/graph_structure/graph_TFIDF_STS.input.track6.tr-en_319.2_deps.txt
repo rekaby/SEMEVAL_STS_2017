@@ -1,0 +1,7 @@
+hair	hat	conj:and
+hat	red	amod
+hair	gray	amod
+standing	man	nsubj
+standing	outside	advmod
+hair	and	cc
+man	hair	nmod:with

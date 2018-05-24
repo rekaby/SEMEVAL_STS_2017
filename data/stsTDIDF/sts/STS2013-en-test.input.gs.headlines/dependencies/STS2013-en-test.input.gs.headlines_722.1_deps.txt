@@ -1,0 +1,11 @@
+compound	Racing	Motor
+root	ROOT	Racing
+punct	Racing	:
+compound	fastest	Button
+dep	Racing	fastest
+case	practice	in
+nmod:poss	practice	year
+case	year	's
+amod	practice	first
+compound	practice	F1
+nmod:in	fastest	practice

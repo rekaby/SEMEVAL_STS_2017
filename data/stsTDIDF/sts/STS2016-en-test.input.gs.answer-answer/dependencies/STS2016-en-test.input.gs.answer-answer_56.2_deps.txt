@@ -1,0 +1,12 @@
+nsubj	guess	I
+root	ROOT	guess
+nsubj	depends	it
+ccomp	guess	depends
+mark	going	on
+dobj	going	what
+nsubj	going	you
+aux	going	're
+advcl	depends	going
+mark	do	to
+xcomp	going	do
+punct	guess	.

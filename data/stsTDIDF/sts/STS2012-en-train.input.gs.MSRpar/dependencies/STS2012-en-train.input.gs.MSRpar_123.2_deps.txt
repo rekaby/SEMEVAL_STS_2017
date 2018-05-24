@@ -1,0 +1,10 @@
+nsubj	have	Nations
+case	Israel	like
+nmod:like	Nations	Israel
+cc	Israel	and
+conj:and	Israel	Australia
+advmod	have	already
+root	ROOT	have
+amod	status	such
+dobj	have	status
+punct	have	.

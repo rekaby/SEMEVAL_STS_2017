@@ -1,0 +1,6 @@
+nsubj	killed	Teenager
+cc	Teenager	and
+conj:and	Teenager	father
+root	ROOT	killed
+case	crash	in
+nmod:in	killed	crash

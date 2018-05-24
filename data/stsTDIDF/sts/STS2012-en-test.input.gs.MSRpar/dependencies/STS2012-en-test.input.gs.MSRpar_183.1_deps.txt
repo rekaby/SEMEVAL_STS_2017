@@ -1,0 +1,17 @@
+det	index	The
+amod	index	tech-heavy
+compound	index	Nasdaq
+compound	index	Stock
+compound	index	Markets
+amod	index	composite
+nsubj	added	index
+root	ROOT	added
+nummod	points	14.17
+dobj	added	points
+cc	points	or
+conj:or	points	0.94
+case	cent	per
+nmod:per	0.94	cent
+case	1,517.05	to
+nmod:to	0.94	1,517.05
+punct	added	.

@@ -1,0 +1,6 @@
+det	person	A
+nsubj	tearing	person
+aux	tearing	is
+root	ROOT	tearing
+dobj	tearing	paper
+punct	tearing	.

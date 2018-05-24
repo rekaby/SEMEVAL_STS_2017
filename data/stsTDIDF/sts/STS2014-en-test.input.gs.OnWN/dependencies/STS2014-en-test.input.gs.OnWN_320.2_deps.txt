@@ -1,0 +1,13 @@
+root	ROOT	stop
+case	moment	for
+det	moment	a
+nmod:for	stop	moment
+punct	stop	,
+dep	stop	as
+dep	as	if
+case	uncertainty	out
+mwe	out	of
+nmod:out_of	if	uncertainty
+cc	uncertainty	or
+conj:or	uncertainty	caution
+punct	stop	.

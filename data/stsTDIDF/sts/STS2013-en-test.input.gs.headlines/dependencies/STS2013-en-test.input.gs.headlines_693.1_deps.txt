@@ -1,0 +1,5 @@
+nsubj	confirms	Malawi
+root	ROOT	confirms
+nmod:poss	death	president
+case	president	's
+dobj	confirms	death

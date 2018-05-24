@@ -1,0 +1,8 @@
+nsubj	top	China
+neg	longer	no
+advmod	top	longer
+amod	destination	top
+compound	destination	investment
+root	ROOT	destination
+punct	destination	:
+appos	destination	poll

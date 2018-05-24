@@ -1,0 +1,9 @@
+root	ROOT	write
+case	print	as
+mark	print	if
+case	print	with
+advcl:with	write	print
+punct	print	,
+neg	cursive	not
+case	cursive	in
+nmod:in	print	cursive

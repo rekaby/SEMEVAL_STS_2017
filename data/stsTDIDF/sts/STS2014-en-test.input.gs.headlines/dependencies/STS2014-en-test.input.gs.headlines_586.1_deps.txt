@@ -1,0 +1,7 @@
+nsubj	confirms	UN
+root	ROOT	confirms
+compound	attack	sarin
+acl	sarin	used
+case	Syria	in
+nmod:in	used	Syria
+dobj	confirms	attack

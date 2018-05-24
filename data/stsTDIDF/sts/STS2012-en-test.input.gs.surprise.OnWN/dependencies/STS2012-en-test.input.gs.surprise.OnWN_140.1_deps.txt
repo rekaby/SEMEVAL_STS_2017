@@ -1,0 +1,7 @@
+root	ROOT	Form
+det	whole	an
+amod	whole	aesthetic
+cc	aesthetic	or
+conj:or	aesthetic	conceptual
+dobj	Form	whole
+punct	Form	.

@@ -1,0 +1,8 @@
+root	ROOT	return
+case	thought	in
+nmod:in	return	thought
+cc	thought	or
+conj:or	thought	speech
+case	something	to
+nmod:to	return	something
+punct	return	.

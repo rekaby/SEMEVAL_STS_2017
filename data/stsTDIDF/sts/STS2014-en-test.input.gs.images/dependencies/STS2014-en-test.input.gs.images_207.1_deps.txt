@@ -1,0 +1,9 @@
+root	ROOT	Group
+case	people	of
+nmod:of	Group	people
+acl	people	sitting
+case	table	at
+nmod:at	sitting	table
+case	drinks	with
+nmod:with	sitting	drinks
+punct	Group	.

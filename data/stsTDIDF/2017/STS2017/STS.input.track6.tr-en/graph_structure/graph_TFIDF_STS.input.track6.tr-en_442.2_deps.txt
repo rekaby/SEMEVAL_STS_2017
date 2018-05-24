@@ -1,0 +1,8 @@
+ROOT	dealing	root
+dealing	.	punct
+dealing	people	nsubj
+dealing	are	aux
+people	A	det
+dealing	activities	nmod:with
+activities	different	amod
+activities	with	case

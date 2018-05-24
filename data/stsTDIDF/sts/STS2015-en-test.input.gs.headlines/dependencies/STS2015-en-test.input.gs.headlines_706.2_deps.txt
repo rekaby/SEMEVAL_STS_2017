@@ -1,0 +1,10 @@
+root	ROOT	Japan
+punct	Japan	:
+nmod:poss	Man	World
+case	World	's
+compound	Man	Oldest
+nsubj	Dies	Man
+advmod	Dies	Ever
+dep	Japan	Dies
+amod	116	Aged
+dobj	Dies	116

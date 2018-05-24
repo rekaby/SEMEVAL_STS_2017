@@ -1,0 +1,10 @@
+det	formation	a
+root	ROOT	formation
+case	people	of
+nmod:of	formation	people
+cc	people	or
+conj:or	people	things
+amod	things	one
+case	another	beside
+nmod:beside	one	another
+punct	formation	.

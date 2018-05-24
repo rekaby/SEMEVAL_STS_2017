@@ -1,0 +1,17 @@
+root	ROOT	consider
+case	detail	in
+nmod:in	consider	detail
+cc	detail	and
+conj:and	detail	subject
+case	analysis	to
+det	analysis	an
+nmod:to	subject	analysis
+mark	discover	in
+mwe	in	order
+mark	discover	to
+acl	analysis	discover
+amod	features	essential
+dobj	discover	features
+cc	features	or
+conj:or	features	meaning
+punct	consider	.

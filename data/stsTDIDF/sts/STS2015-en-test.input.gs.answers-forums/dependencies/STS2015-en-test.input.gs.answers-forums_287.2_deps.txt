@@ -1,0 +1,15 @@
+nsubj	hard	Most
+case	works	of
+compound	Dick	Philip
+compound	Dick	K
+nmod:poss	works	Dick
+case	Dick	's
+nmod:of	Most	works
+cop	hard	are
+neg	hard	n't
+root	ROOT	hard
+dobj	hard	Sci-Fi
+case	least	in
+det	least	the
+nmod:in	Sci-Fi	least
+punct	hard	.

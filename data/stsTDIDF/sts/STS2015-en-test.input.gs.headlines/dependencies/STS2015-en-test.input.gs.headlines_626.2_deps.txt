@@ -1,0 +1,6 @@
+nsubj	says	Iran
+root	ROOT	says
+nsubj	lying	Israel
+ccomp	says	lying
+case	rockets	about
+nmod:about	lying	rockets

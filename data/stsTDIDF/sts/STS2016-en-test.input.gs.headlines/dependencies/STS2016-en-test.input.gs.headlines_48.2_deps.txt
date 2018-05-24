@@ -1,0 +1,10 @@
+compound	crisis	Eurozone
+compound	crisis	debt
+nsubj	over	crisis
+cop	over	is
+ccomp	says	over
+punct	says	,
+root	ROOT	says
+nmod:poss	President	France
+case	France	's
+nsubj	says	President

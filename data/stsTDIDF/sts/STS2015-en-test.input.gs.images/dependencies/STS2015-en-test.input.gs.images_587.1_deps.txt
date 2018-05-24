@@ -1,0 +1,12 @@
+nsubj	shows	This
+case	photo	over
+det	photo	the
+amod	photo	top
+nmod:over	This	photo
+root	ROOT	shows
+nummod	men	two
+nsubj	taking	men
+ccomp	shows	taking
+det	break	a
+dobj	taking	break
+punct	shows	.

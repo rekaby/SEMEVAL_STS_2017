@@ -1,0 +1,16 @@
+wear	shorts	dobj
+shorts	T-shirt	conj:and
+monitor	a	det
+stand	short-sleeve	amod
+some	men	nmod:of
+stand	some	nmod:by
+monitor	speaker	conj:or
+sitting	watching	conj:and
+T-shirt	stand	dobj
+ROOT	wear	root
+monitor	or	cc
+men	sitting	acl
+shorts	and	cc
+wear	.	punct
+wear	Women	nsubj
+sitting	monitor	dobj

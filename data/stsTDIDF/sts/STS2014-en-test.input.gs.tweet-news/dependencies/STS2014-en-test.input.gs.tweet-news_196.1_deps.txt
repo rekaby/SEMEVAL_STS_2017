@@ -1,0 +1,22 @@
+nsubj	find	FDA
+aux	find	may
+root	ROOT	find
+mark	drug	that
+nsubj	drug	poop
+cop	drug	is
+det	drug	a
+ccomp	find	drug
+punct	find	.-9) root(ROOT-0, NYTimes
+punct	NYTimes	:
+advmod	Fail	When
+compound	Fail	Pills
+dep	NYTimes	Fail
+punct	Fail	,
+nsubj	Provides	This
+punct	Provides	,
+advcl	Provides	er
+punct	Provides	,
+nsubj	Provides	Option
+parataxis	Fail	Provides
+det	Cure	a
+dobj	Provides	Cure

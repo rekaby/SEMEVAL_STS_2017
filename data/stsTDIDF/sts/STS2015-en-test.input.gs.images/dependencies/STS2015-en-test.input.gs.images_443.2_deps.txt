@@ -1,0 +1,14 @@
+det	woman	A
+root	ROOT	woman
+case	red	in
+nmod:in	woman	red
+case	beer	with
+det	beer	a
+nmod:with	red	beer
+acl	beer	followed
+case	man	by
+det	man	a
+nmod:by	followed	man
+case	white	in
+nmod:in	man	white
+punct	woman	.

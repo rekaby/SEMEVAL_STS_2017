@@ -1,0 +1,10 @@
+nsubj	shuts	Britain
+root	ROOT	shuts
+compound:prt	shuts	down
+dobj	shuts	plants
+mark	reaches	as
+compound	scandal	horse
+compound	scandal	meat
+nsubj	reaches	scandal
+advcl	shuts	reaches
+dobj	reaches	France

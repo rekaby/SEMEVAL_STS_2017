@@ -1,0 +1,8 @@
+expl	is	there
+root	ROOT	is
+neg	is	not
+det	gap	a
+nsubj	is	gap
+case	connection	in
+det	connection	the
+nmod:in	gap	connection

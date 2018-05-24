@@ -1,0 +1,9 @@
+nummod	girls	Three
+amod	girls	little
+nsubj	sitting	girls
+aux	sitting	are
+root	ROOT	sitting
+case	grass	on
+det	grass	the
+nmod:on	sitting	grass
+punct	sitting	.

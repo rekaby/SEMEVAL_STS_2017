@@ -1,0 +1,16 @@
+nsubj	agree	I
+root	ROOT	agree
+case	answer	with
+nmod:poss	answer	Lauren
+case	Lauren	's
+nmod:with	agree	answer
+punct	agree	:
+nsubj	need	You
+parataxis	agree	need
+dobj	need	highs
+cc	highs	and
+conj:and	highs	lows
+case	story	in
+det	story	any
+nmod:in	need	story
+punct	agree	.

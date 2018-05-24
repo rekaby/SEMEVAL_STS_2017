@@ -1,0 +1,6 @@
+nsubj	trade	Redskins
+root	ROOT	trade
+case	No.	for
+nmod:for	trade	No.
+nummod	No.	2
+dobj	trade	pick

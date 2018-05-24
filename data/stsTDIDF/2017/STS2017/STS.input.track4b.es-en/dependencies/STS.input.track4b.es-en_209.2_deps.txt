@@ -1,0 +1,12 @@
+nsubj	dollars	Price
+case	six	of
+nmod:of	Price	six
+case	them	of
+nmod:of	six	them
+cop	dollars	is
+advmod	billion	more
+mwe	more	than
+advmod	billion	a
+nummod	dollars	billion
+root	ROOT	dollars
+punct	dollars	.

@@ -1,0 +1,10 @@
+amod	motion	rotary
+root	ROOT	motion
+case	object	of
+det	object	an
+nmod:of	motion	object
+case	axis	around
+nmod:poss	axis	its
+amod	axis	own
+nmod:around	object	axis
+punct	motion	.

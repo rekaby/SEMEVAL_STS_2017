@@ -1,0 +1,8 @@
+root	ROOT	Sarkozy
+mark	File	to
+acl	Sarkozy	File
+compound	Claim	Complaint
+case	Funding	in
+compound	Funding	Gadhafi
+nmod:in	Complaint	Funding
+dobj	File	Claim

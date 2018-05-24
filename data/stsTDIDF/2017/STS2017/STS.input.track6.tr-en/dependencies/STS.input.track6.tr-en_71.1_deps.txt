@@ -1,0 +1,16 @@
+det	man	A
+nsubj	reaches	man
+root	ROOT	reaches
+case	carpet	over
+det	carpet	a
+amod	carpet	blue
+nmod:over	reaches	carpet
+mark	grab	to
+xcomp	reaches	grab
+det	snake	a
+dobj	grab	snake
+case	sill	from
+det	sill	the
+compound	sill	window
+nmod:from	grab	sill
+punct	reaches	.

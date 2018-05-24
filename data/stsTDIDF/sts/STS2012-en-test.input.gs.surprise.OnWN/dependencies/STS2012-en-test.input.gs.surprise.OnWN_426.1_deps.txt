@@ -1,0 +1,9 @@
+root	ROOT	Change
+det	purpose	the
+dobj	Change	purpose
+cc	purpose	or
+conj:or	purpose	functioning
+case	system	of
+det	system	a
+nmod:of	purpose	system
+punct	Change	.

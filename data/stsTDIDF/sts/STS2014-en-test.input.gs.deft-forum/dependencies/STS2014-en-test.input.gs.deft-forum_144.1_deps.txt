@@ -1,0 +1,13 @@
+nmod:poss	position	His
+nsubj	is	position
+root	ROOT	is
+mark	risk	that
+nsubj	risk	it
+cop	risk	is
+det	individual	the
+nmod:poss	risk	individual
+case	individual	's
+ccomp	is	risk
+mark	assume	to
+xcomp	risk	assume
+punct	is	.

@@ -1,0 +1,12 @@
+nummod	puppies	Two
+nsubj	play	puppies
+root	ROOT	play
+case	toy	with
+det	toy	a
+amod	toy	red
+compound	toy	chew
+nmod:with	play	toy
+case	field	in
+det	field	a
+nmod:in	toy	field
+punct	play	.

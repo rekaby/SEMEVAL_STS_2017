@@ -1,0 +1,13 @@
+det	bar	A
+root	ROOT	bar
+case	signs	with
+nmod:with	bar	signs
+acl	signs	advertising
+dobj	advertising	beers
+case	Light	such
+mwe	such	as
+compound	Light	Bud
+nmod:such_as	beers	Light
+cc	Light	and
+conj:and	Light	Corona
+punct	bar	.

@@ -1,0 +1,8 @@
+nsubj	level	Tornadoes
+root	ROOT	level
+dobj	level	homes
+case	Oklahoma	in
+nmod:in	level	Oklahoma
+punct	Oklahoma	,
+compound	dead	1
+amod	Oklahoma	dead

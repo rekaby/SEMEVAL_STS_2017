@@ -1,0 +1,6 @@
+nsubj	killed	Three
+root	ROOT	killed
+case	stadium	in
+compound	stadium	Brazil
+nmod:in	killed	stadium
+dobj	killed	collapse

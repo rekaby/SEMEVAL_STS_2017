@@ -1,0 +1,5 @@
+compound	stocks	China
+nsubj	open	stocks
+root	ROOT	open
+advmod	open	lower
+nmod:tmod	open	Friday

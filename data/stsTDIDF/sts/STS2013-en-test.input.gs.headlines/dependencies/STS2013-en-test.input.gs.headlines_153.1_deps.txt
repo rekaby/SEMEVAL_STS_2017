@@ -1,0 +1,11 @@
+compound	Obama	Barack
+nmod:poss	bodyguards	Obama
+case	Obama	's
+nsubj	sent	bodyguards
+root	ROOT	sent
+advmod	sent	back
+case	US	to
+nmod:to	back	US
+case	prostitution	after
+nmod:after	sent	prostitution
+dobj	sent	scandal

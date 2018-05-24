@@ -1,0 +1,4 @@
+sit	bike	conj:or
+sit	or	cc
+walk	sit	dep
+walk	people	nsubj

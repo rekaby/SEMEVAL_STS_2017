@@ -1,0 +1,6 @@
+det	player	A
+compound	player	baseball
+nsubj	hitting	player
+root	ROOT	hitting
+det	ball	the
+dobj	hitting	ball

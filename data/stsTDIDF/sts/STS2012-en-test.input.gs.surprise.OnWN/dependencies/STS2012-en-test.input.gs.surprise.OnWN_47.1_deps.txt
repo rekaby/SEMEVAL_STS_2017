@@ -1,0 +1,10 @@
+root	ROOT	Complain
+case	something	about
+nmod:about	Complain	something
+cc	Complain	or
+conj:or	Complain	say
+amod	things	mean
+dobj	say	things
+case	someone	to
+nmod:to	things	someone
+punct	Complain	.

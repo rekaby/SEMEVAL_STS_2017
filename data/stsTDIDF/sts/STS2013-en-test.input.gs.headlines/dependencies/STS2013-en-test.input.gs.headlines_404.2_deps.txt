@@ -1,0 +1,9 @@
+compound	Summary	News
+root	ROOT	Summary
+punct	Summary	:
+dep	Summary	Apple
+acl	Apple	buying
+dobj	buying	AuthenTec
+case	$	for
+nmod:for	buying	$
+nummod	$	356M

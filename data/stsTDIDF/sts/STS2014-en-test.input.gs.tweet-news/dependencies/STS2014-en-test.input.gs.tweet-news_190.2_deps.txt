@@ -1,0 +1,14 @@
+cop	Era	Is
+punct	Era	`
+compound	West	Wild
+nmod:poss	Era	West
+case	West	'
+root	ROOT	Era
+case	Drilling	for
+compound	Drilling	Gas
+nmod:for	Era	Drilling
+acl	Drilling	Coming
+case	End	to
+det	End	an
+nmod:to	Coming	End
+punct	Era	?

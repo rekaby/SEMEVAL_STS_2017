@@ -1,0 +1,14 @@
+mark	suggests	As
+nsubj	suggests	Eugene
+advcl	try	suggests
+punct	try	,
+root	ROOT	try
+mark	figure	to
+xcomp	try	figure
+compound:prt	figure	out
+dobj	want	what
+nsubj	want	you
+ccomp	figure	want
+mark	achieve	to
+xcomp	want	achieve
+punct	try	.

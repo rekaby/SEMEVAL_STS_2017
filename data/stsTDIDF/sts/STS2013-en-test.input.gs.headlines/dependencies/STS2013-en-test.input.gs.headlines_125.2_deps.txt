@@ -1,0 +1,11 @@
+det	Note	The
+nmod:poss	Must-Reads	Note
+case	Note	's
+nsubj	2012	Must-Reads
+case	Wednesday	for
+nmod:for	Must-Reads	Wednesday
+punct	Wednesday	,
+appos	Wednesday	May
+nummod	May	30
+punct	Wednesday	,
+root	ROOT	2012

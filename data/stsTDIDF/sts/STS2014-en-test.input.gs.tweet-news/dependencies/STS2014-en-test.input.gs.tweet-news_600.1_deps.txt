@@ -1,0 +1,11 @@
+amod	stuff	Cool
+root	ROOT	stuff
+punct	stuff	:
+nummod	trends	6
+dep	stuff	trends
+nsubj	saw	we
+acl:relcl	trends	saw
+case	CES	at
+nmod:at	saw	CES
+nummod	CES	2013
+punct	stuff	-

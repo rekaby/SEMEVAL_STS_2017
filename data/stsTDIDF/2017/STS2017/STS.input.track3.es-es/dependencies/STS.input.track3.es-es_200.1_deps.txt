@@ -1,0 +1,9 @@
+nsubj	hiking	People
+root	ROOT	hiking
+case	icy	through
+det	icy	an
+nmod:through	hiking	icy
+cc	icy	and
+amod	landscape	mountainous
+conj:and	icy	landscape
+punct	hiking	.

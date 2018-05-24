@@ -1,0 +1,17 @@
+det	women	A
+amod	women	red
+amod	women	haired
+nsubj	posing	women
+case	black	in
+nmod:in	women	black
+aux	posing	is
+root	ROOT	posing
+case	man	for
+det	man	a
+nmod:for	posing	man
+mark	resting	while
+advcl	posing	resting
+case	tree	on
+det	tree	a
+nmod:on	resting	tree
+punct	posing	.

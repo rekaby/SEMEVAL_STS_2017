@@ -1,0 +1,16 @@
+det	villains	The
+nsubj	selfish	villains
+nsubj	hate	I
+advmod	hate	absolutely
+acl:relcl	villains	hate
+cop	selfish	are
+root	ROOT	selfish
+cc	selfish	and
+conj:and	selfish	self-serving
+punct	selfish	,
+cc	selfish	but
+nsubj	cowards	they
+cop	cowards	are
+advmod	cowards	also
+conj:but	selfish	cowards
+punct	selfish	.

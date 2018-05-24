@@ -1,0 +1,6 @@
+amod	Officials	Chinese
+nsubj	Fired	Officials
+root	ROOT	Fired
+case	Sex	Over
+nmod:over	Fired	Sex
+dobj	Fired	Scandal

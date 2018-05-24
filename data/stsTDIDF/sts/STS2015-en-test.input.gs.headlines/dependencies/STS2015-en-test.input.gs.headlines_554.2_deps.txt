@@ -1,0 +1,9 @@
+compound	Cross	Kenya
+compound	Cross	Red
+nsubj	says	Cross
+root	ROOT	says
+compound	toll	death
+nsubj	rises	toll
+ccomp	says	rises
+case	68	to
+nmod:to	rises	68

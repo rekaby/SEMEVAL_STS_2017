@@ -1,0 +1,6 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	holding
+det	float	a
+dobj	holding	float
+punct	boy	.

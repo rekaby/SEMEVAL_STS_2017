@@ -1,0 +1,8 @@
+nsubj	making	People
+root	ROOT	making
+det	structure	a
+dobj	making	structure
+case	cards	out
+mwe	out	of
+nmod:out_of	making	cards
+punct	making	.

@@ -1,0 +1,16 @@
+root	ROOT	warn
+cc	warn	or
+conj:or	warn	arouse
+case	sense	to
+det	sense	a
+nmod:to	arouse	sense
+case	danger	of
+nmod:of	sense	danger
+cc	warn	or
+conj:or	warn	call
+case	state	to
+det	state	a
+nmod:to	call	state
+case	preparedness	of
+nmod:of	state	preparedness
+punct	warn	.

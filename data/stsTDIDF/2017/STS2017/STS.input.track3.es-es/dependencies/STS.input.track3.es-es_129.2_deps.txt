@@ -1,0 +1,12 @@
+nummod	workers	Three
+nsubj	leaving	workers
+aux	leaving	are
+root	ROOT	leaving
+nmod:poss	building	their
+dobj	leaving	building
+case	flames	in
+nmod:in	leaving	flames
+case	fire	during
+det	fire	a
+nmod:during	leaving	fire
+punct	leaving	.

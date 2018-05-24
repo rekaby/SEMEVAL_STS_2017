@@ -1,0 +1,12 @@
+det	ministry	the
+amod	ministry	russian
+amod	ministry	foreign
+nsubj	stated	ministry
+root	ROOT	stated
+mark	suspended	that
+nsubj	suspended	russia
+aux	suspended	has
+neg	suspended	not
+ccomp	stated	suspended
+dobj	suspended	dialogue
+punct	stated	.

@@ -1,0 +1,9 @@
+nsubj	redeem	rescue
+punct	redeem	,
+root	ROOT	redeem
+punct	redeem	,
+conj	redeem	deliver
+case	harm	from
+nmod:from	deliver	harm
+cc	harm	or
+conj:or	harm	danger

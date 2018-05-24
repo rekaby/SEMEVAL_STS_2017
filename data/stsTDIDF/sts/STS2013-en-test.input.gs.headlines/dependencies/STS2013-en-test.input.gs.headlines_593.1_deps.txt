@@ -1,0 +1,9 @@
+nsubj	warns	Germany
+root	ROOT	warns
+dobj	warns	Greece
+punct	warns	:
+neg	money	No
+amod	money	more
+dobj	warns	money
+case	reforms	without
+nmod:without	money	reforms

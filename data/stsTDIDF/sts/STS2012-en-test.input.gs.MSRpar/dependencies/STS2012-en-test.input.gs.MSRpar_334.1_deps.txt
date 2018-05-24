@@ -1,0 +1,14 @@
+nsubj	filed	Prosecutors
+root	ROOT	filed
+det	motion	a
+dobj	filed	motion
+acl	motion	informing
+dobj	informing	Lee
+nsubj	intend	they
+acl:relcl	Lee	intend
+mark	seek	to
+xcomp	intend	seek
+det	penalty	the
+compound	penalty	death
+dobj	seek	penalty
+punct	filed	.

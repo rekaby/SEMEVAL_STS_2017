@@ -1,0 +1,9 @@
+compound	steps	Tehelka
+compound	steps	editor
+root	ROOT	steps
+advmod	steps	down
+case	allegations	after
+nmod:after	steps	allegations
+case	misconduct	of
+amod	misconduct	sexual
+nmod:of	allegations	misconduct

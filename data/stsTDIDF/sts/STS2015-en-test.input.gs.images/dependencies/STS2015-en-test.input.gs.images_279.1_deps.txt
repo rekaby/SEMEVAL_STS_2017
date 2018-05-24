@@ -1,0 +1,9 @@
+nummod	men	Five
+nsubj	walking	men
+case	tuxedos	in
+nmod:in	men	tuxedos
+aux	walking	are
+root	ROOT	walking
+compound:prt	walking	down
+dobj	walking	steps
+punct	walking	.

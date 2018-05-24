@@ -1,0 +1,9 @@
+amod	Hurricane	Massive
+root	ROOT	Hurricane
+nsubj	bears	Sandy
+root	Hurricane	bears
+compound:prt	bears	down
+case	Coast	on
+compound	Coast	U.S.
+compound	Coast	East
+nmod:on	bears	Coast

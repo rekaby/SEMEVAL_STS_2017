@@ -1,0 +1,8 @@
+root	ROOT	Working
+case	Firewall	behind
+nmod:poss	Firewall	China
+case	China	's
+punct	Firewall	`
+amod	Firewall	Great
+nmod:behind	Working	Firewall
+punct	Working	'

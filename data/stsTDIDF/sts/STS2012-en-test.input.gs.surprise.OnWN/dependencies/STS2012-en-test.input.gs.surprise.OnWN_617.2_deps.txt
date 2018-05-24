@@ -1,0 +1,7 @@
+root	ROOT	provide
+det	feast	a
+dobj	provide	feast
+cc	feast	or
+conj:or	feast	banquet
+acl	feast	for
+punct	provide	.

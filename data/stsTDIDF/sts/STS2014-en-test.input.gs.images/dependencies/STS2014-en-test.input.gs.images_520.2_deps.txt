@@ -1,0 +1,8 @@
+amod	cows	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	cows
+case	fence	behind
+det	fence	a
+nmod:behind	cows	fence
+punct	cows	.

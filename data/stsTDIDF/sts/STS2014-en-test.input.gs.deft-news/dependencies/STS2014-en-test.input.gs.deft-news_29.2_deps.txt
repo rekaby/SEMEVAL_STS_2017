@@ -1,0 +1,17 @@
+nmod:poss	decision	russia
+case	russia	's
+nsubj	step	decision
+mark	suspend	to
+acl	decision	suspend
+dobj	suspend	participation
+case	cfe	in
+det	cfe	the
+nmod:in	suspend	cfe
+cop	step	is
+det	step	a
+root	ROOT	step
+case	direction	in
+det	direction	the
+amod	direction	wrong
+nmod:in	step	direction
+punct	step	.

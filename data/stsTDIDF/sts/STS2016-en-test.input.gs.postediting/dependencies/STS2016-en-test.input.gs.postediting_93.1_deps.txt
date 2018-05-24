@@ -1,0 +1,11 @@
+det	song	The
+nsubjpass	ensured	song
+auxpass	ensured	is
+root	ROOT	ensured
+case	Kneˇzˇínková	by
+compound	Kneˇzˇínková	Katerˇina
+nmod:agent	ensured	Kneˇzˇínková
+cc	Kneˇzˇínková	and
+compound	Plachetka	Adam
+conj:and	Kneˇzˇínková	Plachetka
+punct	ensured	.

@@ -1,0 +1,7 @@
+det	Enforcers	These
+compound	Enforcers	Law
+nsubj	Stop	Enforcers
+aux	Stop	Will
+root	ROOT	Stop
+case	Nothing	at
+nmod:at	Stop	Nothing

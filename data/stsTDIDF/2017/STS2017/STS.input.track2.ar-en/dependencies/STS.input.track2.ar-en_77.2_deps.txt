@@ -1,0 +1,6 @@
+nsubj	walk	People
+root	ROOT	walk
+case	city	through
+det	city	the
+nmod:through	walk	city
+punct	walk	.

@@ -1,0 +1,9 @@
+nsubj	side	both
+cop	side	are
+case	side	on
+det	side	the
+amod	side	same
+root	ROOT	side
+case	circuit	of
+det	circuit	the
+nmod:of	side	circuit

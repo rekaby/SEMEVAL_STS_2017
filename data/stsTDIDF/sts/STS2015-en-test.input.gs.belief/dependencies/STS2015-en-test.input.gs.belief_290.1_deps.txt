@@ -1,0 +1,11 @@
+dep	get	lots
+case	luck	of
+nmod:of	lots	luck
+punct	get	,
+nsubj	get	she
+aux	get	will
+root	ROOT	get
+case	phase	through
+det	phase	this
+nmod:through	get	phase
+punct	get	!

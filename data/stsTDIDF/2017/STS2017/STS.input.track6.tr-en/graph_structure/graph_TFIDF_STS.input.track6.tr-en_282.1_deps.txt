@@ -1,0 +1,8 @@
+suit	tie	nmod:with
+walks	down	compound:prt
+tie	his	nmod:poss
+tie	flying	acl
+flying	walks	xcomp
+man	suit	nmod:in
+walks	sidewalk	dobj
+tie	with	case

@@ -1,0 +1,14 @@
+det	man	A
+nsubj	sprinkling	man
+aux	sprinkling	is
+root	ROOT	sprinkling
+dobj	sprinkling	seasoning
+case	split	on
+amod	split	several
+nmod:on	sprinkling	split
+cc	split	and
+amod	loaves	buttered
+conj:and	split	loaves
+case	bread	of
+nmod:of	loaves	bread
+punct	sprinkling	.

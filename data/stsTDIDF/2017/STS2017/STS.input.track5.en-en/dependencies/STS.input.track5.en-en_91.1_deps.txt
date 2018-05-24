@@ -1,0 +1,16 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	playing
+dobj	playing	soccer
+case	field	on
+det	field	a
+compound	field	soccer
+nmod:on	playing	field
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+nmod:in_front_of	field	crowd
+punct	group	.

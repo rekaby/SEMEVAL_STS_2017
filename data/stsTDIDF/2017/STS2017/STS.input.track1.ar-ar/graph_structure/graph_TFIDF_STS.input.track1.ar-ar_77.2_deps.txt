@@ -1,0 +1,6 @@
+lights	under	case
+band	.	punct
+ROOT	band	root
+played	lights	nmod:under
+band	The	det
+band	played	acl

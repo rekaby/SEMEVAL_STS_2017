@@ -1,0 +1,11 @@
+advmod	's	firstly
+punct	's	,
+expl	's	there
+root	ROOT	's
+neg	need	no
+nsubj	's	need
+case	panic	to
+nmod:to	need	panic
+cc	panic	or
+conj:or	panic	rush
+punct	's	.

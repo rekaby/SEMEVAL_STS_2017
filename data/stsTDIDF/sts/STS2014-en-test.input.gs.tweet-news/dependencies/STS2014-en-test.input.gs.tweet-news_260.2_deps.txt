@@ -1,0 +1,7 @@
+root	ROOT	Chim
+punct	Chim	:
+compound	Retrospective	A
+compound	Retrospective	Vivid
+dep	Chim	Retrospective
+case	Europe	of
+nmod:of	Retrospective	Europe

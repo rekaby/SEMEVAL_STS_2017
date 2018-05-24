@@ -1,0 +1,9 @@
+root	ROOT	fail
+mark	do	to
+xcomp	fail	do
+dobj	do	something
+punct	leave	;
+dep	fail	leave
+dobj	leave	something
+dep	leave	undone
+punct	fail	.

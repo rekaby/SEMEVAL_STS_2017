@@ -1,0 +1,8 @@
+compound	badaoui	djamel
+nsubjpass	sentenced	badaoui
+auxpass	sentenced	was
+root	ROOT	sentenced
+case	years	to
+nummod	years	five
+nmod:to	sentenced	years
+punct	sentenced	.

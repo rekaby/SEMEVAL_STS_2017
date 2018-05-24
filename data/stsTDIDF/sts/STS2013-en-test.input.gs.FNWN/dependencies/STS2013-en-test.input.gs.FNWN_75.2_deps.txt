@@ -1,0 +1,9 @@
+det	record	a
+root	ROOT	record
+cc	record	or
+amod	description	narrative
+conj:or	record	description
+case	events	of
+amod	events	past
+nmod:of	record	events
+punct	record	;

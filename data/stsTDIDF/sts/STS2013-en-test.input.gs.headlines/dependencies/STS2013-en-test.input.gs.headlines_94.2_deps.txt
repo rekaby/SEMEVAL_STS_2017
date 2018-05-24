@@ -1,0 +1,6 @@
+compound	Army	Free
+amod	Army	Syrian
+nsubj	captures	Army
+root	ROOT	captures
+amod	officers	Syrian
+dobj	captures	officers

@@ -1,0 +1,16 @@
+root	ROOT	Put
+compound:prt	Put	up
+case	something	with
+nmod:with	Put	something
+cc	something	or
+conj:or	something	someone
+amod	someone	unpleasant
+punct	Put	;
+compound	deference	show
+dep	Put	deference
+case	someone	towards
+nmod:towards	deference	someone
+cc	someone	or
+det	authority	some
+conj:or	someone	authority
+punct	Put	.

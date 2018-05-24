@@ -1,0 +1,15 @@
+det	woman	A
+nsubjpass	seated	woman
+cc	woman	and
+det	girl	a
+amod	girl	young
+conj:and	woman	girl
+auxpass	seated	are
+root	ROOT	seated
+case	table	at
+det	table	a
+nmod:at	seated	table
+case	restaurant	in
+det	restaurant	a
+nmod:in	table	restaurant
+punct	seated	.

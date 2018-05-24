@@ -1,0 +1,8 @@
+compound	profit	Samsung
+nsubj	soars	profit
+root	ROOT	soars
+case	$	to
+nmod:to	soars	$
+nummod	$	6.6
+compound	record	B
+nmod:npmod	$	record

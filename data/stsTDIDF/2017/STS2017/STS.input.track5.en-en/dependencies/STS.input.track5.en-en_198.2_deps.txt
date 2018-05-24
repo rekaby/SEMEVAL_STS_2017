@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	gossiping	women
+aux	gossiping	are
+root	ROOT	gossiping
+case	fence	by
+det	fence	a
+nmod:by	gossiping	fence
+punct	gossiping	.

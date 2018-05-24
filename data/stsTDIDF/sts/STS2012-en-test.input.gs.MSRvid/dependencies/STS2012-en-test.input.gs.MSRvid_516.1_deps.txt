@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	making	boy
+aux	making	is
+root	ROOT	making
+det	steps	some
+compound	steps	dance
+dobj	making	steps
+punct	making	.

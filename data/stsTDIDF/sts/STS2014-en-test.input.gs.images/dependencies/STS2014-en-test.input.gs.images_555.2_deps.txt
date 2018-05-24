@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+acl	man	posing
+case	field	on
+det	field	a
+nmod:on	posing	field
+case	bottle	with
+det	bottle	a
+nmod:with	field	bottle
+case	wine	of
+nmod:of	bottle	wine
+punct	man	.

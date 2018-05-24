@@ -1,0 +1,7 @@
+nsubj	launches	China
+root	ROOT	launches
+advmod	missile	first
+amod	missile	air-to-air
+dobj	launches	missile
+case	chopper	from
+nmod:from	launches	chopper

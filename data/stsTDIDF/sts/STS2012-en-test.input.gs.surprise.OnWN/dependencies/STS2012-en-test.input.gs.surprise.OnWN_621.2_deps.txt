@@ -1,0 +1,13 @@
+det	control	the
+root	ROOT	control
+case	country	of
+det	country	a
+nmod:of	control	country
+case	forces	by
+amod	forces	military
+nmod:by	control	forces
+case	power	of
+det	power	a
+amod	power	foreign
+nmod:of	forces	power
+punct	control	.

@@ -1,0 +1,9 @@
+det	quality	the
+root	ROOT	quality
+mark	useful	of
+neg	useful	not
+cop	useful	being
+acl	quality	useful
+cc	useful	or
+conj:or	useful	convenient
+punct	quality	.

@@ -1,0 +1,8 @@
+compound	prisoner	Pakistan
+mark	release	to
+acl	Pakistan	release
+advmod	Taliban	most
+amod	Taliban	senior
+compound	Taliban	Afghan
+dobj	release	Taliban
+root	ROOT	prisoner

@@ -1,0 +1,16 @@
+compound	Powell	Colin
+nsubj	said	Powell
+punct	Powell	,
+det	Secretary	the
+appos	Powell	Secretary
+case	State	of
+nmod:of	Secretary	State
+punct	Powell	,
+root	ROOT	said
+nsubj	stop	contacts
+case	Iran	with
+nmod:with	contacts	Iran
+aux	stop	would
+neg	stop	not
+ccomp	said	stop
+punct	said	.

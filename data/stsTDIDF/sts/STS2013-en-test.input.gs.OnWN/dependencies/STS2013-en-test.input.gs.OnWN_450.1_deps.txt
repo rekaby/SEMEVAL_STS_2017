@@ -1,0 +1,9 @@
+root	ROOT	arrangement
+case	assets	for
+amod	assets	managing
+nmod:for	arrangement	assets
+case	beneficiary	on
+mwe	on	behalf
+mwe	on	of
+det	beneficiary	a
+nmod:on_behalf_of	arrangement	beneficiary

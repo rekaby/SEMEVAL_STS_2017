@@ -1,0 +1,7 @@
+learning	is	aux
+microscope	a	det
+ROOT	learning	root
+learning	.	punct
+learning	use	ccomp
+use	microscope	dobj
+learning	girl	nsubj

@@ -1,0 +1,7 @@
+compound	Jet	Southwest
+nmod:poss	Gear	Jet
+case	Jet	's
+compound	Gear	Nose
+nsubj	Landed	Gear
+root	ROOT	Landed
+dobj	Landed	First

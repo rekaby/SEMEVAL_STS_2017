@@ -1,0 +1,10 @@
+root	ROOT	cause
+amod	suffering	bodily
+dobj	cause	suffering
+dep	suffering	to
+cc	to	and
+conj:and	to	make
+xcomp	make	sick
+cc	sick	or
+conj:or	sick	indisposed
+punct	cause	.

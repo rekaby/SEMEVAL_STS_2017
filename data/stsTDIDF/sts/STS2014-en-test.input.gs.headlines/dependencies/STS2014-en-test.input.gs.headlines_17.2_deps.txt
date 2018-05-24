@@ -1,0 +1,9 @@
+amod	gang	Swiss
+compound	gang	tourist
+nsubj	raped	gang
+root	ROOT	raped
+case	India	in
+nmod:in	raped	India
+punct	raped	,
+parataxis	raped	say
+nsubj	say	police

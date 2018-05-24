@@ -1,0 +1,4 @@
+animal	one	nummod
+is	shot	nmod:in
+is	animal	nsubj
+shot	in	case

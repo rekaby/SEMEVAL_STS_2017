@@ -1,0 +1,5 @@
+girl	trying	acl
+mom	her	nmod:poss
+mom	from	case
+hide	mom	nmod:from
+trying	hide	xcomp

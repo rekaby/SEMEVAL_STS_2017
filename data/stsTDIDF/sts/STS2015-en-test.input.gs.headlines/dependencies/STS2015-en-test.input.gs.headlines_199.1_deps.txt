@@ -1,0 +1,10 @@
+compound	Thatcher	Margaret
+root	ROOT	Thatcher
+punct	Thatcher	,
+amod	PM	former
+compound	PM	U.K.
+appos	Thatcher	PM
+punct	Thatcher	,
+amod	Thatcher	dead
+case	87	at
+nmod:at	dead	87

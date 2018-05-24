@@ -1,0 +1,16 @@
+amod	ships	Greek
+nsubj	ran	ships
+ccomp	Gayssot	ran
+punct	ran	,
+mark	being	without
+expl	being	there
+advcl	ran	being
+det	storm	the
+amod	storm	least
+nsubj	being	storm
+case	trimmings	in
+nmod:in	storm	trimmings
+punct	Gayssot	,
+compound	Gayssot	Mr
+root	ROOT	Gayssot
+punct	Gayssot	.

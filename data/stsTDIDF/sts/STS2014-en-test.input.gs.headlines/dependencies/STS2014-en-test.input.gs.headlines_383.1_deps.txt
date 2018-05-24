@@ -1,0 +1,9 @@
+nsubj	Mounts	Algeria
+root	ROOT	Mounts
+amod	Operation	Military
+dobj	Mounts	Operation
+mark	Rescue	to
+acl	Operation	Rescue
+compound	Qaeda	Al
+compound	Hostages	Qaeda
+dobj	Rescue	Hostages

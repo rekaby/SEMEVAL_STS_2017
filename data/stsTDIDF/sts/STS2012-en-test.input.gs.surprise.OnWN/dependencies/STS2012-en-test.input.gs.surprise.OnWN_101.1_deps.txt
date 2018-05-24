@@ -1,0 +1,5 @@
+det	decrease	a
+amod	decrease	measurable
+cc	measurable	or
+conj:or	measurable	quantitative
+root	ROOT	decrease

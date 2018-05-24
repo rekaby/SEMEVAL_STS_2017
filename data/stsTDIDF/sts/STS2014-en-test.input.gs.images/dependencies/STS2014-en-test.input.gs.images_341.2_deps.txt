@@ -1,0 +1,8 @@
+root	ROOT	People
+case	motorbikes	on
+nmod:on	People	motorbikes
+case	street	in
+det	street	a
+compound	street	city
+nmod:in	motorbikes	street
+punct	People	.

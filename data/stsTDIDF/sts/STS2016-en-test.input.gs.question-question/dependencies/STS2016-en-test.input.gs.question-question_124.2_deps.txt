@@ -1,0 +1,11 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	I
+root	ROOT	remove
+dobj	remove	paint
+case	table	from
+det	table	a
+amod	table	porous
+nmod:from	remove	table
+dep	table	top
+punct	remove	?

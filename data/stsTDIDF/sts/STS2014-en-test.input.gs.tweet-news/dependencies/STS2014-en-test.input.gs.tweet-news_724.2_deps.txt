@@ -1,0 +1,9 @@
+root	ROOT	ArtsBeat
+punct	ArtsBeat	:
+compound	Biopic	James
+compound	Biopic	Brown
+nsubj	Gets	Biopic
+advmod	Gets	Finally
+parataxis	ArtsBeat	Gets
+xcomp	Gets	Go
+dobj	Go	Ahead

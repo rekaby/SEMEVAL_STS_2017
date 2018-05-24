@@ -1,0 +1,9 @@
+det	gathering	A
+amod	gathering	social
+root	ROOT	gathering
+case	people	of
+nmod:of	gathering	people
+case	restaurant	in
+det	restaurant	a
+nmod:in	people	restaurant
+punct	gathering	.

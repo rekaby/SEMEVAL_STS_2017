@@ -1,0 +1,17 @@
+cc	said	But
+compound	agency	Itar-Tass
+compound	agency	news
+nsubj	said	agency
+root	ROOT	said
+dobj	said	four
+case	bodyguards	of
+nmod:poss	bodyguards	his
+nmod:of	four	bodyguards
+cop	those	were
+case	those	among
+nmod:among	four	those
+acl	those	killed
+case	bomb	by
+det	bomb	the
+nmod:by	killed	bomb
+punct	said	.

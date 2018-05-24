@@ -1,0 +1,9 @@
+compound	Council	U.N.
+compound	Council	Security
+nsubj	calls	Council
+root	ROOT	calls
+case	ceasefire	for
+amod	ceasefire	humanitarian
+nmod:for	calls	ceasefire
+case	Gaza	in
+nmod:in	ceasefire	Gaza

@@ -1,0 +1,10 @@
+compound	lands	Asiana
+compound	lands	Air
+compound	lands	Boeing
+nummod	lands	777
+compound	lands	crash
+root	ROOT	lands
+case	airport	at
+compound	airport	San
+compound	airport	Francisco
+nmod:at	lands	airport

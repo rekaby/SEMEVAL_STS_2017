@@ -1,0 +1,6 @@
+root	ROOT	Stars
+compound	tribute	pay
+dobj	Stars	tribute
+case	Garner	to
+compound	Garner	James
+nmod:to	tribute	Garner

@@ -1,0 +1,11 @@
+advmod	long	How
+dep	is	long
+root	ROOT	is
+det	life	the
+nsubj	is	life
+case	shot	of
+det	shot	a
+nmod:of	life	shot
+case	espresso	of
+nmod:of	shot	espresso
+punct	is	?

@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	large
+amod	dog	gray
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	snow	in
+det	snow	the
+amod	snow	deep
+nmod:in	playing	snow
+punct	playing	.

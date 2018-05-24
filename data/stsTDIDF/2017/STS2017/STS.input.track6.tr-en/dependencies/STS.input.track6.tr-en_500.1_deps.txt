@@ -1,0 +1,16 @@
+det	group	A
+root	ROOT	group
+case	men	of
+nmod:of	group	men
+cc	men	and
+conj:and	men	women
+nsubj	looking	who
+aux	looking	are
+acl:relcl	group	looking
+case	art	at
+nmod:at	looking	art
+case	show	in
+det	show	a
+compound	show	art
+nmod:in	looking	show
+punct	group	.

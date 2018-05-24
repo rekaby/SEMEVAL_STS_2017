@@ -1,0 +1,11 @@
+det	point	a
+root	ROOT	point
+punct	point	,
+case	part	as
+det	part	the
+compound	part	op
+nmod:as	point	part
+case	arrow	of
+det	arrow	a
+compound	arrow	compass
+nmod:of	part	arrow

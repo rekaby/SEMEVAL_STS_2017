@@ -1,0 +1,10 @@
+root	ROOT	turn
+compound:prt	turn	on
+cc	turn	or
+case	axis	around
+det	axis	an
+conj:or	turn	axis
+cc	axis	or
+det	center	a
+conj:or	axis	center
+punct	turn	.

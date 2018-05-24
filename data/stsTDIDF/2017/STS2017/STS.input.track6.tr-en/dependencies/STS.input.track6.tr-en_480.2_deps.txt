@@ -1,0 +1,17 @@
+nsubj	band	It
+cop	band	's
+det	band	a
+root	ROOT	band
+nsubj	gives	that
+acl:relcl	band	gives
+det	concert	a
+dobj	gives	concert
+advmod	photographed	when
+det	singer	the
+nsubjpass	photographed	singer
+auxpass	photographed	is
+advcl	gives	photographed
+case	range	from
+amod	range	close
+nmod:from	photographed	range
+punct	band	.

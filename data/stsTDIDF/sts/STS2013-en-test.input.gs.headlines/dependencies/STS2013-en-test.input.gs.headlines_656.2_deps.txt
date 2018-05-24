@@ -1,0 +1,10 @@
+compound	clashes	Al
+compound	clashes	Qaeda
+root	ROOT	clashes
+punct	clashes	,
+nsubj	kill	blasts
+acl:relcl	clashes	kill
+nummod	soldiers	35
+dobj	kill	soldiers
+case	Yemen	in
+nmod:in	kill	Yemen

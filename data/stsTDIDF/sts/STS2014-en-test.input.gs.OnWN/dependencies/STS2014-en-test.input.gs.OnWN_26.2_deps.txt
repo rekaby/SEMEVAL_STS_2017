@@ -1,0 +1,15 @@
+root	ROOT	keep
+case	safety	in
+nmod:in	keep	safety
+cc	keep	and
+conj:and	keep	protect
+case	harm	from
+nmod:from	protect	harm
+punct	harm	,
+conj:or	harm	decay
+punct	harm	,
+conj:or	harm	loss
+punct	harm	,
+cc	harm	or
+conj:or	harm	destruction
+punct	keep	.

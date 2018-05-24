@@ -1,0 +1,14 @@
+root	ROOT	Bird
+case	head	with
+det	head	a
+amod	head	green
+nmod:with	Bird	head
+cc	head	and
+amod	chest	white
+conj:and	head	chest
+acl	head	perched
+case	branch	on
+det	branch	a
+compound	branch	tree
+nmod:on	perched	branch
+punct	Bird	.

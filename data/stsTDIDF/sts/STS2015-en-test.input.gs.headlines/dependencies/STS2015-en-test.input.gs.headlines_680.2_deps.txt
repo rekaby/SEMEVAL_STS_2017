@@ -1,0 +1,7 @@
+compound	Maduro	Chavez
+compound	Maduro	heir
+nsubj	wins	Maduro
+root	ROOT	wins
+nmod:poss	presidency	Venezuela
+case	Venezuela	's
+dobj	wins	presidency

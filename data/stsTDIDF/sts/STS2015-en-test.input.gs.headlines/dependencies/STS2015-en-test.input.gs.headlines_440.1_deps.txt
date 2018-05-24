@@ -1,0 +1,8 @@
+compound	teams	International
+amod	teams	forensic
+nsubj	join	teams
+root	ROOT	join
+amod	carnage	Kenyan
+compound	carnage	mall
+amod	probe	carnage
+dobj	join	probe

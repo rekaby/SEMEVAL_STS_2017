@@ -1,0 +1,10 @@
+root	ROOT	US
+punct	US	,
+appos	US	allies
+mark	set	to
+acl	allies	set
+dobj	set	demands
+case	talks	for
+compound	talks	Iran
+amod	talks	nuclear
+nmod:for	demands	talks

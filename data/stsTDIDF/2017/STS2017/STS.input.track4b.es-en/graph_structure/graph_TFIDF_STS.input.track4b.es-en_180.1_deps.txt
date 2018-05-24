@@ -1,0 +1,12 @@
+wants	create	conj:and
+bloc	Union-style	amod
+bloc	a	det
+States	Canada	conj:and
+partner	to	case
+States	with	case
+bloc	European	amod
+partner	States	nmod:with
+bloc	trading	compound
+create	America	nmod:in
+create	bloc	dobj
+wants	partner	nmod:to

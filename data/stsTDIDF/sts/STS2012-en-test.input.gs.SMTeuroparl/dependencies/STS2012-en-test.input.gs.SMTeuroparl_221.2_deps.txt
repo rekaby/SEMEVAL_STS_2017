@@ -1,0 +1,17 @@
+amod	help	Punctual
+nsubj	essential	help
+case	support	as
+det	support	the
+nmod:as	help	support
+case	market	of
+det	market	the
+nmod:of	support	market
+cc	market	or
+det	bonus	the
+conj:or	market	bonus
+case	grass	at
+det	grass	the
+nmod:at	support	grass
+cop	essential	is
+root	ROOT	essential
+punct	essential	.

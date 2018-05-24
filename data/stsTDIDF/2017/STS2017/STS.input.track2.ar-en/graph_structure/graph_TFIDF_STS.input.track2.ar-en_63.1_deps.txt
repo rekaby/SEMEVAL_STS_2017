@@ -1,0 +1,10 @@
+umbrella	an	det
+walking	buildings	nmod:between
+women	A	det
+rain	umbrella	nmod:with
+rain	in	case
+buildings	between	case
+umbrella	with	case
+walking	women	nsubj
+walking	rain	nmod:in
+walking	are	aux

@@ -1,0 +1,15 @@
+root	ROOT	Asteroids
+acl	Asteroids	are
+nsubjpass	called	what
+auxpass	called	are
+ccomp	are	called
+amod	planets	minor
+dobj	called	planets
+punct	planets	-
+amod	system	small
+amod	system	inner
+amod	system	solar
+dep	planets	system
+amod	bodies	rocky
+dobj	system	bodies
+punct	Asteroids	.

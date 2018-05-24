@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+compound:prt	slicing	up
+det	leaves	some
+amod	leaves	green
+dobj	slicing	leaves
+punct	slicing	.

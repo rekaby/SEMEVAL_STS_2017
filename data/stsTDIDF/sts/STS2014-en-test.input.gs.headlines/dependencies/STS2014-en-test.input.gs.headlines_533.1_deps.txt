@@ -1,0 +1,5 @@
+nsubj	set	US
+root	ROOT	set
+case	Obama	for
+nmod:for	set	Obama
+dobj	set	inauguration

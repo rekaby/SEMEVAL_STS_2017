@@ -1,0 +1,7 @@
+nsubj	moving	Torres
+csubj	fails	moving
+case	bid	on
+amod	bid	after
+amod	bid	Olympic
+nmod:on	moving	bid
+root	ROOT	fails

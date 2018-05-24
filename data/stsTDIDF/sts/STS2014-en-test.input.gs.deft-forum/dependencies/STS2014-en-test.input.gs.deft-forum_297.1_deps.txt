@@ -1,0 +1,11 @@
+compound	Holy	Holly
+root	ROOT	Holy
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Holy	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Holy	.

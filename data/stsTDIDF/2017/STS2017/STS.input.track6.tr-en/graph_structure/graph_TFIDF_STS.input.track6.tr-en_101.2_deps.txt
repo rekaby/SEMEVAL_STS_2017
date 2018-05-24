@@ -1,0 +1,9 @@
+player	baseball	compound
+runs	player	nsubj
+team	opposing	amod
+member	team	nmod:of
+runs	lengthens	xcomp
+player	A	det
+runs	member	nmod:as
+lengthens	catch	xcomp
+catch	ball	dobj

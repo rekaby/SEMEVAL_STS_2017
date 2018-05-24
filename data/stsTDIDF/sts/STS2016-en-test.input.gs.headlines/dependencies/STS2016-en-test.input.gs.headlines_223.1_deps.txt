@@ -1,0 +1,10 @@
+compound	Support	UK
+compound	Support	Leader
+compound	Support	Signals
+root	ROOT	Support
+case	Airstrikes	for
+nmod:for	Support	Airstrikes
+case	IS	on
+nmod:on	Support	IS
+case	Syria	in
+nmod:in	IS	Syria

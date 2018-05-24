@@ -1,0 +1,6 @@
+root	ROOT	manipulate
+case	manner	in
+det	manner	a
+amod	manner	fraudulent
+nmod:in	manipulate	manner
+punct	manipulate	.

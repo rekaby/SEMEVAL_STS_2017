@@ -1,0 +1,13 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	going	it
+aux	going	's
+ccomp	think	going
+mark	depend	to
+xcomp	going	depend
+mark	are	on
+dobj	are	what
+det	reasons	the
+nsubj	are	reasons
+advcl	depend	are
+punct	think	.

@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	leaps	dog
+root	ROOT	leaps
+case	fence	over
+det	fence	the
+nmod:over	leaps	fence
+case	park	in
+det	park	the
+nmod:in	fence	park
+punct	leaps	.

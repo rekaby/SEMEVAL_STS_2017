@@ -1,0 +1,12 @@
+root	ROOT	Really
+punct	Really	?-2) nsubj(says-2, Man
+root	ROOT	says
+nsubjpass	buried	he
+auxpass	buried	's
+punct	buried	`
+amod	buried	certain
+punct	buried	'
+advmod	buried	where
+nsubjpass	buried	Hoffa
+auxpass	buried	is
+ccomp	says	buried

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	eating	man
+cc	man	and
+conj:and	man	woman
+aux	eating	are
+root	ROOT	eating
+case	table	at
+det	table	a
+nmod:at	eating	table
+punct	eating	.

@@ -1,0 +1,11 @@
+det	man	The
+nsubj	used	man
+root	ROOT	used
+det	sword	a
+dobj	used	sword
+mark	slice	to
+advcl	used	slice
+det	bottle	a
+amod	bottle	plastic
+dobj	slice	bottle
+punct	used	.

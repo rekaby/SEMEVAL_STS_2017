@@ -1,0 +1,16 @@
+root	ROOT	come
+conj:or	come	come
+compound:prt	come	down
+case	down	on
+cc	on	or
+conj:or	on	keep
+nmod:keep	come	down
+nmod:on	come	down
+case	use	by
+amod	use	unjust
+nmod:by	come	use
+case	authority	of
+nmod:poss	authority	one
+case	one	's
+nmod:of	use	authority
+punct	come	.

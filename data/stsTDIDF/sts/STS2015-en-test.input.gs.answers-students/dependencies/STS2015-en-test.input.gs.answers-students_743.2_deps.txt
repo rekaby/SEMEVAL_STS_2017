@@ -1,0 +1,16 @@
+nsubjpass	separated	Terminals
+nummod	Terminals	1
+punct	Terminals	,
+amod	Terminals	2
+cc	2	and
+conj:and	2	3
+auxpass	separated	are
+root	ROOT	separated
+case	terminal	from
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:from	separated	terminal
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap

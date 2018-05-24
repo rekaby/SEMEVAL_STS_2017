@@ -1,0 +1,13 @@
+det	leaders	The
+nsubj	have	leaders
+advmod	have	now
+root	ROOT	have
+det	chance	a
+amod	chance	new
+dobj	have	chance
+cc	have	and
+dep	take	let
+dobj	let	them
+advmod	take	therefore
+conj:and	have	take
+punct	have	.

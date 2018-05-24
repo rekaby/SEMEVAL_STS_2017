@@ -1,0 +1,13 @@
+amod	vessels	Greek
+nsubj	flowed	vessels
+root	ROOT	flowed
+punct	flowed	,
+case	storm	without
+det	storm	any
+nmod:without	flowed	storm
+case	around	in
+nmod:in	storm	around
+punct	flowed	,
+compound	Gayssot	Mr
+nmod:npmod	flowed	Gayssot
+punct	flowed	.

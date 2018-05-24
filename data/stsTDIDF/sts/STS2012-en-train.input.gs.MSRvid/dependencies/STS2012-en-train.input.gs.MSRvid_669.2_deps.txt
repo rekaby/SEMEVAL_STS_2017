@@ -1,0 +1,9 @@
+det	wallaby	A
+nsubj	licking	wallaby
+aux	licking	is
+root	ROOT	licking
+det	woman	a
+nmod:poss	hand	woman
+case	woman	's
+dobj	licking	hand
+punct	licking	.

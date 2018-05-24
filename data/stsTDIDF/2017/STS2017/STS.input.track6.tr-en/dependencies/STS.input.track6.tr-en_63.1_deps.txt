@@ -1,0 +1,7 @@
+nummod	sister	Two
+nsubj	relax	sister
+root	ROOT	relax
+case	pool	by
+det	pool	a
+nmod:by	relax	pool
+punct	relax	.

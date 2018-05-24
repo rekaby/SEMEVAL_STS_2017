@@ -1,0 +1,11 @@
+det	flock	A
+root	ROOT	flock
+case	birds	of
+nmod:of	flock	birds
+acl	birds	flying
+case	body	over
+det	body	a
+nmod:over	flying	body
+case	water	of
+nmod:of	body	water
+punct	flock	.

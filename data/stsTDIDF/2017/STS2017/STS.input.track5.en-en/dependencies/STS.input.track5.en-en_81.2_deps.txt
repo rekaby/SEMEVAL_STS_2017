@@ -1,0 +1,9 @@
+det	guy	A
+nsubj	sitting	guy
+aux	sitting	is
+root	ROOT	sitting
+case	couch	on
+det	couch	the
+nmod:on	sitting	couch
+acl	couch	watching
+dobj	watching	TV

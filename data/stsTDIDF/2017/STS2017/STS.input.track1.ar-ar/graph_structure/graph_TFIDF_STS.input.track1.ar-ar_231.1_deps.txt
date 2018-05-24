@@ -1,0 +1,5 @@
+bus	city	compound
+ROOT	Teenagers	root
+Teenagers	bus	nmod:on
+Teenagers	.	punct
+bus	on	case

@@ -1,0 +1,9 @@
+det	bulb	The
+amod	bulb	light
+nsubj	path	bulb
+cop	path	is
+neg	path	not
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

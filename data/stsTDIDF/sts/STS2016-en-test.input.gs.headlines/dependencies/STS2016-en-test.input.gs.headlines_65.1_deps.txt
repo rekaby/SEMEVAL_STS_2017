@@ -1,0 +1,6 @@
+amod	lands	Chinese
+amod	lands	lunar
+compound	lands	rover
+root	ROOT	lands
+case	moon	on
+nmod:on	lands	moon

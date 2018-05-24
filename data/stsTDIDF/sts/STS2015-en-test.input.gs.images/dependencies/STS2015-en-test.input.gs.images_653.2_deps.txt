@@ -1,0 +1,17 @@
+nummod	girls	Two
+nsubj	sitting	girls
+acl	girls	dressed
+case	black	in
+nmod:in	dressed	black
+aux	sitting	are
+root	ROOT	sitting
+case	room	in
+det	room	a
+nmod:in	sitting	room
+xcomp	sitting	making
+amod	poses	suggestive
+dobj	making	poses
+case	camera	at
+det	camera	the
+nmod:at	making	camera
+punct	sitting	.

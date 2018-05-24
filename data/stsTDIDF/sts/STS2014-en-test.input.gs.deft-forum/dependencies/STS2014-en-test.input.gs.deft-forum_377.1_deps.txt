@@ -1,0 +1,12 @@
+advmod	so	Just
+advmod	long	so
+root	ROOT	long
+mark	paid	as
+det	tax	the
+nsubjpass	paid	tax
+case	sale	on
+det	sale	that
+nmod:on	tax	sale
+auxpass	paid	is
+advcl	long	paid
+punct	long	.

@@ -1,0 +1,8 @@
+nsubj	lifts	FAA
+root	ROOT	lifts
+dobj	lifts	ban
+case	flights	on
+compound	flights	U.S.
+nmod:on	lifts	flights
+case	Israel	to
+nmod:to	lifts	Israel

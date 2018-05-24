@@ -1,0 +1,15 @@
+compound	Danios	Breed
+compound	Danios	Zebra
+nsubj	hardy	Danios
+cop	hardy	are
+advmod	hardy	extremely
+root	ROOT	hardy
+dobj	hardy	fish
+punct	hardy	,
+nsubj	difficult	they
+cop	difficult	are
+advmod	difficult	almost
+parataxis	hardy	difficult
+mark	kill	to
+xcomp	difficult	kill
+punct	hardy	.

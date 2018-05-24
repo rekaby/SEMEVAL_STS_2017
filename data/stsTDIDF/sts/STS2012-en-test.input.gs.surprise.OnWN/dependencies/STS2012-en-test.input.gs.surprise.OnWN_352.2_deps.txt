@@ -1,0 +1,7 @@
+root	ROOT	manipulate
+det	registers	the
+dobj	manipulate	registers
+case	organ	of
+det	organ	an
+nmod:of	registers	organ
+punct	manipulate	.

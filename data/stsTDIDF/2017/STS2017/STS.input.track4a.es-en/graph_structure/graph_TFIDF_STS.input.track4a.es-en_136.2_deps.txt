@@ -1,0 +1,9 @@
+sledding	snow	nmod:in
+sledding	are	cop
+snow	in	case
+snow	the	det
+sledding	.	punct
+man	child	conj:and
+sledding	man	nsubj
+sledding	together	advmod
+ROOT	sledding	root

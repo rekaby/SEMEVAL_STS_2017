@@ -1,0 +1,11 @@
+det	unit	a
+amod	unit	functioning
+root	ROOT	unit
+case	organization	of
+det	organization	a
+amod	organization	larger
+amod	organization	political
+nmod:of	unit	organization
+punct	organization	,
+det	cadre	a
+appos	organization	cadre

@@ -1,0 +1,6 @@
+player	basketball	compound
+player	The	det
+player	is	dep
+score	points	dobj
+about	score	xcomp
+points	team	nmod:for

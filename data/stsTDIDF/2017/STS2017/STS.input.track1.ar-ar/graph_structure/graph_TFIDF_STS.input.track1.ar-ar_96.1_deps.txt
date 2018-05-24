@@ -1,0 +1,8 @@
+ROOT	cheated	root
+bicycle	on	case
+cheated	.	punct
+cheated	has	aux
+man	works	acl:relcl
+bicycle	a	det
+cheated	man	nsubj
+cheated	bicycle	nmod:on

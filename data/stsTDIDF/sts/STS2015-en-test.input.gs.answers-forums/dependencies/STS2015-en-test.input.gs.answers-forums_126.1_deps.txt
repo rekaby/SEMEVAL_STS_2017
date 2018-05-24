@@ -1,0 +1,15 @@
+nsubj	guess	I
+root	ROOT	guess
+nsubj	tickets	those
+cop	tickets	are
+amod	tickets	greek
+ccomp	guess	tickets
+punct	εισιτηριον	-LRB-
+appos	tickets	εισιτηριον
+punct	εισιτηριον	-RRB-
+case	sites	for
+compound	sites	excavation
+nmod:for	tickets	sites
+cc	sites	or
+conj:or	sites	museums
+punct	guess	.

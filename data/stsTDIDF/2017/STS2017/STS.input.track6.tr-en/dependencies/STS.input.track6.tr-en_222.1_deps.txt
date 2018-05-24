@@ -1,0 +1,17 @@
+det	boy	The
+amod	boy	young
+root	ROOT	boy
+acl	boy	reaching
+case	baton	for
+det	baton	the
+nmod:for	reaching	baton
+case	girl	from
+det	girl	the
+nmod:from	baton	girl
+mark	runs	as
+nsubj	runs	he
+advcl	reaching	runs
+det	race	the
+compound	race	relay
+dobj	runs	race
+punct	boy	.

@@ -1,0 +1,7 @@
+fly	woman	nsubj
+fly	rain	nmod:in
+fly	.	punct
+fly	kites	dobj
+rain	in	case
+ROOT	fly	root
+woman	children	conj:and

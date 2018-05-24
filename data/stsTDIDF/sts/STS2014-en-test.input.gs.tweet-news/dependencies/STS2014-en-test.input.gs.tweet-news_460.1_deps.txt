@@ -1,0 +1,18 @@
+root	ROOT	nsfw
+punct	nsfw	?-2) root(ROOT-0, :
+amod	opening	Best
+compound	opening	obit
+dep	:	opening
+nsubj	read	I
+aux	read	've
+acl:relcl	opening	read
+case	time	in
+det	time	a
+amod	time	long
+nmod:in	read	time
+punct	:	.-12) compound(Abby-2, Dear
+nsubj	Dies	Abby
+root	ROOT	Dies
+case	94	at
+nmod:at	Dies	94
+punct	Dies	?

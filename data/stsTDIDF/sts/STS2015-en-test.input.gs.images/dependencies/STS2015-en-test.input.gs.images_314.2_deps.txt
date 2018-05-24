@@ -1,0 +1,11 @@
+det	man	A
+nsubj	lifting	man
+aux	lifting	is
+root	ROOT	lifting
+det	girl	a
+amod	girl	little
+dobj	lifting	girl
+case	head	above
+nmod:poss	head	his
+nmod:above	lifting	head
+punct	lifting	.

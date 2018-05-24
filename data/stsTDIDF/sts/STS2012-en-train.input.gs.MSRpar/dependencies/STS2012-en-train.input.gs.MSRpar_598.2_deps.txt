@@ -1,0 +1,16 @@
+nsubjpass	taken	She
+auxpass	taken	was
+root	ROOT	taken
+case	Hospital	to
+compound	Hospital	Charing
+compound	Hospital	Cross
+nmod:to	taken	Hospital
+punct	Hospital	,
+advmod	remained	where
+nsubj	remained	she
+acl:relcl	Hospital	remained
+advmod	ill	critically
+advmod	remained	ill
+amod	night	last
+nmod:tmod	remained	night
+punct	taken	.

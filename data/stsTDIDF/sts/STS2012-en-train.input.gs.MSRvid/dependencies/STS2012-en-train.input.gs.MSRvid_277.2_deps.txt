@@ -1,0 +1,9 @@
+det	lion	A
+nsubj	tries	lion
+root	ROOT	tries
+mark	climb	to
+xcomp	tries	climb
+case	wall	over
+det	wall	a
+nmod:over	climb	wall
+punct	tries	.

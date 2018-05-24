@@ -1,0 +1,16 @@
+nsubj	beat	Sales
+case	quarter	for
+det	quarter	the
+nmod:for	Sales	quarter
+root	ROOT	beat
+dobj	beat	expectations
+punct	beat	,
+advcl	beat	rising
+nummod	percent	37
+nmod:npmod	year-on-year	percent
+xcomp	rising	year-on-year
+case	euros	to
+compound	billion	1.76
+nummod	euros	billion
+nmod:to	year-on-year	euros
+punct	beat	.

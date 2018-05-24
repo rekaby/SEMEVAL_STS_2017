@@ -1,0 +1,9 @@
+amod	ATM	First
+compound	ATM	post
+compound	ATM	office
+compound	ATM	savings
+compound	ATM	bank
+nsubj	opens	ATM
+root	ROOT	opens
+case	Chennai	in
+nmod:in	opens	Chennai

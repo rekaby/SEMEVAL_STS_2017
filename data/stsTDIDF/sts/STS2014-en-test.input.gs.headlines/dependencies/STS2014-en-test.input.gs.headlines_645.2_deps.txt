@@ -1,0 +1,7 @@
+compound	Lessing	Nobel
+compound	Lessing	laureate
+compound	Lessing	Doris
+nsubj	dies	Lessing
+root	ROOT	dies
+case	94	at
+nmod:at	dies	94

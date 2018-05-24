@@ -1,0 +1,13 @@
+advmod	answered	Unfortunately
+punct	answered	,
+det	question	this
+nsubjpass	answered	question
+aux	answered	can
+neg	answered	not
+auxpass	answered	be
+root	ROOT	answered
+case	generality	in
+nmod:poss	generality	its
+amod	generality	full
+nmod:in	answered	generality
+punct	answered	.

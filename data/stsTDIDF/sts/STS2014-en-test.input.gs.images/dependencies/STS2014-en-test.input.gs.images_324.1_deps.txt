@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	bike	on
+det	bike	a
+compound	bike	mountain
+nmod:on	man	bike
+acl	bike	going
+compound:prt	going	down
+det	incline	an
+dobj	going	incline
+punct	man	.

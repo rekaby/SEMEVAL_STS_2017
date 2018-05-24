@@ -1,0 +1,20 @@
+det	bout	What
+compound	bout	choo
+amod	bout	talkin
+punct	bout	'
+root	ROOT	bout
+compound	D.	Mr.
+dep	bout	D.
+punct	bout	...
+compound	Bain	RIP
+compound	Bain	Conrad
+nsubj	on	Bain
+punct	Bain	,
+appos	Bain	Father
+dep	bout	on
+punct	bout	?-15) compound(Strokes-2, Diff?rent
+root	ROOT	Strokes
+punct	Strokes	?-3) punct(Dies-2, ,
+root	ROOT	Dies
+case	89	at
+nmod:at	Dies	89

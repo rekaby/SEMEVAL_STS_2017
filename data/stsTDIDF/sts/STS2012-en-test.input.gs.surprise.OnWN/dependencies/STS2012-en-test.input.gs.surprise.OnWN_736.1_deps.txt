@@ -1,0 +1,14 @@
+root	ROOT	Reimburse
+cc	Reimburse	or
+conj:or	Reimburse	compensate
+punct	someone	-LRB-
+dep	Reimburse	someone
+punct	someone	-RRB-
+punct	Reimburse	,
+case	loss	as
+mwe	as	for
+det	loss	a
+nmod:as_for	Reimburse	loss
+cc	loss	or
+conj:or	loss	sacrifice
+punct	Reimburse	.

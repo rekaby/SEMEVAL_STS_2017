@@ -1,0 +1,8 @@
+traffic	in	case
+cars	are	cop
+cars	men	nsubj
+cars	their	nmod:poss
+ROOT	cars	root
+cars	in	case
+cars	traffic	nmod:in
+traffic	heavy	amod

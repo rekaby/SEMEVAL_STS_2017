@@ -1,0 +1,9 @@
+root	ROOT	Returning
+dobj	Returning	Zing
+case	Cooking	to
+amod	Cooking	Dutch
+nmod:to	Zing	Cooking
+punct	Returning	?-6) nsubj(go-2, Let?s
+root	ROOT	go
+amod	??	Dutch
+dobj	go	??-4) root(ROOT-0, #Gartine

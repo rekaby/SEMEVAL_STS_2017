@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	runs	dog
+root	ROOT	runs
+case	water	in
+det	water	the
+nmod:in	runs	water
+mark	catch	to
+xcomp	runs	catch
+det	fish	a
+dobj	catch	fish
+punct	runs	.

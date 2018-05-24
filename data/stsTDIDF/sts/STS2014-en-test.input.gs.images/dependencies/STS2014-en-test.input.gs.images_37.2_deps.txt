@@ -1,0 +1,10 @@
+det	bird	A
+amod	bird	red
+cc	red	and
+conj:and	red	brown
+nsubjpass	perched	bird
+auxpass	perched	is
+root	ROOT	perched
+case	branches	on
+nmod:on	perched	branches
+punct	perched	.

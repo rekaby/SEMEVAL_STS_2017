@@ -1,0 +1,9 @@
+clothesline	a	det
+ROOT	hangs	root
+hangs	woman	nsubj
+hangs	clothesline	nmod:on
+woman	pajamas	nmod:in
+hangs	laundry	dobj
+hangs	.	punct
+clothesline	on	case
+pajamas	in	case

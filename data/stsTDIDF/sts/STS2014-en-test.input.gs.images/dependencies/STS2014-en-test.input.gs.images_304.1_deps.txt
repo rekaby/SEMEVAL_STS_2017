@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	sleeps	cat
+root	ROOT	sleeps
+case	sheet	on
+amod	sheet	purple
+nmod:on	sleeps	sheet
+punct	sleeps	.

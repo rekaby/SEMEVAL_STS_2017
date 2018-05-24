@@ -1,0 +1,14 @@
+case	them	At
+root	ROOT	them
+punct	them	,
+nummod	groups	three
+root	,	groups
+amod	groups	surenchérissaient
+case	partner	with
+det	partner	a
+nmod:with	surenchérissaient	partner
+punct	groups	,
+case	circumstances	in
+amod	circumstances	different
+nmod:in	groups	circumstances
+punct	groups	.

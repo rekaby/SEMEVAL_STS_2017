@@ -1,0 +1,10 @@
+nsubj	member	china
+cop	member	is
+det	member	a
+root	ROOT	member
+case	club	of
+det	club	the
+amod	club	ballistic
+compound	club	missile
+nmod:of	member	club
+punct	member	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	drivong	man
+aux	drivong	is
+root	ROOT	drivong
+det	car	a
+dobj	drivong	car
+punct	drivong	.

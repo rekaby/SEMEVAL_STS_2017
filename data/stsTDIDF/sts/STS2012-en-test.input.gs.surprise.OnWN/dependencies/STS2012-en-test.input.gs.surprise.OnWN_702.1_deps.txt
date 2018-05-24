@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	giving	of
+acl	act	giving
+iobj	giving	someone
+det	job	a
+dobj	giving	job
+punct	act	,
+acl	act	hiring
+dobj	hiring	someone

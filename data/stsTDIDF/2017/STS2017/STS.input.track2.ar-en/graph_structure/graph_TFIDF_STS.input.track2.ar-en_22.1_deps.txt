@@ -1,0 +1,7 @@
+kneels	ground	nmod:on
+kneels	.	punct
+friend	with	case
+kneels	friend	nmod:with
+ROOT	kneels	root
+friend	her	nmod:poss
+kneels	girl	nsubj

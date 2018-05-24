@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	urges	Korea
+root	ROOT	urges
+dobj	urges	foreigners
+mark	leave	to
+xcomp	urges	leave
+compound	Korea	South
+dobj	leave	Korea

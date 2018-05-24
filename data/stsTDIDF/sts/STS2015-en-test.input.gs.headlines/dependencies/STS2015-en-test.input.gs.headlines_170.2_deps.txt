@@ -1,0 +1,9 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+nummod	recruits	13
+amod	recruits	Iraqi
+compound	recruits	army
+dobj	kills	recruits
+case	Baghdad	in
+nmod:in	kills	Baghdad

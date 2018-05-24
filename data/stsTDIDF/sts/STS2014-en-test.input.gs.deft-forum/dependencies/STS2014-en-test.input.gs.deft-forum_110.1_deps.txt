@@ -1,0 +1,9 @@
+det	man	A
+nsubj	different	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+cop	different	are
+root	ROOT	different
+dep	different	yes
+punct	different	.

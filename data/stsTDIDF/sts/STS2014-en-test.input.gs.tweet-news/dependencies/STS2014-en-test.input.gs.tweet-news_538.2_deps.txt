@@ -1,0 +1,9 @@
+compound	Analysis	News
+root	ROOT	Analysis
+punct	Analysis	:
+compound	Tribunals	Military
+dep	Analysis	Tribunals
+cc	Tribunals	and
+compound	War	International
+conj:and	Tribunals	War
+dep	Tribunals	Crimes

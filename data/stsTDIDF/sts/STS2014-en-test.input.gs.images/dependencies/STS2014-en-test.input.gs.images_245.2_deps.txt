@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	hat	with
+det	hat	a
+amod	hat	top
+nmod:with	man	hat
+acl	hat	riding
+det	horse	a
+amod	horse	white
+dobj	riding	horse
+punct	man	.

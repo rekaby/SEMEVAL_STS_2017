@@ -1,0 +1,9 @@
+pacifier	mouth	nmod:in
+suitcase	a	det
+pacifier	a	det
+suitcase	in	case
+boy	pacifier	nmod:with
+mouth	his	nmod:poss
+sitting	suitcase	nmod:in
+pacifier	with	case
+sitting	boy	nsubj

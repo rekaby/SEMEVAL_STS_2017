@@ -1,0 +1,6 @@
+nummod	survivors	50
+nsubj	factory	survivors
+acl	survivors	found
+case	Bangladesh	in
+nmod:in	found	Bangladesh
+root	ROOT	factory

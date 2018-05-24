@@ -1,0 +1,13 @@
+det	idea	This
+nsubj	beginning	idea
+aux	beginning	has
+cop	beginning	been
+advmod	beginning	around
+case	beginning	since
+det	beginning	the
+root	ROOT	beginning
+case	myth	of
+nmod:of	beginning	myth
+cc	myth	and
+conj:and	myth	storytelling
+punct	beginning	.

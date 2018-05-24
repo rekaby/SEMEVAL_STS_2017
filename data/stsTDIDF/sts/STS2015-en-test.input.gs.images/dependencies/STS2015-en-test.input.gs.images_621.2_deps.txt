@@ -1,0 +1,7 @@
+nummod	boys	Three
+nsubj	soccer	boys
+amod	soccer	playing
+root	ROOT	soccer
+case	field	in
+det	field	a
+nmod:in	soccer	field

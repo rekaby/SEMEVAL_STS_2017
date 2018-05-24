@@ -1,0 +1,10 @@
+det	person	The
+nsubj	removing	person
+aux	removing	is
+root	ROOT	removing
+det	scales	the
+dobj	removing	scales
+case	fish	from
+det	fish	the
+nmod:from	removing	fish
+punct	removing	.

@@ -1,0 +1,8 @@
+det	lion	A
+nsubj	playing	lion
+aux	playing	is
+root	ROOT	playing
+case	men	with
+nummod	men	two
+nmod:with	playing	men
+punct	playing	.

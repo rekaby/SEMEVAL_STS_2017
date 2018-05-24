@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	shouting	boy
+case	bat	with
+det	bat	a
+compound	bat	baseball
+nmod:with	boy	bat
+punct	boy	,
+root	ROOT	shouting
+punct	shouting	.

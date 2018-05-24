@@ -1,0 +1,6 @@
+look	Women	nsubj
+look	shampoo	nmod:at
+store	grocery	compound
+shampoo	the	det
+shampoo	at	case
+look	store	nmod:at

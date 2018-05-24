@@ -1,0 +1,8 @@
+det	person	The
+nsubj	lit	person
+root	ROOT	lit
+det	cameras	the
+dobj	lit	cameras
+case	fire	on
+nmod:on	cameras	fire
+punct	lit	.

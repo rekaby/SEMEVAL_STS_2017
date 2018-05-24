@@ -1,0 +1,11 @@
+nsubj	saving	Vodka
+aux	saving	is
+root	ROOT	saving
+dobj	saving	lives
+punct	saving	!-5) advmod(life-6, Well
+punct	life	,
+det	puppy	a
+nmod:poss	life	puppy
+case	puppy	's
+root	ROOT	life
+punct	life	...

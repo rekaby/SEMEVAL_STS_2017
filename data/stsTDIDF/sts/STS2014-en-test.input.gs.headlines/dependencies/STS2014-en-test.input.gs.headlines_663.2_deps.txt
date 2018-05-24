@@ -1,0 +1,8 @@
+nsubj	clashes	Dozens
+case	supporters	of
+compound	supporters	Morsi
+nmod:of	Dozens	supporters
+acl	supporters	killed
+case	Egypt	in
+nmod:in	killed	Egypt
+root	ROOT	clashes

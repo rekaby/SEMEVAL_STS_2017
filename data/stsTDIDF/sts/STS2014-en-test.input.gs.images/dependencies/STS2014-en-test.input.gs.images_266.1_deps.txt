@@ -1,0 +1,15 @@
+det	man	A
+nsubj	poses	man
+root	ROOT	poses
+case	fountain	in
+mwe	in	front
+mwe	in	of
+det	fountain	a
+amod	fountain	large
+nmod:in_front_of	poses	fountain
+case	statue	with
+det	statue	a
+nmod:with	fountain	statue
+case	top	on
+nmod:on	statue	top
+punct	poses	.

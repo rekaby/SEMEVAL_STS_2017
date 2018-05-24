@@ -1,0 +1,9 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+advmod	chopping	finely
+root	ROOT	chopping
+det	substance	a
+amod	substance	green
+dobj	chopping	substance
+punct	chopping	.

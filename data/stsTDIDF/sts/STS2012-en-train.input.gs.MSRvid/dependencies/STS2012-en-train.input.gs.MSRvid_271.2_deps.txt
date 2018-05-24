@@ -1,0 +1,8 @@
+det	deer	A
+nsubj	jumps	deer
+root	ROOT	jumps
+case	fence	over
+det	fence	a
+compound	fence	cyclone
+nmod:over	jumps	fence
+punct	jumps	.

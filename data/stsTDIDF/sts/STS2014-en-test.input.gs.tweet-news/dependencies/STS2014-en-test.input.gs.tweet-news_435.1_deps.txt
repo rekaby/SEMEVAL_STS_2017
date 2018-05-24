@@ -1,0 +1,12 @@
+nsubj	is	This
+root	ROOT	is
+nsubj	happened	what
+ccomp	is	happened
+case	Brazil	in
+nmod:in	happened	Brazil
+mark	know	if
+nsubj	know	you
+aux	know	do
+neg	know	n't
+advcl	happened	know
+nmod:tmod	happened	x

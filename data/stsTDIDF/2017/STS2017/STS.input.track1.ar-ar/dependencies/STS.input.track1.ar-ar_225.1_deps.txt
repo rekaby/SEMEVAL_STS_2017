@@ -1,0 +1,6 @@
+nsubj	sunbathing	Woman
+root	ROOT	sunbathing
+case	beach	on
+det	beach	the
+nmod:on	sunbathing	beach
+punct	sunbathing	.

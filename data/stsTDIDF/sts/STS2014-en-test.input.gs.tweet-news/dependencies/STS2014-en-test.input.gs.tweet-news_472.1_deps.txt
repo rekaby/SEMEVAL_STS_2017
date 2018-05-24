@@ -1,0 +1,14 @@
+nsubj	hinge	Fortunes
+case	Facebook	of
+nmod:of	Fortunes	Facebook
+aux	hinge	may
+root	ROOT	hinge
+case	search	on
+nmod:on	hinge	search
+punct	hinge	-
+cop	Reveal	is
+det	Reveal	this
+det	Reveal	the
+compound	Reveal	Big
+dep	hinge	Reveal
+punct	hinge	?

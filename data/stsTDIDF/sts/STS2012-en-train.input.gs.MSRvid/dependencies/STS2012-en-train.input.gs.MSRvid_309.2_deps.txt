@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	coating	woman
+cop	coating	is
+root	ROOT	coating
+det	chop	a
+compound	chop	pork
+dobj	coating	chop
+punct	coating	.

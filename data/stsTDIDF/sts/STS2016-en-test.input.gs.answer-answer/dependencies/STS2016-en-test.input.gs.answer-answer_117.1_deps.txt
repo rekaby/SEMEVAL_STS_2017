@@ -1,0 +1,13 @@
+advmod	know	Unfortunately
+det	answer	the
+nsubjpass	know	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+auxpass	know	is
+nsubjpass	know	we
+advmod	know	simply
+aux	know	do
+neg	know	not
+root	ROOT	know
+punct	know	.

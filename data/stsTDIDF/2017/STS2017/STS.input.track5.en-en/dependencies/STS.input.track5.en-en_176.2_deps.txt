@@ -1,0 +1,8 @@
+nummod	vehicles	Two
+nsubj	going	vehicles
+aux	going	are
+root	ROOT	going
+case	camera	towards
+det	camera	the
+nmod:towards	going	camera
+punct	going	.

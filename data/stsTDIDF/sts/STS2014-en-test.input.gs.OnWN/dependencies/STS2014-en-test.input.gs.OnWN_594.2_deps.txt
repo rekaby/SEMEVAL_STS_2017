@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	referring	of
+acl	act	referring
+cc	referring	or
+conj:or	referring	consulting
+punct	act	.

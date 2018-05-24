@@ -1,0 +1,5 @@
+refused	woman	nsubj
+camera	at	case
+refused	look	xcomp
+look	camera	nmod:at
+camera	old	amod

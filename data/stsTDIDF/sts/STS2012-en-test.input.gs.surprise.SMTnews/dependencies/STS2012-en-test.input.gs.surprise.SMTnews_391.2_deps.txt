@@ -1,0 +1,16 @@
+nsubj	implicit	It
+cop	implicit	is
+det	implicit	an
+root	ROOT	implicit
+cc	implicit	but
+cc	clearly	but
+conj:but	implicit	clearly
+punct	clearly	,
+det	head	the
+root	,	head
+case	State	of
+nmod:of	head	State
+case	years	for
+nummod	years	24
+nmod:for	head	years
+punct	head	.

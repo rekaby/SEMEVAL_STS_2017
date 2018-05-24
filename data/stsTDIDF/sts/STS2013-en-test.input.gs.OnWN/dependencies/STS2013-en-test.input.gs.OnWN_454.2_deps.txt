@@ -1,0 +1,7 @@
+det	indication	an
+root	ROOT	indication
+case	activity	of
+det	activity	some
+amod	activity	hidden
+nmod:of	indication	activity
+punct	indication	.

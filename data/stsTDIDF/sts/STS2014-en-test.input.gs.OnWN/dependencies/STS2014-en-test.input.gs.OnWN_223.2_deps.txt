@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	committing	of
+acl	act	committing
+det	crime	a
+dobj	committing	crime
+punct	act	.

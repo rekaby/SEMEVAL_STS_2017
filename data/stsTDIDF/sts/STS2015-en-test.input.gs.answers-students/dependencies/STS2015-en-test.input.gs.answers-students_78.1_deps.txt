@@ -1,0 +1,6 @@
+advmod	disrupts	when
+nsubj	disrupts	it
+root	ROOT	disrupts
+det	path	a
+amod	path	complete
+dobj	disrupts	path

@@ -1,0 +1,8 @@
+nsubj	surround	Police
+root	ROOT	surround
+dobj	surround	protesters
+case	Belfast	in
+nmod:in	surround	Belfast
+advmod	surround	ahead
+case	G8	of
+nmod:of	ahead	G8

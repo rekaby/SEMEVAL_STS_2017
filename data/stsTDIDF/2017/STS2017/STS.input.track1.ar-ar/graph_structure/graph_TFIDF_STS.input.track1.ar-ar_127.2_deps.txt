@@ -1,0 +1,6 @@
+traditional	in	case
+plays	man	nsubj
+dressed	traditional	nmod:in
+plays	guitar	dobj
+plays	dressed	advcl
+guitar	the	det

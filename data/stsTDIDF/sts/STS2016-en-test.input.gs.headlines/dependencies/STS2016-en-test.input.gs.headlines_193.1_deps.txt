@@ -1,0 +1,12 @@
+compound	guard	Taiwan
+compound	guard	coast
+nsubj	launches	guard
+root	ROOT	launches
+amod	ships	new
+dobj	launches	ships
+mark	rise	as
+compound	tensions	South
+compound	tensions	China
+compound	tensions	Sea
+nsubj	rise	tensions
+advcl	launches	rise

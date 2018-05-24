@@ -1,0 +1,16 @@
+case	Tuesday	On
+nmod:on	refused	Tuesday
+punct	refused	,
+det	court	a
+compound	court	Florida
+compound	court	appeals
+nsubj	refused	court
+advmod	refused	again
+root	ROOT	refused
+mark	block	to
+xcomp	refused	block
+dobj	block	removal
+case	tube	of
+det	tube	the
+nmod:of	removal	tube
+punct	refused	.

@@ -1,0 +1,8 @@
+amod	gentleman	Older
+root	ROOT	gentleman
+acl	gentleman	sitting
+case	couch	on
+nmod:on	sitting	couch
+case	laptop	with
+nmod:with	sitting	laptop
+punct	gentleman	.

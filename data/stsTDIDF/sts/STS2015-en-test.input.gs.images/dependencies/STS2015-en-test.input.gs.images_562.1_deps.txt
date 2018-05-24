@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+case	chain	over
+det	chain	a
+nmod:over	jumps	chain
+punct	jumps	.

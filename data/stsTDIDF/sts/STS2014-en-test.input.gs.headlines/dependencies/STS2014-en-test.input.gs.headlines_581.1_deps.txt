@@ -1,0 +1,10 @@
+root	ROOT	President
+case	conclusion	for
+amod	conclusion	early
+nmod:for	President	conclusion
+case	Partnership	of
+compound	Partnership	Eco
+nmod:of	conclusion	Partnership
+case	Lanka	with
+compound	Lanka	Sri
+nmod:with	Partnership	Lanka

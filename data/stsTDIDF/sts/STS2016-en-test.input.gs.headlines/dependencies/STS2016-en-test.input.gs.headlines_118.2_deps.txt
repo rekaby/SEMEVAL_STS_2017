@@ -1,0 +1,14 @@
+nmod:poss	Cameron	UK
+case	UK	's
+root	ROOT	Cameron
+punct	Cameron	:
+nmod:tmod	show	Syria
+punct	show	,
+nsubj	show	Russia
+aux	show	must
+dep	Cameron	show
+amod	proposal	chemical
+compound	proposal	arms
+nsubj	genuine	proposal
+cop	genuine	is
+ccomp	show	genuine

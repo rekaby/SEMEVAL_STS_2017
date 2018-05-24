@@ -1,0 +1,16 @@
+det	plan	the
+nsubj	creation	plan
+case	nigeria	for
+nmod:for	plan	nigeria
+cc	nigeria	and
+conj:and	nigeria	mozambique
+cop	creation	is
+det	creation	the
+root	ROOT	creation
+det	database	an
+amod	database	electronic
+dobj	creation	database
+case	estate	for
+amod	estate	real
+nmod:for	database	estate
+punct	creation	.

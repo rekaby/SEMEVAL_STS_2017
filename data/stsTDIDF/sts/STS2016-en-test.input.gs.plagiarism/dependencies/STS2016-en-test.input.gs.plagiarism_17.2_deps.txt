@@ -1,0 +1,15 @@
+nsubj	meaning	One
+case	uses	of
+det	uses	the
+advmod	important	most
+amod	uses	important
+nmod:of	One	uses
+case	rank	of
+compound	rank	page
+nmod:of	uses	rank
+cop	meaning	is
+nmod:poss	meaning	its
+root	ROOT	meaning
+case	advertising	to
+nmod:to	meaning	advertising
+punct	meaning	.

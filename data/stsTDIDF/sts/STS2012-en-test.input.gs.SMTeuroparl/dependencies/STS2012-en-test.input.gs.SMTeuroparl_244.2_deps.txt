@@ -1,0 +1,9 @@
+amod	divide	Other
+root	ROOT	divide
+advmod	ill-will	unfortunately
+case	ill-will	due
+mwe	due	to
+det	ill-will	a
+amod	ill-will	accumulated
+nmod:due_to	divide	ill-will
+punct	divide	.

@@ -1,0 +1,8 @@
+det	bird	The
+amod	bird	large
+nsubj	looking	bird
+aux	looking	is
+root	ROOT	looking
+case	food	for
+nmod:for	looking	food
+punct	looking	.

@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	Hotline	Korea
+compound	Hotline	Shuts
+amod	Hotline	Last
+amod	Hotline	Remaining
+root	ROOT	Hotline
+case	South	to
+nmod:to	Hotline	South

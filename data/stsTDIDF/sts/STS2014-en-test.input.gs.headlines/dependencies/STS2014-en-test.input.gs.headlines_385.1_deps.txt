@@ -1,0 +1,8 @@
+nummod	children	13
+nsubj	die	children
+root	ROOT	die
+case	fire	in
+compound	fire	fire
+compound	fire	Myanmar
+compound	fire	mosque
+nmod:in	die	fire

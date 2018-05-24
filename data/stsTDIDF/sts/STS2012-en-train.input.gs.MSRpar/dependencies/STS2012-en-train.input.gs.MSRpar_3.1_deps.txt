@@ -1,0 +1,17 @@
+det	fines	The
+nsubj	part	fines
+cop	part	are
+root	ROOT	part
+case	efforts	of
+amod	efforts	failed
+amod	efforts	Republican
+nmod:of	part	efforts
+mark	force	to
+acl	efforts	force
+cc	force	or
+conj:or	force	entice
+det	Democrats	the
+dobj	entice	Democrats
+mark	return	to
+xcomp	entice	return
+punct	part	.

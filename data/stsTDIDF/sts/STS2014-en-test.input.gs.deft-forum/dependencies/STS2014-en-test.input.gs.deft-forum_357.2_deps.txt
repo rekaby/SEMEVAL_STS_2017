@@ -1,0 +1,7 @@
+det	California	The
+nsubj	ship	California
+cop	ship	was
+det	ship	a
+compound	ship	cargo
+root	ROOT	ship
+punct	ship	.

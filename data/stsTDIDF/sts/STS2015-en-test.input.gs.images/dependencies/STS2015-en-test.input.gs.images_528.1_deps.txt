@@ -1,0 +1,14 @@
+nsubj	playing	Children
+aux	playing	are
+root	ROOT	playing
+case	pool	in
+det	pool	a
+compound	pool	swimming
+nmod:in	playing	pool
+mark	watch	while
+nummod	men	two
+amod	men	adult
+nsubj	watch	men
+advcl	playing	watch
+dobj	watch	them
+punct	playing	.

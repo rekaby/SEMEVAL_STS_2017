@@ -1,0 +1,14 @@
+root	ROOT	cause
+mark	move	to
+xcomp	cause	move
+punct	cause	;
+dep	cause	cause
+mark	position	to
+cop	position	be
+case	position	in
+det	position	a
+amod	position	certain
+xcomp	cause	position
+cc	position	or
+conj:or	position	condition
+punct	cause	.

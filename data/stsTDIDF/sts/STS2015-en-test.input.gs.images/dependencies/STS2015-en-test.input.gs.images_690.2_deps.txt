@@ -1,0 +1,13 @@
+det	child	A
+root	ROOT	child
+case	floaties	in
+amod	floaties	red
+cc	red	and
+conj:and	red	blue
+nmod:in	child	floaties
+acl	child	looking
+compound:prt	looking	down
+case	water	at
+det	water	the
+nmod:at	looking	water
+punct	child	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	cuts	woman
+root	ROOT	cuts
+compound:prt	cuts	up
+det	vegetable	a
+dobj	cuts	vegetable
+punct	cuts	.

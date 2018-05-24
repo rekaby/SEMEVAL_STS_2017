@@ -1,0 +1,7 @@
+amod	rebels	Syrian
+nsubj	deal	rebels
+amod	rebels	skeptical
+case	weapons	of
+compound	weapons	chemical
+nmod:of	skeptical	weapons
+root	ROOT	deal

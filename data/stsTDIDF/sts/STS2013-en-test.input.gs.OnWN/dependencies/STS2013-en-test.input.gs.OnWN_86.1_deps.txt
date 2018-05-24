@@ -1,0 +1,10 @@
+root	ROOT	express
+det	idea	a
+amod	idea	certain
+dobj	express	idea
+advmod	rendering	when
+advcl	express	rendering
+det	play	a
+dobj	rendering	play
+cc	rendering	or
+conj:or	rendering	music

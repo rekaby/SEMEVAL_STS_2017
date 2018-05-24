@@ -1,0 +1,4 @@
+having	piece	dobj
+piece	chicken	nmod:of
+man	having	acl
+chicken	of	case

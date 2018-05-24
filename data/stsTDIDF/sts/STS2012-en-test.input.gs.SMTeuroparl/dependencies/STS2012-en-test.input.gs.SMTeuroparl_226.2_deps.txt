@@ -1,0 +1,17 @@
+expl	exist	There
+aux	exist	did
+neg	exist	not
+root	ROOT	exist
+dobj	exist	either
+case	majority	of
+nmod:of	either	majority
+acl	majority	qualified
+case	Parliament	within
+det	Parliament	this
+nmod:within	qualified	Parliament
+mark	return	to
+xcomp	qualified	return
+case	article	in
+nmod:in	return	article
+nummod	article	272
+punct	exist	.

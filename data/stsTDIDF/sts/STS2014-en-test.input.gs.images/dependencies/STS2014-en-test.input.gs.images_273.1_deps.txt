@@ -1,0 +1,7 @@
+nummod	sheep	Two
+nsubj	stand	sheep
+root	ROOT	stand
+case	doorway	in
+det	doorway	a
+nmod:in	stand	doorway
+punct	stand	.

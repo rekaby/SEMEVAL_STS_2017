@@ -1,0 +1,11 @@
+root	ROOT	Run
+case	pace	at
+det	pace	a
+advmod	swift	moderately
+amod	pace	swift
+nmod:at	Run	pace
+punct	Run	,
+case	exercise	as
+mwe	as	for
+nmod:as_for	Run	exercise
+punct	Run	.

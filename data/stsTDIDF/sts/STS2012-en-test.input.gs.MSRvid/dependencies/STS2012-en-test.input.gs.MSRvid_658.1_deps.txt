@@ -1,0 +1,8 @@
+nummod	ringers	Two
+compound	ringers	Sumo
+nsubj	fighting	ringers
+aux	fighting	are
+root	ROOT	fighting
+det	other	each
+dobj	fighting	other
+punct	fighting	.

@@ -1,0 +1,11 @@
+csubj	prevent	amending
+dobj	amending	regulations
+case	technology	on
+amod	technology	dual-use
+amod	technology	nuclear
+nmod:on	amending	technology
+aux	prevent	will
+root	ROOT	prevent
+amod	terrorism	nuclear
+dobj	prevent	terrorism
+punct	prevent	.

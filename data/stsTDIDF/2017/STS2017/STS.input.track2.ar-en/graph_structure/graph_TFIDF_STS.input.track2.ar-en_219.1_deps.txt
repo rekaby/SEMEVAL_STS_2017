@@ -1,0 +1,6 @@
+bike	on	case
+bike	the	det
+riding	woman	nsubj
+riding	was	aux
+riding	fast	advmod
+woman	bike	nmod:on

@@ -1,0 +1,9 @@
+root	ROOT	No
+punct	show	,
+nsubj	show	I
+ccomp	No	show
+nsubj	ignorant	you
+cop	ignorant	are
+advmod	ignorant	willfully
+ccomp	show	ignorant
+punct	No	.

@@ -1,0 +1,9 @@
+nummod	boys	Two
+root	ROOT	boys
+acl	boys	playing
+det	game	a
+dobj	playing	game
+case	football	of
+compound	football	flag
+nmod:of	game	football
+punct	boys	.

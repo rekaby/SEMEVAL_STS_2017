@@ -1,0 +1,11 @@
+cc	shown	But
+det	economy	the
+nsubj	shown	economy
+aux	shown	has
+neg	shown	n't
+root	ROOT	shown
+dobj	shown	signs
+case	growth	of
+amod	growth	sustainable
+nmod:of	signs	growth
+punct	shown	.

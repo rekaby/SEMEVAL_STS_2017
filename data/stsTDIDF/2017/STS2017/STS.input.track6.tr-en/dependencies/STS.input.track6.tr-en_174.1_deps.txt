@@ -1,0 +1,13 @@
+det	man	A
+nsubj	sleeping	man
+aux	sleeping	is
+root	ROOT	sleeping
+cc	sleeping	and
+det	clown	a
+nsubj	him	clown
+cop	him	is
+case	him	in
+mwe	in	front
+mwe	in	of
+conj:and	sleeping	him
+punct	sleeping	.

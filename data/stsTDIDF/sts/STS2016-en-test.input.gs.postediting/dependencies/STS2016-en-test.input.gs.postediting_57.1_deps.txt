@@ -1,0 +1,16 @@
+case	goal	With
+det	goal	a
+nmod:with	reaches	goal
+cc	goal	and
+amod	methods	simple
+conj:and	goal	methods
+punct	reaches	,
+compound	Hamburg	SV
+nsubj	reaches	Hamburg
+root	ROOT	reaches
+dobj	reaches	top
+case	table	of
+det	table	the
+compound	table	league
+nmod:of	top	table
+punct	reaches	.

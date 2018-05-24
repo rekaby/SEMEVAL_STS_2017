@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+case	reasoning	of
+nmod:of	act	reasoning
+punct	act	,
+appos	act	cogitation

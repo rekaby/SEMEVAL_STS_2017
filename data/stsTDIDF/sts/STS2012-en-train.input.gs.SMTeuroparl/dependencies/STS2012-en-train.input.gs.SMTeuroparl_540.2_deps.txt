@@ -1,0 +1,17 @@
+nsubj	delighted	It
+aux	delighted	should
+cop	delighted	be
+root	ROOT	delighted
+dep	delighted	that
+det	Parliament	the
+dep	that	Parliament
+advmod	Parliament	together
+det	majority	a
+amod	majority	broad
+dep	Parliament	majority
+case	favour	in
+nmod:in	majority	favour
+case	transparency	of
+amod	transparency	greater
+nmod:of	favour	transparency
+punct	delighted	.

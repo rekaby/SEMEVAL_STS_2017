@@ -1,0 +1,8 @@
+amod	PM	Greek
+nsubj	calls	PM
+root	ROOT	calls
+case	May	for
+nmod:for	election	May
+nummod	May	6
+amod	election	general
+nmod	calls	election

@@ -1,0 +1,9 @@
+compound	Action	Saudi
+compound	Action	Urges
+compound	Action	U.N.
+nsubj	Strikes	Action
+case	Israel	against
+nmod:against	Action	Israel
+root	ROOT	Strikes
+case	Syria	on
+nmod:on	Strikes	Syria

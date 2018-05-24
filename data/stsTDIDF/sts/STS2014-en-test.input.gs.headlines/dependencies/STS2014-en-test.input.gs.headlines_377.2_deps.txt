@@ -1,0 +1,8 @@
+amod	official	Israeli
+nsubj	confirms	official
+root	ROOT	confirms
+amod	strike	second
+compound	strike	air
+dobj	confirms	strike
+case	Syria	at
+nmod:at	strike	Syria

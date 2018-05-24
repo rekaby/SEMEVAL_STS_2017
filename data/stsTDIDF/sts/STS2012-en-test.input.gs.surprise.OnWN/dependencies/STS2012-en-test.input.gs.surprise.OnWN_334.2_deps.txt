@@ -1,0 +1,6 @@
+root	ROOT	sorting
+nummod	thing	one
+dobj	sorting	thing
+case	others	from
+nmod:from	sorting	others
+punct	sorting	.

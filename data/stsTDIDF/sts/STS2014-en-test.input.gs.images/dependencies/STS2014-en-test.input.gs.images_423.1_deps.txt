@@ -1,0 +1,13 @@
+nummod	people	Two
+nsubjpass	reflected	people
+acl	people	paddling
+det	canoe	a
+amod	canoe	red
+dobj	paddling	canoe
+auxpass	reflected	are
+root	ROOT	reflected
+case	water	in
+det	water	the
+advmod	water	still
+nmod:in	reflected	water
+punct	reflected	.

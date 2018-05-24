@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	climbs	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	striped
+nmod:in	woman	shirt
+root	ROOT	climbs
+det	mountain	a
+dobj	climbs	mountain
+punct	climbs	.

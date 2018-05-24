@@ -1,0 +1,13 @@
+riding	toy	nmod:on
+riding	are	aux
+toy	a	det
+boys	Two	nummod
+girl	with	case
+side	running	amod
+girl	blonde	amod
+side	long	amod
+girl	side	acl
+toy	on	case
+toy	girl	nmod:with
+riding	boys	nsubj
+side	them	nmod:of

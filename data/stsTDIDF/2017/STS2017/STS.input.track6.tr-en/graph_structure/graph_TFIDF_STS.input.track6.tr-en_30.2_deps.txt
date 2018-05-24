@@ -1,0 +1,12 @@
+tired	falls	advcl
+falls	doors	nmod:through
+tired	is	cop
+woman	tired	acl:relcl
+falls	of	mark
+tired	who	nsubj
+falls	all	advmod
+woman	black	amod
+falls	down	compound:prt
+falls	this	nsubj
+doors	through	case
+doors	office	compound

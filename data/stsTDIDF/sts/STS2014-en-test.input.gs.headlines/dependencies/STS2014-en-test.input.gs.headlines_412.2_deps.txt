@@ -1,0 +1,6 @@
+compound	app	Apple
+nsubj	sends	app
+root	ROOT	sends
+dobj	sends	drivers
+case	airport	to
+nmod:to	sends	airport

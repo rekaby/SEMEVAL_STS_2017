@@ -1,0 +1,9 @@
+compound	profits	Halliburton
+compound	profits	Q1
+nsubj	rise	profits
+root	ROOT	rise
+case	America	on
+amod	America	strong
+compound	America	North
+nmod:on	rise	America
+dobj	rise	sales

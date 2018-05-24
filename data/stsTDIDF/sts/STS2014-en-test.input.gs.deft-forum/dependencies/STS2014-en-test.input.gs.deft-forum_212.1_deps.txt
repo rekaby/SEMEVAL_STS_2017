@@ -1,0 +1,13 @@
+root	ROOT	Toyland
+case	Mathis	by
+compound	Mathis	Johnny
+nmod:by	Toyland	Mathis
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Toyland	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Toyland	.

@@ -1,0 +1,8 @@
+nsubj	had	I
+root	ROOT	had
+det	problem	the
+amod	problem	same
+dobj	had	problem
+case	you	as
+nmod:as	had	you
+punct	had	.

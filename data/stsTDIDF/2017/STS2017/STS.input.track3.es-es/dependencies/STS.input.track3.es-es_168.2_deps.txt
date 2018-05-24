@@ -1,0 +1,8 @@
+det	band	The
+nsubj	photo	band
+cop	photo	is
+neg	photo	not
+case	photo	in
+det	photo	the
+root	ROOT	photo
+punct	photo	.

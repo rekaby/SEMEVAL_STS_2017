@@ -1,0 +1,6 @@
+nsubj	greating	Someone
+aux	greating	is
+root	ROOT	greating
+det	carrot	a
+dobj	greating	carrot
+punct	greating	.

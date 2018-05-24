@@ -1,0 +1,8 @@
+det	act	the
+nsubj	things	act
+case	affixing	of
+advmod	affixing	physically
+nmod:of	act	affixing
+cc	affixing	or
+conj:or	affixing	connecting
+root	ROOT	things

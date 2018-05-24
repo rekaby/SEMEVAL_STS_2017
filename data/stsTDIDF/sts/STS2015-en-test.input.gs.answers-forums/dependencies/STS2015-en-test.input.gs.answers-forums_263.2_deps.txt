@@ -1,0 +1,15 @@
+nummod	key	One
+amod	key	general
+root	ROOT	key
+mark	feeling	to
+neg	feeling	not
+acl	key	feeling
+nsubj	avoid	dejected
+aux	avoid	is
+mark	avoid	to
+ccomp	feeling	avoid
+xcomp	avoid	comparing
+dobj	comparing	yourself
+case	others	to
+nmod:to	comparing	others
+punct	key	.

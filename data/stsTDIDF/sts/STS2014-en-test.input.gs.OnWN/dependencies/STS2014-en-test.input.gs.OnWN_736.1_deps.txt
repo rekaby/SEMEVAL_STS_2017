@@ -1,0 +1,8 @@
+root	ROOT	cause
+mark	state	to
+cop	state	be
+case	state	in
+det	state	a
+xcomp	cause	state
+cc	state	or
+conj:or	state	location

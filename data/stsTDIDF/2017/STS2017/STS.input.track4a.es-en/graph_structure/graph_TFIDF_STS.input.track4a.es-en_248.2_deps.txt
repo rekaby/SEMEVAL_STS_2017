@@ -1,0 +1,5 @@
+suit	business	compound
+walks	down	compound:prt
+walks	street	dobj
+walks	man	nsubj
+man	suit	nmod:in

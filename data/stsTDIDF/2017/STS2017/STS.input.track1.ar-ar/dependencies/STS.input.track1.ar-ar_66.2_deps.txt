@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cut	man
+root	ROOT	cut
+dobj	cut	something
+case	kitchen	in
+det	kitchen	the
+nmod:in	cut	kitchen
+punct	cut	.

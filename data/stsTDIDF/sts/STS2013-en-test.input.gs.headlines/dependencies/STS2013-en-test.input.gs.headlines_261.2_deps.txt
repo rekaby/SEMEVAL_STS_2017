@@ -1,0 +1,10 @@
+compound	Reid	Senator
+root	ROOT	Reid
+acl	Reid	involved
+case	crash	in
+compound	crash	Las
+compound	crash	Vegas
+compound	crash	car
+nmod:in	involved	crash
+punct	Reid	:
+dep	Reid	CNN

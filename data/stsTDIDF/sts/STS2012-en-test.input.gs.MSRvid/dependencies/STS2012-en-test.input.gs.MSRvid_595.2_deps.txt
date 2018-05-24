@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+dobj	puts	rice
+case	pan	into
+det	pan	a
+nmod:into	puts	pan
+punct	puts	.

@@ -1,0 +1,4 @@
+cyclists	Some	det
+stop	cyclists	nsubj
+stop	sign	nmod:near
+sign	near	case

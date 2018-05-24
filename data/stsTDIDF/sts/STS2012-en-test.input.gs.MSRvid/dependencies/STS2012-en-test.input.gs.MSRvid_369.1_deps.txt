@@ -1,0 +1,9 @@
+det	man	A
+nsubj	puts	man
+root	ROOT	puts
+det	cheese	some
+dobj	puts	cheese
+case	pizza	on
+det	pizza	a
+nmod:on	puts	pizza
+punct	puts	.

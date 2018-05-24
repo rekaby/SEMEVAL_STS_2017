@@ -1,0 +1,8 @@
+compound	bike	Women
+compound	bike	Arkpn
+root	ROOT	bike
+case	race	in
+det	race	the
+compound	race	road
+nmod:in	bike	race
+punct	bike	.

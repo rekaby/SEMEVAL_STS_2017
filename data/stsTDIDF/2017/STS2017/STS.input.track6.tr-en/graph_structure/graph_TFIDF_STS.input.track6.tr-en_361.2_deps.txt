@@ -1,0 +1,7 @@
+climbs	man	nsubj
+ROOT	climbs	root
+mountain	rocky	amod
+climbs	mountain	dobj
+climbs	.	punct
+mountain	a	det
+mountain	big	amod

@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	little
+nsubj	slides	boy
+case	overalls	in
+compound	overalls	denim
+nmod:in	boy	overalls
+root	ROOT	slides
+compound:prt	slides	down
+det	slide	an
+amod	slide	orange
+dobj	slides	slide
+punct	slides	.

@@ -1,0 +1,9 @@
+amod	Korean	North
+amod	cargo	Korean
+nsubj	reveals	cargo
+root	ROOT	reveals
+compound	trade	missile
+compound	trade	repair
+dobj	reveals	trade
+case	Cuba	with
+nmod:with	reveals	Cuba

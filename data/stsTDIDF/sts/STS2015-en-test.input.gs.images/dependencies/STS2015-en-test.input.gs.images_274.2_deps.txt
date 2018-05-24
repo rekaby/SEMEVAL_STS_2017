@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	wrestling	dogs
+aux	wrestling	are
+root	ROOT	wrestling
+case	grass	in
+det	grass	the
+nmod:in	wrestling	grass
+punct	wrestling	.

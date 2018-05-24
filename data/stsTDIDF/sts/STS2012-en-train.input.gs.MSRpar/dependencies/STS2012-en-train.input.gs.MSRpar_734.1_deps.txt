@@ -1,0 +1,11 @@
+nsubj	appealed	Hospitals
+cc	Hospitals	and
+det	Cross	the
+compound	Cross	Red
+conj:and	Hospitals	Cross
+root	ROOT	appealed
+case	donors	to
+compound	donors	blood
+nmod:to	appealed	donors
+nmod:tmod	appealed	yesterday
+punct	appealed	.

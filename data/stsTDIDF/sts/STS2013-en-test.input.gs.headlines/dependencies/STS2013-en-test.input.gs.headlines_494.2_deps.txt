@@ -1,0 +1,9 @@
+nsubjpass	injured	180
+advmod	injured	dead
+punct	injured	,
+nsubj	injured	1,300
+amod	earthquakes	injured
+case	Iran	in
+amod	Iran	northwest
+nmod:in	injured	Iran
+root	ROOT	earthquakes

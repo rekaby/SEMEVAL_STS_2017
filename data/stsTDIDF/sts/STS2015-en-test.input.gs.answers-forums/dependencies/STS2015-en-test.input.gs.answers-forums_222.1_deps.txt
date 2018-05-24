@@ -1,0 +1,12 @@
+neg	claims	Not
+det	claims	all
+amod	claims	negative
+nsubjpass	reformulated	claims
+aux	reformulated	can
+auxpass	reformulated	be
+advmod	reformulated	validly
+root	ROOT	reformulated
+case	claims	into
+amod	claims	positive
+nmod:into	reformulated	claims
+punct	reformulated	.

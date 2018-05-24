@@ -1,0 +1,9 @@
+det	train	An
+amod	train	old
+nsubj	sits	train
+root	ROOT	sits
+xcomp	sits	idle
+case	tracks	on
+det	tracks	the
+nmod:on	idle	tracks
+punct	sits	.

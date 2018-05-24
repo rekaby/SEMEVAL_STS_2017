@@ -1,0 +1,12 @@
+root	ROOT	fill
+punct	bunker	-LRB-
+det	ship	a
+nmod:poss	bunker	ship
+case	ship	's
+appos	fill	bunker
+punct	bunker	-RRB-
+case	coal	with
+nmod:with	fill	coal
+cc	coal	or
+conj:or	coal	oil
+punct	fill	.

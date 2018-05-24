@@ -1,0 +1,9 @@
+det	group	A
+amod	group	crowded
+root	ROOT	group
+case	game	in
+det	game	a
+compound	game	Birmingham
+compound	game	football
+nmod:in	group	game
+punct	group	.

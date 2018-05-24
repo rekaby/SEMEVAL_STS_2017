@@ -1,0 +1,7 @@
+middle	crowd	nmod:of
+crowd	of	case
+woman	man	conj:and
+ROOT	middle	root
+middle	.	punct
+middle	woman	nsubj
+middle	are	cop

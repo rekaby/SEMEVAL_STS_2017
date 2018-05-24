@@ -1,0 +1,8 @@
+det	dog	a
+amod	dog	black
+nsubj	swimming	dog
+root	ROOT	swimming
+case	river	through
+det	river	a
+nmod:through	swimming	river
+punct	swimming	.

@@ -1,0 +1,8 @@
+det	instrument	a
+amod	instrument	sharp
+amod	instrument	bladed
+root	ROOT	instrument
+mark	shaving	for
+acl	instrument	shaving
+compound:prt	shaving	off
+dobj	shaving	hair

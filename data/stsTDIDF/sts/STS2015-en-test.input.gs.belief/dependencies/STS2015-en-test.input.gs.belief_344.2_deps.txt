@@ -1,0 +1,17 @@
+case	white	as
+det	white	the
+advmod	white	only
+nmod:as	understood	white
+case	hall	in
+det	hall	the
+nmod:in	white	hall
+punct	understood	,
+nsubj	understood	i
+root	ROOT	understood
+advmod	asked	why
+det	question	the
+nsubjpass	asked	question
+aux	asked	was
+auxpass	asked	being
+advcl	understood	asked
+punct	understood	.

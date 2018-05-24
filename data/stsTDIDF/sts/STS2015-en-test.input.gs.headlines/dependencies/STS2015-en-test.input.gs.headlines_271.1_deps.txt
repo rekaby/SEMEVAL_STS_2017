@@ -1,0 +1,10 @@
+root	ROOT	US
+punct	US	,
+compound	govt	Afghan
+appos	US	govt
+mark	hold	to
+acl	govt	hold
+compound	talks	peace
+dobj	hold	talks
+case	Taliban	with
+nmod:with	hold	Taliban

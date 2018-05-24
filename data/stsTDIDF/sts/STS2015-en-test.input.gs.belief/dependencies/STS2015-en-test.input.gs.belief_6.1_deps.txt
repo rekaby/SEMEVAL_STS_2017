@@ -1,0 +1,13 @@
+advcl	love	yeah
+punct	love	,
+nsubj	love	we
+root	ROOT	love
+det	troops	the
+dobj	love	troops
+det	way	the
+dep	troops	way
+compound	vick	michael
+nsubj	loves	vick
+acl:relcl	way	loves
+dobj	loves	dogs
+punct	love	.

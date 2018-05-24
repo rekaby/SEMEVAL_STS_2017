@@ -1,0 +1,5 @@
+root	ROOT	tell
+cc	tell	or
+conj:or	tell	spread
+dobj	tell	rumors
+punct	tell	.

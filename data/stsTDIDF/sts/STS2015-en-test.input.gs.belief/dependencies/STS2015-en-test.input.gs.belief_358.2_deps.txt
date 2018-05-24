@@ -1,0 +1,16 @@
+nsubj	shed	we
+aux	shed	have
+root	ROOT	shed
+dobj	shed	thousands
+case	lives	of
+nmod:of	thousands	lives
+case	iraq	in
+nmod:in	lives	iraq
+cc	iraq	and
+conj:and	iraq	afghanistan
+cc	shed	and
+dobj	accomplished	what
+aux	accomplished	have
+nsubj	accomplished	we
+conj:and	shed	accomplished
+punct	shed	?

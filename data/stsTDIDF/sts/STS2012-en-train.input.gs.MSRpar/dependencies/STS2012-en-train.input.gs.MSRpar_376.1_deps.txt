@@ -1,0 +1,11 @@
+nsubj	scheduled	Kollar-Kotelly
+aux	scheduled	has
+root	ROOT	scheduled
+det	hearing	another
+amod	hearing	antitrust
+compound	hearing	settlement
+compound	hearing	compliance
+dobj	scheduled	hearing
+case	January	for
+nmod:for	hearing	January
+punct	scheduled	.

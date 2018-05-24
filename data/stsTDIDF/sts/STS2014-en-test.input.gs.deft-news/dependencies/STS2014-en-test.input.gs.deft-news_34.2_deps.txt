@@ -1,0 +1,12 @@
+advmod	korea	south
+nsubj	had	korea
+aux	had	has
+root	ROOT	had
+det	system	a
+compound	system	bullet
+compound	system	train
+dobj	had	system
+case	1980s	since
+det	1980s	the
+nmod:since	had	1980s
+punct	had	.

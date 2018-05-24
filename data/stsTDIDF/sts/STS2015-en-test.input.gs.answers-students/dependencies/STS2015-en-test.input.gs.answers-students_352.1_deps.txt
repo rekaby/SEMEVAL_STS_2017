@@ -1,0 +1,9 @@
+nsubj	path	It
+cop	path	was
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path
+case	switch	as
+nmod:as	path	switch
+dep	path	X.

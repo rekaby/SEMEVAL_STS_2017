@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	young
+nsubj	ride	girl
+cop	ride	is
+case	ride	on
+det	ride	a
+root	ROOT	ride
+case	park	at
+det	park	an
+compound	park	amusement
+nmod:at	ride	park
+punct	ride	.

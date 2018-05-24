@@ -1,0 +1,6 @@
+nsubj	traces	NATO
+root	ROOT	traces
+dobj	traces	path
+case	Afghanistan	out
+mwe	out	of
+nmod:out_of	path	Afghanistan

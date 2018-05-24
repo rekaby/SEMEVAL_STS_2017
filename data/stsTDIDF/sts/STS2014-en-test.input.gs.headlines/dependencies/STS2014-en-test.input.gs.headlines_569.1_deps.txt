@@ -1,0 +1,11 @@
+nummod	soldiers	Two
+compound	soldiers	U.S.
+root	ROOT	soldiers
+acl	soldiers	killed
+case	attack	in
+punct	attack	``
+compound	attack	insider
+punct	attack	''
+nmod:in	killed	attack
+case	Afghanistan	in
+nmod:in	attack	Afghanistan

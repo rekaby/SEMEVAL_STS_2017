@@ -1,0 +1,7 @@
+det	elite	the
+amod	elite	fashionable
+root	ROOT	elite
+case	community	of
+det	community	a
+amod	community	given
+nmod:of	elite	community

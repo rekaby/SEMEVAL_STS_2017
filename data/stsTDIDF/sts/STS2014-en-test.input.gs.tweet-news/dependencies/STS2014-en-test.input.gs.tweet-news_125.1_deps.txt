@@ -1,0 +1,10 @@
+advmod	Admits	Finally
+nsubj	Admits	Armstrong
+root	ROOT	Admits
+dobj	Admits	Doping
+punct	Admits	,
+cc	Admits	and
+conj:and	Admits	Says
+nsubj	Testify	He
+aux	Testify	Will
+ccomp	Says	Testify

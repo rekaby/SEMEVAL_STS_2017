@@ -1,0 +1,11 @@
+det	lion	A
+nsubj	trying	lion
+aux	trying	is
+root	ROOT	trying
+mark	climb	to
+xcomp	trying	climb
+compound:prt	climb	up
+case	wall	over
+det	wall	a
+nmod:over	climb	wall
+punct	trying	.

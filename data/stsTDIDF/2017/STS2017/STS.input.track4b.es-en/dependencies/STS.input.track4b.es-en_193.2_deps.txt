@@ -1,0 +1,16 @@
+advmod	telling	When
+root	ROOT	telling
+det	schoolgirl	a
+amod	schoolgirl	German
+dobj	telling	schoolgirl
+det	story	the
+nsubj	says	story
+ccomp	telling	says
+punct	says	:
+punct	says	``
+dobj	says	Successive
+punct	Successive	,
+advmod	surrogate	everywhere
+amod	Successive	surrogate
+punct	Successive	.
+punct	Successive	''

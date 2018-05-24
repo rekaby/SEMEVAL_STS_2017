@@ -1,0 +1,9 @@
+det	man	A
+nsubj	lifting	man
+aux	lifting	is
+root	ROOT	lifting
+dobj	lifting	weights
+case	garage	in
+det	garage	a
+nmod:in	lifting	garage
+punct	lifting	.

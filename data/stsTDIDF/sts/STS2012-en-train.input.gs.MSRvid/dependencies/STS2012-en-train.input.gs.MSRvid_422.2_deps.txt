@@ -1,0 +1,9 @@
+det	girl	The
+nsubj	spraying	girl
+aux	spraying	is
+root	ROOT	spraying
+det	plants	the
+dobj	spraying	plants
+case	water	with
+nmod:with	spraying	water
+punct	spraying	.

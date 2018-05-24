@@ -1,0 +1,7 @@
+dances	street	nmod:in
+dances	looks	advcl
+ROOT	dances	root
+looks	man	nsubj
+dances	.	punct
+dances	man	nsubj
+man	another	det

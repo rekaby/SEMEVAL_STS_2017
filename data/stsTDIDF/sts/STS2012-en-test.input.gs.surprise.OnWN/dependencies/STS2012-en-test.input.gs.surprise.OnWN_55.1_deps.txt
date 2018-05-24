@@ -1,0 +1,10 @@
+det	person	a
+root	ROOT	person
+nsubj	manipulate	who
+acl:relcl	person	manipulate
+cc	manipulate	or
+conj:or	manipulate	controls
+det	device	a
+dobj	manipulate	device
+cc	device	or
+conj:or	device	machine

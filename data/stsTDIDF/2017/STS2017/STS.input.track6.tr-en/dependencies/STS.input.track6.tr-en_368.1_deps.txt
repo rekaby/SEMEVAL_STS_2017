@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	videotapes	woman
+root	ROOT	videotapes
+det	event	an
+dobj	videotapes	event
+case	tent	in
+det	tent	the
+nmod:in	event	tent
+punct	videotapes	.

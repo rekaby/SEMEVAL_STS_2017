@@ -1,0 +1,14 @@
+det	line	A
+nsubj	walk	line
+case	workers	of
+compound	workers	construction
+nmod:of	line	workers
+root	ROOT	walk
+case	track	along
+det	track	a
+compound	track	train
+nmod:along	walk	track
+case	overpass	under
+det	overpass	an
+nmod:under	track	overpass
+punct	walk	.

@@ -1,0 +1,7 @@
+det	duck	A
+root	ROOT	duck
+acl	duck	floating
+case	water	in
+det	water	the
+nmod:in	floating	water
+punct	duck	.

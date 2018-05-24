@@ -1,0 +1,8 @@
+det	association	an
+amod	association	unofficial
+root	ROOT	association
+case	people	of
+nmod:of	association	people
+cc	people	or
+conj:or	people	groups
+punct	association	.

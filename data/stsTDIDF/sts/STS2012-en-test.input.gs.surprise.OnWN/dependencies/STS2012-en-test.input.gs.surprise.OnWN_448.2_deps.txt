@@ -1,0 +1,8 @@
+root	ROOT	something
+nsubjpass	made	that
+auxpass	made	is
+acl:relcl	something	made
+xcomp	made	real
+cc	real	or
+conj:or	real	concrete
+punct	something	.

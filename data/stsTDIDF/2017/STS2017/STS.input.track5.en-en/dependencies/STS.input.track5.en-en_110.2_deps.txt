@@ -1,0 +1,13 @@
+det	girl	A
+nsubj	boy	girl
+cop	boy	is
+case	boy	close
+mwe	close	to
+det	boy	a
+root	ROOT	boy
+nmod:poss	face	whose
+nsubjpass	shown	face
+auxpass	shown	is
+neg	shown	not
+acl:relcl	boy	shown
+punct	boy	.

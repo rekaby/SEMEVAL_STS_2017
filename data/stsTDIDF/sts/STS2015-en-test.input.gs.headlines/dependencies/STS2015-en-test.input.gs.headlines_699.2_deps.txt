@@ -1,0 +1,8 @@
+compound	Olmert	Ehud
+root	ROOT	Olmert
+acl	Olmert	sentenced
+case	years	to
+nummod	years	six
+nmod:to	sentenced	years
+case	Israel	in
+nmod:in	sentenced	Israel

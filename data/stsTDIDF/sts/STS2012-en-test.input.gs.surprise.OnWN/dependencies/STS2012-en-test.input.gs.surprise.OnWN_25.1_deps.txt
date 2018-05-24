@@ -1,0 +1,5 @@
+compound	stock	capital
+root	ROOT	stock
+case	corporation	in
+det	corporation	a
+nmod:in	stock	corporation

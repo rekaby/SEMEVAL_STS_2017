@@ -1,0 +1,13 @@
+det	man	A
+amod	man	young
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+case	dish	onto
+det	dish	a
+compound	dish	casserole
+nmod:onto	holding	dish
+case	holders	with
+compound	holders	pot
+nmod:with	dish	holders
+punct	holding	.

@@ -1,0 +1,8 @@
+det	lady	A
+nsubj	walking	lady
+case	green	in
+nmod:in	lady	green
+aux	walking	is
+root	ROOT	walking
+advmod	walking	outside
+punct	walking	.

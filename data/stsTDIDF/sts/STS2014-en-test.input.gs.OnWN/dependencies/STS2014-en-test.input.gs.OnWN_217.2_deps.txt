@@ -1,0 +1,8 @@
+root	ROOT	arrange
+cc	arrange	or
+conj:or	arrange	order
+case	classes	by
+nmod:by	order	classes
+cc	classes	or
+conj:or	classes	categories
+punct	arrange	.

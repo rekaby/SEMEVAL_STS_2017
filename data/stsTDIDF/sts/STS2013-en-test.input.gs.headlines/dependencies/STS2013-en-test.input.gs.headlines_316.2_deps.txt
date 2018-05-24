@@ -1,0 +1,9 @@
+compound	crimes	War
+root	ROOT	crimes
+punct	crimes	:
+nsubj	backs	China
+dep	crimes	backs
+dobj	backs	Lanka
+case	resolution	on
+compound	resolution	UN
+nmod:on	backs	resolution

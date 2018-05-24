@@ -1,0 +1,8 @@
+root	ROOT	Birthday
+case	DPRK	of
+nmod:of	Birthday	DPRK
+mark	Celebrated	to
+auxpass	Celebrated	Be
+acl	Birthday	Celebrated
+case	Peru	in
+nmod:in	Celebrated	Peru

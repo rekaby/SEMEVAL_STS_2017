@@ -1,0 +1,17 @@
+mark	did	if
+nsubj	did	you
+advcl	posting	did
+punct	posting	,
+nsubj	posting	you
+aux	posting	would
+neg	posting	n't
+aux	posting	be
+root	ROOT	posting
+det	yuck	the
+amod	yuck	past
+dobj	posting	yuck
+case	unregulation	of
+nmod:of	yuck	unregulation
+case	mining	of
+nmod:of	unregulation	mining
+punct	posting	.

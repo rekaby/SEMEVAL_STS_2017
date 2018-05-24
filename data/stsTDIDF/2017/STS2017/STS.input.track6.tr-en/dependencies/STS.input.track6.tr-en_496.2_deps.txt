@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	walks	woman
+root	ROOT	walks
+case	rain	in
+det	rain	the
+nmod:in	walks	rain
+case	child	with
+det	child	a
+amod	child	small
+nmod:with	walks	child
+acl	child	protected
+case	umbrella	by
+det	umbrella	an
+nmod:by	protected	umbrella
+compound:prt	walks	outside

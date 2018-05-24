@@ -1,0 +1,13 @@
+nmod:npmod	late	Cuba
+case	Cuba	's
+punct	pick	`
+nsubj	pick	Ladies
+punct	pick	'
+mark	pick	to
+dep	Cuba	pick
+compound:prt	pick	up
+compound	prize	EU
+dobj	pick	prize
+nummod	years	8
+dobj	pick	years
+root	ROOT	late

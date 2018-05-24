@@ -1,0 +1,7 @@
+nsubj	protest	Dozens
+acl	Dozens	arrested
+case	tower	in
+amod	tower	Russian
+compound	tower	TV
+nmod:in	arrested	tower
+root	ROOT	protest

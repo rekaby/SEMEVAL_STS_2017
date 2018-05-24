@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	bounces	girl
+root	ROOT	bounces
+case	house	in
+det	house	a
+compound	house	bounce
+nmod:in	bounces	house
+punct	bounces	.

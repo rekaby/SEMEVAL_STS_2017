@@ -1,0 +1,7 @@
+drinking	lemonade	dobj
+watching	T.V.	dobj
+ROOT	drinking	root
+drinking	is	aux
+drinking	woman	nsubj
+drinking	watching	conj:and
+drinking	and	cc

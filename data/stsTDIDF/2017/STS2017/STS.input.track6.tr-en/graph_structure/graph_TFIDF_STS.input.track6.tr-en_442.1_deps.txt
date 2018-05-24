@@ -1,0 +1,6 @@
+engaging	people	nsubj
+activities	in	case
+engaging	.	punct
+ROOT	engaging	root
+engaging	activities	nmod:in
+engaging	are	aux

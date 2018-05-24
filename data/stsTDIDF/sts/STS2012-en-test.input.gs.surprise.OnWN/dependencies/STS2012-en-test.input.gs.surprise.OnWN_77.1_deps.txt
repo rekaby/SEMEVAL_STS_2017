@@ -1,0 +1,8 @@
+det	force	a
+amod	force	natural
+amod	force	physical
+root	ROOT	force
+mark	drawing	of
+acl	force	drawing
+case	something	towards
+nmod:towards	drawing	something

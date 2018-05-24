@@ -1,0 +1,11 @@
+det	function	The
+nsubj	representative	function
+case	president	of
+det	president	the
+amod	president	german
+nmod:of	function	president
+cop	representative	is
+advmod	just	almost
+advmod	representative	just
+root	ROOT	representative
+punct	representative	.

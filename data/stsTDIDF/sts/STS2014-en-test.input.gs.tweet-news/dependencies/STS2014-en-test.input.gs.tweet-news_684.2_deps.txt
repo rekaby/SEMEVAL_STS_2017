@@ -1,0 +1,10 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+case	Term	For
+compound	Term	Obama?s
+amod	Term	Second
+nmod:for	Columnist	Term
+punct	Term	,
+appos	Term	Start
+advmod	Term	Here

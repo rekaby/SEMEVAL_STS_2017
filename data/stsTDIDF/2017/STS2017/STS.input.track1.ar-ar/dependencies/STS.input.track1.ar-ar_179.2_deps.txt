@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	walking
+case	open	in
+det	open	the
+nmod:in	walking	open
+punct	group	.

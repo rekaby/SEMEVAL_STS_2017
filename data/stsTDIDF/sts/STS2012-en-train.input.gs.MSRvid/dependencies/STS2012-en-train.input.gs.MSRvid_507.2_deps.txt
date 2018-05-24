@@ -1,0 +1,6 @@
+det	man	A
+nsubj	carries	man
+root	ROOT	carries
+det	women	a
+dobj	carries	women
+punct	carries	.

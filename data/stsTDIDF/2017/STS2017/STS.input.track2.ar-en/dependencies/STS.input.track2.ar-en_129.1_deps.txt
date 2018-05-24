@@ -1,0 +1,14 @@
+det	group	a
+root	ROOT	group
+case	players	of
+compound	players	basketball
+nmod:of	group	players
+acl	group	trying
+mark	get	to
+xcomp	trying	get
+det	ball	the
+dobj	get	ball
+case	player	from
+det	player	another
+nmod:from	get	player
+punct	group	.

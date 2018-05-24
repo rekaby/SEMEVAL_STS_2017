@@ -1,0 +1,10 @@
+det	man	A
+nsubj	attempting	man
+aux	attempting	is
+root	ROOT	attempting
+mark	fix	to
+xcomp	attempting	fix
+det	compressor	the
+compound	compressor	air
+dobj	fix	compressor
+punct	attempting	.

@@ -1,0 +1,12 @@
+nsubj	top	Those
+aux	top	may
+cop	top	be
+nmod:poss	top	my
+root	ROOT	top
+punct	top	.-6) det(money-2, The
+root	ROOT	money
+nsubj	spent	I
+acl:relcl	money	spent
+xcomp	spent	adopting
+dobj	adopting	Velociraptor
+punct	money	.

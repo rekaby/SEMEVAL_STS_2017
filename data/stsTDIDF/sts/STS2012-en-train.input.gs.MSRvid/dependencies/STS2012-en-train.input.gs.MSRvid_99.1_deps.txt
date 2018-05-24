@@ -1,0 +1,11 @@
+det	bear	A
+amod	bear	polar
+nsubj	running	bear
+aux	running	is
+root	ROOT	running
+case	group	towards
+det	group	a
+nmod:towards	running	group
+case	walruses	of
+nmod:of	group	walruses
+punct	running	.

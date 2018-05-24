@@ -1,0 +1,4 @@
+snow	by	case
+Ground	.	punct
+ROOT	Ground	root
+Ground	snow	nmod:by

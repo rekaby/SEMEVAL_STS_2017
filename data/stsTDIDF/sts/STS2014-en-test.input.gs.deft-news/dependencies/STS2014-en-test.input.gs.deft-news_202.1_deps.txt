@@ -1,0 +1,17 @@
+det	region	the
+amod	region	afghanistan-iran
+compound	region	border
+nsubj	scene	region
+aux	scene	has
+cop	scene	been
+det	scene	the
+root	ROOT	scene
+case	clashes	of
+amod	clashes	frequent
+nmod:of	scene	clashes
+case	police	between
+nmod:between	clashes	police
+cc	police	and
+compound	smugglers	drug
+conj:and	police	smugglers
+punct	scene	.

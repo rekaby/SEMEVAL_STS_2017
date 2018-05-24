@@ -1,0 +1,15 @@
+det	leaders	The
+nsubj	today	leaders
+cop	today	are
+root	ROOT	today
+case	chance	of
+det	chance	a
+amod	chance	new
+nmod:of	today	chance
+cc	chance	and
+advmod	let	therefore
+conj:and	chance	let
+nsubj	take	us
+ccomp	let	take
+dobj	take	it
+punct	today	.

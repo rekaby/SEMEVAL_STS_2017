@@ -1,0 +1,11 @@
+advmod	has	Therefore
+punct	has	,
+det	universe	the
+nsubj	has	universe
+root	ROOT	has
+det	explanation	an
+dobj	has	explanation
+case	existence	of
+nmod:poss	existence	its
+nmod:of	explanation	existence
+punct	has	.

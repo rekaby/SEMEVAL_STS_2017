@@ -1,0 +1,5 @@
+Musicians	walking	acl
+Musicians	.	punct
+ROOT	Musicians	root
+walking	within	mark
+walking	procession	dobj

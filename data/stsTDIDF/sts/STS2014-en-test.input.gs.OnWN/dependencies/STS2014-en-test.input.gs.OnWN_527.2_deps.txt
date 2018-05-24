@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	affirming	of
+acl	act	affirming
+cc	affirming	or
+conj:or	affirming	asserting
+cc	affirming	or
+conj:or	affirming	stating
+dobj	stating	something
+punct	act	.

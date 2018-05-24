@@ -1,0 +1,5 @@
+plays	man	nsubj
+plays	piano	dobj
+shoes	with	case
+plays	shoes	nmod:with
+shoes	his	nmod:poss

@@ -1,0 +1,10 @@
+case	least	At
+nmod:npmod	5	least
+root	ROOT	5
+acl	5	killed
+case	conflict	in
+amod	conflict	sectarian
+nmod:in	killed	conflict
+case	Yemen	in
+compound	Yemen	north
+nmod:in	conflict	Yemen

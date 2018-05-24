@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	falls	boy
+root	ROOT	falls
+compound:prt	falls	off
+nmod:poss	bike	his
+dobj	falls	bike
+punct	falls	.

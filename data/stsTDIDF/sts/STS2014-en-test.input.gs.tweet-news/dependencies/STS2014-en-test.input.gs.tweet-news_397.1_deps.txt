@@ -1,0 +1,10 @@
+nsubj	uses	Family
+root	ROOT	uses
+dobj	uses	pot
+mark	manage	to
+advcl	uses	manage
+nmod:poss	autism	son
+case	son	's
+dobj	manage	autism
+punct	uses	...
+punct	uses	Wow

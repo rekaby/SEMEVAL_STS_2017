@@ -1,0 +1,6 @@
+amod	tours	Exotic
+amod	tours	culinary
+root	ROOT	tours
+case	world	around
+det	world	the
+nmod:around	tours	world

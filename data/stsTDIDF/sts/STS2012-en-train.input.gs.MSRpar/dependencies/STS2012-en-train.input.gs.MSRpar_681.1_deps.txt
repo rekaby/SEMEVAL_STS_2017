@@ -1,0 +1,17 @@
+nsubj	play	Stanford
+punct	51-17	-LRB-
+appos	Stanford	51-17
+punct	51-17	-RRB-
+cc	Stanford	and
+compound	57-12	Rice
+punct	57-12	-LRB-
+conj:and	Stanford	57-12
+punct	Stanford	-RRB-
+aux	play	will
+root	ROOT	play
+case	championship	for
+det	championship	the
+amod	championship	national
+nmod:for	play	championship
+nmod:tmod	play	tonight
+punct	play	.

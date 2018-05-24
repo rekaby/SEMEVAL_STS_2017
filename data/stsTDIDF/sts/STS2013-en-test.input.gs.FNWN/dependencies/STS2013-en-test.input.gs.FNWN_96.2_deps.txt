@@ -1,0 +1,8 @@
+det	surface	the
+amod	surface	striking
+cc	striking	or
+conj:or	striking	working
+nsubj	implement	surface
+case	an	of
+nmod:of	surface	an
+root	ROOT	implement

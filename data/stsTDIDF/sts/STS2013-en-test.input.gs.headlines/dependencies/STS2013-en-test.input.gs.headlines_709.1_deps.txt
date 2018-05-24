@@ -1,0 +1,13 @@
+compound	Election	US
+root	ROOT	Election
+punct	Election	:
+compound	Romney	Mitt
+nsubj	concedes	Romney
+parataxis	Election	concedes
+dobj	concedes	defeat
+mark	wins	as
+compound	Obama	Barack
+nsubj	wins	Obama
+advcl	defeat	wins
+amod	term	second
+dobj	wins	term

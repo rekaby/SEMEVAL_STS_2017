@@ -1,0 +1,15 @@
+det	man	A
+amod	man	young
+nsubj	plays	man
+root	ROOT	plays
+det	trumpet	the
+dobj	plays	trumpet
+mark	prevent	to
+xcomp	plays	prevent
+det	team	the
+amod	team	other
+dobj	prevent	team
+mark	gaining	from
+advcl	prevent	gaining
+dobj	gaining	attention
+punct	plays	.

@@ -1,0 +1,17 @@
+nsubjpass	ordered	Zuccarini
+auxpass	ordered	was
+root	ROOT	ordered
+xcomp	ordered	held
+case	bail	without
+nmod:without	held	bail
+nmod:tmod	held	Wednesday
+case	judge	by
+det	judge	a
+amod	judge	federal
+nmod:by	held	judge
+case	Lauderdale	in
+compound	Lauderdale	Fort
+nmod:in	judge	Lauderdale
+punct	Lauderdale	,
+appos	Lauderdale	Fla.
+punct	ordered	.

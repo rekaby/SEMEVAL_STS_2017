@@ -1,0 +1,9 @@
+nummod	ways	6
+dep	change	ways
+nmod:poss	seconds	Vine
+case	Vine	's
+nummod	seconds	six
+nsubj	change	seconds
+aux	change	may
+root	ROOT	change
+dobj	change	Twitter

@@ -1,0 +1,11 @@
+nsubjpass	called	One
+case	methods	of
+det	methods	the
+amod	methods	best
+amod	methods	known
+nmod:of	One	methods
+auxpass	called	is
+root	ROOT	called
+amod	weighting	tf-idf
+xcomp	called	weighting
+punct	called	.

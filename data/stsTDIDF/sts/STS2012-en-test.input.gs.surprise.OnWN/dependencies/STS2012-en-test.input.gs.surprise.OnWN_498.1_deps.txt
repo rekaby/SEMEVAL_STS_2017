@@ -1,0 +1,11 @@
+det	band	A
+nsubj	made	band
+case	leather	of
+nmod:of	band	leather
+cc	leather	or
+conj:or	leather	rope
+root	ROOT	made
+mark	identify	to
+xcomp	made	identify
+dobj	identify	animals
+punct	made	.

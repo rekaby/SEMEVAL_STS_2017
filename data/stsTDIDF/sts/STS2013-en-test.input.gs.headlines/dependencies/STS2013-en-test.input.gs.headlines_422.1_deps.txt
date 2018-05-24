@@ -1,0 +1,5 @@
+nsubj	flee	Australians
+root	ROOT	flee
+dobj	flee	homes
+case	floods	amid
+nmod:amid	flee	floods

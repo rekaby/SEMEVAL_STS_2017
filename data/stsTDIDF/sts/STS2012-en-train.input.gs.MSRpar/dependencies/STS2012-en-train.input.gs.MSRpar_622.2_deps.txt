@@ -1,0 +1,16 @@
+nummod	month	One
+nmod:npmod	ago	month
+advmod	leading	ago
+case	poll	in
+det	poll	the
+amod	poll	same
+nmod:in	ago	poll
+punct	leading	,
+nsubj	leading	Katz
+aux	leading	was
+root	ROOT	leading
+compound	40	46
+dep	40	to
+nummod	percent	40
+dobj	leading	percent
+punct	leading	.

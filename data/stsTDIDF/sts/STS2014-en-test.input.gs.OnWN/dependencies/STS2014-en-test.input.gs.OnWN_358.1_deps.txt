@@ -1,0 +1,7 @@
+root	ROOT	Create
+det	short	an
+amod	short	electrical
+dobj	Create	short
+case	something	in
+nmod:in	short	something
+punct	Create	.

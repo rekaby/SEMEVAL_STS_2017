@@ -1,0 +1,8 @@
+compound	leader	DPRK
+nsubj	calls	leader
+root	ROOT	calls
+case	ties	for
+amod	ties	better
+nmod:for	calls	ties
+case	S.Korea	with
+nmod:with	ties	S.Korea

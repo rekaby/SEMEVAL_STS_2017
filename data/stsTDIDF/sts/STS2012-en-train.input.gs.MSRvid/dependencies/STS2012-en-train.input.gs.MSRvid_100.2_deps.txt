@@ -1,0 +1,9 @@
+det	person	A
+nsubj	slicing	person
+aux	slicing	is
+root	ROOT	slicing
+det	garlic	a
+dobj	slicing	garlic
+case	pieces	into
+nmod:into	slicing	pieces
+punct	slicing	.

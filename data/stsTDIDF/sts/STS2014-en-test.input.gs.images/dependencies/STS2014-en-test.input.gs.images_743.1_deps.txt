@@ -1,0 +1,17 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+case	bench	on
+det	bench	a
+nmod:on	sitting	bench
+acl	bench	looking
+case	dog	at
+det	dog	a
+nmod:at	looking	dog
+case	leash	on
+det	leash	a
+nmod:on	looking	leash
+acl	leash	sitting
+case	sidewalk	on
+nmod:on	sitting	sidewalk
+punct	man	.

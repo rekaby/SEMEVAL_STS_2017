@@ -1,0 +1,10 @@
+compound	Äėwill	China
+nummod	Äėwill	‚
+nsubj	protect	Äėwill
+root	ROOT	protect
+dobj	protect	interests
+nummod	Äô	‚
+dep	interests	Äô
+case	business	of
+amod	business	foreign
+nmod:of	Äô	business

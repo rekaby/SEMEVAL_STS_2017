@@ -1,0 +1,11 @@
+det	temperature	the
+root	ROOT	temperature
+case	which	at
+nmod:at	temperature	which
+det	boils	a
+amod	boils	liquid
+dep	which	boils
+case	level	at
+compound	level	sea
+nmod:at	boils	level
+punct	temperature	.

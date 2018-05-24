@@ -1,0 +1,9 @@
+det	couple	A
+nsubj	sailing	couple
+case	men	of
+nmod:of	couple	men
+aux	sailing	are
+root	ROOT	sailing
+det	boat	a
+dobj	sailing	boat
+punct	sailing	.

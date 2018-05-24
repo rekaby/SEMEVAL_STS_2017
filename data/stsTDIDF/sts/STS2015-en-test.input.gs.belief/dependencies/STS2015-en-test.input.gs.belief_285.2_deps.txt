@@ -1,0 +1,9 @@
+cop	way	is
+expl	way	there
+det	way	any
+root	ROOT	way
+nsubjpass	avoided	that
+aux	avoided	can
+auxpass	avoided	be
+acl:relcl	way	avoided
+punct	way	?

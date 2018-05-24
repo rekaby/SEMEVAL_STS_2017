@@ -1,0 +1,10 @@
+compound	bombs	U.S.
+amod	bombs	military
+compound	bombs	jettisons
+root	ROOT	bombs
+case	Reef	near
+nmod:poss	Reef	Australia
+case	Australia	's
+compound	Reef	Great
+compound	Reef	Barrier
+nmod:near	bombs	Reef

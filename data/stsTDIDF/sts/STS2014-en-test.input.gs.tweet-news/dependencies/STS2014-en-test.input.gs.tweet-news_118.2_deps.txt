@@ -1,0 +1,8 @@
+nsubj	Shows	Study
+root	ROOT	Shows
+compound	Value	College
+compound	Value	Degree?s
+dobj	Shows	Value
+case	Downturn	During
+compound	Downturn	Economic
+nmod:during	Value	Downturn

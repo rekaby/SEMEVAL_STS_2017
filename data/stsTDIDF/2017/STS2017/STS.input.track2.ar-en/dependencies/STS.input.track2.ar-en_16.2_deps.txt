@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	traders	of
+nmod:of	group	traders
+acl	traders	working
+case	market	in
+det	market	the
+nmod:in	working	market
+punct	group	.

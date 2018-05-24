@@ -1,0 +1,16 @@
+punct	Sad	``
+dep	Sad	Live
+case	sword	by
+det	sword	the
+nmod:by	Live	sword
+punct	Sad	...
+punct	Sad	''
+root	ROOT	Sad
+cc	Sad	and
+conj:and	Sad	ironic
+punct	Sad	.-11) nsubj(shot-6, Producer
+case	videos	of
+amod	videos	popular
+amod	videos	gun-related
+nmod:of	Producer	videos
+root	ROOT	shot

@@ -1,0 +1,10 @@
+case	terms	On
+compound	terms	trade
+nmod:on	fell	terms
+punct	fell	,
+det	exchange	the
+compound	exchange	stock
+nsubj	fell	exchange
+case	Prague	of
+nmod:of	exchange	Prague
+root	ROOT	fell

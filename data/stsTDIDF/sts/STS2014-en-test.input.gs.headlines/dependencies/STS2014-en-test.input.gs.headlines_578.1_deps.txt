@@ -1,0 +1,7 @@
+nsubj	announce	Obama
+mark	announce	to
+root	ROOT	announce
+compound	control	gun
+dobj	announce	control
+dobj	announce	plans
+nmod:tmod	announce	Wednesday

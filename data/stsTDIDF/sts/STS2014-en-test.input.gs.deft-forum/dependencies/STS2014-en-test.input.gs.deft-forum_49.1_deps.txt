@@ -1,0 +1,6 @@
+nsubj	has	Freedom
+case	speech	of
+nmod:of	Freedom	speech
+root	ROOT	has
+dobj	has	consequences
+punct	has	!

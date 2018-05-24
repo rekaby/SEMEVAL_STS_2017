@@ -1,0 +1,8 @@
+det	man	A
+nsubj	helping	man
+aux	helping	is
+root	ROOT	helping
+nsubjpass	dressed	someone
+auxpass	dressed	get
+ccomp	helping	dressed
+punct	helping	.

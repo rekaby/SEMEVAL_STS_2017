@@ -1,0 +1,13 @@
+nsubj	spirit	That
+cop	spirit	is
+det	spirit	the
+root	ROOT	spirit
+case	which	in
+nmod:in	drawn	which
+aux	drawn	must
+auxpass	drawn	be
+acl:relcl	spirit	drawn
+compound:prt	drawn	up
+det	Constitution	the
+dobj	drawn	Constitution
+punct	spirit	.

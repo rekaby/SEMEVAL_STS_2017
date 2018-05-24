@@ -1,0 +1,13 @@
+compound	Reynolds	Burt
+nsubj	feeling	Reynolds
+punct	feeling	`
+root	ROOT	feeling
+advmod	feeling	better
+punct	better	'
+cc	better	but
+advmod	ICU	still
+case	ICU	in
+conj:but	better	ICU
+punct	feeling	,
+dep	feeling	rep
+punct	feeling	says

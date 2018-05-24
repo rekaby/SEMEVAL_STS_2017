@@ -1,0 +1,11 @@
+root	ROOT	mark
+conj:or	mark	mark
+cc	mark	or
+conj:or	mark	cover
+case	dots	with
+cc	with	or
+conj:or	with	as
+case	dots	if
+case	dots	with
+nmod:as	mark	dots
+nmod:with	mark	dots

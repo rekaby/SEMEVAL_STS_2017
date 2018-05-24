@@ -1,0 +1,15 @@
+nsubj	exploded	It
+root	ROOT	exploded
+case	hands	in
+nmod:poss	hands	his
+nmod:in	exploded	hands
+punct	exploded	,
+cc	exploded	but
+det	minister	the
+amod	minister	former
+amod	minister	Italian
+amod	minister	prime
+nsubj	unhurt	minister
+cop	unhurt	was
+conj:but	exploded	unhurt
+punct	exploded	.

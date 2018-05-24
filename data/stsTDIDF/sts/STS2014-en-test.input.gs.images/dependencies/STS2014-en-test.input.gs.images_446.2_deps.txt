@@ -1,0 +1,6 @@
+amod	sheep	Woolly
+root	ROOT	sheep
+case	house	at
+compound	house	auction
+nmod:at	sheep	house
+punct	sheep	.

@@ -1,0 +1,6 @@
+shoulders	the	det
+shoulders	on	case
+child	.	punct
+ROOT	child	root
+child	shoulders	nmod:on
+shoulders	man	nmod:of

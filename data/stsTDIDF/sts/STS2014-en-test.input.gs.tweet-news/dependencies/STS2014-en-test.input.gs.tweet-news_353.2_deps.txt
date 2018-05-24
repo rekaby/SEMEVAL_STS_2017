@@ -1,0 +1,12 @@
+root	ROOT	DealBook
+punct	DealBook	:
+dep	DealBook	Moving
+case	Street	From
+compound	Street	Wall
+nmod:from	Moving	Street
+case	Tricky	to
+det	Tricky	the
+compound	Tricky	Tech
+compound	Tricky	Sector
+compound	Tricky	Proves
+nmod:to	Moving	Tricky

@@ -1,0 +1,7 @@
+root	ROOT	Kenya
+punct	Kenya	:
+dep	Kenya	Pair
+acl	Pair	Arrested
+case	Police	By
+compound	Police	Anti-Terror
+nmod:by	Arrested	Police

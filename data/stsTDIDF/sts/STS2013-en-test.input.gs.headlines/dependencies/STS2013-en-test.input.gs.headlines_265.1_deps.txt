@@ -1,0 +1,7 @@
+compound	Romney	Mitt
+nsubj	wins	Romney
+root	ROOT	wins
+amod	primary	Republican
+dobj	wins	primary
+case	Indiana	in
+nmod:in	primary	Indiana

@@ -1,0 +1,7 @@
+compound	Target	New
+compound	Target	US
+compound	Target	Sanctions
+root	ROOT	Target
+amod	Attackers	Overseas
+compound	Attackers	Cyber
+dep	Target	Attackers

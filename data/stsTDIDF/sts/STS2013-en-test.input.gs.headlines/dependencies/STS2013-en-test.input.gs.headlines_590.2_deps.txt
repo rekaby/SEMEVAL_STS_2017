@@ -1,0 +1,9 @@
+compound	growth	S.
+compound	growth	Korean
+amod	growth	economic
+nsubj	falls	growth
+root	ROOT	falls
+case	3-year	to
+amod	3-year	near
+nmod:to	falls	3-year
+xcomp	falls	low

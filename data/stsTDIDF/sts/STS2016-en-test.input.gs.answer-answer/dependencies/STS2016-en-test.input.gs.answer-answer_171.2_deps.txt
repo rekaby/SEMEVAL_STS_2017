@@ -1,0 +1,13 @@
+advmod	hard	Yes
+punct	hard	,
+nsubj	hard	it
+cop	hard	is
+root	ROOT	hard
+mark	publish	to
+xcomp	hard	publish
+case	journal	in
+det	journal	a
+compound	journal	peer
+amod	journal	reviewed
+nmod:in	publish	journal
+punct	hard	.

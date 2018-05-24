@@ -1,0 +1,9 @@
+nummod	men	Two
+root	ROOT	men
+case	suits	in
+amod	suits	red
+nmod:in	men	suits
+acl	suits	practicing
+amod	arts	martial
+dobj	practicing	arts
+punct	men	.

@@ -1,0 +1,7 @@
+compound	Y	switch
+nsubj	effect	Y
+aux	effect	does
+neg	effect	not
+root	ROOT	effect
+compound	A	bulb
+dobj	effect	A

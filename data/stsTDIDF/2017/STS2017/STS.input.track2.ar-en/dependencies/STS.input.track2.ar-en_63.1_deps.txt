@@ -1,0 +1,16 @@
+det	women	A
+nsubj	walking	women
+cc	women	and
+nummod	children	two
+conj:and	women	children
+aux	walking	are
+root	ROOT	walking
+case	buildings	between
+nmod:between	walking	buildings
+case	rain	in
+det	rain	the
+nmod:in	walking	rain
+case	umbrella	with
+det	umbrella	an
+nmod:with	rain	umbrella
+punct	walking	.

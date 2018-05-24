@@ -1,0 +1,10 @@
+det	man	The
+nsubj	hit	man
+root	ROOT	hit
+det	man	the
+amod	man	other
+dobj	hit	man
+case	stick	with
+det	stick	a
+nmod:with	hit	stick
+punct	hit	.

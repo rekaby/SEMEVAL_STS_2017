@@ -1,0 +1,5 @@
+runs	player	nsubj
+player	Football	compound
+region	latter	amod
+runs	region	nmod:to
+region	to	case

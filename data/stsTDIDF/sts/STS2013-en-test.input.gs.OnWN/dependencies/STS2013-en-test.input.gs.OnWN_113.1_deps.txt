@@ -1,0 +1,8 @@
+det	growth	a
+amod	growth	natural
+root	ROOT	growth
+case	plants	of
+nmod:of	growth	plants
+punct	growth	,
+advmod	growth	usually
+dep	growth	trees

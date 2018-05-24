@@ -1,0 +1,8 @@
+det	bird	A
+root	ROOT	bird
+acl	bird	eating
+case	feeder	from
+det	feeder	a
+compound	feeder	bird
+nmod:from	eating	feeder
+punct	bird	.

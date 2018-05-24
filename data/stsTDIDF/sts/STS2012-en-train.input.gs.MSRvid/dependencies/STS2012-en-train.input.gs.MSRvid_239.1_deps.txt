@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	coming	girl
+aux	coming	is
+root	ROOT	coming
+compound:prt	coming	up
+case	car	on
+det	car	a
+nmod:on	coming	car
+punct	coming	.

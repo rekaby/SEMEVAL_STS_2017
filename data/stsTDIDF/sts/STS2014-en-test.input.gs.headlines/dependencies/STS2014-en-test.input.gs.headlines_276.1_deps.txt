@@ -1,0 +1,9 @@
+nsubj	sends	Purge
+root	ROOT	sends
+amod	message	chilling
+dobj	sends	message
+case	elite	to
+compound	Korea	North
+nmod:poss	elite	Korea
+case	Korea	's
+nmod:to	sends	elite

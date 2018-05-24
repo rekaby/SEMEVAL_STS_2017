@@ -1,0 +1,11 @@
+det	guy	A
+nsubj	running	guy
+root	ROOT	running
+case	day	on
+det	day	a
+amod	day	pretty
+nmod:on	running	day
+case	dock	on
+det	dock	the
+nmod:on	day	dock
+punct	running	.

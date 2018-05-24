@@ -1,0 +1,9 @@
+compound	Army	Free
+amod	Army	Syrian
+nsubj	moves	Army
+root	ROOT	moves
+dobj	moves	headquarters
+case	Turkey	from
+nmod:from	moves	Turkey
+case	Syria	to
+nmod:to	moves	Syria

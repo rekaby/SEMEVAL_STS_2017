@@ -1,0 +1,7 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	onion	an
+dobj	cutting	onion
+punct	cutting	.

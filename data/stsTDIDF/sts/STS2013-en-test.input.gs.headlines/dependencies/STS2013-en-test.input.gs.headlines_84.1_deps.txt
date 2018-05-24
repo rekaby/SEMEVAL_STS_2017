@@ -1,0 +1,8 @@
+nsubj	push	Gains
+case	stocks	in
+amod	stocks	financial
+nmod:in	Gains	stocks
+root	ROOT	push
+compound:prt	push	up
+amod	equities	European
+dobj	push	equities

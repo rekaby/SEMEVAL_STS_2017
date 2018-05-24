@@ -1,0 +1,15 @@
+nmod:poss	heroes	Our
+amod	heroes	intrepid
+nsubj	pursue	heroes
+advmod	pursue	also
+aux	pursue	did
+neg	pursue	n't
+root	ROOT	pursue
+det	child	the
+dobj	pursue	child
+nsubj	spacesuit	who
+cop	spacesuit	was
+case	spacesuit	in
+det	spacesuit	the
+acl:relcl	child	spacesuit
+punct	pursue	.

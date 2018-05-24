@@ -1,0 +1,6 @@
+amod	powers	Neymar
+root	ROOT	powers
+dobj	powers	Brazil
+case	16	into
+amod	16	last
+nmod:into	powers	16

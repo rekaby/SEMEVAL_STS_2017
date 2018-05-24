@@ -1,0 +1,8 @@
+ROOT	water	root
+water	throwing	conj:and
+water	person	nsubj
+water	is	cop
+water	.	punct
+throwing	back	advmod
+hair	their	nmod:poss
+throwing	hair	dobj

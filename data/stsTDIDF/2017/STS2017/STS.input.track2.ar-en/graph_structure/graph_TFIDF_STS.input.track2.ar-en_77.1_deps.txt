@@ -1,0 +1,6 @@
+walk	juggling	nmod:through
+juggling	by	case
+juggling	a	det
+walk	People	nsubj
+juggling	through	case
+juggling	city	compound

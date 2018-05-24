@@ -1,0 +1,6 @@
+mark	collect	to
+root	ROOT	collect
+punct	collect	,
+conj:or	collect	acquire
+cc	collect	or
+conj:or	collect	gather

@@ -1,0 +1,6 @@
+compound	claim	New
+compound	claim	sex
+nsubj	hits	claim
+root	ROOT	hits
+compound	Service	Secret
+dobj	hits	Service

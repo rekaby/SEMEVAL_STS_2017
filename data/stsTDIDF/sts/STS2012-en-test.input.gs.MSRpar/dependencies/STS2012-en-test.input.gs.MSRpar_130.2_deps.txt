@@ -1,0 +1,11 @@
+compound	Keker	Quattrone
+compound	Keker	lawyer
+compound	Keker	John
+compound	Keker	W.
+nsubj	said	Keker
+root	ROOT	said
+nmod:poss	client	his
+nsubj	innocent	client
+cop	innocent	is
+ccomp	said	innocent
+punct	said	.

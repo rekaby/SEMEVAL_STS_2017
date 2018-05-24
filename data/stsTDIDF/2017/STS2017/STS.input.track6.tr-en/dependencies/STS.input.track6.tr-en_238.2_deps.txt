@@ -1,0 +1,9 @@
+det	athlete	The
+nsubj	competes	athlete
+root	ROOT	competes
+case	encounter	in
+det	encounter	a
+amod	encounter	long
+compound	encounter	jump
+nmod:in	competes	encounter
+punct	competes	.

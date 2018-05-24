@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+det	violin	the
+dobj	playing	violin
+advmod	playing	onstage
+punct	playing	.

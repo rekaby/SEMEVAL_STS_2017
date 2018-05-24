@@ -1,0 +1,13 @@
+det	man	A
+nsubj	stops	man
+root	ROOT	stops
+case	picture	for
+det	picture	a
+nmod:for	stops	picture
+case	scenery	with
+det	scenery	the
+nmod:with	picture	scenery
+case	hike	during
+nmod:poss	hike	his
+nmod:during	stops	hike
+punct	stops	.

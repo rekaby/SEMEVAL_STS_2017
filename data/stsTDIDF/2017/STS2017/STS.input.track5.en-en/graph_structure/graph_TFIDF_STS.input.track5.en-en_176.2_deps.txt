@@ -1,0 +1,4 @@
+going	camera	nmod:towards
+going	vehicles	nsubj
+vehicles	Two	nummod
+camera	towards	case

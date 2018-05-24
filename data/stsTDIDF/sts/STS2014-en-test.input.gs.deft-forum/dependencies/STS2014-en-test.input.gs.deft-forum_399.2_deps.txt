@@ -1,0 +1,10 @@
+nsubj	want	You
+root	ROOT	want
+dobj	want	others
+mark	decide	to
+xcomp	want	decide
+case	body	over
+det	body	a
+compound	body	woman
+nmod:over	decide	body
+punct	want	.

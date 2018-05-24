@@ -1,0 +1,10 @@
+root	ROOT	move
+conj:or	move	move
+case	crowd	as
+det	crowd	a
+nmod:as	move	crowd
+cc	move	or
+case	group	in
+det	group	a
+nmod:in	move	group
+punct	move	.

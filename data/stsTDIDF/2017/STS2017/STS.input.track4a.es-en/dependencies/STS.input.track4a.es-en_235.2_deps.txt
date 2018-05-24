@@ -1,0 +1,8 @@
+det	man	A
+nsubj	jumping	man
+aux	jumping	is
+root	ROOT	jumping
+case	air	into
+det	air	the
+nmod:into	jumping	air
+punct	jumping	.

@@ -1,0 +1,9 @@
+advmod	remove	How
+mark	remove	to
+root	ROOT	remove
+det	tick	a
+dobj	remove	tick
+case	dog	on
+det	dog	a
+nmod:on	remove	dog
+punct	remove	?

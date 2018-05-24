@@ -1,0 +1,16 @@
+mark	want	If
+nsubj	want	you
+advcl	cares	want
+mark	buy	to
+xcomp	want	buy
+dobj	buy	$
+nummod	$	billion
+case	stock	in
+compound	stock	XYZ
+compound	stock	Inc.
+amod	stock	common
+nmod:in	buy	stock
+punct	cares	,
+nsubj	cares	who
+root	ROOT	cares
+punct	cares	?

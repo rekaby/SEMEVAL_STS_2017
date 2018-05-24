@@ -1,0 +1,15 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+nsubj	is	man
+case	beret	in
+det	beret	a
+nmod:in	man	beret
+cc	beret	and
+det	woman	a
+conj:and	beret	woman
+case	coat	in
+det	coat	a
+amod	coat	pink
+nmod:in	woman	coat
+punct	is	.

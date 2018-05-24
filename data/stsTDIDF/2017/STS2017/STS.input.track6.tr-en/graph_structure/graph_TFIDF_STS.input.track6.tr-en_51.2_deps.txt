@@ -1,0 +1,4 @@
+table	around	case
+people	table	nmod:around
+table	dark	nmod:in
+people	A	det

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	making	man
+aux	making	is
+root	ROOT	making
+compound	animals	balloon
+dobj	making	animals
+case	group	for
+det	children	a
+amod	children	small
+nmod:poss	group	children
+case	children	's
+nmod:for	making	group
+punct	making	.

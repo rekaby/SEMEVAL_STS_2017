@@ -1,0 +1,7 @@
+jumps	and	cc
+contestant	talent	compound
+contestant	A	det
+jumps	contestant	nsubj
+jumps	.	punct
+jumps	sings	conj:and
+ROOT	jumps	root

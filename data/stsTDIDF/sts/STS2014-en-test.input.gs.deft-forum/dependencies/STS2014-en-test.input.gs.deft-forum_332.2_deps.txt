@@ -1,0 +1,9 @@
+root	ROOT	Lower
+case	cent	than
+case	cent	per
+nmod:per	Lower	cent
+cc	Lower	but
+neg	low	not
+advmod	low	very
+conj:but	Lower	low
+punct	Lower	.

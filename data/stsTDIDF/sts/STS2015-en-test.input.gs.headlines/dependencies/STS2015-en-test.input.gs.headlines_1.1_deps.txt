@@ -1,0 +1,12 @@
+det	foundations	The
+nsubjpass	built	foundations
+case	Africa	of
+compound	Africa	South
+nmod:of	foundations	Africa
+auxpass	built	are
+root	ROOT	built
+case	memory	on
+compound	Mandela	Nelson
+nmod:poss	memory	Mandela
+case	Mandela	's
+nmod:on	built	memory

@@ -1,0 +1,9 @@
+nsubj	releases	US
+root	ROOT	releases
+amod	report	initial
+dobj	releases	report
+case	impacts	on
+amod	impacts	fracking
+nmod:on	report	impacts
+case	water	on
+nmod:on	report	water

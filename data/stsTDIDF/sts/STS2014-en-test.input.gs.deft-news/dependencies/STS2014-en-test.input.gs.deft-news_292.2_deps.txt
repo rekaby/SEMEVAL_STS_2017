@@ -1,0 +1,16 @@
+compound	arabia	saudi
+nsubj	monarchy	arabia
+cop	monarchy	is
+det	monarchy	an
+amod	monarchy	absolute
+root	ROOT	monarchy
+cc	monarchy	and
+conj:and	monarchy	has
+det	council	a
+amod	council	consultative
+dobj	has	council
+acl	council	appointed
+case	government	by
+det	government	the
+nmod:by	appointed	government
+punct	monarchy	.

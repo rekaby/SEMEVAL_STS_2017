@@ -1,0 +1,14 @@
+cc	influence	And
+punct	influence	,
+advmod	important	perhaps
+det	important	the
+advmod	important	most
+dep	influence	important
+punct	influence	,
+compound	influence	Ahmadinejad
+compound	influence	destabilising
+root	ROOT	influence
+punct	influence	,
+neg	bernanke	not
+appos	influence	bernanke
+punct	influence	.

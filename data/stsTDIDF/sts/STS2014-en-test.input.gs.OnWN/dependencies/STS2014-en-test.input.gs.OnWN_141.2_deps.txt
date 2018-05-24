@@ -1,0 +1,13 @@
+det	trench	a
+root	ROOT	trench
+acl	trench	resembling
+det	furrow	a
+dobj	resembling	furrow
+nsubjpass	made	that
+auxpass	made	was
+acl:relcl	furrow	made
+case	erosion	by
+nmod:agent	made	erosion
+cc	erosion	or
+conj:or	erosion	excavation
+punct	trench	.

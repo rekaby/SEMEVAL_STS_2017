@@ -1,0 +1,8 @@
+root	ROOT	Findings
+punct	Findings	:
+amod	Procrastination	Positive
+dep	Findings	Procrastination
+punct	Procrastination	,
+neg	Oxymoron	Not
+det	Oxymoron	an
+appos	Procrastination	Oxymoron

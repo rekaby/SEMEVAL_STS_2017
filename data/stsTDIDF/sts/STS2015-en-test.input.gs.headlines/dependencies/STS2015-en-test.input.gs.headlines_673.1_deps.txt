@@ -1,0 +1,7 @@
+root	ROOT	Abdullah
+acl	Abdullah	Widens
+dobj	Widens	Lead
+case	Poll	in
+compound	Poll	Afghan
+compound	Poll	Presidential
+nmod:in	Lead	Poll

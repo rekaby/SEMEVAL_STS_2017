@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+case	rope	across
+det	rope	a
+amod	rope	tight
+nmod:across	walks	rope
+punct	walks	.

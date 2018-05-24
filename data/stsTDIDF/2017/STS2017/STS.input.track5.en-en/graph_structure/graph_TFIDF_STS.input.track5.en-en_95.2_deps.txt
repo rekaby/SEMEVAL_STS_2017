@@ -1,0 +1,5 @@
+standing	feet	nmod:on
+bridge	on	case
+standing	man	nsubj
+standing	bridge	nmod:on
+feet	one	nummod

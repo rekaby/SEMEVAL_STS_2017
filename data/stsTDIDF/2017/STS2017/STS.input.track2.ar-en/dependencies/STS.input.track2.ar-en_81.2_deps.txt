@@ -1,0 +1,5 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	peddling
+dobj	peddling	vegetables
+punct	men	.

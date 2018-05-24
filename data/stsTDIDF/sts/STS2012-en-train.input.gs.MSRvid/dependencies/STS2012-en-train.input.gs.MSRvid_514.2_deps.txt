@@ -1,0 +1,8 @@
+compound	models	Women
+nsubj	walking	models
+aux	walking	are
+root	ROOT	walking
+compound:prt	walking	down
+det	catwalk	a
+dobj	walking	catwalk
+punct	walking	.

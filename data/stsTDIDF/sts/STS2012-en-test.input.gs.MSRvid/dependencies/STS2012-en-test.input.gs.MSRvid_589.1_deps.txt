@@ -1,0 +1,6 @@
+det	man	A
+nsubj	hugging	man
+aux	hugging	is
+root	ROOT	hugging
+dobj	hugging	someone
+punct	hugging	.

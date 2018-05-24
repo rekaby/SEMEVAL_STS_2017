@@ -1,0 +1,9 @@
+box	containing	acl
+opening	is	aux
+ROOT	opening	root
+opening	box	dobj
+containing	puppy	dobj
+puppy	new	amod
+puppy	his	nmod:poss
+opening	boy	nsubj
+opening	.	punct

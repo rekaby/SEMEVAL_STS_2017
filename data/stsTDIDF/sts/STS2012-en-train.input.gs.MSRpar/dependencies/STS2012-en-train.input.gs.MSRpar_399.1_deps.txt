@@ -1,0 +1,16 @@
+advmod	Falco	So
+cop	Falco	was
+compound	Falco	Edie
+root	ROOT	Falco
+punct	Falco	,
+det	co-star	the
+advmod	praised	critically
+amod	co-star	praised
+appos	Falco	co-star
+case	Frankie	of
+punct	Frankie	``
+nmod:of	co-star	Frankie
+cc	Frankie	and
+conj:and	Frankie	Johnny
+punct	Falco	.
+punct	Falco	''

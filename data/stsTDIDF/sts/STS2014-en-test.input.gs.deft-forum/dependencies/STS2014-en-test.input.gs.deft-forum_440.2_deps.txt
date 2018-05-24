@@ -1,0 +1,9 @@
+nsubj	responsible	Aye
+cc	Aye	but
+conj:but	Aye	they
+cop	responsible	ARE
+root	ROOT	responsible
+case	constituents	to
+nmod:poss	constituents	their
+nmod:to	responsible	constituents
+punct	responsible	.

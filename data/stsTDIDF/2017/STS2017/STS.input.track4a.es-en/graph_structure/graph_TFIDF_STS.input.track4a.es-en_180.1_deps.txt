@@ -1,0 +1,10 @@
+stare	screens	nmod:at
+screens	phone	nmod:of
+people	Three	nummod
+screens	at	case
+ROOT	stare	root
+screens	the	det
+phone	of	case
+stare	.	punct
+phone	mobile	amod
+stare	people	nsubj

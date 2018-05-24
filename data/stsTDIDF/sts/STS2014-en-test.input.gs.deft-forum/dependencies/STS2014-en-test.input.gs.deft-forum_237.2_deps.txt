@@ -1,0 +1,8 @@
+root	ROOT	``
+root	``	Get
+det	government	the
+dobj	Get	government
+case	everything	into
+nmod:into	Get	everything
+punct	Get	?
+punct	Get	''

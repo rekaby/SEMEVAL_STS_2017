@@ -1,0 +1,10 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+case	attached	to
+punct	attached	-RRB-
+auxpass	attached	be
+advmod	attached	firmly
+nmod:to	Cause	attached
+cc	attached	or
+conj:or	attached	closed
+punct	Cause	.

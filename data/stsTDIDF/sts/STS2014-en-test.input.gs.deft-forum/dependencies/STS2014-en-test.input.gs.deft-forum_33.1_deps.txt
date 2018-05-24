@@ -1,0 +1,4 @@
+advmod	expensive	More
+amod	homes	expensive
+root	ROOT	homes
+punct	homes	.

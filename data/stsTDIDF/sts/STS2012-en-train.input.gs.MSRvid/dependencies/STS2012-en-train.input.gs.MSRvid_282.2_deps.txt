@@ -1,0 +1,8 @@
+det	man	A
+nsubj	talking	man
+case	library	in
+det	library	a
+nmod:in	man	library
+aux	talking	is
+root	ROOT	talking
+punct	talking	.

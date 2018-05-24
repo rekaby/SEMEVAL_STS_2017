@@ -1,0 +1,8 @@
+det	child	A
+amod	child	small
+nsubj	smiling	child
+root	ROOT	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+punct	smiling	.

@@ -1,0 +1,16 @@
+nummod	witness	One
+nsubj	told	witness
+root	ROOT	told
+det	agency	the
+compound	agency	Anatolian
+compound	agency	news
+dobj	told	agency
+nsubj	saw	he
+acl:relcl	agency	saw
+det	plane	the
+dobj	saw	plane
+case	fire	on
+nmod:on	plane	fire
+case	mid-air	in
+nmod:in	plane	mid-air
+punct	told	.

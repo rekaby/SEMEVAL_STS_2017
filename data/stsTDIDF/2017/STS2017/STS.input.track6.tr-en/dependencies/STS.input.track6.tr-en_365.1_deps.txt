@@ -1,0 +1,7 @@
+det	player	The
+nsubj	wearing	player
+aux	wearing	is
+root	ROOT	wearing
+det	uniform	a
+dobj	wearing	uniform
+punct	wearing	.

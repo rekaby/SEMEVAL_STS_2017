@@ -1,0 +1,9 @@
+root	ROOT	Image
+case	Puzzle	of
+compound	Puzzle	Manti
+compound	Puzzle	Te?o
+compound	Puzzle	Becomes
+nmod:of	Image	Puzzle
+case	Swirl	as
+compound	Swirl	Theories
+nmod:as	Image	Swirl

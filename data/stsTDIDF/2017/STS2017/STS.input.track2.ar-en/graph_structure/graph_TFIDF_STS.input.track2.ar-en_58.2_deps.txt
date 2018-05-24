@@ -1,0 +1,9 @@
+covered	fog	nmod:by
+water	land	conj:and
+fog	by	case
+water	covered	acl
+water	on	case
+fence	water	nmod:on
+look	fence	nmod:through
+look	group	nsubj
+fence	through	case

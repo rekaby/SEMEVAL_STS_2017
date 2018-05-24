@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	walking
+det	horse	a
+amod	horse	large
+amod	horse	black
+dobj	walking	horse
+punct	man	.

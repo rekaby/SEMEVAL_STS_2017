@@ -1,0 +1,9 @@
+nsubj	ready	Mission
+advmod	ready	over
+punct	ready	,
+nsubj	ready	Congress
+root	ROOT	ready
+mark	agree	to
+xcomp	ready	agree
+case	Libya	on
+nmod:on	agree	Libya

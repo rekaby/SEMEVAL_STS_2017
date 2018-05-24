@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+compound:prt	cutting	up
+det	potato	a
+dobj	cutting	potato
+punct	cutting	.

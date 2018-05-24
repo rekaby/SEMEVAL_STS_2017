@@ -1,0 +1,4 @@
+det	day	the
+root	ROOT	day
+case	today	before
+nmod:before	day	today

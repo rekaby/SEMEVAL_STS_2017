@@ -1,0 +1,11 @@
+nsubj	have	terminal
+dep	terminal	1
+cc	1	and
+conj:and	1	2
+root	ROOT	have
+det	difference	the
+amod	difference	same
+dobj	have	difference
+case	states	in
+amod	states	electrical
+nmod:in	difference	states

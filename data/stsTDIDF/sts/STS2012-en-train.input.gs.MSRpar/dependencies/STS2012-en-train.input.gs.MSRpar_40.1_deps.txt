@@ -1,0 +1,16 @@
+nsubj	said	Boeing
+root	ROOT	said
+det	agreement	the
+amod	agreement	final
+nsubjpass	expected	agreement
+auxpass	expected	is
+ccomp	said	expected
+mark	signed	to
+auxpass	signed	be
+xcomp	expected	signed
+case	weeks	during
+det	weeks	the
+amod	weeks	next
+amod	weeks	few
+nmod:during	signed	weeks
+punct	said	.

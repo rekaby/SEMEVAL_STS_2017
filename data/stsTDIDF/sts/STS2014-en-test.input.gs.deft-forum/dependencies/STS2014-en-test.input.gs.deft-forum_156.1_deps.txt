@@ -1,0 +1,13 @@
+case	year	Like
+det	year	this
+root	ROOT	year
+amod	year	old
+nsubjpass	shot	who
+auxpass	shot	was
+ccomp	old	shot
+xcomp	shot	dead
+case	crime	in
+det	crime	a
+amod	crime	marijuana-related
+nmod:in	dead	crime
+punct	year	.

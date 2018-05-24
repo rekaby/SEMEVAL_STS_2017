@@ -1,0 +1,8 @@
+det	cheetah	A
+nsubj	running	cheetah
+aux	running	is
+root	ROOT	running
+case	field	across
+det	field	a
+nmod:across	running	field
+punct	running	.

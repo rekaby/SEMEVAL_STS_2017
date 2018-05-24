@@ -1,0 +1,8 @@
+nsubj	ruled	Nothing
+root	ROOT	ruled
+compound:prt	ruled	out
+case	battery	as
+compound	studies	NTSB
+compound	battery	studies
+compound	battery	Dreamliner
+nmod:as	ruled	battery

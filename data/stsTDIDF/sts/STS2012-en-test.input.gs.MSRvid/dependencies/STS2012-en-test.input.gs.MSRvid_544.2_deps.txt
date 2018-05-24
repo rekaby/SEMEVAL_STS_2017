@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	tapping	woman
+aux	tapping	is
+root	ROOT	tapping
+nmod:poss	fingers	her
+dobj	tapping	fingers
+case	table	on
+det	table	the
+nmod:on	tapping	table
+punct	tapping	.

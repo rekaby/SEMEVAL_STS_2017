@@ -1,0 +1,13 @@
+root	ROOT	Man
+acl	Man	sitting
+case	drink	on
+det	drink	a
+compound	drink	bench
+nmod:on	sitting	drink
+case	mug	from
+det	mug	a
+nmod:from	drink	mug
+acl	mug	surrounded
+case	rugs	by
+nmod:by	surrounded	rugs
+punct	Man	.

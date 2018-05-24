@@ -1,0 +1,8 @@
+compound	standing	Man
+root	ROOT	standing
+case	corvette	in
+mwe	in	front
+mwe	in	of
+amod	corvette	yellow
+nmod:in_front_of	standing	corvette
+punct	standing	.

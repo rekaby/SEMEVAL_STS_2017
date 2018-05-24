@@ -1,0 +1,8 @@
+compound	Black	Easy
+compound	Black	Rider
+compound	Black	Actress
+compound	Black	Karen
+nsubj	Dies	Black
+root	ROOT	Dies
+case	Cancer	Of
+nmod:of	Dies	Cancer

@@ -1,0 +1,9 @@
+nsubj	bracing	Hawaii
+root	ROOT	bracing
+case	hurricane	as
+amod	hurricane	first
+nmod:as	bracing	hurricane
+case	years	in
+nummod	years	22
+nmod:in	bracing	years
+dobj	bracing	approaches

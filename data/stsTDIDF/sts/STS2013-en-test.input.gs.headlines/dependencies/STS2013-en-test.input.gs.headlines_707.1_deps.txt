@@ -1,0 +1,6 @@
+nummod	shooting	7
+amod	shooting	dead
+case	school	in
+amod	school	Christian
+nmod:in	dead	school
+root	ROOT	shooting

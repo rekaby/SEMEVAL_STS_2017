@@ -1,0 +1,5 @@
+root	ROOT	reduce
+det	price	the
+dobj	reduce	price
+case	something	of
+nmod:of	price	something

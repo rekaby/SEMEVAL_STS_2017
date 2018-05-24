@@ -1,0 +1,12 @@
+compound	stick	Woman
+compound	stick	suit
+compound	stick	pool
+root	ROOT	stick
+case	edge	to
+det	edge	the
+nmod:to	stick	edge
+case	pool	of
+det	pool	the
+compound	pool	swimming
+nmod:of	edge	pool
+punct	stick	.

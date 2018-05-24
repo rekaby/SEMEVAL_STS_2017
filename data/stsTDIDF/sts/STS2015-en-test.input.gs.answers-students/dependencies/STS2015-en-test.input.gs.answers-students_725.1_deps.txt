@@ -1,0 +1,14 @@
+det	terminal	The
+amod	terminal	positive
+compound	terminal	battery
+nsubjpass	seperated	terminal
+auxpass	seperated	was
+neg	seperated	not
+root	ROOT	seperated
+case	gap	by
+det	gap	a
+nmod:agent	seperated	gap
+case	4	from
+amod	4	terminal
+nmod:from	gap	4
+punct	seperated	.

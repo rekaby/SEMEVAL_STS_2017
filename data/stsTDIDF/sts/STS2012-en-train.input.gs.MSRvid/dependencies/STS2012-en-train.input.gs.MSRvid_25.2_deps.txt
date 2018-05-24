@@ -1,0 +1,8 @@
+det	train	A
+compound	train	toy
+nsubj	strikes	train
+root	ROOT	strikes
+det	car	a
+compound	car	toy
+dobj	strikes	car
+punct	strikes	.

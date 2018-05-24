@@ -1,0 +1,17 @@
+root	ROOT	What
+cop	What	are
+det	types	the
+nsubj	What	types
+case	Guitar	of
+nmod:of	types	Guitar
+amod	Guitar	available
+cc	Guitar	and
+nsubj	pros	what
+cop	pros	are
+det	pros	the
+conj:and	Guitar	pros
+cc	pros	and
+conj:and	pros	cons
+case	each	of
+nmod:of	cons	each
+punct	What	?

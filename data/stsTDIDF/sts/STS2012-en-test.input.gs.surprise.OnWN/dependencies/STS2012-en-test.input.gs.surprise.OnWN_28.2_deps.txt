@@ -1,0 +1,12 @@
+det	denture	a
+nsubj	anchored	denture
+root	ROOT	anchored
+case	teeth	to
+nmod:to	anchored	teeth
+case	side	on
+det	side	either
+nmod:on	teeth	side
+case	teeth	of
+amod	teeth	missing
+nmod:of	side	teeth
+punct	anchored	.

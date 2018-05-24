@@ -1,0 +1,7 @@
+det	photoshoot	A
+root	ROOT	photoshoot
+case	band	for
+det	band	a
+amod	band	popular
+nmod:for	photoshoot	band
+punct	photoshoot	.

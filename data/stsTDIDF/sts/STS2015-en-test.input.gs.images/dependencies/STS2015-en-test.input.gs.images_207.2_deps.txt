@@ -1,0 +1,11 @@
+det	child	A
+nsubj	playing	child
+aux	playing	is
+root	ROOT	playing
+case	geese	with
+nummod	geese	two
+amod	geese	white
+cc	white	and
+conj:and	white	black
+nmod:with	playing	geese
+punct	playing	.

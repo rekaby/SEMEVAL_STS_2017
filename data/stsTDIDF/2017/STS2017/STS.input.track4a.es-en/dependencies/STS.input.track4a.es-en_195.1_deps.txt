@@ -1,0 +1,11 @@
+det	woman	An
+amod	woman	old
+nsubj	looks	woman
+root	ROOT	looks
+case	life	at
+nmod:at	looks	life
+case	bench	on
+det	bench	a
+compound	bench	park
+nmod:on	looks	bench
+punct	looks	.

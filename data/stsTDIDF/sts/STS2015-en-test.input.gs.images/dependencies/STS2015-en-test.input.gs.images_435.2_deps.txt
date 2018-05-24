@@ -1,0 +1,11 @@
+det	dog	A
+amod	black	large
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	runs	dog
+root	ROOT	runs
+case	water	in
+det	water	the
+compound	water	ocean
+nmod:in	runs	water

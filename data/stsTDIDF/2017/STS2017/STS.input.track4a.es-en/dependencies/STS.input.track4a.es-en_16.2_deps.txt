@@ -1,0 +1,8 @@
+det	people	The
+nsubj	sleeping	people
+aux	sleeping	are
+root	ROOT	sleeping
+case	grass	in
+det	grass	the
+nmod:in	sleeping	grass
+punct	sleeping	.

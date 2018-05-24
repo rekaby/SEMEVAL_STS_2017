@@ -1,0 +1,12 @@
+root	ROOT	form
+det	picture	a
+amod	picture	mental
+dobj	form	picture
+case	something	of
+nmod:of	picture	something
+nsubj	invisible	that
+cop	invisible	is
+acl:relcl	something	invisible
+cc	invisible	or
+conj:or	invisible	abstract
+punct	form	.

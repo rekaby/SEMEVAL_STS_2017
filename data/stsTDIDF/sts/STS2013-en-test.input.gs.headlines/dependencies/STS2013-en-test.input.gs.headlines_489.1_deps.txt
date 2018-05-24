@@ -1,0 +1,7 @@
+nsubj	Set	EU
+root	ROOT	Set
+case	Sanctions	for
+compound	Sanctions	New
+nmod:for	Set	Sanctions
+case	Iran	on
+nmod:on	Set	Iran

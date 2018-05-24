@@ -1,0 +1,7 @@
+plane	.	punct
+plane	hangar	nmod:in
+ROOT	plane	root
+plane	is	cop
+hangar	in	case
+plane	THere	nsubj
+hangar	the	det

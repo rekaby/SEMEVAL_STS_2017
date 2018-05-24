@@ -1,0 +1,12 @@
+compound	strike	Chicago
+compound	strike	teacher
+nsubj	nears	strike
+root	ROOT	nears
+dobj	nears	end
+case	framework	with
+punct	framework	`
+acl:with	end	framework
+punct	framework	'
+dobj	framework	agreement
+case	place	in
+nmod:in	agreement	place

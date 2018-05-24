@@ -1,0 +1,12 @@
+det	person	A
+root	ROOT	person
+acl	person	wearing
+det	talks	a
+compound	talks	bike
+compound	talks	helmet
+dobj	wearing	talks
+case	phone	on
+det	phone	a
+compound	phone	cell
+nmod:on	wearing	phone
+punct	person	.

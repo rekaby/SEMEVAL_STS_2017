@@ -1,0 +1,13 @@
+cc	stain	and
+expl	stain	there
+aux	stain	will
+neg	stain	not
+cop	stain	be
+det	stain	any
+root	ROOT	stain
+case	money	on
+det	money	that
+nmod:on	stain	money
+acl	money	abetting
+dobj	abetting	abortions
+punct	stain	.

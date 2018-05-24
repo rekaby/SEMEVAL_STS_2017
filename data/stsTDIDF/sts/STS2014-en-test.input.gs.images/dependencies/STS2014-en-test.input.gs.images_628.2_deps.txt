@@ -1,0 +1,9 @@
+root	ROOT	Pile
+case	debris	of
+amod	debris	wooden
+nmod:of	Pile	debris
+case	chair	with
+nmod:with	Pile	chair
+case	top	on
+nmod:on	Pile	top
+punct	Pile	.

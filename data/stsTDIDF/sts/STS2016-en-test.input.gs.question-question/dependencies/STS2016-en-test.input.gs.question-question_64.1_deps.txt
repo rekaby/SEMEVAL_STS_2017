@@ -1,0 +1,10 @@
+root	ROOT	Is
+nsubj	safe	it
+xcomp	Is	safe
+mark	leave	to
+xcomp	safe	leave
+dobj	leave	butter
+case	temperature	at
+compound	temperature	room
+nmod:at	leave	temperature
+punct	Is	?

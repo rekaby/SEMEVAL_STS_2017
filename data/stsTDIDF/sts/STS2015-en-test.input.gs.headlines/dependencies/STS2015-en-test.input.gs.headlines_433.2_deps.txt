@@ -1,0 +1,9 @@
+nmod:poss	Musharraf	Pakistan
+case	Pakistan	's
+nsubj	arrives	Musharraf
+root	ROOT	arrives
+case	court	at
+nmod:at	arrives	court
+case	time	for
+amod	time	first
+nmod:for	arrives	time

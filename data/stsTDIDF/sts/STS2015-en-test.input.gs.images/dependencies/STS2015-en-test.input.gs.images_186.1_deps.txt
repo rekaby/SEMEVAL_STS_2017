@@ -1,0 +1,11 @@
+nummod	dogs	Two
+amod	dogs	large
+amod	dogs	black
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	playing	field
+punct	playing	.

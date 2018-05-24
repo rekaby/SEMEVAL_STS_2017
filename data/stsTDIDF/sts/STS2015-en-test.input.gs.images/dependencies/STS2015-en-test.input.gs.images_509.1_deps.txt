@@ -1,0 +1,11 @@
+det	beagle	The
+nsubj	walking	beagle
+aux	walking	is
+root	ROOT	walking
+case	beach	on
+det	beach	the
+nmod:on	walking	beach
+case	waterline	at
+det	waterline	the
+nmod:at	walking	waterline
+punct	walking	.

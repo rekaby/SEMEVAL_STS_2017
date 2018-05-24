@@ -1,0 +1,5 @@
+nsubj	responds	Russia
+root	ROOT	responds
+case	Ukraine	to
+nmod:to	responds	Ukraine
+dobj	responds	ceasefire

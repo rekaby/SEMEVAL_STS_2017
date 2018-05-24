@@ -1,0 +1,15 @@
+compound	Bush	Mr
+nsubj	arrives	Bush
+root	ROOT	arrives
+case	Tuesday	on
+nmod:on	arrives	Tuesday
+case	visit	on
+det	visit	the
+amod	visit	first
+compound	visit	state
+nmod:on	arrives	visit
+case	President	by
+det	President	an
+amod	President	American
+nmod:by	visit	President
+punct	arrives	.

@@ -1,0 +1,4 @@
+has	pads	nmod:on
+has	man	nsubj
+pads	elbow	compound
+pads	on	case

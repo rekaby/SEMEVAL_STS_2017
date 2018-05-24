@@ -1,0 +1,8 @@
+root	ROOT	Blue
+cc	Blue	and
+amod	plane	red
+conj:and	Blue	plane
+case	flight	in
+amod	flight	mid-air
+nmod:in	Blue	flight
+punct	Blue	.

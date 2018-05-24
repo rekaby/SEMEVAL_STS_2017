@@ -1,0 +1,12 @@
+root	ROOT	Excuse
+det	infraction	some
+amod	infraction	minor
+amod	infraction	social
+dobj	Excuse	infraction
+punct	Excuse	;
+dep	Excuse	accept
+det	excuse	an
+dobj	accept	excuse
+case	something	for
+nmod:for	excuse	something
+punct	Excuse	.

@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	floor	on
+det	floor	the
+nmod:on	playing	floor
+punct	playing	.

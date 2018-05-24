@@ -1,0 +1,10 @@
+mark	open	if
+det	path	the
+nsubj	open	path
+cop	open	is
+advcl	be	open
+det	bulb	the
+dobj	open	bulb
+aux	be	will
+root	ROOT	be
+advmod	be	off

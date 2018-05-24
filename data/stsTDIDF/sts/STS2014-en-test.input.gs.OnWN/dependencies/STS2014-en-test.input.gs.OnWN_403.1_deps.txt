@@ -1,0 +1,8 @@
+det	nature	the
+root	ROOT	nature
+punct	nature	,
+conj:or	nature	makeup
+cc	nature	or
+conj:or	nature	constitution
+case	something	of
+nmod:of	nature	something

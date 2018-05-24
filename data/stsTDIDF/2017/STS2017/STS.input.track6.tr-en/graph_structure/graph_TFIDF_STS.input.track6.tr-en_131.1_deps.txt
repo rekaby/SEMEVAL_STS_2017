@@ -1,0 +1,8 @@
+swimming	.	punct
+swimming	is	aux
+day	sunny	amod
+swimming	day	nmod:on
+swimming	boy	nsubj
+swimming	ocean	nmod:in
+ocean	in	case
+ROOT	swimming	root

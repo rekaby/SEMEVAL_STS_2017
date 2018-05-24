@@ -1,0 +1,6 @@
+nummod	shooting	3
+amod	shooting	dead
+case	mall	in
+compound	mall	Maryland
+nmod:in	dead	mall
+root	ROOT	shooting

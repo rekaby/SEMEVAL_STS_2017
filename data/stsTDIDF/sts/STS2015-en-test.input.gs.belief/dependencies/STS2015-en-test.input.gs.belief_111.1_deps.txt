@@ -1,0 +1,16 @@
+nsubj	democracy	it
+cop	democracy	is
+det	democracy	a
+root	ROOT	democracy
+case	changes	with
+amod	changes	regular
+nmod:with	democracy	changes
+case	government	in
+nmod:in	changes	government
+dep	government	many
+case	them	of
+nmod:of	many	them
+amod	many	due
+case	coup	to
+nmod:to	due	coup
+punct	democracy	.

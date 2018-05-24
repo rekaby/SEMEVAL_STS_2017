@@ -1,0 +1,14 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	instrument	an
+dobj	playing	instrument
+nsubj	created	he
+acl:relcl	instrument	created
+case	money	for
+nmod:for	created	money
+case	street	on
+det	street	the
+nmod:on	money	street
+punct	playing	.

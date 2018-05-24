@@ -1,0 +1,5 @@
+det	man	A
+root	ROOT	man
+compound	potatoes	slices
+dep	man	potatoes
+punct	man	.

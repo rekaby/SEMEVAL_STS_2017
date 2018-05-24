@@ -1,0 +1,8 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+case	increase	to
+punct	increase	-RRB-
+nmod:to	Cause	increase
+case	anxiety	in
+nmod:in	increase	anxiety
+punct	Cause	.

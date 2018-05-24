@@ -1,0 +1,9 @@
+det	pair	A
+nsubj	walk	pair
+case	men	of
+nmod:of	pair	men
+root	ROOT	walk
+case	beach	along
+det	beach	the
+nmod:along	walk	beach
+punct	walk	.

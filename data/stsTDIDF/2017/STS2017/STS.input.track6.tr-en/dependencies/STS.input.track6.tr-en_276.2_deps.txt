@@ -1,0 +1,8 @@
+det	man	A
+nsubj	fell	man
+root	ROOT	fell
+case	street	on
+det	street	the
+nmod:on	fell	street
+case	night	at
+nmod:at	fell	night

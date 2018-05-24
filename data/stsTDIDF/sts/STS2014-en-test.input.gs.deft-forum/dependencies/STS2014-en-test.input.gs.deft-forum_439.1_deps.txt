@@ -1,0 +1,10 @@
+root	ROOT	.-1) root(ROOT-0, What
+cop	What	is
+nmod:poss	definition	your
+nsubj	What	definition
+case	force	of
+punct	force	``
+compound	force	life
+nmod:of	definition	force
+punct	force	''
+punct	What	?

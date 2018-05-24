@@ -1,0 +1,13 @@
+compound	Reynolds	Burt
+nsubj	says	Reynolds
+case	care	in
+amod	care	intensive
+nmod:in	Reynolds	care
+case	hospital	in
+compound	hospital	Florida
+nmod:in	care	hospital
+case	flu	after
+nmod:after	Reynolds	flu
+punct	Reynolds	,
+appos	Reynolds	rep
+root	ROOT	says

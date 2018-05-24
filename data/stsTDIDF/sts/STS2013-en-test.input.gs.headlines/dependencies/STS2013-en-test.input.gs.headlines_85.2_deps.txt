@@ -1,0 +1,7 @@
+nsubj	seeks	Turkey
+root	ROOT	seeks
+mark	relocate	to
+xcomp	seeks	relocate
+det	refugees	some
+amod	refugees	Syrian
+dobj	relocate	refugees

@@ -1,0 +1,5 @@
+nsubj	mourns	World
+root	ROOT	mourns
+dobj	mourns	passing
+case	Mandela	of
+nmod:of	passing	Mandela

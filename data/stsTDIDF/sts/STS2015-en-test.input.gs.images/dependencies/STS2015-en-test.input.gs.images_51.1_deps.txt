@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	brown
+nsubj	resting	dog
+aux	resting	is
+root	ROOT	resting
+nmod:poss	paws	its
+dobj	resting	paws
+case	keyboard	on
+det	keyboard	a
+compound	keyboard	laptop
+nmod:on	resting	keyboard
+punct	resting	.

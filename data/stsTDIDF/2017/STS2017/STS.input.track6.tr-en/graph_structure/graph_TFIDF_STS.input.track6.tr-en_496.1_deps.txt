@@ -1,0 +1,9 @@
+standing	rails	nmod:on
+boardwalk	fishing	appos
+rails	boardwalk	nmod:of
+boardwalk	,	punct
+rails	the	det
+boardwalk	a	det
+rails	on	case
+boardwalk	of	case
+standing	girl	nsubj

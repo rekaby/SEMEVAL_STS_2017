@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	sitting
+case	table	around
+det	table	a
+nmod:around	sitting	table
+case	food	with
+nmod:with	table	food
+case	it	on
+nmod:on	sitting	it
+punct	group	.

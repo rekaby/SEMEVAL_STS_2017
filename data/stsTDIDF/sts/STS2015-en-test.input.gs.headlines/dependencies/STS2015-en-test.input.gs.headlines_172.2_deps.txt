@@ -1,0 +1,10 @@
+amod	patrons	Deaf
+compound	patrons	NY
+compound	patrons	Starbucks
+nsubj	sue	patrons
+root	ROOT	sue
+punct	sue	,
+dep	sue	say
+nsubjpass	mocked	they
+auxpass	mocked	're
+ccomp	say	mocked

@@ -1,0 +1,21 @@
+nsubj	laughable	It
+cop	laughable	is
+ccomp	met	laughable
+mark	believe	to
+xcomp	laughable	believe
+det	story	the
+amod	story	whole
+dobj	believe	story
+punct	met	,
+nsubj	met	they
+neg	met	never
+root	ROOT	met
+punct	met	?-13) nsubj(Becomes-2, Image
+root	ROOT	Becomes
+det	Puzzle	a
+dobj	Becomes	Puzzle
+case	Theories	as
+nmod:as	Becomes	Theories
+case	Te?o	on
+nmod:on	Theories	Te?o
+dep	Becomes	Swirl

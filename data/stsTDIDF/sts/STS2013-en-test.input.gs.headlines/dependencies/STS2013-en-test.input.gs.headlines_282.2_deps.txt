@@ -1,0 +1,6 @@
+compound	Marines	US
+nsubj	killed	Marines
+root	ROOT	killed
+case	attack	in
+compound	attack	base
+nmod:in	killed	attack

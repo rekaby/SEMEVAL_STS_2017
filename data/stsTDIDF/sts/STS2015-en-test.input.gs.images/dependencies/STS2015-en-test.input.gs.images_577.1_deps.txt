@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	water	in
+det	water	the
+nmod:in	sitting	water
+punct	sitting	.

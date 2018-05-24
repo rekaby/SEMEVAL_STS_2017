@@ -1,0 +1,9 @@
+det	person	A
+nsubj	uses	person
+root	ROOT	uses
+det	blowtorch	a
+dobj	uses	blowtorch
+case	cameras	on
+nummod	cameras	two
+nmod:on	uses	cameras
+punct	uses	.

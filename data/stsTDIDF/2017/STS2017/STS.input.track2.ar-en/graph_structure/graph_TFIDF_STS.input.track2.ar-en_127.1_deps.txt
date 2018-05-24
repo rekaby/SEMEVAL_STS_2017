@@ -1,0 +1,7 @@
+chatting	men	nsubj
+ROOT	chatting	root
+heist	bank	compound
+chatting	.	punct
+heist	a	det
+chatting	heist	nmod:about
+heist	about	case

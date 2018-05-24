@@ -1,0 +1,10 @@
+nsubj	banging	Someone
+aux	banging	is
+root	ROOT	banging
+det	camera	a
+dobj	banging	camera
+amod	camera	lense
+case	nail	against
+det	nail	a
+nmod:against	lense	nail
+punct	banging	.

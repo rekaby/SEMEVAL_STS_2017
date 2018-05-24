@@ -1,0 +1,15 @@
+compound	b	bulb
+nsubj	create	b
+aux	create	did
+neg	create	not
+root	ROOT	create
+det	gap	a
+dobj	create	gap
+case	path	in
+det	path	the
+nmod:in	gap	path
+case	bulb	for
+nmod:for	path	bulb
+dep	bulb	a
+cc	a	and
+conj:and	a	c

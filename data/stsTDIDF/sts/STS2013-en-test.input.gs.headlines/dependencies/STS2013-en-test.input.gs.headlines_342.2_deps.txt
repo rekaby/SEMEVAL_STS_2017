@@ -1,0 +1,7 @@
+nsubj	set	Chavez
+root	ROOT	set
+case	radiotherapy	for
+amod	radiotherapy	more
+nmod:for	set	radiotherapy
+case	Cuba	in
+nmod:in	radiotherapy	Cuba

@@ -1,0 +1,14 @@
+amod	kyrgyzstan	neighboring
+nsubj	experienced	kyrgyzstan
+aux	experienced	has
+advmod	experienced	also
+root	ROOT	experienced
+dobj	experienced	raids
+case	militants	by
+amod	militants	taliban-backed
+amod	militants	islamic
+nmod:by	experienced	militants
+case	years	in
+amod	years	recent
+nmod:in	experienced	years
+punct	experienced	.

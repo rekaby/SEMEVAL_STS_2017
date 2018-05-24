@@ -1,0 +1,13 @@
+nummod	unions	2
+amod	unions	Turkish
+nsubj	call	unions
+root	ROOT	call
+case	strike	for
+nmod:for	call	strike
+case	Monday	on
+nmod:on	strike	Monday
+case	protest	in
+nmod:in	strike	protest
+case	violence	over
+compound	violence	police
+nmod:over	protest	violence

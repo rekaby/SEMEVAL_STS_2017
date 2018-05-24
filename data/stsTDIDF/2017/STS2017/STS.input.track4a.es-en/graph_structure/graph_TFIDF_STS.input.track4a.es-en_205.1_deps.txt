@@ -1,0 +1,10 @@
+crossing	pedestrian	amod
+green	to	case
+crossing	the	det
+change	green	nmod:to
+crossing	of	case
+light	for	case
+light	crossing	nmod:of
+waiting	women	nsubj
+crossing	change	xcomp
+waiting	light	nmod:for

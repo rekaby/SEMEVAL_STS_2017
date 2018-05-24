@@ -1,0 +1,6 @@
+nsubj	Resurrect	Scientists
+root	ROOT	Resurrect
+dobj	Resurrect	Flowers
+case	Seeds	from
+amod	Seeds	Prehistoric
+nmod:from	Resurrect	Seeds

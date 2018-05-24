@@ -1,0 +1,13 @@
+nummod	people	Two
+nsubj	paddling	people
+root	ROOT	paddling
+case	canoe	in
+det	canoe	a
+amod	canoe	red
+nmod:in	paddling	canoe
+case	trees	with
+nmod:with	canoe	trees
+case	background	in
+det	background	the
+nmod:in	canoe	background
+punct	paddling	.

@@ -1,0 +1,11 @@
+crowd	huge	amod
+band	in	case
+crazy	band	nmod:in_front_of
+band	heavy	amod
+ROOT	dancing	root
+dancing	crowd	nsubj
+dancing	.	punct
+band	rock	compound
+dancing	crazy	xcomp
+crowd	A	det
+dancing	is	aux

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	climbing	woman
+aux	climbing	is
+root	ROOT	climbing
+det	wall	a
+compound	wall	rock
+dobj	climbing	wall
+punct	climbing	.

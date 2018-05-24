@@ -1,0 +1,8 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	serving
+dobj	serving	volleyballs
+case	net	over
+det	net	a
+nmod:over	serving	net
+punct	woman	.

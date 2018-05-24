@@ -1,0 +1,16 @@
+compound	tax	UK
+compound	tax	income
+root	ROOT	tax
+cc	tax	&
+amod	donations	charitable
+conj:&	tax	donations
+punct	tax	:
+advmod	much	How
+nsubj	tax	much
+cop	tax	is
+compound	tax	income
+dep	tax	tax
+acl	tax	reduced
+case	donations	by
+nmod:by	reduced	donations
+punct	tax	?

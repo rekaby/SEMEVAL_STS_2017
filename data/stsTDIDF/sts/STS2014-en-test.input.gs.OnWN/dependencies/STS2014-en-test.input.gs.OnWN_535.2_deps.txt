@@ -1,0 +1,10 @@
+root	ROOT	combine
+advmod	form	so
+mark	form	as
+mark	form	to
+xcomp	combine	form
+det	whole	a
+dobj	form	whole
+punct	combine	;
+dep	combine	mix
+punct	combine	.

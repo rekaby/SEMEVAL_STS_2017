@@ -1,0 +1,5 @@
+compound	vote	Egyptians
+root	ROOT	vote
+case	constitution	on
+amod	constitution	divisive
+nmod:on	vote	constitution

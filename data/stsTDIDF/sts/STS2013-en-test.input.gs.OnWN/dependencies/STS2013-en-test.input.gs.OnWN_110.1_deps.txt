@@ -1,0 +1,12 @@
+nsubj	attach	fill
+punct	attach	,
+root	ROOT	attach
+punct	attach	,
+dobj	attach	fix
+case	gum	with
+punct	gum	,
+cop	gum	or
+case	gum	as
+mwe	as	if
+case	gum	with
+nmod:as_if	fix	gum

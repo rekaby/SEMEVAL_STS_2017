@@ -1,0 +1,11 @@
+punct	Cause	-LRB-
+dep	become	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	become
+det	powder	a
+xcomp	become	powder
+cc	powder	or
+case	dust	as
+conj:or	powder	dust
+punct	become	.

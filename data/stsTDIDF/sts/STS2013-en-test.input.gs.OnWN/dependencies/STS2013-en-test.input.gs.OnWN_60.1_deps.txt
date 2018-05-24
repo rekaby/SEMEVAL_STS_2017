@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	moving	of
+acl	act	moving
+punct	moving	,
+xcomp	moving	turning
+dobj	turning	something

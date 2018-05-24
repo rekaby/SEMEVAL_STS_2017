@@ -1,0 +1,12 @@
+root	ROOT	Is
+nsubj	advisable	it
+xcomp	Is	advisable
+mark	apply	to
+xcomp	advisable	apply
+case	program	to
+advmod	one	more
+mwe	more	than
+nummod	program	one
+compound	program	PhD
+nmod:to	apply	program
+punct	Is	?

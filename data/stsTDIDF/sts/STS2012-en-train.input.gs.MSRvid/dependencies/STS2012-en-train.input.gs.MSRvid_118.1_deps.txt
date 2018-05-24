@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	jumps	girl
+root	ROOT	jumps
+case	car	on
+det	car	a
+nmod:on	jumps	car
+punct	jumps	.

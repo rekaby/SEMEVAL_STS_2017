@@ -1,0 +1,9 @@
+det	year	a
+nummod	year	twelve
+nmod:npmod	old	year
+amod	girl	old
+nsubj	eats	girl
+root	ROOT	eats
+compound	cream	chocolate
+compound	cream	ice
+dobj	eats	cream

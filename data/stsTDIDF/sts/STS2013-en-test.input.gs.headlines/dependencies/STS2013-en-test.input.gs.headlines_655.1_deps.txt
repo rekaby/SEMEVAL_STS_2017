@@ -1,0 +1,8 @@
+compound	strike	NATO
+nsubj	kills	strike
+punct	kills	`
+root	ROOT	kills
+dobj	kills	civilians
+case	civilians	'
+case	Afghanistan	in
+nmod:in	civilians	Afghanistan

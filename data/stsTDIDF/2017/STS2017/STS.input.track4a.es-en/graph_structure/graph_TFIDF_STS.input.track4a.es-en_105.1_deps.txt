@@ -1,0 +1,5 @@
+waiting	outside	amod
+walk	for	case
+waiting	is	aux
+waiting	walk	nmod:for
+waiting	woman	nsubj

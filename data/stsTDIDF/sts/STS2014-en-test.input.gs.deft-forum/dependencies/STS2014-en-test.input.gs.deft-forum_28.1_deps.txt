@@ -1,0 +1,11 @@
+dep	thought	Funny
+punct	thought	,
+nsubj	thought	I
+root	ROOT	thought
+det	thing	the
+amod	thing	same
+dobj	thought	thing
+case	math	about
+det	math	some
+nmod:about	thing	math
+punct	thought	.

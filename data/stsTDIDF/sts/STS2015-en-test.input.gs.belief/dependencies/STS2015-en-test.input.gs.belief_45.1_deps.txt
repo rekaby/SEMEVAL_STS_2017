@@ -1,0 +1,14 @@
+case	mentality	given
+det	mentality	the
+amod	mentality	israeli
+root	ROOT	mentality
+nsubj	say	i
+aux	say	would
+acl:relcl	mentality	say
+nsubj	see	we
+aux	see	will
+ccomp	say	see
+nsubj	strike	them
+ccomp	see	strike
+dobj	strike	iran
+punct	mentality	.

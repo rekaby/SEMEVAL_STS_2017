@@ -1,0 +1,7 @@
+nsubj	worked	it
+root	ROOT	worked
+case	case	in
+det	case	the
+compound	case	snyder
+nmod:in	worked	case
+punct	worked	.

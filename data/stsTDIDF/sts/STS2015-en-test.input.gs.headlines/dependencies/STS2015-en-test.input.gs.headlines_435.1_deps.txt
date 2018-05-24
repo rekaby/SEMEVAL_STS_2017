@@ -1,0 +1,8 @@
+amod	court	Guatemalan
+nsubj	finds	court
+root	ROOT	finds
+amod	dictator	former
+dobj	finds	dictator
+amod	dictator	guilty
+case	genocide	of
+nmod:of	guilty	genocide

@@ -1,0 +1,8 @@
+amod	court	German
+nsubj	weighs	court
+root	ROOT	weighs
+compound	ruling	delay
+case	fund	to
+compound	fund	euro
+nmod:to	delay	fund
+dobj	weighs	ruling

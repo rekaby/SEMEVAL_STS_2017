@@ -1,0 +1,4 @@
+eats	.	punct
+eats	boy	nsubj
+ROOT	eats	root
+eats	food	dobj

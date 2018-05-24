@@ -1,0 +1,14 @@
+det	car	A
+nsubj	pulling	car
+aux	pulling	is
+root	ROOT	pulling
+compound:prt	pulling	off
+det	side	the
+dobj	pulling	side
+case	road	of
+det	road	the
+nmod:of	side	road
+case	street	onto
+det	street	the
+nmod:onto	pulling	street
+punct	pulling	.

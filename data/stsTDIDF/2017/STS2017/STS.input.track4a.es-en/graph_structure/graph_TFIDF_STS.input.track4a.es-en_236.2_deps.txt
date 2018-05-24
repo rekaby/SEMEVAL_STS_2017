@@ -1,0 +1,6 @@
+ROOT	asleep	root
+asleep	.	punct
+bed	on	case
+asleep	dog	nsubj
+asleep	is	cop
+asleep	bed	nmod:on

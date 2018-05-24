@@ -1,0 +1,10 @@
+nummod	accident	1
+amod	accident	dead
+punct	accident	,
+nummod	accident	39
+acl	39	injured
+case	road	in
+compound	road	E
+compound	road	China
+nmod:in	injured	road
+root	ROOT	accident

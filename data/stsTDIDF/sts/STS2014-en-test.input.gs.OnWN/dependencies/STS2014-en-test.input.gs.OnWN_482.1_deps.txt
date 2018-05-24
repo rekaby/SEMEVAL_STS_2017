@@ -1,0 +1,5 @@
+root	ROOT	settle
+cc	settle	or
+conj:or	settle	deal
+case	something	with
+nmod:with	settle	something

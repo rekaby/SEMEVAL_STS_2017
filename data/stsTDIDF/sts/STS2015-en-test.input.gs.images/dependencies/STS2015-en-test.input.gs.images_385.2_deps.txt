@@ -1,0 +1,9 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	does
+compound	tricks	skateboard
+dobj	does	tricks
+case	railing	on
+det	railing	a
+nmod:on	tricks	railing
+punct	boy	.

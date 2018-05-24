@@ -1,0 +1,8 @@
+happening	or	cc
+happening	him	nmod:to
+worrying	happening	csubj
+world	outside	amod
+happening	world	nmod:in
+happening	was	aux
+worrying	was	aux
+know	worrying	ccomp

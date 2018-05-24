@@ -1,0 +1,8 @@
+compound	gunmen	Syria
+nsubj	kill	gunmen
+root	ROOT	kill
+nummod	officers	three
+amod	officers	Syrian
+dobj	kill	officers
+punct	kill	:
+dep	kill	NGO

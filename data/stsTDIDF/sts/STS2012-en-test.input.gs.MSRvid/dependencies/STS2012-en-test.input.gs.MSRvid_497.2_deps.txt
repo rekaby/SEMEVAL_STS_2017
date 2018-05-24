@@ -1,0 +1,9 @@
+det	man	A
+nsubj	kissing	man
+aux	kissing	is
+root	ROOT	kissing
+det	woman	a
+dobj	kissing	woman
+case	stage	in
+nmod:in	kissing	stage
+punct	kissing	.

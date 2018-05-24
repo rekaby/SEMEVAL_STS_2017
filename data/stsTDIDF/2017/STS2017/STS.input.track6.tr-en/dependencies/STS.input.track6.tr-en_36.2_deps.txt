@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	walking	woman
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	street	the
+dobj	walking	street
+acl	street	talking
+case	phone	on
+det	phone	the
+nmod:on	talking	phone
+punct	walking	.

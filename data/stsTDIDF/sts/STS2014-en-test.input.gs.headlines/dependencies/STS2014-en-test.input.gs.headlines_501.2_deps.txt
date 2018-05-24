@@ -1,0 +1,8 @@
+root	ROOT	Obamas
+mark	meet	to
+acl	Obamas	meet
+compound	hospital	Mandela
+compound	hospital	family
+amod	hospital	wont
+compound	hospital	visit
+dobj	meet	hospital

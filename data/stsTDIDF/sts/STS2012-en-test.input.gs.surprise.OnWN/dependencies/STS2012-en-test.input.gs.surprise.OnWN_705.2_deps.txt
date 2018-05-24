@@ -1,0 +1,8 @@
+root	ROOT	cite
+case	authority	as
+det	authority	an
+nmod:as	cite	authority
+punct	cite	;
+dep	cite	resort
+dep	resort	to
+punct	cite	.

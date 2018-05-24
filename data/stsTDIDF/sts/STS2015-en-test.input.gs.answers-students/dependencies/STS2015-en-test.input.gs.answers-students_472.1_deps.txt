@@ -1,0 +1,11 @@
+dep	path	Bulb
+nsubj	path	a
+cop	path	was
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path
+case	battery	with
+det	battery	a
+nmod:with	path	battery
+punct	path	.

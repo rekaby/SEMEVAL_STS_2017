@@ -1,0 +1,17 @@
+det	total	The
+amod	total	dumping
+nsubj	focusing	total
+case	English	in
+nmod:in	total	English
+root	ROOT	focusing
+case	use	on
+det	use	the
+nmod:on	focusing	use
+advmod	constant	almost
+advmod	focusing	constant
+case	English	of
+nmod:of	constant	English
+case	investigation	in
+det	investigation	the
+nmod:in	constant	investigation
+punct	focusing	.

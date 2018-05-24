@@ -1,0 +1,6 @@
+nummod	kidnappers	Seven
+root	ROOT	kidnappers
+acl	kidnappers	killed
+case	Nigeria	in
+amod	Nigeria	southern
+nmod:in	killed	Nigeria

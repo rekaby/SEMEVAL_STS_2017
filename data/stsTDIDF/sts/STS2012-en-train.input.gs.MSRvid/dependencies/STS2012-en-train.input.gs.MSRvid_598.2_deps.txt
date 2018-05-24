@@ -1,0 +1,14 @@
+det	man	A
+nsubj	pours	man
+root	ROOT	pours
+det	plate	a
+dobj	pours	plate
+case	cheese	of
+amod	cheese	shredded
+nmod:of	plate	cheese
+case	pot	into
+det	pot	a
+nmod:into	pours	pot
+case	sauce	of
+nmod:of	pot	sauce
+punct	pours	.

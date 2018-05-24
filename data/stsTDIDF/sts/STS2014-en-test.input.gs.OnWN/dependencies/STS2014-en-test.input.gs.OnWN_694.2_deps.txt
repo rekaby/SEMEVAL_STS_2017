@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	contacting	of
+acl	act	contacting
+nummod	thing	one
+dobj	contacting	thing
+case	another	with
+nmod:with	contacting	another
+punct	act	.

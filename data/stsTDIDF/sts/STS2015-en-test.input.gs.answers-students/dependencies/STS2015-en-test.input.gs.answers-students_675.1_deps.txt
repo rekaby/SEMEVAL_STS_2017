@@ -1,0 +1,9 @@
+nsubj	path	it
+cop	path	is
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

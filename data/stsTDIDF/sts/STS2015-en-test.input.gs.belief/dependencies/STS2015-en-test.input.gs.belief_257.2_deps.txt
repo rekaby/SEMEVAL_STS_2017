@@ -1,0 +1,14 @@
+case	them	for
+nmod:for	question	them
+punct	question	,
+det	morality	the
+nsubj	question	morality
+cc	morality	or
+conj:or	morality	lack
+case	it	of
+nmod:of	morality	it
+cop	question	was
+neg	question	not
+det	question	the
+root	ROOT	question
+punct	question	.

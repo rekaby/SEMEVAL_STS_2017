@@ -1,0 +1,8 @@
+compound	blast	Doha
+compound	blast	gas
+nsubj	kills	blast
+root	ROOT	kills
+dobj	kills	12
+punct	kills	,
+conj	kills	injures
+dobj	injures	dozens

@@ -1,0 +1,10 @@
+amod	names	alternative
+root	ROOT	names
+case	body	for
+det	body	the
+nmod:for	names	body
+case	being	of
+det	being	a
+amod	being	human
+nmod:of	body	being
+punct	names	.

@@ -1,0 +1,8 @@
+compound	orders	U.S
+compound	orders	factory
+root	ROOT	orders
+advmod	orders	down
+nummod	pct	0.7
+nmod:npmod	down	pct
+case	January	in
+nmod:in	orders	January

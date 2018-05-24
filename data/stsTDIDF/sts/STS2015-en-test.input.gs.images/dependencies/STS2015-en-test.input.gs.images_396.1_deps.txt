@@ -1,0 +1,9 @@
+nummod	dogs	Three
+root	ROOT	dogs
+case	snow	in
+det	snow	the
+nmod:in	dogs	snow
+case	fence	by
+det	fence	a
+nmod:by	dogs	fence
+punct	dogs	.

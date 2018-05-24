@@ -1,0 +1,10 @@
+attempts	.	punct
+get	signal	dobj
+cafe	an	det
+cafe	internet	compound
+cafe	inside	case
+signal	cafe	nmod:inside
+ROOT	attempts	root
+signal	good	amod
+attempts	get	xcomp
+attempts	man	nsubj

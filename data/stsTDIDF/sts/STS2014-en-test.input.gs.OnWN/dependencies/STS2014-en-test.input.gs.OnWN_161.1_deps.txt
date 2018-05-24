@@ -1,0 +1,7 @@
+root	ROOT	come
+case	conflict	into
+nmod:into	come	conflict
+punct	come	,
+dep	come	meet
+case	opposition	in
+nmod:in	meet	opposition

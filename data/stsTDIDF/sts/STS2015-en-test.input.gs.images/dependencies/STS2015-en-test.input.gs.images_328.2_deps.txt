@@ -1,0 +1,9 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	lot	through
+det	lot	a
+nmod:through	running	lot
+case	twigs	of
+nmod:of	lot	twigs
+punct	dog	.

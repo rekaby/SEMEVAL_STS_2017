@@ -1,0 +1,12 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	spray	to
+punct	spray	-RRB-
+nmod:to	cause	spray
+cc	spray	or
+conj:or	spray	wet
+case	spurt	with
+det	spurt	a
+nmod:with	cause	spurt
+case	liquid	of
+nmod:of	spurt	liquid

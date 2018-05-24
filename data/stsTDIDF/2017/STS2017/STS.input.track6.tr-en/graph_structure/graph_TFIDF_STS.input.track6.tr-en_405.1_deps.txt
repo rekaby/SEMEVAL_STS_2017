@@ -1,0 +1,5 @@
+mopeds	on	case
+men	mopeds	nmod:on
+drive	down	compound:prt
+drive	men	nsubj
+drive	street	dobj

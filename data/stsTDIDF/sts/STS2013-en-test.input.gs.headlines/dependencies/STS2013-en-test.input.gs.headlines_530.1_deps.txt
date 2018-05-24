@@ -1,0 +1,7 @@
+nsubj	warns	France
+csubj	use	warns
+dobj	warns	Syria
+case	weapons	over
+compound	weapons	chemical
+nmod:over	warns	weapons
+root	ROOT	use

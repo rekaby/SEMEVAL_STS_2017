@@ -1,0 +1,5 @@
+root	ROOT	Full
+case	children	of
+compound	children	school
+nmod:of	Full	children
+punct	Full	.

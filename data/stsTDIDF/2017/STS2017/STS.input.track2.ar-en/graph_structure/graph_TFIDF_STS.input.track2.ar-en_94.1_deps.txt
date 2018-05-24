@@ -1,0 +1,4 @@
+Humans	.	punct
+ROOT	Humans	root
+Humans	shirts	nmod:in
+shirts	in	case

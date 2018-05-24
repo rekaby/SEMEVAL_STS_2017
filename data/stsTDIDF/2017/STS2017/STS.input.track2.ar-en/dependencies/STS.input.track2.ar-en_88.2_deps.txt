@@ -1,0 +1,8 @@
+det	father	A
+root	ROOT	father
+cc	father	and
+nmod:poss	sons	his
+nsubj	play	sons
+conj:and	father	play
+dobj	play	basketball
+punct	father	.

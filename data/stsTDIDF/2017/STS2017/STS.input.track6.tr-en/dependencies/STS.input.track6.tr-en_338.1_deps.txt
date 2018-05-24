@@ -1,0 +1,10 @@
+det	guy	The
+root	ROOT	guy
+acl	guy	is
+mark	get	about
+mark	get	to
+advcl	is	get
+case	car	into
+nmod:poss	car	his
+nmod:into	get	car
+punct	guy	.

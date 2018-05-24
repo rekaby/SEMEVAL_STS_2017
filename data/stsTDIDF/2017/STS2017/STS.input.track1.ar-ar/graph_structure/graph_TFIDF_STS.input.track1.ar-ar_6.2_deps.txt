@@ -1,0 +1,5 @@
+rocks	on	case
+walking	people	nsubj
+walking	rocks	nmod:on
+rocks	water	nmod:in
+rocks	some	det

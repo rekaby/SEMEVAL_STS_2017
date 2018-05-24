@@ -1,0 +1,10 @@
+compound	Blast	Yemen
+compound	Blast	Suicide
+root	ROOT	Blast
+punct	Blast	,
+compound	Attack	Drone
+nsubj	Kill	Attack
+acl:relcl	Blast	Kill
+case	Least	At
+nmod:at	Kill	Least
+dobj	Kill	30

@@ -1,0 +1,11 @@
+mark	understand	From
+dobj	understand	what
+nsubj	understand	I
+root	ROOT	understand
+nsubj	is	this
+ccomp	understand	is
+dobj	do	what
+nsubj	do	you
+aux	do	can
+ccomp	is	do
+punct	understand	:

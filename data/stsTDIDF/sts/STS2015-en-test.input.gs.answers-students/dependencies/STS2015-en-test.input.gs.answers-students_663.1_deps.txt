@@ -1,0 +1,13 @@
+expl	is	There
+root	ROOT	is
+neg	connection	no
+nsubj	is	connection
+case	terminal	between
+det	terminal	the
+compound	terminal	bulb
+nmod:between	connection	terminal
+cc	terminal	and
+det	terminal	the
+compound	terminal	battery
+conj:and	terminal	terminal
+punct	is	.

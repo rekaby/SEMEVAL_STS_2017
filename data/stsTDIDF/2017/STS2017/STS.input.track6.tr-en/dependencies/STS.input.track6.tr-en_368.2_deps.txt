@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	pulls	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	woman	shirt
+root	ROOT	pulls
+det	camera	a
+dobj	pulls	camera
+case	tent	in
+det	tent	a
+nmod:in	pulls	tent
+punct	pulls	.

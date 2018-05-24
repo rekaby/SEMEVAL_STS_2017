@@ -1,0 +1,9 @@
+compound	Rush	Benjamin
+root	ROOT	Rush
+punct	Rush	,
+appos	Rush	physician
+cc	physician	and
+amod	leader	American
+compound	leader	Revolutionary
+conj:and	physician	leader
+punct	Rush	.

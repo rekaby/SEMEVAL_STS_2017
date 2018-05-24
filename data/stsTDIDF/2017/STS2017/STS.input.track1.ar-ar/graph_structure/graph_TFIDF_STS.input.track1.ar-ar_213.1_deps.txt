@@ -1,0 +1,12 @@
+sitting	bench	nmod:on
+adults	Two	nummod
+bench	a	det
+takes	someone	nsubj
+bench	park	compound
+adults	.	punct
+children	sitting	acl
+takes	while	mark
+adults	children	conj:and
+adults	takes	acl
+takes	picture	dobj
+ROOT	adults	root

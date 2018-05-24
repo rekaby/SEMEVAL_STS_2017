@@ -1,0 +1,17 @@
+det	set	a
+root	ROOT	set
+case	pieces	of
+nmod:of	set	pieces
+case	work	of
+amod	work	creative
+nmod:of	pieces	work
+acl	work	collected
+mark	shown	to
+auxpass	shown	be
+xcomp	collected	shown
+case	customers	to
+amod	customers	potential
+nmod:to	shown	customers
+cc	customers	or
+conj:or	customers	employers
+punct	set	.

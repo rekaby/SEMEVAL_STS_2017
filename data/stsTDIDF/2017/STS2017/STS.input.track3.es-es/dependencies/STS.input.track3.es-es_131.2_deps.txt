@@ -1,0 +1,17 @@
+det	man	A
+root	ROOT	man
+amod	man	standing
+case	wall	in
+mwe	in	front
+mwe	in	of
+det	wall	a
+amod	wall	blue
+nmod:in_front_of	standing	wall
+case	shirt	with
+det	shirt	a
+amod	shirt	brown
+nmod:with	wall	shirt
+cc	shirt	and
+amod	pants	white
+conj:and	shirt	pants
+punct	man	.

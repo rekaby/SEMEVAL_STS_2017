@@ -1,0 +1,10 @@
+det	group	A
+nsubj	compete	group
+case	women	of
+amod	women	young
+nmod:of	group	women
+root	ROOT	compete
+case	triathlon	in
+det	triathlon	the
+nmod:in	compete	triathlon
+punct	compete	.

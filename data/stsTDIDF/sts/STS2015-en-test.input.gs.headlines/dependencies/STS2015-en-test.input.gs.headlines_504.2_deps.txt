@@ -1,0 +1,7 @@
+nsubj	starts	Japan
+root	ROOT	starts
+dobj	starts	hearings
+case	hike	on
+amod	hike	proposed
+compound	hike	tax
+nmod:on	hearings	hike

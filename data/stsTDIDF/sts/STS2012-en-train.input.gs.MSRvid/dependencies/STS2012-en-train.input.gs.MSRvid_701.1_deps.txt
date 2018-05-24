@@ -1,0 +1,9 @@
+det	girl	A
+nsubjpass	dragged	girl
+auxpass	dragged	is
+root	ROOT	dragged
+advmod	dragged	downhill
+case	dog	by
+det	dog	a
+nmod:agent	dragged	dog
+punct	dragged	.

@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	walks	woman
+case	suit	in
+det	suit	a
+compound	suit	bathing
+nmod:in	woman	suit
+root	ROOT	walks
+det	dog	a
+dobj	walks	dog
+case	beach	on
+det	beach	the
+nmod:on	walks	beach
+punct	walks	.

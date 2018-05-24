@@ -1,0 +1,14 @@
+nsubj	said	Frankel
+root	ROOT	said
+compound	Rules	Peace
+nsubj	run	Rules
+aux	run	will
+ccomp	said	run
+case	Stakes	in
+det	Stakes	the
+compound	Stakes	Preakness
+nmod:in	run	Stakes
+case	May	on
+nmod:on	run	May
+nummod	May	17
+punct	said	.

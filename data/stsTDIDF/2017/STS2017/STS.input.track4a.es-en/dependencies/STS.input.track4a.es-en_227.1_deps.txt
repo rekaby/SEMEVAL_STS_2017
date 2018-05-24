@@ -1,0 +1,9 @@
+nsubj	happy	People
+cop	happy	are
+root	ROOT	happy
+mark	beach	to
+cop	beach	be
+case	beach	on
+det	beach	the
+xcomp	happy	beach
+punct	happy	.

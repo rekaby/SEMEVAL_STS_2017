@@ -1,0 +1,10 @@
+det	bus	A
+amod	bus	red
+amod	bus	double
+compound	bus	decker
+root	ROOT	bus
+case	street	on
+det	street	a
+amod	street	crowded
+nmod:on	bus	street
+punct	bus	.

@@ -1,0 +1,15 @@
+compound	Cronyn	Character
+compound	Cronyn	actor
+compound	Cronyn	Hume
+nsubj	died	Cronyn
+punct	Cronyn	,
+appos	Cronyn	91
+punct	Cronyn	,
+root	ROOT	died
+nmod:tmod	died	Sunday
+case	home	at
+nmod:poss	home	his
+nmod:at	died	home
+case	Connecticut	in
+nmod:in	home	Connecticut
+punct	died	.

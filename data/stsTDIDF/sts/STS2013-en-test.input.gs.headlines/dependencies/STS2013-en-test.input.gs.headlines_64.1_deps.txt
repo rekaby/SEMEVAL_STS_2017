@@ -1,0 +1,9 @@
+root	ROOT	22
+amod	22	dead
+case	attack	in
+compound	attack	suicide
+nmod:in	dead	attack
+case	academy	on
+compound	academy	Yemen
+compound	academy	police
+nmod:on	attack	academy

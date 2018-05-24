@@ -1,0 +1,7 @@
+det	aptitude	an
+root	ROOT	aptitude
+nsubjpass	developed	that
+aux	developed	may
+auxpass	developed	be
+acl:relcl	aptitude	developed
+punct	aptitude	.

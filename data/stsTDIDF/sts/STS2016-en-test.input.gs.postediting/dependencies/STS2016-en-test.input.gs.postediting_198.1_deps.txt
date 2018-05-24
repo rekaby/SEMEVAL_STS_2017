@@ -1,0 +1,14 @@
+punct	want	``
+nsubj	changed	I
+aux	changed	have
+advcl	want	changed
+punct	want	,
+nsubj	want	I
+aux	want	do
+neg	want	not
+root	ROOT	want
+mark	take	to
+xcomp	want	take
+dobj	take	risk
+punct	take	''
+punct	want	.

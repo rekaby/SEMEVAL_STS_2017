@@ -1,0 +1,13 @@
+det	statue	A
+compound	statue	buddha
+nsubj	sits	statue
+root	ROOT	sits
+case	table	on
+det	table	a
+nmod:on	sits	table
+case	runner	with
+det	runner	a
+amod	runner	wooden
+compound	runner	table
+nmod:with	table	runner
+punct	sits	.

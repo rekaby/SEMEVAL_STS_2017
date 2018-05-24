@@ -1,0 +1,10 @@
+det	policeman	A
+nsubj	stands	policeman
+root	ROOT	stands
+case	crosswalk	in
+det	crosswalk	a
+nmod:in	stands	crosswalk
+case	city	in
+det	city	a
+nmod:in	crosswalk	city
+punct	stands	.

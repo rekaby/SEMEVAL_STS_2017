@@ -1,0 +1,6 @@
+root	ROOT	Thousands
+acl	Thousands	evacuated
+case	fire	in
+compound	fire	Moscow
+compound	fire	metro
+nmod:in	evacuated	fire

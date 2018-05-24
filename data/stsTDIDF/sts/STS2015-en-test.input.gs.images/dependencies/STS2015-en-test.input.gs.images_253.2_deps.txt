@@ -1,0 +1,6 @@
+nummod	girls	two
+nsubj	walking	girls
+root	ROOT	walking
+case	street	in
+det	street	the
+nmod:in	walking	street

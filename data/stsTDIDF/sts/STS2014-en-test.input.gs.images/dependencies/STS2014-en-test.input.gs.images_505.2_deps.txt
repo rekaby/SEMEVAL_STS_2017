@@ -1,0 +1,7 @@
+det	operating	A
+compound	operating	computer
+root	ROOT	operating
+case	desk	on
+det	desk	a
+nmod:on	operating	desk
+punct	operating	.

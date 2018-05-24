@@ -1,0 +1,17 @@
+nsubj	sitting	People
+aux	sitting	are
+root	ROOT	sitting
+case	bench	on
+det	bench	a
+compound	bench	park
+nmod:on	sitting	bench
+mark	are	while
+expl	are	there
+advcl	sitting	are
+nummod	pictures	3
+nsubj	are	pictures
+amod	pictures	visible
+case	foreground	in
+det	foreground	the
+nmod:in	visible	foreground
+punct	sitting	.

@@ -1,0 +1,6 @@
+compound	Department	US
+compound	Department	State
+nsubj	faulted	Department
+root	ROOT	faulted
+case	Benghazi	over
+nmod:over	faulted	Benghazi

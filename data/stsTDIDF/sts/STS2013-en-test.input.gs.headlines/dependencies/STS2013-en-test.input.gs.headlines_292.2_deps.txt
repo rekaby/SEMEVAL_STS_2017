@@ -1,0 +1,11 @@
+compound	Crash	Plane
+root	ROOT	Crash
+case	Ghana	in
+nmod:in	Crash	Ghana
+punct	Crash	:
+advmod	reported	How
+det	media	the
+amod	media	international
+nsubj	reported	media
+dep	Crash	reported
+dobj	reported	it

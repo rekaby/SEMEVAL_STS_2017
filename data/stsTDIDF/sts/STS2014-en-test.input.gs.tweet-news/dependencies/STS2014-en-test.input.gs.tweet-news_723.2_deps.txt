@@ -1,0 +1,16 @@
+compound	Joint	Neighborhood
+nsubj	Village	Joint
+compound	Village	|
+compound	Village	West
+root	ROOT	Village
+punct	Village	:
+nummod	Rubber	10,000
+compound	Stamps	Rubber
+dep	Village	Stamps
+case	Pad	at
+compound	Pad	Ink
+nmod:at	Stamps	Pad
+case	Village	in
+det	Village	the
+compound	Village	West
+nmod:in	Pad	Village

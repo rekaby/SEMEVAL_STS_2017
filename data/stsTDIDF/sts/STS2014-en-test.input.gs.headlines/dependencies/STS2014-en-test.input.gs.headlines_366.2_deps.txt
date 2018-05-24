@@ -1,0 +1,11 @@
+amod	stocks	Asian
+nsubj	hit	stocks
+root	ROOT	hit
+amod	highs	three-week
+dobj	hit	highs
+case	hopes	on
+nmod:on	hit	hopes
+case	debt	of
+compound	debt	U.S.
+nmod:of	hopes	debt
+dep	hit	deal

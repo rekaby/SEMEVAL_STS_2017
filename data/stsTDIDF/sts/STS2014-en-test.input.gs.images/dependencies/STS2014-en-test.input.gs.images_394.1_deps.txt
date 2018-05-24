@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	coloring	boy
+root	ROOT	coloring
+case	crayon	with
+det	crayon	a
+amod	crayon	red
+cc	red	and
+conj:and	red	blue
+nmod:with	coloring	crayon
+punct	coloring	.

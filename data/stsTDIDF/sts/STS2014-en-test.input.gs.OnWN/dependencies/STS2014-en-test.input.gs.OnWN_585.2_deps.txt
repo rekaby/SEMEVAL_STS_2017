@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	skip	to
+xcomp	cause	skip
+case	surface	over
+det	surface	a
+nmod:over	skip	surface
+punct	cause	.

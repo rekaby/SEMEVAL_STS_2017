@@ -1,0 +1,5 @@
+det	workers	The
+compound	workers	factory
+nsubj	making	workers
+root	ROOT	making
+dobj	making	bottles

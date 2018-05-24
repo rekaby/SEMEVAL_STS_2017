@@ -1,0 +1,16 @@
+nsubj	think	We
+root	ROOT	think
+nsubj	law	this
+cop	law	was
+amod	law	bad
+ccomp	think	law
+punct	law	,
+cc	law	and
+nsubj	expect	we
+advmod	expect	still
+conj:and	law	expect
+mark	vindicated	to
+auxpass	vindicated	be
+xcomp	expect	vindicated
+advmod	vindicated	ultimately
+punct	think	.

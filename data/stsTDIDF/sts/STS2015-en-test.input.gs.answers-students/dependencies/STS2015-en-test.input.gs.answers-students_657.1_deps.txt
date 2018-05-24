@@ -1,0 +1,8 @@
+det	path	the
+nsubj	passes	path
+root	ROOT	passes
+det	energy	the
+dobj	passes	energy
+case	switch	through
+det	switch	the
+nmod:through	passes	switch

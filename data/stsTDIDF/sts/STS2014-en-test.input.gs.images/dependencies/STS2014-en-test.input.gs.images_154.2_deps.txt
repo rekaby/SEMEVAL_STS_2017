@@ -1,0 +1,8 @@
+det	cat	A
+root	ROOT	cat
+acl	cat	looking
+case	window	out
+mwe	out	of
+det	window	a
+nmod:out_of	looking	window
+punct	cat	.

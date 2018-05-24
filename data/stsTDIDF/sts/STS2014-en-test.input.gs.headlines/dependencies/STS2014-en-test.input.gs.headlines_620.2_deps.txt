@@ -1,0 +1,7 @@
+compound	Africa	South
+nsubj	holds	Africa
+root	ROOT	holds
+compound	funeral	state
+dobj	holds	funeral
+case	Mandela	for
+nmod:for	holds	Mandela

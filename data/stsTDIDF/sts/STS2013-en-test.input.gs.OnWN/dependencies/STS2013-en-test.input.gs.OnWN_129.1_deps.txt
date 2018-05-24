@@ -1,0 +1,8 @@
+nsubj	terminate	move
+case	position	to
+det	position	a
+amod	position	lower
+nmod:to	move	position
+punct	move	,
+root	ROOT	terminate
+dobj	terminate	something

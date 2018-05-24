@@ -1,0 +1,5 @@
+advmod	answer	So
+root	ROOT	answer
+det	question	the
+dobj	answer	question
+punct	answer	.

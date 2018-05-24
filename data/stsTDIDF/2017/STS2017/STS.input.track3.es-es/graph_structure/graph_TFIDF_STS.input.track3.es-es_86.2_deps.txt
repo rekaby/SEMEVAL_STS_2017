@@ -1,0 +1,11 @@
+walk	bar	nmod:in_front_of
+statue	man	nmod:of
+statue	walk	advcl
+ROOT	statue	root
+bar	in	case
+statue	.	punct
+walk	as	mark
+bar	restaurant	compound
+statue	golden	amod
+statue	A	det
+walk	people	nsubj

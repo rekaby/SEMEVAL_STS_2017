@@ -1,0 +1,7 @@
+compound	Kong	Hong
+nsubj	set	Kong
+root	ROOT	set
+case	democracy	for
+amod	democracy	huge
+nmod:for	set	democracy
+dobj	set	rally

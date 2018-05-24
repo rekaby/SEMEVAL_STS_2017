@@ -1,0 +1,12 @@
+nummod	butterfly	Three
+nsubj	swimmers	butterfly
+root	ROOT	swimmers
+case	pool	in
+det	pool	a
+nmod:in	swimmers	pool
+punct	swimmers	,
+acl	swimmers	coming
+case	viewer	towards
+det	viewer	the
+nmod:towards	coming	viewer
+punct	swimmers	.

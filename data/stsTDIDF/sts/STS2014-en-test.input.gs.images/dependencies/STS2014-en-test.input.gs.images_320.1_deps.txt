@@ -1,0 +1,8 @@
+det	liner	A
+compound	liner	cruise
+root	ROOT	liner
+acl	liner	docked
+case	port	at
+det	port	a
+nmod:at	docked	port
+punct	liner	.

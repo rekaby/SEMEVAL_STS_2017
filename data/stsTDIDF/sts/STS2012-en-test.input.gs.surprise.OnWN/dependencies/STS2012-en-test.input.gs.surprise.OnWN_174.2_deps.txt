@@ -1,0 +1,9 @@
+det	casualty	a
+root	ROOT	casualty
+case	personnel	to
+amod	personnel	military
+nmod:to	casualty	personnel
+acl	personnel	resulting
+case	combat	from
+nmod:from	resulting	combat
+punct	casualty	.

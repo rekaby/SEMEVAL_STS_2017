@@ -1,0 +1,13 @@
+cc	affects	And
+punct	affects	,
+advmod	important	perhaps
+det	important	the
+advmod	important	most
+dep	affects	important
+punct	affects	,
+nsubj	affects	Ahmadinejad
+root	ROOT	affects
+xcomp	affects	destabilizing
+punct	destabilizing	,
+dep	destabilizing	Bernanke
+punct	affects	.

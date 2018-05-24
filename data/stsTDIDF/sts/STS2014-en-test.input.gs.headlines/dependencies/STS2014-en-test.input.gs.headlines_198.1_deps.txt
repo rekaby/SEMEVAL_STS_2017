@@ -1,0 +1,5 @@
+nummod	quake	4.1
+compound	quake	magnitude
+nsubj	strikes	quake
+root	ROOT	strikes
+dobj	strikes	U.S

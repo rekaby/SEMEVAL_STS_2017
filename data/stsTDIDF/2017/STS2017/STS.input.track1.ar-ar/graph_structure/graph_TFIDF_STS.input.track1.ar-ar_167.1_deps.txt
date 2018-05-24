@@ -1,0 +1,5 @@
+riding	men	nsubj
+raft	a	det
+river	down	case
+riding	raft	dobj
+riding	river	nmod:down

@@ -1,0 +1,10 @@
+det	piece	any
+root	ROOT	piece
+case	work	of
+nmod:of	piece	work
+nsubjpass	undertaken	that
+auxpass	undertaken	is
+acl:relcl	work	undertaken
+cc	undertaken	or
+conj:or	undertaken	attempted
+punct	piece	.

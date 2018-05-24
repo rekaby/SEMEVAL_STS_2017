@@ -1,0 +1,5 @@
+root	ROOT	Woman
+acl	Woman	wearing
+det	hat	a
+dobj	wearing	hat
+punct	Woman	.

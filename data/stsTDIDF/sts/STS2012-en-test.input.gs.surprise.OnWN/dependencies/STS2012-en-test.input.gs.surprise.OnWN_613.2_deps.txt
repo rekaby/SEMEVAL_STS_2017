@@ -1,0 +1,9 @@
+root	ROOT	scrape
+cc	scrape	or
+conj:or	scrape	rub
+mark	relieve	as
+mark	relieve	if
+mark	relieve	to
+advcl	scrape	relieve
+dobj	relieve	itching
+punct	scrape	.

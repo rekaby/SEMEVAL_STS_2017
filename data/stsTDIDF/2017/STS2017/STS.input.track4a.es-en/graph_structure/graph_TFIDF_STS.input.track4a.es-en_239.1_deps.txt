@@ -1,0 +1,6 @@
+reading	man	nsubj
+fireplace	near	case
+reading	book	dobj
+reading	is	aux
+book	fireplace	nmod:near
+fireplace	the	det

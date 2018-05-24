@@ -1,0 +1,8 @@
+det	man	A
+nsubj	emptying	man
+aux	emptying	is
+root	ROOT	emptying
+det	container	a
+amod	container	plastic
+dobj	emptying	container
+punct	emptying	.

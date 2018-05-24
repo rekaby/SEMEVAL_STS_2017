@@ -1,0 +1,11 @@
+nummod	kids	Two
+nsubj	playing	kids
+aux	playing	are
+root	ROOT	playing
+case	field	in
+det	field	a
+nmod:in	playing	field
+case	flowers	of
+amod	flowers	red
+nmod:of	field	flowers
+punct	playing	.

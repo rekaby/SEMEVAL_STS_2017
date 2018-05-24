@@ -1,0 +1,9 @@
+root	ROOT	Five
+amod	Five	dead
+mark	collides	as
+compound	train	Indonesia
+nsubj	collides	train
+advcl	dead	collides
+case	truck	with
+compound	truck	fuel
+nmod:with	collides	truck

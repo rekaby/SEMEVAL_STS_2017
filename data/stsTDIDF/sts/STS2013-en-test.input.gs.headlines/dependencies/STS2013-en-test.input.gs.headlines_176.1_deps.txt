@@ -1,0 +1,7 @@
+amod	Killer	French
+compound	Killer	Fear
+compound	Killer	New
+amod	Killer	Serial
+root	ROOT	Killer
+case	Murders	After
+nmod:after	Killer	Murders

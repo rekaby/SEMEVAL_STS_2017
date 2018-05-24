@@ -1,0 +1,7 @@
+animal	with	case
+Woman	in	dep
+Woman	.	punct
+Woman	man	conj:and
+Woman	and	cc
+ROOT	Woman	root
+outside	animal	nmod:with

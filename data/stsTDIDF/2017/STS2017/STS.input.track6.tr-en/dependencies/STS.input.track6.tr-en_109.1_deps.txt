@@ -1,0 +1,17 @@
+det	athlete	A
+amod	athlete	male
+nsubj	falls	athlete
+root	ROOT	falls
+mark	jumping	after
+advcl	falls	jumping
+det	hurdle	a
+dobj	jumping	hurdle
+punct	jumping	,
+case	water	into
+nmod:into	jumping	water
+punct	jumping	,
+mark	take	while
+nsubj	take	people
+advcl	jumping	take
+dobj	take	pictures
+punct	falls	.

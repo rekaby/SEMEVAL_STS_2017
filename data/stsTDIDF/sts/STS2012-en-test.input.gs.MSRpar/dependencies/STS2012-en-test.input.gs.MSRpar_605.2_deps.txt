@@ -1,0 +1,15 @@
+case	1993	From
+nmod:from	were	1993
+case	2002	to
+nmod:to	1993	2002
+punct	were	,
+expl	were	there
+root	ROOT	were
+nsubj	reported	142
+ccomp	were	reported
+amod	assaults	sexual
+dobj	reported	assaults
+case	academy	at
+det	academy	the
+nmod:at	assaults	academy
+punct	were	.

@@ -1,0 +1,15 @@
+nsubj	level	They
+aux	level	can
+cop	level	be
+case	level	out
+mwe	out	of
+root	ROOT	level
+case	bit	by
+det	bit	a
+nmod:by	level	bit
+punct	level	,
+cc	level	but
+nsubj	important	flat
+cop	important	is
+conj:but	level	important
+punct	level	.

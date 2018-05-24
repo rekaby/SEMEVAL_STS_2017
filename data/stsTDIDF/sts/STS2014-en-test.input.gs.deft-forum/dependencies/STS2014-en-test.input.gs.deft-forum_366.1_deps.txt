@@ -1,0 +1,15 @@
+nsubj	missed	I
+root	ROOT	missed
+det	point	the
+dobj	missed	point
+advmod	said	where
+nsubj	said	he
+acl:relcl	point	said
+mark	going	that
+amod	people	black
+nsubj	going	people
+aux	going	were
+ccomp	said	going
+case	riot	to
+nmod:to	going	riot
+punct	missed	.

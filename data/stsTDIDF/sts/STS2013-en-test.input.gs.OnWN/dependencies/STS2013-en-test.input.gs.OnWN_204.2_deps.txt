@@ -1,0 +1,7 @@
+root	ROOT	give
+det	interpretation	an
+dobj	give	interpretation
+cc	interpretation	or
+conj:or	interpretation	rendition
+acl	interpretation	of
+punct	give	.

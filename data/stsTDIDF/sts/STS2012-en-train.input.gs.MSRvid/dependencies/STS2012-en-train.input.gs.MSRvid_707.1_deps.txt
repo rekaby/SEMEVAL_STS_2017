@@ -1,0 +1,13 @@
+det	lady	The
+nsubj	put	lady
+root	ROOT	put
+det	noodles	the
+amod	noodles	dried
+dobj	put	noodles
+case	water	in
+det	water	the
+amod	water	hot
+nmod:in	put	water
+mark	cook	to
+advcl	put	cook
+punct	put	.

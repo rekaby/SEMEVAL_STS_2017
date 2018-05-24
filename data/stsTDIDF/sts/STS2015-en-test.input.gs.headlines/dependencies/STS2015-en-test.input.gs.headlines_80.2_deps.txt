@@ -1,0 +1,7 @@
+nsubj	sends	China
+root	ROOT	sends
+dobj	sends	carrier
+case	China	to
+compound	China	South
+nmod:to	sends	China
+nmod:tmod	sends	Sea

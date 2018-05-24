@@ -1,0 +1,8 @@
+det	people	Some
+nsubj	walk	people
+root	ROOT	walk
+punct	walk	,
+dep	walk	sit
+cc	sit	or
+conj:or	sit	bike
+punct	walk	.

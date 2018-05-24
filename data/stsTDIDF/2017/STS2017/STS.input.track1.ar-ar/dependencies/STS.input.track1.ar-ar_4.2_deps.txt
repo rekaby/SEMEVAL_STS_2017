@@ -1,0 +1,15 @@
+det	man	The
+nsubj	walks	man
+root	ROOT	walks
+case	shirt	with
+det	shirt	a
+amod	shirt	white
+nmod:with	walks	shirt
+case	grass	on
+det	grass	the
+amod	grass	long
+nmod:on	walks	grass
+acl	grass	holding
+det	stick	a
+dobj	holding	stick
+punct	walks	.

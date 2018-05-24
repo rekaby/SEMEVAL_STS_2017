@@ -1,0 +1,8 @@
+advmod	troubleshoot	How
+aux	troubleshoot	do
+nsubj	troubleshoot	I
+root	ROOT	troubleshoot
+nmod:poss	oven	my
+amod	oven	electric
+dobj	troubleshoot	oven
+punct	troubleshoot	?

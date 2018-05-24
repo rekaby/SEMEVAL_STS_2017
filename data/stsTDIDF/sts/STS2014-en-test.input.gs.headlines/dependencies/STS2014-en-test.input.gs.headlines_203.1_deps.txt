@@ -1,0 +1,6 @@
+nsubj	arrested	Musharraf
+root	ROOT	arrested
+case	case	in
+compound	case	Lal
+compound	case	Masjid
+nmod:in	arrested	case

@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	dog	girl
+cop	dog	is
+case	dog	inside
+case	dog	with
+nmod:poss	dog	her
+root	ROOT	dog

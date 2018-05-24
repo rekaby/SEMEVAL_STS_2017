@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	sleeping	dog
+aux	sleeping	is
+root	ROOT	sleeping
+case	water	near
+nmod:near	sleeping	water
+punct	sleeping	.

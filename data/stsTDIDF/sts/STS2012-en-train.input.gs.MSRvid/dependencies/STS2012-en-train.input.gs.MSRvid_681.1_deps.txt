@@ -1,0 +1,7 @@
+det	man	A
+nsubj	scaling	man
+aux	scaling	is
+root	ROOT	scaling
+det	fish	a
+dobj	scaling	fish
+punct	scaling	.

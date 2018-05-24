@@ -1,0 +1,10 @@
+root	ROOT	Rocks
+punct	Rocks	,
+conj	Rocks	tear
+compound	fly	gas
+dobj	tear	fly
+mark	heat	as
+compound	protests	Thai
+nsubj	heat	protests
+advcl	tear	heat
+compound:prt	heat	up

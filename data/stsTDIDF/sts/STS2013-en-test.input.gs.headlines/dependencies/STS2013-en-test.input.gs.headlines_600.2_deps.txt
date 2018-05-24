@@ -1,0 +1,7 @@
+compound	Sandusky	Jerry
+root	ROOT	Sandusky
+acl	Sandusky	convicted
+case	abuse	of
+compound	abuse	child
+amod	abuse	sexual
+nmod:of	convicted	abuse

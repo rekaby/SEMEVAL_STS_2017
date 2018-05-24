@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	sits	woman
+root	ROOT	sits
+mark	playing	while
+advcl	sits	playing
+det	guitar	a
+dobj	playing	guitar
+punct	sits	.

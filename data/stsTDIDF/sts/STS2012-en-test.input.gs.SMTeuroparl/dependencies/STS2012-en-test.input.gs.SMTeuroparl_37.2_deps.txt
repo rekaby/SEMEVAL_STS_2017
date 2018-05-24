@@ -1,0 +1,17 @@
+expl	was	There
+root	ROOT	was
+neg	was	not
+det	majority	either
+amod	majority	qualified
+nsubj	was	majority
+case	Parliament	within
+det	Parliament	this
+nmod:within	majority	Parliament
+mark	come	to
+dep	was	come
+advmod	come	back
+case	article	to
+det	article	the
+nmod:to	come	article
+nummod	article	272
+punct	was	.

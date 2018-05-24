@@ -1,0 +1,10 @@
+compound	Weapons	Syria
+compound	Weapons	Loads
+compound	Weapons	Chemical
+nsubj	Order	Weapons
+case	Bombs	into
+nmod:into	Weapons	Bombs
+punct	Weapons	,
+compound	Order	Awaiting
+compound	Order	Assad
+root	ROOT	Order

@@ -1,0 +1,9 @@
+compound	Channel	Winfrey?s
+amod	Channel	Low-Rated
+compound	Channel	Cable
+nsubjpass	Poised	Channel
+auxpass	Poised	Is
+root	ROOT	Poised
+mark	Break	to
+xcomp	Poised	Break
+compound:prt	Poised	Through

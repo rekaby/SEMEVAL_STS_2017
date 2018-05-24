@@ -1,0 +1,9 @@
+det	group	The
+nsubj	interviewing	group
+aux	interviewing	is
+root	ROOT	interviewing
+det	reporter	a
+compound	reporter	news
+dobj	interviewing	reporter
+advmod	reporter	backstage
+punct	interviewing	.

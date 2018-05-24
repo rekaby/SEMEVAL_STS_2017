@@ -1,0 +1,9 @@
+det	group	a
+root	ROOT	group
+case	men	of
+amod	men	old
+nmod:of	group	men
+acl	men	walking
+case	street	down
+det	street	the
+nmod:down	walking	street

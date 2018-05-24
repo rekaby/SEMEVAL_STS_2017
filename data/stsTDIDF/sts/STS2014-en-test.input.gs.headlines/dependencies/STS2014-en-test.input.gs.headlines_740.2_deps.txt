@@ -1,0 +1,6 @@
+amod	quakes	Twin
+nsubj	kill	quakes
+root	ROOT	kill
+dobj	kill	89
+case	China	in
+nmod:in	kill	China

@@ -1,0 +1,14 @@
+nsubj	pleaded	Four
+case	defendants	of
+det	defendants	the
+nmod:of	Four	defendants
+aux	pleaded	have
+root	ROOT	pleaded
+xcomp	pleaded	guilty
+case	charges	to
+compound	charges	weapons
+nmod:to	guilty	charges
+cc	charges	and
+amod	counts	other
+conj:and	charges	counts
+punct	pleaded	.

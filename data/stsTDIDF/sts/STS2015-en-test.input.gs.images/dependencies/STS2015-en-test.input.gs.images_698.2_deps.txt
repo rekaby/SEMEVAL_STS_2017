@@ -1,0 +1,16 @@
+nummod	people	Two
+nsubj	sit	people
+root	ROOT	sit
+case	end	on
+det	end	the
+nmod:on	sit	end
+case	dock	of
+det	dock	a
+nmod:of	end	dock
+case	middle	in
+det	middle	the
+nmod:in	sit	middle
+case	water	of
+advmod	water	still
+nmod:of	middle	water
+punct	sit	.

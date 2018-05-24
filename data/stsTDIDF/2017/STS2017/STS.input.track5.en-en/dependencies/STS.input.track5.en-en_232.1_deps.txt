@@ -1,0 +1,7 @@
+det	person	The
+nsubj	wearing	person
+aux	wearing	is
+root	ROOT	wearing
+det	fedora	a
+dobj	wearing	fedora
+punct	wearing	.

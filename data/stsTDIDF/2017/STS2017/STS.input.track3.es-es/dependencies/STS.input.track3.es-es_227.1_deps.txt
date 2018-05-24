@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	walks	building

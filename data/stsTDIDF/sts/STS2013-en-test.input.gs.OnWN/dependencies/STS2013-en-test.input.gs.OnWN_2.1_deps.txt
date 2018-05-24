@@ -1,0 +1,6 @@
+root	ROOT	someone
+nsubj	plays	who
+acl:relcl	someone	plays
+det	role	a
+amod	role	principal
+dobj	plays	role

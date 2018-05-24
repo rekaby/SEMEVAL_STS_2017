@@ -1,0 +1,9 @@
+nmod:poss	Museveni	Uganda
+case	Uganda	's
+compound	Museveni	President
+nsubj	agrees	Museveni
+root	ROOT	agrees
+mark	sign	to
+xcomp	agrees	sign
+amod	Bill	anti-gays
+dobj	sign	Bill

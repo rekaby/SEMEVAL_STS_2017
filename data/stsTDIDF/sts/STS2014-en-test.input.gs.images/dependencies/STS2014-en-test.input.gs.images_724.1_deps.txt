@@ -1,0 +1,6 @@
+amod	bird	Black
+root	ROOT	bird
+acl	bird	standing
+case	concrete	on
+nmod:on	standing	concrete
+punct	bird	.

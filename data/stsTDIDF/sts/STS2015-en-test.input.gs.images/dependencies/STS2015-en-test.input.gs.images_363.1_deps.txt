@@ -1,0 +1,17 @@
+det	man	A
+root	ROOT	man
+acl	man	dressed
+nmod	dressed	in
+dep	in	black
+dep	black	wearing
+det	hat	a
+dobj	wearing	hat
+cc	hat	and
+conj:and	hat	glasses
+case	wall	in
+mwe	in	front
+mwe	in	of
+det	wall	a
+amod	wall	red
+nmod:in_front_of	hat	wall
+punct	man	.

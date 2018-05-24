@@ -1,0 +1,9 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	become	to
+punct	become	-RRB-
+xcomp	cause	become
+advmod	clear	less
+xcomp	become	clear
+cc	become	or
+conj:or	become	indistinct

@@ -1,0 +1,7 @@
+root	ROOT	Italy
+mark	swear	to
+acl	Italy	swear
+case	government	in
+amod	government	new
+compound	government	coalition
+nmod:in	swear	government

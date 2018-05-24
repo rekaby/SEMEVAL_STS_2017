@@ -1,0 +1,14 @@
+case	Kentucky	In
+nmod:in	faces	Kentucky
+punct	faces	,
+amod	Chandler	Democratic
+compound	Chandler	Attorney
+compound	Chandler	General
+compound	Chandler	Ben
+nsubj	faces	Chandler
+root	ROOT	faces
+compound	Fletcher	U.S.
+compound	Fletcher	Rep.
+compound	Fletcher	Ernie
+dobj	faces	Fletcher
+punct	faces	.

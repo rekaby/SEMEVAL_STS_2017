@@ -1,0 +1,12 @@
+det	price	the
+compound	price	trading
+root	ROOT	price
+case	sellers	between
+nmod:between	price	sellers
+cc	sellers	and
+conj:and	sellers	buyers
+case	marketplace	in
+det	marketplace	a
+det	marketplace	an
+amod	marketplace	open
+nmod:in	price	marketplace

@@ -1,0 +1,9 @@
+det	child	A
+nsubj	has	child
+root	ROOT	has
+det	smartphone	a
+dobj	has	smartphone
+cc	smartphone	and
+conj:and	smartphone	nothing
+advmod	smartphone	else
+punct	has	.

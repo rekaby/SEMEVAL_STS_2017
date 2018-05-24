@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	hiring	of
+acl	act	hiring
+dobj	hiring	something
+cc	something	or
+conj:or	something	someone
+punct	act	.

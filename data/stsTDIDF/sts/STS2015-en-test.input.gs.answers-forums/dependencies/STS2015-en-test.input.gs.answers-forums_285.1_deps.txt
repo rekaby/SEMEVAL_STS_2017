@@ -1,0 +1,17 @@
+nsubj	began	It
+cop	began	was
+mark	began	before
+det	season	the
+nsubj	began	season
+root	ROOT	began
+mark	saw	because
+nsubj	saw	Amy
+advcl	began	saw
+det	woman	the
+dobj	saw	woman
+mark	took	before
+det	Silence	the
+nsubj	took	Silence
+advcl	saw	took
+dobj	took	her
+punct	began	.

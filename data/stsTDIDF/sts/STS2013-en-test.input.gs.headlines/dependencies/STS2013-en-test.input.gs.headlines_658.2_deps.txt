@@ -1,0 +1,7 @@
+compound	stocks	US
+nsubj	open	stocks
+root	ROOT	open
+advmod	open	higher
+case	GDP	despite
+nmod:despite	open	GDP
+dep	open	miss

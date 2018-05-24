@@ -1,0 +1,7 @@
+det	dog	A
+amod	dog	white
+root	ROOT	dog
+acl	dog	running
+case	sand	on
+nmod:on	running	sand
+punct	dog	.

@@ -1,0 +1,6 @@
+det	girl	The
+nsubj	riding	girl
+root	ROOT	riding
+nmod:poss	bike	her
+dobj	riding	bike
+punct	riding	.

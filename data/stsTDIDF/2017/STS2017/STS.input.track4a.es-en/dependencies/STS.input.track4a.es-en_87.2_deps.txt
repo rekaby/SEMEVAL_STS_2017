@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	running
+case	race	in
+det	race	a
+nmod:in	running	race
+punct	man	.

@@ -1,0 +1,9 @@
+compound	Bolton	Sunderland
+nummod	Bolton	2-2
+root	ROOT	Bolton
+punct	Bolton	:
+appos	Bolton	Davies
+case	double	in
+case	double	at
+det	double	the
+acl:at	Davies	double

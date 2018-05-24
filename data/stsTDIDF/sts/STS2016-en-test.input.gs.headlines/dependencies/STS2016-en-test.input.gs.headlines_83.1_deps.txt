@@ -1,0 +1,9 @@
+nsubj	touts	Redford
+root	ROOT	touts
+compound	economy	Alberta
+dobj	touts	economy
+advmod	touts	ahead
+case	vote	of
+nmod:of	ahead	vote
+case	leadership	on
+nmod:on	touts	leadership

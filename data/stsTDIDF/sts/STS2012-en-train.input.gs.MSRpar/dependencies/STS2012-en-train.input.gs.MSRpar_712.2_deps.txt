@@ -1,0 +1,14 @@
+det	rebels	The
+nsubj	calling	rebels
+aux	calling	are
+advmod	calling	also
+root	ROOT	calling
+case	deployment	for
+det	deployment	the
+nmod:for	calling	deployment
+case	force	of
+det	force	a
+amod	force	U.S.-led
+compound	force	peacekeeping
+nmod:of	deployment	force
+punct	calling	.

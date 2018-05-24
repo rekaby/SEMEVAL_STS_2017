@@ -1,0 +1,8 @@
+root	ROOT	Yemen
+punct	Yemen	:
+nsubj	kills	Fighting
+case	north	in
+nmod:in	Fighting	north
+dep	Yemen	kills
+case	120	over
+nmod:over	kills	120

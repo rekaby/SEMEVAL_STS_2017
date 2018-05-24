@@ -1,0 +1,22 @@
+nsubj	add	thins
+advmod	add	just
+aux	add	do
+neg	add	n't
+root	ROOT	add
+compound:prt	add	up
+advmod	lunched	just
+advmod	lunched	when
+compound	Korea	North
+nsubj	lunched	Korea
+advmod	lunched	successfully
+dep	allows	lunched
+det	rocket	a
+nsubj	allows	rocket
+advmod	America	now
+nmod	rocket	America
+ccomp	add	allows
+dobj	allows	this
+punct	add	.-19) cc(am-2, Or
+root	ROOT	am
+nsubj	am	I.
+punct	am	.-4) root(ROOT-0, .

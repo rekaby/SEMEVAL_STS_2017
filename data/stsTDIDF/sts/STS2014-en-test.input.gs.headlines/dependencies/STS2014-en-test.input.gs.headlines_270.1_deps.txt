@@ -1,0 +1,9 @@
+compound	Korea	N
+nsubj	says	Korea
+root	ROOT	says
+nsubj	delay	it
+aux	delay	may
+ccomp	says	delay
+amod	launch	controversial
+compound	launch	rocket
+dobj	delay	launch

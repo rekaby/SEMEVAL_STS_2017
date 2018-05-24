@@ -1,0 +1,8 @@
+root	ROOT	warn
+cc	warn	or
+conj:or	warn	call
+case	sense	to
+det	sense	a
+nmod:to	call	sense
+case	preparedness	of
+nmod:of	sense	preparedness

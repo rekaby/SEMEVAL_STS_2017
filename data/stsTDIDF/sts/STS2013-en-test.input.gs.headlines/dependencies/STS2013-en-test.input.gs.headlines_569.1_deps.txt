@@ -1,0 +1,11 @@
+nsubj	boosts	Facebook
+root	ROOT	boosts
+dobj	boosts	size
+case	IPO	of
+nmod:of	size	IPO
+case	25pc	by
+nmod:by	boosts	25pc
+mark	raise	to
+acl	25pc	raise
+dobj	raise	$
+nummod	$	15bn

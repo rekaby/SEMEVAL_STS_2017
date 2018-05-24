@@ -1,0 +1,4 @@
+root	ROOT	Child
+case	couch	on
+det	couch	the
+nmod:on	Child	couch

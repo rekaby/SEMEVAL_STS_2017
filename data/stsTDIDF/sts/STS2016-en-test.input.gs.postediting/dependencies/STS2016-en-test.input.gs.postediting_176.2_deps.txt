@@ -1,0 +1,13 @@
+compound	Bush	US
+compound	Bush	President
+compound	Bush	George
+nsubj	glad	Bush
+nmod:npmod	Bush	himself
+cop	glad	is
+root	ROOT	glad
+case	progress	of
+nmod:of	glad	progress
+case	negotiations	in
+det	negotiations	the
+nmod:in	progress	negotiations
+punct	glad	.

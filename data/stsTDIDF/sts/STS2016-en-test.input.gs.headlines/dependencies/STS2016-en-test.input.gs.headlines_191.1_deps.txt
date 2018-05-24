@@ -1,0 +1,7 @@
+nummod	airstrikes	5
+compound	airstrikes	US
+nsubj	target	airstrikes
+root	ROOT	target
+amod	fighters	Islamic
+compound	fighters	State
+dobj	target	fighters

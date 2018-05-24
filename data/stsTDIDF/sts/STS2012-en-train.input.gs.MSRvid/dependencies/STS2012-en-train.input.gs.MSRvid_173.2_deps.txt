@@ -1,0 +1,10 @@
+det	boy	A
+nsubj	spanks	boy
+root	ROOT	spanks
+det	man	a
+dobj	spanks	man
+case	sword	with
+det	sword	a
+amod	sword	plastic
+nmod:with	spanks	sword
+punct	spanks	.

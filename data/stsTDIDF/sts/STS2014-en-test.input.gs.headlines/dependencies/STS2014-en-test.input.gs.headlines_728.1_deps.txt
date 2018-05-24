@@ -1,0 +1,8 @@
+compound	McCain	US
+compound	McCain	Senator
+nsubj	meets	McCain
+root	ROOT	meets
+compound	leaders	opposition
+dobj	meets	leaders
+case	Ukraine	in
+nmod:in	meets	Ukraine

@@ -1,0 +1,5 @@
+root	ROOT	sniff
+cc	sniff	or
+conj:or	sniff	smell
+advmod	sniff	inquiringly
+punct	sniff	.

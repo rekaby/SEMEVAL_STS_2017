@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	lays	dog
+root	ROOT	lays
+case	sand	in
+det	sand	the
+nmod:in	lays	sand
+punct	lays	.

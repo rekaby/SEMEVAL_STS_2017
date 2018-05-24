@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+det	seadoo	a
+dobj	riding	seadoo
+punct	riding	.

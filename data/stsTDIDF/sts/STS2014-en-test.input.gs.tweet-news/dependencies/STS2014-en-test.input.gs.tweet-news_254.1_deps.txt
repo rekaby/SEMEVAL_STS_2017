@@ -1,0 +1,13 @@
+cc	wondr	And
+nsubj	wondr	they
+neg	wondr	never
+root	ROOT	wondr
+advmod	!!	WHY
+dep	wondr	!!-6) nsubj(gets-2, U.S
+root	ROOT	gets
+nsubj	wrong	it
+xcomp	gets	wrong
+case	Egypt	on
+nmod:on	wrong	Egypt
+advmod	wrong	again
+punct	gets	-

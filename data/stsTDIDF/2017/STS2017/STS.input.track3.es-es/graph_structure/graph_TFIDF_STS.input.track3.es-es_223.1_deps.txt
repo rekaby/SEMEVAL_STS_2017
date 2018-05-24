@@ -1,0 +1,9 @@
+raising	man	nsubj
+arms	his	nmod:poss
+man	pants	nmod:in
+pants	in	case
+raising	is	aux
+ROOT	raising	root
+raising	arms	dobj
+pants	yellow	amod
+raising	.	punct

@@ -1,0 +1,8 @@
+root	ROOT	.-1) amod(people-2, Sinful
+nsubj	get	people
+aux	get	do
+neg	get	not
+root	ROOT	get
+case	heaven	to
+nmod:to	get	heaven
+punct	get	.

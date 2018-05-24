@@ -1,0 +1,7 @@
+compound	Manning	Bradley
+root	ROOT	Manning
+acl	Manning	acquitted
+mark	aiding	of
+advcl	acquitted	aiding
+det	enemy	the
+dobj	aiding	enemy

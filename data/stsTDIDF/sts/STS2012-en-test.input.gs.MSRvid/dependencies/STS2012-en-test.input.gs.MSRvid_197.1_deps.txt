@@ -1,0 +1,8 @@
+det	man	The
+amod	man	shirtless
+nsubj	sat	man
+root	ROOT	sat
+case	chair	in
+det	chair	a
+nmod:in	sat	chair
+punct	sat	.

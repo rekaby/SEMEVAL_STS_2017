@@ -1,0 +1,14 @@
+det	boy	The
+nsubj	looking	boy
+aux	looking	is
+root	ROOT	looking
+compound:prt	looking	up
+case	girl	at
+det	girl	the
+nmod:at	looking	girl
+mark	ignores	as
+det	girl	another
+nsubj	ignores	girl
+advcl	looking	ignores
+dobj	ignores	them
+punct	looking	.

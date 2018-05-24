@@ -1,0 +1,8 @@
+det	bicycle	A
+nsubjpass	parked	bicycle
+auxpass	parked	is
+root	ROOT	parked
+case	bookstore	outside
+det	bookstore	a
+nmod:outside	parked	bookstore
+punct	parked	.

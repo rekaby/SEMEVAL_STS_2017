@@ -1,0 +1,9 @@
+det	men	The
+nummod	men	two
+nsubj	brothers	men
+case	jackets	in
+amod	jackets	blue
+nmod:in	men	jackets
+cop	brothers	are
+root	ROOT	brothers
+punct	brothers	.

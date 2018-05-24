@@ -1,0 +1,10 @@
+nsubj	put	I
+aux	put	would
+neg	put	n't
+root	ROOT	put
+det	job	this
+dobj	put	job
+case	resume	on
+nmod:poss	resume	my
+nmod:on	put	resume
+punct	put	.

@@ -1,0 +1,12 @@
+punct	Cause	-LRB-
+dep	become	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	become
+det	fluid	a
+xcomp	become	fluid
+punct	become	,
+mark	heated	as
+advmod	heated	when
+advcl	become	heated
+punct	become	.

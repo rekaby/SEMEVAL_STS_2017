@@ -1,0 +1,6 @@
+celebrating	group	nsubj
+birthday	a	det
+celebrating	birthday	dobj
+celebrating	.	punct
+celebrating	is	aux
+ROOT	celebrating	root

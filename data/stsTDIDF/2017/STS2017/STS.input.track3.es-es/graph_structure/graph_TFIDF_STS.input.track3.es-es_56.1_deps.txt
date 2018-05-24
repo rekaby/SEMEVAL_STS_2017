@@ -1,0 +1,7 @@
+run	where	advmod
+run	players	nsubj
+is	ball	nsubj
+ball	field	nmod:near
+doing	run	advcl
+field	doing	acl
+field	near	case

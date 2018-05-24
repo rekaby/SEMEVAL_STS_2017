@@ -1,0 +1,7 @@
+cop	state	being
+case	state	in
+det	state	a
+amod	state	protected
+root	ROOT	state
+cc	state	or
+conj:or	state	condition

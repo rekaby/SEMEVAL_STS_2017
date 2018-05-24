@@ -1,0 +1,4 @@
+nsubj	arrested	Musharraf
+root	ROOT	arrested
+case	Pakistan	in
+nmod:in	arrested	Pakistan

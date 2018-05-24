@@ -1,0 +1,7 @@
+root	ROOT	glare
+cc	glare	or
+conj:or	glare	strike
+case	intensity	with
+amod	intensity	great
+nmod:with	glare	intensity
+punct	glare	.

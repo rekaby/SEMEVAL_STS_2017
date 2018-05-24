@@ -1,0 +1,8 @@
+det	boy	The
+nsubj	out	boy
+cop	out	is
+root	ROOT	out
+case	half-hour	for
+det	half-hour	a
+nmod:for	out	half-hour
+punct	out	.

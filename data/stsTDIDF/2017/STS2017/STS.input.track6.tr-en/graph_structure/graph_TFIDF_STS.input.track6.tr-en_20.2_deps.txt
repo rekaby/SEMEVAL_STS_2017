@@ -1,0 +1,11 @@
+hair	yellow	amod
+person	The	det
+scanning	is	aux
+bathroom	in	case
+scanning	person	nsubj
+hair	beautiful	amod
+scanning	bathroom	nmod:in
+scanning	hair	dobj
+hair	the	det
+ROOT	scanning	root
+scanning	.	punct

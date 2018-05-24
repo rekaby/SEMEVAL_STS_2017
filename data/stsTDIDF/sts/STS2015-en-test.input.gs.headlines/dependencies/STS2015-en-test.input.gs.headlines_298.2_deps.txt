@@ -1,0 +1,9 @@
+nsubj	falls	Weiner
+root	ROOT	falls
+case	fourth	to
+nmod:to	falls	fourth
+case	poll	in
+amod	poll	new
+compound	poll	NYC
+amod	poll	mayoral
+nmod:in	fourth	poll

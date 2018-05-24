@@ -1,0 +1,15 @@
+nummod	men	Two
+nsubj	waiting	men
+aux	waiting	are
+root	ROOT	waiting
+case	ride	for
+det	ride	a
+nmod:for	waiting	ride
+case	side	on
+det	side	the
+nmod:on	ride	side
+case	road	of
+det	road	a
+compound	road	dirt
+nmod:of	side	road
+punct	waiting	.

@@ -1,0 +1,13 @@
+det	Muslims	The
+nsubj	say	Muslims
+aux	say	would
+root	ROOT	say
+det	thing	the
+amod	thing	same
+dobj	say	thing
+case	Qur	about
+det	Qur	the
+nmod:about	thing	Qur
+punct	Qur	`
+dep	Qur	an
+punct	say	.

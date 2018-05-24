@@ -1,0 +1,7 @@
+compound	trial	Gu
+compound	trial	Kailai
+compound	trial	murder
+nsubj	ends	trial
+root	ROOT	ends
+case	China	in
+nmod:in	ends	China

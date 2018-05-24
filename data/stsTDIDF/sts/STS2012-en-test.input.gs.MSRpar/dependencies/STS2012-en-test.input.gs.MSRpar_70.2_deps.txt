@@ -1,0 +1,12 @@
+det	CCA	The
+compound	CCA	DVD
+nsubj	appealed	CCA
+root	ROOT	appealed
+det	decision	that
+dobj	appealed	decision
+case	Court	to
+det	Court	the
+compound	Court	U.S.
+compound	Court	Supreme
+nmod:to	decision	Court
+punct	appealed	.

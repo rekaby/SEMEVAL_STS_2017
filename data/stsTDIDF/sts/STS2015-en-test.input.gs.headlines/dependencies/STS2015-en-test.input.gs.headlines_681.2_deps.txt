@@ -1,0 +1,9 @@
+compound	attack	Suicide
+nsubj	kills	attack
+root	ROOT	kills
+case	least	at
+nmod:npmod	12	least
+dobj	kills	12
+case	Iraq	in
+amod	Iraq	northern
+nmod:in	12	Iraq

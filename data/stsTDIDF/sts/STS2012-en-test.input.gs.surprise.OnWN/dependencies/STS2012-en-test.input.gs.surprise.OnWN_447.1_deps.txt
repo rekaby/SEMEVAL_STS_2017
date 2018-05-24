@@ -1,0 +1,8 @@
+det	announcement	a
+amod	announcement	local
+root	ROOT	announcement
+acl	announcement	made
+case	broadcast	within
+det	broadcast	a
+amod	broadcast	public
+nmod:within	made	broadcast

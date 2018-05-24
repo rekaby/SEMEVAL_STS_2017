@@ -1,0 +1,16 @@
+det	men	The
+nummod	men	2
+amod	men	drunk
+nsubj	standing	men
+aux	standing	are
+root	ROOT	standing
+case	street	in
+det	street	the
+nmod:in	standing	street
+xcomp	standing	getting
+xcomp	getting	ready
+case	fight	for
+det	fight	a
+compound	fight	fist
+nmod:for	ready	fight
+punct	standing	.

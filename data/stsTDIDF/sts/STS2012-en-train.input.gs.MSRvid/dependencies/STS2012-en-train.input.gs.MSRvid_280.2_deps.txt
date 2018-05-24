@@ -1,0 +1,7 @@
+det	cuts	A
+compound	cuts	boy
+root	ROOT	cuts
+dobj	cuts	grass
+case	scissors	with
+nmod:with	grass	scissors
+punct	cuts	.

@@ -1,0 +1,11 @@
+det	tourists	The
+amod	tourists	European
+nsubj	free	tourists
+acl	tourists	kidnapped
+case	Sahara	in
+det	Sahara	the
+nmod:in	kidnapped	Sahara
+cop	free	are
+advmod	free	visibly
+root	ROOT	free
+punct	free	.

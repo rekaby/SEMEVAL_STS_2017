@@ -1,0 +1,6 @@
+person	ready	amod
+is	person	nsubj
+competition	swimming	compound
+competition	a	det
+compete	competition	nmod:in
+ready	compete	xcomp

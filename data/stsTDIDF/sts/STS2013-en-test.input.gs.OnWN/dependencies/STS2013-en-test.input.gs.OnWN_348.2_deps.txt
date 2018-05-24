@@ -1,0 +1,9 @@
+det	allotment	the
+root	ROOT	allotment
+case	amount	of
+det	amount	some
+nmod:of	allotment	amount
+mark	dividing	by
+acl	allotment	dividing
+dobj	dividing	something
+punct	allotment	.

@@ -1,0 +1,8 @@
+amod	predisposition	Genetic
+nsubj	genetics	predisposition
+case	Alzheimer	to
+nmod:to	predisposition	Alzheimer
+cop	genetics	is
+amod	genetics	inferior
+root	ROOT	genetics
+punct	genetics	.

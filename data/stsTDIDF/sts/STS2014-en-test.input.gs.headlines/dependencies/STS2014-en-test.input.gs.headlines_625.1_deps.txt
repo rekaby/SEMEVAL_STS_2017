@@ -1,0 +1,6 @@
+compound	Court	Kenya
+compound	Court	Supreme
+nsubj	result	Court
+amod	result	upholds
+compound	result	election
+root	ROOT	result

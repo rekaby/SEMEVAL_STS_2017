@@ -1,0 +1,8 @@
+nsubj	collapses	Building
+root	ROOT	collapses
+case	India	in
+nmod:in	collapses	India
+punct	collapses	;
+nsubjpass	trapped	25
+acl	25	feared
+parataxis	collapses	trapped

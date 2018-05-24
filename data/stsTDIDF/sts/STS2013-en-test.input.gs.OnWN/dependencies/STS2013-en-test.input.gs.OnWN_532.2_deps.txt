@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	moving	of
+acl	act	moving
+case	place	from
+nummod	place	one
+nmod:from	moving	place
+case	another	to
+nmod:to	moving	another
+punct	act	.

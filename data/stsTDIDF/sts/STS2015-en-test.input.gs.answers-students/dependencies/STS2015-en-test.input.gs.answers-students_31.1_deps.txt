@@ -1,0 +1,11 @@
+mark	have	because
+nsubj	have	A
+cc	A	and
+conj:and	A	C
+advmod	have	still
+root	ROOT	have
+det	connection	a
+dobj	have	connection
+case	battery	to
+det	battery	the
+nmod:to	connection	battery

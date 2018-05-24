@@ -1,0 +1,12 @@
+compound	Monteith	‚
+compound	Monteith	ÄėGlee
+nummod	Monteith	‚
+compound	Monteith	Äô
+compound	Monteith	star
+compound	Monteith	Cory
+nsubj	found	Monteith
+root	ROOT	found
+xcomp	found	dead
+case	room	in
+compound	room	hotel
+nmod:in	dead	room

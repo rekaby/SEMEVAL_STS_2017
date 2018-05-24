@@ -1,0 +1,7 @@
+nsubj	melting	Butter
+aux	melting	is
+root	ROOT	melting
+case	pan	in
+det	pan	a
+nmod:in	melting	pan
+punct	melting	.

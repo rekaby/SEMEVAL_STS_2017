@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+amod	sheep	several
+amod	sheep	sheared
+nsubj	are	sheep
+case	pen	in
+det	pen	a
+nmod:in	sheep	pen
+punct	are	.

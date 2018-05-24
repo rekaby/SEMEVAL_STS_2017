@@ -1,0 +1,12 @@
+det	man	A
+nsubj	wearing	man
+aux	wearing	was
+neg	wearing	not
+root	ROOT	wearing
+det	shirt	a
+dobj	wearing	shirt
+cc	wearing	but
+aux	wearing	was
+conj:but	wearing	wearing
+dobj	wearing	jeans
+punct	wearing	.

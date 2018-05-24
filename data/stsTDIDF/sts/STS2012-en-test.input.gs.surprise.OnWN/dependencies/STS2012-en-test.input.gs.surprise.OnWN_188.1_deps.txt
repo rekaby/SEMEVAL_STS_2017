@@ -1,0 +1,9 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	change
+nmod:poss	position	one
+case	one	's
+amod	position	own
+dobj	move	position
+cc	position	or
+conj:or	position	quality

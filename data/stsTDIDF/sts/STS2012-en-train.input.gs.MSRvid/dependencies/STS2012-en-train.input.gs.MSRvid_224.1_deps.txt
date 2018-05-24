@@ -1,0 +1,5 @@
+det	group	a
+nsubj	dancing	group
+case	people	of
+nmod:of	group	people
+root	ROOT	dancing

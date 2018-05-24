@@ -1,0 +1,7 @@
+nsubj	says	Russia
+root	ROOT	says
+amod	missiles	ballistic
+nsubj	fired	missiles
+ccomp	says	fired
+case	Mediterranean	in
+nmod:in	fired	Mediterranean

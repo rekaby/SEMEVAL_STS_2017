@@ -1,0 +1,8 @@
+amod	government	Israeli
+nsubj	authorises	government
+root	ROOT	authorises
+amod	settlements	new
+dobj	authorises	settlements
+advmod	authorises	ahead
+case	talks	of
+nmod:of	ahead	talks

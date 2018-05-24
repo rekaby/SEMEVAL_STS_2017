@@ -1,0 +1,16 @@
+det	variant	a
+root	ROOT	variant
+case	theme	of
+det	theme	a
+amod	theme	musical
+nmod:of	variant	theme
+nsubj	employs	which
+acl:relcl	theme	employs
+dobj	employs	notes
+case	duration	of
+amod	duration	reduced
+nmod:of	notes	duration
+case	theme	from
+det	theme	the
+amod	theme	original
+nmod:from	employs	theme
