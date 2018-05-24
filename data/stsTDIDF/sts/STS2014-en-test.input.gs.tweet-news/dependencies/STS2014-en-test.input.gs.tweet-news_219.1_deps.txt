@@ -1,0 +1,12 @@
+aux	allowed	Should
+nsubjpass	allowed	babies
+auxpass	allowed	be
+root	ROOT	allowed
+mark	cry	to
+punct	cry	`
+xcomp	allowed	cry
+dobj	cry	it
+compound:prt	cry	out
+punct	cry	'
+punct	allowed	?-11) compound(#parenting-2, #attachment
+root	ROOT	#parenting

@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	getting	woman
+aux	getting	is
+root	ROOT	getting
+nmod:poss	hair	her
+nsubj	done	hair
+ccomp	getting	done
+case	salon	at
+det	salon	a
+nmod:at	done	salon
+punct	getting	.

@@ -1,0 +1,10 @@
+compound	bomb	Suicide
+nsubj	kills	bomb
+root	ROOT	kills
+dobj	kills	4
+case	City	in
+amod	capital	Syrian
+nmod:poss	City	capital
+case	capital	's
+compound	City	Old
+nmod:in	4	City

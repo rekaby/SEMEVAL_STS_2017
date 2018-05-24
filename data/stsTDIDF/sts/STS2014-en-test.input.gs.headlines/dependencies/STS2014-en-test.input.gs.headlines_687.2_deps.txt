@@ -1,0 +1,11 @@
+root	ROOT	`
+nsubj	directs	Judge
+case	polls	at
+nmod:at	Judge	polls
+root	`	directs
+dobj	directs	voters
+case	vote	on
+compound	vote	Egypt
+compound	vote	constitution
+nmod:on	voters	vote
+punct	directs	'

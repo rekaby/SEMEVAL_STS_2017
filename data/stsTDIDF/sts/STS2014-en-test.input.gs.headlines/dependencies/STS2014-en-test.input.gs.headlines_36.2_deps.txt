@@ -1,0 +1,8 @@
+nsubj	kill	Series
+case	attacks	of
+nmod:of	Series	attacks
+root	ROOT	kill
+nummod	police	10
+dobj	kill	police
+case	Afghanistan	in
+nmod:in	kill	Afghanistan

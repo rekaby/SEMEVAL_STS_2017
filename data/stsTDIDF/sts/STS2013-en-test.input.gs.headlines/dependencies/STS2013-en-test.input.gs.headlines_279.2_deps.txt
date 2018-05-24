@@ -1,0 +1,8 @@
+nsubj	reported	Progress
+root	ROOT	reported
+case	strike	in
+amod	strike	Palestinian
+compound	strike	prisoner
+compound	strike	hunger
+nmod:in	reported	strike
+dobj	reported	talks

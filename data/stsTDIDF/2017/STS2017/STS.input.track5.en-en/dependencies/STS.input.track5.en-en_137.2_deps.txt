@@ -1,0 +1,17 @@
+det	girl	A
+nsubj	smiling	girl
+case	dress	in
+det	dress	a
+amod	dress	blue
+nmod:in	girl	dress
+cc	dress	and
+det	girl	another
+conj:and	dress	girl
+case	dress	in
+det	dress	a
+amod	dress	purple
+nmod:in	girl	dress
+punct	girl	,
+cc:preconj	smiling	both
+root	ROOT	smiling
+punct	smiling	.

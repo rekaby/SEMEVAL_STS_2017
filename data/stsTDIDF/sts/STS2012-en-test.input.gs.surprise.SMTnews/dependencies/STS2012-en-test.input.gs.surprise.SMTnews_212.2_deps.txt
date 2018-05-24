@@ -1,0 +1,17 @@
+root	ROOT	Those
+nsubj	know	who
+aux	know	do
+neg	know	not
+acl:relcl	Those	know
+det	methods	the
+amod	methods	intensive
+amod	methods	farming
+nsubj	need	methods
+dep	need	astonished
+advmod	need	perhaps
+det	need	the
+ccomp	know	need
+case	legislation	for
+amod	legislation	such
+nmod:for	need	legislation
+punct	Those	.

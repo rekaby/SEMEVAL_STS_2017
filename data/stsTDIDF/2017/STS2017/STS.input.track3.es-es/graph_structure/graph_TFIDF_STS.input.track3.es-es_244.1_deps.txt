@@ -1,0 +1,4 @@
+ROOT	paints	root
+paints	A	det
+paints	couple	compound
+paints	floor	nmod:on

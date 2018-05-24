@@ -1,0 +1,9 @@
+compound	errors	Insulin
+compound	errors	injection
+nsubj	exposed	errors
+aux	exposed	may
+aux	exposed	have
+root	ROOT	exposed
+dobj	exposed	veterans
+case	viruses	to
+nmod:to	exposed	viruses

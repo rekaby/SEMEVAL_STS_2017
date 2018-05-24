@@ -1,0 +1,13 @@
+nsubjpass	used	It
+auxpass	used	is
+advmod	used	therefore
+root	ROOT	used
+mark	create	to
+xcomp	used	create
+dobj	create	relationships
+case	object	between
+nummod	object	one
+nmod:between	relationships	object
+cc	object	and
+conj:and	object	another
+punct	used	.

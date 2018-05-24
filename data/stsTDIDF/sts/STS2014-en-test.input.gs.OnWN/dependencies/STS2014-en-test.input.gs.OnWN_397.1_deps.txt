@@ -1,0 +1,12 @@
+root	ROOT	make
+dobj	make	purer
+punct	purer	,
+advmod	intense	more
+conj	purer	intense
+punct	purer	,
+case	removal	as
+case	removal	by
+nmod:by	purer	removal
+case	elements	of
+amod	elements	extraneous
+nmod:of	removal	elements

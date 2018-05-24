@@ -1,0 +1,10 @@
+det	man	A
+nsubj	swimming	man
+aux	swimming	is
+root	ROOT	swimming
+advmod	swimming	alone
+case	pool	in
+det	pool	a
+amod	pool	private
+nmod:in	swimming	pool
+punct	swimming	.

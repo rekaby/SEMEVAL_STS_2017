@@ -1,0 +1,13 @@
+det	piece	a
+amod	piece	solid
+root	ROOT	piece
+case	something	of
+nmod:of	piece	something
+punct	having	-LRB-
+advmod	having	usually
+dep	something	having
+amod	sides	flat
+amod	sides	rectangular
+dobj	having	sides
+punct	having	-RRB-
+punct	piece	.

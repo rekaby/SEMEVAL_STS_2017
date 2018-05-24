@@ -1,0 +1,11 @@
+case	threats	After
+nmod:after	turns	threats
+case	U.S.	against
+nmod:against	threats	U.S.
+punct	turns	,
+compound	Korea	North
+nsubj	turns	Korea
+root	ROOT	turns
+dobj	turns	ire
+case	South	to
+nmod:to	ire	South

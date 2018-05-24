@@ -1,0 +1,6 @@
+root	ROOT	someone
+nsubj	takes	who
+acl:relcl	someone	takes
+dobj	takes	photographs
+advmod	takes	professionally
+punct	someone	.

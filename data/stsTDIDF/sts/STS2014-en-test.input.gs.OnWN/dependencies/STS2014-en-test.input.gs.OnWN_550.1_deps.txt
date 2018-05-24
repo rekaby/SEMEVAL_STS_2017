@@ -1,0 +1,7 @@
+det	way	the
+root	ROOT	way
+nsubj	conforms	something
+acl:relcl	way	conforms
+case	shape	to
+det	shape	a
+nmod:to	conforms	shape

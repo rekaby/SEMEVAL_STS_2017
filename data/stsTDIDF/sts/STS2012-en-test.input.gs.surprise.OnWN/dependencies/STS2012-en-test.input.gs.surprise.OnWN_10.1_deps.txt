@@ -1,0 +1,9 @@
+root	ROOT	Bring
+advmod	Bring	back
+case	life	to
+nmod:to	Bring	life
+punct	Bring	,
+dobj	Bring	return
+case	dead	from
+det	dead	the
+nmod:from	return	dead

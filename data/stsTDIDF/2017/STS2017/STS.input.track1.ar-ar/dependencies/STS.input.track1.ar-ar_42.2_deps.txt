@@ -1,0 +1,7 @@
+det	boy	The
+root	ROOT	boy
+case	children	near
+det	children	the
+amod	children	other
+nmod:near	boy	children
+punct	boy	.

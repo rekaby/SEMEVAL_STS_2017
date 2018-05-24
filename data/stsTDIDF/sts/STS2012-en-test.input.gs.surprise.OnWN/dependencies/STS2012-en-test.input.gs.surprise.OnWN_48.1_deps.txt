@@ -1,0 +1,10 @@
+nsubjpass	bothered	care
+advmod	care	about
+punct	care	,
+auxpass	bothered	be
+root	ROOT	bothered
+mark	concerned	by
+punct	concerned	,
+auxpass	concerned	be
+advcl	bothered	concerned
+compound:prt	concerned	by

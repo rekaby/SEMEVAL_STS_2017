@@ -1,0 +1,10 @@
+nummod	girls	Two
+nsubj	playing	girls
+root	ROOT	playing
+case	people	with
+nmod:with	playing	people
+cc	people	and
+conj:and	people	flowers
+case	them	behind
+nmod:behind	playing	them
+punct	playing	.

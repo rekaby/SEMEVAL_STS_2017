@@ -1,0 +1,11 @@
+det	group	A
+nsubj	standing	group
+case	people	of
+nmod:of	group	people
+aux	standing	are
+root	ROOT	standing
+case	truck	beside
+det	truck	a
+compound	truck	fire
+nmod:beside	standing	truck
+punct	standing	.

@@ -1,0 +1,7 @@
+sculpture	a	det
+trees	under	case
+sculpture	large	amod
+person	sitting	dep
+sculpture	metal	compound
+sitting	trees	nmod:under
+sitting	sculpture	conj:and

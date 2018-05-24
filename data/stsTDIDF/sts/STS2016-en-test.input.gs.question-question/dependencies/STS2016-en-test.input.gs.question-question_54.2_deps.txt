@@ -1,0 +1,11 @@
+nsubj	causing	What
+aux	causing	could
+aux	causing	be
+root	ROOT	causing
+compound	breakers	GFCI
+dobj	causing	breakers
+cc	breakers	and
+conj:and	breakers	receptacles
+case	trip	to
+nmod:to	receptacles	trip
+punct	causing	?

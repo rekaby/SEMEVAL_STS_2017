@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	changing	of
+acl	act	changing
+det	location	the
+dobj	changing	location
+case	something	of
+nmod:of	location	something
+punct	act	.

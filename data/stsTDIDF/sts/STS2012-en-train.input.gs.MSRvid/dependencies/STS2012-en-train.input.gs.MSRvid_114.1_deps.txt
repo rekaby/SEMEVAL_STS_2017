@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	fighting	men
+aux	fighting	are
+root	ROOT	fighting
+case	pasture	in
+det	pasture	a
+compound	pasture	cow
+nmod:in	fighting	pasture
+punct	fighting	.

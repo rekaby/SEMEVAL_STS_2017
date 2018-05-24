@@ -1,0 +1,8 @@
+root	ROOT	move
+case	way	in
+det:predet	way	such
+det	way	a
+nmod:in	move	way
+mark	avoid	as
+mark	avoid	to
+acl	move	avoid

@@ -1,0 +1,11 @@
+advmod	come	Where
+aux	come	does
+det	money	the
+nsubj	come	money
+root	ROOT	come
+case	place	from
+case	place	in
+det	place	the
+amod	place	first
+nmod:in	come	place
+punct	come	?

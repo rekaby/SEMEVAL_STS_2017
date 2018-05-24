@@ -1,0 +1,6 @@
+det	terminal	The
+amod	terminal	positive
+nsubj	has	terminal
+root	ROOT	has
+nummod	V	1.5
+dobj	has	V

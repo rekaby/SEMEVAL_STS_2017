@@ -1,0 +1,7 @@
+det	channel	a
+root	ROOT	channel
+case	communication	for
+nmod:for	channel	communication
+case	groups	between
+nmod:between	communication	groups
+punct	channel	.

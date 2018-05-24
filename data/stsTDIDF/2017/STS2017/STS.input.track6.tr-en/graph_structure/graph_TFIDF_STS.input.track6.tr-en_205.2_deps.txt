@@ -1,0 +1,10 @@
+door	its	nmod:poss
+door	next	case
+building	people	nmod:with
+building	street	nmod:on
+bicycle	a	det
+bicycle	door	nmod:next_to
+building	A	det
+building	brick	compound
+building	red	amod
+people	bicycle	conj:and

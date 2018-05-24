@@ -1,0 +1,10 @@
+root	ROOT	alter
+det	shape	the
+dobj	alter	shape
+case	something	of
+punct	something	-LRB-
+nmod:of	shape	something
+punct	something	-RRB-
+case	stress	by
+nmod:by	alter	stress
+punct	alter	.

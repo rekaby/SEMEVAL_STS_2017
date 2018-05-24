@@ -1,0 +1,10 @@
+det	child	The
+nsubj	has	child
+case	jacket	in
+det	jacket	a
+nmod:in	child	jacket
+root	ROOT	has
+det	toy	a
+amod	toy	round
+dobj	has	toy
+punct	has	.

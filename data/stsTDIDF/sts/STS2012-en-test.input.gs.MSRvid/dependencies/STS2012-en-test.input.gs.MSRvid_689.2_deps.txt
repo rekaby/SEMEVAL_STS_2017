@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	spices	woman
+root	ROOT	spices
+det	seafood	some
+dobj	spices	seafood
+punct	spices	.

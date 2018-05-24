@@ -1,0 +1,13 @@
+root	ROOT	Obtain
+case	device	from
+det	device	a
+compound	device	storage
+nmod:from	Obtain	device
+punct	Obtain	,
+case	information	as
+mwe	as	of
+nmod:as_of	Obtain	information
+case	computer	on
+det	computer	a
+nmod:on	information	computer
+punct	Obtain	.

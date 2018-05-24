@@ -1,0 +1,11 @@
+nsubj	says	Zimmerman
+root	ROOT	says
+mark	sucker	that
+nsubj	sucker	he
+cop	sucker	was
+ccomp	says	sucker
+xcomp	sucker	punched
+case	car	by
+nmod:poss	car	his
+nmod:by	punched	car
+punct	says	.

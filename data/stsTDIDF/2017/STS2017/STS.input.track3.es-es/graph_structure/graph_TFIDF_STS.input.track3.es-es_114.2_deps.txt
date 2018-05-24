@@ -1,0 +1,5 @@
+shirt	polo	compound
+wears	shirt	dobj
+wears	man	nsubj
+shirt	green	amod
+wears	.	punct

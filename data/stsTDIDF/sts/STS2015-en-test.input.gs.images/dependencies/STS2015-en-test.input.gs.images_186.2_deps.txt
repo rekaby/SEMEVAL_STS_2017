@@ -1,0 +1,7 @@
+nummod	dogs	Two
+amod	dogs	white
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+advmod	running	together
+punct	running	.

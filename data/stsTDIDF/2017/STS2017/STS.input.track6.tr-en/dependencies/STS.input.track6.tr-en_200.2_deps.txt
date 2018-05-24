@@ -1,0 +1,7 @@
+nsubj	expecting	People
+aux	expecting	are
+root	ROOT	expecting
+case	show	for
+det	show	the
+nmod:for	expecting	show
+punct	expecting	.

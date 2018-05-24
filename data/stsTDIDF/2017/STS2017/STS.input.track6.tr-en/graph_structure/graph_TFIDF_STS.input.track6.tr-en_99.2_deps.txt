@@ -1,0 +1,5 @@
+ROOT	Couple	root
+train	speed	compound
+train	on	case
+Couple	train	nmod:on
+Couple	.	punct

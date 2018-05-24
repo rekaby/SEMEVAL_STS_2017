@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	horses	of
+nmod:of	group	horses
+dep	horses	grazing
+case	field	in
+det	field	a
+nmod:in	grazing	field
+punct	group	.

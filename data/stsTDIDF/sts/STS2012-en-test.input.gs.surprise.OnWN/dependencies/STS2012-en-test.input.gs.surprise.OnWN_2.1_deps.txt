@@ -1,0 +1,9 @@
+root	ROOT	nations
+acl	nations	unified
+case	interests	by
+amod	interests	shared
+nmod:by	unified	interests
+punct	interests	,
+conj:or	interests	history
+cc	interests	or
+conj:or	interests	institutions

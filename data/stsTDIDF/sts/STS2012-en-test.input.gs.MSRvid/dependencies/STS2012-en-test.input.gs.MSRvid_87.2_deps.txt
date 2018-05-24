@@ -1,0 +1,7 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	banana	a
+dobj	eating	banana
+punct	eating	.

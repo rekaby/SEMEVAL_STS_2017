@@ -1,0 +1,11 @@
+det	man	A
+nsubj	swinging	man
+aux	swinging	is
+root	ROOT	swinging
+case	rope	on
+det	rope	a
+nmod:on	swinging	rope
+case	water	above
+det	water	the
+nmod:above	rope	water
+punct	swinging	.

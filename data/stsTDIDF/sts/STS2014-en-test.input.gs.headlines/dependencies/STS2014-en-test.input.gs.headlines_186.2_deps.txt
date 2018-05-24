@@ -1,0 +1,9 @@
+compound	president	Egypt
+nsubj	declares	president
+root	ROOT	declares
+dobj	declares	state
+case	emergency	of
+nmod:of	state	emergency
+case	cities	in
+nummod	cities	three
+nmod:in	state	cities

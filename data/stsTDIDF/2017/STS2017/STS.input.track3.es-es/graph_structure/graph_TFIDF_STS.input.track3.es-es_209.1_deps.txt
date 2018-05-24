@@ -1,0 +1,6 @@
+ROOT	removes	root
+clothes	his	nmod:poss
+clothes	all	det:predet
+removes	clothes	dobj
+removes	.	punct
+removes	boy	nsubj

@@ -1,0 +1,8 @@
+transporting	platform	dobj
+place	new	amod
+transporting	were	aux
+ROOT	transporting	root
+transporting	place	nmod:to
+transporting	people	nsubj
+platform	the	det
+transporting	.	punct

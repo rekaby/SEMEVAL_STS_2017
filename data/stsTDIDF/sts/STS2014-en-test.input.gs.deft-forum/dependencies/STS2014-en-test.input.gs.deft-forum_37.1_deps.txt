@@ -1,0 +1,11 @@
+advmod	compare	When
+aux	compare	did
+nsubj	compare	I
+root	ROOT	compare
+compound	sexuaity	homo
+dobj	compare	sexuaity
+case	disorder	with
+det	disorder	a
+amod	disorder	developmental
+nmod:with	sexuaity	disorder
+punct	compare	?

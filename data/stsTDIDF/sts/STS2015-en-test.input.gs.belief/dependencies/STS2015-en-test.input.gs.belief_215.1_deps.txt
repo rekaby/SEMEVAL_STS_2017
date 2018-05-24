@@ -1,0 +1,8 @@
+root	ROOT	<shrug>
+nsubj	person	what
+cop	person	's
+det	person	a
+acl:relcl	<shrug>	person
+mark	do	to
+acl	person	do
+punct	<shrug>	?

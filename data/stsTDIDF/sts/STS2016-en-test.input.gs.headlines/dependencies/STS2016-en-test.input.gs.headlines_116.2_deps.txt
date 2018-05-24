@@ -1,0 +1,13 @@
+dobj	know	What
+nsubj	know	we
+root	ROOT	know
+advmod	far	so
+advmod	know	far
+case	weapons	about
+compound	weapons	chemical
+nmod:about	far	weapons
+case	war	in
+nmod:poss	war	Syria
+case	Syria	's
+amod	war	civil
+nmod:in	weapons	war

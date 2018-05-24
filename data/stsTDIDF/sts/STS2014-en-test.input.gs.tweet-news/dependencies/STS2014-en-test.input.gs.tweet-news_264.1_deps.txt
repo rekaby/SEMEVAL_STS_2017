@@ -1,0 +1,19 @@
+advmod	go	Here
+nsubj	go	we
+root	ROOT	go
+advmod	go	again
+punct	go	.-5) root(ROOT-0, .-1) det(man-2, A
+nsubj	says	man
+root	ROOT	says
+nsubj	knows	he
+cop	knows	's
+punct	knows	`
+dep	knows	certain
+punct	knows	'
+nsubj	knows	he
+ccomp	says	knows
+advmod	buried	where
+nsubjpass	buried	Hoffa
+auxpass	buried	is
+advcl	knows	buried
+punct	says	.

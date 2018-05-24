@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	eating	woman
+aux	eating	is
+root	ROOT	eating
+dobj	eating	meat
+punct	eating	.

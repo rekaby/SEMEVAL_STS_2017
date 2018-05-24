@@ -1,0 +1,9 @@
+det	group	A
+nsubj	sit	group
+case	people	of
+nmod:of	group	people
+root	ROOT	sit
+case	party	at
+det	party	a
+nmod:at	sit	party
+punct	sit	.

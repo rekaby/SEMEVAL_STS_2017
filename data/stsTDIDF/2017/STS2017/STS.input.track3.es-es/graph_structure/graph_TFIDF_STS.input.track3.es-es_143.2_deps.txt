@@ -1,0 +1,6 @@
+player	hockey	compound
+disc	a	det
+playing	disc	nmod:with
+player	A	det
+playing	player	nsubj
+disc	with	case

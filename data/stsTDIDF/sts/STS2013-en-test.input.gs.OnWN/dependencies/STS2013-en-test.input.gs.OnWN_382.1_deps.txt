@@ -1,0 +1,14 @@
+root	ROOT	Expel
+cc	Expel	or
+conj:or	Expel	eject
+dep	Expel	saliva
+punct	saliva	,
+conj:or	saliva	sputum
+punct	saliva	,
+cc	saliva	or
+det	object	an
+conj:or	saliva	object
+case	mouth	from
+det	mouth	the
+nmod:from	object	mouth
+punct	Expel	.

@@ -1,0 +1,6 @@
+root	ROOT	Blast
+case	embassy	near
+compound	embassy	Iran
+nmod:near	Blast	embassy
+case	Beirut	in
+nmod:in	Blast	Beirut

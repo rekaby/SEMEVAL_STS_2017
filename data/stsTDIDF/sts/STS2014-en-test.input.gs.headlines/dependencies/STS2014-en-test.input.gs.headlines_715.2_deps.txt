@@ -1,0 +1,8 @@
+amod	rebels	Syrian
+nsubj	claim	rebels
+root	ROOT	claim
+dobj	claim	responsibility
+case	killings	for
+nmod:for	responsibility	killings
+case	Lebanon	in
+nmod:in	killings	Lebanon

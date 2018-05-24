@@ -1,0 +1,9 @@
+nsubj	evacuated	Thousands
+root	ROOT	evacuated
+case	breaks	after
+compound	breaks	fire
+nmod:after	evacuated	breaks
+advmod	breaks	out
+case	Moscow	in
+nmod:in	out	Moscow
+dobj	evacuated	Metro

@@ -1,0 +1,4 @@
+cut	who	nsubj
+cut	cake	dobj
+cake	a	det
+people	cut	acl:relcl

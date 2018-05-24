@@ -1,0 +1,8 @@
+expl	's	There
+root	ROOT	's
+det	camera	a
+nsubj	's	camera
+case	street	on
+det	street	the
+nmod:on	camera	street
+punct	's	.

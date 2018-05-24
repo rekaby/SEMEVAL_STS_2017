@@ -1,0 +1,16 @@
+nsubj	had	i
+root	ROOT	had
+det	dream	a
+dobj	had	dream
+nsubjpass	surronded	i
+auxpass	surronded	was
+acl:relcl	dream	surronded
+case	bamboo	by
+nmod:agent	surronded	bamboo
+punct	had	,
+case	belly	on
+nmod:poss	belly	my
+nmod:on	had	belly
+cc	belly	and
+conj:and	belly	scared
+punct	had	.

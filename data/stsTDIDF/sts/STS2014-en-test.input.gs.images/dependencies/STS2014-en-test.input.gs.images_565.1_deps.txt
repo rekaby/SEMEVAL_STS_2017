@@ -1,0 +1,16 @@
+det	bird	A
+amod	bird	black
+cc	black	and
+conj:and	black	white
+root	ROOT	bird
+case	body	on
+det	body	a
+nmod:on	bird	body
+case	water	of
+nmod:of	body	water
+case	grass	with
+nmod:with	water	grass
+case	background	in
+det	background	the
+nmod:in	bird	background
+punct	bird	.

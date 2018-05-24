@@ -1,0 +1,7 @@
+compound	vote	Indonesians
+root	ROOT	vote
+case	president	for
+nmod:for	vote	president
+case	race	in
+amod	race	tight
+nmod:in	president	race

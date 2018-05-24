@@ -1,0 +1,8 @@
+compound	Motives	Investigators
+compound	Motives	Probe
+root	ROOT	Motives
+case	Airport	of
+compound	Airport	Los
+compound	Airport	Angeles
+nmod:of	Motives	Airport
+dep	Motives	Shooter

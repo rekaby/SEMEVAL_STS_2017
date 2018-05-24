@@ -1,0 +1,7 @@
+det	puppy	A
+root	ROOT	puppy
+acl	puppy	running
+case	street	along
+det	street	a
+nmod:along	running	street
+punct	puppy	.

@@ -1,0 +1,7 @@
+amod	structure	Characterise
+root	ROOT	structure
+case	solution	of
+det	solution	an
+amod	solution	optimal
+nmod:of	structure	solution
+punct	structure	.

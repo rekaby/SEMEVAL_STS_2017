@@ -1,0 +1,13 @@
+nsubj	part	I
+cop	part	am
+root	ROOT	part
+case	ones	of
+det	ones	the
+amod	ones	parliamentary
+nmod:of	part	ones
+nsubj	present	that
+cop	present	are
+advmod	present	rather
+acl:relcl	ones	present
+advmod	present	honorably
+punct	part	.

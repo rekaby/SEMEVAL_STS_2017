@@ -1,0 +1,6 @@
+det	native	a
+root	ROOT	native
+case	Troy	of
+amod	Troy	ancient
+nmod:of	native	Troy
+punct	native	.

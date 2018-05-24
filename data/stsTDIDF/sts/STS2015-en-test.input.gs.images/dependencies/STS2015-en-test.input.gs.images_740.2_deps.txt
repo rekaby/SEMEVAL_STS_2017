@@ -1,0 +1,8 @@
+det	classroom	A
+root	ROOT	classroom
+case	students	of
+nmod:of	classroom	students
+acl	students	watching
+det	presentation	a
+dobj	watching	presentation
+punct	classroom	.

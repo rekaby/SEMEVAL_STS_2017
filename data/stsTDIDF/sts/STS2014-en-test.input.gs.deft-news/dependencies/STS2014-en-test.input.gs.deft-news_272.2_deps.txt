@@ -1,0 +1,9 @@
+nsubj	threat	it
+cop	threat	is
+det	threat	a
+amod	threat	serious
+root	ROOT	threat
+case	security	to
+amod	security	international
+nmod:to	threat	security
+punct	threat	.

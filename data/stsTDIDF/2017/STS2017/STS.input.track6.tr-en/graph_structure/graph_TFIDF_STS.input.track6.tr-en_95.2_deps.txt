@@ -1,0 +1,6 @@
+pool	swimming	amod
+pool	A	det
+full	.	punct
+ROOT	full	root
+full	pool	nsubj
+full	water	nmod:of

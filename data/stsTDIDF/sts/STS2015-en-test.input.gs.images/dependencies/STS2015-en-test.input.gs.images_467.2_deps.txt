@@ -1,0 +1,11 @@
+det	man	A
+nsubj	jump	man
+case	bike	on
+det	bike	a
+nmod:on	man	bike
+aux	jump	does
+det	jump	a
+advmod	high	very
+amod	jump	high
+root	ROOT	jump
+punct	jump	.

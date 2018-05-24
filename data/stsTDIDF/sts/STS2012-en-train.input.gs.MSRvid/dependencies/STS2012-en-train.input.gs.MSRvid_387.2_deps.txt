@@ -1,0 +1,9 @@
+det	flag	A
+amod	flag	American
+nsubj	blowing	flag
+aux	blowing	is
+root	ROOT	blowing
+case	wind	in
+det	wind	the
+nmod:in	blowing	wind
+punct	blowing	.

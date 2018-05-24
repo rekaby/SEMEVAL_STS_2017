@@ -1,0 +1,8 @@
+det	document	A
+nsubj	has	document
+root	ROOT	has
+dobj	has	representation
+case	vector	as
+det	vector	a
+nmod:as	representation	vector
+punct	has	.

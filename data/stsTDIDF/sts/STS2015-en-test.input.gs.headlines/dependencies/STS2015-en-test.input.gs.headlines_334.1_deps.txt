@@ -1,0 +1,8 @@
+nsubj	releases	Google
+root	ROOT	releases
+compound	phone	Nexus
+nummod	phone	5
+nsubj	Kat	phone
+case	Kit	with
+nmod:with	phone	Kit
+ccomp	releases	Kat

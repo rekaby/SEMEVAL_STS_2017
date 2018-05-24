@@ -1,0 +1,8 @@
+compound	Marathon	London
+nsubj	observes	Marathon
+root	ROOT	observes
+dobj	observes	silence
+case	victims	for
+compound	victims	Boston
+compound	victims	bomb
+nmod:for	silence	victims

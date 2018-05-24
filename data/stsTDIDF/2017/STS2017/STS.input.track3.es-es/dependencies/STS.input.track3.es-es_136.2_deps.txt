@@ -1,0 +1,11 @@
+det	man	A
+nsubj	climbing	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	climbing	are
+root	ROOT	climbing
+case	mountain	on
+det	mountain	a
+nmod:on	climbing	mountain
+punct	climbing	.

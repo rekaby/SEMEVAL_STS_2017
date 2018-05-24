@@ -1,0 +1,6 @@
+compound	vomited	Girl
+root	ROOT	vomited
+case	car	in
+det	car	the
+nmod:in	vomited	car
+punct	vomited	.

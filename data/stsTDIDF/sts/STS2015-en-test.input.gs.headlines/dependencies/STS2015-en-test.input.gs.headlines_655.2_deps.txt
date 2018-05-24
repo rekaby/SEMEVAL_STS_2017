@@ -1,0 +1,8 @@
+nsubj	confirms	France
+root	ROOT	confirms
+nummod	journalists	two
+amod	journalists	French
+dobj	confirms	journalists
+acl	journalists	killed
+case	Mali	in
+nmod:in	killed	Mali

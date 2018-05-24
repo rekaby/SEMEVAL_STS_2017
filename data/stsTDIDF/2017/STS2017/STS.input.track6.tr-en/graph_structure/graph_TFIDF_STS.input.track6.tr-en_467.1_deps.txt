@@ -1,0 +1,5 @@
+floating	ocean	nmod:in
+girl	floating	acl
+floating	day	nmod:on
+day	beautiful	amod
+ocean	in	case

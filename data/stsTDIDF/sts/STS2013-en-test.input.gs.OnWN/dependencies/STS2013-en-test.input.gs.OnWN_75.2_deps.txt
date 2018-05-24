@@ -1,0 +1,9 @@
+root	ROOT	cause
+mark	adopt	to
+xcomp	cause	adopt
+det	faith	a
+amod	faith	new
+cc	new	or
+conj:or	new	different
+dobj	adopt	faith
+punct	cause	.

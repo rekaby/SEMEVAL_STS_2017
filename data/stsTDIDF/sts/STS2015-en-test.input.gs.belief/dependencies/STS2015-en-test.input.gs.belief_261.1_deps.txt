@@ -1,0 +1,11 @@
+nsubj	said	she
+advmod	said	then
+root	ROOT	said
+nsubj	give	she
+aux	give	could
+neg	give	not
+ccomp	said	give
+iobj	give	me
+nmod:poss	number	their
+dobj	give	number
+punct	said	.

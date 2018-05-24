@@ -1,0 +1,10 @@
+nsubj	makes	What
+root	ROOT	makes
+nsubj	think	you
+ccomp	makes	think
+det	owl	the
+nsubj	participate	owl
+aux	participate	did
+neg	participate	n't
+ccomp	think	participate
+punct	makes	?

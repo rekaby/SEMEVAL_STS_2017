@@ -1,0 +1,8 @@
+amod	let	free
+punct	restraint	-LRB-
+case	restraint	from
+dep	free	restraint
+punct	restraint	-RRB-
+punct	let	,
+root	ROOT	let
+dobj	let	loose

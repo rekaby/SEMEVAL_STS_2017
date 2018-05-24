@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	group	having
+det	drink	a
+dobj	having	drink
+punct	group	.

@@ -1,0 +1,10 @@
+det	lady	The
+nsubj	stirred	lady
+root	ROOT	stirred
+compound:prt	stirred	up
+amod	eggs	raw
+dobj	stirred	eggs
+case	bowl	in
+det	bowl	the
+nmod:in	eggs	bowl
+punct	stirred	.

@@ -1,0 +1,10 @@
+nsubj	shuts	France
+root	ROOT	shuts
+dobj	shuts	mosque
+punct	shuts	,
+compound	man	arrests
+dobj	shuts	man
+case	crackdown	in
+nmod:in	man	crackdown
+case	attacks	after
+nmod:after	man	attacks

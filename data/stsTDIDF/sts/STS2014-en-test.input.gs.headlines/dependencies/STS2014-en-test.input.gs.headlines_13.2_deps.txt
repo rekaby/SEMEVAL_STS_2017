@@ -1,0 +1,8 @@
+compound	stock	Boeing
+nsubj	tumbles	stock
+root	ROOT	tumbles
+case	fire	after
+nmod:after	tumbles	fire
+case	Dreamliner	on
+nummod	Dreamliner	787
+nmod:on	tumbles	Dreamliner

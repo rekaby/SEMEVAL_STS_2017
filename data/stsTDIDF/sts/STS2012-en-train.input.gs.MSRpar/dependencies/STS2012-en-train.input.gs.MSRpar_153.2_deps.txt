@@ -1,0 +1,15 @@
+det	bomb	The
+compound	bomb	letter
+nsubj	sent	bomb
+root	ROOT	sent
+case	Prodi	to
+nmod:to	sent	Prodi
+dep	sent	exploded
+case	hands	in
+nmod:poss	hands	his
+nmod:in	exploded	hands
+cc	exploded	but
+nsubj	unhurt	he
+cop	unhurt	was
+conj:but	exploded	unhurt
+punct	sent	.

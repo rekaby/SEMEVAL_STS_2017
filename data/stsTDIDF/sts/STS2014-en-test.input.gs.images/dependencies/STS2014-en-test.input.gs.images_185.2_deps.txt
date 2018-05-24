@@ -1,0 +1,10 @@
+det	bicycle	A
+amod	bicycle	pink
+nsubj	building	bicycle
+cop	building	is
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+root	ROOT	building
+punct	building	.

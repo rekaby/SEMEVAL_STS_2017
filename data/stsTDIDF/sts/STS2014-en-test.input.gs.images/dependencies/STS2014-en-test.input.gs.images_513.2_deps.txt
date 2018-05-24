@@ -1,0 +1,8 @@
+det	car	A
+amod	car	green
+nsubj	parked	car
+root	ROOT	parked
+case	saloon	outside
+det	saloon	the
+nmod:outside	parked	saloon
+punct	parked	.

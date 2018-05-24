@@ -1,0 +1,8 @@
+compound	investigator	Amnesty
+root	ROOT	investigator
+punct	investigator	:
+compound	rebels	Syria
+nsubj	committing	rebels
+advmod	committing	also
+parataxis	investigator	committing
+dobj	committing	abuses

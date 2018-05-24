@@ -1,0 +1,8 @@
+dep	make	build
+punct	make	,
+root	ROOT	make
+mark	combining	by
+advcl	make	combining
+dobj	combining	materials
+cc	materials	or
+conj:or	materials	parts

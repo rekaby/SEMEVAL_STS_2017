@@ -1,0 +1,12 @@
+advmod	partiers	where
+cop	partiers	were
+det	partiers	the
+punct	partiers	``
+compound	partiers	tea
+root	ROOT	partiers
+punct	partiers	''
+case	08	in
+amod	08	late
+punct	08	'
+nmod:in	partiers	08
+dep	partiers	!!!!?????

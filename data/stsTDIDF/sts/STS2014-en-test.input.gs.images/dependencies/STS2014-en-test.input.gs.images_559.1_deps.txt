@@ -1,0 +1,5 @@
+root	ROOT	Boy
+acl	Boy	feeding
+det	sheep	a
+dobj	feeding	sheep
+punct	Boy	.

@@ -1,0 +1,9 @@
+det	agent	an
+root	ROOT	agent
+nsubj	operates	that
+acl:relcl	agent	operates
+det	apparatus	some
+dobj	operates	apparatus
+cc	apparatus	or
+conj:or	apparatus	machine
+punct	agent	.

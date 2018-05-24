@@ -1,0 +1,12 @@
+nsubj	find	I
+root	ROOT	find
+xcomp	find	exemplary
+mark	resolved	that
+nsubj	resolved	France
+aux	resolved	has
+ccomp	exemplary	resolved
+mark	take	to
+xcomp	resolved	take
+det	step	that
+dobj	take	step
+punct	find	.

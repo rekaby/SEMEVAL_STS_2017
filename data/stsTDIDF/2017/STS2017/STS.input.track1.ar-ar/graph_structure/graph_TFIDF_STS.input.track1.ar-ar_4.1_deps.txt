@@ -1,0 +1,8 @@
+aloft	grass	nmod:on
+man	Jumps	compound
+grass	on	case
+jersey	the	det
+man	aloft	advmod
+man	jersey	nmod:with
+jersey	with	case
+jersey	green	amod

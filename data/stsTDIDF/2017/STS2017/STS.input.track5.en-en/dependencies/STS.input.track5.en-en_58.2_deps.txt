@@ -1,0 +1,9 @@
+det	boy	The
+nsubj	taking	boy
+aux	taking	is
+root	ROOT	taking
+det	test	a
+dobj	taking	test
+case	school	at
+nmod:at	taking	school
+punct	taking	.

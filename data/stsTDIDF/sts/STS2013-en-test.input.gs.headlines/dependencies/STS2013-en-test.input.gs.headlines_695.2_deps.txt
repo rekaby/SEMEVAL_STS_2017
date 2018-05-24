@@ -1,0 +1,7 @@
+dep	deputy	Bank
+case	England	of
+nmod:of	Bank	England
+nsubj	denies	deputy
+root	ROOT	denies
+xcomp	denies	ordering
+dobj	ordering	rate-rigging

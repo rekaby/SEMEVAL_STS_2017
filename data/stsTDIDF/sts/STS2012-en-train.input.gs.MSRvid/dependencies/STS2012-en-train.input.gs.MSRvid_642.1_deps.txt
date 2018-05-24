@@ -1,0 +1,9 @@
+det	man	The
+nsubj	sang	man
+root	ROOT	sang
+case	stage	on
+nmod:on	sang	stage
+case	microphone	into
+det	microphone	the
+nmod:into	sang	microphone
+punct	sang	.

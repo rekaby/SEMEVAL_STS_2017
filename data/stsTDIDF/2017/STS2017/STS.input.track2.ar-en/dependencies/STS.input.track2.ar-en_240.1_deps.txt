@@ -1,0 +1,14 @@
+det	man	A
+nsubj	resting	man
+aux	resting	is
+root	ROOT	resting
+case	wipeout	from
+det	wipeout	a
+nmod:from	resting	wipeout
+nsubj	had	he
+acl:relcl	wipeout	had
+case	trick	due
+mwe	due	to
+det	trick	a
+amod	trick	hard
+nmod:due_to	had	trick

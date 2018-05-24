@@ -1,0 +1,11 @@
+det	grazing	A
+amod	grazing	brown
+compound	grazing	horse
+root	ROOT	grazing
+case	field	in
+det	field	a
+nmod:in	grazing	field
+case	grass	of
+amod	grass	green
+nmod:of	field	grass
+punct	grazing	.

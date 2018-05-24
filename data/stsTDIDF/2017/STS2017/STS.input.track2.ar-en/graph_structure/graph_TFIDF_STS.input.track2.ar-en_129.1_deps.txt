@@ -1,0 +1,7 @@
+group	trying	acl
+player	from	case
+players	basketball	compound
+get	player	nmod:from
+group	players	nmod:of
+player	another	det
+get	ball	dobj

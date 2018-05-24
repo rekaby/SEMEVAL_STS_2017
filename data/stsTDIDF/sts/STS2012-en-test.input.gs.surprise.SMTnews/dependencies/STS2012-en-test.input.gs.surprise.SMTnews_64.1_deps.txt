@@ -1,0 +1,15 @@
+amod	Europeans	Western
+nsubj	heed	Europeans
+punct	Europeans	,
+nsubjpass	spared	who
+aux	spared	have
+auxpass	spared	been
+acl:relcl	Europeans	spared
+det	legacy	this
+dobj	spared	legacy
+punct	Europeans	,
+aux	heed	should
+root	ROOT	heed
+nmod:poss	warnings	our
+dobj	heed	warnings
+punct	heed	.

@@ -1,0 +1,17 @@
+det	man	A
+nsubj	came	man
+advmod	came	just
+root	ROOT	came
+case	sea	from
+det	sea	the
+nmod:from	came	sea
+acl	sea	wearing
+det	suit	a
+compound	suit	diving
+dobj	wearing	suit
+cc	came	and
+advmod	holds	now
+conj:and	came	holds
+det	fund	the
+dobj	holds	fund
+punct	came	.

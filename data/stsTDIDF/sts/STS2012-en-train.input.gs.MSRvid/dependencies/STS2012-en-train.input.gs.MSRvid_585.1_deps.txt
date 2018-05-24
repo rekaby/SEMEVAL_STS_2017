@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	shoots	woman
+root	ROOT	shoots
+det	shotgun	a
+dobj	shoots	shotgun
+punct	shoots	.

@@ -1,0 +1,7 @@
+nsubj	getting	People
+aux	getting	are
+root	ROOT	getting
+case	track	on
+det	track	the
+nmod:on	getting	track
+punct	getting	.

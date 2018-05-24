@@ -1,0 +1,6 @@
+nummod prisoners 1000	15.060439779775294
+nsubj escape prisoners	15.060439779775294
+amod jail Libyan	15.060439779775294
+nmod:from escape jail	15.060439779775294
+case jail from	11.44952186713107
+root ROOT escape	11.168619481664667

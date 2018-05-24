@@ -1,0 +1,12 @@
+advmod	Is	Here
+root	ROOT	Is
+nsubj	Happens	What
+ccomp	Is	Happens
+advmod	Cast	When
+nsubj	Cast	You
+advcl	Happens	Cast
+compound	Lohan	Lindsay
+dobj	Cast	Lohan
+case	Movie	in
+nmod:poss	Movie	Your
+nmod:in	Cast	Movie

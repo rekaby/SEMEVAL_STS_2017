@@ -1,0 +1,10 @@
+compound	hat-trick	Cristiano
+compound	hat-trick	Ronaldo
+nsubj	fires	hat-trick
+root	ROOT	fires
+dobj	fires	Portugal
+case	finals	to
+nummod	finals	2014
+compound	finals	World
+compound	finals	Cup
+nmod:to	fires	finals

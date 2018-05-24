@@ -1,0 +1,14 @@
+root	ROOT	move
+conj:or	move	move
+conj:or	move	move
+advmod	move	together
+case	hive	in
+det	hive	a
+nmod:in	move	hive
+cc	move	or
+case	hive	as
+mwe	as	if
+case	hive	in
+det	hive	a
+nmod:as_if	move	hive
+punct	move	.

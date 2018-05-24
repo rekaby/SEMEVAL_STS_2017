@@ -1,0 +1,16 @@
+det	celebration	The
+root	ROOT	celebration
+case	time	of
+det	time	the
+amod	time	Second
+amod	time	crucial
+nmod:of	celebration	time
+case	Improvement	for
+det	Improvement	the
+nmod:for	celebration	Improvement
+case	Record	of
+nmod:of	Improvement	Record
+case	Equipe	of
+det	Equipe	the
+nmod:of	Record	Equipe
+punct	celebration	.

@@ -1,0 +1,6 @@
+det	cook	A
+nsubj	making	cook
+aux	making	is
+root	ROOT	making
+dobj	making	food
+punct	making	.

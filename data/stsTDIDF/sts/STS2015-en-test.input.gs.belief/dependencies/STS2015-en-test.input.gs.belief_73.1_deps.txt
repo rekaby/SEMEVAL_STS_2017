@@ -1,0 +1,7 @@
+aux	say	did
+nsubj	say	i
+root	ROOT	say
+nsubj	excused	i
+ccomp	say	excused
+dobj	excused	it
+punct	say	?

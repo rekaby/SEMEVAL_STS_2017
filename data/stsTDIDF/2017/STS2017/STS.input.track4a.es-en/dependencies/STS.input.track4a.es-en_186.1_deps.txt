@@ -1,0 +1,7 @@
+det	man	The
+nmod:poss	sweatshirt	man
+case	man	's
+nsubj	gray	sweatshirt
+cop	gray	is
+root	ROOT	gray
+punct	gray	.

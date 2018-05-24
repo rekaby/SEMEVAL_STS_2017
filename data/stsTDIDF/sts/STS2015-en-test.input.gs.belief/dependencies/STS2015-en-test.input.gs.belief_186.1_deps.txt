@@ -1,0 +1,10 @@
+nummod	members	two
+compound	members	coalition
+compound	members	crew
+nsubjpass	injured	members
+auxpass	injured	were
+root	ROOT	injured
+case	attack	in
+det	attack	that
+nmod:in	injured	attack
+punct	injured	.

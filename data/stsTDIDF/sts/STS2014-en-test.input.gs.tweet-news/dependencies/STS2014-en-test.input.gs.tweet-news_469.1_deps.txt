@@ -1,0 +1,18 @@
+dep	move	setting
+det	bar	the
+dobj	setting	bar
+punct	move	,
+amod	move	good
+root	ROOT	move
+punct	move	!-7) root(ROOT-0, ``
+compound	Plans	Wal-Mart
+root	``	Plans
+mark	Hire	to
+acl	Plans	Hire
+det	Veteran	Any
+dobj	Hire	Veteran
+nsubj	Wants	Who
+acl:relcl	Veteran	Wants
+det	Job	a
+dobj	Wants	Job
+punct	Plans	''

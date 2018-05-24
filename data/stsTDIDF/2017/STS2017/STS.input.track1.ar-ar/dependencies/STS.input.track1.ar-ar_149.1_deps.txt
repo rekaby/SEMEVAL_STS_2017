@@ -1,0 +1,7 @@
+root	ROOT	Surfer
+acl	Surfer	wearing
+det	divers	a
+amod	divers	black
+compound	divers	suit
+dobj	wearing	divers
+punct	Surfer	.

@@ -1,0 +1,10 @@
+det	player	A
+compound	player	soccer
+nsubj	kicks	player
+root	ROOT	kicks
+det	ball	the
+dobj	kicks	ball
+case	goal	into
+det	goal	the
+nmod:into	kicks	goal
+punct	kicks	.

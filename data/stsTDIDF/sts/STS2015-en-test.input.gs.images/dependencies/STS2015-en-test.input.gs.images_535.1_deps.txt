@@ -1,0 +1,15 @@
+det	bulldog	A
+nsubj	running	bulldog
+aux	running	is
+root	ROOT	running
+case	park	through
+det	park	a
+amod	park	grassy
+nmod:through	running	park
+mark	stand	while
+nsubj	stand	people
+advcl	running	stand
+case	background	in
+det	background	the
+nmod:in	stand	background
+punct	running	.

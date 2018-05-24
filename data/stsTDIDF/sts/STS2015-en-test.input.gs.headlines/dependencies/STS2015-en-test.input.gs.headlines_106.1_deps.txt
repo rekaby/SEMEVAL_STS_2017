@@ -1,0 +1,9 @@
+nsubj	condemns	U.N.
+root	ROOT	condemns
+amod	killings	ethnic
+dobj	condemns	killings
+case	town	in
+compound	town	South
+compound	town	Sudan
+compound	town	oil
+nmod:in	killings	town

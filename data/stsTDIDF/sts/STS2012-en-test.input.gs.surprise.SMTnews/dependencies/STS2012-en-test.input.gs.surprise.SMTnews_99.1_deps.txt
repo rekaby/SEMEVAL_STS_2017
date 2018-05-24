@@ -1,0 +1,14 @@
+aux	give	Will
+nsubj	give	it
+root	ROOT	give
+iobj	give	us
+det	right	the
+dobj	give	right
+mark	divorce	to
+acl	right	divorce
+det	husbands	the
+dobj	divorce	husbands
+nsubj	abandon	who
+acl:relcl	husbands	abandon
+dobj	abandon	us
+punct	give	?

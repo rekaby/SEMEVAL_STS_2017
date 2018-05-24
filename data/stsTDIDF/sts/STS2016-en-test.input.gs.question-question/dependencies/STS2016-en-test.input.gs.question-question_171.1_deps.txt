@@ -1,0 +1,14 @@
+advmod	cite	How
+aux	cite	should
+nsubj	cite	I
+root	ROOT	cite
+det	screenshot	a
+dobj	cite	screenshot
+case	style	in
+compound	style	APA
+nmod:in	screenshot	style
+case	paper	for
+nmod:poss	paper	my
+compound	paper	student
+nmod:for	screenshot	paper
+punct	cite	?

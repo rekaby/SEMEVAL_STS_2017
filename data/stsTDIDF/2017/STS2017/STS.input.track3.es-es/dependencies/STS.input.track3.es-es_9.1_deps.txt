@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	stands	girl
+case	dress	in
+det	dress	a
+amod	dress	pink
+nmod:in	girl	dress
+root	ROOT	stands
+advmod	stands	headfirst
+punct	stands	.

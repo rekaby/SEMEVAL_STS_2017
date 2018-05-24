@@ -1,0 +1,12 @@
+det	debarment	a
+amod	debarment	temporary
+root	ROOT	debarment
+punct	privilege	-LRB-
+case	privilege	from
+det	privilege	a
+nmod:from	debarment	privilege
+cc	privilege	or
+compound	etc	position
+conj:or	privilege	etc
+punct	privilege	-RRB-
+punct	debarment	.

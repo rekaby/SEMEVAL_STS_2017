@@ -1,0 +1,7 @@
+det	man	A
+nsubj	using	man
+aux	using	is
+root	ROOT	using
+det	laptop	a
+dobj	using	laptop
+punct	using	.

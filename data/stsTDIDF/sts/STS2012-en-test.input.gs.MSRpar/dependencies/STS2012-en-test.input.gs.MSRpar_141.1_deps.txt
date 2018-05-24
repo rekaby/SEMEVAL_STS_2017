@@ -1,0 +1,16 @@
+nsubj	contended	Prosecutors
+root	ROOT	contended
+mark	plotted	that
+compound	Durst	Mr.
+nsubj	plotted	Durst
+aux	plotted	had
+ccomp	contended	plotted
+det	murder	the
+dobj	plotted	murder
+mark	assume	to
+xcomp	plotted	assume
+compound	Black	Mr.
+nmod:poss	identity	Black
+case	Black	's
+dobj	assume	identity
+punct	contended	.

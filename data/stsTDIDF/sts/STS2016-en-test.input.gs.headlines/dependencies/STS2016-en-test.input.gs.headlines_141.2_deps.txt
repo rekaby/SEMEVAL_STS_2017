@@ -1,0 +1,7 @@
+compound	issues	China
+root	ROOT	issues
+amod	alert	yellow
+dep	issues	alert
+case	typhoon	for
+nmod:for	alert	typhoon
+dep	alert	Kalmaegi

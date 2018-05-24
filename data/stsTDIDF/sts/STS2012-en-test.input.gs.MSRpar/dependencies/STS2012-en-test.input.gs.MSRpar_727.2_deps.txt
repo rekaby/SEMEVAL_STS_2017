@@ -1,0 +1,12 @@
+nsubj	rose	Shares
+case	Oracle	of
+compound	Oracle	Redwood
+amod	Oracle	Shores-based
+nmod:of	Shares	Oracle
+root	ROOT	rose
+nummod	cents	14
+dobj	rose	cents
+case	$	to
+nmod:to	rose	$
+nummod	$	13.62
+punct	rose	.

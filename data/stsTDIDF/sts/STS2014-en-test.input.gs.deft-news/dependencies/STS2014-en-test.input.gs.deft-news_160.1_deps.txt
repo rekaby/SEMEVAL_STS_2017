@@ -1,0 +1,8 @@
+nsubj	arrested	police
+root	ROOT	arrested
+nummod	suspects	2
+amod	suspects	honduran
+compound	suspects	drug
+compound	suspects	trafficking
+dobj	arrested	suspects
+punct	arrested	.

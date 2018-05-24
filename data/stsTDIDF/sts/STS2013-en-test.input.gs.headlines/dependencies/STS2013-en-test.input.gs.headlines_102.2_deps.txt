@@ -1,0 +1,6 @@
+compound	toll	US
+nsubj	hits	toll
+case	Afghanistan	in
+nmod:in	toll	Afghanistan
+root	ROOT	hits
+dobj	hits	2,000

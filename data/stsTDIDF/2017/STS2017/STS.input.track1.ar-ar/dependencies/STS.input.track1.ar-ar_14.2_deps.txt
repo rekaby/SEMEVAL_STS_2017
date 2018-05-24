@@ -1,0 +1,10 @@
+nsubj	sits	Woman
+root	ROOT	sits
+case	room	inside
+det	room	the
+amod	room	dressing
+nmod:inside	sits	room
+case	yacht	in
+det	yacht	the
+nmod:in	room	yacht
+punct	sits	.

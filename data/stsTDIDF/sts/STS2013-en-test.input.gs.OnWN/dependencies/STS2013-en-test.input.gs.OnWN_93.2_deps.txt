@@ -1,0 +1,13 @@
+det	act	the
+root	ROOT	act
+mark	concealing	of
+acl	act	concealing
+det	identity	the
+dobj	concealing	identity
+case	something	of
+nmod:of	identity	something
+mark	modifying	by
+advcl	concealing	modifying
+nmod:poss	appearance	its
+dobj	modifying	appearance
+punct	act	.

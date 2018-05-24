@@ -1,0 +1,10 @@
+nmod:poss	opposition	Egypt
+case	Egypt	's
+amod	opposition	main
+nsubj	rejects	opposition
+root	ROOT	rejects
+nmod:poss	call	president
+case	president	's
+dobj	rejects	call
+case	dialogue	for
+nmod:for	call	dialogue

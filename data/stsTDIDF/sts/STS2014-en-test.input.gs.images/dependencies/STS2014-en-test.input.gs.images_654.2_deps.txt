@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+nsubj	standing	dog
+root	ROOT	standing
+case	room	in
+det	room	a
+nmod:in	standing	room
+auxpass	constructed	being
+acl	room	constructed
+punct	standing	.

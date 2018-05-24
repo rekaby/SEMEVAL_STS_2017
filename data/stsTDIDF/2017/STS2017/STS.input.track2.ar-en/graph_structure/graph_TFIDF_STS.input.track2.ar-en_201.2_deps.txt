@@ -1,0 +1,5 @@
+ROOT	Ptsabakan	root
+Ptsabakan	Kalban	compound
+other	water	nmod:in
+Ptsabakan	other	nmod:with
+Ptsabakan	.	punct

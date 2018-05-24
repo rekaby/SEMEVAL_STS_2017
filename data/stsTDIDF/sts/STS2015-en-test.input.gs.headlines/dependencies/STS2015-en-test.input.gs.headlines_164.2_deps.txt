@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	200	least
+root	ROOT	200
+acl	200	killed
+case	Bangladesh	in
+nmod:in	killed	Bangladesh
+compound	collapse	building
+dobj	killed	collapse

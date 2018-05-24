@@ -1,0 +1,10 @@
+det	kids	The
+nsubj	theater	kids
+cop	theater	are
+case	theater	at
+det	theater	the
+root	ROOT	theater
+acl	theater	watching
+det	movie	a
+dobj	watching	movie
+punct	theater	.

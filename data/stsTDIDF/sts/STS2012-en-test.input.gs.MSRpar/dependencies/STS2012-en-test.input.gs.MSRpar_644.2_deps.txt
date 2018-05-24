@@ -1,0 +1,10 @@
+compound	officials	NASCAR
+nsubjpass	reached	officials
+aux	reached	could
+neg	reached	not
+auxpass	reached	be
+root	ROOT	reached
+case	comment	for
+nmod:for	reached	comment
+nmod:tmod	comment	Tuesday
+punct	reached	.

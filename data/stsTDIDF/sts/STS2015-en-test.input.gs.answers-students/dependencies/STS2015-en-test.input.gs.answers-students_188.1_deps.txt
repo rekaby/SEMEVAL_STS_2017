@@ -1,0 +1,10 @@
+amod	3	terminal
+nsubjpass	connected	3
+cc	3	and
+det	terminal	the
+amod	terminal	positie
+conj:and	3	terminal
+auxpass	connected	are
+neg	connected	not
+root	ROOT	connected
+punct	connected	.

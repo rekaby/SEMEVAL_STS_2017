@@ -1,0 +1,5 @@
+root	ROOT	move
+case	course	in
+det	course	an
+amod	course	irregular
+nmod:in	move	course

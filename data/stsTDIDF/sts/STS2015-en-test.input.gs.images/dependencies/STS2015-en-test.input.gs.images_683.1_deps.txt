@@ -1,0 +1,13 @@
+det	dog	A
+root	ROOT	dog
+case	ears	with
+amod	ears	floppy
+nmod:with	dog	ears
+acl	ears	walking
+case	camera	towards
+det	camera	the
+nmod:towards	walking	camera
+case	woods	in
+det	woods	the
+nmod:in	camera	woods
+punct	dog	.

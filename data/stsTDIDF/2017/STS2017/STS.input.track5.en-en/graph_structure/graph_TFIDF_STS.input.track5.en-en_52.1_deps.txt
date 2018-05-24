@@ -1,0 +1,4 @@
+person	sitting	acl
+sitting	office	nmod:in
+takes	person	nsubj
+takes	picture	dobj

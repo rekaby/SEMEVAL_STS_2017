@@ -1,0 +1,6 @@
+amod	shot	opening
+root	ROOT	shot
+case	billiards	in
+nmod:in	shot	billiards
+cc	billiards	or
+conj:or	billiards	pool

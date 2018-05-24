@@ -1,0 +1,8 @@
+root	ROOT	Racing
+det	men	some
+dobj	Racing	men
+case	competition	within
+det	competition	the
+compound	competition	ski
+nmod:within	Racing	competition
+punct	Racing	.

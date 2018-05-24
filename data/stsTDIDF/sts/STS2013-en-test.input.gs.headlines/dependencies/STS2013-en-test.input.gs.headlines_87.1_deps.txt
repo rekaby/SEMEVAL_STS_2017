@@ -1,0 +1,6 @@
+amod	financier	Suspected
+compound	financier	al-Qaeda
+root	ROOT	financier
+acl	financier	arrested
+case	France	in
+nmod:in	arrested	France

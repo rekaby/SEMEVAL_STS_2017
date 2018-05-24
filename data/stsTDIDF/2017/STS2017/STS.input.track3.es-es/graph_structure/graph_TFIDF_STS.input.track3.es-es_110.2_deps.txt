@@ -1,0 +1,11 @@
+seated	men	nsubjpass
+seated	bus	nmod:on
+branch	military	amod
+seated	.	punct
+ROOT	seated	root
+men	branch	nmod:from
+branch	the	det
+branch	same	amod
+seated	are	auxpass
+bus	on	case
+branch	from	case

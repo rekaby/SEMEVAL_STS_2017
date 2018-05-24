@@ -1,0 +1,10 @@
+nsubj	running	Rocky
+cc	Rocky	and
+compound	Creed	Apollo
+conj:and	Rocky	Creed
+aux	running	are
+root	ROOT	running
+case	beach	down
+det	beach	the
+nmod:down	running	beach
+punct	running	.

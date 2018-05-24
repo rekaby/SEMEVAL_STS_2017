@@ -1,0 +1,13 @@
+det	girl	A
+root	ROOT	girl
+case	hat	in
+det	hat	a
+compound	hat	cowboy
+nmod:in	girl	hat
+case	sheep	with
+det	sheep	a
+nmod:with	hat	sheep
+case	leash	on
+det	leash	a
+nmod:on	hat	leash
+punct	girl	.

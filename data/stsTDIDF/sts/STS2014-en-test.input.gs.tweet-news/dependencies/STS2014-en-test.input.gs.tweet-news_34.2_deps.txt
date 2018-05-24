@@ -1,0 +1,8 @@
+root	ROOT	Pictures
+case	Day	of
+det	Day	the
+nmod:of	Pictures	Day
+punct	Pictures	:
+dep	Pictures	Pakistan
+cc	Pakistan	and
+conj:and	Pakistan	Elsewhere

@@ -1,0 +1,6 @@
+nsubj	soar	Stocks
+root	ROOT	soar
+case	lead	on
+compound	lead	Wall
+compound	lead	St
+nmod:on	soar	lead

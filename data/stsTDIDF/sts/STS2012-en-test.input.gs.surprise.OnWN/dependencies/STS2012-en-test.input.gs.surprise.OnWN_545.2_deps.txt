@@ -1,0 +1,7 @@
+root	ROOT	allow
+det	passage	the
+dobj	allow	passage
+case	air	of
+nmod:of	passage	air
+nmod	allow	through
+punct	allow	.

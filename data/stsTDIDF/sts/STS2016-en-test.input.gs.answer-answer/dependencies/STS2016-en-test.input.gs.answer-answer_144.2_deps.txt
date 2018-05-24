@@ -1,0 +1,10 @@
+mark	answer	To
+advmod	answer	directly
+root	ROOT	answer
+det	questions	the
+nummod	questions	two
+dobj	answer	questions
+case	title	in
+nmod:poss	title	your
+nmod:in	questions	title
+punct	answer	.

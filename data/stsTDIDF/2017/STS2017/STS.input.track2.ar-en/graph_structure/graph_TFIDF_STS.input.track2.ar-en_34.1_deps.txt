@@ -1,0 +1,10 @@
+background	child	nsubj
+shows	guy	dobj
+background	while	mark
+shows	lady	nsubj
+child	another	det
+reptile	a	det
+guy	reptile	dep
+background	is	cop
+lady	A	det
+reptile	background	dep

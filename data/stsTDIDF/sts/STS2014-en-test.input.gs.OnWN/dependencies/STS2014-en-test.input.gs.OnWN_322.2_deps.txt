@@ -1,0 +1,8 @@
+root	ROOT	something
+nsubj	serves	that
+acl:relcl	something	serves
+mark	indicate	to
+xcomp	serves	indicate
+cc	indicate	or
+conj:or	indicate	suggest
+punct	something	.

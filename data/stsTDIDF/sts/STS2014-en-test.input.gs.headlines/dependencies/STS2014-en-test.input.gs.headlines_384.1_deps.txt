@@ -1,0 +1,12 @@
+nsubj	injured	Dozens
+root	ROOT	injured
+case	lands	as
+compound	lands	Boeing
+nummod	lands	777
+compound	lands	jet
+compound	lands	crash
+nmod:as	injured	lands
+case	airport	at
+compound	airport	San
+compound	airport	Francisco
+nmod:at	lands	airport

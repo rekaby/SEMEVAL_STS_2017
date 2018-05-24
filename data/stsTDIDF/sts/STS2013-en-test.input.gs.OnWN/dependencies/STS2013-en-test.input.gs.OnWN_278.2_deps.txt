@@ -1,0 +1,7 @@
+root	ROOT	break
+case	meeting	from
+det	meeting	a
+nmod:from	break	meeting
+cc	meeting	or
+conj:or	meeting	gathering
+punct	break	.

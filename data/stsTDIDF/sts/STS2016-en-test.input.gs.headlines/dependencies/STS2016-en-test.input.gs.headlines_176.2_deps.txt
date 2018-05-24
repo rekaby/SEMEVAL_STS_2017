@@ -1,0 +1,9 @@
+amod	posts	Islamic
+compound	posts	State
+root	ROOT	posts
+amod	video	second
+compound	video	propaganda
+nsubj	hostage	video
+case	UK	of
+nmod:of	video	UK
+acl:relcl	posts	hostage

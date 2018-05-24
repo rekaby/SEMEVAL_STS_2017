@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	catching	of
+acl	act	catching
+det	object	an
+dobj	catching	object
+case	hands	with
+det	hands	the
+nmod:with	catching	hands
+punct	act	.

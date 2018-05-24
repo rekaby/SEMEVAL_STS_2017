@@ -1,0 +1,12 @@
+nsubj	one	Inheritance
+cop	one	is
+root	ROOT	one
+case	concepts	of
+det	concepts	the
+amod	concepts	basic
+nmod:of	one	concepts
+case	Programming	of
+compound	Programming	Object
+compound	Programming	Oriented
+nmod:of	concepts	Programming
+punct	one	.

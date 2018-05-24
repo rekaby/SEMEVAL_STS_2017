@@ -1,0 +1,8 @@
+det	child	The
+nsubj	looking	child
+aux	looking	is
+root	ROOT	looking
+case	municipality	at
+det	municipality	a
+nmod:at	looking	municipality
+punct	looking	.

@@ -1,0 +1,8 @@
+advmod	bombs	Only
+nummod	bombs	two
+nsubj	attack	bombs
+acl	bombs	found
+case	Marathon	in
+compound	Marathon	Boston
+nmod:in	found	Marathon
+root	ROOT	attack

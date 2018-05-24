@@ -1,0 +1,10 @@
+nsubj	group	amnesty
+amod	amnesty	international
+cop	group	is
+det	group	a
+compound	group	rights
+root	ROOT	group
+acl	group	based
+case	london	in
+nmod:in	based	london
+punct	group	.

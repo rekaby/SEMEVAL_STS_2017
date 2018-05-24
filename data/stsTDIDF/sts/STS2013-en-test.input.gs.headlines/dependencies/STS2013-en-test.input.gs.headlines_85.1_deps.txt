@@ -1,0 +1,6 @@
+nsubj	Raises	Turkey
+root	ROOT	Raises
+dobj	Raises	Alarm
+case	Refugees	Over
+amod	Refugees	Syrian
+nmod:over	Raises	Refugees

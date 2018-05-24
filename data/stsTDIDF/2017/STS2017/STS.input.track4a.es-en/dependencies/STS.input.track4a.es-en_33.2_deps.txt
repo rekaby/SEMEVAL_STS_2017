@@ -1,0 +1,12 @@
+det	child	A
+root	ROOT	child
+case	stroller	in
+det	stroller	a
+nmod:in	child	stroller
+case	pacifier	with
+det	pacifier	a
+nmod:with	stroller	pacifier
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	pacifier	mouth
+punct	child	.

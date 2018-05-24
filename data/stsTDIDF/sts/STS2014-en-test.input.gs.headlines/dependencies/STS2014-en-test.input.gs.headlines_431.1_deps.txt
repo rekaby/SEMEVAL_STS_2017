@@ -1,0 +1,9 @@
+nsubj	responds	Allen
+root	ROOT	responds
+case	claims	to
+nmod:poss	claims	Farrow
+case	Farrow	's
+compound	claims	abuse
+nmod:to	responds	claims
+case	letter	in
+nmod:in	claims	letter

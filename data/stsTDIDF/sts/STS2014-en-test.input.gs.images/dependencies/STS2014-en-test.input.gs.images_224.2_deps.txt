@@ -1,0 +1,7 @@
+det	plane	A
+root	ROOT	plane
+acl	plane	flying
+case	sunset	near
+det	sunset	the
+nmod:near	flying	sunset
+punct	plane	.

@@ -1,0 +1,7 @@
+nummod	dogs	Two
+amod	dogs	black
+root	ROOT	dogs
+case	snow	in
+det	snow	the
+nmod:in	dogs	snow
+punct	dogs	.

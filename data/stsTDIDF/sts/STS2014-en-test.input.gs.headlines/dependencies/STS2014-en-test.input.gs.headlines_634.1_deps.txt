@@ -1,0 +1,7 @@
+nummod	prisoners	26
+amod	prisoners	Palestinian
+root	ROOT	prisoners
+acl	prisoners	released
+case	prison	from
+amod	prison	Israeli
+nmod:from	released	prison

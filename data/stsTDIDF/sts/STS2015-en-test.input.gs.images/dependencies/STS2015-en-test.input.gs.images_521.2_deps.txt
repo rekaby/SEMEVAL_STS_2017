@@ -1,0 +1,13 @@
+det	dog	a
+amod	dog	brown
+nsubj	wagging	dog
+case	tongue	with
+nmod:poss	tongue	his
+nmod:with	dog	tongue
+root	ROOT	wagging
+mark	runs	as
+nsubj	runs	he
+advcl	wagging	runs
+case	field	through
+det	field	a
+nmod:through	runs	field

@@ -1,0 +1,13 @@
+det	boy	The
+nsubj	plays	boy
+case	jersey	in
+det	jersey	the
+amod	jersey	green
+nmod:in	boy	jersey
+root	ROOT	plays
+dobj	plays	goalie
+case	team	on
+det	team	the
+compound	team	soccer
+nmod:on	plays	team
+punct	plays	.

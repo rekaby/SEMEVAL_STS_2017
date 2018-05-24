@@ -1,0 +1,14 @@
+Act	passed	acl
+Act	Budgetary	compound
+requires	House	dobj
+passed	August	nmod:in
+requires	Act	nsubj
+amendment	budget	compound
+vote	amendment	nmod:on
+amendment	on	case
+Act	Control	compound
+Act	,	punct
+House	both	cc:preconj
+amendment	balanced	amod
+Act	The	det
+requires	vote	xcomp

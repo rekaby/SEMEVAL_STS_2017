@@ -1,0 +1,9 @@
+compound	nullification	Jury
+nsubj	means	nullification
+root	ROOT	means
+det	law	a
+nsubj	Constitutional	law
+cop	Constitutional	is
+neg	Constitutional	n't
+ccomp	means	Constitutional
+punct	means	?

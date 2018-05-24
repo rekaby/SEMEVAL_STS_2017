@@ -1,0 +1,8 @@
+det	violence	Some
+compound	violence	Syria
+nsubj	amounts	violence
+root	ROOT	amounts
+case	Cross	to
+amod	Cross	civil
+compound	Cross	war-Red
+nmod:to	amounts	Cross

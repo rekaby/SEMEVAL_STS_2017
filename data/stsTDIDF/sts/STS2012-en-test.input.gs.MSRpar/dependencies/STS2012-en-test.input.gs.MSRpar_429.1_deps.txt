@@ -1,0 +1,11 @@
+compound	Powell	Chairman
+compound	Powell	Michael
+root	ROOT	Powell
+cc	Powell	and
+compound	colleagues	FCC
+conj:and	Powell	colleagues
+case	hearing	at
+det	hearing	the
+compound	hearing	Wednesday
+nmod:at	Powell	hearing
+punct	Powell	.

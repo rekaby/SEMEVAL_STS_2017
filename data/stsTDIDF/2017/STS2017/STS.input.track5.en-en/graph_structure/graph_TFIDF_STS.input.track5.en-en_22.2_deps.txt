@@ -1,0 +1,5 @@
+running	dog	nmod:after
+dog	after	case
+dog	another	det
+running	dog	nsubj
+dog	The	det

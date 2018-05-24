@@ -1,0 +1,7 @@
+compound	ships	China
+nsubj	enter	ships
+root	ROOT	enter
+dobj	enter	waters
+case	islands	off
+amod	islands	disputed
+nmod:off	enter	islands

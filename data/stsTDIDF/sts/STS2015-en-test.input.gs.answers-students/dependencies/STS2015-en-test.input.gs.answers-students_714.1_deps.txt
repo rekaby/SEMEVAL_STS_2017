@@ -1,0 +1,14 @@
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	connection	between
+det	connection	the
+amod	connection	positive
+compound	connection	battery
+nmod:between	gap	connection
+cc	connection	and
+det	terminal	the
+compound	terminal	bulb
+conj:and	connection	terminal
+punct	is	.

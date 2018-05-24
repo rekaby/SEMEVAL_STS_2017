@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+amod	man	standing
+case	mountains	in
+det	mountains	the
+nmod:in	standing	mountains
+acl	mountains	watching
+det	sunset	a
+dobj	watching	sunset
+punct	man	.

@@ -1,0 +1,5 @@
+root	ROOT	glare
+cc	glare	or
+conj:or	glare	strike
+case	intensity	with
+nmod:with	glare	intensity

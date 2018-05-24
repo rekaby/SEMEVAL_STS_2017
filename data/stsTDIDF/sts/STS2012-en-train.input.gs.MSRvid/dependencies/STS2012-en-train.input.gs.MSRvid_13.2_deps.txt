@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	small
+nsubj	laying	dog
+aux	laying	is
+root	ROOT	laying
+case	bed	on
+det	bed	a
+nmod:on	laying	bed
+punct	laying	.

@@ -1,0 +1,15 @@
+neg	beginning	Not
+det	beginning	a
+amod	beginning	good
+root	ROOT	beginning
+punct	beginning	:
+nmod:poss	plane	Hollande
+case	Hollande	's
+dep	beginning	plane
+acl	plane	hit
+case	lightning	by
+nmod:by	hit	lightning
+case	route	en
+nmod:en	hit	route
+case	Berlin	to
+nmod:to	route	Berlin

@@ -1,0 +1,10 @@
+amod	shot	British
+compound	shot	soldier
+root	ROOT	shot
+amod	shot	dead
+case	attack	in
+compound	attack	Afghan
+punct	attack	`
+compound	attack	insider
+nmod:in	dead	attack
+punct	shot	'

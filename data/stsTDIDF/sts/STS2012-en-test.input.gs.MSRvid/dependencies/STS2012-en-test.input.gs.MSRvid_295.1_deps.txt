@@ -1,0 +1,6 @@
+nsubj	feeding	Someone
+aux	feeding	is
+root	ROOT	feeding
+det	animal	a
+dobj	feeding	animal
+punct	feeding	.

@@ -1,0 +1,16 @@
+root	ROOT	Gabby
+cc	Gabby	and
+conj:and	Gabby	Mark
+punct	Gabby	:
+det	Bradys	The
+amod	Bradys	new
+dep	Gabby	Bradys
+case	NORM	of
+compound	NORM	gun
+compound	NORM	control
+compound	NORM	#TGDN
+compound	NORM	LIBS
+compound	NORM	PLAY
+compound	NORM	DIRTY
+compound	NORM	AS
+nmod:of	Bradys	NORM

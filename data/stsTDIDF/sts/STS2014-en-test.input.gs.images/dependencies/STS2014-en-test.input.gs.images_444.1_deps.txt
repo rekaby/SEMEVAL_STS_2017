@@ -1,0 +1,14 @@
+det	wits	A
+compound	wits	pug
+compound	wits	dog
+root	ROOT	wits
+case	chair	on
+det	chair	a
+amod	chair	yellow
+nmod:on	wits	chair
+case	dumpster	next
+mwe	next	to
+det	dumpster	a
+amod	dumpster	green
+nmod:next_to	wits	dumpster
+punct	wits	.

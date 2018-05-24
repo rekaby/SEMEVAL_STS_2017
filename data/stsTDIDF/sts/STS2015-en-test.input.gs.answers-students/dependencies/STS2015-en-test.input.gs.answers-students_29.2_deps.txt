@@ -1,0 +1,12 @@
+compound	voltage	Measuring
+nsubj	indicates	voltage
+root	ROOT	indicates
+mark	separated	whether
+nummod	terminals	two
+nsubjpass	separated	terminals
+auxpass	separated	are
+ccomp	indicates	separated
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap
+punct	indicates	.

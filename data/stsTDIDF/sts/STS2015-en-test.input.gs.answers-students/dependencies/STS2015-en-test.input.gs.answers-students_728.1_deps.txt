@@ -1,0 +1,7 @@
+mark	work	that
+det	connection	the
+compound	connection	battery
+nsubj	work	connection
+aux	work	does
+neg	work	not
+root	ROOT	work

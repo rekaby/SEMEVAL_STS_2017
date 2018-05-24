@@ -1,0 +1,15 @@
+csubj	going	feeding
+det	people	a
+amod	people	few
+dobj	feeding	people
+advmod	going	now
+aux	going	is
+neg	going	not
+root	ROOT	going
+mark	fix	to
+xcomp	going	fix
+dobj	fix	any
+case	reality	of
+det	reality	this
+nmod:of	any	reality
+punct	going	.

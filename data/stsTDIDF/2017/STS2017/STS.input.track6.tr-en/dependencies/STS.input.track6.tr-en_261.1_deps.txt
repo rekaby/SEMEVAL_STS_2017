@@ -1,0 +1,11 @@
+det	child	A
+amod	child	young
+nsubj	playground	child
+cop	playground	is
+case	playground	on
+det	playground	a
+root	ROOT	playground
+acl	playground	riding
+det	swing	the
+dobj	riding	swing
+punct	playground	.

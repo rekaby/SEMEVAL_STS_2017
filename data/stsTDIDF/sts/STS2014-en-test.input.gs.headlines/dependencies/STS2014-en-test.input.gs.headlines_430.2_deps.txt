@@ -1,0 +1,8 @@
+nsubj	pokes	Obama
+root	ROOT	pokes
+dobj	pokes	fun
+case	critics	at
+nmod:at	pokes	critics
+case	dinner	during
+compound	dinner	press
+nmod:during	pokes	dinner

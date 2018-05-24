@@ -1,0 +1,15 @@
+punct	science	-LRB-
+compound	science	computer
+root	ROOT	science
+punct	science	-RRB-
+det	occurence	the
+dep	science	occurence
+case	result	of
+det	result	an
+amod	result	incorrect
+nmod:of	occurence	result
+acl	result	produced
+case	computer	by
+det	computer	a
+nmod:by	produced	computer
+punct	science	.

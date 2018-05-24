@@ -1,0 +1,8 @@
+det	man	A
+nsubj	singing	man
+aux	singing	is
+root	ROOT	singing
+case	woman	to
+det	woman	a
+nmod:to	singing	woman
+punct	singing	.

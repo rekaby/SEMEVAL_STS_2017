@@ -1,0 +1,12 @@
+wearing	gear	dobj
+rider	motocross	compound
+gear	protective	amod
+rider	A	det
+rider	doing	acl
+rider	wearing	acl
+rider	.	punct
+jump	a	det
+rider	,	punct
+jump	cross	compound
+ROOT	rider	root
+doing	jump	dobj

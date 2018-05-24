@@ -1,0 +1,8 @@
+nummod	Tibetans	Three
+nsubj	self-immolate	Tibetans
+root	ROOT	self-immolate
+case	China	in
+amod	China	western
+nmod:in	self-immolate	China
+punct	self-immolate	:
+dep	self-immolate	report

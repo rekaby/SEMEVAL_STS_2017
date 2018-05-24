@@ -1,0 +1,9 @@
+ROOT	spoil	root
+spoil	Why	advmod
+spoil	?	punct
+state	own	nmod:of
+Palestinians	capricious	amod
+giving	by	mark
+giving	state	dobj
+spoil	Palestinians	dobj
+spoil	giving	advcl

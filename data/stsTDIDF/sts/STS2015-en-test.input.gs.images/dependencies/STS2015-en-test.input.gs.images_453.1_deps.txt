@@ -1,0 +1,8 @@
+det	dog	A
+root	ROOT	dog
+cc	dog	and
+conj:and	dog	cat
+acl	dog	laying
+compound:prt	laying	down
+advmod	laying	together
+punct	dog	.

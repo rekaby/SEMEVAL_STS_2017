@@ -1,0 +1,10 @@
+compound	Obama	Michelle
+nsubj	appear	Obama
+mark	appear	to
+root	ROOT	appear
+case	Parks	on
+punct	Parks	`
+nmod:on	appear	Parks
+cc	Parks	and
+conj:and	Parks	Recreation
+punct	appear	'

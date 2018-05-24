@@ -1,0 +1,11 @@
+root	ROOT	Other
+mark	have	than
+mark	have	that
+nsubj	have	you
+aux	have	do
+neg	have	n't
+advcl	Other	have
+det	issue	a
+compound	issue	tax
+dobj	have	issue
+punct	Other	.

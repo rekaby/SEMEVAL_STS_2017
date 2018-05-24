@@ -1,0 +1,7 @@
+det	woman	A
+amod	woman	young
+root	ROOT	woman
+acl	woman	dressed
+case	black	in
+nmod:in	dressed	black
+punct	woman	.

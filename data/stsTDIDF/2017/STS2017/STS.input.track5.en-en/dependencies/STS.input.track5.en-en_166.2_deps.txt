@@ -1,0 +1,10 @@
+det	man	A
+nsubj	asleep	man
+cc	man	and
+conj:and	man	woman
+cop	asleep	are
+root	ROOT	asleep
+case	couch	on
+det	couch	the
+nmod:on	asleep	couch
+punct	asleep	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	dancing	man
+case	hat	with
+det	hat	a
+amod	hat	hard
+nmod:with	man	hat
+aux	dancing	is
+root	ROOT	dancing
+punct	dancing	.

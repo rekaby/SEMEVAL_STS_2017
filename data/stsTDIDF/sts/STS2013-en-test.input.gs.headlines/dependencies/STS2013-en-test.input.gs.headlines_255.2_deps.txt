@@ -1,0 +1,6 @@
+compound	race	Bahrain
+nsubj	goes	race
+root	ROOT	goes
+advmod	goes	ahead
+case	unrest	amid
+nmod:amid	goes	unrest

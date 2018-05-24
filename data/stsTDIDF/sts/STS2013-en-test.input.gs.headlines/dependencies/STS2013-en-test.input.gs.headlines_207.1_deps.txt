@@ -1,0 +1,6 @@
+nsubj	tumbles	Nadal
+root	ROOT	tumbles
+case	Open	into
+amod	Open	French
+nmod:into	tumbles	Open
+xcomp	tumbles	final

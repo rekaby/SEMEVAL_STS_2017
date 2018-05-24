@@ -1,0 +1,10 @@
+make	jumping	xcomp
+make	watching	advcl
+sit	place	nmod:in
+watching	them	dobj
+sit	boys	nsubj
+boys	Three	nummod
+sit	make	conj:and
+place	public	amod
+watching	while	mark
+jumping	moves	dobj

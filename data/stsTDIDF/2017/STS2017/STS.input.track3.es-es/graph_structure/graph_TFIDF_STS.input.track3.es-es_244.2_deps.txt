@@ -1,0 +1,4 @@
+ROOT	paints	root
+paints	A	det
+paints	floor	nmod:on
+paints	woman	compound

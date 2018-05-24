@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	standing
+case	grass	in
+nmod:in	standing	grass
+xcomp	standing	staring
+case	car	at
+det	car	a
+nmod:at	staring	car
+punct	men	.

@@ -1,0 +1,7 @@
+det	bulb	The
+nsubj	takes	bulb
+root	ROOT	takes
+compound:prt	takes	away
+det	path	the
+dobj	takes	path
+punct	takes	.

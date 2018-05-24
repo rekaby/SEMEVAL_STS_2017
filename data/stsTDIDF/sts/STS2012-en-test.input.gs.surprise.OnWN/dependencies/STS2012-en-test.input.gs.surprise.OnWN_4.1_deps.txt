@@ -1,0 +1,12 @@
+root	ROOT	devote
+cc	devote	or
+conj:or	devote	adapt
+advmod	devote	exclusively
+case	skill	to
+det	skill	an
+nmod:to	devote	skill
+punct	skill	,
+conj:or	skill	study
+punct	skill	,
+cc	skill	or
+conj:or	skill	work

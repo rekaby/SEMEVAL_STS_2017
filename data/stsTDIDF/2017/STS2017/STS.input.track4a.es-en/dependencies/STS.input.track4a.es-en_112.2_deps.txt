@@ -1,0 +1,10 @@
+det	men	The
+nsubj	walk	men
+root	ROOT	walk
+case	street	down
+det	street	the
+nmod:down	walk	street
+case	kids	with
+nmod:poss	kids	their
+nmod:with	walk	kids
+punct	walk	.

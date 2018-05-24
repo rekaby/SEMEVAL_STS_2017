@@ -1,0 +1,8 @@
+root	ROOT	Lesser
+case	triumphs	of
+nummod	triumphs	two
+compound	triumphs	evils
+nmod:of	Lesser	triumphs
+case	Bowl	in
+compound	Bowl	Super
+nmod:in	triumphs	Bowl

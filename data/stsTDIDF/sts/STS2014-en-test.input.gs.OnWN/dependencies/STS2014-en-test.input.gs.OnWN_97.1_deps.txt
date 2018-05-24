@@ -1,0 +1,8 @@
+root	ROOT	draw
+det	cross	a
+dobj	draw	cross
+case	air	in
+det	air	the
+nmod:in	draw	air
+case	something	over
+nmod:over	draw	something

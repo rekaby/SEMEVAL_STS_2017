@@ -1,0 +1,6 @@
+det	boy	The
+nsubj	wet	boy
+root	ROOT	wet
+nmod:poss	pants	his
+dobj	wet	pants
+punct	wet	.

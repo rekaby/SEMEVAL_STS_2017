@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	young
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+det	instrument	a
+compound	instrument	wind
+dobj	playing	instrument
+punct	playing	.

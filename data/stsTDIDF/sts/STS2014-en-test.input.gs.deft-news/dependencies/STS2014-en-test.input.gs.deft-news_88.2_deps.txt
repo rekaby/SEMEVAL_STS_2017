@@ -1,0 +1,7 @@
+nsubj	provides	britain
+root	ROOT	provides
+compound	tanks	fuel
+dobj	provides	tanks
+cc	tanks	and
+conj:and	tanks	gearboxes
+punct	provides	.

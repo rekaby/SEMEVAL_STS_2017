@@ -1,0 +1,9 @@
+det	ceremony	A
+root	ROOT	ceremony
+acl	ceremony	marking
+dobj	marking	admission
+case	community	into
+det	community	a
+amod	community	religious
+nmod:into	admission	community
+punct	ceremony	.

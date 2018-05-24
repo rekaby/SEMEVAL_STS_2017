@@ -1,0 +1,8 @@
+nsubj	warns	Clinton
+root	ROOT	warns
+dobj	warns	Kenya
+case	cost	on
+nmod:on	warns	cost
+case	election	of
+nmod:of	cost	election
+dobj	warns	unrest

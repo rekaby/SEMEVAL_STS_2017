@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	playing
+case	yard	in
+det	yard	a
+nmod:in	playing	yard
+punct	dogs	.

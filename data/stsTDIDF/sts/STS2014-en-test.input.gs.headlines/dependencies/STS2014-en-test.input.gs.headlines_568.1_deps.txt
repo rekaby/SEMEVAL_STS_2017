@@ -1,0 +1,6 @@
+nsubj	leaving	Russians
+root	ROOT	leaving
+nsubj	cross	Syria
+ccomp	leaving	cross
+case	Lebanon	into
+nmod:into	cross	Lebanon

@@ -1,0 +1,7 @@
+people	walking	acl
+walking	house	nmod:in
+house	around	case
+tree	with	case
+walking	them	nmod:beside
+tree	large	amod
+walking	tree	nmod:with

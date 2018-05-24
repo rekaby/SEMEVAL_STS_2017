@@ -1,0 +1,8 @@
+nummod	brothers	Three
+root	ROOT	brothers
+acl	brothers	posing
+case	business	outside
+det	business	the
+compound	business	family
+nmod:outside	posing	business
+punct	brothers	.

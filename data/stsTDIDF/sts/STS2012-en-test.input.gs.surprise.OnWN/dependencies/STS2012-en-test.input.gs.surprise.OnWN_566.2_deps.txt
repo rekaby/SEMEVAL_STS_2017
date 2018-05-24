@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	coming	of
+acl	act	coming
+mark	land	to
+xcomp	coming	land
+case	voyage	after
+det	voyage	a
+nmod:after	land	voyage
+punct	act	.

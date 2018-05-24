@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	white
+dobj	wearing	shirt
+cc	shirt	and
+conj:and	shirt	sunglasses
+advcl	wearing	staring
+case	horizon	at
+det	horizon	the
+nmod:at	staring	horizon
+punct	man	.

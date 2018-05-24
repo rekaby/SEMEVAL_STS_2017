@@ -1,0 +1,5 @@
+nsubj	opens	Someone
+root	ROOT	opens
+det	book	a
+dobj	opens	book
+punct	opens	.

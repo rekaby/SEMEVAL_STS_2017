@@ -1,0 +1,12 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	other	with
+det	other	each
+nmod:with	playing	other
+case	snow	in
+det	snow	the
+nmod:in	other	snow
+punct	playing	.

@@ -1,0 +1,5 @@
+compound	festival	San
+compound	festival	Fermin
+amod	festival	bull-running
+nsubj	starts	festival
+root	ROOT	starts

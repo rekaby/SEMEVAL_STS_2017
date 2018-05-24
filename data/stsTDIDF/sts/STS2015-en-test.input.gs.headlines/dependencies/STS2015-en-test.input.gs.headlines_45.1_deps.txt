@@ -1,0 +1,9 @@
+nummod	Suspects	3
+nsubj	Taken	Suspects
+root	ROOT	Taken
+case	Custody	Into
+nmod:into	Taken	Custody
+case	Case	in
+compound	Case	Boston
+compound	Case	Bombing
+nmod:in	Custody	Case

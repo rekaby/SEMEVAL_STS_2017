@@ -1,0 +1,8 @@
+nsubj	drops	Nigeria
+root	ROOT	drops
+compound	charges	arms
+compound	charges	trafficking
+dobj	drops	charges
+case	sailors	against
+amod	sailors	Russian
+nmod:against	drops	sailors

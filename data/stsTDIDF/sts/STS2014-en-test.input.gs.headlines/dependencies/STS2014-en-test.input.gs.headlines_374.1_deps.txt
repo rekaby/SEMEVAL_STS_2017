@@ -1,0 +1,6 @@
+compound	votes	Guinea
+root	ROOT	votes
+case	poll	in
+amod	poll	long-delayed
+amod	poll	legislative
+nmod:in	votes	poll

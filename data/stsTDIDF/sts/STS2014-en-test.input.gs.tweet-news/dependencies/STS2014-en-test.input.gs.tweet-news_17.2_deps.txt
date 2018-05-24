@@ -1,0 +1,7 @@
+root	ROOT	Obama
+punct	Obama	,
+compound	Policy	Gun
+conj:and	Obama	Policy
+cc	Obama	and
+det	N.R.A.	the
+conj:and	Obama	N.R.A.

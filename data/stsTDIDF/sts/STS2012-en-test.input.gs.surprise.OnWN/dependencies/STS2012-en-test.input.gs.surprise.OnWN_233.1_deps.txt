@@ -1,0 +1,7 @@
+nsubj	assembled	people
+root	ROOT	assembled
+advmod	assembled	together
+case	movement	in
+det	movement	a
+amod	movement	rhythmic
+nmod:in	assembled	movement

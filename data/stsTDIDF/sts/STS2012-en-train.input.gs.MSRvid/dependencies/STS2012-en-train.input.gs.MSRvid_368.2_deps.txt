@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	talking	woman
+aux	talking	is
+root	ROOT	talking
+case	telephone	on
+det	telephone	a
+nmod:on	talking	telephone
+punct	talking	.

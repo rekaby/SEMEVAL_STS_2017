@@ -1,0 +1,10 @@
+root	ROOT	move
+case	location	to
+det	location	a
+amod	location	new
+nmod:to	move	location
+punct	location	,
+conj:or	location	state
+punct	location	,
+cc	location	or
+conj:or	location	situation

@@ -1,0 +1,15 @@
+det	blaze	The
+nsubj	spread	blaze
+advmod	spread	then
+root	ROOT	spread
+case	structures	to
+amod	structures	several
+amod	structures	surrounding
+nmod:to	spread	structures
+case	property	on
+det	property	the
+nmod:on	spread	property
+cc	spread	and
+conj:and	spread	destroyed
+dobj	destroyed	them
+punct	spread	.

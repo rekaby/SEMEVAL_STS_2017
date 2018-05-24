@@ -1,0 +1,13 @@
+det	dog	A
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	up
+case	air	in
+det	air	the
+nmod:in	jumping	air
+mark	catch	to
+xcomp	jumping	catch
+det	toy	a
+dobj	catch	toy
+punct	jumping	.

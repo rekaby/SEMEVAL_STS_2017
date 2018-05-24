@@ -1,0 +1,17 @@
+nsubj	treating	Pennsylvania
+punct	Pennsylvania	,
+nsubj	has	which
+acl:relcl	Pennsylvania	has
+det	program	the
+advmod	aggressive	most
+amod	program	aggressive
+compound	program	treatment
+dobj	has	program
+punct	Pennsylvania	,
+aux	treating	is
+root	ROOT	treating
+dobj	treating	548
+case	inmates	of
+nummod	inmates	8,030
+nmod:of	548	inmates
+punct	treating	.

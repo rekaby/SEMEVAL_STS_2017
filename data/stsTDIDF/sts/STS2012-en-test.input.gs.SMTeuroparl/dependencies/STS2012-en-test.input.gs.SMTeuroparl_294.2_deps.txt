@@ -1,0 +1,16 @@
+nsubj	appropriate	It
+cop	appropriate	is
+root	ROOT	appropriate
+mark	is	that
+det	Union	the
+compound	Union	European
+nsubj	is	Union
+ccomp	appropriate	is
+cc	is	and
+dobj	implies	what
+nsubj	implies	it
+dep	quickly	implies
+aux	quickly	does
+nsubj	quickly	it
+conj:and	is	quickly
+punct	appropriate	.

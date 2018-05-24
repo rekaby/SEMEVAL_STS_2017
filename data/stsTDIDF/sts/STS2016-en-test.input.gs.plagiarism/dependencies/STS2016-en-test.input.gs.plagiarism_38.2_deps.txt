@@ -1,0 +1,10 @@
+det	item	Each
+nsubj	represents	item
+case	vector	in
+det	vector	the
+nmod:in	item	vector
+root	ROOT	represents
+det	keyword	a
+amod	keyword	different
+dobj	represents	keyword
+punct	represents	.

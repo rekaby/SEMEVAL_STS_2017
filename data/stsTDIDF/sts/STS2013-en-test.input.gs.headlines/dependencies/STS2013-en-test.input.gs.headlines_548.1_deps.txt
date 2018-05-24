@@ -1,0 +1,10 @@
+root	ROOT	ArQule
+punct	ArQule	,
+nsubj	stop	Daiichi
+appos	ArQule	stop
+compound	trial	lung
+compound	trial	cancer
+dobj	stop	trial
+punct	trial	,
+compound	tank	shares
+appos	trial	tank

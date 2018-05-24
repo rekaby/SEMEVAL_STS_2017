@@ -1,0 +1,9 @@
+ride	side	nmod:by
+ride	daughter	dobj
+ROOT	ride	root
+riding	bike	dobj
+ride	,	punct
+man	riding	acl
+bike	a	det
+ride	man	nsubj
+ride	.	punct

@@ -1,0 +1,9 @@
+det	fisherman	A
+nsubj	sorting	fisherman
+aux	sorting	is
+root	ROOT	sorting
+case	fish	through
+det	fish	the
+amod	fish	caught
+nmod:through	sorting	fish
+punct	sorting	.

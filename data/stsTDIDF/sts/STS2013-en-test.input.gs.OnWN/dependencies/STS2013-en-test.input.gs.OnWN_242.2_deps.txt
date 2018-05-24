@@ -1,0 +1,11 @@
+root	ROOT	reduce
+case	pieces	to
+amod	pieces	small
+nmod:to	reduce	pieces
+cc	pieces	or
+conj:or	pieces	particles
+mark	pounding	by
+advcl	reduce	pounding
+cc	pounding	or
+conj:or	pounding	abrading
+punct	reduce	.

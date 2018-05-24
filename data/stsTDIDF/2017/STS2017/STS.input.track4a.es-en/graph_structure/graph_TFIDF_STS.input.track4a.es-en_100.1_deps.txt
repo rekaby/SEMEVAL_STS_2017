@@ -1,0 +1,10 @@
+forms	better	advmod
+forms	about	mark
+roofer	professional	amod
+forms	are	cop
+forms	other	amod
+thinks	roofer	nsubj
+roof	of	case
+roofer	A	det
+thinks	forms	ccomp
+forms	roof	nmod:of

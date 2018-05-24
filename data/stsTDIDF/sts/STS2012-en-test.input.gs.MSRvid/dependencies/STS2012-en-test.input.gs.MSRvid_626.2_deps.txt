@@ -1,0 +1,11 @@
+nsubj	pours	Someone
+root	ROOT	pours
+amod	oil	olive
+dobj	pours	oil
+case	bowl	into
+det	bowl	a
+nmod:into	pours	bowl
+case	wedges	of
+compound	wedges	tomato
+nmod:of	bowl	wedges
+punct	pours	.

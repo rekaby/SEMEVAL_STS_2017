@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	dirt	around
+case	dirt	in
+det	dirt	the
+nmod:in	playing	dirt
+punct	playing	.

@@ -1,0 +1,15 @@
+det	skier	A
+nsubj	flying	skier
+acl	skier	wearing
+amod	pants	blue
+compound	pants	snow
+dobj	wearing	pants
+aux	flying	is
+root	ROOT	flying
+case	air	through
+det	air	the
+nmod:through	flying	air
+case	jump	near
+det	jump	a
+nmod:near	air	jump
+punct	flying	.

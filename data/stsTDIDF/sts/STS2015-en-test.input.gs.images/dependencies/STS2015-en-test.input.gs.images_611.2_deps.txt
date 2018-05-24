@@ -1,0 +1,11 @@
+nsubj	laughs	Boy
+case	hat	in
+compound	hat	tan
+nmod:in	Boy	hat
+root	ROOT	laughs
+mark	sitting	while
+advcl	laughs	sitting
+case	equipment	near
+compound	equipment	playground
+nmod:near	sitting	equipment
+punct	laughs	.

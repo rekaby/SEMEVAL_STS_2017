@@ -1,0 +1,10 @@
+nsubj	refocus	Obama
+mark	refocus	to
+root	ROOT	refocus
+case	economy	on
+nmod:on	refocus	economy
+case	State	in
+nmod:in	economy	State
+case	Union	of
+det	Union	the
+nmod:of	State	Union

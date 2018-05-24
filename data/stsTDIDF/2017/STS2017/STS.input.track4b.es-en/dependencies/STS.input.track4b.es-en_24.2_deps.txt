@@ -1,0 +1,11 @@
+nsubj	afraid	I
+cop	afraid	'm
+root	ROOT	afraid
+nsubj	own	you
+cop	own	're
+case	own	on
+nmod:poss	own	your
+ccomp	afraid	own
+punct	afraid	,
+dep	afraid	friends
+punct	afraid	.

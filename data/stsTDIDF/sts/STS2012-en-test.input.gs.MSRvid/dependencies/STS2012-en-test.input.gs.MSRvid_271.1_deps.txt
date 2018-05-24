@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+dobj	adding	oil
+case	fishes	on
+nmod:on	adding	fishes
+punct	adding	.

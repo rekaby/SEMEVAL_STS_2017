@@ -1,0 +1,9 @@
+compound	swimming	Dog
+root	ROOT	swimming
+case	water	through
+nmod:through	swimming	water
+acl	water	carrying
+dobj	carrying	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	carrying	mouth

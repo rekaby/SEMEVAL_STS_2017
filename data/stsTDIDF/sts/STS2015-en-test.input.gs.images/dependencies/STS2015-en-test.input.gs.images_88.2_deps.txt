@@ -1,0 +1,12 @@
+det	woman	a
+root	ROOT	woman
+acl	woman	wearing
+amod	stands	black
+dobj	wearing	stands
+case	truck	in
+mwe	in	front
+mwe	in	of
+det	truck	a
+compound	truck	pickup
+nmod:in_front_of	stands	truck
+punct	woman	.

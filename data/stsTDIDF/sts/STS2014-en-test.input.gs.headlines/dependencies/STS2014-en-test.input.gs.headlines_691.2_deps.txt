@@ -1,0 +1,12 @@
+compound	violence	Egypt
+root	ROOT	violence
+punct	violence	:
+dep	violence	Student
+acl	Student	killed
+case	clashes	in
+nmod:in	killed	clashes
+case	university	at
+nmod:poss	university	Cairo
+case	Cairo	's
+amod	university	Islamic
+nmod:at	clashes	university

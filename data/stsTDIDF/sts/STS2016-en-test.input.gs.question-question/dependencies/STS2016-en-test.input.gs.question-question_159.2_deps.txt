@@ -1,0 +1,13 @@
+advmod	re-heat	How
+aux	re-heat	can
+nsubj	re-heat	I
+advmod	re-heat	safely
+root	ROOT	re-heat
+det	pie	a
+compound	pie	chicken
+dobj	re-heat	pie
+mark	burning	without
+advcl	re-heat	burning
+det	crust	the
+dobj	burning	crust
+punct	re-heat	?

@@ -1,0 +1,5 @@
+root	ROOT	sharpen
+case	strap	with
+det	strap	a
+nmod:with	sharpen	strap
+punct	sharpen	.

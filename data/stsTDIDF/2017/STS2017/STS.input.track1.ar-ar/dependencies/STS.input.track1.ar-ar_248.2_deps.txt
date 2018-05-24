@@ -1,0 +1,8 @@
+root	ROOT	Someone
+case	mountain	on
+det	mountain	a
+nmod:on	Someone	mountain
+case	glider	with
+amod	glider	green
+nmod:with	mountain	glider
+punct	Someone	.

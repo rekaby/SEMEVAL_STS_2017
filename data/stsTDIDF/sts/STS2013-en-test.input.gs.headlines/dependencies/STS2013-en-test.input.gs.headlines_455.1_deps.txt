@@ -1,0 +1,6 @@
+compound	lands	China
+compound	lands	activist
+compound	lands	Chen
+root	ROOT	lands
+case	US	in
+nmod:in	lands	US

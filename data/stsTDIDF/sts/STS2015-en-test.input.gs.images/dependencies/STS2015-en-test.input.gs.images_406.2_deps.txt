@@ -1,0 +1,7 @@
+det	group	a
+root	ROOT	group
+case	surfers	of
+nmod:of	group	surfers
+acl	surfers	catching
+det	wave	a
+dobj	catching	wave

@@ -1,0 +1,6 @@
+amod	territory	owned
+root	ROOT	territory
+case	government	of
+det	government	a
+amod	government	sovereign
+nmod:of	territory	government

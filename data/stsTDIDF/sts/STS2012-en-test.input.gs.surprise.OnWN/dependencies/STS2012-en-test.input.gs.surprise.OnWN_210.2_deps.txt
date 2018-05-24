@@ -1,0 +1,11 @@
+root	ROOT	bring
+punct	things	-LRB-
+amod	things	several
+dobj	bring	things
+punct	things	-RRB-
+case	consonance	into
+nmod:into	things	consonance
+cc	consonance	or
+conj:or	consonance	relate
+advmod	relate	harmoniously
+punct	bring	.

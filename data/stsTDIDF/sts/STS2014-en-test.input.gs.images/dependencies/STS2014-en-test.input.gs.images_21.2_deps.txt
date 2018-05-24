@@ -1,0 +1,8 @@
+nummod	people	Four
+root	ROOT	people
+acl	people	eating
+dobj	eating	dessert
+case	table	around
+det	table	a
+nmod:around	eating	table
+punct	people	.

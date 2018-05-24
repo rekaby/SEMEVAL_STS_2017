@@ -1,0 +1,9 @@
+det	trail	The
+compound	trail	Giffords
+compound	trail	recovery
+root	ROOT	trail
+case	Jan.	since
+nmod:since	trail	Jan.
+nummod	Jan.	8
+dep	Jan.	shots
+punct	trail	.

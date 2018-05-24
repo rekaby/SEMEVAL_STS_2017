@@ -1,0 +1,16 @@
+det	Society	The
+compound	Society	American
+compound	Society	Cancer
+nsubj	said	Society
+cc	Society	and
+amod	scientists	several
+conj:and	Society	scientists
+root	ROOT	said
+det	study	the
+nsubjpass	flawed	study
+auxpass	flawed	was
+ccomp	said	flawed
+case	ways	in
+amod	ways	several
+nmod:in	flawed	ways
+punct	said	.

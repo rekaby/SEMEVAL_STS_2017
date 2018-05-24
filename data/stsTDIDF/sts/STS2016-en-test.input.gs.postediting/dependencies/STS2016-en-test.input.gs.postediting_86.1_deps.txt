@@ -1,0 +1,7 @@
+nsubj	angry	Sarkozy
+case	meeting	at
+det	meeting	the
+nmod:at	Sarkozy	meeting
+case	fishermen	of
+nmod:of	meeting	fishermen
+root	ROOT	angry

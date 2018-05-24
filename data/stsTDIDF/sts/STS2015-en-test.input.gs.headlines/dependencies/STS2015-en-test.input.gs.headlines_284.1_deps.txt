@@ -1,0 +1,10 @@
+compound	bands	Rock
+nmod:poss	plane	bands
+case	bands	'
+nsubj	makes	plane
+root	ROOT	makes
+compound	landing	emergency
+dobj	makes	landing
+case	Ill.	in
+nmod:in	landing	Ill.
+punct	makes	.

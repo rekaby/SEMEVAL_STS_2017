@@ -1,0 +1,10 @@
+,	shop	root
+shop	people	compound
+shop	many	amod
+shop	.	punct
+shop	and	cc
+ROOT	market	root
+shop	sell	conj:and
+market	busy	amod
+market	In	case
+market	production	compound

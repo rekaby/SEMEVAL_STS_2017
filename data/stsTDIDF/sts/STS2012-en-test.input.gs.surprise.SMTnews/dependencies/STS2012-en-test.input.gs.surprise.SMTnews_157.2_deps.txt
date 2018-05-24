@@ -1,0 +1,16 @@
+nmod:poss	Russia	Putin
+case	Putin	's
+nsubj	lost	Russia
+advmod	lost	already
+root	ROOT	lost
+nummod	journalists	12
+amod	journalists	prominent
+dobj	lost	journalists
+punct	journalists	,
+acl	journalists	murdered
+case	years	during
+det	years	the
+amod	years	past
+nummod	years	six
+nmod:during	murdered	years
+punct	lost	.

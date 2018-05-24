@@ -1,0 +1,14 @@
+det	villages	Some
+nsubj	had	villages
+root	ROOT	had
+dobj	had	histories
+cc	had	and
+advmod	going	thus
+nsubj	going	names
+conj:and	had	going
+advmod	going	back
+case	times	to
+amod	times	Ancient
+amod	times	Roman
+nmod:to	going	times
+punct	had	.

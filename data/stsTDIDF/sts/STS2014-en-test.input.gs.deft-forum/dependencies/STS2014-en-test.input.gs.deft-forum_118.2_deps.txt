@@ -1,0 +1,15 @@
+mark	alive	If
+nsubj	alive	it
+cop	alive	was
+neg	alive	n't
+advcl	miscarriage	alive
+punct	miscarriage	,
+advmod	miscarriage	then
+nsubj	miscarriage	it
+aux	miscarriage	would
+root	ROOT	miscarriage
+mark	own	on
+nsubj	own	it
+cop	own	's
+advcl	miscarriage	own
+punct	miscarriage	.

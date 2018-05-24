@@ -1,0 +1,7 @@
+amod	car	Red
+compound	car	sports
+nsubj	racing	car
+root	ROOT	racing
+compound:prt	racing	down
+dobj	racing	track
+punct	racing	.

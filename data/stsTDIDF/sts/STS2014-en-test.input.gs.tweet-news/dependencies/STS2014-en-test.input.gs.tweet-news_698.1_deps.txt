@@ -1,0 +1,19 @@
+nsubj	DPRK	This
+aux	DPRK	would
+cop	DPRK	be
+det	DPRK	a
+advmod	DPRK	very
+punct	DPRK	,
+advmod	bad	very
+amod	DPRK	bad
+compound	DPRK	idea
+root	ROOT	DPRK
+punct	DPRK	.-11) compound(Korea-2, North
+nsubj	threatens	Korea
+root	ROOT	threatens
+compound	Korea	South
+nsubj	ove	Korea
+ccomp	threatens	ove
+compound	sanctions	UN
+dobj	ove	sanctions
+punct	threatens	:

@@ -1,0 +1,9 @@
+advmod	remove	How
+aux	remove	can
+nsubj	remove	I
+root	ROOT	remove
+dobj	remove	paint
+case	deck	from
+det	deck	a
+nmod:from	remove	deck
+punct	remove	?

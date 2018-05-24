@@ -1,0 +1,7 @@
+advcl	become	enter
+det	realm	a
+dobj	enter	realm
+punct	become	,
+root	ROOT	become
+xcomp	become	involved
+dep	involved	with

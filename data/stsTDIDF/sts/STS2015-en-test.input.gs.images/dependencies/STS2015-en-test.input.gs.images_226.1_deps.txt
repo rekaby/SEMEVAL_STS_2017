@@ -1,0 +1,8 @@
+nummod	players	Two
+compound	players	hockey
+nsubj	fighting	players
+root	ROOT	fighting
+case	ice	on
+det	ice	the
+nmod:on	fighting	ice
+punct	fighting	.

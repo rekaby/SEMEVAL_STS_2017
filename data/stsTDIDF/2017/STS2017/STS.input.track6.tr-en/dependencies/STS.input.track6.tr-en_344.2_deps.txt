@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+nsubj	rolls	who
+acl:relcl	man	rolls
+compound:prt	rolls	back
+case	beach	on
+det	beach	the
+nmod:on	rolls	beach
+punct	man	.

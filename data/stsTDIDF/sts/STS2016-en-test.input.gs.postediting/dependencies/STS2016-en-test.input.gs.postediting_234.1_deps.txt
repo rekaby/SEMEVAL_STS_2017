@@ -1,0 +1,9 @@
+compound	attack	Elena
+nsubj	embraces	attack
+case	Luca	by
+nmod:by	attack	Luca
+punct	attack	,
+advmod	embraces	then
+det	embraces	the
+root	ROOT	embraces
+punct	embraces	.

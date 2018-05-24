@@ -1,0 +1,13 @@
+mark	describe	Whilst
+nsubj	describe	Bayesians
+root	ROOT	describe
+dobj	describe	probabilities
+case	terms	in
+nmod:in	probabilities	terms
+case	beliefs	of
+nmod:of	terms	beliefs
+cc	beliefs	and
+conj:and	beliefs	degrees
+case	uncertainty	of
+nmod:of	beliefs	uncertainty
+punct	describe	.

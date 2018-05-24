@@ -1,0 +1,12 @@
+compound	Asia	World
+compound	Asia	Briefing
+compound	Asia	|
+root	ROOT	Asia
+punct	Asia	:
+dep	Asia	Myanmar
+punct	Myanmar	:
+compound	Flares	Deadly
+compound	Flares	Anti-Muslim
+compound	Flares	Violence
+dep	Myanmar	Flares
+advmod	Myanmar	Up

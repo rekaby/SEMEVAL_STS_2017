@@ -1,0 +1,8 @@
+root	ROOT	remove
+cc	remove	or
+conj:or	remove	force
+compound:prt	force	out
+case	position	from
+det	position	a
+nmod:from	force	position
+punct	remove	.

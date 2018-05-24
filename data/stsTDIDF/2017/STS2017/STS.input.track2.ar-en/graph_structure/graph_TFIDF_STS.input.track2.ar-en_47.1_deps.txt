@@ -1,0 +1,7 @@
+vaulter	A	det
+ROOT	performing	root
+performing	vaulter	nsubj
+performing	.	punct
+vaulter	teenage	amod
+vaulter	pole	compound
+performing	is	aux

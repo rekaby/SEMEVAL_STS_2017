@@ -1,0 +1,6 @@
+compound	presence	US
+amod	presence	military
+root	ROOT	presence
+case	Asia	in
+compound	Asia	East
+nmod:in	presence	Asia

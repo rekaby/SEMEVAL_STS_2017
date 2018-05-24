@@ -1,0 +1,12 @@
+amod	system	soviet-built
+compound	system	a-135
+compound	system	missile
+compound	system	defense
+nsubj	obsolete	system
+case	moscow	around
+nmod:around	system	moscow
+cop	obsolete	is
+root	ROOT	obsolete
+cc	obsolete	and
+conj:and	obsolete	inefficient
+punct	obsolete	.

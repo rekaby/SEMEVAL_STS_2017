@@ -1,0 +1,6 @@
+det	day	A
+root	ROOT	day
+case	rage	of
+nmod:of	day	rage
+case	Bahrain	in
+nmod:in	day	Bahrain

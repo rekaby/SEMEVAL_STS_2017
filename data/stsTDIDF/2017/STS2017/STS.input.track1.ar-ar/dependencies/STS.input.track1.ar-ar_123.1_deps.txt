@@ -1,0 +1,6 @@
+nsubj	works	It
+root	ROOT	works
+case	employee	with
+det	employee	another
+nmod:with	works	employee
+punct	works	.

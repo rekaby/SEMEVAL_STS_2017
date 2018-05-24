@@ -1,0 +1,13 @@
+root	ROOT	@Cyracuz
+punct	@Cyracuz	,
+dobj	want	What
+nsubj	want	you
+acl:relcl	@Cyracuz	want
+mark	call	to
+xcomp	want	call
+nsubj	is	it
+ccomp	call	is
+advmod	is	up
+case	you	to
+nmod:to	up	you
+punct	@Cyracuz	.

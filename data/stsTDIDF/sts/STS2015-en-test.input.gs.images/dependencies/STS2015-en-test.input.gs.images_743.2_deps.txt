@@ -1,0 +1,14 @@
+det	dog	A
+compound	dog	medium
+amod	dog	sized
+amod	dog	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	area	through
+det	area	an
+amod	area	open
+amod	area	white
+amod	area	wooded
+nmod:through	running	area
+punct	running	.

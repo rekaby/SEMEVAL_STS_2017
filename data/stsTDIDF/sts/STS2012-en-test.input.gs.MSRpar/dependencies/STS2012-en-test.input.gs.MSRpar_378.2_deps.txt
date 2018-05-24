@@ -1,0 +1,12 @@
+nsubj	candidate	Graham
+punct	Graham	,
+nsubj	co-chaired	who
+acl:relcl	Graham	co-chaired
+det	inquiry	the
+dobj	co-chaired	inquiry
+punct	Graham	,
+cop	candidate	is
+det	candidate	a
+amod	candidate	presidential
+root	ROOT	candidate
+punct	candidate	.

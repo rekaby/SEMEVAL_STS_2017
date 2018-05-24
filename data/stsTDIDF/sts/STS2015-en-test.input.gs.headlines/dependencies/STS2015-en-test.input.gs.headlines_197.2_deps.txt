@@ -1,0 +1,6 @@
+compound	wounds	Bomb
+root	ROOT	wounds
+nummod	wounds	16
+case	Afghanistan	in
+amod	Afghanistan	eastern
+nmod:in	16	Afghanistan

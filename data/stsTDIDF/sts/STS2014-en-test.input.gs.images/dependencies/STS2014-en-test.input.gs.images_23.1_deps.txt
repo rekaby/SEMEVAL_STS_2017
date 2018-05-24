@@ -1,0 +1,8 @@
+root	ROOT	Close
+advmod	Close	up
+case	bottle	of
+det	bottle	a
+nmod:of	up	bottle
+case	water	of
+nmod:of	bottle	water
+punct	Close	.

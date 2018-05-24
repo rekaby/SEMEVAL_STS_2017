@@ -1,0 +1,8 @@
+amod	minister	Indian
+compound	minister	finance
+nsubj	quits	minister
+root	ROOT	quits
+mark	run	to
+xcomp	quits	run
+case	president	for
+nmod:for	run	president

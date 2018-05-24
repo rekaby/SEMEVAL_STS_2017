@@ -1,0 +1,14 @@
+root	ROOT	Pick
+dobj	Pick	them
+advmod	soon	as
+advmod	Pick	soon
+mark	ripe	as
+nsubj	ripe	they
+cop	ripe	are
+mark	ripe	as
+advcl	soon	ripe
+mark	want	as
+nsubj	want	you
+advcl	ripe	want
+dobj	want	them
+punct	Pick	.

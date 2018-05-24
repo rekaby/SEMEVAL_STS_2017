@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	branching	of
+acl	act	branching
+compound:prt	branching	out
+cc	branching	or
+conj:or	branching	dividing
+case	branches	into
+nmod:into	dividing	branches
+punct	act	.

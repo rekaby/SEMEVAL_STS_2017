@@ -1,0 +1,9 @@
+nsubj	forbid	limit
+punct	limit	,
+dep	limit	keep
+case	control	under
+nmod:under	keep	control
+punct	keep	,
+xcomp	keep	deter
+punct	limit	,
+root	ROOT	forbid

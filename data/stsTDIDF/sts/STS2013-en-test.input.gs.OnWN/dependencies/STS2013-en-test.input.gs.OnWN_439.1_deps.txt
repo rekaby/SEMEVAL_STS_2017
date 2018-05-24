@@ -1,0 +1,8 @@
+root	ROOT	gear
+cc	gear	or
+conj:or	gear	develop
+dobj	develop	something
+case	purpose	to
+det	purpose	a
+amod	purpose	particular
+nmod:to	develop	purpose

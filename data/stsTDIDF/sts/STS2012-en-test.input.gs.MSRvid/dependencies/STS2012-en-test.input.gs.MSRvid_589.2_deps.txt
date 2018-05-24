@@ -1,0 +1,7 @@
+det	man	A
+nsubj	taking	man
+aux	taking	is
+root	ROOT	taking
+det	picture	a
+dobj	taking	picture
+punct	taking	.

@@ -1,0 +1,13 @@
+det	case	a
+root	ROOT	case
+advmod	want	when
+nsubj	want	you
+aux	want	might
+acl:relcl	case	want
+mark	take	to
+xcomp	want	take
+dobj	take	someone
+nmod:poss	shit	else
+case	else	's
+dep	someone	shit
+punct	case	...

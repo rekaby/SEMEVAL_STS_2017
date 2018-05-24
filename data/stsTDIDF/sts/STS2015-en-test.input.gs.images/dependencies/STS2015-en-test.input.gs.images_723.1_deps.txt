@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	run	dogs
+root	ROOT	run
+advmod	run	side-by-side
+case	grass	on
+det	grass	the
+nmod:on	run	grass
+punct	run	.

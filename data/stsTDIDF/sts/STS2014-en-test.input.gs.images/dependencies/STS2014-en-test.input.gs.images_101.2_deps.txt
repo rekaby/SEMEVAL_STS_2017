@@ -1,0 +1,15 @@
+det	boy	A
+nsubj	doing	boy
+root	ROOT	doing
+det	wheelie	a
+dobj	doing	wheelie
+case	plank	on
+det	plank	a
+nmod:on	doing	plank
+case	beach	with
+det	beach	the
+nmod:with	plank	beach
+case	background	in
+det	background	the
+nmod:in	doing	background
+punct	doing	.

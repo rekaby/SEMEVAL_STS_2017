@@ -1,0 +1,12 @@
+punct	threatens	`
+nsubj	threatens	Anonymous
+punct	threatens	'
+root	ROOT	threatens
+compound	Anonymous	Justice
+compound	Anonymous	Dept.
+punct	Anonymous	`
+nsubj	threatens	Anonymous
+punct	threatens	'
+ccomp	threatens	threatens
+compound	Dept	Justice
+dobj	threatens	Dept

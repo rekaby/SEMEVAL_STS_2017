@@ -1,0 +1,12 @@
+compound	Grassley	Mr.
+nsubj	rejected	Grassley
+cc	Grassley	and
+compound	Baucus	Mr.
+conj:and	Grassley	Baucus
+root	ROOT	rejected
+det	disparity	any
+dobj	rejected	disparity
+case	benefits	in
+compound	benefits	drug
+nmod:in	disparity	benefits
+punct	rejected	.

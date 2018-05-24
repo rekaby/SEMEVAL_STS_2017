@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	pouring	woman
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	eyes
+case	bowl	into
+det	bowl	a
+nmod:into	pouring	bowl
+punct	pouring	.

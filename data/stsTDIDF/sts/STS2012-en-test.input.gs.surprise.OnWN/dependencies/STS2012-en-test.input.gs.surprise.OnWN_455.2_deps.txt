@@ -1,0 +1,8 @@
+det	quality	the
+root	ROOT	quality
+mark	being	of
+acl	quality	being
+dep	being	unlike
+cc	unlike	or
+conj:or	unlike	dissimilar
+punct	quality	.

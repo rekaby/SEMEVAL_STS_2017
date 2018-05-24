@@ -1,0 +1,14 @@
+det	protesters	The
+nsubj	denounced	protesters
+root	ROOT	denounced
+det	country	the
+nmod:poss	leader	country
+case	country	's
+amod	leader	supreme
+dobj	denounced	leader
+punct	leader	,
+compound	Khamenei	hard-liner
+compound	Khamenei	Ayatollah
+compound	Khamenei	Ali
+appos	leader	Khamenei
+punct	denounced	.

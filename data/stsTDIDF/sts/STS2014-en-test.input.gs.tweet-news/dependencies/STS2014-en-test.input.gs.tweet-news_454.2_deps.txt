@@ -1,0 +1,8 @@
+det	importance	The
+root	ROOT	importance
+case	day	of
+det	day	a
+punct	day	`
+compound	day	stop
+nmod:of	importance	day
+punct	importance	'

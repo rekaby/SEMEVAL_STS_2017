@@ -1,0 +1,10 @@
+det	man	An
+amod	man	elderly
+nsubj	works	man
+root	ROOT	works
+case	laptop	on
+nmod:poss	laptop	his
+nmod:on	works	laptop
+case	home	at
+nmod:at	laptop	home
+punct	works	.

@@ -1,0 +1,9 @@
+det	boy	The
+nsubj	walking	boy
+cc	boy	and
+det	girl	the
+conj:and	boy	girl
+aux	walking	are
+root	ROOT	walking
+compound:prt	walking	out
+punct	walking	.

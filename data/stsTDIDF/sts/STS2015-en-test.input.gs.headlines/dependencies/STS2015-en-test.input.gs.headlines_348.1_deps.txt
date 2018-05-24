@@ -1,0 +1,7 @@
+nsubj	kills	Fire
+root	ROOT	kills
+dobj	kills	38
+case	institution	in
+amod	institution	Russian
+amod	institution	psychiatric
+nmod:in	38	institution

@@ -1,0 +1,10 @@
+det	state	a
+nsubj	circumstance	state
+case	authority	of
+det	authority	an
+nmod:of	state	authority
+dep	authority	managing
+cc	managing	or
+conj:or	managing	dominating
+det	circumstance	a
+root	ROOT	circumstance

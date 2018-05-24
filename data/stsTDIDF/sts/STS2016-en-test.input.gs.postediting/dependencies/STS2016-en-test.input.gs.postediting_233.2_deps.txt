@@ -1,0 +1,15 @@
+cc	continue	And
+advmod	continue	perhaps
+nsubj	continue	we
+root	ROOT	continue
+mark	call	to
+xcomp	continue	call
+advmod	expensive	more
+xcomp	call	expensive
+case	rest	than
+case	rest	in
+det	rest	the
+nmod:in	expensive	rest
+case	Europe	of
+nmod:of	rest	Europe
+punct	continue	.

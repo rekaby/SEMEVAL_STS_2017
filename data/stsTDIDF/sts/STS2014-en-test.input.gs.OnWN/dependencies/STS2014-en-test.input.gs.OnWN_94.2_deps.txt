@@ -1,0 +1,10 @@
+root	ROOT	leave
+cc	leave	or
+conj:or	leave	give
+case	death	by
+aux	death	will
+case	death	after
+nmod:poss	death	one
+case	one	's
+nmod:after	leave	death
+punct	leave	.

@@ -1,0 +1,9 @@
+compound	Obama	President
+nsubj	warns	Obama
+root	ROOT	warns
+dobj	warns	Russia
+mark	stay	to
+xcomp	warns	stay
+case	Ukraine	out
+mwe	out	of
+nmod:out_of	stay	Ukraine

@@ -1,0 +1,20 @@
+compound	Drummond	Mr.
+nsubj	showing	Drummond
+punct	Drummond	,
+appos	Drummond	yep
+punct	Drummond	...
+root	ROOT	showing
+nmod:poss	age	my
+dobj	showing	age
+punct	showing	:
+compound	Bain	Conrad
+nsubj	on	Bain
+punct	Bain	,
+appos	Bain	Father
+parataxis	showing	on
+punct	on	?-15) compound(Strokes-2, Diff?rent
+root	ROOT	Strokes
+punct	Strokes	?-3) punct(Dies-2, ,
+root	ROOT	Dies
+case	89	at
+nmod:at	Dies	89

@@ -1,0 +1,7 @@
+compound	Bomb	Car
+nsubj	Kills	Bomb
+root	ROOT	Kills
+nummod	Pakistan	37
+case	Northwest	in
+nmod:in	37	Northwest
+dobj	Kills	Pakistan

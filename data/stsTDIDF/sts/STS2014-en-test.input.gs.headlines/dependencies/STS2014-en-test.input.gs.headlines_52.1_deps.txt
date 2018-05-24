@@ -1,0 +1,9 @@
+compound	Alyokhina	Pussy
+compound	Alyokhina	Riot
+compound	Alyokhina	member
+root	ROOT	Alyokhina
+acl	Alyokhina	released
+case	jail	from
+nmod:from	released	jail
+case	Russia	in
+nmod:in	released	Russia

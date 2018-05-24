@@ -1,0 +1,5 @@
+root	ROOT	Close-up
+case	hummingbird	of
+det	hummingbird	a
+nmod:of	Close-up	hummingbird
+punct	Close-up	.

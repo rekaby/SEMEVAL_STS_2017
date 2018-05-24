@@ -1,0 +1,14 @@
+expl	is	There
+root	ROOT	is
+det	desk	a
+amod	desk	small
+nsubj	is	desk
+cc	desk	and
+conj:and	desk	chair
+case	room	in
+mwe	in	front
+mwe	in	of
+det	room	the
+compound	room	laundry
+nmod:in_front_of	chair	room
+punct	is	.

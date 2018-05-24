@@ -1,0 +1,6 @@
+nsubj	going	Train
+root	ROOT	going
+compound:prt	going	down
+det	tracks	the
+dobj	going	tracks
+punct	going	.

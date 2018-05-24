@@ -1,0 +1,8 @@
+det	country	Which
+nsubj	has	country
+root	ROOT	has
+advmod	freedom	most
+amod	freedom	economic
+dobj	has	freedom
+punct	has	?-7) amod(#economics-2, #economy
+root	ROOT	#economics

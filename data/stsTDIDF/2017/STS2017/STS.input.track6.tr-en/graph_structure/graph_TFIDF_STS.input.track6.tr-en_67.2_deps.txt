@@ -1,0 +1,5 @@
+jumping	man	dobj
+jumping	on	compound:prt
+jumping	man	nsubj
+jumping	is	aux
+man	another	det

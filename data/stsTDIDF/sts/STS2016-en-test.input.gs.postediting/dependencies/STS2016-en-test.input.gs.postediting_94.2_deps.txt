@@ -1,0 +1,12 @@
+nsubj	need	They
+advmod	need	desperately
+root	ROOT	need
+dobj	need	this
+punct	need	,
+cc	need	and
+nsubj	show	I
+conj:and	need	show
+iobj	show	you
+det	example	an
+dobj	show	example
+punct	need	.

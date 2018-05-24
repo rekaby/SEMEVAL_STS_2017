@@ -1,0 +1,13 @@
+shirt	without	case
+drum	the	det
+starts	man	nsubj
+starts	host	nmod:amid
+starts	jumping	xcomp
+host	drums	nmod:of
+drums	of	case
+host	amid	case
+jumping	side	nmod:from
+man	shirt	nmod:without
+drums	other	amod
+drum	of	case
+side	drum	nmod:of

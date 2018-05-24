@@ -1,0 +1,10 @@
+compound	Charles	Prince
+nsubj	compares	Charles
+punct	compares	`
+root	ROOT	compares
+compound	Putin	Vladimir
+dobj	compares	Putin
+case	Hitler	to
+compound	Hitler	Adolf
+nmod:'	compares	Hitler
+case	Hitler	'

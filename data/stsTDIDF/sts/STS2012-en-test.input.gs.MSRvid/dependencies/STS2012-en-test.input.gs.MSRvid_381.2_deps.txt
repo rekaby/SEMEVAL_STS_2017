@@ -1,0 +1,8 @@
+det	man	A
+nsubj	applying	man
+aux	applying	is
+root	ROOT	applying
+dobj	applying	butter
+case	bread	to
+nmod:to	applying	bread
+punct	applying	.

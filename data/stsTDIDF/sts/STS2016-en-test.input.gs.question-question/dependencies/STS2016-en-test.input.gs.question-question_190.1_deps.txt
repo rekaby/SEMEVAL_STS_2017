@@ -1,0 +1,11 @@
+advmod	long	How
+advmod	wait	long
+aux	wait	should
+nsubj	wait	I
+root	ROOT	wait
+case	application	between
+compound	application	grout
+nmod:between	wait	application
+cc	application	and
+conj:and	application	sealant
+punct	wait	?

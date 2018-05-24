@@ -1,0 +1,15 @@
+det	act	the
+root	ROOT	act
+mark	giving	of
+acl	act	giving
+compound:prt	giving	up
+punct	claim	-LRB-
+det	claim	a
+dep	giving	claim
+cc	claim	or
+conj:or	claim	office
+cc	claim	or
+compound	etc.	possession
+conj:or	claim	etc.
+punct	claim	-RRB-
+punct	act	.

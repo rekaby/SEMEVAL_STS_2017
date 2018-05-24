@@ -1,0 +1,10 @@
+compound	Cooper	Bradley
+root	ROOT	Cooper
+case	talks	in
+nmod:in	Cooper	talks
+mark	play	to
+acl	talks	play
+compound	Armstrong	Lance
+dobj	play	Armstrong
+case	biopic	in
+nmod:in	play	biopic

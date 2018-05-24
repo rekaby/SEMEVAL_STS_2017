@@ -1,0 +1,10 @@
+det	person	A
+nsubj	tries	person
+case	shorts	in
+amod	shorts	bright
+nmod:in	person	shorts
+root	ROOT	tries
+mark	catch	to
+xcomp	tries	catch
+det	frisbee	a
+dobj	catch	frisbee

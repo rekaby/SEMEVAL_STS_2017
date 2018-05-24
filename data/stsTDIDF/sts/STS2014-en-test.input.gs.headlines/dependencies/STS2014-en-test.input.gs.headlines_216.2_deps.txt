@@ -1,0 +1,9 @@
+det	officials	Some
+compound	officials	county
+nsubj	pave	officials
+root	ROOT	pave
+det	way	the
+dobj	pave	way
+case	marriage	for
+amod	marriage	same-sex
+nmod:for	way	marriage

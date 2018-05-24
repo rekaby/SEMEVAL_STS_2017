@@ -1,0 +1,10 @@
+nsubj	depends	It
+advmod	depends	really
+root	ROOT	depends
+case	school	on
+det	school	the
+nmod:on	depends	school
+cc	school	and
+det	program	the
+conj:and	school	program
+punct	depends	.

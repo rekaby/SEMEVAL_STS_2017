@@ -1,0 +1,12 @@
+compound	Senate	US
+nsubj	elusive	Senate
+mark	meet	to
+acl	Senate	meet
+case	path	as
+nmod:as	meet	path
+case	impasse	out
+mwe	out	of
+amod	impasse	fiscal
+nmod:out_of	path	impasse
+advmod	elusive	still
+root	ROOT	elusive

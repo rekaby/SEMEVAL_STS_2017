@@ -1,0 +1,8 @@
+det	trees	The
+root	ROOT	trees
+acl	trees	are
+nsubj	are	all
+dep	all	lush
+cc	lush	and
+conj:and	lush	green
+punct	trees	.

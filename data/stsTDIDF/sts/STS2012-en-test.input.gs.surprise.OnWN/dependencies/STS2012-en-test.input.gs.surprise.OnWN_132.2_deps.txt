@@ -1,0 +1,8 @@
+root	ROOT	beat
+advmod	beat	severely
+case	whip	with
+det	whip	a
+nmod:with	beat	whip
+cc	whip	or
+conj:or	whip	rod
+punct	beat	.

@@ -1,0 +1,7 @@
+compound	arrest	Egypt
+compound	arrest	orders
+root	ROOT	arrest
+case	Badie	of
+compound	Badie	Brotherhood
+compound	Badie	chief
+nmod:of	arrest	Badie

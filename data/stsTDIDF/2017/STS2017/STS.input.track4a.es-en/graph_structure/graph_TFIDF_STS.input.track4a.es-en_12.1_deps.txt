@@ -1,0 +1,4 @@
+group	men	nmod:of
+ROOT	competed	root
+competed	group	nsubj
+competed	.	punct

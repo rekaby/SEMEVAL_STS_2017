@@ -1,0 +1,8 @@
+det	man	The
+nsubj	hiking	man
+aux	hiking	is
+root	ROOT	hiking
+case	woods	in
+det	woods	the
+nmod:in	hiking	woods
+punct	hiking	.

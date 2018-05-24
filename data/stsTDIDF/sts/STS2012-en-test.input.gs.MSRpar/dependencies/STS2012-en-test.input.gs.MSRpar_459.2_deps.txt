@@ -1,0 +1,17 @@
+det	boy	Each
+nsubj	weighed	boy
+root	ROOT	weighed
+advmod	50	less
+mwe	less	than
+nummod	pounds	50
+dobj	weighed	pounds
+advmod	removed	when
+nsubjpass	removed	they
+auxpass	removed	were
+advcl	weighed	removed
+case	Oct.	from
+det	Oct.	the
+compound	Oct.	home
+nmod:from	removed	Oct.
+nummod	Oct.	10
+punct	weighed	.

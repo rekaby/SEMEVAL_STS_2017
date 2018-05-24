@@ -1,0 +1,6 @@
+holds	man	nsubj
+man	surfboard	nmod:on
+surfboard	a	det
+holds	stick	dobj
+stick	a	det
+surfboard	on	case

@@ -1,0 +1,8 @@
+root	ROOT	make
+det	thing	an
+amod	thing	abstract
+nmod:npmod	restrictive	thing
+amod	restrictive	tight
+cc	tight	or
+conj:or	tight	more
+xcomp	make	restrictive

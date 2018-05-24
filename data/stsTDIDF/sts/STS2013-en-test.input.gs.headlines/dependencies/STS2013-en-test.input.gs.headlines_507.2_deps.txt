@@ -1,0 +1,8 @@
+root	ROOT	Malaysia
+mark	extradite	to
+acl	Malaysia	extradite
+xcomp	extradite	Iranian
+case	attack	for
+nmod:for	Iranian	attack
+case	Israelis	on
+nmod:on	attack	Israelis

@@ -1,0 +1,17 @@
+root	ROOT	Driven
+case	need	by
+det	need	a
+nmod:by	Driven	need
+mark	compete	to
+acl	need	compete
+cc	compete	or
+conj:or	compete	remorse
+punct	Driven	?-9) nsubj(Admits-2, Armstrong
+root	ROOT	Admits
+dobj	Admits	Doping
+punct	Admits	,
+cc	Admits	and
+conj:and	Admits	Says
+nsubj	Testify	He
+aux	Testify	Will
+ccomp	Says	Testify

@@ -1,0 +1,11 @@
+people	dressed	acl
+wall	background	acl:relcl
+standing	people	nsubj
+standing	wall	nmod:next_to
+dressed	black	nmod:in
+background	is	cop
+black	in	case
+wall	next	case
+wall	blue	amod
+background	when	advmod
+background	city	nsubj

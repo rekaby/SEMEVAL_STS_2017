@@ -1,0 +1,7 @@
+det	baby	The
+nsubj	crawled	baby
+root	ROOT	crawled
+case	doorway	through
+det	doorway	the
+nmod:through	crawled	doorway
+punct	crawled	.

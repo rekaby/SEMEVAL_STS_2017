@@ -1,0 +1,8 @@
+det	man	The
+nsubj	racing	man
+aux	racing	is
+root	ROOT	racing
+compound:prt	racing	down
+det	mountain	the
+dobj	racing	mountain
+punct	racing	.

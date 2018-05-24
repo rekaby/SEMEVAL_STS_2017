@@ -1,0 +1,8 @@
+det	motorcycle	A
+compound	motorcycle	BMW
+nsubj	parked	motorcycle
+root	ROOT	parked
+case	cars	between
+nummod	cars	two
+nmod:between	parked	cars
+punct	parked	.

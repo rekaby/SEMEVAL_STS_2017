@@ -1,0 +1,7 @@
+det	man	This
+nsubj	has	man
+root	ROOT	has
+compound	gear	safety
+dobj	has	gear
+nmod	has	on
+punct	has	.

@@ -1,0 +1,7 @@
+nsubj	pushing	Parrot
+root	ROOT	pushing
+det	cart	a
+amod	cart	small
+compound	cart	shopping
+dobj	pushing	cart
+punct	pushing	.

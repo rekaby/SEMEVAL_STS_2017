@@ -1,0 +1,17 @@
+det	surfer	A
+nsubj	riding	surfer
+acl	surfer	wearing
+det	suit	a
+amod	suit	black
+amod	suit	wet
+dobj	wearing	suit
+aux	riding	is
+root	ROOT	riding
+det	wave	a
+det	wave	a
+amod	wave	white
+dobj	riding	wave
+case	ocean	in
+det	ocean	the
+nmod:in	wave	ocean
+punct	riding	.

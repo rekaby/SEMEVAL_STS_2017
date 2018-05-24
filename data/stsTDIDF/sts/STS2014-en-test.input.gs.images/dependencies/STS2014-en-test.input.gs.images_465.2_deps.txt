@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	poses	woman
+root	ROOT	poses
+case	baby	with
+det	baby	a
+nmod:with	poses	baby
+punct	poses	.

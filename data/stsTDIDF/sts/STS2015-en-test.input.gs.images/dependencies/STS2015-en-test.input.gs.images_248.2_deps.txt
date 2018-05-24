@@ -1,0 +1,9 @@
+det	woman	An
+amod	woman	elderly
+nsubj	walking	woman
+root	ROOT	walking
+amod	crossing	uphill
+xcomp	walking	crossing
+det	street	the
+dobj	crossing	street
+punct	walking	.

@@ -1,0 +1,7 @@
+det	program	a
+compound	program	computer
+root	ROOT	program
+nsubj	performs	that
+acl:relcl	program	performs
+compound	support	system
+dobj	performs	support

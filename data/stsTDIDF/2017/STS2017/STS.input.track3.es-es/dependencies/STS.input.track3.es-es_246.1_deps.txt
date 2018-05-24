@@ -1,0 +1,12 @@
+det	worker	A
+root	ROOT	worker
+dep	worker	wearing
+det	mask	a
+dobj	wearing	mask
+cc	wearing	and
+conj:and	wearing	carrying
+det	broom	a
+dobj	carrying	broom
+punct	wearing	,
+amod	guard	standing
+conj:and	wearing	guard

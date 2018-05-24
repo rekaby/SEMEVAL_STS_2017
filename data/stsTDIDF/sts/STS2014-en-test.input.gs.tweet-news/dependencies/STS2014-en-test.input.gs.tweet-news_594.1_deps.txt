@@ -1,0 +1,9 @@
+punct	Report	:
+root	ROOT	Report
+punct	Report	:
+nummod	hostages	650
+nsubj	forces	hostages
+acl	hostages	freed
+case	Algeria	by
+nmod:by	freed	Algeria
+parataxis	Report	forces

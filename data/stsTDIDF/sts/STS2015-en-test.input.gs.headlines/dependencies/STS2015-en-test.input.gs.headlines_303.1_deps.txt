@@ -1,0 +1,10 @@
+nsubj	pursuing	Kerry
+root	ROOT	pursuing
+punct	strategy	`
+amod	strategy	quiet
+dobj	pursuing	strategy
+punct	strategy	'
+case	process	in
+compound	process	Mideast
+compound	process	peace
+nmod:in	strategy	process

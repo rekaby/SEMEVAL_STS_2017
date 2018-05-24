@@ -1,0 +1,6 @@
+det	seasons	A
+compound	seasons	cook
+nsubj	dough	seasons
+det	dough	some
+root	ROOT	dough
+punct	dough	.

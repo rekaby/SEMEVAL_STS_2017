@@ -1,0 +1,10 @@
+nummod	boy	One
+nsubj	pushing	boy
+aux	pushing	is
+root	ROOT	pushing
+det	boy	another
+dobj	pushing	boy
+case	swing	on
+det	swing	a
+nmod:on	pushing	swing
+punct	pushing	.

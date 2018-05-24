@@ -1,0 +1,6 @@
+root	ROOT	make
+amod	advances	amorous
+cc	amorous	or
+conj:or	amorous	sexual
+dobj	make	advances
+dep	make	toward

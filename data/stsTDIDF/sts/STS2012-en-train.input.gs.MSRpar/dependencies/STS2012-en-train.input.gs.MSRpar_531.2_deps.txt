@@ -1,0 +1,15 @@
+nmod:tmod	seemed	Yesterday
+punct	seemed	,
+det	Concorde	the
+nsubj	seemed	Concorde
+root	ROOT	seemed
+mark	launch	to
+xcomp	seemed	launch
+dobj	launch	itself
+advmod	launch	straight
+case	sun	out
+mwe	out	of
+det	sun	the
+amod	sun	rising
+nmod:out_of	straight	sun
+punct	seemed	.

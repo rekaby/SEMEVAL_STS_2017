@@ -1,0 +1,15 @@
+case	things	Among
+amod	things	other
+nmod:among	is	things
+punct	is	,
+nsubj	is	Microsoft
+root	ROOT	is
+mark	comment	to
+xcomp	is	comment
+case	remedies	on
+amod	remedies	proposed
+nmod:on	comment	remedies
+case	response	in
+nmod:poss	response	its
+nmod:in	remedies	response
+punct	is	.

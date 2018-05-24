@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+advmod	man	asleep
+case	chair	in
+det	chair	a
+nmod:in	asleep	chair
+acl	chair	holding
+det	baby	a
+dobj	holding	baby
+punct	man	.

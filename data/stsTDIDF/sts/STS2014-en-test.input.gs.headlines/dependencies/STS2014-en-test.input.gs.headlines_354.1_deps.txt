@@ -1,0 +1,10 @@
+root	ROOT	Dozens
+acl	Dozens	killed
+case	strike	in
+compound	strike	air
+nmod:in	killed	strike
+case	bakery	on
+nmod:on	strike	bakery
+case	Syria	in
+amod	Syria	central
+nmod:in	strike	Syria

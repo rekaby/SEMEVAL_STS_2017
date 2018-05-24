@@ -1,0 +1,12 @@
+nummod	soldiers	7
+nsubj	killed	soldiers
+root	ROOT	killed
+punct	killed	,
+dobj	killed	56
+acl	56	injured
+case	attack	in
+compound	attack	PKK
+nmod:in	injured	attack
+case	Turkey	in
+amod	Turkey	eastern
+nmod:in	attack	Turkey

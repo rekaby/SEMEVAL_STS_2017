@@ -1,0 +1,9 @@
+compound	firm	Oil
+nsubj	asked	firm
+root	ROOT	asked
+amod	trader	rogue
+dobj	asked	trader
+case	meeting	about
+nmod:about	asked	meeting
+case	minister	with
+nmod:with	meeting	minister

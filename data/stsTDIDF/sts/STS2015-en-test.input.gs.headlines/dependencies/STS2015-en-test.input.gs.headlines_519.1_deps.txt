@@ -1,0 +1,8 @@
+amod	protesters	Ukrainian
+root	ROOT	protesters
+advmod	protesters	back
+case	streets	in
+nmod:in	back	streets
+case	rally	for
+amod	rally	anti-government
+nmod:for	back	rally

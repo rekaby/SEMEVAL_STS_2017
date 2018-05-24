@@ -1,0 +1,15 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	boy
+acl	man	walking
+case	beach	along
+det	beach	a
+nmod:along	walking	beach
+case	sea	with
+det	sea	the
+nmod:with	beach	sea
+case	background	in
+det	background	the
+nmod:in	walking	background
+punct	man	.

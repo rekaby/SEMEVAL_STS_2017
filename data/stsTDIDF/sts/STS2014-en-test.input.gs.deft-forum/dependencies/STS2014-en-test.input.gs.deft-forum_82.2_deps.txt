@@ -1,0 +1,10 @@
+root	ROOT	What
+cop	What	was
+nmod:poss	opinion	my
+nsubj	What	opinion
+case	Firefly	of
+nmod:of	opinion	Firefly
+case	interim	in
+det	interim	the
+nmod:in	opinion	interim
+punct	What	?

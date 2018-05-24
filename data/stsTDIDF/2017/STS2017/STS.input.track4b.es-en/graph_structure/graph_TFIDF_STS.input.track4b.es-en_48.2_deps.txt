@@ -1,0 +1,13 @@
+ROOT	uncomfortable	root
+advanced	I	nsubj
+uncomfortable	was	cop
+uncomfortable	advanced	conj:but
+advanced	little	dobj
+suspect	the	det
+advanced	seeing	advcl
+uncomfortable	,	punct
+seeing	hearing	conj:and
+hearing	suspect	dobj
+uncomfortable	but	cc
+uncomfortable	.	punct
+uncomfortable	It	nsubj

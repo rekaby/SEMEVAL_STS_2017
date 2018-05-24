@@ -1,0 +1,4 @@
+show	affection	dobj
+affection	their	nmod:poss
+show	People	nsubj
+affection	other	nmod:for

@@ -1,0 +1,13 @@
+det	act	the
+root	ROOT	act
+mark	freeing	of
+acl	act	freeing
+det	city	a
+dobj	freeing	city
+cc	city	or
+conj:or	city	town
+nsubjpass	besieged	that
+aux	besieged	has
+auxpass	besieged	been
+acl:relcl	city	besieged
+punct	act	.

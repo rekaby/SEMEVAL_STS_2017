@@ -1,0 +1,7 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	become	to
+punct	become	-RRB-
+advmod	become	gradually
+xcomp	cause	become
+xcomp	become	weak

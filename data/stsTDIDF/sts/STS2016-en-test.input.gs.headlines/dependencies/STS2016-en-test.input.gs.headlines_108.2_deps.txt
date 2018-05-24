@@ -1,0 +1,6 @@
+det	impact	The
+root	ROOT	impact
+case	sanctions	of
+nmod:of	impact	sanctions
+case	Russia	on
+nmod:on	sanctions	Russia

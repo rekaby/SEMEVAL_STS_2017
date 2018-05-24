@@ -1,0 +1,7 @@
+root	ROOT	Child
+acl	Child	watching
+dobj	watching	ducks
+case	park	in
+det	park	the
+nmod:in	watching	park
+punct	Child	.

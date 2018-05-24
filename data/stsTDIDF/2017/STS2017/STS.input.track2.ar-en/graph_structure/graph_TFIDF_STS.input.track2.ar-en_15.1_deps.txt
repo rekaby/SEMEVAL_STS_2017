@@ -1,0 +1,7 @@
+ROOT	buying	root
+buying	is	aux
+buying	donuts	dobj
+buying	.	punct
+woman	black	amod
+buying	woman	nsubj
+buying	store	nmod:at

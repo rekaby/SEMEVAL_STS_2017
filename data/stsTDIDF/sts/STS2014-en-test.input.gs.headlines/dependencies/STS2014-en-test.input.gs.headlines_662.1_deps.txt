@@ -1,0 +1,11 @@
+nmod:poss	Ahmadinejad	Iran
+case	Iran	's
+nsubj	face	Ahmadinejad
+aux	face	may
+root	ROOT	face
+dobj	face	charges
+case	appearance	over
+compound	appearance	election
+nmod:over	charges	appearance
+case	aide	with
+nmod:with	appearance	aide

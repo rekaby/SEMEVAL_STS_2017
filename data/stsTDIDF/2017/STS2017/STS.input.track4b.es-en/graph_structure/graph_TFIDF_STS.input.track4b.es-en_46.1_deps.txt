@@ -1,0 +1,13 @@
+identify	them	dobj
+Party	National	compound
+Party	from	case
+Party	British	compound
+difficult	,	punct
+difficult	tried	advcl
+survey	people	dobj
+survey	to	mark
+survey	Party	nmod:from
+difficult	Before	mark
+tried	survey	xcomp
+difficult	identify	xcomp
+difficult	would	aux

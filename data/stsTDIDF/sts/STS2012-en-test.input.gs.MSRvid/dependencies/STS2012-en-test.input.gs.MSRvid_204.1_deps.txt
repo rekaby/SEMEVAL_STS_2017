@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+det	scooter	a
+amod	scooter	motorized
+dobj	riding	scooter
+case	road	down
+det	road	a
+nmod:down	riding	road
+punct	riding	.

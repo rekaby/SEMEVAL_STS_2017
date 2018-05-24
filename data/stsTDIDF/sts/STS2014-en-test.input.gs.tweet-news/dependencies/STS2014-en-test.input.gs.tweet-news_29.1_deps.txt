@@ -1,0 +1,14 @@
+nsubj	wrong	What
+cop	wrong	's
+root	ROOT	wrong
+case	Dreamliner	with
+det	Dreamliner	the
+compound	Dreamliner	Boeing
+nmod:with	wrong	Dreamliner
+punct	wrong	?
+punct	wrong	''-9) root(ROOT-0, .-1) nsubj(happy-5, Airlines
+aux	happy	must
+cop	happy	be
+amod	happy	SO
+root	ROOT	happy
+punct	happy	!

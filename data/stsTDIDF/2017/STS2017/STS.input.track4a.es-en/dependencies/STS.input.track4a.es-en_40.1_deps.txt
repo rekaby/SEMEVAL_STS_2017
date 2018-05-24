@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	pet	boy
+cop	pet	is
+case	pet	with
+nmod:poss	pet	his
+root	ROOT	pet
+punct	pet	.

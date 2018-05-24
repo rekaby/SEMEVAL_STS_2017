@@ -1,0 +1,8 @@
+root	ROOT	Movement
+case	Missiles	of
+nmod:of	Movement	Missiles
+case	Korea	by
+compound	Korea	North
+nmod:by	Movement	Korea
+compound	U.S.	Worries
+dep	Korea	U.S.

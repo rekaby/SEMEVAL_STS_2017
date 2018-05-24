@@ -1,0 +1,8 @@
+root	ROOT	compel
+punct	compel	,
+conj:or	compel	enforce
+punct	compel	,
+cc	compel	or
+conj:or	compel	insist
+case	something	on
+nmod:on	insist	something

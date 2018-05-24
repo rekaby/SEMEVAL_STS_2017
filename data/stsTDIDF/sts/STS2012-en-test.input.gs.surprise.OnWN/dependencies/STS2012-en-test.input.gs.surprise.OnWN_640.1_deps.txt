@@ -1,0 +1,8 @@
+root	ROOT	throw
+case	force	with
+nmod:with	throw	force
+cc	force	or
+conj:or	force	recklessness
+punct	throw	;
+parataxis	throw	cast
+advmod	cast	away

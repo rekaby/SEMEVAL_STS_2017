@@ -1,0 +1,8 @@
+nsubj	show	People
+root	ROOT	show
+nmod:poss	affection	their
+dobj	show	affection
+case	other	for
+det	other	each
+nmod:for	affection	other
+punct	show	.

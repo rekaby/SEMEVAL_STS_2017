@@ -1,0 +1,5 @@
+det	amount	an
+amod	amount	approximated
+root	ROOT	amount
+case	something	of
+nmod:of	amount	something

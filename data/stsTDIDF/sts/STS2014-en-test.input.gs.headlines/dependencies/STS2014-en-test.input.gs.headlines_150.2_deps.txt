@@ -1,0 +1,5 @@
+compound	releases	Snowden
+root	ROOT	releases
+amod	Russia	first
+nsubj	video	Russia
+acl:relcl	releases	video

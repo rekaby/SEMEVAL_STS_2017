@@ -1,0 +1,13 @@
+discourse	idea	Yes
+punct	idea	,
+nsubj	idea	it
+cop	idea	's
+advmod	idea	probably
+det	idea	a
+amod	idea	good
+root	ROOT	idea
+mark	renew	to
+acl	idea	renew
+nmod:poss	passport	your
+dobj	renew	passport
+punct	idea	.

@@ -1,0 +1,16 @@
+det	rebel	A
+nsubj	said	rebel
+nsubjpass	captured	who
+auxpass	captured	was
+acl:relcl	rebel	captured
+root	ROOT	said
+advmod	2,000	more
+mwe	more	than
+nummod	insurgents	2,000
+nsubjpass	involved	insurgents
+auxpass	involved	were
+ccomp	said	involved
+case	attack	in
+det	attack	the
+nmod:in	involved	attack
+punct	said	.

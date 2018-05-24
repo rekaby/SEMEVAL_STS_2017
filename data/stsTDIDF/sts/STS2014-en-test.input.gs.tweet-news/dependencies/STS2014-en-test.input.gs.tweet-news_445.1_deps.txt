@@ -1,0 +1,15 @@
+amod	hire	great
+nsubj	guy	hire
+case	Wolf	by
+compound	Wolf	Robert
+nmod:by	hire	Wolf
+cc	Wolf	and
+nmod:poss	Goolsbee	his
+amod	Goolsbee	new
+compound	Goolsbee	firm
+compound	Goolsbee	Austan
+conj:and	Wolf	Goolsbee
+cop	guy	is
+det	guy	a
+amod	guy	great
+root	ROOT	guy

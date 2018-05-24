@@ -1,0 +1,10 @@
+root	ROOT	add
+dobj	add	embellishments
+cc	embellishments	and
+conj:and	embellishments	paintings
+case	manuscripts	to
+punct	manuscripts	-LRB-
+amod	manuscripts	medieval
+nmod:to	add	manuscripts
+punct	manuscripts	-RRB-
+punct	add	.

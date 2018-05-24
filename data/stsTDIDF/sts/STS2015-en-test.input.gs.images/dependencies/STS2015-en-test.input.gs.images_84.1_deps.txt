@@ -1,0 +1,14 @@
+det	dog	A
+amod	dog	black
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+nummod	birds	two
+dobj	chasing	birds
+case	shore	on
+det	shore	the
+nmod:on	chasing	shore
+case	ocean	of
+det	ocean	the
+nmod:of	shore	ocean
+punct	chasing	.

@@ -1,0 +1,12 @@
+det	man	The
+amod	man	old
+nsubj	part	man
+cc	man	and
+det	sea	the
+conj:and	man	sea
+cop	part	are
+root	ROOT	part
+case	scene	of
+det	scene	this
+nmod:of	part	scene
+punct	part	.

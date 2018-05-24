@@ -1,0 +1,8 @@
+amod	separate	Other
+root	ROOT	separate
+advmod	resentment	unfortunately
+case	resentment	because
+mwe	because	of
+nmod:because_of	separate	resentment
+acl	resentment	accumulated
+punct	separate	.

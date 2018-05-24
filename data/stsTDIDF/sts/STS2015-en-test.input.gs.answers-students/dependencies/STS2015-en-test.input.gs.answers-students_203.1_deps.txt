@@ -1,0 +1,8 @@
+nsubj	creates	it
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap
+case	current	in
+det	current	the
+nmod:in	gap	current
+punct	creates	.

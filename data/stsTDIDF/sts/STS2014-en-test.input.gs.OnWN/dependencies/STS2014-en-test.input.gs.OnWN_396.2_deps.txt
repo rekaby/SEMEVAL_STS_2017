@@ -1,0 +1,6 @@
+root	ROOT	behave
+case	way	in
+det	way	a
+amod	way	certain
+nmod:in	behave	way
+punct	behave	.

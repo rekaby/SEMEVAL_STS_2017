@@ -1,0 +1,9 @@
+compound	strike	US
+compound	strike	drone
+nsubj	kills	strike
+root	ROOT	kills
+dobj	kills	four
+case	NWA	in
+nmod:in	four	NWA
+punct	kills	:
+dep	kills	officials

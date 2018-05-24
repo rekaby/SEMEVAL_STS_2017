@@ -1,0 +1,9 @@
+amod	standing	Black
+cc	Black	and
+conj:and	Black	white
+compound	standing	cow
+root	ROOT	standing
+case	field	in
+amod	field	grassy
+nmod:in	standing	field
+punct	standing	.

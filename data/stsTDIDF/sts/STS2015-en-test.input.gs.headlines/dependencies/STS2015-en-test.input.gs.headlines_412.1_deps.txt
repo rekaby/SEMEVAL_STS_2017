@@ -1,0 +1,12 @@
+compound	Protest	Syrians
+nsubj	Support	Protest
+case	Erdogan	against
+nmod:against	Protest	Erdogan
+case	Paris	in
+nmod:in	Erdogan	Paris
+punct	Protest	,
+compound	Support	Venezuelans
+compound	Support	Stress
+root	ROOT	Support
+case	Syria	to
+nmod:to	Support	Syria

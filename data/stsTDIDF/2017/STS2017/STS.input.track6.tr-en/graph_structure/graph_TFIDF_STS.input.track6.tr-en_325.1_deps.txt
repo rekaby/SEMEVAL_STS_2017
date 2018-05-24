@@ -1,0 +1,5 @@
+ROOT	smiles	root
+smiles	camera	nmod:for
+smiles	girl	nsubj
+camera	for	case
+smiles	.	punct

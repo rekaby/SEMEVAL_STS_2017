@@ -1,0 +1,17 @@
+nsubj	need	You
+root	ROOT	need
+mark	read	to
+xcomp	need	read
+det	lot	a
+dobj	read	lot
+mark	know	to
+xcomp	read	know
+dobj	like	what
+nsubj	like	you
+ccomp	know	like
+cc	like	and
+dobj	do	what
+nsubj	do	you
+conj:and	like	do
+neg	do	n't
+punct	need	.

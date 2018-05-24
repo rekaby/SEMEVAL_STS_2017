@@ -1,0 +1,12 @@
+nsubj	have	you
+root	ROOT	have
+neg	remains	no
+dobj	have	remains
+case	A	of
+det	A	an
+nmod:of	remains	A
+punct	A	-
+case	pentagon	at
+det	pentagon	the
+nmod:at	A	pentagon
+punct	have	.

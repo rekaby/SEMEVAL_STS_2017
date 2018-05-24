@@ -1,0 +1,5 @@
+det	enemy	The
+root	ROOT	enemy
+case	dog	of
+det	dog	the
+nmod:of	enemy	dog

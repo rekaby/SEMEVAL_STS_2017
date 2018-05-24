@@ -1,0 +1,6 @@
+rides	man	nsubj
+rides	lot	nmod:in
+rides	.	punct
+bicycle	a	det
+rides	bicycle	dobj
+ROOT	rides	root

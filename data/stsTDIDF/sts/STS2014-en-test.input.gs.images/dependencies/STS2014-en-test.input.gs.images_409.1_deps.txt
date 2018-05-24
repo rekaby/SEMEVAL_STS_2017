@@ -1,0 +1,16 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	cow	of
+det	cow	a
+nmod:of	photo	cow
+acl	photo	walking
+case	tree	under
+det	tree	a
+nmod:under	walking	tree
+case	field	in
+det	field	a
+nmod:in	walking	field
+punct	photo	.

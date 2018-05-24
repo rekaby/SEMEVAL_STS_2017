@@ -1,0 +1,8 @@
+det	man	A
+amod	man	young
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	guitar	the
+dobj	playing	guitar
+punct	playing	.

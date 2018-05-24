@@ -1,0 +1,6 @@
+amod	military	Israeli
+nsubj	focuses	military
+root	ROOT	focuses
+case	border	on
+amod	border	northern
+nmod:on	focuses	border

@@ -1,0 +1,6 @@
+det	side	a
+amod	side	sharp
+root	ROOT	side
+case	object	of
+det	object	an
+nmod:of	side	object

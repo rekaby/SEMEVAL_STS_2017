@@ -1,0 +1,17 @@
+amod	observations	Other
+root	ROOT	observations
+dep	observations	are
+case	Europe	about
+det	Europe	an
+amod	Europe	old
+nmod:about	are	Europe
+acl	Europe	falling
+advmod	falling	away
+punct	are	,
+cc	are	and
+case	types	about
+amod	types	new
+conj:and	are	types
+case	terror	of
+nmod:of	types	terror
+punct	observations	.

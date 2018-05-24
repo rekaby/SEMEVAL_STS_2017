@@ -1,0 +1,15 @@
+det	index	The
+compound	index	Nasdaq
+amod	index	composite
+nsubj	rose	index
+root	ROOT	rose
+dobj	rose	13.70
+punct	13.70	,
+cc	13.70	or
+conj:or	13.70	0.8
+case	cent	per
+nmod:per	0.8	cent
+punct	rose	,
+case	1700.34	to
+nmod:to	rose	1700.34
+punct	rose	.

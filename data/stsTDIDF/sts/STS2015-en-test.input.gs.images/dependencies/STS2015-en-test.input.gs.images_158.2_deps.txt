@@ -1,0 +1,9 @@
+nummod	girls	Two
+amod	girls	blonde
+nsubj	sitting	girls
+aux	sitting	are
+root	ROOT	sitting
+case	statue	next
+mwe	next	to
+det	statue	a
+nmod:next_to	sitting	statue

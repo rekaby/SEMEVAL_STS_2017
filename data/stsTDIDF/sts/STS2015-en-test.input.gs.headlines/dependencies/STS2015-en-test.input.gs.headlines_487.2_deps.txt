@@ -1,0 +1,5 @@
+compound	Street	Wall
+nsubj	ends	Street
+root	ROOT	ends
+advmod	ends	slightly
+xcomp	ends	lower

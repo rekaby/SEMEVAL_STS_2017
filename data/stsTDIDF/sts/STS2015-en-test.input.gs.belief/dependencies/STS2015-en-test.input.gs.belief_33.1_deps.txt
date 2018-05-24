@@ -1,0 +1,17 @@
+advmod	good	eventually
+nsubj	good	we
+aux	good	'll
+advmod	good	all
+cop	good	be
+root	ROOT	good
+case	job	with
+punct	job	``
+det	job	a
+amod	job	full
+compound	job	time
+nmod:with	good	job
+case	feds	with
+det	feds	the
+nmod:with	job	feds
+punct	good	.
+punct	good	''

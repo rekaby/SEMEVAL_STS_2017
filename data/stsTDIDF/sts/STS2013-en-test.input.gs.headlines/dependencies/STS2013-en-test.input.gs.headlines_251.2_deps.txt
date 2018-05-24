@@ -1,0 +1,6 @@
+compound	Mail	Royal
+root	ROOT	Mail
+mark	create	to
+acl	Mail	create
+nummod	jobs	1,000
+dobj	create	jobs

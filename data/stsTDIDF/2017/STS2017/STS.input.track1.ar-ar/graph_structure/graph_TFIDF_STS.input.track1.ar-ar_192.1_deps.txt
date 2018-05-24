@@ -1,0 +1,5 @@
+stadium	crowded	amod
+Atorjuhan	.	punct
+ROOT	Atorjuhan	root
+Atorjuhan	stadium	nmod:in
+Atorjuhan	children	dobj

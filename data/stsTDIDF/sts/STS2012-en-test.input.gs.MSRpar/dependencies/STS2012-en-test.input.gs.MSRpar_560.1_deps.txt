@@ -1,0 +1,17 @@
+nsubj	said	He
+root	ROOT	said
+amod	governments	European
+nsubj	blocked	governments
+punct	blocked	``
+aux	blocked	have
+ccomp	said	blocked
+det	bio-crops	all
+amod	bio-crops	new
+dobj	blocked	bio-crops
+case	fears	because
+mwe	because	of
+amod	fears	unfounded
+punct	fears	,
+amod	fears	unscientific
+nmod:because_of	blocked	fears
+punct	said	.

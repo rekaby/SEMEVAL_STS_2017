@@ -1,0 +1,16 @@
+nmod:poss	gdp	their
+nsubj	lower	gdp
+case	capita	per
+nmod:per	gdp	capita
+cop	lower	is
+advmod	lower	much
+root	ROOT	lower
+cc	lower	and
+det	vulnerable	the
+nsubjpass	ignored	vulnerable
+auxpass	ignored	are
+conj:and	lower	ignored
+case	government	by
+det	government	the
+nmod:agent	ignored	government
+punct	lower	.

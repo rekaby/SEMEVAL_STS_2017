@@ -1,0 +1,15 @@
+compound	Green	Jordan
+nsubj	said	Green
+punct	Green	,
+det	prelate	the
+nmod:poss	lawyer	prelate
+case	prelate	's
+amod	lawyer	private
+appos	Green	lawyer
+punct	Green	,
+root	ROOT	said
+nsubj	had	he
+ccomp	said	had
+neg	comment	no
+dobj	had	comment
+punct	said	.

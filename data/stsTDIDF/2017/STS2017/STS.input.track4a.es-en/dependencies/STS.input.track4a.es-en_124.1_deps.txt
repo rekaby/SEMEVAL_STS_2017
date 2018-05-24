@@ -1,0 +1,14 @@
+nummod	dogs	Three
+nsubj	look	dogs
+root	ROOT	look
+case	human	like
+det	human	a
+nmod:like	look	human
+xcomp	look	holds
+det	ball	a
+amod	ball	pink
+dobj	holds	ball
+case	beach	on
+det	beach	the
+nmod:on	ball	beach
+punct	look	.

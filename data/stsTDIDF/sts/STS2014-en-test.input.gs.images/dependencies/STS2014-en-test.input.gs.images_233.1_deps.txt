@@ -1,0 +1,15 @@
+det	chews	A
+amod	chews	small
+amod	chews	white
+compound	chews	dog
+root	ROOT	chews
+case	twig	on
+det	twig	a
+nmod:on	chews	twig
+mark	lying	while
+advcl	chews	lying
+case	deck	on
+det	deck	a
+amod	deck	wooden
+nmod:on	lying	deck
+punct	chews	.

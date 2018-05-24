@@ -1,0 +1,8 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	13
+case	south	in
+nmod:poss	south	Russia
+case	Russia	's
+nmod:in	kills	south

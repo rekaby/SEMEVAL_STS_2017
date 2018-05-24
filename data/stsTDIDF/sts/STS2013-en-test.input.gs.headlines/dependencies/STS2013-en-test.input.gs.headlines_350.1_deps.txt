@@ -1,0 +1,7 @@
+compound	Instructor	Air
+compound	Instructor	Force
+nsubj	Faces	Instructor
+root	ROOT	Faces
+dobj	Faces	Sentencing
+case	Rape	for
+nmod:for	Sentencing	Rape

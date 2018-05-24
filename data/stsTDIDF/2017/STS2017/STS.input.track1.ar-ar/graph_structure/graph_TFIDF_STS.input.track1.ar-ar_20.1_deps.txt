@@ -1,0 +1,5 @@
+ROOT	length	root
+length	rock	nmod:of
+length	The	det
+length	.	punct
+rock	scalable	amod

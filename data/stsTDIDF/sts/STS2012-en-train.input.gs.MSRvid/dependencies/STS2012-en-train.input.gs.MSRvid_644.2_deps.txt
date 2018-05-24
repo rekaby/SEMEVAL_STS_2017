@@ -1,0 +1,6 @@
+det	loris	A
+amod	loris	slow
+nsubj	eating	loris
+aux	eating	is
+root	ROOT	eating
+punct	eating	.

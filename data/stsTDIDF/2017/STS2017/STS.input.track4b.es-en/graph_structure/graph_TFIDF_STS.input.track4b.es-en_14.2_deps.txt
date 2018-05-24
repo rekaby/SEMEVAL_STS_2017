@@ -1,0 +1,11 @@
+crisis	by	case
+union	European	amod
+affected	been	auxpass
+affected	badly	advmod
+crisis	sovereign	amod
+crisis	months	nmod:in
+union	monetary	amod
+crisis	debt	compound
+affected	crisis	nmod:agent
+affected	has	aux
+affected	union	nsubjpass

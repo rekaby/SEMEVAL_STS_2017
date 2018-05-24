@@ -1,0 +1,9 @@
+root	ROOT	NATO
+punct	NATO	:
+compound	battery	Patriot
+compound	battery	missile
+dep	NATO	battery
+amod	battery	operational
+case	border	on
+amod	border	Syrian
+nmod:on	operational	border

@@ -1,0 +1,15 @@
+advmod	confirmed	Finally
+root	ROOT	confirmed
+punct	lips	-
+amod	lips	chapped
+nsubj	you?ve	lips
+cop	you?ve	are
+det	you?ve	the
+amod	you?ve	first
+compound	you?ve	sign
+dep	confirmed	you?ve
+dep	you?ve	got
+compound	disease	Mad
+compound	disease	Cow
+dobj	got	disease
+punct	confirmed	.

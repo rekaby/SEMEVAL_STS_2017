@@ -1,0 +1,8 @@
+nsubj	copied	something
+root	ROOT	copied
+cc	copied	or
+conj:or	copied	derived
+case	original	from
+det	original	an
+nmod:from	derived	original
+punct	copied	.

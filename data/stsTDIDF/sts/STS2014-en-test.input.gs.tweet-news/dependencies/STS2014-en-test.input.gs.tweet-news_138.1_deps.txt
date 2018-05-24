@@ -1,0 +1,16 @@
+amod	reading	Worth
+root	ROOT	reading
+case	excerpts	for
+det	excerpts	the
+compound	excerpts	column
+nmod:for	reading	excerpts
+punct	reading	:
+compound	Phillips	Pauline
+nsubj	Dies	Phillips
+punct	Phillips	,
+compound	Abby	Dear
+appos	Phillips	Abby
+punct	Phillips	,
+parataxis	reading	Dies
+case	94	at
+nmod:at	Dies	94

@@ -1,0 +1,14 @@
+det	building	A
+root	ROOT	building
+case	sign	with
+det	sign	a
+amod	sign	temporary
+nmod:with	building	sign
+case	entrance	over
+det	entrance	the
+nmod:over	sign	entrance
+case	lot	to
+nmod:poss	lot	its
+compound	lot	parking
+nmod:to	entrance	lot
+punct	building	.

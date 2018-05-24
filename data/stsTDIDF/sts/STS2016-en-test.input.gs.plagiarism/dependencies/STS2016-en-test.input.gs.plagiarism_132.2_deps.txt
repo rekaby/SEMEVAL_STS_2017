@@ -1,0 +1,16 @@
+det	term	A
+nsubj	has	term
+nsubj	occurs	which
+acl:relcl	term	occurs
+case	document	in
+det	document	the
+nmod:in	occurs	document
+root	ROOT	has
+det	value	a
+dobj	has	value
+case	vector	in
+det	vector	the
+nmod:in	value	vector
+case	non-zero	of
+nmod:of	vector	non-zero
+punct	has	.

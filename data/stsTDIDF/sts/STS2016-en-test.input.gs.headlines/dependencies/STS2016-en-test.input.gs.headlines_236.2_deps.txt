@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	Meets	Korea
+compound	Meets	Delegation
+root	ROOT	Meets
+case	Officials	With
+amod	Korean	South
+amod	Officials	Korean
+nmod:with	Meets	Officials

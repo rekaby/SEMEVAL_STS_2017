@@ -1,0 +1,6 @@
+aux	take	Did
+det	transaction	the
+nsubj	take	transaction
+root	ROOT	take
+dobj	take	place
+punct	take	?

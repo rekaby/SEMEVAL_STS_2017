@@ -1,0 +1,5 @@
+compound	protesters	Ankara
+nsubj	clash	protesters
+root	ROOT	clash
+case	police	with
+nmod:with	clash	police

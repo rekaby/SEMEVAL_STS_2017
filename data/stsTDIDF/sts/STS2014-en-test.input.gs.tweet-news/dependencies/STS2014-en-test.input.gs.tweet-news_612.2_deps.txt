@@ -1,0 +1,6 @@
+nsubj	steps	U.S.
+root	ROOT	steps
+compound:prt	steps	up
+dobj	steps	involvement
+case	Mali	in
+nmod:in	involvement	Mali

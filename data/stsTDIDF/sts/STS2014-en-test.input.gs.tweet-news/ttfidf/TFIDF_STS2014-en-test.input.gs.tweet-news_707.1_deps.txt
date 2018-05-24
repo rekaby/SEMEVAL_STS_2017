@@ -1,0 +1,28 @@
+punct version ?-4) amod(Gun-2, Top	15.060439779775294
+punct Gun ?-3) auxpass(rejected-2, was	15.060439779775294
+nmod:poss censors #China	15.060439779775294
+case #China 's	15.060439779775294
+nmod:agent rejected censors	15.060439779775294
+punct rejected .-7) det(line-2, The	15.060439779775294
+nsubj darkness religion	15.060439779775294
+cop darkness is	15.060439779775294
+dep line darkness	15.060439779775294
+punct darkness '	15.060439779775294
+nmod:in darkness Life	15.060439779775294
+dep Life gt	15.060439779775294
+dobj gt X	15.060439779775294
+advmod line too	15.060439779775294
+punct darkness ``	14.367292599215348
+compound version 3D	13.961827491107185
+case censors by	13.961827491107185
+root ROOT Gun	13.674145418655403
+nmod:of Life Pi	13.451001867341194
+acl version of	13.11452963071998
+case Pi of	12.980998238095458
+det X the	12.287851057535512
+case Life in	11.764602913770965
+punct Life ''	10.264649234178552
+punct Life ``	10.023487177361664
+root ROOT version	9.997844746748326
+root ROOT line	9.380267170758227
+root ROOT rejected	8.985093748686609

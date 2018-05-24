@@ -1,0 +1,8 @@
+compound	Court	Supreme
+root	ROOT	Court
+mark	Hear	to
+acl	Court	Hear
+compound	Case	Voting
+compound	Case	Rights
+compound	Case	Act
+dobj	Hear	Case

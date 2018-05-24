@@ -1,0 +1,7 @@
+det	man	a
+root	ROOT	man
+acl	man	doing
+det	trick	a
+dobj	doing	trick
+case	skateboard	on
+nmod:on	doing	skateboard

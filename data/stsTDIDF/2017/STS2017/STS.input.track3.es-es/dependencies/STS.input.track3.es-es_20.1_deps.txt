@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	little
+nsubj	holding	boy
+aux	holding	is
+root	ROOT	holding
+det	ring	a
+compound	ring	wedding
+dobj	holding	ring
+punct	holding	.

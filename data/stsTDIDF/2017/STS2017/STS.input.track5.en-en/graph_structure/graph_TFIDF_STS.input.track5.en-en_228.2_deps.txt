@@ -1,0 +1,8 @@
+driver	race	compound
+driver	car	compound
+performs	race	nmod:in
+performs	.	punct
+ROOT	performs	root
+race	life	nmod:of
+driver	A	det
+performs	driver	nsubj

@@ -1,0 +1,16 @@
+nsubj	fell	HP
+root	ROOT	fell
+case	place	to
+amod	place	second
+nmod:to	fell	place
+mark	growing	with
+compound	sales	server
+nsubj	growing	sales
+advcl	fell	growing
+nummod	percent	0.4
+dobj	growing	percent
+case	$	to
+nmod:to	growing	$
+compound	billion	2.9
+nummod	$	billion
+punct	fell	.

@@ -1,0 +1,12 @@
+advmod	huge	Still
+punct	huge	,
+nsubj	huge	revenues
+case	premiums	from
+det	premiums	the
+amod	premiums	extra
+nmod:from	revenues	premiums
+aux	huge	would
+neg	huge	not
+cop	huge	be
+root	ROOT	huge
+punct	huge	.

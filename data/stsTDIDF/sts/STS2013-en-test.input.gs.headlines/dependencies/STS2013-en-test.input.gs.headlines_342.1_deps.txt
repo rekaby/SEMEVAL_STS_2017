@@ -1,0 +1,7 @@
+nsubj	leaves	Chavez
+root	ROOT	leaves
+advmod	leaves	again
+case	Cuba	for
+nmod:for	leaves	Cuba
+case	radiotherapy	for
+nmod:for	leaves	radiotherapy

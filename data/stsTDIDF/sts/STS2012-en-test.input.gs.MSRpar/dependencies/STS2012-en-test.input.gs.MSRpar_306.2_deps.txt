@@ -1,0 +1,17 @@
+det	poll	That
+nsubj	had	poll
+root	ROOT	had
+nummod	voters	712
+amod	voters	likely
+dobj	had	voters
+cc	voters	and
+compound	error	sampling
+conj:and	voters	error
+case	plus	of
+acl:of	voters	plus
+cc	voters	or
+dep	points	minus
+nummod	points	3.7
+compound	points	percentage
+conj:or	voters	points
+punct	had	.

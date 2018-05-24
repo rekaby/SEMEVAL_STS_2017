@@ -1,0 +1,15 @@
+amod	turning	manual
+root	ROOT	turning
+case	fetus	of
+det	fetus	a
+nmod:of	turning	fetus
+case	uterus	in
+det	uterus	the
+nmod:in	turning	uterus
+punct	usually	-LRB-
+dep	turning	usually
+mark	aid	to
+xcomp	usually	aid
+dobj	aid	delivery
+punct	usually	-RRB-
+punct	turning	.

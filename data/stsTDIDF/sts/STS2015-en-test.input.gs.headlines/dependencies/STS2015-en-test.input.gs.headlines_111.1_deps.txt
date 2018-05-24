@@ -1,0 +1,8 @@
+nsubj	approves	Canada
+root	ROOT	approves
+compound	pipeline	oil
+dobj	approves	pipeline
+case	Coast	to
+det	Coast	the
+compound	Coast	Pacific
+nmod:to	approves	Coast

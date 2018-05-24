@@ -1,0 +1,12 @@
+threat	as	cc
+atmosphere	to	case
+discussion	intellectual	amod
+threat	welfare	conj:and
+poses	threat	dobj
+atmosphere	discussion	nmod:of
+threat	atmosphere	nmod:to
+welfare	to	case
+welfare	the	det
+poses	This	nsubj
+says	poses	ccomp
+welfare	members	nmod:of

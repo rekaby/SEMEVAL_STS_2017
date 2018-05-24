@@ -1,0 +1,7 @@
+fix	car	dobj
+fix	.	punct
+ROOT	fix	root
+garage	a	det
+fix	garage	nmod:in
+fix	men	nsubj
+garage	in	case

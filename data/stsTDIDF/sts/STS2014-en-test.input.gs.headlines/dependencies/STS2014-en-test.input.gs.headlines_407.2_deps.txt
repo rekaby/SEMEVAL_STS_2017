@@ -1,0 +1,12 @@
+compound	polls	Exit
+nsubj	shows	polls
+ccomp	cries	shows
+compound	ally	Putin
+nsubj	wins	ally
+ccomp	shows	wins
+compound	vote	Moscow
+dobj	wins	vote
+punct	cries	,
+nsubj	cries	Navalny
+root	ROOT	cries
+nsubj	cries	foul

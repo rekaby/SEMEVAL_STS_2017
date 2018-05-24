@@ -1,0 +1,10 @@
+det	line	A
+nsubj	betting	line
+case	spectators	of
+nmod:of	line	spectators
+aux	betting	are
+root	ROOT	betting
+case	race	on
+det	race	the
+nmod:on	betting	race
+punct	betting	.

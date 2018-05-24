@@ -1,0 +1,11 @@
+nsubjpass	used	It
+auxpass	used	was
+advmod	used	first
+root	ROOT	used
+case	System	in
+det	System	the
+compound	System	SMART
+compound	System	Information
+compound	System	Retrieval
+nmod:in	used	System
+punct	used	.

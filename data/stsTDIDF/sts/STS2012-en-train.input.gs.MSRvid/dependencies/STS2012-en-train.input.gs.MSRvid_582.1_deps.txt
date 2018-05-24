@@ -1,0 +1,8 @@
+amod	ferrets	Several
+nsubj	climb	ferrets
+root	ROOT	climb
+case	cage	out
+mwe	out	of
+nmod:poss	cage	their
+nmod:out_of	climb	cage
+punct	climb	.

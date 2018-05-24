@@ -1,0 +1,7 @@
+det	man	The
+nsubj	cut	man
+root	ROOT	cut
+compound:prt	cut	up
+det	onion	an
+dobj	cut	onion
+punct	cut	.

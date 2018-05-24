@@ -1,0 +1,10 @@
+det	person	A
+nsubj	watching	person
+aux	watching	is
+root	ROOT	watching
+nsubj	ski	people
+ccomp	watching	ski
+compound:prt	ski	down
+det	hill	the
+dobj	ski	hill
+punct	watching	.

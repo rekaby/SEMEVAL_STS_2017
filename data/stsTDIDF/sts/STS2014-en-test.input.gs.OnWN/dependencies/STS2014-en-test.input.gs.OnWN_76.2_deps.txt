@@ -1,0 +1,8 @@
+root	ROOT	approach
+case	offer	with
+det	offer	an
+nmod:with	approach	offer
+case	favors	of
+amod	favors	sexual
+nmod:of	offer	favors
+punct	approach	.

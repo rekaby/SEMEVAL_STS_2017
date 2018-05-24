@@ -1,0 +1,13 @@
+det	occasion	an
+root	ROOT	occasion
+case	which	on
+nmod:on	assemble	which
+nsubj	assemble	people
+aux	assemble	can
+acl:relcl	occasion	assemble
+case	interaction	for
+amod	interaction	social
+nmod:for	assemble	interaction
+cc	interaction	and
+conj:and	interaction	entertainment
+punct	occasion	.

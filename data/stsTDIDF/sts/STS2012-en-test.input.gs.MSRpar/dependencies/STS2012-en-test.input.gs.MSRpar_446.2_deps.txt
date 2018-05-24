@@ -1,0 +1,17 @@
+amod	sales	Second-quarter
+nsubj	grew	sales
+root	ROOT	grew
+nummod	percent	7
+dobj	grew	percent
+punct	grew	,
+case	$	to
+nmod:to	grew	$
+compound	million	645
+nummod	$	million
+case	$	from
+nmod:from	grew	$
+compound	million	600
+nummod	$	million
+case	2002	in
+nmod:in	$	2002
+punct	grew	.

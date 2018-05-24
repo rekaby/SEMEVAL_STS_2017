@@ -1,0 +1,12 @@
+dropping	water	nmod:into
+water	into	case
+deck	the	det
+men	A	det
+men	few	amod
+men	deck	nmod:on
+dropping	are	aux
+ROOT	dropping	root
+dropping	men	nsubj
+deck	on	case
+dropping	man	dobj
+man	another	det

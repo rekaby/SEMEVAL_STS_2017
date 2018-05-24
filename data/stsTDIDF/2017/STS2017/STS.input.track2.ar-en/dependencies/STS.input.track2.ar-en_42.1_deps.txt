@@ -1,0 +1,11 @@
+nummod	women	Four
+nsubj	sit	women
+acl	women	wearing
+dobj	wearing	bicycle
+acl	bicycle	riding
+dobj	riding	clothing
+root	ROOT	sit
+case	bench	on
+det	bench	a
+nmod:on	sit	bench
+punct	sit	.

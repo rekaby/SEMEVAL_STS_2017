@@ -1,0 +1,6 @@
+compound	army	Iraq
+nsubj	claims	army
+root	ROOT	claims
+dobj	claims	victory
+case	Tikrit	in
+nmod:in	victory	Tikrit

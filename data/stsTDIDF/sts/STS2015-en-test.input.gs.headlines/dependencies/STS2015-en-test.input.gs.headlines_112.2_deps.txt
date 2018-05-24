@@ -1,0 +1,6 @@
+amod	soldiers	Syrian
+root	ROOT	soldiers
+acl	soldiers	killed
+case	attack	in
+compound	attack	bomb
+nmod:in	killed	attack

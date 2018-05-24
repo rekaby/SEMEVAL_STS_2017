@@ -1,0 +1,10 @@
+dep	example	rerun
+det	performance	a
+dobj	rerun	performance
+case	play	of
+det	play	a
+nmod:of	performance	play
+punct	example	,
+case	example	for
+root	ROOT	example
+punct	example	.

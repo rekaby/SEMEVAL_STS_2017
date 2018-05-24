@@ -1,0 +1,8 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	broccoli
+case	water	into
+nmod:into	putting	water
+punct	putting	.

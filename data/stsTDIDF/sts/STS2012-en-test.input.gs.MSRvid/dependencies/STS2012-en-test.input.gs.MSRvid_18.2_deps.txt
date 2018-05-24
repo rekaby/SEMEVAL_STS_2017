@@ -1,0 +1,10 @@
+det	man	The
+nsubj	spanked	man
+root	ROOT	spanked
+det	man	the
+amod	man	other
+dobj	spanked	man
+case	stick	with
+det	stick	a
+nmod:with	spanked	stick
+punct	spanked	.

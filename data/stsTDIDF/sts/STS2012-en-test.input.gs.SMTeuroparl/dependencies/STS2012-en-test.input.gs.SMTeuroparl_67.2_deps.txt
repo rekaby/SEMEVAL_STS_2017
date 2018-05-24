@@ -1,0 +1,15 @@
+det	users	The
+nsubj	losers	users
+cop	losers	are
+det	losers	the
+root	ROOT	losers
+punct	losers	,
+conj:and	losers	employees
+punct	losers	,
+cc	losers	and
+amod	competitiveness	European
+conj:and	losers	competitiveness
+cc	competitiveness	and
+compound	régresseront	growth
+conj:and	competitiveness	régresseront
+punct	losers	.

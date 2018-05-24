@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+case	market	at
+det	market	a
+compound	market	farmers
+nmod:at	man	market
+punct	man	.

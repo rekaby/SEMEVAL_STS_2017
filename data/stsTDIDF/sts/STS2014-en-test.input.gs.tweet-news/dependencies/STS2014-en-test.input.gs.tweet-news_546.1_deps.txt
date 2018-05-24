@@ -1,0 +1,9 @@
+amod	Read	Good
+root	ROOT	Read
+punct	Read	:
+dep	Read	Challenges
+case	Women	for
+nmod:for	Challenges	Women
+case	India	in
+nmod:in	Challenges	India
+punct	Read	:

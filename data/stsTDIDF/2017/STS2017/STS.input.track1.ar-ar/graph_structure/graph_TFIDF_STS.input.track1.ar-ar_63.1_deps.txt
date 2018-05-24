@@ -1,0 +1,7 @@
+Square	in	case
+Meet	crowds	dobj
+Square	Times	compound
+ROOT	Meet	root
+Meet	.	punct
+crowds	Square	nmod:in
+crowds	the	det

@@ -1,0 +1,8 @@
+advmod	get	How
+mark	get	to
+root	ROOT	get
+compound	million	10
+nummod	followers	million
+dobj	get	followers
+case	Twitter	on
+nmod:on	get	Twitter

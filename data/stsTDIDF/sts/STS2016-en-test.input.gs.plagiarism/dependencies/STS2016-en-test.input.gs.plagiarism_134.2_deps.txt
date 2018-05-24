@@ -1,0 +1,14 @@
+case	this	After
+nmod:after	using	this
+punct	using	,
+nsubj	using	it
+aux	using	is
+root	ROOT	using
+dobj	using	this
+mark	pick	to
+xcomp	using	pick
+det	path	the
+amod	path	best
+amod	path	overall
+dobj	pick	path
+punct	using	.

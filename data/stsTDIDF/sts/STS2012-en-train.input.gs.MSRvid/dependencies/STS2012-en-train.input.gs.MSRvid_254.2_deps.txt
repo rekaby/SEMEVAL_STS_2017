@@ -1,0 +1,8 @@
+det	man	A
+nsubj	skateboards	man
+root	ROOT	skateboards
+case	pipe	on
+det	pipe	a
+compound	pipe	half
+nmod:on	skateboards	pipe
+punct	skateboards	.

@@ -1,0 +1,8 @@
+compound	man	Chicago
+root	ROOT	man
+mark	sentenced	to
+auxpass	sentenced	be
+acl	man	sentenced
+case	convictions	for
+compound	convictions	terror
+nmod:for	sentenced	convictions

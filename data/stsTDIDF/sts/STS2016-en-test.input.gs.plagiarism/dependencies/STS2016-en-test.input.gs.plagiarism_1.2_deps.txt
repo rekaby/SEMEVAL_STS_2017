@@ -1,0 +1,17 @@
+mark	occurs	If
+det	term	a
+nsubj	occurs	term
+advcl	non-zero	occurs
+case	document	in
+det	document	the
+nmod:in	occurs	document
+punct	non-zero	,
+det	value	the
+nsubj	non-zero	value
+aux	non-zero	will
+cop	non-zero	be
+root	ROOT	non-zero
+case	vector	in
+det	vector	the
+nmod:in	non-zero	vector
+punct	non-zero	.

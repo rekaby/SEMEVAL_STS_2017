@@ -1,0 +1,10 @@
+root	ROOT	establish
+dobj	establish	something
+mark	relative	as
+cop	relative	being
+advmod	relative	earlier
+advcl	establish	relative
+case	something	to
+nmod:to	relative	something
+advmod	something	else
+punct	establish	.

@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	holding	woman
+case	look	with
+det	look	a
+amod	look	surprised
+nmod:with	woman	look
+case	face	on
+nmod:poss	face	her
+nmod:on	look	face
+aux	holding	is
+root	ROOT	holding
+det	woman	a
+amod	woman	smiling
+dobj	holding	woman
+case	behind	from
+nmod:from	holding	behind
+punct	holding	.

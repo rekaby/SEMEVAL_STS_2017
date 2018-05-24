@@ -1,0 +1,5 @@
+det	conclusion	the
+root	ROOT	conclusion
+case	communication	of
+det	communication	a
+nmod:of	conclusion	communication

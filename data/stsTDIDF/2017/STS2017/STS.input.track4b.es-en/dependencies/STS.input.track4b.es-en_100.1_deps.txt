@@ -1,0 +1,17 @@
+nsubj	told	I
+root	ROOT	told
+dobj	told	her
+punct	told	,
+punct	told	``
+nsubj	have	I
+ccomp	told	have
+neg	interest	no
+dobj	have	interest
+mark	say	in
+dobj	say	what
+nsubj	say	you
+acl	interest	say
+cc	say	or
+conj:or	say	think
+punct	told	.
+punct	told	'

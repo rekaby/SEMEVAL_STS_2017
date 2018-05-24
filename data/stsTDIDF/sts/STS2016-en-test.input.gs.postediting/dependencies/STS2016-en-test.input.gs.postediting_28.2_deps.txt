@@ -1,0 +1,10 @@
+mark	expect	With
+det	film	this
+compound	Garci	film
+nsubj	expect	Garci
+aux	expect	does
+neg	expect	not
+root	ROOT	expect
+det	price	a
+dobj	expect	price
+punct	expect	.

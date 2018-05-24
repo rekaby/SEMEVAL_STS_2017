@@ -1,0 +1,9 @@
+ROOT	Cowboy	root
+reeling	bull	nmod:from
+Cowboy	.	punct
+reeling	about	mark
+reeling	be	aux
+bull	from	case
+Cowboy	reeling	acl
+reeling	to	mark
+bull	the	det

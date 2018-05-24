@@ -1,0 +1,6 @@
+det	Milestone	A
+nsubj	Looms	Milestone
+root	ROOT	Looms
+case	Fish	for
+amod	Fish	Farm-Raised
+nmod:for	Looms	Fish

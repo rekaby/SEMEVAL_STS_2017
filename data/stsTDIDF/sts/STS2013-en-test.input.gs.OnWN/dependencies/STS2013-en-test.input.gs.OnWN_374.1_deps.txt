@@ -1,0 +1,6 @@
+root	ROOT	dysfunction
+cc	dysfunction	or
+conj:or	dysfunction	ailment
+case	heart	of
+det	heart	the
+nmod:of	dysfunction	heart

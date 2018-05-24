@@ -1,0 +1,10 @@
+advmod	make	How
+mark	make	to
+root	ROOT	make
+det	mug	a
+amod	mug	strong
+dobj	make	mug
+case	Coffee	of
+amod	Coffee	instant
+nmod:of	mug	Coffee
+punct	make	?

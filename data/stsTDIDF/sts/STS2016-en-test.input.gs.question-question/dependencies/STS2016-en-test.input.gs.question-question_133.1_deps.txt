@@ -1,0 +1,6 @@
+compound	visa	Schengen
+root	ROOT	visa
+case	citizen	for
+compound	citizen	UK
+nmod:for	visa	citizen
+punct	visa	?

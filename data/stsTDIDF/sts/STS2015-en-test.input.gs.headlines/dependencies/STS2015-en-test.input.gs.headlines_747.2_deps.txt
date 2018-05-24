@@ -1,0 +1,9 @@
+compound	president	S.
+compound	president	Korean
+root	ROOT	president
+punct	sorry	`
+amod	president	sorry
+punct	sorry	'
+case	disaster	for
+compound	disaster	ferry
+nmod:for	president	disaster

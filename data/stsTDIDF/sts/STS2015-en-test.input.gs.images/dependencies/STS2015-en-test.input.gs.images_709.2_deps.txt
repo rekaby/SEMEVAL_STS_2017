@@ -1,0 +1,11 @@
+root	ROOT	A
+dep	A	black
+cc	black	and
+det	dog	a
+amod	dog	brown
+conj:and	black	dog
+acl	dog	running
+case	grass	in
+det	grass	the
+nmod:in	running	grass
+punct	A	.

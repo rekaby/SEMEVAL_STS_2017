@@ -1,0 +1,13 @@
+det	father	A
+root	ROOT	father
+acl	father	napping
+case	chair	in
+det	chair	a
+nmod:in	napping	chair
+case	baby	with
+det	baby	a
+nmod:with	napping	baby
+case	lap	on
+nmod:poss	lap	his
+nmod:on	baby	lap
+punct	father	.

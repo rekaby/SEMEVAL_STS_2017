@@ -1,0 +1,9 @@
+det	man	The
+nsubj	helps	man
+root	ROOT	helps
+det	boy	the
+nsubj	ride	boy
+ccomp	helps	ride
+det	bike	a
+dobj	ride	bike
+punct	helps	.

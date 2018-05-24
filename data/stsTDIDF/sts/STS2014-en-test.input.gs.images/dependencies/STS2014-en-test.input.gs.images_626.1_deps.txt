@@ -1,0 +1,13 @@
+det	image	A
+amod	image	black
+cc	black	and
+conj:and	black	white
+root	ROOT	image
+case	cat	of
+det	cat	a
+nmod:of	image	cat
+acl	image	laying
+case	rug	on
+det	rug	a
+nmod:on	laying	rug
+punct	image	.

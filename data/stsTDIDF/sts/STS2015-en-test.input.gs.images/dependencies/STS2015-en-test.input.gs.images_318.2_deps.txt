@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	dog
+case	seashore	on
+det	seashore	a
+amod	seashore	rocky
+nmod:on	man	seashore
+punct	man	.

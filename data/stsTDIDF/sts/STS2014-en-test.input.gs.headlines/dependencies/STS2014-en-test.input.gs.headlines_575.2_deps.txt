@@ -1,0 +1,7 @@
+dep	hold	North
+punct	North	,
+compound	Korea	South
+nsubj	hold	Korea
+root	ROOT	hold
+amod	talks	rare
+dobj	hold	talks

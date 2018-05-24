@@ -1,0 +1,8 @@
+ROOT	hat	root
+hat	.	punct
+hat	and	cc
+inside	is	cop
+hat	is	cop
+hat	person	nsubj
+hat	without	case
+hat	inside	conj:and

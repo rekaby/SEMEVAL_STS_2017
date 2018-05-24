@@ -1,0 +1,4 @@
+root	ROOT	Humans
+case	shirts	in
+nmod:in	Humans	shirts
+punct	Humans	.

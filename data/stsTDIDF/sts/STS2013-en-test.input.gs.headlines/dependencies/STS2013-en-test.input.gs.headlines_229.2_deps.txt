@@ -1,0 +1,9 @@
+compound	Mob	Pakistani
+nsubj	Kills	Mob
+root	ROOT	Kills
+dobj	Kills	Man
+punct	Koran	`
+case	Koran	for
+compound	Koran	Burning
+nmod:for	Man	Koran
+punct	Koran	'

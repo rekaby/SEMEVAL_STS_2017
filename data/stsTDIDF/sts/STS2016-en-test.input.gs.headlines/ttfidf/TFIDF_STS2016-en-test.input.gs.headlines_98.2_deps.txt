@@ -1,0 +1,6 @@
+amod protest Peaceful	15.060439779775294
+amod protest anti-G8	15.060439779775294
+acl protest held	15.060439779775294
+nmod:in held Belfast	15.060439779775294
+case Belfast in	12.495490422313758
+root ROOT protest	11.802343241753812

@@ -1,0 +1,16 @@
+nsubj	was	That
+root	ROOT	was
+mark	increase	to
+xcomp	was	increase
+det	power	the
+dobj	increase	power
+case	countries	of
+det	countries	the
+amod	countries	large
+nmod:of	power	countries
+case	detriment	to
+det	detriment	the
+nmod:to	increase	detriment
+case	small	of
+nmod:of	detriment	small
+punct	was	.

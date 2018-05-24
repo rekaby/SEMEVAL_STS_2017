@@ -1,0 +1,13 @@
+mark	path	because
+compound	b	bulbs
+nsubj	path	b
+cc	b	and
+conj:and	b	c
+cop	path	are
+case	path	on
+det	path	a
+amod	path	closed
+root	ROOT	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

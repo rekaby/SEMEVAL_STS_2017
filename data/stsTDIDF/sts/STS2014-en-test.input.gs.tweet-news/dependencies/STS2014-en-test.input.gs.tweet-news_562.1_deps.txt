@@ -1,0 +1,10 @@
+amod	#Fashion	Loving
+det	style	the
+compound	style	street
+dobj	Loving	style
+case	#Couture	from
+det	#Couture	the
+nmod:from	Loving	#Couture
+case	#Paris	in
+nmod:in	#Couture	#Paris
+root	ROOT	#Fashion

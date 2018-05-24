@@ -1,0 +1,17 @@
+det	couple	A
+nsubj	buy	couple
+case	people	of
+nmod:of	couple	people
+case	museum	in
+det	museum	a
+nmod:in	couple	museum
+acl	museum	looking
+case	shop	in
+det	shop	the
+compound	shop	gift
+nmod:in	looking	shop
+aux	buy	will
+advmod	buy	potentially
+root	ROOT	buy
+dobj	buy	something
+punct	buy	.

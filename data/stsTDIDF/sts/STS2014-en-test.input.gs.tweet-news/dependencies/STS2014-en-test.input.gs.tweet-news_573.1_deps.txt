@@ -1,0 +1,15 @@
+root	ROOT	Get
+nsubj	#Oracle	it
+advmod	#Oracle	together
+compound	#Oracle	Sun
+punct	#Oracle	-LRB-
+dep	Get	#Oracle
+punct	#Oracle	-RRB-
+punct	Get	!-8) compound(Security-2, Homeland
+nsubj	warns	Security
+root	ROOT	warns
+dobj	warns	users
+mark	disable	to
+xcomp	warns	disable
+dobj	disable	Java
+punct	warns	.-8) root(ROOT-0, #CyberSecurity

@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	candle	girl
+case	lights	in
+amod	lights	orange
+nmod:in	girl	lights
+det	candle	a
+root	ROOT	candle
+punct	candle	.

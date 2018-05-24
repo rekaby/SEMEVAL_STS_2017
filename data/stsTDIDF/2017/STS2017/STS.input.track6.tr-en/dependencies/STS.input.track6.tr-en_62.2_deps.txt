@@ -1,0 +1,6 @@
+det	man	A
+nsubj	holds	man
+root	ROOT	holds
+det	surfboard	a
+dobj	holds	surfboard
+punct	holds	.

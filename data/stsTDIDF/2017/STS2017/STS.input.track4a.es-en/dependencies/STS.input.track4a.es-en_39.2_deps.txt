@@ -1,0 +1,7 @@
+det	person	A
+amod	person	young
+root	ROOT	person
+acl	person	turning
+det	screwdriver	a
+dobj	turning	screwdriver
+punct	person	.

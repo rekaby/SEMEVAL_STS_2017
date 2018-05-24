@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+dobj	puts	ingredients
+case	egg	in
+det	egg	a
+amod	egg	whisked
+nmod:in	puts	egg
+punct	puts	.

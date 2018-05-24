@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+amod	dog	spotted
+nsubj	jumps	dog
+root	ROOT	jumps
+case	stream	over
+det	stream	a
+nmod:over	jumps	stream
+punct	jumps	.

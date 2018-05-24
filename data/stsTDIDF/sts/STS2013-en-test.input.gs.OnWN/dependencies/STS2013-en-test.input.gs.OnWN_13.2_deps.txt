@@ -1,0 +1,9 @@
+root	ROOT	cease
+mark	operate	to
+xcomp	cease	operate
+cc	operate	or
+conj:or	operate	cause
+mark	cease	to
+xcomp	cause	cease
+dobj	cease	operating
+punct	cease	.

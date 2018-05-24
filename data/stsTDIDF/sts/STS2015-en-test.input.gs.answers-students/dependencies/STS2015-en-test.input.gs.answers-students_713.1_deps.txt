@@ -1,0 +1,13 @@
+det	terminal	The
+amod	terminal	positive
+compound	terminal	battery
+nsubjpass	separated	terminal
+auxpass	separated	is
+root	ROOT	separated
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap
+case	4	from
+amod	4	terminal
+nmod:from	gap	4
+punct	separated	.

@@ -1,0 +1,9 @@
+root	ROOT	go
+nmod:poss	way	one
+case	one	's
+amod	way	own
+dobj	go	way
+punct	go	;
+dep	go	move
+advmod	move	apart
+punct	go	.

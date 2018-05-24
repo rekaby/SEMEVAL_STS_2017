@@ -1,0 +1,12 @@
+det	man	A
+nsubj	heads	man
+case	shirt	in
+det	shirt	a
+amod	shirt	red
+amod	shirt	striped
+compound	shirt	soccer
+nmod:in	man	shirt
+root	ROOT	heads
+det	ball	a
+dobj	heads	ball
+punct	heads	.

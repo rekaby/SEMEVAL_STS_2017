@@ -1,0 +1,24 @@
+root	ROOT	Convicted
+case	Thailand	in
+nmod:in	Convicted	Thailand
+case	*	of
+nmod:of	Convicted	*
+acl	*	implying
+xcomp	implying	*
+det	insult	an
+dobj	*	insult
+case	king	to
+det	king	the
+nmod:to	insult	king
+punct	Convicted	.-13) root(ROOT-0, ?-1) expl(was-2, There
+root	ROOT	was
+neg	mention	no
+nsubj	was	mention
+case	name	of
+det	name	the
+compound	name	king?s
+nmod:of	mention	name
+case	speech	in
+det	speech	the
+nmod:in	mention	speech
+punct	was	.-12) root(ROOT-0, ?

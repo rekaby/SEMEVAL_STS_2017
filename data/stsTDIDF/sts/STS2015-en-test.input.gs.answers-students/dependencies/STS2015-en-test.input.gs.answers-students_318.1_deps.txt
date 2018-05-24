@@ -1,0 +1,14 @@
+root	ROOT	bulbs
+nsubj	path	a
+punct	a	,
+conj:and	a	b
+punct	a	,
+cc	a	and
+conj:and	a	c
+cop	path	are
+case	path	on
+det	path	a
+acl:relcl	bulbs	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

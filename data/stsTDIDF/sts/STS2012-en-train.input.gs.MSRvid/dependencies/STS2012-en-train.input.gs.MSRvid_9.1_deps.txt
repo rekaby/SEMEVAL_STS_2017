@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	fistfighting	men
+aux	fistfighting	are
+root	ROOT	fistfighting
+case	ring	in
+det	ring	a
+nmod:in	fistfighting	ring
+punct	fistfighting	.

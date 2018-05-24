@@ -1,0 +1,7 @@
+compound	fighters	Rebel
+nsubj	capture	fighters
+punct	capture	`
+root	ROOT	capture
+punct	soldiers	'
+amod	soldiers	Syrian
+dobj	capture	soldiers

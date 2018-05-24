@@ -1,0 +1,6 @@
+compound	Mills	President
+nsubj	quit	Mills
+aux	quit	must
+root	ROOT	quit
+punct	quit	-
+dep	quit	Lecturer

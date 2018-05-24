@@ -1,0 +1,15 @@
+nsubj	paid	United
+aux	paid	has
+root	ROOT	paid
+dobj	paid	$
+compound	million	34
+nummod	$	million
+case	penalties	in
+nmod:in	paid	penalties
+mark	failing	for
+advcl	paid	failing
+mark	meet	to
+xcomp	failing	meet
+compound	targets	employment
+dobj	meet	targets
+punct	paid	.

@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	watermelon	with
+det	watermelon	a
+nmod:with	playing	watermelon
+punct	playing	.

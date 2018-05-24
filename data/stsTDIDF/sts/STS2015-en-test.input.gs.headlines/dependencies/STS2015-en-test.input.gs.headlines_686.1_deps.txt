@@ -1,0 +1,8 @@
+nsubj	continue	Floods
+case	Europe	in
+amod	Europe	central
+nmod:in	Floods	Europe
+root	ROOT	continue
+mark	create	to
+xcomp	continue	create
+dobj	create	havoc

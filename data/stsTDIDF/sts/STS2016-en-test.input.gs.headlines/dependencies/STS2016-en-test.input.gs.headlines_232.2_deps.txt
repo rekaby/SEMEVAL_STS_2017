@@ -1,0 +1,8 @@
+compound	Modi	PM
+compound	Modi	Narendra
+nsubj	speaks	Modi
+root	ROOT	speaks
+case	non-discrimination	of
+nmod:of	speaks	non-discrimination
+cc	non-discrimination	and
+conj:and	non-discrimination	equality

@@ -1,0 +1,14 @@
+det	woman	A
+root	ROOT	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	woman	shirt
+cc	shirt	and
+amod	skirt	black
+conj:and	shirt	skirt
+case	court	on
+det	court	a
+compound	court	tennis
+nmod:on	woman	court
+punct	woman	.

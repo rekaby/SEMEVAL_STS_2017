@@ -1,0 +1,11 @@
+aux	left	Should
+nsubjpass	left	babies
+auxpass	left	be
+root	ROOT	left
+mark	cry	to
+punct	cry	``
+xcomp	left	cry
+dobj	cry	it
+compound:prt	cry	out
+punct	left	?
+punct	left	''-11) root(ROOT-0, ...

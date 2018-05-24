@@ -1,0 +1,4 @@
+dog	brown	amod
+runs	field	nmod:through
+runs	dog	nsubj
+field	through	case

@@ -1,0 +1,9 @@
+det	act	The
+root	ROOT	act
+mark	purchasing	of
+acl	act	purchasing
+advmod	sold	back
+nsubj	sold	something
+advmod	sold	previously
+ccomp	purchasing	sold
+punct	act	.

@@ -1,0 +1,9 @@
+det	treaty	the
+amod	treaty	nuclear
+compound	treaty	nonproliferation
+nsubj	old	treaty
+cop	old	is
+nummod	years	37
+nmod:npmod	old	years
+root	ROOT	old
+punct	old	.

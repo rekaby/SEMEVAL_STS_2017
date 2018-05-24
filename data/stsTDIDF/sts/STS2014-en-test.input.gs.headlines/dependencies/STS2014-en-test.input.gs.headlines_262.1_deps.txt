@@ -1,0 +1,8 @@
+amod	Azarov	Ukrainian
+compound	Azarov	Prime
+compound	Azarov	Minister
+nsubj	resign	Azarov
+cc	Azarov	and
+amod	government	entire
+conj:and	Azarov	government
+root	ROOT	resign

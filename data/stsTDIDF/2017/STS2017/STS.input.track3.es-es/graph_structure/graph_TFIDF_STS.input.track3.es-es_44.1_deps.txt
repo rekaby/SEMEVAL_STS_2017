@@ -1,0 +1,5 @@
+doll	her	nmod:poss
+girl	playing	acl
+girl	Little	amod
+playing	doll	nmod:with
+doll	with	case

@@ -1,0 +1,13 @@
+cop	larger	be
+root	ROOT	larger
+case	number	in
+nmod:in	larger	number
+punct	number	,
+conj:or	number	quantity
+punct	number	,
+conj:or	number	power
+punct	number	,
+conj:or	number	status
+cc	number	or
+conj:or	number	importance
+punct	larger	.

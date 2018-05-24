@@ -1,0 +1,10 @@
+det	man	An
+amod	man	elderly
+root	ROOT	man
+acl	man	holding
+dobj	holding	something
+amod	something	sharp
+case	hands	in
+nmod:poss	hands	his
+nmod:in	holding	hands
+punct	man	.

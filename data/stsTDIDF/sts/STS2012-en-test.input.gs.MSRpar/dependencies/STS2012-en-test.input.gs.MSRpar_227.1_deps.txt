@@ -1,0 +1,17 @@
+det	Association	The
+compound	Association	Recording
+compound	Association	Industry
+nsubj	says	Association
+case	America	of
+nmod:of	Association	America
+root	ROOT	says
+nsubj	plans	it
+ccomp	says	plans
+mark	sue	to
+xcomp	plans	sue
+det	traders	the
+compound	traders	song
+dobj	sue	traders
+amod	month	next
+nmod:tmod	sue	month
+punct	says	.

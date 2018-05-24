@@ -1,0 +1,11 @@
+advmod	do	How
+aux	do	does
+nmod:poss	car	world
+case	world	's
+amod	car	cheapest
+nsubj	do	car
+root	ROOT	do
+case	test	in
+compound	test	crash
+nmod:in	do	test
+punct	do	?

@@ -1,0 +1,8 @@
+root	ROOT	Man
+acl	Man	sitting
+case	bench	on
+nmod:on	sitting	bench
+case	bike	next
+mwe	next	to
+nmod:next_to	sitting	bike
+punct	Man	.

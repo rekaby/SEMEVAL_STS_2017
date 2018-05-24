@@ -1,0 +1,9 @@
+det	aspect	the
+amod	aspect	conscious
+amod	aspect	subjective
+root	ROOT	aspect
+case	feeling	of
+nmod:of	aspect	feeling
+cc	feeling	or
+conj:or	feeling	emotion
+punct	aspect	.

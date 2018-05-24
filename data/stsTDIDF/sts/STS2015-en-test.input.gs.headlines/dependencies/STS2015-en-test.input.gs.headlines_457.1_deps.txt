@@ -1,0 +1,10 @@
+compound	priest	Algerian
+root	ROOT	priest
+mark	lecture	to
+acl	priest	lecture
+case	heritage	about
+compound	heritage	Christian
+nmod:about	lecture	heritage
+case	Africa	in
+compound	Africa	N.
+nmod:in	heritage	Africa

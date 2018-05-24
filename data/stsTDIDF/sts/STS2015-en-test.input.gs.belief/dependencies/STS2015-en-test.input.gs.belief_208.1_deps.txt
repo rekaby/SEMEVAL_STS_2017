@@ -1,0 +1,12 @@
+nsubj	narrowed	i
+aux	narrowed	've
+root	ROOT	narrowed
+dobj	narrowed	it
+advmod	narrowed	down
+case	god	to
+nmod:to	down	god
+punct	god	,
+conj:and	god	gays
+cc	god	and
+conj:and	god	guns
+punct	narrowed	.

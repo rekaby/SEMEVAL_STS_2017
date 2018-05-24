@@ -1,0 +1,9 @@
+root	ROOT	know
+cc	know	and
+conj:and	know	comprehend
+det	nature	the
+dobj	know	nature
+cc	nature	or
+conj:or	nature	meaning
+acl	nature	of
+punct	know	.

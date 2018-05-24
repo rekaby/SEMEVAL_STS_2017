@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	doing	boy
+aux	doing	is
+root	ROOT	doing
+compound	ups	push
+dobj	doing	ups
+punct	doing	.

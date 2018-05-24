@@ -1,0 +1,15 @@
+paint	children	nsubj
+wall	the	det
+paint	words	dobj
+drawings	wall	nmod:on
+wall	on	case
+drawings	The	det
+City	Brick	compound
+depicting	paint	ccomp
+City	wall	nmod:on
+City	``	punct
+City	''	punct
+ROOT	drawings	root
+words	City	dep
+drawings	.	punct
+wall	depicting	acl

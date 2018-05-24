@@ -1,0 +1,8 @@
+compound	C	Bulb
+nsubj	path	C
+cop	path	was
+neg	path	not
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

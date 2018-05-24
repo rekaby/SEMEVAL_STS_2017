@@ -1,0 +1,7 @@
+root	ROOT	Trailblazing
+amod	company	Israeli
+amod	company	electric
+compound	company	car
+dobj	Trailblazing	company
+mark	fold	to
+advcl	Trailblazing	fold

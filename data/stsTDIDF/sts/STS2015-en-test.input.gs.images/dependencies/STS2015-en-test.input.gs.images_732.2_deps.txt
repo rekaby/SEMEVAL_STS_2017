@@ -1,0 +1,13 @@
+det	group	A
+nsubj	riding	group
+case	people	of
+nmod:of	group	people
+aux	riding	are
+root	ROOT	riding
+case	back	in
+det	back	the
+nmod:in	riding	back
+case	truck	of
+det	truck	a
+nmod:of	back	truck
+punct	riding	.

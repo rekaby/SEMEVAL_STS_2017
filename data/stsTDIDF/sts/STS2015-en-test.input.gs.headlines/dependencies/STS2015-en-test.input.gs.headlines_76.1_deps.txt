@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	bombings	in
+compound	bombings	Lebanon
+nmod:in	toll	bombings
+root	ROOT	rises
+case	47	to
+nmod:to	rises	47

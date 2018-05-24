@@ -1,0 +1,15 @@
+advmod	million	Some
+compound	million	95
+nummod	Americans	million
+nsubj	invest	Americans
+punct	half	--
+dep	Americans	half
+case	households	of
+det	households	all
+nmod:of	half	households
+punct	half	--
+root	ROOT	invest
+case	funds	in
+amod	funds	mutual
+nmod:in	invest	funds
+punct	invest	.

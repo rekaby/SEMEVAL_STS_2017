@@ -1,0 +1,17 @@
+compound	Morse	Mr
+nsubjpass	charged	Morse
+auxpass	charged	is
+root	ROOT	charged
+case	assault	with
+nmod:with	charged	assault
+cc	assault	and
+compound	Darvish	Mr
+conj:and	assault	Darvish
+auxpass	charged	is
+dep	charged	charged
+mark	filing	with
+advcl	charged	filing
+det	report	a
+amod	report	false
+dobj	filing	report
+punct	charged	.

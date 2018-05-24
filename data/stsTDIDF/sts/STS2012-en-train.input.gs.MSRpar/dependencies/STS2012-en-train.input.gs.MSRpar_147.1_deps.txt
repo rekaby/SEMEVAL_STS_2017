@@ -1,0 +1,16 @@
+nsubj	infection	Meningitis
+cop	infection	is
+det	infection	an
+root	ROOT	infection
+case	fluid	of
+det	fluid	the
+amod	fluid	spinal
+compound	fluid	cord
+nmod:of	infection	fluid
+cc	fluid	and
+det	tissue	the
+conj:and	fluid	tissue
+case	brain	around
+det	brain	the
+nmod:around	fluid	brain
+punct	infection	.

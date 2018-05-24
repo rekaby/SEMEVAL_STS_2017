@@ -1,0 +1,10 @@
+det	boy	A
+amod	boy	young
+nsubj	is	boy
+root	ROOT	is
+mark	paint	about
+mark	paint	to
+xcomp	is	paint
+nmod:poss	face	his
+dobj	paint	face
+punct	is	.

@@ -1,0 +1,6 @@
+root	ROOT	have
+det	argument	an
+dobj	have	argument
+case	something	about
+nmod:about	argument	something
+punct	have	.

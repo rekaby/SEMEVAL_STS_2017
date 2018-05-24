@@ -1,0 +1,9 @@
+root	ROOT	Awkward
+punct	Awkward	!-2) compound(linebacker-3, Notre
+compound	linebacker	Dame
+nsubj	says	linebacker
+root	ROOT	says
+nsubj	hoax	he
+cop	hoax	is
+ccomp	says	hoax
+dobj	hoax	victim

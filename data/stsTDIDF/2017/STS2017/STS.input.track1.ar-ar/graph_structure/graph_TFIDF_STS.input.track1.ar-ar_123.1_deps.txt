@@ -1,0 +1,4 @@
+employee	with	case
+works	employee	nmod:with
+works	It	nsubj
+employee	another	det

@@ -1,0 +1,8 @@
+compound	Crash	Glasgow
+compound	Crash	Helicopter
+root	ROOT	Crash
+punct	Crash	:
+case	Least	At
+nmod:at	Dead	Least
+nummod	Least	Six
+dep	Crash	Dead

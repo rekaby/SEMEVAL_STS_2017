@@ -1,0 +1,10 @@
+det	inclinations	the
+amod	inclinations	distortional
+root	ROOT	inclinations
+case	president	of
+det	president	the
+amod	president	next
+nmod:of	inclinations	president
+punct	president	,
+compound	h.w.	george
+appos	president	h.w.

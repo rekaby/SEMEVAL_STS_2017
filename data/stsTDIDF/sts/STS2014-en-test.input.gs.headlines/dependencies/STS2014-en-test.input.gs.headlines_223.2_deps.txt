@@ -1,0 +1,5 @@
+compound	Korea	North
+nsubj	launches	Korea
+root	ROOT	launches
+amod	missiles	short-range
+dobj	launches	missiles

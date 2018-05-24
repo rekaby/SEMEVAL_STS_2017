@@ -1,0 +1,15 @@
+nsubj	looked	me
+cc	me	and
+nmod:poss	sisters	my
+nummod	sisters	2
+conj:and	me	sisters
+root	ROOT	looked
+case	house	through
+nmod:poss	house	her
+nmod:through	looked	house
+cc	house	but
+conj:but	house	couldnt
+xcomp	looked	find
+dobj	find	one
+advmod	find	anywhere
+punct	looked	.

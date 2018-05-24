@@ -1,0 +1,11 @@
+root	ROOT	What
+cop	What	's
+det	way	the
+amod	way	best
+nsubj	What	way
+mark	seal	to
+acl	way	seal
+case	faucet	around
+det	faucet	this
+nmod:around	seal	faucet
+punct	What	?

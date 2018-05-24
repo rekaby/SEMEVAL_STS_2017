@@ -1,0 +1,9 @@
+root	ROOT	make
+dobj	make	something
+punct	make	,
+advmod	function	usually
+case	function	for
+det	function	a
+amod	function	specific
+nmod:for	make	function
+punct	make	.

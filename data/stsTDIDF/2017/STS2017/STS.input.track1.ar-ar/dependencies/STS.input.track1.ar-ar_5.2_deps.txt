@@ -1,0 +1,10 @@
+nummod	men	Three
+nsubj	hanging	men
+root	ROOT	hanging
+case	fruit	around
+advmod	fruit	when
+det	fruit	the
+compound	fruit	mattress
+compound	fruit	selling
+nmod:around	hanging	fruit
+punct	hanging	.

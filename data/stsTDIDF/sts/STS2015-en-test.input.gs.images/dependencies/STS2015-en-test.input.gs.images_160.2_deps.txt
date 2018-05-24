@@ -1,0 +1,9 @@
+det	girl	A
+root	ROOT	girl
+case	candles	in
+det	candles	an
+amod	candles	orange
+compound	candles	shirt
+compound	candles	lights
+nmod:in	girl	candles
+punct	girl	.

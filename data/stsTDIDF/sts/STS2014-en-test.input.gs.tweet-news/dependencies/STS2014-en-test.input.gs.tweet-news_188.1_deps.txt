@@ -1,0 +1,11 @@
+nsubj	warmed	This
+advmod	warmed	just
+root	ROOT	warmed
+nmod:poss	heart	my
+dobj	warmed	heart
+punct	warmed	:
+compound	Bryant	Ada
+dep	warmed	Bryant
+cc	Bryant	and
+compound	Haire	Robert
+conj:and	Bryant	Haire

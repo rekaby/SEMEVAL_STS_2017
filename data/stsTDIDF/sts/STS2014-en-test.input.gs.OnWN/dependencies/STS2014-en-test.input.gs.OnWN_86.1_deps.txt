@@ -1,0 +1,5 @@
+root	ROOT	indicate
+det	decision	a
+dobj	indicate	decision
+cc	decision	or
+conj:or	decision	prediction

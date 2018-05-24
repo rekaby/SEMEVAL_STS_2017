@@ -1,0 +1,8 @@
+root	ROOT	defining
+punct	form	,
+amod	form	distinctive
+dobj	defining	form
+cc	form	or
+conj:or	form	shape
+case	something	of
+nmod:of	form	something

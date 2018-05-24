@@ -1,0 +1,8 @@
+amod	Deaths	More
+nsubj	Explosion	Deaths
+acl	Deaths	Expected
+case	Train	in
+compound	Train	Canada
+compound	Train	Oil
+nmod:in	Expected	Train
+root	ROOT	Explosion

@@ -1,0 +1,10 @@
+playing	gazing	advcl
+child	An	det
+playing	child	nsubj
+gazing	window	dobj
+gazing	while	mark
+doll	a	det
+playing	doll	nmod:with
+child	older	amod
+doll	with	case
+gazing	out	compound:prt

@@ -1,0 +1,8 @@
+det	car	A
+nsubjpass	driven	car
+auxpass	driven	is
+root	ROOT	driven
+case	road	down
+det	road	the
+nmod:down	driven	road
+punct	driven	.

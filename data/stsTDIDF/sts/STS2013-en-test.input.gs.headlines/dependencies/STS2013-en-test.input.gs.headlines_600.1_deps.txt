@@ -1,0 +1,8 @@
+root	ROOT	Juror
+punct	Juror	:
+nsubj	appeared	Sandusky
+dep	Juror	appeared
+mark	accept	to
+xcomp	appeared	accept
+nmod:poss	fate	his
+dobj	accept	fate

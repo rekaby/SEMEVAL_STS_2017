@@ -1,0 +1,12 @@
+nsubj	wants	he
+advmod	wants	now
+root	ROOT	wants
+mark	go	to
+xcomp	wants	go
+case	court	to
+nmod:to	go	court
+case	order	for
+det	order	a
+compound	order	contact
+nmod:for	go	order
+punct	wants	.

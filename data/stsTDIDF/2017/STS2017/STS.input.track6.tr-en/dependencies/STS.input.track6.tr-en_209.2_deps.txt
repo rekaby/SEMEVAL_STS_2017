@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+nsubj	resting	who
+aux	resting	is
+acl:relcl	man	resting
+case	stomach	after
+det	stomach	the
+nmod:after	resting	stomach
+punct	man	.

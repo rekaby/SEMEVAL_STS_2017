@@ -1,0 +1,8 @@
+det	person	A
+nsubj	slicing	person
+aux	slicing	is
+root	ROOT	slicing
+dobj	slicing	carrots
+case	half	in
+nmod:in	slicing	half
+punct	slicing	.

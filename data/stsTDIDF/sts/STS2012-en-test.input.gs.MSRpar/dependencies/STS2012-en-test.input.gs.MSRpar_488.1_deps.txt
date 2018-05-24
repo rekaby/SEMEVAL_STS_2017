@@ -1,0 +1,13 @@
+amod	changes	Other
+nsubj	refine	changes
+case	plan	in
+det	plan	the
+nmod:in	changes	plan
+ccomp	said	refine
+nmod:poss	vision	his
+amod	vision	original
+dobj	refine	vision
+punct	said	,
+nsubj	said	Libeskind
+root	ROOT	said
+punct	said	.

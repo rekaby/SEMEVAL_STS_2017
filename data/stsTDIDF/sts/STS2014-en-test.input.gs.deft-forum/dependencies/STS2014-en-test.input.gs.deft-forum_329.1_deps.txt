@@ -1,0 +1,10 @@
+compound	Apisa	@Frank
+root	ROOT	Apisa
+punct	Apisa	,
+appos	Apisa	Frank
+punct	Apisa	,
+nsubj	observe	I
+acl:relcl	Apisa	observe
+cc	observe	and
+conj:and	observe	perceive
+punct	Apisa	.

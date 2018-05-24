@@ -1,0 +1,11 @@
+det	man	The
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	bike	a
+dobj	riding	bike
+case	hill	down
+det	hill	a
+compound	hill	dirt
+nmod:down	riding	hill
+punct	riding	.

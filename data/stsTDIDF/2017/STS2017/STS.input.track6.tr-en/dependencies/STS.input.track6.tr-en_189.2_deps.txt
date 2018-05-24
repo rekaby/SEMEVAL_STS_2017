@@ -1,0 +1,13 @@
+det	runners	The
+nummod	runners	two
+nsubjpass	tired	runners
+auxpass	tired	are
+root	ROOT	tired
+case	end	at
+det	end	the
+nmod:at	tired	end
+case	race	of
+det	race	a
+compound	race	runway
+nmod:of	end	race
+punct	tired	.

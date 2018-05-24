@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+dobj	adding	ingredients
+case	bowl	to
+det	bowl	a
+nmod:to	adding	bowl
+punct	adding	.

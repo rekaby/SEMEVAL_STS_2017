@@ -1,0 +1,5 @@
+root	ROOT	remove
+det	husks	the
+dobj	remove	husks
+nmod	remove	from
+punct	remove	.

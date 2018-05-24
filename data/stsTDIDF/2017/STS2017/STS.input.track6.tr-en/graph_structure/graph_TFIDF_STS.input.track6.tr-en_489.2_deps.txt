@@ -1,0 +1,12 @@
+dog	big	amod
+dog	brown	amod
+water	deep	amod
+stick	mouth	nmod:in
+ROOT	dog	root
+stick	with	case
+floating	water	nmod:in
+stick	a	det
+dog	floating	acl
+dog	.	punct
+mouth	his	nmod:poss
+floating	stick	nmod:with

@@ -1,0 +1,13 @@
+stands	woman	nsubj
+released	something	dobj
+stands	released	advcl
+hand	her	nmod:poss
+released	she	nsubjpass
+woman	shirt	nmod:in
+hand	from	case
+shirt	blue	amod
+released	just	advmod
+released	hand	nmod:from
+released	as	mark
+released	's	auxpass
+shirt	tight	amod

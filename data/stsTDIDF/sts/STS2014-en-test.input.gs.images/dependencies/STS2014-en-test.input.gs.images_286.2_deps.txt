@@ -1,0 +1,9 @@
+det	airplane	The
+amod	airplane	white
+nsubj	flying	airplane
+aux	flying	is
+root	ROOT	flying
+case	sky	in
+det	sky	the
+nmod:in	flying	sky
+punct	flying	.

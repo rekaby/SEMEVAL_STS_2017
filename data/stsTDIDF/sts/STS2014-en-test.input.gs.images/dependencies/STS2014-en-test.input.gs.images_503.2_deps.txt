@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	small
+amod	dog	white
+nsubj	looks	dog
+acl	dog	wearing
+det	jacket	a
+dobj	wearing	jacket
+root	ROOT	looks
+compound:prt	looks	up
+case	camera	at
+det	camera	the
+nmod:at	looks	camera
+punct	looks	.

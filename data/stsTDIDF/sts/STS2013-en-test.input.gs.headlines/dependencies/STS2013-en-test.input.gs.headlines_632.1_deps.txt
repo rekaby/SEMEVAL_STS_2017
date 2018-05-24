@@ -1,0 +1,5 @@
+compound	steps	Armstrong
+root	ROOT	steps
+advmod	steps	down
+case	Livestrong	from
+nmod:from	down	Livestrong

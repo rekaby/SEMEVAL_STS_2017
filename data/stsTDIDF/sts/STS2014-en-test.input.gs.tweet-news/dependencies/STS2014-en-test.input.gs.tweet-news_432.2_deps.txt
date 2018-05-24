@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	Turns	Korea
+root	ROOT	Turns
+nmod:poss	Ire	Its
+dobj	Turns	Ire
+case	Korea	on
+compound	Korea	South
+nmod:on	Ire	Korea

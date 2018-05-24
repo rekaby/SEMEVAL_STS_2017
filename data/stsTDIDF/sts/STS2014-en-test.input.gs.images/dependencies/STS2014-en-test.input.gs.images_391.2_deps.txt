@@ -1,0 +1,6 @@
+nummod	people	Three
+root	ROOT	people
+acl	people	preparing
+case	canoe	to
+nmod:to	preparing	canoe
+punct	people	.

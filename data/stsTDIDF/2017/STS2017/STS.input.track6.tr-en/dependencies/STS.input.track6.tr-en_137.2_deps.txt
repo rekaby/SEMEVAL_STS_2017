@@ -1,0 +1,10 @@
+det	man	A
+nsubj	climbs	man
+root	ROOT	climbs
+case	side	to
+det	side	the
+nmod:to	climbs	side
+case	mountain	of
+det	mountain	the
+nmod:of	side	mountain
+punct	climbs	.

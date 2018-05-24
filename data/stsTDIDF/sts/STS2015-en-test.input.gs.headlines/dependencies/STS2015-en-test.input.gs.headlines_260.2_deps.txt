@@ -1,0 +1,5 @@
+compound	bonds	Thai
+nsubj	region	bonds
+advmod	region	best
+case	region	in
+root	ROOT	region

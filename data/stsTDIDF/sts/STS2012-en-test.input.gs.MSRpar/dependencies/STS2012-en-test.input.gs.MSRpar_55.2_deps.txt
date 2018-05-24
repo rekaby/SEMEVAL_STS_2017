@@ -1,0 +1,13 @@
+nsubj	has	Chiron
+root	ROOT	has
+dobj	has	acceptances
+case	holders	from
+nmod:from	acceptances	holders
+case	percent	of
+advmod	20	nearly
+nummod	percent	20
+nmod:of	holders	percent
+case	shares	of
+compound	shares	PowderJect
+nmod:of	percent	shares
+punct	has	.

@@ -1,0 +1,7 @@
+root	ROOT	beat
+advmod	beat	thoroughly
+case	competition	in
+det	competition	a
+nmod:in	beat	competition
+cc	beat	or
+conj:or	beat	fight

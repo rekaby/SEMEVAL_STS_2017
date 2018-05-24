@@ -1,0 +1,10 @@
+root	ROOT	walk
+mark	unable	as
+mark	unable	if
+advcl	walk	unable
+mark	control	to
+xcomp	unable	control
+nmod:poss	movements	one
+case	one	's
+dobj	control	movements
+punct	walk	.

@@ -1,0 +1,7 @@
+root	ROOT	partake
+case	feast	in
+det	feast	a
+nmod:in	partake	feast
+cc	feast	or
+conj:or	feast	banquet
+punct	partake	.

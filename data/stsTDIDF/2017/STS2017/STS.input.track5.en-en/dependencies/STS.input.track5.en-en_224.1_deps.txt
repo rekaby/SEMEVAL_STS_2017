@@ -1,0 +1,7 @@
+det	player	The
+nsubj	shoots	player
+root	ROOT	shoots
+det	points	the
+amod	points	winning
+dobj	shoots	points
+punct	shoots	.

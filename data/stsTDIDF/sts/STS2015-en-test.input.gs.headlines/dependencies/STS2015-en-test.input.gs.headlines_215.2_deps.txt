@@ -1,0 +1,6 @@
+compound	Resolution	UN
+compound	Resolution	Adopts
+amod	Weapons	Syrian
+compound	Weapons	Chemical
+compound	Resolution	Weapons
+root	ROOT	Resolution

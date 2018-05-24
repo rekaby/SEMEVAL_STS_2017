@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	little
+nsubj	petting	boy
+aux	petting	is
+root	ROOT	petting
+det	tiger	a
+dobj	petting	tiger
+nsubj	laying	that
+aux	laying	is
+acl:relcl	tiger	laying
+compound:prt	laying	down
+punct	petting	.

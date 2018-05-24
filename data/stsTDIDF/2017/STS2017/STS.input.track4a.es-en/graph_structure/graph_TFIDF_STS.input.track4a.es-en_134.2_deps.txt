@@ -1,0 +1,7 @@
+track	car	nsubj
+track	dirt	compound
+track	.	punct
+car	A	det
+car	race	compound
+ROOT	track	root
+track	is	cop

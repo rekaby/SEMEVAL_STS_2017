@@ -1,0 +1,8 @@
+det	team	the
+compound	team	football
+nsubj	wearing	team
+aux	wearing	is
+root	ROOT	wearing
+dobj	wearing	red
+cc	red	and
+conj:and	red	green

@@ -1,0 +1,9 @@
+det	train	A
+compound	train	toy
+nsubj	striking	train
+aux	striking	is
+root	ROOT	striking
+det	car	a
+compound	car	toy
+dobj	striking	car
+punct	striking	.

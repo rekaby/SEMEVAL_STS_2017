@@ -1,0 +1,11 @@
+det	document	a
+root	ROOT	document
+acl	document	granting
+det	rights	an
+compound	rights	inventor
+amod	rights	sole
+dobj	granting	rights
+case	invention	to
+det	invention	an
+nmod:to	granting	invention
+punct	document	.

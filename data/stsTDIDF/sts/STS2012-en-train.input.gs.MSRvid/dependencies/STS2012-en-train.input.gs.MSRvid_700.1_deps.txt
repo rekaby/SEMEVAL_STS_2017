@@ -1,0 +1,9 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+root	ROOT	chopping
+dobj	chopping	butter
+case	container	into
+det	container	a
+nmod:into	chopping	container
+punct	chopping	.

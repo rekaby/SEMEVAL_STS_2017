@@ -1,0 +1,10 @@
+root	ROOT	lever
+nsubj	activates	that
+acl:relcl	lever	activates
+det	mechanism	the
+compound	mechanism	firing
+dobj	activates	mechanism
+case	gun	of
+det	gun	a
+nmod:of	mechanism	gun
+punct	lever	.

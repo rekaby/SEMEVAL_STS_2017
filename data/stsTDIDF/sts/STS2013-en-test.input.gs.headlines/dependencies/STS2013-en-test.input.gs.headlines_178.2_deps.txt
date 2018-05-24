@@ -1,0 +1,7 @@
+root	ROOT	Polls
+amod	Polls	open
+case	France	across
+nmod:across	open	France
+case	election	in
+amod	election	presidential
+nmod:in	open	election

@@ -1,0 +1,5 @@
+compound	pet	Children
+root	ROOT	pet
+det	bunny	a
+nmod:npmod	pet	bunny
+punct	pet	.

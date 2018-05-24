@@ -1,0 +1,17 @@
+det	businessman	A
+amod	businessman	prominent
+amod	businessman	Chinese
+nsubj	specific	businessman
+nsubj	divides	who
+acl:relcl	businessman	divides
+nmod:poss	time	his
+dobj	divides	time
+case	Hong-Kong	between
+nmod:between	time	Hong-Kong
+cc	Hong-Kong	and
+conj:and	Hong-Kong	London
+cop	specific	was
+advmod	more	even
+advmod	specific	more
+root	ROOT	specific
+punct	specific	.

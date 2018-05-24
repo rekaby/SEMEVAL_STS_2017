@@ -1,0 +1,6 @@
+nummod	prisoners	1000
+nsubj	escape	prisoners
+root	ROOT	escape
+case	jail	from
+amod	jail	Libyan
+nmod:from	escape	jail

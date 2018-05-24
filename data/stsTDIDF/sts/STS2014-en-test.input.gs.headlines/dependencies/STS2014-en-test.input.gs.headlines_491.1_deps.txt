@@ -1,0 +1,11 @@
+compound	Texans	Houston
+nsubj	head	Texans
+root	ROOT	head
+compound	Kubiak	coach
+compound	Kubiak	Gary
+dobj	head	Kubiak
+xcomp	head	hospitalized
+mark	collapsing	after
+advcl	hospitalized	collapsing
+case	game	at
+nmod:at	collapsing	game

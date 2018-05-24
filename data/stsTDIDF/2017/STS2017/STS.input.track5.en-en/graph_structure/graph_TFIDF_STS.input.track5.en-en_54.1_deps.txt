@@ -1,0 +1,10 @@
+rock	jumping	xcomp
+water	into	case
+while	fish	dep
+jumping	water	nmod:into
+ROOT	rock	root
+rock	People	nsubj
+jumping	while	nmod
+fish	people	compound
+fish	background	nmod:in
+rock	.	punct

@@ -1,0 +1,12 @@
+compound	Hospitals	New
+compound	Hospitals	York
+compound	Hospitals	City
+root	ROOT	Hospitals
+mark	Tie	to
+acl	Hospitals	Tie
+dobj	Tie	Doctors
+punct	Hospitals	?-8) nsubj(Pay-2, Performance
+root	ROOT	Pay
+case	Measures	to
+compound	Measures	Quality
+nmod:to	Pay	Measures

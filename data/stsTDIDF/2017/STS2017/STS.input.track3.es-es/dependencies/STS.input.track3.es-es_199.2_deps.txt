@@ -1,0 +1,9 @@
+det	girl	The
+nsubj	playing	girl
+aux	playing	is
+root	ROOT	playing
+advmod	playing	outside
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	playing	.

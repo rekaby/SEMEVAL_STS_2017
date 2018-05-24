@@ -1,0 +1,10 @@
+nmod:poss	dad	my
+nsubj	met	dad
+root	ROOT	met
+det	woman	a
+amod	woman	lovely
+dobj	met	woman
+cc	met	and
+advmod	remarried	also
+conj:and	met	remarried
+punct	met	.

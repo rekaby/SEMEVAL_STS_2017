@@ -1,0 +1,7 @@
+amod	army	Syrian
+nsubj	retakes	army
+root	ROOT	retakes
+compound	castle	Crusader
+dobj	retakes	castle
+case	rebels	from
+nmod:from	retakes	rebels

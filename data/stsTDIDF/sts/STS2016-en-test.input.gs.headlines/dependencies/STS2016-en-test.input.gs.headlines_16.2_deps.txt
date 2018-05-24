@@ -1,0 +1,5 @@
+compound	retrial	Mubarak
+nsubj	adjourned	retrial
+root	ROOT	adjourned
+case	June	to
+nmod:to	adjourned	June

@@ -1,0 +1,11 @@
+det	room	A
+root	ROOT	room
+case	walls	with
+compound	walls	tan
+nmod:with	room	walls
+cc	walls	and
+det	washer	a
+conj:and	walls	washer
+cc	washer	and
+conj:and	washer	dryer
+punct	room	.

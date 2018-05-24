@@ -1,0 +1,9 @@
+compound	man	Calif
+nsubj	case	man
+compound	case	pleads
+neg	guilty	not
+amod	case	guilty
+case	girl	in
+nmod:in	guilty	girl
+compound	case	kidnap
+root	ROOT	case

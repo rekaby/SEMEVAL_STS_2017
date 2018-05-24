@@ -1,0 +1,16 @@
+det	problem	The
+nsubj	is	problem
+nsubj	see	I
+acl:relcl	problem	see
+case	GREs	with
+det	GREs	the
+nmod:with	see	GREs
+root	ROOT	is
+mark	compressed	that
+det	range	the
+amod	range	scoring
+nsubjpass	compressed	range
+auxpass	compressed	is
+advmod	compressed	highly
+ccomp	is	compressed
+punct	is	.

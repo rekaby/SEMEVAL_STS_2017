@@ -1,0 +1,14 @@
+det	treaty	the
+nsubjpass	amended	treaty
+auxpass	amended	was
+root	ROOT	amended
+case	1999	in
+nmod:in	amended	1999
+case	collapse	after
+det	collapse	the
+nmod:after	amended	collapse
+case	union	of
+det	union	the
+amod	union	soviet
+nmod:of	collapse	union
+punct	amended	.

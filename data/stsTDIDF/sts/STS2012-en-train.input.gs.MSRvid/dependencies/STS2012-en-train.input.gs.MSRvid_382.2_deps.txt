@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+det	woman	an
+nsubj	dancing	woman
+aux	dancing	are
+acl:relcl	man	dancing
+case	rain	in
+det	rain	the
+nmod:in	dancing	rain
+punct	man	.

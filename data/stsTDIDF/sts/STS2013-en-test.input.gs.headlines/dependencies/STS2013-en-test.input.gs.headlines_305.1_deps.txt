@@ -1,0 +1,10 @@
+neg	hiding	Not
+punct	hiding	`
+root	ROOT	hiding
+det	ball	the
+dobj	hiding	ball
+punct	ball	'
+case	Russia	on
+nmod:on	ball	Russia
+punct	hiding	:
+parataxis	hiding	Obama

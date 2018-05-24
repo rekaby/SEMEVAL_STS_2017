@@ -1,0 +1,15 @@
+root	ROOT	Woah
+punct	Woah	.-2) compound(News-2, Fox
+nsubj	renew	News
+aux	renew	did
+neg	renew	not
+root	ROOT	renew
+compound	Palin	Sarah
+nmod:poss	contract	Palin
+case	Palin	's
+dobj	renew	contract
+punct	contract	,
+nsubj	expired	which
+advmod	expired	just
+acl:relcl	contract	expired
+punct	renew	.

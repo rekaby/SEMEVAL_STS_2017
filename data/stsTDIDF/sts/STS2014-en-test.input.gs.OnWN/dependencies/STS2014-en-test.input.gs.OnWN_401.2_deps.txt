@@ -1,0 +1,8 @@
+det	disagreement	a
+root	ROOT	disagreement
+cc	disagreement	or
+conj:or	disagreement	argument
+advmod	important	about
+nmod:npmod	important	something
+amod	disagreement	important
+punct	disagreement	.

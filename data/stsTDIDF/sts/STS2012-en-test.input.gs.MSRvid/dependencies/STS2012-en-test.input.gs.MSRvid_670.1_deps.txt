@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+dobj	puts	cosmetics
+case	eyelid	on
+nmod:poss	eyelid	her
+nmod:on	puts	eyelid
+punct	puts	.

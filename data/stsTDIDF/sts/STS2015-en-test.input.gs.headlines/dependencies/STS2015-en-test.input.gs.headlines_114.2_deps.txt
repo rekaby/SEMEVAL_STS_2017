@@ -1,0 +1,6 @@
+amod	fire	Israeli
+compound	fire	gunboats
+root	ROOT	fire
+case	fishermen	at
+amod	fishermen	Palestinian
+nmod:at	fire	fishermen

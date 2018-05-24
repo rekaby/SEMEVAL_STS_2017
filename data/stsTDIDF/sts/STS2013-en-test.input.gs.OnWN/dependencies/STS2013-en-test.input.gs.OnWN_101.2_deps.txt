@@ -1,0 +1,10 @@
+det	series	a
+root	ROOT	series
+case	tunnels	of
+amod	tunnels	connected
+amod	tunnels	underground
+nmod:of	series	tunnels
+acl	tunnels	occupied
+case	rabbits	by
+nmod:by	occupied	rabbits
+punct	series	.

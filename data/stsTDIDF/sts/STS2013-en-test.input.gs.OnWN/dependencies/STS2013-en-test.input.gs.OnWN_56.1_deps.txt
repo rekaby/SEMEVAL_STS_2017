@@ -1,0 +1,6 @@
+root	ROOT	recover
+punct	recover	,
+dobj	recover	return
+case	state	to
+amod	state	former
+nmod:to	return	state

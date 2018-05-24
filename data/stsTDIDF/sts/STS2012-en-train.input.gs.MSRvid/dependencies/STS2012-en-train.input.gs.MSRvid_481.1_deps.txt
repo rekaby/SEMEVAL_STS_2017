@@ -1,0 +1,14 @@
+det	puppy	A
+nsubj	rolling	puppy
+aux	rolling	is
+advmod	rolling	repeatedly
+root	ROOT	rolling
+case	side	from
+nmod:from	rolling	side
+case	side	to
+nmod:to	rolling	side
+case	back	while
+case	back	on
+nmod:poss	back	its
+advcl:on	rolling	back
+punct	rolling	.

@@ -1,0 +1,17 @@
+det	Mets	The
+compound	Mets	New
+compound	Mets	York
+nsubj	selected	Mets
+advmod	selected	then
+root	ROOT	selected
+compound	Milledge	outfielder
+compound	Milledge	Lastings
+dobj	selected	Milledge
+case	School	from
+compound	School	Lakewood
+compound	School	Ranch
+compound	School	High
+nmod:from	Milledge	School
+case	Florida	in
+nmod:in	School	Florida
+punct	selected	.

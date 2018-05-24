@@ -1,0 +1,9 @@
+amod	group	Greek
+amod	group	militant
+nsubj	claims	group
+root	ROOT	claims
+dobj	claims	responsibility
+case	killings	for
+compound	killings	Golden
+compound	killings	Dawn
+nmod:for	responsibility	killings

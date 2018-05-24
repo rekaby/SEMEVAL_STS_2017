@@ -1,0 +1,5 @@
+root	ROOT	Family
+acl	Family	watching
+dobj	watching	TV
+advmod	watching	together
+punct	Family	.

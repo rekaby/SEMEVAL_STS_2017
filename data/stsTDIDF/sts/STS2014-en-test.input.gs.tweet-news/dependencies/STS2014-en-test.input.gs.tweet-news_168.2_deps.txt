@@ -1,0 +1,5 @@
+compound	group	Hacktivist
+nsubj	threatens	group
+root	ROOT	threatens
+compound	Department	Justice
+dobj	threatens	Department

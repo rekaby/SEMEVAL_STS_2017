@@ -1,0 +1,10 @@
+root	ROOT	Facilitator
+punct	Facilitator	:
+cc	Facilitator	And
+advmod	child	why
+cop	child	is
+nsubj	child	she
+det	child	the
+amod	child	dumb
+conj:and	Facilitator	child
+punct	Facilitator	?

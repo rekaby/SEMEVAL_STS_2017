@@ -1,0 +1,9 @@
+det	man	A
+nsubj	puts	man
+root	ROOT	puts
+det	knife	a
+dobj	puts	knife
+case	vice	in
+det	vice	a
+nmod:in	puts	vice
+punct	puts	.

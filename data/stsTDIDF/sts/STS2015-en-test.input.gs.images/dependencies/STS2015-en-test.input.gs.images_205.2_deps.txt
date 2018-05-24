@@ -1,0 +1,16 @@
+det	child	A
+amod	child	small
+nsubj	holding	child
+case	shirt	in
+det	shirt	a
+amod	shirt	yellow
+nmod:in	child	shirt
+aux	holding	is
+root	ROOT	holding
+nmod:poss	arms	their
+dobj	holding	arms
+case	sides	out
+case	sides	to
+det	sides	the
+nmod:to	holding	sides
+punct	holding	.

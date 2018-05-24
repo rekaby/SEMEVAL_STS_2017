@@ -1,0 +1,9 @@
+det	dog	A
+compound	dog	panda
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	road	on
+det	road	the
+nmod:on	running	road
+punct	running	.

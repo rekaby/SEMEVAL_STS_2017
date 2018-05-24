@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	pale
+nsubj	runs	dog
+root	ROOT	runs
+case	path	down
+det	path	a
+nmod:down	runs	path
+punct	runs	.

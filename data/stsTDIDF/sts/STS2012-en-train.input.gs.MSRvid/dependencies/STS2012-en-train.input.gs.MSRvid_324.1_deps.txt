@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	slipping	woman
+aux	slipping	is
+root	ROOT	slipping
+case	water-tub	in
+det	water-tub	the
+nmod:in	slipping	water-tub
+punct	slipping	.

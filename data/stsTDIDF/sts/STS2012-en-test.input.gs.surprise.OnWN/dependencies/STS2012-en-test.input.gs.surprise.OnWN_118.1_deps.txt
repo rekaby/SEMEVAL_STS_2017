@@ -1,0 +1,8 @@
+root	ROOT	preserve
+punct	preserve	,
+conj	preserve	keep
+case	safety	in
+nmod:in	keep	safety
+punct	preserve	,
+compound	frugally	use
+dep	preserve	frugally

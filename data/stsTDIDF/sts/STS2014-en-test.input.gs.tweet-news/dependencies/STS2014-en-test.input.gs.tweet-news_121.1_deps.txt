@@ -1,0 +1,27 @@
+nmod:tmod	learned	Today
+nsubj	learned	I
+root	ROOT	learned
+punct	learned	``
+advmod	is	Currently
+punct	is	,
+expl	is	there
+root	``	is
+neg	law	no
+amod	law	federal
+nsubj	is	law
+nsubj	defines	that
+acl:relcl	law	defines
+compound	trafficking	gun
+dobj	defines	trafficking
+case	crime	as
+det	crime	a
+nmod:as	defines	crime
+punct	is	.
+punct	is	''-20) nsubj(loss-5, I
+cop	loss	am
+case	loss	at
+det	loss	a
+root	ROOT	loss
+case	words	for
+nmod:for	loss	words
+punct	loss	.

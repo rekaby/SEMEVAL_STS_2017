@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+nmod:poss	bike	his
+dobj	riding	bike
+case	beach	on
+det	beach	the
+nmod:on	riding	beach
+case	ocean	by
+det	ocean	the
+nmod:by	riding	ocean
+punct	man	.

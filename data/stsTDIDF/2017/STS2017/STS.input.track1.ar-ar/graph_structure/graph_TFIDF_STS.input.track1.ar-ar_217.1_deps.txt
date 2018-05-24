@@ -1,0 +1,8 @@
+wedding	their	nmod:poss
+finished	just	advmod
+wedding	from	case
+finished	wedding	nmod:from
+man	Woman	compound
+finished	been	auxpass
+finished	man	nsubjpass
+finished	have	aux

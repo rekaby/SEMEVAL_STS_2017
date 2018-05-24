@@ -1,0 +1,17 @@
+compound	Inc.	Altria
+compound	Inc.	Group
+root	ROOT	Inc.
+punct	Inc.	.-4) compound(N-2, MO.
+nsubj	fell	N
+root	ROOT	fell
+nummod	cents	50
+dobj	fell	cents
+punct	cents	,
+cc	cents	or
+nummod	percent	1.2
+conj:or	cents	percent
+punct	fell	,
+case	$	to
+nmod:to	fell	$
+nummod	$	41.81
+punct	fell	.

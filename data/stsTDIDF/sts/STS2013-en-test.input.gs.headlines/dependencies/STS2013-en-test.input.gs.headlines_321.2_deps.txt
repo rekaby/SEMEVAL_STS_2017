@@ -1,0 +1,6 @@
+amod	MPs	Somali
+root	ROOT	MPs
+mark	elect	to
+acl	MPs	elect
+amod	president	new
+dobj	elect	president

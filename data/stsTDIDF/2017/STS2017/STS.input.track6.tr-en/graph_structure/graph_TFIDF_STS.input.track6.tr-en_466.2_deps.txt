@@ -1,0 +1,5 @@
+suit	using	acl
+using	club	dobj
+suit	black	amod
+man	suit	nmod:in
+club	telephone	compound

@@ -1,0 +1,8 @@
+face	whose	nmod:poss
+shown	is	auxpass
+boy	is	cop
+boy	girl	nsubj
+shown	not	neg
+boy	close	case
+shown	face	nsubjpass
+boy	shown	acl:relcl

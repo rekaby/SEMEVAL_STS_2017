@@ -1,0 +1,9 @@
+det	circuit	a
+amod	circuit	closed
+root	ROOT	circuit
+acl	circuit	containing
+det	bulb	a
+dobj	containing	bulb
+cc	bulb	and
+det	battery	a
+conj:and	bulb	battery

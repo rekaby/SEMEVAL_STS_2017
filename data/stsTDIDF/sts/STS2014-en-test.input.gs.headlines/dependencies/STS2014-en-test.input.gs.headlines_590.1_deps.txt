@@ -1,0 +1,9 @@
+compound	Vies	Merkel
+nsubj	Term	Vies
+compound	Term	3rd
+root	ROOT	Term
+case	Office	in
+nmod:in	Term	Office
+case	Germany	in
+nmod:in	Office	Germany
+dep	Term	Elections

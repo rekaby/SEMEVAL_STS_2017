@@ -1,0 +1,13 @@
+det	runner	A
+nsubj	resting	runner
+aux	resting	is
+root	ROOT	resting
+case	shade	in
+det	shade	the
+nmod:in	resting	shade
+case	bottle	with
+det	bottle	a
+nmod:with	resting	bottle
+case	soda	of
+nmod:of	bottle	soda
+punct	resting	.

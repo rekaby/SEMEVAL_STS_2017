@@ -1,0 +1,6 @@
+mark	act	to
+root	ROOT	act
+case	host	as
+det	host	the
+nmod:as	act	host
+acl	host	of

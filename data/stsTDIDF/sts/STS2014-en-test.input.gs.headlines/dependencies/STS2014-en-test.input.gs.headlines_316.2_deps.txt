@@ -1,0 +1,9 @@
+compound	backers	Morsi
+nsubj	threat	backers
+amod	threat	defiant
+case	face	in
+nmod:in	threat	face
+case	Egypt	of
+nmod:of	face	Egypt
+compound	threat	govt
+root	ROOT	threat

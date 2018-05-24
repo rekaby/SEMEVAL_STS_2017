@@ -1,0 +1,9 @@
+dressed	well	advmod
+standing	kids	nsubj
+kids	Two	nummod
+standing	tree	nmod:next_to
+kids	cute	amod
+tree	next	case
+kids	asian	amod
+cute	dressed	conj:and
+cute	and	cc

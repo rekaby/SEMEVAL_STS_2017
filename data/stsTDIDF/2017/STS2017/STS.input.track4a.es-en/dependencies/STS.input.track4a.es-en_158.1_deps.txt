@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	kissing	woman
+cc	woman	and
+det	man	a
+conj:and	woman	man
+aux	kissing	are
+root	ROOT	kissing
+case	boardwalk	on
+det	boardwalk	the
+nmod:on	kissing	boardwalk
+punct	kissing	.

@@ -1,0 +1,6 @@
+compound	rover	China
+compound	rover	lands
+compound	rover	robot
+root	ROOT	rover
+case	moon	on
+nmod:on	rover	moon

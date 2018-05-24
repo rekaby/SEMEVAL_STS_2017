@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	peels	woman
+root	ROOT	peels
+dobj	peels	garlic
+case	hands	with
+nmod:poss	hands	her
+nmod:with	peels	hands
+punct	peels	.

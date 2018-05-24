@@ -1,0 +1,16 @@
+nsubj	enhance	adherence
+case	obligations	to
+amod	obligations	non-proliferation
+nmod:to	adherence	obligations
+aux	enhance	will
+root	ROOT	enhance
+amod	trust	mutual
+dobj	enhance	trust
+cc	trust	and
+amod	cooperation	foster
+amod	cooperation	international
+conj:and	trust	cooperation
+case	energy	in
+amod	energy	nuclear
+nmod:in	trust	energy
+punct	enhance	.

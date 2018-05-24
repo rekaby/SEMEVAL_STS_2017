@@ -1,0 +1,10 @@
+nsubj	cancel	Airlines
+root	ROOT	cancel
+punct	tickets	`
+compound	tickets	flytilla
+punct	tickets	'
+nmod:poss	tickets	activists
+case	activists	'
+dobj	cancel	tickets
+case	TA	to
+nmod:to	cancel	TA

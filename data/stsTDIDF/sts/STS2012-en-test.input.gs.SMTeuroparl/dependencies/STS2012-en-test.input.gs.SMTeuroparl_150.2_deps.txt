@@ -1,0 +1,14 @@
+nsubj	keep	We
+root	ROOT	keep
+dobj	keep	unanimity
+case	Council	in
+det	Council	the
+nmod:in	unanimity	Council
+cc	unanimity	and
+advmod	inability	therefore
+det	inability	a
+amod	inability	latent
+conj:and	unanimity	inability
+mark	act	to
+acl	inability	act
+punct	keep	.

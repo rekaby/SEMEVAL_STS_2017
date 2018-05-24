@@ -1,0 +1,8 @@
+nsubj	holds	spain
+advmod	holds	currently
+root	ROOT	holds
+det	osce	the
+nmod:poss	presidency	osce
+case	osce	's
+dobj	holds	presidency
+punct	holds	.

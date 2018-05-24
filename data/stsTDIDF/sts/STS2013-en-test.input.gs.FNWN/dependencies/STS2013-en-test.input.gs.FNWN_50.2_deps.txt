@@ -1,0 +1,9 @@
+det	instance	an
+root	ROOT	instance
+cc	instance	or
+amod	occasion	single
+conj:or	instance	occasion
+case	event	for
+det	event	some
+nmod:for	instance	event
+punct	instance	;

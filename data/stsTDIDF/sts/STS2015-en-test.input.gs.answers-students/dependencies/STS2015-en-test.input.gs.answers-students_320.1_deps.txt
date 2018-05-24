@@ -1,0 +1,10 @@
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nsubj	has	terminal
+root	ROOT	has
+neg	gaps	no
+dobj	has	gaps
+case	terminal	from
+nmod:from	gaps	terminal
+nummod	terminal	4

@@ -1,0 +1,11 @@
+dep	are	Today
+expl	are	there
+root	ROOT	are
+nummod	ways	two
+nsubj	are	ways
+mark	proceeding	of
+acl	ways	proceeding
+case	origins	to
+det	origins	the
+nmod:to	proceeding	origins
+punct	are	.

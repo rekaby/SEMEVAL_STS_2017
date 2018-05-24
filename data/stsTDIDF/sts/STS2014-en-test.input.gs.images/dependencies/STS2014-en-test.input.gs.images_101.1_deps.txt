@@ -1,0 +1,11 @@
+det	room	A
+compound	room	living
+root	ROOT	room
+case	table	with
+det	table	a
+compound	table	dining
+nmod:with	room	table
+case	background	in
+det	background	the
+nmod:in	table	background
+punct	room	.

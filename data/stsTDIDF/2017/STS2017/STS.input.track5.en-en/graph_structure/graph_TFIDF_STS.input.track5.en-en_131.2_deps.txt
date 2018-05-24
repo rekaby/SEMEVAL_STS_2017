@@ -1,0 +1,6 @@
+road	dirt	compound
+ride	for	case
+waiting	ride	nmod:for
+ride	side	nmod:on
+side	road	nmod:of
+waiting	men	nsubj

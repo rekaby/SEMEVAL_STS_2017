@@ -1,0 +1,10 @@
+root	ROOT	Man
+acl	Man	arrested
+case	suspicion	on
+nmod:on	arrested	suspicion
+case	murder	of
+nmod:of	suspicion	murder
+mark	stabbing	after
+advcl	arrested	stabbing
+case	Suffolk	in
+nmod:in	stabbing	Suffolk

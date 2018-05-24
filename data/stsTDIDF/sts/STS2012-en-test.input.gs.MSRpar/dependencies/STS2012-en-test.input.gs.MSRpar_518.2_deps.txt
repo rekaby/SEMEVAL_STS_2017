@@ -1,0 +1,17 @@
+compound	Floyd	District
+compound	Floyd	Superintendent
+compound	Floyd	J.
+compound	Floyd	Chester
+nsubj	told	Floyd
+root	ROOT	told
+dobj	told	reporters
+nmod:tmod	told	Monday
+mark	reassigned	that
+nsubjpass	reassigned	McCrackin
+aux	reassigned	will
+auxpass	reassigned	be
+ccomp	told	reassigned
+case	district	within
+det	district	the
+nmod:within	reassigned	district
+punct	told	.

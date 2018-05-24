@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	walking	woman
+aux	walking	is
+root	ROOT	walking
+case	dog	with
+det	dog	a
+nmod:with	walking	dog
+punct	walking	.

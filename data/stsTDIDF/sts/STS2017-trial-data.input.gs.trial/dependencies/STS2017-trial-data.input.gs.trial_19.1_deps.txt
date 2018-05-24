@@ -1,0 +1,15 @@
+aux	need	Would
+det	citizen	a
+amod	citizen	Colombian
+nsubj	need	citizen
+case	residency	with
+amod	residency	Canadian
+nmod:with	citizen	residency
+root	ROOT	need
+det	visa	a
+compound	visa	transit
+dobj	need	visa
+case	UK	for
+det	UK	the
+nmod:for	visa	UK
+punct	need	?

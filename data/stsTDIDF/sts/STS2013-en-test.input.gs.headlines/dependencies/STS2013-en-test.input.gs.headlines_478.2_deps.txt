@@ -1,0 +1,7 @@
+nsubj	cares	Who
+root	ROOT	cares
+case	people	about
+det	people	the
+amod	people	Syrian
+nmod:about	cares	people
+punct	cares	?

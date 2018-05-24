@@ -1,0 +1,9 @@
+root	ROOT	Radio
+punct	Radio	:
+nsubj	set	Israel
+dep	Radio	set
+mark	increase	to
+xcomp	set	increase
+amod	release	Palestinian
+compound	release	prisoner
+dobj	increase	release

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	holds	man
+root	ROOT	holds
+det	sign	a
+dobj	holds	sign
+case	protest	of
+nmod:of	sign	protest

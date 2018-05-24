@@ -1,0 +1,16 @@
+det	onus	The
+nsubj	manufacturer	onus
+cop	manufacturer	is
+case	manufacturer	on
+det	manufacturer	the
+root	ROOT	manufacturer
+case	product	of
+det	product	a
+nmod:of	manufacturer	product
+mark	convince	to
+acl	manufacturer	convince
+dobj	convince	consumers
+nsubj	safe	it
+cop	safe	is
+ccomp	convince	safe
+punct	manufacturer	.

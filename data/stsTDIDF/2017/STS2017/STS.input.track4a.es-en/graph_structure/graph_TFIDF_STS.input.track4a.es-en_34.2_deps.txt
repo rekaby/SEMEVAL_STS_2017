@@ -1,0 +1,7 @@
+swimming	people	nsubj
+swimming	.	punct
+competition	a	det
+people	These	det
+swimming	are	aux
+ROOT	swimming	root
+swimming	competition	nmod:in

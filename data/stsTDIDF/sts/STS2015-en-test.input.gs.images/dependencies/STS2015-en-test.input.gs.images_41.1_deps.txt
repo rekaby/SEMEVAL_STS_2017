@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	little
+nsubj	picking	girl
+case	ribbon	with
+det	ribbon	a
+nmod:with	girl	ribbon
+case	hair	in
+nmod:poss	hair	her
+nmod:in	ribbon	hair
+aux	picking	is
+root	ROOT	picking
+nmod:poss	nose	her
+dobj	picking	nose
+punct	picking	.

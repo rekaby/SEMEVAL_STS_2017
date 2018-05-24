@@ -1,0 +1,8 @@
+root	ROOT	Russia
+punct	Russia	:
+nsubj	Agrees	Syria
+parataxis	Russia	Agrees
+mark	Participate	to
+xcomp	Agrees	Participate
+case	Conference	in
+nmod:in	Participate	Conference

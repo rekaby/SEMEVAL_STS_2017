@@ -1,0 +1,9 @@
+root	ROOT	determine
+det	standard	a
+dobj	determine	standard
+punct	determine	;
+parataxis	determine	estimate
+det	capacity	a
+dobj	estimate	capacity
+cc	capacity	or
+conj:or	capacity	measurement

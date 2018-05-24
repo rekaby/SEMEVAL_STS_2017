@@ -1,0 +1,6 @@
+root	ROOT	Tokyo
+case	host	to
+nmod:to	Tokyo	host
+nummod	Games	2020
+compound	Games	Olympic
+nummod	host	Games

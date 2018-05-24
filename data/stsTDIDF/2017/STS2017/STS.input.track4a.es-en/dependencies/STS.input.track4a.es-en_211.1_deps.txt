@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	building
+nmod:poss	house	his
+dobj	building	house
+punct	man	.

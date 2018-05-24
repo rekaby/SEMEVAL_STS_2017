@@ -1,0 +1,9 @@
+det	man	A
+nsubj	looking	man
+aux	looking	is
+root	ROOT	looking
+case	monitor	at
+det	monitor	a
+compound	monitor	computer
+nmod:at	looking	monitor
+punct	looking	.

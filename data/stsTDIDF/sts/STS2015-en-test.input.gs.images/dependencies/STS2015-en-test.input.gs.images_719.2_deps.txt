@@ -1,0 +1,8 @@
+amod	dog	Black
+cc	Black	and
+conj:and	Black	brown
+nsubj	runs	dog
+root	ROOT	runs
+case	field	through
+nmod:through	runs	field
+punct	runs	.

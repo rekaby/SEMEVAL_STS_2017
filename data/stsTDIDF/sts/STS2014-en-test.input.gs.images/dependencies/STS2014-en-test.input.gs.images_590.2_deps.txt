@@ -1,0 +1,11 @@
+det	person	A
+nsubj	walks	person
+root	ROOT	walks
+det	dog	a
+dobj	walks	dog
+case	edge	along
+det	water	the
+nmod:poss	edge	water
+case	water	's
+nmod:along	walks	edge
+punct	walks	.

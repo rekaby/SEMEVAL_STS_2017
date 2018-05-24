@@ -1,0 +1,9 @@
+root	ROOT	Oppose
+cc	Oppose	or
+conj:or	Oppose	approach
+punct	Oppose	,
+case	hostility	as
+case	hostility	in
+nmod:in	Oppose	hostility
+cc	hostility	or
+conj:or	hostility	competition

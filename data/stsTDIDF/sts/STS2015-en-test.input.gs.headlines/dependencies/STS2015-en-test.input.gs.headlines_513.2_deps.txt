@@ -1,0 +1,11 @@
+compound	attackers	Westgate
+nsubj	spent	attackers
+root	ROOT	spent
+nummod	months	four
+dobj	spent	months
+acl	months	planning
+case	Nairobi	in
+nmod:in	planning	Nairobi
+punct	spent	,
+dep	spent	says
+nsubj	says	official

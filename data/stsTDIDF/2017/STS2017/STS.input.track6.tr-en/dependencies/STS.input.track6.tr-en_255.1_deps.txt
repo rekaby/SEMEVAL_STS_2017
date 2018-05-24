@@ -1,0 +1,8 @@
+det	jogger	The
+nsubj	sitting	jogger
+aux	sitting	is
+root	ROOT	sitting
+case	park	in
+det	park	the
+nmod:in	sitting	park
+punct	sitting	.

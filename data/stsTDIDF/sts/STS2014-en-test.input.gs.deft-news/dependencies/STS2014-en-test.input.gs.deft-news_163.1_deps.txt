@@ -1,0 +1,9 @@
+nsubj	participates	russia
+advmod	participates	already
+root	ROOT	participates
+case	agency	in
+det	agency	the
+amod	agency	european
+compound	agency	space
+nmod:'s	participates	agency
+case	agency	's

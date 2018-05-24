@@ -1,0 +1,7 @@
+compound	attack	Alps
+root	ROOT	attack
+punct	attack	:
+nsubj	returns	Girl
+dep	attack	returns
+case	UK	to
+nmod:to	returns	UK

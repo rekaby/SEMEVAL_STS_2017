@@ -1,0 +1,14 @@
+nsubj	choice	Salmon
+cop	choice	is
+det	choice	a
+amod	choice	great
+root	ROOT	choice
+cc	choice	and
+nsubj	available	it
+cop	available	's
+advmod	available	readily
+conj:and	choice	available
+advmod	much	pretty
+advmod	everywhere	much
+advmod	available	everywhere
+punct	choice	.

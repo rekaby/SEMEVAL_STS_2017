@@ -1,0 +1,8 @@
+compound	bomb	Roadside
+nsubj	kills	bomb
+punct	kills	`
+root	ROOT	kills
+nummod	soldiers	eight
+compound	soldiers	Afghan
+dobj	kills	soldiers
+punct	kills	'

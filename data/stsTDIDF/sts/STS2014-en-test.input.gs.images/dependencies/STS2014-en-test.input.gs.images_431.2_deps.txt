@@ -1,0 +1,8 @@
+det	bus	The
+amod	bus	red
+nsubj	street	bus
+cop	street	is
+case	street	on
+det	street	the
+root	ROOT	street
+punct	street	.

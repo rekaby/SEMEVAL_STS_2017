@@ -1,0 +1,13 @@
+amod	visa	Greek
+compound	visa	type
+compound	visa	D
+root	ROOT	visa
+punct	visa	:
+aux	travel	Can
+nsubj	travel	I
+dep	visa	travel
+case	countries	to
+amod	countries	other
+amod	countries	Schengen
+nmod:to	travel	countries
+punct	travel	?

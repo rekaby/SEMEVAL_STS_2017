@@ -1,0 +1,11 @@
+root	ROOT	Man
+case	shirt	with
+amod	shirt	blue
+nmod:with	Man	shirt
+amod	shirt	standing
+case	fountain	in
+mwe	in	front
+mwe	in	of
+det	fountain	a
+nmod:in_front_of	standing	fountain
+punct	Man	.

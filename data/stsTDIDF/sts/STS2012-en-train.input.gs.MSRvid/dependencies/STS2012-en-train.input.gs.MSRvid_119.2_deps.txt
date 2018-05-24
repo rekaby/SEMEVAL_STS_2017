@@ -1,0 +1,9 @@
+det	man	A
+nsubj	breaking	man
+aux	breaking	is
+root	ROOT	breaking
+dobj	breaking	tiles
+case	hands	with
+nmod:poss	hands	his
+nmod:with	breaking	hands
+punct	breaking	.

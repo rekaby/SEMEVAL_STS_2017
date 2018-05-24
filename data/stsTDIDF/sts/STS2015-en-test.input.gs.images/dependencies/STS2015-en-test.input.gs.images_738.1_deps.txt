@@ -1,0 +1,12 @@
+det	man	The
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	girl	with
+det	girl	a
+amod	girl	little
+nmod:with	sitting	girl
+case	park	in
+det	park	the
+nmod:in	girl	park
+punct	sitting	.

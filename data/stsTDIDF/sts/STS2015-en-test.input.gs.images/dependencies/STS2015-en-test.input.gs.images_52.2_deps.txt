@@ -1,0 +1,15 @@
+det	girl	A
+nsubj	looking	girl
+case	glasses	in
+nmod:in	girl	glasses
+aux	looking	is
+root	ROOT	looking
+compound:prt	looking	over
+nummod	flags	two
+amod	flags	American
+dobj	looking	flags
+case	area	near
+det	area	a
+amod	area	wooded
+nmod:near	flags	area
+punct	looking	.

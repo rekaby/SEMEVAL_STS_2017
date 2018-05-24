@@ -1,0 +1,8 @@
+dobj	think	which
+nsubj	think	i
+csubj	idea	think
+cop	idea	is
+det	idea	a
+amod	idea	good
+root	ROOT	idea
+punct	idea	.

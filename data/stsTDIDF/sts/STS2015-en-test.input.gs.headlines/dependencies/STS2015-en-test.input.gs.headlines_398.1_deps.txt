@@ -1,0 +1,7 @@
+nsubj	claim	Thousands
+case	Britons	of
+nmod:of	Thousands	Britons
+root	ROOT	claim
+dobj	claim	dole
+case	Germany	in
+nmod:in	dole	Germany

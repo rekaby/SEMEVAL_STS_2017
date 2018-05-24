@@ -1,0 +1,9 @@
+root	ROOT	put
+case	place	into
+det	place	a
+amod	place	certain
+nmod:into	put	place
+cc	place	or
+amod	location	abstract
+conj:or	place	location
+punct	put	.

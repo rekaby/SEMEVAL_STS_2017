@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	smiling	boy
+root	ROOT	smiling
+case	him	at
+nmod:at	smiling	him
+mark	dog	for
+cop	dog	being
+det	dog	a
+advcl	smiling	dog
+punct	smiling	.

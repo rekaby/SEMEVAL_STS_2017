@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	dog	around
+nmod:poss	dog	his
+nmod:around	walking	dog
+punct	walking	.

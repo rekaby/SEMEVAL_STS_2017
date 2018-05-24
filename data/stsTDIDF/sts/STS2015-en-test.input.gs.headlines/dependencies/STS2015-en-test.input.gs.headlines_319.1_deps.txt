@@ -1,0 +1,7 @@
+compound	Members	South
+compound	Members	Korea
+compound	Members	Ferry
+compound	Members	Crew
+nsubj	Stand	Members
+root	ROOT	Stand
+dobj	Stand	Trial

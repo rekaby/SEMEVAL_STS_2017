@@ -1,0 +1,11 @@
+det	man	A
+nsubj	puts	man
+root	ROOT	puts
+nummod	pieces	three
+dobj	puts	pieces
+case	meat	of
+nmod:of	pieces	meat
+case	pan	into
+det	pan	a
+nmod:into	puts	pan
+punct	puts	.

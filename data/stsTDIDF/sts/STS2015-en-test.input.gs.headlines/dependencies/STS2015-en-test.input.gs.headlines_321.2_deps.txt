@@ -1,0 +1,5 @@
+compound	Voting	Egyptians
+root	ROOT	Voting
+case	Constitution	on
+compound	Constitution	New
+nmod:on	Voting	Constitution

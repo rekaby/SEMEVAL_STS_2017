@@ -1,0 +1,15 @@
+advmod	answered	Even
+mark	answered	though
+det	question	the
+nsubjpass	answered	question
+aux	answered	has
+auxpass	answered	been
+root	ROOT	answered
+nsubj	like	I
+aux	like	would
+ccomp	answered	like
+mark	add	to
+xcomp	like	add
+nmod:poss	answer	my
+dobj	add	answer
+punct	answered	.

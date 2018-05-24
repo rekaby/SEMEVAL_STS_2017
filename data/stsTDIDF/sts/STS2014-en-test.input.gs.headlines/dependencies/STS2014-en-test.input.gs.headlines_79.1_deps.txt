@@ -1,0 +1,6 @@
+compound	Briefing	Daily
+compound	Briefing	Press
+root	ROOT	Briefing
+punct	Briefing	:
+compound	Sudan	South
+dep	Briefing	Sudan

@@ -1,0 +1,17 @@
+det	answer	The
+nsubj	lies	answer
+root	ROOT	lies
+case	support	in
+det	support	the
+nmod:in	lies	support
+mark	able	that
+nsubj	able	all
+aux	able	will
+cop	able	be
+ccomp	support	able
+mark	generate	to
+xcomp	able	generate
+advmod	generate	nationally
+cc	generate	and
+conj:and	generate	internationally
+punct	lies	.

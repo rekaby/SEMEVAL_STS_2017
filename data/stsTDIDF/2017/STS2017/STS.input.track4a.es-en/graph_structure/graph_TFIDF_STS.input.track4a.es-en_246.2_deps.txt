@@ -1,0 +1,7 @@
+looking	phone	nmod:at
+phone	at	case
+is	door	nmod:by
+door	looking	acl
+phone	his	nmod:poss
+man	is	acl
+door	by	case

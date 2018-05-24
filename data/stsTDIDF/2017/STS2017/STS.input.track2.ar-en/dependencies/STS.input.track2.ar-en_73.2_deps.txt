@@ -1,0 +1,5 @@
+det	band	The
+root	ROOT	band
+case	stage	on
+nmod:on	band	stage
+punct	band	.

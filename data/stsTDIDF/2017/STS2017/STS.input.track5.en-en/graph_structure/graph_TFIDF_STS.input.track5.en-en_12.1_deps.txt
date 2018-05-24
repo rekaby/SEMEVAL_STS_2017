@@ -1,0 +1,10 @@
+white	the	det
+cooks	white	nmod:in
+busy	cooks	nsubj
+cooks	These	det
+busy	kitchen	nmod:in
+busy	are	cop
+making	customers	nmod:for
+kitchen	making	acl
+white	in	case
+making	dinner	dobj

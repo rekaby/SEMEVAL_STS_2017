@@ -1,0 +1,15 @@
+nsubj	announced	putin
+root	ROOT	announced
+mark	protect	that
+det	treaty	the
+compound	treaty	cfe
+nsubj	protect	treaty
+aux	protect	does
+neg	protect	not
+advmod	protect	duly
+ccomp	announced	protect
+nmod:poss	interests	russia
+case	russia	's
+compound	interests	security
+dobj	protect	interests
+punct	announced	.

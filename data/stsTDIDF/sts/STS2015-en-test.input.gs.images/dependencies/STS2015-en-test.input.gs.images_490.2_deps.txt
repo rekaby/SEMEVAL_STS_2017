@@ -1,0 +1,8 @@
+det	bird	A
+nsubj	sits	bird
+root	ROOT	sits
+case	tree	in
+det	tree	a
+amod	tree	leafless
+nmod:in	sits	tree
+punct	sits	.

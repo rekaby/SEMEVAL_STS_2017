@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	playing
+case	park	in
+det	park	the
+nmod:in	playing	park
+punct	dogs	.

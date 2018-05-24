@@ -1,0 +1,6 @@
+ROOT	sleeps	root
+naked	own	nmod:on
+sleeps	An	det
+sleeps	naked	amod
+sleeps	old	amod
+sleeps	.	punct

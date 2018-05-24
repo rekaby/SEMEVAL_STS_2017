@@ -1,0 +1,12 @@
+nsubj	Decides	Who
+root	ROOT	Decides
+det	Laws	the
+dobj	Decides	Laws
+case	War	of
+nmod:of	Laws	War
+punct	Decides	?-7) nsubj(belongs-2, It
+root	ROOT	belongs
+case	courts	in
+amod	courts	civilian
+nmod:in	belongs	courts
+punct	belongs	.

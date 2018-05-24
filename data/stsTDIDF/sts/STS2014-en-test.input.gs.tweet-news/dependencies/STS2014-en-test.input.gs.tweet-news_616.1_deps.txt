@@ -1,0 +1,14 @@
+root	ROOT	Wow
+punct	Wow	''
+punct	Wow	:
+case	least	At
+nmod:at	killed	least
+nummod	least	245
+dep	Wow	killed
+case	Update	in
+compound	Update	Brazil
+compound	Update	nightclub
+compound	Update	fire
+nmod:in	killed	Update
+punct	Wow	:
+punct	Wow	''

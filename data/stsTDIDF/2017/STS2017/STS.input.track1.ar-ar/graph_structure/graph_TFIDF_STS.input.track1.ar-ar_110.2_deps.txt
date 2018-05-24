@@ -1,0 +1,6 @@
+walking	dog	dobj
+person	walking	acl
+person	riding	acl:relcl
+riding	child	nsubj
+riding	skateboard	dobj
+skateboard	a	det

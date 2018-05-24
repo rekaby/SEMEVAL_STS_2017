@@ -1,0 +1,7 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	meet	to
+punct	meet	-RRB-
+nmod:to	cause	meet
+cc	cause	or
+conj:or	cause	intersect

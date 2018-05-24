@@ -1,0 +1,17 @@
+det	period	a
+root	ROOT	period
+case	time	of
+nmod:of	period	time
+acl	time	considered
+case	resource	as
+det	resource	a
+nmod:as	considered	resource
+case	control	under
+nmod:poss	control	your
+nmod:under	resource	control
+cc	resource	and
+conj:and	resource	sufficient
+mark	accomplish	to
+xcomp	sufficient	accomplish
+dobj	accomplish	something
+punct	period	;

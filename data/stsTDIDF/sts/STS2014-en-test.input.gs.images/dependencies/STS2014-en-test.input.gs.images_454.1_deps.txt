@@ -1,0 +1,11 @@
+det	television	The
+root	ROOT	television
+cc	television	and
+conj:and	television	desk
+case	room	of
+compound	room	hotel
+nmod:of	television	room
+case	lighting	with
+compound	lighting	lamp
+nmod:with	television	lighting
+punct	television	.

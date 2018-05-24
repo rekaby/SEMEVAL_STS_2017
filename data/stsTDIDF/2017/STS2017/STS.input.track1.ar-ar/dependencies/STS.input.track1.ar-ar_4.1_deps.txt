@@ -1,0 +1,11 @@
+compound	man	Jumps
+root	ROOT	man
+case	jersey	with
+det	jersey	the
+amod	jersey	green
+nmod:with	man	jersey
+advmod	man	aloft
+case	grass	on
+det	grass	the
+nmod:on	aloft	grass
+punct	man	.

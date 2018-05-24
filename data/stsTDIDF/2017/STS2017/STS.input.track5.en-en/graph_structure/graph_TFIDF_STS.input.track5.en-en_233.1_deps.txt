@@ -1,0 +1,8 @@
+embrace	woman	nsubj
+movie	horror	compound
+watching	movie	dobj
+embrace	watching	advcl
+woman	man	conj:and
+embrace	.	punct
+watching	while	mark
+ROOT	embrace	root

@@ -1,0 +1,12 @@
+nummod	surfers	Two
+nsubj	competing	surfers
+aux	competing	are
+root	ROOT	competing
+case	water	in
+det	water	the
+amod	water	open
+nmod:in	competing	water
+case	other	against
+det	other	each
+nmod:against	competing	other
+punct	competing	.

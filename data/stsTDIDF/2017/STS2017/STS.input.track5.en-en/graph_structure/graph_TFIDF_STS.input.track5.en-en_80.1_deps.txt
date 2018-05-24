@@ -1,0 +1,8 @@
+picture	building	nmod:of
+building	large	amod
+paints	picture	dobj
+seen	background	nmod:in
+ROOT	paints	root
+building	seen	acl:relcl
+paints	woman	nsubj
+paints	.	punct

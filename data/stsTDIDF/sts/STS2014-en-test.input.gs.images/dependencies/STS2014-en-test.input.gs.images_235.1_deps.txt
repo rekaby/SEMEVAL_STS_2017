@@ -1,0 +1,11 @@
+det	close-up	A
+nsubj	hanging	close-up
+case	sheep	of
+det	sheep	a
+nmod:of	close-up	sheep
+case	tongue	with
+nmod:poss	tongue	its
+nmod:with	close-up	tongue
+root	ROOT	hanging
+compound:prt	hanging	out
+punct	hanging	.

@@ -1,0 +1,9 @@
+nsubj	stoke	Obama
+punct	Obama	,
+nsubj	compete	Romney
+acl:relcl	Obama	compete
+case	undecideds	for
+nmod:for	compete	undecideds
+punct	Obama	,
+root	ROOT	stoke
+dobj	stoke	base

@@ -1,0 +1,9 @@
+nsubj	waiting	People
+aux	waiting	are
+root	ROOT	waiting
+case	fireworks	for
+det	fireworks	the
+nmod:for	waiting	fireworks
+mark	start	to
+xcomp	waiting	start
+punct	waiting	.

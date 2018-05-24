@@ -1,0 +1,8 @@
+det	febrile	an
+amod	febrile	acute
+root	ROOT	febrile
+advmod	contagious	highly
+amod	disease	contagious
+amod	disease	viral
+dep	febrile	disease
+punct	febrile	.

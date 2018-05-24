@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	discussing	men
+aux	discussing	are
+root	ROOT	discussing
+nmod:poss	meeting	their
+compound	meeting	business
+dobj	discussing	meeting
+punct	discussing	.

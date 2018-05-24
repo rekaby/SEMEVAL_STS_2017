@@ -1,0 +1,7 @@
+root	ROOT	wet
+case	spurt	with
+det	spurt	a
+nmod:with	wet	spurt
+case	liquid	of
+nmod:of	spurt	liquid
+punct	wet	.

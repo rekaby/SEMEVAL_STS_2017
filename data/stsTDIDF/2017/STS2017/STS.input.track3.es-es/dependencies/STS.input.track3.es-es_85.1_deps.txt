@@ -1,0 +1,10 @@
+det	man	A
+amod	man	sad
+root	ROOT	man
+acl	man	putting
+amod	material	black
+dobj	putting	material
+case	street	on
+det	street	the
+nmod:on	putting	street
+punct	man	.

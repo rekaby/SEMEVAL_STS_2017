@@ -1,0 +1,12 @@
+nummod	girls	Two
+nsubj	posing	girls
+case	guy	on
+det	guy	a
+nmod:on	girls	guy
+root	ROOT	posing
+case	bow	on
+det	bow	the
+nmod:on	posing	bow
+det	boat	a
+dep	bow	boat
+punct	posing	.

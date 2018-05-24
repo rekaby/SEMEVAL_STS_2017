@@ -1,0 +1,15 @@
+amod	releases	Commercial
+nsubj	remain	releases
+case	kernel	of
+det	kernel	the
+nummod	kernel	2.6
+nmod:of	releases	kernel
+case	distributors	by
+amod	distributors	major
+compound	distributors	Linux
+nmod:by	releases	distributors
+advmod	remain	still
+root	ROOT	remain
+nmod:npmod	away	months
+advmod	remain	away
+punct	remain	.

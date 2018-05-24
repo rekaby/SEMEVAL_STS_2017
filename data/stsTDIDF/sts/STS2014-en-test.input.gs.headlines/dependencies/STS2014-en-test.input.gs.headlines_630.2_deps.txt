@@ -1,0 +1,9 @@
+amod	Chavez	Venezuelan
+compound	Chavez	President
+compound	Chavez	Hugo
+nsubj	dies	Chavez
+root	ROOT	dies
+case	cancer	of
+nmod:of	dies	cancer
+case	58	at
+nmod:at	dies	58

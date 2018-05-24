@@ -1,0 +1,7 @@
+amod	room	Elegant
+compound	room	dining
+root	ROOT	room
+case	furniture	with
+compound	furniture	wood
+nmod:with	room	furniture
+punct	room	.

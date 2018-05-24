@@ -1,0 +1,7 @@
+root	ROOT	Cabinet
+case	war	at
+nmod:at	Cabinet	war
+mark	arming	over
+acl	Cabinet	arming
+amod	rebels	Syrian
+dobj	arming	rebels

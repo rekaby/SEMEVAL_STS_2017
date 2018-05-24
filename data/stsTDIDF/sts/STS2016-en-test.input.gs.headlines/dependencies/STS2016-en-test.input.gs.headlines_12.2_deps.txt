@@ -1,0 +1,8 @@
+compound	newspaper	China
+compound	newspaper	army
+nsubj	slams	newspaper
+root	ROOT	slams
+nmod:poss	program	US
+case	US	's
+compound	program	PRISM
+dobj	slams	program

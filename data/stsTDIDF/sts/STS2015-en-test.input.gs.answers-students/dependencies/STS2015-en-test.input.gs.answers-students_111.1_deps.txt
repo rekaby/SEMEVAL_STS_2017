@@ -1,0 +1,10 @@
+amod	battery	positive
+nsubjpass	seperated	battery
+auxpass	seperated	is
+root	ROOT	seperated
+case	gap	by
+det	gap	a
+nmod:agent	seperated	gap
+case	terminal	from
+nmod:from	gap	terminal
+nummod	gap	2

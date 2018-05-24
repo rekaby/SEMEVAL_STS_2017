@@ -1,0 +1,8 @@
+det	airplane	A
+amod	airplane	white
+amod	airplane	Swiss
+nsubj	approaches	airplane
+root	ROOT	approaches
+det	runway	the
+dobj	approaches	runway
+punct	approaches	.

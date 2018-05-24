@@ -1,0 +1,12 @@
+det	man	A
+nsubj	walking	man
+cc	man	and
+det	boy	a
+conj:and	man	boy
+aux	walking	are
+root	ROOT	walking
+case	area	in
+det	area	a
+amod	area	deserted
+nmod:in	walking	area
+punct	walking	.

@@ -1,0 +1,11 @@
+det	crowd	A
+root	ROOT	crowd
+case	people	of
+nmod:of	crowd	people
+acl	people	watching
+compound	race	cars
+dobj	watching	race
+advmod	watching	down
+det	track	the
+nmod:npmod	down	track
+punct	crowd	.

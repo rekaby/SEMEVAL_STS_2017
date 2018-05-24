@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+case	room	in
+det	room	a
+amod	room	cluttered
+nmod:in	sitting	room
+punct	man	.

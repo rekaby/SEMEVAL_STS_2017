@@ -1,0 +1,11 @@
+det	clings	A
+amod	clings	yellow
+compound	clings	parrot
+root	ROOT	clings
+case	side	to
+det	side	the
+nmod:to	clings	side
+case	cage	of
+nmod:poss	cage	its
+nmod:of	side	cage
+punct	clings	.

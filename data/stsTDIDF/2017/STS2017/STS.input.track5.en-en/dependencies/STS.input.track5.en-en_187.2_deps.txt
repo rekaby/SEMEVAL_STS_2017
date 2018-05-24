@@ -1,0 +1,15 @@
+det	man	The
+nsubj	getting	man
+aux	getting	is
+root	ROOT	getting
+nmod:poss	boat	his
+nsubj	clean	boat
+xcomp	getting	clean
+mark	take	to
+xcomp	clean	take
+dobj	take	it
+compound:prt	take	out
+case	water	on
+det	water	the
+nmod:on	take	water
+punct	getting	.

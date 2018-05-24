@@ -1,0 +1,11 @@
+cop	command	Be
+case	command	in
+root	ROOT	command
+case	authority	of
+punct	exercise	;
+compound	authority	exercise
+nmod:of	command	authority
+cc	authority	or
+conj:or	authority	control
+dep	authority	over
+punct	command	.

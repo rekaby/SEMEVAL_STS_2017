@@ -1,0 +1,7 @@
+nsubj	closes	UN
+root	ROOT	closes
+case	treaty	in
+case	treaty	on
+compound	treaty	landmark
+compound	treaty	arms
+nmod:on	closes	treaty

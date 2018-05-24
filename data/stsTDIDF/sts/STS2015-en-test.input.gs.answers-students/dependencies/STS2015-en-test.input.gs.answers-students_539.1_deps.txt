@@ -1,0 +1,17 @@
+mark	connected	If
+det	path	the
+nsubjpass	connected	path
+auxpass	connected	is
+advmod	connected	directly
+advcl	affects	connected
+case	battery	to
+det	battery	the
+nmod:to	connected	battery
+punct	affects	,
+advmod	switch	then
+det	switch	the
+nsubj	affects	switch
+root	ROOT	affects
+det	bulb	a
+dobj	affects	bulb
+punct	affects	.

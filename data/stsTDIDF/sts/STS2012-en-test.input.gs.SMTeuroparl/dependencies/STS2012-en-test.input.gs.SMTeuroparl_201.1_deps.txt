@@ -1,0 +1,9 @@
+expl	balance	There
+aux	balance	must
+cop	balance	be
+det	balance	a
+root	ROOT	balance
+case	whole	as
+det	whole	a
+nmod:as	balance	whole
+punct	balance	.

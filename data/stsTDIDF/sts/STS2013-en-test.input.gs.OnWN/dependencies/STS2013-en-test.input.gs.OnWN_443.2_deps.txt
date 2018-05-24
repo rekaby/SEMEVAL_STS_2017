@@ -1,0 +1,8 @@
+det	branch	a
+amod	branch	small
+amod	branch	thin
+root	ROOT	branch
+case	tree	of
+det	tree	a
+nmod:of	branch	tree
+punct	branch	.

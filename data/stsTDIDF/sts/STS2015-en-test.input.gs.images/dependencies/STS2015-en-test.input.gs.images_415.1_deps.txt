@@ -1,0 +1,16 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	rock	on
+mwe	on	top
+mwe	on	of
+det	rock	a
+nmod:on_top_of	standing	rock
+cc	rock	or
+conj:or	rock	mountain
+acl	rock	watching
+det	set	the
+compound	set	sun
+dobj	watching	set
+punct	standing	.

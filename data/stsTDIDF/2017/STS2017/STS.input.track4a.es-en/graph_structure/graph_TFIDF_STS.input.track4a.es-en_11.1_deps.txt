@@ -1,0 +1,9 @@
+plays	drums	dobj
+drums	the	det
+plays	man	nsubj
+plays	guitar	dobj
+man	One	nummod
+plays	while	mark
+plays	stage	nmod:on
+plays	another	nsubj
+guitar	the	det

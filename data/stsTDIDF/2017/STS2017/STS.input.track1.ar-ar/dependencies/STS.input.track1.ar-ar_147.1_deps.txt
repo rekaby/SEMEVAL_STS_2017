@@ -1,0 +1,12 @@
+root	ROOT	Girl
+cc	Girl	and
+nmod:poss	father	her
+conj:and	Girl	father
+case	pictures	during
+compound	pictures	Tenzema
+compound	pictures	Altqtan
+nmod:during	Girl	pictures
+case	park	in
+det	park	the
+nmod:in	pictures	park
+punct	Girl	.

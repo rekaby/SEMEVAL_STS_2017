@@ -1,0 +1,17 @@
+root	ROOT	release
+punct	gas	-LRB-
+dep	release	gas
+cc	gas	or
+conj:or	gas	energy
+punct	gas	-RRB-
+case	result	as
+det	result	a
+nmod:as	release	result
+case	reaction	of
+det	reaction	a
+amod	reaction	chemical
+nmod:of	result	reaction
+cc	reaction	or
+amod	decomposition	physical
+conj:or	reaction	decomposition
+punct	release	.

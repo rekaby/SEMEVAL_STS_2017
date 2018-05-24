@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	show	dog
+cop	show	is
+case	show	in
+det	show	a
+compound	show	dog
+root	ROOT	show
+punct	show	.

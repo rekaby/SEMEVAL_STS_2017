@@ -1,0 +1,8 @@
+det	loris	A
+amod	loris	slow
+nsubj	hanging	loris
+root	ROOT	hanging
+case	cord	on
+det	cord	a
+nmod:on	hanging	cord
+punct	hanging	.

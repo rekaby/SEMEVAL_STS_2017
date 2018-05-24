@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	beige
+nsubj	play	dogs
+root	ROOT	play
+case	grass	in
+det	grass	the
+nmod:in	play	grass
+punct	play	.

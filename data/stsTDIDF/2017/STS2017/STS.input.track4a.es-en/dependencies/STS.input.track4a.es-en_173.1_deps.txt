@@ -1,0 +1,8 @@
+det	man	A
+nsubj	roasting	man
+aux	roasting	is
+root	ROOT	roasting
+dobj	roasting	duck
+case	oven	in
+nmod:poss	oven	his
+nmod:in	roasting	oven

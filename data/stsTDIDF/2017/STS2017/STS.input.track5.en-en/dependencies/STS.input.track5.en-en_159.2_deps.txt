@@ -1,0 +1,9 @@
+det	girls	The
+nummod	girls	two
+nsubj	walking	girls
+aux	walking	are
+root	ROOT	walking
+case	father	with
+nmod:poss	father	their
+nmod:with	walking	father
+punct	walking	.

@@ -1,0 +1,8 @@
+compound	Sanctions	EU
+compound	Sanctions	Slaps
+compound	Sanctions	New
+root	ROOT	Sanctions
+case	Russia	on
+nmod:on	Sanctions	Russia
+case	Ukraine	Over
+nmod:over	Sanctions	Ukraine

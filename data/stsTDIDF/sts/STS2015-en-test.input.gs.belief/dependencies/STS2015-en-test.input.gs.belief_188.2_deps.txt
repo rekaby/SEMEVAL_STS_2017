@@ -1,0 +1,17 @@
+dep	erected	iirc
+punct	erected	,
+det	sign	the
+nsubjpass	erected	sign
+auxpass	erected	was
+root	ROOT	erected
+advmod	on	early
+nmod	erected	on
+punct	erected	,
+cc	erected	but
+auxpass	removed	was
+conj:but	erected	removed
+mark	obvious	as
+cop	obvious	being
+advmod	obvious	too
+advcl	removed	obvious
+punct	erected	.

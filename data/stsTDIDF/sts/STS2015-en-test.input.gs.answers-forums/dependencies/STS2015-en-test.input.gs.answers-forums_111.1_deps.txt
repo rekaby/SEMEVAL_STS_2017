@@ -1,0 +1,15 @@
+nsubj	found	I
+root	ROOT	found
+dobj	found	it
+amod	it	difficult
+mark	mark	to
+xcomp	difficult	mark
+advmod	one	just
+nummod	answer	one
+dobj	mark	answer
+case	correct	as
+nmod:as	mark	correct
+mark	are	because
+nsubj	are	all
+advcl	mark	are
+punct	found	.

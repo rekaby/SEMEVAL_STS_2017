@@ -1,0 +1,8 @@
+det	quality	the
+amod	quality	tactile
+punct	touch	-LRB-
+dep	quality	touch
+punct	touch	-RRB-
+nsubj	has	quality
+dep	quality	something
+root	ROOT	has

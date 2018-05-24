@@ -1,0 +1,11 @@
+det	bus	A
+compound	bus	school
+nsubj	driving	bus
+aux	driving	is
+root	ROOT	driving
+advmod	driving	uphill
+case	road	on
+det	road	a
+amod	road	rural
+nmod:on	driving	road
+punct	driving	.

@@ -1,0 +1,10 @@
+det	girl	The
+nsubj	learning	girl
+aux	learning	is
+root	ROOT	learning
+advmod	use	how
+mark	use	to
+ccomp	learning	use
+det	microscope	a
+dobj	use	microscope
+punct	learning	.

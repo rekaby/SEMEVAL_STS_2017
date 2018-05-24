@@ -1,0 +1,6 @@
+nsubj	goes	Girl
+root	ROOT	goes
+case	rope	beyond
+det	rope	the
+nmod:beyond	goes	rope
+punct	goes	.

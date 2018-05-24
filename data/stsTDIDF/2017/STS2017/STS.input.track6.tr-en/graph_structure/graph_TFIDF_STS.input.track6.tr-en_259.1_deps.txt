@@ -1,0 +1,7 @@
+water	shore	nmod:near
+shore	near	case
+running	water	nmod:in
+shore	the	det
+running	dog	nsubj
+dog	The	det
+dog	black	amod

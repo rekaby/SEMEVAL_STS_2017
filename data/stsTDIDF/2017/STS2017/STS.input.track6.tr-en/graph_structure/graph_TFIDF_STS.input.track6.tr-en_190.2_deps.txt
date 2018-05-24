@@ -1,0 +1,7 @@
+pool	private	amod
+swimming	.	punct
+swimming	is	aux
+swimming	pool	nmod:in
+swimming	man	nsubj
+swimming	alone	advmod
+ROOT	swimming	root

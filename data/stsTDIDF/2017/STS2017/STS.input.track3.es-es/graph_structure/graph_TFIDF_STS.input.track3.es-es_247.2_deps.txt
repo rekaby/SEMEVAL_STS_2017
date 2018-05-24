@@ -1,0 +1,12 @@
+standing	out	compound:prt
+tents	the	det
+shirts	cinnamon	compound
+jeans	in	case
+children	jeans	nmod:in
+jeans	shirts	conj:and
+jeans	and	cc
+standing	tents	nmod:from
+standing	children	nsubj
+tents	from	case
+children	Two	nummod
+jeans	blue	amod

@@ -1,0 +1,11 @@
+root	ROOT	Close
+case	horse	up
+case	horse	of
+det	horse	a
+amod	horse	brown
+nmod:of	Close	horse
+case	halter	with
+det	halter	a
+amod	halter	blue
+nmod:with	Close	halter
+punct	Close	.

@@ -1,0 +1,12 @@
+nummod	days	365
+dep	calendar	days
+case	January	from
+nmod:from	days	January
+nummod	January	1
+case	December	to
+nmod:to	days	December
+nummod	December	31
+punct	calendar	,
+det	calendar	the
+compound	calendar	Gregorian
+root	ROOT	calendar

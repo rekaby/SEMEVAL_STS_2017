@@ -1,0 +1,7 @@
+root	ROOT	move
+mark	turning	by
+advcl	move	turning
+compound:prt	turning	over
+cc	turning	or
+conj:or	turning	rotating
+punct	move	.

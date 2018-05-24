@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	yellow
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	area	in
+det	area	a
+amod	area	grassy
+nmod:in	playing	area
+case	flowers	near
+nmod:near	area	flowers
+punct	playing	.

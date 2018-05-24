@@ -1,0 +1,9 @@
+root	ROOT	Make
+xcomp	Make	pregnant
+punct	Make	;
+parataxis	Make	fertilize
+cc	fertilize	and
+conj:and	fertilize	cause
+mark	grow	to
+xcomp	cause	grow
+punct	Make	.

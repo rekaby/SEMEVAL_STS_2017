@@ -1,0 +1,12 @@
+compound	b	bulb
+nsubj	path	b
+cc	b	and
+conj:and	b	c
+cop	path	are
+case	path	on
+det	path	a
+amod	path	closed
+root	ROOT	path
+case	battery	to
+det	battery	the
+nmod:to	path	battery

@@ -1,0 +1,10 @@
+det	activities	The
+amod	activities	economic
+root	ROOT	activities
+dep	activities	Commons
+acl	Commons	generating
+amod	links	peaceful
+dobj	generating	links
+case	people	between
+nmod:between	links	people
+punct	activities	.

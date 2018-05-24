@@ -1,0 +1,8 @@
+det	man	A
+nsubj	shows	man
+root	ROOT	shows
+compound:prt	shows	off
+det	monkey	a
+amod	monkey	small
+dobj	shows	monkey
+punct	shows	.

@@ -1,0 +1,16 @@
+advmod	respond	How
+aux	respond	should
+nsubj	respond	you
+root	ROOT	respond
+case	teacher	to
+nmod:poss	teacher	your
+nmod:to	respond	teacher
+nsubj	help	who
+aux	help	can
+neg	help	not
+acl:relcl	teacher	help
+dobj	help	you
+case	recommendation	with
+det	recommendation	a
+nmod:with	help	recommendation
+punct	respond	?

@@ -1,0 +1,9 @@
+root	ROOT	Rudd
+acl	Rudd	sworn
+case	Minister	in
+case	Minister	as
+nmod:poss	Minister	Australia
+case	Australia	's
+amod	Minister	new
+compound	Minister	Prime
+nmod:as	sworn	Minister

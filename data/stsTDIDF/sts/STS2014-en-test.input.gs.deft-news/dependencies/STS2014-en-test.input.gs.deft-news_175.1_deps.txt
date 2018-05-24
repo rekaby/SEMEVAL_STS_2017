@@ -1,0 +1,14 @@
+det	countries	the
+nsubj	oppose	countries
+root	ROOT	oppose
+det	weaponization	the
+dobj	oppose	weaponization
+case	space	of
+nmod:of	weaponization	space
+cc	space	and
+det	race	an
+compound	race	arms
+conj:and	space	race
+case	space	in
+nmod:in	weaponization	space
+punct	oppose	.

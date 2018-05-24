@@ -1,0 +1,7 @@
+root	ROOT	propagation
+case	waves	of
+nmod:of	propagation	waves
+advmod	waves	back
+case	surface	from
+det	surface	a
+nmod:from	back	surface

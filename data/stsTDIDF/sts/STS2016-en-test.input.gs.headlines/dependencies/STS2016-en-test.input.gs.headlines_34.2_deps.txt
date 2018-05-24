@@ -1,0 +1,6 @@
+amod	rebels	Communist
+nsubj	kill	rebels
+root	ROOT	kill
+nummod	police	eight
+amod	police	Philippine
+dobj	kill	police

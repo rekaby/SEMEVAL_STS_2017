@@ -1,0 +1,12 @@
+nsubj	sitting	People
+aux	sitting	are
+root	ROOT	sitting
+case	tables	around
+advmod	lit	dimly
+amod	tables	lit
+nmod:around	sitting	tables
+mark	smiling	while
+advcl	sitting	smiling
+cc	smiling	and
+conj:and	smiling	laughing
+punct	sitting	.

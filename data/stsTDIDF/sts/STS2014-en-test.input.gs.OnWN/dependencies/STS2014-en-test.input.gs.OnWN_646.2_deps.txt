@@ -1,0 +1,8 @@
+det	state	the
+root	ROOT	state
+mark	actual	of
+cop	actual	being
+acl	state	actual
+cc	actual	or
+conj:or	actual	real
+punct	state	.

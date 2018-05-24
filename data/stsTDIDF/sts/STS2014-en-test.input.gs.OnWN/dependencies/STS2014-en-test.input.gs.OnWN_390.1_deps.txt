@@ -1,0 +1,8 @@
+det	noise	the
+root	ROOT	noise
+case	something	of
+nmod:of	noise	something
+acl	something	rapping
+case	surface	against
+det	surface	a
+nmod:against	rapping	surface

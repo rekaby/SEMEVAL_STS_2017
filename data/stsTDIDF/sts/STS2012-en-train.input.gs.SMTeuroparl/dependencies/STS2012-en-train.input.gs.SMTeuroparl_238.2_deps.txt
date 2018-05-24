@@ -1,0 +1,17 @@
+nsubj	position	This
+cop	position	is
+det	position	the
+root	ROOT	position
+dep	position	defended
+case	rapporteur	by
+det	rapporteur	the
+nmod:by	defended	rapporteur
+cc	defended	and
+conj:and	defended	shared
+case	Party	by
+det	People	the
+amod	People	European
+nmod:poss	Party	People
+case	People	's
+nmod:by	shared	Party
+punct	position	.

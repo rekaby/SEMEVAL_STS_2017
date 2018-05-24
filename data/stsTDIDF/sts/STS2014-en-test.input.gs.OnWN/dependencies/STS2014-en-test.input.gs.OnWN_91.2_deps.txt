@@ -1,0 +1,9 @@
+root	ROOT	go
+mark	see	to
+xcomp	go	see
+case	reasons	for
+amod	reasons	professional
+cc	professional	or
+conj:or	professional	business
+nmod:for	see	reasons
+punct	go	.

@@ -1,0 +1,6 @@
+men	sitting	acl
+grass	wearing	acl
+grass	on	case
+helmets	bicycle	compound
+sitting	grass	nmod:on
+wearing	helmets	dobj

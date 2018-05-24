@@ -1,0 +1,8 @@
+looking	woman	nmod:at
+standing	looking	advcl
+standing	hands	nmod:in
+standing	man	nsubj
+woman	at	case
+phone	mobile	amod
+standing	,	punct
+using	phone	dobj

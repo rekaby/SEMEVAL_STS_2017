@@ -1,0 +1,10 @@
+nummod	men	Two
+amod	men	homeless
+nsubj	stand	men
+root	ROOT	stand
+compound:prt	stand	outside
+case	sign	with
+det	sign	a
+compound	sign	cardboard
+nmod:with	stand	sign
+punct	stand	.

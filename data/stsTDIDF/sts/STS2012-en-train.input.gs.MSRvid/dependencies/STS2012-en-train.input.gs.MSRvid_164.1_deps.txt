@@ -1,0 +1,8 @@
+det	man	A
+nsubj	picking	man
+aux	picking	is
+root	ROOT	picking
+compound:prt	picking	up
+det	tree	a
+dobj	picking	tree
+punct	picking	.

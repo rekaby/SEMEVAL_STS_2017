@@ -1,0 +1,11 @@
+punct	becomes	``
+nsubj	becomes	Opinionated
+cc	Opinionated	and
+conj:and	Opinionated	stubborn
+punct	becomes	''
+root	ROOT	becomes
+xcomp	becomes	treat
+case	drugs	with
+nmod:with	treat	drugs
+punct	drugs	''
+punct	becomes	.

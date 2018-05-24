@@ -1,0 +1,10 @@
+advmod	help	How
+aux	help	do
+nsubj	help	I
+root	ROOT	help
+nmod:poss	dog	my
+nsubj	adjust	dog
+ccomp	help	adjust
+mark	moving	after
+advcl	adjust	moving
+punct	help	?

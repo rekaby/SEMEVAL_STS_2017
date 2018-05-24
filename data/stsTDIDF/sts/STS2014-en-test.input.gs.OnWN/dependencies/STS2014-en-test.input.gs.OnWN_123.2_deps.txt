@@ -1,0 +1,13 @@
+root	ROOT	walk
+advmod	walk	heavily
+cc	walk	and
+conj:and	walk	firmly
+punct	walk	,
+mark	weary	as
+advmod	weary	when
+advcl	walk	weary
+punct	weary	,
+cc	weary	or
+case	mud	through
+conj:or	weary	mud
+punct	walk	.

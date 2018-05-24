@@ -1,0 +1,10 @@
+compound	East	Middle
+root	ROOT	East
+punct	East	:
+dep	East	Iraq
+punct	Iraq	:
+nummod	Escape	17
+compound	Escape	Prisoners
+dep	Iraq	Escape
+case	Kirkuk	in
+nmod:in	Escape	Kirkuk

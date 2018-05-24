@@ -1,0 +1,11 @@
+det	lamb	A
+amod	lamb	white
+root	ROOT	lamb
+case	nose	with
+nmod:poss	nose	its
+nmod:with	lamb	nose
+case	box	against
+det	box	a
+amod	box	wooden
+nmod:against	nose	box
+punct	lamb	.

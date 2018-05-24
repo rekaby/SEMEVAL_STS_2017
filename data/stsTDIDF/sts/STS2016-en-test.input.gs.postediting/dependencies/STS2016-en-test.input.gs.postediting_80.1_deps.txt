@@ -1,0 +1,12 @@
+nsubj	features	Generosity
+punct	Generosity	,
+appos	Generosity	love
+case	life	of
+nmod:of	love	life
+cop	features	were
+compound	features	vibrants
+root	ROOT	features
+case	actor	of
+det	actor	the
+nmod:of	features	actor
+punct	features	.

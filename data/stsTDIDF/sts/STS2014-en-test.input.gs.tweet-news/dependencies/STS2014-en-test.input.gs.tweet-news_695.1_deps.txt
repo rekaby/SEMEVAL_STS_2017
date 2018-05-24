@@ -1,0 +1,9 @@
+case	point	on
+nmod:on	Fear	point
+punct	Words	...
+nummod	Words	5
+compound	Words	Wine
+nsubj	Fear	Words
+neg	Fear	Not
+case	Fear	to
+root	ROOT	Fear

@@ -1,0 +1,14 @@
+det	person	a
+root	ROOT	person
+cc	person	or
+conj:or	person	thing
+nsubj	takes	that
+acl:relcl	person	takes
+cc	takes	or
+aux	take	can
+conj:or	takes	take
+det	place	the
+dobj	takes	place
+case	another	of
+nmod:of	place	another
+punct	person	.

@@ -1,0 +1,14 @@
+compound	Pennington	Shevaun
+nsubj	disappeared	Pennington
+root	ROOT	disappeared
+case	morning	on
+compound	morning	Saturday
+nmod:on	disappeared	morning
+mark	arranging	after
+advcl	disappeared	arranging
+mark	meet	to
+xcomp	arranging	meet
+amod	Studabaker	31-year-old
+compound	Studabaker	Toby
+dobj	meet	Studabaker
+punct	disappeared	.

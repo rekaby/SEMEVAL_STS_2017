@@ -1,0 +1,6 @@
+det	theme	a
+amod	theme	recurrent
+amod	theme	artistic
+root	ROOT	theme
+cc	theme	or
+conj:or	theme	pattern

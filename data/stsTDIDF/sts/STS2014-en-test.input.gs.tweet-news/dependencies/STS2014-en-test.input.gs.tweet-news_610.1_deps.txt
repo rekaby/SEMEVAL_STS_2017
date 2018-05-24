@@ -1,0 +1,16 @@
+aux	Read	Please
+root	ROOT	Read
+punct	piece	:
+case	piece	's
+dep	Read	piece
+case	toll	on
+det	toll	the
+amod	toll	gruesome
+nmod:on	piece	toll
+case	bombs	of
+amod	bombs	deadly
+compound	bombs	cluster
+nmod:of	toll	bombs
+case	#Syria	in
+nmod:in	toll	#Syria
+punct	Read	:

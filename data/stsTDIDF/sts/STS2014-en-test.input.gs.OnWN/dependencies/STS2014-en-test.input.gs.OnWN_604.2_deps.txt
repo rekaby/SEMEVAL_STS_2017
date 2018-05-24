@@ -1,0 +1,10 @@
+root	ROOT	get
+cc	get	or
+conj:or	get	find
+advmod	get	back
+punct	get	;
+parataxis	get	recover
+det	use	the
+dobj	recover	use
+acl	use	of
+punct	get	.

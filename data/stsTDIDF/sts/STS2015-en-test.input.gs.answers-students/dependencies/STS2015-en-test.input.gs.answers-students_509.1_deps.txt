@@ -1,0 +1,17 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+amod	path	closed
+nsubj	is	path
+punct	is	,
+case	z	with
+compound	z	switch
+nmod:with	is	z
+punct	z	,
+nsubj	contains	that
+acl:relcl	z	contains
+dobj	contains	bulb
+dep	bulb	a
+cc	a	and
+det	battery	the
+conj:and	a	battery

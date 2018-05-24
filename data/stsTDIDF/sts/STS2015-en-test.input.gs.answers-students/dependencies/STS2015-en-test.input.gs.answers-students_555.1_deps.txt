@@ -1,0 +1,10 @@
+amod	6	terminal
+nsubjpass	connected	6
+auxpass	connected	is
+advmod	connected	directly
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	positive
+nmod:to	connected	terminal
+punct	connected	.

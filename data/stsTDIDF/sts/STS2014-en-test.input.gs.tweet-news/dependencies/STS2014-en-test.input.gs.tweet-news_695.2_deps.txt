@@ -1,0 +1,12 @@
+det	Pour	The
+root	ROOT	Pour
+punct	Pour	:
+mark	Describing	In
+advcl	Fear	Describing
+dobj	Describing	Wines
+punct	Fear	,
+nummod	Words	5
+nsubj	Fear	Words
+neg	Fear	Not
+case	Fear	to
+dep	Pour	Fear

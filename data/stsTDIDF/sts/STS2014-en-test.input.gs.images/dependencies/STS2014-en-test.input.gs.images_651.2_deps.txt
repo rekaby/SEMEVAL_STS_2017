@@ -1,0 +1,10 @@
+det	TV	A
+compound	TV	Phillips
+amod	TV	flat
+compound	TV	screen
+root	ROOT	TV
+case	controls	with
+nummod	controls	two
+amod	controls	remote
+nmod:with	TV	controls
+punct	TV	.

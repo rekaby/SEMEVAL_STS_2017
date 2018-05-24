@@ -1,0 +1,8 @@
+wrangle	n't	neg
+ROOT	wrangle	root
+wrangle	calf	dobj
+calf	the	det
+cowboy	A	det
+wrangle	cowboy	nsubj
+wrangle	does	aux
+wrangle	.	punct

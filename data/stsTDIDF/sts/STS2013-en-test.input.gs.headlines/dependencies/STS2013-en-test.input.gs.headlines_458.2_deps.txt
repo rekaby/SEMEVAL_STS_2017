@@ -1,0 +1,6 @@
+nummod	soldiers	Two
+amod	soldiers	British
+nsubj	killed	soldiers
+root	ROOT	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

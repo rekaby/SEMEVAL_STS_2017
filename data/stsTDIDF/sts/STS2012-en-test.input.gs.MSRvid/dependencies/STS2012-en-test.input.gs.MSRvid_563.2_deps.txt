@@ -1,0 +1,7 @@
+det	person	A
+nsubj	dicing	person
+aux	dicing	is
+root	ROOT	dicing
+det	onion	an
+dobj	dicing	onion
+punct	dicing	.

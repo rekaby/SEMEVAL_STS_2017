@@ -1,0 +1,10 @@
+compound	Service	Secret
+nsubj	sees	Service
+root	ROOT	sees
+nmod:poss	scandal	its
+punct	scandal	`
+amod	scandal	biggest
+dobj	sees	scandal
+punct	scandal	'
+case	prostitutes	over
+nmod:over	sees	prostitutes

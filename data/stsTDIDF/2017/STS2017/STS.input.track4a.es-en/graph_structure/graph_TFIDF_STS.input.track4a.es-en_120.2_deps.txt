@@ -1,0 +1,5 @@
+dogs	The	det
+ROOT	water	root
+water	dogs	nsubj
+water	.	punct
+water	are	cop

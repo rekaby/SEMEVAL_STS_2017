@@ -1,0 +1,15 @@
+root	ROOT	something
+nsubj	provides	that
+acl:relcl	something	provides
+dobj	provides	direction
+cc	direction	or
+conj:or	direction	advice
+case	decision	as
+mwe	as	to
+det	decision	a
+nmod:as_to	provides	decision
+cc	decision	or
+conj:or	decision	course
+case	action	of
+nmod:of	course	action
+punct	something	.

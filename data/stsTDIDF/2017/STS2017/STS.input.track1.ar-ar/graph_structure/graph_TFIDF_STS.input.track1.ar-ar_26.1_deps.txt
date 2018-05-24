@@ -1,0 +1,5 @@
+chasing	abroad	advmod
+chasing	cat	dobj
+ROOT	dog	root
+dog	.	punct
+dog	chasing	acl

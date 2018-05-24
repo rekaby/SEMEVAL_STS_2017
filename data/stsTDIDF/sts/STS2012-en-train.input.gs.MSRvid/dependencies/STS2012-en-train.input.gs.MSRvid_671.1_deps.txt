@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+dobj	puts	make-up
+compound:prt	puts	on
+punct	puts	.

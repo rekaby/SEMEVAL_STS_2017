@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	hands	woman
+amod	hands	holding
+conj:and	man	hands
+acl	hands	walking
+case	beach	along
+det	beach	the
+nmod:along	walking	beach
+punct	man	.

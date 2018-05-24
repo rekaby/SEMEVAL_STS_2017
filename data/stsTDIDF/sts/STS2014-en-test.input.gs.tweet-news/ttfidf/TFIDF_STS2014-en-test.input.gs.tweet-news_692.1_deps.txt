@@ -1,0 +1,24 @@
+mark face To	15.060439779775294
+acl:relcl someone shot	15.060439779775294
+dobj shot student	15.060439779775294
+punct face .-9) root(ROOT-0, .	15.060439779775294
+punct . ''-2) punct(hero-5, :	15.060439779775294
+dep hero says	15.060439779775294
+xcomp says teacher	15.060439779775294
+acl:relcl teacher talked	15.060439779775294
+compound:prt talked down	15.060439779775294
+dobj talked student	15.060439779775294
+dobj face someone	14.367292599215348
+cop hero 'm	14.367292599215348
+amod student armed	14.367292599215348
+nsubj hero I	13.961827491107185
+neg hero no	13.451001867341194
+advmod shot already	13.26868031054724
+nsubj shot that	12.287851057535512
+punct hero ''	11.802343241753812
+nsubj talked who	11.299239664081732
+root ROOT hero	11.128614147050968
+punct hero .	10.999996769228874
+punct hero ,	10.71663435792161
+root ROOT face	8.697411676234829
+det student a	8.427121346494916

@@ -1,0 +1,7 @@
+compound	Train	Ships
+nsubj	Transport	Train
+case	Weapons	for
+amod	Weapons	Syrian
+compound	Weapons	Chemical
+nmod:for	Train	Weapons
+root	ROOT	Transport

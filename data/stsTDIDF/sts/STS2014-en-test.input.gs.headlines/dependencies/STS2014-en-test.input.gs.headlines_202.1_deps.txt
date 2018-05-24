@@ -1,0 +1,12 @@
+compound	bomb	Car
+root	ROOT	bomb
+case	consulate	at
+compound	consulate	Swedish
+nmod:at	bomb	consulate
+case	Benghazi	in
+nmod:poss	Benghazi	Libya
+case	Libya	's
+nmod:in	bomb	Benghazi
+punct	bomb	,
+neg	casualties	no
+appos	bomb	casualties

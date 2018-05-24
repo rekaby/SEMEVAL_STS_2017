@@ -1,0 +1,14 @@
+nsubj	speaker	he
+cop	speaker	was
+det	speaker	the
+amod	speaker	first
+root	ROOT	speaker
+case	house	of
+det	house	the
+nmod:of	speaker	house
+case	history	in
+nmod:in	speaker	history
+mark	fined	to
+auxpass	fined	be
+acl	history	fined
+punct	speaker	.

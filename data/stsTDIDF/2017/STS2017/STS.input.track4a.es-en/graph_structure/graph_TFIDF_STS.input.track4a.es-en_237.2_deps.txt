@@ -1,0 +1,8 @@
+meet	for	case
+competitors	swimming	compound
+competitors	The	det
+ROOT	prepare	root
+prepare	competitors	nsubj
+prepare	.	punct
+meet	their	nmod:poss
+prepare	meet	nmod:for

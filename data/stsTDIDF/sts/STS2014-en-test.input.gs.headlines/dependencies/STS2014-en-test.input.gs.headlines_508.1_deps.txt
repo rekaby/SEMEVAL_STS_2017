@@ -1,0 +1,8 @@
+nsubj	says	Iran
+root	ROOT	says
+amod	talks	nuclear
+dobj	says	talks
+mark	resume	to
+acl	talks	resume
+amod	month	next
+nmod:tmod	resume	month

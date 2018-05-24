@@ -1,0 +1,8 @@
+amod	cat	Yellow
+amod	cat	striped
+root	ROOT	cat
+acl	cat	resting
+case	sofa	on
+amod	sofa	blue
+nmod:on	resting	sofa
+punct	cat	.

@@ -1,0 +1,8 @@
+root	ROOT	have
+case	mind	in
+nmod:in	have	mind
+case	plan	as
+det	plan	a
+nmod:as	have	plan
+cc	plan	or
+conj:or	plan	purpose

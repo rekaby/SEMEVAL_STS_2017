@@ -1,0 +1,10 @@
+nmod:poss	ex-Gov	Virginia
+case	Virginia	's
+root	ROOT	ex-Gov
+punct	ex-Gov	.-4) compound(McDonnell-2, Bob
+root	ROOT	McDonnell
+punct	McDonnell	,
+appos	McDonnell	wife
+acl	wife	charged
+case	corruption	with
+nmod:with	charged	corruption

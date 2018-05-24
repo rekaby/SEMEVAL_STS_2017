@@ -1,0 +1,16 @@
+nsubj	said	Plofsky
+root	ROOT	said
+det	commission	the
+nsubj	investigate	commission
+aux	investigate	wo
+neg	investigate	n't
+ccomp	said	investigate
+mark	expired	because
+det	statute	the
+amod	statute	three-year
+nsubj	expired	statute
+case	limitations	of
+nmod:of	statute	limitations
+aux	expired	has
+advcl	investigate	expired
+punct	said	.

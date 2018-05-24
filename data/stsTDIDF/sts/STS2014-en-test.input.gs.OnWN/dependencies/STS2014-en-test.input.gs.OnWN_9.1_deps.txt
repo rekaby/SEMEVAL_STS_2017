@@ -1,0 +1,7 @@
+root	ROOT	sink
+case	level	to
+det	level	a
+amod	level	lower
+nmod:to	sink	level
+punct	sink	;
+parataxis	sink	descend

@@ -1,0 +1,9 @@
+det	child	The
+amod	child	sleeping
+nsubj	lies	child
+root	ROOT	lies
+case	bed	on
+det	bed	a
+compound	bed	hospital
+nmod:on	lies	bed
+punct	lies	.

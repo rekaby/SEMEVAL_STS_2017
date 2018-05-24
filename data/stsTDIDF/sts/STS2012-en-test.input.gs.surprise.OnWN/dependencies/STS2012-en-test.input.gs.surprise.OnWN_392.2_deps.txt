@@ -1,0 +1,7 @@
+root	ROOT	fruit
+acl	fruit	preserved
+case	cooking	by
+nmod:by	preserved	cooking
+case	sugar	with
+nmod:with	cooking	sugar
+punct	fruit	.

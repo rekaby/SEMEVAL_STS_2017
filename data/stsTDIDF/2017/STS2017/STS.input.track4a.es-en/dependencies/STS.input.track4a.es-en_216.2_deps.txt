@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	kid	woman
+cop	kid	is
+case	kid	near
+det	kid	a
+amod	kid	little
+root	ROOT	kid
+punct	kid	.

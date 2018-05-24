@@ -1,0 +1,7 @@
+det	group	a
+root	ROOT	group
+case	sheep	of
+nmod:of	group	sheep
+cc	sheep	or
+conj:or	sheep	goats
+punct	group	.

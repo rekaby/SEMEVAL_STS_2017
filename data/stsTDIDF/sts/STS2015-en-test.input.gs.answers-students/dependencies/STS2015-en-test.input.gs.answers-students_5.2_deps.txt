@@ -1,0 +1,9 @@
+det	paths	A
+punct	paths	,
+nsubj	paths	B
+cc	B	and
+conj:and	B	C
+cop	paths	are
+case	paths	in
+amod	paths	different
+root	ROOT	paths

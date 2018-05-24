@@ -1,0 +1,15 @@
+det	A920	The
+nsubj	comes	A920
+root	ROOT	comes
+case	printer	with
+det	printer	a
+nmod:with	comes	printer
+punct	printer	,
+conj:and	printer	scanner
+punct	printer	,
+cc	printer	and
+conj:and	printer	copier
+case	$	for
+nmod:for	copier	$
+nummod	$	89
+punct	comes	.

@@ -1,0 +1,8 @@
+nsubj	thanks	Pope
+root	ROOT	thanks
+amod	vigil	public
+mark	joining	for
+acl	public	joining
+nmod:poss	Syria	his
+dobj	joining	Syria
+dobj	thanks	vigil

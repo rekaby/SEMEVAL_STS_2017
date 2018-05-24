@@ -1,0 +1,12 @@
+nsubj	deliver	Obama
+mark	deliver	to
+root	ROOT	deliver
+dobj	deliver	statement
+case	Syria	on
+nmod:on	statement	Syria
+case	House	at
+compound	House	White
+nmod:at	deliver	House
+case	1:15	at
+nmod:at	deliver	1:15
+dobj	deliver	PM

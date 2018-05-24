@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	resting	boy
+case	arm	with
+det	arm	a
+amod	arm	broken
+nmod:with	boy	arm
+aux	resting	is
+root	ROOT	resting
+case	bed	in
+det	bed	a
+nmod:in	resting	bed
+punct	resting	.

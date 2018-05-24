@@ -1,0 +1,10 @@
+compound	Gains	Google
+root	ROOT	Gains
+mark	Creating	From
+acl	Gains	Creating
+compound	#hcsm	Apps
+case	#HealthIT	for
+det	#HealthIT	the
+compound	#HealthIT	#iPhone
+nmod:for	Apps	#HealthIT
+dobj	Creating	#hcsm

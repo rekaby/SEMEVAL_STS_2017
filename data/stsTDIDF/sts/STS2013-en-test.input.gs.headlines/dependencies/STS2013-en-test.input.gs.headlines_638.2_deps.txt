@@ -1,0 +1,7 @@
+nummod	soldiers	4
+amod	soldiers	foreign
+root	ROOT	soldiers
+acl	soldiers	killed
+case	Afghan	in
+nmod:in	killed	Afghan
+amod	soldiers	east

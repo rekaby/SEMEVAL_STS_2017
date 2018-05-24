@@ -1,0 +1,10 @@
+nummod	rocks	6.6
+compound	rocks	quake
+root	ROOT	rocks
+nmod:poss	Papua	Indonesia
+case	Indonesia	's
+nmod:npmod	rocks	Papua
+punct	rocks	:
+compound	Survey	US
+compound	Survey	Geological
+dep	rocks	Survey

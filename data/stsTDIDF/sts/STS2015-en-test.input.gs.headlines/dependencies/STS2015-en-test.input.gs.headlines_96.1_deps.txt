@@ -1,0 +1,6 @@
+nsubj	emulates	Rosberg
+root	ROOT	emulates
+dobj	emulates	father
+case	Monaco	with
+nmod:with	father	Monaco
+dep	emulates	win

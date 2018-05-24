@@ -1,0 +1,16 @@
+root	ROOT	bulb
+nsubj	circuit	a
+cop	circuit	is
+case	circuit	in
+det	circuit	a
+amod	circuit	complete
+acl:relcl	bulb	circuit
+case	battery	with
+det	battery	the
+nmod:with	circuit	battery
+advmod	closed	when
+compound	z	switch
+nsubjpass	closed	z
+auxpass	closed	is
+acl:relcl	circuit	closed
+punct	bulb	.

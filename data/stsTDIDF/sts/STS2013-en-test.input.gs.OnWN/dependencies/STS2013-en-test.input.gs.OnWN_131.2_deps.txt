@@ -1,0 +1,8 @@
+root	ROOT	break
+xcomp	break	open
+cc	open	or
+conj:or	open	apart
+advmod	open	suddenly
+cc	suddenly	and
+conj:and	suddenly	forcefully
+punct	break	.

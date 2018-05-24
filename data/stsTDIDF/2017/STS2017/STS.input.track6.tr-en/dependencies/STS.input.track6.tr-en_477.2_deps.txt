@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	trying	girl
+aux	trying	is
+root	ROOT	trying
+mark	beat	to
+xcomp	trying	beat
+dobj	beat	someone
+case	match	in
+det	match	a
+compound	match	bowling
+nmod:in	beat	match
+punct	trying	.

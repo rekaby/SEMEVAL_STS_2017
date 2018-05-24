@@ -1,0 +1,10 @@
+nmod:poss	order	JAL
+case	JAL	's
+amod	order	first
+nsubj	blow	order
+case	Airbus	from
+nmod:from	order	Airbus
+cop	blow	is
+root	ROOT	blow
+case	Boeing	to
+nmod:to	blow	Boeing

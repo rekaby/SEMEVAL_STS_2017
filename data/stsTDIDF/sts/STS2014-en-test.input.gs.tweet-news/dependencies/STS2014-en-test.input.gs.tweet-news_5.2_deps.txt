@@ -1,0 +1,7 @@
+nsubj	bill	What
+cop	bill	's
+case	bill	in
+nmod:poss	bill	Feinstein
+case	Feinstein	's
+root	ROOT	bill
+punct	bill	?

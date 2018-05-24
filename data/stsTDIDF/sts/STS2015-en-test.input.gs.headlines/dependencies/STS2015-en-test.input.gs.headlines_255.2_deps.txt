@@ -1,0 +1,7 @@
+compound	Derailment	Train
+nsubj	Kills	Derailment
+root	ROOT	Kills
+dobj	Kills	4
+case	York	in
+compound	York	New
+nmod:in	4	York

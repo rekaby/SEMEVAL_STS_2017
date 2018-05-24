@@ -1,0 +1,8 @@
+root	ROOT	Least
+nummod	hours	ten
+nummod	hours	five
+dobj	Least	hours
+case	morning	of
+det	morning	the
+nmod:of	hours	morning
+punct	Least	.

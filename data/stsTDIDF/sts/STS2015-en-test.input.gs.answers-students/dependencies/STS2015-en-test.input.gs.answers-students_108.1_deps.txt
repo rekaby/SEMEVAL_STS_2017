@@ -1,0 +1,11 @@
+det	battery	The
+nsubj	have	battery
+aux	have	will
+root	ROOT	have
+det	state	a
+amod	state	different
+amod	state	electrical
+dobj	have	state
+case	circuit	than
+det	circuit	the
+nmod:than	state	circuit

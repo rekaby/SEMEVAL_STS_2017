@@ -1,0 +1,7 @@
+det	man	A
+nsubj	calling	man
+aux	calling	is
+root	ROOT	calling
+nmod:poss	girlfriend	his
+dobj	calling	girlfriend
+punct	calling	.

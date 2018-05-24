@@ -1,0 +1,7 @@
+det	plane	A
+root	ROOT	plane
+acl	plane	flying
+case	distance	at
+det	distance	a
+nmod:at	flying	distance
+punct	plane	.

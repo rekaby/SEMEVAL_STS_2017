@@ -1,0 +1,8 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	14
+case	station	at
+amod	station	Russian
+compound	station	train
+nmod:at	kills	station

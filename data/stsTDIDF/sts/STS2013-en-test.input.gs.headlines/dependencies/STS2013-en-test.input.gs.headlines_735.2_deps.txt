@@ -1,0 +1,9 @@
+nummod	rockets	10
+root	ROOT	rockets
+case	minutes	in
+nummod	minutes	20
+nmod:in	rockets	minutes
+case	Council	in
+compound	Council	Eshkol
+compound	Council	Regional
+nmod:in	minutes	Council

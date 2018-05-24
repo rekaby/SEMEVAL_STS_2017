@@ -1,0 +1,10 @@
+nsubj	Move	Germany
+mark	Move	to
+root	ROOT	Move
+nummod	Tons	674
+dobj	Move	Tons
+case	#europe	of
+compound	#europe	Gold
+compound	#europe	#germany
+nmod:of	Tons	#europe
+dobj	Move	#USA

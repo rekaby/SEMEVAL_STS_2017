@@ -1,0 +1,16 @@
+nsubj	said	Officials
+case	Brandeis	at
+nmod:at	Officials	Brandeis
+root	ROOT	said
+nsubj	time	this
+cop	time	was
+det	time	an
+punct	time	``
+advmod	heartrending	extremely
+amod	time	heartrending
+punct	time	''
+ccomp	said	time
+case	campus	for
+det	campus	the
+nmod:for	time	campus
+punct	said	.

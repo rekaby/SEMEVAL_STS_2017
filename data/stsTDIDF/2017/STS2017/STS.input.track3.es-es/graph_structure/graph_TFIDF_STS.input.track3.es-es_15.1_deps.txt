@@ -1,0 +1,7 @@
+takes	photo	dobj
+water	is	cop
+takes	man	nsubj
+photo	girl	nmod:of
+takes	water	conj:and
+water	near	case
+water	she	nsubj

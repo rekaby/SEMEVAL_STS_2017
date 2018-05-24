@@ -1,0 +1,14 @@
+det	system	a
+root	ROOT	system
+case	which	by
+nmod:agent	exchanged	which
+nummod	currency	one
+nsubjpass	exchanged	currency
+auxpass	exchanged	is
+acl:relcl	system	exchanged
+case	another	for
+nmod:for	exchanged	another
+punct	system	,
+acl	system	enabling
+amod	transactions	international
+dobj	enabling	transactions

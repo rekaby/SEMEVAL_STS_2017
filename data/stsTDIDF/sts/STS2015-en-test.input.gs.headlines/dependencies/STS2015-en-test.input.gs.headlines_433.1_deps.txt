@@ -1,0 +1,8 @@
+nmod:poss	Musharraf	Pakistan
+case	Pakistan	's
+nsubj	Assassination	Musharraf
+case	Arrest	Under
+nmod:under	Musharraf	Arrest
+case	Bhutto	in
+nmod:in	Arrest	Bhutto
+root	ROOT	Assassination

@@ -1,0 +1,10 @@
+nummod	men	Six
+nsubj	jumping	men
+cc	men	and
+conj:and	men	women
+root	ROOT	jumping
+compound:prt	jumping	up
+case	beach	on
+det	beach	a
+nmod:on	jumping	beach
+punct	jumping	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	runs	man
+root	ROOT	runs
+case	truck	with
+det	truck	a
+nmod:with	runs	truck
+punct	runs	.

@@ -1,0 +1,8 @@
+root	ROOT	ok
+punct	ok	,
+nsubj	point	that
+cop	point	's
+det	point	a
+amod	point	good
+acl:relcl	ok	point
+punct	ok	.

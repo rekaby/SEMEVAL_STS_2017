@@ -1,0 +1,7 @@
+det	kind	What
+dep	is	kind
+case	socket	of
+nmod:of	kind	socket
+root	ROOT	is
+nsubj	is	this
+punct	is	?

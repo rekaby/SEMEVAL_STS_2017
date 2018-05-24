@@ -1,0 +1,9 @@
+root	ROOT	draw
+case	cases	from
+amod	cases	specific
+nmod:from	draw	cases
+case	cases	for
+amod	cases	more
+amod	cases	general
+nmod:for	draw	cases
+punct	draw	.

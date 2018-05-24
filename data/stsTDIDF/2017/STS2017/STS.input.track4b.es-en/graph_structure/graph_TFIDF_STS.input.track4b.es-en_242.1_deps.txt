@@ -1,0 +1,16 @@
+vote	House	nsubj
+passed	which	nsubj
+required	Act	nsubj
+passed	August	nmod:in
+Act	passed	acl:relcl
+amendment	budget	compound
+vote	amendment	nmod:on
+vote	that	mark
+amendment	on	case
+Act	Control	compound
+Act	,	punct
+Act	Budget	compound
+House	both	cc:preconj
+amendment	balanced	amod
+Act	The	det
+required	vote	ccomp

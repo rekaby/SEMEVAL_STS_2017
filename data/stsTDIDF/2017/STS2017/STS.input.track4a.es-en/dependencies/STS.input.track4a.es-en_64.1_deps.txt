@@ -1,0 +1,7 @@
+det	nose	The
+nsubj	has	nose
+root	ROOT	has
+det	mucus	a
+dobj	has	mucus
+advmod	mucus	inside
+punct	has	.

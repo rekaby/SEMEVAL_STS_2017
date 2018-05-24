@@ -1,0 +1,15 @@
+det	boy	The
+nsubj	wearing	boy
+aux	wearing	is
+root	ROOT	wearing
+det	jacket	a
+amod	jacket	blue
+dobj	wearing	jacket
+cc	jacket	and
+det	t-shirt	a
+amod	t-shirt	pink
+conj:and	jacket	t-shirt
+mark	playing	while
+advcl	wearing	playing
+advmod	playing	outside
+punct	wearing	.

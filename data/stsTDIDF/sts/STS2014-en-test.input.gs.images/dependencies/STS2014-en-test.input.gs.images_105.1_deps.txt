@@ -1,0 +1,11 @@
+det	flock	The
+nsubjpass	spread	flock
+case	sheep	of
+nmod:of	flock	sheep
+auxpass	spread	are
+root	ROOT	spread
+compound:prt	spread	out
+case	field	in
+det	field	the
+nmod:in	spread	field
+punct	spread	.

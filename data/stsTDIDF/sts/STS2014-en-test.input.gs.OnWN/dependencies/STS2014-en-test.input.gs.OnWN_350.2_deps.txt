@@ -1,0 +1,11 @@
+root	ROOT	resist
+advmod	introduction	immunologically
+det	introduction	the
+dobj	resist	introduction
+case	tissue	of
+det	tissue	some
+amod	tissue	foreign
+nmod:of	introduction	tissue
+cc	tissue	or
+conj:or	tissue	organ
+punct	resist	.

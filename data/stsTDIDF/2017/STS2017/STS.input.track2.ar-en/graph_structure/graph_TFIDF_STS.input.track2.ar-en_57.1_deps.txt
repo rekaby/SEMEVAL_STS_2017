@@ -1,0 +1,8 @@
+pass	so	mark
+pass	may	aux
+breaks	pass	advcl
+sign	down	case
+breaks	sign	nmod:down
+breaks	Superman	nsubj
+ROOT	breaks	root
+pass	group	nsubj

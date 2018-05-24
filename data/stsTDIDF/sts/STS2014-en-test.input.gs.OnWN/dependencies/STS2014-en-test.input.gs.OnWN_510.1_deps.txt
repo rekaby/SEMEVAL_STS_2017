@@ -1,0 +1,8 @@
+det	action	the
+root	ROOT	action
+mark	placing	of
+acl	action	placing
+cc	placing	or
+conj:or	placing	situating
+det	object	an
+dobj	placing	object

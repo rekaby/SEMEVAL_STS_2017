@@ -1,0 +1,7 @@
+beach	at	case
+couple	and	cc
+day	beach	nmod:at
+enjoy	day	dobj
+enjoy	couple	nsubj
+couple	child	conj:and
+child	their	nmod:poss

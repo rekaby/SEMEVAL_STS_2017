@@ -1,0 +1,10 @@
+case	supermarket	At
+det	supermarket	a
+nmod:at	buying	supermarket
+punct	buying	,
+nsubj	buying	people
+aux	buying	are
+root	ROOT	buying
+nmod:poss	groceries	their
+dobj	buying	groceries
+punct	buying	.

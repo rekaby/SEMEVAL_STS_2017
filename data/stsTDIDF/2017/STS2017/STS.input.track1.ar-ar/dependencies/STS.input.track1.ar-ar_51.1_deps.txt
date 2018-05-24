@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+neg	women	no
+nsubj	are	women
+case	street	on
+det	street	the
+nmod:on	women	street
+acl	street	wearing
+dobj	wearing	green
+punct	are	.

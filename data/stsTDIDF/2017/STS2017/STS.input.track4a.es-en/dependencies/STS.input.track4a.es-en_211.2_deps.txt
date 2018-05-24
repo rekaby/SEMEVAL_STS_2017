@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	building
+det	house	a
+dobj	building	house
+punct	man	.

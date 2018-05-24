@@ -1,0 +1,11 @@
+advmod	blackout	how
+mark	blackout	to
+root	ROOT	blackout
+det	window	a
+amod	window	large
+compound	window	bedroom
+dobj	blackout	window
+case	budget	on
+det	budget	a
+nmod:on	blackout	budget
+punct	blackout	?

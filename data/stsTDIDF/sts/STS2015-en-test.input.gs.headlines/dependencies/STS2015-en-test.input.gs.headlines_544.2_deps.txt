@@ -1,0 +1,7 @@
+compound	Restaurant	Bombing
+amod	Restaurant	Outside
+root	ROOT	Restaurant
+case	Pakistan	in
+nmod:in	Restaurant	Pakistan
+dep	Restaurant	Wounds
+nummod	Wounds	15

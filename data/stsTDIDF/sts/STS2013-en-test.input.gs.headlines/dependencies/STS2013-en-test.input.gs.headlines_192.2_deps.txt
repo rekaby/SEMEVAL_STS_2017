@@ -1,0 +1,10 @@
+nsubj	has	Romney
+punct	has	,
+case	comeback	in
+nmod:in	has	comeback
+punct	has	,
+root	ROOT	has
+amod	caucus	narrow
+compound	caucus	Maine
+dobj	has	caucus
+dep	has	win

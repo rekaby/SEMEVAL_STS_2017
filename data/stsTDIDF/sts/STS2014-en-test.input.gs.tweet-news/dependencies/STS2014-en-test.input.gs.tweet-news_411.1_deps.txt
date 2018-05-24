@@ -1,0 +1,13 @@
+nsubj	dead	He
+cop	dead	's
+root	ROOT	dead
+punct	dead	!-4) root(ROOT-0, ?-1) punct(says-3, :
+nsubj	says	Venezuela
+root	ROOT	says
+compound	Chavez	Hugo
+nmod:poss	condition	Chavez
+case	Chavez	's
+nsubj	improving	condition
+aux	improving	is
+ccomp	says	improving
+punct	says	?

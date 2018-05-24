@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	swim	dogs
+root	ROOT	swim
+case	pool	in
+det	pool	a
+nmod:in	swim	pool
+punct	swim	.

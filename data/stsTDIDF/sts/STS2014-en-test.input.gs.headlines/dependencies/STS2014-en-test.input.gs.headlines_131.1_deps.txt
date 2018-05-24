@@ -1,0 +1,5 @@
+nummod	die	32
+nsubj	protest	die
+case	Bangladesh	in
+nmod:in	die	Bangladesh
+root	ROOT	protest

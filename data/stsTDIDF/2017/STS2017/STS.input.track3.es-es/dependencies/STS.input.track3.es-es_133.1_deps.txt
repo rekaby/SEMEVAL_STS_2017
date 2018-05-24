@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	finishing	boy
+root	ROOT	finishing
+nmod:poss	cone	his
+compound	cone	ice
+compound	cone	cream
+dobj	finishing	cone
+xcomp	finishing	grimaces
+case	camera	at
+det	camera	the
+nmod:at	grimaces	camera
+punct	finishing	.

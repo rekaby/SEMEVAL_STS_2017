@@ -1,0 +1,10 @@
+nsubj	agrees	Eurozone
+root	ROOT	agrees
+mark	lend	to
+xcomp	agrees	lend
+dobj	lend	Spain
+case	$	up
+case	$	to
+nmod:to	lend	$
+compound	billion	125
+nummod	$	billion

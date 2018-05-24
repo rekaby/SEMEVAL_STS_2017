@@ -1,0 +1,5 @@
+nsubj	resigns	Capello
+root	ROOT	resigns
+case	England	as
+nmod:as	resigns	England
+dobj	resigns	manager

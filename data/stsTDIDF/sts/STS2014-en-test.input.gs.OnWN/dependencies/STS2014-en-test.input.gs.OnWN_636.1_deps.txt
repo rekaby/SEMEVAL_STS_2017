@@ -1,0 +1,6 @@
+root	ROOT	ascribe
+cc	ascribe	or
+conj:or	ascribe	place
+case	association	in
+nmod:in	ascribe	association
+dep	ascribe	with

@@ -1,0 +1,15 @@
+nummod	women	Two
+nsubj	waiting	women
+root	ROOT	waiting
+case	light	for
+det	light	the
+nmod:for	waiting	light
+case	crossing	of
+det	crossing	the
+amod	crossing	pedestrian
+nmod:of	light	crossing
+mark	change	to
+xcomp	crossing	change
+case	green	to
+nmod:to	change	green
+punct	waiting	.

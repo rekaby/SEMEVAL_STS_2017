@@ -1,0 +1,4 @@
+book	on	case
+something	book	nmod:on
+writes	Someone	nsubj
+writes	something	dobj

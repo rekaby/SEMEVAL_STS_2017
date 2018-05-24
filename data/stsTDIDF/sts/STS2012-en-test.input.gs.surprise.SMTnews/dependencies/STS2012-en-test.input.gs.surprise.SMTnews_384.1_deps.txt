@@ -1,0 +1,15 @@
+advmod	entitled	Indeed
+punct	entitled	,
+det	Gauchet	the
+amod	Gauchet	French
+compound	Gauchet	philosopher
+compound	Gauchet	Marcel
+nsubj	entitled	Gauchet
+root	ROOT	entitled
+det	Democracy	a
+amod	Democracy	recent
+compound	Democracy	book
+dobj	entitled	Democracy
+case	Itself	Against
+nmod:against	Democracy	Itself
+punct	entitled	.

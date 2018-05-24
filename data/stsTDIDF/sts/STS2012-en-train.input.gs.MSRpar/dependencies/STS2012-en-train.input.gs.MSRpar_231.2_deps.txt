@@ -1,0 +1,17 @@
+compound	dogs	Prairie
+nsubj	indigenous	dogs
+punct	dogs	,
+advmod	found	usually
+acl	dogs	found
+case	states	in
+amod	states	southwestern
+cc	southwestern	and
+conj:and	southwestern	western
+nmod:in	found	states
+punct	dogs	,
+cop	indigenous	are
+neg	indigenous	n't
+root	ROOT	indigenous
+case	Wisconsin	to
+nmod:to	indigenous	Wisconsin
+punct	indigenous	.

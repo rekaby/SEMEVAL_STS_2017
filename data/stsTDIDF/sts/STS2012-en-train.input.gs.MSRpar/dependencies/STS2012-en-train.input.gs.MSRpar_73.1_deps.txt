@@ -1,0 +1,13 @@
+nsubjpass	taken	He
+auxpass	taken	was
+root	ROOT	taken
+case	hospital	to
+det	hospital	a
+nmod:to	taken	hospital
+case	X-rays	for
+amod	X-rays	precautionary
+nmod:for	taken	X-rays
+case	neck	on
+nmod:poss	neck	his
+nmod:on	X-rays	neck
+punct	taken	.

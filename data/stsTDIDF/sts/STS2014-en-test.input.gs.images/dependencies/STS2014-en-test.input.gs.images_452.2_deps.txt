@@ -1,0 +1,10 @@
+det	drives	A
+amod	drives	double
+compound	drives	decker
+compound	drives	bus
+root	ROOT	drives
+case	street	on
+det	street	a
+compound	street	city
+nmod:on	drives	street
+punct	drives	.

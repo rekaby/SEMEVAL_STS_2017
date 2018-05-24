@@ -1,0 +1,9 @@
+expl	's	There
+root	ROOT	's
+det	boy	a
+nsubj	's	boy
+acl	boy	riding
+det	skateboard	a
+dobj	riding	skateboard
+advmod	riding	outside
+punct	's	.

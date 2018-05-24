@@ -1,0 +1,11 @@
+umbrella	an	det
+child	with	case
+walks	child	nmod:with
+child	protected	acl
+walks	woman	nsubj
+protected	umbrella	nmod:by
+umbrella	by	case
+rain	in	case
+walks	outside	compound:prt
+child	small	amod
+walks	rain	nmod:in

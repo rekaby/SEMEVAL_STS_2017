@@ -1,0 +1,15 @@
+advmod	mentioned	also
+root	ROOT	mentioned
+mark	favor	that
+det	administration	the
+amod	administration	bush
+nsubj	favor	administration
+cop	favor	is
+neg	favor	not
+case	favor	in
+ccomp	mentioned	favor
+mark	raising	of
+acl	favor	raising
+amod	wage	minimum
+dobj	raising	wage
+punct	mentioned	.

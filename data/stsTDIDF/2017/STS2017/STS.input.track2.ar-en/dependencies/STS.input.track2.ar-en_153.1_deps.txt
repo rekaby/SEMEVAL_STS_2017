@@ -1,0 +1,16 @@
+nsubjpass	dressed	Someone
+auxpass	dressed	is
+root	ROOT	dressed
+case	clothing	in
+nmod:in	dressed	clothing
+cc	dressed	and
+conj:and	dressed	putting
+nmod:poss	face	her
+dobj	putting	face
+case	tube	in
+mwe	in	front
+mwe	in	of
+det	tube	a
+amod	tube	talking
+nmod:in_front_of	putting	tube
+punct	dressed	.

@@ -1,0 +1,13 @@
+nsubj	sent	someone
+root	ROOT	sent
+case	mission	on
+det	mission	a
+nmod:on	sent	mission
+mark	represent	to
+acl	mission	represent
+det	interests	the
+dobj	represent	interests
+case	someone	of
+nmod:of	interests	someone
+advmod	someone	else
+punct	sent	.

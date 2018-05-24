@@ -1,0 +1,7 @@
+root	ROOT	influence
+cc	influence	or
+conj:or	influence	control
+dep	influence	shrewdly
+cc	shrewdly	or
+conj:or	shrewdly	deviously
+punct	influence	.

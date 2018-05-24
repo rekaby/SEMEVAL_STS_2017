@@ -1,0 +1,5 @@
+det	dog	A
+nsubj	barking	dog
+aux	barking	is
+root	ROOT	barking
+punct	barking	.

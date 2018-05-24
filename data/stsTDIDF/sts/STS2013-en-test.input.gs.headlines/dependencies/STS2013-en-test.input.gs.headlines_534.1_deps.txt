@@ -1,0 +1,8 @@
+compound	lawyer	ICC
+root	ROOT	lawyer
+acl	lawyer	detained
+case	Libya	in
+nmod:in	detained	Libya
+case	concerns	on
+compound	concerns	security
+nmod:on	detained	concerns

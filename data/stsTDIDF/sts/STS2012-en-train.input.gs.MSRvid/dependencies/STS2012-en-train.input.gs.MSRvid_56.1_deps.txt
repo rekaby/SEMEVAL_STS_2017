@@ -1,0 +1,6 @@
+det	person	A
+nsubj	folds	person
+root	ROOT	folds
+det	tortilla	a
+dobj	folds	tortilla
+punct	folds	.

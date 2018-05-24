@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	kids	of
+nmod:of	group	kids
+acl	group	having
+det	time	a
+amod	time	good
+dobj	having	time
+punct	group	.

@@ -1,0 +1,9 @@
+compound	presses	UN
+nsubj	need	presses
+root	ROOT	need
+case	boost	for
+amod	boost	major
+nmod:for	need	boost
+case	aid	in
+amod	aid	Syrian
+nmod:in	boost	aid

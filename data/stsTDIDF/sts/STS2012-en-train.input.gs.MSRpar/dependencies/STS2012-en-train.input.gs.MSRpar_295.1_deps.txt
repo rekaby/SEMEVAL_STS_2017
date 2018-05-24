@@ -1,0 +1,15 @@
+nsubj	advance	It
+cop	advance	was
+det	advance	the
+amod	advance	best
+root	ROOT	advance
+case	Oct.	since
+nmod:since	advance	Oct.
+nummod	Oct.	1
+punct	Oct.	,
+advmod	gained	when
+det	index	the
+nsubj	gained	index
+acl:relcl	Oct.	gained
+dobj	gained	22.25
+punct	advance	.

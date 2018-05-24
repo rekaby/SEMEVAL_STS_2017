@@ -1,0 +1,8 @@
+compound	Order	Pakistani
+compound	Order	Official
+compound	Order	Refuses
+root	ROOT	Order
+mark	Arrest	to
+acl	Order	Arrest
+compound	Minister	Prime
+dobj	Arrest	Minister

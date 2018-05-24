@@ -1,0 +1,7 @@
+root	ROOT	Assign
+det	time	a
+amod	time	new
+dobj	Assign	time
+case	event	for
+det	event	an
+nmod:for	time	event

@@ -1,0 +1,8 @@
+root	ROOT	pass
+case	state	into
+det	state	a
+amod	state	specified
+nmod:into	pass	state
+cc	state	or
+conj:or	state	condition
+punct	pass	.

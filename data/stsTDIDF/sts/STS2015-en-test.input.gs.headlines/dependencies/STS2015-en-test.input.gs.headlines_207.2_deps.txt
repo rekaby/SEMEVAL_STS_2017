@@ -1,0 +1,6 @@
+nsubj	meets	Obama
+root	ROOT	meets
+amod	negotiators	Israeli
+punct	Israeli	,
+dep	Israeli	Palestinian
+dobj	meets	negotiators

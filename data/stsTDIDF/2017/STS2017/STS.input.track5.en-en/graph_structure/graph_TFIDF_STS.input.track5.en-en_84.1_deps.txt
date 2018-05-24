@@ -1,0 +1,5 @@
+ROOT	field	root
+field	man	nsubj
+field	.	punct
+field	is	cop
+field	deserted	amod

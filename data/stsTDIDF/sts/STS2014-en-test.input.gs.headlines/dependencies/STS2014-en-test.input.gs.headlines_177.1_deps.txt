@@ -1,0 +1,6 @@
+root	ROOT	Profiles
+case	candidates	of
+nmod:poss	candidates	Kenya
+case	Kenya	's
+amod	candidates	presidential
+nmod:of	Profiles	candidates

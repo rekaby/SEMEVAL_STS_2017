@@ -1,0 +1,11 @@
+amod	markets	Asian
+nsubj	hit	markets
+root	ROOT	hit
+amod	high	3-wk
+dobj	hit	high
+case	hopes	on
+nmod:on	hit	hopes
+case	deal	of
+compound	deal	US
+compound	deal	debt
+nmod:of	hopes	deal

@@ -1,0 +1,14 @@
+det	office	A
+compound	office	home
+root	ROOT	office
+case	monitors	with
+nummod	monitors	three
+compound	monitors	computer
+nmod:with	office	monitors
+cc	monitors	and
+amod	equipment	other
+conj:and	monitors	equipment
+case	desk	on
+det	desk	a
+nmod:on	equipment	desk
+punct	office	.

@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+case	horse	on
+det	horse	the
+amod	horse	brown
+nmod:on	riding	horse
+punct	riding	.

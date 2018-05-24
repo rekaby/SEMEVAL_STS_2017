@@ -1,0 +1,9 @@
+beach	over	case
+birds	of	case
+beach	sandy	amod
+hovered	beach	nmod:over
+hovered	.	punct
+flock	A	det
+flock	birds	nmod:of
+ROOT	hovered	root
+hovered	flock	nsubj

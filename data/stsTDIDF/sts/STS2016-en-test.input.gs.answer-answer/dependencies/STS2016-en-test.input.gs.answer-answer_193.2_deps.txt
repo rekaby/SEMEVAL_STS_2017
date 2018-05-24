@@ -1,0 +1,8 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	used	on
+advmod	used	how
+nsubjpass	used	it
+auxpass	used	's
+advcl	depends	used
+punct	depends	.

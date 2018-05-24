@@ -1,0 +1,13 @@
+det	Marlins	The
+nsubj	said	Marlins
+advmod	said	only
+root	ROOT	said
+punct	said	:
+punct	said	``
+det	issue	The
+nsubjpass	resolved	issue
+aux	resolved	has
+auxpass	resolved	been
+ccomp	said	resolved
+punct	said	.
+punct	said	''

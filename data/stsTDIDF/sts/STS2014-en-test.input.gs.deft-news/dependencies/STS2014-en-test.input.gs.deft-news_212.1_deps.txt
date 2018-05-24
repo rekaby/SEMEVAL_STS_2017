@@ -1,0 +1,9 @@
+nsubj	ratified	russia
+root	ROOT	ratified
+det	version	the
+amod	version	amended
+dobj	ratified	version
+case	treaty	of
+det	treaty	the
+nmod:of	version	treaty
+punct	ratified	.

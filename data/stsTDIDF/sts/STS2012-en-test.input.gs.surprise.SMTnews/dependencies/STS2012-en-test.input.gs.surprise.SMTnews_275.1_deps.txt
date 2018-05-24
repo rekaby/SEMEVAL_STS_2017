@@ -1,0 +1,13 @@
+nsubj	spirit	That
+cop	spirit	is
+det	spirit	the
+root	ROOT	spirit
+case	which	in
+nmod:in	written	which
+det	Constitution	the
+amod	Constitution	European
+nsubjpass	written	Constitution
+aux	written	must
+auxpass	written	be
+acl:relcl	spirit	written
+punct	spirit	.

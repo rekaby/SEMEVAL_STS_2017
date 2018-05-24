@@ -1,0 +1,14 @@
+case	example	For
+nmod:for	exist	example
+punct	exist	,
+det	program	a
+nsubj	exist	program
+aux	exist	could
+root	ROOT	exist
+mark	model	to
+xcomp	exist	model
+amod	forms	different
+dobj	model	forms
+case	transport	of
+nmod:of	forms	transport
+punct	exist	.

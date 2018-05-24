@@ -1,0 +1,17 @@
+advmod	triumph	Perhaps
+det	line	the
+amod	line	hard
+nsubj	triumph	line
+aux	triumph	will
+root	ROOT	triumph
+punct	triumph	;
+advmod	triumph	However
+punct	triumph	,
+det	Spring	the
+compound	Spring	Arab
+nsubj	change	Spring
+aux	change	can
+parataxis	triumph	change
+nmod:poss	calculations	its
+dobj	change	calculations
+punct	triumph	.

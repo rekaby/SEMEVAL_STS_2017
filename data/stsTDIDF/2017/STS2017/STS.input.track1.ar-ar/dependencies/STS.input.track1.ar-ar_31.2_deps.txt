@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	has	woman
+acl	woman	wearing
+det	pink	a
+dobj	wearing	pink
+cc	pink	and
+amod	clothes	black
+conj:and	pink	clothes
+punct	has	,
+root	ROOT	has
+det	tattoo	a
+amod	tattoo	large
+dobj	has	tattoo
+case	back	on
+nmod:poss	back	her
+nmod:on	tattoo	back
+punct	has	.

@@ -1,0 +1,7 @@
+nsubj	waiting	Adam
+aux	waiting	is
+root	ROOT	waiting
+mark	rob	to
+xcomp	waiting	rob
+dobj	rob	people
+punct	waiting	.

@@ -1,0 +1,13 @@
+nsubj	rose	Sales
+root	ROOT	rose
+dobj	rose	37
+case	cent	per
+nmod:per	37	cent
+amod	cent	year-on-year
+case	bn	to
+nummod	bn	1.76
+nmod:to	year-on-year	bn
+punct	rose	,
+advcl	rose	beating
+dobj	beating	expectations
+punct	rose	.

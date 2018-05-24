@@ -1,0 +1,7 @@
+amod	earthquake	Powerful
+amod	earthquake	new
+root	ROOT	earthquake
+acl	earthquake	hits
+amod	region	shattered
+compound	region	Pakistan
+dobj	hits	region

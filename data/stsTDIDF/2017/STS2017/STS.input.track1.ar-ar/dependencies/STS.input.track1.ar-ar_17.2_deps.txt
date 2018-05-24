@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	people
+acl	people	dressed
+case	white	in
+nmod:in	dressed	white
+acl	white	staring
+case	horses	at
+nmod:at	staring	horses
+punct	are	.

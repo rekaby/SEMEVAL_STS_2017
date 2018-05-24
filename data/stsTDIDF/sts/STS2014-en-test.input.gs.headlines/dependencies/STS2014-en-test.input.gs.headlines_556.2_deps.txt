@@ -1,0 +1,7 @@
+amod	opposition	Syrian
+root	ROOT	opposition
+mark	name	to
+acl	opposition	name
+dobj	name	delegation
+case	talks	for
+nmod:for	name	talks

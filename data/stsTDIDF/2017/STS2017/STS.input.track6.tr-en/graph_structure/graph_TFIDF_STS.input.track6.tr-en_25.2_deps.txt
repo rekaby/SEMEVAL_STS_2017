@@ -1,0 +1,9 @@
+capture	counselor	dobj
+cowboy	is	cop
+cowboy	trying	acl
+cowboy	.	punct
+cowboy	Rodeoda	nsubj
+cowboy	a	det
+trying	capture	xcomp
+counselor	a	det
+ROOT	cowboy	root

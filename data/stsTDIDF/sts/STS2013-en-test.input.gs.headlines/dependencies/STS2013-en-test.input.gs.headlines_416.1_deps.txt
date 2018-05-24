@@ -1,0 +1,6 @@
+compound	Variety	Trade
+compound	Variety	newspaper
+root	ROOT	Variety
+compound:prt	Variety	up
+case	sale	for
+nmod:for	Variety	sale

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+amod	pepper	big
+dobj	cutting	pepper
+punct	cutting	.

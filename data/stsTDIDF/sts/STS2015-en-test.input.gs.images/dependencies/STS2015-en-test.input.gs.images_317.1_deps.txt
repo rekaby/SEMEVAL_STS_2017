@@ -1,0 +1,12 @@
+det	man	A
+nsubj	riding	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	riding	are
+root	ROOT	riding
+dobj	riding	bikes
+case	street	on
+det	street	a
+nmod:on	riding	street
+punct	riding	.

@@ -1,0 +1,17 @@
+amod	shipments	Total
+nsubj	reached	shipments
+root	ROOT	reached
+compound	million	19.5
+nummod	units	million
+dobj	reached	units
+amod	year	last
+nmod:tmod	reached	year
+punct	reached	,
+case	units	compared
+mwe	compared	with
+compound	million	8.9
+nummod	units	million
+advcl:compared_with	reached	units
+case	2001	in
+nmod:in	units	2001
+punct	reached	.

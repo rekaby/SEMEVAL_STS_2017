@@ -1,0 +1,14 @@
+det	player	A
+amod	player	female
+compound	player	tennis
+nsubj	leaping	player
+aux	leaping	is
+root	ROOT	leaping
+case	air	into
+det	air	the
+nmod:into	leaping	air
+mark	hit	to
+xcomp	leaping	hit
+det	ball	the
+dobj	hit	ball
+punct	leaping	.

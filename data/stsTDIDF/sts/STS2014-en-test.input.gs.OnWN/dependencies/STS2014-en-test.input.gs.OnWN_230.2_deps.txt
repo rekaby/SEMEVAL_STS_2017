@@ -1,0 +1,14 @@
+root	ROOT	place
+case	line	in
+det	line	a
+nmod:in	place	line
+cc	place	or
+conj:or	place	arrange
+advmod	parallel	so
+mark	parallel	as
+mark	parallel	to
+cop	parallel	be
+advcl	arrange	parallel
+cc	parallel	or
+conj:or	parallel	straight
+punct	place	.

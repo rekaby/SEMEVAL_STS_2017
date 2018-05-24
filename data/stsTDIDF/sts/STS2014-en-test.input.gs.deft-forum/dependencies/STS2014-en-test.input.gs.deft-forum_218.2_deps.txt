@@ -1,0 +1,13 @@
+nummod	word	One
+root	ROOT	word
+punct	word	:
+nsubj	used	Zombies
+aux	used	Has
+nsubj	used	Annie
+advmod	used	ever
+dep	word	used
+nmod:poss	sexuality	her
+dobj	used	sexuality
+case	that	like
+nmod:like	used	that
+punct	used	?

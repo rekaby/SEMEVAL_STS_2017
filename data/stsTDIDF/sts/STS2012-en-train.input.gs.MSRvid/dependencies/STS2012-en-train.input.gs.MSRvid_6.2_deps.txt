@@ -1,0 +1,6 @@
+det	person	A
+nsubj	preparing	person
+aux	preparing	is
+root	ROOT	preparing
+dobj	preparing	shrimp
+punct	preparing	.

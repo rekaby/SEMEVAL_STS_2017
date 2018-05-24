@@ -1,0 +1,8 @@
+det	car	A
+nsubj	driving	car
+aux	driving	is
+root	ROOT	driving
+compound:prt	driving	down
+det	road	the
+dobj	driving	road
+punct	driving	.

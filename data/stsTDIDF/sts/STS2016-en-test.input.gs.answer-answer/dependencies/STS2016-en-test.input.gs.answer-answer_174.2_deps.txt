@@ -1,0 +1,8 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	plan	that
+cop	plan	's
+det	plan	a
+amod	plan	great
+ccomp	think	plan
+punct	think	.

@@ -1,0 +1,14 @@
+advmod	spoil	Why
+root	ROOT	spoil
+det	Palestinians	the
+amod	Palestinians	capricious
+dobj	spoil	Palestinians
+mark	giving	by
+advcl	spoil	giving
+iobj	giving	them
+det	state	a
+dobj	giving	state
+case	own	of
+nmod:poss	own	their
+nmod:of	state	own
+punct	spoil	?

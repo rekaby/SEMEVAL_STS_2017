@@ -1,0 +1,13 @@
+det	child	A
+nsubj	board	child
+case	orange	in
+nmod:in	child	orange
+cop	board	is
+case	board	on
+det	board	a
+compound	board	boogie
+root	ROOT	board
+case	waves	in
+det	waves	the
+nmod:in	board	waves
+punct	board	.

@@ -1,0 +1,8 @@
+root	ROOT	Wal-Mart
+mark	Announce	to
+acl	Wal-Mart	Announce
+amod	Plan	Extensive
+dobj	Announce	Plan
+mark	Hire	to
+acl	Plan	Hire
+dobj	Hire	Veterans

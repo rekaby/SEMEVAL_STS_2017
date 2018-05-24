@@ -1,0 +1,9 @@
+compound	government	Philippines
+nsubj	says	government
+root	ROOT	says
+compound	talks	peace
+nsubj	failed	talks
+case	communists	with
+nmod:with	talks	communists
+aux	failed	have
+ccomp	says	failed

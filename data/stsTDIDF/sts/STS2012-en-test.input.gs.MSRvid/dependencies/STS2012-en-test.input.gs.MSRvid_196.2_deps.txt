@@ -1,0 +1,15 @@
+det	man	A
+nsubj	driving	man
+cc	man	and
+conj:and	man	woman
+aux	driving	are
+root	ROOT	driving
+case	road	down
+det	road	the
+nmod:down	driving	road
+case	vehicle	in
+det	vehicle	an
+amod	vehicle	open
+compound	vehicle	air
+nmod:in	driving	vehicle
+punct	driving	.

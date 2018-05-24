@@ -1,0 +1,12 @@
+det	amount	This
+root	ROOT	amount
+dep	amount	would
+ccomp	would	be
+advmod	be	twice
+dep	twice	that
+acl	that	produced
+case	plants	by
+amod	plants	nuclear
+compound	plants	power
+nmod:by	produced	plants
+punct	amount	.

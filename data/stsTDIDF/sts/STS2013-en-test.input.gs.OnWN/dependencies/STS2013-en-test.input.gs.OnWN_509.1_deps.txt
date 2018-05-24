@@ -1,0 +1,6 @@
+det	area	the
+amod	area	central
+root	ROOT	area
+case	object	of
+det	object	an
+nmod:of	area	object

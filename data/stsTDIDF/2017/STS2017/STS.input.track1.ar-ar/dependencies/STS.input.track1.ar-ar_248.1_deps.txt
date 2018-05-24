@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	skating	a
+amod	skating	yellow
+dobj	wearing	skating
+punct	man	,
+acl	man	jumping
+compound:prt	jumping	over
+det	barrel	a
+dobj	jumping	barrel
+punct	man	.

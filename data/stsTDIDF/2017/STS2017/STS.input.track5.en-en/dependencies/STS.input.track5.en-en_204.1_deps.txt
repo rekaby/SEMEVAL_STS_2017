@@ -1,0 +1,9 @@
+det	helicopter	A
+nsubj	getting	helicopter
+aux	getting	is
+root	ROOT	getting
+xcomp	getting	ready
+mark	take	to
+xcomp	ready	take
+compound:prt	take	off
+punct	getting	.

@@ -1,0 +1,6 @@
+nsubj	free	Tourists
+acl	Tourists	kidnapped
+case	Egypt	in
+nmod:in	kidnapped	Egypt
+cop	free	are
+root	ROOT	free

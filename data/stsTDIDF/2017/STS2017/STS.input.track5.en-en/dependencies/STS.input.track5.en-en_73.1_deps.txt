@@ -1,0 +1,17 @@
+det	slides	A
+amod	slides	small
+amod	slides	blond
+compound	slides	boy
+nsubj	head	slides
+root	ROOT	head
+advmod	slide	first
+case	slide	down
+det	slide	a
+amod	slide	blue
+compound	slide	playground
+nmod:down	head	slide
+case	youth	toward
+det	youth	another
+amod	youth	blond
+nmod:toward	slide	youth
+punct	head	.

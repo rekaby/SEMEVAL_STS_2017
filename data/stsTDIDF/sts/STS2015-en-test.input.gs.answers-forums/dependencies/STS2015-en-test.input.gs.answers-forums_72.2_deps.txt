@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+det	cases	some
+nsubj	are	cases
+punct	status	``
+nsubjpass	accounted	status
+punct	status	''
+aux	accounted	may
+auxpass	accounted	be
+acl:relcl	cases	accounted
+case	countable	of
+nmod:of	accounted	countable
+punct	are	.

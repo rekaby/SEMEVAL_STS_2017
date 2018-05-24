@@ -1,0 +1,14 @@
+det	man	a
+root	ROOT	man
+acl	man	wearing
+det	standing	a
+amod	standing	grey
+compound	standing	jacket
+dobj	wearing	standing
+case	side	on
+det	side	the
+nmod:on	standing	side
+case	street	of
+det	street	a
+nmod:of	side	street
+punct	man	.

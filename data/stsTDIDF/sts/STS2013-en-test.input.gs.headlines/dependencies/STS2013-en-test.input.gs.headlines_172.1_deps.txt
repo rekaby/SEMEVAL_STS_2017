@@ -1,0 +1,9 @@
+amod	Demjanjuk	Former
+amod	Demjanjuk	Nazi
+compound	Demjanjuk	death
+compound	Demjanjuk	camp
+compound	Demjanjuk	guard
+nsubj	dead	Demjanjuk
+root	ROOT	dead
+case	91	at
+nmod:at	dead	91

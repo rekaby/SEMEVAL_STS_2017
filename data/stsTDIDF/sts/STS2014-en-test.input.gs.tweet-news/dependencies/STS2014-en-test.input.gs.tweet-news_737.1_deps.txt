@@ -1,0 +1,12 @@
+case	trial	On
+root	ROOT	trial
+case	use	over
+det	use	the
+amod	use	illegal
+nmod:over	trial	use
+case	parts	of
+compound	parts	sea
+compound	parts	unicorn
+nmod:of	use	parts
+punct	trial	:
+dep	trial	#dailywhale

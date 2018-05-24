@@ -1,0 +1,6 @@
+root	ROOT	23
+acl	23	killed
+case	bombings	in
+compound	bombings	Iraq
+compound	bombings	car
+nmod:in	killed	bombings

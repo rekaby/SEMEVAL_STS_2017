@@ -1,0 +1,14 @@
+det	man	A
+nsubj	walks	man
+case	suit	in
+det	suit	a
+amod	suit	white
+nmod:in	man	suit
+root	ROOT	walks
+compound:prt	walks	down
+det	street	the
+dobj	walks	street
+acl	street	holding
+det	newspaper	a
+dobj	holding	newspaper
+punct	walks	.

@@ -1,0 +1,7 @@
+det	man	A
+amod	man	young
+root	ROOT	man
+acl	man	turning
+det	screwdriver	a
+dobj	turning	screwdriver
+punct	man	.

@@ -1,0 +1,8 @@
+root	ROOT	lessen
+case	force	in
+nmod:in	lessen	force
+punct	lessen	,
+dep	lessen	impact
+punct	impact	,
+cc	impact	or
+conj:or	impact	effect

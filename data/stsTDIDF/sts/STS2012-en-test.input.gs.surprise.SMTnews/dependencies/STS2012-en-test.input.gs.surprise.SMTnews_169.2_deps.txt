@@ -1,0 +1,12 @@
+case	all	After
+nmod:after	have	all
+punct	have	,
+nsubj	have	they
+root	ROOT	have
+dobj	have	policies
+nsubj	take	that
+acl:relcl	policies	take
+cc	take	or
+neg	consideration	no
+conj:or	take	consideration
+punct	have	.

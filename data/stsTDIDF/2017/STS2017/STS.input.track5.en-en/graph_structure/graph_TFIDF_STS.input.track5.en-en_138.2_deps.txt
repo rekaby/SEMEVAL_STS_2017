@@ -1,0 +1,5 @@
+playing	game	nmod:in
+player	basketball	compound
+player	playing	acl
+game	coming	amod
+player	A	det

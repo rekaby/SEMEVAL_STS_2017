@@ -1,0 +1,7 @@
+compound	York	Miss
+compound	York	New
+nsubj	wins	York
+root	ROOT	wins
+compound	crown	Miss
+compound	crown	America
+dobj	wins	crown

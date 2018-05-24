@@ -1,0 +1,16 @@
+mark	mind	If
+nsubj	mind	you
+aux	mind	do
+neg	mind	n't
+advcl	solution	mind
+dep	solution	hosting
+nmod:poss	files	your
+dobj	hosting	files
+nsubj	solution	online
+punct	online	,
+appos	online	SlideShare
+cop	solution	is
+det	solution	a
+amod	solution	good
+root	ROOT	solution
+punct	solution	.

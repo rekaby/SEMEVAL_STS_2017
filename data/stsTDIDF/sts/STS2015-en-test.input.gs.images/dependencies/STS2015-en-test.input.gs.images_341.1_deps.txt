@@ -1,0 +1,11 @@
+compound	standing	Man
+root	ROOT	standing
+case	rocks	on
+mwe	on	top
+mwe	on	of
+amod	rocks	jagged
+nmod:on_top_of	standing	rocks
+case	ocean	near
+det	ocean	the
+nmod:near	rocks	ocean
+punct	standing	.

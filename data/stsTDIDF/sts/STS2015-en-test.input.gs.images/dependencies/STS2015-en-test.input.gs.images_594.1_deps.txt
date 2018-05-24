@@ -1,0 +1,11 @@
+nummod	men	Two
+nsubj	sit	men
+root	ROOT	sit
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	sit	sidewalk
+case	stores	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	sit	stores
+punct	sit	.

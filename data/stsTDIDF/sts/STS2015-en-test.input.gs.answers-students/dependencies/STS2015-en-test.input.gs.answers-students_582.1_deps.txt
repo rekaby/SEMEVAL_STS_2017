@@ -1,0 +1,12 @@
+advmod	papth	When
+det	switch	the
+nsubj	papth	switch
+cop	papth	is
+case	papth	in
+det	papth	the
+amod	papth	same
+root	ROOT	papth
+case	bulb	as
+det	bulb	the
+nmod:as	papth	bulb
+punct	papth	.

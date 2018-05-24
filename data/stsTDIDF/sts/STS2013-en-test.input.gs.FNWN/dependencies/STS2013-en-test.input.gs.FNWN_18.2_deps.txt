@@ -1,0 +1,9 @@
+det	concept	a
+root	ROOT	concept
+case	quantity	of
+nmod:of	concept	quantity
+acl	quantity	involving
+dobj	involving	zero
+cc	zero	and
+conj:and	zero	units
+punct	concept	;

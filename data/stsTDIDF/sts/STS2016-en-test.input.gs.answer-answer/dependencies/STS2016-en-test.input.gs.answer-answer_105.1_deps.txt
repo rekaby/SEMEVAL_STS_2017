@@ -1,0 +1,9 @@
+nsubj	tip	This
+cop	tip	is
+det	tip	the
+root	ROOT	tip
+nsubj	find	I
+acl:relcl	tip	find
+advmod	useful	most
+xcomp	find	useful
+punct	tip	:

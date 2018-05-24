@@ -1,0 +1,12 @@
+det	lady	A
+nsubj	looking	lady
+acl	lady	dressed
+case	kimono	in
+det	kimono	a
+nmod:in	dressed	kimono
+aux	looking	is
+root	ROOT	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	looking	.

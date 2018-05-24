@@ -1,0 +1,7 @@
+bicycle	on	case
+Wins	person	dep
+ROOT	Wins	root
+Wins	race	dobj
+bicycle	a	det
+person	bicycle	nmod:on
+person	BMX	dep

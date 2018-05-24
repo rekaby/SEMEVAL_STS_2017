@@ -1,0 +1,8 @@
+compound	Tendulkar	MP
+compound	Tendulkar	Sachin
+nsubj	says	Tendulkar
+root	ROOT	says
+neg	govt	no
+mark	govt	to
+xcomp	says	govt
+dobj	govt	bungalow

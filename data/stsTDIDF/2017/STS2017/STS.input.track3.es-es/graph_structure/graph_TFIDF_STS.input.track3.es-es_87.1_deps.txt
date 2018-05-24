@@ -1,0 +1,4 @@
+man	dog	conj:and
+dog	his	nmod:poss
+mountain	a	det
+dog	mountain	nmod:on_top_of

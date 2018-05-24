@@ -1,0 +1,9 @@
+compound	bombs	Car
+nsubj	kill	bombs
+root	ROOT	kill
+case	least	at
+nmod:npmod	47	least
+dobj	kill	47
+case	Baghdad	in
+nmod:in	kill	Baghdad
+dobj	kill	area

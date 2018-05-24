@@ -1,0 +1,13 @@
+root	ROOT	contend
+case	opponent	against
+det	opponent	an
+nmod:against	contend	opponent
+case	sport	in
+det	sport	a
+nmod:in	opponent	sport
+punct	contend	,
+dep	contend	game
+punct	game	,
+cc	game	or
+conj:or	game	battle
+punct	contend	;

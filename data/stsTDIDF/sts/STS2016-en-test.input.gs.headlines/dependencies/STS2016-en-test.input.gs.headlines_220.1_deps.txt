@@ -1,0 +1,8 @@
+compound	Korea	North
+root	ROOT	Korea
+mark	put	to
+acl	Korea	put
+compound	citizen	US
+dobj	put	citizen
+case	trial	on
+nmod:on	put	trial

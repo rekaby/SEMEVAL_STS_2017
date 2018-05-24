@@ -1,0 +1,13 @@
+det	problem	the
+nsubj	is	problem
+advcl	going	is
+punct	going	,
+nsubj	going	you
+aux	going	are
+root	ROOT	going
+case	people	after
+nmod:after	going	people
+advmod	you	just
+case	you	like
+nmod:like	going	you
+punct	going	.

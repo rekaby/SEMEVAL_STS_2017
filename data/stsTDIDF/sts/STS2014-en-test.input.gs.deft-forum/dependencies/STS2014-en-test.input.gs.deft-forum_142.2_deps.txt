@@ -1,0 +1,11 @@
+det	bailout	The
+nsubj	bigger	bailout
+cop	bigger	was
+root	ROOT	bigger
+case	TARP	than
+nmod:than	bigger	TARP
+det	title	This
+nsubj	misleading	title
+aux	misleading	is
+acl:relcl	TARP	misleading
+punct	bigger	.

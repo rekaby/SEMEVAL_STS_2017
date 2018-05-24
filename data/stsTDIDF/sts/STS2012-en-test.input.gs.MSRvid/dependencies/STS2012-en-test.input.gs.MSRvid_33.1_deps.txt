@@ -1,0 +1,8 @@
+det	panda	A
+nsubj	sliding	panda
+aux	sliding	is
+root	ROOT	sliding
+compound:prt	sliding	down
+det	slide	a
+dobj	sliding	slide
+punct	sliding	.

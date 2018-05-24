@@ -1,0 +1,5 @@
+nsubj	marks	Norway
+root	ROOT	marks
+dobj	marks	anniversary
+case	massacre	of
+nmod:of	anniversary	massacre

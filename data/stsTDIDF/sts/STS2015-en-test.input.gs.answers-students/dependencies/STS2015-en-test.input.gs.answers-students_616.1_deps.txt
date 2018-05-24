@@ -1,0 +1,16 @@
+compound	A	Bulb
+nsubj	path	A
+cop	path	is
+neg	path	not
+case	path	on
+det	path	the
+amod	path	same
+root	ROOT	path
+dobj	are	that
+compound	B	Bulb
+nsubj	are	B
+cc	B	and
+compound	C	bulb
+conj:and	B	C
+acl:relcl	path	are
+punct	path	.

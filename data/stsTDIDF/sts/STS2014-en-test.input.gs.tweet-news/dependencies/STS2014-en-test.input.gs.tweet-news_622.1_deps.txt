@@ -1,0 +1,12 @@
+nsubj	odd	This
+cop	odd	is
+root	ROOT	odd
+punct	odd	!-4) root(ROOT-0, tsk
+punct	tsk	!-2) punct(argues-4, -
+amod	hospital	Catholic
+nsubj	argues	hospital
+root	ROOT	argues
+compound	person	fetus
+neg	person	not
+det	person	a
+dobj	argues	person

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	sits	woman
+root	ROOT	sits
+advmod	sits	alone
+case	wall	against
+det	wall	a
+compound	wall	brick
+nmod:against	sits	wall

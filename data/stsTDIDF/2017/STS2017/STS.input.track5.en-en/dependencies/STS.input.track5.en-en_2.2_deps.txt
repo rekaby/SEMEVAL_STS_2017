@@ -1,0 +1,6 @@
+det	car	The
+nsubj	needs	car
+root	ROOT	needs
+case	work	to
+det	work	some
+nmod:to	needs	work

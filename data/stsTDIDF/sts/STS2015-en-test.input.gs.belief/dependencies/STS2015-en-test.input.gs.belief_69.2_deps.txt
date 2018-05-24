@@ -1,0 +1,7 @@
+nsubj	is	depression
+root	ROOT	is
+advmod	lose	when
+nsubj	lose	you
+advcl	is	lose
+dobj	lose	yours
+punct	is	.

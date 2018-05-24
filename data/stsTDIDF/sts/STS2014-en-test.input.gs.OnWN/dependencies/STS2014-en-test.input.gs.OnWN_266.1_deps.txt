@@ -1,0 +1,8 @@
+det	inclusion	the
+root	ROOT	inclusion
+case	members	of
+det	members	all
+nmod:of	inclusion	members
+case	sets	of
+amod	sets	mathematical
+nmod:of	members	sets

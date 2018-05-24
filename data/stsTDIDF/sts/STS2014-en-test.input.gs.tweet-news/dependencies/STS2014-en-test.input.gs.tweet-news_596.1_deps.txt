@@ -1,0 +1,11 @@
+amod	stories	Harrowing
+root	ROOT	stories
+punct	stories	:
+amod	limbs	Broken
+dep	stories	limbs
+punct	limbs	,
+amod	lives	torn
+conj	limbs	lives
+case	#Mali	in
+amod	#Mali	northern
+nmod:in	lives	#Mali

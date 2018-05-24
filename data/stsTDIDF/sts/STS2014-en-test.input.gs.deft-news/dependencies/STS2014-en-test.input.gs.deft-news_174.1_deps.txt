@@ -1,0 +1,15 @@
+det	lawyer	the
+nsubjpass	reached	lawyer
+case	karras	of
+compound	karras	michael
+nmod:of	reached	karras
+dep	reached	named
+compound	dhillon	s.s.
+nsubjpass	reached	dhillon
+aux	reached	could
+neg	reached	not
+auxpass	reached	be
+root	ROOT	reached
+case	comment	for
+nmod:for	reached	comment
+punct	reached	.

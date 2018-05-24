@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+compound	shirt	print
+nmod:in	man	shirt
+cc	shirt	and
+det	woman	a
+conj:and	shirt	woman
+case	dress	in
+det	dress	a
+amod	dress	black
+nmod:in	woman	dress
+dep	dress	dancing
+punct	man	.

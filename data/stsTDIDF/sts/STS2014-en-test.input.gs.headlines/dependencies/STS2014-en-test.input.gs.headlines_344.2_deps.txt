@@ -1,0 +1,9 @@
+amod	markets	Asian
+root	ROOT	markets
+acl	markets	lifted
+case	US	by
+amod	US	positive
+nmod:by	lifted	US
+punct	markets	,
+compound	data	China
+appos	markets	data

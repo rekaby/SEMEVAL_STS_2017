@@ -1,0 +1,16 @@
+det	person	A
+nsubj	sticks	person
+root	ROOT	sticks
+nmod:poss	head	their
+dobj	sticks	head
+case	tent	out
+mwe	out	of
+det	tent	a
+nmod:out_of	sticks	tent
+case	top	at
+det	top	the
+nmod:at	sticks	top
+case	mountain	of
+det	mountain	a
+nmod:of	top	mountain
+punct	sticks	.

@@ -1,0 +1,7 @@
+root	ROOT	turn
+mark	get	in
+mark	get	to
+acl	turn	get
+dobj	get	something
+case	exchange	in
+nmod:in	get	exchange

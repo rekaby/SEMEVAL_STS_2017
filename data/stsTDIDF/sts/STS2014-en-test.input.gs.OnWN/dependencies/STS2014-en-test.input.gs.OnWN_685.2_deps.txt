@@ -1,0 +1,7 @@
+det	degree	the
+amod	degree	greatest
+amod	degree	possible
+root	ROOT	degree
+case	something	of
+nmod:of	degree	something
+punct	degree	.

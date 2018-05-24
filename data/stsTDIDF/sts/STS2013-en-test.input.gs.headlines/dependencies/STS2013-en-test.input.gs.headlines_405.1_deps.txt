@@ -1,0 +1,8 @@
+nsubj	offers	US
+root	ROOT	offers
+dobj	offers	US$
+nummod	US$	10
+dep	US$	mil
+punct	offers	.-6) case(Pakistan-2, for
+nmod:for	militant	Pakistan
+root	ROOT	militant

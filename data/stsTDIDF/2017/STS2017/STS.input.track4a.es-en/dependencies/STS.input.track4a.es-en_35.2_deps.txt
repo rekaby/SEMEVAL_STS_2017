@@ -1,0 +1,17 @@
+expl	is	There
+root	ROOT	is
+det	group	a
+nsubj	is	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+advmod	standing	around
+punct	is	,
+advcl	is	looking
+mark	waiting	like
+nsubj	waiting	they
+aux	waiting	are
+advcl	looking	waiting
+case	something	for
+nmod:for	waiting	something
+punct	is	.

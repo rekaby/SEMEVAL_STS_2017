@@ -1,0 +1,10 @@
+root	ROOT	What
+cop	What	was
+det	meaning	the
+nsubj	What	meaning
+case	grams	of
+punct	grams	``
+nummod	grams	21
+nmod:of	meaning	grams
+punct	grams	''
+punct	What	?

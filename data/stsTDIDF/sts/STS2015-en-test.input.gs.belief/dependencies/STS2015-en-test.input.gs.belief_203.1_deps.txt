@@ -1,0 +1,8 @@
+nsubj	happened	what
+root	ROOT	happened
+case	responsibility	to
+amod	responsibility	personal
+nmod:to	happened	responsibility
+cc	responsibility	and
+conj:and	responsibility	accountability
+punct	happened	?

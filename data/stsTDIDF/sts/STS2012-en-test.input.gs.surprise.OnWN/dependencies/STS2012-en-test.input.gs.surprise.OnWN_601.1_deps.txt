@@ -1,0 +1,12 @@
+det	throw	A
+amod	throw	successful
+root	ROOT	throw
+cc	throw	or
+conj:or	throw	try
+case	point	for
+det	point	a
+nmod:for	try	point
+case	touchdown	after
+det	touchdown	a
+nmod:after	point	touchdown
+punct	throw	.

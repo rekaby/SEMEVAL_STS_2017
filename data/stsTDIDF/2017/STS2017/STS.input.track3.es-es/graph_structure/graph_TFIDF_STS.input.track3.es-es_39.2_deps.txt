@@ -1,0 +1,8 @@
+building	large	amod
+building	outside	case
+standing	child	nsubj
+child	balloon	nmod:with
+balloon	with	case
+balloon	a	det
+balloon	green	amod
+standing	building	nmod:outside

@@ -1,0 +1,16 @@
+det	interpretation	The
+nsubj	one	interpretation
+case	position	of
+det	position	the
+amod	position	dominant
+compound	position	market
+nmod:of	interpretation	position
+cop	one	is
+root	ROOT	one
+case	points	of
+det	points	the
+amod	points	many
+nmod:of	one	points
+case	contention	of
+nmod:of	points	contention
+punct	one	.

@@ -1,0 +1,20 @@
+nsubj	Went	I
+root	ROOT	Went
+case	Guns	After
+nmod:after	Went	Guns
+punct	Went	.-5) nsubj(Can-2, Obama
+root	ROOT	Can
+punct	Can	,
+advmod	Can	Too
+punct	Can	.-5) root(ROOT-0, One
+case	things	of
+det	things	the
+amod	things	only
+nmod:of	One	things
+nsubj	agree	I
+aux	agree	would
+acl:relcl	things	agree
+case	Howard	with
+nmod:with	agree	Howard
+advmod	agree	on
+punct	One	.

@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	embrace	woman
+cc	woman	and
+det	man	a
+conj:and	woman	man
+root	ROOT	embrace
+mark	watching	while
+advcl	embrace	watching
+det	movie	a
+compound	movie	horror
+dobj	watching	movie
+punct	embrace	.

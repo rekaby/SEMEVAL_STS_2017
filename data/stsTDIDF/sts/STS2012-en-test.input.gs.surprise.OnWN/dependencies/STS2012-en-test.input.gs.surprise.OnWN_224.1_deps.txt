@@ -1,0 +1,7 @@
+det	cut	a
+amod	cut	slight
+root	ROOT	cut
+case	surface	in
+det	surface	a
+amod	surface	physical
+nmod:in	cut	surface

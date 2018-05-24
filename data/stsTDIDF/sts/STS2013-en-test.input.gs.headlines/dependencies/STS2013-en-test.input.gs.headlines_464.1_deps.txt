@@ -1,0 +1,7 @@
+nsubj	blames	Sudan
+root	ROOT	blames
+dobj	blames	Israel
+case	fire	for
+compound	fire	Khartoum
+compound	fire	arms
+nmod:for	blames	fire

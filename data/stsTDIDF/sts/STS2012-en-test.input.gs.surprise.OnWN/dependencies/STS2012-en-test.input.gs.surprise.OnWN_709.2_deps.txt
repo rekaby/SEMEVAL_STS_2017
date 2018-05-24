@@ -1,0 +1,11 @@
+root	ROOT	intend
+punct	something	-LRB-
+dep	intend	something
+punct	something	-RRB-
+mark	move	to
+xcomp	intend	move
+case	goal	towards
+det	goal	a
+amod	goal	certain
+nmod:towards	move	goal
+punct	intend	.

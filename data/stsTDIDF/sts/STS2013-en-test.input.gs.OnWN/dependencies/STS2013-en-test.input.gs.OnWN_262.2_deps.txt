@@ -1,0 +1,9 @@
+root	ROOT	take
+cc	take	or
+conj:or	take	have
+det	position	a
+dobj	take	position
+amod	position	relative
+case	others	to
+nmod:to	relative	others
+punct	take	.

@@ -1,0 +1,14 @@
+det	shares	Some
+compound	million	34.7
+nummod	shares	million
+nsubjpass	tendered	shares
+aux	tendered	have
+auxpass	tendered	been
+ccomp	said	tendered
+punct	said	,
+nsubj	said	Oracle
+root	ROOT	said
+case	statement	in
+det	statement	a
+nmod:in	said	statement
+punct	said	.

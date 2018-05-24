@@ -1,0 +1,10 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	cake	some
+dobj	eating	cake
+mark	walks	as
+nsubj	walks	he
+advcl	eating	walks
+punct	eating	.

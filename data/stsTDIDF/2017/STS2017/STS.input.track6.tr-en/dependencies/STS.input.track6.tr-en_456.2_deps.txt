@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+cc	girl	and
+det	woman	a
+nsubj	smile	woman
+conj:and	girl	smile
+case	camera	to
+det	camera	the
+nmod:to	smile	camera
+punct	girl	.

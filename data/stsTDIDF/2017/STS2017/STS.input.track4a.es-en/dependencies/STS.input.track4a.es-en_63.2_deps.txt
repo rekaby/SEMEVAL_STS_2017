@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	cab	woman
+cop	cab	is
+case	cab	in
+det	cab	a
+compound	cab	taxi
+root	ROOT	cab
+punct	cab	.

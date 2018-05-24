@@ -1,0 +1,14 @@
+nsubj	has	it
+advmod	has	always
+root	ROOT	has
+det	voltage	the
+amod	voltage	same
+dobj	has	voltage
+case	reaction	due
+mwe	due	to
+det	reaction	a
+amod	reaction	chemical
+nmod:due_to	voltage	reaction
+case	it	inside
+mwe	inside	of
+nmod:inside_of	reaction	it

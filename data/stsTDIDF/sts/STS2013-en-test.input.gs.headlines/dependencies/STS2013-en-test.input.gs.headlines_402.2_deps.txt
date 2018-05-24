@@ -1,0 +1,7 @@
+amod	Quake	Strong
+compound	Quake	Italy
+nsubj	Kills	Quake
+root	ROOT	Kills
+case	Least	at
+nmod:at	Kills	Least
+nummod	Least	Six

@@ -1,0 +1,9 @@
+images	taken	acl:relcl
+images	on	case
+show	during	case
+Get	images	nmod:on
+Get	choir	dobj
+choir	the	det
+taken	show	nmod:during
+Get	.	punct
+ROOT	Get	root

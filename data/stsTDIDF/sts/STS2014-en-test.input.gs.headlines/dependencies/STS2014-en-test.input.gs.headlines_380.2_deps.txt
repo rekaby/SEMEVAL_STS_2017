@@ -1,0 +1,9 @@
+root	ROOT	India
+punct	India	:
+compound	Gas	Tear
+compound	Protesters	Gas
+compound	Protesters	Fired
+case	Rape	At
+compound	Rape	Gang
+nmod:at	Fired	Rape
+dep	India	Protesters

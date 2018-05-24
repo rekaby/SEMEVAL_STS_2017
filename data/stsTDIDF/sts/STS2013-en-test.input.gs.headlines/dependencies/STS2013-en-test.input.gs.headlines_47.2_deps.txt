@@ -1,0 +1,8 @@
+nsubj	proposed	Abbas
+root	ROOT	proposed
+case	PM	as
+nmod:as	proposed	PM
+case	unity	in
+amod	unity	interim
+nmod:in	proposed	unity
+dobj	proposed	government

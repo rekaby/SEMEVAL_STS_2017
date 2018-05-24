@@ -1,0 +1,16 @@
+det	person	A
+nsubj	touching	person
+case	vest	in
+det	vest	a
+amod	vest	red
+nmod:in	person	vest
+aux	touching	is
+root	ROOT	touching
+det	skates	the
+amod	skates	blue
+compound	skates	ice
+dobj	touching	skates
+case	person	on
+det	person	another
+nmod:on	touching	person
+punct	touching	.

@@ -1,0 +1,7 @@
+root	ROOT	decide
+det	time	a
+amod	time	specific
+dobj	decide	time
+case	event	for
+det	event	an
+nmod:for	time	event

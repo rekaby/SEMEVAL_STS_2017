@@ -1,0 +1,15 @@
+root	ROOT	Slap
+dobj	Slap	Shot
+punct	Shot	:
+compound	Voting	N.H.L.
+compound	Voting	Players
+compound	Voting	Begin
+dep	Shot	Voting
+case	Deal	on
+compound	Deal	Labor
+nmod:on	Voting	Deal
+punct	Voting	;
+compound	Expected	Approval
+appos	Voting	Expected
+case	Saturday	by
+nmod:by	Expected	Saturday

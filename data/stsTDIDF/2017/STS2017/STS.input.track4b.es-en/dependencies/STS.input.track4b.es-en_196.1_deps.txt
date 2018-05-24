@@ -1,0 +1,10 @@
+advmod	make	Maybe
+nsubj	make	this
+aux	make	will
+root	ROOT	make
+nmod:poss	struggle	their
+nsubj	bloodier	struggle
+xcomp	make	bloodier
+case	before	than
+nmod:than	bloodier	before
+punct	make	.

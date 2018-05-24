@@ -1,0 +1,13 @@
+det	case	The
+nsubj	decided	case
+root	ROOT	decided
+nmod:tmod	decided	Monday
+dep	decided	centered
+case	fund-raiser	around
+det	fund-raiser	an
+compound	fund-raiser	Illinois
+nmod:around	centered	fund-raiser
+punct	fund-raiser	,
+compound	Associates	Telemarketing
+appos	fund-raiser	Associates
+punct	decided	.

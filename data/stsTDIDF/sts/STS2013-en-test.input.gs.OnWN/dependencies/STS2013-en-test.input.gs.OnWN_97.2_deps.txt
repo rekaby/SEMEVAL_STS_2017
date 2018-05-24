@@ -1,0 +1,7 @@
+root	ROOT	move
+case	sieve	as
+case	sieve	if
+case	sieve	through
+det	sieve	a
+nmod:through	move	sieve
+punct	move	.

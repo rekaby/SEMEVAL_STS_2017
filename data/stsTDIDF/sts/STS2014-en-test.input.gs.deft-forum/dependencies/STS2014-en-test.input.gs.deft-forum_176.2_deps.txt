@@ -1,0 +1,15 @@
+nsubj	believe	I
+aux	believe	do
+neg	believe	n't
+root	ROOT	believe
+expl	was	there
+ccomp	believe	was
+det	iceberg	any
+nsubj	was	iceberg
+case	all	at
+nmod:at	iceberg	all
+advmod	Titanic	anywhere
+case	Titanic	near
+det	Titanic	the
+acl:near	all	Titanic
+punct	believe	.

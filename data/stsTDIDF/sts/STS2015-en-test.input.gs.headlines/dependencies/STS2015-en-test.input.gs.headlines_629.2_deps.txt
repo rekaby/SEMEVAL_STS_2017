@@ -1,0 +1,6 @@
+nsubj	leaves	Mandela
+root	ROOT	leaves
+dobj	leaves	hospital
+case	days	after
+nummod	days	10
+nmod:after	leaves	days

@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	drinking	woman
+aux	drinking	is
+root	ROOT	drinking
+dobj	drinking	lemonade
+cc	drinking	and
+conj:and	drinking	watching
+dobj	watching	T.V.

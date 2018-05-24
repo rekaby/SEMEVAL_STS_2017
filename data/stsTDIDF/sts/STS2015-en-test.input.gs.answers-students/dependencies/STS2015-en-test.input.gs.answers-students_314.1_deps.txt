@@ -1,0 +1,5 @@
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	negative
+nmod:to	connected	terminal

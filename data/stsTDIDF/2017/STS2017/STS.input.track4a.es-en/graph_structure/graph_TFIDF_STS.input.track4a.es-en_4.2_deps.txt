@@ -1,0 +1,10 @@
+swinging	boy	nsubj
+swinging	.	punct
+swing	on	case
+swinging	is	aux
+boy	shirt	nmod:in
+ROOT	swinging	root
+shirt	surfing	compound
+boy	sad	amod
+swing	a	det
+swinging	swing	nmod:on

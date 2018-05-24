@@ -1,0 +1,11 @@
+nsubj	job	that
+cop	job	was
+advmod	job	also
+case	job	about
+det	job	a
+compound	job	blow
+root	ROOT	job
+punct	job	,
+case	course	of
+nmod:of	job	course
+punct	job	.

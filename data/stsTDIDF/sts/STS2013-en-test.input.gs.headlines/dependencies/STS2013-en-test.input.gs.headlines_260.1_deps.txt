@@ -1,0 +1,6 @@
+compound	parliament	Afghan
+nsubj	approves	parliament
+root	ROOT	approves
+amod	pact	U.S.-Afghan
+compound	pact	security
+dobj	approves	pact

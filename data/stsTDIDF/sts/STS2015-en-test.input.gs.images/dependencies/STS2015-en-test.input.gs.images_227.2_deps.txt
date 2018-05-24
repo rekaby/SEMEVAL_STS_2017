@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	stands	girl
+root	ROOT	stands
+xcomp	stands	high
+case	platform	on
+det	platform	an
+compound	platform	obstacle
+compound	platform	course
+nmod:on	high	platform
+punct	stands	.

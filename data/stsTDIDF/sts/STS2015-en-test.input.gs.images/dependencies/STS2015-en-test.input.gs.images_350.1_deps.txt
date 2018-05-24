@@ -1,0 +1,9 @@
+det	group	A
+nsubj	water	group
+case	people	of
+nmod:of	group	people
+cop	water	are
+case	water	in
+det	water	the
+root	ROOT	water
+punct	water	.

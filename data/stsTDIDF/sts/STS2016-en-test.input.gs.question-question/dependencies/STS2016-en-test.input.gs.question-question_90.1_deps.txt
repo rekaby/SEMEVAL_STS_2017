@@ -1,0 +1,11 @@
+advmod	teach	How
+aux	teach	do
+nsubj	teach	I
+root	ROOT	teach
+nmod:poss	toddler	my
+dobj	teach	toddler
+mark	chew	to
+advcl	teach	chew
+nmod:poss	food	his
+dobj	chew	food
+punct	teach	?

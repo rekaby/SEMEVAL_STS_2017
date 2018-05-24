@@ -1,0 +1,10 @@
+root	ROOT	the
+advmod	ordering	last
+cc	last	or
+conj:or	last	lowest
+case	ordering	in
+det	ordering	an
+nmod:in	the	ordering
+cc	ordering	or
+conj:or	ordering	series
+punct	the	.

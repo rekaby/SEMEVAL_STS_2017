@@ -1,0 +1,9 @@
+det	man	A
+nsubj	sledding	man
+cop	sledding	is
+root	ROOT	sledding
+case	slide	on
+det	slide	an
+amod	slide	orange
+nmod:on	sledding	slide
+punct	sledding	.

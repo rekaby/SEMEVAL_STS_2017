@@ -1,0 +1,11 @@
+amod	individuals	additional
+nsubj	subject	individuals
+cc	individuals	and
+conj:and	individuals	entities
+cop	subject	are
+root	ROOT	subject
+case	assets	to
+det	assets	an
+nmod:to	subject	assets
+dep	subject	freeze
+punct	subject	.

@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	man	next
+mwe	next	to
+det	man	a
+nmod:next_to	walking	man
+case	skateboard	on
+det	skateboard	a
+nmod:on	man	skateboard
+punct	walking	.

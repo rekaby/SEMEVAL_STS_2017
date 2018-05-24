@@ -1,0 +1,10 @@
+det	person	A
+nsubj	swimming	person
+acl	person	wearing
+compound	gear	scuba
+dobj	wearing	gear
+aux	swimming	is
+root	ROOT	swimming
+amod	water	underwater
+dobj	swimming	water
+punct	swimming	.

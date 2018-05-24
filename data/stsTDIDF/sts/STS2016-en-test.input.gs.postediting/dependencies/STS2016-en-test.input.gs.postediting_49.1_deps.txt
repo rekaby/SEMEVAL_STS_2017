@@ -1,0 +1,10 @@
+cop	careful	Be
+root	ROOT	careful
+case	grapefruit	of
+nmod:of	careful	grapefruit
+punct	grapefruit	,
+conj:and	grapefruit	orange
+cc	grapefruit	and
+compound	juice	apple
+conj:and	grapefruit	juice
+punct	careful	.

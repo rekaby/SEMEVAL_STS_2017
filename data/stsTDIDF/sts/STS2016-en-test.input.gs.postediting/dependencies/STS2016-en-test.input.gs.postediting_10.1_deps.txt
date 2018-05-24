@@ -1,0 +1,10 @@
+root	ROOT	Moreover
+punct	fascinates	,
+mark	fascinates	if
+amod	side	right
+nsubj	fascinates	side
+case	Naomi	of
+nmod:of	side	Naomi
+dep	Moreover	fascinates
+dobj	fascinates	me
+punct	fascinates	.

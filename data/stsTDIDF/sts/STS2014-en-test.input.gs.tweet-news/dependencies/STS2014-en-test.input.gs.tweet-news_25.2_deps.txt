@@ -1,0 +1,8 @@
+compound	love	U.S.
+punct	love	`
+amod	love	tough
+root	ROOT	love
+punct	love	'
+case	troops	for
+compound	troops	Afghan
+nmod:for	love	troops

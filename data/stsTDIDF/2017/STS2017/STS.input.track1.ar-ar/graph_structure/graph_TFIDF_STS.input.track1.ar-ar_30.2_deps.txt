@@ -1,0 +1,8 @@
+driving	Man	nsubj
+one	cars	nmod:of
+driving	,	punct
+ROOT	driving	root
+driving	seen	advcl
+driving	.	punct
+driving	one	dobj
+seen	truck	nsubj

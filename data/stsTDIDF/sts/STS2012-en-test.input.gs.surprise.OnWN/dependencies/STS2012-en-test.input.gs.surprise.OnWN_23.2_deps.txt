@@ -1,0 +1,12 @@
+compound	furniture	office
+root	ROOT	furniture
+acl	furniture	consisting
+case	container	of
+det	container	a
+nmod:of	consisting	container
+mark	keeping	for
+advcl	consisting	keeping
+dobj	keeping	papers
+case	order	in
+nmod:in	keeping	order
+punct	furniture	.

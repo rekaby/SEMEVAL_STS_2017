@@ -1,0 +1,12 @@
+det	child	The
+root	ROOT	child
+case	coat	in
+det	coat	the
+amod	coat	red
+nmod:in	child	coat
+acl	coat	laid
+case	mat	in
+det	mat	the
+amod	mat	red
+nmod:in	laid	mat
+punct	child	.

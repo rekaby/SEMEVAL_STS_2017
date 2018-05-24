@@ -1,0 +1,6 @@
+nsubj	watch	Students
+root	ROOT	watch
+det	experiment	a
+amod	experiment	scientific
+dobj	watch	experiment
+punct	watch	.

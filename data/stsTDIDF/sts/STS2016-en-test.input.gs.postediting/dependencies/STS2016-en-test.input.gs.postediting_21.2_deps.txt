@@ -1,0 +1,10 @@
+cc	know	But
+nsubj	know	I
+aux	know	do
+neg	know	not
+root	ROOT	know
+advmod	prove	how
+mark	prove	to
+ccomp	know	prove
+dobj	prove	it
+punct	know	.

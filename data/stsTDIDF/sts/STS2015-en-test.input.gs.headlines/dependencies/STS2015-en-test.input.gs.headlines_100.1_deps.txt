@@ -1,0 +1,5 @@
+nsubj	sacks	China
+root	ROOT	sacks
+amod	official	top
+amod	official	economic
+dobj	sacks	official

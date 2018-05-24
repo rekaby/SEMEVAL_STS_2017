@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	blue
+root	ROOT	bird
+acl	bird	perched
+case	hand	on
+det	hand	a
+amod	hand	gloved
+nmod:on	perched	hand
+punct	bird	.

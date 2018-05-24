@@ -1,0 +1,10 @@
+root	ROOT	act
+case	rules	in
+mwe	in	accordance
+mwe	in	with
+nmod:in_accordance_with	act	rules
+punct	rules	,
+conj:or	rules	commands
+punct	rules	,
+cc	rules	or
+conj:or	rules	wishes

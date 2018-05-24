@@ -1,0 +1,4 @@
+root	ROOT	Artist
+punct	Artist	,
+advmod	Artist	here
+punct	Artist	.

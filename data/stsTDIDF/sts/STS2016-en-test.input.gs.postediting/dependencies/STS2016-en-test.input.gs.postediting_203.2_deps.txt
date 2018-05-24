@@ -1,0 +1,12 @@
+det	course	The
+nsubj	well	course
+case	obligations	of
+det	obligations	the
+nmod:of	course	obligations
+punct	well	,
+advmod	well	however
+punct	well	,
+cop	well	are
+advmod	well	particularly
+root	ROOT	well
+punct	well	.

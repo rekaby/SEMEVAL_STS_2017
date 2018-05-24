@@ -1,0 +1,9 @@
+amod	Minister	Russian
+compound	Minister	Prime
+root	ROOT	Minister
+case	Day	On
+compound	Day	Second
+nmod:on	Minister	Day
+case	Crimea	Of
+nmod:of	Day	Crimea
+dep	Minister	Visit

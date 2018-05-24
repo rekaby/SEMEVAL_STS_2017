@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	cuts	woman
+root	ROOT	cuts
+det	loaf	a
+amod	loaf	pink
+dobj	cuts	loaf
+case	knife	with
+det	knife	a
+nmod:with	cuts	knife
+punct	cuts	.

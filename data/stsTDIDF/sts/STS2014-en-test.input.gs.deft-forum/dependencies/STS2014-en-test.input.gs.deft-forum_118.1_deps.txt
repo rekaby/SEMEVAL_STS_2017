@@ -1,0 +1,17 @@
+mark	life	If
+nsubj	life	it
+cop	life	was
+neg	life	n't
+det	life	a
+advcl	able	life
+punct	able	,
+advmod	able	then
+nsubj	able	it
+aux	able	would
+neg	able	not
+cop	able	be
+root	ROOT	able
+mark	born	to
+auxpass	born	be
+xcomp	able	born
+punct	able	.

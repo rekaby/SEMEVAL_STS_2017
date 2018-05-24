@@ -1,0 +1,9 @@
+compound	Korea	North
+nsubj	says	Korea
+root	ROOT	says
+mark	put	to
+xcomp	says	put
+compound	citizen	US
+dobj	put	citizen
+case	trial	on
+nmod:on	put	trial

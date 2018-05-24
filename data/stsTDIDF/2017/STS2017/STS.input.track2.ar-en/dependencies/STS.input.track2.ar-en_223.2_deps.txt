@@ -1,0 +1,9 @@
+det	man	The
+nsubj	jumps	man
+root	ROOT	jumps
+dobj	jumps	Motocross
+mark	watched	while
+det	crowd	the
+nsubj	watched	crowd
+advcl	jumps	watched
+punct	jumps	.

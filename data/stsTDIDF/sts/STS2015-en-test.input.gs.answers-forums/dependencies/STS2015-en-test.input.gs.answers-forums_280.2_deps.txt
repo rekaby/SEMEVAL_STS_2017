@@ -1,0 +1,13 @@
+compound	Turners	Time
+nsubjpass	mentioned	Turners
+auxpass	mentioned	were
+advmod	mentioned	explicitly
+root	ROOT	mentioned
+case	use	for
+nmod:for	mentioned	use
+mark	going	in
+acl	use	going
+advmod	going	back
+case	time	in
+nmod:in	going	time
+punct	mentioned	.

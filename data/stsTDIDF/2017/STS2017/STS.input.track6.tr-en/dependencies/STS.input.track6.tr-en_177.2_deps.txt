@@ -1,0 +1,14 @@
+det	man	A
+nsubj	waiting	man
+case	shirt	with
+det	shirt	a
+amod	shirt	blue
+nmod:with	man	shirt
+aux	waiting	is
+root	ROOT	waiting
+mark	cross	to
+xcomp	waiting	cross
+det	street	the
+amod	street	crowded
+dobj	cross	street
+punct	waiting	.

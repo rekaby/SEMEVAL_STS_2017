@@ -1,0 +1,10 @@
+root	ROOT	fall
+cc	fall	or
+conj:or	fall	descend
+case	place	to
+det	place	a
+amod	place	lower
+nmod:to	fall	place
+cc	place	or
+conj:or	place	level
+punct	fall	.

@@ -1,0 +1,8 @@
+compound	India	WTF
+nsubj	?!!	India
+root	ROOT	?!!-3) nsubj(got-3, This
+aux	got	has
+root	ROOT	got
+mark	stop	to
+xcomp	got	stop
+punct	got	.

@@ -1,0 +1,10 @@
+root	ROOT	Iran
+punct	Iran	,
+det	partner	a
+amod	partner	large
+amod	partner	important
+appos	Iran	partner
+case	Russia	for
+nmod:for	partner	Russia
+punct	Iran	:
+dep	Iran	Novak

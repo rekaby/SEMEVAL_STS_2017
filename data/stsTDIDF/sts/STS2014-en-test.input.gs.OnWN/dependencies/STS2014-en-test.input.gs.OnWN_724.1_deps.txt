@@ -1,0 +1,7 @@
+root	ROOT	Saturate
+cc	Saturate	or
+conj:or	Saturate	inocculate
+case	substance	with
+det	substance	a
+nmod:with	Saturate	substance
+punct	Saturate	.

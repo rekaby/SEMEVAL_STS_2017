@@ -1,0 +1,9 @@
+compound	Rendezvous	IHT
+root	ROOT	Rendezvous
+punct	Rendezvous	:
+compound	Fashion	Green
+appos	Rendezvous	Fashion
+case	Carpet	on
+det	Carpet	the
+compound	Carpet	Red
+nmod:on	Fashion	Carpet

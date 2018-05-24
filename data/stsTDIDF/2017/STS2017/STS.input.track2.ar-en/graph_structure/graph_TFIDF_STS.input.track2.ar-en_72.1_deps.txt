@@ -1,0 +1,6 @@
+catches	zone	nmod:in
+catches	football	dobj
+catches	player	nsubj
+player	A	det
+ROOT	catches	root
+catches	.	punct

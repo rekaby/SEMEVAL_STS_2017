@@ -1,0 +1,16 @@
+case	years	For
+advmod	18	nearly
+nummod	years	18
+nmod:for	steals	years
+punct	steals	,
+dep	steals	the
+dep	steals	space
+dep	steals	borehole
+punct	steals	``
+nsubj	steals	Ulysses
+punct	steals	''
+root	ROOT	steals
+case	area	in
+det	area	the
+nmod:in	steals	area
+punct	steals	.

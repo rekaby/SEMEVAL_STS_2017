@@ -1,0 +1,10 @@
+nsubj	believe	Some
+root	ROOT	believe
+det	important	the
+punct	important	`
+dep	important	right
+punct	important	'
+cop	important	is
+advmod	important	most
+xcomp	believe	important
+punct	believe	.

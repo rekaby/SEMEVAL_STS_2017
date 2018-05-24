@@ -1,0 +1,7 @@
+det	yacht	A
+amod	yacht	wooden
+root	ROOT	yacht
+case	ocean	on
+det	ocean	the
+nmod:on	yacht	ocean
+punct	yacht	.

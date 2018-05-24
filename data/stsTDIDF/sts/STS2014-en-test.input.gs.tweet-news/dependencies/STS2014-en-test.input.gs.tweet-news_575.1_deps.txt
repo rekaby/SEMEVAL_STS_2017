@@ -1,0 +1,20 @@
+root	ROOT	Tragic
+punct	Tragic	.-2) nmod:poss(thoughts-2, My
+nsubj	go	thoughts
+cc	thoughts	and
+conj:and	thoughts	prayers
+root	ROOT	go
+compound:prt	go	out
+case	all	to
+nmod:to	go	all
+punct	go	...
+punct	go	``
+case	least	At
+nmod:npmod	220	least
+dobj	go	220
+acl	220	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	go	''

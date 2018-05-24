@@ -1,0 +1,10 @@
+snow	in	case
+snow	the	det
+dog	red	amod
+playing	snow	nmod:in
+dog	tan	compound
+snow	out	case
+dog	the	det
+playing	dog	nmod:with
+playing	dog	nsubj
+dog	with	case

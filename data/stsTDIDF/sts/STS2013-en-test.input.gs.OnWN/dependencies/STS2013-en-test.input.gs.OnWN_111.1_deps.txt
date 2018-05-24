@@ -1,0 +1,10 @@
+det	act	The
+root	ROOT	act
+mark	talking	of
+acl	act	talking
+case	features	about
+det	features	the
+nmod:about	talking	features
+case	something	of
+nmod:of	features	something
+punct	act	.

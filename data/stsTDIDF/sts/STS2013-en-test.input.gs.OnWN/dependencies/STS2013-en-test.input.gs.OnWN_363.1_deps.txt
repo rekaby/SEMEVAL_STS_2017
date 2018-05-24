@@ -1,0 +1,9 @@
+det	meaning	The
+amod	meaning	intended
+root	ROOT	meaning
+case	instance	of
+det	instance	an
+nmod:of	meaning	instance
+case	communication	of
+nmod:of	instance	communication
+punct	meaning	.

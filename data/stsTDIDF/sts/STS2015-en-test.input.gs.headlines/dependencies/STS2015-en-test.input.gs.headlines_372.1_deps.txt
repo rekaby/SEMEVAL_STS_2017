@@ -1,0 +1,8 @@
+compound	vote	Malaysians
+root	ROOT	vote
+case	polls	in
+nmod:in	vote	polls
+case	stability	for
+nmod:for	polls	stability
+cc	vote	or
+conj:or	vote	change

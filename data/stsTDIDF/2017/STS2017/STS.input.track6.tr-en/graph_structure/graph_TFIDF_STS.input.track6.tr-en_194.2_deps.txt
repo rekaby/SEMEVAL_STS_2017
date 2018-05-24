@@ -1,0 +1,10 @@
+woman	wearing	acl
+object	a	det
+holding	desk	nmod:next_to
+holding	woman	nsubj
+desk	next	case
+desk	home	nmod:in
+holding	object	dobj
+desk	her	nmod:poss
+object	green	amod
+shirt	blue	amod

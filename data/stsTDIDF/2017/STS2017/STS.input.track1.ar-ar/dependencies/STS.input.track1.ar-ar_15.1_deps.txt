@@ -1,0 +1,7 @@
+root	ROOT	Artist
+acl	Artist	trying
+mark	sell	to
+xcomp	trying	sell
+nmod:poss	paintings	his
+dobj	sell	paintings
+punct	Artist	.

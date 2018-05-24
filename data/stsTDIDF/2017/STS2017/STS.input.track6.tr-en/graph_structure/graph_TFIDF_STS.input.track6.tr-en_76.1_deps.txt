@@ -1,0 +1,4 @@
+woman	gray	nmod:in
+gray	in	case
+outside	woman	nsubj
+ROOT	outside	root

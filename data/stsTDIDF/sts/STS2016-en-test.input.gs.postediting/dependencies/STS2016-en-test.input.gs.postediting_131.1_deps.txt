@@ -1,0 +1,9 @@
+nsubj	launched	They
+root	ROOT	launched
+det	watermelons	a
+dobj	launched	watermelons
+case	car	of
+nmod:poss	car	their
+nmod:of	watermelons	car
+punct	watermelons	'
+punct	launched	.

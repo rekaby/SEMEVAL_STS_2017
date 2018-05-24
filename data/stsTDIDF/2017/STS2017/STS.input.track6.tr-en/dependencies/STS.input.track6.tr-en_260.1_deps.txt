@@ -1,0 +1,11 @@
+det	closeup	A
+root	ROOT	closeup
+case	women	of
+nummod	women	two
+nmod:of	closeup	women
+acl	women	wearing
+dobj	wearing	bags
+case	heads	on
+nmod:poss	heads	their
+nmod:on	wearing	heads
+punct	closeup	.

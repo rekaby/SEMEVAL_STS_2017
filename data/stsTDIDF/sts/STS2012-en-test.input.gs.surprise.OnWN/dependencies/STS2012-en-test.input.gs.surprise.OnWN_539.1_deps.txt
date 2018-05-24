@@ -1,0 +1,7 @@
+root	ROOT	make
+cc	make	or
+conj:or	make	become
+advmod	strict	less
+xcomp	become	strict
+cc	strict	or
+conj:or	strict	severe

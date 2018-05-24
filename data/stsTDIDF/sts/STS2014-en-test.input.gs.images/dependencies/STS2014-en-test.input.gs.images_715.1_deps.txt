@@ -1,0 +1,13 @@
+det	woman	An
+amod	woman	elderly
+nsubj	catches	woman
+root	ROOT	catches
+det	ride	a
+dobj	catches	ride
+case	back	on
+det	back	the
+nmod:on	ride	back
+case	bicycle	of
+det	bicycle	the
+nmod:of	back	bicycle
+punct	catches	.

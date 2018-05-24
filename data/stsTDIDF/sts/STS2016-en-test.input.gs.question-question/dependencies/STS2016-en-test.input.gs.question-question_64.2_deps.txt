@@ -1,0 +1,16 @@
+advmod	know	How
+aux	know	do
+nsubj	know	I
+csubj	safe	know
+mark	left	if
+nsubj	left	food
+advcl	know	left
+case	temperature	at
+compound	temperature	room
+nmod:at	left	temperature
+cop	safe	is
+advmod	safe	still
+root	ROOT	safe
+mark	eat	to
+xcomp	safe	eat
+punct	safe	?

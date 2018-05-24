@@ -1,0 +1,12 @@
+det	free	a
+amod	free	successful
+nsubj	throw	free
+root	ROOT	throw
+cc	throw	or
+conj:or	throw	try
+case	point	for
+nmod:for	try	point
+case	touchdown	after
+det	touchdown	a
+nmod:after	throw	touchdown
+punct	throw	.

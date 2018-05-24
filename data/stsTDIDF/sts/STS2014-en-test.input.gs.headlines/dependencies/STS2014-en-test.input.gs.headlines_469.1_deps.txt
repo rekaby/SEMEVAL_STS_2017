@@ -1,0 +1,7 @@
+nmod:poss	president	Egypt
+case	Egypt	's
+amod	president	interim
+nsubj	appoints	president
+root	ROOT	appoints
+nummod	advisors	2
+dobj	appoints	advisors

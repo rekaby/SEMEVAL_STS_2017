@@ -1,0 +1,5 @@
+compound	George	Prince
+nsubj	christened	George
+root	ROOT	christened
+case	London	in
+nmod:in	christened	London

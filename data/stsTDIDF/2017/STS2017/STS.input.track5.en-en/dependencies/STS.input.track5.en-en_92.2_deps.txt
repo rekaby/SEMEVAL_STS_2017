@@ -1,0 +1,9 @@
+det	man	A
+nsubj	watching	man
+aux	watching	is
+root	ROOT	watching
+nummod	dance	three
+amod	dance	asian
+compound	dance	kids
+dobj	watching	dance
+punct	watching	.

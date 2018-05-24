@@ -1,0 +1,7 @@
+amod	jolts	Strong
+compound	jolts	quake
+root	ROOT	jolts
+amod	parts	most
+dobj	jolts	parts
+case	Pakistan	of
+nmod:of	parts	Pakistan

@@ -1,0 +1,10 @@
+det	DVD-CCA	The
+nsubj	appealed	DVD-CCA
+advmod	appealed	then
+root	ROOT	appealed
+case	Court	to
+det	Court	the
+compound	Court	state
+compound	Court	Supreme
+nmod:to	appealed	Court
+punct	appealed	.

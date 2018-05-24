@@ -1,0 +1,7 @@
+root	ROOT	take
+det	walk	a
+amod	walk	digestion-aiding
+dobj	take	walk
+case	meal	after
+det	meal	a
+nmod:after	take	meal

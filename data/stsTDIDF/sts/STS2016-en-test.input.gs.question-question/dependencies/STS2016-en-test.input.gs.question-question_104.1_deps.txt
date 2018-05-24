@@ -1,0 +1,13 @@
+advmod	blowing	Why
+aux	blowing	is
+nmod:poss	furnace	my
+nsubj	blowing	furnace
+root	ROOT	blowing
+amod	air	hot
+dobj	blowing	air
+case	pipe	outside
+case	pipe	through
+det	pipe	a
+compound	pipe	PVC
+nmod:through	blowing	pipe
+punct	blowing	?

@@ -1,0 +1,8 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+det	pepper	a
+amod	pepper	green
+dobj	cutting	pepper
+punct	cutting	.

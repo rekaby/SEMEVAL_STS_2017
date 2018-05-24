@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	little
+nsubj	running	girl
+aux	running	is
+root	ROOT	running
+case	field	in
+det	field	a
+nmod:in	running	field
+punct	running	.

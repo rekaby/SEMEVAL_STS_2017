@@ -1,0 +1,7 @@
+det	man	A
+nsubj	catching	man
+aux	catching	is
+root	ROOT	catching
+det	ball	a
+dobj	catching	ball
+punct	catching	.

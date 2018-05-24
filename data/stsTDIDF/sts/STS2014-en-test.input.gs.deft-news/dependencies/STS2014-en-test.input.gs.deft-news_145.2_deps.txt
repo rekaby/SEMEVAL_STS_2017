@@ -1,0 +1,10 @@
+nsubj	commemorated	nicaragua
+root	ROOT	commemorated
+det	anniversary	the
+amod	anniversary	25th
+dobj	commemorated	anniversary
+case	revolution	of
+det	revolution	the
+amod	revolution	sandinista
+nmod:of	anniversary	revolution
+punct	commemorated	.

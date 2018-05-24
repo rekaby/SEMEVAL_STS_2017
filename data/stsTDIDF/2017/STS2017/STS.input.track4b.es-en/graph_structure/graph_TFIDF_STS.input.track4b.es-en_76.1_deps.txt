@@ -1,0 +1,10 @@
+ROOT	coddle	root
+state	own	nmod:of
+coddle	Palestinians	dobj
+Palestinians	twisty	amod
+coddle	giving	advcl
+giving	by	mark
+Palestinians	those	det
+giving	state	dobj
+coddle	Why	advmod
+coddle	?	punct

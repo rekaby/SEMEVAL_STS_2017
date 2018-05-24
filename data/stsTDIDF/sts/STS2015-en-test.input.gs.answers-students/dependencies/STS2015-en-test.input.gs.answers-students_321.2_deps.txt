@@ -1,0 +1,10 @@
+det	battery	The
+nsubj	path	battery
+case	2	in
+nmod:in	battery	2
+cop	path	is
+neg	path	not
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

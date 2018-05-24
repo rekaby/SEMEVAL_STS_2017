@@ -1,0 +1,4 @@
+suit	blue	amod
+wears	suit	dobj
+wears	man	nsubj
+wears	.	punct

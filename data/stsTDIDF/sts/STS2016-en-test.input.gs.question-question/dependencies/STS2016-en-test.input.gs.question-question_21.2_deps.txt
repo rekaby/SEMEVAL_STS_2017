@@ -1,0 +1,15 @@
+aux	Need	Will
+nsubj	Need	I
+root	ROOT	Need
+det	visa	a
+compound	visa	Transit
+dobj	Need	visa
+cc	visa	or
+conj:or	visa	ESTA
+case	US	for
+det	US	the
+nmod:for	visa	US
+case	Canadian	as
+det	Canadian	a
+nmod:as	Need	Canadian
+punct	Need	?

@@ -1,0 +1,10 @@
+det	man	A
+amod	man	bloody
+nsubj	pose	man
+cc	man	and
+conj:and	man	woman
+root	ROOT	pose
+case	picture	for
+det	picture	a
+nmod:for	pose	picture
+punct	pose	.

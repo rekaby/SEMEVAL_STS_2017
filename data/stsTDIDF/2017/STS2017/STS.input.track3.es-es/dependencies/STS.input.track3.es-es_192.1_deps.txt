@@ -1,0 +1,8 @@
+det	children	All
+nsubj	hang	children
+root	ROOT	hang
+compound:prt	hang	out
+case	room	in
+det	room	the
+compound	room	games
+nmod:in	hang	room

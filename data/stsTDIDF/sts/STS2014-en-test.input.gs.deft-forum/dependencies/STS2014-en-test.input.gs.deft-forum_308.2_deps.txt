@@ -1,0 +1,6 @@
+nsubj	like	I
+root	ROOT	like
+dep	play	watching
+nsubj	play	kids
+ccomp	like	play
+punct	like	.

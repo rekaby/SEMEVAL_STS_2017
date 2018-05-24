@@ -1,0 +1,8 @@
+det	train	A
+amod	train	blue
+root	ROOT	train
+case	area	in
+det	area	a
+amod	area	mountainous
+nmod:in	train	area
+punct	train	.

@@ -1,0 +1,16 @@
+root	ROOT	Leave
+dobj	Leave	it
+case	lawyer	to
+det	lawyer	a
+nmod:to	Leave	lawyer
+case	#Lakechuck	from
+nmod:from	lawyer	#Lakechuck
+mark	get	to
+advcl	Leave	get
+compound	Thomas	Justice
+dobj	get	Thomas
+mark	break	to
+advcl	get	break
+nmod:poss	silence	his
+dobj	break	silence
+punct	Leave	.

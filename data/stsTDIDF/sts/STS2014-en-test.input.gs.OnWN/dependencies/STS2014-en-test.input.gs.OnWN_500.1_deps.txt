@@ -1,0 +1,7 @@
+root	ROOT	infer
+cc	infer	or
+conj:or	infer	believe
+mark	case	to
+cop	case	be
+det	case	the
+xcomp	believe	case

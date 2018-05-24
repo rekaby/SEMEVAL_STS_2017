@@ -1,0 +1,9 @@
+det	speeds	A
+amod	speeds	yellow
+compound	speeds	car
+root	ROOT	speeds
+case	field	along
+det	field	a
+amod	field	snowy
+nmod:along	speeds	field
+punct	speeds	.

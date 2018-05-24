@@ -1,0 +1,14 @@
+det	line	a
+amod	line	light
+root	ROOT	line
+nsubjpass	used	that
+auxpass	used	is
+acl:relcl	line	used
+mark	lettering	in
+advcl	used	lettering
+mark	help	to
+xcomp	lettering	help
+xcomp	help	align
+det	letters	the
+dobj	align	letters
+punct	line	.

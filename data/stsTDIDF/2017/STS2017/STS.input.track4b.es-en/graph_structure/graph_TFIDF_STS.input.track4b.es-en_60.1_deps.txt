@@ -1,0 +1,12 @@
+fuzzy	clear	conj:but
+fuzzy	identity	nsubj
+identity	Our	nmod:poss
+fuzzy	,	punct
+fuzzy	but	cc
+ROOT	fuzzy	root
+fuzzy	.	punct
+loyalty	our	nmod:poss
+clear	loyalty	nsubj
+fuzzy	sometimes	advmod
+fuzzy	might	aux
+fuzzy	be	cop

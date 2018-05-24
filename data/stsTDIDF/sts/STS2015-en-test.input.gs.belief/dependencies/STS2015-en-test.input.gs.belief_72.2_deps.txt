@@ -1,0 +1,9 @@
+compound	obama	president
+nsubj	doing	obama
+aux	doing	is
+root	ROOT	doing
+det	bang	a
+dobj	doing	bang
+compound:prt	doing	up
+dobj	doing	job
+punct	doing	.

@@ -1,0 +1,10 @@
+amod	shape	anatomical
+root	ROOT	shape
+case	body	of
+det	body	the
+nmod:of	shape	body
+case	physique	of
+det	physique	a
+auxpass	physique	being
+punct	being	,
+nmod:of	body	physique

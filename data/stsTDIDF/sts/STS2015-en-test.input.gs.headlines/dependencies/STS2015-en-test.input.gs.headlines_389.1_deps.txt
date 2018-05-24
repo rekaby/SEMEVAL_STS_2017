@@ -1,0 +1,7 @@
+compound	Africa	South
+nmod:poss	Mandela	Africa
+case	Africa	's
+nsubj	taken	Mandela
+root	ROOT	taken
+case	hospital	to
+nmod:to	taken	hospital

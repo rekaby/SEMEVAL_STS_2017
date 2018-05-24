@@ -1,0 +1,13 @@
+det	boy	A
+nsubj	sledding	boy
+cc	boy	and
+det	woman	a
+conj:and	boy	woman
+cop	sledding	are
+case	sledding	in
+det	sledding	the
+compound	sledding	snow
+root	ROOT	sledding
+cc	sledding	and
+conj:and	sledding	playing
+punct	sledding	.

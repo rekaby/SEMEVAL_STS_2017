@@ -1,0 +1,9 @@
+cage	dogs	nsubj
+cage	are	cop
+ROOT	cage	root
+cage	.	punct
+cage	outside	advmod
+dogs	small	amod
+cage	a	det
+dogs	Two	nummod
+cage	in	case

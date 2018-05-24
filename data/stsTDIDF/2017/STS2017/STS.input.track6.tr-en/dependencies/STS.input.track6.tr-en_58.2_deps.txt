@@ -1,0 +1,7 @@
+nsubj	waiting	People
+aux	waiting	are
+root	ROOT	waiting
+mark	pass	to
+xcomp	waiting	pass
+advmod	pass	by
+punct	waiting	.

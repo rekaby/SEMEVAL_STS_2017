@@ -1,0 +1,8 @@
+amod	government	Canadian
+nsubj	approves	government
+root	ROOT	approves
+amod	pipeline	controversial
+compound	pipeline	oil
+dobj	approves	pipeline
+case	Pacific	to
+nmod:to	approves	Pacific

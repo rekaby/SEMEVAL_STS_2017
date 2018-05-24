@@ -1,0 +1,8 @@
+det	dancer	A
+amod	dancer	ballet
+nsubj	performing	dancer
+aux	performing	is
+root	ROOT	performing
+case	stage	on
+nmod:on	performing	stage
+punct	performing	.

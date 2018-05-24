@@ -1,0 +1,11 @@
+root	ROOT	Nevada
+acl	Nevada	is
+advmod	smoke	where
+det	women	the
+advmod	women	most
+nsubj	smoke	women
+advcl	is	smoke
+punct	smoke	,
+nummod	percent	28
+appos	smoke	percent
+punct	Nevada	.

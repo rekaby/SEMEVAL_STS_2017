@@ -1,0 +1,9 @@
+nummod	women	Two
+nsubj	mix	women
+root	ROOT	mix
+dobj	mix	something
+case	processor	in
+det	processor	a
+compound	processor	food
+nmod:in	mix	processor
+punct	mix	.

@@ -1,0 +1,14 @@
+compound	Ceremony	London
+nummod	Ceremony	2012
+compound	Ceremony	Olympics
+compound	Ceremony	Opening
+root	ROOT	Ceremony
+punct	feature	`
+mark	feature	to
+root	Ceremony	feature
+det	land	a
+amod	land	green
+cc	green	and
+conj:and	green	pleasant
+dobj	feature	land
+punct	feature	'

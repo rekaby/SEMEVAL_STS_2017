@@ -1,0 +1,11 @@
+root	ROOT	angle
+case	hook	with
+det	hook	a
+nmod:with	angle	hook
+cc	hook	and
+conj:and	hook	line
+acl	hook	drawn
+case	water	through
+det	water	the
+nmod:through	drawn	water
+punct	angle	.

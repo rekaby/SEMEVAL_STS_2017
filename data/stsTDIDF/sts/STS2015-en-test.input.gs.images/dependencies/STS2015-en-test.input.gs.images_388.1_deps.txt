@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	black
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	out
+case	water	of
+nmod:of	jumping	water
+punct	jumping	.

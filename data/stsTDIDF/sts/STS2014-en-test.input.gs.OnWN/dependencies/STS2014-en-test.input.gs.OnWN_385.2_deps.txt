@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	forcing	of
+acl	act	forcing
+dobj	forcing	something
+compound:prt	forcing	out
+mark	squeezing	by
+advcl	forcing	squeezing
+cc	squeezing	or
+conj:or	squeezing	pressing
+punct	act	.

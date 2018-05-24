@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+dobj	putting	gel
+case	hair	on
+nmod:poss	hair	her
+nmod:on	putting	hair
+punct	putting	.

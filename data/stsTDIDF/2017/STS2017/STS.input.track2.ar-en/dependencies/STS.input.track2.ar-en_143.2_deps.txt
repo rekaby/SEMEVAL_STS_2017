@@ -1,0 +1,10 @@
+nsubj	sits	Furniture
+root	ROOT	sits
+case	truck	inside
+det	truck	a
+amod	truck	moving
+nmod:inside	sits	truck
+case	slope	on
+det	slope	a
+nmod:on	truck	slope
+punct	sits	.

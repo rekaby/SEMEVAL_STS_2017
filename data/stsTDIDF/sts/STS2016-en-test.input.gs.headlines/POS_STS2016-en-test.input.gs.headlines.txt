@@ -1,0 +1,248 @@
+[Driver/NN, backs/NNS, into/IN, stroller/NN, with/IN, child/NN, ,/,, drives/VBZ, off/RP] 	[Driver/NN, backs/NNS, into/IN, mom/NN, ,/,, stroller/NN, with/IN, child/NN, then/RB, drives/VBZ, off/RP] 	1
+[Spain/NNP, Princess/NNP, Testifies/VBZ, in/IN, Historic/JJ, Fraud/NNP, Probe/NNP] 	[Spain/NNP, princess/NN, testifies/VBZ, in/IN, historic/JJ, fraud/NN, probe/NN] 	2
+[Senate/NNP, confirms/VBZ, Obama/NNP, nominee/NN, to/TO, key/JJ, appeals/NNS, court/NN] 	[Senate/NNP, approves/VBZ, Obama/NNP, nominee/NN, to/TO, key/JJ, appeals/NNS, court/NN] 	3
+[U.N./NNP, rights/NNS, chief/NN, presses/NNS, Egypt/NNP, on/IN, Mursi/NNP, detention/NN] 	[UN/NNP, Rights/NNP, Chief/NNP, Presses/VBZ, Egypt/NNP, on/IN, Morsi/NNP, Detention/NNP] 	4
+[US/NNP, Senate/NNP, confirms/VBZ, Janet/NNP, Yellen/NNP, as/IN, US/NNP, Federal/NNP, Reserve/NNP, chief/NN] 	[Senate/NNP, confirms/VBZ, Janet/NNP, Yellen/NNP, as/IN, next/JJ, Federal/NNP, Reserve/NNP, Chair/NNP] 	5
+[Syrian/JJ, Rebel/NN, Groups/NNS, Battle/NN, Each/DT, Other/JJ, in/IN, North/NNP] 	[Syrian/JJ, rebel/NN, groups/NNS, battle/VBP, each/DT, other/JJ, in/IN, north/NN] 	6
+[Mayawati/NNP, demands/VBZ, president/NN, 's/POS, rule/NN, in/IN, Kashmir/NNP] 	[Mayawati/NNP, demands/NNS, Presidents/NNS, rule/NN, in/IN, Jammu/NNP, and/CC, Kashmir/NNP] 	7
+[Uganda/NNP, 's/POS, president/NN, signs/NNS, anti-gay/JJ, bill/NN] 	[Uganda/NNP, 's/POS, president/NN, signs/NNS, harsh/JJ, anti-gay/JJ, law/NN] 	8
+[Rocks/NNS, ,/,, Tear/NNP, Gas/NNP, Fly/VB, as/IN, Thai/NNP, Protests/NNP, Heat/NNP, Up/IN] 	[Rocks/NNS, ,/,, tear/VB, gas/NN, fly/NN, as/IN, Thai/NNP, protests/NNS, heat/NN, up/RP] 	9
+[Boston/NNP, bombing/NN, suspect/VB, buried/VBN, in/IN, Virginia/NNP] 	[Boston/NNP, bomb/NN, suspect/VB, buried/VBN, in/IN, Virginia/NNP, cemetery/NN] 	10
+[Six/CD, dead/JJ, in/IN, Philippine/JJ, restaurant/NN, blast/NN] 	[6/CD, killed/VBN, in/IN, Philippines/NNP, restaurant/NN, blast/NN] 	11
+[China/NNP, army/NN, newspaper/NN, hits/VBZ, out/RP, at/IN, US/NNP, 's/POS, PRISM/NNP, programme/NN] 	[China/NNP, army/NN, newspaper/NN, slams/VBZ, US/NNP, 's/POS, PRISM/NNP, program/NN] 	12
+[Silvio/NNP, Berlusconi/NNP, expelled/VBD, from/IN, Italy/NNP, 's/POS, parliament/NN] 	[Silvio/NNP, Berlusconi/NNP, expelled/VBD, from/IN, parliament/NN] 	13
+[Two/CD, killed/VBN, in/IN, Bahrain/NNP, car/NN, explosion/NN] 	[Two/CD, killed/VBN, in/IN, Bahrain/NNP, car/NN, blast/NN] 	14
+[Russia/NNP, warns/VBZ, it/PRP, will/MD, respond/VB, if/IN, interests/NNS, attacked/VBN, in/IN, Ukraine/NNP] 	[Russia/NNP, warns/VBZ, it/PRP, will/MD, `/``, respond/VB, '/'', if/IN, interests/NNS, in/IN, Ukraine/NNP, attacked/VBN] 	15
+[Hosni/NNP, Mubarak/NNP, retrial/NN, adjourned/VBD, until/IN, 8/CD, June/NNP] 	[Mubarak/NNP, retrial/NN, adjourned/VBD, to/TO, June/NNP] 	16
+[US/NNP, drone/NN, strike/NN, kills/VBZ, eight/CD, in/IN, Waziristan/NNP] 	[US/NNP, drone/NN, strike/NN, kills/VBZ, 11/CD, in/IN, Pakistan/NNP] 	17
+[Egypt/NNP, protesters/NNS, defy/VBP, cabinet/NN, threat/NN, to/TO, end/VB, sit-ins/NNS] 	[Egypt/NNP, protesters/NNS, defy/VBP, cabinet/NN, threat/NN] 	18
+[Couple/NN, marry/VB, in/IN, the/DT, UK/NNP, 's/POS, first/JJ, Scientology/NNP, wedding/NN] 	[Couple/NN, get/VB, married/VBN, in/IN, Britain/NNP, 's/POS, first/JJ, Scientology/NNP, wedding/NN] 	19
+[Russian/JJ, opposition/NN, leader/NN, under/IN, house/NN, arrest/NN] 	[Russian/JJ, Opposition/NNP, Leader/NNP, Placed/NNP, Under/IN, House/NNP, Arrest/NN] 	20
+[Senate/NNP, confirms/VBZ, Janet/NNP, Yellen/NNP, as/IN, chair/NN, of/IN, US/NNP, Federal/NNP, Reserve/NNP] 	[Senate/NNP, confirms/VBZ, Janet/NNP, Yellen/NNP, as/IN, next/JJ, Federal/NNP, Reserve/NNP, Chair/NNP] 	21
+[Qatar/NNP, 's/POS, emir/NN, hands/NNS, power/NN, to/TO, his/PRP$, son/NN] 	[Qatari/JJ, emir/NN, hands/NNS, power/NN, to/TO, son/NN, Tamim/NNP] 	22
+[Philippines/NNP, typhoon/NN, death/NN, toll/NN, feared/VBN, to/TO, hit/VB, 7,000/CD] 	[Philippines/NNP, typhoon/NN, death/NN, toll/NN, rises/VBZ, above/IN, 5,000/CD] 	23
+[Egypt/NNP, braces/VBZ, for/IN, `/``, Friday/NNP, of/IN, anger/NN, '/'', after/IN, carnage/NN] 	[Egypt/NNP, braces/VBZ, for/IN, Friday/NNP, of/IN, anger/NN, after/IN, bloody/JJ, crackdown/NN] 	24
+[Red/NNP, Sox/NNP, Beat/NN, Tigers/NNP, 5-2/CD, to/TO, Advance/NNP, to/TO, World/NNP, Series/NNP] 	[Red/NNP, Sox/NNP, beat/VBD, Tigers/NNP, to/TO, reach/VB, World/NNP, Series/NNP] 	25
+[China/NNP, lands/NNS, Jade/NNP, Rabbit/NNP, robot/NN, rover/NN, on/IN, Moon/NNP] 	[China/NNP, lands/NNS, robot/NN, rover/NN, on/IN, moon/NN] 	26
+[Ukrainian/JJ, parliament/NN, dismisses/VBZ, president/NN] 	[Ukraine/NNP, 's/POS, parliament/NN, votes/NNS, to/TO, dismiss/VB, president/NN] 	27
+[Venezuela/NNP, lawmakers/NNS, brawl/NN, amid/IN, election/NN, tensions/NNS] 	[Venezuela/NNP, lawmakers/NNS, brawl/NN, over/IN, election/NN] 	28
+[North/NNP, Korea/NNP, Warns/VBZ, Foreigners/NNS, in/IN, South/NNP, ,/,, Advising/NNP, Evacuation/NNP] 	[North/NNP, Korea/NNP, warns/VBZ, foreigners/NNS, in/IN, South/NNP, to/TO, evacuate/VB] 	29
+[Captain/NNP, of/IN, sunken/JJ, South/JJ, Korean/JJ, ferry/NN, arrested/VBN] 	[Captain/NNP, of/IN, capsized/VBN, S/NN, Korean/JJ, Ferry/NN, Arrested/VBN] 	30
+[Cars/NNS, ,/,, drivers/NNS, plunge/VBP, into/IN, river/NN, after/IN, Wash./NNP, ./.] [I-5/NN, bridge/NN, collapse/NN] 	[Cars/NNS, plunge/VBP, into/IN, river/NN, as/IN, US/NNP, bridge/NN, collapses/VBZ] 	31
+[Israel/NNP, confirms/VBZ, strike/NN, on/IN, Syria/NNP, targeted/VBD, weapons/NNS] 	[Israel/NNP, officials/NNS, :/:, Strike/NN, on/IN, Syria/NNP, targeted/VBD, weapons/NNS] 	32
+[Death/NN, toll/NN, in/IN, Syria/NNP, now/RB, tops/VBZ, 100,000/CD] 	[Death/NN, toll/NN, in/IN, Syria/NNP, over/IN, 100,000/CD, so/RB, far/RB] 	33
+[Communist/JJ, rebels/NNS, ambush/VBP, Philippine/JJ, police/NNS, ,/,, kill/VBP, 7/CD] 	[Communist/JJ, rebels/NNS, kill/VBP, eight/CD, Philippine/JJ, police/NNS] 	34
+[Egypt/NNP, 's/POS, Morsi/NNP, faces/VBZ, trial/NN, for/IN, prison/NN, break/NN, ,/,, murder/NN, ,/,, says/VBZ, prosecution/NN] 	[Egypt/NNP, 's/POS, Morsi/NNP, faces/VBZ, trial/NN, for/IN, prison/NN, break/NN] 	35
+[Iran/NNP, Nuclear/NNP, Talks/NNS, Enter/VB, Third/NNP, Day/NNP] 	[Iran/NNP, nuclear/JJ, talks/NNS, enter/VBP, crucial/JJ, third/JJ, day/NN] 	36
+[Jurors/NNP, find/VB, Jodi/NNP, Arias/NNP, eligible/NN, for/IN, death/NN, penalty/NN] 	[Jodi/NNP, Arias/NNP, eligible/NN, for/IN, death/NN, penalty/NN, ,/,, jury/NN, says/VBZ] 	37
+[Thai/NNP, army/NN, declares/VBZ, martial/JJ, law/NN] 	[Thailand/NNP, 's/POS, army/NN, declares/VBZ, martial/JJ, law/NN, ,/,, denies/VBZ, coup/NN] 	38
+[Woman/NNP, dies/VBZ, while/IN, riding/VBG, roller/NN, coaster/NN, in/IN, Texas/NNP] 	[Woman/NNP, dies/VBZ, riding/VBG, roller/NN, coaster/NN, at/IN, Texas/NNP, amusement/NN, park/NN] 	39
+[Nobel/NNP, author/NN, Doris/NNP, Lessing/NNP, dies/VBZ, at/IN, 94/CD] 	[Nobel/NNP, Prize/NNP, winning/VBG, author/NN, Doris/NNP, Lessing/NNP, dies/VBZ] 	40
+[Over/IN, 100/CD, dead/JJ, as/IN, typhoon/NN, slams/VBZ, central/JJ, Philippines/NNPS] 	[At/IN, least/JJS, 100/CD, dead/JJ, as/IN, typhoon/NN, batters/NNS, Philippines/NNPS] 	41
+[First/JJ, post/NN, office/NN, savings/NNS, bank/NN, ATM/NNP, opens/VBZ, in/IN, Chennai/NNP] 	[India/NNP, 's/POS, first/JJ, post/NN, office/NN, savings/NNS, bank/NN, ATM/NNP, inaugurated/VBD, in/IN, Chennai/NNP] 	42
+[Israel/NNP, agrees/VBZ, to/TO, 12/CD, hour/NN, ceasefire/NN] 	[Israel/NNP, agrees/VBZ, to/TO, 24-hour/JJ, Gaza/NNP, truce/NN] 	43
+[Twitter/NNP, reports/NNS, blocking/VBG, in/IN, Venezuela/NNP] 	[Twitter/NNP, says/VBZ, images/NNS, blocked/VBD, in/IN, Venezuela/NNP] 	44
+[Quake/NN, of/IN, 6.2/CD, magnitude/NN, strikes/NNS, off/IN, Indonesia/NNP, 's/POS, Sumatra/NNP, -/:, USGS/NNS] 	[Earthquake/NN, of/IN, 6.9/CD, magnitude/NN, strikes/NNS, off/IN, Indonesia/NNP, island/NN] 	45
+[US/NNP, Supreme/NNP, Court/NNP, limits/VBZ, president/NN, 's/POS, recess/NN, appointments/NNS, power/NN] 	[High/JJ, court/NN, checks/NNS, President/NNP, 's/POS, recess/NN, appointment/NN, power/NN] 	46
+[British/JJ, stuntman/NN, fell/VBD, to/TO, his/PRP$, death/NN, in/IN, wing/NN, suit/NN, mishap/NN] 	[British/JJ, stuntman/NN, dies/VBZ, in/IN, wingsuit/NN, mishap/NN, in/IN, Alps/NNP] 	47
+[Euro/NNP, crisis/NN, is/VBZ, over/IN, ,/,, says/VBZ, France/NNP, 's/POS, Francois/NNP, Hollande/NNP] 	[Eurozone/NNP, debt/NN, crisis/NN, is/VBZ, over/IN, ,/,, says/VBZ, France/NNP, 's/POS, President/NNP] 	48
+[What/WP, makes/VBZ, India/NNP, vote/VB, ?/.] [Jaipur/NNP, Lit/NNP, Fest/NNP, debates/NNS] 	[What/WP, makes/VBZ, India/NNP, vote/VB, ?/.] [Debate/NN, at/IN, Jaipur/NNP, Literature/NNP, Festival/NNP] 	49
+[White/NNP, diamond/NN, breaks/NNS, record/NN, in/IN, Hong/NNP, Kong/NNP, auction/NN] 	[White/NNP, diamond/NN, fetches/VBZ, record/NN, $/$, 34m/CD, at/IN, HK/JJ, auction/NN] 	50
+[Chinese/JJ, satellite/NN, spots/NNS, large/JJ, object/NN, in/IN, search/NN, area/NN] 	[Malaysia/NNP, :/:, Chinese/JJ, satellite/NN, found/VBD, object/NN, in/IN, ocean/NN] 	51
+[Goa/NN, building/NN, collapse/NN, death/NN, toll/NN, touches/NNS, 15/CD] 	[Indian/JJ, building/NN, collapse/NN, deaths/NNS, rise/VBP, to/TO, 14/CD] 	52
+[Pak/NNP, religious/JJ, body/NN, endorses/VBZ, underage/JJ, marriage/NN] 	[CII/NNP, endorses/VBZ, underage/JJ, marriage/NN] 	53
+[Treasury/NNP, proposal/NN, sees/VBZ, 1.5/CD, %/NN, increase/NN, in/IN, income/NN, tax/NN] 	[Treasury/NNP, proposes/VBZ, 1.5/CD, %/NN, income/NN, tax/NN, raise/NN, in/IN, budget/NN] 	54
+[EU/NNP, Ministers/NNPS, of/IN, Employment/NNP, and/CC, Social/NNP, policy/NN, will/MD, discuss/VB, how/WRB, to/TO, boost/VB, employment/NN, ,/,, integrate/VBP, social/JJ, and/CC, economic/JJ, policies/NNS] 	[EU/NNP, Ministers/NNPS, of/IN, Employment/NNP, and/CC, Social/NNP, policy/NN, to/TO, discuss/VB, employment/NN, boosting/VBG, strategies/NNS] 	55
+[Hamas/NNP, Urges/VBZ, Hizbullah/NNP, to/TO, Pull/VB, Fighters/NNP, Out/IN, of/IN, Syria/NNP] 	[Hamas/NNP, calls/VBZ, on/IN, Hezbollah/NNP, to/TO, pull/VB, forces/NNS, out/IN, of/IN, Syria/NNP] 	56
+[U.S./NNP, and/CC, Russia/NNP, reach/VBP, a/DT, deal/NN, on/IN, Syria/NNP, 's/POS, chemical/NN, weapons/NNS] 	[China/NNP, welcomes/VBZ, US/NNP, ,/,, Russia/NNP, deal/NN, on/IN, Syria/NNP, chemical/NN, weapons/NNS] 	57
+[PSNI/NN, failed/VBD, RUC/NNP, officers/NNS, ,/,, tribunal/NN, told/VBD] 	[13:23/CD, PSNI/NNP, `/``, failed/VBD, RUC/NNP, officer/NN, families/NNS, '/POS] 	58
+[Stocks/NNS, edge/VBP, lower/JJR, following/VBG, retail/JJ, earnings/NNS] 	[Stocks/NNS, edge/VBP, lower/JJR, after/IN, earnings/NNS, from/IN, retailers/NNS] 	59
+[Police/NNP, helicopter/NN, crashes/NNS, into/IN, Scottish/JJ, pub/NN] 	[Police/NNP, helicopter/NN, crashes/NNS, on/IN, top/NN, of/IN, bar/NN, in/IN, Glasgow/NNP] 	60
+[US/NNP, ups/NNS, pressure/NN, on/IN, Israel/NNP, as/IN, UN/NNP, demands/NNS, Gaza/NNP, truce/NN] 	[US/NNP, ,/,, UN/NNP, up/IN, pressure/NN, on/IN, Israel/NNP, over/IN, Gaza/NNP] 	61
+[Australian/JJ, PM/NN, says/VBZ, `/``, Very/RB, confident/JJ, '/'', signals/NNS, are/VBP, from/IN, black/JJ, box/NN] 	[Australian/JJ, PM/NN, confident/JJ, sounds/NNS, are/VBP, from/IN, Flight/NN, 370/CD] 	62
+[Mt/NN, Gox/NN, reveals/VBZ, 200,000/CD, `/``, forgotten/VBN, '/'', bitcoin/NN, haul/NN] 	[Mt/NN, Gox/NN, finds/VBZ, 200,000/CD, `/``, forgotten/VBN, '/'', bitcoins/NNS] 	63
+[Mandela/NNP, 's/POS, condition/NN, has/VBZ, `/``, improved/VBN, '/''] 	[Mandela/NNP, 's/POS, condition/NN, has/VBZ, `/``, worsened/VBN, over/IN, past/JJ, 48/CD, hours/NNS, '/POS] 	64
+[Chinese/JJ, lunar/JJ, rover/NN, lands/NNS, on/IN, moon/NN] 	[China/NNP, lands/NNS, robot/NN, rover/NN, on/IN, moon/NN] 	65
+[Boy/NN, ,/,, 14/CD, ,/,, arrested/VBN, for/IN, sex/NN, attacks/NNS, around/IN, a/DT, university/NN, campus/NN] 	[Two/CD, teenagers/NNS, arrested/VBN, after/IN, string/NN, of/IN, sex/NN, attacks/NNS, on/IN, Manchester/NNP, University/NNP, campus/NN] 	66
+[Philippe/NNP, becomes/VBZ, king/NN, of/IN, Belgium/NNP] 	[Philippe/NNP, ascends/VBZ, throne/NN, of/IN, divided/VBN, Belgium/NNP] 	67
+[India/NNP, anti-graft/JJ, party/NN, takes/VBZ, charge/NN, in/IN, New/NNP, Delhi/NNP] 	[India/NNP, 's/POS, Anti-Graft/NNP, Party/NNP, Forms/NNP, Government/NNP, in/IN, Delhi/NNP] 	68
+[Spain/NNP, approves/VBZ, new/JJ, restrictive/JJ, abortion/NN, law/NN] 	[Spanish/JJ, government/NN, approves/VBZ, tight/JJ, restrictions/NNS, on/IN, abortion/NN] 	69
+[Obama/NNP, orders/NNS, Syria/NNP, `/``, gas/NN, attack/NN, '/'', inquiry/NN] 	[UN/NNP, urges/VBZ, Syria/NNP, gas/NN, attack/NN, inspection/NN] 	70
+[German/JJ, ambassador/NN, 's/POS, Athens/NNP, residence/NN, shot/NN, at/IN] 	[Shots/NNS, fired/VBD, at/IN, German/JJ, ambassador/NN, 's/POS, residence/NN, in/IN, Athens/NNP] 	71
+[Ukraine/NNP, 's/POS, jailed/VBN, opposition/NN, icon/NN, Tymoshenko/NNP, walks/VBZ, free/JJ] 	[Ukraine/NNP, 's/POS, opposition/NN, chief/NN, wants/VBZ, more/RBR, protests/NNS] 	72
+[Oklahoma/NNP, examines/VBZ, what/WP, went/VBD, wrong/JJ, in/IN, botched/JJ, execution/NN] 	[Okla./NNP, inmate/NN, dies/VBZ, of/IN, heart/NN, attack/NN, after/IN, botched/JJ, execution/NN] 	73
+[Napolitano/NNP, elected/VBD, for/IN, second/JJ, term/NN, as/IN, Italy/NNP, president/NN] 	[Italian/JJ, President/NNP, Napolitano/NNP, elected/VBD, for/IN, second/JJ, term/NN] 	74
+[More/JJR, than/IN, 100/CD, injured/VBN, in/IN, Texas/NNP, plant/NN, blast/NN] 	[Hundreds/NNS, believed/VBD, injured/VBN, in/IN, Texas/NNP, fertiliser/NN, plant/NN, blast/NN] 	75
+[UN/NNP, court/NN, convicts/NNS, 6/CD, Bosnian/NNP, Croats/NNPS, of/IN, atrocities/NNS] 	[UN/NNP, War/NNP, Crimes/NNP, Court/NNP, Convicts/NNPS, Six/CD, Bosnians/NNPS, Croats/NNPS] 	76
+[Saudi/JJ, man/NN, with/IN, pressure/NN, cooker/NN, arrested/VBN, at/IN, Detroit/NNP, airport/NN] 	[Saudi/JJ, Man/NN, Traveling/VBG, With/IN, Pressure/NN, Cooker/NNP, Arrested/VBN] 	77
+[North/NNP, Korea/NNP, says/VBZ, to/TO, put/VB, US/NNP, citizen/NN, on/IN, trial/NN] 	[North/NNP, Korea/NNP, says/VBZ, detained/VBN, American/JJ, tourist/NN, to/TO, face/VB, trial/NN] 	78
+[Thai/NNP, protests/NNS, escalate/VBP, amid/IN, violence/NN] 	[Thai/NNP, protesters/NNS, call/VBP, general/JJ, strike/NN] 	79
+[Egypt/NNP, imposes/VBZ, state/NN, of/IN, emergency/NN, after/IN, 95/CD, people/NNS, killed/VBD] 	[Egypt/NNP, announces/VBZ, one-month/JJ, state/NN, of/IN, emergency/NN, nationwide/JJ] 	80
+[Rallies/NNS, demand/VBP, `/``, Justice/NNP, for/IN, Trayvon/NNP, '/''] 	[Across/IN, US/NNP, ,/,, people/NNS, rally/VBP, for/IN, `/``, Justice/NNP, for/IN, Trayvon/NNP, '/''] 	81
+[UN/NNP, warns/VBZ, of/IN, plight/NN, of/IN, women/NNS, ,/,, children/NNS, in/IN, Syria/NNP, 's/POS, Homs/NNP] 	[UNICEF/NNP, calls/VBZ, for/IN, immediate/JJ, safe/JJ, access/NN, to/TO, women/NNS, ,/,, children/NNS, in/IN, Homs/NNP] 	82
+[Redford/NNP, touts/VBZ, Alberta/NNP, economy/NN, ahead/RB, of/IN, vote/NN, on/IN, leadership/NN] 	[Redford/NNP, addresses/NNS, PC/NN, convention/NN, ahead/RB, of/IN, leadership/NN, review/NN] 	83
+[Hagel/NNP, ,/,, Dempsey/NNP, face/VBP, Congress/NNP, over/IN, defense/NN, budget/NN] 	[Hagel/NNP, laments/VBZ, ``/``, political/JJ, ''/'', changes/NNS, to/TO, US/NNP, defence/NN, budget/NN] 	84
+[Sony/NNP, to/TO, sell/VB, PC/NN, unit/NN, and/CC, cut/NN, jobs/NNS] 	[Sony/NNP, to/TO, axe/VB, PC/NN, unit/NN, in/IN, major/JJ, business/NN, overhaul/NN] 	85
+[Man/NN, kills/VBZ, 4/CD, in/IN, Calif./NNP, before/IN, police/NN, shoot/NN, him/PRP, dead/JJ] 	[Police/NNS, :/:, Gunman/NN, killed/VBD, 6/CD, in/IN, California/NNP, shootings/NNS] 	86
+[N./NNP, Korea/NNP, Deports/VBZ, Elderly/NNP, American/NNP] 	[North/NNP, Korea/NNP, deports/VBZ, detained/VBN, US/NNP, war/NN, veteran/NN] 	87
+[Search/VB, leader/NN, urges/VBZ, caution/NN, in/IN, findings/NNS, related/VBN, to/TO, missing/VBG, Malaysian/JJ, jetliner/NN] 	[Searchers/NNS, hoping/VBG, pings/NNS, come/VBN, from/IN, lost/VBN, Malaysian/JJ, airliner/NN] 	88
+[Mandela/NNP, remembered/VBD, by/IN, family/NN, ,/,, as/IN, stadium/NN, memorial/NN, service/NN, is/VBZ, planned/VBN] 	[Mandela/NNP, 's/POS, family/NN, thanks/NNS, nation/NN, and/CC, world/NN, for/IN, support/NN] 	89
+[Protests/NNS, after/IN, George/NNP, Zimmerman/NNP, acquitted/VBN, in/IN, Trayvon/NNP, Martin/NNP, case/NN] 	[Zimmerman/NNP, acquitted/VBN, in/IN, slaying/NN] 	90
+[Ukrainian/JJ, presidency/NN, says/VBZ, deal/VB, reached/VBN, at/IN, crisis/NN, talks/NNS] 	[Ukraine/NNP, rivals/VBZ, sign/NN, deal/NN, to/TO, end/VB, crisis/NN] 	91
+[Obama/NNP, mulls/NNS, limited/JJ, military/JJ, action/NN, in/IN, Syria/NNP] 	[Obama/NNP, urges/VBZ, military/JJ, action/NN, against/IN, Syria/NNP, ,/,, but/CC, will/MD, seek/VB, Congress/NNP, '/POS, OK/JJ] 	92
+[Syria/NNP, 's/POS, PM/NN, escapes/VBZ, assassination/NN, try/VB, ,/,, regime/NN, says/VBZ] 	[Syrian/JJ, prime/JJ, minister/NN, survives/VBZ, assassination/NN, attempt/NN] 	93
+[Obama/NNP, holds/VBZ, out/RP, over/IN, Syria/NNP, strikes/NNS] 	[UK/NNP, urges/VBZ, countries/NNS, over/IN, Syria/NNP, aid/NN] 	94
+[Jordan/NNP, elected/VBD, to/TO, take/VB, Saudi/JJ, seat/NN, on/IN, UN/NNP, Security/NNP, Council/NNP] 	[Jordan/NNP, elected/VBD, to/TO, UN/NNP, security/NN, council/NN, seat/NN, that/WDT, Saudi/NNP, Arabia/NNP, rejected/VBD] 	95
+[Maldives/NNS, begins/VBZ, to/TO, vote/VB, in/IN, controversy-ridden/JJ, presidential/JJ, poll/NN] 	[Crisis-hit/JJ, Maldives/NNS, holds/VBZ, new/JJ, presidential/JJ, poll/NN] 	96
+[At/IN, least/JJS, 18/CD, killed/VBN, in/IN, Iraq/NNP, mosque/NN, bombing/NN] 	[More/JJR, than/IN, 60/CD, killed/VBN, at/IN, Iraq/NNP, funeral/NN] 	97
+[Police/NNS, surround/VBP, protesters/NNS, in/IN, Belfast/NNP, ahead/RB, of/IN, G8/NN] 	[Peaceful/JJ, anti-G8/JJ, protest/NN, held/VBN, in/IN, Belfast/NNP] 	98
+[George/NNP, Zimmerman/NNP, found/VBD, not/RB, guilty/JJ, of/IN, Trayvon/NNP, Martin/NNP, murder/NN] 	[George/NNP, Zimmerman/NNP, Verdict/NNP, Propels/NNP, Cable/NNP, News/NNP, Into/NNP, Talkradio/NNP, Mode/NNP] 	99
+[Ten/CD, rescued/VBD, off/RP, Waterford/NNP, ,/,, Dublin/NNP, coasts/NNS] 	[Six/CD, rescued/VBD, after/IN, boat/NN, capsizes/NNS, in/IN, Dublin/NNP, Bay/NNP] 	100
+[Mandela/NNP, spends/VBZ, third/JJ, day/NN, in/IN, hospital/NN] 	[Mandela/NNP, in/IN, Hospital/NNP, for/IN, 3rd/JJ, Day/NN] 	101
+[One/CD, killed/VBN, in/IN, clashes/NNS, at/IN, Muslim/JJ, Brotherhood/NNP, Cairo/NNP, offices/NNS] 	[Egypt/NNP, :/:, Protesters/NNS, storm/NN, Muslim/JJ, Brotherhood/NNP, 's/POS, HQ/NN] 	102
+[Saudi/JJ, Women/NNS, To/TO, Protest/VB, Against/IN, Driving/VBG, Ban/NN] 	[Saudi/JJ, women/NNS, drive/VBP, in/IN, protest/NN, with/IN, little/JJ, problem/NN] 	103
+[Obama/NNP, ,/,, Hollande/NNP, Hail/NNP, Transformed/NNP, US-French/NNP, Relationship/NN] 	[Hollande/NNP, arrives/VBZ, for/IN, US/NNP, state/NN, visit/NN] 	104
+[Russian/JJ, parliament/NN, allows/VBZ, Putin/NNP, to/TO, use/VB, military/JJ, in/IN, Ukraine/NNP] 	[President/NNP, Obama/NNP, warns/VBZ, Russia/NNP, to/TO, stay/VB, out/IN, of/IN, Ukraine/NNP] 	105
+[Nelson/NNP, Mandela/NNP, hospital/NN, release/NN, reports/NNS, `/``, incorrect/JJ, '/''] 	[Nelson/NNP, Mandela/NNP, Goes/VBZ, Home/NNP, After/IN, Hospital/NNP, Stay/NNP] 	106
+[World/NN, stocks/NNS, rise/VBP, on/IN, hopes/NNS, Fed/NNP, to/TO, keep/VB, stimulus/NN] 	[Fed/NNP, expected/VBD, to/TO, maintain/VB, stimulus/NN] 	107
+[No/DT, winners/NNS, in/IN, a/DT, war/NN, of/IN, sanctions/NNS] 	[The/DT, impact/NN, of/IN, sanctions/NNS, on/IN, Russia/NNP] 	108
+[South/JJ, Korean/JJ, soldier/NN, reportedly/RB, flees/VBZ, after/IN, killing/VBG, 5/CD, comrades/NNS, at/IN, border/NN, with/IN, North/NNP, Korea/NNP] 	[South/JJ, Korean/JJ, Soldier/NN, Kills/VBZ, Comrades/NNS, And/CC, Flees/NNS] 	109
+[World/NNP, Cup/NNP, hit/VBN, by/IN, new/JJ, stadium/NN, death/NN] 	[Worker/NN, dies/VBZ, at/IN, World/NNP, Cup/NNP, stadium/NN] 	110
+[Tata/NNP, Nano/NNP, and/CC, other/JJ, Indian/JJ, small/JJ, cars/NNS, fail/VBP, crash/NN, tests/NNS] 	[How/WRB, does/VBZ, world/NN, 's/POS, cheapest/JJS, car/NN, do/VBP, in/IN, crash/NN, test/NN, ?/.] 	111
+[Greece/NNP, reaches/VBZ, agreement/NN, with/IN, troika/NN, ,/,, bailout/NN, tranche/NN, expected/VBN, within/IN, days/NNS] 	[Debt/NN, inspectors/NNS, reach/VBP, agreement/NN, with/IN, Greece/NNP] 	112
+[Murray/NNP, ends/VBZ, 77-year/JJ, wait/NN, for/IN, British/JJ, win/VBP] 	[Murray/NNP, wins/VBZ, Wimbledon/NNP, title/NN, ends/VBZ, Britains/NNS, 77year/JJ, agony/NN] 	113
+[Malaysia/NNP, Airlines/NNPS, plane/NN, crashes/NNS, on/IN, Ukraine-Russia/NNP, border/NN, -/:, live/VB] 	[US/NNP, :/:, Russia/NNP, Massing/NNP, Troops/NNPS, on/IN, Ukraine/NNP, Border/NNP] 	114
+[Tycoon/NN, claims/VBZ, win/VB, in/IN, Ukraine/NNP, and/CC, promises/VBZ, to/TO, seek/VB, future/NN, in/IN, EU/NNP] 	[Polling/NN, stations/NNS, open/JJ, at/IN, Ukrainian/JJ, presidential/JJ, election/NN] 	115
+[US/NNP, to/TO, Determine/VB, Extent/NN, of/IN, Chemical/NNP, Weapons/NNP, Use/NNP, by/IN, Syria/NNP] 	[What/WP, we/PRP, know/VBP, so/RB, far/RB, about/IN, chemical/NN, weapons/NNS, in/IN, Syria/NNP, 's/POS, civil/JJ, war/NN] 	116
+[The/DT, covert/JJ, war/NN, in/IN, Pakistan/NNP] 	[New/NNP, major/JJ, earthquake/NN, rocks/NNS, southwest/JJ, Pakistan/NNP] 	117
+[Syria/NNP, agrees/VBZ, to/TO, surrender/VB, chemical/NN, weapons/NNS] 	[UK/NNP, 's/POS, Cameron/NNP, :/:, Syria/NNP, ,/,, Russia/NNP, must/MD, show/VB, chemical/JJ, arms/NNS, proposal/NN, is/VBZ, genuine/JJ] 	118
+[Russia/NNP, 's/POS, Putin/NNP, claims/VBZ, authority/NN, to/TO, invade/VB, Ukraine/NNP] 	[Kremlin/NNP, :/:, Putin/NNP, yet/RB, to/TO, decide/VB, on/IN, using/VBG, Russian/JJ, troops/NNS, in/IN, Ukraine/NNP] 	119
+[Senior/JJ, CPC/NNP, official/NN, meets/VBZ, top/JJ, DPRK/NNP, leader/NN, 's/POS, special/JJ, envoy/NN] 	[North/JJ, Korean/JJ, leader/NN, sends/VBZ, `/``, special/JJ, envoy/NN, '/'', to/TO, China/NNP] 	120
+[Turkey/NNP, unrest/NN, goes/VBZ, on/IN, despite/IN, end/NN, to/TO, park/NN, protest/NN] 	[Turkish/JJ, PM/NNP, Erdogan/NNP, says/VBZ, ``/``, duty/NN, ''/'', to/TO, order/VB, crackdown/NN, on/IN, Istanbul/NNP, park/NN, protest/NN] 	121
+[Pope/NNP, calls/VBZ, for/IN, action/NN, on/IN, climate/NN, change/NN, in/IN, draft/NN, encyclical/NN] 	[Pope/NNP, urges/VBZ, action/NN, on/IN, climate/NN, change/NN, in/IN, draft/NN, encyclical/NN] 	122
+[Singapore/NNP, shares/NNS, open/JJ, 0.28/CD, %/NN, lower/JJR, on/IN, Thursday/NNP] 	[Singapore/NNP, shares/NNS, open/JJ, 0.19/CD, %/NN, higher/JJR, on/IN, Thursday/NNP] 	123
+[Who/WP, Is/VBZ, Jihadi/NNP, John/NNP, ?/.] 	[Who/WP, was/VBD, `/``, Jihadi/NNP, John/NNP, ?/., '/''] 	124
+[Iran/NNP, ,/,, IAEA/NNP, Officials/NNP, Meet/NNP, Ahead/NNP, of/IN, March/NNP, Nuclear/NNP, Deadline/NNP] 	[Iran/NNP, ,/,, IAEA/NNP, officials/NNS, meet/VBP, ahead/RB, of/IN, March/NNP, nuclear/JJ, deadline/NN, :/:, ISNA/NN] 	125
+[Headlines/NNS, in/IN, major/JJ, Iranian/JJ, newspapers/NNS, on/IN, Oct/NN, 4/CD] 	[Headlines/NNS, in/IN, several/JJ, Iranian/JJ, newspapers/NNS, on/IN, Oct/NN, 19/CD] 	126
+[Bombings/NNS, kill/VBP, 9/CD, people/NNS, in/IN, Iraqi/JJ, capital/NN] 	[Bombings/NNS, kill/VBP, 19/CD, people/NNS, in/IN, Iraq/NNP] 	127
+[US/NNP, Attorney/NNP, General/NNP, Holder/NNP, resigns/VBZ] 	[US/NNP, Attorney/NNP, general/JJ, Eric/NNP, Holder/NNP, to/TO, resign/VB] 	128
+[U.S./NNP, ,/,, EU/NNP, Widen/NNP, Sanctions/NNP, On/IN, Russia/NNP] 	[U.S./NNP, ,/,, EU/NNP, Boost/NNP, Sanctions/NNP, On/IN, Russia/NNP] 	129
+[10/CD, Things/NNS, to/TO, Know/NNP, for/IN, Wednesday/NNP] 	[10/CD, Things/NNS, to/TO, Know/NNP, for/IN, Thursday/NNP] 	130
+[Top/JJ, Asian/NNP, News/NNP, at/IN, 2:30/CD, p.m./RB, GMT/NNP] 	[Top/JJ, Asian/NNP, News/NNP, 1:25/CD, p.m./RB, GMT/NNP] 	131
+[How/WRB, the/DT, Dow/NNP, Jones/NNP, Industrial/NNP, Average/NNP, Did/VBD, Wednesday/NNP] 	[How/WRB, the/DT, Dow/NNP, Jones/NNP, Industrial/NNP, Average/NNP, Fared/VBD, on/IN, Monday/NNP] 	132
+[Hajj/NN, to/TO, go/VB, ahead/RB, despite/IN, crane/NN, collapse/NN, ,/,, officials/NNS, vow/NN] 	[Hajj/NN, to/TO, go/VB, ahead/RB, despite/IN, crane/NN, collapse/NN] 	133
+[US/NNP, House/NNP, Republicans/NNPS, elect/VB, Paul/NNP, Ryan/NNP, as/IN, speaker/NN] 	[US/NNP, House/NNP, Republicans/NNPS, eye/NN, reluctant/JJ, Ryan/NNP, for/IN, speaker/NN] 	134
+[Top/JJ, Asian/NNP, News/NNP, at/IN, 4:00/CD, p.m./RB, GMT/NNP] 	[Top/JJ, Asian/NNP, News/NNP, 8:39/CD, a.m./RB, GMT/NNP] 	135
+[Singapore/NNP, shares/NNS, open/JJ, 0.83/CD, %/NN, higher/JJR, on/IN, Wednesday/NNP] 	[Singapore/NNP, shares/NNS, open/JJ, 0.06/CD, %/NN, lower/JJR, on/IN, Tuesday/NNP] 	136
+[China/NNP, treasury/NN, bond/NN, futures/NNS, open/JJ, higher/JJR, Tuesday/NNP] 	[China/NNP, treasury/NN, bond/NN, futures/NNS, close/JJ, mixed/JJ, Wednesday/NNP] 	137
+[US/NNP, Attorney/NNP, General/NNP, Holder/NNP, resigns/VBZ] 	[Attorney/NNP, General/NNP, Eric/NNP, Holder/NNP, to/TO, Resign/VB] 	138
+[Headlines/NNS, in/IN, major/JJ, Iranian/JJ, newspapers/NNS, on/IN, Sept/NNP, 27/CD] 	[Headlines/NNS, in/IN, several/JJ, Iranian/JJ, newspapers/NNS, on/IN, Oct/NN, 19/CD] 	139
+[AbbVie/NNP, Sours/NNP, on/IN, $/$, 55B/CD, Shire/NNP, Deal/NNP, After/IN, Tax/NNP, Changes/NNS] 	[AbbVie/NN, cools/VBZ, on/IN, $/$, 55bn/CD, Shire/NNP, deal/NN, after/IN, US/NNP, tax/NN, changes/NNS] 	140
+[China/NNP, on/IN, high/JJ, alert/NN, for/IN, typhoon/NN, Kalmaegi/NN] 	[China/NNP, issues/NNS, yellow/JJ, alert/NN, for/IN, typhoon/NN, Kalmaegi/NN] 	141
+[Saudi-led/JJ, airstrikes/NNS, hit/VBD, Yemeni/JJ, capital/NN] 	[Saudi/JJ, airstrikes/NNS, in/IN, Yemen/NNP, 's/POS, capital/NN, kill/VB, 29/CD] 	142
+[New/NNP, UN/NNP, peacekeeping/NN, chief/NN, named/VBN, for/IN, Central/JJ, African/JJ, Republic/NN] 	[UN/NNP, takes/VBZ, over/RP, peacekeeping/NN, in/IN, Central/JJ, African/JJ, Republic/NN] 	143
+[Militant/JJ, attack/NN, from/IN, Afghanistan/NNP, kills/VBZ, four/CD, in/IN, Upper/NNP, Dir/NNP] 	[Militant/JJ, attack/NN, from/IN, Afghanistan/NNP, kills/VBZ, FC/NNP, soldier/NN, in/IN, Balochistan/NNP] 	144
+[Mali/NNP, hunts/VBZ, jihadist/JJ, nightclub/NN, killers/NNS] 	[Militants/NNPS, attack/NN, UN/NNP, as/IN, Mali/NNP, hunts/VBZ, jihadist/JJ, nightclub/NN, killers/NNS] 	145
+[7.3/CD, magnitude/NN, earthquake/NN, strikes/VBZ, Nepal/NNP] 	[6.6-magnitude/JJ, earthquake/NN, strikes/NNS, off/IN, Indonesia/NNP] 	146
+[Tokyo/NNP, shares/NNS, open/JJ, higher/JJR, over/IN, buoyant/JJ, U.S./NNP, market/NN] 	[Tokyo/NNP, shares/NNS, open/JJ, higher/JJR, tracing/VBG, U.S./NNP, gains/NNS] 	147
+[Iran/NNP, 's/POS, parliament/NN, backs/NNS, nuclear/JJ, deal/NN] 	[Iran/NNP, hardliners/NNS, attack/NN, nuclear/JJ, deal/NN] 	148
+[Hawaii/NNP, preps/NNS, for/IN, first/JJ, hurricane/NN, in/IN, 22/CD, years/NNS] 	[Hawaii/NNP, bracing/VBG, as/IN, first/JJ, hurricane/NN, in/IN, 22/CD, years/NNS, approaches/NNS] 	149
+[Iraq/NNP, bombings/NNS, kill/VBP, at/IN, least/JJS, 26/CD] 	[Iraq/NNP, suicide/NN, bomber/NN, kills/VBZ, at/IN, least/JJS, 12/CD] 	150
+[Sierra/NNP, Leone/NNP, in/IN, Ebola/NNP, lockdown/NN] 	[Sierra/NNP, Leone/NNP, Reaches/VBZ, Final/JJ, Day/NN, of/IN, Ebola/NNP, Lockdown/NNP] 	151
+[Tokyo/NNP, shares/NNS, open/JJ, higher/JJR, on/IN, buoyant/JJ, U.S./NNP, market/NN] 	[Tokyo/NNP, shares/NNS, open/JJ, higher/JJR, following/VBG, strong/JJ, U.S./NNP, performance/NN] 	152
+[Oil/NNP, falls/VBZ, in/IN, Asian/JJ, trade/NN] 	[Oil/NN, prices/NNS, down/RP, in/IN, Asian/JJ, trade/NN] 	153
+[Israeli/JJ, forces/NNS, detain/VBP, Palestinian/JJ, MP/NN, in/IN, Hebron/NNP] 	[Israeli/JJ, forces/NNS, detain/VBP, 2/CD, Palestinians/NNPS, in/IN, overnight/JJ, arrest/NN, raids/NNS] 	154
+[4/CD, killed/VBN, ,/,, several/JJ, injured/VBN, in/IN, SW/NNP, China/NNP, car/NN, accident/NN] 	[Two/CD, killed/VBN, ,/,, seventeen/CD, injured/VBN, in/IN, Raiwind/NNP, road/NN, accident/NN] 	155
+[More/JJR, than/IN, 3,400/CD, migrants/NNS, rescued/VBD, at/IN, sea/NN, in/IN, Mediterranean/NNP] 	[Over/IN, 2,000/CD, migrants/NNS, rescued/VBD, from/IN, wooden/JJ, boats/NNS, in/IN, Mediterranean/NNP] 	156
+[Lewis/NNP, Hamilton/NNP, Takes/VBZ, Pole/NNP, for/IN, Russian/NNP, GP/NN] 	[Lewis/NNP, Hamilton/NNP, wins/VBZ, inaugural/JJ, Russian/JJ, GP/NN] 	157
+[UN/NNP, Security/NNP, Council/NNP, hears/VBZ, Yemen/NNP, envoy/NN, 's/POS, final/JJ, .../:] 	[UN/NNP, Security/NNP, Council/NNP, urges/VBZ, Yemen/NNP, 's/POS, Houthis/NNP, to/TO, end/VB, .../:] 	158
+[Israeli/JJ, forces/NNS, arrest/NN, 21/CD, Palestinians/NNPS, overnight/RB, ,/,, clash/NN, with/IN, locals/NNS] 	[Israeli/JJ, security/NN, forces/NNS, arrest/VB, 8/CD, Palestinians/NNPS, in/IN, overnight/JJ, West/NNP, Bank/NNP, sweeps/VBZ] 	159
+[13/CD, killed/VBN, in/IN, Afgan/JJ, terror/NN, attack/NN] 	[6/CD, killed/VBN, in/IN, Afghan/NNP, capital/NN, mosque/NN, attack/NN] 	160
+[4/CD, dead/JJ, ,/,, 3/CD, injured/VBN, in/IN, east/JJ, China/NNP, road/NN, accident/NN] 	[2/CD, dead/JJ, ,/,, 8/CD, injured/VBN, in/IN, central/JJ, Israel/NNP, traffic/NN, accident/NN] 	161
+[Rev/NN, 's/POS, Early/JJ, Reads/NNS, :/:, March/NNP, 2/CD] 	[Rev./NNP, 's/POS, Early/JJ, Reads/NNS, :/:, Sept./NNP, 3rd/CD, ,/,, 2015/CD] 	162
+[Markets/NNS, Live/VBP, :/:, Waiting/VBG, for/IN, China/NNP, data/NNS] 	[Markets/NNS, Live/VBP, :/:, China/NNP, drags/VBZ] 	163
+[Palestinians/NNPS, ,/,, Israeli/JJ, police/NN, clash/NN, at/IN, Jerusalem/NNP, 's/POS, al-Aqsa/JJ] 	[Palestinian/JJ, Shot/NN, by/IN, Israeli/JJ, Police/NNS, in/IN, East/NNP, Jerusalem/NNP, Dies/VBZ] 	164
+[Suspected/JJ, Boko/NNP, Haram/NNP, suicide/NN, bombers/NNS, in/IN, Nigeria/NNP, kill/VBP, 24/CD] 	[Suspected/JJ, Boko/NNP, Haram/NNP, attacks/NNS, kill/VBP, dozens/NNS, in/IN, Nigeria/NNP] 	165
+[The/DT, end/NN, of/IN, the/DT, Hong/NNP, Kong/NNP, protests/NNS, ?/.] 	[UK/NNP, `/``, concern/NN, '/'', over/IN, Hong/NNP, Kong/NNP, protests/NNS] 	166
+[Russian/JJ, warplanes/NNS, strike/VBP, inside/IN, Syria/NNP] 	[Russian/JJ, roulette/NN, in/IN, Syria/NNP] 	167
+[CCTV/NNP, of/IN, gunmen/NNS, in/IN, Tunisia/NNP, museum/NN, attack/NN] 	[19/CD, killed/VBN, in/IN, Tunis/NNP, museum/NN, attack/NN] 	168
+[Live/NNP, Blog/NNP, :/:, Ukraine/NNP, In/IN, Crisis/NNP] 	[Live/NNP, Blog/NNP, :/:, Iraq/NNP, In/IN, Turmoil/NN] 	169
+[Israeli/JJ, police/NN, clash/NN, with/IN, Palestinian/JJ, protesters/NNS, at/IN, sensitive/JJ, Jerusalem/NNP, holy/JJ, site/NN] 	[Israel/NNP, Police/NNP, Clash/NNP, With/IN, Palestinians/NNPS, in/IN, Jerusalem/NNP] 	170
+[Nigeria/NNP, Votes/NNP, in/IN, Tight/NNP, Presidential/NNP, Election/NNP] 	[Guineans/NNS, Go/VB, to/TO, the/DT, Polls/NNS, in/IN, Presidential/NNP, Elections/NNS] 	171
+[Prince/NNP, William/NNP, dons/VBZ, samurai/NN, gear/NN, on/IN, Japan/NNP, tour/NN] 	[Prince/NNP, William/NNP, of/IN, Britain/NNP, arrives/VBZ, in/IN, Beijing/NNP] 	172
+[Pope/NNP, canonizes/VBZ, 2/CD, Palestinians/NNPS] 	[Sweden/NNP, recognizes/VBZ, Palestinian/JJ, state/NN] 	173
+[3/CD, killed/VBN, ,/,, 4/CD, injured/VBN, in/IN, Los/NNP, Angeles/NNP, shootings/NNS] 	[Five/CD, killed/VBN, in/IN, Saudi/NNP, Arabia/NNP, shooting/NN] 	174
+[Micronesia/NNP, vice/NN, president/NN, to/TO, visit/VB, China/NNP] 	[Vice/NNP, President/NNP, of/IN, Bolivia/NNP, to/TO, visit/VB, China/NNP] 	175
+[Islamic/JJ, State/NN, issues/NNS, video/NN, of/IN, beheading/NN, of/IN, US/NNP, hostage/NN] 	[Islamic/JJ, State/NN, posts/NNS, second/JJ, propaganda/NN, video/NN, of/IN, UK/NNP, hostage/NN] 	176
+[Iran/NNP, ends/VBZ, cooperation/NN, agreement/NN, with/IN, Pakistan/NNP] 	[Iran/NNP, ,/,, Tajikistan/NNP, sign/NN, cooperation/NN, agreement/NN] 	177
+[Teenager/NN, tests/NNS, negative/JJ, for/IN, Ebola/NNP] 	[Texas/NNP, hospital/NN, worker/NN, tests/NNS, positive/JJ, for/IN, Ebola/NNP] 	178
+[Texas/NNP, sues/VBZ, over/IN, Syrian/JJ, refugees/NNS] 	[Turkey/NNP, `/``, exploits/NNS, '/POS, Syrian/JJ, refugees/NNS] 	179
+[New/NNP, US/NNP, Sanctions/NNPS, Target/NN, Overseas/JJ, Cyber/NNP, Attackers/NNPS] 	[China/NNP, disagrees/VBZ, with/IN, U.S./NNP, sanctions/NNS, program/NN, on/IN, overseas/JJ, cyber/NN, attackers/NNS] 	180
+[5/CD, killed/VBN, in/IN, Israeli/JJ, air/NN, strikes/NNS, in/IN, Gaza/NNP] 	[38/CD, IS/VBZ, militants/NNS, killed/VBN, in/IN, clashes/NNS, ,/,, air/NN, strikes/NNS, in/IN, Iraq/NNP] 	181
+[Deadly/JJ, Blast/NN, Rocks/NNS, Coal/NNP, Mine/NNP, in/IN, East/NNP, Ukraine/NNP] 	[12/CD, Dead/JJ, ,/,, Despite/IN, Cease-fire/NN, in/IN, East/NNP, Ukraine/NNP] 	182
+[Greece/NNP, bailout/NN, uncertainty/NN, weighs/VBZ, on/IN, global/JJ, markets/NNS] 	[Greece/NNP, concerns/NNS, drag/VBP, on/IN, Asia/NNP, markets/NNS] 	183
+[Funeral/NN, of/IN, Ian/NNP, Paisley/NNP, to/TO, take/VB, place/NN, in/IN, Belfast/NNP] 	[Funeral/NN, of/IN, MH17/NN, victim/NN, Liam/NNP, Sweeney/NNP, takes/VBZ, place/NN, in/IN, Newcastle/NNP] 	184
+[Rooney/NNP, helps/VBZ, Man/NN, United/NNP, beat/VBD, Everton/NNP, 3-0/CD, in/IN, Premier/NNP, League/NNP] 	[West/NNP, Ham/NNP, beats/VBZ, Newcastle/NNP, 2-0/CD, in/IN, Premier/NNP, League/NNP] 	185
+[Hard-line/JJ, Jewish/JJ, leader/NN, shot/NN, in/IN, Jerusalem/NNP] 	[Israeli/JJ, leader/NN, urges/VBZ, calm/NN, in/IN, Jerusalem/NNP] 	186
+[Waba/NN, emerges/VBZ, new/JJ, NLC/NN, president/NN] 	[Waiting/VBG, for/IN, the/DT, next/JJ, president/NN] 	187
+[Backstage/NNP, Moves/NNS, Intensify/VB, as/IN, Fight/NN, Against/IN, Islamic/JJ, State/NN, Widens/VBZ] 	[Mixed/JJ, Progress/NNP, Reported/NNP, in/IN, Fight/NN, Against/IN, Islamic/JJ, State/NN] 	188
+[Egypt/NNP, :/:, IPI/NNP, Urges/VBZ, Release/NNP, of/IN, Al/NNP, Jazeera/NNP, Journalist/NNP, Arrested/VBN, in/IN, Berlin/NNP] 	[Egypt/NNP, sentences/NNS, Al/NNP, Jazeera/NNP, journalists/NNS, to/TO, jail/NN] 	189
+[occupied/VBN, Palestinian/JJ, territory/NN, :/:, Israeli/JJ, Forces/NNS, Continue/VBP, to/TO, Shed/VBN, Palestinian/JJ, Blood/NN, in/IN, oPt/NN] 	[occupied/VBN, Palestinian/JJ, territory/NN, :/:, Israel/NNP, warns/VBZ, on/IN, security/NN, as/IN, Gaza/NNP, truce/NN, talks/NNS, resume/VBP] 	190
+[5/CD, US/NNP, airstrikes/NNS, target/VBP, Islamic/JJ, State/NN, fighters/NNS] 	[Kurds/NNPS, see/VBP, Turkey/NNP, impeding/VBG, Islamic/JJ, State/NN, fight/NN] 	191
+[Libya/NNP, :/:, UN/NNP, orders/NNS, investigation/NN, into/IN, Libya/NNP, rights/NNS, abuses/NNS] 	[India/NNP, 's/POS, top/JJ, court/NN, orders/NNS, investigation/NN, into/IN, job/NN, scam/NN, ,/,, deaths/NNS] 	192
+[Taiwan/NNP, coast/NN, guard/NN, launches/VBZ, new/JJ, ships/NNS, as/IN, South/NNP, China/NNP, Sea/NNP, tensions/NNS, rise/VBP] 	[Chinese/JJ, military/JJ, reaches/NNS, out/IN, amid/IN, South/NNP, China/NNP, Sea/NNP, tensions/NNS] 	193
+[Burundi/NNP, police/NN, fire/NN, tear/VB, gas/NN, at/IN, protesters/NNS] 	[Montenegrin/JJ, police/NN, fire/NN, teargas/NNS, to/TO, disperse/VB, opposition/NN] 	194
+[Nepal/NNP, earthquake/NN, death/NN, toll/NN, surpasses/VBZ, 7,000/CD] 	[Death/NN, toll/NN, in/IN, Nepal/NNP, earthquake/NN, tops/NNS, 8,000/CD] 	195
+[Ashya/NNP, 's/POS, Parents/NNS, Arrive/VBP, For/IN, Extradition/NN, Hearing/NN] 	[Ashya/NNP, King/NNP, 's/POS, parents/NNS, freed/VBN, from/IN, jail/NN, in/IN, Spain/NNP] 	196
+[Nigeria/NNP, admits/VBZ, slow/JJ, response/NN, in/IN, Ebola/NNP, case/NN] 	[US/NNP, ramps/NNS, up/IN, response/NN, to/TO, Ebola/NNP, crisis/NN] 	197
+[Thousands/NNS, cross/VBP, Austria-Hungary/NNP, border/NN] 	[Thousands/NNS, of/IN, Russians/NNPS, stranded/VBD, abroad/RB] 	198
+[Kranjcar/NNP, leaves/VBZ, it/PRP, late/JJ, to/TO, rescue/NN, QPR/NN, against/IN, Moses-inspired/JJ, Stoke/NNP] 	[Harry/NNP, Kane/NNP, leaves/VBZ, it/PRP, late/JJ, to/TO, rescue/VB, a/DT, point/NN, for/IN, Tottenham/NNP, Hotspur/NNP] 	199
+[Oscar/NNP, Pistorius/NNP, sentenced/VBN, to/TO, 5/CD, years/NNS, in/IN, prison/NN] 	[`/``, Bookkeeper/NN, of/IN, Auschwitz/NNP, '/POS, Sentenced/VBN, to/TO, Four/CD, Years/NNS, in/IN, Prison/NN] 	200
+[Pro-Palestinian/NNP, Activists/NNP, March/NNP, to/TO, UN/NNP, Headquarters/NN] 	[Pro-Palestinian/JJ, activists/NNS, prepare/VBP, flotilla/NN, to/TO, break/VB, Gaza/NNP, blockade/NN] 	201
+[Benzema/NNP, faces/VBZ, possible/JJ, charges/NNS, in/IN, sex-tape/NN, case/NN] 	[Menendez/NNP, faces/VBZ, possible/JJ, corruption/NN, charges/NNS] 	202
+[US/NNP, Senate/NNP, votes/VBZ, to/TO, advance/VB, Iran/NNP, nuclear/JJ, review/NN, bill/NN] 	[US/NNP, scientists/NNS, praise/VBP, Iran/NNP, nuclear/JJ, deal/NN] 	203
+[All/DT, 224/CD, dead/JJ, in/IN, Russian/JJ, airliner/NN, mystery/NN, crash/NN] 	[Heat/NN, flash/NN, detected/VBN, at/IN, time/NN, of/IN, Russian/JJ, airliner/NN, crash/NN] 	204
+[Govt/NNP, ./.] [to/TO, hold/VB, talks/NNS, with/IN, FTII/NN, students/NNS] 	[Cameron/NNP, to/TO, hold/VB, talks/NNS, with/IN, Sturgeon/NN, on/IN, UK/NNP, future/NN] 	205
+[Li/NNP, Na/NNP, to/TO, announce/VB, retirement/NN] 	[US/NNP, Senator/NNP, Ted/NNP, Cruz/NNP, to/TO, announce/VB, presidential/JJ, bid/NN] 	206
+[Gunners/NNS, fire/NN, but/CC, fail/VBP, to/TO, advance/VB, in/IN, Champions/NNPS, League/NNP] 	[EPL/NN, clubs/NNS, out/IN, to/TO, avoid/VB, Champions/NNPS, League/NNP, woes/NNS] 	207
+[Scientists/NNS, prove/VBP, there/EX, is/VBZ, water/NN, on/IN, Mars/NNP] 	[Has/VBZ, Nasa/NNP, discovered/VBN, water/NN, on/IN, Mars/NNP, ?/.] 	208
+[Iranian/JJ, President/NNP, praises/VBZ, nuclear/JJ, deal/NN] 	[Iran/NNP, arrests/NNS, several/JJ, spies/NNS, near/IN, nuclear/JJ, plant/NN] 	209
+[Boko/NNP, Haram/NNP, disrupts/VBZ, Nigerian/JJ, elections/NNS] 	[South/NNP, Korea/NNP, regrets/VBZ, North/NNP, 's/POS, refusal/NN, of/IN, talks/NNS] 	[South/NNP, Korea/NNP, reports/VBZ, 14th/JJ, Mers/NNS, death/NN, ,/,, 12/CD, new/JJ, cases/NNS] 	211
+[Plane/NN, Crash/NNP, Site/NN, Search/VB, Called/VBN, off/RP, for/IN, the/DT, Night/NN] 	[Tour/NN, De/NNP, France/NNP, Pack/VB, Sets/NNS, off/RP, for/IN, Stage/NNP, 15/CD] 	212
+[Editors/NNS, from/IN, around/IN, the/DT, world/NN, urge/NN, Turkey/NNP, to/TO, protect/VB, media/NNS] 	[Media/NNP, freedom/NN, at/IN, stake/NN, as/IN, Turkey/NNP, fights/NNS, rebels/NNS] 	213
+[Obama/NNP, queries/VBZ, Turnbull/NNP, over/IN, China/NNP, port/NN, deal/NN] 	[Spanish/JJ, bulls/NNS, gore/VBP, seven/CD, to/TO, death/NN] 	214
+[China/NNP, 's/POS, generous/JJ, 1MDB/NN, bid/NN, seen/VBN, reaping/VBG, it/PRP, big/JJ, returns/NNS, in/IN, Malaysia/NNP] 	[China/NNP, keeps/VBZ, an/DT, eye/NN, on/IN, visiting/VBG, tiger/NN, freed/VBN, by/IN, Russian/NNP, President/NNP] 	215
+[Hezbollah/NNP, targets/VBZ, Qaeda/NNP, gathering/VBG, along/IN, border/NN, with/IN, Syria/NNP] 	[Belarus/NNP, tightens/VBZ, security/NN, along/IN, the/DT, border/NN, with/IN, Ukraine/NNP] 	216
+[South/NNP, Korea/NNP, reports/VBZ, seven/CD, new/JJ, MERS/NNS, cases/NNS] 	[South/JJ, Korean/JJ, woman/NN, in/IN, contact/NN, with/IN, MERS/NNS, patient/NN, dies/VBZ] 	217
+[Obama/NNP, calls/VBZ, for/IN, international/JJ, front/NN, against/IN, IS/VBZ] 	[Obama/NNP, vows/VBZ, to/TO, save/VB, Iraqis/NNPS, stranded/VBD, on/IN, mountain/NN] 	218
+[U.S./NNP, military/JJ, says/VBZ, it/PRP, conducts/VBZ, airstrikes/NNS, against/IN, IS/VBZ, in/IN, Syria/NNP, ,/,, Iraq/NNP] 	[Observatory/NN, says/VBZ, Russian/JJ, air/NN, strikes/NNS, kill/VBP, 45/CD, in/IN, Syria/NNP] 	219
+[Who/WP, abandoned/VBD, 3/CD, Boeing/NNP, planes/NNS, at/IN, the/DT, airport/NN, ?/.] 	[Police/NNP, abandon/VB, posts/NNS, in/IN, Lesotho/NNP, ,/,, fear/NN, for/IN, lives/NNS] 	220
+[North/NNP, Korea/NNP, to/TO, put/VB, US/NNP, citizen/NN, on/IN, trial/NN] 	[N/NNP, Korea/NNP, hit/VBD, with/IN, new/JJ, US/NNP, sanctions/NNS] 	221
+[Hong/NNP, Kong/NNP, officials/NNS, resume/VBP, work/NN, as/IN, protests/NNS, thin/JJ] 	[Hong/NNP, Kong/NNP, student/NN, leaders/NNS, mull/VBP, protest/NN, retreat/NN] 	222
+[Ebola/NNP, UK/NNP, :/:, NHS/NNP, staff/NN, `/``, panicked/VBN, '/'', after/IN, suspected/VBN, Ebola/NNP, cases/NNS] 	[UK/NNP, says/VBZ, investigating/VBG, 2/CD, suspected/VBN, MERS/NNS, cases/NNS] 	223
+[UK/NNP, Leader/NNP, Signals/NNS, Support/NN, for/IN, Airstrikes/NNP, on/IN, IS/VBZ, in/IN, Syria/NNP] 	[Why/WRB, Cyprus/NNP, backs/VBZ, Cameron/NNP, 's/POS, push/NN, for/IN, UK/NNP, air/NN, strikes/NNS, in/IN, Syria/NNP] 	224
+[Philippines/NNPS, ,/,, Canada/NNP, pledge/NN, to/TO, further/JJ, boost/NN, relations/NNS] 	[Philippines/NNP, saves/VBZ, 100/CD, after/IN, ferry/NN, sinks/VBZ] 	225
+[Israel/NNP, bars/NNS, Palestinians/NNPS, from/IN, Jerusalem/NNP, 's/POS, Old/NNP, City/NNP] 	[Two-state/JJ, solution/NN, between/IN, Palestinians/NNPS, ,/,, Israel/NNP, pie/NN, in/IN, sky/NN] 	226
+[How/WRB, much/RB, do/VBP, you/PRP, know/VB, about/IN, Secret/NNP, Service/NNP, ?/.] 	[Lawmakers/NNS, from/IN, both/DT, sides/NNS, express/VBP, outrage/NN, at/IN, Secret/NNP, Service/NNP] 	227
+[N./NNP, Korea/NNP, agrees/VBZ, to/TO, talks/NNS, with/IN, South/NNP] 	[Johor/NNP, crowns/VBZ, its/PRP$, fifth/JJ, Sultan/NNP] 	228
+[Iran/NNP, ,/,, a/DT, large/JJ, important/JJ, partner/NN, for/IN, Russia/NNP, :/:, Novak/NNP] 	[Iran/NNP, reiterates/VBZ, support/NN, for/IN, Iraq/NNP, ,/,, Syria/NNP] 	229
+[Taiwan/NNP, 's/POS, president/NN, charters/NNS, plane/NN, to/TO, pay/VB, respects/NNS, to/TO, Lee/NNP] 	[Poland/NNP, president/NN, loses/VBZ, to/TO, challenger/NN] 	230
+[Two/CD, Palestinians/NNPS, die/VB, in/IN, attacks/NNS, on/IN, Israelis/NNPS, ahead/RB, of/IN, Kerry/NNP, visit/NN] 	[Palestinian/JJ, official/JJ, slams/NNS, Israel/NNP, 's/POS, stone-throwing/JJ, bill/NN] 	231
+[Thomas/NNP, Cook/NNP, accused/VBD, of/IN, putting/VBG, costs/NNS, before/IN, customers/NNS] 	[University/NNP, of/IN, Florida/NNP, frat/NN, accused/VBD, of/IN, spitting/VBG, on/IN, wounded/VBN, war/NN, veterans/NNS] 	232
+[Narendra/NNP, Modi/NNP, `/``, photoshopped/VBN, '/'', image/NN, of/IN, Chennai/NNP, floods/NNS, visit/NN, goes/VBZ, viral/JJ] 	[PM/NNP, Narendra/NNP, Modi/NNP, speaks/VBZ, of/IN, non-discrimination/JJ, and/CC, equality/NN] 	233
+[UN/NNP, chief/NN, welcomes/VBZ, peaceful/JJ, presidential/JJ, elections/NNS, in/IN, Guinea/NNP] 	[UN/NNP, chief/NN, condemns/VBZ, attack/NN, against/IN, peacekeepers/NNS, in/IN, Mali/NNP] 	234
+[Obama/NNP, Struggles/VBZ, to/TO, Soothe/VB, Saudi/JJ, Fears/NNS, As/IN, Iran/NNP, Talks/NNS, Resume/VB] 	[Myanmar/NNP, Struggles/VBZ, to/TO, Finalize/VB, Voter/NNP, Lists/NNP, for/IN, Sunday/NNP, Polls/NNS] 	235
+[Pakistan/NNP, executions/NNS, draw/VBP, international/JJ, ire/NN] 	[Pakistan/NNP, protests/NNS, ceasefire/NN, violations/NNS, by/IN, India/NNP] 	236
+[South/NNP, Korea/NNP, declares/VBZ, end/NN, to/TO, MERS/NNS, outbreak/NN] 	[North/NNP, Korea/NNP, Delegation/NNP, Meets/VBZ, With/IN, South/JJ, Korean/JJ, Officials/NNS] 	237
+[Pranab/NNP, stresses/VBZ, need/NN, to/TO, strive/VB, for/IN, peace/NN, by/IN, nations/NNS] 	[WTO/NNP, :/:, India/NNP, regrets/VBZ, action/NN, of/IN, developed/JJ, nations/NNS] 	238
+[Volkswagen/NNP, skids/NNS, into/IN, red/JJ, in/IN, wake/NN, of/IN, pollution/NN, scandal/NN] 	[Volkswagen/NNP, 's/POS, ``/``, gesture/NN, of/IN, goodwill/NN, ''/'', to/TO, diesel/NN, owners/NNS] 	239
+[Two/CD, Australians/NNPS, killed/VBN, in/IN, Kenya/NNP, after/IN, bus/NN, crashed/VBD, into/IN, river/NN] 	[Permalink/NNP, to/TO, Two/CD, killed/VBN, in/IN, Germany/NNP, train/NN, accident/NN] 	240
+[France/NNP, shuts/VBZ, mosque/NN, ,/,, arrests/NNS, man/NN, in/IN, crackdown/NN, after/IN, attacks/NNS] 	[Security/NNP, tightened/VBD, at/IN, New/NNP, Delhi/NNP, churches/NNS, after/IN, attacks/NNS] 	241
+[Russian/JJ, plane/NN, reportedly/RB, crashes/VBZ, in/IN, Egypt/NNP] 	[Pilot/NN, killed/VBD, as/IN, US/NNP, jet/NN, crashes/NNS, in/IN, England/NNP] 	242
+[Severe/JJ, Gales/NNS, As/IN, Storm/NN, Clodagh/NNP, Hits/NNP, Britain/NNP] 	[Merkel/NNP, pledges/VBZ, NATO/NNP, solidarity/NN, with/IN, Latvia/NNP] 	243
+[Dozens/NNS, of/IN, Egyptians/NNP, hostages/NNS, taken/VBN, by/IN, Libyan/JJ, terrorists/NNS, as/IN, revenge/NN, for/IN, airstrikes/NNS] 	[Egyptian/JJ, boat/NN, crash/NN, death/NN, toll/NN, rises/VBZ, as/IN, more/JJR, bodies/NNS, found/VBN, in/IN, Nile/NNP] 	244
+[President/NNP, heading/VBG, to/TO, Bahrain/NNP] 	[President/NNP, Xi/NN, :/:, China/NNP, to/TO, continue/VB, help/NN, to/TO, fight/VB, Ebola/NNP] 	245
+[China/NNP, ,/,, India/NNP, vow/NN, to/TO, further/JJ, bilateral/JJ, ties/NNS] 	[China/NNP, Scrambles/NNPS, to/TO, Reassure/VB, Jittery/JJ, Stock/NN, Traders/NNS] 	246
+[Obama/NNP, is/VBZ, right/JJ, :/:, Africa/NNP, deserves/VBZ, better/JJR, leadership/NN] 	[Obama/NNP, waiting/VBG, for/IN, midterm/JJ, to/TO, name/VB, attorney/NN, general/NN] 	247
+[Putin/NNP, spokesman/NN, :/:, Doping/NN, charges/NNS, appear/VBP, unfounded/JJ] 	[The/DT, Latest/JJS, on/IN, Severe/JJ, Weather/NN, :/:, 1/CD, Dead/NNP, in/IN, Texas/NNP, After/IN, Tornado/NNP] 	248
+[New/NNP, video/NN, shows/VBZ, US/NNP, police/NN, officers/NNS, beating/VBG, mentally-ill/JJ, man/NN] 	[New/NNP, York/NNP, police/NN, officer/NN, critically/RB, wounded/VBD, in/IN, hatchet/NN, attack/NN] 	249

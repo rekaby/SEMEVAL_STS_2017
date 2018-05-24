@@ -1,0 +1,9 @@
+nummod	votes	Three
+neg	votes	no
+nsubj	kill	votes
+aux	kill	would
+root	ROOT	kill
+dobj	kill	it
+case	now	for
+nmod:for	kill	now
+punct	kill	.

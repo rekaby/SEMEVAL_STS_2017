@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+case	things	of
+amod	things	fastening
+nmod:of	act	things
+advmod	act	together
+punct	act	.

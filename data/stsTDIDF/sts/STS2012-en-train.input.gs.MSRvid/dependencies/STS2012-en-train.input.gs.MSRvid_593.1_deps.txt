@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	opening	dog
+aux	opening	is
+root	ROOT	opening
+det	fridge	a
+dobj	opening	fridge
+punct	opening	.

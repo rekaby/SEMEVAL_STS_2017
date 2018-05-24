@@ -1,0 +1,10 @@
+nummod	girls	Two
+nsubj	Ttan	girls
+root	ROOT	Ttan
+case	grass	through
+det	grass	the
+nmod:through	Ttan	grass
+case	fall	in
+det	fall	the
+nmod:in	Ttan	fall
+punct	Ttan	.

@@ -1,0 +1,4 @@
+want	Women	nsubj
+camera	at	case
+look	camera	nmod:at
+want	child	dobj

@@ -1,0 +1,7 @@
+compound	fire	Firefighters
+compound	fire	battle
+compound	fire	forest
+root	ROOT	fire
+case	SW	in
+nmod:in	fire	SW
+appos	fire	China

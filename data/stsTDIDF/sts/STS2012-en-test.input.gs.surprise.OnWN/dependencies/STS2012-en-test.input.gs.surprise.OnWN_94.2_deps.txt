@@ -1,0 +1,4 @@
+root	ROOT	make
+amod	sounds	high-pitched
+dobj	make	sounds
+punct	make	.

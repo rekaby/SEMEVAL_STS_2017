@@ -1,0 +1,22 @@
+det	mark	a
+compound	mark	punctuation
+root	ROOT	mark
+dep	mark	-LRB-
+punct	-LRB-	.
+punct	.	-RRB--6) root(ROOT-0, placed
+case	end	at
+det	end	the
+nmod:at	placed	end
+case	sentence	of
+det	sentence	a
+amod	sentence	declarative
+nmod:of	end	sentence
+mark	indicate	to
+xcomp	placed	indicate
+det	stop	a
+amod	stop	full
+dobj	indicate	stop
+cc	stop	or
+case	abbreviations	after
+conj:or	stop	abbreviations
+punct	placed	.

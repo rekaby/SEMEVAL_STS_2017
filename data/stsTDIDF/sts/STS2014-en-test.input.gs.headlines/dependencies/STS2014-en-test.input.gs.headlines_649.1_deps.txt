@@ -1,0 +1,7 @@
+nsubj	offer	Nicaragua
+punct	Nicaragua	,
+appos	Nicaragua	Venezuela
+root	ROOT	offer
+dobj	offer	asylum
+case	Snowden	to
+nmod:to	offer	Snowden

@@ -1,0 +1,7 @@
+nsubj	evacuates	Russia
+root	ROOT	evacuates
+dobj	evacuates	embassy
+case	Libya	in
+nmod:in	evacuates	Libya
+case	attack	after
+nmod:after	evacuates	attack

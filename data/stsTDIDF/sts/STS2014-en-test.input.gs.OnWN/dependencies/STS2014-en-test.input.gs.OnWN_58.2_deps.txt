@@ -1,0 +1,8 @@
+det	condition	the
+amod	condition	general
+root	ROOT	condition
+case	body	of
+nmod:of	condition	body
+cc	body	and
+conj:and	body	mind
+punct	condition	.

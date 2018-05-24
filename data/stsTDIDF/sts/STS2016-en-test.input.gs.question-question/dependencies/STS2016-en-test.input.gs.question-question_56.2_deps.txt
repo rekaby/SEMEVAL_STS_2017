@@ -1,0 +1,10 @@
+advmod	long	How
+advmod	uncooked	long
+aux	uncooked	will
+root	ROOT	uncooked
+compound	keep	chicken
+dobj	uncooked	keep
+case	fridge	in
+det	fridge	the
+nmod:in	keep	fridge
+punct	uncooked	?

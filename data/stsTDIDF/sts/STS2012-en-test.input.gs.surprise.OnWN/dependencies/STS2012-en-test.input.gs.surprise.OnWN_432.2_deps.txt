@@ -1,0 +1,7 @@
+dep	shine	make
+punct	surface	-LRB-
+det	surface	a
+dep	shine	surface
+punct	surface	-RRB-
+root	ROOT	shine
+punct	shine	.

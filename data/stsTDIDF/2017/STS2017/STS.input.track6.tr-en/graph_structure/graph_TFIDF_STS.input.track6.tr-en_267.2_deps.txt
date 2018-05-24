@@ -1,0 +1,10 @@
+keeps	ball	dobj
+dog	brown	amod
+keeps	catch	advcl
+catch	can	aux
+catch	so	mark
+catch	dog	dobj
+keeps	air	nmod:in
+keeps	man	nsubj
+catch	he	nsubj
+catch	beach	nmod:on

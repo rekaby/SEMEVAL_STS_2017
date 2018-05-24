@@ -1,0 +1,15 @@
+compound	York	Trish
+nsubj	declined	York
+punct	York	,
+det	spokeswoman	a
+appos	York	spokeswoman
+case	Boeing	for
+nmod:for	spokeswoman	Boeing
+punct	York	,
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+case	deal	on
+det	deal	the
+nmod:on	comment	deal
+punct	declined	.

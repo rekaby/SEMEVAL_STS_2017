@@ -1,0 +1,9 @@
+man	This	det
+riding	jump	nmod:on
+riding	skateboard	dobj
+riding	man	nsubj
+jump	bike	compound
+jump	a	det
+jump	on	case
+skateboard	a	det
+riding	is	aux

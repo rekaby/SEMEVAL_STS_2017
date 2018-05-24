@@ -1,0 +1,13 @@
+punct	suspended	-LRB-
+det	sitting	the
+nsubjpass	suspended	sitting
+auxpass	suspended	was
+root	ROOT	suspended
+nmod	suspended	at
+punct	suspended	,
+auxpass	resumed	is
+advcl	suspended	resumed
+case	p.m.	at
+nummod	p.m.	3
+nmod:at	resumed	p.m.
+punct	suspended	-RRB-

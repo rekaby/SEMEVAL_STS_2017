@@ -1,0 +1,6 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	wearing
+compound	helmets	bike
+dobj	wearing	helmets
+punct	men	.

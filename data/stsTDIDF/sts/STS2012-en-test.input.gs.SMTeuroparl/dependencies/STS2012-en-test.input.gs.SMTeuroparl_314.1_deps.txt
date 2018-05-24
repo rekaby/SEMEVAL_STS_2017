@@ -1,0 +1,17 @@
+mark	explained	As
+nsubj	explained	I
+advmod	explained	already
+advcl	is	explained
+case	reading	during
+amod	reading	second
+nmod:during	explained	reading
+punct	is	,
+expl	is	there
+root	ROOT	is
+det	crisis	a
+nsubj	is	crisis
+acl	crisis	underlying
+det	amendment	this
+compound	amendment	directive
+dobj	underlying	amendment
+punct	is	.

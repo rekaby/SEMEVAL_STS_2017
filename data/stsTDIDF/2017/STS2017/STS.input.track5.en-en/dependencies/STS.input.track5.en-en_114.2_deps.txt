@@ -1,0 +1,14 @@
+nummod	men	Two
+nsubj	standing	men
+case	dress	in
+compound	dress	business
+nmod:in	men	dress
+aux	standing	are
+root	ROOT	standing
+case	side	by
+det	side	the
+nmod:by	standing	side
+case	road	of
+det	road	a
+nmod:of	side	road
+punct	standing	.

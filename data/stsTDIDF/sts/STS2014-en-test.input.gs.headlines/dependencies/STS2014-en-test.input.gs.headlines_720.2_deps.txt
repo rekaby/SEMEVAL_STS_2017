@@ -1,0 +1,9 @@
+amod	driver	Spanish
+compound	driver	train
+root	ROOT	driver
+nsubjpass	questioned	Garzon
+mark	questioned	to
+auxpass	questioned	be
+acl	driver	questioned
+case	judge	by
+nmod:agent	questioned	judge

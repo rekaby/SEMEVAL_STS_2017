@@ -1,0 +1,6 @@
+compound	race	Jockeys
+root	ROOT	race
+det	horses	the
+amod	horses	fast
+dobj	race	horses
+punct	race	.

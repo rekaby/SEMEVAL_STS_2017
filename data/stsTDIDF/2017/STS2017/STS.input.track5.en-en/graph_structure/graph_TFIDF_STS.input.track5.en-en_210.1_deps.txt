@@ -1,0 +1,7 @@
+jumps	and	cc
+jumps	woman	nsubj
+jumps	poses	conj:and
+poses	camera	nmod:for
+jumps	.	punct
+camera	for	case
+ROOT	jumps	root

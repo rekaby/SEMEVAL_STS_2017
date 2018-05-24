@@ -1,0 +1,11 @@
+root	ROOT	cause
+det	gas	a
+dobj	cause	gas
+cc	gas	or
+conj:or	gas	vapor
+mark	change	to
+advcl	cause	change
+case	liquid	into
+det	liquid	a
+nmod:into	change	liquid
+punct	cause	.

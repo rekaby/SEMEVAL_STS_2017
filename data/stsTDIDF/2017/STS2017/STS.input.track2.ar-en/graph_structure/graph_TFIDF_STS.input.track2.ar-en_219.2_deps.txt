@@ -1,0 +1,6 @@
+man	saw	conj:and
+sunrise	the	det
+riding	bike	dobj
+saw	sunrise	dobj
+man	riding	acl
+bike	his	nmod:poss

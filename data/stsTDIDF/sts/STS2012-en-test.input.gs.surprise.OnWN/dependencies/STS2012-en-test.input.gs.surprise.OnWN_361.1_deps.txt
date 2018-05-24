@@ -1,0 +1,11 @@
+det	act	The
+root	ROOT	act
+mark	proposing	of
+acl	act	proposing
+dobj	proposing	someone
+case	candidate	as
+det	candidate	a
+nmod:as	proposing	candidate
+case	something	for
+nmod:for	candidate	something
+punct	act	.

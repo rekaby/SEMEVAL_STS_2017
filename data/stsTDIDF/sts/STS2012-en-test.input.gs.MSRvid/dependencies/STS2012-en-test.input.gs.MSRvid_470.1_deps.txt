@@ -1,0 +1,7 @@
+det	man	A
+nsubj	smelling	man
+aux	smelling	is
+root	ROOT	smelling
+nummod	pizzas	two
+dobj	smelling	pizzas
+punct	smelling	.

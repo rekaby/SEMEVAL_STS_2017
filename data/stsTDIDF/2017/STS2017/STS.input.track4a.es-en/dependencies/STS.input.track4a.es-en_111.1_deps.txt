@@ -1,0 +1,9 @@
+nummod	dogs	Two
+amod	dogs	small
+nsubj	cage	dogs
+cop	cage	are
+case	cage	in
+det	cage	a
+root	ROOT	cage
+advmod	cage	outside
+punct	cage	.

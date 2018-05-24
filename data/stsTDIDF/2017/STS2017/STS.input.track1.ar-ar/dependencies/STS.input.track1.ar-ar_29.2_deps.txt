@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	playing
+case	clothes	with
+nmod:poss	clothes	her
+compound	clothes	boyfriend
+compound	clothes	Game
+amod	clothes	fancy
+nmod:with	playing	clothes
+case	balcony	in
+det	balcony	the
+nmod:in	playing	balcony
+punct	girl	.

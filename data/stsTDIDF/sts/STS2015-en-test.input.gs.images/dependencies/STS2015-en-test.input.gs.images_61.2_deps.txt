@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+nsubj	plays	girl
+root	ROOT	plays
+case	pit	in
+det	pit	a
+nmod:in	plays	pit
+case	balls	of
+amod	balls	colorful
+nmod:of	pit	balls
+punct	plays	.

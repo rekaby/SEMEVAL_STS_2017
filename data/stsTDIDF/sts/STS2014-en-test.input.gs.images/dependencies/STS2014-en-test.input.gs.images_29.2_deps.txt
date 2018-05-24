@@ -1,0 +1,10 @@
+det	car	A
+amod	car	small
+amod	car	white
+root	ROOT	car
+acl	car	parked
+case	station	at
+det	station	the
+compound	station	gas
+nmod:at	parked	station
+punct	car	.

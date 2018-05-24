@@ -1,0 +1,12 @@
+det	man	The
+nsubj	artist	man
+cop	artist	is
+det	artist	a
+compound	artist	street
+root	ROOT	artist
+cc	artist	and
+conj:and	artist	has
+dobj	has	people
+acl	people	watching
+nmod:poss	tricks	his
+dobj	watching	tricks

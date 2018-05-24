@@ -1,0 +1,15 @@
+det	group	A
+nsubj	rafting	group
+case	people	of
+nummod	people	seven
+nmod:of	group	people
+aux	rafting	are
+root	ROOT	rafting
+case	rapids	in
+det	rapids	the
+nmod:in	rafting	rapids
+case	boat	in
+det	boat	a
+amod	boat	green
+nmod:in	rapids	boat
+punct	rafting	.

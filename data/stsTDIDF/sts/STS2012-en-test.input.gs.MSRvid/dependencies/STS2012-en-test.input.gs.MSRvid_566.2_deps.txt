@@ -1,0 +1,9 @@
+det	couple	A
+nsubj	eating	couple
+aux	eating	are
+root	ROOT	eating
+det	meal	a
+dobj	eating	meal
+cc	meal	and
+conj:and	meal	talking
+punct	eating	.

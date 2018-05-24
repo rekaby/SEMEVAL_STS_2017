@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	wake	woman
+aux	wake	is
+root	ROOT	wake
+xcomp	wake	boarding
+case	lake	on
+det	lake	a
+nmod:on	boarding	lake
+punct	wake	.

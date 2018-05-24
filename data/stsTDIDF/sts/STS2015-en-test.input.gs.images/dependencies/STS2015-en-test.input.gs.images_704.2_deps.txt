@@ -1,0 +1,13 @@
+det	man	a
+root	ROOT	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	black
+cc	black	and
+conj:and	black	white
+dobj	wearing	shirt
+acl	shirt	jumping
+case	dogs	on
+det	dogs	a
+nmod:on	jumping	dogs
+compound:prt	jumping	back

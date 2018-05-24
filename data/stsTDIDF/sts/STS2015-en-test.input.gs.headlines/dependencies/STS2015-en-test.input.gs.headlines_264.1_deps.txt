@@ -1,0 +1,8 @@
+compound	suspect	Boston
+compound	suspect	bomb
+root	ROOT	suspect
+dep	suspect	charged
+punct	charged	;
+amod	motive	religious
+conj	charged	motive
+acl	motive	seen

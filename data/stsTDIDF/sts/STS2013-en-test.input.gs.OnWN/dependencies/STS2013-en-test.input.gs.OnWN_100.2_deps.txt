@@ -1,0 +1,9 @@
+root	ROOT	induce
+case	action	into
+nmod:into	induce	action
+mark	using	by
+advcl	induce	using
+nmod:poss	charm	one
+case	one	's
+dobj	using	charm
+punct	induce	.

@@ -1,0 +1,8 @@
+root	ROOT	give
+compound:prt	give	up
+nsubjpass	needed	what
+auxpass	needed	is
+neg	needed	not
+advmod	needed	strictly
+ccomp	give	needed
+punct	give	.

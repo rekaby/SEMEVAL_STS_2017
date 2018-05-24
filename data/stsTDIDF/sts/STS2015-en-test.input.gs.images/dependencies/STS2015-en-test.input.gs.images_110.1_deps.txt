@@ -1,0 +1,6 @@
+det	deer	A
+nsubj	jumps	deer
+root	ROOT	jumps
+det	fence	a
+dobj	jumps	fence
+punct	jumps	.

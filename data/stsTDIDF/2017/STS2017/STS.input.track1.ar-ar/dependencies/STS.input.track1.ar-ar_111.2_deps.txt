@@ -1,0 +1,12 @@
+compound	group	Men
+nsubj	have	group
+case	friends	of
+amod	friends	close
+nmod:of	group	friends
+punct	have	,
+nsubj	have	they
+root	ROOT	have
+det	night	a
+compound	night	game
+dobj	have	night
+punct	have	.

@@ -1,0 +1,7 @@
+compound	airport	Schiphol
+nsubj	evacuated	airport
+root	ROOT	evacuated
+case	threat	due
+mwe	due	to
+compound	threat	bomb
+nmod:due_to	evacuated	threat

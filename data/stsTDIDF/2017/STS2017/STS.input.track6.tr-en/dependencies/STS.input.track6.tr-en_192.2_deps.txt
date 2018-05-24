@@ -1,0 +1,9 @@
+nummod	guys	Three
+nsubj	having	guys
+aux	having	are
+root	ROOT	having
+dobj	having	fun
+case	pool	in
+det	pool	the
+nmod:in	having	pool
+punct	having	.

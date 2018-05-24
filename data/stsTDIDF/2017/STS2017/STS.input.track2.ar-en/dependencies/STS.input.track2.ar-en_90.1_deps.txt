@@ -1,0 +1,14 @@
+det	woman	An
+amod	woman	asian
+nsubj	stands	woman
+case	microphone	with
+det	microphone	a
+nmod:with	woman	microphone
+root	ROOT	stands
+case	crowd	amongst
+det	crowd	a
+nmod:amongst	stands	crowd
+case	hands	of
+amod	hands	raised
+nmod:of	crowd	hands
+punct	stands	.

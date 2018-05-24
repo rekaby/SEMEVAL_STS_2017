@@ -1,0 +1,8 @@
+root	ROOT	@NickFun
+punct	@NickFun	,
+root	,	Has
+nsubj	Has	anyone
+acl	anyone	heard
+case	Dutchy	from
+nmod:from	heard	Dutchy
+punct	Has	?

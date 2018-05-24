@@ -1,0 +1,6 @@
+det	person	A
+nsubj	burning	person
+aux	burning	is
+root	ROOT	burning
+dobj	burning	cameras
+punct	burning	.

@@ -1,0 +1,15 @@
+root	ROOT	``
+nsubj	has	Facebook
+root	``	has
+det	lot	a
+dobj	has	lot
+case	data	of
+nmod:of	lot	data
+punct	has	,
+cc	has	but
+conj:but	has	it?s
+advmod	noisy	very
+amod	data	noisy
+dobj	it?s	data
+punct	has	.
+punct	has	''

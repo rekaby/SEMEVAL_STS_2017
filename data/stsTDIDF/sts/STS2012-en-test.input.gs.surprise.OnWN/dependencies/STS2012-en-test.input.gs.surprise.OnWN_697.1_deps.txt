@@ -1,0 +1,9 @@
+root	ROOT	put
+compound:prt	put	up
+case	something	with
+nmod:with	put	something
+cc	something	or
+conj:or	something	someone
+punct	unpleasant	-LRB-
+appos	someone	unpleasant
+punct	unpleasant	-RRB-

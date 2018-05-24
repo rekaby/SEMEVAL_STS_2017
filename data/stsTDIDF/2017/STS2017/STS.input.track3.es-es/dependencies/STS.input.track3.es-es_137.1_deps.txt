@@ -1,0 +1,7 @@
+nsubj	walking	People
+aux	walking	are
+root	ROOT	walking
+case	station	through
+det	station	a
+nmod:through	walking	station
+punct	walking	.

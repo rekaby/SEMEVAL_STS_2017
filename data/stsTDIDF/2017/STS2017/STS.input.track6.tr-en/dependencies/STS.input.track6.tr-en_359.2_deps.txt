@@ -1,0 +1,7 @@
+nsubj	waiting	People
+root	ROOT	waiting
+case	stop	on
+det	stop	a
+compound	stop	bus
+nmod:on	waiting	stop
+punct	waiting	.

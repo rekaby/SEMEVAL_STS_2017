@@ -1,0 +1,12 @@
+nummod	people	Four
+amod	people	Asian
+amod	people	young
+root	ROOT	people
+acl	people	sitting
+case	den	in
+det	den	a
+nmod:in	sitting	den
+cc	den	or
+amod	room	living
+conj:or	den	room
+punct	people	.

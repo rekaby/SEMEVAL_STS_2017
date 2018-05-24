@@ -1,0 +1,10 @@
+det	baby	A
+nsubj	holds	baby
+case	highchair	in
+det	highchair	a
+nmod:in	baby	highchair
+root	ROOT	holds
+det	packet	a
+compound	packet	ketchup
+dobj	holds	packet
+punct	holds	.

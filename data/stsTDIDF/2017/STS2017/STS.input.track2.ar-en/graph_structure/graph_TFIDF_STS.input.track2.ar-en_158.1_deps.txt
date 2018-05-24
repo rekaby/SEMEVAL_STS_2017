@@ -1,0 +1,11 @@
+selling	fruits	dobj
+marketplace	This	det
+fruits	vegetables	conj:and
+vendors	multiple	amod
+fruits	items	conj:and
+features	marketplace	nsubj
+fruits	,	punct
+fruits	and	cc
+vendors	selling	acl
+items	other	amod
+features	vendors	dobj

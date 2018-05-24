@@ -1,0 +1,6 @@
+nsubj	confirm	Police
+root	ROOT	confirm
+advmod	captured	how
+nsubjpass	captured	suspect
+auxpass	captured	was
+ccomp	confirm	captured

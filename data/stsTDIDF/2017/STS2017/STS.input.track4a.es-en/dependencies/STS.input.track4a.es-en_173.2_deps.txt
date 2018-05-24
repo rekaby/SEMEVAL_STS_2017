@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	having
+det	piece	a
+dobj	having	piece
+case	chicken	of
+nmod:of	piece	chicken
+punct	man	.

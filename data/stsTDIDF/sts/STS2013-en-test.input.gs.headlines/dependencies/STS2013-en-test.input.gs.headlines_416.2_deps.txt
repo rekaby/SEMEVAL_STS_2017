@@ -1,0 +1,8 @@
+compound	Variety	Hollywood
+compound	Variety	trade
+compound	Variety	publication
+nsubj	put	Variety
+root	ROOT	put
+compound:prt	put	up
+case	sale	for
+nmod:for	put	sale

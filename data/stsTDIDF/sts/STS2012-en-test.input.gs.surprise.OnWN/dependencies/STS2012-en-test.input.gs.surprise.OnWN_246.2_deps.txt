@@ -1,0 +1,8 @@
+amod	arrangement	logical
+cc	logical	or
+conj:or	logical	comprehensible
+root	ROOT	arrangement
+case	elements	of
+amod	elements	separate
+nmod:of	arrangement	elements
+punct	arrangement	.

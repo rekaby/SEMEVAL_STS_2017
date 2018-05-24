@@ -1,0 +1,6 @@
+compound	workers	Aid
+nsubj	raid	workers
+acl	workers	freed
+case	Afghanistan	in
+nmod:in	freed	Afghanistan
+root	ROOT	raid

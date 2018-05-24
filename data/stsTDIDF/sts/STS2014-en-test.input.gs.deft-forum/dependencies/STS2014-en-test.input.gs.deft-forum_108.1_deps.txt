@@ -1,0 +1,13 @@
+advmod	Posted	Originally
+root	ROOT	Posted
+case	SolInvictus	by
+nmod:by	Posted	SolInvictus
+det	messahe	The
+nsubj	oneness	messahe
+case	scriptures	of
+det:predet	scriptures	all
+det	scriptures	the
+nmod:of	messahe	scriptures
+cop	oneness	is
+acl:relcl	SolInvictus	oneness
+punct	Posted	.

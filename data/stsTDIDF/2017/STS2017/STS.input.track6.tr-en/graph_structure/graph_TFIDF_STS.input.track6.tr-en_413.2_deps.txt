@@ -1,0 +1,7 @@
+feet	.	punct
+feet	your	nmod:poss
+men	A	det
+ROOT	feet	root
+men	few	amod
+feet	men	nsubj
+feet	are	cop

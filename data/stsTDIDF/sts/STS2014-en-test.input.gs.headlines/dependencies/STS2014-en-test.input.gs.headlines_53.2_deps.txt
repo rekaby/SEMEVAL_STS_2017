@@ -1,0 +1,13 @@
+root	ROOT	Telangana
+punct	Telangana	:
+dep	Telangana	Jagan
+mark	spend	to
+acl	Jagan	spend
+nmod:tmod	spend	Thursday
+case	hospital	in
+nmod:in	spend	hospital
+punct	Telangana	;
+nsubj	continues	blackout
+dep	Telangana	continues
+case	Seemandhra	in
+nmod:in	continues	Seemandhra

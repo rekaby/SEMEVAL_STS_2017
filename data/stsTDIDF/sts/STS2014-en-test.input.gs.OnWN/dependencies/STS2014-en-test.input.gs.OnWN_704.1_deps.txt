@@ -1,0 +1,16 @@
+root	ROOT	Wear
+cc	Wear	or
+conj:or	Wear	display
+punct	Wear	,
+case	facet	as
+case	facet	in
+det	facet	a
+nmod:in	Wear	facet
+case	something	of
+nmod:of	facet	something
+cc	something	or
+det	article	an
+conj:or	something	article
+case	clothing	of
+nmod:of	article	clothing
+punct	Wear	.

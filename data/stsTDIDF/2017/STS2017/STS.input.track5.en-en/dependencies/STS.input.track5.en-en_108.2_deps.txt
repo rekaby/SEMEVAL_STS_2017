@@ -1,0 +1,12 @@
+det	man	A
+nsubj	smiling	man
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	man	shirt
+cc	shirt	and
+amod	pants	black
+conj:and	shirt	pants
+aux	smiling	is
+root	ROOT	smiling
+punct	smiling	.

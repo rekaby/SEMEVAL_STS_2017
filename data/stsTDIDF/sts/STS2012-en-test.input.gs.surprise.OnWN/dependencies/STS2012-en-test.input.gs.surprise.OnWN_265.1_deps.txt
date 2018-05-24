@@ -1,0 +1,13 @@
+root	ROOT	-LRB-
+det	occurance	An
+root	-LRB-	occurance
+case	preservation	of
+punct	preservation	-RRB-
+det	preservation	the
+nmod:of	occurance	preservation
+cc	preservation	or
+conj:or	preservation	management
+case	resources	of
+amod	resources	natural
+nmod:of	preservation	resources
+punct	occurance	.

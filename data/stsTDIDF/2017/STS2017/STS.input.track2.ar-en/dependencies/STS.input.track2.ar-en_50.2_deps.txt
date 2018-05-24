@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	child	a
+conj:and	man	child
+case	sand	on
+det	sand	the
+nmod:on	child	sand
+punct	man	.

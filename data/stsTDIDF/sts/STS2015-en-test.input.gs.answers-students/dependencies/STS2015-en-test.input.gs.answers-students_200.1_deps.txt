@@ -1,0 +1,13 @@
+nsubj	find	we
+aux	find	can
+root	ROOT	find
+det	bulb	the
+amod	bulb	burnt
+compound:prt	burnt	out
+dobj	find	bulb
+mark	finding	by
+advcl	find	finding
+dobj	finding	voltage
+case	terminals	between
+amod	terminals	different
+nmod:between	voltage	terminals

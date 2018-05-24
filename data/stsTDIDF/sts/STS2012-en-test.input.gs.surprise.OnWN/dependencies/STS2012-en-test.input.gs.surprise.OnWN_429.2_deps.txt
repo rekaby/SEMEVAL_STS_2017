@@ -1,0 +1,11 @@
+root	ROOT	travel
+case	front	in
+nmod:in	travel	front
+acl	front	of
+punct	travel	;
+dep	travel	go
+case	advance	in
+nmod:in	go	advance
+case	others	of
+nmod:of	advance	others
+punct	travel	.

@@ -1,0 +1,8 @@
+amod	shares	Asian
+nsubj	rally	shares
+root	ROOT	rally
+case	string	after
+nmod:after	rally	string
+case	data	of
+amod	data	upbeat
+nmod:of	string	data

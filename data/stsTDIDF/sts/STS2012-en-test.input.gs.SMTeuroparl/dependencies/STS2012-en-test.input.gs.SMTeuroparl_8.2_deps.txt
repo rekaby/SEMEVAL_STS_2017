@@ -1,0 +1,9 @@
+det	fishers	The
+nsubj	inactive	fishers
+cop	inactive	are
+root	ROOT	inactive
+punct	inactive	,
+dep	inactive	tired
+cc	tired	and
+conj:and	tired	disappointed
+punct	inactive	.

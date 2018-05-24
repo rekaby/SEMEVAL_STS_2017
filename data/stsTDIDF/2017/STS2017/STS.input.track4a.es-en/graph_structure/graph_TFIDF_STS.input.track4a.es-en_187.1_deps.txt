@@ -1,0 +1,12 @@
+walkway	broken	amod
+holding	hammer	dobj
+holding	walkway	nmod:next_to
+woman	wearing	acl
+holding	woman	nsubj
+hammer	piercing	amod
+pants	black	amod
+walkway	a	det
+wearing	pants	dobj
+hammer	a	det
+walkway	next	case
+walkway	concrete	amod

@@ -1,0 +1,6 @@
+root	ROOT	strike
+case	horror	with
+nmod:with	strike	horror
+cc	horror	or
+conj:or	horror	terror
+punct	strike	.

@@ -1,0 +1,17 @@
+det	frame	this
+nsubj	concerns	frame
+root	ROOT	concerns
+dobj	concerns	people
+cop	state	being
+case	state	in
+det	state	an
+amod	state	altered
+amod	state	mental
+acl:in	people	state
+nsubjpass	induced	that
+auxpass	induced	is
+acl:relcl	state	induced
+case	intoxicant	by
+det	intoxicant	an
+nmod:agent	induced	intoxicant
+punct	concerns	.

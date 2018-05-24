@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+amod	path	other
+amod	path	closed
+nsubj	are	path
+case	B	without
+compound	B	bulb
+nmod:without	path	B

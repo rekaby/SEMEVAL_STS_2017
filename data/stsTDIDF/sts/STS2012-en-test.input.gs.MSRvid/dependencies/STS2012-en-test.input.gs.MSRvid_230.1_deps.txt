@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	wrapping	woman
+aux	wrapping	is
+root	ROOT	wrapping
+dobj	wrapping	tofu
+punct	wrapping	.

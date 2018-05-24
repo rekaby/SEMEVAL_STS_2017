@@ -1,0 +1,6 @@
+root	ROOT	Putin
+acl	Putin	sworn
+case	president	in
+case	president	as
+amod	president	Russian
+nmod:as	sworn	president

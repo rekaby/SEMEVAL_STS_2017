@@ -1,0 +1,10 @@
+group	butchers	nmod:of
+butchers	of	case
+cut	that	dobj
+trying	cut	ccomp
+trying	group	nsubj
+meat	with	case
+made	meat	nmod:with
+cut	they	nsubj
+recipes	made	acl
+trying	recipes	dobj

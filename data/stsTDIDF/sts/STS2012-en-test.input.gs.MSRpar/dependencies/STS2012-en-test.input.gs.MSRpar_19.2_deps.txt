@@ -1,0 +1,11 @@
+compound	officials	State
+nsubj	estimated	officials
+root	ROOT	estimated
+det	cost	the
+dobj	estimated	cost
+case	$	at
+advmod	$	nearly
+nmod:at	cost	$
+compound	billion	2
+nummod	$	billion
+punct	estimated	.

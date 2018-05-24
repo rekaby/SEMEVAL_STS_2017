@@ -1,0 +1,10 @@
+root	ROOT	agriculture
+acl	agriculture	considered
+case	occupation	as
+det	occupation	an
+nmod:as	considered	occupation
+cc	occupation	or
+conj:or	occupation	way
+case	life	of
+nmod:of	way	life
+punct	agriculture	.

@@ -1,0 +1,10 @@
+cop	able	be
+ccomp	recognize	able
+mark	distinguish	to
+xcomp	able	distinguish
+punct	recognize	,
+root	ROOT	recognize
+mark	different	as
+cop	different	being
+advcl	recognize	different
+punct	recognize	;

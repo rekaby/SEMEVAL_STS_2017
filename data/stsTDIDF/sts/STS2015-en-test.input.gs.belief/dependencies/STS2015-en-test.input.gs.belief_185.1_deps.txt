@@ -1,0 +1,15 @@
+advcl	break	see
+punct	break	,
+nsubj	break	it
+cop	break	's
+det	break	a
+compound	break	tax
+root	ROOT	break
+case	companies	to
+nmod:to	break	companies
+cc	companies	and
+conj:and	companies	corporations
+nsubj	hire	that
+acl:relcl	companies	hire
+dobj	hire	vets
+punct	break	.

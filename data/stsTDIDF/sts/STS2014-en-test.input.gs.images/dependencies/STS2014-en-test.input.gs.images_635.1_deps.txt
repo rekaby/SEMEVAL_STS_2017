@@ -1,0 +1,9 @@
+root	ROOT	photo
+case	screen	of
+det	screen	a
+compound	screen	television
+nmod:of	photo	screen
+acl	screen	showing
+det	movie	a
+dobj	showing	movie
+punct	photo	.

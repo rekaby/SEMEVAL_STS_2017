@@ -1,0 +1,8 @@
+det	state	The
+root	ROOT	state
+mark	pleased	of
+auxpass	pleased	being
+acl	state	pleased
+case	life	with
+nmod:with	pleased	life
+punct	state	.

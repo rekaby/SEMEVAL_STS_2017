@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	box	in
+det	box	a
+nmod:in	playing	box
+punct	playing	.

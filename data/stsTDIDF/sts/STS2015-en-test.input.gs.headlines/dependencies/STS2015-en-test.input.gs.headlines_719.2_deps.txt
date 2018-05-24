@@ -1,0 +1,11 @@
+case	least	At
+nmod:npmod	1	least
+nummod	dead	1
+amod	wave	dead
+punct	wave	,
+nummod	wave	40
+acl	40	hospitalized
+case	heat	in
+compound	heat	Southwest
+nmod:in	hospitalized	heat
+root	ROOT	wave

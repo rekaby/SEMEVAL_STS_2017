@@ -1,0 +1,12 @@
+nsubj	have	Some
+case	guys	of
+det	guys	the
+nmod:of	Some	guys
+case	office	at
+nmod:poss	office	my
+nmod:at	Some	office
+root	ROOT	have
+amod	plants	potted
+compound	plants	aloe
+dobj	have	plants
+punct	have	.

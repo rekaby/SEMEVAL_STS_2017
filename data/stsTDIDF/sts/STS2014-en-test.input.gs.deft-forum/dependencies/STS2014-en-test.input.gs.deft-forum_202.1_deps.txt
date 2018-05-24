@@ -1,0 +1,14 @@
+nsubj	did	You
+advmod	did	already
+root	ROOT	did
+nsubj	have	that
+punct	have	-
+nsubj	have	we
+ccomp	did	have
+det	Muslim	a
+dobj	have	Muslim
+case	office	in
+nmod:in	have	office
+advmod	now	right
+advmod	have	now
+punct	did	.

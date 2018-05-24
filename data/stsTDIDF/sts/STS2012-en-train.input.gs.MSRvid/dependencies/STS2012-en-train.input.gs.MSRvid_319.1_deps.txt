@@ -1,0 +1,9 @@
+det	target	A
+nsubjpass	hit	target
+aux	hit	is
+auxpass	hit	being
+root	ROOT	hit
+case	fire	with
+compound	fire	gun
+nmod:with	hit	fire
+punct	hit	.

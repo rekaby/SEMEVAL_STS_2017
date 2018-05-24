@@ -1,0 +1,9 @@
+det	state	the
+root	ROOT	state
+mark	covered	of
+auxpass	covered	being
+acl	state	covered
+case	things	with
+amod	things	unclean
+nmod:with	covered	things
+punct	state	.

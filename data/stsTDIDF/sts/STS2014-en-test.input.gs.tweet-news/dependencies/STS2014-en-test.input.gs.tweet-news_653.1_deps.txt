@@ -1,0 +1,27 @@
+nsubjpass	defined	Parent
+auxpass	defined	is
+root	ROOT	defined
+case	point	as
+det	point	a
+nmod:as	defined	point
+case	origin	of
+nmod:of	point	origin
+punct	defined	.-9) nsubjpass(done-4, I
+auxpass	done	'm
+neg	done	not
+root	ROOT	done
+cop	parent	being
+det	parent	the
+amod	parent	best
+xcomp	done	parent
+nsubj	Ben	I
+aux	Ben	can
+cop	Ben	be
+case	Ben	for
+acl:relcl	parent	Ben
+punct	done	.-14) neg(measure-6, Not
+case	measure	by
+det	measure	a
+advmod	long	very
+amod	measure	long
+root	ROOT	measure

@@ -1,0 +1,8 @@
+root	ROOT	lengthen
+cc	lengthen	or
+conj:or	lengthen	extend
+case	duration	in
+nmod:in	extend	duration
+cc	duration	or
+conj:or	duration	space
+punct	lengthen	.

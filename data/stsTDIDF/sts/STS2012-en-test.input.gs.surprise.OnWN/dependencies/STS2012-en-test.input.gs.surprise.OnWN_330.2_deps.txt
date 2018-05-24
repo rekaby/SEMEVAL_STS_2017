@@ -1,0 +1,8 @@
+root	ROOT	drive
+advmod	drive	forcibly
+case	punch	as
+mwe	as	if
+case	punch	by
+det	punch	a
+nmod:as_if	forcibly	punch
+punct	drive	.

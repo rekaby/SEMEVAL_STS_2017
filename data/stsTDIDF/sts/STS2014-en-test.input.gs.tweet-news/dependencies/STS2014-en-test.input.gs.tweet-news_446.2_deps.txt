@@ -1,0 +1,13 @@
+compound	Blog	Media
+compound	Blog	Decoder
+root	ROOT	Blog
+punct	Blog	:
+compound	Plans	Robin
+compound	Plans	Roberts
+nsubj	Return	Plans
+compound	Return	February
+dep	Blog	Return
+case	GMA	to
+punct	GMA	`
+nmod:to	Return	GMA
+punct	Return	'

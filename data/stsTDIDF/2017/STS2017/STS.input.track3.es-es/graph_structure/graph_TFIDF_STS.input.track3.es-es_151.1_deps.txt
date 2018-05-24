@@ -1,0 +1,4 @@
+dogs	The	det
+ran	direction	nmod:in
+direction	opposite	amod
+ran	dogs	nsubj

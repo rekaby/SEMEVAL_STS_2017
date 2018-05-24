@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+dobj	kill	four
+case	attack	in
+compound	attack	Kenya
+compound	attack	church
+nmod:in	kill	attack

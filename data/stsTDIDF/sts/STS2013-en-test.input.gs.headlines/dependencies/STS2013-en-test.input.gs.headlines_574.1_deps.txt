@@ -1,0 +1,7 @@
+compound	teachers	Chicago
+nsubj	strike	teachers
+root	ROOT	strike
+case	contract	in
+amod	contract	bitter
+nmod:in	strike	contract
+dobj	strike	dispute

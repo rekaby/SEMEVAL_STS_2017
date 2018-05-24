@@ -1,0 +1,7 @@
+root	ROOT	fix
+cc	fix	or
+conj:or	fix	set
+dep	fix	securely
+cc	securely	or
+conj:or	securely	deeply
+punct	fix	.

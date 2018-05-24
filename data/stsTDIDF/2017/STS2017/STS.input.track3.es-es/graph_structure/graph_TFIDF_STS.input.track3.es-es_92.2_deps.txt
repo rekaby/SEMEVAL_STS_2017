@@ -1,0 +1,11 @@
+reviewing	is	aux
+comment	people	nmod:to
+reviewing	man	nsubj
+reviewing	actions	dobj
+comment	a	det
+reviewing	making	advcl
+reviewing	.	punct
+making	comment	dobj
+making	before	mark
+actions	his	nmod:poss
+ROOT	reviewing	root

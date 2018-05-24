@@ -1,0 +1,12 @@
+det	plane	A
+amod	plane	green
+cc	green	and
+conj:and	green	white
+compound	plane	cargo
+nsubj	taking	plane
+root	ROOT	taking
+case	airport	of
+case	airport	from
+det	airport	an
+nmod:from	taking	airport
+punct	taking	.

@@ -1,0 +1,10 @@
+det	frame	the
+amod	frame	enclosing
+root	ROOT	frame
+case	door	around
+det	door	a
+nmod:around	frame	door
+cc	door	or
+compound	opening	window
+conj:or	door	opening
+punct	frame	.

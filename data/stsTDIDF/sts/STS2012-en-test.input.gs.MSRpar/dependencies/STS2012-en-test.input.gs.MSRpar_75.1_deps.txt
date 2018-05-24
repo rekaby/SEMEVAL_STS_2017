@@ -1,0 +1,15 @@
+nmod:poss	shares	Sovereign
+case	Sovereign	's
+nsubj	lost	shares
+root	ROOT	lost
+nummod	cents	74
+dobj	lost	cents
+punct	cents	,
+cc	cents	or
+nummod	%	4.5
+conj:or	cents	%
+punct	cents	,
+case	$	to
+nmod:to	lost	$
+nummod	$	15.68
+punct	lost	.

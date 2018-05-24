@@ -1,0 +1,13 @@
+case	case	In
+det	case	the
+amod	case	first
+nmod:in	think	case
+punct	think	,
+nsubj	think	I
+root	ROOT	think
+nsubj	need	you
+aux	need	do
+neg	need	n't
+ccomp	think	need
+dobj	need	it
+punct	think	.

@@ -1,0 +1,15 @@
+case	period	For
+det	period	the
+amod	period	full
+amod	period	12-month
+nmod:for	increased	period
+punct	increased	,
+amod	connections	high-speed
+compound	connections	cable
+compound	connections	modem
+nsubj	increased	connections
+root	ROOT	increased
+case	percent	by
+nummod	percent	49
+nmod:by	increased	percent
+punct	increased	.

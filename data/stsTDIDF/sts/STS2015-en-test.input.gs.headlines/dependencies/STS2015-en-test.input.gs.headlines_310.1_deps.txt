@@ -1,0 +1,9 @@
+det	look	A
+root	ROOT	look
+case	attacks	at
+amod	attacks	major
+compound	attacks	terror
+nmod:at	look	attacks
+case	Africa	in
+compound	Africa	East
+nmod:in	attacks	Africa

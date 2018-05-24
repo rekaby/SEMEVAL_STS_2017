@@ -1,0 +1,5 @@
+helps	teacher	nsubj
+helps	class	nmod:in
+teacher	A	det
+class	carpentry	compound
+helps	student	dobj

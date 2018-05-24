@@ -1,0 +1,6 @@
+nummod	hurt	19
+root	ROOT	hurt
+case	shooting	in
+compound	shooting	New
+compound	shooting	Orleans
+nmod:in	hurt	shooting

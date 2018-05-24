@@ -1,0 +1,16 @@
+nummod	cows	Two
+amod	cows	black
+cc	black	and
+conj:and	black	white
+root	ROOT	cows
+case	gate	behind
+det	gate	a
+compound	gate	metal
+nmod:behind	cows	gate
+case	sky	against
+det	sky	a
+advmod	cloudy	partly
+amod	sky	cloudy
+amod	sky	blue
+nmod:against	cows	sky
+punct	cows	.

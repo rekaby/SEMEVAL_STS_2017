@@ -1,0 +1,10 @@
+det	man	A
+nsubj	pours	man
+root	ROOT	pours
+det	oil	some
+amod	oil	cooking
+dobj	pours	oil
+case	pot	into
+det	pot	a
+nmod:into	pours	pot
+punct	pours	.

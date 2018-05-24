@@ -1,0 +1,8 @@
+det	person	A
+nsubj	performing	person
+aux	performing	is
+root	ROOT	performing
+det	trick	a
+compound	trick	card
+dobj	performing	trick
+punct	performing	.

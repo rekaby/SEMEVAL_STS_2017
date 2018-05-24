@@ -1,0 +1,7 @@
+amod	barrels	Major
+compound	barrels	snowstorm
+root	ROOT	barrels
+advmod	barrels	down
+case	Plains	on
+compound	Plains	Central
+nmod:on	down	Plains

@@ -1,0 +1,7 @@
+root	ROOT	Preserve
+case	tin	in
+det	tin	a
+nmod:in	Preserve	tin
+cc	tin	or
+conj:or	tin	jar
+punct	Preserve	.

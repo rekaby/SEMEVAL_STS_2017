@@ -1,0 +1,17 @@
+advmod	29	Only
+nummod	families	29
+nsubjpass	known	families
+case	frogs	of
+nmod:of	families	frogs
+auxpass	known	are
+root	ROOT	known
+punct	known	,
+nsubjpass	named	most
+case	which	of
+nmod:of	most	which
+auxpass	named	were
+parataxis	known	named
+case	mid-1800s	by
+det	mid-1800s	the
+nmod:agent	named	mid-1800s
+punct	known	.

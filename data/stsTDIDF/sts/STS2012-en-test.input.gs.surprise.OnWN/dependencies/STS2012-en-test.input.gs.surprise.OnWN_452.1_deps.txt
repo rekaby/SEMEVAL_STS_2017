@@ -1,0 +1,4 @@
+nsubj	contain	hold
+punct	hold	,
+root	ROOT	contain
+compound:prt	contain	within

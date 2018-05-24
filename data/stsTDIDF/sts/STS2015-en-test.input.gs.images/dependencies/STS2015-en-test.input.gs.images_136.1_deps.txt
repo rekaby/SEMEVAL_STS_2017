@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	dog	after
+det	dog	a
+amod	dog	white
+nmod:after	running	dog
+case	snow	in
+det	snow	the
+nmod:in	dog	snow
+punct	running	.

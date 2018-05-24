@@ -1,0 +1,6 @@
+art	next	case
+sitting	art	nmod:next_to
+wearing	dress	dobj
+woman	wearing	acl
+woman	man	conj:and
+wearing	sitting	advcl

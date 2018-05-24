@@ -1,0 +1,6 @@
+det	person	A
+nsubj	cuts	person
+root	ROOT	cuts
+det	onion	an
+dobj	cuts	onion
+punct	cuts	.

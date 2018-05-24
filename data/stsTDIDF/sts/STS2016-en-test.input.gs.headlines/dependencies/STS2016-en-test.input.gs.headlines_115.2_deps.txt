@@ -1,0 +1,7 @@
+compound	stations	Polling
+nsubj	open	stations
+root	ROOT	open
+case	election	at
+amod	election	Ukrainian
+amod	election	presidential
+nmod:at	open	election

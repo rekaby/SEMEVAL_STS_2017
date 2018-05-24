@@ -1,0 +1,11 @@
+det	time	Each
+root	ROOT	time
+punct	time	,
+amod	progress	radical
+amod	progress	technological
+nsubj	made	progress
+acl:relcl	time	made
+xcomp	made	slip
+det	threats	these
+dobj	slip	threats
+punct	time	.

@@ -1,0 +1,7 @@
+nsubj	ride	People
+root	ROOT	ride
+cc	ride	and
+conj:and	ride	paddle
+det	raft	a
+dobj	paddle	raft
+punct	ride	.

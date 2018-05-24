@@ -1,0 +1,8 @@
+det	people	Some
+nsubj	playing	people
+aux	playing	are
+root	ROOT	playing
+det	game	a
+compound	game	card
+dobj	playing	game
+punct	playing	.

@@ -1,0 +1,9 @@
+det	rabbit	A
+nsubj	playing	rabbit
+aux	playing	is
+root	ROOT	playing
+case	rabbit	with
+det	rabbit	a
+compound	rabbit	toy
+nmod:with	playing	rabbit
+punct	playing	.

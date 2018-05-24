@@ -1,0 +1,12 @@
+discourse	account	No
+punct	account	,
+nsubj	account	none
+case	factors	of
+det	factors	those
+nmod:of	none	factors
+root	ROOT	account
+case	warming	for
+det	warming	the
+amod	warming	recent
+nmod:for	account	warming
+punct	account	.

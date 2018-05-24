@@ -1,0 +1,8 @@
+dock	the	det
+dress	in	case
+dock	on	case
+standing	dock	nmod:on
+is	girl	nsubj
+dress	standing	acl
+girl	dress	nmod:in
+dress	red	amod

@@ -1,0 +1,17 @@
+left	daughter	dobj
+left	should	aux
+door	out	case
+said	Monk	xcomp
+left	,	punct
+left	Said	advcl
+said	Roseanna	nsubj
+left	``	punct
+left	door	nmod:out
+said	left	dep
+tone	in	case
+left	not	neg
+tone	aggressive	amod
+Said	tone	nmod:in
+tone	an	det
+daughter	your	nmod:poss
+left	You	nsubj

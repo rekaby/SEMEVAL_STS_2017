@@ -1,0 +1,12 @@
+det	hyperlink	A
+nsubj	counts	hyperlink
+case	page	to
+det	page	a
+nmod:to	hyperlink	page
+root	ROOT	counts
+case	vote	as
+det	vote	a
+nmod:as	counts	vote
+case	support	of
+nmod:of	vote	support
+punct	counts	.

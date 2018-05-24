@@ -1,0 +1,10 @@
+nsubj	bad	Traffic
+case	City	in
+compound	City	Mexico
+nmod:in	Traffic	City
+cop	bad	is
+advmod	bad	particularly
+root	ROOT	bad
+case	present	at
+nmod:at	bad	present
+punct	bad	.

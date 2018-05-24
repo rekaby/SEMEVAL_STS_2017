@@ -1,0 +1,10 @@
+det	train	A
+amod	train	red
+nsubj	driving	train
+root	ROOT	driving
+case	snow	through
+det	snow	a
+nmod:through	driving	snow
+amod	city	covered
+amod	snow	city
+punct	driving	.

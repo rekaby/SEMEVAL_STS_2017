@@ -1,0 +1,9 @@
+det	person	A
+nsubj	performing	person
+aux	performing	is
+root	ROOT	performing
+dobj	performing	tricks
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	performing	motorcycle
+punct	performing	.

@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	motorcycle	on
+det	motorcycle	the
+amod	motorcycle	red
+nmod:on	sitting	motorcycle
+punct	sitting	.

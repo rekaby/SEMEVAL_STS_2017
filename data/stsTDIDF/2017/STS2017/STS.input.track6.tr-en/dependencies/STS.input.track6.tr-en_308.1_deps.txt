@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+case	umbrella	under
+det	umbrella	an
+nmod:under	standing	umbrella
+case	table	at
+det	table	a
+compound	table	coffee
+nmod:at	group	table
+punct	group	.

@@ -1,0 +1,8 @@
+nsubj	enters	Judge
+root	ROOT	enters
+neg	plea	not
+amod	plea	guilty
+dobj	enters	plea
+case	Holmes	for
+compound	Holmes	James
+nmod:for	plea	Holmes

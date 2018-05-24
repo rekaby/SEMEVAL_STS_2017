@@ -1,0 +1,16 @@
+advmod	replace	How
+aux	replace	do
+nsubj	replace	I
+root	ROOT	replace
+det	bulb	a
+amod	bulb	broken
+compound	bulb	halogen
+dobj	replace	bulb
+case	light	in
+det	light	the
+amod	light	recessed
+nmod:in	replace	light
+case	bathroom	in
+nmod:poss	bathroom	my
+nmod:in	light	bathroom
+punct	replace	?

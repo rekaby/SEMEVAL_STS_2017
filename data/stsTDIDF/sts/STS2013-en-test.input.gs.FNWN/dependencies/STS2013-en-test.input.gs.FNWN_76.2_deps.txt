@@ -1,0 +1,12 @@
+det	effect	the
+root	ROOT	effect
+case	thing	of
+nummod	thing	one
+nmod:of	effect	thing
+punct	person	-LRB-
+cc	person	or
+appos	thing	person
+punct	person	-RRB-
+case	another	on
+nmod:on	effect	another
+punct	effect	;

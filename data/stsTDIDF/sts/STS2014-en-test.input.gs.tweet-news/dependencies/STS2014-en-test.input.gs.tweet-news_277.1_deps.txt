@@ -1,0 +1,6 @@
+amod	influence	Russian
+root	ROOT	influence
+case	rise	on
+nmod:on	influence	rise
+case	#Israel	in
+nmod:in	rise	#Israel

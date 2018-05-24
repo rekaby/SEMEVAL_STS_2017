@@ -1,0 +1,11 @@
+stops	picture	nmod:for
+scenery	the	det
+picture	for	case
+ROOT	stops	root
+picture	scenery	nmod:with
+stops	man	nsubj
+hike	during	case
+stops	hike	nmod:during
+scenery	with	case
+hike	his	nmod:poss
+stops	.	punct

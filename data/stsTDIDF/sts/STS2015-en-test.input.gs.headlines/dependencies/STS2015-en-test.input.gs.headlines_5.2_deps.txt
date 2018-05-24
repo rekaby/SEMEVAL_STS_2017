@@ -1,0 +1,9 @@
+nsubj	Refuses	Ukraine
+root	ROOT	Refuses
+case	Act	to
+nmod:to	Refuses	Act
+case	Provocation	Against
+compound	Provocation	Russian
+punct	Provocation	`
+nmod:against	Act	Provocation
+punct	Refuses	'

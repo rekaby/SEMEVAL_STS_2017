@@ -1,0 +1,14 @@
+amod	man	Asian
+nsubj	seen	man
+root	ROOT	seen
+det	event	an
+dobj	seen	event
+case	decorations	of
+amod	decorations	many
+nmod:of	event	decorations
+case	characters	in
+det	characters	the
+compound	characters	background
+amod	characters	Chinese
+nmod:in	event	characters
+punct	seen	.

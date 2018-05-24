@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	bear	a
+nsubj	is	bear
+case	store	in
+det	store	the
+compound	store	jewelry
+nmod:in	bear	store
+punct	is	.

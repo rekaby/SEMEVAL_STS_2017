@@ -1,0 +1,10 @@
+det	men	A
+compound	men	couple
+nsubj	swimming	men
+aux	swimming	are
+root	ROOT	swimming
+case	time	for
+det	time	a
+amod	time	long
+nmod:for	swimming	time
+punct	swimming	.

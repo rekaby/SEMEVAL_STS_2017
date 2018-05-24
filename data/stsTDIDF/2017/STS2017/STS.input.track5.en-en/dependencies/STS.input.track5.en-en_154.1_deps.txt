@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	people
+case	street	out
+case	street	on
+det	street	the
+nmod:on	are	street
+punct	are	.

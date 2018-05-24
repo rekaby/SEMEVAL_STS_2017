@@ -1,0 +1,6 @@
+nsubj	blocks	Pakistan
+root	ROOT	blocks
+dobj	blocks	Twitter
+case	material	over
+amod	material	anti-Islamic
+nmod:over	blocks	material

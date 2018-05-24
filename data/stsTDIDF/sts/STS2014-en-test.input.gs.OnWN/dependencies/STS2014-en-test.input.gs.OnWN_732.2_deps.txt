@@ -1,0 +1,10 @@
+root	ROOT	vary
+cc	vary	or
+conj:or	vary	move
+case	point	from
+det	point	a
+amod	point	fixed
+nmod:from	move	point
+cc	point	or
+conj:or	point	course
+punct	vary	.

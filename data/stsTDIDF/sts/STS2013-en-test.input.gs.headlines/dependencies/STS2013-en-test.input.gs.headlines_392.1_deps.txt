@@ -1,0 +1,8 @@
+compound	link	Police
+punct	link	`
+aux	link	did
+neg	link	not
+nsubj	claims	link
+punct	link	'
+compound	claims	Savile
+root	ROOT	claims

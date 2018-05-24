@@ -1,0 +1,6 @@
+paddles	ocean	nmod:in
+paddles	.	punct
+paddles	A	det
+ocean	in	case
+ROOT	paddles	root
+paddles	surfer	compound

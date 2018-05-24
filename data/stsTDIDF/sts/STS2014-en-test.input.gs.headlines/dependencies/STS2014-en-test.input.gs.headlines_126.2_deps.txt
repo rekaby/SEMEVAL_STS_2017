@@ -1,0 +1,6 @@
+compound	envoy	Britain
+compound	envoy	summons
+amod	envoy	Israeli
+root	ROOT	envoy
+case	settlements	over
+nmod:over	envoy	settlements

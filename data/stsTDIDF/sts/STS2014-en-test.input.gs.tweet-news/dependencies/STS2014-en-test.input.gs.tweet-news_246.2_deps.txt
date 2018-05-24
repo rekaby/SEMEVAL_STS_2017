@@ -1,0 +1,8 @@
+compound	Review	Theater
+root	ROOT	Review
+punct	Review	:
+punct	Review	?-4) root(ROOT-0, Picnic
+punct	Picnic	?-2) case(Theater-4, at
+compound	Theater	American
+compound	Theater	Airlines
+root	ROOT	Theater

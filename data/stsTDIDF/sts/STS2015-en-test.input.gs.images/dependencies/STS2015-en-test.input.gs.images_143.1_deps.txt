@@ -1,0 +1,16 @@
+det	man	A
+nsubj	chases	man
+root	ROOT	chases
+det	dog	a
+dobj	chases	dog
+acl	dog	trying
+mark	pass	to
+xcomp	trying	pass
+det	barrier	the
+dobj	pass	barrier
+mark	enter	to
+acl	barrier	enter
+det	area	a
+compound	area	play
+dobj	enter	area
+punct	chases	.

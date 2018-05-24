@@ -1,0 +1,11 @@
+nsubj	runs	It
+root	ROOT	runs
+det	group	a
+dobj	runs	group
+case	dogs	of
+nmod:of	group	dogs
+dep	dogs	sleds
+case	race	in
+det	race	the
+nmod:in	sleds	race
+punct	runs	.

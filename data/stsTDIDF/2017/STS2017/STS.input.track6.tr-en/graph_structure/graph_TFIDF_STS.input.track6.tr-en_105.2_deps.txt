@@ -1,0 +1,6 @@
+rapping	looking	advcl
+rapping	is	aux
+rapping	.	punct
+ROOT	rapping	root
+person	One	nummod
+rapping	person	nsubj

@@ -1,0 +1,9 @@
+compound	HUDDLESTON	VICKI
+root	ROOT	HUDDLESTON
+punct	HUDDLESTON	:
+advmod	Help	Why
+nsubj	Help	We
+aux	Help	Must
+dep	HUDDLESTON	Help
+compound	#Mali	#Save
+dobj	Help	#Mali

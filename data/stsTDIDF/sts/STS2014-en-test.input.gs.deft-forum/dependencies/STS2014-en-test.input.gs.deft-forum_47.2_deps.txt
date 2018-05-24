@@ -1,0 +1,11 @@
+nsubj	bless	God
+ccomp	disappointed	bless
+nsubj	outraged	I
+cop	outraged	'm
+neg	outraged	not
+ccomp	bless	outraged
+punct	disappointed	,
+nsubj	disappointed	I
+cop	disappointed	'm
+root	ROOT	disappointed
+punct	disappointed	.

@@ -1,0 +1,14 @@
+root	ROOT	Books
+case	Times	of
+det	Times	The
+nmod:of	Books	Times
+punct	Books	:
+punct	Books	?-6) det(Swimmer-3, The
+compound	Swimmer	River
+root	ROOT	Swimmer
+punct	Swimmer	,
+punct	Swimmer	?-5) nummod(Novellas-2, Two
+root	ROOT	Novellas
+case	Harrison	by
+compound	Harrison	Jim
+nmod:by	Novellas	Harrison

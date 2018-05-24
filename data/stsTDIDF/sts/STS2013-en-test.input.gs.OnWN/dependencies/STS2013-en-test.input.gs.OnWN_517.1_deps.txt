@@ -1,0 +1,8 @@
+root	ROOT	know
+punct	know	,
+conj:and	know	realize
+punct	know	,
+cc	know	and
+conj:and	know	comprehend
+det	meaning	the
+dobj	comprehend	meaning

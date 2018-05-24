@@ -1,0 +1,7 @@
+compound	middle	Dog
+amod	middle	limp
+root	ROOT	middle
+case	field	of
+det	field	the
+nmod:of	middle	field
+punct	middle	.

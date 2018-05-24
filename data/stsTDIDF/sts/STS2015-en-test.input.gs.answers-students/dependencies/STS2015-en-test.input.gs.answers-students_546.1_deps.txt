@@ -1,0 +1,11 @@
+nsubjpass	connected	becuase
+det	terminals	the
+amod	terminals	other
+nsubjpass	connected	terminals
+auxpass	connected	are
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:to	connected	terminal

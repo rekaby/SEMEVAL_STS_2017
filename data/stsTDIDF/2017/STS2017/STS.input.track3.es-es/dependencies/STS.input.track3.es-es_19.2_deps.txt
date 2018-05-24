@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+nmod:poss	bicycle	her
+dobj	riding	bicycle
+case	helmet	with
+det	helmet	a
+nmod:with	riding	helmet
+acl	helmet	on
+punct	riding	.

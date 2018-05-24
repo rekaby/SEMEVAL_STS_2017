@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	grazing	of
+compound	grazing	sheep
+nmod:of	group	grazing
+case	hill	on
+det	hill	a
+nmod:on	group	hill
+punct	group	.

@@ -1,0 +1,13 @@
+nmod:poss	skeleton	Phoberomys
+case	Phoberomys	'
+nsubjpass	unearthed	skeleton
+auxpass	unearthed	was
+root	ROOT	unearthed
+nummod	miles	250
+nmod:npmod	west	miles
+xcomp	unearthed	west
+case	Caracas	of
+nmod:of	west	Caracas
+punct	Caracas	,
+appos	Caracas	Venezuela
+punct	unearthed	.

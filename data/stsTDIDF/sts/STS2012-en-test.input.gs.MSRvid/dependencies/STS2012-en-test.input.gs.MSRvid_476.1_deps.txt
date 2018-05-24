@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	crawling	boy
+aux	crawling	is
+root	ROOT	crawling
+case	house	into
+det	house	a
+compound	house	dog
+nmod:into	crawling	house
+punct	crawling	.

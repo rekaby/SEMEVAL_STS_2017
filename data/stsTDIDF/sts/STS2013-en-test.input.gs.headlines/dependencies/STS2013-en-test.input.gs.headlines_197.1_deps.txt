@@ -1,0 +1,5 @@
+compound	parties	Algerian
+compound	parties	government
+nsubj	dominate	parties
+root	ROOT	dominate
+dobj	dominate	elections

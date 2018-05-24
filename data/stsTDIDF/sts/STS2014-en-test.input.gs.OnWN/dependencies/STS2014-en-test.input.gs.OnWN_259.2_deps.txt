@@ -1,0 +1,6 @@
+root	ROOT	appoint
+case	posts	to
+det	posts	a
+amod	posts	clerical
+nmod:to	appoint	posts
+punct	appoint	.

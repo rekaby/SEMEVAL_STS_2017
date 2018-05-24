@@ -1,0 +1,6 @@
+compound	cops	Roller
+compound	cops	blade
+nsubj	talking	cops
+aux	talking	are
+root	ROOT	talking
+punct	talking	.

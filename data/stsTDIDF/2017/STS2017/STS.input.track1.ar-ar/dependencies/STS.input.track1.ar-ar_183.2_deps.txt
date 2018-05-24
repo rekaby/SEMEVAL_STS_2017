@@ -1,0 +1,8 @@
+nsubj	plays	Black
+root	ROOT	plays
+det	game	a
+dobj	plays	game
+case	dog	of
+amod	dog	red
+nmod:of	game	dog
+punct	plays	.

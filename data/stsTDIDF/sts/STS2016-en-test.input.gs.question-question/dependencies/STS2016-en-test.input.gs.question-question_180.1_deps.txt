@@ -1,0 +1,12 @@
+det	type	What
+dobj	use	type
+case	bolts	of
+compound	bolts	lag
+nmod:of	type	bolts
+aux	use	should
+nsubj	use	I
+root	ROOT	use
+case	deck	for
+det	deck	a
+nmod:for	use	deck
+punct	use	?

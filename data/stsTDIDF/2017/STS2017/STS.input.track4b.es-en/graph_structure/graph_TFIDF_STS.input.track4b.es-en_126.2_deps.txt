@@ -1,0 +1,3 @@
+find	?	punct
+find	how	advmod
+find	But	cc

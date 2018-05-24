@@ -1,0 +1,5 @@
+amod	representation	visual
+root	ROOT	representation
+acl	representation	sketched
+case	hand	by
+nmod:by	sketched	hand

@@ -1,0 +1,7 @@
+obstacles	show	nmod:for
+obstacles	over	case
+jumps	.	punct
+ROOT	jumps	root
+show	canine	amod
+jumps	obstacles	nmod:over
+jumps	dog	nsubj

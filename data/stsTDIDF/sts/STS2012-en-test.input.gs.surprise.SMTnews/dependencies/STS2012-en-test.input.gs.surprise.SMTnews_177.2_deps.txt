@@ -1,0 +1,10 @@
+det	time	Every
+root	ROOT	time
+punct	time	,
+amod	progress	technological
+root	,	progress
+mark	fly	to
+acl	progress	fly
+det	threats	these
+dobj	fly	threats
+punct	progress	.

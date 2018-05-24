@@ -1,0 +1,8 @@
+nummod	zebras	Two
+nsubj	playing	zebras
+aux	playing	are
+root	ROOT	playing
+case	field	in
+det	field	a
+nmod:in	playing	field
+punct	playing	.

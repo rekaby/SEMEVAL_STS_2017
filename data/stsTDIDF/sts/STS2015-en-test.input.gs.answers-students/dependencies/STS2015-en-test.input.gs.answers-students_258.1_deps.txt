@@ -1,0 +1,13 @@
+det	gap	the
+nsubj	causes	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+root	ROOT	causes
+det	circuit	the
+dobj	causes	circuit
+mark	circuit	to
+cop	circuit	be
+det	circuit	an
+amod	circuit	open
+xcomp	causes	circuit

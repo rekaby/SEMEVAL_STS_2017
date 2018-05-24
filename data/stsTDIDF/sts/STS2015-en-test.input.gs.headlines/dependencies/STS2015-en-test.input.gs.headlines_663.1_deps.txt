@@ -1,0 +1,6 @@
+nsubj	rejects	Iran
+root	ROOT	rejects
+dobj	rejects	claim
+case	bombs	on
+compound	bombs	chlorine
+nmod:on	claim	bombs

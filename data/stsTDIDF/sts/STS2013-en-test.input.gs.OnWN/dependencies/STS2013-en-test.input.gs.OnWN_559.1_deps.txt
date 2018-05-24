@@ -1,0 +1,11 @@
+root	ROOT	make
+xcomp	make	keen
+punct	make	;
+parataxis	make	give
+punct	life	-LRB-
+amod	life	new
+punct	life	-RRB-
+dobj	give	life
+cc	life	or
+conj:or	life	energy
+dep	give	to

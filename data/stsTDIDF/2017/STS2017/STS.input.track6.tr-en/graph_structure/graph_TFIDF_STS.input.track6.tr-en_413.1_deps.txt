@@ -1,0 +1,8 @@
+standing	men	nsubj
+standing	ledge	nmod:on
+smokes	one	nsubj
+ledge	smokes	conj:and
+ledge	on	case
+ledge	and	cc
+men	Three	nummod
+ledge	a	det

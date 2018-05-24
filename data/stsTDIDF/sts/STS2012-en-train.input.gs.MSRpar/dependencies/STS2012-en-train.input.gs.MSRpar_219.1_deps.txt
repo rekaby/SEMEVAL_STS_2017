@@ -1,0 +1,17 @@
+nsubj	felt	Bashir
+advcl	told	felt
+nsubjpass	tried	he
+aux	tried	was
+auxpass	tried	being
+ccomp	felt	tried
+case	opinion	by
+nmod:agent	tried	opinion
+neg	facts	not
+case	facts	on
+det	facts	the
+nmod:on	opinion	facts
+punct	told	,
+nsubj	told	Mahendradatta
+root	ROOT	told
+dobj	told	Reuters
+punct	told	.

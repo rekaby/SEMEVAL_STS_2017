@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+det	group	a
+nsubj	is	group
+case	men	of
+amod	men	young
+nmod:of	group	men
+amod	instruments	playing
+dep	men	instruments
+punct	is	.

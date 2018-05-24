@@ -1,0 +1,6 @@
+root	ROOT	drench
+advmod	drench	periodically
+case	liquid	with
+nmod:with	drench	liquid
+mark	cooking	while
+dep	drench	cooking

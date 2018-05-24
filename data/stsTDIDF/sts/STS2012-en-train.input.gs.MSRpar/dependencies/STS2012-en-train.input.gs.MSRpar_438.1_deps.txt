@@ -1,0 +1,23 @@
+det	Standard	The
+amod	Standard	broader
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+nsubj	<	Index
+root	ROOT	<
+punct	<	.-10) dep(lower-6, SPX
+nsubj	lower	>
+cop	lower	was
+nummod	points	0.46
+nmod:npmod	lower	points
+root	ROOT	lower
+punct	lower	,
+cc	lower	or
+nummod	percent	0.05
+conj:or	lower	percent
+punct	lower	,
+case	997.02	at
+nmod:at	lower	997.02
+punct	lower	.

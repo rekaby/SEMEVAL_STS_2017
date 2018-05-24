@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	cuts	woman
+root	ROOT	cuts
+det	pineapple	a
+dobj	cuts	pineapple
+punct	cuts	.

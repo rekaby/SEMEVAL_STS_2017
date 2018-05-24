@@ -1,0 +1,12 @@
+det	time	Each
+nmod:tmod	made	time
+punct	made	,
+amod	improvements	radical
+nsubj	made	improvements
+case	technology	in
+nmod:in	improvements	technology
+root	ROOT	made
+det	threat	the
+nsubj	evaporate	threat
+ccomp	made	evaporate
+punct	made	.

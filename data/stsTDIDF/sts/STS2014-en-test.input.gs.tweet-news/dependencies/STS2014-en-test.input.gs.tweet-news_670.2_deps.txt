@@ -1,0 +1,16 @@
+root	ROOT	Ask
+dobj	Ask	Well
+punct	Ask	:
+aux	Need	Do
+nsubj	Need	I
+parataxis	Ask	Need
+det	Shot	a
+compound	Shot	Flu
+dobj	Need	Shot
+mark	Had	if
+nsubj	Had	I
+aux	Had	've
+advcl	Need	Had
+det	Flu	the
+dobj	Had	Flu
+punct	Ask	?

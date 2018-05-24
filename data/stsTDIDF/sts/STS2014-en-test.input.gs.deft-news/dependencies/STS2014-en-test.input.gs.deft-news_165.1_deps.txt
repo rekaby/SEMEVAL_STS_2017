@@ -1,0 +1,13 @@
+nsubj	say	it
+aux	say	did
+neg	say	not
+root	ROOT	say
+mark	hanged	if
+det	men	the
+nsubjpass	hanged	men
+aux	hanged	had
+auxpass	hanged	been
+advcl	say	hanged
+case	prison	in
+nmod:in	hanged	prison
+punct	say	.

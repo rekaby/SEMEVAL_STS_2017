@@ -1,0 +1,5 @@
+root	ROOT	write
+det:predet	information	all
+det	information	the
+amod	information	required
+dobj	write	information

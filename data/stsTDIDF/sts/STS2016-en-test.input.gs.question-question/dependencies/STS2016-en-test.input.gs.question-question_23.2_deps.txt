@@ -1,0 +1,14 @@
+root	ROOT	Is
+nsubj	safe	it
+xcomp	Is	safe
+mark	replace	to
+xcomp	safe	replace
+det	switch	a
+dobj	replace	switch
+case	dimmer	with
+det	dimmer	a
+nmod:with	switch	dimmer
+case	spots	on
+compound	spots	halogen
+nmod:on	dimmer	spots
+punct	Is	?

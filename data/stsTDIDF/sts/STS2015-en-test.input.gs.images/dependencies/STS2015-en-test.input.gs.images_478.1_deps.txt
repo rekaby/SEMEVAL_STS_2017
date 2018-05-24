@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	bounces	girl
+root	ROOT	bounces
+advmod	down	upside
+advmod	bounces	down
+case	head	on
+nmod:poss	head	her
+nmod:on	bounces	head
+case	trampoline	on
+det	trampoline	a
+nmod:on	bounces	trampoline
+punct	bounces	.

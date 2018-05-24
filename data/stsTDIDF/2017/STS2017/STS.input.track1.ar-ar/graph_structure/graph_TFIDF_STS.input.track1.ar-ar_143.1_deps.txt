@@ -1,0 +1,5 @@
+walking	streets	nmod:on
+peddler	food	compound
+peddler	next	case
+walking	peddler	nmod:next_to
+woman	walking	acl

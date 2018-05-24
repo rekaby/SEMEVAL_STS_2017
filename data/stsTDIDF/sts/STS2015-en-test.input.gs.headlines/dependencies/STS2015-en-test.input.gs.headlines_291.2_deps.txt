@@ -1,0 +1,10 @@
+root	ROOT	Palestinians
+punct	Palestinians	:
+nsubj	Want	We
+aux	Want	Do
+neg	Want	n't
+dep	Palestinians	Want
+compound	Mission	Kerry
+dobj	Want	Mission
+case	Fail	to
+nmod:to	Want	Fail

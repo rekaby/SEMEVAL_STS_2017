@@ -1,0 +1,27 @@
+root	ROOT	Lol
+punct	Lol	.-2) root(ROOT-0, .-1) root(ROOT-0, errm
+punct	errm	.-2) root(ROOT-0, .-1) punct(test-2, ``
+root	ROOT	test
+punct	test	''
+case	U.S.	on
+det	U.S.	the
+nmod:on	test	U.S.
+case	A.	of
+nmod:of	U.S.	A.
+punct	test	?-9) root(ROOT-0, #damn
+punct	#damn	!-2) punct(says-4, :
+compound	Korea	North
+nsubj	says	Korea
+root	ROOT	says
+amod	test	new
+amod	test	nuclear
+nsubj	part	test
+aux	part	will
+cop	part	be
+ccomp	says	part
+case	fight	of
+nmod:of	part	fight
+case	U.S.	against
+nmod:against	fight	U.S.
+punct	says	:
+punct	says	?

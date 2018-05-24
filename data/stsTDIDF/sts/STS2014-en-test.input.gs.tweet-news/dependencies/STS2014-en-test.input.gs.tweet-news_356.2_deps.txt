@@ -1,0 +1,7 @@
+nsubj	Watch	Rivals
+root	ROOT	Watch
+dobj	Watch	Travails
+case	Drilling	of
+compound	Drilling	Shell
+compound	Drilling	Arctic
+nmod:of	Travails	Drilling

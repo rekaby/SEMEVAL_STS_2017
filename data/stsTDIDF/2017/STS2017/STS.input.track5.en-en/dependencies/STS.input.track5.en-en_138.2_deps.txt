@@ -1,0 +1,11 @@
+det	player	A
+compound	player	basketball
+root	ROOT	player
+punct	player	,
+acl	player	playing
+case	game	in
+det	game	the
+compound	game	home
+amod	game	coming
+nmod:in	playing	game
+punct	player	.

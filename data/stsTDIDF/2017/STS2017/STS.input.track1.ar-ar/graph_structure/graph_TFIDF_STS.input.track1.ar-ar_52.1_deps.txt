@@ -1,0 +1,6 @@
+directed	president	nmod:at
+slogan	a	det
+men	carrying	acl
+president	at	case
+carrying	slogan	dobj
+slogan	directed	acl

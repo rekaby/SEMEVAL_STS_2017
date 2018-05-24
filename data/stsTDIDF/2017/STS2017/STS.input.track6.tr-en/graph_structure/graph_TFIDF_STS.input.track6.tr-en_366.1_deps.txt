@@ -1,0 +1,5 @@
+wearing	dresses	dobj
+sisters	wearing	acl
+sisters	Three	nummod
+stand	sisters	nsubj
+stand	outside	advmod

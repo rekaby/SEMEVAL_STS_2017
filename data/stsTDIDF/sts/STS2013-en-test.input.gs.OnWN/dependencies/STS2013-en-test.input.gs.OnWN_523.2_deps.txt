@@ -1,0 +1,12 @@
+det	watch	a
+root	ROOT	watch
+case	lid	with
+det	lid	a
+amod	lid	hinged
+compound	lid	metal
+nmod:with	watch	lid
+mark	protect	to
+acl	watch	protect
+det	crystal	the
+dobj	protect	crystal
+punct	watch	.

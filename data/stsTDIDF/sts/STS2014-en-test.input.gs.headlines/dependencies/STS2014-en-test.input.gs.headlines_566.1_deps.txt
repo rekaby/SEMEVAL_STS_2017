@@ -1,0 +1,8 @@
+punct	upgrades	-LSB-
+compound	upgrades	Ticker
+punct	upgrades	-RSB-
+nsubj	upgrades	Fitch
+root	ROOT	upgrades
+amod	rating	Greek
+compound	rating	credit
+dobj	upgrades	rating

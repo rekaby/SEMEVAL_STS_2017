@@ -1,0 +1,10 @@
+root	ROOT	declare
+case	capacity	in
+det	capacity	the
+nmod:in	declare	capacity
+case	umpire	of
+det	umpire	an
+nmod:of	capacity	umpire
+cc	umpire	or
+conj:or	umpire	referee
+punct	declare	.

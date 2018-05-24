@@ -1,0 +1,12 @@
+det	terminals	the
+nsubj	have	terminals
+aux	have	must
+root	ROOT	have
+det	difference	a
+dobj	have	difference
+case	states	in
+amod	states	electrical
+nmod:in	difference	states
+mark	have	to
+acl	difference	have
+dobj	have	voltage

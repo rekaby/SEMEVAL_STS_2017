@@ -1,0 +1,14 @@
+nsubj	considers	nato
+root	ROOT	considers
+compound	attacks	cyber
+dobj	considers	attacks
+det	threat	a
+amod	threat	growing
+dobj	attacks	threat
+case	networks	to
+amod	networks	military
+cc	military	and
+conj:and	military	civilian
+compound	networks	computer
+nmod:to	threat	networks
+punct	considers	.

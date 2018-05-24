@@ -1,0 +1,8 @@
+det	gentleman	The
+nsubj	using	gentleman
+aux	using	is
+root	ROOT	using
+dobj	using	canvas
+cc	canvas	and
+conj:and	canvas	easel
+punct	using	.

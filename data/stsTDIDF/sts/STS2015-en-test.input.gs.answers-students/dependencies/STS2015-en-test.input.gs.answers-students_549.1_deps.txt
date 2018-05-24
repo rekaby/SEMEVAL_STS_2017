@@ -1,0 +1,10 @@
+compound	x	switch
+nsubj	path	x
+cop	path	is
+case	path	in
+det	path	the
+amod	path	closed
+root	ROOT	path
+case	bulb	with
+nmod:with	path	bulb
+dep	path	a

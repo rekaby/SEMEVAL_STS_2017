@@ -1,0 +1,5 @@
+acl Pentagon lift	15.060439779775294
+compound ban combat	14.367292599215348
+root ROOT Pentagon	12.662544506976923
+dobj lift ban	12.421382450160035
+mark lift to	10.036559258929017

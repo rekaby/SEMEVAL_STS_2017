@@ -1,0 +1,9 @@
+det	men	The
+nsubj	roads	men
+cop	roads	are
+compound	roads	dirt
+root	ROOT	roads
+case	motorcycles	with
+amod	motorcycles	small
+nmod:with	roads	motorcycles
+punct	roads	.

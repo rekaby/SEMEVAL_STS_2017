@@ -1,0 +1,7 @@
+root	ROOT	place
+cc	place	or
+conj:or	place	put
+case	ground	on
+det	ground	the
+nmod:on	place	ground
+punct	place	.

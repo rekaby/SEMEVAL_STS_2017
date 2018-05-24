@@ -1,0 +1,17 @@
+det	agency	the
+amod	agency	international
+amod	agency	atomic
+compound	agency	energy
+nsubjpass	tricked	agency
+aux	tricked	may
+aux	tricked	have
+auxpass	tricked	been
+root	ROOT	tricked
+mark	eager	because
+nsubj	eager	it
+cop	eager	was
+advcl	tricked	eager
+case	deal	for
+det	deal	a
+nmod:for	eager	deal
+punct	tricked	.

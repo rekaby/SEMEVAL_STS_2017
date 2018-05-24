@@ -1,0 +1,8 @@
+nsubj	same	terminal
+compound	4	1
+cc	1	and
+conj:and	1	terminal
+nummod	terminal	4
+cop	same	are
+det	same	the
+root	ROOT	same

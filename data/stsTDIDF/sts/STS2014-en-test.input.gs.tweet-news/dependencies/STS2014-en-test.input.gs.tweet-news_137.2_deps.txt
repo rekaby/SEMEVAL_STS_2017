@@ -1,0 +1,11 @@
+compound	Southwest	National
+compound	Southwest	Briefing
+compound	Southwest	|
+root	ROOT	Southwest
+punct	Southwest	:
+dep	Southwest	Arizona
+punct	Arizona	:
+compound	Relents	Governor
+dep	Arizona	Relents
+case	Medicaid	on
+nmod:on	Relents	Medicaid

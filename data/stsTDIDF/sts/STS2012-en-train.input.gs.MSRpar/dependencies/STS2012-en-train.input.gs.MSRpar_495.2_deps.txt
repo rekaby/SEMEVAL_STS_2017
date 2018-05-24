@@ -1,0 +1,17 @@
+nsubj	said	Pingeon
+root	ROOT	said
+det	attorney	an
+nsubj	interviewed	attorney
+case	organization	for
+nmod:poss	organization	his
+nmod:for	attorney	organization
+punct	organization	,
+compound	Services	Massachusetts
+compound	Services	Correctional
+compound	Services	Legal
+appos	organization	Services
+punct	organization	,
+ccomp	said	interviewed
+compound	Tuesday	Assan
+nmod:tmod	interviewed	Tuesday
+punct	said	.

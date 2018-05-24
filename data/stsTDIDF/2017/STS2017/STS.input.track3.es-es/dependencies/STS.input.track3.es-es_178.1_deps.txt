@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	sitting	women
+root	ROOT	sitting
+case	eating	on
+det	eating	a
+compound	eating	bench
+nmod:on	sitting	eating
+punct	sitting	.

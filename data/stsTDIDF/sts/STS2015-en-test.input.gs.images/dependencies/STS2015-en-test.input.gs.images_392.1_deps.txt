@@ -1,0 +1,11 @@
+det	group	a
+nsubj	dancing	group
+case	teenagers	of
+nmod:of	group	teenagers
+aux	dancing	are
+root	ROOT	dancing
+case	floor	on
+det	floor	a
+amod	floor	wooden
+nmod:on	dancing	floor
+punct	dancing	.

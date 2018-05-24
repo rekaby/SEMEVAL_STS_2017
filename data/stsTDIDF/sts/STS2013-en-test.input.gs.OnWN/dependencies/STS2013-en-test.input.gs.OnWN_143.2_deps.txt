@@ -1,0 +1,10 @@
+root	ROOT	cover
+case	primer	with
+det	primer	a
+nmod:with	cover	primer
+punct	cover	;
+dep	cover	apply
+det	primer	a
+dobj	apply	primer
+nmod	apply	to
+punct	cover	.

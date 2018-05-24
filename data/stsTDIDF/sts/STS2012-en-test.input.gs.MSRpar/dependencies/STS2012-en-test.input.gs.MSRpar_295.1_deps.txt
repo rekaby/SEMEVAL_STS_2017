@@ -1,0 +1,14 @@
+det	Commission	The
+compound	Commission	Securities
+cc	Securities	and
+conj:and	Securities	Exchange
+nsubj	initiated	Commission
+aux	initiated	has
+advmod	initiated	also
+root	ROOT	initiated
+det	probe	an
+amod	probe	informal
+dobj	initiated	probe
+case	Coke	of
+nmod:of	probe	Coke
+punct	initiated	.

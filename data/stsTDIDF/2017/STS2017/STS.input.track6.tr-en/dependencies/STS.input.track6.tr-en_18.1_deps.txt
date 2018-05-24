@@ -1,0 +1,11 @@
+det	girl	a
+amod	girl	young
+nsubj	climbing	girl
+cc	girl	and
+det	person	a
+conj:and	girl	person
+aux	climbing	are
+root	ROOT	climbing
+compound:prt	climbing	up
+det	ladder	a
+dobj	climbing	ladder

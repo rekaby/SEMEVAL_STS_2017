@@ -1,0 +1,6 @@
+shirt	white	amod
+holding	man	nsubj
+wires	few	amod
+man	shirt	nmod:in
+holding	wires	dobj
+wires	a	det

@@ -1,0 +1,16 @@
+punct	mean	``
+nsubj	mean	Being
+case	nukes	against
+nmod:against	Being	nukes
+punct	nukes	''
+aux	mean	does
+neg	mean	not
+root	ROOT	mean
+punct	mean	``
+neg	wanting	not
+xcomp	mean	wanting
+mark	use	to
+xcomp	wanting	use
+dobj	use	nukes
+punct	use	''
+punct	mean	.

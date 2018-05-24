@@ -1,0 +1,4 @@
+access	work	acl
+access	to	case
+tries	man	nsubj
+tries	access	nmod:to

@@ -1,0 +1,10 @@
+root	ROOT	show
+case	seat	to
+det	seat	a
+nmod:to	show	seat
+punct	show	;
+dep	show	assign
+det	seat	a
+dobj	assign	seat
+nmod	assign	for
+punct	show	.

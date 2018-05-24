@@ -1,0 +1,4 @@
+ROOT	sunbathing	root
+sunbathing	Woman	nsubj
+sunbathing	beach	nmod:on
+sunbathing	.	punct

@@ -1,0 +1,14 @@
+compound	A	Bulb
+nsubj	path	A
+cop	path	is
+case	path	within
+nmod:poss	path	its
+amod	path	own
+amod	path	closed
+root	ROOT	path
+cc	path	and
+conj:and	path	independent
+case	B	of
+nmod:of	independent	B
+cc	B	and
+conj:and	B	C

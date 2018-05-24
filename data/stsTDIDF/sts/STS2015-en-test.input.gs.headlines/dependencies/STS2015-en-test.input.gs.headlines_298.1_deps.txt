@@ -1,0 +1,9 @@
+compound	Weiner	Anthony
+nsubj	slips	Weiner
+root	ROOT	slips
+case	place	to
+amod	place	fourth
+nmod:to	slips	place
+case	poll	in
+amod	poll	new
+nmod:in	slips	poll

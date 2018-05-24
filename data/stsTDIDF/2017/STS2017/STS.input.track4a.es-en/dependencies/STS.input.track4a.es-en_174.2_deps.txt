@@ -1,0 +1,10 @@
+det	sign	The
+nsubj	has	sign
+root	ROOT	has
+case	least	at
+nmod:npmod	one	least
+nummod	word	one
+dobj	has	word
+case	it	on
+nmod:on	has	it
+punct	has	.

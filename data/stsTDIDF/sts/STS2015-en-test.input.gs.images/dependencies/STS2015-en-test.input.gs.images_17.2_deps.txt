@@ -1,0 +1,13 @@
+root	ROOT	Man
+acl	Man	sitting
+case	himself	by
+nmod:by	sitting	himself
+case	pier	on
+det	pier	a
+nmod:on	sitting	pier
+case	bottle	with
+det	bottle	a
+nmod:with	pier	bottle
+case	water	of
+nmod:of	bottle	water
+punct	Man	.

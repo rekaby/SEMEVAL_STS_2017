@@ -1,0 +1,7 @@
+riding	bicycle	dobj
+wearing	riding	conj:and
+bicycle	a	det
+wearing	and	cc
+wearing	woman	nsubj
+riding	is	aux
+shirt	blue	amod

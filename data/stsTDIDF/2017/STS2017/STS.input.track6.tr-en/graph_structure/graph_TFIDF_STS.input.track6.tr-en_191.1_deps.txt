@@ -1,0 +1,6 @@
+throwing	boy	nsubj
+throwing	baseball	dobj
+baseball	yellow	amod
+baseball	a	det
+ROOT	throwing	root
+throwing	.	punct

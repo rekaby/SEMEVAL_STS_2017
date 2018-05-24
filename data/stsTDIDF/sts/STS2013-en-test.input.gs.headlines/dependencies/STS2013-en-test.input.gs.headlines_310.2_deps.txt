@@ -1,0 +1,7 @@
+amod	fury	Anti-American
+nsubj	sweeps	fury
+root	ROOT	sweeps
+compound	East	Middle
+dobj	sweeps	East
+case	film	over
+nmod:over	sweeps	film

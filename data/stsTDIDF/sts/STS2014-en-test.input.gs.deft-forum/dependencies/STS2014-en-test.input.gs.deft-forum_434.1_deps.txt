@@ -1,0 +1,8 @@
+root	ROOT	What
+mark	messed	if
+nsubj	messed	they
+dep	What	messed
+compound:prt	messed	up
+det	study	a
+dobj	messed	study
+punct	What	?

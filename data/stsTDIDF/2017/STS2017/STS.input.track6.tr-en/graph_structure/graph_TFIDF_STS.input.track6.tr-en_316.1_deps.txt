@@ -1,0 +1,5 @@
+plane	.	punct
+ROOT	plane	root
+stewardess	A	det
+plane	is	cop
+plane	stewardess	nsubj

@@ -1,0 +1,13 @@
+nsubj	things	Preserving
+compound	meaning	grammaticality
+cc	grammaticality	and
+conj:and	grammaticality	preserving
+dobj	Preserving	meaning
+case	sentence	of
+det	sentence	the
+nmod:of	meaning	sentence
+cop	things	are
+nummod	things	two
+amod	things	different
+root	ROOT	things
+punct	things	.

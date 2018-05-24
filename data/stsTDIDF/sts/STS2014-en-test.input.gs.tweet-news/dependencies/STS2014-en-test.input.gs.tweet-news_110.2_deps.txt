@@ -1,0 +1,9 @@
+compound	linebacker	Notre
+compound	linebacker	Dame
+nsubj	says	linebacker
+root	ROOT	says
+nsubj	victim	he
+cop	victim	is
+ccomp	says	victim
+case	hoax	of
+nmod:of	victim	hoax

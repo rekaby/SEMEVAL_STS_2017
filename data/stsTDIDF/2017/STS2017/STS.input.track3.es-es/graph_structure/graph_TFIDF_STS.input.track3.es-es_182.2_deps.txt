@@ -1,0 +1,5 @@
+event	are	cop
+event	track	compound
+event	They	nsubj
+ROOT	event	root
+event	.	punct

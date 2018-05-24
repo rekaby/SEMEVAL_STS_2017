@@ -1,0 +1,7 @@
+amod	government	Spanish
+nsubj	approves	government
+root	ROOT	approves
+amod	restrictions	tight
+dobj	approves	restrictions
+case	abortion	on
+nmod:on	restrictions	abortion

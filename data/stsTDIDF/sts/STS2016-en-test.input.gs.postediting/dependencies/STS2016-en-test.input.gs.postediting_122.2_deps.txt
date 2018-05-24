@@ -1,0 +1,16 @@
+det	weekend	The
+amod	weekend	second
+nsubjpass	known	weekend
+case	festival	of
+det	festival	the
+compound	festival	beer
+nmod:of	weekend	festival
+auxpass	known	is
+advmod	known	also
+root	ROOT	known
+case	weekend	as
+det	weekend	the
+nmod:as	known	weekend
+case	Italy	of
+nmod:of	weekend	Italy
+punct	known	.

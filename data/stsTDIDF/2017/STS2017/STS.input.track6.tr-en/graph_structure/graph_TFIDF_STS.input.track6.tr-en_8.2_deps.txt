@@ -1,0 +1,11 @@
+dressed	clothes	nmod:in
+child	dressed	acl
+swing	tree	compound
+swing	in	case
+clothes	bright	amod
+swaying	swing	nmod:in
+child	.	punct
+dressed	swaying	xcomp
+ROOT	child	root
+swing	a	det
+clothes	in	case

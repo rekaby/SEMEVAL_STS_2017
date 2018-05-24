@@ -1,0 +1,7 @@
+compound	Airlines	Malaysia
+root	ROOT	Airlines
+acl	Airlines	investigating
+dobj	investigating	co-pilot
+mark	missing	on
+advcl	investigating	missing
+dobj	missing	flight

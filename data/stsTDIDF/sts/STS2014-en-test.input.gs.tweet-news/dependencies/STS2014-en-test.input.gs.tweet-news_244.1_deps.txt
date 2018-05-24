@@ -1,0 +1,6 @@
+root	ROOT	200
+amod	200	dead
+case	fire	in
+compound	fire	night
+compound	fire	club
+nmod:in	dead	fire

@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	looking	woman
+case	outfit	in
+det	outfit	a
+compound	outfit	plaid
+nmod:in	woman	outfit
+aux	looking	is
+root	ROOT	looking
+case	bag	through
+det	bag	a
+nmod:through	looking	bag
+case	produce	of
+nmod:of	bag	produce
+punct	looking	.

@@ -1,0 +1,7 @@
+nummod	children	Four
+root	ROOT	children
+acl	children	looking
+case	animals	at
+compound	animals	barn
+nmod:at	looking	animals
+punct	children	.

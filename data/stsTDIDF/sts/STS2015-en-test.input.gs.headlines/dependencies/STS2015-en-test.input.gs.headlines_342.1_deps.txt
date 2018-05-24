@@ -1,0 +1,11 @@
+nsubj	holding	Islamists
+advmod	holding	still
+csubj	continues	holding
+det	hostages	some
+nummod	hostages	30
+dobj	holding	hostages
+case	standoff	as
+compound	standoff	Kenya
+compound	standoff	mall
+nmod:as	hostages	standoff
+root	ROOT	continues

@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	brown
+nsubj	splashing	dog
+aux	splashing	is
+root	ROOT	splashing
+dobj	splashing	water
+advmod	splashing	everywhere
+mark	shaking	by
+advcl	splashing	shaking
+det	water	the
+dobj	shaking	water
+advmod	shaking	off
+case	itself	of
+nmod:of	off	itself
+punct	splashing	.

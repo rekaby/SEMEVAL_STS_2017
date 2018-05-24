@@ -1,0 +1,5 @@
+root	ROOT	Man
+acl	Man	arrested
+case	murder	over
+amod	murder	double
+nmod:over	arrested	murder

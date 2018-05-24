@@ -1,0 +1,13 @@
+det	man	A
+nsubj	adding	man
+aux	adding	is
+root	ROOT	adding
+amod	vegetables	sliced
+dobj	adding	vegetables
+case	bowl	to
+det	bowl	a
+compound	bowl	cooking
+nmod:to	adding	bowl
+case	water	with
+nmod:with	bowl	water
+punct	adding	.

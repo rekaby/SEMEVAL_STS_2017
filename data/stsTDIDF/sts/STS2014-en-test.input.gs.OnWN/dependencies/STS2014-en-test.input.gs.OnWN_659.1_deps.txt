@@ -1,0 +1,5 @@
+root	ROOT	class
+case	students	of
+nmod:of	class	students
+acl	students	taught
+compound:prt	taught	together

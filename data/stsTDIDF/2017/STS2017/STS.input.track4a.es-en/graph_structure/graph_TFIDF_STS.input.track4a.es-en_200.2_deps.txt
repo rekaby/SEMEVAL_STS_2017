@@ -1,0 +1,9 @@
+cooks	The	det
+burrito	massive	amod
+burrito	for	case
+putting	ingredients	dobj
+burrito	a	det
+ingredients	burrito	nmod:for
+putting	cooks	nsubj
+putting	together	compound:prt
+putting	are	aux

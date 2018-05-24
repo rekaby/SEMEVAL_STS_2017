@@ -1,0 +1,5 @@
+nsubj	rejects	Bahrain
+root	ROOT	rejects
+nmod:poss	appeal	activists
+case	activists	'
+dobj	rejects	appeal

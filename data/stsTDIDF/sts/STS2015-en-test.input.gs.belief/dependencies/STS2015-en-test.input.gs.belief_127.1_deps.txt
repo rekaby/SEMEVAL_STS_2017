@@ -1,0 +1,10 @@
+det	dont	the
+nsubj	identify	dont
+root	ROOT	identify
+dobj	identify	me
+case	preson	as
+det	preson	a
+amod	preson	real
+nmod:as	identify	preson
+punct	identify	,
+punct	identify	.-10) root(ROOT-0, .

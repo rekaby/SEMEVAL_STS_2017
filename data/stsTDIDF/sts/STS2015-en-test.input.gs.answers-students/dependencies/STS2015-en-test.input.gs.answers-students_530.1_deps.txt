@@ -1,0 +1,13 @@
+compound	circuts	Bulbs
+nsubj	own	A
+cc	A	and
+conj:and	A	C
+aux	own	will
+advmod	own	still
+cop	own	be
+case	own	on
+nmod:poss	own	their
+amod	circuts	own
+amod	circuts	completed
+root	ROOT	circuts
+punct	circuts	.

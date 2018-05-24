@@ -1,0 +1,14 @@
+nummod	people	Six
+nsubjpass	seated	people
+auxpass	seated	are
+root	ROOT	seated
+case	table	at
+det	table	a
+compound	table	restaurant
+nmod:at	seated	table
+cc	seated	and
+conj:and	seated	looking
+case	camera	into
+det	camera	the
+nmod:into	looking	camera
+punct	seated	.

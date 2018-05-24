@@ -1,0 +1,10 @@
+det	line	A
+compound	line	budget
+root	ROOT	line
+punct	line	,
+conj:and	line	programmes
+cc	line	and
+case	years	of
+amod	years	many
+conj:and	line	years
+punct	line	.

@@ -1,0 +1,10 @@
+case	Camps	In
+compound	Camps	Cairo
+nmod:in	Dig	Camps
+punct	Dig	,
+compound	Dig	Protesters
+root	ROOT	Dig
+nmod	Dig	in
+cc	in	and
+conj:and	in	Live
+dep	Dig	On

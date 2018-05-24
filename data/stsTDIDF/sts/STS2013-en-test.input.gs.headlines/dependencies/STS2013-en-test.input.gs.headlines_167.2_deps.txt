@@ -1,0 +1,8 @@
+amod	exercises	Turkish
+compound	exercises	army
+compound	exercises	stages
+compound	exercises	tank
+nsubj	border	exercises
+case	Syria	near
+nmod:near	exercises	Syria
+root	ROOT	border

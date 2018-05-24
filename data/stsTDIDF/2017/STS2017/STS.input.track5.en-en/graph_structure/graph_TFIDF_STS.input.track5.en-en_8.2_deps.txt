@@ -1,0 +1,14 @@
+watching	just	advmod
+Climbing	,	punct
+Lady	This	det
+Climbing	or	cc
+ready	might	aux
+Clouds	,	punct
+ready	Lady	nsubj
+Climbing	for	case
+Climbing	Rock	compound
+Climbing	watching	conj:or
+Clouds	above	advmod
+watching	Clouds	dobj
+Clouds	the	det
+ready	Climbing	nmod:for

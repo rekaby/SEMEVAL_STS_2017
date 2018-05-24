@@ -1,0 +1,9 @@
+compound	dog	St.
+compound	dog	Bernard
+nsubj	running	dog
+root	ROOT	running
+case	field	in
+det	field	the
+amod	field	snowy
+nmod:in	running	field
+punct	running	.

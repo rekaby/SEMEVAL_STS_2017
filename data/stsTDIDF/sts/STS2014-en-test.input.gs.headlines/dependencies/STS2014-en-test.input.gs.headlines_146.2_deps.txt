@@ -1,0 +1,10 @@
+nummod	dead	Two
+dep	hurt	dead
+punct	hurt	,
+nummod	hurt	181
+root	ROOT	hurt
+case	air	in
+compound	air	San
+compound	air	Francisco
+nmod:in	hurt	air
+dep	hurt	crash

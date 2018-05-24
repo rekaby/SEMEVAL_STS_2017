@@ -1,0 +1,11 @@
+root	ROOT	Person
+case	poles	with
+nummod	poles	two
+compound	poles	ski
+nmod:with	Person	poles
+acl	poles	skiing
+compound:prt	skiing	down
+det	hill	a
+amod	hill	snowy
+dobj	skiing	hill
+punct	Person	.

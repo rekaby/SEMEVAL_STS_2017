@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	picking	woman
+aux	picking	is
+root	ROOT	picking
+compound:prt	picking	up
+det	kangaroo	a
+dobj	picking	kangaroo
+punct	picking	.

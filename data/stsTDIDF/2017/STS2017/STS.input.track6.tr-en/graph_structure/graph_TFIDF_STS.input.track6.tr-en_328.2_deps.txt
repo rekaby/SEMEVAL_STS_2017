@@ -1,0 +1,9 @@
+tent	closed	amod
+tent	a	det
+tent	.	punct
+tent	in	case
+tent	is	cop
+being	human	amod
+ROOT	tent	root
+tent	being	nsubj
+being	A	det

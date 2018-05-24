@@ -1,0 +1,7 @@
+compound	defects	Syria
+amod	defects	military
+compound	defects	police
+amod	defects	chief
+root	ROOT	defects
+case	rebels	to
+nmod:to	defects	rebels

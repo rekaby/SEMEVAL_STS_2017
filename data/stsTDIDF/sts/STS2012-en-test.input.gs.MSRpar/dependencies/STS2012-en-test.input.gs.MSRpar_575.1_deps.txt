@@ -1,0 +1,17 @@
+nsubj	said	Police
+root	ROOT	said
+dep	apartment	her
+nummod	children	two
+amod	children	small
+nsubj	apartment	children
+cop	apartment	were
+advmod	apartment	alone
+case	apartment	in
+det	apartment	the
+ccomp	said	apartment
+acl	apartment	for
+advmod	for	up
+case	days	to
+nummod	days	two
+nmod:to	up	days
+punct	said	.

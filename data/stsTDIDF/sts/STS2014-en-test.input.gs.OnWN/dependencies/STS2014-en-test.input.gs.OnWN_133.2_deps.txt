@@ -1,0 +1,12 @@
+det	shot	the
+compound	shot	opening
+root	ROOT	shot
+nsubj	scatters	that
+acl:relcl	shot	scatters
+det	balls	the
+dobj	scatters	balls
+case	billiards	in
+nmod:in	scatters	billiards
+cc	billiards	or
+conj:or	billiards	pool
+punct	shot	.

@@ -1,0 +1,14 @@
+punct	Cause	-LRB-
+dep	form	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	form
+det	cluster	a
+dobj	form	cluster
+case	space	in
+cc:preconj	abstract	either
+amod	space	abstract
+cc	abstract	or
+conj:or	abstract	physical
+nmod:in	cluster	space
+punct	form	.

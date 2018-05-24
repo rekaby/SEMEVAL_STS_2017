@@ -1,0 +1,12 @@
+nsubj	saddled	Texans
+root	ROOT	saddled
+case	premiums	with
+amod	premiums	skyrocketing
+compound	premiums	homeowners
+nmod:with	saddled	premiums
+aux	getting	might
+advmod	getting	finally
+aux	getting	be
+ccomp	saddled	getting
+dobj	getting	relief
+punct	saddled	.

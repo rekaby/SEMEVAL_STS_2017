@@ -1,0 +1,10 @@
+det	plane	A
+amod	plane	small
+compound	plane	turboprop
+nsubjpass	loaded	plane
+auxpass	loaded	being
+root	ROOT	loaded
+case	tarmac	on
+det	tarmac	the
+nmod:on	loaded	tarmac
+punct	loaded	.

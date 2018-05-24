@@ -1,0 +1,11 @@
+root	ROOT	give
+dobj	give	pleasure
+punct	pleasure	,
+conj:or	pleasure	satifaction
+punct	pleasure	,
+cc	pleasure	or
+conj:or	pleasure	happiness
+punct	give	;
+aux	pleasing	be
+parataxis	give	pleasing
+dep	pleasing	to

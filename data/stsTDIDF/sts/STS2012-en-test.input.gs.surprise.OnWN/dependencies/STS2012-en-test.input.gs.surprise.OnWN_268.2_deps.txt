@@ -1,0 +1,5 @@
+root	ROOT	feel
+xcomp	feel	hot
+cc	hot	or
+conj:or	hot	painful
+punct	feel	.

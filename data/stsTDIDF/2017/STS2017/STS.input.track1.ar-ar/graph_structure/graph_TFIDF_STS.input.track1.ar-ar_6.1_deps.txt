@@ -1,0 +1,11 @@
+caused	gathered	ccomp
+pile	rocks	nmod:of
+caused	pile	nsubj
+gathered	people	nsubj
+pile	bearing	acl
+pile	A	det
+pile	,	punct
+rocks	of	case
+bearing	signs	dobj
+signs	strange	amod
+gathered	around	advmod

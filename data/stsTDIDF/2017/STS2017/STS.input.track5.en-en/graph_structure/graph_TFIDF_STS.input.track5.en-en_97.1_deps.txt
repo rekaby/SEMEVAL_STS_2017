@@ -1,0 +1,7 @@
+taxi	airport	nmod:at
+man	calling	acl
+taxi	for	case
+day	sunny	amod
+calling	taxi	nmod:for
+taxi	a	det
+calling	day	nmod:on

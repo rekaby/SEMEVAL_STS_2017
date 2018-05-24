@@ -1,0 +1,7 @@
+nsubj	spends	UK
+root	ROOT	spends
+compound	3m	#
+dobj	spends	3m
+case	prisons	on
+amod	prisons	foreign
+nmod:on	3m	prisons

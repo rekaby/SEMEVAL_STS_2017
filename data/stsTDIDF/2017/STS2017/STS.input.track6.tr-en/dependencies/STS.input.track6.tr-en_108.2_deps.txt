@@ -1,0 +1,9 @@
+det	child	A
+nmod:poss	splash	child
+case	child	's
+nsubj	falls	splash
+root	ROOT	falls
+compound:prt	falls	down
+det	pond	the
+dobj	falls	pond
+punct	falls	.

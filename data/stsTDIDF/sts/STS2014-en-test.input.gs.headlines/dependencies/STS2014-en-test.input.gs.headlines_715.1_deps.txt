@@ -1,0 +1,9 @@
+nmod:poss	Shebab	Somalia
+case	Somalia	's
+nsubj	claims	Shebab
+root	ROOT	claims
+compound	attack	responsibility
+case	mall	for
+compound	mall	Nairobi
+nmod:for	responsibility	mall
+dobj	claims	attack

@@ -1,0 +1,9 @@
+nummod	retailers	70
+nsubj	agree	retailers
+root	ROOT	agree
+case	pact	to
+amod	pact	new
+compound	pact	Bangladesh
+compound	pact	factory
+compound	pact	safety
+nmod:to	agree	pact

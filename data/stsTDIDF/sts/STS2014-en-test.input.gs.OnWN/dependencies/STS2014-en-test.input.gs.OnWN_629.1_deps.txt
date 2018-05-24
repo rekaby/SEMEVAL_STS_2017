@@ -1,0 +1,6 @@
+amod	state	abrupt
+root	ROOT	state
+case	disbelief	of
+nmod:of	state	disbelief
+case	something	about
+nmod:about	state	something

@@ -1,0 +1,15 @@
+expl	is	There
+root	ROOT	is
+advmod	is	actually
+nsubj	is	functionality
+case	browsers	in
+amod	browsers	most
+nmod:in	functionality	browsers
+advmod	place	already
+case	place	in
+nmod:in	functionality	place
+mark	do	to
+acl	place	do
+advmod	this	just
+dobj	do	this
+punct	is	.

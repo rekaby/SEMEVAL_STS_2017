@@ -1,0 +1,23 @@
+nsubj	integrates	This
+root	ROOT	integrates
+case	PurifyPlus	with
+amod	PurifyPlus	Rational
+nmod:with	integrates	PurifyPlus
+cc	integrates	and
+conj:and	integrates	allows
+dobj	allows	developers
+mark	work	to
+xcomp	allows	work
+case	versions	in
+amod	versions	supported
+nmod:in	work	versions
+case	Java	of
+nmod:of	versions	Java
+punct	work	,
+compound	C#	Visual
+dobj	work	C#
+cc	C#	and
+compound	Basic	Visual
+conj:and	C#	Basic
+punct	integrates	.-22) root(ROOT-0, NET
+punct	NET	.

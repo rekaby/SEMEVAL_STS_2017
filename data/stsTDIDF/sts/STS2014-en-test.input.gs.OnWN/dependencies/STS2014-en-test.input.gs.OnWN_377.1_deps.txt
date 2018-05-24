@@ -1,0 +1,8 @@
+root	ROOT	act
+cc	act	or
+conj:or	act	do
+dobj	do	something
+case	reaction	in
+nmod:in	something	reaction
+case	something	to
+nmod:to	reaction	something

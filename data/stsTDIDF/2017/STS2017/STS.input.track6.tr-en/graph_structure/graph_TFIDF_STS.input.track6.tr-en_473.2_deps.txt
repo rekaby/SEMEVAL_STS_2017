@@ -1,0 +1,8 @@
+interviewing	reporters	nsubj
+home	nursing	compound
+interviewing	home	nmod:in
+interviewing	people	dobj
+reporters	The	det
+ROOT	interviewing	root
+interviewing	.	punct
+interviewing	are	aux

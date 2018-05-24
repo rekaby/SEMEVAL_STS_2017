@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+amod	man	older
+nsubj	is	man
+case	window	near
+det	window	a
+nmod:near	is	window
+punct	is	.

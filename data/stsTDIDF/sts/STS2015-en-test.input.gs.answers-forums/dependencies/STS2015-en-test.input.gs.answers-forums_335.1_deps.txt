@@ -1,0 +1,11 @@
+nsubj	have	You
+root	ROOT	have
+mark	define	to
+xcomp	have	define
+det	problem	the
+dobj	define	problem
+mark	attempting	before
+advcl	define	attempting
+det	solution	a
+dobj	attempting	solution
+punct	have	.

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	pouring	man
+aux	pouring	is
+root	ROOT	pouring
+compound	roni	rice
+det	roni	a
+dobj	pouring	roni
+case	pan	into
+det	pan	a
+nmod:into	pouring	pan
+punct	pouring	.

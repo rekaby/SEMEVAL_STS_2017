@@ -1,0 +1,10 @@
+root	ROOT	abstain
+mark	doing	from
+acl	abstain	doing
+punct	abstain	;
+advmod	used	always
+dep	abstain	used
+case	negative	with
+det	negative	a
+nmod:with	used	negative
+punct	abstain	;

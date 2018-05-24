@@ -1,0 +1,8 @@
+nummod	racing	Two
+compound	racing	motorbikes
+root	ROOT	racing
+case	course	on
+det	course	a
+compound	course	dirt
+nmod:on	racing	course
+punct	racing	.

@@ -1,0 +1,7 @@
+climbing	mountain	dobj
+climbing	.	punct
+mountain	a	det
+lady	A	det
+climbing	is	aux
+ROOT	climbing	root
+climbing	lady	nsubj

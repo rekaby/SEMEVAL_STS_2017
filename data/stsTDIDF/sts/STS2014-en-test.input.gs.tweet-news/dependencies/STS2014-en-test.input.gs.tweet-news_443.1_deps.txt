@@ -1,0 +1,17 @@
+compound	argument	Gun
+compound	argument	ban
+nsubj	continues	argument
+root	ROOT	continues
+cc	continues	but
+aux	solve	will
+nsubj	solve	it
+advmod	solve	really
+conj:but	continues	solve
+dobj	solve	anything
+mark	disarm	except
+mark	disarm	to
+advcl	solve	disarm
+det	innocent	the
+dobj	disarm	innocent
+punct	continues	?-16) root(ROOT-0, #pols
+nummod	#pols	1101

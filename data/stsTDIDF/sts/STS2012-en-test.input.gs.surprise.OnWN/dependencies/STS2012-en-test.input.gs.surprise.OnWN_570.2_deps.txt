@@ -1,0 +1,8 @@
+root	ROOT	move
+case	spiral	in
+det	spiral	a
+nmod:in	move	spiral
+cc	spiral	or
+compound	course	zigzag
+conj:or	spiral	course
+punct	move	.

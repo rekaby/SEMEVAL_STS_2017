@@ -1,0 +1,7 @@
+amod	toys	Plastic
+nsubj	floating	toys
+aux	floating	are
+root	ROOT	floating
+case	water	in
+nmod:in	floating	water
+punct	floating	.

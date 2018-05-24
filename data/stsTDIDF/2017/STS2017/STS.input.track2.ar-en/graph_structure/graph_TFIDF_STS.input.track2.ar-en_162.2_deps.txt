@@ -1,0 +1,10 @@
+stick	pool	compound
+stick	.	punct
+pool	of	case
+stick	Woman	compound
+edge	pool	nmod:of
+stick	suit	compound
+ROOT	stick	root
+pool	swimming	compound
+stick	edge	nmod:to
+edge	to	case

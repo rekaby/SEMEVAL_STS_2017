@@ -1,0 +1,7 @@
+nummod	horses	Two
+root	ROOT	horses
+acl	horses	standing
+case	pen	in
+det	pen	a
+nmod:in	standing	pen
+punct	horses	.

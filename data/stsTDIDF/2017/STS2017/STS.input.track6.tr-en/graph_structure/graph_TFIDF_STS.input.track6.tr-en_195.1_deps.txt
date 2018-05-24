@@ -1,0 +1,5 @@
+transit	a	det
+tend	stop	dobj
+tend	workers	nsubj
+tend	transit	nmod:to
+transit	to	case

@@ -1,0 +1,7 @@
+root	ROOT	tie
+cc	tie	or
+conj:or	tie	fasten
+case	knot	into
+det	knot	a
+nmod:into	tie	knot
+punct	tie	.

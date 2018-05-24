@@ -1,0 +1,5 @@
+nsubj	play	Boys
+root	ROOT	play
+case	park	in
+det	park	a
+nmod:in	play	park

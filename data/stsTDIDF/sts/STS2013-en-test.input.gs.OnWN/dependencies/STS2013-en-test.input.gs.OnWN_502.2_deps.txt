@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	dwelling	of
+nmod:of	act	dwelling
+case	place	in
+det	place	a
+nmod:in	act	place
+punct	act	.

@@ -1,0 +1,17 @@
+cc:preconj	Velde	Neither
+compound	Velde	Iowa
+compound	Velde	State
+amod	Velde	athletic
+compound	Velde	director
+compound	Velde	Bruce
+compound	Velde	Van
+compound	Velde	De
+nsubjpass	reached	Velde
+cc	Velde	nor
+conj:nor	Velde	Morgan
+aux	reached	could
+auxpass	reached	be
+root	ROOT	reached
+case	comment	for
+nmod:for	reached	comment
+punct	reached	.

@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	chasing
+det	cat	a
+dobj	chasing	cat
+advmod	chasing	abroad
+punct	dog	.

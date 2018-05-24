@@ -1,0 +1,10 @@
+nsubj	release	Israel
+aux	release	must
+root	ROOT	release
+cc	release	or
+conj:or	release	try
+dobj	try	Palestinian
+case	strike	on
+amod	strike	prolonged
+compound	strike	hunger
+nmod:on	try	strike

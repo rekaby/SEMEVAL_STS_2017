@@ -1,0 +1,9 @@
+nsubj	finds	Russia
+root	ROOT	finds
+amod	Magnitsky	dead
+compound	Magnitsky	lawyer
+dobj	finds	Magnitsky
+amod	Magnitsky	guilty
+case	trial	in
+amod	trial	posthumous
+nmod:in	guilty	trial

@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	running	dogs
+root	ROOT	running
+compound:prt	running	down
+det	beach	a
+dobj	running	beach
+punct	running	.

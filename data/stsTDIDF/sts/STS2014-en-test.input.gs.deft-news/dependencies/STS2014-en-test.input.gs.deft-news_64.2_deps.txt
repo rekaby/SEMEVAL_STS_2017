@@ -1,0 +1,14 @@
+det	staff	a
+nsubj	conduct	staff
+case	specialists	of
+nummod	specialists	30
+nmod:of	staff	specialists
+aux	conduct	will
+root	ROOT	conduct
+dobj	conduct	research
+cc	research	and
+conj:and	research	training
+case	warfare	on
+compound	warfare	cyber
+nmod:on	conduct	warfare
+punct	conduct	.

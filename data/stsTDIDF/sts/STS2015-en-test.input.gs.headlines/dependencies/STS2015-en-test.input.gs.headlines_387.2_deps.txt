@@ -1,0 +1,8 @@
+nsubj	gather	Thousands
+root	ROOT	gather
+mark	support	to
+xcomp	gather	support
+amod	government	Islamist
+dobj	support	government
+case	Tunisia	in
+nmod:in	support	Tunisia

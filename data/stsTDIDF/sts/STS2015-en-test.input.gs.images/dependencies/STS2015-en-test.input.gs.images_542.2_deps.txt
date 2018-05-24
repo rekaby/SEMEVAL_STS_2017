@@ -1,0 +1,8 @@
+nummod	race	Three
+compound	race	dogs
+root	ROOT	race
+case	snow	in
+det	snow	the
+nmod:in	race	snow
+advmod	race	together
+punct	race	.

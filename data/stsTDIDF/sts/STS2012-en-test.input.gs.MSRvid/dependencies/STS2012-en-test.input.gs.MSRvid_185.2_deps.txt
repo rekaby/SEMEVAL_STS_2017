@@ -1,0 +1,9 @@
+det	monkey	A
+nsubj	swinging	monkey
+aux	swinging	is
+root	ROOT	swinging
+case	tree	from
+nmod:from	swinging	tree
+case	tree	to
+nmod:to	tree	tree
+punct	swinging	.

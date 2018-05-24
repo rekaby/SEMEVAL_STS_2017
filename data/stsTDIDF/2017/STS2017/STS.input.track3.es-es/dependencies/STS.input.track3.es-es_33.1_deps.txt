@@ -1,0 +1,6 @@
+nsubj	standing	People
+aux	standing	are
+root	ROOT	standing
+case	public	in
+nmod:in	standing	public
+punct	standing	.

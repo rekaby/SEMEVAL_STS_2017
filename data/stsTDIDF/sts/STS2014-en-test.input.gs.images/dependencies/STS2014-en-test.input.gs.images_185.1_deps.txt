@@ -1,0 +1,8 @@
+det	bicycle	A
+root	ROOT	bicycle
+case	ruins	in
+mwe	in	front
+mwe	in	of
+det	ruins	some
+nmod:in_front_of	bicycle	ruins
+punct	bicycle	.

@@ -1,0 +1,5 @@
+root	ROOT	ARE
+nsubj	ARE	ALL
+case	PATHS	ON
+amod	PATHS	SEPARATE
+nmod:on	ALL	PATHS

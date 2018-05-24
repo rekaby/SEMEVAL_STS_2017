@@ -1,0 +1,8 @@
+det	man	A
+nsubj	preparing	man
+aux	preparing	is
+root	ROOT	preparing
+det	rope	a
+amod	rope	hanging
+dobj	preparing	rope
+punct	preparing	.

@@ -1,0 +1,8 @@
+nummod	boys	Three
+nsubj	fighting	boys
+case	costumes	in
+amod	costumes	karate
+nmod:in	boys	costumes
+aux	fighting	are
+root	ROOT	fighting
+punct	fighting	.

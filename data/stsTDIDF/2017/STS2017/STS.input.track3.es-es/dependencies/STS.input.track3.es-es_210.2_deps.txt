@@ -1,0 +1,12 @@
+nummod	boys	Two
+root	ROOT	boys
+acl	boys	playing
+dobj	playing	guitar
+case	woman	with
+det	woman	a
+nmod:with	playing	woman
+acl	woman	standing
+case	them	next
+mwe	next	to
+nmod:next_to	standing	them
+punct	boys	.

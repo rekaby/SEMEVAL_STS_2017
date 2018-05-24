@@ -1,0 +1,6 @@
+compound	bombings	Iraq
+nsubj	kill	bombings
+root	ROOT	kill
+case	least	at
+nmod:at	kill	least
+dobj	kill	26

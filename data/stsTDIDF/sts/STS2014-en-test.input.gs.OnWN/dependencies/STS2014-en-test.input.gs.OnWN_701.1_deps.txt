@@ -1,0 +1,12 @@
+root	ROOT	Put
+case	cream	on
+nmod:on	Put	cream
+punct	Put	,
+case	face	as
+case	face	on
+nmod:poss	face	one
+case	one	's
+nmod:on	Put	face
+cc	face	or
+conj:or	face	body
+punct	Put	.

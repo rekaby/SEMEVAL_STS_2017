@@ -1,0 +1,9 @@
+felled	loggers	nsubj
+tree	giant	amod
+felled	forest	nmod:in
+felled	tree	dobj
+ROOT	felled	root
+forest	spring	compound
+forest	in	case
+loggers	Illegal	amod
+felled	.	punct

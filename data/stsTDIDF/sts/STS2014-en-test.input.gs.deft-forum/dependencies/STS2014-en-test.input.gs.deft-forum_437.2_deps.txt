@@ -1,0 +1,12 @@
+nsubj	talking	We
+aux	talking	were
+root	ROOT	talking
+case	women	about
+nmod:about	talking	women
+case	bounty	as
+compound	bounty	war
+nmod:as	women	bounty
+dep	talking	were
+nsubj	were	we
+neg	we	not
+punct	talking	?

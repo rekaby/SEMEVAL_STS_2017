@@ -1,0 +1,8 @@
+nummod	arrests	Two
+root	ROOT	arrests
+acl	arrests	made
+case	protest	after
+nmod:after	made	protest
+case	Farage	against
+compound	Farage	Nigel
+nmod:against	protest	Farage

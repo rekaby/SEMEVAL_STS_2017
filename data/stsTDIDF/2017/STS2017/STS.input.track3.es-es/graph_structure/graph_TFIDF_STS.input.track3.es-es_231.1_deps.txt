@@ -1,0 +1,16 @@
+ROOT	lined	root
+seats	Colorful	amod
+lined	players	nmod:behind
+players	soccer	compound
+trying	chase	xcomp
+seats	yellow	amod
+crowd	sparse	amod
+players	trying	acl
+chase	ball	dobj
+seats	crowd	nmod:with
+chase	to	mark
+lined	seats	nsubj
+crowd	with	case
+lined	.	punct
+players	four	nummod
+players	behind	case

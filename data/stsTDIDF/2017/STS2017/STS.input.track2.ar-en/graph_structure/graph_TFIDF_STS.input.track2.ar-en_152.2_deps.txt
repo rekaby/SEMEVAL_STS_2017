@@ -1,0 +1,11 @@
+blue	in	case
+Ford	Woman	compound
+food	children	nmod:for
+food	.	punct
+food	Ford	nsubj
+ROOT	food	root
+sitting	table	nmod:under
+table	under	case
+children	blue	nmod:in
+blue	sitting	acl
+food	is	cop

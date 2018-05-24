@@ -1,0 +1,6 @@
+nsubj	stand	People
+root	ROOT	stand
+case	bookstore	outside
+det	bookstore	a
+nmod:outside	stand	bookstore
+punct	stand	.

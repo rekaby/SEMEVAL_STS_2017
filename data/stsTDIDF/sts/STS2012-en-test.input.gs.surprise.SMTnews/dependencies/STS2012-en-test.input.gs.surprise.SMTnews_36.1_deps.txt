@@ -1,0 +1,12 @@
+nsubj	did	He
+root	ROOT	did
+punct	did	,
+cc	did	but
+det	initiative	the
+nsubj	get	initiative
+aux	get	did
+neg	get	not
+conj:but	did	get
+advmod	far	very
+advmod	get	far
+punct	did	.

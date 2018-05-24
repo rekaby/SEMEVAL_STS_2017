@@ -1,0 +1,12 @@
+nummod	boys	Two
+amod	boys	small
+root	ROOT	boys
+case	area	in
+det	area	a
+compound	area	woody
+nmod:in	boys	area
+acl	area	looking
+case	shed	at
+det	shed	a
+nmod:at	looking	shed
+punct	boys	.

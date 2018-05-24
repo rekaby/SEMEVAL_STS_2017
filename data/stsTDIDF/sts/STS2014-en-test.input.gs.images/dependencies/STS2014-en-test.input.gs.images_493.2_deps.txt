@@ -1,0 +1,10 @@
+det	horse	A
+amod	horse	brown
+nsubj	standing	horse
+aux	standing	is
+root	ROOT	standing
+case	grass	on
+nmod:on	standing	grass
+cc	grass	and
+conj:and	grass	scrub
+punct	standing	.

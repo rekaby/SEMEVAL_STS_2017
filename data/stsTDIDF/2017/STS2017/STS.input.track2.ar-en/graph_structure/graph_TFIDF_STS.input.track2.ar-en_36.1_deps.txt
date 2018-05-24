@@ -1,0 +1,6 @@
+race	Jockeys	compound
+horses	fast	amod
+race	.	punct
+horses	the	det
+race	horses	dobj
+ROOT	race	root

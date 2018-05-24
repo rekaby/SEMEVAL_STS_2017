@@ -1,0 +1,10 @@
+det	orders	The
+compound	orders	Judges
+root	ROOT	orders
+det	letter	a
+amod	letter	three-page
+dep	orders	letter
+mark	filed	to
+auxpass	filed	be
+acl	letter	filed
+punct	orders	.

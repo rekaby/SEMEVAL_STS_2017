@@ -1,0 +1,9 @@
+nummod	women	Three
+amod	women	young
+nsubj	standing	women
+root	ROOT	standing
+case	room	in
+det	room	a
+nmod:in	standing	room
+advmod	room	together
+punct	standing	.

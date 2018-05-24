@@ -1,0 +1,11 @@
+det	officers	The
+nummod	officers	two
+compound	officers	horseman
+compound	officers	police
+nsubj	moving	officers
+aux	moving	are
+root	ROOT	moving
+compound:prt	moving	down
+det	street	the
+dobj	moving	street
+punct	moving	.

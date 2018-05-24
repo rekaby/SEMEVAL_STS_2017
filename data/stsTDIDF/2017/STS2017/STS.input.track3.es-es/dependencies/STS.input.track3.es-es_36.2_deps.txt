@@ -1,0 +1,6 @@
+compound	players	Soccer
+root	ROOT	players
+case	day	on
+compound	day	game
+nmod:on	players	day
+punct	players	.

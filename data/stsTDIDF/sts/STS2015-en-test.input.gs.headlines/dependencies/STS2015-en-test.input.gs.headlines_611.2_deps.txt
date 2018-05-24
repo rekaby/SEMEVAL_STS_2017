@@ -1,0 +1,6 @@
+nsubj	inch	Stocks
+root	ROOT	inch
+advmod	inch	higher
+case	trading	in
+amod	trading	early
+nmod:in	inch	trading

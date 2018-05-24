@@ -1,0 +1,9 @@
+nmod:poss	yuan	China
+case	China	's
+nsubj	weakens	yuan
+root	ROOT	weakens
+case	6.2767	to
+nmod:to	weakens	6.2767
+case	USD	against
+nmod:against	weakens	USD
+nmod:tmod	weakens	Thursday

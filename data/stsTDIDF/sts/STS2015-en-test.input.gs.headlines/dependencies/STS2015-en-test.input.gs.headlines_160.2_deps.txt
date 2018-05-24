@@ -1,0 +1,6 @@
+amod	strikes	6.6-mag
+compound	strikes	quake
+root	ROOT	strikes
+case	Indonesia	off
+amod	Indonesia	eastern
+nmod:off	strikes	Indonesia

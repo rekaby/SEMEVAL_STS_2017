@@ -1,0 +1,13 @@
+carries	shoulder	nmod:on
+clothing	white	amod
+uniform	a	det
+woman	brunette	compound
+clothing	in	case
+carries	woman	dobj
+shoulder	on	case
+uniform	khaki	amod
+carries	man	nsubj
+man	uniform	nmod:in
+uniform	colored	amod
+woman	clothing	nmod:in
+uniform	in	case

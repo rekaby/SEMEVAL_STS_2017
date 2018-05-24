@@ -1,0 +1,8 @@
+nmod:poss	Brotherhood	Egypt
+case	Egypt	's
+amod	Brotherhood	Muslim
+nsubj	Refuses	Brotherhood
+root	ROOT	Refuses
+case	Back	to
+nmod:to	Refuses	Back
+compound:prt	Refuses	Down

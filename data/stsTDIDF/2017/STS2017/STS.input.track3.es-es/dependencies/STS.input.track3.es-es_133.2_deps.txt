@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	reading	woman
+case	glasses	with
+nmod:with	woman	glasses
+aux	reading	is
+root	ROOT	reading
+det	side	a
+dobj	reading	side
+case	bowl	of
+det	bowl	a
+compound	bowl	metal
+nmod:of	side	bowl

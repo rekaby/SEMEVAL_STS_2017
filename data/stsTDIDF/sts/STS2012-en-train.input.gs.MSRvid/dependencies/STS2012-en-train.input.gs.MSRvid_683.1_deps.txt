@@ -1,0 +1,14 @@
+det	man	The
+root	ROOT	man
+acl	man	set
+compound:prt	set	up
+nmod:poss	camera	his
+dobj	set	camera
+mark	take	to
+advcl	set	take
+amod	pictures	sunset
+dobj	take	pictures
+case	beach	at
+det	beach	the
+nmod:at	take	beach
+punct	man	.

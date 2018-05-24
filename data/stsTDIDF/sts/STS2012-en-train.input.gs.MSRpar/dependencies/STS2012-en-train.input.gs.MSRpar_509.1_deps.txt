@@ -1,0 +1,10 @@
+advmod	yield	Only
+compound	Corp.	Intel
+nmod:poss	yield	Corp.
+case	Corp.	's
+compound	percent	0.3
+amod	yield	percent
+nsubj	lower	yield
+cop	lower	was
+root	ROOT	lower
+punct	lower	.

@@ -1,0 +1,12 @@
+det	man	A
+nsubj	smearing	man
+aux	smearing	is
+root	ROOT	smearing
+dobj	smearing	butter
+case	slice	on
+det	slice	a
+nmod:on	smearing	slice
+case	bread	of
+amod	bread	garlic
+nmod:of	slice	bread
+punct	smearing	.

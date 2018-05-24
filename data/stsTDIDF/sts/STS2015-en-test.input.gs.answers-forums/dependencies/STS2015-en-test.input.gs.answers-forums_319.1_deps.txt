@@ -1,0 +1,11 @@
+nmod:poss	experience	My
+nsubj	is	experience
+root	ROOT	is
+mark	cheaper	that
+det	taxi	a
+amod	taxi	normal
+nsubj	cheaper	taxi
+cop	cheaper	is
+advmod	cheaper	always
+ccomp	is	cheaper
+punct	is	.

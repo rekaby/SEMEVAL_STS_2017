@@ -1,0 +1,13 @@
+det	organization	any
+root	ROOT	organization
+nsubj	provides	that
+acl:relcl	organization	provides
+dobj	provides	resources
+cc	resources	and
+conj:and	resources	facilities
+case	function	for
+det	function	a
+nmod:for	provides	function
+cc	function	or
+conj:or	function	event
+punct	organization	.

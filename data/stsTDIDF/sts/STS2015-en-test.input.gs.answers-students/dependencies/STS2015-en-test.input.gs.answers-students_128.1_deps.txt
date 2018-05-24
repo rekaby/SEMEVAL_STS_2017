@@ -1,0 +1,13 @@
+compound	B	Bulbs
+nsubj	paths	B
+cc	B	and
+conj:and	B	C
+aux	paths	will
+advmod	paths	still
+cop	paths	be
+case	paths	on
+amod	paths	closed
+root	ROOT	paths
+case	battery	with
+det	battery	the
+nmod:with	paths	battery

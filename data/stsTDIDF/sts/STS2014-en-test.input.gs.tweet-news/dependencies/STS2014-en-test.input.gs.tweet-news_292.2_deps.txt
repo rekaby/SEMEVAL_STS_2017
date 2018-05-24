@@ -1,0 +1,9 @@
+compound	Weather	Extreme
+nsubj	Grows	Weather
+root	ROOT	Grows
+case	Frequency	in
+nmod:in	Grows	Frequency
+cc	Frequency	and
+conj:and	Frequency	Intensity
+case	World	Around
+nmod:around	Grows	World

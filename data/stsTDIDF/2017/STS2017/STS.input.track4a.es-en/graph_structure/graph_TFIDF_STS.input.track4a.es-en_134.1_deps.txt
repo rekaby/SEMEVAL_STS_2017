@@ -1,0 +1,8 @@
+parked	runway	nmod:on
+dragster	orange	amod
+dragster	parked	acl
+dragster	An	det
+runway	on	case
+dragster	.	punct
+ROOT	dragster	root
+runway	the	det

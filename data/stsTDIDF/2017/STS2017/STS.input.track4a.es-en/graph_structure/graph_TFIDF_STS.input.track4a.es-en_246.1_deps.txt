@@ -1,0 +1,4 @@
+talking	man	nsubj
+bathroom	in	case
+talking	phone	nmod:on
+phone	bathroom	nmod:in

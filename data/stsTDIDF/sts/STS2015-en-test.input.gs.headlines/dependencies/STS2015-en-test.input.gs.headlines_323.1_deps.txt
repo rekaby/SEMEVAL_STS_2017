@@ -1,0 +1,6 @@
+nsubj	detects	Vietnam
+root	ROOT	detects
+dobj	detects	signals
+case	plane	from
+amod	plane	missing
+nmod:from	detects	plane

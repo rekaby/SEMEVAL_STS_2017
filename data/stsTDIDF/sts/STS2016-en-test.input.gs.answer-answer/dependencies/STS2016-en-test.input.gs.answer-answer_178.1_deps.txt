@@ -1,0 +1,11 @@
+nsubj	going	I
+aux	going	'm
+root	ROOT	going
+mark	go	to
+xcomp	going	go
+compound:prt	go	out
+case	limb	on
+det	limb	a
+nmod:on	go	limb
+advmod	go	here
+punct	going	...

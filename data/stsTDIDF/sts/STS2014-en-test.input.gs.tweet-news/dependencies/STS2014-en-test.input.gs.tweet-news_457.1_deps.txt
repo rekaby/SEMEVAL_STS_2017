@@ -1,0 +1,9 @@
+root	ROOT	Highlights
+case	Interview	From
+compound	Couric	Katie
+nmod:poss	Interview	Couric
+case	Couric	's
+nmod:from	Highlights	Interview
+case	Manti	With
+nmod:with	Interview	Manti
+dep	Highlights	Te'o

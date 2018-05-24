@@ -1,0 +1,8 @@
+det	trick	A
+root	ROOT	trick
+nsubj	grinds	bicyclist
+acl:relcl	trick	grinds
+compound:prt	grinds	down
+det	handrail	a
+dobj	grinds	handrail
+punct	trick	.

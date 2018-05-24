@@ -1,0 +1,6 @@
+nsubj	arrests	Myanmar
+root	ROOT	arrests
+dobj	arrests	44
+case	violence	over
+amod	violence	sectarian
+nmod:over	44	violence

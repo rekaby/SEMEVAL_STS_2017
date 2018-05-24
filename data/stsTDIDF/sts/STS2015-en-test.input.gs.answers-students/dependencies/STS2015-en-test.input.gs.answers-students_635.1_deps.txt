@@ -1,0 +1,12 @@
+punct	cause	``
+mark	didn	Because
+nsubj	didn	it
+advcl	cause	didn
+punct	cause	''
+punct	cause	``
+nsubj	cause	t
+root	ROOT	cause
+det	gap	a
+dobj	cause	gap
+punct	cause	.
+punct	cause	''

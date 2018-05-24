@@ -1,0 +1,12 @@
+nummod	dogs	Two
+nsubj	nussle	dogs
+root	ROOT	nussle
+nummod	another	one
+dobj	nussle	another
+case	grass	in
+det	grass	the
+nmod:in	another	grass
+case	lake	near
+det	lake	a
+nmod:near	grass	lake
+punct	nussle	.

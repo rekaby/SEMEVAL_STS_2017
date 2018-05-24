@@ -1,0 +1,9 @@
+root	ROOT	carry
+det	burden	a
+dobj	carry	burden
+punct	carry	,
+cc:preconj	real	either
+dep	carry	real
+cc	real	or
+conj:or	real	metaphoric
+punct	carry	.

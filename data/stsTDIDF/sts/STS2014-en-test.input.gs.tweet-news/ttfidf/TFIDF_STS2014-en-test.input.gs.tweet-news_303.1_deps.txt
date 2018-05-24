@@ -1,0 +1,12 @@
+dep NYTimes Diderot	15.060439779775294
+punct Diderot ?-8) compound(Sûr-2, Bien	15.060439779775294
+root ROOT Sûr	15.060439779775294
+punct Sûr !-3) det(thinker-3, A	15.060439779775294
+amod thinker free	15.060439779775294
+punct Diderot ,	14.367292599215348
+det Exemplar an	14.367292599215348
+amod Exemplar American	14.367292599215348
+appos Diderot Exemplar	14.367292599215348
+root ROOT thinker	13.451001867341194
+root ROOT NYTimes	11.72823526960009
+punct NYTimes :	11.253777290004974

@@ -1,0 +1,12 @@
+root	ROOT	Egypt
+punct	Egypt	:
+compound	Release	IPI
+compound	Release	Urges
+appos	Egypt	Release
+case	Journalist	of
+compound	Journalist	Al
+compound	Journalist	Jazeera
+nmod:of	Release	Journalist
+acl	Journalist	Arrested
+case	Berlin	in
+nmod:in	Arrested	Berlin

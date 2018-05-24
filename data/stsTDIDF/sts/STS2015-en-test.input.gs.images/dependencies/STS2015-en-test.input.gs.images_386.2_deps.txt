@@ -1,0 +1,8 @@
+det	girl	a
+amod	girl	young
+root	ROOT	girl
+acl	girl	wearing
+amod	running	purple
+dobj	wearing	running
+case	water	through
+nmod:through	running	water

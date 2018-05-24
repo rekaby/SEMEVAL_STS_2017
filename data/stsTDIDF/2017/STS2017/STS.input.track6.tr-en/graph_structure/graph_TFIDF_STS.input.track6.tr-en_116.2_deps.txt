@@ -1,0 +1,4 @@
+rests	woman	nsubj
+rests	park	nmod:in
+rests	.	punct
+ROOT	rests	root

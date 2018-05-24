@@ -1,0 +1,6 @@
+compound	Armstrong	Lance
+nsubj	confesses	Armstrong
+root	ROOT	confesses
+dobj	confesses	all
+case	Oprah	to
+nmod:to	all	Oprah

@@ -1,0 +1,14 @@
+case	clash	during
+det	clash	the
+nmod:during	killed	clash
+nummod	officers	7
+nummod	officers	seven
+compound	officers	police
+nsubjpass	killed	officers
+auxpass	killed	were
+root	ROOT	killed
+cc	killed	and
+nsubj	wounded	4
+advmod	wounded	seriously
+conj:and	killed	wounded
+punct	killed	.

@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	men	of
+nmod:of	group	men
+acl	men	playing
+dobj	playing	soccer
+case	stadium	in
+det	stadium	a
+nmod:in	playing	stadium
+amod	stadium	full
+case	people	of
+nmod:of	full	people
+punct	group	.

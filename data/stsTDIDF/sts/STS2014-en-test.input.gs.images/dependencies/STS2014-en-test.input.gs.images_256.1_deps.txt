@@ -1,0 +1,10 @@
+det	chair	A
+amod	chair	clear
+compound	chair	plastic
+root	ROOT	chair
+case	bookcase	in
+mwe	in	front
+mwe	in	of
+det	bookcase	a
+nmod:in_front_of	chair	bookcase
+punct	chair	.

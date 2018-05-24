@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	walking
+case	stairs	down
+det	stairs	the
+nmod:down	walking	stairs
+punct	man	.

@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	little
+nsubj	holds	girl
+root	ROOT	holds
+case	pole	onto
+det	pole	a
+nmod:onto	holds	pole
+case	street	on
+det	street	a
+compound	street	city
+nmod:on	pole	street
+punct	holds	.

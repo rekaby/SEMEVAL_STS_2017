@@ -1,0 +1,7 @@
+compound	revenue	Apple
+nsubj	misses	revenue
+root	ROOT	misses
+advmod	misses	again
+punct	misses	,
+nsubj	disappoints	iPhone
+parataxis	misses	disappoints

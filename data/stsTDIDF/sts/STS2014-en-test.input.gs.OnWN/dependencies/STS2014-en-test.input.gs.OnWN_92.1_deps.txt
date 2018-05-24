@@ -1,0 +1,7 @@
+amod	group	assembled
+root	ROOT	group
+case	spectators	of
+nmod:of	group	spectators
+case	performance	at
+det	performance	a
+nmod:at	group	performance

@@ -1,0 +1,8 @@
+tree	Zqounama	compound
+tree	holiday	compound
+standing	hands	nmod:next_to
+tree	Christmas	compound
+tree	on	case
+hands	tree	nmod:on
+hands	next	case
+woman	standing	acl

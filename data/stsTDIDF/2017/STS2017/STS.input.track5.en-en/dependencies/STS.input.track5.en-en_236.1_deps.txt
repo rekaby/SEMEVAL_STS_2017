@@ -1,0 +1,12 @@
+det	head	The
+nsubj	focus	head
+case	child	of
+det	child	a
+nmod:of	head	child
+case	glasses	with
+amod	glasses	dark
+nmod:with	head	glasses
+cop	focus	is
+case	focus	in
+root	ROOT	focus
+punct	focus	.

@@ -1,0 +1,4 @@
+cat	their	nmod:poss
+walking	is	aux
+walking	person	nsubj
+walking	cat	dobj

@@ -1,0 +1,4 @@
+root	ROOT	persuade
+cc	persuade	or
+conj:or	persuade	achieve
+dobj	persuade	acceptance

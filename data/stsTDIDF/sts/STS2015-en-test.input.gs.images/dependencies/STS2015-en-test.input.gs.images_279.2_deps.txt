@@ -1,0 +1,10 @@
+nummod	men	Five
+nsubj	walk	men
+case	tuxedos	in
+nmod:in	men	tuxedos
+root	ROOT	walk
+case	set	down
+det	set	a
+nmod:down	walk	set
+case	steps	of
+nmod:of	set	steps

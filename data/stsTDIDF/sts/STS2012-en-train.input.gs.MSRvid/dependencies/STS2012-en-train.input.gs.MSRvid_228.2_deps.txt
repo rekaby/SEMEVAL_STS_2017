@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	removing	boy
+aux	removing	is
+root	ROOT	removing
+nmod:poss	sunglasses	his
+dobj	removing	sunglasses
+punct	removing	.

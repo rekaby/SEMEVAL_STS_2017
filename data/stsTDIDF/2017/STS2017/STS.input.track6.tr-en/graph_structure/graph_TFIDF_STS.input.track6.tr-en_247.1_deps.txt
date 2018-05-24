@@ -1,0 +1,13 @@
+smile	camera	nmod:at
+camera	at	case
+jackets	black	amod
+boas	red	amod
+smile	.	punct
+boas	bright	amod
+women	Six	nummod
+smile	women	nsubj
+wearing	jackets	dobj
+jackets	and	cc
+jackets	boas	conj:and
+women	wearing	acl
+ROOT	smile	root

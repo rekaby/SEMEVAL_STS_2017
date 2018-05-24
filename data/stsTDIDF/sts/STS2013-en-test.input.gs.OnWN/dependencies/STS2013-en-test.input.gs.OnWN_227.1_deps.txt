@@ -1,0 +1,6 @@
+det	consequence	the
+root	ROOT	consequence
+cc	consequence	or
+conj:or	consequence	aftermath
+case	something	of
+nmod:of	consequence	something

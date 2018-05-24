@@ -1,0 +1,14 @@
+det	climber	A
+nsubj	standing	climber
+aux	standing	is
+root	ROOT	standing
+case	face	on
+det	face	the
+compound	face	rock
+nmod:on	standing	face
+case	rope	next
+mwe	next	to
+det	rope	the
+amod	rope	pink
+nmod:next_to	face	rope
+punct	standing	.

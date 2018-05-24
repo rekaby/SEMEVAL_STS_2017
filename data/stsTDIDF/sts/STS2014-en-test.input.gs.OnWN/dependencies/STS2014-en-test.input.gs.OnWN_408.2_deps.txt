@@ -1,0 +1,10 @@
+root	ROOT	arranged
+case	work	for
+amod	work	contracted
+nmod:for	arranged	work
+mark	done	to
+auxpass	done	be
+xcomp	arranged	done
+case	others	by
+nmod:agent	done	others
+punct	arranged	.

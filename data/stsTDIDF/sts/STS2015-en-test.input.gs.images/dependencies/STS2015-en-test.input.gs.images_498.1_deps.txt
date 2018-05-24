@@ -1,0 +1,11 @@
+det	man	A
+nsubj	looking	man
+case	hair	with
+amod	hair	long
+nmod:with	man	hair
+aux	looking	is
+root	ROOT	looking
+case	camera	through
+det	camera	a
+nmod:through	looking	camera
+punct	looking	.

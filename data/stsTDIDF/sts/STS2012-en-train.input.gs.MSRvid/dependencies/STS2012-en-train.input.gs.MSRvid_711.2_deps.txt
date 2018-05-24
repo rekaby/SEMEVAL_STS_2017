@@ -1,0 +1,11 @@
+nummod	kids	Two
+nsubj	push	kids
+root	ROOT	push
+det	crocodile	an
+amod	crocodile	inflatable
+dobj	push	crocodile
+case	pool	around
+case	pool	in
+det	pool	a
+nmod:in	push	pool
+punct	push	.

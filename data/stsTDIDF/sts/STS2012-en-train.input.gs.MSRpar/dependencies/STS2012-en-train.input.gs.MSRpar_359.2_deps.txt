@@ -1,0 +1,15 @@
+advmod	Tuesday	Later
+nmod:tmod	expected	Tuesday
+punct	expected	,
+nsubjpass	expected	Graham
+auxpass	expected	was
+root	ROOT	expected
+mark	re-elected	to
+auxpass	re-elected	be
+xcomp	expected	re-elected
+case	term	for
+det	term	a
+amod	term	second
+amod	term	one-year
+nmod:for	re-elected	term
+punct	expected	.

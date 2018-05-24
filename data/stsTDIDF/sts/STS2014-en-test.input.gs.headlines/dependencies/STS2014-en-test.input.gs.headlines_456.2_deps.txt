@@ -1,0 +1,12 @@
+case	time	For
+amod	time	first
+root	ROOT	time
+case	history	in
+nmod:in	time	history
+punct	time	,
+root	,	Technion
+mark	teach	to
+acl	Technion	teach
+dobj	teach	engineering
+case	Russia	in
+nmod:in	engineering	Russia

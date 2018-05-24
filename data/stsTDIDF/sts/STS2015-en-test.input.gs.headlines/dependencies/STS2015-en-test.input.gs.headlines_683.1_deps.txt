@@ -1,0 +1,7 @@
+amod	diplomat	Palestinian
+nsubj	injured	diplomat
+root	ROOT	injured
+case	explosion	in
+nmod:in	injured	explosion
+case	Prague	in
+nmod:in	injured	Prague

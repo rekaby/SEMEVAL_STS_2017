@@ -1,0 +1,5 @@
+surfs	ocean	dobj
+day	sunny	amod
+man	surfs	acl:relcl
+surfs	day	nmod:in
+surfs	who	nsubj

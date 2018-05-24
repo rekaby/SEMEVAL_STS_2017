@@ -1,0 +1,8 @@
+det	man	The
+nsubj	cheese	man
+amod	cheese	sprinkled
+root	ROOT	cheese
+case	pizza	on
+det	pizza	the
+nmod:on	cheese	pizza
+punct	cheese	.

@@ -1,0 +1,9 @@
+compound	Castro	Cleveland
+compound	Castro	kidnapper
+compound	Castro	Ariel
+nsubj	found	Castro
+root	ROOT	found
+xcomp	found	hanging
+case	cell	in
+nmod:poss	cell	his
+nmod:in	hanging	cell

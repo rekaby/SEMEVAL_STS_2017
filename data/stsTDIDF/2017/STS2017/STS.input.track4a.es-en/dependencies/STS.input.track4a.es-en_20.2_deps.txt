@@ -1,0 +1,11 @@
+det	man	A
+nsubj	smoking	man
+aux	smoking	is
+root	ROOT	smoking
+det	cigarette	a
+dobj	smoking	cigarette
+cc	smoking	and
+conj:and	smoking	holding
+det	honeycomb	a
+dobj	holding	honeycomb
+punct	smoking	.

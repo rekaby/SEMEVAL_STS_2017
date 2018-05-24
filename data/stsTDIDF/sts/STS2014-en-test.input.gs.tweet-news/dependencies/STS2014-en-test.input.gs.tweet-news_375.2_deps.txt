@@ -1,0 +1,8 @@
+amod	vulnerability	Critical
+compound	vulnerability	Java
+root	ROOT	vulnerability
+case	patch	due
+case	patch	to
+amod	patch	incomplete
+amod	patch	earlier
+nmod:to	vulnerability	patch

@@ -1,0 +1,4 @@
+dog	brown	amod
+is	dog	nsubj
+dog	jumping	acl
+jumping	beach	nmod:on

@@ -1,0 +1,14 @@
+det	answer	The
+nsubj	stages	answer
+case	this	to
+nmod:to	answer	this
+cc	this	and
+det	questions	all
+amod	questions	such
+amod	questions	similar
+conj:and	this	questions
+cop	stages	is
+case	stages	in
+nummod	stages	two
+root	ROOT	stages
+punct	stages	:

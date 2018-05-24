@@ -1,0 +1,9 @@
+nsubj	holding	Someone
+aux	holding	is
+root	ROOT	holding
+cc	holding	and
+conj:and	holding	petting
+det	tiger	a
+compound	tiger	baby
+dobj	petting	tiger
+punct	holding	.

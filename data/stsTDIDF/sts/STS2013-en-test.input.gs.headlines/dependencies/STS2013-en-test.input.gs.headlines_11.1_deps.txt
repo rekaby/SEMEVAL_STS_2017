@@ -1,0 +1,8 @@
+amod	heads	Tropical
+compound	heads	storm
+root	ROOT	heads
+case	pass	for
+nmod:for	heads	pass
+case	coast	along
+compound	coast	Honduras
+nmod:along	pass	coast

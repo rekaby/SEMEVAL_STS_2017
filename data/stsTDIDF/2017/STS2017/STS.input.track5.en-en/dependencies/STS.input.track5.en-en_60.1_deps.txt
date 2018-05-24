@@ -1,0 +1,14 @@
+nsubj	applying	Sculptor
+root	ROOT	applying
+dobj	applying	concrete
+case	statue	to
+amod	statue	large
+nmod:to	applying	statue
+case	figure	of
+amod	figure	human
+nmod:of	statue	figure
+acl	statue	standing
+case	head	with
+neg	head	no
+nmod:with	standing	head
+punct	applying	.

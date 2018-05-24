@@ -1,0 +1,13 @@
+nsubj	moves	Obama
+ccomp	taps	moves
+mark	fill	to
+xcomp	moves	fill
+compound	board	Fed
+dobj	fill	board
+punct	taps	,
+root	ROOT	taps
+dobj	taps	Fischer
+mark	No.	to
+cop	No.	be
+acl	taps	No.
+nummod	No.	2

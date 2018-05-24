@@ -1,0 +1,12 @@
+compound	military	U.S.
+nsubj	says	military
+root	ROOT	says
+nsubj	conducts	it
+ccomp	says	conducts
+dobj	conducts	airstrikes
+case	IS	against
+nmod:against	conducts	IS
+case	Syria	in
+nmod:in	IS	Syria
+punct	says	,
+dep	says	Iraq

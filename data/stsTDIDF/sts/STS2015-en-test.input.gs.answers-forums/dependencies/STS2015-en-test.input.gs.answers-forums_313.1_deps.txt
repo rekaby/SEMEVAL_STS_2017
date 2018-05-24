@@ -1,0 +1,14 @@
+amod	sport	Glad
+mark	hear	to
+xcomp	Glad	hear
+nsubj	started	you
+aux	started	've
+ccomp	hear	started
+xcomp	started	playing
+dobj	playing	hockey
+punct	sport	,
+nmod:poss	sport	its
+det	sport	a
+amod	sport	great
+root	ROOT	sport
+punct	sport	!

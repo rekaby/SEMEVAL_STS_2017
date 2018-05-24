@@ -1,0 +1,16 @@
+option	It	nsubj
+ROOT	option	root
+option	.	punct
+option	,	punct
+imperative	is	cop
+tens	employment	compound
+option	not	neg
+find	tens	dobj
+option	imperative	acl:relcl
+find	because	mark
+millions	men	nmod:of
+option	is	cop
+men	our	nmod:poss
+imperative	an	det
+imperative	it	nsubj
+option	find	advcl

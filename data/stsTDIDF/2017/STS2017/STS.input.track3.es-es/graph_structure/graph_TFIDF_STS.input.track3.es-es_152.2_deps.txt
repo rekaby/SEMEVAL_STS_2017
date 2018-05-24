@@ -1,0 +1,6 @@
+rides	man	nsubj
+bicycle	his	nmod:poss
+rides	street	nmod:on
+rides	.	punct
+rides	bicycle	dobj
+ROOT	rides	root

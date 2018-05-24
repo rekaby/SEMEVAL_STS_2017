@@ -1,0 +1,9 @@
+mark	path	If
+det	bulb	the
+nsubj	path	bulb
+cop	path	is
+case	path	on
+det	path	the
+amod	path	same
+amod	path	closed
+root	ROOT	path

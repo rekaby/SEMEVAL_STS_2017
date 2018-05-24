@@ -1,0 +1,9 @@
+amod	connection	Closed
+root	ROOT	connection
+case	bulb	between
+det	bulb	the
+nmod:between	connection	bulb
+cc	bulb	and
+det	battery	the
+conj:and	bulb	battery
+punct	connection	.

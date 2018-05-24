@@ -1,0 +1,10 @@
+det	person	a
+root	ROOT	person
+nsubj	member	who
+cop	member	is
+det	member	a
+acl:relcl	person	member
+case	partnership	of
+det	partnership	a
+nmod:of	member	partnership
+punct	person	.

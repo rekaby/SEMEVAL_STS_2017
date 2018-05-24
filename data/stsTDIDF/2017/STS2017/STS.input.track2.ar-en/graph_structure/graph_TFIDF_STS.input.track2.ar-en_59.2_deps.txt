@@ -1,0 +1,3 @@
+ROOT	Child	root
+Child	bed	nmod:in
+Child	.	punct

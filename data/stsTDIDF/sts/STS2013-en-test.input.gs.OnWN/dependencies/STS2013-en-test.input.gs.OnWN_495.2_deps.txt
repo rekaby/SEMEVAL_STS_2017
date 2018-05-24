@@ -1,0 +1,8 @@
+det	appraisal	an
+root	ROOT	appraisal
+case	value	of
+det	value	the
+nmod:of	appraisal	value
+case	something	of
+nmod:of	value	something
+punct	appraisal	.

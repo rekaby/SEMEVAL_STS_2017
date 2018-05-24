@@ -1,0 +1,14 @@
+det	court	The
+nmod:poss	tribunal	court
+case	court	's
+amod	tribunal	three-judge
+nsubjpass	expected	tribunal
+auxpass	expected	was
+root	ROOT	expected
+mark	give	to
+xcomp	expected	give
+nmod:poss	verdict	its
+dobj	give	verdict
+amod	February	next
+nmod:tmod	give	February
+punct	expected	.

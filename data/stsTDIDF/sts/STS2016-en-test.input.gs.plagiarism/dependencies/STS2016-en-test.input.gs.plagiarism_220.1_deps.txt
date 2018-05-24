@@ -1,0 +1,17 @@
+advmod	represented	When
+det	document	a
+nsubjpass	represented	document
+auxpass	represented	is
+advcl	corresponds	represented
+case	vector	as
+det	vector	a
+nmod:as	represented	vector
+punct	corresponds	,
+det	dimension	each
+nsubj	corresponds	dimension
+root	ROOT	corresponds
+case	term	to
+det	term	a
+amod	term	separate
+nmod:to	corresponds	term
+punct	corresponds	.

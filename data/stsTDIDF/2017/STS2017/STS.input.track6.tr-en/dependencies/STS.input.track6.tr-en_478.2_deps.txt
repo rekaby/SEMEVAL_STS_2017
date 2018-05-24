@@ -1,0 +1,11 @@
+det	train	The
+compound	train	speed
+nsubj	crosses	train
+root	ROOT	crosses
+det	curve	a
+dobj	crosses	curve
+cc	crosses	and
+conj:and	crosses	turns
+dobj	turns	people
+advmod	turns	around
+punct	crosses	.

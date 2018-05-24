@@ -1,0 +1,6 @@
+shake	people	nsubj
+sign	under	case
+ROOT	shake	root
+shake	sign	nmod:under
+shake	.	punct
+shake	hands	dobj

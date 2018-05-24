@@ -1,0 +1,7 @@
+compound	strike	Chicago
+compound	strike	teacher
+nsubj	poses	strike
+root	ROOT	poses
+dobj	poses	test
+case	unions	for
+nmod:for	test	unions

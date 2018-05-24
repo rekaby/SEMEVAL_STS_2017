@@ -1,0 +1,7 @@
+root	ROOT	someone
+nsubj	controls	who
+acl:relcl	someone	controls
+dobj	controls	resources
+cc	resources	and
+conj:and	resources	expenditures
+punct	someone	.

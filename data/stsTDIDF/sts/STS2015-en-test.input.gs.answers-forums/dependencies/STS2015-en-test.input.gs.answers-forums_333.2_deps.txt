@@ -1,0 +1,16 @@
+nsubj	believe	I
+root	ROOT	believe
+nsubj	acceptable	this
+cop	acceptable	is
+advmod	acceptable	perfectly
+ccomp	believe	acceptable
+cc	acceptable	and
+conj:and	acceptable	does
+det	job	a
+amod	job	good
+dobj	does	job
+mark	emphasising	of
+acl	job	emphasising
+nmod:poss	point	your
+dobj	emphasising	point
+punct	believe	.

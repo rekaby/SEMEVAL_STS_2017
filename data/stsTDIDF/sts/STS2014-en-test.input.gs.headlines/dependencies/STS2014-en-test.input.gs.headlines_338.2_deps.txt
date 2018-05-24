@@ -1,0 +1,11 @@
+compound	official	NRA
+root	ROOT	official
+mark	face	to
+acl	official	face
+dobj	face	questions
+case	time	for
+amod	time	first
+nmod:for	questions	time
+case	remarks	since
+amod	remarks	controversial
+nmod:since	official	remarks

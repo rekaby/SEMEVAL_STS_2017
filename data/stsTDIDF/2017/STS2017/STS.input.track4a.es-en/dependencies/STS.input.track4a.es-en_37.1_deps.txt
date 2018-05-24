@@ -1,0 +1,17 @@
+det	group	A
+nsubj	stopped	group
+case	adults	of
+nummod	adults	three
+amod	adults	young
+nmod:of	group	adults
+root	ROOT	stopped
+mark	pose	to
+xcomp	stopped	pose
+case	photo	for
+det	photo	a
+nmod:for	pose	photo
+case	store	outside
+det	store	a
+compound	store	clothing
+nmod:outside	photo	store
+punct	stopped	.

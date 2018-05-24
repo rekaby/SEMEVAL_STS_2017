@@ -1,0 +1,12 @@
+det	girl	The
+nsubj	flew	girl
+root	ROOT	flew
+nmod:poss	kite	her
+dobj	flew	kite
+mark	ran	while
+nsubj	ran	she
+advcl	flew	ran
+compound:prt	ran	up
+det	hill	a
+dobj	ran	hill
+punct	flew	.

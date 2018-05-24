@@ -1,0 +1,10 @@
+det	man	The
+nsubj	looks	man
+case	backpack	in
+det	backpack	the
+nmod:in	man	backpack
+root	ROOT	looks
+case	left	to
+nmod:poss	left	his
+nmod:to	looks	left
+punct	looks	.

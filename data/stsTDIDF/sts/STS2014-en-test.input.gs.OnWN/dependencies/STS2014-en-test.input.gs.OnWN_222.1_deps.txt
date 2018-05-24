@@ -1,0 +1,14 @@
+root	ROOT	Expose
+case	air	to
+nmod:to	Expose	air
+mark	cool	as
+mark	cool	to
+advcl	Expose	cool
+punct	cool	,
+conj:or	cool	freshen
+punct	cool	,
+cc	cool	or
+conj:or	cool	allow
+mark	escape	to
+xcomp	allow	escape
+punct	Expose	.

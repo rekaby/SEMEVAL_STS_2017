@@ -1,0 +1,5 @@
+root	ROOT	Protests
+compound	Brazil	sweep
+dobj	Protests	Brazil
+case	concession	despite
+nmod:despite	Protests	concession

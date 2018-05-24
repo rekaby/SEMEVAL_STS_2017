@@ -1,0 +1,7 @@
+root	ROOT	Has
+compound	water	Nasa
+amod	water	discovered
+nsubj	Has	water
+case	Mars	on
+nmod:on	water	Mars
+punct	Has	?

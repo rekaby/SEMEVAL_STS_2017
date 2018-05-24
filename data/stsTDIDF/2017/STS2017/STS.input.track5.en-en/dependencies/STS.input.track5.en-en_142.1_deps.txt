@@ -1,0 +1,10 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+det	stunt	a
+dobj	doing	stunt
+case	bicycle	on
+nmod:poss	bicycle	his
+nmod:on	stunt	bicycle
+punct	doing	.

@@ -1,0 +1,15 @@
+det	woman	A
+amod	woman	white
+amod	woman	hooded
+nsubj	using	woman
+aux	using	is
+root	ROOT	using
+det	glass	a
+amod	glass	magnifying
+dobj	using	glass
+mark	look	to
+advcl	using	look
+case	booklet	at
+det	booklet	a
+nmod:at	look	booklet
+punct	using	.

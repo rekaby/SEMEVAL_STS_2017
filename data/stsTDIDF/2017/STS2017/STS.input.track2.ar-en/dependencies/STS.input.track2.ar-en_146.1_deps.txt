@@ -1,0 +1,5 @@
+amod	dog	Black
+nsubj	playing	dog
+root	ROOT	playing
+case	toys	with
+nmod:with	playing	toys

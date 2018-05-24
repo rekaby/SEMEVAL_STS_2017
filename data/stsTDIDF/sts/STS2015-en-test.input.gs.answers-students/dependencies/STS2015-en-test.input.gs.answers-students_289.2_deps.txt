@@ -1,0 +1,9 @@
+det	voltage	A
+amod	voltage	non-zero
+nsubj	means	voltage
+root	ROOT	means
+mark	is	that
+expl	is	there
+ccomp	means	is
+det	gap	a
+nsubj	is	gap

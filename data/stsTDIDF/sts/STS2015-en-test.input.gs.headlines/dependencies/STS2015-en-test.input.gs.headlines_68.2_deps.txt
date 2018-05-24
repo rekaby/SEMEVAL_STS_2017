@@ -1,0 +1,9 @@
+compound	candidate	Iran
+amod	candidate	presidential
+nsubj	says	candidate
+root	ROOT	says
+amod	sanctions	western
+nsubjpass	broken	sanctions
+aux	broken	should
+auxpass	broken	be
+ccomp	says	broken

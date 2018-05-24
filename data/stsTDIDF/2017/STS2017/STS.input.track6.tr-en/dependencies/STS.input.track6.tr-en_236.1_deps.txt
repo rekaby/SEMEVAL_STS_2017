@@ -1,0 +1,12 @@
+det	group	A
+nsubj	waiting	group
+case	people	of
+nmod:of	group	people
+aux	waiting	are
+root	ROOT	waiting
+mark	see	to
+xcomp	waiting	see
+det	concert	a
+compound	concert	rock
+dobj	see	concert
+punct	waiting	.

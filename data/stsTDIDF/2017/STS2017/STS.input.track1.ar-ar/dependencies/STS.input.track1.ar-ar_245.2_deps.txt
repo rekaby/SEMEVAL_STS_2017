@@ -1,0 +1,8 @@
+det	child	A
+amod	child	small
+root	ROOT	child
+acl	child	sitting
+case	room	in
+nmod:poss	room	his
+nmod:in	sitting	room
+punct	child	.

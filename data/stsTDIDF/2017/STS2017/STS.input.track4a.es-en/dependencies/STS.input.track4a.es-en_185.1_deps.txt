@@ -1,0 +1,9 @@
+det	child	A
+nsubj	wears	child
+root	ROOT	wears
+det	T-shirt	a
+compound	T-shirt	David
+compound	T-shirt	Wright
+dobj	wears	T-shirt
+advmod	wears	outdoors
+punct	wears	.

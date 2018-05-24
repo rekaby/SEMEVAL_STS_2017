@@ -1,0 +1,11 @@
+aux	have	does
+neg	have	n't
+root	ROOT	have
+det	vision	the
+dobj	have	vision
+mark	sustain	to
+punct	sustain	``
+acl	vision	sustain
+punct	sustain	''
+dobj	sustain	apollo
+punct	have	?

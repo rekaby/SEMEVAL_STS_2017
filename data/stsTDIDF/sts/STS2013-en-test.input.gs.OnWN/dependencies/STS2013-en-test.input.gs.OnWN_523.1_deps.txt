@@ -1,0 +1,10 @@
+det	watch	a
+root	ROOT	watch
+case	lid	with
+det	lid	a
+amod	lid	hinged
+nmod:with	watch	lid
+mark	protect	to
+acl	watch	protect
+det	face	the
+dobj	protect	face

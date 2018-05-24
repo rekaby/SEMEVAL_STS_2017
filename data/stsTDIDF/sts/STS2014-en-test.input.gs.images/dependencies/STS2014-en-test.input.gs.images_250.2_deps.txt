@@ -1,0 +1,17 @@
+expl	are	There
+root	ROOT	are
+det	cattle	some
+amod	cattle	black
+nsubj	are	cattle
+case	plain	in
+det	plain	a
+amod	plain	grassy
+nmod:in	are	plain
+case	tree	with
+det	tree	a
+amod	tree	large
+nmod:with	are	tree
+case	background	in
+det	background	the
+nmod:in	tree	background
+punct	are	.

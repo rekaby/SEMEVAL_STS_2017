@@ -1,0 +1,6 @@
+root	ROOT	Boys
+mark	holding	while
+acl	Boys	holding
+det	bicycle	a
+dobj	holding	bicycle
+punct	Boys	.

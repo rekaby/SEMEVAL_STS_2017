@@ -1,0 +1,9 @@
+det	part	a
+root	ROOT	part
+case	forked	of
+det	forked	a
+nmod:of	part	forked
+cc	forked	or
+amod	shape	branching
+conj:or	forked	shape
+punct	part	.

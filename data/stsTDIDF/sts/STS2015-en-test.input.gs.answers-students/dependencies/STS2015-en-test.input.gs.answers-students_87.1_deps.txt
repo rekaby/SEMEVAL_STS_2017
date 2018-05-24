@@ -1,0 +1,10 @@
+mark	connected	Because
+amod	1	terminal
+nsubjpass	connected	1
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	positive
+compound	terminal	battery
+nmod:to	connected	terminal

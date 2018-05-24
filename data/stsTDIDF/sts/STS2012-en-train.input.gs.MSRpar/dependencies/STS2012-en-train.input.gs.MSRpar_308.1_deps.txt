@@ -1,0 +1,17 @@
+nsubj	lives	Griffith
+punct	Griffith	,
+det	native	a
+compound	native	Mount
+compound	native	Airy
+appos	Griffith	native
+punct	Griffith	,
+advmod	lives	now
+root	ROOT	lives
+case	coast	on
+det	coast	the
+compound	coast	North
+compound	coast	Carolina
+nmod:on	lives	coast
+case	Manteo	in
+nmod:in	lives	Manteo
+punct	lives	.

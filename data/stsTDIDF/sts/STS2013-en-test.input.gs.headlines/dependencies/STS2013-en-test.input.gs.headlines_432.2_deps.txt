@@ -1,0 +1,5 @@
+amod	Soldier	British
+root	ROOT	Soldier
+acl	Soldier	Killed
+case	Afghanistan	In
+nmod:in	Killed	Afghanistan

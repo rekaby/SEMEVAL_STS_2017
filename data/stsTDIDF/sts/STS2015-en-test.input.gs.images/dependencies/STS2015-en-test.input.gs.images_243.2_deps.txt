@@ -1,0 +1,12 @@
+det	dog	The
+amod	dog	black
+nsubj	leaps	dog
+root	ROOT	leaps
+compound:prt	leaps	off
+det	dock	the
+dobj	leaps	dock
+cc	leaps	and
+case	water	into
+det	water	the
+conj:and	leaps	water
+punct	leaps	.

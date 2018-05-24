@@ -1,0 +1,17 @@
+det	Blog	The
+compound	Blog	New
+compound	Blog	Old
+compound	Blog	Age
+root	ROOT	Blog
+punct	Blog	:
+dobj	Need	What
+nsubj	Need	You
+dep	Blog	Need
+mark	Bring	to
+xcomp	Need	Bring
+nmod:poss	Home	Your
+compound	Home	Loved
+nummod	Home	One
+dobj	Bring	Home
+mark	Die	to
+xcomp	Bring	Die

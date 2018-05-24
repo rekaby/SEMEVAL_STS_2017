@@ -1,0 +1,10 @@
+root	ROOT	Arrested
+dobj	Arrested	Briton
+punct	significant	`
+neg	significant	not
+amod	Briton	significant
+punct	significant	'
+case	probe	to
+compound	probe	Kenya
+compound	probe	attack
+nmod:to	significant	probe

@@ -1,0 +1,7 @@
+stands	boy	nsubj
+bridge	over	case
+pole	with	case
+pole	fishing	compound
+bridge	pole	nmod:with
+pole	a	det
+stands	bridge	nmod:over

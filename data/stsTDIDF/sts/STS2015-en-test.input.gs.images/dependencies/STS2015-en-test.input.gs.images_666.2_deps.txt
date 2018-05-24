@@ -1,0 +1,13 @@
+nummod	children	Two
+nsubj	playing	children
+cc	children	and
+det	dog	a
+amod	dog	black
+conj:and	children	dog
+aux	playing	are
+root	ROOT	playing
+compound:prt	playing	out
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	playing	.

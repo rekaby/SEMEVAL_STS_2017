@@ -1,0 +1,10 @@
+det	male	A
+amod	male	younger
+nsubj	sitting	male
+aux	sitting	is
+neg	sitting	not
+root	ROOT	sitting
+case	chair	on
+det	chair	a
+nmod:on	sitting	chair
+punct	sitting	.

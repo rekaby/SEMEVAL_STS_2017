@@ -1,0 +1,5 @@
+root	ROOT	reason
+cc	reason	or
+conj:or	reason	establish
+case	deduction	by
+nmod:by	establish	deduction

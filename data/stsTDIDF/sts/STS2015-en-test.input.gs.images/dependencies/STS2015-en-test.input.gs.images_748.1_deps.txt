@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	holds	woman
+acl	woman	wearing
+amod	sunglasses	large
+dobj	wearing	sunglasses
+root	ROOT	holds
+dobj	holds	newspapers
+case	hands	in
+det	hands	both
+nmod:in	holds	hands
+punct	holds	.

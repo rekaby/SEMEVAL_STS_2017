@@ -1,0 +1,8 @@
+nsubj	vows	Kerry
+root	ROOT	vows
+dobj	vows	progress
+case	trip	after
+amod	trip	latest
+amod	trip	intensive
+compound	trip	Mideast
+nmod:after	progress	trip

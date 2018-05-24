@@ -1,0 +1,17 @@
+advmod	called	Meanwhile
+punct	called	,
+amod	Cide	Funny
+nmod:poss	trainer	Cide
+case	Cide	's
+nsubj	called	trainer
+punct	trainer	,
+compound	Tagg	Barclay
+appos	trainer	Tagg
+punct	trainer	,
+root	ROOT	called
+det	allegations	the
+nsubj	ridiculous	allegations
+punct	ridiculous	``
+xcomp	called	ridiculous
+punct	called	.
+punct	called	''

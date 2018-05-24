@@ -1,0 +1,12 @@
+nmod:poss	bid	China
+case	China	's
+amod	bid	generous
+compound	bid	1MDB
+root	ROOT	bid
+acl	bid	seen
+xcomp	seen	reaping
+nsubj	returns	it
+amod	returns	big
+ccomp	reaping	returns
+case	Malaysia	in
+nmod:in	returns	Malaysia

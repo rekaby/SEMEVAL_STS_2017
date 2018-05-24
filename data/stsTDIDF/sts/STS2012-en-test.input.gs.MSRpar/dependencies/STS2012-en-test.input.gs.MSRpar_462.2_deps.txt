@@ -1,0 +1,14 @@
+det	company	The
+nsubj	expanded	company
+aux	expanded	has
+root	ROOT	expanded
+det	services	those
+amod	services	basic
+dobj	expanded	services
+punct	expanded	,
+dep	expanded	offering
+dobj	offering	payment
+cc	offering	and
+advmod	financing	even
+conj:and	offering	financing
+punct	expanded	.

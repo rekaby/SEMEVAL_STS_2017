@@ -1,0 +1,11 @@
+det	child	The
+nsubj	holding	child
+aux	holding	is
+root	ROOT	holding
+det	toys	the
+dobj	holding	toys
+case	eyes	up
+case	eyes	to
+nmod:poss	eyes	his
+nmod:to	holding	eyes
+punct	holding	.

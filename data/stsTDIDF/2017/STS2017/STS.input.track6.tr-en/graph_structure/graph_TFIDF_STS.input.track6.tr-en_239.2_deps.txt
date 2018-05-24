@@ -1,0 +1,8 @@
+talking	man	nsubj
+black	wrapped	conj:and
+wearing	red	dobj
+talking	to	xcomp
+man	black	amod
+horse	on	case
+someone	wearing	acl
+man	horse	nmod:on

@@ -1,0 +1,7 @@
+root	ROOT	escape
+cc	escape	or
+conj:or	escape	avoid
+det	situation	a
+dobj	escape	situation
+cc	situation	or
+conj:or	situation	responsibility

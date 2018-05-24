@@ -1,0 +1,8 @@
+nsubj	capital	zahedan
+cop	capital	is
+det	capital	the
+root	ROOT	capital
+case	province	of
+compound	province	sistan-baluchestan
+nmod:of	capital	province
+punct	capital	.

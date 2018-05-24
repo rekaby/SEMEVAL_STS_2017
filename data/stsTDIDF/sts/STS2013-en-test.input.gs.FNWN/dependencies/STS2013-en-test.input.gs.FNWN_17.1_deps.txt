@@ -1,0 +1,15 @@
+det	controlling_entity	a
+nsubj	control	controlling_entity
+cop	control	is
+case	control	in
+amod	control	conscious
+root	ROOT	control
+case	dependent_entity	over
+det	dependent_entity	a
+nmod:over	control	dependent_entity
+punct	dependent_entity	,
+conj:or	dependent_entity	dependent_situation
+punct	dependent_entity	,
+cc	dependent_entity	or
+conj:or	dependent_entity	dependent_variable
+punct	control	.

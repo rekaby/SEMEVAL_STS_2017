@@ -1,0 +1,12 @@
+amod	toll	Egyptian
+compound	toll	boat
+compound	toll	crash
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	bodies	as
+amod	bodies	more
+nmod:as	rises	bodies
+acl	bodies	found
+case	Nile	in
+nmod:in	found	Nile

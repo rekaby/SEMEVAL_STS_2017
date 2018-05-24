@@ -1,0 +1,8 @@
+compound	Life	Documents
+amod	Life	Illuminate
+amod	Life	Jewish
+root	ROOT	Life
+case	Empire	in
+amod	Empire	Ancient
+amod	Empire	Muslim
+nmod:in	Life	Empire

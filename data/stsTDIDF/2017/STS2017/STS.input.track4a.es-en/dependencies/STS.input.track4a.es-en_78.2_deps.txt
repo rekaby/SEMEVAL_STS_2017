@@ -1,0 +1,9 @@
+nummod	students	Two
+amod	students	martial
+compound	students	art
+nsubj	spar	students
+root	ROOT	spar
+case	tournament	in
+det	tournament	a
+nmod:in	spar	tournament
+punct	spar	.

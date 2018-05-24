@@ -1,0 +1,13 @@
+root	ROOT	Travelling
+case	Romania	to
+nmod:to	Travelling	Romania
+case	visa	on
+det	visa	a
+amod	visa	short
+compound	visa	stay
+compound	visa	Schengen
+nmod:on	Travelling	visa
+acl	visa	issued
+case	France	by
+nmod:by	issued	France
+punct	Travelling	?

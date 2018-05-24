@@ -1,0 +1,7 @@
+det	person	A
+nsubj	peeling	person
+aux	peeling	is
+root	ROOT	peeling
+det	eggplant	an
+dobj	peeling	eggplant
+punct	peeling	.

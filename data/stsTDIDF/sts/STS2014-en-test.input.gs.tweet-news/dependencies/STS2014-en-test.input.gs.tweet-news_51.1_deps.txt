@@ -1,0 +1,18 @@
+root	ROOT	Daannngg
+punct	Daannngg	!-2) root(ROOT-0, ?-1) punct(tells-4, :
+compound	Armstrong	Lance
+nsubj	tells	Armstrong
+root	ROOT	tells
+dobj	tells	Oprah
+nsubj	won	he
+advmod	won	couldn?t
+aux	won	have
+ccomp	tells	won
+nummod	titles	7
+compound	titles	Tour
+compound	titles	de
+compound	titles	France
+dobj	won	titles
+mark	doping	without
+advcl	won	doping
+punct	tells	?

@@ -1,0 +1,5 @@
+compound	country	People
+compound	country	skiing
+amod	country	cross
+root	ROOT	country
+punct	country	.

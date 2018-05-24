@@ -1,0 +1,6 @@
+climber	rock	compound
+jumping	off	compound:prt
+jumping	mountain	dobj
+jumping	climber	nsubj
+jumping	is	aux
+climber	A	det

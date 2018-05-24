@@ -1,0 +1,9 @@
+compound	Sandy	Hurricane
+nsubj	makes	Sandy
+root	ROOT	makes
+dobj	makes	landfall
+case	Jamaica	in
+amod	Jamaica	southeastern
+nmod:in	landfall	Jamaica
+punct	makes	:
+dep	makes	NHC

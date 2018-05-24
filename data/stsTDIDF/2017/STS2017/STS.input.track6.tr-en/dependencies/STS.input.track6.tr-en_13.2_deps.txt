@@ -1,0 +1,8 @@
+expl	's	There
+root	ROOT	's
+det	man	a
+nsubj	's	man
+case	street	on
+det	street	the
+nmod:on	's	street
+punct	's	.

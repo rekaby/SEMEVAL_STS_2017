@@ -1,0 +1,13 @@
+case	exceptions	With
+det	exceptions	a
+amod	exceptions	few
+nmod:with	look	exceptions
+punct	look	,
+det	street	the
+nsubj	look	street
+aux	look	has
+advmod	look	always
+det	look	the
+amod	look	same
+root	ROOT	look
+punct	look	.

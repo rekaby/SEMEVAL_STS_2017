@@ -1,0 +1,16 @@
+compound	Korea	North
+root	ROOT	Korea
+punct	Korea	:
+nsubj	call	experts
+parataxis	Korea	call
+case	dialogue	for
+nmod:for	call	dialogue
+nummod	Äď	‚
+dep	dialogue	Äď
+cc	Äď	and
+conj:and	Äď	say
+nsubj	play	China
+aux	play	must
+ccomp	say	play
+det	part	a
+dobj	play	part

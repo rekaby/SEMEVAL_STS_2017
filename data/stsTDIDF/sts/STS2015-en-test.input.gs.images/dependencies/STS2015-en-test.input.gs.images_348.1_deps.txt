@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	standing	boy
+aux	standing	is
+root	ROOT	standing
+case	area	on
+det	area	a
+amod	area	gray
+amod	area	tiled
+nmod:on	standing	area
+punct	standing	.

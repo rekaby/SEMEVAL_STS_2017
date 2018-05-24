@@ -1,0 +1,17 @@
+det	World	The
+compound	World	Bizarre
+root	ROOT	World
+case	Relationships	of
+compound	Relationships	Online
+nmod:of	World	Relationships
+punct	World	:
+nsubj	Becomes	Image
+case	Te'o	of
+compound	Te'o	Manti
+nmod:of	Image	Te'o
+dep	World	Becomes
+det	Puzzle	a
+dobj	Becomes	Puzzle
+case	Theories	as
+nmod:as	Puzzle	Theories
+dep	Theories	Swirl

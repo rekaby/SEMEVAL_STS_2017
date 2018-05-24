@@ -1,0 +1,18 @@
+root	ROOT	Sign
+case	inaccessible	of
+nmod:of	Sign	inaccessible
+punct	Sign	,
+advmod	care	culturally
+amod	care	incompetent
+compound	care	mainstream
+appos	Sign	care
+punct	Sign	?-9) root(ROOT-0, As
+punct	As	?-2) compound(Clinicas-2, Bodega
+root	ROOT	Clinicas
+punct	Clinicas	?-3) ccomp(Torn-7, Fill
+dobj	Fill	Void
+punct	Torn	,
+compound	Officials	Health
+nsubjpass	Torn	Officials
+auxpass	Torn	Are
+root	ROOT	Torn

@@ -1,0 +1,25 @@
+det	campaign	The
+nsubj	stresses	campaign
+case	Obama	by
+compound	Obama	Mr
+nmod:by	campaign	Obama
+root	ROOT	stresses
+mark	have	that
+punct	have	``
+amod	students	African-American
+cc	African-American	and
+conj:and	African-American	Latin
+nsubj	have	students
+ccomp	stresses	have
+amod	chance	less
+dobj	have	chance
+case	granduating	of
+nmod:of	chance	granduating
+case	students	than
+amod	students	white
+nmod:than	chance	students
+punct	stresses	.
+punct	stresses	''-22) nsubj(true-3, This
+cop	true	is
+root	ROOT	true
+punct	true	.

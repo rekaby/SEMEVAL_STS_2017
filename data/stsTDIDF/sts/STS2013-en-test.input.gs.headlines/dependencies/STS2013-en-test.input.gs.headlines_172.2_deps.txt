@@ -1,0 +1,12 @@
+compound	Demjanjuk	John
+nsubj	dies	Demjanjuk
+punct	Demjanjuk	,
+amod	guard	convicted
+amod	guard	Nazi
+compound	guard	death
+compound	guard	camp
+appos	Demjanjuk	guard
+punct	Demjanjuk	,
+root	ROOT	dies
+amod	91	aged
+dobj	dies	91

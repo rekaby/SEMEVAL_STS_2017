@@ -1,0 +1,6 @@
+compound	images	Select
+root	ROOT	images
+case	collapse	from
+amod	collapse	Bangladesh
+compound	collapse	building
+nmod:from	images	collapse

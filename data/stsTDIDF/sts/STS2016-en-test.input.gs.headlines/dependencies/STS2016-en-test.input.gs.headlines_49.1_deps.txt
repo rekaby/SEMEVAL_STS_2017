@@ -1,0 +1,8 @@
+nsubj	makes	What
+root	ROOT	makes
+nsubj	vote	India
+ccomp	makes	vote
+punct	makes	?-5) compound(debates-4, Jaipur
+compound	debates	Lit
+compound	debates	Fest
+root	ROOT	debates

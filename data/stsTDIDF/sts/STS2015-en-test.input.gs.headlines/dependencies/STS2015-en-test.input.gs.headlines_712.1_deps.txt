@@ -1,0 +1,8 @@
+nsubj	claims	Russia
+root	ROOT	claims
+mark	foiled	to
+aux	foiled	have
+xcomp	claims	foiled
+amod	act	possible
+compound	act	terror
+dobj	foiled	act

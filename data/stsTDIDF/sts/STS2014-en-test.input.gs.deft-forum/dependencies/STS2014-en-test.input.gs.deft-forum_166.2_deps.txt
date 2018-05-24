@@ -1,0 +1,15 @@
+compound	Andrei	@Lustig
+root	ROOT	Andrei
+punct	Andrei	,
+nsubj	talking	We
+aux	talking	're
+acl:relcl	Andrei	talking
+case	angels	about
+nmod:about	talking	angels
+cc	angels	and
+amod	pins	common
+conj:and	angels	pins
+advmod	talking	again
+punct	talking	,
+dep	talking	right
+punct	Andrei	?

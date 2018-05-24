@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	walking	girl
+aux	walking	is
+root	ROOT	walking
+case	beach	on
+det	beach	the
+nmod:on	walking	beach
+punct	walking	.

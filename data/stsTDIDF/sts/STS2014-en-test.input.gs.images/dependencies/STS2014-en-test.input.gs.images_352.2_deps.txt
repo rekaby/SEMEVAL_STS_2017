@@ -1,0 +1,16 @@
+nummod	people	Two
+nsubj	sit	people
+root	ROOT	sit
+xcomp	sit	facing
+det	other	each
+dobj	facing	other
+case	table	at
+det	table	a
+nmod:at	facing	table
+case	points	as
+nummod	points	one
+nmod:as	facing	points
+case	other	at
+det	other	the
+nmod:at	points	other
+punct	sit	.

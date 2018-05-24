@@ -1,0 +1,27 @@
+nsubj	trial	It
+cop	trial	is
+case	trial	on
+root	ROOT	trial
+case	January	on
+nummod	January	8
+nmod:on	trial	January
+punct	trial	.-8) nsubjpass(accused-3, He
+auxpass	accused	is
+root	ROOT	accused
+mark	participated	of
+aux	participated	having
+advcl	accused	participated
+case	meeting	in
+det	meeting	a
+nmod:in	participated	meeting
+case	opponents	of
+amod	opponents	Tunisian
+nmod:of	meeting	opponents
+case	France	in
+nmod:in	opponents	France
+punct	France	,
+dobj	excludes	which
+advmod	excludes	incidentally
+nsubj	excludes	it
+acl:relcl	France	excludes
+punct	accused	.

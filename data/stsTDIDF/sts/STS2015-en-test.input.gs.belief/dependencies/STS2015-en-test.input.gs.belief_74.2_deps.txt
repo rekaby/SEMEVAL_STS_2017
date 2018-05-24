@@ -1,0 +1,16 @@
+advmod	keep	perhaps
+nsubj	keep	you
+aux	keep	should
+advmod	keep	just
+root	ROOT	keep
+nmod:poss	eye	your
+dobj	keep	eye
+case	situation	on
+det	situation	the
+nmod:on	keep	situation
+cc	keep	and
+conj:and	keep	see
+advmod	goes	how
+nsubj	goes	it
+ccomp	see	goes
+punct	keep	.

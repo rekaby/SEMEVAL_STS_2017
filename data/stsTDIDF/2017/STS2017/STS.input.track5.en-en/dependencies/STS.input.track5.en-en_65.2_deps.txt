@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	working
+case	foundry	in
+det	foundry	a
+nmod:in	working	foundry
+punct	man	.

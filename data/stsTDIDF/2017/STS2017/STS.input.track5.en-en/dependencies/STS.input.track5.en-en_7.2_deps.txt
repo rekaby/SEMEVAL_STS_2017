@@ -1,0 +1,11 @@
+det	man	A
+nsubj	sitting	man
+case	beard	with
+det	beard	a
+nmod:with	man	beard
+aux	sitting	is
+root	ROOT	sitting
+case	grass	in
+det	grass	the
+nmod:in	sitting	grass
+punct	sitting	.

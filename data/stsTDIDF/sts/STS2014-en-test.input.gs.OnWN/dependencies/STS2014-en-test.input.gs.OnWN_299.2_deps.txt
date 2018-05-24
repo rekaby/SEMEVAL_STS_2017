@@ -1,0 +1,9 @@
+root	ROOT	tag
+det	runner	the
+compound	runner	base
+dobj	tag	runner
+mark	get	to
+dep	tag	get
+dobj	get	him
+compound:prt	get	out
+punct	tag	.

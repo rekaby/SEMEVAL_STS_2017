@@ -1,0 +1,9 @@
+nsubj	means	alter
+case	chemical	by
+nmod:by	alter	chemical
+root	ROOT	means
+punct	means	,
+mark	make	to
+xcomp	means	make
+dobj	make	images
+punct	means	.

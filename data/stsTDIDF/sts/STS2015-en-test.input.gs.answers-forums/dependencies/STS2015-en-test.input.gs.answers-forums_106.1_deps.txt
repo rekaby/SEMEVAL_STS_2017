@@ -1,0 +1,11 @@
+advmod	grown	Just
+case	anything	about
+nsubjpass	grown	anything
+aux	grown	can
+auxpass	grown	be
+root	ROOT	grown
+advmod	grown	indoors
+case	sunlight	without
+amod	sunlight	natural
+nmod:without	grown	sunlight
+punct	grown	.

@@ -1,0 +1,8 @@
+root	ROOT	Table
+case	cloth	with
+amod	cloth	blue
+compound	cloth	table
+nmod:with	Table	cloth
+case	kitchen	in
+nmod:in	Table	kitchen
+punct	Table	.

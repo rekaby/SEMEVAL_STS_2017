@@ -1,0 +1,13 @@
+nsubj	idea	It
+cop	idea	is
+det	idea	the
+amod	idea	same
+root	ROOT	idea
+mark	called	as
+dobj	called	what
+nsubj	called	Aristotle
+advcl	idea	called
+det	mover	the
+amod	mover	unmoved
+dobj	called	mover
+punct	idea	.

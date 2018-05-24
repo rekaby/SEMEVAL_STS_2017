@@ -1,0 +1,9 @@
+behavior	subject	nmod:poss
+ROOT	observe	root
+observe	behavior	dobj
+subject	your	nmod:poss
+observe	.	punct
+subject	's	case
+observe	First	advmod
+behavior	normal	amod
+observe	,	punct

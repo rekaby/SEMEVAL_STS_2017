@@ -1,0 +1,9 @@
+det	woman	a
+root	ROOT	woman
+acl	woman	enjoying
+nmod:poss	reading	her
+dobj	enjoying	reading
+case	shop	at
+det	shop	a
+compound	shop	coffee
+nmod:at	reading	shop

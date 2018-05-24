@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	directing	of
+acl	act	directing
+dobj	directing	attention
+punct	act	,
+root	,	resources
+case	something	to
+nmod:to	resources	something

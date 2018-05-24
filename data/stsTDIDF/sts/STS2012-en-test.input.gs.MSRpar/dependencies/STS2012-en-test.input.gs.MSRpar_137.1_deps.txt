@@ -1,0 +1,17 @@
+compound	Tenet	CIA
+compound	Tenet	Director
+compound	Tenet	George
+nsubj	said	Tenet
+root	ROOT	said
+det	men	the
+nummod	men	two
+nsubjpass	defined	men
+auxpass	defined	were
+punct	defined	``
+ccomp	said	defined
+case	dedication	by
+nmod:agent	defined	dedication
+cc	dedication	and
+conj:and	dedication	courage
+punct	said	.
+punct	said	''

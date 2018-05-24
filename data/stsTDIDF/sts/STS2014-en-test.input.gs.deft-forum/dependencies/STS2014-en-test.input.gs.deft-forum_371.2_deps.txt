@@ -1,0 +1,9 @@
+amod	data	Seismic
+nsubj	equal	data
+aux	equal	does
+neg	equal	not
+root	ROOT	equal
+dobj	equal	duration
+case	collapse	of
+nmod:of	duration	collapse
+punct	equal	.

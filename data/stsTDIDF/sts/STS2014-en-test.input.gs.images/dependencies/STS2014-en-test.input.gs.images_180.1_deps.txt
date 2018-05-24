@@ -1,0 +1,9 @@
+root	ROOT	Green
+cc	Green	and
+amod	bird	white
+conj:and	Green	bird
+acl	Green	perched
+case	branch	on
+compound	branch	tree
+nmod:on	perched	branch
+punct	Green	.

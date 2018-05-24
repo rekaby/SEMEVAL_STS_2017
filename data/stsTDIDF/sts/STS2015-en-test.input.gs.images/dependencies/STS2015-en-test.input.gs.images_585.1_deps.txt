@@ -1,0 +1,10 @@
+nsubj	playing	Children
+aux	playing	are
+root	ROOT	playing
+case	trampoline	on
+det	trampoline	a
+nmod:on	playing	trampoline
+case	snow	in
+det	snow	the
+nmod:in	trampoline	snow
+punct	playing	.

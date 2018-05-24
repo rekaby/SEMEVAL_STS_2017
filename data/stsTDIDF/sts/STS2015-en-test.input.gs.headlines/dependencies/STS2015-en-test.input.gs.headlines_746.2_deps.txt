@@ -1,0 +1,9 @@
+nmod:poss	Assad	Syria
+case	Syria	's
+nsubj	vows	Assad
+root	ROOT	vows
+mark	comply	to
+xcomp	vows	comply
+case	resolution	with
+compound	resolution	U.N.
+nmod:with	comply	resolution

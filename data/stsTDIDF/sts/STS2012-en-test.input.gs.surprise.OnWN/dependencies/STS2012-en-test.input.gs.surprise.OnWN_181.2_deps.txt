@@ -1,0 +1,11 @@
+det	substance	a
+root	ROOT	substance
+nsubjpass	used	that
+auxpass	used	is
+acl:relcl	substance	used
+case	medicine	as
+det	medicine	a
+nmod:as	used	medicine
+cc	medicine	or
+conj:or	medicine	narcotic
+punct	substance	.

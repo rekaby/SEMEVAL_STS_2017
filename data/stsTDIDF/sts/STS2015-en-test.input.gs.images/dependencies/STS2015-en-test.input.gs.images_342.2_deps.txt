@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	surfing	woman
+acl	woman	wearing
+det	suit	a
+amod	suit	black
+cc	black	and
+conj:and	black	blue
+amod	suit	striped
+dobj	wearing	suit
+aux	surfing	is
+root	ROOT	surfing
+case	wave	on
+det	wave	a
+nmod:on	surfing	wave
+punct	surfing	.

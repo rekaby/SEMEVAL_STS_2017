@@ -1,0 +1,13 @@
+det	cat	The
+nsubj	standing	cat
+aux	standing	is
+root	ROOT	standing
+case	window	on
+det	window	the
+nmod:on	standing	window
+dep	window	sill
+acl	sill	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	standing	.

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	jumps	woman
+root	ROOT	jumps
+cc	jumps	and
+conj:and	jumps	poses
+case	camera	for
+det	camera	the
+nmod:for	poses	camera
+punct	jumps	.

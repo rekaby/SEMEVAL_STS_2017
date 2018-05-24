@@ -1,0 +1,5 @@
+root	ROOT	location
+amod	location	sheltered
+case	wind	from
+det	wind	the
+nmod:from	sheltered	wind

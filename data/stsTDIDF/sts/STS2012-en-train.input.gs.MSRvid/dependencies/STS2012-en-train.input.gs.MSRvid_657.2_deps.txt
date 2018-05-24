@@ -1,0 +1,6 @@
+det	man	A
+nsubj	ties	man
+root	ROOT	ties
+det	noose	a
+dobj	ties	noose
+punct	ties	.

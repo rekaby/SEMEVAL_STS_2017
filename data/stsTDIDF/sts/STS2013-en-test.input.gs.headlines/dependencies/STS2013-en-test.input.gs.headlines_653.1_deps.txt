@@ -1,0 +1,10 @@
+nsubj	makes	NKorea
+root	ROOT	makes
+punct	makes	``
+amod	progress	significant
+punct	significant	''
+amod	progress	nuclear
+compound	progress	reactor
+dobj	makes	progress
+punct	makes	-
+dep	makes	IAEA

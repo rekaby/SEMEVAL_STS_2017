@@ -1,0 +1,9 @@
+riders	racetrack	nmod:on
+ROOT	riders	root
+horses	their	nmod:poss
+riders	Two	nummod
+riders	horses	nmod:on
+racetrack	a	det
+riders	.	punct
+horses	on	case
+racetrack	on	case

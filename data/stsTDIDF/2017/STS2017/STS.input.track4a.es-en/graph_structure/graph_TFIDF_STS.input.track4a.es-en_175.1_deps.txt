@@ -1,0 +1,5 @@
+sniffs	dog	dobj
+ROOT	sniffs	root
+dog	another	det
+sniffs	.	punct
+sniffs	dog	nsubj

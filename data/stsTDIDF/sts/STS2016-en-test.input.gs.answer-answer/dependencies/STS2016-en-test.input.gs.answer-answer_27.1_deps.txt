@@ -1,0 +1,9 @@
+nsubj	depends	It
+advmod	depends	probably
+root	ROOT	depends
+case	cut	on
+det	cut	the
+nmod:on	depends	cut
+case	meat	of
+nmod:of	cut	meat
+punct	depends	.

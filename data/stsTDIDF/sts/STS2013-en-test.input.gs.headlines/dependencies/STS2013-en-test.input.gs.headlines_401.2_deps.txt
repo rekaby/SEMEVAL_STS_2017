@@ -1,0 +1,8 @@
+nmod:poss	spending	China
+case	China	's
+compound	spending	defence
+root	ROOT	spending
+mark	rise	to
+acl	spending	rise
+nummod	%	11.2
+dobj	rise	%

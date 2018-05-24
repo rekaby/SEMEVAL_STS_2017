@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	rejected	of
+auxpass	rejected	being
+acl	state	rejected
+punct	state	.

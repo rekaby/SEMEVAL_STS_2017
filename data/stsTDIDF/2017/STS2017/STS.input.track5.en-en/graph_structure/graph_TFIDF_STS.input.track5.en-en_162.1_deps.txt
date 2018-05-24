@@ -1,0 +1,15 @@
+prevent	stomach	nmod:in
+juice	with	case
+ROOT	eaten	root
+fruits	The	det
+eaten	prevent	advcl
+juice	lemon	amod
+eaten	.	punct
+stomach	in	case
+prevent	oxidation	dobj
+eaten	fruits	nsubjpass
+eaten	should	aux
+prevent	in	mark
+eaten	be	auxpass
+stomach	your	nmod:poss
+eaten	juice	nmod:with

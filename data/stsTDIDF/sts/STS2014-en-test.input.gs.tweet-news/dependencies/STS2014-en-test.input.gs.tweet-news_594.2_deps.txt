@@ -1,0 +1,7 @@
+compound	confusion	Fear
+punct	confusion	,
+root	ROOT	confusion
+case	crisis	in
+compound	crisis	Algerian
+compound	crisis	hostage
+nmod:in	confusion	crisis

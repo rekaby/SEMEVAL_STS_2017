@@ -1,0 +1,12 @@
+det	person	A
+nsubj	dicing	person
+aux	dicing	is
+root	ROOT	dicing
+det	clove	a
+dobj	dicing	clove
+case	garlic	of
+nmod:of	clove	garlic
+case	knife	with
+det	knife	a
+nmod:with	dicing	knife
+punct	dicing	.

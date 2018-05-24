@@ -1,0 +1,15 @@
+nsubj	does	That
+root	ROOT	does
+neg	does	not
+punct	not	,
+dep	,	however
+punct	however	,
+det	countries	the
+amod	countries	rich
+root	,	countries
+case	obligation	of
+nmod:poss	obligation	their
+nmod:of	countries	obligation
+mark	help	to
+acl	obligation	help
+punct	countries	.

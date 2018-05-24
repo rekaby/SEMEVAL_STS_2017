@@ -1,0 +1,16 @@
+case	items	Excluding
+amod	items	one-time
+nmod:excluding	expects	items
+punct	expects	,
+nsubj	expects	it
+root	ROOT	expects
+dobj	expects	profit
+case	cents	of
+nummod	cents	11
+nmod:of	profit	cents
+case	cents	to
+nummod	cents	15
+nmod:to	expects	cents
+det	share	a
+nmod:npmod	cents	share
+punct	expects	.

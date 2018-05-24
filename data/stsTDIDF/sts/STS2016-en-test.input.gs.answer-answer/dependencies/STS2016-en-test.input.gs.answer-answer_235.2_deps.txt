@@ -1,0 +1,10 @@
+case	knowledge	To
+nmod:poss	knowledge	my
+nmod:to	's	knowledge
+punct	's	,
+expl	's	there
+root	ROOT	's
+neg	requirement	no
+compound	requirement	time
+nsubj	's	requirement
+punct	's	.

@@ -1,0 +1,7 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	lying
+case	beach	on
+det	beach	the
+nmod:on	lying	beach
+punct	woman	.

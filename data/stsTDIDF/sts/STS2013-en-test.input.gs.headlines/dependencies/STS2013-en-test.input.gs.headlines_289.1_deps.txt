@@ -1,0 +1,9 @@
+neg	problem	No
+root	ROOT	problem
+mark	Front	if
+amod	forms	Mulayam
+nsubj	Front	forms
+amod	Front	Third
+dep	problem	Front
+punct	problem	:
+dep	problem	Congress

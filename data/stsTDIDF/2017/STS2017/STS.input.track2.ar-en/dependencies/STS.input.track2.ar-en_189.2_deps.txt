@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	playing
+amod	guitar	electric
+dobj	playing	guitar
+punct	man	,
+acl	man	wearing
+det	hat	a
+amod	hat	white
+dobj	wearing	hat
+punct	man	.

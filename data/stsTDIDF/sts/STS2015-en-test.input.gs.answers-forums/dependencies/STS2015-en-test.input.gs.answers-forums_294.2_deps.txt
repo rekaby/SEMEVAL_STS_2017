@@ -1,0 +1,12 @@
+det	science	The
+nsubj	shed	science
+case	superheroes	behind
+nmod:behind	science	superheroes
+aux	shed	might
+root	ROOT	shed
+det	light	some
+dobj	shed	light
+case	topic	on
+det	topic	this
+nmod:on	shed	topic
+punct	shed	.

@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	plays	cat
+root	ROOT	plays
+case	water	in
+nmod:poss	water	his
+nmod:in	plays	water
+punct	plays	.

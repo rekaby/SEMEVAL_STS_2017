@@ -1,0 +1,6 @@
+det	man	A
+nsubj	plays	man
+root	ROOT	plays
+det	keyboard	a
+dobj	plays	keyboard
+punct	plays	.

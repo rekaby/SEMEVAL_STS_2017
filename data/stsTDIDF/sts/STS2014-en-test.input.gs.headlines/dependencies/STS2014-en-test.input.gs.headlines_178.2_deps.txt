@@ -1,0 +1,10 @@
+nmod:poss	committee	Gov
+case	Gov	'
+compound	committee	t
+nsubj	approves	committee
+root	ROOT	approves
+dobj	approves	release
+case	prisoners	of
+nummod	prisoners	26
+amod	prisoners	Palestinian
+nmod:of	release	prisoners

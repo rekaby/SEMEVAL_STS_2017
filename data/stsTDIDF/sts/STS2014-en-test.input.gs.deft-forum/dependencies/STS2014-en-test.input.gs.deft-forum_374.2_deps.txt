@@ -1,0 +1,12 @@
+nsubj	believe	I
+advmod	believe	absolutely
+aux	believe	do
+root	ROOT	believe
+expl	was	there
+ccomp	believe	was
+det	iceberg	an
+nsubj	was	iceberg
+case	waters	in
+det	waters	those
+nmod:in	iceberg	waters
+punct	believe	.

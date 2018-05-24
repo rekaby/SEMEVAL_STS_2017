@@ -1,0 +1,6 @@
+nsubj	pledges	Merkel
+root	ROOT	pledges
+compound	solidarity	NATO
+dobj	pledges	solidarity
+case	Latvia	with
+nmod:with	pledges	Latvia

@@ -1,0 +1,8 @@
+root	ROOT	Men
+punct	Men	,
+cc	Men	nor
+det	beasts	the
+conj:nor	Men	beasts
+advmod	beasts	thereof
+case	speedboat	in
+nmod:in	thereof	speedboat

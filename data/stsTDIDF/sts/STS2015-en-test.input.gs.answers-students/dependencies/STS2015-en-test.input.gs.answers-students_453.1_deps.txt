@@ -1,0 +1,9 @@
+nsubjpass	connected	Terminal
+nummod	Terminal	1
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	negative
+nmod:to	connected	terminal
+punct	connected	.

@@ -1,0 +1,7 @@
+det	player	A
+compound	player	baseball
+nsubj	throws	player
+root	ROOT	throws
+det	ball	the
+dobj	throws	ball
+punct	throws	.

@@ -1,0 +1,8 @@
+root	ROOT	become
+xcomp	become	quiet
+cc	quiet	or
+conj:or	quiet	still
+punct	become	;
+dep	become	fall
+xcomp	fall	silent
+punct	become	.

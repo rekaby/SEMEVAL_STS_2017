@@ -1,0 +1,7 @@
+root	ROOT	deal
+case	way	with
+case	way	in
+det	way	a
+amod	way	routine
+nmod:in	deal	way
+punct	deal	.

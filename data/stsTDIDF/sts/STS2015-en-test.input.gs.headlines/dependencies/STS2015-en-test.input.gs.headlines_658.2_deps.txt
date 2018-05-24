@@ -1,0 +1,8 @@
+amod	president	Turkish
+nsubj	calls	president
+root	ROOT	calls
+case	calm	for
+nmod:for	calls	calm
+case	protests	amid
+amod	protests	nationwide
+nmod:amid	calls	protests

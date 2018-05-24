@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	applying	of
+acl	act	applying
+dobj	applying	force
+mark	propel	to
+advcl	applying	propel
+dobj	propel	something
+punct	act	.

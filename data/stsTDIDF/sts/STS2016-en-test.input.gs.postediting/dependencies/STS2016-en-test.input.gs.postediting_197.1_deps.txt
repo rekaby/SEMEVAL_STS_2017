@@ -1,0 +1,14 @@
+root	ROOT	But
+compound	attention	pay
+nsubj	But	attention
+punct	attention	,
+det	brand	the
+amod	brand	Belgian
+nsubj	make	brand
+aux	make	does
+neg	make	not
+acl:relcl	attention	make
+advmod	tops	only
+compound	tops	tank
+dobj	make	tops
+punct	But	.

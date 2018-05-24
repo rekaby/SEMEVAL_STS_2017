@@ -1,0 +1,8 @@
+compound	study	Polar
+compound	study	bear
+nsubj	boost	study
+aux	boost	may
+root	ROOT	boost
+dobj	boost	fight
+case	obesity	against
+nmod:against	fight	obesity

@@ -1,0 +1,17 @@
+case	combat	In
+amod	combat	real-world
+nmod:in	used	combat
+punct	used	,
+amod	fire	most
+nsubjpass	used	fire
+auxpass	used	is
+root	ROOT	used
+mark	suppress	to
+xcomp	used	suppress
+det	enemy	the
+dobj	suppress	enemy
+punct	suppress	,
+neg	kill	not
+dep	suppress	kill
+dobj	kill	them
+punct	used	.

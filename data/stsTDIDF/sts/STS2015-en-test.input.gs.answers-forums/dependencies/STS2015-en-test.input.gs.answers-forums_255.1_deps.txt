@@ -1,0 +1,17 @@
+case	Muslims	According
+mwe	According	to
+amod	Muslims	Shia
+root	ROOT	Muslims
+advmod	Iran	specially
+compound	state	Iran
+nsubj	called	state
+cc	state	and
+compound	country	Hezbollah
+det	country	a
+conj:and	state	country
+acl:relcl	Muslims	called
+nsubj	exist	Israel
+aux	exist	does
+neg	exist	not
+ccomp	called	exist
+punct	Muslims	.

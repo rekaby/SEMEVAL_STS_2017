@@ -1,0 +1,5 @@
+acting	children	nmod:for
+acting	group	nsubj
+ROOT	acting	root
+acting	is	aux
+children	some	det

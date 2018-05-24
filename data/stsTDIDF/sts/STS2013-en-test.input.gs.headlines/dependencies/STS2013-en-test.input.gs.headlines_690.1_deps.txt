@@ -1,0 +1,9 @@
+nummod	die	Two
+dep	monitors	die
+case	violence	in
+compound	violence	Syria
+nmod:in	die	violence
+mark	monitors	after
+nsubj	monitors	UN
+root	ROOT	monitors
+dobj	monitors	land

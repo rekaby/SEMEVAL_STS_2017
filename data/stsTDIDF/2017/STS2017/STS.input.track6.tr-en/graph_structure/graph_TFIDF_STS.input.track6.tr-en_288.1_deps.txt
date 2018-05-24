@@ -1,0 +1,5 @@
+crosses	empty-handed	xcomp
+ROOT	crosses	root
+crosses	.	punct
+crosses	woman	nsubj
+empty-handed	street	nsubj

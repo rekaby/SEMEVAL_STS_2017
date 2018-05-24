@@ -1,0 +1,8 @@
+amod	spokesman	Former
+nsubj	dies	spokesman
+case	Reagan	for
+compound	Reagan	U.S.
+compound	Reagan	President
+compound	Reagan	Ronald
+nmod:for	spokesman	Reagan
+root	ROOT	dies

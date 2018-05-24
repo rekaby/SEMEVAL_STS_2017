@@ -1,0 +1,9 @@
+amod	man	Older
+root	ROOT	man
+acl	man	wearing
+dobj	wearing	beret
+case	mountains	with
+nmod:with	wearing	mountains
+case	background	in
+nmod:in	mountains	background
+punct	man	.

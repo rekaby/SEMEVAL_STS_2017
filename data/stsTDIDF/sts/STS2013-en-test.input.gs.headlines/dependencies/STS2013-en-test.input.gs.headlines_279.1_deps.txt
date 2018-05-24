@@ -1,0 +1,6 @@
+amod	prisoners	Palestinian
+root	ROOT	prisoners
+mark	end	to
+acl	prisoners	end
+compound	strike	hunger
+dobj	end	strike

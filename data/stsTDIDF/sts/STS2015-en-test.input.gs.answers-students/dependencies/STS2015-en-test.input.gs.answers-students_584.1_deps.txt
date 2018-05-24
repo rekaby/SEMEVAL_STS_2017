@@ -1,0 +1,13 @@
+nsubj	tells	It
+root	ROOT	tells
+dobj	tells	you
+mark	connected	that
+nsubjpass	connected	it
+auxpass	connected	is
+ccomp	tells	connected
+case	terminal	to
+det	terminal	a
+amod	terminal	positive
+compound	terminal	battery
+nmod:to	connected	terminal
+punct	tells	.

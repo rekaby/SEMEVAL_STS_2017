@@ -1,0 +1,8 @@
+nsubj	act	Clinton
+det	act	a
+amod	act	tough
+root	ROOT	act
+case	Obama	for
+nmod:for	act	Obama
+mark	follow	to
+acl	act	follow

@@ -1,0 +1,6 @@
+det	address	an
+root	ROOT	address
+acl	address	used
+case	communication	for
+amod	communication	postal
+nmod:for	used	communication

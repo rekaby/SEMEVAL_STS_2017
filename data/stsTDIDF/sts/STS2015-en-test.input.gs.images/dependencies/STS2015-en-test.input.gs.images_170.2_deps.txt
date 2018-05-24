@@ -1,0 +1,8 @@
+det	man	The
+nsubj	going	man
+aux	going	is
+root	ROOT	going
+case	water	into
+det	water	the
+nmod:into	going	water
+punct	going	.

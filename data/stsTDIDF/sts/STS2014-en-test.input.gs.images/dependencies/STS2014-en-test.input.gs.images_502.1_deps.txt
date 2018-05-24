@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+case	seat	on
+det	seat	the
+amod	seat	back
+nmod:on	man	seat
+case	bicycle	of
+det	bicycle	a
+amod	bicycle	red
+amod	bicycle	tandem
+nmod:of	seat	bicycle
+punct	man	.

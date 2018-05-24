@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+nsubj	riding	girl
+aux	riding	is
+root	ROOT	riding
+det	toy	a
+dobj	riding	toy
+amod	toy	tricycle
+case	springs	on
+nmod:on	tricycle	springs
+punct	riding	.

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	drove	man
+root	ROOT	drove
+nmod:poss	car	his
+dobj	drove	car
+punct	drove	.

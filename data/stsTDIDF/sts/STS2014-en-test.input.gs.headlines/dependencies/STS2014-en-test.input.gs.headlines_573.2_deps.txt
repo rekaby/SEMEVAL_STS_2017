@@ -1,0 +1,7 @@
+compound	Francis	Pope
+nsubj	commemorates	Francis
+root	ROOT	commemorates
+amod	migrants	dead
+dobj	commemorates	migrants
+case	Lampedusa	at
+nmod:at	commemorates	Lampedusa

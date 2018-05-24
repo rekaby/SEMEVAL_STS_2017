@@ -1,0 +1,7 @@
+det	enterprise	an
+root	ROOT	enterprise
+cc	enterprise	or
+conj:or	enterprise	company
+nsubj	publishes	that
+acl:relcl	enterprise	publishes
+dobj	publishes	newsprint

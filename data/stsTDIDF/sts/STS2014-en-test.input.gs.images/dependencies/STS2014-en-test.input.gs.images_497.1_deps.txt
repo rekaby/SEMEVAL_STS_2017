@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	peaks	dog
+root	ROOT	peaks
+compound:prt	peaks	out
+det	back	the
+dobj	peaks	back
+case	truck	of
+det	truck	a
+nmod:of	back	truck
+punct	peaks	.

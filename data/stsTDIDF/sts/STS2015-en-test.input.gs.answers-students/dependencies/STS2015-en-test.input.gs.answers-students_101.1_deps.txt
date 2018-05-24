@@ -1,0 +1,13 @@
+mark	contained	Because
+compound	C	Bulb
+nsubjpass	contained	C
+auxpass	contained	is
+neg	contained	not
+root	ROOT	contained
+case	path	on
+det	path	the
+nmod:on	contained	path
+case	bulbs	of
+det	bulbs	the
+amod	bulbs	other
+nmod:of	path	bulbs

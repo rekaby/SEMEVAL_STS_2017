@@ -1,0 +1,12 @@
+det	bus	A
+amod	bus	white
+compound	bus	tour
+root	ROOT	bus
+case	stripes	with
+amod	stripes	red
+punct	red	,
+conj:and	red	orange
+cc	red	and
+conj:and	red	yellow
+nmod:with	bus	stripes
+punct	bus	.

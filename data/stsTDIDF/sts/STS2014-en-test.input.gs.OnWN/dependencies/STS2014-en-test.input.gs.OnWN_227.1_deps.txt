@@ -1,0 +1,5 @@
+root	ROOT	partake
+cc	partake	or
+conj:or	partake	provide
+det	banquet	a
+dobj	partake	banquet

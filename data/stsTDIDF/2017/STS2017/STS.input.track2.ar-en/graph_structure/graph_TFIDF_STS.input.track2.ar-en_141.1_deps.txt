@@ -1,0 +1,4 @@
+shirt	making	acl
+man	shirt	nmod:in
+making	cup	dobj
+shirt	green	amod

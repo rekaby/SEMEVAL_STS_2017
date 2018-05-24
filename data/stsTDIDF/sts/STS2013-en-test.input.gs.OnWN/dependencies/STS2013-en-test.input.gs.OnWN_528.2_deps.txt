@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	colliding	of
+acl	act	colliding
+case	something	with
+nmod:with	colliding	something
+punct	act	.

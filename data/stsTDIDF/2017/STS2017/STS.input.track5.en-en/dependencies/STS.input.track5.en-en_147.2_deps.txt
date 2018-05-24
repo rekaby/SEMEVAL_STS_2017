@@ -1,0 +1,13 @@
+det	dog	a
+amod	dog	small
+amod	dog	black
+root	ROOT	dog
+case	ocean	in
+det	ocean	the
+nmod:in	dog	ocean
+case	rocks	with
+det	rocks	some
+nmod:with	dog	rocks
+case	background	in
+det	background	the
+nmod:in	rocks	background

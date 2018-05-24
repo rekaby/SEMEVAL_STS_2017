@@ -1,0 +1,14 @@
+det	process	This
+amod	process	whole
+nsubj	reflect	process
+aux	reflect	must
+root	ROOT	reflect
+dobj	does	what
+det	bee	the
+nsubj	does	bee
+ccomp	reflect	does
+mark	avoid	to
+xcomp	does	avoid
+amod	bees	other
+dobj	avoid	bees
+punct	reflect	.

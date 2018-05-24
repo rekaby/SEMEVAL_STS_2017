@@ -1,0 +1,7 @@
+cold	very	advmod
+ROOT	cold	root
+water	The	det
+water	pool	nmod:in
+cold	is	cop
+cold	.	punct
+cold	water	nsubj

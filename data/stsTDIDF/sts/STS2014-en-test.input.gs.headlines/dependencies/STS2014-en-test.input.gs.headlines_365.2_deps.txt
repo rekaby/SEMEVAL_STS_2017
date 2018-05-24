@@ -1,0 +1,7 @@
+amod	PM	Australian
+nsubj	insists	PM
+root	ROOT	insists
+neg	argument	no
+dobj	insists	argument
+case	Indonesia	with
+nmod:with	argument	Indonesia

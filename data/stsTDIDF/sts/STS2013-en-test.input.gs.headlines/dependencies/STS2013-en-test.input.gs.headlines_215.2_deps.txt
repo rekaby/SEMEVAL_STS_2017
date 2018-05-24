@@ -1,0 +1,8 @@
+compound	president	Poland
+compound	president	honors
+nsubj	killed	president
+root	ROOT	killed
+case	plane	in
+nummod	plane	2010
+nmod:in	killed	plane
+dobj	killed	crash

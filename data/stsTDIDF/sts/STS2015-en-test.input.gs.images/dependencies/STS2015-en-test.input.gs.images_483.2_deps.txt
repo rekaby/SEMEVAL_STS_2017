@@ -1,0 +1,12 @@
+nummod	children	Three
+nsubjpass	covered	children
+acl	children	standing
+case	pool	by
+det	pool	a
+nmod:by	standing	pool
+auxpass	covered	are
+root	ROOT	covered
+case	bubbles	in
+compound	bubbles	foam
+nmod:in	covered	bubbles
+punct	covered	.

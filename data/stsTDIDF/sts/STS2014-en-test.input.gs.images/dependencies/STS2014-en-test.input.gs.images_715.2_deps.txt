@@ -1,0 +1,13 @@
+det	boats	The
+nsubj	water	boats
+cop	water	are
+case	water	on
+det	water	the
+root	ROOT	water
+amod	water	located
+case	mountain	in
+mwe	in	front
+mwe	in	of
+det	mountain	the
+nmod:in_front_of	located	mountain
+punct	water	.

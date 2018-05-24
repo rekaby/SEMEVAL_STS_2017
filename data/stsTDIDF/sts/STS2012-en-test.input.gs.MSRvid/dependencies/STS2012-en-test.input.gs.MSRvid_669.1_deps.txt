@@ -1,0 +1,9 @@
+det	cat	A
+nsubj	trying	cat
+aux	trying	is
+root	ROOT	trying
+mark	touch	to
+xcomp	trying	touch
+det	dog	a
+dobj	touch	dog
+punct	trying	.

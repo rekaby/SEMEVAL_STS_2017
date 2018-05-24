@@ -1,0 +1,9 @@
+root	ROOT	bulb
+nsubjpass	wired	a
+cc	a	and
+compound	c	bulb
+conj:and	a	c
+auxpass	wired	are
+acl:relcl	bulb	wired
+case	parallel	in
+nmod:in	wired	parallel

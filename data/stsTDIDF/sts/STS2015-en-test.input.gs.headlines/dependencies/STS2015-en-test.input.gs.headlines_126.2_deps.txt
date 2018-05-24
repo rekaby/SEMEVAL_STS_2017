@@ -1,0 +1,9 @@
+compound	Arabia	Saudi
+root	ROOT	Arabia
+mark	grant	to
+acl	Arabia	grant
+amod	army	Lebanese
+iobj	grant	army
+dobj	grant	$
+compound	billion	3
+nummod	$	billion

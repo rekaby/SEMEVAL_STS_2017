@@ -1,0 +1,12 @@
+nsubj	know	i
+root	ROOT	know
+nsubj	saving	they
+aux	saving	are
+neg	saving	not
+ccomp	know	saving
+cc	saving	and
+dobj	understand	i
+advmod	cant	just
+nsubj	understand	cant
+conj:and	saving	understand
+punct	know	!

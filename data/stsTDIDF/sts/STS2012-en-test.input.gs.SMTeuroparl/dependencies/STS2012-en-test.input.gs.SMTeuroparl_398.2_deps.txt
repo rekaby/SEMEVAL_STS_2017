@@ -1,0 +1,13 @@
+dep	proposes	Amendment
+nsubj	proposes	No
+nummod	No	7
+root	ROOT	proposes
+amod	changes	certain
+dobj	proposes	changes
+case	references	in
+det	references	the
+nmod:in	changes	references
+case	paragraphs	to
+det	paragraphs	the
+nmod:to	references	paragraphs
+punct	proposes	.

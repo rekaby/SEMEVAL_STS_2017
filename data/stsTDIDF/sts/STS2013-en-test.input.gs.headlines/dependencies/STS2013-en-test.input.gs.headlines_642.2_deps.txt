@@ -1,0 +1,7 @@
+nsubj	wait	Egyptians
+root	ROOT	wait
+case	vote	for
+amod	vote	key
+amod	vote	presidential
+nmod:for	wait	vote
+dobj	wait	results

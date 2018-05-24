@@ -1,0 +1,7 @@
+ROOT	gossiping	root
+fence	by	case
+gossiping	fence	nmod:by
+gossiping	women	nsubj
+fence	a	det
+gossiping	are	aux
+gossiping	.	punct

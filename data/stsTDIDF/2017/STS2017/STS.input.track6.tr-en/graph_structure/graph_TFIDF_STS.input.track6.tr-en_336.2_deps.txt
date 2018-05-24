@@ -1,0 +1,5 @@
+ROOT	beach	root
+beach	.	punct
+beach	animals	nsubj
+animals	The	det
+beach	are	cop

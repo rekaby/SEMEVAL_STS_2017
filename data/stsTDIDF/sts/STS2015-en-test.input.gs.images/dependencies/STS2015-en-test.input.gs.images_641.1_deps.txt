@@ -1,0 +1,9 @@
+det	Retriever	A
+compound	Retriever	Golden
+nsubj	jumping	Retriever
+root	ROOT	jumping
+compound:prt	jumping	off
+det	porch	a
+compound	porch	wood
+dobj	jumping	porch
+punct	jumping	.

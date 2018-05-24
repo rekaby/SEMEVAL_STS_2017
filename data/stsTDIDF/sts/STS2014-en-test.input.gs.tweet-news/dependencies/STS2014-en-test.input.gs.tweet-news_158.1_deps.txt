@@ -1,0 +1,6 @@
+compound	Korea	North
+nsubj	sendin	Korea
+root	ROOT	sendin
+compound	threats	them
+dobj	sendin	threats
+advmod	sendin	again

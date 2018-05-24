@@ -1,0 +1,5 @@
+neg	connected	not
+root	ROOT	connected
+case	battery	to
+amod	battery	positive
+nmod:to	connected	battery

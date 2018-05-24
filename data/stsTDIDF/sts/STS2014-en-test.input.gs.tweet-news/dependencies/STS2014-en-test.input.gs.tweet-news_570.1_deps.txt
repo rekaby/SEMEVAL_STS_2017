@@ -1,0 +1,17 @@
+nsubj	spends	Who
+root	ROOT	spends
+advmod	much	so
+amod	money	much
+dobj	spends	money
+case	food	on
+nmod:on	money	food
+punct	spends	?-8) nsubj(:-RRB--5, That
+cop	:-RRB-	's
+advmod	retarded	so
+amod	:-RRB-	retarded
+root	ROOT	:-RRB-
+det	Luxury	The
+amod	Luxury	Unaffordable
+dobj	:-RRB-	Luxury
+case	Food	of
+nmod:of	Luxury	Food

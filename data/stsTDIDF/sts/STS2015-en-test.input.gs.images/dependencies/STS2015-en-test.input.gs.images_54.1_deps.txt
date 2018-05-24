@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	area	through
+det	area	a
+amod	area	grassy
+nmod:through	running	area
+punct	running	.

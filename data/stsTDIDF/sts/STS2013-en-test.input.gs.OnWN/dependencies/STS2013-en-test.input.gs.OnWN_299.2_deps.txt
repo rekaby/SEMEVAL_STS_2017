@@ -1,0 +1,14 @@
+punct	sports	-LRB-
+root	ROOT	sports
+punct	sports	-RRB-
+det	division	a
+dep	sports	division
+case	which	during
+nmod:during	offensive	which
+nummod	team	one
+nsubj	offensive	team
+cop	offensive	is
+case	offensive	on
+det	offensive	the
+acl:relcl	division	offensive
+punct	sports	.

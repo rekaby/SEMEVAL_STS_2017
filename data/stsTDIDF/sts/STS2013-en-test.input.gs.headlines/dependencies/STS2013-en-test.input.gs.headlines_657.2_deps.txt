@@ -1,0 +1,8 @@
+compound	Crashes	U.S.
+compound	Crashes	Navy
+compound	Crashes	Jet
+root	ROOT	Crashes
+case	Buildings	Into
+compound	Buildings	Virginia
+compound	Buildings	Apartment
+nmod:into	Crashes	Buildings

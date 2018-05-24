@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	12	least
+nummod	bombing	12
+amod	bombing	killed
+case	church	in
+compound	church	Nigeria
+nmod:in	killed	church
+root	ROOT	bombing

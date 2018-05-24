@@ -1,0 +1,6 @@
+det	man	The
+nsubj	tased	man
+root	ROOT	tased
+det	food	the
+dobj	tased	food
+punct	tased	.

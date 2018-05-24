@@ -1,0 +1,9 @@
+root	ROOT	US
+mark	destroy	to
+acl	US	destroy
+compound	stockpile	Syria
+amod	stockpile	chemical
+compound	stockpile	weapon
+dobj	destroy	stockpile
+case	sea	at
+nmod:at	destroy	sea

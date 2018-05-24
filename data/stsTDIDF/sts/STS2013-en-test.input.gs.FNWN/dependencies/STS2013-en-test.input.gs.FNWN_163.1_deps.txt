@@ -1,0 +1,26 @@
+nsubj	denote	lus
+case	frame	in
+det	frame	this
+nmod:in	lus	frame
+root	ROOT	denote
+mark	notable	that
+det	instance	the
+nsubj	notable	instance
+case	type	of
+det	type	a
+nmod:of	instance	type
+cop	notable	is
+advmod	notable	contextually
+ccomp	denote	notable
+punct	denote	.-15) det(frame-2, this
+nsubj	requires	frame
+advmod	requires	typically
+root	ROOT	requires
+amod	annotation	dual
+compound	annotation	fe
+compound	annotation	layer
+dobj	requires	annotation
+punct	requires	;
+parataxis	requires	see
+advmod	see	below
+punct	requires	.

@@ -1,0 +1,12 @@
+nsubj	recognizes	Friends
+case	Syria	of
+nmod:of	Friends	Syria
+root	ROOT	recognizes
+compound	coalition	opposition
+dobj	recognizes	coalition
+case	representative	as
+amod	representative	legitimate
+nmod:as	coalition	representative
+case	people	of
+amod	people	Syrian
+nmod:of	representative	people

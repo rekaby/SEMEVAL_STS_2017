@@ -1,0 +1,17 @@
+det	player	A
+amod	player	rugby
+nsubj	carrying	player
+case	gear	in
+amod	gear	dark
+nmod:in	player	gear
+aux	carrying	is
+root	ROOT	carrying
+det	ball	a
+amod	ball	light
+amod	ball	colored
+amod	ball	rugby
+dobj	carrying	ball
+case	outstretched	with
+compound	outstretched	arm
+nmod:with	carrying	outstretched
+punct	carrying	.

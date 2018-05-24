@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	lying
+case	ground	on
+det	ground	the
+nmod:on	lying	ground
+punct	man	.

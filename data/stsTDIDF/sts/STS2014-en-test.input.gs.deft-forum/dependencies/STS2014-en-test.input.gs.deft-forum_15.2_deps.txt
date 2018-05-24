@@ -1,0 +1,14 @@
+mark	answer	If
+nsubj	answer	you
+root	ROOT	answer
+dobj	answer	no
+nmod	answer	to
+cc	answer	but
+conj:but	answer	yes
+mark	straight	to
+advmod	straight	then
+nsubj	straight	you
+cop	straight	are
+advmod	straight	probably
+advmod	yes	straight
+punct	answer	.

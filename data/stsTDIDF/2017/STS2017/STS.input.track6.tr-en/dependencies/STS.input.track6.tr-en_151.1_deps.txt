@@ -1,0 +1,8 @@
+det	clown	A
+nsubj	preparing	clown
+aux	preparing	is
+root	ROOT	preparing
+mark	do	to
+xcomp	preparing	do
+dobj	do	surgery
+punct	preparing	.

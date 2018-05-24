@@ -1,0 +1,7 @@
+root	ROOT	throw
+case	confusion	into
+amod	confusion	great
+nmod:into	throw	confusion
+cc	confusion	or
+conj:or	confusion	disorder
+punct	throw	.

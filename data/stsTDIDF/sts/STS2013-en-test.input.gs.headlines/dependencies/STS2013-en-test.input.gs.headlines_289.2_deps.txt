@@ -1,0 +1,9 @@
+neg	problem	No
+root	ROOT	problem
+mark	front	if
+amod	forms	Mulayam
+nsubj	front	forms
+amod	front	third
+dep	problem	front
+punct	problem	:
+dep	problem	Digvijay

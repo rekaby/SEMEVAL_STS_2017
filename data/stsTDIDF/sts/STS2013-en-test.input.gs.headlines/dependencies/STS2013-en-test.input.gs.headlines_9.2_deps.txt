@@ -1,0 +1,7 @@
+compound	bombing	Damascus
+punct	bombing	`
+compound	bombing	suicide
+nsubj	kills	bombing
+punct	bombing	'
+root	ROOT	kills
+dobj	kills	10

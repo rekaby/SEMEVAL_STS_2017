@@ -1,0 +1,7 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	running
+case	grass	through
+amod	grass	green
+nmod:through	running	grass
+punct	boy	.

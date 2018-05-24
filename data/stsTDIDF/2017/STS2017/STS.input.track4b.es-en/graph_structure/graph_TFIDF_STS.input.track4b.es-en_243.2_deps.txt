@@ -1,0 +1,4 @@
+bad	particularly	advmod
+bad	today	nmod:tmod
+bad	Traffic	nsubj
+Traffic	City	nmod:in

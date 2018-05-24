@@ -1,0 +1,9 @@
+nsubj	proposes	S.Korea
+root	ROOT	proposes
+punct	talks	`
+amod	talks	final
+punct	talks	'
+compound	talks	N.Korea
+dobj	proposes	talks
+case	Kaesong	over
+nmod:over	talks	Kaesong

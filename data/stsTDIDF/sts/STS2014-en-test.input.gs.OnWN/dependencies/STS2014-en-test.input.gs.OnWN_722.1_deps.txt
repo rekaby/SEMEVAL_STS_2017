@@ -1,0 +1,5 @@
+root	ROOT	glean
+cc	glean	or
+conj:or	glean	gather
+amod	products	natural
+dobj	glean	products

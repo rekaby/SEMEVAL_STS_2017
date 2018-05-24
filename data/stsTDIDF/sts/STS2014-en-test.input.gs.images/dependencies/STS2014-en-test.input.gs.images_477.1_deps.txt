@@ -1,0 +1,12 @@
+det	man	A
+nsubj	sit	man
+cc	man	and
+conj:and	man	woman
+root	ROOT	sit
+case	table	at
+det	table	a
+nmod:at	sit	table
+case	restaurant	in
+det	restaurant	a
+nmod:in	table	restaurant
+punct	sit	.

@@ -1,0 +1,15 @@
+advmod	add	Yes
+punct	add	,
+nsubj	add	you
+aux	add	can
+root	ROOT	add
+compound	grounds	coffee
+dobj	add	grounds
+case	filters	with
+nmod:poss	filters	their
+nmod:with	add	filters
+case	pile	to
+nmod:poss	pile	your
+compound	pile	compost
+nmod:to	filters	pile
+punct	add	.

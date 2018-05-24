@@ -1,0 +1,5 @@
+prepares	catch	xcomp
+prepares	boy	nsubj
+prepares	.	punct
+catch	ball	dobj
+ROOT	prepares	root

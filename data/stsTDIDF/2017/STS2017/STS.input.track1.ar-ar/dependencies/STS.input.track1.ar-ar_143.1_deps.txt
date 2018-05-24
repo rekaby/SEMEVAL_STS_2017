@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	walking
+case	peddler	next
+mwe	next	to
+compound	peddler	food
+nmod:next_to	walking	peddler
+case	streets	on
+det	streets	the
+nmod:on	walking	streets

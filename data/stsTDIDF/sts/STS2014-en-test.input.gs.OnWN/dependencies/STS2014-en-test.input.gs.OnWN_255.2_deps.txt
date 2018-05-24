@@ -1,0 +1,11 @@
+root	ROOT	put
+advmod	put	together
+case	components	out
+mwe	out	of
+amod	components	artificial
+cc	artificial	or
+conj:or	artificial	natural
+nmod:out_of	put	components
+cc	components	or
+conj:or	components	parts
+punct	put	.

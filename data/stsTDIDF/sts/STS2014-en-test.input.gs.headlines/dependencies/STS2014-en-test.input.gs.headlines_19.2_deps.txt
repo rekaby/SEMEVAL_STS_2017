@@ -1,0 +1,5 @@
+nsubj	launches	Israel
+root	ROOT	launches
+dobj	launches	airstrike
+case	Syria	into
+nmod:into	launches	Syria

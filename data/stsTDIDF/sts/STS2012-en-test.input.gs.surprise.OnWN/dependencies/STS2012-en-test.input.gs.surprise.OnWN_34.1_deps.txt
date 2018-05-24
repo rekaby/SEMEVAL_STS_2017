@@ -1,0 +1,12 @@
+det	act	the
+nsubj	situation	act
+cc	act	or
+conj:or	act	event
+mark	ending	of
+acl	act	ending
+det	process	a
+dobj	ending	process
+punct	process	,
+appos	process	state
+punct	act	,
+root	ROOT	situation

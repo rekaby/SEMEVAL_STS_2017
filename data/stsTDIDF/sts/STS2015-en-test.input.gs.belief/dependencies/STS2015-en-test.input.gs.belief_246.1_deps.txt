@@ -1,0 +1,16 @@
+nsubj	swear	i
+root	ROOT	swear
+nsubj	think	you
+nsubj	think	protestants
+ccomp	swear	think
+nsubj	antichrist	everyone
+case	type	in
+det	type	some
+nmod:in	everyone	type
+case	role	of
+compound	role	leadership
+nmod:of	type	role
+cop	antichrist	is
+det	antichrist	the
+ccomp	think	antichrist
+punct	swear	.

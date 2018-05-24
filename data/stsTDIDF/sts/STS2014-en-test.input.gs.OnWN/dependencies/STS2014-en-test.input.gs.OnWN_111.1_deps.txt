@@ -1,0 +1,8 @@
+det	task	An
+amod	task	official
+nsubjpass	funded	task
+cc	task	or
+conj:or	task	undertaking
+punct	task	,
+advmod	funded	usually
+root	ROOT	funded

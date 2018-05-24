@@ -1,0 +1,5 @@
+root	ROOT	make
+xcomp	make	thick
+cc	thick	or
+conj:or	thick	thicker
+punct	make	.

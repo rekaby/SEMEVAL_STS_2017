@@ -1,0 +1,8 @@
+nsubj	starts	India
+root	ROOT	starts
+dobj	starts	voting
+case	election	in
+nmod:poss	election	world
+case	world	's
+amod	election	largest
+nmod:in	voting	election

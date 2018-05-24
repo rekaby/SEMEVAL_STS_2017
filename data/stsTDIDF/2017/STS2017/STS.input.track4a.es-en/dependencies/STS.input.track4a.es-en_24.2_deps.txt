@@ -1,0 +1,10 @@
+det	man	A
+nsubj	tries	man
+root	ROOT	tries
+mark	sell	to
+xcomp	tries	sell
+dobj	sell	something
+case	street	on
+det	street	the
+nmod:on	sell	street
+punct	tries	.

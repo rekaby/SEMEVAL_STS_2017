@@ -1,0 +1,13 @@
+compound	A	Bulb
+nsubj	had	A
+cc	A	and
+conj:and	A	C
+advmod	had	still
+root	ROOT	had
+det	path	a
+amod	path	closed
+dobj	had	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery
+punct	had	.

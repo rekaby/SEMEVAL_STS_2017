@@ -1,0 +1,6 @@
+det	man	The
+root	ROOT	man
+case	children	near
+det	children	the
+nmod:near	man	children
+punct	man	.

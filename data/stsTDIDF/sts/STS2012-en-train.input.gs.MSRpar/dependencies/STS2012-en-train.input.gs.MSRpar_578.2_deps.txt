@@ -1,0 +1,14 @@
+nsubj	appeared	She
+root	ROOT	appeared
+case	court	in
+amod	court	federal
+nmod:in	appeared	court
+nmod:tmod	appeared	Wednesday
+punct	appeared	,
+cc	appeared	but
+aux	enter	did
+neg	enter	not
+conj:but	appeared	enter
+det	plea	a
+dobj	enter	plea
+punct	appeared	.

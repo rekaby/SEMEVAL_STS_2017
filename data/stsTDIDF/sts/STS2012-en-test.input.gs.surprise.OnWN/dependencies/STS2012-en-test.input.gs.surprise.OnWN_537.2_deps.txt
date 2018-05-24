@@ -1,0 +1,7 @@
+det	section	the
+amod	section	introductory
+root	ROOT	section
+case	story	of
+det	story	a
+nmod:of	section	story
+punct	section	.

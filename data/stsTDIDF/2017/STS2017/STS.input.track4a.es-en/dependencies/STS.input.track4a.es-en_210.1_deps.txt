@@ -1,0 +1,11 @@
+det	man	A
+nsubj	wears	man
+root	ROOT	wears
+det	hat	a
+dobj	wears	hat
+cc	wears	and
+conj:and	wears	waits
+case	bus	for
+det	bus	a
+nmod:for	waits	bus
+punct	wears	.

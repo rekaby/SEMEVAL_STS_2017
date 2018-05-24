@@ -1,0 +1,5 @@
+nsubj	lifts	Tunisia
+root	ROOT	lifts
+dobj	lifts	curfew
+case	riots	after
+nmod:after	lifts	riots

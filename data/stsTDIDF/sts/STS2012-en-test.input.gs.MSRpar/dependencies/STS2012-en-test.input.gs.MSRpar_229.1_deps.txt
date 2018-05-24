@@ -1,0 +1,16 @@
+det	Coyne	The
+compound	Coyne	Rev.
+compound	Coyne	Christopher
+compound	Coyne	J.
+nsubj	comment	Coyne
+punct	Coyne	,
+appos	Coyne	spokesman
+case	archdiocese	for
+det	archdiocese	the
+nmod:for	spokesman	archdiocese
+punct	Coyne	,
+aux	comment	would
+neg	comment	n't
+root	ROOT	comment
+nmod:tmod	comment	Friday
+punct	comment	.

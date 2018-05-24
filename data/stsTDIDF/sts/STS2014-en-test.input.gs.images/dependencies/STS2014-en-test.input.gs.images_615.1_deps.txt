@@ -1,0 +1,8 @@
+det	bicycle	A
+nsubjpass	parked	bicycle
+auxpass	parked	is
+root	ROOT	parked
+case	shop	by
+det	shop	a
+nmod:agent	parked	shop
+punct	parked	.

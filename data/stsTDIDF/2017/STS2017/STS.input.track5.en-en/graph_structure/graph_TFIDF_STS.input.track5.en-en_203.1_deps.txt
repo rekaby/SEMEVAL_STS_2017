@@ -1,0 +1,10 @@
+dirt	face	nmod:on
+child	red	amod
+dirt	with	case
+background	.	punct
+ROOT	background	root
+girl	dirt	nmod:with
+background	is	cop
+face	bike	conj:and
+background	girl	nsubj
+bike	child	nmod:poss

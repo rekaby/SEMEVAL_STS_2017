@@ -1,0 +1,13 @@
+det	matters	What
+root	ROOT	matters
+advmod	awareness	most
+compound	awareness	consumer
+dep	matters	awareness
+cc	awareness	and
+conj:and	awareness	make
+det	information	this
+dobj	make	information
+case	domain	to
+amod	domain	public
+nmod:to	information	domain
+punct	matters	.

@@ -1,0 +1,7 @@
+root	ROOT	Artley
+punct	Artley	:
+compound	followers	Getting
+compound	million	10
+nummod	followers	million
+compound	followers	Twitter
+dep	Artley	followers

@@ -1,0 +1,12 @@
+has	woman	nsubj
+pink	clothes	conj:and
+clothes	black	amod
+woman	wearing	acl
+tattoo	large	amod
+tattoo	back	nmod:on
+tattoo	a	det
+back	her	nmod:poss
+pink	a	det
+pink	and	cc
+wearing	pink	dobj
+has	tattoo	dobj

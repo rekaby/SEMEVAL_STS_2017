@@ -1,0 +1,10 @@
+root	ROOT	have
+det	desire	a
+amod	desire	strong
+dobj	have	desire
+cc	have	or
+conj:or	have	urge
+mark	do	to
+xcomp	urge	do
+dobj	do	something
+punct	have	.

@@ -1,0 +1,7 @@
+scoops	dirt	dobj
+bucket	into	case
+scoops	.	punct
+scoops	child	nsubj
+scoops	bucket	nmod:into
+bucket	a	det
+ROOT	scoops	root

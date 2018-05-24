@@ -1,0 +1,4 @@
+root	ROOT	People
+case	road	near
+det	road	the
+nmod:near	People	road

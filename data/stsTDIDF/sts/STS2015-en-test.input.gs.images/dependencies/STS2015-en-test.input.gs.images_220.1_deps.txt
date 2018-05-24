@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	carries	dog
+root	ROOT	carries
+det	leash	a
+dobj	carries	leash
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	leash	mouth
+punct	carries	.

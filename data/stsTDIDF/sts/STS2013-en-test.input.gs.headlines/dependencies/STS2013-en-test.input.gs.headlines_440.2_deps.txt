@@ -1,0 +1,8 @@
+nummod	workers	5
+compound	workers	aid
+root	ROOT	workers
+acl	workers	freed
+case	operation	in
+nmod:in	freed	operation
+case	Afghanistan	in
+nmod:in	freed	Afghanistan

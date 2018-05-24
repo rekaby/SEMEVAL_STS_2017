@@ -1,0 +1,7 @@
+amod	officer	Former
+compound	officer	LAPD
+nsubj	sought	officer
+root	ROOT	sought
+case	Irvine	in
+nmod:in	sought	Irvine
+dobj	sought	slayings

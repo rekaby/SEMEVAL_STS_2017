@@ -1,0 +1,9 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	you
+root	ROOT	remove
+dobj	remove	mold
+case	tent	from
+det	tent	a
+nmod:from	remove	tent
+punct	remove	?

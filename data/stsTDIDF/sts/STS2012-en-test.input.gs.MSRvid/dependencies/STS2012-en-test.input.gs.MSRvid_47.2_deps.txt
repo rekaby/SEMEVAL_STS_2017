@@ -1,0 +1,8 @@
+det	girl	A
+root	ROOT	girl
+nsubj	flying	running
+aux	flying	is
+acl:relcl	girl	flying
+det	kite	a
+dobj	flying	kite
+punct	girl	.

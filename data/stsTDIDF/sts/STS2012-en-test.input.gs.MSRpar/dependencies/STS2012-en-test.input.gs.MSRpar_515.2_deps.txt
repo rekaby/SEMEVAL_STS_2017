@@ -1,0 +1,13 @@
+compound	samples	Water
+nsubjpass	sent	samples
+aux	sent	are
+auxpass	sent	being
+root	ROOT	sent
+case	department	to
+det	department	the
+compound	department	state
+compound	department	health
+nmod:to	sent	department
+case	analysis	for
+nmod:for	sent	analysis
+punct	sent	.

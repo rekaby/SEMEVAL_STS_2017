@@ -1,0 +1,12 @@
+advmod	long	How
+root	ROOT	long
+dep	long	does
+amod	meat	uncooked
+dobj	does	meat
+amod	meat	last
+advmod	kept	when
+dep	last	kept
+case	freezer	in
+det	freezer	the
+nmod:in	kept	freezer
+punct	long	?

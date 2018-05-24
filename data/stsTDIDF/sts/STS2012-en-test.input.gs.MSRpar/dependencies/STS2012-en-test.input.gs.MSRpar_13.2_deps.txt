@@ -1,0 +1,16 @@
+nsubj	is	One
+case	characteristics	of
+det	characteristics	the
+amod	characteristics	defining
+cc	defining	and
+conj:and	defining	well-studied
+nmod:of	One	characteristics
+case	temperament	of
+nmod:of	characteristics	temperament
+root	ROOT	is
+advmod	react	how
+nsubj	react	people
+ccomp	is	react
+case	novelty	to
+nmod:to	react	novelty
+punct	is	.

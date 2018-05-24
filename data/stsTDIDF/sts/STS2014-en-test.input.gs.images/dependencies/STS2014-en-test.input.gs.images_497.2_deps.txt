@@ -1,0 +1,12 @@
+det	dog	A
+nsubj	peeking	dog
+aux	peeking	is
+root	ROOT	peeking
+case	back	out
+mwe	out	of
+det	back	the
+nmod:out_of	peeking	back
+case	van	of
+det	van	a
+nmod:of	back	van
+punct	peeking	.

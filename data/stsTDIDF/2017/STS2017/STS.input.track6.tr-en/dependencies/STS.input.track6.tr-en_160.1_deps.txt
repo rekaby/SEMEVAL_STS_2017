@@ -1,0 +1,17 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	sitting
+case	pool	in
+det	pool	a
+nmod:in	sitting	pool
+acl	pool	holding
+det	martini	a
+dobj	holding	martini
+case	baby	with
+det	baby	a
+nmod:with	holding	baby
+acl	baby	laying
+case	her	next
+mwe	next	to
+nmod:next_to	laying	her
+punct	woman	.

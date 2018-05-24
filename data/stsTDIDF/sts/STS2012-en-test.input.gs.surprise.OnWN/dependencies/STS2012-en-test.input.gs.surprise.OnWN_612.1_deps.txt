@@ -1,0 +1,6 @@
+root	ROOT	touch
+cc	touch	or
+conj:or	touch	hold
+case	hands	with
+det	hands	the
+nmod:with	touch	hands

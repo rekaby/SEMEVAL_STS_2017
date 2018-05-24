@@ -1,0 +1,17 @@
+cc	built	But
+punct	built	,
+case	Union	like
+det	Union	the
+nmod:like	built	Union
+nmod:npmod	Union	itself
+punct	built	,
+nsubjpass	built	it
+aux	built	will
+auxpass	built	be
+root	ROOT	built
+cc	built	and
+nsubjpass	done	it
+aux	done	will
+auxpass	done	be
+conj:and	built	done
+punct	built	.

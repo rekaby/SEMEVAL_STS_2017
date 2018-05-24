@@ -1,0 +1,8 @@
+expl	is	there
+root	ROOT	is
+amod	concern	much
+nsubj	is	concern
+case	drug	over
+det	drug	the
+nmod:over	concern	drug
+punct	is	.

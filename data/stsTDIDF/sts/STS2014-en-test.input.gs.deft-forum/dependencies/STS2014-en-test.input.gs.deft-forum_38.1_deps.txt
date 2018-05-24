@@ -1,0 +1,15 @@
+mark	asked	If
+nsubj	asked	you
+advcl	skewed	asked
+punct	skewed	,
+dep	skewed	conservatives
+punct	skewed	,
+det	numbers	the
+nsubj	skewed	numbers
+aux	skewed	will
+cop	skewed	be
+root	ROOT	skewed
+case	right	to
+det	right	the
+nmod:to	skewed	right
+punct	skewed	.

@@ -1,0 +1,6 @@
+compound	plunge	Passengers
+amod	Passengers	dead
+case	bus	in
+compound	bus	Italy
+nmod:in	dead	bus
+root	ROOT	plunge

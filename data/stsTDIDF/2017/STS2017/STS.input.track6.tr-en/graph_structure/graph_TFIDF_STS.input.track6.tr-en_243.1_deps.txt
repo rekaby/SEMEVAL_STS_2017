@@ -1,0 +1,10 @@
+ROOT	repelling	root
+climber	rock	compound
+climber	helmet	nmod:with
+helmet	white	amod
+helmet	a	det
+repelling	is	aux
+repelling	.	punct
+climber	A	det
+repelling	climber	nsubj
+helmet	with	case

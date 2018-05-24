@@ -1,0 +1,8 @@
+nsubj	charged	Shooter
+root	ROOT	charged
+case	murder	with
+nmod:with	charged	murder
+case	teen	of
+compound	teen	US
+amod	teen	black
+nmod:of	murder	teen

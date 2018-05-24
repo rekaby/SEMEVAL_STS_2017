@@ -1,0 +1,5 @@
+nsubj	defend	Saudis
+root	ROOT	defend
+nmod:poss	beheading	maid
+case	maid	's
+dobj	defend	beheading

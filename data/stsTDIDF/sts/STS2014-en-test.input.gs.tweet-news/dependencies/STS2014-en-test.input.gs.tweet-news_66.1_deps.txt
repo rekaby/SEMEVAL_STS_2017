@@ -1,0 +1,16 @@
+nsubj	read	This
+cop	read	is
+det	read	a
+advmod	amazing	pretty
+amod	read	amazing
+root	ROOT	read
+punct	read	.-7) compound(NYTimes-2, #howstuffworks
+root	ROOT	NYTimes
+punct	NYTimes	:
+dep	NYTimes	Coins
+punct	Coins	,
+conj:and	Coins	Bills
+cc	Coins	and
+det	Debt	the
+compound	Debt	National
+conj:and	Coins	Debt

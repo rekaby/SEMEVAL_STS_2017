@@ -1,0 +1,13 @@
+advmod	bulbs	again
+punct	bulbs	,
+root	ROOT	bulbs
+nsubjpass	contained	a
+cc	a	and
+conj:and	a	b
+aux	contained	will
+auxpass	contained	be
+acl:relcl	bulbs	contained
+case	path	on
+det	path	a
+amod	path	closed
+nmod:on	contained	path

@@ -1,0 +1,12 @@
+det	man	The
+nsubj	slipped	man
+case	hat	in
+det	hat	the
+amod	hat	gray
+nmod:in	man	hat
+aux	slipped	has
+root	ROOT	slipped
+case	ice	on
+det	ice	the
+nmod:on	slipped	ice
+punct	slipped	.

@@ -1,0 +1,8 @@
+root	ROOT	create
+mark	putting	by
+advcl	create	putting
+dobj	putting	components
+cc	components	or
+conj:or	components	members
+advmod	putting	together
+punct	create	.

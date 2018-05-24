@@ -1,0 +1,8 @@
+amod	element	heavy
+amod	element	radioactive
+amod	element	metallic
+root	ROOT	element
+punct	element	,
+amod	number	atomic
+appos	element	number
+nummod	number	92

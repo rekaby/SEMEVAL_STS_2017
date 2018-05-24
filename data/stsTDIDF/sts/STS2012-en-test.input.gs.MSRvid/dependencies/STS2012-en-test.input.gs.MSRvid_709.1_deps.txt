@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	dicing	woman
+aux	dicing	is
+root	ROOT	dicing
+det	potato	a
+dobj	dicing	potato
+punct	dicing	.

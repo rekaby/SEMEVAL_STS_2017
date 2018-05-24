@@ -1,0 +1,7 @@
+case	least	At
+nmod:npmod	12	least
+nummod	dead	12
+root	ROOT	dead
+case	Washington	in
+nmod:in	dead	Washington
+punct	dead	...

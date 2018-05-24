@@ -1,0 +1,10 @@
+det	woman	A
+nsubjpass	amused	woman
+cc	woman	and
+det	man	a
+conj:and	woman	man
+auxpass	amused	are
+root	ROOT	amused
+case	headphones	by
+nmod:agent	amused	headphones
+punct	amused	.

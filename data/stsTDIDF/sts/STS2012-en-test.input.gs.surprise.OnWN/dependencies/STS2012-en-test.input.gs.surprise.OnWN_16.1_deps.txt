@@ -1,0 +1,12 @@
+det	interpretation	an
+root	ROOT	interpretation
+punct	interpretation	,
+det	account	an
+appos	interpretation	account
+cc	account	or
+conj:or	account	reading
+case	event	of
+det	event	an
+nmod:of	account	event
+cc	event	or
+conj:or	event	situation

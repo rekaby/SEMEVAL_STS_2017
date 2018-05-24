@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	middle	woman
+cc	woman	and
+det	man	a
+conj:and	woman	man
+cop	middle	are
+case	middle	in
+det	middle	the
+root	ROOT	middle
+case	crowd	of
+det	crowd	the
+nmod:of	middle	crowd
+punct	middle	.

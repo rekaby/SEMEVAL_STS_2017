@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	young
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+dobj	putting	stickers
+advmod	putting	all
+case	face	over
+nmod:poss	face	her
+nmod:over	all	face
+punct	putting	.

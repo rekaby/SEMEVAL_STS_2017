@@ -1,0 +1,8 @@
+root	ROOT	Preparing
+det	group	a
+dobj	Preparing	group
+case	people	of
+nmod:of	group	people
+mark	swim	to
+acl	group	swim
+punct	Preparing	.

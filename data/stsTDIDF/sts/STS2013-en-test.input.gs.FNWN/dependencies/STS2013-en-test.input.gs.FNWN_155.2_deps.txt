@@ -1,0 +1,14 @@
+det	standard	a
+root	ROOT	standard
+case	which	against
+nmod:against	compared	which
+amod	conditions	other
+nsubjpass	compared	conditions
+aux	compared	can
+auxpass	compared	be
+acl:relcl	standard	compared
+case	experiment	in
+det	experiment	a
+amod	experiment	scientific
+nmod:in	compared	experiment
+punct	standard	;

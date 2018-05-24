@@ -1,0 +1,12 @@
+det	journey	a
+root	ROOT	journey
+case	purpose	for
+det	purpose	some
+nmod:for	journey	purpose
+punct	return	-LRB-
+advmod	return	usually
+case	return	including
+det	return	the
+appos	purpose	return
+punct	return	-RRB-
+punct	journey	.

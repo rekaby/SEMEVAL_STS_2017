@@ -1,0 +1,17 @@
+cc	disconcerting	But
+case	attitude	given
+det	attitude	the
+nmod:given	disconcerting	attitude
+case	operators	of
+amod	operators	mobile
+nmod:of	attitude	operators
+punct	disconcerting	,
+det	indifference	the
+nsubj	disconcerting	indifference
+case	regulators	of
+det	regulators	the
+compound	regulators	Czech
+nmod:of	indifference	regulators
+aux	disconcerting	is
+root	ROOT	disconcerting
+punct	disconcerting	.

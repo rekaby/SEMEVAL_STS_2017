@@ -1,0 +1,11 @@
+det	semblance	an
+amod	semblance	outward
+root	ROOT	semblance
+nsubj	misrepresents	that
+acl:relcl	semblance	misrepresents
+det	nature	the
+amod	nature	true
+dobj	misrepresents	nature
+case	something	of
+nmod:of	nature	something
+punct	semblance	.

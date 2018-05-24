@@ -1,0 +1,10 @@
+root	ROOT	Yes
+punct	bit	,
+mark	bit	although
+nsubj	bit	they
+aux	bit	can
+cop	bit	be
+det	bit	a
+parataxis	Yes	bit
+xcomp	bit	sour
+punct	bit	.

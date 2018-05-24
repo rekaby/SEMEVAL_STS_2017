@@ -1,0 +1,7 @@
+air	through	case
+Shave	.	punct
+air	plane	nmod:in
+ROOT	Shave	root
+Shave	air	nmod:through
+Shave	dog	dobj
+plane	in	case

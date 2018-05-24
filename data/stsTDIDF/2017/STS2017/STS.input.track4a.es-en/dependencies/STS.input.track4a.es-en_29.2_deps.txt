@@ -1,0 +1,13 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	bicycle	a
+amod	bicycle	blue
+nsubj	helmet	bicycle
+ccomp	riding	helmet
+compound:prt	helmet	down
+det	street	a
+amod	street	busy
+dobj	helmet	street
+punct	riding	.

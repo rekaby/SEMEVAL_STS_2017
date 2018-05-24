@@ -1,0 +1,17 @@
+case	hearing	At
+det	hearing	the
+nmod:at	pleaded	hearing
+nsubj	pleaded	he
+root	ROOT	pleaded
+neg	guilty	not
+xcomp	pleaded	guilty
+case	fraud	to
+det	fraud	the
+compound	fraud	burial
+compound	fraud	service
+nmod:to	guilty	fraud
+cc	fraud	and
+amod	charges	false
+compound	charges	statements
+conj:and	fraud	charges
+punct	pleaded	.

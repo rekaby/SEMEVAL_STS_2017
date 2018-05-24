@@ -1,0 +1,14 @@
+nummod	dogs	Three
+root	ROOT	dogs
+acl	dogs	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	dogs	,
+case	city	with
+det	city	a
+nmod:with	dogs	city
+case	background	in
+det	background	the
+nmod:in	city	background
+punct	dogs	.

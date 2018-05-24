@@ -1,0 +1,11 @@
+looks	telescope	nmod:through
+looks	night	nmod:during
+night	during	case
+telescope	through	case
+hat	glasses	conj:and
+man	hat	nmod:in
+are	stars	nsubj
+hat	and	cc
+telescope	a	det
+looks	man	nsubj
+hat	in	case

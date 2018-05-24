@@ -1,0 +1,5 @@
+fountain	water	compound
+sitting	man	nsubj
+fountain	in	case
+fountain	a	det
+sitting	fountain	nmod:in_front_of

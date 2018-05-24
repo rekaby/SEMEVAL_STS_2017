@@ -1,0 +1,6 @@
+nsubj	senators	lugar
+cc	lugar	and
+conj:and	lugar	nunn
+cop	senators	are
+root	ROOT	senators
+punct	senators	.

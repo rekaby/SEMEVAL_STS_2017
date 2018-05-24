@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+det	player	a
+compound	player	baseball
+nsubj	are	player
+acl	player	wearing
+det	color	a
+amod	color	white
+dobj	wearing	color
+punct	are	.

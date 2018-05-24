@@ -1,0 +1,4 @@
+person	homeless	amod
+takes	person	nsubj
+nap	a	det
+takes	nap	dobj

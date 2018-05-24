@@ -1,0 +1,12 @@
+nsubj	claims	Tycoon
+root	ROOT	claims
+dobj	claims	win
+case	Ukraine	in
+nmod:in	win	Ukraine
+cc	win	and
+conj:and	win	promises
+mark	seek	to
+xcomp	promises	seek
+dobj	seek	future
+case	EU	in
+nmod:in	seek	EU

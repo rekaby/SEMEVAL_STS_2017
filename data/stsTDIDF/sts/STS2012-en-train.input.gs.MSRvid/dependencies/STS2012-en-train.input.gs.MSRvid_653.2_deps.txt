@@ -1,0 +1,11 @@
+nummod	women	Two
+nsubj	sitting	women
+aux	sitting	are
+root	ROOT	sitting
+case	other	close
+mwe	close	to
+det	other	each
+nmod:close_to	sitting	other
+cc	other	and
+conj:and	other	talking
+punct	sitting	.

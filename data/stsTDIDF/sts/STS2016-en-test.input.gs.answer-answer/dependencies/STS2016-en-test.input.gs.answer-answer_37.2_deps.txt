@@ -1,0 +1,12 @@
+nummod	idea	One
+nsubj	cleaning	idea
+aux	cleaning	is
+root	ROOT	cleaning
+det	residue	the
+compound	residue	coffee
+dobj	cleaning	residue
+case	pot	from
+det	pot	the
+compound	pot	coffee
+nmod:from	cleaning	pot
+punct	cleaning	.

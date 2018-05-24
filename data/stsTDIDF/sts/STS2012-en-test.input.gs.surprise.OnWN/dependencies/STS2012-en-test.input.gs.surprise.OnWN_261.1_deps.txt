@@ -1,0 +1,6 @@
+root	ROOT	reduce
+case	compound	to
+det	compound	a
+amod	compound	simpler
+amod	compound	molecular
+nmod:to	reduce	compound

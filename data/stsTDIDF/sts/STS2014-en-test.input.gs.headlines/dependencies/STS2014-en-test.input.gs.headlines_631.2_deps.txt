@@ -1,0 +1,7 @@
+nsubj	told	Thousands
+root	ROOT	told
+mark	evacuate	to
+xcomp	told	evacuate
+case	Colorado	in
+nmod:in	evacuate	Colorado
+dobj	evacuate	flooding

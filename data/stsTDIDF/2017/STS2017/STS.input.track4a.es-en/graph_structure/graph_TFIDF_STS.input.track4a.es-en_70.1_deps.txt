@@ -1,0 +1,10 @@
+cowboy	and	cc
+cowboy	.	punct
+slip	his	nmod:poss
+mud	in	case
+mud	the	det
+cowboy	slip	conj:and
+cowboy	A	det
+slip	mud	nmod:in
+ROOT	cowboy	root
+slip	horse	compound

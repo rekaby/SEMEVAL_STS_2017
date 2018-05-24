@@ -1,0 +1,7 @@
+compound	Moves	EU
+root	ROOT	Moves
+amod	Moves	Closer
+case	Iran	to
+compound	Iran	New
+nmod:to	Closer	Iran
+dep	Moves	Sanctions

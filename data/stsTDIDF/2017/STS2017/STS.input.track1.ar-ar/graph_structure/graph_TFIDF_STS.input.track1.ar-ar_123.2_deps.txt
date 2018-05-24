@@ -1,0 +1,5 @@
+member	to	case
+speaks	Director	nsubj
+member	staff	nmod:of
+member	him	nmod:with
+speaks	member	nmod:to

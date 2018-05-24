@@ -1,0 +1,10 @@
+doing	trick	dobj
+ROOT	surrounded	root
+surrounded	man	nsubj
+surrounded	trees	nmod:by
+trees	by	case
+trick	bike	compound
+trick	jumping	amod
+man	doing	acl
+surrounded	.	punct
+trick	a	det

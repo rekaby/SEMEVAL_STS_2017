@@ -1,0 +1,12 @@
+traveling	is	aux
+traveling	.	punct
+tail	the	det
+dog	skinny	amod
+traveling	dog	nsubj
+field	through	case
+traveling	field	nmod:through
+dog	The	det
+tail	long	amod
+ROOT	traveling	root
+dog	tail	nmod:with
+tail	with	case

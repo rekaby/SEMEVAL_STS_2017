@@ -1,0 +1,9 @@
+compound	futures	US
+compound	futures	stock
+nsubj	edge	futures
+csubj	report	edge
+compound:prt	edge	up
+advmod	edge	ahead
+case	jobs	of
+nmod:of	ahead	jobs
+root	ROOT	report

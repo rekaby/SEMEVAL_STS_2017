@@ -1,0 +1,6 @@
+compound	Leaders	NATO
+nsubj	Commit	Leaders
+root	ROOT	Commit
+case	Afghanistan	to
+nmod:to	Commit	Afghanistan
+dobj	Commit	Transition

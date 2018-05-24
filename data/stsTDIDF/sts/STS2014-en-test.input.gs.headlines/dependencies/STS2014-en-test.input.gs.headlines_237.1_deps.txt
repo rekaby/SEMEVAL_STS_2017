@@ -1,0 +1,8 @@
+compound	Lanka	Sri
+nmod:poss	Vote	Lanka
+case	Lanka	's
+compound	Vote	Tamils
+root	ROOT	Vote
+case	Autonomy	for
+compound	Autonomy	Greater
+nmod:for	Vote	Autonomy

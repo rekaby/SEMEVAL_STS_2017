@@ -1,0 +1,9 @@
+det	skateboarder	A
+nsubj	makes	skateboarder
+root	ROOT	makes
+det	number	a
+dobj	makes	number
+case	ramp	on
+det	ramp	the
+nmod:on	number	ramp
+punct	makes	.

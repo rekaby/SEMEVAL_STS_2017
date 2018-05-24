@@ -1,0 +1,10 @@
+amod	room	Living
+root	ROOT	room
+case	furniture	with
+compound	furniture	tan
+nmod:with	room	furniture
+cc	furniture	and
+amod	television	flat
+compound	television	screen
+conj:and	furniture	television
+punct	room	.

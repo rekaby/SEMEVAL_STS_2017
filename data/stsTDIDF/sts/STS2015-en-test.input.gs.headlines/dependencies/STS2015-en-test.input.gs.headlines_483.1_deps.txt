@@ -1,0 +1,6 @@
+nsubj	visits	Queen
+root	ROOT	visits
+nmod:poss	prince	Britain
+case	Britain	's
+amod	prince	new
+dobj	visits	prince

@@ -1,0 +1,8 @@
+punct	construction	-LRB-
+root	ROOT	construction
+punct	construction	-RRB-
+det	layer	a
+dep	construction	layer
+case	masonry	of
+nmod:of	layer	masonry
+punct	construction	.

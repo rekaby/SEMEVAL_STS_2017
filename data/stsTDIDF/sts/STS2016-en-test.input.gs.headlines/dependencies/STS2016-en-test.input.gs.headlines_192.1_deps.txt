@@ -1,0 +1,9 @@
+root	ROOT	Libya
+punct	Libya	:
+compound	orders	UN
+compound	investigation	orders
+compound	abuses	investigation
+case	rights	into
+compound	rights	Libya
+nmod:into	investigation	rights
+dep	Libya	abuses

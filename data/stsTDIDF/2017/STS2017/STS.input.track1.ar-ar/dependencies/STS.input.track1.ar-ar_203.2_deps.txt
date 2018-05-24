@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	world	a
+nsubj	is	world
+acl	world	seen
+case	microscope	through
+det	microscope	a
+nmod:through	seen	microscope
+punct	is	.

@@ -1,0 +1,5 @@
+nummod	people	Ten
+root	ROOT	people
+acl	people	riding
+dobj	riding	ATVs
+punct	people	.

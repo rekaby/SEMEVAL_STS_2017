@@ -1,0 +1,11 @@
+mark	connected	because
+nsubjpass	connected	bulbs
+auxpass	connected	are
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	negative
+nmod:to	connected	terminal
+case	battery	of
+det	battery	the
+nmod:of	terminal	battery

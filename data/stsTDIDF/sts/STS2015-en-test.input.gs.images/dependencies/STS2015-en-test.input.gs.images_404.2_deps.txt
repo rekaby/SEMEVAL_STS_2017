@@ -1,0 +1,16 @@
+det	child	A
+amod	child	blond
+nsubj	laying	child
+aux	laying	is
+root	ROOT	laying
+case	branch	on
+det	branch	a
+nmod:on	laying	branch
+case	tree	of
+det	tree	a
+nmod:of	branch	tree
+case	field	in
+det	field	a
+amod	field	green
+nmod:in	branch	field
+punct	laying	.

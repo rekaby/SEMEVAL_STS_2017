@@ -1,0 +1,12 @@
+det	example	An
+nsubj	problem	example
+case	gain	of
+det	gain	this
+nmod:of	example	gain
+case	efficiency	in
+nmod:in	gain	efficiency
+cop	problem	is
+det	problem	a
+amod	problem	path-finding
+root	ROOT	problem
+punct	problem	.

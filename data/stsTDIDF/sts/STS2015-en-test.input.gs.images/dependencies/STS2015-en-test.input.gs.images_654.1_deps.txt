@@ -1,0 +1,12 @@
+det	group	A
+nsubj	firing	group
+case	people	of
+nmod:of	group	people
+aux	firing	are
+root	ROOT	firing
+case	balloon	up
+det	balloon	a
+amod	balloon	hot
+compound	balloon	air
+nmod:up	firing	balloon
+punct	firing	.

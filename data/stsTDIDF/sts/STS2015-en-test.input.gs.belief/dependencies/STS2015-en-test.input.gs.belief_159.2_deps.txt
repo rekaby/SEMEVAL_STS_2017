@@ -1,0 +1,16 @@
+nsubj	interested	i
+aux	interested	'll
+cop	interested	be
+root	ROOT	interested
+mark	read	to
+xcomp	interested	read
+det	particulars	the
+dobj	read	particulars
+case	study	of
+det	study	the
+nmod:of	particulars	study
+advmod	become	when
+nsubj	become	they
+advcl	read	become
+xcomp	become	available
+punct	interested	.

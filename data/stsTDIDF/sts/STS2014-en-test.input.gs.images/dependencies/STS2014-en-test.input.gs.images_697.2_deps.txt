@@ -1,0 +1,8 @@
+det	cow	The
+nsubj	grazing	cow
+cop	grazing	is
+root	ROOT	grazing
+case	field	in
+det	field	a
+nmod:in	grazing	field
+punct	grazing	.

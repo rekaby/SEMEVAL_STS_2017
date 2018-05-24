@@ -1,0 +1,4 @@
+boys	Three	nummod
+sailboat	a	det
+put	boys	nsubj
+put	sailboat	dobj

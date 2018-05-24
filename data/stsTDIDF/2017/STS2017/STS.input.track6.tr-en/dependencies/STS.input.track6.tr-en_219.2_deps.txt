@@ -1,0 +1,11 @@
+det	man	A
+nsubj	watching	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	watching	are
+root	ROOT	watching
+det	parade	a
+dobj	watching	parade
+case	home	at
+nmod:at	watching	home

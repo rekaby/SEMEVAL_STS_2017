@@ -1,0 +1,7 @@
+nsubj	hits	Explosion
+root	ROOT	hits
+dobj	hits	pipeline
+mark	attacks	as
+nsubj	attacks	Assad
+advcl	hits	attacks
+dobj	attacks	cities

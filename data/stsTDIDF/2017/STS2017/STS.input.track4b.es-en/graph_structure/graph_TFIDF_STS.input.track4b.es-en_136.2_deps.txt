@@ -1,0 +1,6 @@
+Obama	Mr.	compound
+getting	Israel	dobj
+getting	table	nmod:to
+role	getting	acl
+has	role	dobj
+has	Obama	nsubj

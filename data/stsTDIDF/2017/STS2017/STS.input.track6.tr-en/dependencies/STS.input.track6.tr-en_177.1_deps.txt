@@ -1,0 +1,15 @@
+det	lady	The
+amod	lady	sad
+nsubj	waiting	lady
+case	shirt	in
+det	shirt	the
+amod	shirt	blue
+nmod:in	lady	shirt
+aux	waiting	is
+root	ROOT	waiting
+mark	cross	to
+xcomp	waiting	cross
+det	street	the
+amod	street	busy
+dobj	cross	street
+punct	waiting	.

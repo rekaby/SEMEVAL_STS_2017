@@ -1,0 +1,5 @@
+shopping	group	nsubj
+ROOT	shopping	root
+shopping	.	punct
+shopping	are	aux
+group	friends	nmod:of

@@ -1,0 +1,16 @@
+det	dog	A
+compound	dog	tracking
+nsubj	sniffing	dog
+aux	sniffing	is
+root	ROOT	sniffing
+det	group	the
+dobj	sniffing	group
+acl	group	trying
+mark	find	to
+xcomp	trying	find
+det	scent	the
+dobj	find	scent
+case	criminal	of
+det	criminal	the
+nmod:of	scent	criminal
+punct	sniffing	.

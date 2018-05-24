@@ -1,0 +1,5 @@
+sitting	men	nsubj
+steps	dog	nmod:with
+steps	on	case
+sitting	steps	nmod:on
+dog	with	case

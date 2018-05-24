@@ -1,0 +1,16 @@
+nsubjpass	halted	Trading
+case	Loral	in
+nmod:in	Trading	Loral
+auxpass	halted	was
+root	ROOT	halted
+nmod:tmod	halted	yesterday
+punct	halted	;
+det	shares	the
+nsubj	closed	shares
+parataxis	halted	closed
+case	Monday	on
+nmod:on	closed	Monday
+case	$	at
+nmod:at	closed	$
+nummod	$	3.01
+punct	halted	.

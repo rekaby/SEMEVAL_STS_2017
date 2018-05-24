@@ -1,0 +1,9 @@
+nsubj	sitting	Approval
+case	report	of
+det	report	the
+amod	report	official
+nmod:of	Approval	report
+case	previous	of
+det	previous	the
+nmod:of	report	previous
+root	ROOT	sitting

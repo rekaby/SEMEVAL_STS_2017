@@ -1,0 +1,6 @@
+children	Six	nummod
+cleaning	room	dobj
+cleaning	children	nsubj
+cleaning	.	punct
+cleaning	are	aux
+ROOT	cleaning	root

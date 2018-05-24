@@ -1,0 +1,5 @@
+root	ROOT	incline
+case	position	from
+det	position	a
+amod	position	vertical
+nmod:from	incline	position

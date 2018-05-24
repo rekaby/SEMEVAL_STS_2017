@@ -1,0 +1,10 @@
+det	woman	A
+amod	woman	black
+nsubj	buying	woman
+aux	buying	is
+root	ROOT	buying
+dobj	buying	donuts
+case	store	at
+det	store	the
+nmod:at	buying	store
+punct	buying	.

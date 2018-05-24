@@ -1,0 +1,10 @@
+compound	City	Manchester
+nsubj	wins	City
+root	ROOT	wins
+amod	title	second
+compound	title	Premier
+compound	title	League
+dobj	wins	title
+case	years	in
+nummod	years	three
+nmod:in	wins	years

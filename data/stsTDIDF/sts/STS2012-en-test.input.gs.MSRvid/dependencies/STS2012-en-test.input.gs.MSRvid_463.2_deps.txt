@@ -1,0 +1,7 @@
+nsubj	eating	Kittens
+aux	eating	are
+root	ROOT	eating
+dobj	eating	food
+case	trays	on
+nmod:on	eating	trays
+punct	eating	.

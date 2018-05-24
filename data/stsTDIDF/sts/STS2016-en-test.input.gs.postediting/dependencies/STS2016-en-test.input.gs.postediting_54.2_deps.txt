@@ -1,0 +1,24 @@
+mark	ensure	To
+root	ROOT	ensure
+mark	know	that
+nsubj	know	it
+aux	know	does
+neg	know	not
+ccomp	ensure	know
+punct	ensure	,
+nummod	bills	five
+root	,	bills
+amod	bills	fictitious
+dep	fictitious	received
+case	Kft	of
+compound	Kft	society
+compound	Kft	Works
+compound	Kft	Team
+nmod:of	received	Kft
+punct	bills	.-18) aux(presented-3, have
+auxpass	presented	been
+root	ROOT	presented
+case	MRI	to
+det	MRI	the
+nmod:to	presented	MRI
+punct	presented	.

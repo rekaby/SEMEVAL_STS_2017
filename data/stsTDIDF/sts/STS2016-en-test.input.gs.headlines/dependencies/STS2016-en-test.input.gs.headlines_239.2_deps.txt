@@ -1,0 +1,8 @@
+compound	accident	Permalink
+case	Two	to
+nummod	accident	Two
+amod	accident	killed
+case	Germany	in
+nmod:in	killed	Germany
+compound	accident	train
+root	ROOT	accident

@@ -1,0 +1,9 @@
+case	least	At
+nmod:at	had	least
+nsubj	had	Mexico
+root	ROOT	had
+det	presence	a
+dobj	had	presence
+case	California	in
+nmod:in	presence	California
+punct	had	.

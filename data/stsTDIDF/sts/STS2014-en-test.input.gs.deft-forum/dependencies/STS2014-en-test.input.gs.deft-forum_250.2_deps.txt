@@ -1,0 +1,11 @@
+root	ROOT	Imagine
+det	place	a
+dobj	Imagine	place
+nsubj	black	that
+cop	black	's
+nmod:npmod	black	%
+amod	black	white
+cc	white	and
+conj:and	white	%
+acl:relcl	place	black
+punct	Imagine	.

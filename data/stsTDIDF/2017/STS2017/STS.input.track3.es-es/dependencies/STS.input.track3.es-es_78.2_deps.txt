@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	small
+nsubj	jumping	dog
+root	ROOT	jumping
+case	street	on
+det	street	the
+nmod:on	jumping	street
+punct	jumping	.

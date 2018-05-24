@@ -1,0 +1,14 @@
+det	scooter	The
+amod	scooter	red
+nsubj	sitting	scooter
+aux	sitting	is
+root	ROOT	sitting
+case	street	on
+det	street	the
+nmod:on	sitting	street
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	the
+nmod:in_front_of	sitting	building
+punct	sitting	.

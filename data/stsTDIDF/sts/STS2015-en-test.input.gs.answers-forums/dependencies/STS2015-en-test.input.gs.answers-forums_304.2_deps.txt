@@ -1,0 +1,17 @@
+expl	is	There
+root	ROOT	is
+det	problem	another
+nsubj	is	problem
+mark	applying	with
+acl	problem	applying
+amod	replays	instant
+dobj	applying	replays
+mark	interrupting	beyond
+advmod	interrupting	just
+advcl	applying	interrupting
+det	flow	the
+dobj	interrupting	flow
+case	game	of
+det	game	the
+nmod:of	flow	game
+punct	is	.

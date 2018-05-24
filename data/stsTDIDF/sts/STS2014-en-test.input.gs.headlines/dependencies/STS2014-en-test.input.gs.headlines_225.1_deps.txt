@@ -1,0 +1,6 @@
+nsubj	warns	US
+root	ROOT	warns
+dobj	warns	Syria
+case	weapons	on
+compound	weapons	chemical
+nmod:on	warns	weapons

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	singing	man
+aux	singing	is
+root	ROOT	singing
+case	microphone	into
+det	microphone	a
+nmod:into	singing	microphone
+punct	singing	.

@@ -1,0 +1,8 @@
+nmod:poss	Castro	Cuba
+case	Cuba	's
+nsubj	Take	Castro
+mark	Take	to
+root	ROOT	Take
+case	Presidency	Over
+compound	Presidency	CELAC
+nmod:over	Take	Presidency

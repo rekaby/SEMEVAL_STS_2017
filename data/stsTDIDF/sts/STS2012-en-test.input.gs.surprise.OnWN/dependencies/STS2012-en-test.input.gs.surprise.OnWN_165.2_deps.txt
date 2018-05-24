@@ -1,0 +1,6 @@
+det	chance	a
+amod	chance	single
+root	ROOT	chance
+cc	chance	or
+conj:or	chance	instance
+punct	chance	.

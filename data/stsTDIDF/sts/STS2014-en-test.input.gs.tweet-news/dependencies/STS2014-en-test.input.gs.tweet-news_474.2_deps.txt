@@ -1,0 +1,9 @@
+nsubj	enforce	Sheriff
+aux	enforce	wo
+neg	enforce	n't
+root	ROOT	enforce
+punct	laws	`
+amod	laws	unconstitutional
+punct	laws	'
+compound	laws	gun
+dobj	enforce	laws

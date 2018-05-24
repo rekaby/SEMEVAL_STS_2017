@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	stand	men
+root	ROOT	stand
+case	bicycles	with
+nmod:poss	bicycles	their
+nmod:with	stand	bicycles
+case	shop	outside
+det	shop	a
+nmod:outside	stand	shop
+punct	stand	.

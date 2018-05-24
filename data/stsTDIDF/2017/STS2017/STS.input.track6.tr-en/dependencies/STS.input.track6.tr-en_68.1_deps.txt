@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+acl	man	dressed
+mark	riding	as
+det	clown	a
+nsubj	riding	clown
+advcl	dressed	riding
+det	bicycle	a
+dobj	riding	bicycle
+case	race	in
+det	race	a
+nmod:in	dressed	race
+punct	man	.

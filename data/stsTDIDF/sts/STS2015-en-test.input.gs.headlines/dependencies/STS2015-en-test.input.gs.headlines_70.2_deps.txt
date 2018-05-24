@@ -1,0 +1,9 @@
+compound	issues	US
+nsubj	alert	issues
+amod	alert	global
+compound	alert	travel
+root	ROOT	alert
+punct	alert	,
+dep	alert	cites
+amod	threat	al-Qaida
+dobj	cites	threat

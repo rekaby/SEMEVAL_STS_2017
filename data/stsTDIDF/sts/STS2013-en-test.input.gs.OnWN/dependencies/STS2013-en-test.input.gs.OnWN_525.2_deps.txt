@@ -1,0 +1,14 @@
+root	ROOT	compete
+case	something	for
+nmod:for	compete	something
+punct	compete	;
+parataxis	compete	engage
+case	contest	in
+det	contest	a
+nmod:in	engage	contest
+punct	engage	;
+compound	oneself	measure
+dep	engage	oneself
+case	others	against
+nmod:against	oneself	others
+punct	compete	.

@@ -1,0 +1,13 @@
+det	television	A
+nsubj	room	television
+cc	television	and
+det	computer	a
+amod	computer	laptop
+conj:and	television	computer
+cop	room	are
+case	room	on
+case	room	in
+det	room	a
+compound	room	hotel
+root	ROOT	room
+punct	room	.

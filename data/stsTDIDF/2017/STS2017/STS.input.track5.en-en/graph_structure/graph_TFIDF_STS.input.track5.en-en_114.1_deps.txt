@@ -1,0 +1,5 @@
+line	race	nmod:of
+standing	guards	nsubj
+guards	Many	amod
+standing	line	nmod:in_front_of
+line	starting	amod

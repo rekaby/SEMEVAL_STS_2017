@@ -1,0 +1,7 @@
+expl	are	There
+root	ROOT	are
+nsubj	walking	men
+cc	men	and
+conj:and	men	women
+ccomp	are	walking
+punct	are	.

@@ -1,0 +1,8 @@
+det	people	The
+amod	people	religious
+nsubj	enjoying	people
+aux	enjoying	are
+root	ROOT	enjoying
+det	outdoors	the
+dobj	enjoying	outdoors
+punct	enjoying	.

@@ -1,0 +1,15 @@
+nsubj	expects	Kodak
+root	ROOT	expects
+dobj	expects	earnings
+case	cents	of
+nummod	cents	5
+nmod:of	earnings	cents
+case	cents	to
+nummod	cents	25
+nmod:to	expects	cents
+det	share	a
+nmod:npmod	cents	share
+case	quarter	in
+det	quarter	the
+nmod:in	expects	quarter
+punct	expects	.

@@ -1,0 +1,10 @@
+nsubj	leaves	Kranjcar
+root	ROOT	leaves
+dobj	leaves	it
+advmod	leaves	late
+mark	rescue	to
+xcomp	late	rescue
+dobj	rescue	QPR
+case	Stoke	against
+amod	Stoke	Moses-inspired
+nmod:against	QPR	Stoke

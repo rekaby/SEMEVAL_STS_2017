@@ -1,0 +1,15 @@
+nsubj	saved	i
+root	ROOT	saved
+compound:prt	saved	up
+case	it	for
+nmod:for	saved	it
+mark	knew	because
+nsubj	knew	i
+advcl	saved	knew
+nsubj	going	i
+aux	going	was
+ccomp	knew	going
+mark	need	to
+xcomp	going	need
+dobj	need	it
+punct	saved	.

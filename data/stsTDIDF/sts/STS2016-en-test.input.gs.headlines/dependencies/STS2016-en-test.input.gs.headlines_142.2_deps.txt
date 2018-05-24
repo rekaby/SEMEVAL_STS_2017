@@ -1,0 +1,8 @@
+amod	airstrikes	Saudi
+nsubj	kill	airstrikes
+case	capital	in
+nmod:poss	capital	Yemen
+case	Yemen	's
+nmod:in	airstrikes	capital
+root	ROOT	kill
+dobj	kill	29

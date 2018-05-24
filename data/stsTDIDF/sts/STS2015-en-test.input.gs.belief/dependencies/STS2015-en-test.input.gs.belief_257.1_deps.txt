@@ -1,0 +1,17 @@
+cc	business	but
+advmod	nature	when
+nsubj	nature	they
+cop	nature	are
+case	nature	of
+det	nature	a
+amod	nature	moral
+cc	moral	or
+conj:or	moral	religious
+dep	business	nature
+nsubj	business	it
+cop	business	's
+neg	business	not
+nmod:poss	business	government
+case	government	's
+root	ROOT	business
+punct	business	.

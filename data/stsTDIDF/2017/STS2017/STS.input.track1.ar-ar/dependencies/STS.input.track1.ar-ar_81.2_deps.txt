@@ -1,0 +1,12 @@
+det	man	A
+nsubj	crosses	man
+root	ROOT	crosses
+det	bridge	a
+dobj	crosses	bridge
+case	buildings	in
+mwe	in	front
+mwe	in	of
+det	buildings	a
+amod	buildings	deserted
+nmod:in_front_of	bridge	buildings
+punct	crosses	.

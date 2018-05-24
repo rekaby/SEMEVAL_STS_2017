@@ -1,0 +1,9 @@
+nsubj	think	We
+root	ROOT	think
+nsubj	have	they
+ccomp	think	have
+det	right	the
+dobj	have	right
+mark	choose	to
+acl	right	choose
+punct	think	.

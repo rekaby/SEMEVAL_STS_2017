@@ -1,0 +1,19 @@
+nsubj	signed	Cisco
+aux	signed	has
+root	ROOT	signed
+amod	deals	similar
+dobj	signed	deals
+case	Corp.	with
+compound	Corp.	AT&T
+nmod:with	deals	Corp.
+punct	signed	.-9) root(ROOT-0, T.N
+punct	T.N	,
+compound	Inc.	SBC
+compound	Inc.	Communications
+appos	T.N	Inc.
+punct	T.N	.-6) root(ROOT-0, SBC.N
+cc	SBC.N	and
+compound	Corp.	Sprint
+conj:and	SBC.N	Corp.
+punct	SBC.N	.-5) root(ROOT-0, FON.N
+punct	FON.N	.

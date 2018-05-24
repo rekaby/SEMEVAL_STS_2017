@@ -1,0 +1,11 @@
+det	men	The
+nsubj	getting	men
+acl	men	wearing
+xcomp	wearing	opposing
+dobj	opposing	jerseys
+aux	getting	are
+root	ROOT	getting
+case	fight	in
+det	fight	a
+compound	fight	fist
+nmod:in	getting	fight

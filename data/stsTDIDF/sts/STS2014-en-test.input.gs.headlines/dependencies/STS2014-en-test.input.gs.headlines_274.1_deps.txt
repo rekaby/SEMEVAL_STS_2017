@@ -1,0 +1,10 @@
+compound	Bezos	Jeff
+nsubj	Bets	Bezos
+root	ROOT	Bets
+dobj	Bets	$
+nummod	$	250
+dep	$	Million
+case	Post	on
+compound	Post	Reviving
+compound	Post	Washington
+nmod:on	$	Post

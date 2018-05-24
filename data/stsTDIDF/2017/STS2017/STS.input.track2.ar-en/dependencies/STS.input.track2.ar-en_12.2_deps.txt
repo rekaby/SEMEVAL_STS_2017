@@ -1,0 +1,6 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	carrying
+det	camera	a
+dobj	carrying	camera

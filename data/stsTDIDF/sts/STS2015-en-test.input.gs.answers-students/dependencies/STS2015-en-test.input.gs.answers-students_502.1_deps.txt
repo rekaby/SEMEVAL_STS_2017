@@ -1,0 +1,9 @@
+mark	connected	Because
+det	switch	the
+nsubjpass	connected	switch
+auxpass	connected	was
+root	ROOT	connected
+case	circuit	to
+det	circuit	the
+amod	circuit	closed
+nmod:to	connected	circuit

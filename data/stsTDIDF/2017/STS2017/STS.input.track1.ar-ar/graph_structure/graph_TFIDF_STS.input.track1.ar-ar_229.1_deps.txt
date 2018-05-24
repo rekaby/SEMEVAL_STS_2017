@@ -1,0 +1,5 @@
+attachment	fit	compound
+ROOT	attachment	root
+attachment	.	punct
+attachment	Factor	compound
+attachment	prop	amod

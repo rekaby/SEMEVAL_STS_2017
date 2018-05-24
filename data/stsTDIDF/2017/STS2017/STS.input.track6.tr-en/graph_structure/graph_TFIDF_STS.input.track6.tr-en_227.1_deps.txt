@@ -1,0 +1,11 @@
+chased	.	punct
+tunnel	toy	compound
+chased	dog	nmod:agent
+ROOT	chased	root
+chased	boy	nsubjpass
+chased	tunnel	nmod:through
+chased	is	aux
+dog	by	case
+tunnel	through	case
+chased	being	auxpass
+tunnel	a	det

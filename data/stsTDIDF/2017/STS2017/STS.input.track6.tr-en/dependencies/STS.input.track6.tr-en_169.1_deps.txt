@@ -1,0 +1,8 @@
+amod	attempts	Young
+compound	attempts	man
+root	ROOT	attempts
+mark	repair	to
+acl	attempts	repair
+compound	job	wiring
+dobj	repair	job
+punct	attempts	.

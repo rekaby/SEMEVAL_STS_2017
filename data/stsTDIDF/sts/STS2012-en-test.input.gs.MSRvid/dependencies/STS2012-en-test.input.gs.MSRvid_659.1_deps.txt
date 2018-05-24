@@ -1,0 +1,11 @@
+det	lady	An
+amod	lady	oriental
+nsubj	cutting	lady
+aux	cutting	is
+root	ROOT	cutting
+det	carrot	a
+dobj	cutting	carrot
+case	pieces	into
+amod	pieces	thin
+nmod:into	cutting	pieces
+punct	cutting	.

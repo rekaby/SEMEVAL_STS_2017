@@ -1,0 +1,9 @@
+det	group	A
+nsubj	get	group
+case	people	of
+nmod:of	group	people
+root	ROOT	get
+compound:prt	get	off
+det	train	a
+dobj	get	train
+punct	get	.

@@ -1,0 +1,5 @@
+cuts	man	nsubj
+ROOT	cuts	root
+melon	a	det
+cuts	melon	dobj
+cuts	.	punct

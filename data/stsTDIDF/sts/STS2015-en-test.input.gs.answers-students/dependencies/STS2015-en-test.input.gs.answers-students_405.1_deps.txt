@@ -1,0 +1,14 @@
+det	bulb	The
+nsubj	circuit	bulb
+cop	circuit	is
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+root	ROOT	circuit
+cc	circuit	and
+det	battery	the
+nsubj	exists	battery
+conj:and	circuit	exists
+case	circuit	in
+det	circuit	that
+nmod:in	exists	circuit

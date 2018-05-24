@@ -1,0 +1,8 @@
+compound	talks	Iran
+compound	talks	nuke
+nsubj	begin	talks
+root	ROOT	begin
+case	hopes	amid
+nmod:amid	begin	hopes
+case	progress	of
+nmod:of	hopes	progress

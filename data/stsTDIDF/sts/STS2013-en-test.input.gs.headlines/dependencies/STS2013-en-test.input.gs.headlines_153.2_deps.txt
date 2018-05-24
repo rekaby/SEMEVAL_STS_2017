@@ -1,0 +1,7 @@
+compound	boss	Barclays
+nsubj	falls	boss
+root	ROOT	falls
+case	rate	to
+nmod:to	falls	rate
+acl	rate	fixing
+dobj	fixing	scandal

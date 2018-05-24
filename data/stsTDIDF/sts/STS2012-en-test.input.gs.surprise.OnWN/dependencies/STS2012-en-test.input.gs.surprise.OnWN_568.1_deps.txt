@@ -1,0 +1,5 @@
+root	ROOT	Make
+dobj	Make	reference
+case	something	to
+nmod:to	reference	something
+punct	Make	.

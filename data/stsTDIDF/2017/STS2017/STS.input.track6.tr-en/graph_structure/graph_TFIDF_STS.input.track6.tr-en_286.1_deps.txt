@@ -1,0 +1,6 @@
+festival	dance	compound
+taking	pictures	dobj
+festival	a	det
+taking	man	nsubj
+taking	festival	nmod:at
+festival	at	case

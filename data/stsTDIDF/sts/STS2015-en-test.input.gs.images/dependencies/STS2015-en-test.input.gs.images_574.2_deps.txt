@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+nsubj	swimming	dog
+aux	swimming	is
+root	ROOT	swimming
+case	ball	with
+det	ball	a
+nmod:with	swimming	ball
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	swimming	mouth
+punct	swimming	.

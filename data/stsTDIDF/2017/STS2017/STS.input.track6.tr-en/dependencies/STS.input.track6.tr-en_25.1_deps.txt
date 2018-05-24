@@ -1,0 +1,8 @@
+det	cowboy	A
+nsubj	wrangle	cowboy
+aux	wrangle	does
+neg	wrangle	n't
+root	ROOT	wrangle
+det	calf	the
+dobj	wrangle	calf
+punct	wrangle	.

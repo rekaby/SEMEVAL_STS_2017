@@ -1,0 +1,8 @@
+compound	Protesters	Bulgaria
+compound	Protesters	President
+compound	Protesters	Backs
+root	ROOT	Protesters
+punct	Protesters	,
+appos	Protesters	Opposes
+acl	Opposes	Snap
+dobj	Snap	Elections

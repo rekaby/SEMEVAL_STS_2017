@@ -1,0 +1,10 @@
+root	ROOT	using
+nmod:poss	definition	your
+dobj	using	definition
+punct	was	-
+expl	was	there
+parataxis	using	was
+neg	bubble	no
+compound	bubble	housing
+nsubj	was	bubble
+punct	using	.

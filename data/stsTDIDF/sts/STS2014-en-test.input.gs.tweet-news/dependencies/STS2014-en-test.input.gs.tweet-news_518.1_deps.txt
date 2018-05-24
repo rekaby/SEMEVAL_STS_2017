@@ -1,0 +1,17 @@
+det	amount	The
+nsubj	overwhelming	amount
+case	organizations	of
+nmod:of	amount	organizations
+cc	organizations	and
+conj:and	organizations	clubs
+case	#college	at
+nmod:at	amount	#college
+cop	overwhelming	is
+root	ROOT	overwhelming
+punct	overwhelming	!-11) root(ROOT-0, Choose
+advmod	Choose	carefully
+mark	dedicating	before
+advcl	Choose	dedicating
+nmod:poss	time	your
+dobj	dedicating	time
+punct	Choose	:

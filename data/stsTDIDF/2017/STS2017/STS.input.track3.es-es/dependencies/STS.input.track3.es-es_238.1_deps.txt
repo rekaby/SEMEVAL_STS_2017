@@ -1,0 +1,14 @@
+det	man	A
+nsubj	holds	man
+case	pool	in
+det	pool	a
+compound	pool	swimming
+nmod:in	man	pool
+root	ROOT	holds
+det	child	a
+amod	child	smiling
+dobj	holds	child
+case	float	in
+det	float	a
+nmod:in	holds	float
+punct	holds	.

@@ -1,0 +1,7 @@
+compound	rocks	Car
+compound	rocks	bomb
+nsubj	stronghold	rocks
+compound	stronghold	Hezbollah
+root	ROOT	stronghold
+case	Lebanon	in
+nmod:in	stronghold	Lebanon

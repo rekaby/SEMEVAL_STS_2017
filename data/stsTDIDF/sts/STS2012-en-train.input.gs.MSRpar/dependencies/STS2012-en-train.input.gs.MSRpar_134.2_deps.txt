@@ -1,0 +1,10 @@
+nsubjpass	expected	Spitz
+auxpass	expected	is
+root	ROOT	expected
+mark	testify	to
+xcomp	expected	testify
+advmod	testify	later
+case	defense	for
+det	defense	the
+nmod:for	testify	defense
+punct	expected	.

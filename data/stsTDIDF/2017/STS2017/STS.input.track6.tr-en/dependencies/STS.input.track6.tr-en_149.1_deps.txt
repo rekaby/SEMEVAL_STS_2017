@@ -1,0 +1,8 @@
+det	dog	The
+amod	dog	big
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+det	ball	a
+dobj	chasing	ball
+punct	chasing	.

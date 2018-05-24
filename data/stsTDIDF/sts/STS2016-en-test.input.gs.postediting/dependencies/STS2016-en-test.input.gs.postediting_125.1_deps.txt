@@ -1,0 +1,17 @@
+compound	heads	Vodafone
+root	ROOT	heads
+case	attention	rather
+nmod:poss	attention	its
+nmod:rather	heads	attention
+case	performance	on
+det	performance	the
+nmod:on	attention	performance
+case	requests	of
+det	requests	the
+nmod:of	performance	requests
+case	licences	for
+nmod:poss	licences	its
+amod	licences	own
+compound	licences	3G
+nmod:for	requests	licences
+punct	heads	.

@@ -1,0 +1,5 @@
+nsubj	sell	Nissan
+mark	sell	to
+root	ROOT	sell
+amod	cars	steer-by-wire
+dobj	sell	cars

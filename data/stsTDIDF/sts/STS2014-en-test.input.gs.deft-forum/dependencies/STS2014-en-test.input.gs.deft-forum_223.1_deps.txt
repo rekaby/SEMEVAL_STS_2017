@@ -1,0 +1,10 @@
+nsubj	NOT	They
+cop	NOT	are
+root	ROOT	NOT
+case	sovereign	as
+nmod:as	NOT	sovereign
+mark	before	as
+nsubj	before	they
+cop	before	were
+advcl	NOT	before
+punct	NOT	.

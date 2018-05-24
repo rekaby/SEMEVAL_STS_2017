@@ -1,0 +1,16 @@
+det	man	A
+nsubj	jumping	man
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	over
+det	stream	a
+dobj	jumping	stream
+mark	meet	to
+advcl	jumping	meet
+nmod:poss	companion	his
+dobj	meet	companion
+case	side	on
+det	side	the
+amod	side	other
+nmod:on	meet	side
+punct	jumping	.

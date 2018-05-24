@@ -1,0 +1,10 @@
+advmod	overtaken	Later
+punct	overtaken	,
+det	Jones	the
+compound	Jones	Dow
+nsubj	overtaken	Jones
+cop	overtaken	was
+det	overtaken	a
+amod	overtaken	little
+root	ROOT	overtaken
+punct	overtaken	.

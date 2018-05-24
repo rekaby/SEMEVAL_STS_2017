@@ -1,0 +1,8 @@
+dep	ritually	perform
+punct	sacrament	-LRB-
+det	sacrament	a
+compound	sacrament	church
+dep	ritually	sacrament
+punct	sacrament	-RRB-
+root	ROOT	ritually
+punct	ritually	.

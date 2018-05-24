@@ -1,0 +1,9 @@
+compound	drone	U.S.
+nsubj	strikes	drone
+root	ROOT	strikes
+dobj	strikes	kill
+nummod	militants	16
+amod	militants	suspected
+dobj	kill	militants
+case	Yemen	in
+nmod:in	kill	Yemen

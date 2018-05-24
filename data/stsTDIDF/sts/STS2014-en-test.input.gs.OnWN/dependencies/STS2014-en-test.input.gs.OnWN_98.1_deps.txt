@@ -1,0 +1,7 @@
+root	ROOT	give
+compound:prt	give	away
+dobj	give	something
+nsubjpass	needed	that
+auxpass	needed	is
+neg	needed	not
+acl:relcl	something	needed

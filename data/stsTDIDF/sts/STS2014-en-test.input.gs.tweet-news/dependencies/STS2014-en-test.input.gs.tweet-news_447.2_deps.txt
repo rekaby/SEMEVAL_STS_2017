@@ -1,0 +1,10 @@
+nsubj	stole	Who
+root	ROOT	stole
+amod	relics	precious
+dobj	stole	relics
+case	church	from
+nmod:from	stole	church
+case	town	in
+compound	town	Missouri
+nmod:in	church	town
+punct	stole	?

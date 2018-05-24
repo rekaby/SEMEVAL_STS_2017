@@ -1,0 +1,8 @@
+det	man	The
+nsubj	swept	man
+root	ROOT	swept
+det	room	the
+amod	room	empty
+compound	room	living
+dobj	swept	room
+punct	swept	.

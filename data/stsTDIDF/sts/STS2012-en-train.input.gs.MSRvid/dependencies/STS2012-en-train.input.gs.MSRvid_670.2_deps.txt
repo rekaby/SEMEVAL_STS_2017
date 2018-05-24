@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	pushes	dog
+root	ROOT	pushes
+det	toddler	a
+dobj	pushes	toddler
+case	puddle	into
+det	puddle	a
+compound	puddle	rain
+nmod:into	pushes	puddle
+punct	pushes	.

@@ -1,0 +1,7 @@
+det	man	The
+nsubj	entered	man
+root	ROOT	entered
+det	shop	the
+compound	shop	bike
+dobj	entered	shop
+punct	entered	.

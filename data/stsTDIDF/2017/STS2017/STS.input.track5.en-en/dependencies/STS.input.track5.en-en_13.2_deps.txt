@@ -1,0 +1,7 @@
+det	man	A
+amod	man	young
+root	ROOT	man
+advmod	thought	deep
+case	thought	in
+nmod:in	man	thought
+punct	man	.

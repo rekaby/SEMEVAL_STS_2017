@@ -1,0 +1,6 @@
+sews	piece	dobj
+ROOT	sews	root
+sews	.	punct
+piece	the	det
+piece	torn	amod
+sews	Woman	nsubj

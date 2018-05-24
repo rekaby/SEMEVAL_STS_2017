@@ -1,0 +1,8 @@
+nsubj	time	This
+cop	time	is
+neg	time	no
+root	ROOT	time
+case	faint-hearted	for
+det	faint-hearted	the
+nmod:for	time	faint-hearted
+punct	time	.

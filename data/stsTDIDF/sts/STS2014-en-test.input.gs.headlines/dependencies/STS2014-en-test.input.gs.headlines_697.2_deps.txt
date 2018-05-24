@@ -1,0 +1,7 @@
+compound	candidate	S
+compound	candidate	Korea
+compound	candidate	opposition
+nsubj	closes	candidate
+root	ROOT	closes
+compound	gap	poll
+dobj	closes	gap

@@ -1,0 +1,7 @@
+nsubj	attack	Israelis
+root	ROOT	attack
+nummod	Palestinians	2
+dobj	attack	Palestinians
+case	area	in
+compound	area	Jerusalem
+nmod:in	attack	area

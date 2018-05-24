@@ -1,0 +1,10 @@
+root	ROOT	2
+dep	2	dead
+punct	dead	,
+root	,	8
+acl	8	injured
+case	accident	in
+amod	accident	central
+compound	accident	Israel
+compound	accident	traffic
+nmod:in	injured	accident

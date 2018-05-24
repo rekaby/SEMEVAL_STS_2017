@@ -1,0 +1,6 @@
+compound	shares	Singapore
+nsubj	open	shares
+root	ROOT	open
+advmod	open	higher
+case	Thursday	on
+nmod:on	open	Thursday

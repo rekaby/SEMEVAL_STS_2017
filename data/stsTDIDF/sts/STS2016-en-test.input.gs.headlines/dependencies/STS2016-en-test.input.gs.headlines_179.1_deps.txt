@@ -1,0 +1,5 @@
+nsubj	sues	Texas
+root	ROOT	sues
+case	refugees	over
+amod	refugees	Syrian
+nmod:over	sues	refugees

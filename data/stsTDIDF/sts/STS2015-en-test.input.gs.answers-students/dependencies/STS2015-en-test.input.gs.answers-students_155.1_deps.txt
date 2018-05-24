@@ -1,0 +1,11 @@
+mark	is	because
+expl	is	there
+root	ROOT	is
+neg	is	not
+det	circuit	a
+amod	circuit	closed
+nsubj	is	circuit
+advmod	circuit	anymore
+case	c	for
+compound	c	bulb
+nmod:for	circuit	c

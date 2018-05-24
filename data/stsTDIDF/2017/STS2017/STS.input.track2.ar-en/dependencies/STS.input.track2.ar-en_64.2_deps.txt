@@ -1,0 +1,5 @@
+nsubj	asks	Someone
+root	ROOT	asks
+case	guidance	for
+nmod:for	asks	guidance
+punct	asks	.

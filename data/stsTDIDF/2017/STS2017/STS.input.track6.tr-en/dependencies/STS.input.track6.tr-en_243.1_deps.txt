@@ -1,0 +1,10 @@
+det	climber	A
+compound	climber	rock
+nsubj	repelling	climber
+case	helmet	with
+det	helmet	a
+amod	helmet	white
+nmod:with	climber	helmet
+aux	repelling	is
+root	ROOT	repelling
+punct	repelling	.

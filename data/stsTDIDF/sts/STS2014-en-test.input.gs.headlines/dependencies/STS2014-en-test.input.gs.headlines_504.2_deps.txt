@@ -1,0 +1,10 @@
+amod	chief	Former
+compound	chief	plant
+nsubj	dies	chief
+nsubj	battled	who
+acl:relcl	chief	battled
+compound	disaster	Fukushima
+dobj	battled	disaster
+root	ROOT	dies
+case	cancer	of
+nmod:of	dies	cancer

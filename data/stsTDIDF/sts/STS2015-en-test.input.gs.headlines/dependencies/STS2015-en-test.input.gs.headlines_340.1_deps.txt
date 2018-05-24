@@ -1,0 +1,10 @@
+compound	Arabia	Saudi
+nsubj	gets	Arabia
+root	ROOT	gets
+det	seat	a
+dobj	gets	seat
+case	Council	at
+det	Council	the
+compound	Council	UN
+compound	Council	Security
+nmod:at	seat	Council

@@ -1,0 +1,4 @@
+holds	person	nsubj
+person	One	nummod
+photo	you	nmod:in_front_of
+holds	photo	dobj

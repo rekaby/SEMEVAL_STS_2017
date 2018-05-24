@@ -1,0 +1,12 @@
+nsubj	waits	Man
+root	ROOT	waits
+case	taxis	for
+nmod:for	waits	taxis
+mark	pass	to
+xcomp	waits	pass
+advmod	crossing	before
+advcl	pass	crossing
+det	road	the
+amod	road	wet
+dobj	crossing	road
+punct	waits	.

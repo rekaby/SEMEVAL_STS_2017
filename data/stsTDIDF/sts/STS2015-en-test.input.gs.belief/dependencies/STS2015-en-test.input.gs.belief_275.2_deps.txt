@@ -1,0 +1,13 @@
+neg	it	no
+nsubj	honest	it
+cop	honest	's
+advmod	honest	just
+mark	honest	that
+nsubj	honest	people
+case	you	like
+nmod:like	people	you
+aux	honest	ca
+neg	honest	n't
+cop	honest	be
+root	ROOT	honest
+punct	honest	.

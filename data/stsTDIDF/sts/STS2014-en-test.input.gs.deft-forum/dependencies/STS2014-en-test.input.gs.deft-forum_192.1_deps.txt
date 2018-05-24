@@ -1,0 +1,8 @@
+compound	gains	Capital
+root	ROOT	gains
+punct	gains	,
+amod	rate	top
+appos	gains	rate
+punct	gains	:
+dep	gains	percent
+punct	gains	.

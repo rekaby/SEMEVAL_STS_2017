@@ -1,0 +1,9 @@
+nmod:poss	person	World
+case	World	's
+amod	person	oldest
+nsubj	dies	person
+root	ROOT	dies
+case	Japan	in
+nmod:in	dies	Japan
+case	116	at
+nmod:at	dies	116

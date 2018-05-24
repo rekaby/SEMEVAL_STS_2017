@@ -1,0 +1,7 @@
+root	ROOT	Orchestra
+case	uniforms	in
+amod	uniforms	red
+cc	red	and
+conj:and	red	white
+nmod:in	Orchestra	uniforms
+punct	Orchestra	.

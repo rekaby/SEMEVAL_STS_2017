@@ -1,0 +1,9 @@
+det	vote	The
+nsubj	take	vote
+aux	take	will
+root	ROOT	take
+dobj	take	place
+nmod:tmod	take	today
+case	5.30	at
+nummod	p.m.	5.30
+nmod:tmod	take	p.m.

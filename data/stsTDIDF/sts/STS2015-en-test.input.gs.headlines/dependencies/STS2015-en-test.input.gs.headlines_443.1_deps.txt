@@ -1,0 +1,6 @@
+amod	Balloon	Hot-Air
+nsubj	Catches	Balloon
+root	ROOT	Catches
+dobj	Catches	Fire
+case	Virginia	in
+nmod:in	Catches	Virginia

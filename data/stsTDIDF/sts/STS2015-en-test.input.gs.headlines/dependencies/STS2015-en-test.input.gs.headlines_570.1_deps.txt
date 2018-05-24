@@ -1,0 +1,9 @@
+compound	illness	MERS
+amod	illness	respiratory
+nsubj	confirm	illness
+acl	illness	found
+case	U.S.	in
+nmod:in	found	U.S.
+punct	illness	,
+appos	illness	officials
+root	ROOT	confirm

@@ -1,0 +1,7 @@
+nsubj	has	Mexico
+root	ROOT	has
+compound	claim	ZERO
+dobj	has	claim
+case	California	to
+nmod:to	claim	California
+punct	has	.

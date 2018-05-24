@@ -1,0 +1,14 @@
+mark	damaged	If
+compound	B	bulb
+nsubjpass	damaged	B
+auxpass	damaged	is
+advcl	closed	damaged
+punct	closed	,
+advmod	closed	then
+det	circut	the
+nsubjpass	closed	circut
+auxpass	closed	is
+neg	longer	no
+advmod	closed	longer
+root	ROOT	closed
+punct	closed	.

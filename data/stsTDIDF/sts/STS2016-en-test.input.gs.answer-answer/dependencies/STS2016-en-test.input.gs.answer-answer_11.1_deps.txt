@@ -1,0 +1,12 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	want	on
+dobj	want	what
+nsubj	want	you
+advcl	depends	want
+mark	have	to
+xcomp	want	have
+case	tank	in
+nmod:poss	tank	your
+nmod:in	have	tank
+punct	depends	.

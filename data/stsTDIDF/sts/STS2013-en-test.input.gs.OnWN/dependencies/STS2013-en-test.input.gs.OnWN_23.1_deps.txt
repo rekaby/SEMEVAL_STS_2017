@@ -1,0 +1,8 @@
+root	ROOT	Cut
+mark	creating	into
+punct	creating	,
+advmod	creating	possibly
+advcl	Cut	creating
+dobj	creating	something
+amod	something	new
+punct	Cut	.

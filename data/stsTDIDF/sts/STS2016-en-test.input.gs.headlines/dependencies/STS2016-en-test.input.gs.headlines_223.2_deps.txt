@@ -1,0 +1,12 @@
+advmod	backs	Why
+nsubj	backs	Cyprus
+root	ROOT	backs
+nmod:poss	push	Cameron
+case	Cameron	's
+dobj	backs	push
+case	strikes	for
+compound	strikes	UK
+compound	strikes	air
+nmod:for	push	strikes
+case	Syria	in
+nmod:in	backs	Syria

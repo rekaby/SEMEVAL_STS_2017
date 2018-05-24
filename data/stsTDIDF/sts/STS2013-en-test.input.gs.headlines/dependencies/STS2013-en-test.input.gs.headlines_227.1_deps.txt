@@ -1,0 +1,6 @@
+amod	Clash	Lebanese
+compound	Clash	Gunmen
+nsubj	Crisis	Clash
+case	Syria	Over
+nmod:over	Clash	Syria
+root	ROOT	Crisis

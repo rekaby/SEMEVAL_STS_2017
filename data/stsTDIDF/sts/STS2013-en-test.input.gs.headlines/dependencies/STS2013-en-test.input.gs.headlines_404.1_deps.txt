@@ -1,0 +1,9 @@
+root	ROOT	Apple
+acl	Apple	buying
+compound	AuthenTec	security
+compound	AuthenTec	firm
+dobj	buying	AuthenTec
+case	$	for
+nmod:for	buying	$
+nummod	$	356
+nummod	$	million

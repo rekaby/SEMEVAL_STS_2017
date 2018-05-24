@@ -1,0 +1,13 @@
+root	ROOT	Men
+case	East	from
+det	East	the
+compound	East	Middle
+nmod:from	Men	East
+mark	attend	to
+acl	Men	attend
+det	fish	the
+dobj	attend	fish
+case	kitchen	in
+det	kitchen	the
+nmod:in	attend	kitchen
+punct	Men	.

@@ -1,0 +1,11 @@
+det	group	A
+nsubj	celebrating	group
+case	people	of
+nmod:of	group	people
+aux	celebrating	are
+root	ROOT	celebrating
+det	birthday	a
+dobj	celebrating	birthday
+case	partying	by
+nmod:by	celebrating	partying
+punct	celebrating	.

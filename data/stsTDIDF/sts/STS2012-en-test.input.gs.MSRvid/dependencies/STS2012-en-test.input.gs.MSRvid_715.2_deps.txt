@@ -1,0 +1,9 @@
+det	dog	The
+amod	dog	little
+nsubj	barked	dog
+root	ROOT	barked
+case	toy	at
+det	toy	the
+amod	toy	electronic
+nmod:at	barked	toy
+punct	barked	.

@@ -1,0 +1,6 @@
+det	instance	an
+root	ROOT	instance
+mark	halting	of
+acl	instance	halting
+det	motion	some
+dobj	halting	motion

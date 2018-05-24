@@ -1,0 +1,16 @@
+det	story	A
+advmod	written	really
+advmod	written	nicely
+amod	story	written
+root	ROOT	story
+punct	story	:
+case	Subways	In
+det	Subways	the
+nmod:in	story	Subways
+punct	Subways	,
+det	Voice	a
+appos	Subways	Voice
+mark	Stir	to
+acl	Voice	Stir
+det	Soul	the
+dobj	Stir	Soul

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	tournament	man
+cop	tournament	is
+case	tournament	in
+det	tournament	a
+compound	tournament	wrestling
+root	ROOT	tournament
+punct	tournament	.

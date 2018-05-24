@@ -1,0 +1,9 @@
+det	people	Some
+nsubj	playing	people
+case	military	in
+det	military	the
+nmod:in	people	military
+aux	playing	are
+root	ROOT	playing
+dobj	playing	ball
+punct	playing	.

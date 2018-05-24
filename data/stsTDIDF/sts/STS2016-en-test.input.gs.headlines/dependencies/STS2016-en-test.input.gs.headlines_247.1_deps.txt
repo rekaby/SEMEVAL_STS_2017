@@ -1,0 +1,7 @@
+compound	spokesman	Putin
+root	ROOT	spokesman
+punct	spokesman	:
+compound	charges	Doping
+nsubj	appear	charges
+dep	spokesman	appear
+xcomp	appear	unfounded

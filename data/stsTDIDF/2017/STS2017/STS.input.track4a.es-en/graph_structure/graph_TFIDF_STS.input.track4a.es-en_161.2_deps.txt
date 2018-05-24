@@ -1,0 +1,15 @@
+navigating	around	compound:prt
+car	rally	compound
+course	surrounded	acl
+car	A	det
+navigating	.	punct
+car	race	compound
+course	race	compound
+turn	course	nmod:on
+bails	hay	compound
+bails	by	case
+navigating	turn	dobj
+navigating	car	nsubj
+navigating	is	aux
+ROOT	navigating	root
+surrounded	bails	nmod:by

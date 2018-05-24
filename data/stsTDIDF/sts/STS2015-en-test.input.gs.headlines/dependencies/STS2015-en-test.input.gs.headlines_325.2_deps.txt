@@ -1,0 +1,7 @@
+compound	Rover	Curiosity
+nsubj	Celebrates	Rover
+root	ROOT	Celebrates
+nummod	Year	1
+dobj	Celebrates	Year
+case	Mars	on
+nmod:on	Celebrates	Mars

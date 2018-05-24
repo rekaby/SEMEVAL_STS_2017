@@ -1,0 +1,7 @@
+compound	futures	China
+compound	futures	treasury
+compound	futures	bond
+nsubj	mixed	futures
+amod	mixed	close
+root	ROOT	mixed
+nmod:tmod	mixed	Wednesday

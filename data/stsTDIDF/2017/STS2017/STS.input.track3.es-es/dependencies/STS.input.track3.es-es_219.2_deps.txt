@@ -1,0 +1,10 @@
+det	beagle	The
+root	ROOT	beagle
+case	woman	of
+det	woman	a
+nmod:of	beagle	woman
+acl	woman	having
+det	drink	a
+dobj	having	drink
+mark	walking	while
+advcl	having	walking

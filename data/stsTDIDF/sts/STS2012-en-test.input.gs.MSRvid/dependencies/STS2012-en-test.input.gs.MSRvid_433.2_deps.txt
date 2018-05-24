@@ -1,0 +1,8 @@
+det	dog	The
+nsubj	standing	dog
+aux	standing	is
+root	ROOT	standing
+case	counter	at
+det	counter	the
+nmod:at	standing	counter
+punct	standing	.

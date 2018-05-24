@@ -1,0 +1,8 @@
+nummod	clowns	Three
+root	ROOT	clowns
+case	costumes	in
+amod	costumes	bright
+punct	costumes	,
+amod	costumes	multi-colored
+nmod:in	clowns	costumes
+punct	clowns	.

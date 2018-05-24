@@ -1,0 +1,8 @@
+nsubj	playing	They
+aux	playing	are
+root	ROOT	playing
+case	set	with
+det	set	an
+amod	set	antique
+nmod:with	playing	set
+punct	playing	.

@@ -1,0 +1,10 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+expl	is	there
+ccomp	think	is
+det	term	any
+amod	term	universal
+nsubj	is	term
+punct	think	.

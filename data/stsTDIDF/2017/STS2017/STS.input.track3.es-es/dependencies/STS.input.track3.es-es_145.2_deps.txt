@@ -1,0 +1,11 @@
+compound	jogging	Man
+root	ROOT	jogging
+case	path	on
+det	path	a
+nmod:on	jogging	path
+punct	jogging	,
+case	forest	through
+det	forest	a
+amod	forest	large
+nmod:through	jogging	forest
+punct	jogging	.

@@ -1,0 +1,8 @@
+root	ROOT	Person
+acl	Person	dressed
+nmod	dressed	in
+dep	in	blue
+dep	blue	riding
+amod	horse	brown
+dobj	riding	horse
+punct	Person	.

@@ -1,0 +1,7 @@
+amod	prisoner	Palestinian
+root	ROOT	prisoner
+acl	prisoner	ending
+compound	strike	hunger
+dobj	ending	strike
+case	deal	after
+nmod:after	prisoner	deal

@@ -1,0 +1,6 @@
+det	competitor	a
+root	ROOT	competitor
+advmod	likely	most
+amod	competitor	likely
+mark	win	to
+xcomp	likely	win

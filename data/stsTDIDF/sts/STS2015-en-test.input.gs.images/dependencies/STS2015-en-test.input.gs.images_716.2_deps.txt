@@ -1,0 +1,11 @@
+det	rides	The
+compound	rides	skateboarder
+root	ROOT	rides
+det	wall	the
+compound	wall	pipe
+dep	rides	wall
+case	park	at
+det	park	a
+compound	park	skater
+nmod:at	wall	park
+punct	rides	.

@@ -1,0 +1,10 @@
+det	campaign	a
+amod	campaign	concerted
+root	ROOT	campaign
+mark	end	to
+acl	campaign	end
+dobj	end	something
+nsubj	injurious	that
+cop	injurious	is
+acl:relcl	something	injurious
+punct	campaign	.

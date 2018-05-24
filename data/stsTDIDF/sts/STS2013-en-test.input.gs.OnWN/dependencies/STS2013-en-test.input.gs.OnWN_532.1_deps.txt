@@ -1,0 +1,10 @@
+det	translation	the
+root	ROOT	translation
+case	opus	of
+det	opus	an
+nmod:of	translation	opus
+case	language	from
+nummod	language	one
+nmod:from	translation	language
+case	another	to
+nmod:to	translation	another

@@ -1,0 +1,10 @@
+det	bicycle	A
+compound	bicycle	silver
+nsubjpass	parked	bicycle
+auxpass	parked	is
+root	ROOT	parked
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	parked	room
+punct	parked	.

@@ -1,0 +1,12 @@
+root	ROOT	draw
+dobj	draw	air
+mark	expel	into
+punct	expel	,
+cc	expel	and
+advcl	draw	expel
+case	lungs	out
+mwe	out	of
+punct	lungs	,
+det	lungs	the
+nmod:out_of	expel	lungs
+punct	draw	.

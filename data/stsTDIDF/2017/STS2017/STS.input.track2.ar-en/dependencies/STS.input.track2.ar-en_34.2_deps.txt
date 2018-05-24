@@ -1,0 +1,13 @@
+nsubj	picks	Girl
+root	ROOT	picks
+compound:prt	picks	up
+det	image	the
+dobj	picks	image
+case	older	of
+det	older	an
+nmod:of	image	older
+case	garden	in
+det	garden	a
+amod	garden	wide
+nmod:in	older	garden
+dobj	picks	Girl

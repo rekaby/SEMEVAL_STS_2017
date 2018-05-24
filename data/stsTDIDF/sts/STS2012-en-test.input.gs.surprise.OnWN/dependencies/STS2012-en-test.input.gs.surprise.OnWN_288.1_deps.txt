@@ -1,0 +1,13 @@
+amod	material	Fine
+amod	material	powdery
+root	ROOT	material
+punct	material	;
+det	remains	the
+dep	material	remains
+case	something	of
+nmod:of	remains	something
+acl	something	destroyed
+cc	destroyed	or
+conj:or	destroyed	broken
+compound:prt	destroyed	up
+punct	material	.

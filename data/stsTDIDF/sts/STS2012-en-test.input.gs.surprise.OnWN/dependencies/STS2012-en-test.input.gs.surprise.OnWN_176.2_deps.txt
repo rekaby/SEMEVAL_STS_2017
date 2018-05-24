@@ -1,0 +1,10 @@
+det	quantity	a
+root	ROOT	quantity
+nsubj	great	that
+cop	great	is
+advmod	great	twice
+advmod	great	as
+acl:relcl	quantity	great
+case	another	as
+nmod:as	great	another
+punct	quantity	.

@@ -1,0 +1,10 @@
+nsubj	sit	Children
+root	ROOT	sit
+case	class	in
+nmod:in	sit	class
+cc	sit	and
+conj:and	sit	listen
+case	teachers	to
+nmod:poss	teachers	their
+nmod:to	listen	teachers
+punct	sit	.

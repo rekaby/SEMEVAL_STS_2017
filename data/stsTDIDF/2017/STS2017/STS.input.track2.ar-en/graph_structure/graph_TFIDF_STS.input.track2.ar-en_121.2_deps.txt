@@ -1,0 +1,7 @@
+dog	his	nmod:poss
+takes	man	nsubj
+break	dog	nmod:with
+takes	break	dobj
+park	public	amod
+takes	park	nmod:in
+dog	with	case

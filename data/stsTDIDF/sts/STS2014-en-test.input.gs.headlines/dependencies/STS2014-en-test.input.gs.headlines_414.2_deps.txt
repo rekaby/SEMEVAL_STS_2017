@@ -1,0 +1,7 @@
+nsubj	reported	Dozens
+root	ROOT	reported
+amod	riot	killed
+case	prison	in
+compound	prison	Venezuela
+nmod:in	killed	prison
+dobj	reported	riot

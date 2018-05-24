@@ -1,0 +1,15 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+cc	shirt	and
+amod	jeans	blue
+conj:and	shirt	jeans
+acl	shirt	teaching
+case	school	in
+det	school	a
+amod	school	wooden
+nmod:in	teaching	school
+punct	man	.

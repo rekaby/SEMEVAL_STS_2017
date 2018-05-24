@@ -1,0 +1,17 @@
+nummod	photographers	Three
+nsubj	taking	photographers
+root	ROOT	taking
+det	picture	a
+dobj	taking	picture
+case	skater	of
+det	skater	a
+nmod:of	picture	skater
+acl	skater	doing
+det	trick	a
+dobj	doing	trick
+case	one	on
+nmod:on	doing	one
+case	photographers	of
+det	photographers	the
+nmod:of	one	photographers
+punct	taking	.

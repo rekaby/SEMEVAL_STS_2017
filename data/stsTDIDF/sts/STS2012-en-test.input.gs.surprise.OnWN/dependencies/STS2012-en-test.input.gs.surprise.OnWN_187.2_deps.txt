@@ -1,0 +1,7 @@
+cop	aware	be
+advmod	aware	fully
+root	ROOT	aware
+cc	aware	or
+conj:or	aware	cognizant
+nmod	cognizant	of
+punct	aware	.

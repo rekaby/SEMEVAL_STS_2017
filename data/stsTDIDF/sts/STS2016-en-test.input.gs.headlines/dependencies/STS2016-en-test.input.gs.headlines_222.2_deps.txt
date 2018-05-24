@@ -1,0 +1,7 @@
+nsubj	says	UK
+root	ROOT	says
+xcomp	says	investigating
+nummod	cases	2
+amod	cases	suspected
+compound	cases	MERS
+dobj	investigating	cases

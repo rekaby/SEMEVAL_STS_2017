@@ -1,0 +1,9 @@
+root	ROOT	announce
+det	termination	the
+dobj	announce	termination
+case	treaties	of
+punct	treaties	,
+case	treaties	as
+mwe	as	of
+nmod:as_of	termination	treaties
+punct	announce	.

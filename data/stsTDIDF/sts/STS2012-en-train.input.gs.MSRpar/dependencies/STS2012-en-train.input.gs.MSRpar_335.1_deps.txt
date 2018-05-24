@@ -1,0 +1,13 @@
+nsubj	locked	Albertsons
+cc	Albertsons	and
+nmod:poss	chain	Kroger
+case	Kroger	's
+compound	chain	Ralphs
+conj:and	Albertsons	chain
+root	ROOT	locked
+compound:prt	locked	out
+nmod:poss	workers	their
+dobj	locked	workers
+case	response	in
+nmod:in	locked	response
+punct	locked	.

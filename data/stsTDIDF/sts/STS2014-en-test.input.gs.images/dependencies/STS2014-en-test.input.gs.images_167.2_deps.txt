@@ -1,0 +1,7 @@
+nummod	women	Two
+amod	women	smiling
+nsubj	holding	women
+root	ROOT	holding
+det	baby	a
+dobj	holding	baby
+punct	holding	.

@@ -1,0 +1,6 @@
+dancing	beach	nmod:on
+beach	sandy	amod
+ROOT	dancing	root
+dancing	.	punct
+dancing	A	det
+dancing	girl	compound

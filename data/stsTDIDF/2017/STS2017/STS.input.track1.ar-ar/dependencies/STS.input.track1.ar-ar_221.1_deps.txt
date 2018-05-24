@@ -1,0 +1,8 @@
+nummod	girls	Three
+nsubj	Balhqublh	girls
+compound	Balhqublh	Icomn
+root	ROOT	Balhqublh
+case	beach	on
+det	beach	the
+nmod:on	Balhqublh	beach
+punct	Balhqublh	.

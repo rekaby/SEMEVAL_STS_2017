@@ -1,0 +1,15 @@
+root	ROOT	``
+nsubj	Increasing	France
+aux	Increasing	Is
+root	``	Increasing
+dobj	Increasing	Security
+case	Sites	at
+nmod:at	Security	Sites
+case	#Niger	in
+nmod:in	Security	#Niger
+cc	Increasing	and
+case	Home	at
+conj:and	Increasing	Home
+punct	Increasing	.
+punct	Increasing	''-14) compound(#Mali-2, #Uranium
+root	ROOT	#Mali

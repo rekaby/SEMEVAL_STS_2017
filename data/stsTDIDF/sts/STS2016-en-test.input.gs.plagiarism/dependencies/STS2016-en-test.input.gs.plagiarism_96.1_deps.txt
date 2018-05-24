@@ -1,0 +1,12 @@
+nsubj	method	Inheritance
+cop	method	is
+det	method	a
+root	ROOT	method
+mark	forming	of
+acl	method	forming
+amod	classes	new
+dobj	forming	classes
+advcl	forming	using
+amod	classes	predefined
+dobj	using	classes
+punct	method	.

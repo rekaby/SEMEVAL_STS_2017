@@ -1,0 +1,14 @@
+advmod	Go	Where
+mark	Go	to
+root	ROOT	Go
+case	2013	in
+nmod:in	Go	2013
+nmod	Go	by
+punct	Go	!-7) root(ROOT-0, offers
+amod	explorations	insightful
+dobj	offers	explorations
+case	most	to
+nmod:to	offers	most
+case	these	of
+nmod:of	most	these
+punct	offers	!

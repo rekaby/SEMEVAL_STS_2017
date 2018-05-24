@@ -1,0 +1,6 @@
+advmod	places	so
+amod	places	many
+root	ROOT	places
+mark	go	to
+acl	places	go
+punct	places	...

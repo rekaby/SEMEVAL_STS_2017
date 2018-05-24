@@ -1,0 +1,8 @@
+advmod	live	where
+nsubj	live	you
+root	ROOT	live
+case	time	at
+det	time	a
+amod	time	particular
+nmod:at	live	time
+punct	live	.

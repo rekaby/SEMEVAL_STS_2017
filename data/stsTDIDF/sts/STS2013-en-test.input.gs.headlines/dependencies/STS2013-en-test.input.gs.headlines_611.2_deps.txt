@@ -1,0 +1,8 @@
+nsubj	seek	Investigators
+root	ROOT	seek
+dobj	seek	answers
+case	death	to
+compound	Houston	Whitney
+nmod:poss	death	Houston
+case	Houston	's
+nmod:to	answers	death

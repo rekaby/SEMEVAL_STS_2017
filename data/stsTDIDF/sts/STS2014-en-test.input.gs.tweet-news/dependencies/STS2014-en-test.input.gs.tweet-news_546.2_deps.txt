@@ -1,0 +1,6 @@
+root	ROOT	Challenges
+mark	woman	of
+cop	woman	being
+acl	Challenges	woman
+case	India	in
+nmod:in	woman	India

@@ -1,0 +1,6 @@
+nummod	birds	Two
+root	ROOT	birds
+acl	birds	interacting
+case	grass	in
+det	grass	the
+nmod:in	interacting	grass

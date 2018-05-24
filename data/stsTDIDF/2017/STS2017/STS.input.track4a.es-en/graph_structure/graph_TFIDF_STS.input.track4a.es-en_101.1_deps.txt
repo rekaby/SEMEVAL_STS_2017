@@ -1,0 +1,13 @@
+brown	and	cc
+looking	standing	nsubj
+river	of	case
+standing	brown	amod
+master	his	nmod:poss
+standing	dog	compound
+standing	bank	nmod:on
+standing	A	det
+looking	master	nmod:at
+bank	river	nmod:of
+bank	on	case
+master	at	case
+brown	white	conj:and

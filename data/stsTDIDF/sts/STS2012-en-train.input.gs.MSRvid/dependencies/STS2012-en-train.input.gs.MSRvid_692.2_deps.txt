@@ -1,0 +1,6 @@
+det	man	A
+nsubj	cracks	man
+root	ROOT	cracks
+det	egg	an
+dobj	cracks	egg
+punct	cracks	.

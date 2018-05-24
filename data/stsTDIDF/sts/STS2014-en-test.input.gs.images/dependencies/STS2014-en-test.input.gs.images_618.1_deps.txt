@@ -1,0 +1,8 @@
+amod	standing	Long-haired
+amod	standing	black
+compound	standing	dog
+root	ROOT	standing
+case	field	in
+amod	field	grassy
+nmod:in	standing	field
+punct	standing	.

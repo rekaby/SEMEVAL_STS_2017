@@ -1,0 +1,13 @@
+rank	in	case
+kicks	board	dobj
+student	arts	compound
+advance	rank	nmod:in
+ROOT	kicks	root
+kicks	student	nsubj
+advance	to	case
+kicks	advance	nmod:to
+student	A	det
+kicks	.	punct
+board	wooden	amod
+student	martial	amod
+rank	his	nmod:poss

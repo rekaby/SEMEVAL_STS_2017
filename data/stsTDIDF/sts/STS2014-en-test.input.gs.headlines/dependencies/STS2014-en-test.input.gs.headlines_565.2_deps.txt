@@ -1,0 +1,10 @@
+compound	unrest	Turkey
+root	ROOT	unrest
+punct	unrest	:
+nsubj	call	Unions
+dep	unrest	call
+case	strike	for
+nmod:for	call	strike
+case	crackdown	over
+compound	crackdown	police
+nmod:over	strike	crackdown

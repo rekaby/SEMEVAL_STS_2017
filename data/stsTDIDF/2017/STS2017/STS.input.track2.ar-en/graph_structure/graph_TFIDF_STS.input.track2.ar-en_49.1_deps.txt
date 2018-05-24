@@ -1,0 +1,17 @@
+button	white	amod
+button	shirts	nmod:down
+shirts	down	case
+button	shirts	compound
+hats	white	amod
+scarves	blue	amod
+tied	around	compound:prt
+shirts	,	punct
+shirts	scarves	nmod:with
+tied	necks	dobj
+men	dressed	acl
+button	in	case
+scarves	tied	acl
+shirts	hats	conj
+scarves	with	case
+necks	their	nmod:poss
+dressed	button	nmod:in

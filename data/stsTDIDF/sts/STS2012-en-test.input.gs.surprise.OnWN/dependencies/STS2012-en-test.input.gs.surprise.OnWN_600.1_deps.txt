@@ -1,0 +1,12 @@
+root	ROOT	Doubt
+cc	Doubt	or
+det	impression	an
+conj:or	Doubt	impression
+mark	case	that
+nsubj	case	something
+aux	case	might
+neg	case	not
+cop	case	be
+det	case	the
+ccomp	impression	case
+punct	Doubt	.

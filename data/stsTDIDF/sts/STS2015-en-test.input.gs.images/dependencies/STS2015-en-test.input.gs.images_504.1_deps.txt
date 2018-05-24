@@ -1,0 +1,15 @@
+det	man	A
+nsubj	hitting	man
+case	red	in
+nmod:in	man	red
+cc	red	and
+conj:and	red	black
+aux	hitting	is
+root	ROOT	hitting
+det	ball	a
+compound	ball	soccer
+dobj	hitting	ball
+case	head	with
+nmod:poss	head	his
+nmod:with	hitting	head
+punct	hitting	.

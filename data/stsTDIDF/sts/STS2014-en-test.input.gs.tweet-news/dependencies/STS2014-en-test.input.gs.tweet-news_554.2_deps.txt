@@ -1,0 +1,8 @@
+compound	Unbowed	Texas
+compound	Unbowed	Secession
+compound	Unbowed	Movement
+root	ROOT	Unbowed
+case	Rejection	by
+compound	Rejection	White
+compound	Rejection	House
+nmod:by	Unbowed	Rejection

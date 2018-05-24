@@ -1,0 +1,12 @@
+det	bird	A
+amod	bird	small
+nsubj	standing	bird
+root	ROOT	standing
+case	log	on
+det	log	a
+nmod:on	standing	log
+case	edge	at
+det	edge	the
+compound	edge	waters
+nmod:at	log	edge
+punct	standing	.

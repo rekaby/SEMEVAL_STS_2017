@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+dobj	putting	oil
+case	skillet	into
+det	skillet	a
+nmod:into	putting	skillet
+punct	putting	.

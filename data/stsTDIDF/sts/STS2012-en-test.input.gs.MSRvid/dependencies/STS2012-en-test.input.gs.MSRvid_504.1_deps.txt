@@ -1,0 +1,14 @@
+det	girl	The
+amod	girl	little
+nsubj	played	girl
+root	ROOT	played
+case	grass	on
+det	grass	the
+nmod:on	played	grass
+case	dog	with
+det	dog	a
+nmod:with	played	dog
+cc	dog	and
+det	ball	a
+conj:and	dog	ball
+punct	played	.

@@ -1,0 +1,17 @@
+root	ROOT	SPORT
+punct	SPORT	:
+compound	Armstrong	MT
+compound	Armstrong	Lance
+nsubj	confesses	Armstrong
+dep	SPORT	confesses
+case	doping	to
+nmod:to	confesses	doping
+punct	SPORT	.-9) amod(step-2, Next
+root	ROOT	step
+punct	step	?-3) root(ROOT-0, Testifying
+case	higher-ups	against
+det	higher-ups	the
+nmod:against	Testifying	higher-ups
+case	cycling	in
+nmod:in	higher-ups	cycling
+punct	Testifying	.

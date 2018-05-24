@@ -1,0 +1,14 @@
+det	sweater	A
+amod	sweater	blue
+root	ROOT	sweater
+punct	sweater	,
+acl	sweater	working
+case	rock	on
+det	rock	a
+amod	rock	large
+nmod:on	working	rock
+acl	rock	supported
+case	planks	by
+amod	planks	wooden
+nmod:by	supported	planks
+punct	sweater	.

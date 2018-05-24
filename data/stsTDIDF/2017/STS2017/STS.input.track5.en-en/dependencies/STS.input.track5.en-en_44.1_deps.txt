@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	playing
+det	violin	the
+dobj	playing	violin
+case	rain	in
+det	rain	the
+nmod:in	playing	rain
+punct	man	.

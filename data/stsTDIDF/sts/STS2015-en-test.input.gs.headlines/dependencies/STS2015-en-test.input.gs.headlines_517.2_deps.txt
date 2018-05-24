@@ -1,0 +1,8 @@
+compound	bombings	Car
+nsubj	kill	bombings
+root	ROOT	kill
+nummod	civilians	13
+dobj	kill	civilians
+case	capital	in
+amod	capital	Iraqi
+nmod:in	kill	capital

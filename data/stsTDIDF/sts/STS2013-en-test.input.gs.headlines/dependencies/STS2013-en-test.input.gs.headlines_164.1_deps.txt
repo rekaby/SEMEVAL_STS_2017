@@ -1,0 +1,9 @@
+nsubj	endorsing	Russia
+punct	Russia	,
+compound	resolution	China
+compound	resolution	veto
+compound	resolution	UN
+appos	Russia	resolution
+case	Syria	on
+nmod:on	resolution	Syria
+root	ROOT	endorsing

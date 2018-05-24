@@ -1,0 +1,8 @@
+nmod:poss	Brotherhood	Egypt
+case	Egypt	's
+amod	Brotherhood	Muslim
+nsubj	Set	Brotherhood
+root	ROOT	Set
+case	March	for
+amod	March	Mass
+nmod:for	Set	March

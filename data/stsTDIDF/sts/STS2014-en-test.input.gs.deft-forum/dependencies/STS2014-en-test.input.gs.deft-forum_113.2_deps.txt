@@ -1,0 +1,7 @@
+root	ROOT	Is
+neg	that	n't
+nsubj	Is	that
+dep	that	redundant
+cc	redundant	and
+conj:and	redundant	repetetive
+punct	Is	?

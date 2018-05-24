@@ -1,0 +1,7 @@
+root	ROOT	incorporate
+cc	incorporate	or
+conj:or	incorporate	enclose
+nummod	thing	one
+dobj	incorporate	thing
+case	another	in
+nmod:in	incorporate	another

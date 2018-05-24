@@ -1,0 +1,8 @@
+compound	Morsi	Mohamed
+root	ROOT	Morsi
+acl	Morsi	sworn
+case	President	in
+case	President	as
+nmod:poss	President	Egypt
+case	Egypt	's
+nmod:as	sworn	President

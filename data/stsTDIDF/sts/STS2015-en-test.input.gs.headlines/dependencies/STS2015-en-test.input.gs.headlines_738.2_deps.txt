@@ -1,0 +1,7 @@
+nsubj	clears	Starbucks
+root	ROOT	clears
+compound	path	college
+compound	path	degree
+dobj	clears	path
+case	workers	for
+nmod:for	clears	workers

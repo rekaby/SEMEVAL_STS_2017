@@ -1,0 +1,11 @@
+det	man	A
+nsubj	holds	man
+root	ROOT	holds
+mark	handle	on
+mark	handle	to
+det	handle	a
+advcl	holds	handle
+case	water	in
+det	water	the
+nmod:in	handle	water
+punct	holds	.

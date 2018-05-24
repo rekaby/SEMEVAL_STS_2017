@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	using	woman
+aux	using	is
+root	ROOT	using
+det	net	a
+compound	net	fishing
+dobj	using	net
+case	river	in
+det	river	the
+nmod:in	using	river
+punct	using	.

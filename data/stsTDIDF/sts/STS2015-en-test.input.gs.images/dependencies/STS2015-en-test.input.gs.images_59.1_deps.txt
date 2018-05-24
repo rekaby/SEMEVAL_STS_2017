@@ -1,0 +1,17 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	garden	in
+det	garden	a
+amod	garden	grassy
+nmod:in	running	garden
+acl	garden	surrounded
+case	fence	by
+det	fence	a
+amod	fence	white
+nmod:by	surrounded	fence
+punct	running	.

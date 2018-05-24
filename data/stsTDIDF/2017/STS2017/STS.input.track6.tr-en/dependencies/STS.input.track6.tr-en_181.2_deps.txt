@@ -1,0 +1,14 @@
+nsubj	kid	It
+cop	kid	's
+det	kid	a
+root	ROOT	kid
+nsubj	holding	who
+aux	holding	's
+acl:relcl	kid	holding
+case	tail	onto
+det	crocodile	a
+amod	crocodile	fake
+nmod:poss	tail	crocodile
+case	crocodile	's
+nmod:onto	holding	tail
+punct	kid	.

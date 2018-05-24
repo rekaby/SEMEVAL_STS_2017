@@ -1,0 +1,13 @@
+det	man	An
+amod	man	old
+root	ROOT	man
+case	coat	in
+det	coat	a
+amod	coat	black
+compound	coat	trench
+nmod:in	man	coat
+amod	coat	standing
+case	marketplace	in
+det	marketplace	a
+nmod:in	standing	marketplace
+punct	man	.

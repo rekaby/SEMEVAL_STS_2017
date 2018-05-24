@@ -1,0 +1,14 @@
+compound	Globes	Golden
+root	ROOT	Globes
+punct	Globes	:
+advmod	do	How
+aux	do	did
+compound	Fey	Tina
+nsubj	do	Fey
+cc	Fey	and
+compound	Poehler	Amy
+conj:and	Fey	Poehler
+dep	Globes	do
+case	hosts	as
+nmod:as	do	hosts
+punct	Globes	?

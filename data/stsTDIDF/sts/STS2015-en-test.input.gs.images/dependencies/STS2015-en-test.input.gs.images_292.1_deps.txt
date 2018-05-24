@@ -1,0 +1,12 @@
+det	man	The
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	top	at
+det	top	the
+nmod:at	sitting	top
+case	mountain	of
+det	mountain	a
+amod	mountain	rocky
+nmod:of	top	mountain
+punct	sitting	.

@@ -1,0 +1,17 @@
+det	answer	The
+nsubj	lies	answer
+root	ROOT	lies
+case	support	in
+det	support	the
+nmod:in	lies	support
+mark	generate	that
+det	activists	the
+amod	activists	Indonesian
+compound	activists	democrats
+nsubj	generate	activists
+aux	generate	will
+ccomp	support	generate
+dobj	generate	national
+cc	national	and
+conj:and	national	internationally
+punct	lies	.

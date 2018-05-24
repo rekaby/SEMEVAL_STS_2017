@@ -1,0 +1,8 @@
+time	story	compound
+enjoying	time	dobj
+enjoying	are	aux
+ROOT	enjoying	root
+enjoying	.	punct
+enjoying	group	nsubj
+children	school	compound
+group	children	nmod:of

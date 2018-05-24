@@ -1,0 +1,8 @@
+compound	shares	Singapore
+root	ROOT	shares
+amod	%	open
+nummod	%	0.06
+dobj	shares	%
+amod	%	lower
+case	Tuesday	on
+nmod:on	%	Tuesday

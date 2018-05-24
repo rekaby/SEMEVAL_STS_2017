@@ -1,0 +1,10 @@
+compound	workers	Emergency
+nsubj	lined	workers
+case	hoses	with
+nmod:with	workers	hoses
+root	ROOT	lined
+compound:prt	lined	up
+cc	lined	and
+case	stairs	down
+conj:and	lined	stairs
+punct	lined	.

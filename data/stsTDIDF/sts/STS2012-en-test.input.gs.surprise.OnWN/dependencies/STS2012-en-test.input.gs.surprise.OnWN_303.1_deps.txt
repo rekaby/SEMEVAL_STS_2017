@@ -1,0 +1,7 @@
+det	knapsack	a
+root	ROOT	knapsack
+punct	knapsack	,
+appos	knapsack	bundle
+case	back	on
+det	back	the
+nmod:on	bundle	back

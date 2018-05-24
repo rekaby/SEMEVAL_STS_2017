@@ -1,0 +1,6 @@
+det	motorboat	an
+amod	motorboat	open
+root	ROOT	motorboat
+acl	motorboat	used
+case	transport	for
+nmod:for	used	transport

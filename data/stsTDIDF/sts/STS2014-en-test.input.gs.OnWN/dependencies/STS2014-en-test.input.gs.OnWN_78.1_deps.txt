@@ -1,0 +1,9 @@
+root	ROOT	break
+compound:prt	break	up
+det	solid	a
+dobj	break	solid
+punct	solid	,
+advmod	solution	usually
+case	solution	into
+det	solution	a
+nmod:into	solid	solution

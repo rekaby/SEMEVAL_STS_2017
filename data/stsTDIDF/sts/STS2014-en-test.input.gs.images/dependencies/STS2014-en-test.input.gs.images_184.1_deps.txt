@@ -1,0 +1,11 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	station	of
+det	station	an
+amod	station	old
+compound	station	train
+nmod:of	photo	station
+punct	photo	.

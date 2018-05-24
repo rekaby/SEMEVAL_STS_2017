@@ -1,0 +1,7 @@
+compound	evacuation	Cyclone
+compound	evacuation	Phailin
+nsubj	kept	evacuation
+root	ROOT	kept
+amod	villagers	Indian
+dobj	kept	villagers
+xcomp	kept	alive

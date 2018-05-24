@@ -1,0 +1,9 @@
+det	man	A
+nsubj	silencer	man
+cop	silencer	is
+amod	silencer	fitting
+root	ROOT	silencer
+case	pistol	on
+det	pistol	a
+nmod:on	silencer	pistol
+punct	silencer	.

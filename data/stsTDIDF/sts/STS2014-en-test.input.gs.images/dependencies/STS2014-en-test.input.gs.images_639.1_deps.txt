@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	sailing	people
+aux	sailing	are
+root	ROOT	sailing
+det	boat	a
+amod	boat	small
+dobj	sailing	boat
+punct	sailing	.

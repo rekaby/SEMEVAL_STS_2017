@@ -1,0 +1,8 @@
+nummod	men	Three
+root	ROOT	men
+amod	men	are
+case	stage	on
+nmod:on	are	stage
+acl	stage	playing
+dobj	playing	guitars
+punct	men	.

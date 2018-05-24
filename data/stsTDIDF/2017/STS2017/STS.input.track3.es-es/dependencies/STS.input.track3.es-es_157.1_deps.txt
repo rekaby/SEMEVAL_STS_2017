@@ -1,0 +1,10 @@
+det	person	A
+nsubj	hat	person
+cop	hat	is
+case	hat	without
+det	hat	a
+root	ROOT	hat
+cc	hat	and
+cop	inside	is
+conj:and	hat	inside
+punct	hat	.

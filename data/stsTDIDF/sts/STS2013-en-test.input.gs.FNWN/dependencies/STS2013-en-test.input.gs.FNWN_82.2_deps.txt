@@ -1,0 +1,9 @@
+root	ROOT	serve
+det	purpose	a
+dobj	serve	purpose
+punct	purpose	,
+conj:or	purpose	role
+punct	purpose	,
+cc	purpose	or
+conj:or	purpose	function
+punct	serve	;

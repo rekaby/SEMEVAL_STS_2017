@@ -1,0 +1,11 @@
+det	car	A
+amod	car	small
+amod	car	red
+root	ROOT	car
+case	truck	on
+mwe	on	top
+mwe	on	of
+det	truck	a
+amod	truck	semi
+nmod:on_top_of	car	truck
+punct	car	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	runs	woman
+root	ROOT	runs
+case	beach	on
+det	beach	the
+nmod:on	runs	beach
+punct	runs	.

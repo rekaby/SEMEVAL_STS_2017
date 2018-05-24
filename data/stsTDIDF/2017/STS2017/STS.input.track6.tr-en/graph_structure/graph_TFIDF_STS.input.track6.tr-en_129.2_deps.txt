@@ -1,0 +1,10 @@
+market	farmer	nmod:poss
+market	at	case
+sells	man	nsubj
+wife	market	nmod:at
+sells	help	nmod:with
+sells	cookies	dobj
+farmer	's	case
+farmer	the	det
+wife	of	case
+help	wife	nmod:of

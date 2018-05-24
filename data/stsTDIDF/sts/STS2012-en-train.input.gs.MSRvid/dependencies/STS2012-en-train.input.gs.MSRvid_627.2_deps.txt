@@ -1,0 +1,7 @@
+det	chef	A
+nsubj	peeling	chef
+aux	peeling	is
+root	ROOT	peeling
+det	potato	a
+dobj	peeling	potato
+punct	peeling	.

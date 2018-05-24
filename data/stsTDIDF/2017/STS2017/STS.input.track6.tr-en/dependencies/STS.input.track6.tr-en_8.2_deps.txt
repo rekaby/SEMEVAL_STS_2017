@@ -1,0 +1,12 @@
+det	child	A
+root	ROOT	child
+acl	child	dressed
+case	clothes	in
+amod	clothes	bright
+nmod:in	dressed	clothes
+xcomp	dressed	swaying
+case	swing	in
+det	swing	a
+compound	swing	tree
+nmod:in	swaying	swing
+punct	child	.

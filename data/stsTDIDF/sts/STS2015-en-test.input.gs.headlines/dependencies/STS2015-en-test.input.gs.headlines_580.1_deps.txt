@@ -1,0 +1,9 @@
+nummod	traders	2
+amod	traders	Indian
+nsubj	stranded	traders
+root	ROOT	stranded
+case	China	in
+nmod:in	stranded	China
+dep	stranded	sent
+advmod	sent	back
+dobj	sent	home

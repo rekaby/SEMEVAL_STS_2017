@@ -1,0 +1,14 @@
+det	government	the
+amod	government	south
+amod	government	african
+nsubj	maintains	government
+root	ROOT	maintains
+advmod	good	very
+amod	relations	good
+dobj	maintains	relations
+case	government	with
+det	government	the
+amod	government	united
+compound	government	states
+nmod:with	relations	government
+punct	maintains	.

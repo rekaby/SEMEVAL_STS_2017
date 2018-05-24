@@ -1,0 +1,7 @@
+compound	Intervenes	Pakistan?s
+compound	Intervenes	Ashraf
+root	ROOT	Intervenes
+case	Investigation	in
+compound	Investigation	Fatal
+compound	Investigation	Fire
+nmod:in	Intervenes	Investigation

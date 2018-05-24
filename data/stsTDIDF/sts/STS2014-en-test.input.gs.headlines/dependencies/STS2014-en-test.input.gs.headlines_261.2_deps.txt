@@ -1,0 +1,7 @@
+compound	leader	Tunisia
+compound	leader	opposition
+nsubj	erupt	leader
+acl	leader	slain
+punct	leader	;
+nsubj	erupt	protests
+root	ROOT	erupt

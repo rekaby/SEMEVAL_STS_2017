@@ -1,0 +1,6 @@
+girls	.	punct
+girls	Tagafzan	compound
+bed	on	case
+ROOT	girls	root
+girls	bed	nmod:on
+girls	little	amod

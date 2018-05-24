@@ -1,0 +1,9 @@
+amod	man	First
+nsubj	dies	man
+case	Armstrong	on
+compound	Armstrong	moon
+compound	Armstrong	Neil
+nmod:on	man	Armstrong
+root	ROOT	dies
+case	82	at
+nmod:at	dies	82

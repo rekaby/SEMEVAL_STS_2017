@@ -1,0 +1,9 @@
+det	techniques	the
+nsubj	using	techniques
+cc	techniques	and
+conj:and	techniques	principles
+case	composition	of
+amod	composition	artistic
+nmod:of	techniques	composition
+root	ROOT	using
+dobj	using	paints

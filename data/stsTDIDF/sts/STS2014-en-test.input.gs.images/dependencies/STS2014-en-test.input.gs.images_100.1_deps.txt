@@ -1,0 +1,13 @@
+det	sheep	A
+amod	sheep	black
+cc	black	and
+conj:and	black	white
+nsubj	walking	sheep
+aux	walking	is
+root	ROOT	walking
+case	sheep	next
+mwe	next	to
+det	sheep	a
+amod	sheep	white
+nmod:next_to	walking	sheep
+punct	walking	.

@@ -1,0 +1,8 @@
+neg	one	No
+nsubj	won	one
+aux	won	has
+root	ROOT	won
+det	prizes	any
+dobj	won	prizes
+nmod:tmod	won	today
+punct	won	.

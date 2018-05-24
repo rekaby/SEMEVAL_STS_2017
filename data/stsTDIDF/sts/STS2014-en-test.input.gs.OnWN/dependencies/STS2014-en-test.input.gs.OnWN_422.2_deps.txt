@@ -1,0 +1,8 @@
+root	ROOT	terminate
+punct	terminate	,
+conj:or	terminate	end
+punct	terminate	,
+cc	terminate	or
+conj:or	terminate	take
+compound:prt	take	out
+punct	terminate	.

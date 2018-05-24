@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	girl	boy
+cop	girl	is
+advmod	girl	very
+case	girl	close
+mwe	close	to
+det	girl	a
+root	ROOT	girl
+punct	girl	.

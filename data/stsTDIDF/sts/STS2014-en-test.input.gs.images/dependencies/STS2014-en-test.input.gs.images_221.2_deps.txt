@@ -1,0 +1,9 @@
+det	train	The
+compound	train	silver
+nsubjpass	parked	train
+auxpass	parked	is
+root	ROOT	parked
+case	station	in
+det	station	a
+nmod:in	parked	station
+punct	parked	.

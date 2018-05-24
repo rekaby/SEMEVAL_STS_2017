@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	pose	woman
+case	girl	with
+det	girl	a
+amod	girl	young
+nmod:with	woman	girl
+root	ROOT	pose
+case	statues	with
+compound	statues	bear
+nmod:with	pose	statues
+case	store	in
+mwe	in	front
+mwe	in	of
+det	store	a
+nmod:in_front_of	statues	store
+punct	pose	.

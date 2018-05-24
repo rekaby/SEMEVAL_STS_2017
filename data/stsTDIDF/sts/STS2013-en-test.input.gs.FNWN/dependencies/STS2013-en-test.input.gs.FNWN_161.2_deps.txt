@@ -1,0 +1,16 @@
+advmod	large	relatively
+root	ROOT	large
+case	size	in
+nmod:in	large	size
+cc	size	or
+conj:or	size	number
+cc	size	or
+conj:or	size	extent
+punct	large	;
+dep	large	larger
+case	others	than
+nmod:than	larger	others
+case	kind	of
+nmod:poss	kind	its
+nmod:of	others	kind
+punct	large	;

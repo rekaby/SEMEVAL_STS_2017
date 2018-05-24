@@ -1,0 +1,7 @@
+compound	derailment	Freight
+compound	derailment	train
+nmod:tmod	prompts	derailment
+punct	prompts	,
+nsubj	prompts	explosion
+root	ROOT	prompts
+dobj	prompts	evacuation

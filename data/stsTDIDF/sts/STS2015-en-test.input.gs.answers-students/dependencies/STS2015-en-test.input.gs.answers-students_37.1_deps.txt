@@ -1,0 +1,14 @@
+punct	closed	``
+mark	c	because
+compound	z	switch
+nsubj	c	z
+cop	c	is
+case	c	in
+compound	c	bulb
+dep	closed	c
+punct	closed	''
+punct	closed	``
+nsubj	closed	s
+root	ROOT	closed
+dobj	closed	path
+punct	closed	''

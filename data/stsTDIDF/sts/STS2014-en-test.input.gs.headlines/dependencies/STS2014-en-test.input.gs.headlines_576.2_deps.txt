@@ -1,0 +1,8 @@
+nsubj	kills	Blast
+root	ROOT	kills
+dobj	kills	nine
+case	Afghanistan	in
+amod	Afghanistan	southern
+nmod:in	nine	Afghanistan
+punct	kills	:
+dep	kills	officials

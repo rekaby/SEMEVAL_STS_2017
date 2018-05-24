@@ -1,0 +1,13 @@
+det	man	A
+nsubj	stands	man
+case	hat	in
+det	hat	a
+amod	hat	black
+nmod:in	man	hat
+root	ROOT	stands
+case	lamp	next
+mwe	next	to
+det	lamp	a
+compound	lamp	street
+nmod:next_to	stands	lamp
+punct	stands	.

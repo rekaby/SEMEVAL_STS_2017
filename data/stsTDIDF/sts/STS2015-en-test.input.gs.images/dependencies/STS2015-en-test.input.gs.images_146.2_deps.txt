@@ -1,0 +1,10 @@
+det	dog	The
+amod	dog	big
+amod	dog	white
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	grass	in
+det	grass	the
+nmod:in	running	grass
+punct	running	.

@@ -1,0 +1,11 @@
+compound	shot	Teen
+ccomp	say	shot
+case	Bank	in
+compound	Bank	West
+nmod:in	shot	Bank
+case	military	by
+amod	military	Israeli
+nmod:by	shot	military
+punct	say	,
+nsubj	say	activists
+root	ROOT	say

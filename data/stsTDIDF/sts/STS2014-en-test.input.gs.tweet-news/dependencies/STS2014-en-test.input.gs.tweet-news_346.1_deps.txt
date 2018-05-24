@@ -1,0 +1,9 @@
+case	Cond	From
+punct	Cond	:
+root	ROOT	Cond
+punct	Cond	?-4) compound(Deals-3, Nast
+compound	Deals	Writer
+nsubj	Stir	Deals
+root	ROOT	Stir
+compound	#CondeNast	Dispute
+dobj	Stir	#CondeNast

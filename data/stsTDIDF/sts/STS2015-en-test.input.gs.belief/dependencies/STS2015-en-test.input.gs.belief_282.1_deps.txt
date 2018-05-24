@@ -1,0 +1,13 @@
+advmod	i	early
+case	friendship	in
+nmod:poss	friendship	our
+nmod:in	early	friendship
+nsubj	confessed	she
+acl:relcl	friendship	confessed
+nmod:poss	marriage	her
+nsubj	trouble	marriage
+cop	trouble	was
+case	trouble	in
+ccomp	confessed	trouble
+punct	early	...
+root	ROOT	i

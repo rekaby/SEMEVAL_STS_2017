@@ -1,0 +1,6 @@
+amod	bus	Parked
+amod	bus	white
+amod	bus	double
+compound	bus	decker
+root	ROOT	bus
+punct	bus	.

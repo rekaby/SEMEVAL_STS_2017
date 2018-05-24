@@ -1,0 +1,10 @@
+det	man	A
+nsubj	flying	man
+case	suit	in
+det	suit	a
+compound	suit	pilot
+nmod:in	man	suit
+aux	flying	is
+root	ROOT	flying
+compound:prt	flying	over
+punct	flying	.

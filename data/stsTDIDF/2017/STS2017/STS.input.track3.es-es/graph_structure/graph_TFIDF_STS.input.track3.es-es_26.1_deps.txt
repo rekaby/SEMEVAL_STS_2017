@@ -1,0 +1,14 @@
+stage	drummer	conj:and
+stage	and	cc
+drum	behind	case
+sides	stage	nmod:of
+guitarists	.	punct
+drummer	drum	nmod:behind
+guitarists	sides	nmod:on
+stage	of	case
+guitarists	Two	nummod
+drum	red	amod
+drum	center	nmod:in
+drum	a	det
+drummer	a	det
+ROOT	guitarists	root

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	resting	woman
+aux	resting	is
+root	ROOT	resting
+case	raft	in
+det	raft	a
+amod	raft	floating
+nmod:in	resting	raft
+punct	resting	.

@@ -1,0 +1,7 @@
+nummod	cows	Two
+nsubj	crossing	cows
+root	ROOT	crossing
+det	intersection	a
+compound	intersection	road
+dobj	crossing	intersection
+punct	crossing	.

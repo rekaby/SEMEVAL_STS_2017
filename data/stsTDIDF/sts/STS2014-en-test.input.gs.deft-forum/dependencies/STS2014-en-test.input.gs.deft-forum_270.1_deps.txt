@@ -1,0 +1,14 @@
+compound	Pro	Hi
+root	ROOT	Pro
+cc	Pro	and
+conj:and	Pro	Corn
+punct	Pro	:
+advmod	many	How
+amod	threads	many
+dobj	plan	threads
+aux	plan	do
+nsubj	plan	you
+dep	Pro	plan
+mark	making	on
+advcl	plan	making
+punct	Pro	?

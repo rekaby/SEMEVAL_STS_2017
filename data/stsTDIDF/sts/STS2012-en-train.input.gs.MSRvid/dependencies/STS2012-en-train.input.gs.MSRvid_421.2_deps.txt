@@ -1,0 +1,5 @@
+nummod	teams	Two
+nsubj	play	teams
+root	ROOT	play
+dobj	play	soccer
+punct	play	.

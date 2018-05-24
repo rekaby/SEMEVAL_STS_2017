@@ -1,0 +1,11 @@
+compound	race	Rescuers
+root	ROOT	race
+mark	find	to
+acl	race	find
+dobj	find	20
+advmod	trapped	still
+acl	20	trapped
+case	India	in
+nmod:in	trapped	India
+compound	collapse	building
+dobj	trapped	collapse

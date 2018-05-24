@@ -1,0 +1,11 @@
+talking	man	nsubj
+shirt	a	det
+pants	blue	amod
+woman	with	case
+shirt	white	amod
+talking	woman	nmod:with
+shirt	in	case
+man	shirt	nmod:in
+shirt	pink	amod
+shirt	pants	conj:and
+woman	shirt	nmod:in

@@ -1,0 +1,10 @@
+det	man	The
+nsubj	driving	man
+case	beard	with
+det	beard	the
+nmod:with	man	beard
+aux	driving	is
+root	ROOT	driving
+nmod:poss	car	his
+dobj	driving	car
+punct	driving	.

@@ -1,0 +1,15 @@
+compound	March	Million
+compound	March	Man
+root	ROOT	March
+punct	March	;
+parataxis	March	promises
+mark	bring	to
+xcomp	promises	bring
+dobj	bring	change
+mark	bleeding	in
+advcl	bring	bleeding
+dobj	bleeding	Pakistan
+punct	Pakistan	-
+compound	14Jan	#TahirulQadri
+compound	14Jan	#
+dep	Pakistan	14Jan

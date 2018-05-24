@@ -1,0 +1,10 @@
+det	person	A
+nsubj	fence	person
+cc	person	and
+det	horse	a
+conj:and	person	horse
+cop	fence	are
+case	fence	above
+det	fence	a
+root	ROOT	fence
+punct	fence	.

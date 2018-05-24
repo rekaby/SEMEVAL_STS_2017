@@ -1,0 +1,10 @@
+neg	srs	not
+root	ROOT	srs
+det	plot	this
+punct	plot	``
+nsubj	smells	plot
+punct	plot	''
+acl:relcl	srs	smells
+det	rat	a
+dobj	smells	rat
+punct	srs	.

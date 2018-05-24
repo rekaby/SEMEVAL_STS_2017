@@ -1,0 +1,7 @@
+amod	police	British
+nsubj	deny	police
+root	ROOT	deny
+xcomp	deny	protecting
+compound	Savile	sex
+compound	Savile	abuser
+dobj	protecting	Savile

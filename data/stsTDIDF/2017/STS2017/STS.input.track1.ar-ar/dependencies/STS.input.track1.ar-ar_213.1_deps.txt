@@ -1,0 +1,16 @@
+nummod	adults	Two
+root	ROOT	adults
+cc	adults	and
+nummod	children	two
+conj:and	adults	children
+acl	children	sitting
+case	bench	on
+det	bench	a
+compound	bench	park
+nmod:on	sitting	bench
+mark	takes	while
+nsubj	takes	someone
+acl	adults	takes
+det	picture	a
+dobj	takes	picture
+punct	adults	.

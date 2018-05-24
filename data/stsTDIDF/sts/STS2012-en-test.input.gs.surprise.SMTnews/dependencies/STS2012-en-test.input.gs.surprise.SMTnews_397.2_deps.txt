@@ -1,0 +1,6 @@
+det	couple	A
+root	ROOT	couple
+nsubj	left	who
+aux	left	have
+acl:relcl	couple	left
+punct	couple	?

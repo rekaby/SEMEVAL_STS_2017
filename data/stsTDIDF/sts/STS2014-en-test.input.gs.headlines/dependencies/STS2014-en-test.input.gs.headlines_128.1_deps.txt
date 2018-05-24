@@ -1,0 +1,10 @@
+nummod	shooting	2
+advmod	injured	dead
+punct	injured	,
+nsubj	injured	2
+amod	shooting	injured
+case	school	in
+compound	school	Nevada
+amod	school	middle
+nmod:in	injured	school
+root	ROOT	shooting

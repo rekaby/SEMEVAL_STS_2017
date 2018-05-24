@@ -1,0 +1,10 @@
+det	man	A
+nsubj	holds	man
+root	ROOT	holds
+det	animal	a
+amod	animal	small
+dobj	holds	animal
+case	hand	in
+nummod	hand	one
+nmod:in	holds	hand
+punct	holds	.

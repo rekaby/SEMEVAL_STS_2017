@@ -1,0 +1,6 @@
+compound	protest	Workers
+nsubj	collapse	protest
+case	building	after
+compound	building	Bangladesh
+nmod:after	protest	building
+root	ROOT	collapse

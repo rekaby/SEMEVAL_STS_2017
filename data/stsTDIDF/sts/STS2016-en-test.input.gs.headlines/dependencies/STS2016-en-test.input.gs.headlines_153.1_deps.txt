@@ -1,0 +1,5 @@
+nsubj	falls	Oil
+root	ROOT	falls
+case	trade	in
+amod	trade	Asian
+nmod:in	falls	trade

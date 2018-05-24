@@ -1,0 +1,14 @@
+compound	magazine	Time
+nsubj	named	magazine
+root	ROOT	named
+det	soldier	the
+amod	soldier	American
+xcomp	named	soldier
+nmod:poss	Person	its
+dobj	soldier	Person
+case	Year	of
+det	Year	the
+nmod:of	Person	Year
+case	2003	for
+nmod:for	Year	2003
+punct	named	.

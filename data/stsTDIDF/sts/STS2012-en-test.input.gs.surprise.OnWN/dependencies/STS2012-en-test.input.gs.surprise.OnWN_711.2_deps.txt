@@ -1,0 +1,9 @@
+root	ROOT	write
+case	print	as
+mark	print	if
+case	print	with
+nmod:with	write	print
+punct	write	;
+neg	cursive	not
+dep	write	cursive
+punct	write	.

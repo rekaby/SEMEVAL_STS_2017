@@ -1,0 +1,15 @@
+compound	search	Google
+nsubj	has	search
+case	WODs	for
+compound	WODs	Travel
+nmod:for	search	WODs
+root	ROOT	has
+amod	lots	whole
+dobj	has	lots
+case	results	of
+nmod:of	lots	results
+dobj	use	which
+nsubj	use	you
+aux	use	can
+acl:relcl	results	use
+punct	has	.

@@ -1,0 +1,9 @@
+det	woman	A
+amod	woman	young
+nsubj	cooking	woman
+cop	cooking	is
+root	ROOT	cooking
+case	kitchen	in
+det	kitchen	the
+nmod:in	cooking	kitchen
+punct	cooking	.

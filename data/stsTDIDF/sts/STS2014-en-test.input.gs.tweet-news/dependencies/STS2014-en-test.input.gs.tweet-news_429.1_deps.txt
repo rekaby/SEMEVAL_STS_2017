@@ -1,0 +1,16 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+advmod	Get	How
+mark	Get	to
+dep	NYTimes	Get
+compound	Online	America
+dobj	Get	Online
+punct	Online	-
+amod	op-ed	excellent
+dep	Online	op-ed
+mark	regulating	by
+mark	regulating	on
+advcl	op-ed	regulating
+det	ISPs	the
+amod	ISPs	big
+dobj	regulating	ISPs

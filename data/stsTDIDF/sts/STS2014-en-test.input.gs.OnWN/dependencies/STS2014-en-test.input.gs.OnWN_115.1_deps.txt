@@ -1,0 +1,6 @@
+det	flock	a
+root	ROOT	flock
+case	sheep	of
+nmod:of	flock	sheep
+cc	sheep	or
+conj:or	sheep	goats

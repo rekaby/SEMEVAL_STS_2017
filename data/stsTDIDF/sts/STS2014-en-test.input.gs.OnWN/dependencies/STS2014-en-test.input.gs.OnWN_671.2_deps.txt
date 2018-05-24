@@ -1,0 +1,6 @@
+det	unit	a
+root	ROOT	unit
+case	aircraft	of
+amod	aircraft	military
+nmod:of	unit	aircraft
+punct	unit	.

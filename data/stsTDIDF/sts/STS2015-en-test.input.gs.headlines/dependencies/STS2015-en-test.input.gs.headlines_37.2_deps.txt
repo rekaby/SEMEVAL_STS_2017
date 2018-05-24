@@ -1,0 +1,9 @@
+nsubj	Kill	Gunmen
+punct	Kill	`
+root	ROOT	Kill
+dobj	Kill	15
+punct	15	'
+case	Attack	In
+amod	Attack	Second
+compound	Attack	Kenya
+nmod:in	15	Attack

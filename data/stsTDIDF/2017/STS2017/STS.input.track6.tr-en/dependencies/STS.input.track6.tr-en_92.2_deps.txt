@@ -1,0 +1,6 @@
+nsubj	escape	Children
+root	ROOT	escape
+case	fire	from
+det	fire	a
+nmod:from	escape	fire
+punct	escape	.

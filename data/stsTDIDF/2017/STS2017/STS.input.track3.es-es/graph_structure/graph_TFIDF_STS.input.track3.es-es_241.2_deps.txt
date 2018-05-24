@@ -1,0 +1,13 @@
+dog	brown	amod
+throwing	catch	advcl
+throwing	Frisbee	dobj
+throwing	dog	nmod:for
+dog	for	case
+camera	with	case
+throwing	woman	nsubj
+ROOT	throwing	root
+throwing	.	punct
+Frisbee	a	det
+throwing	is	aux
+dog	her	nmod:poss
+woman	camera	nmod:with

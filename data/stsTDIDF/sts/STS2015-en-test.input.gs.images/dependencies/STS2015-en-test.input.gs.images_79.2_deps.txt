@@ -1,0 +1,8 @@
+det	boy	The
+nsubj	jumping	boy
+aux	jumping	is
+root	ROOT	jumping
+case	lake	into
+det	lake	a
+nmod:into	jumping	lake
+punct	jumping	.

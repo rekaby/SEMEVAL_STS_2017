@@ -1,0 +1,9 @@
+root	ROOT	Romney
+mark	tap	to
+acl	Romney	tap
+dobj	tap	Ryan
+case	mate	as
+compound	mate	vice
+amod	mate	presidential
+amod	mate	running
+nmod:as	tap	mate

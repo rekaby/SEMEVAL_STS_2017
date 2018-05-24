@@ -1,0 +1,15 @@
+root	ROOT	however
+case	layoffs	despite
+det	layoffs	the
+nmod:despite	however	layoffs
+dep	layoffs	murder
+cc	murder	and
+conj:and	murder	rape
+dep	layoffs	are
+advmod	are	still
+dep	still	down
+nummod	%	11
+nmod:npmod	down	%
+case	flint	in
+nmod:in	down	flint
+punct	however	.

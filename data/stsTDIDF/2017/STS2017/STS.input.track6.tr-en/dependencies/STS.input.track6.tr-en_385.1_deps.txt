@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	sleeping	girl
+aux	sleeping	is
+root	ROOT	sleeping
+case	bed	in
+det	bed	a
+compound	bed	bunk
+nmod:in	sleeping	bed
+punct	sleeping	.

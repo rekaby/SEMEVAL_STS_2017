@@ -1,0 +1,9 @@
+papers	shop	nmod:in
+shop	coffee	compound
+papers	.	punct
+teacher	's	case
+ROOT	papers	root
+teacher	A	det
+papers	grades	compound
+papers	assistant	amod
+papers	teacher	nmod:poss

@@ -1,0 +1,8 @@
+root	ROOT	save
+case	experience	from
+det	experience	an
+nmod:from	save	experience
+punct	experience	,
+conj:or	experience	action
+cc	experience	or
+conj:or	experience	harm

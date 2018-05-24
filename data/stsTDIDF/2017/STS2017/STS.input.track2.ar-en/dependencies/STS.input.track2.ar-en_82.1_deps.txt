@@ -1,0 +1,10 @@
+det	man	A
+amod	man	sharp
+amod	man	looking
+nsubj	cruising	man
+aux	cruising	is
+root	ROOT	cruising
+case	sunshine	in
+det	sunshine	the
+nmod:in	cruising	sunshine
+punct	cruising	.

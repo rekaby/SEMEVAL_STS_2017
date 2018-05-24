@@ -1,0 +1,6 @@
+sculptures	in	case
+sculptures	Rome	compound
+Watching	.	punct
+tourists	sculptures	nmod:in
+ROOT	Watching	root
+Watching	tourists	dobj

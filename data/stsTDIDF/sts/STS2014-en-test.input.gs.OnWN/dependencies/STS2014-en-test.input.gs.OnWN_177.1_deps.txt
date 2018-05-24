@@ -1,0 +1,10 @@
+det	stone	a
+amod	stone	single
+amod	stone	tall
+root	ROOT	stone
+punct	stone	,
+dep	obelisk	e.g.
+punct	obelisk	,
+appos	stone	obelisk
+cc	obelisk	or
+conj:or	obelisk	monument

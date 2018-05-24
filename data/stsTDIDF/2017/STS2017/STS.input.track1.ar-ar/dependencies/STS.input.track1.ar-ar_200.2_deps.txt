@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	Balhqlbh	woman
+root	ROOT	Balhqlbh
+case	trampoline	on
+det	trampoline	a
+nmod:on	Balhqlbh	trampoline
+punct	Balhqlbh	.

@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	fix	men
+root	ROOT	fix
+det	car	a
+dobj	fix	car
+case	garage	in
+det	garage	a
+nmod:in	fix	garage
+punct	fix	.

@@ -1,0 +1,12 @@
+det	man	An
+amod	man	old
+nsubj	stands	man
+acl	man	wearing
+det	hat	a
+dobj	wearing	hat
+root	ROOT	stands
+case	door	outside
+det	door	a
+compound	door	shop
+nmod:outside	stands	door
+punct	stands	.

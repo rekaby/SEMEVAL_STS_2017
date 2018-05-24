@@ -1,0 +1,8 @@
+nummod	women	Three
+nsubj	sitting	women
+aux	sitting	are
+root	ROOT	sitting
+case	wall	near
+det	wall	a
+nmod:near	sitting	wall
+punct	sitting	.

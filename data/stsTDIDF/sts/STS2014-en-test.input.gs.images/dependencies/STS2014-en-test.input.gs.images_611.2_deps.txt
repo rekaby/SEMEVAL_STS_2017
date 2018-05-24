@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	small
+nsubj	sits	girl
+root	ROOT	sits
+case	ledge	on
+det	ledge	a
+compound	ledge	stone
+nmod:on	sits	ledge
+case	plant	near
+det	plant	a
+amod	plant	white
+compound	plant	flowering
+nmod:near	ledge	plant
+punct	sits	.

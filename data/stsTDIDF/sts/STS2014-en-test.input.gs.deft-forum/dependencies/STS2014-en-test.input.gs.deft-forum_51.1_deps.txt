@@ -1,0 +1,13 @@
+mark	kill	if
+nsubj	kill	you
+aux	kill	could
+root	ROOT	kill
+nummod	person	one
+dobj	kill	person
+mark	save	to
+xcomp	kill	save
+dobj	save	four
+punct	kill	,
+root	,	would
+nsubj	would	you
+punct	would	?

@@ -1,0 +1,7 @@
+compound	drone	US
+nsubj	kills	drone
+root	ROOT	kills
+nummod	Afghanistan	two
+advmod	eastern	in
+amod	Afghanistan	eastern
+dobj	kills	Afghanistan

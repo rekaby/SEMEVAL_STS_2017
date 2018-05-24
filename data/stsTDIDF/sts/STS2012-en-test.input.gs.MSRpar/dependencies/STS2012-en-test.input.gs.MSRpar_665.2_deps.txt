@@ -1,0 +1,11 @@
+cc	cranky	And
+amod	Republicans	several
+compound	Republicans	Senate
+nsubj	cranky	Republicans
+cop	cranky	are
+root	ROOT	cranky
+case	map	about
+det	map	the
+compound	map	House
+nmod:about	cranky	map
+punct	cranky	.

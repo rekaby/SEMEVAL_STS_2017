@@ -1,0 +1,7 @@
+det	men	The
+nsubj	sitting	men
+aux	sitting	are
+root	ROOT	sitting
+case	pavement	on
+det	pavement	the
+nmod:on	sitting	pavement

@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+nummod	women	two
+conj:and	man	women
+acl	women	dressed
+case	costumes	in
+nmod:in	dressed	costumes
+punct	man	.

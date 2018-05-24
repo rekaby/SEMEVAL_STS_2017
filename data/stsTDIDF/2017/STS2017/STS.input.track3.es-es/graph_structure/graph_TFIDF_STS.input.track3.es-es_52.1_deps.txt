@@ -1,0 +1,9 @@
+sweater	blue	amod
+wears	barefoot	conj:and
+wears	and	cc
+wears	man	nsubj
+wears	sweater	dobj
+barefoot	is	cop
+sweater	a	det
+wears	.	punct
+barefoot	court	nmod:on

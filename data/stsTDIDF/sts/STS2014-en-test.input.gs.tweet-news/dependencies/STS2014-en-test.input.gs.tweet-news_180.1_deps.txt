@@ -1,0 +1,11 @@
+compound	Bryant	Kobe
+root	ROOT	Bryant
+punct	Bryant	,
+appos	Bryant	wife
+mark	call	to
+acl	wife	call
+compound:prt	call	off
+compound	yaayy	divorce
+dobj	call	yaayy
+punct	Bryant	!-10) root(ROOT-0, lol
+punct	lol	.

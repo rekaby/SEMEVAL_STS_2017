@@ -1,0 +1,5 @@
+root	ROOT	hunt
+cc	hunt	or
+conj:or	hunt	shoot
+dobj	shoot	snipe
+punct	hunt	.

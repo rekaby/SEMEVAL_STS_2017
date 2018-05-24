@@ -1,0 +1,9 @@
+nummod	ministers	Two
+amod	ministers	Kenyan
+nsubj	crash	ministers
+case	6	among
+nmod:among	ministers	6
+acl	6	killed
+case	plane	in
+nmod:in	killed	plane
+root	ROOT	crash

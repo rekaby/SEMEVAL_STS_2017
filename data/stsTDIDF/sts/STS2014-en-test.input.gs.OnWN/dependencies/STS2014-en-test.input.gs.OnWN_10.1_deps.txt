@@ -1,0 +1,5 @@
+root	ROOT	create
+compound	programs	code
+cc	code	or
+conj:or	code	computer
+dobj	create	programs

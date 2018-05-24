@@ -1,0 +1,7 @@
+spotlights	.	punct
+spotlights	band	nsubj
+spotlights	the	det
+spotlights	is	cop
+ROOT	spotlights	root
+band	The	det
+spotlights	under	case

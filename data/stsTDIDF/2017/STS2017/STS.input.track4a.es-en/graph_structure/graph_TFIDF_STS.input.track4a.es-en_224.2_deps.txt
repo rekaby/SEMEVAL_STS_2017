@@ -1,0 +1,5 @@
+enter	store	dobj
+enter	sale	nmod:for
+sale	big	amod
+wait	Families	nsubj
+wait	enter	xcomp

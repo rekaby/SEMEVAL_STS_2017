@@ -1,0 +1,9 @@
+nsubj	member	china
+cop	member	is
+det	member	a
+amod	member	permanent
+root	ROOT	member
+case	security	of
+det	security	the
+compound	security	un
+nmod:of	member	security

@@ -1,0 +1,7 @@
+case	stall	put
+nmod	put	into
+cc	into	or
+conj:or	into	keep
+case	a	in
+nmod:in	into	a
+root	ROOT	stall

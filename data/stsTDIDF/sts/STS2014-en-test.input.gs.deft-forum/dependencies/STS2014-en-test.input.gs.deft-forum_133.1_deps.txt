@@ -1,0 +1,9 @@
+nsubj	know	I
+root	ROOT	know
+nsubj	hate	I
+aux	hate	'd
+ccomp	know	hate
+mark	him	to
+cop	him	be
+xcomp	hate	him
+punct	know	.

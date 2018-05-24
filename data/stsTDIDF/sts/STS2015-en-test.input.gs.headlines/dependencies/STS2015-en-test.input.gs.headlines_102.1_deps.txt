@@ -1,0 +1,8 @@
+compound	agreement	EU
+punct	EU	,
+compound	work	Myanmar
+conj	EU	work
+case	protection	toward
+compound	protection	investment
+nmod:toward	work	protection
+root	ROOT	agreement

@@ -1,0 +1,12 @@
+det	child	A
+nsubj	squats	child
+root	ROOT	squats
+case	wagon	behind
+det	wagon	a
+nmod:behind	squats	wagon
+case	pumpkins	with
+nummod	pumpkins	two
+nmod:with	wagon	pumpkins
+case	it	in
+nmod:in	pumpkins	it
+punct	squats	.

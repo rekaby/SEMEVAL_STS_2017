@@ -1,0 +1,5 @@
+amod	teenager	Second
+root	ROOT	teenager
+acl	teenager	charged
+case	murder	with
+nmod:with	charged	murder

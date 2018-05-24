@@ -1,0 +1,8 @@
+nummod	zebras	Two
+nsubj	play	zebras
+root	ROOT	play
+case	field	in
+det	field	an
+amod	field	open
+nmod:in	play	field
+punct	play	.

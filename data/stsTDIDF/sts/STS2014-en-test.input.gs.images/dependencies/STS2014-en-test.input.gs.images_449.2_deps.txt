@@ -1,0 +1,13 @@
+det	train	The
+nsubj	comes	train
+root	ROOT	comes
+compound:prt	comes	down
+det	track	the
+dobj	comes	track
+punct	comes	,
+case	rows	between
+nummod	rows	two
+nmod:between	comes	rows
+case	trees	of
+nmod:of	rows	trees
+punct	comes	.

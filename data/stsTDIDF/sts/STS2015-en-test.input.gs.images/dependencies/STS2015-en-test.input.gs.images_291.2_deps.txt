@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+acl	woman	kissing
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+nmod:in_front_of	kissing	crowd
+case	people	of
+nmod:of	crowd	people
+punct	man	.

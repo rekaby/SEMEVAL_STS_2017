@@ -1,0 +1,16 @@
+nsubjpass	cut	Production
+case	quarter	for
+det	quarter	the
+amod	quarter	second
+nmod:for	Production	quarter
+auxpass	cut	was
+root	ROOT	cut
+case	barrels	to
+compound	million	46
+nummod	barrels	million
+nmod:to	cut	barrels
+case	barrels	from
+compound	million	48
+nummod	barrels	million
+nmod:from	cut	barrels
+punct	cut	.

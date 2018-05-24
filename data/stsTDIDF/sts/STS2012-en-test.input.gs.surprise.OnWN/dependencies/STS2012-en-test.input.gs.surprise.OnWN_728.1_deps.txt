@@ -1,0 +1,13 @@
+det	chart	a
+root	ROOT	chart
+cc	chart	or
+conj:or	chart	map
+acl	chart	showing
+det	dimensions	the
+dobj	showing	dimensions
+punct	dimensions	,
+conj:or	dimensions	movements
+cc	dimensions	or
+conj:or	dimensions	progress
+case	something	of
+nmod:of	dimensions	something

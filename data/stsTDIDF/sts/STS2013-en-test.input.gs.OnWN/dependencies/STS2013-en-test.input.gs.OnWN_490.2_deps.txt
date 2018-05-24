@@ -1,0 +1,12 @@
+root	ROOT	fly
+conj:or	fly	fly
+case	plane	in
+cc	in	or
+conj:or	in	as
+mark	plane	if
+case	plane	in
+det	plane	a
+compound	plane	glider
+nmod:as	fly	plane
+nmod:in	fly	plane
+punct	fly	.

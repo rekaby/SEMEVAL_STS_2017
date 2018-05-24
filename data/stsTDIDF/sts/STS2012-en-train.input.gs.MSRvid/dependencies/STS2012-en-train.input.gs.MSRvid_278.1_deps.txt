@@ -1,0 +1,9 @@
+det	man	A
+nsubj	talking	man
+aux	talking	is
+root	ROOT	talking
+case	phone	on
+det	phone	a
+compound	phone	cell
+nmod:on	talking	phone
+punct	talking	.

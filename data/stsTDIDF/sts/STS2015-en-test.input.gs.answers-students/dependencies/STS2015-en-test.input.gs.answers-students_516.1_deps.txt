@@ -1,0 +1,9 @@
+det	terminal	the
+amod	terminal	positive
+nsubjpass	connected	terminal
+cc	terminal	and
+amod	terminal	negative
+conj:and	terminal	terminal
+auxpass	connected	are
+neg	connected	not
+root	ROOT	connected

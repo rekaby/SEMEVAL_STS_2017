@@ -1,0 +1,7 @@
+root	ROOT	require
+cc	require	or
+conj:or	require	need
+dobj	need	something
+nsubj	missing	that
+aux	missing	is
+acl:relcl	something	missing

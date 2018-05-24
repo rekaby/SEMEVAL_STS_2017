@@ -1,0 +1,9 @@
+workers	standing	acl
+workers	few	amod
+sign	workers	nsubj
+street	behind	case
+built	partially	advmod
+building	street	nmod:behind
+building	built	amod
+standing	building	nmod:in
+workers	A	det

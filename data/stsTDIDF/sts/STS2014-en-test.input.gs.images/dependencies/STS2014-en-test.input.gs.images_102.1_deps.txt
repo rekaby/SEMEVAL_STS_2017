@@ -1,0 +1,9 @@
+det	table	The
+compound	table	dining
+compound	table	room
+nsubj	gets	table
+root	ROOT	gets
+det	sun	some
+compound	sun	afternoon
+dobj	gets	sun
+punct	gets	.

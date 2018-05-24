@@ -1,0 +1,12 @@
+det	group	A
+nsubj	take	group
+case	people	of
+nmod:of	group	people
+root	ROOT	take
+det	look	a
+dobj	take	look
+case	tree	at
+det	tree	an
+amod	tree	unusual
+nmod:at	look	tree
+punct	take	.

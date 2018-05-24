@@ -1,0 +1,21 @@
+nsubj	explain	we
+root	ROOT	explain
+dobj	explain	that
+case	tempos	to
+nmod:poss	tempos	our
+nmod:to	that	tempos
+advmod	apply	when
+nsubj	apply	they
+acl:relcl	tempos	apply
+case	us	with
+nmod:with	apply	us
+mark	understand	so
+nsubj	understand	they
+advcl	apply	understand
+det	importance	the
+dobj	understand	importance
+mark	reachable	of
+advmod	reachable	always
+cop	reachable	being
+acl	importance	reachable
+punct	explain	.-21) root(ROOT-0, .-1) root(ROOT-0, to

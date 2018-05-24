@@ -1,0 +1,10 @@
+det	advantage	an
+root	ROOT	advantage
+case	benefit	to
+det	benefit	the
+nmod:to	advantage	benefit
+case	someone	of
+nmod:of	benefit	someone
+cc	someone	or
+conj:or	someone	something
+punct	advantage	.

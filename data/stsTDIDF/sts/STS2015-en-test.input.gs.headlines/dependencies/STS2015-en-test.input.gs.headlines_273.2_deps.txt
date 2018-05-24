@@ -1,0 +1,12 @@
+compound	Chief	UN
+root	ROOT	Chief
+punct	Chief	:
+nsubj	need	Inspectors
+dep	Chief	need
+nummod	days	4
+dobj	need	days
+mark	conclude	to
+xcomp	need	conclude
+dobj	conclude	probe
+case	Syria	in
+nmod:in	conclude	Syria

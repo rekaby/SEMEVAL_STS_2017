@@ -1,0 +1,7 @@
+nsubj	eat	people
+root	ROOT	eat
+dobj	eat	upstairs
+mark	man	while
+advcl	eat	man
+case	unpacks	below
+nmod:below	man	unpacks

@@ -1,0 +1,17 @@
+nsubj	give	i
+aux	give	do
+neg	give	n't
+advmod	give	actually
+root	ROOT	give
+nummod	figs	two
+iobj	give	figs
+det	wage	what
+compound	wage	minimum
+nsubj	does	wage
+ccomp	give	does
+dep	does	for
+cc	for	or
+case	economy	against
+det	economy	the
+conj:or	for	economy
+punct	give	.

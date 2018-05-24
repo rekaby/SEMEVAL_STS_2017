@@ -1,0 +1,7 @@
+det	happening	a
+root	ROOT	happening
+cc	happening	or
+conj:or	happening	incident
+case	significance	of
+amod	significance	human
+nmod:of	incident	significance

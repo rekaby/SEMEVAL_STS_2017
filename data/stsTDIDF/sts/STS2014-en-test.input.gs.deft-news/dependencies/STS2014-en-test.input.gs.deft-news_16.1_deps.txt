@@ -1,0 +1,14 @@
+nsubj	occurred	bombing
+root	ROOT	occurred
+case	afghanistan	in
+nmod:in	occurred	afghanistan
+case	attacks	as
+nmod:as	occurred	attacks
+case	insurgents	by
+amod	insurgents	anti-government
+nmod:by	attacks	insurgents
+dep	occurred	increase
+case	days	in
+amod	days	recent
+nmod:in	increase	days
+punct	occurred	.

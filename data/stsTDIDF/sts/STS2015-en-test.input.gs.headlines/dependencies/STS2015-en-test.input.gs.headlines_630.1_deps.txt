@@ -1,0 +1,8 @@
+compound	fragment	Bone
+root	ROOT	fragment
+punct	Alfred	`
+aux	Alfred	could
+cop	Alfred	be
+compound	Alfred	King
+dep	fragment	Alfred
+case	Alfred	'

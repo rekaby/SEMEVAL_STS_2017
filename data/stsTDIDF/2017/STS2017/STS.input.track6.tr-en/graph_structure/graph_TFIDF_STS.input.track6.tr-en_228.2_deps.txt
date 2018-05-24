@@ -1,0 +1,14 @@
+half-surfed	the	det
+man	haircut	nmod:with
+half-surfed	on	case
+haircut	a	det
+half-surfed	beach	compound
+haircut	and	cc
+standing	man	nsubj
+haircut	Mohawk-style	amod
+surfer	a	det
+shorts	surfer	nmod:poss
+surfer	's	case
+haircut	shorts	conj:and
+haircut	with	case
+standing	half-surfed	nmod:on

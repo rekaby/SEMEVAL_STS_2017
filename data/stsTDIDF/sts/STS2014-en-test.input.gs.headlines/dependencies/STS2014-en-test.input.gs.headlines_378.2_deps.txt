@@ -1,0 +1,7 @@
+nsubj	launches	Egypt
+root	ROOT	launches
+amod	assault	new
+dobj	launches	assault
+case	Sinai	against
+nmod:against	assault	Sinai
+dobj	launches	militants

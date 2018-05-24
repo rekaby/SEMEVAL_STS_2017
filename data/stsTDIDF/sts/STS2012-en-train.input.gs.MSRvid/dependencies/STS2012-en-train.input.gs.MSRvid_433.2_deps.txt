@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+nsubj	playing	girl
+aux	playing	is
+root	ROOT	playing
+det	piano	a
+amod	piano	grand
+dobj	playing	piano
+case	stage	on
+nmod:on	playing	stage
+punct	playing	.

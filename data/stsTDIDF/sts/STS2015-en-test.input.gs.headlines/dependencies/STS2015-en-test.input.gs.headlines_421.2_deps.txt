@@ -1,0 +1,7 @@
+amod	clashes	Violent
+nsubj	mark	clashes
+root	ROOT	mark
+compound	uprising	anniversary
+case	Egypt	of
+nmod:of	anniversary	Egypt
+dobj	mark	uprising

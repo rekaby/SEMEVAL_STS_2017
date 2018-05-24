@@ -1,0 +1,8 @@
+nsubj	left	you
+root	ROOT	left
+compound:prt	left	out
+compound	companies	oil
+dobj	left	companies
+punct	companies	,
+appos	companies	braniac
+punct	left	.

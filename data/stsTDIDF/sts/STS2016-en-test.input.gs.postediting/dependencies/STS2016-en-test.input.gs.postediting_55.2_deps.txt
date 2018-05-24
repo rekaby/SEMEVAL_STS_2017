@@ -1,0 +1,14 @@
+amod	legislators	Renièrent
+root	ROOT	legislators
+cc	legislators	and
+conj:and	legislators	supports
+det	call	the
+dobj	supports	call
+case	project	to
+det	project	the
+nmod:to	call	project
+case	Bush	of
+compound	Bush	President
+compound	Bush	George
+nmod:of	project	Bush
+punct	legislators	.

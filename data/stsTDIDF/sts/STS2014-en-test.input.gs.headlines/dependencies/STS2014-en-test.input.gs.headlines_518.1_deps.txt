@@ -1,0 +1,8 @@
+nummod	bodies	25
+root	ROOT	bodies
+acl	bodies	found
+case	plant	at
+amod	plant	raided
+compound	plant	Algerian
+compound	plant	gas
+nmod:at	found	plant

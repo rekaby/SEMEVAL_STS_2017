@@ -1,0 +1,8 @@
+amod	dog	Black
+root	ROOT	dog
+acl	dog	playing
+det	game	a
+dobj	playing	game
+case	green	of
+nmod:of	game	green
+punct	dog	.

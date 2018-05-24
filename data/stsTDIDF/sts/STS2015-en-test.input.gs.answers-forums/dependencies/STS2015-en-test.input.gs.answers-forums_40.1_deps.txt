@@ -1,0 +1,17 @@
+mark	mentioned	As
+advcl	problematic	mentioned
+case	comments	in
+det	comments	the
+amod	comments	other
+nmod:in	mentioned	comments
+punct	problematic	,
+nsubj	problematic	ANOVA
+cop	problematic	is
+root	ROOT	problematic
+advmod	problematic	when
+dep	when	mixing
+dobj	mixing	types
+case	variables	of
+compound	variables	predictor
+nmod:of	types	variables
+punct	problematic	.

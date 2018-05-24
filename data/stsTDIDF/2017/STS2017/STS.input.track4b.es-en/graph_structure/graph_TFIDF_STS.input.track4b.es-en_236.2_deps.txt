@@ -1,0 +1,12 @@
+departure	.	punct
+books	from	case
+departure	a	det
+Englund	's	case
+book	Englund	nmod:poss
+Englund	Mr.	compound
+ROOT	departure	root
+books	history	nmod:of
+departure	books	nmod:from
+departure	is	cop
+books	standard	amod
+departure	book	nsubj

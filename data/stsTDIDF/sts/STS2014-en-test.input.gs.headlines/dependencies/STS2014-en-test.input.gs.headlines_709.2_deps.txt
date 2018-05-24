@@ -1,0 +1,8 @@
+nsubj	kidnap	Gunmen
+root	ROOT	kidnap
+nummod	pilots	2
+amod	pilots	Turkish
+compound	pilots	Airlines
+dobj	kidnap	pilots
+case	Lebanon	in
+nmod:in	kidnap	Lebanon

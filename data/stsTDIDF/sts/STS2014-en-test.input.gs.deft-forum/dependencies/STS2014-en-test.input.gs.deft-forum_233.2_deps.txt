@@ -1,0 +1,14 @@
+root	ROOT	Sometimes
+nsubj	fantasise	I
+punct	fantasise	,
+advmod	fantasise	too
+punct	fantasise	,
+ccomp	Sometimes	fantasise
+mark	bending	about
+acl	fantasise	bending
+dobj	bending	people
+mark	will	before
+nmod:poss	demented	my
+nsubj	will	demented
+advcl	bending	will
+punct	Sometimes	.

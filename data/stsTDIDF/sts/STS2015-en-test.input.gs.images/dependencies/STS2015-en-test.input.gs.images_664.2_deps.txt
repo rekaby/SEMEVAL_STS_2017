@@ -1,0 +1,6 @@
+nummod	puppies	Two
+nsubj	play	puppies
+root	ROOT	play
+case	grass	in
+det	grass	the
+nmod:in	play	grass

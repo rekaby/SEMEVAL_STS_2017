@@ -1,0 +1,5 @@
+looking	man	nsubj
+dog	at	case
+man	shirt	nmod:in
+looking	dog	nmod:at
+shirt	blue	amod

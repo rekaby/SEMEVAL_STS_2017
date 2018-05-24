@@ -1,0 +1,6 @@
+farm	horse	compound
+farm	on	case
+farm	areas	nmod:in
+son	farm	nmod:on
+man	son	nmod:with
+son	with	case

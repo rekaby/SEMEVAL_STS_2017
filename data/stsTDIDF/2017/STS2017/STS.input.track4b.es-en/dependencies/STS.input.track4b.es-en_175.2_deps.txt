@@ -1,0 +1,12 @@
+root	ROOT	Cold
+cc	Cold	And
+conj:and	Cold	Inhuman
+punct	Cold	:
+compound	Breivik	Anders
+compound	Breivik	Behring
+nsubj	makes	Breivik
+dep	Cold	makes
+det	appearance	the
+amod	appearance	first
+amod	appearance	public
+dobj	makes	appearance

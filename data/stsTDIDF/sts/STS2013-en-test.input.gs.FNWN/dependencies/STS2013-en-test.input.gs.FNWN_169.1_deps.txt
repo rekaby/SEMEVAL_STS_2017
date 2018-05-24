@@ -1,0 +1,8 @@
+det	cognizer	a
+nsubj	introduces	cognizer
+root	ROOT	introduces
+det	new_idea	a
+dobj	introduces	new_idea
+case	society	into
+nmod:into	introduces	society
+punct	introduces	.

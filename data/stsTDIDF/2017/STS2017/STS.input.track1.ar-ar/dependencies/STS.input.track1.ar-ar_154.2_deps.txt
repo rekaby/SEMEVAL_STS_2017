@@ -1,0 +1,7 @@
+compound	pasteurization	Boy
+nsubj	plays	pasteurization
+root	ROOT	plays
+det	horn	the
+amod	horn	French
+dobj	plays	horn
+punct	plays	.

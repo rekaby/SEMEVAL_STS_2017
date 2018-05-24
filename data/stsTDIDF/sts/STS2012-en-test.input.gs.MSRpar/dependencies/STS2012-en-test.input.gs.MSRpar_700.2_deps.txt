@@ -1,0 +1,13 @@
+compound	officials	Missouri
+compound	officials	health
+nsubj	said	officials
+root	ROOT	said
+nsubjpass	hospitalized	he
+aux	hospitalized	had
+neg	hospitalized	not
+auxpass	hospitalized	been
+ccomp	said	hospitalized
+cc	hospitalized	and
+aux	recovering	is
+conj:and	hospitalized	recovering
+punct	said	.

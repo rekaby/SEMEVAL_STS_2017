@@ -1,0 +1,6 @@
+det	horse	The
+nsubj	running	horse
+aux	running	is
+root	ROOT	running
+advmod	running	fast
+punct	running	.

@@ -1,0 +1,8 @@
+amod	people	Young
+nsubj	taking	people
+root	ROOT	taking
+dobj	taking	photos
+case	air	from
+det	air	the
+nmod:from	taking	air
+punct	taking	.

@@ -1,0 +1,7 @@
+compound	police	Thai
+nsubj	use	police
+root	ROOT	use
+dobj	use	tear
+dobj	tear	gas
+case	protesters	against
+nmod:against	tear	protesters

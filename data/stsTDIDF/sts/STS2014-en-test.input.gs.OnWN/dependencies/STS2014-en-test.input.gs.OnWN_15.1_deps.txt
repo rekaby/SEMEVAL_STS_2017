@@ -1,0 +1,7 @@
+root	ROOT	Distribute
+advmod	or	systematically
+advmod	Distribute	or
+advmod	or	strategically
+punct	Distribute	;
+dep	Distribute	initiate
+punct	Distribute	.

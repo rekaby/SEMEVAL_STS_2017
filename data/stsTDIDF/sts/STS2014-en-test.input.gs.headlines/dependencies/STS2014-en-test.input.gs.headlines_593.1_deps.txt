@@ -1,0 +1,11 @@
+compound	Gay	Sprinters
+compound	Gay	Tyson
+root	ROOT	Gay
+cc	Gay	and
+compound	test	Asafa
+compound	test	Powell
+conj:and	Gay	test
+amod	test	positive
+case	substance	for
+amod	substance	banned
+nmod:for	positive	substance

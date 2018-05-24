@@ -1,0 +1,17 @@
+nmod:poss	share	their
+nsubj	gone	share
+case	vote	of
+det	vote	the
+nmod:of	share	vote
+aux	gone	has
+root	ROOT	gone
+case	point	up
+advmod	1	just
+nummod	point	1
+nmod:up	gone	point
+cc	gone	and
+nsubj	lost	they
+aux	lost	have
+conj:and	gone	lost
+dobj	lost	seats
+punct	gone	.

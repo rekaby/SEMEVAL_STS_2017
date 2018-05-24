@@ -1,0 +1,11 @@
+compound	toll	Death
+nsubj	rises	toll
+root	ROOT	rises
+case	6	to
+nmod:to	rises	6
+case	Europe	as
+compound	batters	Storm
+compound	batters	Xaver
+compound	Europe	batters
+amod	Europe	northern
+nmod:as	rises	Europe

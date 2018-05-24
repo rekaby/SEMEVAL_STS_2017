@@ -1,0 +1,7 @@
+amod	Man	Saudi
+nsubj	Arrested	Man
+acl	Man	Traveling
+case	Cooker	With
+compound	Cooker	Pressure
+nmod:with	Traveling	Cooker
+root	ROOT	Arrested

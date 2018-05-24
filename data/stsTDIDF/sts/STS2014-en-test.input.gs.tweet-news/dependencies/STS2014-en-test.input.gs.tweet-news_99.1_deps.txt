@@ -1,0 +1,13 @@
+root	ROOT	Thank
+dobj	Thank	goodness
+punct	Thank	.-3) root(ROOT-0, ?-1) root(ROOT-0, :
+root	:	Man
+acl	Man	charged
+case	murder	with
+nmod:with	charged	murder
+case	death	in
+compound	doctor	Philadelphia
+nmod:poss	death	doctor
+case	doctor	's
+nmod:in	murder	death
+punct	Man	.-11) root(ROOT-0, ?

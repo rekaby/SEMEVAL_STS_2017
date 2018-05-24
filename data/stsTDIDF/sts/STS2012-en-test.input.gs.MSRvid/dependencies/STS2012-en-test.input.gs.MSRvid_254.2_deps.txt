@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	dances	woman
+root	ROOT	dances
+case	rain	in
+det	rain	the
+nmod:in	dances	rain
+case	side	out
+nmod:out	rain	side
+punct	dances	.

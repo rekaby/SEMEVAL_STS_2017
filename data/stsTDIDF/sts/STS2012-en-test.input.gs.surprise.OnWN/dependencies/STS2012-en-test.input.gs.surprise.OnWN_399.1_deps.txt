@@ -1,0 +1,10 @@
+det	bee	a
+amod	bee	male
+root	ROOT	bee
+nmod:poss	function	whose
+nsubj	is	function
+acl:relcl	bee	is
+mark	fertilize	to
+xcomp	is	fertilize
+det	queen	the
+dobj	fertilize	queen

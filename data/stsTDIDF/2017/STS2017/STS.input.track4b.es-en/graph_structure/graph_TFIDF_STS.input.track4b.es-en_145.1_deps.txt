@@ -1,0 +1,11 @@
+snow	in	case
+snow	the	det
+had	rakfisk	dobj
+had	-	punct
+queue	something	nmod:for
+stand	I	nsubj
+stand	queue	conj:and
+stand	had	dep
+rakfisk	enough	amod
+something	eat	acl
+stand	snow	nmod:in

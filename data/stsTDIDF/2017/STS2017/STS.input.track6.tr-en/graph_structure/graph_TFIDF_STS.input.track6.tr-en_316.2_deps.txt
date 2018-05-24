@@ -1,0 +1,7 @@
+suit	pilot	compound
+flying	.	punct
+flying	man	nsubj
+flying	is	aux
+flying	over	compound:prt
+ROOT	flying	root
+man	suit	nmod:in

@@ -1,0 +1,10 @@
+det	boat	A
+amod	boat	large
+root	ROOT	boat
+case	water	in
+det	water	the
+nmod:in	boat	water
+case	marina	at
+det	marina	the
+nmod:at	boat	marina
+punct	boat	.

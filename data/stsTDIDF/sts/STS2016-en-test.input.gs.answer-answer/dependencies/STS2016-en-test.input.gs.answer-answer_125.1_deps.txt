@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+det	couple	a
+nsubj	are	couple
+case	options	of
+nmod:of	couple	options
+dobj	consider	that
+nsubj	consider	you
+aux	consider	could
+acl:relcl	couple	consider
+punct	are	:

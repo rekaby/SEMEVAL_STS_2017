@@ -1,0 +1,8 @@
+nummod	cows	Two
+nsubj	drinking	cows
+aux	drinking	are
+root	ROOT	drinking
+case	pond	from
+det	pond	a
+nmod:from	drinking	pond
+punct	drinking	.

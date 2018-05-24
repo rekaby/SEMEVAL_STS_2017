@@ -1,0 +1,7 @@
+amod	PM	Australian
+root	ROOT	PM
+amod	PM	defiant
+case	pressure	under
+nmod:under	defiant	pressure
+case	leadership	over
+nmod:over	pressure	leadership

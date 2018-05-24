@@ -1,0 +1,13 @@
+det	authorities	the
+nsubj	put	authorities
+root	ROOT	put
+det	prisoner	a
+dobj	put	prisoner
+case	prison	in
+nmod:in	prisoner	prison
+case	punishment	as
+nmod:as	put	punishment
+case	offense	for
+det	offense	an
+nmod:for	punishment	offense
+punct	put	.

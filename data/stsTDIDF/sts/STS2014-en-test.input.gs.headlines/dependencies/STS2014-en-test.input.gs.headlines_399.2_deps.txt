@@ -1,0 +1,7 @@
+root	ROOT	Egypt
+punct	Egypt	:
+amod	Brotherhood	Muslim
+nsubj	Stands	Brotherhood
+parataxis	Egypt	Stands
+case	Morsi	Behind
+nmod:behind	Stands	Morsi

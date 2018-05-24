@@ -1,0 +1,16 @@
+nsubjpass	allowed	It
+auxpass	allowed	is
+root	ROOT	allowed
+mark	precondition	that
+det	knowledge	the
+nsubj	precondition	knowledge
+case	languages	of
+amod	languages	foreign
+nmod:of	knowledge	languages
+cop	precondition	is
+det	precondition	a
+amod	precondition	necessary
+ccomp	allowed	precondition
+case	mobility	with
+nmod:with	precondition	mobility
+punct	allowed	.

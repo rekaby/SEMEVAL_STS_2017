@@ -1,0 +1,10 @@
+nummod	people	Two
+root	ROOT	people
+case	car	in
+det	car	a
+nmod:in	people	car
+case	street	on
+det	street	a
+compound	street	city
+nmod:on	people	street
+punct	people	.

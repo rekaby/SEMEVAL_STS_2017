@@ -1,0 +1,16 @@
+root	ROOT	reestablish
+case	improved	on
+det	improved	a
+amod	improved	new
+punct	improved	,
+advmod	improved	usually
+nmod:on	reestablish	improved
+punct	improved	,
+dep	improved	basis
+cc	basis	or
+conj:or	basis	make
+dep	basis	new
+cc	new	or
+case	new	like
+conj:or	new	new
+punct	reestablish	.

@@ -1,0 +1,15 @@
+det	index	The
+compound	index	Nasdaq
+amod	index	composite
+nsubj	added	index
+root	ROOT	added
+nummod	points	30.46
+dobj	added	points
+punct	points	,
+cc	points	or
+nummod	percent	2
+conj:or	points	percent
+punct	points	,
+case	1,520.15	to
+nmod:to	added	1,520.15
+punct	added	.

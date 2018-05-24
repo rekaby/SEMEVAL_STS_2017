@@ -1,0 +1,8 @@
+det	family	A
+amod	family	large
+nsubj	poses	family
+root	ROOT	poses
+case	photo	for
+det	photo	a
+nmod:for	poses	photo
+punct	poses	.

@@ -1,0 +1,8 @@
+nmod:poss	place	World
+case	World	's
+amod	place	best
+root	ROOT	place
+case	rafting	for
+compound	rafting	water
+nmod:for	place	rafting
+punct	place	?

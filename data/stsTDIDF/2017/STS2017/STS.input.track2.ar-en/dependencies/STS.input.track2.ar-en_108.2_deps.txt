@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	waiting	women
+root	ROOT	waiting
+case	meal	for
+det	meal	a
+nmod:for	waiting	meal
+case	restaurant	in
+det	restaurant	a
+nmod:in	meal	restaurant
+punct	waiting	.

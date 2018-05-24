@@ -1,0 +1,8 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+advmod	riding	outside
+punct	riding	.

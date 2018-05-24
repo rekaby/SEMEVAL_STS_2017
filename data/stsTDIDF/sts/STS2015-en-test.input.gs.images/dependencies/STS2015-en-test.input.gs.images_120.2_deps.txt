@@ -1,0 +1,12 @@
+det	man	The
+nsubj	standing	man
+case	jacket	in
+det	jacket	a
+amod	jacket	blue
+nmod:in	man	jacket
+aux	standing	is
+root	ROOT	standing
+case	crowd	in
+det	crowd	a
+nmod:in	standing	crowd
+punct	standing	.

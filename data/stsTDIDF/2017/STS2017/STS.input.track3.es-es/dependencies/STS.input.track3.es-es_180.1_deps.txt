@@ -1,0 +1,9 @@
+nummod	men	Three
+nsubj	get	men
+root	ROOT	get
+dobj	get	something
+case	drum	out
+mwe	out	of
+det	drum	a
+nmod:out_of	get	drum
+punct	get	.

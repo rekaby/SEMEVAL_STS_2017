@@ -1,0 +1,10 @@
+root	ROOT	occupied
+amod	territory	Palestinian
+dobj	occupied	territory
+punct	occupied	:
+nsubj	rebuff	Palestinians
+parataxis	occupied	rebuff
+compound	talks	US
+compound	talks	peace
+dobj	rebuff	talks
+nmod:tmod	rebuff	blueprint

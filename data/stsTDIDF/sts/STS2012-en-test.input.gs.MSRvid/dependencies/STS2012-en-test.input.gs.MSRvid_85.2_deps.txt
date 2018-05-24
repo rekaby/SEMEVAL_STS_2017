@@ -1,0 +1,6 @@
+det	man	A
+nsubj	plays	man
+root	ROOT	plays
+det	drum	the
+dobj	plays	drum
+punct	plays	.

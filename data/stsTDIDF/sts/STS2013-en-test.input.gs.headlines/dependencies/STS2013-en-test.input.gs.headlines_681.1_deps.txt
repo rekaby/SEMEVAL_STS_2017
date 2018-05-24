@@ -1,0 +1,7 @@
+compound	Victory	Putin
+compound	Victory	Declares
+nsubj	Vote	Victory
+case	Russia	in
+nmod:in	Victory	Russia
+compound	Vote	Presidential
+root	ROOT	Vote

@@ -1,0 +1,16 @@
+compound	McDonnell	Mr
+nsubj	wants	McDonnell
+root	ROOT	wants
+mark	establish	to
+xcomp	wants	establish
+mark	followed	if
+det	business	the
+amod	business	Italian
+nsubj	followed	business
+advcl	establish	followed
+compound	Thornton	Grant
+nmod:poss	procedures	Thornton
+case	Thornton	's
+compound	procedures	audit
+dobj	followed	procedures
+punct	wants	.

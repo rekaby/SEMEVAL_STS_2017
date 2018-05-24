@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	little
+nsubj	drawing	girl
+aux	drawing	is
+root	ROOT	drawing
+case	table	on
+det	table	a
+nmod:on	drawing	table
+case	baby	near
+det	baby	a
+nmod:near	table	baby
+punct	drawing	.

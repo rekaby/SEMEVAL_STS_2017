@@ -1,0 +1,11 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	crowd	in
+det	crowd	a
+nmod:in	stands	crowd
+acl	crowd	holding
+det	object	a
+amod	object	white
+dobj	holding	object
+punct	stands	.

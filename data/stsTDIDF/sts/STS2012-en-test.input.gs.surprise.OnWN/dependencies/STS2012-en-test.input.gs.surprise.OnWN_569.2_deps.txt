@@ -1,0 +1,12 @@
+root	ROOT	behave
+advmod	behave	violently
+punct	behave	,
+root	,	as
+mwe	as	if
+case	state	in
+nmod:in	if	state
+case	anger	of
+det	anger	a
+amod	anger	great
+nmod:of	state	anger
+punct	as	.

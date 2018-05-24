@@ -1,0 +1,8 @@
+root	ROOT	WTO
+punct	WTO	:
+nsubj	regrets	India
+dep	WTO	regrets
+dobj	regrets	action
+case	nations	of
+amod	nations	developed
+nmod:of	action	nations

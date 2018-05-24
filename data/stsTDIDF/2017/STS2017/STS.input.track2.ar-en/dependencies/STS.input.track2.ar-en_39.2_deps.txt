@@ -1,0 +1,10 @@
+case	girl	Like
+det	girl	the
+amod	girl	young
+nmod:like	boots	girl
+cop	boots	is
+neg	boots	not
+nmod:poss	boots	her
+compound	boots	shoe
+root	ROOT	boots
+punct	boots	.

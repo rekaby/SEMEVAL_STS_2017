@@ -1,0 +1,6 @@
+nsubj	reached	Deal
+root	ROOT	reached
+case	government	on
+amod	government	new
+amod	government	Italian
+nmod:on	reached	government

@@ -1,0 +1,16 @@
+nsubj	insists	iran
+root	ROOT	insists
+mark	aimed	that
+det	program	the
+nsubjpass	aimed	program
+auxpass	aimed	is
+ccomp	insists	aimed
+advmod	aimed	solely
+case	pursuits	at
+amod	pursuits	peaceful
+nmod:at	aimed	pursuits
+case	generation	such
+mwe	such	as
+det	generation	the
+nmod:such_as	pursuits	generation
+acl	generation	of

@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	quake	from
+compound	quake	Philippines
+nmod:from	toll	quake
+root	ROOT	rises
+case	144	to
+nmod:to	rises	144

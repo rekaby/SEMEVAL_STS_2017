@@ -1,0 +1,6 @@
+det	gap	a
+nsubj	causes	gap
+root	ROOT	causes
+det	connection	a
+amod	connection	lost
+dobj	causes	connection

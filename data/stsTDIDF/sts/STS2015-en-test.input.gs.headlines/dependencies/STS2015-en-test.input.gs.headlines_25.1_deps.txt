@@ -1,0 +1,7 @@
+amod	course	Chinese
+compound	course	icebreaker
+compound	course	changes
+root	ROOT	course
+case	objects	towards
+amod	objects	suspicious
+nmod:towards	course	objects

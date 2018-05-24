@@ -1,0 +1,6 @@
+compound	frame	meshed
+root	ROOT	frame
+case	windows	over
+nmod:over	frame	windows
+cc	windows	and
+conj:and	windows	doors

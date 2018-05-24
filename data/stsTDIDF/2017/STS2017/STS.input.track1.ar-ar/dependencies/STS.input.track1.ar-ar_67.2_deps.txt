@@ -1,0 +1,5 @@
+nummod	shots	Two
+root	ROOT	shots
+amod	rabbit	Ttardan
+dep	shots	rabbit
+punct	shots	.

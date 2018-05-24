@@ -1,0 +1,10 @@
+compound	retaliation	Algerian
+compound	retaliation	field
+compound	retaliation	strike
+ccomp	say	retaliation
+case	Mali	over
+nmod:over	retaliation	Mali
+punct	say	,
+nsubj	say	reports
+root	ROOT	say
+punct	say	-

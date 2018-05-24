@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+case	antenna	with
+det	antenna	an
+nmod:with	playing	antenna
+punct	playing	.

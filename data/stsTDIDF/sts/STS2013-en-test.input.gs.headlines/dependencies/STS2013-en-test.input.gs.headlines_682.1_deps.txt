@@ -1,0 +1,7 @@
+compound	PM	Japan
+nsubj	dissolves	PM
+root	ROOT	dissolves
+amod	house	lower
+dobj	dissolves	house
+case	election	for
+nmod:for	dissolves	election

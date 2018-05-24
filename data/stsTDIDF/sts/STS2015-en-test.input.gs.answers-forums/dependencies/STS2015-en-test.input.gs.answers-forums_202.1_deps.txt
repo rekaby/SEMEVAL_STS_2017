@@ -1,0 +1,15 @@
+expl	are	There
+root	ROOT	are
+det	things	a
+amod	things	few
+nsubj	are	things
+mark	help	to
+acl	things	help
+nmod:poss	bun	your
+nsubj	gain	bun
+ccomp	help	gain
+det	bit	a
+dobj	gain	bit
+case	weight	of
+nmod:of	bit	weight
+punct	are	.

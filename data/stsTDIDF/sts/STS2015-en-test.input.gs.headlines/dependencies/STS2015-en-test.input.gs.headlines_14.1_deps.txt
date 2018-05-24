@@ -1,0 +1,8 @@
+compound	document	Snowden
+punct	document	`
+amod	document	given
+compound	document	refugee
+root	ROOT	document
+case	Ecuador	by
+nmod:by	document	Ecuador
+punct	document	'

@@ -1,0 +1,5 @@
+root	ROOT	Peacekeeper
+acl	Peacekeeper	killed
+case	clash	in
+compound	clash	Abyei
+nmod:in	killed	clash

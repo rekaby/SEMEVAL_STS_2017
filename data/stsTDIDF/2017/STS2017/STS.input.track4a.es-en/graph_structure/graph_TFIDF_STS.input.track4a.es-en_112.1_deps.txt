@@ -1,0 +1,7 @@
+trotting	ladies	nsubj
+ladies	The	det
+trotting	street	nmod:down
+ROOT	trotting	root
+trotting	.	punct
+trotting	are	aux
+street	down	case

@@ -1,0 +1,11 @@
+compound	something	plan
+root	ROOT	something
+case	role	for
+det	role	a
+amod	role	specific
+nmod:for	something	role
+cc	role	or
+conj:or	role	purpose
+cc	purpose	or
+conj:or	purpose	effect
+punct	something	.

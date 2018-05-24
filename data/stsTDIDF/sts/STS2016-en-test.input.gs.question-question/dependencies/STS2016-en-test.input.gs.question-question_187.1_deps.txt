@@ -1,0 +1,14 @@
+advmod	add	How
+aux	add	can
+nsubj	add	I
+root	ROOT	add
+det	receptacle	a
+compound	receptacle	GFCI
+dobj	add	receptacle
+case	circuit	on
+det	circuit	a
+nmod:on	receptacle	circuit
+case	receptacles	with
+amod	receptacles	split
+nmod:with	circuit	receptacles
+punct	add	?

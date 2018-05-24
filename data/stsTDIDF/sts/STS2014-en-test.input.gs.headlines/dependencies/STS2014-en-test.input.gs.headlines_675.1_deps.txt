@@ -1,0 +1,8 @@
+dep	coordinate	Palestinians
+punct	coordinate	,
+nsubj	coordinate	Jordan
+root	ROOT	coordinate
+dobj	coordinate	stances
+case	talks	on
+compound	talks	peace
+nmod:on	stances	talks

@@ -1,0 +1,7 @@
+root	ROOT	Police
+punct	Police	:
+dep	Police	Explosion
+case	Quarter	in
+compound	Quarter	Belfast
+compound	Quarter	Cathedral
+nmod:in	Explosion	Quarter

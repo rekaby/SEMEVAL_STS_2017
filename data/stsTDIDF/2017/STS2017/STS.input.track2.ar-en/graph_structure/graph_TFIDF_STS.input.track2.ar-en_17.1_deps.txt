@@ -1,0 +1,7 @@
+wears	red	nsubj
+glasses	earrings	conj:and
+woman	wears	acl
+wears	glasses	dobj
+glasses	and	cc
+wears	in	mark
+earrings	long	amod

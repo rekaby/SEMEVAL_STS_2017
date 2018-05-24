@@ -1,0 +1,9 @@
+det	woman	An
+amod	woman	old
+nsubj	knitting	woman
+aux	knitting	is
+root	ROOT	knitting
+case	yarn	with
+amod	yarn	blue
+nmod:with	knitting	yarn
+punct	knitting	.

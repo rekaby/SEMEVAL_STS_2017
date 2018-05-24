@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	bites	dog
+root	ROOT	bites
+det	arm	an
+dobj	bites	arm
+punct	bites	.

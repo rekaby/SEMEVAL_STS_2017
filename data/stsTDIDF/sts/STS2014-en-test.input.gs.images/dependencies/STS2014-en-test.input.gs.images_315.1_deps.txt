@@ -1,0 +1,16 @@
+det	motorcycles	A
+nsubjpass	parked	motorcycles
+auxpass	parked	is
+root	ROOT	parked
+case	wall	near
+det	wall	a
+nmod:near	parked	wall
+acl	wall	covered
+case	scene	with
+det	scene	a
+compound	scene	graffiti
+nmod:with	covered	scene
+case	cityscape	of
+det	cityscape	a
+nmod:of	scene	cityscape
+punct	parked	.

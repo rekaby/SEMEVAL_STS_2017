@@ -1,0 +1,16 @@
+nsubj	can	They
+root	ROOT	can
+punct	can	,
+cc	can	but
+det	way	the
+conj:but	can	way
+mark	do	to
+acl	way	do
+nsubj	depends	it
+ccomp	do	depends
+mark	have	on
+dobj	have	what
+nsubj	have	you
+advcl	depends	have
+xcomp	have	available
+punct	can	.

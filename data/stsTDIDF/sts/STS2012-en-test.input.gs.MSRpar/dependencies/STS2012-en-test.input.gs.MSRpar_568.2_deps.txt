@@ -1,0 +1,16 @@
+compound	Richard	Sir
+nsubj	speaking	Richard
+aux	speaking	was
+root	ROOT	speaking
+case	meeting	after
+det	meeting	a
+nmod:after	speaking	meeting
+case	London	in
+nmod:in	meeting	London
+case	Hockey	with
+amod	Hockey	Australian
+compound	Hockey	Tourism
+compound	Hockey	Minister
+compound	Hockey	Joe
+nmod:with	meeting	Hockey
+punct	speaking	.

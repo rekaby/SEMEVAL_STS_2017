@@ -1,0 +1,9 @@
+det	airplane	a
+amod	airplane	blue
+cc	blue	and
+conj:and	blue	red
+root	ROOT	airplane
+case	flight	while
+case	flight	in
+nmod:in	airplane	flight
+punct	airplane	.

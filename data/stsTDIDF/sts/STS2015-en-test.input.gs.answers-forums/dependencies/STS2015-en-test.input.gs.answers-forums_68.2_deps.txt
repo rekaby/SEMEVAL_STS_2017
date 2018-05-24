@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+neg	implication	no
+nsubj	is	implication
+case	Tom	about
+nmod:about	implication	Tom
+advmod	Tom	whatsoever
+case	sentence	in
+det:predet	sentence	such
+det	sentence	a
+nmod:in	implication	sentence
+punct	is	.

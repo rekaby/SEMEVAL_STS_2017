@@ -1,0 +1,5 @@
+det	girl	The
+root	ROOT	girl
+case	legs	without
+nmod:without	girl	legs
+punct	girl	.

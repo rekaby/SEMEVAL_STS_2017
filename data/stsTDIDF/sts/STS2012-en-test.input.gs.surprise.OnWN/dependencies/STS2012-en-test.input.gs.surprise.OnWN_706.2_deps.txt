@@ -1,0 +1,11 @@
+root	ROOT	set
+advmod	set	aside
+cc	set	or
+conj:or	set	apart
+case	purpose	for
+det	purpose	a
+amod	purpose	specific
+nmod:for	apart	purpose
+cc	purpose	or
+conj:or	purpose	use
+punct	set	.

@@ -1,0 +1,16 @@
+det	number	the
+nsubjpass	tabulated	number
+nummod	number	254
+auxpass	tabulated	was
+root	ROOT	tabulated
+case	count	with
+det	count	an
+compound	count	afp
+nmod:with	tabulated	count
+acl	count	compiled
+case	press	from
+nmod:from	compiled	press
+cc	count	and
+compound	reports	witness
+conj:and	count	reports
+punct	tabulated	.

@@ -1,0 +1,8 @@
+celebrating	group	nsubj
+birthday	a	det
+celebrating	birthday	dobj
+celebrating	partying	nmod:by
+celebrating	.	punct
+partying	by	case
+celebrating	are	aux
+ROOT	celebrating	root

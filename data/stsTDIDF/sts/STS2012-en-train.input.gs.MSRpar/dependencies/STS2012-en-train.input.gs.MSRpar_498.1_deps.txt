@@ -1,0 +1,14 @@
+nsubj	supported	CCAG
+root	ROOT	supported
+compound	Curry	Bill
+dobj	supported	Curry
+punct	Curry	,
+nmod:poss	opponent	Rowland
+case	Rowland	's
+appos	Curry	opponent
+case	election	in
+det	election	the
+nummod	election	2002
+amod	election	gubernatorial
+nmod:in	opponent	election
+punct	supported	.

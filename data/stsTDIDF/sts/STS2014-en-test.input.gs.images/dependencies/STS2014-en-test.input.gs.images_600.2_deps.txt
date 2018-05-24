@@ -1,0 +1,14 @@
+det	cat	A
+amod	cat	black
+cc	black	and
+conj:and	black	white
+nsubj	sleeping	cat
+root	ROOT	sleeping
+case	side	on
+nmod:poss	side	its
+nmod:on	sleeping	side
+case	blanket	on
+det	blanket	a
+amod	blanket	purple
+nmod:on	sleeping	blanket
+punct	sleeping	.

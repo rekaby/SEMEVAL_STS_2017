@@ -1,0 +1,11 @@
+root	ROOT	move
+det	body	the
+dobj	move	body
+advmod	move	backwards
+cc	move	and
+conj:and	move	down
+case	position	into
+det	position	a
+amod	position	comfortable
+amod	position	resting
+nmod:into	down	position

@@ -1,0 +1,9 @@
+compound	movie	Osama
+compound	movie	Bin
+compound	movie	Laden
+root	ROOT	movie
+mark	filmed	to
+auxpass	filmed	be
+acl	movie	filmed
+case	India	in
+nmod:in	filmed	India

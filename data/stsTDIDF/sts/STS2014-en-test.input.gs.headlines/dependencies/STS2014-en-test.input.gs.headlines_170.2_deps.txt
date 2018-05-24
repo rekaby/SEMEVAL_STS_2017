@@ -1,0 +1,7 @@
+root	ROOT	Stocks
+mark	watch	to
+acl	Stocks	watch
+case	close	at
+nmod:at	watch	close
+case	Thursday	on
+nmod:on	watch	Thursday

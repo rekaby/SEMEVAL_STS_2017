@@ -1,0 +1,12 @@
+nsubj	like	You
+aux	like	might
+neg	like	not
+root	ROOT	like
+compound	views	Obamas
+dobj	like	views
+punct	like	,
+cc	like	but
+nsubj	has	he
+conj:but	like	has
+dobj	has	them
+punct	like	.

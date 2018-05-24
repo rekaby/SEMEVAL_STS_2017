@@ -1,0 +1,7 @@
+det	machine	A
+nsubj	sharpening	machine
+aux	sharpening	is
+root	ROOT	sharpening
+det	pencil	a
+dobj	sharpening	pencil
+punct	sharpening	.

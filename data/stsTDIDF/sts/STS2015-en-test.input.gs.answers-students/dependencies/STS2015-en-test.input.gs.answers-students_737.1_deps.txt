@@ -1,0 +1,10 @@
+nsubj	depends	it
+root	ROOT	depends
+case	path	on
+det:predet	path	whether
+nmod:poss	path	its
+det	path	an
+amod	path	open
+cc	open	or
+conj:or	open	closed
+nmod:on	depends	path

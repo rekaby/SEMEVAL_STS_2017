@@ -1,0 +1,10 @@
+nsubj	win	Football
+punct	Football	:
+nsubj	hits	Messi
+dep	Football	hits
+amod	goal	300th
+compound	goal	Barcelona
+dobj	hits	goal
+case	comeback	in
+nmod:in	hits	comeback
+root	ROOT	win

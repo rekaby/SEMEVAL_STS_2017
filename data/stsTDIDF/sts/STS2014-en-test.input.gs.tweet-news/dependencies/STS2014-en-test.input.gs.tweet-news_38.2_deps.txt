@@ -1,0 +1,7 @@
+nsubj	gives	Bloomberg
+root	ROOT	gives
+dobj	gives	$
+nummod	$	1.1
+nmod:npmod	$	B
+case	university	to
+nmod:to	B	university

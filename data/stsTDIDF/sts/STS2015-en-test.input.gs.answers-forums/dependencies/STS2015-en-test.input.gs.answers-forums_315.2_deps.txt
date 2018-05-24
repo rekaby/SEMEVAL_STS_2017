@@ -1,0 +1,16 @@
+advmod	supposed	Generally
+nsubjpass	supposed	you
+auxpass	supposed	're
+root	ROOT	supposed
+mark	apply	to
+xcomp	supposed	apply
+case	consulate	at
+det	consulate	the
+compound	consulate	US
+nmod:at	apply	consulate
+case	place	at
+nmod:poss	place	your
+nmod:at	apply	place
+case	residence	of
+nmod:of	place	residence
+punct	supposed	.

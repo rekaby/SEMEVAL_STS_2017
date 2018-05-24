@@ -1,0 +1,14 @@
+det	girl	A
+nsubj	sprawling	girl
+case	shirt	in
+det	shirt	a
+amod	shirt	pink
+nmod:in	girl	shirt
+aux	sprawling	is
+root	ROOT	sprawling
+nmod:poss	limbs	her
+dobj	sprawling	limbs
+advmod	limbs	out
+case	midair	in
+nmod:in	out	midair
+punct	sprawling	.

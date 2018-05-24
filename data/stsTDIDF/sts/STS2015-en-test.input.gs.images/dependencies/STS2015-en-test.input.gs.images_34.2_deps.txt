@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	trick	boy
+aux	trick	does
+det	trick	a
+root	ROOT	trick
+case	skateboard	on
+det	skateboard	a
+nmod:on	trick	skateboard
+punct	trick	.

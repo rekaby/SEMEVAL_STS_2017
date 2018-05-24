@@ -1,0 +1,14 @@
+det	component	the
+root	ROOT	component
+case	forces	of
+det	forces	the
+amod	forces	aerodynamic
+nmod:of	component	forces
+acl	forces	acting
+case	airfoil	on
+det	airfoil	an
+nmod:on	acting	airfoil
+nsubj	opposes	that
+acl:relcl	airfoil	opposes
+dobj	opposes	gravity
+punct	component	.

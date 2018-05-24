@@ -1,0 +1,6 @@
+nsubj	pay	Dignitaries
+root	ROOT	pay
+dobj	pay	tribute
+case	Desmarais	to
+compound	Desmarais	Paul
+nmod:to	tribute	Desmarais

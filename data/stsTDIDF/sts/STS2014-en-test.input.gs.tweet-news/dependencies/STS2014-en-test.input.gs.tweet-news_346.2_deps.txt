@@ -1,0 +1,9 @@
+root	ROOT	Cond
+punct	Cond	?-2) compound(Share-5, Nast
+compound	Share	Contracts
+compound	Share	Cut
+compound	Share	Author?s
+root	ROOT	Share
+case	Film	in
+nmod:in	Share	Film
+dep	Share	Deals

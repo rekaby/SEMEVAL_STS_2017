@@ -1,0 +1,8 @@
+nsubj	had	Doctor
+acl	Doctor	treating
+compound	suspect	Aurora
+compound	suspect	shooting
+dobj	treating	suspect
+root	ROOT	had
+amod	reprimand	medical
+dobj	had	reprimand

@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	white
+nsubj	steering	bird
+aux	steering	is
+root	ROOT	steering
+det	cart	a
+compound	cart	shopping
+dobj	steering	cart
+punct	steering	.

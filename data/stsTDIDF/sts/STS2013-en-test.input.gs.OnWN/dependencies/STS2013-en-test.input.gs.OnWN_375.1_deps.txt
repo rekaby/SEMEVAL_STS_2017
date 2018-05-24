@@ -1,0 +1,5 @@
+root	ROOT	decorate
+det	manuscript	a
+dobj	decorate	manuscript
+case	red	with
+nmod:with	manuscript	red

@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+nsubj	is	man
+acl	man	waiting
+case	subway	for
+det	subway	the
+nmod:for	waiting	subway
+punct	is	.

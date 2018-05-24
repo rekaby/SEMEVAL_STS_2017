@@ -1,0 +1,7 @@
+amod	president	Bulgarian
+nsubj	tries	president
+root	ROOT	tries
+mark	break	to
+xcomp	tries	break
+compound	stalemate	election
+dobj	break	stalemate

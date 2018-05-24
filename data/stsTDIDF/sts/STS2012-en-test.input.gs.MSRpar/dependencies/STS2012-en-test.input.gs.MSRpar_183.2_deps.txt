@@ -1,0 +1,17 @@
+det	index	The
+compound	index	Nasdaq
+compound	index	Composite
+root	ROOT	index
+punct	index	,
+amod	index	full
+case	stocks	of
+compound	stocks	technology
+nmod:of	full	stocks
+punct	index	,
+dep	index	was
+advmod	was	lately
+advmod	lately	up
+case	points	around
+nummod	points	18
+nmod:around	up	points
+punct	index	.

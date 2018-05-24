@@ -1,0 +1,10 @@
+nsubj	revises	Japan
+root	ROOT	revises
+compound	growth	GDP
+dobj	revises	growth
+case	pct	to
+amod	pct	annual
+nummod	pct	1.1
+nmod:to	revises	pct
+case	Q3	in
+nmod:in	revises	Q3

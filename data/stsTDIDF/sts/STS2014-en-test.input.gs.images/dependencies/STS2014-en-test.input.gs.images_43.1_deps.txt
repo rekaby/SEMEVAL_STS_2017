@@ -1,0 +1,14 @@
+det	woman	An
+amod	woman	elderly
+nsubj	stands	woman
+root	ROOT	stands
+case	kitchen	in
+det	kitchen	a
+nmod:in	stands	kitchen
+case	cats	with
+nummod	cats	two
+nmod:with	kitchen	cats
+case	feet	at
+nmod:poss	feet	her
+nmod:at	stands	feet
+punct	stands	.

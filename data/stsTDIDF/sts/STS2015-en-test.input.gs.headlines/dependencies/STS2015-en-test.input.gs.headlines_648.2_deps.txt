@@ -1,0 +1,10 @@
+compound	Korea	N
+nsubj	fires	Korea
+punct	fires	`
+root	ROOT	fires
+nummod	shells	100
+dobj	fires	shells
+case	shells	'
+case	sea	into
+det	sea	the
+nmod:into	shells	sea

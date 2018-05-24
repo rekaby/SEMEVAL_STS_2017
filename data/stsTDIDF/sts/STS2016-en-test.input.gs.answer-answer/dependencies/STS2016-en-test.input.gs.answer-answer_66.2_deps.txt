@@ -1,0 +1,11 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	evaluating	on
+dobj	evaluating	what
+nsubj	evaluating	they
+aux	evaluating	are
+advcl	depends	evaluating
+punct	evaluating	,
+cc	evaluating	and
+conj:and	evaluating	how
+punct	depends	.

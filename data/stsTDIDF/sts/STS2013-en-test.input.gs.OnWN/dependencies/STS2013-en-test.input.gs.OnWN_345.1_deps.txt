@@ -1,0 +1,7 @@
+root	ROOT	medium
+case	exchange	of
+nmod:of	medium	exchange
+acl	exchange	minted
+case	government	by
+det	government	a
+nmod:by	minted	government

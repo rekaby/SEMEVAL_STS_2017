@@ -1,0 +1,10 @@
+nsubj	force	china
+cop	force	is
+det	force	an
+amod	force	important
+root	ROOT	force
+case	peace	for
+amod	peace	safeguarding
+compound	peace	world
+nmod:for	force	peace
+punct	force	.

@@ -1,0 +1,12 @@
+advmod	left	Why
+aux	left	was
+det	Book	the
+nsubj	left	Book
+case	Thomas	of
+nmod:of	Book	Thomas
+root	ROOT	left
+compound:prt	left	out
+case	canon	of
+det	canon	the
+nmod:of	left	canon
+punct	left	?

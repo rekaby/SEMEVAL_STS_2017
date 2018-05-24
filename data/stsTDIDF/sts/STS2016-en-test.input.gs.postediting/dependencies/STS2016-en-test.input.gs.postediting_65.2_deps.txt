@@ -1,0 +1,12 @@
+punct	said	``
+nsubj	happy	I
+cop	happy	am
+advmod	happy	so
+ccomp	said	happy
+punct	said	,
+punct	said	''
+nsubj	said	he
+root	ROOT	said
+case	reporters	to
+nmod:to	said	reporters
+punct	said	.

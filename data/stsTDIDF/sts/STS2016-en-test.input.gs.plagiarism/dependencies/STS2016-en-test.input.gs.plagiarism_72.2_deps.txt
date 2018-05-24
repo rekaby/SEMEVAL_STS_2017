@@ -1,0 +1,16 @@
+advmod	is	However
+punct	is	,
+det	key	the
+nsubj	is	key
+case	Programming	in
+compound	Programming	Dynamic
+nmod:in	key	Programming
+root	ROOT	is
+mark	determine	to
+xcomp	is	determine
+det	structure	the
+dobj	determine	structure
+case	solutions	of
+amod	solutions	optimal
+nmod:of	structure	solutions
+punct	is	.

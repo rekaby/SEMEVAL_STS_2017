@@ -1,0 +1,9 @@
+nummod	dogs	Two
+root	ROOT	dogs
+cc	dogs	and
+nummod	cat	one
+conj:and	dogs	cat
+acl	cat	sitting
+case	couch	on
+nmod:on	sitting	couch
+punct	dogs	.

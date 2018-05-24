@@ -1,0 +1,5 @@
+smiles	people	nmod:at
+ROOT	smiles	root
+smiles	Clown	nsubj
+smiles	.	punct
+people	at	case

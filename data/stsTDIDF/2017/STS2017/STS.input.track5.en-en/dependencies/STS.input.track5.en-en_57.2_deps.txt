@@ -1,0 +1,12 @@
+det	woman	The
+amod	woman	blond
+nsubj	searching	woman
+aux	searching	is
+root	ROOT	searching
+case	supplies	for
+amod	supplies	medical
+nmod:for	searching	supplies
+case	suitcase	in
+det	suitcase	a
+nmod:in	supplies	suitcase
+punct	searching	.

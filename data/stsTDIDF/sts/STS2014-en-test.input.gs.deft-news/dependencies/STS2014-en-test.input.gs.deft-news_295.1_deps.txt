@@ -1,0 +1,13 @@
+amod	governments	indian
+cc	indian	and
+conj:and	indian	pakistani
+nsubj	engaged	governments
+advmod	engaged	nearly
+root	ROOT	engaged
+case	conflict	in
+det	conflict	a
+amod	conflict	fourth
+nmod:in	engaged	conflict
+case	1999	in
+nmod:in	conflict	1999
+punct	engaged	.

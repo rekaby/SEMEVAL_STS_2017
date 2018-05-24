@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	fly	woman
+cc	woman	and
+nmod:poss	children	her
+conj:and	woman	children
+root	ROOT	fly
+dobj	fly	kites
+case	rain	in
+det	rain	the
+nmod:in	fly	rain
+punct	fly	.

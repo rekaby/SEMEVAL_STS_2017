@@ -1,0 +1,9 @@
+nsubj	says	Iran
+root	ROOT	says
+xcomp	says	capable
+mark	jamming	of
+advcl	capable	jamming
+nmod:poss	systems	foes
+case	foes	'
+compound	systems	communication
+dobj	jamming	systems

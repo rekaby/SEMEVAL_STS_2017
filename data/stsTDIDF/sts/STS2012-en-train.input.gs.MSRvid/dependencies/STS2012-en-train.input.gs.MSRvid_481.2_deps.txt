@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	rolling	dog
+aux	rolling	is
+root	ROOT	rolling
+case	side	from
+nmod:from	rolling	side
+case	side	to
+nmod:to	rolling	side
+punct	rolling	.

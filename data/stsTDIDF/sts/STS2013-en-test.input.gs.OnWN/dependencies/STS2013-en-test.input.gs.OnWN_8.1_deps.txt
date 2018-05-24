@@ -1,0 +1,10 @@
+root	ROOT	Bind
+cc	Bind	or
+conj:or	Bind	join
+punct	cement	-LRB-
+case	cement	as
+mark	cement	if
+punct	cement	-RRB-
+case	cement	with
+nmod:with	Bind	cement
+punct	Bind	.

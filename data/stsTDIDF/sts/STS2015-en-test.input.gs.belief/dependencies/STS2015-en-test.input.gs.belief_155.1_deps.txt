@@ -1,0 +1,17 @@
+det	person	the
+amod	person	low
+root	ROOT	person
+nsubj	pissed	bit
+dep	person	pissed
+dobj	pissed	me
+compound:prt	pissed	off
+punct	pissed	,
+cc	pissed	but
+det	prose	the
+nsubj	good	prose
+nsubj	followed	that
+acl:relcl	prose	followed
+cop	good	was
+advmod	good	so
+conj:but	pissed	good
+punct	person	!

@@ -1,0 +1,14 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	made	we
+ccomp	think	made
+det	case	the
+amod	case	right
+dobj	made	case
+cc	made	and
+conj:and	made	did
+det	thing	the
+amod	thing	right
+dobj	did	thing
+punct	think	.
+punct	think	''

@@ -1,0 +1,9 @@
+det	activities	The
+amod	activities	economic
+root	ROOT	activities
+case	links	of
+nmod:of	activities	links
+case	people	between
+det	people	the
+nmod:between	links	people
+punct	activities	.

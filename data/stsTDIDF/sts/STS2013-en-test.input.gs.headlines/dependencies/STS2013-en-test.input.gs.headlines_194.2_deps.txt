@@ -1,0 +1,5 @@
+compound	Sandy	Hurricane
+nsubj	moves	Sandy
+root	ROOT	moves
+case	US	towards
+nmod:towards	moves	US

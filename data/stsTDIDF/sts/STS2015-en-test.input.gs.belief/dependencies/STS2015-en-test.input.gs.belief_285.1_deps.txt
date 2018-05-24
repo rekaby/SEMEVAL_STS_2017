@@ -1,0 +1,12 @@
+root	ROOT	think
+nsubj	going	it
+aux	going	's
+ccomp	think	going
+mark	stay	to
+xcomp	going	stay
+det	way	that
+dobj	stay	way
+case	police	with
+amod	police	less
+nmod:with	way	police
+punct	think	?

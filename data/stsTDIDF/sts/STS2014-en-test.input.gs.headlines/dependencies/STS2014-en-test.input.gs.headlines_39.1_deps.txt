@@ -1,0 +1,9 @@
+compound	residents	Texas
+nsubj	seek	residents
+root	ROOT	seek
+dobj	seek	healing
+case	church	at
+nmod:at	seek	church
+case	blast	after
+amod	blast	deadly
+nmod:after	seek	blast

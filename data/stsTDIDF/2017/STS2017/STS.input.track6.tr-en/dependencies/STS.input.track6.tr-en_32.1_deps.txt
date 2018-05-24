@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+nsubj	jumps	dog
+root	ROOT	jumps
+compound:prt	jumps	off
+det	edge	the
+dobj	jumps	edge
+case	lake	into
+det	lake	the
+nmod:into	jumps	lake
+punct	jumps	.

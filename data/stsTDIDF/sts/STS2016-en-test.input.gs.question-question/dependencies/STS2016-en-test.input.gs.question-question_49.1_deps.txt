@@ -1,0 +1,7 @@
+root	ROOT	Does
+det	hook	this
+amod	hook	beginning
+dobj	Does	hook
+det	reader	the
+dobj	hook	reader
+punct	Does	?

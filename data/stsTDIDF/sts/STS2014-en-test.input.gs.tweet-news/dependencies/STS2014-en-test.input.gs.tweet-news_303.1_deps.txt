@@ -1,0 +1,12 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+dep	NYTimes	Diderot
+punct	Diderot	,
+det	Exemplar	an
+amod	Exemplar	American
+appos	Diderot	Exemplar
+punct	Diderot	?-8) compound(Sûr-2, Bien
+root	ROOT	Sûr
+punct	Sûr	!-3) det(thinker-3, A
+amod	thinker	free
+root	ROOT	thinker

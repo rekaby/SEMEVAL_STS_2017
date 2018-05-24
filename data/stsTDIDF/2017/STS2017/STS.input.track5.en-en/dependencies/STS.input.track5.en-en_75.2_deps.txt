@@ -1,0 +1,17 @@
+det	man	A
+nsubj	running	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	white
+dobj	wearing	shirt
+cc	shirt	and
+amod	shorts	red
+cc	red	and
+conj:and	red	black
+conj:and	shirt	shorts
+aux	running	is
+root	ROOT	running
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	running	sidewalk
+punct	running	.

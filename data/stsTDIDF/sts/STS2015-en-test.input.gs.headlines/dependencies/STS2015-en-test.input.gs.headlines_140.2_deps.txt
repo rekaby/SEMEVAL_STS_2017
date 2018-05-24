@@ -1,0 +1,9 @@
+nsubj	cuts	Australia
+root	ROOT	cuts
+compound	rate	interest
+dobj	cuts	rate
+mark	record	to
+advcl	cuts	record
+amod	%	low
+nummod	%	2.75
+dobj	record	%

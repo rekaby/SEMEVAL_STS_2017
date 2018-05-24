@@ -1,0 +1,11 @@
+compound	Vidal	Gore
+nsubj	dies	Vidal
+punct	Vidal	,
+amod	author	celebrated
+appos	Vidal	author
+punct	Vidal	,
+appos	Vidal	playwright
+punct	Vidal	,
+root	ROOT	dies
+case	86	at
+nmod:at	dies	86

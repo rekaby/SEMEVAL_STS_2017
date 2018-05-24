@@ -1,0 +1,13 @@
+mark	have	because
+det	battery	a
+nsubj	have	battery
+aux	have	will
+advmod	have	always
+root	ROOT	have
+det	voltage	a
+dobj	have	voltage
+advmod	is	even
+mark	is	if
+nsubj	is	it
+advcl	have	is
+nsubj	is	0

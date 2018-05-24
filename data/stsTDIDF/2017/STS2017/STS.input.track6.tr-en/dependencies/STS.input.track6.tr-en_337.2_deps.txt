@@ -1,0 +1,7 @@
+nsubj	sleeping	People
+aux	sleeping	are
+root	ROOT	sleeping
+case	park	in
+det	park	the
+nmod:in	sleeping	park
+punct	sleeping	.

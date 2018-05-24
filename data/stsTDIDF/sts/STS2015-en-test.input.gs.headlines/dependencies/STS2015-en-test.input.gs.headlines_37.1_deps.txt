@@ -1,0 +1,7 @@
+nsubj	Kill	Gunmen
+root	ROOT	Kill
+dobj	Kill	Eight
+case	Attack	In
+amod	Attack	Second
+compound	Attack	Kenya
+nmod:in	Eight	Attack

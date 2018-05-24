@@ -1,0 +1,13 @@
+punct	medicine	-LRB-
+root	ROOT	medicine
+punct	medicine	-RRB-
+det	condition	the
+dep	medicine	condition
+case	which	in
+nmod:in	resist	which
+det	organism	an
+nsubj	resist	organism
+aux	resist	can
+acl:relcl	condition	resist
+dobj	resist	disease
+punct	medicine	.

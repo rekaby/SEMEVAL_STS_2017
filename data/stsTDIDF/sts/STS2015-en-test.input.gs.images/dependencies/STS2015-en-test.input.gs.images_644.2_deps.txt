@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	little
+root	ROOT	girl
+case	swing	on
+det	swing	a
+compound	swing	kid
+nmod:on	girl	swing
+punct	girl	.

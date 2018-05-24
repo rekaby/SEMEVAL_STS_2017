@@ -1,0 +1,11 @@
+det	woman	The
+amod	woman	smiling
+nsubjpass	buried	woman
+case	beach	at
+det	beach	the
+nmod:at	woman	beach
+auxpass	buried	is
+root	ROOT	buried
+case	seaweed	in
+nmod:in	buried	seaweed
+punct	buried	.

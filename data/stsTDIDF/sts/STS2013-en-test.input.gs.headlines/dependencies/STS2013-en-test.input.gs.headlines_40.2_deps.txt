@@ -1,0 +1,9 @@
+nummod	troops	Three
+compound	troops	NATO
+nsubj	killed	troops
+root	ROOT	killed
+case	day	in
+nummod	day	one
+nmod:in	killed	day
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

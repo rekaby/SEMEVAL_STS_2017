@@ -1,0 +1,9 @@
+root	ROOT	take
+dobj	take	liberties
+cc	take	or
+conj:or	take	act
+case	confidence	with
+advmod	much	too
+amod	confidence	much
+nmod:with	act	confidence
+punct	take	.

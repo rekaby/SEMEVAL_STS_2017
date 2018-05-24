@@ -1,0 +1,8 @@
+root	ROOT	alternate
+advmod	values	dramatically
+case	values	between
+amod	values	high
+cc	high	and
+conj:and	high	low
+nmod:between	alternate	values
+punct	alternate	.

@@ -1,0 +1,10 @@
+det	boy	A
+nsubj	jumps	boy
+root	ROOT	jumps
+case	pool	into
+det	pool	a
+nmod:into	jumps	pool
+mark	watch	while
+nsubj	watch	lifeguards
+advcl	jumps	watch
+punct	jumps	.

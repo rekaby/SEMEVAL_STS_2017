@@ -1,0 +1,6 @@
+compound	stocks	China
+nsubj	open	stocks
+root	ROOT	open
+advmod	open	lower
+case	Wednesday	on
+nmod:on	open	Wednesday

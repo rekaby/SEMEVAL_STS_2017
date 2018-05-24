@@ -1,0 +1,7 @@
+nsubj	kills	Wave
+case	bombings	of
+nmod:of	Wave	bombings
+root	ROOT	kills
+dobj	kills	15
+case	Iraq	in
+nmod:in	kills	Iraq

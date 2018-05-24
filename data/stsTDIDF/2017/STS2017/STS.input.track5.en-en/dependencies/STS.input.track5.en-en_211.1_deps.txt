@@ -1,0 +1,6 @@
+det	man	A
+nsubj	rooftop	man
+cop	rooftop	is
+case	rooftop	on
+det	rooftop	a
+root	ROOT	rooftop

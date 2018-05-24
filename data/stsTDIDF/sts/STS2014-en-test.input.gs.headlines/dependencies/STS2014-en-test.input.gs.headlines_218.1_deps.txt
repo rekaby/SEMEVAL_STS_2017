@@ -1,0 +1,11 @@
+nummod	members	Four
+compound	members	U.S.
+compound	members	Air
+compound	members	Force
+compound	members	helicopter
+compound	members	crew
+root	ROOT	members
+acl	members	killed
+case	crash	in
+compound	crash	UK
+nmod:in	killed	crash

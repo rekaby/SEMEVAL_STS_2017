@@ -1,0 +1,8 @@
+det	cat	A
+root	ROOT	cat
+cc	cat	and
+det	boy	a
+nsubj	play	boy
+conj:and	cat	play
+advmod	play	together
+punct	cat	.

@@ -1,0 +1,6 @@
+root	ROOT	15
+acl	15	killed
+case	crash	in
+nmod:in	killed	crash
+case	India	in
+nmod:in	crash	India

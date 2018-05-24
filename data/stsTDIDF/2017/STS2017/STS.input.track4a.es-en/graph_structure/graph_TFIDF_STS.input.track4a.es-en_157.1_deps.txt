@@ -1,0 +1,11 @@
+sidewalk	leotard	nmod:with
+runs	sidewalk	nmod:down
+leotard	a	det
+man	shaved	amod
+leotard	with	case
+runs	speed	nmod:at
+speed	full	amod
+sidewalk	down	case
+speed	at	case
+leotard	white	amod
+runs	man	nsubj

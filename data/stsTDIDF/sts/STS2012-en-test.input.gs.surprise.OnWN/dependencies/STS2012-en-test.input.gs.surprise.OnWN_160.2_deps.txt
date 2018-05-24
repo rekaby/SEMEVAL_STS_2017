@@ -1,0 +1,9 @@
+det	state	the
+root	ROOT	state
+cc	state	or
+conj:or	state	fact
+mark	owner	of
+cop	owner	being
+det	owner	an
+acl	state	owner
+punct	state	.

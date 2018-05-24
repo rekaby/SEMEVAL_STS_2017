@@ -1,0 +1,12 @@
+nsubj	simple	It
+cop	simple	is
+advmod	simple	fairly
+root	ROOT	simple
+mark	understand	to
+xcomp	simple	understand
+punct	understand	,
+advmod	harder	somewhat
+advmod	understand	harder
+mark	referee	to
+xcomp	harder	referee
+punct	simple	.

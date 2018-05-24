@@ -1,0 +1,6 @@
+root	ROOT	rot
+punct	rot	;
+cop	unfit	become
+parataxis	rot	unfit
+case	consumption	for
+nmod:for	unfit	consumption

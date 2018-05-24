@@ -1,0 +1,5 @@
+compound	tests	Teenager
+root	ROOT	tests
+amod	tests	negative
+case	Ebola	for
+nmod:for	negative	Ebola

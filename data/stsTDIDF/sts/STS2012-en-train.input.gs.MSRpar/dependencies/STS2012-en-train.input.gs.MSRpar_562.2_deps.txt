@@ -1,0 +1,14 @@
+nsubj	kicked	Missouri
+root	ROOT	kicked
+compound	Clemons	Ricky
+dobj	kicked	Clemons
+case	team	off
+nmod:poss	team	its
+nmod:off	kicked	team
+punct	kicked	,
+advcl	kicked	ending
+nmod:poss	career	his
+amod	career	troubled
+dobj	ending	career
+advmod	ending	there
+punct	kicked	.

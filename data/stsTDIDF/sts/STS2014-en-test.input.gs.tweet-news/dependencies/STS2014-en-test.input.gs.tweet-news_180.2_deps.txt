@@ -1,0 +1,7 @@
+compound	Bryant	Kobe
+nsubj	call	Bryant
+cc	Bryant	and
+conj:and	Bryant	wife
+root	ROOT	call
+compound:prt	call	off
+dobj	call	divorce

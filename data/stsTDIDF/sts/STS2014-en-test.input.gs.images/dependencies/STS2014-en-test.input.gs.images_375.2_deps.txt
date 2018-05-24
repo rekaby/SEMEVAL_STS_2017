@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+det	horse	a
+amod	horse	white
+dobj	riding	horse
+case	arena	in
+det	arena	an
+nmod:in	riding	arena
+punct	man	.

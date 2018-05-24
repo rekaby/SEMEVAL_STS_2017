@@ -1,0 +1,11 @@
+advmod	replace	How
+aux	replace	can
+nsubj	replace	I
+root	ROOT	replace
+det	chain	a
+compound	chain	ceiling
+compound	chain	fan
+amod	chain	light
+compound	chain	pull
+dobj	replace	chain
+punct	replace	?

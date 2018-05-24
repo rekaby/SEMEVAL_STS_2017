@@ -1,0 +1,8 @@
+root	ROOT	Obama
+punct	Obama	:
+appos	Obama	Congress
+punct	Congress	,
+compound	credibility	world
+root	,	credibility
+case	line	on
+nmod:on	credibility	line

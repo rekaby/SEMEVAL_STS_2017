@@ -1,0 +1,10 @@
+root	ROOT	Clinton
+punct	Clinton	:
+nsubj	Work	US
+punct	US	,
+appos	US	Europe
+aux	Work	Must
+appos	Clinton	Work
+mark	Defeat	to
+xcomp	Work	Defeat
+dobj	Defeat	Tyrants

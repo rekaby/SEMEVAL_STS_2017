@@ -1,0 +1,10 @@
+det	person	A
+root	ROOT	person
+acl	person	dressed
+case	white	in
+nmod:in	dressed	white
+case	horse	on
+det	horse	a
+amod	horse	brown
+nmod:on	dressed	horse
+punct	person	.

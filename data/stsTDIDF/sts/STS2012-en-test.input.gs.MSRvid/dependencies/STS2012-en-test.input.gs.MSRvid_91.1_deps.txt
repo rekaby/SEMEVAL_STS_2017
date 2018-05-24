@@ -1,0 +1,8 @@
+det	kid	A
+nsubj	plays	kid
+root	ROOT	plays
+case	phone	with
+det	phone	a
+compound	phone	toy
+nmod:with	plays	phone
+punct	plays	.

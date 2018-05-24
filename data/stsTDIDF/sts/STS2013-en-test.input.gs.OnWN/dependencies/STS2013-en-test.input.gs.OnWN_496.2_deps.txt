@@ -1,0 +1,8 @@
+root	ROOT	form
+det	cover	a
+amod	cover	carpet-like
+dobj	form	cover
+punct	over	-LRB-
+dep	cover	over
+punct	over	-RRB-
+punct	form	.

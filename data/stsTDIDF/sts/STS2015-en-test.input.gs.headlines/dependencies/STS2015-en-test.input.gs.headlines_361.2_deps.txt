@@ -1,0 +1,8 @@
+amod	teacher	Indian-origin
+nsubj	dies	teacher
+root	ROOT	dies
+case	attack	after
+nmod:after	dies	attack
+case	Zealand	in
+compound	Zealand	New
+nmod:in	attack	Zealand

@@ -1,0 +1,4 @@
+compound	draw	guide
+punct	guide	,
+root	ROOT	draw
+acl	draw	through

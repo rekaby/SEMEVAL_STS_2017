@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	talking	girl
+aux	talking	is
+root	ROOT	talking
+case	dad	to
+nmod:poss	dad	her
+nmod:to	talking	dad
+case	cellphone	on
+det	cellphone	a
+nmod:on	talking	cellphone
+punct	talking	.

@@ -1,0 +1,6 @@
+streets	through	case
+riding	man	nsubj
+riding	board	dobj
+riding	streets	nmod:through
+board	hover	amod
+riding	is	aux

@@ -1,0 +1,7 @@
+amod	diplomat	Palestinian
+root	ROOT	diplomat
+acl	diplomat	killed
+case	explosion	in
+nmod:in	killed	explosion
+case	Prague	in
+nmod:in	explosion	Prague

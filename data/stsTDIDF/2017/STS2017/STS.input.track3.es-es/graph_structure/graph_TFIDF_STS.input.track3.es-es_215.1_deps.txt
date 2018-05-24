@@ -1,0 +1,5 @@
+plays	man	nsubj
+man	t-shirt	nmod:in
+t-shirt	in	case
+t-shirt	a	det
+plays	basketball	dobj

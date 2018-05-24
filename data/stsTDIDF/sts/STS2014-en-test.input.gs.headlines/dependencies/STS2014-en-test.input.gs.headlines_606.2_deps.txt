@@ -1,0 +1,11 @@
+root	ROOT	IAEA
+punct	IAEA	,
+nsubj	hold	Iran
+mark	hold	to
+acl:relcl	IAEA	hold
+amod	talks	first
+amod	talks	nuclear
+dobj	hold	talks
+case	election	since
+compound	election	Rohani
+nmod:since	hold	election

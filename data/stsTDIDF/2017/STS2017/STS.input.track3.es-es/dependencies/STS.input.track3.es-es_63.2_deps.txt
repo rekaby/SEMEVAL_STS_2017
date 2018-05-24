@@ -1,0 +1,10 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+det	trick	a
+dobj	doing	trick
+case	board	on
+det	board	a
+nmod:on	doing	board
+punct	doing	.

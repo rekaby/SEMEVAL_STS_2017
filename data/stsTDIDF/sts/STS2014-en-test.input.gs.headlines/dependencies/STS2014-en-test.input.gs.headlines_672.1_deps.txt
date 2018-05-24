@@ -1,0 +1,8 @@
+root	ROOT	Owners
+punct	charged	,
+nsubj	charged	others
+acl:relcl	Owners	charged
+case	fire	in
+compound	fire	Bangladesh
+compound	fire	factory
+nmod:in	charged	fire

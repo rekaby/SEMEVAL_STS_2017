@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+det	lady	a
+nsubj	is	lady
+acl	lady	carrying
+dobj	carrying	children
+case	hands	in
+nmod:poss	hands	her
+nummod	hands	two
+nmod:in	carrying	hands
+punct	is	.

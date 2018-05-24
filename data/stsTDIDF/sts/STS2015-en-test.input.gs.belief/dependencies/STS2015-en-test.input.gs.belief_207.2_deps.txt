@@ -1,0 +1,17 @@
+nsubj	campaigning	i
+cop	campaigning	'm
+dep	campaigning	all
+case	campaigning	for
+root	ROOT	campaigning
+cc	campaigning	but
+nsubj	think	i
+conj:but	campaigning	think
+mark	step	that
+nsubj	step	this
+cop	step	was
+advmod	step	really
+det	step	a
+ccomp	think	step
+advmod	far	too
+advmod	step	far
+punct	campaigning	.

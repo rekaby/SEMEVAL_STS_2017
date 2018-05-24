@@ -1,0 +1,9 @@
+compound	Korea	N.
+nsubj	looks	Korea
+root	ROOT	looks
+xcomp	looks	set
+mark	delay	to
+xcomp	set	delay
+amod	launch	controversial
+compound	launch	rocket
+dobj	delay	launch

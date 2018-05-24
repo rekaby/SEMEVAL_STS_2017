@@ -1,0 +1,4 @@
+farm	on	case
+woman	man	conj:and
+working	farm	nmod:on
+working	woman	nsubj

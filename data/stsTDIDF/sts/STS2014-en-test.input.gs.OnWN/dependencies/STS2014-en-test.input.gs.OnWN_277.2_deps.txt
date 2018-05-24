@@ -1,0 +1,13 @@
+root	ROOT	impair
+det	respiration	the
+dobj	impair	respiration
+conj:or	respiration	respiration
+case	passage	of
+cc	of	or
+conj:or	of	obstruct
+det	passage	the
+compound	passage	air
+nmod:obstruct	respiration	passage
+nmod:of	respiration	passage
+acl	passage	of
+punct	impair	.

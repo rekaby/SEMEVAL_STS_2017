@@ -1,0 +1,10 @@
+aux	make	Can
+nsubj	make	he
+advmod	make	really
+root	ROOT	make
+dobj	make	mone
+case	sense	from
+compound	sense	google
+compound	sense	ad
+nmod:from	mone	sense
+punct	make	.

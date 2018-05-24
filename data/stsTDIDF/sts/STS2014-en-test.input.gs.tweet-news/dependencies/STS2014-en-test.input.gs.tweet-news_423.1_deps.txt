@@ -1,0 +1,10 @@
+compound	man	Tibetan
+nsubj	sets	man
+root	ROOT	sets
+dobj	sets	himself
+case	fire	on
+nmod:on	sets	fire
+case	protest	in
+nmod:in	fire	protest
+punct	sets	.-9) root(ROOT-0, Again
+punct	Again	.

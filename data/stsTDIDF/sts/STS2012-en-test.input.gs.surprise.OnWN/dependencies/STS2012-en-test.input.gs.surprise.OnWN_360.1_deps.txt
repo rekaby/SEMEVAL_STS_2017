@@ -1,0 +1,5 @@
+amod	emotion	conscious
+amod	emotion	subjective
+root	ROOT	emotion
+cc	emotion	or
+conj:or	emotion	desire

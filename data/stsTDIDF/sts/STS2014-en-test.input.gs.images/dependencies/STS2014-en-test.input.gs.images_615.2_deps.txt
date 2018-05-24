@@ -1,0 +1,9 @@
+det	bike	A
+amod	bike	green
+nsubj	parked	bike
+root	ROOT	parked
+case	store	outside
+det	store	a
+compound	store	book
+nmod:outside	parked	store
+punct	parked	.

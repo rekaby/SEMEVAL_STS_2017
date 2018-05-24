@@ -1,0 +1,8 @@
+det	party	a
+root	ROOT	party
+case	people	of
+nmod:of	party	people
+acl	people	assembled
+case	dancing	for
+nmod:for	assembled	dancing
+punct	party	.

@@ -1,0 +1,20 @@
+root	ROOT	Goed
+dobj	Goed	initiatief
+punct	initiatief	,
+compound	kwaliteit	inkomen
+compound	kwaliteit	op
+appos	initiatief	kwaliteit
+case	Doctors	en
+amod	Doctors	niet
+compound	Doctors	op
+compound	Doctors	verrichtingen
+compound	Doctors	#New
+compound	Doctors	York
+compound	Doctors	City
+compound	Doctors	Ties
+nmod:en	kwaliteit	Doctors
+punct	Goed	?-16) root(ROOT-0, Income
+case	Quality	to
+nmod:to	Income	Quality
+case	Care	of
+nmod:of	Quality	Care

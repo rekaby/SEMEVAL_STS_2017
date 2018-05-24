@@ -1,0 +1,12 @@
+det	system	a
+root	ROOT	system
+case	units	of
+nmod:of	system	units
+acl	units	used
+mark	express	to
+xcomp	used	express
+det	weight	the
+dobj	express	weight
+case	something	of
+nmod:of	weight	something
+punct	system	.

@@ -1,0 +1,10 @@
+root	ROOT	U.S.
+punct	U.S.	,
+appos	U.S.	allies
+mark	add	to
+acl	allies	add
+dobj	add	sanctions
+case	Russia	against
+nmod:against	sanctions	Russia
+case	Ukraine	over
+nmod:over	add	Ukraine

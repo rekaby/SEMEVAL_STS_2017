@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	young
+nsubj	sitting	girl
+aux	sitting	is
+root	ROOT	sitting
+case	lap	on
+nmod:poss	lap	Santa
+case	Santa	's
+nmod:on	sitting	lap
+punct	sitting	.

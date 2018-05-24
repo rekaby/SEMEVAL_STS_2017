@@ -1,0 +1,4 @@
+ROOT	dancing	root
+children	Two	nummod
+dancing	children	nsubj
+dancing	are	aux

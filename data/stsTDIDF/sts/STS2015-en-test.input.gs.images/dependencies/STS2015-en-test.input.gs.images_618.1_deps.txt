@@ -1,0 +1,7 @@
+det	snowboarder	a
+nsubj	jumps	snowboarder
+root	ROOT	jumps
+case	air	into
+det	air	the
+nmod:into	jumps	air
+punct	jumps	.

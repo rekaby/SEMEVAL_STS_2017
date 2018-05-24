@@ -1,0 +1,9 @@
+det	man	A
+nsubj	giving	man
+aux	giving	is
+root	ROOT	giving
+det	woman	a
+iobj	giving	woman
+det	massage	a
+dobj	giving	massage
+punct	giving	.

@@ -1,0 +1,6 @@
+expl	is	There
+root	ROOT	is
+det	family	a
+nsubj	taking	family
+ccomp	is	taking
+dobj	taking	photos

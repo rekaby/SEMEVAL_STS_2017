@@ -1,0 +1,10 @@
+nsubj	want	i
+aux	want	did
+neg	want	n't
+root	ROOT	want
+mark	read	to
+xcomp	want	read
+cc	read	and
+conj:and	read	run
+dobj	read	hun
+punct	want	.

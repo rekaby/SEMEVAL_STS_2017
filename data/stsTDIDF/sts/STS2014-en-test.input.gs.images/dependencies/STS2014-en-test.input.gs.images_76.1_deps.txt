@@ -1,0 +1,11 @@
+nsubj	view	This
+cop	view	is
+det	view	a
+amod	view	rear
+root	ROOT	view
+case	car	of
+det	car	a
+compound	car	Chevrolet
+compound	car	sports
+nmod:of	view	car
+punct	view	.

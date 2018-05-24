@@ -1,0 +1,9 @@
+det	offering	a
+amod	offering	local
+amod	offering	non-residential
+compound	offering	college
+root	ROOT	offering
+nummod	years	two
+dobj	offering	years
+case	courses	of
+nmod:of	years	courses

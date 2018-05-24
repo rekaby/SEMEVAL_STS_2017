@@ -1,0 +1,7 @@
+nummod	people	Two
+root	ROOT	people
+nsubj	cut	who
+acl:relcl	people	cut
+det	cake	a
+dobj	cut	cake
+punct	people	.

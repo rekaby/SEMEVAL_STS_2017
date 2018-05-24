@@ -1,0 +1,7 @@
+det	man	The
+nsubj	buttering	man
+aux	buttering	is
+root	ROOT	buttering
+det	bread	the
+dobj	buttering	bread
+punct	buttering	.

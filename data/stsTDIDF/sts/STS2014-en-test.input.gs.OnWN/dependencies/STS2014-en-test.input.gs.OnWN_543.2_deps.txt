@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	exploding	of
+acl	act	exploding
+cc	exploding	or
+conj:or	exploding	bursting
+punct	act	.

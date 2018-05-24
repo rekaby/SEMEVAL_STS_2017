@@ -1,0 +1,6 @@
+det	janitor	The
+nsubj	shines	janitor
+root	ROOT	shines
+det	floors	the
+dobj	shines	floors
+punct	shines	.

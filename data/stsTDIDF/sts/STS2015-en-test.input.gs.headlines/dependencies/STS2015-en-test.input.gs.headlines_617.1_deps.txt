@@ -1,0 +1,9 @@
+nsubj	warns	Iran
+root	ROOT	warns
+case	spillover	of
+nmod:of	warns	spillover
+case	war	of
+amod	war	possible
+nmod:of	spillover	war
+case	Syria	on
+nmod:on	warns	Syria

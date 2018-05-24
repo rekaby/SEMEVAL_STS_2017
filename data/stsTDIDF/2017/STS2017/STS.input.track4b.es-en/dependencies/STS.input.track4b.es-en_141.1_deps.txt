@@ -1,0 +1,16 @@
+det	amendment	An
+nsubj	offering	amendment
+acl	amendment	prohibiting
+amod	marriage	same-sex
+dobj	prohibiting	marriage
+cop	offering	is
+det	offering	a
+amod	offering	perennial
+root	ROOT	offering
+punct	offering	,
+advmod	one	as
+cop	one	is
+dep	offering	one
+acl	one	prohibiting
+dobj	prohibiting	flag-burning
+punct	offering	.

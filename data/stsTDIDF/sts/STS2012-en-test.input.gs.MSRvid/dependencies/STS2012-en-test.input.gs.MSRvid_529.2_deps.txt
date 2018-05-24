@@ -1,0 +1,8 @@
+det	man	A
+nsubj	kicking	man
+aux	kicking	is
+root	ROOT	kicking
+det	ball	a
+compound	ball	soccer
+dobj	kicking	ball
+punct	kicking	.

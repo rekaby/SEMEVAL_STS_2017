@@ -1,0 +1,14 @@
+det	player	A
+compound	player	hockey
+nsubj	laying	player
+aux	laying	is
+root	ROOT	laying
+case	ice	on
+det	ice	the
+nmod:on	laying	ice
+case	goal	in
+mwe	in	front
+mwe	in	of
+det	goal	the
+nmod:in_front_of	ice	goal
+punct	laying	.

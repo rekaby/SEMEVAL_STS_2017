@@ -1,0 +1,8 @@
+det	monkey	A
+nsubj	walking	monkey
+aux	walking	is
+root	ROOT	walking
+case	bed	on
+det	bed	a
+nmod:on	walking	bed
+punct	walking	.

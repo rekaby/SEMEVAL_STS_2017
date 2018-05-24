@@ -1,0 +1,10 @@
+cc	survive	But
+aux	survive	can
+det	image	this
+nsubj	survive	image
+root	ROOT	survive
+det	pursuit	a
+dobj	survive	pursuit
+case	decline	of
+nmod:of	pursuit	decline
+punct	survive	?

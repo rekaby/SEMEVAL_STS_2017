@@ -1,0 +1,7 @@
+compound	flights	Southwest
+compound	flights	grounds
+nsubj	glitch	flights
+amod	flights	due
+case	computer	to
+nmod:to	due	computer
+root	ROOT	glitch

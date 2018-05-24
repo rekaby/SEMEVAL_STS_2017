@@ -1,0 +1,16 @@
+root	ROOT	Have
+det	complexion	a
+dobj	Have	complexion
+case	color	with
+det	color	a
+amod	color	strong
+amod	color	bright
+nmod:with	complexion	color
+punct	Have	;
+parataxis	Have	reflect
+dobj	reflect	emotion
+case	complexion	via
+nmod:poss	complexion	one
+case	one	's
+nmod:via	reflect	complexion
+punct	Have	.

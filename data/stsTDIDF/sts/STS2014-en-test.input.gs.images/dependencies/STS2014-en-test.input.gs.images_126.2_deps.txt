@@ -1,0 +1,10 @@
+root	ROOT	Man
+acl	Man	wearing
+det	bib	a
+dobj	wearing	bib
+acl	bib	sitting
+case	couch	on
+det	couch	a
+amod	couch	green
+nmod:on	sitting	couch
+punct	Man	.

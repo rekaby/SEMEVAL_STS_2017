@@ -1,0 +1,9 @@
+compound	Values	Property
+root	ROOT	Values
+punct	Values	:
+compound	Estate	Real
+dep	Values	Estate
+case	$	for
+nmod:for	Estate	$
+nummod	$	1.6
+dep	Estate	Million

@@ -1,0 +1,12 @@
+side	street	nmod:of
+park	side	nmod:on
+image	a	det
+image	vivid	amod
+painter	A	det
+painting	image	dobj
+painting	is	aux
+park	of	case
+painting	painter	nsubj
+ROOT	painting	root
+image	park	nmod:of
+street	of	case

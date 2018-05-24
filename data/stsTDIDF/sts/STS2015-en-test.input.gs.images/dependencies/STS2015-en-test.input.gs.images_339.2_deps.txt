@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+acl	man	sitting
+advmod	sitting	back
+case	back	to
+nmod:to	back	back
+advmod	sitting	outside
+case	sun	in
+det	sun	the
+nmod:in	outside	sun
+punct	man	.

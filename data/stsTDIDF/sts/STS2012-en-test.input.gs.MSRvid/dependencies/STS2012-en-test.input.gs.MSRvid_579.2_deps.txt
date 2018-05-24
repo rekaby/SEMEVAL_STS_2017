@@ -1,0 +1,10 @@
+det	boy	A
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+case	laptop	on
+det	laptop	a
+nmod:on	playing	laptop
+punct	playing	.

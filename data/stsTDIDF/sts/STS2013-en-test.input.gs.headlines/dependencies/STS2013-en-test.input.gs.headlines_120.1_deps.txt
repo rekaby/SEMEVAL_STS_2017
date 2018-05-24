@@ -1,0 +1,6 @@
+nummod	shooting	One
+amod	shooting	dead
+case	school	in
+compound	school	Ohio
+nmod:in	dead	school
+root	ROOT	shooting

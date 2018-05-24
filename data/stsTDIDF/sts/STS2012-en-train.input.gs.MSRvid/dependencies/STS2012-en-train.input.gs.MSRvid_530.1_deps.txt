@@ -1,0 +1,12 @@
+det	bird	The
+nsubj	ate	bird
+root	ROOT	ate
+det	food	the
+dobj	ate	food
+case	tree	in
+det	tree	the
+nmod:in	ate	tree
+case	bowl	from
+det	bowl	a
+nmod:from	ate	bowl
+punct	ate	.

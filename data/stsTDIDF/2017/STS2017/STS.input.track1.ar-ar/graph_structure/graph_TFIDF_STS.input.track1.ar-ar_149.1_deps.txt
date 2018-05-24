@@ -1,0 +1,7 @@
+ROOT	Surfer	root
+Surfer	.	punct
+divers	black	amod
+wearing	divers	dobj
+Surfer	wearing	acl
+divers	a	det
+divers	suit	compound

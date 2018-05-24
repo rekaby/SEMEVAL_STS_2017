@@ -1,0 +1,4 @@
+woman	phone	nmod:on
+chair	on	case
+sitting	chair	nmod:on
+sitting	woman	nsubj

@@ -1,0 +1,15 @@
+nsubj	circuit	Circuit
+nummod	Circuit	2
+cop	circuit	is
+neg	circuit	not
+det	circuit	a
+amod	circuit	short
+root	ROOT	circuit
+dep	circuit	because
+dep	because	is
+ccomp	is	shows
+dobj	shows	connection
+case	bulb	to
+det	bulb	the
+nmod:to	connection	bulb
+punct	circuit	.

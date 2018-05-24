@@ -1,0 +1,9 @@
+det	person	a
+root	ROOT	person
+case	guardianship	under
+det	guardianship	the
+nmod:under	person	guardianship
+cc	guardianship	or
+conj:or	guardianship	custody
+case	another	of
+nmod:of	guardianship	another

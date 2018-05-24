@@ -1,0 +1,8 @@
+root	ROOT	cause
+mark	appear	to
+xcomp	cause	appear
+case	form	in
+det	form	a
+amod	form	new
+nmod:in	appear	form
+punct	cause	.

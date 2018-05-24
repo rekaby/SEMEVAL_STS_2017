@@ -1,0 +1,7 @@
+chasing	.	punct
+chasing	ball	dobj
+chasing	is	aux
+ROOT	chasing	root
+dog	little	amod
+dog	The	det
+chasing	dog	nsubj

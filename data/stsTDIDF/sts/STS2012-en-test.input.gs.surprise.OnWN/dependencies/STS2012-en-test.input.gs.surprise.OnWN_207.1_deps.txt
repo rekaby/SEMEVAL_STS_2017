@@ -1,0 +1,6 @@
+det	state	A
+amod	state	mental
+root	ROOT	state
+case	sadness	of
+nmod:of	state	sadness
+punct	state	.

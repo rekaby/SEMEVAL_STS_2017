@@ -1,0 +1,14 @@
+det	kitchen	A
+amod	kitchen	small
+root	ROOT	kitchen
+case	items	with
+nmod:with	kitchen	items
+acl	items	stacked
+case	shelves	on
+det	shelves	the
+nmod:on	stacked	shelves
+cc	kitchen	and
+case	counter	on
+det	counter	the
+conj:and	kitchen	counter
+punct	kitchen	.

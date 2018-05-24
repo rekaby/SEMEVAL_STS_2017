@@ -1,0 +1,7 @@
+amod	minister	Russian
+amod	minister	foreign
+root	ROOT	minister
+mark	meet	to
+acl	minister	meet
+compound	chief	UN
+dobj	meet	chief

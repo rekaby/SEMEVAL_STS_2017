@@ -1,0 +1,8 @@
+nsubj	path	A
+cc	A	and
+conj:and	A	C
+cop	path	are
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path

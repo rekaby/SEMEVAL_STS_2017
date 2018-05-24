@@ -1,0 +1,13 @@
+dobj	mean	What
+aux	mean	does
+nsubj	mean	it
+root	ROOT	mean
+mark	write	to
+xcomp	mean	write
+det	song	a
+dobj	write	song
+case	key	in
+det	key	a
+amod	key	certain
+nmod:in	write	key
+punct	mean	?

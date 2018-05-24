@@ -1,0 +1,16 @@
+punct	said	``
+nsubj	pleased	We
+cop	pleased	are
+advmod	pleased	very
+ccomp	said	pleased
+case	decision	with
+det	judge	the
+nmod:poss	decision	judge
+case	judge	's
+nmod:with	pleased	decision
+punct	said	,
+punct	said	''
+nsubj	said	Merrill
+root	ROOT	said
+nmod:tmod	said	yesterday
+punct	said	.

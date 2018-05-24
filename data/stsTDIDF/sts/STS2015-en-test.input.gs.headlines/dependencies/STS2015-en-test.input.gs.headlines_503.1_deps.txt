@@ -1,0 +1,10 @@
+nmod:poss	Philip	Britain
+case	Britain	's
+compound	Philip	Prince
+nsubj	set	Philip
+root	ROOT	set
+case	surgery	for
+punct	surgery	`
+amod	surgery	exploratory
+punct	surgery	'
+nmod:for	set	surgery

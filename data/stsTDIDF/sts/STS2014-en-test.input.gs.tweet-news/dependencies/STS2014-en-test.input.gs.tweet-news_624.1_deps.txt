@@ -1,0 +1,11 @@
+det	fame	The
+amod	fame	classic
+amod	fame	American
+root	ROOT	fame
+cc	fame	and
+compound	game	blame
+conj:and	fame	game
+punct	fame	.-8) det(Point-2, The
+root	ROOT	Point
+case	Lance	of
+nmod:of	Point	Lance

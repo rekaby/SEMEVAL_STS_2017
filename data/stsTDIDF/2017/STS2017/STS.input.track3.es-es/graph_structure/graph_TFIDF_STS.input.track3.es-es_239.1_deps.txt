@@ -1,0 +1,9 @@
+man	younger	amod
+blue	in	case
+standing	man	nsubj
+standing	man	nmod:near
+man	near	case
+man	An	det
+man	blue	nmod:in
+man	beige	amod
+blue	building	nmod:in_front_of

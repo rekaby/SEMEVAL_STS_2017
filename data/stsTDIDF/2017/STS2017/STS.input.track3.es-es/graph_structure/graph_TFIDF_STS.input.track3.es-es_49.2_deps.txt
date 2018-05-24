@@ -1,0 +1,6 @@
+beard	with	case
+plays	man	nsubj
+plays	guitar	dobj
+beard	a	det
+man	beard	nmod:with
+guitar	the	det

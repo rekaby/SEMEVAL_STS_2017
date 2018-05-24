@@ -1,0 +1,8 @@
+det	baby	A
+nsubj	sucking	baby
+aux	sucking	is
+root	ROOT	sucking
+case	pacifier	on
+det	pacifier	a
+nmod:on	sucking	pacifier
+punct	sucking	.

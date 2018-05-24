@@ -1,0 +1,3 @@
+people	Three	nummod
+sitting	people	nsubj
+sitting	edge	nmod:on

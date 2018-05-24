@@ -1,0 +1,16 @@
+amod	proteins	Coagulated
+compound	proteins	egg
+nsubj	give	proteins
+case	combination	in
+nmod:in	proteins	combination
+case	gluten	with
+nmod:with	combination	gluten
+root	ROOT	give
+amod	goods	baked
+iobj	give	goods
+det	structure	the
+amod	structure	supporting
+dobj	give	structure
+nsubj	need	they
+acl:relcl	structure	need
+punct	give	.

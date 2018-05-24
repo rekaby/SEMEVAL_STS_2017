@@ -1,0 +1,6 @@
+root	ROOT	Plane
+case	mid-flight	in
+nmod:in	Plane	mid-flight
+case	sunset	at
+nmod:at	Plane	sunset
+punct	Plane	.

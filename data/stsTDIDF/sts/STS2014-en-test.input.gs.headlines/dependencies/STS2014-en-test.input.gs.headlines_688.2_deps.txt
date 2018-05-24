@@ -1,0 +1,7 @@
+compound	Lanka	Sri
+nsubj	warned	Lanka
+root	ROOT	warned
+case	crime	over
+compound	crime	war
+nmod:over	warned	crime
+dobj	warned	allegations

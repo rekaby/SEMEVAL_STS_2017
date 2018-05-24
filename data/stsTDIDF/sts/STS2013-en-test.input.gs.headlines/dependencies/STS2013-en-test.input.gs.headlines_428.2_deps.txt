@@ -1,0 +1,9 @@
+nsubj	Shifts	Focus
+root	ROOT	Shifts
+case	Greece	to
+nmod:to	Shifts	Greece
+case	Bank	After
+compound	Bank	Spain
+compound	Bank	Secures
+nmod:after	Shifts	Bank
+dobj	Shifts	Bailout

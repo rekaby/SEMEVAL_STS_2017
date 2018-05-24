@@ -1,0 +1,10 @@
+compound	suspect	Boston
+compound	suspect	bombing
+nsubj	surveillance	suspect
+cop	surveillance	was
+case	surveillance	under
+compound	surveillance	FBI
+root	ROOT	surveillance
+punct	surveillance	,
+acl	surveillance	says
+nsubj	says	mother

@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	walk	woman
+conj:and	man	walk
+case	dog	with
+det	dog	a
+amod	dog	white
+nmod:with	walk	dog
+case	leash	on
+det	leash	a
+nmod:on	walk	leash
+punct	man	.

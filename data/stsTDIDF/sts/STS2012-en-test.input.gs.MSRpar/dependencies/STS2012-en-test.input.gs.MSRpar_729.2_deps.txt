@@ -1,0 +1,17 @@
+mark	reporting	With
+det	precincts	all
+nsubj	reporting	precincts
+advcl	had	reporting
+punct	had	,
+nsubj	had	Fletcher
+root	ROOT	had
+nummod	votes	88,747
+dobj	had	votes
+punct	votes	,
+cc	votes	or
+nummod	percent	57
+conj:or	votes	percent
+case	total	of
+det	total	the
+nmod:of	percent	total
+punct	had	.

@@ -1,0 +1,13 @@
+aux	tell	Should
+nsubj	tell	I
+root	ROOT	tell
+nmod:poss	boss	my
+dobj	tell	boss
+nsubj	have	I
+acl:relcl	boss	have
+det	offer	a
+amod	offer	full
+compound	offer	time
+compound	offer	job
+dobj	have	offer
+punct	tell	?

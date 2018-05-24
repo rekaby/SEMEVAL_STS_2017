@@ -1,0 +1,10 @@
+root	ROOT	v
+nsubj	says	Kerry
+acl:relcl	v	says
+nsubj	come	#Iran
+aux	come	must
+ccomp	says	come
+xcomp	come	clean
+case	program	on
+amod	program	#nuclear
+nmod:on	clean	program

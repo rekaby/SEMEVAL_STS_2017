@@ -1,0 +1,16 @@
+nsubj	causing	What
+aux	causing	could
+aux	causing	be
+root	ROOT	causing
+compound	pressure	water
+dobj	causing	pressure
+mark	build	to
+xcomp	causing	build
+compound:prt	build	up
+mark	changing	after
+advcl	build	changing
+dobj	changing	my
+case	filter	under
+compound	filter	sink
+nmod:under	my	filter
+punct	causing	?

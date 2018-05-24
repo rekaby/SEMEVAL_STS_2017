@@ -1,0 +1,6 @@
+nmod:poss	PM	Turkey
+case	Turkey	's
+nsubj	Warns	PM
+root	ROOT	Warns
+case	Protests	Against
+nmod:against	Warns	Protests

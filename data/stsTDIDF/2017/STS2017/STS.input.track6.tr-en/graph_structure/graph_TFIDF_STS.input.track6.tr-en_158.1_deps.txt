@@ -1,0 +1,10 @@
+woman	coat	nmod:in
+beret	in	case
+man	beret	nmod:in
+coat	a	det
+coat	pink	amod
+is	man	nsubj
+beret	and	cc
+beret	woman	conj:and
+coat	in	case
+beret	a	det

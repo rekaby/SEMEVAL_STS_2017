@@ -1,0 +1,16 @@
+nsubj	concern	It
+cop	concern	is
+det	concern	a
+amod	concern	national
+ccomp	said	concern
+nsubj	touch	that
+aux	touch	will
+acl:relcl	concern	touch
+advmod	American	virtually
+det	American	every
+xcomp	touch	American
+punct	said	,
+punct	said	''
+nsubj	said	Abraham
+root	ROOT	said
+punct	said	.

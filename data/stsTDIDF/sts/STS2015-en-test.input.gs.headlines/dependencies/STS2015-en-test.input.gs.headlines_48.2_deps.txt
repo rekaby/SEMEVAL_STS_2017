@@ -1,0 +1,7 @@
+compound	sell-off	Tech
+nsubj	sends	sell-off
+root	ROOT	sends
+amod	markets	Asian
+compound	markets	stock
+dobj	sends	markets
+xcomp	sends	lower

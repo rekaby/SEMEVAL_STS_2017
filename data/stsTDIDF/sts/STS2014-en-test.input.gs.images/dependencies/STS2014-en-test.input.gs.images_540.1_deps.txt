@@ -1,0 +1,6 @@
+det	puppy	A
+compound	puppy	tan
+nsubjpass	petted	puppy
+auxpass	petted	being
+root	ROOT	petted
+punct	petted	.

@@ -1,0 +1,12 @@
+nsubj	think	i
+root	ROOT	think
+nsubj	feels	everyone
+ccomp	think	feels
+case	you	like
+nmod:like	feels	you
+case	sometime	at
+nmod:at	feels	sometime
+case	lives	in
+nmod:poss	lives	their
+nmod:in	sometime	lives
+punct	think	.-12) root(ROOT-0, .

@@ -1,0 +1,9 @@
+det	man	An
+amod	man	elderly
+nsubj	speaking	man
+aux	speaking	is
+root	ROOT	speaking
+case	podium	at
+det	podium	a
+nmod:at	speaking	podium
+punct	speaking	.

@@ -1,0 +1,16 @@
+punct	based	`
+compound	Diaries	Vampire
+nmod:poss	spinoff	Diaries
+case	Diaries	'
+dep	based	spinoff
+acl	spinoff	coming
+case	CW	to
+det	CW	The
+nmod:to	coming	CW
+punct	based	,
+nsubjpass	based	it
+auxpass	based	's
+root	ROOT	based
+case	Nola	in
+nmod:in	based	Nola
+punct	based	!

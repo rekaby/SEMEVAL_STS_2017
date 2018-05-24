@@ -1,0 +1,5 @@
+catch	fish	dobj
+runs	dog	nsubj
+runs	water	nmod:in
+runs	catch	xcomp
+fish	a	det

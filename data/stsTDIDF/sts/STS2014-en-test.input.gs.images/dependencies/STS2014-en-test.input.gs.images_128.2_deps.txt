@@ -1,0 +1,8 @@
+nummod	eagles	Two
+amod	eagles	bald
+root	ROOT	eagles
+acl	eagles	perched
+case	branch	on
+det	branch	a
+nmod:on	perched	branch
+punct	eagles	.

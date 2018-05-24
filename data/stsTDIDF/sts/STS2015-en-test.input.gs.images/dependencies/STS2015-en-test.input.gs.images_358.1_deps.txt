@@ -1,0 +1,9 @@
+det	child	A
+root	ROOT	child
+case	hands	with
+nmod:poss	hands	his
+nmod:with	child	hands
+case	head	on
+nmod:poss	head	his
+nmod:on	hands	head
+punct	child	.

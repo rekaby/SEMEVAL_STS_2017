@@ -1,0 +1,8 @@
+root	ROOT	give
+det	thrashing	a
+dobj	give	thrashing
+nmod	thrashing	to
+punct	give	;
+parataxis	give	beat
+xcomp	beat	hard
+punct	give	.

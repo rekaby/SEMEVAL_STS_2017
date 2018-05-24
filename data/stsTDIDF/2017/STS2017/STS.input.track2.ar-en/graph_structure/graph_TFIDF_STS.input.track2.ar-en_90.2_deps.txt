@@ -1,0 +1,4 @@
+crowd	people	nmod:of
+woman	standing	acl
+standing	crowd	nmod:in
+people	Asia	nmod:in

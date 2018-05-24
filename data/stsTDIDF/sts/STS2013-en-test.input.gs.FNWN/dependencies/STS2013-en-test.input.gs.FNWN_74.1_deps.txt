@@ -1,0 +1,13 @@
+det	developer	an
+nsubj	develops	developer
+root	ROOT	develops
+det	product	a
+dobj	develops	product
+punct	develops	,
+case	cases	in
+det	cases	some
+nmod:in	develops	cases
+case	company	for
+det	company	a
+nmod:for	cases	company
+punct	develops	.

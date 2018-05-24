@@ -1,0 +1,10 @@
+compound	Athlete	Urban
+root	ROOT	Athlete
+punct	Athlete	:
+compound	Workout	A
+compound	Workout	Hotel
+compound	Workout	Room
+nsubj	Glor	Workout
+case	Nicole	From
+nmod:from	Workout	Nicole
+parataxis	Athlete	Glor

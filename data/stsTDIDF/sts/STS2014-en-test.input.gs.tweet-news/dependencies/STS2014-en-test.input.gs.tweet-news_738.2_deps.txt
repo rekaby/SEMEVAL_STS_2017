@@ -1,0 +1,9 @@
+compound	Council	U.N.
+compound	Council	Security
+nsubj	slams	Council
+root	ROOT	slams
+compound	Korea	North
+dobj	slams	Korea
+punct	slams	,
+amod	sanctions	expands
+dep	slams	sanctions

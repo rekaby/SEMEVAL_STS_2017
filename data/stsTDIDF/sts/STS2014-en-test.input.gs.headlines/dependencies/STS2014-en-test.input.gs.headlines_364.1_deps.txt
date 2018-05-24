@@ -1,0 +1,10 @@
+root	ROOT	Syria
+punct	Syria	`
+mark	declare	to
+root	`	declare
+compound	weapons	chemical
+dobj	declare	weapons
+cc	declare	and
+compound	convention	sign
+conj:and	declare	convention
+punct	declare	'

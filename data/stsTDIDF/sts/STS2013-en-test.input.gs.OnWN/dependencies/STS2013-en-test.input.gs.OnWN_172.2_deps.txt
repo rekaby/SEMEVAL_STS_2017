@@ -1,0 +1,6 @@
+det	state	a
+root	ROOT	state
+case	poverty	of
+amod	poverty	extreme
+nmod:of	state	poverty
+punct	state	.

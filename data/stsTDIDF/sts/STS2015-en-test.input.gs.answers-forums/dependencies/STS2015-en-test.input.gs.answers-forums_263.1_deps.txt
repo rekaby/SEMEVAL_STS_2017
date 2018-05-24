@@ -1,0 +1,13 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	need	you
+ccomp	think	need
+mark	apply	to
+xcomp	need	apply
+det	thinking	a
+amod	thinking	little
+amod	thinking	statistical
+dobj	apply	thinking
+case	this	to
+nmod:to	thinking	this
+punct	think	.

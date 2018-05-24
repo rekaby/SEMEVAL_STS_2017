@@ -1,0 +1,6 @@
+compound	police	Afghan
+nsubj	kill	police
+root	ROOT	kill
+nummod	fighters	5
+compound	fighters	Taliban
+dobj	kill	fighters

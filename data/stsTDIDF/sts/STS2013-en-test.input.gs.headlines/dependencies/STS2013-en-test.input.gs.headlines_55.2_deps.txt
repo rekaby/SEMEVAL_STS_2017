@@ -1,0 +1,6 @@
+nummod	attacks	16
+acl	16	killed
+case	Iraq	in
+compound	Iraq	north
+nmod:in	killed	Iraq
+root	ROOT	attacks

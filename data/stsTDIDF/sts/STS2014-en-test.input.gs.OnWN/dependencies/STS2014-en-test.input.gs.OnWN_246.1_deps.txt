@@ -1,0 +1,9 @@
+root	ROOT	Manipulate
+cc	Manipulate	or
+conj:or	Manipulate	move
+dobj	Manipulate	something
+case	order	in
+nmod:in	something	order
+mark	operate	to
+acl	something	operate
+punct	Manipulate	.

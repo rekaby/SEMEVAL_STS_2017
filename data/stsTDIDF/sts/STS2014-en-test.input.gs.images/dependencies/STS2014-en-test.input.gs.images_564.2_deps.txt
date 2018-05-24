@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+case	cap	with
+det	cap	a
+nmod:with	man	cap
+cc	cap	and
+compound	walking	jacket
+conj:and	cap	walking
+case	bottles	between
+nummod	bottles	two
+amod	bottles	large
+nmod:between	walking	bottles
+punct	man	.

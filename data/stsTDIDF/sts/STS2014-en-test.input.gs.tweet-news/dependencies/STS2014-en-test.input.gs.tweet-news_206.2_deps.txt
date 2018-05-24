@@ -1,0 +1,9 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+dep	Columnist	Lessons
+case	Guns	From
+nmod:from	Lessons	Guns
+cc	Guns	and
+det	Goose	a
+conj:and	Guns	Goose

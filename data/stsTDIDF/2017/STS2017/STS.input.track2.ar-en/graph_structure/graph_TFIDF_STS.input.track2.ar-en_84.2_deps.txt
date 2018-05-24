@@ -1,0 +1,8 @@
+talking	women	nmod:for
+talking	field	nmod:in
+wheelchair	a	det
+women	a	det
+wheelchair	talking	acl
+women	few	amod
+uses	wheelchair	dobj
+uses	man	nsubj

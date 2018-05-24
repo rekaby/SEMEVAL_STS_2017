@@ -1,0 +1,10 @@
+nummod	Australians	Two
+nsubj	killed	Australians
+root	ROOT	killed
+case	Kenya	in
+nmod:in	killed	Kenya
+mark	crashed	after
+nsubj	crashed	bus
+advcl	killed	crashed
+case	river	into
+nmod:into	crashed	river

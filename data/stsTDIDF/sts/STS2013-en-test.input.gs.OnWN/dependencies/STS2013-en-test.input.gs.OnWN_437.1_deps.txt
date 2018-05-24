@@ -1,0 +1,7 @@
+root	ROOT	Cook
+case	cream	in
+nmod:in	Cook	cream
+cc	cream	or
+conj:or	cream	using
+dobj	using	cream
+punct	Cook	.

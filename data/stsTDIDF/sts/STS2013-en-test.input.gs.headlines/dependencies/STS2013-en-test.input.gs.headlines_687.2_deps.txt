@@ -1,0 +1,6 @@
+compound	bomb	Roadside
+nsubj	kills	bomb
+root	ROOT	kills
+nummod	policemen	5
+compound	policemen	Afghan
+dobj	kills	policemen

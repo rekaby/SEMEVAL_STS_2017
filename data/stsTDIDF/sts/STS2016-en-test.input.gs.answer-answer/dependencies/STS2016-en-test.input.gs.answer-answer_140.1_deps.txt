@@ -1,0 +1,10 @@
+nsubj	depends	It
+root	ROOT	depends
+advmod	depends	entirely
+case	company	on
+nmod:poss	company	your
+nmod:on	depends	company
+cc	company	and
+nmod:poss	contract	your
+conj:and	company	contract
+punct	depends	.

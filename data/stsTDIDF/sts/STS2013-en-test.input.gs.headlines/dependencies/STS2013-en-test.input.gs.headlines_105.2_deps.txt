@@ -1,0 +1,7 @@
+amod	rate	French
+compound	rate	unemployment
+nsubj	rises	rate
+root	ROOT	rises
+case	percent	to
+compound	percent	10
+nmod:to	rises	percent

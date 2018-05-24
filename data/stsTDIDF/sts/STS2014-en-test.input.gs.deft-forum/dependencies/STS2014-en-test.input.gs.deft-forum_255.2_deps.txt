@@ -1,0 +1,9 @@
+nsubj	breaks	This
+root	ROOT	breaks
+det	record	the
+amod	record	daily
+dobj	breaks	record
+mark	set	of
+acl	record	set
+compound:prt	set	in
+punct	breaks	.

@@ -1,0 +1,9 @@
+det	space	the
+root	ROOT	space
+advmod	occurs	where
+det	division	a
+nsubj	occurs	division
+cc	division	or
+conj:or	division	parting
+acl:relcl	space	occurs
+punct	space	.

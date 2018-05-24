@@ -1,0 +1,10 @@
+root	ROOT	ABC
+mark	look	to
+acl	ABC	look
+case	series	at
+punct	series	`
+compound	Wars	Star
+nmod:poss	series	Wars
+case	Wars	'
+amod	series	live-action
+nmod:at	look	series

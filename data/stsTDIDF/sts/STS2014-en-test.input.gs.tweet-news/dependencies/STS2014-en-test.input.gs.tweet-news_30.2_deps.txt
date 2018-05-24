@@ -1,0 +1,9 @@
+compound	Pryor	Richard
+nsubj	Documentaries	Pryor
+cc	Pryor	and
+compound	Focus	Dick
+compound	Focus	Cheney
+conj:and	Pryor	Focus
+case	Showtime	of
+nmod:of	Pryor	Showtime
+root	ROOT	Documentaries

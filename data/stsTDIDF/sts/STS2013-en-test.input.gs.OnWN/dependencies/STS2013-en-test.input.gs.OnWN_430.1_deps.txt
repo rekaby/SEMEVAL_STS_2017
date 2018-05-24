@@ -1,0 +1,7 @@
+det	state	A
+root	ROOT	state
+case	confusion	of
+nmod:of	state	confusion
+cc	confusion	or
+conj:or	confusion	disorder
+punct	state	.

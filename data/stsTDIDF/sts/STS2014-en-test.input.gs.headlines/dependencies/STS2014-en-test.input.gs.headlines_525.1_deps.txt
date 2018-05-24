@@ -1,0 +1,8 @@
+amod	leader	Brazilian
+nsubj	holds	leader
+root	ROOT	holds
+compound	talks	crisis
+nsubj	protests	talks
+case	street	on
+nmod:on	talks	street
+ccomp	holds	protests

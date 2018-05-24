@@ -1,0 +1,8 @@
+det	jet	An
+compound	jet	AeroMexico
+root	ROOT	jet
+acl	jet	taxing
+case	runway	along
+det	runway	a
+nmod:along	taxing	runway
+punct	jet	.

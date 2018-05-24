@@ -1,0 +1,11 @@
+root	ROOT	maintain
+cc	maintain	or
+conj:or	maintain	preserve
+det	condition	a
+amod	condition	particular
+dobj	maintain	condition
+punct	condition	,
+conj:or	condition	state
+punct	condition	,
+cc	condition	or
+conj:or	condition	activity

@@ -1,0 +1,9 @@
+det	lyric	a
+amod	lyric	short
+root	ROOT	lyric
+cc	lyric	or
+conj:or	lyric	poem
+acl	lyric	intended
+mark	sung	to
+auxpass	sung	be
+xcomp	intended	sung

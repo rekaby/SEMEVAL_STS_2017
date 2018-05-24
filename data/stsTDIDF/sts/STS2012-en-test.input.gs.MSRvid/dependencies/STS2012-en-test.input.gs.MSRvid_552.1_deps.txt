@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+nmod:poss	baby	her
+dobj	putting	baby
+case	bin	in
+det	bin	a
+compound	bin	waste
+nmod:in	putting	bin
+punct	putting	.

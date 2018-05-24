@@ -1,0 +1,12 @@
+det	slope	an
+amod	slope	upward
+root	ROOT	slope
+cc	slope	or
+conj:or	slope	grade
+punct	road	-LRB-
+case	road	as
+case	road	in
+det	road	a
+nmod:in	grade	road
+punct	road	-RRB-
+punct	slope	.

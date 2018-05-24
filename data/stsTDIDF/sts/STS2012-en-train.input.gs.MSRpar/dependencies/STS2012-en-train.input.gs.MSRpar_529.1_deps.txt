@@ -1,0 +1,14 @@
+case	September	In
+nmod:in	signed	September
+punct	signed	,
+nsubj	signed	Hewlett-Packard
+root	ROOT	signed
+det	development	a
+dobj	signed	development
+cc	development	and
+compound	deal	marketing
+conj:and	development	deal
+case	company	with
+det	company	the
+nmod:with	signed	company
+punct	signed	.

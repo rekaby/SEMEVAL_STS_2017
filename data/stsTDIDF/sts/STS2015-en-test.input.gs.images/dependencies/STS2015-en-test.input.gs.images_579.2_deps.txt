@@ -1,0 +1,14 @@
+det	girl	a
+amod	girl	little
+nsubj	runs	girl
+case	bathingsuit	in
+det	bathingsuit	a
+amod	bathingsuit	flowered
+nmod:in	girl	bathingsuit
+root	ROOT	runs
+case	sand	through
+det	sand	the
+nmod:through	runs	sand
+case	beach	at
+det	beach	the
+nmod:at	runs	beach

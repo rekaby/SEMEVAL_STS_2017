@@ -1,0 +1,8 @@
+det	boys	The
+nsubj	are	boys
+root	ROOT	are
+advmod	field	out
+case	field	in
+det	field	a
+nmod:in	are	field
+punct	are	.

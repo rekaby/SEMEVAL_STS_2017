@@ -1,0 +1,8 @@
+nsubj	driving	Red
+cc	Red	and
+amod	bus	white
+conj:and	Red	bus
+root	ROOT	driving
+compound:prt	driving	down
+dobj	driving	road
+punct	driving	.

@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+nsubj	fetch	playing
+acl:relcl	man	fetch
+case	dogs	with
+nummod	dogs	two
+amod	dogs	brown
+nmod:with	fetch	dogs
+punct	man	.

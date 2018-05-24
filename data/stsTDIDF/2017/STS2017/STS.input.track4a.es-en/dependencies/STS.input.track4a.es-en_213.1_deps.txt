@@ -1,0 +1,8 @@
+nsubj	walking	She
+aux	walking	is
+root	ROOT	walking
+case	park	through
+det	park	the
+amod	park	public
+nmod:through	walking	park
+punct	walking	.

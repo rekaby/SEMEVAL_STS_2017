@@ -1,0 +1,10 @@
+nummod	jogging	Two
+compound	jogging	ladies
+root	ROOT	jogging
+case	path	on
+det	path	a
+nmod:on	jogging	path
+case	waterfront	near
+det	waterfront	the
+nmod:near	path	waterfront
+punct	jogging	.

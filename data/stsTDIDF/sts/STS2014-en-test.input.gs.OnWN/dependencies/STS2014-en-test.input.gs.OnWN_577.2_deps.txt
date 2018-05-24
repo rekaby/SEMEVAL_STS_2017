@@ -1,0 +1,15 @@
+det	part	the
+root	ROOT	part
+case	public	of
+det	public	the
+amod	public	general
+nmod:of	part	public
+amod	public	interested
+case	source	in
+det	source	a
+nmod:in	interested	source
+case	information	of
+nmod:of	source	information
+cc	information	or
+conj:or	information	entertainment
+punct	part	.

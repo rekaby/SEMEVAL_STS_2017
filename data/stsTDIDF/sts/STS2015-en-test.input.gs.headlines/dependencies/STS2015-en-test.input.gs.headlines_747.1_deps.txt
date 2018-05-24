@@ -1,0 +1,7 @@
+amod	Korean	South
+amod	Sorry	Korean
+compound	Sorry	President
+nsubj	Response	Sorry
+case	Ferry	For
+nmod:for	Sorry	Ferry
+root	ROOT	Response

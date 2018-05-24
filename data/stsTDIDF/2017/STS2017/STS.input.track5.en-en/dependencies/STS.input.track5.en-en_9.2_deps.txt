@@ -1,0 +1,13 @@
+det	teen	The
+nsubj	rode	teen
+root	ROOT	rode
+nmod:poss	bike	his
+dobj	rode	bike
+case	people	around
+det	people	the
+nmod:around	rode	people
+acl	people	walking
+case	courtyard	in
+det	courtyard	the
+nmod:in	walking	courtyard
+punct	rode	.

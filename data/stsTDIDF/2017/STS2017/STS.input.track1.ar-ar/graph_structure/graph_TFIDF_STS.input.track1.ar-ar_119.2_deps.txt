@@ -1,0 +1,7 @@
+play	women	nsubj
+sticks	with	case
+ball	white	amod
+sticks	ball	conj:and
+sticks	and	cc
+play	sticks	nmod:with
+ball	small	amod

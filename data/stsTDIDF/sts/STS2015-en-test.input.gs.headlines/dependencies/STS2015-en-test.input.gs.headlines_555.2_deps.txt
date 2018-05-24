@@ -1,0 +1,6 @@
+compound	stocks	Tokyo
+nsubj	pc	stocks
+amod	pc	close
+nummod	pc	0.75
+root	ROOT	pc
+compound:prt	pc	down

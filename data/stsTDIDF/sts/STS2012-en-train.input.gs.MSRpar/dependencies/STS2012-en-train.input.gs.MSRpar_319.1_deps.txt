@@ -1,0 +1,17 @@
+det	nurse	The
+amod	nurse	51-year-old
+nsubj	worked	nurse
+root	ROOT	worked
+case	Hospital	at
+compound	Hospital	North
+compound	Hospital	York
+compound	Hospital	General
+nmod:at	worked	Hospital
+punct	Hospital	,
+det	epicentre	the
+appos	Hospital	epicentre
+case	outbreak	of
+det	outbreak	the
+amod	outbreak	latest
+nmod:of	epicentre	outbreak
+punct	worked	.

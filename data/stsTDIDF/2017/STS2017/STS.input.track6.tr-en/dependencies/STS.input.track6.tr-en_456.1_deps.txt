@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	young
+nsubj	squishes	girl
+root	ROOT	squishes
+nmod:poss	face	her
+dobj	squishes	face
+case	smile	in
+det	smile	a
+nmod:in	squishes	smile
+case	camera	for
+det	camera	the
+nmod:for	smile	camera
+punct	squishes	.

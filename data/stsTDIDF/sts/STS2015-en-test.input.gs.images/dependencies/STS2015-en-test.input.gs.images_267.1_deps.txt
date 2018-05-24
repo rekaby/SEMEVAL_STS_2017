@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	does	girl
+root	ROOT	does
+det	bend	a
+advmod	bend	back
+dobj	does	bend
+case	beach	on
+det	beach	the
+nmod:on	bend	beach
+punct	does	.

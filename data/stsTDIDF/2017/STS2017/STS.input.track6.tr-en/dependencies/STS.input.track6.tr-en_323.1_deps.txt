@@ -1,0 +1,10 @@
+det	banner	The
+amod	banner	white
+nsubj	people	banner
+cop	people	is
+case	people	behind
+det	people	the
+root	ROOT	people
+acl	people	sitting
+compound:prt	sitting	down
+punct	people	.

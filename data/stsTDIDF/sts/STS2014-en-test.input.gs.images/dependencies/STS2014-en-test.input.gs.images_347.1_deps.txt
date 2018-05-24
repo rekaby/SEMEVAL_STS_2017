@@ -1,0 +1,8 @@
+det	woman	A
+amod	woman	smiling
+root	ROOT	woman
+acl	woman	holding
+det	baby	a
+amod	baby	small
+dobj	holding	baby
+punct	woman	.

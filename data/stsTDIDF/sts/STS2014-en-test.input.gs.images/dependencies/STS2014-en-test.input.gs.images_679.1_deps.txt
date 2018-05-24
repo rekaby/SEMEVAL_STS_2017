@@ -1,0 +1,9 @@
+det	bird	A
+amod	bird	red
+nsubjpass	perched	bird
+auxpass	perched	is
+root	ROOT	perched
+case	tree	in
+det	tree	a
+nmod:in	perched	tree
+punct	perched	.

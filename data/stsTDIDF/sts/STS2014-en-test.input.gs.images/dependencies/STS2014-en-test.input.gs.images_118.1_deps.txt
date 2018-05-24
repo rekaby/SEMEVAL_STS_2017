@@ -1,0 +1,11 @@
+det	television	A
+amod	television	black
+punct	television	,
+amod	television	flat
+compound	television	screen
+root	ROOT	television
+acl	television	placed
+case	floor	on
+det	floor	the
+nmod:on	placed	floor
+punct	television	.

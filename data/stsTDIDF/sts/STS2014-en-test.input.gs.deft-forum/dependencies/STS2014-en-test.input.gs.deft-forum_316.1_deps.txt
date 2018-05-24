@@ -1,0 +1,10 @@
+root	ROOT	``
+nsubj	pressing	What
+aux	pressing	does
+ccomp	``	pressing
+det	number	the
+dobj	pressing	number
+nummod	number	one
+dobj	pressing	do
+punct	pressing	?
+punct	pressing	''

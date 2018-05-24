@@ -1,0 +1,5 @@
+compound	jet	Southwest
+nsubj	hit	jet
+root	ROOT	hit
+dobj	hit	nose
+advmod	hit	first

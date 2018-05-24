@@ -1,0 +1,7 @@
+compound	toll	China
+compound	toll	flu
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	six	to
+nmod:to	rises	six

@@ -1,0 +1,9 @@
+det	child	A
+root	ROOT	child
+case	shoulders	on
+det	shoulders	the
+nmod:on	child	shoulders
+case	man	of
+det	man	a
+nmod:of	shoulders	man
+punct	child	.

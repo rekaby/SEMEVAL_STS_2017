@@ -1,0 +1,5 @@
+relaxing	.	punct
+relaxing	is	aux
+ROOT	relaxing	root
+relaxing	boy	nsubj
+relaxing	beach	nmod:on

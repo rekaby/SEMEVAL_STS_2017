@@ -1,0 +1,7 @@
+root	ROOT	Dolce
+cc	Dolce	and
+conj:and	Dolce	Gabbana
+acl	Gabbana	convicted
+case	evasion	of
+compound	evasion	tax
+nmod:of	convicted	evasion

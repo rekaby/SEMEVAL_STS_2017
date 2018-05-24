@@ -1,0 +1,8 @@
+det	area	a
+compound	area	work
+nsubj	work	area
+case	manufacturing	for
+nmod:for	area	manufacturing
+cc	manufacturing	or
+conj:or	manufacturing	repair
+root	ROOT	work

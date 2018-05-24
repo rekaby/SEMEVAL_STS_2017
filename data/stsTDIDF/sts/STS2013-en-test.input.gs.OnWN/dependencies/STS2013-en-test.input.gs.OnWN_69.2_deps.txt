@@ -1,0 +1,10 @@
+root	ROOT	hold
+compound:prt	hold	back
+punct	hold	;
+parataxis	hold	keep
+mark	perceived	from
+auxpass	perceived	being
+advcl	keep	perceived
+case	others	by
+nmod:agent	perceived	others
+punct	hold	.

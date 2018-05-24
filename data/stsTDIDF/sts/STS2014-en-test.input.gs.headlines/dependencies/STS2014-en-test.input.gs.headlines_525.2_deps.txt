@@ -1,0 +1,5 @@
+compound	leader	Brazil
+nsubj	promises	leader
+root	ROOT	promises
+compound	vote	reform
+dobj	promises	vote

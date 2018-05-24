@@ -1,0 +1,11 @@
+nsubj	called	Israel
+root	ROOT	called
+mark	account	to
+xcomp	called	account
+compound:prt	account	over
+amod	plans	latest
+compound	plans	settlement
+dobj	account	plans
+case	countries	by
+amod	countries	European
+nmod:by	plans	countries

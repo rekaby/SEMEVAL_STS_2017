@@ -1,0 +1,8 @@
+root	ROOT	increase
+case	amount	in
+nmod:in	increase	amount
+punct	amount	,
+conj:or	amount	extent
+punct	amount	,
+cc	amount	or
+conj:or	amount	intensity

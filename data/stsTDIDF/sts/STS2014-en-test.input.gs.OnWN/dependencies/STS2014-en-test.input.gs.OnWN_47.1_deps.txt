@@ -1,0 +1,8 @@
+root	ROOT	travel
+dep	travel	in
+cc	in	or
+conj:or	in	be
+dep	in	shaped
+case	zigzag	like
+det	zigzag	a
+nmod:like	shaped	zigzag

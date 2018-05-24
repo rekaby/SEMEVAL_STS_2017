@@ -1,0 +1,9 @@
+det	laptop	A
+root	ROOT	laptop
+cc	laptop	and
+det	PC	a
+conj:and	laptop	PC
+case	workstation	at
+det	workstation	a
+nmod:at	laptop	workstation
+punct	laptop	.

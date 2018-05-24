@@ -1,0 +1,8 @@
+nsubj	kill	Rebels
+root	ROOT	kill
+nummod	rangers	two
+compound	rangers	park
+dobj	kill	rangers
+case	Congo	in
+amod	Congo	eastern
+nmod:in	kill	Congo

@@ -1,0 +1,6 @@
+bicycle	on	case
+backflip	a	det
+bicycle	a	det
+makes	backflip	dobj
+man	bicycle	nmod:on
+makes	man	nsubj

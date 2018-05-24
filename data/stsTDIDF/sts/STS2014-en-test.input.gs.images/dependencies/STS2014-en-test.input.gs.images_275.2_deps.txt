@@ -1,0 +1,10 @@
+det	room	A
+root	ROOT	room
+case	monitors	with
+nummod	monitors	four
+compound	monitors	computer
+nmod:with	room	monitors
+case	row	in
+det	row	a
+nmod:in	monitors	row
+punct	room	.

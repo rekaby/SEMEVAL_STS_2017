@@ -1,0 +1,13 @@
+mark	say	to
+csubjpass	correct	say
+mark	fault	that
+nsubj	fault	it
+cop	fault	's
+det	america	all
+nmod:poss	fault	america
+case	america	's
+ccomp	say	fault
+auxpass	correct	is
+neg	correct	not
+root	ROOT	correct
+punct	correct	.

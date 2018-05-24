@@ -1,0 +1,15 @@
+case	instance	For
+nmod:for	called	instance
+punct	called	,
+det	schedule	a
+compound	schedule	events
+nsubjpass	called	schedule
+case	exhibition	at
+det	exhibition	an
+nmod:at	schedule	exhibition
+auxpass	called	is
+advmod	called	sometimes
+root	ROOT	called
+det	program	a
+dobj	called	program
+punct	called	.

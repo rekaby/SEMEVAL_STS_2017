@@ -1,0 +1,6 @@
+det	person	A
+nsubj	opening	person
+root	ROOT	opening
+det	banana	a
+dobj	opening	banana
+punct	opening	.

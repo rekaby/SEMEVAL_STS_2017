@@ -1,0 +1,6 @@
+neg	contained	Not
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path

@@ -1,0 +1,8 @@
+waiting	cross	xcomp
+cross	street	dobj
+shirt	with	case
+street	crowded	amod
+man	shirt	nmod:with
+waiting	is	aux
+waiting	man	nsubj
+shirt	blue	amod

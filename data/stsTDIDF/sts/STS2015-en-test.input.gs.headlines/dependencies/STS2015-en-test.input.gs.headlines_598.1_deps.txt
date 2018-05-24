@@ -1,0 +1,8 @@
+compound	talks	Iran
+amod	talks	nuclear
+root	ROOT	talks
+acl	talks	expected
+mark	resume	to
+xcomp	expected	resume
+det	week	this
+nmod:tmod	resume	week

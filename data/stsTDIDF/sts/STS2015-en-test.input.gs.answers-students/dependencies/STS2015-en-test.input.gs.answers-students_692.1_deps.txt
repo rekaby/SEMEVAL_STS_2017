@@ -1,0 +1,17 @@
+case	A	Through
+compound	A	bulb
+nmod:through	contained	A
+punct	contained	,
+compound	B	bulb
+nsubjpass	contained	B
+auxpass	contained	is
+advmod	contained	still
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path
+case	battery	to
+det	battery	the
+nmod:to	path	battery
+punct	contained	.

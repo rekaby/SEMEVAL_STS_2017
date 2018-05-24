@@ -1,0 +1,14 @@
+case	all	After
+nmod:after	recommended	all
+punct	recommended	,
+nsubj	recommended	they
+aux	recommended	have
+root	ROOT	recommended
+dobj	recommended	policies
+det	politicians	that
+dep	policies	politicians
+cc	politicians	or
+conj:or	politicians	taking
+case	consideration	into
+nmod:into	taking	consideration
+punct	recommended	.

@@ -1,0 +1,3 @@
+root	ROOT	prove
+cc	prove	or
+conj:or	prove	corroborate

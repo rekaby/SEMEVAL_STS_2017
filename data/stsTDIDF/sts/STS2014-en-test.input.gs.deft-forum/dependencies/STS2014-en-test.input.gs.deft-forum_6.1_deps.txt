@@ -1,0 +1,11 @@
+amod	figure	go
+root	ROOT	figure
+nsubj	asking	You
+aux	asking	're
+acl:relcl	figure	asking
+dobj	asking	me
+mark	prove	to
+xcomp	asking	prove
+det	negative	a
+dobj	prove	negative
+punct	figure	?

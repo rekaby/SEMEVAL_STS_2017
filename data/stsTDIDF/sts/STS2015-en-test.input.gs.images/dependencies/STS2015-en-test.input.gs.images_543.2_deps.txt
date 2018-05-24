@@ -1,0 +1,7 @@
+nummod	girls	Two
+nsubj	jump	girls
+root	ROOT	jump
+case	swings	out
+mwe	out	of
+nmod:out_of	jump	swings
+punct	jump	.

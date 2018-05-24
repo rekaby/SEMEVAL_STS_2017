@@ -1,0 +1,12 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+amod	path	closed
+nsubj	is	path
+punct	is	,
+case	lightbulb	with
+neg	lightbulb	no
+nmod:with	is	lightbulb
+case	path	in
+det	path	the
+nmod:in	lightbulb	path

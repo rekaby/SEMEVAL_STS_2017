@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+case	rides	in
+det	rides	a
+amod	rides	top
+compound	rides	hat
+nmod:in	man	rides
+det	horse	a
+amod	horse	white
+dep	rides	horse
+punct	man	.

@@ -1,0 +1,9 @@
+amod	solution	Two-state
+root	ROOT	solution
+case	Palestinians	between
+nmod:between	solution	Palestinians
+punct	Palestinians	,
+compound	pie	Israel
+appos	Palestinians	pie
+case	sky	in
+nmod:in	Palestinians	sky

@@ -1,0 +1,10 @@
+compound	Amos	UN
+compound	Amos	aid
+compound	Amos	chief
+nsubj	enters	Amos
+root	ROOT	enters
+compound	Amr	Baba
+dobj	enters	Amr
+case	Crescent	with
+compound	Crescent	Red
+nmod:with	enters	Crescent

@@ -1,0 +1,8 @@
+amod	researchers	Prominent
+compound	researchers	AIDS
+nsubj	crash	researchers
+acl	researchers	killed
+case	plane	in
+amod	plane	Malaysian
+nmod:in	killed	plane
+root	ROOT	crash

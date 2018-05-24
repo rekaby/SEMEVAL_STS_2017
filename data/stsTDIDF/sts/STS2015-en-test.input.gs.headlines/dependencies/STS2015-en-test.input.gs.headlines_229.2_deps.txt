@@ -1,0 +1,7 @@
+amod	Minister	Belgian
+compound	Minister	Prime
+nsubj	sends	Minister
+root	ROOT	sends
+dobj	sends	condolences
+case	victims	to
+nmod:to	sends	victims

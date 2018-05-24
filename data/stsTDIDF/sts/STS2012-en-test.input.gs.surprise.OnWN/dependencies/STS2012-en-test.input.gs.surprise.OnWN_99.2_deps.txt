@@ -1,0 +1,9 @@
+root	ROOT	use
+dobj	use	cunning
+cc	cunning	or
+conj:or	cunning	deceit
+mark	escape	to
+dep	cunning	escape
+cc	escape	or
+conj:or	escape	avoid
+punct	use	.

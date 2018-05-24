@@ -1,0 +1,7 @@
+det	couple	A
+nsubj	walking	couple
+root	ROOT	walking
+compound:prt	walking	down
+det	street	the
+dobj	walking	street
+punct	walking	.

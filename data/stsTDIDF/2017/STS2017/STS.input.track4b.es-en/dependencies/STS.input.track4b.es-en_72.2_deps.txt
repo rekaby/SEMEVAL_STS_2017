@@ -1,0 +1,17 @@
+mark	ski	While
+nsubj	ski	we
+aux	ski	can
+advcl	says	ski
+case	winter	in
+nmod:in	ski	winter
+cc	ski	and
+conj:and	ski	hike
+case	summer	in
+nmod:in	hike	summer
+nsubj	happy	we
+cop	happy	are
+acl:relcl	hike	happy
+punct	says	,
+root	ROOT	says
+nsubj	says	Anna
+punct	says	.

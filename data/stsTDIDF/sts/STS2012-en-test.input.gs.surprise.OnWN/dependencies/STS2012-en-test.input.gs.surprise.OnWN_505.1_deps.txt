@@ -1,0 +1,9 @@
+root	ROOT	Move
+advmod	Move	about
+case	manner	in
+det	manner	a
+amod	manner	confused
+cc	confused	or
+conj:or	confused	purposeless
+nmod:in	Move	manner
+punct	Move	.

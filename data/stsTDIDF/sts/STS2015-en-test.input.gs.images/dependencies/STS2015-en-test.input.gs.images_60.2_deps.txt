@@ -1,0 +1,12 @@
+amod	hikers	Several
+nsubj	rest	hikers
+root	ROOT	rest
+case	gear	with
+nmod:poss	gear	their
+nmod:with	rest	gear
+case	mountain	in
+mwe	in	front
+mwe	in	of
+det	mountain	a
+nmod:in_front_of	rest	mountain
+punct	rest	.

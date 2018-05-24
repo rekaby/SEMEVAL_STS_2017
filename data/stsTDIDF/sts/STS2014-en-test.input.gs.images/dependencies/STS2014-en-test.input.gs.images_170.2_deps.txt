@@ -1,0 +1,5 @@
+root	ROOT	People
+acl	People	sitting
+case	acouch	on
+nmod:on	sitting	acouch
+punct	People	.

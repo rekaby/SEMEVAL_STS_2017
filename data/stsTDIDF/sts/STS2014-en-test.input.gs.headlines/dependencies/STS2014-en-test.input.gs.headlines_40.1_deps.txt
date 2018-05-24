@@ -1,0 +1,8 @@
+compound	Selected	Shinzo
+compound	Selected	Abe
+root	ROOT	Selected
+case	Minister	as
+nmod:poss	Minister	Japan
+case	Japan	's
+compound	Minister	Prime
+nmod:as	Selected	Minister

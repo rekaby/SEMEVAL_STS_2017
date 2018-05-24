@@ -1,0 +1,7 @@
+compound	toll	Mexico
+compound	toll	storm
+compound	toll	death
+nsubj	continues	toll
+root	ROOT	continues
+mark	rise	to
+xcomp	continues	rise

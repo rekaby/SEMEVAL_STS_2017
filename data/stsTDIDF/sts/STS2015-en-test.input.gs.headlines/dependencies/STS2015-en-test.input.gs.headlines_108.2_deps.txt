@@ -1,0 +1,6 @@
+compound	fire	Police
+root	ROOT	fire
+acl	fire	tear
+dobj	tear	gas
+case	protesters	at
+nmod:at	tear	protesters

@@ -1,0 +1,11 @@
+det	person	A
+nsubj	adding	person
+aux	adding	is
+root	ROOT	adding
+compound	powder	chili
+dobj	adding	powder
+case	chili	to
+nmod:to	adding	chili
+case	beans	with
+nmod:with	chili	beans
+punct	adding	.

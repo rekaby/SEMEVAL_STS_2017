@@ -1,0 +1,10 @@
+nsubj	slicing	Someone
+aux	slicing	is
+root	ROOT	slicing
+nummod	racks	two
+amod	racks	uncooked
+dobj	slicing	racks
+case	ribs	of
+nmod:of	racks	ribs
+advmod	slicing	apart
+punct	slicing	.

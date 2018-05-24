@@ -1,0 +1,7 @@
+amod	girl	3yo
+amod	girl	Palestinian
+root	ROOT	girl
+acl	girl	killed
+case	raid	in
+amod	raid	Israeli
+nmod:in	killed	raid

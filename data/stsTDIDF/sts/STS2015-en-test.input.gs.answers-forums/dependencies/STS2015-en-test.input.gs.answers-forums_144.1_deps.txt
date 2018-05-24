@@ -1,0 +1,16 @@
+mark	see	As
+nsubj	see	you
+aux	see	can
+advcl	are	see
+case	map	from
+det	map	this
+nmod:from	see	map
+case	site	on
+det	site	the
+compound	site	Wals.info
+nmod:on	map	site
+punct	are	,
+expl	are	there
+root	ROOT	are
+nsubj	are	many
+punct	are	.

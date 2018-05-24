@@ -1,0 +1,7 @@
+det	movement	a
+root	ROOT	movement
+advmod	movement	back
+case	impact	from
+det	impact	an
+nmod:from	back	impact
+punct	movement	.

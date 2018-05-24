@@ -1,0 +1,9 @@
+nsubj	vote	Senate
+mark	vote	to
+root	ROOT	vote
+mark	moving	on
+advcl	vote	moving
+advmod	moving	ahead
+case	nod	on
+compound	nod	Hagel
+nmod:on	moving	nod

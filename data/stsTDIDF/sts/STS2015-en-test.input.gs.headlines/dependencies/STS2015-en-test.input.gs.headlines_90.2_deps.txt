@@ -1,0 +1,9 @@
+compound	stars	Coronation
+compound	stars	Street
+nsubj	hail	stars
+root	ROOT	hail
+punct	hail	`
+amod	set	amazing
+punct	set	'
+amod	set	new
+dobj	hail	set

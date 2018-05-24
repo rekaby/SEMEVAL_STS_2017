@@ -1,0 +1,10 @@
+root	ROOT	scar
+advmod	scar	physically
+punct	scar	;
+dep	scar	create
+det	mark	a
+dobj	create	mark
+case	someone	on
+nmod:on	mark	someone
+cc	someone	or
+conj:or	someone	something

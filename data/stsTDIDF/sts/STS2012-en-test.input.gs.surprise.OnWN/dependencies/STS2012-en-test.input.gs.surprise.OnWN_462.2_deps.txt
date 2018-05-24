@@ -1,0 +1,4 @@
+root	ROOT	ride
+det	motorcycle	a
+dobj	ride	motorcycle
+punct	ride	.

@@ -1,0 +1,13 @@
+nsubj	going	I
+aux	going	'm
+root	ROOT	going
+mark	blunt	to
+cop	blunt	be
+xcomp	going	blunt
+punct	going	,
+advmod	going	here
+punct	going	:
+nsubj	do	You
+parataxis	going	do
+neg	do	n't
+punct	going	.

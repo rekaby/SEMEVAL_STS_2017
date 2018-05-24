@@ -1,0 +1,5 @@
+compound	c	bulb
+nsubj	creates	c
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap

@@ -1,0 +1,12 @@
+det	person	the
+nsubj	taking	person
+aux	taking	is
+root	ROOT	taking
+det	break	a
+dobj	taking	break
+case	game	from
+det	game	the
+nmod:from	break	game
+case	picture	in
+det	picture	the
+nmod:in	taking	picture

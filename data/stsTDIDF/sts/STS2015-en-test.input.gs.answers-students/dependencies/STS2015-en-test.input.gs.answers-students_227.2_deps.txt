@@ -1,0 +1,12 @@
+expl	is	there
+root	ROOT	is
+det	path	a
+nsubj	is	path
+acl	path	containing
+dobj	containing	A
+punct	C	,
+appos	A	C
+punct	C	,
+conj:and	C	Z
+cc	C	and
+conj:and	C	X

@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	flying	woman
+cc	woman	and
+nmod:poss	kids	her
+conj:and	woman	kids
+aux	flying	are
+root	ROOT	flying
+dobj	flying	kites
+punct	flying	.

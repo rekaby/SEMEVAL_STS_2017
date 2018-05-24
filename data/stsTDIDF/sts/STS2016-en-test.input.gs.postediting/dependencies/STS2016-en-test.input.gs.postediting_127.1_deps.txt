@@ -1,0 +1,14 @@
+nsubj	has	None
+case	operators	of
+det	operators	the
+compound	operators	Czech
+nmod:of	None	operators
+root	ROOT	has
+det	position	a
+amod	position	dominant
+dobj	has	position
+case	market	on
+det:predet	market	such
+det	market	a
+nmod:on	position	market
+punct	has	.

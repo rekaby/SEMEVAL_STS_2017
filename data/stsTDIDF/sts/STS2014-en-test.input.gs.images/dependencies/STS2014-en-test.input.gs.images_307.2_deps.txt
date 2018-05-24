@@ -1,0 +1,10 @@
+det	bicyclists	The
+nsubj	crossing	bicyclists
+aux	crossing	are
+root	ROOT	crossing
+det	bridge	a
+dobj	crossing	bridge
+case	rain	in
+det	rain	the
+nmod:in	bridge	rain
+punct	crossing	.

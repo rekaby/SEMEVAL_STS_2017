@@ -1,0 +1,10 @@
+det	man	A
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+det	sign	a
+dobj	holding	sign
+case	restaurant	for
+det	restaurant	a
+nmod:for	sign	restaurant
+punct	holding	.

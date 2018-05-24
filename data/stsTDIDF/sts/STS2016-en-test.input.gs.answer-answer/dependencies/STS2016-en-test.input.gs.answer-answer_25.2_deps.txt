@@ -1,0 +1,8 @@
+det	sound	This
+root	ROOT	sound
+case	idea	like
+det	idea	a
+advmod	bad	very
+amod	idea	bad
+nmod:like	sound	idea
+punct	sound	.

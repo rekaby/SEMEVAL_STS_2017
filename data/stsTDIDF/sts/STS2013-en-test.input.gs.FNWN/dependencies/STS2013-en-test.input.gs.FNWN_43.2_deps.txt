@@ -1,0 +1,6 @@
+det	unit	a
+amod	unit	social
+root	ROOT	unit
+acl	unit	living
+advmod	living	together
+punct	unit	;

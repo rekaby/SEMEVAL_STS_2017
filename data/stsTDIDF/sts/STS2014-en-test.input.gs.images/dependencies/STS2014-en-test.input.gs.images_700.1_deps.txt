@@ -1,0 +1,8 @@
+det	house	A
+amod	house	grey
+root	ROOT	house
+case	door	with
+det	door	a
+amod	door	red
+nmod:with	house	door
+punct	house	.

@@ -1,0 +1,10 @@
+nsubj	closed	Dog
+root	ROOT	closed
+det	water	the
+dobj	closed	water
+mark	swimming	after
+advcl	closed	swimming
+case	pond	in
+det	pond	the
+nmod:in	swimming	pond
+punct	closed	.

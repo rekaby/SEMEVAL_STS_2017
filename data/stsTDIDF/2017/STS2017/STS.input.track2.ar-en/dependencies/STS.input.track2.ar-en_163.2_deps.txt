@@ -1,0 +1,13 @@
+det	man	A
+nsubj	walks	man
+root	ROOT	walks
+case	Wal-Mart	through
+det	Wal-Mart	the
+nmod:through	walks	Wal-Mart
+case	cart	with
+det	cart	a
+nmod:with	walks	cart
+amod	cart	full
+case	things	of
+nmod:of	full	things
+punct	walks	.

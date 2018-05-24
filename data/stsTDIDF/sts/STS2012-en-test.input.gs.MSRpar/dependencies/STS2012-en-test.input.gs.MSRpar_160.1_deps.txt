@@ -1,0 +1,14 @@
+compound	shares	Oracle
+nsubj	fell	shares
+root	ROOT	fell
+nummod	cents	27
+dobj	fell	cents
+punct	cents	,
+cc	cents	or
+nummod	percent	2
+conj:or	cents	percent
+punct	fell	,
+case	$	to
+nmod:to	fell	$
+nummod	$	13.09
+punct	fell	.

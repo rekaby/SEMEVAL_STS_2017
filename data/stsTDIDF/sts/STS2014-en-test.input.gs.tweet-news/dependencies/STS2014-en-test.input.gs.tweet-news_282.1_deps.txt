@@ -1,0 +1,12 @@
+case	Outposts	In
+compound	Outposts	Desert
+nmod:in	Keep	Outposts
+punct	Keep	,
+compound	Agents	Border
+nsubj	Keep	Agents
+root	ROOT	Keep
+xcomp	Keep	Watch
+amod	#lafrontera	#elpaso
+compound	#lafrontera	#elchuco
+compound	#mexico	#lafrontera
+dobj	Watch	#mexico

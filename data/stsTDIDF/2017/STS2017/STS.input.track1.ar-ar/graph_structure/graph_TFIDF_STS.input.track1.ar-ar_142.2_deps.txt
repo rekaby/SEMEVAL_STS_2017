@@ -1,0 +1,4 @@
+people	walking	acl
+streets	city	nmod:of
+walking	streets	nmod:in
+streets	in	case

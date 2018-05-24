@@ -1,0 +1,6 @@
+root	ROOT	take
+compound:prt	take	up
+case	tongue	with
+det	tongue	the
+nmod:with	take	tongue
+punct	take	.

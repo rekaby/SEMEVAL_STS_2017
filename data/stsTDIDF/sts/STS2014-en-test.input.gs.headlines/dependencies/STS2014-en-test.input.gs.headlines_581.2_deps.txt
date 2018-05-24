@@ -1,0 +1,9 @@
+compound	PM	Pakistan
+root	ROOT	PM
+case	ties	for
+amod	ties	deeper
+amod	ties	economic
+nmod:for	PM	ties
+case	Lanka	with
+compound	Lanka	Sri
+nmod:with	ties	Lanka

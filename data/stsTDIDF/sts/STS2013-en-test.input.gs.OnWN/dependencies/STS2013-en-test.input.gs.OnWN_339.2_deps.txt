@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	removing	of
+acl	act	removing
+cc	removing	or
+conj:or	removing	getting
+xcomp	getting	rid
+case	something	of
+nmod:of	rid	something
+punct	act	.

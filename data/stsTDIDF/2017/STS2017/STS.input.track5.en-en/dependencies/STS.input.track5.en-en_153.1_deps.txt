@@ -1,0 +1,7 @@
+nummod	humans	Three
+nsubj	walking	humans
+aux	walking	are
+root	ROOT	walking
+det	dog	a
+dobj	walking	dog
+punct	walking	.

@@ -1,0 +1,7 @@
+compound	ban	Hamas
+amod	ban	mixed
+compound	ban	sex
+compound	ban	schools
+nsubj	takes	ban
+root	ROOT	takes
+dobj	takes	effect

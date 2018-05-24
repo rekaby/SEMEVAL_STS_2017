@@ -1,0 +1,3 @@
+cleans	bathroom	dobj
+woman	cleans	acl:relcl
+cleans	who	nsubj

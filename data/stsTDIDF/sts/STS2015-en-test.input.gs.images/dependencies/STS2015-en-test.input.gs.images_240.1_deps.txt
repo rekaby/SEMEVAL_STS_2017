@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	runs	girl
+root	ROOT	runs
+case	dogs	with
+nmod:with	runs	dogs
+case	field	in
+det	field	a
+amod	field	dry
+nmod:in	runs	field
+punct	runs	.

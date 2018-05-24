@@ -1,0 +1,4 @@
+root	ROOT	have
+dobj	have	need
+acl	need	of
+punct	have	.

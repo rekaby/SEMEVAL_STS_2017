@@ -1,0 +1,16 @@
+nsubj	applier	iran
+cop	applier	is
+det	applier	the
+advmod	prolific	most
+amod	applier	prolific
+root	ROOT	applier
+case	penalty	of
+det	penalty	the
+compound	penalty	death
+nmod:of	applier	penalty
+case	world	in
+det	world	the
+nmod:in	penalty	world
+case	china	after
+nmod:after	penalty	china
+punct	applier	.

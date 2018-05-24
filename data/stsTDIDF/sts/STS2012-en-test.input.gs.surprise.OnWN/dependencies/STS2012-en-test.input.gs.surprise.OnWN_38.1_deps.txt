@@ -1,0 +1,10 @@
+root	ROOT	Annoy
+punct	Annoy	,
+conj:or	Annoy	harass
+punct	Annoy	,
+cc	Annoy	or
+conj:or	Annoy	mock
+punct	Annoy	,
+advmod	playfully	perhaps
+appos	Annoy	playfully
+punct	Annoy	.

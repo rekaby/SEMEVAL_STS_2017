@@ -1,0 +1,5 @@
+hand	shopping	nmod:over
+hand	man	nmod:poss
+shopping	over	case
+hand	.	punct
+ROOT	hand	root

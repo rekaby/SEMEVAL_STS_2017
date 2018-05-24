@@ -1,0 +1,5 @@
+root	ROOT	Voracek
+case	goal	with
+det	goal	the
+nmod:with	Voracek	goal
+punct	Voracek	.

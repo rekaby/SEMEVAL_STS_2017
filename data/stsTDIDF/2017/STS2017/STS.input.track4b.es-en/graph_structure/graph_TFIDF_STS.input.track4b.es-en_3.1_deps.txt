@@ -1,0 +1,14 @@
+time	brig	nmod:in
+focuses	time	nmod:on
+Manning	's	case
+hearing	The	det
+brig	in	case
+Quantico	at	case
+time	Manning	nmod:poss
+brig	military	amod
+brig	Quantico	nmod:at
+ROOT	focuses	root
+Quantico	,	punct
+Quantico	Virginia	appos
+brig	the	det
+focuses	hearing	nsubj

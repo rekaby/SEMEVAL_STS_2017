@@ -1,0 +1,6 @@
+ROOT	dogs	root
+dogs	running	acl
+dogs	Some	det
+park	through	case
+running	park	nmod:through
+dogs	.	punct

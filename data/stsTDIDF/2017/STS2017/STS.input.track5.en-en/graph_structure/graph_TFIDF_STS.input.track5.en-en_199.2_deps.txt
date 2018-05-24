@@ -1,0 +1,7 @@
+zombies	The	det
+eating	zombies	nsubj
+eating	flesh	dobj
+ROOT	eating	root
+eating	.	punct
+eating	are	aux
+eating	together	advmod

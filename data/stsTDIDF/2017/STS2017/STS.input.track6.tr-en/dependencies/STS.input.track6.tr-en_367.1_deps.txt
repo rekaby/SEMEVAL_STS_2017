@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	looking	woman
+case	top	in
+det	top	a
+amod	top	yellow
+compound	top	tank
+nmod:in	woman	top
+aux	looking	is
+root	ROOT	looking
+case	window	at
+det	window	a
+nmod:at	looking	window
+punct	looking	.

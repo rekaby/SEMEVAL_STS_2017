@@ -1,0 +1,4 @@
+training	martial	amod
+training	arts	compound
+training	uniforms	compound
+men	training	nmod:in

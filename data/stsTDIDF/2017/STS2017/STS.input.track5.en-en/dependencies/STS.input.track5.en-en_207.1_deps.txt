@@ -1,0 +1,11 @@
+det	man	A
+nsubj	surrounded	man
+acl	man	doing
+det	trick	a
+amod	trick	jumping
+compound	trick	bike
+dobj	doing	trick
+root	ROOT	surrounded
+case	trees	by
+nmod:by	surrounded	trees
+punct	surrounded	.

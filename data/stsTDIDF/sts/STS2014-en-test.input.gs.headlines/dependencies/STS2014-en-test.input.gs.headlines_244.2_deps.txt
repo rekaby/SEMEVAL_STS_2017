@@ -1,0 +1,7 @@
+amod	operation	Most
+amod	operation	French
+compound	operation	support
+amod	operation	military
+root	ROOT	operation
+case	Mali	in
+nmod:in	operation	Mali

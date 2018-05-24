@@ -1,0 +1,13 @@
+det	part	the
+root	ROOT	part
+case	body	of
+det	body	the
+nmod:of	part	body
+case	neck	between
+det	neck	the
+nmod:between	part	neck
+cc	neck	and
+det	arm	the
+amod	arm	upper
+conj:and	neck	arm
+punct	part	.

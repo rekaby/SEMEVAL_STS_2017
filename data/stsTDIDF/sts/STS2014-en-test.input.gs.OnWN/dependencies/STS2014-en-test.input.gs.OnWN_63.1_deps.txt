@@ -1,0 +1,9 @@
+det	relation	A
+root	ROOT	relation
+case	affinity	of
+nmod:of	relation	affinity
+cc	affinity	or
+conj:or	affinity	harmony
+case	people	between
+nmod:between	relation	people
+punct	relation	.

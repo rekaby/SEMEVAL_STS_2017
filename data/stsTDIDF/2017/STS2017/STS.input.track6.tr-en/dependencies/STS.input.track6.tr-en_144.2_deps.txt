@@ -1,0 +1,10 @@
+det	guy	The
+root	ROOT	guy
+case	rides	in
+det	rides	the
+compound	rides	bike
+nmod:in	guy	rides
+case	street	on
+det	street	the
+nmod:on	rides	street
+punct	guy	.

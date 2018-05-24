@@ -1,0 +1,14 @@
+det	man	A
+nsubj	giving	man
+aux	giving	is
+root	ROOT	giving
+det	presentation	a
+dobj	giving	presentation
+case	lot	in
+mwe	in	front
+mwe	in	of
+det	lot	a
+nmod:in_front_of	presentation	lot
+case	people	of
+nmod:of	lot	people
+punct	giving	.

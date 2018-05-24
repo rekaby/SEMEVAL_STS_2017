@@ -1,0 +1,11 @@
+det	airplane	A
+amod	airplane	yellow
+cc	yellow	and
+conj:and	yellow	blue
+nsubj	flying	airplane
+aux	flying	is
+root	ROOT	flying
+case	sky	in
+det	sky	the
+nmod:in	flying	sky
+punct	flying	.

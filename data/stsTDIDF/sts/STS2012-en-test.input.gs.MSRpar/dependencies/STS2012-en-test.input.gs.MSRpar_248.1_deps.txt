@@ -1,0 +1,12 @@
+punct	hit	``
+cc	hit	And
+advmod	eight	about
+dep	10	eight
+dep	10	to
+nummod	seconds	10
+nmod:npmod	down	seconds
+dep	hit	down
+punct	hit	,
+nsubj	hit	I
+root	ROOT	hit
+punct	hit	.

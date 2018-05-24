@@ -1,0 +1,17 @@
+nmod:poss	compilation	Wikipedia
+case	Wikipedia	's
+nsubj	resource	compilation
+case	Rules	of
+compound	Rules	Time
+compound	Rules	Travel
+nmod:of	compilation	Rules
+cop	resource	is
+det	resource	a
+amod	resource	good
+root	ROOT	resource
+mark	check	to
+acl	resource	check
+case	subject	about
+det	subject	this
+nmod:about	check	subject
+punct	resource	.

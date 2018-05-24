@@ -1,0 +1,16 @@
+mark	seeking	In
+advcl	apologized	seeking
+dobj	seeking	leniency
+punct	apologized	,
+nsubj	apologized	Waksal
+root	ROOT	apologized
+case	court	to
+det	court	the
+nmod:to	apologized	court
+punct	apologized	,
+nmod:poss	employees	his
+dobj	apologized	employees
+cc	employees	and
+nmod:poss	family	his
+conj:and	employees	family
+punct	apologized	.

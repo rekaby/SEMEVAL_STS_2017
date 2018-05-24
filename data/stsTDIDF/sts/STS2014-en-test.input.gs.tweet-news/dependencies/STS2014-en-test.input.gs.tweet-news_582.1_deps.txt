@@ -1,0 +1,12 @@
+nsubj	awaits	World
+root	ROOT	awaits
+nmod:poss	interview	Oprah
+case	Oprah	's
+compound	interview	Armstrong
+dobj	awaits	interview
+neg	watching	not
+dobj	watching	me
+nsubj	watching	I
+aux	watching	'm
+neg	watching	not
+acl	interview	watching

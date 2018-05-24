@@ -1,0 +1,10 @@
+compound	explodes	Bomb
+root	ROOT	explodes
+case	mall	at
+amod	mall	Greek
+compound	mall	shopping
+nmod:at	explodes	mall
+punct	mall	,
+nummod	people	two
+appos	mall	people
+acl	people	injured

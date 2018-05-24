@@ -1,0 +1,8 @@
+nsubj	plunge	Cars
+root	ROOT	plunge
+case	river	into
+nmod:into	plunge	river
+mark	collapses	as
+compound	bridge	US
+nsubj	collapses	bridge
+advcl	plunge	collapses

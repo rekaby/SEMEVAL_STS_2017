@@ -1,0 +1,9 @@
+includes	children	dobj
+takes	photographer	nsubj
+children	four	nummod
+children	parents	conj:and
+takes	pictures	dobj
+photographer	A	det
+family	includes	acl:relcl
+parents	two	nummod
+pictures	family	nmod:of

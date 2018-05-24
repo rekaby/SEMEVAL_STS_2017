@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	smiles	woman
+case	dress	in
+det	dress	a
+amod	dress	black
+nmod:in	woman	dress
+root	ROOT	smiles
+case	truck	in
+mwe	in	front
+mwe	in	of
+det	truck	a
+compound	truck	silver
+nmod:in_front_of	smiles	truck
+punct	smiles	.

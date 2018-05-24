@@ -1,0 +1,17 @@
+root	ROOT	droop
+punct	droop	,
+conj:or	droop	sink
+punct	droop	,
+cc	droop	or
+conj:or	droop	settle
+nmod	settle	from
+cc	from	or
+conj:or	from	as
+dep	from	if
+case	pressure	from
+nmod:from	if	pressure
+cc	pressure	or
+conj:or	pressure	loss
+case	tautness	of
+nmod:of	loss	tautness
+punct	droop	.

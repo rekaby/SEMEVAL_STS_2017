@@ -1,0 +1,10 @@
+root	ROOT	Police
+punct	Police	:
+nummod	hurt	19
+dep	Police	hurt
+case	Day	in
+compound	Mother	NOLA
+nmod:poss	Day	Mother
+case	Mother	's
+nmod:in	shooting	Day
+dep	hurt	shooting

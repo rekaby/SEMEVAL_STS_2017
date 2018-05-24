@@ -1,0 +1,8 @@
+det	playing	A
+amod	playing	small
+compound	playing	boy
+root	ROOT	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	playing	.

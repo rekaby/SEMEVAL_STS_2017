@@ -1,0 +1,12 @@
+nsubj	path	bulbs
+dep	bulbs	A
+cc	A	and
+conj:and	A	C
+cop	path	are
+neg	path	not
+case	path	on
+det	path	the
+amod	path	same
+amod	path	closed
+root	ROOT	path
+punct	path	.

@@ -1,0 +1,9 @@
+det	child	The
+nsubj	crying	child
+aux	crying	was
+root	ROOT	crying
+mark	hungry	because
+nsubj	hungry	he
+cop	hungry	was
+advcl	crying	hungry
+punct	crying	.

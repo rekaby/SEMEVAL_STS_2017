@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+neg	color	no
+nsubj	is	color
+case	image	in
+det	image	the
+nmod:in	color	image
+punct	is	.

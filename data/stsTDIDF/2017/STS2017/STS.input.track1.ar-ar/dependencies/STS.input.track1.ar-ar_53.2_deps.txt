@@ -1,0 +1,9 @@
+root	ROOT	Man
+nsubj	resides	who
+acl:relcl	Man	resides
+case	one	in
+nmod:in	resides	one
+case	stations	of
+det	stations	the
+nmod:of	one	stations
+punct	Man	.

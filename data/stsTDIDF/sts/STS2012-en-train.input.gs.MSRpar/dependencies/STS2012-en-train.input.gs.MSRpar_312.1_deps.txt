@@ -1,0 +1,15 @@
+punct	said	``
+nsubj	notice	I
+ccomp	said	notice
+det	change	a
+compound	change	mood
+dobj	notice	change
+case	priorities	in
+nmod:poss	priorities	their
+nmod:in	change	priorities
+punct	said	,
+punct	said	''
+nummod	politician	one
+nsubj	said	politician
+root	ROOT	said
+punct	said	.

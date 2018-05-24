@@ -1,0 +1,16 @@
+nsubj	helps	Punctual
+csubj	necessary	helps
+case	support	as
+det	support	the
+nmod:as	helps	support
+case	market	of
+det	market	the
+nmod:of	support	market
+cc	market	or
+conj:or	market	bonus
+case	grass	in
+det	grass	the
+nmod:in	support	grass
+cop	necessary	are
+root	ROOT	necessary
+punct	necessary	.

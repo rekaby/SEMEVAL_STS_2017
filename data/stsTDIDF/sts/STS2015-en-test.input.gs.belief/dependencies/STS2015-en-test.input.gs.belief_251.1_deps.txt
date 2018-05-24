@@ -1,0 +1,6 @@
+nsubj	loose	amd
+root	ROOT	loose
+dobj	loose	both
+case	us	of
+nmod:of	both	us
+punct	loose	.

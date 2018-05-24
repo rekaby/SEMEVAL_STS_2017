@@ -1,0 +1,11 @@
+det	lady	A
+nsubj	fastens	lady
+root	ROOT	fastens
+nmod:poss	skates	someone
+case	someone	's
+compound	skates	ice
+dobj	fastens	skates
+case	snow	in
+det	snow	the
+nmod:in	fastens	snow
+punct	fastens	.

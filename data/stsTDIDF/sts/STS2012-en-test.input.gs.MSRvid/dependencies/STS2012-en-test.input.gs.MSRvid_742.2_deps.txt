@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+det	baby	a
+dobj	putting	baby
+case	trash	into
+det	trash	a
+nmod:into	putting	trash
+dep	trash	can
+punct	putting	.

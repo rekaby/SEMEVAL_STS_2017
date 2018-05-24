@@ -1,0 +1,11 @@
+nsubj	had	Terminal
+dep	Terminal	1
+cc	1	and
+det	terminal	the
+amod	terminal	positive
+conj:and	1	terminal
+root	ROOT	had
+amod	states	different
+amod	states	electrical
+dobj	had	states
+punct	had	.

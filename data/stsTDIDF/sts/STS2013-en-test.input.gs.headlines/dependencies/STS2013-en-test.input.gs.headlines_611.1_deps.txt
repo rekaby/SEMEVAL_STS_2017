@@ -1,0 +1,9 @@
+nsubj	take	Cause
+case	death	of
+compound	Houston	Whitney
+nmod:poss	death	Houston
+case	Houston	's
+nmod:of	Cause	death
+aux	take	could
+root	ROOT	take
+dobj	take	weeks

@@ -1,0 +1,7 @@
+amod	boy	Little
+root	ROOT	boy
+acl	boy	having
+dobj	having	lunch
+case	cafe	in
+det	cafe	a
+nmod:in	lunch	cafe

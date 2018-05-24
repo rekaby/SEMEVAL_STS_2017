@@ -1,0 +1,9 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	want	on
+dobj	want	what
+nsubj	want	you
+advcl	depends	want
+mark	achieve	to
+xcomp	want	achieve
+punct	depends	.

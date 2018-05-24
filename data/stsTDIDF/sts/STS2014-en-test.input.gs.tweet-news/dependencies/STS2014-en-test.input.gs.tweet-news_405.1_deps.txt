@@ -1,0 +1,9 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+nsubj	Become	Smartphones
+parataxis	NYTimes	Become
+compound	Control	Life?s
+compound	Control	Remote
+dobj	Become	Control
+punct	Control	--
+amod	Control	amazing

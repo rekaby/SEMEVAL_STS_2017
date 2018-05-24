@@ -1,0 +1,14 @@
+advmod	had	So
+nsubj	had	I
+root	ROOT	had
+dobj	had	plenty
+case	time	of
+nmod:of	plenty	time
+mark	think	to
+xcomp	had	think
+case	subject	about
+det	subject	the
+nmod:about	think	subject
+case	boredom	of
+nmod:of	subject	boredom
+punct	had	.

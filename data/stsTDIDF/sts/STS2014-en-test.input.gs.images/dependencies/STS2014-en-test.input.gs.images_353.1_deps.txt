@@ -1,0 +1,11 @@
+det	engine	A
+compound	engine	steam
+nsubj	comes	engine
+root	ROOT	comes
+compound:prt	comes	down
+det	track	a
+compound	track	train
+dobj	comes	track
+case	trees	near
+nmod:near	track	trees
+punct	comes	.

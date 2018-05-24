@@ -1,0 +1,25 @@
+nsubj	like	I
+aux	like	'd
+root	ROOT	like
+mark	read	to
+xcomp	like	read
+dobj	read	this
+punct	like	.-7) root(ROOT-0, MT
+punct	MT	:
+dep	MT	Interview
+case	Weiss	with
+compound	Weiss	DL
+nmod:with	Interview	Weiss
+punct	Weiss	,
+nsubj	Put	Who
+acl:relcl	Weiss	Put
+nmod:poss	Child	Her
+dobj	Put	Child
+case	Diet	on
+det	Diet	a
+nmod:on	Put	Diet
+cc	Put	and
+conj:and	Put	Wrote
+case	It	About
+nmod:about	Wrote	It
+punct	MT	.

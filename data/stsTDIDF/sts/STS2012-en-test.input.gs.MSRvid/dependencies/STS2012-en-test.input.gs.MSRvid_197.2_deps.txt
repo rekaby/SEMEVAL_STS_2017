@@ -1,0 +1,9 @@
+det	man	A
+amod	man	shirtless
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	chair	on
+det	chair	a
+nmod:on	sitting	chair
+punct	sitting	.

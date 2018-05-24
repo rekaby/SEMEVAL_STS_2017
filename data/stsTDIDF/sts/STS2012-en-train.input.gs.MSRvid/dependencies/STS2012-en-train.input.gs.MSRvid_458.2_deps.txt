@@ -1,0 +1,8 @@
+det	cook	The
+nsubj	pouring	cook
+root	ROOT	pouring
+dobj	pouring	oil
+case	pan	into
+det	pan	the
+nmod:into	pouring	pan
+punct	pouring	.

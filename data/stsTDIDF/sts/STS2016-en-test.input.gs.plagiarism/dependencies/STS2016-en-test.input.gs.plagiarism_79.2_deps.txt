@@ -1,0 +1,17 @@
+det	problem	The
+amod	problem	main
+nsubjpass	divided	problem
+auxpass	divided	is
+root	ROOT	divided
+case	problems	into
+compound	problems	sub
+nmod:into	divided	problems
+nsubjpass	solved	which
+auxpass	solved	are
+acl:relcl	problems	solved
+cc	solved	and
+conj:and	solved	stored
+case	use	for
+amod	use	future
+nmod:for	stored	use
+punct	divided	.

@@ -1,0 +1,6 @@
+det	kitten	A
+nsubj	drinking	kitten
+aux	drinking	is
+root	ROOT	drinking
+dobj	drinking	milk
+punct	drinking	.

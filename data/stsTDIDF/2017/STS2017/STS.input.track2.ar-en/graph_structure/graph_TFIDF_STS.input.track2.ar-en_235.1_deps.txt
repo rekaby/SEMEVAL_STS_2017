@@ -1,0 +1,6 @@
+sitting	man	nsubj
+watching	parade	dobj
+cars	clown	compound
+sitting	watching	xcomp
+parade	cars	nmod:of
+parade	a	det

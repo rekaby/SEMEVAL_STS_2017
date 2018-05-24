@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	doing
+dobj	doing	windsurfing
+case	ocean	in
+det	ocean	the
+nmod:in	doing	ocean
+punct	man	.

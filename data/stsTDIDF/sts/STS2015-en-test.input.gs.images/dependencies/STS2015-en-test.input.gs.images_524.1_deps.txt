@@ -1,0 +1,8 @@
+det	dog	This
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+case	water	through
+det	water	the
+nmod:through	jumping	water
+punct	jumping	.

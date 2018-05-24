@@ -1,0 +1,9 @@
+det	people	Some
+nsubj	hang	people
+root	ROOT	hang
+compound:prt	hang	out
+case	alley	at
+det	alley	the
+compound	alley	bowling
+nmod:at	hang	alley
+punct	hang	.

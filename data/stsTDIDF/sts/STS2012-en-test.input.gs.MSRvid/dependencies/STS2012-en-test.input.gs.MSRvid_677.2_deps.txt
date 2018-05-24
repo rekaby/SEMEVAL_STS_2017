@@ -1,0 +1,9 @@
+det	dog	The
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	cleaner	with
+det	cleaner	the
+compound	cleaner	floor
+nmod:with	playing	cleaner
+punct	playing	.

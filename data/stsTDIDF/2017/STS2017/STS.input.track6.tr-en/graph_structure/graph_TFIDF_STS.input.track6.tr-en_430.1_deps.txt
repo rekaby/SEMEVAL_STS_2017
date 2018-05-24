@@ -1,0 +1,9 @@
+walking	swim	compound
+man	child	conj:and
+walking	gear	compound
+walking	billboards	nmod:by
+billboards	by	case
+walking	are	cop
+walking	in	case
+walking	man	nsubj
+walking	their	nmod:poss

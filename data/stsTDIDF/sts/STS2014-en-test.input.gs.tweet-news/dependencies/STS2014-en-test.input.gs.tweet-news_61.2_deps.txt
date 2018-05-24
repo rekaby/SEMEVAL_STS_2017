@@ -1,0 +1,7 @@
+root	ROOT	Opinionator
+punct	Opinionator	:
+advmod	Was	Back
+advmod	Was	When
+nsubj	Was	I
+dep	Opinionator	Was
+nsubj	Was	Packing

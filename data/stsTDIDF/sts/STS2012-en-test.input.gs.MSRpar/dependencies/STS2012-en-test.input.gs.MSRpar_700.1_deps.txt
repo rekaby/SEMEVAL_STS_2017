@@ -1,0 +1,12 @@
+det	woman	The
+nsubjpass	hospitalized	woman
+auxpass	hospitalized	was
+root	ROOT	hospitalized
+nmod:tmod	hospitalized	June
+nummod	June	15
+punct	June	,
+compound	officials	Kansas
+compound	officials	health
+nsubj	said	officials
+acl:relcl	June	said
+punct	hospitalized	.

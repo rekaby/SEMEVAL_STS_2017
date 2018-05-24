@@ -1,0 +1,5 @@
+waiting	event	nmod:for
+event	begin	acl
+waiting	is	aux
+waiting	crowd	nsubj
+crowd	A	det

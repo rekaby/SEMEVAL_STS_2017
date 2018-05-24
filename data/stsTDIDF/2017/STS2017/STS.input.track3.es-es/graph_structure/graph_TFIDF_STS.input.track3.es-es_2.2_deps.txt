@@ -1,0 +1,4 @@
+pet	.	punct
+ROOT	pet	root
+pet	dog	nmod:npmod
+pet	Children	compound

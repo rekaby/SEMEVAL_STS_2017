@@ -1,0 +1,7 @@
+sunset	an	det
+sunset	ocean	compound
+standing	children	nsubj
+sunset	in	case
+children	smiling	amod
+children	Some	det
+standing	sunset	nmod:in_front_of

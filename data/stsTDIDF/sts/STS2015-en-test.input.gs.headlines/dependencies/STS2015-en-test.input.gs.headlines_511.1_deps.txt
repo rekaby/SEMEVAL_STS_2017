@@ -1,0 +1,11 @@
+amod	opposition	Syrian
+nsubj	offers	opposition
+root	ROOT	offers
+compound	truce	Assad
+dobj	offers	truce
+case	Homs	in
+nmod:in	offers	Homs
+case	duration	for
+nmod:for	offers	duration
+case	Ramadan	of
+nmod:of	duration	Ramadan

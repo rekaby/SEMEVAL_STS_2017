@@ -1,0 +1,9 @@
+nmod:poss	Sarkozy	France
+case	France	's
+compound	Sarkozy	Nicolas
+nsubj	makes	Sarkozy
+root	ROOT	makes
+nmod:poss	bid	his
+compound	bid	reelection
+nsubj	official	bid
+xcomp	makes	official

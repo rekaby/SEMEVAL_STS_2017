@@ -1,0 +1,5 @@
+walk	men	nsubj
+kids	with	case
+walk	kids	nmod:with
+walk	street	nmod:down
+street	down	case

@@ -1,0 +1,7 @@
+amod	spokesman	Egyptian
+amod	spokesman	military
+nsubj	denounces	spokesman
+root	ROOT	denounces
+dobj	denounces	incitement
+case	army	against
+nmod:against	denounces	army

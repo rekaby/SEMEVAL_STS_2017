@@ -1,0 +1,5 @@
+compound	period	accounting
+root	ROOT	period
+case	months	of
+nummod	months	12
+nmod:of	period	months

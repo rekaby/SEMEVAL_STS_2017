@@ -1,0 +1,7 @@
+det	audience	An
+nsubj	watches	audience
+root	ROOT	watches
+det	dance	a
+compound	dance	girl
+dobj	watches	dance
+punct	watches	.

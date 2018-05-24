@@ -1,0 +1,14 @@
+det	side	Each
+nsubj	had	side
+root	ROOT	had
+advmod	different	quite
+amod	theories	different
+dobj	had	theories
+cc	theories	and
+conj:and	theories	explanations
+mark	going	of
+nsubj	going	what
+aux	going	was
+acl	explanations	going
+compound:prt	going	on
+punct	had	.

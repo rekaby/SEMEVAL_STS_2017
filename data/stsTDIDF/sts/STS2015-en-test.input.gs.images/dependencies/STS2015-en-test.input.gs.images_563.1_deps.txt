@@ -1,0 +1,12 @@
+det	girl	A
+root	ROOT	girl
+case	purse	with
+det	purse	a
+amod	purse	black
+nmod:with	girl	purse
+acl	purse	sitting
+case	bench	on
+det	bench	a
+amod	bench	wooden
+nmod:on	sitting	bench
+punct	girl	.

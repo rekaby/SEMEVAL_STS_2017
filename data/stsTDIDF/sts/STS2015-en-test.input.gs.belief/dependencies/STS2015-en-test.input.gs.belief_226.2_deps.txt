@@ -1,0 +1,12 @@
+det	system	the
+compound	system	justice
+nsubj	farce	system
+cop	farce	is
+det	farce	a
+root	ROOT	farce
+cc	farce	and
+nsubj	know	we
+nsubj	know	all
+conj:and	farce	know
+dobj	know	it
+punct	farce	.

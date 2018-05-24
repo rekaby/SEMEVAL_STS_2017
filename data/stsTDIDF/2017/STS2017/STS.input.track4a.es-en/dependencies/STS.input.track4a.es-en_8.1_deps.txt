@@ -1,0 +1,11 @@
+det	group	A
+nsubj	resting	group
+case	people	of
+nmod:of	group	people
+aux	resting	is
+root	ROOT	resting
+case	hills	near
+nmod:near	resting	hills
+cc	hills	and
+conj:and	hills	cliffs
+punct	resting	.

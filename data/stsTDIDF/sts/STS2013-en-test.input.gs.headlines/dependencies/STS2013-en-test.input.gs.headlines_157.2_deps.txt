@@ -1,0 +1,11 @@
+amod	monk	Teenage
+compound	monk	Tibetan
+nsubj	dies	monk
+root	ROOT	dies
+mark	setting	after
+advcl	dies	setting
+dobj	setting	himself
+case	fire	on
+nmod:on	setting	fire
+case	China	in
+nmod:in	fire	China

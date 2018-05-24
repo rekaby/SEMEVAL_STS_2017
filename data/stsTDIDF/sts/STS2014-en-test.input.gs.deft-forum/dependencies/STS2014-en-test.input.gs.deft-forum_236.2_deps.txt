@@ -1,0 +1,14 @@
+advmod	know	How
+aux	know	would
+nsubj	know	Martin
+cc	Martin	or
+conj:or	Martin	anyone
+advmod	know	else
+root	ROOT	know
+nmod:poss	intentions	his
+dobj	know	intentions
+case	actions	based
+mwe	based	on
+nmod:poss	actions	his
+acl:based_on	intentions	actions
+punct	know	?

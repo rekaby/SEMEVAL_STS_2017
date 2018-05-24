@@ -1,0 +1,5 @@
+throws	.	punct
+throws	man	nsubj
+ROOT	throws	root
+stick	a	det
+throws	stick	dobj

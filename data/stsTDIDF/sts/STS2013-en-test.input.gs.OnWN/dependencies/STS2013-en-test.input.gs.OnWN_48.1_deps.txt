@@ -1,0 +1,6 @@
+root	ROOT	Limit
+case	quantity	in
+nmod:in	Limit	quantity
+cc	quantity	or
+conj:or	quantity	quality
+punct	Limit	.

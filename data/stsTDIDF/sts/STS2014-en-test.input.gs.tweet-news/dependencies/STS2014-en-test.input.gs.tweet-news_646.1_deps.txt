@@ -1,0 +1,23 @@
+nsubj	thought	Who
+aux	thought	'd
+aux	thought	have
+root	ROOT	thought
+det	hero	an
+amod	hero	American
+nsubj	Canadian	hero
+aux	Canadian	could
+cop	Canadian	be
+det	Canadian	a
+ccomp	thought	Canadian
+punct	thought	?-12) root(ROOT-0, NYT
+punct	NYT	:
+appos	NYT	Man
+dobj	Dies	Who
+amod	Americans	Sheltered
+nsubj	Dies	Americans
+case	Tehran	in
+nmod:in	Americans	Tehran
+punct	Dies	,
+acl:relcl	Man	Dies
+case	88	at
+nmod:at	Dies	88

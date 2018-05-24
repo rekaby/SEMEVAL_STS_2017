@@ -1,0 +1,12 @@
+det	person	A
+root	ROOT	person
+cc	person	or
+conj:or	person	thing
+amod	person	equal
+case	another	to
+nmod:to	equal	another
+case	value	in
+nmod:in	equal	value
+cc	value	or
+conj:or	value	significane
+punct	person	.

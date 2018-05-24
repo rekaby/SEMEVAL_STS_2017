@@ -1,0 +1,9 @@
+nsubj	trying	Bull
+aux	trying	is
+root	ROOT	trying
+mark	take	to
+xcomp	trying	take
+det	man	a
+dobj	take	man
+case	man	's
+compound:prt	take	back

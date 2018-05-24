@@ -1,0 +1,10 @@
+det	group	A
+nsubj	suits	group
+case	people	of
+nmod:of	group	people
+cop	suits	are
+case	suits	in
+root	ROOT	suits
+cc	suits	and
+conj:and	suits	dresses
+punct	suits	.

@@ -1,0 +1,8 @@
+det	drives	A
+amod	drives	green
+compound	drives	bus
+root	ROOT	drives
+case	road	down
+det	road	a
+nmod:down	drives	road
+punct	drives	.

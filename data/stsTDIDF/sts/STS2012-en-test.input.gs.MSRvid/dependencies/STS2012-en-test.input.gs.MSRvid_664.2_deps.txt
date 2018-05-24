@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	talking	boy
+aux	talking	is
+root	ROOT	talking
+case	dog	to
+det	dog	a
+amod	dog	giant
+nmod:to	talking	dog
+punct	talking	.

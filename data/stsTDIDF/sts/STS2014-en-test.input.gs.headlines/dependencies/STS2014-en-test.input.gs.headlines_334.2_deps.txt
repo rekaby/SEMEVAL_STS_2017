@@ -1,0 +1,8 @@
+compound	Armstrong	Lance
+nsubj	confesses	Armstrong
+root	ROOT	confesses
+mark	doping	to
+xcomp	confesses	doping
+case	Oprah	in
+nmod:in	doping	Oprah
+dobj	confesses	interview

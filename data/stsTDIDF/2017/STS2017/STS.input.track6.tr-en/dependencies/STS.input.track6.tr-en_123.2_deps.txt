@@ -1,0 +1,9 @@
+det	boy	The
+nsubj	holding	boy
+cc	boy	and
+det	girl	the
+conj:and	boy	girl
+aux	holding	are
+root	ROOT	holding
+dobj	holding	hands
+punct	holding	.

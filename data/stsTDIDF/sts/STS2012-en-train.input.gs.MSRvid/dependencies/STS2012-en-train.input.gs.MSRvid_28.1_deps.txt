@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	frying	woman
+aux	frying	is
+root	ROOT	frying
+det	food	a
+dobj	frying	food
+punct	frying	.

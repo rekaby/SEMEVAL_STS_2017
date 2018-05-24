@@ -1,0 +1,6 @@
+amod	shot	Hard-line
+amod	shot	Jewish
+compound	shot	leader
+root	ROOT	shot
+case	Jerusalem	in
+nmod:in	shot	Jerusalem

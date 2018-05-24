@@ -1,0 +1,12 @@
+nsubj	warns	Assad
+root	ROOT	warns
+dobj	warns	Turkey
+case	price	of
+punct	price	`
+amod	price	heavy
+nmod:of	Turkey	price
+punct	price	'
+mark	backing	for
+advcl	warns	backing
+amod	rebels	Syrian
+dobj	backing	rebels

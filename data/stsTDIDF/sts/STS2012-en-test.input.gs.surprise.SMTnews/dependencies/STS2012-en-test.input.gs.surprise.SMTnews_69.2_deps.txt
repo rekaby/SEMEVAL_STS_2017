@@ -1,0 +1,16 @@
+advmod	happening	However
+punct	happening	,
+det	process	a
+nsubj	happening	process
+case	de-institutionalisation	of
+nmod:of	process	de-institutionalisation
+case	experience	of
+det	experience	the
+amod	experience	religious
+nmod:of	de-institutionalisation	experience
+aux	happening	is
+advmod	happening	also
+root	ROOT	happening
+case	Islam	within
+nmod:within	happening	Islam
+punct	happening	.

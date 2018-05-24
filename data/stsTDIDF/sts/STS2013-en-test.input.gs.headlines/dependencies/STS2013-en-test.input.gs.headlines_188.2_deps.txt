@@ -1,0 +1,7 @@
+nsubj	rips	Pope
+root	ROOT	rips
+case	priests	into
+amod	priests	dissident
+nmod:into	rips	priests
+case	celibacy	on
+nmod:on	rips	celibacy

@@ -1,0 +1,9 @@
+root	ROOT	draw
+compound:prt	draw	up
+det	outline	an
+dobj	draw	outline
+cc	outline	or
+conj:or	outline	sketch
+case	something	for
+nmod:for	outline	something
+punct	draw	.

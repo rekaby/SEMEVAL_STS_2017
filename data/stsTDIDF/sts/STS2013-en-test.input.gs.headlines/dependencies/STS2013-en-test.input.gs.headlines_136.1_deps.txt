@@ -1,0 +1,6 @@
+compound	suspect	Colorado
+compound	suspect	shooting
+nsubj	therapy	suspect
+cop	therapy	was
+case	therapy	in
+root	ROOT	therapy

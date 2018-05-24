@@ -1,0 +1,9 @@
+amod	object	Suspicious
+nsubj	device	object
+amod	device	found
+case	Aviv	in
+compound	Aviv	Tel
+nmod:in	found	Aviv
+neg	device	not
+amod	device	explosive
+root	ROOT	device

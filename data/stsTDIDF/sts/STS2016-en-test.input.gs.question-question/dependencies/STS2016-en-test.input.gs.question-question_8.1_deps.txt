@@ -1,0 +1,10 @@
+advmod	connect	How
+aux	connect	can
+nsubj	connect	I
+root	ROOT	connect
+amod	wires	additional
+dobj	connect	wires
+case	receptacle	to
+det	receptacle	a
+nmod:to	connect	receptacle
+punct	connect	?

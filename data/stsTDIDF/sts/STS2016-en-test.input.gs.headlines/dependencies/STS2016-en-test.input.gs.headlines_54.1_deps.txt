@@ -1,0 +1,9 @@
+compound	proposal	Treasury
+nsubj	sees	proposal
+root	ROOT	sees
+compound	%	1.5
+amod	increase	%
+dobj	sees	increase
+case	income	in
+nmod:in	increase	income
+dobj	sees	tax

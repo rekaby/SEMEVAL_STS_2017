@@ -1,0 +1,12 @@
+amod	secretary	u.s.
+nsubj	demanded	secretary
+case	rice	of
+compound	rice	state
+compound	rice	condoleezza
+nmod:of	secretary	rice
+root	ROOT	demanded
+nsubj	withdraw	russia
+ccomp	demanded	withdraw
+nmod:poss	forces	its
+dobj	withdraw	forces
+punct	demanded	.

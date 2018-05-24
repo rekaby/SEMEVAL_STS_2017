@@ -1,0 +1,8 @@
+umbrella	an	det
+hiding	umbrella	nmod:under
+hiding	is	aux
+person	The	det
+ROOT	hiding	root
+umbrella	under	case
+hiding	person	nsubj
+hiding	.	punct

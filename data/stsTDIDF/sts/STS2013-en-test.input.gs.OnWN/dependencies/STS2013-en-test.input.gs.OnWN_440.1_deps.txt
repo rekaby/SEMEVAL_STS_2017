@@ -1,0 +1,7 @@
+root	ROOT	identify
+cc	identify	or
+conj:or	identify	pick
+compound:prt	pick	out
+dobj	pick	someone
+cc	identify	or
+conj:or	identify	something

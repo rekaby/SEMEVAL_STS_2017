@@ -1,0 +1,7 @@
+nsubj	wants	Key
+root	ROOT	wants
+compound	visit	Waitangi
+compound	visit	marae
+dobj	wants	visit
+mark	stay	to
+advcl	wants	stay

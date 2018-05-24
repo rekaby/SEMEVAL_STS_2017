@@ -1,0 +1,9 @@
+nsubj	performing	Motorcyclist
+root	ROOT	performing
+det	wheelie	a
+dobj	performing	wheelie
+case	car	next
+mwe	next	to
+det	car	a
+nmod:next_to	performing	car
+punct	performing	.

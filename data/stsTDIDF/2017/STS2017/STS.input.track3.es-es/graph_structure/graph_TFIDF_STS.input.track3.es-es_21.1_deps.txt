@@ -1,0 +1,5 @@
+person	Each	det
+holding	puppy	dobj
+person	shown	acl
+holding	person	nsubj
+puppy	a	det

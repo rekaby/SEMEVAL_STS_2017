@@ -1,0 +1,5 @@
+det	person	A
+nsubj	writing	person
+aux	writing	is
+root	ROOT	writing
+punct	writing	.

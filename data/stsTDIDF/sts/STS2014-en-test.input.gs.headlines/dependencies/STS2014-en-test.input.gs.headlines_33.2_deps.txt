@@ -1,0 +1,6 @@
+compound	Summit	G20
+nsubj	ends	Summit
+root	ROOT	ends
+xcomp	ends	divided
+case	Syria	over
+nmod:over	divided	Syria

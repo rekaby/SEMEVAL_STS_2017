@@ -1,0 +1,9 @@
+lined	stairs	conj:and
+ROOT	lined	root
+workers	hoses	nmod:with
+workers	Emergency	compound
+lined	and	cc
+lined	.	punct
+lined	workers	nsubj
+hoses	with	case
+stairs	down	case

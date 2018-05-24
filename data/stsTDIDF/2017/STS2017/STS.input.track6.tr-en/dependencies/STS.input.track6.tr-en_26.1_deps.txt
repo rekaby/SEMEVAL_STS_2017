@@ -1,0 +1,10 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+compound:prt	running	down
+det	sand	a
+nsubj	covered	sand
+ccomp	running	covered
+dobj	covered	mountain
+punct	running	.

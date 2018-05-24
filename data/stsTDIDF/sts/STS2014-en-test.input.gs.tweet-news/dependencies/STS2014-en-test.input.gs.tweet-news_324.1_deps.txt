@@ -1,0 +1,11 @@
+compound	Anthony	Casey
+nsubj	has	Anthony
+root	ROOT	has
+dobj	has	two
+case	convictions	of
+nmod:poss	convictions	her
+nummod	convictions	four
+nmod:of	two	convictions
+acl	convictions	thrown
+compound:prt	thrown	out
+punct	has	.

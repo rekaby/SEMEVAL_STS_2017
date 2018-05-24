@@ -1,0 +1,14 @@
+csubj	part	killing
+case	us	in
+det	us	the
+nmod:in	killing	us
+cop	part	is
+advmod	part	just
+root	ROOT	part
+case	life	of
+amod	life	day-to-day
+nmod:of	part	life
+case	us	in
+det	us	the
+nmod:in	part	us
+punct	part	.

@@ -1,0 +1,7 @@
+nsubj	urges	Obama
+root	ROOT	urges
+neg	sanctions	no
+amod	sanctions	new
+dobj	urges	sanctions
+case	Iran	on
+nmod:on	urges	Iran

@@ -1,0 +1,14 @@
+det	difference	The
+nsubj	huge	difference
+cop	huge	is
+root	ROOT	huge
+punct	huge	,
+mark	exist	as
+neg	things	not
+det	things	all
+amod	things	non-physical
+nsubj	exist	things
+advcl	huge	exist
+case	minds	in
+nmod:in	exist	minds
+punct	huge	.

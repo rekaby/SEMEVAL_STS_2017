@@ -1,0 +1,5 @@
+municipality	a	det
+municipality	at	case
+looking	child	nsubj
+looking	municipality	nmod:at
+child	The	det

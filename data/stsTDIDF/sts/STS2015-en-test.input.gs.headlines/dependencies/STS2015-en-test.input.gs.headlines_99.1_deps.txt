@@ -1,0 +1,10 @@
+root	ROOT	Afghanistan
+punct	Afghanistan	:
+compound	bomber	suicide
+nsubj	kills	bomber
+parataxis	Afghanistan	kills
+dobj	kills	eight
+case	blast	in
+amod	blast	military
+compound	blast	bus
+nmod:in	eight	blast

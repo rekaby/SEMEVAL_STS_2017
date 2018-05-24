@@ -1,0 +1,8 @@
+det	women	A
+nsubj	giving	women
+root	ROOT	giving
+dobj	giving	something
+case	lady	to
+amod	lady	other
+nmod:to	giving	lady
+punct	giving	.

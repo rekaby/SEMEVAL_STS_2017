@@ -1,0 +1,13 @@
+det	man	A
+nsubj	standing	man
+case	hair	with
+amod	hair	gray
+nmod:with	man	hair
+cc	hair	and
+det	hat	a
+amod	hat	red
+conj:and	hair	hat
+aux	standing	is
+root	ROOT	standing
+advmod	standing	outside
+punct	standing	.

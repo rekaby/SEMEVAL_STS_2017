@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	play	dogs
+cop	play	are
+root	ROOT	play
+case	ball	with
+det	ball	a
+nmod:with	play	ball
+punct	play	.

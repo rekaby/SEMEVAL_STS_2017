@@ -1,0 +1,8 @@
+det	bird	A
+amod	bird	little
+root	ROOT	bird
+acl	bird	floating
+case	water	in
+det	water	the
+nmod:in	floating	water
+punct	bird	.

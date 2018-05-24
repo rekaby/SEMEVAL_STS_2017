@@ -1,0 +1,8 @@
+compound	tax	Income
+root	ROOT	tax
+punct	tax	,
+amod	rate	top
+appos	tax	rate
+punct	tax	:
+dep	tax	percent
+punct	tax	.

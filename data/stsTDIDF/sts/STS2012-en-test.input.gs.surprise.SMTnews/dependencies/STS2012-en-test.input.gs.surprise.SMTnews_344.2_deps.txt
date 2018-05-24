@@ -1,0 +1,14 @@
+root	ROOT	And
+punct	And	,
+advmod	important	perhaps
+det	important	the
+advmod	important	most
+root	,	important
+punct	important	,
+det	influence	the
+amod	influence	destabilising
+root	,	influence
+punct	influence	,
+neg	then	not
+advmod	influence	then
+punct	influence	.

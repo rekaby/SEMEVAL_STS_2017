@@ -1,0 +1,10 @@
+det	entity	an
+nsubj	has	entity
+root	ROOT	has
+det	ability	the
+dobj	has	ability
+mark	contain	to
+acl	ability	contain
+det	theme	a
+dobj	contain	theme
+punct	has	.

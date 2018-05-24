@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	chopping	woman
+aux	chopping	is
+root	ROOT	chopping
+det	egg	a
+amod	egg	hard
+dobj	chopping	egg
+punct	chopping	.

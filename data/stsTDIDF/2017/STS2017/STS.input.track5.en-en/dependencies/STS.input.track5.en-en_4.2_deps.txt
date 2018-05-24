@@ -1,0 +1,7 @@
+det	child	A
+root	ROOT	child
+case	bike	next
+mwe	next	to
+det	bike	a
+nmod:next_to	child	bike
+punct	child	.

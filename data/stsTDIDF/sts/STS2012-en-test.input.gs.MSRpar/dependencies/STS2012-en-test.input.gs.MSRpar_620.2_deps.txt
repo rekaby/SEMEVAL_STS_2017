@@ -1,0 +1,14 @@
+advmod	remain	Still
+punct	remain	,
+compound	Weill	Mr.
+nsubj	remain	Weill
+aux	remain	will
+root	ROOT	remain
+advmod	much	very
+advmod	power	much
+det	power	a
+xcomp	remain	power
+case	company	at
+det	company	the
+nmod:at	power	company
+punct	remain	.

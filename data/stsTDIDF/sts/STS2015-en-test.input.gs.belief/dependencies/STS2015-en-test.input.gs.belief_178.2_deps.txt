@@ -1,0 +1,14 @@
+root	ROOT	i
+dep	i	have
+nmod:poss	business	my
+amod	business	own
+dobj	have	business
+cc	business	but
+conj:but	business	work
+case	all	as
+nmod:as	have	all
+cc	all	but
+conj:but	all	dried
+compound:prt	have	up
+punct	have	...
+dep	i	to

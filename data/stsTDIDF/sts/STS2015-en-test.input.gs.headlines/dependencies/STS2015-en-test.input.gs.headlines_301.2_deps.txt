@@ -1,0 +1,12 @@
+compound	Secretary	US
+root	ROOT	Secretary
+case	State	of
+nmod:of	Secretary	State
+compound	Kerry	John
+dobj	rushed	Kerry
+nummod	wife	‚
+compound	wife	Äôs
+nsubj	rushed	wife
+acl:relcl	Secretary	rushed
+case	hospital	to
+nmod:to	rushed	hospital

@@ -1,0 +1,13 @@
+det	movement	The
+nsubjpass	called	movement
+case	ball	of
+det	ball	the
+nmod:of	movement	ball
+case	air	in
+det	air	the
+nmod:in	movement	air
+auxpass	called	is
+root	ROOT	called
+compound	bowling	swing
+xcomp	called	bowling
+punct	called	.

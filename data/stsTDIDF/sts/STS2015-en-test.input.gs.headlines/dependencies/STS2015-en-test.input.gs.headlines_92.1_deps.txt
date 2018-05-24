@@ -1,0 +1,8 @@
+compound	Sox	Red
+nsubj	beat	Sox
+root	ROOT	beat
+dobj	beat	Tigers
+mark	reach	to
+xcomp	beat	reach
+compound	Series	World
+dobj	reach	Series

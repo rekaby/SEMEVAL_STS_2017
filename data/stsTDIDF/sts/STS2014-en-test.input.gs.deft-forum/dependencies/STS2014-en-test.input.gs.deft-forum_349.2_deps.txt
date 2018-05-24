@@ -1,0 +1,5 @@
+root	ROOT	Stop
+xcomp	Stop	avoiding
+det	question	the
+dobj	avoiding	question
+punct	Stop	.

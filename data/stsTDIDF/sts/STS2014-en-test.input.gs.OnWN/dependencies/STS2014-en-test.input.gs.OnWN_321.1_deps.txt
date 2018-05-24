@@ -1,0 +1,12 @@
+root	ROOT	Find
+compound:prt	Find	out
+cc	Find	or
+conj:or	Find	determine
+punct	Find	,
+advmod	Find	perhaps
+case	calculation	after
+det	calculation	a
+nmod:after	perhaps	calculation
+cc	calculation	or
+conj:or	calculation	investigation
+punct	Find	.

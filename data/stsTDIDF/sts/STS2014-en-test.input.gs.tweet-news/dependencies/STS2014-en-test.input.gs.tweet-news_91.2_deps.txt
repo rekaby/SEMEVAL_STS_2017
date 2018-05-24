@@ -1,0 +1,10 @@
+amod	poachers	Kenyan
+compound	poachers	rangers
+compound	poachers	hunt
+root	ROOT	poachers
+nsubj	killed	who
+acl:relcl	poachers	killed
+nummod	elephants	11
+dobj	killed	elephants
+case	ivory	for
+nmod:for	killed	ivory

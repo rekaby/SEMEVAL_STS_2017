@@ -1,0 +1,6 @@
+root	ROOT	Mursi
+acl	Mursi	sworn
+case	president	in
+case	president	as
+amod	president	Egyptian
+nmod:as	sworn	president

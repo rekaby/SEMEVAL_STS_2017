@@ -1,0 +1,6 @@
+det	boat	A
+amod	boat	yellow
+root	ROOT	boat
+case	shore	on
+nmod:on	boat	shore
+punct	boat	.

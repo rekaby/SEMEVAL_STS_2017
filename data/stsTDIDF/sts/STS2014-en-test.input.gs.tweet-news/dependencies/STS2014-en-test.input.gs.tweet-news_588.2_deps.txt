@@ -1,0 +1,9 @@
+nsubj	Listens	Gatorade
+root	ROOT	Listens
+case	Teen	to
+det	Teen	a
+nmod:to	Listens	Teen
+cc	Teen	And
+conj:and	Teen	Changes
+nmod:poss	Formula	Its
+dobj	Changes	Formula

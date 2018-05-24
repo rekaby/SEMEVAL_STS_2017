@@ -1,0 +1,10 @@
+det	activity	The
+amod	activity	principal
+root	ROOT	activity
+dobj	does	that
+nsubj	does	one
+acl:relcl	activity	does
+mark	earn	to
+xcomp	does	earn
+dobj	earn	money
+punct	activity	.

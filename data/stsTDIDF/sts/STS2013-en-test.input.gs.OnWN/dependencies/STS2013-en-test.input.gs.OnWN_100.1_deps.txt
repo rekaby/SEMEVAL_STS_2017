@@ -1,0 +1,14 @@
+root	ROOT	Induce
+case	action	into
+nmod:into	Induce	action
+mark	using	by
+advcl	Induce	using
+nmod:poss	charm	one
+case	one	's
+dobj	using	charm
+punct	Induce	;
+parataxis	Induce	provoke
+mark	do	to
+xcomp	provoke	do
+dobj	do	something
+punct	Induce	.

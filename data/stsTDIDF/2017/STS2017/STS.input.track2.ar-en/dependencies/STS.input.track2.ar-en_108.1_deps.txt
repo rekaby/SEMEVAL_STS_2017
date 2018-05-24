@@ -1,0 +1,10 @@
+nummod	guys	Two
+nsubj	having	guys
+aux	having	are
+root	ROOT	having
+dobj	having	lunch
+case	restaurant	in
+det	restaurant	a
+amod	restaurant	Chinese
+nmod:in	having	restaurant
+punct	having	.

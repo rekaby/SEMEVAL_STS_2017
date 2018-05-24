@@ -1,0 +1,7 @@
+punct	sound	-LRB-
+advmod	sound	Literally
+punct	sound	-RRB-
+root	ROOT	sound
+case	resonance	with
+nmod:with	sound	resonance
+punct	sound	.

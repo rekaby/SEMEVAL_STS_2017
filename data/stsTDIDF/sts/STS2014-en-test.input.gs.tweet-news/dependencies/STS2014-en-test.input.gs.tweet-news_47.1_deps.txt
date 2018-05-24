@@ -1,0 +1,11 @@
+det	truth	The
+nsubj	publicity	truth
+case	publicity	about
+nmod:about	truth	publicity
+punct	publicity	...
+amod	publicity	Bad
+nsubj	exist	publicity
+aux	exist	does
+root	ROOT	exist
+punct	exist	.-10) compound(#media-2, #pr
+root	ROOT	#media

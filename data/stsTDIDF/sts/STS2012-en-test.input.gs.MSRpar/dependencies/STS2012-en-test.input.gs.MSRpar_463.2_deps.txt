@@ -1,0 +1,16 @@
+det	attack	The
+compound	attack	Atlanta
+compound	attack	Olympic
+compound	attack	Games
+nsubj	killed	attack
+root	ROOT	killed
+nummod	woman	one
+dobj	killed	woman
+cc	woman	and
+conj:and	woman	injured
+advmod	100	more
+mwe	more	than
+nummod	people	100
+amod	people	other
+dobj	injured	people
+punct	killed	.

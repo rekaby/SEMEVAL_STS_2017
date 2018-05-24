@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	running	dogs
+root	ROOT	running
+case	ball	around
+case	ball	behind
+det	ball	the
+nmod:behind	running	ball
+advmod	running	outside
+punct	running	.

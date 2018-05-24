@@ -1,0 +1,8 @@
+det	process	the
+amod	process	bodily
+root	ROOT	process
+case	matter	of
+amod	matter	discharging
+compound	matter	waste
+nmod:of	process	matter
+punct	process	.

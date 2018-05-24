@@ -1,0 +1,11 @@
+nsubj	do	What
+advmod	do	more
+aux	do	can
+nsubj	do	I
+root	ROOT	do
+mark	improve	to
+xcomp	do	improve
+nmod:poss	score	my
+compound	score	credit
+dobj	improve	score
+punct	do	?

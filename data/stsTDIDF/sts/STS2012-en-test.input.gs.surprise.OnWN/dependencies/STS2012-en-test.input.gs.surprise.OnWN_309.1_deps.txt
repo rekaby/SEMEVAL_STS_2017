@@ -1,0 +1,4 @@
+root	ROOT	make
+det	sound	a
+amod	sound	ticking
+dobj	make	sound

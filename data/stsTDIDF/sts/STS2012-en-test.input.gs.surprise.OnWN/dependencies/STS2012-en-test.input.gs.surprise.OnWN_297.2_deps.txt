@@ -1,0 +1,10 @@
+det	state	the
+root	ROOT	state
+mark	owing	of
+acl	state	owing
+dobj	owing	something
+punct	money	-LRB-
+advmod	money	especially
+appos	something	money
+punct	money	-RRB-
+punct	state	.

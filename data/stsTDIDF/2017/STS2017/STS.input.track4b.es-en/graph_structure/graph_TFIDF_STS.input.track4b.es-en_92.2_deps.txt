@@ -1,0 +1,7 @@
+do	enter	dep
+enter	not	neg
+enter	do	aux
+do	Do	aux
+needles	my	nmod:poss
+enter	needles	dobj
+needles	dream	compound

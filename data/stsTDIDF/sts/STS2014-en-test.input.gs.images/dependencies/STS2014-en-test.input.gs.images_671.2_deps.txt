@@ -1,0 +1,14 @@
+nummod	cats	Two
+root	ROOT	cats
+punct	cats	,
+nummod	ginger	one
+appos	cats	ginger
+punct	cats	,
+det	white	the
+amod	white	other
+appos	cats	white
+dep	white	laying
+case	bed	on
+det	bed	a
+nmod:on	laying	bed
+punct	cats	.

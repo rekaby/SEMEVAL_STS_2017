@@ -1,0 +1,13 @@
+det	Index	The
+amod	Index	technology-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	dipped	Index
+root	ROOT	dipped
+dobj	dipped	0.08
+case	point	of
+det	point	a
+nmod:of	0.08	point
+case	1,646	to
+nmod:to	point	1,646
+punct	dipped	.

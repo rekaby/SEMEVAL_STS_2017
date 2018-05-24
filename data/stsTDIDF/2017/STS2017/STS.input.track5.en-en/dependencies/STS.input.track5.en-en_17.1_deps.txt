@@ -1,0 +1,7 @@
+det	woman	a
+nsubj	watches	woman
+root	ROOT	watches
+det	group	a
+compound	group	rap
+dobj	watches	group
+dep	watches	live

@@ -1,0 +1,13 @@
+wearing	running	advcl
+jacket	and	cc
+avalanche	an	det
+snowboarder	wearing	acl
+snowboarder	A	det
+wearing	jacket	dobj
+snowboarder	.	punct
+jacket	pants	conj:and
+running	avalanche	nmod:from
+avalanche	from	case
+pants	green	amod
+ROOT	snowboarder	root
+jacket	blue	amod

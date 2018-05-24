@@ -1,0 +1,6 @@
+nsubj	pledges	France
+root	ROOT	pledges
+amod	aid	military
+dobj	pledges	aid
+case	Mali	in
+nmod:in	pledges	Mali

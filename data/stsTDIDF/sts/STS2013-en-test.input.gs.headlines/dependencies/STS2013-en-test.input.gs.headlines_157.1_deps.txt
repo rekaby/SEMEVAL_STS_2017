@@ -1,0 +1,13 @@
+compound	monk	Tibetan
+nsubj	dies	monk
+root	ROOT	dies
+mark	setting	after
+advcl	dies	setting
+dobj	setting	himself
+case	fire	on
+nmod:on	setting	fire
+case	protest	in
+nmod:in	fire	protest
+case	rule	against
+amod	rule	Chinese
+nmod:against	protest	rule

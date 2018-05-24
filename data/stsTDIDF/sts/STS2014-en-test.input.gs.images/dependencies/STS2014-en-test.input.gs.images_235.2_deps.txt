@@ -1,0 +1,13 @@
+root	ROOT	Close
+compound:prt	Close	up
+dobj	Close	image
+case	sheep	of
+det	sheep	a
+nmod:of	image	sheep
+mark	tongue	with
+nsubj	tongue	it
+cop	tongue	's
+advcl	Close	tongue
+acl	tongue	hanging
+compound:prt	hanging	out
+punct	Close	.

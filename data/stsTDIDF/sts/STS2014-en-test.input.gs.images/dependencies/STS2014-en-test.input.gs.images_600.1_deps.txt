@@ -1,0 +1,10 @@
+det	cat	A
+amod	cat	black
+cc	black	and
+conj:and	black	white
+root	ROOT	cat
+acl	cat	lying
+case	blanket	on
+det	blanket	a
+nmod:on	lying	blanket
+punct	cat	.

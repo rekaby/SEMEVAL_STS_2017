@@ -1,0 +1,12 @@
+det	rhino	A
+compound	rhino	baby
+nsubj	walking	rhino
+aux	walking	is
+root	ROOT	walking
+case	pen	around
+nmod:poss	pen	his
+nmod:around	walking	pen
+case	mother	with
+nmod:poss	mother	his
+nmod:with	walking	mother
+punct	walking	.

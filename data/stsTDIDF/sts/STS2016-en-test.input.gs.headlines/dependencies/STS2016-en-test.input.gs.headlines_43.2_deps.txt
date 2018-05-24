@@ -1,0 +1,6 @@
+nsubj	agrees	Israel
+root	ROOT	agrees
+case	truce	to
+amod	truce	24-hour
+compound	truce	Gaza
+nmod:to	agrees	truce

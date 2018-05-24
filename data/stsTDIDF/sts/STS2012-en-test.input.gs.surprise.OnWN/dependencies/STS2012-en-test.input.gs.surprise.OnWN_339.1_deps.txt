@@ -1,0 +1,10 @@
+det	implement	a
+advmod	implement	long
+punct	implement	,
+amod	implement	thin
+root	ROOT	implement
+punct	implement	,
+advmod	made	usually
+acl	implement	made
+case	wood	of
+nmod:of	made	wood

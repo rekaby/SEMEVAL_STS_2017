@@ -1,0 +1,6 @@
+det	side	a
+root	ROOT	side
+cc	side	or
+conj:or	side	surface
+case	something	of
+nmod:of	side	something

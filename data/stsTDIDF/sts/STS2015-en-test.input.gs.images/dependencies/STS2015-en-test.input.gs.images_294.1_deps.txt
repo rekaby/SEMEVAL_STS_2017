@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	little
+amod	girl	blonde
+nsubj	standing	girl
+aux	standing	is
+root	ROOT	standing
+case	fountain	in
+mwe	in	front
+mwe	in	of
+det	fountain	a
+compound	fountain	water
+nmod:in_front_of	standing	fountain
+punct	standing	.

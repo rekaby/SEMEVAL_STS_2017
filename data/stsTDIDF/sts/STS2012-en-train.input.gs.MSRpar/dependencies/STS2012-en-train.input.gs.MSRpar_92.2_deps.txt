@@ -1,0 +1,17 @@
+det	system	The
+nsubjpass	priced	system
+auxpass	priced	is
+root	ROOT	priced
+case	US$	from
+nmod:from	priced	US$
+compound	$	1.1
+compound	$	million
+dep	$	to
+nummod	US$	$
+compound	million	22.4
+nummod	$	million
+punct	priced	,
+case	configuration	depending
+case	configuration	on
+advcl:on	priced	configuration
+punct	priced	.

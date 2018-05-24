@@ -1,0 +1,13 @@
+root	ROOT	put
+det	end	an
+dobj	put	end
+mark	make	to
+punct	make	,
+advcl	put	make
+amod	process	invalid
+det	process	a
+dobj	make	process
+nsubjpass	begun	that
+auxpass	begun	's
+advmod	begun	already
+acl:relcl	process	begun

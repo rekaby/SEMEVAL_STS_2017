@@ -1,0 +1,8 @@
+det	man	A
+nsubj	working	man
+aux	working	is
+root	ROOT	working
+case	truck	on
+det	truck	a
+nmod:on	working	truck
+punct	working	.

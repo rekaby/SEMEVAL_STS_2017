@@ -1,0 +1,11 @@
+nsubj	date	March
+cop	date	is
+advmod	date	also
+det	date	the
+root	ROOT	date
+case	uprising	for
+det	uprising	the
+nmod:for	date	uprising
+case	CHINA	in
+nmod:in	uprising	CHINA
+punct	date	.

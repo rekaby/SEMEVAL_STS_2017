@@ -1,0 +1,12 @@
+det	man	The
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	store	in
+det	store	a
+nmod:in	standing	store
+acl	store	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+punct	standing	.

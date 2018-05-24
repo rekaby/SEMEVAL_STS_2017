@@ -1,0 +1,9 @@
+det	terminal	the
+root	ROOT	terminal
+nsubjpass	connected	it
+auxpass	connected	is
+acl:relcl	terminal	connected
+mark	working	to
+aux	working	is
+neg	working	not
+xcomp	connected	working

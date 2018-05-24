@@ -1,0 +1,8 @@
+amod	president	Iraqi
+nsubj	due	president
+case	hospital	in
+nmod:in	president	hospital
+root	ROOT	due
+case	problem	to
+compound	problem	health
+nmod:to	due	problem

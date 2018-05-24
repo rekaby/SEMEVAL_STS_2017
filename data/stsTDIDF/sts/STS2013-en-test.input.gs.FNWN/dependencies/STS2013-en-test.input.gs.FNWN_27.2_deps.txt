@@ -1,0 +1,6 @@
+root	ROOT	satisfy
+det	condition	a
+dobj	satisfy	condition
+cc	condition	or
+conj:or	condition	restriction
+punct	satisfy	;

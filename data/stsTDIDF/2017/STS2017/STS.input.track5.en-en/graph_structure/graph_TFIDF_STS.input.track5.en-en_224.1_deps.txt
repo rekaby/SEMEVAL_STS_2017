@@ -1,0 +1,6 @@
+ROOT	shoots	root
+shoots	points	dobj
+player	The	det
+shoots	player	nsubj
+points	winning	amod
+shoots	.	punct

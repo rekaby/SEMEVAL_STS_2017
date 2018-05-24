@@ -1,0 +1,9 @@
+det	nun	A
+nsubj	looks	nun
+root	ROOT	looks
+case	weapons	for
+nmod:for	looks	weapons
+case	priest	in
+det	priest	a
+nmod:in	weapons	priest
+punct	looks	.

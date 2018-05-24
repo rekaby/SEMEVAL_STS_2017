@@ -1,0 +1,8 @@
+det	man	A
+nsubj	moon-walking	man
+cop	moon-walking	is
+root	ROOT	moon-walking
+case	store	across
+det	store	a
+nmod:across	moon-walking	store
+punct	moon-walking	.

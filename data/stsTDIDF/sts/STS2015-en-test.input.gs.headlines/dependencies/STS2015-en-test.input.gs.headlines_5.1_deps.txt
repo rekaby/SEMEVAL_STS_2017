@@ -1,0 +1,10 @@
+compound	ministers	Ukraine
+compound	ministers	protest
+compound	ministers	leaders
+compound	ministers	name
+root	ROOT	ministers
+punct	ministers	,
+amod	troops	Russian
+appos	ministers	troops
+case	alert	on
+nmod:on	troops	alert

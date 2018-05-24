@@ -1,0 +1,11 @@
+root	ROOT	ISAF
+punct	ISAF	:
+nummod	troops	4
+compound	troops	coalition
+dep	ISAF	troops
+acl	troops	killed
+case	attack	in
+nmod:in	killed	attack
+acl	attack	involving
+compound	police	Afghan
+dobj	involving	police

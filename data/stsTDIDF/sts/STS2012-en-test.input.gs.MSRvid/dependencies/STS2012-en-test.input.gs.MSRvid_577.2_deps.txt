@@ -1,0 +1,11 @@
+nummod	men	Two
+nsubj	fighting	men
+aux	fighting	are
+root	ROOT	fighting
+xcomp	fighting	using
+det	form	a
+dobj	using	form
+case	arts	of
+amod	arts	martial
+nmod:of	form	arts
+punct	fighting	.

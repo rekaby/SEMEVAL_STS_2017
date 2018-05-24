@@ -1,0 +1,11 @@
+case	US	Across
+nmod:across	rally	US
+punct	rally	,
+nsubj	rally	people
+root	ROOT	rally
+case	Justice	for
+punct	Justice	`
+nmod:for	rally	Justice
+case	Trayvon	for
+nmod:for	Justice	Trayvon
+punct	rally	'

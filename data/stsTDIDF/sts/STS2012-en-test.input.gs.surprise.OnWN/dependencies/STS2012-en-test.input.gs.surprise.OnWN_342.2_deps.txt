@@ -1,0 +1,13 @@
+root	ROOT	impose
+punct	impose	,
+conj:or	impose	involve
+punct	impose	,
+cc	impose	or
+conj:or	impose	imply
+case	accompaniment	as
+det	accompaniment	a
+amod	accompaniment	necessary
+nmod:as	imply	accompaniment
+cc	accompaniment	or
+conj:or	accompaniment	result
+punct	impose	.

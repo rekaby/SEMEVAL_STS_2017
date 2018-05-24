@@ -1,0 +1,16 @@
+det	girl	A
+nsubj	smiling	girl
+acl	girl	wearing
+det	top	a
+amod	top	black
+dobj	wearing	top
+aux	smiling	is
+root	ROOT	smiling
+case	truck	with
+det	truck	a
+compound	truck	silver
+nmod:with	smiling	truck
+case	background	in
+det	background	the
+nmod:in	truck	background
+punct	smiling	.

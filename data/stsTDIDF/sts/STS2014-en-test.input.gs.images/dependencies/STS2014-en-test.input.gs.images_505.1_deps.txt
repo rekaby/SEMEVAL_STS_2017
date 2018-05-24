@@ -1,0 +1,6 @@
+det	computer	A
+root	ROOT	computer
+case	desk	on
+det	desk	a
+nmod:on	computer	desk
+punct	computer	.

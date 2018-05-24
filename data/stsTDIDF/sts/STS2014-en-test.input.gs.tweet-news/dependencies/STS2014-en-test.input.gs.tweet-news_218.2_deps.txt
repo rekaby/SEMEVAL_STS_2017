@@ -1,0 +1,8 @@
+nsubj	unveils	Nike
+root	ROOT	unveils
+dobj	unveils	Rory
+punct	Rory	:
+nmod:poss	heir	Tiger
+case	Tiger	's
+dep	Rory	heir
+amod	heir	apparent

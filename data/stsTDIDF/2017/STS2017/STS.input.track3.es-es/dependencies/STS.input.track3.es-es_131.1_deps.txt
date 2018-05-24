@@ -1,0 +1,16 @@
+det	woman	A
+root	ROOT	woman
+case	hair	with
+amod	hair	gray
+nmod:with	woman	hair
+cc	hair	and
+det	dress	a
+amod	dress	white
+conj:and	hair	dress
+amod	dress	standing
+case	wall	in
+mwe	in	front
+mwe	in	of
+det	wall	a
+nmod:in_front_of	standing	wall
+punct	woman	.

@@ -1,0 +1,10 @@
+det	person	A
+root	ROOT	person
+case	black	in
+nmod:in	person	black
+dep	person	is
+advmod	is	off
+case	distance	in
+det	distance	the
+nmod:in	off	distance
+punct	person	.

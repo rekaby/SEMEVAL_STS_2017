@@ -1,0 +1,13 @@
+nsubj	searched	Authorities
+case	Ohio	in
+nmod:in	Authorities	Ohio
+punct	Ohio	,
+conj:and	Ohio	Indiana
+cc	Ohio	and
+conj:and	Ohio	Michigan
+aux	searched	have
+root	ROOT	searched
+case	bodies	for
+det	bodies	the
+nmod:for	searched	bodies
+punct	searched	.

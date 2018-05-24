@@ -1,0 +1,8 @@
+amod	forces	Israeli
+nsubj	detain	forces
+root	ROOT	detain
+nummod	Palestinians	5
+dobj	detain	Palestinians
+case	Bank	in
+compound	Bank	West
+nmod:in	Palestinians	Bank

@@ -1,0 +1,7 @@
+compound	Mandela	Nelson
+nmod:poss	health	Mandela
+case	Mandela	's
+nsubj	unstable	health
+punct	unstable	`
+root	ROOT	unstable
+punct	unstable	'

@@ -1,0 +1,7 @@
+woman	older	amod
+woman	An	det
+cooking	family	nmod:for
+cooking	.	punct
+ROOT	cooking	root
+cooking	woman	nsubj
+cooking	is	aux

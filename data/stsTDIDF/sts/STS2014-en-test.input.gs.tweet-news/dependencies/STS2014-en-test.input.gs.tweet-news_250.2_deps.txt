@@ -1,0 +1,9 @@
+nsubj	killed	30
+root	ROOT	killed
+mark	plunges	as
+nsubj	plunges	bus
+advcl	killed	plunges
+compound:prt	plunges	off
+dobj	plunges	cliff
+case	Nepal	in
+nmod:in	plunges	Nepal

@@ -1,0 +1,7 @@
+ROOT	spinning	root
+spinning	Children	nsubj
+wheel	glass	compound
+wheel	on	case
+wheel	a	det
+wheel	rotating	amod
+spinning	wheel	nmod:on

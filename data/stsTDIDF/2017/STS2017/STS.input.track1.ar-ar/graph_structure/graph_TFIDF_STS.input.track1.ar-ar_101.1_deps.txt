@@ -1,0 +1,5 @@
+subway	for	case
+waiting	subway	nmod:for
+is	man	nsubj
+subway	the	det
+man	waiting	acl

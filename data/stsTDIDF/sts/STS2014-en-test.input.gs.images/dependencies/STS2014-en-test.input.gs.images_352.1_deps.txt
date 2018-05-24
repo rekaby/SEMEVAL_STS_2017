@@ -1,0 +1,16 @@
+nummod	boys	Two
+nsubj	sit	boys
+root	ROOT	sit
+xcomp	sit	facing
+nummod	another	one
+dobj	facing	another
+case	table	at
+det	table	a
+nmod:at	another	table
+cc	table	and
+nummod	points	one
+conj:and	table	points
+case	other	at
+det	other	the
+nmod:at	facing	other
+punct	sit	.

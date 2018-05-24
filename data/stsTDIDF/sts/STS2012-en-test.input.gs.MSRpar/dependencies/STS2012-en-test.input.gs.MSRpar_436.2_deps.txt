@@ -1,0 +1,16 @@
+nmod:poss	sister	Her
+amod	sister	20-year-old
+nsubjpass	burned	sister
+punct	sister	,
+appos	sister	Allyson
+punct	sister	,
+auxpass	burned	was
+advmod	burned	severely
+root	ROOT	burned
+cc	burned	and
+conj:and	burned	remained
+xcomp	remained	hospitalized
+case	condition	in
+amod	condition	critical
+nmod:in	hospitalized	condition
+punct	burned	.

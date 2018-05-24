@@ -1,0 +1,5 @@
+root	ROOT	43
+acl	43	killed
+case	crash	in
+compound	crash	bus
+nmod:in	killed	crash

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	waiting	woman
+aux	waiting	is
+root	ROOT	waiting
+case	bus	for
+det	bus	the
+nmod:for	waiting	bus
+punct	waiting	.

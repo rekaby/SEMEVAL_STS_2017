@@ -1,0 +1,10 @@
+compound	Li	China
+compound	Li	Premier
+nsubj	rejects	Li
+root	ROOT	rejects
+punct	hacking	`
+amod	hacking	groundless
+punct	hacking	'
+compound	hacking	US
+compound	accusations	hacking
+dobj	rejects	accusations

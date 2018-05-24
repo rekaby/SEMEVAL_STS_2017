@@ -1,0 +1,10 @@
+det	politicians	some
+nsubj	preying	politicians
+aux	preying	are
+advmod	preying	now
+advmod	preying	just
+root	ROOT	preying
+case	weakness	on
+amod	weakness	human
+nmod:on	preying	weakness
+punct	preying	.

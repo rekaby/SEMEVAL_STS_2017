@@ -1,0 +1,6 @@
+compound	A	Bulb
+nsubj	has	A
+root	ROOT	has
+det	pathway	a
+amod	pathway	closed
+dobj	has	pathway

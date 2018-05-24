@@ -1,0 +1,6 @@
+compound	strike	US
+compound	strike	drone
+nsubj	kills	strike
+root	ROOT	kills
+nummod	militants	8
+dobj	kills	militants

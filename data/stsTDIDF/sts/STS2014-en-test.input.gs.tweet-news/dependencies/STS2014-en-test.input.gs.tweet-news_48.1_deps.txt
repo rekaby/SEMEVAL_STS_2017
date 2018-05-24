@@ -1,0 +1,8 @@
+nsubj	Hits	#Revolution
+root	ROOT	Hits
+det	#Universities	the
+dobj	Hits	#Universities
+case	#education	by
+compound	#education	#distance
+nmod:by	Hits	#education
+dep	Hits	#sustainability

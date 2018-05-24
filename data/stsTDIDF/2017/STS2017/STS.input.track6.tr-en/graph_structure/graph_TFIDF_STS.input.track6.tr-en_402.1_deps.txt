@@ -1,0 +1,10 @@
+looks	woman	nsubj
+woman	coat	nmod:in
+display	window	compound
+coat	a	det
+display	bread	nmod:of
+looks	display	nmod:at
+display	at	case
+bread	of	case
+coat	black	amod
+coat	in	case

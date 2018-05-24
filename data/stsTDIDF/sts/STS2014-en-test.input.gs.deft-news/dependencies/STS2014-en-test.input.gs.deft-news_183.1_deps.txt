@@ -1,0 +1,17 @@
+amod	officials	united
+compound	officials	states
+nsubj	know	officials
+aux	know	do
+neg	know	not
+root	ROOT	know
+advmod	far	how
+advmod	progressed	far
+compound	korea	north
+nmod:poss	program	korea
+case	korea	's
+amod	program	nuclear
+compound	program	weapons
+nsubj	progressed	program
+aux	progressed	has
+ccomp	know	progressed
+punct	know	.

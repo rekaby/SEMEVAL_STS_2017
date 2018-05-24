@@ -1,0 +1,14 @@
+amod	friend	Oh
+root	ROOT	friend
+punct	friend	,
+nsubj	road	I
+aux	road	have
+cop	road	been
+case	road	down
+det	road	this
+amod	road	miserable
+appos	friend	road
+advmod	you	just
+case	you	like
+nmod:like	road	you
+punct	friend	.

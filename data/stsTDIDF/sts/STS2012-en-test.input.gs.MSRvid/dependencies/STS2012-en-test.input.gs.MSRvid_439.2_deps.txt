@@ -1,0 +1,7 @@
+det	badger	A
+nsubj	digging	badger
+cop	digging	is
+root	ROOT	digging
+det	earth	the
+dobj	digging	earth
+punct	digging	.

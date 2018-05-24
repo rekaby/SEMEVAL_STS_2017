@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	playing	girl
+aux	playing	is
+root	ROOT	playing
+case	swing	on
+det	swing	a
+nmod:on	playing	swing
+punct	playing	.

@@ -1,0 +1,6 @@
+nsubj	cleaned	people
+acl	people	getting
+nmod:poss	clothes	their
+amod	clothes	dirty
+dobj	getting	clothes
+root	ROOT	cleaned

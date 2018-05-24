@@ -1,0 +1,10 @@
+det	men	A
+amod	men	young
+nsubj	jumps	men
+root	ROOT	jumps
+compound:prt	jumps	off
+dobj	jumps	rocks
+case	lake	into
+det	lake	a
+nmod:into	jumps	lake
+punct	jumps	.

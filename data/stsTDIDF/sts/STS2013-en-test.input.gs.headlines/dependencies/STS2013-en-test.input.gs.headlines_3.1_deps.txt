@@ -1,0 +1,8 @@
+nsubj	hits	Explosion
+root	ROOT	hits
+compound	pipeline	oil
+dobj	hits	pipeline
+case	Homs	in
+nmod:poss	Homs	Syria
+case	Syria	's
+nmod:in	hits	Homs

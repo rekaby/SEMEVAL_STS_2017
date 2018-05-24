@@ -1,0 +1,5 @@
+advmod	attach	Physically
+root	ROOT	attach
+case	something	to
+nmod:to	attach	something
+punct	attach	.

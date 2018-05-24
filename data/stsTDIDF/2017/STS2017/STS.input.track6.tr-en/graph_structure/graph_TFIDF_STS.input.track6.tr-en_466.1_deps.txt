@@ -1,0 +1,8 @@
+typing	.	punct
+typing	is	cop
+typing	woman	nsubj
+computer	laptop	amod
+woman	shirt	nmod:in
+typing	computer	nmod:on
+ROOT	typing	root
+shirt	blue	amod

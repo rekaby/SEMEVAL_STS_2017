@@ -1,0 +1,15 @@
+det	point	The
+amod	point	last
+nsubj	be	point
+aux	be	would
+root	ROOT	be
+mark	construct	to
+xcomp	be	construct
+det	solution	an
+amod	solution	optimal
+dobj	construct	solution
+case	values	from
+det	values	the
+amod	values	computed
+nmod:from	solution	values
+punct	be	.

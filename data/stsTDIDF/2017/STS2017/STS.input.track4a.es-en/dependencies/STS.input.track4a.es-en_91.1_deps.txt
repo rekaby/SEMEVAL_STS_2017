@@ -1,0 +1,15 @@
+det	boy	A
+amod	boy	young
+amod	boy	Asian
+nsubj	running	boy
+root	ROOT	running
+case	dog	with
+det	dog	a
+amod	dog	white
+cc	white	and
+conj:and	white	gray
+nmod:with	running	dog
+case	grass	on
+amod	grass	green
+nmod:on	dog	grass
+punct	running	.

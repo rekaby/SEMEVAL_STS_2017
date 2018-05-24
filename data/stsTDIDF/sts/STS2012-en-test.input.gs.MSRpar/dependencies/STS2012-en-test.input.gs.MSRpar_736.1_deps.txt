@@ -1,0 +1,13 @@
+nsubj	reported	Graves
+root	ROOT	reported
+case	Albuquerque	from
+nmod:from	reported	Albuquerque
+punct	Albuquerque	,
+appos	Albuquerque	Villafranca
+case	Austin	from
+nmod:from	Villafranca	Austin
+cc	Austin	and
+conj:and	Austin	Ratcliffe
+case	Laredo	from
+nmod:from	Villafranca	Laredo
+punct	reported	.

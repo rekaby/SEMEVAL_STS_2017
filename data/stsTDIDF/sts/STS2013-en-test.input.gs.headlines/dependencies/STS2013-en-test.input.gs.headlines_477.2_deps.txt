@@ -1,0 +1,7 @@
+nsubj	nears	Isaac
+root	ROOT	nears
+dobj	nears	Haiti
+case	population	with
+amod	population	homeless
+compound	population	quake
+nmod:with	nears	population

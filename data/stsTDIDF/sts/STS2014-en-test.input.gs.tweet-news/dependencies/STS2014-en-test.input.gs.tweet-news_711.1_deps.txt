@@ -1,0 +1,11 @@
+compound	Values	Property
+root	ROOT	Values
+punct	Values	:
+dobj	Get	What
+nsubj	Get	You
+dep	Values	Get
+case	$	for
+punct	$	...
+nmod:for	Get	$
+nummod	$	1.6
+dobj	Get	Million

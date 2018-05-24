@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	crutch	with
+det	crutch	a
+nmod:with	man	crutch
+acl	crutch	lying
+case	ground	on
+det	ground	the
+nmod:on	lying	ground
+punct	man	.

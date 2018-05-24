@@ -1,0 +1,10 @@
+aux	rid	get
+root	ROOT	rid
+advmod	rid	of
+mark	metaphorical	as
+mark	metaphorical	if
+case	water	with
+nmod:with	metaphorical	water
+punct	metaphorical	-LRB-
+advcl	of	metaphorical
+punct	rid	-RRB-

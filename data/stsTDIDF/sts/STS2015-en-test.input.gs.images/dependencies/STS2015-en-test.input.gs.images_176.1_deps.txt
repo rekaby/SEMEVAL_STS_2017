@@ -1,0 +1,7 @@
+det	boy	a
+root	ROOT	boy
+acl	boy	swinging
+case	swing	on
+det	swing	a
+nmod:on	swinging	swing
+punct	boy	.

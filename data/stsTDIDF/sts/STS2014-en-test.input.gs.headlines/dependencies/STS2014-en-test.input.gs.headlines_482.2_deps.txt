@@ -1,0 +1,9 @@
+nsubj	detained	Men
+case	China	in
+nmod:in	Men	China
+root	ROOT	detained
+mark	taking	after
+advcl	detained	taking
+dobj	taking	girls
+case	hotel	to
+nmod:to	taking	hotel

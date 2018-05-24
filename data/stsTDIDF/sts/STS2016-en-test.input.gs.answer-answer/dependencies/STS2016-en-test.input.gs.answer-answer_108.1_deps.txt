@@ -1,0 +1,7 @@
+nsubj	all	It
+cop	all	's
+root	ROOT	all
+case	head	in
+nmod:poss	head	her
+nmod:in	all	head
+punct	all	.

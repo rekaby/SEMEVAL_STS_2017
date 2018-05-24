@@ -1,0 +1,14 @@
+det	boy	A
+nsubj	sitting	boy
+case	pacifier	with
+det	pacifier	a
+nmod:with	boy	pacifier
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	pacifier	mouth
+aux	sitting	is
+root	ROOT	sitting
+case	suitcase	in
+det	suitcase	a
+nmod:in	sitting	suitcase
+punct	sitting	.

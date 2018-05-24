@@ -1,0 +1,6 @@
+nsubj	has	Terminal
+root	ROOT	has
+det	state	the
+amod	state	same
+amod	state	electrical
+dobj	has	state

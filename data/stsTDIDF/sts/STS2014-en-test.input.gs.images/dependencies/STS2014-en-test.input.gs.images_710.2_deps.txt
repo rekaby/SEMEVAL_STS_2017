@@ -1,0 +1,13 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	platform	on
+det	platform	a
+nmod:on	stands	platform
+case	train	in
+mwe	in	front
+mwe	in	of
+det	train	a
+compound	train	silver
+nmod:in_front_of	platform	train
+punct	stands	.

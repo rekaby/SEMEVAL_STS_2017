@@ -1,0 +1,7 @@
+machine	sewing	amod
+machine	garment	nmod:for
+using	machine	dobj
+Woman	.	punct
+Woman	using	acl
+ROOT	Woman	root
+garment	for	case

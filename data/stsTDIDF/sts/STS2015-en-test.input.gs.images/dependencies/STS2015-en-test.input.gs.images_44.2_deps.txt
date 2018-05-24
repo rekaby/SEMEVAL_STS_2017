@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	swinging
+compound:prt	swinging	off
+det	swing	a
+compound	swing	tire
+dobj	swinging	swing

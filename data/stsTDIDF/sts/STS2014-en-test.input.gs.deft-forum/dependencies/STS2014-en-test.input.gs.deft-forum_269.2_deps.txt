@@ -1,0 +1,8 @@
+nsubj	has	Democracy
+root	ROOT	has
+dobj	has	nothing
+mark	do	to
+acl	nothing	do
+case	liberty	with
+nmod:with	do	liberty
+punct	has	.

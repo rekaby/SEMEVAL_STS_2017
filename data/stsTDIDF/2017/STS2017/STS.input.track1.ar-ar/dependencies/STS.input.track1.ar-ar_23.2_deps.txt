@@ -1,0 +1,13 @@
+compound	player	Tennis
+nsubj	wears	player
+root	ROOT	wears
+dobj	wears	clothes
+case	orange	in
+nmod:in	wears	orange
+case	game	in
+det	game	the
+amod	game	middle
+nmod:in	wears	game
+case	tennis	of
+nmod:of	game	tennis
+punct	wears	.

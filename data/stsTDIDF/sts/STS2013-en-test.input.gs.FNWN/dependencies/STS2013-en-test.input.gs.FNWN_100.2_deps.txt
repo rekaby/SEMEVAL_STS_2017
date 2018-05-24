@@ -1,0 +1,12 @@
+cop	winner	be
+det	winner	the
+root	ROOT	winner
+case	contest	in
+det	contest	a
+nmod:in	winner	contest
+cc	contest	or
+conj:or	contest	competition
+punct	winner	;
+cop	victorious	be
+dep	winner	victorious
+punct	winner	;

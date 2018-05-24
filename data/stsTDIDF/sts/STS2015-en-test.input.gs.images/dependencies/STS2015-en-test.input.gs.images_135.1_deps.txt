@@ -1,0 +1,8 @@
+det	player	A
+compound	player	softball
+root	ROOT	player
+acl	player	swinging
+case	pitch	at
+det	pitch	a
+nmod:at	swinging	pitch
+punct	player	.

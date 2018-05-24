@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+nsubj	is	nothing
+case	side	on
+det	side	the
+nmod:on	nothing	side
+case	road	of
+det	road	the
+nmod:of	side	road
+punct	is	.

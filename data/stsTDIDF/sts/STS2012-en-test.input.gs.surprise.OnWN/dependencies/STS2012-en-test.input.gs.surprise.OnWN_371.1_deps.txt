@@ -1,0 +1,7 @@
+root	ROOT	Fly
+case	plane	in
+cc	in	or
+case	plane	on
+det	plane	a
+compound	plane	glider
+nmod:on	Fly	plane

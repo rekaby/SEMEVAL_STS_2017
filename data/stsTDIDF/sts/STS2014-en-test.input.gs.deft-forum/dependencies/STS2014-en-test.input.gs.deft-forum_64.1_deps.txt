@@ -1,0 +1,9 @@
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+root	ROOT	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	vessels	.

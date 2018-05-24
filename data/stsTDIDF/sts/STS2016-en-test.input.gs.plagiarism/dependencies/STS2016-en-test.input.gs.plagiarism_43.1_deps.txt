@@ -1,0 +1,11 @@
+nmod:poss	application	Its
+amod	application	first
+nsubj	System	application
+cop	System	was
+case	System	in
+det	System	the
+compound	System	SMART
+compound	System	Information
+compound	System	Retrieval
+root	ROOT	System
+punct	System	.

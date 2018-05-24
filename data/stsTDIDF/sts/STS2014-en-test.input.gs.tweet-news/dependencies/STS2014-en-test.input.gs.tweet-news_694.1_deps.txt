@@ -1,0 +1,8 @@
+compound	Unhappy	Tea
+compound	Unhappy	Party
+root	ROOT	Unhappy
+punct	Unhappy	.-4) compound(News-2, Fox
+nsubj	Fires	News
+root	ROOT	Fires
+compound	#Palin	Sarah
+dobj	Fires	#Palin

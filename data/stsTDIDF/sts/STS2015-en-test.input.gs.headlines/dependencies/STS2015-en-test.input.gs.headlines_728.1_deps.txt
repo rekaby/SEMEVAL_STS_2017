@@ -1,0 +1,9 @@
+nsubj	continues	FAA
+root	ROOT	continues
+dobj	continues	ban
+case	flights	on
+compound	flights	US
+nmod:on	ban	flights
+case	Aviv	to
+compound	Aviv	Tel
+nmod:to	flights	Aviv

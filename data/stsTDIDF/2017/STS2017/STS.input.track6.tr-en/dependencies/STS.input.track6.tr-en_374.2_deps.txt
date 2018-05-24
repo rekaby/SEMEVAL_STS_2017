@@ -1,0 +1,10 @@
+expl	's	There
+root	ROOT	's
+det	man	a
+nsubj	's	man
+case	there	out
+advmod	's	there
+case	photo	in
+det	photo	this
+nmod:in	's	photo
+punct	's	.

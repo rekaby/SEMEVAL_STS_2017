@@ -1,0 +1,8 @@
+amod	forces	Pro-Russians
+nsubj	enter	forces
+root	ROOT	enter
+amod	base	Ukrainian
+amod	base	naval
+dobj	enter	base
+case	Crimea	in
+nmod:in	enter	Crimea

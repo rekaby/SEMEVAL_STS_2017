@@ -1,0 +1,8 @@
+University	,	punct
+University	Turkey	appos
+University	Bilkent	compound
+took	chair	dobj
+took	University	nmod:at
+University	Ankara	conj
+took	1997	nmod:in
+1997	In	case

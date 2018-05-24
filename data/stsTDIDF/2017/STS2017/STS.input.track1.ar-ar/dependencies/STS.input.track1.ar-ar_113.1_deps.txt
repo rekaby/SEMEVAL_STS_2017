@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	watching
+det	man	another
+dobj	watching	man
+nsubj	plays	he
+acl:relcl	man	plays
+det	game	the
+dobj	plays	game
+punct	man	.

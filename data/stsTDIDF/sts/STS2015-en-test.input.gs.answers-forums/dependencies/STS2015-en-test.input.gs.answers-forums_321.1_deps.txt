@@ -1,0 +1,11 @@
+det	stop	A
+amod	stop	technical
+nsubj	benefit	stop
+cop	benefit	is
+case	benefit	for
+det	benefit	the
+root	ROOT	benefit
+case	PLANE	of
+det	PLANE	the
+nmod:of	benefit	PLANE
+punct	benefit	.

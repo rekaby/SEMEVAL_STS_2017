@@ -1,0 +1,9 @@
+compound	aircraft	US
+compound	aircraft	surveillance
+root	ROOT	aircraft
+acl	aircraft	join
+dobj	join	hunt
+case	girls	for
+amod	girls	kidnapped
+amod	girls	Nigerian
+nmod:for	join	girls

@@ -1,0 +1,5 @@
+root	ROOT	yes
+compound	A	bulb
+nsubj	was	A
+dep	yes	was
+nmod	was	on

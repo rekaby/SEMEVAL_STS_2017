@@ -1,0 +1,12 @@
+root	ROOT	Palestinians
+punct	Palestinians	:
+nummod	militants	2
+compound	militants	Gaza
+dep	Palestinians	militants
+acl	militants	killed
+case	airstrike	in
+amod	airstrike	Israeli
+nmod:in	killed	airstrike
+case	strip	on
+amod	strip	coastal
+nmod:on	airstrike	strip

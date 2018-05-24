@@ -1,0 +1,13 @@
+det	man	A
+nsubj	trying	man
+aux	trying	is
+root	ROOT	trying
+mark	ride	to
+xcomp	trying	ride
+nummod	bikes	four
+dobj	ride	bikes
+case	time	at
+det	time	the
+amod	time	same
+nmod:at	ride	time
+punct	trying	.

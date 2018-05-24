@@ -1,0 +1,17 @@
+mugs	chipped	amod
+forced	I	nsubjpass
+departed	waggishly	advmod
+departed	'd	aux
+drink	to	mark
+forced	drink	xcomp
+mugs	out	case
+writer	The	det
+Wilson	A?N	compound
+announced	Wilson	nsubj
+departed	I	nsubj
+departed	that	mark
+announced	departed	ccomp
+drink	mugs	nmod:out_of
+departed	forced	advcl
+forced	because	mark
+writer	announced	acl:relcl

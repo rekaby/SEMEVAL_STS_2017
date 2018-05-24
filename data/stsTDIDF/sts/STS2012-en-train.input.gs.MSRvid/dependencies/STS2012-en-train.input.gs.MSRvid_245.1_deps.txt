@@ -1,0 +1,7 @@
+det	man	A
+nsubj	stares	man
+root	ROOT	stares
+compound:prt	stares	out
+det	window	a
+dobj	stares	window
+punct	stares	.

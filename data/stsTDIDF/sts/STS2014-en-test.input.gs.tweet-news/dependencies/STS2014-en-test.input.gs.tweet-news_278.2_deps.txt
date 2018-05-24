@@ -1,0 +1,7 @@
+amod	limbs	Broken
+root	ROOT	limbs
+punct	limbs	,
+amod	lives	torn
+appos	limbs	lives
+case	Mali	in
+nmod:in	lives	Mali

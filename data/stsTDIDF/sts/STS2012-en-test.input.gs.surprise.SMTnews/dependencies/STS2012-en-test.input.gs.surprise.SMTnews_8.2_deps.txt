@@ -1,0 +1,13 @@
+det	future	The
+nsubjpass	linked	future
+case	Iraq	of
+nmod:of	future	Iraq
+auxpass	linked	is
+root	ROOT	linked
+case	production	to
+compound	production	oil
+nmod:to	linked	production
+case	country	of
+det	country	the
+nmod:of	production	country
+punct	linked	.

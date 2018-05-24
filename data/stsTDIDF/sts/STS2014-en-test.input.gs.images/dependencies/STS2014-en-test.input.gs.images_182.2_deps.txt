@@ -1,0 +1,9 @@
+root	ROOT	Red
+cc	Red	and
+amod	plane	white
+conj:and	Red	plane
+dep	Red	flying
+case	air	through
+det	air	the
+nmod:through	flying	air
+punct	Red	.

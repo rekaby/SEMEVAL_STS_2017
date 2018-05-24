@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+nsubj	is	man
+case	books	with
+nmod:with	man	books
+punct	is	.

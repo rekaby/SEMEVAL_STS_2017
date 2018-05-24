@@ -1,0 +1,12 @@
+det	child	A
+nsubj	laying	child
+aux	laying	is
+root	ROOT	laying
+case	bed	in
+det	bed	a
+nmod:in	laying	bed
+case	setting	in
+det	setting	a
+amod	setting	medical
+nmod:in	laying	setting
+punct	laying	.

@@ -1,0 +1,10 @@
+mark	have	Because
+det	bulb	the
+nsubj	have	bulb
+aux	have	does
+neg	have	not
+root	ROOT	have
+det	path	a
+amod	path	closed
+dobj	have	path
+punct	have	.

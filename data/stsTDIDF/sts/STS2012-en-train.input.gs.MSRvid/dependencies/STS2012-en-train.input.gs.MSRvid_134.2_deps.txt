@@ -1,0 +1,8 @@
+nummod	boys	Two
+nsubj	playing	boys
+aux	playing	are
+root	ROOT	playing
+det	game	a
+compound	game	video
+dobj	playing	game
+punct	playing	.

@@ -1,0 +1,8 @@
+det	piece	a
+advmod	long	relatively
+amod	piece	long
+amod	piece	narrow
+root	ROOT	piece
+case	something	of
+nmod:of	piece	something
+punct	piece	.

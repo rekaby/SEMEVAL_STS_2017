@@ -1,0 +1,17 @@
+cop	possible	Is
+nsubj	possible	it
+root	ROOT	possible
+mark	do	to
+xcomp	possible	do
+det	Master	a
+dobj	do	Master
+case	Master	's
+case	Mathematics	in
+nmod:in	Master	Mathematics
+advmod	do	after
+det	Bachelor	a
+dep	after	Bachelor
+case	Bachelor	's
+case	Economics	in
+nmod:in	Bachelor	Economics
+punct	possible	?

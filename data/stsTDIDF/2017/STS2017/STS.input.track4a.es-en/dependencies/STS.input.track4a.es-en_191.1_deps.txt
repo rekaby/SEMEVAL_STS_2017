@@ -1,0 +1,11 @@
+det	man	The
+nsubj	dances	man
+root	ROOT	dances
+case	street	in
+det	street	the
+nmod:in	dances	street
+mark	looks	while
+det	man	another
+nsubj	looks	man
+advcl	dances	looks
+punct	dances	.

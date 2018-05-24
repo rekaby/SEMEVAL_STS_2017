@@ -1,0 +1,8 @@
+det	robot	A
+amod	robot	male
+cc	male	and
+conj:and	male	female
+nsubj	kissing	robot
+aux	kissing	are
+root	ROOT	kissing
+punct	kissing	.

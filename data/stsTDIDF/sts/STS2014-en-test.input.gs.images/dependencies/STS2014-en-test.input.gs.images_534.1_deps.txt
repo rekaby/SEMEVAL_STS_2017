@@ -1,0 +1,9 @@
+det	view	A
+compound	view	close-up
+root	ROOT	view
+case	head	of
+det	horse	a
+nmod:poss	head	horse
+case	horse	's
+nmod:of	view	head
+punct	view	.

@@ -1,0 +1,8 @@
+compound	Proposal	Obama
+compound	Proposal	Gun
+root	ROOT	Proposal
+mark	Look	to
+acl	Proposal	Look
+case	Shootings	Beyond
+compound	Shootings	Mass
+nmod:beyond	Look	Shootings

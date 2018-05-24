@@ -1,0 +1,9 @@
+nummod	children	Three
+nsubj	playing	children
+aux	playing	are
+root	ROOT	playing
+dobj	playing	soccer
+case	sand	in
+det	sand	the
+nmod:in	playing	sand
+punct	playing	.

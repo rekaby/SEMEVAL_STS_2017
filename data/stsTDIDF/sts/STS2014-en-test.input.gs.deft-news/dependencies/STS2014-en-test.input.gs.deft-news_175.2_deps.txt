@@ -1,0 +1,14 @@
+nsubj	stressed	china
+root	ROOT	stressed
+dobj	stressed	that
+dep	that	opposition
+case	weaponization	of
+nmod:of	opposition	weaponization
+cc	weaponization	and
+det	race	an
+compound	race	arms
+conj:and	weaponization	race
+case	space	in
+amod	space	outer
+nmod:in	opposition	space
+punct	stressed	.

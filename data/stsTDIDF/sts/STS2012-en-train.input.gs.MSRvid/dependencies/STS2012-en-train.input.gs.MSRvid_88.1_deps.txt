@@ -1,0 +1,6 @@
+det	man	A
+nsubj	played	man
+root	ROOT	played
+det	piano	the
+dobj	played	piano
+punct	played	.

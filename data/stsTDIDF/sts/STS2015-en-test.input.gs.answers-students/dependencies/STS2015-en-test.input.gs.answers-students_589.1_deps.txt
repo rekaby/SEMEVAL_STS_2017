@@ -1,0 +1,15 @@
+nsubj	affects	becuase
+acl	becuase	breaking
+nummod	bulb	one
+dobj	breaking	bulb
+advmod	affects	then
+root	ROOT	affects
+det	ability	the
+dobj	affects	ability
+case	others	of
+det	others	the
+nmod:of	ability	others
+mark	light	to
+acl	ability	light
+compound:prt	light	up
+punct	affects	.

@@ -1,0 +1,16 @@
+det	list	a
+root	ROOT	list
+case	items	of
+nmod:of	list	items
+punct	names	-LRB-
+dep	items	names
+cc	names	or
+conj:or	names	tasks
+dep	names	etc.
+punct	names	-RRB-
+mark	checked	to
+auxpass	checked	be
+acl	list	checked
+cc	checked	or
+conj:or	checked	consulted
+punct	list	.

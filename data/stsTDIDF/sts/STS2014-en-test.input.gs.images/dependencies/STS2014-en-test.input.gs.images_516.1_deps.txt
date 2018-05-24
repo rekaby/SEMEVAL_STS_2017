@@ -1,0 +1,12 @@
+det	kitchendiner	A
+root	ROOT	kitchendiner
+case	papers	with
+nmod:with	kitchendiner	papers
+acl	papers	laying
+case	table	on
+det	table	the
+amod	table	blue
+amod	table	clothed
+compound	table	dining
+nmod:on	laying	table
+punct	kitchendiner	.

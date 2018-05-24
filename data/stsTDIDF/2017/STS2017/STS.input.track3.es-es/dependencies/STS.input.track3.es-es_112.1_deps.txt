@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	driving	dog
+aux	driving	is
+root	ROOT	driving
+det	car	a
+dobj	driving	car
+punct	driving	.

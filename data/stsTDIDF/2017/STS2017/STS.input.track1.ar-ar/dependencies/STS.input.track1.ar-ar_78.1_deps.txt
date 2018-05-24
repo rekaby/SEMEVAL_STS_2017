@@ -1,0 +1,6 @@
+nsubj	suffered	Spectators
+acl	Spectators	watching
+det	play	the
+dobj	watching	play
+root	ROOT	suffered
+punct	suffered	.

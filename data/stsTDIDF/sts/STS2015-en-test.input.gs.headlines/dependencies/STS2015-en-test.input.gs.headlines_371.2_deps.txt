@@ -1,0 +1,7 @@
+nsubj	cut	Microsoft
+mark	cut	to
+root	ROOT	cut
+nummod	jobs	18,000
+dobj	cut	jobs
+case	overhaul	in
+nmod:in	cut	overhaul

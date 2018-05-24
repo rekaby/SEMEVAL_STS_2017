@@ -1,0 +1,7 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+case	smell	to
+punct	smell	-RRB-
+nmod:to	Cause	smell
+amod	smell	bad
+punct	Cause	.

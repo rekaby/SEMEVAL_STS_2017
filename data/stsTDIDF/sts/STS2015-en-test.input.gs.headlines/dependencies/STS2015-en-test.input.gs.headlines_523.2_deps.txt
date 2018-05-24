@@ -1,0 +1,7 @@
+nsubj	keeps	Gonsalves
+root	ROOT	keeps
+compound:prt	keeps	up
+dobj	keeps	pressure
+case	Rep	on
+compound	Rep	Dom
+nmod:on	pressure	Rep

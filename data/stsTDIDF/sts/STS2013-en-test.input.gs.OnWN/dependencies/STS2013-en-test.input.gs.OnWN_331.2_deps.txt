@@ -1,0 +1,10 @@
+root	ROOT	engrave
+cc	engrave	or
+conj:or	engrave	cut
+mark	chipping	by
+advcl	engrave	chipping
+advmod	chipping	away
+case	surface	at
+det	surface	a
+nmod:at	chipping	surface
+punct	engrave	.

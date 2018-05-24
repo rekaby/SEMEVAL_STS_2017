@@ -1,0 +1,10 @@
+root	ROOT	piece
+punct	something	-LRB-
+dep	piece	something
+amod	something	old
+punct	something	-RRB-
+case	part	with
+det	part	a
+amod	part	new
+nmod:with	piece	part
+punct	piece	.

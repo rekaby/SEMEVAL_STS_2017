@@ -1,0 +1,10 @@
+advmod	need	thus
+det	need	the
+root	ROOT	need
+case	reform	for
+compound	reform	health
+compound	reform	care
+compound	reform	insurance
+nmod:for	need	reform
+punct	need	...
+dep	need	the

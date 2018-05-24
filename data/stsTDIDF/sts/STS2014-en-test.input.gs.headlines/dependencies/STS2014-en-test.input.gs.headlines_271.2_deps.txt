@@ -1,0 +1,6 @@
+compound	soldier	NATO
+root	ROOT	soldier
+acl	soldier	killed
+case	attack	in
+compound	attack	Afghan
+nmod:in	killed	attack

@@ -1,0 +1,6 @@
+competition	tennis	compound
+finals	in	case
+ROOT	Women	root
+finals	competition	nmod:of
+Women	participating	acl
+participating	finals	nmod:in

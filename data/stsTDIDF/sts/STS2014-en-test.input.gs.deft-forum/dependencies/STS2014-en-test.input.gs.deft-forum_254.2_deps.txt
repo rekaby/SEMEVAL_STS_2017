@@ -1,0 +1,8 @@
+compound	Andrei	@Lustig
+root	ROOT	Andrei
+punct	Andrei	,
+dep	Andrei	Thank
+dobj	Thank	you
+punct	Thank	,
+dep	Thank	Lustig
+punct	Andrei	.

@@ -1,0 +1,10 @@
+det	jeep	A
+amod	jeep	white
+root	ROOT	jeep
+acl	jeep	parked
+case	store	in
+mwe	in	front
+mwe	in	of
+det	store	a
+nmod:in_front_of	parked	store
+punct	jeep	.

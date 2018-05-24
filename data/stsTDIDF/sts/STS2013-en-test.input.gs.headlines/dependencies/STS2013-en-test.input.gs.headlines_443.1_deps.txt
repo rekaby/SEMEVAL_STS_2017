@@ -1,0 +1,9 @@
+compound	writer	Israel
+compound	writer	bars
+amod	writer	German
+nsubj	Grass	writer
+root	ROOT	Grass
+mark	visiting	from
+acl	Grass	visiting
+case	poem	over
+nmod:over	visiting	poem

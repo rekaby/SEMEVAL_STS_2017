@@ -1,0 +1,7 @@
+nsubj	face	Ahmadinejad
+aux	face	may
+root	ROOT	face
+dobj	face	charges
+case	appearance	over
+compound	appearance	election
+nmod:over	face	appearance

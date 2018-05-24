@@ -1,0 +1,13 @@
+det	cat	A
+amod	cat	pretty
+amod	cat	white
+amod	cat	striped
+root	ROOT	cat
+case	head	with
+nmod:poss	head	his
+nmod:with	cat	head
+acl	head	hanging
+compound:prt	hanging	off
+det	table	the
+dobj	hanging	table
+punct	cat	.

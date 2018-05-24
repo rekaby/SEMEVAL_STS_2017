@@ -1,0 +1,17 @@
+amod	economists	Pro-market
+nsubj	object	economists
+aux	object	do
+neg	object	n't
+root	ROOT	object
+case	corporations	to
+nmod:to	object	corporations
+nsubj	use	that
+advmod	use	blatantly
+acl:relcl	corporations	use
+compound	appeal	snob
+dobj	use	appeal
+mark	promote	to
+advcl	use	promote
+nmod:poss	products	their
+dobj	promote	products
+punct	object	.

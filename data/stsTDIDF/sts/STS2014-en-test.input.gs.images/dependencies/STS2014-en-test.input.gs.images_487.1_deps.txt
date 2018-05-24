@@ -1,0 +1,10 @@
+det	group	A
+nsubj	eat	group
+case	people	of
+nmod:of	group	people
+root	ROOT	eat
+case	table	at
+det	table	a
+nmod:at	eat	table
+advmod	table	outside
+punct	eat	.

@@ -1,0 +1,12 @@
+advmod	wire	How
+aux	wire	do
+nsubj	wire	I
+nsubj	switches	wire
+nummod	wire	2
+root	ROOT	switches
+mark	control	to
+xcomp	switches	control
+det	light	a
+compound	light	ceiling
+dobj	control	light
+punct	switches	?

@@ -1,0 +1,12 @@
+det	group	A
+nsubj	standing	group
+case	people	of
+nmod:of	group	people
+aux	standing	are
+root	ROOT	standing
+case	window	by
+det	window	a
+nmod:by	standing	window
+acl	window	watching
+dobj	watching	something
+punct	standing	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	kissing	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	kissing	is
+root	ROOT	kissing
+det	other	each
+dobj	kissing	other
+punct	kissing	.

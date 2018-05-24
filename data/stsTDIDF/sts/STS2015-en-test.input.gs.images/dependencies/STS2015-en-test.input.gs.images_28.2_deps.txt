@@ -1,0 +1,13 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	addressing
+det	group	a
+amod	group	diverse
+dobj	addressing	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+case	street	in
+det	street	the
+nmod:in	standing	street
+punct	woman	.

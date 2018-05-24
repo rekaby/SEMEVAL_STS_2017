@@ -1,0 +1,15 @@
+root	ROOT	Declare
+xcomp	Declare	invalid
+punct	Declare	;
+parataxis	Declare	take
+compound:prt	take	away
+det	force	the
+amod	force	legal
+dobj	take	force
+conj:or	force	force
+case	ineffective	of
+cc	of	or
+conj:or	of	render
+nmod:of	force	ineffective
+nmod:render	force	ineffective
+punct	Declare	.

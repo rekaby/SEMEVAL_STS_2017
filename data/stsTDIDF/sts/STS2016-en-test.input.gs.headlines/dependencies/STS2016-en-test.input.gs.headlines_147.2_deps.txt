@@ -1,0 +1,7 @@
+compound	shares	Tokyo
+root	ROOT	shares
+amod	shares	open
+amod	open	higher
+dep	higher	tracing
+compound	gains	U.S.
+dobj	tracing	gains

@@ -1,0 +1,8 @@
+root	ROOT	?-1) det(World-2, The
+root	ROOT	World
+case	Yesterday	Until
+nmod:until	World	Yesterday
+punct	World	,
+punct	World	?-6) case(Diamond-3, by
+compound	Diamond	Jared
+root	ROOT	Diamond

@@ -1,0 +1,18 @@
+root	ROOT	Ouch
+punct	Ouch	,
+dep	Ouch	possibly
+punct	Ouch	?-4) root(ROOT-0, ``
+punct	NYTimes	:
+root	``	NYTimes
+punct	NYTimes	:
+nmod:poss	Culture	Japan
+case	Japan	's
+compound	Culture	Business
+nsubj	Hovers	Culture
+parataxis	NYTimes	Hovers
+case	Choice	Over
+nmod:poss	Choice	Boeing
+case	Boeing	's
+compound	Choice	Battery
+nmod:over	Hovers	Choice
+punct	NYTimes	''

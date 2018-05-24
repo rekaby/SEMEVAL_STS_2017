@@ -1,0 +1,14 @@
+det	doesnt	The
+compound	doesnt	government
+nsubj	have	doesnt
+root	ROOT	have
+mark	declare	to
+xcomp	have	declare
+nsubj	married	you
+ccomp	declare	married
+mark	married	before
+nsubjpass	married	you
+aux	married	can
+auxpass	married	be
+advcl	married	married
+punct	have	.

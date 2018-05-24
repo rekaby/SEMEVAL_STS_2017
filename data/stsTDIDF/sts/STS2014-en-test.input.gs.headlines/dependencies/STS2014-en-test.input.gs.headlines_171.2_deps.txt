@@ -1,0 +1,12 @@
+case	anniversary	On
+amod	anniversary	50th
+nmod:on	holds	anniversary
+case	death	of
+compound	death	JFK
+nmod:of	anniversary	death
+punct	holds	,
+nsubj	holds	Dallas
+root	ROOT	holds
+nmod:poss	memorial	its
+amod	memorial	first
+dobj	holds	memorial

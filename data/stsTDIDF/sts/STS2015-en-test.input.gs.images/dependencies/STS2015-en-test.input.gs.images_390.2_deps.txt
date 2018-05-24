@@ -1,0 +1,10 @@
+det	boy	A
+nsubj	sits	boy
+case	robe	in
+det	robe	a
+nmod:in	boy	robe
+root	ROOT	sits
+case	chair	in
+det	chair	a
+nmod:in	sits	chair
+punct	sits	.

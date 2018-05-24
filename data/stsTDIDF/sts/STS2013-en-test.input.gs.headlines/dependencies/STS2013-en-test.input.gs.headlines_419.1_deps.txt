@@ -1,0 +1,8 @@
+root	ROOT	`
+root	`	Scores
+case	bodies	of
+nmod:'	Scores	bodies
+case	bodies	'
+acl	bodies	found
+case	Syria	in
+nmod:in	found	Syria

@@ -1,0 +1,9 @@
+case	migrants	Over
+nummod	migrants	2,000
+root	ROOT	migrants
+acl	migrants	rescued
+case	boats	from
+amod	boats	wooden
+nmod:from	rescued	boats
+case	Mediterranean	in
+nmod:in	rescued	Mediterranean

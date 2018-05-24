@@ -1,0 +1,10 @@
+det	government	the
+amod	government	iranian
+nsubj	says	government
+root	ROOT	says
+det	program	the
+amod	program	nuclear
+nsubj	peaceful	program
+cop	peaceful	is
+ccomp	says	peaceful
+punct	says	.

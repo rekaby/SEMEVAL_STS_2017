@@ -1,0 +1,9 @@
+det	group	A
+nsubj	wearing	group
+case	people	of
+nmod:of	group	people
+aux	wearing	are
+root	ROOT	wearing
+compound	ears	bunny
+dobj	wearing	ears
+punct	wearing	.

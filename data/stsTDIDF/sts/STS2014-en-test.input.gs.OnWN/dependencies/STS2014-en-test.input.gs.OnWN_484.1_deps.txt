@@ -1,0 +1,13 @@
+root	ROOT	search
+punct	bottom	-LRB-
+case	bottom	as
+det	bottom	the
+nmod:as	search	bottom
+case	body	of
+det	body	a
+nmod:of	bottom	body
+case	water	of
+nmod:of	body	water
+punct	bottom	-RRB-
+case	something	for
+nmod:for	search	something

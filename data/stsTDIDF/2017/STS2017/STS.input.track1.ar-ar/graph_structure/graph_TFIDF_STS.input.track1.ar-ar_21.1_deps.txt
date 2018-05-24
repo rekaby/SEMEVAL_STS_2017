@@ -1,0 +1,6 @@
+child	book	dep
+Read	.	punct
+ROOT	Read	root
+dogs	about	case
+Read	child	dobj
+book	dogs	nmod:about

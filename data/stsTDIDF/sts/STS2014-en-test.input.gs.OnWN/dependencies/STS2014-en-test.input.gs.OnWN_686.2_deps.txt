@@ -1,0 +1,11 @@
+root	ROOT	cover
+conj:or	cover	cover
+case	cloak	with
+cc	with	or
+conj:or	with	as
+advmod	cloak	if
+case	cloak	with
+det	cloak	a
+nmod:as	cover	cloak
+nmod:with	cover	cloak
+punct	cover	.

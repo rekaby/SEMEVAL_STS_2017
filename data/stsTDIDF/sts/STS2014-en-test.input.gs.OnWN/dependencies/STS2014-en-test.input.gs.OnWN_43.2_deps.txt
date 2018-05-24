@@ -1,0 +1,14 @@
+root	ROOT	give
+compound:prt	give	up
+cc	give	or
+conj:or	give	agree
+mark	forgo	to
+xcomp	agree	forgo
+case	power	to
+det	power	the
+nmod:to	forgo	power
+cc	power	or
+conj:or	power	possession
+case	another	of
+nmod:of	power	another
+punct	give	.

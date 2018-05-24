@@ -1,0 +1,11 @@
+root	ROOT	As
+advmod	goes	far
+mark	goes	as
+nsubj	goes	legality
+advcl	As	goes
+nsubj	use	I
+aux	use	can
+ccomp	goes	use
+compound	nullification	jury
+dobj	use	nullification
+punct	As	.

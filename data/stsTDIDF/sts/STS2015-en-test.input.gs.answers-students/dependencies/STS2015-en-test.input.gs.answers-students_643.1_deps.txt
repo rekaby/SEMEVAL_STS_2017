@@ -1,0 +1,9 @@
+mark	creates	because
+nsubj	creates	it
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+punct	creates	.

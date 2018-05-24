@@ -1,0 +1,14 @@
+compound	diab	Er
+root	ROOT	diab
+punct	diab	...
+punct	diab	''
+punct	diab	:
+case	least	At
+nmod:npmod	245	least
+dep	diab	245
+acl	245	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	diab	''

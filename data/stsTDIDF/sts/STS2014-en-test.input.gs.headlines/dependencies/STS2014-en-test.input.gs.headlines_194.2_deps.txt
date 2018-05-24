@@ -1,0 +1,12 @@
+amod	officer	Former
+compound	officer	CIA
+nsubj	leak	officer
+acl	officer	sentenced
+case	months	to
+nummod	months	30
+nmod:to	sentenced	months
+case	prison	in
+nmod:in	months	prison
+case	info	for
+nmod:for	sentenced	info
+root	ROOT	leak

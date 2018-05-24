@@ -1,0 +1,10 @@
+det	crowd	A
+nsubj	looking	crowd
+aux	looking	is
+root	ROOT	looking
+case	man	at
+det	man	a
+nmod:at	looking	man
+case	stage	on
+nmod:on	man	stage
+punct	looking	.

@@ -1,0 +1,7 @@
+amod	president	Central
+amod	president	African
+compound	president	Republic
+root	ROOT	president
+acl	president	overthrown
+case	rebels	by
+nmod:by	overthrown	rebels

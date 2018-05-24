@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	laughing
+nsubj	lies	boy
+root	ROOT	lies
+case	pit	on
+det	pit	a
+nmod:on	lies	pit
+case	balls	of
+amod	balls	blue
+nmod:of	pit	balls
+punct	lies	.

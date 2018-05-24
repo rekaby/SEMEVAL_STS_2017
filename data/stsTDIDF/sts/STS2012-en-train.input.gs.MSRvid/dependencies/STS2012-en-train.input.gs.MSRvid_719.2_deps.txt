@@ -1,0 +1,11 @@
+det	cat	The
+nsubj	tried	cat
+root	ROOT	tried
+mark	eat	to
+xcomp	tried	eat
+det	corn	the
+dobj	eat	corn
+case	cob	on
+det	cob	the
+nmod:on	eat	cob
+punct	tried	.

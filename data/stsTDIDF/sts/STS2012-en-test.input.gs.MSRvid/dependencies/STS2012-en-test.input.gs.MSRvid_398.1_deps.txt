@@ -1,0 +1,14 @@
+det	kid	A
+nsubj	runs	kid
+root	ROOT	runs
+advmod	runs	away
+case	fish	from
+det	fish	a
+nmod:from	runs	fish
+acl	fish	swinging
+advmod	swinging	around
+case	pole	on
+det	pole	a
+compound	pole	fishing
+nmod:on	swinging	pole
+punct	runs	.

@@ -1,0 +1,11 @@
+nsubj	agree	i
+root	ROOT	agree
+case	you	with
+nmod:with	agree	you
+punct	agree	,
+nmod:poss	story	its
+det	story	a
+amod	story	ironic
+dobj	agree	story
+advmod	story	also
+punct	agree	.

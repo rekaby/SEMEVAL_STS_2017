@@ -1,0 +1,6 @@
+nummod	earthquake	6.9
+compound	earthquake	magnitude
+nsubj	hits	earthquake
+root	ROOT	hits
+compound	Zealand	New
+dobj	hits	Zealand

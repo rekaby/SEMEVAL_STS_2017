@@ -1,0 +1,10 @@
+root	ROOT	2
+amod	2	dead
+case	clashes	in
+compound	clashes	Bangladesh
+nmod:in	dead	clashes
+case	execution	over
+compound	leader	Jamaat
+nmod:poss	execution	leader
+case	leader	's
+nmod:over	clashes	execution

@@ -1,0 +1,14 @@
+nummod	seconds	Nine
+nmod:npmod	later	seconds
+advmod	broke	later
+punct	broke	,
+nsubj	broke	SpaceShipOne
+ccomp	said	broke
+det	barrier	the
+amod	barrier	sound
+dobj	broke	barrier
+punct	said	,
+det	company	the
+nsubj	said	company
+root	ROOT	said
+punct	said	.

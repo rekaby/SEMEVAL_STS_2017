@@ -1,0 +1,10 @@
+det	rate	the
+root	ROOT	rate
+case	increase	of
+nmod:of	rate	increase
+case	size	in
+nmod:in	increase	size
+case	time	per
+compound	time	unit
+nmod:per	increase	time
+punct	rate	.

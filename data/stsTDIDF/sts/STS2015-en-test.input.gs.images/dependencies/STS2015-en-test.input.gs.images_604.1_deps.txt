@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	brown
+nsubj	chewing	dog
+aux	chewing	is
+root	ROOT	chewing
+case	stick	on
+det	stick	a
+amod	stick	large
+nmod:on	chewing	stick
+punct	chewing	.

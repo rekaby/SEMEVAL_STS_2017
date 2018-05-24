@@ -1,0 +1,11 @@
+cc	considering	And
+case	States	in
+det	States	the
+compound	States	United
+nmod:in	considering	States
+punct	considering	,
+nsubj	considering	we
+aux	considering	are
+root	ROOT	considering
+dobj	considering	Mexicans
+punct	considering	.

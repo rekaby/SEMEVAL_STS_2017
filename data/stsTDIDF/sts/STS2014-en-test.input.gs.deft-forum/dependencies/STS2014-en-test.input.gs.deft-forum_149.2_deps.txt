@@ -1,0 +1,10 @@
+nsubj	want	i
+aux	want	do
+neg	want	n't
+root	ROOT	want
+det	president	a
+dobj	want	president
+nsubj	charasmatic	who
+cop	charasmatic	is
+acl:relcl	president	charasmatic
+punct	want	.

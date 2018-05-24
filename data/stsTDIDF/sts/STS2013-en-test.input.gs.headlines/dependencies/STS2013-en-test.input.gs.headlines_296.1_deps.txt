@@ -1,0 +1,5 @@
+nsubj	forces	Syria
+root	ROOT	forces
+compound	attack	launch
+compound	attack	Aleppo
+dobj	forces	attack

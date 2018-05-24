@@ -1,0 +1,6 @@
+amod	court	Egyptian
+nsubj	considers	court
+root	ROOT	considers
+nmod:poss	release	Mubarak
+case	Mubarak	's
+dobj	considers	release

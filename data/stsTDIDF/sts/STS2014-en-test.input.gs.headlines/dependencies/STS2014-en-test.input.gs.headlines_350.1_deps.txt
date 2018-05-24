@@ -1,0 +1,5 @@
+compound	officer	Pistorius
+nsubj	dropped	officer
+root	ROOT	dropped
+case	case	from
+nmod:from	dropped	case

@@ -1,0 +1,6 @@
+root	ROOT	make
+advmod	severe	less
+xcomp	make	severe
+cc	severe	or
+conj:or	severe	strict
+punct	make	.

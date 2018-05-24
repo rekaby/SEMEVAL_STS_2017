@@ -1,0 +1,11 @@
+expl	woman	There
+aux	woman	may
+cop	woman	be
+det	woman	a
+root	ROOT	woman
+case	image	under
+det	image	an
+nmod:under	woman	image
+case	Jesus	of
+nmod:of	image	Jesus
+punct	woman	.

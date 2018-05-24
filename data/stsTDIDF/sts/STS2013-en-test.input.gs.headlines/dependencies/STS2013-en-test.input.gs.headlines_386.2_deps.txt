@@ -1,0 +1,11 @@
+root	ROOT	CPAC
+nummod	CPAC	2012
+punct	CPAC	:
+compound	Romney	Mitt
+nsubj	Struggles	Romney
+parataxis	CPAC	Struggles
+mark	Connect	to
+xcomp	Struggles	Connect
+case	Base	with
+amod	Base	Conservative
+nmod:with	Connect	Base

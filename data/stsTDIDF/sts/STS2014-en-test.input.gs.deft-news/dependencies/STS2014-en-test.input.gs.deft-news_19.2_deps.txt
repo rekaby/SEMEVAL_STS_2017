@@ -1,0 +1,16 @@
+det	forces	the
+amod	forces	conventional
+nsubjpass	signed	forces
+case	treaty	in
+compound	treaty	europe
+nmod:in	forces	treaty
+auxpass	signed	was
+root	ROOT	signed
+case	russian	by
+nmod:agent	signed	russian
+cc	russian	and
+amod	members	nato
+conj:and	russian	members
+case	1990	in
+nmod:in	signed	1990
+punct	signed	.

@@ -1,0 +1,16 @@
+nsubj	eat	What
+aux	eat	can
+nsubj	eat	I
+root	ROOT	eat
+det	night	the
+dobj	eat	night
+mark	help	before
+mark	help	to
+advcl	eat	help
+nsubj	get	me
+ccomp	help	get
+compound:prt	get	up
+case	morning	in
+det	morning	the
+nmod:in	get	morning
+punct	eat	?

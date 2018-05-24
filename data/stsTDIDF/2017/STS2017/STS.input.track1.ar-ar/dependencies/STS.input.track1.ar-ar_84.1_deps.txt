@@ -1,0 +1,9 @@
+det	boy	The
+nsubj	shakes	boy
+root	ROOT	shakes
+dobj	shakes	hands
+case	municipality	with
+det	municipality	a
+compound	municipality	man
+nmod:with	shakes	municipality
+punct	shakes	.

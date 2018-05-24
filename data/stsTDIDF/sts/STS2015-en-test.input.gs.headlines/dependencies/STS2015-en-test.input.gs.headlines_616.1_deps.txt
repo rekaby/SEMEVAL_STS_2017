@@ -1,0 +1,7 @@
+compound	suspect	Boston
+compound	suspect	bombing
+root	ROOT	suspect
+mark	appear	to
+acl	suspect	appear
+case	court	in
+nmod:in	appear	court

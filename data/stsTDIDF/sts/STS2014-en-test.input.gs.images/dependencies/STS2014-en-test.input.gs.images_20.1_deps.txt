@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sleeps	man
+root	ROOT	sleeps
+case	baby	with
+det	baby	a
+nmod:with	sleeps	baby
+case	lap	in
+nmod:poss	lap	his
+nmod:in	sleeps	lap
+punct	sleeps	.

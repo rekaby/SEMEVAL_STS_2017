@@ -1,0 +1,5 @@
+ocean	into	case
+sails	boat	nsubj
+sails	ocean	nmod:into
+ROOT	sails	root
+boat	The	det

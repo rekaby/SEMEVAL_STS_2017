@@ -1,0 +1,15 @@
+nsubjpass	accepted	It
+auxpass	accepted	is
+root	ROOT	accepted
+mark	reference	that
+det	knowledge	the
+nsubj	reference	knowledge
+case	languages	of
+nmod:of	knowledge	languages
+cop	reference	is
+det	reference	a
+ccomp	accepted	reference
+case	mobility	to
+det	mobility	the
+nmod:to	reference	mobility
+punct	accepted	.

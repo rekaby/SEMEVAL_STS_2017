@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	rides	woman
+root	ROOT	rides
+det	elephant	an
+dobj	rides	elephant
+punct	rides	.

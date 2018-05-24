@@ -1,0 +1,10 @@
+nummod	men	Three
+nsubj	practicing	men
+aux	practicing	are
+root	ROOT	practicing
+compound	moves	karate
+dobj	practicing	moves
+case	field	in
+det	field	a
+nmod:in	moves	field
+punct	practicing	.

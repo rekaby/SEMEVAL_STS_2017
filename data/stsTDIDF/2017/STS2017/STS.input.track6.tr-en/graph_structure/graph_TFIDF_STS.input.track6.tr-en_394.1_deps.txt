@@ -1,0 +1,8 @@
+jumps	avoid	xcomp
+waking	him	dobj
+jumps	man	nsubj
+avoid	waking	xcomp
+jumps	friend	nmod:over
+jumps	.	punct
+ROOT	jumps	root
+friend	over	case

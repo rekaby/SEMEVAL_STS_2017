@@ -1,0 +1,11 @@
+advmod	list	here
+cop	list	's
+det	list	a
+root	ROOT	list
+case	articles	of
+nmod:of	list	articles
+case	you	for
+nmod:for	list	you
+mark	peruse	to
+acl	you	peruse
+punct	list	.

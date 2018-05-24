@@ -1,0 +1,16 @@
+nsubj	led	Heatley
+root	ROOT	led
+dobj	led	Atlanta
+mark	scoring	in
+advcl	led	scoring
+amod	season	last
+dobj	scoring	season
+case	goals	with
+det	goals	a
+amod	goals	team-record
+nummod	goals	41
+nmod:with	scoring	goals
+cc	goals	and
+nsubj	assists	48
+conj:and	goals	assists
+punct	led	.

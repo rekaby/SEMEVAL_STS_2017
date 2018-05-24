@@ -1,0 +1,14 @@
+nsubj	looks	This
+root	ROOT	looks
+det	lot	a
+dobj	looks	lot
+case	invitation	like
+det	invitation	an
+nmod:like	lot	invitation
+case	argument	to
+det	argument	a
+neg	argument	No
+amod	argument	True
+compound	argument	Scottsman
+nmod:to	invitation	argument
+punct	looks	.

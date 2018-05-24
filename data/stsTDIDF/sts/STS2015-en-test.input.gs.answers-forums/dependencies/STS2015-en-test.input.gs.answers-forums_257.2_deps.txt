@@ -1,0 +1,15 @@
+compound	Burkhauser	Professor
+nsubj	done	Burkhauser
+aux	done	has
+root	ROOT	done
+amod	research	extensive
+dobj	done	research
+case	who	on
+nmod:on	hurt	who
+auxpass	hurt	is
+acl:relcl	research	hurt
+case	wages	by
+amod	wages	higher
+compound	wages	minimum
+nmod:agent	hurt	wages
+punct	done	.

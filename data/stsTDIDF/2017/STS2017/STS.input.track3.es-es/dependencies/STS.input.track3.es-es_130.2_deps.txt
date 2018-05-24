@@ -1,0 +1,9 @@
+root	ROOT	Women
+acl	Women	participating
+case	finals	in
+det	finals	the
+nmod:in	participating	finals
+case	competition	of
+det	competition	the
+compound	competition	tennis
+nmod:of	finals	competition

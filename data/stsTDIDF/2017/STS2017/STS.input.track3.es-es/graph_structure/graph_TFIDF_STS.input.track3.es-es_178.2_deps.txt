@@ -1,0 +1,4 @@
+sitting	bench	nmod:on
+women	Five	nummod
+bench	a	det
+sitting	women	nsubj

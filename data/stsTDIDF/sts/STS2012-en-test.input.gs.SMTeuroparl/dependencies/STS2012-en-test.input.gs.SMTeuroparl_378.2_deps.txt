@@ -1,0 +1,8 @@
+punct	adopts	-LRB-
+det	Parliament	the
+nsubj	adopts	Parliament
+root	ROOT	adopts
+det	resolution	the
+amod	resolution	legislative
+dobj	adopts	resolution
+punct	adopts	-RRB-

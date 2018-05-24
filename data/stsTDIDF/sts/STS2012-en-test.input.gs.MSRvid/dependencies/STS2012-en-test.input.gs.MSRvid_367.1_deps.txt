@@ -1,0 +1,8 @@
+det	car	A
+nsubj	backs	car
+root	ROOT	backs
+case	space	out
+mwe	out	of
+det	space	a
+nmod:out_of	backs	space
+punct	backs	.

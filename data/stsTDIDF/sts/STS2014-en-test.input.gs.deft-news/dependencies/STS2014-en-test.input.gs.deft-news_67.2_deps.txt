@@ -1,0 +1,12 @@
+nsubj	opposed	china
+aux	opposed	has
+advmod	opposed	always
+root	ROOT	opposed
+det	proliferation	the
+dobj	opposed	proliferation
+case	weapons	of
+nmod:of	proliferation	weapons
+case	destruction	of
+compound	destruction	mass
+nmod:of	weapons	destruction
+punct	opposed	.

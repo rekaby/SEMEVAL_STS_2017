@@ -1,0 +1,5 @@
+det	person	A
+nsubj	shopping	person
+cop	shopping	is
+root	ROOT	shopping
+punct	shopping	.

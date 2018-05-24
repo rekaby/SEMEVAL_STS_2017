@@ -1,0 +1,10 @@
+nsubj	tells	Syria
+root	ROOT	tells
+compound	troops	Russia
+det	troops	some
+nsubj	pulled	troops
+aux	pulled	have
+ccomp	tells	pulled
+compound:prt	pulled	out
+case	Homs	of
+nmod:of	pulled	Homs

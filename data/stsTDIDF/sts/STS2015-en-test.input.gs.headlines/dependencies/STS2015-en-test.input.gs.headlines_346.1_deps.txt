@@ -1,0 +1,6 @@
+compound	policeman	Egypt
+root	ROOT	policeman
+acl	policeman	killed
+case	attack	in
+compound	attack	Sinai
+nmod:in	killed	attack

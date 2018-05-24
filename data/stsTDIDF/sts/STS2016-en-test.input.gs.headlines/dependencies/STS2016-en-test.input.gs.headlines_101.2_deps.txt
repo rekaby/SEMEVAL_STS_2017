@@ -1,0 +1,6 @@
+root	ROOT	Mandela
+case	Hospital	in
+nmod:in	Mandela	Hospital
+case	Day	for
+amod	Day	3rd
+nmod:for	Mandela	Day

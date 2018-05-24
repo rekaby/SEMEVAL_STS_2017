@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	beach	on
+det	beach	the
+nmod:on	playing	beach
+advmod	playing	together
+punct	playing	.

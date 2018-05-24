@@ -1,0 +1,7 @@
+root	ROOT	Man
+punct	Man	,
+appos	Man	40
+punct	Man	,
+acl	Man	arrested
+case	shooting	after
+nmod:after	arrested	shooting

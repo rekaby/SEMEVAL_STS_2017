@@ -1,0 +1,7 @@
+ROOT	relationship	root
+woman	is	cop
+relationship	woman	nsubj
+relationship	in	case
+relationship	are	cop
+woman	man	nsubj
+relationship	.	punct

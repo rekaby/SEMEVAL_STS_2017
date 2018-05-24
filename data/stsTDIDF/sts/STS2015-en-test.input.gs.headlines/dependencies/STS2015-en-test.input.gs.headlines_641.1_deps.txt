@@ -1,0 +1,7 @@
+nsubj	held	Man
+root	ROOT	held
+case	shot	after
+compound	shot	teen
+nmod:after	held	shot
+case	Belfast	in
+nmod:in	shot	Belfast

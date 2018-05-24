@@ -1,0 +1,15 @@
+nsubj	majority	Neither
+cop	majority	was
+advmod	majority	there
+det	majority	a
+amod	majority	qualified
+root	ROOT	majority
+case	House	within
+det	House	this
+nmod:within	majority	House
+mark	revert	to
+acl	majority	revert
+case	Article	to
+nmod:to	revert	Article
+nummod	Article	272
+punct	majority	.

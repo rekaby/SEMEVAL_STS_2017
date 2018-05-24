@@ -1,0 +1,4 @@
+women	Tsobhn	dep
+group	women	nmod:of
+pool	swimming	compound
+Tsobhn	pool	nmod:in

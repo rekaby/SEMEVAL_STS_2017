@@ -1,0 +1,17 @@
+det	cut	a
+amod	cut	slight
+compound	cut	surface
+root	ROOT	cut
+punct	notch	-LRB-
+advmod	notch	especially
+det	notch	a
+dep	cut	notch
+nsubjpass	made	that
+auxpass	made	is
+acl:relcl	notch	made
+mark	keep	to
+xcomp	made	keep
+det	tally	a
+dobj	keep	tally
+punct	notch	-RRB-
+punct	cut	.

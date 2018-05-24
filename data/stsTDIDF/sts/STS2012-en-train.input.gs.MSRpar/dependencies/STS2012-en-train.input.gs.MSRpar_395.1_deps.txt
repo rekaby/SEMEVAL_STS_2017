@@ -1,0 +1,16 @@
+det	Index	The
+amod	Index	tech-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+nsubj	gained	Index
+root	ROOT	gained
+nummod	points	2.90
+dobj	gained	points
+punct	points	,
+cc	points	or
+nummod	percent	0.18
+conj:or	points	percent
+punct	gained	,
+case	1,606.87	to
+nmod:to	gained	1,606.87
+punct	gained	.

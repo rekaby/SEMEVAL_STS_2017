@@ -1,0 +1,4 @@
+holding	room	nmod:in
+microphone	a	det
+holding	microphone	dobj
+holding	man	nsubj

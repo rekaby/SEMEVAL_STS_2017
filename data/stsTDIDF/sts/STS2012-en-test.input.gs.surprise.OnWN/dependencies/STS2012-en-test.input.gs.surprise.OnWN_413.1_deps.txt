@@ -1,0 +1,8 @@
+root	ROOT	continue
+mark	live	to
+xcomp	continue	live
+punct	continue	,
+dep	continue	exist
+punct	exist	,
+cc	continue	or
+conj:or	continue	prosper

@@ -1,0 +1,5 @@
+root	ROOT	cover
+case	base	with
+det	base	a
+compound	base	primer
+nmod:with	cover	base

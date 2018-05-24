@@ -1,0 +1,7 @@
+nsubj	condemns	Iran
+root	ROOT	condemns
+amod	airstrike	alleged
+amod	airstrike	Israeli
+dobj	condemns	airstrike
+case	Syria	on
+nmod:on	condemns	Syria

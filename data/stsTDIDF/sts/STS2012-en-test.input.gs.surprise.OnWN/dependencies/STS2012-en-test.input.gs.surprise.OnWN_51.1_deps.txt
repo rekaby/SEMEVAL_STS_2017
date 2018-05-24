@@ -1,0 +1,7 @@
+det	meeting	a
+amod	meeting	casual
+punct	meeting	,
+amod	meeting	brief
+root	ROOT	meeting
+case	someone	with
+nmod:with	meeting	someone

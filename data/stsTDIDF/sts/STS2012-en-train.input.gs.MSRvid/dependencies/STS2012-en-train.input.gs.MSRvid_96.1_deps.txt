@@ -1,0 +1,10 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+root	ROOT	chopping
+det	log	a
+dobj	chopping	log
+case	axe	with
+det	axe	an
+nmod:with	chopping	axe
+punct	chopping	.

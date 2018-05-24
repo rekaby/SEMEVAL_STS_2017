@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	brushing	woman
+aux	brushing	is
+root	ROOT	brushing
+det	shrimp	some
+dobj	brushing	shrimp
+punct	brushing	.

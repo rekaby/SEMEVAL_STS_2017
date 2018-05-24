@@ -1,0 +1,7 @@
+amod	control	exclusive
+root	ROOT	control
+cc	control	or
+conj:or	control	possession
+case	something	of
+nmod:of	possession	something
+punct	control	.

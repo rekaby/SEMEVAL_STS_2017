@@ -1,0 +1,10 @@
+root	ROOT	Britain
+case	Auction	to
+nmod:to	Britain	Auction
+nummod	MHz	250
+dep	Auction	MHz
+case	Speed	for
+amod	Speed	High
+nmod:for	MHz	Speed
+dep	Speed	Mobile
+punct	Britain	-

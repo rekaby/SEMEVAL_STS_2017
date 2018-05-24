@@ -1,0 +1,6 @@
+det	society	A
+root	ROOT	society
+acl	society	fraying
+case	edges	at
+det	edges	the
+nmod:at	fraying	edges

@@ -1,0 +1,14 @@
+det	couple	An
+amod	couple	elderly
+amod	couple	Asian
+nsubj	pose	couple
+root	ROOT	pose
+case	baby	with
+det	baby	a
+amod	baby	yawning
+nmod:with	pose	baby
+case	table	at
+det	table	a
+compound	table	dinner
+nmod:at	baby	table
+punct	pose	.

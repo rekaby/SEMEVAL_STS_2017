@@ -1,0 +1,11 @@
+det	woman	A
+amod	woman	lone
+nsubj	walks	woman
+root	ROOT	walks
+case	surf	in
+det	surf	the
+nmod:in	walks	surf
+case	beach	at
+det	beach	the
+nmod:at	walks	beach
+punct	walks	.

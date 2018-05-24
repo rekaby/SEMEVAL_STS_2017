@@ -1,0 +1,9 @@
+nsubj	takes	Napthine
+root	ROOT	takes
+det	reins	the
+dobj	takes	reins
+case	leadership	after
+nmod:poss	leadership	Baillieu
+case	Baillieu	's
+nmod:after	takes	leadership
+dep	takes	crumbles

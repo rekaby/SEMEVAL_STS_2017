@@ -1,0 +1,5 @@
+reading	magazine	dobj
+man	sitting	acl
+sitting	chair	nmod:in
+chair	reading	acl
+chair	in	case

@@ -1,0 +1,8 @@
+compound	advances	Israel
+nsubj	plan	advances
+root	ROOT	plan
+mark	build	to
+xcomp	plan	build
+nummod	homes	900
+compound	homes	settlement
+dobj	build	homes

@@ -1,0 +1,6 @@
+compound	pledges	Miliband
+root	ROOT	pledges
+mark	strengthen	to
+acl	pledges	strengthen
+amod	wage	minimum
+dobj	strengthen	wage

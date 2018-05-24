@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	clown	a
+nsubj	is	clown
+acl	clown	making
+compound	members	audience
+nsubj	laugh	members
+xcomp	making	laugh
+punct	is	.

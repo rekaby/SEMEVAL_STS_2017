@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	sings	boy
+root	ROOT	sings
+case	baseball	to
+det	baseball	a
+nmod:to	sings	baseball
+case	course	outside
+det	course	the
+compound	course	golf
+nmod:outside	baseball	course

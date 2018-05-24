@@ -1,0 +1,10 @@
+compound	Komen	Susan
+compound	Komen	G
+nsubj	cut	Komen
+case	U-turn	in
+nmod:in	Komen	U-turn
+case	funding	over
+amod	funding	Planned
+compound	funding	Parenthood
+nmod:over	U-turn	funding
+root	ROOT	cut

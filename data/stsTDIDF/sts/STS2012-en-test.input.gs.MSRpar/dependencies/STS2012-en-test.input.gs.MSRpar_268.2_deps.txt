@@ -1,0 +1,17 @@
+nsubj	have	Ruffner
+punct	Ruffner	,
+appos	Ruffner	45
+punct	Ruffner	,
+aux	have	does
+neg	have	not
+ccomp	said	have
+det	lawyer	a
+dobj	have	lawyer
+case	charge	on
+det	charge	the
+compound	charge	murder
+nmod:on	lawyer	charge
+punct	said	,
+nsubj	said	authorities
+root	ROOT	said
+punct	said	.

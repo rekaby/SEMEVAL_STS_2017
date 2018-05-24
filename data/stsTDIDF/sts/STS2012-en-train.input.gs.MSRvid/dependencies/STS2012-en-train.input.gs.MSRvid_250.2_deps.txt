@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+det	baby	a
+dobj	puts	baby
+case	trash	in
+det	trash	a
+nmod:in	puts	trash
+dep	trash	can
+punct	puts	.

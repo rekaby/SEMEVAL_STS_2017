@@ -1,0 +1,12 @@
+det	group	the
+compound	group	areva
+nsubj	firm	group
+cop	firm	is
+det	world	the
+nmod:poss	firm	world
+case	world	's
+amod	firm	largest
+amod	firm	nuclear
+compound	firm	engineering
+root	ROOT	firm
+punct	firm	.

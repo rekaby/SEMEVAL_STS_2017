@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	placing	woman
+root	ROOT	placing
+det	baby	a
+dobj	placing	baby
+case	skateboard	on
+det	skateboard	a
+nmod:on	placing	skateboard
+case	beach	on
+det	beach	the
+nmod:on	skateboard	beach
+punct	placing	.

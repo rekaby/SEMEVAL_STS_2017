@@ -1,0 +1,6 @@
+suit	sitting	acl
+suit	black	amod
+steps	on	case
+steps	building	nmod:of
+sitting	steps	nmod:on
+man	suit	nmod:in

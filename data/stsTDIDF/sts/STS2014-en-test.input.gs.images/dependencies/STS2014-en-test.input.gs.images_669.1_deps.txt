@@ -1,0 +1,8 @@
+amod	standing	Dark
+amod	standing	colored
+compound	standing	dog
+root	ROOT	standing
+case	field	in
+amod	field	grassy
+nmod:in	standing	field
+punct	standing	.

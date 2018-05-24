@@ -1,0 +1,12 @@
+nsubj	's	It
+root	ROOT	's
+advmod	's	up
+case	you	to
+nmod:to	's	you
+dobj	want	what
+nsubj	want	you
+ccomp	's	want
+mark	do	to
+xcomp	want	do
+dobj	do	next
+punct	's	.

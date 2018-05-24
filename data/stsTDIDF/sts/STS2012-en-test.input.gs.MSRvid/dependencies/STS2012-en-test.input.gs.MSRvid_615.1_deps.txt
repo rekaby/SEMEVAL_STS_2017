@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	holds	woman
+root	ROOT	holds
+det	kangaroo	a
+dobj	holds	kangaroo
+punct	holds	.

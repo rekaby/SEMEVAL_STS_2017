@@ -1,0 +1,12 @@
+nsubj	stated	goff
+root	ROOT	stated
+mark	presents	that
+nsubj	presents	this
+ccomp	stated	presents
+det	threat	a
+amod	threat	major
+dobj	presents	threat
+case	security	to
+amod	security	global
+nmod:to	threat	security
+punct	stated	.

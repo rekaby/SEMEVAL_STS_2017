@@ -1,0 +1,11 @@
+compound	machine	Alsksifun
+nsubj	plays	machine
+root	ROOT	plays
+det	man	the
+dobj	plays	man
+acl	man	wearing
+det	jacket	a
+amod	jacket	red
+dobj	wearing	jacket
+advmod	wearing	abroad
+punct	plays	.

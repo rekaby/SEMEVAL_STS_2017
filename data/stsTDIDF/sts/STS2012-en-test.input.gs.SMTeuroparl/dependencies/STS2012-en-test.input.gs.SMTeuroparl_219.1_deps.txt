@@ -1,0 +1,13 @@
+det	Union	The
+compound	Union	European
+nsubj	got	Union
+aux	got	has
+root	ROOT	got
+mark	do	to
+xcomp	got	do
+dobj	do	something
+cc	got	and
+aux	quickly	do
+nsubj	quickly	it
+conj:and	got	quickly
+punct	got	.

@@ -1,0 +1,14 @@
+compound	Miller	Richard
+nsubj	survived	Miller
+punct	Miller	,
+amod	Miller	57
+punct	Miller	,
+root	ROOT	survived
+det	transplant	a
+amod	transplant	lifesaving
+compound	transplant	liver
+dobj	survived	transplant
+cc	survived	but
+conj:but	survived	remains
+xcomp	remains	hospitalized
+punct	survived	.

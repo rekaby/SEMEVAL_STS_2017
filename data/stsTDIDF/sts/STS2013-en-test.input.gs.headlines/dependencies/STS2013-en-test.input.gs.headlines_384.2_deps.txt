@@ -1,0 +1,9 @@
+nsubj	kill	Raiders
+root	ROOT	kill
+dobj	kill	38
+case	clashes	in
+amod	clashes	latest
+compound	clashes	land
+nmod:in	kill	clashes
+case	Kenya	in
+nmod:in	clashes	Kenya

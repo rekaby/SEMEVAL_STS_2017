@@ -1,0 +1,8 @@
+amod	teenager	British
+root	ROOT	teenager
+acl	teenager	killed
+case	fall	in
+nmod:in	killed	fall
+case	hotel	from
+amod	hotel	Magaluf
+nmod:from	fall	hotel

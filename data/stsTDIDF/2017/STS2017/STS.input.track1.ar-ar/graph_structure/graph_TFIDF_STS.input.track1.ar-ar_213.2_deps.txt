@@ -1,0 +1,7 @@
+whisper	children	nsubj
+ROOT	whisper	root
+whisper	.	punct
+else	Ergbhma	nmod:npmod
+children	Two	nummod
+whisper	season	nmod:in
+whisper	else	advmod

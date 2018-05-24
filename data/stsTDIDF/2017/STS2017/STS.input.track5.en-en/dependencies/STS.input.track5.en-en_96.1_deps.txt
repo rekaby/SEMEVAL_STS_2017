@@ -1,0 +1,11 @@
+det	group	A
+nsubj	jumping	group
+case	teenagers	of
+nmod:of	group	teenagers
+root	ROOT	jumping
+cc	jumping	and
+conj:and	jumping	having
+det	time	a
+amod	time	good
+dobj	having	time
+punct	jumping	.

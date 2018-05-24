@@ -1,0 +1,11 @@
+mall	and	cc
+sculpture	a	det
+sculpture	biciclete	amod
+display	are	cop
+display	man	nsubj
+mall	a	det
+man	mall	nmod:in
+sculpture	gold	compound
+mall	shopping	compound
+mall	sculpture	conj:and
+mall	in	case

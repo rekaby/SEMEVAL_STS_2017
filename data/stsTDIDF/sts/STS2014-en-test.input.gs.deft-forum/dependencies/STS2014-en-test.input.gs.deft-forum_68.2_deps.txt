@@ -1,0 +1,15 @@
+det	line	The
+amod	line	bottom
+nsubj	is	line
+root	ROOT	is
+mark	show	that
+det	clip	the
+compound	clip	video
+nsubj	show	clip
+aux	show	does
+neg	show	n't
+ccomp	is	show
+det	chamber	a
+compound	chamber	gas
+dobj	show	chamber
+punct	is	.

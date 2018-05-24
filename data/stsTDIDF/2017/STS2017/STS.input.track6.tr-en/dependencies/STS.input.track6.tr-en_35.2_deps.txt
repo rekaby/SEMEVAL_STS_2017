@@ -1,0 +1,12 @@
+expl	are	There
+root	ROOT	are
+nummod	people	two
+nsubj	are	people
+case	photo	in
+det	photo	this
+nmod:in	people	photo
+cc	people	and
+nsubj	outside	both
+cop	outside	are
+conj:and	people	outside
+punct	are	.

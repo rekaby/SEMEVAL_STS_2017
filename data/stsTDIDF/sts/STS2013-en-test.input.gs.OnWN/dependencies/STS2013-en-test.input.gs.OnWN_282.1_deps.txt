@@ -1,0 +1,5 @@
+amod	unit	basic
+amod	unit	monetary
+root	ROOT	unit
+case	Kyrgyzstan	of
+nmod:of	unit	Kyrgyzstan

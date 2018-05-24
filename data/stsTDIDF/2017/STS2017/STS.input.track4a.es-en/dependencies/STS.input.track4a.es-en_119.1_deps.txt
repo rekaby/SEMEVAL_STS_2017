@@ -1,0 +1,11 @@
+nummod	women	Two
+amod	women	young
+nsubj	eat	women
+case	t-shirts	in
+amod	t-shirts	black
+nmod:in	women	t-shirts
+root	ROOT	eat
+case	table	at
+det	table	a
+nmod:at	eat	table
+punct	eat	.

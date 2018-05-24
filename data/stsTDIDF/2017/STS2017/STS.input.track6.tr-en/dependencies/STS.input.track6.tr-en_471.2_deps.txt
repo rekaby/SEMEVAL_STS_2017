@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+amod	people	many
+nsubj	sliding	people
+ccomp	are	sliding
+compound:prt	sliding	down
+det	mountain	a
+dobj	sliding	mountain
+punct	are	.

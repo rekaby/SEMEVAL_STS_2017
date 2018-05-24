@@ -1,0 +1,12 @@
+det	group	A
+nsubj	poses	group
+case	girls	of
+nmod:of	group	girls
+acl	group	wearing
+dobj	wearing	headscarves
+root	ROOT	poses
+case	photo	for
+det	photo	a
+compound	photo	group
+nmod:for	poses	photo
+punct	poses	.

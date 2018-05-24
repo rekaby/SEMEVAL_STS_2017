@@ -1,0 +1,9 @@
+stands	worker	nsubj
+flag	top	nmod:at
+top	building	nmod:of
+operates	which	nmod:in
+worker	Iron	compound
+building	operates	acl:relcl
+flag	next	case
+stands	flag	nmod:next_to
+operates	it	nsubj

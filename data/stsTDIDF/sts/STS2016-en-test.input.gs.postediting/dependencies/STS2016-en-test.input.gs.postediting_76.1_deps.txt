@@ -1,0 +1,15 @@
+advmod	announced	When
+det	agreement	the
+nsubjpass	announced	agreement
+auxpass	announced	was
+advcl	thought	announced
+punct	thought	,
+nsubj	thought	one
+aux	thought	would
+aux	thought	have
+root	ROOT	thought
+det	step	a
+advmod	revolutionary	truly
+amod	step	revolutionary
+dobj	thought	step
+punct	thought	.

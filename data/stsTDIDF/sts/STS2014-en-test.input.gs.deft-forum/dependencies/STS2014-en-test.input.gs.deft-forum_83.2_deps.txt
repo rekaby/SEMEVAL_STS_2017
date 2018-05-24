@@ -1,0 +1,11 @@
+compound	Close	Chuck
+root	ROOT	Close
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Close	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Close	.

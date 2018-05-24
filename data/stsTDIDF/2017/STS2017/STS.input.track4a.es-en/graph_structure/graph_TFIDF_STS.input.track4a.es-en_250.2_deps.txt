@@ -1,0 +1,5 @@
+register	a	det
+working	man	nsubj
+register	at	case
+working	register	nmod:at
+register	cash	compound

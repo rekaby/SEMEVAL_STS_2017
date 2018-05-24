@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	eating
+det	apple	an
+dobj	eating	apple
+punct	man	,
+acl	man	sitting
+case	public	in
+nmod:in	sitting	public
+punct	man	.

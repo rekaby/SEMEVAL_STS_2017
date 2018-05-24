@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	holding
+det	cat	a
+dobj	holding	cat
+punct	man	.

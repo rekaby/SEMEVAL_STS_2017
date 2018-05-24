@@ -1,0 +1,7 @@
+things	supplies	nmod:in
+ROOT	Women	root
+Women	store	nmod:in
+store	looking	acl
+looking	things	nmod:for
+supplies	in	case
+things	for	case

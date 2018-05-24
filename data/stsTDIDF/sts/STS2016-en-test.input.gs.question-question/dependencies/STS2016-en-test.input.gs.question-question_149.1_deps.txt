@@ -1,0 +1,12 @@
+aux	switch	Should
+nsubj	switch	I
+root	ROOT	switch
+case	person	to
+amod	person	third
+nmod:to	switch	person
+cc	switch	or
+conj:or	switch	continue
+case	person	in
+amod	person	first
+nmod:in	continue	person
+punct	switch	?

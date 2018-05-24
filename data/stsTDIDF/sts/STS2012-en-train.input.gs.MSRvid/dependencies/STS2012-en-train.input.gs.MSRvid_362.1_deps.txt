@@ -1,0 +1,10 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	rope	a
+dobj	cutting	rope
+case	sword	with
+det	sword	a
+nmod:with	cutting	sword
+punct	cutting	.

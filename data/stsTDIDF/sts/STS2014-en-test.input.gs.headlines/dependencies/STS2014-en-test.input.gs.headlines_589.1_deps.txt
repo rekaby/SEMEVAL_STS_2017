@@ -1,0 +1,14 @@
+compound	thief	Cannes
+nsubj	steals	thief
+punct	steals	`
+root	ROOT	steals
+dobj	steals	$
+nummod	$	53m
+case	jewels	of
+nmod:'	$	jewels
+case	jewels	'
+case	heist	in
+amod	heist	armed
+nmod:in	jewels	heist
+case	hotel	at
+nmod:at	steals	hotel

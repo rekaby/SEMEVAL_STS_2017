@@ -1,0 +1,10 @@
+amod	citizens	Vietnamese
+nsubj	need	citizens
+root	ROOT	need
+det	visa	a
+dobj	need	visa
+mark	visit	to
+advcl	need	visit
+det	USA	the
+dobj	visit	USA
+punct	need	.

@@ -1,0 +1,16 @@
+punct	America	``
+nsubj	America	This
+cop	America	is
+root	ROOT	America
+punct	America	,
+nmod:poss	friends	my
+conj:and	America	friends
+punct	America	,
+cc	America	and
+nsubj	happen	it
+aux	happen	should
+neg	happen	not
+conj:and	America	happen
+advmod	happen	here
+punct	America	.
+punct	America	''

@@ -1,0 +1,7 @@
+compound	parliament	Afghan
+nsubj	votes	parliament
+root	ROOT	votes
+mark	remove	to
+acl	votes	remove
+amod	ministers	key
+dobj	remove	ministers

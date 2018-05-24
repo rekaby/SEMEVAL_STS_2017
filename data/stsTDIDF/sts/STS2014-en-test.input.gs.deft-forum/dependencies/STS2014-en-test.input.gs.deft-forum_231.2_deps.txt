@@ -1,0 +1,15 @@
+nsubj	level	Everyone
+case	world	in
+det	world	the
+nmod:in	Everyone	world
+case	prosperity	at
+det	prosperity	the
+amod	prosperity	current
+punct	prosperity	``
+nmod:at	Everyone	prosperity
+punct	level	''
+root	ROOT	level
+case	Africa	of
+compound	Africa	Northwest
+nmod:of	level	Africa
+punct	level	.

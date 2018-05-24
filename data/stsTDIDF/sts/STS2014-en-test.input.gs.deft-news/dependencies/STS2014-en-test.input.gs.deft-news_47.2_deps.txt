@@ -1,0 +1,8 @@
+nsubj	juveniles	2
+case	zambians	of
+det	zambians	the
+nmod:of	2	zambians
+acl	zambians	arrested
+cop	juveniles	are
+root	ROOT	juveniles
+punct	juveniles	.

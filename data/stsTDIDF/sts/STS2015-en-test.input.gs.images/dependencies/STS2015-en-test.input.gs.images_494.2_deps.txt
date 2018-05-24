@@ -1,0 +1,14 @@
+det	boy	The
+nsubj	hops	boy
+root	ROOT	hops
+case	table	from
+nummod	table	one
+compound	table	picnic
+nmod:from	hops	table
+case	other	to
+det	other	the
+nmod:to	hops	other
+case	park	in
+det	park	the
+nmod:in	other	park
+punct	hops	.

@@ -1,0 +1,6 @@
+amod	protest	Peaceful
+amod	protest	anti-G8
+root	ROOT	protest
+acl	protest	held
+case	Belfast	in
+nmod:in	held	Belfast

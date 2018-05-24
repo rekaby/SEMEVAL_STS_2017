@@ -1,0 +1,14 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	bike	astride
+det	bike	a
+nmod:astride	stands	bike
+case	trail	on
+det	trail	a
+amod	trail	rocky
+nmod:on	bike	trail
+case	lake	by
+det	lake	a
+nmod:by	stands	lake
+punct	stands	.

@@ -1,0 +1,10 @@
+nsubj	think	I
+root	ROOT	think
+expl	are	there
+ccomp	think	are
+nummod	things	two
+amod	things	important
+nsubj	are	things
+mark	consider	to
+acl	things	consider
+punct	think	:

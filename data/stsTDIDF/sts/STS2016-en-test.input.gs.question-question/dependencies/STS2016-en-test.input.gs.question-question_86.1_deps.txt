@@ -1,0 +1,17 @@
+det	kind	What
+dep	is	kind
+case	web	of
+compound	web	spider
+nmod:of	kind	web
+root	ROOT	is
+nsubj	is	this
+punct	this	-
+cc	this	and
+advmod	rid	how
+aux	rid	do
+nsubj	rid	I
+dep	rid	get
+conj:and	this	rid
+case	it	of
+nmod:of	rid	it
+punct	is	?

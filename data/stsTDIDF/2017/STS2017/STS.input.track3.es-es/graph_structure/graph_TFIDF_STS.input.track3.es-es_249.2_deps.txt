@@ -1,0 +1,6 @@
+steps	house	nmod:in_front_of
+steps	on	case
+sitting	woman	nsubj
+sitting	steps	nmod:on
+door	of	case
+steps	door	nmod:of

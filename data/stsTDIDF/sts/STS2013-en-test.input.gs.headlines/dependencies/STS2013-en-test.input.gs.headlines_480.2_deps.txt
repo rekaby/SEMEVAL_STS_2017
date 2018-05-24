@@ -1,0 +1,9 @@
+compound	rules	U.S.
+compound	rules	relaxes
+compound	rules	deportation
+root	ROOT	rules
+case	people	for
+amod	people	young
+nmod:for	rules	people
+punct	rules	:
+punct	rules	Napolitano

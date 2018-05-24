@@ -1,0 +1,7 @@
+compound	Clinton	President
+compound	Clinton	Hillary
+root	ROOT	Clinton
+punct	Clinton	?-4) mark(wants-3, If
+nsubj	wants	she
+root	ROOT	wants
+dobj	wants	it

@@ -1,0 +1,6 @@
+amod	set	French
+root	ROOT	set
+case	ground	for
+compound	ground	Mali
+nmod:for	set	ground
+dobj	set	combat

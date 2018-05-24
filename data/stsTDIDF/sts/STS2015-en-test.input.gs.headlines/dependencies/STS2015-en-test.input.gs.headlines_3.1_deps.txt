@@ -1,0 +1,7 @@
+compound	Shooting	Chicago
+nsubj	Shows	Shooting
+root	ROOT	Shows
+dobj	Shows	Gap
+case	Policing	in
+amod	Policing	Stepped-up
+nmod:in	Gap	Policing

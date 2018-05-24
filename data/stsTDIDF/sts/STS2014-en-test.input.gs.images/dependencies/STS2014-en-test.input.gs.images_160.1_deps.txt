@@ -1,0 +1,6 @@
+nummod	airplanes	Two
+root	ROOT	airplanes
+case	sky	in
+det	sky	the
+nmod:in	airplanes	sky
+punct	airplanes	.

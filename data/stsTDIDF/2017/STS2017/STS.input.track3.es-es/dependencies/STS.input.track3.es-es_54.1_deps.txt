@@ -1,0 +1,7 @@
+nummod	men	Three
+root	ROOT	men
+acl	men	talking
+advmod	talking	seriously
+case	Walmart	at
+nmod:at	talking	Walmart
+punct	men	.

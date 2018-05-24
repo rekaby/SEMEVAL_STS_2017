@@ -1,0 +1,11 @@
+compound	Abrams	J.J.
+nsubj	set	Abrams
+root	ROOT	set
+mark	direct	to
+xcomp	set	direct
+punct	set	?-6) compound(Wars-2, Star
+root	ROOT	Wars
+punct	Wars	:
+compound	VII	Episode
+dep	Wars	VII
+punct	Wars	?

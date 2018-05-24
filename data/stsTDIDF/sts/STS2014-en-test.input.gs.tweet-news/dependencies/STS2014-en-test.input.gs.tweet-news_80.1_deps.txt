@@ -1,0 +1,5 @@
+compound	actor	Charlie
+compound	actor	Brown
+compound	actor	voice
+nsubj	charged	actor
+root	ROOT	charged

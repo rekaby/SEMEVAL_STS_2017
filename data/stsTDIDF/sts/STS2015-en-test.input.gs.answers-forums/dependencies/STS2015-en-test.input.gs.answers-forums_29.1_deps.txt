@@ -1,0 +1,13 @@
+det	away	The
+advmod	away	farther
+advmod	move	away
+punct	move	,
+det	galaxies	the
+amod	galaxies	faster
+det	galaxies	the
+nsubj	move	galaxies
+root	ROOT	move
+advmod	move	away
+case	us	from
+nmod:from	move	us
+punct	move	.

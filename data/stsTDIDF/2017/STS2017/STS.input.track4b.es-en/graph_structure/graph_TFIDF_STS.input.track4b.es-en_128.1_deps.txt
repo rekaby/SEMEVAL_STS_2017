@@ -1,0 +1,12 @@
+Bilkent	of	case
+professorship	University	nmod:at
+Ankara	,	punct
+professorship	,	punct
+professorship	Ankara	nmod:in
+professorship	a	det
+Ankara	Turkey	appos
+took	professorship	dobj
+Ankara	in	case
+University	Bilkent	nmod:of
+took	1997	nmod:in
+1997	In	case

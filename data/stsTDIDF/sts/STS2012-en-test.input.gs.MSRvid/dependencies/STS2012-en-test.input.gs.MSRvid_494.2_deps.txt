@@ -1,0 +1,6 @@
+det	bear	A
+nsubj	fighting	bear
+aux	fighting	is
+root	ROOT	fighting
+dobj	fighting	wolves
+punct	fighting	.

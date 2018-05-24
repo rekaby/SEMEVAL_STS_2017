@@ -1,0 +1,15 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	sitting
+case	swimsuit	in
+det	swimsuit	a
+nmod:in	sitting	swimsuit
+case	beach	on
+det	beach	a
+nmod:on	sitting	beach
+case	postures	in
+compound	postures	yoga
+nmod:in	beach	postures
+punct	group	.

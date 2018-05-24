@@ -1,0 +1,9 @@
+det	girl	The
+nsubj	sat	girl
+root	ROOT	sat
+case	couch	on
+det	couch	the
+nmod:on	sat	couch
+case	crochet	to
+nmod:to	sat	crochet
+punct	sat	.

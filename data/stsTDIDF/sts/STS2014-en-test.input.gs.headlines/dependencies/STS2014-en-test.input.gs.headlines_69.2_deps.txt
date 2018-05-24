@@ -1,0 +1,8 @@
+nsubj	call	Egypt
+nsubj	mulls	opposition
+acl:relcl	Egypt	mulls
+dobj	mulls	response
+case	dialogue	to
+compound	dialogue	Morsi
+nmod:to	mulls	dialogue
+root	ROOT	call

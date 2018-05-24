@@ -1,0 +1,6 @@
+det	occupants	the
+root	ROOT	occupants
+case	floor	of
+det	floor	a
+nmod:of	occupants	floor
+punct	occupants	.

@@ -1,0 +1,9 @@
+nsubj	bans	US
+root	ROOT	bans
+amod	liquids	carry-on
+dobj	bans	liquids
+case	flights	on
+amod	flights	direct
+nmod:on	bans	flights
+case	Russia	to
+nmod:to	flights	Russia

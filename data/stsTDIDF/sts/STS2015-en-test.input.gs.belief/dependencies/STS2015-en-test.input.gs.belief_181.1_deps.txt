@@ -1,0 +1,15 @@
+nsubj	monopoly	there
+aux	monopoly	has
+neg	monopoly	never
+cop	monopoly	been
+det	monopoly	a
+root	ROOT	monopoly
+case	country	in
+det	country	this
+nmod:in	monopoly	country
+nsubj	government	that
+cop	government	was
+neg	government	n't
+acl:relcl	monopoly	government
+dep	government	enforced
+punct	monopoly	.

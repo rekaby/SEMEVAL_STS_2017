@@ -1,0 +1,11 @@
+doormat	on	case
+is	dog	nsubj
+man	with	case
+shirt	looking	acl
+man	shirt	nmod:in
+dog	running	acl
+dog	black	amod
+doormat	a	det
+running	doormat	nmod:on
+doormat	man	nmod:with
+shirt	blue	amod

@@ -1,0 +1,7 @@
+root	ROOT	Egypt
+punct	Egypt	:
+amod	head	Muslim
+compound	head	Brotherhood
+compound	head	deputy
+appos	Egypt	head
+acl	head	arrested

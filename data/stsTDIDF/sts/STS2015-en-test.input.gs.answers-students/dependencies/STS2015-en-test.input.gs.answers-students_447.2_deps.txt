@@ -1,0 +1,14 @@
+det	bulb	The
+amod	bulb	damaged
+nsubjpass	contained	bulb
+cc	bulb	and
+det	bulb	the
+amod	bulb	other
+conj:and	bulb	bulb
+aux	contained	must
+auxpass	contained	be
+root	ROOT	contained
+case	path	in
+det	path	the
+amod	path	same
+nmod:in	contained	path

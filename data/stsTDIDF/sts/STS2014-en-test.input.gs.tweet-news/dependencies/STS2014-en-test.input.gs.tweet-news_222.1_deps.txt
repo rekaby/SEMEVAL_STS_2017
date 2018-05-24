@@ -1,0 +1,13 @@
+compound	State	New
+compound	State	York
+nsubj	Deal	State
+aux	Deal	Has
+compound	Deal	Gun
+compound	Deal	Control
+root	ROOT	Deal
+punct	Deal	,
+case	Focus	With
+nmod:with	Deal	Focus
+case	Ills	on
+amod	Ills	Mental
+nmod:on	Focus	Ills

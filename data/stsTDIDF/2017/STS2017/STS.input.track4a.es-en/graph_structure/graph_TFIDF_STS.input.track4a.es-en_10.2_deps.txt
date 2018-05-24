@@ -1,0 +1,7 @@
+shopping	Some	nsubj
+shopping	clothes	nmod:for
+ROOT	shopping	root
+Some	people	nmod:of
+clothes	for	case
+shopping	.	punct
+shopping	are	aux

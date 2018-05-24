@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	standing
+case	snow	in
+det	snow	the
+nmod:in	standing	snow
+punct	dogs	.

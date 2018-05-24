@@ -1,0 +1,8 @@
+nsubjpass	divided	kashmir
+auxpass	divided	is
+root	ROOT	divided
+case	india	between
+nmod:between	divided	india
+cc	india	and
+conj:and	india	pakistan
+punct	divided	.

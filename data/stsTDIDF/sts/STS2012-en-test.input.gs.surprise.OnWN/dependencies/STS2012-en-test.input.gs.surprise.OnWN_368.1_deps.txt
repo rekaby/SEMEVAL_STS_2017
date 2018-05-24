@@ -1,0 +1,7 @@
+root	ROOT	enjoy
+punct	enjoy	,
+cop	fond	be
+conj	enjoy	fond
+case	approve	of
+cc	of	or
+nmod:of	fond	approve

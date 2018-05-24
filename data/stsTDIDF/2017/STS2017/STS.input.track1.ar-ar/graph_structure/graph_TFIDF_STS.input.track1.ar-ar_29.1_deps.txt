@@ -1,0 +1,13 @@
+towel	a	det
+ROOT	smiling	root
+sisters	her	nmod:poss
+girl	section	nmod:in
+smiling	.	punct
+section	running	acl
+carry	towel	dobj
+carry	while	mark
+carry	sisters	nsubj
+smiling	,	punct
+smiling	girl	nsubj
+section	second	amod
+smiling	carry	advcl

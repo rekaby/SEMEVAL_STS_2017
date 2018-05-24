@@ -1,0 +1,10 @@
+det	player	A
+nsubj	catches	player
+root	ROOT	catches
+det	football	the
+dobj	catches	football
+case	zone	in
+det	zone	the
+compound	zone	end
+nmod:in	catches	zone
+punct	catches	.

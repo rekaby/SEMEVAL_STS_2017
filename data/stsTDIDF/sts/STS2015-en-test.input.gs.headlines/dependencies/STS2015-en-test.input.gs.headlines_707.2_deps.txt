@@ -1,0 +1,8 @@
+root	ROOT	India
+punct	India	,
+compound	agreement	China
+compound	agreement	ink
+root	,	agreement
+case	rivers	on
+compound	rivers	trans-border
+nmod:on	agreement	rivers

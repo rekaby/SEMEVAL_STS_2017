@@ -1,0 +1,10 @@
+doing	man	nsubj
+man	park	nmod:in
+half-pipe	in	case
+beach	in	case
+doing	ollie	dobj
+park	skating	compound
+ollie	an	det
+half-pipe	beach	nmod:in_front_of
+half-pipe	a	det
+doing	half-pipe	nmod:in

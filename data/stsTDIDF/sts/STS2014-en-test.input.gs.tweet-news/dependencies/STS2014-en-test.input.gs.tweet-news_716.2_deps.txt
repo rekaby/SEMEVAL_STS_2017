@@ -1,0 +1,13 @@
+amod	Sense	Common
+root	ROOT	Sense
+punct	Sense	:
+dep	Sense	Selection
+case	Boeing	of
+det	Boeing	the
+nmod:of	Selection	Boeing
+nummod	Boeing	787
+punct	Sense	?-9) compound(Maker-3, s
+compound	Maker	Battery
+nsubj	Raises	Maker
+root	ROOT	Raises
+dobj	Raises	Questions

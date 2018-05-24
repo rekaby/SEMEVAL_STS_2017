@@ -1,0 +1,9 @@
+det	person	A
+root	ROOT	person
+case	surfboard	above
+nmod:poss	surfboard	their
+nmod:above	person	surfboard
+case	water	on
+det	water	the
+nmod:on	surfboard	water
+punct	person	.

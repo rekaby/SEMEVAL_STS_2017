@@ -1,0 +1,7 @@
+root	ROOT	have
+det	taste	a
+amod	taste	distinctive
+cc	distinctive	or
+conj:or	distinctive	characteristic
+dobj	have	taste
+punct	have	.

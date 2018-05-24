@@ -1,0 +1,8 @@
+compound	issues	Maldives
+compound	issues	court
+root	ROOT	issues
+compound	warrant	arrest
+dep	issues	warrant
+case	president	for
+amod	president	former
+nmod:for	warrant	president

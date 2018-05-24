@@ -1,0 +1,15 @@
+compound	President	Mr
+root	ROOT	President
+punct	President	,
+nsubj	wish	I
+acl:relcl	President	wish
+mark	take	to
+xcomp	wish	take
+det	protection	the
+dobj	take	protection
+case	workers	of
+nmod:of	protection	workers
+case	sector	of
+det	sector	the
+nmod:of	workers	sector
+punct	President	.

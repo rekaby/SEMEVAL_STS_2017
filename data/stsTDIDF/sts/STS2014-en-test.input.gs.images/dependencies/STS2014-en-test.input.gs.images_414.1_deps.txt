@@ -1,0 +1,9 @@
+det	airplane	A
+amod	airplane	white
+nsubjpass	parked	airplane
+auxpass	parked	is
+root	ROOT	parked
+case	cement	on
+det	cement	the
+nmod:on	parked	cement
+punct	parked	.

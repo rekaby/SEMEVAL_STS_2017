@@ -1,0 +1,10 @@
+root	ROOT	Form
+det	spiral	a
+dobj	Form	spiral
+cc	spiral	or
+conj:or	spiral	move
+case	course	in
+det	course	a
+compound	course	spiral
+nmod:in	spiral	course
+punct	Form	.

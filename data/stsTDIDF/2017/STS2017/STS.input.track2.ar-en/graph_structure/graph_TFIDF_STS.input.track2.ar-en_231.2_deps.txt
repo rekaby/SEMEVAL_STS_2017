@@ -1,0 +1,9 @@
+hands	wheel	nmod:on
+wheel	steering	amod
+driving	man	nsubj
+hands	both	cc:preconj
+driving	hands	nmod:with
+wheel	on	case
+man	Black	amod
+ROOT	driving	root
+driving	.	punct

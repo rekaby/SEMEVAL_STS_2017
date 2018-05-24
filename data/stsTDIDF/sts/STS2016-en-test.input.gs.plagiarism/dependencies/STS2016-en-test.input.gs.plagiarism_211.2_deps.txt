@@ -1,0 +1,10 @@
+nsubj	concept	Inheritance
+cop	concept	is
+det	concept	a
+amod	concept	basic
+root	ROOT	concept
+case	object	in
+nmod:in	concept	object
+amod	programming	oriented
+dep	object	programming
+punct	concept	.

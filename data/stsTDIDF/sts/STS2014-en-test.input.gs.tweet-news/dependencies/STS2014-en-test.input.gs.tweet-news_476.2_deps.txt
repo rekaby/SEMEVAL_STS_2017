@@ -1,0 +1,12 @@
+root	ROOT	ArtsBeat
+punct	ArtsBeat	:
+punct	Set	`
+compound	Men	Mad
+nsubj	Set	Men
+case	Men	'
+dep	ArtsBeat	Set
+case	Return	to
+nmod:to	Set	Return
+case	April	on
+nmod:on	Return	April
+dobj	Set	7

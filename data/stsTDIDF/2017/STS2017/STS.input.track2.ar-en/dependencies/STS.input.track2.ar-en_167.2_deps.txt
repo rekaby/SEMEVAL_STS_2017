@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+case	dog	with
+det	dog	a
+amod	dog	small
+nmod:with	man	dog
+punct	man	.

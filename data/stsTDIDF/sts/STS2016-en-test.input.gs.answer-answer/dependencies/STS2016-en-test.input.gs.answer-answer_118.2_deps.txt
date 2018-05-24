@@ -1,0 +1,9 @@
+nsubj	work	You
+dep	work	do
+neg	do	n't
+punct	work	,
+nsubj	work	it
+aux	work	will
+neg	work	not
+root	ROOT	work
+punct	work	.

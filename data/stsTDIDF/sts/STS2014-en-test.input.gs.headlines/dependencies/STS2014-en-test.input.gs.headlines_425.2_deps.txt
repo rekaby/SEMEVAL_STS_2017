@@ -1,0 +1,9 @@
+compound	release	Bedouin
+root	ROOT	release
+nummod	Britons	two
+nsubj	seized	Britons
+acl:relcl	release	seized
+case	Sinai	in
+nmod:poss	Sinai	Egypt
+case	Egypt	's
+nmod:in	seized	Sinai

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	shopping	man
+aux	shopping	is
+root	ROOT	shopping
+case	middle	in
+det	middle	the
+nmod:in	shopping	middle
+punct	shopping	.

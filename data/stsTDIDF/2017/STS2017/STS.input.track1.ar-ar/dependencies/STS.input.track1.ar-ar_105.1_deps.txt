@@ -1,0 +1,10 @@
+nsubj	part	Fire
+cop	part	is
+root	ROOT	part
+case	show	of
+det	show	the
+nmod:of	part	show
+case	streets	for
+compound	streets	exhibitors
+nmod:for	show	streets
+punct	part	.

@@ -1,0 +1,15 @@
+case	items	Excluding
+amod	items	one-time
+nmod:excluding	enjoyed	items
+punct	enjoyed	,
+det	company	the
+nsubj	enjoyed	company
+root	ROOT	enjoyed
+det	profit	a
+dobj	enjoyed	profit
+case	cents	of
+nummod	cents	6
+nmod:of	profit	cents
+det	share	a
+nmod:npmod	cents	share
+punct	enjoyed	.

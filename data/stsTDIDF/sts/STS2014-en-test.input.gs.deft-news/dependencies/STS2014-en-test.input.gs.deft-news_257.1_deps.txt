@@ -1,0 +1,7 @@
+det	meeting	the
+nsubj	long	meeting
+cop	long	was
+nummod	days	3
+nmod:npmod	long	days
+root	ROOT	long
+punct	long	.

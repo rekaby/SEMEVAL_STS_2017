@@ -1,0 +1,5 @@
+nsubj	stripped	Armstrong
+root	ROOT	stripped
+case	medal	of
+compound	medal	Olympic
+nmod:of	stripped	medal

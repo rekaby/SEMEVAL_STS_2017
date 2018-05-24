@@ -1,0 +1,11 @@
+nsubj	reaches	Greece
+root	ROOT	reaches
+dobj	reaches	agreement
+case	troika	with
+nmod:with	agreement	troika
+punct	reaches	,
+compound	tranche	bailout
+nsubj	expected	tranche
+parataxis	reaches	expected
+case	days	within
+nmod:within	expected	days

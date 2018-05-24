@@ -1,0 +1,14 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	guitar	a
+dobj	playing	guitar
+mark	plays	while
+nsubj	plays	another
+advcl	playing	plays
+det	drums	the
+dobj	plays	drums
+case	him	behind
+nmod:behind	plays	him
+punct	playing	.

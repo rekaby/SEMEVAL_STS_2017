@@ -1,0 +1,8 @@
+amod	killer	Arrested
+amod	killer	Russian
+nsubj	denies	killer
+root	ROOT	denies
+dobj	denies	ties
+case	Pussy	to
+nmod:to	ties	Pussy
+dep	ties	Riot

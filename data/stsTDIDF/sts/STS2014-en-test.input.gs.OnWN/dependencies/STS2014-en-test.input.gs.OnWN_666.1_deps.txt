@@ -1,0 +1,7 @@
+det	state	the
+root	ROOT	state
+mark	having	of
+acl	state	having
+dobj	having	options
+punct	state	,
+appos	state	alternatives

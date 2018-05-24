@@ -1,0 +1,11 @@
+nsubj	ask	demand
+punct	ask	,
+root	ROOT	ask
+mark	take	for
+punct	take	,
+cc	take	or
+ccomp	ask	take
+advmod	due	as
+nmod:poss	due	one
+case	one	's
+xcomp	take	due

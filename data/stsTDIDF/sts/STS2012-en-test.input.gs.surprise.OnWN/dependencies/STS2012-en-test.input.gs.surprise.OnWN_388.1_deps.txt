@@ -1,0 +1,5 @@
+amod	call	characteristic
+root	ROOT	call
+case	animal	of
+det	animal	an
+nmod:of	call	animal

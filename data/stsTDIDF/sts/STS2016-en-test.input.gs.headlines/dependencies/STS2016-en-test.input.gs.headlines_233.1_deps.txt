@@ -1,0 +1,8 @@
+compound	chief	UN
+nsubj	welcomes	chief
+root	ROOT	welcomes
+amod	elections	peaceful
+amod	elections	presidential
+dobj	welcomes	elections
+case	Guinea	in
+nmod:in	welcomes	Guinea

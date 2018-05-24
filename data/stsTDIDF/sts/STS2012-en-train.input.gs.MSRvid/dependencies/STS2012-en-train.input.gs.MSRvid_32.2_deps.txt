@@ -1,0 +1,7 @@
+det	man	A
+nsubj	singing	man
+cop	singing	is
+root	ROOT	singing
+case	stage	on
+nmod:on	singing	stage
+punct	singing	.

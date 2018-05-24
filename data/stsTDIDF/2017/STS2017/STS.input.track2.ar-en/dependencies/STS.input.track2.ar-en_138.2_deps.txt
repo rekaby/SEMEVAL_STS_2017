@@ -1,0 +1,16 @@
+det	girl	A
+amod	girl	small
+nsubj	inflated	girl
+acl	girl	wearing
+det	shirt	a
+amod	shirt	red
+dobj	wearing	shirt
+cc	shirt	and
+conj:and	shirt	jacket
+root	ROOT	inflated
+dobj	inflated	bubble
+case	stick	in
+det	stick	a
+amod	stick	big
+nmod:in	inflated	stick
+punct	inflated	.

@@ -1,0 +1,10 @@
+root	ROOT	Scores
+punct	killed	`
+acl	Scores	killed
+punct	killed	'
+case	raid	in
+compound	raid	Boko
+compound	raid	Haram
+nmod:in	killed	raid
+case	Nigeria	in
+nmod:in	raid	Nigeria

@@ -1,0 +1,9 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	mushrooms
+case	knife	with
+det	knife	a
+nmod:with	cutting	knife
+punct	cutting	.

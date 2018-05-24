@@ -1,0 +1,11 @@
+det	institute	the
+amod	institute	international
+nsubj	located	institute
+case	studies	for
+amod	studies	strategic
+nmod:for	institute	studies
+cop	located	is
+root	ROOT	located
+case	london	in
+nmod:in	located	london
+punct	located	.

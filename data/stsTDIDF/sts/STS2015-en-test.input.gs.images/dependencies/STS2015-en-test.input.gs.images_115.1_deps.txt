@@ -1,0 +1,14 @@
+det	dog	A
+amod	dog	blonde
+nsubj	catching	dog
+aux	catching	is
+root	ROOT	catching
+det	ball	a
+dobj	catching	ball
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	catching	mouth
+case	snow	in
+det	snow	the
+nmod:in	mouth	snow
+punct	catching	.

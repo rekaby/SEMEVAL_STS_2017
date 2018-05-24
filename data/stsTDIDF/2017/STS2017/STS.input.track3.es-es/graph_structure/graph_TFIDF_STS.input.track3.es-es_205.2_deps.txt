@@ -1,0 +1,7 @@
+tries	move	xcomp
+dog	snowy	amod
+belly	his	nmod:poss
+dog	up	amod
+belly	to	case
+up	belly	nmod:to
+tries	dog	nsubj

@@ -1,0 +1,11 @@
+nummod	men	Two
+nsubj	looking	men
+case	fleeces	in
+nmod:in	men	fleeces
+cc	fleeces	and
+conj:and	fleeces	hats
+root	ROOT	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	looking	.

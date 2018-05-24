@@ -1,0 +1,15 @@
+nummod	men	Three
+amod	men	young
+nsubj	run	men
+root	ROOT	run
+punct	run	,
+conj:and	run	jump
+punct	run	,
+cc	run	and
+conj:and	run	kick
+compound:prt	kick	off
+case	machine	of
+det	machine	a
+compound	machine	Coke
+nmod:of	kick	machine
+punct	run	.

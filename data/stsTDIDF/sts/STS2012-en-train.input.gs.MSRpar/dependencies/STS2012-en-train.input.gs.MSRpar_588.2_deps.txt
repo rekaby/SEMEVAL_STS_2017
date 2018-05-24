@@ -1,0 +1,13 @@
+compound	Kerrigan	Ernst
+cc	Ernst	&
+conj:&	Ernst	Young
+compound	Kerrigan	spokesman
+compound	Kerrigan	Kenneth
+nsubj	said	Kerrigan
+root	ROOT	said
+det	firm	the
+nsubj	admits	firm
+ccomp	said	admits
+neg	wrongdoing	no
+dobj	admits	wrongdoing
+punct	said	.

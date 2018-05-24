@@ -1,0 +1,8 @@
+compound	clash	South
+compound	clash	Africa
+compound	clash	mine
+nsubj	kills	clash
+root	ROOT	kills
+case	least	at
+nmod:at	kills	least
+dobj	kills	30

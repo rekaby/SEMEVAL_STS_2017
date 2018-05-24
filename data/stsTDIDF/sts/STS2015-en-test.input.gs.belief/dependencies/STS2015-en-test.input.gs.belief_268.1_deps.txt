@@ -1,0 +1,16 @@
+expl	are	there
+root	ROOT	are
+advmod	more	far
+advmod	important	more
+amod	reasons	important
+amod	reasons	political
+cc	political	and
+conj:and	political	economical
+nsubj	are	reasons
+case	intervention	for
+amod	intervention	military
+nmod:for	reasons	intervention
+cc	intervention	or
+amod	sanctions	political
+conj:or	intervention	sanctions
+punct	are	.

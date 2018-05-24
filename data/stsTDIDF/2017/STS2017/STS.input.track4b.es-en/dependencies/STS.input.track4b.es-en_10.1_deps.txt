@@ -1,0 +1,9 @@
+det	few	A
+nsubj	become	few
+case	people	of
+det	people	these
+nmod:of	few	people
+aux	become	will
+root	ROOT	become
+xcomp	become	heroes
+punct	become	.

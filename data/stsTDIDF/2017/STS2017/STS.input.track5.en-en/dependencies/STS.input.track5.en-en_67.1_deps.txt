@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	looks	woman
+root	ROOT	looks
+case	duck	at
+det	duck	a
+nmod:at	looks	duck
+mark	walks	as
+nsubj	walks	she
+advcl	looks	walks
+case	it	behind
+nmod:behind	walks	it
+punct	looks	.

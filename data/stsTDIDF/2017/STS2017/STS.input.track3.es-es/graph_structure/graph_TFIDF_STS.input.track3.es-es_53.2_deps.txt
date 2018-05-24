@@ -1,0 +1,9 @@
+ghost	a	det
+standing	but	cc
+ghost	she	nsubj
+see	ghost	advcl
+standing	woman	nsubj
+ghost	is	cop
+standing	see	conj:but
+standing	crowd	nmod:in
+ghost	because	mark

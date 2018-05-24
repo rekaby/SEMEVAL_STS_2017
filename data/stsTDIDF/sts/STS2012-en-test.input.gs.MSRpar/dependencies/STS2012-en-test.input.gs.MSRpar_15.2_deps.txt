@@ -1,0 +1,17 @@
+nsubj	has	He
+ccomp	said	has
+det	reputation	a
+advmod	good	very
+amod	reputation	good
+dobj	has	reputation
+punct	said	,
+punct	said	''
+compound	Niemann	RT
+compound	Niemann	Jones
+compound	Niemann	analyst
+compound	Niemann	Juli
+nsubj	said	Niemann
+root	ROOT	said
+case	Grant	of
+nmod:of	said	Grant
+punct	said	.

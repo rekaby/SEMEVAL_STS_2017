@@ -1,0 +1,9 @@
+det	man	A
+nsubj	rode	man
+root	ROOT	rode
+det	elevator	the
+dobj	rode	elevator
+case	surface	to
+det	surface	the
+nmod:to	rode	surface
+punct	rode	.

@@ -1,0 +1,10 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	talking
+case	other	next
+mwe	next	to
+det	other	each
+nmod:next_to	talking	other
+punct	group	.

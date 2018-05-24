@@ -1,0 +1,10 @@
+amod	Sentenced	British
+compound	Sentenced	Grandmother
+root	ROOT	Sentenced
+case	Death	to
+nmod:to	Sentenced	Death
+case	Cocaine	for
+compound	Cocaine	Smuggling
+nmod:for	Death	Cocaine
+case	Bali	Into
+nmod:into	Cocaine	Bali

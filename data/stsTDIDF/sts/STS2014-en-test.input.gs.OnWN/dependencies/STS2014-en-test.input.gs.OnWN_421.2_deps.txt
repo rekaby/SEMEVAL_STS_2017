@@ -1,0 +1,10 @@
+mark	bring	to
+root	ROOT	bring
+cc	bring	or
+conj:or	bring	combine
+advmod	bring	together
+cc	bring	or
+case	something	with
+conj:or	bring	something
+advmod	something	else
+punct	bring	.

@@ -1,0 +1,15 @@
+nsubj	renders	This
+root	ROOT	renders
+det	answer	the
+dobj	renders	answer
+dep	answer	perceptual
+cc	perceptual	rather
+mwe	rather	than
+conj:negcc	perceptual	factual
+cc	renders	and
+cop	flag	is
+advmod	flag	often
+det	flag	a
+amod	flag	red
+conj:and	renders	flag
+punct	renders	.

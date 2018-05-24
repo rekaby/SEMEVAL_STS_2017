@@ -1,0 +1,14 @@
+root	ROOT	Dot
+compound	Blog	Earth
+dobj	Dot	Blog
+punct	Dot	:
+compound	Report	Draft
+compound	Report	Federal
+dep	Dot	Report
+acl	Report	Sees
+amod	Impacts	Big
+compound	Impacts	U.S.
+dobj	Sees	Impacts
+case	Warming	from
+amod	Warming	Global
+nmod:from	Sees	Warming

@@ -1,0 +1,8 @@
+root	ROOT	equip
+case	armed	with
+nmod:with	equip	armed
+cc	armed	and
+amod	vehicles	armored
+compound	vehicles	motor
+conj:and	armed	vehicles
+punct	equip	.

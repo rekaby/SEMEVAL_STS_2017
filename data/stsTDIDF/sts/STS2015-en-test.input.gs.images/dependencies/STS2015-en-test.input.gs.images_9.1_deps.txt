@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	riding	boy
+case	sled	in
+det	sled	a
+amod	sled	red
+nmod:in	boy	sled
+aux	riding	is
+root	ROOT	riding
+compound:prt	riding	down
+det	hill	the
+dobj	riding	hill
+punct	riding	.

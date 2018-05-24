@@ -1,0 +1,17 @@
+det	form	a
+root	ROOT	form
+case	foot	of
+nmod:of	form	foot
+acl	foot	torture
+case	which	in
+nmod:in	encased	which
+det	feet	the
+nsubjpass	encased	feet
+auxpass	encased	are
+ccomp	torture	encased
+case	iron	in
+nmod:in	encased	iron
+cc	encased	and
+advmod	crushed	slowly
+conj:and	encased	crushed
+punct	form	.

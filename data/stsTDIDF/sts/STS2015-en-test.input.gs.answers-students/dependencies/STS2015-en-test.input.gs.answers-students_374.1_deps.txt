@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	terminals	between
+det	terminals	the
+nummod	terminals	two
+compound	terminals	bulb
+nmod:between	gap	terminals

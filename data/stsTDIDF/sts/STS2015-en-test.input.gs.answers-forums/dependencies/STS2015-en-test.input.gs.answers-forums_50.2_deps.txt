@@ -1,0 +1,15 @@
+root	ROOT	Wrap
+advmod	plastic	well
+case	plastic	in
+nmod:in	Wrap	plastic
+punct	individually	-LRB-
+dep	Wrap	individually
+punct	individually	-RRB-
+cc	Wrap	and
+advmod	put	then
+conj:and	Wrap	put
+case	bag	in
+det	bag	a
+compound	bag	freezer
+nmod:in	put	bag
+punct	Wrap	.

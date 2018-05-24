@@ -1,0 +1,13 @@
+mark	closed	Because
+det	path	the
+nsubjpass	closed	path
+case	battery	between
+det	battery	the
+nmod:between	path	battery
+cc	battery	and
+det	bulb	the
+amod	bulb	light
+conj:and	battery	bulb
+auxpass	closed	is
+neg	closed	not
+root	ROOT	closed

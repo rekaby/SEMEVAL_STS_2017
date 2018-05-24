@@ -1,0 +1,17 @@
+case	lead	Following
+nmod:poss	lead	California
+case	California	's
+nmod:following	passed	lead
+punct	passed	,
+amod	states	several
+nsubj	passed	states
+cc	states	and
+det	government	the
+amod	government	federal
+conj:and	states	government
+root	ROOT	passed
+amod	bans	similar
+cc	similar	or
+conj:or	similar	tougher
+dobj	passed	bans
+punct	passed	.

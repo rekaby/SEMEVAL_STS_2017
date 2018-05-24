@@ -1,0 +1,10 @@
+det	couple	A
+nsubj	posing	couple
+root	ROOT	posing
+case	motorcycle	on
+det	motorcycle	a
+amod	motorcycle	red
+cc	red	and
+conj:and	red	yellow
+nmod:on	posing	motorcycle
+punct	posing	.

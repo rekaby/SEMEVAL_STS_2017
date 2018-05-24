@@ -1,0 +1,10 @@
+det	man	A
+amod	man	young
+root	ROOT	man
+acl	man	riding
+nmod:poss	bicycle	his
+dobj	riding	bicycle
+case	street	in
+det	street	the
+nmod:in	riding	street
+punct	man	.

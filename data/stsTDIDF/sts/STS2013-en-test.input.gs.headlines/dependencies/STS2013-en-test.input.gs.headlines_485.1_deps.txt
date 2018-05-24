@@ -1,0 +1,8 @@
+compound	sets	Man
+root	ROOT	sets
+nmod:npmod	sets	himself
+case	fire	on
+nmod:on	sets	fire
+case	trial	at
+compound	trial	Breivik
+nmod:at	fire	trial

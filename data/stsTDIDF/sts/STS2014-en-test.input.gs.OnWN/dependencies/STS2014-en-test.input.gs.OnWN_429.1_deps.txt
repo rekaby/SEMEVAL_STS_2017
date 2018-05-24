@@ -1,0 +1,5 @@
+advmod	grapple	physically
+root	ROOT	grapple
+case	opponent	with
+det	opponent	an
+nmod:with	grapple	opponent

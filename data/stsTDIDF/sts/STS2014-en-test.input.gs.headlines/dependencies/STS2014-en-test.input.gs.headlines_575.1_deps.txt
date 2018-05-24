@@ -1,0 +1,7 @@
+nsubj	agree	North
+punct	North	,
+compound	Korea	South
+appos	North	Korea
+root	ROOT	agree
+case	talks	to
+nmod:to	agree	talks

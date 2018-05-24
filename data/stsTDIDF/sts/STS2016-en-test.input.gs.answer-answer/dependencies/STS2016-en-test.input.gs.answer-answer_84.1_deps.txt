@@ -1,0 +1,12 @@
+discourse	have	Yes
+punct	have	,
+nsubj	have	you
+root	ROOT	have
+mark	file	to
+xcomp	have	file
+det	return	a
+compound	return	tax
+dobj	file	return
+case	Canada	in
+nmod:in	return	Canada
+punct	have	.

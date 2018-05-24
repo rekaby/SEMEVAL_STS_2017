@@ -1,0 +1,7 @@
+nsubj	calls	Obama
+root	ROOT	calls
+case	front	for
+amod	front	international
+nmod:for	calls	front
+nmod	calls	against
+dep	calls	IS

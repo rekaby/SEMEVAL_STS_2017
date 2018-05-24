@@ -1,0 +1,9 @@
+compound	flash	Heat
+root	ROOT	flash
+acl	flash	detected
+case	time	at
+nmod:at	detected	time
+case	crash	of
+amod	crash	Russian
+compound	crash	airliner
+nmod:of	time	crash

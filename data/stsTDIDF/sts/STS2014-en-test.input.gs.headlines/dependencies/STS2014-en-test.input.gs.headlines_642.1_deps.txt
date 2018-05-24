@@ -1,0 +1,6 @@
+nsubj	killed	Twelve
+root	ROOT	killed
+mark	raid	as
+nsubj	raid	gunmen
+advcl	killed	raid
+dobj	raid	village

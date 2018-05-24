@@ -1,0 +1,10 @@
+det	boy	A
+amod	boy	young
+root	ROOT	boy
+acl	boy	riding
+det	bike	a
+dobj	riding	bike
+case	road	on
+det	road	a
+compound	road	brick
+nmod:on	riding	road

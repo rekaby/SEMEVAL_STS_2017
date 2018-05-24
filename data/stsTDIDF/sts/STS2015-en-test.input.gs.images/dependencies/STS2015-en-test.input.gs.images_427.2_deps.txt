@@ -1,0 +1,11 @@
+nummod	girls	Two
+amod	girls	young
+nsubj	wearing	girls
+root	ROOT	wearing
+dobj	wearing	skirts
+aux	playing	are
+advcl	wearing	playing
+case	garden	in
+det	garden	a
+nmod:in	playing	garden
+punct	wearing	.

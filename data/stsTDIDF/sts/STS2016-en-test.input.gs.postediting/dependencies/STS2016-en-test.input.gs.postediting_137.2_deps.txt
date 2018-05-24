@@ -1,0 +1,13 @@
+det	choice	The
+root	ROOT	choice
+case	mode	of
+nmod:of	choice	mode
+case	use	of
+nmod:of	mode	use
+cc	use	and
+conj:and	use	requirements
+case	owner	of
+det	owner	the
+compound	owner	future
+nmod:of	use	owner
+punct	choice	.

@@ -1,0 +1,26 @@
+compound	Books	NYT
+root	ROOT	Books
+punct	Books	-
+dep	Books	Books
+case	Times	of
+det	Times	The
+nmod:of	Books	Times
+punct	Books	:
+punct	Books	?-9) det(Swimmer-3, The
+compound	Swimmer	River
+root	ROOT	Swimmer
+punct	Swimmer	,
+punct	Swimmer	?-5) det(pair-2, a
+root	ROOT	pair
+case	Novellas	of
+nmod:of	pair	Novellas
+case	Harrison	by
+compound	Harrison	Jim
+nmod:by	pair	Harrison
+punct	pair	:
+punct	pair	?-9) det(Swimmer-3, The
+compound	Swimmer	River
+root	ROOT	Swimmer
+punct	Swimmer	,
+punct	Swimmer	?-5) root(ROOT-0, Ji
+punct	Ji	...

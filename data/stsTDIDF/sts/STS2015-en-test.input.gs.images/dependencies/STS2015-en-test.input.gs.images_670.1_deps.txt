@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	brown
+root	ROOT	dog
+acl	dog	carrying
+det	stick	a
+dobj	carrying	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	carrying	mouth
+punct	dog	.

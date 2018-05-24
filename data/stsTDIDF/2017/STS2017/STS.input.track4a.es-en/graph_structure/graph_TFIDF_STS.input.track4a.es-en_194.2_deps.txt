@@ -1,0 +1,12 @@
+top	men	dobj
+men	sitting	acl
+top	pink	amod
+top	in	case
+men	walking	amod
+Woman	.	punct
+ROOT	Woman	root
+men	past	amod
+steps	on	case
+men	3	nummod
+sitting	steps	nmod:on
+Woman	top	nmod:in

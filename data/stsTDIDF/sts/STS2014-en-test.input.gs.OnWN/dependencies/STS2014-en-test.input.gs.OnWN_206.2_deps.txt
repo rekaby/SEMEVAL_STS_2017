@@ -1,0 +1,16 @@
+root	ROOT	one
+case	parts	of
+amod	parts	several
+nmod:of	one	parts
+cc	parts	or
+conj:or	parts	pieces
+nsubj	fit	that
+acl:relcl	parts	fit
+case	others	with
+nmod:with	fit	others
+mark	constitute	to
+xcomp	fit	constitute
+det	object	a
+amod	object	whole
+dobj	constitute	object
+punct	one	.

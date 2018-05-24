@@ -1,0 +1,11 @@
+det	man	The
+nsubj	riding	man
+acl	man	wearing
+det	helmet	a
+amod	helmet	blue
+dobj	wearing	helmet
+aux	riding	is
+root	ROOT	riding
+det	Polaris	a
+dobj	riding	Polaris
+punct	riding	.

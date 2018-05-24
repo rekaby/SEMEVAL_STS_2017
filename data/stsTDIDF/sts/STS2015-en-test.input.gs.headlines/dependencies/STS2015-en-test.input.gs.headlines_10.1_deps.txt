@@ -1,0 +1,7 @@
+compound	PM	Israel
+nsubj	accuses	PM
+root	ROOT	accuses
+compound	president	Iran
+dobj	accuses	president
+case	hypocrisy	of
+nmod:of	president	hypocrisy

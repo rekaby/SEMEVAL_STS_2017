@@ -1,0 +1,11 @@
+det	protester	A
+amod	protester	young
+nsubj	holds	protester
+root	ROOT	holds
+compound:prt	holds	up
+det	sign	a
+dobj	holds	sign
+case	war	against
+det	war	the
+nmod:against	sign	war
+punct	holds	.

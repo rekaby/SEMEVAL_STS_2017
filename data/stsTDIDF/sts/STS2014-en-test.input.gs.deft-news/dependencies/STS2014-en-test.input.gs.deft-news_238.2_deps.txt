@@ -1,0 +1,9 @@
+nsubj	suspects	tibet
+root	ROOT	suspects
+amod	government	chinese
+dobj	suspects	government
+mark	launching	of
+acl	government	launching
+det	attack	the
+dobj	launching	attack
+punct	suspects	.

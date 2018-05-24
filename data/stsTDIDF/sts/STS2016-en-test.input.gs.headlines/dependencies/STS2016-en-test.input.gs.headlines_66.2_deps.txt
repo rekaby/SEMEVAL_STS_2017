@@ -1,0 +1,12 @@
+nummod	teenagers	Two
+root	ROOT	teenagers
+acl	teenagers	arrested
+case	string	after
+nmod:after	arrested	string
+case	attacks	of
+compound	attacks	sex
+nmod:of	string	attacks
+case	campus	on
+compound	campus	Manchester
+compound	campus	University
+nmod:on	attacks	campus

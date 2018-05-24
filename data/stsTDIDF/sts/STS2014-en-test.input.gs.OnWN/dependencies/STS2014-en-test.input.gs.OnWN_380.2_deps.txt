@@ -1,0 +1,12 @@
+root	ROOT	take
+compound:prt	take	away
+det	force	the
+amod	force	legal
+dobj	take	force
+conj:or	force	force
+case	ineffective	of
+cc	of	or
+conj:or	of	render
+nmod:of	force	ineffective
+nmod:render	force	ineffective
+punct	take	.

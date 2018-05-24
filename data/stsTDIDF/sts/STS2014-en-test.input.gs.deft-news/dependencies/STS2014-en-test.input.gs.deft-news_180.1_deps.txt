@@ -1,0 +1,10 @@
+compound	traffickers	drug
+nsubj	face	traffickers
+root	ROOT	face
+det	penalty	the
+compound	penalty	death
+dobj	face	penalty
+case	law	under
+amod	law	tajik
+nmod:under	face	law
+punct	face	.

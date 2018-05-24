@@ -1,0 +1,15 @@
+case	experiment	In
+nmod:poss	experiment	their
+nmod:in	bid	experiment
+punct	bid	,
+nummod	groups	three
+nsubj	bid	groups
+root	ROOT	bid
+case	partner	against
+det	partner	a
+nmod:against	bid	partner
+punct	partner	,
+case	circumstances	in
+amod	circumstances	different
+nmod:in	partner	circumstances
+punct	bid	.

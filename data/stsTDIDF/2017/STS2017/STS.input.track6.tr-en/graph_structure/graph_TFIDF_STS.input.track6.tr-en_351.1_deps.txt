@@ -1,0 +1,14 @@
+girl	shirt	nmod:in
+shirt	gray	amod
+shirt	hair	conj:and
+lawn	on	case
+bound	her	nmod:around
+relaxes	lawn	nmod:on
+relaxes	.	punct
+relaxes	bound	advcl
+hair	brown	amod
+lawn	the	det
+relaxes	girl	nsubj
+ROOT	relaxes	root
+bound	as	mark
+bound	dogs	nsubj

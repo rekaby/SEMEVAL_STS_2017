@@ -1,0 +1,7 @@
+compound	protesters	Moscow
+nsubj	demand	protesters
+root	ROOT	demand
+compound	Putin	Vladimir
+nmod:poss	resignation	Putin
+case	Putin	's
+dobj	demand	resignation

@@ -1,0 +1,4 @@
+root	ROOT	#GunReform
+case	Generation	for
+det	Generation	a
+nmod:for	#GunReform	Generation

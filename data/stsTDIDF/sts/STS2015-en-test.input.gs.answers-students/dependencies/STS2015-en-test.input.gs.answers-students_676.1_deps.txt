@@ -1,0 +1,16 @@
+compound	A	Bulb
+nsubj	path	A
+cc	A	and
+compound	C	bulb
+conj:and	A	C
+cop	path	are
+advmod	path	still
+case	path	on
+det	path	a
+amod	path	closed
+root	ROOT	path
+nsubj	contains	that
+acl:relcl	path	contains
+det	battery	the
+dobj	contains	battery
+punct	path	.

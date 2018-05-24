@@ -1,0 +1,7 @@
+compound	bomb	Car
+nsubj	kills	bomb
+root	ROOT	kills
+dobj	kills	20
+case	Syria	in
+amod	Syria	northwest
+nmod:in	kills	Syria

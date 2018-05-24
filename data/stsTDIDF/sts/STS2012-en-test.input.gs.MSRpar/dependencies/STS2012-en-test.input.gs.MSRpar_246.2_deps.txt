@@ -1,0 +1,15 @@
+case	Tuesday	On
+nmod:on	picked	Tuesday
+punct	picked	,
+nsubj	picked	he
+root	ROOT	picked
+compound:prt	picked	up
+det	endorsement	the
+dobj	picked	endorsement
+case	Steelworkers	of
+det	Steelworkers	the
+compound	Steelworkers	United
+nmod:of	endorsement	Steelworkers
+case	America	of
+nmod:of	Steelworkers	America
+punct	picked	.

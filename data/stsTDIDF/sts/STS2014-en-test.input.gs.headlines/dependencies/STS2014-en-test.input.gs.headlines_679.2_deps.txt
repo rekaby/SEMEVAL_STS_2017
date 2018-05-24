@@ -1,0 +1,5 @@
+compound	shares	KL
+root	ROOT	shares
+acl	shares	mixed
+case	mid-day	at
+nmod:at	mixed	mid-day

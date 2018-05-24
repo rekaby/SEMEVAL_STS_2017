@@ -1,0 +1,8 @@
+compound	crisis	Algeria
+compound	crisis	hostage
+nsubj	ends	crisis
+root	ROOT	ends
+punct	ends	;
+compound	toll	death
+conj	ends	toll
+amod	toll	unclear

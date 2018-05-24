@@ -1,0 +1,7 @@
+attempts	.	punct
+player	football	compound
+tackle	a	det
+ROOT	attempts	root
+player	A	det
+attempts	player	nsubj
+attempts	tackle	dobj

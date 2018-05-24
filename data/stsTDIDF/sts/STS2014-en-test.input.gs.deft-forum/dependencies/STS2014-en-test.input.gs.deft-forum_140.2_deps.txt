@@ -1,0 +1,15 @@
+nsubj	logic	That
+cop	logic	's
+amod	logic	simple
+root	ROOT	logic
+mark	bollocks	If
+nsubj	bollocks	it
+cop	bollocks	was
+neg	bollocks	n't
+advcl	logic	bollocks
+nsubj	homeopathy	it
+aux	homeopathy	would
+neg	homeopathy	n't
+cop	homeopathy	be
+ccomp	bollocks	homeopathy
+punct	logic	.

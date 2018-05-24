@@ -1,0 +1,10 @@
+root	ROOT	occupy
+case	fashion	in
+det	fashion	an
+amod	fashion	agreeable
+punct	agreeable	,
+conj:or	agreeable	entertaining
+cc	agreeable	or
+conj:or	agreeable	pleasant
+nmod:in	occupy	fashion
+punct	occupy	.

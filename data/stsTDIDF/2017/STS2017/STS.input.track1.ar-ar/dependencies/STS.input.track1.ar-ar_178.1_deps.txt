@@ -1,0 +1,5 @@
+nsubj	learn	People
+root	ROOT	learn
+mark	swim	to
+xcomp	learn	swim
+punct	learn	.

@@ -1,0 +1,13 @@
+nsubj	say	I
+aux	say	'd
+root	ROOT	say
+nsubj	need	you
+ccomp	say	need
+mark	distract	to
+xcomp	need	distract
+dobj	distract	yourself
+case	picture	from
+det	picture	the
+amod	picture	bigger
+nmod:from	distract	picture
+punct	say	.

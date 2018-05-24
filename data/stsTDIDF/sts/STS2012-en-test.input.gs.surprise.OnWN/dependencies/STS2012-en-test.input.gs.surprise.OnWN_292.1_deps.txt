@@ -1,0 +1,9 @@
+root	ROOT	move
+advmod	move	freely
+punct	space	-LRB-
+advmod	space	usually
+case	space	within
+det	space	a
+amod	space	bounded
+appos	move	space
+punct	space	-RRB-

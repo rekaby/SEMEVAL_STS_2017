@@ -1,0 +1,7 @@
+det	squirrel	A
+nsubj	moving	squirrel
+aux	moving	is
+root	ROOT	moving
+case	circles	in
+nmod:in	moving	circles
+punct	moving	.

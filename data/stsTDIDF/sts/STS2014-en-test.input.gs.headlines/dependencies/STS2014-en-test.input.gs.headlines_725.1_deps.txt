@@ -1,0 +1,6 @@
+nummod	bomb	Three
+amod	bomb	dead
+case	marathon	in
+compound	marathon	US
+nmod:in	dead	marathon
+root	ROOT	bomb

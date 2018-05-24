@@ -1,0 +1,11 @@
+det	man	A
+nsubj	carrying	man
+aux	carrying	is
+root	ROOT	carrying
+det	girl	a
+dobj	carrying	girl
+case	pool	in
+det	pool	a
+compound	pool	swimming
+nmod:in	carrying	pool
+punct	carrying	.

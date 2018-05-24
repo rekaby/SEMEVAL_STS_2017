@@ -1,0 +1,9 @@
+det	quantity	a
+nsubj	added	quantity
+case	money	of
+nmod:of	quantity	money
+root	ROOT	added
+case	account	to
+det	account	a
+compound	account	bank
+nmod:to	added	account

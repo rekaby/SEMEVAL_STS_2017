@@ -1,0 +1,9 @@
+compound	drama	Hostage
+nsubj	drags	drama
+root	ROOT	drags
+case	shooting	on
+mark	shooting	after
+compound	bus	Alabama
+compound	bus	school
+nsubj	shooting	bus
+nmod:on	drags	shooting

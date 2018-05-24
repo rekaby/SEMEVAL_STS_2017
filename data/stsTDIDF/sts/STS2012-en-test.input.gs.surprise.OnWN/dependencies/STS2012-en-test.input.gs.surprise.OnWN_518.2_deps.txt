@@ -1,0 +1,9 @@
+cop	incompatible	be
+root	ROOT	incompatible
+punct	incompatible	;
+aux	come	be
+cc	come	or
+parataxis	incompatible	come
+case	conflict	into
+nmod:into	come	conflict
+punct	incompatible	.

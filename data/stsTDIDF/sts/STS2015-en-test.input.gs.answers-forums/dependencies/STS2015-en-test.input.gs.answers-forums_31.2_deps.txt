@@ -1,0 +1,18 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	mean	you
+ccomp	think	mean
+mark	ask	to
+xcomp	mean	ask
+punct	ask	,
+punct	ask	``
+dobj	ask	What
+cop	What	is
+det	time	the
+amod	time	local
+amod	time	sidereal
+nsubj	What	time
+case	Greenwhich	of
+nmod:of	time	Greenwhich
+punct	think	?
+punct	think	''-18) root(ROOT-0, .

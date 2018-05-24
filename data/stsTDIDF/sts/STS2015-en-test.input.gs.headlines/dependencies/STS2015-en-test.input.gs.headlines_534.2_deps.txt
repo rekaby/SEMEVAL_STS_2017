@@ -1,0 +1,5 @@
+amod	stocks	Chinese
+nsubj	lower	stocks
+advmod	lower	close
+root	ROOT	lower
+nmod:tmod	lower	Thursday

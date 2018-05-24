@@ -1,0 +1,10 @@
+root	ROOT	Doctor
+cc	Doctor	and
+conj:and	Doctor	Patient
+punct	Doctor	:
+advmod	Returns	When
+det	Doctor	the
+nsubj	Returns	Doctor
+dep	Doctor	Returns
+case	Doctoring	to
+nmod:to	Returns	Doctoring

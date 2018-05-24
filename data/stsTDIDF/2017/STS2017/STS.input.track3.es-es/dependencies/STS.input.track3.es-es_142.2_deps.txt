@@ -1,0 +1,10 @@
+det	group	A
+nsubj	enjoying	group
+case	children	of
+compound	children	school
+nmod:of	group	children
+aux	enjoying	are
+root	ROOT	enjoying
+compound	time	story
+dobj	enjoying	time
+punct	enjoying	.

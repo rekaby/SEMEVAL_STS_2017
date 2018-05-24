@@ -1,0 +1,7 @@
+practicing	.	punct
+ROOT	practicing	root
+practicing	musicians	nsubj
+practicing	room	nmod:in
+room	private	amod
+practicing	are	aux
+musicians	The	det

@@ -1,0 +1,10 @@
+compound	Bezos	Jeff
+nsubj	Pays	Bezos
+root	ROOT	Pays
+compound	Million	$
+nummod	$	250
+dobj	Pays	Million
+case	Post	For
+det	Post	The
+compound	Post	Washington
+nmod:for	Pays	Post

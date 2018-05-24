@@ -1,0 +1,9 @@
+det	rhino	A
+compound	rhino	baby
+nsubj	following	rhino
+aux	following	is
+root	ROOT	following
+det	rhino	an
+amod	rhino	adult
+dobj	following	rhino
+punct	following	.

@@ -1,0 +1,6 @@
+amod	Minister	Ukrainian
+compound	Minister	Prime
+nsubj	resigns	Minister
+root	ROOT	resigns
+case	protests	amid
+nmod:amid	resigns	protests

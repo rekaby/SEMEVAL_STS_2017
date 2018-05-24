@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	play	dogs
+root	ROOT	play
+case	outdoors	with
+det	outdoors	each
+amod	outdoors	other
+nmod:with	play	outdoors
+punct	play	.

@@ -1,0 +1,8 @@
+gathers	crowd	nsubj
+speech	for	case
+gathers	.	punct
+gathers	speech	nmod:for
+ROOT	gathers	root
+speech	an	det
+speech	important	amod
+crowd	A	det

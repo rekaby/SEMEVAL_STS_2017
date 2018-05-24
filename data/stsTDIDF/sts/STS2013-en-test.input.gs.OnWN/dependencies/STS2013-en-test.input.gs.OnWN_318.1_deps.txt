@@ -1,0 +1,7 @@
+root	ROOT	amount
+case	time	of
+nmod:of	amount	time
+mark	postponed	that
+nsubjpass	postponed	something
+auxpass	postponed	is
+ccomp	amount	postponed

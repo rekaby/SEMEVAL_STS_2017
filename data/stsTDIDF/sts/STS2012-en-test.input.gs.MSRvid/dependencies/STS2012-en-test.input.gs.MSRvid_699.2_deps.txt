@@ -1,0 +1,9 @@
+det	cheetah	A
+nsubj	chases	cheetah
+root	ROOT	chases
+dobj	chases	prey
+case	field	on
+case	field	across
+det	field	a
+nmod:across	chases	field
+punct	chases	.

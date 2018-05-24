@@ -1,0 +1,12 @@
+det	man	A
+nsubj	back	man
+cop	back	is
+advmod	back	alone
+case	back	on
+det	back	the
+root	ROOT	back
+case	bicycle	of
+det	bicycle	a
+amod	bicycle	tandem
+nmod:of	back	bicycle
+punct	back	.

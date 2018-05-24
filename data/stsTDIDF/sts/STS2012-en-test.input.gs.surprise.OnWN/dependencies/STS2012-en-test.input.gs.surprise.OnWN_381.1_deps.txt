@@ -1,0 +1,12 @@
+cop	sign	Be
+det	sign	a
+root	ROOT	sign
+cc	sign	or
+conj:or	sign	indication
+acl	indication	of
+punct	sign	;
+dep	sign	have
+case	meaning	as
+det	meaning	a
+nmod:as	have	meaning
+punct	sign	.

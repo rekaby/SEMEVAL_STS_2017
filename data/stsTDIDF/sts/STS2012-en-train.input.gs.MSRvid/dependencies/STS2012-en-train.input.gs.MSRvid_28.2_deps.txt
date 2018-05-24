@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	food	woman
+cop	food	is
+amod	food	deep
+compound	food	frying
+root	ROOT	food
+punct	food	.

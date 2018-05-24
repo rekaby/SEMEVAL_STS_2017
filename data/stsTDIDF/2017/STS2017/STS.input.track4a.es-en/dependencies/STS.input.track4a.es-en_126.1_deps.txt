@@ -1,0 +1,9 @@
+det	dancing	A
+amod	dancing	young
+compound	dancing	man
+root	ROOT	dancing
+case	audience	for
+det	audience	a
+amod	audience	small
+nmod:for	dancing	audience
+punct	dancing	.

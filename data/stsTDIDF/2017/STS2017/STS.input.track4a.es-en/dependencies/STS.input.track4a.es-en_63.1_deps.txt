@@ -1,0 +1,8 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	taxi	in
+det	taxi	a
+nmod:in	sitting	taxi
+punct	sitting	.

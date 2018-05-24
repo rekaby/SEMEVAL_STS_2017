@@ -1,0 +1,12 @@
+expl	are	There
+root	ROOT	are
+amod	arguments	many
+nsubj	are	arguments
+case	case	for
+advmod	case	why
+nsubj	case	this
+cop	case	is
+neg	case	not
+det	case	the
+nmod:for	arguments	case
+punct	are	.

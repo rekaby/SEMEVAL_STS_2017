@@ -1,0 +1,8 @@
+boots	not	neg
+boots	is	cop
+boots	her	nmod:poss
+ROOT	boots	root
+girl	Like	case
+boots	girl	nmod:like
+boots	shoe	compound
+boots	.	punct

@@ -1,0 +1,10 @@
+root	ROOT	Doing
+dobj	Doing	Good
+punct	Burnishing	-LRB-
+cc	Burnishing	and
+dep	Good	Burnishing
+compound	#charity	Images
+dep	Images	Too
+punct	Too	-RRB-
+compound	#charity	#celebrity
+dobj	Burnishing	#charity

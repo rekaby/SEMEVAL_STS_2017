@@ -1,0 +1,13 @@
+det	people	The
+amod	people	young
+nsubj	wearing	people
+aux	wearing	are
+root	ROOT	wearing
+dobj	wearing	jeans
+case	shirts	with
+nmod:poss	shirts	their
+amod	shirts	red
+cc	red	and
+conj:and	red	green
+nmod:with	wearing	shirts
+punct	wearing	.

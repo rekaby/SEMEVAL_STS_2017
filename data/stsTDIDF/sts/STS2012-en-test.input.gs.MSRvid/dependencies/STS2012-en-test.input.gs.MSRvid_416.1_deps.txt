@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	riding	woman
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+case	beach	on
+det	beach	a
+nmod:on	riding	beach
+punct	riding	.

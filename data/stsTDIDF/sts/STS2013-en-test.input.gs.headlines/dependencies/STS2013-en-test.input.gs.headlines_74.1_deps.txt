@@ -1,0 +1,8 @@
+nsubj	weigh	U.S.
+cc	U.S.	and
+conj:and	U.S.	Turkey
+root	ROOT	weigh
+amod	zones	no-fly
+dobj	weigh	zones
+case	Syria	for
+nmod:for	weigh	Syria

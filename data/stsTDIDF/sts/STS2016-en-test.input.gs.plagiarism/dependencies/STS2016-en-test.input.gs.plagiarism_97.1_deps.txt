@@ -1,0 +1,12 @@
+mark	applies	So
+det	rule	the
+amod	rule	same
+nsubj	applies	rule
+root	ROOT	applies
+case	keywords	with
+nmod:with	applies	keywords
+cc	keywords	and
+advmod	longer	indeed
+amod	phrases	longer
+conj:and	keywords	phrases
+punct	applies	.

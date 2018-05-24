@@ -1,0 +1,6 @@
+nsubj	looking	People
+aux	looking	are
+root	ROOT	looking
+case	something	for
+nmod:for	looking	something
+punct	looking	.

@@ -1,0 +1,7 @@
+guitar	his	nmod:poss
+playing	guitar	dobj
+playing	Cafe	nmod:at
+Cafe	at	case
+Cafe	Joe	nmod:poss
+playing	man	nsubj
+Joe	's	case

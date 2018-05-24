@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+amod	dog	spotted
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	over
+det	stream	the
+amod	stream	small
+dobj	jumping	stream
+case	water	of
+nmod:of	stream	water
+punct	jumping	.

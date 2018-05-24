@@ -1,0 +1,16 @@
+nsubj	reported	EDS
+root	ROOT	reported
+det	loss	a
+amod	loss	first-quarter
+dobj	reported	loss
+case	$	of
+nmod:of	loss	$
+compound	million	126
+nummod	$	million
+punct	$	,
+cc	$	or
+nummod	cents	26
+conj:or	$	cents
+case	share	per
+nmod:per	cents	share
+punct	reported	.

@@ -1,0 +1,16 @@
+advmod	korea	south
+nsubj	oppose	korea
+cc	korea	and
+conj:and	korea	israel
+root	ROOT	oppose
+dobj	oppose	proliferation
+case	weapons	of
+nmod:of	proliferation	weapons
+case	destruction	of
+compound	destruction	mass
+nmod:of	weapons	destruction
+cc	destruction	and
+det	race	an
+compound	race	arms
+conj:and	destruction	race
+punct	oppose	.

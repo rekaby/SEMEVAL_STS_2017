@@ -1,0 +1,15 @@
+nsubjpass	arrested	Chapman
+auxpass	arrested	was
+neg	arrested	not
+advmod	arrested	immediately
+root	ROOT	arrested
+cc	arrested	and
+auxpass	expected	is
+conj:and	arrested	expected
+mark	appear	to
+xcomp	expected	appear
+case	July	for
+compound	July	arraignment
+nmod:for	appear	July
+nummod	July	3
+punct	arrested	.

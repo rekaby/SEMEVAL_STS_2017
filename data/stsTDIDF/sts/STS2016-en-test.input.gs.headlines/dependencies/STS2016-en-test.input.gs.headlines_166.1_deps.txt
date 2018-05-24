@@ -1,0 +1,8 @@
+det	end	The
+root	ROOT	end
+case	protests	of
+det	protests	the
+compound	Kong	Hong
+compound	protests	Kong
+nmod:of	end	protests
+punct	end	?

@@ -1,0 +1,10 @@
+compound	Mail	Punjab
+nsubj	derails	Mail
+root	ROOT	derails
+case	Rohtak	near
+nmod:near	derails	Rohtak
+case	Haryana	in
+nmod:in	Rohtak	Haryana
+punct	Haryana	,
+nummod	Haryana	19
+acl	19	injured

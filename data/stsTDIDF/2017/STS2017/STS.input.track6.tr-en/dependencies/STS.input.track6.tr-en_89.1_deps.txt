@@ -1,0 +1,10 @@
+compound	shaving	Man
+root	ROOT	shaving
+case	razor	with
+det	razor	a
+compound	razor	Gillette
+nmod:with	shaving	razor
+case	mirror	with
+det	mirror	a
+nmod:with	razor	mirror
+punct	shaving	.

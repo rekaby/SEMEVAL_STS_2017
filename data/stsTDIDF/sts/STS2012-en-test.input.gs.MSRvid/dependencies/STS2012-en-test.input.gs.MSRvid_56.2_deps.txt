@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	riding	dog
+aux	riding	is
+root	ROOT	riding
+det	skateboard	a
+dobj	riding	skateboard
+punct	riding	.

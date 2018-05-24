@@ -1,0 +1,14 @@
+det	woman	A
+amod	woman	seated
+amod	woman	young
+nsubj	reading	woman
+case	hat	in
+det	hat	a
+nmod:in	woman	hat
+aux	reading	is
+root	ROOT	reading
+case	shop	at
+det	shop	a
+compound	shop	coffee
+nmod:at	reading	shop
+punct	reading	.

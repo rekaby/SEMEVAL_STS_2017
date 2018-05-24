@@ -1,0 +1,14 @@
+det	story	the
+root	ROOT	story
+nsubjpass	told	that
+auxpass	told	is
+acl:relcl	story	told
+case	novel	in
+det	novel	a
+nmod:in	told	novel
+cc	novel	or
+conj:or	novel	play
+cc	novel	or
+conj:or	novel	movie
+dep	novel	etc.
+punct	story	.-14) root(ROOT-0, .

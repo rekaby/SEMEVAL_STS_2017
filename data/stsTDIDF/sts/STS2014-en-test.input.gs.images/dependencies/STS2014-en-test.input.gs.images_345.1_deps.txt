@@ -1,0 +1,14 @@
+det	truck	A
+amod	truck	red
+nsubj	spins	truck
+root	ROOT	spins
+nmod:poss	tires	their
+dobj	spins	tires
+mark	leaves	while
+det	one	a
+amod	one	black
+nsubj	leaves	one
+advcl	spins	leaves
+det	frame	the
+dobj	leaves	frame
+punct	spins	.

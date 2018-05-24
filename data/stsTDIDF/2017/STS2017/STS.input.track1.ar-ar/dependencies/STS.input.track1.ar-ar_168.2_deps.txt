@@ -1,0 +1,9 @@
+root	ROOT	Workers
+case	work	out
+mwe	out	of
+acl:out_of	Workers	work
+case	street	in
+det	street	a
+amod	street	flooded
+nmod:in	work	street
+punct	Workers	.

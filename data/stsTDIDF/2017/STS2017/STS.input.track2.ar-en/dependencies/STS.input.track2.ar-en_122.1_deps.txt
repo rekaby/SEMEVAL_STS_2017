@@ -1,0 +1,11 @@
+nummod	people	Three
+nsubj	hang	people
+root	ROOT	hang
+compound:prt	hang	out
+case	hill	on
+mwe	on	top
+mwe	on	of
+det	hill	a
+amod	hill	big
+nmod:on_top_of	hang	hill
+punct	hang	.

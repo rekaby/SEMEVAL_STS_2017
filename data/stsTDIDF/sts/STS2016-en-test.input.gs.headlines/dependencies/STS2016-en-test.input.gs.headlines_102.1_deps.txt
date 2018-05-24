@@ -1,0 +1,9 @@
+root	ROOT	One
+acl	One	killed
+case	clashes	in
+nmod:in	killed	clashes
+case	Brotherhood	at
+amod	Brotherhood	Muslim
+nmod:at	clashes	Brotherhood
+compound	offices	Cairo
+nummod	Brotherhood	offices

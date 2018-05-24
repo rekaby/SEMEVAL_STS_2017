@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	women	of
+nmod:of	group	women
+acl	women	offering
+case	public	to
+det	public	the
+nmod:to	offering	public
+punct	group	.

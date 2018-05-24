@@ -1,0 +1,15 @@
+root	ROOT	come
+mark	believe	to
+xcomp	come	believe
+case	basis	on
+det	basis	the
+nmod:on	believe	basis
+case	emotion	of
+nmod:of	basis	emotion
+punct	emotion	,
+conj:or	emotion	intuitions
+punct	emotion	,
+cc	emotion	or
+amod	grounds	indefinite
+conj:or	emotion	grounds
+punct	come	;

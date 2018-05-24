@@ -1,0 +1,4 @@
+girl	stranded	acl
+roof	on	case
+stranded	roof	nmod:on
+was	girl	nsubj

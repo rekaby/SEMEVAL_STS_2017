@@ -1,0 +1,14 @@
+det	parade	A
+root	ROOT	parade
+case	which	in
+nmod:in	is	which
+expl	is	there
+acl:relcl	parade	is
+det	woman	a
+nsubj	is	woman
+acl	woman	dressed
+case	white	in
+nmod:in	dressed	white
+case	stilts	on
+nmod:on	white	stilts
+punct	parade	.

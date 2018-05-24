@@ -1,0 +1,9 @@
+root	ROOT	appear
+cc	appear	or
+conj:or	appear	become
+xcomp	become	visible
+punct	appear	;
+conj:or	appear	make
+det	showing	a
+dobj	make	showing
+punct	appear	.

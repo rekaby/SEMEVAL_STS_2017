@@ -1,0 +1,8 @@
+tools	is	cop
+tools	painting	compound
+artist	THe	compound
+ROOT	tools	root
+packing	artist	nsubj
+tools	packing	csubj
+packing	is	aux
+packing	up	compound:prt

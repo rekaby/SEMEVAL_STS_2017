@@ -1,0 +1,16 @@
+dep	vote	179
+nsubj	vote	republicans
+root	ROOT	vote
+neg	House	no
+punct	House	...
+dobj	vote	House
+acl	House	Approves
+amod	Victims	$
+nummod	$	50.7
+compound	Victims	Billion
+case	Aid	in
+compound	Aid	Emergency
+nmod:in	Billion	Aid
+case	#Sandy	for
+nmod:for	Aid	#Sandy
+dobj	Approves	Victims

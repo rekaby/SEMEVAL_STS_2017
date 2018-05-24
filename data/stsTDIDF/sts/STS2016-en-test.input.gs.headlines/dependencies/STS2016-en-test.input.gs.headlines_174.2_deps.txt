@@ -1,0 +1,6 @@
+nsubj	killed	Five
+root	ROOT	killed
+case	Arabia	in
+compound	Arabia	Saudi
+nmod:in	killed	Arabia
+dobj	killed	shooting

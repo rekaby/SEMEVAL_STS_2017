@@ -1,0 +1,8 @@
+root	ROOT	take
+compound:prt	take	in
+dobj	take	marriage
+punct	take	;
+parataxis	take	perform
+det	ceremony	a
+compound	ceremony	marriage
+dobj	perform	ceremony

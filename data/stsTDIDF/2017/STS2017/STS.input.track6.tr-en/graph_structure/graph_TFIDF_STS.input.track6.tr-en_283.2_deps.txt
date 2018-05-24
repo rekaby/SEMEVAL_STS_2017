@@ -1,0 +1,8 @@
+helmets	soft	amod
+court	with	case
+wrestle	court	nmod:with
+wrestle	men	nsubj
+wrestle	.	punct
+men	wearing	acl
+ROOT	wrestle	root
+wearing	helmets	dobj

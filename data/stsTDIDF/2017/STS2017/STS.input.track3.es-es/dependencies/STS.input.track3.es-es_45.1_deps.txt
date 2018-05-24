@@ -1,0 +1,10 @@
+det	man	A
+nsubj	shows	man
+root	ROOT	shows
+det	clothes	some
+dobj	shows	clothes
+mark	wearing	while
+advcl	shows	wearing
+amod	shoes	blue
+dobj	wearing	shoes
+punct	shows	.

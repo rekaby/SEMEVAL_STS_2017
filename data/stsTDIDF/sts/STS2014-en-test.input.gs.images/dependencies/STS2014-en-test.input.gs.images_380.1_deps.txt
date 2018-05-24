@@ -1,0 +1,10 @@
+compound	space	Home
+compound	space	office
+root	ROOT	space
+case	walls	with
+amod	walls	bright
+amod	walls	green
+nmod:with	space	walls
+cc	walls	and
+conj:and	walls	artwork
+punct	space	.

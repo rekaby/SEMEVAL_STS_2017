@@ -1,0 +1,13 @@
+boys	surrounding	acl
+shirt	flipping	acl
+Man	shirt	nmod:in
+surrounding	them	dobj
+flipping	water	nmod:in
+flipping	boys	nmod:with
+boys	with	case
+Man	.	punct
+ROOT	Man	root
+boys	four	nummod
+shirt	white	amod
+boys	other	amod
+flipping	boy	dobj

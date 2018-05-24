@@ -1,0 +1,15 @@
+det	women	A
+root	ROOT	women
+acl	women	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+acl	table	drinking
+case	picture	with
+det	picture	a
+compound	picture	basketball
+nmod:with	drinking	picture
+case	background	in
+det	background	the
+nmod:in	picture	background
+punct	women	.

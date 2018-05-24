@@ -1,0 +1,10 @@
+det	man	A
+nsubj	placing	man
+aux	placing	is
+root	ROOT	placing
+dobj	placing	meat
+case	bag	inside
+det	bag	a
+amod	bag	plastic
+nmod:inside	placing	bag
+punct	placing	.

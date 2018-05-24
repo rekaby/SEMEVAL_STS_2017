@@ -1,0 +1,11 @@
+nsubj	part	I
+cop	part	am
+root	ROOT	part
+case	parliamentarians	of
+nmod:of	part	parliamentarians
+nsubj	present	who
+cop	present	are
+advmod	present	rather
+acl:relcl	parliamentarians	present
+advmod	present	honourably
+punct	part	.

@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	little
+root	ROOT	boy
+cc	boy	and
+det	girl	a
+amod	girl	little
+conj:and	boy	girl
+acl	girl	playing
+advmod	playing	together
+advmod	playing	outside
+punct	boy	.

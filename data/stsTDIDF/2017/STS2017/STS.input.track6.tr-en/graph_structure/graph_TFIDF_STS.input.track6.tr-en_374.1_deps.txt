@@ -1,0 +1,6 @@
+is	photograph	nmod:in
+is	man	nsubj
+photograph	the	det
+man	frustrated	amod
+photograph	in	case
+frustrated	very	advmod

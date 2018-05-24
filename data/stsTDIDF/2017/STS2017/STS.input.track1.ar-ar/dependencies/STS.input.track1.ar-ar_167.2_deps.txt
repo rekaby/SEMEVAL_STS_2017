@@ -1,0 +1,6 @@
+nsubj	blaspheme	They
+root	ROOT	blaspheme
+compound:prt	blaspheme	down
+amod	river	favorite
+dobj	blaspheme	river
+punct	blaspheme	.

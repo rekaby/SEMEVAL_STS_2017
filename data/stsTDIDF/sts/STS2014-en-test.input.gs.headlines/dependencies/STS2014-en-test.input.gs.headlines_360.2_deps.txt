@@ -1,0 +1,6 @@
+nsubj	hails	Obama
+root	ROOT	hails
+nmod:poss	effect	Mandela
+case	Mandela	's
+compound	effect	inspiration
+dobj	hails	effect

@@ -1,0 +1,13 @@
+root	ROOT	occupied
+amod	territory	Palestinian
+dobj	occupied	territory
+punct	occupied	:
+amod	Forces	Israeli
+nsubj	Continue	Forces
+dep	occupied	Continue
+case	Blood	to
+amod	Blood	Shed
+amod	Blood	Palestinian
+nmod:to	Continue	Blood
+case	oPt	in
+nmod:in	Continue	oPt

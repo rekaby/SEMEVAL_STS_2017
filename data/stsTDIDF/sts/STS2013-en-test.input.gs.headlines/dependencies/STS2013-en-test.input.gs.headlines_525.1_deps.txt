@@ -1,0 +1,9 @@
+compound	report	UN
+nsubj	says	report
+root	ROOT	says
+det	sides	both
+nsubj	abuse	sides
+case	Syria	in
+nmod:in	sides	Syria
+ccomp	says	abuse
+dobj	abuse	rights

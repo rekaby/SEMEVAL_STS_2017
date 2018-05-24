@@ -1,0 +1,5 @@
+compound	bombing	Yemen
+compound	bombing	suicide
+nsubj	kills	bombing
+root	ROOT	kills
+dobj	kills	soldiers

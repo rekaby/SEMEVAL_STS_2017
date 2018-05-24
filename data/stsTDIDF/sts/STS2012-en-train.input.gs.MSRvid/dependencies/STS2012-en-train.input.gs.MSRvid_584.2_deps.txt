@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	washing	woman
+aux	washing	is
+root	ROOT	washing
+compound:prt	washing	off
+det	top	the
+dobj	washing	top
+case	freezer	of
+det	freezer	a
+nmod:of	top	freezer
+punct	washing	.

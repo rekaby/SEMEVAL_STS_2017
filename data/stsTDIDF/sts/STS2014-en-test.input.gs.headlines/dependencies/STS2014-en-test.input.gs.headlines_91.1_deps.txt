@@ -1,0 +1,10 @@
+nsubj	stopped	Zimmerman
+root	ROOT	stopped
+case	speeding	for
+nmod:for	stopped	speeding
+case	Texas	in
+nmod:in	speeding	Texas
+punct	stopped	,
+advcl	stopped	released
+case	warning	with
+nmod:with	released	warning

@@ -1,0 +1,12 @@
+det	breed	Any
+nsubj	safe	breed
+case	dog	of
+nmod:of	breed	dog
+aux	safe	can
+cop	safe	be
+advmod	safe	perfectly
+root	ROOT	safe
+cc	safe	or
+advmod	dangerous	extremely
+conj:or	safe	dangerous
+punct	safe	.

@@ -1,0 +1,8 @@
+amod	boat	Sail
+root	ROOT	boat
+acl	boat	floating
+case	water	on
+det	water	the
+amod	water	blue
+nmod:on	floating	water
+punct	boat	.

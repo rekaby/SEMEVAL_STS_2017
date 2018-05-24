@@ -1,0 +1,5 @@
+standing	beach	nmod:on
+standing	surf	nmod:in
+men	standing	acl
+surf	in	case
+surf	the	det

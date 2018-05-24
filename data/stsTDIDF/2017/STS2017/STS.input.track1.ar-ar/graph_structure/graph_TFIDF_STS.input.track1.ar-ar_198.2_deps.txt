@@ -1,0 +1,5 @@
+stands	theater	nmod:at
+stands	line	nmod:in
+theater	at	case
+stands	man	nsubj
+theater	movie	compound

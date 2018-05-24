@@ -1,0 +1,8 @@
+compound	shares	Singapore
+nsubj	higher	shares
+amod	higher	open
+nummod	%	0.19
+nmod:npmod	higher	%
+root	ROOT	higher
+case	Thursday	on
+nmod:on	higher	Thursday

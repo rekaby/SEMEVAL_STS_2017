@@ -1,0 +1,11 @@
+nummod	cows	Two
+amod	cows	black
+cc	black	and
+conj:and	black	white
+nsubj	drinking	cows
+root	ROOT	drinking
+case	pond	out
+mwe	out	of
+det	pond	a
+nmod:out_of	drinking	pond
+punct	drinking	.

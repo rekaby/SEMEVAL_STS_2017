@@ -1,0 +1,11 @@
+det	child	A
+nsubj	walking	child
+aux	walking	is
+root	ROOT	walking
+case	table	from
+nummod	table	one
+compound	table	picnic
+nmod:from	walking	table
+case	another	to
+nmod:to	walking	another
+punct	walking	.

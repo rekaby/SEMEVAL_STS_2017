@@ -1,0 +1,8 @@
+root	ROOT	Report
+punct	Report	:
+nsubj	biased	Jordan
+dep	Report	biased
+case	Palestinians	over
+nmod:over	biased	Palestinians
+case	Syria	from
+nmod:from	biased	Syria

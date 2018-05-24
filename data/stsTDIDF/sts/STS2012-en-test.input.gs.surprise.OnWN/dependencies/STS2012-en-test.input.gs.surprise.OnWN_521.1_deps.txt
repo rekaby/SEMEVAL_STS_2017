@@ -1,0 +1,6 @@
+det	face	the
+amod	face	front
+root	ROOT	face
+case	building	of
+det	building	a
+nmod:of	face	building

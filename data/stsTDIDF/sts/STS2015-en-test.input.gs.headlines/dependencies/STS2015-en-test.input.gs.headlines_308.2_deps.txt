@@ -1,0 +1,13 @@
+nummod	week	One
+nmod:npmod	later	week
+advmod	victims	later
+punct	victims	:
+compound	victims	Boston
+compound	victims	honors
+compound	victims	bombing
+root	ROOT	victims
+punct	victims	;
+dep	victims	suspect
+xcomp	suspect	unable
+mark	speak	to
+xcomp	unable	speak

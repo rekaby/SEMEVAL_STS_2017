@@ -1,0 +1,13 @@
+compound	press	Sienna
+compound	press	Miller
+compound	press	attacks
+root	ROOT	press
+case	reports	for
+nummod	reports	‚
+amod	reports	Äėtitillating
+compound	reports	‚
+compound	reports	Äô
+nmod:for	press	reports
+case	trial	at
+compound	trial	hacking
+nmod:at	reports	trial

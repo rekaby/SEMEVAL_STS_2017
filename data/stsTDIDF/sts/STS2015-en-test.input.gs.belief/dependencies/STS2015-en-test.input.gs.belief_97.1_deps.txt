@@ -1,0 +1,15 @@
+nsubj	rang	i
+root	ROOT	rang
+dobj	rang	him
+case	5.30	at
+nmod:at	rang	5.30
+dep	rang	am
+mark	see	to
+xcomp	am	see
+advmod	was	where
+nsubj	was	he
+dep	reply	was
+punct	reply	,
+neg	reply	no
+ccomp	see	reply
+punct	rang	.

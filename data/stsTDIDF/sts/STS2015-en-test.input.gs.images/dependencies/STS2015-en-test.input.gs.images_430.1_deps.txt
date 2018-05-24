@@ -1,0 +1,6 @@
+compound	sliding	Child
+root	ROOT	sliding
+case	snow	in
+det	snow	the
+nmod:in	sliding	snow
+punct	sliding	.

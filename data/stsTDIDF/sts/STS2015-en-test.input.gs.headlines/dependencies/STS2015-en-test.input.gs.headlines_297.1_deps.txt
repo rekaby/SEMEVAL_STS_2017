@@ -1,0 +1,9 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	13
+case	restaurant	at
+nmod:at	kills	restaurant
+case	Somalia	in
+amod	Somalia	central
+nmod:in	kills	Somalia

@@ -1,0 +1,9 @@
+root	ROOT	Barrick
+case	talks	in
+nmod:in	Barrick	talks
+case	firm	with
+compound	firm	China
+nmod:with	talks	firm
+case	assets	over
+amod	assets	African
+nmod:over	talks	assets

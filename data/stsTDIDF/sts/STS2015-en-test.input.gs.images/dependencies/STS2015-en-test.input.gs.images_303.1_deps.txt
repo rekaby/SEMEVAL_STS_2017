@@ -1,0 +1,9 @@
+det	boy	A
+root	ROOT	boy
+case	jumping	in
+amod	jumping	red
+acl:in	boy	jumping
+case	sandbox	into
+det	sandbox	a
+nmod:into	jumping	sandbox
+punct	boy	.

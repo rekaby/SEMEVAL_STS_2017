@@ -1,0 +1,8 @@
+det	group	a
+root	ROOT	group
+case	nations	of
+nmod:of	group	nations
+acl	group	having
+amod	interests	common
+dobj	having	interests
+punct	group	.

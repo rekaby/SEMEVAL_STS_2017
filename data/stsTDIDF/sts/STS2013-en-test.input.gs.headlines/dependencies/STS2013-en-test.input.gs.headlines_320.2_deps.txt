@@ -1,0 +1,7 @@
+root	ROOT	Israel
+case	exporters	among
+amod	exporters	top
+compound	exporters	arms
+nmod:among	Israel	exporters
+cc	Israel	and
+conj:and	Israel	importers

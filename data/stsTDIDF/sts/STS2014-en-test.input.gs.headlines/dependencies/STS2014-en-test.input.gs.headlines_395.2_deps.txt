@@ -1,0 +1,7 @@
+nummod	blasts	Two
+root	ROOT	blasts
+case	embassy	near
+amod	embassy	Iranian
+nmod:near	blasts	embassy
+case	Beirut	in
+nmod:in	blasts	Beirut

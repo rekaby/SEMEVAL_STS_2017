@@ -1,0 +1,8 @@
+snowboard	in	case
+snowboard	the	det
+person	jump	nmod:during
+person	The	det
+person	blue	amod
+jump	the	det
+person	snowboard	nmod:in
+jump	during	case

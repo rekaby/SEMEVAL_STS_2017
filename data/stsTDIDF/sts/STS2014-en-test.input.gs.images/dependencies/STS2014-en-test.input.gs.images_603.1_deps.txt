@@ -1,0 +1,14 @@
+det	woman	A
+root	ROOT	woman
+case	table	at
+det	table	the
+compound	table	dining
+nmod:at	woman	table
+case	wine	with
+nmod:with	table	wine
+punct	wine	,
+conj:and	wine	beer
+punct	wine	,
+cc	wine	and
+conj:and	wine	lemons
+punct	woman	.

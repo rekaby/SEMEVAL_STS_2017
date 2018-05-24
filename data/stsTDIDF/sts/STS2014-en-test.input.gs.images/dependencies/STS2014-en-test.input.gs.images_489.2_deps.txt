@@ -1,0 +1,11 @@
+root	ROOT	Close
+advmod	Close	up
+case	rear	of
+det	rear	the
+nmod:of	up	rear
+case	car	of
+det	car	a
+amod	car	red
+compound	car	sports
+nmod:of	rear	car
+punct	Close	.

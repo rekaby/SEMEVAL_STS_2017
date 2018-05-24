@@ -1,0 +1,10 @@
+ground	still	advmod
+boy	snow	nmod:with
+park	out	case
+snow	little	amod
+snow	ground	nmod:on
+boy	dog	conj:and
+boy	and	cc
+boy	park	nmod:out_of
+snow	with	case
+snow	a	det

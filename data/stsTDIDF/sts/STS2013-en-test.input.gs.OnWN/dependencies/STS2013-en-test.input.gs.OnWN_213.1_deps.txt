@@ -1,0 +1,6 @@
+root	ROOT	resist
+advmod	tissue	immunologically
+amod	tissue	foreign
+dobj	resist	tissue
+cc	tissue	or
+conj:or	tissue	organ

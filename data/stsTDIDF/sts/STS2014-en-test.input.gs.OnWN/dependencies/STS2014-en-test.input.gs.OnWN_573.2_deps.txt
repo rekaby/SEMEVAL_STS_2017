@@ -1,0 +1,9 @@
+root	ROOT	something
+nsubj	floats	that
+acl:relcl	something	floats
+case	surface	on
+det	surface	the
+nmod:on	floats	surface
+case	water	of
+nmod:of	surface	water
+punct	something	.

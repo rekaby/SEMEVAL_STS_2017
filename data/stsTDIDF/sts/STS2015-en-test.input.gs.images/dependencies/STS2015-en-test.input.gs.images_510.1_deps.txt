@@ -1,0 +1,8 @@
+det	pitcher	A
+amod	pitcher	young
+nsubj	throwing	pitcher
+aux	throwing	is
+root	ROOT	throwing
+det	baseball	the
+dobj	throwing	baseball
+punct	throwing	.

@@ -1,0 +1,13 @@
+det	person	A
+nsubj	dumping	person
+aux	dumping	is
+root	ROOT	dumping
+amod	vegetables	chopped
+dobj	dumping	vegetables
+case	pot	into
+det	pot	a
+nmod:into	dumping	pot
+case	stove	on
+det	stove	the
+nmod:on	pot	stove
+punct	dumping	.

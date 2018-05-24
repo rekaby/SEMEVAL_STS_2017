@@ -1,0 +1,9 @@
+det	clip	A
+compound	clip	video
+root	ROOT	clip
+case	Rihanna	of
+nmod:of	clip	Rihanna
+acl	clip	leaving
+det	taxi	a
+dobj	leaving	taxi
+punct	clip	.

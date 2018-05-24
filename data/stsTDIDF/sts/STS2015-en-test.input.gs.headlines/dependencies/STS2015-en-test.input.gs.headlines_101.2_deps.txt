@@ -1,0 +1,10 @@
+compound	Korea	North
+nsubj	seen	Korea
+case	Korea	's
+compound	seen	Kim
+root	ROOT	seen
+mark	sacking	behind
+advcl	seen	sacking
+case	uncle	of
+amod	uncle	powerful
+nmod:of	sacking	uncle

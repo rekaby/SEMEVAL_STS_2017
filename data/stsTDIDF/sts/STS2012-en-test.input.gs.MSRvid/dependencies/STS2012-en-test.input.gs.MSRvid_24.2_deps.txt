@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	carrying	woman
+aux	carrying	is
+root	ROOT	carrying
+nmod:poss	baby	her
+dobj	carrying	baby
+punct	carrying	.

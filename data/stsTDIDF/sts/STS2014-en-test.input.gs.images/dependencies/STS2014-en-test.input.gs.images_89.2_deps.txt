@@ -1,0 +1,9 @@
+compound	couch	Blue
+root	ROOT	couch
+case	room	in
+nmod:in	couch	room
+case	sun	with
+nmod:with	room	sun
+acl	sun	shining
+nmod	shining	in
+punct	couch	.

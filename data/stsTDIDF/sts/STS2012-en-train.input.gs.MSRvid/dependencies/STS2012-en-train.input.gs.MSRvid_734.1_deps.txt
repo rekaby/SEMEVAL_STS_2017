@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+det	mushrooms	some
+dobj	adding	mushrooms
+cc	mushrooms	and
+conj:and	mushrooms	liquid
+case	pot	to
+det	pot	a
+nmod:to	liquid	pot
+punct	adding	.

@@ -1,0 +1,9 @@
+advmod	Pets	Well
+root	ROOT	Pets
+punct	Pets	:
+compound	Cat	Holly
+det	Cat	the
+nmod:poss	Journey	Cat
+case	Cat	's
+amod	Journey	Incredible
+dep	Pets	Journey

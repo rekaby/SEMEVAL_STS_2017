@@ -1,0 +1,17 @@
+mark	citizen	While
+nsubj	citizen	she
+cop	citizen	's
+det	citizen	a
+compound	citizen	U.S.
+advcl	sees	citizen
+punct	sees	,
+nsubj	sees	she
+root	ROOT	sees
+dobj	sees	herself
+case	part	as
+det	part	a
+nmod:as	sees	part
+case	countries	of
+nummod	countries	two
+nmod:of	part	countries
+punct	sees	.

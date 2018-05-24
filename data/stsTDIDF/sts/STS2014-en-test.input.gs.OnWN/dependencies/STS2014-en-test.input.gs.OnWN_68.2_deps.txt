@@ -1,0 +1,9 @@
+det	plant	a
+root	ROOT	plant
+advmod	cultivated	originally
+dep	plant	cultivated
+cc	cultivated	but
+advmod	growing	now
+conj:but	cultivated	growing
+xcomp	growing	wild
+punct	plant	.

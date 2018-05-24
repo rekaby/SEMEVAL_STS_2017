@@ -1,0 +1,7 @@
+det	man	A
+nsubj	pressing	man
+aux	pressing	is
+root	ROOT	pressing
+compound	buttons	microwave
+dobj	pressing	buttons
+punct	pressing	.

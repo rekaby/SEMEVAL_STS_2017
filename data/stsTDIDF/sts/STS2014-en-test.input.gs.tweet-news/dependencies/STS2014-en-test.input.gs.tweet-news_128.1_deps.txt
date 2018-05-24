@@ -1,0 +1,11 @@
+det	Times	The
+compound	Times	New
+compound	Times	York
+root	ROOT	Times
+punct	Times	:
+amod	Firm	Chinese
+compound	Start-Up	Firm
+compound	Start-Up	Buys
+compound	Start-Up	U.S.
+compound	Start-Up	Solar
+dep	Times	Start-Up

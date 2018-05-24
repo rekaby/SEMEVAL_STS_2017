@@ -1,0 +1,6 @@
+det	boy	A
+root	ROOT	boy
+case	exhibition	in
+det	exhibition	the
+nmod:in	boy	exhibition
+punct	boy	.

@@ -1,0 +1,15 @@
+nsubj	said	Ridge
+root	ROOT	said
+neg	explosives	no
+amod	explosives	real
+nsubjpass	used	explosives
+cc	explosives	or
+amod	devices	harmful
+conj:or	explosives	devices
+aux	used	will
+auxpass	used	be
+ccomp	said	used
+case	exercise	in
+det	exercise	the
+nmod:in	used	exercise
+punct	said	.

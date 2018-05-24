@@ -1,0 +1,16 @@
+root	ROOT	make
+det	plug	a
+dobj	make	plug
+acl	plug	for
+punct	make	;
+parataxis	make	praise
+det	qualities	the
+dobj	praise	qualities
+cc	qualities	or
+case	order	in
+conj:or	qualities	order
+mark	sell	to
+acl	order	sell
+cc	sell	or
+conj:or	sell	promote
+punct	make	.

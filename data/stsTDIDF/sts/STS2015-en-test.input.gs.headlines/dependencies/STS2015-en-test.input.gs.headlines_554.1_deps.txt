@@ -1,0 +1,6 @@
+compound	toll	Yolanda
+compound	toll	death
+nsubj	climbs	toll
+root	ROOT	climbs
+case	3,621	to
+nmod:to	climbs	3,621

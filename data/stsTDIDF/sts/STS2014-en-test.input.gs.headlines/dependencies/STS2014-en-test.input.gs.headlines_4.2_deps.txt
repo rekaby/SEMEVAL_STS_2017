@@ -1,0 +1,9 @@
+nsubj	strikes	Magnitude
+nummod	strikes	6.3
+compound	strikes	quake
+root	ROOT	strikes
+case	Islands	off
+compound	Islands	Solomon
+nmod:off	strikes	Islands
+punct	strikes	:
+dep	strikes	USGS

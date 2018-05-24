@@ -1,0 +1,6 @@
+amod	army	Egyptian
+nsubj	pushes	army
+root	ROOT	pushes
+mark	attack	to
+xcomp	pushes	attack
+dobj	attack	kidnappers

@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+nsubj	appears	dog
+root	ROOT	appears
+mark	walking	to
+aux	walking	be
+xcomp	appears	walking
+case	water	on
+det	water	the
+nmod:on	walking	water
+punct	appears	.

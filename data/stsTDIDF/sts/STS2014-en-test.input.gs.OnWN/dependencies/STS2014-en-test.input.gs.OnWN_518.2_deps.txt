@@ -1,0 +1,9 @@
+det	relation	a
+root	ROOT	relation
+nsubj	provides	that
+acl:relcl	relation	provides
+det	foundation	the
+dobj	provides	foundation
+case	something	for
+nmod:for	provides	something
+punct	relation	.

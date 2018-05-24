@@ -1,0 +1,7 @@
+det	woman	A
+root	ROOT	woman
+nsubj	cleans	who
+acl:relcl	woman	cleans
+det	bathroom	the
+dobj	cleans	bathroom
+punct	woman	.

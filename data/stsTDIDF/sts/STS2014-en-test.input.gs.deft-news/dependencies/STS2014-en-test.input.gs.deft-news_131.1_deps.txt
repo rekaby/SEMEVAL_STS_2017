@@ -1,0 +1,9 @@
+nsubj	accuses	india
+root	ROOT	accuses
+dobj	accuses	islamabad
+case	funding	of
+nmod:of	islamabad	funding
+cc	funding	and
+compound	guerrillas	training
+conj:and	funding	guerrillas
+punct	accuses	.

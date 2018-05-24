@@ -1,0 +1,9 @@
+det	man	A
+nsubj	stage	man
+cop	stage	is
+case	stage	on
+root	ROOT	stage
+case	guitar	with
+det	guitar	a
+nmod:with	stage	guitar
+punct	stage	.

@@ -1,0 +1,8 @@
+advmod	observe	First
+punct	observe	,
+root	ROOT	observe
+nmod:poss	theme	your
+amod	theme	normal
+amod	theme	behavioral
+dobj	observe	theme
+punct	observe	.

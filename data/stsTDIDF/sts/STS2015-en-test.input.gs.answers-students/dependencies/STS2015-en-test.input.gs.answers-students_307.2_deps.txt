@@ -1,0 +1,15 @@
+compound	A	Bulb
+nsubjpass	contained	A
+auxpass	contained	is
+advmod	contained	still
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery
+cc	battery	and
+conj:and	battery	switch
+dep	contained	Z.

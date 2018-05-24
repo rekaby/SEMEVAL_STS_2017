@@ -1,0 +1,7 @@
+nsubj	killed	Ten
+root	ROOT	killed
+case	blast	in
+amod	blast	new
+nmod:in	killed	blast
+case	Russia	in
+nmod:in	killed	Russia

@@ -1,0 +1,8 @@
+amod	generics	Cheap
+root	ROOT	generics
+neg	panacea	no
+dep	generics	panacea
+case	poorest	for
+nmod:poss	poorest	India
+case	India	's
+nmod:for	panacea	poorest

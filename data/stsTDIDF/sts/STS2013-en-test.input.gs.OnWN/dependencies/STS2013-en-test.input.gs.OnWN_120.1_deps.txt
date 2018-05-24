@@ -1,0 +1,10 @@
+root	ROOT	support
+punct	support	,
+conj:or	support	sustain
+punct	support	,
+conj:or	support	bear
+punct	support	,
+cc	support	or
+cop	responsible	be
+conj:or	support	responsible
+dep	responsible	for

@@ -1,0 +1,6 @@
+root	ROOT	have
+amod	sex	unlawful
+dobj	have	sex
+case	prostitute	with
+det	prostitute	a
+nmod:with	sex	prostitute

@@ -1,0 +1,6 @@
+root	ROOT	face
+cc	face	and
+conj:and	face	withstand
+case	courage	with
+nmod:with	withstand	courage
+punct	face	.

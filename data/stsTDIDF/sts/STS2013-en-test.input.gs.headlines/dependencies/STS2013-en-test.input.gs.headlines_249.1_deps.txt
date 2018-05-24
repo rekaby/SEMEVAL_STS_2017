@@ -1,0 +1,6 @@
+nsubj	hit	Barclays
+root	ROOT	hit
+case	investigations	by
+amod	investigations	fresh
+compound	investigations	U.S.
+nmod:by	hit	investigations

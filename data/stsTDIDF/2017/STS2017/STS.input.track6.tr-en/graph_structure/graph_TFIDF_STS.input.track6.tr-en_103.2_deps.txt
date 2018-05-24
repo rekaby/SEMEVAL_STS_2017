@@ -1,0 +1,14 @@
+armpit	his	nmod:poss
+carrying	,	punct
+carrying	is	aux
+carrying	.	punct
+bags	two	nummod
+man	funny	amod
+man	armpit	nmod:near
+bags	grocery	compound
+armpit	near	case
+ROOT	carrying	root
+sign	man	nmod:of
+carrying	sign	dobj
+carrying	man	nsubj
+carrying	bags	dobj

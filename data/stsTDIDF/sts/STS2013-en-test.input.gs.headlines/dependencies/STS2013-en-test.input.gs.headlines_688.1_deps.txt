@@ -1,0 +1,5 @@
+nsubj	scrambles	Turkey
+root	ROOT	scrambles
+dobj	scrambles	jets
+case	border	near
+nmod:near	jets	border

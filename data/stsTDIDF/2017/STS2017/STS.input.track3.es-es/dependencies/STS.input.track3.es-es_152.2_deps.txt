@@ -1,0 +1,9 @@
+det	man	A
+nsubj	rides	man
+root	ROOT	rides
+nmod:poss	bicycle	his
+dobj	rides	bicycle
+case	street	on
+det	street	the
+nmod:on	rides	street
+punct	rides	.

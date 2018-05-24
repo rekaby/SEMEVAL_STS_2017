@@ -1,0 +1,13 @@
+nsubj	service	BuyMusic
+cop	service	is
+det	service	the
+amod	service	first
+amod	service	subscription-free
+amod	service	paid
+compound	service	download
+compound	service	music
+root	ROOT	service
+case	users	for
+compound	users	PC
+nmod:for	service	users
+punct	service	.

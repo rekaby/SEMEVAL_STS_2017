@@ -1,0 +1,8 @@
+skating	.	punct
+skating	is	aux
+ROOT	skating	root
+player	hockey	compound
+skating	player	nsubj
+player	A	det
+ice	on	case
+skating	ice	nmod:on

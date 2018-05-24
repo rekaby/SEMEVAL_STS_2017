@@ -1,0 +1,11 @@
+det	Lede	The
+root	ROOT	Lede
+punct	Lede	:
+appos	Lede	Video
+punct	Video	:
+nsubj	Takes	Gunman
+dep	Video	Takes
+compound	Hostage	Firefighters
+dobj	Takes	Hostage
+case	Georgia	in
+nmod:in	Takes	Georgia

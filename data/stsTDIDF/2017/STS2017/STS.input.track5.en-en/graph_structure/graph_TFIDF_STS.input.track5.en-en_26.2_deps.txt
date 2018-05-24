@@ -1,0 +1,4 @@
+children	Asian	amod
+playing	children	nsubj
+playing	dog	nmod:with
+dog	with	case

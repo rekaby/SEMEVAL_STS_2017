@@ -1,0 +1,14 @@
+root	ROOT	stamp
+cc	stamp	or
+conj:or	stamp	emboss
+det	title	a
+dep	stamp	title
+cc	title	or
+conj:or	title	design
+case	book	on
+det	book	a
+nmod:on	stamp	book
+case	block	with
+det	block	a
+nmod:with	book	block
+punct	stamp	.

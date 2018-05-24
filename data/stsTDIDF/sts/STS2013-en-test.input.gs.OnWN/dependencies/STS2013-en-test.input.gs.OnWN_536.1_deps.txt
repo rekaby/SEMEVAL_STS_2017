@@ -1,0 +1,12 @@
+root	ROOT	Dispose
+case	something	of
+nmod:of	Dispose	something
+case	useless	as
+nmod:as	Dispose	useless
+cc	useless	and
+conj:and	useless	old
+punct	Dispose	;
+advmod	tear	physically
+dep	Dispose	tear
+advmod	tear	apart
+punct	Dispose	.

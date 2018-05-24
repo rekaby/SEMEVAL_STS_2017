@@ -1,0 +1,9 @@
+det	act	the
+nsubj	snipping	act
+mark	cutting	of
+acl	act	cutting
+compound:prt	cutting	off
+dobj	cutting	length
+punct	act	,
+root	ROOT	snipping
+compound:prt	snipping	off

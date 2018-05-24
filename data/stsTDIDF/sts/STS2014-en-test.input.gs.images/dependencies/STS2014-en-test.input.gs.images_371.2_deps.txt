@@ -1,0 +1,8 @@
+det	sheep	The
+nsubj	standing	sheep
+aux	standing	is
+root	ROOT	standing
+case	trees	under
+det	trees	the
+nmod:under	standing	trees
+punct	standing	.

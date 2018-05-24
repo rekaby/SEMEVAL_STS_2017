@@ -1,0 +1,10 @@
+case	response	In
+nmod:in	pared	response
+case	sales	to
+amod	sales	sluggish
+nmod:to	response	sales
+punct	pared	,
+nsubj	pared	Cisco
+root	ROOT	pared
+dobj	pared	spending
+punct	pared	.

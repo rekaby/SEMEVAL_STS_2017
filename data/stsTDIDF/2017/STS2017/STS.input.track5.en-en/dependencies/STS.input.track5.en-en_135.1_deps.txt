@@ -1,0 +1,10 @@
+csubj	kill	Adding
+dobj	Adding	aspirin
+case	water	to
+det	water	the
+nmod:to	Adding	water
+aux	kill	could
+root	ROOT	kill
+det	plant	the
+dobj	kill	plant
+punct	kill	.

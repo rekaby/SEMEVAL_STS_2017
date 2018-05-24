@@ -1,0 +1,10 @@
+det	cat	The
+nsubj	laying	cat
+aux	laying	is
+root	ROOT	laying
+case	blanket	on
+det	blanket	an
+compound	blanket	animal
+compound	blanket	print
+nmod:on	laying	blanket
+punct	laying	.

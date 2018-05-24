@@ -1,0 +1,10 @@
+det	man	A
+nsubj	dangling	man
+aux	dangling	is
+root	ROOT	dangling
+det	mouse	a
+dobj	dangling	mouse
+case	snake	near
+det	snake	a
+nmod:near	dangling	snake
+punct	dangling	.

@@ -1,0 +1,26 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+dobj	Know	What
+nsubj	Know	We
+aux	Know	Do
+neg	Know	n't
+dep	NYTimes	Know
+aux	Killing	Is
+dep	Know	Killing
+dobj	Killing	Us
+punct	Know	-
+aux	agree	Could
+neg	agree	n't
+dep	Know	agree
+dobj	agree	more
+punct	NYTimes	!-16) advmod(critical-10, e.g.
+punct	critical	,
+nsubj	critical	research
+case	homicides	on
+compound	homicides	IPV
+nmod:on	research	homicides
+cc	homicides	&
+conj:&	homicides	guns
+cop	critical	is
+root	ROOT	critical
+punct	critical	.

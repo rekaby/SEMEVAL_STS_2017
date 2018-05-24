@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	young
+nsubj	playing	girl
+case	jacket	in
+det	jacket	a
+amod	jacket	pink
+nmod:in	girl	jacket
+aux	playing	is
+root	ROOT	playing
+det	game	a
+compound	game	board
+dobj	playing	game
+punct	playing	.

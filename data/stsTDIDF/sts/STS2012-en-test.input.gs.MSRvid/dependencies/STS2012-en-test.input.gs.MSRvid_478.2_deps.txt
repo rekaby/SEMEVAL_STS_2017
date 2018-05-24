@@ -1,0 +1,8 @@
+det	man	A
+amod	man	tied
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+case	water	into
+nmod:into	putting	water
+punct	putting	.

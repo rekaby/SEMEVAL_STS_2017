@@ -1,0 +1,9 @@
+det	man	A
+nsubj	surfing	man
+aux	surfing	is
+root	ROOT	surfing
+case	Ocean	in
+det	Ocean	the
+compound	Ocean	Atlantic
+nmod:in	surfing	Ocean
+punct	surfing	.

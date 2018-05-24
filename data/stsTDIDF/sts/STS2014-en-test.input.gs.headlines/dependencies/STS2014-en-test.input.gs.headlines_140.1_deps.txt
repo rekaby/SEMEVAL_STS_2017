@@ -1,0 +1,8 @@
+root	ROOT	Gunman
+case	7	Among
+nmod:among	Gunman	7
+acl	7	Dead
+case	Shooting	After
+compound	Shooting	Florida
+compound	Shooting	Apartment
+nmod:after	Dead	Shooting

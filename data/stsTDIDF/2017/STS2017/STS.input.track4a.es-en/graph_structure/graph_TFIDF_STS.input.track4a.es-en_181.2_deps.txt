@@ -1,0 +1,6 @@
+parents	to	case
+ROOT	Man	root
+giving	child	dobj
+Man	giving	acl
+giving	parents	nmod:to
+giving	back	advmod

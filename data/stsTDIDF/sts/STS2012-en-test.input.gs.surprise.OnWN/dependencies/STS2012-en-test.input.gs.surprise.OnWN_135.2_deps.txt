@@ -1,0 +1,8 @@
+det	environment	a
+amod	environment	particular
+root	ROOT	environment
+cc	environment	or
+conj:or	environment	walk
+case	life	of
+nmod:of	walk	life
+punct	environment	.

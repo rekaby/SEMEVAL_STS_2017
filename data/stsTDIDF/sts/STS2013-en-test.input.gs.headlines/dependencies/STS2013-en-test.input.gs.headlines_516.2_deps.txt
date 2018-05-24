@@ -1,0 +1,5 @@
+nsubj	transfer	Libyans
+root	ROOT	transfer
+dobj	transfer	weapons
+case	army	to
+nmod:to	transfer	army

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	dicing	man
+aux	dicing	is
+root	ROOT	dicing
+det	onion	an
+dobj	dicing	onion
+punct	dicing	.

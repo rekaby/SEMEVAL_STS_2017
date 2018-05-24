@@ -1,0 +1,10 @@
+det	men	The
+nummod	men	two
+nsubj	deciding	men
+aux	deciding	are
+root	ROOT	deciding
+det	fish	which
+dobj	deciding	fish
+nsubj	want	they
+acl:relcl	fish	want
+punct	deciding	.

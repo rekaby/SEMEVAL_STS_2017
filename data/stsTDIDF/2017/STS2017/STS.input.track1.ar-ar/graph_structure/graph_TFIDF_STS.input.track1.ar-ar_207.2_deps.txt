@@ -1,0 +1,4 @@
+is	person	nsubj
+picture	in	case
+picture	whole	amod
+is	picture	nmod:in

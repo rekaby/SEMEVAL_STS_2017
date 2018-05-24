@@ -1,0 +1,7 @@
+root	ROOT	CCTV
+case	gunmen	of
+nmod:of	CCTV	gunmen
+case	attack	in
+compound	attack	Tunisia
+compound	attack	museum
+nmod:in	CCTV	attack

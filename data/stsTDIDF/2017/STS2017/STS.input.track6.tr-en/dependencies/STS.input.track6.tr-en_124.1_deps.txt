@@ -1,0 +1,7 @@
+det	bikes	A
+compound	bikes	man
+root	ROOT	bikes
+case	street	down
+det	street	the
+nmod:down	bikes	street
+punct	bikes	.

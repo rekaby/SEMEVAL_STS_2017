@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	talking	woman
+aux	talking	is
+root	ROOT	talking
+case	bunny	to
+nmod:poss	bunny	her
+compound	bunny	pet
+nmod:to	talking	bunny
+mark	fondles	as
+nsubj	fondles	she
+advcl	talking	fondles
+dobj	fondles	it
+punct	talking	.

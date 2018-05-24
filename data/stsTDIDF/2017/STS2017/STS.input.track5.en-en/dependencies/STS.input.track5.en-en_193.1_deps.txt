@@ -1,0 +1,10 @@
+root	ROOT	People
+case	motorcycles	on
+nmod:on	People	motorcycles
+acl	motorcycles	wearing
+compound	ride	racing
+compound	ride	gear
+dobj	wearing	ride
+case	racetrack	around
+det	racetrack	a
+nmod:around	wearing	racetrack

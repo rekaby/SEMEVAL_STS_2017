@@ -1,0 +1,7 @@
+root	ROOT	hold
+compound:prt	hold	in
+det	state	a
+amod	state	given
+dobj	hold	state
+cc	hold	or
+conj:or	hold	situation

@@ -1,0 +1,4 @@
+nsubj	participate	Children
+root	ROOT	participate
+case	cycling	in
+nmod:in	participate	cycling

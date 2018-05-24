@@ -1,0 +1,9 @@
+det	doll	A
+compound	doll	Library
+nsubjpass	loaned	doll
+auxpass	loaned	is
+root	ROOT	loaned
+compound:prt	loaned	out
+case	children	to
+nmod:to	loaned	children
+punct	loaned	:

@@ -1,0 +1,6 @@
+farmer	A	det
+cows	his	nmod:poss
+gathers	.	punct
+ROOT	gathers	root
+gathers	farmer	nsubj
+gathers	cows	dobj

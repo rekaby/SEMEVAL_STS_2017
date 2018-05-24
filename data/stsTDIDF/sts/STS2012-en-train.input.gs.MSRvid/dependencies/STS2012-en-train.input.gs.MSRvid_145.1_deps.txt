@@ -1,0 +1,10 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+case	creek	by
+det	creek	a
+nmod:by	riding	creek
+punct	riding	.

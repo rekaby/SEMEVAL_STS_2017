@@ -1,0 +1,10 @@
+nummod	Marines	9,000
+compound	Marines	U.S.
+nsubj	statement	Marines
+mark	move	to
+acl	Marines	move
+case	Okinawa	out
+mwe	out	of
+nmod:out_of	move	Okinawa
+punct	Marines	:
+root	ROOT	statement

@@ -1,0 +1,9 @@
+nsubj	purport	I
+root	ROOT	purport
+case	value	to
+nmod:to	purport	value
+amod	life	human
+dep	value	life
+advmod	highly	very
+advmod	life	highly
+punct	purport	.

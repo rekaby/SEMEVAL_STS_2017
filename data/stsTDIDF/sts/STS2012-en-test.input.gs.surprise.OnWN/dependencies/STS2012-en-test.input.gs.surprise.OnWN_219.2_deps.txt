@@ -1,0 +1,8 @@
+root	ROOT	give
+case	charity	to
+det	charity	a
+nmod:to	give	charity
+cc	charity	or
+amod	cause	good
+conj:or	charity	cause
+punct	give	.

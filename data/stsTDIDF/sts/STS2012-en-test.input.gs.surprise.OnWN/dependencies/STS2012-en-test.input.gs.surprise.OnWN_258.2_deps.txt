@@ -1,0 +1,16 @@
+root	ROOT	physician
+cc	physician	and
+amod	leader	American
+compound	leader	Revolutionary
+conj:and	physician	leader
+punct	physician	;
+dep	physician	signer
+case	Declaration	of
+det	Declaration	the
+nmod:of	signer	Declaration
+case	Independence	of
+nmod:of	Declaration	Independence
+punct	1745-1813	-LRB-
+appos	Independence	1745-1813
+punct	1745-1813	-RRB-
+punct	physician	.

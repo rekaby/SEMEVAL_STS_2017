@@ -1,0 +1,14 @@
+nsubj	addressed	We
+advmod	addressed	just
+root	ROOT	addressed
+nsubj	suggested	this
+advmod	suggested	recently
+punct	suggested	,
+cc	suggested	and
+det	answer	the
+amod	answer	excellent
+nsubj	suggested	answer
+ccomp	addressed	suggested
+cop	guillemets	was
+ccomp	suggested	guillemets
+punct	addressed	.

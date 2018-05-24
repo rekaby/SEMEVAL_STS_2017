@@ -1,0 +1,16 @@
+punct	tossed	``
+det	barriers	The
+amod	barriers	concrete
+nsubjpass	tossed	barriers
+punct	lanes	-LRB-
+case	lanes	between
+nmod:between	barriers	lanes
+punct	lanes	-RRB-
+aux	tossed	were
+auxpass	tossed	being
+root	ROOT	tossed
+advmod	tossed	around
+case	feathers	like
+nmod:like	tossed	feathers
+punct	tossed	.
+punct	tossed	''

@@ -1,0 +1,13 @@
+nummod	dogs	Two
+nsubj	run	dogs
+root	ROOT	run
+case	snow	through
+det	snow	the
+nmod:through	run	snow
+punct	run	,
+dobj	run	one
+case	ball	with
+det	ball	a
+compound	ball	tennis
+nmod:with	one	ball
+punct	run	.

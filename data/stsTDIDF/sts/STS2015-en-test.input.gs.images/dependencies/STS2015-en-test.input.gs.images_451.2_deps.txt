@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	playing	.

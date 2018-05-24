@@ -1,0 +1,23 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-6) nsubj(jumped-2, DJI
+root	ROOT	jumped
+nummod	percent	2.09
+dobj	jumped	percent
+punct	jumped	,
+case	Index	while
+det	Standard	the
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+nmod:while	jumped	Index
+punct	jumped	.-14) nsubj(leapt-2, SPX
+root	ROOT	leapt
+nummod	percent	2.23
+dobj	leapt	percent
+punct	leapt	.

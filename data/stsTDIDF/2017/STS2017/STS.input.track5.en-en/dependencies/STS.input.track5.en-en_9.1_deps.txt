@@ -1,0 +1,11 @@
+det	boy	The
+amod	boy	young
+nsubj	jumps	boy
+root	ROOT	jumps
+dobj	jumps	barefoot
+case	yard	outside
+case	yard	in
+det	yard	the
+compound	yard	front
+nmod:in	jumps	yard
+punct	jumps	.

@@ -1,0 +1,15 @@
+det	man	A
+nsubj	mowing	man
+case	shorts	in
+nmod:in	man	shorts
+punct	shorts	,
+det	sweatshirt	a
+conj:and	shorts	sweatshirt
+punct	shorts	,
+cc	shorts	and
+conj:and	shorts	sneakers
+aux	mowing	is
+root	ROOT	mowing
+det	grass	the
+dobj	mowing	grass
+punct	mowing	.

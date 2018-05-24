@@ -1,0 +1,6 @@
+det	center	the
+root	ROOT	center
+case	object	of
+det	object	an
+nmod:of	center	object
+punct	center	.

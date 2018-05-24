@@ -1,0 +1,8 @@
+nsubj	Putting	SL
+root	ROOT	Putting
+det	Number	a
+dobj	Putting	Number
+case	Toll	on
+nmod:poss	Toll	Smoking
+case	Smoking	's
+nmod:on	Putting	Toll

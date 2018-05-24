@@ -1,0 +1,35 @@
+det	frame	this
+nsubj	contains	frame
+root	ROOT	contains
+dobj	contains	words
+nsubj	denote	that
+acl:relcl	words	denote
+compound	relations	kinship
+dobj	denote	relations
+punct	contains	.-9) mark(annotating-2, in
+advcl	use	annotating
+det	uses	the
+amod	uses	directional
+dobj	annotating	uses
+case	words	of
+det	words	these
+nmod:of	uses	words
+punct	use	,
+nsubj	use	we
+root	ROOT	use
+det	terms	the
+amod	terms	standard
+dobj	use	terms
+case	anthropology	from
+nmod:from	use	anthropology
+punct	anthropology	,
+conj:and	anthropology	ego
+cc	anthropology	and
+conj:and	anthropology	alter
+punct	use	.-21) nsubj(cousin-5, matilde
+cop	cousin	is
+nmod:poss	cousin	gilberto
+case	gilberto	's
+nsubj	removed	cousin
+advmod	removed	once
+root	ROOT	removed

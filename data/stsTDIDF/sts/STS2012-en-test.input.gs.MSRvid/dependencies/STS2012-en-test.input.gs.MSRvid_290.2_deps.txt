@@ -1,0 +1,10 @@
+det	man	A
+nsubj	adding	man
+aux	adding	is
+root	ROOT	adding
+det	silencer	a
+dobj	adding	silencer
+case	gun	to
+det	gun	a
+nmod:to	adding	gun
+punct	adding	.

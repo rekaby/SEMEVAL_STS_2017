@@ -1,0 +1,8 @@
+root	ROOT	make
+dobj	make	colder
+punct	colder	,
+cc	colder	or
+conj:or	colder	icy
+punct	colder	,
+conj:or	colder	using
+dobj	using	ice

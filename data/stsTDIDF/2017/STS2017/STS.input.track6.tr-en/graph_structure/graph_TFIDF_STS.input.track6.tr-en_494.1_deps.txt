@@ -1,0 +1,9 @@
+mother	A	det
+drinking	mother	nsubj
+mother	daughter	conj:and
+drinking	.	punct
+ROOT	drinking	root
+drinking	are	aux
+table	kitchen	compound
+drinking	coffee	dobj
+drinking	table	nmod:at

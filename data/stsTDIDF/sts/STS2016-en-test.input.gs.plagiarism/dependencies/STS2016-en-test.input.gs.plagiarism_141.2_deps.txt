@@ -1,0 +1,14 @@
+det	advantage	The
+nsubj	consumption	advantage
+cop	consumption	being
+det	consumption	the
+amod	consumption	less
+compound	consumption	time
+root	ROOT	consumption
+case	comparison	in
+nmod:in	consumption	comparison
+case	methods	to
+amod	methods	other
+amod	methods	amateur
+nmod:to	comparison	methods
+punct	consumption	.

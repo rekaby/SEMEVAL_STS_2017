@@ -1,0 +1,6 @@
+nsubj	criticizes	Israel
+root	ROOT	criticizes
+amod	stance	Palestinian
+dobj	criticizes	stance
+case	settlers	on
+nmod:on	criticizes	settlers

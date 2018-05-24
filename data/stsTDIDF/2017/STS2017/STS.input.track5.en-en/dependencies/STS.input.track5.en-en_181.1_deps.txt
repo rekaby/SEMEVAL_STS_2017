@@ -1,0 +1,10 @@
+det	flock	A
+nsubj	hovered	flock
+case	birds	of
+nmod:of	flock	birds
+root	ROOT	hovered
+case	beach	over
+det	beach	the
+amod	beach	sandy
+nmod:over	hovered	beach
+punct	hovered	.

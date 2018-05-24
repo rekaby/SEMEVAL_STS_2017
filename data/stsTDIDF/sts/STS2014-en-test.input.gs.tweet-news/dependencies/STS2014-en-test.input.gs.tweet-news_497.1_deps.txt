@@ -1,0 +1,10 @@
+root	ROOT	Frum
+punct	Frum	:
+dep	Frum	#US
+punct	Frum	.-4) compound(problem-2, #gun
+nsubj	race	problem
+cop	race	is
+neg	race	not
+det	race	a
+root	ROOT	race
+dep	race	problem

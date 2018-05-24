@@ -1,0 +1,15 @@
+compound	Thornton	Grant
+nsubj	claims	Thornton
+root	ROOT	claims
+mark	victim	that
+nsubj	victim	it
+advmod	was	too
+cop	victim	was
+det	victim	the
+punct	victim	``
+ccomp	claims	victim
+punct	victim	''
+case	fraud	of
+det	fraud	a
+nmod:of	victim	fraud
+punct	claims	.

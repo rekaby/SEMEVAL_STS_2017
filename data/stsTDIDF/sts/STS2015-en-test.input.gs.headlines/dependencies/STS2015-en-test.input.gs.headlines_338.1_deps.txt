@@ -1,0 +1,8 @@
+nsubj	go	Factories
+nsubj	ran	that
+acl:relcl	Factories	ran
+case	cooperation	on
+amod	cooperation	Korean
+nmod:on	ran	cooperation
+root	ROOT	go
+xcomp	go	silent

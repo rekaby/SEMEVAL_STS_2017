@@ -1,0 +1,6 @@
+root	ROOT	remove
+dobj	remove	shells
+cc	shells	or
+conj:or	shells	husks
+nmod	remove	from
+punct	remove	.

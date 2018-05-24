@@ -1,0 +1,7 @@
+root	ROOT	Panetta
+punct	Panetta	:
+nsubj	Tops	Afghanistan
+dep	Panetta	Tops
+compound	Topics	NATO
+compound	Topics	Conference
+dobj	Tops	Topics

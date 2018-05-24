@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	makes	girl
+root	ROOT	makes
+compound:prt	makes	up
+nmod:poss	bed	her
+dobj	makes	bed
+punct	makes	.

@@ -1,0 +1,12 @@
+det	group	A
+amod	group	young
+nsubj	cheering	group
+case	friends	of
+nmod:of	group	friends
+aux	cheering	is
+root	ROOT	cheering
+case	team	on
+det	team	the
+compound	team	football
+nmod:on	cheering	team
+punct	cheering	.

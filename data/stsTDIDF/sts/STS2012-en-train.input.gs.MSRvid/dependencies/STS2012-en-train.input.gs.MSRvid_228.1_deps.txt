@@ -1,0 +1,8 @@
+det	guy	A
+nsubj	taking	guy
+aux	taking	is
+root	ROOT	taking
+compound:prt	taking	off
+nmod:poss	sunglasses	his
+dobj	taking	sunglasses
+punct	taking	.

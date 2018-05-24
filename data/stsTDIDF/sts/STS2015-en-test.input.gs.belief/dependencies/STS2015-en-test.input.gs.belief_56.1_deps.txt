@@ -1,0 +1,15 @@
+aux	have	does
+neg	have	not
+root	ROOT	have
+det	vision	the
+dobj	have	vision
+cc	vision	or
+det	courage	the
+conj:or	vision	courage
+mark	sustain	to
+advcl	have	sustain
+det	program	a
+dobj	sustain	program
+case	apollo	like
+nmod:like	program	apollo
+punct	have	.

@@ -1,0 +1,7 @@
+nummod	men	Three
+nsubj	sit	men
+root	ROOT	sit
+case	bench	on
+det	bench	a
+nmod:on	sit	bench
+punct	sit	.

@@ -1,0 +1,5 @@
+nsubj	vote	Egyptians
+root	ROOT	vote
+case	constitution	on
+nmod:on	vote	constitution
+dobj	vote	change

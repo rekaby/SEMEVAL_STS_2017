@@ -1,0 +1,9 @@
+det	man	A
+nsubj	trying	man
+aux	trying	is
+root	ROOT	trying
+mark	repair	to
+xcomp	trying	repair
+nmod:poss	computers	his
+dobj	repair	computers
+punct	trying	.

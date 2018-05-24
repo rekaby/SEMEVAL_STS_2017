@@ -1,0 +1,8 @@
+root	ROOT	10
+acl	10	killed
+case	accident	in
+compound	accident	road
+nmod:in	killed	accident
+case	NW	in
+nmod:in	accident	NW
+nmod:tmod	NW	Pakistan

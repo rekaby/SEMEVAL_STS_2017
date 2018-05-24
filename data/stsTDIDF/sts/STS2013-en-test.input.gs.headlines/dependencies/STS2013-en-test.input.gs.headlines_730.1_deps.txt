@@ -1,0 +1,5 @@
+compound	fire	Homs
+amod	fire	mortar
+nsubj	kills	fire
+root	ROOT	kills
+dobj	kills	105

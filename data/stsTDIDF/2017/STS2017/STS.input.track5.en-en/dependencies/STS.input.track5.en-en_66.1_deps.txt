@@ -1,0 +1,10 @@
+det	woman	The
+amod	woman	young
+nsubj	flirting	woman
+aux	flirting	is
+root	ROOT	flirting
+case	boy	with
+det	boy	the
+amod	boy	young
+nmod:with	flirting	boy
+punct	flirting	.

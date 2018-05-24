@@ -1,0 +1,9 @@
+group	ladies	nmod:of
+cheer	in	case
+cheer	cold	amod
+cheer	flags	nmod:with
+flags	with	case
+cheer	the	det
+group	cheer	nmod:in
+flags	American	amod
+ladies	of	case

@@ -1,0 +1,12 @@
+mark	creates	because
+nsubj	creates	it
+root	ROOT	creates
+det	gap	a
+dobj	creates	gap
+nsubj	created	which
+case	turn	in
+nmod:in	created	turn
+acl:relcl	gap	created
+det	path	an
+amod	path	open
+dobj	created	path

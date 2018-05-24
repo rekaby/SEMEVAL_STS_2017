@@ -1,0 +1,16 @@
+compound	Cheney	Vice
+compound	Cheney	President
+compound	Cheney	Dick
+nsubj	acknowledge	Cheney
+cc	Cheney	and
+compound	Barbour	Mississippi
+compound	Barbour	Republican
+amod	Barbour	gubernatorial
+compound	Barbour	candidate
+compound	Barbour	Haley
+conj:and	Cheney	Barbour
+root	ROOT	acknowledge
+det	crowd	the
+amod	crowd	cheering
+dobj	acknowledge	crowd
+punct	acknowledge	.

@@ -1,0 +1,8 @@
+root	ROOT	change
+det	key	the
+dobj	change	key
+case	music	of
+punct	music	,
+case	music	in
+nmod:in	key	music
+punct	change	.

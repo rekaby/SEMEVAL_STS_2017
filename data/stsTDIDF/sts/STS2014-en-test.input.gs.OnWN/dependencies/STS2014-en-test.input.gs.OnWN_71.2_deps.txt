@@ -1,0 +1,17 @@
+punct	science	-LRB-
+compound	science	computer
+root	ROOT	science
+punct	science	-RRB-
+det	program	a
+dep	science	program
+acl	program	designed
+case	support	for
+amod	support	general
+nmod:for	designed	support
+case	processes	of
+det	processes	the
+nmod:of	support	processes
+case	computer	of
+det	computer	a
+nmod:of	processes	computer
+punct	science	.

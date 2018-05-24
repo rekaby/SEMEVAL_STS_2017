@@ -1,0 +1,16 @@
+det	McLean	The
+nsubj	said	McLean
+punct	said	,
+amod	company	Virginia-based
+nsubj	said	company
+root	ROOT	said
+compound	revenue	newspaper
+nsubj	increased	revenue
+ccomp	said	increased
+nummod	percent	5
+dobj	increased	percent
+case	$	to
+nmod:to	increased	$
+compound	billion	1.46
+nummod	$	billion
+punct	said	.

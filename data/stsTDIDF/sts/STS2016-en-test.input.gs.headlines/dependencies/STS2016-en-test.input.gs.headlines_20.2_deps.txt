@@ -1,0 +1,7 @@
+amod	Placed	Russian
+compound	Placed	Opposition
+compound	Placed	Leader
+root	ROOT	Placed
+case	Arrest	Under
+compound	Arrest	House
+nmod:under	Placed	Arrest

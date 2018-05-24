@@ -1,0 +1,9 @@
+root	ROOT	make
+xcomp	make	synchronous
+cc	make	and
+conj:and	make	adjust
+case	time	in
+nmod:in	adjust	time
+cc	time	or
+conj:or	time	manner
+punct	make	.

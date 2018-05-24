@@ -1,0 +1,9 @@
+det	bird	The
+amod	bird	black
+nsubj	sitting	bird
+aux	sitting	is
+root	ROOT	sitting
+case	ground	on
+det	ground	the
+nmod:on	sitting	ground
+punct	sitting	.

@@ -1,0 +1,9 @@
+compound	Date	Trial
+nsubj	Set	Date
+root	ROOT	Set
+case	Brotherhood	for
+nmod:poss	Brotherhood	Egypt
+case	Egypt	's
+amod	Brotherhood	Muslim
+nmod:for	Set	Brotherhood
+amod	Brotherhood	Chief

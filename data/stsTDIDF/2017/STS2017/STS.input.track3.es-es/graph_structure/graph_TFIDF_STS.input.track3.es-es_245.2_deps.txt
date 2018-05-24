@@ -1,0 +1,7 @@
+routine	gymnastics	compound
+performs	routine	dobj
+routine	rhythmic	amod
+performs	girl	nsubj
+performs	.	punct
+ROOT	performs	root
+routine	a	det

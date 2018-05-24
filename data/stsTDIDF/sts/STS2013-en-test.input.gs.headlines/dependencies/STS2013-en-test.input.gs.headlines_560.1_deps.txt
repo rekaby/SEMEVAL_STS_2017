@@ -1,0 +1,5 @@
+nsubj	asks	Spain
+root	ROOT	asks
+case	rescue	for
+compound	rescue	bank
+nmod:for	asks	rescue

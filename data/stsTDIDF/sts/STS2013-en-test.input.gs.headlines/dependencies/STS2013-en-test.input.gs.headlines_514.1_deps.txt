@@ -1,0 +1,10 @@
+compound	Chief	UN
+nsubj	Finds	Chief
+root	ROOT	Finds
+nmod:poss	Voice	His
+dobj	Finds	Voice
+punct	Finds	,
+dep	Finds	Remains
+xcomp	Remains	Cautious
+case	China	on
+nmod:on	Cautious	China

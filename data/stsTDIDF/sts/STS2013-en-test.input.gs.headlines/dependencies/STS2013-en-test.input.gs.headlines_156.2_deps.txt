@@ -1,0 +1,9 @@
+root	ROOT	Nissan
+mark	offer	to
+acl	Nissan	offer
+amod	systems	steer-by-wire
+dobj	offer	systems
+case	cars	in
+det	cars	some
+compound	cars	Infiniti
+nmod:in	offer	cars

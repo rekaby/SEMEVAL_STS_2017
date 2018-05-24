@@ -1,0 +1,6 @@
+root	ROOT	have
+amod	properties	certain
+dobj	have	properties
+advmod	driven	when
+advcl	have	driven
+punct	have	.

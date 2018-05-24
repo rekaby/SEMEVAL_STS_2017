@@ -1,0 +1,14 @@
+det	child	A
+amod	child	wet
+nsubj	shivering	child
+aux	shivering	is
+root	ROOT	shivering
+case	towel	in
+det	towel	a
+nmod:in	shivering	towel
+case	pool	in
+mwe	in	front
+mwe	in	of
+det	pool	a
+nmod:in_front_of	towel	pool
+punct	shivering	.

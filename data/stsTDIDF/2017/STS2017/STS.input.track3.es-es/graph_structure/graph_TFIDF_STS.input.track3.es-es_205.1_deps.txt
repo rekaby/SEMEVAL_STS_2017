@@ -1,0 +1,6 @@
+take	bath	dobj
+take	ocean	nmod:in
+bath	a	det
+preparing	take	xcomp
+preparing	Men	nsubj
+ocean	in	case

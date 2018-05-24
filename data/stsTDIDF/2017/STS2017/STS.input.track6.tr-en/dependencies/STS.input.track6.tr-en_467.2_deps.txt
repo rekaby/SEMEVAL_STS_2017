@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	walks	girl
+root	ROOT	walks
+case	ocean	into
+det	ocean	the
+nmod:into	walks	ocean
+punct	walks	.

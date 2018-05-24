@@ -1,0 +1,12 @@
+case	1995	In
+nmod:in	equal	1995
+punct	equal	,
+det	survey	the
+amod	survey	last
+nmod	equal	survey
+punct	equal	,
+det	numbers	those
+nsubj	equal	numbers
+cop	equal	were
+root	ROOT	equal
+punct	equal	.

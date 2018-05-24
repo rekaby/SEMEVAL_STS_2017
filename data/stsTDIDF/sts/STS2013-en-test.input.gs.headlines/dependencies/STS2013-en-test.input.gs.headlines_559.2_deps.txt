@@ -1,0 +1,10 @@
+compound	Airline	UK
+nsubj	Cancels	Airline
+root	ROOT	Cancels
+punct	Tickets	`
+compound	Tickets	Flytilla
+punct	Tickets	'
+dobj	Cancels	Tickets
+case	Objections	on
+compound	Objections	Israel
+nmod:on	Cancels	Objections

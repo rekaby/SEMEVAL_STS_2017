@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	floats	girl
+root	ROOT	floats
+case	pool	in
+det	pool	the
+nmod:in	floats	pool
+punct	floats	.

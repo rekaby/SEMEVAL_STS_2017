@@ -1,0 +1,5 @@
+ROOT	dogs	root
+dogs	playing	acl
+playing	park	nmod:in
+dogs	Two	nummod
+dogs	.	punct

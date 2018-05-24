@@ -1,0 +1,16 @@
+det	dog	A
+nsubj	runs	dog
+case	collar	with
+det	collar	a
+amod	collar	red
+nmod:with	dog	collar
+root	ROOT	runs
+case	forest	in
+det	forest	a
+nmod:in	runs	forest
+case	middle	in
+det	middle	the
+nmod:in	runs	middle
+case	winter	of
+nmod:of	middle	winter
+punct	runs	.

@@ -1,0 +1,13 @@
+det	states	the
+amod	states	electrical
+nsubj	same	states
+case	terminals	between
+det	terminals	the
+nmod:between	states	terminals
+cop	same	is
+det	same	the
+root	ROOT	same
+punct	same	,
+xcomp	same	resulting
+case	0	in
+nmod:in	resulting	0

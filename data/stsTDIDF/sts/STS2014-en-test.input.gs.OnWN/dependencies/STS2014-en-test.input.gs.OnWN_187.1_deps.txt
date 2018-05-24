@@ -1,0 +1,12 @@
+cop	shiny	Be
+root	ROOT	shiny
+punct	shiny	;
+cop	source	be
+det	source	a
+amod	source	physical
+cc	physical	or
+conj:or	physical	metaphorical
+parataxis	shiny	source
+case	light	of
+nmod:of	source	light
+punct	shiny	.

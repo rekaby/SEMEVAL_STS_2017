@@ -1,0 +1,8 @@
+nsubj	mention	I
+aux	mention	did
+neg	mention	n't
+root	ROOT	mention
+xcomp	mention	restraining
+dobj	restraining	order
+advmod	restraining	either
+punct	mention	.

@@ -1,0 +1,12 @@
+det	bus	A
+compound	bus	Victory
+compound	bus	Liner
+nsubj	white	bus
+cop	white	is
+root	ROOT	white
+case	stripes	with
+amod	stripes	red
+cc	red	and
+conj:and	red	gold
+nmod:with	white	stripes
+punct	white	.

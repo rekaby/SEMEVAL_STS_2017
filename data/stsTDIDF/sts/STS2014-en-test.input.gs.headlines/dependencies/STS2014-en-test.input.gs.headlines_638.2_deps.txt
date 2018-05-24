@@ -1,0 +1,7 @@
+compound	army	Syria
+nsubj	continues	army
+root	ROOT	continues
+amod	operations	mop-up
+dobj	continues	operations
+case	Damascus	near
+nmod:near	operations	Damascus

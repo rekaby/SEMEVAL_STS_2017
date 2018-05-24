@@ -1,0 +1,5 @@
+root	ROOT	Snow
+case	ground	on
+det	ground	the
+nmod:on	Snow	ground
+punct	Snow	.

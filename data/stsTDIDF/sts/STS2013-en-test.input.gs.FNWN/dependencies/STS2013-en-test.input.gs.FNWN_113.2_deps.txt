@@ -1,0 +1,16 @@
+root	ROOT	look
+case	interpret	at
+punct	interpret	,
+nmod:at	look	interpret
+punct	look	,
+cc	look	and
+conj:and	look	say
+advmod	loud	out
+amod	something	loud
+dobj	say	something
+nsubjpass	written	that
+auxpass	written	is
+acl:relcl	something	written
+cc	written	or
+conj:or	written	printed
+punct	look	;

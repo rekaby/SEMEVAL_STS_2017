@@ -1,0 +1,14 @@
+advmod	korea	north
+nsubj	process	korea
+cop	process	is
+advmod	process	currently
+case	process	in
+det	process	the
+root	ROOT	process
+mark	dismantling	of
+acl	process	dismantling
+nmod:poss	program	its
+amod	program	nuclear
+compound	program	weapons
+dobj	dismantling	program
+punct	process	.

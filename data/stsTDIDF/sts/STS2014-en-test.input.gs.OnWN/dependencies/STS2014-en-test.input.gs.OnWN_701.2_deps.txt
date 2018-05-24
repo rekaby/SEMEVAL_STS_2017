@@ -1,0 +1,8 @@
+root	ROOT	carry
+punct	carry	,
+case	back	as
+case	back	on
+nmod:poss	back	one
+case	one	's
+advcl:on	carry	back
+punct	carry	.

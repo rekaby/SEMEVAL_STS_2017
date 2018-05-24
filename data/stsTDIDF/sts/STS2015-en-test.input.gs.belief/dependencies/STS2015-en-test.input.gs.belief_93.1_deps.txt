@@ -1,0 +1,10 @@
+det	course	the
+amod	course	proper
+nsubjpass	taken	course
+auxpass	taken	was
+root	ROOT	taken
+case	nagasaki	about
+nmod:about	taken	nagasaki
+cc	nagasaki	and
+conj:and	nagasaki	hiroshima
+punct	taken	.

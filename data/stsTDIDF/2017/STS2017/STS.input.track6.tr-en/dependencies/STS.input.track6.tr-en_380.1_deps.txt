@@ -1,0 +1,14 @@
+det	man	A
+nsubj	driving	man
+aux	driving	is
+root	ROOT	driving
+case	hall	by
+det	hall	the
+compound	hall	exhibition
+nmod:by	driving	hall
+case	car	in
+det	car	a
+amod	car	small
+amod	car	yellow
+nmod:in	driving	car
+punct	driving	.

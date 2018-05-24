@@ -1,0 +1,7 @@
+compound	lands	Plane
+compound	lands	crash
+root	ROOT	lands
+case	airport	at
+compound	airport	San
+compound	airport	Francisco
+nmod:at	lands	airport

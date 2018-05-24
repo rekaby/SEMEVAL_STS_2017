@@ -1,0 +1,11 @@
+mark	is	Because
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+amod	gap	due
+case	bulb	to
+det	bulb	a
+amod	bulb	damaged
+nmod:to	due	bulb
+punct	is	.

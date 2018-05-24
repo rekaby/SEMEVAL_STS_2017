@@ -1,0 +1,11 @@
+advmod	track	How
+aux	track	do
+nsubj	track	I
+root	ROOT	track
+compound	performance	investment
+dobj	track	performance
+case	Quicken	in
+nmod:in	performance	Quicken
+case	rollovers	across
+nmod:across	performance	rollovers
+punct	track	?

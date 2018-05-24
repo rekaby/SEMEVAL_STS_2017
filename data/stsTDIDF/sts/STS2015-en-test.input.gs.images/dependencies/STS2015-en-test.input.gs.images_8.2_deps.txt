@@ -1,0 +1,8 @@
+nummod	dogs	Two
+amod	dogs	grey
+root	ROOT	dogs
+acl	dogs	running
+case	grass	in
+amod	grass	green
+nmod:in	running	grass
+punct	dogs	.

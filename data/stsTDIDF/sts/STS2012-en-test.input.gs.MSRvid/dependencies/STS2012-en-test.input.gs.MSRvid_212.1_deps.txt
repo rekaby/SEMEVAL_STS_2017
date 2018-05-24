@@ -1,0 +1,10 @@
+det	man	A
+nsubj	plays	man
+acl	man	sitting
+case	floor	on
+det	floor	the
+nmod:on	sitting	floor
+root	ROOT	plays
+det	guitar	a
+dobj	plays	guitar
+punct	plays	.

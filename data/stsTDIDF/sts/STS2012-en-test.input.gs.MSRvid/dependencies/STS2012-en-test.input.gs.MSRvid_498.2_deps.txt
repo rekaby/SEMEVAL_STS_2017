@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	watching	woman
+aux	watching	is
+root	ROOT	watching
+dobj	watching	television
+punct	watching	.

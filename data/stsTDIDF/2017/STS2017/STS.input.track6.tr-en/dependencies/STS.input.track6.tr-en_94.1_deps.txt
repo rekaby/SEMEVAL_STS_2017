@@ -1,0 +1,9 @@
+det	child	A
+root	ROOT	child
+acl	child	running
+case	arms	into
+nmod:poss	mother	his
+nmod:poss	arms	mother
+case	mother	's
+nmod:into	running	arms
+punct	child	.

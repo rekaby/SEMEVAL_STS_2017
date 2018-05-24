@@ -1,0 +1,8 @@
+girl	old	amod
+cream	chocolate	compound
+cream	ice	compound
+old	year	nmod:npmod
+eats	cream	dobj
+eats	girl	nsubj
+year	twelve	nummod
+ROOT	eats	root

@@ -1,0 +1,12 @@
+det	impact	The
+nsubjpass	measured	impact
+aux	measured	will
+auxpass	measured	be
+root	ROOT	measured
+case	Whitecaps	in
+compound	Whitecaps	Vancouver
+nmod:in	measured	Whitecaps
+case	semi-finals	in
+det	semi-finals	the
+nmod:in	measured	semi-finals
+punct	measured	.

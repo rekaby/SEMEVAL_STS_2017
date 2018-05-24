@@ -1,0 +1,15 @@
+det	studies	Both
+nsubjpass	published	studies
+auxpass	published	are
+root	ROOT	published
+case	Thursday	on
+nmod:on	published	Thursday
+case	Nature	in
+nmod:in	published	Nature
+punct	Nature	,
+det	journal	the
+amod	journal	British
+amod	journal	weekly
+compound	journal	science
+appos	Nature	journal
+punct	published	.

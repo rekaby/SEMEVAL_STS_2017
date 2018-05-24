@@ -1,0 +1,7 @@
+det	girl	The
+amod	girl	little
+nsubj	rode	girl
+root	ROOT	rode
+det	horse	a
+dobj	rode	horse
+punct	rode	.

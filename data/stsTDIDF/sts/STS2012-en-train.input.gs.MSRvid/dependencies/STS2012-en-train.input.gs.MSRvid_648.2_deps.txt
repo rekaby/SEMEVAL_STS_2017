@@ -1,0 +1,10 @@
+det	person	A
+nsubj	driving	person
+aux	driving	is
+root	ROOT	driving
+det	motorcycle	a
+dobj	driving	motorcycle
+case	road	on
+det	road	a
+nmod:on	driving	road
+punct	driving	.

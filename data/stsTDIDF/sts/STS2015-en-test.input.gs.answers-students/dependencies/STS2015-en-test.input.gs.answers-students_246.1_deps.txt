@@ -1,0 +1,11 @@
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	3	between
+amod	3	terminal
+nmod:between	gap	3
+cc	3	and
+det	terminal	the
+amod	terminal	positive
+conj:and	3	terminal

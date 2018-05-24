@@ -1,0 +1,7 @@
+sitting	white	amod
+bicycle	on	case
+sitting	in	mark
+dressed	sitting	advcl
+bicycle	a	det
+People	dressed	acl
+sitting	bicycle	nmod:on

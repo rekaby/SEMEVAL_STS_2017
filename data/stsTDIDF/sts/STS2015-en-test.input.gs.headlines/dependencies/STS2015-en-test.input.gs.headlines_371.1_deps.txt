@@ -1,0 +1,8 @@
+nsubj	says	Microsoft
+root	ROOT	says
+mark	cut	to
+xcomp	says	cut
+compound:prt	cut	up
+case	jobs	to
+nummod	jobs	18,000
+nmod:to	cut	jobs

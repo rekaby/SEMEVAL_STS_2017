@@ -1,0 +1,6 @@
+det	component	the
+amod	component	primary
+root	ROOT	component
+case	communication	of
+det	communication	a
+nmod:of	component	communication

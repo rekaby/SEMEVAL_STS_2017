@@ -1,0 +1,6 @@
+compound	Votes	Mali
+compound	Votes	Counts
+root	ROOT	Votes
+case	Runoff	After
+compound	Runoff	Presidential
+nmod:after	Votes	Runoff

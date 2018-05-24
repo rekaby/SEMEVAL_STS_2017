@@ -1,0 +1,11 @@
+root	ROOT	US
+punct	US	:
+compound	brother	Madoff
+appos	US	brother
+mark	plead	to
+acl	brother	plead
+xcomp	plead	guilty
+case	NY	in
+nmod:in	guilty	NY
+case	fraud	in
+nmod:in	plead	fraud

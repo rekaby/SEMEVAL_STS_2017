@@ -1,0 +1,7 @@
+root	ROOT	hold
+cc	hold	or
+conj:or	hold	embrace
+case	grip	in
+det	grip	a
+amod	grip	tight
+nmod:in	hold	grip

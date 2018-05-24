@@ -1,0 +1,12 @@
+det	psychology	The
+root	ROOT	psychology
+case	one-upmanship	of
+nmod:of	psychology	one-upmanship
+punct	psychology	:
+advmod	spending	Why
+aux	spending	are
+nsubj	spending	we
+dep	psychology	spending
+amod	money	more
+dobj	spending	money
+punct	spending	?

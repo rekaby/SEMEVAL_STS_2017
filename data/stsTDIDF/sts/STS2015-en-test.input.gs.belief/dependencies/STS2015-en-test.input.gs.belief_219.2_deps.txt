@@ -1,0 +1,17 @@
+nsubj	wanted	i
+root	ROOT	wanted
+mark	speak	to
+xcomp	wanted	speak
+case	head	to
+det	head	the
+nmod:to	speak	head
+case	teachers	on
+det	teachers	the
+nmod:on	head	teachers
+dep	teachers	recommendation
+cc	wanted	but
+nsubj	busy	he
+cop	busy	was
+advmod	busy	really
+conj:but	wanted	busy
+punct	wanted	.

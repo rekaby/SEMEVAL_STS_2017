@@ -1,0 +1,8 @@
+compound	Tendulkar	Sachin
+nsubjpass	sworn	Tendulkar
+auxpass	sworn	is
+root	ROOT	sworn
+case	senator	in
+case	senator	as
+amod	senator	Indian
+nmod:as	sworn	senator

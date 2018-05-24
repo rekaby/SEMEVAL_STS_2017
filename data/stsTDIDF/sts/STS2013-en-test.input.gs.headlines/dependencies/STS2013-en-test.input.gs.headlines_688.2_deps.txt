@@ -1,0 +1,6 @@
+nsubj	scrambles	Turkey
+root	ROOT	scrambles
+dobj	scrambles	jets
+case	border	to
+amod	border	Syrian
+nmod:to	jets	border

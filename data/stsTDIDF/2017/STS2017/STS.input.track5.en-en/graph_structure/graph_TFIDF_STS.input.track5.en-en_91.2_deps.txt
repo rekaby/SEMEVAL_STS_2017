@@ -1,0 +1,6 @@
+men	playing	acl
+group	men	nmod:of
+stadium	full	amod
+playing	stadium	nmod:in
+playing	soccer	dobj
+full	people	nmod:of

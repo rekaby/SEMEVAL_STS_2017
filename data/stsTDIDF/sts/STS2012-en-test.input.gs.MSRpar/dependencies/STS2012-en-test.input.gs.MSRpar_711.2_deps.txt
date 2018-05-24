@@ -1,0 +1,16 @@
+nsubj	clocked	Astronomers
+aux	clocked	have
+root	ROOT	clocked
+nummod	moons	eight
+amod	moons	more
+compound	Jupiter	moons
+compound	Jupiter	orbiting
+dobj	clocked	Jupiter
+punct	clocked	,
+advcl	clocked	bringing
+nmod:poss	total	its
+amod	total	known
+dobj	bringing	total
+case	60	to
+nmod:to	bringing	60
+punct	clocked	.

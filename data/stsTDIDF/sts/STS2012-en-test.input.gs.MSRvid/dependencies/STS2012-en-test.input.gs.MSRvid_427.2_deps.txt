@@ -1,0 +1,9 @@
+det	breaks	A
+compound	breaks	man
+root	ROOT	breaks
+amod	blocks	cinder
+dep	breaks	blocks
+case	man	on
+det	man	another
+nmod:on	blocks	man
+punct	breaks	.

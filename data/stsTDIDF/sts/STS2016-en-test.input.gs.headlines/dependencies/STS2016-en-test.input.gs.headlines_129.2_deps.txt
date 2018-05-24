@@ -1,0 +1,7 @@
+root	ROOT	U.S.
+punct	U.S.	,
+compound	Sanctions	EU
+compound	Sanctions	Boost
+appos	U.S.	Sanctions
+case	Russia	On
+nmod:on	U.S.	Russia

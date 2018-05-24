@@ -1,0 +1,9 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+det	onion	an
+dobj	cutting	onion
+case	pieces	into
+nmod:into	cutting	pieces
+punct	cutting	.

@@ -1,0 +1,7 @@
+root	ROOT	ok
+punct	ok	,
+appos	ok	thanks
+case	explanation	for
+det	explanation	the
+nmod:for	thanks	explanation
+punct	ok	.

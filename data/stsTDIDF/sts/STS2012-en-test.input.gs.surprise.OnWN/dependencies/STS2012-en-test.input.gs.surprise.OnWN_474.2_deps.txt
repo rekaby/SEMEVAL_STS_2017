@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	throb	to
+xcomp	cause	throb
+cc	throb	or
+conj:or	throb	beat
+advmod	throb	rapidly
+punct	cause	.

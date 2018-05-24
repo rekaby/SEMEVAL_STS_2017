@@ -1,0 +1,6 @@
+player	throwing	acl
+tackled	is	auxpass
+throwing	ball	dobj
+ROOT	tackled	root
+tackled	player	nsubjpass
+tackled	another	nmod:agent

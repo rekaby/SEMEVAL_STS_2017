@@ -1,0 +1,8 @@
+nsubj	Kills	Explosion
+case	Refinery	at
+compound	Refinery	Venezuela
+nmod:at	Explosion	Refinery
+root	ROOT	Kills
+case	Least	at
+nmod:at	Kills	Least
+dep	Kills	39

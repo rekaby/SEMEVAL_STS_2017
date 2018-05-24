@@ -1,0 +1,7 @@
+compound	Court	Supreme
+nsubj	Hears	Court
+root	ROOT	Hears
+dobj	Hears	Argument
+case	Towers	on
+compound	Towers	Cellphone
+nmod:on	Argument	Towers

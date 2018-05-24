@@ -1,0 +1,11 @@
+mark	connected	Because
+det	terminal	the
+amod	terminal	positive
+compound	terminal	batter
+nsubjpass	connected	terminal
+cc	terminal	and
+amod	6	terminal
+conj:and	terminal	6
+auxpass	connected	were
+root	ROOT	connected
+punct	connected	.

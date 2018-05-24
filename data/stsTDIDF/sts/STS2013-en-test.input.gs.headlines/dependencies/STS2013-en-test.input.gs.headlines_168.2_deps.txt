@@ -1,0 +1,7 @@
+case	least	At
+nmod:npmod	20	least
+root	ROOT	20
+acl	20	killed
+case	Syria	in
+nmod:in	killed	Syria
+nmod:tmod	killed	Saturday

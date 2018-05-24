@@ -1,0 +1,8 @@
+compound	Presidency	Iran
+amod	Presidency	Moderate
+compound	Presidency	Wins
+root	ROOT	Presidency
+case	Margin	by
+det	Margin	a
+amod	Margin	Large
+nmod:by	Presidency	Margin

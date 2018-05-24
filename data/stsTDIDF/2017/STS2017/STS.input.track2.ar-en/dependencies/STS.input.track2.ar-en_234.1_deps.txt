@@ -1,0 +1,8 @@
+det	person	A
+amod	person	homeless
+nsubj	taking	person
+aux	taking	is
+root	ROOT	taking
+det	nap	a
+dobj	taking	nap
+punct	taking	.

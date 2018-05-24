@@ -1,0 +1,12 @@
+listen	attractive	nmod:to
+read	story	dobj
+listen	Aldgron	nsubj
+professor	attractive	amod
+attractive	to	case
+professor	/	punct
+ROOT	listen	root
+attractive	Professor	nmod:npmod
+listen	read	ccomp
+listen	.	punct
+Aldgron	Children	compound
+read	professor	nsubj

@@ -1,0 +1,6 @@
+nsubj	receives	It
+root	ROOT	receives
+dobj	receives	current
+case	Z.	from
+amod	Z.	switche
+nmod:from	current	Z.

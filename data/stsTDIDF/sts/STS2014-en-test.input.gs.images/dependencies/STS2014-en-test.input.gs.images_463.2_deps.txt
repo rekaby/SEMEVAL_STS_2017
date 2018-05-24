@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	long-haired
+nsubj	stands	dog
+root	ROOT	stands
+case	area	in
+det	area	a
+amod	area	grassy
+amod	area	wooded
+nmod:in	stands	area
+punct	stands	.

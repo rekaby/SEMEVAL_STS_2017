@@ -1,0 +1,12 @@
+nsubj	help	It
+aux	help	will
+root	ROOT	help
+ccomp	help	find
+advmod	is	where
+det	gap	the
+nsubj	is	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+advcl	find	is
+punct	help	.

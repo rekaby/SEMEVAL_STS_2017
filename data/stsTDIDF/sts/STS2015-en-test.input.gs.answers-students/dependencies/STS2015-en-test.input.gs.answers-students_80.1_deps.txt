@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+neg	gap	no
+nsubj	is	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+punct	is	.

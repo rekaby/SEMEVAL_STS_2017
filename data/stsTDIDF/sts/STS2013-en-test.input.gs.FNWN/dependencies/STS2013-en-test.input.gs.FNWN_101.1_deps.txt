@@ -1,0 +1,16 @@
+det	entity	an
+nsubj	able	entity
+cop	able	is
+root	ROOT	able
+mark	exert	to
+xcomp	able	exert
+det	force	a
+dobj	exert	force
+case	magnitude	of
+det	magnitude	the
+nmod:of	force	magnitude
+acl	magnitude	specified
+case	target	by
+det	target	the
+nmod:by	specified	target
+punct	able	.

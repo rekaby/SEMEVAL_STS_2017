@@ -1,0 +1,7 @@
+det	group	A
+nsubj	acting	group
+aux	acting	is
+root	ROOT	acting
+case	children	for
+det	children	some
+nmod:for	acting	children

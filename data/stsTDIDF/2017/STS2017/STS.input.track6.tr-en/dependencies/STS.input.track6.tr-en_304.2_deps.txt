@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	black
+nsubj	jumps	dog
+root	ROOT	jumps
+case	pond	out
+mwe	out	of
+det	pond	a
+nmod:out_of	jumps	pond
+punct	jumps	.

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	beating	man
+aux	beating	is
+root	ROOT	beating
+nummod	eggs	two
+dobj	beating	eggs
+case	bowl	in
+det	bowl	a
+nmod:in	beating	bowl
+case	fork	with
+det	fork	a
+nmod:with	bowl	fork
+punct	beating	.

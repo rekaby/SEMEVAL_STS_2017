@@ -1,0 +1,12 @@
+det	person	A
+nsubj	squeezing	person
+aux	squeezing	is
+root	ROOT	squeezing
+case	opening	through
+det	opening	an
+nmod:through	squeezing	opening
+case	face	in
+det	face	the
+compound	face	rock
+nmod:in	opening	face
+punct	squeezing	.

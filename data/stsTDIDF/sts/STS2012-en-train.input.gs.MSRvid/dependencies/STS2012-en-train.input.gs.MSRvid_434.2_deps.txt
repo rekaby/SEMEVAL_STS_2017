@@ -1,0 +1,11 @@
+det	man	A
+nsubj	drawing	man
+aux	drawing	is
+root	ROOT	drawing
+case	a	on
+nmod:on	drawing	a
+amod	a	digital
+dep	digital	dry
+dep	dry	erase
+dobj	erase	board
+punct	drawing	.

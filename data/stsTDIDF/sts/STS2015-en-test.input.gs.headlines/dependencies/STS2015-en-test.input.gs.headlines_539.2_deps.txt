@@ -1,0 +1,7 @@
+amod	protesters	Sudanese
+nsubj	demand	protesters
+root	ROOT	demand
+det	regime	the
+nmod:poss	ouster	regime
+case	regime	's
+dobj	demand	ouster

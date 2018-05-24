@@ -1,0 +1,10 @@
+nsubj	admitted	Ernst
+cc	Ernst	&
+conj:&	Ernst	Young
+root	ROOT	admitted
+neg	wrongdoing	no
+dobj	admitted	wrongdoing
+case	settlement	with
+det	settlement	the
+nmod:with	wrongdoing	settlement
+punct	admitted	.

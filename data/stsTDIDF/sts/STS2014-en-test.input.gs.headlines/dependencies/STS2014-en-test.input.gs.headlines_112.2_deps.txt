@@ -1,0 +1,8 @@
+compound	court	Egypt
+nsubj	bans	court
+root	ROOT	bans
+amod	Brotherhood	Muslim
+compound	activities	Brotherhood
+punct	Brotherhood	`
+dobj	bans	activities
+punct	bans	'

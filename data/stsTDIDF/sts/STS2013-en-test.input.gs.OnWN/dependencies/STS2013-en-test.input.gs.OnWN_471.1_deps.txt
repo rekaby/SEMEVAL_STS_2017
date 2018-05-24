@@ -1,0 +1,8 @@
+root	ROOT	sell
+cc	sell	or
+conj:or	sell	transport
+det	item	an
+dobj	sell	item
+cc	item	or
+conj:or	item	idea
+advmod	sell	abroad

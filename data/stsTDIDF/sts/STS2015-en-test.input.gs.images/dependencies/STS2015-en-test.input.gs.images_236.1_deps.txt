@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	leaping	dog
+root	ROOT	leaping
+case	hurdle	over
+det	hurdle	a
+nmod:over	leaping	hurdle
+punct	leaping	.

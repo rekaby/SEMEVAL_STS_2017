@@ -1,0 +1,7 @@
+nsubj	jumping	Man
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	on
+det	trampoline	a
+dobj	jumping	trampoline
+punct	jumping	.

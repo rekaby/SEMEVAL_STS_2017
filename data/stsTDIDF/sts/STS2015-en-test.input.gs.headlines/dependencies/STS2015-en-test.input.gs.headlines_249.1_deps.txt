@@ -1,0 +1,7 @@
+nummod	children	Five
+root	ROOT	children
+acl	children	buried
+advmod	buried	alive
+case	landslide	in
+compound	landslide	Bohol
+nmod:in	alive	landslide

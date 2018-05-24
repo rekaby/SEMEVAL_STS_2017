@@ -1,0 +1,15 @@
+mark	contained	Because
+compound	A	bulb
+nsubjpass	contained	A
+aux	contained	will
+advmod	contained	still
+auxpass	contained	be
+root	ROOT	contained
+case	path	on
+det	path	a
+amod	path	closed
+nmod:on	contained	path
+case	battery	to
+det	battery	the
+nmod:to	path	battery
+punct	contained	.

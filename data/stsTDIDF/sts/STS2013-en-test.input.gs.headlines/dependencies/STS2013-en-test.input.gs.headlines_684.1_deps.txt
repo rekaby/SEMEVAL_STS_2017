@@ -1,0 +1,9 @@
+compound	jet	Navy
+nsubj	crashes	jet
+root	ROOT	crashes
+case	buildings	into
+compound	buildings	Virginia
+nmod:into	crashes	buildings
+punct	crashes	,
+advcl	crashes	injuring
+dobj	injuring	six

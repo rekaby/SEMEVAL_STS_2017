@@ -1,0 +1,9 @@
+nummod	dead	Five
+root	ROOT	dead
+punct	dead	,
+nummod	disaster	40
+amod	disaster	missing
+case	train	in
+compound	train	Canada
+nmod:in	missing	train
+appos	dead	disaster

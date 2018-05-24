@@ -1,0 +1,16 @@
+det	dog	A
+nsubjpass	squirted	dog
+aux	squirted	is
+auxpass	squirted	being
+root	ROOT	squirted
+case	hose	with
+det	hose	a
+nmod:with	squirted	hose
+mark	jumps	as
+nsubj	jumps	it
+advcl	squirted	jumps
+case	pool	into
+det	pool	a
+amod	pool	paddling
+nmod:into	jumps	pool
+punct	squirted	.

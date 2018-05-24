@@ -1,0 +1,9 @@
+det	definition	The
+nsubj	depends	definition
+case	term	of
+nmod:of	definition	term
+root	ROOT	depends
+case	application	on
+det	application	the
+nmod:on	depends	application
+punct	depends	.

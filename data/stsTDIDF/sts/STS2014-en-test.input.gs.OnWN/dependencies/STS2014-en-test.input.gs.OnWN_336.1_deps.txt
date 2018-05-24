@@ -1,0 +1,14 @@
+det	person	a
+nmod:npmod	else	person
+cc	person	or
+conj:or	person	thing
+case	role	in
+det	role	the
+nmod:in	person	role
+mark	replacement	of
+cop	replacement	being
+det	replacement	a
+acl	role	replacement
+case	something	for
+nmod:for	replacement	something
+root	ROOT	else

@@ -1,0 +1,11 @@
+nummod	hands	One
+compound	hands	woman
+nsubj	volleyballs	hands
+root	ROOT	volleyballs
+case	woman	to
+det	woman	another
+nmod:to	volleyballs	woman
+nsubj	serves	who
+acl:relcl	woman	serves
+dobj	serves	them
+punct	volleyballs	.

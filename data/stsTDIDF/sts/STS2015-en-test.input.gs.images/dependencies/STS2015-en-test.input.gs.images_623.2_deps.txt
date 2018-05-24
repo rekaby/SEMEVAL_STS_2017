@@ -1,0 +1,10 @@
+det	man	A
+amod	man	young
+nsubj	jumps	man
+root	ROOT	jumps
+case	balcony	from
+nummod	balcony	one
+nmod:from	jumps	balcony
+case	another	to
+nmod:to	jumps	another
+punct	jumps	.

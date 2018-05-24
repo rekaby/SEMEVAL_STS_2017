@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	waiting	woman
+aux	waiting	is
+amod	waiting	outside
+root	ROOT	waiting
+case	walk	for
+det	walk	a
+nmod:for	waiting	walk
+punct	waiting	.

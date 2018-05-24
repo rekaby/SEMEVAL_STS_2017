@@ -1,0 +1,14 @@
+det	act	the
+root	ROOT	act
+mark	distributing	of
+acl	act	distributing
+dobj	distributing	things
+case	classes	into
+nmod:into	distributing	classes
+cc	classes	or
+conj:or	classes	categories
+case	type	of
+det	type	the
+amod	type	same
+nmod:of	classes	type
+punct	act	.

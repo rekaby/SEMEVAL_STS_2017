@@ -1,0 +1,9 @@
+amod	text	Full
+root	ROOT	text
+punct	text	:
+compound	Agenda	China-EU
+nummod	Agenda	2020
+compound	Agenda	Strategic
+dep	text	Agenda
+case	Cooperation	for
+nmod:for	Agenda	Cooperation

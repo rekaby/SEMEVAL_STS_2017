@@ -1,0 +1,6 @@
+root	ROOT	disregard
+punct	disregard	,
+appos	disregard	fail
+mark	attend	to
+xcomp	fail	attend
+nmod	attend	to

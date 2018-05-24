@@ -1,0 +1,7 @@
+compound	Prada	Jaya
+nsubj	set	Prada
+advmod	set	all
+root	ROOT	set
+mark	join	to
+xcomp	set	join
+dobj	join	BJP

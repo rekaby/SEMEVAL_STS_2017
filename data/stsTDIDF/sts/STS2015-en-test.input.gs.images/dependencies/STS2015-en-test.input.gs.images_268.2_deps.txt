@@ -1,0 +1,8 @@
+det	man	A
+nsubj	kayaking	man
+aux	kayaking	is
+root	ROOT	kayaking
+case	waters	in
+amod	waters	rough
+nmod:in	kayaking	waters
+punct	kayaking	.

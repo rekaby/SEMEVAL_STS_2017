@@ -1,0 +1,5 @@
+root	ROOT	design
+case	purpose	for
+det	purpose	a
+amod	purpose	specific
+nmod:for	design	purpose

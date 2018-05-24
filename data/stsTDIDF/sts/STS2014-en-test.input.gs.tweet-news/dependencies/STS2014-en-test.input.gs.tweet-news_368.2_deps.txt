@@ -1,0 +1,11 @@
+punct	check	`
+compound	check	Universal
+compound	check	background
+root	ROOT	check
+punct	check	'
+punct	check	:
+dobj	mean	What
+aux	mean	does
+nsubj	mean	it
+parataxis	check	mean
+punct	mean	?

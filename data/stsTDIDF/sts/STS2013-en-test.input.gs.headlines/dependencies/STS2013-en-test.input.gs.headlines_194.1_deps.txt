@@ -1,0 +1,6 @@
+compound	powers	Hurricane
+compound	powers	Sandy
+root	ROOT	powers
+case	Seaboard	toward
+compound	Seaboard	Eastern
+nmod:toward	powers	Seaboard

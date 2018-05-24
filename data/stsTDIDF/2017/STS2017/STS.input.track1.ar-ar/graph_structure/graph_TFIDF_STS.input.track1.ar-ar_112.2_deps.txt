@@ -1,0 +1,6 @@
+sitting	table	nmod:behind
+man	speaking	acl
+woman	to	case
+speaking	woman	nmod:to
+woman	sitting	acl
+table	behind	case

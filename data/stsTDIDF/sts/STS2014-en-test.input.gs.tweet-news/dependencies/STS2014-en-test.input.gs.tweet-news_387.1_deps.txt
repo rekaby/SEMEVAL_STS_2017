@@ -1,0 +1,12 @@
+root	ROOT	ICYMI
+punct	ICYMI	:
+punct	ICYMI	``
+mark	Compete	As
+amod	Athletes	Disabled
+nsubj	Compete	Athletes
+root	``	Compete
+punct	Compete	,
+root	,	Questions
+case	Logistics	of
+nmod:of	Questions	Logistics
+punct	Questions	''

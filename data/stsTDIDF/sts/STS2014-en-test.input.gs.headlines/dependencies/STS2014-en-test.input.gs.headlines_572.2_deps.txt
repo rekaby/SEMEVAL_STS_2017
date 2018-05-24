@@ -1,0 +1,10 @@
+nsubj	settles	UBS
+root	ROOT	settles
+compound	lawsuit	US
+compound	lawsuit	mortgage
+dobj	settles	lawsuit
+cc	settles	and
+conj:and	settles	takes
+compound	charge	#
+compound	charge	600m
+dobj	takes	charge

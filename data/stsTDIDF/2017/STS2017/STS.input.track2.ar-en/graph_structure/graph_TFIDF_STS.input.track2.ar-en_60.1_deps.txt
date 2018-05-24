@@ -1,0 +1,5 @@
+pops	bubble	dobj
+pops	.	punct
+bubble	a	det
+pops	woman	nsubj
+ROOT	pops	root

@@ -1,0 +1,9 @@
+root	ROOT	Cyclist
+case	forest	in
+det	forest	a
+nmod:in	Cyclist	forest
+acl	forest	covered
+case	snow	with
+nmod:with	covered	snow
+case	night	at
+nmod:at	Cyclist	night

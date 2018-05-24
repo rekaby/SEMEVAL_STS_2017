@@ -1,0 +1,5 @@
+compound	prices	Gas
+nsubj	tick	prices
+root	ROOT	tick
+compound:prt	tick	up
+advmod	tick	slightly

@@ -1,0 +1,12 @@
+det	stiching	The
+root	ROOT	stiching
+nsubj	forms	that
+acl:relcl	stiching	forms
+det	rim	the
+dobj	forms	rim
+case	shoe	of
+det	shoe	a
+nmod:of	rim	shoe
+cc	shoe	or
+conj:or	shoe	boot
+punct	stiching	.

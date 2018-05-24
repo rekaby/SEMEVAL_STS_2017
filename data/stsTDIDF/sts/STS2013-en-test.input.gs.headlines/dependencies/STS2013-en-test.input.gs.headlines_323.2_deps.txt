@@ -1,0 +1,6 @@
+compound	Leader	Al-Qaida
+nsubj	Urges	Leader
+root	ROOT	Urges
+dobj	Urges	Kidnapping
+case	Westerners	of
+nmod:of	Kidnapping	Westerners

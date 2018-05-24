@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	wrestling	women
+aux	wrestling	are
+root	ROOT	wrestling
+case	floor	on
+det	floor	the
+nmod:on	wrestling	floor
+punct	wrestling	.

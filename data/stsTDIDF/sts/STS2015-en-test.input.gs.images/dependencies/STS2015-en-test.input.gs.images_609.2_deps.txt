@@ -1,0 +1,10 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	playing
+case	sand	in
+det	sand	the
+nmod:in	playing	sand
+case	beach	at
+det	beach	the
+nmod:at	playing	beach
+punct	dogs	.

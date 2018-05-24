@@ -1,0 +1,10 @@
+advmod	others	then
+nsubj	others	i
+amod	others	found
+root	ROOT	others
+nsubj	countered	that
+acl:relcl	others	countered
+dobj	said	what
+nsubj	said	she
+ccomp	countered	said
+punct	others	.

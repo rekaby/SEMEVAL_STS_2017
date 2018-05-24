@@ -1,0 +1,14 @@
+root	ROOT	immerse
+cc	immerse	or
+auxpass	immersed	be
+conj:or	immerse	immersed
+case	liquid	in
+det	liquid	a
+amod	liquid	boiling
+nmod:in	immerse	liquid
+punct	immerse	,
+advmod	purposes	often
+case	purposes	for
+compound	purposes	cooking
+nmod:for	immerse	purposes
+punct	immerse	.

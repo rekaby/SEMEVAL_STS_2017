@@ -1,0 +1,15 @@
+det	lady	A
+nsubj	shows	lady
+root	ROOT	shows
+det	guy	a
+dobj	shows	guy
+det	reptile	a
+dep	guy	reptile
+mark	background	while
+det	child	another
+nsubj	background	child
+cop	background	is
+case	background	in
+det	background	the
+dep	reptile	background
+punct	shows	.

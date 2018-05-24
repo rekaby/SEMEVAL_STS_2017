@@ -1,0 +1,9 @@
+root	ROOT	make
+det	prediction	a
+dobj	make	prediction
+advmod	prediction	about
+punct	make	;
+parataxis	make	tell
+case	advance	in
+nmod:in	tell	advance
+punct	make	.

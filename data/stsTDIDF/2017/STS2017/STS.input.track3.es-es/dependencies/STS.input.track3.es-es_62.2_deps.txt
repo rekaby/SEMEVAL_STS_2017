@@ -1,0 +1,7 @@
+nsubj	home	People
+cop	home	are
+case	home	at
+root	ROOT	home
+acl	home	having
+dobj	having	dinner
+punct	home	.

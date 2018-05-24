@@ -1,0 +1,9 @@
+mark	goes	that
+amod	media	darn
+amod	media	liberal
+nsubj	goes	media
+neg	goes	never
+root	ROOT	goes
+case	liberals	after
+nmod:after	goes	liberals
+dep	goes	!!!

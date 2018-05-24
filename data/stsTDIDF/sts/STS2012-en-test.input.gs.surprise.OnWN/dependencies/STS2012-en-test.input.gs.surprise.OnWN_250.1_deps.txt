@@ -1,0 +1,8 @@
+root	ROOT	deliver
+det	talk	a
+amod	talk	formal
+dobj	deliver	talk
+cc	talk	or
+conj:or	talk	reprimand
+case	length	at
+nmod:at	deliver	length

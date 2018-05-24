@@ -1,0 +1,8 @@
+det	man	A
+nsubj	traveling	man
+aux	traveling	is
+root	ROOT	traveling
+case	boat	in
+det	boat	a
+nmod:in	traveling	boat
+punct	traveling	.

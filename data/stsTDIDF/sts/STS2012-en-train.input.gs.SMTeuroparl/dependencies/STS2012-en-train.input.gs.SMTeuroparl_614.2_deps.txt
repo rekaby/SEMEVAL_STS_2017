@@ -1,0 +1,17 @@
+nsubj	priority	That
+cop	priority	is
+nmod:poss	priority	our
+compound	priority	fight
+nsubjpass	implemented	priority
+case	affirmation	for
+det	affirmation	the
+nmod:for	priority	affirmation
+case	rights	of
+amod	rights	fundamental
+nmod:of	affirmation	rights
+auxpass	implemented	is
+root	ROOT	implemented
+case	choices	in
+amod	choices	political
+nmod:in	implemented	choices
+punct	implemented	.

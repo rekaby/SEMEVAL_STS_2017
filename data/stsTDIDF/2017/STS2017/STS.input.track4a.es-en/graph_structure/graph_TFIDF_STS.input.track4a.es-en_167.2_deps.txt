@@ -1,0 +1,5 @@
+distance	in	case
+person	black	nmod:in
+off	distance	nmod:in
+black	in	case
+person	is	dep

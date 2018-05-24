@@ -1,0 +1,10 @@
+throws	pool	nmod:into
+make	laugh	dobj
+pool	into	case
+throws	.	punct
+ROOT	throws	root
+laugh	son	compound
+laugh	her	nmod:poss
+throws	make	advcl
+throws	woman	nsubj
+throws	her	dobj

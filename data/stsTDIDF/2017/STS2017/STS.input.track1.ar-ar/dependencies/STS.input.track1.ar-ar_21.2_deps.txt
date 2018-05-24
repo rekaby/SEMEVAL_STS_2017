@@ -1,0 +1,8 @@
+nsubj	reading	Dog
+root	ROOT	reading
+det	book	a
+dobj	reading	book
+case	child	to
+det	child	a
+nmod:to	reading	child
+punct	reading	.

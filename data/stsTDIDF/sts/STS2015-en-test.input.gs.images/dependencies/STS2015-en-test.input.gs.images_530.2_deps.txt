@@ -1,0 +1,11 @@
+nummod	ladies	Four
+nsubj	play	ladies
+case	swimsuits	in
+nmod:in	ladies	swimsuits
+root	ROOT	play
+compound	volleyball	sand
+dobj	play	volleyball
+case	beach	on
+det	beach	the
+nmod:on	play	beach
+punct	play	.

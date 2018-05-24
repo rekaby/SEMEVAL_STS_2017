@@ -1,0 +1,10 @@
+dobj	do	What
+aux	do	should
+nsubj	do	I
+root	ROOT	do
+case	debt	with
+nmod:poss	debt	my
+compound	debt	credit
+compound	debt	card
+nmod:with	do	debt
+punct	do	?

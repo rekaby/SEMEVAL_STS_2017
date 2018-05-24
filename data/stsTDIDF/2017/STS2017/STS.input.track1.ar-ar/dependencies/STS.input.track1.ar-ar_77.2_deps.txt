@@ -1,0 +1,7 @@
+det	band	The
+root	ROOT	band
+acl	band	played
+case	lights	under
+det	lights	the
+nmod:under	played	lights
+punct	band	.

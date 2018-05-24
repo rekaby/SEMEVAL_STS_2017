@@ -1,0 +1,11 @@
+det	drug	the
+nsubj	forms	drug
+aux	forms	has
+cop	forms	been
+advmod	forms	around
+case	forms	in
+amod	forms	other
+root	ROOT	forms
+case	years	for
+nmod:for	forms	years
+punct	forms	.

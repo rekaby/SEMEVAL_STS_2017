@@ -1,0 +1,10 @@
+det	girl	The
+amod	girl	little
+nsubj	runs	girl
+root	ROOT	runs
+advmod	runs	away
+case	boy	from
+det	boy	the
+amod	boy	little
+nmod:from	runs	boy
+punct	runs	.

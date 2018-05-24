@@ -1,0 +1,11 @@
+det	amount	A
+amod	amount	large
+nsubj	heading	amount
+case	penguins	of
+nmod:of	amount	penguins
+aux	heading	are
+root	ROOT	heading
+case	ocean	to
+det	ocean	the
+nmod:to	heading	ocean
+punct	heading	.

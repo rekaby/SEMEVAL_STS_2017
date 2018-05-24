@@ -1,0 +1,14 @@
+det	boy	A
+amod	boy	young
+nsubj	holding	boy
+case	coat	with
+det	coat	a
+nmod:with	boy	coat
+case	head	on
+nmod:poss	head	his
+nmod:on	coat	head
+aux	holding	is
+root	ROOT	holding
+nmod:poss	goat	his
+dobj	holding	goat
+punct	holding	.

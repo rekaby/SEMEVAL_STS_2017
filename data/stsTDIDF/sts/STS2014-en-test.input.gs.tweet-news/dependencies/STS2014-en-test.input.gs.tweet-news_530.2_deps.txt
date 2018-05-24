@@ -1,0 +1,15 @@
+compound	Finance	High
+cc	High	&
+conj:&	High	Low
+root	ROOT	Finance
+punct	Finance	:
+dep	Finance	Signs
+case	Point	of
+det	Point	a
+compound	Point	Housing
+compound	Point	Recovery
+nmod:of	Signs	Point
+case	Economy	to
+det	Economy	a
+amod	Economy	Stronger
+nmod:to	Point	Economy

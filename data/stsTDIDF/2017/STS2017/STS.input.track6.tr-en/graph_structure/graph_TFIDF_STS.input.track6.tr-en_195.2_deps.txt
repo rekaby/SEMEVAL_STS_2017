@@ -1,0 +1,3 @@
+expect	People	nsubj
+expect	train	dobj
+expect	come	xcomp

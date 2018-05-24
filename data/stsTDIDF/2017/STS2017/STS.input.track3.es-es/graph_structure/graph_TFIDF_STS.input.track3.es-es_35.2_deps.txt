@@ -1,0 +1,5 @@
+pants	in	case
+pants	blue	amod
+plays	boy	nsubj
+plays	floor	nmod:on
+boy	pants	nmod:in

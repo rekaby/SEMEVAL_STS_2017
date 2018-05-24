@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	getting	dog
+aux	getting	is
+root	ROOT	getting
+det	water	some
+dobj	getting	water
+case	face	in
+nmod:poss	face	his
+nmod:in	getting	face
+punct	getting	.

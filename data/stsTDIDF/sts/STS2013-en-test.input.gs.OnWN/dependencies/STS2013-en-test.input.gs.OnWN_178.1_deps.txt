@@ -1,0 +1,5 @@
+root	ROOT	pronounce
+case	twang	with
+det	twang	a
+amod	twang	nasal
+nmod:with	pronounce	twang

@@ -1,0 +1,16 @@
+advmod	month	Only
+det	month	a
+advmod	disrupted	month
+case	month	before
+punct	disrupted	,
+compound	applications	muybarak
+nsubj	disrupted	applications
+case	reform	of
+amod	reform	constitutional
+nmod:of	applications	reform
+csubj	futile	disrupted
+cop	futile	were
+punct	futile	``
+root	ROOT	futile
+punct	futile	.
+punct	futile	''

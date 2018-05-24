@@ -1,0 +1,12 @@
+det	Israel	That
+nsubj	giva	Israel
+aux	giva	does
+neg	giva	n't
+root	ROOT	giva
+det	****	a
+dobj	giva	****
+dobj	thinks	what
+nsubj	thinks	anybody
+advmod	thinks	else
+acl:relcl	****	thinks
+punct	giva	.

@@ -1,0 +1,5 @@
+nsubj	bans	Egypt
+root	ROOT	bans
+amod	group	Muslim
+compound	group	Brotherhood
+dobj	bans	group

@@ -1,0 +1,13 @@
+root	ROOT	Are
+nsubj	better	you
+ccomp	Are	better
+compound:prt	better	off
+punct	better	``
+dep	better	playing
+case	tie	for
+det	tie	a
+nmod:for	playing	tie
+punct	tie	''
+case	#investing	in
+nmod:in	playing	#investing
+punct	Are	:

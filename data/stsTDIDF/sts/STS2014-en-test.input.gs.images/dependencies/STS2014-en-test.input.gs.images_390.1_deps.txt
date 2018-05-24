@@ -1,0 +1,12 @@
+det	bird	A
+amod	bird	blue
+nsubj	perches	bird
+root	ROOT	perches
+case	hand	on
+det	hand	the
+amod	hand	gloved
+nmod:on	perches	hand
+case	person	of
+det	person	a
+nmod:of	hand	person
+punct	perches	.

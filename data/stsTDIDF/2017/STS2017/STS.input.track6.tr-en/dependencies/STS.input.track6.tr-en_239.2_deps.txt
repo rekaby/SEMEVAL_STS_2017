@@ -1,0 +1,15 @@
+det	man	A
+amod	man	black
+cc	black	and
+conj:and	black	wrapped
+nsubj	talking	man
+case	horse	on
+det	horse	a
+nmod:on	man	horse
+aux	talking	is
+root	ROOT	talking
+xcomp	talking	to
+dobj	to	someone
+acl	someone	wearing
+dobj	wearing	red
+punct	talking	.

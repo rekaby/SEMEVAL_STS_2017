@@ -1,0 +1,9 @@
+amod	Protests	Anti-American
+root	ROOT	Protests
+case	Expand	Over
+compound	Expand	Film
+nmod:over	Protests	Expand
+case	Countries	to
+advmod	20	Nearly
+nummod	Countries	20
+nmod:to	Protests	Countries

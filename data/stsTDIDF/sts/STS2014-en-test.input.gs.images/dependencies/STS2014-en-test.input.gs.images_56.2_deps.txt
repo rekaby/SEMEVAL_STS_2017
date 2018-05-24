@@ -1,0 +1,9 @@
+root	ROOT	Cow
+acl	Cow	walking
+case	tree	under
+det	tree	the
+nmod:under	walking	tree
+case	pasture	in
+det	pasture	a
+nmod:in	walking	pasture
+punct	Cow	.

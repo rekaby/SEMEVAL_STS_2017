@@ -1,0 +1,9 @@
+root	ROOT	Depends
+mark	define	on
+advmod	define	how
+nsubj	define	you
+acl	Depends	define
+punct	extreme	``
+xcomp	define	extreme
+punct	extreme	''
+punct	Depends	.

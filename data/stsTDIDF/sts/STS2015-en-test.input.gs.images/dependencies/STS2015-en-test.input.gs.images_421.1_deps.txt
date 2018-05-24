@@ -1,0 +1,10 @@
+det	dog	A
+root	ROOT	dog
+cc	dog	and
+det	ball	a
+amod	ball	red
+conj:and	dog	ball
+case	air	in
+det	air	the
+nmod:in	dog	air
+punct	dog	.

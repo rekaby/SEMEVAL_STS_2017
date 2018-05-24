@@ -1,0 +1,16 @@
+nsubj	watch	Rivals
+root	ROOT	watch
+mark	hopes	as
+nmod:poss	drilling	Shell
+case	Shell	's
+compound	drilling	#Arctic
+nsubj	hopes	drilling
+advcl	watch	hopes
+ccomp	hopes	hit
+dobj	hit	snags
+punct	watch	.-11) root(ROOT-0, $
+nummod	$	RDS.A
+compound	#oil	#Alaska
+compound	#oil	#KeystoneXL
+dep	$	#oil
+dep	$	#politics

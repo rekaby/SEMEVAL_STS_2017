@@ -1,0 +1,13 @@
+det	issue	The
+nsubj	is	issue
+root	ROOT	is
+mark	becomes	that
+nsubj	becomes	it
+neg	becomes	never
+ccomp	is	becomes
+xcomp	becomes	useful
+case	meaning	in
+nmod:poss	meaning	its
+amod	meaning	true
+nmod:in	useful	meaning
+punct	is	.

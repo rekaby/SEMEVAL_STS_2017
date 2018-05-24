@@ -1,0 +1,12 @@
+det	u.s.	the
+root	ROOT	u.s.
+punct	u.s.	,
+amod	nations	other
+amod	nations	western
+nsubj	demanded	nations
+cc	nations	and
+conj:and	nations	nato
+acl:relcl	u.s.	demanded
+det	cease-fire	a
+dobj	demanded	cease-fire
+punct	u.s.	.

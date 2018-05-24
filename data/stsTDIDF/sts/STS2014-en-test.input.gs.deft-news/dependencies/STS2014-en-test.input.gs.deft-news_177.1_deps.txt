@@ -1,0 +1,14 @@
+amod	trafficking	illegal
+compound	trafficking	arms
+nsubj	increases	trafficking
+root	ROOT	increases
+case	kenya	in
+nmod:in	increases	kenya
+amod	kenya	due
+case	availability	to
+amod	availability	easy
+nmod:to	due	availability
+cc	availability	and
+amod	conflicts	neighboring
+conj:and	availability	conflicts
+punct	increases	.

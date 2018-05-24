@@ -1,0 +1,13 @@
+nsubjpass	contained	Bulbs
+dep	Bulbs	A
+cc	A	and
+conj:and	A	C
+auxpass	contained	are
+advmod	contained	still
+root	ROOT	contained
+case	paths	in
+amod	paths	closed
+nmod:in	contained	paths
+case	battery	with
+det	battery	the
+nmod:with	paths	battery

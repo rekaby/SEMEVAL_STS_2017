@@ -1,0 +1,14 @@
+det	man	The
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+xcomp	sitting	cross
+dep	cross	legged
+dep	legged	wearing
+det	cloak	a
+dobj	wearing	cloak
+cc	wearing	and
+conj:and	wearing	holding
+det	stick	a
+dobj	holding	stick
+punct	sitting	.

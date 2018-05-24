@@ -1,0 +1,12 @@
+det	swithch	the
+nsubj	affects	swithch
+root	ROOT	affects
+det	bulb	the
+dobj	affects	bulb
+mark	path	if
+nsubj	path	it
+cop	path	is
+case	path	on
+det	path	the
+amod	path	same
+advcl:on	affects	path

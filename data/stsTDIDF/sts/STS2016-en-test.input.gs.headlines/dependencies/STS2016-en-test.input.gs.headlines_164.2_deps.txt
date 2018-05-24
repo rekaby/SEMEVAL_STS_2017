@@ -1,0 +1,9 @@
+amod	Shot	Palestinian
+nsubj	Dies	Shot
+case	Police	by
+amod	Police	Israeli
+nmod:by	Shot	Police
+case	Jerusalem	in
+compound	Jerusalem	East
+nmod:in	Police	Jerusalem
+root	ROOT	Dies

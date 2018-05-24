@@ -1,0 +1,9 @@
+advmod	million	Nearly
+compound	million	nine
+nummod	people	million
+root	ROOT	people
+case	debt	in
+punct	debt	`
+amod	debt	severe
+nmod:in	people	debt
+punct	people	'

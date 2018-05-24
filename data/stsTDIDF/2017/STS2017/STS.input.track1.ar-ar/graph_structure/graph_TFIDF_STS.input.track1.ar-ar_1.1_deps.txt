@@ -1,0 +1,9 @@
+night	sidewalk	nmod:on
+night	for	case
+carrying	skateboard	dobj
+carrying	.	punct
+carrying	Someone	nsubj
+ROOT	carrying	root
+carrying	night	nmod:for
+skateboard	a	det
+sidewalk	on	case

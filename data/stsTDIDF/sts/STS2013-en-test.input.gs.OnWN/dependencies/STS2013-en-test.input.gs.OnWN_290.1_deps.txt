@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+case	someone	of
+amod	someone	annoying
+nmod:of	act	someone
+cc	someone	or
+conj:or	someone	something

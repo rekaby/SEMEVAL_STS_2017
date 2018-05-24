@@ -1,0 +1,11 @@
+compound	Rivera	Jenni
+nsubj	dies	Rivera
+punct	Rivera	,
+compound	star	Mexican
+compound	star	music
+appos	Rivera	star
+punct	Rivera	,
+root	ROOT	dies
+case	plane	in
+nmod:in	dies	plane
+dobj	dies	crash

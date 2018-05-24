@@ -1,0 +1,9 @@
+nsubj	killed	20
+root	ROOT	killed
+punct	killed	,
+dep	killed	44
+acl	44	injured
+case	accident	in
+amod	accident	Philippine
+compound	accident	road
+nmod:in	injured	accident

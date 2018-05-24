@@ -1,0 +1,9 @@
+det	person	A
+nsubj	tying	person
+aux	tying	is
+root	ROOT	tying
+nmod:poss	hair	his
+dobj	tying	hair
+case	forest	in
+det	forest	a
+nmod:in	tying	forest

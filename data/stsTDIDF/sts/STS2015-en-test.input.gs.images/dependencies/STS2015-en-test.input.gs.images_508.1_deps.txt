@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	black
+nsubj	biting	dog
+aux	biting	is
+root	ROOT	biting
+det	ear	a
+amod	ear	light
+amod	ear	brown
+compound	ear	dogs
+dobj	biting	ear
+case	manner	in
+det	manner	a
+amod	manner	playful
+nmod:in	biting	manner
+punct	biting	.

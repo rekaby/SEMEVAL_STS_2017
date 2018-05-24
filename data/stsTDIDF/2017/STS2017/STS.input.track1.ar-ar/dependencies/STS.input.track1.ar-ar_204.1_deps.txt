@@ -1,0 +1,6 @@
+root	ROOT	Toddler
+acl	Toddler	admire
+compound	green	sports
+compound	green	car
+dobj	admire	green
+punct	Toddler	.

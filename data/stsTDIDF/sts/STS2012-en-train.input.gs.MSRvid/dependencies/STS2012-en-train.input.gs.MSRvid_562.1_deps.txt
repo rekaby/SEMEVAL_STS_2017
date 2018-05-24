@@ -1,0 +1,14 @@
+det	man	A
+nsubj	severs	man
+root	ROOT	severs
+det	toe	the
+dobj	severs	toe
+case	boot	of
+det	boot	an
+amod	boot	empty
+compound	boot	leather
+nmod:of	toe	boot
+advcl	severs	using
+det	sword	a
+dobj	using	sword
+punct	severs	.

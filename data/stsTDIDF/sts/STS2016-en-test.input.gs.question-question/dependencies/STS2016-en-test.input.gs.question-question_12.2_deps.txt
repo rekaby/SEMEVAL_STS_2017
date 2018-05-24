@@ -1,0 +1,12 @@
+advmod	prevent	How
+aux	prevent	do
+nsubj	prevent	I
+root	ROOT	prevent
+det	egg	an
+dobj	prevent	egg
+acl	egg	cracking
+mark	boiling	while
+amod	boiling	hard
+advcl	cracking	boiling
+dobj	boiling	it
+punct	prevent	?

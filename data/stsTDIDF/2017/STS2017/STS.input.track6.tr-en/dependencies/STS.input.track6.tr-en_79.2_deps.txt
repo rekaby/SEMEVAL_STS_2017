@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+advmod	sitting	alone
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+amod	building	colorful
+nmod:in_front_of	sitting	building
+cc	building	and
+det	bridge	a
+conj:and	building	bridge
+punct	man	.

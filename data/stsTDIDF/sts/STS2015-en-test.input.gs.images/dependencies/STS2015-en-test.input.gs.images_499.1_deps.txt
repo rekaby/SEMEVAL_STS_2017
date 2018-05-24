@@ -1,0 +1,6 @@
+nsubj	running	Dalmation
+root	ROOT	running
+case	beach	along
+det	beach	the
+nmod:along	running	beach
+punct	running	.

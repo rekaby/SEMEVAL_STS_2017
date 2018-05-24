@@ -1,0 +1,16 @@
+det	Average	The
+compound	Average	Dow
+compound	Average	Jones
+compound	Average	Industrial
+nsubj	fell	Average
+root	ROOT	fell
+dobj	fell	98.32
+punct	98.32	,
+cc	98.32	or
+advmod	1.1	about
+nummod	percent	1.1
+conj:or	98.32	percent
+punct	98.32	,
+case	9011.53	to
+nmod:to	fell	9011.53
+punct	fell	.

@@ -1,0 +1,14 @@
+cc	talking	But
+nsubj	talking	I
+aux	talking	would
+advmod	talking	rather
+aux	talking	be
+root	ROOT	talking
+amod	standards	about
+amod	standards	high
+dobj	talking	standards
+case	standards	than
+amod	standards	low
+nmod:than	standards	standards
+punct	talking	.
+punct	talking	''

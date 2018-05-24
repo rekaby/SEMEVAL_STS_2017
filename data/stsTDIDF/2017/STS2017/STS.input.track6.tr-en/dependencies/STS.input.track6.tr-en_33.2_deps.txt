@@ -1,0 +1,6 @@
+det	child	A
+nsubj	has	child
+root	ROOT	has
+amod	hair	blond
+dobj	has	hair
+punct	has	.

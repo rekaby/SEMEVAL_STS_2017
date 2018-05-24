@@ -1,0 +1,8 @@
+expl	's	There
+root	ROOT	's
+det	woman	a
+nsubj	's	woman
+acl	woman	riding
+det	horse	a
+dobj	riding	horse
+punct	's	.

@@ -1,0 +1,5 @@
+root	ROOT	provoke
+cc	provoke	or
+conj:or	provoke	stir
+compound:prt	stir	up
+punct	provoke	.

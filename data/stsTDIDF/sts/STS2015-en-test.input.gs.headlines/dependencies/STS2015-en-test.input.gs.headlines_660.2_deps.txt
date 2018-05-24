@@ -1,0 +1,8 @@
+compound	Truce	Israel
+cc	Israel	And
+conj:and	Israel	Hamas
+punct	Truce	`
+amod	Truce	Accept
+amod	Truce	Temporary
+root	ROOT	Truce
+punct	Truce	'

@@ -1,0 +1,9 @@
+holds	man	nsubj
+holds	sign	dobj
+sign	protest	compound
+protest	a	det
+sign	protest	nmod:at
+holds	rally	dobj
+protest	at	case
+sign	Judea	compound
+sign	pro	amod

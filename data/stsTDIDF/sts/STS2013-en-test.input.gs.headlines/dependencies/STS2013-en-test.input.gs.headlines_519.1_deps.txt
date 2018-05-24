@@ -1,0 +1,11 @@
+compound	Zimmerman	George
+root	ROOT	Zimmerman
+punct	Zimmerman	`
+mark	charged	to
+auxpass	charged	be
+root	`	charged
+punct	charged	'
+mark	killing	with
+advcl	charged	killing
+compound	Martin	Trayvon
+dobj	killing	Martin

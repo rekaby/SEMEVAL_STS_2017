@@ -1,0 +1,8 @@
+det	meeting	the
+compound	meeting	osce
+nsubjpass	held	meeting
+auxpass	held	was
+root	ROOT	held
+case	madrid	in
+nmod:in	held	madrid
+punct	held	.

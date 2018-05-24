@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	sleeping	boy
+case	arm	with
+det	arm	a
+amod	arm	broken
+nmod:with	boy	arm
+aux	sleeping	is
+root	ROOT	sleeping
+punct	sleeping	.

@@ -1,0 +1,15 @@
+compound	Island	Arts
+compound	Island	|
+compound	Island	Long
+root	ROOT	Island
+punct	Island	:
+punct	Island	?-6) nsubj(!?-5, Attack
+case	Bloodsuckers	of
+det	Bloodsuckers	the
+nmod:of	Attack	Bloodsuckers
+root	ROOT	!?-5) case(Museum-6, at
+det	Museum	the
+compound	Museum	Long
+compound	Museum	Island
+compound	Museum	Children?s
+root	ROOT	Museum

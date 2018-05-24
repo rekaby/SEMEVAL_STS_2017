@@ -1,0 +1,11 @@
+det	boy	The
+nsubj	lying	boy
+aux	lying	is
+root	ROOT	lying
+case	couch	on
+det	couch	a
+nmod:on	lying	couch
+case	puppy	with
+det	puppy	a
+nmod:with	lying	puppy
+punct	lying	.

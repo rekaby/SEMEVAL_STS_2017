@@ -1,0 +1,8 @@
+det	child	A
+nsubj	building	child
+cop	building	is
+case	building	in
+det	building	an
+compound	building	office
+root	ROOT	building
+punct	building	.

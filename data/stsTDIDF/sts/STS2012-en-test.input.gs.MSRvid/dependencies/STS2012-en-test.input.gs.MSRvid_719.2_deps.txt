@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	jumps	woman
+root	ROOT	jumps
+dobj	jumps	hurdles
+case	horse	on
+det	horse	a
+nmod:on	jumps	horse
+punct	jumps	.

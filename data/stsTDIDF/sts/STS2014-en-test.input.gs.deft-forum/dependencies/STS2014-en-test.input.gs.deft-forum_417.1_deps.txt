@@ -1,0 +1,10 @@
+nsubj	level	Everyone
+advmod	level	else
+case	level	at
+det	level	the
+amod	level	current
+compound	level	prosperity
+root	ROOT	level
+case	Mexico	of
+nmod:of	level	Mexico
+punct	level	.

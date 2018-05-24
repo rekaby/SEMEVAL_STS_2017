@@ -1,0 +1,16 @@
+det	boy	A
+amod	boy	little
+nsubj	wearing	boy
+cc	boy	and
+nmod:poss	father	his
+conj:and	boy	father
+aux	wearing	are
+root	ROOT	wearing
+amod	shirts	blue
+compound	shirts	plaid
+dobj	wearing	shirts
+cc	wearing	and
+conj:and	wearing	watching
+det	rodeo	a
+dobj	watching	rodeo
+punct	wearing	.

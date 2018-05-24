@@ -1,0 +1,15 @@
+root	ROOT	Supply
+case	water	with
+nmod:with	Supply	water
+case	crops	for
+nmod:for	water	crops
+punct	Supply	,
+case	channels	as
+case	channels	with
+nmod:with	Supply	channels
+punct	channels	,
+conj:or	channels	ditches
+punct	channels	,
+cc	channels	or
+conj:or	channels	streams
+punct	Supply	.

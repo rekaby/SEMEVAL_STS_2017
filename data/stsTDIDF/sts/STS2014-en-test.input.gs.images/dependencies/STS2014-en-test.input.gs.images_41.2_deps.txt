@@ -1,0 +1,8 @@
+det	horse	A
+amod	horse	brown
+root	ROOT	horse
+case	field	in
+det	field	a
+amod	field	green
+nmod:in	horse	field
+punct	horse	.

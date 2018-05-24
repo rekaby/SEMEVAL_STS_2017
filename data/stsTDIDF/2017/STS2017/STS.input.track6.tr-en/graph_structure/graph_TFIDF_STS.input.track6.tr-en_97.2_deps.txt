@@ -1,0 +1,12 @@
+fighting	rod	nmod:for
+rod	a	det
+'s	lake	nsubj
+field	grassy	amod
+lake	a	det
+fighting	dogs	nsubj
+dogs	Two	nummod
+fighting	,	punct
+rod	field	nmod:in
+rod	for	case
+fighting	's	advcl
+'s	back	nmod:in

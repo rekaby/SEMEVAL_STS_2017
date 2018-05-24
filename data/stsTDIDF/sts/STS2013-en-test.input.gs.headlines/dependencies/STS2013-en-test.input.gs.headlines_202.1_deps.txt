@@ -1,0 +1,6 @@
+nsubj	faces	Mubarak
+root	ROOT	faces
+dobj	faces	verdict
+case	trial	in
+compound	trial	murder
+nmod:in	faces	trial

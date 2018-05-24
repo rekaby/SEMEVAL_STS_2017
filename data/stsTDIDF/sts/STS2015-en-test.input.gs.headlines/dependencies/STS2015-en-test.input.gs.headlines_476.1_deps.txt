@@ -1,0 +1,10 @@
+root	ROOT	Poll
+punct	Poll	:
+compound	Booker	Cory
+nsubj	takes	Booker
+dep	Poll	takes
+amod	lead	early
+dobj	takes	lead
+case	N.J.	for
+nmod:for	lead	N.J.
+dep	lead	Senate

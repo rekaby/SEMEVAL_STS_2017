@@ -1,0 +1,10 @@
+nsubj	insists	iran
+root	ROOT	insists
+mark	purposes	that
+nmod:poss	program	its
+amod	program	nuclear
+nsubj	purposes	program
+cop	purposes	is
+case	purposes	for
+amod	purposes	peaceful
+ccomp	insists	purposes

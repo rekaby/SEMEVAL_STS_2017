@@ -1,0 +1,7 @@
+compound	leader	Australia
+root	ROOT	leader
+acl	leader	ousted
+case	vote	in
+amod	vote	snap
+compound	vote	leadership
+nmod:in	ousted	vote

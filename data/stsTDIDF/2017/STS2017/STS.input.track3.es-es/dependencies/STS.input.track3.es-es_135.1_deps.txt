@@ -1,0 +1,8 @@
+compound	workers	Construction
+nsubj	using	workers
+aux	using	are
+root	ROOT	using
+amod	plans	specific
+compound	plans	floor
+dobj	using	plans
+punct	using	.

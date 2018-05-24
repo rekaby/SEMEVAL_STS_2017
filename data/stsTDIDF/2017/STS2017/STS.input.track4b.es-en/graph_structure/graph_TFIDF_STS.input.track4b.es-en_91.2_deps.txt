@@ -1,0 +1,16 @@
+easy	to	mark
+voters	Colorado	compound
+percent	55	nummod
+going	supported	advcl
+marijuana	purposes	nmod:for
+going	marijuana	nsubj
+supported	Although	mark
+marijuana	and	cc
+going	easy	xcomp
+marijuana	government	nmod:within
+purposes	recreational	amod
+government	within	case
+system	legal	amod
+marijuana	system	conj:and
+supported	percent	nsubj
+supported	measure	dobj

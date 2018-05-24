@@ -1,0 +1,15 @@
+nsubj	faces	Young
+root	ROOT	faces
+det	suspension	a
+amod	suspension	fine
+punct	fine	,
+dobj	faces	suspension
+cc	faces	or
+auxpass	barred	being
+advmod	barred	permanently
+conj:or	faces	barred
+case	industry	from
+det	industry	the
+compound	industry	securities
+nmod:from	barred	industry
+punct	faces	.

@@ -1,0 +1,8 @@
+amod	ship	Large
+compound	ship	cruise
+root	ROOT	ship
+acl	ship	floating
+case	water	on
+det	water	the
+nmod:on	floating	water
+punct	ship	.

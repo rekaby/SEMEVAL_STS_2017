@@ -1,0 +1,7 @@
+compound	mix	Beef
+compound	mix	burger
+nsubj	recalled	mix
+root	ROOT	recalled
+case	concerns	over
+compound	concerns	salmonella
+nmod:over	recalled	concerns

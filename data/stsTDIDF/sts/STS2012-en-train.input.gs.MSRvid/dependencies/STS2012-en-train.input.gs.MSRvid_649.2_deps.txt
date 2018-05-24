@@ -1,0 +1,9 @@
+det	person	A
+nsubj	chopping	person
+aux	chopping	is
+root	ROOT	chopping
+dobj	chopping	shrimp
+case	knife	with
+det	knife	a
+nmod:with	chopping	knife
+punct	chopping	.

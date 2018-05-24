@@ -1,0 +1,8 @@
+mark	had	because
+nsubj	had	it
+root	ROOT	had
+neg	gap	no
+dobj	had	gap
+case	terminals	between
+det	terminals	the
+nmod:between	gap	terminals

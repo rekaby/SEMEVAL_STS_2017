@@ -1,0 +1,10 @@
+ccomp	hit	Tornadoes
+punct	hit	,
+amod	storms	damaging
+nsubj	hit	storms
+root	ROOT	hit
+compound	Midwest	U.S.
+dobj	hit	Midwest
+punct	hit	,
+advcl	hit	killing
+dobj	killing	5

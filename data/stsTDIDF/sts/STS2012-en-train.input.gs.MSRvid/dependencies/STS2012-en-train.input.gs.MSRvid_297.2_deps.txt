@@ -1,0 +1,7 @@
+nsubj	running	Racers
+aux	running	are
+root	ROOT	running
+compound:prt	running	down
+det	track	a
+dobj	running	track
+punct	running	.

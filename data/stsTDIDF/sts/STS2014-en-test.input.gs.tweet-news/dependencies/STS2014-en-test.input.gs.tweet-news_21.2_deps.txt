@@ -1,0 +1,11 @@
+compound	Europe	World
+compound	Europe	Briefing
+compound	Europe	|
+root	ROOT	Europe
+punct	Europe	:
+compound	Tunnel	Norway
+punct	Norway	:
+compound	Tunnel	Cheese
+compound	Tunnel	Fire
+compound	Tunnel	Shuts
+dep	Europe	Tunnel

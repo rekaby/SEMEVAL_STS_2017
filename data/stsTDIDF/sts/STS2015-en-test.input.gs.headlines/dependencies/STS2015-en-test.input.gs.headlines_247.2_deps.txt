@@ -1,0 +1,10 @@
+compound	attacks	Suicide
+compound	attacks	bomber
+nsubj	kills	attacks
+amod	school	primary
+dep	attacks	school
+case	Iraq	in
+nmod:in	school	Iraq
+punct	school	,
+root	ROOT	kills
+dobj	kills	15

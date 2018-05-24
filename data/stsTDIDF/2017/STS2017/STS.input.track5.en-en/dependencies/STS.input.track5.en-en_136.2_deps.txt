@@ -1,0 +1,10 @@
+nsubj	sitting	People
+aux	sitting	are
+mark	sitting	out
+root	ROOT	sitting
+case	garden	in
+mwe	in	front
+mwe	in	of
+det	garden	a
+nmod:in_front_of	sitting	garden
+punct	sitting	.

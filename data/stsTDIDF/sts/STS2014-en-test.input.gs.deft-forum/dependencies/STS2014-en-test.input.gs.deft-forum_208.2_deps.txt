@@ -1,0 +1,9 @@
+det	evidence	The
+amod	evidence	physical
+nsubj	support	evidence
+aux	support	does
+neg	support	not
+root	ROOT	support
+nmod:poss	claim	your
+dobj	support	claim
+punct	support	.

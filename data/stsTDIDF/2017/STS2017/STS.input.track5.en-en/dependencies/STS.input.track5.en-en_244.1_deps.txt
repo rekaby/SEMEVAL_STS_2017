@@ -1,0 +1,7 @@
+det	dog	The
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+det	geese	the
+dobj	chasing	geese
+punct	chasing	.

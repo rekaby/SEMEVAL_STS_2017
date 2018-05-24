@@ -1,0 +1,8 @@
+nsubj	arrested	Owner
+root	ROOT	arrested
+mark	reaches	as
+amod	toll	Bangladesh
+compound	toll	building
+nsubj	reaches	toll
+advcl	arrested	reaches
+dobj	reaches	372

@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+nsubj	fallen	who
+aux	fallen	has
+acl:relcl	man	fallen
+advmod	fallen	asleep
+case	transportation	on
+amod	transportation	public
+nmod:on	fallen	transportation
+punct	man	.

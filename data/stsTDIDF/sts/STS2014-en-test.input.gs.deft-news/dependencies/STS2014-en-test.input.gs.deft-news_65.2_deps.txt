@@ -1,0 +1,14 @@
+nmod:poss	wing	jamaat-i-islami
+case	jamaat-i-islami	's
+compound	wing	youth
+nmod:poss	demonstration	wing
+case	wing	's
+nsubj	attack	demonstration
+cop	attack	was
+case	attack	against
+det	attack	a
+compound	attack	us
+root	ROOT	attack
+case	iraq	on
+nmod:on	attack	iraq
+punct	attack	.

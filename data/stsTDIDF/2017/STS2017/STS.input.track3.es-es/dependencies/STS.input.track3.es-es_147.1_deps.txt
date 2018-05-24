@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	trip	boy
+cop	trip	is
+case	trip	on
+det	trip	a
+compound	trip	school
+root	ROOT	trip
+case	patch	in
+det	patch	a
+compound	patch	pumpkin
+nmod:in	trip	patch
+punct	trip	.

@@ -1,0 +1,12 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	sway
+case	rising	in
+det	rising	a
+nmod:in	move	rising
+cc	rising	and
+conj:and	rising	falling
+cc	rising	or
+amod	pattern	wavelike
+conj:or	rising	pattern
+punct	move	.

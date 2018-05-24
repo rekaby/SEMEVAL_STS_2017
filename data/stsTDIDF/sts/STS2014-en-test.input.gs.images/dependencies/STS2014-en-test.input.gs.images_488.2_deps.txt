@@ -1,0 +1,8 @@
+root	ROOT	Person
+case	field	in
+amod	field	grassy
+nmod:in	Person	field
+acl	field	tending
+case	sheep	to
+nmod:to	tending	sheep
+punct	Person	.

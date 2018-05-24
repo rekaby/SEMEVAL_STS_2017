@@ -1,0 +1,10 @@
+det	boy	A
+root	ROOT	boy
+case	colander	with
+det	colander	a
+compound	colander	metal
+nmod:with	boy	colander
+case	head	on
+nmod:poss	head	his
+nmod:on	colander	head
+punct	boy	.

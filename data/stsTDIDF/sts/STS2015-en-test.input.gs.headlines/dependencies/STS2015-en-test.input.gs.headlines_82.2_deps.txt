@@ -1,0 +1,9 @@
+root	ROOT	Merkel
+punct	Merkel	:
+amod	actions	Russian
+nsubj	lead	actions
+aux	lead	could
+dep	Merkel	lead
+case	catastrophe	to
+det	catastrophe	a
+nmod:to	lead	catastrophe

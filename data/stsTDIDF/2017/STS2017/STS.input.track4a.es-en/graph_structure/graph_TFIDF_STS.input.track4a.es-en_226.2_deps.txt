@@ -1,0 +1,11 @@
+process	woman	nsubj
+date	her	nmod:poss
+date	for	case
+changing	clothes	dobj
+changing	date	nmod:for
+date	tonight	nmod:tmod
+clothes	her	nmod:poss
+changing	of	mark
+process	is	cop
+process	changing	acl
+date	big	amod

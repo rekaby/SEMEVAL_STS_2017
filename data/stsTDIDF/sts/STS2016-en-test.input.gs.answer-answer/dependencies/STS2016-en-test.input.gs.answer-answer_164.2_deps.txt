@@ -1,0 +1,12 @@
+nsubj	is	It
+root	ROOT	is
+advmod	is	up
+case	you	to
+nmod:to	up	you
+mark	want	whether
+nsubj	want	you
+ccomp	is	want
+mark	do	to
+xcomp	want	do
+dobj	do	that
+punct	is	.

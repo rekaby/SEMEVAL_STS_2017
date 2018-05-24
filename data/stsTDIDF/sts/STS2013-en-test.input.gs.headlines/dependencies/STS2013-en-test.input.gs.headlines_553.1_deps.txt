@@ -1,0 +1,8 @@
+root	ROOT	Officials
+punct	Officials	:
+dep	Officials	Romney
+mark	get	to
+acl	Romney	get
+compound	protection	Secret
+compound	protection	Service
+dobj	get	protection

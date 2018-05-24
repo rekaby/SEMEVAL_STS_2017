@@ -1,0 +1,9 @@
+det	shape	an
+amod	shape	angular
+cc	angular	or
+conj:or	angular	rounded
+root	ROOT	shape
+acl	shape	made
+case	folding	by
+nmod:by	made	folding
+punct	shape	.

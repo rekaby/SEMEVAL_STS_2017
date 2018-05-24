@@ -1,0 +1,11 @@
+compound	dog	Secret
+compound	dog	Service
+nsubj	falls	dog
+root	ROOT	falls
+case	death	to
+nmod:poss	death	its
+nmod:to	falls	death
+case	detail	while
+case	detail	on
+compound	detail	VP
+nmod:on	falls	detail

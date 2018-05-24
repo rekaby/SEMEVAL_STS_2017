@@ -1,0 +1,7 @@
+det	person	A
+nsubj	cameras	person
+cop	cameras	is
+compound	cameras	blow
+compound	cameras	torching
+root	ROOT	cameras
+punct	cameras	.

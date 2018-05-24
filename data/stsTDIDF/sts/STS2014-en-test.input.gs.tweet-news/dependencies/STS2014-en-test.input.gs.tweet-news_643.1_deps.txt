@@ -1,0 +1,11 @@
+amod	economist	Nobel-winning
+root	ROOT	economist
+mark	care	on
+advmod	care	why
+nsubj	care	we
+aux	care	should
+acl	economist	care
+case	change	about
+amod	change	#climate
+nmod:about	care	change
+punct	economist	.

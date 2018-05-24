@@ -1,0 +1,6 @@
+nsubj	mulls	Algeria
+root	ROOT	mulls
+amod	force	international
+dobj	mulls	force
+case	hostages	for
+nmod:for	mulls	hostages

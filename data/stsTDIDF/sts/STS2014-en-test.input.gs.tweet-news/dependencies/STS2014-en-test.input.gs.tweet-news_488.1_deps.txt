@@ -1,0 +1,16 @@
+det	star	An
+amod	star	rising
+nsubj	tells	star
+case	scene	on
+nmod:poss	scene	London
+case	London	's
+amod	scene	thespian
+nmod:on	star	scene
+root	ROOT	tells
+nmod:poss	story	his
+dobj	tells	story
+case	Laden	of
+punct	Laden	-
+cop	Laden	Being
+compound	Laden	Bin
+nmod:of	story	Laden

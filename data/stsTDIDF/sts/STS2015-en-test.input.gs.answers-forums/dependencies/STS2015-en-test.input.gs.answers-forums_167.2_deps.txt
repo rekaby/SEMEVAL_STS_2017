@@ -1,0 +1,16 @@
+dep	develop	Yes
+punct	develop	,
+nsubj	develop	twins
+aux	develop	can
+root	ROOT	develop
+nmod:poss	language	their
+amod	language	own
+dobj	develop	language
+punct	develop	,
+cc	develop	but
+nsubjpass	given	it
+auxpass	given	's
+neg	given	not
+det	given	a
+conj:but	develop	given
+punct	develop	.

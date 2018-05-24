@@ -1,0 +1,9 @@
+beach	at	case
+enjoying	beach	nmod:at
+Mother	and	cc
+enjoying	Mother	nsubj
+Mother	daughter	conj:and
+enjoying	are	aux
+ROOT	enjoying	root
+enjoying	.	punct
+enjoying	day	dobj

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	mowing	man
+aux	mowing	is
+root	ROOT	mowing
+det	lawn	a
+dobj	mowing	lawn
+punct	mowing	.

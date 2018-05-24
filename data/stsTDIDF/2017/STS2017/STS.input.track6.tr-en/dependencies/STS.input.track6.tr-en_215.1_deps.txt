@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	little
+nsubj	playing	girl
+aux	playing	is
+root	ROOT	playing
+case	dough	with
+det	dough	some
+nmod:with	playing	dough
+punct	playing	.

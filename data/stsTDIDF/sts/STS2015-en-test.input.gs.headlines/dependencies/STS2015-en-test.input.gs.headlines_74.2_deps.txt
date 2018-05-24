@@ -1,0 +1,8 @@
+nmod:poss	man	World
+case	World	's
+amod	man	oldest
+advmod	man	ever
+nsubj	dies	man
+root	ROOT	dies
+amod	116	aged
+dobj	dies	116

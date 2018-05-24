@@ -1,0 +1,7 @@
+det	man	A
+nsubj	assembling	man
+aux	assembling	is
+root	ROOT	assembling
+compound	parts	speaker
+dobj	assembling	parts
+punct	assembling	.

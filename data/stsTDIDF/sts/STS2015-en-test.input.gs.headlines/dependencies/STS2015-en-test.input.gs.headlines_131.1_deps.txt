@@ -1,0 +1,11 @@
+root	ROOT	Wreckage
+case	plane	of
+compound	plane	Air
+compound	plane	Algerie
+nmod:of	Wreckage	plane
+acl	plane	carrying
+nummod	people	116
+dobj	carrying	people
+acl	people	found
+case	Mali	in
+nmod:in	found	Mali

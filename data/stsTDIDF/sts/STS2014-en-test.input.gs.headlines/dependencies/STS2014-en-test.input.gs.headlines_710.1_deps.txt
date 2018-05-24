@@ -1,0 +1,6 @@
+amod	reactions	Mixed
+root	ROOT	reactions
+case	marriage	to
+compound	marriage	NZ
+amod	marriage	same-sex
+nmod:to	reactions	marriage

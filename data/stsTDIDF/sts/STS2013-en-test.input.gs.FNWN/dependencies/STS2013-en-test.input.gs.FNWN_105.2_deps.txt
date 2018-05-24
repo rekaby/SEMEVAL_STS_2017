@@ -1,0 +1,7 @@
+det	territory	the
+root	ROOT	territory
+acl	territory	occupied
+case	nation	by
+det	nation	a
+nmod:by	occupied	nation
+punct	territory	;

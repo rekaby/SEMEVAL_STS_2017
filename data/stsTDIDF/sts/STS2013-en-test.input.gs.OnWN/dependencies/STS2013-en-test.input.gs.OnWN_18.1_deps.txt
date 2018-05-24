@@ -1,0 +1,9 @@
+det	type	a
+root	ROOT	type
+case	subdivision	of
+nmod:of	type	subdivision
+case	composition	of
+det	composition	a
+amod	composition	larger
+amod	composition	literary
+nmod:of	subdivision	composition

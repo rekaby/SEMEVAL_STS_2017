@@ -1,0 +1,8 @@
+det	pajamas	A
+amod	pajamas	young
+nsubj	sleeping	pajamas
+root	ROOT	sleeping
+case	couch	on
+det	couch	the
+nmod:on	sleeping	couch
+punct	sleeping	.

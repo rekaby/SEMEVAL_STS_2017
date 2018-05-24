@@ -1,0 +1,14 @@
+compound	Gains	#Google
+root	ROOT	Gains
+mark	Creating	From
+acl	Gains	Creating
+dobj	Creating	Apps
+case	#iPhone	for
+nmod:for	Apps	#iPhone
+punct	Gains	.-8) compound(Maps-2, Google
+nsubj	#App	Maps
+cop	#App	is
+compound	#App	#
+nummod	#App	1
+root	ROOT	#App
+punct	#App	.

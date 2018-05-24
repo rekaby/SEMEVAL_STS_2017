@@ -1,0 +1,4 @@
+root	ROOT	spend
+dobj	spend	time
+case	prison	in
+nmod:in	spend	prison

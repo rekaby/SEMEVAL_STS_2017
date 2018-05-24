@@ -1,0 +1,12 @@
+root	ROOT	make
+xcomp	make	receptive
+cc	receptive	or
+conj:or	receptive	willing
+case	action	towards
+det	action	an
+nmod:towards	receptive	action
+cc	action	or
+conj:or	action	attitude
+cc	action	or
+conj:or	action	belief
+punct	make	.

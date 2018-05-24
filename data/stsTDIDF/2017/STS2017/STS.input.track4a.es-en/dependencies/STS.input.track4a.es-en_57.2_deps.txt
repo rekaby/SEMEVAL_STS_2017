@@ -1,0 +1,16 @@
+nummod	dogs	Two
+amod	dogs	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	fighting	dogs
+root	ROOT	fighting
+case	area	on
+det	area	a
+amod	area	grassy
+nmod:on	fighting	area
+case	tree	in
+mwe	in	front
+mwe	in	of
+det	tree	a
+nmod:in_front_of	area	tree
+punct	fighting	.

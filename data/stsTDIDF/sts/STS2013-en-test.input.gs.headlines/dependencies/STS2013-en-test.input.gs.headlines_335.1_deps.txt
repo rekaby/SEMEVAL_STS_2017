@@ -1,0 +1,8 @@
+amod	rate	Spanish
+amod	rate	jobless
+nsubj	soars	rate
+root	ROOT	soars
+advmod	soars	past
+dep	past	25
+case	cent	per
+nmod:per	25	cent

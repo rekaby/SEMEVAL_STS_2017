@@ -1,0 +1,5 @@
+root	ROOT	Child
+case	beach	on
+det	beach	the
+nmod:on	Child	beach
+punct	Child	.

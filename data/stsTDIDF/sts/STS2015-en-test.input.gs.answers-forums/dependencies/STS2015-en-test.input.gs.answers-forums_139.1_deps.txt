@@ -1,0 +1,13 @@
+case	English	In
+nmod:in	Do-Support	English
+punct	Do-Support	,
+advmod	use	certainly
+det	use	the
+advmod	common	most
+amod	use	common
+nsubj	Do-Support	use
+case	do	of
+nmod:of	use	do
+cop	Do-Support	is
+root	ROOT	Do-Support
+punct	Do-Support	.

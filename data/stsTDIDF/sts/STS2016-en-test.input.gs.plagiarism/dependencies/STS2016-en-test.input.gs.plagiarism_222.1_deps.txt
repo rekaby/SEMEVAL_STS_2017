@@ -1,0 +1,16 @@
+det	tree	The
+advmod	tree	further
+case	tree	down
+det	tree	an
+compound	tree	inheritance
+nsubj	become	tree
+nsubj	get	you
+acl:relcl	tree	get
+punct	tree	,
+det	classes	the
+advmod	specific	more
+amod	classes	specific
+det	classes	the
+nsubj	become	classes
+root	ROOT	become
+punct	become	.

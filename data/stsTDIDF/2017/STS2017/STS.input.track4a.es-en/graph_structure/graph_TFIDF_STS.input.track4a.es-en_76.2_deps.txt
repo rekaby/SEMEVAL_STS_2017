@@ -1,0 +1,4 @@
+ROOT	dog	root
+dog	.	punct
+dog	laying	acl
+laying	water	nmod:in

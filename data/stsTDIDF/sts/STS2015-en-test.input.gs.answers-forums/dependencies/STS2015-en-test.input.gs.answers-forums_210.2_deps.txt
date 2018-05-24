@@ -1,0 +1,14 @@
+nsubjpass	convinced	I
+auxpass	convinced	am
+neg	convinced	not
+root	ROOT	convinced
+mark	asociated	that
+nsubjpass	asociated	positivism
+auxpass	asociated	is
+advmod	asociated	routinely
+ccomp	convinced	asociated
+case	ideology	to
+det	ideology	a
+amod	ideology	leftist
+nmod:to	asociated	ideology
+punct	convinced	.

@@ -1,0 +1,7 @@
+nsubj	Welcomes	Kerry
+root	ROOT	Welcomes
+compound	Plan	Arab
+dobj	Welcomes	Plan
+case	Talks	for
+amod	Talks	Israeli-Palestinian
+nmod:for	Welcomes	Talks

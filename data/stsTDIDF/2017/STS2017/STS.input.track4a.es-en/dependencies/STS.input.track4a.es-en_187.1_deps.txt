@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	holding	woman
+acl	woman	wearing
+amod	pants	black
+dobj	wearing	pants
+aux	holding	is
+root	ROOT	holding
+det	hammer	a
+amod	hammer	piercing
+dobj	holding	hammer
+case	walkway	next
+mwe	next	to
+det	walkway	a
+amod	walkway	broken
+amod	walkway	concrete
+nmod:next_to	holding	walkway
+punct	holding	.

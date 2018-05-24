@@ -1,0 +1,6 @@
+compound	Talks	Iran
+compound	Talks	Nuclear
+nsubj	Enter	Talks
+root	ROOT	Enter
+compound	Day	Third
+nmod:tmod	Enter	Day

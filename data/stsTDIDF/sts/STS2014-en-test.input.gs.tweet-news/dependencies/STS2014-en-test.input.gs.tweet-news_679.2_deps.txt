@@ -1,0 +1,7 @@
+nsubj	tackling	Florida
+root	ROOT	tackling
+compound	problem	python
+dobj	tackling	problem
+case	contest	with
+compound	contest	hunting
+nmod:with	problem	contest

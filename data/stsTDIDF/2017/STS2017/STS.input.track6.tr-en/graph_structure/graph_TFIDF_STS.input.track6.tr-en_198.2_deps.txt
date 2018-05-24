@@ -1,0 +1,13 @@
+friends	.	punct
+dogs	three	nummod
+friends	run	conj:and
+run	day	nmod:tmod
+run	they	nsubj
+dogs	The	det
+friends	dogs	nsubj
+friends	best	amod
+friends	are	cop
+friends	other	nmod:poss
+ROOT	friends	root
+run	together	advmod
+run	play	conj:and

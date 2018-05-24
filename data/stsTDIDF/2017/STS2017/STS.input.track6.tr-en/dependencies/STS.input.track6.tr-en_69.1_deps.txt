@@ -1,0 +1,7 @@
+det	player	A
+compound	player	baseball
+nmod:poss	team	player
+case	player	's
+nsubj	watching	team
+aux	watching	is
+root	ROOT	watching

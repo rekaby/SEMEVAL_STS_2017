@@ -1,0 +1,14 @@
+nummod	girls	Two
+nsubj	swaying	girls
+root	ROOT	swaying
+dobj	swaying	side
+case	side	by
+nmod:by	swaying	side
+case	park	in
+det	park	a
+nmod:in	side	park
+case	day	on
+det	day	a
+amod	day	warm
+nmod:on	swaying	day
+punct	swaying	.

@@ -1,0 +1,13 @@
+nsubj	have	We
+aux	have	do
+neg	have	not
+root	ROOT	have
+mark	go	to
+xcomp	have	go
+xcomp	go	look
+advmod	far	too
+advmod	look	far
+mark	find	to
+xcomp	look	find
+dobj	find	examples
+punct	have	.

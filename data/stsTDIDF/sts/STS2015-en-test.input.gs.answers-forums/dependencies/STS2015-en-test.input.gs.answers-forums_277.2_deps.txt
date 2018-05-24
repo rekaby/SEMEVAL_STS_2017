@@ -1,0 +1,14 @@
+det	capital	The
+nsubj	punishes	capital
+advmod	punishes	severely
+root	ROOT	punishes
+dobj	punishes	people
+nsubj	head	who
+acl:relcl	people	head
+compound:prt	head	out
+case	areas	to
+det	areas	the
+amod	areas	restricted
+nmod:to	head	areas
+punct	punishes	-LRB-
+dep	punishes	e.g.

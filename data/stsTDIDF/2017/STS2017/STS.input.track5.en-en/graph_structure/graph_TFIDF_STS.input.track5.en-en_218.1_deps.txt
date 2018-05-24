@@ -1,0 +1,4 @@
+shirt	without	case
+man	shirt	nmod:without
+jumping	man	nsubj
+jumping	is	aux

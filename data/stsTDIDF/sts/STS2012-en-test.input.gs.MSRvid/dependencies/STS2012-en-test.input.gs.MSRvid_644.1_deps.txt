@@ -1,0 +1,7 @@
+det	man	A
+nsubj	tying	man
+aux	tying	is
+root	ROOT	tying
+nmod:poss	shoe	his
+dobj	tying	shoe
+punct	tying	.

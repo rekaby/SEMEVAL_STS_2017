@@ -1,0 +1,17 @@
+det	development	The
+nsubj	pushed	development
+case	Orlando	of
+nmod:of	development	Orlando
+aux	pushed	has
+advmod	pushed	already
+root	ROOT	pushed
+dobj	pushed	Interstate
+nummod	Interstate	4
+case	west	up
+case	west	to
+det	west	the
+nmod:to	pushed	west
+case	city	of
+det	city	the
+nmod:of	west	city
+punct	pushed	.

@@ -1,0 +1,12 @@
+det	man	A
+nsubj	attempts	man
+root	ROOT	attempts
+mark	get	to
+xcomp	attempts	get
+amod	signal	good
+dobj	get	signal
+case	cafe	inside
+det	cafe	an
+compound	cafe	internet
+nmod:inside	signal	cafe
+punct	attempts	.

@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	flipping	of
+acl	act	flipping
+det	object	an
+dobj	flipping	object
+case	air	into
+det	air	the
+nmod:into	flipping	air

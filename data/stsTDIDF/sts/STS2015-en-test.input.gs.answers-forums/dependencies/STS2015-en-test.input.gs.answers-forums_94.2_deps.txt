@@ -1,0 +1,13 @@
+mark	says	As
+nsubj	says	@Sarge
+advcl	doctor	says
+punct	doctor	,
+nsubj	doctor	this
+cop	doctor	is
+case	doctor	for
+det	doctor	a
+root	ROOT	doctor
+mark	diagnose	to
+acl	doctor	diagnose
+advmod	diagnose	properly
+punct	doctor	.

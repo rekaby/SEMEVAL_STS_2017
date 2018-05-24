@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	filing	woman
+aux	filing	is
+root	ROOT	filing
+nmod:poss	fingernails	her
+dobj	filing	fingernails
+case	board	with
+det	board	an
+compound	board	emery
+nmod:with	filing	board
+punct	filing	.

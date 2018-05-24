@@ -1,0 +1,17 @@
+nsubj	helped	Women
+root	ROOT	helped
+dobj	helped	one
+case	runners	of
+det	runners	the
+nmod:of	one	runners
+nsubj	fallen	who
+aux	fallen	had
+acl:relcl	runners	fallen
+punct	helped	,
+mark	stand	to
+advcl	helped	stand
+case	feet	on
+nmod:poss	feet	his
+nmod:on	stand	feet
+advmod	stand	again
+punct	helped	.

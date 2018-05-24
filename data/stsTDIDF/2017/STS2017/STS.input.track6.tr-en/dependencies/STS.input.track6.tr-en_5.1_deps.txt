@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	taking
+dobj	taking	apples
+case	bag	out
+mwe	out	of
+det	bag	a
+nmod:out_of	taking	bag
+case	counter	on
+det	counter	a
+nmod:on	taking	counter
+punct	man	.

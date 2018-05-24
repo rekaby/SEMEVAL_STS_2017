@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	writing	woman
+aux	writing	is
+root	ROOT	writing
+det	letter	a
+dobj	writing	letter
+punct	writing	.

@@ -1,0 +1,9 @@
+case	Thailand	In
+nmod:in	Definition	Thailand
+punct	Definition	,
+det	Definition	a
+amod	Definition	Broader
+root	ROOT	Definition
+case	Royalty	of
+amod	Royalty	Insulting
+nmod:of	Definition	Royalty

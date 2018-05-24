@@ -1,0 +1,14 @@
+det	decline	a
+amod	decline	gradual
+root	ROOT	decline
+punct	size	-LRB-
+case	size	in
+nmod:in	decline	size
+cc	size	or
+conj:or	size	strength
+cc	size	or
+conj:or	size	power
+cc	size	or
+conj:or	size	number
+punct	size	-RRB-
+punct	decline	.

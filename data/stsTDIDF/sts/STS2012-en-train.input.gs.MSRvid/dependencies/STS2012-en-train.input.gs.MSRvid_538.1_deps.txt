@@ -1,0 +1,8 @@
+det	man	A
+nsubj	takes	man
+root	ROOT	takes
+det	slice	a
+dobj	takes	slice
+case	pizza	of
+nmod:of	slice	pizza
+punct	takes	.

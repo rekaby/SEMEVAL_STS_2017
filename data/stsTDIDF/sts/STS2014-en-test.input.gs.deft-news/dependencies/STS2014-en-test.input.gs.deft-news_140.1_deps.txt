@@ -1,0 +1,12 @@
+nsubj	located	bulgaria
+cop	located	is
+root	ROOT	located
+case	part	on
+det	part	the
+amod	part	southeastern
+nmod:on	located	part
+case	peninsula	of
+det	peninsula	the
+compound	peninsula	balkan
+nmod:of	part	peninsula
+punct	located	.

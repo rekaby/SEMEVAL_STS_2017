@@ -1,0 +1,13 @@
+nummod	dogs	Two
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	grass	on
+det	grass	the
+nmod:on	running	grass
+case	trees	in
+mwe	in	front
+mwe	in	of
+det	trees	the
+nmod:in_front_of	running	trees
+punct	running	.

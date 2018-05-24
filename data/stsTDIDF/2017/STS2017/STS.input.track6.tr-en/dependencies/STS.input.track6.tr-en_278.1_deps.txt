@@ -1,0 +1,14 @@
+det	man	A
+nsubj	changing	man
+aux	changing	is
+root	ROOT	changing
+case	furniture	around
+det	furniture	the
+nmod:around	changing	furniture
+case	room	in
+nmod:poss	room	his
+nmod:in	furniture	room
+case	party	for
+det	party	a
+nmod:for	furniture	party
+punct	changing	.

@@ -1,0 +1,6 @@
+det	mother	A
+nsubj	carries	mother
+root	ROOT	carries
+det	child	a
+dobj	carries	child
+punct	carries	.

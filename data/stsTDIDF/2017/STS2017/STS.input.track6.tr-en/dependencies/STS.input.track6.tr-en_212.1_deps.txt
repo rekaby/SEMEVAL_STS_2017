@@ -1,0 +1,9 @@
+det	baby	A
+nsubj	crawling	baby
+root	ROOT	crawling
+dobj	crawling	all
+case	father	over
+nmod:poss	father	their
+nmod:over	crawling	father
+advmod	father	excitedly
+punct	crawling	.

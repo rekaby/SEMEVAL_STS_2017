@@ -1,0 +1,7 @@
+compound	solstice	Summer
+nsubj	celebrated	solstice
+root	ROOT	celebrated
+case	Stonehenge	at
+nmod:at	celebrated	Stonehenge
+case	rain	despite
+nmod:despite	celebrated	rain

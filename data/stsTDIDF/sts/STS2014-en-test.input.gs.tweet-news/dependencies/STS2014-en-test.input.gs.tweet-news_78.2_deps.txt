@@ -1,0 +1,10 @@
+compound	activists	Climate
+compound	activists	change
+root	ROOT	activists
+case	Obama	to
+nmod:to	activists	Obama
+punct	activists	:
+dep	activists	Steer
+amod	Steer	clear
+case	Congress	of
+nmod:of	clear	Congress

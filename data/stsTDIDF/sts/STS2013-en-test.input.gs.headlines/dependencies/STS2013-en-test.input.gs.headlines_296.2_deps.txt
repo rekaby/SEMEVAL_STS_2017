@@ -1,0 +1,9 @@
+amod	forces	Syrian
+nsubj	kill	forces
+root	ROOT	kill
+dobj	kill	54
+advmod	kill	ahead
+case	mission	of
+compound	mission	Annan
+compound	mission	peace
+nmod:of	ahead	mission

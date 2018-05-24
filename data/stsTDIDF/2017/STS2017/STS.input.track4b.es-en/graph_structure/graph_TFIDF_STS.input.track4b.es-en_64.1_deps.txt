@@ -1,0 +1,9 @@
+thinks	,	punct
+thinks	things	nmod:about
+business	deeply	advmod
+thinks	nobody	nsubj
+deeply	very	advmod
+thinks	do	advcl
+things	business	nmod:in
+knows	thinks	ccomp
+knows	Nobody	nsubj

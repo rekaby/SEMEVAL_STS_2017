@@ -1,0 +1,11 @@
+root	ROOT	What
+amod	What	good
+mark	facilitate	to
+xcomp	good	facilitate
+det	advent	the
+dobj	facilitate	advent
+case	competitor	of
+det:predet	competitor	such
+det	competitor	a
+nmod:of	advent	competitor
+punct	What	?

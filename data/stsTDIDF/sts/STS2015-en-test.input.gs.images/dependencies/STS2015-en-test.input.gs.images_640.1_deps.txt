@@ -1,0 +1,17 @@
+det	dog	A
+amod	dog	brown
+nsubj	runs	dog
+root	ROOT	runs
+case	camera	towards
+det	camera	the
+nmod:towards	runs	camera
+case	trail	on
+det	trail	a
+compound	trail	dirt
+nmod:on	runs	trail
+case	mountains	with
+nmod:with	trail	mountains
+case	background	in
+det	background	the
+nmod:in	trail	background
+punct	runs	.

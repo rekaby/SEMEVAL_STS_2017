@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	walk	women
+root	ROOT	walk
+expl	dogs	there
+ccomp	walk	dogs
+case	show	at
+det	show	a
+compound	show	dog
+nmod:at	dogs	show
+punct	walk	.

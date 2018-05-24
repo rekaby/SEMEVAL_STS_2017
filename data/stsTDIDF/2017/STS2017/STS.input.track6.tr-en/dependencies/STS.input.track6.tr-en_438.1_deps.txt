@@ -1,0 +1,9 @@
+det	person	A
+amod	person	young
+nsubj	working	person
+aux	working	is
+root	ROOT	working
+case	yard	in
+det	yard	the
+nmod:in	working	yard
+punct	working	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	carpet
+case	knife	with
+det	knife	a
+nmod:with	cutting	knife
+punct	cutting	.

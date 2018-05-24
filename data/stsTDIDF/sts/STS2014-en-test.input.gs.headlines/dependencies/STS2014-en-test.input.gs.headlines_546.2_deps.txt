@@ -1,0 +1,7 @@
+compound	ship	N
+amod	ship	Korean
+nsubj	seized	ship
+acl	ship	carrying
+compound	missiles	Cuba
+dobj	carrying	missiles
+root	ROOT	seized

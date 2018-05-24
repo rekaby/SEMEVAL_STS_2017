@@ -1,0 +1,6 @@
+det	person	The
+nsubj	rode	person
+root	ROOT	rode
+det	horse	a
+dobj	rode	horse
+punct	rode	.

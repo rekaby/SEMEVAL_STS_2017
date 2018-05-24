@@ -1,0 +1,6 @@
+compound	device	DJ
+nsubj	works	device
+root	ROOT	works
+case	club	in
+det	club	the
+nmod:in	works	club

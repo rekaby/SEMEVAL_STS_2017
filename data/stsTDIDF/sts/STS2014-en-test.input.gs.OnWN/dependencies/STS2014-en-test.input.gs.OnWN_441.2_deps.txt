@@ -1,0 +1,8 @@
+compound	consideration	show
+root	ROOT	consideration
+dep	consideration	for
+punct	for	;
+conj	for	take
+case	account	into
+nmod:into	take	account
+punct	consideration	.

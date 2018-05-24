@@ -1,0 +1,8 @@
+det	man	A
+nsubj	picking	man
+root	ROOT	picking
+compound:prt	picking	up
+det	rock	a
+amod	rock	big
+dobj	picking	rock
+punct	picking	.

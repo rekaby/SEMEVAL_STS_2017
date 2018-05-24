@@ -1,0 +1,16 @@
+case	hearing	During
+det	hearing	the
+nmod:during	expressed	hearing
+punct	expressed	,
+nsubj	expressed	Morales
+root	ROOT	expressed
+punct	expressed	``
+amod	regrets	sincere
+dobj	expressed	regrets
+cc	regrets	and
+conj:and	regrets	remorse
+punct	expressed	''
+case	actions	for
+nmod:poss	actions	his
+nmod:for	expressed	actions
+punct	expressed	.

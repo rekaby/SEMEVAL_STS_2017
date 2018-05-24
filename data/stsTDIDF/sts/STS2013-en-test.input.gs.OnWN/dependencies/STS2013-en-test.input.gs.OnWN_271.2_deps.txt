@@ -1,0 +1,7 @@
+root	ROOT	serve
+case	cause	as
+det	cause	the
+amod	cause	inciting
+nmod:as	serve	cause
+acl	cause	of
+punct	serve	.

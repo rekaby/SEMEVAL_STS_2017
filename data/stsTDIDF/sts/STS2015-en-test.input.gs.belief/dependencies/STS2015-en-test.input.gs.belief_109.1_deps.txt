@@ -1,0 +1,8 @@
+aux	know	does
+nsubj	know	anyone
+root	ROOT	know
+mark	possible	if
+nsubj	possible	this
+cop	possible	is
+advcl	know	possible
+dep	know	??

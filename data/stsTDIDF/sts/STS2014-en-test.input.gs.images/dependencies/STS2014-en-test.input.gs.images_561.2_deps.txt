@@ -1,0 +1,15 @@
+det	girl	A
+nsubj	standing	girl
+acl	girl	wearing
+amod	shorts	black
+dobj	wearing	shorts
+cc	shorts	and
+conj:and	shorts	boots
+aux	standing	is
+root	ROOT	standing
+case	motorcycle	next
+mwe	next	to
+det	motorcycle	a
+amod	motorcycle	blue
+nmod:next_to	standing	motorcycle
+punct	standing	.

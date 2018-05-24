@@ -1,0 +1,8 @@
+root	ROOT	Thoughts
+case	relations	on
+compound	relations	race
+nmod:on	Thoughts	relations
+case	president	under
+det	president	a
+amod	president	black
+nmod:under	relations	president

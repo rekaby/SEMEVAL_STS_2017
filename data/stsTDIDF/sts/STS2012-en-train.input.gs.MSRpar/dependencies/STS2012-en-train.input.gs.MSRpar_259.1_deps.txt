@@ -1,0 +1,14 @@
+nsubj	found	They
+advmod	found	also
+root	ROOT	found
+nsubjpass	associated	shortness
+auxpass	associated	was
+ccomp	found	associated
+case	history	with
+det	history	a
+compound	history	family
+nmod:with	associated	history
+case	loss	of
+compound	loss	hearing
+nmod:of	history	loss
+punct	found	.

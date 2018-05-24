@@ -1,0 +1,8 @@
+compound	Harry	Prince
+nsubj	pays	Harry
+root	ROOT	pays
+dobj	pays	tribute
+case	war	to
+compound	war	US
+nmod:to	tribute	war
+xcomp	pays	dead

@@ -1,0 +1,16 @@
+root	ROOT	And
+dep	And	that
+acl	that	's
+advmod	yelling	why
+nsubj	yelling	you
+aux	yelling	're
+advcl	's	yelling
+case	me	at
+nmod:at	yelling	me
+cc	yelling	and
+conj:and	yelling	refusing
+mark	answer	to
+xcomp	refusing	answer
+nmod:poss	questions	my
+dobj	answer	questions
+punct	And	?

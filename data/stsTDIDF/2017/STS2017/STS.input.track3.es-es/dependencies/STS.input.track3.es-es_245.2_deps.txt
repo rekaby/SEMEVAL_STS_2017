@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	performs	girl
+root	ROOT	performs
+det	routine	a
+amod	routine	rhythmic
+compound	routine	gymnastics
+dobj	performs	routine
+punct	performs	.

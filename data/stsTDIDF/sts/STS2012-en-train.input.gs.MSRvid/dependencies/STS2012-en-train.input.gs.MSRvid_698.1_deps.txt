@@ -1,0 +1,9 @@
+det	girl	The
+nsubj	danced	girl
+root	ROOT	danced
+case	bonfire	in
+mwe	in	front
+mwe	in	of
+det	bonfire	the
+nmod:in_front_of	danced	bonfire
+punct	danced	.

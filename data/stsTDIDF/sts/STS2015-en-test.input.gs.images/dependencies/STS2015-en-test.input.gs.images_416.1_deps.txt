@@ -1,0 +1,9 @@
+nummod	girls	Two
+amod	girls	little
+nsubj	playing	girls
+aux	playing	are
+root	ROOT	playing
+case	trampoline	on
+det	trampoline	a
+nmod:on	playing	trampoline
+punct	playing	.

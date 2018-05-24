@@ -1,0 +1,7 @@
+amod	opposition	Syrian
+nsubj	confirms	opposition
+root	ROOT	confirms
+compound	talks	participation
+case	peace	in
+nmod:in	participation	peace
+dobj	confirms	talks

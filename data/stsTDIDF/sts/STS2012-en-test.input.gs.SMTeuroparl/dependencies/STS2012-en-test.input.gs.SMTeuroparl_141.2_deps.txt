@@ -1,0 +1,9 @@
+det	fishermen	The
+nsubj	unemployed	fishermen
+cop	unemployed	are
+root	ROOT	unemployed
+punct	unemployed	,
+dep	unemployed	tired
+cc	tired	and
+conj:and	tired	disappointed
+punct	unemployed	.

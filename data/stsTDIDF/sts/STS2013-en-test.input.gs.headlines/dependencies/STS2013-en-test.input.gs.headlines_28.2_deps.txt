@@ -1,0 +1,6 @@
+root	ROOT	Nigeria
+punct	Nigeria	:
+compound	Bombed	University
+appos	Nigeria	Bombed
+case	North	in
+nmod:in	Bombed	North

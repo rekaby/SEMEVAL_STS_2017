@@ -1,0 +1,8 @@
+root	ROOT	4
+acl	4	killed
+case	collapse	in
+compound	collapse	building
+nmod:in	killed	collapse
+case	India	in
+amod	India	southern
+nmod:in	collapse	India

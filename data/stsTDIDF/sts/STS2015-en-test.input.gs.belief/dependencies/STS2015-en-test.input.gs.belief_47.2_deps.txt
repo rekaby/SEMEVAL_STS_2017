@@ -1,0 +1,15 @@
+det	reality	the
+nsubj	focus	reality
+aux	focus	is
+nsubj	focus	it
+cop	focus	is
+neg	focus	not
+nmod:poss	focus	anyone
+case	anyone	's
+root	ROOT	focus
+mark	improve	to
+advmod	improve	actually
+acl	focus	improve
+det	schools	the
+dobj	improve	schools
+punct	focus	.

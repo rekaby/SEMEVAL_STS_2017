@@ -1,0 +1,14 @@
+compound	systems	GPS
+root	ROOT	systems
+dep	systems	can
+punct	can	,
+cc	can	and
+conj:and	can	do
+punct	can	,
+conj:and	can	work
+advmod	get	everywhere
+nsubj	get	you
+aux	get	can
+ccomp	work	get
+dobj	get	satellites
+punct	systems	.

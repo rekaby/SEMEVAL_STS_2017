@@ -1,0 +1,15 @@
+root	ROOT	Group
+case	people	of
+nmod:of	Group	people
+acl	people	gathered
+case	meeting	as
+case	meeting	in
+det	meeting	a
+nmod:in	gathered	meeting
+case	food	with
+nmod:with	meeting	food
+case	them	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	food	them
+punct	Group	.

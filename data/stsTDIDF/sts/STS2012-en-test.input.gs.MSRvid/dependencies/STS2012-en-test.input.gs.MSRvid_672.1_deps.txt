@@ -1,0 +1,11 @@
+det	man	The
+nsubj	drove	man
+root	ROOT	drove
+nmod:poss	car	his
+amod	car	little
+amod	car	red
+dobj	drove	car
+case	traffic	around
+det	traffic	the
+nmod:around	drove	traffic
+punct	drove	.

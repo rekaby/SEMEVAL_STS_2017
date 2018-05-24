@@ -1,0 +1,13 @@
+det	act	the
+root	ROOT	act
+mark	passing	of
+acl	act	passing
+case	state	from
+nummod	state	one
+nmod:from	passing	state
+cc	state	or
+conj:or	state	place
+case	next	to
+det	next	the
+nmod:to	passing	next
+punct	act	.

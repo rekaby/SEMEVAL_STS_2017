@@ -1,0 +1,9 @@
+root	ROOT	Group
+case	people	of
+amod	people	elderly
+nmod:of	Group	people
+acl	Group	sitting
+case	table	around
+det	table	a
+nmod:around	sitting	table
+punct	Group	.

@@ -1,0 +1,7 @@
+amod	support	Colourful
+root	ROOT	support
+case	Cup	at
+compound	Cup	World
+nmod:at	support	Cup
+case	Brazil	in
+nmod:in	support	Brazil

@@ -1,0 +1,8 @@
+nsubj	fighting	Men
+aux	fighting	are
+root	ROOT	fighting
+case	game	after
+det	game	a
+compound	game	basketball
+nmod:after	fighting	game
+punct	fighting	.

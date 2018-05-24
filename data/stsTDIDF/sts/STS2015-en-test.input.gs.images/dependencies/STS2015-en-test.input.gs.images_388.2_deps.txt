@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	shaking	dog
+aux	shaking	is
+root	ROOT	shaking
+compound:prt	shaking	off
+dobj	shaking	water
+punct	shaking	.

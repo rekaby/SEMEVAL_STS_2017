@@ -1,0 +1,7 @@
+neg	update	No
+root	ROOT	update
+case	condition	on
+compound	Mandela	Nelson
+nmod:poss	condition	Mandela
+case	Mandela	's
+nmod:on	update	condition

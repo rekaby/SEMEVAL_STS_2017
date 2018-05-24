@@ -1,0 +1,10 @@
+nsubj	pulled	Zimmerman
+root	ROOT	pulled
+compound:prt	pulled	over
+case	Texas	in
+nmod:in	pulled	Texas
+case	speeding	for
+nmod:for	pulled	speeding
+punct	pulled	,
+amod	warning	given
+dobj	pulled	warning

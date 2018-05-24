@@ -1,0 +1,11 @@
+det	handful	A
+root	ROOT	handful
+case	women	of
+nmod:of	handful	women
+case	library	in
+det	library	the
+nmod:in	handful	library
+case	children	with
+det	children	the
+nmod:with	handful	children
+punct	handful	.

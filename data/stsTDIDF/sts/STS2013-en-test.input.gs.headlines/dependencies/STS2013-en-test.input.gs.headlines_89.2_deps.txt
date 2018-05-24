@@ -1,0 +1,8 @@
+nsubj	strikes	IAF
+root	ROOT	strikes
+compound	cell	Gaza
+compound	cell	terror
+dobj	strikes	cell
+punct	strikes	;
+dep	strikes	1
+amod	1	dead

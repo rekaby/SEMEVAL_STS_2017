@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	stands	dog
+root	ROOT	stands
+case	materials	next
+mwe	next	to
+nmod:next_to	stands	materials
+case	site	at
+det	site	a
+compound	site	construction
+nmod:at	stands	site
+punct	stands	.

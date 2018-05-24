@@ -1,0 +1,9 @@
+det	man	The
+nsubj	reading	man
+aux	reading	is
+root	ROOT	reading
+det	book	a
+compound	book	Harry
+compound	book	Potter
+dobj	reading	book
+punct	reading	.

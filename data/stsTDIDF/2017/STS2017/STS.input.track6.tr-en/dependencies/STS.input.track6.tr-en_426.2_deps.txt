@@ -1,0 +1,14 @@
+det	man	The
+nsubj	working	man
+aux	working	is
+root	ROOT	working
+advmod	working	hard
+mark	use	to
+xcomp	working	use
+det	saw	the
+dobj	use	saw
+mark	cut	to
+advcl	use	cut
+det	logs	the
+dobj	cut	logs
+punct	working	.

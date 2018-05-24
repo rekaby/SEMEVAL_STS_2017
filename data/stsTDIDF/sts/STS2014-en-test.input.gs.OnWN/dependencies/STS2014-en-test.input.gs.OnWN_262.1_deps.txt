@@ -1,0 +1,6 @@
+root	ROOT	immerse
+advmod	immerse	briefly
+case	liquid	into
+nmod:into	immerse	liquid
+cc	liquid	or
+conj:or	liquid	container

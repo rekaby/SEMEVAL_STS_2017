@@ -1,0 +1,8 @@
+det	man	A
+nsubj	mixes	man
+root	ROOT	mixes
+dobj	mixes	vegetables
+case	pot	in
+det	pot	a
+nmod:in	mixes	pot
+punct	mixes	.

@@ -1,0 +1,7 @@
+nsubj	endure	face
+det	event	an
+dobj	face	event
+cc	face	and
+conj:and	face	survive
+punct	face	;
+root	ROOT	endure

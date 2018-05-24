@@ -1,0 +1,12 @@
+det	dog	A
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	jumping	pool
+case	duck	after
+det	duck	a
+nmod:after	jumping	duck
+punct	jumping	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	banana	a
+dobj	eating	banana
+case	tree	by
+det	tree	a
+nmod:by	eating	tree
+punct	eating	.

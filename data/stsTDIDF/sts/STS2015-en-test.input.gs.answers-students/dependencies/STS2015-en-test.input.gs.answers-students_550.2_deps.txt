@@ -1,0 +1,13 @@
+det	voltage	A
+amod	voltage	non-zero
+nsubj	means	voltage
+root	ROOT	means
+mark	separated	that
+det	terminals	the
+nsubjpass	separated	terminals
+auxpass	separated	are
+ccomp	means	separated
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap
+punct	means	.

@@ -1,0 +1,6 @@
+compound	vote	Egypt
+amod	vote	holding
+amod	vote	key
+root	ROOT	vote
+case	constitution	on
+nmod:on	vote	constitution

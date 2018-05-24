@@ -1,0 +1,8 @@
+amod	lamb	Little
+amod	lamb	white
+root	ROOT	lamb
+case	nose	with
+nmod:with	lamb	nose
+case	wood	to
+nmod:to	nose	wood
+punct	lamb	.

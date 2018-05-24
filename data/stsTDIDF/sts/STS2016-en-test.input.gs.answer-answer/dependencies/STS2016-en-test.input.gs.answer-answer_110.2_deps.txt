@@ -1,0 +1,10 @@
+nsubj	have	You
+root	ROOT	have
+mark	know	to
+xcomp	have	know
+dobj	want	what
+nsubj	want	you
+ccomp	know	want
+mark	do	to
+xcomp	want	do
+punct	have	.

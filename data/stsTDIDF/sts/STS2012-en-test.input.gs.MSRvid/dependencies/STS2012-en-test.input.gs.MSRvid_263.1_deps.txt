@@ -1,0 +1,8 @@
+det	cats	The
+nsubj	playing	cats
+aux	playing	are
+root	ROOT	playing
+case	other	with
+det	other	each
+nmod:with	playing	other
+punct	playing	.

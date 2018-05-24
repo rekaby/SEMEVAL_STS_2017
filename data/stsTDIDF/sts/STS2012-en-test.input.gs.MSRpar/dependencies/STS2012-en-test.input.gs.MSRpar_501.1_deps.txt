@@ -1,0 +1,16 @@
+det	lawyer	The
+root	ROOT	lawyer
+acl	lawyer	representing
+compound	Concepts	Torch
+nsubj	respond	Concepts
+punct	Concepts	,
+compound	Marsden	Rich
+appos	Concepts	Marsden
+aux	respond	did
+neg	respond	not
+ccomp	representing	respond
+case	calls	to
+amod	calls	repeated
+compound	calls	phone
+nmod:to	respond	calls
+punct	lawyer	.

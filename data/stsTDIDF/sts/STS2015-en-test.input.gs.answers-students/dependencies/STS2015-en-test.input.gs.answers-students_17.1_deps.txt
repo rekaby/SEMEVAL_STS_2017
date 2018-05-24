@@ -1,0 +1,10 @@
+det	bulb	the
+nsubjpass	connected	bulb
+auxpass	connected	is
+advmod	connected	only
+root	ROOT	connected
+case	connection	at
+det	connection	the
+amod	connection	negative
+nmod:at	connected	connection
+punct	connected	.

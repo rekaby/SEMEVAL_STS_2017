@@ -1,0 +1,6 @@
+amod	woman	Depressed
+root	ROOT	woman
+acl	woman	sitting
+case	couch	on
+nmod:on	sitting	couch
+punct	woman	.

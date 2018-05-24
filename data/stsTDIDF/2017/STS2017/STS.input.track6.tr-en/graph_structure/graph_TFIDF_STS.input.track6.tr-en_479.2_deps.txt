@@ -1,0 +1,6 @@
+opens	wallet	dobj
+hatch	the	det
+woman	hatch	nmod:in
+wallet	her	nmod:poss
+opens	woman	nsubj
+hatch	in	case

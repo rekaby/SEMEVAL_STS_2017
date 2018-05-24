@@ -1,0 +1,11 @@
+nsubj	speak	We
+aux	speak	will
+root	ROOT	speak
+case	grace	with
+nummod	grace	one
+compound	grace	voice
+nmod:with	speak	grace
+case	WTO	within
+det	WTO	the
+nmod:within	speak	WTO
+punct	speak	.

@@ -1,0 +1,9 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	stick	with
+det	stick	a
+nmod:with	running	stick
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	stick	mouth

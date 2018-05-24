@@ -1,0 +1,10 @@
+det	man	a
+nsubj	stands	man
+root	ROOT	stands
+case	truck	in
+det	truck	a
+amod	truck	white
+compound	truck	ice
+compound	truck	cream
+nmod:in	stands	truck
+punct	stands	.

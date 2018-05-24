@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	jacket	a
+amod	jacket	blue
+dobj	wearing	jacket
+punct	wearing	.

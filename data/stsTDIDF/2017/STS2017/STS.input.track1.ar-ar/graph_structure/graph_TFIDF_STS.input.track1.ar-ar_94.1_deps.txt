@@ -1,0 +1,8 @@
+people	professional	amod
+professional	casually	advmod
+professional	play	xcomp
+Watching	.	punct
+fire	with	case
+ROOT	Watching	root
+Watching	people	dobj
+play	fire	nmod:with

@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	crowd	a
+conj:and	man	crowd
+punct	man	.

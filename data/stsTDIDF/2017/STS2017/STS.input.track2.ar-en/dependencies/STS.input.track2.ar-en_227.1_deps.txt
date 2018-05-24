@@ -1,0 +1,13 @@
+nummod	men	Two
+nsubj	fighting	men
+aux	fighting	are
+root	ROOT	fighting
+mark	gets	over
+nsubj	gets	who
+advcl	fighting	gets
+mark	speak	to
+xcomp	gets	speak
+case	microphone	into
+det	microphone	the
+nmod:into	speak	microphone
+punct	fighting	.

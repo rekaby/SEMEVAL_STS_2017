@@ -1,0 +1,9 @@
+root	ROOT	Bodies
+case	teens	of
+amod	teens	missing
+amod	teens	Israeli
+nmod:of	Bodies	teens
+acl	teens	found
+case	Bank	in
+compound	Bank	West
+nmod:in	found	Bank

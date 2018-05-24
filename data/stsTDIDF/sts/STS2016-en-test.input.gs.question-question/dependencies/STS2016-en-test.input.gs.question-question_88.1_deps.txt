@@ -1,0 +1,8 @@
+advmod	remove	How
+mark	remove	to
+root	ROOT	remove
+compound	adhesive	construction
+dobj	remove	adhesive
+case	concrete	from
+nmod:from	remove	concrete
+punct	remove	?

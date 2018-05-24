@@ -1,0 +1,17 @@
+det	view	A
+advmod	refreshing	surprisingly
+amod	view	refreshing
+root	ROOT	view
+case	Howard	from
+amod	Howard	old
+compound	Howard	Johnny
+nmod:from	view	Howard
+punct	view	.-9) nsubj(Went-2, I
+root	ROOT	Went
+case	Guns	After
+nmod:after	Went	Guns
+punct	Went	.-5) nsubj(Can-2, Obama
+root	ROOT	Can
+punct	Can	,
+advmod	Can	Too
+punct	Can	.

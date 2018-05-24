@@ -1,0 +1,13 @@
+nsubj	use	you
+aux	use	do
+neg	use	n't
+root	ROOT	use
+det	button	the
+compound	button	search
+dobj	use	button
+case	ALL	AT
+nmod:at	use	ALL
+punct	use	,
+advcl	use	do
+dobj	do	you
+punct	use	?

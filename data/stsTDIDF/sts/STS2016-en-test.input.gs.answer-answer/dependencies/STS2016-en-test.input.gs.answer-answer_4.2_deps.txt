@@ -1,0 +1,13 @@
+nsubj	do	You
+aux	do	can
+root	ROOT	do
+dobj	do	it
+punct	do	,
+cc	do	but
+nsubj	professor	you
+aux	professor	might
+neg	professor	not
+cop	professor	be
+det	professor	a
+conj:but	do	professor
+punct	do	.

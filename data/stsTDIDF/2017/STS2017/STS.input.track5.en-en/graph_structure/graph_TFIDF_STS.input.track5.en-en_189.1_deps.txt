@@ -1,0 +1,5 @@
+child	wet	amod
+ROOT	enjoys	root
+enjoys	child	nsubj
+enjoys	summer	dobj
+enjoys	.	punct

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+dobj	putting	anti-freeze
+case	car	into
+det	car	a
+nmod:into	putting	car
+punct	putting	.

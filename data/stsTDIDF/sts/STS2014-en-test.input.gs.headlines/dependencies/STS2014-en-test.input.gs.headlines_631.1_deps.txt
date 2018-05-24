@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	floods	in
+compound	floods	Colorado
+nmod:in	toll	floods
+root	ROOT	rises
+case	four	to
+nmod:to	rises	four

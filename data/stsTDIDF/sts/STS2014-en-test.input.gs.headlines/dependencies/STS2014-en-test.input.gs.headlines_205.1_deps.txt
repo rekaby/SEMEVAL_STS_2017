@@ -1,0 +1,8 @@
+nummod	militants	35
+root	ROOT	militants
+acl	militants	killed
+case	raids	in
+compound	raids	Afghan
+nmod:in	killed	raids
+punct	militants	:
+dep	militants	official

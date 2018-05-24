@@ -1,0 +1,19 @@
+advmod	beaten	So
+punct	say	,
+nsubj	say	I
+aux	say	would
+parataxis	beaten	say
+punct	say	,
+dep	say	Gabby
+punct	say	,
+nsubjpass	beaten	you
+aux	beaten	have
+neg	beaten	not
+auxpass	beaten	been
+root	ROOT	beaten
+punct	beaten	,
+root	,	''
+punct	''	?
+punct	?	''-17) nsubj(said-2, Kelly
+root	ROOT	said
+punct	said	.

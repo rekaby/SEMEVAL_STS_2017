@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	poking	woman
+aux	poking	is
+root	ROOT	poking
+dobj	poking	holes
+case	potato	in
+det	potato	the
+nmod:in	poking	potato
+punct	poking	.

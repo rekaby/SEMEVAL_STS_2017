@@ -1,0 +1,8 @@
+det	parrot	A
+nsubj	talking	parrot
+aux	talking	is
+root	ROOT	talking
+case	microphone	into
+det	microphone	a
+nmod:into	talking	microphone
+punct	talking	.

@@ -1,0 +1,10 @@
+root	ROOT	stir
+det	feelings	the
+dobj	stir	feelings
+punct	feelings	,
+conj:or	feelings	emotions
+punct	feelings	,
+cc	feelings	or
+conj:or	feelings	peace
+acl	peace	of
+punct	stir	.

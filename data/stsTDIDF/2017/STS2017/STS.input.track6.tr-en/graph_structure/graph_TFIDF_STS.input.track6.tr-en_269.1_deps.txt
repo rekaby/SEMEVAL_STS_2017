@@ -1,0 +1,10 @@
+losing	match	dobj
+losing	man	nsubj
+match	wrestling	compound
+ROOT	losing	root
+middle	street	nmod:of
+losing	.	punct
+losing	middle	nmod:in
+match	sumo	amod
+losing	is	aux
+street	of	case

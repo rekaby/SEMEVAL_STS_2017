@@ -1,0 +1,13 @@
+compound	Gergen	David
+nsubj	says	Gergen
+root	ROOT	says
+nmod:poss	inaugural	Obama
+case	Obama	's
+amod	inaugural	2nd
+nsubj	deepen	inaugural
+aux	deepen	will
+ccomp	says	deepen
+dobj	deepen	division
+punct	says	.-11) root(ROOT-0, #Didn
+punct	#Didn	`
+dep	#Didn	tSeeItComing

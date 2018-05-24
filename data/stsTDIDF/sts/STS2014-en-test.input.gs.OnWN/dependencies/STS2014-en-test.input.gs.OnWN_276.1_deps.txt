@@ -1,0 +1,5 @@
+root	ROOT	perform
+cc	perform	or
+conj:or	perform	supervise
+det	ritual	a
+dobj	perform	ritual

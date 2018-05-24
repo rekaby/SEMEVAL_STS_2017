@@ -1,0 +1,10 @@
+nummod	Palestinians	Two
+nsubj	Killed	Palestinians
+root	ROOT	Killed
+case	Strike	in
+det	Strike	an
+compound	Strike	Israeli
+compound	Strike	Air
+nmod:in	Killed	Strike
+case	Gaza	on
+nmod:on	Strike	Gaza

@@ -1,0 +1,11 @@
+advmod	aware	Well
+punct	aware	,
+dep	aware	whatever
+punct	aware	,
+nsubj	aware	you
+cop	aware	're
+root	ROOT	aware
+case	it	of
+nmod:of	aware	it
+advmod	aware	now
+punct	aware	.

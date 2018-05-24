@@ -1,0 +1,7 @@
+nummod	wreck	40
+advmod	missing	still
+acl	40	missing
+case	train	in
+amod	train	Canadian
+nmod:in	missing	train
+root	ROOT	wreck

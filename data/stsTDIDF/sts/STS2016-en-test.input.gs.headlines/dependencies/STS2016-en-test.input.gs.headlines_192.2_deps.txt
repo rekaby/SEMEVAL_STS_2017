@@ -1,0 +1,11 @@
+nmod:poss	investigation	India
+case	India	's
+amod	investigation	top
+compound	investigation	court
+compound	investigation	orders
+nsubj	deaths	investigation
+case	scam	into
+compound	scam	job
+nmod:into	investigation	scam
+punct	investigation	,
+root	ROOT	deaths

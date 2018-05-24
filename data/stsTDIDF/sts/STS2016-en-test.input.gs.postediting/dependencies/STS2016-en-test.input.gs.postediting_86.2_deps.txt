@@ -1,0 +1,10 @@
+compound	Sarkozy	Nicolas
+nsubjpass	expected	Sarkozy
+auxpass	expected	is
+root	ROOT	expected
+case	ground	to
+det	ground	the
+nmod:to	expected	ground
+case	fishermen	by
+nmod:by	ground	fishermen
+punct	expected	.

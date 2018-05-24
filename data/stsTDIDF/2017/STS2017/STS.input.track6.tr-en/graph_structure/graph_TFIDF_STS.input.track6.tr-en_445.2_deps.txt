@@ -1,0 +1,12 @@
+white	purple	conj:and
+woman	white	nmod:in
+passing	is	aux
+passing	woman	nsubj
+woman	red-haired	amod
+car	red	amod
+car	by	case
+passing	car	nmod:by
+passing	.	punct
+white	in	case
+ROOT	passing	root
+car	sports	compound

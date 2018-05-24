@@ -1,0 +1,7 @@
+compound	game	Man
+compound	game	playing
+root	ROOT	game
+case	store	in
+det	store	a
+nmod:in	game	store
+punct	game	.

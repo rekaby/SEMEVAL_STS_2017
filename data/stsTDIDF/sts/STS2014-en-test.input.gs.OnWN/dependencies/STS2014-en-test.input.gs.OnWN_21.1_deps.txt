@@ -1,0 +1,9 @@
+root	ROOT	stretch
+case	utmost	to
+det	utmost	the
+nmod:to	stretch	utmost
+punct	stretch	,
+dep	stretch	causing
+dobj	causing	stress
+cc	causing	or
+conj:or	causing	injury

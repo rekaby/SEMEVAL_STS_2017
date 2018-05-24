@@ -1,0 +1,9 @@
+nsubj	fly	Batman
+cc	Batman	and
+conj:and	Batman	Robin
+root	ROOT	fly
+det	helicopter	a
+dobj	fly	helicopter
+case	water	over
+nmod:over	fly	water
+punct	fly	.

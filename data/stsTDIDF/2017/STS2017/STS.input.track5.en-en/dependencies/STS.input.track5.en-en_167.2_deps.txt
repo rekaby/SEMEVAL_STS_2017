@@ -1,0 +1,8 @@
+det	woman	the
+nsubj	going	woman
+aux	going	is
+root	ROOT	going
+case	wedding	to
+det	wedding	a
+nmod:to	going	wedding
+punct	going	.

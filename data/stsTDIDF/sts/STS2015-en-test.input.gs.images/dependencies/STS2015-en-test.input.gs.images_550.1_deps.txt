@@ -1,0 +1,13 @@
+det	man	A
+nsubj	holds	man
+case	jacket	in
+det	jacket	a
+amod	jacket	red
+nmod:in	man	jacket
+root	ROOT	holds
+nmod:poss	bike	his
+dobj	holds	bike
+case	picture	for
+det	picture	the
+nmod:for	bike	picture
+punct	holds	.

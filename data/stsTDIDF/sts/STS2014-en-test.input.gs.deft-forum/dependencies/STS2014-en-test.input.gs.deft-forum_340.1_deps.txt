@@ -1,0 +1,7 @@
+det	question	The
+nsubj	needs	question
+root	ROOT	needs
+mark	asked	to
+auxpass	asked	be
+xcomp	needs	asked
+punct	needs	.

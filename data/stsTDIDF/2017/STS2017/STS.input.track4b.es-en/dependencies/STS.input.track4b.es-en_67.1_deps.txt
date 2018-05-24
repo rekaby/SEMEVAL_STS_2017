@@ -1,0 +1,17 @@
+nsubj	said	Ha
+root	ROOT	said
+nsubj	sold	Zico
+aux	sold	had
+ccomp	said	sold
+compound:prt	sold	up
+case	6,000	to
+nmod:to	sold	6,000
+case	outlets	to
+amod	outlets	wholesale
+nmod:to	sold	outlets
+cc	sold	and
+aux	awaiting	was
+conj:and	sold	awaiting
+amod	stock	new
+dobj	awaiting	stock
+punct	said	.

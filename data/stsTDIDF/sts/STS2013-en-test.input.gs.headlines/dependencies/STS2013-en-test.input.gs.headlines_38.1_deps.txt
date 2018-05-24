@@ -1,0 +1,9 @@
+nsubj	rise	Stocks
+root	ROOT	rise
+advmod	rise	early
+case	deal	after
+amod	deal	Greek
+nmod:after	rise	deal
+punct	rise	,
+advmod	flatten	then
+dep	rise	flatten

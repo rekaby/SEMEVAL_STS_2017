@@ -1,0 +1,6 @@
+compound	workers	Factories
+amod	workers	yellow
+amod	workers	resolutely
+nsubj	working	workers
+root	ROOT	working
+punct	working	.

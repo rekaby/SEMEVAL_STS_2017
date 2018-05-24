@@ -1,0 +1,17 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	catching	dog
+aux	catching	is
+root	ROOT	catching
+det	ball	a
+compound	ball	tennis
+dobj	catching	ball
+mark	standing	while
+advcl	catching	standing
+case	legs	on
+nmod:poss	legs	its
+amod	legs	hind
+nmod:on	standing	legs
+punct	catching	.

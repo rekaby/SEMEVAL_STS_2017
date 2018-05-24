@@ -1,0 +1,14 @@
+det	act	the
+root	ROOT	act
+mark	starting	of
+acl	act	starting
+dobj	starting	something
+case	time	for
+det	time	the
+amod	time	first
+nmod:for	starting	time
+punct	act	;
+dep	act	introducing
+dobj	introducing	something
+amod	something	new
+punct	act	.

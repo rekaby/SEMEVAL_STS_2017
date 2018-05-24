@@ -1,0 +1,9 @@
+root	ROOT	compress
+conj:or	compress	compress
+case	shape	out
+mwe	out	of
+nmod:out_of	compress	shape
+cc	compress	or
+case	pieces	into
+amod	pieces	small
+nmod:into	compress	pieces

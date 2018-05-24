@@ -1,0 +1,8 @@
+nsubj	kill	Rebels
+root	ROOT	kill
+nummod	civilians	21
+dobj	kill	civilians
+case	Syria	in
+nmod:in	village	Syria
+compound	village	Alawite
+dobj	kill	village

@@ -1,0 +1,8 @@
+root	ROOT	interpret
+dobj	interpret	something
+nsubjpass	written	that
+auxpass	written	is
+acl:relcl	something	written
+cc	written	or
+conj:or	written	printed
+punct	interpret	;

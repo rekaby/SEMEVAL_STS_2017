@@ -1,0 +1,6 @@
+nsubj	kills	Blast
+case	train	on
+amod	train	Indian
+nmod:on	Blast	train
+root	ROOT	kills
+dobj	kills	one

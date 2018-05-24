@@ -1,0 +1,9 @@
+amod	drugs	Cheap
+compound	drugs	cancer
+root	ROOT	drugs
+neg	cure	no
+appos	drugs	cure
+case	poorest	for
+nmod:poss	poorest	India
+case	India	's
+nmod:for	cure	poorest

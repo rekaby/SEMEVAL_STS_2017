@@ -1,0 +1,17 @@
+det	thing	The
+amod	thing	important
+nsubj	is	thing
+root	ROOT	is
+dep	is	that
+dep	that	when
+compound	amount	interest
+compound	amount	rates
+dep	when	amount
+punct	amount	,
+det	values	the
+appos	amount	values
+case	fall	of
+det	fall	the
+amod	fall	active
+nmod:of	values	fall
+punct	when	.

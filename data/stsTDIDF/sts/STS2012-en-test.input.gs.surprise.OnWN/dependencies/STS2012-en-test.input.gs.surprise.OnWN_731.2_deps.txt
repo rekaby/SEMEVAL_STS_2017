@@ -1,0 +1,12 @@
+root	ROOT	pat
+cc	pat	or
+conj:or	pat	squeeze
+advmod	pat	fondly
+cc	fondly	or
+conj:or	fondly	playfully
+punct	pat	,
+advmod	chin	especially
+case	chin	under
+det	chin	the
+nmod:under	pat	chin
+punct	pat	.

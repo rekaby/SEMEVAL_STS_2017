@@ -1,0 +1,7 @@
+compound	Potter	Harry
+nmod:poss	trick	Potter
+case	Potter	's
+amod	trick	latest
+compound	trick	wizard
+root	ROOT	trick
+punct	trick	?

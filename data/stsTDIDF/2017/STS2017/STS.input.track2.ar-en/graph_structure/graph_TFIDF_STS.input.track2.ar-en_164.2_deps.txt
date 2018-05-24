@@ -1,0 +1,9 @@
+walks	down	compound:prt
+set	shops	nmod:of
+walks	man	nsubj
+shops	interfaces	compound
+set	of	case
+corridor	the	det
+corridor	set	nmod:of
+shops	of	case
+walks	corridor	dobj

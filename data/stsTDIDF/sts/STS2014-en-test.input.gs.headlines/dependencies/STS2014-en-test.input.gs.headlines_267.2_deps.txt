@@ -1,0 +1,10 @@
+nsubj	killed	2
+root	ROOT	killed
+punct	killed	,
+dep	killed	6
+acl	6	wounded
+case	clashes	in
+nmod:in	wounded	clashes
+case	Lebanon	in
+amod	Lebanon	northern
+nmod:in	clashes	Lebanon

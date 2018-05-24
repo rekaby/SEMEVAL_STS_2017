@@ -1,0 +1,7 @@
+compound	girls	Tagafzan
+amod	girls	little
+root	ROOT	girls
+case	bed	on
+det	bed	the
+nmod:on	girls	bed
+punct	girls	.

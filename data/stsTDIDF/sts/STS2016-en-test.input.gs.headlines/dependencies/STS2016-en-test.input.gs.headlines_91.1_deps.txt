@@ -1,0 +1,8 @@
+amod	presidency	Ukrainian
+nsubj	says	presidency
+root	ROOT	says
+xcomp	says	deal
+amod	talks	reached
+case	crisis	at
+nmod:at	reached	crisis
+dobj	deal	talks

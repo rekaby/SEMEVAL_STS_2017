@@ -1,0 +1,11 @@
+drinking	allowances	nsubj
+drinking	tables	nmod:on
+tables	the	det
+drinking	.	punct
+ROOT	drinking	root
+allowances	Two	nummod
+allowances	men	compound
+tables	opposite	amod
+tables	on	case
+drinking	coffee	dobj
+drinking	been	aux

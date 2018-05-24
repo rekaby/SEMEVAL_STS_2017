@@ -1,0 +1,16 @@
+det	rapist	the
+nsubjpass	identified	rapist
+auxpass	identified	was
+root	ROOT	identified
+case	safarlou	as
+compound	safarlou	hossein
+nmod:as	identified	safarlou
+cc	identified	and
+aux	convicted	had
+advmod	convicted	also
+auxpass	convicted	been
+conj:and	identified	convicted
+case	trafficking	of
+compound	trafficking	drug
+nmod:of	convicted	trafficking
+punct	identified	.

@@ -1,0 +1,8 @@
+amod	courses	Online
+nsubj	need	courses
+advmod	need	still
+root	ROOT	need
+det	element	a
+amod	element	human
+dobj	need	element
+punct	need	...

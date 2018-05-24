@@ -1,0 +1,6 @@
+compound	Mandela	Nelson
+nsubj	Dies	Mandela
+root	ROOT	Dies
+case	Age	at
+nmod:at	Dies	Age
+nummod	Age	95

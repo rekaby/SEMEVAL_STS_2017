@@ -1,0 +1,10 @@
+traveling	trucks	nsubj
+traveling	down	compound:prt
+traveling	are	aux
+traveling	.	punct
+street	lane	compound
+trucks	Big	amod
+street	four	nummod
+traveling	street	dobj
+ROOT	traveling	root
+trucks	orange	compound

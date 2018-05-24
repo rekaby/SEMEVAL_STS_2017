@@ -1,0 +1,9 @@
+mark	learn	if
+nsubj	learn	we
+aux	learn	could
+advmod	learn	only
+root	ROOT	learn
+case	mistakes	from
+nmod:poss	mistakes	our
+nmod:from	learn	mistakes
+punct	learn	!

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	looking	dog
+aux	looking	is
+root	ROOT	looking
+case	pool	into
+amod	pool	swimming
+nmod:into	looking	pool
+punct	looking	.

@@ -1,0 +1,8 @@
+nsubj	slow	GM
+advcl	record	slow
+case	recalls	on
+nmod:on	slow	recalls
+punct	record	,
+nsubj	record	Congress
+root	ROOT	record
+dobj	record	shows

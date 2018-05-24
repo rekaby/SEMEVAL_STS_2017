@@ -1,0 +1,7 @@
+nsubj	Hits	Snowden
+root	ROOT	Hits
+dobj	Hits	Hurdles
+case	Search	in
+nmod:in	Hits	Search
+case	Asylum	for
+nmod:for	Search	Asylum

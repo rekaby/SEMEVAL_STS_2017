@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	jumps	boy
+root	ROOT	jumps
+case	pool	into
+det	pool	a
+nmod:into	jumps	pool
+case	arms	with
+amod	arms	outstretched
+nmod:with	pool	arms
+punct	jumps	.

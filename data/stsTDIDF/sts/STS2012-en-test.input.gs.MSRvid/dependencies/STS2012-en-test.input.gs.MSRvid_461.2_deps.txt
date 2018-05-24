@@ -1,0 +1,6 @@
+det	person	A
+root	ROOT	person
+acl	person	riding
+det	bull	a
+amod	bull	mechanical
+dobj	riding	bull

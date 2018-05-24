@@ -1,0 +1,7 @@
+det	group	A
+nsubj	walking	group
+case	penguins	of
+nmod:of	group	penguins
+aux	walking	is
+root	ROOT	walking
+punct	walking	.

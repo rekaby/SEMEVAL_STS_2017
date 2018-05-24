@@ -1,0 +1,10 @@
+line	scooters	nmod:of
+parking	middle	nmod:in
+parking	are	cop
+line	A	det
+parking	.	punct
+middle	street	nmod:of
+ROOT	parking	root
+scooters	of	case
+parking	line	nsubj
+street	of	case

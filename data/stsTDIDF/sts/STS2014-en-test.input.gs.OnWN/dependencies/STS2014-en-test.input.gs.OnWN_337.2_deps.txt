@@ -1,0 +1,16 @@
+det	school	a
+root	ROOT	school
+case	offering	in
+det	offering	a
+compound	offering	university
+nmod:in	school	offering
+dep	offering	study
+acl	study	leading
+case	degrees	to
+nmod:to	leading	degrees
+case	degree	beyond
+det	bachelor	the
+nmod:poss	degree	bachelor
+case	bachelor	's
+nmod:beyond	degrees	degree
+punct	school	.

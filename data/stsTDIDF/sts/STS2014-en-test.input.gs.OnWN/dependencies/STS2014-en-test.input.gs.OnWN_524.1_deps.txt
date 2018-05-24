@@ -1,0 +1,17 @@
+root	ROOT	Expel
+cc	Expel	or
+conj:or	Expel	eject
+punct	saliva	-LRB-
+dep	Expel	saliva
+punct	saliva	,
+conj:or	saliva	phlegm
+punct	saliva	,
+conj:or	saliva	sputum
+punct	saliva	,
+cc	saliva	or
+conj:or	saliva	vomit
+punct	saliva	-RRB-
+case	mouth	from
+det	mouth	the
+nmod:from	Expel	mouth
+punct	Expel	.

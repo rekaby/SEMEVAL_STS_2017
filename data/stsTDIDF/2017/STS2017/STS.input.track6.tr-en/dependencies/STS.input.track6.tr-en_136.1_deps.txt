@@ -1,0 +1,5 @@
+nummod	people	Three
+nsubj	play	people
+root	ROOT	play
+dobj	play	cards
+punct	play	.

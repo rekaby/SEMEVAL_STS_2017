@@ -1,0 +1,13 @@
+mark	owe	If
+nsubj	owe	I
+advcl	have	owe
+iobj	owe	you
+det	dollars	a
+nummod	dollars	trillion
+dobj	owe	dollars
+punct	have	,
+nsubj	have	you
+root	ROOT	have
+det	problem	a
+dobj	have	problem
+punct	have	.

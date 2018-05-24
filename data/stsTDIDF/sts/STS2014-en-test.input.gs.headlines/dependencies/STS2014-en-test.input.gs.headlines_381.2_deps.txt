@@ -1,0 +1,12 @@
+nmod:tmod	agree	Syria
+punct	agree	,
+nsubj	agree	opposition
+root	ROOT	agree
+punct	agree	`
+case	principle	in
+nmod:in	agree	principle
+punct	principle	'
+mark	attend	to
+acl	principle	attend
+compound	conference	peace
+dobj	attend	conference

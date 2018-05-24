@@ -1,0 +1,8 @@
+nsubj	Dies	Designer
+punct	Designer	,
+compound	Pulitzer	Socialite
+compound	Pulitzer	Lilly
+appos	Designer	Pulitzer
+root	ROOT	Dies
+case	81	at
+nmod:at	Dies	81

@@ -1,0 +1,8 @@
+compound	regime	Syria
+nsubj	claims	regime
+root	ROOT	claims
+dobj	claims	evacuation
+case	5,000	of
+nmod:of	evacuation	5,000
+case	Damascus	near
+nmod:near	evacuation	Damascus

@@ -1,0 +1,12 @@
+det	woman	The
+nmod:poss	hands	woman
+case	woman	's
+nsubj	full	hands
+cop	full	are
+root	ROOT	full
+mark	carrying	with
+dobj	carrying	what
+nsubj	carrying	she
+aux	carrying	is
+advcl	full	carrying
+punct	full	.

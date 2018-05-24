@@ -1,0 +1,10 @@
+compound	Sudan	S.
+nsubj	accuses	Sudan
+root	ROOT	accuses
+dobj	accuses	Sudan
+case	bombing	of
+nmod:of	accuses	bombing
+case	blow	in
+nmod:in	accuses	blow
+case	talks	to
+nmod:to	blow	talks

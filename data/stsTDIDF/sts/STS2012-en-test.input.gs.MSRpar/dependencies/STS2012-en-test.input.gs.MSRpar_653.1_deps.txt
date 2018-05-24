@@ -1,0 +1,16 @@
+nmod:poss	plan	Enron
+case	Enron	's
+nummod	plan	401
+punct	k	-LRB-
+appos	401	k
+punct	k	-RRB-
+nsubj	covered	plan
+root	ROOT	covered
+case	workers	about
+nummod	workers	20,000
+nmod:about	covered	workers
+punct	workers	,
+conj:and	workers	retirees
+cc	workers	and
+conj:and	workers	beneficiaries
+punct	covered	.

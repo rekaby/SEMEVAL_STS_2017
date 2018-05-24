@@ -1,0 +1,8 @@
+root	ROOT	cause
+mark	happen	to
+xcomp	cause	happen
+cc	happen	or
+cop	responsible	be
+conj:or	happen	responsible
+dep	responsible	for
+punct	cause	.

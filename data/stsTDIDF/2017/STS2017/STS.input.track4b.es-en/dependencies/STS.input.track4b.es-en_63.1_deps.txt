@@ -1,0 +1,10 @@
+det	troops	The
+nsubjpass	lavished	troops
+auxpass	lavished	are
+root	ROOT	lavished
+case	praise	with
+nmod:with	lavished	praise
+case	sacrifices	for
+nmod:poss	sacrifices	their
+nmod:for	praise	sacrifices
+punct	lavished	.

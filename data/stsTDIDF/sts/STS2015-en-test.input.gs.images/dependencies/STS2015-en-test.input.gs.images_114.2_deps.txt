@@ -1,0 +1,12 @@
+det	boy	The
+amod	boy	young
+nsubj	jumping	boy
+aux	jumping	is
+root	ROOT	jumping
+case	pool	into
+det	pool	the
+nmod:into	jumping	pool
+case	belly	on
+nmod:poss	belly	his
+nmod:on	jumping	belly
+punct	jumping	.

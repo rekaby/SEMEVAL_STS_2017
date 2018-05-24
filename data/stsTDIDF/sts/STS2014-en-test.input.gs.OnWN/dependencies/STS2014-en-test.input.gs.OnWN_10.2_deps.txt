@@ -1,0 +1,8 @@
+root	ROOT	create
+dobj	create	code
+punct	create	,
+advcl	create	write
+det	program	a
+compound	program	computer
+dobj	write	program
+punct	create	.

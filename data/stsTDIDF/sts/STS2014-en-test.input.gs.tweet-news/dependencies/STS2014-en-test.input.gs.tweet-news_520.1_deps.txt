@@ -1,0 +1,20 @@
+root	ROOT	#Morsi
+punct	#Morsi	?-2) compound(Slurs-2, s
+nsubj	Concern	Slurs
+case	#Jews	Against
+nmod:against	Slurs	#Jews
+amod	Concern	Stir
+root	ROOT	Concern
+aux	know	Does
+det	one	any
+nsubj	know	one
+case	administration	in
+nmod:poss	administration	#Obama
+case	#Obama	's
+nmod:in	one	administration
+dep	Concern	know
+advmod	read	how
+mark	read	to
+ccomp	know	read
+dobj	read	#English
+punct	Concern	?

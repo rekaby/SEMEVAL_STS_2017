@@ -1,0 +1,16 @@
+root	ROOT	Strategies
+punct	Strategies	:
+mark	Investing	In
+acl	Strategies	Investing
+punct	Investing	,
+case	Least	at
+nmod:at	Investing	Least
+punct	Investing	,
+nsubj	Makes	It
+parataxis	Investing	Makes
+dobj	Makes	Sense
+mark	Play	to
+acl	Sense	Play
+case	Tie	for
+det	Tie	a
+nmod:for	Play	Tie

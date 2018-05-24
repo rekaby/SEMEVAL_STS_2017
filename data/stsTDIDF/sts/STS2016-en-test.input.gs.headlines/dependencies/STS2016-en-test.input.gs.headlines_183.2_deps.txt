@@ -1,0 +1,6 @@
+compound	concerns	Greece
+nsubj	drag	concerns
+root	ROOT	drag
+case	markets	on
+compound	markets	Asia
+nmod:on	drag	markets

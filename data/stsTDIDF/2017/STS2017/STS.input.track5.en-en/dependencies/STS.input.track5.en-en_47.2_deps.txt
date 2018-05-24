@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	has	woman
+root	ROOT	has
+dobj	has	something
+case	her	with
+nmod:with	something	her
+punct	has	.

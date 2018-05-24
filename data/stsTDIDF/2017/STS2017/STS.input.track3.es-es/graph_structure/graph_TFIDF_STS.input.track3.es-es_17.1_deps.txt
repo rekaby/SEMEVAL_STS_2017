@@ -1,0 +1,10 @@
+has	people	dobj
+artist	man	nsubj
+watching	tricks	dobj
+artist	and	cc
+artist	street	compound
+people	watching	acl
+tricks	his	nmod:poss
+artist	is	cop
+ROOT	artist	root
+artist	has	conj:and

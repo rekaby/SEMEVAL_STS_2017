@@ -1,0 +1,5 @@
+root	ROOT	Timelapse
+case	operation	of
+compound	operation	Costa
+compound	operation	Concordia
+nmod:of	Timelapse	operation

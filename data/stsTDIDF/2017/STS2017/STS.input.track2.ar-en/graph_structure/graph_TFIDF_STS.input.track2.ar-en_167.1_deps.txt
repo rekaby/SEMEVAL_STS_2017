@@ -1,0 +1,5 @@
+sleeping	is	aux
+dog	small	amod
+sleeping	dog	nmod:with
+sleeping	man	nsubj
+dog	with	case

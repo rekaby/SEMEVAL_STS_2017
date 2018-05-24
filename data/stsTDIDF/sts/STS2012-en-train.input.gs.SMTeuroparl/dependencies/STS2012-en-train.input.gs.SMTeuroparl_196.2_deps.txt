@@ -1,0 +1,8 @@
+root	ROOT	Approval
+case	Minutes	of
+det	Minutes	the
+nmod:of	Approval	Minutes
+case	session	of
+det	session	the
+amod	session	previous
+nmod:of	Minutes	session

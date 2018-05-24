@@ -1,0 +1,7 @@
+amod	Minister	Italian
+compound	Minister	Foreign
+nsubj	confers	Minister
+root	ROOT	confers
+case	Ghana	with
+nmod:with	confers	Ghana
+dobj	confers	VP

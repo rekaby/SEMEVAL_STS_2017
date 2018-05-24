@@ -1,0 +1,8 @@
+amod	forces	Egyptian
+nsubj	move	forces
+root	ROOT	move
+case	camps	to
+amod	camps	clear
+amod	camps	pro-Morsi
+compound	camps	protest
+nmod:to	move	camps

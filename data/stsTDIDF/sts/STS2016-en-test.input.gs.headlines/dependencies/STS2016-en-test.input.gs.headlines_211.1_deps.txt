@@ -1,0 +1,9 @@
+compound	Site	Plane
+compound	Site	Crash
+nsubj	Search	Site
+root	ROOT	Search
+ccomp	Search	Called
+compound:prt	Called	off
+case	Night	for
+det	Night	the
+nmod:for	Called	Night

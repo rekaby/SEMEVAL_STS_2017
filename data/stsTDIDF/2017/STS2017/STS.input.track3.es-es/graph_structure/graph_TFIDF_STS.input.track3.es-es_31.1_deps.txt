@@ -1,0 +1,7 @@
+scared	horse	nmod:on
+mountain	snowy	amod
+mountain	a	det
+woman	feeling	dep
+horse	on	case
+feeling	scared	acl
+scared	mountain	nmod:on

@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	man	motorcycle
+acl	motorcycle	performing
+det	wheelie	a
+dobj	performing	wheelie
+punct	man	.

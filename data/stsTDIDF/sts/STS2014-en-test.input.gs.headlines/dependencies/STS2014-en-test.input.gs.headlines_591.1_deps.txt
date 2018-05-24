@@ -1,0 +1,6 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+amod	politician	female
+dobj	kill	politician
+case	Pakistan	in
+nmod:in	kill	Pakistan

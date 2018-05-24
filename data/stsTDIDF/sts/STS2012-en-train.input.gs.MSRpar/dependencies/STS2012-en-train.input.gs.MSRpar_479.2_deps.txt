@@ -1,0 +1,14 @@
+nsubj	say	They
+root	ROOT	say
+amod	reports	second-quarter
+compound	reports	earnings
+nsubj	key	reports
+aux	key	will
+cop	key	be
+ccomp	say	key
+mark	giving	in
+advcl	key	giving
+dobj	giving	investors
+det	guidance	that
+dep	investors	guidance
+punct	say	.

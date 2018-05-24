@@ -1,0 +1,8 @@
+nmod:tmod	weigh	Turkey
+punct	weigh	,
+nsubj	weigh	US
+root	ROOT	weigh
+amod	zones	no-fly
+dobj	weigh	zones
+case	Syria	for
+nmod:for	weigh	Syria

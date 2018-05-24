@@ -1,0 +1,8 @@
+root	ROOT	Germany
+mark	Repatriate	to
+acl	Germany	Repatriate
+dobj	Repatriate	Some
+case	Reserves	of
+nmod:poss	Reserves	Its
+compound	Reserves	Gold
+nmod:of	Some	Reserves

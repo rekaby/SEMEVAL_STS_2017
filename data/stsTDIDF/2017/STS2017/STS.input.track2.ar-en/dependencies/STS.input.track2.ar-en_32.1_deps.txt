@@ -1,0 +1,9 @@
+det	bunch	A
+root	ROOT	bunch
+case	people	of
+nmod:of	bunch	people
+acl	people	gathered
+case	beach	on
+det	beach	a
+nmod:on	gathered	beach
+punct	bunch	.

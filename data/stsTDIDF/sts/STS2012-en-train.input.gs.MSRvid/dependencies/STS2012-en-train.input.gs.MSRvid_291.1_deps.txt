@@ -1,0 +1,8 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	bus	with
+det	bus	a
+nmod:with	running	bus
+punct	running	.

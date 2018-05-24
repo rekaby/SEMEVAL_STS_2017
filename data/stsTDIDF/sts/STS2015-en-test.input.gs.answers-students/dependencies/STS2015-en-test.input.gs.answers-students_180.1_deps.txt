@@ -1,0 +1,6 @@
+amod	1is	terminal
+root	ROOT	1is
+amod	4	connected
+case	terminal	to
+nmod:to	connected	terminal
+nummod	1is	4

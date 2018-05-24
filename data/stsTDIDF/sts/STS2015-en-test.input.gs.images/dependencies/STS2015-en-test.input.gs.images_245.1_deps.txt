@@ -1,0 +1,11 @@
+nummod	dogs	Three
+root	ROOT	dogs
+acl	dogs	standing
+case	snow	in
+nmod:in	standing	snow
+case	fence	next
+mwe	next	to
+det	fence	a
+amod	fence	blue
+nmod:next_to	standing	fence
+punct	dogs	.

@@ -1,0 +1,16 @@
+det	jar	an
+amod	jar	open
+root	ROOT	jar
+case	glass	of
+nmod:of	jar	glass
+cc	glass	or
+conj:or	glass	porcelain
+acl	jar	used
+case	ornament	as
+det	ornament	an
+nmod:as	used	ornament
+cc	ornament	or
+mark	hold	to
+conj:or	ornament	hold
+dobj	hold	flowers
+punct	jar	.

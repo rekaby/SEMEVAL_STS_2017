@@ -1,0 +1,11 @@
+compound	something	reach
+cc	reach	or
+conj:or	reach	cause
+mark	reach	to
+acl	reach	reach
+det	point	the
+amod	point	highest
+dobj	reach	point
+punct	something	,
+amod	something	best
+root	ROOT	something

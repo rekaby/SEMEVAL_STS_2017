@@ -1,0 +1,13 @@
+perceptual	rather	cc
+renders	flag	conj:and
+renders	and	cc
+renders	This	nsubj
+answer	perceptual	dep
+flag	is	cop
+flag	often	advmod
+perceptual	factual	conj:negcc
+renders	.	punct
+flag	red	amod
+flag	a	det
+renders	answer	dobj
+ROOT	renders	root

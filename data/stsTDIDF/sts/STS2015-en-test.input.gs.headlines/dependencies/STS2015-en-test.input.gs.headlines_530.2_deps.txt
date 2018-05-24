@@ -1,0 +1,7 @@
+nsubj	spied	Australia
+root	ROOT	spied
+case	president	on
+compound	president	Indonesia
+nmod:on	spied	president
+punct	spied	:
+dobj	spied	reports

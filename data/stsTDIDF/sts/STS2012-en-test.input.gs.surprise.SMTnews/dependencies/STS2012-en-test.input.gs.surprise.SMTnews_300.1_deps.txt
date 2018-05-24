@@ -1,0 +1,17 @@
+cc	driven	But
+nmod:poss	interest	America
+case	America	's
+nsubjpass	driven	interest
+case	oil	in
+amod	oil	Iraqi
+nmod:in	interest	oil
+auxpass	driven	was
+neg	driven	not
+root	ROOT	driven
+advmod	driven	either
+case	economics	by
+nmod:by	either	economics
+cc	economics	or
+compound	policy	energy
+conj:or	economics	policy
+punct	driven	.

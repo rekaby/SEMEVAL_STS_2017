@@ -1,0 +1,12 @@
+nmod:poss	body	Her
+nsubjpass	found	body
+auxpass	found	was
+root	ROOT	found
+amod	weeks	several
+nmod:npmod	later	weeks
+advmod	found	later
+case	River	in
+det	River	the
+compound	River	Green
+nmod:in	found	River
+punct	found	.

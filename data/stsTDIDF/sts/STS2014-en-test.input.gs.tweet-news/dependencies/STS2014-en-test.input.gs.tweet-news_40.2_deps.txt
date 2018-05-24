@@ -1,0 +1,10 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+dep	Columnist	Is
+nsubj	Is	Delhi
+amod	Delhi	So
+dep	So	Different
+case	Steubenville	From
+nmod:from	Different	Steubenville
+punct	Is	?

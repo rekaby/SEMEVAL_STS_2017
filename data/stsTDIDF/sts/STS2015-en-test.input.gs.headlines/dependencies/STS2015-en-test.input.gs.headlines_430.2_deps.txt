@@ -1,0 +1,13 @@
+nsubj	hits	Pope
+root	ROOT	hits
+compound:prt	hits	out
+case	Äėwar	at
+nummod	Äėwar	‚
+nmod:at	hits	Äėwar
+mark	sell	to
+acl	Äėwar	sell
+compound	Äô	arms
+nummod	Äô	‚
+dobj	sell	Äô
+case	Syria	in
+nmod:in	sell	Syria

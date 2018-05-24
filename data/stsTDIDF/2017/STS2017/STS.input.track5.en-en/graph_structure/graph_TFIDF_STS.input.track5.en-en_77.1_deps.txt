@@ -1,0 +1,4 @@
+dog	stairs	nmod:under
+ROOT	dog	root
+stairs	under	case
+stairs	the	det

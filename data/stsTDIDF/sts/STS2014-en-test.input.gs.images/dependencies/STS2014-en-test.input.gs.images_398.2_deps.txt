@@ -1,0 +1,12 @@
+det	child	A
+amod	child	small
+nsubj	sits	child
+case	dress	in
+det	dress	a
+amod	dress	pink
+nmod:in	child	dress
+root	ROOT	sits
+case	table	on
+det	table	a
+nmod:on	sits	table
+punct	sits	.

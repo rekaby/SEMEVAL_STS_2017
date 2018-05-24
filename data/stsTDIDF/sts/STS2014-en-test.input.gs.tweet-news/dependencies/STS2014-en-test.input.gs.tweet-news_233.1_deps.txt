@@ -1,0 +1,14 @@
+nsubj	happened	What
+root	ROOT	happened
+case	Australia	in
+nmod:in	happened	Australia
+punct	happened	...
+nsubj	Went	I
+parataxis	happened	Went
+case	Guns	After
+nmod:after	Went	Guns
+punct	happened	.-10) nsubj(Can-2, Obama
+root	ROOT	Can
+punct	Can	,
+advmod	Can	Too
+punct	Can	.

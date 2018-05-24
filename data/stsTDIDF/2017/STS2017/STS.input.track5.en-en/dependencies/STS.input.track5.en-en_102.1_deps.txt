@@ -1,0 +1,6 @@
+root	ROOT	Men
+acl	Men	competing
+case	contest	in
+det	contest	a
+nmod:in	competing	contest
+punct	Men	.

@@ -1,0 +1,9 @@
+mark	contained	if
+det	bulbs	both
+nsubjpass	contained	bulbs
+auxpass	contained	are
+root	ROOT	contained
+case	path	within
+det	path	a
+amod	path	closed
+nmod:within	contained	path

@@ -1,0 +1,13 @@
+advmod	God	Therefore
+punct	God	,
+det	explanation	the
+nsubj	God	explanation
+case	existence	of
+det	existence	the
+nmod:of	explanation	existence
+case	universe	of
+det	universe	the
+nmod:of	existence	universe
+cop	God	is
+root	ROOT	God
+punct	God	.

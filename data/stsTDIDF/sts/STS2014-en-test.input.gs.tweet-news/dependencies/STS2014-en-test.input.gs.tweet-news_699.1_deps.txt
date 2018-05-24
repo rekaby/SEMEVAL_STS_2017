@@ -1,0 +1,11 @@
+case	N.A.A.C.P.	In
+nmod:in	Gets	N.A.A.C.P.
+punct	Gets	,
+nsubj	Gets	Industry
+root	ROOT	Gets
+dobj	Gets	Ally
+case	hmmmmmmmm	Against
+compound	hmmmmmmmm	Soda
+compound	hmmmmmmmm	Ban
+nmod:against	Ally	hmmmmmmmm
+punct	Gets	...

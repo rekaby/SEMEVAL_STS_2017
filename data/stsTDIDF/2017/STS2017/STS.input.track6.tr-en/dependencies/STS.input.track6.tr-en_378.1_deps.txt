@@ -1,0 +1,8 @@
+det	man	A
+nsubj	outside	man
+cop	outside	is
+root	ROOT	outside
+case	city	in
+det	city	a
+nmod:in	outside	city
+punct	outside	.

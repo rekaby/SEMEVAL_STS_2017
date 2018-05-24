@@ -1,0 +1,7 @@
+nummod	sisters	Three
+nsubj	stand	sisters
+acl	sisters	wearing
+dobj	wearing	dresses
+root	ROOT	stand
+advmod	stand	outside
+punct	stand	.

@@ -1,0 +1,14 @@
+nmod:poss	Money	Your
+root	ROOT	Money
+punct	Money	:
+det	Death	A
+amod	Death	Shocking
+dep	Money	Death
+punct	Death	,
+det	Lesson	a
+compound	Lesson	Financial
+conj:and	Death	Lesson
+cc	Death	and
+conj:and	Death	Help
+case	Others	for
+nmod:for	Help	Others

@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	white
+amod	dog	fluffy
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	snow	in
+amod	snow	pure
+amod	snow	white
+nmod:in	running	snow
+punct	running	.

@@ -1,0 +1,8 @@
+nsubj	begins	Testimony
+case	trial	in
+nmod:in	Testimony	trial
+case	Liberman	of
+amod	Liberman	former
+compound	Liberman	FM
+nmod:of	trial	Liberman
+root	ROOT	begins

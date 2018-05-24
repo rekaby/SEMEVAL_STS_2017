@@ -1,0 +1,16 @@
+mark	part	If
+nsubj	part	it
+cop	part	is
+det	part	a
+root	ROOT	part
+case	circut	of
+det	circut	a
+nmod:of	part	circut
+nsubj	contains	that
+acl:relcl	circut	contains
+det	bulb	a
+dobj	contains	bulb
+cc	bulb	and
+det	battery	a
+conj:and	bulb	battery
+punct	part	.

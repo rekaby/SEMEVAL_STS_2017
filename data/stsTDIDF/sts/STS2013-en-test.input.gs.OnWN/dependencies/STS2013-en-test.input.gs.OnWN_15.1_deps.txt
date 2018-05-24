@@ -1,0 +1,5 @@
+det	part	the
+amod	part	foremost
+root	ROOT	part
+case	something	of
+nmod:of	part	something

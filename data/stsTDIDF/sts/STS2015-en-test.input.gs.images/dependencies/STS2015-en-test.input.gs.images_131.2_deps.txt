@@ -1,0 +1,12 @@
+det	toddler	The
+nsubj	ready	toddler
+cop	ready	is
+root	ROOT	ready
+mark	climb	to
+xcomp	ready	climb
+det	piece	the
+amod	piece	red
+dobj	climb	piece
+case	equipment	of
+nmod:of	piece	equipment
+punct	ready	.

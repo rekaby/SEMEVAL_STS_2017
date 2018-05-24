@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	play	dogs
+root	ROOT	play
+case	field	in
+det	field	a
+nmod:in	play	field
+punct	play	.

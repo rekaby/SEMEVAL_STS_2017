@@ -1,0 +1,11 @@
+amod	warlord	Congolese
+nsubj	video	warlord
+acl	warlord	sentenced
+case	years	to
+nummod	years	14
+nmod:to	sentenced	years
+case	case	in
+compound	case	landmark
+nmod:in	sentenced	case
+punct	warlord	-
+root	ROOT	video

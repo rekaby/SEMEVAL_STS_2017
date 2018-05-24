@@ -1,0 +1,8 @@
+det	person	A
+nsubj	sits	person
+root	ROOT	sits
+case	car	in
+det	car	a
+amod	car	small
+nmod:in	sits	car
+punct	sits	.

@@ -1,0 +1,9 @@
+det	paths	the
+nsubj	complete	paths
+case	circuit	of
+det	circuit	the
+nmod:of	paths	circuit
+cop	complete	are
+neg	longer	no
+advmod	complete	longer
+root	ROOT	complete

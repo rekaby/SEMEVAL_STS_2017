@@ -1,0 +1,10 @@
+skateboard	is	cop
+jumps	Skater	nsubj
+skateboard	while	mark
+jumps	aloft	advmod
+jumps	skateboard	advcl:on
+skateboard	on	case
+jumps	.	punct
+ROOT	jumps	root
+skateboard	he	nsubj
+skateboard	a	det

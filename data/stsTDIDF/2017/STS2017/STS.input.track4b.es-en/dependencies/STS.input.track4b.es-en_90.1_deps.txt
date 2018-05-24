@@ -1,0 +1,17 @@
+advmod	one	Almost
+neg	one	no
+nsubj	understands	one
+root	ROOT	understands
+nsubj	happening	what
+aux	happening	's
+ccomp	understands	happening
+punct	happening	,
+advmod	is	even
+advmod	is	why
+det	war	this
+nsubj	is	war
+advcl	happening	is
+mark	fought	to
+auxpass	fought	be
+xcomp	is	fought
+punct	understands	.

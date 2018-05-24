@@ -1,0 +1,8 @@
+det	voltage	the
+nsubj	bulb	voltage
+cop	bulb	is
+amod	bulb	nearest
+det	bulb	the
+amod	bulb	burnt
+compound:prt	burnt	out
+root	ROOT	bulb

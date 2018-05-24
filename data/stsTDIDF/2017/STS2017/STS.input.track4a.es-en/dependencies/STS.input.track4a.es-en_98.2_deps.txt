@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	women	a
+nsubj	is	women
+acl	women	getting
+nmod:poss	hand	her
+dobj	getting	hand
+dep	is	painted

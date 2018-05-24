@@ -1,0 +1,7 @@
+root	ROOT	remove
+det	constituent	a
+dobj	remove	constituent
+case	liquid	from
+det	liquid	a
+nmod:from	remove	liquid
+punct	remove	.

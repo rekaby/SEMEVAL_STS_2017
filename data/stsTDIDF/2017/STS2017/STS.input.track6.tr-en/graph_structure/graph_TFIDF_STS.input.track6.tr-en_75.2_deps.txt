@@ -1,0 +1,5 @@
+ROOT	bikes	root
+bikes	.	punct
+bikes	person	compound
+bikes	One	nummod
+bikes	night	nmod:at

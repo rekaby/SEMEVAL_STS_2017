@@ -1,0 +1,7 @@
+relaxing	.	punct
+television	in	case
+relaxing	television	nmod:in_front_of
+relaxing	They	nsubj
+relaxing	are	aux
+television	the	det
+ROOT	relaxing	root

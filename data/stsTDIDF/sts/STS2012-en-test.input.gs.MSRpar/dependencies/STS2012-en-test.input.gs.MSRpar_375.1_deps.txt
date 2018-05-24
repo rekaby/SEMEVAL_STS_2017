@@ -1,0 +1,13 @@
+nsubj	replace	He
+aux	replace	will
+root	ROOT	replace
+compound	Dittemore	Ron
+dobj	replace	Dittemore
+punct	Dittemore	,
+nsubj	announced	who
+acl:relcl	Dittemore	announced
+nmod:poss	resignation	his
+dobj	announced	resignation
+nmod:tmod	resignation	April
+nummod	April	23
+punct	replace	.

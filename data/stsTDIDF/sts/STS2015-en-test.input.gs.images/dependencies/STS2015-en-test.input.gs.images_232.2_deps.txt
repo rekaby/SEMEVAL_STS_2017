@@ -1,0 +1,8 @@
+nummod	dogs	Two
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	grass	on
+det	grass	the
+nmod:on	playing	grass
+punct	playing	.

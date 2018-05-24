@@ -1,0 +1,17 @@
+advmod	month	Only
+det	month	a
+nmod:npmod	ago	month
+root	ROOT	ago
+punct	ago	,
+compound	écartait	muybarak
+root	,	écartait
+case	reform	for
+amod	reform	constitutional
+nmod:for	écartait	reform
+case	taxing	in
+det	taxing	the
+nmod:in	reform	taxing
+case	futile	of
+punct	futile	``
+nmod:of	taxing	futile
+punct	écartait	.

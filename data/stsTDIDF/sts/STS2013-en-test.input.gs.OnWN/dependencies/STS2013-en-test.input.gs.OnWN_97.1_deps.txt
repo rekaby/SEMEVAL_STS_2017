@@ -1,0 +1,8 @@
+root	ROOT	Travel
+punct	water	-LRB-
+case	water	as
+mark	water	if
+punct	water	-RRB-
+case	water	through
+nmod:through	Travel	water
+punct	Travel	.

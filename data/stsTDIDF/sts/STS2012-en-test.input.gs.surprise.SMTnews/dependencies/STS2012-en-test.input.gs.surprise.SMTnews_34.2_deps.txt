@@ -1,0 +1,15 @@
+case	all	After
+nmod:after	recommended	all
+punct	recommended	,
+nsubj	recommended	they
+aux	recommended	have
+root	ROOT	recommended
+det	policies	the
+dobj	recommended	policies
+dobj	take	that
+nsubj	take	politicians
+aux	take	will
+acl:relcl	policies	take
+case	account	into
+nmod:into	take	account
+punct	recommended	.

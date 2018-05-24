@@ -1,0 +1,9 @@
+compound	head	Cambodia
+compound	head	opposition
+nsubj	turns	head
+root	ROOT	turns
+case	parliament	to
+nmod:to	turns	parliament
+case	poll	in
+nmod:in	turns	poll
+dobj	turns	bid

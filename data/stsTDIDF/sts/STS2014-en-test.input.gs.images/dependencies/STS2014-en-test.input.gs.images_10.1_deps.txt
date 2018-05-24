@@ -1,0 +1,9 @@
+det	close-up	A
+root	ROOT	close-up
+case	head	of
+det	horse	a
+amod	horse	brown
+nmod:poss	head	horse
+case	horse	's
+nmod:of	close-up	head
+punct	close-up	.

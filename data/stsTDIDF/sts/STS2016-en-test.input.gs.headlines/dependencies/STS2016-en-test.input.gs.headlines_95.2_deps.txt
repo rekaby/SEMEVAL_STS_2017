@@ -1,0 +1,11 @@
+nsubj	elected	Jordan
+root	ROOT	elected
+case	seat	to
+compound	seat	UN
+compound	seat	security
+compound	seat	council
+nmod:to	elected	seat
+dobj	rejected	that
+compound	Arabia	Saudi
+nsubj	rejected	Arabia
+acl:relcl	seat	rejected

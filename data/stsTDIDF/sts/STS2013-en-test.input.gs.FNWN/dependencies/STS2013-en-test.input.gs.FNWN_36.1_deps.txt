@@ -1,0 +1,39 @@
+det	benefactor	a
+nsubj	confers	benefactor
+root	ROOT	confers
+det	beneficial_situation	a
+dobj	confers	beneficial_situation
+case	beneficiary	to
+det	beneficiary	a
+nmod:to	beneficial_situation	beneficiary
+punct	confers	.-9) case(commerce_scenario-3, unlike
+case	commerce_scenario	in
+nmod:in	required	commerce_scenario
+punct	required	,
+det	recipient	the
+nsubjpass	required	recipient
+auxpass	required	is
+neg	required	not
+advmod	required	necessarily
+root	ROOT	required
+mark	pay	to
+xcomp	required	pay
+mark	receive	for
+dep	receive	the
+dep	receive	good
+cc	good	or
+conj:or	good	service
+dobj	receive	that
+nsubj	receive	they
+advcl	pay	receive
+punct	required	.-21) advmod(profiled-8, therefore
+punct	profiled	,
+det	element	the
+nsubjpass	profiled	element
+case	benevolence	of
+nmod:of	element	benevolence
+auxpass	profiled	is
+root	ROOT	profiled
+punct	profiled	.-9) amod(annotation-3, dual
+amod	annotation	fe-layer
+root	ROOT	annotation

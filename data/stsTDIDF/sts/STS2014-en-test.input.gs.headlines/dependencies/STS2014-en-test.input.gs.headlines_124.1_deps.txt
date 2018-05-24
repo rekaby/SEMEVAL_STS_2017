@@ -1,0 +1,7 @@
+nsubj	build	Palestinians
+root	ROOT	build
+det	tent	another
+compound	tent	West
+compound	tent	Bank
+dobj	build	tent
+dobj	build	protest

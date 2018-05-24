@@ -1,0 +1,12 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	wearing
+det	pool	the
+dobj	wearing	pool
+advcl	wearing	screaming
+mark	sprayed	while
+auxpass	sprayed	being
+advcl	screaming	sprayed
+case	water	with
+nmod:with	sprayed	water
+punct	boy	.

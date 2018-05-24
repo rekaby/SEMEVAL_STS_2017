@@ -1,0 +1,9 @@
+case	areas	In
+amod	areas	other
+nmod:in	imposed	areas
+punct	imposed	,
+compound	law	Sharia
+nsubjpass	imposed	law
+auxpass	imposed	is
+root	ROOT	imposed
+punct	imposed	.

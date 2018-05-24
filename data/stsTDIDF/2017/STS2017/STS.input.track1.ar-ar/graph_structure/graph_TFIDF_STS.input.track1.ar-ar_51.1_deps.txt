@@ -1,0 +1,5 @@
+wearing	green	dobj
+women	no	neg
+are	women	nsubj
+street	wearing	acl
+women	street	nmod:on

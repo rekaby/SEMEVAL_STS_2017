@@ -1,0 +1,7 @@
+root	ROOT	doing
+case	pleases	as
+nummod	pleases	one
+nmod:as	doing	pleases
+cc	doing	or
+conj:or	doing	chooses
+punct	doing	;

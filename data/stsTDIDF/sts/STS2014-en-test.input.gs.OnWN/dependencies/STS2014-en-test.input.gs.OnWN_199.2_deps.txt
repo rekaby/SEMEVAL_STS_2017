@@ -1,0 +1,7 @@
+cop	intermediate	be
+root	ROOT	intermediate
+case	groups	between
+nummod	groups	two
+amod	groups	taxonomic
+nmod:between	intermediate	groups
+punct	intermediate	.

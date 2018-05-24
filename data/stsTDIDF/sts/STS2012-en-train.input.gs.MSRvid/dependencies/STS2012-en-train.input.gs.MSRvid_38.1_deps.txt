@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	slices	woman
+advmod	slices	thinly
+root	ROOT	slices
+det	onion	an
+dobj	slices	onion
+case	knife	with
+det	knife	a
+amod	knife	large
+nmod:with	slices	knife
+punct	slices	.

@@ -1,0 +1,9 @@
+amod	predisposition	Genetic
+nsubj	genetics	predisposition
+case	resistance	to
+compound	resistance	cancer
+nmod:to	predisposition	resistance
+cop	genetics	is
+amod	genetics	superior
+root	ROOT	genetics
+punct	genetics	.

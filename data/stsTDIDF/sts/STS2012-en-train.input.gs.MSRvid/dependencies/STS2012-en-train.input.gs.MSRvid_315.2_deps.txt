@@ -1,0 +1,9 @@
+det	man	A
+nsubj	pouring	man
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	pasta
+case	plate	onto
+det	plate	a
+nmod:onto	pouring	plate
+punct	pouring	.

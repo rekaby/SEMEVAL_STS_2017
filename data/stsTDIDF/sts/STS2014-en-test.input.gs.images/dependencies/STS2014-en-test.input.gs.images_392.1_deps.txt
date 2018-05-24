@@ -1,0 +1,10 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	riding
+case	horse	on
+det	horse	a
+amod	horse	brown
+cc	brown	and
+conj:and	brown	white
+nmod:on	riding	horse
+punct	girl	.

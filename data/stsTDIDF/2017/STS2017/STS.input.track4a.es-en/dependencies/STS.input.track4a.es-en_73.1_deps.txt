@@ -1,0 +1,11 @@
+det	person	A
+nsubj	awaits	person
+case	costume	in
+det	costume	a
+compound	costume	SpongeBob
+nmod:in	person	costume
+root	ROOT	awaits
+det	dog	a
+amod	dog	hot
+dobj	awaits	dog
+punct	awaits	.

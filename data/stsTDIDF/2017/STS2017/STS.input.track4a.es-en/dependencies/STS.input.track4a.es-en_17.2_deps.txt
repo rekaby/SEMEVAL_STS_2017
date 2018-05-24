@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	walks	woman
+root	ROOT	walks
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	walks	sidewalk
+punct	walks	.

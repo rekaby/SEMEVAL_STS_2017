@@ -1,0 +1,10 @@
+det	skater	A
+compound	skater	roller
+nsubj	does	skater
+root	ROOT	does
+amod	tricks	various
+dobj	does	tricks
+case	ramp	off
+det	ramp	a
+nmod:off	tricks	ramp
+punct	does	.

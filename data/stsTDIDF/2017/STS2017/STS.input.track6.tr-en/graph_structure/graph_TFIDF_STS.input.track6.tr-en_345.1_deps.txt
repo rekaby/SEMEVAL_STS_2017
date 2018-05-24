@@ -1,0 +1,13 @@
+cowboy	.	punct
+clock	on	case
+riding	rodeo	nmod:at
+cowboy	A	det
+ROOT	cowboy	root
+rodeo	at	case
+seconds	8	nummod
+cowboy	riding	acl
+seconds	clock	nmod:on
+riding	seconds	nmod:with
+riding	horse	dobj
+seconds	with	case
+rodeo	a	det

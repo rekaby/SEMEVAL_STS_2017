@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	painting	woman
+aux	painting	is
+root	ROOT	painting
+det	face	the
+dobj	painting	face
+case	man	of
+det	man	a
+nmod:of	face	man
+punct	painting	.

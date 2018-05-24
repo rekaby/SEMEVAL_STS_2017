@@ -1,0 +1,12 @@
+det	dog	A
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	over
+det	barrier	a
+dobj	jumping	barrier
+case	competition	at
+det	competition	a
+compound	competition	agility
+nmod:at	barrier	competition
+punct	jumping	.

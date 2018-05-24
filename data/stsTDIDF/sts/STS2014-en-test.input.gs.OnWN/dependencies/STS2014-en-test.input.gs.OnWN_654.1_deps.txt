@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	soldiers	of
+amod	soldiers	conscripting
+nmod:of	act	soldiers
+case	army	for
+det	army	an
+nmod:for	act	army

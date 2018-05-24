@@ -1,0 +1,11 @@
+det	cow	A
+amod	cow	black
+cc	black	and
+conj:and	black	white
+root	ROOT	cow
+case	pen	in
+det	pen	a
+nmod:in	cow	pen
+case	hay	with
+nmod:with	pen	hay
+punct	cow	.

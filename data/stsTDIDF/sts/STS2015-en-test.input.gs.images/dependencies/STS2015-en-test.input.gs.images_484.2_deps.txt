@@ -1,0 +1,12 @@
+det	boy	the
+nsubj	diving	boy
+cop	diving	is
+root	ROOT	diving
+case	pool	into
+det	pool	the
+nmod:into	diving	pool
+mark	watch	as
+det	couple	the
+nsubj	watch	couple
+advcl	diving	watch
+punct	diving	.

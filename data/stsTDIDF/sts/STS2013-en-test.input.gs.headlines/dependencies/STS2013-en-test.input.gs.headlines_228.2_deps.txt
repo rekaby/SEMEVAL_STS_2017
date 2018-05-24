@@ -1,0 +1,8 @@
+root	ROOT	Activists
+punct	Activists	:
+amod	troops	Syrian
+nsubj	kill	troops
+conj	Activists	kill
+dobj	kill	dozens
+case	Damascus	near
+nmod:near	kill	Damascus

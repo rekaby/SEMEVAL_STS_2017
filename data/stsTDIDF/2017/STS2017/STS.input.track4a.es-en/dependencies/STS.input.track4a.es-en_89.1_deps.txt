@@ -1,0 +1,8 @@
+det	women	The
+nsubj	sitting	women
+aux	sitting	are
+root	ROOT	sitting
+case	lift	on
+det	lift	the
+compound	lift	ski
+nmod:on	sitting	lift

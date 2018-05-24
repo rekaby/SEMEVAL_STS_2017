@@ -1,0 +1,6 @@
+nsubj	country	This
+cop	country	is
+neg	country	not
+nmod:poss	country	your
+root	ROOT	country
+punct	country	.

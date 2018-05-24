@@ -1,0 +1,11 @@
+gathered	group	nsubjpass
+group	men	nmod:of
+Below	broken	amod
+car	.	punct
+Below	around	case
+Below	a	det
+car	are	cop
+gathered	Below	nmod:around
+ROOT	car	root
+car	gathered	csubj
+gathered	were	auxpass

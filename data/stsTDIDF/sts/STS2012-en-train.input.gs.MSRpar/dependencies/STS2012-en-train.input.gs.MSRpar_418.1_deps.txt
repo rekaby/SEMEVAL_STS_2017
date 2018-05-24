@@ -1,0 +1,15 @@
+case	officials	According
+mwe	According	to
+compound	officials	law
+compound	officials	enforcement
+nmod:according_to	hacker	officials
+punct	hacker	,
+det	person	the
+nsubj	hacker	person
+acl	person	arrested
+cop	hacker	was
+det	hacker	a
+amod	hacker	known
+amod	hacker	sophisticated
+root	ROOT	hacker
+punct	hacker	.

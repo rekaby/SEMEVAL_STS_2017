@@ -1,0 +1,16 @@
+dobj happens !!-8) root(ROOT-0, ?-1) compound(Park-2, South	15.060439779775294
+punct Park ?-3) compound(Start-2, Creators	15.060439779775294
+punct Studios ``	15.060439779775294
+amod Studios Important	15.060439779775294
+dep Start Studios	15.060439779775294
+dep Studios #southpark	15.060439779775294
+punct Studios ''	14.367292599215348
+xcomp excited see	12.352389578673083
+nsubjpass excited We	11.69314394978882
+auxpass excited are	11.276250145857032
+root ROOT Park	11.168619481664667
+root ROOT Start	11.109196061193867
+ccomp see happens	10.756374686571124
+root ROOT excited	10.140458853947168
+nsubj happens what	8.929213290292154
+mark see to	6.623806096217473

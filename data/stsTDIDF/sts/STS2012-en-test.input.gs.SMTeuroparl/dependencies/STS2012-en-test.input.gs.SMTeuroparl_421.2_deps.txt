@@ -1,0 +1,9 @@
+nsubj	take	Vote
+aux	take	will
+root	ROOT	take
+dobj	take	place
+case	h	at
+nummod	h	17
+nmod:at	take	h
+nummod	h	30
+punct	take	.

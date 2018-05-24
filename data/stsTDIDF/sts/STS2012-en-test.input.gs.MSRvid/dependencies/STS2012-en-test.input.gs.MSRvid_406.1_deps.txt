@@ -1,0 +1,7 @@
+det	plane	A
+nsubj	rides	plane
+root	ROOT	rides
+case	road	on
+det	road	a
+nmod:on	rides	road
+punct	rides	.

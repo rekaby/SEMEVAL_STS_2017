@@ -1,0 +1,9 @@
+det	man	A
+nsubjpass	chased	man
+aux	chased	is
+auxpass	chased	being
+root	ROOT	chased
+case	police	by
+det	police	the
+nmod:agent	chased	police
+punct	chased	.

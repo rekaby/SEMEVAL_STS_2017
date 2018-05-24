@@ -1,0 +1,17 @@
+det	group	A
+nsubj	look	group
+case	people	of
+nmod:of	group	people
+root	ROOT	look
+case	fence	through
+det	fence	the
+nmod:through	look	fence
+case	water	on
+det	water	the
+nmod:on	fence	water
+cc	water	and
+conj:and	water	land
+acl	water	covered
+case	fog	by
+nmod:by	covered	fog
+punct	look	.

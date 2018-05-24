@@ -1,0 +1,12 @@
+punct	Baseball	-LRB-
+dep	runner	Baseball
+punct	Baseball	-RRB-
+compound	runner	Tag
+det	runner	the
+compound	runner	base
+root	ROOT	runner
+mark	get	to
+acl	runner	get
+dobj	get	him
+compound:prt	get	out
+punct	runner	.

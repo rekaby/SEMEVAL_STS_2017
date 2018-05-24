@@ -1,0 +1,6 @@
+amod	skulls	Stolen
+root	ROOT	skulls
+acl	skulls	found
+case	museum	in
+compound	museum	home
+nmod:in	found	museum

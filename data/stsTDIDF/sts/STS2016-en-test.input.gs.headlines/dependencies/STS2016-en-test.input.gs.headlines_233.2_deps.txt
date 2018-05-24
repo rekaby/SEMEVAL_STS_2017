@@ -1,0 +1,8 @@
+compound	chief	UN
+nsubj	condemns	chief
+root	ROOT	condemns
+dobj	condemns	attack
+case	peacekeepers	against
+nmod:against	attack	peacekeepers
+case	Mali	in
+nmod:in	attack	Mali

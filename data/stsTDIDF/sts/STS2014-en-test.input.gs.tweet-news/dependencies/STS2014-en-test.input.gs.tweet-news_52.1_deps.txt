@@ -1,0 +1,22 @@
+nsubj	makes	Apple
+root	ROOT	makes
+det	profit	a
+amod	profit	$
+compound	billion	13.1
+nummod	$	billion
+dobj	makes	profit
+punct	makes	,
+dep	makes	sells
+nummod	%	28
+dobj	sells	%
+amod	iPhones	more
+dep	%	iPhones
+cc	iPhones	and
+nummod	%	48
+conj:and	iPhones	%
+amod	iPads	more
+dep	%	iPads
+punct	makes	.-19) nsubj(dips-2, Stock
+root	ROOT	dips
+nummod	%	11
+dobj	dips	%

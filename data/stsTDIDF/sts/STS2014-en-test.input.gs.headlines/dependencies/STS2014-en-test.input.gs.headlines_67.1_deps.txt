@@ -1,0 +1,9 @@
+root	ROOT	Police
+nsubj	tear	fire
+acl:relcl	Police	tear
+dobj	tear	gas
+mark	disperse	to
+advcl	tear	disperse
+dobj	disperse	protesters
+case	Tunis	in
+nmod:in	disperse	Tunis

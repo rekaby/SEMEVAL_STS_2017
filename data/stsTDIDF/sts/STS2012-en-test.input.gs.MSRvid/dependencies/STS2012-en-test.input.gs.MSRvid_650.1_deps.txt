@@ -1,0 +1,9 @@
+det	man	A
+nsubj	petting	man
+aux	petting	is
+root	ROOT	petting
+det	dog	a
+amod	dog	tied
+compound:prt	tied	up
+dobj	petting	dog
+punct	petting	.

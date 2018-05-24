@@ -1,0 +1,11 @@
+nsubj	highlights	Arsenal
+nummod	Chelsea	0-0
+dep	Arsenal	Chelsea
+punct	Arsenal	:
+compound	report	Match
+dep	Arsenal	report
+punct	report	,
+conj:&	report	pictures
+cc	report	&
+conj:&	report	video
+root	ROOT	highlights

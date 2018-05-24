@@ -1,0 +1,11 @@
+det	painter	A
+nsubj	painting	painter
+aux	painting	is
+root	ROOT	painting
+det	mural	a
+dobj	painting	mural
+case	house	next
+mwe	next	to
+det	house	a
+nmod:next_to	painting	house
+punct	painting	.

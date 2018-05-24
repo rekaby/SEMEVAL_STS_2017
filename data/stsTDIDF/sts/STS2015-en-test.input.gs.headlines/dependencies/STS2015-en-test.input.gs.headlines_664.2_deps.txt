@@ -1,0 +1,8 @@
+nmod:poss	wife	Minister
+case	Minister	's
+nmod:poss	death	wife
+case	wife	's
+root	ROOT	death
+punct	unnatural	`
+dep	death	unnatural
+punct	unnatural	'

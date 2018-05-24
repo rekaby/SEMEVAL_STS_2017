@@ -1,0 +1,14 @@
+det	entity	an
+nsubj	stands	entity
+root	ROOT	stands
+compound:prt	stands	out
+advmod	stands	perceptually
+case	comparison	in
+nmod:in	perceptually	comparison
+case	members	to
+amod	members	other
+nmod:to	comparison	members
+case	type	of
+nmod:poss	type	its
+nmod:of	members	type
+punct	stands	.

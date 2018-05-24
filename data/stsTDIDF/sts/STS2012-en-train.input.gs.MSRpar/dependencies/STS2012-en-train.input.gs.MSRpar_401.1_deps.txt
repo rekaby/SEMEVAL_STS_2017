@@ -1,0 +1,11 @@
+nsubj	said	Forecasters
+root	ROOT	said
+nsubj	go	warnings
+aux	go	might
+ccomp	said	go
+compound:prt	go	up
+case	Cuba	for
+nmod:for	go	Cuba
+advmod	Thursday	later
+nmod:tmod	go	Thursday
+punct	said	.

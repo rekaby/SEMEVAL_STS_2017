@@ -1,0 +1,7 @@
+staircase	over	case
+jumps	staircase	nmod:over
+staircase	a	det
+jumps	.	punct
+ROOT	jumps	root
+jumps	girl	nsubj
+staircase	wide	amod

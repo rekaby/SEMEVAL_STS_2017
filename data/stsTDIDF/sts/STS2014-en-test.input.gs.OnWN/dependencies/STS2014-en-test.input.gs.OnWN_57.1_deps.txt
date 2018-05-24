@@ -1,0 +1,8 @@
+root	ROOT	Ask
+nmod	Ask	for
+cc	for	and
+conj:and	for	get
+dobj	get	something
+case	free	for
+nmod:for	something	free
+punct	Ask	.

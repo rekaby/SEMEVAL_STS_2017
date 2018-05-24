@@ -1,0 +1,12 @@
+nsubj	seems	Putin
+punct	seems	,
+advmod	seems	too
+punct	seems	,
+root	ROOT	seems
+xcomp	seems	accuse
+det	powerlessness	the
+dobj	accuse	powerlessness
+case	regime	of
+nmod:poss	regime	his
+nmod:of	powerlessness	regime
+punct	seems	.

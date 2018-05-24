@@ -1,0 +1,14 @@
+nsubj	has	He
+root	ROOT	has
+det	vision	a
+dobj	has	vision
+case	way	for
+det	way	the
+nmod:for	vision	way
+nsubj	be	things
+aux	be	could
+acl:relcl	way	be
+cc	be	and
+aux	be	should
+conj:and	be	be
+punct	has	.

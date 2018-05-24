@@ -1,0 +1,17 @@
+neg	authority	No
+punct	authority	,
+dep	authority	nothing
+case	Protection	in
+det	Protection	the
+compound	Protection	Patient
+nmod:in	nothing	Protection
+cc	Protection	and
+compound	grants	Affordable
+compound	grants	Care
+compound	grants	Act
+conj:and	Protection	grants
+det	President	the
+nsubj	authority	President
+amod	authority	transitional
+root	ROOT	authority
+punct	authority	.

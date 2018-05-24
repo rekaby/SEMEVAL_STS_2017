@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+det	horse	a
+dobj	riding	horse
+case	motion	in
+amod	motion	slow
+nmod:in	riding	motion
+punct	man	.

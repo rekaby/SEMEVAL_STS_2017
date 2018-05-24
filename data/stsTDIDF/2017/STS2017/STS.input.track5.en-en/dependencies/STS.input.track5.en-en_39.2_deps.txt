@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	climbing	boy
+aux	climbing	is
+root	ROOT	climbing
+det	hill	a
+dobj	climbing	hill
+punct	climbing	.

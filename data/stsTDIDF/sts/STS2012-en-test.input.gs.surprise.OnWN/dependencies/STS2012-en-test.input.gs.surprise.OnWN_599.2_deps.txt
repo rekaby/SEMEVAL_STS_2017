@@ -1,0 +1,9 @@
+root	ROOT	play
+case	instrument	on
+det	instrument	a
+compound	instrument	string
+nmod:on	play	instrument
+case	bow	with
+det	bow	a
+nmod:with	instrument	bow
+punct	play	.

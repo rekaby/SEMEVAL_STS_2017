@@ -1,0 +1,10 @@
+stands	distance	nmod:in
+stands	he	nsubj
+distance	in	case
+distance	ocean	nmod:on
+stands	while	mark
+boat	on	case
+boat	small	amod
+ocean	on	case
+stands	man	nsubj
+stands	boat	nmod:on

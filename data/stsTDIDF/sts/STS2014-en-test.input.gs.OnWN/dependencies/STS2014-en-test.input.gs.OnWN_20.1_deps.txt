@@ -1,0 +1,10 @@
+punct	cause	-LRB-
+dep	emit	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	emit
+det	burst	a
+amod	burst	brief
+dobj	emit	burst
+case	light	of
+nmod:of	burst	light

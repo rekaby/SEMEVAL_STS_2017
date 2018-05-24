@@ -1,0 +1,10 @@
+det	skateboard	a
+nsubj	performs	skateboard
+root	ROOT	performs
+det	trick	a
+dobj	performs	trick
+case	pipe	off
+det	pipe	a
+compound	pipe	quarter
+nmod:off	trick	pipe
+punct	performs	.

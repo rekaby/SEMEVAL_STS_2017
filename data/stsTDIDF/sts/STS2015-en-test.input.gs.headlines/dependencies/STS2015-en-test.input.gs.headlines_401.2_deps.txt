@@ -1,0 +1,6 @@
+nummod	blitz	46
+amod	blitz	dead
+case	attack	in
+compound	attack	Iraq
+nmod:in	dead	attack
+root	ROOT	blitz

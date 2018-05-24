@@ -1,0 +1,7 @@
+praying	men	nsubj
+praying	church	nmod:in
+praying	were	aux
+praying	.	punct
+men	Seven	nummod
+church	in	case
+ROOT	praying	root

@@ -1,0 +1,11 @@
+det	train	A
+root	ROOT	train
+acl	train	sitting
+case	tracks	on
+det	tracks	the
+nmod:on	sitting	tracks
+case	yard	in
+det	yard	a
+compound	yard	train
+nmod:in	sitting	yard
+punct	train	.

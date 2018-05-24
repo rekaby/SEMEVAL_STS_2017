@@ -1,0 +1,9 @@
+running	grass	nmod:on
+grass	on	case
+stuck	underside	nmod:on
+dog	mud	nmod:with
+stuck	running	xcomp
+underside	on	case
+mud	with	case
+underside	his	nmod:poss
+stuck	dog	nsubj

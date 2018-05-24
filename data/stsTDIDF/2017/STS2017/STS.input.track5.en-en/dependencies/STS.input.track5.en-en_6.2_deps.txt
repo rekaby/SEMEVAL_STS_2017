@@ -1,0 +1,7 @@
+det	man	The
+nsubj	raising	man
+aux	raising	is
+root	ROOT	raising
+nmod:poss	hand	his
+dobj	raising	hand
+punct	raising	.

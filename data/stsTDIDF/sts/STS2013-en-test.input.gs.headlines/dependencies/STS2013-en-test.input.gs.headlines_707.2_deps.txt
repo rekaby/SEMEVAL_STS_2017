@@ -1,0 +1,6 @@
+nummod	shooting	5
+amod	shooting	wounded
+case	school	in
+compound	school	Ohio
+nmod:in	wounded	school
+root	ROOT	shooting

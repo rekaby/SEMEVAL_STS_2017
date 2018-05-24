@@ -1,0 +1,13 @@
+nsubj	urged	abe
+root	ROOT	urged
+advmod	assertive	more
+amod	policy	assertive
+amod	policy	foreign
+dobj	urged	policy
+case	japan	for
+nmod:for	urged	japan
+cc	japan	and
+det	community	the
+amod	community	international
+conj:and	japan	community
+punct	urged	.

@@ -1,0 +1,14 @@
+det	method	A
+nsubj	trigonometry	method
+acl	method	used
+mark	calculate	to
+xcomp	used	calculate
+det	distance	the
+dobj	calculate	distance
+case	stars	between
+nmod:between	distance	stars
+cop	trigonometry	is
+nummod	trigonometry	3
+amod	trigonometry	Dimensional
+root	ROOT	trigonometry
+punct	trigonometry	.

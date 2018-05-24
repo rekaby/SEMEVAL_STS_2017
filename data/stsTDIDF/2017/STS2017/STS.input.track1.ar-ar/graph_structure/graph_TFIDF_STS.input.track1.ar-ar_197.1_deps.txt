@@ -1,0 +1,4 @@
+is	man	nsubj
+having	dinner	dobj
+man	having	acl
+having	restaurant	nmod:in

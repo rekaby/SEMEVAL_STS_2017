@@ -1,0 +1,11 @@
+nsubj	filed	Hernandez
+root	ROOT	filed
+det	complaint	an
+amod	complaint	Equal
+compound	complaint	Employment
+compound	complaint	Opportunity
+compound	complaint	Commission
+dobj	filed	complaint
+cc	filed	and
+conj:and	filed	sued
+punct	filed	.

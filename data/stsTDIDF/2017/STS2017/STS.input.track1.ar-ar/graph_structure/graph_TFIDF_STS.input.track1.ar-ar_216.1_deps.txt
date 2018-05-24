@@ -1,0 +1,5 @@
+jogging	Dog	compound
+grass	across	case
+ROOT	jogging	root
+jogging	grass	nmod:across
+jogging	.	punct

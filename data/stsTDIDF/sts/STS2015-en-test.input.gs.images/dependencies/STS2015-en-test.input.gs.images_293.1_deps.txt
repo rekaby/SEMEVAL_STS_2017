@@ -1,0 +1,11 @@
+nummod	people	Two
+root	ROOT	people
+case	snowsuits	in
+nmod:in	people	snowsuits
+acl	snowsuits	laying
+case	snow	in
+det	snow	the
+nmod:in	laying	snow
+acl	snow	making
+compound	angels	snow
+dobj	making	angels

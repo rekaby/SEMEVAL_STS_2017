@@ -1,0 +1,6 @@
+nsubj	releases	Pakistan
+root	ROOT	releases
+amod	Taliban	top
+compound	Taliban	Afghan
+nsubj	prisoner	Taliban
+xcomp	releases	prisoner

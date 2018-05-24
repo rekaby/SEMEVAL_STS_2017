@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	squeezing	woman
+aux	squeezing	is
+root	ROOT	squeezing
+dobj	squeezing	juice
+case	lemon	out
+mwe	out	of
+det	lemon	a
+advcl:out_of	squeezing	lemon
+punct	squeezing	.

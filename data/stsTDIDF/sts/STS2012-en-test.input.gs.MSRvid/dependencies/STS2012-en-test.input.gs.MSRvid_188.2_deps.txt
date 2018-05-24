@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	bounces	dog
+root	ROOT	bounces
+case	trampoline	on
+det	trampoline	a
+nmod:on	bounces	trampoline
+punct	bounces	.

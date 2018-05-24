@@ -1,0 +1,5 @@
+det	man	A
+nsubj	swims	man
+root	ROOT	swims
+xcomp	swims	underwater
+punct	swims	.

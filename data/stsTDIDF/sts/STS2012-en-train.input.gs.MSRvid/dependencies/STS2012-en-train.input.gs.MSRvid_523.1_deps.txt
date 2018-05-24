@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	removing	woman
+aux	removing	is
+root	ROOT	removing
+dobj	removing	skin
+case	meat	from
+det	meat	some
+nmod:from	removing	meat
+punct	removing	.

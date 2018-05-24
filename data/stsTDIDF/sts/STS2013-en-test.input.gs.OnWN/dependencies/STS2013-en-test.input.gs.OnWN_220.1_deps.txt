@@ -1,0 +1,8 @@
+det	quality	the
+root	ROOT	quality
+mark	acting	of
+acl	quality	acting
+case	vigor	with
+nmod:with	acting	vigor
+cc	vigor	and
+conj:and	vigor	vitality

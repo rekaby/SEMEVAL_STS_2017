@@ -1,0 +1,6 @@
+det	monkey	A
+nsubj	pushes	monkey
+root	ROOT	pushes
+det	monkey	another
+dobj	pushes	monkey
+punct	pushes	.

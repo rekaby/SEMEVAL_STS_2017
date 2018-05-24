@@ -1,0 +1,17 @@
+nsubj	works	English
+root	ROOT	works
+advmod	works	everywhere
+case	people	with
+nmod:with	works	people
+acl	people	buying
+cc	buying	and
+conj:and	buying	selling
+dobj	buying	things
+cc	buying	and
+case	busniness	in
+det	busniness	the
+compound	busniness	hospitality
+cc	hospitality	and
+conj:and	hospitality	tourism
+conj:and	buying	busniness
+punct	works	.

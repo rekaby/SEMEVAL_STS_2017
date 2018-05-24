@@ -1,0 +1,8 @@
+det	explosion	An
+nsubj	booming	explosion
+aux	booming	is
+root	ROOT	booming
+case	desert	in
+det	desert	the
+nmod:in	booming	desert
+punct	booming	.

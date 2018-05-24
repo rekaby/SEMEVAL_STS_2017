@@ -1,0 +1,6 @@
+nsubj	warns	Annan
+root	ROOT	warns
+compound	risks	talks
+case	Syria	of
+nmod:of	talks	Syria
+dobj	warns	risks

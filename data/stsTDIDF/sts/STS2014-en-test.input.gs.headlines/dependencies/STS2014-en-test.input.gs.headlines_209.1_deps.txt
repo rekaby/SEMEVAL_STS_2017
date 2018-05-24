@@ -1,0 +1,12 @@
+compound	Korea	North
+nmod:poss	test	Korea
+case	Korea	's
+amod	test	third
+nsubj	brings	test
+root	ROOT	brings
+dobj	brings	it
+xcomp	brings	closer
+case	status	to
+amod	status	nuclear
+compound	status	power
+nmod:to	closer	status

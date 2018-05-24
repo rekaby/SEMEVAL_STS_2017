@@ -1,0 +1,11 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+advmod	Get	How
+mark	Get	to
+dep	Contributor	Get
+compound	Internet	High-Speed
+dobj	Get	Internet
+case	Americans	to
+det	Americans	All
+nmod:to	Get	Americans

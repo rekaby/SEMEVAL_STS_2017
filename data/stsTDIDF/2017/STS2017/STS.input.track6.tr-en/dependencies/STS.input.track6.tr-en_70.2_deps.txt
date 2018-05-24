@@ -1,0 +1,16 @@
+det	group	A
+compound	group	student
+nsubjpass	dressed	group
+acl	group	playing
+case	band	in
+det	band	a
+nmod:in	playing	band
+auxpass	dressed	was
+root	ROOT	dressed
+nmod	dressed	in
+dep	in	white
+punct	white	,
+conj:and	white	green
+cc	white	and
+conj:and	white	gold
+punct	dressed	.

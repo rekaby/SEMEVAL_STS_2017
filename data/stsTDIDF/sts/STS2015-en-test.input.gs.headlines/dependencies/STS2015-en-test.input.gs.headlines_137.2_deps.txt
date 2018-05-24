@@ -1,0 +1,7 @@
+compound	blast	Suicide
+nsubj	kills	blast
+root	ROOT	kills
+dobj	kills	1
+case	capital	in
+compound	capital	Afghan
+nmod:in	1	capital

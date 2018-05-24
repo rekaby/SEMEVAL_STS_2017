@@ -1,0 +1,9 @@
+det	stories	Some
+nsubj	one	stories
+cop	one	are
+root	ROOT	one
+case	honor	of
+nmod:of	one	honor
+cc	honor	and
+conj:and	honor	courage
+punct	one	.

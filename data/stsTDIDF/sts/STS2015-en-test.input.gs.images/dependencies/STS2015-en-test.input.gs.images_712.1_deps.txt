@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	small
+amod	dog	white
+nsubj	climbs	dog
+root	ROOT	climbs
+case	log	over
+det	log	a
+nmod:over	climbs	log
+punct	climbs	.

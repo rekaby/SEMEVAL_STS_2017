@@ -1,0 +1,11 @@
+det	terminal	the
+amod	terminal	positive
+nsubjpass	seperated	terminal
+cc	terminal	and
+amod	1	terminal
+conj:and	terminal	1
+auxpass	seperated	are
+root	ROOT	seperated
+case	gap	by
+det	gap	a
+nmod:agent	seperated	gap

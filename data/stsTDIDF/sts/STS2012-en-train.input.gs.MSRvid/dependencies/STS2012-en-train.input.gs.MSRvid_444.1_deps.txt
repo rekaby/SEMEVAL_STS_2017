@@ -1,0 +1,10 @@
+det	man	A
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	carrot	a
+dobj	slicing	carrot
+case	machine	by
+det	machine	a
+nmod:by	slicing	machine
+punct	slicing	.

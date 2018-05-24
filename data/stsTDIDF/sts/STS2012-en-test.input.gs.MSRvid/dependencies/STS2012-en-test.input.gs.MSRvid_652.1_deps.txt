@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	mincing	woman
+aux	mincing	is
+root	ROOT	mincing
+det	garlic	some
+dobj	mincing	garlic
+punct	mincing	.

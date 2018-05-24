@@ -1,0 +1,10 @@
+compound	Commands	Ford
+compound	Commands	Announces
+compound	Commands	In-Car
+compound	Commands	Voice
+root	ROOT	Commands
+case	Music	for
+nmod:poss	Music	Amazon
+case	Amazon	's
+compound	Music	Cloud
+nmod:for	Commands	Music

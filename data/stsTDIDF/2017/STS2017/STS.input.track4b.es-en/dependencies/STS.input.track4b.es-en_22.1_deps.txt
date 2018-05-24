@@ -1,0 +1,16 @@
+advmod	win	Maybe
+det	hardliners	the
+nsubj	win	hardliners
+aux	win	will
+root	ROOT	win
+compound:prt	win	out
+punct	win	;
+advmod	change	yet
+det	spring	the
+compound	spring	Arab
+nsubj	change	spring
+aux	change	may
+parataxis	win	change
+nmod:poss	calculations	their
+dobj	change	calculations
+punct	win	.

@@ -1,0 +1,6 @@
+det	property	the
+root	ROOT	property
+case	abundance	of
+amod	abundance	copious
+nmod:of	property	abundance
+punct	property	.

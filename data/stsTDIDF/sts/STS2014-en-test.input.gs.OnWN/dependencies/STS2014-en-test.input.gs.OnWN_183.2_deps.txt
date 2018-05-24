@@ -1,0 +1,6 @@
+root	ROOT	separate
+case	constituents	into
+nmod:into	separate	constituents
+mark	soaking	by
+advcl	separate	soaking
+punct	separate	.

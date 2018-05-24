@@ -1,0 +1,9 @@
+det	couple	A
+nsubj	playing	couple
+aux	playing	is
+root	ROOT	playing
+det	game	the
+dobj	playing	game
+case	Life	of
+nmod:of	game	Life
+punct	playing	.

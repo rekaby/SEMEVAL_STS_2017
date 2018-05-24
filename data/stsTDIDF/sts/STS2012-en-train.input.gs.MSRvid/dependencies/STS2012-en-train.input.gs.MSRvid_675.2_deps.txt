@@ -1,0 +1,8 @@
+det	bird	A
+nsubj	bathing	bird
+cop	bathing	is
+root	ROOT	bathing
+case	sink	in
+det	sink	a
+nmod:in	bathing	sink
+punct	bathing	.

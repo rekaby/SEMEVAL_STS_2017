@@ -1,0 +1,7 @@
+case	least	At
+nmod:npmod	20	least
+nummod	dead	20
+amod	attacks	dead
+case	Somalia	in
+nmod:in	dead	Somalia
+root	ROOT	attacks

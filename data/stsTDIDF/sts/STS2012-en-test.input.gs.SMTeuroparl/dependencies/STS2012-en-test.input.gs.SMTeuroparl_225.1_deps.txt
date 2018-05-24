@@ -1,0 +1,17 @@
+det	leaders	The
+nsubjpass	given	leaders
+aux	given	have
+advmod	given	now
+auxpass	given	been
+root	ROOT	given
+det	chance	a
+amod	chance	new
+dobj	given	chance
+cc	given	and
+conj:and	given	let
+nsubj	hope	us
+ccomp	let	hope
+nsubj	seize	they
+ccomp	hope	seize
+dobj	seize	it
+punct	given	.

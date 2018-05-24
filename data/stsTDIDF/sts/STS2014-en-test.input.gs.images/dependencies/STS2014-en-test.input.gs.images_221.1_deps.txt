@@ -1,0 +1,8 @@
+amod	engine	Large
+compound	engine	silver
+compound	engine	locomotive
+root	ROOT	engine
+case	shed	in
+det	shed	a
+nmod:in	engine	shed
+punct	engine	.

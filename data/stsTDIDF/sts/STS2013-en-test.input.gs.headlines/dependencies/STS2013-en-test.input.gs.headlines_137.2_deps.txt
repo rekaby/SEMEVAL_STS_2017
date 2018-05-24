@@ -1,0 +1,7 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	23
+case	wedding	at
+compound	wedding	Afghan
+nmod:at	kills	wedding

@@ -1,0 +1,7 @@
+case	Least	At
+root	ROOT	Least
+nummod	Dead	Six
+dep	Least	Dead
+case	Pakistan	in
+nmod:in	Dead	Pakistan
+dep	Dead	Gunfight

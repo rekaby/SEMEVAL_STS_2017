@@ -1,0 +1,6 @@
+nsubj	slaps	EU
+root	ROOT	slaps
+dobj	slaps	sanctions
+case	family	on
+compound	family	Assad
+nmod:on	slaps	family

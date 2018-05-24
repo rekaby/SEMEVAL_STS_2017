@@ -1,0 +1,9 @@
+root	ROOT	hit
+nmod	hit	against
+punct	hit	;
+conj	hit	come
+case	contact	into
+amod	contact	sudden
+nmod:into	come	contact
+nmod	come	with
+punct	hit	;

@@ -1,0 +1,7 @@
+det	runner	A
+root	ROOT	runner
+acl	runner	running
+case	race	in
+det	race	the
+amod	race	first
+nmod:in	running	race

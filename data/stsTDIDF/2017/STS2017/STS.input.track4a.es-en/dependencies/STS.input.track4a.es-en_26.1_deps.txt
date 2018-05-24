@@ -1,0 +1,16 @@
+det	woman	An
+amod	woman	older
+nsubj	sits	woman
+root	ROOT	sits
+case	girl	next
+mwe	next	to
+det	girl	a
+amod	girl	small
+nmod:next_to	sits	girl
+nsubj	wearing	who
+aux	wearing	is
+acl:relcl	girl	wearing
+det	dress	a
+amod	dress	striped
+dobj	wearing	dress
+punct	sits	.

@@ -1,0 +1,12 @@
+nummod	cows	Five
+nsubj	grazing	cows
+root	ROOT	grazing
+case	patch	on
+det	patch	a
+nmod:on	grazing	patch
+case	grass	of
+nmod:of	patch	grass
+case	roadways	between
+nummod	roadways	two
+nmod:between	patch	roadways
+punct	grazing	.

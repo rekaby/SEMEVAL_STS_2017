@@ -1,0 +1,13 @@
+det	sales	The
+nsubj	leave	sales
+root	ROOT	leave
+compound	Turner	Mr.
+dobj	leave	Turner
+case	shares	with
+advmod	million	about
+compound	million	45
+nummod	shares	million
+nmod:with	leave	shares
+case	AOL	in
+nmod:in	shares	AOL
+punct	leave	.

@@ -1,0 +1,8 @@
+det	gibbon	A
+nsubj	swinging	gibbon
+aux	swinging	is
+root	ROOT	swinging
+case	trees	in
+det	trees	the
+nmod:in	swinging	trees
+punct	swinging	.

@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+amod	child	small
+conj:and	man	child
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	man	room
+acl	room	posing
+case	camera	for
+det	camera	the
+nmod:for	posing	camera
+punct	man	.

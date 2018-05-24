@@ -1,0 +1,8 @@
+amod	Korean	North
+amod	intrigue	Korean
+root	ROOT	intrigue
+punct	intrigue	:
+det	execution	The
+dep	intrigue	execution
+case	power	of
+nmod:of	execution	power

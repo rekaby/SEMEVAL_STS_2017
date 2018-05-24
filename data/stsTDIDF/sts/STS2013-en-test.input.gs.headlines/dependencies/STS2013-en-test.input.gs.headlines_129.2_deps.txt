@@ -1,0 +1,8 @@
+root	ROOT	Poll
+punct	Poll	:
+dep	Poll	Putin
+mark	win	to
+acl	Putin	win
+compound	vote	Russia
+amod	vote	presidential
+dobj	win	vote

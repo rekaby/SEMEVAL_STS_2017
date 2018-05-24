@@ -1,0 +1,8 @@
+honeymoon	their	nmod:poss
+leaving	honeymoon	nmod:for
+ROOT	smiles	root
+leaving	before	mark
+smiles	couple	nsubj
+honeymoon	for	case
+smiles	leaving	advcl
+smiles	.	punct

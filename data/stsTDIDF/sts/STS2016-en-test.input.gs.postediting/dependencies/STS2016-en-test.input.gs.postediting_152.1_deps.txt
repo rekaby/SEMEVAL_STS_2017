@@ -1,0 +1,15 @@
+det	board	The
+nsubj	met	board
+case	AIG	of
+nmod:of	board	AIG
+root	ROOT	met
+compound	evening	Sunday
+dobj	met	evening
+mark	examine	to
+advcl	met	examine
+amod	cessions	possible
+dobj	examine	cessions
+punct	met	,
+case	FT.	according
+mwe	according	to
+nmod:according_to	met	FT.

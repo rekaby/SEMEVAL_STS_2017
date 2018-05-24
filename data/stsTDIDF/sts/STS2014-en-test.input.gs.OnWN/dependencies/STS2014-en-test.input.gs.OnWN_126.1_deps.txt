@@ -1,0 +1,5 @@
+root	ROOT	reshow
+det	play	a
+dobj	reshow	play
+cc	play	or
+conj:or	play	broadcast

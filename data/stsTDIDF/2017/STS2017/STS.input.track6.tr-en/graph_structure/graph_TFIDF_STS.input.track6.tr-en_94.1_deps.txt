@@ -1,0 +1,6 @@
+arms	mother	nmod:poss
+running	arms	nmod:into
+arms	into	case
+child	.	punct
+child	running	acl
+ROOT	child	root

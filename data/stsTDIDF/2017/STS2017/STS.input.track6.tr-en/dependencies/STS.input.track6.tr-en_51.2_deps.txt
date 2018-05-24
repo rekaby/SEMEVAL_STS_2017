@@ -1,0 +1,9 @@
+det	people	A
+amod	people	few
+root	ROOT	people
+case	table	around
+det	table	a
+nmod:around	people	table
+case	dark	in
+det	dark	the
+nmod:in	table	dark

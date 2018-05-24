@@ -1,0 +1,12 @@
+woman	old	amod
+cake	birthday	compound
+blowing	is	aux
+blowing	cake	nmod:on
+blowing	.	punct
+blowing	candles	dobj
+woman	An	det
+cake	her	nmod:poss
+ROOT	blowing	root
+cake	on	case
+blowing	woman	nsubj
+cake	three-tiered	amod

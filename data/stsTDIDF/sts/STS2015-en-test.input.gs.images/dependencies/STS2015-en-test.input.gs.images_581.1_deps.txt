@@ -1,0 +1,7 @@
+det	player	A
+compound	player	hockey
+nsubj	looks	player
+root	ROOT	looks
+advmod	downward	intently
+xcomp	looks	downward
+punct	looks	.

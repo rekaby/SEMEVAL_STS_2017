@@ -1,0 +1,8 @@
+top	tank	compound
+top	in	case
+window	at	case
+looking	window	nmod:at
+looking	woman	nsubj
+top	yellow	amod
+woman	top	nmod:in
+top	a	det

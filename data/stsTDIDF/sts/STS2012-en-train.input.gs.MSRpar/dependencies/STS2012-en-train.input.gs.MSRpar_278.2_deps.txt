@@ -1,0 +1,14 @@
+nsubj	planned	He
+cc	He	and
+det	lawyers	the
+amod	lawyers	other
+conj:and	He	lawyers
+root	ROOT	planned
+mark	stay	to
+xcomp	planned	stay
+mark	starts	until
+det	river	the
+nsubj	starts	river
+advcl	stay	starts
+xcomp	starts	receding
+punct	planned	.

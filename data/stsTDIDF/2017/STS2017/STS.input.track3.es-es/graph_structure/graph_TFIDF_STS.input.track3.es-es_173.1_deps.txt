@@ -1,0 +1,12 @@
+pier	on	case
+pier	a	det
+distance	in	case
+boy	pier	nmod:on
+watching	are	aux
+watching	boy	nsubj
+boy	dog	conj:and
+swim	distance	nmod:in
+swim	dog	nsubj
+boy	and	cc
+dog	another	det
+watching	swim	ccomp

@@ -1,0 +1,13 @@
+nsubj	mean	What
+aux	mean	does
+det	mean	the
+punct	mean	``
+mark	mean	to
+punct	mean	''
+root	ROOT	mean
+case	Clause	in
+det	Clause	the
+compound	Clause	General
+compound	Clause	Welfare
+nmod:in	mean	Clause
+punct	mean	?

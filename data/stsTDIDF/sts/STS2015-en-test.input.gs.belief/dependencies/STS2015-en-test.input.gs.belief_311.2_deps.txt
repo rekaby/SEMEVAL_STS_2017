@@ -1,0 +1,17 @@
+case	view	in
+nmod:poss	view	their
+nmod:in	is	view
+punct	is	,
+expl	is	there
+root	ROOT	is
+det	difference	a
+nsubj	is	difference
+case	embryo	between
+det	embryo	an
+nmod:between	difference	embryo
+cc	embryo	and
+det	brain	a
+conj:and	embryo	brain
+amod	person	dead
+dep	brain	person
+punct	is	.

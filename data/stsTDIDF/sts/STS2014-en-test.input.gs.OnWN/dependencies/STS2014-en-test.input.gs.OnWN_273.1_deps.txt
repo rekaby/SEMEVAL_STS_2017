@@ -1,0 +1,12 @@
+root	ROOT	Come
+case	existence	into
+nmod:into	Come	existence
+punct	Come	;
+dep	Come	reveal
+nmod:poss	presence	its
+dobj	reveal	presence
+cc	presence	or
+conj:or	presence	make
+det	apprearance	an
+dobj	make	apprearance
+punct	Come	.

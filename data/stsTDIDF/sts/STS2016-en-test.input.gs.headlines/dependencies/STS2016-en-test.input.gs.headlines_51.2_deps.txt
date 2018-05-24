@@ -1,0 +1,8 @@
+root	ROOT	Malaysia
+punct	Malaysia	:
+amod	satellite	Chinese
+nsubj	found	satellite
+dep	Malaysia	found
+dobj	found	object
+case	ocean	in
+nmod:in	found	ocean

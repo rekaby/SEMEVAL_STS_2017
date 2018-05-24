@@ -1,0 +1,8 @@
+nummod	groups	Two
+nsubj	playing	groups
+case	children	of
+nmod:of	groups	children
+aux	playing	are
+root	ROOT	playing
+dobj	playing	soccer
+punct	playing	.

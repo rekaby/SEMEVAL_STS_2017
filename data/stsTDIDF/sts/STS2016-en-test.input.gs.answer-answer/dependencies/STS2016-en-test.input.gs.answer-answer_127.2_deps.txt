@@ -1,0 +1,10 @@
+amod	citizens	Nepalese
+nsubj	require	citizens
+root	ROOT	require
+det	visa	a
+dobj	require	visa
+mark	visit	to
+xcomp	require	visit
+det	UK	the
+dobj	visit	UK
+punct	require	.

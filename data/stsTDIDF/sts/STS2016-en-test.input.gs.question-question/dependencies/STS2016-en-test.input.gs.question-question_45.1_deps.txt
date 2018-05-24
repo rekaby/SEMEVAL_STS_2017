@@ -1,0 +1,8 @@
+advmod	repair	How
+aux	repair	do
+nsubj	repair	I
+root	ROOT	repair
+amod	floors	water-damaged
+compound	floors	hardwood
+dobj	repair	floors
+punct	repair	?

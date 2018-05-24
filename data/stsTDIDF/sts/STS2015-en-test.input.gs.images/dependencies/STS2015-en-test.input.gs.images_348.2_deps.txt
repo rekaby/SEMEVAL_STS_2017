@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	practicing	boy
+aux	practicing	is
+root	ROOT	practicing
+nmod:poss	karate	his
+dobj	practicing	karate
+case	gym	in
+det	gym	a
+nmod:in	practicing	gym
+punct	practicing	.

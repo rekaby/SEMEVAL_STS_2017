@@ -1,0 +1,9 @@
+root	ROOT	Make
+cc	Make	or
+conj:or	Make	create
+dobj	Make	something
+case	function	for
+det	function	a
+amod	function	specific
+nmod:for	something	function
+punct	Make	.

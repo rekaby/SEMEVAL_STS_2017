@@ -1,0 +1,6 @@
+train	subway	compound
+sit	People	nsubj
+goes	Downtown	dobj
+train	on	case
+sit	train	nmod:on
+train	goes	acl:relcl

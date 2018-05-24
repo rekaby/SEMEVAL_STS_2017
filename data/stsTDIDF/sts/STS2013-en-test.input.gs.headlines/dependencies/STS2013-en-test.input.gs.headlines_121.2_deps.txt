@@ -1,0 +1,6 @@
+nummod	Palestinians	Four
+nsubj	killed	Palestinians
+root	ROOT	killed
+case	strike	in
+compound	strike	IAF
+nmod:in	killed	strike

@@ -1,0 +1,10 @@
+det	man	a
+nsubj	sits	man
+case	shirt	in
+det	shirt	an
+amod	shirt	oversized
+nmod:in	man	shirt
+root	ROOT	sits
+case	shop	at
+det	shop	a
+nmod:at	sits	shop

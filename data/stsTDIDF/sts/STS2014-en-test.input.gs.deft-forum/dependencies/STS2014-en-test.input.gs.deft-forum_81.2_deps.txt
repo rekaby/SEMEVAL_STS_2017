@@ -1,0 +1,7 @@
+dep	send	Pressing
+nsubj	send	one
+aux	send	does
+root	ROOT	send
+det	tone	a
+dobj	send	tone
+punct	send	.

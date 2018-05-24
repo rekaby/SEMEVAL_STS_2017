@@ -1,0 +1,7 @@
+det	cat	The
+nsubj	shimmied	cat
+root	ROOT	shimmied
+case	bed	under
+det	bed	the
+nmod:under	shimmied	bed
+punct	shimmied	.

@@ -1,0 +1,13 @@
+riding	person	nmod:with
+riding	street	nmod:in
+person	standing	amod
+Drajatehma	a	det
+proximity	them	nmod:of
+standing	proximity	nmod:on
+riding	people	nsubj
+proximity	sidewalk	nmod:on
+riding	Drajatehma	dobj
+proximity	on	case
+person	with	case
+proximity	the	det
+sidewalk	on	case

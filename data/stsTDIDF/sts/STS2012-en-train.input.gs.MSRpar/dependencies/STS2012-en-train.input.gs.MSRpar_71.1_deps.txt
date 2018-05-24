@@ -1,0 +1,15 @@
+amod	year	Last
+nmod:tmod	made	year
+punct	made	,
+nsubj	made	he
+root	ROOT	made
+det	bid	an
+amod	bid	unsuccessful
+dobj	made	bid
+case	nomination	for
+det	nomination	the
+amod	nomination	Democratic
+nmod:for	bid	nomination
+case	governor	for
+nmod:for	nomination	governor
+punct	made	.

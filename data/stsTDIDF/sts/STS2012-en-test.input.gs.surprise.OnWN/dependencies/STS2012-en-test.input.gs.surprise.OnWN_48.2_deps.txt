@@ -1,0 +1,14 @@
+auxpass	offended	be
+root	ROOT	offended
+cc	offended	or
+conj:or	offended	bothered
+nmod	bothered	by
+punct	offended	;
+parataxis	offended	take
+dobj	take	offense
+nmod	take	with
+punct	take	,
+auxpass	bothered	be
+xcomp	take	bothered
+advmod	bothered	by
+punct	offended	.

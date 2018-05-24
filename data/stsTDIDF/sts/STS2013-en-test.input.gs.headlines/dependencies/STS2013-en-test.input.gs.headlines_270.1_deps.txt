@@ -1,0 +1,8 @@
+nmod:poss	party	Erdogan
+case	Erdogan	's
+nsubj	submits	party
+root	ROOT	submits
+dobj	submits	plan
+case	presidency	for
+amod	presidency	Turkish
+nmod:for	plan	presidency

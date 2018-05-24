@@ -1,0 +1,11 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	boats	in
+nmod:in	people	boats
+acl	boats	racing
+case	shore	towards
+det	shore	the
+nmod:towards	racing	shore
+punct	group	.

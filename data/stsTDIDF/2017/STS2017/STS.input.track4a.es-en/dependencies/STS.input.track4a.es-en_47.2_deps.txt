@@ -1,0 +1,10 @@
+det	man	A
+nsubj	reading	man
+aux	reading	is
+root	ROOT	reading
+mark	waiting	while
+advcl	reading	waiting
+case	bus	for
+det	bus	a
+nmod:for	waiting	bus
+punct	reading	.

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	shirt	man
+cop	shirt	is
+case	shirt	in
+det	shirt	the
+compound	shirt	sports
+root	ROOT	shirt
+acl	shirt	attends
+det	game	a
+dobj	attends	game
+punct	shirt	.

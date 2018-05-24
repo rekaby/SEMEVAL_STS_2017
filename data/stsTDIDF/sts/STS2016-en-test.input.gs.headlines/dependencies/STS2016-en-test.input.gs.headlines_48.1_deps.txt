@@ -1,0 +1,10 @@
+compound	crisis	Euro
+nsubj	is	crisis
+ccomp	says	is
+advmod	is	over
+punct	says	,
+root	ROOT	says
+nmod:poss	Hollande	France
+case	France	's
+compound	Hollande	Francois
+nsubj	says	Hollande

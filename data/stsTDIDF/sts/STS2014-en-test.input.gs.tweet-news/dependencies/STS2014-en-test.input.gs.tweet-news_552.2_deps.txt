@@ -1,0 +1,8 @@
+det	Boom	A
+compound	Boom	New
+compound	Boom	Housing
+root	ROOT	Boom
+punct	Boom	?-5) compound(Count-2, Don?t
+root	ROOT	Count
+case	It	on
+nmod:on	Count	It

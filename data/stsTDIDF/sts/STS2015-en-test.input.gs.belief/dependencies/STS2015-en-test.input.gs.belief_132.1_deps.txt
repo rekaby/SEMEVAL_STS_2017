@@ -1,0 +1,15 @@
+nsubj	throw	yeah
+cc	yeah	but
+conj:but	yeah	you
+aux	throw	can
+neg	throw	not
+advmod	throw	just
+root	ROOT	throw
+compound:prt	throw	around
+amod	bombs	nuclear
+dobj	throw	bombs
+case	consequences	without
+amod	consequences	huge
+amod	consequences	geopolitical
+nmod:without	throw	consequences
+punct	throw	.

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	jumps	man
+root	ROOT	jumps
+case	snowboard	while
+case	snowboard	on
+det	snowboard	a
+nmod:on	jumps	snowboard
+punct	jumps	.

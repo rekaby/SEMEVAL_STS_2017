@@ -1,0 +1,7 @@
+nummod	females	Two
+nsubj	jump	females
+root	ROOT	jump
+advmod	jump	off
+case	swings	of
+nmod:of	off	swings
+punct	jump	.

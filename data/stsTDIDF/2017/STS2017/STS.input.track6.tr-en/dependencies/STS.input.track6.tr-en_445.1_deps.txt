@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	young
+nsubj	hangs	girl
+root	ROOT	hangs
+case	hoop	from
+det	hoop	a
+compound	hoop	basketball
+nmod:from	hangs	hoop
+mark	stands	while
+det	boy	a
+nsubj	stands	boy
+advcl	hangs	stands
+advmod	stands	underneath
+punct	hangs	.

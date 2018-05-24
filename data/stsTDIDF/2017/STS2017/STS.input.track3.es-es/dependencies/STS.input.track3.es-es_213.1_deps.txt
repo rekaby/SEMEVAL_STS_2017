@@ -1,0 +1,12 @@
+det	group	A
+root	ROOT	group
+case	people	of
+amod	people	several
+nmod:of	group	people
+acl	people	sitting
+case	floor	on
+det	floor	the
+nmod:on	sitting	floor
+case	building	inside
+det	building	a
+nmod:inside	sitting	building

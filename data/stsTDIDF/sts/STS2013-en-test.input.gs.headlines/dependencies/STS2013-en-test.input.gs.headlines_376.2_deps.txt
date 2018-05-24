@@ -1,0 +1,7 @@
+case	dead	Over
+nummod	dead	120
+root	ROOT	dead
+case	factory	in
+compound	factory	Pakistan
+nmod:in	dead	factory
+dep	dead	blaze

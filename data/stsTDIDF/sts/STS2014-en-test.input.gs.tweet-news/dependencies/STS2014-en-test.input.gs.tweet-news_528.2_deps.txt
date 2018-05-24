@@ -1,0 +1,8 @@
+root	ROOT	Editorial
+punct	Editorial	:
+compound	Plan	President
+compound	Plan	Obama?s
+dep	Editorial	Plan
+case	Reform	for
+compound	Reform	Gun
+nmod:for	Plan	Reform

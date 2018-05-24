@@ -1,0 +1,8 @@
+advmod	repair	How
+aux	repair	do
+nsubj	repair	I
+root	ROOT	repair
+det	pipe	this
+amod	pipe	broken
+dobj	repair	pipe
+punct	repair	?

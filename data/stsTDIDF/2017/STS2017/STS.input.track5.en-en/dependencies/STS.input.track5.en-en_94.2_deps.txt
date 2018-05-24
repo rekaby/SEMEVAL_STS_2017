@@ -1,0 +1,7 @@
+nummod	person	One
+nsubj	holding	person
+aux	holding	is
+root	ROOT	holding
+det	umbrella	an
+dobj	holding	umbrella
+punct	holding	.

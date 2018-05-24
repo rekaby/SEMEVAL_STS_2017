@@ -1,0 +1,6 @@
+compound	protests	Police
+acl	Police	attacked
+case	flag	in
+compound	flag	Belfast
+nmod:in	attacked	flag
+root	ROOT	protests

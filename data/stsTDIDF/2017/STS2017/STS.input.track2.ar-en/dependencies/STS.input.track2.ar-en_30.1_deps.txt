@@ -1,0 +1,5 @@
+nummod	men	Two
+root	ROOT	men
+case	platform	on
+det	platform	a
+nmod:on	men	platform

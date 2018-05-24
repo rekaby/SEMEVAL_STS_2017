@@ -1,0 +1,8 @@
+nsubj	have	You
+root	ROOT	have
+neg	need	no
+dobj	have	need
+mark	do	to
+acl	need	do
+dobj	do	anything
+punct	have	.

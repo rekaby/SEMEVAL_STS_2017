@@ -1,0 +1,10 @@
+det	man	The
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	store	to
+det	store	the
+nmod:to	walking	store
+case	shop	to
+nmod:to	store	shop
+punct	walking	.

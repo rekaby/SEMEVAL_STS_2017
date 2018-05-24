@@ -1,0 +1,13 @@
+compound	Heaney	Seamus
+nsubj	Dies	Heaney
+punct	Heaney	,
+compound	Poet	Irish
+appos	Heaney	Poet
+case	Soil	of
+nmod:of	Poet	Soil
+cc	Soil	and
+conj:and	Soil	Strife
+punct	Heaney	,
+root	ROOT	Dies
+case	74	at
+nmod:at	Dies	74

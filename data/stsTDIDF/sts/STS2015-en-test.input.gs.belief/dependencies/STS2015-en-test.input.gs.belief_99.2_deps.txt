@@ -1,0 +1,8 @@
+nsubj	ranting	he
+aux	ranting	's
+neg	ranting	not
+root	ROOT	ranting
+case	troops	against
+det	troops	the
+nmod:against	ranting	troops
+punct	ranting	.

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	climbing	woman
+aux	climbing	is
+root	ROOT	climbing
+det	face	a
+compound	face	rock
+dobj	climbing	face
+punct	climbing	.

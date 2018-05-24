@@ -1,0 +1,7 @@
+det	meeting	the
+compound	meeting	osce
+nsubj	lasted	meeting
+root	ROOT	lasted
+nummod	days	two
+nmod:tmod	lasted	days
+punct	lasted	.

@@ -1,0 +1,11 @@
+nsubj	buy	People
+cop	buy	are
+mark	buy	about
+mark	buy	to
+root	ROOT	buy
+det	painting	a
+dobj	buy	painting
+case	fair	at
+det	fair	a
+nmod:at	buy	fair
+punct	buy	.

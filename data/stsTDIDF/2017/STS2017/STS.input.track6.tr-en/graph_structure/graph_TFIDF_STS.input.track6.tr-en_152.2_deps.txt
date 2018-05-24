@@ -1,0 +1,11 @@
+protects	.	punct
+trying	read	xcomp
+protects	sun	nmod:from
+protects	trying	advcl
+protects	man	nsubj
+read	piece	dobj
+ROOT	protects	root
+sun	from	case
+protects	himself	dobj
+piece	paper	nmod:of
+man	red-haired	amod

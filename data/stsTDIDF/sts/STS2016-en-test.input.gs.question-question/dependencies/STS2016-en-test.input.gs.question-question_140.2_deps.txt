@@ -1,0 +1,13 @@
+advmod	consider	Why
+aux	consider	do
+compound	committees	admissions
+nsubj	consider	committees
+root	ROOT	consider
+det	Statement	the
+dobj	consider	Statement
+case	Purpose	of
+nmod:of	Statement	Purpose
+mark	important	to
+cop	important	be
+xcomp	consider	important
+punct	consider	?

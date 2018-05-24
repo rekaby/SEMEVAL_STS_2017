@@ -1,0 +1,6 @@
+compound	Case	Pakistan
+compound	Case	Dismisses
+root	ROOT	Case
+case	Agent	against
+compound	Agent	FBI
+nmod:against	Case	Agent

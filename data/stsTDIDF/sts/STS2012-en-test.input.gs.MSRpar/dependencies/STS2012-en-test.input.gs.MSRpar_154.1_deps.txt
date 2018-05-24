@@ -1,0 +1,17 @@
+nmod:poss	hearing	Freeman
+case	Freeman	's
+amod	hearing	civil
+nsubj	license	hearing
+aux	license	may
+cop	license	be
+punct	license	,
+case	surface	on
+det	surface	the
+nmod:on	license	surface
+punct	license	,
+case	license	about
+det	driver	a
+nmod:poss	license	driver
+case	driver	's
+root	ROOT	license
+punct	license	.

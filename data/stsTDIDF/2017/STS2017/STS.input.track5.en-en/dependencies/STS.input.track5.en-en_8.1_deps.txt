@@ -1,0 +1,9 @@
+det	sky	The
+nsubj	has	sky
+root	ROOT	has
+advmod	little	very
+dobj	has	little
+case	clouds	to
+neg	clouds	no
+nmod:to	little	clouds
+punct	has	.

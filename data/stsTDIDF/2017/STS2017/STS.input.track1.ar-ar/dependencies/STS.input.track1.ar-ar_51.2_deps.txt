@@ -1,0 +1,12 @@
+det	man	The
+nsubj	walks	man
+root	ROOT	walks
+case	street	on
+det	street	the
+nmod:on	walks	street
+acl	street	dressed
+case	jacket	in
+det	jacket	a
+amod	jacket	white
+nmod:in	dressed	jacket
+punct	walks	.

@@ -1,0 +1,7 @@
+stage	acting	acl
+actors	The	det
+stage	are	cop
+ROOT	stage	root
+stage	.	punct
+actors	three	nummod
+stage	actors	nsubj

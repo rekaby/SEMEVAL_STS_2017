@@ -1,0 +1,11 @@
+nsubj	killed	10
+root	ROOT	killed
+punct	killed	,
+dep	killed	12
+acl	12	injured
+case	blast	in
+compound	blast	E.
+compound	blast	Afghan
+compound	blast	airport
+compound	blast	suicide
+nmod:in	injured	blast

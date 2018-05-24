@@ -1,0 +1,7 @@
+det	musician	A
+nsubj	plays	musician
+root	ROOT	plays
+dobj	plays	guitar
+mark	sitting	while
+advcl	plays	sitting
+punct	plays	.

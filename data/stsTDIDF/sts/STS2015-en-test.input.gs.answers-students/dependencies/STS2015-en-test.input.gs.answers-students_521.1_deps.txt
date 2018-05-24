@@ -1,0 +1,7 @@
+det:predet	bulbs	all
+det	bulbs	the
+nsubj	paths	bulbs
+cop	paths	are
+case	paths	on
+compound	paths	parralel
+root	ROOT	paths

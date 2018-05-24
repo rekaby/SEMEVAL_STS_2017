@@ -1,0 +1,6 @@
+root	ROOT	make
+dobj	make	fit
+case	purpose	for
+det	purpose	a
+amod	purpose	specific
+nmod:for	fit	purpose

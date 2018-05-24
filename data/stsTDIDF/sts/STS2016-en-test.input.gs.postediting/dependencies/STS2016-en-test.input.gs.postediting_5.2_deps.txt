@@ -1,0 +1,17 @@
+case	years	For
+advmod	18	nearly
+nummod	years	18
+nmod:for	flying	years
+punct	flying	,
+det	Ulysses	the
+compound	Ulysses	space
+compound	Ulysses	shuttle
+punct	Ulysses	``
+nsubj	flying	Ulysses
+punct	Ulysses	''
+aux	flying	has
+aux	flying	been
+root	ROOT	flying
+case	space	in
+nmod:in	flying	space
+punct	flying	.

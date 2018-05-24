@@ -1,0 +1,8 @@
+compound	operator	N.C.
+compound	operator	State
+compound	operator	Fair
+compound	operator	ride
+root	ROOT	operator
+acl	operator	arrested
+case	accident	after
+nmod:after	arrested	accident

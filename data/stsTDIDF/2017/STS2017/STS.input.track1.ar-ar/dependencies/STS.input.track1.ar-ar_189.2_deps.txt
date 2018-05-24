@@ -1,0 +1,13 @@
+nsubj	breathed	I
+root	ROOT	breathed
+det	car	the
+compound	car	smoke
+compound	car	race
+dobj	breathed	car
+advmod	crossed	when
+nsubj	crossed	he
+advcl	breathed	crossed
+det	line	the
+compound	line	finish
+dobj	crossed	line
+punct	breathed	.

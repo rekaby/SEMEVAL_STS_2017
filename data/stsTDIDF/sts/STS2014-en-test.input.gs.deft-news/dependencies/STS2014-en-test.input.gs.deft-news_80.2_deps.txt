@@ -1,0 +1,9 @@
+nsubj	imprisons	russia
+root	ROOT	imprisons
+dobj	imprisons	people
+case	evidence	without
+nmod:without	imprisons	evidence
+case	activity	of
+amod	activity	illegal
+nmod:of	evidence	activity
+punct	imprisons	.

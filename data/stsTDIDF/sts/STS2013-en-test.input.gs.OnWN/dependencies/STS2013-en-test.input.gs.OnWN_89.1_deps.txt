@@ -1,0 +1,5 @@
+root	ROOT	suggest
+cc	suggest	or
+conj:or	suggest	prescribe
+det	solution	a
+dobj	suggest	solution

@@ -1,0 +1,10 @@
+nsubj	make	That
+aux	make	would
+root	ROOT	make
+nsubj	responsible	you
+advmod	responsible	partially
+xcomp	make	responsible
+case	death	for
+nmod:poss	death	their
+nmod:for	responsible	death
+punct	make	.

@@ -1,0 +1,17 @@
+det	venture	The
+nsubj	owns	venture
+root	ROOT	owns
+nummod	refineries	five
+compound	refineries	oil
+dobj	owns	refineries
+cc	owns	and
+advmod	2,100	more
+mwe	more	than
+nummod	stations	2,100
+amod	stations	filling
+conj:and	owns	stations
+case	Russia	in
+nmod:in	stations	Russia
+cc	Russia	and
+conj:and	Russia	Ukraine
+punct	owns	.

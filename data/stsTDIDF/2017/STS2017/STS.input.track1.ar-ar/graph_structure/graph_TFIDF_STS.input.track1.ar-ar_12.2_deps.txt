@@ -1,0 +1,7 @@
+carrying	Women	nsubj
+carrying	.	punct
+ROOT	carrying	root
+carrying	work	dobj
+work	a	det
+carrying	school	nmod:at
+work	art	nmod:of

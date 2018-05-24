@@ -1,0 +1,9 @@
+punct	have	``
+advcl	have	Yes
+punct	have	,
+nsubj	have	we
+root	ROOT	have
+det	problem	a
+amod	problem	serious
+dobj	have	problem
+punct	have	.

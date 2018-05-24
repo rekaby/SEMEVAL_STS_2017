@@ -1,0 +1,13 @@
+mark	know	So
+nsubj	know	you
+advcl	have	know
+punct	have	,
+nsubj	have	I
+aux	have	do
+neg	have	not
+root	ROOT	have
+amod	experience	personal
+dobj	have	experience
+case	this	with
+nmod:with	experience	this
+punct	have	.

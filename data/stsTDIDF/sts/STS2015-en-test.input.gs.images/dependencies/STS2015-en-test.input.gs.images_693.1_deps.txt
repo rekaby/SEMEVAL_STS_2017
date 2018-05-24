@@ -1,0 +1,11 @@
+det	lady	A
+nsubj	running	lady
+aux	running	is
+root	ROOT	running
+nmod:poss	dog	her
+dobj	running	dog
+case	course	through
+det	course	an
+compound	course	agility
+nmod:through	running	course
+punct	running	.

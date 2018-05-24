@@ -1,0 +1,7 @@
+det	chef	A
+nsubj	slicing	chef
+aux	slicing	is
+root	ROOT	slicing
+det	shrimp	a
+dobj	slicing	shrimp
+punct	slicing	.

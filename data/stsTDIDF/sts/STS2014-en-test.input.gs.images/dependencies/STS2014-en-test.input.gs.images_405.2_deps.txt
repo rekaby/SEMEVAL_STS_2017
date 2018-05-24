@@ -1,0 +1,7 @@
+det	train	A
+root	ROOT	train
+case	tracks	on
+det	tracks	the
+compound	tracks	train
+nmod:on	train	tracks
+punct	train	.

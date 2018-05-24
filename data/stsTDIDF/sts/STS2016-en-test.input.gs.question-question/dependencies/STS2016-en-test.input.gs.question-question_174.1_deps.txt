@@ -1,0 +1,10 @@
+advmod	teach	How
+aux	teach	do
+nsubj	teach	you
+root	ROOT	teach
+det	toddler	a
+dobj	teach	toddler
+neg	share	not
+mark	share	to
+xcomp	teach	share
+punct	teach	?

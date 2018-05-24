@@ -1,0 +1,7 @@
+compound	Armstrong	US
+compound	Armstrong	astronaut
+compound	Armstrong	Neil
+nsubj	dead	Armstrong
+root	ROOT	dead
+case	82	at
+nmod:at	dead	82

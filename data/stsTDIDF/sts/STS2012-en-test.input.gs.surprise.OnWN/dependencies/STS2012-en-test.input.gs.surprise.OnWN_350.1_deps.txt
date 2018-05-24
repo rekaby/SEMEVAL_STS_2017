@@ -1,0 +1,6 @@
+root	ROOT	define
+punct	define	;
+parataxis	define	determine
+amod	qualities	essential
+dobj	determine	qualities
+acl	qualities	of

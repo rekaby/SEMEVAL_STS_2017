@@ -1,0 +1,11 @@
+det	man	A
+nsubj	spreading	man
+aux	spreading	is
+root	ROOT	spreading
+amod	cheese	shredded
+dobj	spreading	cheese
+case	pizza	on
+det	pizza	an
+amod	pizza	uncooked
+nmod:on	spreading	pizza
+punct	spreading	.

@@ -1,0 +1,10 @@
+root	ROOT	Romney
+punct	Romney	:
+nsubj	left	I
+dep	Romney	left
+det	management	all
+dobj	left	management
+case	Bain	of
+nmod:of	management	Bain
+case	1999	in
+nmod:in	left	1999

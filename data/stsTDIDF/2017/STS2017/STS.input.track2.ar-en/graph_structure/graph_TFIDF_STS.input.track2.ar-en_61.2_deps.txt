@@ -1,0 +1,10 @@
+rain	for	case
+sitting	car	nmod:in
+shirt	with	case
+waiting	rain	nmod:for
+man	shirt	nmod:with
+waiting	stop	xcomp
+shirt	red	amod
+car	waiting	acl
+shirt	sitting	acl
+shirt	the	det

@@ -1,0 +1,8 @@
+mower	a	det
+operating	woman	nsubj
+operating	mower	dobj
+woman	shirtless	amod
+ROOT	operating	root
+mower	lawn	compound
+operating	is	aux
+operating	.	punct

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+amod	woman	standing
+case	street	on
+det	street	a
+compound	street	city
+nmod:on	standing	street
+punct	man	.

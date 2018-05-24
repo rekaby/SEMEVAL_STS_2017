@@ -1,0 +1,6 @@
+root	ROOT	exercise
+cc	exercise	or
+conj:or	exercise	have
+dobj	have	power
+case	memory	of
+nmod:of	power	memory

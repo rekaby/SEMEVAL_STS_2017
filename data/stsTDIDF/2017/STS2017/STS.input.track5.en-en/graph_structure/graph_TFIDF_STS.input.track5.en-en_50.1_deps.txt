@@ -1,0 +1,6 @@
+vases	background	nmod:in
+house	inside	case
+girl	vases	nmod:with
+vases	with	case
+house	her	nmod:poss
+background	house	nmod:inside

@@ -1,0 +1,11 @@
+det	earth	The
+amod	earth	whole
+nsubj	produces	earth
+acl	earth	combined
+root	ROOT	produces
+amod	food	enough
+dobj	produces	food
+case	people	for
+nummod	people	billion
+nmod:for	food	people
+punct	produces	.

@@ -1,0 +1,15 @@
+det	problem	The
+nsubj	is	problem
+root	ROOT	is
+mark	prohibit	that
+nsubj	prohibit	trade
+case	Czech	of
+det	Czech	all
+amod	Czech	mobile
+compound	Czech	operators
+nmod:of	trade	Czech
+ccomp	is	prohibit
+det:predet	resale	such
+det	resale	a
+dobj	prohibit	resale
+punct	is	.

@@ -1,0 +1,8 @@
+det	skateboarder	A
+root	ROOT	skateboarder
+acl	skateboarder	does
+det	trick	a
+dobj	does	trick
+case	concrete	on
+nmod:on	trick	concrete
+punct	skateboarder	.

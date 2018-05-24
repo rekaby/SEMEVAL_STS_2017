@@ -1,0 +1,16 @@
+nmod:poss	visit	shalgam
+case	shalgam	's
+nsubj	first	visit
+case	london	to
+nmod:to	visit	london
+cop	first	is
+det	first	the
+root	ROOT	first
+case	minister	by
+det	minister	a
+amod	minister	libyan
+amod	minister	foreign
+nmod:by	first	minister
+case	1969	since
+nmod:since	minister	1969
+punct	first	.

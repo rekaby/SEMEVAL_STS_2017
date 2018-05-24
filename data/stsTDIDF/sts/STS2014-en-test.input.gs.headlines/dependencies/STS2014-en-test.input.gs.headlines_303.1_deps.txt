@@ -1,0 +1,7 @@
+root	ROOT	Taliban
+case	agenda	on
+nmod:on	Taliban	agenda
+case	US	for
+nmod:for	agenda	US
+case	Pakistan	in
+nmod:in	Taliban	Pakistan

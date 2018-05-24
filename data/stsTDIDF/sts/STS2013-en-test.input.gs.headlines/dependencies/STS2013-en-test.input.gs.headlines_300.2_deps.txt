@@ -1,0 +1,8 @@
+compound	Santorum	Rick
+nsubj	notches	Santorum
+root	ROOT	notches
+det	victory	a
+dobj	notches	victory
+case	Kansas	in
+nmod:in	victory	Kansas
+dep	notches	caucuses

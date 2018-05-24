@@ -1,0 +1,5 @@
+prepares	crowd	nsubj
+prepares	event	nmod:for
+prepares	.	punct
+crowd	A	det
+ROOT	prepares	root

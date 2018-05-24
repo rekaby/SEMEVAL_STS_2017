@@ -1,0 +1,8 @@
+det	section	a
+amod	section	short
+root	ROOT	section
+case	composition	of
+det	composition	a
+amod	composition	musical
+nmod:of	section	composition
+punct	section	.

@@ -1,0 +1,10 @@
+nsubj	drew	Someone
+root	ROOT	drew
+case	face	on
+nmod:poss	face	Washington
+case	Washington	's
+nmod:on	drew	face
+case	dollar	on
+det	dollar	the
+nmod:on	face	dollar
+punct	drew	.

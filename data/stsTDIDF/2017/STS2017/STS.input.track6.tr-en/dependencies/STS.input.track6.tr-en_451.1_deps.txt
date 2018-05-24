@@ -1,0 +1,9 @@
+det	man	The
+nsubj	conducting	man
+aux	conducting	is
+root	ROOT	conducting
+det	interview	an
+dobj	conducting	interview
+case	News	for
+compound	News	Fox
+nmod:for	interview	News

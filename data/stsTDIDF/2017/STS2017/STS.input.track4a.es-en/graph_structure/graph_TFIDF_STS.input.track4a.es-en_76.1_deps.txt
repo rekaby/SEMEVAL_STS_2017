@@ -1,0 +1,6 @@
+dogs	The	det
+sleep	.	punct
+ROOT	sleep	root
+sleep	heaps	nmod:in
+sleep	dogs	nsubj
+heaps	in	case

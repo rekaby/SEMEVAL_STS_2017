@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+det	dog	a
+nsubj	is	dog
+case	picture	in
+det	picture	the
+nmod:in	is	picture

@@ -1,0 +1,11 @@
+amod	dog	Brown
+root	ROOT	dog
+acl	dog	wearing
+det	gasket	a
+amod	gasket	blue
+nsubj	grass	gasket
+cop	grass	being
+case	grass	on
+det	grass	the
+ccomp	wearing	grass
+punct	dog	.

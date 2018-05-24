@@ -1,0 +1,5 @@
+nummod	people	Two
+nsubj	make	people
+root	ROOT	make
+dobj	make	coffee
+punct	make	.

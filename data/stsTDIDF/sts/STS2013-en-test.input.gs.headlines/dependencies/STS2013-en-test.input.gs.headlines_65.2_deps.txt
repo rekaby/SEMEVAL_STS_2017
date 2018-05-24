@@ -1,0 +1,7 @@
+compound	Korea	South
+root	ROOT	Korea
+mark	boost	to
+acl	Korea	boost
+amod	power	nuclear
+dobj	boost	power
+punct	Korea	?

@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	running	dog
+acl	dog	wearing
+det	cape	a
+dobj	wearing	cape
+aux	running	is
+root	ROOT	running
+case	snow	through
+det	snow	the
+nmod:through	running	snow
+punct	running	.

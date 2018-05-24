@@ -1,0 +1,16 @@
+case	candidates	Among
+nummod	candidates	three
+amod	candidates	major
+nmod:among	wining	candidates
+punct	wining	,
+nsubj	wining	Schwarzenegger
+aux	wining	is
+root	ROOT	wining
+det	battle	the
+dobj	wining	battle
+case	independents	for
+nmod:for	battle	independents
+cc	independents	and
+compound	voters	crossover
+conj:and	independents	voters
+punct	wining	.

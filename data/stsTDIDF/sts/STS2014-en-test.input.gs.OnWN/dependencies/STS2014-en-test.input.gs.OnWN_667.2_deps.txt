@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	perceiving	of
+acl	act	perceiving
+det	odor	the
+dobj	perceiving	odor
+case	something	of
+nmod:of	odor	something
+punct	act	.

@@ -1,0 +1,13 @@
+nsubj	Pick	Cuba
+case	Cuba	's
+punct	Pick	`
+nsubj	Pick	Ladies
+punct	Pick	'
+mark	Pick	to
+root	ROOT	Pick
+compound:prt	Pick	Up
+compound	Prize	EU
+compound	Years	Prize
+nummod	Years	8
+dobj	Pick	Years
+advmod	Pick	Later

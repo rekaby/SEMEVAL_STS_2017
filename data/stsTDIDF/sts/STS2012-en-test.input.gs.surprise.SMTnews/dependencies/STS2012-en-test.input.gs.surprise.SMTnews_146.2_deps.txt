@@ -1,0 +1,8 @@
+det	trend	This
+nsubj	goes	trend
+root	ROOT	goes
+advmod	goes	well
+case	headscarves	beyond
+amod	headscarves	simple
+nmod:beyond	goes	headscarves
+punct	goes	.

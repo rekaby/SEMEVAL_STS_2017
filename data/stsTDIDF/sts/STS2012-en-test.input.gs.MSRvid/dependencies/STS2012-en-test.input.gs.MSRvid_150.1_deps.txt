@@ -1,0 +1,7 @@
+det	man	The
+nsubj	cut	man
+root	ROOT	cut
+det	plate	a
+compound	plate	paper
+dobj	cut	plate
+punct	cut	.

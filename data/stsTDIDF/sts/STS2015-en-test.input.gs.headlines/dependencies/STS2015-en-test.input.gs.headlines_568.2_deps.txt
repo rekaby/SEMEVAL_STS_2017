@@ -1,0 +1,9 @@
+compound	rebels	Syria
+root	ROOT	rebels
+punct	rebels	:
+nsubj	killed	We
+parataxis	rebels	killed
+compound	men	Hezbollah
+dobj	killed	men
+case	Lebanon	in
+nmod:in	killed	Lebanon

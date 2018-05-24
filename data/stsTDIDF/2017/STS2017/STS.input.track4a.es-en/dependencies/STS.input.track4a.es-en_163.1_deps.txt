@@ -1,0 +1,7 @@
+nsubj	auditioning	Women
+aux	auditioning	are
+root	ROOT	auditioning
+case	Lake	for
+compound	Lake	Swan
+nmod:for	auditioning	Lake
+punct	auditioning	.

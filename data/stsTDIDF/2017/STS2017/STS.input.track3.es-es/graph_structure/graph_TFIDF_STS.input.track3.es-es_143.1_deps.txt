@@ -1,0 +1,7 @@
+player	hockey	compound
+throws	.	punct
+ROOT	throws	root
+player	A	det
+throws	disc	dobj
+disc	the	det
+throws	player	nsubj

@@ -1,0 +1,7 @@
+sings	stage	nmod:on
+sings	.	punct
+crowd	for	case
+ROOT	sings	root
+sings	alone	advmod
+stage	crowd	nmod:for
+sings	man	nsubj

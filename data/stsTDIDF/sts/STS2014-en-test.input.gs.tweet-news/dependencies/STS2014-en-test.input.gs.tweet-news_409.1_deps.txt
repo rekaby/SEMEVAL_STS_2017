@@ -1,0 +1,15 @@
+det	GangRape	Another
+root	ROOT	GangRape
+case	India	in
+nmod:in	GangRape	India
+punct	GangRape	!-5) root(ROOT-0, WTF
+punct	WTF	!-2) compound(passenger-7, :-LRB-
+nummod	passenger	7
+compound	passenger	men
+compound	passenger	gang
+compound	passenger	rape
+compound	passenger	bus
+root	ROOT	passenger
+case	India	in
+nmod:in	passenger	India
+punct	passenger	-

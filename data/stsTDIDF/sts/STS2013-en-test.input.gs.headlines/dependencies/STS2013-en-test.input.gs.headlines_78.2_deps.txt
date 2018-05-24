@@ -1,0 +1,6 @@
+compound	rules	New
+root	ROOT	rules
+case	Service	for
+compound	Service	US
+compound	Service	Secret
+nmod:for	rules	Service

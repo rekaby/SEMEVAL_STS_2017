@@ -1,0 +1,9 @@
+root	ROOT	matter
+nsubj	remains	that
+acl:relcl	matter	remains
+mark	removed	after
+nsubjpass	removed	something
+aux	removed	has
+auxpass	removed	been
+advcl	remains	removed
+punct	matter	.

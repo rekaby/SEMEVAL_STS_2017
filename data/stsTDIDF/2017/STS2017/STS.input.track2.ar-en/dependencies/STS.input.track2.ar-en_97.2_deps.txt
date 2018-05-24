@@ -1,0 +1,8 @@
+det	sleeps	An
+amod	sleeps	old
+root	ROOT	sleeps
+amod	sleeps	naked
+case	own	on
+nmod:poss	own	her
+nmod:on	naked	own
+punct	sleeps	.

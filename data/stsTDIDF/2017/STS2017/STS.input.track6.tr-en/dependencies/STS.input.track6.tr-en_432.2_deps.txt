@@ -1,0 +1,9 @@
+nummod	dogs	Two
+nsubj	walk	dogs
+root	ROOT	walk
+case	field	in
+det	field	a
+nmod:in	walk	field
+case	sheep	with
+nmod:with	field	sheep
+punct	walk	.

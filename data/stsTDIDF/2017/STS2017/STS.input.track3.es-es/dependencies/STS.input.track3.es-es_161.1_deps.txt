@@ -1,0 +1,10 @@
+det	boy	The
+nsubj	telling	boy
+aux	telling	is
+root	ROOT	telling
+det	man	the
+dobj	telling	man
+nsubj	do	what
+mark	do	to
+acl:relcl	man	do
+punct	telling	.

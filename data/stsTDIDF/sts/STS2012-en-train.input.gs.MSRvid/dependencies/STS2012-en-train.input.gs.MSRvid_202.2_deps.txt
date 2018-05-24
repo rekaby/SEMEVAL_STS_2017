@@ -1,0 +1,6 @@
+det	man	The
+nsubj	played	man
+root	ROOT	played
+nmod:poss	guitar	his
+dobj	played	guitar
+punct	played	.

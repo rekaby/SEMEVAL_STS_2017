@@ -1,0 +1,6 @@
+sidewalk	a	det
+walk	girls	nsubj
+walk	sidewalk	nmod:down
+sidewalk	down	case
+girls	Three	nummod
+girls	young	amod

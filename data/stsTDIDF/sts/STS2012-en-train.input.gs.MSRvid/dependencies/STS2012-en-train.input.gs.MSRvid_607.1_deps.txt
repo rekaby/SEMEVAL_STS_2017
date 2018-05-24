@@ -1,0 +1,9 @@
+det	man	The
+nsubj	played	man
+root	ROOT	played
+compound	sak	haki
+dobj	played	sak
+case	office	in
+det	office	the
+nmod:in	played	office
+punct	played	.

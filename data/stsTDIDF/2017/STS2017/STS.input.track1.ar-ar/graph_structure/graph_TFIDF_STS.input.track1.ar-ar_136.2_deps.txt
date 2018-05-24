@@ -1,0 +1,5 @@
+crowd	to	case
+playing	crowd	nmod:to
+Woman	.	punct
+ROOT	Woman	root
+Woman	playing	acl

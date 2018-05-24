@@ -1,0 +1,8 @@
+amod	typhoon	Most
+amod	typhoon	powerful
+nsubj	hits	typhoon
+case	2013	of
+nmod:of	typhoon	2013
+root	ROOT	hits
+det	Philippines	the
+dobj	hits	Philippines

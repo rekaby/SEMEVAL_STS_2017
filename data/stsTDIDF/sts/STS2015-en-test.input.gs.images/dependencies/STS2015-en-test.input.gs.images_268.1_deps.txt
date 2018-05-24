@@ -1,0 +1,6 @@
+nsubj	sails	Boat
+root	ROOT	sails
+case	water	in
+amod	water	rough
+nmod:in	sails	water
+punct	sails	.

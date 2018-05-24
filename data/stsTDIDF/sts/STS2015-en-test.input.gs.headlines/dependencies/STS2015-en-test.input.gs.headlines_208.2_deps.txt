@@ -1,0 +1,8 @@
+amod	court	Russian
+nsubj	releases	court
+root	ROOT	releases
+compound	doctor	Greenpeace
+compound	doctor	ship
+dobj	releases	doctor
+case	bail	on
+nmod:on	releases	bail

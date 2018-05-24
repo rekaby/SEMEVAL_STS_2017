@@ -1,0 +1,11 @@
+compound	teen	US
+compound	plot	teen
+acl	teen	held
+case	Chicago	in
+nmod:in	held	Chicago
+punct	bomb	`
+compound	bomb	jihad
+punct	bomb	'
+compound	bomb	car
+compound	plot	bomb
+root	ROOT	plot

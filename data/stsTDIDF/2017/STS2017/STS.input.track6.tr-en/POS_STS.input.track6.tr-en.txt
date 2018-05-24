@@ -1,0 +1,500 @@
+[A/DT, silhouette/NN, of/IN, two/CD, dogs/NNS, running/VBG, by/IN, a/DT, lake/NN, ./.] 	[Two/CD, black/JJ, and/CC, white/JJ, dogs/NNS, walking/VBG, in/IN, the/DT, mud/NN, ,/,, with/IN, a/DT, ball/NN, in/IN, someone/NN, 's/POS, mouth/NN, ./.] 	1
+[The/DT, lady/NN, is/VBZ, blonde/JJ, ./.] 	[The/DT, woman/NN, is/VBZ, blonde/JJ, ./.] 	2
+[People/NNS, are/VBP, having/VBG, a/DT, meeting/NN, ./.] 	[People/NNS, are/VBP, having/VBG, a/DT, meeting/NN, ./.] 	3
+[The/DT, dog/NN, is/VBZ, competing/VBG, in/IN, dog/NN, agility/NN] 	[The/DT, dog/NN, is/VBZ, jumping/VBG, over/RP, the/DT, horse/NN] 	4
+[A/DT, man/NN, taking/VBG, apples/NNS, out/IN, of/IN, a/DT, bag/NN, on/IN, a/DT, counter/NN, ./.] 	[A/DT, man/NN, in/IN, the/DT, laundry/NN, is/VBZ, about/IN, to/TO, take/VB, his/PRP$, blue/JJ, bag/NN, out/IN, of/IN, a/DT, basket/NN, ./.] 	5
+[The/DT, child/NN, is/VBZ, playing/VBG, in/IN, the/DT, ocean/NN, ./.] 	[A/DT, boy/NN, playing/NN, in/IN, the/DT, ocean/NN, ./.] 	6
+[The/DT, couple/NN, is/VBZ, going/VBG, to/TO, the/DT, store/NN, ./.] 	[The/DT, man/NN, is/VBZ, walking/VBG, to/TO, the/DT, store/NN, to/TO, shop/NN, ./.] 	7
+[Beautiful/JJ, lights/NNS, accent/NN, trees/NNS, on/IN, a/DT, dark/JJ, night/NN, ./.] 	[A/DT, child/NN, dressed/VBN, in/IN, bright/JJ, clothes/NNS, swaying/VBG, in/IN, a/DT, tree/NN, swing/NN, ./.] 	8
+[The/DT, man/NN, is/VBZ, painting/NN, ./.] 	[The/DT, man/NN, is/VBZ, painting/VBG, a/DT, house/NN, ./.] 	9
+[men/NNS, repair/VBP, pot/NN, hole/NN] 	[Two/CD, men/NNS, are/VBP, digging/NN, holes/NNS, ./.] 	10
+[An/DT, old/JJ, woman/NN, is/VBZ, knitting/VBG, with/IN, blue/JJ, yarn/NN, ./.] 	[A/DT, woman/NN, is/VBZ, knitting/VBG, a/DT, sweater/NN, ./.] 	11
+[3/CD, men/NNS, are/VBP, outdoors/RB, working/VBG, ./.] 	[Two/CD, guys/NNS, are/VBP, working/VBG, outside/RB, ./.] 	12
+[A/DT, man/NN, is/VBZ, standing/VBG, still/RB, in/IN, the/DT, street/NN, ./.] 	[There/EX, 's/VBZ, a/DT, man/NN, on/IN, the/DT, street/NN, ./.] 	13
+[A/DT, woman/NN, is/VBZ, sitting/VBG, on/IN, cloth/NN, ./.] 	[A/DT, woman/NN, is/VBZ, sitting/VBG, in/IN, a/DT, white/JJ, couch/NN, ./.] 	14
+[A/DT, man/NN, with/IN, a/DT, red/JJ, flag/NN, with/IN, a/DT, bull/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, blue/JJ, hat/NN, is/VBZ, sitting/VBG, on/IN, a/DT, blue/JJ, boat/NN, ./.] 	15
+[The/DT, firefighters/NNS, were/VBD, the/DT, first/JJ, to/TO, arrive/VB, at/IN, the/DT, scene/NN, ./.] 	[Women/NNS, leave/VBP, the/DT, city/NN, in/IN, the/DT, morning/NN, ./.] 	16
+[People/NNS, are/VBP, in/IN, a/DT, hot/JJ, air/NN, balloon/NN, ./.] 	[Four/CD, people/NNS, in/IN, the/DT, hot/JJ, air/NN, balloon/NN, ./.] 	17
+[a/DT, young/JJ, girl/NN, and/CC, a/DT, person/NN, are/VBP, climbing/VBG, up/RP, a/DT, ladder/NN] 	[The/DT, young/JJ, girl/NN, jumps/VBZ, over/IN, a/DT, wide/JJ, staircase/NN, ./.] 	18
+[boy/NN, eats/VBZ, potato/NN] 	[Kid/NN, potato/NN, place/NN] 	19
+[Boy/NN, in/IN, trunks/NNS, on/IN, watery/JJ, pavements/NNS, while/IN, parents/NNS, look/VBP] 	[The/DT, person/NN, is/VBZ, scanning/VBG, the/DT, beautiful/JJ, yellow/JJ, hair/NN, in/IN, the/DT, bathroom/NN, ./.] 	20
+[People/NNS, are/VBP, walking/VBG, through/IN, a/DT, Christmas/NNP, themed/VBD, market/NN, ./.] 	[People/NNS, are/VBP, talking/VBG, at/IN, a/DT, restaurant/NN, ./.] 	21
+[The/DT, kids/NNS, are/VBP, sleep/NN, ./.] 	[The/DT, children/NNS, are/VBP, sleeping/VBG, ./.] 	22
+[A/DT, young/JJ, man/NN, is/VBZ, playing/VBG, and/CC, singing/NN, ./.] 	[A/DT, man/NN, is/VBZ, singing/NN, together/RB, with/IN, his/PRP$, band/NN, ./.] 	23
+[there/EX, is/VBZ, a/DT, worried/JJ, boy/NN, over/IN, there/EX] 	[The/DT, girl/NN, is/VBZ, about/IN, to/TO, get/VB, shot/VBN, ./.] 	24
+[A/DT, cowboy/NN, does/VBZ, n't/RB, wrangle/VB, the/DT, calf/NN, ./.] 	[Rodeoda/NNP, is/VBZ, a/DT, cowboy/NN, trying/VBG, to/TO, capture/VB, a/DT, counselor/NN, ./.] 	25
+[A/DT, man/NN, is/VBZ, running/VBG, down/RP, a/DT, sand/NN, covered/VBD, mountain/NN, ./.] 	[A/DT, man/NN, is/VBZ, walking/VBG, in/IN, the/DT, sand/NN, ./.] 	26
+[A/DT, skateboarder/NN, does/VBZ, a/DT, trick/NN, on/IN, concrete/NN, ./.] 	[A/DT, skateboarder/NN, makes/VBZ, a/DT, number/NN, on/IN, the/DT, ramp/NN, ./.] 	27
+[It/PRP, snowed/VBD, that/DT, day/NN, ./.] 	[The/DT, baby/NN, was/VBD, laid/VBN, for/IN, sleep/NN, after/IN, school/NN, ./.] 	28
+[man/NN, with/IN, microphone/NN, ,/,, hair/NN, in/IN, afro/NN, style/NN, ./.] 	[A/DT, man/NN, with/IN, black/JJ, hair/NN, plays/VBZ, an/DT, instrument/NN, ./.] 	29
+[A/DT, person/NN, got/VBD, in/IN, the/DT, way/NN, of/IN, the/DT, picture/NN, being/VBG, taken/VBN, by/IN, stretching/VBG, their/PRP$, green/JJ, hand/NN, out/RP, ./.] 	[The/DT, black/JJ, woman/NN, who/WP, is/VBZ, tired/VBN, of/IN, all/PDT, this/DT, falls/VBZ, down/RP, through/IN, the/DT, office/NN, doors/NNS, ./.] 	30
+[the/DT, little/JJ, girl/NN, swam/VBD, in/IN, the/DT, pool/NN] 	[A/DT, girl/NN, floats/VBZ, in/IN, the/DT, pool/NN, ./.] 	31
+[A/DT, black/JJ, dog/NN, jumps/VBZ, off/RP, the/DT, edge/NN, into/IN, the/DT, lake/NN, ./.] 	[A/DT, girl/NN, on/IN, the/DT, beach/NN, is/VBZ, jumping/VBG, into/IN, the/DT, air/NN, with/IN, a/DT, big/JJ, rock/NN, and/CC, a/DT, hand/NN, in/IN, the/DT, air/NN, ./.] 	32
+[a/DT, boy/NN, has/VBZ, blonde/JJ, hair/NN, ./.] 	[A/DT, child/NN, has/VBZ, blond/JJ, hair/NN, ./.] 	33
+[Two/CD, men/NNS, making/VBG, strange/JJ, faces/NNS, while/IN, they/PRP, drink/VBP, water/NN, ./.] 	[Two/CD, men/NNS, who/WP, make/VBP, funny/JJ, faces/NNS, while/IN, taking/VBG, alcohol/NN, ./.] 	34
+[There/EX, are/VBP, two/CD, people/NNS, in/IN, this/DT, picture/NN, ,/,, and/CC, they/PRP, are/VBP, both/DT, inside/RB, ./.] 	[There/EX, are/VBP, two/CD, people/NNS, in/IN, this/DT, photo/NN, and/CC, both/DT, are/VBP, outside/JJ, ./.] 	35
+[Someone/NN, walks/VBZ, on/IN, a/DT, wall/NN, ./.] 	[A/DT, woman/NN, is/VBZ, walking/VBG, down/RP, the/DT, street/NN, talking/VBG, on/IN, the/DT, phone/NN, ./.] 	36
+[a/DT, skateboarder/NN, is/VBZ, surfing/VBG, ./.] 	[The/DT, surfer/NN, is/VBZ, surfing/VBG, ./.] 	37
+[A/DT, person/NN, sits/VBZ, in/IN, a/DT, small/JJ, car/NN, ./.] 	[One/CD, person/NN, sits/VBZ, on/IN, a/DT, car/NN, ./.] 	38
+[They/PRP, are/VBP, stinky/JJ, ./.] 	[They/PRP, 're/VBP, eating/VBG, ./.] 	39
+[Both/DT, dogs/NNS, have/VBP, a/DT, red/JJ, toy/NN, ./.] 	[The/DT, boys/NNS, have/VBP, toy/NN, guns/NNS, and/CC, one/CD, has/VBZ, a/DT, stuffed/VBN, animal/NN, ./.] 	40
+[A/DT, couple/NN, men/NNS, are/VBP, swimming/VBG, for/IN, a/DT, long/JJ, time/NN, ./.] 	[A/DT, person/NN, floating/VBG, in/IN, the/DT, pool/NN, and/CC, talking/VBG, to/TO, someone/NN, ./.] 	41
+[A/DT, child/NN, is/VBZ, holding/VBG, a/DT, bunch/NN, of/IN, balloons/NNS, in/IN, front/NN, of/IN, their/PRP$, face/NN, ./.] 	[One/CD, person/NN, holds/VBZ, a/DT, photo/NN, in/IN, front/NN, of/IN, you/PRP, ./.] 	42
+[The/DT, grass/NN, is/VBZ, red/JJ, ./.] 	[The/DT, grass/NN, is/VBZ, green/JJ, ./.] 	43
+[A/DT, rock/NN, climber/NN, is/VBZ, falling/VBG, off/RB, of/IN, a/DT, mountain/NN, ./.] 	[A/DT, rock/NN, climber/NN, is/VBZ, jumping/VBG, off/RP, the/DT, mountain/NN, ./.] 	44
+[Two/CD, people/NNS, are/VBP, looking/VBG, into/IN, the/DT, water/NN, while/IN, a/DT, boat/NN, passes/VBZ, by/IN, ./.] 	[Two/CD, people/NNS, on/IN, a/DT, boat/NN, in/IN, the/DT, water/NN, ./.] 	45
+[The/DT, boat/NN, sails/VBZ, past/IN, the/DT, shore/NN, ./.] 	[The/DT, boat/NN, sails/VBZ, into/IN, the/DT, ocean/NN] 	46
+[The/DT, man/NN, is/VBZ, in/IN, a/DT, white/JJ, shirt/NN] 	[Man/NN, wearing/VBG, a/DT, black/JJ, t-shirt/NN] 	47
+[Dogs/NNS, playing/VBG, together/RB, ./.] 	[The/DT, dogs/NNS, play/VBP, together/RB, ./.] 	48
+[A/DT, man/NN, is/VBZ, riding/VBG, his/PRP$, bike/NN, inside/IN, ./.] 	[A/DT, man/NN, drives/VBZ, a/DT, bicycle/NN, and/CC, runs/VBZ, his/PRP$, dog/NN, ./.] 	49
+[The/DT, man/NN, is/VBZ, running/VBG, away/RB, from/IN, people/NNS, ./.] 	[A/DT, man/NN, is/VBZ, running/VBG, on/IN, the/DT, field/NN, to/TO, escape/VB, from/IN, angry/JJ, people/NNS, ./.] 	50
+[Four/CD, people/NNS, are/VBP, meeting/VBG, around/IN, table/NN, in/IN, a/DT, modern/JJ, decorated/VBN, room/NN, ./.] 	[A/DT, few/JJ, people/NNS, around/IN, a/DT, table/NN, in/IN, the/DT, dark/NN] 	51
+[A/DT, girl/NN, dressed/VBN, in/IN, blue/JJ, plays/NNS, outside/IN, on/IN, a/DT, nice/JJ, lawn/NN, ./.] 	[Three/CD, little/JJ, boys/NNS, playing/VBG, in/IN, the/DT, hall/NN, while/IN, watching/VBG, a/DT, man/NN, in/IN, a/DT, blue/JJ, shirt/NN, ./.] 	52
+[A/DT, dog/NN, gnawing/NN, on/IN, a/DT, camera/NN, strap/NN, ./.] 	[A/DT, dog/NN, running/VBG, with/IN, a/DT, stick/NN, in/IN, his/PRP$, mouth/NN] 	53
+[The/DT, young/JJ, female/NN, has/VBZ, a/DT, facial/JJ, expression/NN, ./.] 	[A/DT, woman/NN, has/VBZ, tattoos/NNS, ./.] 	54
+[A/DT, young/JJ, boy/NN, in/IN, a/DT, uniform/JJ, gets/VBZ, the/DT, ball/NN, from/IN, his/PRP$, rival/NN, ./.] 	[He/PRP, runs/VBZ, a/DT, basketball/NN, on/IN, a/DT, child/NN, 's/POS, hand/NN, ./.] 	55
+[A/DT, group/NN, of/IN, people/NNS, are/VBP, celebrating/VBG, a/DT, birthday/NN, by/IN, partying/VBG, ./.] 	[The/DT, group/NN, is/VBZ, celebrating/VBG, a/DT, birthday/NN, ./.] 	56
+[There/EX, are/VBP, numbers/NNS, written/VBN, on/IN, the/DT, stage/NN, ./.] 	[In/IN, this/DT, photo/NN, there/EX, are/VBP, a/DT, few/JJ, people/NNS, on/IN, a/DT, group/NN, of/IN, bicycles/NNS, ./.] 	57
+[The/DT, group/NN, of/IN, people/NNS, wait/VBP, to/TO, cross/VB, the/DT, road/NN, ./.] 	[People/NNS, are/VBP, waiting/VBG, to/TO, pass/VB, by/IN, ./.] 	58
+[The/DT, man/NN, is/VBZ, in/IN, a/DT, hospital/NN] 	[A/DT, girl/NN, is/VBZ, in/IN, a/DT, hospital/NN, ./.] 	59
+[The/DT, man/NN, is/VBZ, waiting/VBG, for/IN, his/PRP$, pizza/NN, to/TO, be/VB, delivered/VBN, ./.] 	[The/DT, man/NN, expects/VBZ, the/DT, pizza/NN, to/TO, be/VB, delivered/VBN, ./.] 	60
+[The/DT, boat/NN, has/VBZ, pink/JJ, yellow/JJ, and/CC, blue/JJ, sails/NNS, ./.] 	[The/DT, boat/NN, is/VBZ, yellow/JJ, ./.] 	61
+[a/DT, man/NN, on/IN, a/DT, surfboard/NN, holds/VBZ, a/DT, stick/NN] 	[A/DT, man/NN, holds/VBZ, a/DT, surfboard/NN, ./.] 	62
+[Two/CD, sister/NN, relax/VBP, by/IN, a/DT, pool/NN, ./.] 	[Two/CD, women/NNS, and/CC, one/CD, child/NN, stand/NN, on/IN, the/DT, shore/NN, ./.] 	63
+[There/EX, is/VBZ, a/DT, man/NN, wearing/VBG, clothes/NNS, ./.] 	[There/EX, is/VBZ, a/DT, person/NN, wearing/VBG, a/DT, scarf/NN, ./.] 	64
+[The/DT, dog/NN, is/VBZ, getting/VBG, some/DT, water/NN, in/IN, his/PRP$, face/NN, ./.] 	[The/DT, man/NN, is/VBZ, out/IN, of/IN, the/DT, water/NN] 	65
+[Some/DT, people/NNS, play/VBP, music/NN, at/IN, a/DT, concert/NN, ./.] 	[They/PRP, 're/VBP, at/IN, a/DT, music/NN, concert/NN, ./.] 	66
+[A/DT, man/NN, was/VBD, jumping/VBG, ./.] 	[The/DT, man/NN, is/VBZ, jumping/VBG, on/RP, another/DT, man/NN, ./.] 	67
+[A/DT, man/NN, dressed/VBN, as/IN, a/DT, clown/NN, riding/VBG, a/DT, bicycle/NN, in/IN, a/DT, race/NN, ./.] 	[A/DT, man/NN, dressed/VBN, in/IN, women/NNS, 's/POS, clothes/NNS, is/VBZ, riding/VBG, a/DT, bicycle/NN, ./.] 	68
+[A/DT, baseball/NN, player/NN, 's/POS, team/NN, is/VBZ, watching/VBG] 	[A/DT, football/NN, team/NN, is/VBZ, watching/VBG, baseball/NN, ./.] 	69
+[A/DT, group/NN, of/IN, boys/NNS, have/VBP, on/IN, green/JJ, and/CC, blue/JJ, ./.] 	[A/DT, student/NN, group/NN, playing/NN, in/IN, a/DT, band/NN, was/VBD, dressed/VBN, in/IN, white/JJ, ,/,, green/JJ, and/CC, gold/NN, ./.] 	70
+[A/DT, man/NN, reaches/VBZ, over/IN, a/DT, blue/JJ, carpet/NN, to/TO, grab/VB, a/DT, snake/NN, from/IN, the/DT, window/NN, sill/NN, ./.] 	[A/DT, yellow-eyed/JJ, person/NN, sits/VBZ, down/RP, on/IN, the/DT, edge/NN, of/IN, a/DT, rock/NN] 	71
+[A/DT, merchant/NN, does/VBZ, n't/RB, have/VB, any/DT, items/NNS, for/IN, sale/NN, ./.] 	[The/DT, man/NN, is/VBZ, trying/VBG, to/TO, sell/VB, some/DT, things/NNS, ./.] 	72
+[The/DT, grass/NN, is/VBZ, green/JJ, ./.] 	[The/DT, grass/NN, is/VBZ, red/JJ, ./.] 	73
+[The/DT, plants/NNS, are/VBP, dead/JJ] 	[The/DT, plants/NNS, are/VBP, dead/JJ, ./.] 	74
+[Someone/NN, is/VBZ, riding/VBG, a/DT, bike/NN, at/IN, night/NN, ./.] 	[One/CD, person/NN, bikes/NNS, at/IN, night/NN, ./.] 	75
+[The/DT, woman/NN, in/IN, gray/JJ, is/VBZ, outside/RB, ./.] 	[The/DT, woman/NN, is/VBZ, out/RP, in/IN, the/DT, dark/NN, ./.] 	76
+[The/DT, sleeping/VBG, child/NN, lies/VBZ, on/IN, a/DT, hospital/NN, bed/NN, ./.] 	[The/DT, child/NN, is/VBZ, sleeping/VBG, in/IN, bed/NN, ./.] 	77
+[There/EX, are/VBP, people/NNS, on/IN, the/DT, balcony/NN, ./.] 	[There/EX, are/VBP, people/NNS, on/IN, the/DT, balcony/NN, ./.] 	78
+[A/DT, man/NN, is/VBZ, walking/VBG, down/RP, the/DT, sidewalk/NN, in/IN, front/NN, of/IN, the/DT, colorful/JJ, building/NN, ./.] 	[A/DT, man/NN, sitting/VBG, alone/RB, in/IN, front/NN, of/IN, a/DT, colorful/JJ, building/NN, and/CC, a/DT, bridge/NN, ./.] 	79
+[A/DT, group/NN, of/IN, people/NNS, are/VBP, in/IN, suits/NNS, and/CC, dresses/NNS, ./.] 	[A/DT, group/NN, of/IN, women/NNS, are/VBP, wearing/VBG, suits/NNS, ./.] 	80
+[Two/CD, people/NNS, cut/VBD, some/DT, cake/NN, ./.] 	[Two/CD, people/NNS, who/WP, cut/VBD, a/DT, cake/NN, ./.] 	81
+[Child/NN, bicycle/NN, race/NN] 	[Children/NNS, participate/VBP, in/IN, cycling/NN] 	82
+[Skateboarder/NN, doing/VBG, a/DT, trick/NN, ./.] 	[A/DT, man/NN, who/WP, makes/VBZ, bicycle/NN, numbers/NNS, ./.] 	83
+[A/DT, child/NN, holds/VBZ, a/DT, kite/NN, and/CC, people/NNS, watch/VBP, ./.] 	[A/DT, man/NN, is/VBZ, making/VBG, balloon/NN, animals/NNS, for/IN, a/DT, small/JJ, children/NNS, 's/POS, group/NN, ./.] 	84
+[Laundry/NN, day/NN, for/IN, Mike/NNP, ./.] 	[Kitchen/NN, workers/NNS, are/VBP, preparing/VBG, for/IN, dinner/NN, tonight/NN, ./.] 	85
+[The/DT, people/NNS, are/VBP, conversing/VBG, about/IN, the/DT, weather/NN] 	[People/NNS, are/VBP, talking/VBG, about/IN, the/DT, weather/NN, ./.] 	86
+[a/DT, man/NN, stands/VBZ, in/IN, a/DT, white/JJ, ice/NN, cream/NN, truck/NN, ./.] 	[A/DT, man/NN, is/VBZ, standing/VBG, in/IN, an/DT, ice/NN, cream/NN, truck/NN, ./.] 	87
+[The/DT, men/NNS, are/VBP, doing/VBG, this/DT, for/IN, fun/NN, ./.] 	[The/DT, guys/NNS, are/VBP, having/VBG, fun/NN, ./.] 	88
+[Man/NN, shaving/VBG, with/IN, a/DT, Gillette/NNP, razor/NN, with/IN, a/DT, mirror/NN, ./.] 	[The/DT, man/NN, who/WP, stood/VBD, in/IN, front/NN, of/IN, the/DT, mirror/NN, and/CC, shaved/VBN, with/IN, a/DT, disposable/JJ, razor/NN, blade/NN, ./.] 	89
+[The/DT, large/JJ, bird/NN, is/VBZ, looking/VBG, for/IN, food/NN, ./.] 	[The/DT, man/NN, is/VBZ, now/RB, in/IN, a/DT, big/JJ, coral/NN, ./.] 	90
+[the/DT, band/NN, is/VBZ, eating/VBG] 	[The/DT, music/NN, group/NN, is/VBZ, sleeping/VBG, ./.] 	91
+[A/DT, dog/NN, ran/VBD, away/RB, from/IN, home/NN, and/CC, seems/VBZ, lost/VBN, out/RP, on/IN, the/DT, streets/NNS, ./.] 	[Children/NNS, escape/VBP, from/IN, a/DT, fire/NN, ./.] 	92
+[The/DT, little/JJ, boy/NN, is/VBZ, getting/VBG, dirty/JJ, while/IN, he/PRP, climbs/VBZ, on/IN, the/DT, tree/NN, limb/NN, ./.] 	[The/DT, little/JJ, girl/NN, runs/VBZ, away/RB, from/IN, the/DT, little/JJ, boy/NN, ./.] 	93
+[A/DT, child/NN, running/VBG, into/IN, his/PRP$, mother/NN, 's/POS, arms/NNS, ./.] 	[The/DT, man/NN, pushes/VBZ, the/DT, baby/NN, cart/NN, with/IN, his/PRP$, free/JJ, hand/NN, and/CC, carries/VBZ, her/PRP$, on/IN, the/DT, market/NN, ./.] 	94
+[A/DT, human/JJ, swims/VBZ, under/IN, the/DT, pool/NN, water/NN, ./.] 	[A/DT, swimming/VBG, pool/NN, is/VBZ, full/JJ, of/IN, water/NN, ./.] 	95
+[Nobody/NN, is/VBZ, shirtless/JJ, ./.] 	[Everyone/NN, has/VBZ, a/DT, shirt/NN, ./.] 	96
+[Two/CD, white/JJ, dogs/NNS, are/VBP, running/VBG, in/IN, a/DT, field/NN, with/IN, a/DT, horse/NN, in/IN, the/DT, background/NN, ./.] 	[Two/CD, dogs/NNS, are/VBP, fighting/VBG, for/IN, a/DT, rod/NN, in/IN, the/DT, grassy/JJ, field/NN, ,/,, there/EX, 's/VBZ, a/DT, lake/NN, in/IN, the/DT, back/NN, ./.] 	97
+[Hundreds/NNS, of/IN, people/NNS, are/VBP, gathered/VBN] 	[Some/DT, people/NNS, gathered/VBD, ./.] 	98
+[The/DT, men/NNS, on/IN, a/DT, roller/NN, coaster/NN, ./.] 	[Couple/NN, on/IN, a/DT, speed/NN, train/NN, ./.] 	99
+[This/DT, waffle/NN, will/MD, be/VB, delicious/JJ, ./.] 	[This/DT, restaurant/NN, does/VBZ, not/RB, serve/VB, food/NN, ./.] 	100
+[A/DT, Houston/NNP, baseball/NN, player/NN, has/VBZ, caught/VBN, a/DT, ball/NN, and/CC, is/VBZ, now/RB, throwing/VBG, the/DT, ball/NN, towards/IN, another/DT, team/NN, member/NN, ./.] 	[A/DT, baseball/NN, player/NN, runs/VBZ, as/IN, a/DT, member/NN, of/IN, the/DT, opposing/VBG, team/NN, lengthens/VBZ, to/TO, catch/VB, the/DT, ball/NN, ./.] 	101
+[The/DT, crowd/NN, cheers/NNS, on/IN, the/DT, breakdancer/NN, as/IN, he/PRP, shows/VBZ, off/RP, his/PRP$, dance/NN, moves/NNS, ./.] 	[The/DT, group/NN, gives/VBZ, a/DT, concert/NN, while/IN, the/DT, crowd/NN, cheers/NNS, at/IN, them/PRP, ./.] 	102
+[A/DT, man/NN, next/JJ, to/TO, a/DT, police/NN, officer/NN, is/VBZ, walking/VBG, away/RB, from/IN, another/DT, man/NN, ./.] 	[A/DT, man/NN, is/VBZ, carrying/VBG, two/CD, grocery/NN, bags/NNS, ,/,, a/DT, sign/NN, of/IN, a/DT, funny/JJ, man/NN, near/IN, his/PRP$, armpit/NN, ./.] 	103
+[A/DT, child/NN, is/VBZ, in/IN, the/DT, middle/NN, of/IN, a/DT, crowd/NN, with/IN, their/PRP$, hands/NNS, raised/VBN, ./.] 	[A/DT, woman/NN, and/CC, a/DT, man/NN, are/VBP, in/IN, the/DT, middle/NN, of/IN, the/DT, crowd/NN, ./.] 	104
+[Someone/NN, is/VBZ, doing/VBG, something/NN, athletic/JJ, while/IN, gesturing/VBG, ./.] 	[One/CD, person/NN, is/VBZ, rapping/VBG, while/IN, someone/NN, else/RB, is/VBZ, looking/VBG, at/IN, it/PRP, ./.] 	105
+[A/DT, woman/NN, in/IN, a/DT, pink/JJ, shirt/NN, examines/VBZ, her/PRP$, camera/NN, ./.] 	[She/PRP, looks/VBZ, at/IN, a/DT, woman/NN, with/IN, a/DT, black/JJ, shirt/NN, ./.] 	106
+[He/PRP, is/VBZ, lost/VBN, and/CC, not/RB, aware/JJ, of/IN, what/WP, he/PRP, 's/VBZ, doing/VBG, ./.] 	[The/DT, man/NN, feels/VBZ, that/IN, he/PRP, will/MD, get/VB, a/DT, better/JJR, idea/NN, of/IN, how/WRB, his/PRP$, hat/NN, will/MD, stop/VB, from/IN, above/RB, ./.] 	107
+[the/DT, boy/NN, jump/NN, kicks/VBZ, off/RP, the/DT, dock/NN] 	[A/DT, child/NN, 's/POS, splash/NN, falls/VBZ, down/RP, the/DT, pond/NN, ./.] 	108
+[A/DT, male/JJ, athlete/NN, falls/VBZ, after/IN, jumping/VBG, a/DT, hurdle/NN, ,/,, into/IN, water/NN, ,/,, while/IN, people/NNS, take/VBP, pictures/NNS, ./.] 	[Three/CD, boys/NNS, sit/VBP, in/IN, a/DT, public/JJ, place/NN, and/CC, make/VB, jumping/VBG, moves/NNS, while/IN, watching/VBG, them/PRP, ./.] 	109
+[An/DT, older/JJR, man/NN, in/IN, a/DT, dark/JJ, shirt/NN, is/VBZ, resting/VBG, his/PRP$, chin/NN, on/IN, his/PRP$, hand/NN, while/IN, writing/VBG, on/IN, a/DT, newspaper/NN, ./.] 	[A/DT, boy/NN, with/IN, a/DT, letter/NN, in/IN, his/PRP$, hand/NN, is/VBZ, standing/VBG, in/IN, the/DT, store/NN, ./.] 	110
+[People/NNS, are/VBP, sitting/VBG, on/IN, a/DT, park/NN, bench/NN, while/IN, there/EX, are/VBP, 3/CD, pictures/NNS, visible/JJ, in/IN, the/DT, foreground/NN, ./.] 	[Three/CD, people/NNS, are/VBP, sitting/VBG, on/IN, the/DT, edge/NN, ./.] 	111
+[A/DT, large/JJ, chorus/NN, erupts/VBZ, ./.] 	[A/DT, huge/JJ, crowd/NN, is/VBZ, dancing/VBG, crazy/JJ, in/IN, front/NN, of/IN, a/DT, heavy/JJ, rock/NN, band/NN, ./.] 	112
+[Two/CD, police/NN, talk/NN, together/RB, in/IN, the/DT, middle/NN, of/IN, the/DT, road/NN, ./.] 	[The/DT, two/CD, girls/NNS, are/VBP, not/RB, in/IN, the/DT, middle/NN, of/IN, the/DT, road/NN, ./.] 	113
+[Two/CD, men/NNS, are/VBP, using/VBG, shovels/NNS, to/TO, dig/VB, ./.] 	[Two/CD, men/NNS, are/VBP, using/VBG, hand/NN, shovels/NNS, to/TO, dig/VB, ./.] 	114
+[Several/JJ, people/NNS, are/VBP, standing/VBG, in/IN, front/NN, of/IN, a/DT, stadium/NN, ./.] 	[Two/CD, people/NNS, are/VBP, in/IN, front/NN, of/IN, a/DT, crowd/NN, ./.] 	115
+[The/DT, man/NN, is/VBZ, sitting/VBG, in/IN, the/DT, park/NN, ./.] 	[The/DT, woman/NN, rests/VBZ, in/IN, the/DT, park/NN, ./.] 	116
+[A/DT, woman/NN, and/CC, man/NN, on/IN, a/DT, bench/NN, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, sitting/VBG, in/IN, a/DT, bank/NN, ./.] 	117
+[A/DT, couple/NN, walks/VBZ, through/IN, the/DT, rain/NN, with/IN, their/PRP$, child/NN, holding/VBG, umbrellas/NNS, ./.] 	[Two/CD, girls/NNS, who/WP, walk/VBP, their/PRP$, way/NN, through/IN, the/DT, fountains/NNS, ./.] 	118
+[People/NNS, have/VBP, gathered/VBN, to/TO, watch/VB, an/DT, event/NN, ./.] 	[People/NNS, were/VBD, gathered/VBN, to/TO, watch/VB, a/DT, concert/NN, ./.] 	119
+[The/DT, girl/NN, in/IN, purple/JJ, is/VBZ, followed/VBN, by/IN, the/DT, girl/NN, in/IN, pink/NN] 	[Purple/NNP, sister/NN, ,/,, sister/NN, of/IN, red-eyed/JJ, sister/NN, ./.] 	120
+[A/DT, tall/JJ, person/NN, in/IN, midair/NN, ./.] 	[A/DT, person/NN, with/IN, a/DT, fancy/JJ, face/NN, is/VBZ, in/IN, the/DT, air/NN, ./.] 	121
+[Adults/NNS, are/VBP, watching/VBG, their/PRP$, children/NNS, play/VBP, ./.] 	[The/DT, three/CD, girls/NNS, are/VBP, looking/VBG, up/RP, ./.] 	122
+[Two/CD, girls/NNS, are/VBP, crying/VBG, because/IN, a/DT, boy/NN, kicked/VBD, them/PRP, in/IN, the/DT, shin/NN, ./.] 	[The/DT, boy/NN, and/CC, the/DT, girl/NN, are/VBP, holding/VBG, hands/NNS, ./.] 	123
+[A/DT, man/NN, bikes/NNS, down/IN, the/DT, street/NN, ./.] 	[A/DT, man/NN, drives/NNS, down/IN, the/DT, street/NN, ./.] 	124
+[The/DT, diver/NN, is/VBZ, in/IN, the/DT, ocean/NN, ./.] 	[The/DT, man/NN, is/VBZ, swimming/VBG, in/IN, the/DT, middle/NN, of/IN, the/DT, ocean/NN, in/IN, the/DT, North/NNP, Sea/NNP, ./.] 	125
+[People/NNS, watching/VBG, an/DT, interesting/JJ, thing/NN, ./.] 	[Three/CD, people/NNS, watch/VBP, a/DT, man/NN, doing/VBG, something/NN, ./.] 	126
+[People/NNS, are/VBP, sleeping/VBG, inside/RB, ./.] 	[People/NNS, are/VBP, sleeping/VBG, inside/RB, ./.] 	127
+[There/EX, are/VBP, a/DT, lot/NN, of/IN, people/NNS, riding/VBG, bikes/NNS, ./.] 	[Some/DT, people/NNS, walk/VBP, ,/,, sit/VBP, or/CC, bike/NN, ./.] 	128
+[A/DT, man/NN, is/VBZ, helping/VBG, a/DT, lady/NN, put/VBD, her/PRP$, goods/NNS, in/IN, baskets/NNS, ./.] 	[A/DT, young/JJ, man/NN, sells/VBZ, cookies/NNS, with/IN, the/DT, help/NN, of/IN, his/PRP$, wife/NN, at/IN, the/DT, farmer/NN, 's/POS, market/NN, ./.] 	129
+[A/DT, woman/NN, who/WP, is/VBZ, wearing/VBG, a/DT, vest/NN, is/VBZ, on/IN, a/DT, subway/NN, ./.] 	[A/DT, man/NN, wearing/VBG, a/DT, vest/NN, is/VBZ, on/IN, a/DT, subway/NN, ./.] 	130
+[A/DT, boy/NN, is/VBZ, swimming/VBG, in/IN, the/DT, ocean/NN, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	[A/DT, man/NN, who/WP, surfs/VBZ, the/DT, ocean/NN, in/IN, a/DT, sunny/JJ, day/NN, ./.] 	131
+[A/DT, man/NN, is/VBZ, in/IN, his/PRP$, pajamas/NNS, watching/VBG, TV/NN, ./.] 	[A/DT, man/NN, is/VBZ, sitting/VBG, in/IN, his/PRP$, chair/NN, and/CC, watching/VBG, television/NN, ./.] 	132
+[Two/CD, children/NNS, read/VBN, in/IN, bed/NN, ./.] 	[Mother/NN, and/CC, three/CD, children/NNS, sleep/VB, at/IN, home/NN, ./.] 	133
+[A/DT, bar/NN, with/IN, signs/NNS, advertising/VBG, beers/NNS, such/JJ, as/IN, Bud/NNP, Light/NNP, and/CC, Corona/NNP, ./.] 	[The/DT, name/NN, of/IN, the/DT, brown/JJ, beer/NN, bottle/NN, is/VBZ, Winter/NNP, Hook/NNP, ./.] 	134
+[the/DT, woman/NN, holds/VBZ, something/NN] 	[The/DT, man/NN, holds/VBZ, something/NN, ./.] 	135
+[Three/CD, people/NNS, play/VBP, cards/NNS, ./.] 	[Some/DT, people/NNS, are/VBP, playing/VBG, a/DT, card/NN, game/NN, ./.] 	136
+[A/DT, hiker/NN, is/VBZ, on/IN, the/DT, bottom/NN, of/IN, a/DT, hillside/NN, ./.] 	[A/DT, man/NN, climbs/VBZ, to/TO, the/DT, side/NN, of/IN, the/DT, mountain/NN, ./.] 	137
+[A/DT, young/JJ, man/NN, works/VBZ, for/IN, a/DT, museum/NN, ./.] 	[A/DT, young/JJ, man/NN, and/CC, woman/NN, are/VBP, in/IN, a/DT, museum/NN, ./.] 	138
+[A/DT, teenage/JJ, boy/NN, jumps/VBZ, into/IN, a/DT, pool/NN, in/IN, a/DT, tropical/JJ, locale/NN, ./.] 	[A/DT, girl/NN, dives/VBZ, into/IN, the/DT, pool/NN, ./.] 	139
+[Two/CD, men/NNS, sitting/VBG, in/IN, a/DT, doorway/NN, working/VBG, on/IN, something/NN, ./.] 	[Two/CD, men/NNS, standing/VBG, on/IN, a/DT, wooden/JJ, patio/NN, looking/VBG, at/IN, a/DT, woman/NN, in/IN, a/DT, dress/NN, talking/VBG, to/TO, them/PRP, ./.] 	140
+[James/NNP, likes/VBZ, to/TO, pray/VB, in/IN, church/NN, ./.] 	[Father/NNP, and/CC, son/NN, in/IN, church/NN, ./.] 	141
+[A/DT, man/NN, is/VBZ, surfing/VBG, in/IN, the/DT, Atlantic/NNP, Ocean/NNP, ./.] 	[A/DT, person/NN, surfing/VBG, the/DT, ocean/NN, ./.] 	142
+[The/DT, men/NNS, shoveled/VBD, the/DT, snow/NN, ./.] 	[The/DT, men/NNS, shoveled/VBD, it/PRP, ./.] 	143
+[The/DT, man/NN, is/VBZ, riding/VBG, a/DT, hover/JJR, board/NN, through/IN, the/DT, streets/NNS, ./.] 	[The/DT, guy/NN, in/IN, the/DT, bike/NN, rides/NNS, on/IN, the/DT, street/NN, ./.] 	144
+[The/DT, mosaic/JJ, workers/NNS, were/VBD, commissioned/VBN, to/TO, design/VB, the/DT, tile/NN, floor/NN, ./.] 	[The/DT, two/CD, white/JJ, mosaic/JJ, worker/NN, work/NN, on/IN, a/DT, detailed/JJ, tiled/JJ, floor/NN, ./.] 	145
+[There/EX, is/VBZ, a/DT, man/NN, wearing/VBG, a/DT, shirt/NN, ./.] 	[There/EX, 's/VBZ, a/DT, man/NN, wearing/VBG, a/DT, blue/JJ, shirt/NN, ./.] 	146
+[Two/CD, police/NN, officers/NNS, on/IN, scooters/NNS, turn/VBP, back/RP, towards/IN, the/DT, camera/NN, ./.] 	[The/DT, two/CD, horseman/NN, police/NN, officers/NNS, are/VBP, moving/VBG, down/RP, the/DT, street/NN, ./.] 	147
+[A/DT, teacher/NN, 's/POS, assistant/JJ, grades/NNS, papers/NNS, in/IN, a/DT, coffee/NN, shop/NN, ./.] 	[The/DT, man/NN, works/VBZ, in/IN, a/DT, store/NN, ./.] 	148
+[The/DT, big/JJ, dog/NN, is/VBZ, chasing/VBG, a/DT, ball/NN, ./.] 	[The/DT, little/JJ, dog/NN, is/VBZ, chasing/VBG, a/DT, ball/NN, ./.] 	149
+[The/DT, man/NN, is/VBZ, holding/VBG, a/DT, tube/NN, ./.] 	[The/DT, man/NN, holds/VBZ, the/DT, microphone/NN, for/IN, the/DT, woman/NN, ./.] 	150
+[A/DT, clown/NN, is/VBZ, preparing/VBG, to/TO, do/VB, surgery/NN, ./.] 	[A/DT, baby/NN, is/VBZ, having/VBG, a/DT, good/JJ, time/NN, ./.] 	151
+[The/DT, man/NN, in/IN, a/DT, green/JJ, shirt/NN, is/VBZ, waiting/VBG, for/IN, them/PRP, to/TO, deliver/VB, his/PRP$, brush/NN, shredding/NN, machine/NN, ./.] 	[A/DT, red-haired/JJ, man/NN, protects/VBZ, himself/PRP, from/IN, the/DT, sun/NN, while/IN, trying/VBG, to/TO, read/VB, a/DT, piece/NN, of/IN, paper/NN, ./.] 	152
+[A/DT, man/NN, wearing/VBG, a/DT, pink/JJ, shirt/NN, is/VBZ, riding/VBG, the/DT, subway/NN, ./.] 	[The/DT, guy/NN, in/IN, the/DT, line/NN, is/VBZ, wearing/VBG, a/DT, blue/JJ, shirt/NN] 	153
+[Two/CD, dogs/NNS, ,/,, one/CD, holding/VBG, a/DT, ball/NN, ./.] 	[Two/CD, dogs/NNS, and/CC, a/DT, ball/NN, ./.] 	154
+[The/DT, older/JJR, woman/NN, is/VBZ, feeding/VBG, oranges/NNS, to/TO, the/DT, man/NN, ./.] 	[A/DT, woman/NN, and/CC, a/DT, boy/NN, are/VBP, in/IN, the/DT, water/NN, ./.] 	155
+[Three/CD, kids/NNS, sit/VBP, and/CC, listen/VBP, to/TO, a/DT, librarian/NN, read/VBD, a/DT, story/NN, ./.] 	[Children/NNS, sit/VBP, down/RB, and/CC, listen/VB, to/TO, a/DT, story/NN, ./.] 	156
+[A/DT, guy/NN, in/IN, a/DT, white/JJ, shirt/NN, is/VBZ, holding/VBG, some/DT, wires/NNS, ,/,, and/CC, tools/NNS, ./.] 	[A/DT, man/NN, in/IN, a/DT, white/JJ, shirt/NN, is/VBZ, holding/VBG, a/DT, few/JJ, wires/NNS, ./.] 	157
+[There/EX, is/VBZ, a/DT, man/NN, in/IN, a/DT, beret/NN, and/CC, a/DT, woman/NN, in/IN, a/DT, pink/JJ, coat/NN, ./.] 	[There/EX, 's/VBZ, a/DT, black/JJ, man/NN, with/IN, a/DT, black/JJ, hat/NN, ./.] 	158
+[A/DT, group/NN, of/IN, people/NNS, cheering/VBG, for/IN, a/DT, statue/NN, of/IN, Barack/NNP, obama/NNP] 	[People/NNS, are/VBP, holding/VBG, a/DT, crest/NN] 	159
+[A/DT, woman/NN, sitting/VBG, in/IN, a/DT, pool/NN, holding/VBG, a/DT, martini/NN, with/IN, a/DT, baby/NN, laying/VBG, next/JJ, to/TO, her/PRP, ./.] 	[A/DT, picnic/NN, table/NN, where/WRB, a/DT, woman/NN, is/VBZ, sitting/VBG, and/CC, has/VBZ, a/DT, baby/NN, carriage/NN, next/JJ, to/TO, her/PRP, ./.] 	160
+[The/DT, dogs/NNS, are/VBP, walking/VBG, ./.] 	[The/DT, dogs/NNS, are/VBP, sitting/VBG, ./.] 	161
+[There/EX, are/VBP, boys/NNS, outdoors/RB, ./.] 	[There/EX, are/VBP, girls/NNS, out/IN, there/RB, ./.] 	162
+[A/DT, group/NN, of/IN, ladies/NNS, in/IN, the/DT, cold/JJ, cheer/NN, with/IN, American/JJ, flags/NNS, ./.] 	[During/IN, the/DT, parade/NN, ,/,, a/DT, group/NN, of/IN, red/JJ, and/CC, white/JJ, cheerleaders/NNS, kept/VBD, morimizen/RB, high/JJ, ./.] 	163
+[A/DT, group/NN, of/IN, male/NN, and/CC, female/JJ, cheerleaders/NNS, are/VBP, outside/JJ, cheering/VBG, for/IN, the/DT, football/NN, team/NN, ./.] 	[A/DT, young/JJ, group/NN, of/IN, friends/NNS, is/VBZ, cheering/VBG, on/IN, the/DT, football/NN, team/NN, ./.] 	164
+[A/DT, couple/NN, attempting/VBG, to/TO, establish/VB, telephone/NN, communications/NNS, ./.] 	[One/CD, person/NN, is/VBZ, checking/VBG, his/PRP$, e-mail/NN, on/IN, a/DT, charged/VBN, mobile/JJ, phone/NN, ./.] 	165
+[A/DT, bird/NN, flying/VBG, over/IN, a/DT, desert/NN, ./.] 	[A/DT, bunch/NN, of/IN, goose/NN, landing/NN, in/IN, a/DT, field/NN, ./.] 	166
+[A/DT, white/JJ, dog/NN, and/CC, a/DT, brown/JJ, dog/NN, running/VBG, across/IN, a/DT, grassy/JJ, field/NN, ./.] 	[A/DT, black/JJ, dog/NN, running/VBG, on/IN, a/DT, grassy/JJ, field/NN, and/CC, a/DT, white/JJ, and/CC, brown/JJ, dog/NN] 	167
+[A/DT, man/NN, is/VBZ, playing/VBG, a/DT, game/NN, on/IN, his/PRP$, laptop/NN, ./.] 	[A/DT, young/JJ, boy/NN, makes/VBZ, a/DT, hundred/CD, words/NNS, while/IN, playing/VBG, in/IN, a/DT, game/NN, console/NN, ./.] 	168
+[Young/JJ, man/NN, attempts/NNS, to/TO, repair/VB, wiring/NN, job/NN, ./.] 	[A/DT, man/NN, is/VBZ, trying/VBG, to/TO, repair/VB, his/PRP$, computers/NNS, ./.] 	169
+[A/DT, statue/NN, with/IN, with/IN, a/DT, bit/NN, of/IN, wear/NN, ./.] 	[A/DT, man/NN, wearing/VBG, a/DT, black/JJ, hat/NN, and/CC, wearing/VBG, glasses/NNS, is/VBZ, looking/VBG, at/IN, an/DT, object/NN, in/IN, his/PRP$, hand/NN, ./.] 	170
+[Man/NN, riding/VBG, a/DT, bicycle/NN, in/IN, New/NNP, York/NNP] 	[The/DT, man/NN, who/WP, rides/NNS, in/IN, New/NNP, York/NNP, ./.] 	171
+[A/DT, man/NN, in/IN, a/DT, brown/JJ, hat/NN, is/VBZ, helping/VBG, a/DT, man/NN, with/IN, no/DT, hair/NN, up/IN, off/IN, the/DT, ground/NN, ./.] 	[A/DT, large/JJ, man/NN, in/IN, a/DT, jacket/NN, and/CC, hat/NN, is/VBZ, holding/VBG, something/NN, toward/IN, his/PRP$, ear/NN, ./.] 	172
+[The/DT, man/NN, jumps/VBZ, on/IN, the/DT, ground/NN, and/CC, dances/NNS, ./.] 	[Adam/NNP, is/VBZ, dancing/VBG, on/IN, the/DT, floor/NN] 	173
+[A/DT, man/NN, is/VBZ, sleeping/VBG, and/CC, a/DT, clown/NN, is/VBZ, in/IN, front/NN, of/IN, him/PRP, ./.] 	[There/EX, is/VBZ, a/DT, girl/NN, in/IN, front/NN, of/IN, a/DT, man/NN, ./.] 	174
+[Two/CD, bicyclists/NNS, are/VBP, running/VBG, over/IN, a/DT, hill/NN, while/IN, carrying/VBG, their/PRP$, bicycles/NNS, ./.] 	[The/DT, men/NNS, are/VBP, dirt/NN, roads/NNS, with/IN, small/JJ, motorcycles/NNS, ./.] 	175
+[Men/NNS, are/VBP, hiking/VBG, a/DT, mountain/NN, ./.] 	[Two/CD, people/NNS, walking/VBG, near/IN, a/DT, waterfall/NN, ./.] 	176
+[The/DT, sad/JJ, lady/NN, in/IN, the/DT, blue/JJ, shirt/NN, is/VBZ, waiting/VBG, to/TO, cross/VB, the/DT, busy/JJ, street/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, blue/JJ, shirt/NN, is/VBZ, waiting/VBG, to/TO, cross/VB, the/DT, crowded/JJ, street/NN, ./.] 	177
+[Some/DT, people/NNS, are/VBP, in/IN, an/DT, inflatable/JJ, raft/NN, ./.] 	[There/EX, are/VBP, some/DT, people/NNS, on/IN, the/DT, raft/NN, ./.] 	178
+[Friends/NNS, are/VBP, partying/VBG, with/IN, e/SYM, new/JJ, band/NN] 	[The/DT, two/CD, boys/NNS, smile/VBP, while/IN, talking/VBG, to/TO, their/PRP$, fathers/NNS, with/IN, video/NN, ./.] 	179
+[A/DT, man/NN, is/VBZ, sitting/VBG, at/IN, a/DT, table/NN, while/IN, playing/VBG, poker/NN, ./.] 	[A/DT, woman/NN, is/VBZ, sitting/VBG, in/IN, the/DT, casino/NN, at/IN, the/DT, desk/NN, and/CC, playing/VBG, twenty-one/CD, ./.] 	180
+[A/DT, young/JJ, boy/NN, brushes/NNS, the/DT, teeth/NNS, of/IN, a/DT, fake/JJ, alligator/NN, ./.] 	[It/PRP, 's/VBZ, a/DT, kid/NN, who/WP, 's/VBZ, holding/VBG, onto/IN, a/DT, fake/JJ, crocodile/NN, 's/POS, tail/NN, ./.] 	181
+[An/DT, old/JJ, woman/NN, is/VBZ, walking/VBG, by/IN, a/DT, building/NN, with/IN, graffiti/NN, on/IN, it/PRP, ./.] 	[A/DT, woman/NN, is/VBZ, walking/VBG, near/IN, a/DT, building/NN, ./.] 	182
+[boy/NN, scouts/NNS, play/VBP, a/DT, game/NN] 	[A/DT, boy/NN, is/VBZ, playing/VBG, baseball/NN] 	183
+[the/DT, old/JJ, man/NN, is/VBZ, thinking/VBG, hard/JJ] 	[An/DT, old/JJ, man/NN, is/VBZ, cutting/VBG, something/NN, ./.] 	184
+[three/CD, sports/NNS, persons/NNS, posing/VBG, for/IN, the/DT, photo/NN] 	[Three/CD, athletes/NNS, posing/VBG, for/IN, photo/NN] 	185
+[A/DT, vehicle/NN, is/VBZ, parked/VBN, ./.] 	[He/PRP, parked/VBD, a/DT, car/NN, outside/NN, ./.] 	186
+[a/DT, group/NN, of/IN, rabbits/NNS, eat/VBP, carrots/NNS] 	[A/DT, group/NN, of/IN, dogs/NNS, lettuce/NN] 	187
+[A/DT, group/NN, of/IN, musicians/NNS, perform/VBP, in/IN, front/NN, of/IN, six/CD, people/NNS, ./.] 	[The/DT, whole/JJ, group/NN, is/VBZ, dancing/VBG, in/IN, a/DT, bar/NN] 	188
+[A/DT, line/NN, of/IN, spectators/NNS, are/VBP, betting/VBG, on/IN, the/DT, race/NN, ./.] 	[The/DT, two/CD, runners/NNS, are/VBP, tired/VBN, at/IN, the/DT, end/NN, of/IN, a/DT, runway/NN, race/NN, ./.] 	189
+[There/EX, is/VBZ, a/DT, person/NN, ready/JJ, to/TO, compete/VB, in/IN, a/DT, swimming/NN, competition/NN, ./.] 	[A/DT, man/NN, is/VBZ, swimming/VBG, alone/RB, in/IN, a/DT, private/JJ, pool/NN, ./.] 	190
+[A/DT, boy/NN, throwing/VBG, a/DT, yellow/JJ, baseball/NN, ./.] 	[A/DT, boy/NN, with/IN, a/DT, baseball/NN, bat/NN, ,/,, shouting/VBG, ./.] 	191
+[Two/CD, men/NNS, are/VBP, playing/VBG, pool/NN, for/IN, money/NN, ./.] 	[Three/CD, guys/NNS, are/VBP, having/VBG, fun/NN, in/IN, the/DT, pool/NN, ./.] 	192
+[A/DT, child/NN, is/VBZ, holding/VBG, a/DT, trident/NN, ./.] 	[A/DT, child/NN, is/VBZ, holding/VBG, a/DT, gun/NN, ./.] 	193
+[a/DT, young/JJ, man/NN, wearing/VBG, a/DT, blue/JJ, shirt/NN, with/IN, a/DT, strange/JJ, white/JJ, building/NN, in/IN, the/DT, background/NN] 	[A/DT, young/JJ, woman/NN, wearing/VBG, a/DT, blue/JJ, shirt/NN, is/VBZ, holding/VBG, a/DT, green/JJ, object/NN, next/IN, to/TO, her/PRP$, desk/NN, in/IN, her/PRP$, home/NN, ./.] 	194
+[workers/NNS, tend/VBP, to/TO, a/DT, transit/NN, stop/NN] 	[People/NNS, expect/VBP, a/DT, train/NN, to/TO, come/VB, ./.] 	195
+[A/DT, boy/NN, is/VBZ, in/IN, a/DT, tree/NN, ./.] 	[A/DT, child/NN, in/IN, the/DT, tree/NN, ./.] 	196
+[A/DT, man/NN, is/VBZ, reading/VBG, a/DT, news/NN, article/NN, ./.] 	[A/DT, woman/NN, is/VBZ, reading/VBG, a/DT, newspaper/NN, ./.] 	197
+[Working/VBG, all/DT, night/NN, ./.] 	[The/DT, three/CD, dogs/NNS, are/VBP, each/DT, other/JJ, 's/POS, best/JJS, friends/NNS, and/CC, they/PRP, run/VBP, and/CC, play/VBP, together/RB, every/DT, day/NN, ./.] 	198
+[Women/NNS, in/IN, a/DT, sewing/NN, factory/NN, with/IN, red/JJ, fabric/NN, ./.] 	[Two/CD, women/NNS, are/VBP, wearing/VBG, clothes/NNS, in/IN, the/DT, factory/NN, ./.] 	199
+[An/DT, Asian/JJ, woman/NN, waiting/VBG, for/IN, the/DT, show/NN, to/TO, begin/VB, ./.] 	[People/NNS, are/VBP, expecting/VBG, for/IN, the/DT, show/NN, ./.] 	200
+[A/DT, man/NN, is/VBZ, standing/VBG, on/IN, the/DT, rocky/JJ, ground/NN, in/IN, front/NN, of/IN, the/DT, mountain/NN, ./.] 	[The/DT, man/NN, stands/VBZ, in/IN, front/NN, of/IN, the/DT, ocean/NN, ./.] 	201
+[A/DT, woman/NN, on/IN, a/DT, beach/NN, at/IN, sunset/NN, is/VBZ, suspended/VBN, in/IN, the/DT, air/NN, ./.] 	[A/DT, boy/NN, was/VBD, thrown/VBN, into/IN, the/DT, air/NN, on/IN, the/DT, beach/NN, ./.] 	202
+[kayaker/NN, feel/VBP, happy/JJ] 	[Nobody/NN, cries/VBZ] 	203
+[The/DT, old/JJ, man/NN, and/CC, the/DT, sea/NN, are/VBP, part/NN, of/IN, this/DT, scene/NN, ./.] 	[The/DT, man/NN, and/CC, the/DT, boy/NN, are/VBP, standing/VBG, in/IN, the/DT, grass/NN, ./.] 	204
+[People/NNS, and/CC, a/DT, dresser/NN, are/VBP, waiting/VBG, at/IN, a/DT, bus/NN, stop/NN, in/IN, front/NN, of/IN, a/DT, brick/NN, building/NN, ./.] 	[A/DT, red/JJ, brick/NN, building/NN, on/IN, a/DT, street/NN, with/IN, very/RB, few/JJ, people/NNS, and/CC, a/DT, bicycle/NN, next/JJ, to/TO, its/PRP$, door/NN, ./.] 	205
+[The/DT, surfers/NNS, are/VBP, wearing/VBG, wetsuits/NNS, ./.] 	[They/PRP, 're/VBP, wearing/VBG, shorts/NNS, ./.] 	206
+[A/DT, couple/NN, of/IN, men/NNS, are/VBP, sailing/VBG, a/DT, boat/NN, ./.] 	[A/DT, few/JJ, boys/NNS, are/VBP, pulling/VBG, their/PRP$, shovels/NNS, ./.] 	207
+[The/DT, people/NNS, are/VBP, really/RB, aliens/NNS, ./.] 	[People/NNS, are/VBP, looking/VBG, for/IN, something/NN, ./.] 	208
+[The/DT, man/NN, is/VBZ, sleeping/VBG, during/IN, his/PRP$, job/NN] 	[A/DT, man/NN, who/WP, is/VBZ, resting/VBG, after/IN, the/DT, stomach/NN, ./.] 	209
+[the/DT, train/NN, tracks/NNS, are/VBP, broken/VBN] 	[Train/NN, rail/NN, is/VBZ, wood/NN, ./.] 	210
+[A/DT, blond/JJ, woman/NN, with/IN, a/DT, pink/JJ, shirt/NN, and/CC, black/JJ, leather/NN, pants/NNS, holds/VBZ, a/DT, camera/NN, on/IN, a/DT, running/VBG, track/NN, ./.] 	[A/DT, man/NN, wearing/VBG, a/DT, black/JJ, jacket/NN, and/CC, jeans/NNS, that/WDT, set/VBD, up/RP, the/DT, scene/NN, ./.] 	211
+[A/DT, baby/NN, crawling/VBG, all/DT, over/IN, their/PRP$, father/NN, excitedly/RB, ./.] 	[The/DT, two/CD, children/NNS, bring/VBP, their/PRP$, hands/NNS, together/RB, and/CC, pass/VB, under/IN, another/DT, child/NN, 's/POS, hands/NNS, ./.] 	212
+[A/DT, snowboarder/NN, in/IN, green/JJ, grinds/VBZ, along/IN, the/DT, edge/NN, of/IN, a/DT, rail/NN, at/IN, night/NN, ./.] 	[It/PRP, 's/VBZ, in/IN, the/DT, air/NN, after/IN, a/DT, man/NN, in/IN, green/JJ, on/IN, a/DT, green/JJ, bicycle/NN, jumps/VBZ, off/RP, the/DT, ramp/NN, ./.] 	213
+[Two/CD, kids/NNS, cleaning/VBG, up/RP, their/PRP$, room/NN] 	[Children/NNS, doing/VBG, cleaning/NN] 	214
+[A/DT, little/JJ, girl/NN, is/VBZ, playing/VBG, with/IN, some/DT, dough/NN, ./.] 	[A/DT, little/JJ, girl/NN, plays/VBZ, with/IN, a/DT, water/NN, ball/NN, and/CC, laughs/NNS, ./.] 	215
+[on/IN, of/IN, the/DT, boys/NNS, is/VBZ, performing/VBG, an/DT, ollie/NN] 	[The/DT, boy/NN, is/VBZ, playing/VBG, with/IN, the/DT, fountain/NN, ./.] 	216
+[People/NNS, walk/VBP, down/IN, a/DT, street/NN, during/IN, a/DT, sunny/JJ, day/NN, ./.] 	[People/NNS, walking/VBG, down/IN, the/DT, street/NN, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	217
+[Workers/NNS, are/VBP, busy/JJ, at/IN, their/PRP$, job/NN, ./.] 	[Workers/NNS, are/VBP, out/RB, at/IN, night/NN, to/TO, do/VB, their/PRP$, jobs/NNS, ./.] 	218
+[A/DT, young/JJ, Asian/JJ, boy/NN, is/VBZ, waving/VBG, a/DT, sparkler/NN, around/IN, at/IN, night/NN, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, are/VBP, watching/VBG, a/DT, parade/NN, at/IN, home/NN] 	219
+[A/DT, man/NN, in/IN, a/DT, suit/NN, by/IN, a/DT, stoplight/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, blue/JJ, suit/NN, next/IN, to/TO, a/DT, traffic/NN, light/NN, ./.] 	220
+[The/DT, musicians/NNS, are/VBP, practicing/VBG, in/IN, an/DT, empty/JJ, room/NN, ./.] 	[The/DT, musicians/NNS, are/VBP, practicing/VBG, in/IN, a/DT, private/JJ, room/NN, ./.] 	221
+[The/DT, young/JJ, boy/NN, reaching/VBG, for/IN, the/DT, baton/NN, from/IN, the/DT, girl/NN, as/IN, he/PRP, runs/VBZ, the/DT, relay/NN, race/NN, ./.] 	[The/DT, kid/NN, surfed/VBN, for/IN, the/DT, first/JJ, time/NN, ./.] 	222
+[Two/CD, peope/NN, are/VBP, sitting/VBG, outdoors/RB, ./.] 	[There/EX, are/VBP, three/CD, men/NNS, walking/VBG, outside/IN] 	223
+[An/DT, art/NN, gallery/NN, is/VBZ, being/VBG, set/VBN, up/RP, ./.] 	[A/DT, man/NN, is/VBZ, painting/VBG, for/IN, the/DT, art/NN, gallery/NN, ./.] 	224
+[An/DT, accident/NN, between/IN, two/CD, automobiles/NNS, has/VBZ, grabbed/VBN, people/NNS, 's/POS, attention/NN, ./.] 	[Two/CD, cars/NNS, got/VBD, into/IN, the/DT, accident/NN, ./.] 	225
+[The/DT, leotard/NN, is/VBZ, red/JJ, ./.] 	[The/DT, hat/NN, is/VBZ, white/JJ, ./.] 	226
+[A/DT, boy/NN, is/VBZ, being/VBG, chased/VBN, through/IN, a/DT, toy/NN, tunnel/NN, by/IN, a/DT, dog/NN, ./.] 	[The/DT, child/NN, is/VBZ, chased/VBN, by/IN, a/DT, dog/NN, ./.] 	227
+[A/DT, windsurfer/NN, dressed/VBN, in/IN, teal/NN, is/VBZ, on/IN, his/PRP$, boogie/NN, board/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, Mohawk-style/JJ, haircut/NN, and/CC, a/DT, surfer/NN, 's/POS, shorts/NNS, is/VBZ, standing/VBG, on/IN, the/DT, beach/NN, half-surfed/JJ, ./.] 	228
+[a/DT, person/NN, is/VBZ, with/IN, a/DT, cute/JJ, child/NN] 	[A/DT, man/NN, is/VBZ, a/DT, woman/NN, with/IN, a/DT, lovely/JJ, child/NN, ./.] 	229
+[Two/CD, people/NNS, look/VBP, up/RP, towards/IN, a/DT, gold/NN, statue/NN, ./.] 	[Two/CD, kids/NNS, climbing/VBG, a/DT, statue/NN, ./.] 	230
+[People/NNS, making/VBG, music/NN, together/RB] 	[People/NNS, who/WP, make/VBP, music/NN, together/RB, ./.] 	231
+[A/DT, photographer/NNP, takes/VBZ, pictures/NNS, of/IN, a/DT, family/NN, that/WDT, includes/VBZ, four/CD, children/NNS, and/CC, two/CD, parents/NNS] 	[A/DT, mother/NN, and/CC, two/CD, children/NNS, are/VBP, taking/VBG, family/NN, photos/NNS, ./.] 	232
+[Some/DT, men/NNS, doing/VBG, volunteer/NN, work/NN, at/IN, the/DT, park/NN, ./.] 	[The/DT, men/NNS, work/VBP, ./.] 	233
+[A/DT, man/NN, imitates/VBZ, Superman/NNP, ./.] 	[The/DT, guy/NN, is/VBZ, wearing/VBG, a/DT, spider-man/JJ, costume/NN] 	234
+[A/DT, boy/NN, is/VBZ, relaxing/VBG, on/IN, the/DT, beach/NN, ./.] 	[A/DT, boy/NN, is/VBZ, walking/VBG, on/IN, the/DT, beach/NN, ./.] 	235
+[A/DT, group/NN, of/IN, people/NNS, are/VBP, waiting/VBG, to/TO, see/VB, a/DT, rock/NN, concert/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, watch/VBP, the/DT, performance/NN, of/IN, a/DT, music/NN, group/NN, ./.] 	236
+[Motorcyclists/NNPS, taking/VBG, a/DT, break/NN, ./.] 	[Two/CD, cyclists/NNS, giving/VBG, a/DT, break/NN, ./.] 	237
+[A/DT, competitive/JJ, runner/NN, taking/VBG, her/PRP$, first/JJ, sprint/NN, in/IN, a/DT, competition/NN, ./.] 	[The/DT, athlete/NN, competes/VBZ, in/IN, a/DT, long/JJ, jump/NN, encounter/NN, ./.] 	238
+[A/DT, boy/NN, is/VBZ, wearing/VBG, an/DT, all/DT, black/JJ, outfit/NN, ./.] 	[A/DT, black/JJ, and/CC, wrapped/VBD, man/NN, on/IN, a/DT, horse/NN, is/VBZ, talking/VBG, to/TO, someone/NN, wearing/VBG, red/NN, ./.] 	239
+[The/DT, woman/NN, is/VBZ, wearing/VBG, a/DT, ballcap/NN, ./.] 	[The/DT, girl/NN, wears/VBZ, a/DT, baseball/NN, hat/NN, ./.] 	240
+[The/DT, construction/NN, workers/NNS, appear/VBP, through/IN, a/DT, wooden/JJ, fence/NN, ./.] 	[A/DT, few/JJ, workers/NNS, standing/VBG, in/IN, a/DT, partially/RB, built/VBN, building/NN, behind/IN, the/DT, street/NN, sign/NN] 	241
+[lady/NN, and/CC, man/NN, sitting/VBG, on/IN, couch/NN, reading/NN, in/IN, sweats/NNS] 	[A/DT, young/JJ, pajamas/NNS, sleeping/VBG, on/IN, the/DT, couch/NN, ./.] 	242
+[A/DT, rock/NN, climber/NN, with/IN, a/DT, white/JJ, helmet/NN, is/VBZ, repelling/VBG, ./.] 	[A/DT, person/NN, with/IN, a/DT, white/JJ, helmet/NN, is/VBZ, climbing/VBG, on/IN, a/DT, rock/NN, ./.] 	243
+[People/NNS, strolling/VBG, casually/RB, across/IN, a/DT, bridge/NN, ./.] 	[Two/CD, people/NNS, walk/VBP, randomly/RB, in/IN, the/DT, abandoned/VBN, street/NN, ./.] 	244
+[A/DT, man/NN, in/IN, a/DT, khaki/JJ, colored/VBN, uniform/NN, carries/VBZ, a/DT, brunette/NN, woman/NN, in/IN, white/JJ, clothing/NN, on/IN, his/PRP$, shoulder/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, red/JJ, shirt/NN, is/VBZ, attaching/VBG, a/DT, blue/JJ, blaze/NN, to/TO, a/DT, white/JJ, shirt/NN, woman/NN, younger/JJR, than/IN, her/PRP, ./.] 	245
+[A/DT, coach/NN, smiles/VBZ, at/IN, a/DT, player/NN, ./.] 	[A/DT, coach/NN, stays/VBZ, with/IN, his/PRP$, players/NNS, together/RB, ./.] 	246
+[Six/CD, women/NNS, wearing/VBG, black/JJ, jackets/NNS, and/CC, bright/JJ, red/JJ, boas/NNS, smile/VBP, at/IN, the/DT, camera/NN, ./.] 	[Three/CD, women/NNS, in/IN, a/DT, yellow/JJ, shirt/NN, are/VBP, smiling/VBG, at/IN, the/DT, camera/NN, ./.] 	247
+[There/EX, are/VBP, 70/CD, participants/NNS, on/IN, each/DT, team/NN, on/IN, the/DT, field/NN, ./.] 	[There/EX, are/VBP, two/CD, teams/NNS, in/IN, the/DT, field/NN, ./.] 	248
+[A/DT, large/JJ, family/NN, poses/VBZ, for/IN, a/DT, photo/NN, ./.] 	[There/EX, is/VBZ, a/DT, family/NN, taking/VBG, photos/NNS] 	249
+[A/DT, girl/NN, is/VBZ, inspecting/VBG, a/DT, machine/NN, ./.] 	[A/DT, woman/NN, works/VBZ, with/IN, a/DT, machine/NN, ./.] 	250
+[A/DT, brown/JJ, dog/NN, not/RB, wading/VBG] 	[A/DT, brown/JJ, dog/NN, walking/VBG, in/IN, water/NN] 	251
+[A/DT, person/NN, is/VBZ, riding/VBG, his/PRP$, bike/NN, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	[A/DT, man/NN, is/VBZ, cycling/NN, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	252
+[A/DT, young/JJ, man/NN, wearing/VBG, a/DT, red/JJ, bracelet/NN, scratching/VBG, his/PRP$, head/NN, ./.] 	[The/DT, young/JJ, man/NN, in/IN, a/DT, hat/NN, with/IN, a/DT, bow/NN, ./.] 	253
+[A/DT, brown/JJ, dog/NN, loves/VBZ, the/DT, water/NN, and/CC, splashing/VBG, around/RB, ./.] 	[There/EX, 's/VBZ, a/DT, black/JJ, dog/NN, spraying/VBG, water/NN, ./.] 	254
+[The/DT, jogger/NN, is/VBZ, sitting/VBG, in/IN, the/DT, park/NN, ./.] 	[The/DT, man/NN, is/VBZ, sitting/VBG, in/IN, the/DT, park/NN, ./.] 	255
+[His/PRP$, is/VBZ, in/IN, a/DT, competition/NN, ./.] 	[The/DT, woman/NN, is/VBZ, in/IN, a/DT, competition/NN, ./.] 	256
+[A/DT, lady/NN, is/VBZ, climbing/VBG, a/DT, mountain/NN, ./.] 	[A/DT, family/NN, is/VBZ, climbing/VBG, a/DT, mountain/NN, ./.] 	257
+[A/DT, girl/NN, reads/VBZ, on/IN, a/DT, crowded/JJ, beach/NN, ./.] 	[A/DT, girl/NN, is/VBZ, walking/VBG, on/IN, the/DT, beach/NN, ./.] 	258
+[The/DT, black/JJ, dog/NN, is/VBZ, running/VBG, in/IN, the/DT, water/NN, near/IN, the/DT, shore/NN, ./.] 	[The/DT, white/JJ, dog/NN, is/VBZ, walking/VBG, across/IN, the/DT, water/NN, from/IN, the/DT, shore/NN, ./.] 	259
+[A/DT, closeup/NN, of/IN, two/CD, women/NNS, wearing/VBG, bags/NNS, on/IN, their/PRP$, heads/NNS, ./.] 	[The/DT, two/CD, men/NNS, wearing/VBG, sunglasses/NNS, are/VBP, sitting/VBG, on/IN, a/DT, table/NN, with/IN, two/CD, beers/NNS, for/IN, the/DT, two/CD, of/IN, them/PRP, ./.] 	260
+[A/DT, young/JJ, child/NN, is/VBZ, on/IN, a/DT, playground/NN, riding/VBG, the/DT, swing/NN, ./.] 	[A/DT, boy/NN, and/CC, a/DT, girl/NN, are/VBP, swaying/VBG, in/IN, a/DT, swing/NN, in/IN, the/DT, park/NN, ./.] 	261
+[There/EX, are/VBP, some/DT, shoes/NNS, in/IN, the/DT, child/NN, 's/POS, hands/NNS, ./.] 	[Your/PRP$, children/NNS, are/VBP, empty/JJ, ./.] 	262
+[A/DT, man/NN, is/VBZ, showing/VBG, off/RP, a/DT, picture/NN, ./.] 	[A/DT, man/NN, is/VBZ, showing/VBG, off/RP, ./.] 	263
+[A/DT, roller/NN, skater/NN, does/VBZ, various/JJ, tricks/NNS, off/IN, a/DT, ramp/NN, ./.] 	[A/DT, woman/NN, is/VBZ, doing/VBG, the/DT, skate/NN, numbers/NNS, down/IN, the/DT, ramp/NN, ./.] 	264
+[Brothers/NN, playing/NN, outside/IN] 	[Two/CD, brothers/NNS, are/VBP, playing/VBG, outside/RB, ./.] 	265
+[A/DT, skateboarder/NN, is/VBZ, entertaining/VBG, a/DT, crowd/NN, ./.] 	[An/DT, entertainer/NN, who/WP, loves/VBZ, a/DT, crowd/NN, ./.] 	266
+[A/DT, man/NN, watching/VBG, a/DT, ball/NN, in/IN, the/DT, air/NN, ./.] 	[A/DT, man/NN, keeps/VBZ, a/DT, ball/NN, in/IN, the/DT, air/NN, so/IN, he/PRP, can/MD, catch/VB, a/DT, brown/JJ, dog/NN, on/IN, the/DT, beach/NN, ./.] 	267
+[There/EX, is/VBZ, a/DT, young/JJ, person/NN, next/JJ, to/TO, a/DT, tree/NN, ./.] 	[There/EX, is/VBZ, a/DT, person/NN, next/JJ, to/TO, the/DT, tree/NN, ./.] 	268
+[The/DT, man/NN, is/VBZ, losing/VBG, a/DT, sumo/JJ, wrestling/NN, match/NN, in/IN, the/DT, middle/NN, of/IN, the/DT, street/NN, ./.] 	[The/DT, man/NN, is/VBZ, in/IN, a/DT, wrestling/NN, tournament/NN, ./.] 	269
+[People/NNS, are/VBP, passing/VBG, protesters/NNS, as/IN, they/PRP, go/VBP, about/IN, their/PRP$, buisness/NN, ./.] 	[Two/CD, people/NNS, are/VBP, talking/VBG, to/TO, each/DT, other/JJ, ./.] 	270
+[THe/NN, artist/NN, is/VBZ, packing/VBG, up/RP, is/VBZ, painting/NN, tools/NNS] 	[The/DT, gentleman/NN, is/VBZ, using/VBG, canvas/NN, and/CC, easel/NN, ./.] 	271
+[These/DT, people/NNS, are/VBP, going/VBG, to/TO, buy/VB, some/DT, materials/NNS, for/IN, pho/NN, ./.] 	[Some/DT, people/NNS, are/VBP, doing/VBG, hand/NN, work/NN, to/TO, sell/VB, ./.] 	272
+[A/DT, man/NN, with/IN, a/DT, long/JJ, beard/NN, playing/VBG, a/DT, guitar/NN, ./.] 	[A/DT, man/NN, with/IN, long/JJ, hair/NN, plays/VBZ, the/DT, guitar/NN, ./.] 	273
+[The/DT, woman/NN, is/VBZ, on/IN, a/DT, trolley/NN, ./.] 	[The/DT, woman/NN, is/VBZ, on/IN, a/DT, bus/NN, ./.] 	274
+[the/DT, boy/NN, holds/VBZ, a/DT, snake/NN] 	[The/DT, child/NN, keeps/VBZ, a/DT, cat/NN, inside/IN] 	275
+[Bagpipers/NNS, march/VB, down/RP, a/DT, street/NN, ./.] 	[A/DT, man/NN, fell/VBD, on/IN, the/DT, street/NN, at/IN, night/NN] 	276
+[Six/CD, men/NNS, and/CC, women/NNS, jumping/VBG, up/RP, on/IN, a/DT, beach/NN, ./.] 	[The/DT, two/CD, women/NNS, are/VBP, jumping/VBG, up/RP, and/CC, down/RP, the/DT, beach/NN, ./.] 	277
+[A/DT, man/NN, is/VBZ, changing/VBG, around/IN, the/DT, furniture/NN, in/IN, his/PRP$, room/NN, for/IN, a/DT, party/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, business/NN, is/VBZ, annoyed/VBN, when/WRB, his/PRP$, glasses/NNS, fall/VBP, down/RB, ./.] 	278
+[Two/CD, dogs/NNS, are/VBP, play/NN, with/IN, a/DT, ball/NN, ./.] 	[Two/CD, dogs/NNS, are/VBP, playing/VBG, a/DT, ball/NN, ./.] 	279
+[Young/JJ, people/NNS, are/VBP, engaged/VBN, in/IN, a/DT, game/NN, ./.] 	[Including/VBG, two/CD, in/IN, a/DT, game/NN, ./.] 	280
+[The/DT, man/NN, is/VBZ, examining/VBG, an/DT, object/NN, ./.] 	[The/DT, woman/NN, shows/VBZ, an/DT, object/NN, to/TO, a/DT, man/NN, ./.] 	281
+[A/DT, man/NN, in/IN, a/DT, suit/NN, with/IN, his/PRP$, tie/NN, flying/VBG, walks/VBZ, down/RP, the/DT, sidewalk/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, suit/NN, walks/VBZ, away/RB, from/IN, a/DT, long/JJ, shaded/JJ, building/NN, ./.] 	282
+[The/DT, men/NNS, wearing/VBG, opposing/VBG, jerseys/NNS, are/VBP, getting/VBG, in/IN, a/DT, fist/NN, fight/NN] 	[Two/CD, young/JJ, men/NNS, wearing/VBG, soft/JJ, helmets/NNS, wrestle/VBP, with/IN, a/DT, court/NN, ./.] 	283
+[The/DT, doctor/NN, is/VBZ, by/IN, himself/PRP, in/IN, his/PRP$, office/NN, ./.] 	[The/DT, child/NN, is/VBZ, being/VBG, held/VBN, by/IN, his/PRP$, father/NN, in/IN, a/DT, library/NN, ./.] 	284
+[A/DT, brown/JJ, and/CC, tan/NN, dog/NN, walks/VBZ, through/IN, the/DT, green/JJ, grass/NN, ./.] 	[A/DT, white/JJ, and/CC, brown/JJ, dog/NN, ran/VBD, through/RB, long/JJ, green/JJ, grass/NN, ./.] 	285
+[A/DT, man/NN, is/VBZ, taking/VBG, pictures/NNS, at/IN, a/DT, dance/NN, festival/NN, ./.] 	[Adam/NNP, is/VBZ, dancing/VBG, at/IN, a/DT, festival/NN, ./.] 	286
+[The/DT, two/CD, children/NNS, love/VBP, each/DT, other/JJ, ./.] 	[The/DT, couple/NN, love/NN, each/DT, other/JJ, ./.] 	287
+[The/DT, woman/NN, crosses/VBZ, the/DT, street/NN, empty-handed/JJ, ./.] 	[The/DT, girl/NN, is/VBZ, walking/VBG, down/RP, the/DT, street/NN] 	288
+[The/DT, two/CD, men/NNS, are/VBP, deciding/VBG, which/WDT, fish/NN, they/PRP, want/VBP, ./.] 	[Dogs/NNS, are/VBP, not/RB, close/VB, together/RB, ./.] 	289
+[A/DT, protest/NN, or/CC, parade/NN, against/IN, oil/NN, spills/NNS, ./.] 	[Take/VB, a/DT, break/NN, during/IN, the/DT, action/NN, ./.] 	290
+[A/DT, model/NN, is/VBZ, posing/VBG, for/IN, the/DT, cameras/NNS, ./.] 	[A/DT, model/NN, poses/VBZ, on/IN, camera/NN, ./.] 	291
+[a/DT, man/NN, watches/VBZ, wresting/VBG, match/NN] 	[A/DT, boy/NN, leaping/VBG, to/TO, hit/VB, a/DT, tennis/NN, ball/NN] 	292
+[At/IN, a/DT, supermarket/NN, ,/,, people/NNS, are/VBP, buying/VBG, their/PRP$, groceries/NNS, ./.] 	[In/IN, the/DT, busy/JJ, production/NN, market/NN, ,/,, many/JJ, people/NNS, shop/NN, and/CC, sell/NN, ./.] 	293
+[two/CD, men/NNS, are/VBP, dressed/VBN] 	[Four/CD, men/NNS, dressed/VBN] 	294
+[A/DT, cowboy/NN, riding/VBG, a/DT, horse/NN, ./.] 	[Cowboy/NN, riding/VBG, a/DT, horse/NN] 	295
+[A/DT, worker/NN, is/VBZ, destroying/VBG, an/DT, artist/NN, 's/POS, work/NN, ./.] 	[The/DT, worker/NN, is/VBZ, making/VBG, a/DT, sculpture/NN, ./.] 	296
+[A/DT, artist/NN, is/VBZ, not/RB, at/IN, work/NN] 	[Artist/NNP, ,/,, here/RB, ./.] 	297
+[Three/CD, girls/NNS, in/IN, white/JJ, dresses/NNS, run/VBP, toward/IN, a/DT, fountain/NN, in/IN, a/DT, park/NN, ./.] 	[Three/CD, girls/NNS, in/IN, white/JJ, dresses/NNS, running/VBG, towards/IN, a/DT, fountain/NN, ./.] 	298
+[The/DT, woman/NN, has/VBZ, a/DT, pie/NN, ./.] 	[The/DT, woman/NN, is/VBZ, making/VBG, a/DT, pie/NN, ./.] 	299
+[The/DT, young/JJ, children/NNS, listen/VBP, to/TO, the/DT, teacher/NN, ./.] 	[Children/NNS, sit/VBP, in/IN, class/NN, and/CC, listen/VB, to/TO, their/PRP$, teachers/NNS, ./.] 	300
+[A/DT, man/NN, stands/VBZ, in/IN, the/DT, distance/NN, on/IN, the/DT, ocean/NN, while/IN, he/PRP, stands/VBZ, on/IN, a/DT, small/JJ, boat/NN, ./.] 	[A/DT, man/NN, walking/VBG, in/IN, the/DT, water/NN, on/IN, the/DT, shore/NN, ./.] 	301
+[Kids/NNS, run/VBP, in/IN, a/DT, field/NN, ./.] 	[A/DT, dog/NN, is/VBZ, running/VBG, in/IN, the/DT, summer/NN, cottage/NN, ./.] 	302
+[a/DT, man/NN, is/VBZ, protesting/VBG, something/NN] 	[A/DT, man/NN, is/VBZ, protesting/VBG, ./.] 	303
+[A/DT, large/JJ, black/JJ, dog/NN, is/VBZ, jumping/VBG, off/RP, a/DT, pier/NN, into/IN, a/DT, pond/NN, ./.] 	[A/DT, black/JJ, dog/NN, jumps/VBZ, out/IN, of/IN, a/DT, pond/NN, ./.] 	304
+[The/DT, group/NN, of/IN, people/NNS, have/VBP, stuck/VBN, in/IN, the/DT, cellar/NN, since/IN, the/DT, earthquake/NN, buried/VBN, the/DT, house/NN, ./.] 	[People/NNS, are/VBP, in/IN, the/DT, basement/NN, ./.] 	305
+[A/DT, young/JJ, man/NN, is/VBZ, holding/VBG, onto/IN, a/DT, casserole/NN, dish/NN, with/IN, pot/NN, holders/NNS, ./.] 	[A/DT, man/NN, is/VBZ, standing/VBG, and/CC, holding/VBG, a/DT, frozen/JJ, dessert/NN, ./.] 	306
+[Men/NNS, are/VBP, lying/VBG, down/RP, ./.] 	[People/NNS, are/VBP, reaching/VBG, ./.] 	307
+[A/DT, group/NN, of/IN, people/NNS, standing/VBG, under/IN, an/DT, umbrella/NN, at/IN, a/DT, coffee/NN, table/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, standing/VBG, in/IN, the/DT, kitchen/NN, ./.] 	308
+[A/DT, man/NN, in/IN, a/DT, hat/NN, and/CC, glasses/NNS, looks/VBZ, through/IN, a/DT, telescope/NN, during/IN, the/DT, night/NN, while/IN, the/DT, stars/NNS, are/VBP, out/RB, ./.] 	[The/DT, man/NN, looks/VBZ, at/IN, the/DT, city/NN, with/IN, a/DT, telescope/NN] 	309
+[The/DT, other/JJ, woman/NN, is/VBZ, wearing/VBG, a/DT, leather/NN, jacket/NN, ./.] 	[The/DT, man/NN, is/VBZ, wearing/VBG, a/DT, leather/NN, jacket/NN, ./.] 	310
+[the/DT, people/NNS, are/VBP, bored/VBN] 	[People/NNS, are/VBP, afraid/JJ] 	311
+[The/DT, man/NN, is/VBZ, in/IN, bed/NN, asleep/RB, ./.] 	[The/DT, guy/NN, is/VBZ, sleeping/VBG, in/IN, bed/NN, ./.] 	312
+[A/DT, man/NN, is/VBZ, drawing/VBG, graffiti/NNS, on/IN, the/DT, side/NN, of/IN, a/DT, gray/JJ, wall/NN, ./.] 	[A/DT, man/NN, with/IN, gray/JJ, coat/NN, and/CC, blue/JJ, jeans/NNS, running/VBG, on/IN, a/DT, net/NN, in/IN, front/NN, of/IN, a/DT, stone/NN, wall/NN, ./.] 	313
+[A/DT, street/NN, vendor/NN, is/VBZ, with/IN, his/PRP$, cart/NN, ./.] 	[A/DT, man/NN, 's/POS, hand/NN, over/IN, shopping/NN, ./.] 	314
+[A/DT, dog/NN, bites/VBZ, an/DT, arm/NN, ./.] 	[A/DT, dog/NN, bites/VBZ, the/DT, other/JJ, dog/NN, 's/POS, ear/NN, ./.] 	315
+[A/DT, stewardess/NN, is/VBZ, on/IN, a/DT, plane/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, pilot/NN, suit/NN, is/VBZ, flying/VBG, over/RP, ./.] 	316
+[No/DT, one/NN, has/VBZ, won/VBN, any/DT, prizes/NNS, today/NN, ./.] 	[There/EX, is/VBZ, more/JJR, than/IN, one/CD, person/NN, shown/VBN, here/RB, ./.] 	317
+[Two/CD, female/NN, are/VBP, walking/VBG, their/PRP$, dogs/NNS, ,/,, and/CC, the/DT, male/NN, is/VBZ, interested/JJ, in/IN, the/DT, dogs/NNS, ./.] 	[There/EX, are/VBP, two/CD, dogs/NNS, and/CC, a/DT, woman/NN, ./.] 	318
+[A/DT, man/NN, wearing/VBG, black/JJ, shirt/NN, with/IN, devil/NNP, looking/VBG, eyes/NNS, ,/,, holding/VBG, two/CD, big/JJ, slices/NNS, of/IN, meat/NN, ./.] 	[A/DT, man/NN, with/IN, gray/JJ, hair/NN, and/CC, a/DT, red/JJ, hat/NN, is/VBZ, standing/VBG, outside/RB, ./.] 	319
+[A/DT, woman/NN, is/VBZ, carrying/VBG, her/PRP$, daughter/NN, ./.] 	[A/DT, mother/NN, carries/VBZ, a/DT, child/NN, ./.] 	320
+[There/EX, is/VBZ, a/DT, clown/NN, making/VBG, audience/NN, members/NNS, laugh/NN, ./.] 	[An/DT, audience/NN, watches/VBZ, the/DT, performance/NN, of/IN, people/NNS, in/IN, yellow/JJ, ./.] 	321
+[A/DT, couple/NN, on/IN, the/DT, side/NN, of/IN, the/DT, road/NN, talking/VBG, about/IN, deep/JJ, things/NNS, ./.] 	[There/EX, are/VBP, a/DT, few/JJ, people/NNS, walking/VBG, around/IN, in/IN, a/DT, house/NN, with/IN, a/DT, large/JJ, tree/NN, beside/IN, them/PRP, ./.] 	322
+[The/DT, white/JJ, banner/NN, is/VBZ, behind/IN, the/DT, people/NNS, sitting/VBG, down/RP, ./.] 	[People/NNS, are/VBP, sitting/VBG, in/IN, front/NN, of/IN, a/DT, white/JJ, fence/NN, ./.] 	323
+[One/CD, man/NN, is/VBZ, running/VBG, through/IN, the/DT, house/NN, with/IN, his/PRP$, dog/NN, ./.] 	[The/DT, man/NN, is/VBZ, walking/VBG, out/IN, of/IN, his/PRP$, house/NN, ./.] 	324
+[A/DT, young/JJ, girl/NN, smiles/VBZ, for/IN, the/DT, camera/NN, ./.] 	[A/DT, young/JJ, girl/NN, and/CC, a/DT, woman/NN, smile/NN, to/TO, the/DT, camera/NN, ./.] 	325
+[A/DT, group/NN, of/IN, people/NNS, are/VBP, standing/VBG, together/RB, outside/JJ, ./.] 	[A/DT, group/NN, of/IN, people/NNS, standing/VBG, outside/RB, ./.] 	326
+[Someone/NN, in/IN, a/DT, red/JJ, coat/NN, and/CC, white/JJ, helmet/NN, skis/NNS, past/IN, some/DT, trees/NNS, ./.] 	[The/DT, brunette-stained/JJ, white/JJ, dog/NN, jumps/VBZ, over/IN, his/PRP$, wife/NN, ,/,, behind/IN, his/PRP$, object/NN, ,/,, which/WDT, is/VBZ, white/JJ, and/CC, black/JJ, dog/NN, ./.] 	327
+[People/NNS, are/VBP, in/IN, a/DT, tent/NN, by/IN, a/DT, wall/NN, ./.] 	[A/DT, human/JJ, being/NN, is/VBZ, in/IN, front/NN, of/IN, a/DT, closed/JJ, tent/NN, ./.] 	328
+[Badgers/NNPS, burrow/VBP, into/IN, their/PRP$, hole/NN] 	[The/DT, guys/NNS, are/VBP, throwing/VBG, shovels/NNS, in/IN, a/DT, hole/NN] 	329
+[A/DT, young/JJ, boy/NN, with/IN, a/DT, painted/VBN, face/NN, plays/VBZ, on/IN, the/DT, pavement/NN, ./.] 	[An/DT, old/JJ, man/NN, wearing/VBG, red/JJ, ,/,, white/JJ, and/CC, bluish/JJ, gray/JJ, clothes/NNS, is/VBZ, using/VBG, a/DT, saw/NN, to/TO, make/VB, music/NN, ./.] 	330
+[A/DT, person/NN, on/IN, a/DT, bike/NN, and/CC, wearing/VBG, a/DT, helmet/NN, rides/NNS, through/IN, a/DT, area/NN, ./.] 	[Someone/NN, wearing/VBG, a/DT, hard/JJ, hat/NN, bikes/NNS, on/IN, the/DT, street/NN, ./.] 	331
+[A/DT, person/NN, is/VBZ, walking/VBG, their/PRP$, cat/NN, ./.] 	[A/DT, man/NN, is/VBZ, walking/VBG, around/IN, his/PRP$, dog/NN, ./.] 	332
+[The/DT, bicyclists/NNS, are/VBP, riding/VBG, to/TO, the/DT, book/NN, store/NN, ./.] 	[Yellow/JJ, taxis/NNS, and/CC, bicycles/NNS, go/VBP, to/TO, the/DT, same/JJ, store/NN, ./.] 	333
+[An/DT, older/JJR, man/NN, and/CC, a/DT, younger/JJR, man/NN, are/VBP, wearing/VBG, jackets/NNS, ./.] 	[A/DT, man/NN, is/VBZ, surrounded/VBN, by/IN, a/DT, woman/NN, ,/,, both/CC, wearing/VBG, red/JJ, clothes/NNS, ./.] 	334
+[The/DT, couple/NN, are/VBP, asleep/RB, ./.] 	[They/PRP, sleep/VBP, on/IN, the/DT, couch/NN, ./.] 	335
+[People/NNS, are/VBP, on/IN, the/DT, beach/NN, with/IN, animals/NNS, ./.] 	[The/DT, animals/NNS, are/VBP, on/IN, the/DT, beach/NN, ./.] 	336
+[There/EX, are/VBP, people/NNS, sleeping/VBG, at/IN, the/DT, park/NN, ./.] 	[People/NNS, are/VBP, sleeping/VBG, in/IN, the/DT, park/NN, ./.] 	337
+[The/DT, guy/NN, is/VBZ, about/IN, to/TO, get/VB, into/IN, his/PRP$, car/NN, ./.] 	[The/DT, man/NN, is/VBZ, trying/VBG, to/TO, reach/VB, his/PRP$, car/NN, ./.] 	338
+[Three/CD, men/NNS, are/VBP, pouring/VBG, cement/NN, ./.] 	[Three/CD, men/NNS, are/VBP, washing/VBG, their/PRP$, hands/NNS, ./.] 	339
+[A/DT, man/NN, with/IN, green/JJ, shoes/NNS, is/VBZ, jumping/VBG, to/TO, catch/VB, a/DT, frisbee/NN, ./.] 	[A/DT, person/NN, with/IN, a/DT, green/JJ, shoe/NN, leaps/VBZ, to/TO, catch/VB, a/DT, frisbee/NN, ./.] 	340
+[Two/CD, people/NNS, are/VBP, wearing/VBG, shirts/NNS, ./.] 	[There/EX, are/VBP, three/CD, people/NNS, wearing/VBG, shirts/NNS, ./.] 	341
+[A/DT, woman/NN, and/CC, man/NN, are/VBP, talking/VBG, while/IN, another/DT, woman/NN, leans/VBZ, on/IN, her/PRP$, car/NN, biting/VBG, her/PRP$, nails/NNS, ./.] 	[A/DT, man/NN, is/VBZ, standing/VBG, in/IN, his/PRP$, hands/NNS, ,/,, looking/VBG, at/IN, a/DT, young/JJ, woman/NN, using/VBG, a/DT, mobile/JJ, phone/NN, ./.] 	342
+[A/DT, cat/NN, is/VBZ, climbing/VBG, a/DT, tree/NN, ./.] 	[The/DT, girl/NN, is/VBZ, climbing/VBG, a/DT, mound/NN, ./.] 	343
+[A/DT, guy/NN, running/VBG, on/IN, a/DT, pretty/JJ, day/NN, on/IN, the/DT, dock/NN, ./.] 	[A/DT, man/NN, who/WP, rolls/VBZ, back/RB, on/IN, the/DT, beach/NN, ./.] 	344
+[A/DT, cowboy/NN, riding/VBG, a/DT, horse/NN, at/IN, a/DT, rodeo/NN, with/IN, 8/CD, seconds/NNS, on/IN, the/DT, clock/NN, ./.] 	[A/DT, horse/NN, and/CC, a/DT, rider/NN, are/VBP, jumping/VBG, in/IN, a/DT, race/NN, ./.] 	345
+[A/DT, man/NN, shoots/VBZ, pool/NN, while/IN, another/DT, waits/VBZ, for/IN, their/PRP$, turn/NN] 	[A/DT, man/NN, rolls/VBZ, back/RB, into/IN, the/DT, pool/NN, as/IN, the/DT, audience/NN, watches/NNS, ./.] 	346
+[a/DT, man/NN, is/VBZ, holding/VBG, books/NNS] 	[A/DT, woman/NN, is/VBZ, holding/VBG, a/DT, book/NN, ./.] 	347
+[A/DT, man/NN, wearing/VBG, an/DT, orange/JJ, shirt/NN, and/CC, blue/JJ, hard/JJ, hat/NN, is/VBZ, measuring/VBG, an/DT, area/NN, ./.] 	[The/DT, man/NN, is/VBZ, wearing/VBG, a/DT, dark/JJ, red/JJ, shirt/NN, ./.] 	348
+[A/DT, young/JJ, man/NN, and/CC, woman/NN, at/IN, a/DT, dining/NN, table/NN, ./.] 	[An/DT, old/JJ, man/NN, and/CC, woman/NN, on/IN, a/DT, dinner/NN, table/NN, ./.] 	349
+[A/DT, mother/NN, is/VBZ, pushing/VBG, her/PRP$, child/NN, is/VBZ, a/DT, stroller/NN, ./.] 	[A/DT, woman/NN, is/VBZ, babysitting/VBG, ./.] 	350
+[A/DT, girl/NN, in/IN, a/DT, gray/JJ, shirt/NN, and/CC, brown/JJ, hair/NN, relaxes/VBZ, on/IN, the/DT, lawn/NN, as/IN, dogs/NNS, bound/VBN, around/IN, her/PRP, ./.] 	[The/DT, boy/NN, wearing/VBG, black/JJ, trousers/NNS, and/CC, gray/JJ, shirts/NNS, has/VBZ, to/TO, be/VB, set/VBN, up/RP, for/IN, his/PRP$, father/NN, ./.] 	351
+[two/CD, people/NNS, wrestle/VBP] 	[Five/CD, people/NNS, watch/VBP, two/CD, people/NNS, wrestling/VBG, ./.] 	352
+[The/DT, shirt/NN, is/VBZ, solid/JJ] 	[The/DT, referee/NN, is/VBZ, holding/VBG, a/DT, dark/JJ, black/JJ, flag/NN, ./.] 	353
+[The/DT, item/NN, is/VBZ, wrapped/VBN, in/IN, paper/NN, ./.] 	[There/EX, 's/VBZ, a/DT, piece/NN, of/IN, paper/NN, on/IN, a/DT, table/NN, ./.] 	354
+[The/DT, men/NNS, are/VBP, sitting/VBG, on/IN, the/DT, patio/NN, ./.] 	[The/DT, men/NNS, are/VBP, sitting/VBG, on/IN, the/DT, pavement/NN] 	355
+[a/DT, large/JJ, white/JJ, puddle/NN, running/VBG, along/IN, with/IN, a/DT, pink/JJ, flip-flop/NN, in/IN, its/PRP$, mouth/NN] 	[The/DT, little/JJ, brown/JJ, and/CC, white/JJ, dog/NN, lies/VBZ, in/IN, a/DT, red/JJ, rug/NN, shot/VBN, by/IN, the/DT, sunlight/NN, ./.] 	356
+[Two/CD, women/NNS, in/IN, dresses/NNS, are/VBP, getting/VBG, on/IN, a/DT, bus/NN, ./.] 	[The/DT, two/CD, women/NNS, are/VBP, sitting/VBG, in/IN, a/DT, bus/NN, ./.] 	357
+[The/DT, man/NN, lost/VBD, his/PRP$, prosthetic/JJ, leg/NN, ./.] 	[She/PRP, has/VBZ, beautiful/JJ, legs/NNS, ./.] 	358
+[People/NNS, sit/VBP, on/IN, a/DT, subway/NN, train/NN, that/WDT, goes/VBZ, Downtown/NN, ./.] 	[People/NNS, waiting/VBG, on/IN, a/DT, bus/NN, stop/NN, ./.] 	359
+[Collie/NNP, dog/NN, races/NNS, around/IN, a/DT, pole/NN, ./.] 	[A/DT, mountain/NN, biker/NN, swings/NNS, quickly/RB, ./.] 	360
+[A/DT, person/NN, climbs/VBZ, rocks/NNS, ./.] 	[A/DT, man/NN, climbs/VBZ, a/DT, big/JJ, rocky/JJ, mountain/NN, ./.] 	361
+[A/DT, group/NN, of/IN, friends/NNS, together/RB, listing/VBG, to/TO, U2/NN, ./.] 	[A/DT, group/NN, of/IN, friends/NNS, together/RB, ./.] 	362
+[the/DT, children/NNS, watch/VBP, the/DT, tv/NN] 	[The/DT, boy/NN, watched/VBD, television/NN, ./.] 	363
+[The/DT, guys/NNS, are/VBP, waiting/VBG, for/IN, a/DT, game/NN, to/TO, begin/VB, ./.] 	[They/PRP, 're/VBP, waiting/VBG, for/IN, a/DT, game/NN, to/TO, start/VB, ./.] 	364
+[The/DT, player/NN, is/VBZ, wearing/VBG, a/DT, uniform/NN, ./.] 	[The/DT, baseball/NN, player/NN, is/VBZ, wearing/VBG, a/DT, uniform/NN, ./.] 	365
+[Three/CD, sisters/NNS, wearing/VBG, dresses/NNS, stand/VB, outside/JJ, ./.] 	[Three/CD, women/NNS, wearing/VBG, clothes/NNS, stand/VB, outside/JJ, ./.] 	366
+[A/DT, woman/NN, in/IN, a/DT, yellow/JJ, tank/NN, top/NN, is/VBZ, looking/VBG, at/IN, a/DT, window/NN, ./.] 	[A/DT, man/NN, is/VBZ, standing/VBG, in/IN, a/DT, lane/NN, in/IN, the/DT, room/NN, ./.] 	367
+[A/DT, woman/NN, videotapes/NNS, an/DT, event/NN, in/IN, the/DT, tent/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, white/JJ, shirt/NN, pulls/VBZ, a/DT, camera/NN, in/IN, a/DT, tent/NN, ./.] 	368
+[The/DT, boy/NN, is/VBZ, jumping/VBG, off/RP, the/DT, diving/NN, board/NN, ./.] 	[The/DT, man/NN, is/VBZ, jumping/VBG, on/IN, the/DT, trampoline/NN, ./.] 	369
+[There/EX, 's/VBZ, a/DT, woman/NN, with/IN, a/DT, camera/NN, among/IN, several/JJ, other/JJ, women/NNS, in/IN, the/DT, area/NN, ./.] 	[There/EX, are/VBP, a/DT, few/JJ, men/NNS, out/IN, there/RB, ,/,, someone/NN, has/VBZ, a/DT, camera/NN, ./.] 	370
+[Some/DT, men/NNS, are/VBP, being/VBG, given/VBN, an/DT, interview/NN, ./.] 	[The/DT, two/CD, men/NNS, do/VBP, not/RB, say/VB, anything/NN, during/IN, a/DT, debate/NN, ./.] 	371
+[A/DT, boy/NN, wearing/VBG, a/DT, red/JJ, sweatshirt/NN, is/VBZ, raking/VBG, a/DT, pile/NN, of/IN, leaves/NNS, ./.] 	[A/DT, boy/NN, with/IN, a/DT, red/JJ, sweater/NN, piles/NNS, up/IN, the/DT, leaves/NNS, with/IN, a/DT, rake/NN, ./.] 	372
+[Two/CD, rich/JJ, children/NNS, are/VBP, at/IN, daycare/NN, playing/NN, on/IN, the/DT, carpet/NN, ./.] 	[Two/CD, children/NNS, play/VBP, together/RB, in/IN, their/PRP$, own/JJ, room/NN, at/IN, home/NN, ./.] 	373
+[There/EX, is/VBZ, a/DT, very/RB, frustrated/JJ, man/NN, in/IN, the/DT, photograph/NN, ./.] 	[There/EX, 's/VBZ, a/DT, man/NN, out/IN, there/RB, in/IN, this/DT, photo/NN, ./.] 	374
+[A/DT, man/NN, is/VBZ, inside/IN, trying/VBG, on/IN, glasses/NNS, ./.] 	[A/DT, shirtless/JJ, man/NN, staring/VBG, out/IN, of/IN, a/DT, glass/NN, ./.] 	375
+[The/DT, kid/NN, skateboards/NNS, straight/RB, down/IN, the/DT, sidewalk/NN, ./.] 	[The/DT, boy/NN, skates/VBZ, on/IN, the/DT, sidewalk/NN, ./.] 	376
+[The/DT, dog/NN, is/VBZ, sleeping/VBG, near/IN, the/DT, pool/NN] 	[A/DT, dog/NN, is/VBZ, sleeping/VBG, near/IN, water/NN, ./.] 	377
+[A/DT, man/NN, is/VBZ, outside/JJ, in/IN, a/DT, city/NN, ./.] 	[A/DT, man/NN, is/VBZ, walking/VBG, in/IN, a/DT, city/NN, ./.] 	378
+[The/DT, camera/NN, is/VBZ, on/IN, the/DT, floor/NN, ./.] 	[There/EX, 's/VBZ, a/DT, camera/NN, on/IN, the/DT, street/NN, ./.] 	379
+[A/DT, man/NN, is/VBZ, driving/VBG, by/IN, the/DT, exhibition/NN, hall/NN, in/IN, a/DT, small/JJ, yellow/JJ, car/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, shopping/NN, mall/NN, and/CC, a/DT, biciclete/JJ, gold/NN, sculpture/NN, are/VBP, on/IN, display/NN, ./.] 	380
+[A/DT, man/NN, in/IN, a/DT, white/JJ, t-shirt/NN, holding/VBG, a/DT, cellphone/NN, is/VBZ, standing/VBG, on/IN, a/DT, street/NN, corner/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, black/JJ, hat/NN, stands/VBZ, next/JJ, to/TO, a/DT, street/NN, lamp/NN, ./.] 	381
+[Two/CD, men/NNS, are/VBP, holding/VBG, weapons/NNS, ./.] 	[Two/CD, armed/JJ, men/NNS, ./.] 	382
+[There/EX, is/VBZ, a/DT, war/NN, reenactment/NN, among/IN, friends/NNS, ./.] 	[Kids/NNS, are/VBP, doing/VBG, civil/JJ, war/NN, revival/NN, ./.] 	383
+[Man/NN, waits/VBZ, for/IN, taxis/NNS, to/TO, pass/VB, before/RB, crossing/VBG, the/DT, wet/JJ, road/NN, ./.] 	[The/DT, dog/NN, waits/VBZ, for/IN, taxis/NNS, to/TO, pass/VB, before/IN, the/DT, wet/JJ, road/NN, passes/VBZ, ./.] 	384
+[A/DT, girl/NN, is/VBZ, sleeping/VBG, in/IN, a/DT, bunk/NN, bed/NN, ./.] 	[A/DT, boy/NN, is/VBZ, sleeping/VBG, in/IN, a/DT, bed/NN, ./.] 	385
+[people/NNS, eat/VBP, upstairs/NN, while/IN, man/NN, below/IN, unpacks/NNS] 	[People/NNS, open/JJ, boxes/NNS, when/WRB, people/NNS, eat/VBP] 	386
+[Man/NN, sitting/VBG, on/IN, bench/NN, next/JJ, to/TO, bike/NN, ./.] 	[The/DT, camper/NN, is/VBZ, sitting/VBG, next/JJ, to/TO, his/PRP$, backpack/NN, ./.] 	387
+[A/DT, man/NN, is/VBZ, looking/VBG, at/IN, ducks/NNS, hanging/VBG, through/IN, a/DT, window/NN, of/IN, an/DT, ethnic/JJ, food/NN, store/NN, ./.] 	[A/DT, man/NN, is/VBZ, looking/VBG, at/IN, food/NN, for/IN, sale/NN, outside/IN, a/DT, store/NN, ./.] 	388
+[Dogs/NNS, crossing/VBG, a/DT, lake/NN, using/VBG, a/DT, footbridge/NN, ./.] 	[A/DT, cyclist/NN, on/IN, the/DT, road/NN, near/IN, a/DT, fence/NN, ./.] 	389
+[An/DT, old/JJ, couple/NN, has/VBZ, just/RB, gotten/VBN, engaged/VBN, ./.] 	[A/DT, couple/NN, was/VBD, newly/RB, engaged/VBN, ./.] 	390
+[a/DT, shirtless/JJ, boy/NN, sleeps/NNS, on/IN, a/DT, couch/NN] 	[Child/NN, on/IN, the/DT, couch/NN] 	391
+[A/DT, girl/NN, is/VBZ, with/IN, a/DT, snowman/NN, ./.] 	[One/CD, man/NN, with/IN, a/DT, puppy/NN, ./.] 	392
+[The/DT, older/JJR, man/NN, has/VBZ, a/DT, younger/JJR, fashion/NN, sense/NN, than/IN, the/DT, younger/JJR, man/NN, ./.] 	[An/DT, old/JJ, man/NN, talks/NNS, to/TO, a/DT, young/JJ, woman/NN, ./.] 	393
+[A/DT, man/NN, jumps/VBZ, over/IN, his/PRP$, friend/NN, to/TO, avoid/VB, waking/VBG, him/PRP, ./.] 	[A/DT, woman/NN, throws/VBZ, her/PRP$, into/IN, the/DT, pool/NN, to/TO, make/VB, her/PRP$, son/NN, laugh/NN, ./.] 	394
+[The/DT, man/NN, is/VBZ, walking/VBG, to/TO, pick/VB, stone/NN, ./.] 	[There/EX, 's/VBZ, only/RB, one/CD, person/NN, walking/VBG, in/IN, the/DT, street/NN, wondering/VBG, where/WRB, all/PDT, the/DT, people/NNS, are/VBP, going/VBG, ./.] 	395
+[A/DT, couple/NN, are/VBP, at/IN, the/DT, beach/NN, ./.] 	[There/EX, are/VBP, a/DT, few/JJ, people/NNS, on/IN, the/DT, beach/NN, ./.] 	396
+[a/DT, guy/NN, rides/NNS, his/PRP$, bike/NN, to/TO, the/DT, metro/NN] 	[A/DT, man/NN, rides/NNS, a/DT, bicycle/NN, in/IN, the/DT, parking/NN, lot/NN, ./.] 	397
+[A/DT, woman/NN, with/IN, a/DT, suitcase/NN, takes/VBZ, a/DT, break/NN, at/IN, the/DT, park/NN, bench/NN, ./.] 	[A/DT, man/NN, is/VBZ, sitting/VBG, on/IN, a/DT, bench/NN, in/IN, a/DT, park/NN, ./.] 	398
+[The/DT, men/NNS, feel/VBP, the/DT, cold/NN, ./.] 	[The/DT, men/NNS, feel/VBP, warm/JJ, ./.] 	399
+[A/DT, police/NN, officer/NN, keeps/VBZ, watch/VB, a/DT, parade/NN, ./.] 	[A/DT, police/NN, officer/NN, is/VBZ, watching/VBG, every/DT, one/CD, at/IN, the/DT, parade/NN, ./.] 	400
+[A/DT, group/NN, of/IN, young/JJ, women/NNS, compete/VBP, in/IN, the/DT, triathlon/NN, ./.] 	[A/DT, group/NN, of/IN, girls/NNS, are/VBP, participating/VBG, in/IN, a/DT, skate/NN, tournament/NN, ./.] 	401
+[A/DT, woman/NN, in/IN, a/DT, black/JJ, coat/NN, looks/VBZ, at/IN, a/DT, window/NN, display/NN, of/IN, bread/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, black/JJ, dress/NN, is/VBZ, sitting/VBG, in/IN, front/NN, of/IN, a/DT, desk/NN, ./.] 	402
+[A/DT, girl/NN, is/VBZ, eating/VBG, cereal/NN, straight/RB, out/IN, of/IN, the/DT, box/NN, ./.] 	[The/DT, boy/NN, is/VBZ, out/RP, for/IN, a/DT, half-hour/NN, ./.] 	403
+[A/DT, blond/JJ, woman/NN, walking/VBG, a/DT, plaza/NN, in/IN, front/NN, of/IN, brightly/RB, colored/VBN, buildings/NNS, ./.] 	[A/DT, blonde/JJ, woman/NN, in/IN, front/NN, of/IN, brilliant/JJ, buildings/NNS] 	404
+[Two/CD, men/NNS, on/IN, mopeds/NNS, drive/VBP, down/RP, the/DT, street/NN, ./.] 	[Two/CD, Asian/JJ, men/NNS, on/IN, motorbike/NN, ride/NN, down/IN, the/DT, street/NN, ./.] 	405
+[There/EX, are/VBP, many/JJ, boys/NNS, ./.] 	[There/EX, are/VBP, three/CD, animals/NNS, out/IN, there/RB, ./.] 	406
+[The/DT, man/NN, is/VBZ, using/VBG, tools/NNS, ./.] 	[A/DT, man/NN, and/CC, a/DT, boy/NN, are/VBP, watching/VBG, something/NN, with/IN, a/DT, telescope/NN, ./.] 	407
+[Two/CD, children/NNS, playing/VBG, on/IN, an/DT, orange/JJ, jungle/NN, gym/NN, in/IN, the/DT, winter/NN, time/NN, ./.] 	[Two/CD, young/JJ, girls/NNS, play/VBP, in/IN, the/DT, hot/JJ, summer/NN, sun/NN, between/IN, the/DT, fountains/NNS, ./.] 	408
+[Three/CD, men/NNS, are/VBP, happy/JJ, ./.] 	[Two/CD, guys/NNS, are/VBP, having/VBG, fun/NN, ./.] 	409
+[Asian/JJ, women/NNS, hold/VBP, a/DT, young/JJ, girl/NN, ./.] 	[Two/CD, Asian/JJ, women/NNS, preparing/VBG, a/DT, meal/NN, while/IN, watching/VBG, a/DT, young/JJ, man/NN, ./.] 	410
+[A/DT, woman/NN, dressed/VBN, in/IN, white/JJ, hitting/VBG, a/DT, tennis/NN, ball/NN, ./.] 	[A/DT, young/JJ, woman/NN, in/IN, a/DT, blue/JJ, shirt/NN, ,/,, white/JJ, shorts/NNS, hits/VBZ, a/DT, tennis/NN, ball/NN, ./.] 	411
+[The/DT, street/NN, is/VBZ, deserted/VBN, ./.] 	[The/DT, street/NN, is/VBZ, crowded/VBN, ./.] 	412
+[Three/CD, men/NNS, are/VBP, standing/VBG, on/IN, a/DT, ledge/NN, and/CC, no/DT, one/NN, smokes/VBZ, ./.] 	[A/DT, few/JJ, men/NNS, are/VBP, on/IN, your/PRP$, feet/NNS, ./.] 	413
+[A/DT, man/NN, is/VBZ, driving/VBG, down/RP, the/DT, street/NN, as/IN, two/CD, cars/NNS, are/VBP, passing/VBG, by/IN, going/VBG, the/DT, opposite/JJ, direction/NN, ./.] 	[There/EX, are/VBP, people/NNS, hanging/VBG, out/IN, of/IN, this/DT, vehicle/NN, that/WDT, is/VBZ, down/IN, a/DT, road/NN, ./.] 	414
+[There/EX, are/VBP, three/CD, people/NNS, on/IN, grass/NN, ./.] 	[Two/CD, people/NNS, make/VBP, love/NN, in/IN, the/DT, grass/NN, ./.] 	415
+[A/DT, large/JJ, white/JJ, pipe/NN, is/VBZ, being/VBG, lowered/VBN, on/IN, a/DT, trailer/NN, ,/,, as/IN, two/CD, workers/NNS, stand/VBP, by/IN, ./.] 	[A/DT, blue/JJ, sweater/NN, ,/,, working/VBG, on/IN, a/DT, large/JJ, rock/NN, supported/VBN, by/IN, wooden/JJ, planks/NNS, ./.] 	416
+[Two/CD, older/JJR, men/NNS, are/VBP, having/VBG, a/DT, discussion/NN, outdoors/RB, in/IN, an/DT, area/NN, with/IN, stone/NN, walls/NNS, and/CC, floor/NN, ./.] 	[Three/CD, womens/NNS, walk/VBP, in/IN, the/DT, open/JJ, ,/,, stone/NN, building/NN, with/IN, sand/NN, on/IN, the/DT, floor/NN, ./.] 	417
+[A/DT, sweat/NN, shop/NN, is/VBZ, in/IN, full/JJ, spring/NN, ./.] 	[The/DT, guy/NN, with/IN, the/DT, green/JJ, shirt/NN, is/VBZ, cooking/VBG, for/IN, his/PRP$, family/NN, at/IN, the/DT, campfire/NN, ./.] 	418
+[The/DT, toddler/NN, is/VBZ, walking/VBG, next/JJ, to/TO, the/DT, pram/NN, ./.] 	[The/DT, door/NN, with/IN, a/DT, purity/NN, ,/,, next/JJ, to/TO, the/DT, woman/NN, ./.] 	419
+[A/DT, woman/NN, cooks/NNS, on/IN, the/DT, stove/NN, in/IN, her/PRP$, kitchen/NN, as/IN, her/PRP$, dog/NN, begs/VBZ, below/IN, ./.] 	[A/DT, young/JJ, woman/NN, is/VBZ, cooking/NN, in/IN, the/DT, kitchen/NN, ./.] 	420
+[A/DT, cyclist/NN, rushes/VBZ, through/IN, the/DT, air/NN] 	[A/DT, bicycle/NN, jumps/VBZ, in/IN, the/DT, air/NN, ./.] 	421
+[They/PRP, are/VBP, relaxing/VBG, in/IN, front/NN, of/IN, the/DT, television/NN, ./.] 	[A/DT, bunch/NN, of/IN, people/NNS, are/VBP, waiting/VBG, in/IN, line/NN, for/IN, the/DT, new/JJ, movie/NN, ./.] 	422
+[A/DT, guy/NN, is/VBZ, riding/VBG, a/DT, moped/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, bike/NN, ./.] 	423
+[Two/CD, people/NNS, ,/,, a/DT, man/NN, and/CC, a/DT, woman/NN, ,/,, are/VBP, looking/VBG, at/IN, a/DT, structure/NN, being/VBG, burned/VBN, down/RP, ./.] 	[There/EX, are/VBP, two/CD, people/NNS, ,/,, a/DT, man/NN, and/CC, a/DT, boy/NN, ./.] 	424
+[A/DT, man/NN, in/IN, an/DT, elephant/NN, costume/NN, plays/VBZ, the/DT, electric/JJ, keyboard/NN, ./.] 	[A/DT, guy/NN, in/IN, a/DT, shirt/NN, is/VBZ, playing/VBG, a/DT, keyboard/NN, ./.] 	425
+[The/DT, fisherman/NN, is/VBZ, waiting/VBG, on/IN, help/NN, to/TO, fix/VB, the/DT, net/NN, ./.] 	[The/DT, man/NN, is/VBZ, working/VBG, hard/RB, to/TO, use/VB, the/DT, saw/NN, to/TO, cut/VB, the/DT, logs/NNS, ./.] 	426
+[Willie/NNP, Nelson/NNP, looking/VBG, stage/NN, right/NN, while/IN, at/IN, the/DT, microphone/NN, ./.] 	[There/EX, 's/VBZ, a/DT, man/NN, playing/VBG, a/DT, drums/NNS, out/RP, at/IN, sunset/NN, and/CC, a/DT, guy/NN, playing/VBG, a/DT, guitar/NN, sitting/VBG, behind/IN, him/PRP, ./.] 	427
+[Three/CD, guys/NNS, and/CC, one/CD, woman/NN, sitting/VBG, in/IN, chairs/NNS, looking/VBG, attentively/RB, to/TO, the/DT, right/NN, ./.] 	[The/DT, guy/NN, and/CC, the/DT, girl/NN, are/VBP, staring/VBG, at/IN, each/DT, other/JJ, cheerfully/RB, while/IN, sitting/VBG, in/IN, a/DT, chair/NN, ./.] 	428
+[A/DT, man/NN, with/IN, a/DT, handicap/NN, was/VBD, in/IN, a/DT, wheelchair/NN, race/NN, and/CC, won/VBD, ./.] 	[A/DT, runner/NN, running/VBG, in/IN, the/DT, first/JJ, race/NN] 	429
+[The/DT, man/NN, and/CC, child/NN, are/VBP, in/IN, their/PRP$, swim/VBP, gear/NN, walking/NN, by/IN, billboards/NNS, ./.] 	[The/DT, two/CD, women/NNS, are/VBP, walking/VBG, their/PRP$, dogs/NNS, beside/IN, the/DT, blue/JJ, building/NN, ./.] 	430
+[Two/CD, groups/NNS, of/IN, children/NNS, are/VBP, playing/VBG, soccer/NN, ./.] 	[A/DT, group/NN, of/IN, young/JJ, people/NNS, is/VBZ, playing/VBG, soccer/NN, ./.] 	431
+[Three/CD, sheep/NN, graze/VBP, on/IN, the/DT, grassy/JJ, field/NN, with/IN, a/DT, dog/NN, walking/VBG, behind/IN, them/PRP, ./.] 	[Two/CD, dogs/NNS, walk/VBP, in/IN, a/DT, field/NN, with/IN, sheep/NN, ./.] 	432
+[A/DT, fisherman/NN, is/VBZ, sorting/VBG, through/IN, the/DT, caught/VBN, fish/NN, ./.] 	[A/DT, dog/NN, runs/VBZ, in/IN, the/DT, water/NN, to/TO, catch/VB, a/DT, fish/NN, ./.] 	433
+[The/DT, vest/NN, is/VBZ, dark/JJ, ./.] 	[Room/NN, dark/NN] 	434
+[A/DT, little/JJ, girl/NN, in/IN, pink/JJ, sits/VBZ, quietly/RB, reading/VBG, a/DT, book/NN, ./.] 	[The/DT, woman/NN, is/VBZ, reading/VBG, a/DT, story/NN, to/TO, the/DT, little/JJ, boy/NN] 	435
+[Little/JJ, boy/NN, having/VBG, lunch/NN, in/IN, a/DT, cafe/NN] 	[Man/NN, eating/VBG, a/DT, restaurant/NN] 	436
+[people/NNS, are/VBP, skateboarding/NNP] 	[People/NNS, are/VBP, riding/VBG, on/IN, skis/NNS, ./.] 	437
+[A/DT, young/JJ, person/NN, is/VBZ, working/VBG, in/IN, the/DT, yard/NN, ./.] 	[It/PRP, 's/VBZ, a/DT, man/NN, ./.] 	438
+[A/DT, girl/NN, is/VBZ, sleeping/VBG, in/IN, her/PRP$, bedroom/NN, ./.] 	[The/DT, woman/NN, is/VBZ, sleeping/VBG, in/IN, the/DT, bedroom/NN, ./.] 	439
+[A/DT, woman/NN, helps/VBZ, a/DT, child/NN, ./.] 	[A/DT, woman/NN, pushes/VBZ, a/DT, child/NN, ./.] 	440
+[The/DT, janitor/NN, shines/VBZ, the/DT, floors/NNS, ./.] 	[Someone/NN, is/VBZ, erasing/VBG, the/DT, place/NN, ./.] 	441
+[Some/DT, people/NNS, are/VBP, engaging/VBG, in/IN, activities/NNS, ./.] 	[A/DT, few/JJ, young/JJ, people/NNS, are/VBP, dealing/VBG, with/IN, different/JJ, activities/NNS, ./.] 	442
+[Two/CD, teams/NNS, of/IN, male/JJ, sports/NNS, players/NNS, are/VBP, huddled/VBN, together/RB, on/IN, a/DT, field/NN, covered/VBN, in/IN, mud/NN, with/IN, photographers/NNS, looking/VBG, on/IN, ./.] 	[Four/CD, guys/NNS, playing/VBG, frisbee/NN, on/IN, an/DT, open/JJ, lawn/NN, with/IN, a/DT, few/JJ, people/NNS, and/CC, tents/NNS, in/IN, the/DT, back/NN, ./.] 	443
+[Clown/NN, smiles/VBZ, at/IN, people/NNS, ./.] 	[The/DT, clown/NN, holding/VBG, the/DT, broom/NN, is/VBZ, smile/NN, to/TO, the/DT, people/NNS, ./.] 	444
+[A/DT, young/JJ, girl/NN, hangs/VBZ, from/IN, a/DT, basketball/NN, hoop/NN, while/IN, a/DT, boy/NN, stands/VBZ, underneath/IN, ./.] 	[A/DT, red-haired/JJ, woman/NN, in/IN, white/JJ, and/CC, purple/JJ, is/VBZ, passing/VBG, by/IN, a/DT, red/JJ, sports/NNS, car/NN, ./.] 	445
+[A/DT, woman/NN, in/IN, pajamas/NNS, hangs/VBZ, laundry/NN, on/IN, a/DT, clothesline/NN, ./.] 	[A/DT, woman/NN, who/WP, cleans/VBZ, the/DT, bathroom/NN, ./.] 	446
+[A/DT, parade/NN, of/IN, people/NNS, wearing/VBG, red/JJ, march/NN, past/IN, a/DT, building/NN, while/IN, playing/VBG, instruments/NNS, ./.] 	[Two/CD, people/NNS, dressed/VBN, in/IN, black/JJ, are/VBP, standing/VBG, next/JJ, to/TO, a/DT, blue/JJ, wall/NN, when/WRB, the/DT, city/NN, is/VBZ, in/IN, the/DT, background/NN, ./.] 	447
+[A/DT, child/NN, is/VBZ, rolling/VBG, blading/VBG, down/RP, a/DT, path/NN, on/IN, Venice/NNP, Beach/NNP, ./.] 	[One/CD, rides/NNS, a/DT, bicycle/NN, in/IN, a/DT, garden/NN, ./.] 	448
+[A/DT, person/NN, giving/VBG, directions/NNS, to/TO, a/DT, crowd/NN, of/IN, younger/JJR, people/NNS, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, seem/VBP, to/TO, be/VB, listening/VBG, to/TO, a/DT, group/NN, of/IN, people/NNS, loudspeakers/NNS, while/IN, they/PRP, are/VBP, talking/VBG, behind/IN, them/PRP, ./.] 	449
+[These/DT, people/NNS, are/VBP, fishing/NN] 	[People/NNS, are/VBP, fishing/NN] 	450
+[The/DT, man/NN, is/VBZ, conducting/VBG, an/DT, interview/NN, for/IN, Fox/NNP, News/NNP] 	[The/DT, group/NN, is/VBZ, interviewing/VBG, a/DT, news/NN, reporter/NN, backstage/RB, ./.] 	451
+[three/CD, women/NNS, are/VBP, exploring/VBG] 	[Three/CD, women/NNS, together/RB] 	452
+[the/DT, man/NN, read/VB, alone/RB, outside/JJ] 	[Adam/NNP, is/VBZ, waiting/VBG, to/TO, rob/VB, people/NNS, ./.] 	453
+[The/DT, kids/NNS, are/VBP, splashing/VBG, water/NN, everywhere/RB, ./.] 	[Young/JJ, children/NNS, are/VBP, splashing/VBG, water/NN, between/IN, themselves/PRP, ./.] 	454
+[Two/CD, people/NNS, are/VBP, cruising/VBG, down/IN, the/DT, road/NN, on/IN, their/PRP$, bikes/NNS, ./.] 	[Three/CD, people/NNS, are/VBP, driving/VBG, motorcycles/NNS, on/IN, the/DT, open/JJ, road/NN, ./.] 	455
+[A/DT, young/JJ, girl/NN, squishes/VBZ, her/PRP$, face/NN, in/IN, a/DT, smile/NN, for/IN, the/DT, camera/NN, ./.] 	[A/DT, young/JJ, girl/NN, and/CC, a/DT, woman/NN, smile/NN, to/TO, the/DT, camera/NN, ./.] 	456
+[A/DT, surfer/NN, walking/VBG, into/IN, the/DT, ocean/NN] 	[A/DT, surfer/NN, paddles/NNS, in/IN, the/DT, ocean/NN, ./.] 	457
+[A/DT, man/NN, and/CC, his/PRP$, pet/NN, are/VBP, outside/JJ, ./.] 	[A/DT, boy/NN, and/CC, a/DT, dog/NN, are/VBP, out/RB, ./.] 	458
+[The/DT, woman/NN, in/IN, the/DT, blue/JJ, top/NN, is/VBZ, holding/VBG, a/DT, pink/JJ, jacket/NN, in/IN, her/PRP$, arms/NNS] 	[The/DT, woman/NN, is/VBZ, wearing/VBG, a/DT, blue/JJ, jacket/NN, ./.] 	459
+[The/DT, man/NN, and/CC, woman/NN, are/VBP, in/IN, different/JJ, rooms/NNS, ./.] 	[The/DT, woman/NN, and/CC, the/DT, man/NN, are/VBP, close/JJ, to/TO, each/DT, other/JJ, ./.] 	460
+[Two/CD, people/NNS, shake/VB, hands/NNS, under/IN, a/DT, sign/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, is/VBZ, sitting/VBG, with/IN, their/PRP$, hands/NNS, clasped/VBN, ./.] 	461
+[A/DT, football/NN, fan/NN, is/VBZ, at/IN, a/DT, football/NN, game/NN, in/IN, a/DT, stadium/NN, ./.] 	[A/DT, crowded/JJ, group/NN, in/IN, a/DT, Birmingham/NNP, football/NN, game/NN, ./.] 	462
+[A/DT, horse/NN, is/VBZ, running/VBG, fast/RB, ./.] 	[The/DT, horse/NN, is/VBZ, running/VBG, fast/RB, ./.] 	463
+[The/DT, passengers/NNS, are/VBP, riding/VBG, in/IN, the/DT, trailer/NN, connected/VBN, to/TO, the/DT, tractor/NN, ./.] 	[People/NNS, are/VBP, getting/VBG, on/IN, the/DT, track/NN, ./.] 	464
+[A/DT, group/NN, of/IN, young/JJ, people/NNS, hang/VBP, out/RP, in/IN, the/DT, evening/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sit/VBP, at/IN, a/DT, party/NN, ./.] 	465
+[A/DT, woman/NN, in/IN, a/DT, blue/JJ, shirt/NN, is/VBZ, typing/NN, on/IN, a/DT, laptop/JJ, computer/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, black/JJ, suit/NN, using/VBG, a/DT, telephone/NN, club/NN, ./.] 	466
+[A/DT, girl/NN, floating/VBG, in/IN, the/DT, ocean/NN, on/IN, a/DT, beautiful/JJ, day/NN, ./.] 	[A/DT, girl/NN, walks/VBZ, into/IN, the/DT, ocean/NN, ./.] 	467
+[A/DT, person/NN, and/CC, a/DT, horse/NN, are/VBP, wearing/VBG, things/NNS, ./.] 	[A/DT, dark-skinned/JJ, woman/NN, who/WP, does/VBZ, not/RB, wear/VB, anything/NN, but/CC, a/DT, band/NN, is/VBZ, standing/VBG, in/IN, the/DT, water/NN, washing/VBG, her/PRP$, clothes/NNS, ./.] 	468
+[A/DT, man/NN, at/IN, a/DT, costume/NN, party/NN, is/VBZ, serving/VBG, drinks/NNS, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, are/VBP, participating/VBG, in/IN, a/DT, cup/NN, of/IN, the/DT, Witches/NNS, party/NN] 	469
+[A/DT, person/NN, is/VBZ, shopping/NN, ./.] 	[The/DT, person/NN, is/VBZ, shopping/NN, ./.] 	470
+[Two/CD, people/NNS, are/VBP, skiing/VBG, down/RP, a/DT, mountain/NN, ./.] 	[There/EX, are/VBP, many/JJ, people/NNS, sliding/VBG, down/RP, a/DT, mountain/NN, ./.] 	471
+[People/NNS, watching/VBG, Jaws/NNP, at/IN, the/DT, movie/NN, theater/NN, ./.] 	[The/DT, people/NNS, in/IN, the/DT, cinema/NN, ./.] 	472
+[Two/CD, people/NNS, are/VBP, waiting/VBG, for/IN, a/DT, job/NN, interview/NN, ./.] 	[The/DT, reporters/NNS, are/VBP, interviewing/VBG, people/NNS, in/IN, a/DT, nursing/NN, home/NN, ./.] 	473
+[A/DT, cat/NN, is/VBZ, playing/VBG, with/IN, string/NN, in/IN, a/DT, window/NN, ./.] 	[A/DT, man/NN, is/VBZ, on/IN, stage/NN, with/IN, a/DT, guitar/NN, ./.] 	474
+[A/DT, group/NN, of/IN, people/NNS, stand/VBP, on/IN, the/DT, beach/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, are/VBP, sitting/VBG, on/IN, the/DT, beach/NN, ./.] 	475
+[Two/CD, people/NNS, are/VBP, canoeing/VBG, ./.] 	[Three/CD, people/NNS, are/VBP, using/VBG, canoes/NNS, ./.] 	476
+[A/DT, young/JJ, man/NN, tries/VBZ, a/DT, game/NN, out/RP, at/IN, the/DT, store/NN, ./.] 	[A/DT, girl/NN, is/VBZ, trying/VBG, to/TO, beat/VB, someone/NN, in/IN, a/DT, bowling/NN, match/NN, ./.] 	477
+[A/DT, roller/NN, coaster/NN, has/VBZ, gone/VBN, half/DT, way/NN, across/IN, the/DT, loop/NN, ./.] 	[The/DT, speed/NN, train/NN, crosses/VBZ, a/DT, curve/NN, and/CC, turns/VBZ, people/NNS, around/IN, ./.] 	478
+[Woman/NNP, opening/VBG, her/PRP$, purse/NN, in/IN, a/DT, Canadian/JJ, bakery/NN, ./.] 	[A/DT, woman/NN, in/IN, the/DT, hatch/NN, opens/VBZ, her/PRP$, wallet/NN, ./.] 	479
+[A/DT, photoshoot/NN, for/IN, a/DT, popular/JJ, band/NN, ./.] 	[It/PRP, 's/VBZ, a/DT, band/NN, that/WDT, gives/VBZ, a/DT, concert/NN, when/WRB, the/DT, singer/NN, is/VBZ, photographed/VBN, from/IN, close/JJ, range/NN, ./.] 	480
+[A/DT, couple/NN, and/CC, their/PRP$, child/NN, enjoy/VB, a/DT, day/NN, at/IN, the/DT, beach/NN, ./.] 	[Mother/NN, and/CC, daughter/NN, are/VBP, enjoying/VBG, a/DT, day/NN, at/IN, the/DT, beach/NN, ./.] 	481
+[Some/DT, people/NNS, in/IN, the/DT, military/NN, are/VBP, playing/VBG, ball/NN, ./.] 	[There/EX, are/VBP, two/CD, guys/NNS, in/IN, this/DT, photo/NN, and/CC, they/PRP, both/DT, play/VBP, outside/JJ, ./.] 	482
+[They/PRP, are/VBP, both/DT, dachshunds/NNS, ./.] 	[They/PRP, 're/VBP, all/DT, colleagues/NNS, ./.] 	483
+[A/DT, snowboarder/NN, is/VBZ, performing/VBG, a/DT, jump/NN, whilst/IN, riding/VBG, on/IN, a/DT, pink/JJ, snowboard/NN, at/IN, the/DT, end/NN, of/IN, the/DT, season/NN, ./.] 	[The/DT, blue/JJ, person/NN, in/IN, the/DT, snowboard/NN, during/IN, the/DT, jump/NN, ./.] 	484
+[Two/CD, workers/NNS, ,/,, one/CD, lying/VBG, down/RB, and/CC, the/DT, other/JJ, sitting/VBG, in/IN, a/DT, chair/NN, ,/,, take/VB, a/DT, break/NN, outside/JJ, ./.] 	[Two/CD, girls/NNS, clinging/VBG, to/TO, a/DT, cee/NN, ,/,, one/CD, with/IN, water/NN, in/IN, their/PRP$, backs/NNS, ,/,, and/CC, one/CD, in/IN, their/PRP$, overalls/NNS, ./.] 	485
+[Three/CD, butterfly/NN, swimmers/NNS, in/IN, a/DT, pool/NN, ,/,, coming/VBG, towards/IN, the/DT, viewer/NN, ./.] 	[Two/CD, women/NNS, float/NN, in/IN, a/DT, pool/NN, under/IN, a/DT, waterfall/NN, ./.] 	486
+[A/DT, man/NN, is/VBZ, climbing/VBG, a/DT, tree/NN, ./.] 	[A/DT, man/NN, is/VBZ, climbing/VBG, a/DT, ditch/NN] 	487
+[The/DT, boy/NN, is/VBZ, looking/VBG, at/IN, bugs/NNS, ./.] 	[The/DT, child/NN, is/VBZ, looking/VBG, at/IN, a/DT, municipality/NN, ./.] 	488
+[A/DT, brown/JJ, dog/NN, shakes/VBZ, off/RP, water/NN, after/IN, exiting/VBG, a/DT, natural/JJ, pond/NN, ./.] 	[A/DT, big/JJ, brown/JJ, dog/NN, floating/VBG, in/IN, deep/JJ, water/NN, with/IN, a/DT, stick/NN, in/IN, his/PRP$, mouth/NN, ./.] 	489
+[A/DT, younger/JJR, male/NN, is/VBZ, not/RB, sitting/VBG, on/IN, a/DT, chair/NN, ./.] 	[A/DT, man/NN, and/CC, a/DT, woman/NN, are/VBP, sitting/VBG, on/IN, a/DT, table/NN, ./.] 	490
+[The/DT, children/NNS, are/VBP, eating/VBG, dinner/NN] 	[Adults/NNS, are/VBP, eating/VBG, ./.] 	491
+[People/NNS, lean/JJ, together/RB, ./.] 	[People/NNS, are/VBP, spending/VBG, time/NN, together/RB, ./.] 	492
+[The/DT, man/NN, is/VBZ, having/VBG, a/DT, meeting/NN, ./.] 	[There/EX, 's/VBZ, a/DT, man/NN, on/IN, the/DT, edge/NN, line/NN, ./.] 	493
+[A/DT, mother/NN, and/CC, daughter/NN, are/VBP, drinking/VBG, coffee/NN, at/IN, the/DT, kitchen/NN, table/NN, ./.] 	[A/DT, mother/NN, and/CC, her/PRP$, sister/NN, pretzel/NN, in/IN, the/DT, dining/NN, area/NN, of/IN, a/DT, shopping/NN, mall/NN, ./.] 	494
+[Hitler/NNP, dressed/VBD, as/IN, a/DT, goalie/NN, attempts/VBZ, to/TO, re-enact/VB, his/PRP$, favorite/JJ, soccer/NN, game/NN, ./.] 	[A/DT, young/JJ, man/NN, plays/VBZ, the/DT, trumpet/NN, to/TO, prevent/VB, the/DT, other/JJ, team/NN, from/IN, gaining/VBG, attention/NN, ./.] 	495
+[A/DT, girl/NN, is/VBZ, standing/VBG, on/IN, the/DT, rails/NNS, of/IN, a/DT, boardwalk/NN, ,/,, fishing/NN, ./.] 	[A/DT, woman/NN, walks/VBZ, in/IN, the/DT, rain/NN, with/IN, a/DT, small/JJ, child/NN, protected/VBN, by/IN, an/DT, umbrella/NN, outside/IN] 	496
+[People/NNS, at/IN, an/DT, outside/JJ, bar/NN, ,/,, drinking/NN, ./.] 	[A/DT, group/NN, of/IN, young/JJ, people/NNS, are/VBP, sitting/VBG, in/IN, a/DT, city/NN, street/NN, and/CC, chatting/NN, ./.] 	497
+[the/DT, people/NNS, are/VBP, observing/VBG] 	[People/NNS, are/VBP, quietly/RB, observing/VBG, ./.] 	498
+[A/DT, man/NN, is/VBZ, crying/VBG, while/IN, other/JJ, man/NN, sits/VBZ] 	[A/DT, man/NN, and/CC, woman/NN, are/VBP, sitting/VBG] 	499
+[A/DT, group/NN, of/IN, men/NNS, and/CC, women/NNS, who/WP, are/VBP, looking/VBG, at/IN, art/NN, in/IN, a/DT, art/NN, show/NN, ./.] 	[The/DT, young/JJ, woman/NN, in/IN, the/DT, jewelery/NN, store/NN, ./.] 	500

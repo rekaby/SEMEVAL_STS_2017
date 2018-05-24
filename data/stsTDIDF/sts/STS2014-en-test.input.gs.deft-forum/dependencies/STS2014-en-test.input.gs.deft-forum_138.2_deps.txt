@@ -1,0 +1,12 @@
+aux	have	Does
+det	census	the
+nsubj	have	census
+root	ROOT	have
+det	end	an
+amod	end	rear
+dobj	have	end
+case	hat	in
+det	hat	a
+amod	hat	top
+nmod:in	end	hat
+punct	have	?

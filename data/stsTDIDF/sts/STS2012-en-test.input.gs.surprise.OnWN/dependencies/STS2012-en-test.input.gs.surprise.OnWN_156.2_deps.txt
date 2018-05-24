@@ -1,0 +1,5 @@
+root	ROOT	make
+xcomp	make	invalid
+case	use	for
+nmod:for	invalid	use
+punct	make	.

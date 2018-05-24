@@ -1,0 +1,10 @@
+dep	pass	WHO
+punct	pass	:
+compound	virus	New
+nsubj	pass	virus
+aux	pass	can
+advmod	pass	probably
+root	ROOT	pass
+dobj	pass	person
+case	person	to
+nmod:to	pass	person

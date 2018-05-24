@@ -1,0 +1,6 @@
+det	convergence	a
+amod	convergence	casual
+cc	casual	or
+conj:or	casual	unexpected
+root	ROOT	convergence
+punct	convergence	.

@@ -1,0 +1,6 @@
+root	ROOT	Nothing
+amod	Nothing	more
+case	house	than
+det	house	a
+compound	house	dog
+nmod:than	more	house

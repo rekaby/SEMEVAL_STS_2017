@@ -1,0 +1,16 @@
+compound	Desailly	Marcel
+nsubj	believes	Desailly
+punct	Desailly	,
+det	captain	the
+compound	captain	France
+appos	Desailly	captain
+cc	captain	and
+compound	defender	Chelsea
+conj:and	captain	defender
+punct	Desailly	,
+root	ROOT	believes
+det	latter	the
+nsubj	true	latter
+cop	true	is
+ccomp	believes	true
+punct	believes	.

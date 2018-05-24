@@ -1,0 +1,10 @@
+det	boat	A
+amod	boat	small
+amod	boat	yellow
+root	ROOT	boat
+acl	boat	sitting
+case	beach	on
+det	beach	a
+amod	beach	tropical
+nmod:on	sitting	beach
+punct	boat	.

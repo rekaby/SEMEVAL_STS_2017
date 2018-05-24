@@ -1,0 +1,6 @@
+nsubj	saves	Philippines
+root	ROOT	saves
+dobj	saves	100
+case	ferry	after
+nmod:after	saves	ferry
+dep	saves	sinks

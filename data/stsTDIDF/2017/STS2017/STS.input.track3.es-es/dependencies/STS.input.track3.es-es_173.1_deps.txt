@@ -1,0 +1,17 @@
+det	boy	A
+nsubj	watching	boy
+cc	boy	and
+det	dog	a
+conj:and	boy	dog
+case	pier	on
+det	pier	a
+nmod:on	boy	pier
+aux	watching	are
+root	ROOT	watching
+det	dog	another
+nsubj	swim	dog
+ccomp	watching	swim
+case	distance	in
+det	distance	the
+nmod:in	swim	distance
+punct	watching	.

@@ -1,0 +1,12 @@
+det	man	A
+nsubj	lying	man
+aux	lying	is
+root	ROOT	lying
+det	grass	the
+dobj	lying	grass
+case	hair	with
+amod	hair	long
+nmod:with	lying	hair
+cc	hair	and
+conj:and	hair	beard
+punct	lying	.

@@ -1,0 +1,11 @@
+root	ROOT	@edgarblythe
+punct	@edgarblythe	,
+advmod	compatible	So
+compound	Johnson	Lyndon
+nsubj	compatible	Johnson
+cc	Johnson	and
+compound	Kennedy	John
+conj:and	Johnson	Kennedy
+cop	compatible	were
+dep	@edgarblythe	compatible
+punct	@edgarblythe	?

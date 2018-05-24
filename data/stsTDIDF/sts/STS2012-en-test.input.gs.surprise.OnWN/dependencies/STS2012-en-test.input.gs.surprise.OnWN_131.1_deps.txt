@@ -1,0 +1,6 @@
+det	judgement	a
+root	ROOT	judgement
+cc	judgement	or
+conj:or	judgement	opinion
+case	something	about
+nmod:about	judgement	something

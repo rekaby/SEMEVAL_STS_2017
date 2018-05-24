@@ -1,0 +1,6 @@
+dog	pond	nmod:in
+ROOT	dog	root
+dog	.	punct
+dog	Bardan	compound
+pond	in	case
+pond	a	det

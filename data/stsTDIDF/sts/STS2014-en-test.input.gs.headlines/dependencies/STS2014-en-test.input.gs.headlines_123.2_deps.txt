@@ -1,0 +1,8 @@
+nsubj	files	US
+root	ROOT	files
+compound	charges	espionage
+dobj	files	charges
+case	Snowden	against
+nmod:against	charges	Snowden
+case	leaks	over
+nmod:over	files	leaks

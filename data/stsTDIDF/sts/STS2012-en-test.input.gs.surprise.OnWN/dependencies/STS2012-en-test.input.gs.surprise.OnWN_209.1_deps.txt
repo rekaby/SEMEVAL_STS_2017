@@ -1,0 +1,19 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	move	to
+punct	move	-RRB-
+nmod:to	cause	move
+case	space	through
+det	space	a
+nmod:through	move	space
+punct	space	,
+conj:or	space	circuit
+cc	space	or
+conj:or	space	system
+punct	space	,
+appos	space	usu
+punct	cause	.-15) root(ROOT-0, returning
+case	point	to
+det	point	the
+amod	point	starting
+nmod:to	returning	point

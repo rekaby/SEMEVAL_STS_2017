@@ -1,0 +1,12 @@
+nsubj	question	that
+cop	question	was
+det	question	a
+amod	question	stupid
+root	ROOT	question
+cc	question	and
+aux	deserve	did
+neg	deserve	n't
+conj:and	question	deserve
+cc	deserve	and
+conj:and	deserve	answer
+punct	question	.-12) root(ROOT-0, .

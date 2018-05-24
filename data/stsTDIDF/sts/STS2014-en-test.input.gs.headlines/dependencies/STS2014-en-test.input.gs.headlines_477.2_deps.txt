@@ -1,0 +1,8 @@
+nsubj	rescued	Six
+root	ROOT	rescued
+case	capsizes	after
+compound	capsizes	boat
+nmod:after	rescued	capsizes
+case	Bay	in
+compound	Bay	Dublin
+nmod:in	capsizes	Bay

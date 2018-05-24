@@ -1,0 +1,8 @@
+compound	Hollande	François
+nsubj	threatens	Hollande
+root	ROOT	threatens
+amod	action	legal
+dobj	threatens	action
+case	claims	over
+compound	claims	affair
+nmod:over	action	claims

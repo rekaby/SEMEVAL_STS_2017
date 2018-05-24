@@ -1,0 +1,10 @@
+dep	Heard	Shots
+punct	Heard	,
+nsubj	Heard	Explosions
+root	ROOT	Heard
+case	Protest	as
+compound	Protest	Thais
+compound	Protest	Continue
+nmod:as	Heard	Protest
+case	Bangkok	in
+nmod:in	Protest	Bangkok

@@ -1,0 +1,10 @@
+det	hiker	A
+nsubj	bottom	hiker
+cop	bottom	is
+case	bottom	on
+det	bottom	the
+root	ROOT	bottom
+case	hillside	of
+det	hillside	a
+nmod:of	bottom	hillside
+punct	bottom	.

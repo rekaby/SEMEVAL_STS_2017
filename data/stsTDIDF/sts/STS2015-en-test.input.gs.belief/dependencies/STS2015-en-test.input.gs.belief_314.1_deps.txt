@@ -1,0 +1,14 @@
+cc	said	but
+nmod:poss	parents	our
+nsubj	said	parents
+root	ROOT	said
+punct	no	``
+dep	no	oh
+dep	said	no
+punct	no	,
+nsubj	accident	it
+cop	accident	was
+det	accident	an
+parataxis	no	accident
+punct	accident	''
+punct	said	.

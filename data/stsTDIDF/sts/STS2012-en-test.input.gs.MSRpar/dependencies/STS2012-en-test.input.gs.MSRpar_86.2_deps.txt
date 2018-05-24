@@ -1,0 +1,17 @@
+case	Center	At
+compound	Center	Northwest
+compound	Center	Medical
+nmod:at	condition	Center
+case	County	of
+compound	County	Washington
+nmod:of	Center	County
+case	Springdale	in
+nmod:in	Center	Springdale
+punct	condition	,
+nummod	child	one
+nsubj	condition	child
+cop	condition	is
+case	condition	in
+amod	condition	serious
+root	ROOT	condition
+punct	condition	.

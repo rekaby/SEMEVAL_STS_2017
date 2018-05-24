@@ -1,0 +1,8 @@
+det	birds	The
+nsubj	swimming	birds
+aux	swimming	are
+root	ROOT	swimming
+case	water	in
+det	water	the
+nmod:in	swimming	water
+punct	swimming	.

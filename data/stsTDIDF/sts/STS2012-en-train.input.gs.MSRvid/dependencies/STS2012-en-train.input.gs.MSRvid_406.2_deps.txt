@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	running	boy
+aux	running	is
+root	ROOT	running
+nmod	running	toward
+cc	toward	and
+case	waves	from
+det	waves	the
+compound	waves	ocean
+conj:and	toward	waves
+punct	running	.

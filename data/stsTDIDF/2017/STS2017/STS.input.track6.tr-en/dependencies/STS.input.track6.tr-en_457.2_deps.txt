@@ -1,0 +1,7 @@
+det	paddles	A
+compound	paddles	surfer
+root	ROOT	paddles
+case	ocean	in
+det	ocean	the
+nmod:in	paddles	ocean
+punct	paddles	.

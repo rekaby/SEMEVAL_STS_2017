@@ -1,0 +1,5 @@
+compound	Morgan	Piers
+nsubj	questioned	Morgan
+root	ROOT	questioned
+case	police	by
+nmod:by	questioned	police

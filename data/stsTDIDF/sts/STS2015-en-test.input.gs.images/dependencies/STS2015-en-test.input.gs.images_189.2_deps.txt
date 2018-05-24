@@ -1,0 +1,13 @@
+det	male	An
+amod	male	adult
+nsubj	walks	male
+acl	male	wearing
+det	backpack	a
+dobj	wearing	backpack
+root	ROOT	walks
+cc	walks	and
+conj:and	walks	looks
+case	left	to
+det	left	the
+nmod:to	looks	left
+punct	walks	.

@@ -1,0 +1,7 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+det	potato	a
+dobj	cutting	potato
+punct	cutting	.

@@ -1,0 +1,7 @@
+det	dogs	The
+nsubj	play	dogs
+root	ROOT	play
+case	snow	in
+det	snow	the
+nmod:in	play	snow
+punct	play	.

@@ -1,0 +1,8 @@
+instructing	.	punct
+ROOT	instructing	root
+instructing	workers	dobj
+instructing	is	aux
+supervisor	A	det
+workers	male	amod
+supervisor	woman	compound
+instructing	supervisor	nsubj

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	dragging	man
+aux	dragging	is
+root	ROOT	dragging
+det	deer	a
+amod	deer	dead
+dobj	dragging	deer
+punct	dragging	.

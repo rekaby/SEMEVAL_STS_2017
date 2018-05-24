@@ -1,0 +1,8 @@
+compound	Armstrong	Lance
+nsubj	stripped	Armstrong
+root	ROOT	stripped
+case	France	of
+compound	France	Tour
+compound	France	de
+nmod:of	stripped	France
+dobj	stripped	titles

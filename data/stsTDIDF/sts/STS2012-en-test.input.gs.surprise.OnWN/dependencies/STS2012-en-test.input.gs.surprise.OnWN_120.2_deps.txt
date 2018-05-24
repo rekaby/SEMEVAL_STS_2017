@@ -1,0 +1,14 @@
+det	process	a
+root	ROOT	process
+mark	becoming	of
+acl	process	becoming
+amod	important	larger
+cc	larger	or
+conj:or	larger	longer
+cc	larger	or
+conj:or	larger	more
+amod	important	numerous
+cc	numerous	or
+conj:or	numerous	more
+xcomp	becoming	important
+punct	process	.

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+det	motorcycle	a
+dobj	riding	motorcycle
+mark	wearing	while
+advcl	riding	wearing
+det	uniform	a
+amod	uniform	black
+dobj	wearing	uniform
+punct	man	.

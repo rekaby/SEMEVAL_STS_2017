@@ -1,0 +1,14 @@
+advmod	stop	How
+aux	stop	do
+nsubj	stop	I
+root	ROOT	stop
+nmod:poss	dog	my
+dobj	stop	dog
+case	barking	from
+nmod:from	stop	barking
+advmod	bring	when
+nsubj	bring	I
+advcl	stop	bring
+dobj	bring	him
+compound:prt	bring	outside
+punct	stop	?

@@ -1,0 +1,15 @@
+nsubj	Americans	None
+case	casualties	of
+det	casualties	the
+nmod:of	None	casualties
+cop	Americans	was
+ccomp	said	Americans
+punct	said	,
+root	ROOT	said
+compound	Calvert	Capt.
+compound	Calvert	Michael
+nsubj	said	Calvert
+punct	Calvert	,
+compound	spokesman	regiment
+appos	Calvert	spokesman
+punct	said	.

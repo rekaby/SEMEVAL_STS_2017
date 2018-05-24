@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	small
+nsubj	wearing	dog
+aux	wearing	is
+root	ROOT	wearing
+det	ribbon	a
+dobj	wearing	ribbon
+case	street	on
+det	street	the
+nmod:on	ribbon	street
+punct	wearing	.

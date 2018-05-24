@@ -1,0 +1,13 @@
+det	dog	a
+amod	dog	black
+cc	black	and
+conj:and	black	white
+root	ROOT	dog
+acl	dog	jumping
+case	air	in
+det	air	the
+nmod:in	jumping	air
+mark	catch	to
+xcomp	jumping	catch
+det	Frisbee	a
+dobj	catch	Frisbee

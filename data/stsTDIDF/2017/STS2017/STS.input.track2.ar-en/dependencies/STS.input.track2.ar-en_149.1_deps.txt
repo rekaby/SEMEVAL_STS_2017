@@ -1,0 +1,8 @@
+det	people	The
+nsubj	doing	people
+aux	doing	are
+root	ROOT	doing
+det	stroke	the
+amod	stroke	back
+dobj	doing	stroke
+punct	doing	.

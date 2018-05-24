@@ -1,0 +1,15 @@
+nsubj	say	I
+aux	say	would
+root	ROOT	say
+nsubj	do	you
+aux	do	can
+ccomp	say	do
+dobj	do	it
+punct	say	,
+cc	say	but
+nsubjpass	advised	it
+aux	advised	would
+neg	advised	n't
+auxpass	advised	be
+conj:but	say	advised
+punct	say	.

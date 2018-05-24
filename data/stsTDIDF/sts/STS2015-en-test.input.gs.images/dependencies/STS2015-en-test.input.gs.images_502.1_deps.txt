@@ -1,0 +1,6 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	snow	through
+nmod:through	running	snow
+punct	dog	.

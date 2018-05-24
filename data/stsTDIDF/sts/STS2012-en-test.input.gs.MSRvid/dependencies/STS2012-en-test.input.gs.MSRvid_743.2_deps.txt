@@ -1,0 +1,7 @@
+det	girl	A
+amod	girl	little
+root	ROOT	girl
+acl	girl	peddling
+det	scooter	a
+dobj	peddling	scooter
+punct	girl	.

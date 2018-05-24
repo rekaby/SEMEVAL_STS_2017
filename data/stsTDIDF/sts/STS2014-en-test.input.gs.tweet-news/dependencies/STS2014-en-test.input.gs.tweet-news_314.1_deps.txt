@@ -1,0 +1,15 @@
+compound	Court	v?a
+compound	Court	Supreme
+nsubj	Hears	Court
+root	ROOT	Hears
+dobj	Hears	Argument
+case	F.C.C.	on
+det	F.C.C.	the
+nmod:on	Hears	F.C.C.
+punct	Hears	?-9) compound(Authority-2, s
+root	ROOT	Authority
+case	Rule	to
+nmod:to	Authority	Rule
+case	Towers	on
+compound	Towers	Cellphone
+nmod:on	Rule	Towers

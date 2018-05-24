@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	grey
+nsubj	jumps	dog
+root	ROOT	jumps
+mark	bite	to
+xcomp	jumps	bite
+det	leash	a
+amod	leash	green
+dobj	bite	leash
+punct	jumps	.

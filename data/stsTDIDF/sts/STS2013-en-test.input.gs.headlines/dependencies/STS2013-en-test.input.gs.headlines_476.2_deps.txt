@@ -1,0 +1,9 @@
+compound	police	South
+compound	police	Africa
+nsubj	say	police
+root	ROOT	say
+nsubj	killed	they
+ccomp	say	killed
+dobj	killed	30
+cc	30	+
+conj:+	30	miners

@@ -1,0 +1,8 @@
+det	Jeep	A
+amod	Jeep	white
+root	ROOT	Jeep
+acl	Jeep	parked
+case	street	on
+det	street	a
+nmod:on	parked	street
+punct	Jeep	.

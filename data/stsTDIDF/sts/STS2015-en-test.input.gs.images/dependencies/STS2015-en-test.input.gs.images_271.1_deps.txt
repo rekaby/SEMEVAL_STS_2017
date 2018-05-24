@@ -1,0 +1,8 @@
+nummod	surfers	Two
+root	ROOT	surfers
+mark	riding	on
+acl	surfers	riding
+det	wave	a
+amod	wave	small
+dobj	riding	wave
+punct	surfers	.

@@ -1,0 +1,9 @@
+aux	replace	Should
+nsubj	replace	I
+root	ROOT	replace
+cc	replace	or
+conj:or	replace	patch
+det	ceiling	a
+compound	ceiling	plaster
+dobj	patch	ceiling
+punct	replace	?

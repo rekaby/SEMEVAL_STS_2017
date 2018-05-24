@@ -1,0 +1,11 @@
+nsubj	standing	Someone
+root	ROOT	standing
+case	mountain	on
+det	mountain	a
+amod	mountain	snowy
+nmod:on	standing	mountain
+punct	standing	,
+xcomp	standing	watching
+det	plane	a
+dobj	watching	plane
+punct	standing	.

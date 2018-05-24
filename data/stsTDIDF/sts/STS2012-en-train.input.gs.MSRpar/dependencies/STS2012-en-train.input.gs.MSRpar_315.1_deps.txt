@@ -1,0 +1,13 @@
+det	network	The
+nsubj	dropping	network
+aux	dropping	is
+advmod	dropping	also
+root	ROOT	dropping
+nmod:poss	night	its
+compound	night	Friday
+dep	edition	night
+punct	edition	``
+compound	edition	Dateline
+punct	edition	''
+dobj	dropping	edition
+punct	dropping	.

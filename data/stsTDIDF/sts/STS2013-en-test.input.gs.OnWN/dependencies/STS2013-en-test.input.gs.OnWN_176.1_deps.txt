@@ -1,0 +1,7 @@
+root	ROOT	take
+compound:prt	take	in
+punct	or	-LRB-
+advmod	or	mentally
+parataxis	take	or
+advmod	or	physically
+punct	or	-RRB-

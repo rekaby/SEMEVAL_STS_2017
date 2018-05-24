@@ -1,0 +1,15 @@
+det	dog	The
+amod	dog	brown
+nsubj	runs	dog
+root	ROOT	runs
+case	snow	on
+det	snow	the
+nmod:on	runs	snow
+case	ball	with
+det	ball	a
+amod	ball	white
+nmod:with	snow	ball
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	ball	mouth
+punct	runs	.

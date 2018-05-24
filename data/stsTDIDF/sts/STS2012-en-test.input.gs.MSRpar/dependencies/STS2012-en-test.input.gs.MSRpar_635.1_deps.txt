@@ -1,0 +1,15 @@
+det	measures	The
+nsubjpass	taken	measures
+aux	taken	could
+auxpass	taken	be
+root	ROOT	taken
+compound:prt	taken	up
+case	Senate	by
+det	Senate	the
+amod	Senate	full
+nmod:agent	taken	Senate
+case	early	as
+nmod:as	taken	early
+case	Friday	as
+nmod:as	early	Friday
+punct	taken	.

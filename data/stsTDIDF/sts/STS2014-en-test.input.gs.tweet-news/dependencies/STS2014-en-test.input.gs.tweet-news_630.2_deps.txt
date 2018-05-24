@@ -1,0 +1,13 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+nsubj	Played	I
+dep	Contributor	Played
+compound	Laden	Osama
+compound	Laden	bin
+dobj	Played	Laden
+nmod	Played	in
+punct	Contributor	?-10) root(ROOT-0, Zero
+amod	Thirty	Dark
+nummod	Zero	Thirty
+punct	Zero	?

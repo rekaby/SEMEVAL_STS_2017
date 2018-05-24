@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	dancing	woman
+aux	dancing	is
+root	ROOT	dancing
+case	music	to
+nmod:to	dancing	music
+amod	music	standing
+case	bonfire	near
+det	bonfire	a
+nmod:near	standing	bonfire
+punct	dancing	.

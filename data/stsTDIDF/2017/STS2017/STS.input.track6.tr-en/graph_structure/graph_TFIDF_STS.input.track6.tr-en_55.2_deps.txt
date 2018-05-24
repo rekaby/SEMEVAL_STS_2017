@@ -1,0 +1,5 @@
+runs	hand	nmod:on
+runs	He	nsubj
+basketball	a	det
+runs	basketball	dobj
+hand	child	nmod:poss

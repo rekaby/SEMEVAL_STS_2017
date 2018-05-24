@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+nsubj	plays	girl
+root	ROOT	plays
+case	ball	with
+det	ball	a
+compound	ball	water
+nmod:with	plays	ball
+cc	ball	and
+conj:and	ball	laughs
+punct	plays	.

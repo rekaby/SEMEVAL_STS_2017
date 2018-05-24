@@ -1,0 +1,17 @@
+root	ROOT	Van-Vliet
+punct	Van-Vliet	,
+nsubjpass	injured	who
+auxpass	injured	was
+advmod	injured	also
+acl:relcl	Van-Vliet	injured
+punct	injured	,
+xcomp	injured	called
+case	accident	in
+det	accident	the
+nmod:in	called	accident
+case	radio	on
+det	radio	the
+compound	radio	school
+compound	radio	bus
+nmod:on	accident	radio
+punct	Van-Vliet	.

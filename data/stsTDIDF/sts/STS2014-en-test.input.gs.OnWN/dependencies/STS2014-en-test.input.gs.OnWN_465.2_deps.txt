@@ -1,0 +1,7 @@
+root	ROOT	communicate
+cc	communicate	or
+conj:or	communicate	signal
+case	flag	with
+det	flag	a
+nmod:with	signal	flag
+punct	communicate	.

@@ -1,0 +1,17 @@
+advmod	are	Here
+root	ROOT	are
+det	things	some
+nsubj	are	things
+nsubj	worked	that
+acl:relcl	things	worked
+case	son	with
+nmod:poss	son	my
+nmod:with	worked	son
+nsubj	started	who
+acl:relcl	son	started
+compound	training	toilet
+dobj	started	training
+case	years	around
+nummod	years	2.5
+nmod:around	started	years
+punct	are	.

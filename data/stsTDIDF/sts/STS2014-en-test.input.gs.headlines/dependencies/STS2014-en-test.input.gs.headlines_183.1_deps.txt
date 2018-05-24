@@ -1,0 +1,6 @@
+compound	bombing	Car
+nsubj	kills	bombing
+root	ROOT	kills
+dobj	kills	53
+case	Damascus	in
+nmod:in	kills	Damascus

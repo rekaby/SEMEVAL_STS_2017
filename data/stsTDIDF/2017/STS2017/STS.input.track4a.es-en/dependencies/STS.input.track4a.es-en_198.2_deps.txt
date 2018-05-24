@@ -1,0 +1,9 @@
+det	couple	The
+nsubj	smiles	couple
+root	ROOT	smiles
+mark	leaving	before
+advcl	smiles	leaving
+case	honeymoon	for
+nmod:poss	honeymoon	their
+nmod:for	leaving	honeymoon
+punct	smiles	.

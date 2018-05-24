@@ -1,0 +1,8 @@
+nummod	children	Three
+nsubj	sit	children
+root	ROOT	sit
+case	seat	in
+det	seat	an
+amod	seat	outdoor
+nmod:in	sit	seat
+punct	sit	.

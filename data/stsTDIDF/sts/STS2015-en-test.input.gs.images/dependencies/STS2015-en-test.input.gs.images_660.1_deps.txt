@@ -1,0 +1,6 @@
+det	dog	A
+amod	dog	brown
+nsubj	chases	dog
+root	ROOT	chases
+det	Frisbee	a
+dobj	chases	Frisbee

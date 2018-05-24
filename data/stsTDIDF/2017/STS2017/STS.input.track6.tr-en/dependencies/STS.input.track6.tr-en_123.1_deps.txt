@@ -1,0 +1,13 @@
+nummod	girls	Two
+nsubj	crying	girls
+aux	crying	are
+root	ROOT	crying
+mark	kicked	because
+det	boy	a
+nsubj	kicked	boy
+advcl	crying	kicked
+dobj	kicked	them
+case	shin	in
+det	shin	the
+nmod:in	kicked	shin
+punct	crying	.

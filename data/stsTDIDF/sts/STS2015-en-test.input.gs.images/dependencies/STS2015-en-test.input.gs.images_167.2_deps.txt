@@ -1,0 +1,12 @@
+nummod	people	Three
+nsubj	standing	people
+case	skis	on
+nmod:on	people	skis
+aux	standing	are
+root	ROOT	standing
+case	sign	behind
+det	sign	a
+neg	sign	no
+compound	sign	skiing
+nmod:behind	standing	sign
+punct	standing	.

@@ -1,0 +1,6 @@
+nsubj	leave	Floods
+root	ROOT	leave
+nummod	dead	six
+dobj	leave	dead
+case	Philippines	in
+nmod:in	dead	Philippines

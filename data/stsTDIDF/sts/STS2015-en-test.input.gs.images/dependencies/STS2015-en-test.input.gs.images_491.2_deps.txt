@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	has	dog
+root	ROOT	has
+det	ball	an
+amod	ball	orange
+dobj	has	ball
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	has	mouth
+punct	has	.

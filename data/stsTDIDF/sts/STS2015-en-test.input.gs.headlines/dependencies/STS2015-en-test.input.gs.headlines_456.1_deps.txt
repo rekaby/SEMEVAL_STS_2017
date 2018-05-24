@@ -1,0 +1,7 @@
+compound	MPs	S
+compound	MPs	Korea
+root	ROOT	MPs
+mark	visit	to
+acl	MPs	visit
+compound	complex	Kaesong
+dobj	visit	complex

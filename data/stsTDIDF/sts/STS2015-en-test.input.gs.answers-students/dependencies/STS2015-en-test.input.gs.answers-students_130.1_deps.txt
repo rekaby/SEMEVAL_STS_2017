@@ -1,0 +1,7 @@
+compound	A	bulb
+nsubjpass	connected	A
+auxpass	connected	is
+root	ROOT	connected
+mark	switch	to
+xcomp	connected	switch
+dobj	switch	Z

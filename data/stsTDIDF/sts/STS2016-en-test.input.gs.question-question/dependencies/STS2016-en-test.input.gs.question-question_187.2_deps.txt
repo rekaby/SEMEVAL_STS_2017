@@ -1,0 +1,17 @@
+advmod	add	How
+aux	add	can
+nsubj	add	I
+root	ROOT	add
+det	breaker	a
+compound	breaker	GFCI
+dobj	add	breaker
+case	circuits	on
+nummod	circuits	two
+nmod:on	add	circuits
+case	neutral	with
+det	neutral	a
+amod	neutral	shared
+nmod:with	circuits	neutral
+case	rewiring	without
+nmod:without	neutral	rewiring
+punct	add	?

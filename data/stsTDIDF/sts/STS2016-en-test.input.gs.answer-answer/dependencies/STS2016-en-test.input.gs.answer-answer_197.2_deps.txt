@@ -1,0 +1,14 @@
+nsubj	important	It
+cop	important	is
+root	ROOT	important
+mark	keep	to
+xcomp	important	keep
+det	story	the
+dobj	keep	story
+case	scope	in
+det	scope	the
+nmod:in	keep	scope
+case	limit	of
+nmod:poss	limit	your
+nmod:of	scope	limit
+punct	important	.

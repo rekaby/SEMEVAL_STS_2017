@@ -1,0 +1,5 @@
+Man	.	punct
+ROOT	Man	root
+Man	kicking	acl
+kicking	man	dobj
+man	another	det

@@ -1,0 +1,11 @@
+compound	recognition	exhibit
+root	ROOT	recognition
+case	antigen	for
+punct	antigen	-LRB-
+det	antigen	an
+nmod:for	recognition	antigen
+cc	antigen	or
+det	substrate	a
+conj:or	antigen	substrate
+punct	antigen	-RRB-
+punct	recognition	.

@@ -1,0 +1,15 @@
+expl	is	There
+root	ROOT	is
+det	path	a
+amod	path	closed
+nsubj	is	path
+case	A	with
+nmod:with	path	A
+cc	A	and
+conj:and	A	B
+det	C	that
+nsubj	in	C
+cop	in	is
+neg	in	not
+acl:relcl	A	in
+punct	is	.

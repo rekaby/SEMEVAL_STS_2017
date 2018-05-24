@@ -1,0 +1,10 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+det	pan	a
+dobj	putting	pan
+case	oven	into
+det	oven	an
+nmod:into	putting	oven
+punct	putting	.

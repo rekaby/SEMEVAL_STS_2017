@@ -1,0 +1,17 @@
+nsubj	clear	This
+cop	clear	is
+det	clear	a
+root	ROOT	clear
+dep	repudiation	if
+amod	repudiation	implicit
+nmod	clear	repudiation
+case	Mubarak	of
+nmod:of	repudiation	Mubarak
+punct	Mubarak	,
+det	ruler	the
+amod	ruler	sole
+appos	Mubarak	ruler
+case	years	for
+nummod	years	24
+nmod:for	ruler	years
+punct	clear	.

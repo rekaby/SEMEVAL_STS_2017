@@ -1,0 +1,10 @@
+advmod	listen	When
+nsubj	listen	doctors
+aux	listen	do
+neg	listen	n't
+root	ROOT	listen
+dobj	do	what
+aux	do	can
+nsubj	do	you
+ccomp	listen	do
+punct	listen	?

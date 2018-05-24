@@ -1,0 +1,14 @@
+det	boys	The
+nummod	boys	two
+nsubj	playing	boys
+aux	playing	are
+root	ROOT	playing
+compound	ball	kick
+dobj	playing	ball
+advmod	playing	back
+cc	playing	and
+advmod	playing	forth
+case	other	to
+det	other	each
+nmod:to	forth	other
+punct	playing	.

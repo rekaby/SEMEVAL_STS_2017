@@ -1,0 +1,7 @@
+desk	in	case
+dress	in	case
+dress	black	amod
+sitting	desk	nmod:in_front_of
+sitting	woman	nsubj
+woman	dress	nmod:in
+desk	a	det

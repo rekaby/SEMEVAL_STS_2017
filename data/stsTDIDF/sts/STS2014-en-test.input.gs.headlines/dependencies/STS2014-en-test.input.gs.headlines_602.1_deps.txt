@@ -1,0 +1,7 @@
+root	ROOT	Women
+mark	face	to
+acl	Women	face
+amod	premiums	higher
+compound	premiums	car
+compound	premiums	insurance
+dobj	face	premiums

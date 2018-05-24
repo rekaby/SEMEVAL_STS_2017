@@ -1,0 +1,6 @@
+det	motion	the
+amod	motion	rotating
+root	ROOT	motion
+case	object	of
+det	object	an
+nmod:of	motion	object

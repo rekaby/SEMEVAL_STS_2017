@@ -1,0 +1,14 @@
+nsubj	witnessing	We
+aux	witnessing	are
+advmod	witnessing	now
+root	ROOT	witnessing
+det	change	the
+dobj	witnessing	change
+case	identity	of
+amod	identity	Muslim
+nmod:of	change	identity
+case	identity	for
+det	identity	an
+amod	identity	Islamic
+nmod:for	change	identity
+punct	witnessing	.

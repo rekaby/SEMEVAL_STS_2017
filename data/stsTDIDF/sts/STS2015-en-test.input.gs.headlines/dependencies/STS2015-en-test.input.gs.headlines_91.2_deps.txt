@@ -1,0 +1,4 @@
+root	ROOT	Rebels
+case	helicopters	down
+compound	helicopters	Ukraine
+nmod:down	Rebels	helicopters

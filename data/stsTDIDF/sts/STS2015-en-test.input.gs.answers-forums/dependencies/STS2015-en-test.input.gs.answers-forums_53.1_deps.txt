@@ -1,0 +1,14 @@
+expl	are	There
+root	ROOT	are
+advmod	differences	actually
+advmod	differences	quite
+det	differences	a
+amod	differences	few
+nsubj	are	differences
+case	types	between
+det	types	the
+amod	types	different
+nmod:between	differences	types
+case	flour	of
+nmod:of	types	flour
+punct	are	.

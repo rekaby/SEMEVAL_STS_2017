@@ -1,0 +1,7 @@
+det	band	A
+nsubj	performs	band
+root	ROOT	performs
+case	sidewalk	on
+det	sidewalk	a
+nmod:on	performs	sidewalk
+punct	performs	.

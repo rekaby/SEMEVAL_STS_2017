@@ -1,0 +1,8 @@
+root	ROOT	Bodies
+case	victims	of
+compound	victims	MH17
+compound	victims	crash
+nmod:of	Bodies	victims
+acl	victims	flown
+case	Netherlands	to
+nmod:to	flown	Netherlands

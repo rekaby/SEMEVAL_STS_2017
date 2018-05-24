@@ -1,0 +1,12 @@
+blouse	and	cc
+blouse	pants	conj:and
+frolics	.	punct
+pants	blue	amod
+grass	on	case
+frolics	grass	nmod:on
+blouse	a	det
+ROOT	frolics	root
+girl	blouse	nmod:in
+blouse	white	amod
+frolics	girl	nsubj
+blouse	in	case

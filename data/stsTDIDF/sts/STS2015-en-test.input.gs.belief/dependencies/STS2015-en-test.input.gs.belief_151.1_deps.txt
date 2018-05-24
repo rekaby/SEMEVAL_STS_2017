@@ -1,0 +1,14 @@
+advmod	gets	when
+nsubj	gets	it
+advcl	opt	gets
+advmod	$	over
+dobj	gets	$
+nummod	$	5
+det	gallon	a
+nmod:npmod	$	gallon
+punct	opt	,
+dep	opt	i
+nsubj	opt	hafta
+root	ROOT	opt
+compound:prt	opt	out
+punct	opt	...

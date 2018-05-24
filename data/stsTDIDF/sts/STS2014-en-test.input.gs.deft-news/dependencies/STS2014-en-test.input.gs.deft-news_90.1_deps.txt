@@ -1,0 +1,10 @@
+compound	systems	bae
+nsubj	company	systems
+cop	company	is
+det	uk	the
+nmod:poss	company	uk
+case	uk	's
+amod	company	largest
+compound	company	defense
+root	ROOT	company
+punct	company	.

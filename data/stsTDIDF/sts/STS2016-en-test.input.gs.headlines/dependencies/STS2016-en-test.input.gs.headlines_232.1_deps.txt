@@ -1,0 +1,12 @@
+compound	image	Narendra
+compound	image	Modi
+punct	image	`
+amod	image	photoshopped
+punct	image	'
+nsubj	goes	image
+case	floods	of
+compound	floods	Chennai
+nmod:of	image	floods
+nsubj	goes	visit
+root	ROOT	goes
+xcomp	goes	viral

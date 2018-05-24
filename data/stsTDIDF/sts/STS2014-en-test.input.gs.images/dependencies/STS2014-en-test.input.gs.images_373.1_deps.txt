@@ -1,0 +1,15 @@
+det	cow	A
+amod	cow	black
+cc	black	and
+conj:and	black	white
+nsubj	stands	cow
+root	ROOT	stands
+case	grass	on
+nmod:on	stands	grass
+case	sky	against
+det	sky	a
+advmod	cloudy	partly
+amod	sky	cloudy
+amod	sky	blue
+nmod:against	stands	sky
+punct	stands	.

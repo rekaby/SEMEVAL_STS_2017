@@ -1,0 +1,7 @@
+compound	Korea	N.
+nsubj	agrees	Korea
+root	ROOT	agrees
+case	talks	to
+nmod:to	agrees	talks
+case	South	with
+nmod:with	talks	South

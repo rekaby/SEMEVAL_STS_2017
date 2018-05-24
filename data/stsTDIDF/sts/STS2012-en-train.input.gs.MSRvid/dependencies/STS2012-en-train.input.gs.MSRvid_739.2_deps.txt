@@ -1,0 +1,8 @@
+det	person	A
+nsubj	draws	person
+root	ROOT	draws
+case	bill	on
+det	bill	a
+compound	bill	dollar
+nmod:on	draws	bill
+punct	draws	.

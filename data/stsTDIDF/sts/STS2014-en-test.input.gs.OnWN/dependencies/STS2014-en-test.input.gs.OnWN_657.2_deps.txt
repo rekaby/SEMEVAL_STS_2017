@@ -1,0 +1,12 @@
+root	ROOT	wipe
+case	sponge	with
+det	sponge	a
+nmod:with	wipe	sponge
+punct	wipe	,
+advmod	wipe	so
+dep	so	as
+dep	as	to
+dep	to	clean
+cc	clean	or
+conj:or	clean	moisten
+punct	wipe	.

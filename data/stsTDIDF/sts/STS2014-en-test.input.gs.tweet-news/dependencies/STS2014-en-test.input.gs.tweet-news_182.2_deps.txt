@@ -1,0 +1,11 @@
+compound	Sombrotto	Vincent
+nsubj	Dies	Sombrotto
+punct	Sombrotto	,
+nsubj	Led	Who
+acl:relcl	Sombrotto	Led
+compound	Strike	Postal
+dobj	Led	Strike
+punct	Sombrotto	,
+root	ROOT	Dies
+case	89	at
+nmod:at	Dies	89

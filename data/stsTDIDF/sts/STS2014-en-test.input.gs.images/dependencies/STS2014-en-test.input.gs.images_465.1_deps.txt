@@ -1,0 +1,7 @@
+nummod	women	Two
+nsubj	posing	women
+root	ROOT	posing
+case	baby	with
+det	baby	a
+nmod:with	posing	baby
+punct	posing	.

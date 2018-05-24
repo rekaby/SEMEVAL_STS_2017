@@ -1,0 +1,7 @@
+roasting	is	aux
+roasting	man	nsubj
+roasting	oven	nmod:in
+oven	in	case
+roasting	duck	dobj
+ROOT	roasting	root
+oven	his	nmod:poss

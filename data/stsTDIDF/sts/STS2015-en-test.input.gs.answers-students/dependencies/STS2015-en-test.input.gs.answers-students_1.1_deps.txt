@@ -1,0 +1,16 @@
+punct	state	``
+det	state	The
+amod	state	electrical
+nsubj	state	state
+case	matches	at
+det	matches	the
+amod	matches	terminal
+nmod:at	state	matches
+det	battery	the
+dep	state	battery
+punct	battery	''
+punct	state	``
+compound	state	s
+amod	state	electrical
+root	ROOT	state
+punct	state	''

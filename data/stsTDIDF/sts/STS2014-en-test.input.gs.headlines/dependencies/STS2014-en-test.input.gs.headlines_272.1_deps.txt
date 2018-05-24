@@ -1,0 +1,9 @@
+compound	government	US
+root	ROOT	government
+punct	government	`
+case	edge	on
+det	edge	the
+root	`	edge
+case	shutdown	of
+nmod:of	edge	shutdown
+punct	edge	'

@@ -1,0 +1,7 @@
+nummod	supporters	Four
+compound	supporters	Morsi
+nsubj	clashes	supporters
+acl	supporters	killed
+case	Egypt	in
+nmod:in	killed	Egypt
+root	ROOT	clashes

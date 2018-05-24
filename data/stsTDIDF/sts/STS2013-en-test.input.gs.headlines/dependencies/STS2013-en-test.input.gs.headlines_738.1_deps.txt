@@ -1,0 +1,7 @@
+nummod	troops	Nine
+amod	troops	Pakistani
+root	ROOT	troops
+acl	troops	killed
+case	ambush	in
+amod	ambush	militant
+nmod:in	killed	ambush

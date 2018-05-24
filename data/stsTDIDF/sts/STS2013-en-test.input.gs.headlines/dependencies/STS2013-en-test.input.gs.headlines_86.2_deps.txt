@@ -1,0 +1,7 @@
+nsubj	killed	Nine
+root	ROOT	killed
+case	clashes	in
+amod	clashes	Syrian-linked
+nmod:in	killed	clashes
+case	Lebanon	in
+nmod:in	clashes	Lebanon

@@ -1,0 +1,9 @@
+det	problem	the
+nsubj	us	problem
+cop	us	is
+root	ROOT	us
+punct	us	,
+dep	us	through
+cc	through	and
+conj:and	through	through
+punct	us	.

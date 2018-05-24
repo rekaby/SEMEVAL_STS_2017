@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	walks	woman
+root	ROOT	walks
+nmod:poss	dog	her
+dobj	walks	dog
+case	turf	onto
+compound	turf	astro
+nmod:onto	walks	turf
+punct	walks	.

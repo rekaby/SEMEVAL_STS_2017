@@ -1,0 +1,12 @@
+det	dog	The
+nsubj	laying	dog
+aux	laying	is
+root	ROOT	laying
+case	bed	on
+det	bed	a
+nmod:on	laying	bed
+case	sheet	with
+det	sheet	a
+amod	sheet	blue
+nmod:with	bed	sheet
+punct	laying	.

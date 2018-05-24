@@ -1,0 +1,11 @@
+det	rides	A
+compound	rides	BMX
+compound	rides	biker
+root	ROOT	rides
+case	top	along
+det	top	the
+nmod:along	rides	top
+case	fence	of
+det	fence	a
+nmod:of	top	fence
+punct	rides	.

@@ -1,0 +1,12 @@
+compound	Censorship	Hollywood
+amod	Censorship	Accepts
+amod	Censorship	Chinese
+nsubj	Get	Censorship
+punct	Get	-LRB-
+aux	Get	Will
+nsubj	Get	Movies
+root	ROOT	Get
+det	Better	Any
+advmod	Get	Better
+punct	Get	?
+punct	Get	-RRB-

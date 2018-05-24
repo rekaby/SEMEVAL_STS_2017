@@ -1,0 +1,11 @@
+det	motorcycle	A
+amod	motorcycle	white
+nsubjpass	ridden	motorcycle
+aux	ridden	is
+auxpass	ridden	being
+root	ROOT	ridden
+case	track	around
+det	track	a
+compound	track	race
+nmod:around	ridden	track
+punct	ridden	.

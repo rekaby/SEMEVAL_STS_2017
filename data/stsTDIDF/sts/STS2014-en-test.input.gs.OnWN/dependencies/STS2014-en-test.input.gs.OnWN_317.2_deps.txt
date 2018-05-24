@@ -1,0 +1,7 @@
+root	ROOT	regard
+dobj	regard	something
+case	probable	as
+nmod:as	regard	probable
+cc	probable	or
+conj:or	probable	likely
+punct	regard	.

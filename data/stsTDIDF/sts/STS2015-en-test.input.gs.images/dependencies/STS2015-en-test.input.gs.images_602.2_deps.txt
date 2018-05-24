@@ -1,0 +1,10 @@
+nummod	dogs	Two
+amod	dogs	black
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	plain	in
+det	plain	a
+amod	plain	grassy
+nmod:in	playing	plain
+punct	playing	.

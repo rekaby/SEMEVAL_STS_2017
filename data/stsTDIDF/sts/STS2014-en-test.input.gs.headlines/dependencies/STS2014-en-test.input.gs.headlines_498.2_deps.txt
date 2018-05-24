@@ -1,0 +1,7 @@
+amod	passengers	French
+compound	passengers	train
+nsubj	tell	passengers
+root	ROOT	tell
+case	crash	of
+nmod:of	tell	crash
+dobj	tell	ordeal

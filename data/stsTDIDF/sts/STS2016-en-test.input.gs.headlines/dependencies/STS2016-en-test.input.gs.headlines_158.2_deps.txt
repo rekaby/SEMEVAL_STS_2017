@@ -1,0 +1,10 @@
+compound	Council	UN
+compound	Council	Security
+nsubj	urges	Council
+root	ROOT	urges
+nmod:poss	Houthis	Yemen
+case	Yemen	's
+dobj	urges	Houthis
+mark	end	to
+xcomp	urges	end
+punct	urges	...

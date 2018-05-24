@@ -1,0 +1,6 @@
+clothes	dark-colored	amod
+men	crowd	appos
+clothes	Mrtdian	amod
+crowd	people	nmod:of
+watching	clothes	dobj
+men	watching	acl

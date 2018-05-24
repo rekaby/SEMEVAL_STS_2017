@@ -1,0 +1,8 @@
+nmod:tmod	raids	Afghans
+punct	raids	,
+compound	deal	US
+compound	deal	sign
+nsubj	raids	deal
+case	night	on
+nmod:on	deal	night
+root	ROOT	raids

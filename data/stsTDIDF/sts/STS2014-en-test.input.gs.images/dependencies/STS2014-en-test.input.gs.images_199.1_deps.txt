@@ -1,0 +1,11 @@
+det	standing	A
+amod	standing	black
+cc	black	and
+conj:and	black	white
+compound	standing	cow
+root	ROOT	standing
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	standing	field
+punct	standing	.

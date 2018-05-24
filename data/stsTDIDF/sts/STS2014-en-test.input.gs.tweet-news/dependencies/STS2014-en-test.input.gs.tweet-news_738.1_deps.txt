@@ -1,0 +1,6 @@
+compound	Korea	N.
+root	ROOT	Korea
+amod	Korea	defiant
+case	sanctions	on
+compound	sanctions	U.N.
+nmod:on	defiant	sanctions

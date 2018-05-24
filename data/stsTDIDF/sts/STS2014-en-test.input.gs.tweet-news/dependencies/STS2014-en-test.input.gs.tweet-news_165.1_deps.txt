@@ -1,0 +1,13 @@
+compound	Foster	Jodie
+nsubj	care	Foster
+aux	care	would
+root	ROOT	care
+advmod	care	more
+case	Syria	about
+nmod:about	more	Syria
+compound	Airstrikes	Launching
+compound	Airstrikes	Deadly
+dep	Syria	Airstrikes
+case	Damascus	in
+nmod:in	Airstrikes	Damascus
+dep	Airstrikes	Suburbs

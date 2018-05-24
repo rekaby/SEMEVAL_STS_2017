@@ -1,0 +1,6 @@
+nummod	Marines	9,000
+compound	Marines	U.S.
+root	ROOT	Marines
+mark	leave	to
+acl	Marines	leave
+dobj	leave	Okinawa

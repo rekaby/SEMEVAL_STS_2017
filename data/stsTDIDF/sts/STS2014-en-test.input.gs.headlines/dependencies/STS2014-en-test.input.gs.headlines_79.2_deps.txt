@@ -1,0 +1,5 @@
+compound	Briefing	Daily
+compound	Briefing	Press
+root	ROOT	Briefing
+punct	Briefing	:
+dep	Briefing	Syria

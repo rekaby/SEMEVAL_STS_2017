@@ -1,0 +1,7 @@
+det	man	A
+nsubj	rowing	man
+cop	rowing	is
+root	ROOT	rowing
+det	boat	a
+dobj	rowing	boat
+punct	rowing	.

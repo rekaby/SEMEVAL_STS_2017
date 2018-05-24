@@ -1,0 +1,8 @@
+nsubj	jokes	Obama
+root	ROOT	jokes
+case	himself	about
+nmod:about	jokes	himself
+case	dinner	at
+nmod:poss	dinner	reporters
+case	reporters	'
+nmod:at	jokes	dinner

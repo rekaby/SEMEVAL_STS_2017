@@ -1,0 +1,9 @@
+nummod	dogs	Two
+root	ROOT	dogs
+case	look	in
+det	look	a
+amod	look	fenced
+compound	look	kennel
+nmod:in	dogs	look
+advmod	look	ahead
+punct	dogs	.

@@ -1,0 +1,12 @@
+punct	biology	-LRB-
+root	ROOT	biology
+punct	biology	-RRB-
+det	group	a
+amod	group	taxonomic
+appos	biology	group
+acl	group	containing
+nummod	genera	one
+cc	one	or
+conj:or	one	more
+dobj	containing	genera
+punct	biology	;

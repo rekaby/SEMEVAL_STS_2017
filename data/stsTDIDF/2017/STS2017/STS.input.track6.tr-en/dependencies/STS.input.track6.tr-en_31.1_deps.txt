@@ -1,0 +1,7 @@
+det	girl	the
+amod	girl	little
+nsubj	swam	girl
+root	ROOT	swam
+case	pool	in
+det	pool	the
+nmod:in	swam	pool

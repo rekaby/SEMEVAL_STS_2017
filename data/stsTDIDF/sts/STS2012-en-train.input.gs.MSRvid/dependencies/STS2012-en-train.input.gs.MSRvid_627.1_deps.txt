@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	reading	girl
+aux	reading	is
+root	ROOT	reading
+det	newspaper	a
+dobj	reading	newspaper
+punct	reading	.

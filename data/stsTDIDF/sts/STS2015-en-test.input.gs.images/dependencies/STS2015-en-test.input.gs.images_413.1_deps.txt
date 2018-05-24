@@ -1,0 +1,13 @@
+nummod	dogs	Two
+nsubj	running	dogs
+aux	running	are
+root	ROOT	running
+case	grass	through
+det	grass	the
+nmod:through	running	grass
+case	house	near
+det	house	a
+nmod:near	grass	house
+cc	house	and
+conj:and	house	trees
+punct	running	.

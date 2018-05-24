@@ -1,0 +1,14 @@
+nmod:poss	stock	BioReliance
+case	BioReliance	's
+nsubj	closed	stock
+root	ROOT	closed
+advmod	closed	down
+nummod	cents	2
+nmod:npmod	down	cents
+nmod:tmod	closed	yesterday
+case	$	at
+nmod:at	closed	$
+nummod	$	47.98
+case	share	per
+nmod:per	$	share
+punct	closed	.

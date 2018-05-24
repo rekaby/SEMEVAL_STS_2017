@@ -1,0 +1,8 @@
+compete	.	punct
+triathlon	in	case
+compete	triathlon	nmod:in
+women	young	amod
+compete	group	nsubj
+group	women	nmod:of
+triathlon	the	det
+ROOT	compete	root

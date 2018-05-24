@@ -1,0 +1,6 @@
+nsubj	promises	Government
+root	ROOT	promises
+dobj	promises	action
+case	queues	on
+compound	queues	Heathrow
+nmod:on	action	queues

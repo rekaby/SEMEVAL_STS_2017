@@ -1,0 +1,11 @@
+nmod:poss	wing	jamaat-i-islami
+case	jamaat-i-islami	's
+compound	wing	youth
+nsubj	staged	wing
+root	ROOT	staged
+det	demonstration	a
+amod	demonstration	separate
+dobj	staged	demonstration
+case	kashmir	in
+nmod:in	demonstration	kashmir
+punct	staged	.

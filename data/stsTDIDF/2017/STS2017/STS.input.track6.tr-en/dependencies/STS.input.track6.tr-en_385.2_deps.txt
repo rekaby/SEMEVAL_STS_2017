@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	sleeping	boy
+aux	sleeping	is
+root	ROOT	sleeping
+case	bed	in
+det	bed	a
+nmod:in	sleeping	bed
+punct	sleeping	.

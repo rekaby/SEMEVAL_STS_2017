@@ -1,0 +1,5 @@
+amod	warplanes	Russian
+nsubj	strike	warplanes
+root	ROOT	strike
+case	Syria	inside
+nmod:inside	strike	Syria

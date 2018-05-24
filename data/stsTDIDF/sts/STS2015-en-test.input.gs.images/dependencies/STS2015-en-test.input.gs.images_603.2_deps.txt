@@ -1,0 +1,15 @@
+det	group	A
+nsubj	jump	group
+case	people	of
+amod	people	young
+nmod:of	group	people
+root	ROOT	jump
+compound:prt	jump	up
+case	air	in
+det	air	the
+nmod:in	jump	air
+case	beach	while
+case	beach	on
+det	beach	the
+nmod:on	jump	beach
+punct	jump	.

@@ -1,0 +1,10 @@
+compound	bomb	Car
+nsubj	kills	bomb
+root	ROOT	kills
+dobj	kills	four
+case	bastion	in
+compound	bastion	Hezbollah
+compound	bastion	Beirut
+nmod:in	four	bastion
+punct	kills	:
+dep	kills	minister

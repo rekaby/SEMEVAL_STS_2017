@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	slices	woman
+root	ROOT	slices
+det	lemon	a
+dobj	slices	lemon
+punct	slices	.

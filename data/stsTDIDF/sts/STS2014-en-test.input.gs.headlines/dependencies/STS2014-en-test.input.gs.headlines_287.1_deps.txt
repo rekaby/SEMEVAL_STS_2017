@@ -1,0 +1,8 @@
+nsubj	vows	Israel
+root	ROOT	vows
+mark	deny	to
+xcomp	vows	deny
+dobj	deny	Hezbollah
+case	strike	after
+compound	strike	air
+nmod:after	deny	strike

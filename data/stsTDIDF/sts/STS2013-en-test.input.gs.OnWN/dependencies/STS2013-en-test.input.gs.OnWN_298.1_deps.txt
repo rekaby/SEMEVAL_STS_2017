@@ -1,0 +1,7 @@
+root	ROOT	do
+dobj	do	something
+acl	something	considered
+case	diginty	below
+nmod:poss	diginty	one
+case	one	's
+nmod:below	considered	diginty

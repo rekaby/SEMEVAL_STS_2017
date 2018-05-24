@@ -1,0 +1,12 @@
+det	act	the
+root	ROOT	act
+mark	extracting	of
+acl	act	extracting
+compound	etc	ores
+cc	ores	or
+conj:or	ores	coal
+dobj	extracting	etc
+case	earth	from
+det	earth	the
+nmod:from	extracting	earth
+punct	act	.

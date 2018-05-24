@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	jumping	boy
+root	ROOT	jumping
+compound:prt	jumping	down
+det	slide	a
+amod	slide	wet
+amod	slide	inflatable
+dobj	jumping	slide
+punct	jumping	.

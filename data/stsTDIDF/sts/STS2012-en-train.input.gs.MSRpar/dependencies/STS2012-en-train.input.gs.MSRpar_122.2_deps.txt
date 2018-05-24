@@ -1,0 +1,11 @@
+amod	fires	Major
+nsubj	burned	fires
+aux	burned	had
+root	ROOT	burned
+nummod	acres	264,000
+dobj	burned	acres
+case	night	by
+amod	night	early
+amod	night	last
+nmod:by	burned	night
+punct	burned	.

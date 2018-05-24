@@ -1,0 +1,7 @@
+nsubj	says	Official
+root	ROOT	says
+amod	forces	Kenyan
+nsubj	caused	forces
+ccomp	says	caused
+compound	collapse	mall
+dobj	caused	collapse

@@ -1,0 +1,13 @@
+compound	plan	#Obama
+root	ROOT	plan
+punct	plan	:
+amod	checks	Tougher
+dep	plan	checks
+punct	checks	,
+neg	weapons	no
+compound	weapons	assault
+appos	checks	weapons
+punct	weapons	-
+punct	checks	-
+case	#guncontrol	from
+nmod:from	checks	#guncontrol

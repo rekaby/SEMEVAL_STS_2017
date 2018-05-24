@@ -1,0 +1,10 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+advmod	doing	back
+dobj	doing	flips
+case	trampoline	on
+det	trampoline	a
+nmod:on	flips	trampoline
+punct	doing	.

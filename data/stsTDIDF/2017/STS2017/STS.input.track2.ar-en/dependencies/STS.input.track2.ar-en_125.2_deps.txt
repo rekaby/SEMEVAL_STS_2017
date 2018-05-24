@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	shouting	men
+root	ROOT	shouting
+case	woman	at
+det	woman	a
+nmod:at	shouting	woman
+case	market	in
+det	market	the
+nmod:in	woman	market
+punct	shouting	.

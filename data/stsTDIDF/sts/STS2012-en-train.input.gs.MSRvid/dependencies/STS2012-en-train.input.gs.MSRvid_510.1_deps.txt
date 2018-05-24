@@ -1,0 +1,9 @@
+det	man	A
+nsubj	throwing	man
+aux	throwing	is
+root	ROOT	throwing
+dobj	throwing	knives
+case	tree	at
+det	tree	a
+nmod:at	throwing	tree
+punct	throwing	.

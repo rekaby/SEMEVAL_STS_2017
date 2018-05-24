@@ -1,0 +1,15 @@
+det	law	The
+amod	law	new
+nsubj	requires	law
+root	ROOT	requires
+dobj	requires	libraries
+cc	libraries	and
+conj:and	libraries	schools
+mark	use	to
+xcomp	requires	use
+dobj	use	filters
+cc	use	or
+conj:or	use	lose
+amod	financing	federal
+dobj	lose	financing
+punct	requires	.

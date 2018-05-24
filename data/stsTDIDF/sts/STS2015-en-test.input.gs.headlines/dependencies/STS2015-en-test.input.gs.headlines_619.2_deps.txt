@@ -1,0 +1,6 @@
+compound	stocks	US
+nsubj	retreat	stocks
+root	ROOT	retreat
+mark	manufacturing	on
+advcl	retreat	manufacturing
+dobj	manufacturing	data

@@ -1,0 +1,10 @@
+nsubj	embarking	Ahmadinejad
+aux	embarking	are
+root	ROOT	embarking
+case	adventure	on
+det	adventure	an
+nmod:on	embarking	adventure
+punct	embarking	,
+neg	Bernanke	not
+dep	embarking	Bernanke
+punct	embarking	.

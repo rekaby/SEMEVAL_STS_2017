@@ -1,0 +1,5 @@
+det	indication	an
+root	ROOT	indication
+case	damage	of
+nmod:of	indication	damage
+punct	indication	.

@@ -1,0 +1,6 @@
+nsubj	looks	Greece
+root	ROOT	looks
+xcomp	looks	set
+case	election	for
+compound	election	repeat
+nmod:for	set	election

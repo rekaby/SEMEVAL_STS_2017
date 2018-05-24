@@ -1,0 +1,9 @@
+compound	blast	Gas
+compound	blast	cylinder
+nsubj	kills	blast
+case	bus	on
+compound	bus	Pakistan
+compound	bus	school
+nmod:on	blast	bus
+root	ROOT	kills
+dobj	kills	17

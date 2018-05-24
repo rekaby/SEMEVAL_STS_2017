@@ -1,0 +1,8 @@
+amod	killer	Alleged
+compound	killer	cop
+nsubj	died	killer
+root	ROOT	died
+mark	shot	from
+advcl	died	shot
+mark	head	to
+xcomp	shot	head

@@ -1,0 +1,12 @@
+compound	fans	#Twolves
+nsubj	read	fans
+aux	read	should
+root	ROOT	read
+det	piece	this
+dobj	read	piece
+case	KG	on
+nmod:on	read	KG
+case	NYTimes	by
+case	NYTimes	in
+det	NYTimes	the
+nmod:in	read	NYTimes

@@ -1,0 +1,9 @@
+root	ROOT	dispose
+case	something	of
+punct	something	-LRB-
+nmod:of	dispose	something
+amod	something	useless
+cc	useless	or
+conj:or	useless	old
+punct	something	-RRB-
+punct	dispose	.

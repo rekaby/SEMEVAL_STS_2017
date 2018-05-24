@@ -1,0 +1,10 @@
+clothes	black	amod
+Rush	woman	dobj
+alleys	the	det
+one	alleys	nmod:of
+ROOT	Rush	root
+alleys	of	case
+,	wearing	root
+Rush	,	punct
+wearing	clothes	dobj
+Rush	one	nmod:in

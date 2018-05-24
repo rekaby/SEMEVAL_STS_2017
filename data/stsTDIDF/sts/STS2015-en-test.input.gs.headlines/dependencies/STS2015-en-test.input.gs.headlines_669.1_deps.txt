@@ -1,0 +1,9 @@
+compound	Update	World
+compound	Update	News
+root	ROOT	Update
+punct	Update	,
+dobj	need	what
+nsubj	need	you
+acl:relcl	Update	need
+mark	know	to
+xcomp	need	know

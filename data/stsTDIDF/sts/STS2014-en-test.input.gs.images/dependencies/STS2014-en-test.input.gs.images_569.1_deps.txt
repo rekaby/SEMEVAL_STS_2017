@@ -1,0 +1,9 @@
+nummod	horses	Two
+amod	horses	brown
+nsubj	standing	horses
+root	ROOT	standing
+case	meadow	in
+det	meadow	a
+amod	meadow	green
+nmod:in	standing	meadow
+punct	standing	.

@@ -1,0 +1,6 @@
+nsubj	play	Children
+root	ROOT	play
+dobj	play	fight
+case	swords	with
+nmod:with	fight	swords
+punct	play	.

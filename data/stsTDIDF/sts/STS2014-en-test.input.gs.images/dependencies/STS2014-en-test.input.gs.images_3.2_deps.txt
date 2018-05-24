@@ -1,0 +1,8 @@
+det	cat	A
+amod	cat	white
+nsubj	stands	cat
+root	ROOT	stands
+case	floor	on
+det	floor	the
+nmod:on	stands	floor
+punct	stands	.

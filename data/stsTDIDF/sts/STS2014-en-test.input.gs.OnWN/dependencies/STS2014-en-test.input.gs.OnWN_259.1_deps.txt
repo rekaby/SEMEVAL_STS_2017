@@ -1,0 +1,7 @@
+root	ROOT	Appoint
+punct	Appoint	,
+conj	Appoint	ordain
+case	post	to
+det	post	a
+amod	post	clerical
+nmod:to	ordain	post

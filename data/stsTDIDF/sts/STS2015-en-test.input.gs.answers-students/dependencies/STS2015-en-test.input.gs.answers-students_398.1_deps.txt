@@ -1,0 +1,5 @@
+det	connection	a
+root	ROOT	connection
+case	battery	to
+det	battery	the
+nmod:to	connection	battery

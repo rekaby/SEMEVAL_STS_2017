@@ -1,0 +1,8 @@
+nsubj	condemns	Pakistan
+root	ROOT	condemns
+compound	strike	US
+compound	strike	drone
+dobj	condemns	strike
+case	Area	in
+compound	Area	Shawal
+nmod:in	strike	Area

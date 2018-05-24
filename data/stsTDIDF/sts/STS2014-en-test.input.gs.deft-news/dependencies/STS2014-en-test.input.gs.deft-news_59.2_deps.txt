@@ -1,0 +1,14 @@
+det	treaty	the
+nsubjpass	amended	treaty
+auxpass	amended	was
+root	ROOT	amended
+case	1999	in
+nmod:in	amended	1999
+mark	reflect	to
+xcomp	amended	reflect
+dobj	reflect	changes
+case	breakup	since
+det	breakup	the
+amod	breakup	soviet
+nmod:since	reflect	breakup
+punct	amended	.

@@ -1,0 +1,13 @@
+nmod:poss	plan	Kerry
+case	Kerry	's
+nsubj	calls	plan
+case	talks	for
+amod	talks	restarting
+nmod:for	plan	talks
+root	ROOT	calls
+case	release	for
+nmod:for	calls	release
+case	inmates	of
+nummod	inmates	103
+amod	inmates	Palestinian
+nmod:of	release	inmates

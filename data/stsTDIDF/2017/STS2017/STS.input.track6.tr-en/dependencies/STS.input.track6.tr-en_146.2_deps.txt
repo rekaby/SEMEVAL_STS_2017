@@ -1,0 +1,9 @@
+expl	's	There
+root	ROOT	's
+det	man	a
+nsubj	's	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+punct	's	.

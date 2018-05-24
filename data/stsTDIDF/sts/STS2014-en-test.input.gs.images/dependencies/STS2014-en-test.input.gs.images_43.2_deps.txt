@@ -1,0 +1,15 @@
+det	lady	The
+amod	lady	old
+nsubj	standing	lady
+aux	standing	is
+root	ROOT	standing
+case	kitchen	in
+det	kitchen	the
+nmod:in	standing	kitchen
+case	cats	with
+nummod	cats	two
+nmod:with	standing	cats
+case	feet	at
+nmod:poss	feet	her
+nmod:at	standing	feet
+punct	standing	.

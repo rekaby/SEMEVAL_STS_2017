@@ -1,0 +1,6 @@
+nummod	people	Five
+root	ROOT	people
+case	sidewalk	on
+det	sidewalk	a
+nmod:on	people	sidewalk
+punct	people	.

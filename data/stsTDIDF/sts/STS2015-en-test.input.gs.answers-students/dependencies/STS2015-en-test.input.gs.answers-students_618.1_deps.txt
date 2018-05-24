@@ -1,0 +1,14 @@
+mark	open	if
+det	switch	the
+nsubj	open	switch
+cop	open	is
+root	ROOT	open
+case	path	in
+det	path	a
+nmod:in	open	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery
+cc	battery	and
+conj:and	battery	bulb
+punct	open	.

@@ -1,0 +1,9 @@
+compound	News	George
+compound	News	Zimmerman
+compound	News	Verdict
+compound	News	Propels
+compound	News	Cable
+root	ROOT	News
+case	Mode	Into
+compound	Mode	Talkradio
+nmod:into	News	Mode

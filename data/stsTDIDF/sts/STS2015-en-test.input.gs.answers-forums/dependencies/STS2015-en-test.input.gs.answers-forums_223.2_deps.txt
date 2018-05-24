@@ -1,0 +1,12 @@
+nmod:poss	interactions	Our
+nsubj	depends	interactions
+aux	depends	are
+advmod	depends	merely
+root	ROOT	depends
+mark	put	on
+advmod	put	where
+nsubj	put	we
+advcl	depends	put
+nmod:poss	perception	our
+dobj	put	perception
+punct	depends	.

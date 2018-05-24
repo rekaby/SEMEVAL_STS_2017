@@ -1,0 +1,7 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	violin	a
+dobj	playing	violin
+punct	playing	.

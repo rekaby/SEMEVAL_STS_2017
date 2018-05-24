@@ -1,0 +1,10 @@
+root	ROOT	having
+dobj	having	strength
+cc	strength	or
+conj:or	strength	power
+amod	strength	greater
+case	average	than
+nmod:than	greater	average
+cc	average	or
+conj:or	average	expected
+punct	having	;

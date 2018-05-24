@@ -1,0 +1,11 @@
+compound	third	finish
+root	ROOT	third
+cc	third	or
+conj:or	third	better
+case	horse	in
+det	horse	a
+nmod:in	better	horse
+cc	horse	or
+compound	race	dog
+conj:or	horse	race
+punct	third	;

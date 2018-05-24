@@ -1,0 +1,12 @@
+case	least	At
+nmod:at	killed	least
+nummod	least	13
+root	ROOT	killed
+case	bombings	in
+amod	bombings	triple
+compound	bombings	car
+nmod:in	killed	bombings
+case	Diyala	in
+nmod:poss	Diyala	Iraq
+case	Iraq	's
+nmod:in	bombings	Diyala

@@ -1,0 +1,11 @@
+det	train	The
+nsubj	heads	train
+root	ROOT	heads
+compound:prt	heads	down
+det	tracks	the
+dobj	heads	tracks
+cc	heads	and
+case	hedge	along
+det	hedge	the
+conj:and	heads	hedge
+punct	heads	.

@@ -1,0 +1,8 @@
+root	ROOT	Israeli
+advmod	hurt	lightly
+acl	Israeli	hurt
+case	stones	by
+nmod:by	hurt	stones
+case	Bank	in
+compound	Bank	West
+nmod:in	stones	Bank

@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+case	game	with
+det	game	a
+nmod:with	man	game
+dep	game	someone
+punct	man	.

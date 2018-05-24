@@ -1,0 +1,10 @@
+det	channel	a
+amod	channel	narrow
+root	ROOT	channel
+cc	channel	or
+conj:or	channel	span
+case	sea	of
+det	sea	a
+nmod:of	span	sea
+cc	sea	or
+conj:or	sea	ocean

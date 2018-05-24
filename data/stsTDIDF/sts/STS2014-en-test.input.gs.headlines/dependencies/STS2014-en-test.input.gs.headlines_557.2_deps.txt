@@ -1,0 +1,5 @@
+compound	tornado	Obama
+compound	tornado	visits
+nsubj	hit	tornado
+root	ROOT	hit
+dobj	hit	Oklahoma

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	falls	woman
+root	ROOT	falls
+case	castle	on
+det	castle	a
+compound	castle	sand
+nmod:on	falls	castle
+punct	falls	.

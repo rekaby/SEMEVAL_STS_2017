@@ -1,0 +1,13 @@
+punct	connect	``
+det	terminals	the
+compound	terminals	battery
+nsubj	don	terminals
+dep	connect	don
+punct	connect	''
+punct	connect	``
+nsubj	connect	t
+root	ROOT	connect
+case	devices	without
+det	devices	any
+nmod:without	connect	devices
+punct	connect	''

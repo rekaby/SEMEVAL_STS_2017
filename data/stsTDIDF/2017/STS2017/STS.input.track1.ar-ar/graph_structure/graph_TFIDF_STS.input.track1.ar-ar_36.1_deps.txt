@@ -1,0 +1,4 @@
+paints	clothing	nmod:on
+clothing	on	case
+ROOT	paints	root
+paints	Painter	compound

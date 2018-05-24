@@ -1,0 +1,11 @@
+det	man	A
+nsubj	pose	man
+case	woman	in
+nmod:in	pose	woman
+amod	pose	dressed
+advmod	dressed	warmly
+root	ROOT	pose
+case	picture	for
+det	picture	a
+nmod:for	pose	picture
+punct	pose	.

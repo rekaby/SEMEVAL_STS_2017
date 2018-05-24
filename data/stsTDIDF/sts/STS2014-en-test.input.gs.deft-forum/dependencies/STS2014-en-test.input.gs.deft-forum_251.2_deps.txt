@@ -1,0 +1,12 @@
+nmod:poss	kids	My
+nsubj	busted	kids
+root	ROOT	busted
+compound:prt	busted	in
+cc	busted	and
+conj:and	busted	said
+punct	whats	`
+dep	said	whats
+det	Dad	that
+dep	whats	Dad
+punct	whats	?
+punct	whats	'

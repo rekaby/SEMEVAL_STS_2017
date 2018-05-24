@@ -1,0 +1,10 @@
+nsubj	look	Women
+root	ROOT	look
+case	shampoo	at
+det	shampoo	the
+nmod:at	look	shampoo
+case	store	at
+det	store	a
+compound	store	grocery
+nmod:at	look	store
+punct	look	.

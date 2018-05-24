@@ -1,0 +1,8 @@
+det	person	A
+nsubj	pours	person
+root	ROOT	pours
+dobj	pours	oil
+case	skillet	on
+det	skillet	a
+nmod:on	pours	skillet
+punct	pours	.

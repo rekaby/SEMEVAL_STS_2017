@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	backyard	through
+det	backyard	a
+nmod:through	running	backyard
+amod	backyard	full
+case	leaves	of
+nmod:of	full	leaves
+punct	running	.

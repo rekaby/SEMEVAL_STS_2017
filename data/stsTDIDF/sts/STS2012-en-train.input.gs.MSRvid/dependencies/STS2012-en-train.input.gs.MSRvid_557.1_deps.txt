@@ -1,0 +1,9 @@
+det	man	A
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+dobj	slicing	cucumber
+case	knife	with
+det	knife	a
+nmod:with	slicing	knife
+punct	slicing	.

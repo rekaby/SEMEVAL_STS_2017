@@ -1,0 +1,7 @@
+amod	Piece	Interesting
+root	ROOT	Piece
+punct	Piece	!-3) dep(#films-4, Being
+compound	Laden	Bin
+nsubj	#films	Laden
+root	ROOT	#films
+dobj	#films	#zerodarkthirty

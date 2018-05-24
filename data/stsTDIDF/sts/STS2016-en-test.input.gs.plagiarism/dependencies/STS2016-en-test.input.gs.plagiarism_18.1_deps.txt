@@ -1,0 +1,7 @@
+root	ROOT	Define
+dobj	Define	value
+case	solution	of
+amod	solution	optimal
+nmod:of	value	solution
+advmod	solution	recursively
+punct	Define	.

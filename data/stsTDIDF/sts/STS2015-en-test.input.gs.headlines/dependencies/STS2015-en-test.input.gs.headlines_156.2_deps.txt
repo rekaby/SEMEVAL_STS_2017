@@ -1,0 +1,14 @@
+nsubj	braces	Egypt
+root	ROOT	braces
+case	violence	for
+amod	violence	more
+nmod:for	braces	violence
+mark	calls	as
+amod	Brotherhood	Muslim
+nsubj	calls	Brotherhood
+dep	violence	calls
+punct	calls	`
+root	`	march
+case	anger	of
+nmod:of	march	anger
+punct	march	'

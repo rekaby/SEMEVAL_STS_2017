@@ -1,0 +1,9 @@
+nsubj	outraged	I
+cop	outraged	'm
+neg	outraged	not
+ccomp	disappointed	outraged
+punct	disappointed	,
+nsubj	disappointed	I
+cop	disappointed	'm
+root	ROOT	disappointed
+punct	disappointed	.

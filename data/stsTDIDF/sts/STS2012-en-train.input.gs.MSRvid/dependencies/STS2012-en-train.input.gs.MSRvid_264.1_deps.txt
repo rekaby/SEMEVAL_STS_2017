@@ -1,0 +1,9 @@
+det	person	A
+nsubj	mixing	person
+aux	mixing	is
+root	ROOT	mixing
+det	pot	a
+dobj	mixing	pot
+case	rice	of
+nmod:of	pot	rice
+punct	mixing	.

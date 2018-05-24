@@ -1,0 +1,11 @@
+cop	familiar	be
+root	ROOT	familiar
+cc	familiar	or
+conj:or	familiar	acquainted
+case	person	with
+det	person	a
+nmod:with	familiar	person
+cc	person	or
+det	object	an
+conj:or	person	object
+punct	familiar	;

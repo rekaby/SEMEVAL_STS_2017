@@ -1,0 +1,7 @@
+dep	meet	Putin
+punct	meet	,
+nsubj	meet	Annan
+root	ROOT	meet
+case	Syria	on
+nmod:on	meet	Syria
+dobj	meet	crisis

@@ -1,0 +1,12 @@
+det	group	the
+compound	group	abductee
+compound	group	support
+nsubj	hopes	group
+root	ROOT	hopes
+nsubj	change	parliament
+aux	change	will
+ccomp	hopes	change
+det	laws	the
+dobj	change	laws
+advmod	change	soon
+punct	hopes	.

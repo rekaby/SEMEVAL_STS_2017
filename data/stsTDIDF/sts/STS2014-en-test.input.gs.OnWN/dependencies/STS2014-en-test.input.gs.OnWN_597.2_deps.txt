@@ -1,0 +1,12 @@
+root	ROOT	get
+cc	get	or
+conj:or	get	extort
+punct	money	-LRB-
+dep	get	money
+cc	money	or
+amod	possessions	other
+conj:or	money	possessions
+punct	money	-RRB-
+case	someone	from
+nmod:from	get	someone
+punct	get	.

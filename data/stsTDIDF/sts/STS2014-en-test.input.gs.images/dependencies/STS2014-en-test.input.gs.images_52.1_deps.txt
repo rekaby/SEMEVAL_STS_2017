@@ -1,0 +1,9 @@
+advmod	crowded	Very
+amod	desk	crowded
+compound	desk	office
+root	ROOT	desk
+case	monitor	with
+compound	monitor	computer
+nmod:with	desk	monitor
+dep	desk	on
+punct	desk	.

@@ -1,0 +1,6 @@
+nsubj	attacks	Taliban
+root	ROOT	attacks
+compound	base	US
+dobj	attacks	base
+case	Afghanistan	in
+nmod:in	base	Afghanistan

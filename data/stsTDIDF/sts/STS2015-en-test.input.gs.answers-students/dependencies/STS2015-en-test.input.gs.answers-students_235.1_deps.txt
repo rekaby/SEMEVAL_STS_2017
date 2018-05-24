@@ -1,0 +1,12 @@
+punct	contained	``
+compound	A	bulb
+nsubj	contained	A
+punct	contained	''
+punct	contained	``
+compound	path	s
+nsubj	contained	path
+advmod	contained	only
+root	ROOT	contained
+compound	Z	switch
+dobj	contained	Z
+punct	contained	''

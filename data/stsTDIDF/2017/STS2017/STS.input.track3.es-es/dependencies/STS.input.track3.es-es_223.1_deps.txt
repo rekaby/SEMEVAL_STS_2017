@@ -1,0 +1,10 @@
+det	man	The
+nsubj	raising	man
+case	pants	in
+amod	pants	yellow
+nmod:in	man	pants
+aux	raising	is
+root	ROOT	raising
+nmod:poss	arms	his
+dobj	raising	arms
+punct	raising	.

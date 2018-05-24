@@ -1,0 +1,10 @@
+root	ROOT	cook
+advmod	cook	slowly
+cc	slowly	and
+case	time	for
+det	time	a
+amod	time	long
+conj:and	slowly	time
+case	liquid	in
+nmod:in	time	liquid
+punct	cook	.

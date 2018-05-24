@@ -1,0 +1,11 @@
+det	man	The
+nsubj	pulls	man
+root	ROOT	pulls
+det	gun	a
+dobj	pulls	gun
+mark	steal	to
+xcomp	pulls	steal
+det	seller	a
+compound	seller	mattress
+dobj	steal	seller
+punct	pulls	.

@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+dep	woman	standing
+case	trees	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	standing	trees
+cc	standing	and
+conj:and	standing	smiling
+punct	woman	.

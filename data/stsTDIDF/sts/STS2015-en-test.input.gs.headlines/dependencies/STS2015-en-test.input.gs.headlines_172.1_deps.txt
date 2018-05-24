@@ -1,0 +1,9 @@
+amod	customers	Deaf
+nsubj	sue	customers
+root	ROOT	sue
+dobj	sue	Starbucks
+punct	sue	,
+dep	sue	say
+nsubjpass	mocked	they
+auxpass	mocked	're
+ccomp	say	mocked

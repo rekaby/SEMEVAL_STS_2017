@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	water	dog
+case	stick	with
+det	stick	a
+nmod:with	dog	stick
+cop	water	is
+case	water	in
+amod	water	muddy
+root	ROOT	water
+punct	water	.

@@ -1,0 +1,9 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+compound	Boss	She?s
+punct	Rarely	-LRB-
+dep	She?s	Rarely
+punct	Rarely	-RRB-
+det	Boss	the
+dep	Columnist	Boss

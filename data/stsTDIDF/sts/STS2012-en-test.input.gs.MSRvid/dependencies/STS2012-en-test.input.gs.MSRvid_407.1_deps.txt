@@ -1,0 +1,12 @@
+det	man	A
+nsubj	crushing	man
+aux	crushing	is
+root	ROOT	crushing
+xcomp	crushing	garlic
+case	back	with
+det	back	the
+nmod:with	garlic	back
+case	knife	of
+det	knife	a
+nmod:of	back	knife
+punct	crushing	.

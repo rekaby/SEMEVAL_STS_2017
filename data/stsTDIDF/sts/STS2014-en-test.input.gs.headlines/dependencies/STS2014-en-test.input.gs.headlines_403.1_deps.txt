@@ -1,0 +1,9 @@
+nsubj	kill	Floods
+root	ROOT	kill
+dobj	kill	two
+punct	kill	,
+dep	kill	forces
+dobj	forces	75,000
+case	homes	from
+compound	homes	Calgary
+nmod:from	75,000	homes

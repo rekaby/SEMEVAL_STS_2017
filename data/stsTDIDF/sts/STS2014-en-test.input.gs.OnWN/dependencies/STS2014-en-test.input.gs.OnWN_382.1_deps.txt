@@ -1,0 +1,7 @@
+root	ROOT	assimilate
+case	mind	into
+det	mind	the
+nmod:into	assimilate	mind
+cc	mind	or
+det	situation	a
+conj:or	mind	situation

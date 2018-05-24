@@ -1,0 +1,9 @@
+compound	Korea	North
+nsubj	Warns	Korea
+root	ROOT	Warns
+dobj	Warns	Foreigners
+case	South	in
+nmod:in	Warns	South
+punct	South	,
+compound	Evacuation	Advising
+appos	South	Evacuation

@@ -1,0 +1,7 @@
+nsubj	wishes	mexico
+root	ROOT	wishes
+mark	avoid	to
+xcomp	wishes	avoid
+amod	violence	more
+dobj	avoid	violence
+punct	wishes	.

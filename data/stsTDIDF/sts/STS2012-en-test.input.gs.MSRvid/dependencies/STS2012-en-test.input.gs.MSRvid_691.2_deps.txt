@@ -1,0 +1,6 @@
+det	girl	A
+nsubj	loses	girl
+root	ROOT	loses
+nmod:poss	kite	her
+dobj	loses	kite
+punct	loses	.

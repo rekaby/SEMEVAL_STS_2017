@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	beach	on
+det	beach	the
+nmod:on	people	beach
+punct	group	.

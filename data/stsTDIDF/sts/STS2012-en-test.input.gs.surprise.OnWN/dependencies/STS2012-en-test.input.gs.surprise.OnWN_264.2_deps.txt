@@ -1,0 +1,10 @@
+root	ROOT	transporting
+dobj	transporting	goods
+advmod	transporting	commercially
+case	rates	at
+nmod:at	transporting	rates
+amod	rates	cheaper
+mark	express	than
+advcl	cheaper	express
+dobj	express	rates
+punct	transporting	.

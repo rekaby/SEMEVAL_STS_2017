@@ -1,0 +1,13 @@
+det	workers	A
+amod	workers	few
+nsubj	sign	workers
+acl	workers	standing
+case	building	in
+det	building	a
+advmod	built	partially
+amod	building	built
+nmod:in	standing	building
+case	street	behind
+det	street	the
+nmod:behind	building	street
+root	ROOT	sign

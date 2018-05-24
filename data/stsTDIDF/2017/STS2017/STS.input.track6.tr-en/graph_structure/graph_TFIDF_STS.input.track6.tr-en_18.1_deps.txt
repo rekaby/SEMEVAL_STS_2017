@@ -1,0 +1,8 @@
+girl	and	cc
+ladder	a	det
+climbing	up	compound:prt
+climbing	are	aux
+ROOT	climbing	root
+climbing	ladder	dobj
+climbing	girl	nsubj
+girl	person	conj:and

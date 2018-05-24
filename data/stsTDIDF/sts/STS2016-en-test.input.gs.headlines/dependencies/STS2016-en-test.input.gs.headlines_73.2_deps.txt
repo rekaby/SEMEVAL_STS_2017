@@ -1,0 +1,9 @@
+compound	inmate	Okla.
+nsubj	dies	inmate
+root	ROOT	dies
+case	attack	of
+compound	attack	heart
+nmod:of	dies	attack
+case	execution	after
+amod	execution	botched
+nmod:after	dies	execution

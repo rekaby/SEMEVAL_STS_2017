@@ -1,0 +1,7 @@
+nummod	police	2
+nsubj	killed	police
+root	ROOT	killed
+case	explosion	in
+amod	explosion	eastern
+compound	explosion	Afghan
+nmod:in	killed	explosion

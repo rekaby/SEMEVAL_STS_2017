@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	6	least
+nummod	dead	6
+amod	crash	dead
+case	train	in
+compound	train	Paris
+nmod:in	dead	train
+root	ROOT	crash

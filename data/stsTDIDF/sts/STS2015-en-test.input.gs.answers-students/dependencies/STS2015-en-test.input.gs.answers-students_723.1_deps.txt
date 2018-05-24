@@ -1,0 +1,12 @@
+advmod	path	When
+det	switch	the
+nsubj	path	switch
+cop	path	is
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path
+case	bulb	as
+det	bulb	the
+nmod:as	path	bulb
+punct	path	.

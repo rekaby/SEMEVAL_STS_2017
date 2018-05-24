@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	play	woman
+cc	woman	and
+nummod	kids	three
+conj:and	woman	kids
+root	ROOT	play
+case	park	at
+det	park	a
+nmod:at	play	park
+punct	play	.

@@ -1,0 +1,10 @@
+nsubj	protect	Editors
+case	urge	from
+advmod	urge	around
+det	urge	the
+compound	urge	world
+nmod:from	Editors	urge
+dobj	urge	Turkey
+mark	protect	to
+root	ROOT	protect
+dobj	protect	media

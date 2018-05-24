@@ -1,0 +1,13 @@
+compound	strike	ooo
+root	ROOT	strike
+nummod	those	TWO
+nsubjpass	doomed	those
+nsubj	ignore	who
+acl:relcl	those	ignore
+dobj	ignore	history
+auxpass	doomed	are
+acl:relcl	strike	doomed
+mark	repeat	to
+xcomp	doomed	repeat
+dobj	repeat	it
+punct	strike	.

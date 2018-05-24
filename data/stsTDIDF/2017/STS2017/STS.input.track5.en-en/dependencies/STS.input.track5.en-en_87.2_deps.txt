@@ -1,0 +1,6 @@
+det	biker	A
+nsubj	doing	biker
+aux	doing	is
+root	ROOT	doing
+dobj	doing	stunts
+punct	doing	.

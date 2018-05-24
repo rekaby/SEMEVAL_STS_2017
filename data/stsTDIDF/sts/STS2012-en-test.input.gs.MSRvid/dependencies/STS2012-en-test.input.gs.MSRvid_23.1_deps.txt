@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	trying	dog
+aux	trying	is
+root	ROOT	trying
+mark	get	to
+xcomp	trying	get
+dobj	get	bacon
+case	back	off
+nmod:poss	back	his
+nmod:off	get	back
+punct	trying	.

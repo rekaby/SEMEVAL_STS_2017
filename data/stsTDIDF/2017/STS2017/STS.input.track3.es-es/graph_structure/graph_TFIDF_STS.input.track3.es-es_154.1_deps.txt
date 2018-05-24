@@ -1,0 +1,7 @@
+ROOT	empty	root
+car	train	compound
+car	The	det
+empty	almost	advmod
+empty	car	nsubj
+empty	.	punct
+empty	is	cop

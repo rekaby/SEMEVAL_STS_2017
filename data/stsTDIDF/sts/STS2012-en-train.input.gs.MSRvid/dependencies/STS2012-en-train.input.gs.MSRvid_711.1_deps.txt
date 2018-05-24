@@ -1,0 +1,15 @@
+nummod	kids	Two
+nsubj	playing	kids
+aux	playing	are
+root	ROOT	playing
+case	pool	in
+det	pool	a
+compound	pool	swimming
+nmod:in	playing	pool
+case	float	with
+det	float	a
+amod	float	green
+amod	float	colored
+compound	float	crocodile
+nmod:with	pool	float
+punct	playing	.

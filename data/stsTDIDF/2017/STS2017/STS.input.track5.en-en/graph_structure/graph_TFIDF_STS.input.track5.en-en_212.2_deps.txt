@@ -1,0 +1,4 @@
+women	Three	nummod
+sitting	wall	nmod:near
+wall	near	case
+sitting	women	nsubj

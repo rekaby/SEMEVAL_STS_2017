@@ -1,0 +1,6 @@
+rope	jump	compound
+playing	rope	dobj
+playing	were	aux
+monks	The	det
+playing	monks	nsubj
+playing	road	nmod:on

@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	opens	woman
+root	ROOT	opens
+det	window	a
+dobj	opens	window
+punct	opens	.

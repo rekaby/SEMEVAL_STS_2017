@@ -1,0 +1,8 @@
+people	cheering	acl
+ROOT	obama	root
+statue	Barack	nmod:of
+Barack	of	case
+statue	for	case
+obama	group	nsubj
+cheering	statue	nmod:for
+statue	a	det

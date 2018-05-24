@@ -1,0 +1,5 @@
+ducks	the	det
+running	feed	nmod:during
+feed	during	case
+feed	ducks	dobj
+girl	running	acl

@@ -1,0 +1,6 @@
+root	ROOT	Woman
+nsubj	painted	who
+acl:relcl	Woman	painted
+nmod:poss	face	her
+dobj	painted	face
+punct	Woman	.

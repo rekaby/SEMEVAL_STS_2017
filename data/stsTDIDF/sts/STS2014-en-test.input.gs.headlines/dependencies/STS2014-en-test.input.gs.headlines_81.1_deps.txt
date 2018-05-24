@@ -1,0 +1,6 @@
+nsubj	enter	Cardinals
+root	ROOT	enter
+dobj	enter	Vatican
+case	vote	for
+amod	vote	historic
+nmod:for	enter	vote

@@ -1,0 +1,7 @@
+det	men	The
+root	ROOT	men
+case	table	next
+mwe	next	to
+det	table	the
+nmod:next_to	men	table
+punct	men	.

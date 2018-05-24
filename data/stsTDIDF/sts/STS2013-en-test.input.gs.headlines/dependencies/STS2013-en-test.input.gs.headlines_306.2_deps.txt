@@ -1,0 +1,11 @@
+root	ROOT	U.S.
+punct	U.S.	,
+compound	Iran	EU
+amod	Iran	welcome
+nmod:poss	offer	Iran
+case	Iran	's
+appos	U.S.	offer
+mark	restart	to
+acl	offer	restart
+amod	talks	nuclear
+dobj	restart	talks

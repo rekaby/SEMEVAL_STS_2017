@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	pushing	woman
+aux	pushing	is
+root	ROOT	pushing
+dobj	pushing	rocks
+advmod	rocks	lazily
+punct	pushing	.

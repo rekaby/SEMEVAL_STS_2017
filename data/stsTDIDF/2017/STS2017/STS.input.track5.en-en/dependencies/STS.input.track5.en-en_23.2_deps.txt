@@ -1,0 +1,7 @@
+det	man	The
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+compound	coffee	drinking
+dobj	sitting	coffee
+punct	sitting	.

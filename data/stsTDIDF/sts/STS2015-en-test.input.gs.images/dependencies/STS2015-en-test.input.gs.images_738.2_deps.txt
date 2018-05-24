@@ -1,0 +1,10 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+case	dog	with
+det	dog	the
+compound	dog	shaggy
+amod	dog	little
+nmod:with	playing	dog
+punct	playing	.

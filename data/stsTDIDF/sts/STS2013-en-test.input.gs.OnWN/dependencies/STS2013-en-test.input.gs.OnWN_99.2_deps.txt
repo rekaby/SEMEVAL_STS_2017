@@ -1,0 +1,9 @@
+mark	wind	to
+root	ROOT	wind
+cc	wind	or
+conj:or	wind	move
+case	course	in
+det	course	a
+compound	course	spiral
+nmod:in	move	course
+punct	wind	.

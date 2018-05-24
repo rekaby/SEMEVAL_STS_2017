@@ -1,0 +1,3 @@
+person	tall	amod
+person	midair	nmod:in
+midair	in	case

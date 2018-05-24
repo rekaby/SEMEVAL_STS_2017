@@ -1,0 +1,14 @@
+det	side	a
+amod	side	sharp
+root	ROOT	side
+acl	side	formed
+case	intersection	by
+det	intersection	the
+nmod:by	formed	intersection
+case	surfaces	of
+nummod	surfaces	two
+nmod:of	intersection	surfaces
+case	object	of
+det	object	an
+nmod:of	surfaces	object
+punct	side	.

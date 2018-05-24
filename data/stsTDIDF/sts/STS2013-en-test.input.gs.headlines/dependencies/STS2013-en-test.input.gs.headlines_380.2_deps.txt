@@ -1,0 +1,8 @@
+root	ROOT	Childcare
+punct	Childcare	`
+root	`	costing
+compound	year	#
+nummod	year	15,000
+det	year	a
+dobj	costing	year
+punct	costing	'

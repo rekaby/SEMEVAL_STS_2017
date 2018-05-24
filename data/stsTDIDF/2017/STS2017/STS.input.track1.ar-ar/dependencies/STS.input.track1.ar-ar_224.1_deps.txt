@@ -1,0 +1,10 @@
+det	boy	A
+root	ROOT	boy
+case	ride	on
+det	ride	a
+compound	ride	bicycle
+nmod:on	boy	ride
+case	park	in
+det	park	the
+nmod:in	ride	park
+punct	boy	.

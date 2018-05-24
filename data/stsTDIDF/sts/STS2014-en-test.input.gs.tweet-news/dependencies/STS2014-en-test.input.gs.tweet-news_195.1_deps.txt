@@ -1,0 +1,6 @@
+root	ROOT	Tennis
+punct	Tennis	:
+nsubj	takes	Sharapova
+dep	Tennis	takes
+compound:prt	takes	on
+dobj	takes	boys

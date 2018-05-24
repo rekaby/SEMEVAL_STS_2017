@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	played	dog
+root	ROOT	played
+case	bug	with
+det	bug	a
+nmod:with	played	bug
+case	carpet	on
+det	carpet	the
+nmod:on	bug	carpet
+punct	played	.

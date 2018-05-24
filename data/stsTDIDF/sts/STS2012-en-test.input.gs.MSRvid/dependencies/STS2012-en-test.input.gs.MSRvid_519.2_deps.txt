@@ -1,0 +1,13 @@
+det	woman	An
+amod	woman	older
+nsubj	pouring	woman
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	oil
+case	skillet	into
+det	skillet	a
+nmod:into	pouring	skillet
+case	stove	on
+det	stove	the
+nmod:on	skillet	stove
+punct	pouring	.

@@ -1,0 +1,12 @@
+cc	conducting	And
+det	mistake	this
+amod	mistake	gross
+nsubj	conducting	mistake
+aux	conducting	is
+root	ROOT	conducting
+compound	policy	Russia
+dobj	conducting	policy
+case	downfall	to
+nmod:poss	downfall	his
+nmod:to	conducting	downfall
+punct	conducting	.

@@ -1,0 +1,15 @@
+amod	1	terminal
+nsubjpass	connected	1
+punct	1	,
+amod	2	terminal
+conj:and	1	2
+punct	1	,
+cc	1	and
+amod	3	terminal
+conj:and	1	3
+auxpass	connected	are
+root	ROOT	connected
+compound	battery	o
+det	battery	the
+amod	battery	negative
+dobj	connected	battery

@@ -1,0 +1,8 @@
+amod	man	Third
+root	ROOT	man
+acl	man	arrested
+case	probe	in
+compound	probe	Savile
+compound	probe	sex
+compound	probe	abuse
+nmod:in	arrested	probe

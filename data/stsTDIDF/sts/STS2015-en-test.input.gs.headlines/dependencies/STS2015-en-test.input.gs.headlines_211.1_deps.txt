@@ -1,0 +1,8 @@
+compound	index	China
+compound	index	manufacturing
+root	ROOT	index
+case	low	at
+amod	low	11-month
+nmod:at	index	low
+punct	index	:
+dep	index	HSBC

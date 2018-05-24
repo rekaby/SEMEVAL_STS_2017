@@ -1,0 +1,15 @@
+det	boy	The
+root	ROOT	boy
+case	swings	in
+det	swings	the
+amod	swings	green
+compound	swings	shirt
+nmod:in	boy	swings
+case	arm	with
+nummod	arm	one
+nmod:with	swings	arm
+case	pole	on
+det	pole	the
+compound	pole	silver
+nmod:on	arm	pole
+punct	boy	.

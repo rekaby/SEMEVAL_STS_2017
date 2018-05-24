@@ -1,0 +1,7 @@
+nsubj	return	Senators
+aux	return	can
+root	ROOT	return
+case	playoffs	to
+nmod:to	return	playoffs
+case	victory	with
+nmod:with	return	victory

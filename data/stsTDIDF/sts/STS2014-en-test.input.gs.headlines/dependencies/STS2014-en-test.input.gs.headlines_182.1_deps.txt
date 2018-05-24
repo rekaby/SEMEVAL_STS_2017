@@ -1,0 +1,6 @@
+amod	shares	Chinese
+nsubj	lower	shares
+advmod	lower	close
+root	ROOT	lower
+case	Wednesday	on
+nmod:on	lower	Wednesday

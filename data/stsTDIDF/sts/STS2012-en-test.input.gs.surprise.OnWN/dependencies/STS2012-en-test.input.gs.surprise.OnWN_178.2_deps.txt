@@ -1,0 +1,7 @@
+det	trade	the
+root	ROOT	trade
+case	director	of
+det	director	a
+amod	director	funeral
+nmod:of	trade	director
+punct	trade	.

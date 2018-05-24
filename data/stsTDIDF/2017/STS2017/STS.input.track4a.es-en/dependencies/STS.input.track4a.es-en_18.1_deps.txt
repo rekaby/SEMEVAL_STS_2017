@@ -1,0 +1,10 @@
+det	pianist	A
+nsubj	ready	pianist
+cc	pianist	and
+det	singer	a
+conj:and	pianist	singer
+cop	ready	are
+root	ROOT	ready
+mark	perform	to
+xcomp	ready	perform
+punct	ready	.

@@ -1,0 +1,9 @@
+amod	Rivera	Mexican
+compound	Rivera	singer
+compound	Rivera	Jenni
+nsubj	believed	Rivera
+root	ROOT	believed
+xcomp	believed	killed
+case	plane	in
+nmod:in	killed	plane
+dobj	killed	crash

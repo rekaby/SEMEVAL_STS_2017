@@ -1,0 +1,8 @@
+det	people	Some
+nsubj	play	people
+root	ROOT	play
+dobj	play	music
+case	concert	at
+det	concert	a
+nmod:at	play	concert
+punct	play	.

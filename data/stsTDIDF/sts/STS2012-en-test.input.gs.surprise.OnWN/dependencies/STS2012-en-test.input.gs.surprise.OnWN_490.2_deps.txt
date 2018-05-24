@@ -1,0 +1,14 @@
+root	ROOT	affect
+case	smut	with
+nmod:with	affect	smut
+cc	smut	or
+conj:or	smut	mildew
+punct	affect	,
+case	crop	as
+mwe	as	of
+det	crop	a
+nmod:as_of	affect	crop
+case	corn	such
+mwe	such	as
+nmod:such_as	crop	corn
+punct	affect	.

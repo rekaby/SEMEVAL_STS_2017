@@ -1,0 +1,7 @@
+nummod	dogs	Three
+amod	dogs	black
+root	ROOT	dogs
+case	beach	on
+det	beach	the
+nmod:on	dogs	beach
+punct	dogs	.

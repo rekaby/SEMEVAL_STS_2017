@@ -1,0 +1,7 @@
+punct	Concerns	`
+compound	Man	Iron
+compound	Concerns	Man
+punct	Concerns	'
+compound	Spark	Jetpacks
+nsubj	Concerns	Spark
+root	ROOT	Concerns

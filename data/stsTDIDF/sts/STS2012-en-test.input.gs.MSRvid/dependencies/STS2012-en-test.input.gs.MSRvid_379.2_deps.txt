@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	breading	woman
+aux	breading	is
+root	ROOT	breading
+det	meat	some
+dobj	breading	meat
+punct	breading	.

@@ -1,0 +1,11 @@
+det	city	A
+root	ROOT	city
+case	Thames	on
+det	Thames	the
+compound	Thames	River
+nmod:on	city	Thames
+case	Bershire	in
+nmod:in	city	Bershire
+punct	Bershire	,
+amod	England	southern
+appos	Bershire	England

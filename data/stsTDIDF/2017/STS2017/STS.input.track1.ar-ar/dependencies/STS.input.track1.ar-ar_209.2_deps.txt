@@ -1,0 +1,7 @@
+det	man	The
+root	ROOT	man
+case	theater	inside
+det	theater	the
+compound	theater	movie
+nmod:inside	man	theater
+punct	man	.

@@ -1,0 +1,10 @@
+root	ROOT	reach
+det	destination	a
+dobj	reach	destination
+punct	reach	;
+dep	reach	arrive
+case	movement	by
+nmod:by	arrive	movement
+cc	movement	or
+conj:or	movement	progress
+punct	reach	.

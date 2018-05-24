@@ -1,0 +1,10 @@
+area	through	case
+bike	wearing	conj:and
+bike	on	case
+rides	a	det
+bike	and	cc
+person	bike	nmod:on
+rides	helmet	compound
+wearing	area	nmod:through
+bike	a	det
+wearing	rides	dobj

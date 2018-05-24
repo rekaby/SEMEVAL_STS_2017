@@ -1,0 +1,5 @@
+shopping	is	aux
+shopping	man	nsubj
+ROOT	shopping	root
+shopping	middle	nmod:in
+shopping	.	punct

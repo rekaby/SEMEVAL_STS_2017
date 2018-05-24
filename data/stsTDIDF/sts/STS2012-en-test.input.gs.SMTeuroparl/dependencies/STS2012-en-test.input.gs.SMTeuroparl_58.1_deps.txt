@@ -1,0 +1,14 @@
+compound	President	Mr
+root	ROOT	President
+punct	President	,
+nsubj	rise	I
+acl:relcl	President	rise
+case	defence	in
+nmod:in	rise	defence
+case	workers	of
+det	workers	the
+nmod:of	defence	workers
+case	industry	in
+det	industry	the
+nmod:in	workers	industry
+punct	President	.

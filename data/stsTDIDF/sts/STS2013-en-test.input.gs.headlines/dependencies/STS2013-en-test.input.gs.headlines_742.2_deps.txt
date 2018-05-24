@@ -1,0 +1,9 @@
+nsubj	fire	Gazans
+root	ROOT	fire
+nummod	rockets	four
+dobj	fire	rockets
+case	Israel	into
+nmod:into	fire	Israel
+punct	fire	;
+neg	injuries	no
+dep	fire	injuries

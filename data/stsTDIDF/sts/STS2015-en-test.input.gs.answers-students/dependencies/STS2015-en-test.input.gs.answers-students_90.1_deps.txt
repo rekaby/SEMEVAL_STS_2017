@@ -1,0 +1,16 @@
+mark	bad	Because
+nsubj	bad	one
+case	terminals	of
+det	terminals	the
+compound	terminals	bulb
+nmod:of	one	terminals
+cop	bad	is
+root	ROOT	bad
+punct	bad	,
+cc	bad	and
+det	ones	the
+amod	ones	other
+nsubj	good	ones
+cop	good	are
+conj:and	bad	good
+punct	bad	.

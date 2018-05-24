@@ -1,0 +1,7 @@
+det	cook	The
+nsubj	kneading	cook
+aux	kneading	is
+root	ROOT	kneading
+det	flour	the
+dobj	kneading	flour
+punct	kneading	.

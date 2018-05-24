@@ -1,0 +1,17 @@
+det	helicopter	The
+nsubj	burst	helicopter
+root	ROOT	burst
+case	flames	into
+nmod:into	burst	flames
+case	impact	upon
+nmod:upon	burst	impact
+punct	burst	,
+case	Office	according
+mwe	according	to
+det	Sheriff	the
+compound	Sheriff	Mohave
+compound	Sheriff	County
+nmod:poss	Office	Sheriff
+case	Sheriff	's
+nmod:according_to	burst	Office
+punct	burst	.

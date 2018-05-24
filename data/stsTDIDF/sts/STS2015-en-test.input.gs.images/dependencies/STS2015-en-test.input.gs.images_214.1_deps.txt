@@ -1,0 +1,13 @@
+det	dog	A
+nsubj	emerges	dog
+root	ROOT	emerges
+xcomp	emerges	form
+det	water	the
+dobj	form	water
+case	stick	with
+det	stick	a
+nmod:with	form	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	stick	mouth
+punct	emerges	.

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	drawing	man
+aux	drawing	is
+root	ROOT	drawing
+dobj	drawing	graffiti
+case	side	on
+det	side	the
+nmod:on	drawing	side
+case	wall	of
+det	wall	a
+amod	wall	gray
+nmod:of	side	wall
+punct	drawing	.

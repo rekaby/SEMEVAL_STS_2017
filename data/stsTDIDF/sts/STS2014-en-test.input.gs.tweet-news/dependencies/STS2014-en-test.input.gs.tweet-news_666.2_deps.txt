@@ -1,0 +1,10 @@
+root	ROOT	`
+compound	March	Million
+compound	March	Man
+nmod:poss	promises	March
+case	March	'
+root	`	promises
+mark	paralyze	to
+acl	promises	paralyze
+amod	capital	Pakistani
+dobj	paralyze	capital

@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+advmod	one	only
+nummod	person	one
+nsubj	is	person
+case	picture	in
+det	picture	the
+amod	picture	whole
+nmod:in	is	picture
+punct	is	.

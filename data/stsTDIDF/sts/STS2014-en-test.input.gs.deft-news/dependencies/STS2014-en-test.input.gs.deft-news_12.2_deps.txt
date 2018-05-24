@@ -1,0 +1,16 @@
+nsubj	hesitate	russia
+aux	hesitate	would
+neg	hesitate	not
+root	ROOT	hesitate
+mark	increase	to
+xcomp	hesitate	increase
+amod	strength	military
+dobj	increase	strength
+case	borders	along
+amod	borders	russian
+nmod:along	strength	borders
+mark	arises	if
+det	need	the
+nsubj	arises	need
+advcl	increase	arises
+punct	hesitate	.

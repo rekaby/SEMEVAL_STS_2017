@@ -1,0 +1,17 @@
+det	girl	The
+nsubj	smiling	girl
+case	section	in
+det	section	the
+amod	section	second
+nmod:in	girl	section
+acl	section	running
+punct	girl	,
+root	ROOT	smiling
+punct	smiling	,
+mark	carry	while
+nmod:poss	sisters	her
+nsubj	carry	sisters
+advcl	smiling	carry
+det	towel	a
+dobj	carry	towel
+punct	smiling	.

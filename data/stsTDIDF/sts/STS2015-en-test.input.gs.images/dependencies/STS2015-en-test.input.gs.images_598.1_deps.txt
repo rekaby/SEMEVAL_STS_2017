@@ -1,0 +1,12 @@
+amod	dog	Little
+amod	dog	white
+root	ROOT	dog
+acl	dog	wearing
+det	leash	a
+dobj	wearing	leash
+acl	leash	jumping
+case	ball	after
+det	ball	a
+amod	ball	red
+nmod:after	jumping	ball
+punct	dog	.

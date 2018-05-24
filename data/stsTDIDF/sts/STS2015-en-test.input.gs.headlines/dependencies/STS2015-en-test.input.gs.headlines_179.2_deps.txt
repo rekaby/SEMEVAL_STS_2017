@@ -1,0 +1,9 @@
+nsubj	heading	Canadians
+acl	Canadians	released
+case	Egypt	in
+nmod:in	released	Egypt
+punct	Canadians	,
+neg	heading	not
+advmod	heading	yet
+root	ROOT	heading
+dobj	heading	home

@@ -1,0 +1,7 @@
+nsubj	relaxes	Obama
+root	ROOT	relaxes
+compound	rules	deportation
+dobj	relaxes	rules
+case	immigrants	for
+amod	immigrants	young
+nmod:for	rules	immigrants

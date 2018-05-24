@@ -1,0 +1,11 @@
+root	ROOT	division
+case	university	of
+det	university	a
+nmod:of	division	university
+nsubj	offers	that
+acl:relcl	university	offers
+dobj	offers	degrees
+case	degree	beyond
+nmod:poss	degree	bachelor
+case	bachelor	's
+nmod:beyond	degrees	degree

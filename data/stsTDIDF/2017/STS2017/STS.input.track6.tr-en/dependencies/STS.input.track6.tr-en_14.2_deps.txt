@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	couch	in
+det	couch	a
+amod	couch	white
+nmod:in	sitting	couch
+punct	sitting	.

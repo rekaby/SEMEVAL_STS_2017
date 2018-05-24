@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+root	ROOT	dog
+acl	dog	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	dog	.

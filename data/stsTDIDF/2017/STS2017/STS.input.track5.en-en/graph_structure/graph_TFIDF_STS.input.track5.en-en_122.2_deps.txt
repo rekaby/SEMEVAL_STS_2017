@@ -1,0 +1,7 @@
+corner	on	case
+making	children	nmod:for
+man	making	acl
+making	animals	dobj
+animals	balloon	compound
+children	corner	nmod:on
+corner	street	compound

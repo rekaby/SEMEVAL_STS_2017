@@ -1,0 +1,7 @@
+root	ROOT	prefer
+cc	prefer	or
+conj:or	prefer	wish
+mark	do	to
+xcomp	wish	do
+dobj	do	something
+punct	prefer	.

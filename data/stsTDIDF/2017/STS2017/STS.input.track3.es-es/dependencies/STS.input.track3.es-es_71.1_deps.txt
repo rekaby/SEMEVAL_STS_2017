@@ -1,0 +1,9 @@
+nummod	players	3
+compound	players	basketball
+nsubj	trying	players
+aux	trying	are
+root	ROOT	trying
+mark	win	to
+xcomp	trying	win
+det	game	a
+dobj	win	game

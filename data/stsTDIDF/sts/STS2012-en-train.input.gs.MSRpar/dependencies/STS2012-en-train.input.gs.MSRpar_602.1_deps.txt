@@ -1,0 +1,12 @@
+root	ROOT	Congratulations
+mark	named	on
+auxpass	named	being
+acl	Congratulations	named
+compound	magazine	Time
+nmod:poss	Person	magazine
+case	magazine	's
+xcomp	named	Person
+case	Year	of
+det	Year	the
+nmod:of	Person	Year
+punct	Congratulations	.

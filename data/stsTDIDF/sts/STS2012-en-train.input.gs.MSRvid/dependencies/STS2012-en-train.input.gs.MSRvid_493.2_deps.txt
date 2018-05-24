@@ -1,0 +1,11 @@
+det	rabbit	A
+amod	rabbit	live
+nsubj	playing	rabbit
+aux	playing	is
+root	ROOT	playing
+case	bunny	with
+det	bunny	a
+amod	bunny	stuffed
+compound	bunny	animal
+nmod:with	playing	bunny
+punct	playing	.

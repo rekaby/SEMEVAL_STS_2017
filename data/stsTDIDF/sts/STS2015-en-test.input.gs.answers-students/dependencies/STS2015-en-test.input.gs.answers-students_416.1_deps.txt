@@ -1,0 +1,7 @@
+expl	is	there
+root	ROOT	is
+det	difference	a
+nsubj	is	difference
+case	states	in
+amod	states	electrical
+nmod:in	difference	states

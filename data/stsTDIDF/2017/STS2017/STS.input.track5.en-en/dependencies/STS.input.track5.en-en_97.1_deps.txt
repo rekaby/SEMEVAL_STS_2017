@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+acl	man	calling
+case	taxi	for
+det	taxi	a
+nmod:for	calling	taxi
+case	airport	at
+det	airport	the
+nmod:at	taxi	airport
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	calling	day
+punct	man	.

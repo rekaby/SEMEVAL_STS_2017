@@ -1,0 +1,9 @@
+case	quality	of
+amod	quality	good
+root	ROOT	quality
+cc	quality	and
+conj:and	quality	condition
+punct	quality	;
+advmod	built	solidly
+dep	quality	built
+punct	quality	;

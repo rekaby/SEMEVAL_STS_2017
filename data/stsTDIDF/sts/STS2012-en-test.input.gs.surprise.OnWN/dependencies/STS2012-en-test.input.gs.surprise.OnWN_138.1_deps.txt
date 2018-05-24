@@ -1,0 +1,11 @@
+det	portrayal	a
+root	ROOT	portrayal
+case	someone	of
+nmod:of	portrayal	someone
+cc	someone	or
+conj:or	someone	something
+punct	portrayal	,
+case	words	through
+nmod:through	portrayal	words
+cc	words	or
+conj:or	words	behavior

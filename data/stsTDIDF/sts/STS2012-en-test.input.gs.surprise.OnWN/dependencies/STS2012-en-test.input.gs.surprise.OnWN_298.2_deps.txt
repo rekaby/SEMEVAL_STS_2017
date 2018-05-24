@@ -1,0 +1,12 @@
+det	size	a
+amod	size	specific
+root	ROOT	size
+cc	size	and
+conj:and	size	style
+case	type	of
+nmod:of	style	type
+case	family	within
+det	family	a
+compound	family	type
+nmod:within	size	family
+punct	size	.

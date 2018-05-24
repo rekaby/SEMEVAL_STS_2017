@@ -1,0 +1,12 @@
+Hewlett	-RRB-	punct
+falling	Hewlett	dep
+falling	:	punct
+Hewlett	and	cc
+falling	love	nmod:in
+Hewlett	cold-calling	amod
+Hewlett	Bill	compound
+Hewlett	-LRB-	punct
+falling	On	mark
+love	technology	nmod:with
+ROOT	falling	root
+technology	with	case

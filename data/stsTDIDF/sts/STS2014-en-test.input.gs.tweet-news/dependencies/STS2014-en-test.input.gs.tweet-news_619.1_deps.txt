@@ -1,0 +1,14 @@
+root	ROOT	#BREAKING
+punct	#BREAKING	:
+compound	clash	#Police
+dep	#BREAKING	clash
+case	#protesters	with
+nmod:with	clash	#protesters
+acl	#protesters	calling
+case	dissolution	for
+nmod:for	calling	dissolution
+case	government	of
+nmod:poss	government	#Pakistan
+case	#Pakistan	's
+nmod:of	dissolution	government
+punct	#BREAKING	-

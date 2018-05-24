@@ -1,0 +1,6 @@
+compound	lawmaker	Nigeria
+nsubj	charged	lawmaker
+root	ROOT	charged
+case	bribery	over
+amod	bribery	alleged
+nmod:over	charged	bribery

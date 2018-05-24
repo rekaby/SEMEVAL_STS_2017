@@ -1,0 +1,8 @@
+amod	bombings	Twin
+nsubj	kill	bombings
+case	Pakistan	in
+nmod:in	bombings	Pakistan
+root	ROOT	kill
+case	least	at
+nmod:at	kill	least
+nummod	least	40

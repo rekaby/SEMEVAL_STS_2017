@@ -1,0 +1,10 @@
+nsubj	path	Switch
+dobj	Switch	Z
+cop	path	is
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path
+case	A	as
+compound	A	bulb
+nmod:as	path	A

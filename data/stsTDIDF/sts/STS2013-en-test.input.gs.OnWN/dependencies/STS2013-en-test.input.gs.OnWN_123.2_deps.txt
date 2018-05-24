@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	reducing	of
+acl	act	reducing
+det	amount	the
+dobj	reducing	amount
+cc	amount	or
+conj:or	amount	number
+punct	act	.

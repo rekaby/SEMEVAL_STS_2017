@@ -1,0 +1,9 @@
+nsubj	has	mushy
+root	ROOT	has
+mark	odds	to
+cop	odds	be
+det	odds	the
+xcomp	has	odds
+case	favorite	on
+nmod:on	odds	favorite
+punct	has	.

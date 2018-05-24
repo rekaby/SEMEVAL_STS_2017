@@ -1,0 +1,11 @@
+nmod:poss	teachers	My
+nsubj	told	teachers
+aux	told	have
+root	ROOT	told
+dobj	told	me
+nsubj	bad	it
+cop	bad	is
+ccomp	told	bad
+case	you	for
+nmod:for	bad	you
+punct	told	.

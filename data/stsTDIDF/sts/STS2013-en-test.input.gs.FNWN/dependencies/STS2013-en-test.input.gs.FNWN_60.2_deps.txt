@@ -1,0 +1,9 @@
+det	record	a
+root	ROOT	record
+case	which	in
+nmod:in	recorded	which
+amod	accounts	commercial
+nsubjpass	recorded	accounts
+auxpass	recorded	are
+acl:relcl	record	recorded
+punct	record	;

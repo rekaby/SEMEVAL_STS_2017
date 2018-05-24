@@ -1,0 +1,16 @@
+advmod	announced	anatoly
+nsubj	announced	sokolov
+root	ROOT	announced
+punct	announced	--
+amod	system	soviet-built
+compound	system	a-135
+compound	system	missile
+compound	system	defense
+nsubj	obsolete	system
+case	moscow	around
+nmod:around	system	moscow
+cop	obsolete	is
+parataxis	announced	obsolete
+cc	obsolete	and
+conj:and	obsolete	inefficient
+punct	announced	.

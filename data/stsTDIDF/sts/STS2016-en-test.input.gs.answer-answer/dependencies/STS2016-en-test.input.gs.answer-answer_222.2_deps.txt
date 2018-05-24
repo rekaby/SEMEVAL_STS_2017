@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+det	reasons	a
+amod	reasons	few
+nsubj	are	reasons
+nsubj	paint	that
+acl:relcl	reasons	paint
+dobj	paint	wrinkles
+punct	are	.

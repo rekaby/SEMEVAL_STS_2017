@@ -1,0 +1,6 @@
+nsubj	claim	Extremists
+root	ROOT	claim
+dobj	claim	responsibility
+case	attacks	for
+compound	attacks	Niger
+nmod:for	responsibility	attacks

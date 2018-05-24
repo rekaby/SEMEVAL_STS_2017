@@ -1,0 +1,6 @@
+stand	blue	amod
+stand	column	nmod:at
+stand	in	case
+column	the	det
+column	at	case
+men	stand	nmod:in

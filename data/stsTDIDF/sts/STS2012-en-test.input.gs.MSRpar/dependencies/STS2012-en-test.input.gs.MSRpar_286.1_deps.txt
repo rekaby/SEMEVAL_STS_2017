@@ -1,0 +1,13 @@
+nsubj	intend	We
+root	ROOT	intend
+mark	appeal	to
+xcomp	intend	appeal
+advmod	appeal	vigorously
+cc	appeal	and
+advmod	expect	still
+conj:and	appeal	expect
+mark	vindicated	to
+auxpass	vindicated	be
+xcomp	expect	vindicated
+advmod	vindicated	ultimately
+punct	intend	.

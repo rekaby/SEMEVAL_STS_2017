@@ -1,0 +1,9 @@
+amod	trees	Beautiful
+compound	trees	lights
+compound	trees	accent
+root	ROOT	trees
+case	night	on
+det	night	a
+amod	night	dark
+nmod:on	trees	night
+punct	trees	.

@@ -1,0 +1,9 @@
+root	ROOT	Held
+case	Guatemala	in
+nmod:in	Held	Guatemala
+punct	Guatemala	,
+compound	fights	software
+compound	fights	guru
+compound	fights	McAfee
+compound	deportation	fights
+appos	Guatemala	deportation

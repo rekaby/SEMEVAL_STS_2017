@@ -1,0 +1,6 @@
+running	children	nsubj
+children	These	det
+field	grass	compound
+field	through	case
+children	dog	conj:and
+running	field	nmod:through

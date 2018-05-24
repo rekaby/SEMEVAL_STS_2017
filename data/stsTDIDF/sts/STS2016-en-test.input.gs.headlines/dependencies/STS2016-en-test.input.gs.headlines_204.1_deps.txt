@@ -1,0 +1,8 @@
+det	crash	All
+nummod	crash	224
+amod	224	dead
+case	mystery	in
+amod	mystery	Russian
+compound	mystery	airliner
+nmod:in	dead	mystery
+root	ROOT	crash

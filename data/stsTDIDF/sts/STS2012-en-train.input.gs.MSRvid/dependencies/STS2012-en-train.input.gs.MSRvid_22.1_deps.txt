@@ -1,0 +1,6 @@
+det	child	A
+nsubj	waking	child
+aux	waking	is
+root	ROOT	waking
+compound:prt	waking	up
+punct	waking	.

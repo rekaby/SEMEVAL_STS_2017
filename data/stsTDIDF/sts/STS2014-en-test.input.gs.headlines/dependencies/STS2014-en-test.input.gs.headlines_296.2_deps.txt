@@ -1,0 +1,5 @@
+nsubj	plans	Lara
+root	ROOT	plans
+dobj	plans	visit
+case	Nepal	to
+nmod:to	visit	Nepal

@@ -1,0 +1,7 @@
+det	motorcyclist	A
+nsubj	crashes	motorcyclist
+root	ROOT	crashes
+case	motorcycle	on
+nmod:poss	motorcycle	his
+nmod:on	crashes	motorcycle
+punct	crashes	.

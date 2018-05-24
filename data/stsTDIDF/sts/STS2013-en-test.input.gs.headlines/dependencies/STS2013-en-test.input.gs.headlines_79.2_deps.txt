@@ -1,0 +1,8 @@
+nsubj	confess	Iranians
+punct	confess	``
+root	ROOT	confess
+punct	confess	''
+case	scientist	to
+amod	scientist	nuclear
+nmod:to	confess	scientist
+dobj	confess	murders

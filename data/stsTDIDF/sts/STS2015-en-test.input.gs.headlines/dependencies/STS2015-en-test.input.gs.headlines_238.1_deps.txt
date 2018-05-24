@@ -1,0 +1,5 @@
+compound	stocks	Hong
+compound	stocks	Kong
+nsubj	end	stocks
+root	ROOT	end
+advmod	end	higher

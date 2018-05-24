@@ -1,0 +1,7 @@
+compound	guitar	Man
+compound	guitar	playing
+root	ROOT	guitar
+mark	sitting	while
+acl	guitar	sitting
+compound:prt	sitting	down
+punct	guitar	.

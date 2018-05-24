@@ -1,0 +1,11 @@
+camera	at	case
+women	looking	acl
+taking	photographer	nsubj
+faces	blank	amod
+women	four	nummod
+taking	picture	dobj
+looking	camera	nmod:at
+photographer	The	det
+picture	women	nmod:of
+looking	faces	nmod:with
+faces	with	case

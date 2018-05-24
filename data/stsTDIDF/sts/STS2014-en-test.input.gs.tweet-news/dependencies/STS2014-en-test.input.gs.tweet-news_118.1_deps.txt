@@ -1,0 +1,7 @@
+root	ROOT	Study
+punct	Study	:
+amod	downturn	College-educated
+amod	downturn	weathered
+dep	Study	downturn
+advmod	downturn	best
+punct	Study	:

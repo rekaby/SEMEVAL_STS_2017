@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+root	ROOT	running
+case	edge	along
+det	edge	the
+nmod:along	running	edge
+case	ocean	of
+det	ocean	the
+nmod:of	edge	ocean
+punct	running	.

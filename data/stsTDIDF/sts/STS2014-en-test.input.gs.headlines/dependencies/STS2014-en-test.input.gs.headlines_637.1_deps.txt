@@ -1,0 +1,7 @@
+nsubj	injured	Officer
+csubj	dies	injured
+case	India	in
+nmod:in	injured	India
+amod	protests	anti-rape
+dobj	injured	protests
+root	ROOT	dies

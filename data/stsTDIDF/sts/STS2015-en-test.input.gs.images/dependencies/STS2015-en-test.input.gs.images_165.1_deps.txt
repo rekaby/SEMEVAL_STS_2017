@@ -1,0 +1,9 @@
+det	slides	A
+amod	slides	young
+compound	slides	child
+root	ROOT	slides
+case	slide	down
+det	slide	an
+amod	slide	orange
+nmod:down	slides	slide
+punct	slides	.

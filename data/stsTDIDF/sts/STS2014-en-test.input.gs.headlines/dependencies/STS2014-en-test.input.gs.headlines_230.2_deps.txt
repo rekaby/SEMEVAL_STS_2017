@@ -1,0 +1,6 @@
+nsubj	invites	Russia
+root	ROOT	invites
+amod	opposition	Syrian
+dobj	invites	opposition
+case	talks	for
+nmod:for	invites	talks

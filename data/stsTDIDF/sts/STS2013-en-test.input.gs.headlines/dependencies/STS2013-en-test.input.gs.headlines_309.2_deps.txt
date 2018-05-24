@@ -1,0 +1,6 @@
+compound	Strauss	England
+compound	Strauss	captain
+nsubj	retires	Strauss
+root	ROOT	retires
+case	cricket	from
+nmod:from	retires	cricket

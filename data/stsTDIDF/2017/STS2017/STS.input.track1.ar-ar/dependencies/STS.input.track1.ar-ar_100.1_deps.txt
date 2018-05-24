@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+nsubj	see	Asttien
+aux	see	do
+neg	see	not
+acl:relcl	woman	see
+det	other	each
+dobj	see	other
+punct	man	.

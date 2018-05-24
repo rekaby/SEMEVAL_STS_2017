@@ -1,0 +1,10 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	depends	it
+ccomp	think	depends
+advmod	much	very
+dobj	depends	much
+case	area	on
+det	area	the
+nmod:on	much	area
+punct	think	.

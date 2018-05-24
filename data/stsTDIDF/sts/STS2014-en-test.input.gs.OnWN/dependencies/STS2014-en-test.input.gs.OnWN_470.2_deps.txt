@@ -1,0 +1,10 @@
+root	ROOT	make
+det	request	a
+dobj	make	request
+cc	request	or
+conj:or	request	demand
+case	something	for
+nmod:for	request	something
+case	somebody	to
+nmod:to	something	somebody
+punct	make	.

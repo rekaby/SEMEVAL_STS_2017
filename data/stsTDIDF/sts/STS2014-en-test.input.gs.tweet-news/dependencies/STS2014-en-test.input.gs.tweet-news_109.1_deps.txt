@@ -1,0 +1,10 @@
+aux	save	Can
+nsubj	save	Oprah
+root	ROOT	save
+compound	Armstrong	Lance
+dobj	save	Armstrong
+punct	save	?-6) nsubjpass(convinced-4, She
+auxpass	convinced	's
+neg	convinced	not
+root	ROOT	convinced
+dobj	convinced	#Doprah

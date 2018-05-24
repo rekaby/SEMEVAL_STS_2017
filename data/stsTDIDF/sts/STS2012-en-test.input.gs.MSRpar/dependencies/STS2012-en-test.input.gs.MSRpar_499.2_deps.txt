@@ -1,0 +1,17 @@
+case	mainland	Throughout
+nmod:poss	mainland	China
+case	China	's
+nmod:throughout	killed	mainland
+punct	killed	,
+det	disease	the
+nsubj	killed	disease
+aux	killed	has
+root	ROOT	killed
+nummod	people	300
+dobj	killed	people
+cc	people	and
+conj:and	people	infected
+advmod	5,270	more
+mwe	more	than
+dobj	infected	5,270
+punct	killed	.

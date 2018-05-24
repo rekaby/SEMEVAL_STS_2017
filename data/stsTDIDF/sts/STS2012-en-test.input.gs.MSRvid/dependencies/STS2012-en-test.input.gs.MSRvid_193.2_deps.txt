@@ -1,0 +1,7 @@
+det	man	A
+nsubj	climbs	man
+root	ROOT	climbs
+compound:prt	climbs	up
+det	rope	a
+dobj	climbs	rope
+punct	climbs	.

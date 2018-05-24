@@ -1,0 +1,9 @@
+compound	post	Syria
+compound	post	rebels
+compound	post	attack
+amod	post	Lebanese
+root	ROOT	post
+case	border	near
+nmod:near	post	border
+punct	post	:
+dep	post	army

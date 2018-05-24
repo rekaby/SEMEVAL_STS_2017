@@ -1,0 +1,10 @@
+root	ROOT	remove
+conj:or	remove	remove
+case	place	to
+cc	to	or
+conj:or	to	from
+det	place	a
+nmod:from	remove	place
+nmod:to	remove	place
+cc	remove	or
+conj:or	remove	situation

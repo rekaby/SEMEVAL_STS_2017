@@ -1,0 +1,14 @@
+nsubj	find	they
+root	ROOT	find
+advmod	few	very
+amod	papers	few
+nsubj	predict	papers
+punct	7	-LRB-
+dep	papers	7
+case	total	in
+nmod:in	7	total
+punct	7	-RRB-
+ccomp	find	predict
+amod	cooling	global
+dobj	predict	cooling
+punct	find	.

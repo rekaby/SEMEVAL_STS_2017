@@ -1,0 +1,8 @@
+root	ROOT	98
+amod	98	dead
+case	Republic	in
+amod	Republic	Central
+amod	Republic	African
+nmod:in	dead	Republic
+case	clashes	after
+nmod:after	98	clashes

@@ -1,0 +1,8 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	you
+root	ROOT	remove
+dobj	remove	paint
+case	hair	from
+nmod:from	remove	hair
+punct	remove	?

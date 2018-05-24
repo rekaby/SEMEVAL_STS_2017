@@ -1,0 +1,8 @@
+det	contour	the
+amod	contour	spatial
+punct	contour	,
+amod	contour	geometric
+root	ROOT	contour
+case	object	of
+det	object	an
+nmod:of	contour	object

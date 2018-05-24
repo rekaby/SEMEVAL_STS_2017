@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	brown
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	grass	on
+det	grass	the
+nmod:on	walking	grass
+punct	walking	.

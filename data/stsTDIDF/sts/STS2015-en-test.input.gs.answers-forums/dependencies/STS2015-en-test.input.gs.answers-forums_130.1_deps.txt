@@ -1,0 +1,16 @@
+case	time	By
+det	time	the
+nmod:by	hegemon	time
+dobj	collapsed	that
+nsubj	collapsed	Qin
+aux	collapsed	had
+advmod	collapsed	totally
+acl:relcl	time	collapsed
+punct	hegemon	,
+compound	Yu	Xiang
+nsubj	hegemon	Yu
+cop	hegemon	was
+nmod:poss	hegemon	China
+case	China	's
+root	ROOT	hegemon
+punct	hegemon	.

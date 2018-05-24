@@ -1,0 +1,6 @@
+compound	playing	Band
+root	ROOT	playing
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	playing	sidewalk
+punct	playing	.

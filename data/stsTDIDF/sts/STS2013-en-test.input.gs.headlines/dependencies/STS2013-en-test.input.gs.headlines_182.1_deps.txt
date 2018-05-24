@@ -1,0 +1,9 @@
+compound	Africa	S.
+nmod:poss	Mandela	Africa
+case	Africa	's
+amod	Mandela	former
+compound	Mandela	president
+nsubj	discharged	Mandela
+root	ROOT	discharged
+case	hospital	from
+nmod:from	discharged	hospital

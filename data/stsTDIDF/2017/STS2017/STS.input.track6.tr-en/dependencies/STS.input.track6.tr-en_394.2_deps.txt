@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	throws	woman
+root	ROOT	throws
+dobj	throws	her
+case	pool	into
+det	pool	the
+nmod:into	throws	pool
+mark	make	to
+advcl	throws	make
+nmod:poss	laugh	her
+compound	laugh	son
+dobj	make	laugh
+punct	throws	.

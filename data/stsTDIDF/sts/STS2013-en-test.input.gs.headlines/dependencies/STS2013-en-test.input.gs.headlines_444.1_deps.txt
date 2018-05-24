@@ -1,0 +1,9 @@
+det	Note	The
+nmod:poss	Must-Reads	Note
+case	Note	's
+root	ROOT	Must-Reads
+case	August	for
+nmod:for	Must-Reads	August
+nummod	August	1
+punct	Must-Reads	,
+nummod	Must-Reads	2012

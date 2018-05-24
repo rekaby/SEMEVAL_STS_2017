@@ -1,0 +1,16 @@
+advmod	14,000	Some
+nummod	customers	14,000
+nsubj	were	customers
+dep	said	were
+case	power	without
+nmod:without	were	power
+case	area	in
+det	area	the
+nmod:in	power	area
+punct	area	,
+compound	Gas	Oklahoma
+conj:and	area	Gas
+cc	area	and
+conj:and	area	Electric
+root	ROOT	said
+punct	said	.

@@ -1,0 +1,17 @@
+nsubj	allowed	Rusch
+aux	allowed	has
+advmod	allowed	also
+root	ROOT	allowed
+nummod	runs	five
+cc	five	or
+conj:or	five	more
+amod	runs	earned
+dobj	allowed	runs
+case	each	in
+nmod:in	runs	each
+case	starts	of
+nmod:poss	starts	his
+amod	starts	last
+nummod	starts	three
+nmod:of	each	starts
+punct	allowed	.

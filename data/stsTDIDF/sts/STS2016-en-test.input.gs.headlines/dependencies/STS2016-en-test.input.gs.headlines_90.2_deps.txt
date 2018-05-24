@@ -1,0 +1,4 @@
+nsubj	acquitted	Zimmerman
+root	ROOT	acquitted
+case	slaying	in
+nmod:in	acquitted	slaying

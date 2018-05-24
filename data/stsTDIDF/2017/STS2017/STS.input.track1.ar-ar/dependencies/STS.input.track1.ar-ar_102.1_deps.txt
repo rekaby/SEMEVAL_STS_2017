@@ -1,0 +1,7 @@
+compound	length	Air
+compound	length	bubble
+root	ROOT	length
+case	feet	of
+nummod	feet	20
+nmod:of	length	feet
+punct	length	.

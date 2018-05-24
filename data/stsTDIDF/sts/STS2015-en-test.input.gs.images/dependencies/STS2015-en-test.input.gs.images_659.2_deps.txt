@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	walking	men
+root	ROOT	walking
+case	mural	past
+det	mural	a
+nmod:past	walking	mural
+case	car	of
+det	car	a
+nmod:of	mural	car
+punct	walking	.

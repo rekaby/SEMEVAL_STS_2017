@@ -1,0 +1,12 @@
+root	ROOT	provide
+punct	movies	-LRB-
+dobj	provide	movies
+punct	movies	-RRB-
+case	soundtrack	with
+det	soundtrack	a
+nmod:with	movies	soundtrack
+case	language	of
+det	language	a
+amod	language	foreign
+nmod:of	soundtrack	language
+punct	provide	.

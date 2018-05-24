@@ -1,0 +1,13 @@
+det	men	The
+nsubj	try	men
+root	ROOT	try
+mark	show	to
+xcomp	try	show
+det	coach	the
+dobj	show	coach
+dobj	made	what
+nsubjpass	made	they
+auxpass	made	're
+acl:relcl	coach	made
+nmod	made	of
+punct	try	.

@@ -1,0 +1,8 @@
+det	player	A
+compound	player	hockey
+nsubj	skating	player
+aux	skating	is
+root	ROOT	skating
+case	ice	on
+nmod:on	skating	ice
+punct	skating	.

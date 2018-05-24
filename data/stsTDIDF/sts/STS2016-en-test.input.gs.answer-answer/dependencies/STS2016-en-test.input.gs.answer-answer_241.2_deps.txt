@@ -1,0 +1,10 @@
+nsubj	have	You
+root	ROOT	have
+mark	find	to
+xcomp	have	find
+compound:prt	find	out
+det	works	what
+dobj	find	works
+case	you	for
+nmod:for	works	you
+punct	have	.

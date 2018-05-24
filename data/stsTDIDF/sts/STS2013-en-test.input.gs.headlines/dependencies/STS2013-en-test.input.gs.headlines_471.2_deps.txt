@@ -1,0 +1,8 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	37
+case	mosque	at
+nmod:at	kills	mosque
+case	Afghanistan	in
+nmod:in	kills	Afghanistan

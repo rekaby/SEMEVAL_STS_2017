@@ -1,0 +1,6 @@
+nmod:poss	father	Snowden
+case	Snowden	's
+nsubj	arrives	father
+root	ROOT	arrives
+case	Moscow	in
+nmod:in	arrives	Moscow

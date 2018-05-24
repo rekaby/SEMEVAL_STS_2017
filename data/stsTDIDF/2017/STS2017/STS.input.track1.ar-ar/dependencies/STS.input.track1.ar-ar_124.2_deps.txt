@@ -1,0 +1,6 @@
+det	man	The
+root	ROOT	man
+case	saw	near
+det	saw	the
+nmod:near	man	saw
+punct	man	.

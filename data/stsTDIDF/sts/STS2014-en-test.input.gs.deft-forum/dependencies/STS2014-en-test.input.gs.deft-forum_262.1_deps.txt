@@ -1,0 +1,10 @@
+root	ROOT	wait
+mark	become	until
+nsubj	become	they
+advcl	wait	become
+advmod	consistent	more
+xcomp	become	consistent
+cc	consistent	and
+conj:and	consistent	closer
+advmod	become	together
+punct	wait	.

@@ -1,0 +1,15 @@
+nsubj	know	You
+aux	know	do
+neg	know	n't
+root	ROOT	know
+mark	account	if
+det	factors	those
+nsubj	account	factors
+advcl	know	account
+case	warming	for
+det	warming	the
+nmod:for	account	warming
+punct	warming	,
+cc	warming	or
+conj:or	warming	not
+punct	know	.

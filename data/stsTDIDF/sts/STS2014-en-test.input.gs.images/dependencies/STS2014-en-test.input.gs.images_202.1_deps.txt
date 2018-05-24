@@ -1,0 +1,12 @@
+det	women	A
+nsubj	make	women
+acl	women	sitting
+case	chair	in
+det	chair	a
+nmod:in	sitting	chair
+case	holding	at
+compound	holding	Christmas
+nmod:at	sitting	holding
+root	ROOT	make
+compound:prt	make	up
+punct	make	.

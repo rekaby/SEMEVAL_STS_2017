@@ -1,0 +1,8 @@
+compound	toll	Philippines
+compound	toll	typhoon
+compound	toll	death
+nsubj	feared	toll
+root	ROOT	feared
+mark	hit	to
+xcomp	feared	hit
+dobj	hit	7,000

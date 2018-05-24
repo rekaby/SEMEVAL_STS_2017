@@ -1,0 +1,6 @@
+det	part	the
+amod	part	upper
+root	ROOT	part
+case	anything	of
+nmod:of	part	anything
+punct	part	.

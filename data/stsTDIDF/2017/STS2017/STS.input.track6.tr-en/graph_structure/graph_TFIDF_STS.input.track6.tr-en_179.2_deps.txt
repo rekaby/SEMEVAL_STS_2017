@@ -1,0 +1,12 @@
+talking	fathers	nmod:to
+talking	while	mark
+fathers	to	case
+smile	boys	nsubj
+boys	two	nummod
+talking	video	nmod:with
+video	with	case
+ROOT	smile	root
+boys	The	det
+fathers	their	nmod:poss
+smile	.	punct
+smile	talking	advcl

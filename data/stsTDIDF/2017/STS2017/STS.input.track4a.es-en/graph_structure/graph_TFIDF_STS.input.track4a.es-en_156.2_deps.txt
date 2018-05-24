@@ -1,0 +1,7 @@
+view	girl	compound
+woman	view	conj:and
+view	piece	dep
+artwork	up	advmod
+piece	artwork	nmod:of
+piece	close	advmod
+artwork	of	case

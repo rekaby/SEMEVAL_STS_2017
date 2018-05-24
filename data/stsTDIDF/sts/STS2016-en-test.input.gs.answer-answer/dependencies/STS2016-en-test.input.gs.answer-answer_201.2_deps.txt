@@ -1,0 +1,17 @@
+nsubj	need	You
+root	ROOT	need
+mark	pick	to
+xcomp	need	pick
+dobj	pick	how
+cc	how	and
+advmod	want	where
+nsubj	want	you
+conj:and	how	want
+mark	place	to
+xcomp	want	place
+nmod:poss	foot	your
+dobj	place	foot
+cc	how	and
+conj:and	how	do
+dobj	do	it
+punct	need	.

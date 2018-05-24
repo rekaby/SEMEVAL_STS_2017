@@ -1,0 +1,10 @@
+nmod:poss	plane	Taiwan
+case	Taiwan	's
+compound	plane	president
+compound	plane	charters
+root	ROOT	plane
+mark	pay	to
+acl	plane	pay
+dobj	pay	respects
+case	Lee	to
+nmod:to	pay	Lee

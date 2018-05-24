@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	dancing	woman
+cc	woman	and
+conj:and	woman	man
+aux	dancing	are
+root	ROOT	dancing
+case	rain	in
+det	rain	the
+nmod:in	dancing	rain
+punct	dancing	.

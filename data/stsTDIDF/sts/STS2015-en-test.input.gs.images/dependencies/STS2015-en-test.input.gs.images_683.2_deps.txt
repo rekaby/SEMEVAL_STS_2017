@@ -1,0 +1,15 @@
+det	child	A
+root	ROOT	child
+case	reflection	in
+mwe	in	front
+mwe	in	of
+nmod:poss	reflection	his
+amod	reflection	own
+nmod:in_front_of	child	reflection
+dep	reflection	turning
+case	camera	towards
+det	camera	the
+nmod:towards	turning	camera
+cc	turning	and
+conj:and	turning	smiling
+punct	child	.

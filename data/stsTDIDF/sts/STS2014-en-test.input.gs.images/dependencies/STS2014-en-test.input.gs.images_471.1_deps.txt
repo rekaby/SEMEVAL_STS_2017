@@ -1,0 +1,7 @@
+nummod	trains	Two
+root	ROOT	trains
+case	station	inside
+det	station	a
+compound	station	train
+nmod:inside	trains	station
+punct	trains	.

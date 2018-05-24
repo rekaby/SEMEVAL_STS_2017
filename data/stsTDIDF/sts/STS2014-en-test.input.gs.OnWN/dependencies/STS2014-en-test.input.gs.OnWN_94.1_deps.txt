@@ -1,0 +1,8 @@
+root	ROOT	Leave
+case	someone	to
+nmod:to	Leave	someone
+case	death	after
+nmod:poss	death	one
+case	one	's
+nmod:after	Leave	death
+punct	Leave	.

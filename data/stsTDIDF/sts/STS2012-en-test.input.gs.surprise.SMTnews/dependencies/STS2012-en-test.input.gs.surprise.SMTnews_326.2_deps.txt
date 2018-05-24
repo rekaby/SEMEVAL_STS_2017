@@ -1,0 +1,13 @@
+det	time	Each
+nsubj	fly	time
+punct	time	,
+case	advancements	of
+compound	advancements	radicals
+amod	advancements	technological
+nmod:of	time	advancements
+acl	advancements	made
+root	ROOT	fly
+advmod	fly	away
+det	threats	these
+dobj	fly	threats
+punct	fly	.

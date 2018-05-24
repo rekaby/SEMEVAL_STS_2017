@@ -1,0 +1,8 @@
+compound	5	circuit
+nsubj	path	5
+cop	path	is
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path
+punct	path	.

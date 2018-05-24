@@ -1,0 +1,10 @@
+nummod	women	Two
+nsubj	float	women
+root	ROOT	float
+case	pool	in
+det	pool	a
+nmod:in	float	pool
+case	waterfall	under
+det	waterfall	a
+nmod:under	float	waterfall
+punct	float	.

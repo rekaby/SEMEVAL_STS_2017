@@ -1,0 +1,11 @@
+det	man	The
+nsubj	using	man
+aux	using	is
+root	ROOT	using
+det	camera	a
+dobj	using	camera
+mark	hammer	to
+acl	camera	hammer
+det	nail	a
+dobj	hammer	nail
+punct	using	.

@@ -1,0 +1,7 @@
+nsubj	sitting	men
+root	ROOT	sitting
+case	steps	on
+nmod:on	sitting	steps
+case	dog	with
+det	dog	a
+nmod:with	steps	dog

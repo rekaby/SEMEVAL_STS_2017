@@ -1,0 +1,7 @@
+compound	Council	UN
+compound	Council	Security
+nsubj	vote	Council
+amod	vote	unanimous
+root	ROOT	vote
+case	Syria	on
+nmod:on	vote	Syria

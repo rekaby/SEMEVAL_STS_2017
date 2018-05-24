@@ -1,0 +1,6 @@
+root	ROOT	persuade
+dobj	persuade	somebody
+mark	accept	to
+xcomp	persuade	accept
+dobj	accept	something
+punct	persuade	.

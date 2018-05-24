@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	breaking	woman
+aux	breaking	is
+root	ROOT	breaking
+det	head	a
+dobj	breaking	head
+case	garlic	of
+nmod:of	head	garlic
+case	cloves	into
+nmod:into	breaking	cloves
+punct	breaking	.

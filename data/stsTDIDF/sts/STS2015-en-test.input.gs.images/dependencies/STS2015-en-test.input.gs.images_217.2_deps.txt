@@ -1,0 +1,14 @@
+nummod	people	Two
+nsubj	walking	people
+root	ROOT	walking
+case	beach	along
+det	beach	the
+nmod:along	walking	beach
+case	towarn	at
+compound	towarn	sunset
+nmod:at	walking	towarn
+det	group	a
+dep	towarn	group
+case	people	of
+nmod:of	group	people
+punct	walking	.

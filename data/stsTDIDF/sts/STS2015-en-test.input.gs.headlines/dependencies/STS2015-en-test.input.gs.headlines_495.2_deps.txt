@@ -1,0 +1,7 @@
+nsubj	admits	Man
+root	ROOT	admits
+xcomp	admits	threatening
+mark	kill	to
+xcomp	threatening	kill
+compound	Harry	Prince
+dobj	kill	Harry

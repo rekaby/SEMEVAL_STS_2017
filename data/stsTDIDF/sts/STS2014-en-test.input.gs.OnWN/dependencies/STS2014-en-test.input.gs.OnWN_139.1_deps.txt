@@ -1,0 +1,11 @@
+nsubj	spin	strike
+det	part	the
+amod	part	upper
+dobj	strike	part
+case	ball	of
+det	ball	a
+nmod:of	part	ball
+acl	ball	giving
+dobj	giving	it
+advmod	giving	forward
+root	ROOT	spin

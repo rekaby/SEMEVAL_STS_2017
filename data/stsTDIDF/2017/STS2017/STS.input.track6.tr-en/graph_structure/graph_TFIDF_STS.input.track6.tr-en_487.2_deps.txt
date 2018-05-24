@@ -1,0 +1,5 @@
+climbing	is	aux
+ROOT	climbing	root
+ditch	a	det
+climbing	ditch	dobj
+climbing	man	nsubj

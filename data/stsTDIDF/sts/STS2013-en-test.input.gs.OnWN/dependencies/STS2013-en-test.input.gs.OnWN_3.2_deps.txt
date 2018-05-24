@@ -1,0 +1,6 @@
+root	ROOT	reach
+cc	reach	or
+conj:or	reach	come
+case	rest	to
+nmod:to	come	rest
+punct	reach	.

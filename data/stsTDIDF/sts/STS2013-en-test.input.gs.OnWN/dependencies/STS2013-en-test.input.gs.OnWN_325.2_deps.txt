@@ -1,0 +1,7 @@
+det	member	a
+root	ROOT	member
+case	force	of
+det	force	a
+compound	force	police
+nmod:of	member	force
+punct	member	.

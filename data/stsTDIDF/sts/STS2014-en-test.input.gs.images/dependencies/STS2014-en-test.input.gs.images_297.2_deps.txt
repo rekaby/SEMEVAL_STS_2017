@@ -1,0 +1,14 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	wearing
+dobj	wearing	jeans
+punct	woman	,
+det	top	a
+amod	top	dark
+compound	top	bikini
+appos	woman	top
+punct	woman	,
+cc	woman	and
+det	bracelet	a
+conj:and	woman	bracelet
+punct	woman	.

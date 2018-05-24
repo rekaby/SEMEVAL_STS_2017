@@ -1,0 +1,13 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+nsubj	smart	She
+cop	smart	's
+punct	Rarely	-LRB-
+dep	smart	Rarely
+punct	Rarely	-RRB-
+det	smart	the
+compound	smart	Boss
+parataxis	NYTimes	smart
+punct	smart	,
+case	usual	as
+advcl:as	smart	usual

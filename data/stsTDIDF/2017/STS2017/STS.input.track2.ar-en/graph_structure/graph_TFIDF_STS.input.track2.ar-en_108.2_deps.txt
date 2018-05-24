@@ -1,0 +1,4 @@
+meal	for	case
+waiting	meal	nmod:for
+waiting	women	nsubj
+meal	restaurant	nmod:in

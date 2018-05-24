@@ -1,0 +1,16 @@
+firms	Tobacco	compound
+boost	they	nsubj
+cheaper	cigarettes	appos
+cigarettes	accessible	amod
+leading	cheaper	nmod:to
+said	boost	ccomp
+boost	leading	advcl
+boost	trade	dobj
+said	firms	nsubj
+accessible	more	advmod
+trade	market	compound
+cheaper	,	punct
+cheaper	to	case
+boost	would	aux
+trade	black	amod
+boost	,	punct

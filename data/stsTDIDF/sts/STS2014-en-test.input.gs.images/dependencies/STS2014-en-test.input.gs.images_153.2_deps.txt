@@ -1,0 +1,14 @@
+det	dog	A
+compound	dog	tan
+root	ROOT	dog
+acl	dog	lying
+case	bed	on
+det	bed	a
+compound	bed	moggie
+nmod:on	lying	bed
+acl	bed	looking
+compound:prt	looking	up
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	dog	.

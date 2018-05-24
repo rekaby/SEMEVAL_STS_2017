@@ -1,0 +1,9 @@
+nsubj	Boost	Exercise
+aux	Boost	Can
+root	ROOT	Boost
+compound	#exercise	Flu
+compound	#exercise	Shot?s
+compound	#exercise	Potency
+amod	#exercise	#flushot
+compound	#health	#exercise
+dobj	Boost	#health

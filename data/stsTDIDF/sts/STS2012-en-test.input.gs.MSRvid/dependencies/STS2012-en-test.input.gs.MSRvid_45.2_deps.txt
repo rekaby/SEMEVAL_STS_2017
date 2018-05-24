@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	cooking	woman
+aux	cooking	is
+root	ROOT	cooking
+det	pork	a
+amod	pork	breaded
+nsubj	chop	pork
+ccomp	cooking	chop
+punct	cooking	.

@@ -1,0 +1,6 @@
+det	crowd	A
+root	ROOT	crowd
+acl	crowd	watching
+det	man	a
+dobj	watching	man
+acl	crowd	outside

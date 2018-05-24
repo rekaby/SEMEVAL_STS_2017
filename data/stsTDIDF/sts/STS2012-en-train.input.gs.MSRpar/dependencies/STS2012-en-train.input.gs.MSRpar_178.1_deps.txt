@@ -1,0 +1,16 @@
+det	spokesman	A
+nsubj	said	spokesman
+root	ROOT	said
+punct	said	:
+punct	said	``
+case	November	Since
+nmod:since	co-operated	November
+punct	co-operated	,
+nsubj	co-operated	we
+aux	co-operated	have
+ccomp	said	co-operated
+advmod	co-operated	fully
+case	police	with
+det	police	the
+nmod:with	co-operated	police
+punct	said	.

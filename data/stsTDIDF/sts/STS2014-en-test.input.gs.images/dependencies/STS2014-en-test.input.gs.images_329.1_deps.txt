@@ -1,0 +1,12 @@
+nummod	sheep	Three
+root	ROOT	sheep
+case	road	on
+det	road	a
+compound	road	dirt
+nmod:on	sheep	road
+acl	road	viewed
+case	vehicle	from
+det	vehicle	a
+compound	vehicle	passenger
+nmod:from	viewed	vehicle
+punct	sheep	.

@@ -1,0 +1,8 @@
+det	person	A
+root	ROOT	person
+acl	person	coming
+advmod	coming	down
+case	mountain	from
+det	mountain	the
+nmod:from	down	mountain
+punct	person	.

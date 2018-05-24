@@ -1,0 +1,6 @@
+det	boy	a
+nsubj	steals	boy
+root	ROOT	steals
+det	apple	an
+dobj	steals	apple
+advmod	steals	alone

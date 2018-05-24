@@ -1,0 +1,8 @@
+looks	woman	nsubj
+life	at	case
+woman	old	amod
+bench	a	det
+woman	An	det
+looks	life	nmod:at
+bench	park	compound
+looks	bench	nmod:on

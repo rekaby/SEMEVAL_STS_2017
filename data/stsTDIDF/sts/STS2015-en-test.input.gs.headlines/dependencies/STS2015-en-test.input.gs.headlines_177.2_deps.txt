@@ -1,0 +1,10 @@
+compound	Calls	Kerry
+root	ROOT	Calls
+case	Council	On
+compound	Council	UN
+compound	Council	Security
+nmod:on	Calls	Council
+case	Act	to
+nmod:to	Calls	Act
+case	Syria	on
+nmod:on	Act	Syria

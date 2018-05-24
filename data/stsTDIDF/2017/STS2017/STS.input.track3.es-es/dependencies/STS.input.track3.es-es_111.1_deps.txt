@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	big
+amod	dog	black
+nsubj	dog	dog
+cop	dog	is
+case	dog	behind
+det	dog	the
+amod	dog	small
+amod	dog	black
+root	ROOT	dog
+punct	dog	.

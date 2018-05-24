@@ -1,0 +1,8 @@
+nummod	people	Three
+nsubj	sitting	people
+aux	sitting	are
+root	ROOT	sitting
+case	edge	on
+det	edge	the
+nmod:on	sitting	edge
+punct	sitting	.

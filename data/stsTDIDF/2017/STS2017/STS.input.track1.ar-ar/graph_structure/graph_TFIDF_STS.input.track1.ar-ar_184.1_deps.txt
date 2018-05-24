@@ -1,0 +1,4 @@
+works	club	nmod:in
+device	DJ	compound
+works	device	nsubj
+club	in	case

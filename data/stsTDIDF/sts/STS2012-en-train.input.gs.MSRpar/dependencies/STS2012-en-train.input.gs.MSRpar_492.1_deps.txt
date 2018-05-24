@@ -1,0 +1,16 @@
+det	case	The
+nsubj	comes	case
+root	ROOT	comes
+case	Illinois	out
+mwe	out	of
+nmod:out_of	comes	Illinois
+cc	comes	and
+conj:and	comes	involves
+det	company	a
+amod	company	for-profit
+nsubj	called	company
+ccomp	involves	called
+compound	Inc.	Telemarketing
+compound	Inc.	Associates
+dobj	called	Inc.
+punct	comes	.

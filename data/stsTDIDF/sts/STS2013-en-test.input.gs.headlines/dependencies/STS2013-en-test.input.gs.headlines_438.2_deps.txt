@@ -1,0 +1,11 @@
+compound	man	Texas
+nsubj	finds	man
+root	ROOT	finds
+nmod:poss	car	his
+dobj	finds	car
+nummod	years	42
+nmod:tmod	finds	years
+mark	stolen	after
+nsubjpass	stolen	it
+auxpass	stolen	was
+advcl	finds	stolen

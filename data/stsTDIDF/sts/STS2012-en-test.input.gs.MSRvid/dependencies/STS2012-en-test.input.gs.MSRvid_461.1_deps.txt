@@ -1,0 +1,7 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+det	meat	a
+dobj	cutting	meat
+punct	cutting	.

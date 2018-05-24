@@ -1,0 +1,11 @@
+case	mission	During
+det	mission	the
+nmod:during	willing	mission
+punct	willing	,
+det	Congress	the
+nsubj	willing	Congress
+root	ROOT	willing
+mark	agree	to
+xcomp	willing	agree
+case	Libya	on
+nmod:on	agree	Libya

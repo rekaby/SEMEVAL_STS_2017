@@ -1,0 +1,10 @@
+nummod	#France	2
+root	ROOT	#France
+punct	#France	:
+nsubj	pacifists	We
+cop	pacifists	're
+neg	pacifists	not
+det	pacifists	the
+appos	#France	pacifists
+nsubj	think	you
+ccomp	pacifists	think

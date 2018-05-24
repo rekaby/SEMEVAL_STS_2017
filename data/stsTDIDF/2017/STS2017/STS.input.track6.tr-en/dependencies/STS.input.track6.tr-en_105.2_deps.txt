@@ -1,0 +1,12 @@
+nummod	person	One
+nsubj	rapping	person
+aux	rapping	is
+root	ROOT	rapping
+mark	looking	while
+nsubj	looking	someone
+advmod	looking	else
+aux	looking	is
+advcl	rapping	looking
+case	it	at
+nmod:at	looking	it
+punct	rapping	.

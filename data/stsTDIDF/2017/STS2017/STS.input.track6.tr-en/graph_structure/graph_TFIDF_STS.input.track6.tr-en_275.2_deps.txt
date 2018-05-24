@@ -1,0 +1,4 @@
+keeps	inside	advmod
+keeps	child	nsubj
+keeps	cat	dobj
+child	The	det

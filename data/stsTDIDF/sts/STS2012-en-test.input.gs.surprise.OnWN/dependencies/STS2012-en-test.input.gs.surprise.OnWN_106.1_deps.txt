@@ -1,0 +1,10 @@
+det	structure	A
+compound	structure	plant
+root	ROOT	structure
+case	top	near
+det	top	the
+nmod:near	structure	top
+case	plant	of
+det	plant	the
+nmod:of	top	plant
+punct	structure	.

@@ -1,0 +1,9 @@
+det	gentleman	A
+nsubj	smiling	gentleman
+root	ROOT	smiling
+cc	smiling	and
+conj:and	smiling	showing
+nmod:poss	sunglasses	his
+amod	sunglasses	reflective
+dobj	showing	sunglasses
+punct	smiling	.

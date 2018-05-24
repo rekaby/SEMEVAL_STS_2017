@@ -1,0 +1,9 @@
+det	boys	Some
+nsubj	going	boys
+aux	going	are
+root	ROOT	going
+dobj	going	swimming
+case	lake	in
+det	lake	the
+nmod:in	going	lake
+punct	going	.

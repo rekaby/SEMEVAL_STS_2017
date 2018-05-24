@@ -1,0 +1,14 @@
+nmod:poss	Europa	Today
+case	Today	's
+amod	Europa	great
+compound	Europa	Pax
+nsubj	depend	Europa
+cc	Europa	and
+nmod:poss	prosperity	today
+case	today	's
+amod	prosperity	pan-European
+conj:and	Europa	prosperity
+root	ROOT	depend
+case	this	on
+nmod:on	depend	this
+punct	depend	.

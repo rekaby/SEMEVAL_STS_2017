@@ -1,0 +1,12 @@
+det	woman	A
+amod	woman	sad
+root	ROOT	woman
+acl	woman	putting
+case	dance	on
+det	dance	a
+nmod:on	putting	dance
+case	audience	for
+det	audience	a
+amod	audience	small
+nmod:for	dance	audience
+punct	woman	.

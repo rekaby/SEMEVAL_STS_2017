@@ -1,0 +1,8 @@
+nummod	surfers	Two
+nsubj	perform	surfers
+root	ROOT	perform
+dobj	perform	tricks
+case	waves	in
+det	waves	the
+nmod:in	perform	waves
+punct	perform	.

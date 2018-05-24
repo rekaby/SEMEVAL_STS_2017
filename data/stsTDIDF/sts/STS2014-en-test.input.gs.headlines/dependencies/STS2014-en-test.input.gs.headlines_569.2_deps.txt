@@ -1,0 +1,9 @@
+nummod	soldiers	8
+root	ROOT	soldiers
+acl	soldiers	killed
+case	attack	in
+compound	attack	bomb
+nmod:in	killed	attack
+case	Pakistan	in
+compound	Pakistan	NW
+nmod:in	attack	Pakistan

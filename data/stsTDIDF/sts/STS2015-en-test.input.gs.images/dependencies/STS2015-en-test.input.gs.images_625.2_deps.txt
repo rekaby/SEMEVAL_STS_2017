@@ -1,0 +1,16 @@
+det	boy	A
+amod	boy	young
+nsubj	pulls	boy
+root	ROOT	pulls
+det	boy	another
+dobj	pulls	boy
+xcomp	pulls	wearing
+det	hat	a
+amod	hat	silly
+dobj	wearing	hat
+case	wagon	in
+det	wagon	a
+compound	wagon	radio
+compound	wagon	flyer
+nmod:in	wearing	wagon
+punct	pulls	.

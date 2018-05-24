@@ -1,0 +1,6 @@
+nsubj	sleep	They
+root	ROOT	sleep
+case	couch	on
+det	couch	the
+nmod:on	sleep	couch
+punct	sleep	.

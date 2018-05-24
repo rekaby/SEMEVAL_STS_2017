@@ -1,0 +1,9 @@
+training	men	nsubj
+marathon	for	case
+marathon	the	det
+preparation	in	case
+training	were	cop
+ROOT	race	root
+race	training	nsubj
+preparation	marathon	nmod:for
+training	preparation	nmod:in

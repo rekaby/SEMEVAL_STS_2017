@@ -1,0 +1,12 @@
+det	man	A
+nsubj	taking	man
+aux	taking	is
+root	ROOT	taking
+compound:prt	taking	out
+det	insides	the
+dobj	taking	insides
+case	pepper	of
+det	pepper	a
+amod	pepper	green
+nmod:of	insides	pepper
+punct	taking	.

@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+conj:and	man	women
+acl	man	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+mark	standing	while
+advcl	smiling	standing
+case	kitchen	in
+det	kitchen	a
+nmod:in	standing	kitchen
+punct	man	.

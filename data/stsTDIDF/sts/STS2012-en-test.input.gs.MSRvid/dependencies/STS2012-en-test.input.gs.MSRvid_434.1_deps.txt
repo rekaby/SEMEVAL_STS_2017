@@ -1,0 +1,14 @@
+nsubj	drills	Someone
+root	ROOT	drills
+det	hole	a
+dobj	drills	hole
+case	strip	in
+det	strip	a
+nmod:in	hole	strip
+case	wood	of
+nmod:of	strip	wood
+case	drill	with
+det	drill	a
+compound	drill	power
+nmod:with	drills	drill
+punct	drills	.

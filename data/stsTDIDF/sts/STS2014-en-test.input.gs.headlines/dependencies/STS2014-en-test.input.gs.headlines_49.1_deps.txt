@@ -1,0 +1,11 @@
+compound	Blasio	De
+nsubj	succeeding	Blasio
+acl	Blasio	sworn
+case	mayor	in
+case	mayor	as
+compound	mayor	New
+compound	mayor	York
+nmod:as	sworn	mayor
+punct	Blasio	,
+root	ROOT	succeeding
+dobj	succeeding	Bloomberg

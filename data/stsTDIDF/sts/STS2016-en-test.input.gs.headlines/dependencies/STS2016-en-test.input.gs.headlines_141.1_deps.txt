@@ -1,0 +1,7 @@
+root	ROOT	China
+case	alert	on
+amod	alert	high
+nmod:on	China	alert
+case	typhoon	for
+nmod:for	alert	typhoon
+dep	alert	Kalmaegi

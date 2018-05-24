@@ -1,0 +1,9 @@
+nsubj	killed	3
+root	ROOT	killed
+punct	killed	,
+dep	killed	4
+acl	4	injured
+case	Angeles	in
+compound	Angeles	Los
+nmod:in	injured	Angeles
+dep	killed	shootings

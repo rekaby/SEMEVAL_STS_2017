@@ -1,0 +1,16 @@
+compound Ceremony Paralympic	15.060439779775294
+nsubj is Ceremony	15.060439779775294
+punct is ?-8) root(ROOT-0, Everything	15.060439779775294
+case curtain-raiser about	15.060439779775294
+det curtain-raiser the	15.060439779775294
+amod curtain-raiser big	15.060439779775294
+nmod:about know curtain-raiser	15.060439779775294
+acl:relcl Everything need	14.367292599215348
+compound Ceremony Opening	13.961827491107185
+det Ceremony the	13.451001867341194
+det time What	12.980998238095458
+dep is time	12.863215202439074
+xcomp need know	10.111679889397125
+nsubj need you	8.31992042016907
+mark know to	7.573266085561555
+root ROOT is	5.795137849725137

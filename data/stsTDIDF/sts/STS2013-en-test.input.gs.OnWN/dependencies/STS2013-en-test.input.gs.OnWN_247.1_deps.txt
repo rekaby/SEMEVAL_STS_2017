@@ -1,0 +1,14 @@
+det	process	The
+root	ROOT	process
+mark	cultivating	of
+acl	process	cultivating
+det	land	the
+dobj	cultivating	land
+punct	process	,
+advmod	way	possibly
+case	way	as
+det	way	a
+nmod:as	process	way
+case	life	of
+nmod:of	way	life
+punct	process	.

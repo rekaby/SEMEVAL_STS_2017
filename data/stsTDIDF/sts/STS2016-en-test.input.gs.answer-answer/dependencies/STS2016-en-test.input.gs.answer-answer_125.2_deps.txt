@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+det	lot	a
+nsubj	are	lot
+case	ways	of
+nmod:of	lot	ways
+nsubj	go	that
+aux	go	could
+acl:relcl	ways	go
+advmod	go	poorly
+case	you	for
+nmod:for	go	you
+punct	are	.

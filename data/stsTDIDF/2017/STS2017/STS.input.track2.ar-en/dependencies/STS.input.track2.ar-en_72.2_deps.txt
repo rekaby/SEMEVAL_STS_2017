@@ -1,0 +1,8 @@
+compound	player	Football
+nsubj	runs	player
+root	ROOT	runs
+case	region	to
+det	region	the
+amod	region	latter
+nmod:to	runs	region
+punct	runs	.

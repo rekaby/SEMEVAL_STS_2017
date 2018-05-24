@@ -1,0 +1,6 @@
+nummod	kids	Two
+nsubj	cleaning	kids
+root	ROOT	cleaning
+compound:prt	cleaning	up
+nmod:poss	room	their
+dobj	cleaning	room

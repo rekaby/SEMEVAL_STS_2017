@@ -1,0 +1,10 @@
+root	ROOT	give
+amod	rights	equal
+dobj	give	rights
+dep	give	to
+punct	give	;
+case	women	of
+nmod:of	give	women
+cc	women	and
+conj:and	women	minorities
+punct	give	.

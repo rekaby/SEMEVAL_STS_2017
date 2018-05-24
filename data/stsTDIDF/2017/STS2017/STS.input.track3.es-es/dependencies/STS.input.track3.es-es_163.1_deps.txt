@@ -1,0 +1,12 @@
+det	woman	The
+nsubj	carrying	woman
+aux	carrying	is
+root	ROOT	carrying
+det	child	a
+dobj	carrying	child
+cc	carrying	and
+conj:and	carrying	posing
+case	photo	for
+det	photo	a
+nmod:for	posing	photo
+punct	carrying	.

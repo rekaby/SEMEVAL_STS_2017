@@ -1,0 +1,11 @@
+neg	Sign	No
+nsubj	Says	Sign
+case	Withdrawal	of
+amod	Withdrawal	Russian
+nmod:of	Sign	Withdrawal
+case	Border	From
+compound	Border	Ukraine
+nmod:from	Withdrawal	Border
+punct	Sign	,
+appos	Sign	Official
+root	ROOT	Says

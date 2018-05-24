@@ -1,0 +1,12 @@
+root	ROOT	Africa
+punct	Africa	:
+det	stories	The
+amod	stories	Top
+nummod	stories	5
+nsubj	are	stories
+case	week	of
+det	week	the
+nmod:of	stories	week
+parataxis	Africa	are
+punct	are	...
+punct	are	-

@@ -1,0 +1,6 @@
+det	politicisation	The
+root	ROOT	politicisation
+case	markets	of
+det	markets	the
+compound	markets	securities
+nmod:of	politicisation	markets

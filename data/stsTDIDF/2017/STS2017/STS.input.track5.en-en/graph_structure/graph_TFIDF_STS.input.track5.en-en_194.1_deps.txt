@@ -1,0 +1,5 @@
+ground	paintbrush	nmod:with
+paintbrush	with	case
+standing	ground	nmod:on
+standing	man	nsubj
+paintbrush	a	det

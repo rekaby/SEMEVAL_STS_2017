@@ -1,0 +1,8 @@
+pool	to	case
+recess	is	cop
+recess	it	nsubj
+goes	recess	advcl:in
+recess	in	case
+goes	boy	nsubj
+goes	pool	nmod:to
+recess	when	advmod

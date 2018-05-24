@@ -1,0 +1,12 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	carrying
+det	child	a
+dobj	carrying	child
+acl	child	smiling
+punct	smiling	,
+advcl	smiling	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+punct	woman	.

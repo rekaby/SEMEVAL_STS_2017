@@ -1,0 +1,10 @@
+det	man	A
+nsubj	rides	man
+root	ROOT	rides
+det	toy	a
+compound	toy	water
+dobj	rides	toy
+case	water	in
+det	water	the
+nmod:in	rides	water
+punct	rides	.

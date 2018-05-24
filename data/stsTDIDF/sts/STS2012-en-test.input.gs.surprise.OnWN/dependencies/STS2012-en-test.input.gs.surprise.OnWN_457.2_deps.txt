@@ -1,0 +1,5 @@
+root	ROOT	move
+dep	move	to
+cc	to	and
+conj:and	to	fro
+punct	move	.

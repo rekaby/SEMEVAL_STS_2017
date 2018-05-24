@@ -1,0 +1,16 @@
+det	objects	The
+root	ROOT	objects
+nsubj	refering	you
+aux	refering	are
+acl:relcl	objects	refering
+mark	objects	to
+cop	objects	are
+advmod	objects	actually
+nummod	objects	two
+amod	objects	different
+xcomp	refering	objects
+punct	objects	:
+dep	objects	asteroids
+cc	asteroids	and
+conj:and	asteroids	comets
+punct	objects	.

@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	pencilling	woman
+aux	pencilling	is
+root	ROOT	pencilling
+case	shadow	on
+compound	shadow	eye
+nmod:on	pencilling	shadow
+punct	pencilling	.

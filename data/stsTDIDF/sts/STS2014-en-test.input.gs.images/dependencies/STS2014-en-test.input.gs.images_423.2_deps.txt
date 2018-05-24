@@ -1,0 +1,11 @@
+nummod	people	Two
+root	ROOT	people
+case	canoe	in
+det	canoe	a
+amod	canoe	red
+nmod:in	people	canoe
+case	lake	on
+det	lake	a
+amod	lake	clear
+nmod:on	people	lake
+punct	people	.

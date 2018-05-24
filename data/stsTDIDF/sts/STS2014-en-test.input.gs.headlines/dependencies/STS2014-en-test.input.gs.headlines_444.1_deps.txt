@@ -1,0 +1,7 @@
+compound	envoy	Syria
+nsubj	calls	envoy
+root	ROOT	calls
+case	Government	for
+compound	Government	National
+compound	Government	Unity
+nmod:for	calls	Government

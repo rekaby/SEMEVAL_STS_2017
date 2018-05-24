@@ -1,0 +1,7 @@
+det	person	A
+nsubj	walking	person
+aux	walking	is
+root	ROOT	walking
+nmod:poss	cat	their
+dobj	walking	cat
+punct	walking	.

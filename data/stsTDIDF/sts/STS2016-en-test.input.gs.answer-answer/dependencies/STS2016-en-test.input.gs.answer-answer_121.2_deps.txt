@@ -1,0 +1,13 @@
+det	answer	This
+nsubjpass	based	answer
+auxpass	based	is
+root	ROOT	based
+case	experience	on
+nmod:on	based	experience
+nsubjpass	researched	I
+aux	researched	did
+neg	researched	not
+acl:relcl	experience	researched
+case	references	for
+nmod:for	researched	references
+punct	based	.

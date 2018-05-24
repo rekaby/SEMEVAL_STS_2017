@@ -1,0 +1,8 @@
+det	consequence	a
+root	ROOT	consequence
+punct	consequence	,
+conj:or	consequence	outcome
+cc	consequence	or
+conj:or	consequence	result
+case	something	of
+nmod:of	result	something

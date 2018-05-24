@@ -1,0 +1,8 @@
+det	group	The
+nsubj	Chippendales	group
+case	men	of
+nmod:of	group	men
+cop	Chippendales	are
+case	Chippendales	from
+root	ROOT	Chippendales
+punct	Chippendales	.

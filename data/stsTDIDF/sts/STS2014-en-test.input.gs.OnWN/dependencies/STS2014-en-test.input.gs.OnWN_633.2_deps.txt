@@ -1,0 +1,10 @@
+det	aspect	a
+amod	aspect	negative
+root	ROOT	aspect
+case	something	of
+nmod:of	aspect	something
+nsubj	positive	that
+cop	positive	is
+advmod	positive	generally
+acl:relcl	something	positive
+punct	aspect	.

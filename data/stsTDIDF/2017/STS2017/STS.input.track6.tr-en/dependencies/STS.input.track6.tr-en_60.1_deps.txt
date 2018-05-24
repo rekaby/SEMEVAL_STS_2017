@@ -1,0 +1,11 @@
+det	man	The
+nsubj	waiting	man
+aux	waiting	is
+root	ROOT	waiting
+case	pizza	for
+nmod:poss	pizza	his
+nmod:for	waiting	pizza
+mark	delivered	to
+auxpass	delivered	be
+xcomp	waiting	delivered
+punct	waiting	.

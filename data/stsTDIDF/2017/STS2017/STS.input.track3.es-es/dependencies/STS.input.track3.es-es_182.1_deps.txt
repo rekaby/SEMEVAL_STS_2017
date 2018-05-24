@@ -1,0 +1,9 @@
+amod	people	Multiple
+nsubj	do	people
+root	ROOT	do
+det	dance	a
+dobj	do	dance
+acl	dance	synchronized
+case	jumps	with
+nmod:with	synchronized	jumps
+punct	do	.

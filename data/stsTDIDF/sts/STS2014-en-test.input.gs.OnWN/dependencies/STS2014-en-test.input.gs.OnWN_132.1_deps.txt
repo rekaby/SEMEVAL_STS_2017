@@ -1,0 +1,10 @@
+root	ROOT	move
+conj:and	move	move
+case	position	into
+cc	into	and
+conj:and	into	stay
+case	position	in
+det	position	a
+amod	position	particular
+nmod:in	move	position
+nmod:stay	move	position

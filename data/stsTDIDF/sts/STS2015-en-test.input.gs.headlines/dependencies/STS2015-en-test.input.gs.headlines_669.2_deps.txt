@@ -1,0 +1,11 @@
+nmod:poss	rate	Labour
+case	Labour	's
+amod	rate	50p
+compound	rate	tax
+root	ROOT	rate
+punct	rate	:
+dobj	need	what
+nsubj	need	you
+acl:relcl	rate	need
+mark	know	to
+xcomp	need	know

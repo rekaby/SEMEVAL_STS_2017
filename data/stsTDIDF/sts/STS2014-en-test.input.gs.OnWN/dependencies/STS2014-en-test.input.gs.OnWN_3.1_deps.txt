@@ -1,0 +1,9 @@
+root	ROOT	falcon
+punct	falcon	:
+dep	falcon	abandon
+amod	game	intended
+dobj	abandon	game
+cc	abandon	and
+conj:and	abandon	pursue
+amod	prey	lesser
+dobj	pursue	prey

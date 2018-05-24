@@ -1,0 +1,12 @@
+root	ROOT	Yes
+punct	Yes	,
+cc	Yes	but
+nsubj	stay	it
+aux	stay	does
+neg	stay	not
+conj:but	Yes	stay
+case	constellation	in
+det	constellation	the
+amod	constellation	same
+nmod:in	stay	constellation
+punct	Yes	.

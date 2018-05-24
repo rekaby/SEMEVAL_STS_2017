@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	opens	dog
+root	ROOT	opens
+det	can	a
+dobj	opens	can
+case	food	of
+nmod:of	can	food
+punct	opens	.

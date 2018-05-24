@@ -1,0 +1,9 @@
+det	girl	a
+amod	girl	little
+nsubj	laughing	girl
+aux	laughing	is
+root	ROOT	laughing
+case	camera	at
+det	camera	the
+nmod:at	laughing	camera
+punct	laughing	.

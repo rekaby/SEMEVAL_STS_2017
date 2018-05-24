@@ -1,0 +1,11 @@
+det	lady	A
+amod	lady	blond
+amod	lady	haired
+root	ROOT	lady
+case	poses	in
+amod	poses	white
+nmod:in	lady	poses
+case	camera	for
+det	camera	the
+nmod:for	poses	camera
+punct	lady	.

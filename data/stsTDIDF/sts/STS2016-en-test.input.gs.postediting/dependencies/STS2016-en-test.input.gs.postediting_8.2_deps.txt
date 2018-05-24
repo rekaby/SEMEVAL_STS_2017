@@ -1,0 +1,11 @@
+nsubj	true	It
+cop	true	is
+ccomp	look	true
+punct	look	,
+nsubj	look	I
+root	ROOT	look
+advmod	look	forward
+case	release	to
+nmod:poss	release	their
+nmod:to	look	release
+punct	look	.

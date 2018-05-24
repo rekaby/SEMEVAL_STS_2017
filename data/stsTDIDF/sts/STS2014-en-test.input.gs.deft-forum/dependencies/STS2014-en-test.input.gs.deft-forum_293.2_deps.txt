@@ -1,0 +1,12 @@
+root	ROOT	Play
+case	Fire	With
+nmod:with	Play	Fire
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Fire	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Play	.

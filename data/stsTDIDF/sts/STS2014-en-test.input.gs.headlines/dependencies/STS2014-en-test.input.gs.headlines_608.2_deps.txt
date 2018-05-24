@@ -1,0 +1,11 @@
+compound	aircraft	US
+amod	aircraft	military
+nsubj	shot	aircraft
+root	ROOT	shot
+case	mission	at
+case	mission	during
+compound	mission	evacuation
+nmod:during	shot	mission
+case	Sudan	in
+compound	Sudan	South
+nmod:in	shot	Sudan

@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	carrying	dog
+aux	carrying	is
+root	ROOT	carrying
+det	man	a
+dobj	carrying	man
+case	canoe	in
+det	canoe	a
+nmod:in	carrying	canoe
+punct	carrying	.

@@ -1,0 +1,14 @@
+det	parade	A
+root	ROOT	parade
+case	people	of
+nmod:of	parade	people
+acl	people	wearing
+amod	march	red
+dobj	wearing	march
+case	building	past
+det	building	a
+nmod:past	wearing	building
+case	instruments	while
+amod	instruments	playing
+nmod:while	wearing	instruments
+punct	parade	.

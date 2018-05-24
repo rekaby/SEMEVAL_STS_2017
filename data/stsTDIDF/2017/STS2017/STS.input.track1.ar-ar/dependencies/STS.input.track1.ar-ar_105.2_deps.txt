@@ -1,0 +1,7 @@
+det	person	A
+nsubj	displays	person
+root	ROOT	displays
+case	street	in
+det	street	the
+nmod:in	displays	street
+punct	displays	.

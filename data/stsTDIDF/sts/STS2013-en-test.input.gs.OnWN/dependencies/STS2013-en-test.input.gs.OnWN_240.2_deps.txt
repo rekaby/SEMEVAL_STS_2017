@@ -1,0 +1,9 @@
+root	ROOT	process
+cc	process	or
+conj:or	process	result
+mark	becoming	of
+acl	process	becoming
+xcomp	becoming	less
+cc	less	or
+conj:or	less	smaller
+punct	process	.

@@ -1,0 +1,6 @@
+amod	turnout	French
+compound	turnout	election
+nmod:npmod	higher	turnout
+root	ROOT	higher
+mark	expected	than
+advcl	higher	expected

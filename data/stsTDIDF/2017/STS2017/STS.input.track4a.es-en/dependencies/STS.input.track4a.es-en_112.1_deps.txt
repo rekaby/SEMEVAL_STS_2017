@@ -1,0 +1,8 @@
+det	ladies	The
+nsubj	trotting	ladies
+aux	trotting	are
+root	ROOT	trotting
+case	street	down
+det	street	the
+nmod:down	trotting	street
+punct	trotting	.

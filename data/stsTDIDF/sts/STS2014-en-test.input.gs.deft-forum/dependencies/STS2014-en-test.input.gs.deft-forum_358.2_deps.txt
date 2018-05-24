@@ -1,0 +1,14 @@
+root	ROOT	And
+mark	decide	until
+nsubj	decide	they
+dep	And	decide
+mark	constitutional	that
+punct	constitutional	,
+punct	constitutional	``
+det	statute	the
+nsubj	constitutional	statute
+cop	constitutional	is
+amod	constitutional	presumed
+ccomp	decide	constitutional
+punct	And	.
+punct	And	''

@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	brown
+nsubj	sits	dog
+root	ROOT	sits
+case	beach	on
+det	beach	the
+nmod:on	sits	beach
+punct	sits	.

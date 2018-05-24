@@ -1,0 +1,7 @@
+root	ROOT	work
+case	tinker	as
+det	tinker	a
+nmod:as	work	tinker
+cc	tinker	or
+conj:or	tinker	tinkerer
+punct	work	.

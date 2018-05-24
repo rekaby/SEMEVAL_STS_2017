@@ -1,0 +1,7 @@
+det	gorilla	A
+nsubj	playing	gorilla
+aux	playing	is
+root	ROOT	playing
+det	drums	the
+dobj	playing	drums
+punct	playing	.

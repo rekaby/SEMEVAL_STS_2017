@@ -1,0 +1,5 @@
+playing	people	nsubj
+people	glasses	nmod:with
+sitting	floor	nmod:on
+game	sitting	acl
+glasses	with	case

@@ -1,0 +1,7 @@
+nsubj	disperse	Police
+root	ROOT	disperse
+amod	plant	east
+compound	plant	China
+compound	plant	chemical
+compound	protesters	plant
+dobj	disperse	protesters

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	riding	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	pink
+dobj	wearing	shirt
+aux	riding	is
+root	ROOT	riding
+det	subway	the
+dobj	riding	subway
+punct	riding	.

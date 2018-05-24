@@ -1,0 +1,8 @@
+compound	infant	Vehicles
+amod	infant	driving
+root	ROOT	infant
+case	building	of
+det	building	an
+amod	building	ornate
+nmod:of	infant	building
+punct	infant	.

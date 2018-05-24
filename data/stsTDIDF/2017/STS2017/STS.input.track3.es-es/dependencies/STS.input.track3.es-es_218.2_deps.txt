@@ -1,0 +1,15 @@
+det	man	A
+nsubj	playing	man
+case	shirt	in
+det	shirt	an
+amod	shirt	orange
+nmod:in	man	shirt
+cc	shirt	and
+amod	jeans	blue
+conj:and	shirt	jeans
+aux	playing	is
+root	ROOT	playing
+case	hula	with
+det	hula	a
+amod	hula	hula
+nmod:with	playing	hula

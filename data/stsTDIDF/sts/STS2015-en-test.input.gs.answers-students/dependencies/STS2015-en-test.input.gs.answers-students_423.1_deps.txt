@@ -1,0 +1,12 @@
+mark	separated	because
+det	terminal	the
+amod	terminal	positive
+nsubjpass	separated	terminal
+auxpass	separated	is
+root	ROOT	separated
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap
+case	terminal	from
+nmod:from	gap	terminal
+dobj	separated	3

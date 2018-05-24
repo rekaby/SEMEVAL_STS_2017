@@ -1,0 +1,6 @@
+nsubj	Move	Shares
+root	ROOT	Move
+advmod	Move	Higher
+case	Street	on
+compound	Street	Wall
+nmod:on	Move	Street

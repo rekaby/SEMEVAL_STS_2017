@@ -1,0 +1,10 @@
+nsubj	say	I
+aux	say	'd
+root	ROOT	say
+nsubj	depends	it
+ccomp	say	depends
+det	conditions	what
+dobj	have	conditions
+nsubj	have	you
+ccomp	depends	have
+punct	say	.

@@ -1,0 +1,8 @@
+amod	deferments	Appropriate
+root	ROOT	deferments
+case	time	for
+det	time	the
+nmod:for	deferments	time
+punct	deferments	,
+dep	deferments	eh
+punct	deferments	?

@@ -1,0 +1,6 @@
+amod	mucus	clear
+root	ROOT	mucus
+case	throat	from
+nmod:poss	throat	one
+case	one	's
+nmod:from	mucus	throat

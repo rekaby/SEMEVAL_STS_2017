@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	large
+compound	dog	tan
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	item	with
+det	item	a
+amod	item	green
+nmod:with	running	item
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	item	mouth

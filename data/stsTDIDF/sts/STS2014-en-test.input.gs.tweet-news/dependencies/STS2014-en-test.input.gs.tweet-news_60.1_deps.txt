@@ -1,0 +1,13 @@
+root	ROOT	Producer
+case	videos	of
+amod	videos	popular
+amod	videos	gun-related
+nmod:of	Producer	videos
+acl	videos	shot
+punct	Producer	.-7) det(death-3, Every
+compound	death	gun
+nsubj	tragedy	death
+cop	tragedy	is
+det	tragedy	a
+root	ROOT	tragedy
+punct	tragedy	.

@@ -1,0 +1,10 @@
+det	variety	a
+amod	variety	special
+root	ROOT	variety
+case	animals	of
+amod	animals	domesticated
+nmod:of	variety	animals
+case	species	within
+det	species	a
+nmod:within	variety	species
+punct	variety	.

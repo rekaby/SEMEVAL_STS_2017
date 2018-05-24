@@ -1,0 +1,9 @@
+compound	Korea	North
+nsubj	says	Korea
+root	ROOT	says
+amod	tourist	detained
+amod	tourist	American
+nsubj	says	tourist
+mark	face	to
+acl	tourist	face
+dobj	face	trial

@@ -1,0 +1,6 @@
+root	ROOT	Grandparents
+punct	Grandparents	:
+det	techies	the
+amod	techies	new
+dep	Grandparents	techies
+punct	Grandparents	?

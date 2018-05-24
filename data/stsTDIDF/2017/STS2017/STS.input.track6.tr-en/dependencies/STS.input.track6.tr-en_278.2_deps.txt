@@ -1,0 +1,13 @@
+det	man	A
+nsubjpass	annoyed	man
+case	business	in
+det	business	a
+nmod:in	man	business
+auxpass	annoyed	is
+root	ROOT	annoyed
+advmod	fall	when
+nmod:poss	glasses	his
+nsubj	fall	glasses
+advcl	annoyed	fall
+advmod	fall	down
+punct	annoyed	.

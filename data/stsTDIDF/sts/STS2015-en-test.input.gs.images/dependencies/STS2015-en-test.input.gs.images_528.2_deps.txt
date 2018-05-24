@@ -1,0 +1,10 @@
+nsubj	play	Children
+root	ROOT	play
+case	pool	in
+det	pool	a
+nmod:in	play	pool
+mark	look	while
+nsubj	look	adults
+advcl	play	look
+compound:prt	look	on
+punct	play	.

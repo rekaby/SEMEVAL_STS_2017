@@ -1,0 +1,7 @@
+root	ROOT	Woman
+acl	Woman	using
+det	machine	the
+dobj	using	machine
+case	sewing	for
+nmod:for	using	sewing
+punct	Woman	.

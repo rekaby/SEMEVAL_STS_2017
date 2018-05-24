@@ -1,0 +1,11 @@
+root	ROOT	secure
+cc	secure	and
+conj:and	secure	protect
+det	lifeform	a
+dep	secure	lifeform
+punct	secure	,
+dep	secure	maintain
+case	injury	from
+nmod:from	maintain	injury
+cc	injury	or
+conj:or	injury	harm

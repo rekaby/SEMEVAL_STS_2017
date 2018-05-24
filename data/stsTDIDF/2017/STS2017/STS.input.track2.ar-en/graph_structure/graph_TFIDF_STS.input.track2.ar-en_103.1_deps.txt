@@ -1,0 +1,10 @@
+jumps	going	advcl
+jumps	biker	nsubj
+jumps	fence	nmod:off_of
+fence	off	case
+going	downhill	advmod
+biker	mountain	compound
+jumps	.	punct
+fence	a	det
+ROOT	jumps	root
+biker	A	det

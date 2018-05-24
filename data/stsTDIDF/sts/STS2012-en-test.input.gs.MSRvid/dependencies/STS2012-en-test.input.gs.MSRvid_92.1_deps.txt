@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	eggs	woman
+cop	eggs	is
+amod	eggs	cooking
+root	ROOT	eggs
+punct	eggs	.

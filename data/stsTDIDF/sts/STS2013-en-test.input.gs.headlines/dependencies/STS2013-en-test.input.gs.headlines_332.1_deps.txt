@@ -1,0 +1,7 @@
+amod	regime	Syrian
+nsubj	denies	regime
+root	ROOT	denies
+dobj	denies	role
+case	massacre	in
+compound	massacre	Houla
+nmod:in	role	massacre

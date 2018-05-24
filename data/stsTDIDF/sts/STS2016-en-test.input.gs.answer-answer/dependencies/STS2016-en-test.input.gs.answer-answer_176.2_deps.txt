@@ -1,0 +1,7 @@
+expl	's	There
+root	ROOT	's
+neg	rule	no
+nsubj	's	rule
+case	it	against
+nmod:against	rule	it
+punct	's	.

@@ -1,0 +1,14 @@
+det	papers	Both
+nsubjpass	published	papers
+aux	published	are
+auxpass	published	being
+root	ROOT	published
+nmod:tmod	published	today
+case	Journal	in
+det	Journal	the
+compound	Journal	New
+compound	Journal	England
+nmod:in	published	Journal
+case	Medicine	of
+nmod:of	Journal	Medicine
+punct	published	.

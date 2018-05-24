@@ -1,0 +1,8 @@
+nsubj	kills	Son
+case	Warren	of
+amod	Warren	popular
+compound	Warren	US
+compound	Warren	evangelist
+nmod:of	Son	Warren
+root	ROOT	kills
+dobj	kills	himself

@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	beating	woman
+aux	beating	is
+root	ROOT	beating
+nummod	eggs	two
+dobj	beating	eggs
+case	bowl	in
+det	bowl	a
+nmod:in	beating	bowl
+advcl	beating	using
+det	whisk	a
+compound	whisk	wire
+dobj	using	whisk
+punct	beating	.

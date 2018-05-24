@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	plate	a
+compound	plate	paper
+dobj	cutting	plate
+punct	cutting	.

@@ -1,0 +1,6 @@
+root	ROOT	stamp
+cc	stamp	or
+conj:or	stamp	emboss
+case	block	with
+det	block	a
+nmod:with	stamp	block

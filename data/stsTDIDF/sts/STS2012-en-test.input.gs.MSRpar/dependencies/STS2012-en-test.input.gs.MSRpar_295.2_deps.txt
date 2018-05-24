@@ -1,0 +1,16 @@
+det	investigation	That
+amod	investigation	federal
+nsubj	separate	investigation
+cop	separate	is
+root	ROOT	separate
+case	inquiry	from
+det	inquiry	an
+amod	inquiry	informal
+nmod:from	separate	inquiry
+case	Commission	by
+det	Commission	the
+compound	Commission	Securities
+cc	Securities	and
+conj:and	Securities	Exchange
+nmod:by	inquiry	Commission
+punct	separate	.

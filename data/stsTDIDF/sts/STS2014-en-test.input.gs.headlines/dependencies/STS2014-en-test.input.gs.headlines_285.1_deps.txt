@@ -1,0 +1,12 @@
+nmod:poss	Bezos	Amazon
+case	Amazon	's
+root	ROOT	Bezos
+mark	buy	to
+acl	Bezos	buy
+det	Post	the
+compound	Post	Washington
+dobj	buy	Post
+case	$	for
+nmod:for	buy	$
+nummod	$	250
+nummod	$	million

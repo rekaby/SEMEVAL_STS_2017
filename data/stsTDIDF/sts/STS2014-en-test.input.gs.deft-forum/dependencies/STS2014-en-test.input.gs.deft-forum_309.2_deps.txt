@@ -1,0 +1,11 @@
+dep	think	@sozobe
+punct	think	,
+nsubj	think	I
+root	ROOT	think
+xcomp	think	Santorum
+case	Santorum	's
+advmod	likely	more
+amod	Santorum	likely
+case	Gingrich	than
+nmod:than	likely	Gingrich
+punct	think	.

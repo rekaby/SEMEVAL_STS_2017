@@ -1,0 +1,9 @@
+getting	climbs	advcl
+limb	tree	compound
+climbs	limb	nmod:on
+limb	on	case
+getting	dirty	xcomp
+getting	boy	nsubj
+limb	the	det
+climbs	while	mark
+climbs	he	nsubj

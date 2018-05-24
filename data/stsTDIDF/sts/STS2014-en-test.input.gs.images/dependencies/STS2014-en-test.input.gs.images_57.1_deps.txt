@@ -1,0 +1,12 @@
+nummod	horses	Two
+root	ROOT	horses
+acl	horses	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+case	trees	with
+nmod:with	field	trees
+case	background	in
+det	background	the
+nmod:in	standing	background
+punct	horses	.

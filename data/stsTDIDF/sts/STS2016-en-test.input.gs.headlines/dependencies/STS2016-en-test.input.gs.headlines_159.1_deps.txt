@@ -1,0 +1,10 @@
+amod	arrest	Israeli
+compound	arrest	forces
+nsubj	clash	arrest
+nummod	Palestinians	21
+nmod:npmod	overnight	Palestinians
+advmod	clash	overnight
+punct	clash	,
+root	ROOT	clash
+case	locals	with
+nmod:with	clash	locals

@@ -1,0 +1,5 @@
+neg	faint	not
+root	ROOT	faint
+cc	faint	or
+conj:or	faint	feeble
+punct	faint	;

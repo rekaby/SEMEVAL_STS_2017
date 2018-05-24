@@ -1,0 +1,4 @@
+bicycle	single	amod
+riding	bicycle	dobj
+man	riding	acl
+bicycle	a	det

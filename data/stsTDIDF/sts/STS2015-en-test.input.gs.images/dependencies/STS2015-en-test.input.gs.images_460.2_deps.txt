@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	girls	of
+nmod:of	group	girls
+case	beach	on
+det	beach	a
+nmod:on	group	beach
+punct	group	.

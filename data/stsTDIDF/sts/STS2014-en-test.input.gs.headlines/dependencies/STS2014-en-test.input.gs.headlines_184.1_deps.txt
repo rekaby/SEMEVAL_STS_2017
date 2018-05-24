@@ -1,0 +1,11 @@
+punct	talks	`
+nsubj	talks	Friends
+case	Syria	of
+nmod:of	Friends	Syria
+punct	talks	'
+case	talks	in
+compound	talks	Doha
+root	ROOT	talks
+mark	arming	on
+acl	talks	arming
+dobj	arming	rebels

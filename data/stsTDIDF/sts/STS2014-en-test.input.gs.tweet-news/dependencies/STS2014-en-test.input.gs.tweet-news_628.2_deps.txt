@@ -1,0 +1,6 @@
+nsubj	balks	GOP
+root	ROOT	balks
+case	proposals	at
+compound	proposals	gun
+compound	proposals	control
+nmod:at	balks	proposals

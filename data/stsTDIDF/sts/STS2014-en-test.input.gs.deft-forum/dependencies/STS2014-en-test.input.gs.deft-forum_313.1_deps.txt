@@ -1,0 +1,12 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	better	he
+aux	better	'd
+cop	better	be
+ccomp	think	better
+case	interests	for
+amod	interests	American
+compound	interests	business
+nmod:for	better	interests
+advmod	better	overall
+punct	think	.

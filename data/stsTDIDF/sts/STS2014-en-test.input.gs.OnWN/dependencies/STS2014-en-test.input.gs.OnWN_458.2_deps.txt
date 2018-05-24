@@ -1,0 +1,6 @@
+root	ROOT	originate
+cc	originate	or
+conj:or	originate	come
+case	being	into
+nmod:into	come	being
+punct	originate	.

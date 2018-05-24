@@ -1,0 +1,14 @@
+advmod	coddle	Why
+root	ROOT	coddle
+det	Palestinians	those
+amod	Palestinians	twisty
+dobj	coddle	Palestinians
+mark	giving	by
+advcl	coddle	giving
+iobj	giving	them
+det	state	a
+dobj	giving	state
+case	own	of
+nmod:poss	own	their
+nmod:of	state	own
+punct	coddle	?

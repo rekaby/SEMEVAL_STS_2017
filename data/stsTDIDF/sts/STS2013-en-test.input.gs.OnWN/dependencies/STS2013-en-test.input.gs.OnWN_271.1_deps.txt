@@ -1,0 +1,6 @@
+root	ROOT	incite
+dobj	incite	action
+punct	incite	,
+dep	incite	cause
+det	event	an
+dobj	cause	event

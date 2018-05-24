@@ -1,0 +1,7 @@
+nummod	activists	2
+amod	activists	pro-Palestinian
+root	ROOT	activists
+acl	activists	arrested
+case	Airport	at
+compound	Airport	B-G
+nmod:at	arrested	Airport

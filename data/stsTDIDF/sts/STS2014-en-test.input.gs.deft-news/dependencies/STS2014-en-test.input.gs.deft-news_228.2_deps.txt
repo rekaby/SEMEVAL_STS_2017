@@ -1,0 +1,9 @@
+det	plans	the
+amod	plans	u.s.
+nsubj	angered	plans
+aux	angered	have
+root	ROOT	angered
+det	government	the
+amod	government	russian
+dobj	angered	government
+punct	angered	.

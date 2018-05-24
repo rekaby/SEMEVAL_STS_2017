@@ -1,0 +1,6 @@
+nsubj	kills	Bomb
+root	ROOT	kills
+nummod	Pakistan	three
+advmod	northwest	in
+amod	Pakistan	northwest
+dobj	kills	Pakistan

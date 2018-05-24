@@ -1,0 +1,9 @@
+nsubj	posts	GE
+root	ROOT	posts
+compound	%	9
+amod	drop	%
+compound	drop	profit
+dobj	posts	drop
+case	quarter	for
+amod	quarter	third
+nmod:for	drop	quarter

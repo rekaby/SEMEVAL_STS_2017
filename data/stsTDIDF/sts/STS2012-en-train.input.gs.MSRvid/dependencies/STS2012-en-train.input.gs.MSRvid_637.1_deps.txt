@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	playing	cat
+cc	cat	and
+det	ferret	a
+conj:and	cat	ferret
+aux	playing	are
+root	ROOT	playing
+punct	playing	.

@@ -1,0 +1,5 @@
+nsubj	canceled	Obama
+root	ROOT	canceled
+dobj	canceled	meeting
+case	Putin	with
+nmod:with	meeting	Putin

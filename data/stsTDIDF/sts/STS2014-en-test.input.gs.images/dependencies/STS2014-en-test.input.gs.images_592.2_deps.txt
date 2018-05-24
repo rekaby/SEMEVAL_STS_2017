@@ -1,0 +1,12 @@
+det	women	A
+root	ROOT	women
+cc	women	and
+det	girl	a
+amod	girl	young
+conj:and	women	girl
+acl	girl	walking
+dobj	walking	pushchairs
+case	sidewalk	along
+det	sidewalk	the
+nmod:along	walking	sidewalk
+punct	women	.

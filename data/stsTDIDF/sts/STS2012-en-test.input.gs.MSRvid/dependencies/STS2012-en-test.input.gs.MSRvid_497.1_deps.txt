@@ -1,0 +1,9 @@
+det	man	A
+nsubj	dieing	man
+aux	dieing	is
+root	ROOT	dieing
+case	room	in
+det	room	an
+compound	room	operating
+nmod:in	dieing	room
+punct	dieing	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	kneading	woman
+aux	kneading	is
+root	ROOT	kneading
+compound	dough	tortilla
+dobj	kneading	dough
+punct	kneading	.

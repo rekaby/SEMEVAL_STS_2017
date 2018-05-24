@@ -1,0 +1,8 @@
+root	ROOT	Thank
+dobj	Thank	you
+punct	Thank	,
+compound	chief	Mister
+det	chief	the
+compound	chief	Police
+dep	Thank	chief
+punct	Thank	.

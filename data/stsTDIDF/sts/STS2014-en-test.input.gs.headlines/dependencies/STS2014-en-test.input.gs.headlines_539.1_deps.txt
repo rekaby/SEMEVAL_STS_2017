@@ -1,0 +1,8 @@
+compound	Hill	US
+compound	Hill	Capitol
+nsubj	fired	Hill
+case	lockdown	on
+nmod:on	Hill	lockdown
+case	shots	after
+nmod:after	Hill	shots
+root	ROOT	fired

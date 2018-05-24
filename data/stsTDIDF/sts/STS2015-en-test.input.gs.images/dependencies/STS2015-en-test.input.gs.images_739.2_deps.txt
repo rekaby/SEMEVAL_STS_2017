@@ -1,0 +1,13 @@
+det	dog	The
+compound	dog	tan
+nsubj	carrying	dog
+aux	carrying	is
+root	ROOT	carrying
+det	toy	a
+amod	toy	green
+compound	toy	squeak
+dobj	carrying	toy
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	carrying	mouth
+punct	carrying	.

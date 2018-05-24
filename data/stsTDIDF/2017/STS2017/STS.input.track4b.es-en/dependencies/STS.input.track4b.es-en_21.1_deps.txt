@@ -1,0 +1,12 @@
+cc	comes	But
+det	praise	the
+nsubj	comes	praise
+root	ROOT	comes
+case	price	with
+det	price	a
+nmod:with	say	price
+punct	say	,
+compound	members	service
+nsubj	say	members
+ccomp	comes	say
+punct	comes	.

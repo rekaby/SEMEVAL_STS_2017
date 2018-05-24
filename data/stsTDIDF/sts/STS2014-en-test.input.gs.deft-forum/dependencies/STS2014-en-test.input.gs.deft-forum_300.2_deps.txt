@@ -1,0 +1,12 @@
+root	ROOT	Refresh
+nmod:poss	memory	your
+dobj	Refresh	memory
+punct	Refresh	:
+nsubj	operated	Who
+advmod	operated	supposedly
+dep	Refresh	operated
+det	chambers	the
+amod	chambers	homicidal
+compound	chambers	gas
+dobj	operated	chambers
+punct	operated	?

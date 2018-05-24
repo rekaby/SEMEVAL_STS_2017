@@ -1,0 +1,13 @@
+compound	news	Business
+root	ROOT	news
+cc	news	and
+conj:and	news	markets
+punct	news	:
+mark	happened	as
+nsubj	happened	it
+dep	news	happened
+punct	happened	,
+nmod:tmod	happened	April
+nummod	April	17
+punct	April	,
+nummod	April	2013

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	frying	man
+aux	frying	is
+root	ROOT	frying
+det	tortilla	a
+dobj	frying	tortilla
+punct	frying	.

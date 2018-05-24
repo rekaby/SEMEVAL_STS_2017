@@ -1,0 +1,15 @@
+det	people	The
+nsubj	get	people
+root	ROOT	get
+xcomp	get	wet
+case	rain	in
+det	rain	the
+nmod:in	wet	rain
+punct	get	,
+cc	get	and
+nsubj	think	they
+conj:and	get	think
+nsubj	funny	it
+cop	funny	is
+ccomp	think	funny
+punct	get	.

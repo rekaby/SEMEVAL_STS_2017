@@ -1,0 +1,15 @@
+det	company	The
+nsubj	claimed	company
+root	ROOT	claimed
+nsubj	sale	it
+cop	sale	is
+det	sale	the
+amod	sale	largest
+ccomp	claimed	sale
+case	Xserves	of
+nmod:of	sale	Xserves
+case	retailer	by
+det	retailer	an
+compound	retailer	Apple
+nmod:by	sale	retailer
+punct	claimed	.

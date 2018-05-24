@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+nsubj	sleeping	people
+dep	are	sleeping
+case	park	at
+det	park	the
+nmod:at	sleeping	park
+punct	are	.

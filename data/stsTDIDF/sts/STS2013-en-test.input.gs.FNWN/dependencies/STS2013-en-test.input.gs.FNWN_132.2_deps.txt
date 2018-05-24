@@ -1,0 +1,11 @@
+det	relation	a
+root	ROOT	relation
+amod	relation	such
+mark	dependent	that
+nummod	thing	one
+nsubj	dependent	thing
+cop	dependent	is
+ccomp	such	dependent
+case	another	on
+nmod:on	dependent	another
+punct	relation	;

@@ -1,0 +1,7 @@
+smiling	.	punct
+smiling	boy	nsubj
+dog	being	cop
+smiling	him	nmod:at
+dog	for	mark
+smiling	dog	advcl
+ROOT	smiling	root

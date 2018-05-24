@@ -1,0 +1,6 @@
+compound	opposition	Syria
+nsubj	threatens	opposition
+root	ROOT	threatens
+mark	quit	to
+xcomp	threatens	quit
+dobj	quit	talks

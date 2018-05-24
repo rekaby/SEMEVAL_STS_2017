@@ -1,0 +1,5 @@
+amod	jolts	4.3-magnitude
+compound	jolts	earthquake
+root	ROOT	jolts
+compound	China	SW
+dobj	jolts	China

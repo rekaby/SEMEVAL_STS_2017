@@ -1,0 +1,17 @@
+advmod	unwilling	Moreover
+punct	unwilling	,
+det	exporters	the
+amod	exporters	main
+compound	exporters	oil
+nsubj	unwilling	exporters
+cop	unwilling	are
+root	ROOT	unwilling
+mark	subordinate	to
+xcomp	unwilling	subordinate
+nmod:poss	policies	their
+compound	policies	investment
+dobj	subordinate	policies
+case	requirements	to
+compound	requirements	market
+nmod:to	subordinate	requirements
+punct	unwilling	.

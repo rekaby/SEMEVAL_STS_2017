@@ -1,0 +1,9 @@
+det	person	A
+nsubj	whisking	person
+aux	whisking	is
+root	ROOT	whisking
+dobj	whisking	eggs
+case	bowl	in
+det	bowl	a
+nmod:in	whisking	bowl
+punct	whisking	.

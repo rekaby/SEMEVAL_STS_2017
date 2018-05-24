@@ -1,0 +1,4 @@
+root	ROOT	covering
+case	bed	for
+det	bed	a
+nmod:for	covering	bed

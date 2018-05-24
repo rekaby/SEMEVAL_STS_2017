@@ -1,0 +1,7 @@
+make	nurses	nsubj
+make	birth	nmod:after
+baby	of	case
+birth	After	case
+birth	the	det
+nurses	the	det
+birth	baby	nmod:of

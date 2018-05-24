@@ -1,0 +1,12 @@
+net	large	amod
+try	fishermen	nsubj
+day	cloudy	amod
+try	untangle	xcomp
+untangle	to	mark
+untangle	net	dobj
+net	their	nmod:poss
+fishermen	Two	nummod
+untangle	day	nmod:on
+side	road	nmod:of
+net	fishing	compound
+untangle	side	nmod:on

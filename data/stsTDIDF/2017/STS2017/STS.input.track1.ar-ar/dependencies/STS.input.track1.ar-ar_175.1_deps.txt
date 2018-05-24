@@ -1,0 +1,7 @@
+det	group	A
+nsubj	go	group
+case	people	of
+nmod:of	group	people
+root	ROOT	go
+dobj	go	jogging
+punct	go	.

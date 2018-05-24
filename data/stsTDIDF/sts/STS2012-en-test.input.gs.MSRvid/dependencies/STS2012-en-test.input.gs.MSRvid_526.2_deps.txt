@@ -1,0 +1,8 @@
+det	man	A
+nsubj	pops	man
+root	ROOT	pops
+advmod	pops	wheelies
+case	motorcycle	on
+det	motorcycle	a
+nmod:on	pops	motorcycle
+punct	pops	.

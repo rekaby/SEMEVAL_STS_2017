@@ -1,0 +1,10 @@
+det	control	The
+compound	control	driver
+root	ROOT	control
+det	validity	the
+dobj	control	validity
+case	voucher	of
+det	voucher	the
+nmod:of	validity	voucher
+acl	voucher	registered
+punct	control	.

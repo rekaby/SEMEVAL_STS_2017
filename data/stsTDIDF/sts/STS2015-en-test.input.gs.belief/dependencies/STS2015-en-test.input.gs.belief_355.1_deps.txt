@@ -1,0 +1,6 @@
+cop	rationed	is
+nmod:poss	care	your
+compound	care	health
+nsubjpass	rationed	care
+root	ROOT	rationed
+punct	rationed	?

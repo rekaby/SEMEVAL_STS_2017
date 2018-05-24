@@ -1,0 +1,15 @@
+nsubj	ludicrous	This
+cop	ludicrous	is
+root	ROOT	ludicrous
+punct	ludicrous	.-4) root(ROOT-0, Sheriff
+punct	Sheriff	:
+nsubj	enforce	I
+aux	enforce	wo
+neg	enforce	n't
+dep	Sheriff	enforce
+nmod:poss	laws	Obama
+case	Obama	's
+compound	laws	gun
+dobj	enforce	laws
+punct	Sheriff	.-11) root(ROOT-0, Really
+punct	Really	?

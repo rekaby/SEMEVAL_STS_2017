@@ -1,0 +1,9 @@
+street	The	det
+ROOT	empty	root
+empty	and	cc
+empty	white	conj:and
+empty	.	punct
+white	are	cop
+white	buildings	nsubj
+empty	is	cop
+empty	street	nsubj

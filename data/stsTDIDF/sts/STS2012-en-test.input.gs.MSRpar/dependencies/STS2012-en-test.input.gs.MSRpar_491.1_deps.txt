@@ -1,0 +1,14 @@
+compound	Deutsch	Rep.
+compound	Deutsch	Peter
+nsubj	criticized	Deutsch
+punct	Deutsch	,
+appos	Deutsch	D-Fla.
+punct	Deutsch	,
+root	ROOT	criticized
+det	FDA	the
+nmod:poss	efforts	FDA
+case	FDA	's
+dobj	criticized	efforts
+case	Florida	in
+nmod:in	efforts	Florida
+punct	criticized	.

@@ -1,0 +1,6 @@
+pier	on	case
+pier	the	det
+work	pier	nmod:on
+walking	fishermen	nsubj
+fishermen	Two	nummod
+walking	work	xcomp

@@ -1,0 +1,6 @@
+Man	.	punct
+ROOT	Man	root
+resides	one	nmod:in
+Man	resides	acl:relcl
+one	stations	nmod:of
+resides	who	nsubj

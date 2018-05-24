@@ -1,0 +1,7 @@
+root	ROOT	hit
+mark	touches	before
+nsubj	touches	it
+advcl	hit	touches
+det	ground	the
+dobj	touches	ground
+punct	hit	.

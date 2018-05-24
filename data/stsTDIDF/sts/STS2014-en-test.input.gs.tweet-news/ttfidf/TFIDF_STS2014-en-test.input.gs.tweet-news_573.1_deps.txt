@@ -1,0 +1,15 @@
+nsubj #Oracle it	15.060439779775294
+advmod #Oracle together	15.060439779775294
+compound #Oracle Sun	15.060439779775294
+punct #Oracle -LRB-	15.060439779775294
+dep Get #Oracle	15.060439779775294
+punct #Oracle -RRB-	15.060439779775294
+punct Get !-8) compound(Security-2, Homeland	15.060439779775294
+nsubj warns Security	15.060439779775294
+dobj warns users	15.060439779775294
+xcomp warns disable	15.060439779775294
+dobj disable Java	15.060439779775294
+punct warns .-8) root(ROOT-0, #CyberSecurity	15.060439779775294
+mark disable to	12.980998238095458
+root ROOT warns	10.36909189754615
+root ROOT Get	9.907148185277515

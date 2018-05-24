@@ -1,0 +1,8 @@
+neg	leak	No
+compound	leak	radiation
+root	ROOT	leak
+case	plant	at
+nmod:poss	plant	Iran
+case	Iran	's
+amod	plant	nuclear
+nmod:at	leak	plant

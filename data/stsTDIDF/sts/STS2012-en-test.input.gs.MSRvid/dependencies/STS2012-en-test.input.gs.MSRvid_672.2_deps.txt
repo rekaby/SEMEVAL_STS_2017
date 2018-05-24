@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	ran	dog
+root	ROOT	ran
+case	water	in
+det	water	the
+nmod:in	ran	water
+case	beach	at
+det	beach	the
+nmod:at	ran	beach
+punct	ran	.

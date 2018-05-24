@@ -1,0 +1,6 @@
+compound	Releases	Press
+root	ROOT	Releases
+punct	Releases	:
+compound	Election	Yemeni
+compound	Election	Presidential
+dep	Releases	Election

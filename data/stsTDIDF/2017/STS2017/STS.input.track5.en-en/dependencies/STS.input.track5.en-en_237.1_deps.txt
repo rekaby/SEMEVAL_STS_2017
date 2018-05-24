@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	walks	dog
+root	ROOT	walks
+case	beach	along
+det	beach	a
+nmod:along	walks	beach
+case	waves	with
+compound	waves	breaking
+nmod:with	walks	waves
+punct	walks	.

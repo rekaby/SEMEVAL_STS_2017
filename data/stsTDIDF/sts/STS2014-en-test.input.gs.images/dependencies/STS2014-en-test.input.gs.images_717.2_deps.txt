@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	large
+nsubj	stands	dog
+root	ROOT	stands
+case	sheep	next
+mwe	next	to
+det	sheep	a
+nmod:next_to	stands	sheep
+case	field	in
+det	field	a
+nmod:in	sheep	field
+punct	stands	.

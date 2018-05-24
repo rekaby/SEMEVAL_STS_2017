@@ -1,0 +1,14 @@
+det	man	A
+nsubj	looks	man
+acl	man	talking
+case	men	to
+nummod	men	three
+nmod:to	talking	men
+case	woman	for
+det	woman	a
+nmod:for	talking	woman
+root	ROOT	looks
+xcomp	looks	weird
+case	left	on
+det	left	the
+nmod:on	looks	left

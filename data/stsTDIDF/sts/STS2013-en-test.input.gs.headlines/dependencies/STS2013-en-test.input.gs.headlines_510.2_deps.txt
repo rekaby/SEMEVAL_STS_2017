@@ -1,0 +1,8 @@
+punct	records	`
+compound	Games	Hunger
+nmod:poss	records	Games
+case	Games	'
+compound	records	sets
+compound	records	box
+compound	records	office
+root	ROOT	records

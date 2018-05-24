@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+advmod	slicing	partially
+case	half	into
+nmod:into	slicing	half
+case	onion	of
+det	onion	an
+nmod:of	half	onion
+punct	slicing	.

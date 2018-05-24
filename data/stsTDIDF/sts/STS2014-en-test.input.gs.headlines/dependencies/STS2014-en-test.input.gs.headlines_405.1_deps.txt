@@ -1,0 +1,7 @@
+compound	Fitow	Typhoon
+nsubj	makes	Fitow
+root	ROOT	makes
+dobj	makes	landfall
+case	China	in
+amod	China	east
+nmod:in	landfall	China

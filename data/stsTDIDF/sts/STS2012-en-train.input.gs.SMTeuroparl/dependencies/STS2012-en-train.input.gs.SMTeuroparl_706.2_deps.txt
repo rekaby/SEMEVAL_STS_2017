@@ -1,0 +1,17 @@
+expl	is	There
+root	ROOT	is
+nsubj	is	urgency
+cc	is	and
+advmod	decided	therefore
+nsubj	decided	we
+conj:and	is	decided
+mark	put	to
+xcomp	decided	put
+det	point	this
+dobj	put	point
+case	order	at
+det	order	the
+nmod:at	put	order
+case	business	of
+nmod:of	order	business
+punct	is	.

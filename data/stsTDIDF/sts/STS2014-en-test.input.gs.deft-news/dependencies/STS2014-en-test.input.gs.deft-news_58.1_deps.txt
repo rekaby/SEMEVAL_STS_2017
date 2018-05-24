@@ -1,0 +1,14 @@
+compound	duncan	john
+nsubj	ambassador	duncan
+cop	ambassador	is
+amod	britain	great
+nmod:poss	ambassador	britain
+case	britain	's
+root	ROOT	ambassador
+case	control	for
+amod	control	multilateral
+compound	control	arms
+nmod:for	ambassador	control
+cc	control	and
+conj:and	control	disarmament
+punct	ambassador	.

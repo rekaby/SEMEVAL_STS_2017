@@ -1,0 +1,9 @@
+amod	people	Several
+root	ROOT	people
+case	motorcycles	on
+nmod:on	people	motorcycles
+case	square	in
+det	square	a
+compound	square	market
+nmod:in	people	square
+punct	people	.

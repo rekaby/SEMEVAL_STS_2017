@@ -1,0 +1,10 @@
+nsubj	dismisses	SC
+root	ROOT	dismisses
+nmod:poss	plea	govt
+case	govt	's
+compound	plea	review
+dobj	dismisses	plea
+case	case	in
+compound	case	Vodafone
+compound	case	tax
+nmod:in	plea	case

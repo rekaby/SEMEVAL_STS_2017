@@ -1,0 +1,9 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+dobj	doing	trick
+case	cards	with
+compound	cards	play
+nmod:with	trick	cards
+punct	doing	.

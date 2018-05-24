@@ -1,0 +1,9 @@
+nsubj	waiting	They
+aux	waiting	're
+root	ROOT	waiting
+case	game	for
+det	game	a
+nmod:for	waiting	game
+mark	start	to
+acl	game	start
+punct	waiting	.

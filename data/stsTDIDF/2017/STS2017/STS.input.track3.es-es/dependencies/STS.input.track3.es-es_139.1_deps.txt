@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	taking	woman
+aux	taking	is
+root	ROOT	taking
+dobj	taking	care
+case	child	of
+det	child	the
+nmod:of	care	child
+punct	taking	.

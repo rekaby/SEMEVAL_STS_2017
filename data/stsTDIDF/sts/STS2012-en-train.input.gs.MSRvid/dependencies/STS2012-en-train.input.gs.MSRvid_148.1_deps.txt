@@ -1,0 +1,7 @@
+nummod	people	Two
+nsubj	riding	people
+aux	riding	are
+root	ROOT	riding
+det	motorcycle	a
+dobj	riding	motorcycle
+punct	riding	.

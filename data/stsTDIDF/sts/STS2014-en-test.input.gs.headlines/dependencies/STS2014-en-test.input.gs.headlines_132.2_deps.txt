@@ -1,0 +1,9 @@
+compound	panel	Navy
+nsubj	urges	panel
+root	ROOT	urges
+dobj	urges	ouster
+case	officer	of
+nmod:of	ouster	officer
+nsubj	faked	who
+acl:relcl	officer	faked
+dobj	faked	death

@@ -1,0 +1,12 @@
+root	ROOT	recognize
+mark	being	as
+advcl	recognize	being
+punct	recognize	;
+parataxis	recognize	establish
+det	identity	the
+dobj	establish	identity
+case	someone	of
+nmod:of	identity	someone
+cc	someone	or
+conj:or	someone	something
+punct	recognize	.

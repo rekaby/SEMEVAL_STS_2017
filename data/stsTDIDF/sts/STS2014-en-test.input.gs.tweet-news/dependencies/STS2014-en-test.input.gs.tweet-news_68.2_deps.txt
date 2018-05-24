@@ -1,0 +1,8 @@
+compound	cannon	Police
+amod	cannon	deploy
+compound	cannon	water
+root	ROOT	cannon
+case	riot	at
+compound	riot	Northern
+compound	riot	Ireland
+nmod:at	cannon	riot

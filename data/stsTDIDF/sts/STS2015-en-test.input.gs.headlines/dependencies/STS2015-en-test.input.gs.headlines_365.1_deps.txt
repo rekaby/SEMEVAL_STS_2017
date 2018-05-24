@@ -1,0 +1,8 @@
+nsubj	killed	Six
+root	ROOT	killed
+case	strike	in
+compound	strike	drone
+nmod:in	killed	strike
+case	N	in
+nmod:in	strike	N
+dobj	killed	Waziristan

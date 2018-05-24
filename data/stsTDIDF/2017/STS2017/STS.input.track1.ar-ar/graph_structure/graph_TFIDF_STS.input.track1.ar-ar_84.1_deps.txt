@@ -1,0 +1,8 @@
+municipality	a	det
+ROOT	shakes	root
+municipality	with	case
+shakes	hands	dobj
+shakes	municipality	nmod:with
+municipality	man	compound
+shakes	boy	nsubj
+shakes	.	punct

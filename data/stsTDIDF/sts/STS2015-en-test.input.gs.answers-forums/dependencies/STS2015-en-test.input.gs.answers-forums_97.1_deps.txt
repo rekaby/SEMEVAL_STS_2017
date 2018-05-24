@@ -1,0 +1,15 @@
+advmod	executed	Properly
+amod	training	executed
+compound	training	weight
+nsubj	increase	training
+aux	increase	will
+root	ROOT	increase
+punct	increase	,
+neg	decrease	not
+conj	increase	decrease
+punct	increase	,
+nmod:poss	flexibility	your
+dobj	increase	flexibility
+cc	flexibility	and
+conj:and	flexibility	mobility
+punct	increase	.

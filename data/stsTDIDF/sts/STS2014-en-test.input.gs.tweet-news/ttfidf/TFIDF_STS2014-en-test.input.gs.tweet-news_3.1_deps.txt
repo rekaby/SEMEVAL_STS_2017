@@ -1,0 +1,22 @@
+root ROOT #Bloomberg	15.060439779775294
+punct #Bloomberg :	15.060439779775294
+compound Pub ban	15.060439779775294
+amod Pub tough	15.060439779775294
+compound Pub sell	15.060439779775294
+dep #Bloomberg Pub	15.060439779775294
+punct #Bloomberg .-9) root(ROOT-0, enemies	15.060439779775294
+dep enemies 1	15.060439779775294
+amod mayor minor	15.060439779775294
+nmod:according_to enemies mayor	15.060439779775294
+punct enemies :	15.060439779775294
+compound Gulps Big	15.060439779775294
+dep enemies Gulps	15.060439779775294
+cc Gulps and	15.060439779775294
+conj:and Gulps #guns	15.060439779775294
+punct enemies .-14) root(ROOT-0, #ocra	15.060439779775294
+compound ban Assault	14.367292599215348
+compound ban weapon	14.367292599215348
+case mayor according	14.367292599215348
+conj:and 1 2	11.346867713070985
+cc 1 and	9.985265964541467
+mwe according to	6.207631862151972

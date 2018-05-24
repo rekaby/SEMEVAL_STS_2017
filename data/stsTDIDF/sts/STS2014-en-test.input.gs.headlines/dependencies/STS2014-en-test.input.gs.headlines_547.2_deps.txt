@@ -1,0 +1,8 @@
+amod	Forces	Israeli
+nsubj	Arrest	Forces
+root	ROOT	Arrest
+nummod	Palestinians	Five
+dobj	Arrest	Palestinians
+case	Bank	across
+compound	Bank	West
+nmod:across	Arrest	Bank

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	reading	woman
+aux	reading	is
+root	ROOT	reading
+det	magazine	a
+compound	magazine	lifestyle
+dobj	reading	magazine
+punct	reading	.

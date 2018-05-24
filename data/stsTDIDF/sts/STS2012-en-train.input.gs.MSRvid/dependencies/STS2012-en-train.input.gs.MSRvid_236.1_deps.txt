@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	washing	woman
+aux	washing	is
+root	ROOT	washing
+nmod:poss	hands	her
+dobj	washing	hands
+punct	washing	.

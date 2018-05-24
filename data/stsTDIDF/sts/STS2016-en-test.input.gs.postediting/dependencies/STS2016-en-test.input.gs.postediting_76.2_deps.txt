@@ -1,0 +1,11 @@
+advmod	announced	When
+det	agreement	the
+nsubjpass	announced	agreement
+auxpass	announced	was
+advcl	revolutionary	announced
+punct	revolutionary	,
+det	revolutionary	a
+amod	revolutionary	true
+neg	revolutionary	not
+root	ROOT	revolutionary
+punct	revolutionary	.

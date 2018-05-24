@@ -1,0 +1,9 @@
+root	ROOT	raise
+cc	raise	or
+conj:or	raise	haul
+compound:prt	raise	up
+case	mechanism	as
+case	mechanism	if
+case	mechanism	with
+det	mechanism	a
+nmod:with	raise	mechanism

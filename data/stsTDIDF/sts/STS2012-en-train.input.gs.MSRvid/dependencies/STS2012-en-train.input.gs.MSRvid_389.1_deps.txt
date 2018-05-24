@@ -1,0 +1,8 @@
+det	tiger	A
+nsubj	walking	tiger
+aux	walking	is
+root	ROOT	walking
+case	cage	around
+nmod:poss	cage	his
+nmod:around	walking	cage
+punct	walking	.

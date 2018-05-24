@@ -1,0 +1,8 @@
+Atqatlan	street	nmod:in
+Atqatlan	match	nmod:after
+match	football	compound
+adults	two	nummod
+match	after	case
+Atqatlan	adults	dobj
+Atqatlan	.	punct
+ROOT	Atqatlan	root

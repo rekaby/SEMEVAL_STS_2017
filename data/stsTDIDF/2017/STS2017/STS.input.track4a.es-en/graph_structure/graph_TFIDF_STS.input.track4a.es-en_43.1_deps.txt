@@ -1,0 +1,8 @@
+mattress	other	amod
+jumps	child	nsubj
+mattress	the	det
+jumps	.	punct
+ROOT	jumps	root
+mattress	to	case
+jumps	mattress	nmod:to
+child	The	det

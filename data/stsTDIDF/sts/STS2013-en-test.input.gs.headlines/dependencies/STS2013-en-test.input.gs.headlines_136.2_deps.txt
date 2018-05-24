@@ -1,0 +1,8 @@
+root	ROOT	Lawyers
+punct	Lawyers	:
+compound	suspect	Colo.
+compound	suspect	shooting
+nsubj	ill	suspect
+cop	ill	is
+advmod	ill	mentally
+dep	Lawyers	ill

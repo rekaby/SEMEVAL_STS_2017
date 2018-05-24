@@ -1,0 +1,8 @@
+compound	presses	U.N.
+compound	presses	rights
+compound	presses	chief
+root	ROOT	presses
+dobj	presses	Egypt
+case	detention	on
+compound	detention	Mursi
+nmod:on	presses	detention

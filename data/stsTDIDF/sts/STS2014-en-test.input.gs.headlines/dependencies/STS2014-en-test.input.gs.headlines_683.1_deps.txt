@@ -1,0 +1,7 @@
+amod	exiles	Iranian
+nsubj	report	exiles
+root	ROOT	report
+compound	camp	deaths
+case	Iraq	in
+nmod:in	deaths	Iraq
+dobj	report	camp

@@ -1,0 +1,9 @@
+det	cat	The
+nsubj	attacking	cat
+aux	attacking	is
+root	ROOT	attacking
+det	broom	a
+compound	broom	corn
+compound	broom	husk
+dobj	attacking	broom
+punct	attacking	.

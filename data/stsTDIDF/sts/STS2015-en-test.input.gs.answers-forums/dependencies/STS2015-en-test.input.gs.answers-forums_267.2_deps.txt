@@ -1,0 +1,14 @@
+nsubj	writing	I
+aux	writing	'm
+root	ROOT	writing
+advmod	writing	here
+det	tips	a
+amod	tips	few
+dobj	writing	tips
+nsubj	help	that
+aux	help	can
+acl:relcl	tips	help
+dobj	help	you
+case	motivation	with
+nmod:with	help	motivation
+punct	writing	.

@@ -1,0 +1,8 @@
+amod	names	Pakistani
+compound	names	Taliban
+root	ROOT	names
+amod	leader	new
+dep	names	leader
+case	strike	after
+compound	strike	drone
+nmod:after	leader	strike

@@ -1,0 +1,17 @@
+nsubj	had	She
+root	ROOT	had
+advmod	condition	only
+det	condition	a
+amod	condition	single
+dobj	had	condition
+punct	had	,
+mark	published	that
+det	book	the
+nsubjpass	published	book
+neg	published	not
+auxpass	published	be
+ccomp	had	published
+case	death	until
+nmod:poss	death	her
+nmod:until	published	death
+punct	had	.

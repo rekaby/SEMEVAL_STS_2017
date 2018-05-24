@@ -1,0 +1,9 @@
+root	ROOT	Disruptions
+punct	Disruptions	:
+compound	Warns	U.S.
+compound	Warns	Agency
+dep	Disruptions	Warns
+case	Problem	of
+compound	Problem	Java
+compound	Problem	Software
+nmod:of	Warns	Problem

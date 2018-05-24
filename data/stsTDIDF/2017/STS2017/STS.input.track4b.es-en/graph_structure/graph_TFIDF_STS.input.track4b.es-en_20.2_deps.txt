@@ -1,0 +1,9 @@
+need	shorthand	nmod:for
+shorthand	or	cc
+grandfather	my	nmod:poss
+grandfather	's	case
+is	homeland	nmod:in
+shorthand	for	case
+homeland	grandfather	nmod:poss
+homeland	in	case
+shorthand	hyphens	conj:or

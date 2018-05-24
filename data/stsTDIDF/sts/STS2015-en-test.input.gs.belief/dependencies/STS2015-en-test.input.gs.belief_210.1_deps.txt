@@ -1,0 +1,9 @@
+advmod	given	otherwise
+punct	given	,
+neg	information	no
+amod	information	other
+nsubjpass	given	information
+aux	given	would
+auxpass	given	be
+root	ROOT	given
+punct	given	.

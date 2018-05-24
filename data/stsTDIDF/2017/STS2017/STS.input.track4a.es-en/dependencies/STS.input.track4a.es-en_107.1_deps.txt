@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	brown
+nsubj	running	dog
+root	ROOT	running
+case	field	across
+det	field	an
+amod	field	open
+nmod:across	running	field
+punct	running	.

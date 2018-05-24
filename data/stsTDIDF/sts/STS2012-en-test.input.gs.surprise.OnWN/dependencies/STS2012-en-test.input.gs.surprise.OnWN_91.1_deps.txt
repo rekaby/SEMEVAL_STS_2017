@@ -1,0 +1,8 @@
+det	stop	a
+amod	stop	full
+root	ROOT	stop
+punct	stop	,
+case	punctuation	as
+det	punctuation	a
+nmod:as	stop	punctuation
+dep	stop	mark

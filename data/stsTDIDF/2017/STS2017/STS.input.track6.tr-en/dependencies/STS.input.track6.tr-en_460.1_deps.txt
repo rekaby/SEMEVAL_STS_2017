@@ -1,0 +1,9 @@
+det	man	The
+nsubj	rooms	man
+cc	man	and
+conj:and	man	woman
+cop	rooms	are
+case	rooms	in
+amod	rooms	different
+root	ROOT	rooms
+punct	rooms	.

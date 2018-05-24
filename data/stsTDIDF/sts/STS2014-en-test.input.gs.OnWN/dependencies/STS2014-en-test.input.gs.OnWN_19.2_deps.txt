@@ -1,0 +1,7 @@
+det	section	a
+compound	section	straightaway
+root	ROOT	section
+case	racetrack	of
+det	racetrack	a
+nmod:of	section	racetrack
+punct	section	.

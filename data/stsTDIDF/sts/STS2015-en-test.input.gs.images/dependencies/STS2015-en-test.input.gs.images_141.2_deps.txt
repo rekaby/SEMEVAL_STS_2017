@@ -1,0 +1,7 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	sitting
+case	dock	on
+det	dock	a
+nmod:on	sitting	dock
+punct	people	.

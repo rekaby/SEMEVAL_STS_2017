@@ -1,0 +1,5 @@
+root	ROOT	People
+acl	People	carrying
+dobj	carrying	food
+case	trays	in
+nmod:in	People	trays

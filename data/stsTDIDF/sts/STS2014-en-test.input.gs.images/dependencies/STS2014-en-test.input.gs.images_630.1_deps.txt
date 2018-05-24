@@ -1,0 +1,11 @@
+nummod	bottles	Eight
+nsubj	lined	bottles
+case	lager	of
+compound	lager	Harp
+nmod:of	bottles	lager
+root	ROOT	lined
+compound:prt	lined	up
+case	floor	on
+det	floor	the
+nmod:on	lined	floor
+punct	lined	.

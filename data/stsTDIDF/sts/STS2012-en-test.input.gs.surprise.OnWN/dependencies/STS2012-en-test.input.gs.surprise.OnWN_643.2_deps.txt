@@ -1,0 +1,10 @@
+det	cut	a
+amod	cut	strong
+amod	cut	sweeping
+root	ROOT	cut
+acl	cut	made
+case	instrument	with
+det	instrument	a
+amod	instrument	sharp
+nmod:with	made	instrument
+punct	cut	.

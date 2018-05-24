@@ -1,0 +1,7 @@
+nsubj	breaks	Fire
+root	ROOT	breaks
+compound:prt	breaks	out
+case	secretariat	near
+nmod:near	breaks	secretariat
+case	Srinagar	in
+nmod:in	breaks	Srinagar

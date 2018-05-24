@@ -1,0 +1,9 @@
+compound	Swartz	Aaron
+nsubj	Dies	Swartz
+punct	Swartz	,
+compound	Activist	Internet
+appos	Swartz	Activist
+punct	Swartz	,
+root	ROOT	Dies
+case	26	at
+nmod:at	Dies	26

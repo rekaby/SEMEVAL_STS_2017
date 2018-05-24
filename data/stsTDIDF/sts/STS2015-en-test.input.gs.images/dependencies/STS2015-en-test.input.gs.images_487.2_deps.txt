@@ -1,0 +1,10 @@
+amod	boy	Small
+nsubj	lying	boy
+root	ROOT	lying
+case	stomach	on
+nmod:poss	stomach	his
+nmod:on	lying	stomach
+case	grass	on
+det	grass	the
+nmod:on	stomach	grass
+punct	lying	.

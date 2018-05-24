@@ -1,0 +1,16 @@
+advmod	realize	First
+punct	realize	,
+nsubj	realize	you
+aux	realize	should
+root	ROOT	realize
+mark	you	that
+nsubj	you	this
+cop	you	is
+neg	you	not
+ccomp	realize	you
+cc	you	or
+nmod:poss	dog	your
+nmod:poss	problem	dog
+case	dog	's
+conj:or	you	problem
+punct	realize	.

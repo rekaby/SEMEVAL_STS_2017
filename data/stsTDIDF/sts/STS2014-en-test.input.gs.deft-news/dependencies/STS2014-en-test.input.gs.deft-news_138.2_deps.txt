@@ -1,0 +1,16 @@
+det	states	the
+amod	states	united
+nsubj	refused	states
+cc	states	and
+amod	members	other
+amod	members	nato
+conj:and	states	members
+aux	refused	have
+root	ROOT	refused
+mark	do	to
+xcomp	refused	do
+dep	cfe	ratify
+det	updates	the
+nsubj	cfe	updates
+ccomp	do	cfe
+punct	refused	.

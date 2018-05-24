@@ -1,0 +1,10 @@
+det	man	A
+nsubj	getting	man
+aux	getting	is
+root	ROOT	getting
+xcomp	getting	ready
+mark	run	to
+xcomp	ready	run
+det	marathon	a
+dobj	run	marathon
+punct	getting	.

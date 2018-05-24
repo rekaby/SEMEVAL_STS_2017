@@ -1,0 +1,14 @@
+root	ROOT	Edit
+punct	Edit	,
+advmod	Edit	again
+punct	Edit	:
+det	question	The
+nsubj	seems	question
+dep	Edit	seems
+mark	changed	to
+aux	changed	have
+xcomp	seems	changed
+punct	changed	,
+advmod	again	yet
+advmod	changed	again
+punct	Edit	.

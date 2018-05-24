@@ -1,0 +1,10 @@
+nsubj	stated	police
+root	ROOT	stated
+amod	wen-huang	tsai
+nsubjpass	extradited	wen-huang
+aux	extradited	would
+auxpass	extradited	be
+ccomp	stated	extradited
+mark	taiwan	to
+xcomp	extradited	taiwan
+punct	stated	.

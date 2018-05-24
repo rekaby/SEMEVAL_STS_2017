@@ -1,0 +1,13 @@
+cc	takes	And
+advmod	takes	thus
+det	method	the
+nsubj	takes	method
+root	ROOT	takes
+advmod	less	much
+amod	time	less
+dobj	takes	time
+case	methods	than
+amod	methods	more
+amod	methods	naive
+nmod:than	time	methods
+punct	takes	.

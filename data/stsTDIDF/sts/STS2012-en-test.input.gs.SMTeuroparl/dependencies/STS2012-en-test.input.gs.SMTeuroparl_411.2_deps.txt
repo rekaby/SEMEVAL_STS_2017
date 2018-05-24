@@ -1,0 +1,12 @@
+advmod	pride	Often
+nsubj	pride	we
+root	ROOT	pride
+dobj	pride	ourselves
+advmod	pride	here
+mark	represent	to
+acl	pride	represent
+det	people	the
+dobj	represent	people
+case	Europe	of
+nmod:of	people	Europe
+punct	pride	.

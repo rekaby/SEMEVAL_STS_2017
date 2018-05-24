@@ -1,0 +1,16 @@
+mark	refused	After
+nsubj	refused	Hughes
+advcl	complained	refused
+mark	rehire	to
+xcomp	refused	rehire
+dobj	rehire	Hernandez
+punct	complained	,
+nsubj	complained	he
+root	ROOT	complained
+case	Commission	to
+det	Commission	the
+compound	Commission	Equal
+compound	Commission	Employment
+compound	Commission	Opportunity
+nmod:to	complained	Commission
+punct	complained	.

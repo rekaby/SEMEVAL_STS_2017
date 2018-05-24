@@ -1,0 +1,14 @@
+nsubj	seems	It
+root	ROOT	seems
+mark	clear	to
+cop	clear	be
+xcomp	seems	clear
+mark	better	that
+nsubj	better	it
+cop	better	is
+ccomp	clear	better
+mark	buy	to
+xcomp	better	buy
+det	phone	a
+dobj	buy	phone
+punct	seems	.

@@ -1,0 +1,14 @@
+case	million	Of
+det	million	the
+compound	million	1.1
+nmod:of	female	million
+acl	million	infected
+case	Asia	in
+amod	Asia	south
+nmod:in	infected	Asia
+punct	female	,
+nummod	%	62
+nsubj	female	%
+cop	female	are
+root	ROOT	female
+punct	female	.

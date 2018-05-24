@@ -1,0 +1,10 @@
+det	act	The
+root	ROOT	act
+mark	copying	of
+acl	act	copying
+det	actions	the
+dobj	copying	actions
+case	someone	of
+nmod:of	actions	someone
+advmod	someone	else
+punct	act	.

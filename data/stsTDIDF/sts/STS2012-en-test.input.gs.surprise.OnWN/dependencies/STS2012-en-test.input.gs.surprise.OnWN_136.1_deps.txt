@@ -1,0 +1,9 @@
+det	layout	a
+amod	layout	static
+amod	layout	vertical
+root	ROOT	layout
+punct	layout	,
+amod	text	e.g.
+conj:or	layout	text
+cc	layout	or
+conj:or	layout	numbers

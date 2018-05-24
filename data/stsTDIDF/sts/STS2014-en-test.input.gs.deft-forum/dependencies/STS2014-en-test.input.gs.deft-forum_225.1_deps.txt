@@ -1,0 +1,15 @@
+root	ROOT	Or
+det	one	this
+dep	Or	one
+case	Croce	by
+compound	Croce	Jim
+nmod:by	one	Croce
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	one	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Or	.

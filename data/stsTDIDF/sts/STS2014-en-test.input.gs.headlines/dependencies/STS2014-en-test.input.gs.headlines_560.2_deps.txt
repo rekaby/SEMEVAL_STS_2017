@@ -1,0 +1,9 @@
+compound	bomb	Sinai
+compound	bomb	car
+nsubj	kills	bomb
+root	ROOT	kills
+case	least	at
+nmod:npmod	10	least
+nummod	soldiers	10
+amod	soldiers	Egyptian
+dobj	kills	soldiers

@@ -1,0 +1,11 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+nsubj	Hopes	Dim
+parataxis	Contributor	Hopes
+case	Press	for
+det	Press	a
+compound	Press	Free
+nmod:for	Hopes	Press
+case	China	in
+nmod:in	Press	China

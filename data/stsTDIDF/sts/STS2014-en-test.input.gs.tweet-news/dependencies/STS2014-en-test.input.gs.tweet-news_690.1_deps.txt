@@ -1,0 +1,16 @@
+amod	Read	Good
+root	ROOT	Read
+punct	Read	.-3) amod(Parents-6, Agree
+punct	Parents	-
+advmod	Parents	Mostly
+punct	Parents	''
+punct	Parents	:
+root	ROOT	Parents
+punct	Parents	?-7) root(ROOT-0, Financial
+dep	Financial	Support
+nsubj	Help	May
+neg	Help	Not
+acl:relcl	Support	Help
+compound	Grades	College
+dobj	Help	Grades
+punct	Financial	''

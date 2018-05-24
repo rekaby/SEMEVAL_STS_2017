@@ -1,0 +1,7 @@
+compound	Korea	North
+nsubj	vows	Korea
+root	ROOT	vows
+mark	restart	to
+xcomp	vows	restart
+amod	facilities	nuclear
+dobj	restart	facilities

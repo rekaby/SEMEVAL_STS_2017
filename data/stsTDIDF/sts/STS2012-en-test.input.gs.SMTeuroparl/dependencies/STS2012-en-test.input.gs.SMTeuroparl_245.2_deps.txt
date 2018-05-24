@@ -1,0 +1,9 @@
+nsubj	diverge	Other
+root	ROOT	diverge
+advmod	owing	unfortunately
+xcomp	diverge	owing
+case	vengeance	to
+det	vengeance	an
+amod	vengeance	accumulated
+nmod:to	owing	vengeance
+punct	diverge	.

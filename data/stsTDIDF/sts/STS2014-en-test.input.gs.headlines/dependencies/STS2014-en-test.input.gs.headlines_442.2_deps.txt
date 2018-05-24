@@ -1,0 +1,7 @@
+amod	supporters	Muslim
+compound	supporters	Brotherhood
+nsubj	die	supporters
+root	ROOT	die
+case	Egypt	in
+nmod:in	die	Egypt
+dobj	die	clashes

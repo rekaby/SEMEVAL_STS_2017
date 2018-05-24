@@ -1,0 +1,6 @@
+compound	strike	NATO
+nsubj	kills	strike
+root	ROOT	kills
+nummod	children	11
+compound	children	Afghan
+dobj	kills	children

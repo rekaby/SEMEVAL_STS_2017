@@ -1,0 +1,10 @@
+amod	Joblessness	Spanish
+nsubj	Climbs	Joblessness
+root	ROOT	Climbs
+advmod	Climbs	Again
+punct	Climbs	,
+case	Relief	With
+neg	Relief	No
+nmod:with	Climbs	Relief
+case	Sight	in
+nmod:in	Relief	Sight

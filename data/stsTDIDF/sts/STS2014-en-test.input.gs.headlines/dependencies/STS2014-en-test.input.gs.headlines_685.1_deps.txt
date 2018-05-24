@@ -1,0 +1,7 @@
+compound	blast	Bomb
+nsubj	kills	blast
+root	ROOT	kills
+nummod	Pakistan	10
+case	southwest	in
+nmod:in	10	southwest
+dobj	kills	Pakistan

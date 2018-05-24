@@ -1,0 +1,11 @@
+det	men	The
+nummod	men	two
+nsubj	about	men
+cop	about	are
+root	ROOT	about
+mark	compete	to
+xcomp	about	compete
+case	match	in
+det	match	a
+nmod:in	compete	match
+punct	about	.

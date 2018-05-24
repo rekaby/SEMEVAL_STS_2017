@@ -1,0 +1,14 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	sitting
+case	sofa	on
+det	sofa	a
+amod	sofa	small
+nmod:on	sitting	sofa
+case	kitchen	next
+mwe	next	to
+det	kitchen	a
+nmod:next_to	sitting	kitchen
+punct	group	.

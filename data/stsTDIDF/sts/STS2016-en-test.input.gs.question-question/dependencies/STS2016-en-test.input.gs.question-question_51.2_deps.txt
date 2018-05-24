@@ -1,0 +1,15 @@
+root	ROOT	Is
+nsubj	appropriate	it
+xcomp	Is	appropriate
+mark	ask	to
+xcomp	appropriate	ask
+det	professor	a
+dobj	ask	professor
+case	e-mail	via
+nmod:via	ask	e-mail
+case	letter	for
+det	letter	a
+nmod:for	e-mail	letter
+case	recommendation	of
+nmod:of	letter	recommendation
+punct	Is	?

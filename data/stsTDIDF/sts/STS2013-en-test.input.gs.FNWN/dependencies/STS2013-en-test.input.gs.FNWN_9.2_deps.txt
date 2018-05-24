@@ -1,0 +1,13 @@
+det	account	an
+root	ROOT	account
+case	series	of
+det	series	the
+nmod:of	account	series
+case	events	of
+nmod:of	series	events
+acl	account	making
+compound:prt	making	up
+det	person	a
+nmod:poss	life	person
+case	person	's
+dobj	making	life

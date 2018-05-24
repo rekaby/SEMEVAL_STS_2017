@@ -1,0 +1,5 @@
+root	ROOT	hand
+dep	hand	over
+cc	over	or
+conj:or	over	put
+compound:prt	hand	in

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	loading	man
+aux	loading	is
+root	ROOT	loading
+det	rifle	a
+dobj	loading	rifle
+case	bullets	with
+nmod:with	rifle	bullets
+punct	loading	.

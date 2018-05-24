@@ -1,0 +1,9 @@
+det	food	The
+nsubj	sweet	food
+det	child	the
+nsubj	eating	child
+aux	eating	is
+acl:relcl	food	eating
+cop	sweet	is
+root	ROOT	sweet
+punct	sweet	.

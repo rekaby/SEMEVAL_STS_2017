@@ -1,0 +1,15 @@
+root	ROOT	Lady
+case	top	in
+det	top	a
+amod	top	dark
+nmod:in	Lady	top
+punct	Lady	,
+acl	Lady	missing
+case	impressions	with
+nmod:with	missing	impressions
+punct	impressions	,
+amod	stockings	red
+conj:and	impressions	stockings
+cc	impressions	and
+amod	shoes	walking
+conj:and	impressions	shoes

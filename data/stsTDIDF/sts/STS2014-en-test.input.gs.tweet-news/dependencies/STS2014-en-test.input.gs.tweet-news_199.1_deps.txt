@@ -1,0 +1,8 @@
+root	ROOT	Kaepernick
+acl	Kaepernick	Backs
+nmod:poss	Gamble	Harbaugh
+case	Harbaugh	's
+dobj	Backs	Gamble
+case	Win	With
+compound	Win	Playoff
+nmod:with	Backs	Win

@@ -1,0 +1,15 @@
+det	agency	the
+amod	agency	international
+amod	agency	atomic
+compound	agency	energy
+nsubj	has	agency
+root	ROOT	has
+neg	access	no
+dobj	has	access
+case	people	to
+nmod:to	access	people
+punct	people	,
+conj	people	documents
+punct	people	,
+appos	people	sites
+punct	has	.

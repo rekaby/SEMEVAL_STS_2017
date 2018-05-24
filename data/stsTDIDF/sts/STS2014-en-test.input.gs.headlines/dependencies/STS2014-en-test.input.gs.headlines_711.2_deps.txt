@@ -1,0 +1,9 @@
+compound	Talbot	Weatherman
+compound	Talbot	Fred
+nsubj	Held	Talbot
+root	ROOT	Held
+case	Abuse	Over
+punct	Abuse	`
+compound	Abuse	Sex
+nmod:over	Held	Abuse
+punct	Held	'

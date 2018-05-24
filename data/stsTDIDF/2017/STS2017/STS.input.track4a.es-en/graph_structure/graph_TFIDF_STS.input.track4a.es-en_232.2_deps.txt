@@ -1,0 +1,6 @@
+sitting	ice	nmod:on
+sitting	player	nsubj
+player	hockey	compound
+player	A	det
+ice	the	det
+ice	on	case

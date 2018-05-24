@@ -1,0 +1,13 @@
+cop	Muslim	Being
+det	Muslim	a
+nsubj	thing	Muslim
+cc	Muslim	and
+cop	Islamist	being
+det	Islamist	an
+conj:and	Muslim	Islamist
+cop	thing	are
+neg	thing	not
+det	thing	the
+amod	thing	same
+root	ROOT	thing
+punct	thing	.

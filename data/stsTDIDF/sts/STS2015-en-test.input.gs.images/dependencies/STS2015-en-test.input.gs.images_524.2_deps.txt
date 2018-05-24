@@ -1,0 +1,10 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	running
+case	water	through
+det	water	the
+nmod:through	running	water
+case	beach	on
+det	beach	a
+nmod:on	running	beach
+punct	dogs	.

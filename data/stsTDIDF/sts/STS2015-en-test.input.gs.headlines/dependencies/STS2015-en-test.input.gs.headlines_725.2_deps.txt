@@ -1,0 +1,8 @@
+nsubj	wins	Tokyo
+root	ROOT	wins
+dobj	wins	race
+case	host	to
+nmod:to	wins	host
+nummod	Games	2020
+compound	Games	Olympic
+nummod	host	Games

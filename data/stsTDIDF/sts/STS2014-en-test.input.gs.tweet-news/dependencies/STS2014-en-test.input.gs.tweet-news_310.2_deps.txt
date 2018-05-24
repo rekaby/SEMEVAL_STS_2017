@@ -1,0 +1,9 @@
+nsubj	Ordered	Twitter
+root	ROOT	Ordered
+mark	Help	to
+xcomp	Ordered	Help
+compound	Sources	Reveal
+dobj	Help	Sources
+case	Posts	of
+amod	Posts	Anti-Semitic
+nmod:of	Sources	Posts

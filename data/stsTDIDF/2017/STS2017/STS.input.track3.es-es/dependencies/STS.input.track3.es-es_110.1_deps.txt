@@ -1,0 +1,8 @@
+nummod	men	Two
+root	ROOT	men
+amod	men	located
+case	cabin	in
+det	cabin	a
+compound	cabin	control
+nmod:in	located	cabin
+punct	men	.

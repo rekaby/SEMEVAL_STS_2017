@@ -1,0 +1,7 @@
+root	ROOT	Priebus
+amod	Priebus	Re-elected
+case	Committee	to
+amod	Committee	Lead
+compound	Committee	Republican
+compound	Committee	National
+nmod:to	Re-elected	Committee

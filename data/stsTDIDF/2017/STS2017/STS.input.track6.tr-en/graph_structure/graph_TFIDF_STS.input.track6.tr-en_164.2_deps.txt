@@ -1,0 +1,7 @@
+cheering	.	punct
+cheering	group	nsubj
+ROOT	cheering	root
+cheering	is	aux
+group	young	amod
+cheering	team	nmod:on
+group	friends	nmod:of

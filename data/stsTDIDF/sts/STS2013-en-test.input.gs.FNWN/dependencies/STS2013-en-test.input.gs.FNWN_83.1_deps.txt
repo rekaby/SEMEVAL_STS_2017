@@ -1,0 +1,7 @@
+det	place	a
+root	ROOT	place
+acl	place	defined
+case	owner	by
+det	owner	an
+nmod:by	defined	owner
+punct	place	.

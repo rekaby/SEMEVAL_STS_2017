@@ -1,0 +1,8 @@
+det	kitten	A
+amod	kitten	small
+nsubj	playing	kitten
+aux	playing	is
+root	ROOT	playing
+det	ball	a
+dobj	playing	ball
+punct	playing	.

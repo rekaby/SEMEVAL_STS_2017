@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	talking
+case	woman	to
+det	woman	a
+nmod:to	talking	woman
+acl	woman	holding
+det	hat	a
+compound	hat	cowboy
+dobj	holding	hat
+punct	man	.

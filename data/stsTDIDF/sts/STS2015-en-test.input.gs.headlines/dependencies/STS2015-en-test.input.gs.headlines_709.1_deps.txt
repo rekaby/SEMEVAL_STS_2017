@@ -1,0 +1,5 @@
+compound	vote	Pakistanis
+root	ROOT	vote
+case	election	in
+compound	election	landmark
+nmod:in	vote	election

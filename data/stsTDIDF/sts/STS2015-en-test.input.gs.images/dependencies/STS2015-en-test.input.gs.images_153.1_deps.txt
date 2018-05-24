@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	holds	girl
+root	ROOT	holds
+compound:prt	holds	up
+det	animal	a
+amod	animal	yellow
+compound	animal	balloon
+dobj	holds	animal
+punct	holds	.

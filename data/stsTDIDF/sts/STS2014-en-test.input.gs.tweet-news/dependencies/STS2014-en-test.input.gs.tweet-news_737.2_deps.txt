@@ -1,0 +1,9 @@
+root	ROOT	2
+acl	2	Linked
+case	Plead	to
+compound	Plead	Smuggling
+compound	Plead	Narwhal
+compound	Plead	Tusks
+nmod:to	Linked	Plead
+neg	Guilty	Not
+dep	Linked	Guilty

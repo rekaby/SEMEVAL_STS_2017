@@ -1,0 +1,8 @@
+ready	boy	nsubj
+take	ball	nmod:at
+ready	take	xcomp
+bat	a	det
+using	bat	dobj
+swing	a	det
+ball	at	case
+take	swing	dobj

@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+nmod:poss	bike	his
+dobj	riding	bike
+cc	man	and
+conj:and	man	saw
+det	sunrise	the
+dobj	saw	sunrise
+punct	man	.

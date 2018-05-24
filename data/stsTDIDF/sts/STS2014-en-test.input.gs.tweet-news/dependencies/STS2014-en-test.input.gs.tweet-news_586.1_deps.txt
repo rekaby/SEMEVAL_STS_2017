@@ -1,0 +1,8 @@
+nsubj	restricts	#Cuba
+root	ROOT	restricts
+dobj	restricts	travel
+case	people	for
+punct	people	`
+amod	people	skilled
+punct	people	'
+nmod:for	travel	people

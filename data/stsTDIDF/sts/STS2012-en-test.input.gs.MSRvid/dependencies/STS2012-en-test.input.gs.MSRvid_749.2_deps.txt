@@ -1,0 +1,7 @@
+det	man	A
+nsubj	moving	man
+aux	moving	is
+root	ROOT	moving
+amod	rocks	large
+dobj	moving	rocks
+punct	moving	.

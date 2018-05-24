@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+det	meat	a
+dobj	slicing	meat
+case	pieces	into
+nmod:into	slicing	pieces
+punct	slicing	.

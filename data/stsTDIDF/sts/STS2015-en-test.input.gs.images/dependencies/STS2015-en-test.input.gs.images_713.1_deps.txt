@@ -1,0 +1,10 @@
+det	boy	A
+amod	boy	young
+nsubj	plays	boy
+root	ROOT	plays
+case	pit	in
+det	pit	a
+amod	pit	red
+compound	pit	ball
+nmod:in	plays	pit
+punct	plays	.

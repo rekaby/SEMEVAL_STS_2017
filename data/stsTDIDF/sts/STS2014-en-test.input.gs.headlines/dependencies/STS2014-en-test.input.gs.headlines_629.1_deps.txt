@@ -1,0 +1,11 @@
+compound	House	White
+nsubj	discuss	House
+punct	House	,
+compound	contractors	defense
+appos	House	contractors
+root	ROOT	discuss
+dobj	discuss	harm
+case	spending	of
+amod	spending	automatic
+nmod:of	harm	spending
+dobj	discuss	cuts

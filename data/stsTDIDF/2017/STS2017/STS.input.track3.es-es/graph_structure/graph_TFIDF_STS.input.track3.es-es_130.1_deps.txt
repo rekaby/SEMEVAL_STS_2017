@@ -1,0 +1,8 @@
+ongoing	match	nsubj
+ongoing	ladies	nmod:between
+ongoing	is	cop
+ladies	the	det
+ROOT	ongoing	root
+match	volleyball	compound
+match	The	det
+ladies	between	case

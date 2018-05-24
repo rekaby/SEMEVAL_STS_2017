@@ -1,0 +1,11 @@
+nsubj	passing	People
+aux	passing	are
+root	ROOT	passing
+dobj	passing	protesters
+mark	go	as
+nsubj	go	they
+advcl	passing	go
+case	buisness	about
+nmod:poss	buisness	their
+nmod:about	go	buisness
+punct	passing	.

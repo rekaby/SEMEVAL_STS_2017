@@ -1,0 +1,12 @@
+det	beach	A
+amod	beach	busy
+root	ROOT	beach
+acl	beach	has
+dobj	has	people
+acl	people	scattered
+case	it	on
+nmod:on	scattered	it
+acl	it	watching
+det	sky	the
+dobj	watching	sky
+punct	beach	.

@@ -1,0 +1,7 @@
+case	Least	At
+root	ROOT	Least
+nummod	Dead	22
+dep	Least	Dead
+case	China	After
+nmod:after	Dead	China
+dep	Dead	Earthquake

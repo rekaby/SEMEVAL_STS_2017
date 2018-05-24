@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	grating	woman
+aux	grating	is
+root	ROOT	grating
+det	food	an
+amod	food	orange
+dobj	grating	food
+punct	grating	.

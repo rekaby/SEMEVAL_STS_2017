@@ -1,0 +1,7 @@
+det	body	any
+amod	body	large
+amod	body	deep
+root	ROOT	body
+case	water	of
+nmod:of	body	water
+punct	body	.

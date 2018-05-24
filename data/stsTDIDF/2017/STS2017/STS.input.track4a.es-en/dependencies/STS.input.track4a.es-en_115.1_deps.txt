@@ -1,0 +1,13 @@
+root	ROOT	Men
+case	instruments	with
+amod	instruments	long
+compound	instruments	hair
+compound	instruments	play
+nmod:with	Men	instruments
+mark	lies	while
+nmod:poss	dog	their
+nsubj	lies	dog
+advcl	Men	lies
+case	couch	on
+det	couch	the
+nmod:on	lies	couch

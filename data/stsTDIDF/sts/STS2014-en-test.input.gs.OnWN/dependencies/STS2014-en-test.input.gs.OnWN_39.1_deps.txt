@@ -1,0 +1,8 @@
+dep	claims	Make
+punct	undue	-LRB-
+dep	claims	undue
+punct	undue	-RRB-
+root	ROOT	claims
+case	owning	of
+nmod:of	claims	owning
+punct	claims	.

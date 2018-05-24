@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+mark	administering	of
+acl	act	administering
+dobj	administering	medication
+punct	act	.

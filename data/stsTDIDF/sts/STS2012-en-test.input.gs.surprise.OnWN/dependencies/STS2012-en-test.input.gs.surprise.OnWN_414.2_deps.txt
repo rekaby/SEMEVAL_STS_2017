@@ -1,0 +1,14 @@
+det	act	the
+root	ROOT	act
+case	caressing	of
+nmod:of	act	caressing
+case	lips	with
+det	lips	the
+nmod:with	caressing	lips
+punct	instance	-LRB-
+cc	instance	or
+det	instance	an
+dep	lips	instance
+advmod	instance	thereof
+punct	instance	-RRB-
+punct	act	.

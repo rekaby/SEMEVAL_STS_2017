@@ -1,0 +1,6 @@
+det	person	A
+nsubj	peeling	person
+aux	peeling	is
+root	ROOT	peeling
+dobj	peeling	shrimp
+punct	peeling	.

@@ -1,0 +1,8 @@
+det	committee	a
+root	ROOT	committee
+acl	committee	appointed
+mark	judge	to
+xcomp	appointed	judge
+det	competition	a
+dobj	judge	competition
+punct	committee	.

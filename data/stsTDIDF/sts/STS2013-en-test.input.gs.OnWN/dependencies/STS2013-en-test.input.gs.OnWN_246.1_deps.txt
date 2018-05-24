@@ -1,0 +1,6 @@
+det	state	The
+root	ROOT	state
+mark	suspected	of
+auxpass	suspected	being
+acl	state	suspected
+punct	state	.

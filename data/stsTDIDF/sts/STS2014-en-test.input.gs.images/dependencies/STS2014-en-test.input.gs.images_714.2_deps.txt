@@ -1,0 +1,6 @@
+det	computer	a
+root	ROOT	computer
+case	floor	on
+det	floor	the
+nmod:on	computer	floor
+punct	computer	.

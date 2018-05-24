@@ -1,0 +1,7 @@
+nsubj	hiking	People
+aux	hiking	are
+root	ROOT	hiking
+case	beach	on
+det	beach	a
+nmod:on	hiking	beach
+punct	hiking	.

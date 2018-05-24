@@ -1,0 +1,13 @@
+det	man	a
+root	ROOT	man
+acl	man	wearing
+det	fishing	a
+amod	fishing	gray
+compound	fishing	hat
+dobj	wearing	fishing
+case	boat	out
+mwe	out	of
+det	boat	a
+compound	boat	fishing
+nmod:out_of	wearing	boat
+punct	man	.

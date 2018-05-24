@@ -1,0 +1,10 @@
+det	man	a
+root	ROOT	man
+acl	man	playing
+det	guitar	a
+amod	guitar	white
+dobj	playing	guitar
+cc	guitar	and
+conj:and	guitar	singing
+advmod	man	as
+mwe	as	well

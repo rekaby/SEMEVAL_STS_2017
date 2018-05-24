@@ -1,0 +1,16 @@
+det	child	The
+amod	child	white
+nsubj	bars	child
+cop	bars	is
+case	bars	on
+det	bars	the
+root	ROOT	bars
+punct	bars	,
+mark	bottom	while
+det	brown	the
+nsubj	bottom	brown
+cop	bottom	is
+case	bottom	on
+det	bottom	the
+advcl:on	bars	bottom
+punct	bars	.

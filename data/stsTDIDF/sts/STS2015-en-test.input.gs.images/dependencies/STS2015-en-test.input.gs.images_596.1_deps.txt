@@ -1,0 +1,7 @@
+det	person	A
+root	ROOT	person
+case	bike	on
+det	bike	a
+compound	bike	bmx
+nmod:on	person	bike
+punct	person	.

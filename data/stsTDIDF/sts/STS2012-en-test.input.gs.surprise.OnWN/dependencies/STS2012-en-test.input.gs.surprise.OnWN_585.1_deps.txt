@@ -1,0 +1,7 @@
+root	ROOT	Wrinkled
+punct	Wrinkled	,
+conj:or	Wrinkled	crumpled
+punct	Wrinkled	,
+cc	Wrinkled	or
+conj:or	Wrinkled	creased
+punct	Wrinkled	.

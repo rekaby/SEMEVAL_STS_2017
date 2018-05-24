@@ -1,0 +1,8 @@
+nsubj	killed	Two
+root	ROOT	killed
+punct	killed	,
+dep	killed	19
+acl	19	injured
+case	Toronto	in
+nmod:in	injured	Toronto
+dep	killed	shooting

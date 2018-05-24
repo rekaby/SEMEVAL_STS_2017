@@ -1,0 +1,15 @@
+nummod	women	Three
+nsubj	talking	women
+acl	women	wearing
+amod	vests	black
+dobj	wearing	vests
+cc	vests	and
+amod	shirts	gray
+conj:and	vests	shirts
+aux	talking	are
+root	ROOT	talking
+case	building	outside
+mwe	outside	of
+det	building	a
+nmod:outside_of	talking	building
+punct	talking	.

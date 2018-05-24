@@ -1,0 +1,6 @@
+builds	castle	dobj
+sand	small	amod
+ROOT	builds	root
+builds	man	nsubj
+sand	a	det
+builds	sand	dobj

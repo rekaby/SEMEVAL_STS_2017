@@ -1,0 +1,12 @@
+root	ROOT	give
+advmod	give	entirely
+case	person	to
+det	person	a
+amod	person	specific
+nmod:to	give	person
+punct	person	,
+conj:or	person	activity
+punct	person	,
+cc	person	or
+conj:or	person	cause
+punct	give	.

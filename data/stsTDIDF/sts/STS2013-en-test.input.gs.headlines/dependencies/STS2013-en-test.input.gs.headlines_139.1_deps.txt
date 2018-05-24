@@ -1,0 +1,11 @@
+compound	orders	UN
+compound	orders	security
+compound	orders	council
+root	ROOT	orders
+amod	sanctions	global
+dobj	orders	sanctions
+case	network	against
+compound	network	Haqqani
+nmod:against	sanctions	network
+case	Afghanistan	in
+nmod:in	network	Afghanistan

@@ -1,0 +1,9 @@
+nsubj	Erupts	6
+acl	6	Killed
+case	Lava	by
+compound	Lava	Hot
+nmod:by	Killed	Lava
+case	Volcano	as
+compound	Volcano	Indonesia
+nmod:as	Killed	Volcano
+root	ROOT	Erupts

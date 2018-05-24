@@ -1,0 +1,10 @@
+advmod	whithin	when
+det	switch	a
+nsubj	whithin	switch
+cc	switch	and
+conj:and	switch	bulb
+cop	whithin	are
+root	ROOT	whithin
+det	path	a
+amod	path	closed
+dobj	whithin	path

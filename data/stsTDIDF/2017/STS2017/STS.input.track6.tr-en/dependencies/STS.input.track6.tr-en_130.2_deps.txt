@@ -1,0 +1,10 @@
+det	man	A
+nsubj	subway	man
+acl	man	wearing
+det	vest	a
+dobj	wearing	vest
+cop	subway	is
+case	subway	on
+det	subway	a
+root	ROOT	subway
+punct	subway	.

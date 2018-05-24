@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cleaning	man
+aux	cleaning	is
+root	ROOT	cleaning
+det	door	a
+compound	door	glass
+dobj	cleaning	door
+punct	cleaning	.

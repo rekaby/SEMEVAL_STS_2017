@@ -1,0 +1,9 @@
+amod	court	Israeli
+amod	court	military
+nsubj	rejects	court
+root	ROOT	rejects
+compound	striker	appeal
+case	hunger	of
+amod	hunger	Palestinian
+nmod:of	appeal	hunger
+dobj	rejects	striker

@@ -1,0 +1,8 @@
+root	ROOT	bulbs
+nsubj	affect	a
+cc	a	and
+conj:and	a	c
+acl:relcl	bulbs	affect
+det	other	each
+dobj	affect	other
+punct	bulbs	.

@@ -1,0 +1,8 @@
+det	monkey	A
+nsubj	karate	monkey
+cop	karate	is
+root	ROOT	karate
+xcomp	karate	kicking
+det	person	a
+dobj	kicking	person
+punct	karate	.

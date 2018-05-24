@@ -1,0 +1,17 @@
+det	season	The
+amod	season	upcoming
+amod	season	second-quarter
+compound	season	earnings
+nsubj	important	season
+aux	important	will
+cop	important	be
+advmod	important	particularly
+ccomp	say	important
+mark	offering	in
+advcl	important	offering
+compound	guidance	investors
+dobj	offering	guidance
+punct	say	,
+nsubj	say	they
+root	ROOT	say
+punct	say	.

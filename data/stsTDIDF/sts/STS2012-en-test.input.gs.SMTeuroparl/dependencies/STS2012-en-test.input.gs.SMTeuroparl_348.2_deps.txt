@@ -1,0 +1,9 @@
+det	fishermen	The
+nsubj	idle	fishermen
+cop	idle	are
+root	ROOT	idle
+punct	idle	,
+conj:and	idle	tired
+cc	idle	and
+conj:and	idle	disappointed
+punct	idle	.

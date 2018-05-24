@@ -1,0 +1,23 @@
+root	ROOT	PUT
+compound:prt	PUT	UP
+amod	NUKES	YOUR
+dobj	PUT	NUKES
+punct	dukes	-LSB-
+appos	NUKES	dukes
+punct	dukes	-RSB-
+punct	PUT	!-8) punct(says-4, ``
+compound	Korea	North
+nsubj	says	Korea
+root	ROOT	says
+amod	test	new
+amod	test	nuclear
+nsubj	part	test
+aux	part	will
+cop	part	be
+ccomp	says	part
+case	fight	of
+nmod:of	part	fight
+case	U.S.	against
+nmod:against	fight	U.S.
+punct	U.S.	''
+nsubj	says	jacques

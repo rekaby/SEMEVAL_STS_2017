@@ -1,0 +1,4 @@
+goes	Girl	nsubj
+goes	rope	nmod:beyond
+rope	beyond	case
+rope	the	det

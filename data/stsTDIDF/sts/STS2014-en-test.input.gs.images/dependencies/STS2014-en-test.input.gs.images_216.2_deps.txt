@@ -1,0 +1,8 @@
+root	ROOT	People
+acl	People	riding
+dobj	riding	horses
+case	area	in
+det	area	a
+amod	area	fenced
+nmod:in	riding	area
+punct	People	.

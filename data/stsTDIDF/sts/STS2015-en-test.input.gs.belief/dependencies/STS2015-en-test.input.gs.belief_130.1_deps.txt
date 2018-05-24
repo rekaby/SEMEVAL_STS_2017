@@ -1,0 +1,10 @@
+aux	take	does
+nsubj	take	anyone
+advmod	take	even
+root	ROOT	take
+det	garbage	this
+dobj	take	garbage
+advmod	take	seriously
+det	days	these
+nmod:tmod	take	days
+punct	take	?

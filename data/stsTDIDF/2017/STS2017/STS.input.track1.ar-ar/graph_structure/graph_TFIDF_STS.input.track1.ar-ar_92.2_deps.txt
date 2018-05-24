@@ -1,0 +1,6 @@
+player	baseball	compound
+player	wearing	acl
+color	white	amod
+wearing	color	dobj
+are	player	nsubj
+color	a	det

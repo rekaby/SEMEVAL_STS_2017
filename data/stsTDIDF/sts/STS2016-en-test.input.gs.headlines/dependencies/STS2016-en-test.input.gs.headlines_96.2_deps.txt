@@ -1,0 +1,6 @@
+amod	Maldives	Crisis-hit
+nsubj	holds	Maldives
+root	ROOT	holds
+amod	poll	new
+amod	poll	presidential
+dobj	holds	poll

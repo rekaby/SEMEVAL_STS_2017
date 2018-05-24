@@ -1,0 +1,18 @@
+mark	reach	To
+root	ROOT	reach
+compound	Dvorak	John
+compound	Dvorak	A.
+dobj	reach	Dvorak
+punct	Dvorak	,
+nsubj	covers	who
+acl:relcl	Dvorak	covers
+dobj	covers	Kansas
+punct	Kansas	,
+compound	-LRB-816-RRB- 234-7743	call
+conj:or	Kansas	-LRB-816-RRB- 234-7743
+cc	Kansas	or
+conj:or	Kansas	send
+dobj	send	e-mail
+case	jdvorak@kctar.com	to
+nmod:to	send	jdvorak@kctar.com
+punct	reach	.

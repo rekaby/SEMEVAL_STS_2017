@@ -1,0 +1,7 @@
+compound	assembly	Venezuela
+nsubj	meets	assembly
+root	ROOT	meets
+case	crisis	amid
+compound	crisis	Chavez
+compound	crisis	health
+nmod:amid	meets	crisis

@@ -1,0 +1,13 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+nsubj	have	we
+ccomp	think	have
+det	theory	a
+amod	theory	solid
+dobj	have	theory
+case	speciation	of
+compound	speciation	mammal
+nmod:of	theory	speciation
+punct	think	.

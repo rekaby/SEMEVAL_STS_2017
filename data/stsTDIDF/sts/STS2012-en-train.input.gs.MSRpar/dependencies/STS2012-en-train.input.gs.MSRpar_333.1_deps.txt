@@ -1,0 +1,17 @@
+det	conversations	Those
+nsubj	taken	conversations
+aux	taken	had
+neg	taken	not
+root	ROOT	taken
+dobj	taken	place
+case	night	as
+mwe	as	of
+compound	night	Tuesday
+nmod:as_of	taken	night
+punct	taken	,
+case	spokeswoman	according
+mwe	according	to
+det	spokeswoman	an
+compound	spokeswoman	Oracle
+nmod:according_to	taken	spokeswoman
+punct	taken	.

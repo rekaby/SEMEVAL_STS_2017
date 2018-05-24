@@ -1,0 +1,8 @@
+nsubjpass	put	Meat
+aux	put	is
+auxpass	put	being
+root	ROOT	put
+case	skillet	into
+det	skillet	a
+nmod:into	put	skillet
+punct	put	.

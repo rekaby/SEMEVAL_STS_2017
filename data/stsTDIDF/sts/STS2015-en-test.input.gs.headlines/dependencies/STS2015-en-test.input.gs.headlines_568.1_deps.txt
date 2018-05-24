@@ -1,0 +1,7 @@
+amod	rebels	Pro-Russia
+root	ROOT	rebels
+mark	hold	to
+acl	rebels	hold
+dobj	hold	vote
+case	Ukraine	in
+nmod:in	hold	Ukraine

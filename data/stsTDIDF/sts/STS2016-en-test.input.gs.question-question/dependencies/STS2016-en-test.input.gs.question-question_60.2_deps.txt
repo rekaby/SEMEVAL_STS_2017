@@ -1,0 +1,17 @@
+dobj	do	What
+aux	do	should
+nsubj	do	I
+root	ROOT	do
+mark	have	if
+nsubj	have	I
+advcl	do	have
+det	idea	an
+dobj	have	idea
+cc	have	but
+aux	work	ca
+neg	work	n't
+conj:but	have	work
+case	it	on
+nmod:on	work	it
+advmod	work	immediately
+punct	do	?

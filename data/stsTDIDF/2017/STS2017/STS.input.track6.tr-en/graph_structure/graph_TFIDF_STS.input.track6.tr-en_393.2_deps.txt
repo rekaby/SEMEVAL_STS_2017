@@ -1,0 +1,4 @@
+woman	to	case
+talks	woman	nmod:to
+talks	man	nsubj
+man	An	det

@@ -1,0 +1,6 @@
+resting	are	aux
+resting	.	punct
+grass	in	case
+resting	grass	nmod:in
+resting	people	nsubj
+ROOT	resting	root

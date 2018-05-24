@@ -1,0 +1,6 @@
+root	ROOT	Op-Docs
+punct	Op-Docs	:
+punct	Op-Docs	?-3) det(Long-2, The
+nsubj	Wait	Long
+root	ROOT	Wait
+punct	Wait	?

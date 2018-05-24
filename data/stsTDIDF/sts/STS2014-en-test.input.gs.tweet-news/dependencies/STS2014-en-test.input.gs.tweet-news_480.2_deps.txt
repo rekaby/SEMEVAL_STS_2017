@@ -1,0 +1,6 @@
+nsubj	is	Country
+case	economy	with
+amod	economy	freest
+nmod:with	Country	economy
+root	ROOT	is
+punct	is	...

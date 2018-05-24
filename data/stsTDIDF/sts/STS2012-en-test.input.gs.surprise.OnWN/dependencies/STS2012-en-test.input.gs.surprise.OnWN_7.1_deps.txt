@@ -1,0 +1,10 @@
+det	device	a
+amod	device	removable
+root	ROOT	device
+nsubj	accessory	that
+cop	accessory	is
+det	accessory	an
+acl:relcl	device	accessory
+case	object	to
+amod	object	larger
+nmod:to	accessory	object

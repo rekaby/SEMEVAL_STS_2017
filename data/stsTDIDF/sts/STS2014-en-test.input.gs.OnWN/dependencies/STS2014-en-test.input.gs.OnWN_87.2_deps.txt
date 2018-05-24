@@ -1,0 +1,13 @@
+det	trait	the
+root	ROOT	trait
+mark	active	of
+cop	active	being
+acl	trait	active
+punct	trait	;
+dep	trait	moving
+cc	moving	or
+conj:or	moving	acting
+advmod	moving	rapidly
+cc	moving	and
+conj:and	moving	energetically
+punct	trait	.

@@ -1,0 +1,8 @@
+protest	spills	nmod:against
+spills	oil	compound
+ROOT	protest	root
+protest	A	det
+protest	.	punct
+protest	parade	conj:or
+protest	or	cc
+spills	against	case

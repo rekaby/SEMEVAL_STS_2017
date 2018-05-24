@@ -1,0 +1,14 @@
+mark	contained	because
+compound	C	bulb
+nsubjpass	contained	C
+auxpass	contained	was
+neg	contained	not
+advmod	contained	still
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery

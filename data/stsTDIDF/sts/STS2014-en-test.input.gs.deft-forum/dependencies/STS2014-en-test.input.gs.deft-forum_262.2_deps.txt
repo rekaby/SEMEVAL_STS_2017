@@ -1,0 +1,11 @@
+root	ROOT	wait
+case	contractions	for
+det	contractions	the
+nmod:for	wait	contractions
+mark	get	to
+xcomp	wait	get
+dobj	get	stronger
+cc	stronger	and
+conj:and	stronger	closer
+advmod	get	together
+punct	wait	.

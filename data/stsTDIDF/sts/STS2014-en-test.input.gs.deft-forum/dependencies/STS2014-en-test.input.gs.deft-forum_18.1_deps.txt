@@ -1,0 +1,10 @@
+nmod:poss	things	Hey
+punct	Hey	,
+appos	Hey	Blue-Eyes
+punct	Hey	,
+advmod	's	How
+case	Hey	's
+root	ROOT	things
+case	London	in
+nmod:in	things	London
+punct	things	?

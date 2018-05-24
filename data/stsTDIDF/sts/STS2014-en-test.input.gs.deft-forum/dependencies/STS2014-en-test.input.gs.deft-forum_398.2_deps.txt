@@ -1,0 +1,11 @@
+amod	theory	Atomic
+nsubj	opinion	theory
+cop	opinion	is
+neg	opinion	not
+det	opinion	an
+root	ROOT	opinion
+punct	opinion	,
+neg	belief	not
+det	belief	a
+appos	opinion	belief
+punct	opinion	.

@@ -1,0 +1,17 @@
+mark	blames	if
+nsubj	blames	india
+root	ROOT	blames
+amod	militants	foreign
+dobj	blames	militants
+nsubj	part	it
+cop	part	is
+acl:relcl	militants	part
+case	propaganda	of
+nmod:poss	propaganda	its
+nmod:of	part	propaganda
+mark	mislead	to
+acl	part	mislead
+det	community	the
+amod	community	international
+dobj	mislead	community
+punct	blames	.

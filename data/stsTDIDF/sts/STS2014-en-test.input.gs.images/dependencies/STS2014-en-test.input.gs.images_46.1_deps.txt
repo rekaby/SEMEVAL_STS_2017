@@ -1,0 +1,7 @@
+compound	airplane	Camouflage
+root	ROOT	airplane
+acl	airplane	sitting
+case	field	on
+amod	field	grassy
+nmod:on	sitting	field
+punct	airplane	.

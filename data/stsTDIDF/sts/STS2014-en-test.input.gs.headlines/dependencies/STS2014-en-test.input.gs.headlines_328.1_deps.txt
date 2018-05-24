@@ -1,0 +1,9 @@
+nsubj	visit	Kerry
+mark	visit	to
+root	ROOT	visit
+dobj	visit	Jordan
+punct	visit	,
+amod	peace	Israel-Palestinian
+dobj	visit	peace
+case	agenda	on
+nmod:on	peace	agenda

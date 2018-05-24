@@ -1,0 +1,17 @@
+nsubj	have	Seniors
+aux	have	would
+advmod	have	then
+root	ROOT	have
+mark	pay	to
+xcomp	have	pay
+nummod	percent	50
+nsubj	costs	percent
+case	drug	of
+nmod:poss	drug	their
+nmod:of	percent	drug
+ccomp	pay	costs
+compound:prt	costs	up
+case	$	to
+nmod:to	costs	$
+nummod	$	3,450
+punct	have	.

@@ -1,0 +1,8 @@
+compound	stock	Apple
+nsubj	plunges	stock
+root	ROOT	plunges
+nummod	%	11
+dobj	plunges	%
+case	disappointment	after
+compound	disappointment	earnings
+nmod:after	plunges	disappointment

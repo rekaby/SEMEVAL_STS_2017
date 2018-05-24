@@ -1,0 +1,11 @@
+amod	clash	Israeli
+compound	clash	police
+root	ROOT	clash
+case	protesters	with
+amod	protesters	Palestinian
+nmod:with	clash	protesters
+case	site	at
+amod	site	sensitive
+compound	site	Jerusalem
+amod	site	holy
+nmod:at	clash	site

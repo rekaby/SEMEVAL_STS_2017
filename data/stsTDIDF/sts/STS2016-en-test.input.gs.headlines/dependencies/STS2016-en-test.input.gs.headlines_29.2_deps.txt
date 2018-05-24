@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	warns	Korea
+root	ROOT	warns
+dobj	warns	foreigners
+case	South	in
+nmod:in	warns	South
+mark	evacuate	to
+advcl	warns	evacuate

@@ -1,0 +1,8 @@
+advmod	guess	so
+punct	guess	,
+nsubj	guess	i
+root	ROOT	guess
+nsubj	's	that
+acl:relcl	guess	's
+dobj	's	it
+punct	guess	.

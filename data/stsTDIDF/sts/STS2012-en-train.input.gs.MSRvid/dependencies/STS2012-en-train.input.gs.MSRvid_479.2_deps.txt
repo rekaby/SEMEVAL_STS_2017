@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+det	pepper	a
+amod	pepper	red
+dobj	slicing	pepper
+punct	slicing	.

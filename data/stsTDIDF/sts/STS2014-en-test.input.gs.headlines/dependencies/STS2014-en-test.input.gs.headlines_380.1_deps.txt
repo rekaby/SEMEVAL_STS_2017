@@ -1,0 +1,8 @@
+amod	fire	Egyptian
+compound	fire	police
+nsubj	tear	fire
+root	ROOT	tear
+dobj	tear	gas
+case	Brotherhood	at
+nmod:at	tear	Brotherhood
+dobj	tear	protesters

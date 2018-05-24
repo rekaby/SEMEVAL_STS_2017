@@ -1,0 +1,9 @@
+root	ROOT	Perform
+det	action	an
+dobj	Perform	action
+case	intent	with
+det	intent	an
+nmod:with	action	intent
+mark	deceive	to
+acl	intent	deceive
+punct	Perform	.

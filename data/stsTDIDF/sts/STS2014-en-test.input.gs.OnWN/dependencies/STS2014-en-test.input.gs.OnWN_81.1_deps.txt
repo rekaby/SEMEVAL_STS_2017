@@ -1,0 +1,14 @@
+punct	cause	-LRB-
+nsubj	ease	cause
+case	relax	to
+punct	relax	-RRB-
+nmod:to	cause	relax
+punct	cause	,
+cop	ease	be
+case	ease	at
+root	ROOT	ease
+punct	ease	,
+dep	ease	assume
+det	manner	a
+amod	manner	friendly
+dobj	assume	manner

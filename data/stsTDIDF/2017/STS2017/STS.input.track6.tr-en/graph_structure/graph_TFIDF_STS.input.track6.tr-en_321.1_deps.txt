@@ -1,0 +1,6 @@
+making	laugh	xcomp
+members	audience	compound
+laugh	members	nsubj
+is	clown	nsubj
+clown	making	acl
+clown	a	det

@@ -1,0 +1,9 @@
+dep	is	Yes
+punct	is	,
+expl	is	there
+root	ROOT	is
+det	rule	a
+nsubj	is	rule
+case	this	against
+nmod:against	rule	this
+punct	is	.

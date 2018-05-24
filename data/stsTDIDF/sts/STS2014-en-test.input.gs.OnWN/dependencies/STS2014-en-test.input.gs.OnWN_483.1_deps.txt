@@ -1,0 +1,10 @@
+root	ROOT	cause
+mark	turn	to
+xcomp	cause	turn
+case	course	from
+nummod	course	one
+nmod:from	turn	course
+cc	turn	or
+conj:or	turn	use
+case	another	to
+nmod:to	use	another

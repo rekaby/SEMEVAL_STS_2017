@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	tapping	girl
+aux	tapping	is
+root	ROOT	tapping
+nmod:poss	nails	her
+compound	nails	finger
+dobj	tapping	nails
+punct	tapping	.

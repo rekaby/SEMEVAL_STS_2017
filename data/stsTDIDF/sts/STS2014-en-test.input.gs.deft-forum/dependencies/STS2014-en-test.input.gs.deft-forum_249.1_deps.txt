@@ -1,0 +1,10 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	need	you
+ccomp	think	need
+mark	reread	to
+xcomp	need	reread
+dobj	wrote	what
+nsubj	wrote	I
+ccomp	reread	wrote
+punct	think	.

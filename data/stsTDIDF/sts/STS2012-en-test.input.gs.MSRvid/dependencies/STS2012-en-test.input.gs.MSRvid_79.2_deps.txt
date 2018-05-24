@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	licking	dog
+aux	licking	is
+root	ROOT	licking
+det	baby	a
+dobj	licking	baby
+punct	licking	.

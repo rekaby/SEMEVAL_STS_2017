@@ -1,0 +1,14 @@
+det	woman	A
+amod	woman	red-haired
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	beret	a
+amod	beret	black
+dobj	wearing	beret
+acl	beret	adorned
+case	flag	with
+det	flag	the
+amod	flag	American
+nmod:with	adorned	flag
+punct	wearing	.

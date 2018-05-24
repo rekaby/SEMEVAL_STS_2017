@@ -1,0 +1,10 @@
+nsubj	returns	Australia
+nsubj	transfer	returns
+compound	seekers	asylum
+dobj	returns	seekers
+case	Lanka	to
+compound	Lanka	Sri
+nmod:to	returns	Lanka
+case	sea	in
+nmod:in	returns	sea
+root	ROOT	transfer

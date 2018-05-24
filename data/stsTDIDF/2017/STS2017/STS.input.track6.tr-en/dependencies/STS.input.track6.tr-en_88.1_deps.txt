@@ -1,0 +1,8 @@
+det	men	The
+nsubj	doing	men
+aux	doing	are
+root	ROOT	doing
+dobj	doing	this
+case	fun	for
+nmod:for	this	fun
+punct	doing	.

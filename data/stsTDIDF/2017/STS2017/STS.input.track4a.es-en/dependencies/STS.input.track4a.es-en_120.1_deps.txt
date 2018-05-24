@@ -1,0 +1,7 @@
+nsubj	drink	Dogs
+root	ROOT	drink
+det	water	some
+dobj	drink	water
+case	grass	in
+det	grass	the
+nmod:in	drink	grass

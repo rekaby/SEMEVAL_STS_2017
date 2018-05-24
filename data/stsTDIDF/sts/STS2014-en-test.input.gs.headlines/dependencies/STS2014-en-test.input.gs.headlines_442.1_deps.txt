@@ -1,0 +1,7 @@
+amod	Brotherhood	Muslim
+compound	supporter	Brotherhood
+nsubj	dies	supporter
+root	ROOT	dies
+case	Cairo	in
+nmod:in	dies	Cairo
+dobj	dies	clash

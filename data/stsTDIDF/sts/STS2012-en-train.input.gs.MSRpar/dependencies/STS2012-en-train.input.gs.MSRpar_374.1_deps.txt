@@ -1,0 +1,11 @@
+det	Bishop	The
+nsubj	forthright	Bishop
+case	Armidale	of
+nmod:of	Bishop	Armidale
+punct	Bishop	,
+compound	Brain	Peter
+appos	Bishop	Brain
+punct	Bishop	,
+cop	forthright	was
+root	ROOT	forthright
+punct	forthright	.

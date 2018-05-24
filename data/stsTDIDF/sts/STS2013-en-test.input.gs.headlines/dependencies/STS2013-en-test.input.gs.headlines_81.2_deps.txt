@@ -1,0 +1,4 @@
+nsubj	released	Mandela
+root	ROOT	released
+case	hospital	from
+nmod:from	released	hospital

@@ -1,0 +1,12 @@
+root	ROOT	rslw
+punct	rslw	:
+mark	horrible	because
+nsubj	horrible	they
+cop	horrible	are
+amod	brutes	horrible
+punct	brutes	,
+amod	brutes	fascist
+compound	brutes	skin
+compound	brutes	head
+dep	rslw	brutes
+punct	rslw	.

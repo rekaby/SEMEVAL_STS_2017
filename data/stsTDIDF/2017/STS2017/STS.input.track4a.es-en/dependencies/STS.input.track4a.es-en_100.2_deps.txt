@@ -1,0 +1,13 @@
+det	human	The
+nsubj	has	human
+root	ROOT	has
+det	things	some
+amod	things	floating
+dobj	has	things
+advmod	has	while
+case	stuff	in
+det	stuff	the
+amod	stuff	white
+amod	stuff	hard
+nmod:in	while	stuff
+punct	has	.

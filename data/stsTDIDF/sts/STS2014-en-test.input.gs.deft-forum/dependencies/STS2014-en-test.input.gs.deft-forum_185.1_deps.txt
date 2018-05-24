@@ -1,0 +1,15 @@
+nsubj	read	h
+cc	h	and
+conj:and	h	i
+cc:preconj	read	both
+root	ROOT	read
+det	books	the
+dobj	read	books
+cc	read	and
+conj:and	read	thought
+det	movie	the
+nsubj	moved	movie
+ccomp	thought	moved
+advmod	quickly	so
+advmod	moved	quickly
+punct	read	.

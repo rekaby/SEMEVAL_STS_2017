@@ -1,0 +1,7 @@
+nsubj	faces	Israel
+root	ROOT	faces
+amod	backlash	European
+dobj	faces	backlash
+case	plan	over
+compound	plan	settlement
+nmod:over	backlash	plan

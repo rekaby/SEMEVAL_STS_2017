@@ -1,0 +1,7 @@
+det	digging	A
+compound	digging	dog
+root	ROOT	digging
+case	sand	in
+det	sand	the
+nmod:in	digging	sand
+punct	digging	.

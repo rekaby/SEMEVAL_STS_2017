@@ -1,0 +1,8 @@
+compound	boards	Ahmadinejad
+root	ROOT	boards
+case	adventure	in
+det	adventure	an
+nmod:in	boards	adventure
+punct	adventure	,
+advmod	adventure	then
+punct	boards	.

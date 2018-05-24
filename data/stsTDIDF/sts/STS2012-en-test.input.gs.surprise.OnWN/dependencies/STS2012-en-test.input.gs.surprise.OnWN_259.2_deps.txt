@@ -1,0 +1,10 @@
+amod	term	British
+root	ROOT	term
+case	compartment	for
+det	compartment	the
+compound	compartment	luggage
+nmod:for	term	compartment
+case	car	in
+det	car	a
+nmod:in	compartment	car
+punct	term	.

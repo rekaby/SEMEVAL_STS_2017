@@ -1,0 +1,9 @@
+compound	Senate	US
+nsubj	confirms	Senate
+root	ROOT	confirms
+dobj	confirms	Yellen
+case	chair	as
+nmod:poss	chair	Fed
+case	Fed	's
+amod	chair	next
+nmod:as	Yellen	chair

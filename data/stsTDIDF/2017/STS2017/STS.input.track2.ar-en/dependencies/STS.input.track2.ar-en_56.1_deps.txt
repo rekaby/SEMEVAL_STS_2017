@@ -1,0 +1,10 @@
+det	man	the
+nsubj	using	man
+aux	using	is
+root	ROOT	using
+det	suit	a
+compound	suit	heat
+nsubj	control	suit
+ccomp	using	control
+det	flame	the
+dobj	control	flame

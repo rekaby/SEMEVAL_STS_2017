@@ -1,0 +1,16 @@
+det	group	A
+nsubj	dancing	group
+case	people	of
+nmod:of	group	people
+case	clothing	in
+amod	clothing	dark
+amod	clothing	colored
+nmod:in	people	clothing
+cop	dancing	are
+compound	dancing	line
+root	ROOT	dancing
+case	floor	on
+det	floor	a
+amod	floor	wooden
+nmod:on	dancing	floor
+punct	dancing	.

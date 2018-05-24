@@ -1,0 +1,16 @@
+compound	Monk	Roseanna
+nsubj	said	Monk
+root	ROOT	said
+nsubj	left	she
+ccomp	said	left
+case	door	near
+det	door	the
+nmod:near	left	door
+cc	left	and
+conj:and	left	put
+compound	daughter	her
+dobj	put	daughter
+case	moment	for
+det	moment	a
+nmod:for	put	moment
+punct	said	.

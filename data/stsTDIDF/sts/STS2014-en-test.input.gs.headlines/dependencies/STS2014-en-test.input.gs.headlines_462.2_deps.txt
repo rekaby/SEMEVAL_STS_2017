@@ -1,0 +1,6 @@
+nsubj	unveils	Israel
+root	ROOT	unveils
+nummod	homes	1,800
+advmod	settler	more
+amod	homes	settler
+dobj	unveils	homes

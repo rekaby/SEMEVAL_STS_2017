@@ -1,0 +1,13 @@
+det	theme	a
+root	ROOT	theme
+nsubjpass	repeated	that
+auxpass	repeated	is
+acl:relcl	theme	repeated
+cc	repeated	or
+conj:or	repeated	elaborated
+case	piece	in
+det	piece	a
+nmod:in	repeated	piece
+case	music	of
+nmod:of	piece	music
+punct	theme	.

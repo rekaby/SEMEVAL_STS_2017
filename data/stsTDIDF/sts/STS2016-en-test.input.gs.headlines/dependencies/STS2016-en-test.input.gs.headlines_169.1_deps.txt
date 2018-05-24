@@ -1,0 +1,6 @@
+compound	Blog	Live
+root	ROOT	Blog
+punct	Blog	:
+dep	Blog	Ukraine
+case	Crisis	In
+nmod:in	Ukraine	Crisis

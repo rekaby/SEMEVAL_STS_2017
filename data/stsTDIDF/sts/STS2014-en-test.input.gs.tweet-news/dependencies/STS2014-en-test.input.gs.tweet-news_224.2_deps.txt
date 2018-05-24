@@ -1,0 +1,11 @@
+case	words	In
+nmod:poss	words	his
+amod	words	own
+nmod:in	Te'o	words
+punct	Te'o	:
+compound	Te'o	Manti
+root	ROOT	Te'o
+case	death	on
+nmod:poss	death	girlfriend
+case	girlfriend	's
+nmod:on	Te'o	death

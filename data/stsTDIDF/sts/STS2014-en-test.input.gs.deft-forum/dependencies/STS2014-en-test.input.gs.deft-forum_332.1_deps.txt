@@ -1,0 +1,9 @@
+root	ROOT	Higher
+case	cent	than
+case	cent	per
+nmod:per	Higher	cent
+cc	Higher	but
+neg	high	not
+advmod	high	very
+conj:but	Higher	high
+punct	Higher	.

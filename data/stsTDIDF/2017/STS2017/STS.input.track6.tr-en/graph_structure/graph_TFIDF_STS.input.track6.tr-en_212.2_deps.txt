@@ -1,0 +1,8 @@
+bring	pass	conj:and
+child	another	det
+hands	child	nmod:poss
+bring	children	nsubj
+hands	under	case
+bring	together	advmod
+bring	hands	dobj
+pass	hands	nmod:under

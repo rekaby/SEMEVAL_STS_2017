@@ -1,0 +1,11 @@
+punct	ZmerchNews	``
+dep	ZmerchNews	Tennis
+punct	ZmerchNews	:
+amod	ZmerchNews	Djokovic
+compound	ZmerchNews	claims
+amod	ZmerchNews	Aussie
+compound	ZmerchNews	triumph
+root	ROOT	ZmerchNews
+compound	Com	dot
+dep	ZmerchNews	Com
+punct	ZmerchNews	''

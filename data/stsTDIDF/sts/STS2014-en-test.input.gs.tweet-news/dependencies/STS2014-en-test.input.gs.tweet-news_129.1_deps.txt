@@ -1,0 +1,9 @@
+case	France	In
+root	ROOT	France
+punct	France	,
+compound	rally	Protesters
+root	,	rally
+mark	allowing	against
+acl	rally	allowing
+amod	marriage	same-sex
+dobj	allowing	marriage

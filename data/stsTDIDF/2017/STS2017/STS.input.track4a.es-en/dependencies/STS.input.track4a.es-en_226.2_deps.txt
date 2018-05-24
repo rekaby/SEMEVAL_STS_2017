@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	process	woman
+cop	process	is
+case	process	in
+det	process	the
+root	ROOT	process
+mark	changing	of
+acl	process	changing
+nmod:poss	clothes	her
+dobj	changing	clothes
+case	date	for
+nmod:poss	date	her
+amod	date	big
+nmod:for	changing	date
+nmod:tmod	date	tonight
+punct	process	.

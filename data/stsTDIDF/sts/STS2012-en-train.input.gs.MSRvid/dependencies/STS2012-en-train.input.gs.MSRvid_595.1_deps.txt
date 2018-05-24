@@ -1,0 +1,7 @@
+det	boat	A
+nsubj	sails	boat
+root	ROOT	sails
+case	water	along
+det	water	the
+nmod:along	sails	water
+punct	sails	.

@@ -1,0 +1,10 @@
+det	activity	the
+root	ROOT	activity
+case	managing	of
+nmod:of	activity	managing
+cc	managing	or
+compound	control	exerting
+conj:or	managing	control
+case	something	over
+nmod:over	activity	something
+punct	activity	.

@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	cyclists	of
+nmod:of	group	cyclists
+case	green	in
+nmod:in	cyclists	green
+cc	green	and
+conj:and	green	white
+case	spectators	with
+nmod:with	group	spectators
+acl	spectators	looking
+nmod	looking	on
+punct	group	.

@@ -1,0 +1,7 @@
+root	ROOT	make
+dobj	make	something
+advmod	diverse	more
+amod	something	diverse
+cc	make	and
+conj:and	make	varied
+punct	make	.

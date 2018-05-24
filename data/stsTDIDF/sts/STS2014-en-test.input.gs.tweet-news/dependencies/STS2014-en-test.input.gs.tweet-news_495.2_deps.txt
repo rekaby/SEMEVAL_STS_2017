@@ -1,0 +1,9 @@
+det	Bradys	The
+amod	Bradys	new
+punct	Bradys	`
+root	ROOT	Bradys
+punct	Bradys	'
+case	control	of
+compound	control	gun
+nmod:of	Bradys	control
+punct	Bradys	?

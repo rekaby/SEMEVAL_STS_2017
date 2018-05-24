@@ -1,0 +1,9 @@
+root	ROOT	US
+punct	US	:
+nsubj	used	Assad
+dep	US	used
+amod	weapons	chemical
+dobj	used	weapons
+case	Syria	on
+nmod:on	used	Syria
+dobj	used	rebels

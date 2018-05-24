@@ -1,0 +1,13 @@
+compound	object	point
+cc	point	or
+conj:or	point	direct
+root	ROOT	object
+punct	object	,
+conj:or	object	weapon
+punct	object	,
+cc	object	or
+conj:or	object	blow
+case	something	at
+nmod:at	blow	something
+cc	object	or
+conj:or	object	someone

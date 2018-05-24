@@ -1,0 +1,11 @@
+bending	man	nsubj
+park	woman	nmod:next_to
+bending	.	punct
+bike	on	case
+bending	is	aux
+woman	next	case
+bending	park	nmod:in
+ROOT	bending	root
+bending	down	compound:prt
+bike	a	det
+woman	bike	nmod:on

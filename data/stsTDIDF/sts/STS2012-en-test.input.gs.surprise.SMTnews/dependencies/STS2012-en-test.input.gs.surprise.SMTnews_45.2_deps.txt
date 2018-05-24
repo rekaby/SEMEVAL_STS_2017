@@ -1,0 +1,17 @@
+det	Pax	The
+amod	Pax	large
+compound	Pax	Europa
+nsubj	depends	Pax
+nmod:tmod	Pax	today
+punct	Pax	,
+advmod	prosperity	just
+case	prosperity	as
+det	prosperity	the
+amod	prosperity	current
+amod	prosperity	pan-European
+nmod:as	Pax	prosperity
+punct	Pax	,
+root	ROOT	depends
+case	it	on
+nmod:on	depends	it
+punct	depends	.

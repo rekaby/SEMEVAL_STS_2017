@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	mixing	woman
+aux	mixing	is
+root	ROOT	mixing
+det	cream	a
+dobj	mixing	cream
+case	glass	in
+det	glass	a
+nmod:in	mixing	glass
+case	spoon	with
+det	spoon	a
+nmod:with	glass	spoon
+punct	mixing	.

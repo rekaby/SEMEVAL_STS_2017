@@ -1,0 +1,8 @@
+amod	Korean	South
+amod	Workers	Korean
+nsubj	Start	Workers
+root	ROOT	Start
+case	Zone	Leaving
+compound	Zone	Joint
+compound	Zone	Factory
+nmod:leaving	Start	Zone

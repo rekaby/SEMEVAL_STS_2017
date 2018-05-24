@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	catching	dog
+aux	catching	is
+root	ROOT	catching
+det	fish	a
+dobj	catching	fish
+case	river	in
+det	river	a
+nmod:in	catching	river
+punct	catching	.

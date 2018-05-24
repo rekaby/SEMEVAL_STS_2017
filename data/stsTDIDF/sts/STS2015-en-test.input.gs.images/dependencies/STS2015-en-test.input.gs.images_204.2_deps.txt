@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+root	ROOT	dog
+case	collar	with
+det	collar	a
+amod	collar	red
+nmod:with	dog	collar
+acl	collar	wading
+case	water	through
+det	water	the
+nmod:through	wading	water
+punct	dog	.

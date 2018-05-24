@@ -1,0 +1,11 @@
+nummod	boys	Three
+nsubj	running	boys
+aux	running	are
+root	ROOT	running
+case	beach	on
+det	beach	the
+nmod:on	running	beach
+acl	beach	playing
+det	game	a
+dobj	playing	game
+punct	running	.

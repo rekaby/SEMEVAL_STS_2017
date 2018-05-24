@@ -1,0 +1,13 @@
+nsubj	responsibility	it
+cop	responsibility	's
+det	citizens	the
+amod	citizens	individual
+nmod:poss	responsibility	citizens
+case	citizens	'
+root	ROOT	responsibility
+mark	fund	to
+acl	responsibility	fund
+nmod:poss	behavior	their
+amod	behavior	own
+dobj	fund	behavior
+punct	responsibility	.

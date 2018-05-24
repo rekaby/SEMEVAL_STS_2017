@@ -1,0 +1,10 @@
+det	bird	A
+amod	bird	yellow
+root	ROOT	bird
+acl	bird	eating
+dobj	eating	fruit
+case	feeder	on
+det	feeder	a
+compound	feeder	bird
+nmod:on	eating	feeder
+punct	bird	.

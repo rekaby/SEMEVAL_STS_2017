@@ -1,0 +1,8 @@
+compound	Schools	East
+compound	Schools	Timor
+compound	Schools	Bans
+compound	Schools	Martial
+compound	Schools	Arts
+root	ROOT	Schools
+case	Killings	Amid
+nmod:amid	Schools	Killings

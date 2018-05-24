@@ -1,0 +1,9 @@
+root	ROOT	Protests
+mark	acquitted	after
+compound	Zimmerman	George
+nsubj	acquitted	Zimmerman
+acl	Protests	acquitted
+case	case	in
+compound	case	Trayvon
+compound	case	Martin
+nmod:in	acquitted	case

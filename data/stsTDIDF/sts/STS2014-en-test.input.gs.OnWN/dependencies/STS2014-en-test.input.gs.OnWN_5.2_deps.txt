@@ -1,0 +1,9 @@
+root	ROOT	make
+xcomp	make	pure
+cc	pure	or
+conj:or	pure	free
+case	sin	from
+nmod:from	pure	sin
+cc	sin	or
+conj:or	sin	guilt
+punct	make	.

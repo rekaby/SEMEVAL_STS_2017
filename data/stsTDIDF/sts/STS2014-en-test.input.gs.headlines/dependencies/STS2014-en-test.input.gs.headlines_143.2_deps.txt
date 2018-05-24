@@ -1,0 +1,6 @@
+nsubj	puts	Obama
+root	ROOT	puts
+nsubj	strike	Syria
+ccomp	puts	strike
+case	hold	on
+nmod:on	strike	hold

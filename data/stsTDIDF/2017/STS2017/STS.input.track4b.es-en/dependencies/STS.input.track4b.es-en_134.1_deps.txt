@@ -1,0 +1,15 @@
+nsubj	town	I
+cop	town	am
+case	town	in
+det	town	the
+amod	town	small
+root	ROOT	town
+case	Fagernes	of
+nmod:of	town	Fagernes
+punct	town	,
+advmod	three	about
+nummod	hours	three
+appos	town	hours
+case	Oslo	from
+nmod:from	hours	Oslo
+punct	town	.

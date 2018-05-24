@@ -1,0 +1,7 @@
+go	taxis	nsubj
+taxis	bicycles	conj:and
+store	same	amod
+go	store	nmod:to
+taxis	Yellow	amod
+store	to	case
+taxis	and	cc

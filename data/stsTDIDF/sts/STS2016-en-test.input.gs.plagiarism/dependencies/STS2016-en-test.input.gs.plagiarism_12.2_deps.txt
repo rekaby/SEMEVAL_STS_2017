@@ -1,0 +1,16 @@
+det	use	A
+amod	use	possible
+nsubj	retrieval	use
+case	model	for
+det	model	a
+compound	model	vector
+compound	model	space
+nmod:for	use	model
+cop	retrieval	is
+case	retrieval	for
+root	ROOT	retrieval
+cc	retrieval	and
+conj:and	retrieval	filtering
+case	information	of
+nmod:of	filtering	information
+punct	retrieval	.

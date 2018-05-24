@@ -1,0 +1,14 @@
+det	man	A
+nsubj	sleeping	man
+case	jacket	in
+det	jacket	a
+amod	jacket	black
+compound	jacket	leather
+nmod:in	man	jacket
+aux	sleeping	is
+root	ROOT	sleeping
+case	car	in
+det	car	a
+compound	car	subway
+nmod:in	sleeping	car
+punct	sleeping	.

@@ -1,0 +1,11 @@
+nsubj	got	We
+neg	got	never
+root	ROOT	got
+case	it	out
+mwe	out	of
+nmod:out_of	got	it
+case	place	in
+det	place	the
+amod	place	first
+nmod:in	got	place
+punct	got	!

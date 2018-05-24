@@ -1,0 +1,8 @@
+nsubj	sitting	Approval
+case	Minutes	of
+det	Minutes	the
+nmod:of	Approval	Minutes
+case	previous	of
+det	previous	the
+nmod:of	Minutes	previous
+root	ROOT	sitting

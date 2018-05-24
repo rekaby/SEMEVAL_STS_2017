@@ -1,0 +1,7 @@
+det	person	A
+nsubj	buttering	person
+aux	buttering	is
+root	ROOT	buttering
+det	tray	a
+dobj	buttering	tray
+punct	buttering	.

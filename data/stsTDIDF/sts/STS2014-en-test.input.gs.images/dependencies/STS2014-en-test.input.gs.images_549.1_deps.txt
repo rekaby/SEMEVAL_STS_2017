@@ -1,0 +1,8 @@
+nummod	lambs	Two
+nsubj	stand	lambs
+root	ROOT	stand
+case	hill	on
+det	hill	a
+amod	hill	grassy
+nmod:on	stand	hill
+punct	stand	.

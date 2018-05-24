@@ -1,0 +1,9 @@
+nsubj	held	Man
+root	ROOT	held
+case	attack	after
+compound	attack	subway
+nmod:after	held	attack
+case	omg	in
+compound	omg	Philadelphia
+nmod:in	attack	omg
+punct	held	!

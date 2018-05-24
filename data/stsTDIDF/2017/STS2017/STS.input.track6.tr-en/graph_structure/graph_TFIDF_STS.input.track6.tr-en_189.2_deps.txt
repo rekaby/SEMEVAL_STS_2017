@@ -1,0 +1,9 @@
+tired	are	auxpass
+tired	runners	nsubjpass
+runners	two	nummod
+end	race	nmod:of
+race	runway	compound
+tired	.	punct
+runners	The	det
+tired	end	nmod:at
+ROOT	tired	root

@@ -1,0 +1,10 @@
+advmod	care	perhaps
+nsubj	care	you
+aux	care	would
+root	ROOT	care
+mark	offer	to
+xcomp	care	offer
+det	theory	an
+amod	theory	alternate
+dobj	offer	theory
+punct	care	.

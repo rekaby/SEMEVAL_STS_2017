@@ -1,0 +1,13 @@
+det	bulldog	A
+root	ROOT	bulldog
+acl	bulldog	sitting
+case	chair	on
+det	chair	a
+amod	chair	yellow
+nmod:on	sitting	chair
+case	receptacle	beside
+det	receptacle	a
+amod	receptacle	large
+compound	receptacle	waste
+nmod:beside	sitting	receptacle
+punct	bulldog	.

@@ -1,0 +1,10 @@
+root	ROOT	subject
+case	censorship	to
+amod	censorship	political
+punct	political	,
+conj:or	political	religious
+punct	political	,
+cc	political	or
+conj:or	political	moral
+nmod:to	subject	censorship
+punct	subject	.

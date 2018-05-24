@@ -1,0 +1,10 @@
+nmod:poss	gesture	Volkswagen
+case	Volkswagen	's
+punct	gesture	``
+root	ROOT	gesture
+case	goodwill	of
+nmod:of	gesture	goodwill
+punct	gesture	''
+case	owners	to
+compound	owners	diesel
+nmod:to	gesture	owners

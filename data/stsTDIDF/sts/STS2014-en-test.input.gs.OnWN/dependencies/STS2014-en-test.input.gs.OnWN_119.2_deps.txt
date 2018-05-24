@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	taking	of
+acl	act	taking
+dobj	taking	something
+nsubjpass	offered	that
+auxpass	offered	is
+acl:relcl	something	offered
+punct	act	.

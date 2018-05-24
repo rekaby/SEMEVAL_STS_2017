@@ -1,0 +1,6 @@
+root	ROOT	gap
+case	3	between
+nmod:between	gap	3
+cc	3	and
+conj:and	3	positive
+dep	3	battery

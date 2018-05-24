@@ -1,0 +1,9 @@
+compound	rockets	Gazans
+compound	rockets	fire
+nummod	rockets	89
+root	ROOT	rockets
+punct	rockets	;
+nsubj	approves	cabinet
+dep	rockets	approves
+compound	call-up	reserve
+dobj	approves	call-up

@@ -1,0 +1,8 @@
+amod	path	complete
+root	ROOT	path
+case	battery	including
+det	battery	a
+nmod:including	path	battery
+cc	battery	and
+det	bulb	a
+conj:and	battery	bulb

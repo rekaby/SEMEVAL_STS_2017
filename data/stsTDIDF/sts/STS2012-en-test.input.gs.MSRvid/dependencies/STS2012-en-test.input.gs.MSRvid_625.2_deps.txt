@@ -1,0 +1,9 @@
+det	man	The
+nsubj	played	man
+root	ROOT	played
+nmod:poss	guitar	his
+dobj	played	guitar
+case	friend	with
+det	friend	a
+nmod:with	played	friend
+punct	played	.

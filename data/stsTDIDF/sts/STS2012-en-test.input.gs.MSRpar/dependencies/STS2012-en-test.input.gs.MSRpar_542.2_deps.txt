@@ -1,0 +1,16 @@
+nsubjpass	paid	Dynes
+aux	paid	will
+auxpass	paid	be
+root	ROOT	paid
+dobj	paid	$
+nummod	$	395,000
+det	year	a
+nmod:npmod	$	year
+punct	paid	;
+nmod:poss	salary	Atkinson
+case	Atkinson	's
+nsubj	$	salary
+cop	$	is
+parataxis	paid	$
+nummod	$	361,400
+punct	paid	.

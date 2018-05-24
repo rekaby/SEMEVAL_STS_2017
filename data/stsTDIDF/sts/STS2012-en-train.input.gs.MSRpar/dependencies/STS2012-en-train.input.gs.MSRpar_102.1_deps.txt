@@ -1,0 +1,17 @@
+nsubjpass	held	Druce
+aux	held	is
+advmod	held	still
+auxpass	held	being
+ccomp	said	held
+case	prison	at
+det	prison	the
+nmod:at	held	prison
+cc	held	and
+cop	isolation	is
+advmod	isolation	now
+case	isolation	in
+conj:and	held	isolation
+punct	said	,
+nsubj	said	she
+root	ROOT	said
+punct	said	.

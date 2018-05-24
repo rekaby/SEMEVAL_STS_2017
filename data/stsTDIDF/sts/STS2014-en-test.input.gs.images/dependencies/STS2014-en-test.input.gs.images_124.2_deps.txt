@@ -1,0 +1,6 @@
+amod	couple	Young
+root	ROOT	couple
+acl	couple	sitting
+case	couch	on
+nmod:on	sitting	couch
+punct	couple	.

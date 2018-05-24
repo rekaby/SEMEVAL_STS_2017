@@ -1,0 +1,6 @@
+bike	race	nmod:in
+ROOT	bike	root
+bike	Women	compound
+bike	Arkpn	compound
+race	road	compound
+bike	.	punct

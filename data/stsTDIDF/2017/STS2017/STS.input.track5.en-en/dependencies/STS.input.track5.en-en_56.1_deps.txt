@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	has	dog
+root	ROOT	has
+det	sweater	a
+dobj	has	sweater
+nmod	has	on
+punct	has	.

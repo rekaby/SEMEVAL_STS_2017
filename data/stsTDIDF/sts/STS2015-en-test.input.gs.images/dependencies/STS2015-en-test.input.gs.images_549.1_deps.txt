@@ -1,0 +1,10 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	holding
+amod	flags	checkered
+dobj	holding	flags
+case	car	near
+det	car	an
+amod	car	orange
+nmod:near	holding	car
+punct	women	.

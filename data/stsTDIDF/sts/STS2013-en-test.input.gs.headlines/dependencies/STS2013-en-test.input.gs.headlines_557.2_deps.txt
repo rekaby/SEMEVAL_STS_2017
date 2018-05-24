@@ -1,0 +1,7 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+nummod	church	12
+case	Nigeria	in
+nmod:in	12	Nigeria
+dobj	kills	church

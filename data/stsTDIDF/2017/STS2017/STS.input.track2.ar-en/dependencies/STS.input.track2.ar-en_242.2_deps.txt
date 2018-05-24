@@ -1,0 +1,9 @@
+det	man	The
+nsubj	director	man
+case	room	in
+det	room	the
+nmod:in	man	room
+cop	director	is
+det	director	the
+root	ROOT	director
+punct	director	.

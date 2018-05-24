@@ -1,0 +1,6 @@
+det	cat	A
+nsubj	playing	cat
+aux	playing	is
+root	ROOT	playing
+dobj	playing	keyboards
+punct	playing	.

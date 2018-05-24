@@ -1,0 +1,15 @@
+compound	members	AFTRA
+nsubj	approved	members
+root	ROOT	approved
+det	merger	the
+dobj	approved	merger
+case	vote	by
+det	vote	a
+nmod:by	approved	vote
+case	%	of
+nummod	%	75.88
+nmod:of	vote	%
+case	%	to
+nummod	%	24.12
+nmod:to	vote	%
+punct	approved	.

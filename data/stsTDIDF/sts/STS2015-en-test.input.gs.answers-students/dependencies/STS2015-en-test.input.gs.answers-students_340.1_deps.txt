@@ -1,0 +1,14 @@
+det	switch	the
+nsubj	has	switch
+root	ROOT	has
+mark	path	to
+cop	path	be
+case	path	within
+det	path	a
+amod	path	closed
+xcomp	has	path
+case	bulb	with
+det	bulb	the
+nmod:with	path	bulb
+cc	path	and
+conj:and	path	battery

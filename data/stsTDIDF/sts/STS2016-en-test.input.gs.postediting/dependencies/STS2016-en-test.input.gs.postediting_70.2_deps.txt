@@ -1,0 +1,10 @@
+nsubj	one	This
+cop	one	is
+root	ROOT	one
+case	accusations	of
+det	accusations	the
+amod	accusations	many
+nmod:of	one	accusations
+case	her	against
+nmod:against	accusations	her
+punct	one	.

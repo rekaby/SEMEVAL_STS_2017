@@ -1,0 +1,10 @@
+nsubj	tried	Anyone
+root	ROOT	tried
+det	??	this
+dobj	tried	??-4) nsubj(giving-2, Amazon
+root	ROOT	giving
+iobj	giving	you
+amod	MP3s	free
+nsubj	CDs	MP3s
+nmod:poss	CDs	your
+dobj	giving	CDs

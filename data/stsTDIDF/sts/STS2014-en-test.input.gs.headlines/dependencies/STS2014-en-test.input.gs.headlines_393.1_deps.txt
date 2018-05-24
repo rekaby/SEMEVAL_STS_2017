@@ -1,0 +1,8 @@
+nmod:poss	coalition	Malaysia
+case	Malaysia	's
+amod	coalition	long-ruling
+nsubj	hangs	coalition
+root	ROOT	hangs
+case	power	on
+case	power	to
+nmod:to	hangs	power

@@ -1,0 +1,16 @@
+nsubjpass	founded	Mailblocks
+auxpass	founded	was
+root	ROOT	founded
+nummod	years	five
+nmod:after	founded	years
+case	years	after
+dep	years	WebTV
+auxpass	acquired	was
+dep	founded	acquired
+case	Microsoft	by
+nmod:agent	acquired	Microsoft
+case	$	for
+nmod:for	acquired	$
+compound	million	425
+nummod	$	million
+punct	founded	.

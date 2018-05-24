@@ -1,0 +1,15 @@
+nsubj	preserve	We
+root	ROOT	preserve
+det	unanimity	the
+dobj	preserve	unanimity
+case	Council	at
+det	Council	the
+nmod:at	unanimity	Council
+cc	preserve	and
+advmod	incapacity	thus
+det	incapacity	a
+amod	incapacity	latent
+conj:and	preserve	incapacity
+mark	act	to
+acl	incapacity	act
+punct	preserve	.

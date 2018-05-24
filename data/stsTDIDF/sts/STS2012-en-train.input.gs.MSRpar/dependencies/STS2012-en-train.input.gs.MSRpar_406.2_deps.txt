@@ -1,0 +1,17 @@
+root	ROOT	``
+nsubjpass	gone	Saddam
+auxpass	gone	is
+root	``	gone
+punct	gone	,
+cc	gone	but
+nsubj	want	we
+conj:but	gone	want
+det	occupation	the
+punct	U.S.	-LRB-
+appos	occupation	U.S.
+punct	U.S.	-RRB-
+dobj	want	occupation
+mark	end	to
+xcomp	want	end
+punct	gone	.
+punct	gone	''

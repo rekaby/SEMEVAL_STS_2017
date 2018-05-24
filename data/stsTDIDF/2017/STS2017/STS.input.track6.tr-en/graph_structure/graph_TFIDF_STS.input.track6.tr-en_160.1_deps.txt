@@ -1,0 +1,9 @@
+holding	baby	nmod:with
+sitting	pool	nmod:in
+baby	laying	acl
+pool	holding	acl
+laying	her	nmod:next_to
+woman	sitting	acl
+holding	martini	dobj
+baby	with	case
+martini	a	det

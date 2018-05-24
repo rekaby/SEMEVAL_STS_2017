@@ -1,0 +1,9 @@
+compound	toll	Death
+nsubj	rises	toll
+case	attack	in
+compound	attack	Nigeria
+compound	attack	police
+nmod:in	toll	attack
+root	ROOT	rises
+case	30	to
+nmod:to	rises	30

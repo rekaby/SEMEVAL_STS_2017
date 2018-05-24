@@ -1,0 +1,11 @@
+cc	have	and
+nsubj	have	morals
+cc	morals	and
+conj:and	morals	honesty
+root	ROOT	have
+dobj	have	everything
+mark	do	to
+acl	everything	do
+case	it	with
+nmod:with	do	it
+punct	have	.

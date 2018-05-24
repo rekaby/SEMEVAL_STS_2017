@@ -1,0 +1,14 @@
+punct	sequestration	-LRB-
+compound	sequestration	Chemistry
+punct	sequestration	-RRB-
+compound	sequestration	Undergo
+root	ROOT	sequestration
+mark	forming	by
+acl	sequestration	forming
+det	compound	a
+amod	compound	stable
+dobj	forming	compound
+case	ion	with
+det	ion	an
+nmod:with	forming	ion
+punct	sequestration	.

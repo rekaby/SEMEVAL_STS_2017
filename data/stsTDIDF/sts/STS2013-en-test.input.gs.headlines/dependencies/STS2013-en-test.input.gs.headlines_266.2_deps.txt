@@ -1,0 +1,6 @@
+compound	Gauck	Joachim
+nsubj	elected	Gauck
+root	ROOT	elected
+case	president	as
+amod	president	German
+nmod:as	elected	president

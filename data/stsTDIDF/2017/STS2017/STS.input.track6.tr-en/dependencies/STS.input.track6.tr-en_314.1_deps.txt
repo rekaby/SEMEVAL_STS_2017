@@ -1,0 +1,8 @@
+det	vendor	A
+compound	vendor	street
+nsubj	cart	vendor
+cop	cart	is
+case	cart	with
+nmod:poss	cart	his
+root	ROOT	cart
+punct	cart	.

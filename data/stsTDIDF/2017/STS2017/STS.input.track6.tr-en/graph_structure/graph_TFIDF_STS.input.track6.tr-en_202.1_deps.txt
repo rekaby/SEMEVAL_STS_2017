@@ -1,0 +1,6 @@
+suspended	air	nmod:in
+woman	sunset	nmod:at
+suspended	woman	nsubjpass
+suspended	is	auxpass
+woman	beach	nmod:on
+sunset	at	case

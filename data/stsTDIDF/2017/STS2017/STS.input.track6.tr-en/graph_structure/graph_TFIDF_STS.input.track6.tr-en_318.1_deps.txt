@@ -1,0 +1,13 @@
+interested	male	nsubj
+walking	,	punct
+walking	female	nsubj
+dogs	in	case
+female	Two	nummod
+interested	dogs	nmod:in
+walking	are	aux
+male	the	det
+dogs	the	det
+walking	and	cc
+walking	dogs	dobj
+walking	interested	conj:and
+dogs	their	nmod:poss

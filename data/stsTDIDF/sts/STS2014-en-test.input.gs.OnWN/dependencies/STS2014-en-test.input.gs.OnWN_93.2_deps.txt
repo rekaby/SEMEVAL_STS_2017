@@ -1,0 +1,10 @@
+root	ROOT	provide
+det	translation	an
+amod	translation	interlinear
+dobj	provide	translation
+case	word	of
+det	word	a
+nmod:of	translation	word
+cc	word	or
+conj:or	word	phrase
+punct	provide	.

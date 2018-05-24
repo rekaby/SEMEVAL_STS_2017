@@ -1,0 +1,10 @@
+compound	Ink	India
+root	ROOT	Ink
+punct	Ink	:
+dep	Ink	Image
+case	Day	of
+det	Day	the
+nmod:of	Image	Day
+punct	Image	:
+dep	Image	April
+nummod	April	21

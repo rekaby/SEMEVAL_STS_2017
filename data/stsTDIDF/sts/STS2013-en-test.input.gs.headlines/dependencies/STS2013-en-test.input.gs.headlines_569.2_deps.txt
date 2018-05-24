@@ -1,0 +1,8 @@
+nsubj	boosts	Facebook
+root	ROOT	boosts
+dobj	boosts	size
+case	IPO	of
+nmod:of	size	IPO
+case	percent	by
+nummod	percent	25
+nmod:by	boosts	percent

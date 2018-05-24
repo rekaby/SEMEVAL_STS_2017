@@ -1,0 +1,7 @@
+root	ROOT	make
+amod	hostile	less
+xcomp	make	hostile
+punct	make	;
+parataxis	make	win
+compound:prt	win	over
+punct	make	.

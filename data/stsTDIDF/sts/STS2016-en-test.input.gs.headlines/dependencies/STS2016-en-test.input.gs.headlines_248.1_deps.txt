@@ -1,0 +1,9 @@
+compound	video	New
+nsubj	shows	video
+root	ROOT	shows
+compound	officers	US
+compound	officers	police
+nsubj	beating	officers
+ccomp	shows	beating
+amod	man	mentally-ill
+dobj	beating	man

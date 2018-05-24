@@ -1,0 +1,11 @@
+nummod	dogs	Two
+nsubj	face	dogs
+root	ROOT	face
+case	other	off
+mwe	off	of
+det	other	each
+nmod:off_of	face	other
+case	grass	on
+det	grass	the
+nmod:on	other	grass
+punct	face	.

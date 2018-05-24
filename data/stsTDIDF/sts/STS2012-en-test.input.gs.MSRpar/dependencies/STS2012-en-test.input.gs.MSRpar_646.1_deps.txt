@@ -1,0 +1,13 @@
+compound	Kresler	Tisha
+nsubj	declined	Kresler
+punct	Kresler	,
+det	spokeswoman	a
+appos	Kresler	spokeswoman
+case	Crossing	for
+amod	Crossing	Global
+nmod:for	spokeswoman	Crossing
+punct	Kresler	,
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+punct	declined	.

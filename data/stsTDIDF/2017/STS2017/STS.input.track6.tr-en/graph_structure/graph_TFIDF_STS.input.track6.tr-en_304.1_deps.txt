@@ -1,0 +1,10 @@
+dog	large	amod
+jumping	off	compound:prt
+pier	a	det
+pond	into	case
+jumping	pier	dobj
+jumping	pond	nmod:into
+jumping	dog	nsubj
+jumping	is	aux
+dog	black	amod
+pond	a	det

@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	playing
+case	shore	on
+det	shore	the
+nmod:on	playing	shore
+punct	dogs	.

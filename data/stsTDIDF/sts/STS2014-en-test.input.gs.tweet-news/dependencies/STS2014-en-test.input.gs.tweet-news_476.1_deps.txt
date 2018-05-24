@@ -1,0 +1,13 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+punct	NYTimes	?-3) compound(Men-2, Mad
+root	ROOT	Men
+punct	Men	?-3) root(ROOT-0, Set
+case	Return	to
+nmod:to	Set	Return
+case	April	on
+nmod:on	Return	April
+nummod	April	7
+punct	Set	.-7) amod(news-2, Excellent
+root	ROOT	news
+punct	news	.

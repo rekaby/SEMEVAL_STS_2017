@@ -1,0 +1,10 @@
+root	ROOT	ask
+nmod	ask	for
+cc	for	and
+conj:and	for	get
+xcomp	get	free
+punct	ask	;
+cop	parasite	be
+det	parasite	a
+parataxis	ask	parasite
+punct	ask	.

@@ -1,0 +1,12 @@
+nsubj	defy	Japan
+punct	Japan	,
+compound	planes	S
+amod	planes	Korean
+amod	planes	military
+conj	Japan	planes
+root	ROOT	defy
+nmod:poss	zone	China
+case	China	's
+amod	zone	new
+compound	zone	defence
+dobj	defy	zone

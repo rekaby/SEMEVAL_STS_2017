@@ -1,0 +1,11 @@
+nsubj	green	All
+case	trees	of
+det	trees	the
+nmod:of	All	trees
+cop	green	are
+root	ROOT	green
+case	leaves	with
+advmod	bloomed	freshly
+amod	leaves	bloomed
+nmod:with	green	leaves
+punct	green	.

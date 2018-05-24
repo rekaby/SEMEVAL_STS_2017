@@ -1,0 +1,11 @@
+root	ROOT	Atqatlan
+nummod	adults	two
+dobj	Atqatlan	adults
+case	street	in
+det	street	the
+nmod:in	Atqatlan	street
+case	match	after
+det	match	a
+compound	match	football
+nmod:after	Atqatlan	match
+punct	Atqatlan	.

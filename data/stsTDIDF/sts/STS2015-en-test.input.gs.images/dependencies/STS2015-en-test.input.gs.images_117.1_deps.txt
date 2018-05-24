@@ -1,0 +1,12 @@
+det	man	A
+nsubj	sits	man
+root	ROOT	sits
+case	poles	with
+compound	poles	fishing
+nmod:with	sits	poles
+case	body	near
+det	body	a
+nmod:near	poles	body
+case	water	of
+nmod:of	body	water
+punct	sits	.

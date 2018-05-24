@@ -1,0 +1,10 @@
+compound	Atta-Mills	President
+compound	Atta-Mills	John
+compound	Atta-Mills	Evans
+nsubj	Resign	Atta-Mills
+aux	Resign	Must
+root	ROOT	Resign
+advmod	NPP	Now
+punct	NPP	-
+compound	Germany	NPP
+dobj	Resign	Germany

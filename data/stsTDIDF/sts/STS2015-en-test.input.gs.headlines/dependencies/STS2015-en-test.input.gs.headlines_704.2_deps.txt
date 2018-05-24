@@ -1,0 +1,12 @@
+compound	Hague	William
+root	ROOT	Hague
+punct	Hague	:
+compound	decision	US
+appos	Hague	decision
+mark	halt	to
+acl	decision	halt
+compound	test	missile
+dobj	halt	test
+punct	halt	`
+dep	halt	sensible
+punct	halt	'

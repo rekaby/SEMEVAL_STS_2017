@@ -1,0 +1,8 @@
+nummod	boys	Two
+nsubj	playing	boys
+aux	playing	are
+root	ROOT	playing
+case	beach	in
+det	beach	the
+nmod:in	playing	beach
+punct	playing	.

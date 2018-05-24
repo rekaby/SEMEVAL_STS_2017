@@ -1,0 +1,7 @@
+root	ROOT	Snowden
+acl	Snowden	poised
+mark	fly	to
+xcomp	poised	fly
+case	Moscow	out
+mwe	out	of
+nmod:out_of	fly	Moscow

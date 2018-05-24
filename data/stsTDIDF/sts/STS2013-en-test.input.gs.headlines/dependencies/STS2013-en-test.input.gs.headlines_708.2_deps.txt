@@ -1,0 +1,8 @@
+compound	shoot	Indonesia
+compound	shoot	police
+nsubj	militants	shoot
+amod	militants	dead
+amod	militants	suspected
+root	ROOT	militants
+case	Bali	in
+nmod:in	militants	Bali

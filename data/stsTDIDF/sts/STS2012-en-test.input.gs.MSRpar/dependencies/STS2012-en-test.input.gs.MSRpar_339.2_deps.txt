@@ -1,0 +1,15 @@
+nsubj	objects	He
+advmod	objects	also
+root	ROOT	objects
+case	sales	to
+det	sales	the
+nmod:to	objects	sales
+cc	sales	and
+amod	increases	personal
+compound	increases	income
+compound	increases	tax
+conj:and	sales	increases
+case	package	in
+det	package	the
+nmod:in	sales	package
+punct	objects	.

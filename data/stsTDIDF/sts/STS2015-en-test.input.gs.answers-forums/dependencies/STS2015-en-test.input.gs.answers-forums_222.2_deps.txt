@@ -1,0 +1,15 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+det	burden	the
+nsubj	versions	burden
+case	proof	of
+nmod:of	burden	proof
+cop	versions	is
+case	versions	on
+amod	versions	positive
+cc	positive	or
+conj:or	positive	negative
+ccomp	think	versions
+punct	think	.

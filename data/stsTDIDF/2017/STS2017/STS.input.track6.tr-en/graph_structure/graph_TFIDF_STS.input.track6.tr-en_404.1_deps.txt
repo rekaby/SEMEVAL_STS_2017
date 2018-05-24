@@ -1,0 +1,8 @@
+buildings	in	case
+woman	blond	amod
+walking	plaza	dobj
+walking	buildings	nmod:in_front_of
+woman	walking	acl
+plaza	a	det
+buildings	brightly	amod
+buildings	colored	amod

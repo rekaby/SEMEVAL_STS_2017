@@ -1,0 +1,9 @@
+det	man	The
+nsubj	coral	man
+cop	coral	is
+advmod	coral	now
+case	coral	in
+det	coral	a
+amod	coral	big
+root	ROOT	coral
+punct	coral	.

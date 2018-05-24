@@ -1,0 +1,14 @@
+det	motorcycle	A
+nsubjpass	parked	motorcycle
+auxpass	parked	is
+root	ROOT	parked
+case	mural	by
+det	mural	a
+nmod:agent	parked	mural
+case	city	of
+det	city	a
+nmod:of	mural	city
+case	evening	in
+det	evening	the
+nmod:in	parked	evening
+punct	parked	.

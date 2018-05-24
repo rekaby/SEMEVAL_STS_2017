@@ -1,0 +1,8 @@
+compound	TV	Syria
+nsubj	says	TV
+root	ROOT	says
+compound	troops	govt
+compound	journalists	troops
+amod	journalists	free
+compound	journalists	captive
+dobj	says	journalists

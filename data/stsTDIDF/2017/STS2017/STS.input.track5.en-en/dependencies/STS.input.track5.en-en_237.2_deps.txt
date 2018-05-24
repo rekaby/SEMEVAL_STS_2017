@@ -1,0 +1,15 @@
+det	boy	A
+nsubj	walks	boy
+case	oar	with
+det	oar	an
+nmod:with	boy	oar
+root	ROOT	walks
+case	surf	out
+mwe	out	of
+det	surf	the
+nmod:out_of	walks	surf
+cc	walks	and
+case	beach	onto
+det	beach	a
+conj:and	walks	beach
+punct	walks	.

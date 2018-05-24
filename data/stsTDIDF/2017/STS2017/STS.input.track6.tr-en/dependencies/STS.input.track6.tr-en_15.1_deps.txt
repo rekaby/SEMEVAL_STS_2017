@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	flag	with
+det	flag	a
+amod	flag	red
+nmod:with	man	flag
+case	bull	with
+det	bull	a
+nmod:with	flag	bull
+punct	man	.

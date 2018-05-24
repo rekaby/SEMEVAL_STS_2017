@@ -1,0 +1,8 @@
+det	man	A
+nsubj	kicking	man
+aux	kicking	is
+root	ROOT	kicking
+dobj	kicking	pots
+case	water	of
+nmod:of	pots	water
+punct	kicking	.

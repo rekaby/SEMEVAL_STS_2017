@@ -1,0 +1,7 @@
+nsubj	asks	Libya
+root	ROOT	asks
+compound	Council	UN
+compound	Council	Security
+dobj	asks	Council
+case	help	for
+nmod:for	asks	help

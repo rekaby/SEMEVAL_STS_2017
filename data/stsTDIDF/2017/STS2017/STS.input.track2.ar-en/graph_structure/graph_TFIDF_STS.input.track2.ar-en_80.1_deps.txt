@@ -1,0 +1,10 @@
+shirt	a	det
+motorcycle	a	det
+shirt	white	amod
+shirt	black	amod
+shirt	in	case
+man	shirt	nmod:in
+shirt	riding	acl
+woman	shirt	nmod:in
+shirt	woman	conj:and
+riding	motorcycle	dobj

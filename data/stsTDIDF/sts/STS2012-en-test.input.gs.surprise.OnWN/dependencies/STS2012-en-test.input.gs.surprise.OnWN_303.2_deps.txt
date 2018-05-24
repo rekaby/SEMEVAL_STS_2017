@@ -1,0 +1,11 @@
+det	bundle	a
+root	ROOT	bundle
+punct	one	-LRB-
+advmod	one	especially
+dep	bundle	one
+acl	one	carried
+case	back	on
+det	back	the
+nmod:on	carried	back
+punct	one	-RRB-
+punct	bundle	.

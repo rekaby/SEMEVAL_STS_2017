@@ -1,0 +1,15 @@
+advmod	want	maybe
+nsubj	want	they
+aux	want	do
+neg	want	n't
+root	ROOT	want
+mark	whip	to
+xcomp	want	whip
+compound:prt	whip	up
+dobj	whip	hatred
+case	sake	for
+det	sake	the
+nmod:for	hatred	sake
+case	ratings	of
+nmod:of	sake	ratings
+punct	want	?

@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	black
+nsubj	staring	dog
+aux	staring	is
+root	ROOT	staring
+case	sheep	at
+det	sheep	a
+nmod:at	staring	sheep
+punct	staring	.

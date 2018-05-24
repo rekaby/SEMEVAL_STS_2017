@@ -1,0 +1,7 @@
+nummod	sheep	Ten
+root	ROOT	sheep
+acl	sheep	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	sheep	.

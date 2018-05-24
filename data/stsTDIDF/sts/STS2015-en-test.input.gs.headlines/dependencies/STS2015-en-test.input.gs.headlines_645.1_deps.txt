@@ -1,0 +1,6 @@
+compound	Shooting	Colorado
+compound	Shooting	Governor
+compound	Shooting	Visits
+compound	Shooting	School
+nsubj	Victim	Shooting
+root	ROOT	Victim

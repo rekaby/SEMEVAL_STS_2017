@@ -1,0 +1,8 @@
+advmod	apply	How
+mark	apply	to
+root	ROOT	apply
+case	visa	for
+det	visa	a
+compound	visa	Schengen
+nmod:for	apply	visa
+punct	apply	?

@@ -1,0 +1,12 @@
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+dobj	saying	what
+nsubj	saying	she
+aux	saying	's
+ccomp	think	saying
+cop	controversial	is
+nsubj	controversial	that
+ccomp	saying	controversial
+punct	think	.

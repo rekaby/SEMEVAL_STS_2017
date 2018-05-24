@@ -1,0 +1,8 @@
+det	train	A
+compound	train	passenger
+nsubj	coming	train
+root	ROOT	coming
+case	station	into
+det	station	a
+nmod:into	coming	station
+punct	coming	.

@@ -1,0 +1,11 @@
+det	man	The
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+compound:prt	putting	on
+nmod:poss	shirt	his
+dobj	putting	shirt
+case	elevator	near
+det	elevator	an
+nmod:near	putting	elevator
+punct	putting	.

@@ -1,0 +1,7 @@
+case	Canal	In
+det	Canal	the
+compound	Canal	Gowanus
+nmod:in	dolphin	Canal
+punct	dolphin	,
+det	dolphin	a
+root	ROOT	dolphin

@@ -1,0 +1,12 @@
+amod	secretary	republican
+compound	percy	senator
+compound	percy	charles
+nmod:poss	secretary	percy
+case	percy	's
+nsubj	took	secretary
+root	ROOT	took
+det	interest	an
+dobj	took	interest
+case	me	in
+nmod:in	took	me
+punct	took	.

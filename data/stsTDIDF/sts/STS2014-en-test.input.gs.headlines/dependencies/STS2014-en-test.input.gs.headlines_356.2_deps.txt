@@ -1,0 +1,9 @@
+root	ROOT	Raid
+case	suspect	on
+compound	suspect	Boston
+compound	suspect	Marathon
+compound	suspect	bombing
+nmod:on	Raid	suspect
+acl	suspect	captured
+case	film	on
+nmod:on	captured	film

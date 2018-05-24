@@ -1,0 +1,8 @@
+nsubj	win	Romney
+punct	Romney	,
+compound	vie	Paul
+appos	Romney	vie
+case	caucus	for
+compound	caucus	Maine
+nmod:for	vie	caucus
+root	ROOT	win

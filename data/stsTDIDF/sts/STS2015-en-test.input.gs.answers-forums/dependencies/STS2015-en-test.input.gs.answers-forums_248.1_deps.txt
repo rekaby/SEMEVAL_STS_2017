@@ -1,0 +1,13 @@
+det	part	The
+root	ROOT	part
+case	economics	of
+nmod:of	part	economics
+nsubjpass	called	that
+auxpass	called	is
+nsubjpass	called	most
+case	physics	like
+nmod:like	most	physics
+auxpass	called	is
+acl:relcl	part	called
+xcomp	called	microeconomics
+punct	part	.

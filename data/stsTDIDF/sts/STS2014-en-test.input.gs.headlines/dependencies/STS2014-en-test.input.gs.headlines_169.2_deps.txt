@@ -1,0 +1,17 @@
+root	ROOT	Stansted
+punct	Stansted	:
+nsubj	reports	Ryanair
+dep	Stansted	reports
+compound	%	13
+amod	rise	%
+dobj	reports	rise
+case	profits	in
+amod	profits	annual
+nmod:in	rise	profits
+cc	reports	but
+conj:but	reports	warns
+case	growth	of
+amod	growth	slower
+nmod:of	warns	growth
+det	year	this
+nmod:tmod	warns	year

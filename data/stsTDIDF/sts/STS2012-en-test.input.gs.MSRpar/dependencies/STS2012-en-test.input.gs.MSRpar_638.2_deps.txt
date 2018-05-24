@@ -1,0 +1,15 @@
+compound	Schiavo	Michael
+nsubj	argued	Schiavo
+aux	argued	has
+root	ROOT	argued
+mark	wanted	that
+nmod:poss	wife	his
+nsubj	wanted	wife
+neg	wanted	never
+ccomp	argued	wanted
+mark	kept	to
+auxpass	kept	be
+xcomp	wanted	kept
+advmod	artificially	alive
+advmod	kept	artificially
+punct	argued	.

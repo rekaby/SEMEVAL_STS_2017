@@ -1,0 +1,8 @@
+root	ROOT	mean
+cc	mean	or
+conj:or	mean	intend
+mark	express	to
+xcomp	intend	express
+cc	express	or
+conj:or	express	convey
+punct	mean	.

@@ -1,0 +1,23 @@
+compound	Cook	Timothy
+nsubj	said	Cook
+punct	Cook	,
+compound	CEO	Apple?s
+appos	Cook	CEO
+punct	Cook	,
+root	ROOT	said
+det	pipeline	the
+nsubj	was	pipeline
+case	products	of
+nmod:of	pipeline	products
+ccomp	said	was
+punct	said	?-13) root(ROOT-0, chock-full
+punct	chock-full	.-2) root(ROOT-0, ?-1) root(ROOT-0, ?-1) nsubj(feel-2, We
+root	ROOT	feel
+xcomp	feel	great
+mark	have	about
+dobj	have	what
+nsubj	have	we
+advcl	great	have
+case	store	in
+nmod:in	have	store
+punct	feel	?

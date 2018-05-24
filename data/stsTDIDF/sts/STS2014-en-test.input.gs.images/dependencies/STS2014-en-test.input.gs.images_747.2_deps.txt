@@ -1,0 +1,14 @@
+det	cat	A
+amod	cat	white
+cc	white	and
+conj:and	white	grey
+nsubj	sink	cat
+case	bathroom	in
+det	bathroom	a
+nmod:in	cat	bathroom
+root	ROOT	sink
+acl	sink	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	sink	.

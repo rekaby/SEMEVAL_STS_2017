@@ -1,0 +1,11 @@
+det	women	The
+nsubj	trying	women
+aux	trying	are
+root	ROOT	trying
+mark	sell	to
+xcomp	trying	sell
+dobj	sell	something
+case	individual	to
+det	individual	the
+nmod:to	sell	individual
+punct	trying	.

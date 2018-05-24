@@ -1,0 +1,15 @@
+amod	decree	russian
+compound	decree	president
+compound	decree	putin
+compound	decree	signs
+root	ROOT	decree
+acl	decree	suspending
+nmod:poss	application	russia
+case	russia	's
+nsubj	control	application
+case	arms	of
+compound	arms	european
+nmod:of	application	arms
+ccomp	suspending	control
+dobj	control	treaty
+punct	decree	.

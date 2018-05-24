@@ -1,0 +1,11 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	garlic
+case	pieces	into
+nmod:into	cutting	pieces
+case	knife	with
+det	knife	a
+nmod:with	pieces	knife
+punct	cutting	.

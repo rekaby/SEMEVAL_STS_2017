@@ -1,0 +1,6 @@
+root	ROOT	People
+acl	People	sitting
+case	porch	on
+det	porch	the
+nmod:on	sitting	porch
+punct	People	.

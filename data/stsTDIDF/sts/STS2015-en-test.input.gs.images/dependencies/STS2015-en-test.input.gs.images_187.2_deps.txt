@@ -1,0 +1,7 @@
+nummod	boys	Two
+nsubj	playing	boys
+aux	playing	are
+root	ROOT	playing
+compound	football	flag
+dobj	playing	football
+punct	playing	.

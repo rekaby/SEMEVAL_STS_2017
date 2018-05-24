@@ -1,0 +1,7 @@
+root	ROOT	Palestinian
+acl	Palestinian	arrested
+mark	harassing	for
+advmod	harassing	sexually
+advcl	arrested	harassing
+amod	girls	young
+dobj	harassing	girls

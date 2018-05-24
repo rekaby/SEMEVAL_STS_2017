@@ -1,0 +1,9 @@
+compound	backs	Driver
+nsubj	drives	backs
+case	stroller	into
+nmod:into	backs	stroller
+case	child	with
+nmod:with	backs	child
+punct	backs	,
+root	ROOT	drives
+compound:prt	drives	off

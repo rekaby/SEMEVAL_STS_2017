@@ -1,0 +1,12 @@
+root	ROOT	make
+case	components	out
+mwe	out	of
+nmod:out_of	make	components
+punct	manner	-LRB-
+advmod	manner	often
+case	manner	in
+det	manner	an
+amod	manner	improvising
+appos	components	manner
+punct	manner	-RRB-
+punct	make	.

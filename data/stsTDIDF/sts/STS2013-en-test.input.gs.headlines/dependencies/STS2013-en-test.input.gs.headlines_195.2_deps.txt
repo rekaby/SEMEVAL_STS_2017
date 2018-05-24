@@ -1,0 +1,9 @@
+amod	artist	Plastic
+nsubj	calls	artist
+root	ROOT	calls
+case	support	for
+amod	support	greater
+nmod:for	calls	support
+case	talents	for
+amod	talents	new
+nmod:for	support	talents

@@ -1,0 +1,9 @@
+nsubj	says	Iran
+root	ROOT	says
+amod	talks	nuclear
+dobj	says	talks
+case	constructive	with
+compound	constructive	UN
+punct	constructive	`
+nmod:with	talks	constructive
+punct	talks	'

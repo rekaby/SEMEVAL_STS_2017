@@ -1,0 +1,7 @@
+root	ROOT	remove
+det	pod	the
+dobj	remove	pod
+punct	pod	,
+conj:or	pod	husk
+cc	pod	or
+conj:or	pod	shell

@@ -1,0 +1,8 @@
+amod	COMMUNISM	PURE
+root	ROOT	COMMUNISM
+punct	COMMUNISM	:
+nsubj	have	You
+dep	COMMUNISM	have
+nummod	cows	two
+dobj	have	cows
+punct	COMMUNISM	.

@@ -1,0 +1,16 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	group	posing
+case	building	outside
+det	building	a
+nmod:outside	posing	building
+case	shoot	for
+det	shoot	a
+compound	shoot	photo
+nmod:for	building	shoot
+case	magazine	of
+det	magazine	a
+nmod:of	shoot	magazine
+punct	group	.

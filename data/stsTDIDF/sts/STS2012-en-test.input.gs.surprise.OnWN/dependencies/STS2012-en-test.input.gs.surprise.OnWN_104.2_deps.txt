@@ -1,0 +1,13 @@
+root	ROOT	move
+advmod	obstructed	so
+mark	obstructed	that
+det	opening	an
+nsubjpass	obstructed	opening
+cc	opening	or
+conj:or	opening	passage
+auxpass	obstructed	is
+advcl	move	obstructed
+punct	move	;
+parataxis	move	make
+xcomp	make	shut
+punct	move	.

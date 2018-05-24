@@ -1,0 +1,6 @@
+compound	race	Runners
+nsubj	track	race
+advmod	track	around
+det	track	a
+root	ROOT	track
+punct	track	.

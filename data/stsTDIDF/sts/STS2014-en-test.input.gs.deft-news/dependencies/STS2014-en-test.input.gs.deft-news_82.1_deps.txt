@@ -1,0 +1,8 @@
+nsubj	town	zabol
+cop	town	is
+det	town	a
+root	ROOT	town
+case	iran	in
+amod	iran	southeastern
+nmod:in	town	iran
+punct	town	.

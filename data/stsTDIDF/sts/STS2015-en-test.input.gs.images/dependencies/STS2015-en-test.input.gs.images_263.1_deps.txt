@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	goes	boy
+root	ROOT	goes
+compound:prt	goes	down
+det	slide	an
+amod	slide	inflatable
+dobj	goes	slide
+punct	goes	.

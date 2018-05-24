@@ -1,0 +1,7 @@
+det	quake	Hundreds
+amod	quake	dead
+cc	dead	or
+conj:or	dead	injured
+case	China	in
+nmod:in	dead	China
+root	ROOT	quake

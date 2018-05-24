@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	tan
+nsubj	looks	dog
+root	ROOT	looks
+case	sheep	at
+det	sheep	a
+amod	sheep	black
+nmod:at	looks	sheep
+punct	looks	.

@@ -1,0 +1,7 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	sitting
+case	chairs	in
+compound	chairs	lawn
+nmod:in	sitting	chairs
+punct	women	.

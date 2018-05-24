@@ -1,0 +1,11 @@
+rock	guy	nsubj
+climbing	backpacks	nmod:with
+guy	girl	conj:and
+climbing	on	nmod
+guy	and	cc
+ROOT	rock	root
+rock	are	cop
+rock	climbing	xcomp
+backpacks	with	case
+guy	A	det
+rock	.	punct

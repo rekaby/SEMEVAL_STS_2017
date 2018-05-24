@@ -1,0 +1,6 @@
+compound	OFF-set	PLAY
+root	ROOT	OFF-set
+case	opposition	into
+nmod:into	OFF-set	opposition
+cc	opposition	or
+conj:or	opposition	rivalry

@@ -1,0 +1,7 @@
+compound	Calls	Ukraine
+compound	Calls	President
+nsubj	Talks	Calls
+root	ROOT	Talks
+mark	End	To
+acl	Talks	End
+dobj	End	Protests

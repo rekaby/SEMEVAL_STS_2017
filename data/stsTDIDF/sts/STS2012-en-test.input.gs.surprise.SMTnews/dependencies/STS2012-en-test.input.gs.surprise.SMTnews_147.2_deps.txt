@@ -1,0 +1,11 @@
+cc	build	But
+mark	itself	as
+det	Union	the
+compound	Union	European
+nsubj	itself	Union
+dep	build	itself
+punct	build	,
+root	ROOT	build
+cc	build	and
+conj:and	build	happen
+punct	build	.

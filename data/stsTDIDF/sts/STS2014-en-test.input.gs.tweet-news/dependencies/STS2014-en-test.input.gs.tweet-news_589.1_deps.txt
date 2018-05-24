@@ -1,0 +1,22 @@
+amod	bills	Obama-backed
+compound	bills	gun
+nsubj	shot	bills
+det	shot	a
+amod	shot	long
+root	ROOT	shot
+punct	shot	.-7) punct(issue-5, ``
+nsubj	issue	This
+cop	issue	is
+nummod	issue	ONE
+root	ROOT	issue
+mark	happen	that
+nsubj	happen	me
+cc	me	and
+det	president	the
+conj:and	me	president
+ccomp	issue	happen
+mark	agree	to
+xcomp	happen	agree
+nmod	agree	on
+punct	issue	.
+punct	issue	''

@@ -1,0 +1,9 @@
+nummod	soldiers	Two
+compound	soldiers	U.S.
+nsubj	shot	soldiers
+root	ROOT	shot
+punct	shot	,
+xcomp	shot	killed
+case	soldier	by
+compound	soldier	Afghan
+nmod:by	killed	soldier

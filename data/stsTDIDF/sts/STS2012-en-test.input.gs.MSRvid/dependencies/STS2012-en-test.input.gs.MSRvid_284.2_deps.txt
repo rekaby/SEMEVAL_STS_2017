@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	doing	woman
+aux	doing	is
+root	ROOT	doing
+nmod:poss	hair	her
+dobj	doing	hair
+punct	doing	.

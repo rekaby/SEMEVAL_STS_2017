@@ -1,0 +1,10 @@
+nsubj	calls	Hamas
+root	ROOT	calls
+case	Hezbollah	on
+nmod:on	calls	Hezbollah
+mark	pull	to
+xcomp	calls	pull
+dobj	pull	forces
+case	Syria	out
+mwe	out	of
+nmod:out_of	pull	Syria

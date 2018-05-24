@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	grow	to
+xcomp	cause	grow
+xcomp	grow	thin
+cc	thin	or
+conj:or	thin	weak
+punct	cause	.

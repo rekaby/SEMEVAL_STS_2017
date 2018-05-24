@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+compound	dog	pet
+nsubj	runs	dog
+root	ROOT	runs
+case	garden	around
+case	garden	in
+det	garden	the
+nmod:in	runs	garden
+case	house	of
+det	house	a
+nmod:of	garden	house
+punct	runs	.

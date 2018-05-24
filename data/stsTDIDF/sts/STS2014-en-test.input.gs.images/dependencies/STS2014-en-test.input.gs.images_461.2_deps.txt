@@ -1,0 +1,14 @@
+det	picture	A
+compound	picture	close-up
+root	ROOT	picture
+case	desk	of
+det	desk	a
+nmod:of	picture	desk
+case	computer	with
+det	computer	a
+nmod:with	desk	computer
+cc	computer	and
+conj:and	computer	papers
+case	it	on
+nmod:on	computer	it
+punct	picture	.

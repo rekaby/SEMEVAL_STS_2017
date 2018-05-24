@@ -1,0 +1,14 @@
+det	computers	The
+nsubj	located	computers
+cop	located	were
+advmod	located	reportedly
+root	ROOT	located
+case	U.S.	in
+det	U.S.	the
+nmod:in	located	U.S.
+punct	U.S.	,
+conj:and	U.S.	Canada
+cc	U.S.	and
+compound	Korea	South
+conj:and	U.S.	Korea
+punct	located	.

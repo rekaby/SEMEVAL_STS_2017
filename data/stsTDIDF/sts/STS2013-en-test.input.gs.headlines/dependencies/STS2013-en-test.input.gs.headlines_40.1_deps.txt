@@ -1,0 +1,8 @@
+root	ROOT	NATO
+punct	NATO	:
+nummod	Killed	2
+compound	Killed	International
+compound	Killed	Troops
+dep	NATO	Killed
+case	Afghanistan	in
+nmod:in	Killed	Afghanistan

@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+dobj	playing	pool
+case	money	for
+nmod:for	playing	money
+punct	playing	.

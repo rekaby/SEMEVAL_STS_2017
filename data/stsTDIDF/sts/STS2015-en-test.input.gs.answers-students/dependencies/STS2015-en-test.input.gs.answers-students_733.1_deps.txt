@@ -1,0 +1,9 @@
+nsubj	has	It
+root	ROOT	has
+nmod:poss	path	its
+amod	path	own
+dobj	has	path
+acl	path	connected
+case	battery	to
+det	battery	the
+nmod:to	connected	battery

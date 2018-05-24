@@ -1,0 +1,10 @@
+compound	lawmakers	New
+compound	lawmakers	York
+nsubj	agreed	lawmakers
+root	ROOT	agreed
+case	changes	on
+nmod:on	agreed	changes
+case	laws	to
+compound	laws	gun
+nmod:to	changes	laws
+dobj	agreed	Ills

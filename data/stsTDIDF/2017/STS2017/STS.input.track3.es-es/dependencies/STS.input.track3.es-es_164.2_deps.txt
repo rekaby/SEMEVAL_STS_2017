@@ -1,0 +1,15 @@
+det	boy	An
+amod	boy	Asian
+nsubj	smiling	boy
+cc	boy	and
+det	girl	an
+amod	girl	Asian
+conj:and	boy	girl
+aux	smiling	are
+root	ROOT	smiling
+case	crowd	in
+det	crowd	a
+nmod:in	smiling	crowd
+case	people	of
+nmod:of	crowd	people
+punct	smiling	.

@@ -1,0 +1,13 @@
+receives	man	nsubj
+ROOT	receives	root
+performance	After	case
+receives	performance	nmod:after
+receives	receiving	advcl
+receives	ovation	dobj
+ovation	standing	compound
+receiving	prize	dobj
+receiving	after	mark
+ovation	a	det
+receives	.	punct
+receives	,	punct
+performance	great	amod

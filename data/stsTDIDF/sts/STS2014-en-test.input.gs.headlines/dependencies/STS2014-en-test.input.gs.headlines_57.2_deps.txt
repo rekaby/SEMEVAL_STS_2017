@@ -1,0 +1,6 @@
+nsubj	hold	China
+cc	China	and
+conj:and	China	Taiwan
+root	ROOT	hold
+amod	talks	historic
+dobj	hold	talks

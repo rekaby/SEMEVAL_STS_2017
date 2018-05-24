@@ -1,0 +1,15 @@
+mark	leader	because
+nsubj	leader	he
+cop	leader	is
+neg	leader	n't
+det	leader	a
+root	ROOT	leader
+punct	campaigner	,
+nsubj	campaigner	he
+cop	campaigner	is
+det	campaigner	a
+amod	campaigner	perpetual
+dep	leader	campaigner
+cc	campaigner	and
+conj:and	campaigner	chief
+punct	leader	.

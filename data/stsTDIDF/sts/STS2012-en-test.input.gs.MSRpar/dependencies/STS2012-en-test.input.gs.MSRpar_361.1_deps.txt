@@ -1,0 +1,16 @@
+advmod	months	However
+punct	months	,
+amod	use	commercial
+nsubj	months	use
+case	kernel	of
+det	kernel	the
+nummod	kernel	2.6.0
+nmod:of	use	kernel
+cop	months	is
+advmod	months	still
+root	ROOT	months
+case	customers	off
+case	customers	for
+amod	customers	most
+nmod:for	months	customers
+punct	months	.

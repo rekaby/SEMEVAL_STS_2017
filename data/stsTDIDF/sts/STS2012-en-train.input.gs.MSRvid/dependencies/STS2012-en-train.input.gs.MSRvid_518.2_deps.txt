@@ -1,0 +1,8 @@
+det	car	A
+nsubj	driving	car
+aux	driving	is
+root	ROOT	driving
+case	road	along
+det	road	the
+nmod:along	driving	road
+punct	driving	.

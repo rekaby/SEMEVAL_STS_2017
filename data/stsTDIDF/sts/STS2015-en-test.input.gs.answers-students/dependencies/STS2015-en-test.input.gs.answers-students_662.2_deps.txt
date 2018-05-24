@@ -1,0 +1,12 @@
+amod	5	Terminal
+nsubjpass	separated	5
+cc	5	and
+det	terminal	the
+amod	terminal	positive
+conj:and	5	terminal
+auxpass	separated	are
+neg	separated	not
+root	ROOT	separated
+case	gap	by
+det	gap	the
+nmod:agent	separated	gap

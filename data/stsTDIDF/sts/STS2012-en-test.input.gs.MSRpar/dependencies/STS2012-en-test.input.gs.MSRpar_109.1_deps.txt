@@ -1,0 +1,16 @@
+det	session	The
+amod	session	next
+compound	session	court
+root	ROOT	session
+acl	session	will
+ccomp	will	be
+advmod	announces	when
+det	tribunal	the
+amod	tribunal	three-judge
+nsubj	announces	tribunal
+advcl	be	announces
+nmod:poss	verdict	its
+dobj	announces	verdict
+case	mid-February	in
+nmod:in	verdict	mid-February
+punct	session	.

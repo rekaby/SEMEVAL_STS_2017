@@ -1,0 +1,6 @@
+det	cats	Some
+root	ROOT	cats
+acl	cats	running
+case	desert	in
+det	desert	the
+nmod:in	running	desert

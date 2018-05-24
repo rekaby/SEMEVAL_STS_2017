@@ -1,0 +1,6 @@
+det	mold	a
+root	ROOT	mold
+mark	setting	for
+acl	mold	setting
+dobj	setting	concrete
+punct	mold	.

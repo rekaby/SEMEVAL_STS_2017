@@ -1,0 +1,12 @@
+root	ROOT	obtain
+case	purchase	by
+nmod:by	obtain	purchase
+punct	obtain	;
+dep	obtain	acquire
+case	transaction	by
+mwe	by	means
+mwe	by	of
+det	transaction	a
+amod	transaction	financial
+nmod:by_means_of	acquire	transaction
+punct	obtain	.

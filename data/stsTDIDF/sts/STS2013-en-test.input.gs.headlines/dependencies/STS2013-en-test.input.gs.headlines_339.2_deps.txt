@@ -1,0 +1,7 @@
+root	ROOT	Westwood
+case	front	in
+nmod:in	Westwood	front
+det	Classic	a
+compound	Classic	Dubai
+compound	Classic	Desert
+dobj	front	Classic

@@ -1,0 +1,10 @@
+nsubj	has	vietnam
+root	ROOT	has
+case	laws	among
+det	world	the
+nmod:poss	laws	world
+case	world	's
+amod	laws	harshest
+compound	laws	drug
+nmod:among	has	laws
+punct	has	.

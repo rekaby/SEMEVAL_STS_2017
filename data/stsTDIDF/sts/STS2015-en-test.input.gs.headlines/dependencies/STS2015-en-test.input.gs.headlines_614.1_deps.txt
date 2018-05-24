@@ -1,0 +1,7 @@
+nummod	journalists	Two
+amod	journalists	French
+nsubj	killed	journalists
+root	ROOT	killed
+case	kidnapping	after
+amod	kidnapping	Mali
+nmod:after	killed	kidnapping

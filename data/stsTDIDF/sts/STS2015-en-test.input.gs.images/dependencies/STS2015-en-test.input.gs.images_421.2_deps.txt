@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	digs	dog
+root	ROOT	digs
+det	hole	a
+dobj	digs	hole
+case	yard	in
+det	yard	a
+nmod:in	digs	yard
+punct	digs	.

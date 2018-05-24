@@ -1,0 +1,9 @@
+trip	school	compound
+patch	a	det
+trip	.	punct
+patch	pumpkin	compound
+patch	in	case
+trip	boy	nsubj
+trip	patch	nmod:in
+ROOT	trip	root
+trip	is	cop

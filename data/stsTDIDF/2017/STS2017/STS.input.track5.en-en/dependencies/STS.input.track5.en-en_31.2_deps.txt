@@ -1,0 +1,6 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+det	cart	a
+dobj	riding	cart
+punct	man	.

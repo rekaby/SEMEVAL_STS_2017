@@ -1,0 +1,9 @@
+compound	Kubiak	Texans
+compound	Kubiak	coach
+compound	Kubiak	Gary
+root	ROOT	Kubiak
+case	condition	in
+amod	condition	stable
+nmod:in	Kubiak	condition
+case	collapse	after
+nmod:after	Kubiak	collapse

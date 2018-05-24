@@ -1,0 +1,7 @@
+det	kind	What
+dep	is	kind
+case	insulation	of
+nmod:of	kind	insulation
+root	ROOT	is
+nsubj	is	it
+punct	is	?

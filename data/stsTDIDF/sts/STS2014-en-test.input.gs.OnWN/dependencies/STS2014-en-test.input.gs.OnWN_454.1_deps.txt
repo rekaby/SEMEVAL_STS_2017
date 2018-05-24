@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+case	forecasting	of
+nmod:of	act	forecasting
+cc	act	or
+conj:or	act	predicting
+dobj	predicting	something

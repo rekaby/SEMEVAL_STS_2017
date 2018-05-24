@@ -1,0 +1,15 @@
+det	vector	The
+nsubj	constucted	vector
+cop	constucted	is
+advmod	constucted	then
+root	ROOT	constucted
+case	frequency	of
+det	frequency	the
+nmod:of	constucted	frequency
+case	word	of
+compound	word	eacher
+nmod:of	frequency	word
+punct	dimension	-LRB-
+appos	word	dimension
+punct	dimension	-RRB-
+punct	constucted	.

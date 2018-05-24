@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	little
+nsubj	got	boy
+root	ROOT	got
+nmod:poss	pants	his
+nsubj	wet	pants
+xcomp	got	wet
+punct	got	.

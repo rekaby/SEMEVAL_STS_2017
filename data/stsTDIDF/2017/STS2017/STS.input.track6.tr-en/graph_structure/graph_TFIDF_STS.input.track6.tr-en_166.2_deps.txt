@@ -1,0 +1,7 @@
+landing	of	case
+bunch	.	punct
+ROOT	bunch	root
+bunch	A	det
+bunch	field	nmod:in
+landing	goose	compound
+bunch	landing	nmod:of

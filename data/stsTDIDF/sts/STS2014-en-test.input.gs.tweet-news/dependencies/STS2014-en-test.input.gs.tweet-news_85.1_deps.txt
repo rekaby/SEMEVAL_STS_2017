@@ -1,0 +1,7 @@
+root	ROOT	#Photos
+punct	#Photos	:
+dep	#Photos	#KimJongUn
+cc	#KimJongUn	and
+nmod:poss	forces	his
+compound	forces	army
+conj:and	#KimJongUn	forces

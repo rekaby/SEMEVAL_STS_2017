@@ -1,0 +1,8 @@
+root	ROOT	Envelop
+advmod	Envelop	completely
+punct	Envelop	;
+parataxis	Envelop	form
+det	cover	a
+dobj	form	cover
+advmod	form	over
+punct	Envelop	.

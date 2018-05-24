@@ -1,0 +1,7 @@
+root	ROOT	emit
+det	burst	a
+amod	burst	brief
+dobj	emit	burst
+case	light	of
+nmod:of	burst	light
+punct	emit	.

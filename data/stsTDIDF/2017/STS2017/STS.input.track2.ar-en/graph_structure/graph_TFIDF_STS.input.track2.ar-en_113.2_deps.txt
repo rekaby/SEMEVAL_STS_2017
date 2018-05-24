@@ -1,0 +1,9 @@
+ROOT	panel	root
+Einstein	Albert	compound
+Einstein	of	case
+bear	a	det
+panel	.	punct
+panel	Einstein	nmod:of
+panel	A	det
+bear	on	case
+panel	bear	nmod:on

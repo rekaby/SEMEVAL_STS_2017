@@ -1,0 +1,13 @@
+root	ROOT	strike
+compound:prt	strike	out
+punct	batter	-LRB-
+det	batter	a
+dep	strike	batter
+punct	batter	-RRB-
+punct	strike	,
+punct	pitcher	-LRB-
+case	pitcher	of
+det	pitcher	a
+dep	strike	pitcher
+punct	pitcher	-RRB-
+punct	strike	.

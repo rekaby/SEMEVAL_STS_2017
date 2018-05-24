@@ -1,0 +1,7 @@
+compound	control	exercise
+amod	control	authoritative
+root	ROOT	control
+cc	control	or
+conj:or	control	power
+dep	control	over
+punct	control	.

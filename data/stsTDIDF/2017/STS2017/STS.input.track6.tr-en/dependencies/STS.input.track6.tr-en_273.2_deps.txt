@@ -1,0 +1,9 @@
+det	man	A
+nsubj	plays	man
+case	hair	with
+amod	hair	long
+nmod:with	man	hair
+root	ROOT	plays
+det	guitar	the
+dobj	plays	guitar
+punct	plays	.

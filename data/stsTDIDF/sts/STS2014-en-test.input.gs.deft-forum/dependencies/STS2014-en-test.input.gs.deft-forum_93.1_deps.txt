@@ -1,0 +1,13 @@
+aux	started	Got
+det	Heine	some
+nsubj	started	Heine
+cc	Heine	and
+compound	i	coors
+amod	i	light
+conj:and	Heine	i
+root	ROOT	started
+dobj	started	it
+amod	xanis	last
+compound	xanis	night
+nmod:tmod	started	xanis
+punct	started	.

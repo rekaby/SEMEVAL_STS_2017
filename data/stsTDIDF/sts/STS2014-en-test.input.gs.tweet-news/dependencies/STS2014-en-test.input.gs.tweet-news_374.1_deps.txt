@@ -1,0 +1,14 @@
+compound	Millepied	Benjamin
+root	ROOT	Millepied
+mark	take	to
+acl	Millepied	take
+compound:prt	take	over
+compound	Ballet	Paris
+compound	Ballet	Opera
+dobj	take	Ballet
+punct	Millepied	,
+case	details	with
+det:predet	details	all
+det	details	the
+nmod:with	Millepied	details
+punct	Millepied	:

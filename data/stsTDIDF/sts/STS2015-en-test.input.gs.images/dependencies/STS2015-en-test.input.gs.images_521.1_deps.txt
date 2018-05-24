@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	field	through
+det	field	the
+nmod:through	running	field
+punct	running	.

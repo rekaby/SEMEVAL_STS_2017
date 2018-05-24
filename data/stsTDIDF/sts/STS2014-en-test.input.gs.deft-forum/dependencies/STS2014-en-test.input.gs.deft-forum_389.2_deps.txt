@@ -1,0 +1,15 @@
+det	song	The
+compound	song	theme
+root	ROOT	song
+case	Cheers	to
+nmod:to	song	Cheers
+punct	song	:
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+dep	song	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	song	.

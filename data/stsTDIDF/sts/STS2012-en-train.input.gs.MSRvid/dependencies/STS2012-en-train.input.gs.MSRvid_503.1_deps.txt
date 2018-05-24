@@ -1,0 +1,11 @@
+det	man	A
+nsubj	tries	man
+root	ROOT	tries
+mark	feed	to
+xcomp	tries	feed
+det	mouse	a
+dobj	feed	mouse
+case	snake	to
+det	snake	a
+nmod:to	feed	snake
+punct	tries	.

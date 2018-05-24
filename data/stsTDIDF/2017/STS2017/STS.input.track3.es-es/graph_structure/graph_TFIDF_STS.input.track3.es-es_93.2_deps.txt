@@ -1,0 +1,7 @@
+driving	man	nsubj
+driving	street	nmod:in
+driving	bicycle	dobj
+bicycle	a	det
+driving	is	aux
+ROOT	driving	root
+driving	.	punct

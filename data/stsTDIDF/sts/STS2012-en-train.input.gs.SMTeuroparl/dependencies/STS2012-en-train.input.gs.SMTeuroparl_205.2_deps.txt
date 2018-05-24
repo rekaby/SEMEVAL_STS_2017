@@ -1,0 +1,16 @@
+nsubjpass	agreed	It
+auxpass	agreed	is
+root	ROOT	agreed
+mark	precondition	that
+det	knowledge	the
+nsubj	precondition	knowledge
+case	languages	of
+amod	languages	foreign
+nmod:of	knowledge	languages
+cop	precondition	is
+det	precondition	a
+amod	precondition	necessary
+ccomp	agreed	precondition
+case	mobility	for
+nmod:for	precondition	mobility
+punct	agreed	.

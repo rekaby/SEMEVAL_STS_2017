@@ -1,0 +1,8 @@
+det	man	The
+nsubj	drilled	man
+root	ROOT	drilled
+dobj	drilled	holes
+case	wood	into
+det	wood	the
+nmod:into	drilled	wood
+punct	drilled	.

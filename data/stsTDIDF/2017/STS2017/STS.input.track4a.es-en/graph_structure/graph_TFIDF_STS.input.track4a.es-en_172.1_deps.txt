@@ -1,0 +1,7 @@
+ready	game	nmod:for
+children	.	punct
+children	Asian	amod
+children	Small	amod
+children	getting	acl
+game	sport	compound
+ROOT	children	root

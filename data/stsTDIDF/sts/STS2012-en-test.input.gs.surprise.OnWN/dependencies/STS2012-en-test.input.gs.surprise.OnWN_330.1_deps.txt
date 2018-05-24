@@ -1,0 +1,10 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	drive
+advmod	move	forcefully
+case	punch	as
+mwe	as	if
+case	punch	by
+det	punch	a
+nmod:as_if	forcefully	punch
+punct	move	.

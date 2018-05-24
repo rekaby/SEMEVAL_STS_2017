@@ -1,0 +1,6 @@
+people	Three	nummod
+people	wall	nmod:next_to
+waiting	people	nsubj
+waiting	people	nmod:for
+wall	next	case
+wall	stone	compound

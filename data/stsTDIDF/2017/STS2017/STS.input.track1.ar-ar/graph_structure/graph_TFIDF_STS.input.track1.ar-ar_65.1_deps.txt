@@ -1,0 +1,15 @@
+hats	made	acl
+open	the	det
+open	land	nmod:among
+ROOT	Stands	root
+Stands	hats	appos
+Stands	.	punct
+Stands	group	nmod:for
+straw	of	case
+hats	mostly	advmod
+Stands	,	punct
+made	straw	nmod:of
+open	in	case
+Stands	open	nmod:in
+land	among	case
+land	green	amod

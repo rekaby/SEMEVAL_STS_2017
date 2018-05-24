@@ -1,0 +1,5 @@
+wearing	ribbon	dobj
+wearing	dog	nsubj
+dog	small	amod
+ribbon	street	nmod:on
+ribbon	a	det

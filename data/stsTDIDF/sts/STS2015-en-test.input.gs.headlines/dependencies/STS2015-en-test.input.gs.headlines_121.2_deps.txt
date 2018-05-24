@@ -1,0 +1,6 @@
+nsubj	continue	Protests
+root	ROOT	continue
+case	Ukraine	in
+nmod:in	continue	Ukraine
+case	concessions	despite
+nmod:despite	continue	concessions

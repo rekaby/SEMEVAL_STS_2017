@@ -1,0 +1,8 @@
+nsubj	purport	You
+root	ROOT	purport
+case	life	to
+compound	life	value
+nmod:to	purport	life
+advmod	heavily	very
+advmod	life	heavily
+punct	purport	.

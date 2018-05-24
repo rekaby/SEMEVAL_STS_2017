@@ -1,0 +1,12 @@
+smiling	.	punct
+dress	purple	amod
+dress	in	case
+girl	another	det
+smiling	both	cc:preconj
+dress	and	cc
+smiling	girl	nsubj
+ROOT	smiling	root
+dress	blue	amod
+dress	girl	conj:and
+girl	dress	nmod:in
+dress	a	det

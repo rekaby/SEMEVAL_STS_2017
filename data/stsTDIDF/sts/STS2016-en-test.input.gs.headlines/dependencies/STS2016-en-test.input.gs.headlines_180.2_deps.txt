@@ -1,0 +1,10 @@
+nsubj	disagrees	China
+root	ROOT	disagrees
+case	program	with
+compound	program	U.S.
+compound	program	sanctions
+nmod:with	disagrees	program
+case	attackers	on
+amod	attackers	overseas
+compound	attackers	cyber
+nmod:on	program	attackers

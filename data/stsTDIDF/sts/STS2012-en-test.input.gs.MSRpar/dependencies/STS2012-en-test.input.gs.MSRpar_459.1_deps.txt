@@ -1,0 +1,15 @@
+advmod	removed	When
+nsubj	removed	police
+advcl	weighed	removed
+det	four	the
+dobj	removed	four
+case	home	from
+det	home	the
+nmod:from	removed	home
+punct	weighed	,
+nsubj	weighed	they
+root	ROOT	weighed
+nummod	pounds	136
+dobj	weighed	pounds
+acl	pounds	combined
+punct	weighed	.

@@ -1,0 +1,8 @@
+amod	investigators	American
+nsubj	waiting	investigators
+root	ROOT	waiting
+mark	question	to
+xcomp	waiting	question
+amod	bomber	arrested
+compound	bomber	Boston
+dobj	question	bomber

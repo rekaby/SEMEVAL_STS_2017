@@ -1,0 +1,7 @@
+det	man	A
+nsubj	drives	man
+root	ROOT	drives
+case	street	down
+det	street	the
+nmod:down	drives	street
+punct	drives	.

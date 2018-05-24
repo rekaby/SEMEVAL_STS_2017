@@ -1,0 +1,6 @@
+Artist	.	punct
+Artist	trying	acl
+ROOT	Artist	root
+paintings	his	nmod:poss
+trying	sell	xcomp
+sell	paintings	dobj

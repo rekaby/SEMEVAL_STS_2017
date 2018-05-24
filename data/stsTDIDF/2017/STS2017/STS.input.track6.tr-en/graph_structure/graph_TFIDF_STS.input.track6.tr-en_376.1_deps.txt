@@ -1,0 +1,7 @@
+sidewalk	straight	advmod
+skateboards	sidewalk	nmod:down
+skateboards	The	det
+ROOT	skateboards	root
+sidewalk	down	case
+skateboards	kid	compound
+skateboards	.	punct

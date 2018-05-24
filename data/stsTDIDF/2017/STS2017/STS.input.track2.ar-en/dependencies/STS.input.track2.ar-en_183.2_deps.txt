@@ -1,0 +1,7 @@
+nsubj	riding	Woman
+cc	Woman	and
+conj:and	Woman	child
+root	ROOT	riding
+det	animal	an
+dobj	riding	animal
+punct	riding	.

@@ -1,0 +1,9 @@
+compound	leaders	Opposition
+nsubj	emerge	leaders
+root	ROOT	emerge
+mark	commemorate	to
+xcomp	emerge	commemorate
+amod	workers	Cambodian
+nmod:poss	deaths	workers
+case	workers	'
+dobj	commemorate	deaths

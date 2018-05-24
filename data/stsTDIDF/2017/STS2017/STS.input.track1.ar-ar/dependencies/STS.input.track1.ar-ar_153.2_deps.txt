@@ -1,0 +1,7 @@
+amod	woman	Elderly
+nsubj	pushing	woman
+root	ROOT	pushing
+det	carriage	a
+compound	carriage	baby
+dobj	pushing	carriage
+punct	pushing	.

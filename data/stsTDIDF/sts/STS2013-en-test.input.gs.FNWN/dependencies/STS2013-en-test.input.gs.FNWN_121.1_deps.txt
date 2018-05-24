@@ -1,0 +1,17 @@
+det	stimulus	some
+nsubj	causes	stimulus
+root	ROOT	causes
+det	cognizer	a
+dobj	causes	cognizer
+mark	think	to
+acl	cognizer	think
+case	phenomenon	of
+det	phenomenon	a
+amod	phenomenon	prior
+nmod:of	think	phenomenon
+amod	phenomenon	due
+case	similarity	to
+nmod:poss	similarity	its
+amod	similarity	perceived
+nmod:to	due	similarity
+punct	causes	.

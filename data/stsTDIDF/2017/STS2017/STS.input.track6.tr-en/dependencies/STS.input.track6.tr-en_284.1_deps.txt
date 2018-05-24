@@ -1,0 +1,9 @@
+det	doctor	The
+nsubj	himself	doctor
+cop	himself	is
+case	himself	by
+root	ROOT	himself
+case	office	in
+nmod:poss	office	his
+nmod:in	himself	office
+punct	himself	.

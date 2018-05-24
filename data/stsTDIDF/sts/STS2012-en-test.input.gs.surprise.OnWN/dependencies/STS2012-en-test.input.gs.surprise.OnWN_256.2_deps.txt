@@ -1,0 +1,4 @@
+root	ROOT	allow
+mark	have	to
+xcomp	allow	have
+punct	allow	.

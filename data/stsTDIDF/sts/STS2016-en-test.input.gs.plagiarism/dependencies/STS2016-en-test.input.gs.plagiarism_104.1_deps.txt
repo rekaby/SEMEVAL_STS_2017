@@ -1,0 +1,10 @@
+nsubj	weighting	One
+case	schemes	of
+det	schemes	the
+advmod	famous	most
+amod	schemes	famous
+nmod:of	One	schemes
+cop	weighting	is
+amod	weighting	tf-idf
+root	ROOT	weighting
+punct	weighting	.

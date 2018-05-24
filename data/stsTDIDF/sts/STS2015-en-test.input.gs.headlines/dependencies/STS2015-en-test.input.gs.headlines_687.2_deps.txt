@@ -1,0 +1,7 @@
+compound	presence	NATO
+compound	presence	ups
+amod	presence	military
+root	ROOT	presence
+case	threat	amid
+amod	threat	Russian
+nmod:amid	presence	threat

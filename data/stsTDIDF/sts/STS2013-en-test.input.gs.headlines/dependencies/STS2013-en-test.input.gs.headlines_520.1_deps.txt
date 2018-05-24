@@ -1,0 +1,9 @@
+amod	rebels	Indian
+amod	rebels	Maoist
+nsubj	offer	rebels
+root	ROOT	offer
+dobj	offer	talks
+case	hostages	to
+amod	hostages	free
+amod	hostages	Italian
+nmod:to	talks	hostages

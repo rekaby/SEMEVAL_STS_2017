@@ -1,0 +1,7 @@
+det	submarine	A
+nsubj	going	submarine
+aux	going	is
+root	ROOT	going
+case	water	through
+nmod:through	going	water
+punct	going	.

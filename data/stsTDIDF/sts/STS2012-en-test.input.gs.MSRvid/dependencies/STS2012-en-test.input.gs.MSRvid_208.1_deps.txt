@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	licks	dog
+root	ROOT	licks
+compound:prt	licks	up
+det	baby	a
+nmod:poss	drool	baby
+case	baby	's
+dobj	licks	drool
+punct	licks	.

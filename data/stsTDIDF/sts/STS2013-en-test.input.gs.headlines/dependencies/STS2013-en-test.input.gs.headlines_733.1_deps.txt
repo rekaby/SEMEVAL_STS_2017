@@ -1,0 +1,9 @@
+compound	lawmakers	US
+nsubj	take	lawmakers
+root	ROOT	take
+amod	step	next
+nsubj	sanctions	step
+case	Iran	on
+amod	Iran	new
+nmod:on	step	Iran
+dobj	take	sanctions

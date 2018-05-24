@@ -1,0 +1,16 @@
+root	ROOT	Break
+det	skin	the
+dobj	Break	skin
+punct	part	-LRB-
+case	part	of
+det	part	a
+compound	part	body
+nmod:of	skin	part
+punct	part	-RRB-
+mark	scraping	by
+advcl	Break	scraping
+punct	Break	;
+compound	something	impact
+dep	Break	something
+advmod	something	else
+punct	Break	.

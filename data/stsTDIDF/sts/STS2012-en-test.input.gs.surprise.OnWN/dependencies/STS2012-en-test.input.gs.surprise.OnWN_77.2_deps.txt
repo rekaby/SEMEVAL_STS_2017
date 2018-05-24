@@ -1,0 +1,6 @@
+det	force	the
+root	ROOT	force
+acl	force	used
+mark	pulling	in
+advcl	used	pulling
+punct	force	.

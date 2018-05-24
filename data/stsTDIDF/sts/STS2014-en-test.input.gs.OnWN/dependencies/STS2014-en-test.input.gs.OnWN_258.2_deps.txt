@@ -1,0 +1,10 @@
+root	ROOT	stain
+case	substance	with
+det	substance	a
+amod	substance	dirty
+nmod:with	stain	substance
+punct	substance	,
+case	soot	such
+mwe	such	as
+nmod:such_as	substance	soot
+punct	stain	.

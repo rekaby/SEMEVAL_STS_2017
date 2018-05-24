@@ -1,0 +1,10 @@
+compound	Rules	Peace
+nsubj	defeated	Rules
+root	ROOT	defeated
+amod	Cide	Funny
+dobj	defeated	Cide
+case	Derby	in
+det	Derby	the
+compound	Derby	Louisiana
+nmod:in	defeated	Derby
+punct	defeated	.

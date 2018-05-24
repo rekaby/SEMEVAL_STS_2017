@@ -1,0 +1,7 @@
+nsubj	starts	Housing
+root	ROOT	starts
+compound:prt	starts	up
+nummod	%	6.8
+dobj	starts	%
+case	May	in
+nmod:in	starts	May

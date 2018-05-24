@@ -1,0 +1,10 @@
+compound	Senate	US
+nsubj	confirms	Senate
+root	ROOT	confirms
+compound	Yellen	Janet
+dobj	confirms	Yellen
+case	chief	as
+compound	chief	US
+compound	chief	Federal
+compound	chief	Reserve
+nmod:as	Yellen	chief

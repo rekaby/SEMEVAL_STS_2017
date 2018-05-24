@@ -1,0 +1,9 @@
+root	ROOT	Drawing
+dobj	Drawing	some
+case	art	of
+det	art	the
+nmod:of	some	art
+case	wall	on
+det	wall	a
+nmod:on	Drawing	wall
+punct	Drawing	.

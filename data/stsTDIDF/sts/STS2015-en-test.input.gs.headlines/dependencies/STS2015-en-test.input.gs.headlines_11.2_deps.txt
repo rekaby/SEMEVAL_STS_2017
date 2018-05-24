@@ -1,0 +1,7 @@
+nsubj	confirmed	Six
+root	ROOT	confirmed
+case	collapse	dead
+mark	collapse	after
+compound	building	Philadelphia
+nsubj	collapse	building
+nmod:dead	confirmed	collapse

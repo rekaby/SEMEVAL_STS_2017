@@ -1,0 +1,10 @@
+det	man	The
+nsubj	used	man
+root	ROOT	used
+det	chopper	a
+dobj	used	chopper
+mark	chop	to
+acl	chopper	chop
+det	onion	the
+dobj	chop	onion
+punct	used	.

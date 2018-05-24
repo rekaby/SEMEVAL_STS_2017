@@ -1,0 +1,12 @@
+nsubj	buy	You
+aux	buy	can
+root	ROOT	buy
+dobj	buy	it
+case	ebay	on
+nmod:on	buy	ebay
+case	$	for
+nmod:for	buy	$
+nummod	$	25
+cc	$	and
+advmod	$	up
+punct	buy	.

@@ -1,0 +1,8 @@
+det	thing	The
+amod	thing	entire
+nsubj	makes	thing
+advmod	makes	just
+root	ROOT	makes
+neg	sense	no
+dobj	makes	sense
+punct	makes	.

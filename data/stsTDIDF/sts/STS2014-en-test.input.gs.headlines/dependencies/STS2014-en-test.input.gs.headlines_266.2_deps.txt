@@ -1,0 +1,11 @@
+compound	Snowden	NSA
+compound	Snowden	whistleblower
+compound	Snowden	Edward
+nsubj	leaves	Snowden
+root	ROOT	leaves
+compound	Kong	Hong
+dobj	leaves	Kong
+case	flight	on
+nmod:on	leaves	flight
+case	Moscow	to
+nmod:to	flight	Moscow

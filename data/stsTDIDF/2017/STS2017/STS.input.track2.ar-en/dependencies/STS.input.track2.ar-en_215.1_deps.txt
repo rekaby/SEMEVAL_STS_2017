@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	holds	woman
+root	ROOT	holds
+det	baby	a
+dobj	holds	baby
+case	boat	on
+det	boat	a
+nmod:on	baby	boat
+punct	holds	.

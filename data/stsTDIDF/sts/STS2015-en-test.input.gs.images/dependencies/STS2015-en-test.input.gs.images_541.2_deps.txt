@@ -1,0 +1,10 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	wearing
+amod	twists	green
+dobj	wearing	twists
+dobj	wearing	something
+case	hands	in
+nmod:poss	hands	her
+nmod:in	something	hands
+punct	girl	.

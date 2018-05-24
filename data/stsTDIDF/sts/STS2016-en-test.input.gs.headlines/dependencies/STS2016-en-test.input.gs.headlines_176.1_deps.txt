@@ -1,0 +1,9 @@
+amod	issues	Islamic
+compound	issues	State
+nsubj	hostage	issues
+compound	hostage	video
+case	beheading	of
+nmod:of	video	beheading
+case	US	of
+nmod:of	beheading	US
+root	ROOT	hostage

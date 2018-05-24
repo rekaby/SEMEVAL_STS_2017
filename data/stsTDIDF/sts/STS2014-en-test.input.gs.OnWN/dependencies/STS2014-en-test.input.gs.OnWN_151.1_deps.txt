@@ -1,0 +1,9 @@
+amod	cleanse	clean
+punct	cleanse	,
+root	ROOT	cleanse
+punct	cleanse	,
+cc	cleanse	or
+conj:or	cleanse	able
+mark	cleaned	to
+auxpass	cleaned	be
+xcomp	able	cleaned

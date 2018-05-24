@@ -1,0 +1,14 @@
+nmod:poss	mum	my
+nsubj	married	mum
+root	ROOT	married
+det	man	the
+amod	man	other
+dobj	married	man
+cc	married	and
+conj:and	married	stayed
+case	him	with
+nmod:with	stayed	him
+mark	died	until
+nsubj	died	he
+advcl	stayed	died
+punct	married	.

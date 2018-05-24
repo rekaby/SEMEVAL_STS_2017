@@ -1,0 +1,10 @@
+det	area	An
+root	ROOT	area
+nsubj	central	that
+cop	central	is
+acl:relcl	area	central
+case	region	within
+det	region	some
+amod	region	larger
+nmod:within	central	region
+punct	area	.

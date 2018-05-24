@@ -1,0 +1,9 @@
+compound	warning	Tsunami
+root	ROOT	warning
+punct	warning	:
+neg	need	No
+dep	warning	need
+case	SA	for
+nmod:for	need	SA
+mark	panic	to
+acl	need	panic

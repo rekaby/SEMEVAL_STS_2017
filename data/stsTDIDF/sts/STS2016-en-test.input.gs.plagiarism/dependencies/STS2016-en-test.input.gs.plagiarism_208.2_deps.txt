@@ -1,0 +1,16 @@
+compound	theorem	Bayes
+nsubjpass	used	theorem
+aux	used	can
+auxpass	used	be
+root	ROOT	used
+mark	compute	to
+xcomp	used	compute
+det	probability	the
+dobj	compute	probability
+mark	correct	that
+det	diagnosis	a
+amod	diagnosis	proposed
+nsubj	correct	diagnosis
+cop	correct	is
+ccomp	probability	correct
+punct	used	.

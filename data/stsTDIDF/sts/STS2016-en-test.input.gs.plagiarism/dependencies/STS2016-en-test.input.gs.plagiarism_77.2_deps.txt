@@ -1,0 +1,16 @@
+mark	appears	If
+det	term	a
+nsubj	appears	term
+root	ROOT	appears
+case	document	in
+det	document	the
+nmod:in	non-zero	document
+advmod	value	then
+nmod:poss	value	its
+nsubj	non-zero	value
+case	vector	in
+det	vector	the
+nmod:in	value	vector
+cop	non-zero	is
+ccomp	appears	non-zero
+punct	appears	.

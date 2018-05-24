@@ -1,0 +1,13 @@
+det	woman	A
+root	ROOT	woman
+cc	woman	and
+det	view	a
+compound	view	girl
+conj:and	woman	view
+det	piece	a
+dep	view	piece
+case	artwork	of
+nmod:of	piece	artwork
+advmod	artwork	up
+advmod	piece	close
+punct	woman	.

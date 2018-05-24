@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	young
+nsubj	throwing	girl
+aux	throwing	is
+root	ROOT	throwing
+dobj	throwing	food
+case	ducks	to
+det	ducks	some
+nmod:to	throwing	ducks
+case	pond	in
+det	pond	a
+nmod:in	throwing	pond
+punct	throwing	.

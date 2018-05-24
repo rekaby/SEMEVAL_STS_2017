@@ -1,0 +1,6 @@
+nsubj	hospitalized	Mandela
+root	ROOT	hospitalized
+punct	hospitalized	,
+advcl	hospitalized	responding
+case	treatment	to
+nmod:to	responding	treatment

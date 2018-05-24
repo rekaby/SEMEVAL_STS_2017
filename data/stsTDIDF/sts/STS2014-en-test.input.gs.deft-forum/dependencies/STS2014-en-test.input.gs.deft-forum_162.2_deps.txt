@@ -1,0 +1,13 @@
+compound	Memory	Landon
+root	ROOT	Memory
+case	CATS	from
+nmod:from	Memory	CATS
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	CATS	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Memory	.

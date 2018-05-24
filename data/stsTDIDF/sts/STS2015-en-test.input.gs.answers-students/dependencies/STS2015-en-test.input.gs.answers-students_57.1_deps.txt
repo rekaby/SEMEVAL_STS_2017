@@ -1,0 +1,16 @@
+nsubjpass	contained	Bulb
+dep	Bulb	A
+cc	A	and
+conj:and	A	B
+auxpass	contained	are
+advmod	contained	still
+root	ROOT	contained
+case	path	within
+det	path	a
+amod	path	closed
+nmod:within	contained	path
+cc	path	and
+conj:and	path	connected
+case	battery	to
+det	battery	a
+nmod:to	connected	battery

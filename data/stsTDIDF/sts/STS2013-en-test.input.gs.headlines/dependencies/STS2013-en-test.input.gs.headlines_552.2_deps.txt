@@ -1,0 +1,7 @@
+root	ROOT	Breivik
+punct	Breivik	:
+compound	term	Jail
+dep	ridiculous	term
+punct	ridiculous	`
+dep	Breivik	ridiculous
+punct	ridiculous	'

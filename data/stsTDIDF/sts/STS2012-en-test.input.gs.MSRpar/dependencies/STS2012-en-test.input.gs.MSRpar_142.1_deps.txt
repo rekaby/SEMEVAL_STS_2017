@@ -1,0 +1,14 @@
+det	objection	That
+nsubjpass	cited	objection
+auxpass	cited	was
+root	ROOT	cited
+case	board	by
+nmod:poss	board	PeopleSoft
+case	PeopleSoft	's
+nmod:agent	cited	board
+mark	rejecting	in
+advcl	cited	rejecting
+nmod:poss	offer	Oracle
+case	Oracle	's
+dobj	rejecting	offer
+punct	cited	.

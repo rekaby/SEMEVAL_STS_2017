@@ -1,0 +1,9 @@
+det	man	A
+nsubj	dancing	man
+aux	dancing	is
+root	ROOT	dancing
+dobj	dancing	upside-down
+case	ceiling	on
+det	ceiling	the
+nmod:on	dancing	ceiling
+punct	dancing	.

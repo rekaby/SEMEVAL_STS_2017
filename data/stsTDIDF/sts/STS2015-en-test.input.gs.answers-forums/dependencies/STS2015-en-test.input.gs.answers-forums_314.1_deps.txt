@@ -1,0 +1,14 @@
+nsubj	prefer	I
+root	ROOT	prefer
+mark	run	to
+xcomp	prefer	run
+det	minutes	the
+amod	minutes	second
+compound	minutes	half
+nummod	minutes	1-2
+nsubj	first	minutes
+advmod	then	faster
+advmod	first	then
+det	first	the
+xcomp	run	first
+punct	prefer	.

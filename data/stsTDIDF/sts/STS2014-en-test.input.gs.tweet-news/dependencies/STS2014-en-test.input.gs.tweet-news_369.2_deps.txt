@@ -1,0 +1,10 @@
+compound	Analysis	News
+root	ROOT	Analysis
+punct	Analysis	:
+compound	Productivity	America?s
+nsubj	Climbs	Productivity
+dep	Analysis	Climbs
+punct	Climbs	,
+cc	Climbs	but
+compound	Stagnate	Wages
+conj:but	Climbs	Stagnate

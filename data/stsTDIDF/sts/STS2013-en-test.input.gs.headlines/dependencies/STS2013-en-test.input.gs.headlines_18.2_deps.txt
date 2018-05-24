@@ -1,0 +1,7 @@
+nsubj	secures	Greece
+root	ROOT	secures
+amod	deal	biggest
+compound	deal	debt
+dobj	secures	deal
+case	history	in
+nmod:in	secures	history

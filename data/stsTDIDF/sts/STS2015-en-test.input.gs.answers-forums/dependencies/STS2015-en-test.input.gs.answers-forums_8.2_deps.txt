@@ -1,0 +1,16 @@
+case	general	In
+nmod:in	are	general
+expl	are	there
+root	ROOT	are
+det	number	a
+nsubj	are	number
+case	workflows	of
+amod	workflows	different
+amod	workflows	distinct
+nmod:of	number	workflows
+nsubj	lead	that
+acl:relcl	number	lead
+case	poster	to
+det	poster	a
+nmod:to	lead	poster
+punct	are	.

@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	sitting
+case	desk	around
+det	desk	a
+nmod:around	sitting	desk
+punct	group	.

@@ -1,0 +1,15 @@
+det	person	A
+nsubj	throws	person
+root	ROOT	throws
+det	cat	a
+dobj	throws	cat
+case	air	in
+det	air	the
+nmod:in	throws	air
+cc	throws	and
+nsubj	grabs	it
+conj:and	throws	grabs
+case	ceiling	onto
+det	ceiling	the
+nmod:onto	grabs	ceiling
+punct	throws	.

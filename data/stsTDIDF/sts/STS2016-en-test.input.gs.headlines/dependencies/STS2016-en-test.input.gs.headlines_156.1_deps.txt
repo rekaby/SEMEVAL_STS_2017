@@ -1,0 +1,9 @@
+advmod	3,400	More
+mwe	More	than
+nummod	migrants	3,400
+nsubj	rescued	migrants
+root	ROOT	rescued
+case	sea	at
+nmod:at	rescued	sea
+case	Mediterranean	in
+nmod:in	rescued	Mediterranean

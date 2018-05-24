@@ -1,0 +1,7 @@
+compound	Wives	Osama
+compound	Wives	Bin
+compound	Wives	Laden
+root	ROOT	Wives
+mark	Jailed	to
+auxpass	Jailed	Be
+acl	Wives	Jailed

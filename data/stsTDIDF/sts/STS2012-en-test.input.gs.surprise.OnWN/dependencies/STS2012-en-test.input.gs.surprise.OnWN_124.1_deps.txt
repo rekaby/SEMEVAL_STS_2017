@@ -1,0 +1,7 @@
+dep	assimilate	learn
+punct	assimilate	,
+root	ROOT	assimilate
+det	body	a
+dobj	assimilate	body
+case	knowledge	of
+nmod:of	body	knowledge

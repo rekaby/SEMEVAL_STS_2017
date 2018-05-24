@@ -1,0 +1,8 @@
+nummod	Dead	12
+root	ROOT	Dead
+punct	Dead	,
+case	Cease-fire	Despite
+nmod:despite	Dead	Cease-fire
+case	Ukraine	in
+compound	Ukraine	East
+nmod:in	Cease-fire	Ukraine

@@ -1,0 +1,10 @@
+det	address	any
+root	ROOT	address
+case	which	at
+nmod:at	dwell	which
+nsubj	dwell	you
+acl:relcl	address	dwell
+advmod	dwell	more
+case	temporarily	than
+nmod:than	more	temporarily
+punct	address	.

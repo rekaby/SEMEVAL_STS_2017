@@ -1,0 +1,11 @@
+det	man	The
+nsubj	talked	man
+root	ROOT	talked
+case	girl	to
+det	girl	a
+nmod:to	talked	girl
+case	camera	over
+det	camera	the
+compound	camera	internet
+nmod:over	girl	camera
+punct	talked	.

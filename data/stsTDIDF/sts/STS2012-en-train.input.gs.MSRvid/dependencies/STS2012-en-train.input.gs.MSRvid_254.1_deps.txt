@@ -1,0 +1,8 @@
+det	skateboarder	A
+nsubj	tricks	skateboarder
+aux	tricks	does
+root	ROOT	tricks
+case	half-pipe	on
+det	half-pipe	a
+nmod:on	tricks	half-pipe
+punct	tricks	.

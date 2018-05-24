@@ -1,0 +1,7 @@
+shows	toddler	nsubj
+dress	frilly	amod
+dress	in	case
+joy	her	nmod:poss
+toddler	dress	nmod:in
+shows	joy	dobj
+toddler	A	det

@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+det	block	a
+dobj	cutting	block
+case	tofu	of
+nmod:of	block	tofu
+case	cubes	into
+amod	cubes	small
+nmod:into	cutting	cubes
+punct	cutting	.

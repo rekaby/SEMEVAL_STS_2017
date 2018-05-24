@@ -1,0 +1,6 @@
+nummod	dogs	Two
+root	ROOT	dogs
+cc	dogs	and
+det	ball	a
+conj:and	dogs	ball
+punct	dogs	.

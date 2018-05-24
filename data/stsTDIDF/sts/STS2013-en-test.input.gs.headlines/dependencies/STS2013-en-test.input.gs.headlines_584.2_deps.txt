@@ -1,0 +1,6 @@
+compound	verdict	Pussy
+compound	verdict	Riot
+root	ROOT	verdict
+acl	verdict	greeted
+case	defiance	with
+nmod:with	greeted	defiance

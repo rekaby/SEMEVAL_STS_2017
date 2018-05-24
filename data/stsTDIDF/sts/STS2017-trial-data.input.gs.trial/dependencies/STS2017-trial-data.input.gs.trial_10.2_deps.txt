@@ -1,0 +1,11 @@
+advmod	connect	How
+aux	connect	do
+nsubj	connect	I
+root	ROOT	connect
+det	wires	the
+dobj	connect	wires
+case	receptacle	to
+det	receptacle	this
+amod	receptacle	USB
+nmod:to	connect	receptacle
+punct	connect	?

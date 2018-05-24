@@ -1,0 +1,8 @@
+root	ROOT	pass
+advmod	pass	over
+punct	pass	,
+dep	pass	across
+punct	across	,
+cc	across	or
+conj:or	across	through
+punct	pass	.

@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	little
+nsubj	reading	girl
+cc	girl	and
+conj:and	girl	boy
+aux	reading	are
+root	ROOT	reading
+dobj	reading	books
+punct	reading	.

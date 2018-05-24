@@ -1,0 +1,16 @@
+det	Carpetbagger	The
+root	ROOT	Carpetbagger
+punct	Carpetbagger	:
+punct	Fruitvale	`
+dep	Drama	Fruitvale
+punct	Fruitvale	,
+punct	Fruitvale	'
+dep	Carpetbagger	Drama
+case	Buzz	With
+amod	Buzz	Little
+compound	Buzz	Advance
+nmod:with	Drama	Buzz
+punct	Drama	,
+appos	Drama	Wins
+case	Sundance	at
+nmod:at	Wins	Sundance

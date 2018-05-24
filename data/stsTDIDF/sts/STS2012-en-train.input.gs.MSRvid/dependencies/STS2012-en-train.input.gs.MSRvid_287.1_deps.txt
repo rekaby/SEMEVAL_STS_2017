@@ -1,0 +1,9 @@
+det	man	A
+nsubj	plays	man
+root	ROOT	plays
+det	keyboard	the
+dobj	plays	keyboard
+case	nose	with
+nmod:poss	nose	his
+nmod:with	plays	nose
+punct	plays	.

@@ -1,0 +1,8 @@
+det	target	The
+nsubjpass	shot	target
+aux	shot	was
+auxpass	shot	being
+root	ROOT	shot
+case	bullets	with
+nmod:with	shot	bullets
+punct	shot	.

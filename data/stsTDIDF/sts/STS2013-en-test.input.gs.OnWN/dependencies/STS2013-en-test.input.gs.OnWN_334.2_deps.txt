@@ -1,0 +1,9 @@
+det	representation	a
+amod	representation	concrete
+root	ROOT	representation
+case	concept	of
+det	concept	an
+advmod	nebulous	otherwise
+amod	concept	nebulous
+nmod:of	representation	concept
+punct	representation	.

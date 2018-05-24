@@ -1,0 +1,5 @@
+sleeping	bedroom	nmod:in
+sleeping	woman	nsubj
+sleeping	is	aux
+bedroom	in	case
+bedroom	the	det

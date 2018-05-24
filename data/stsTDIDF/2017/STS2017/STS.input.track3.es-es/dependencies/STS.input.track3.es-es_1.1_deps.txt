@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	toy	dog
+cop	toy	is
+case	toy	with
+det	toy	a
+root	ROOT	toy
+punct	toy	.

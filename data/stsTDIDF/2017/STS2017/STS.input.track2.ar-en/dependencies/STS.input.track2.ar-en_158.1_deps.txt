@@ -1,0 +1,14 @@
+det	marketplace	This
+nsubj	features	marketplace
+root	ROOT	features
+amod	vendors	multiple
+dobj	features	vendors
+acl	vendors	selling
+dobj	selling	fruits
+punct	fruits	,
+conj:and	fruits	vegetables
+punct	fruits	,
+cc	fruits	and
+amod	items	other
+conj:and	fruits	items
+punct	features	.

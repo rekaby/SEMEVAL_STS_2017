@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	walking	woman
+aux	walking	is
+root	ROOT	walking
+case	daughter	with
+nmod:poss	daughter	her
+nmod:with	walking	daughter
+punct	walking	.

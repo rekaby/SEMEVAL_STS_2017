@@ -1,0 +1,13 @@
+root	ROOT	attract
+punct	attract	;
+dep	attract	cause
+mark	enamored	to
+auxpass	enamored	be
+xcomp	cause	enamored
+case	nature	by
+punct	one	-LRB-
+appos	nature	one
+case	one	's
+punct	one	-RRB-
+nmod:agent	enamored	nature
+punct	attract	.

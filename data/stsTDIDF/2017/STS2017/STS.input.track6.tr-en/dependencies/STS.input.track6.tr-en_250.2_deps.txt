@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	works	woman
+root	ROOT	works
+case	machine	with
+det	machine	a
+nmod:with	works	machine
+punct	works	.

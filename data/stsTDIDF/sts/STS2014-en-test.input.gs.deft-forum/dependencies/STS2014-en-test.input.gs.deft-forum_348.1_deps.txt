@@ -1,0 +1,16 @@
+amod	people	Pro-life
+nsubj	want	people
+aux	want	do
+neg	want	not
+root	ROOT	want
+det	woman	a
+dobj	want	woman
+mark	able	to
+cop	able	be
+xcomp	want	able
+mark	choose	to
+xcomp	able	choose
+dobj	choose	abortion
+case	herself	for
+nmod:for	choose	herself
+punct	want	.

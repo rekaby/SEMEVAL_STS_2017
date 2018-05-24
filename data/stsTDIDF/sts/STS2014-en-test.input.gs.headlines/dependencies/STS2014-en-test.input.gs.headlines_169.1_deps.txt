@@ -1,0 +1,12 @@
+nsubj	reports	Ryanair
+root	ROOT	reports
+compound	profits	record
+dobj	reports	profits
+cc	reports	but
+conj:but	reports	warns
+dobj	warns	growth
+amod	growth	likely
+mark	slow	to
+xcomp	likely	slow
+det	year	this
+nmod:tmod	slow	year

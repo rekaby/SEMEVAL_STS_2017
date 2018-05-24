@@ -1,0 +1,16 @@
+det	question	The
+nsubj	pops	question
+punct	pops	,
+mark	matter	if
+nsubj	matter	it
+cop	matter	is
+advmod	matter	really
+det	matter	a
+advcl	pops	matter
+case	chance	of
+nmod:of	matter	chance
+punct	pops	,
+root	ROOT	pops
+compound:prt	pops	up
+advmod	pops	naturally
+punct	pops	.

@@ -1,0 +1,6 @@
+amod	president	Mauritanian
+root	ROOT	president
+acl	president	shot
+case	unit	by
+compound	unit	army
+nmod:by	shot	unit

@@ -1,0 +1,9 @@
+det	indication	an
+root	ROOT	indication
+cc	indication	or
+conj:or	indication	manifestation
+case	something	of
+nmod:of	manifestation	something
+punct	indication	,
+advmod	physical	often
+amod	indication	physical

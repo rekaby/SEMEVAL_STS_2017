@@ -1,0 +1,9 @@
+det	men	The
+nsubj	trying	men
+aux	trying	are
+root	ROOT	trying
+mark	make	to
+xcomp	trying	make
+det	money	some
+dobj	make	money
+punct	trying	.

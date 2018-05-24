@@ -1,0 +1,7 @@
+det	outburst	A
+amod	outburst	sudden
+punct	emotional	-LRB-
+dep	sudden	emotional
+punct	emotional	-RRB-
+root	ROOT	outburst
+punct	outburst	.

@@ -1,0 +1,8 @@
+compound	Cook	Thomas
+nsubj	accused	Cook
+root	ROOT	accused
+mark	putting	of
+advcl	accused	putting
+dobj	putting	costs
+case	customers	before
+nmod:before	putting	customers

@@ -1,0 +1,8 @@
+compound	missiles	US
+nsubj	kill	missiles
+root	ROOT	kill
+dobj	kill	15
+case	Pakistan	in
+nmod:in	15	Pakistan
+punct	kill	:
+dep	kill	officials

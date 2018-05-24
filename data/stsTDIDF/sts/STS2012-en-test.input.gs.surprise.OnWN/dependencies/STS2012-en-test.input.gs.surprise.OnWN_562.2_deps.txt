@@ -1,0 +1,7 @@
+root	ROOT	provide
+case	toggle	with
+det	toggle	a
+nmod:with	provide	toggle
+cc	toggle	or
+conj:or	toggle	toggles
+punct	provide	.

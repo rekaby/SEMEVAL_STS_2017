@@ -1,0 +1,14 @@
+nsubj	suits	It
+root	ROOT	suits
+mark	implied	that
+det	Union	the
+compound	Union	European
+nsubjpass	implied	Union
+auxpass	implied	is
+ccomp	suits	implied
+cc	implied	and
+mark	makesit	that
+nsubj	makesit	it
+conj:and	implied	makesit
+advmod	makesit	rapidly
+punct	suits	.

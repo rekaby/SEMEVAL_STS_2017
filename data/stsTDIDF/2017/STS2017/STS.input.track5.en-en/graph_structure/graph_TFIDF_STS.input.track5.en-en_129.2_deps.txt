@@ -1,0 +1,6 @@
+dog	white	amod
+chasing	cows	dobj
+chasing	.	punct
+chasing	is	aux
+ROOT	chasing	root
+chasing	dog	nsubj

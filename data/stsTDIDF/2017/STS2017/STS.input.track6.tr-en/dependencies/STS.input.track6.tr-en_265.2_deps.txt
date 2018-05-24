@@ -1,0 +1,6 @@
+nummod	brothers	Two
+nsubj	playing	brothers
+aux	playing	are
+root	ROOT	playing
+advmod	playing	outside
+punct	playing	.

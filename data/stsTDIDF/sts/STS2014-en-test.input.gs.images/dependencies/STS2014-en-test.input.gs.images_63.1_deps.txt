@@ -1,0 +1,11 @@
+det	women	A
+nsubj	laying	women
+root	ROOT	laying
+case	men	across
+nummod	men	two
+nmod:across	laying	men
+acl	men	sitting
+case	sofa	on
+det	sofa	a
+nmod:on	sitting	sofa
+punct	laying	.

@@ -1,0 +1,12 @@
+det	person	A
+root	ROOT	person
+amod	person	standing
+case	stage	on
+det	stage	a
+nmod:on	standing	stage
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+amod	crowd	seated
+nmod:in_front_of	stage	crowd

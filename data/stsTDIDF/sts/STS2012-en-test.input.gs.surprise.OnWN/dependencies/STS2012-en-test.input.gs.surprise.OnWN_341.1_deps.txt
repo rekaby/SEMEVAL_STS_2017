@@ -1,0 +1,11 @@
+punct	Cause	-LRB-
+dep	turn	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+mark	turn	to
+root	ROOT	turn
+case	side	to
+det	side	the
+amod	side	left
+nmod:to	turn	side
+punct	turn	.

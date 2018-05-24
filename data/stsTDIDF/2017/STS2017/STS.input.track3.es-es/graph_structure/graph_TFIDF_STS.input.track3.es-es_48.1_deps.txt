@@ -1,0 +1,7 @@
+shirt	striped	amod
+climbs	woman	nsubj
+ROOT	climbs	root
+climbs	mountain	dobj
+climbs	.	punct
+mountain	a	det
+woman	shirt	nmod:in

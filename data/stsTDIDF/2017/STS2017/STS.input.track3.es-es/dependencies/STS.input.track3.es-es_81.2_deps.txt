@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+acl	woman	holding
+dobj	holding	hands
+punct	man	.

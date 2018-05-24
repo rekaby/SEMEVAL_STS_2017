@@ -1,0 +1,4 @@
+player	The	det
+uniform	a	det
+wearing	player	nsubj
+wearing	uniform	dobj

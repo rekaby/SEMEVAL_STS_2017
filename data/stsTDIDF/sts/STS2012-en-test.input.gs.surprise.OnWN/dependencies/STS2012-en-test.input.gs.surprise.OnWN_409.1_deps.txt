@@ -1,0 +1,5 @@
+root	ROOT	make
+punct	more	-LRB-
+dep	make	more
+punct	more	-RRB-
+xcomp	make	comprehensible

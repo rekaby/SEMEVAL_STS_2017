@@ -1,0 +1,6 @@
+root	ROOT	People
+nsubj	make	who
+acl:relcl	People	make
+dobj	make	music
+advmod	make	together
+punct	People	.

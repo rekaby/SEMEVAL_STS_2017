@@ -1,0 +1,5 @@
+det	woman	A
+nsubj	sits	woman
+root	ROOT	sits
+xcomp	sits	fanning
+dobj	fanning	herself

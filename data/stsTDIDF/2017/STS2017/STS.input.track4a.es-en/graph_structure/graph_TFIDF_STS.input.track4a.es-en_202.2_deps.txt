@@ -1,0 +1,6 @@
+man	boy	conj:and
+shorts	in	case
+bridge	on	case
+stand	bridge	nmod:on
+boy	shorts	nmod:in
+stand	man	nsubj

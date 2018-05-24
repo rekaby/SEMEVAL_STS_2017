@@ -1,0 +1,6 @@
+det	entity	a
+amod	entity	separate
+cc	separate	and
+conj:and	separate	self-contained
+root	ROOT	entity
+punct	entity	.

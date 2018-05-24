@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+nummod	dogs	two
+nsubj	are	dogs
+cc	dogs	and
+det	woman	a
+conj:and	dogs	woman
+punct	are	.

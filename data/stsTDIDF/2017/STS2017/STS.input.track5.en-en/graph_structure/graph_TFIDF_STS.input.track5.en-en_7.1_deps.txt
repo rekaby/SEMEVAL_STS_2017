@@ -1,0 +1,12 @@
+shaved	is	aux
+shaved	man	nsubjpass
+hall	in	case
+shaved	being	auxpass
+shaved	hall	nmod:in_front_of
+beard	with	case
+hall	a	det
+ROOT	shaved	root
+beard	gray	amod
+hall	lecture	compound
+beard	a	det
+man	beard	nmod:with

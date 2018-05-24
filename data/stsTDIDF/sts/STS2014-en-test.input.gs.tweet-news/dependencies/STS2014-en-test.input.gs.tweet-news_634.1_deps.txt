@@ -1,0 +1,15 @@
+root	ROOT	Populist
+case	backbone	without
+det	backbone	a
+nmod:without	Populist	backbone
+acl	backbone	elected
+case	vote	by
+amod	vote	popular
+nmod:by	elected	vote
+acl	vote	supported
+case	#Zeman	by
+amod	#Zeman	heavy
+compound	#Zeman	media
+compound	#Zeman	campaign
+nmod:by	supported	#Zeman
+dep	#Zeman	#CzechRepublic

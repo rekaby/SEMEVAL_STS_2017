@@ -1,0 +1,9 @@
+det	child	A
+nsubj	trying	child
+aux	trying	is
+root	ROOT	trying
+mark	hit	to
+xcomp	trying	hit
+det	ball	a
+dobj	hit	ball
+punct	trying	.

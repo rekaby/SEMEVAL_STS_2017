@@ -1,0 +1,9 @@
+compound	Korea	N
+nsubj	halt	Korea
+mark	halt	to
+root	ROOT	halt
+dobj	halt	work
+case	zone	at
+amod	zone	joint
+amod	zone	industrial
+nmod:at	halt	zone

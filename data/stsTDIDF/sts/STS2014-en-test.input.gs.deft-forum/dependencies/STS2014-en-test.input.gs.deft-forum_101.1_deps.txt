@@ -1,0 +1,6 @@
+root	ROOT	And
+det	fact	the
+amod	fact	simple
+dep	And	fact
+dep	fact	today
+punct	And	?

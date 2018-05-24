@@ -1,0 +1,8 @@
+det	train	A
+nsubj	tracks	train
+cop	tracks	is
+case	tracks	on
+det	tracks	the
+compound	tracks	railroad
+root	ROOT	tracks
+punct	tracks	.

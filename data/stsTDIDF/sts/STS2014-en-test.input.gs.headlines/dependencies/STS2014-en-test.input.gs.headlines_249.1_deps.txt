@@ -1,0 +1,5 @@
+nummod	jolts	6.2
+compound	jolts	magnitude
+compound	jolts	quake
+root	ROOT	jolts
+nmod:npmod	jolts	Sarangani

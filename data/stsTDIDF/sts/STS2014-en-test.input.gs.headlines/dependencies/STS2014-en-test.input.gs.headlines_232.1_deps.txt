@@ -1,0 +1,5 @@
+compound	votes	Egypt
+root	ROOT	votes
+case	constitution	in
+amod	constitution	new
+nmod:in	votes	constitution

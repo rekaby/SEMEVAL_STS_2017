@@ -1,0 +1,11 @@
+shirt	sunglasses	conj:and
+shirt	,	punct
+mouth	over	case
+shirt	black	amod
+puts	man	nsubj
+hat	black	amod
+man	black	amod
+puts	mouth	nmod:over
+mouth	his	nmod:poss
+shirt	hat	conj:and
+puts	hand	dobj

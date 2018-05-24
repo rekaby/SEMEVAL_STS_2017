@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sliced	man
+root	ROOT	sliced
+det	bottle	a
+amod	bottle	plastic
+dobj	sliced	bottle
+case	sword	with
+det	sword	a
+nmod:with	sliced	sword
+punct	sliced	.

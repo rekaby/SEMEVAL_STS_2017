@@ -1,0 +1,7 @@
+det	day	the
+amod	day	specified
+root	ROOT	day
+case	month	of
+det	month	the
+nmod:of	day	month
+punct	day	;

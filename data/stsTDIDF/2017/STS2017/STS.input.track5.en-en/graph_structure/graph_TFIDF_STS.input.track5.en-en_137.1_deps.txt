@@ -1,0 +1,13 @@
+blazer	tan	compound
+engaged	conversation	nmod:in
+blazer	in	case
+Female	shirt	nmod:in
+conversation	female	nmod:with
+blazer	a	det
+ROOT	engaged	root
+engaged	Female	nsubj
+shirt	maroon	compound
+female	another	det
+conversation	blazer	nmod:in
+conversation	in	case
+female	with	case

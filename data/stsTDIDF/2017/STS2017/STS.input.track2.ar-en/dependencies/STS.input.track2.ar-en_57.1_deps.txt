@@ -1,0 +1,10 @@
+nsubj	breaks	Superman
+root	ROOT	breaks
+case	sign	down
+det	sign	the
+nmod:down	breaks	sign
+mark	pass	so
+det	group	the
+nsubj	pass	group
+aux	pass	may
+advcl	breaks	pass

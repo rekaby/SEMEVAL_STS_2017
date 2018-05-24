@@ -1,0 +1,12 @@
+det	establishment	a
+compound	establishment	mercantile
+root	ROOT	establishment
+case	sale	for
+det	sale	the
+amod	sale	retail
+nmod:for	establishment	sale
+case	goods	of
+nmod:of	sale	goods
+cc	goods	or
+conj:or	goods	services
+punct	establishment	.

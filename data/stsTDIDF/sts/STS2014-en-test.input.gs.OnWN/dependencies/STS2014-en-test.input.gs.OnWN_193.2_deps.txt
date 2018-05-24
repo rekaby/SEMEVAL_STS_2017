@@ -1,0 +1,14 @@
+mark	turn	to
+root	ROOT	turn
+compound:prt	turn	in
+punct	vouchers	-LRB-
+dep	turn	vouchers
+cc	vouchers	or
+conj:or	vouchers	coupons
+punct	vouchers	-RRB-
+cc	turn	and
+conj:and	turn	receive
+dobj	receive	something
+case	exchange	in
+nmod:in	receive	exchange
+punct	turn	.

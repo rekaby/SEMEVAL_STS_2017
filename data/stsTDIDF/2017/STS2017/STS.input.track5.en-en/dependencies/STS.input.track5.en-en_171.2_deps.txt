@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	mowing	girl
+aux	mowing	is
+root	ROOT	mowing
+det	grass	the
+dobj	mowing	grass
+case	mower	with
+det	mower	a
+compound	mower	lawn
+nmod:with	mowing	mower
+punct	mowing	.

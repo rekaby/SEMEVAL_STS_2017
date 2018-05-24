@@ -1,0 +1,12 @@
+nsubj	allowed	He
+root	ROOT	allowed
+nummod	runs	two
+dobj	allowed	runs
+case	innings	in
+nummod	innings	seven
+nmod:in	runs	innings
+cc	allowed	and
+conj:and	allowed	struck
+compound:prt	struck	out
+dobj	struck	six
+punct	allowed	.

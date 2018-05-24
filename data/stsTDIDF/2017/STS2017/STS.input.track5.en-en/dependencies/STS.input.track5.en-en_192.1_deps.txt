@@ -1,0 +1,7 @@
+det	girl	The
+nsubj	has	girl
+root	ROOT	has
+det	driver	a
+nmod:poss	license	driver
+case	driver	's
+dobj	has	license

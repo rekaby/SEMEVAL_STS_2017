@@ -1,0 +1,9 @@
+amod	signals	Turkish
+compound	signals	Prime
+compound	signals	Minister
+nsubj	return	signals
+root	ROOT	return
+mark	hardline	to
+xcomp	return	hardline
+case	protesters	on
+nmod:on	hardline	protesters

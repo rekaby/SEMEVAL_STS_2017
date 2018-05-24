@@ -1,0 +1,17 @@
+det	man	The
+root	ROOT	man
+nsubj	stood	who
+acl:relcl	man	stood
+case	mirror	in
+mwe	in	front
+mwe	in	of
+det	mirror	the
+nmod:in_front_of	stood	mirror
+cc	stood	and
+conj:and	stood	shaved
+case	blade	with
+det	blade	a
+amod	blade	disposable
+compound	blade	razor
+nmod:with	shaved	blade
+punct	man	.

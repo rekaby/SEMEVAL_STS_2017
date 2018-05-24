@@ -1,0 +1,10 @@
+nmod:poss	rules	Egypt
+case	Egypt	's
+compound	rules	Morsi
+nsubj	appears	rules
+case	talks	out
+nmod:out	rules	talks
+case	video	as
+compound	video	hostage
+nmod:as	talks	video
+root	ROOT	appears

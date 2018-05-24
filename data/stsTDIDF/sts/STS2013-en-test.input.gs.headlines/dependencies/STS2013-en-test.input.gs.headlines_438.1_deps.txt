@@ -1,0 +1,11 @@
+nsubj	finds	Man
+root	ROOT	finds
+dobj	finds	car
+case	eBay	on
+nmod:on	stolen	eBay
+nummod	years	42
+nmod:tmod	stolen	years
+case	years	after
+nsubjpass	stolen	it
+auxpass	stolen	was
+advcl	finds	stolen

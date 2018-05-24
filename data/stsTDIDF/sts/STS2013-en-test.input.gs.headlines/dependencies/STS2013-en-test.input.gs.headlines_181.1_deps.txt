@@ -1,0 +1,7 @@
+compound	Court	Arkansas
+compound	Court	Supreme
+nsubj	strikes	Court
+root	ROOT	strikes
+compound:prt	strikes	down
+compound	law	execution
+dobj	strikes	law

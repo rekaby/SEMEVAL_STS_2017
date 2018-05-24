@@ -1,0 +1,9 @@
+root	ROOT	Funeral
+case	Paisley	of
+compound	Paisley	Ian
+nmod:of	Funeral	Paisley
+mark	take	to
+acl	Funeral	take
+dobj	take	place
+case	Belfast	in
+nmod:in	take	Belfast

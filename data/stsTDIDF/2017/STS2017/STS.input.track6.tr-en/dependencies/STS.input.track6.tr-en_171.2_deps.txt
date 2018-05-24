@@ -1,0 +1,8 @@
+det	man	The
+root	ROOT	man
+nsubj	rides	who
+acl:relcl	man	rides
+case	York	in
+compound	York	New
+nmod:in	rides	York
+punct	man	.

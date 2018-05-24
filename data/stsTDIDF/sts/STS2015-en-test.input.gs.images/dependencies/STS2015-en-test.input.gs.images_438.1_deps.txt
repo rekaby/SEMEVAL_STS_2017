@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+case	bag	with
+det	bag	a
+compound	bag	messenger
+nmod:with	man	bag
+case	wall	in
+mwe	in	front
+mwe	in	of
+det	wall	a
+amod	wall	gray
+compound	wall	tile
+nmod:in_front_of	bag	wall
+punct	man	.

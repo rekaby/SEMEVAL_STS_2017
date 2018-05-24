@@ -1,0 +1,6 @@
+waiting	catch	xcomp
+friend	for	case
+waiting	is	aux
+waiting	friend	nmod:for
+catch	up	compound:prt
+waiting	man	nsubj

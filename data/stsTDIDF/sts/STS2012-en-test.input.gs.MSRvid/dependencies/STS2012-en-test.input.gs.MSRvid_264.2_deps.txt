@@ -1,0 +1,8 @@
+det	person	A
+nsubj	writing	person
+aux	writing	is
+root	ROOT	writing
+case	pencil	with
+det	pencil	a
+nmod:with	writing	pencil
+punct	writing	.

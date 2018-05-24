@@ -1,0 +1,7 @@
+det	person	A
+amod	person	young
+root	ROOT	person
+amod	person	deep
+case	thought	in
+nmod:in	deep	thought
+punct	person	.

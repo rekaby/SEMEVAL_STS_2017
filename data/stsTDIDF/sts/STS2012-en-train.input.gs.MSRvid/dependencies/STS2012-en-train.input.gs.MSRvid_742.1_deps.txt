@@ -1,0 +1,8 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	flute	the
+amod	flute	wooden
+dobj	playing	flute
+punct	playing	.

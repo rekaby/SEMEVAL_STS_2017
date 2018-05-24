@@ -1,0 +1,15 @@
+det	answer	The
+nsubj	is	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+root	ROOT	is
+punct	is	:
+nsubj	depends	It
+parataxis	is	depends
+mark	works	on
+advmod	works	how
+det	writer	the
+nsubj	works	writer
+advcl	depends	works
+punct	is	.

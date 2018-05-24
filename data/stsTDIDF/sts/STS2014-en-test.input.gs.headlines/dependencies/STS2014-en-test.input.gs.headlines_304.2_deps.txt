@@ -1,0 +1,6 @@
+nsubj	killed	Many
+root	ROOT	killed
+case	strike	in
+amod	strike	Syrian
+compound	strike	air
+nmod:in	killed	strike

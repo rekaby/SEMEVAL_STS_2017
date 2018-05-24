@@ -1,0 +1,5 @@
+aware	doing	advcl
+aware	not	neg
+lost	aware	conj:and
+lost	is	auxpass
+lost	He	nsubjpass

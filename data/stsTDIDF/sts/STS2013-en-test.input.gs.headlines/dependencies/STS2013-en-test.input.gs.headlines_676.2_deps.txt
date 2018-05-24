@@ -1,0 +1,9 @@
+nsubj	orders	US
+root	ROOT	orders
+amod	staff	non-essential
+dobj	orders	staff
+mark	leave	to
+acl	orders	leave
+dobj	leave	Tunisia
+punct	orders	,
+appos	orders	Sudan

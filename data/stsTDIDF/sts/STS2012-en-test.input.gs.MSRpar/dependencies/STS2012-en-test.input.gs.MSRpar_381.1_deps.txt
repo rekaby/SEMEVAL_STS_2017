@@ -1,0 +1,17 @@
+nsubj	lucrative	Tampering
+case	medicine	with
+nmod:with	Tampering	medicine
+aux	lucrative	has
+cop	lucrative	been
+advmod	lucrative	so
+root	ROOT	lucrative
+dobj	lucrative	that
+amod	that	many
+case	those	of
+nmod:of	many	those
+amod	lived	arrested
+acl	those	lived
+case	homes	in
+amod	homes	million-dollar
+nmod:in	lived	homes
+punct	lucrative	.

@@ -1,0 +1,7 @@
+grass	through	case
+Ttan	grass	nmod:through
+Ttan	fall	nmod:in
+Ttan	girls	nsubj
+Ttan	.	punct
+ROOT	Ttan	root
+girls	Two	nummod

@@ -1,0 +1,11 @@
+throwing	is	aux
+ducks	some	det
+throwing	food	dobj
+ducks	to	case
+throwing	ducks	nmod:to
+throwing	pond	nmod:in
+throwing	girl	nsubj
+pond	in	case
+pond	a	det
+ROOT	throwing	root
+throwing	.	punct

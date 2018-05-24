@@ -1,0 +1,7 @@
+compound	protesters	Thai
+nsubj	launch	protesters
+root	ROOT	launch
+dobj	launch	Bangkok
+punct	launch	`
+dobj	launch	shutdown
+punct	launch	'

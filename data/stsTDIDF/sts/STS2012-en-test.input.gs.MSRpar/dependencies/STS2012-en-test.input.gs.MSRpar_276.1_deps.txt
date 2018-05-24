@@ -1,0 +1,27 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+nsubj	<	average
+root	ROOT	<
+punct	<	.-7) nsubj(added-3, DJI
+advmod	added	>
+root	ROOT	added
+nummod	points	28
+dobj	added	points
+punct	points	,
+cc	points	or
+nummod	percent	0.27
+conj:or	points	percent
+punct	points	,
+case	10,557	at
+nmod:at	points	10,557
+punct	points	,
+acl	points	hitting
+nmod:poss	level	its
+amod	level	highest
+dobj	hitting	level
+case	months	in
+nummod	months	21
+nmod:in	hitting	months
+punct	added	.

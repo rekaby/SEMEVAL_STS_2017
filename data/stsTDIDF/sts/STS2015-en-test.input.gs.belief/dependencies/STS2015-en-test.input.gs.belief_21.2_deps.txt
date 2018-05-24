@@ -1,0 +1,6 @@
+root	ROOT	thanks
+case	heads	for
+det	heads	the
+nmod:for	thanks	heads
+advmod	heads	up
+punct	thanks	.

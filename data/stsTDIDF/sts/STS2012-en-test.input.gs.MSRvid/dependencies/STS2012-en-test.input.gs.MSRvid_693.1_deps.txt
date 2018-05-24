@@ -1,0 +1,7 @@
+det	monkey	A
+amod	monkey	small
+nsubj	walks	monkey
+root	ROOT	walks
+case	water	through
+nmod:through	walks	water
+punct	walks	.

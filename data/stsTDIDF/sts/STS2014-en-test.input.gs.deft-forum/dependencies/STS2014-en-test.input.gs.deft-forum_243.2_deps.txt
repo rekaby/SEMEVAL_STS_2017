@@ -1,0 +1,8 @@
+nsubj	like	I
+aux	like	do
+neg	like	n't
+root	ROOT	like
+amod	drinks	many
+amod	drinks	flavored
+dobj	like	drinks
+punct	like	.

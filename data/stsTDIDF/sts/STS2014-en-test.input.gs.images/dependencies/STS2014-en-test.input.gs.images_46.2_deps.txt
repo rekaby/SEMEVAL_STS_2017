@@ -1,0 +1,9 @@
+det	plane	A
+amod	plane	camouflaged
+root	ROOT	plane
+acl	plane	sitting
+case	grass	on
+det	grass	the
+amod	grass	green
+nmod:on	sitting	grass
+punct	plane	.

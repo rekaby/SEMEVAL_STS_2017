@@ -1,0 +1,6 @@
+punct	emergency	`
+amod	emergency	Humanitarian
+root	ROOT	emergency
+punct	emergency	'
+case	Syria	in
+nmod:in	emergency	Syria

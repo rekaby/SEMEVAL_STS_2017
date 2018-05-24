@@ -1,0 +1,8 @@
+nsubj	kill	Spate
+case	attacks	of
+compound	attacks	Iraq
+nmod:of	Spate	attacks
+root	ROOT	kill
+case	least	at
+nmod:at	kill	least
+nummod	least	six

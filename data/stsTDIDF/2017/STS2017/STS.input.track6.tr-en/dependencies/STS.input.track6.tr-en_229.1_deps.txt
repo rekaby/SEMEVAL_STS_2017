@@ -1,0 +1,7 @@
+det	person	a
+nsubj	child	person
+cop	child	is
+case	child	with
+det	child	a
+amod	child	cute
+root	ROOT	child

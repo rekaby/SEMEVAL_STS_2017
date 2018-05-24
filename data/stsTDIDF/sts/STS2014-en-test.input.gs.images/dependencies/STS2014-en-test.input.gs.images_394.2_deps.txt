@@ -1,0 +1,17 @@
+det	girl	A
+amod	girl	young
+amod	girl	blonde
+nsubj	sits	girl
+mark	riding	in
+acl	girl	riding
+dobj	riding	gear
+root	ROOT	sits
+case	horse	on
+mwe	on	top
+mwe	on	of
+det	horse	a
+amod	horse	gray
+cc	gray	and
+conj:and	gray	white
+nmod:on_top_of	sits	horse
+punct	sits	.

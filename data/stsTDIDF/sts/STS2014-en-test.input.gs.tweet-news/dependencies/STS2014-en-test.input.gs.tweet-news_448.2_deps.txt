@@ -1,0 +1,10 @@
+root	ROOT	`
+compound	scope	Fireflies
+punct	scope	'
+mark	scope	to
+root	`	scope
+case	rocks	out
+compound	rocks	space
+nmod:out	scope	rocks
+case	mining	for
+nmod:for	rocks	mining

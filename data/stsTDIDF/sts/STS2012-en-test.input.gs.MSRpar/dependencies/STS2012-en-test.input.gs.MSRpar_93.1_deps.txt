@@ -1,0 +1,16 @@
+nsubj	time	It
+cop	time	was
+det	time	the
+amod	time	third
+root	ROOT	time
+case	years	in
+nummod	years	four
+nmod:in	time	years
+mark	forced	that
+nsubj	forced	wildfires
+ccomp	time	forced
+det	park	the
+dobj	forced	park
+mark	close	to
+advcl	forced	close
+punct	time	.

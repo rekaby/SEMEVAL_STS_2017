@@ -1,0 +1,10 @@
+case	Subways	In
+det	Subways	the
+nmod:in	Stirs	Subways
+punct	Stirs	,
+compound	Voice	Geechee
+compound	Voice	Dan?s
+nsubj	Stirs	Voice
+root	ROOT	Stirs
+det	Soul	the
+dobj	Stirs	Soul

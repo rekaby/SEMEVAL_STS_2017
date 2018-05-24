@@ -1,0 +1,12 @@
+root	ROOT	Ally
+case	PM	of
+nmod:poss	PM	Georgia
+case	Georgia	's
+compound	PM	billionaire
+nmod:of	Ally	PM
+mark	president	to
+cop	president	be
+acl	Ally	president
+punct	president	-
+compound	polls	exit
+dep	president	polls

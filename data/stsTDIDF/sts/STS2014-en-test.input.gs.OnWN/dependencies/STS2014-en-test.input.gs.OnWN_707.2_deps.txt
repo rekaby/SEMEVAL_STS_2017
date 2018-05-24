@@ -1,0 +1,14 @@
+root	ROOT	sell
+dobj	sell	something
+mark	obtain	to
+cc	to	or
+advcl	sell	obtain
+dobj	obtain	something
+nmod	obtain	from
+dep	from	by
+dep	by	energetic
+cc	energetic	and
+advmod	activity	especially
+amod	activity	underhanded
+conj:and	energetic	activity
+punct	sell	.

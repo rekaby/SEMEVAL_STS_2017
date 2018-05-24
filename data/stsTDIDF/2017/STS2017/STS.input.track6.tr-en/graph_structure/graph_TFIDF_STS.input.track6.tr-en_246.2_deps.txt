@@ -1,0 +1,7 @@
+coach	A	det
+stays	.	punct
+players	with	case
+stays	coach	nsubj
+stays	together	advmod
+ROOT	stays	root
+stays	players	nmod:with

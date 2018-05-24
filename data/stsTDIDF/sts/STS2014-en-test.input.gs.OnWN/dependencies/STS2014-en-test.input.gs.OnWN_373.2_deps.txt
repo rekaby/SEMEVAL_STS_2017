@@ -1,0 +1,8 @@
+det	state	the
+root	ROOT	state
+case	inactivity	of
+nmod:of	state	inactivity
+case	interruption	following
+det	interruption	an
+nmod:following	state	interruption
+punct	state	.

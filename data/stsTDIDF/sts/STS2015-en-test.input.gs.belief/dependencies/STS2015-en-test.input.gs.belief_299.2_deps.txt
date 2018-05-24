@@ -1,0 +1,10 @@
+nsubj	spew	you
+root	ROOT	spew
+advmod	spew	here
+dobj	claim	what
+nsubj	claim	you
+ccomp	spew	claim
+mark	facts	to
+cop	facts	be
+xcomp	claim	facts
+punct	spew	.

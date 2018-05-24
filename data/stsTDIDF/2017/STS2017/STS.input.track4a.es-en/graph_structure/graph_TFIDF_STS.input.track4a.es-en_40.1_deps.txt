@@ -1,0 +1,6 @@
+pet	his	nmod:poss
+pet	with	case
+pet	.	punct
+pet	is	cop
+ROOT	pet	root
+pet	boy	nsubj

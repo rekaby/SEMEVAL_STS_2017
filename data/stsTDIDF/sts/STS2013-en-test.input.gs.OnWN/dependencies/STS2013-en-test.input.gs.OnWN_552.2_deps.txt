@@ -1,0 +1,16 @@
+root	ROOT	covering
+case	hole	for
+det	hole	a
+nmod:for	covering	hole
+punct	hole	-LRB-
+advmod	hole	especially
+det	hole	a
+dep	hole	hole
+case	top	in
+det	top	the
+nmod:in	hole	top
+case	container	of
+det	container	a
+nmod:of	top	container
+punct	hole	-RRB-
+punct	covering	.

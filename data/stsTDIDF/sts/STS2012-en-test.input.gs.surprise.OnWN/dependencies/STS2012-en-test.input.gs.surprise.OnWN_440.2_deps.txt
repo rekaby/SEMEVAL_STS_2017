@@ -1,0 +1,11 @@
+root	ROOT	make
+case	size	to
+det	size	a
+nmod:to	make	size
+punct	make	;
+parataxis	make	bring
+case	size	to
+det	size	a
+amod	size	suitable
+nmod:to	bring	size
+punct	make	.

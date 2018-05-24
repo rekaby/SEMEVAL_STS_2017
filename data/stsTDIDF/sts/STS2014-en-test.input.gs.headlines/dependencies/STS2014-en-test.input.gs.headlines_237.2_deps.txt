@@ -1,0 +1,6 @@
+compound	talks	Syria
+root	ROOT	talks
+case	Cameron	for
+nmod:for	talks	Cameron
+cc	Cameron	and
+conj:and	Cameron	Putin

@@ -1,0 +1,5 @@
+root	ROOT	fetching
+dobj	fetching	something
+case	source	from
+det	source	a
+nmod:from	fetching	source

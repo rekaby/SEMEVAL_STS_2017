@@ -1,0 +1,14 @@
+det	woman	The
+nsubj	holding	woman
+case	top	in
+det	top	the
+amod	top	blue
+nmod:in	woman	top
+aux	holding	is
+root	ROOT	holding
+det	jacket	a
+amod	jacket	pink
+dobj	holding	jacket
+case	arms	in
+nmod:poss	arms	her
+nmod:in	holding	arms

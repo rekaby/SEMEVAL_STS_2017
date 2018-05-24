@@ -1,0 +1,12 @@
+advmod	1,557	About
+nummod	genes	1,557
+nsubjpass	thought	genes
+case	chromosome	on
+nmod:on	genes	chromosome
+nummod	chromosome	6
+auxpass	thought	are
+root	ROOT	thought
+mark	functional	to
+cop	functional	be
+xcomp	thought	functional
+punct	thought	.

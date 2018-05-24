@@ -1,0 +1,8 @@
+nsubj	kills	Attack
+case	base	on
+compound	base	Nato
+nmod:on	Attack	base
+case	Afghanistan	in
+nmod:in	base	Afghanistan
+root	ROOT	kills
+dobj	kills	15

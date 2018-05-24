@@ -1,0 +1,14 @@
+det	boy	A
+nsubj	sitting	boy
+aux	sitting	is
+root	ROOT	sitting
+case	room	in
+det	room	a
+nmod:in	sitting	room
+acl	room	playing
+det	piano	a
+dobj	playing	piano
+case	light	by
+compound	light	lamp
+nmod:by	playing	light
+punct	sitting	.

@@ -1,0 +1,5 @@
+flags	two	nummod
+sleeping	is	aux
+sleeping	flags	nmod:between
+flags	between	case
+sleeping	man	nsubj

@@ -1,0 +1,8 @@
+det	length	the
+root	ROOT	length
+case	time	of
+nmod:of	length	time
+case	cessation	of
+det	cessation	a
+amod	cessation	temporary
+nmod:of	time	cessation

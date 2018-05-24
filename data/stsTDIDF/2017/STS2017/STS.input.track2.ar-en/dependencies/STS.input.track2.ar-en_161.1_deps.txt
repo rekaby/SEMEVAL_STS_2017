@@ -1,0 +1,7 @@
+nummod	Mormons	Four
+nsubj	walking	Mormons
+root	ROOT	walking
+case	beach	along
+det	beach	the
+nmod:along	walking	beach
+punct	walking	.

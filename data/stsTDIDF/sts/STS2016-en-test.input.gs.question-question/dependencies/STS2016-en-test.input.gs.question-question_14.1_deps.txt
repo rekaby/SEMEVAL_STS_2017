@@ -1,0 +1,9 @@
+advmod	water	Why
+cop	water	is
+expl	water	there
+neg	water	no
+root	ROOT	water
+case	kitchen	in
+det	kitchen	the
+nmod:in	water	kitchen
+punct	water	?

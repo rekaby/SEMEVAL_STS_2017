@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	places	woman
+root	ROOT	places
+nummod	eggs	two
+dobj	places	eggs
+case	pot	into
+det	pot	a
+nmod:into	places	pot
+case	water	of
+nmod:of	pot	water
+punct	places	.

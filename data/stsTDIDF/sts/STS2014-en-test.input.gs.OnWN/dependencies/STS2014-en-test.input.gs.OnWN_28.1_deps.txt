@@ -1,0 +1,8 @@
+det	organization	An
+root	ROOT	organization
+nsubj	sponsors	that
+acl:relcl	organization	sponsors
+det	event	a
+amod	event	large
+amod	event	public
+dobj	sponsors	event

@@ -1,0 +1,13 @@
+expl	is	There
+root	ROOT	is
+det	person	a
+nsubj	is	person
+acl	person	standing
+case	building	next
+mwe	next	to
+det	building	the
+nmod:next_to	standing	building
+acl	building	wearing
+det	suit	a
+dobj	wearing	suit
+punct	is	.

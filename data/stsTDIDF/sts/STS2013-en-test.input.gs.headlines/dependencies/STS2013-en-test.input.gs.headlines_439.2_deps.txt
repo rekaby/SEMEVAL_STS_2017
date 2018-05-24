@@ -1,0 +1,14 @@
+compound	son	Sylvester
+compound	son	Stalloneâ
+amod	son	$
+compound	$	™
+compound	son	s
+nsubj	found	son
+punct	son	,
+compound	Stallone	Sage
+appos	son	Stallone
+punct	son	,
+root	ROOT	found
+xcomp	found	dead
+case	Hol	in
+nmod:in	dead	Hol

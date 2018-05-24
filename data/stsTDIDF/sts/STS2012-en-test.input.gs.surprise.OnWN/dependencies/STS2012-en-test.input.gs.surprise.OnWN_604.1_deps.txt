@@ -1,0 +1,5 @@
+det	serving	a
+root	ROOT	serving
+case	beverage	of
+det	beverage	a
+nmod:of	serving	beverage

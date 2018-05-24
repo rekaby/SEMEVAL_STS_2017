@@ -1,0 +1,10 @@
+advmod	remove	How
+aux	remove	can
+nsubj	remove	I
+root	ROOT	remove
+dobj	remove	paint
+case	heads	from
+amod	heads	slotted
+compound	heads	screw
+nmod:from	remove	heads
+punct	remove	?

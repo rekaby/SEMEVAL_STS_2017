@@ -1,0 +1,7 @@
+punct	Feared	`
+compound	Feared	Life-Threatening
+punct	Feared	'
+compound	Feared	Storms
+root	ROOT	Feared
+case	Midwest	for
+nmod:for	Feared	Midwest

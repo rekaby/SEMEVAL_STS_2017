@@ -1,0 +1,16 @@
+compound	Asia	South
+nsubj	follows	Asia
+root	ROOT	follows
+punct	follows	,
+case	youths	with
+nummod	youths	1.1
+compound	youths	millions
+nmod:with	follows	youths
+acl	youths	infected
+punct	infected	--
+nummod	percent	62
+dep	infected	percent
+case	them	of
+nmod:of	percent	them
+amod	them	female
+punct	follows	.

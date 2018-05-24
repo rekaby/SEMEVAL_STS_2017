@@ -1,0 +1,7 @@
+nsubj	flying	Birds
+aux	flying	are
+root	ROOT	flying
+case	beach	at
+det	beach	a
+nmod:at	flying	beach
+punct	flying	.

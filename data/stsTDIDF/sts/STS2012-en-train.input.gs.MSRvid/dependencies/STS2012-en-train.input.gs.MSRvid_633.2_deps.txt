@@ -1,0 +1,8 @@
+det	chef	The
+nsubj	poured	chef
+root	ROOT	poured
+dobj	poured	oil
+case	pan	in
+det	pan	the
+nmod:in	poured	pan
+punct	poured	.

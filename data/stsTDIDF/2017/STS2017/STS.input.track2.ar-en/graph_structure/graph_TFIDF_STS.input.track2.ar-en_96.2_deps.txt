@@ -1,0 +1,4 @@
+building	standing	amod
+building	Man	compound
+building	wait	acl
+wait	someone	nmod:for

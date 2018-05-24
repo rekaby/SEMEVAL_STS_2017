@@ -1,0 +1,12 @@
+det	group	a
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+amod	rafting	white
+compound	rafting	water
+dep	people	rafting
+case	raft	in
+det	raft	a
+amod	raft	blue
+nmod:in	rafting	raft
+punct	group	.

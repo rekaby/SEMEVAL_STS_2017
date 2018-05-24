@@ -1,0 +1,5 @@
+amod	shares	Chinese
+nsubj	lower	shares
+advmod	lower	close
+root	ROOT	lower
+nmod:tmod	lower	Wednesday

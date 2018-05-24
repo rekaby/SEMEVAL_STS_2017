@@ -1,0 +1,6 @@
+couple	people	nmod:of
+door	a	det
+ROOT	door	root
+door	Outside	case
+standing	couple	nsubj
+door	standing	acl:relcl

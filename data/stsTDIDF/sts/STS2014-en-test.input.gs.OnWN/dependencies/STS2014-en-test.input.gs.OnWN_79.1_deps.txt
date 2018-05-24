@@ -1,0 +1,12 @@
+det	movement	A
+root	ROOT	movement
+punct	physical	-LRB-
+dep	movement	physical
+cc	physical	or
+conj:or	physical	abstract
+punct	physical	-RRB-
+advmod	movement	back
+case	impact	from
+det	impact	an
+nmod:from	back	impact
+punct	movement	.

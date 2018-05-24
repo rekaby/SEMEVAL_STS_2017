@@ -1,0 +1,10 @@
+punct	music	-LRB-
+root	ROOT	music
+punct	music	-RRB-
+det	presentation	the
+dep	music	presentation
+case	theme	of
+det	theme	a
+amod	theme	musical
+nmod:of	presentation	theme
+punct	music	.

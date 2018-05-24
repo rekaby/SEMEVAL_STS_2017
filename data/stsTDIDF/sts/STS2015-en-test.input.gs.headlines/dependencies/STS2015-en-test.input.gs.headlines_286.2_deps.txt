@@ -1,0 +1,9 @@
+compound	judge	U.S.
+nsubj	approves	judge
+root	ROOT	approves
+amod	inmates	force-feeding
+compound	inmates	Californian
+dobj	approves	inmates
+case	hunger	on
+nmod:on	approves	hunger
+dep	hunger	strik

@@ -1,0 +1,9 @@
+amod	Bradbury	Iconic
+compound	Bradbury	science
+compound	Bradbury	fiction
+compound	Bradbury	writer
+compound	Bradbury	Ray
+nsubj	dies	Bradbury
+root	ROOT	dies
+case	91	at
+nmod:at	dies	91

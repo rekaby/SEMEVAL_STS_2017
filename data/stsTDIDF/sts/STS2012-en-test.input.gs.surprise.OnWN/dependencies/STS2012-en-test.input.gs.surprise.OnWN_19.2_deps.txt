@@ -1,0 +1,8 @@
+det	song	a
+amod	song	narrative
+root	ROOT	song
+case	refrain	with
+det	refrain	a
+amod	refrain	recurrent
+nmod:with	song	refrain
+punct	song	.

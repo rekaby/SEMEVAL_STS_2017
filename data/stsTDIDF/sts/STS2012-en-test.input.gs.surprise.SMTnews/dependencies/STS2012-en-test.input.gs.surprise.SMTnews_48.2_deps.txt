@@ -1,0 +1,9 @@
+cc	survive	But
+det	image	this
+nsubj	survive	image
+aux	survive	can
+root	ROOT	survive
+det	decline	a
+amod	decline	further
+dobj	survive	decline
+punct	survive	?

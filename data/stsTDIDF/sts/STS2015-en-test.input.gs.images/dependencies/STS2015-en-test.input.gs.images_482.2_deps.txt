@@ -1,0 +1,16 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	wearing
+amod	trunks	red
+cc	red	and
+conj:and	red	blue
+compound	trunks	swim
+dobj	wearing	trunks
+amod	head	jumping
+dobj	wearing	head
+advmod	head	first
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	first	pool
+punct	boy	.

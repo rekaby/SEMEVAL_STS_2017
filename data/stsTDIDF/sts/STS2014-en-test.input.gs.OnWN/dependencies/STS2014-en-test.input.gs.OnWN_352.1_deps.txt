@@ -1,0 +1,6 @@
+root	ROOT	make
+compound:prt	make	up
+nsubj	fictional	something
+xcomp	make	fictional
+cc	fictional	or
+conj:or	fictional	untrue

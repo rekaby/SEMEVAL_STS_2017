@@ -1,0 +1,11 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+case	middle	in
+det	middle	the
+nmod:in	group	middle
+case	desert	of
+det	desert	the
+nmod:of	middle	desert
+punct	group	.

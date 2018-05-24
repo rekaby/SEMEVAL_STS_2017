@@ -1,0 +1,7 @@
+amod	parliament	German
+nsubj	backs	parliament
+advmod	backs	overwhelmingly
+root	ROOT	backs
+amod	deal	Greek
+compound	deal	rescue
+dobj	backs	deal

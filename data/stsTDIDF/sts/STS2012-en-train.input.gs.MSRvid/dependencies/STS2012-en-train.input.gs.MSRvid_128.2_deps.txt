@@ -1,0 +1,9 @@
+det	man	A
+nsubj	carrying	man
+aux	carrying	is
+root	ROOT	carrying
+dobj	carrying	someone
+case	shoulder	on
+nmod:poss	shoulder	his
+nmod:on	carrying	shoulder
+punct	carrying	.

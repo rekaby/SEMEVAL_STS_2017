@@ -1,0 +1,7 @@
+det	women	The
+nsubj	feeding	women
+aux	feeding	are
+root	ROOT	feeding
+det	animal	the
+dobj	feeding	animal
+punct	feeding	.

@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+compound	dog	pit
+compound	dog	bull
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	dirt	through
+det	dirt	the
+nmod:through	running	dirt
+punct	running	.

@@ -1,0 +1,16 @@
+nsubj	offer	Ozbus
+root	ROOT	offer
+det	tour	a
+compound	week	29
+amod	tour	week
+dobj	offer	tour
+case	America	of
+compound	America	South
+nmod:of	tour	America
+punct	offer	,
+dep	offer	starting
+cc	starting	and
+conj:and	starting	finishing
+case	Quito	in
+nmod:in	finishing	Quito
+punct	offer	.

@@ -1,0 +1,10 @@
+nsubj	cowboy	Rodeoda
+cop	cowboy	is
+det	cowboy	a
+root	ROOT	cowboy
+acl	cowboy	trying
+mark	capture	to
+xcomp	trying	capture
+det	counselor	a
+dobj	capture	counselor
+punct	cowboy	.

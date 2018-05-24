@@ -1,0 +1,11 @@
+nummod	dogs	Two
+amod	dogs	little
+compound	dogs	orange
+cc	orange	and
+conj:and	orange	white
+nsubj	snow	dogs
+cop	snow	are
+case	snow	in
+det	snow	the
+root	ROOT	snow
+punct	snow	.

@@ -1,0 +1,12 @@
+det	terminal	the
+amod	terminal	positive
+compound	terminal	batter
+nsubj	have	terminal
+aux	have	does
+neg	have	not
+root	ROOT	have
+det	gap	a
+dobj	have	gap
+case	terminal	from
+nmod:from	gap	terminal
+dobj	have	4

@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	people	nine
+dobj	kill	people
+case	northwest	in
+nmod:in	kill	northwest
+nmod:npmod	northwest	Pakistan

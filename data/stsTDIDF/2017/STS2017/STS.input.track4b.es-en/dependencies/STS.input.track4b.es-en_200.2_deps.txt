@@ -1,0 +1,9 @@
+nsubj	sure	I
+cop	sure	'm
+root	ROOT	sure
+nsubj	joke	it
+cop	joke	's
+det:predet	joke	all
+det	joke	a
+ccomp	sure	joke
+punct	sure	.

@@ -1,0 +1,7 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+nsubj	is	man
+acl	man	wearing
+dobj	wearing	clothes
+punct	is	.

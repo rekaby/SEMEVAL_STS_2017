@@ -1,0 +1,17 @@
+nsubj	man	He
+cop	man	's
+det	man	a
+advmod	straightforward	very
+amod	man	straightforward
+root	ROOT	man
+punct	man	,
+advmod	committed	very
+amod	man	committed
+case	vision	with
+det	vision	an
+amod	vision	excellent
+nmod:with	committed	vision
+case	country	of
+det	country	the
+nmod:of	vision	country
+punct	man	.

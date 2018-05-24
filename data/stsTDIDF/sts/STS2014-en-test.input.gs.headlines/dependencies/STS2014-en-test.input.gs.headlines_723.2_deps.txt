@@ -1,0 +1,6 @@
+nummod	stampede	61
+amod	stampede	dead
+case	Coast	in
+compound	Coast	Ivory
+nmod:in	dead	Coast
+root	ROOT	stampede

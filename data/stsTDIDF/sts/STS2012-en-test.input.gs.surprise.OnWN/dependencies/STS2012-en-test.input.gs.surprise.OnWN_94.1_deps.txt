@@ -1,0 +1,16 @@
+root	ROOT	Speak
+case	tone	in
+det	tone	a
+amod	tone	high-pitched
+nmod:in	Speak	tone
+case	voice	of
+nmod:of	tone	voice
+punct	Speak	,
+case	animal	as
+cc:preconj	animal	either
+det	animal	an
+nmod:as	Speak	animal
+cc	animal	or
+conj:or	animal	human
+dep	animal	might
+punct	Speak	.

@@ -1,0 +1,8 @@
+det	youngster	A
+nsubj	sitting	youngster
+aux	sitting	is
+root	ROOT	sitting
+case	piano	on
+det	piano	a
+nmod:on	sitting	piano
+punct	sitting	.

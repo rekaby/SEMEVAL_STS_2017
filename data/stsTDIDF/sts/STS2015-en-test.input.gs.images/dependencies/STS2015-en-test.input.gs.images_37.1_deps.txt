@@ -1,0 +1,11 @@
+nummod	girls	Four
+nsubj	playing	girls
+case	swimsuits	in
+nmod:in	girls	swimsuits
+aux	playing	are
+root	ROOT	playing
+dobj	playing	volleyball
+case	beach	at
+det	beach	the
+nmod:at	playing	beach
+punct	playing	.

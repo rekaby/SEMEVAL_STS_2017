@@ -1,0 +1,27 @@
+compound	Corp.	Electronic
+compound	Corp.	Data
+compound	Corp.	Systems
+root	ROOT	Corp.
+punct	Corp.	.-5) nsubj(said-2, Thursday
+root	ROOT	said
+det	Commission	the
+compound	Commission	Securities
+cc	Securities	and
+conj:and	Securities	Exchange
+nsubj	asked	Commission
+aux	asked	has
+ccomp	said	asked
+det	company	the
+dobj	asked	company
+case	documents	for
+nmod:for	asked	documents
+acl	documents	related
+case	contract	to
+nmod:poss	contract	its
+amod	contract	large
+nmod:to	related	contract
+case	Navy	with
+det	Navy	the
+compound	Navy	U.S.
+nmod:with	contract	Navy
+punct	said	.

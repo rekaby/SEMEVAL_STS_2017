@@ -1,0 +1,10 @@
+det	person	A
+nsubj	slicing	person
+aux	slicing	is
+root	ROOT	slicing
+det	pieces	a
+amod	pieces	small
+dobj	slicing	pieces
+case	ginger	of
+nmod:of	pieces	ginger
+punct	slicing	.

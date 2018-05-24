@@ -1,0 +1,14 @@
+prepare	girls	nsubj
+prepare	watch	advcl
+boys	two	nummod
+sailboat	a	det
+watch	beach	nmod:from
+ROOT	prepare	root
+girls	Two	nummod
+prepare	.	punct
+watch	boys	nsubj
+prepare	sailboat	dobj
+beach	from	case
+watch	as	mark
+watch	them	dobj
+sailboat	small	amod

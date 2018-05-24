@@ -1,0 +1,10 @@
+det	cameraman	A
+nsubj	goes	cameraman
+root	ROOT	goes
+mark	eat	out
+mark	eat	to
+advcl	goes	eat
+case	family	with
+nmod:poss	family	his
+nmod:with	eat	family
+punct	goes	.

@@ -1,0 +1,9 @@
+nsubj	raise	Police
+root	ROOT	raise
+compound	toll	death
+dobj	raise	toll
+case	accident	in
+compound	accident	bus
+nmod:in	raise	accident
+case	8	to
+nmod:to	raise	8

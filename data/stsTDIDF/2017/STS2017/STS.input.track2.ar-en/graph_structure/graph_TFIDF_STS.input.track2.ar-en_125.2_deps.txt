@@ -1,0 +1,6 @@
+woman	market	nmod:in
+shouting	woman	nmod:at
+shouting	.	punct
+woman	at	case
+shouting	men	nsubj
+ROOT	shouting	root

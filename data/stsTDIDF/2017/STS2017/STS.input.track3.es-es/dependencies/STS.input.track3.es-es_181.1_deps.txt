@@ -1,0 +1,9 @@
+det	bartender	A
+nsubj	preparing	bartender
+aux	preparing	is
+root	ROOT	preparing
+dobj	preparing	drinks
+case	customers	for
+nmod:poss	customers	his
+nmod:for	preparing	customers
+punct	preparing	.

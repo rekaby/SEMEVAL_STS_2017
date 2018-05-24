@@ -1,0 +1,13 @@
+det	girl	A
+nsubj	standing	girl
+aux	standing	is
+root	ROOT	standing
+case	rails	on
+det	rails	the
+nmod:on	standing	rails
+case	boardwalk	of
+det	boardwalk	a
+nmod:of	rails	boardwalk
+punct	boardwalk	,
+appos	boardwalk	fishing
+punct	standing	.

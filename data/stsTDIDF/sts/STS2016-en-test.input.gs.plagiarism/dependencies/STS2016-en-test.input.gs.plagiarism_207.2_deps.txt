@@ -1,0 +1,13 @@
+case	inheritance	In
+compound	inheritance	object
+amod	inheritance	oriented
+compound	inheritance	programming
+nmod:in	dependant	inheritance
+cop	dependant	is
+advmod	dependant	also
+root	ROOT	dependant
+case	modifiers	on
+compound	modifiers	access
+compound	modifiers	level
+nmod:on	dependant	modifiers
+punct	dependant	.

@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	standing	dog
+root	ROOT	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+punct	standing	.

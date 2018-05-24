@@ -1,0 +1,14 @@
+mark	kill	As
+mark	kill	to
+aux	kill	would
+nsubj	kill	I
+advcl	have	kill
+dobj	kill	person
+mark	save	to
+xcomp	kill	save
+punct	have	,
+nsubj	have	I
+root	ROOT	have
+neg	idea	no
+dobj	have	idea
+punct	have	.

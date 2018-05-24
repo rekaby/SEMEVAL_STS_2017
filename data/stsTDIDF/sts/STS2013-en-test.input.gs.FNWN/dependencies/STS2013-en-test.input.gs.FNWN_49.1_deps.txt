@@ -1,0 +1,13 @@
+det	idiosyncrasy	a
+amod	idiosyncrasy	certain
+nsubj	belongs	idiosyncrasy
+root	ROOT	belongs
+case	entity	to
+det	entity	an
+nmod:to	belongs	entity
+acl	entity	distinguishing
+dobj	distinguishing	it
+case	entities	from
+amod	entities	other
+nmod:from	distinguishing	entities
+punct	belongs	.

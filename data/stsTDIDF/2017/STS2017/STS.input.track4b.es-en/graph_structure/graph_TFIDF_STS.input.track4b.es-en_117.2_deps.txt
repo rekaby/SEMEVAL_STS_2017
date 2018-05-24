@@ -1,0 +1,15 @@
+difficult	relationship	nsubj
+Mexicans	million	nummod
+million	35	compound
+difficult	,	punct
+living	with	mark
+difficult	Mexico	nmod:for
+living	Mexicans	nsubj
+living	States	nmod:in
+difficult	And	cc
+Mexicans	the	det
+Mexico	for	case
+difficult	really	advmod
+difficult	living	advcl
+Mexicans	American	amod
+difficult	yet	advmod

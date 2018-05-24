@@ -1,0 +1,10 @@
+nsubj	accused	I
+aux	accused	've
+neg	accused	never
+root	ROOT	accused
+dobj	accused	him
+case	doctoring	of
+nmod:of	him	doctoring
+det	baseball	a
+dep	doctoring	baseball
+punct	accused	.

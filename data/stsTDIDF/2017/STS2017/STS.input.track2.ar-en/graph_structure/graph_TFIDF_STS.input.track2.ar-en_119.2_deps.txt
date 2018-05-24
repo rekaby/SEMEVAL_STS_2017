@@ -1,0 +1,13 @@
+man	couch	nmod:on
+man	a	det
+put	man	dobj
+dressed	T-shirts	nmod:in
+put	men	nsubj
+men	dressed	acl
+T-shirts	in	case
+couch	the	det
+T-shirts	black	amod
+couch	own	amod
+laptops	under	case
+laptops	their	nmod:poss
+man	laptops	nmod:under

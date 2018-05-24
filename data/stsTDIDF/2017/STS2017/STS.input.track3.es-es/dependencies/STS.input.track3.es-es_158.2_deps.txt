@@ -1,0 +1,15 @@
+det	cat	The
+amod	cat	white
+nsubj	difficult	cat
+cop	difficult	is
+root	ROOT	difficult
+mark	see	to
+xcomp	difficult	see
+case	snow	in
+det	snow	the
+nmod:in	see	snow
+mark	runs	as
+nsubj	runs	it
+advcl	see	runs
+advmod	runs	playfully
+punct	difficult	.

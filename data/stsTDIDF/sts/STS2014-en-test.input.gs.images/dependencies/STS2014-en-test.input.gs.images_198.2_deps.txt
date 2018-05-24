@@ -1,0 +1,14 @@
+det	pot	A
+nsubjpass	placed	pot
+case	food	of
+nmod:of	pot	food
+auxpass	placed	is
+root	ROOT	placed
+case	center	in
+det	center	the
+nmod:in	placed	center
+case	tablecloth	of
+det	tablecloth	a
+amod	tablecloth	red
+nmod:of	center	tablecloth
+punct	placed	.

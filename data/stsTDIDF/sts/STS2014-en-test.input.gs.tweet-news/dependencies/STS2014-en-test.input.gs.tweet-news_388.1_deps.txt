@@ -1,0 +1,25 @@
+mark	seen	If
+nsubj	seen	uv
+neg	seen	not
+advcl	should	seen
+compound	#Love	#Crazy
+dobj	seen	#Love
+punct	should	,
+nsubj	should	u
+root	ROOT	should
+punct	should	.-10) root(ROOT-0, NYTimes
+punct	NYTimes	:
+compound	#Pugach	Linda
+compound	#Pugach	Riss
+nsubj	Dies	#Pugach
+punct	#Pugach	,
+nmod:poss	Life	Whose
+nsubj	Ripped	Life
+cop	Ripped	Was
+acl:relcl	#Pugach	Ripped
+case	Headlines	From
+nmod:from	Ripped	Headlines
+punct	#Pugach	,
+dep	NYTimes	Dies
+case	75	at
+nmod:at	Dies	75

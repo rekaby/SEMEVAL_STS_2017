@@ -1,0 +1,8 @@
+det	disadvantage	the
+root	ROOT	disadvantage
+nsubj	results	that
+acl:relcl	disadvantage	results
+mark	losing	from
+advcl	results	losing
+dobj	losing	something
+punct	disadvantage	.

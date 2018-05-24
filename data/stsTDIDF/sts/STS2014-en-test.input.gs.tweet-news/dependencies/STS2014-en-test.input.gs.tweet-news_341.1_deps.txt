@@ -1,0 +1,17 @@
+nsubj	takes	Public
+root	ROOT	takes
+nmod:poss	shots	its
+dobj	takes	shots
+case	Armstrong	at
+nmod:at	takes	Armstrong
+punct	takes	--
+dep	takes	What
+nsubj	What	do
+nsubj	guys	you
+ccomp	do	guys
+dep	guys	think
+case	doping	of
+nmod:poss	doping	Armstrong
+case	Armstrong	's
+nmod:of	think	doping
+punct	takes	?

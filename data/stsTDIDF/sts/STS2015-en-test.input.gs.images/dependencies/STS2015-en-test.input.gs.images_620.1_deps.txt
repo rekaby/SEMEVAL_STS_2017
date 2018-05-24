@@ -1,0 +1,14 @@
+det	girl	A
+amod	girl	little
+nsubj	hold	girl
+cc	girl	and
+det	boy	a
+amod	boy	little
+conj:and	girl	boy
+root	ROOT	hold
+dobj	hold	hands
+case	slide	on
+det	slide	a
+amod	slide	shiny
+nmod:on	hold	slide
+punct	hold	.

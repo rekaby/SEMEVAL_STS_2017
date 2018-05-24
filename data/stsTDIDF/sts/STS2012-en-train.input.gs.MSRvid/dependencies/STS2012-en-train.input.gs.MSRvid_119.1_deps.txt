@@ -1,0 +1,10 @@
+det	man	A
+nsubj	breaking	man
+aux	breaking	is
+root	ROOT	breaking
+amod	boards	wooden
+dobj	breaking	boards
+case	hand	with
+nmod:poss	hand	his
+nmod:with	breaking	hand
+punct	breaking	.

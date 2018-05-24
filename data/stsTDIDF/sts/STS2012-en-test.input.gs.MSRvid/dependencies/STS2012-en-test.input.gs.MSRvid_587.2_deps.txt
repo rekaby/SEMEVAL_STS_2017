@@ -1,0 +1,6 @@
+det	men	Some
+nsubj	playing	men
+aux	playing	are
+root	ROOT	playing
+dobj	playing	soccer
+punct	playing	.

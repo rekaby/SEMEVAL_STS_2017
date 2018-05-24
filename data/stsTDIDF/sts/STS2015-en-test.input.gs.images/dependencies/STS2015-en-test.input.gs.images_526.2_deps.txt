@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	kiss	woman
+conj:and	man	kiss
+punct	man	.

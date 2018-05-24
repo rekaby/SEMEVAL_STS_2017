@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+case	chair	in
+det	chair	a
+nmod:in	sitting	chair
+acl	chair	reading
+det	book	a
+dobj	reading	book
+punct	man	.

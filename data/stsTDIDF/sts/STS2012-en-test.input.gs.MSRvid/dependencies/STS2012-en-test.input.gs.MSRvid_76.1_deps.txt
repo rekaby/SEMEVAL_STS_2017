@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	little
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+det	keyboard	a
+dobj	playing	keyboard
+punct	playing	.

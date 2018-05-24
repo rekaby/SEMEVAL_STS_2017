@@ -1,0 +1,12 @@
+compound	Kane	Harry
+nsubj	leaves	Kane
+root	ROOT	leaves
+dobj	leaves	it
+advmod	leaves	late
+mark	rescue	to
+acl	late	rescue
+det	point	a
+dobj	rescue	point
+case	Hotspur	for
+compound	Hotspur	Tottenham
+nmod:for	point	Hotspur

@@ -1,0 +1,5 @@
+T-shirt	yellow	amod
+Boy	wearing	acl
+wearing	T-shirt	dobj
+ROOT	Boy	root
+Boy	.	punct

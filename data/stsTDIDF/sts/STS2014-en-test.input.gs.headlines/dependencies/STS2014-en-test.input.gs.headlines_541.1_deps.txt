@@ -1,0 +1,11 @@
+nsubj	killed	12
+root	ROOT	killed
+punct	killed	,
+nummod	Pakistan	25
+amod	Pakistan	injured
+case	blast	in
+compound	blast	bomb
+nmod:in	injured	blast
+case	NW	in
+nmod:in	injured	NW
+dobj	killed	Pakistan

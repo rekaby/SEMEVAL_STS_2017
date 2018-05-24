@@ -1,0 +1,12 @@
+nsubj	parts	b
+cc	b	and
+conj:and	b	c
+cop	parts	are
+det	parts	both
+root	ROOT	parts
+case	circuts	of
+amod	circuts	complete
+nmod:of	parts	circuts
+case	battery	to
+det	battery	the
+nmod:to	parts	battery

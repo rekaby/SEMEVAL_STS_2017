@@ -1,0 +1,8 @@
+root	ROOT	estimate
+cc	estimate	or
+conj:or	estimate	calculate
+det	value	the
+amod	value	numerical
+dobj	calculate	value
+case	something	of
+nmod:of	value	something

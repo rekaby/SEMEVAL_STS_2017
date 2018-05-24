@@ -1,0 +1,10 @@
+nummod	men	Two
+amod	men	Asian
+root	ROOT	men
+case	ride	on
+compound	ride	motorbike
+nmod:on	men	ride
+case	street	down
+det	street	the
+nmod:down	ride	street
+punct	men	.

@@ -1,0 +1,10 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	playing
+case	waves	in
+det	waves	the
+nmod:in	playing	waves
+case	ball	with
+det	ball	a
+nmod:with	waves	ball
+punct	dog	.

@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	leading	men
+aux	leading	are
+root	ROOT	leading
+det	way	the
+dobj	leading	way
+case	another	to
+nmod:to	leading	another

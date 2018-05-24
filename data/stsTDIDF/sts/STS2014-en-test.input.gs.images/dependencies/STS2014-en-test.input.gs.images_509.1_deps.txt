@@ -1,0 +1,15 @@
+det	bus	A
+amod	bus	white
+root	ROOT	bus
+case	word	with
+det	word	the
+nmod:with	bus	word
+nsubj	water	Julia
+cop	water	is
+case	water	near
+acl:relcl	word	water
+cc	water	and
+det	ship	a
+amod	ship	big
+conj:and	water	ship
+punct	bus	.

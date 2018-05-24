@@ -1,0 +1,10 @@
+root	ROOT	come
+dep	come	upon
+punct	upon	,
+root	,	attack
+cc	attack	or
+conj:or	attack	catch
+nsubj	unaware	someone
+cc	someone	or
+conj:or	someone	something
+ccomp	catch	unaware

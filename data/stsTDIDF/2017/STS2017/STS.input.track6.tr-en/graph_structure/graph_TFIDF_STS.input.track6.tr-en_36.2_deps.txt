@@ -1,0 +1,6 @@
+walking	is	aux
+walking	woman	nsubj
+walking	street	dobj
+talking	phone	nmod:on
+street	talking	acl
+walking	down	compound:prt

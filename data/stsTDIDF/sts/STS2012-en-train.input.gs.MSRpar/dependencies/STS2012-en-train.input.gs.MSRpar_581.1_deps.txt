@@ -1,0 +1,16 @@
+advmod	100	About
+nummod	firefighters	100
+nsubj	bosque	firefighters
+cop	bosque	are
+case	bosque	in
+det	bosque	the
+root	ROOT	bosque
+nmod:tmod	bosque	today
+punct	bosque	,
+compound	Ortega	Albuquerque
+compound	Ortega	Fire
+compound	Ortega	Chief
+compound	Ortega	Robert
+nsubj	said	Ortega
+parataxis	bosque	said
+punct	bosque	.

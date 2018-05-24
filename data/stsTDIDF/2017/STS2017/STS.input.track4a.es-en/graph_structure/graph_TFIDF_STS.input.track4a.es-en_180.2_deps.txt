@@ -1,0 +1,7 @@
+smiling	.	punct
+smiling	camera	nmod:at
+people	Three	nummod
+camera	at	case
+smiling	people	nsubj
+ROOT	smiling	root
+smiling	are	aux

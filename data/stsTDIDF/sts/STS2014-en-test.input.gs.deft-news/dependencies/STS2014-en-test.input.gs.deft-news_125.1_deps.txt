@@ -1,0 +1,13 @@
+amod	week	last
+nmod:tmod	announced	week
+nsubj	announced	russia
+root	ROOT	announced
+mark	suspend	that
+nsubj	suspend	it
+aux	suspend	will
+ccomp	announced	suspend
+dobj	suspend	participation
+case	cfe	in
+det	cfe	the
+nmod:in	participation	cfe
+punct	announced	.

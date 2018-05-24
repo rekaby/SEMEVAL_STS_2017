@@ -1,0 +1,9 @@
+root	ROOT	pull
+punct	pull	,
+cc	pull	or
+conj:or	pull	move
+case	movement	with
+det	movement	a
+amod	movement	sudden
+nmod:with	move	movement
+punct	pull	.

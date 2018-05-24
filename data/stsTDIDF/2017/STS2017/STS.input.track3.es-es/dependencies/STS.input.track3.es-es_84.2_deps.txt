@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	using
+det	hoe	a
+dobj	using	hoe
+case	crops	near
+nmod:poss	crops	her
+nmod:near	hoe	crops
+case	farm	on
+det	farm	a
+nmod:on	crops	farm

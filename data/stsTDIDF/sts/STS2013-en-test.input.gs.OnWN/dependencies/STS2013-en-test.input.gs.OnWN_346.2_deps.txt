@@ -1,0 +1,7 @@
+root	ROOT	advance
+cc	advance	or
+conj:or	advance	set
+advmod	set	forth
+case	court	in
+nmod:in	set	court
+punct	advance	.

@@ -1,0 +1,12 @@
+advmod	many	Too
+amod	s	many
+root	ROOT	s
+amod	men	*
+compound	men	tty
+dep	s	men
+case	India	in
+nmod:in	men	India
+punct	men	:
+det	gang	another
+nsubj	rape	gang
+parataxis	men	rape

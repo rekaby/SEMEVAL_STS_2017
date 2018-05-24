@@ -1,0 +1,8 @@
+root	ROOT	Five
+acl	Five	killed
+case	blast	by
+compound	blast	bomb
+nmod:by	killed	blast
+case	India	in
+compound	India	East
+nmod:in	blast	India

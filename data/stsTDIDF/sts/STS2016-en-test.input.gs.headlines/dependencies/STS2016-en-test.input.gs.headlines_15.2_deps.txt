@@ -1,0 +1,12 @@
+nsubj	warns	Russia
+root	ROOT	warns
+nsubj	respond	it
+aux	respond	will
+punct	respond	`
+ccomp	warns	respond
+punct	respond	'
+mark	attacked	if
+nsubj	attacked	interests
+case	Ukraine	in
+nmod:in	interests	Ukraine
+advcl	respond	attacked

@@ -1,0 +1,8 @@
+root	ROOT	Mourners
+case	killings	in
+compound	killings	Turkey
+compound	killings	protest
+nmod:in	Mourners	killings
+case	activists	of
+amod	activists	Kurdish
+nmod:of	killings	activists

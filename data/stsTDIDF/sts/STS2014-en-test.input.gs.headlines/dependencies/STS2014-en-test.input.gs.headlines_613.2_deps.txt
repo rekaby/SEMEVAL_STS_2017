@@ -1,0 +1,11 @@
+nsubj	seek	Police
+root	ROOT	seek
+dobj	seek	gunmen
+case	parade	in
+compound	Mother	New
+compound	Mother	Orleans
+nmod:poss	parade	Mother
+case	Mother	's
+compound	parade	Day
+nmod:in	gunmen	parade
+dobj	seek	shooting

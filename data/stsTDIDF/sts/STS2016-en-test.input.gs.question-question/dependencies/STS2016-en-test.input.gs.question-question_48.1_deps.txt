@@ -1,0 +1,13 @@
+root	ROOT	Glue
+dobj	Glue	underlayment
+case	concrete	to
+nmod:to	underlayment	concrete
+punct	Glue	:
+advmod	long	how
+advmod	take	long
+aux	take	does
+nsubj	take	it
+dep	Glue	take
+mark	cure	to
+xcomp	take	cure
+punct	Glue	?

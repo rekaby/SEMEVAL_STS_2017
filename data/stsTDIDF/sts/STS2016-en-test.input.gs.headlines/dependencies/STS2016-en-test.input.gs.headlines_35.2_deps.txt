@@ -1,0 +1,8 @@
+nmod:poss	Morsi	Egypt
+case	Egypt	's
+nsubj	faces	Morsi
+root	ROOT	faces
+compound	break	trial
+case	prison	for
+nmod:for	trial	prison
+dobj	faces	break

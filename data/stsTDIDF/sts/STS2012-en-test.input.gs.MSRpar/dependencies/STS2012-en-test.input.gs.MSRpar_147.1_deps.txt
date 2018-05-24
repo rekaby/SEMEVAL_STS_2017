@@ -1,0 +1,14 @@
+nsubj	account	Germans
+root	ROOT	account
+case	percent	for
+advmod	40	more
+mwe	more	than
+nummod	percent	40
+nmod:for	account	percent
+case	visitors	of
+amod	visitors	foreign
+nmod:of	percent	visitors
+acl	visitors	coming
+case	Italy	to
+nmod:to	coming	Italy
+punct	account	.

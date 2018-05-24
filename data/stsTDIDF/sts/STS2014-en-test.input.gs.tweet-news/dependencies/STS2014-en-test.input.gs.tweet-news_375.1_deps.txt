@@ -1,0 +1,5 @@
+nsubj	compromised	#Java
+root	ROOT	compromised
+dobj	compromised	take
+amod	action	necessary
+dobj	take	action

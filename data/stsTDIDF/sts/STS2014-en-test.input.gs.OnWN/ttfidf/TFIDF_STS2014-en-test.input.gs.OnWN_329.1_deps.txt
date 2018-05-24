@@ -1,0 +1,7 @@
+amod projectile self-propelled	15.060439779775294
+acl projectile driven	15.060439779775294
+case propellant by	15.060439779775294
+amod propellant self-contained	15.060439779775294
+nmod:by driven propellant	15.060439779775294
+root ROOT projectile	13.961827491107185
+det projectile a	12.980998238095458

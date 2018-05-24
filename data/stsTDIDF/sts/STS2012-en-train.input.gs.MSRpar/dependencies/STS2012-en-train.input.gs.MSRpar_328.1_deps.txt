@@ -1,0 +1,25 @@
+det	average	The
+amod	average	blue-chip
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-7) nsubj(climbed-2, DJI
+root	ROOT	climbed
+nummod	points	164
+dobj	climbed	points
+punct	points	,
+cc	points	or
+nummod	percent	1.91
+conj:or	points	percent
+punct	climbed	,
+case	8,765.38	to
+nmod:to	climbed	8,765.38
+punct	climbed	,
+xcomp	climbed	brushing
+nmod:poss	levels	its
+amod	levels	highest
+dobj	brushing	levels
+case	mid-January	since
+nmod:since	brushing	mid-January
+punct	climbed	.

@@ -1,0 +1,10 @@
+root	ROOT	agreed
+punct	need	-
+neg	need	no
+dobj	agreed	need
+mark	flog	to
+acl	need	flog
+det	equine	this
+amod	equine	deceased
+dobj	flog	equine
+punct	agreed	.

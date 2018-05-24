@@ -1,0 +1,4 @@
+root	ROOT	furnish
+case	guideline	with
+det	guideline	a
+nmod:with	furnish	guideline

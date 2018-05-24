@@ -1,0 +1,6 @@
+root	ROOT	oppose
+case	weight	with
+amod	weight	equal
+nmod:with	oppose	weight
+cc	weight	or
+conj:or	weight	force

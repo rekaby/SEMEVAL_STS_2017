@@ -1,0 +1,12 @@
+nsubj	sport	Skiing
+cop	sport	is
+det	sport	a
+root	ROOT	sport
+advmod	pays	where
+csubj	pays	taking
+dobj	taking	lessons
+acl:relcl	sport	pays
+compound:prt	pays	off
+advmod	quickly	very
+advmod	pays	quickly
+punct	sport	.

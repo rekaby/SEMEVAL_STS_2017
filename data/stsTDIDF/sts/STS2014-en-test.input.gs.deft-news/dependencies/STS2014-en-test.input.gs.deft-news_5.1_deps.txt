@@ -1,0 +1,10 @@
+amod	bourada	safe
+nsubjpass	sentenced	bourada
+auxpass	sentenced	was
+root	ROOT	sentenced
+case	years	to
+nummod	years	15
+nmod:to	sentenced	years
+case	prison	in
+nmod:in	years	prison
+punct	sentenced	.

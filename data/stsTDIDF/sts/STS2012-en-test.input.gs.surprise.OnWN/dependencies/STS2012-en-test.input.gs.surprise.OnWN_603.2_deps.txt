@@ -1,0 +1,9 @@
+root	ROOT	pause
+cc	pause	or
+conj:or	pause	hold
+advmod	pause	back
+case	uncertainty	in
+nmod:in	pause	uncertainty
+cc	uncertainty	or
+conj:or	uncertainty	unwillingness
+punct	pause	.

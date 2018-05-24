@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	white
+nsubj	runs	dog
+root	ROOT	runs
+case	sand	on
+det	sand	the
+nmod:on	runs	sand
+punct	runs	.

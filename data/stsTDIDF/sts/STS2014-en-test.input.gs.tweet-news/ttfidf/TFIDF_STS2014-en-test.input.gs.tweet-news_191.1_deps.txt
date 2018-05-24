@@ -1,0 +1,14 @@
+nsubj handcuffed Children	15.060439779775294
+dobj handcuffed 4	15.060439779775294
+acl 4 violating	15.060439779775294
+dobj violating code	15.060439779775294
+punct handcuffed !-7) nsubj(fills-2, #MS	15.060439779775294
+amod reports #school	15.060439779775294
+amod reports 2prison	15.060439779775294
+compound reports pipeline	15.060439779775294
+dobj fills reports	15.060439779775294
+dep reports grantee	15.060439779775294
+root ROOT handcuffed	12.116000800608854
+compound code dress	11.764602913770965
+punct fills .	10.933305394730201
+root ROOT fills	10.855747160384327

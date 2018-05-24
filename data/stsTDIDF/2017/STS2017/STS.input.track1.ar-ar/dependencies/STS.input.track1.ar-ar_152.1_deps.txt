@@ -1,0 +1,6 @@
+nummod	boys	Two
+nsubj	wearing	boys
+root	ROOT	wearing
+dobj	wearing	clothes
+case	swimming	for
+nmod:for	wearing	swimming

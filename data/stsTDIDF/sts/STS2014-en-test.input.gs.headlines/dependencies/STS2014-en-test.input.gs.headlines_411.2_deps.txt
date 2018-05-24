@@ -1,0 +1,5 @@
+compound	concerts	Chris
+compound	concerts	Brown
+nsubj	cancelled	concerts
+root	ROOT	cancelled
+xcomp	cancelled	new

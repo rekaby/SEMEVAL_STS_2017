@@ -1,0 +1,12 @@
+root	ROOT	What
+cop	What	are
+det	differences	the
+nsubj	What	differences
+case	Journals	between
+compound	Journals	Peer
+compound	Journals	Reviewed
+nmod:between	differences	Journals
+cc	Journals	and
+compound	Journals	Refereed
+conj:and	Journals	Journals
+punct	What	?

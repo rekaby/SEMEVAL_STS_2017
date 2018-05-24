@@ -1,0 +1,7 @@
+compound	observers	UN
+nsubj	find	observers
+root	ROOT	find
+dobj	find	traces
+case	massacre	of
+amod	massacre	Syrian
+nmod:of	traces	massacre

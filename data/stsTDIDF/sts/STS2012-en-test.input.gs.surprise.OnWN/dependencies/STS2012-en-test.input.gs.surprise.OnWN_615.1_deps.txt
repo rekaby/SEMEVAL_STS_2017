@@ -1,0 +1,9 @@
+det	activity	Any
+root	ROOT	activity
+nsubj	acquires	that
+acl:relcl	activity	acquires
+det	person	a
+nmod:poss	attention	person
+case	person	's
+dobj	acquires	attention
+punct	activity	.

@@ -1,0 +1,6 @@
+compound	Korea	North
+nsubj	conducts	Korea
+root	ROOT	conducts
+amod	test	third
+amod	test	nuclear
+dobj	conducts	test

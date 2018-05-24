@@ -1,0 +1,14 @@
+compound	shares	Colgate
+nsubj	closed	shares
+root	ROOT	closed
+nmod:tmod	closed	Monday
+case	$	at
+nmod:at	closed	$
+nummod	$	56.30
+case	Exchange	on
+det	Exchange	the
+compound	Exchange	New
+compound	Exchange	York
+compound	Exchange	Stock
+nmod:on	$	Exchange
+punct	closed	.

@@ -1,0 +1,9 @@
+advmod	stop	How
+aux	stop	can
+nsubj	stop	I
+root	ROOT	stop
+det	leak	this
+compound	leak	Shower
+compound	leak	faucet
+dobj	stop	leak
+punct	stop	?

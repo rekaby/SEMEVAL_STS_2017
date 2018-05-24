@@ -1,0 +1,10 @@
+advmod	good	just
+advmod	good	how
+root	ROOT	good
+det	basis	a
+nsubj	revenge	basis
+cop	revenge	is
+dep	good	revenge
+case	sentencing	for
+nmod:for	revenge	sentencing
+punct	good	?

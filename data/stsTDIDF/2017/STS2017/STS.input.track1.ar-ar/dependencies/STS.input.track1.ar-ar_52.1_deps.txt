@@ -1,0 +1,11 @@
+det	men	The
+nummod	men	two
+root	ROOT	men
+acl	men	carrying
+det	slogan	a
+dobj	carrying	slogan
+acl	slogan	directed
+case	president	at
+det	president	the
+nmod:at	directed	president
+punct	men	.

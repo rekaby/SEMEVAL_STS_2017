@@ -1,0 +1,10 @@
+amod	car	Red
+compound	car	sports
+root	ROOT	car
+case	truck	on
+mwe	on	top
+mwe	on	of
+amod	truck	white
+compound	truck	semi
+nmod:on_top_of	car	truck
+punct	car	.

@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	running
+case	track	on
+det	track	a
+nmod:on	running	track
+punct	man	.

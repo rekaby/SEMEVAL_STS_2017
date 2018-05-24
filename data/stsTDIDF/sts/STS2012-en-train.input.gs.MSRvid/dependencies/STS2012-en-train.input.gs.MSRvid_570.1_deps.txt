@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	upset	boy
+cop	upset	is
+root	ROOT	upset
+compound	games	playing
+compound	games	video
+dobj	upset	games
+punct	upset	.

@@ -1,0 +1,6 @@
+root	ROOT	travel
+advmod	travel	across
+cc	across	or
+conj:or	across	pass
+compound:prt	across	over
+punct	travel	.

@@ -1,0 +1,13 @@
+det	girl	The
+nsubj	running	girl
+acl	girl	wearing
+det	shirt	a
+amod	shirt	blue
+dobj	wearing	shirt
+aux	running	is
+root	ROOT	running
+case	center	through
+det	center	a
+compound	center	science
+nmod:through	running	center
+punct	running	.

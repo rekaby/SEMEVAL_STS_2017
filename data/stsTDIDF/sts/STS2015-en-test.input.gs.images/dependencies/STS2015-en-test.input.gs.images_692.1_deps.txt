@@ -1,0 +1,9 @@
+nsubj	standing	People
+aux	standing	are
+root	ROOT	standing
+case	escalator	on
+det	escalator	an
+nmod:on	standing	escalator
+acl	escalator	moving
+compound:prt	moving	up
+punct	standing	.

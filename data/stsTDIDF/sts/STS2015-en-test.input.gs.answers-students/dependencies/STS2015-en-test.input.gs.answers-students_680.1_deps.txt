@@ -1,0 +1,9 @@
+nsubj	guess	I
+root	ROOT	guess
+mark	center	because
+nsubj	center	it
+cop	center	is
+case	center	in
+det	center	the
+advcl:in	guess	center
+punct	guess	.

@@ -1,0 +1,7 @@
+det	man	The
+nsubj	writing	man
+aux	writing	is
+root	ROOT	writing
+det	letter	a
+dobj	writing	letter
+punct	writing	.

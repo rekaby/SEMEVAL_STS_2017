@@ -1,0 +1,16 @@
+nsubj	unlikely	It
+cop	unlikely	is
+advmod	unlikely	highly
+root	ROOT	unlikely
+mark	made	that
+nsubjpass	made	we
+auxpass	made	're
+ccomp	unlikely	made
+case	stuff	out
+mwe	out	of
+nmod:out_of	made	stuff
+case	star	from
+advmod	one	only
+nummod	star	one
+nmod:from	made	star
+punct	unlikely	.

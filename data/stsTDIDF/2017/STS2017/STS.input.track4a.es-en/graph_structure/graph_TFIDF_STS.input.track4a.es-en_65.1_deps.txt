@@ -1,0 +1,8 @@
+relaxing	.	punct
+relaxing	is	aux
+fishing	while	mark
+relaxing	fishing	advcl
+fishing	A	det
+fishing	man	compound
+relaxing	fishing	nsubj
+ROOT	relaxing	root

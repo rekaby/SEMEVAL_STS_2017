@@ -1,0 +1,5 @@
+standing	a	det
+walking	people	nsubj
+standing	park	nmod:in
+walking	standing	dobj
+park	city	compound

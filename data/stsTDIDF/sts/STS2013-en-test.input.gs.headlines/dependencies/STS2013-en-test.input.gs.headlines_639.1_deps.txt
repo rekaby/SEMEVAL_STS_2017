@@ -1,0 +1,8 @@
+nsubj	kills	Attacker
+case	uniform	in
+compound	uniform	Afghan
+nmod:in	Attacker	uniform
+root	ROOT	kills
+nummod	troops	2
+compound	troops	NATO
+dobj	kills	troops

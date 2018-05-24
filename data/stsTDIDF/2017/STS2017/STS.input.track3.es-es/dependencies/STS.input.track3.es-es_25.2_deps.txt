@@ -1,0 +1,9 @@
+det	water	The
+nsubj	cold	water
+case	pool	in
+det	pool	the
+nmod:in	water	pool
+cop	cold	is
+advmod	cold	very
+root	ROOT	cold
+punct	cold	.

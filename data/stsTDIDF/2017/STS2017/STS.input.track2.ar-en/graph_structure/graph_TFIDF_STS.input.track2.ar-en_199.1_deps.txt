@@ -1,0 +1,9 @@
+poses	swimming	csubj
+vegetation	underwater	amod
+picture	for	case
+person	poses	acl:relcl
+poses	underwater	amod
+vegetation	with	case
+picture	vegetation	nmod:with
+poses	picture	nmod:for
+vegetation	some	det

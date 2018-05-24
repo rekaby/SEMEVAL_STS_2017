@@ -1,0 +1,7 @@
+root	ROOT	bring
+case	state	to
+det	state	a
+amod	state	certain
+amod	state	spiritual
+nmod:to	bring	state
+punct	bring	.

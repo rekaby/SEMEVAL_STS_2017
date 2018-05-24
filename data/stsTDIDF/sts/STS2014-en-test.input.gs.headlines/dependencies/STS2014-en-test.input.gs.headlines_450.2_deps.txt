@@ -1,0 +1,8 @@
+root	ROOT	Indonesia
+punct	Indonesia	:
+nummod	dead	Six
+dep	Indonesia	dead
+case	eruption	in
+amod	eruption	Indonesian
+amod	eruption	volcanic
+nmod:in	dead	eruption

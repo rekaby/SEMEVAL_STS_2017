@@ -1,0 +1,10 @@
+det	way	Which
+root	ROOT	way
+acl	way	does
+det	flow	the
+compound	flow	air
+dobj	does	flow
+case	furnace	through
+nmod:poss	furnace	my
+nmod:through	flow	furnace
+punct	way	?

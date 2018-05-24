@@ -1,0 +1,13 @@
+det	iaea	the
+nsubj	investigating	iaea
+aux	investigating	has
+aux	investigating	been
+root	ROOT	investigating
+nmod:poss	activities	iran
+case	iran	's
+amod	activities	nuclear
+dobj	investigating	activities
+case	years	for
+nummod	years	4
+nmod:for	investigating	years
+punct	investigating	.

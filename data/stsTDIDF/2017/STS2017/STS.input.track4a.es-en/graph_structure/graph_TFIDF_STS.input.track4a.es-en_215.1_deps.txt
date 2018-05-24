@@ -1,0 +1,7 @@
+hair	blonde	amod
+has	hair	dobj
+has	man	nsubj
+woman	has	acl:relcl
+has	woman	nmod:along_with
+woman	along	case
+hair	brown	amod

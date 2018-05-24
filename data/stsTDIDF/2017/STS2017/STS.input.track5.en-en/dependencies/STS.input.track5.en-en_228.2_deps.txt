@@ -1,0 +1,12 @@
+det	driver	A
+compound	driver	race
+compound	driver	car
+nsubj	performs	driver
+root	ROOT	performs
+case	race	in
+det	race	the
+nmod:in	performs	race
+case	life	of
+nmod:poss	life	his
+nmod:of	race	life
+punct	performs	.

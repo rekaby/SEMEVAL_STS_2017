@@ -1,0 +1,4 @@
+grass	in	case
+make	love	dobj
+love	grass	nmod:in
+make	people	nsubj

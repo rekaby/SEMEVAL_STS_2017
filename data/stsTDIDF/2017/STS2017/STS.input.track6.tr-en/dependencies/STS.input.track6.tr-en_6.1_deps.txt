@@ -1,0 +1,8 @@
+det	child	The
+nsubj	playing	child
+aux	playing	is
+root	ROOT	playing
+case	ocean	in
+det	ocean	the
+nmod:in	playing	ocean
+punct	playing	.

@@ -1,0 +1,5 @@
+root	ROOT	make
+xcomp	make	lighter
+cc	lighter	or
+conj:or	lighter	brighter
+punct	make	.

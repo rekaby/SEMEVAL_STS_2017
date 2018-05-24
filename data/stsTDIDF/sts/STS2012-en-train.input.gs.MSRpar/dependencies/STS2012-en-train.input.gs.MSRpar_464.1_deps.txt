@@ -1,0 +1,13 @@
+amod	Coria	Argentine
+compound	Coria	Guillermo
+nsubj	half	Coria
+cc	Coria	and
+compound	Verkerk	Netherlander
+compound	Verkerk	Martin
+conj:and	Coria	Verkerk
+cop	half	are
+case	half	in
+det	half	the
+amod	half	other
+root	ROOT	half
+punct	half	.

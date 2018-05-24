@@ -1,0 +1,15 @@
+nummod	womens	Three
+nsubj	walk	womens
+root	ROOT	walk
+case	building	in
+det	building	the
+amod	building	open
+punct	building	,
+compound	building	stone
+nmod:in	walk	building
+case	sand	with
+nmod:with	building	sand
+case	floor	on
+det	floor	the
+nmod:on	walk	floor
+punct	walk	.

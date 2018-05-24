@@ -1,0 +1,7 @@
+root	ROOT	limit
+det	range	the
+dobj	limit	range
+cc	range	or
+conj:or	range	extent
+acl	range	of
+punct	limit	.

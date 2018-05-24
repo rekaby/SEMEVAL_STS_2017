@@ -1,0 +1,5 @@
+ROOT	shopping	root
+shopping	People	nsubj
+shopping	.	punct
+shopping	air	nmod:in
+air	open	amod

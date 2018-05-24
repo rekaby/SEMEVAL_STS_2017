@@ -1,0 +1,13 @@
+mark	stick	To
+advcl	considered	stick
+case	technique	with
+det	technique	the
+amod	technique	traditional
+compound	technique	pomodoro
+nmod:with	stick	technique
+nsubjpass	considered	this
+auxpass	considered	is
+root	ROOT	considered
+det	interruption	an
+dobj	considered	interruption
+punct	considered	.

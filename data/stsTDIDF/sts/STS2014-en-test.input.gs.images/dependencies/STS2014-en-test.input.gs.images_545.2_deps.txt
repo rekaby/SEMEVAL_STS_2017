@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	bike	on
+det	bike	a
+nmod:on	man	bike
+acl	bike	jumping
+case	air	through
+det	air	the
+nmod:through	jumping	air
+punct	man	.

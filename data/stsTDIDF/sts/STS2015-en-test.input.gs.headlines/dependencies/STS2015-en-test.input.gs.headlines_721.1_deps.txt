@@ -1,0 +1,9 @@
+compound	president	Algeria
+nsubj	gets	president
+root	ROOT	gets
+dobj	gets	therapy
+case	stroke	after
+nmod:after	gets	stroke
+punct	gets	:
+compound	media	state
+dobj	gets	media

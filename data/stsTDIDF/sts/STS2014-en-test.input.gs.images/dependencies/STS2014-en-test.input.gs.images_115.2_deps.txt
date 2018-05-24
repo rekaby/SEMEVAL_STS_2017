@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	white
+nsubj	runs	dog
+root	ROOT	runs
+case	snow	through
+det	snow	a
+nmod:through	runs	snow
+amod	wood	covered
+dep	snow	wood
+punct	runs	.

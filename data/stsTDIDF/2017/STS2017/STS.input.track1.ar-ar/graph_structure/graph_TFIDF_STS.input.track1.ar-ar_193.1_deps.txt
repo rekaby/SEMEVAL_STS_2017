@@ -1,0 +1,5 @@
+painted	face	dobj
+Woman	.	punct
+Woman	painted	acl:relcl
+ROOT	Woman	root
+painted	who	nsubj

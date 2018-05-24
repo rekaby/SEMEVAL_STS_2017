@@ -1,0 +1,6 @@
+compound	Korea	North
+nsubj	fires	Korea
+root	ROOT	fires
+nummod	missiles	three
+amod	missiles	short-range
+dobj	fires	missiles

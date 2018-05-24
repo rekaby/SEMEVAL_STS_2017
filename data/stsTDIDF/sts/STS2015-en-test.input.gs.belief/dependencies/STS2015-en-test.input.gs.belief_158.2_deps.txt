@@ -1,0 +1,19 @@
+advmod	entrapment	surely
+nsubj	entrapment	this
+cop	entrapment	is
+root	ROOT	entrapment
+punct	entrapment	?-5) nsubj(do-5, he
+aux	do	did
+neg	do	n't
+advmod	do	actually
+root	ROOT	do
+dobj	do	anything
+mark	lead	because
+nsubj	lead	they
+advmod	lead	basically
+advcl	do	lead
+dobj	lead	him
+case	situation	into
+det	situation	the
+nmod:into	lead	situation
+punct	do	?

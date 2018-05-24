@@ -1,0 +1,13 @@
+cc	clear	But
+nsubj	clear	it
+cop	clear	is
+root	ROOT	clear
+mark	involved	that
+det	Committee	the
+compound	Committee	Joint
+compound	Committee	Intelligence
+nsubjpass	involved	Committee
+auxpass	involved	was
+neg	involved	not
+ccomp	clear	involved
+punct	clear	.

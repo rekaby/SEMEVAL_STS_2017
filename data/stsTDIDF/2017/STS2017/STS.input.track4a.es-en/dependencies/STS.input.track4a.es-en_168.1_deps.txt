@@ -1,0 +1,8 @@
+compound	workers	Construction
+nsubj	sit	workers
+root	ROOT	sit
+case	track	near
+det	track	a
+compound	track	railroad
+nmod:near	sit	track
+punct	sit	.

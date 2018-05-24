@@ -1,0 +1,9 @@
+root	ROOT	UN
+punct	UN	:
+compound	strikes	US
+compound	strikes	drone
+nsubj	violate	strikes
+dep	UN	violate
+nmod:poss	sovereignty	Pakistan
+case	Pakistan	's
+dobj	violate	sovereignty

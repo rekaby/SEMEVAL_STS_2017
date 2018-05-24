@@ -1,0 +1,17 @@
+mark	start	To
+advcl	resources	start
+punct	resources	,
+det	drivers	the
+amod	drivers	main
+nsubj	resources	drivers
+case	growth	of
+amod	growth	economic
+nmod:of	drivers	growth
+cop	resources	are
+root	ROOT	resources
+punct	resources	,
+conj:and	resources	technology
+punct	resources	,
+cc	resources	and
+conj:and	resources	institutions
+punct	resources	.

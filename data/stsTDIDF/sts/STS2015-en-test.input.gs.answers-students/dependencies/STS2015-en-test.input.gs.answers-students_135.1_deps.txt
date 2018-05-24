@@ -1,0 +1,14 @@
+det	voltage	The
+nsubj	1.5	voltage
+cop	1.5	is
+root	ROOT	1.5
+mark	connected	because
+amod	terminal	thebulb
+nsubjpass	connected	terminal
+auxpass	connected	is
+advcl	1.5	connected
+case	terminal	to
+det	terminal	the
+compound	terminal	battery
+nmod:to	connected	terminal
+punct	1.5	.

@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	contact	of
+cop	contact	being
+case	contact	in
+acl:in	state	contact

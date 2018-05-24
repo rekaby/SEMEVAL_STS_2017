@@ -1,0 +1,7 @@
+det	animal	An
+nsubj	chewing	animal
+aux	chewing	is
+root	ROOT	chewing
+case	something	on
+nmod:on	chewing	something
+punct	chewing	.

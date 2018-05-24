@@ -1,0 +1,12 @@
+amod	picture	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	picture
+case	cat	of
+det	cat	a
+nmod:of	picture	cat
+acl	picture	laying
+case	rug	on
+det	rug	a
+nmod:on	laying	rug
+punct	picture	.

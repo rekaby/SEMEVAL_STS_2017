@@ -1,0 +1,5 @@
+jumps	bicycle	nsubj
+bicycle	A	det
+jumps	.	punct
+ROOT	jumps	root
+jumps	air	nmod:in

@@ -1,0 +1,6 @@
+root	ROOT	Trains
+case	station	inside
+det	station	an
+amod	station	indoor
+nmod:inside	Trains	station
+punct	Trains	.

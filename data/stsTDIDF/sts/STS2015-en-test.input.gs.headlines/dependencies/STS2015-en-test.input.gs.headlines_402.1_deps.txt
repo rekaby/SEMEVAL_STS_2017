@@ -1,0 +1,10 @@
+compound	posts	General
+compound	posts	Electric
+root	ROOT	posts
+compound	%	9
+amod	drop	%
+compound	drop	profit
+dep	posts	drop
+case	quarter	for
+amod	quarter	third
+nmod:for	drop	quarter

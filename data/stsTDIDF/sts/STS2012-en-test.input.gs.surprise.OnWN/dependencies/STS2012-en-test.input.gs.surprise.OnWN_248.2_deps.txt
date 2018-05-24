@@ -1,0 +1,12 @@
+mark	close	to
+dep	limit	close
+case	bounds	within
+nmod:within	close	bounds
+punct	limit	,
+root	ROOT	limit
+cc	limit	or
+conj:or	limit	hold
+compound:prt	hold	back
+case	movement	from
+nmod:from	hold	movement
+punct	limit	.

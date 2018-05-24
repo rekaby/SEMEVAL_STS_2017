@@ -1,0 +1,9 @@
+det	person	a
+root	ROOT	person
+nsubj	takes	who
+acl:relcl	person	takes
+dobj	takes	pictures
+punct	person	,
+advmod	professional	often
+det	professional	a
+amod	person	professional

@@ -1,0 +1,10 @@
+nummod	dogs	Two
+nsubj	urinating	dogs
+aux	urinating	are
+root	ROOT	urinating
+case	hydrant	on
+det	hydrant	the
+amod	hydrant	red
+compound	hydrant	fire
+nmod:on	urinating	hydrant
+punct	urinating	.

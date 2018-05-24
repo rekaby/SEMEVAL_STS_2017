@@ -1,0 +1,6 @@
+root	ROOT	place
+case	ground	into
+det	ground	the
+nmod:into	place	ground
+mark	growing	for
+acl	place	growing

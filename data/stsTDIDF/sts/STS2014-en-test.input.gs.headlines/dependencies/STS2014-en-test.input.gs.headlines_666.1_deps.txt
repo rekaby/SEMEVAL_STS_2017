@@ -1,0 +1,6 @@
+nsubj	waiting	Sniper
+root	ROOT	waiting
+case	result	for
+nmod:for	waiting	result
+case	appeal	of
+nmod:of	result	appeal

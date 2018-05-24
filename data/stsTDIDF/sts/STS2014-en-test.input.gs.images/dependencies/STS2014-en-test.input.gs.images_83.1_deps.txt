@@ -1,0 +1,14 @@
+nummod	men	Three
+nsubj	sitting	men
+aux	sitting	are
+root	ROOT	sitting
+compound:prt	sitting	down
+case	table	at
+det	table	a
+nmod:at	sitting	table
+nsubj	has	that
+acl:relcl	table	has
+dobj	has	drinks
+case	it	on
+nmod:on	has	it
+punct	sitting	.

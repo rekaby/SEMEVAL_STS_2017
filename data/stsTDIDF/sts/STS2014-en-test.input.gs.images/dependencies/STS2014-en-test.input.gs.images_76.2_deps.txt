@@ -1,0 +1,10 @@
+det	view	The
+amod	view	rear
+root	ROOT	view
+case	car	of
+det	car	a
+amod	car	red
+compound	car	Chevrolet
+compound	car	concept
+nmod:of	view	car
+punct	view	.

@@ -1,0 +1,10 @@
+adversaries	dodging	compound
+adversaries	basketball	nmod:with
+watches	man	nsubj
+basketball	a	det
+adversaries	man	nsubj
+watches	while	mark
+adversaries	watches	advcl
+basketball	with	case
+man	another	det
+ROOT	adversaries	root

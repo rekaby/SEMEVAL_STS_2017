@@ -1,0 +1,8 @@
+root	ROOT	travel
+cc	travel	or
+auxpass	transported	be
+conj:or	travel	transported
+case	vehicle	in
+det	vehicle	a
+nmod:in	travel	vehicle
+punct	travel	.

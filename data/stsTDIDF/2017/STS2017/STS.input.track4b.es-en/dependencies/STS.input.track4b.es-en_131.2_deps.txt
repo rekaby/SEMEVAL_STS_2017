@@ -1,0 +1,15 @@
+cc	said	And
+punct	said	``
+mark	said	that
+compound	transfers	self-regulation
+nsubj	said	transfers
+case	situation	from
+nummod	situation	one
+nmod:from	transfers	situation
+case	another	to
+nmod:to	situation	another
+punct	said	,
+punct	said	''
+nsubj	said	he
+root	ROOT	said
+punct	said	.

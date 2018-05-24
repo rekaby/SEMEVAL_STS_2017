@@ -1,0 +1,5 @@
+nsubj	set	Suarez
+root	ROOT	set
+case	comeback	for
+compound	comeback	Cup
+nmod:for	set	comeback

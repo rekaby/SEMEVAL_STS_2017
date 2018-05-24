@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	compete	men
+root	ROOT	compete
+case	tire	in
+det	tire	a
+nmod:in	compete	tire
+amod	race	rolling
+dep	tire	race
+punct	compete	.

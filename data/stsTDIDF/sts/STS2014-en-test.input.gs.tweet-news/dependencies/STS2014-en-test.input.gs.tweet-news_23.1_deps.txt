@@ -1,0 +1,13 @@
+compound	toll	Death
+nsubj	climbs	toll
+ccomp	says	climbs
+case	220	to
+nmod:to	climbs	220
+case	fire	in
+compound	fire	#Brazil
+compound	fire	nightclub
+nmod:in	climbs	fire
+punct	says	,
+nsubj	says	official
+root	ROOT	says
+punct	says	.

@@ -1,0 +1,6 @@
+compound	containers	People
+amod	containers	holding
+root	ROOT	containers
+case	alcohol	on
+nmod:on	containers	alcohol
+punct	containers	.

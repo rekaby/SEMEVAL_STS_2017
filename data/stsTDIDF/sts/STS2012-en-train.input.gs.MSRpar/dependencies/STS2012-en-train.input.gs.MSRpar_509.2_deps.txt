@@ -1,0 +1,9 @@
+advmod	Corp.	Only
+compound	Corp.	Intel
+nsubj	has	Corp.
+root	ROOT	has
+det	yield	a
+amod	yield	lower
+compound	yield	dividend
+dobj	has	yield
+punct	has	.

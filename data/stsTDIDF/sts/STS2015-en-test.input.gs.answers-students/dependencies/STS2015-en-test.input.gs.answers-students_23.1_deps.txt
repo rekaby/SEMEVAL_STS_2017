@@ -1,0 +1,9 @@
+mark	creates	because
+det	gap	the
+nsubj	creates	gap
+root	ROOT	creates
+det	difference	a
+dobj	creates	difference
+case	states	in
+amod	states	electrical
+nmod:in	difference	states

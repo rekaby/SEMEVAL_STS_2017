@@ -1,0 +1,7 @@
+nsubj	restores	Fitch
+root	ROOT	restores
+compound	credit	Ford
+dobj	restores	credit
+case	grade	to
+compound	grade	investment
+nmod:to	restores	grade

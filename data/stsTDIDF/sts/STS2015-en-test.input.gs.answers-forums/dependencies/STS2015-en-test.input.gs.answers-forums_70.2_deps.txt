@@ -1,0 +1,17 @@
+punct	fine	``
+nsubj	been	I
+aux	been	had
+advmod	been	mainly
+dep	fine	been
+punct	fine	''
+cop	fine	is
+root	ROOT	fine
+punct	fine	,
+case	context	in
+det	context	the
+nmod:in	using	context
+nsubj	using	you
+aux	using	're
+dep	fine	using
+dobj	using	it
+punct	fine	.

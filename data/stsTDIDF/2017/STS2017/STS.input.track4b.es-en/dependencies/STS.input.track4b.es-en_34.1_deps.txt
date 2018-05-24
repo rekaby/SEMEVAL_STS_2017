@@ -1,0 +1,15 @@
+case	term	During
+nmod:poss	term	his
+amod	term	first
+nmod:during	neglected	term
+punct	neglected	,
+nsubj	neglected	he
+root	ROOT	neglected
+mark	present	to
+xcomp	neglected	present
+nmod:poss	plan	his
+amod	plan	own
+dobj	present	plan
+case	peace	for
+nmod:for	plan	peace
+punct	neglected	.

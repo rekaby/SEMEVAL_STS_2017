@@ -1,0 +1,12 @@
+amod	ears	Soak
+amod	ears	whole
+root	ROOT	ears
+case	husk	in
+det	husk	the
+nmod:in	ears	husk
+case	bowl	in
+det	bowl	a
+nmod:in	ears	bowl
+case	water	of
+nmod:of	bowl	water
+punct	ears	.

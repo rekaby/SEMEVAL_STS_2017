@@ -1,0 +1,10 @@
+det	people	Some
+nsubj	throwing	people
+aux	throwing	are
+root	ROOT	throwing
+det	dummy	a
+dobj	throwing	dummy
+case	cliff	off
+det	cliff	a
+nmod:off	throwing	cliff
+punct	throwing	.

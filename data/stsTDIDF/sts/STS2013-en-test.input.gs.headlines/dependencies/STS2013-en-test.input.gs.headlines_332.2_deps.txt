@@ -1,0 +1,9 @@
+nsubj	blames	Syria
+root	ROOT	blames
+dobj	blames	rebels
+case	massacre	for
+compound	massacre	Houla
+nmod:for	blames	massacre
+case	100	of
+case	100	over
+nmod:over	massacre	100

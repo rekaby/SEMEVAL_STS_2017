@@ -1,0 +1,5 @@
+nummod	dogs	Two
+root	ROOT	dogs
+case	snow	in
+det	snow	the
+nmod:in	dogs	snow

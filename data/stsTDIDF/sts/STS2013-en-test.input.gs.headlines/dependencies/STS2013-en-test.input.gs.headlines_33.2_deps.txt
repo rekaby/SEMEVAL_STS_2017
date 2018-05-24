@@ -1,0 +1,9 @@
+amod	plane	Military
+nsubj	crashes	plane
+root	ROOT	crashes
+case	Turkey	in
+amod	Turkey	southeastern
+nmod:in	crashes	Turkey
+punct	crashes	,
+nmod:npmod	crashes	1
+amod	1	dead

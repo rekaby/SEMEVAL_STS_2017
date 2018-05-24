@@ -1,0 +1,7 @@
+root	ROOT	Putin
+mark	win	to
+acl	Putin	win
+nmod:poss	election	Russia
+case	Russia	's
+amod	election	presidential
+dobj	win	election

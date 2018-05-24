@@ -1,0 +1,12 @@
+aux	understand	Do
+nsubj	understand	you
+neg	understand	not
+root	ROOT	understand
+dobj	led	what
+det	word	the
+nsubj	led	word
+punct	led	`
+ccomp	understand	led
+punct	led	'
+ccomp	led	implies
+punct	understand	?

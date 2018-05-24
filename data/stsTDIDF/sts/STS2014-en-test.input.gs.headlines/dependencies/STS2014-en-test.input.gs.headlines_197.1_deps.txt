@@ -1,0 +1,15 @@
+nmod:poss	McAfee	Intel
+case	Intel	's
+nsubj	Buys	McAfee
+root	ROOT	Buys
+dobj	Buys	Cloud-Based
+punct	Cloud-Based	,
+amod	Stonesoft	Networked
+compound	Stonesoft	Firewall
+compound	Stonesoft	Specialist
+conj	Cloud-Based	Stonesoft
+case	$	For
+nmod:for	Stonesoft	$
+nummod	$	389M
+case	Cash	In
+nmod:in	$	Cash

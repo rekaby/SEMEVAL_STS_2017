@@ -1,0 +1,7 @@
+punct	resigns	`
+amod	Fayyad	Palestinian
+compound	Fayyad	Prime
+compound	Fayyad	Minister
+nsubj	resigns	Fayyad
+root	ROOT	resigns
+punct	resigns	'

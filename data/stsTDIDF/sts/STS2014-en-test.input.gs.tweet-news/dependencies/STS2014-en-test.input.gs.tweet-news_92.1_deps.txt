@@ -1,0 +1,15 @@
+det	piece	A
+amod	piece	great
+nsubj	lit	piece
+case	mag	in
+det	mag	the
+compound	mag	NYT
+nmod:in	piece	mag
+case	story	on
+nmod:on	piece	story
+punct	piece	,
+root	ROOT	lit
+punct	lit	,
+cc	lit	and
+conj:and	lit	media
+punct	lit	.

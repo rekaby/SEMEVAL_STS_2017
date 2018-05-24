@@ -1,0 +1,10 @@
+climber	rock	compound
+falling	off	advmod
+off	mountain	nmod:of
+falling	.	punct
+mountain	a	det
+climber	A	det
+falling	climber	nsubj
+ROOT	falling	root
+falling	is	aux
+mountain	of	case

@@ -1,0 +1,8 @@
+nsubj	stands	Girl
+root	ROOT	stands
+case	subway	in
+nmod:in	stands	subway
+acl	subway	waiting
+case	something	on
+nmod:on	waiting	something
+punct	stands	.

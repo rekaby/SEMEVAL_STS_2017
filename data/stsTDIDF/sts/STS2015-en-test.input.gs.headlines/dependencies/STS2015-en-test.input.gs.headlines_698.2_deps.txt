@@ -1,0 +1,5 @@
+compound	votes	Luxembourg
+root	ROOT	votes
+mark	spying	after
+acl	votes	spying
+dobj	spying	row

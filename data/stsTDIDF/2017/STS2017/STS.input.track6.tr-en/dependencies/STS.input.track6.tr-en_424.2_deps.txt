@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+nummod	people	two
+nsubj	are	people
+punct	people	,
+det	man	a
+appos	people	man
+cc	man	and
+det	boy	a
+conj:and	man	boy
+punct	are	.

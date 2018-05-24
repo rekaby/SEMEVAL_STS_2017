@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	has	dog
+root	ROOT	has
+nmod:poss	mouth	its
+dobj	has	mouth
+amod	open	wide
+amod	mouth	open
+punct	has	.

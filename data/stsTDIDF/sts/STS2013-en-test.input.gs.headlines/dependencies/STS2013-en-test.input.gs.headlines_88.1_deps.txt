@@ -1,0 +1,12 @@
+neg	damage	No
+root	ROOT	damage
+punct	damage	,
+appos	damage	tsunami
+mark	hits	after
+nummod	quake	6.6
+nsubj	hits	quake
+acl	tsunami	hits
+compound:prt	hits	off
+nmod:poss	Sumatra	Indonesia
+case	Indonesia	's
+dobj	hits	Sumatra

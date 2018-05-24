@@ -1,0 +1,12 @@
+jam	musician	nsubj
+jam	.	punct
+guitar	white	amod
+jam	concert	nmod:at
+concert	at	case
+guitar	his	nmod:poss
+jam	is	cop
+jam	guitar	nmod:on
+guitar	on	case
+jam	smearing	compound
+musician	A	det
+ROOT	jam	root

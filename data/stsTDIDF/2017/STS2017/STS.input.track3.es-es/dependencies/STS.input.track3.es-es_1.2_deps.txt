@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	has	dog
+root	ROOT	has
+det	toy	a
+dobj	has	toy
+punct	has	.

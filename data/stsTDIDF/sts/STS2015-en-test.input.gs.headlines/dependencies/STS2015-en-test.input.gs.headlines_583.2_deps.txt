@@ -1,0 +1,6 @@
+nummod	children	11
+nsubj	bombings	children
+acl	children	killed
+case	Syria	in
+nmod:in	killed	Syria
+root	ROOT	bombings

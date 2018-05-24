@@ -1,0 +1,12 @@
+root	ROOT	plan
+punct	plan	,
+conj:and	plan	organize
+punct	plan	,
+cc	plan	and
+conj:and	plan	carry
+compound:prt	carry	out
+punct	event	-LRB-
+det	event	an
+dep	carry	event
+punct	event	-RRB-
+punct	plan	.

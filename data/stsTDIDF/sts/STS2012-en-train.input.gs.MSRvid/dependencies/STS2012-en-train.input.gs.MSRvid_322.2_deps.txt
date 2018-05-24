@@ -1,0 +1,10 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+case	arena	in
+det	arena	an
+nmod:in	riding	arena
+punct	riding	.

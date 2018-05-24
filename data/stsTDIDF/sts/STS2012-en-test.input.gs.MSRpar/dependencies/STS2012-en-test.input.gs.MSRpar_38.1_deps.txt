@@ -1,0 +1,16 @@
+nsubjpass	expected	He
+auxpass	expected	was
+advmod	expected	also
+root	ROOT	expected
+mark	visit	to
+xcomp	expected	visit
+dobj	visit	Yemen
+cc	visit	and
+conj:and	visit	Bahrain
+case	tour	during
+nmod:poss	tour	his
+nmod:during	Bahrain	tour
+case	region	of
+det	region	the
+nmod:of	tour	region
+punct	expected	.

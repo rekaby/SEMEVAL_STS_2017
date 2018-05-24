@@ -1,0 +1,10 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	lengthen	to
+punct	lengthen	-RRB-
+nmod:to	cause	lengthen
+cc	lengthen	or
+conj:or	lengthen	stretch
+compound:prt	stretch	out
+case	space	in
+nmod:in	lengthen	space

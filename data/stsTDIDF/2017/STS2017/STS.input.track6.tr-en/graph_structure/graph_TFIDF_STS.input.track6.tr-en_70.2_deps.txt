@@ -1,0 +1,13 @@
+band	in	case
+white	gold	conj:and
+in	white	dep
+dressed	group	nsubjpass
+dressed	in	nmod
+ROOT	dressed	root
+playing	band	nmod:in
+group	student	compound
+white	green	conj:and
+dressed	.	punct
+white	,	punct
+dressed	was	auxpass
+group	playing	acl

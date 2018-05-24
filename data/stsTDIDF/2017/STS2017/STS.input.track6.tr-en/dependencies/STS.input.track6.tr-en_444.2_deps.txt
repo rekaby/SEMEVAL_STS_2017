@@ -1,0 +1,11 @@
+det	clown	The
+nsubj	smile	clown
+acl	clown	holding
+det	broom	the
+dobj	holding	broom
+cop	smile	is
+root	ROOT	smile
+case	people	to
+det	people	the
+nmod:to	smile	people
+punct	smile	.

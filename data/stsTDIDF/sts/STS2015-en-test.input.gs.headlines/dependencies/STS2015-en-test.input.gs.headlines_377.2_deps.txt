@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	jumps	toll
+case	quake	in
+compound	quake	Philippines
+nmod:in	toll	quake
+root	ROOT	jumps
+case	85	to
+nmod:to	jumps	85

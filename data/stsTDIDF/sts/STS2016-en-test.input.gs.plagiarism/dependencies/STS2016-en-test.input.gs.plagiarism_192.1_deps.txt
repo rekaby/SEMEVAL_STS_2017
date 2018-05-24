@@ -1,0 +1,9 @@
+root	ROOT	Generalise
+det	structure	the
+dobj	Generalise	structure
+case	solution	of
+det	solution	an
+amod	solution	optimal
+nmod:of	structure	solution
+nummod	solution	2
+punct	Generalise	.

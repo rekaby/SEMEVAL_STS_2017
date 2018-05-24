@@ -1,0 +1,11 @@
+dep	took	Nigella
+nsubj	took	Lawson
+punct	took	`
+root	ROOT	took
+dobj	took	cocaine
+det	day	every
+nmod:tmod	took	day
+case	decade	for
+det	decade	a
+nmod:for	took	decade
+punct	took	'

@@ -1,0 +1,18 @@
+det	Index	The
+amod	Index	technology-laced
+compound	Index	Nasdaq
+compound	Index	Composite
+root	ROOT	Index
+punct	Index	.-6) nsubj(inched-2, IXIC
+root	ROOT	inched
+case	point	down
+nummod	point	1
+nmod:down	inched	point
+punct	point	,
+cc	point	or
+nummod	percent	0.11
+conj:or	point	percent
+punct	point	,
+case	1,650	to
+nmod:to	point	1,650
+punct	inched	.

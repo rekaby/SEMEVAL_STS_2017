@@ -1,0 +1,6 @@
+nummod	brothers	Two
+nsubj	dealing	brothers
+root	ROOT	dealing
+case	food	with
+nmod:with	dealing	food
+punct	dealing	.

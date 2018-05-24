@@ -1,0 +1,13 @@
+det	group	A
+nsubj	sit	group
+case	people	of
+nmod:of	group	people
+root	ROOT	sit
+case	table	at
+det	table	a
+nmod:at	sit	table
+case	restaurant	in
+det	restaurant	an
+amod	restaurant	Italian
+nmod:in	table	restaurant
+punct	sit	.

@@ -1,0 +1,7 @@
+nsubj	says	Hezbollah
+root	ROOT	says
+nsubj	sent	it
+ccomp	says	sent
+dobj	sent	drone
+case	Israel	over
+nmod:over	sent	Israel

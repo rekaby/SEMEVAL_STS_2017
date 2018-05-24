@@ -1,0 +1,16 @@
+nummod	seconds	Nine
+nmod:npmod	later	seconds
+advmod	broke	later
+punct	broke	,
+nsubj	broke	it
+root	ROOT	broke
+det	barrier	the
+amod	barrier	sound
+dobj	broke	barrier
+cc	broke	and
+conj:and	broke	continued
+nmod:poss	ascent	its
+amod	ascent	steep
+amod	ascent	powered
+dobj	continued	ascent
+punct	broke	.

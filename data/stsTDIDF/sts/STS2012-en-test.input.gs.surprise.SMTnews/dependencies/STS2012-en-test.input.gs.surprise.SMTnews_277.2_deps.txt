@@ -1,0 +1,8 @@
+compound	board	Ahmadinejad
+root	ROOT	board
+case	adventure	in
+det	adventure	an
+nmod:in	board	adventure
+punct	adventure	,
+neg	Bernanke	not
+appos	adventure	Bernanke

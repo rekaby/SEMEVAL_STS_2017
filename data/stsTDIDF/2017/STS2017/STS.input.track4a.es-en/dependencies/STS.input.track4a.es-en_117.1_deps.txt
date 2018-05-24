@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	lying	dog
+root	ROOT	lying
+compound:prt	lying	down
+case	stick	with
+det	stick	a
+amod	stick	large
+nmod:with	lying	stick
+case	paw	under
+nmod:poss	paw	its
+nmod:under	stick	paw
+punct	lying	.

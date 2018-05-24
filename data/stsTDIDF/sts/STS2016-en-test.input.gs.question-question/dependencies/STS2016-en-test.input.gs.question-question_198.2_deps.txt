@@ -1,0 +1,10 @@
+advmod	install	How
+aux	install	do
+nsubj	install	I
+root	ROOT	install
+det	wall	a
+amod	wall	new
+amod	wall	interior
+compound	wall	partition
+dobj	install	wall
+punct	install	?

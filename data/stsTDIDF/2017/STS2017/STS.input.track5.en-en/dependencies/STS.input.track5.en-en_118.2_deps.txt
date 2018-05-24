@@ -1,0 +1,8 @@
+nummod	men	Two
+nsubj	walk	men
+root	ROOT	walk
+case	building	toward
+det	building	a
+amod	building	dome-shaped
+nmod:toward	walk	building
+punct	walk	.

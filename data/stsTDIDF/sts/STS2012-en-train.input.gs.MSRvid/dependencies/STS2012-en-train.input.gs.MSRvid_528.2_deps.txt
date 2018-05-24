@@ -1,0 +1,13 @@
+det	man	A
+nsubj	opens	man
+root	ROOT	opens
+dobj	opens	a
+dep	a	can
+cc	can	and
+conj:and	can	pours
+det	contents	the
+dobj	can	contents
+case	bowl	into
+det	bowl	a
+nmod:into	contents	bowl
+punct	opens	.

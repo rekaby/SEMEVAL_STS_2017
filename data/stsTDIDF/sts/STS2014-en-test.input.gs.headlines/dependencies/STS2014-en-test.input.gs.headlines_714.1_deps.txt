@@ -1,0 +1,8 @@
+nsubj	detains	China
+nsubj	dies	detains
+compound	workers	city
+dobj	detains	workers
+case	seller	after
+compound	seller	fruit
+nmod:after	detains	seller
+root	ROOT	dies

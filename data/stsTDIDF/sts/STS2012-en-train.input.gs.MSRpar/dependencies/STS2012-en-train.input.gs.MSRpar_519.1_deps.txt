@@ -1,0 +1,15 @@
+root	ROOT	``
+nsubj	test	It
+cop	test	was
+det	test	a
+amod	test	final
+root	``	test
+mark	delivering	before
+advcl	test	delivering
+det	missile	the
+dobj	delivering	missile
+case	forces	to
+det	forces	the
+amod	forces	armed
+nmod:to	delivering	forces
+punct	test	.

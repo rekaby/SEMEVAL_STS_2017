@@ -1,0 +1,9 @@
+amod	fatwa	Canadian
+compound	fatwa	Muslims
+compound	fatwa	issue
+root	ROOT	fatwa
+case	killing	against
+punct	killing	`
+compound	killing	honor
+nmod:against	fatwa	killing
+punct	fatwa	'

@@ -1,0 +1,7 @@
+nsubj	depend	This
+aux	depend	will
+root	ROOT	depend
+case	university	on
+det	university	the
+nmod:on	depend	university
+punct	depend	.

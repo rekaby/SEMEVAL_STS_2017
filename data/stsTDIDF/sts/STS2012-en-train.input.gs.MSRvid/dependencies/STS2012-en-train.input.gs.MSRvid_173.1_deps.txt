@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	whacks	boy
+root	ROOT	whacks
+det	man	a
+dobj	whacks	man
+case	sword	with
+det	sword	a
+nmod:with	whacks	sword
+punct	whacks	.

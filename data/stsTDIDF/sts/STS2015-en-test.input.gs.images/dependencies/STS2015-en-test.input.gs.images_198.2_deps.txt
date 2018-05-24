@@ -1,0 +1,7 @@
+nummod	skaters	Three
+compound	skaters	ice
+nsubj	round	skaters
+root	ROOT	round
+det	corner	a
+dobj	round	corner
+punct	round	.

@@ -1,0 +1,7 @@
+root	ROOT	have
+det	disagreement	a
+dobj	have	disagreement
+cc	disagreement	or
+conj:or	disagreement	quarrel
+case	something	over
+nmod:over	have	something

@@ -1,0 +1,7 @@
+det	sun	The
+nsubj	rising	sun
+aux	rising	is
+root	ROOT	rising
+case	trees	behind
+nmod:behind	rising	trees
+punct	rising	.

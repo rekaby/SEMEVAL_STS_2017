@@ -1,0 +1,8 @@
+det	woman	A
+compound	woman	cartoon
+nsubj	dives	woman
+root	ROOT	dives
+case	pool	into
+det	pool	a
+nmod:into	dives	pool
+punct	dives	.

@@ -1,0 +1,13 @@
+compound	limits	Place
+root	ROOT	limits
+advmod	limits	on
+punct	limits	;
+dep	limits	form
+det	boundary	the
+dobj	form	boundary
+dep	boundary	of
+cc	of	or
+cop	contiguous	be
+conj:or	of	contiguous
+dep	of	to
+punct	limits	.

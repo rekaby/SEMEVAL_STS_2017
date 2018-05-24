@@ -1,0 +1,8 @@
+nummod	pro-Palestinians	100
+nsubj	seek	pro-Palestinians
+root	ROOT	seek
+mark	enter	to
+xcomp	seek	enter
+dobj	enter	Israel
+case	Allenby	at
+nmod:at	enter	Allenby

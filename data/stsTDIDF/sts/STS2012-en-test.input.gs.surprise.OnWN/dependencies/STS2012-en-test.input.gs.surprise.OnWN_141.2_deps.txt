@@ -1,0 +1,6 @@
+amod	terms	informal
+root	ROOT	terms
+case	leg	for
+det	leg	the
+nmod:for	terms	leg
+punct	terms	.

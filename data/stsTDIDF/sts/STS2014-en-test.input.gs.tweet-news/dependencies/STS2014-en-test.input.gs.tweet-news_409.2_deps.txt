@@ -1,0 +1,7 @@
+nsubj	arrested	Six
+root	ROOT	arrested
+case	gang-rape	over
+amod	gang-rape	new
+nmod:over	arrested	gang-rape
+case	bus	on
+nmod:on	arrested	bus

@@ -1,0 +1,7 @@
+det	language	What
+root	ROOT	language
+dep	language	does
+det	look	this
+dobj	does	look
+dep	look	like
+punct	language	?

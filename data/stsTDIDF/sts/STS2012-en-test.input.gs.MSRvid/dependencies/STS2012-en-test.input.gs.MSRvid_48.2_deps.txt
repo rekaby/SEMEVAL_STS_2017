@@ -1,0 +1,7 @@
+det	man	A
+nsubj	rode	man
+root	ROOT	rode
+det	bull	a
+amod	bull	mechanical
+dobj	rode	bull
+punct	rode	.

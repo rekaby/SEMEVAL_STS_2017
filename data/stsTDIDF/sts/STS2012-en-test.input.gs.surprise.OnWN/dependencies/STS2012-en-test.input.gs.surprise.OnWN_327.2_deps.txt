@@ -1,0 +1,4 @@
+root	ROOT	duplicate
+cc	duplicate	or
+conj:or	duplicate	match
+punct	duplicate	.

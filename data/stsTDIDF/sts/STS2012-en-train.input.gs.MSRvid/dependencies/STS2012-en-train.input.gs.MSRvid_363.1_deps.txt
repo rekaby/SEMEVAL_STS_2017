@@ -1,0 +1,9 @@
+det	man	The
+nsubj	singing	man
+cop	singing	is
+root	ROOT	singing
+cc	singing	and
+conj:and	singing	playing
+det	guitar	the
+dobj	playing	guitar
+punct	singing	.

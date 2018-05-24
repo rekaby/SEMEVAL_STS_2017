@@ -1,0 +1,7 @@
+nsubj	cuts	Australia
+root	ROOT	cuts
+compound	rates	interest
+dobj	cuts	rates
+mark	record	to
+advcl	cuts	record
+dobj	record	low

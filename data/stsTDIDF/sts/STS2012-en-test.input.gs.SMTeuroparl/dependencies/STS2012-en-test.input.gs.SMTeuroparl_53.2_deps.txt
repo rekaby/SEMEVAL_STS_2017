@@ -1,0 +1,13 @@
+case	leaders	Given
+det	leaders	the
+root	ROOT	leaders
+dep	chance	today
+det	chance	a
+amod	chance	new
+dep	leaders	chance
+cc	chance	and
+advmod	let	thus
+conj:and	chance	let
+det	approach	the
+dobj	let	approach
+punct	leaders	.

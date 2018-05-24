@@ -1,0 +1,6 @@
+nsubj	mourns	Venezuela
+root	ROOT	mourns
+compound	blast	oil
+compound	blast	refinery
+compound	deaths	blast
+dobj	mourns	deaths

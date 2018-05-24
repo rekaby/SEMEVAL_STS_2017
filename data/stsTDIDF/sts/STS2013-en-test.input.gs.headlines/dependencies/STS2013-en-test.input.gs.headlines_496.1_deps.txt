@@ -1,0 +1,11 @@
+root	ROOT	Washington
+punct	Washington	:
+advmod	100	More
+mwe	More	Than
+nsubjpass	Charged	100
+auxpass	Charged	Are
+parataxis	Washington	Charged
+case	Fraud	in
+compound	Fraud	Medicare
+nmod:in	Charged	Fraud
+dep	Charged	Sweep

@@ -1,0 +1,6 @@
+det	dogs	The
+nsubj	water	dogs
+cop	water	are
+case	water	in
+root	ROOT	water
+punct	water	.

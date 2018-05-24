@@ -1,0 +1,16 @@
+compound	Mahony	Cardinal
+root	ROOT	Mahony
+punct	Mahony	,
+appos	Mahony	abuser
+case	liturgies	of
+nmod:of	abuser	liturgies
+cc	liturgies	and
+conj:and	liturgies	shielder
+case	abusers	of
+compound	abusers	child
+nmod:of	liturgies	abusers
+punct	Mahony	.-12) advmod(sad-2, So
+root	ROOT	sad
+cc	sad	and
+conj:and	sad	frustrating
+punct	sad	.

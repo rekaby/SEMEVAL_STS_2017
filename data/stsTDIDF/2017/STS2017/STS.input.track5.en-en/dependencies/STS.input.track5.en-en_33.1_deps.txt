@@ -1,0 +1,15 @@
+det	clown	A
+nsubj	performs	clown
+root	ROOT	performs
+case	brother	for
+nmod:for	performs	brother
+cc	brother	and
+conj:and	brother	sister
+case	rest	as
+det	rest	the
+nmod:as	performs	rest
+case	watches	of
+det	watches	the
+compound	watches	party
+nmod:of	rest	watches
+punct	performs	.

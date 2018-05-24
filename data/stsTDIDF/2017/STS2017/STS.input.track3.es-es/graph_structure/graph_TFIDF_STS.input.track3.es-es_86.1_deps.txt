@@ -1,0 +1,10 @@
+statue	bull	nmod:of
+people	standing	acl
+statue	near	case
+series	A	det
+standing	statue	nmod:near
+series	people	nmod:of
+ROOT	series	root
+bull	of	case
+bull	a	det
+statue	a	det

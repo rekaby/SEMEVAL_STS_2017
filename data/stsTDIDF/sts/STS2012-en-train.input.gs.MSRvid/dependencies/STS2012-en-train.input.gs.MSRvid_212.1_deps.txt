@@ -1,0 +1,8 @@
+nsubj	slices	Someone
+root	ROOT	slices
+det	bottle	a
+dobj	slices	bottle
+case	sword	with
+det	sword	a
+nmod:with	slices	sword
+punct	slices	.

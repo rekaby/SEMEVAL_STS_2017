@@ -1,0 +1,8 @@
+compound	driver	Train
+root	ROOT	driver
+case	crash	in
+compound	crash	Spain
+nmod:in	driver	crash
+acl	crash	questioned
+case	judge	by
+nmod:by	questioned	judge

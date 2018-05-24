@@ -1,0 +1,8 @@
+det	panda	A
+compound	panda	baby
+nsubj	goes	panda
+root	ROOT	goes
+compound:prt	goes	down
+det	slide	a
+dobj	goes	slide
+punct	goes	.

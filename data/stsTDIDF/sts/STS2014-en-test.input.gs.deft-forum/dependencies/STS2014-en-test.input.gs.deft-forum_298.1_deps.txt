@@ -1,0 +1,9 @@
+root	ROOT	What
+cop	What	was
+det	answer	the
+punct	answer	``
+nsubj	What	answer
+punct	answer	''
+case	Chicago	in
+nmod:in	answer	Chicago
+punct	What	?

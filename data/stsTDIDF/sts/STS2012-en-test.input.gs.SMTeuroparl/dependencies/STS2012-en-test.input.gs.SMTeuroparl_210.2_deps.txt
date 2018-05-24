@@ -1,0 +1,11 @@
+root	ROOT	We
+nsubj	pride	we
+acl:relcl	We	pride
+advmod	here	often
+advmod	pride	here
+mark	representing	of
+advcl	pride	representing
+det	citizens	the
+amod	citizens	European
+dobj	representing	citizens
+punct	We	.

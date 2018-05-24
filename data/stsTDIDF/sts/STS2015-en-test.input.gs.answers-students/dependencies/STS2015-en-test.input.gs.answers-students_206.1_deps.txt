@@ -1,0 +1,13 @@
+cc:preconj	bulb	Both
+det	bulb	the
+amod	bulb	light
+nsubj	path	bulb
+cc	bulb	and
+conj:and	bulb	battery
+aux	path	must
+cop	path	be
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path
+punct	path	.

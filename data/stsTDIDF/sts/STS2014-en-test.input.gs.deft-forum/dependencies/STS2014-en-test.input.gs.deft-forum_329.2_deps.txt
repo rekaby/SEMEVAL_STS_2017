@@ -1,0 +1,10 @@
+amod	imposter	@cicerone
+root	ROOT	imposter
+punct	imposter	,
+appos	imposter	Frank
+punct	imposter	,
+nsubj	observe	I
+acl:relcl	imposter	observe
+cc	observe	and
+conj:and	observe	perceive
+punct	imposter	.

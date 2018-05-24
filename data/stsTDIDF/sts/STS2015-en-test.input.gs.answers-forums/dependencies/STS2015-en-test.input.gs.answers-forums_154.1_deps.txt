@@ -1,0 +1,16 @@
+mark	important	So
+nsubj	important	it
+cop	important	's
+root	ROOT	important
+mark	have	to
+xcomp	important	have
+det	understanding	a
+amod	understanding	basic
+dobj	have	understanding
+mark	get	before
+nsubj	get	you
+advmod	get	even
+advcl	have	get
+case	skis	on
+nmod:on	get	skis
+punct	important	.

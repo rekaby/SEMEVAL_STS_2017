@@ -1,0 +1,9 @@
+advmod	clean	How
+aux	clean	do
+nsubj	clean	I
+root	ROOT	clean
+det	brush	a
+amod	brush	Hammerite
+compound	brush	paint
+dobj	clean	brush
+punct	clean	?

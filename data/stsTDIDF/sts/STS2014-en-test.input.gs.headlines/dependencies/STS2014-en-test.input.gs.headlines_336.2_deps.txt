@@ -1,0 +1,8 @@
+compound	Index	Hushen
+nummod	Index	300
+nsubj	closes	Index
+root	ROOT	closes
+dobj	closes	lower
+punct	lower	--
+dep	lower	March
+nummod	March	12

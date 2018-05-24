@@ -1,0 +1,16 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	fall	to
+punct	fall	-RRB-
+nmod:to	cause	fall
+cc	fall	or
+conj:or	fall	subside
+case	place	to
+det	place	a
+amod	place	lower
+nmod:to	subside	place
+punct	place	,
+conj:or	place	level
+punct	place	,
+cc	place	or
+conj:or	place	value

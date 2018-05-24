@@ -1,0 +1,16 @@
+amod	retirees	French
+nsubj	increase	retirees
+aux	increase	will
+root	ROOT	increase
+case	fifth	from
+nummod	fifth	one
+nmod:from	increase	fifth
+case	third	to
+det	third	a
+nmod:to	fifth	third
+case	population	of
+det	population	the
+nmod:of	third	population
+case	2040	by
+nmod:by	increase	2040
+punct	increase	.

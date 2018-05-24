@@ -1,0 +1,7 @@
+loop	across	case
+way	loop	nmod:across
+loop	the	det
+way	half	det
+coaster	roller	compound
+coaster	A	det
+gone	coaster	nsubj

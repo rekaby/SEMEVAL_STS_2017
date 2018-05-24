@@ -1,0 +1,15 @@
+det	guy	The
+nsubj	cooking	guy
+case	shirt	with
+det	shirt	the
+amod	shirt	green
+nmod:with	guy	shirt
+aux	cooking	is
+root	ROOT	cooking
+case	family	for
+nmod:poss	family	his
+nmod:for	cooking	family
+case	campfire	at
+det	campfire	the
+nmod:at	cooking	campfire
+punct	cooking	.

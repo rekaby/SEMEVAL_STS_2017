@@ -1,0 +1,8 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	tourists	9
+amod	tourists	foreign
+dobj	kill	tourists
+punct	tourists	,
+compound	Pakistani	1
+appos	tourists	Pakistani

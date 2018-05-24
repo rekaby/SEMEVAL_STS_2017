@@ -1,0 +1,8 @@
+root	ROOT	Flooding
+case	evacuation	in
+compound	evacuation	Canada
+compound	evacuation	forces
+nmod:in	Flooding	evacuation
+case	city	of
+det	city	another
+nmod:of	evacuation	city

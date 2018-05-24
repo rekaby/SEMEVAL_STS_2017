@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	watching	dog
+aux	watching	is
+root	ROOT	watching
+det	counter	a
+compound	counter	store
+dobj	watching	counter
+punct	watching	.

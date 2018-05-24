@@ -1,0 +1,16 @@
+amod	people	Many
+nsubj	racing	people
+cop	racing	are
+case	racing	in
+det	racing	the
+compound	racing	bicycle
+root	ROOT	racing
+punct	racing	,
+case	man	including
+nummod	man	one
+nmod:including	racing	man
+case	bike	in
+det	bike	a
+amod	bike	three-wheeled
+nmod:in	man	bike
+punct	racing	.

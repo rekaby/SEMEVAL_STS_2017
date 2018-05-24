@@ -1,0 +1,6 @@
+det	tiger	A
+nsubj	walks	tiger
+root	ROOT	walks
+case	aimlessly	around
+nmod:around	walks	aimlessly
+punct	walks	.

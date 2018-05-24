@@ -1,0 +1,10 @@
+root	ROOT	confine
+conj:or	confine	confine
+case	if	in
+cc	in	or
+conj:or	in	as
+nmod:as	confine	if
+nmod:in	confine	if
+case	prison	in
+det	prison	a
+nmod:in	if	prison

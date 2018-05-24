@@ -1,0 +1,7 @@
+painting	.	punct
+painting	is	cop
+beard	with	case
+beard	a	det
+ROOT	painting	root
+painting	man	nsubj
+man	beard	nmod:with

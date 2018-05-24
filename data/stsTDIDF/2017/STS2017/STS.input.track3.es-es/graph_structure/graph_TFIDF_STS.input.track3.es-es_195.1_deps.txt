@@ -1,0 +1,7 @@
+prepares	train	dobj
+prepares	France	nsubj
+France	Air	compound
+prepares	trip	nmod:for
+trip	for	case
+ROOT	prepares	root
+France	Groupe	compound

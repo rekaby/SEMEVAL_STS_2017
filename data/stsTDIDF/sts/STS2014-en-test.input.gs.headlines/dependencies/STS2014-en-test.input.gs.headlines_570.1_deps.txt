@@ -1,0 +1,6 @@
+amod	African	South
+amod	Mandela	African
+compound	Mandela	icon
+compound	Mandela	Nelson
+nsubj	hospitalized	Mandela
+root	ROOT	hospitalized

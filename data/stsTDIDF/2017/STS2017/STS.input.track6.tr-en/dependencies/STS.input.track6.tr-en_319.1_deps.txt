@@ -1,0 +1,17 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+amod	shirt	black
+dobj	wearing	shirt
+mark	looking	with
+nsubj	looking	devil
+advcl	wearing	looking
+dobj	looking	eyes
+punct	man	,
+root	,	holding
+nummod	slices	two
+amod	slices	big
+dobj	holding	slices
+case	meat	of
+nmod:of	slices	meat
+punct	holding	.

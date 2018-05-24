@@ -1,0 +1,17 @@
+neg	Spanish	No
+punct	Mr	,
+neg	Mr	not
+dep	Spanish	Mr
+punct	Mr	,
+nsubj	Spanish	I
+cop	Spanish	am
+root	ROOT	Spanish
+cc	Spanish	but
+nsubj	lived	I
+aux	lived	have
+conj:but	Spanish	lived
+advmod	lived	here
+xcomp	lived	thinking
+nummod	years	two
+nmod:tmod	thinking	years
+punct	Spanish	.

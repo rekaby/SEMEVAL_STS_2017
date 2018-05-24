@@ -1,0 +1,10 @@
+root	ROOT	feel
+cc	feel	or
+conj:or	feel	have
+det	desire	a
+dobj	have	desire
+acl	desire	for
+punct	feel	;
+conj:or	feel	want
+advmod	want	strongly
+punct	feel	.

@@ -1,0 +1,8 @@
+sorting	fish	nmod:through
+sorting	.	punct
+fisherman	A	det
+sorting	is	aux
+sorting	fisherman	nsubj
+ROOT	sorting	root
+fish	through	case
+fish	caught	amod

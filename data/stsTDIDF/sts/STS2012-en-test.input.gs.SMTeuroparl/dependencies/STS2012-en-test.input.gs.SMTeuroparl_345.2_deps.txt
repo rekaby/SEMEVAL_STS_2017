@@ -1,0 +1,15 @@
+nsubj	preserve	We
+root	ROOT	preserve
+det	unanimity	the
+dobj	preserve	unanimity
+case	Advice	to
+det	Advice	the
+nmod:to	unanimity	Advice
+cc	unanimity	and
+advmod	inability	therefore
+det	inability	a
+amod	inability	latent
+conj:and	unanimity	inability
+mark	act	to
+acl	inability	act
+punct	preserve	.

@@ -1,0 +1,8 @@
+compound	B	bulb
+nsubj	effect	B
+aux	effect	does
+neg	effect	not
+root	ROOT	effect
+det	bulbs	the
+amod	bulbs	other
+dobj	effect	bulbs

@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	riding
+det	horse	a
+amod	horse	brown
+dobj	riding	horse
+punct	girl	.

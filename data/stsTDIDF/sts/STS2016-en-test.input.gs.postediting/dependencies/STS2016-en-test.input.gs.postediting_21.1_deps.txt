@@ -1,0 +1,17 @@
+nsubj	say	They
+root	ROOT	say
+advmod	much	so
+advmod	true	much
+case	it	about
+nmod:about	much	it
+punct	know	,
+nsubj	know	I
+aux	know	do
+parataxis	true	know
+punct	know	,
+amod	things	many
+nsubj	true	things
+cop	true	are
+neg	true	not
+xcomp	say	true
+punct	say	.

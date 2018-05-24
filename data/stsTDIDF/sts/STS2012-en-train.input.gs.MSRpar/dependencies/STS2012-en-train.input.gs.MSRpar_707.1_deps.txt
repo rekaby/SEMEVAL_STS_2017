@@ -1,0 +1,16 @@
+det	spokesman	A
+compound	spokesman	Merrill
+compound	spokesman	Lynch
+nsubj	said	spokesman
+root	ROOT	said
+punct	pleased	``
+nsubjpass	pleased	we
+auxpass	pleased	are
+ccomp	said	pleased
+case	decision	with
+det	judge	the
+nmod:poss	decision	judge
+case	judge	's
+nmod:with	pleased	decision
+punct	said	.
+punct	said	''

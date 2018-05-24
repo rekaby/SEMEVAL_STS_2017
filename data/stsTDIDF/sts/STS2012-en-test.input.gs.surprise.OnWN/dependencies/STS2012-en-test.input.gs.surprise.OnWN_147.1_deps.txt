@@ -1,0 +1,8 @@
+det	home	a
+root	ROOT	home
+dobj	cover	furnishing
+nsubj	cover	that
+cop	cover	is
+det	cover	a
+compound	cover	fabric
+acl:relcl	home	cover

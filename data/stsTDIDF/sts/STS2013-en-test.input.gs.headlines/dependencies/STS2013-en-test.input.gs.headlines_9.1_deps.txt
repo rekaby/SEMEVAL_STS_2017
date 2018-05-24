@@ -1,0 +1,8 @@
+nsubj	says	Syria
+root	ROOT	says
+compound	bomber	suicide
+nsubj	kills	bomber
+ccomp	says	kills
+dobj	kills	10
+case	Damascus	in
+nmod:in	kills	Damascus

@@ -1,0 +1,7 @@
+swimming	men	nsubj
+swimming	.	punct
+men	A	det
+swimming	time	nmod:for
+swimming	are	aux
+men	couple	compound
+ROOT	swimming	root

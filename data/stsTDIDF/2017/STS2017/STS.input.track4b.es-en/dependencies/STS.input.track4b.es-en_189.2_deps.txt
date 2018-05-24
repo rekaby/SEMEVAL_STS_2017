@@ -1,0 +1,10 @@
+nsubjpass	owned	Xerox
+aux	owned	could
+auxpass	owned	be
+root	ROOT	owned
+case	industry	by
+det	industry	the
+amod	industry	entire
+compound	industry	computer
+nmod:agent	owned	industry
+punct	owned	.

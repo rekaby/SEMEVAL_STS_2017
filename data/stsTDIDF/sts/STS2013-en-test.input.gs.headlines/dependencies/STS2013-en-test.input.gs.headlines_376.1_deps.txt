@@ -1,0 +1,6 @@
+nummod	dead	Five
+root	ROOT	dead
+case	blast	in
+compound	blast	Pakistan
+compound	blast	suicide
+nmod:in	dead	blast

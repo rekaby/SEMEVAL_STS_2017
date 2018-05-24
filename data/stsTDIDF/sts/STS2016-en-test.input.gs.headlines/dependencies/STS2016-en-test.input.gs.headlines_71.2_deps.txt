@@ -1,0 +1,9 @@
+nsubj	fired	Shots
+root	ROOT	fired
+case	residence	at
+amod	ambassador	German
+nmod:poss	residence	ambassador
+case	ambassador	's
+nmod:at	fired	residence
+case	Athens	in
+nmod:in	fired	Athens

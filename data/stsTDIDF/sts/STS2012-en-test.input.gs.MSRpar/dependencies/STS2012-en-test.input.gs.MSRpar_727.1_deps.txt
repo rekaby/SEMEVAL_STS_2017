@@ -1,0 +1,14 @@
+compound	shares	Oracle
+nsubj	higher	shares
+cop	higher	were
+advmod	higher	also
+root	ROOT	higher
+punct	higher	,
+advcl	higher	trading
+compound:prt	trading	up
+nummod	cents	12
+dobj	trading	cents
+case	$	at
+nmod:at	trading	$
+nummod	$	13.60
+punct	higher	.

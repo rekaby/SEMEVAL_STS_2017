@@ -1,0 +1,7 @@
+det	man	A
+nsubj	go	man
+aux	go	will
+root	ROOT	go
+case	Spahhhala	to
+nmod:to	go	Spahhhala
+punct	go	.

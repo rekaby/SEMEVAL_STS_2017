@@ -1,0 +1,9 @@
+compound	case	Mumbai
+compound	case	photojournalist
+compound	case	gangrape
+nsubj	cracked	case
+root	ROOT	cracked
+punct	accused	,
+nummod	accused	five
+dep	cracked	accused
+punct	accused	arrested

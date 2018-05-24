@@ -1,0 +1,6 @@
+det	monkey	The
+nsubj	scratched	monkey
+root	ROOT	scratched
+nmod:poss	tummy	his
+dobj	scratched	tummy
+punct	scratched	.

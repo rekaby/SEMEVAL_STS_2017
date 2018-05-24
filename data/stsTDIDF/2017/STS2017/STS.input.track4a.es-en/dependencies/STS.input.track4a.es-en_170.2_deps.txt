@@ -1,0 +1,17 @@
+det	photographer	The
+nsubj	taking	photographer
+aux	taking	is
+root	ROOT	taking
+det	picture	a
+dobj	taking	picture
+case	women	of
+nummod	women	four
+nmod:of	picture	women
+acl	women	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+case	faces	with
+amod	faces	blank
+nmod:with	looking	faces
+punct	taking	.

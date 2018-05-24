@@ -1,0 +1,7 @@
+nummod	children	Two
+root	ROOT	children
+acl	children	splashing
+case	water	in
+det	water	the
+nmod:in	splashing	water
+punct	children	.

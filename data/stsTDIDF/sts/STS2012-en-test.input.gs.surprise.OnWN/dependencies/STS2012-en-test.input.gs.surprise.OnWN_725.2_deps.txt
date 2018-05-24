@@ -1,0 +1,7 @@
+det	head	the
+root	ROOT	head
+case	government	of
+det	government	a
+compound	government	city
+nmod:of	head	government
+punct	head	.

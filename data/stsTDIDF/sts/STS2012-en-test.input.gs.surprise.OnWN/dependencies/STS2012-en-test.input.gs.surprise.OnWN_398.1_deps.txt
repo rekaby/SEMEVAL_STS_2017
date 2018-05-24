@@ -1,0 +1,4 @@
+root	ROOT	communicate
+case	hiss	with
+det	hiss	a
+nmod:with	communicate	hiss

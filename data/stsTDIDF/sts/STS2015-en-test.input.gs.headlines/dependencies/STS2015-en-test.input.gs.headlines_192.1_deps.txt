@@ -1,0 +1,7 @@
+amod	war	Syrian
+nsubj	seen	war
+root	ROOT	seen
+xcomp	seen	dragging
+case	years	on
+case	years	for
+nmod:for	dragging	years

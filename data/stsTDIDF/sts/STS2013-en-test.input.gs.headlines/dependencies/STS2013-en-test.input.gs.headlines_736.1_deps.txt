@@ -1,0 +1,9 @@
+punct	protest	`
+amod	protest	Betrayed
+punct	protest	'
+amod	protest	disabled
+compound	protest	workers
+root	ROOT	protest
+case	closures	against
+compound	closures	Remploy
+nmod:against	protest	closures

@@ -1,0 +1,5 @@
+preparing	women	nsubj
+kitchen	their	nmod:poss
+preparing	dinner	dobj
+dinner	kitchen	nmod:in
+preparing	are	aux

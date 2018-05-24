@@ -1,0 +1,11 @@
+compound	Cameron	David
+nsubj	puts	Cameron
+root	ROOT	puts
+compound	Lanka	Sri
+dobj	puts	Lanka
+case	notice	on
+nmod:on	puts	notice
+case	crime	over
+compound	crime	war
+nmod:over	notice	crime
+dobj	puts	allegations

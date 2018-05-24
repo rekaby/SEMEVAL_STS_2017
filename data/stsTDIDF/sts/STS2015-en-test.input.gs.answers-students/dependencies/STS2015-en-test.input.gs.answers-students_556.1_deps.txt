@@ -1,0 +1,11 @@
+advmod	connected	when
+det	switch	the
+nsubjpass	connected	switch
+auxpass	connected	is
+root	ROOT	connected
+case	bulb	between
+det	bulb	the
+nmod:between	connected	bulb
+cc	bulb	and
+det	battery	the
+conj:and	bulb	battery

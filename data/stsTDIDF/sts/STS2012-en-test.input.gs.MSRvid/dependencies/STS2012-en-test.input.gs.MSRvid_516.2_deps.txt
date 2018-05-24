@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	pouring	boy
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	something
+case	pitcher	from
+det	pitcher	a
+nmod:from	pouring	pitcher
+punct	pouring	.

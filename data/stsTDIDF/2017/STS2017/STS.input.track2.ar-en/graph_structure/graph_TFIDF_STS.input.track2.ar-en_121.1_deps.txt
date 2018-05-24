@@ -1,0 +1,5 @@
+beach	at	case
+shoe	his	nmod:poss
+man	tying	acl
+tying	shoe	dobj
+tying	beach	nmod:at

@@ -1,0 +1,13 @@
+nsubj	seems	Putin
+punct	Putin	,
+advmod	Putin	too
+punct	Putin	,
+advmod	seems	also
+root	ROOT	seems
+mark	suspect	to
+xcomp	seems	suspect
+nmod:poss	regime	his
+nmod:poss	impotence	regime
+case	regime	's
+dobj	suspect	impotence
+punct	seems	.

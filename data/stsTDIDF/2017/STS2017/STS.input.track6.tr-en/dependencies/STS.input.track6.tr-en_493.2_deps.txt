@@ -1,0 +1,9 @@
+expl	's	There
+root	ROOT	's
+det	man	a
+nsubj	's	man
+case	line	on
+det	line	the
+compound	line	edge
+nmod:on	's	line
+punct	's	.

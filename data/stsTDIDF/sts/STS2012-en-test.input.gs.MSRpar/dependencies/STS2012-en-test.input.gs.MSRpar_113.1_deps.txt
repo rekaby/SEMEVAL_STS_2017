@@ -1,0 +1,15 @@
+compound	Services	Nterprise
+compound	Services	Linux
+nsubjpass	expected	Services
+auxpass	expected	is
+root	ROOT	expected
+mark	available	to
+cop	available	be
+xcomp	expected	available
+case	end	before
+advmod	end	then
+nmod:before	available	end
+case	year	of
+det	year	this
+nmod:of	end	year
+punct	expected	.

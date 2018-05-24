@@ -1,0 +1,6 @@
+protester	.	punct
+protester	woman	compound
+airport	in	case
+protester	Blonde	compound
+ROOT	protester	root
+protester	airport	nmod:in_front_of

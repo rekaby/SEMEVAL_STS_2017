@@ -1,0 +1,9 @@
+amod	thrusting	rhythmical
+root	ROOT	thrusting
+case	legs	of
+det	legs	the
+nmod:of	thrusting	legs
+case	stroke	in
+det	stroke	a
+compound	stroke	swim
+nmod:in	legs	stroke

@@ -1,0 +1,5 @@
+det	state	a
+root	ROOT	state
+mark	encircled	of
+auxpass	encircled	being
+acl	state	encircled

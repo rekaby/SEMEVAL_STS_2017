@@ -1,0 +1,9 @@
+root	ROOT	Morsi
+mark	take	to
+acl	Morsi	take
+dobj	take	oath
+case	president	as
+amod	president	first
+compound	president	Egypt
+amod	president	civilian
+nmod:as	take	president

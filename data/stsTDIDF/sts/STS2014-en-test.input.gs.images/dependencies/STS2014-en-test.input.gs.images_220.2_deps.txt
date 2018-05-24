@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	mask	a
+compound	mask	dust
+dobj	wearing	mask
+acl	mask	riding
+det	bicycle	a
+nummod	bicycle	three
+amod	bicycle	wheeled
+dobj	riding	bicycle
+punct	man	.

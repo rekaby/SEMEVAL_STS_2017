@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	looks	woman
+root	ROOT	looks
+case	person	at
+det	person	another
+nmod:at	looks	person
+punct	looks	.

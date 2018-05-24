@@ -1,0 +1,6 @@
+containers	People	compound
+containers	.	punct
+containers	alcohol	nmod:on
+containers	holding	amod
+ROOT	containers	root
+alcohol	on	case

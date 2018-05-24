@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	jogs	dog
+root	ROOT	jogs
+case	grass	through
+det	grass	the
+nmod:through	jogs	grass
+punct	jogs	.

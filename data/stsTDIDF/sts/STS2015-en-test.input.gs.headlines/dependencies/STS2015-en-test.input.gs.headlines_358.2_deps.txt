@@ -1,0 +1,6 @@
+compound	base	Taliban
+compound	base	bombs
+compound	base	US
+root	ROOT	base
+case	Afghanistan	in
+nmod:in	base	Afghanistan

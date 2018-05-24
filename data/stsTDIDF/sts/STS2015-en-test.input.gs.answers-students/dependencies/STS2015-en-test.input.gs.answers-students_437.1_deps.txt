@@ -1,0 +1,10 @@
+compound	A	Bulb
+nsubj	completing	A
+aux	completing	will
+neg	longer	no
+advmod	completing	longer
+aux	completing	be
+root	ROOT	completing
+det	circuts	the
+dobj	completing	circuts
+punct	completing	.

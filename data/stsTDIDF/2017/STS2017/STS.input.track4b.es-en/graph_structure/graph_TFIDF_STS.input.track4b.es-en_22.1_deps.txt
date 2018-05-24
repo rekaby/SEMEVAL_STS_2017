@@ -1,0 +1,12 @@
+win	hardliners	nsubj
+spring	Arab	compound
+change	calculations	dobj
+change	yet	advmod
+hardliners	the	det
+win	change	parataxis
+win	;	punct
+calculations	their	nmod:poss
+win	Maybe	advmod
+win	out	compound:prt
+change	may	aux
+change	spring	nsubj

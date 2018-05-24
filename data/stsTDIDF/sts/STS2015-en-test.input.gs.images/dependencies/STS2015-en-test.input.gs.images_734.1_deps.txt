@@ -1,0 +1,13 @@
+nsubj	walking	Woman
+case	dress	in
+amod	dress	black
+nmod:in	Woman	dress
+case	accessories	with
+amod	accessories	red
+nmod:with	dress	accessories
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	street	the
+dobj	walking	street
+punct	walking	.

@@ -1,0 +1,10 @@
+nsubj	speak	We
+root	ROOT	speak
+case	voice	with
+det	voice	a
+amod	voice	single
+nmod:with	speak	voice
+case	WTO	within
+det	WTO	the
+nmod:within	voice	WTO
+punct	speak	.

@@ -1,0 +1,5 @@
+light	cigarette	nsubj
+ROOT	light	root
+cigarette	A	det
+light	is	cop
+light	.	punct

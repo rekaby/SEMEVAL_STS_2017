@@ -1,0 +1,10 @@
+nsubj	killed	Two
+root	ROOT	killed
+case	strike	in
+amod	strike	new
+amod	strike	Israeli
+nmod:in	killed	strike
+case	Gaza	on
+nmod:on	strike	Gaza
+punct	killed	:
+dep	killed	medics

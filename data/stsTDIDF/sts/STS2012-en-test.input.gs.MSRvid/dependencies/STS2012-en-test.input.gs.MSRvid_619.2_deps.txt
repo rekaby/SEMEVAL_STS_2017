@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	splashes	woman
+root	ROOT	splashes
+case	waves	around
+case	waves	in
+det	ocean	the
+nmod:poss	waves	ocean
+case	ocean	's
+nmod:in	splashes	waves
+punct	splashes	.

@@ -1,0 +1,9 @@
+det	man	A
+advmod	dressed	well
+amod	man	dressed
+root	ROOT	man
+acl	man	walking
+case	area	through
+det	area	a
+amod	area	rural
+nmod:through	walking	area

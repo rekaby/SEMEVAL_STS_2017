@@ -1,0 +1,9 @@
+nummod	guys	Three
+root	ROOT	guys
+acl	guys	playing
+det	game	a
+amod	game	pro
+dobj	playing	game
+case	basketball	of
+nmod:of	game	basketball
+punct	guys	.

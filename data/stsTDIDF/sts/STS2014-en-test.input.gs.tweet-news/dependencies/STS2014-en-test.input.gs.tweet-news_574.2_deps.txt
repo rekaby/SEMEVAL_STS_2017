@@ -1,0 +1,6 @@
+compound	attack	Acid
+root	ROOT	attack
+case	director	on
+compound	director	Russia
+amod	director	ballet
+nmod:on	attack	director

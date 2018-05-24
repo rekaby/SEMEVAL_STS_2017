@@ -1,0 +1,9 @@
+det	person	A
+nsubj	meat	person
+cop	meat	is
+amod	meat	frying
+root	ROOT	meat
+case	pan	in
+det	pan	a
+nmod:in	meat	pan
+punct	meat	.

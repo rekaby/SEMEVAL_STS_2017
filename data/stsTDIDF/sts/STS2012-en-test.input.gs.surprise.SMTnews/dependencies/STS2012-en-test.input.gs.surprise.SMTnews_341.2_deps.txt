@@ -1,0 +1,14 @@
+cc	trap	But
+det	view	the
+nsubj	trap	view
+compound	role	us
+det	role	the
+amod	role	international
+dobj	view	role
+case	dollar	of
+det	dollar	the
+nmod:of	role	dollar
+cop	trap	was
+det	trap	a
+root	ROOT	trap
+punct	trap	.

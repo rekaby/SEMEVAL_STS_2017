@@ -1,0 +1,13 @@
+aux	contact	Should
+nsubj	contact	I
+root	ROOT	contact
+det	student	a
+compound	student	PhD
+dobj	contact	student
+cc	student	or
+nmod:poss	supervisor	his
+conj:or	student	supervisor
+case	collaboration	for
+amod	collaboration	potential
+nmod:for	supervisor	collaboration
+punct	contact	?

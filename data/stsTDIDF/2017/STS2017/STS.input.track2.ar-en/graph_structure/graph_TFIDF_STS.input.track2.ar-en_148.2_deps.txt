@@ -1,0 +1,9 @@
+chairs	People	nsubj
+chairs	look	acl
+chairs	.	punct
+cliff	a	det
+chairs	folding	amod
+look	cliff	nmod:of
+chairs	are	cop
+cliff	of	case
+ROOT	chairs	root

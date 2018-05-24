@@ -1,0 +1,15 @@
+det	battery	The
+nsubjpass	contained	battery
+auxpass	contained	is
+root	ROOT	contained
+case	circuit	in
+det	circuit	a
+amod	circuit	closed
+nmod:in	contained	circuit
+cc	contained	and
+expl	is	there
+conj:and	contained	is
+nsubj	is	nothing
+case	pathway	in
+nmod:poss	pathway	its
+nmod:in	nothing	pathway

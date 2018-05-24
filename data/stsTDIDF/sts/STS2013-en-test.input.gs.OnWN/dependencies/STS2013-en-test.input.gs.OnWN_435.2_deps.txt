@@ -1,0 +1,11 @@
+det	effect	the
+amod	effect	perceptual
+root	ROOT	effect
+case	juxtaposition	of
+det	juxtaposition	the
+nmod:of	effect	juxtaposition
+case	colors	of
+advmod	different	very
+amod	colors	different
+nmod:of	juxtaposition	colors
+punct	effect	.

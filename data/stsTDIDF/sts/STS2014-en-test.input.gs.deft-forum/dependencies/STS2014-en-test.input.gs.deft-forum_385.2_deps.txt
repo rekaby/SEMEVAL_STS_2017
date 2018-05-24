@@ -1,0 +1,13 @@
+nmod:poss	friends	His
+punct	friends	``
+nsubj	say	friends
+punct	friends	''
+root	ROOT	say
+mark	confronted	that
+nsubjpass	confronted	he
+auxpass	confronted	was
+ccomp	say	confronted
+case	car	by
+nmod:poss	car	his
+nmod:agent	confronted	car
+punct	say	.

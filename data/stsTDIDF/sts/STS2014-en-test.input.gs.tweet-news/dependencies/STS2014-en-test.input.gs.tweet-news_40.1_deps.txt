@@ -1,0 +1,11 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+dep	NYTimes	Is
+nsubj	Is	Delhi
+amod	Delhi	So
+dep	So	Different
+case	Steubenville	From
+nmod:from	Different	Steubenville
+punct	Steubenville	,
+appos	Steubenville	USA
+punct	NYTimes	?

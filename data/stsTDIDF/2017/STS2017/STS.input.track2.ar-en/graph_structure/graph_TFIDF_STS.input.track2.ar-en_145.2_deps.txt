@@ -1,0 +1,5 @@
+throws	.	punct
+throws	ball	dobj
+ROOT	throws	root
+player	A	det
+throws	player	nsubj

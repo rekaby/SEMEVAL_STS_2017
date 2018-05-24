@@ -1,0 +1,15 @@
+nsubjpass	accepted	It
+auxpass	accepted	is
+root	ROOT	accepted
+mark	precondition	that
+nsubj	precondition	knowledge
+case	languages	of
+amod	languages	foreign
+nmod:of	knowledge	languages
+cop	precondition	is
+det	precondition	a
+amod	precondition	necessary
+ccomp	accepted	precondition
+case	mobility	to
+nmod:to	precondition	mobility
+punct	accepted	.

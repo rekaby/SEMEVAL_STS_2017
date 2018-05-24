@@ -1,0 +1,5 @@
+root	ROOT	Waiting
+case	president	for
+det	president	the
+amod	president	next
+nmod:for	Waiting	president

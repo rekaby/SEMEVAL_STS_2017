@@ -1,0 +1,10 @@
+det	court	the
+nsubj	accused	court
+root	ROOT	accused
+compound	hussein	raghad
+compound	hussein	saddam
+dobj	accused	hussein
+case	terrorism	of
+compound	terrorism	funding
+nmod:of	hussein	terrorism
+punct	accused	.

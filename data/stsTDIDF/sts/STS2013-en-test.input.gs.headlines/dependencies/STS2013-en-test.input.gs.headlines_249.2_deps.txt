@@ -1,0 +1,6 @@
+nsubj	hit	Barclays
+root	ROOT	hit
+case	probe	by
+amod	probe	fresh
+compound	probe	US
+nmod:by	hit	probe

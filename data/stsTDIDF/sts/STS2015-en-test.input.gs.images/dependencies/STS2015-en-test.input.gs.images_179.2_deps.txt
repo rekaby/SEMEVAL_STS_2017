@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	laying
+case	snow	in
+det	snow	the
+nmod:in	laying	snow
+punct	dog	.

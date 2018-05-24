@@ -1,0 +1,19 @@
+root	ROOT	Design
+punct	Design	,
+conj	Design	design
+punct	Design	,
+appos	Design	design
+punct	Design	.-6) root(ROOT-0, ?-1) nsubj(special-9, We?re
+case	end	on
+det	end	the
+compound	end	tail
+nmod:on	We?re	end
+case	technology	of
+nmod:of	end	technology
+cop	special	being
+root	ROOT	special
+punct	special	,
+punct	special	?-11) root(ROOT-0, says
+compound	Maeda	John
+nsubj	says	Maeda
+punct	says	.

@@ -1,0 +1,17 @@
+nmod:poss	shares	Its
+nsubj	fell	shares
+root	ROOT	fell
+nummod	cents	71
+dobj	fell	cents
+punct	cents	,
+cc	cents	or
+nummod	percent	3.5
+conj:or	cents	percent
+punct	cents	,
+case	trading	in
+amod	trading	after-hours
+nmod:in	cents	trading
+case	$	to
+nmod:to	trading	$
+nummod	$	19.55
+punct	fell	.

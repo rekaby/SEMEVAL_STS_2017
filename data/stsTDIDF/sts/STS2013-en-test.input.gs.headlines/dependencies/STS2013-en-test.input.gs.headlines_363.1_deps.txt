@@ -1,0 +1,8 @@
+compound	Kyi	Aung
+compound	Kyi	San
+compound	Kyi	Suu
+root	ROOT	Kyi
+mark	address	to
+acl	Kyi	address
+amod	MPs	British
+dobj	address	MPs

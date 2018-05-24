@@ -1,0 +1,7 @@
+root	ROOT	attract
+punct	attract	;
+dep	attract	cause
+mark	enamored	to
+cop	enamored	be
+xcomp	cause	enamored
+punct	attract	.

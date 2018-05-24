@@ -1,0 +1,6 @@
+compound	Forces	Flooding
+root	ROOT	Forces
+nummod	Homes	75,000
+case	Canada	From
+nmod:from	75,000	Canada
+dep	Forces	Homes

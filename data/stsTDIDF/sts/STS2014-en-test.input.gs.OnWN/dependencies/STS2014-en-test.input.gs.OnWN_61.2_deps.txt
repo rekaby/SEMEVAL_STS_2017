@@ -1,0 +1,21 @@
+det	act	the
+root	ROOT	act
+mark	losing	of
+acl	act	losing
+cc	losing	or
+conj:or	losing	surrendering
+dobj	surrendering	something
+case	penalty	as
+det	penalty	a
+nmod:as	losing	penalty
+case	mistake	for
+det	mistake	a
+nmod:for	losing	mistake
+cc	mistake	or
+conj:or	mistake	fault
+cc	mistake	or
+conj:or	mistake	failure
+mark	perform	to
+acl	failure	perform
+advmod	perform	etc.
+punct	act	.-21) root(ROOT-0, .

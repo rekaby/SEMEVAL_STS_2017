@@ -1,0 +1,11 @@
+compound	agencies	U.N.
+root	ROOT	agencies
+punct	agencies	:
+dep	agencies	Stop
+det	suffering	the
+dobj	Stop	suffering
+case	Syria	in
+nmod:in	suffering	Syria
+nmod:tmod	Stop	Again
+punct	agencies	.-10) root(ROOT-0, Powerless
+punct	Powerless	.

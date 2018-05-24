@@ -1,0 +1,9 @@
+mark	connected	because
+amod	1	terminal
+nsubjpass	connected	1
+auxpass	connected	is
+advmod	connected	directly
+root	ROOT	connected
+case	terminal	to
+nmod:to	connected	terminal
+dobj	connected	4

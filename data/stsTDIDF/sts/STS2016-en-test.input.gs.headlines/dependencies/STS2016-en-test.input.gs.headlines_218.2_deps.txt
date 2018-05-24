@@ -1,0 +1,9 @@
+nsubj	says	Observatory
+root	ROOT	says
+amod	strikes	Russian
+compound	strikes	air
+nsubj	kill	strikes
+ccomp	says	kill
+dobj	kill	45
+case	Syria	in
+nmod:in	kill	Syria

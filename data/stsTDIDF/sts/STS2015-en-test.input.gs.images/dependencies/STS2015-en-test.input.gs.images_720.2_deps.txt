@@ -1,0 +1,10 @@
+nummod	children	Two
+nsubj	walking	children
+root	ROOT	walking
+compound:prt	walking	down
+det	path	a
+dobj	walking	path
+case	woods	in
+det	woods	the
+nmod:in	path	woods
+punct	walking	.

@@ -1,0 +1,7 @@
+det	person	A
+nsubj	driving	person
+aux	driving	is
+root	ROOT	driving
+det	car	a
+dobj	driving	car
+punct	driving	.

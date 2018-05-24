@@ -1,0 +1,5 @@
+walking	ocean	nmod:into
+ocean	into	case
+surfer	walking	acl
+surfer	A	det
+ROOT	surfer	root

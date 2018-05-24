@@ -1,0 +1,7 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+det	motorcyle	a
+dobj	riding	motorcyle
+punct	riding	.

@@ -1,0 +1,15 @@
+det	Europeans	The
+amod	Europeans	western
+nsubj	heed	Europeans
+punct	Europeans	,
+nsubj	forgotten	who
+aux	forgotten	have
+acl:relcl	Europeans	forgotten
+det	history	this
+dobj	forgotten	history
+punct	Europeans	,
+aux	heed	should
+root	ROOT	heed
+nmod:poss	warnings	our
+dobj	heed	warnings
+punct	heed	.

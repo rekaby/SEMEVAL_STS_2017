@@ -1,0 +1,15 @@
+expl	's	There
+root	ROOT	's
+det	woman	a
+nsubj	's	woman
+case	camera	with
+det	camera	a
+nmod:with	's	camera
+case	women	among
+amod	women	several
+amod	women	other
+nmod:among	camera	women
+case	area	in
+det	area	the
+nmod:in	women	area
+punct	's	.

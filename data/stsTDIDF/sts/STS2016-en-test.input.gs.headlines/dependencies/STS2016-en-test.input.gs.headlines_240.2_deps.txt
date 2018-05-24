@@ -1,0 +1,8 @@
+nsubj	tightened	Security
+root	ROOT	tightened
+case	churches	at
+compound	churches	New
+compound	churches	Delhi
+nmod:at	tightened	churches
+case	attacks	after
+nmod:after	tightened	attacks

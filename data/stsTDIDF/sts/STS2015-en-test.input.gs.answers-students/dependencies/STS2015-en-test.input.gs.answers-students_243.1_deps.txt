@@ -1,0 +1,13 @@
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+acl	gap	between
+dobj	between	teh
+amod	teh	positive
+dep	positive	battery
+dep	battery	terminal
+cc	terminal	and
+conj:and	terminal	terminal
+dep	terminal	4
+punct	is	.

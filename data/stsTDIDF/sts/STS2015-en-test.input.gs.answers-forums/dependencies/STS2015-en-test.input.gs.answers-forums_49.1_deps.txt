@@ -1,0 +1,14 @@
+det	Checklist	The
+compound	Checklist	Hare
+compound	Checklist	Psychopathy
+nsubjpass	used	Checklist
+auxpass	used	is
+advmod	used	often
+root	ROOT	used
+mark	assess	to
+xcomp	used	assess
+dobj	assess	psychopathy
+case	settings	in
+amod	settings	clinical
+nmod:in	assess	settings
+punct	used	.

@@ -1,0 +1,8 @@
+giving	ride	dobj
+ride	girl	nsubj
+giving	boy	nsubj
+shoulders	on	case
+ride	shoulders	nmod:on
+girl	asian	amod
+boy	asian	amod
+shoulders	his	nmod:poss

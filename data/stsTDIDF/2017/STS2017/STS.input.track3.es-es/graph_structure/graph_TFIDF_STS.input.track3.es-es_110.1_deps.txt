@@ -1,0 +1,5 @@
+cabin	a	det
+located	cabin	nmod:in
+cabin	control	compound
+men	located	amod
+cabin	in	case

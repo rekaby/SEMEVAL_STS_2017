@@ -1,0 +1,7 @@
+det	player	A
+compound	player	soccer
+nsubj	scores	player
+root	ROOT	scores
+det	goal	a
+dobj	scores	goal
+punct	scores	.

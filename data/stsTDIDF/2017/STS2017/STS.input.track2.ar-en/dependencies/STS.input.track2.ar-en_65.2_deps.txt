@@ -1,0 +1,13 @@
+amod	tourists	Wife
+amod	tourists	angry
+root	ROOT	tourists
+case	man	from
+det	man	the
+nmod:from	tourists	man
+nsubj	work	who
+aux	work	can
+neg	work	not
+acl:relcl	man	work
+nmod:poss	mind	his
+dobj	work	mind
+punct	tourists	.

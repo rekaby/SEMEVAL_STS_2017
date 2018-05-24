@@ -1,0 +1,5 @@
+nsubj	targets	Suicide
+compound	targets	bomber
+root	ROOT	targets
+amod	church	Nigerian
+dobj	targets	church

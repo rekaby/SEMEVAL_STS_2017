@@ -1,0 +1,7 @@
+det	puppy	A
+nsubj	pushing	puppy
+aux	pushing	is
+root	ROOT	pushing
+dobj	pushing	itself
+advmod	pushing	backwards
+punct	pushing	.

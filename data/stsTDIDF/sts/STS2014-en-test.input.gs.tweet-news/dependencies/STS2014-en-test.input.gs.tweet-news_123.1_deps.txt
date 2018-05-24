@@ -1,0 +1,14 @@
+root	ROOT	Wow
+punct	Wow	.-2) det(piece-5, A
+amod	piece	brief
+cc	brief	but
+conj:but	brief	eye-opening
+root	ROOT	piece
+case	the	in
+nmod:in	piece	the
+punct	piece	:
+det	Pedophile	A
+dep	piece	Pedophile
+case	Plain	in
+nmod:in	Pedophile	Plain
+dep	Pedophile	Sight

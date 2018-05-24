@@ -1,0 +1,12 @@
+mark	is	because
+expl	is	there
+root	ROOT	is
+det	difference	a
+nsubj	is	difference
+case	states	in
+amod	states	electrial
+nmod:in	difference	states
+case	terminals	between
+det	terminals	the
+nummod	terminals	two
+nmod:between	difference	terminals

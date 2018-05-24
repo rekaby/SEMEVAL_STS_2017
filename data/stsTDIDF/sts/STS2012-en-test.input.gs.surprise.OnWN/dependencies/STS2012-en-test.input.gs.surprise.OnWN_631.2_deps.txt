@@ -1,0 +1,11 @@
+compound	food	supply
+root	ROOT	food
+amod	food	ready
+mark	eat	to
+xcomp	ready	eat
+punct	food	;
+case	parties	for
+nmod:for	food	parties
+cc	parties	and
+conj:and	parties	banquets
+punct	food	.

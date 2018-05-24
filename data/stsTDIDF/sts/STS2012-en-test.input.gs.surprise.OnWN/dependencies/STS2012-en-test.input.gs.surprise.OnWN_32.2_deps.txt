@@ -1,0 +1,4 @@
+root	ROOT	make
+amod	marks	underscoring
+dobj	make	marks
+punct	make	.

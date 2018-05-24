@@ -1,0 +1,11 @@
+root	ROOT	4
+amod	4	dead
+case	standoff	after
+compound	standoff	police
+nmod:after	dead	standoff
+case	gunman	with
+nmod:with	standoff	gunman
+compound	home	barricaded
+case	US	in
+nmod:in	barricaded	US
+nummod	gunman	home

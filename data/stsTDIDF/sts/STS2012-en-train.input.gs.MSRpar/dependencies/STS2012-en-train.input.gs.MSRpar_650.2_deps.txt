@@ -1,0 +1,12 @@
+nsubjpass	held	Tatar
+aux	held	was
+auxpass	held	being
+root	ROOT	held
+case	bail	without
+nmod:without	held	bail
+case	Prison	in
+compound	Prison	Armstrong
+compound	Prison	County
+nmod:in	bail	Prison
+nmod:tmod	held	today
+punct	held	.

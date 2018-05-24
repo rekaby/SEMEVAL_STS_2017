@@ -1,0 +1,17 @@
+mark	conatined	because
+compound	y	switch
+nsubjpass	conatined	y
+auxpass	conatined	is
+neg	conatined	not
+root	ROOT	conatined
+case	path	in
+det	path	the
+amod	path	closed
+nmod:in	conatined	path
+case	bulb	of
+nmod:of	path	bulb
+dep	bulb	a
+cc	a	and
+det	battery	the
+conj:and	a	battery
+punct	conatined	.

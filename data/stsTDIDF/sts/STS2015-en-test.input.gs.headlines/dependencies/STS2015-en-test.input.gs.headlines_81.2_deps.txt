@@ -1,0 +1,8 @@
+compound	court	Egypt
+nsubj	releases	court
+advmod	releases	temporarily
+root	ROOT	releases
+dobj	releases	Mubarak
+case	gains	over
+amod	gains	illicit
+nmod:over	releases	gains

@@ -1,0 +1,11 @@
+mark	connected	Because
+nsubjpass	connected	switch
+dep	switch	Y
+cc	Y	and
+conj:and	Y	Z
+auxpass	connected	are
+advmod	connected	also
+root	ROOT	connected
+case	A.	to
+compound	A.	bulb
+nmod:to	connected	A.

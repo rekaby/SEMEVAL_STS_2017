@@ -1,0 +1,10 @@
+punct	cause	-LRB-
+dep	come	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	come
+mark	rest	to
+xcomp	come	rest
+case	surface	on
+det	surface	a
+nmod:on	rest	surface

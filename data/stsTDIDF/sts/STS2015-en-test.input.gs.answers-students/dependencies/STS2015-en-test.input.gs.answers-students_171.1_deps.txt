@@ -1,0 +1,11 @@
+compound	c	bulb
+nsubj	path	c
+cc	c	and
+compound	z	switch
+conj:and	c	z
+cop	path	are
+case	path	in
+det	path	the
+amod	path	same
+amod	path	closed
+root	ROOT	path

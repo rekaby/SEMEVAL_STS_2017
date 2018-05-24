@@ -1,0 +1,8 @@
+fence	above	case
+fence	.	punct
+person	horse	conj:and
+ROOT	fence	root
+fence	person	nsubj
+fence	a	det
+person	and	cc
+fence	are	cop

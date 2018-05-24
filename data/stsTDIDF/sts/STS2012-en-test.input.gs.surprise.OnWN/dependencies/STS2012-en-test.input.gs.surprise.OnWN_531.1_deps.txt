@@ -1,0 +1,4 @@
+root	ROOT	actors
+case	play	in
+det	play	a
+nmod:in	actors	play

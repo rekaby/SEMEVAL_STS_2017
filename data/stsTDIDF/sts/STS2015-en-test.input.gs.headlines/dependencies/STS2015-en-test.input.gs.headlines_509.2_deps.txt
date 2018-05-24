@@ -1,0 +1,6 @@
+nmod:poss	marriage	Putin
+case	Putin	's
+root	ROOT	marriage
+case	end	at
+det	end	an
+nmod:at	marriage	end

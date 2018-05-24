@@ -1,0 +1,15 @@
+amod	businesses	Other
+nsubj	volunteering	businesses
+aux	volunteering	are
+root	ROOT	volunteering
+mark	put	to
+xcomp	volunteering	put
+det	alerts	the
+dobj	put	alerts
+case	signs	on
+nmod:poss	signs	their
+amod	signs	electronic
+nmod:on	alerts	signs
+cc	signs	and
+conj:and	signs	billboards
+punct	volunteering	.

@@ -1,0 +1,6 @@
+root	ROOT	showing
+det	humor	a
+amod	humor	brooding
+amod	humor	ill
+dobj	showing	humor
+punct	showing	;

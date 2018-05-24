@@ -1,0 +1,7 @@
+nsubj	cracking	Someone
+aux	cracking	is
+root	ROOT	cracking
+det	egg	an
+nsubj	open	egg
+xcomp	cracking	open
+punct	cracking	.

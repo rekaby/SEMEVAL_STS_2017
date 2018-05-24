@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	trying	dog
+aux	trying	is
+root	ROOT	trying
+mark	get	to
+xcomp	trying	get
+case	door	through
+nmod:poss	door	his
+compound	door	dog
+nmod:through	get	door
+punct	trying	.

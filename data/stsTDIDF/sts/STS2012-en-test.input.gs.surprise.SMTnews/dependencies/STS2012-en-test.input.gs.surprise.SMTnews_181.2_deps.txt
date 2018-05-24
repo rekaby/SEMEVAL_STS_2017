@@ -1,0 +1,12 @@
+det	originator	Every
+nsubj	had	originator
+root	ROOT	had
+dobj	had	theories
+cc	theories	and
+conj:and	theories	explanations
+advmod	different	significantly
+amod	theories	different
+case	situation	on
+det	situation	the
+nmod:on	different	situation
+punct	had	.

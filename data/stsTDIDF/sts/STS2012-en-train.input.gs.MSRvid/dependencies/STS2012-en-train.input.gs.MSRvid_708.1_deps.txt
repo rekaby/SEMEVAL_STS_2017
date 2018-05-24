@@ -1,0 +1,8 @@
+det	tiger	A
+nsubj	playing	tiger
+aux	playing	is
+root	ROOT	playing
+case	trainer	with
+nmod:poss	trainer	his
+nmod:with	playing	trainer
+punct	playing	.

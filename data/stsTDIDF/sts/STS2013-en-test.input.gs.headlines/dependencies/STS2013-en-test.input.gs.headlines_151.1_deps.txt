@@ -1,0 +1,9 @@
+compound	soldier	US
+nsubj	kills	soldier
+root	ROOT	kills
+compound:prt	kills	up
+case	civilians	to
+nummod	civilians	16
+nmod:to	kills	civilians
+case	Afghanistan	in
+nmod:in	civilians	Afghanistan

@@ -1,0 +1,9 @@
+root	ROOT	observe
+cc	observe	or
+conj:or	observe	plot
+det	path	the
+amod	path	moving
+dobj	observe	path
+case	something	of
+nmod:of	path	something
+punct	observe	.

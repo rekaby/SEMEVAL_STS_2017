@@ -1,0 +1,17 @@
+advmod	things	Only
+amod	things	great
+nsubj	happen	things
+aux	happen	can
+root	ROOT	happen
+case	monger	at
+det	monger	the
+compound	monger	cheese
+nmod:at	happen	monger
+punct	happen	:
+case	Case	In
+det	Case	the
+compound	Case	Dairy
+nmod:in	happen	Case
+punct	Case	,
+compound	Prose	Ripe
+appos	Case	Prose

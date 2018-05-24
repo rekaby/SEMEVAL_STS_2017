@@ -1,0 +1,12 @@
+case	$	At
+nmod:at	Donor	$
+nummod	$	1.1
+dep	$	Billion
+punct	Donor	,
+nsubj	Donor	Bloomberg
+cop	Donor	Is
+compound	Donor	Top
+compound	Donor	University
+root	ROOT	Donor
+case	U.S.	in
+nmod:in	Donor	U.S.

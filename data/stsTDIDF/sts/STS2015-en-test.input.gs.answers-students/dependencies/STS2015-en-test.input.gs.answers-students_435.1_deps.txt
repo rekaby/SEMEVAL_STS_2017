@@ -1,0 +1,8 @@
+mark	paths	Because
+det	components	neither
+nsubj	paths	components
+cop	paths	are
+case	paths	in
+amod	paths	closed
+root	ROOT	paths
+punct	paths	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	sleeping	man
+aux	sleeping	is
+root	ROOT	sleeping
+mark	watches	while
+det	woman	the
+nsubj	watches	woman
+advcl	sleeping	watches
+advmod	watches	silently
+punct	sleeping	.

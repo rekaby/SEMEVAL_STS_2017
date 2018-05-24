@@ -1,0 +1,15 @@
+nsubjpass	arrested	Klarman
+auxpass	arrested	was
+root	ROOT	arrested
+case	agents	by
+compound	agents	FBI
+nmod:agent	arrested	agents
+compound	morning	Monday
+nmod:tmod	arrested	morning
+case	home	at
+nmod:poss	home	his
+nmod:at	arrested	home
+case	York	in
+compound	York	New
+nmod:in	home	York
+punct	arrested	.

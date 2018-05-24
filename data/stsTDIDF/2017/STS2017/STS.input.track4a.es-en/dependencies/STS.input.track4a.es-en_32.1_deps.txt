@@ -1,0 +1,8 @@
+det	police	The
+nsubj	trying	police
+aux	trying	are
+root	ROOT	trying
+mark	help	to
+xcomp	trying	help
+dobj	help	people
+punct	trying	.

@@ -1,0 +1,5 @@
+sitting	couch	nmod:in
+couch	in	case
+sitting	woman	nsubj
+couch	a	det
+couch	white	amod

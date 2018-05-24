@@ -1,0 +1,9 @@
+det	terminal	the
+det	terminal	the
+compound	terminal	bulb
+root	ROOT	terminal
+acl	terminal	disconnected
+case	terminal	from
+det	terminal	the
+compound	terminal	battery
+nmod:from	disconnected	terminal

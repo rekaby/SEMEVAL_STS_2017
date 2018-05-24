@@ -1,0 +1,9 @@
+nsubj	killed	Three
+root	ROOT	killed
+punct	killed	,
+nummod	mishaps	21
+acl	21	injured
+case	road	in
+nummod	road	two
+nmod:in	injured	road
+dobj	killed	mishaps

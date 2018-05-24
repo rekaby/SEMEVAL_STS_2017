@@ -1,0 +1,17 @@
+nsubj	appointed	It
+advmod	appointed	then
+root	ROOT	appointed
+det	force	a
+compound	force	task
+dobj	appointed	force
+mark	formulate	to
+acl	force	formulate
+det	changes	the
+amod	changes	necessary
+dobj	formulate	changes
+case	tax	in
+nmod:in	changes	tax
+cc	tax	and
+compound	policies	spending
+conj:and	tax	policies
+punct	appointed	.

@@ -1,0 +1,11 @@
+root	ROOT	Stand
+case	arms	with
+nmod:with	Stand	arms
+cc	arms	or
+conj:or	arms	forelegs
+acl	forelegs	raised
+punct	Stand	,
+case	menacing	as
+mwe	as	of
+nmod:as_of	Stand	menacing
+punct	Stand	.

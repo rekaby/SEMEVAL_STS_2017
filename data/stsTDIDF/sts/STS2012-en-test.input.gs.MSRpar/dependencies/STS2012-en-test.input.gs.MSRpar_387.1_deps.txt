@@ -1,0 +1,15 @@
+det	trial	The
+nsubj	continue	trial
+punct	trial	,
+acl	trial	featuring
+nummod	witnesses	125
+dobj	featuring	witnesses
+punct	trial	,
+aux	continue	could
+root	ROOT	continue
+case	start	until
+det	start	the
+nmod:until	continue	start
+case	2004	of
+nmod:of	start	2004
+punct	continue	.

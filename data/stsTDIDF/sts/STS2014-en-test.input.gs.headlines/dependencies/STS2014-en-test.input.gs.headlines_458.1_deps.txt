@@ -1,0 +1,6 @@
+nsubj	holds	Maldives
+root	ROOT	holds
+amod	election	fresh
+dobj	holds	election
+case	president	for
+nmod:for	election	president

@@ -1,0 +1,8 @@
+det	chair	An
+amod	chair	empty
+compound	chair	office
+root	ROOT	chair
+case	cubicle	in
+det	cubicle	a
+nmod:in	chair	cubicle
+punct	chair	.

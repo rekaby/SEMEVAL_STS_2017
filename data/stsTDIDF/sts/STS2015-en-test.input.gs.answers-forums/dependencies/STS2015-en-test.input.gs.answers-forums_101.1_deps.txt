@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+neg	post-emergents	no
+nsubj	are	post-emergents
+nsubj	kill	that
+advmod	kill	specifically
+acl:relcl	post-emergents	kill
+dobj	kill	crabgrass
+mark	killing	without
+advcl	kill	killing
+compound	grass	lawn
+dobj	killing	grass
+punct	are	.

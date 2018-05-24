@@ -1,0 +1,7 @@
+det	horse	A
+amod	horse	black
+nsubj	running	horse
+aux	running	is
+root	ROOT	running
+advmod	running	around
+punct	running	.

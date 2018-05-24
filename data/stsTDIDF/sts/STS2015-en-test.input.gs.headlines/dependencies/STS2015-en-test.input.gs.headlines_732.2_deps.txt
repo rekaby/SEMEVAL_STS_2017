@@ -1,0 +1,9 @@
+compound	Yellen	Janet
+root	ROOT	Yellen
+punct	Yellen	:
+nummod	things	Five
+dep	Yellen	things
+nsubj	know	you
+aux	know	might
+neg	know	not
+acl:relcl	things	know

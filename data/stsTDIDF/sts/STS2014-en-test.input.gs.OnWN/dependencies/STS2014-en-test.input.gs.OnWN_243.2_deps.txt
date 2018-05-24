@@ -1,0 +1,13 @@
+det	operation	an
+root	ROOT	operation
+nsubj	segregates	that
+acl:relcl	operation	segregates
+dobj	segregates	items
+case	groups	into
+nmod:into	segregates	groups
+case	criterion	according
+mwe	according	to
+det	criterion	a
+amod	criterion	specified
+nmod:according_to	segregates	criterion
+punct	operation	.

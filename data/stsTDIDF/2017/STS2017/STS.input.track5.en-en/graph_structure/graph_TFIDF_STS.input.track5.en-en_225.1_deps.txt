@@ -1,0 +1,6 @@
+playing	guitar	dobj
+shirt	white	amod
+man	shirt	nmod:in
+guitar	a	det
+shirt	hat	conj:and
+hat	playing	acl

@@ -1,0 +1,10 @@
+advmod	repair	How
+aux	repair	can
+nsubj	repair	I
+root	ROOT	repair
+nmod:poss	slabs	my
+nummod	slabs	two
+amod	slabs	sloping
+amod	slabs	concrete
+dobj	repair	slabs
+punct	repair	?

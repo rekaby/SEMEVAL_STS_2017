@@ -1,0 +1,7 @@
+det	man	A
+nsubj	chopping	man
+aux	chopping	is
+root	ROOT	chopping
+compound	plant	egg
+dobj	chopping	plant
+punct	chopping	.

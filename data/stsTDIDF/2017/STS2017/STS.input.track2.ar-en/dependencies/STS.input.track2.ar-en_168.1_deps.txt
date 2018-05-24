@@ -1,0 +1,7 @@
+det	jeep	The
+nsubj	crashes	jeep
+root	ROOT	crashes
+case	rocks	onto
+det	rocks	some
+nmod:onto	crashes	rocks
+punct	crashes	.

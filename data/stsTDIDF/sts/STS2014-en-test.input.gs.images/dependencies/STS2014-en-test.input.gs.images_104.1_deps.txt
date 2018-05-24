@@ -1,0 +1,8 @@
+det	seagull	The
+nsubj	floating	seagull
+aux	floating	is
+root	ROOT	floating
+case	water	on
+det	water	the
+nmod:on	floating	water
+punct	floating	.

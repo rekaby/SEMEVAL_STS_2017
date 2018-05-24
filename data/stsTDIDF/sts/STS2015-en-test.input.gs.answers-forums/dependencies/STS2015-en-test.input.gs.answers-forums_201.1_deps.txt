@@ -1,0 +1,12 @@
+det	cause	The
+amod	cause	main
+nsubj	proteins	cause
+case	allergies	of
+det	allergies	the
+nmod:of	cause	allergies
+cop	proteins	is
+root	ROOT	proteins
+case	saliva	in
+det	saliva	the
+nmod:in	proteins	saliva
+punct	proteins	.

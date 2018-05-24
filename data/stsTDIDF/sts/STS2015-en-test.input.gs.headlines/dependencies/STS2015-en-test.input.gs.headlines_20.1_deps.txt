@@ -1,0 +1,9 @@
+amod	fire	Egyptian
+compound	fire	police
+nsubj	tear	fire
+root	ROOT	tear
+dobj	tear	gas
+case	protesters	at
+nmod:at	tear	protesters
+case	Cairo	in
+nmod:in	tear	Cairo

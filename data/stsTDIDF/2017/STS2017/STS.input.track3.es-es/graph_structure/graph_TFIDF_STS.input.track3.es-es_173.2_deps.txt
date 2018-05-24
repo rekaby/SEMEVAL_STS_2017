@@ -1,0 +1,12 @@
+dog	standing	acl
+swim	water	nmod:in
+boy	big	amod
+dock	on	case
+boy	dog	conj:and
+standing	dock	nmod:on
+swim	dog	nsubj
+boy	and	cc
+dog	another	det
+watching	swim	ccomp
+dock	watching	acl
+dock	a	det

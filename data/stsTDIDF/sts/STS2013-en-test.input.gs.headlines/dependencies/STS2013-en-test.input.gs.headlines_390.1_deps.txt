@@ -1,0 +1,9 @@
+compound	soldier	U.S.
+root	ROOT	soldier
+acl	soldier	killed
+case	incident	in
+amod	incident	shooting
+nmod:in	killed	incident
+case	Afghanistan	in
+compound	Afghanistan	S.
+nmod:in	incident	Afghanistan

@@ -1,0 +1,10 @@
+root	ROOT	decide
+det	amount	the
+nsubj	claim	amount
+mark	paid	to
+auxpass	paid	be
+acl	amount	paid
+case	insurance	on
+det	insurance	an
+nmod:on	paid	insurance
+ccomp	decide	claim

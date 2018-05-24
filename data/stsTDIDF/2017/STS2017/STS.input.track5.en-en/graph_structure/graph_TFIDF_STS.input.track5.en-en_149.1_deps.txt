@@ -1,0 +1,6 @@
+sitting	pipes	nmod:next_to
+pipes	next	case
+pipes	eating	acl
+sitting	workers	nsubj
+workers	Two	nummod
+eating	lunch	dobj

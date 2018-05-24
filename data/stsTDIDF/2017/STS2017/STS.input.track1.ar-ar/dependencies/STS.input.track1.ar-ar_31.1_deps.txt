@@ -1,0 +1,14 @@
+root	ROOT	Children
+acl	Children	playing
+case	balloons	with
+nmod:with	playing	balloons
+punct	Children	,
+acl	Children	sitting
+case	man	above
+nmod:above	sitting	man
+acl	man	dressed
+case	outfit	in
+det	outfit	a
+compound	outfit	banana
+nmod:in	dressed	outfit
+punct	Children	.

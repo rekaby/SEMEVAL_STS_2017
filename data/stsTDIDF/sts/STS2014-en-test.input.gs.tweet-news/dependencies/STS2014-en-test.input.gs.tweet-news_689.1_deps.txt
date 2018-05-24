@@ -1,0 +1,19 @@
+advmod	about	How
+advmod	path	about
+det	path	a
+root	ROOT	path
+case	#citizenship	to
+nmod:to	path	#citizenship
+case	those	for
+nmod:for	path	those
+advmod	caught	already
+acl	those	caught
+xcomp	caught	crossing
+det	#border	the
+dobj	crossing	#border
+punct	path	?-14) compound(Path-2, #Citizenship
+root	ROOT	Path
+case	Push	in
+nummod	Push	One
+amod	One	Fast
+nmod:in	Path	Push

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	walking	woman
+root	ROOT	walking
+compound:prt	walking	down
+det	side	the
+dobj	walking	side
+case	highway	of
+det	highway	a
+nmod:of	side	highway
+punct	walking	.

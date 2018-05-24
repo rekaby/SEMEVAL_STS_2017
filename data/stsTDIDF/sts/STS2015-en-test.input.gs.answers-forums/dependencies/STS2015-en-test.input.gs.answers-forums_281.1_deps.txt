@@ -1,0 +1,16 @@
+nsubjpass	invited	I
+auxpass	invited	was
+root	ROOT	invited
+nmod	invited	in
+mark	pitch	to
+dep	in	pitch
+compound	ideas	story
+dobj	pitch	ideas
+case	Moore	to
+compound	Moore	Ron
+nmod:to	pitch	Moore
+case	ST	at
+nmod:at	pitch	ST
+punct	pitch	:
+dep	pitch	TNG
+punct	invited	.

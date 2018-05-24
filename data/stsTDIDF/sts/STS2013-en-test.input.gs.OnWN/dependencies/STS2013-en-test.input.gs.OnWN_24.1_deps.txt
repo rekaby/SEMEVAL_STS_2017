@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+case	choosing	of
+nmod:of	act	choosing
+case	alternatives	among
+nmod:among	act	alternatives

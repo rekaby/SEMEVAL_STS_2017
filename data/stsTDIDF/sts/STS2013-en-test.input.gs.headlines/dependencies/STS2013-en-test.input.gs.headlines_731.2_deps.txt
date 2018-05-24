@@ -1,0 +1,6 @@
+amod	set	Funeral
+root	ROOT	set
+case	victim	for
+compound	victim	Ohio
+compound	victim	shooting
+nmod:for	set	victim

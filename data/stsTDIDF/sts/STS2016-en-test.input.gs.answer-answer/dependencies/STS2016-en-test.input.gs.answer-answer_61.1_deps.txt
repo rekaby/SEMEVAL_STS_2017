@@ -1,0 +1,10 @@
+nsubj	depends	It
+advmod	much	very
+advmod	depends	much
+root	ROOT	depends
+case	grant	on
+det	grant	the
+nmod:on	depends	grant
+case	question	in
+nmod:in	depends	question
+punct	depends	.

@@ -1,0 +1,8 @@
+det	person	A
+nsubj	dices	person
+root	ROOT	dices
+compound:prt	dices	up
+det	pepper	an
+amod	pepper	orange
+dobj	dices	pepper
+punct	dices	.

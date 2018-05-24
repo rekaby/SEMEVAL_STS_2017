@@ -1,0 +1,7 @@
+det	entertainer	an
+root	ROOT	entertainer
+nsubj	attracts	who
+acl:relcl	entertainer	attracts
+amod	audiences	large
+dobj	attracts	audiences
+punct	entertainer	.

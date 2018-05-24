@@ -1,0 +1,9 @@
+det	pants	A
+compound	pants	dog
+root	ROOT	pants
+mark	standing	while
+acl	pants	standing
+case	woods	in
+det	woods	the
+nmod:in	standing	woods
+punct	pants	.

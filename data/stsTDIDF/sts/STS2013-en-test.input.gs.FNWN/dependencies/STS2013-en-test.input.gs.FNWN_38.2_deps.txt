@@ -1,0 +1,8 @@
+compound	authority	exercise
+root	ROOT	authority
+advmod	authority	over
+punct	authority	;
+case	nations	as
+mwe	as	of
+nmod:as_of	authority	nations
+punct	authority	;

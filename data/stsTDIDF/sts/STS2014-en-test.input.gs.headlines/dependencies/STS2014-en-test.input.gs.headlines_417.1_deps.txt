@@ -1,0 +1,5 @@
+nsubj	begins	Francis
+root	ROOT	begins
+dobj	begins	papacy
+case	prayer	with
+nmod:with	papacy	prayer

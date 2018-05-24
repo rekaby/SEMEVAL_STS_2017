@@ -1,0 +1,11 @@
+compound	OFF	LAY
+nsubj	put	OFF
+punct	put	--
+root	ROOT	put
+det	end	an
+dobj	put	end
+case	state	to
+det	state	a
+nmod:to	put	state
+cc	state	or
+conj:or	state	activity

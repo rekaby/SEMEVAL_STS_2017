@@ -1,0 +1,10 @@
+punct	attack	`
+nsubj	attack	Iran
+aux	attack	will
+root	ROOT	attack
+compound	Aviv	Tel
+dobj	attack	Aviv
+mark	strikes	if
+compound	strikes	Israel
+advcl:'	attack	strikes
+case	strikes	'

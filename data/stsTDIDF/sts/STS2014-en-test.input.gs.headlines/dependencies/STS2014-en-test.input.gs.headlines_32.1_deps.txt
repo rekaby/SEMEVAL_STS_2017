@@ -1,0 +1,9 @@
+compound	Smith	Matt
+root	ROOT	Smith
+mark	leave	to
+acl	Smith	leave
+dobj	leave	Doctor
+dep	Doctor	Who
+case	years	after
+nummod	years	4
+nmod:after	Who	years

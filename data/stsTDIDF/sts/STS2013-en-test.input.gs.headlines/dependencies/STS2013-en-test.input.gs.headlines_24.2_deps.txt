@@ -1,0 +1,8 @@
+compound	check	Fact
+root	ROOT	check
+punct	check	:
+nmod:poss	Court	Obama
+case	Obama	's
+compound	Court	Supreme
+nsubj	remarks	Court
+dep	check	remarks

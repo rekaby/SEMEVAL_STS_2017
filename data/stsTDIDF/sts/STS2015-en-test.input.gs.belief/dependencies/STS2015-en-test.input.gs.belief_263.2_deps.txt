@@ -1,0 +1,13 @@
+nsubj	suggest	i
+aux	suggest	would
+root	ROOT	suggest
+mark	cared	that
+det	more	a
+amod	more	few
+nsubj	cared	more
+case	nobody	than
+punct	nobody	``
+nmod:than	more	nobody
+punct	nobody	''
+ccomp	suggest	cared
+punct	suggest	.

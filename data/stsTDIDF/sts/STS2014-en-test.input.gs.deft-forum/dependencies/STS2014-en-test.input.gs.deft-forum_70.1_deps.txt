@@ -1,0 +1,12 @@
+punct	becomes	``
+dep	becomes	Bright
+cc	Bright	but
+conj:but	Bright	scatterbrained
+punct	becomes	''
+root	ROOT	becomes
+punct	treat	``
+xcomp	becomes	treat
+case	drugs	with
+nmod:with	treat	drugs
+punct	drugs	''
+punct	becomes	.

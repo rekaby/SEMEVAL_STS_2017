@@ -1,0 +1,8 @@
+amod	President	Central
+amod	President	African
+compound	President	Republic
+root	ROOT	President
+punct	President	,
+nsubj	stepping	PM
+acl:relcl	President	stepping
+compound:prt	stepping	down

@@ -1,0 +1,8 @@
+nsubj	warns	Clinton
+root	ROOT	warns
+compound	violence	Kenya
+case	cost	of
+nmod:of	Kenya	cost
+case	election	of
+nmod:of	cost	election
+dobj	warns	violence

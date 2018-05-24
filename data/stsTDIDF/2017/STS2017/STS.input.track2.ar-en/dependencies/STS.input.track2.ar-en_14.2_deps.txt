@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+nummod	men	three
+nsubj	are	men
+punct	men	,
+appos	men	two
+case	them	of
+nmod:of	two	them
+acl	them	wearing
+compound	Thertheran	Qmichin
+compound	Thertheran	Ohmaren
+dobj	wearing	Thertheran
+advmod	are	together

@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	little
+nsubj	standing	boy
+aux	standing	is
+root	ROOT	standing
+case	party	in
+mwe	in	front
+mwe	in	of
+det	party	a
+compound	party	wedding
+nmod:in_front_of	standing	party
+dep	party	laughing
+punct	standing	.

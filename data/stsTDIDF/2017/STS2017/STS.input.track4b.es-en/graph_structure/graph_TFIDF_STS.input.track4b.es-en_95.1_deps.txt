@@ -1,0 +1,9 @@
+agenda	to	case
+make	agenda	nmod:to
+make	often	advmod
+make	Norway	nsubj
+make	seem	conj:and
+agenda	news	compound
+agenda	global	amod
+agenda	on	case
+make	-	punct

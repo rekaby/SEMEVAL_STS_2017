@@ -1,0 +1,5 @@
+compound	appeals	Turkey
+compound	appeals	president
+root	ROOT	appeals
+case	calm	for
+nmod:for	appeals	calm

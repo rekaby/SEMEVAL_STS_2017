@@ -1,0 +1,10 @@
+offers	center	nsubj
+center	market	compound
+types	fruit	nmod:of
+fruit	of	case
+offers	types	conj:and
+offers	and	cc
+center	Fruit	compound
+offers	artichokes	dobj
+types	many	amod
+types	different	amod

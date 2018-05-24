@@ -1,0 +1,16 @@
+advmod	Àfrica	Where
+case	world	in
+det	world	the
+nmod:in	Àfrica	world
+cop	Àfrica	is
+root	ROOT	Àfrica
+punct	Àfrica	?-7) nsubj(Questions-10, Selection
+case	Boeing	of
+det	Boeing	the
+nmod:'s	Selection	Boeing
+nummod	Boeing	787
+case	Boeing	's
+compound	Maker	Battery
+nsubj	Raises	Maker
+acl:relcl	Boeing	Raises
+root	ROOT	Questions

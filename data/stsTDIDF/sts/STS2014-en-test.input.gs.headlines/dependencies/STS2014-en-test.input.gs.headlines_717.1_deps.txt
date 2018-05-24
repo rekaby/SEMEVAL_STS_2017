@@ -1,0 +1,6 @@
+nsubj	agrees	Israel
+root	ROOT	agrees
+mark	release	to
+xcomp	agrees	release
+amod	prisoners	Palestinian
+dobj	release	prisoners

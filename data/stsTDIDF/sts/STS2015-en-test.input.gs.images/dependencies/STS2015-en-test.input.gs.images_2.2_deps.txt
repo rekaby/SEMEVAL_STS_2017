@@ -1,0 +1,7 @@
+det	boat	a
+nsubj	floats	boat
+root	ROOT	floats
+case	water	in
+det	water	the
+nmod:in	floats	water
+punct	floats	.

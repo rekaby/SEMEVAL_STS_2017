@@ -1,0 +1,8 @@
+root	ROOT	Saudi-born
+dep	Saudi-born	Nigerian
+acl	Nigerian	charged
+case	terrorism	with
+nmod:with	charged	terrorism
+case	York	in
+compound	York	New
+nmod:in	terrorism	York

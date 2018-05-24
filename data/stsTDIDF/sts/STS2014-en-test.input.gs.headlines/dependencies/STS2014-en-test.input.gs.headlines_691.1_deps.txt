@@ -1,0 +1,9 @@
+nsubj	killed	Four
+root	ROOT	killed
+punct	scores	,
+dobj	killed	scores
+acl	scores	wounded
+case	clashes	in
+nmod:in	wounded	clashes
+case	Egypt	across
+nmod:across	clashes	Egypt

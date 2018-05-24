@@ -1,0 +1,12 @@
+root	ROOT	sadness
+punct	sadness	.
+punct	sadness	''-3) punct(stuck-3, :
+nsubj	stuck	Dolphin
+root	ROOT	stuck
+case	canal	in
+amod	canal	polluted
+compound	canal	NYC
+nmod:in	stuck	canal
+xcomp	stuck	dies
+punct	stuck	.
+punct	stuck	''

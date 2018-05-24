@@ -1,0 +1,6 @@
+root	ROOT	shoot
+compound:prt	shoot	down
+punct	shoot	,
+case	birds	of
+nmod:of	shoot	birds
+punct	shoot	.

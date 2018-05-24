@@ -1,0 +1,10 @@
+det	bus	A
+amod	bus	red
+cc	red	and
+conj:and	red	white
+amod	bus	double
+compound	bus	decker
+nsubjpass	parked	bus
+auxpass	parked	is
+root	ROOT	parked
+punct	parked	.

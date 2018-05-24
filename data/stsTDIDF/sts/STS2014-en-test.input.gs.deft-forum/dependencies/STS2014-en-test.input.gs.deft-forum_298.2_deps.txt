@@ -1,0 +1,8 @@
+nsubj	response	What
+aux	response	will
+cop	response	be
+det	response	the
+root	ROOT	response
+case	California	in
+nmod:in	response	California
+punct	response	?

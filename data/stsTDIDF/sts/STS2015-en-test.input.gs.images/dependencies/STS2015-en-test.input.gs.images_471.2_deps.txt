@@ -1,0 +1,6 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	running
+case	dirt	in
+det	dirt	the
+nmod:in	running	dirt

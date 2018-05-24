@@ -1,0 +1,6 @@
+root	ROOT	burst
+case	flames	into
+nmod:into	burst	flames
+punct	telic	-LRB-
+appos	flames	telic
+punct	telic	-RRB-

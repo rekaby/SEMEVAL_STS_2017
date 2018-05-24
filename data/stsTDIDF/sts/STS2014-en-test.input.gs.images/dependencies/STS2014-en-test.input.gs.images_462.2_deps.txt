@@ -1,0 +1,8 @@
+det	woman	A
+root	ROOT	woman
+mark	riding	in
+acl	woman	riding
+det	horse	a
+amod	horse	brown
+dobj	riding	horse
+punct	woman	.

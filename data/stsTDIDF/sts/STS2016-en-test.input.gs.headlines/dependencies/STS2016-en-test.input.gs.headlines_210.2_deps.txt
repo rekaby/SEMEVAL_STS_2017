@@ -1,0 +1,8 @@
+compound	Korea	South
+nsubj	regrets	Korea
+root	ROOT	regrets
+nmod:poss	refusal	North
+case	North	's
+dobj	regrets	refusal
+case	talks	of
+nmod:of	refusal	talks

@@ -1,0 +1,11 @@
+amod	cleric	Senior
+root	ROOT	cleric
+punct	cleric	:
+nsubj	attack	Iran
+aux	attack	will
+dep	cleric	attack
+compound	Aviv	Tel
+dobj	attack	Aviv
+mark	strikes	if
+compound	strikes	Israel
+dep	attack	strikes

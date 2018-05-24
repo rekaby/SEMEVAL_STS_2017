@@ -1,0 +1,14 @@
+root	ROOT	reflects
+case	doctors	on
+nmod:on	reflects	doctors
+nsubj	take	who
+acl:relcl	doctors	take
+dobj	take	time
+compound:prt	take	off
+cc	take	&
+advmod	start	then
+conj:&	take	start
+xcomp	take	seeing
+dobj	seeing	patients
+advmod	seeing	again
+punct	reflects	.

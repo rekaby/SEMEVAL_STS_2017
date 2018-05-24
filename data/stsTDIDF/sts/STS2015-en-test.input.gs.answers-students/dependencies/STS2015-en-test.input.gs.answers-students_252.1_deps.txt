@@ -1,0 +1,12 @@
+punct	path	``
+case	A	Without
+nmod:without	path	A
+punct	path	,
+expl	path	there
+punct	path	''
+punct	path	``
+nmod:npmod	closed	s
+neg	closed	no
+amod	path	closed
+root	ROOT	path
+punct	path	''

@@ -1,0 +1,5 @@
+shop	outside	case
+standing	people	nsubj
+shop	street	nmod:on
+street	city	compound
+standing	shop	nmod:outside

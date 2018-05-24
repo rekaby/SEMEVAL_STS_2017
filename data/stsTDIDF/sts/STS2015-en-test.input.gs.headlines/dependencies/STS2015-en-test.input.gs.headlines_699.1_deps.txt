@@ -1,0 +1,16 @@
+compound	Olmert	Ehud
+nsubj	sentenced	Olmert
+punct	Olmert	,
+amod	minister	former
+amod	minister	Israeli
+amod	minister	prime
+appos	Olmert	minister
+punct	Olmert	,
+root	ROOT	sentenced
+case	years	to
+nummod	years	six
+nmod:to	sentenced	years
+case	jail	in
+nmod:in	years	jail
+case	corruption	for
+nmod:for	sentenced	corruption

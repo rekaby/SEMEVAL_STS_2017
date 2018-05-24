@@ -1,0 +1,10 @@
+girl	wearing	acl:relcl
+wearing	dress	dobj
+woman	older	amod
+woman	An	det
+girl	small	amod
+sits	woman	nsubj
+girl	next	case
+sits	girl	nmod:next_to
+dress	striped	amod
+wearing	who	nsubj

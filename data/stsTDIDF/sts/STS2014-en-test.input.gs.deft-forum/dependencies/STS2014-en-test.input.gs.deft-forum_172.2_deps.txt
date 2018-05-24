@@ -1,0 +1,16 @@
+nsubj	know	I
+aux	know	do
+neg	know	n't
+root	ROOT	know
+advmod	making	why
+nsubj	making	anyone
+aux	making	is
+advcl	know	making
+det	fuss	a
+dobj	making	fuss
+case	$	over
+det	$	the
+nmod:over	making	$
+punct	making	,
+xcomp	making	bet
+punct	know	.

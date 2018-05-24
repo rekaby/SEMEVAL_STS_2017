@@ -1,0 +1,11 @@
+det	man	A
+nsubj	drills	man
+root	ROOT	drills
+det	hole	a
+dobj	drills	hole
+case	piece	in
+det	piece	a
+nmod:in	drills	piece
+case	wood	of
+nmod:of	piece	wood
+punct	drills	.

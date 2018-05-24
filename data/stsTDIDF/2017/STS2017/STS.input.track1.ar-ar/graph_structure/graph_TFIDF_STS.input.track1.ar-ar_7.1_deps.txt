@@ -1,0 +1,10 @@
+runners	fallen	acl:relcl
+helped	one	dobj
+helped	Women	nsubj
+stand	feet	nmod:on
+runners	the	det
+fallen	who	nsubj
+one	runners	nmod:of
+helped	stand	advcl
+stand	again	advmod
+runners	of	case

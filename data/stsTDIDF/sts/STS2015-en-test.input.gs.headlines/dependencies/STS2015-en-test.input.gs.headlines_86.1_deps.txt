@@ -1,0 +1,6 @@
+amod	vote	Swiss
+root	ROOT	vote
+case	wage	on
+amod	wage	highest
+amod	wage	minimum
+nmod:on	vote	wage

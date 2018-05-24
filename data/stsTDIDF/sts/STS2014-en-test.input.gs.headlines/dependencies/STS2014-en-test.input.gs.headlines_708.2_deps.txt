@@ -1,0 +1,6 @@
+nsubj	releases	Pakistan
+root	ROOT	releases
+nummod	fighters	seven
+compound	fighters	Afghan
+compound	fighters	Taliban
+dobj	releases	fighters

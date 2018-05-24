@@ -1,0 +1,10 @@
+det	frame	this
+nsubj	contains	frame
+root	ROOT	contains
+dobj	contains	words
+acl	words	referring
+case	items	to
+nmod:to	referring	items
+case	food	of
+nmod:of	items	food
+punct	contains	.

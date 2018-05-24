@@ -1,0 +1,7 @@
+compound	Smith	Matt
+nsubj	quits	Smith
+root	ROOT	quits
+nmod:poss	Doctor	BBC
+case	BBC	's
+dobj	quits	Doctor
+dep	Doctor	Who

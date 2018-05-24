@@ -1,0 +1,5 @@
+compound	president	Poland
+nsubj	loses	president
+root	ROOT	loses
+case	challenger	to
+nmod:to	loses	challenger

@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	skiing	people
+aux	skiing	are
+root	ROOT	skiing
+compound:prt	skiing	down
+det	mountain	a
+dobj	skiing	mountain
+punct	skiing	.

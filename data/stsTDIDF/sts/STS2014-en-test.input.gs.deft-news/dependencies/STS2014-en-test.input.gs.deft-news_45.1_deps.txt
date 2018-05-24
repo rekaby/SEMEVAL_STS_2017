@@ -1,0 +1,10 @@
+amod	province	helmand
+nsubj	region	province
+cop	region	is
+det	world	the
+nmod:poss	region	world
+case	world	's
+amod	region	largest
+amod	region	opium-producing
+root	ROOT	region
+punct	region	.

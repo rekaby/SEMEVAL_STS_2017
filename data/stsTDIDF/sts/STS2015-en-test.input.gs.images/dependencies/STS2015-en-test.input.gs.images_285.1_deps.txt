@@ -1,0 +1,11 @@
+det	dog	The
+amod	dog	large
+amod	dog	brown
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+case	grass	through
+det	grass	the
+amod	grass	tall
+nmod:through	jumping	grass
+punct	jumping	.

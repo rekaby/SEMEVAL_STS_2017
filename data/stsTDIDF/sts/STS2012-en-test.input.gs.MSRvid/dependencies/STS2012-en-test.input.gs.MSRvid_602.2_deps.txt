@@ -1,0 +1,8 @@
+det	piece	A
+nsubjpass	cut	piece
+case	paper	of
+nmod:of	piece	paper
+aux	cut	is
+auxpass	cut	being
+root	ROOT	cut
+punct	cut	.

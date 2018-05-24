@@ -1,0 +1,12 @@
+expl	are	there
+root	ROOT	are
+advmod	complete	still
+amod	paths	complete
+nsubj	are	paths
+case	battery	to
+det	battery	the
+nmod:to	paths	battery
+case	B	for
+nmod:for	battery	B
+cc	B	and
+conj:and	B	C

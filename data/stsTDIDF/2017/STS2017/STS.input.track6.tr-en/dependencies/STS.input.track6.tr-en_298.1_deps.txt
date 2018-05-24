@@ -1,0 +1,13 @@
+nummod	girls	Three
+nsubj	run	girls
+case	dresses	in
+amod	dresses	white
+nmod:in	girls	dresses
+root	ROOT	run
+case	fountain	toward
+det	fountain	a
+nmod:toward	run	fountain
+case	park	in
+det	park	a
+nmod:in	fountain	park
+punct	run	.

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+nsubj	resting	who
+aux	resting	is
+acl:relcl	man	resting
+nmod:poss	head	his
+dobj	resting	head
+case	hand	on
+nmod:poss	hand	his
+nmod:on	resting	hand
+punct	man	.

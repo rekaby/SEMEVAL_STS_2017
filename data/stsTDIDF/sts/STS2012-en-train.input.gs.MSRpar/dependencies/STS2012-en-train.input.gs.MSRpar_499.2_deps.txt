@@ -1,0 +1,15 @@
+det	countries	The
+nummod	countries	two
+amod	countries	invading
+nsubj	fell	countries
+advmod	fell	later
+root	ROOT	fell
+compound:prt	fell	out
+punct	fell	,
+cc	fell	and
+conj:and	fell	have
+case	factions	since
+amod	factions	backed
+amod	factions	rival
+nmod:since	have	factions
+punct	fell	.

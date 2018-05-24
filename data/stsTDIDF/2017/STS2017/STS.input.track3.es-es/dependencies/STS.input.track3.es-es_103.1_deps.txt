@@ -1,0 +1,9 @@
+det	team	A
+nsubj	plans	team
+case	athletes	of
+amod	athletes	young
+nmod:of	team	athletes
+root	ROOT	plans
+nmod:poss	victory	their
+amod	victory	great
+dobj	plans	victory

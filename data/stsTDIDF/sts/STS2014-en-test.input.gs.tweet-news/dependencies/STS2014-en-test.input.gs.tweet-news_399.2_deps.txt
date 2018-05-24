@@ -1,0 +1,10 @@
+root	ROOT	Opinion
+punct	Opinion	:
+nsubj	gets	U.S
+dep	Opinion	gets
+nsubj	wrong	it
+xcomp	gets	wrong
+case	Egypt	on
+nmod:on	wrong	Egypt
+punct	gets	,
+advmod	gets	again

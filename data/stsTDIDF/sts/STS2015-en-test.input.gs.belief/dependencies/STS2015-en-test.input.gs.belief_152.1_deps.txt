@@ -1,0 +1,8 @@
+advmod	humbling	very
+dep	happens	humbling
+advmod	humbling	indeed
+punct	happens	-
+root	ROOT	happens
+case	everyone	to
+nmod:to	happens	everyone
+punct	happens	.

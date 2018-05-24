@@ -1,0 +1,8 @@
+root	ROOT	restore
+case	condition	to
+det	condition	a
+amod	condition	previous
+cc	previous	or
+conj:or	previous	better
+nmod:to	restore	condition
+punct	restore	.

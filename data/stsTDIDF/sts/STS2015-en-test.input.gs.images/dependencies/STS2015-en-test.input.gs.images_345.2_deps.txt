@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	running
+case	field	in
+det	field	a
+nmod:in	running	field
+punct	dogs	.

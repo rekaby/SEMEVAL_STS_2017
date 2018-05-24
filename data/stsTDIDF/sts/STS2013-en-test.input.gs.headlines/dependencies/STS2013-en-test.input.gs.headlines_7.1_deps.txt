@@ -1,0 +1,10 @@
+compound	Opener	Eye
+root	ROOT	Opener
+punct	Opener	:
+compound	rules	Supreme
+compound	rules	Court
+dep	Opener	rules
+case	law	on
+compound	law	Arizona
+compound	law	immigration
+nmod:on	rules	law

@@ -1,0 +1,13 @@
+compound	Sheardown	John
+root	ROOT	Sheardown
+punct	Sheardown	,
+appos	Sheardown	Canadian
+dobj	Dies	Who
+amod	Americans	Sheltered
+nsubj	Dies	Americans
+case	Tehran	in
+nmod:in	Americans	Tehran
+punct	Dies	,
+acl:relcl	Canadian	Dies
+case	88	at
+nmod:at	Dies	88

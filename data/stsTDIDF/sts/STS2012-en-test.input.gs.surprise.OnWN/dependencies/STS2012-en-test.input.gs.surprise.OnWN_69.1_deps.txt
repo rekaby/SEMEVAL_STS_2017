@@ -1,0 +1,6 @@
+root	ROOT	have
+det	attraction	a
+amod	attraction	strong
+amod	attraction	sexual
+dobj	have	attraction
+dep	have	to

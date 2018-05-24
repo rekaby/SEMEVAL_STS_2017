@@ -1,0 +1,9 @@
+advmod	store	How
+aux	store	should
+nsubj	store	I
+root	ROOT	store
+dobj	store	eggs
+case	refrigerator	in
+det	refrigerator	the
+nmod:in	store	refrigerator
+punct	store	?

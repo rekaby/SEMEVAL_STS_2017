@@ -1,0 +1,11 @@
+cop	worthy	be
+root	ROOT	worthy
+conj:or	worthy	worthy
+case	rating	of
+cc	of	or
+conj:or	of	have
+det	rating	a
+amod	rating	certain
+nmod:have	worthy	rating
+nmod:of	worthy	rating
+punct	worthy	.

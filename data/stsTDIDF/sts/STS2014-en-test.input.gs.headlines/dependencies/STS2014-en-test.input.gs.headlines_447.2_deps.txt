@@ -1,0 +1,8 @@
+root	ROOT	Rogers
+punct	Rogers	,
+nsubj	reach	Videotron
+appos	Rogers	reach
+dobj	reach	network-sharing
+punct	network-sharing	,
+compound	deal	spectrum
+appos	network-sharing	deal

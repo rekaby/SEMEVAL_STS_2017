@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	black
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+case	pool	into
+det	pool	a
+nmod:into	jumping	pool
+punct	jumping	.

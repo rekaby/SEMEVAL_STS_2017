@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	running	dog
+root	ROOT	running
+case	something	with
+nmod:with	running	something
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	something	mouth
+punct	running	.

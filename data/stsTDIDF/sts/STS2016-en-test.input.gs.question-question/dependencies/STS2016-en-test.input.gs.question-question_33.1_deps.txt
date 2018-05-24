@@ -1,0 +1,13 @@
+root	ROOT	Travelling
+case	Romania	to
+nmod:to	Travelling	Romania
+case	days	for
+nummod	days	4
+nmod:for	Travelling	days
+case	visa	by
+compound	visa	Schengen
+nmod:by	days	visa
+acl	visa	issued
+case	Germany	by
+nmod:by	issued	Germany
+punct	Travelling	?

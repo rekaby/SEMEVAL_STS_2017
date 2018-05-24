@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	plays	girl
+root	ROOT	plays
+det	instrument	a
+compound	instrument	wind
+dobj	plays	instrument
+punct	plays	.

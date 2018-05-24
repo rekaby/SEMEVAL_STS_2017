@@ -1,0 +1,8 @@
+det	man	The
+nsubj	wearing	man
+aux	wearing	is
+root	ROOT	wearing
+det	jacket	a
+compound	jacket	leather
+dobj	wearing	jacket
+punct	wearing	.

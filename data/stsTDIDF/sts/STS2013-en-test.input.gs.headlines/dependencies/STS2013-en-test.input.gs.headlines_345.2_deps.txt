@@ -1,0 +1,6 @@
+nsubj	Warns	Clinton
+root	ROOT	Warns
+case	Bank	Against
+compound	Bank	Undermining
+compound	Bank	Grameen
+nmod:against	Warns	Bank

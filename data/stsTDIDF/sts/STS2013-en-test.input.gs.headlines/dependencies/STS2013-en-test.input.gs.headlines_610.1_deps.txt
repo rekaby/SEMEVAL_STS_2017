@@ -1,0 +1,8 @@
+root	ROOT	Pak
+punct	Pak	:
+nummod	dead	20
+amod	protests	dead
+case	film	in
+amod	film	anti-Islam
+nmod:in	dead	film
+dep	Pak	protests

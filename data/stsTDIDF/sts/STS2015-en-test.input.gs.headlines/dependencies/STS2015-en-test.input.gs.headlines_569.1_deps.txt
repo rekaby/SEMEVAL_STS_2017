@@ -1,0 +1,5 @@
+compound	vote	Georgians
+root	ROOT	vote
+case	president	for
+amod	president	new
+nmod:for	vote	president

@@ -1,0 +1,12 @@
+det	lie	the
+root	ROOT	lie
+det	japan	that
+nsubj	ready	japan
+cop	ready	was
+acl:relcl	lie	ready
+mark	surrender	to
+csubj	history	surrender
+cop	history	is
+amod	history	revisionist
+ccomp	ready	history
+punct	lie	.

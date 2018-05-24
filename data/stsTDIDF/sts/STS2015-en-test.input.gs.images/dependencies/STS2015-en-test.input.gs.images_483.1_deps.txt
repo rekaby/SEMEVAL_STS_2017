@@ -1,0 +1,8 @@
+nummod	boys	three
+amod	boys	little
+nsubj	cover	boys
+root	ROOT	cover
+dobj	cover	themselves
+case	bubbles	with
+nmod:with	cover	bubbles
+punct	cover	.

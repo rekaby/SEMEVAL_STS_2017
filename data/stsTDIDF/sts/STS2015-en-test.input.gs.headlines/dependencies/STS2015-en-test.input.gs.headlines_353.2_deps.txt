@@ -1,0 +1,9 @@
+compound	ban	Court
+compound	ban	orders
+amod	ban	political
+root	ROOT	ban
+case	Italy	on
+nmod:on	ban	Italy
+nummod	Italy	‚
+compound	Berlusconi	Äôs
+dep	Italy	Berlusconi

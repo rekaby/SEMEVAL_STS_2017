@@ -1,0 +1,14 @@
+nsubj	used	Selenski
+ccomp	said	used
+det	mattress	the
+dobj	used	mattress
+mark	scale	to
+advcl	used	scale
+det	wire	a
+amod	wire	10-foot
+compound	wire	razor
+dobj	scale	wire
+punct	said	,
+nsubj	said	Fischi
+root	ROOT	said
+punct	said	.

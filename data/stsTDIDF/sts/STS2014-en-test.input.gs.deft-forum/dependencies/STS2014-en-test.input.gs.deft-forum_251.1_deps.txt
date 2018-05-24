@@ -1,0 +1,13 @@
+nsubj	busted	Mom
+root	ROOT	busted
+compound:prt	busted	in
+cc	busted	and
+conj:and	busted	said
+punct	said	,
+punct	said	``
+nsubj	noise	What
+dep	noise	's
+det	noise	that
+ccomp	said	noise
+punct	noise	?
+punct	noise	''

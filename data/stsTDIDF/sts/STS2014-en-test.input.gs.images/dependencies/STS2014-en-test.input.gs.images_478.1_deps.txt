@@ -1,0 +1,12 @@
+det	man	A
+amod	man	young
+nsubj	holding	man
+acl	man	wearing
+det	shirt	a
+amod	shirt	striped
+dobj	wearing	shirt
+aux	holding	is
+root	ROOT	holding
+nummod	bicycles	two
+dobj	holding	bicycles
+punct	holding	.

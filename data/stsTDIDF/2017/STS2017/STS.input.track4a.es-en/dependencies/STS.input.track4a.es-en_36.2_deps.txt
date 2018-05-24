@@ -1,0 +1,9 @@
+det	group	A
+nsubj	pose	group
+case	people	of
+nmod:of	group	people
+root	ROOT	pose
+case	photograph	for
+det	photograph	a
+nmod:for	pose	photograph
+punct	pose	.

@@ -1,0 +1,15 @@
+det	condition	the
+root	ROOT	condition
+mark	proposed	of
+aux	proposed	having
+auxpass	proposed	been
+acl	condition	proposed
+case	candidate	as
+det	candidate	a
+amod	candidate	suitable
+nmod:as	proposed	candidate
+case	appointment	for
+nmod:for	candidate	appointment
+cc	appointment	or
+conj:or	appointment	election
+punct	condition	.

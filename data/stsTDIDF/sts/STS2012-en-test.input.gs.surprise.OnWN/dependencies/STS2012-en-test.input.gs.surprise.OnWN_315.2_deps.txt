@@ -1,0 +1,10 @@
+det	trait	the
+root	ROOT	trait
+case	fixity	of
+amod	fixity	sincere
+cc	sincere	and
+conj:and	sincere	steadfast
+nmod:of	trait	fixity
+case	purpose	of
+nmod:of	fixity	purpose
+punct	trait	.

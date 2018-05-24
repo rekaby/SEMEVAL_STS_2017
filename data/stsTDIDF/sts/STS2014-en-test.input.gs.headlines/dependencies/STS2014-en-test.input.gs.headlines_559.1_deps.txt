@@ -1,0 +1,7 @@
+nsubj	calls	Biden
+root	ROOT	calls
+case	trust	for
+nmod:for	calls	trust
+case	relations	in
+compound	relations	US-China
+nmod:in	trust	relations

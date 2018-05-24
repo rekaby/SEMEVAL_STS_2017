@@ -1,0 +1,9 @@
+compound	stocks	Asia
+nsubj	fall	stocks
+root	ROOT	fall
+advmod	fall	ahead
+case	deadline	of
+amod	deadline	Greek
+compound	deadline	debt
+compound	deadline	deal
+nmod:of	ahead	deadline

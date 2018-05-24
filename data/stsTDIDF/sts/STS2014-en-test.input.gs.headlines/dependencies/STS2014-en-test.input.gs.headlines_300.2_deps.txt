@@ -1,0 +1,7 @@
+nsubj	wallops	Blizzard
+root	ROOT	wallops
+compound	Northeast	US
+dobj	wallops	Northeast
+punct	wallops	,
+amod	roads	closes
+dep	wallops	roads

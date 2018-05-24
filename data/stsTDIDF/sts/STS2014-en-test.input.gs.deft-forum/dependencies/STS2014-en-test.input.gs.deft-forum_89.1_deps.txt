@@ -1,0 +1,6 @@
+neg	person	No
+amod	person	healthy
+nsubj	needs	person
+root	ROOT	needs
+dobj	needs	gambling
+punct	needs	.

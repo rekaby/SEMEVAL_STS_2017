@@ -1,0 +1,7 @@
+amod	cardinals	Several
+nsubj	stand	cardinals
+root	ROOT	stand
+case	snow	in
+det	snow	the
+nmod:in	stand	snow
+punct	stand	.

@@ -1,0 +1,9 @@
+red	white	conj:and
+kept	parade	nmod:during
+kept	high	xcomp
+high	morimizen	advmod
+group	cheerleaders	nmod:of
+cheerleaders	red	amod
+kept	group	nsubj
+cheerleaders	of	case
+parade	During	case

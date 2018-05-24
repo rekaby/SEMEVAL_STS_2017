@@ -1,0 +1,6 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+dobj	playing	soccer
+punct	playing	.

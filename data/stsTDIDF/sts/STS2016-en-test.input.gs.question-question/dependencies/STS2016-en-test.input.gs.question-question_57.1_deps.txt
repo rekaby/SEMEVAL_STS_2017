@@ -1,0 +1,11 @@
+advmod	get	How
+aux	get	can
+nsubj	get	I
+root	ROOT	get
+nmod:poss	colleagues	my
+dobj	get	colleagues
+mark	stop	to
+xcomp	get	stop
+xcomp	stop	interrupting
+dobj	interrupting	me
+punct	get	?

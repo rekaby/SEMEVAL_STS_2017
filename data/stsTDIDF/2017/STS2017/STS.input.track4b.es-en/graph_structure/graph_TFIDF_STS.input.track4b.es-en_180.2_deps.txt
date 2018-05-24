@@ -1,0 +1,13 @@
+wants	It	nsubj
+collaborate	to	mark
+wants	create	conj:and
+bloc	Union-style	amod
+bloc	a	det
+States	Canada	conj:and
+States	with	case
+bloc	European	amod
+bloc	America	nmod:in
+wants	collaborate	xcomp
+collaborate	States	nmod:with
+create	bloc	dobj
+bloc	trade	compound

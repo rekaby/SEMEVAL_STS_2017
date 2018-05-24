@@ -1,0 +1,6 @@
+root	ROOT	something
+case	substance	with
+neg	substance	no
+amod	substance	concrete
+nmod:with	something	substance
+punct	something	.

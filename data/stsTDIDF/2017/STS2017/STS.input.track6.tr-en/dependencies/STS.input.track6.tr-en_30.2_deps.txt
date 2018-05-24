@@ -1,0 +1,16 @@
+det	woman	The
+amod	woman	black
+root	ROOT	woman
+nsubj	tired	who
+cop	tired	is
+acl:relcl	woman	tired
+mark	falls	of
+advmod	falls	all
+nsubj	falls	this
+advcl	tired	falls
+compound:prt	falls	down
+case	doors	through
+det	doors	the
+compound	doors	office
+nmod:through	falls	doors
+punct	woman	.

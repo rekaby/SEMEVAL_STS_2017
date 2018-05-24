@@ -1,0 +1,13 @@
+nsubj	exist	morals
+aux	exist	do
+neg	exist	not
+root	ROOT	exist
+punct	exist	,
+advmod	technically	so
+advmod	wrong	technically
+nsubj	wrong	nothing
+aux	wrong	can
+cop	wrong	be
+advmod	wrong	morally
+dep	exist	wrong
+punct	exist	.

@@ -1,0 +1,11 @@
+det	man	A
+nsubj	playing	man
+acl	man	seated
+case	room	in
+det	room	a
+nmod:in	seated	room
+aux	playing	is
+root	ROOT	playing
+det	guitar	the
+dobj	playing	guitar
+punct	playing	.

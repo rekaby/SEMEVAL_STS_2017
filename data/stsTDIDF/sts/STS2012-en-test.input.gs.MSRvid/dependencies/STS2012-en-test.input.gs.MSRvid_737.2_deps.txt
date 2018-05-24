@@ -1,0 +1,12 @@
+nummod	men	Four
+amod	men	young
+nsubj	stand	men
+root	ROOT	stand
+advmod	explodes	still
+mark	explodes	as
+det	car	a
+nsubj	explodes	car
+advcl	stand	explodes
+case	them	behind
+nmod:behind	explodes	them
+punct	stand	.

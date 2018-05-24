@@ -1,0 +1,8 @@
+nsubj	begins	Maldives
+root	ROOT	begins
+mark	vote	to
+xcomp	begins	vote
+case	poll	in
+amod	poll	controversy-ridden
+amod	poll	presidential
+nmod:in	vote	poll

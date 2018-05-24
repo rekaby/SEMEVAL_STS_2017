@@ -1,0 +1,6 @@
+nsubj	Receives	EU
+root	ROOT	Receives
+nummod	Prize	2012
+compound	Prize	Nobel
+compound	Prize	Peace
+dobj	Receives	Prize

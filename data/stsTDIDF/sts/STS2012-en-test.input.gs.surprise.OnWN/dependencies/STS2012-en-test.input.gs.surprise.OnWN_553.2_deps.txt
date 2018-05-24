@@ -1,0 +1,5 @@
+root	ROOT	give
+det	structure	a
+dobj	give	structure
+nmod	give	to
+punct	give	.

@@ -1,0 +1,7 @@
+root	ROOT	Obama
+punct	Obama	,
+appos	Obama	Karzai
+mark	speed	to
+acl	Karzai	speed
+amod	transition	military
+dobj	speed	transition

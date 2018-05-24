@@ -1,0 +1,9 @@
+advmod	has	However
+punct	has	,
+det	model	the
+compound	model	vector
+compound	model	space
+nsubj	has	model
+root	ROOT	has
+dobj	has	limitations
+punct	has	.

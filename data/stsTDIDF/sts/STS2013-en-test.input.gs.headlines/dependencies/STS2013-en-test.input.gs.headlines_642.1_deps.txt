@@ -1,0 +1,8 @@
+compound	vote	Egyptians
+root	ROOT	vote
+mark	pick	to
+acl	vote	pick
+dobj	pick	president
+case	time	for
+amod	time	first
+nmod:for	pick	time

@@ -1,0 +1,6 @@
+mom	his	nmod:poss
+drums	the	det
+playing	drums	dobj
+mom	for	case
+playing	mom	nmod:for
+playing	man	nsubj

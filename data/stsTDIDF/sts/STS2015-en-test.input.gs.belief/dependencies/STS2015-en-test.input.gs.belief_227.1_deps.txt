@@ -1,0 +1,20 @@
+nsubj	said	i
+aux	said	've
+root	ROOT	said
+dobj	said	what
+nsubj	said	i
+aux	said	've
+ccomp	said	said
+punct	said	,
+cc	said	and
+mark	have	if
+nsubj	have	you
+conj:and	said	have
+compound	problems	comprehension
+dobj	have	problems
+nsubj	help	i
+aux	help	can
+neg	help	not
+acl:relcl	problems	help
+dobj	help	you
+punct	said	.-20) root(ROOT-0, .

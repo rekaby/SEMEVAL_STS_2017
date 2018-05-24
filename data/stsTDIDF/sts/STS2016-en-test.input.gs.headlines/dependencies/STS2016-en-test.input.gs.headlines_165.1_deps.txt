@@ -1,0 +1,9 @@
+amod	bombers	Suspected
+compound	bombers	Boko
+compound	bombers	Haram
+compound	bombers	suicide
+nsubj	kill	bombers
+case	Nigeria	in
+nmod:in	bombers	Nigeria
+root	ROOT	kill
+dobj	kill	24

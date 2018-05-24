@@ -1,0 +1,12 @@
+compound	Pistorius	Oscar
+nsubj	sent	Pistorius
+root	ROOT	sent
+case	evaluation	for
+amod	evaluation	mental
+nmod:for	sent	evaluation
+punct	sent	:
+dobj	mean	what
+aux	mean	will
+nsubj	mean	it
+parataxis	sent	mean
+punct	mean	?

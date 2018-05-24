@@ -1,0 +1,7 @@
+nsubj	mourns	Obama
+root	ROOT	mourns
+dobj	mourns	death
+case	Mandela	of
+compound	Mandela	icon
+compound	Mandela	Nelson
+nmod:of	death	Mandela

@@ -1,0 +1,7 @@
+nsubj	abduct	Gunmen
+root	ROOT	abduct
+nummod	workers	seven
+amod	workers	foreign
+dobj	abduct	workers
+case	Nigeria	in
+nmod:in	abduct	Nigeria

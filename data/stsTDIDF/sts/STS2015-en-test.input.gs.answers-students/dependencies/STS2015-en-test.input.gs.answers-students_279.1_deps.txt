@@ -1,0 +1,15 @@
+nsubjpass	contiained	bulbs
+dep	bulbs	b
+cc	b	and
+conj:and	b	c
+auxpass	contiained	are
+root	ROOT	contiained
+case	path	in
+det	path	the
+det	path	the
+amod	path	same
+nmod:in	contiained	path
+case	battery	with
+det	battery	the
+nmod:with	path	battery
+punct	contiained	.

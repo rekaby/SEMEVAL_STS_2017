@@ -1,0 +1,12 @@
+amod	elbarade	mohammed
+nsubj	general	elbarade
+cop	general	is
+det	agency	the
+amod	agency	international
+amod	agency	atomic
+compound	agency	energy
+nmod:poss	general	agency
+case	agency	's
+compound	general	director
+root	ROOT	general
+punct	general	.

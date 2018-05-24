@@ -1,0 +1,8 @@
+amod	dog	Small
+root	ROOT	dog
+acl	dog	sitting
+case	wall	next
+mwe	next	to
+amod	wall	white
+nmod:next_to	sitting	wall
+punct	dog	.

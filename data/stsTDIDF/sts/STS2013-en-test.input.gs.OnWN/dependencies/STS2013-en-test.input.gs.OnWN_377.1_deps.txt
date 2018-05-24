@@ -1,0 +1,7 @@
+root	ROOT	verify
+dobj	verify	something
+mark	comparing	by
+advcl	verify	comparing
+case	standard	to
+det	standard	a
+nmod:to	comparing	standard

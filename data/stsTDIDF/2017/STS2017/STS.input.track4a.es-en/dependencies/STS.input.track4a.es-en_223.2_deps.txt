@@ -1,0 +1,10 @@
+nsubj	laying	Bicycles
+aux	laying	are
+root	ROOT	laying
+case	side	on
+det	side	the
+nmod:on	laying	side
+case	road	of
+det	road	the
+nmod:of	side	road
+punct	laying	.

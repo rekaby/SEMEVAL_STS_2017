@@ -1,0 +1,6 @@
+nsubj	Gather	Crowds
+root	ROOT	Gather
+case	Bethlehem	in
+nmod:in	Gather	Bethlehem
+case	Christmas	for
+nmod:for	Gather	Christmas

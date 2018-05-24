@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	stirring	woman
+aux	stirring	is
+root	ROOT	stirring
+nummod	eggs	two
+dobj	stirring	eggs
+case	bowl	in
+det	bowl	a
+compound	bowl	glass
+nmod:in	stirring	bowl
+punct	stirring	.

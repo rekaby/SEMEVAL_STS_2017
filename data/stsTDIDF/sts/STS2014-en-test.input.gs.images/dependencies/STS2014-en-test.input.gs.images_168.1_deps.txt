@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	wearing
+det	helmet	a
+dobj	wearing	helmet
+acl	helmet	riding
+det	pony	a
+dobj	riding	pony
+punct	girl	.

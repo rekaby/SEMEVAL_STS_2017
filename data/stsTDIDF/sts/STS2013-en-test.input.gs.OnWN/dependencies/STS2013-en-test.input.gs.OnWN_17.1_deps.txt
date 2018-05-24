@@ -1,0 +1,7 @@
+det	reproduction	a
+root	ROOT	reproduction
+cc	reproduction	or
+amod	representation	physical
+conj:or	reproduction	representation
+case	something	of
+nmod:of	reproduction	something

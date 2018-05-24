@@ -1,0 +1,5 @@
+violin	the	det
+playing	rain	nmod:in
+rain	in	case
+playing	violin	dobj
+man	playing	acl

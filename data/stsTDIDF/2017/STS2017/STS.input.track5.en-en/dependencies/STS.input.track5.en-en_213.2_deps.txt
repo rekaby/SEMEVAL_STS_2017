@@ -1,0 +1,7 @@
+det	dogs	Some
+root	ROOT	dogs
+acl	dogs	running
+case	park	through
+det	park	the
+nmod:through	running	park
+punct	dogs	.

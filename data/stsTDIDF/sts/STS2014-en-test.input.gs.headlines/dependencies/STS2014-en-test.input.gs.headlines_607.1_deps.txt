@@ -1,0 +1,8 @@
+nmod:poss	PM	China
+case	China	's
+amod	PM	new
+nsubj	rejects	PM
+root	ROOT	rejects
+compound	claims	US
+compound	claims	hacking
+dobj	rejects	claims

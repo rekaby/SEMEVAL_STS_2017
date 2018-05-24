@@ -1,0 +1,6 @@
+det	man	The
+root	ROOT	man
+case	field	in
+det	field	the
+nmod:in	man	field
+punct	man	.

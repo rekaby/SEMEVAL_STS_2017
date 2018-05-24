@@ -1,0 +1,7 @@
+root	ROOT	Clashes
+case	protest	as
+compound	protest	Greeks
+nmod:as	Clashes	protest
+case	cutbacks	against
+amod	cutbacks	more
+nmod:against	protest	cutbacks

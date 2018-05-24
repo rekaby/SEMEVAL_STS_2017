@@ -1,0 +1,7 @@
+cross	street	dobj
+ROOT	Women	root
+Women	.	punct
+carrying	cross	ccomp
+bag	black	amod
+Women	carrying	acl
+cross	bag	nsubj

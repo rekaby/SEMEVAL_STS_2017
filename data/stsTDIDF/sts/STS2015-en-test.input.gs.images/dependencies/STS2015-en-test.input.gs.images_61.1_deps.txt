@@ -1,0 +1,10 @@
+det	playing	A
+compound	playing	girl
+nsubj	pile	playing
+cop	pile	is
+det	pile	a
+root	ROOT	pile
+case	balls	of
+amod	balls	colorful
+nmod:of	pile	balls
+punct	pile	.

@@ -1,0 +1,17 @@
+case	part	As
+nmod:as	agreed	part
+case	deal	of
+nmod:poss	deal	his
+nmod:of	part	deal
+punct	agreed	,
+compound	Delainey	Mr.
+nsubj	agreed	Delainey
+aux	agreed	has
+root	ROOT	agreed
+mark	cooperate	to
+xcomp	agreed	cooperate
+case	investigation	in
+det	investigation	the
+amod	investigation	continuing
+nmod:in	cooperate	investigation
+punct	agreed	.

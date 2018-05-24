@@ -1,0 +1,8 @@
+det	lamb	The
+nsubj	looking	lamb
+aux	looking	is
+root	ROOT	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	looking	.

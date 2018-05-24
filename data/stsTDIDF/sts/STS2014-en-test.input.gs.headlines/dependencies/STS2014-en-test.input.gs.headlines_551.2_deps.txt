@@ -1,0 +1,9 @@
+amod	workers	South
+amod	workers	Korean
+nsubj	set	workers
+root	ROOT	set
+mark	leave	to
+xcomp	set	leave
+amod	zone	joint
+compound	zone	factory
+dobj	leave	zone

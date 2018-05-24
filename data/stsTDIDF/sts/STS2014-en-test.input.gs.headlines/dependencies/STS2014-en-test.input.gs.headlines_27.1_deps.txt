@@ -1,0 +1,9 @@
+nsubj	flock	Afghans
+root	ROOT	flock
+case	colleges	to
+nmod:to	flock	colleges
+punct	flock	,
+advmod	flock	even
+case	Taliban	as
+nmod:as	even	Taliban
+dep	flock	loom

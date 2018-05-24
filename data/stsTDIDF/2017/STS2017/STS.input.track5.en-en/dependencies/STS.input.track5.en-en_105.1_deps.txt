@@ -1,0 +1,13 @@
+det	kids	The
+nummod	kids	two
+nsubj	look	kids
+root	ROOT	look
+case	products	at
+det	products	the
+nmod:at	look	products
+xcomp	look	sold
+case	shop	inside
+det	shop	the
+compound	shop	subway
+nmod:inside	sold	shop
+punct	look	.

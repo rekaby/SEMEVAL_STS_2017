@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	validating	of
+acl	act	validating
+det	authenticity	the
+dobj	validating	authenticity
+case	something	of
+nmod:of	authenticity	something

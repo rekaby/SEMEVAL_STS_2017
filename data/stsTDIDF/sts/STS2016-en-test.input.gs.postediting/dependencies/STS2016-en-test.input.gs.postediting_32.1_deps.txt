@@ -1,0 +1,17 @@
+det	phrase	The
+root	ROOT	phrase
+punct	consider	`
+nsubj	consider	You
+aux	consider	do
+neg	consider	not
+acl:relcl	phrase	consider
+punct	consider	``
+auxpass	enshrined	is
+ccomp	consider	enshrined
+case	majuscules	in
+nmod:in	enshrined	majuscules
+case	plate	on
+det	plate	the
+compound	plate	registration
+nmod:on	enshrined	plate
+punct	phrase	.

@@ -1,0 +1,14 @@
+root	ROOT	inability
+case	heart	of
+det	heart	the
+nmod:of	inability	heart
+mark	pump	to
+acl	inability	pump
+amod	blood	enough
+dobj	pump	blood
+mark	sustain	to
+advcl	pump	sustain
+amod	functions	normal
+amod	functions	bodily
+dobj	sustain	functions
+punct	inability	.

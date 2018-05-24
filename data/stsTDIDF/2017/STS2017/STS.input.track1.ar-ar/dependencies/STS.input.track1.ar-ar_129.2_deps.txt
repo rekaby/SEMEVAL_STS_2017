@@ -1,0 +1,12 @@
+det	girl	A
+amod	girl	small
+root	ROOT	girl
+acl	girl	wearing
+det	pink	a
+dobj	wearing	pink
+punct	pink	,
+appos	pink	dancing
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	dancing	sidewalk
+punct	girl	.

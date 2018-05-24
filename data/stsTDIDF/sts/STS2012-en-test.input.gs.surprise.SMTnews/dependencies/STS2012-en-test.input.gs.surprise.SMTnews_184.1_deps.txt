@@ -1,0 +1,15 @@
+advmod	taking	Yet
+det	process	a
+nsubj	taking	process
+case	de-institutionalization	of
+nmod:of	process	de-institutionalization
+case	experience	of
+amod	experience	religious
+nmod:of	de-institutionalization	experience
+aux	taking	is
+advmod	taking	also
+root	ROOT	taking
+dobj	taking	place
+case	Islam	within
+nmod:within	taking	Islam
+punct	taking	.

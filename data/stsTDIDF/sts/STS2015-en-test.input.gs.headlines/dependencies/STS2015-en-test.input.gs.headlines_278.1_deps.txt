@@ -1,0 +1,9 @@
+root	ROOT	Gunmen
+acl	Gunmen	Surround
+nmod:poss	Ministry	Libya
+case	Libya	's
+compound	Ministry	Foreign
+dobj	Surround	Ministry
+mark	Push	To
+advcl	Surround	Push
+dobj	Push	Demands

@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+case	time	of
+amod	time	devoting
+nmod:of	act	time
+cc	time	and
+conj:and	time	energy
+case	something	to
+nmod:to	act	something

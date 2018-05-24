@@ -1,0 +1,5 @@
+woman	with	case
+ROOT	laughing	root
+laughing	woman	nmod:with
+laughing	man	nsubj
+laughing	is	aux

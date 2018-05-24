@@ -1,0 +1,16 @@
+nsubjpass	excited	We
+auxpass	excited	are
+root	ROOT	excited
+mark	see	to
+xcomp	excited	see
+nsubj	happens	what
+ccomp	see	happens
+dobj	happens	!!-8) root(ROOT-0, ?-1) compound(Park-2, South
+root	ROOT	Park
+punct	Park	?-3) compound(Start-2, Creators
+root	ROOT	Start
+punct	Studios	``
+amod	Studios	Important
+dep	Start	Studios
+punct	Studios	''
+dep	Studios	#southpark

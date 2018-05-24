@@ -1,0 +1,7 @@
+nsubj	busy	Woman
+case	table	at
+nmod:at	Woman	table
+root	ROOT	busy
+case	something	with
+nmod:with	busy	something
+punct	busy	.

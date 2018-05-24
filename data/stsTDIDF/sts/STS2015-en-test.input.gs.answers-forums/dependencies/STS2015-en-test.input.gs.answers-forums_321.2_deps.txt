@@ -1,0 +1,15 @@
+advmod	stop	Usually
+nsubj	stop	it
+cop	stop	's
+det	stop	a
+amod	stop	refuelling
+root	ROOT	stop
+punct	stop	,
+cc	stop	and
+nsubj	sit	you
+advmod	sit	just
+conj:and	stop	sit
+case	plane	on
+det	plane	the
+nmod:on	sit	plane
+punct	stop	.

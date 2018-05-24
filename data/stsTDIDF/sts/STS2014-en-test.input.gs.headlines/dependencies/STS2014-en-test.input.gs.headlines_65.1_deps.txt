@@ -1,0 +1,6 @@
+compound	protesters	Thai
+nsubj	break	protesters
+root	ROOT	break
+case	headquarters	into
+compound	headquarters	army
+nmod:into	break	headquarters

@@ -1,0 +1,10 @@
+det	chef	A
+nsubj	cleaning	chef
+aux	cleaning	is
+root	ROOT	cleaning
+compound:prt	cleaning	up
+det	bowl	a
+dobj	cleaning	bowl
+case	soup	of
+nmod:of	bowl	soup
+punct	cleaning	.

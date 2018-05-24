@@ -1,0 +1,12 @@
+nsubj	speak	We
+root	ROOT	speak
+case	Language	with
+det	Language	a
+amod	Language	single
+compound	Language	voice
+nmod:with	speak	Language
+ccomp	speak	describes
+case	WTO	within
+det	WTO	the
+nmod:within	describes	WTO
+punct	speak	.

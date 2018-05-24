@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+det	egg	an
+dobj	adding	egg
+cc	adding	and
+conj:and	adding	stirring
+punct	adding	.

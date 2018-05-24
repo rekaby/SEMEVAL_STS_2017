@@ -1,0 +1,7 @@
+dobj	be	What
+aux	be	should
+nmod:poss	limit	my
+compound	limit	credit
+nsubj	be	limit
+root	ROOT	be
+punct	be	?

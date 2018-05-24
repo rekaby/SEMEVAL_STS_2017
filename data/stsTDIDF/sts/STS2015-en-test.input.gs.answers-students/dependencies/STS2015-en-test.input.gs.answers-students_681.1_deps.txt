@@ -1,0 +1,13 @@
+mark	connect	because
+det	ends	the
+nummod	ends	two
+nsubj	connect	ends
+case	battery	of
+det	battery	the
+nmod:of	ends	battery
+aux	connect	do
+neg	connect	not
+root	ROOT	connect
+case	one	to
+nmod:to	connect	one
+dobj	connect	another

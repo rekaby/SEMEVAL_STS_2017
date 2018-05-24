@@ -1,0 +1,7 @@
+det	player	The
+compound	player	cricket
+nsubj	hit	player
+root	ROOT	hit
+det	ball	the
+dobj	hit	ball
+punct	hit	.

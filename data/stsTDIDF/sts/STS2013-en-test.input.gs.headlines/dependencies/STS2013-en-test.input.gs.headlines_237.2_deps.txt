@@ -1,0 +1,6 @@
+amod	Socialists	French
+nsubj	win	Socialists
+root	ROOT	win
+amod	majority	absolute
+compound	majority	parliament
+dobj	win	majority

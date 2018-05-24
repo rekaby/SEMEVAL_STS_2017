@@ -1,0 +1,7 @@
+nummod	men	Two
+root	ROOT	men
+case	contest	in
+det	contest	a
+amod	contest	running
+nmod:in	men	contest
+punct	men	.

@@ -1,0 +1,16 @@
+compound	Miller	Richard
+nsubjpass	hospitalized	Miller
+auxpass	hospitalized	remained
+root	ROOT	hospitalized
+mark	undergoing	after
+advcl	hospitalized	undergoing
+det	transplant	a
+compound	transplant	liver
+dobj	undergoing	transplant
+punct	hospitalized	,
+cc	hospitalized	but
+nmod:poss	wife	his
+nsubj	recovered	wife
+aux	recovered	has
+conj:but	hospitalized	recovered
+punct	hospitalized	.

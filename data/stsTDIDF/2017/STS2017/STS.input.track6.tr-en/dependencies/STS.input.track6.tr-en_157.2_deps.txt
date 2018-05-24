@@ -1,0 +1,12 @@
+det	man	A
+nsubj	holding	man
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+nmod:in	man	shirt
+aux	holding	is
+root	ROOT	holding
+det	wires	a
+amod	wires	few
+dobj	holding	wires
+punct	holding	.

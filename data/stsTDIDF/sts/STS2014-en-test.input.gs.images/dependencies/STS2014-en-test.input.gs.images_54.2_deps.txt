@@ -1,0 +1,8 @@
+det	horse	The
+compound	horse	tan
+nsubj	pasture	horse
+cop	pasture	is
+case	pasture	in
+det	pasture	the
+root	ROOT	pasture
+punct	pasture	.

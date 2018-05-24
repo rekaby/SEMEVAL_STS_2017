@@ -1,0 +1,15 @@
+root	ROOT	establish
+det	validity	the
+dobj	establish	validity
+case	something	of
+nmod:of	validity	something
+punct	establish	,
+case	example	as
+case	example	by
+det	example	an
+nmod:by	establish	example
+punct	establish	,
+dobj	establish	explanation
+cc	explanation	or
+conj:or	explanation	experiment
+punct	establish	;

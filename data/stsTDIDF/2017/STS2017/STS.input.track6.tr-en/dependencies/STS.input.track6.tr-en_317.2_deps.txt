@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+advmod	one	more
+mwe	more	than
+nummod	person	one
+nsubj	is	person
+acl	person	shown
+advmod	shown	here
+punct	is	.

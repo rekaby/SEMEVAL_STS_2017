@@ -1,0 +1,11 @@
+det	man	A
+nsubj	spreads	man
+root	ROOT	spreads
+dobj	spreads	butter
+case	piece	on
+det	piece	a
+amod	piece	big
+nmod:on	spreads	piece
+case	bread	of
+nmod:of	piece	bread
+punct	spreads	.

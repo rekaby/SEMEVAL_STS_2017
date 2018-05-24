@@ -1,0 +1,15 @@
+nsubj	killed	SARS
+aux	killed	has
+root	ROOT	killed
+nummod	people	296
+dobj	killed	people
+case	mainland	on
+nmod:poss	mainland	China
+case	China	's
+nmod:on	people	mainland
+cc	killed	and
+conj:and	killed	infected
+advmod	5,200	more
+mwe	more	than
+dobj	infected	5,200
+punct	killed	.

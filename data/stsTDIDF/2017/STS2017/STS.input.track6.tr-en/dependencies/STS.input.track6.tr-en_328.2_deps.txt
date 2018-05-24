@@ -1,0 +1,11 @@
+det	being	A
+amod	being	human
+nsubj	tent	being
+cop	tent	is
+case	tent	in
+mwe	in	front
+mwe	in	of
+det	tent	a
+amod	tent	closed
+root	ROOT	tent
+punct	tent	.

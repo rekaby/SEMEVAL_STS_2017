@@ -1,0 +1,11 @@
+det	bull	The
+amod	bull	black
+cc	black	and
+conj:and	black	white
+nsubj	looking	bull
+aux	looking	is
+root	ROOT	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	looking	.

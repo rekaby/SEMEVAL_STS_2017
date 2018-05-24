@@ -1,0 +1,8 @@
+det	pecks	A
+compound	pecks	rooster
+root	ROOT	pecks
+case	mouse	at
+det	mouse	a
+amod	mouse	dead
+nmod:at	pecks	mouse
+punct	pecks	.

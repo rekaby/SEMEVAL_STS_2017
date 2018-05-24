@@ -1,0 +1,10 @@
+nsubj	killed	3
+root	ROOT	killed
+punct	killed	,
+dep	killed	138
+acl	138	injured
+case	blasts	in
+compound	blasts	Boston
+nmod:in	injured	blasts
+punct	killed	:
+dep	killed	media

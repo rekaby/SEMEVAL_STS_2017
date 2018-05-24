@@ -1,0 +1,9 @@
+nummod	children	Two
+nsubj	play	children
+root	ROOT	play
+case	tire	on
+det	tire	a
+amod	tire	large
+compound	tire	swing
+nmod:on	play	tire
+punct	play	.

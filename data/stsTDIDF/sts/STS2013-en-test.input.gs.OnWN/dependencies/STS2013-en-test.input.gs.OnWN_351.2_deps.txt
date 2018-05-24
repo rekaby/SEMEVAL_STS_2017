@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	terminating	of
+acl	act	terminating
+det	life	a
+dobj	terminating	life
+punct	act	.

@@ -1,0 +1,12 @@
+nsubj	goes	What
+root	ROOT	goes
+case	statement	in
+det	statement	a
+compound	statement	student
+compound	statement	success
+nmod:in	goes	statement
+case	application	for
+det	application	a
+compound	application	faculty
+nmod:for	statement	application
+punct	goes	?

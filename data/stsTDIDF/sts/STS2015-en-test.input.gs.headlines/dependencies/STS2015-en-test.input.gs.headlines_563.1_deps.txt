@@ -1,0 +1,6 @@
+compound	Kong	Hong
+nsubj	set	Kong
+root	ROOT	set
+case	democracy	for
+nmod:for	set	democracy
+nmod:tmod	set	march

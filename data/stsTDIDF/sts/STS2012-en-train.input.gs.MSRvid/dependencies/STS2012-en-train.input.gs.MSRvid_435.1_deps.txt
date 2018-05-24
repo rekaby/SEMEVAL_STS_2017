@@ -1,0 +1,8 @@
+det	monkey	The
+nsubj	hanging	monkey
+aux	hanging	is
+root	ROOT	hanging
+case	trees	from
+det	trees	the
+nmod:from	hanging	trees
+punct	hanging	.

@@ -1,0 +1,7 @@
+det	boat	a
+root	ROOT	boat
+acl	boat	moving
+case	river	in
+det	river	a
+nmod:in	moving	river
+punct	boat	.

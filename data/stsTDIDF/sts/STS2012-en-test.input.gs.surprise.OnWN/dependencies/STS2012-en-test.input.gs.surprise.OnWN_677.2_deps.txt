@@ -1,0 +1,7 @@
+root	ROOT	preserve
+xcomp	preserve	in
+dep	in	a
+dep	a	can
+cc	can	or
+conj:or	can	tin
+punct	preserve	.

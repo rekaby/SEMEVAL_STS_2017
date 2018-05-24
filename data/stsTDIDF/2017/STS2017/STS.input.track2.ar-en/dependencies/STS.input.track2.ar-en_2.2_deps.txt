@@ -1,0 +1,13 @@
+det	man	A
+nsubj	finds	man
+root	ROOT	finds
+dobj	finds	time
+mark	take	to
+acl	time	take
+det	nap	a
+dobj	take	nap
+case	car	in
+det	car	the
+amod	car	electric
+nmod:in	take	car
+punct	finds	.

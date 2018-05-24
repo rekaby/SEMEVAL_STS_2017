@@ -1,0 +1,6 @@
+workers	construction	compound
+workers	The	det
+sitting	workers	nsubj
+sitting	down	compound:prt
+eat	lunch	dobj
+sitting	eat	xcomp

@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+advmod	man	asleep
+case	fountain	in
+det	fountain	a
+nmod:in	asleep	fountain
+case	air	in
+det	air	the
+amod	air	open
+nmod:in	fountain	air
+punct	man	.

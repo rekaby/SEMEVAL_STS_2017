@@ -1,0 +1,8 @@
+compound	Memorabilia	Studio
+nummod	Memorabilia	54
+root	ROOT	Memorabilia
+mark	Sold	to
+auxpass	Sold	be
+acl	Memorabilia	Sold
+case	Auction	at
+nmod:at	Sold	Auction

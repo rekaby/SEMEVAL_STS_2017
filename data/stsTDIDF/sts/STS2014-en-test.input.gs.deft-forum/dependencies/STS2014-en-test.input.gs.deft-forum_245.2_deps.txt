@@ -1,0 +1,10 @@
+det	woman	Any
+root	ROOT	woman
+nsubj	wants	that
+acl:relcl	woman	wants
+cc	wants	and
+nsubj	get	abortion
+aux	get	can
+conj:and	wants	get
+dobj	get	one
+punct	woman	.

@@ -1,0 +1,11 @@
+root ROOT Rangel	15.060439779775294
+punct Rangel :	15.060439779775294
+advmod equal More	15.060439779775294
+dep Rangel military	15.060439779775294
+punct Rangel ?-6) root(ROOT-0, Bring	15.060439779775294
+compound #usaf draft	15.060439779775294
+compound #usaf #deployment	15.060439779775294
+dobj Bring #usaf	15.060439779775294
+dobj Bring #military	15.060439779775294
+amod military equal	14.367292599215348
+compound:prt Bring back	13.961827491107185

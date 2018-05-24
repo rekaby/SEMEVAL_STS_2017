@@ -1,0 +1,11 @@
+stood	shaved	conj:and
+mirror	the	det
+blade	with	case
+blade	disposable	amod
+blade	a	det
+mirror	in	case
+shaved	blade	nmod:with
+blade	razor	compound
+stood	mirror	nmod:in_front_of
+stood	who	nsubj
+man	stood	acl:relcl

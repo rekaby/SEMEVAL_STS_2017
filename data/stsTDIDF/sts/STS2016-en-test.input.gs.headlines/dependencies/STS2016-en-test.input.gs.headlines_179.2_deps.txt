@@ -1,0 +1,6 @@
+compound	refugees	Turkey
+punct	refugees	`
+nmod:poss	refugees	exploits
+case	exploits	'
+amod	refugees	Syrian
+root	ROOT	refugees

@@ -1,0 +1,6 @@
+presents	Christmas	compound
+presents	all	det:predet
+presents	his	nmod:poss
+finished	boy	nsubj
+finished	opening	xcomp
+opening	presents	dobj

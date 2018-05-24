@@ -1,0 +1,7 @@
+det	activity	the
+root	ROOT	activity
+mark	examining	of
+acl	activity	examining
+cc	examining	or
+conj:or	examining	assessing
+dobj	examining	something

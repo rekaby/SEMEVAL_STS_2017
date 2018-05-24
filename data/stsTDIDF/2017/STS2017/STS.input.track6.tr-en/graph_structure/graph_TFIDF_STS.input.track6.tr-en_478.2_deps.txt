@@ -1,0 +1,11 @@
+train	speed	compound
+turns	around	advmod
+crosses	curve	dobj
+crosses	train	nsubj
+crosses	turns	conj:and
+turns	people	dobj
+ROOT	crosses	root
+curve	a	det
+crosses	.	punct
+crosses	and	cc
+train	The	det

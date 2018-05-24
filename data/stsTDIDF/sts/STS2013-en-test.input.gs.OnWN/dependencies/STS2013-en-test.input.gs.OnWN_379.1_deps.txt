@@ -1,0 +1,5 @@
+amod	heels	put
+root	ROOT	heels
+case	shoe	on
+det	shoe	a
+nmod:on	heels	shoe

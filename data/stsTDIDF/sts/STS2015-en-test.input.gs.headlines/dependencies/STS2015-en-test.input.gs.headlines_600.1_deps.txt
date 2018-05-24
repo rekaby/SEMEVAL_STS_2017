@@ -1,0 +1,6 @@
+compound	Forces	Israel
+nsubj	Kill	Forces
+root	ROOT	Kill
+nummod	Militants	2
+amod	Militants	Palestinian
+dobj	Kill	Militants

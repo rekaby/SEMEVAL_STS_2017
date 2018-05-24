@@ -1,0 +1,12 @@
+compound	smugglers	arms
+nsubjpass	eliminated	smugglers
+cc	smugglers	and
+compound	cartels	drug
+conj:and	smugglers	cartels
+aux	eliminated	must
+auxpass	eliminated	be
+root	ROOT	eliminated
+case	asia	from
+amod	asia	southeast
+nmod:from	eliminated	asia
+punct	eliminated	.

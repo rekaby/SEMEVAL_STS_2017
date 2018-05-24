@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	snowman	girl
+cop	snowman	is
+case	snowman	with
+det	snowman	a
+root	ROOT	snowman
+punct	snowman	.

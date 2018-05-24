@@ -1,0 +1,15 @@
+root	ROOT	put
+det	coat	a
+dobj	put	coat
+nmod	put	on
+punct	put	;
+parataxis	put	cover
+det	surface	the
+dobj	cover	surface
+acl	surface	of
+punct	cover	;
+dep	cover	furnish
+case	surface	with
+det	surface	a
+nmod:with	furnish	surface
+punct	put	.

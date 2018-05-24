@@ -1,0 +1,8 @@
+jersey	in	case
+plays	team	nmod:on
+plays	boy	nsubj
+team	soccer	compound
+plays	goalie	dobj
+jersey	the	det
+boy	jersey	nmod:in
+jersey	green	amod

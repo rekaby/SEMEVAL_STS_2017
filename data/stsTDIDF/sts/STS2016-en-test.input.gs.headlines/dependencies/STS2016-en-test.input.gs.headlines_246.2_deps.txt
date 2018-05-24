@@ -1,0 +1,8 @@
+nsubj	waiting	Obama
+root	ROOT	waiting
+case	midterm	for
+nmod:for	waiting	midterm
+mark	name	to
+acl	midterm	name
+compound	general	attorney
+dobj	name	general

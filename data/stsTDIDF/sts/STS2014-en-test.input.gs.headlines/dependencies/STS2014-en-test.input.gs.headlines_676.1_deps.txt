@@ -1,0 +1,9 @@
+nsubj	canceled	Voting
+root	ROOT	canceled
+case	provinces	in
+nummod	provinces	three
+nmod:in	canceled	provinces
+case	election	in
+amod	election	tense
+compound	election	Thai
+nmod:in	canceled	election

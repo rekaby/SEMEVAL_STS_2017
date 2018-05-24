@@ -1,0 +1,25 @@
+root	ROOT	What
+det	loss	a
+nsubj	What	loss
+case	mind	of
+det	mind	a
+amod	mind	great
+cc	great	&
+conj:&	great	inspirational
+nmod:of	loss	mind
+punct	What	!-10) compound(Activist-2, Internet
+nsubj	Dead	Activist
+punct	Activist	,
+det	Creator	a
+appos	Activist	Creator
+case	RSS	of
+nmod:of	Creator	RSS
+punct	Activist	,
+cop	Dead	Is
+root	ROOT	Dead
+case	26	at
+nmod:at	Dead	26
+punct	Dead	,
+advmod	Suicide	Apparently
+det	Suicide	a
+dep	Dead	Suicide

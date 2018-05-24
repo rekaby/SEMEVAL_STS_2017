@@ -1,0 +1,10 @@
+root	ROOT	exercise
+punct	exercise	,
+cc	exercise	or
+conj:or	exercise	have
+det	power	the
+dobj	have	power
+case	memory	of
+punct	memory	,
+nmod:of	power	memory
+punct	exercise	.

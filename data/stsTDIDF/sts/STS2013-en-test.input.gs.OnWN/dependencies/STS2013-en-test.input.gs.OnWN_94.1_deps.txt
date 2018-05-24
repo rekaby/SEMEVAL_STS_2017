@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	putting	of
+acl	act	putting
+det	preparation	a
+dobj	putting	preparation
+case	something	on
+nmod:on	putting	something
+punct	act	.

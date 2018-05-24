@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	other	woman
+cc	woman	and
+det	man	the
+conj:and	woman	man
+cop	other	are
+case	other	close
+mwe	close	to
+det	other	each
+root	ROOT	other
+punct	other	.

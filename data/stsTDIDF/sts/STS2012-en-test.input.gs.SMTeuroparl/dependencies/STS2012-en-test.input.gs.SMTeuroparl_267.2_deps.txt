@@ -1,0 +1,10 @@
+nsubj	separate	Others
+root	ROOT	separate
+dobj	separate	themselves
+advmod	separate	unfortunately
+case	grudge	because
+mwe	because	of
+det	grudge	an
+amod	grudge	amassed
+nmod:because_of	separate	grudge
+punct	separate	.

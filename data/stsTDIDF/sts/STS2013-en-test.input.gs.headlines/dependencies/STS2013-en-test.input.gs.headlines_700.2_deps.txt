@@ -1,0 +1,8 @@
+root	ROOT	Bombings
+punct	Bombings	,
+appos	Bombings	clashes
+mark	seeks	as
+compound	opposition	Syria
+nsubj	seeks	opposition
+advcl	clashes	seeks
+dobj	seeks	arms

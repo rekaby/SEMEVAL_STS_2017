@@ -1,0 +1,7 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	feeding
+det	hay	a
+compound	hay	sheep
+dobj	feeding	hay
+punct	boy	.

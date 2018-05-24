@@ -1,0 +1,8 @@
+nummod	rides	One
+root	ROOT	rides
+det	bicycle	a
+dep	rides	bicycle
+case	garden	in
+det	garden	a
+nmod:in	bicycle	garden
+punct	rides	.

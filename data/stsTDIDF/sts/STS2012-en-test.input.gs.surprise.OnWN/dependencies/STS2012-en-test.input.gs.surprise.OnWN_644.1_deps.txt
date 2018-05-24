@@ -1,0 +1,10 @@
+det	address	Any
+root	ROOT	address
+case	which	at
+nmod:at	address	which
+nummod	dwells	one
+dep	which	dwells
+advmod	temporarily	more
+case	temporarily	than
+advmod	dwells	temporarily
+punct	address	.

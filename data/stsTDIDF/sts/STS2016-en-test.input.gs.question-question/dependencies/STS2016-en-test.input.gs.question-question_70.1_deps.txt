@@ -1,0 +1,10 @@
+det	type	What
+nsubj	good	type
+case	pants	of
+nmod:of	type	pants
+cop	good	are
+root	ROOT	good
+case	lifting	for
+compound	lifting	weight
+nmod:for	good	lifting
+punct	good	?

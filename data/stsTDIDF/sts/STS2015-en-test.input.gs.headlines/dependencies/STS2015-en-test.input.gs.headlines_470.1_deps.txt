@@ -1,0 +1,8 @@
+nsubj	collapse	Bangladesh
+root	ROOT	collapse
+dobj	collapse	search
+advmod	search	over
+punct	collapse	;
+compound	toll	death
+dep	collapse	toll
+nummod	toll	1,127

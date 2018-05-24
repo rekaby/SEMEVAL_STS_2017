@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	powdering	woman
+aux	powdering	is
+root	ROOT	powdering
+nmod:poss	face	her
+dobj	powdering	face
+punct	powdering	.

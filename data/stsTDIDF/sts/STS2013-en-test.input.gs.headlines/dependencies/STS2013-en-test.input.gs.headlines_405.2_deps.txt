@@ -1,0 +1,9 @@
+nsubj	offers	US
+root	ROOT	offers
+dobj	offers	$
+compound	million	10
+nummod	$	million
+case	militant	for
+amod	militant	Pakistani
+nmod:for	offers	militant
+dep	militant	chief

@@ -1,0 +1,8 @@
+compound	Schooling	Opinionator
+nummod	Schooling	|
+root	ROOT	Schooling
+punct	Schooling	:
+det	Duet	The
+compound	Duet	Dicey
+compound	Duet	Parent-Teacher
+dep	Schooling	Duet

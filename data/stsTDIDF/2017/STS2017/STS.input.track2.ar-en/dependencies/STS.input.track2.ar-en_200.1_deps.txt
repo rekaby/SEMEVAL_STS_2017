@@ -1,0 +1,8 @@
+det	trees	The
+nsubj	had	trees
+root	ROOT	had
+det	dog	a
+dobj	had	dog
+case	them	near
+nmod:near	dog	them
+punct	had	.

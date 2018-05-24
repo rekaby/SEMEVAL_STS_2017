@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	brown
+nsubj	shakes	dog
+root	ROOT	shakes
+compound:prt	shakes	off
+dobj	shakes	water
+mark	exiting	after
+advcl	shakes	exiting
+det	pond	a
+amod	pond	natural
+dobj	exiting	pond
+punct	shakes	.

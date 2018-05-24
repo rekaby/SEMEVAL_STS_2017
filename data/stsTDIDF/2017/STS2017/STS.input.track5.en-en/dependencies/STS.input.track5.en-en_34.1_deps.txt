@@ -1,0 +1,6 @@
+det	person	A
+root	ROOT	person
+acl	person	filming
+det	outdoors	the
+dobj	filming	outdoors
+punct	person	.

@@ -1,0 +1,11 @@
+compound	workers	Construction
+nsubj	using	workers
+aux	using	are
+root	ROOT	using
+dobj	using	tools
+mark	work	to
+advcl	using	work
+case	tunnel	in
+det	tunnel	the
+nmod:in	work	tunnel
+punct	using	.

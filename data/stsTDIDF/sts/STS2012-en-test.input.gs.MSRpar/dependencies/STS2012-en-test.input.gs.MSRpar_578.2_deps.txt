@@ -1,0 +1,12 @@
+nmod:poss	attorneys	Plaintiffs
+case	Plaintiffs	'
+nsubj	get	attorneys
+aux	get	would
+root	ROOT	get
+dobj	get	$
+compound	million	4.1
+nummod	$	million
+case	settlement	of
+det	settlement	the
+nmod:of	$	settlement
+punct	get	.

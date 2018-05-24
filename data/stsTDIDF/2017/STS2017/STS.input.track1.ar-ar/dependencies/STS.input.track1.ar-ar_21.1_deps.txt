@@ -1,0 +1,8 @@
+root	ROOT	Read
+det	child	a
+dobj	Read	child
+det	book	a
+dep	child	book
+case	dogs	about
+nmod:about	book	dogs
+punct	Read	.

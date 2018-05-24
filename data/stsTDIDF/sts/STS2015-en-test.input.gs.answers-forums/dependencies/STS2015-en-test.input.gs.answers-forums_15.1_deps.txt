@@ -1,0 +1,15 @@
+nsubj	answer	This
+aux	answer	does
+neg	answer	not
+advmod	answer	fully
+root	ROOT	answer
+nmod:poss	question	your
+dobj	answer	question
+punct	answer	,
+cc	answer	but
+nsubj	consideration	it
+cop	consideration	is
+advmod	one	certainly
+nummod	consideration	one
+conj:but	answer	consideration
+punct	answer	.

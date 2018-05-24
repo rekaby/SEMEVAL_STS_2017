@@ -1,0 +1,6 @@
+det	child	A
+nsubj	plays	child
+root	ROOT	plays
+compound	hop	Bhola
+dobj	plays	hop
+punct	plays	.

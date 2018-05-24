@@ -1,0 +1,12 @@
+case	standing	Than
+compound	standing	horse
+root	ROOT	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+case	fence	in
+mwe	in	front
+mwe	in	of
+det	fence	a
+nmod:in_front_of	field	fence
+punct	standing	.

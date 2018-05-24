@@ -1,0 +1,8 @@
+root	ROOT	Teenagers
+case	dead	among
+nummod	dead	5
+nmod:among	Teenagers	dead
+case	crash	in
+amod	crash	Belgian
+compound	crash	bus
+nmod:in	dead	crash

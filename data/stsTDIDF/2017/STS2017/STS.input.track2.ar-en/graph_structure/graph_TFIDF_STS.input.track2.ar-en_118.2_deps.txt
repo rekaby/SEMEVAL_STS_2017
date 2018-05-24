@@ -1,0 +1,7 @@
+men	talking	acl
+talking	balcony	nmod:in
+balcony	the	det
+man	with	case
+talking	man	nmod:with
+man	another	det
+balcony	in	case

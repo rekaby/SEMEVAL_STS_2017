@@ -1,0 +1,10 @@
+nsubjpass	seperated	terminal
+compound	6	1
+cc	1	and
+conj:and	1	terminal
+nummod	terminal	6
+auxpass	seperated	are
+root	ROOT	seperated
+case	gap	by
+det	gap	a
+nmod:agent	seperated	gap

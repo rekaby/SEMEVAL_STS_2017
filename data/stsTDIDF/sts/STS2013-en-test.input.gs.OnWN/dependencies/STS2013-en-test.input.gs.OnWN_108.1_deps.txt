@@ -1,0 +1,6 @@
+det	scent	the
+root	ROOT	scent
+cc	scent	or
+conj:or	scent	odor
+case	something	of
+nmod:of	scent	something

@@ -1,0 +1,14 @@
+det	boy	The
+amod	boy	little
+nsubj	getting	boy
+aux	getting	is
+root	ROOT	getting
+xcomp	getting	dirty
+mark	climbs	while
+nsubj	climbs	he
+advcl	getting	climbs
+case	limb	on
+det	limb	the
+compound	limb	tree
+nmod:on	climbs	limb
+punct	getting	.

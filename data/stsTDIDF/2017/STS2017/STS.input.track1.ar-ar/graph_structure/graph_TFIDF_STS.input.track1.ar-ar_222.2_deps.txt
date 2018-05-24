@@ -1,0 +1,4 @@
+keratosis	women	nsubj
+keratosis	train	nmod:on
+train	on	case
+ROOT	keratosis	root

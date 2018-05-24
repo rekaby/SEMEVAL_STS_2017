@@ -1,0 +1,10 @@
+nsubj	seeks	US
+root	ROOT	seeks
+mark	reassure	to
+xcomp	seeks	reassure
+amod	allies	wary
+compound	allies	Gulf
+dobj	reassure	allies
+case	Iran	over
+nmod:over	reassure	Iran
+dobj	seeks	deal

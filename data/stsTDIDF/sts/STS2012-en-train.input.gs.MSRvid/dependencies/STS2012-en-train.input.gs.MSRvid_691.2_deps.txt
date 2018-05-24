@@ -1,0 +1,8 @@
+det	man	A
+nsubj	working	man
+aux	working	is
+root	ROOT	working
+case	laptop	on
+nmod:poss	laptop	his
+nmod:on	working	laptop
+punct	working	.

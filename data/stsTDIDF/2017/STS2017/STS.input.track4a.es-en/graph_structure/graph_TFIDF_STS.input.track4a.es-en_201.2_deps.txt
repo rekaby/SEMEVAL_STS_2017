@@ -1,0 +1,6 @@
+snorkeling	is	aux
+snorkeling	man	nsubj
+ROOT	snorkeling	root
+snorkeling	.	punct
+ocean	in	case
+snorkeling	ocean	nmod:in

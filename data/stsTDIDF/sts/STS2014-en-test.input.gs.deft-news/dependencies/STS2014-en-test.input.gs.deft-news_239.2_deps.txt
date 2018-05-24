@@ -1,0 +1,12 @@
+nsubj	available	godzhayev
+cc	godzhayev	and
+nmod:poss	lawyers	godzhayev
+case	godzhayev	's
+conj:and	godzhayev	lawyers
+cop	available	were
+neg	available	not
+advmod	available	immediately
+root	ROOT	available
+mark	comment	to
+xcomp	available	comment
+punct	available	.

@@ -1,0 +1,8 @@
+preparing	pan	nmod:in
+pan	in	case
+women	kitchen	nmod:in
+preparing	women	nsubj
+pan	frying	amod
+preparing	vegetables	dobj
+preparing	are	aux
+vegetables	the	det

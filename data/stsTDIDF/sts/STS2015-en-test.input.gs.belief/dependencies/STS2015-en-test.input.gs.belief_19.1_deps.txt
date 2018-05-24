@@ -1,0 +1,8 @@
+det	point	what
+dep	trying	point
+aux	trying	are
+nsubj	trying	you
+root	ROOT	trying
+mark	relay	to
+xcomp	trying	relay
+punct	trying	?

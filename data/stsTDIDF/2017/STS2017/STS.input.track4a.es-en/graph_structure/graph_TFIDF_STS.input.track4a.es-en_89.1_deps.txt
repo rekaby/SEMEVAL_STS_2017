@@ -1,0 +1,5 @@
+lift	ski	compound
+lift	on	case
+lift	the	det
+sitting	lift	nmod:on
+sitting	women	nsubj

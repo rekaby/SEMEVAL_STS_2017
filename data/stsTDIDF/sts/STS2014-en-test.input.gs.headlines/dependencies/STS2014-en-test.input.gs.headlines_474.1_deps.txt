@@ -1,0 +1,7 @@
+nummod	firefighters	Two
+nsubj	ambush	firefighters
+acl	firefighters	killed
+case	York	in
+compound	York	New
+nmod:in	killed	York
+root	ROOT	ambush

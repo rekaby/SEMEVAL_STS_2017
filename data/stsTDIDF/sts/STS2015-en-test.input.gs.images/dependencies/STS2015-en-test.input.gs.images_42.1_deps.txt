@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	watch	woman
+conj:and	man	watch
+nummod	dogs	two
+dobj	watch	dogs
+punct	man	.

@@ -1,0 +1,13 @@
+aux	hook	Does
+nmod:poss	story	my
+nsubj	hook	story
+amod	hook	beginning
+root	ROOT	hook
+det	reader	the
+dobj	hook	reader
+punct	hook	?-8) punct(dialogue-2, -LRB-
+root	ROOT	dialogue
+cc	dialogue	+
+conj:+	dialogue	narration
+punct	dialogue	-RRB-
+punct	dialogue	?

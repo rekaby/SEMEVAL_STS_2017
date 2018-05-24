@@ -1,0 +1,6 @@
+nsubj	add	Stones
+root	ROOT	add
+amod	concert	second
+compound	concert	Hyde
+compound	concert	Park
+dobj	add	concert

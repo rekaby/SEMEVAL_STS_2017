@@ -1,0 +1,13 @@
+mark	path	Because
+compound	A	bulb
+nsubj	path	A
+cop	path	is
+case	path	on
+det	path	a
+amod	path	different
+root	ROOT	path
+case	B	than
+compound	B	bulbs
+nmod:than	path	B
+cc	B	and
+conj:and	B	C

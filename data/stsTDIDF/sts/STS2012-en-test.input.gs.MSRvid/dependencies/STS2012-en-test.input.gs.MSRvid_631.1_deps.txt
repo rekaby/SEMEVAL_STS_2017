@@ -1,0 +1,10 @@
+det	cat	A
+nsubj	sliding	cat
+aux	sliding	is
+root	ROOT	sliding
+advmod	down	upside
+compound:prt	sliding	down
+case	couch	under
+det	couch	a
+nmod:under	sliding	couch
+punct	sliding	.

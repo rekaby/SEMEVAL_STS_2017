@@ -1,0 +1,6 @@
+ROOT	dogs	root
+dogs	The	det
+dogs	are	dep
+alone	forest	nmod:in
+forest	in	case
+dogs	.	punct

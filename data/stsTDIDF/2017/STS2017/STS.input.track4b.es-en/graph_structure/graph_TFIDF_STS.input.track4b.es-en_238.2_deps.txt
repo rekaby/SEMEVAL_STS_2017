@@ -1,0 +1,15 @@
+institution	educational	amod
+institution	in	case
+subject	institution	nmod:in
+type	this	det
+not	years	dep
+intimidation	virulence	conj:and
+subject	type	nmod:to
+type	intimidation	nmod:of
+intimidation	and	cc
+intimidation	of	case
+institution	an	det
+type	to	case
+years	subject	conj:and
+not	But	cc
+subject	should	aux

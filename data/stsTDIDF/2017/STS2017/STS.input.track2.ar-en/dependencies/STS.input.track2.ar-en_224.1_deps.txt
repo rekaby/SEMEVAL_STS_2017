@@ -1,0 +1,7 @@
+det	man	The
+nsubj	library	man
+cop	library	is
+det	library	a
+det	library	the
+root	ROOT	library
+punct	library	.

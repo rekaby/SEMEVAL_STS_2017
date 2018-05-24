@@ -1,0 +1,20 @@
+nsubj	unveils	Nike
+root	ROOT	unveils
+compound	McIlroy	Rory
+dobj	unveils	McIlroy
+mark	apparent	as
+nmod:poss	heir	Tiger
+case	Tiger	's
+nsubj	apparent	heir
+dep	McIlroy	apparent
+punct	unveils	.-10) amod(deal-4, $
+nummod	$	200
+compound	deal	mil
+root	ROOT	deal
+nummod	deal	?!?-5) root(ROOT-0, Makes
+neg	sense	no
+compound	sense	business
+dobj	Makes	sense
+case	me	to
+nmod:to	Makes	me
+punct	Makes	.

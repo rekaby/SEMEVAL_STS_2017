@@ -1,0 +1,13 @@
+mark	connected	that
+det	terminal	the
+compound	terminal	bulb
+nsubjpass	connected	terminal
+auxpass	connected	is
+advmod	connected	only
+root	ROOT	connected
+case	one	to
+nmod:to	connected	one
+case	terminals	of
+det	terminals	the
+compound	terminals	battery
+nmod:of	one	terminals

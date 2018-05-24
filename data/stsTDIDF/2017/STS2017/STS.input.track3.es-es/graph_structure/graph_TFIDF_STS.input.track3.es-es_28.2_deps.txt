@@ -1,0 +1,13 @@
+paint	girl	nsubj
+standing	girls	nmod:next_to
+umbrella	red	amod
+umbrella	a	det
+girls	next	case
+umbrella	and	cc
+umbrella	with	case
+paint	standing	xcomp
+paint	.	punct
+girl	umbrella	nmod:with
+ROOT	paint	root
+umbrella	face	conj:and
+girls	other	amod

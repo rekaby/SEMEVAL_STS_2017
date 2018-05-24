@@ -1,0 +1,13 @@
+mark	catch	to
+root	ROOT	catch
+conj:or	catch	catch
+case	trap	in
+cc	in	or
+conj:or	in	as
+mark	trap	if
+case	trap	in
+det	trap	a
+nmod:as	catch	trap
+nmod:in	catch	trap
+punct	catch	;
+parataxis	catch	immobilize

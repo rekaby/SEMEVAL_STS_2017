@@ -1,0 +1,13 @@
+det	cow	A
+amod	cow	brown
+cc	brown	and
+conj:and	brown	white
+root	ROOT	cow
+case	field	in
+det	field	a
+nmod:in	cow	field
+acl	field	looking
+case	camera	into
+det	camera	the
+nmod:into	looking	camera
+punct	cow	.

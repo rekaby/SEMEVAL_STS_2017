@@ -1,0 +1,12 @@
+nsubj	served	Selenski
+aux	served	had
+root	ROOT	served
+case	years	about
+nummod	years	seven
+nmod:about	served	years
+case	prison	in
+nmod:in	years	prison
+case	robbery	for
+compound	robbery	bank
+nmod:for	years	robbery
+punct	served	.

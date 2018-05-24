@@ -1,0 +1,15 @@
+nsubj	have	RIP
+dobj	RIP	I
+root	ROOT	have
+neg	words	no
+dobj	have	words
+amod	words	:-LRB-
+case	least	At
+nmod:npmod	245	least
+dep	:-LRB-	245
+acl	245	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	have	-

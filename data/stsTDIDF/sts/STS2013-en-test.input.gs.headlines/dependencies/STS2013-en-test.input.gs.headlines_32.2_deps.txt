@@ -1,0 +1,8 @@
+compound	Lantern	Green
+root	ROOT	Lantern
+mark	relaunched	to
+auxpass	relaunched	be
+acl	Lantern	relaunched
+case	superhero	as
+amod	superhero	gay
+nmod:as	relaunched	superhero

@@ -1,0 +1,7 @@
+compound	Strike	U.S.
+compound	Strike	Drone
+nsubj	Kills	Strike
+root	ROOT	Kills
+dobj	Kills	3
+case	Pakistan	in
+nmod:in	3	Pakistan

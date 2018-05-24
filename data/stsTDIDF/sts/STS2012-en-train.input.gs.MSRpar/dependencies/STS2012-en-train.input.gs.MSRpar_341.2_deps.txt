@@ -1,0 +1,12 @@
+det	company	The
+nmod:poss	executive	company
+case	company	's
+amod	executive	chief
+nsubj	retired	executive
+root	ROOT	retired
+cc	retired	and
+amod	officer	chief
+amod	officer	financial
+nsubj	resigned	officer
+conj:and	retired	resigned
+punct	retired	.

@@ -1,0 +1,11 @@
+root	ROOT	Opinion
+punct	Opinion	:
+case	Prep	At
+compound	Prep	Poly
+nmod:at	Opinion	Prep
+punct	Prep	,
+det	Pedophile	a
+appos	Prep	Pedophile
+case	Plain	in
+nmod:in	Pedophile	Plain
+dep	Pedophile	Sight

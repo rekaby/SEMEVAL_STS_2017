@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	plays	boy
+root	ROOT	plays
+case	toy	with
+det	toy	a
+compound	toy	foam
+amod	toy	noodle
+nmod:with	plays	toy
+case	pool	by
+det	pool	a
+nmod:by	plays	pool
+punct	plays	.

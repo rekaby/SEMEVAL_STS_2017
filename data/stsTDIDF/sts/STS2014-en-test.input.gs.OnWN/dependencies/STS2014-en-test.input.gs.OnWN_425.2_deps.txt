@@ -1,0 +1,6 @@
+root	ROOT	bring
+case	state	into
+det	state	a
+amod	state	different
+nmod:into	bring	state
+punct	bring	.

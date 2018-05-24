@@ -1,0 +1,7 @@
+root	ROOT	Fortunes
+case	Hinge	of
+compound	Hinge	Facebook
+compound	Hinge	May
+nmod:of	Fortunes	Hinge
+case	Searches	on
+nmod:on	Fortunes	Searches

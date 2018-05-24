@@ -1,0 +1,11 @@
+nsubj	killed	18
+root	ROOT	killed
+punct	killed	,
+dep	killed	108
+acl	108	wounded
+case	wave	in
+nmod:in	wounded	wave
+case	bombings	of
+nmod:of	wave	bombings
+case	Iraq	in
+nmod:in	wounded	Iraq

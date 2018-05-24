@@ -1,0 +1,12 @@
+nsubj	bothering	Something
+aux	bothering	is
+root	ROOT	bothering
+nmod:poss	cat	your
+dobj	bothering	cat
+cc	bothering	and
+nsubj	like	he
+aux	like	does
+neg	like	not
+conj:and	bothering	like
+dobj	like	it
+punct	bothering	.

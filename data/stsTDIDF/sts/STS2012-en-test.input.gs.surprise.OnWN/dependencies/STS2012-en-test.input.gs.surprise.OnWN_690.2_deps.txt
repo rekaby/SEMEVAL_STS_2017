@@ -1,0 +1,8 @@
+root	ROOT	cook
+case	surface	on
+det	surface	a
+amod	surface	hot
+nmod:on	cook	surface
+acl	surface	using
+dobj	using	fat
+punct	cook	.

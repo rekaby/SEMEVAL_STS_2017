@@ -1,0 +1,5 @@
+smokes	man	nsubj
+smokes	cigarette	dobj
+smokes	.	punct
+cigarette	a	det
+ROOT	smokes	root

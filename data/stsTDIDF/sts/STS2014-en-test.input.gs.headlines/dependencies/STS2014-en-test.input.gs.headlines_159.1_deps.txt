@@ -1,0 +1,7 @@
+compound	Sloot	Van
+compound	Sloot	der
+root	ROOT	Sloot
+mark	Marry	to
+acl	Sloot	Marry
+case	Prison	in
+nmod:in	Marry	Prison

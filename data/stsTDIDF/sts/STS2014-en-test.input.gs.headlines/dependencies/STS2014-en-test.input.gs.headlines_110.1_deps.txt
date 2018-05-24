@@ -1,0 +1,6 @@
+nsubj	declared	Mugabe
+root	ROOT	declared
+dobj	declared	winner
+case	elections	of
+amod	elections	disputed
+nmod:of	winner	elections

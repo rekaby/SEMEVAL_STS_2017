@@ -1,0 +1,9 @@
+nsubj	Approves	Israel
+root	ROOT	Approves
+compound	Ahead	New
+compound	Ahead	Settlement
+compound	Ahead	Homes
+nsubj	Talks	Ahead
+case	Peace	of
+nmod:of	Ahead	Peace
+ccomp	Approves	Talks

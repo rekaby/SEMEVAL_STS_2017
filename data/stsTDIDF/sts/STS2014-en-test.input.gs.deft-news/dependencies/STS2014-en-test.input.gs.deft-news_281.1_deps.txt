@@ -1,0 +1,12 @@
+nmod:poss	laboratory	korobeynichev
+case	korobeynichev	's
+nsubj	worked	laboratory
+root	ROOT	worked
+case	laboratory	with
+det	laboratory	the
+amod	laboratory	u.s.
+compound	laboratory	lawrence
+compound	laboratory	livermore
+amod	laboratory	national
+nmod:with	worked	laboratory
+punct	worked	.

@@ -1,0 +1,13 @@
+nsubj	paves	This
+root	ROOT	paves
+det	way	the
+dobj	paves	way
+acl	way	for
+dep	for	the
+case	Rules	of
+det	Rules	the
+nmod:of	the	Rules
+case	Procedure	of
+nmod:of	Rules	Procedure
+advmod	Procedure	here
+punct	paves	.

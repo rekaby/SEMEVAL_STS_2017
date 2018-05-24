@@ -1,0 +1,10 @@
+ROOT	shaving	root
+shaving	razor	nmod:with
+shaving	.	punct
+mirror	a	det
+shaving	Man	compound
+razor	mirror	nmod:with
+razor	with	case
+razor	a	det
+razor	Gillette	compound
+mirror	with	case

@@ -1,0 +1,17 @@
+det	man	a
+amod	man	young
+root	ROOT	man
+acl	man	wearing
+det	t-shirt	a
+amod	t-shirt	white
+dobj	wearing	t-shirt
+cc	t-shirt	and
+amod	shorts	green
+cc	green	and
+conj:and	green	black
+conj:and	t-shirt	shorts
+acl	t-shirt	standing
+case	stump	on
+det	stump	a
+nmod:on	standing	stump
+punct	man	.

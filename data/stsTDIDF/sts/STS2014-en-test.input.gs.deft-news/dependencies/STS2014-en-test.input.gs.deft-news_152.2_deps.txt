@@ -1,0 +1,16 @@
+mark	adopted	since
+nummod	mexico	2006
+nsubj	adopted	mexico
+aux	adopted	has
+root	ROOT	adopted
+det	series	a
+dobj	adopted	series
+case	measures	of
+nmod:of	series	measures
+case	trafficking	against
+compound	trafficking	drug
+nmod:against	measures	trafficking
+cc	trafficking	and
+amod	crimes	organized
+conj:and	trafficking	crimes
+punct	adopted	.

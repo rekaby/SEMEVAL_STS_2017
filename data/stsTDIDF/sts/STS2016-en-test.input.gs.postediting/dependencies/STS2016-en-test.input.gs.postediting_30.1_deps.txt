@@ -1,0 +1,7 @@
+compound	Impact	Soccer
+punct	Impact	-
+det	Impact	The
+root	ROOT	Impact
+case	semi-finals	in
+det	semi-finals	the
+nmod:in	Impact	semi-finals

@@ -1,0 +1,9 @@
+nsubj	walking	People
+aux	walking	are
+root	ROOT	walking
+case	market	through
+det	market	a
+compound	market	Christmas
+amod	market	themed
+nmod:through	walking	market
+punct	walking	.

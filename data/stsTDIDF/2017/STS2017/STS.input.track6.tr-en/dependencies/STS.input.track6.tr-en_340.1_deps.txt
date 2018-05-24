@@ -1,0 +1,12 @@
+det	man	A
+nsubj	jumping	man
+case	shoes	with
+amod	shoes	green
+nmod:with	man	shoes
+aux	jumping	is
+root	ROOT	jumping
+mark	catch	to
+xcomp	jumping	catch
+det	frisbee	a
+dobj	catch	frisbee
+punct	jumping	.

@@ -1,0 +1,11 @@
+det	coaster	A
+compound	coaster	roller
+nsubj	gone	coaster
+aux	gone	has
+root	ROOT	gone
+det	way	half
+dobj	gone	way
+case	loop	across
+det	loop	the
+nmod:across	way	loop
+punct	gone	.

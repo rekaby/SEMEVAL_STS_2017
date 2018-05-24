@@ -1,0 +1,8 @@
+amod	people	Young
+nsubjpass	engaged	people
+auxpass	engaged	are
+root	ROOT	engaged
+case	game	in
+det	game	a
+nmod:in	engaged	game
+punct	engaged	.

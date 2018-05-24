@@ -1,0 +1,9 @@
+punct	cause	-LRB-
+dep	happen	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	happen
+case	time	at
+det	time	a
+amod	time	later
+nmod:at	happen	time

@@ -1,0 +1,9 @@
+case	Non-equivalence	On
+det	Non-equivalence	the
+nmod:on	Spending	Non-equivalence
+case	Gases	of
+compound	Gases	Greenhouse
+nmod:of	Non-equivalence	Gases
+cc	Gases	and
+conj:and	Gases	Entitlement
+root	ROOT	Spending

@@ -1,0 +1,9 @@
+nsubj	tent	People
+cop	tent	are
+case	tent	in
+det	tent	a
+root	ROOT	tent
+case	wall	by
+det	wall	a
+nmod:by	tent	wall
+punct	tent	.

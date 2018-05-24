@@ -1,0 +1,6 @@
+compound	Bank	Kabul
+nsubj	Heads	Bank
+root	ROOT	Heads
+dobj	Heads	Sentenced
+case	Corruption	for
+nmod:for	Sentenced	Corruption

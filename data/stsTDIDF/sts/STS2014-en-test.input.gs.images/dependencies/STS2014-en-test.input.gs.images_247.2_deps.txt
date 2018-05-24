@@ -1,0 +1,9 @@
+nummod	cows	Five
+nsubj	grazing	cows
+root	ROOT	grazing
+case	snow	in
+det	snow	a
+nmod:in	grazing	snow
+amod	field	covered
+amod	snow	field
+punct	grazing	.

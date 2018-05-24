@@ -1,0 +1,8 @@
+nsubjpass	connected	Terminal
+nummod	Terminal	1
+auxpass	connected	is
+root	ROOT	connected
+mark	terminl	to
+xcomp	connected	terminl
+dobj	terminl	4
+punct	connected	.

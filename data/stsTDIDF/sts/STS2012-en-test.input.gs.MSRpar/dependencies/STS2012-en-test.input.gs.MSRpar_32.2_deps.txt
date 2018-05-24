@@ -1,0 +1,14 @@
+nsubj	storm	It
+cop	storm	is
+det	storm	the
+amod	storm	first
+amod	storm	named
+root	ROOT	storm
+mark	develop	to
+acl	storm	develop
+case	Caribbean	in
+det	Caribbean	the
+nmod:in	develop	Caribbean
+case	December	in
+nmod:in	develop	December
+punct	storm	.

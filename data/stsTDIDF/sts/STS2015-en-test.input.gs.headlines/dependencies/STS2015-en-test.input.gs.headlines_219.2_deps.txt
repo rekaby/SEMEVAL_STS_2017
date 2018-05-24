@@ -1,0 +1,11 @@
+compound	disaster	Sewol
+compound	disaster	ferry
+nsubj	found	disaster
+punct	disaster	:
+dep	disaster	Body
+case	tycoon	of
+amod	Korean	South
+amod	tycoon	Korean
+compound	tycoon	shipping
+nmod:of	Body	tycoon
+root	ROOT	found

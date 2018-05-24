@@ -1,0 +1,7 @@
+crashes	jeep	nsubj
+rocks	onto	case
+ROOT	crashes	root
+crashes	.	punct
+crashes	rocks	nmod:onto
+rocks	some	det
+jeep	The	det

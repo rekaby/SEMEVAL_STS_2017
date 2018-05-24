@@ -1,0 +1,8 @@
+det	children	The
+amod	children	young
+nsubj	listen	children
+root	ROOT	listen
+case	teacher	to
+det	teacher	the
+nmod:to	listen	teacher
+punct	listen	.

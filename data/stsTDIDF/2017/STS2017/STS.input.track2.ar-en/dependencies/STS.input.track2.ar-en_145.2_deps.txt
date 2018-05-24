@@ -1,0 +1,6 @@
+det	player	A
+nsubj	throws	player
+root	ROOT	throws
+det	ball	a
+dobj	throws	ball
+punct	throws	.

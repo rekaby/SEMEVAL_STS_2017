@@ -1,0 +1,16 @@
+root	ROOT	belonging
+conj:or	belonging	belonging
+case	whole	to
+cc	to	or
+conj:or	to	participated
+case	community	in
+case	community	by
+det	community	a
+nmod:by	to	community
+case	whole	as
+det	whole	a
+nmod:as	belonging	whole
+nmod:participated	belonging	whole
+punct	belonging	;
+dep	belonging	public
+punct	belonging	;

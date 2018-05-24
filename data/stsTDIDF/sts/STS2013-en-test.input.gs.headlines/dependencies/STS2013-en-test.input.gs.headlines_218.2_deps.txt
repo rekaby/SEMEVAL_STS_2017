@@ -1,0 +1,7 @@
+amod	forces	Syrian
+nsubj	kill	forces
+root	ROOT	kill
+nummod	protesters	3
+dobj	kill	protesters
+case	Damascus-activists	in
+nmod:in	kill	Damascus-activists

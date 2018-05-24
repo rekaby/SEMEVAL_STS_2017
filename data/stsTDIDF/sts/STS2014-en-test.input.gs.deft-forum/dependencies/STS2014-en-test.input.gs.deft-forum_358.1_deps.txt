@@ -1,0 +1,15 @@
+dep	constitutional	Umm
+punct	Umm	,
+det	states	that
+advmod	clearly	pretty
+advmod	states	clearly
+dep	constitutional	states
+punct	states	,
+punct	constitutional	``
+det	statute	the
+nsubj	constitutional	statute
+cop	constitutional	is
+amod	constitutional	presumed
+root	ROOT	constitutional
+punct	constitutional	.
+punct	constitutional	''

@@ -1,0 +1,11 @@
+det	man	The
+nsubj	standing	man
+cc	man	and
+det	boy	the
+conj:and	man	boy
+aux	standing	are
+root	ROOT	standing
+case	grass	in
+det	grass	the
+nmod:in	standing	grass
+punct	standing	.

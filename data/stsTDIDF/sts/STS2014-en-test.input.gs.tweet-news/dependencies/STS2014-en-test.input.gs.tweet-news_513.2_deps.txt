@@ -1,0 +1,10 @@
+compound	City	Big
+root	ROOT	City
+punct	City	:
+compound	Generation	New
+nsubj	Confronts	Generation
+dep	City	Confronts
+amod	Luxury	Unaffordable
+dobj	Confronts	Luxury
+case	Food	of
+nmod:of	Luxury	Food

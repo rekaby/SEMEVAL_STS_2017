@@ -1,0 +1,8 @@
+amod	police	Turkish
+compound	police	riot
+nsubj	tear	police
+root	ROOT	tear
+compound	Square	gas
+compound	Square	Taksim
+dobj	tear	Square
+dobj	tear	protest

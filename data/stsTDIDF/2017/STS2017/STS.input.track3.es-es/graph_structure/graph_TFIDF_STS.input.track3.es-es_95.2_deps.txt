@@ -1,0 +1,5 @@
+guns	with	case
+group	men	nmod:of
+outside	guns	nmod:with
+ROOT	outside	root
+outside	group	nsubj

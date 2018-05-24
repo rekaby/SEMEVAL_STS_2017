@@ -1,0 +1,7 @@
+ROOT	ground	root
+ground	skier	nsubj
+ground	is	cop
+ground	.	punct
+ground	near	case
+ground	snowy	amod
+skier	The	det

@@ -1,0 +1,6 @@
+holding	dessert	dobj
+standing	man	nsubj
+standing	holding	conj:and
+dessert	frozen	amod
+standing	and	cc
+dessert	a	det

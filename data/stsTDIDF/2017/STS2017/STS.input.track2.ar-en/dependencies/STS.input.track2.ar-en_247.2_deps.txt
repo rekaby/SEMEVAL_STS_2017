@@ -1,0 +1,5 @@
+root	ROOT	Person
+case	umbrella	under
+det	umbrella	the
+nmod:under	Person	umbrella
+punct	Person	.

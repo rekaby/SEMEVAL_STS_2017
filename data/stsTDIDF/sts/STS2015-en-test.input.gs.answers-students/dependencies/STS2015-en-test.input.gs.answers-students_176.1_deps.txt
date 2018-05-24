@@ -1,0 +1,14 @@
+nsubjpass	connected	bulbs
+dep	bulbs	A
+cc	A	and
+conj:and	A	B
+auxpass	connected	are
+advmod	connected	still
+root	ROOT	connected
+case	circuit	to
+det	circuit	the
+amod	circuit	closed
+nmod:to	connected	circuit
+acl	circuit	containing
+det	battery	the
+dobj	containing	battery

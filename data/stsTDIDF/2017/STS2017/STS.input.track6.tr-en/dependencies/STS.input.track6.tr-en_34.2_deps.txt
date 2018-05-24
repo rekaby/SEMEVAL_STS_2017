@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+nsubj	make	who
+acl:relcl	men	make
+amod	faces	funny
+dobj	make	faces
+mark	taking	while
+advcl	make	taking
+dobj	taking	alcohol
+punct	men	.

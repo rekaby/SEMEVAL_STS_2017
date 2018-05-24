@@ -1,0 +1,10 @@
+root	ROOT	Opinion
+punct	Opinion	:
+dep	Opinion	TV
+punct	TV	,
+det	Entertainment	The
+compound	Entertainment	Thinking
+compound	Entertainment	Person?s
+appos	TV	Entertainment
+case	Choice	of
+nmod:of	Entertainment	Choice

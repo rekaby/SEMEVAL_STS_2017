@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	small
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	swimming	dog
+aux	swimming	is
+root	ROOT	swimming
+case	water	in
+nmod:in	swimming	water
+punct	swimming	.

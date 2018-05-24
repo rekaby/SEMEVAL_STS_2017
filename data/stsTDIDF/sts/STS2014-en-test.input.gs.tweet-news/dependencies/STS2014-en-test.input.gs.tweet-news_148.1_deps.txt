@@ -1,0 +1,14 @@
+nsubj	Watching	Worth
+root	ROOT	Watching
+punct	Watching	.-3) punct(Set-2, ``
+root	ROOT	Set
+case	Life	for
+nmod:for	Set	Life
+punct	Set	''
+xcomp	Set	Documenting
+det	Fall	a
+compound	Fall	Generation?s
+dobj	Documenting	Fall
+punct	Set	.-10) amod(#babyboomer-3, #work
+compound	#babyboomer	#unemployment
+root	ROOT	#babyboomer

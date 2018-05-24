@@ -1,0 +1,10 @@
+root	ROOT	go
+case	campaign	on
+det	campaign	a
+nmod:on	go	campaign
+punct	go	;
+parataxis	go	go
+compound:prt	go	off
+case	war	to
+nmod:to	go	war
+punct	go	.

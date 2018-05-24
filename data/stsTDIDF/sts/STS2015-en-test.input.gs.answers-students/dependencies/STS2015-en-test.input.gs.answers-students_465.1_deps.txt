@@ -1,0 +1,6 @@
+nsubj	locate	It
+aux	locate	will
+root	ROOT	locate
+det	gap	the
+dobj	locate	gap
+punct	locate	.

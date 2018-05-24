@@ -1,0 +1,15 @@
+aux	negotiate	Should
+nsubj	negotiate	I
+root	ROOT	negotiate
+mark	offered	if
+nsubjpass	offered	I
+auxpass	offered	'm
+advcl	negotiate	offered
+advmod	asked	more
+mwe	more	than
+dobj	asked	what
+nsubj	asked	I
+advmod	asked	initially
+ccomp	offered	asked
+nmod	asked	for
+punct	negotiate	?

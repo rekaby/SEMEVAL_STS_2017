@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	skating	woman
+aux	skating	is
+root	ROOT	skating
+case	park	in
+det	park	the
+nmod:in	skating	park
+punct	skating	.

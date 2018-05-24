@@ -1,0 +1,9 @@
+nummod	people	two
+root	ROOT	people
+nsubjpass	married	who
+auxpass	married	are
+acl:relcl	people	married
+case	other	to
+det	other	each
+nmod:to	married	other
+punct	people	.

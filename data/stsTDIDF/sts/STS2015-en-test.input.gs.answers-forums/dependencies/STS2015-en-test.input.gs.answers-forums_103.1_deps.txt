@@ -1,0 +1,15 @@
+nsubjpass	classified	Thistle
+auxpass	classified	is
+root	ROOT	classified
+case	weed	as
+det	weed	a
+amod	weed	noxious
+nmod:as	classified	weed
+case	places	in
+amod	places	most
+nmod:in	weed	places
+cc	classified	and
+aux	controlled	must
+auxpass	controlled	be
+conj:and	classified	controlled
+punct	classified	.

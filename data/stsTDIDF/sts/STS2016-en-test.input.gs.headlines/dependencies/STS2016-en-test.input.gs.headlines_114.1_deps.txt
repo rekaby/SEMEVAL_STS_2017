@@ -1,0 +1,9 @@
+compound	plane	Malaysia
+compound	plane	Airlines
+nsubj	crashes	plane
+root	ROOT	crashes
+case	border	on
+compound	border	Ukraine-Russia
+nmod:on	crashes	border
+punct	crashes	-
+dep	crashes	live

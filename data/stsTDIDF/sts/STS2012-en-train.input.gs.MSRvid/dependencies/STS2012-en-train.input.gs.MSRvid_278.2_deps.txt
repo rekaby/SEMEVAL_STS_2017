@@ -1,0 +1,8 @@
+det	guy	A
+nsubj	talking	guy
+aux	talking	is
+root	ROOT	talking
+case	microphone	into
+det	microphone	a
+nmod:into	talking	microphone
+punct	talking	.

@@ -1,0 +1,23 @@
+root	ROOT	Is
+nsubj	Is	it
+case	supply	in
+det	supply	the
+compound	supply	food
+nmod:in	it	supply
+punct	Is	?
+punct	Is	''-8) root(ROOT-0, says
+compound	Ropeik	David
+nsubj	says	Ropeik
+punct	Ropeik	,
+appos	Ropeik	director
+case	communication	of
+compound	communication	risk
+nmod:of	director	communication
+case	Center	at
+det	Center	the
+compound	Center	Harvard
+nmod:at	director	Center
+case	Analysis	for
+compound	Analysis	Risk
+nmod:for	director	Analysis
+punct	says	.

@@ -1,0 +1,12 @@
+det	Exchange	The
+compound	Exchange	Philadelphia
+compound	Exchange	Stock
+nmod:poss	index	Exchange
+case	Exchange	's
+compound	index	semiconductor
+root	ROOT	index
+punct	index	.-8) nsubj(jumped-2, SOXX
+root	ROOT	jumped
+nummod	percent	6.10
+dobj	jumped	percent
+punct	jumped	.

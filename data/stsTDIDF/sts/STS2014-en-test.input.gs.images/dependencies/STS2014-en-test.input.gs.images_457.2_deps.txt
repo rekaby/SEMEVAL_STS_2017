@@ -1,0 +1,14 @@
+det	person	A
+nsubj	sits	person
+acl	person	wearing
+det	helmet	a
+dobj	wearing	helmet
+root	ROOT	sits
+case	bicycle	on
+det	bicycle	a
+nmod:on	sits	bicycle
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	bicycle	day
+punct	sits	.

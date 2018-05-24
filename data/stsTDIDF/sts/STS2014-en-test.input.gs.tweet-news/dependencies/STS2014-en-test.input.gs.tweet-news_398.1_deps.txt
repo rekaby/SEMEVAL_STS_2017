@@ -1,0 +1,24 @@
+root	ROOT	``
+compound	Island	Long
+root	``	Island
+punct	Island	:
+punct	Attack	`
+dep	Island	Attack
+case	Bloodsuckers	of
+det	Bloodsuckers	the
+nmod:of	Attack	Bloodsuckers
+punct	Attack	!
+punct	Island	'-11) case(Museum-7, at
+det	Children	the
+compound	Children	Long
+compound	Children	Island
+nmod:poss	Museum	Children
+case	Children	's
+root	ROOT	Museum
+punct	want	''
+mark	want	if
+nsubj	want	you
+acl	Museum	want
+mark	scare	to
+xcomp	want	scare
+dobj	scare	leo

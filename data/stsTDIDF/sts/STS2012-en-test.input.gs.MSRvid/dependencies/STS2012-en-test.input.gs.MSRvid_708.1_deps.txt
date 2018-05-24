@@ -1,0 +1,9 @@
+det	man	The
+nsubj	sat	man
+root	ROOT	sat
+case	chair	in
+nmod:poss	chair	his
+nmod:in	sat	chair
+cc	sat	and
+conj:and	sat	stared
+punct	sat	.

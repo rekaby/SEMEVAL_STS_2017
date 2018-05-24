@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	lies	dog
+root	ROOT	lies
+case	back	on
+nmod:poss	back	his
+nmod:on	lies	back
+case	floor	on
+det	floor	a
+amod	floor	wooden
+nmod:on	back	floor
+punct	lies	.

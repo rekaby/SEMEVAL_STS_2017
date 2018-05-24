@@ -1,0 +1,10 @@
+root	ROOT	occupied
+amod	territory	Palestinian
+dobj	occupied	territory
+punct	occupied	:
+nsubj	Face	Palestinians
+parataxis	occupied	Face
+det	Route	a
+dobj	Face	Route
+case	Nowhere	to
+nmod:to	Face	Nowhere

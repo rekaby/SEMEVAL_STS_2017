@@ -1,0 +1,12 @@
+root	ROOT	cause
+mark	experience	to
+xcomp	cause	experience
+cc	experience	or
+conj:or	experience	suffer
+cc	experience	or
+conj:or	experience	make
+xcomp	make	liable
+cc	liable	or
+conj:or	liable	vulnerable
+dep	liable	to
+punct	cause	.

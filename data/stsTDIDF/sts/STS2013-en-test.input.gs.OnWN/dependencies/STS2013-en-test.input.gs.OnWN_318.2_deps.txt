@@ -1,0 +1,8 @@
+root	ROOT	time
+case	which	during
+nmod:during	awaited	which
+det	action	some
+nsubjpass	awaited	action
+auxpass	awaited	is
+acl:relcl	time	awaited
+punct	time	.

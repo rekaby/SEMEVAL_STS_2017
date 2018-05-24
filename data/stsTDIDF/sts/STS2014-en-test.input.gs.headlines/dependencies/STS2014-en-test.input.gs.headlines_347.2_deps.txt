@@ -1,0 +1,9 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+dobj	kills	guard
+case	embassy	at
+compound	embassy	US
+nmod:at	guard	embassy
+case	Turkey	in
+nmod:in	kills	Turkey

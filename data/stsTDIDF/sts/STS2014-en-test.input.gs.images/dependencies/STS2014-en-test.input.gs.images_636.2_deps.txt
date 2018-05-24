@@ -1,0 +1,10 @@
+nsubj	perched	Bird
+root	ROOT	perched
+case	flowerpot	on
+det	flowerpot	a
+nmod:on	perched	flowerpot
+case	wall	beside
+det	wall	a
+compound	wall	stucco
+nmod:beside	flowerpot	wall
+punct	perched	.

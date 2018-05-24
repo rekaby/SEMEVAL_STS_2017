@@ -1,0 +1,11 @@
+det	person	A
+nsubj	standing	person
+aux	standing	is
+root	ROOT	standing
+case	overpass	underneath
+det	overpass	an
+nmod:underneath	standing	overpass
+case	highway	near
+det	highway	a
+nmod:near	overpass	highway
+punct	standing	.

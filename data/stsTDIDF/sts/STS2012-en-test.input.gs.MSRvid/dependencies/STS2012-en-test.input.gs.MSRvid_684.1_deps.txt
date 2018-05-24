@@ -1,0 +1,8 @@
+nummod	men	Five
+nsubj	jump	men
+root	ROOT	jump
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	jump	pool
+punct	jump	.

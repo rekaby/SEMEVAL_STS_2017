@@ -1,0 +1,8 @@
+det	car	A
+nsubj	moving	car
+aux	moving	is
+root	ROOT	moving
+case	road	through
+det	road	a
+nmod:through	moving	road
+punct	moving	.

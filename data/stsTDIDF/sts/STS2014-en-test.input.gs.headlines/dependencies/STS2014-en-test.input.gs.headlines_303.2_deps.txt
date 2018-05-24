@@ -1,0 +1,9 @@
+case	least	At
+nmod:npmod	33	least
+root	ROOT	33
+dep	hits	dead
+mark	hits	as
+amod	quake	big
+nsubj	hits	quake
+acl	33	hits
+dobj	hits	Pakistan

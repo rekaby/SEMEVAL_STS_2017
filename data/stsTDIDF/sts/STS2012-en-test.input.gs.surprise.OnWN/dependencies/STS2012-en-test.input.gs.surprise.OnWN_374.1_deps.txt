@@ -1,0 +1,11 @@
+root	ROOT	provide
+punct	person	-LRB-
+det	person	a
+dobj	provide	person
+cc	person	or
+conj:or	person	group
+punct	person	-RRB-
+case	power	with
+nmod:with	person	power
+cc	power	or
+conj:or	power	authority

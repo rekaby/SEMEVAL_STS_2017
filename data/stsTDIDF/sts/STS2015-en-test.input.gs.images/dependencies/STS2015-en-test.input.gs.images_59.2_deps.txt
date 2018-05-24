@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	over
+det	hurdle	a
+dobj	jumping	hurdle
+punct	jumping	.

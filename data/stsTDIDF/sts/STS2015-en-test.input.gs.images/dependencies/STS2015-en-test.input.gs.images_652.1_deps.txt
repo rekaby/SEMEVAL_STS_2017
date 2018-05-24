@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	small
+amod	dog	black
+nsubj	grass	dog
+cop	grass	is
+case	grass	in
+det	grass	the
+root	ROOT	grass
+punct	grass	.

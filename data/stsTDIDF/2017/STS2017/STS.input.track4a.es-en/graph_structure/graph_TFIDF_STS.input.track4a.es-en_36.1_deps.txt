@@ -1,0 +1,8 @@
+shoot	for	case
+posing	building	nmod:outside
+building	outside	case
+building	shoot	nmod:for
+group	posing	acl
+shoot	photo	compound
+shoot	magazine	nmod:of
+shoot	a	det

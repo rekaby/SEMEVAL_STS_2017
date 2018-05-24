@@ -1,0 +1,9 @@
+root	ROOT	fail
+case	strength	in
+nmod:in	fail	strength
+cc	strength	or
+conj:or	strength	health
+cc	fail	and
+conj:and	fail	cease
+case	funtion	to
+nmod:to	cease	funtion

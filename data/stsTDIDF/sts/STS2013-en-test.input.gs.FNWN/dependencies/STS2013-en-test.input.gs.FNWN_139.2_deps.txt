@@ -1,0 +1,8 @@
+root	ROOT	look
+advmod	look	forward
+case	occurrence	to
+det	occurrence	the
+amod	occurrence	probable
+nmod:to	look	occurrence
+acl	occurrence	of
+punct	look	;

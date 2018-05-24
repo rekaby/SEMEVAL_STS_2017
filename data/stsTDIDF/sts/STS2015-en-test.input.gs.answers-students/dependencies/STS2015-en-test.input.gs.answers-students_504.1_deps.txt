@@ -1,0 +1,11 @@
+det	terminal	The
+amod	terminal	positive
+compound	terminal	battery
+nsubjpass	seperated	terminal
+auxpass	seperated	is
+root	ROOT	seperated
+case	terminal	from
+det	terminal	the
+amod	terminal	negative
+compound	terminal	battery
+nmod:from	seperated	terminal

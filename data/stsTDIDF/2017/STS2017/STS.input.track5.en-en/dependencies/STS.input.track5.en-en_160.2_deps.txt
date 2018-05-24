@@ -1,0 +1,16 @@
+amod	men	Several
+nsubj	running	men
+root	ROOT	running
+compound:prt	running	down
+det	field	a
+compound	field	grass
+dobj	running	field
+acl	field	wearing
+dobj	wearing	numbers
+case	front	on
+det	front	the
+nmod:on	wearing	front
+case	shirts	of
+nmod:poss	shirts	their
+nmod:of	front	shirts
+punct	running	.

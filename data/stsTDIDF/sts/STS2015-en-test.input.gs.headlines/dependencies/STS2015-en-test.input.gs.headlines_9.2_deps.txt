@@ -1,0 +1,5 @@
+root	ROOT	Explosion
+case	airport	near
+compound	airport	Damascus
+amod	airport	military
+nmod:near	Explosion	airport

@@ -1,0 +1,8 @@
+det	computer	An
+compound	computer	Apple
+root	ROOT	computer
+acl	computer	sitting
+case	floor	on
+det	floor	the
+nmod:on	sitting	floor
+punct	computer	.

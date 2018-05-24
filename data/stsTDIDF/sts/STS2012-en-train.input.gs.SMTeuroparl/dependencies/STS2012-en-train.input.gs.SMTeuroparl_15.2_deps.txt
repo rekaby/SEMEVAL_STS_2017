@@ -1,0 +1,13 @@
+det	programmes	A
+compound	programmes	budget
+compound	programmes	line
+compound	programmes	finance
+root	ROOT	programmes
+case	clearance	of
+amod	clearance	mine
+nmod:of	programmes	clearance
+cc	clearance	and
+conj:and	clearance	prevention
+case	years	for
+nmod:for	programmes	years
+punct	programmes	.

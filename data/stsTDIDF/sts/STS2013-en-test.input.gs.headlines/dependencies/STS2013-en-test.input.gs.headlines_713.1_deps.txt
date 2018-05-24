@@ -1,0 +1,9 @@
+nmod:poss	Chavez	Venezuela
+case	Venezuela	's
+root	ROOT	Chavez
+case	Cuba	in
+nmod:in	Chavez	Cuba
+case	treatment	for
+amod	treatment	3rd
+amod	treatment	anti-cancer
+nmod:for	Chavez	treatment

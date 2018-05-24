@@ -1,0 +1,5 @@
+nsubj	injured	Four
+root	ROOT	injured
+case	crash	in
+compound	crash	motorway
+nmod:in	injured	crash

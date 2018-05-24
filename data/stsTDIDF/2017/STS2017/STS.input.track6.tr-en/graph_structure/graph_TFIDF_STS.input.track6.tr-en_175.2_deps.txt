@@ -1,0 +1,8 @@
+motorcycles	small	amod
+ROOT	roads	root
+motorcycles	with	case
+roads	.	punct
+roads	are	cop
+roads	dirt	compound
+roads	motorcycles	nmod:with
+roads	men	nsubj

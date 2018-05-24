@@ -1,0 +1,12 @@
+det	outcome	the
+root	ROOT	outcome
+case	event	of
+det	event	an
+nmod:of	outcome	event
+advmod	relative	especially
+case	relative	as
+acl:as	outcome	relative
+case	individual	to
+det	individual	an
+nmod:to	relative	individual
+punct	outcome	.

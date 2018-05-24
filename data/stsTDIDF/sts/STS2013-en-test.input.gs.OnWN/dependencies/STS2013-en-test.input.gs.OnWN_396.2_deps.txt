@@ -1,0 +1,9 @@
+det	gathering	a
+amod	gathering	formal
+cc	formal	or
+conj:or	formal	official
+amod	gathering	social
+root	ROOT	gathering
+cc	gathering	or
+conj:or	gathering	ceremony
+punct	gathering	.

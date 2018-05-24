@@ -1,0 +1,10 @@
+root	ROOT	Dozens
+case	activists	of
+punct	activists	`
+compound	activists	flytilla
+punct	activists	'
+nmod:of	Dozens	activists
+compound	airport	protest
+case	Paris	at
+nmod:at	protest	Paris
+nmod:tmod	activists	airport

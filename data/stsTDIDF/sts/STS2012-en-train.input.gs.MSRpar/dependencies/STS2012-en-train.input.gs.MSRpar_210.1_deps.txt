@@ -1,0 +1,25 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-6) nsubj(ended-2, DJI
+root	ROOT	ended
+compound:prt	ended	up
+nummod	points	56.79
+dobj	ended	points
+punct	points	,
+cc	points	or
+nummod	percent	0.67
+conj:or	points	percent
+punct	points	,
+case	8,588.36	at
+nmod:at	points	8,588.36
+punct	points	--
+nmod:poss	level	its
+amod	level	highest
+dep	points	level
+case	January	since
+nmod:since	level	January
+nummod	January	17
+punct	ended	.

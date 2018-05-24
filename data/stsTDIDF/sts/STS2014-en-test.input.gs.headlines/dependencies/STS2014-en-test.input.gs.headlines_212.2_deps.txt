@@ -1,0 +1,9 @@
+compound	revenue	Macau
+compound	revenue	gambling
+nsubj	hits	revenue
+root	ROOT	hits
+compound	US$	record
+dobj	hits	US$
+nummod	US$	38b
+case	2012	in
+nmod:in	hits	2012

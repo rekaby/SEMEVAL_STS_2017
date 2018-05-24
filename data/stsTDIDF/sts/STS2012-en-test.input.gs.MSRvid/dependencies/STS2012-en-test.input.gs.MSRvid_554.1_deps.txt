@@ -1,0 +1,10 @@
+det	woman	An
+amod	woman	old
+nsubj	shaking	woman
+aux	shaking	is
+root	ROOT	shaking
+dobj	shaking	hand
+case	man	with
+det	man	a
+nmod:with	shaking	man
+punct	shaking	.

@@ -1,0 +1,10 @@
+root	ROOT	bring
+nummod	objects	two
+dobj	bring	objects
+punct	objects	,
+conj:or	objects	ideas
+punct	objects	,
+cc	objects	or
+conj:or	objects	people
+advmod	people	together
+punct	bring	.

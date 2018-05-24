@@ -1,0 +1,10 @@
+det	circle	an
+amod	circle	exclusive
+root	ROOT	circle
+case	people	of
+nmod:of	circle	people
+case	purpose	with
+det	purpose	a
+amod	purpose	common
+nmod:with	circle	purpose
+punct	circle	.

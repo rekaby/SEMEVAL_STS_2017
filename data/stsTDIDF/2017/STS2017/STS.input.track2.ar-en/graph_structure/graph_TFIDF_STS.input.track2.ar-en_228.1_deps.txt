@@ -1,0 +1,4 @@
+doing	man	nsubj
+doing	street	nmod:down
+doing	cartwheels	dobj
+street	down	case

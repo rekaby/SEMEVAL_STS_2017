@@ -1,0 +1,5 @@
+nsubj	recovering	Philippines
+root	ROOT	recovering
+case	typhoon	after
+amod	typhoon	powerful
+nmod:after	recovering	typhoon

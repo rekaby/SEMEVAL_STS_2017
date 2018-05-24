@@ -1,0 +1,7 @@
+compound	talks	Iran
+amod	talks	nuclear
+root	ROOT	talks
+acl	talks	extended
+case	November	to
+nmod:to	extended	November
+nummod	talks	24

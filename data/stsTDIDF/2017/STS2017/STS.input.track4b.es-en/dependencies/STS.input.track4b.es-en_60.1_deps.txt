@@ -1,0 +1,13 @@
+nmod:poss	identity	Our
+nsubj	fuzzy	identity
+aux	fuzzy	might
+advmod	fuzzy	sometimes
+cop	fuzzy	be
+root	ROOT	fuzzy
+punct	fuzzy	,
+cc	fuzzy	but
+nmod:poss	loyalty	our
+nsubj	clear	loyalty
+cop	clear	is
+conj:but	fuzzy	clear
+punct	fuzzy	.

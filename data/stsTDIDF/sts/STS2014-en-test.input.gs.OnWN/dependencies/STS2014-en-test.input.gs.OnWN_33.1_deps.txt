@@ -1,0 +1,5 @@
+root	ROOT	reach
+det	destination	a
+dobj	reach	destination
+cc	reach	or
+conj:or	reach	goal

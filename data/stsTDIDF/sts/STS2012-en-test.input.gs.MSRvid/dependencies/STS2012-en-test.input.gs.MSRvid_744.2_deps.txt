@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	walking	woman
+cc	woman	and
+conj:and	woman	dog
+aux	walking	are
+root	ROOT	walking
+advmod	walking	together
+punct	walking	.

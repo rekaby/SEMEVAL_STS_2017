@@ -1,0 +1,7 @@
+nsubj	Opens	Jordan
+root	ROOT	Opens
+amod	Camp	First
+compound	Camp	Refugee
+dobj	Opens	Camp
+case	Syrians	for
+nmod:for	Opens	Syrians

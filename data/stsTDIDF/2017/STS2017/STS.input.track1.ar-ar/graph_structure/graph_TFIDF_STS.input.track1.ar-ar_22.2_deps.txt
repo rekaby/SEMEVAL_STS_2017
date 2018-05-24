@@ -1,0 +1,5 @@
+watches	.	punct
+watches	exhibition	dobj
+watches	crowd	nsubj
+crowd	A	det
+ROOT	watches	root

@@ -1,0 +1,12 @@
+case	article	From
+det	article	an
+root	ROOT	article
+acl	article	entitled
+aux	Call	Can
+nsubj	Call	You
+ccomp	entitled	Call
+det	9-Year-Old	a
+dobj	Call	9-Year-Old
+det	Psychopath	a
+dep	9-Year-Old	Psychopath
+punct	article	?

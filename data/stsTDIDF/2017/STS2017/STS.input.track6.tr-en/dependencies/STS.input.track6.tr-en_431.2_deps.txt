@@ -1,0 +1,9 @@
+det	group	A
+nsubj	playing	group
+case	people	of
+amod	people	young
+nmod:of	group	people
+aux	playing	is
+root	ROOT	playing
+dobj	playing	soccer
+punct	playing	.

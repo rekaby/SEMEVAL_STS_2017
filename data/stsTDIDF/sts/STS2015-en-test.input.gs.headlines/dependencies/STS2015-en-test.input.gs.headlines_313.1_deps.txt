@@ -1,0 +1,11 @@
+compound	Executed	Kim
+compound	Executed	Jong-un
+root	ROOT	Executed
+dep	Executed	His
+punct	His	`
+root	`	Worse
+case	Uncle	Than
+det	Dog	a
+nmod:poss	Uncle	Dog
+punct	Dog	'
+nmod:than	Worse	Uncle

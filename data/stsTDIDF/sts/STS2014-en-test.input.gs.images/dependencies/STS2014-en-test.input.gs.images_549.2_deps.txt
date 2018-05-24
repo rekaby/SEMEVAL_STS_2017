@@ -1,0 +1,8 @@
+nummod	bikers	Two
+compound	bikers	dirt
+nsubj	riding	bikers
+root	ROOT	riding
+case	hill	over
+compound	hill	dirt
+nmod:over	riding	hill
+punct	riding	.

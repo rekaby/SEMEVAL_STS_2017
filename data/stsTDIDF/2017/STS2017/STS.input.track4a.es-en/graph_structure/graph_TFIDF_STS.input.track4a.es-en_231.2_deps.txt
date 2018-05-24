@@ -1,0 +1,7 @@
+shopping	is	aux
+shopping	mall	nmod:in
+shopping	man	nsubj
+ROOT	shopping	root
+shopping	.	punct
+mall	a	det
+mall	in	case

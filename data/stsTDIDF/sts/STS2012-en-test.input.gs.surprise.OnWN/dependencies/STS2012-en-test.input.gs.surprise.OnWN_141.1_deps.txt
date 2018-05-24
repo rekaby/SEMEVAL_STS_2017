@@ -1,0 +1,5 @@
+amod	legs	human
+root	ROOT	legs
+punct	legs	,
+amod	usage	informal
+appos	legs	usage

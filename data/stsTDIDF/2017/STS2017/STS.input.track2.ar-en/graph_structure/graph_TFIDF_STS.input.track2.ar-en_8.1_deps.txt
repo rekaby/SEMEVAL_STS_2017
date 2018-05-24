@@ -1,0 +1,6 @@
+child	blond	amod
+riding	child	dobj
+ROOT	bike	root
+bike	riding	acl
+bike	A	det
+bike	.	punct

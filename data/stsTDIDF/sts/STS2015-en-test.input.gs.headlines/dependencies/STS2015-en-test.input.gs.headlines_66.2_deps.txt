@@ -1,0 +1,13 @@
+compound	Monteith	Cory
+nsubj	found	Monteith
+root	ROOT	found
+mark	31	dead
+punct	dead	:
+amod	star	Canadian
+compound	star	‚
+compound	star	ÄėGlee
+compound	star	‚
+compound	star	Äô
+nsubj	31	star
+cop	31	was
+ccomp	found	31

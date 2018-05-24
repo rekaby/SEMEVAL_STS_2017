@@ -1,0 +1,9 @@
+nmod:poss	problem	America
+case	America	's
+compound	problem	gun
+nsubj	race	problem
+cop	race	is
+neg	race	not
+det	race	a
+root	ROOT	race
+dep	race	problem

@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+advmod	is	also
+det	Youtube-Version	a
+nsubj	is	Youtube-Version
+case	film	of
+det	film	the
+nmod:of	Youtube-Version	film
+punct	is	.

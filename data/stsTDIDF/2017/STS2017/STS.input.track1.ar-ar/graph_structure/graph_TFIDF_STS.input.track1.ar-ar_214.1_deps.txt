@@ -1,0 +1,5 @@
+ROOT	smiles	root
+smiles	camera	nmod:for
+woman	Asian	amod
+camera	for	case
+smiles	woman	nsubj

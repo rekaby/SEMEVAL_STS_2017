@@ -1,0 +1,7 @@
+nsubj	determined	U.S.
+aux	determined	has
+root	ROOT	determined
+nsubj	used	Syria
+ccomp	determined	used
+amod	weapons	chemical
+dobj	used	weapons

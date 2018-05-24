@@ -1,0 +1,13 @@
+det	path	A
+amod	path	closed
+nsubj	enables	path
+case	battery	with
+det	battery	a
+nmod:with	path	battery
+root	ROOT	enables
+det	bulb	the
+dobj	enables	bulb
+mark	on	to
+cop	on	be
+advcl	enables	on
+punct	enables	.

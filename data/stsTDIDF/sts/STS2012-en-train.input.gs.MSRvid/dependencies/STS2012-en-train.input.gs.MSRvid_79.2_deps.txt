@@ -1,0 +1,7 @@
+det	man	A
+nsubj	smashing	man
+aux	smashing	is
+root	ROOT	smashing
+det	garlic	some
+dobj	smashing	garlic
+punct	smashing	.

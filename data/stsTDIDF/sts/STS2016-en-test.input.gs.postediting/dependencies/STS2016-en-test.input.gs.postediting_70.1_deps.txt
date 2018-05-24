@@ -1,0 +1,11 @@
+det	case	This
+nsubj	one	case
+cop	one	is
+root	ROOT	one
+case	accusations	of
+det	accusations	the
+amod	accusations	many
+nmod:of	one	accusations
+nsubj	her	that
+acl:relcl	accusations	her
+punct	one	.

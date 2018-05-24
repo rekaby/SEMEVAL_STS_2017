@@ -1,0 +1,12 @@
+compound	Clemons	Ricky
+nsubj	over	Clemons
+case	Clemons	'
+amod	Clemons	brief
+punct	Clemons	,
+amod	career	troubled
+compound	career	Missouri
+compound	career	basketball
+appos	Clemons	career
+cop	over	is
+root	ROOT	over
+punct	over	.

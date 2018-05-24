@@ -1,0 +1,5 @@
+nsubj	rocked	Romney
+root	ROOT	rocked
+case	video	by
+amod	video	secret
+nmod:by	rocked	video

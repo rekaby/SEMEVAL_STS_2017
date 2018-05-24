@@ -1,0 +1,7 @@
+cop	pertinent	be
+root	ROOT	pertinent
+cc	pertinent	or
+conj:or	pertinent	relevant
+cc	pertinent	or
+conj:or	pertinent	applicable
+punct	pertinent	.

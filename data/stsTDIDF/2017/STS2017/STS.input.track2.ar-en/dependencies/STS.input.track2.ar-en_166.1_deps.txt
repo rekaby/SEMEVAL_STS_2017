@@ -1,0 +1,12 @@
+nummod	individuals	Two
+amod	individuals	young
+nsubj	playing	individuals
+aux	playing	are
+root	ROOT	playing
+compound	boys	drummer
+dobj	playing	boys
+dep	playing	using
+compound	cans	soda
+dobj	using	cans
+cc	using	and
+conj:and	using	drumsticks

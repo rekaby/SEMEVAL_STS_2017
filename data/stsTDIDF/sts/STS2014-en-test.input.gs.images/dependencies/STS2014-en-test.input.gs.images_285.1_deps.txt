@@ -1,0 +1,9 @@
+amod	room	Living
+root	ROOT	room
+cc	room	or
+conj:or	room	den
+case	television	with
+amod	television	large
+compound	television	screen
+nmod:with	room	television
+punct	room	.

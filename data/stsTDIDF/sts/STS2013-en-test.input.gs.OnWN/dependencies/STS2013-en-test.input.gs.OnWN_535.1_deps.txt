@@ -1,0 +1,9 @@
+det	celebrity	a
+root	ROOT	celebrity
+cc	celebrity	or
+conj:or	celebrity	entertainer
+nsubj	attracts	who
+acl:relcl	celebrity	attracts
+det	audience	a
+amod	audience	large
+dobj	attracts	audience

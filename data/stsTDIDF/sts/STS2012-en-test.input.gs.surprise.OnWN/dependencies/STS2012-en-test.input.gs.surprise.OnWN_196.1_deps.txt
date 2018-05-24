@@ -1,0 +1,8 @@
+nsubj	discover	capture
+punct	capture	,
+conj	capture	ensnare
+punct	capture	,
+root	ROOT	discover
+case	act	in
+det	act	the
+nmod:in	discover	act

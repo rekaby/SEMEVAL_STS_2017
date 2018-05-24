@@ -1,0 +1,15 @@
+root	ROOT	immerse
+advmod	immerse	briefly
+case	liquid	into
+det	liquid	a
+nmod:into	immerse	liquid
+advmod	wet	so
+case	wet	as
+mwe	as	to
+nmod:as_to	immerse	wet
+punct	wet	,
+conj:or	wet	coat
+punct	wet	,
+cc	wet	or
+conj:or	wet	saturate
+punct	immerse	.

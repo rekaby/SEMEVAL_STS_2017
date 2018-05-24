@@ -1,0 +1,12 @@
+det	president	The
+nsubj	all	president
+cop	all	is
+neg	all	not
+advmod	all	really
+root	ROOT	all
+dep	all	that
+amod	that	important
+case	people	for
+amod	people	German
+nmod:for	important	people
+punct	all	.

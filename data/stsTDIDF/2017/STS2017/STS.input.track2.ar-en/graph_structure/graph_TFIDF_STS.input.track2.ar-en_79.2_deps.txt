@@ -1,0 +1,5 @@
+walks	woman	nsubj
+waves	beach	nmod:on
+waves	among	case
+waves	the	det
+walks	waves	nmod:among

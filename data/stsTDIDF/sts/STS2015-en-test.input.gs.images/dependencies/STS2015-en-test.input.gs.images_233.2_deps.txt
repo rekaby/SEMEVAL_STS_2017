@@ -1,0 +1,14 @@
+det	skateboarder	A
+nsubj	jumping	skateboarder
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	over
+det	obstacle	an
+dobj	jumping	obstacle
+case	house	in
+mwe	in	front
+mwe	in	of
+det	house	a
+amod	house	white
+nmod:in_front_of	obstacle	house
+punct	jumping	.

@@ -1,0 +1,14 @@
+root	ROOT	put
+case	state	into
+det	state	a
+amod	state	certain
+nmod:into	put	state
+punct	put	;
+parataxis	put	cause
+mark	state	to
+cop	state	be
+case	state	in
+det	state	a
+amod	state	certain
+xcomp	cause	state
+punct	put	.

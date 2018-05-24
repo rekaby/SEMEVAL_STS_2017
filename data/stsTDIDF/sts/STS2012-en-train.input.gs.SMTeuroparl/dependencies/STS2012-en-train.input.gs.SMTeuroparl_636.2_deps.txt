@@ -1,0 +1,17 @@
+det	resolution	The
+nsubj	reflect	resolution
+case	Summit	on
+det	Summit	the
+compound	Summit	Nice
+nmod:on	resolution	Summit
+punct	Summit	,
+nsubjpass	voted	which
+aux	voted	has
+advmod	voted	just
+auxpass	voted	been
+acl:relcl	Summit	voted
+punct	Summit	,
+aux	reflect	do
+neg	reflect	not
+root	ROOT	reflect
+punct	reflect	.

@@ -1,0 +1,6 @@
+compound	sorrow	Royal
+root	ROOT	sorrow
+case	death	over
+nmod:poss	death	nurse
+case	nurse	's
+nmod:over	sorrow	death

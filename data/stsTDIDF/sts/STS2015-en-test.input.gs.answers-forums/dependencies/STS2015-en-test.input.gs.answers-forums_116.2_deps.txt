@@ -1,0 +1,14 @@
+advmod	risk	Well
+nsubj	risk	I
+aux	risk	would
+neg	risk	n't
+root	ROOT	risk
+dobj	risk	it
+punct	risk	,
+neg	system	not
+case	system	in
+det	system	a
+amod	system	cold
+compound	system	compost
+nmod:in	risk	system
+punct	risk	.

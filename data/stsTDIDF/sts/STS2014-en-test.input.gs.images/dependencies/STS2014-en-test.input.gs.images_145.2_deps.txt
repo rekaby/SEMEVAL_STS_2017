@@ -1,0 +1,10 @@
+det	car	A
+amod	car	red
+compound	car	sports
+root	ROOT	car
+acl	car	driving
+advmod	driving	quickly
+case	track	on
+det	track	a
+nmod:on	driving	track
+punct	car	.

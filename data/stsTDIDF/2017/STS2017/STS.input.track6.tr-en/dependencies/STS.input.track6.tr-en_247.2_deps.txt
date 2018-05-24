@@ -1,0 +1,12 @@
+nummod	women	Three
+nsubj	smiling	women
+case	shirt	in
+det	shirt	a
+amod	shirt	yellow
+nmod:in	women	shirt
+aux	smiling	are
+root	ROOT	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+punct	smiling	.

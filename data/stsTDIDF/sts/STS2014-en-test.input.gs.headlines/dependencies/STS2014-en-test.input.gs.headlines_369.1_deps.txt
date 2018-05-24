@@ -1,0 +1,8 @@
+nsubj	says	Iran
+root	ROOT	says
+amod	issues	serious
+nsubj	remain	issues
+ccomp	says	remain
+case	talks	in
+amod	talks	nuclear
+nmod:in	remain	talks

@@ -1,0 +1,16 @@
+det	stone	a
+amod	stone	single
+amod	stone	great
+root	ROOT	stone
+punct	form	-LRB-
+advmod	form	often
+case	form	in
+det	form	the
+dep	stone	form
+case	column	of
+det	column	a
+nmod:of	form	column
+cc	column	or
+conj:or	column	obelisk
+punct	form	-RRB-
+punct	stone	.

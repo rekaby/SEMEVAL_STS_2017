@@ -1,0 +1,9 @@
+det	man	A
+nsubj	stirring	man
+aux	stirring	is
+root	ROOT	stirring
+dobj	stirring	ingredients
+case	bowl	in
+det	bowl	a
+nmod:in	stirring	bowl
+punct	stirring	.

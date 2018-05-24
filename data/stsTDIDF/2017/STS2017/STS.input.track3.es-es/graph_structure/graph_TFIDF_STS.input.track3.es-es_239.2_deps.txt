@@ -1,0 +1,6 @@
+building	old	amod
+walking	building	nmod:in_front_of
+shirt	white	amod
+shirt	walking	acl
+man	shirt	nmod:in
+building	an	det

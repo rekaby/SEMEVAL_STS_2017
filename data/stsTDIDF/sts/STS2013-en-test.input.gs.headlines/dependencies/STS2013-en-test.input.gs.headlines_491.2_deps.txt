@@ -1,0 +1,7 @@
+compound	Summer	Donna
+root	ROOT	Summer
+punct	Summer	,
+det	queen	the
+appos	Summer	queen
+case	disco	of
+nmod:of	queen	disco

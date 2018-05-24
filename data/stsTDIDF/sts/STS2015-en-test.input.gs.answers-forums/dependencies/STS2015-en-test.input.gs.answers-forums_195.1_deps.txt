@@ -1,0 +1,17 @@
+root	ROOT	First
+punct	First	,
+root	,	double-check
+det	dog	the
+nmod:poss	language	dog
+case	dog	's
+compound	language	body
+dobj	double-check	language
+mark	make	to
+xcomp	double-check	make
+xcomp	make	sure
+mark	aggressive	that
+nsubj	aggressive	it
+cop	aggressive	is
+advmod	aggressive	truly
+ccomp	sure	aggressive
+punct	double-check	.

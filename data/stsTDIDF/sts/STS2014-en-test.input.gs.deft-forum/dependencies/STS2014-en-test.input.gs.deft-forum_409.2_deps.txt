@@ -1,0 +1,9 @@
+det	problem	the
+root	ROOT	problem
+acl	problem	is
+nsubj	have	who
+aux	have	does
+neg	have	n't
+ccomp	is	have
+dobj	have	money
+punct	problem	.

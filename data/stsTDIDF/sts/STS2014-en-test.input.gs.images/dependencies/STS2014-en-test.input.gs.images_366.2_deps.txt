@@ -1,0 +1,10 @@
+nummod	women	Two
+amod	women	smiling
+amod	women	young
+root	ROOT	women
+acl	women	giving
+det	thumbs	the
+dobj	giving	thumbs
+case	sign	up
+nmod:up	giving	sign
+punct	women	.

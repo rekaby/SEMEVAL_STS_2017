@@ -1,0 +1,6 @@
+root	ROOT	strike
+det	air	the
+dobj	strike	air
+case	flight	in
+nmod:in	strike	flight
+punct	strike	.

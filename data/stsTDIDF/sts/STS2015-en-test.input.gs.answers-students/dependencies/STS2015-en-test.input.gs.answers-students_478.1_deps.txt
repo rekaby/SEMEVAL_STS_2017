@@ -1,0 +1,16 @@
+mark	flow	Because
+det	electricity	the
+nsubj	flow	electricity
+aux	flow	will
+neg	flow	not
+root	ROOT	flow
+case	wires	through
+det	wires	the
+nmod:through	flow	wires
+mark	incomplete	if
+det	path	the
+compound	path	circuit
+nsubj	incomplete	path
+cop	incomplete	is
+advcl	flow	incomplete
+punct	flow	.

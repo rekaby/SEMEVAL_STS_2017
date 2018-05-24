@@ -1,0 +1,8 @@
+compound	officials	Hong
+compound	officials	Kong
+nsubj	resume	officials
+root	ROOT	resume
+dobj	resume	work
+case	protests	as
+nmod:as	resume	protests
+dep	resume	thin

@@ -1,0 +1,4 @@
+'s	man	nsubj
+ironing	shirt	dobj
+'s	ironing	dep
+shirt	job	nmod:for

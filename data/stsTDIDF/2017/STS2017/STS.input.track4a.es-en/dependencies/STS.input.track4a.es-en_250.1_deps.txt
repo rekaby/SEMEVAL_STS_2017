@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	giving
+det	lecture	a
+dobj	giving	lecture
+case	tax	on
+det	tax	the
+compound	tax	property
+nmod:on	giving	tax
+punct	woman	.

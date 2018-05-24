@@ -1,0 +1,7 @@
+dep	kill	Flash
+nsubj	kill	floods
+root	ROOT	kill
+dobj	kill	58
+case	Afghanistan	in
+amod	Afghanistan	eastern
+nmod:in	58	Afghanistan

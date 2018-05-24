@@ -1,0 +1,13 @@
+det:predet	step	Such
+det	step	a
+nsubj	put	step
+aux	put	could
+root	ROOT	put
+det	issue	the
+dobj	put	issue
+case	Council	before
+det	Council	the
+compound	Council	UN
+compound	Council	Security
+nmod:before	put	Council
+punct	put	.

@@ -1,0 +1,12 @@
+bikini	driving	acl
+bikini	in	case
+woman	bikini	nmod:in
+woman	walking	conj:and
+bikini	a	det
+driving	her	nmod:behind
+bikini	white	amod
+walking	driving	conj:and
+walking	and	cc
+walking	people	nsubj
+driving	bicycle	dobj
+bicycle	a	det

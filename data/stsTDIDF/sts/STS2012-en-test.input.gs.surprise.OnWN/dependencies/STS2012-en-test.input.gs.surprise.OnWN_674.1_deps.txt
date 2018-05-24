@@ -1,0 +1,8 @@
+det	words	A
+amod	words	human
+compound	words	utters
+root	ROOT	words
+advmod	words	loudly
+cc	loudly	and
+conj:and	loudly	forcefully
+punct	words	.

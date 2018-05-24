@@ -1,0 +1,8 @@
+amod	minister	Iranian
+nsubj	blames	minister
+root	ROOT	blames
+dobj	blames	West
+case	talks	for
+amod	talks	failed
+amod	talks	nuke
+nmod:for	blames	talks

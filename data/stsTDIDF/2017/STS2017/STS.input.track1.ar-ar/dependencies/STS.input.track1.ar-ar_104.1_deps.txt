@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	carving
+acl	carving	carved
+case	ice	from
+nmod:from	carved	ice
+punct	man	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	blow	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+case	glasses	in
+nmod:in	man	glasses
+root	ROOT	blow
+dobj	blow	bubbles
+punct	blow	.

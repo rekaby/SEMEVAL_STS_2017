@@ -1,0 +1,6 @@
+school	.	punct
+school	taking	acl
+school	is	cop
+ROOT	school	root
+school	boy	nsubj
+taking	test	dobj

@@ -1,0 +1,16 @@
+dobj	saying	that
+aux	saying	's
+det	laffer	what
+nsubj	saying	laffer
+aux	saying	was
+root	ROOT	saying
+cc	saying	and
+nsubj	's	that
+conj:and	saying	's
+dobj	choosing	what
+nsubj	choosing	you
+aux	choosing	are
+ccomp	's	choosing
+mark	ignore	to
+xcomp	choosing	ignore
+punct	saying	.

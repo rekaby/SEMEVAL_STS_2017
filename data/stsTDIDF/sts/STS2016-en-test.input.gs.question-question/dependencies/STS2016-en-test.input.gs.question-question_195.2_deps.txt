@@ -1,0 +1,11 @@
+advmod	long	How
+advmod	keep	long
+aux	keep	can
+nsubj	keep	I
+root	ROOT	keep
+compound	dough	bread
+dobj	keep	dough
+case	refrigerator	in
+det	refrigerator	the
+nmod:in	keep	refrigerator
+punct	keep	?

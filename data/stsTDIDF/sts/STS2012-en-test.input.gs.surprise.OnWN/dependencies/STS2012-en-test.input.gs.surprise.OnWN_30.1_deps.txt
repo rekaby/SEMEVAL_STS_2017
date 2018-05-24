@@ -1,0 +1,5 @@
+root	ROOT	flow
+punct	flow	,
+case	liquids	as
+mwe	as	of
+nmod:as_of	flow	liquids

@@ -1,0 +1,9 @@
+root	ROOT	Disruptions
+punct	Disruptions	:
+dep	Disruptions	Disruptions
+punct	Disruptions	:
+nsubj	Technology	Design
+cop	Technology	Is
+compound	Technology	Driving
+dep	Disruptions	Technology
+advmod	Technology	Forward

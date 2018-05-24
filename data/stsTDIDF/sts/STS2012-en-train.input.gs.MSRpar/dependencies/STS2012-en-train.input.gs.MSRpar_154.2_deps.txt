@@ -1,0 +1,12 @@
+advmod	half	About
+nsubj	have	half
+case	households	of
+det	households	all
+compound	households	U.S.
+nmod:of	half	households
+root	ROOT	have
+dobj	have	money
+case	funds	in
+amod	funds	mutual
+nmod:in	money	funds
+punct	have	.

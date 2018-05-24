@@ -1,0 +1,7 @@
+nsubj	killed	Briton
+root	ROOT	killed
+case	field	in
+compound	field	Algerian
+compound	field	gas
+nmod:in	killed	field
+dobj	killed	attack

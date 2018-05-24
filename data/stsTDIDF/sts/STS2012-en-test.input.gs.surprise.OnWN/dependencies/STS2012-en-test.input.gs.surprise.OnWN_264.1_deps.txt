@@ -1,0 +1,13 @@
+det	act	The
+root	ROOT	act
+mark	transporting	of
+acl	act	transporting
+dobj	transporting	goods
+amod	goods	commerically
+case	rates	at
+nmod:at	commerically	rates
+amod	rates	cheaper
+mark	express	than
+advcl	cheaper	express
+dobj	express	rates
+punct	act	.

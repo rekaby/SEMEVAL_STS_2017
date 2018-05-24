@@ -1,0 +1,14 @@
+punct	way	`
+cop	way	Is
+expl	way	there
+det	way	a
+amod	way	worse
+root	ROOT	way
+mark	live	to
+acl	way	live
+punct	way	?
+punct	way	'-10) punct(cc-2, -LRB-
+appos	#JIDF	cc
+punct	cc	:
+punct	cc	-RRB-
+root	ROOT	#JIDF

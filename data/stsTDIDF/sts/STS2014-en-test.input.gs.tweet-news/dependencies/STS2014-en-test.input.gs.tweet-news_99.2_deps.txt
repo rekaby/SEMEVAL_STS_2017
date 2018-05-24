@@ -1,0 +1,11 @@
+nsubj	charged	Man
+root	ROOT	charged
+case	murder	with
+nmod:with	charged	murder
+case	death	in
+nmod:poss	death	doctor
+case	doctor	's
+nmod:in	charged	death
+punct	charged	,
+dobj	charged	source
+dep	charged	says

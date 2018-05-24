@@ -1,0 +1,12 @@
+nsubj	find	I
+root	ROOT	find
+xcomp	find	exemplary
+mark	be	that
+nsubj	be	France
+aux	be	will
+ccomp	exemplary	be
+mark	take	to
+xcomp	be	take
+det	step	this
+dobj	take	step
+punct	find	.

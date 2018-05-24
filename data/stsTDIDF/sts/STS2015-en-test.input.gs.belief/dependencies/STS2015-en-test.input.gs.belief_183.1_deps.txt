@@ -1,0 +1,16 @@
+nmod:poss	dictatorship	its
+det	dictatorship	a
+amod	dictatorship	gruesome
+root	ROOT	dictatorship
+punct	kind	-
+case	kind	of
+det	kind	the
+nmod:of	dictatorship	kind
+nsubjpass	sponsored	that
+auxpass	sponsored	was
+advmod	sponsored	formerly
+acl:relcl	kind	sponsored
+case	soviets	by
+det	soviets	the
+nmod:agent	sponsored	soviets
+punct	dictatorship	.

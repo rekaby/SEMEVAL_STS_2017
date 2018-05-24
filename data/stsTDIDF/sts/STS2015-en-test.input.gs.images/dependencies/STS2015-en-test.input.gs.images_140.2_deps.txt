@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+root	ROOT	boy
+cc	boy	and
+det	girl	a
+amod	girl	young
+conj:and	boy	girl
+acl	girl	walking
+case	each	towards
+nmod:towards	walking	each
+dobj	walking	other

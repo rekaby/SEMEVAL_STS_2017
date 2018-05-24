@@ -1,0 +1,5 @@
+compound	election	Egypt
+amod	election	presidential
+nsubj	results	election
+root	ROOT	results
+dep	results	delayed

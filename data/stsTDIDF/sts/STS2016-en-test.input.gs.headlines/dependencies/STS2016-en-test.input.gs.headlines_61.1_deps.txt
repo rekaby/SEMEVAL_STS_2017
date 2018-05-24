@@ -1,0 +1,10 @@
+compound	pressure	US
+compound	pressure	ups
+root	ROOT	pressure
+case	Israel	on
+nmod:on	pressure	Israel
+mark	demands	as
+nsubj	demands	UN
+acl	pressure	demands
+compound	truce	Gaza
+dobj	demands	truce

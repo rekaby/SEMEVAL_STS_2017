@@ -1,0 +1,9 @@
+det	lady	The
+nsubj	cracked	lady
+root	ROOT	cracked
+det	egg	an
+dobj	cracked	egg
+case	bowl	into
+det	bowl	a
+nmod:into	cracked	bowl
+punct	cracked	.

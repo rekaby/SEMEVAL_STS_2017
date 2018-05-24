@@ -1,0 +1,9 @@
+nummod	accident	One
+amod	accident	dead
+punct	accident	,
+nummod	accident	8
+amod	accident	missing
+case	boat	in
+compound	boat	Vietnam
+nmod:in	missing	boat
+root	ROOT	accident

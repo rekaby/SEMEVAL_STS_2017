@@ -1,0 +1,9 @@
+nsubj	praises	US
+root	ROOT	praises
+compound	deal	Ukraine
+dobj	praises	deal
+punct	praises	;
+parataxis	praises	calls
+case	action	for
+amod	action	concrete
+nmod:for	calls	action

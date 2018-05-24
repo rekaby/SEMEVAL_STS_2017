@@ -1,0 +1,15 @@
+det	bear	A
+amod	bear	white
+nsubj	walks	bear
+root	ROOT	walks
+case	ground	along
+amod	ground	snow-covered
+nmod:along	walks	ground
+cc	walks	and
+conj:and	walks	casts
+det	shadow	a
+dobj	casts	shadow
+case	snow	on
+det	snow	the
+nmod:on	casts	snow
+punct	walks	.

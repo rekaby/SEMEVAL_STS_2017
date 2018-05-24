@@ -1,0 +1,7 @@
+nsubj	Says	US
+root	ROOT	Says
+compound	Weapons	Chemical
+dobj	Says	Weapons
+acl	Weapons	Used
+case	Syria	in
+nmod:in	Used	Syria

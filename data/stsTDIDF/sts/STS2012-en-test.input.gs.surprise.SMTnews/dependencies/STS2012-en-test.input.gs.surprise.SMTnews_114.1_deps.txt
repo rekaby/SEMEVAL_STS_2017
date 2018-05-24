@@ -1,0 +1,7 @@
+det	tendency	This
+nsubj	extends	tendency
+root	ROOT	extends
+advmod	extends	deeper
+case	headscarves	than
+nmod:than	deeper	headscarves
+punct	extends	.

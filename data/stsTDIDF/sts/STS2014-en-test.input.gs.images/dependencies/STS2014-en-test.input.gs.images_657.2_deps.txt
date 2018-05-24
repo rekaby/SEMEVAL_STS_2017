@@ -1,0 +1,12 @@
+expl	is	There
+root	ROOT	is
+det	standing	a
+amod	standing	black
+cc	black	and
+conj:and	black	white
+compound	standing	sheep
+nsubj	is	standing
+case	grass	on
+det	grass	the
+nmod:on	standing	grass
+punct	is	.

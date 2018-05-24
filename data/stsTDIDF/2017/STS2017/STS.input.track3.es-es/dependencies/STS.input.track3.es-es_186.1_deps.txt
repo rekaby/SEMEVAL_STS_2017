@@ -1,0 +1,10 @@
+det	people	These
+nsubj	walking	people
+aux	walking	are
+root	ROOT	walking
+case	field	through
+det	field	a
+nmod:through	walking	field
+case	weeds	of
+nmod:of	field	weeds
+punct	walking	.

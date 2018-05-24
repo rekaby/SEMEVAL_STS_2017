@@ -1,0 +1,14 @@
+compound	official	Iran
+root	ROOT	official
+punct	official	:
+compound	denial	US
+compound	denial	visa
+nsubj	affect	denial
+case	envoy	to
+amod	envoy	Iranian
+nmod:to	denial	envoy
+aux	affect	will
+neg	affect	not
+dep	official	affect
+amod	talks	nuke
+dobj	affect	talks

@@ -1,0 +1,6 @@
+det	example	a
+amod	example	standard
+cc	standard	or
+conj:or	standard	typical
+root	ROOT	example
+punct	example	;

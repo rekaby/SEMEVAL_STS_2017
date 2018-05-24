@@ -1,0 +1,16 @@
+det	theorem	The
+nsubjpass	used	theorem
+auxpass	used	is
+advmod	used	often
+root	ROOT	used
+advmod	have	when
+nsubj	have	we
+advcl	used	have
+dobj	have	observations
+cc	have	and
+conj:and	have	wish
+mark	compute	to
+acl	wish	compute
+amod	probabilities	posterior
+dobj	compute	probabilities
+punct	used	.

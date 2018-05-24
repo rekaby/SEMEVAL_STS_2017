@@ -1,0 +1,4 @@
+root	ROOT	provide
+case	toggle	with
+det	toggle	a
+nmod:with	provide	toggle

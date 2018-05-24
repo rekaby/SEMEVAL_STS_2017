@@ -1,0 +1,5 @@
+root	ROOT	give
+det	account	a
+amod	account	detailed
+dobj	give	account
+acl	account	of

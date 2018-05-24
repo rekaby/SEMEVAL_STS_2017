@@ -1,0 +1,9 @@
+Children	dressed	acl
+dressed	clothes	nmod:in
+Children	.	punct
+present	are	cop
+ROOT	Children	root
+present	compliant	nsubj
+present	party	nmod:at
+dressed	present	ccomp
+clothes	in	case

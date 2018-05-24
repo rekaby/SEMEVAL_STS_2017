@@ -1,0 +1,5 @@
+ROOT	surfing	root
+surfing	.	punct
+surfing	surfer	nsubj
+surfing	is	aux
+surfer	The	det

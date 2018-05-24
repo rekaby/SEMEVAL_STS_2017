@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	drinking	boy
+aux	drinking	is
+root	ROOT	drinking
+case	packet	from
+det	packet	a
+compound	packet	juice
+nmod:from	drinking	packet
+punct	drinking	.

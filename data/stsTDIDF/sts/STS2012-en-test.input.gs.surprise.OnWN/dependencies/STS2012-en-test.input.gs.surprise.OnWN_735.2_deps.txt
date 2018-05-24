@@ -1,0 +1,7 @@
+root	ROOT	reverse
+det	winding	the
+dobj	reverse	winding
+cc	winding	or
+conj:or	winding	twisting
+nmod	winding	of
+punct	reverse	.

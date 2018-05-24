@@ -1,0 +1,11 @@
+root	ROOT	draw
+det	line	a
+dobj	draw	line
+cc	line	or
+conj:or	line	lines
+mark	call	underneath
+mark	call	to
+advcl	draw	call
+dobj	call	attention
+dep	call	to
+punct	draw	.

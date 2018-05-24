@@ -1,0 +1,15 @@
+root	ROOT	cause
+mark	move	to
+xcomp	cause	move
+conj:or	move	move
+conj:or	move	move
+conj:or	move	move
+case	flick	with
+det	flick	a
+nmod:with	move	flick
+cc	move	or
+case	flick	as
+case	flick	if
+case	flick	with
+det	flick	a
+nmod:with	move	flick

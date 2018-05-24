@@ -1,0 +1,10 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+det	knife	a
+dobj	putting	knife
+case	vice	in
+det	vice	a
+nmod:in	putting	vice
+punct	putting	.

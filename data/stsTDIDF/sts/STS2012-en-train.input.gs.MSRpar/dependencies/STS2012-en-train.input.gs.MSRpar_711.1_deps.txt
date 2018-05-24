@@ -1,0 +1,17 @@
+nsubjpass	swept	He
+aux	swept	'll
+auxpass	swept	be
+ccomp	thought	swept
+case	minute	over
+det	minute	any
+nmod:over	swept	minute
+cc	minute	or
+advmod	die	just
+conj:or	minute	die
+case	cold	of
+det	cold	the
+nmod:of	die	cold
+punct	thought	,
+nsubj	thought	Moriarty
+root	ROOT	thought
+punct	thought	.

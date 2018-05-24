@@ -1,0 +1,7 @@
+root	ROOT	Take
+det	break	a
+dobj	Take	break
+case	action	during
+det	action	the
+nmod:during	Take	action
+punct	Take	.

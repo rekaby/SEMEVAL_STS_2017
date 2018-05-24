@@ -1,0 +1,17 @@
+det	dog	A
+amod	dog	little
+amod	dog	white
+amod	dog	curly
+compound	dog	haired
+nsubj	runs	dog
+root	ROOT	runs
+case	pavement	across
+det	pavement	the
+nmod:across	runs	pavement
+case	stick	with
+det	stick	a
+nmod:with	pavement	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	stick	mouth
+punct	runs	.

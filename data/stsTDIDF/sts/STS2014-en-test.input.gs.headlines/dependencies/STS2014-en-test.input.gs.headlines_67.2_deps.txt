@@ -1,0 +1,8 @@
+root	ROOT	Police
+dobj	Police	fire
+acl	fire	tear
+dobj	tear	gas
+case	protesters	at
+nmod:at	tear	protesters
+case	Cairo	in
+nmod:in	tear	Cairo

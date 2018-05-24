@@ -1,0 +1,17 @@
+det	man	The
+nsubj	waiting	man
+case	shirt	in
+det	shirt	a
+amod	shirt	green
+nmod:in	man	shirt
+aux	waiting	is
+root	ROOT	waiting
+mark	deliver	for
+nsubj	deliver	them
+mark	deliver	to
+advcl	waiting	deliver
+nmod:poss	machine	his
+compound	machine	brush
+compound	machine	shredding
+dobj	deliver	machine
+punct	waiting	.

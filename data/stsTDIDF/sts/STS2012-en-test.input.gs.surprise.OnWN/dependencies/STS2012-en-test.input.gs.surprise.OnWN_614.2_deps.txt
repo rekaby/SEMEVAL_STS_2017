@@ -1,0 +1,8 @@
+root	ROOT	narrate
+cc	narrate	or
+conj:or	narrate	give
+det	account	a
+amod	account	detailed
+dobj	narrate	account
+acl	account	of
+punct	narrate	.

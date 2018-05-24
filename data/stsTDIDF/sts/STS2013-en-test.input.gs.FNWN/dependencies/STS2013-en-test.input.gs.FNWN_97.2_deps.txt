@@ -1,0 +1,12 @@
+det	event	a
+amod	event	recent
+root	ROOT	event
+nsubj	has	that
+acl:relcl	event	has
+det	relevance	some
+dobj	has	relevance
+case	situation	for
+det	situation	the
+amod	situation	present
+nmod:for	relevance	situation
+punct	event	;

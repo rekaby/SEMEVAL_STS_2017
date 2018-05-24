@@ -1,0 +1,11 @@
+compound	mission	U.S.
+amod	mission	government-supported
+compound	mission	rescue
+nsubj	failed	mission
+case	hostage	of
+amod	hostage	French
+nmod:of	mission	hostage
+case	Somalia	in
+nmod:in	mission	Somalia
+root	ROOT	failed
+punct	failed	.

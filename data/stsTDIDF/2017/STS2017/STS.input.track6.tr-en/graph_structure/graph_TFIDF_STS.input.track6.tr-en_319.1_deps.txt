@@ -1,0 +1,10 @@
+slices	meat	nmod:of
+,	holding	root
+looking	devil	nsubj
+meat	of	case
+looking	eyes	dobj
+shirt	black	amod
+holding	slices	dobj
+slices	big	amod
+wearing	looking	advcl
+slices	two	nummod

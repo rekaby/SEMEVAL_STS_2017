@@ -1,0 +1,10 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+case	increase	to
+punct	increase	-RRB-
+nmod:to	Cause	increase
+case	extent	in
+nmod:in	increase	extent
+cc	extent	or
+conj:or	extent	intensity
+punct	Cause	.

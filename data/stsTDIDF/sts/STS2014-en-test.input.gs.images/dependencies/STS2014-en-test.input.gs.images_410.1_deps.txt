@@ -1,0 +1,10 @@
+det	Liner	A
+compound	Liner	silver
+compound	Liner	AreoMexico
+compound	Liner	Jet
+root	ROOT	Liner
+acl	Liner	sitting
+case	tarmac	on
+det	tarmac	the
+nmod:on	sitting	tarmac
+punct	Liner	.

@@ -1,0 +1,17 @@
+nsubj	graduate	Yee
+cop	graduate	is
+det	graduate	a
+nummod	graduate	1990
+root	ROOT	graduate
+case	Academy	of
+det	Academy	the
+compound	Academy	U.S.
+compound	Academy	Military
+nmod:of	graduate	Academy
+case	Point	at
+compound	Point	West
+nmod:at	graduate	Point
+punct	Point	,
+compound	York	New
+appos	Point	York
+punct	graduate	.

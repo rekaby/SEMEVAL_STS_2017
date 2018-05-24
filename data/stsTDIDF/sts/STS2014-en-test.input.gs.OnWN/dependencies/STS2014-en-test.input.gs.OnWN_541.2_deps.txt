@@ -1,0 +1,11 @@
+root	ROOT	organize
+punct	production	-LRB-
+det	production	the
+dobj	organize	production
+case	something	of
+nmod:of	production	something
+punct	production	-RRB-
+case	industry	into
+det	industry	an
+nmod:into	organize	industry
+punct	organize	.

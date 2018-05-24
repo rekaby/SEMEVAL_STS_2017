@@ -1,0 +1,6 @@
+det	group	an
+amod	group	exclusive
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+punct	group	.

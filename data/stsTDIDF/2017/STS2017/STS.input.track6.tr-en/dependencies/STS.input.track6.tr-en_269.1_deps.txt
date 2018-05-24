@@ -1,0 +1,15 @@
+det	man	The
+nsubj	losing	man
+aux	losing	is
+root	ROOT	losing
+det	match	a
+amod	match	sumo
+compound	match	wrestling
+dobj	losing	match
+case	middle	in
+det	middle	the
+nmod:in	losing	middle
+case	street	of
+det	street	the
+nmod:of	middle	street
+punct	losing	.

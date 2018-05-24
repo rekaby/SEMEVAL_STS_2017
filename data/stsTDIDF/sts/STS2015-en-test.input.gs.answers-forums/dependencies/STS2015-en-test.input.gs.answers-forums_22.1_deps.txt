@@ -1,0 +1,13 @@
+case	Chris	Like
+root	ROOT	Chris
+acl	Chris	said
+advmod	rotate	above
+punct	rotate	,
+nsubj	rotate	stars
+ccomp	said	rotate
+mark	conserve	to
+xcomp	rotate	conserve
+nmod:poss	momentum	their
+amod	momentum	angular
+dobj	conserve	momentum
+punct	Chris	.

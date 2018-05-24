@@ -1,0 +1,10 @@
+nsubj	Release	US
+punct	US	,
+compound	Set	UK
+acl	US	Set
+case	Stocks	to
+compound	Stocks	Agree
+compound	Stocks	Emergency
+compound	Stocks	Oil
+nmod:to	Set	Stocks
+root	ROOT	Release

@@ -1,0 +1,8 @@
+det	hedgehog	A
+nsubj	biting	hedgehog
+aux	biting	is
+root	ROOT	biting
+case	blanket	at
+det	blanket	a
+nmod:at	biting	blanket
+punct	biting	.

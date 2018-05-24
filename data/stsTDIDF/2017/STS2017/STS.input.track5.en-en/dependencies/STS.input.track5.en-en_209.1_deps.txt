@@ -1,0 +1,6 @@
+det	group	A
+root	ROOT	group
+acl	group	wading
+case	witch	across
+det	witch	a
+nmod:across	wading	witch

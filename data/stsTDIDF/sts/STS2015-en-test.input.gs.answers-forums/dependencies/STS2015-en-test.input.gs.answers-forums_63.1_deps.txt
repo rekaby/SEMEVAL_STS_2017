@@ -1,0 +1,14 @@
+nsubj	depends	This
+root	ROOT	depends
+case	life	on
+det	life	the
+compound	life	shelf
+nmod:on	depends	life
+case	cultivar	of
+det	cultivar	the
+nmod:of	life	cultivar
+case	tomato	of
+nmod:of	cultivar	tomato
+nsubj	purchased	you
+acl:relcl	cultivar	purchased
+punct	depends	.

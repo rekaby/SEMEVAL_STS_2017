@@ -1,0 +1,5 @@
+doing	skiing	dobj
+people	skiing	compound
+skiing	country	compound
+doing	people	nsubj
+skiing	cross	amod

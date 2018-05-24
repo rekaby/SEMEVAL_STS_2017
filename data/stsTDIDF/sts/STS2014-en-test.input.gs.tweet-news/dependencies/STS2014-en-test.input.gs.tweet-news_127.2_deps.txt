@@ -1,0 +1,12 @@
+case	Reagan	From
+root	ROOT	Reagan
+case	Obama	to
+nmod:to	Reagan	Obama
+punct	changed	,
+advmod	changed	how
+nsubj	changed	we
+aux	changed	have
+acl	Reagan	changed
+case	nation	as
+det	nation	a
+nmod:as	changed	nation

@@ -1,0 +1,10 @@
+det	girls	The
+nummod	girls	two
+root	ROOT	girls
+case	middle	in
+det	middle	the
+nmod:in	girls	middle
+case	game	of
+det	game	the
+nmod:of	middle	game
+punct	girls	.

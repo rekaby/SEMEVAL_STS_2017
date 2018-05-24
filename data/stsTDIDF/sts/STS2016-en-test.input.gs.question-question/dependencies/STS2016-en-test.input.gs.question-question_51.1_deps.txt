@@ -1,0 +1,17 @@
+root	ROOT	Is
+nsubj	better	it
+ccomp	Is	better
+mark	request	to
+xcomp	better	request
+conj:or	request	request
+det	letter	a
+compound	letter	recommendation
+dobj	request	letter
+case	person	in
+nmod:in	request	person
+case	class	after
+nmod:after	request	class
+cc	request	or
+case	email	by
+nmod:by	request	email
+punct	Is	?

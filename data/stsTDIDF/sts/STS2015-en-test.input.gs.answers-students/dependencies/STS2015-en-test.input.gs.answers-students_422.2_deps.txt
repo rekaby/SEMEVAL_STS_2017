@@ -1,0 +1,16 @@
+mark	path	If
+det	bulb	a
+nsubj	path	bulb
+cc	bulb	and
+det	switch	a
+conj:and	bulb	switch
+cop	path	are
+case	path	in
+det	path	the
+amod	path	same
+advcl:in	affects	path
+det	switch	the
+nsubj	affects	switch
+root	ROOT	affects
+det	bulb	the
+dobj	affects	bulb

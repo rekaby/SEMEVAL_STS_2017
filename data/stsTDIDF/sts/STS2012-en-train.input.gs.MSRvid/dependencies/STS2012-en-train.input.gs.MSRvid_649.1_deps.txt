@@ -1,0 +1,9 @@
+det	club	A
+compound	club	tiger
+nsubj	playing	club
+aux	playing	is
+root	ROOT	playing
+case	ball	with
+det	ball	a
+nmod:with	playing	ball
+punct	playing	.

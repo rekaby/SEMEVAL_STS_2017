@@ -1,0 +1,8 @@
+det	feeling	a
+root	ROOT	feeling
+cc	feeling	or
+conj:or	feeling	state
+case	contentment	of
+nmod:of	state	contentment
+punct	feeling	,
+appos	feeling	relief

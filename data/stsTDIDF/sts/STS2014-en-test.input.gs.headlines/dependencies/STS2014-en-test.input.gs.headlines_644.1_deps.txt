@@ -1,0 +1,8 @@
+amod	earthquake	Strong
+nsubj	kills	earthquake
+case	China	in
+amod	China	western
+nmod:in	earthquake	China
+root	ROOT	kills
+nummod	people	47
+dobj	kills	people

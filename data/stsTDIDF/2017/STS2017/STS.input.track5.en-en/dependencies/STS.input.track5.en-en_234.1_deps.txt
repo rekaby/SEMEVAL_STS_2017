@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+compound	shirt	dress
+nmod:in	man	shirt
+punct	man	.

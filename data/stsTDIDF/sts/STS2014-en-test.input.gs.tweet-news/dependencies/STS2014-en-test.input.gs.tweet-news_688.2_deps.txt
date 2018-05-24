@@ -1,0 +1,8 @@
+compound	Drivers	New
+compound	Drivers	York
+compound	Drivers	School
+compound	Drivers	Bus
+nsubj	Go	Drivers
+root	ROOT	Go
+case	Strike	on
+nmod:on	Go	Strike

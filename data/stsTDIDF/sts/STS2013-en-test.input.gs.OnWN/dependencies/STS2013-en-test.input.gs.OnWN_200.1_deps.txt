@@ -1,0 +1,7 @@
+det	rate	a
+amod	rate	fast
+root	ROOT	rate
+cc	rate	or
+conj:or	rate	occurrence
+case	something	of
+nmod:of	occurrence	something

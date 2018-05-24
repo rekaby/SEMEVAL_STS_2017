@@ -1,0 +1,12 @@
+root	ROOT	Facing
+compound	Tax	Bailout
+dobj	Facing	Tax
+punct	Tax	,
+nsubj	Try	Cypriots
+acl:relcl	Tax	Try
+mark	Get	to
+xcomp	Try	Get
+dobj	Get	Cash
+case	Banks	Out
+mwe	Out	of
+nmod:out_of	Get	Banks

@@ -1,0 +1,10 @@
+amod	leader	North
+amod	leader	Korean
+nsubj	sends	leader
+root	ROOT	sends
+punct	envoy	`
+amod	envoy	special
+dobj	sends	envoy
+punct	envoy	'
+case	China	to
+nmod:to	sends	China

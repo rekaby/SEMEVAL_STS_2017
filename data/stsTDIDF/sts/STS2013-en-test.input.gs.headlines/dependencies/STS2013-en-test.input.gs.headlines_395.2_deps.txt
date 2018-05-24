@@ -1,0 +1,8 @@
+compound	Bradbury	Science
+compound	Bradbury	fiction
+compound	Bradbury	legend
+compound	Bradbury	Ray
+nsubj	dead	Bradbury
+root	ROOT	dead
+case	91	at
+nmod:at	dead	91

@@ -1,0 +1,5 @@
+root	ROOT	provide
+amod	care	veterinary
+dobj	provide	care
+nmod	provide	for
+punct	provide	.

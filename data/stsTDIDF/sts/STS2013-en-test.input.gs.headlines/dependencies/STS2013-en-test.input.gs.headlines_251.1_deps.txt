@@ -1,0 +1,7 @@
+root	ROOT	Jaguar
+mark	create	to
+acl	Jaguar	create
+nummod	jobs	1,100
+dobj	create	jobs
+case	UK	in
+nmod:in	create	UK

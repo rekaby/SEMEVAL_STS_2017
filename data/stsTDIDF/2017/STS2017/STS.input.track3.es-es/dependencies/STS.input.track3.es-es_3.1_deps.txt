@@ -1,0 +1,6 @@
+nsubj	cook	People
+root	ROOT	cook
+case	grill	on
+det	grill	the
+nmod:on	cook	grill
+punct	cook	.

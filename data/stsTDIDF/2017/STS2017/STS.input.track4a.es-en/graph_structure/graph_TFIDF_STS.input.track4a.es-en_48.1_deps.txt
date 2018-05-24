@@ -1,0 +1,7 @@
+points	door	compound
+standing	points	nmod:by
+man	standing	amod
+man	An	det
+man	Asian	amod
+points	something	nmod:to
+points	a	det

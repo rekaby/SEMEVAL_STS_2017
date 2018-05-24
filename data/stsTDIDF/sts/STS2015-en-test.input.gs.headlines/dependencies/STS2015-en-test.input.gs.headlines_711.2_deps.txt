@@ -1,0 +1,9 @@
+amod	Smog	Heavy
+nsubj	Hits	Smog
+root	ROOT	Hits
+compound	City	North
+compound	City	China
+dobj	Hits	City
+punct	City	,
+compound	Canceled	Flights
+appos	City	Canceled

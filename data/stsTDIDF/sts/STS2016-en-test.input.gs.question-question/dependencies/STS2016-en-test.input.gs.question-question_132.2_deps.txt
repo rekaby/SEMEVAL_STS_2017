@@ -1,0 +1,11 @@
+advmod	improve	How
+aux	improve	can
+nsubj	improve	I
+root	ROOT	improve
+det	pressure	the
+compound	pressure	water
+dobj	improve	pressure
+case	shower	in
+nmod:poss	shower	my
+nmod:in	pressure	shower
+punct	improve	?

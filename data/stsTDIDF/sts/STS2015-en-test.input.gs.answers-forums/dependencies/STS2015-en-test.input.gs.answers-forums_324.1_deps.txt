@@ -1,0 +1,15 @@
+nsubj	visited	I
+root	ROOT	visited
+dobj	visited	Peru
+case	August	in
+nmod:in	visited	August
+punct	visited	,
+dep	visited	starting
+case	Lima	from
+nmod:from	starting	Lima
+cc	starting	and
+conj:and	starting	touring
+case	weeks	for
+nummod	weeks	three
+nmod:for	touring	weeks
+punct	visited	.

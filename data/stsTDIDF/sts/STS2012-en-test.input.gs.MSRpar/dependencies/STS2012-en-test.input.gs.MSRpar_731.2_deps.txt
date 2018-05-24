@@ -1,0 +1,16 @@
+nsubj	fell	This
+case	workers	after
+nummod	workers	seven
+compound	workers	health
+compound	workers	care
+nmod:after	This	workers
+case	hospital	at
+det	hospital	a
+amod	hospital	public
+nmod:at	workers	hospital
+root	ROOT	fell
+advmod	fell	ill
+case	symptoms	with
+amod	symptoms	flu-like
+nmod:with	fell	symptoms
+punct	fell	.

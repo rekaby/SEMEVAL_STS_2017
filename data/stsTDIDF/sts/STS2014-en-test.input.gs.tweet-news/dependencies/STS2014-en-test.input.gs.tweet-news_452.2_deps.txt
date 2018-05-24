@@ -1,0 +1,6 @@
+nsubj	weighs	Coca-Cola
+root	ROOT	weighs
+case	obesity	in
+case	obesity	on
+nmod:on	weighs	obesity
+dobj	weighs	fight

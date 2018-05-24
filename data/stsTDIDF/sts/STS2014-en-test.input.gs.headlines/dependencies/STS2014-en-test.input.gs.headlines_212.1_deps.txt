@@ -1,0 +1,10 @@
+compound	Revenue	Macau
+compound	Revenue	Gambling
+nsubj	Hits	Revenue
+root	ROOT	Hits
+dobj	Hits	Record
+dobj	Record	$
+nummod	$	38
+nmod:npmod	$	bn
+case	2012	in
+nmod:in	Record	2012

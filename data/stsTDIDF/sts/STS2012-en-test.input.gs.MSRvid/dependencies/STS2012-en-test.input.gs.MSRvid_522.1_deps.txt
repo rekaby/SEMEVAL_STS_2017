@@ -1,0 +1,11 @@
+det	man	A
+nsubj	opening	man
+aux	opening	is
+root	ROOT	opening
+det	box	a
+dobj	opening	box
+cc	opening	and
+conj:and	opening	taking
+compound:prt	taking	out
+dobj	taking	paper
+punct	opening	.

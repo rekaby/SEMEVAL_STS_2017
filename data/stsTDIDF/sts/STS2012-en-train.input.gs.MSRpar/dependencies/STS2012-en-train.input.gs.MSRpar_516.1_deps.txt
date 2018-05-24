@@ -1,0 +1,12 @@
+compound	stage	Veteran
+nsubj	died	stage
+cc	stage	and
+compound	Cronyn	screen
+compound	Cronyn	actor
+compound	Cronyn	Hume
+conj:and	stage	Cronyn
+root	ROOT	died
+case	Sunday	of
+compound	Sunday	cancer
+nmod:of	died	Sunday
+punct	died	.

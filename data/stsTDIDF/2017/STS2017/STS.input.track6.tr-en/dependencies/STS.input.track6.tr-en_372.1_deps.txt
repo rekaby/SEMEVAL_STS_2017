@@ -1,0 +1,13 @@
+det	boy	A
+nsubj	raking	boy
+acl	boy	wearing
+det	sweatshirt	a
+amod	sweatshirt	red
+dobj	wearing	sweatshirt
+aux	raking	is
+root	ROOT	raking
+det	pile	a
+dobj	raking	pile
+case	leaves	of
+nmod:of	pile	leaves
+punct	raking	.

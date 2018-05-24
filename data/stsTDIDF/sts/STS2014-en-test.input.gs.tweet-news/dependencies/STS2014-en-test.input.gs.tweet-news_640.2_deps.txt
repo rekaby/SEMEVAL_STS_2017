@@ -1,0 +1,10 @@
+root	ROOT	Doctor
+dep	Doctor	Returns
+case	Congo	to
+nmod:to	Returns	Congo
+cc	Doctor	and
+auxpass	Hailed	Is
+conj:and	Doctor	Hailed
+case	Hero	as
+det	Hero	a
+nmod:as	Hailed	Hero

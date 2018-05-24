@@ -1,0 +1,17 @@
+expl	are	There
+root	ROOT	are
+det	people	a
+amod	people	few
+nsubj	are	people
+acl	people	walking
+case	house	around
+case	house	in
+det	house	a
+nmod:in	walking	house
+case	tree	with
+det	tree	a
+amod	tree	large
+nmod:with	walking	tree
+case	them	beside
+nmod:beside	walking	them
+punct	are	.

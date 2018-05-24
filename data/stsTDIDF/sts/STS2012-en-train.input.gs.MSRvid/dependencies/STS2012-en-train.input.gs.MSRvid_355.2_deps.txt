@@ -1,0 +1,7 @@
+det	man	A
+nsubj	firing	man
+aux	firing	is
+root	ROOT	firing
+det	rifle	a
+dobj	firing	rifle
+punct	firing	.

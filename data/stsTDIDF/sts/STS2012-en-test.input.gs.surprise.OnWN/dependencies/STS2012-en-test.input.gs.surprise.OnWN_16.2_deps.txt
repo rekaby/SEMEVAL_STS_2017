@@ -1,0 +1,11 @@
+det	representation	a
+amod	representation	mental
+root	ROOT	representation
+case	meaning	of
+det	meaning	the
+nmod:of	representation	meaning
+cc	meaning	or
+conj:or	meaning	significance
+case	something	of
+nmod:of	meaning	something
+punct	representation	.

@@ -1,0 +1,7 @@
+root	ROOT	drive
+case	velocity	at
+det	velocity	an
+amod	velocity	excessive
+cc	excessive	or
+conj:or	excessive	illegal
+nmod:at	drive	velocity

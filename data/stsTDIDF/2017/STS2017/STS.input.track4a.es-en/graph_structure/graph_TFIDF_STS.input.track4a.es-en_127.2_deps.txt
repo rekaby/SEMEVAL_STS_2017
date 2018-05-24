@@ -1,0 +1,4 @@
+dogs	The	det
+running	dogs	nsubj
+desert	in	case
+running	desert	nmod:in

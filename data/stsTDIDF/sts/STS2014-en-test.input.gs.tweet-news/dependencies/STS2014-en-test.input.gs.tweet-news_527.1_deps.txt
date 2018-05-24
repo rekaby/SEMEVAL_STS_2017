@@ -1,0 +1,6 @@
+nsubj	unveils	Facebook
+root	ROOT	unveils
+amod	tool	new
+compound	tool	search
+dobj	unveils	tool
+punct	unveils	:

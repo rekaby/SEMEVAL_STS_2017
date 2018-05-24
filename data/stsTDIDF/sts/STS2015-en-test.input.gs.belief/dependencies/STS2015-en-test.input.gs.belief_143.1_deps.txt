@@ -1,0 +1,12 @@
+root	ROOT	and
+det	county	the
+dep	and	county
+advmod	located	where
+nsubj	located	detroit
+cop	located	is
+acl:relcl	county	located
+advmod	voted	also
+dep	located	voted
+case	him	for
+nmod:for	voted	him
+punct	and	?

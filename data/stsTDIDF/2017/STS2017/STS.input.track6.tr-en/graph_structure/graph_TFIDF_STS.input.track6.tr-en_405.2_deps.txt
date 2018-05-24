@@ -1,0 +1,6 @@
+men	Asian	amod
+ride	motorbike	compound
+men	ride	nmod:on
+ride	on	case
+ride	street	nmod:down
+street	down	case

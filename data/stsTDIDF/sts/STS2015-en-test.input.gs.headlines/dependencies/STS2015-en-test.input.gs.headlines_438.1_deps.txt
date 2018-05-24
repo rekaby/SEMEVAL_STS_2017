@@ -1,0 +1,7 @@
+compound	Shops	Washington
+compound	Shops	Pot
+nsubj	Prepare	Shops
+root	ROOT	Prepare
+case	Sales	for
+amod	Sales	Historic
+nmod:for	Prepare	Sales

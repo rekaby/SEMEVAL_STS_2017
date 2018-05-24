@@ -1,0 +1,14 @@
+nsubj	absolve	This
+aux	absolve	does
+neg	absolve	not
+advmod	absolve	however
+root	ROOT	absolve
+det	countries	the
+amod	countries	rich
+dobj	absolve	countries
+case	obligation	of
+nmod:poss	obligation	their
+nmod:of	countries	obligation
+mark	help	to
+acl	obligation	help
+punct	absolve	.

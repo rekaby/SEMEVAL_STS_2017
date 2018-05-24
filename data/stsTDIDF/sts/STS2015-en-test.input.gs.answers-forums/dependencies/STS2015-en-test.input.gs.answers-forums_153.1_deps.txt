@@ -1,0 +1,16 @@
+amod	parts	Different
+nsubj	have	parts
+case	California	of
+nmod:of	parts	California
+root	ROOT	have
+amod	wildlife	different
+dobj	have	wildlife
+punct	have	,
+advmod	narrow	so
+nsubj	narrow	you
+aux	narrow	should
+advmod	narrow	probably
+advcl	have	narrow
+det	region	the
+dobj	narrow	region
+punct	have	.

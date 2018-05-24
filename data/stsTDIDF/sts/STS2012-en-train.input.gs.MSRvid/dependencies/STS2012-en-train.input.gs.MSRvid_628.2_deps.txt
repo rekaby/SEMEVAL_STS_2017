@@ -1,0 +1,9 @@
+det	animal	A
+amod	animal	small
+nsubj	chewing	animal
+aux	chewing	is
+root	ROOT	chewing
+case	finger	on
+det	finger	a
+nmod:on	chewing	finger
+punct	chewing	.

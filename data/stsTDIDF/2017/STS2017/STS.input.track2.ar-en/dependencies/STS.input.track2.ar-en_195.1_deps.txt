@@ -1,0 +1,12 @@
+nummod	adults	Two
+nsubj	swing	adults
+root	ROOT	swing
+advmod	swing	high
+case	camera	toward
+det	camera	the
+nmod:toward	high	camera
+case	park	at
+det	park	a
+compound	park	playground
+nmod:at	swing	park
+punct	swing	.

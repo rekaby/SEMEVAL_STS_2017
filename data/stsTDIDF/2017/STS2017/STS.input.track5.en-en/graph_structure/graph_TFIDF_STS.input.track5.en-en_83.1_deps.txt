@@ -1,0 +1,4 @@
+kids	Two	nummod
+game	Foosball	nmod:of
+playing	kids	nsubj
+Foosball	of	case

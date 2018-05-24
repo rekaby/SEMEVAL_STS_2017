@@ -1,0 +1,8 @@
+root	ROOT	scoop
+compound:prt	scoop	up
+punct	scoop	,
+case	ladle	as
+case	ladle	if
+case	ladle	with
+det	ladle	a
+nmod:with	scoop	ladle

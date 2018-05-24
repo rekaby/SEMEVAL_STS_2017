@@ -1,0 +1,10 @@
+det	person	The
+amod	person	blue
+root	ROOT	person
+case	snowboard	in
+det	snowboard	the
+nmod:in	person	snowboard
+case	jump	during
+det	jump	the
+nmod:during	person	jump
+punct	person	.

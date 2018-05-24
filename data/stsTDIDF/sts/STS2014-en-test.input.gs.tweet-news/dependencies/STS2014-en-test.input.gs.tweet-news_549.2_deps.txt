@@ -1,0 +1,10 @@
+compound	Rendezvous	IHT
+root	ROOT	Rendezvous
+punct	Rendezvous	:
+dep	Rendezvous	2012
+punct	2012	:
+det	Year	The
+dep	2012	Year
+case	Extreme	of
+nmod:of	Year	Extreme
+dep	Year	Weather

@@ -1,0 +1,6 @@
+det	man	The
+nsubj	throws	man
+root	ROOT	throws
+det	stick	a
+dobj	throws	stick
+punct	throws	.

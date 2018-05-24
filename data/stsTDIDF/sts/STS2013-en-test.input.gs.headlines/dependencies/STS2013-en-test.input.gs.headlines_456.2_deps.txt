@@ -1,0 +1,8 @@
+nummod	Building	2
+amod	Building	dead
+case	shooting	in
+nmod:in	dead	shooting
+case	State	outside
+compound	State	Empire
+nmod:outside	shooting	State
+root	ROOT	Building

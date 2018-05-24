@@ -1,0 +1,11 @@
+root	ROOT	maintain
+punct	theory	-LRB-
+det	theory	a
+dep	maintain	theory
+punct	theory	,
+conj:or	theory	thoughts
+punct	theory	,
+cc	theory	or
+conj:or	theory	feelings
+punct	theory	-RRB-
+punct	maintain	.

@@ -1,0 +1,12 @@
+dep	shot	Got
+det	shot	a
+compound	shot	flu
+root	ROOT	shot
+punct	shot	?-5) nsubj(make-3, Exercising
+aux	make	can
+root	ROOT	make
+nsubj	work	it
+xcomp	make	work
+advmod	better	even
+advmod	work	better
+punct	make	.-8) root(ROOT-0, from

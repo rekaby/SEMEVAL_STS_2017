@@ -1,0 +1,5 @@
+People	watching	acl
+watching	theater	nmod:at
+theater	at	case
+watching	Jaws	dobj
+theater	movie	compound

@@ -1,0 +1,14 @@
+expl	are	There
+root	ROOT	are
+det	things	a
+amod	things	few
+amod	things	minimally-effective
+nsubj	are	things
+nsubj	do	you
+aux	do	can
+acl:relcl	things	do
+case	level	at
+det	level	the
+amod	level	personal
+nmod:at	do	level
+punct	are	.

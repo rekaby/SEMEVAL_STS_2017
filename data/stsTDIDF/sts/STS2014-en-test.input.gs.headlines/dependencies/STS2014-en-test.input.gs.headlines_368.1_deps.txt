@@ -1,0 +1,10 @@
+compound	Africa	South
+nsubj	Admits	Africa
+root	ROOT	Admits
+dobj	Admits	Mistake
+case	Signer	Over
+punct	Signer	`
+amod	Signer	Schizophrenic
+punct	Signer	'
+compound	Signer	Mandela
+nmod:over	Mistake	Signer

@@ -1,0 +1,13 @@
+det	guy	A
+nsubj	going	guy
+aux	going	is
+root	ROOT	going
+compound:prt	going	up
+case	lay-up	for
+det	lay-up	a
+nmod:for	going	lay-up
+case	court	on
+det	court	a
+compound	court	basketball
+nmod:on	lay-up	court
+punct	going	.

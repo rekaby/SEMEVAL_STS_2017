@@ -1,0 +1,6 @@
+compound	Murdoch	James
+nsubj	quits	Murdoch
+root	ROOT	quits
+dobj	quits	role
+case	BSkyB	at
+nmod:at	role	BSkyB

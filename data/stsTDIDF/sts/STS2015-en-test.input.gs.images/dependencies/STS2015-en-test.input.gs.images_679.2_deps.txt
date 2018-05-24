@@ -1,0 +1,12 @@
+det	man	A
+root	ROOT	man
+acl	man	walking
+nmod:poss	cow	his
+dobj	walking	cow
+case	side	down
+det	side	the
+nmod:down	walking	side
+case	road	of
+det	road	the
+nmod:of	side	road
+punct	man	.

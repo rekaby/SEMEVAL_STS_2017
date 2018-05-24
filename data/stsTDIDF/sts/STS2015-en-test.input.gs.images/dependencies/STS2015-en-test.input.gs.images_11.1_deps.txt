@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	brown
+nsubj	runs	dog
+root	ROOT	runs
+case	woods	through
+det	woods	the
+nmod:through	runs	woods
+punct	runs	.

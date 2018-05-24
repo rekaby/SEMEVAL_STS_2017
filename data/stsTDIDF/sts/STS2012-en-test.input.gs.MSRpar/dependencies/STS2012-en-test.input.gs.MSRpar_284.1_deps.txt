@@ -1,0 +1,13 @@
+punct	need	``
+nsubj	need	We
+root	ROOT	need
+mark	change	to
+xcomp	need	change
+amod	habits	old
+dobj	change	habits
+cc	change	and
+advmod	rethink	seriously
+conj:and	change	rethink
+dobj	rethink	business-as-usual
+punct	need	.
+punct	need	''

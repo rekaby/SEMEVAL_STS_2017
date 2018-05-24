@@ -1,0 +1,6 @@
+root	ROOT	Identify
+punct	Identify	,
+conj:or	Identify	establish
+dobj	establish	location
+cc	Identify	or
+conj:or	Identify	identity

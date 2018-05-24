@@ -1,0 +1,8 @@
+compound	A	Bulb
+nsubj	contain	A
+aux	contain	is
+root	ROOT	contain
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contain	path

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+det	garlic	a
+dobj	slicing	garlic
+punct	slicing	.

@@ -1,0 +1,9 @@
+compound	drone	US
+nsubj	kills	drone
+root	ROOT	kills
+nummod	militants	six
+dobj	kills	militants
+case	Pakistan	in
+nmod:in	kills	Pakistan
+punct	kills	:
+dobj	kills	officials

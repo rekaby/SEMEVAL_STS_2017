@@ -1,0 +1,8 @@
+nsubj	killed	Pilot
+root	ROOT	killed
+case	crashes	as
+compound	crashes	US
+compound	crashes	jet
+nmod:as	killed	crashes
+case	England	in
+nmod:in	crashes	England

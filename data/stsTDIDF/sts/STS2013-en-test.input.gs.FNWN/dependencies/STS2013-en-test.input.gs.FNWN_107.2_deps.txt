@@ -1,0 +1,11 @@
+det	term	a
+compound	term	prison
+root	ROOT	term
+acl	term	lasting
+advmod	long	as
+advmod	lasting	long
+mark	lives	as
+det	prisoner	the
+nsubj	lives	prisoner
+advcl	lasting	lives
+punct	term	;

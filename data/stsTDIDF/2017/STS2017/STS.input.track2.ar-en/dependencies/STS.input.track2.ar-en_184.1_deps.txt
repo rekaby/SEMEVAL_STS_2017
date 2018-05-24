@@ -1,0 +1,11 @@
+nummod	men	Three
+nsubj	drinking	men
+aux	drinking	are
+root	ROOT	drinking
+compound	juice	apple
+dobj	drinking	juice
+case	beach	while
+case	beach	on
+det	beach	the
+nmod:on	drinking	beach
+punct	drinking	.

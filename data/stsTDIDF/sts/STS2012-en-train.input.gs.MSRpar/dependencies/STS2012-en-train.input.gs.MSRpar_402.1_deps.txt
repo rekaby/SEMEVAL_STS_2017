@@ -1,0 +1,11 @@
+nsubj	make	Shiites
+root	ROOT	make
+compound:prt	make	up
+nummod	percent	20
+dobj	make	percent
+case	population	of
+det	country	the
+nmod:poss	population	country
+case	country	's
+nmod:of	percent	population
+punct	make	.

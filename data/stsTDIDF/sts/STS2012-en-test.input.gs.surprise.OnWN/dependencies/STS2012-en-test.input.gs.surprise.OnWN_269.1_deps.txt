@@ -1,0 +1,8 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	return	to
+punct	return	-RRB-
+nmod:to	cause	return
+mark	refused	after
+auxpass	refused	being
+advcl	cause	refused

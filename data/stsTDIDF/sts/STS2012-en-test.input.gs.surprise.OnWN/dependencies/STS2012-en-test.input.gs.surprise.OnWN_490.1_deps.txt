@@ -1,0 +1,6 @@
+auxpass	affected	be
+root	ROOT	affected
+case	smut	with
+nmod:with	affected	smut
+cc	smut	or
+conj:or	smut	mildew

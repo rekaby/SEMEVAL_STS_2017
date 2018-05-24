@@ -1,0 +1,10 @@
+root	ROOT	matter
+nsubjpass	deposited	that
+aux	deposited	has
+auxpass	deposited	been
+acl:relcl	matter	deposited
+case	process	by
+det	process	some
+amod	process	natural
+nmod:agent	deposited	process
+punct	matter	.

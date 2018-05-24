@@ -1,0 +1,6 @@
+compound	brawl	Venezuela
+compound	brawl	lawmakers
+root	ROOT	brawl
+case	tensions	amid
+compound	tensions	election
+nmod:amid	brawl	tensions

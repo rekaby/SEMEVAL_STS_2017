@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+case	choosing	of
+nmod:of	act	choosing
+punct	act	,
+acl	act	picking
+dobj	picking	one
+case	many	among
+nmod:among	picking	many

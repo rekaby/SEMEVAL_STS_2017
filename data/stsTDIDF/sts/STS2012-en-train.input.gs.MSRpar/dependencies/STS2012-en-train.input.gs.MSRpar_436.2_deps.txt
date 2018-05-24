@@ -1,0 +1,14 @@
+amod	shots	Several
+nsubj	rang	shots
+root	ROOT	rang
+compound:prt	rang	out
+compound	night	Wednesday
+nmod:tmod	rang	night
+punct	rang	,
+cc	rang	but
+neg	gators	no
+nsubjpass	killed	gators
+auxpass	killed	were
+conj:but	rang	killed
+advmod	killed	then
+punct	rang	.

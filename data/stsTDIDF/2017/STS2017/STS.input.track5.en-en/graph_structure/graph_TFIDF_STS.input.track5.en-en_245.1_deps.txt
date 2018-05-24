@@ -1,0 +1,6 @@
+child	Small	amod
+child	playing	acl
+ROOT	P	root
+P	child	compound
+letter	with	case
+playing	letter	nmod:with

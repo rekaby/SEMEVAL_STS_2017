@@ -1,0 +1,12 @@
+nummod	women	Two
+amod	women	Asian
+nsubj	preparing	women
+root	ROOT	preparing
+det	meal	a
+dobj	preparing	meal
+mark	watching	while
+advcl	preparing	watching
+det	man	a
+amod	man	young
+dobj	watching	man
+punct	preparing	.

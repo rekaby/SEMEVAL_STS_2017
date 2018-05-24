@@ -1,0 +1,17 @@
+det	woman	A
+amod	woman	young
+nsubj	stands	woman
+case	arms	with
+amod	arms	outstretched
+nmod:with	woman	arms
+root	ROOT	stands
+case	front	in
+nmod:in	stands	front
+amod	front	of
+dep	of	a
+punct	a	``
+root	``	Going
+compound	bus	Places
+punct	Places	''
+dobj	Going	bus
+punct	Going	.

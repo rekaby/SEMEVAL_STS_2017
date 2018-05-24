@@ -1,0 +1,8 @@
+nummod	Center	One
+compound	Center	World
+compound	Center	Trade
+nsubj	Named	Center
+root	ROOT	Named
+compound	Building	Tallest
+compound	Building	US
+dobj	Named	Building

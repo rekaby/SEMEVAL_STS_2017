@@ -1,0 +1,8 @@
+det	bicycle	A
+amod	bicycle	white
+nsubj	stands	bicycle
+root	ROOT	stands
+case	floor	on
+det	floor	a
+nmod:on	stands	floor
+punct	stands	.

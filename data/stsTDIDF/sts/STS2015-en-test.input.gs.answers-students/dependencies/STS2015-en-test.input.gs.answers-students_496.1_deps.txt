@@ -1,0 +1,10 @@
+mark	contained	if
+det	lightbulb	the
+amod	lightbulb	damaged
+nsubjpass	contained	lightbulb
+auxpass	contained	is
+root	ROOT	contained
+case	circuit	in
+det	circuit	the
+amod	circuit	closed
+nmod:in	contained	circuit

@@ -1,0 +1,7 @@
+root	ROOT	give
+dobj	give	something
+amod	something	useful
+cc	give	or
+conj:or	give	necessary
+dep	necessary	to
+punct	give	.

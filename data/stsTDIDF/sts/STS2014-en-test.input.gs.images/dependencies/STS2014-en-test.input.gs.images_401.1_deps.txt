@@ -1,0 +1,10 @@
+det	girl	A
+root	ROOT	girl
+case	hat	in
+det	hat	a
+amod	hat	riding
+nmod:in	girl	hat
+case	horse	on
+det	horse	a
+nmod:on	hat	horse
+punct	girl	.

@@ -1,0 +1,9 @@
+nsubjpass	connected	terminal
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+amod	terminal	postive
+nmod:to	connected	terminal
+case	battery	of
+det	battery	the
+nmod:of	terminal	battery

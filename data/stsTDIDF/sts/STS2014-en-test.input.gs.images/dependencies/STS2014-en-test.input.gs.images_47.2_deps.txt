@@ -1,0 +1,11 @@
+nummod	women	Two
+amod	women	Indian
+root	ROOT	women
+case	girls	with
+nummod	girls	two
+amod	girls	Indian
+nmod:with	women	girls
+case	water	near
+det	water	the
+nmod:near	girls	water
+punct	women	.

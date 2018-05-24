@@ -1,0 +1,7 @@
+nsubj	begins	Pakistan
+root	ROOT	begins
+dobj	begins	demolition
+case	compound	of
+compound	compound	bin
+compound	compound	Laden
+nmod:of	demolition	compound

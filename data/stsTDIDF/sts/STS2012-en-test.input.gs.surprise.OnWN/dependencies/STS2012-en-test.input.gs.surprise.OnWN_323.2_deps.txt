@@ -1,0 +1,3 @@
+root	ROOT	make
+xcomp	make	new
+punct	make	.

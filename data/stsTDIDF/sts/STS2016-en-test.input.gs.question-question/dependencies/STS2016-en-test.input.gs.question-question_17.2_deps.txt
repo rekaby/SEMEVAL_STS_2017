@@ -1,0 +1,12 @@
+dobj	ask	What
+aux	ask	should
+nsubj	ask	I
+root	ROOT	ask
+case	applicant	as
+det	applicant	an
+nmod:as	ask	applicant
+case	interview	in
+det	interview	a
+compound	interview	job
+nmod:in	ask	interview
+punct	ask	?

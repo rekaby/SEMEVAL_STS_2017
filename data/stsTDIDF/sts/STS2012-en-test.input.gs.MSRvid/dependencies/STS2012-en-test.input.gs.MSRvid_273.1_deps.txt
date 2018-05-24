@@ -1,0 +1,5 @@
+det	cheetah	A
+nsubj	running	cheetah
+aux	running	is
+root	ROOT	running
+punct	running	.

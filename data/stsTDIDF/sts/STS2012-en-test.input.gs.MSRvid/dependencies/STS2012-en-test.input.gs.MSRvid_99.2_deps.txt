@@ -1,0 +1,9 @@
+det	animal	An
+nsubj	chewing	animal
+aux	chewing	is
+root	ROOT	chewing
+case	chain	on
+det	chain	a
+amod	chain	key
+nmod:on	chewing	chain
+punct	chewing	.

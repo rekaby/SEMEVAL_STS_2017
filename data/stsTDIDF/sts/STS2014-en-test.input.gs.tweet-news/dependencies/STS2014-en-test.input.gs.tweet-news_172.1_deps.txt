@@ -1,0 +1,17 @@
+case	virtues	On
+det	virtues	the
+nmod:on	Supposed	virtues
+case	procrastination	of
+nmod:of	virtues	procrastination
+punct	Supposed	:
+nsubjpass	Supposed	This
+auxpass	Supposed	Was
+root	ROOT	Supposed
+mark	Column	to
+cop	Column	Be
+nmod:poss	Column	My
+xcomp	Supposed	Column
+case	Day	for
+compound	Day	New
+compound	Day	Year?s
+nmod:for	Column	Day

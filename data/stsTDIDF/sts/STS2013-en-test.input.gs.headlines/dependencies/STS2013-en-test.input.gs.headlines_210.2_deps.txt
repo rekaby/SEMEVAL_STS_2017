@@ -1,0 +1,8 @@
+amod	orders	Israeli
+compound	orders	army
+nsubj	settlers	orders
+root	ROOT	settlers
+case	house	out
+mwe	out	of
+compound	house	Hebron
+nmod:out_of	settlers	house

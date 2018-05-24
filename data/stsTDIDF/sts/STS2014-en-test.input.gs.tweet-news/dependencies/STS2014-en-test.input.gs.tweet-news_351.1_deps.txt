@@ -1,0 +1,15 @@
+root	ROOT	Awesome
+punct	Awesome	!-2) nsubj(win-4, #Republicans
+aux	win	ca
+neg	win	n't
+csubj	!?	win
+case	ideas	on
+nmod:poss	ideas	their
+nmod:on	win	ideas
+mark	change	so
+nsubj	change	they
+aux	change	will
+advcl	win	change
+det	rules	the
+dobj	change	rules
+root	ROOT	!?

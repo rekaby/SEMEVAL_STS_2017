@@ -1,0 +1,6 @@
+using	people	nsubj
+piece	clothing	nmod:of
+intended	than	mark
+clothing	of	case
+using	piece	dobj
+way	intended	dep

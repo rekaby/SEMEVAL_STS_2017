@@ -1,0 +1,8 @@
+amod	protest	Sudanese
+compound	protest	police
+compound	protest	block
+root	ROOT	protest
+case	commission	at
+amod	commission	human
+compound	commission	rights
+nmod:at	protest	commission

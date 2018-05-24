@@ -1,0 +1,9 @@
+nsubj	Allows	China
+root	ROOT	Allows
+dobj	Allows	Media
+mark	Report	to
+xcomp	Allows	Report
+compound	Crisis	Alarming
+compound	Crisis	Air
+compound	Crisis	Pollution
+dobj	Report	Crisis

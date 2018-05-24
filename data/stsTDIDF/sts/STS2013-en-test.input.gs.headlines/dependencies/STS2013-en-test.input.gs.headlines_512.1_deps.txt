@@ -1,0 +1,8 @@
+root	ROOT	Japan
+mark	deport	to
+acl	Japan	deport
+dobj	deport	Chinese
+acl	Chinese	held
+case	landing	over
+compound	landing	island
+nmod:over	held	landing

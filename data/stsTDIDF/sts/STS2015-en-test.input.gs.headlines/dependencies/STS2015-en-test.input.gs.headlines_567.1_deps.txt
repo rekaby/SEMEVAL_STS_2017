@@ -1,0 +1,7 @@
+compound	stats	Poverty
+nsubj	doubt	stats
+root	ROOT	doubt
+nmod:poss	claims	Modi
+case	Modi	's
+compound	claims	development
+dobj	doubt	claims

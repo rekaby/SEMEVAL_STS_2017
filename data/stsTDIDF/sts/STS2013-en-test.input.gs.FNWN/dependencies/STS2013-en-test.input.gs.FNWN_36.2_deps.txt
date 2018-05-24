@@ -1,0 +1,6 @@
+amod	assistance	financial
+root	ROOT	assistance
+case	time	in
+nmod:in	assistance	time
+case	need	of
+nmod:of	time	need

@@ -1,0 +1,9 @@
+compound	protester	Blonde
+compound	protester	woman
+root	ROOT	protester
+case	airport	in
+mwe	in	front
+mwe	in	of
+det	airport	the
+nmod:in_front_of	protester	airport
+punct	protester	.

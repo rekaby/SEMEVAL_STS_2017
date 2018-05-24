@@ -1,0 +1,13 @@
+det	Blog	The
+compound	Blog	Lede
+root	ROOT	Blog
+punct	Blog	:
+dep	Blog	Updates
+case	Interview	on
+det	Interview	the
+compound	Interview	Katie
+compound	Interview	Couric
+nmod:on	Updates	Interview
+case	Te'o	With
+compound	Te'o	Manti
+nmod:with	Updates	Te'o

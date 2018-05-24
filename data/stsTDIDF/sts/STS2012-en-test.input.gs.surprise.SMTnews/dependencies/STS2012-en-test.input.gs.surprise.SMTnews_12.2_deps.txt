@@ -1,0 +1,11 @@
+cc	survive	But
+aux	survive	can
+det	image	this
+nsubj	survive	image
+root	ROOT	survive
+det	continuation	a
+dobj	survive	continuation
+case	decline	of
+det	decline	the
+nmod:of	continuation	decline
+punct	survive	?

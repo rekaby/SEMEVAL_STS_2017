@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	rests	woman
+root	ROOT	rests
+case	park	in
+det	park	the
+nmod:in	rests	park
+punct	rests	.

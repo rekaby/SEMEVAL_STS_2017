@@ -1,0 +1,12 @@
+compound	Ministers	EU
+root	ROOT	Ministers
+case	Employment	of
+nmod:of	Ministers	Employment
+cc	Employment	and
+compound	policy	Social
+conj:and	Employment	policy
+mark	discuss	to
+acl	Ministers	discuss
+dobj	discuss	employment
+acl	employment	boosting
+dobj	boosting	strategies

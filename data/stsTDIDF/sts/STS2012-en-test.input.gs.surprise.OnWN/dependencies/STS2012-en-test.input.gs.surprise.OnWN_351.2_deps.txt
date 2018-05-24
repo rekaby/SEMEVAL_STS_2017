@@ -1,0 +1,14 @@
+det	pursuit	the
+root	ROOT	pursuit
+cc	pursuit	and
+conj:and	pursuit	killing
+cc	killing	or
+conj:or	killing	capture
+case	animals	of
+amod	animals	wild
+nmod:of	killing	animals
+acl	pursuit	regarded
+case	sport	as
+det	sport	a
+nmod:as	regarded	sport
+punct	pursuit	.

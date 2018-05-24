@@ -1,0 +1,11 @@
+compound	toll	Death
+nsubj	mounts	toll
+case	collapse	in
+compound	collapse	building
+nmod:in	toll	collapse
+case	India	in
+amod	India	south
+nmod:in	collapse	India
+root	ROOT	mounts
+case	47	to
+nmod:to	mounts	47

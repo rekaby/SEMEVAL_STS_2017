@@ -1,0 +1,8 @@
+Ocean	in	case
+Ocean	the	det
+ROOT	surfing	root
+surfing	.	punct
+Ocean	Atlantic	compound
+surfing	man	nsubj
+surfing	Ocean	nmod:in
+surfing	is	aux

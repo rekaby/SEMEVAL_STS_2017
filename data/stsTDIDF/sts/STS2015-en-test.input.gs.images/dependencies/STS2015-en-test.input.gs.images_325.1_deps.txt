@@ -1,0 +1,7 @@
+nummod	dogs	Three
+nsubj	running	dogs
+root	ROOT	running
+case	racetrack	on
+det	racetrack	a
+nmod:on	running	racetrack
+punct	running	.

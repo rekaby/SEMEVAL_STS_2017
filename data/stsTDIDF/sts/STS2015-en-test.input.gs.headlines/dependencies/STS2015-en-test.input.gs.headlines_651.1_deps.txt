@@ -1,0 +1,9 @@
+compound	DNA	Polar
+compound	DNA	bear
+nsubj	help	DNA
+punct	help	`
+aux	help	may
+root	ROOT	help
+ccomp	help	fight
+dobj	fight	obesity
+punct	help	'

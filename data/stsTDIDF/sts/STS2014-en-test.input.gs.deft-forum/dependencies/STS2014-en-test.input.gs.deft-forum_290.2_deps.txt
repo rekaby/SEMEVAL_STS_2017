@@ -1,0 +1,13 @@
+advmod	think	Again
+nsubj	think	I
+root	ROOT	think
+nsubj	missing	you
+aux	missing	are
+ccomp	think	missing
+det	point	the
+dobj	missing	point
+case	quote	on
+det	quote	the
+compound	quote	Twain
+nmod:on	point	quote
+punct	think	.

@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	teachers	5
+amod	teachers	female
+dobj	kill	teachers
+case	Pakistan	in
+nmod:in	kill	Pakistan

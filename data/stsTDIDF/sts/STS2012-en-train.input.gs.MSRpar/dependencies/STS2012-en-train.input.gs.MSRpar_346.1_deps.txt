@@ -1,0 +1,12 @@
+det	procedure	The
+nsubjpass	performed	procedure
+auxpass	performed	is
+advmod	performed	generally
+root	ROOT	performed
+case	trimester	in
+det	trimester	the
+amod	trimester	second
+cc	second	or
+conj:or	second	third
+nmod:in	performed	trimester
+punct	performed	.

@@ -1,0 +1,8 @@
+det	loris	A
+amod	loris	slow
+nsubj	bites	loris
+root	ROOT	bites
+det	fingers	a
+compound	fingers	persons
+dobj	bites	fingers
+punct	bites	.

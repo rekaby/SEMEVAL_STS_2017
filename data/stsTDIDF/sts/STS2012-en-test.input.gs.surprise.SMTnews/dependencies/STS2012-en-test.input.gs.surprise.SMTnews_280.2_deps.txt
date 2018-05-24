@@ -1,0 +1,10 @@
+compound	Muslim	Etre
+nsubj	things	Muslim
+cc	Muslim	and
+cop	Islamic	be
+conj:and	Muslim	Islamic
+cop	things	are
+nummod	things	two
+amod	things	different
+root	ROOT	things
+punct	things	.

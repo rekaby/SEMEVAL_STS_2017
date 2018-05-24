@@ -1,0 +1,5 @@
+amod	president	Israeli
+root	ROOT	president
+acl	president	released
+case	hospital	from
+nmod:from	released	hospital

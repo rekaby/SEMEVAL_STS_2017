@@ -1,0 +1,3 @@
+bus	in	case
+sitting	bus	nmod:in
+sitting	women	nsubj

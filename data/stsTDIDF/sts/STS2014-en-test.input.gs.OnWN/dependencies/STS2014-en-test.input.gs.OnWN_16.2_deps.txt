@@ -1,0 +1,17 @@
+root	ROOT	form
+det	image	a
+amod	image	mental
+dobj	form	image
+case	something	of
+nmod:of	image	something
+nsubj	present	that
+cop	present	is
+neg	present	not
+acl:relcl	something	present
+cc	present	or
+nsubj	case	that
+cop	case	is
+neg	case	not
+det	case	the
+conj:or	present	case
+punct	form	.

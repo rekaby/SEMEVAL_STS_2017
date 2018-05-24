@@ -1,0 +1,12 @@
+det	woman	A
+amod	woman	fat
+nsubj	blowing	woman
+acl	woman	wearing
+amod	top	faint
+amod	top	blue
+dobj	wearing	top
+aux	blowing	is
+root	ROOT	blowing
+compound	bubble	soap
+dobj	blowing	bubble
+punct	blowing	.

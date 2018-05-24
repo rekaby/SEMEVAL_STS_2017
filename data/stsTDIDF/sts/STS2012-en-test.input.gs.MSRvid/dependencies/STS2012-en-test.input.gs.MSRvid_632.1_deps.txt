@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	dances	woman
+root	ROOT	dances
+mark	plays	while
+det	man	a
+nsubj	plays	man
+advcl	dances	plays
+det	keyboard	the
+dobj	plays	keyboard
+punct	dances	.

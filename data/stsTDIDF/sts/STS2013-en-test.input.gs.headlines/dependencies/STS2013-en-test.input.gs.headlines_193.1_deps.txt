@@ -1,0 +1,9 @@
+nsubj	rejects	Court
+case	Bahrain	in
+nmod:in	Court	Bahrain
+root	ROOT	rejects
+nmod:poss	rally	medics
+case	medics	'
+amod	rally	last
+dobj	rejects	rally
+dobj	rejects	appeal

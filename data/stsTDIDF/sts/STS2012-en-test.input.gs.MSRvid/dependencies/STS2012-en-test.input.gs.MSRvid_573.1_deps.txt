@@ -1,0 +1,11 @@
+det	person	A
+nsubj	peeling	person
+aux	peeling	is
+root	ROOT	peeling
+det	potato	a
+dobj	peeling	potato
+case	peeler	with
+det	peeler	a
+compound	peeler	potato
+nmod:with	peeling	peeler
+punct	peeling	.

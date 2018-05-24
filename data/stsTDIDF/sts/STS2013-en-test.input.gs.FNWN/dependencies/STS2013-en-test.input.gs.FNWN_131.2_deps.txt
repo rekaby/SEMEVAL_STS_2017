@@ -1,0 +1,13 @@
+root	ROOT	characterized
+conj:or	characterized	characterized
+case	absence	by
+det	absence	an
+nmod:by	characterized	absence
+cc	characterized	or
+case	absence	near
+nmod:near	characterized	absence
+case	agitation	of
+nmod:of	absence	agitation
+cc	agitation	or
+conj:or	agitation	activity
+punct	characterized	;

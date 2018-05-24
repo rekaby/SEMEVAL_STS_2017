@@ -1,0 +1,12 @@
+compound	agency	China
+compound	agency	state
+compound	agency	news
+root	ROOT	agency
+punct	agency	:
+expl	's	There
+parataxis	agency	's
+advmod	hope	still
+nsubj	's	hope
+case	Syria	for
+nmod:for	hope	Syria
+nsubj	's	peace

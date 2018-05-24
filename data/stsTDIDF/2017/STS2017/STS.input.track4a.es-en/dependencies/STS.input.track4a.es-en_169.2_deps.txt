@@ -1,0 +1,8 @@
+expl	is	there
+root	ROOT	is
+det	guy	a
+nsubj	is	guy
+acl	guy	playing
+det	instrument	an
+dobj	playing	instrument
+punct	is	.

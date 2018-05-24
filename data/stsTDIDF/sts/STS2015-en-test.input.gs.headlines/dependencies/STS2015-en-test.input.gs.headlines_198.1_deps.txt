@@ -1,0 +1,7 @@
+nsubj	probe	Investigators
+root	ROOT	probe
+dobj	probe	motives
+case	airport	of
+compound	airport	LAX
+nmod:of	motives	airport
+dobj	probe	shooter

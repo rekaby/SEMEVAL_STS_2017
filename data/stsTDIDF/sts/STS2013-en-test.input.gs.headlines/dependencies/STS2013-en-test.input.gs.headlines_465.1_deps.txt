@@ -1,0 +1,7 @@
+compound	deal	House-Senate
+nsubj	reached	deal
+root	ROOT	reached
+case	tax	on
+compound	tax	payroll
+nmod:on	reached	tax
+dobj	reached	measure

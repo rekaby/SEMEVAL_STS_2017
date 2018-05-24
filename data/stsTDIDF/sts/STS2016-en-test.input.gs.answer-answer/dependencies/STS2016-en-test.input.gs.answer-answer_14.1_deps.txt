@@ -1,0 +1,13 @@
+nsubj	have	You
+root	ROOT	have
+mark	decide	to
+xcomp	have	decide
+dobj	want	what
+nsubj	want	you
+ccomp	decide	want
+mark	get	to
+xcomp	want	get
+case	this	out
+mwe	out	of
+nmod:out_of	get	this
+punct	have	.

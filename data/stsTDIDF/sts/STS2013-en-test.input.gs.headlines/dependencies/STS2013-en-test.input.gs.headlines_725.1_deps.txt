@@ -1,0 +1,6 @@
+compound	mayor	Newark
+nsubj	saves	mayor
+root	ROOT	saves
+dobj	saves	neighbor
+case	fire	from
+nmod:from	saves	fire

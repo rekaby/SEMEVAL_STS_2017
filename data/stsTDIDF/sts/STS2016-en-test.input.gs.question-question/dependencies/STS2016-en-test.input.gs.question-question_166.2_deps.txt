@@ -1,0 +1,11 @@
+advmod	replace	How
+mark	replace	to
+root	ROOT	replace
+amod	light	recessed
+compound	light	halogen
+dobj	replace	light
+case	fixture	from
+det	fixture	an
+compound	fixture	eyeball
+nmod:from	replace	fixture
+punct	replace	?

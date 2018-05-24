@@ -1,0 +1,4 @@
+pushes	.	punct
+ROOT	pushes	root
+pushes	woman	nsubj
+pushes	child	dobj

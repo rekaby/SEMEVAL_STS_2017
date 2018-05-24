@@ -1,0 +1,10 @@
+amod	people	Several
+nsubj	sitting	people
+aux	sitting	are
+root	ROOT	sitting
+case	fire	around
+det	fire	a
+nmod:around	sitting	fire
+case	night	at
+nmod:at	sitting	night
+punct	sitting	.

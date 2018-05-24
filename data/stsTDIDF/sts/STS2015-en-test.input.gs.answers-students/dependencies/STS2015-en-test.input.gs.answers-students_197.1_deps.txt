@@ -1,0 +1,10 @@
+mark	path	Because
+det	battery	the
+nsubj	path	battery
+cop	path	is
+neg	path	not
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path
+punct	path	.

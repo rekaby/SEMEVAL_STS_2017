@@ -1,0 +1,14 @@
+root	ROOT	vor
+punct	vor	:
+nsubj	think	you
+aux	think	do
+neg	think	n't
+parataxis	vor	think
+case	them	of
+nmod:of	think	them
+case	brutes	as
+amod	brutes	horrible
+punct	brutes	,
+amod	brutes	fascist
+nmod:as	think	brutes
+punct	vor	?

@@ -1,0 +1,15 @@
+det	letter	The
+nsubj	indicates	letter
+root	ROOT	indicates
+det	Vatican	the
+nmod:poss	interest	Vatican
+case	Vatican	's
+dobj	indicates	interest
+mark	bolstering	in
+acl	interest	bolstering
+dobj	bolstering	conservatives
+case	Church	within
+det	Church	the
+compound	Church	Episcopal
+nmod:within	conservatives	Church
+punct	indicates	.

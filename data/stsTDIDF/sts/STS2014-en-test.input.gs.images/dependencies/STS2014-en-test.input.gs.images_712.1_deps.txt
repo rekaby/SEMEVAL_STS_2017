@@ -1,0 +1,11 @@
+det	boat	A
+nsubj	water	boat
+cop	water	is
+case	water	on
+det	water	the
+root	ROOT	water
+case	plane	near
+det	plane	a
+amod	plane	small
+nmod:near	water	plane
+punct	water	.

@@ -1,0 +1,14 @@
+nummod	women	Six
+nsubj	smile	women
+acl	women	wearing
+amod	jackets	black
+dobj	wearing	jackets
+cc	jackets	and
+amod	boas	bright
+amod	boas	red
+conj:and	jackets	boas
+root	ROOT	smile
+case	camera	at
+det	camera	the
+nmod:at	smile	camera
+punct	smile	.

@@ -1,0 +1,16 @@
+root	ROOT	SYNTHAX_tERROR
+nummod	SYNTHAX_tERROR	2
+punct	SYNTHAX_tERROR	:
+punct	SYNTHAX_tERROR	:
+advmod	800	More
+mwe	More	than
+nummod	cases	800
+compound	cases	NYC
+compound	cases	rape
+dep	SYNTHAX_tERROR	cases
+mark	reviewed	to
+auxpass	reviewed	be
+acl	cases	reviewed
+case	mistakes	for
+amod	mistakes	forensic
+nmod:for	reviewed	mistakes

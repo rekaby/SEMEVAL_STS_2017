@@ -1,0 +1,14 @@
+det	act	the
+root	ROOT	act
+mark	coming	of
+acl	act	coming
+advmod	coming	down
+case	earth	to
+det	earth	the
+nmod:to	coming	earth
+punct	surface	-LRB-
+cc	surface	or
+amod	surface	other
+appos	earth	surface
+punct	surface	-RRB-
+punct	act	.

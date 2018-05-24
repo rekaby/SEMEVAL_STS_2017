@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	riding	woman
+case	bike	on
+det	bike	the
+nmod:on	woman	bike
+aux	riding	was
+root	ROOT	riding
+advmod	riding	fast
+punct	riding	.

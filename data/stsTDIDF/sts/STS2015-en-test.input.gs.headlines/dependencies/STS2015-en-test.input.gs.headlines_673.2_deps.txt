@@ -1,0 +1,6 @@
+root	ROOT	Explosions
+acl	Explosions	heard
+case	palace	near
+compound	palace	Afghan
+amod	palace	presidential
+nmod:near	heard	palace

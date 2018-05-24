@@ -1,0 +1,14 @@
+case	years	In
+det	years	a
+amod	years	few
+nummod	years	billion
+nmod:in	collide	years
+punct	collide	,
+det	Way	the
+compound	Way	Milky
+nsubj	collide	Way
+cc	Way	and
+conj:and	Way	Andromeda
+aux	collide	will
+root	ROOT	collide
+punct	collide	.

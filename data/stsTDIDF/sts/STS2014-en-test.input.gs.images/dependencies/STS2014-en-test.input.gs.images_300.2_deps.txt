@@ -1,0 +1,15 @@
+det	back	The
+root	ROOT	back
+case	pig	of
+det	pig	a
+nmod:of	back	pig
+case	tree	under
+det	tree	a
+nmod:under	back	tree
+case	cow	with
+det	cow	a
+nmod:with	tree	cow
+case	background	in
+det	background	the
+nmod:in	back	background
+punct	back	.

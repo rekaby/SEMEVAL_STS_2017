@@ -1,0 +1,7 @@
+det	sheep	A
+nsubj	standing	sheep
+root	ROOT	standing
+case	forest	in
+det	forest	a
+nmod:in	standing	forest
+punct	standing	.

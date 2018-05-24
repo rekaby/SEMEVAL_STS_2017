@@ -1,0 +1,19 @@
+root	ROOT	3
+punct	3	.-2) nsubj(sure-3, im
+neg	sure	not
+root	ROOT	sure
+mark	include	if
+nsubj	include	i
+aux	include	can
+advcl	sure	include
+dobj	include	objections
+cc	include	and
+conj:and	include	conerns
+nsubj	raised	i
+acl:relcl	conerns	raised
+case	time	at
+det	time	the
+nmod:at	raised	time
+case	decisions	about
+nmod:about	time	decisions
+punct	sure	.

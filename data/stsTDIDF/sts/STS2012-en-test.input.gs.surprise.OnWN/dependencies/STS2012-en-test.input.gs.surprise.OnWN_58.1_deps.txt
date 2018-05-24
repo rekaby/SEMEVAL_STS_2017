@@ -1,0 +1,9 @@
+cop	equivalent	be
+dep	have	equivalent
+punct	have	,
+root	ROOT	have
+det	effect	the
+amod	effect	same
+dobj	have	effect
+case	something	as
+nmod:as	have	something

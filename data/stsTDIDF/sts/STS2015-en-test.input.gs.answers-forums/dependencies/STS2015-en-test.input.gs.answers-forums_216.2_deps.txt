@@ -1,0 +1,17 @@
+mark	believe	Although
+nsubj	believe	I
+advcl	think	believe
+nsubj	mistaken	Searle
+cop	mistaken	is
+ccomp	believe	mistaken
+punct	think	,
+nsubj	think	I
+aux	think	do
+neg	think	n't
+root	ROOT	think
+nsubj	found	you
+aux	found	have
+ccomp	think	found
+det	problem	the
+dobj	found	problem
+punct	think	.

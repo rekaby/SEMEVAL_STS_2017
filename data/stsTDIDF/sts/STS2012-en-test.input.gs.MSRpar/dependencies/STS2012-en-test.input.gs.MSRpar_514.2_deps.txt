@@ -1,0 +1,16 @@
+nmod:poss	career	Shinseki
+case	Shinseki	's
+nsubj	included	career
+root	ROOT	included
+dobj	included	combat
+case	Vietnam	in
+nmod:in	combat	Vietnam
+cc	Vietnam	and
+conj:and	Vietnam	head
+case	efforts	of
+compound	efforts	U.S.
+compound	efforts	peacekeeping
+nmod:of	head	efforts
+case	Bosnia	in
+nmod:in	efforts	Bosnia
+punct	included	.

@@ -1,0 +1,11 @@
+root	ROOT	make
+det	mess	a
+dobj	make	mess
+conj:or	mess	mess
+case	disorder	of
+cc	of	or
+conj:or	of	create
+nmod:create	mess	disorder
+nmod:of	mess	disorder
+nmod	make	in
+punct	make	.

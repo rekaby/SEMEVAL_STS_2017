@@ -1,0 +1,11 @@
+compound	lockers	Coin
+nsubj	feature	lockers
+cop	feature	are
+det	feature	a
+root	ROOT	feature
+case	stations	of
+amod	stations	most
+nmod:of	feature	stations
+case	Japan	in
+nmod:in	stations	Japan
+punct	feature	.

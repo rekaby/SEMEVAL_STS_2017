@@ -1,0 +1,8 @@
+nummod	girls	Two
+amod	girls	little
+nsubj	talk	girls
+root	ROOT	talk
+case	telephone	on
+det	telephone	the
+nmod:on	talk	telephone
+punct	talk	.

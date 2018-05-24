@@ -1,0 +1,8 @@
+det	man	A
+nsubj	removes	man
+root	ROOT	removes
+dobj	removes	food
+case	bag	from
+det	bag	a
+nmod:from	removes	bag
+punct	removes	.

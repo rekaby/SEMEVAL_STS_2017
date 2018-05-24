@@ -1,0 +1,7 @@
+root	ROOT	Kitchen
+case	table	with
+amod	table	wooden
+nmod:with	Kitchen	table
+cc	table	and
+conj:and	table	cabinets
+punct	Kitchen	.

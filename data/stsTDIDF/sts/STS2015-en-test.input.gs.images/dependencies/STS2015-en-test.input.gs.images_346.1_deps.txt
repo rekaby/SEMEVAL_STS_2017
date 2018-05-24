@@ -1,0 +1,6 @@
+nummod	people	Two
+nsubj	bed	people
+cop	bed	are
+case	bed	in
+root	ROOT	bed
+punct	bed	.

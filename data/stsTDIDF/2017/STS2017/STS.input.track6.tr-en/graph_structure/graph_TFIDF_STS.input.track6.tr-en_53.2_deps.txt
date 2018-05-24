@@ -1,0 +1,7 @@
+stick	mouth	nmod:in
+ROOT	dog	root
+running	stick	nmod:with
+stick	with	case
+stick	a	det
+dog	running	acl
+mouth	his	nmod:poss

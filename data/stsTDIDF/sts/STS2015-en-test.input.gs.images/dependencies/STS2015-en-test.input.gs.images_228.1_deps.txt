@@ -1,0 +1,11 @@
+nummod	terriers	Two
+nsubj	play	terriers
+root	ROOT	play
+case	floor	on
+det	floor	the
+compound	floor	wood
+nmod:on	play	floor
+case	home	of
+nmod:poss	home	their
+nmod:of	floor	home
+punct	play	.

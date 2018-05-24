@@ -1,0 +1,16 @@
+det	man	A
+nsubj	watching	man
+aux	watching	is
+root	ROOT	watching
+det	set	a
+amod	set	small
+compound	set	television
+dobj	watching	set
+case	alcove	in
+det	alcove	the
+nmod:in	set	alcove
+case	building	of
+det	building	a
+amod	building	red
+nmod:of	alcove	building
+punct	watching	.

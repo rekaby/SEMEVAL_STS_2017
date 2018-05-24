@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	mixes	woman
+root	ROOT	mixes
+compound:prt	mixes	up
+dobj	mixes	vegetables
+punct	mixes	.

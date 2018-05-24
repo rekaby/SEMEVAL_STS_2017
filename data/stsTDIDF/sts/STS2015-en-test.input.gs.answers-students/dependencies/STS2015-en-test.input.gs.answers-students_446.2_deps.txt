@@ -1,0 +1,14 @@
+mark	damaged	If
+nsubjpass	damaged	C
+auxpass	damaged	is
+advcl	path	damaged
+punct	path	,
+nsubj	path	A
+cc	A	and
+conj:and	A	B
+cop	path	are
+advmod	path	still
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

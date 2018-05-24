@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+det	girl	a
+nsubj	is	girl
+case	man	in
+mwe	in	front
+mwe	in	of
+det	man	a
+nmod:in_front_of	girl	man
+punct	is	.

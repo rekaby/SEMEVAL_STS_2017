@@ -1,0 +1,7 @@
+compound	Flushed	Ukraine
+compound	Flushed	Claims
+compound	Flushed	Rebels
+root	ROOT	Flushed
+case	Stronghold	from
+compound	Stronghold	Main
+nmod:from	Flushed	Stronghold

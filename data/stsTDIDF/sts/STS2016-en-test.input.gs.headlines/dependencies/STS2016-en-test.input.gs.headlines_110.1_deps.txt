@@ -1,0 +1,7 @@
+compound	Cup	World
+nsubj	hit	Cup
+root	ROOT	hit
+case	stadium	by
+amod	stadium	new
+nmod:by	hit	stadium
+dobj	hit	death

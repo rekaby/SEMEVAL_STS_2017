@@ -1,0 +1,7 @@
+root	ROOT	.-1) nsubj(saved-3, Kobe
+advmod	saved	just
+root	ROOT	saved
+advmod	$	about
+dobj	saved	$
+nummod	$	100
+nmod:npmod	$	Mil

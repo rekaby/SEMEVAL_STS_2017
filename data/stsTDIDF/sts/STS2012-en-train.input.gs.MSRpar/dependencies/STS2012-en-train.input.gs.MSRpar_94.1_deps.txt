@@ -1,0 +1,11 @@
+nsubj	battled	Dusty
+aux	battled	had
+root	ROOT	battled
+compound	cancer	kidney
+dobj	battled	cancer
+case	year	for
+advmod	a	more
+mwe	more	than
+nummod	year	a
+nmod:for	battled	year
+punct	battled	.

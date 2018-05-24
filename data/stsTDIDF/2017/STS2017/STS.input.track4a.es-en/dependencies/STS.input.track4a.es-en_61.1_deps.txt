@@ -1,0 +1,14 @@
+det	man	A
+nsubj	hut	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+cop	hut	is
+case	hut	in
+det	hut	a
+root	ROOT	hut
+case	village	in
+det	village	a
+nmod:in	hut	village
+punct	hut	.

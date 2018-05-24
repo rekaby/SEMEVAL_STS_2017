@@ -1,0 +1,11 @@
+compound	Stanley	Kyle
+nsubj	Gained	Stanley
+root	ROOT	Gained
+case	Pain	from
+nmod:from	Gained	Pain
+case	Lead	of
+compound	Lead	Squandered
+nmod:of	Pain	Lead
+case	Pines	at
+compound	Pines	Torrey
+nmod:at	Lead	Pines

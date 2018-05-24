@@ -1,0 +1,8 @@
+amod	mines	Russian
+compound	mines	coal
+nsubj	seek	mines
+root	ROOT	seek
+amod	outlets	new
+dobj	seek	outlets
+case	China	in
+nmod:in	outlets	China

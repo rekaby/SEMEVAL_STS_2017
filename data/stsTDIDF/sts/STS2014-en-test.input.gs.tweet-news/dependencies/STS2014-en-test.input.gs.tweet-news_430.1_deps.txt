@@ -1,0 +1,5 @@
+root	ROOT	Time
+mark	ban	to
+acl	Time	ban
+dobj	ban	nighclubs
+punct	Time	.

@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+case	jacket	with
+det	jacket	a
+amod	jacket	black
+compound	jacket	leather
+nmod:with	man	jacket
+punct	man	.

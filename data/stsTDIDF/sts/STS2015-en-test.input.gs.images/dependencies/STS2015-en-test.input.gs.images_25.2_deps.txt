@@ -1,0 +1,9 @@
+det	person	A
+nsubj	diving	person
+cop	diving	is
+root	ROOT	diving
+case	water	into
+amod	water	clear
+amod	water	blue
+nmod:into	diving	water
+punct	diving	.

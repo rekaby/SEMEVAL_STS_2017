@@ -1,0 +1,9 @@
+det	panel	A
+root	ROOT	panel
+case	Einstein	of
+compound	Einstein	Albert
+nmod:of	panel	Einstein
+case	bear	on
+det	bear	a
+nmod:on	panel	bear
+punct	panel	.

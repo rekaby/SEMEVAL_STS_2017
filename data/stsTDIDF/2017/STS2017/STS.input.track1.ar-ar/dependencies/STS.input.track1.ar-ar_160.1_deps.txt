@@ -1,0 +1,7 @@
+root	ROOT	Play
+nummod	shots	two
+dobj	Play	shots
+case	water	in
+det	water	the
+nmod:in	Play	water
+punct	Play	.

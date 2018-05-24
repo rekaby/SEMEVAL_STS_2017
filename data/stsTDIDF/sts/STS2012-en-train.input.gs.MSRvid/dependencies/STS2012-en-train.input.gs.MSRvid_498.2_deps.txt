@@ -1,0 +1,13 @@
+det	man	The
+nsubj	took	man
+root	ROOT	took
+det	piece	a
+dobj	took	piece
+case	pizza	of
+compound	pizza	pepperoni
+nmod:of	piece	pizza
+case	box	out
+mwe	out	of
+det	box	the
+nmod:out_of	took	box
+punct	took	.

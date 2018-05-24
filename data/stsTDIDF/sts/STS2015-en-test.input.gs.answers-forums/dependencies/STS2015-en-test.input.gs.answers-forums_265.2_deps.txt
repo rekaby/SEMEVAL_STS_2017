@@ -1,0 +1,14 @@
+nsubj	agree	I
+root	ROOT	agree
+case	others	with
+nmod:with	agree	others
+nsubj	fundamental	that
+acl	that	tracking
+nmod:poss	time	your
+dobj	tracking	time
+cop	fundamental	is
+acl:relcl	others	fundamental
+case	solution	to
+det	solution	the
+nmod:to	fundamental	solution
+punct	agree	.

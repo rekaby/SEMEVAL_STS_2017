@@ -1,0 +1,9 @@
+nsubj	proposes	Treasury
+root	ROOT	proposes
+compound	%	1.5
+amod	raise	%
+compound	raise	income
+compound	raise	tax
+dobj	proposes	raise
+case	budget	in
+nmod:in	raise	budget

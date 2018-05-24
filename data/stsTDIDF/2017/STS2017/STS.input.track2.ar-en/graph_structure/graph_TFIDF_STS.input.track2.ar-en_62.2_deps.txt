@@ -1,0 +1,5 @@
+ghost	a	det
+chasing	.	punct
+ROOT	chasing	root
+chasing	ghost	dobj
+chasing	Dog	nsubj

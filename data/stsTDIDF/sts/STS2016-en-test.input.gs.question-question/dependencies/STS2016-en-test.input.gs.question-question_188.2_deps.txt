@@ -1,0 +1,11 @@
+cop	possible	Is
+nsubj	possible	it
+root	ROOT	possible
+mark	write	to
+xcomp	possible	write
+det	song	a
+dobj	write	song
+case	key	without
+det	key	a
+nmod:without	write	key
+punct	possible	?

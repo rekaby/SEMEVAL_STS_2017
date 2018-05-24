@@ -1,0 +1,7 @@
+nsubj	Unveils	Senator
+root	ROOT	Unveils
+dobj	Unveils	Bill
+mark	Limit	to
+xcomp	Unveils	Limit
+compound	Arms	Semiautomatic
+dobj	Limit	Arms

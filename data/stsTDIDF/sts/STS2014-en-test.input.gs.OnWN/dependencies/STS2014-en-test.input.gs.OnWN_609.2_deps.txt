@@ -1,0 +1,10 @@
+root	ROOT	cause
+punct	liquid	-LRB-
+det	liquid	a
+appos	cause	liquid
+punct	liquid	-RRB-
+mark	leach	to
+acl	cause	leach
+cc	leach	or
+conj:or	leach	percolate
+punct	cause	.

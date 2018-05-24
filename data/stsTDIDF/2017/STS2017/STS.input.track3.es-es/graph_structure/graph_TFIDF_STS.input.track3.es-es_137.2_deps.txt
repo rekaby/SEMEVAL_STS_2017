@@ -1,0 +1,4 @@
+walking	people	nsubj
+walking	street	nmod:on
+are	walking	ccomp
+street	busy	amod

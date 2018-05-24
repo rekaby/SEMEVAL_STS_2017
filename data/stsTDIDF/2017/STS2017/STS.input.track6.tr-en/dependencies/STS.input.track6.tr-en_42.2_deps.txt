@@ -1,0 +1,10 @@
+nummod	person	One
+nsubj	holds	person
+root	ROOT	holds
+det	photo	a
+dobj	holds	photo
+case	you	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	photo	you
+punct	holds	.

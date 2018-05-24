@@ -1,0 +1,9 @@
+nsubj	done	I
+aux	done	've
+root	ROOT	done
+det	dozens	this
+amod	dozens	many
+dobj	done	dozens
+case	times	of
+nmod:of	dozens	times
+punct	done	.

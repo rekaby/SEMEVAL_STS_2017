@@ -1,0 +1,7 @@
+root	ROOT	give
+amod	life	new
+dobj	give	life
+cc	life	or
+conj:or	life	energy
+nmod	give	to
+punct	give	.

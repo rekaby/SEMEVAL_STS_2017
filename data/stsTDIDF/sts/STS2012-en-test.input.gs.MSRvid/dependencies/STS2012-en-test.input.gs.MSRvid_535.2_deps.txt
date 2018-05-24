@@ -1,0 +1,10 @@
+det	man	A
+nsubj	singing	man
+cop	singing	is
+root	ROOT	singing
+mark	walking	while
+advcl	singing	walking
+compound:prt	walking	down
+det	sidewalk	the
+dobj	walking	sidewalk
+punct	singing	.

@@ -1,0 +1,12 @@
+det	person	A
+nsubj	water	person
+cop	water	is
+case	water	in
+det	water	the
+root	ROOT	water
+cc	water	and
+conj:and	water	throwing
+nmod:poss	hair	their
+dobj	throwing	hair
+advmod	throwing	back
+punct	water	.

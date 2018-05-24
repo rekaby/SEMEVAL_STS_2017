@@ -1,0 +1,6 @@
+amod	minister	Indian
+root	ROOT	minister
+acl	minister	killed
+case	collision	in
+amod	collision	head-on
+nmod:in	killed	collision

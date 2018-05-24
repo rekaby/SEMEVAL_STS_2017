@@ -1,0 +1,17 @@
+nsubj	causes	What
+root	ROOT	causes
+det	chips	these
+dobj	causes	chips
+case	wall	in
+det	wall	a
+compound	wall	cement
+compound	wall	brick
+nmod:in	causes	wall
+punct	causes	,
+cc	causes	and
+advmod	fix	how
+aux	fix	can
+nsubj	fix	I
+conj:and	causes	fix
+dobj	fix	them
+punct	causes	?

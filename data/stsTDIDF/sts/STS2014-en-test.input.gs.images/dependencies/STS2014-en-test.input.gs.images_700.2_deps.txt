@@ -1,0 +1,6 @@
+root	ROOT	House
+case	door	with
+det	door	a
+amod	door	red
+nmod:with	House	door
+punct	House	.

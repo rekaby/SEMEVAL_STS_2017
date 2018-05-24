@@ -1,0 +1,5 @@
+nsubj	sets	Avengers
+root	ROOT	sets
+compound	record	box
+compound	record	office
+dobj	sets	record

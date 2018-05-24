@@ -1,0 +1,17 @@
+det	following	The
+nsubjpass	taken	following
+auxpass	taken	is
+root	ROOT	taken
+case	copy	from
+nmod:poss	copy	my
+amod	copy	dog-eared
+nmod:from	taken	copy
+case	Atlas	of
+det	Atlas	the
+compound	Atlas	New
+compound	Atlas	Penguin
+nmod:of	copy	Atlas
+case	History	of
+amod	History	Medieval
+nmod:of	Atlas	History
+punct	taken	.

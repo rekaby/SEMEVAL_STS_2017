@@ -1,0 +1,15 @@
+det	cat	A
+amod	cat	white
+nsubj	looking	cat
+acl	cat	perched
+case	cabinet	on
+det	cabinet	a
+amod	cabinet	small
+amod	cabinet	wooden
+nmod:on	perched	cabinet
+aux	looking	is
+root	ROOT	looking
+case	window	outside
+det	window	the
+nmod:outside	looking	window
+punct	looking	.

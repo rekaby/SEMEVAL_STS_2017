@@ -1,0 +1,4 @@
+Group	children	nmod:of
+ROOT	Group	root
+children	fighting	acl
+Group	.	punct

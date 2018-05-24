@@ -1,0 +1,16 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+dep	NYTimes	Armstrong
+punct	Armstrong	,
+det	Confession	a
+appos	Armstrong	Confession
+case	Explanation-the	Without
+nmod:without	Armstrong	Explanation-the
+advmod	sophisticated	most
+dep	Explanation-the	sophisticated
+punct	sophisticated	,
+conj:and	sophisticated	organized
+cc	sophisticated	and
+conj:and	sophisticated	professionalized
+punct	NYTimes	?-15) case(history-2, in
+root	ROOT	history

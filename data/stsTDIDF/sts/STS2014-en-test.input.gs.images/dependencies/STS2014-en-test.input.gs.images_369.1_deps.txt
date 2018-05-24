@@ -1,0 +1,7 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	sitting
+case	couch	on
+amod	couch	brown
+nmod:on	sitting	couch
+punct	women	.

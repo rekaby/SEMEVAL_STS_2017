@@ -1,0 +1,12 @@
+det	cat	A
+amod	cat	grey
+cc	grey	and
+conj:and	grey	white
+compound	cat	tabby
+nsubj	sleeping	cat
+aux	sleeping	is
+root	ROOT	sleeping
+case	fabric	on
+amod	fabric	purple
+nmod:on	sleeping	fabric
+punct	sleeping	.

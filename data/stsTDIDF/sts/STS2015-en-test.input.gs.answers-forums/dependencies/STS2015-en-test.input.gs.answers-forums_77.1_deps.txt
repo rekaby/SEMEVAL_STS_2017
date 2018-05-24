@@ -1,0 +1,16 @@
+det	words	The
+punct	words	``
+advmod	posh	more
+amod	words	posh
+punct	words	''
+nsubj	Latin	words
+cop	Latin	are
+advmod	Latin	usually
+root	ROOT	Latin
+punct	Greek	-LRB-
+advmod	Greek	occasionally
+dep	Latin	Greek
+punct	Greek	-RRB-
+case	origin	in
+nmod:in	Latin	origin
+punct	Latin	.

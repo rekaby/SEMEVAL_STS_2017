@@ -1,0 +1,7 @@
+det	people	the
+root	ROOT	people
+nsubj	dwell	who
+acl:relcl	people	dwell
+case	camp	in
+det	camp	a
+nmod:in	dwell	camp

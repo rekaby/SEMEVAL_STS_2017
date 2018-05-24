@@ -1,0 +1,9 @@
+det	girl	A
+amod	girl	young
+nsubj	holds	girl
+root	ROOT	holds
+compound:prt	holds	up
+det	sign	a
+compound	sign	peace
+dobj	holds	sign
+punct	holds	.

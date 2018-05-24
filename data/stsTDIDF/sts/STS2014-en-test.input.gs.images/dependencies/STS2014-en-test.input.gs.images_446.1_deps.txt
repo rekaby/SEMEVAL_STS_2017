@@ -1,0 +1,9 @@
+det	sheep	A
+nsubj	standing	sheep
+root	ROOT	standing
+case	table	on
+det	table	a
+nmod:on	standing	table
+case	auction	at
+nmod:at	table	auction
+punct	standing	.

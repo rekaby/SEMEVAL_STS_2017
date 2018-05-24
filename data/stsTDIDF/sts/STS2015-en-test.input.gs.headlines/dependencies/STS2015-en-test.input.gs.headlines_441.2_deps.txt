@@ -1,0 +1,6 @@
+nsubj	arrests	Egypt
+root	ROOT	arrests
+amod	leader	Muslim
+compound	leader	Brotherhood
+compound	Badie	leader
+dobj	arrests	Badie

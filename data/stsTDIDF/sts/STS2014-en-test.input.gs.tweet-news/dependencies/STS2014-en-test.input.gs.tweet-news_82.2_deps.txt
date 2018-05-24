@@ -1,0 +1,5 @@
+root	ROOT	Deepening
+dobj	Deepening	Crisis
+case	Dreamliner	for
+det	Dreamliner	the
+nmod:for	Crisis	Dreamliner

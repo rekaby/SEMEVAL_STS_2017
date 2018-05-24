@@ -1,0 +1,4 @@
+sleeping	People	nsubj
+couch	the	det
+sleeping	are	aux
+sleeping	couch	nmod:on

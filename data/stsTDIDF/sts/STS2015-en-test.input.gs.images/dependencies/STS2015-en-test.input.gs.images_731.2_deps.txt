@@ -1,0 +1,12 @@
+det	man	a
+nsubj	passes	man
+acl	man	driving
+det	boat	a
+amod	boat	blue
+dobj	driving	boat
+root	ROOT	passes
+case	houses	by
+det	houses	some
+amod	houses	colorful
+nmod:by	passes	houses
+punct	passes	.

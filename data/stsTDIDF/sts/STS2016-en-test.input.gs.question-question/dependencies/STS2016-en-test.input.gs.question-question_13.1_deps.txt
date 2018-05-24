@@ -1,0 +1,11 @@
+advmod	prepare	How
+aux	prepare	can
+nsubj	prepare	I
+root	ROOT	prepare
+det	wall	this
+amod	wall	old
+compound	wall	exterior
+dobj	prepare	wall
+case	painting	for
+nmod:for	prepare	painting
+punct	prepare	?

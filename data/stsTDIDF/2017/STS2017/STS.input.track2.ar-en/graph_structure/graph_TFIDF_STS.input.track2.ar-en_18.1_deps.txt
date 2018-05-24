@@ -1,0 +1,6 @@
+Skateboarder	midair	nmod:in
+ROOT	Skateboarder	root
+midair	in	case
+park	at	case
+Skateboarder	.	punct
+Skateboarder	park	nmod:at

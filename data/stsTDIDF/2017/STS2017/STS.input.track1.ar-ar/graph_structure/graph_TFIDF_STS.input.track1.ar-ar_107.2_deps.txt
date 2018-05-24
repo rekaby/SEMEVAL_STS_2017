@@ -1,0 +1,4 @@
+jacket	leather	compound
+jacket	with	case
+jacket	black	amod
+man	jacket	nmod:with

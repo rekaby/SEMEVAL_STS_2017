@@ -1,0 +1,6 @@
+det	person	The
+nsubj	slicing	person
+aux	slicing	is
+root	ROOT	slicing
+dobj	slicing	cheese
+punct	slicing	.

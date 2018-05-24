@@ -1,0 +1,10 @@
+root	ROOT	Egypt
+punct	Egypt	:
+appos	Egypt	Child
+acl	Child	killed
+case	clashes	in
+compound	clashes	Cairo
+nmod:in	killed	clashes
+case	protest	after
+amod	protest	pro-Morsi
+nmod:after	clashes	protest

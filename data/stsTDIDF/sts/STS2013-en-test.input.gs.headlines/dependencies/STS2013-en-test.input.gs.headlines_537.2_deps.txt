@@ -1,0 +1,10 @@
+case	least	At
+nmod:npmod	18	least
+nummod	officials	18
+acl	18	killed
+case	attacks	in
+compound	attacks	Afghan
+compound	attacks	bomb
+nmod:in	killed	attacks
+punct	18	:
+root	ROOT	officials

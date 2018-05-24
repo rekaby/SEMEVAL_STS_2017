@@ -1,0 +1,17 @@
+nsubj	want	I
+root	ROOT	want
+mark	remind	to
+xcomp	want	remind
+dobj	remind	you
+dobj	remind	that
+case	allies	of
+nmod:poss	allies	our
+nmod:of	that	allies
+punct	major	,
+nsubj	major	it
+cop	major	is
+case	major	of
+dep	that	major
+case	tax	of
+nmod:of	major	tax
+punct	want	.

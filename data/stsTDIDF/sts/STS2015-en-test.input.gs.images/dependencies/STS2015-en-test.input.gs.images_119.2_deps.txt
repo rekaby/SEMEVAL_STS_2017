@@ -1,0 +1,14 @@
+det	man	A
+nsubj	riding	man
+acl	man	wearing
+det	hat	a
+amod	hat	blue
+dobj	wearing	hat
+cc	hat	and
+conj:and	hat	shirt
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+amod	horse	white
+dobj	riding	horse
+punct	riding	.

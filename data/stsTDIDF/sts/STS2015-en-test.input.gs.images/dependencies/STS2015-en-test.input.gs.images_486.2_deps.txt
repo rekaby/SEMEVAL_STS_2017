@@ -1,0 +1,15 @@
+det	bunch	A
+root	ROOT	bunch
+case	people	of
+nmod:of	bunch	people
+acl	people	standing
+case	car	next
+mwe	next	to
+det	car	a
+nmod:next_to	standing	car
+mark	open	with
+nsubj	open	it
+cop	open	's
+compound	open	trunk
+acl	car	open
+punct	bunch	.

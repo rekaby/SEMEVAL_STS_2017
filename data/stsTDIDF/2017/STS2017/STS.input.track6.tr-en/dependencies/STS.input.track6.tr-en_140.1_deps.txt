@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	sitting
+case	doorway	in
+det	doorway	a
+nmod:in	sitting	doorway
+acl	doorway	working
+case	something	on
+nmod:on	working	something
+punct	men	.

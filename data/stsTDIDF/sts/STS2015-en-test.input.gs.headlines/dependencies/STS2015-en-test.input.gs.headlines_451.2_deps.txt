@@ -1,0 +1,8 @@
+compound	yuan	China
+nsubj	strengthens	yuan
+root	ROOT	strengthens
+case	6.1070	to
+nmod:to	strengthens	6.1070
+case	USD	against
+nmod:against	strengthens	USD
+nmod:tmod	strengthens	Friday

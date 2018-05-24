@@ -1,0 +1,12 @@
+boy	An	det
+smiling	.	punct
+smiling	boy	nsubj
+crowd	people	nmod:of
+boy	Asian	amod
+boy	girl	conj:and
+girl	Asian	amod
+ROOT	smiling	root
+girl	an	det
+boy	and	cc
+smiling	crowd	nmod:in
+smiling	are	aux

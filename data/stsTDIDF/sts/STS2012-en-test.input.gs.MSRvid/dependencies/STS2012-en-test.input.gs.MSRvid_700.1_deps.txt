@@ -1,0 +1,6 @@
+det	lady	The
+nsubj	sliced	lady
+root	ROOT	sliced
+det	tomatoe	a
+dobj	sliced	tomatoe
+punct	sliced	.

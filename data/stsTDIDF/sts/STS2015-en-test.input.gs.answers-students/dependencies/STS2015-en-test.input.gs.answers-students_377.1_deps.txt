@@ -1,0 +1,7 @@
+nsubjpass	contained	battery
+auxpass	contained	is
+root	ROOT	contained
+case	path	on
+det	path	a
+amod	path	closed
+nmod:on	contained	path

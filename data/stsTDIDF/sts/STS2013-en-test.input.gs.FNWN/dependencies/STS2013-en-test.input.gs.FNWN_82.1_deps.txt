@@ -1,0 +1,16 @@
+det	entity	an
+nsubjpass	designed	entity
+auxpass	designed	is
+root	ROOT	designed
+nmod	designed	for
+cc	for	or
+conj:or	for	exists
+mark	perform	to
+ccomp	exists	perform
+det	activity	an
+dobj	perform	activity
+cc	perform	or
+conj:or	perform	fulfill
+det	role	a
+dobj	fulfill	role
+punct	designed	.

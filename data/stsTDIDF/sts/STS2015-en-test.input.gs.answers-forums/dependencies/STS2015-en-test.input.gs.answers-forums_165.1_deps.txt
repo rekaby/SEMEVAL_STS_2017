@@ -1,0 +1,16 @@
+nsubj	safe	You
+cop	safe	are
+root	ROOT	safe
+mark	use	to
+xcomp	safe	use
+det	bottles	the
+dobj	use	bottles
+advmod	long	as
+advmod	use	long
+mark	sterilised	as
+nsubjpass	sterilised	they
+aux	sterilised	have
+auxpass	sterilised	been
+advmod	sterilised	properly
+advcl	long	sterilised
+punct	safe	.

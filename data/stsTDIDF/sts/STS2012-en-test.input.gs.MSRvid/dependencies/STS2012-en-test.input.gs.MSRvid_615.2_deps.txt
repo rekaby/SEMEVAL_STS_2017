@@ -1,0 +1,9 @@
+det	man	A
+nsubj	sings	man
+case	hat	in
+det	hat	a
+nmod:in	man	hat
+root	ROOT	sings
+det	song	a
+dobj	sings	song
+punct	sings	.

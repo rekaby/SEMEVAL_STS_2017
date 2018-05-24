@@ -1,0 +1,6 @@
+det	branch	a
+amod	branch	major
+root	ROOT	branch
+case	tree	of
+det	tree	a
+nmod:of	branch	tree

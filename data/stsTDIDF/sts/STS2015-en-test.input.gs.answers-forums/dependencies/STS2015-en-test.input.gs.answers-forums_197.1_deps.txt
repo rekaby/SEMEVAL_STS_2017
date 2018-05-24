@@ -1,0 +1,17 @@
+nmod:poss	guess	My
+nsubj	is	guess
+root	ROOT	is
+nsubj	means	that
+ccomp	is	means
+nmod:poss	cat	your
+nsubj	likes	cat
+advmod	marginally	only
+advmod	likes	marginally
+ccomp	means	likes
+det	food	the
+dobj	likes	food
+nsubj	feeding	you
+aux	feeding	're
+acl:relcl	food	feeding
+dobj	feeding	him
+punct	is	.

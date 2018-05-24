@@ -1,0 +1,6 @@
+root	ROOT	Muslims
+mark	hiding	in
+acl	Muslims	hiding
+case	sectarian	as
+nmod:as	hiding	sectarian
+punct	Muslims	...

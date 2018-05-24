@@ -1,0 +1,12 @@
+guy	shirt	nmod:with
+campfire	at	case
+cooking	campfire	nmod:at
+shirt	with	case
+cooking	guy	nsubj
+cooking	family	nmod:for
+cooking	.	punct
+ROOT	cooking	root
+cooking	is	aux
+shirt	green	amod
+campfire	the	det
+shirt	the	det

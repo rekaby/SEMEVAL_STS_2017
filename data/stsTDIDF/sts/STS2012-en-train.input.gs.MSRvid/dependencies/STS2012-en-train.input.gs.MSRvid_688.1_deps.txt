@@ -1,0 +1,8 @@
+det	man	The
+root	ROOT	man
+dep	man	did
+dobj	did	pushups
+case	wall	on
+det	wall	a
+nmod:on	pushups	wall
+punct	man	.

@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+case	coat	in
+det	coat	a
+amod	coat	brown
+nmod:in	man	coat
+acl	coat	rubs
+nmod:poss	nose	his
+dobj	rubs	nose
+punct	man	.

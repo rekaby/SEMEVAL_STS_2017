@@ -1,0 +1,7 @@
+expl	is	there
+root	ROOT	is
+neg	gap	no
+nsubj	is	gap
+case	terminals	between
+det	terminals	the
+nmod:between	gap	terminals

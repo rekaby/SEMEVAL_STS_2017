@@ -1,0 +1,10 @@
+det	activity	the
+root	ROOT	activity
+mark	protecting	of
+acl	activity	protecting
+dobj	protecting	something
+case	loss	from
+nmod:from	protecting	loss
+cc	loss	or
+conj:or	loss	danger
+punct	activity	.

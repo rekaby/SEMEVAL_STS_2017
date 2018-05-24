@@ -1,0 +1,5 @@
+amod	event	festive
+amod	event	social
+root	ROOT	event
+punct	event	,
+appos	event	celebration

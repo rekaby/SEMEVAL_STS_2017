@@ -1,0 +1,9 @@
+nsubj	confirms	Egypt
+root	ROOT	confirms
+nmod:poss	PM	Mubarak
+case	Mubarak	's
+nsubj	race	PM
+advmod	PM	back
+case	presidency	in
+nmod:in	back	presidency
+ccomp	confirms	race

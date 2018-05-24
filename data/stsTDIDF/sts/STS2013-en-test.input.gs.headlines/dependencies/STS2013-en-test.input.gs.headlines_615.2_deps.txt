@@ -1,0 +1,9 @@
+root	ROOT	What
+cop	What	is
+nsubj	thinking	Russia
+nsubj	What	thinking
+case	Syria	on
+nmod:on	thinking	Syria
+punct	What	?-7) det(guide-3, A
+amod	guide	brief
+root	ROOT	guide

@@ -1,0 +1,7 @@
+det	bird	A
+nsubj	flies	bird
+root	ROOT	flies
+case	water	across
+det	water	the
+nmod:across	flies	water
+punct	flies	.

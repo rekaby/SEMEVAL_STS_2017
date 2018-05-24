@@ -1,0 +1,8 @@
+neg	need	no
+root	ROOT	need
+mark	tell	to
+acl	need	tell
+dobj	tell	them
+case	all	at
+nmod:at	tell	all
+punct	need	.

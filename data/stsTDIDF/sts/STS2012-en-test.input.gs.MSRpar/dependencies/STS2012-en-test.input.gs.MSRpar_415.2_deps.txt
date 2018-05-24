@@ -1,0 +1,16 @@
+det	report	The
+nsubjpass	found	report
+auxpass	found	was
+root	ROOT	found
+amod	week	last
+nmod:tmod	tucked	week
+xcomp	found	tucked
+case	manual	inside
+det	manual	a
+compound	manual	training
+nmod:inside	tucked	manual
+nsubj	belonged	that
+acl:relcl	manual	belonged
+case	Hicks	to
+nmod:to	belonged	Hicks
+punct	found	.

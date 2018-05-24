@@ -1,0 +1,12 @@
+det	terminals	the
+nsubjpass	connedted	terminals
+auxpass	connedted	are
+root	ROOT	connedted
+case	terminal	to
+det	terminal	the
+amod	terminal	negative
+nmod:to	connedted	terminal
+case	battery	of
+det	battery	the
+nmod:of	terminal	battery
+punct	connedted	.

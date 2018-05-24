@@ -1,0 +1,10 @@
+nummod	boys	Two
+nsubj	playing	boys
+case	couch	on
+det	couch	a
+nmod:on	boys	couch
+aux	playing	are
+root	ROOT	playing
+compound	games	video
+dobj	playing	games
+punct	playing	.

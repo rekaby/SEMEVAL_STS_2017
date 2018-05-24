@@ -1,0 +1,8 @@
+root	ROOT	make
+det	surface	the
+dobj	make	surface
+case	level	of
+nmod:of	surface	level
+cc	level	or
+conj:or	level	smooth
+punct	make	.

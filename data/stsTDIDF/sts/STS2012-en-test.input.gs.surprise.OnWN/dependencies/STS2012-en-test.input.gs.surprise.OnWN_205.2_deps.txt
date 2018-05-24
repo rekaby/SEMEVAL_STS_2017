@@ -1,0 +1,4 @@
+det	brightness	a
+amod	brightness	momentary
+root	ROOT	brightness
+punct	brightness	.

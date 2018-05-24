@@ -1,0 +1,12 @@
+root	ROOT	do
+dobj	do	duty
+cc	duty	or
+conj:or	duty	hold
+dobj	hold	offices
+punct	do	;
+parataxis	do	serve
+case	function	in
+det	function	a
+amod	function	specific
+nmod:in	serve	function
+punct	do	;

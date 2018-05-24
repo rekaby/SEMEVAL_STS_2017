@@ -1,0 +1,11 @@
+det	way	the
+root	ROOT	way
+nsubj	attributes	something
+cop	attributes	is
+case	attributes	with
+mwe	with	respect
+mwe	with	to
+nmod:poss	attributes	its
+amod	attributes	main
+acl:relcl	way	attributes
+punct	way	;

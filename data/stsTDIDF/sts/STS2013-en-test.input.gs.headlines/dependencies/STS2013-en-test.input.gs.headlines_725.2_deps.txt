@@ -1,0 +1,7 @@
+compound	mayor	Newark
+nsubj	rescues	mayor
+root	ROOT	rescues
+dobj	rescues	neighbor
+mark	burning	from
+advcl	rescues	burning
+dobj	burning	house

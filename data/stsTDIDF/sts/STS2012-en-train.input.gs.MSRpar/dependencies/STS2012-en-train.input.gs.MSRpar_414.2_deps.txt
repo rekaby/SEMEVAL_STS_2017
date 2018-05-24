@@ -1,0 +1,16 @@
+nsubj	approved	AFTRA
+punct	approved	,
+case	hand	on
+det	hand	the
+amod	hand	other
+nmod:on	approved	hand
+punct	approved	,
+root	ROOT	approved
+det	merger	the
+dobj	approved	merger
+case	percent	by
+det	percent	a
+amod	percent	whopping
+nummod	percent	75
+nmod:by	approved	percent
+punct	approved	.

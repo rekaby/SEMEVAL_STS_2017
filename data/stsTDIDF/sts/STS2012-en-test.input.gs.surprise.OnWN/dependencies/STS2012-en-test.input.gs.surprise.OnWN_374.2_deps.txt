@@ -1,0 +1,6 @@
+root	ROOT	provide
+case	power	with
+nmod:with	provide	power
+cc	power	and
+conj:and	power	authority
+punct	provide	.

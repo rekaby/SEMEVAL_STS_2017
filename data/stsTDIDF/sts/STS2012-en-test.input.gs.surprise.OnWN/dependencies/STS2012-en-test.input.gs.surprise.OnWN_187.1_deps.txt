@@ -1,0 +1,11 @@
+root	ROOT	discern
+punct	discern	,
+conj:or	discern	identify
+punct	discern	,
+cc	discern	or
+conj:or	discern	know
+case	experience	because
+mwe	because	of
+det	experience	a
+amod	experience	previous
+nmod:because_of	know	experience

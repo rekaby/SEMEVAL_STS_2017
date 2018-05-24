@@ -1,0 +1,15 @@
+det	Edition	The
+compound	Edition	Standard
+nsubj	$	Edition
+cop	$	is
+root	ROOT	$
+nummod	$	15,000
+case	processor	per
+nmod:per	$	processor
+cc	processor	or
+conj:or	processor	$
+nummod	$	300
+case	user	per
+amod	user	named
+nmod:per	$	user
+punct	$	.

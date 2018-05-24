@@ -1,0 +1,13 @@
+det	group	A
+root	ROOT	group
+case	children	of
+nmod:of	group	children
+acl	children	playing
+compound	games	video
+dobj	playing	games
+case	house	at
+det	friend	a
+nmod:poss	house	friend
+case	friend	's
+nmod:at	playing	house
+punct	group	.

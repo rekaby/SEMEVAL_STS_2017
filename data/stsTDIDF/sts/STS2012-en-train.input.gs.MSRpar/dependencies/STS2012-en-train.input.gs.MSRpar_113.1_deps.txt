@@ -1,0 +1,13 @@
+nsubjpass	tracked	He
+auxpass	tracked	was
+root	ROOT	tracked
+case	Atlanta	to
+nmod:to	tracked	Atlanta
+advmod	arrested	where
+nsubjpass	arrested	he
+auxpass	arrested	was
+acl:relcl	Atlanta	arrested
+case	night	on
+compound	night	Tuesday
+nmod:on	arrested	night
+punct	tracked	.

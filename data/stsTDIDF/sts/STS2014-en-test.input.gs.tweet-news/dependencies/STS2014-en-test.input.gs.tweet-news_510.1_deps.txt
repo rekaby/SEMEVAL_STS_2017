@@ -1,0 +1,9 @@
+root	ROOT	Go
+dobj	Go	#Obama
+punct	Go	.-3) nsubj(Calls-2, Obama
+root	ROOT	Calls
+case	Action	for
+amod	Action	Broad
+nmod:for	Calls	Action
+case	Guns	on
+nmod:on	Action	Guns

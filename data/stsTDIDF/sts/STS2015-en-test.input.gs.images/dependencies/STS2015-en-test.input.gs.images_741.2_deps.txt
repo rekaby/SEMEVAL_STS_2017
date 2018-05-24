@@ -1,0 +1,14 @@
+det	biker	A
+nsubj	riding	biker
+aux	riding	is
+root	ROOT	riding
+case	element	along
+det	element	a
+compound	element	track
+nmod:along	riding	element
+amod	element	located
+case	area	with
+det	area	a
+amod	area	wooded
+nmod:with	located	area
+punct	riding	.

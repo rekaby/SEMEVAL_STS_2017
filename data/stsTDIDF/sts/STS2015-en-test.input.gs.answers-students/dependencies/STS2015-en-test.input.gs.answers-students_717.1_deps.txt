@@ -1,0 +1,8 @@
+mark	path	because
+compound	c	bulb
+nsubj	path	c
+cop	path	was
+case	path	in
+det	path	an
+amod	path	open
+root	ROOT	path

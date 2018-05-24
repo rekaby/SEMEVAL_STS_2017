@@ -1,0 +1,6 @@
+root	ROOT	Understand
+det	meaning	the
+dobj	Understand	meaning
+case	something	of
+nmod:of	meaning	something
+punct	Understand	.

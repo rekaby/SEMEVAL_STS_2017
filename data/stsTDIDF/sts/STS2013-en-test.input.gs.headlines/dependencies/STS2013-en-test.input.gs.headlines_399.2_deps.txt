@@ -1,0 +1,8 @@
+compound	Poll	AP
+root	ROOT	Poll
+punct	Poll	:
+compound	Prejudice	Majority
+compound	Prejudice	Harbor
+dep	Poll	Prejudice
+case	Blacks	Against
+nmod:against	Prejudice	Blacks

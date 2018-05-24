@@ -1,0 +1,10 @@
+root	ROOT	Washington
+punct	Washington	:
+compound	Act	Court
+compound	Act	Upholds
+compound	Act	Voting
+compound	Act	Rights
+dep	Washington	Act
+case	Alabama	in
+nmod:in	Act	Alabama
+dep	Act	Case

@@ -1,0 +1,7 @@
+advmod	say	where
+aux	say	did
+nsubj	say	i
+root	ROOT	say
+nsubj	did	it
+ccomp	say	did
+punct	say	?

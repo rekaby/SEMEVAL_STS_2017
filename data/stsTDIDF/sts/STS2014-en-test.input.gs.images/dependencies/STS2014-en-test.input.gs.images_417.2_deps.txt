@@ -1,0 +1,16 @@
+det	car	A
+compound	car	silver
+root	ROOT	car
+acl	car	parked
+case	side	on
+det	side	the
+nmod:on	parked	side
+case	road	of
+det	road	the
+nmod:of	side	road
+case	hills	in
+mwe	in	front
+mwe	in	of
+det	hills	the
+nmod:in_front_of	parked	hills
+punct	car	.

@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	runs	dog
+root	ROOT	runs
+case	grass	on
+amod	grass	brown
+nmod:on	runs	grass
+punct	runs	.

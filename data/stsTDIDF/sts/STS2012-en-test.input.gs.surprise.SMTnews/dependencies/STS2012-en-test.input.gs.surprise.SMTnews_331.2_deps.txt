@@ -1,0 +1,12 @@
+det	leader	Every
+nsubj	had	leader
+root	ROOT	had
+dobj	had	theories
+cc	theories	and
+advmod	different	markedly
+amod	explanations	different
+conj:and	theories	explanations
+case	situation	regarding
+det	situation	the
+nmod:regarding	theories	situation
+punct	had	.

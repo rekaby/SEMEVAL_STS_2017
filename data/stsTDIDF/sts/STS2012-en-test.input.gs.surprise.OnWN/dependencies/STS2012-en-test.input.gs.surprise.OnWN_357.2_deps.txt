@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+case	certifying	of
+nmod:of	act	certifying
+cc	certifying	or
+conj:or	certifying	bestowing
+det	franchise	a
+dobj	bestowing	franchise
+nmod	act	on
+punct	act	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	eating	man
+aux	eating	is
+root	ROOT	eating
+det	pizza	a
+dobj	eating	pizza
+punct	eating	.

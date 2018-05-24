@@ -1,0 +1,6 @@
+compound	Africa	South
+nsubj	starts	Africa
+root	ROOT	starts
+xcomp	starts	investigating
+amod	violence	mine
+dobj	investigating	violence

@@ -1,0 +1,13 @@
+nsubj	burn	You
+root	ROOT	burn
+amod	protein	more
+compound	protein	Calories
+amod	protein	digesting
+dobj	burn	protein
+mark	do	than
+nsubj	do	you
+advcl	protein	do
+dobj	do	carbohydrates
+cc	carbohydrates	and
+conj:and	carbohydrates	fat
+punct	burn	.

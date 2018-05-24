@@ -1,0 +1,8 @@
+nsubj	remain	india
+cc	india	and
+conj:and	india	pakistan
+root	ROOT	remain
+case	treaty	outside
+det	treaty	the
+nmod:outside	remain	treaty
+punct	remain	.

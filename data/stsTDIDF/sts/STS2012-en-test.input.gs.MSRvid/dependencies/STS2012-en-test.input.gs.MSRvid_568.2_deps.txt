@@ -1,0 +1,9 @@
+det	man	A
+nsubj	turning	man
+aux	turning	is
+root	ROOT	turning
+compound:prt	turning	over
+dobj	turning	tables
+case	anger	in
+nmod:in	turning	anger
+punct	turning	.

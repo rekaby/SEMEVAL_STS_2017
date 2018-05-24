@@ -1,0 +1,8 @@
+expl	was	There
+root	ROOT	was
+nsubj	was	girl
+acl	girl	stranded
+case	roof	on
+det	roof	the
+nmod:on	stranded	roof
+punct	was	.

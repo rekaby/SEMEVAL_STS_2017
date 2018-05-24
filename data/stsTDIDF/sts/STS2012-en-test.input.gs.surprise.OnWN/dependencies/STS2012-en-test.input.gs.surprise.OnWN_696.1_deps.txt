@@ -1,0 +1,8 @@
+det	finger	the
+root	ROOT	finger
+dep	thumb	next
+case	thumb	to
+det	thumb	the
+nmod:to	finger	thumb
+punct	finger	,
+appos	finger	forefinger

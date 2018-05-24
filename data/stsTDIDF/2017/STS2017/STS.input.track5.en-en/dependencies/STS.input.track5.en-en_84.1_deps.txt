@@ -1,0 +1,8 @@
+det	man	The
+nsubj	field	man
+cop	field	is
+case	field	in
+det	field	a
+amod	field	deserted
+root	ROOT	field
+punct	field	.

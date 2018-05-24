@@ -1,0 +1,11 @@
+nummod	boys	Two
+root	ROOT	boys
+acl	boys	playing
+det	game	a
+dobj	playing	game
+case	horse	of
+nmod:of	game	horse
+case	summer	in
+det	summer	the
+nmod:in	playing	summer
+punct	boys	.

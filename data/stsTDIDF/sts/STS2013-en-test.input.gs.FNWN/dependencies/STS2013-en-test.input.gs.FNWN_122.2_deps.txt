@@ -1,0 +1,13 @@
+det	surface	a
+amod	surface	flat
+amod	surface	portable
+root	ROOT	surface
+punct	rectangular	-LRB-
+advmod	rectangular	usually
+dep	surface	rectangular
+punct	rectangular	-RRB-
+acl	surface	designed
+case	games	for
+compound	games	board
+nmod:for	designed	games
+punct	surface	;

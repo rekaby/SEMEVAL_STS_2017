@@ -1,0 +1,10 @@
+has	neck	nmod:around
+scarf	black	amod
+neck	around	case
+has	wearing	conj:and
+scarf	a	det
+wearing	hat	dobj
+has	man	nsubj
+hat	black	amod
+neck	his	nmod:poss
+has	scarf	dobj

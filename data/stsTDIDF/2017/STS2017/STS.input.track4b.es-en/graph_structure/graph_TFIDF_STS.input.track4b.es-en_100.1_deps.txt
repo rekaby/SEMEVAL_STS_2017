@@ -1,0 +1,5 @@
+told	'	punct
+interest	no	neg
+told	have	ccomp
+have	interest	dobj
+interest	say	acl

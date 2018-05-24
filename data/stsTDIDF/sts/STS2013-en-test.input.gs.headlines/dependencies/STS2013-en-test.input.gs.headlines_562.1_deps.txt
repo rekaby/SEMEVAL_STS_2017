@@ -1,0 +1,8 @@
+det	waters	The
+amod	waters	murky
+nsubj	Sea	waters
+case	China	of
+det	China	the
+compound	China	South
+nmod:of	waters	China
+root	ROOT	Sea

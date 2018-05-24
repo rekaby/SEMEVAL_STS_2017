@@ -1,0 +1,5 @@
+Woman	wearing	acl
+Woman	.	punct
+pants	gray	amod
+ROOT	Woman	root
+wearing	pants	dobj

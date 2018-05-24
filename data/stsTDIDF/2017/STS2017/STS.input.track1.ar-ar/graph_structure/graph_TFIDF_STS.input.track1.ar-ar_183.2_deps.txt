@@ -1,0 +1,5 @@
+game	dog	nmod:of
+plays	game	dobj
+dog	red	amod
+dog	of	case
+plays	Black	nsubj

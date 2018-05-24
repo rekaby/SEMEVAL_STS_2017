@@ -1,0 +1,9 @@
+nsubjpass	seperated	it
+auxpass	seperated	was
+root	ROOT	seperated
+case	gap	by
+det	gap	a
+nmod:agent	seperated	gap
+case	terminal	from
+nmod:from	gap	terminal
+nummod	seperated	3

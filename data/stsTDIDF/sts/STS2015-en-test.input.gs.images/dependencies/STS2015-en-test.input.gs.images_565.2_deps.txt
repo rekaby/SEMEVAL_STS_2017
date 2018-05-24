@@ -1,0 +1,8 @@
+amod	children	Several
+root	ROOT	children
+acl	children	playing
+case	pit	in
+det	pit	a
+compound	pit	ball
+nmod:in	playing	pit
+punct	children	.

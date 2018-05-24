@@ -1,0 +1,17 @@
+root	ROOT	Man
+case	shirt	in
+amod	shirt	white
+nmod:in	Man	shirt
+acl	shirt	flipping
+amod	boy	young
+dobj	flipping	boy
+case	water	in
+det	water	the
+nmod:in	flipping	water
+case	boys	with
+nummod	boys	four
+amod	boys	other
+nmod:with	flipping	boys
+acl	boys	surrounding
+dobj	surrounding	them
+punct	Man	.

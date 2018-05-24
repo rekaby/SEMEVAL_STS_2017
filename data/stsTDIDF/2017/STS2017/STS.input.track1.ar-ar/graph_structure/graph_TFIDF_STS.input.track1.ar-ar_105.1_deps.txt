@@ -1,0 +1,5 @@
+part	show	nmod:of
+show	streets	nmod:for
+streets	exhibitors	compound
+part	Fire	nsubj
+streets	for	case

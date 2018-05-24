@@ -1,0 +1,17 @@
+expl	's	There
+root	ROOT	's
+amod	graffiti	Latin
+nsubj	's	graffiti
+case	boredom	about
+nmod:about	graffiti	boredom
+case	walls	on
+det	walls	the
+nmod:on	boredom	walls
+case	Pompeii	of
+nmod:of	walls	Pompeii
+acl	walls	dating
+case	century	from
+det	century	the
+amod	century	first
+nmod:from	dating	century
+punct	's	.

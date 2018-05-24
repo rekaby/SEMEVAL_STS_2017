@@ -1,0 +1,8 @@
+compound	Profits	Apple?s
+nsubj	Flat	Profits
+cop	Flat	Are
+root	ROOT	Flat
+punct	Flat	,
+cc	Flat	and
+compound	Drops	Stock
+conj:and	Flat	Drops

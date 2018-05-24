@@ -1,0 +1,9 @@
+det	cat	An
+amod	cat	orange
+compound	cat	tabby
+nsubj	sleeping	cat
+root	ROOT	sleeping
+case	sofa	on
+det	sofa	the
+nmod:on	sleeping	sofa
+punct	sleeping	.

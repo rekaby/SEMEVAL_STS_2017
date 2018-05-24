@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+nsubj	plays	boy
+case	face	with
+det	face	a
+amod	face	painted
+nmod:with	boy	face
+root	ROOT	plays
+case	pavement	on
+det	pavement	the
+nmod:on	plays	pavement
+punct	plays	.

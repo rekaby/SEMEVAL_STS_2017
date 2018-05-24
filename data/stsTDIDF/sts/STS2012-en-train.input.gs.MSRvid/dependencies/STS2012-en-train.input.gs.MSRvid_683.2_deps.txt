@@ -1,0 +1,9 @@
+det	man	A
+nsubj	taking	man
+aux	taking	is
+root	ROOT	taking
+dobj	taking	pictures
+case	lake	of
+det	lake	a
+nmod:of	pictures	lake
+punct	taking	.

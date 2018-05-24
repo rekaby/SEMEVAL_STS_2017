@@ -1,0 +1,8 @@
+det	girl	The
+nsubj	has	girl
+root	ROOT	has
+dobj	has	something
+case	head	on
+nmod:poss	head	her
+nmod:on	something	head
+punct	has	.

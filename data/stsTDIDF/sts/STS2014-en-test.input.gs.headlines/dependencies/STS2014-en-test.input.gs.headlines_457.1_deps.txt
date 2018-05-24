@@ -1,0 +1,6 @@
+compound	stocks	Singapore
+nsubj	%	stocks
+advmod	%	close
+nummod	%	0.4
+root	ROOT	%
+advmod	%	higher

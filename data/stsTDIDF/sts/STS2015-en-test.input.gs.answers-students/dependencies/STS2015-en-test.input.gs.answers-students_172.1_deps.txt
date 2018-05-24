@@ -1,0 +1,10 @@
+det	switch	A
+nsubj	creates	switch
+root	ROOT	creates
+det	break	a
+dobj	creates	break
+case	path	in
+det	path	the
+amod	path	closed
+nmod:in	break	path
+punct	creates	.

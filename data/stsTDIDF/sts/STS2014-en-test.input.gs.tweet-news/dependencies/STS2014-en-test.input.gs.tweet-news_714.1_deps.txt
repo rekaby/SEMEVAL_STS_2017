@@ -1,0 +1,10 @@
+cop	careful	Be
+root	ROOT	careful
+dobj	eat	what
+nsubj	eat	you
+ccomp	careful	eat
+punct	eat	--
+advmod	restaurants	particularly
+case	restaurants	at
+nmod:at	eat	restaurants
+dep	eat	!!!

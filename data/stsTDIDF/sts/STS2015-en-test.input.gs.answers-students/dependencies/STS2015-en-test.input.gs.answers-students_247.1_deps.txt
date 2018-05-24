@@ -1,0 +1,9 @@
+compound	c	bulb
+nsubjpass	connected	c
+auxpass	connected	was
+neg	connected	not
+root	ROOT	connected
+case	battery	to
+det	battery	the
+nmod:to	connected	battery
+punct	connected	.

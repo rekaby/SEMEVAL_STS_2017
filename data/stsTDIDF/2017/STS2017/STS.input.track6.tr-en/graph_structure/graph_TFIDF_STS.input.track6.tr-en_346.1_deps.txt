@@ -1,0 +1,9 @@
+ROOT	shoots	root
+waits	while	mark
+turn	for	case
+turn	their	nmod:poss
+shoots	man	nsubj
+waits	another	nsubj
+shoots	waits	advcl
+shoots	pool	dobj
+waits	turn	nmod:for

@@ -1,0 +1,9 @@
+compound	Montana	Miss
+nsubj	has	Montana
+root	ROOT	has
+det	story	a
+amod	story	great
+dobj	has	story
+mark	tell	to
+acl	story	tell
+punct	has	.-9) root(ROOT-0, #autism

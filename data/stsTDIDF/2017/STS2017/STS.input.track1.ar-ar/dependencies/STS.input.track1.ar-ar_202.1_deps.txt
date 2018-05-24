@@ -1,0 +1,5 @@
+nsubj	slept	Teenager
+root	ROOT	slept
+case	mat	on
+det	mat	the
+nmod:on	slept	mat

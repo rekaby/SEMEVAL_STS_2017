@@ -1,0 +1,7 @@
+det	set	a
+amod	set	social
+root	ROOT	set
+cc	set	or
+conj:or	set	clique
+case	friends	of
+nmod:of	set	friends

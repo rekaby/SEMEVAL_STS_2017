@@ -1,0 +1,13 @@
+nsubj	wish	I
+root	ROOT	wish
+nsubj	man	I
+aux	man	could
+cop	man	be
+det	man	this
+ccomp	wish	man
+dobj	man	#PaulTheroux
+nmod:poss	List	My
+amod	List	#Travel
+compound	List	Wish
+dobj	#PaulTheroux	List
+nmod	wish	via

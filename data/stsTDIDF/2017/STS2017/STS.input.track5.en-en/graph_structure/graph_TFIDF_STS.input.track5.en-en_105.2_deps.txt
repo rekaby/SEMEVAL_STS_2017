@@ -1,0 +1,7 @@
+ROOT	stealing	root
+kids	The	det
+stealing	are	aux
+stealing	kids	nsubj
+stealing	.	punct
+store	from	case
+stealing	store	nmod:from

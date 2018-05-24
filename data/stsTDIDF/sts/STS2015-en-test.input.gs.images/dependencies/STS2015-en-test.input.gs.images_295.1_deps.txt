@@ -1,0 +1,17 @@
+det	man	A
+nsubj	pulling	man
+acl	man	standing
+case	boat	on
+det	boat	a
+nmod:on	standing	boat
+aux	pulling	is
+root	ROOT	pulling
+det	boat	another
+dobj	pulling	boat
+advmod	pulling	close
+case	stick	by
+case	stick	with
+det	stick	a
+compound	stick	bamboo
+nmod:with	pulling	stick
+punct	pulling	.

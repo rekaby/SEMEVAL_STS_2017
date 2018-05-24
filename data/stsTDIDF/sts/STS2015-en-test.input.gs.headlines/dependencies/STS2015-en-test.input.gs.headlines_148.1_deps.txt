@@ -1,0 +1,8 @@
+nsubj	killed	Twelve
+root	ROOT	killed
+case	blast	in
+compound	blast	bomb
+nmod:in	killed	blast
+case	train	on
+amod	train	Pakistani
+nmod:on	killed	train

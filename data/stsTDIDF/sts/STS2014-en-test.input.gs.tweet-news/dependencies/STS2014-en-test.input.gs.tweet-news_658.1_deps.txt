@@ -1,0 +1,18 @@
+amod	article	Good
+root	ROOT	article
+case	economics	on
+det	economics	the
+nmod:on	cycling	economics
+cc	economics	&
+conj:&	economics	culture
+dep	cycling	that
+compound	cycling	fuels
+amod	cycling	pro
+dep	article	cycling
+punct	article	.-12) root(ROOT-0, NYTimes
+punct	NYTimes	:
+dep	NYTimes	Looking
+dobj	Looking	Upstream
+case	Cases	in
+compound	Cases	Doping
+nmod:in	Upstream	Cases

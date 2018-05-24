@@ -1,0 +1,10 @@
+compound	workers	Rio
+compound	workers	airport
+nsubj	strike	workers
+root	ROOT	strike
+case	eve	on
+nmod:on	strike	eve
+case	Cup	of
+compound	Cup	FIFA
+compound	Cup	World
+nmod:of	eve	Cup

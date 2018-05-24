@@ -1,0 +1,6 @@
+women	Tjlsan	dep
+Tjlsan	table	nmod:to
+resemble	clothes	nsubj
+table	resemble	acl:relcl
+clothes	their	nmod:poss
+resemble	frogs	dobj

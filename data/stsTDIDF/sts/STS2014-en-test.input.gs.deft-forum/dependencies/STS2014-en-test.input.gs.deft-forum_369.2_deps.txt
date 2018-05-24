@@ -1,0 +1,8 @@
+nsubj	preach	Paul
+aux	preach	did
+neg	preach	not
+root	ROOT	preach
+dobj	preach	faith
+case	works	without
+nmod:without	preach	works
+punct	preach	.

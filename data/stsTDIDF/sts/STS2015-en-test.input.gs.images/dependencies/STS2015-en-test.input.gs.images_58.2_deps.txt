@@ -1,0 +1,12 @@
+nummod	men	Two
+amod	men	Asian
+nsubj	relaxing	men
+cc	men	and
+det	woman	a
+conj:and	men	woman
+aux	relaxing	are
+root	ROOT	relaxing
+case	chairs	in
+compound	chairs	massage
+nmod:in	relaxing	chairs
+punct	relaxing	.

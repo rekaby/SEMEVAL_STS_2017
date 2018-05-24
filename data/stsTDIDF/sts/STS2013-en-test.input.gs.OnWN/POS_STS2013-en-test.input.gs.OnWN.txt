@@ -1,0 +1,559 @@
+[measure/VB, the/DT, depth/NN, of/IN, a/DT, body/NN, of/IN, water/NN] 	[any/DT, large/JJ, deep/JJ, body/NN, of/IN, water/NN, ./.] 	1
+[someone/NN, who/WP, plays/VBZ, a/DT, principal/JJ, role/NN] 	[an/DT, actor/NN, who/WP, plays/VBZ, a/DT, principal/JJ, role/NN, ./.] 	2
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, come/VBP, to/TO, rest/VB, on/IN, a/DT, surface/NN] 	[reach/NN, or/CC, come/VB, to/TO, rest/NN, ./.] 	3
+[the/DT, act/NN, of/IN, advocating/VBG, or/CC, promoting/VBG, something/NN] 	[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG, ./.] 	4
+[alphanumeric/JJ, sequence/NN, used/VBN, for/IN, identification/NN] 	[a/DT, numeral/NN, or/CC, string/NN, of/IN, numerals/NNS, that/WDT, is/VBZ, used/VBN, for/IN, identification/NN, ./.] 	5
+[a/DT, state/NN, of/IN, being/VBG, elevated/JJ, or/CC, raised/VBN] 	[the/DT, event/NN, of/IN, something/NN, being/VBG, raised/VBN, upward/RB, ./.] 	6
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, climbing/VBG, something/NN, ./.] 	7
+[Bind/VB, or/CC, join/VB, -LRB-/-LRB-, as/IN, if/IN, -RRB-/-RRB-, with/IN, cement/NN, ./.] 	[shine/VB, intensely/RB, ,/,, as/IN, if/IN, with/IN, heat/NN, ./.] 	8
+[-LRB-/-LRB-, finally/RB, -RRB-/-RRB-, do/VBP, something/NN, or/CC, be/VB, somewhere/RB] 	[cause/VB, something/NN, to/TO, pass/VB, or/CC, lead/VB, somewhere/RB, ./.] 	9
+[a/DT, point/NN, ,/,, as/IN, the/DT, op/NN, part/NN, of/IN, a/DT, compass/NN, arrow/NN] 	[a/DT, V-shaped/JJ, mark/NN, at/IN, one/CD, end/NN, of/IN, an/DT, arrow/NN, pointer/NN, ./.] 	10
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	11
+[coerce/VB, by/IN, violence/NN, ,/,, fill/NN, with/IN, terror/NN] 	[coerce/VB, by/IN, violence/NN, or/CC, with/IN, threats/NNS, ./.] 	12
+[cause/VB, to/TO, move/VB, ,/,, cause/VB, to/TO, be/VB, moved/VBN] 	[cease/VB, to/TO, operate/VB, or/CC, cause/VB, to/TO, cease/VB, operating/NN, ./.] 	13
+[the/DT, uppermost/NN, area/NN, of/IN, region/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	14
+[the/DT, foremost/JJ, part/NN, of/IN, something/NN] 	[have/VB, flavor/NN, ;/:, taste/NN, of/IN, something/NN, ./.] 	15
+[behave/VB, or/CC, move/VB, in/IN, a/DT, certain/JJ, manner/NN] 	[behave/VB, in/IN, a/DT, certain/JJ, manner/NN, ./.] 	16
+[a/DT, reproduction/NN, or/CC, physical/JJ, representation/NN, of/IN, something/NN] 	[a/DT, visual/JJ, representation/NN, of/IN, something/NN, ./.] 	17
+[a/DT, type/NN, of/IN, subdivision/NN, of/IN, a/DT, larger/JJR, literary/JJ, composition/NN] 	[a/DT, specialized/VBN, division/NN, of/IN, a/DT, large/JJ, organization/NN, ./.] 	18
+[the/DT, person/NN, who/WP, is/VBZ, assigned/VBN, to/TO, a/DT, non-elective/JJ, position/NN] 	[a/DT, person/NN, who/WP, is/VBZ, appointed/VBN, to/TO, a/DT, job/NN, or/CC, position/NN, ./.] 	19
+[Advance/NNP, ;/:, contribute/VBP, to/TO, the/DT, progress/NN, or/CC, growth/NN, of/IN, ./.] 	[contribute/VB, to/TO, the/DT, progress/NN, or/CC, growth/NN, of/IN, ./.] 	20
+[a/DT, narrow/JJ, channel/NN, or/CC, span/NN, of/IN, a/DT, sea/NN, or/CC, ocean/NN] 	[a/DT, narrow/JJ, channel/NN, of/IN, the/DT, sea/NN, joining/VBG, two/CD, larger/JJR, bodies/NNS, of/IN, water/NN, ./.] 	21
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, cracking/VBG, something/NN, ./.] 	22
+[Cut/NNP, into/IN, ,/,, possibly/RB, creating/VBG, something/NN, new/JJ, ./.] 	[the/DT, act/NN, of/IN, cracking/VBG, something/NN, ./.] 	23
+[the/DT, act/NN, of/IN, choosing/NN, among/IN, alternatives/NNS] 	[the/DT, act/NN, of/IN, changing/VBG, one/CD, thing/NN, for/IN, another/DT, thing/NN, ./.] 	24
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, breaking/VBG, something/NN, ./.] 	25
+[the/DT, state/NN, of/IN, being/VBG, in/IN, contact/NN] 	[the/DT, state/NN, of/IN, being/VBG, connected/VBN, ./.] 	26
+[giving/VBG, a/DT, reference/NN, or/CC, citation/NN, of/IN, something/NN] 	[change/VB, the/DT, nature/NN, ,/,, purpose/NN, ,/,, or/CC, function/NN, of/IN, something/NN, ./.] 	27
+[Sell/VB, something/NN, to/TO, or/CC, obtain/VB, something/NN, from/IN, by/IN, underhanded/JJ, activity/NN, ./.] 	[sell/VB, something/NN, to/TO, or/CC, obtain/VB, something/NN, from/IN, by/IN, energetic/JJ, and/CC, especially/RB, underhanded/JJ, activity/NN, ./.] 	28
+[the/DT, act/NN, of/IN, determining/VBG, or/CC, discovering/VBG, the/DT, position/NN, of/IN, an/DT, object/NN] 	[a/DT, surface/NN, forming/VBG, part/NN, of/IN, the/DT, outside/NN, of/IN, an/DT, object/NN, ./.] 	29
+[a/DT, feeling/NN, or/CC, state/NN, of/IN, contentment/NN, ,/,, relief/NN] 	[a/DT, state/NN, of/IN, being/VBG, relaxed/VBN, and/CC, feeling/VBG, no/DT, pain/NN, ./.] 	30
+[Physically/RB, extend/VB, or/CC, spread/VB, outward/JJ, from/IN, a/DT, center/NN, or/CC, focus/NN, or/CC, inward/JJ, towards/IN, a/DT, center/NN, ;/:, physically/RB, spread/VBN, from/IN, a/DT, start/NN, point/NN, ./.] 	[extend/VB, or/CC, spread/VB, outward/JJ, from/IN, a/DT, center/NN, or/CC, focus/NN, or/CC, inward/JJ, towards/IN, a/DT, center/NN, ./.] 	31
+[place/NN, into/IN, the/DT, ground/NN, for/IN, growing/VBG] 	[place/NN, or/CC, put/VB, on/IN, the/DT, ground/NN, ./.] 	32
+[an/DT, approximated/VBN, amount/NN, of/IN, something/NN] 	[a/DT, visual/JJ, representation/NN, of/IN, something/NN, ./.] 	33
+[stimulate/VB, sexually/RB, ;/:, get/VB, sexual/JJ, gratification/NN, through/IN, self-stimulation/NN] 	[get/VB, sexual/JJ, gratification/NN, through/IN, self-stimulation/NN, ./.] 	34
+[the/DT, act/NN, of/IN, acknowledging/VBG, the/DT, truth/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, projecting/VBG, out/RP, from/IN, something/NN, ./.] 	35
+[Express/NNP, audibly/RB, ;/:, utter/JJ, sounds/NNS, -LRB-/-LRB-, not/RB, necessarily/RB, words/NNS, -RRB-/-RRB-, ;/:, indicate/VBP, ./.] 	[express/VB, audibly/RB, ;/:, utter/JJ, sounds/NNS, -LRB-/-LRB-, not/RB, necessarily/RB, words/NNS, -RRB-/-RRB-, ./.] 	36
+[The/DT, state/NN, of/IN, being/VBG, suspected/VBN, ./.] 	[the/DT, state/NN, of/IN, being/VBG, excluded/VBN, ./.] 	37
+[The/DT, act/NN, of/IN, providing/VBG, approval/NN, and/CC, support/NN, ./.] 	[the/DT, act/NN, of/IN, having/VBG, and/CC, controlling/VBG, property/NN, ./.] 	38
+[Relieve/VB, someone/NN, from/IN, work/NN, by/IN, taking/VBG, a/DT, turn/NN, ;/:, take/VB, turns/NNS, working/VBG, ./.] 	[relieve/VB, -LRB-/-LRB-, someone/NN, -RRB-/-RRB-, from/IN, work/NN, by/IN, taking/VBG, a/DT, turn/NN, ./.] 	39
+[a/DT, side/NN, or/CC, surface/NN, of/IN, something/NN] 	[a/DT, brief/JJ, experience/NN, of/IN, something/NN, ./.] 	40
+[utter/JJ, in/IN, a/DT, certain/JJ, way/NN] 	[appear/VB, in/IN, a/DT, certain/JJ, way/NN, ./.] 	41
+[the/DT, act/NN, of/IN, turning/VBG, ,/,, rotating/VBG, an/DT, object/NN] 	[turning/VBG, or/CC, twisting/VBG, around/RP, -LRB-/-LRB-, in/IN, place/NN, -RRB-/-RRB-, ./.] 	42
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, increase/NN, in/IN, extent/NN, or/CC, intensity/NN, ./.] 	[increase/NN, in/IN, extent/NN, or/CC, intensity/NN, ./.] 	43
+[the/DT, legal/JJ, state/NN, of/IN, owing/VBG, money/NN] 	[the/DT, verbal/JJ, act/NN, of/IN, offering/NN, ./.] 	44
+[make/VB, sense/NN, of/IN, ,/,, give/VB, meaning/VBG, to/TO] 	[make/VB, sense/NN, of/IN, ;/:, assign/VB, a/DT, meaning/NN, to/TO, ./.] 	45
+[The/DT, act/NN, of/IN, beginning/VBG, something/NN, new/JJ, ./.] 	[the/DT, act/NN, of/IN, hiring/VBG, something/NN, or/CC, someone/NN, ./.] 	46
+[printed/VBN, version/NN, of/IN, electronic/JJ, data/NNS, from/IN, a/DT, computer/NN] 	[-LRB-/-LRB-, computer/NN, science/NN, -RRB-/-RRB-, matter/NN, that/WDT, is/VBZ, held/VBN, in/IN, a/DT, computer/NN, and/CC, is/VBZ, typed/VBN, or/CC, printed/VBN, on/IN, paper/NN, ./.] 	47
+[Limit/NN, in/IN, quantity/NN, or/CC, quality/NN, ./.] 	[limit/NN, in/IN, quality/NN, or/CC, quantity/NN, ./.] 	48
+[search/NN, -LRB-/-LRB-, as/IN, the/DT, bottom/NN, of/IN, a/DT, body/NN, of/IN, water/NN, -RRB-/-RRB-, for/IN, something/NN] 	[search/NN, -LRB-/-LRB-, as/IN, the/DT, bottom/NN, of/IN, a/DT, body/NN, of/IN, water/NN, -RRB-/-RRB-, for/IN, something/NN, valuable/JJ, or/CC, lost/VBN, ./.] 	49
+[the/DT, act/NN, of/IN, surrendering/VBG, or/CC, losing/VBG, something/NN, of/IN, value/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	50
+[The/DT, physical/JJ, act/NN, of/IN, following/VBG, in/IN, an/DT, effort/NN, to/TO, overtake/VB, or/CC, capture/VB, ./.] 	[the/DT, act/NN, of/IN, pursuing/VBG, in/IN, an/DT, effort/NN, to/TO, overtake/VB, or/CC, capture/VB, ./.] 	51
+[Expel/VB, or/CC, eject/VB, -LRB-/-LRB-, saliva/NN, ,/,, phlegm/NN, ,/,, sputum/NN, ,/,, or/CC, vomit/NN, -RRB-/-RRB-, from/IN, the/DT, mouth/NN, ./.] 	[expel/VB, or/CC, eject/VB, -LRB-/-LRB-, saliva/NN, or/CC, phlegm/NN, or/CC, sputum/NN, -RRB-/-RRB-, from/IN, the/DT, mouth/NN, ./.] 	52
+[the/DT, natural/JJ, progression/NN, or/CC, development/NN, of/IN, something/NN] 	[the/DT, act/NN, or/CC, means/NNS, of/IN, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	53
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, describing/VBG, something/NN, ./.] 	54
+[an/DT, explanation/NN, or/CC, alibi/NN, for/IN, something/NN] 	[an/DT, opinion/NN, formed/VBN, by/IN, judging/VBG, something/NN, ./.] 	55
+[recover/VB, ,/,, return/VB, to/TO, former/JJ, state/NN] 	[return/NN, to/TO, a/DT, former/JJ, condition/NN, ./.] 	56
+[Act/NNP, without/IN, permission/NN, or/CC, with/IN, too/RB, much/JJ, confidence/NN, ./.] 	[take/VB, liberties/NNS, or/CC, act/VB, with/IN, too/RB, much/JJ, confidence/NN, ./.] 	57
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	58
+[become/VB, the/DT, owner/NN, or/CC, posessor/NN, of/IN, something/NN] 	[make/VB, a/DT, film/NN, or/CC, photograph/NN, of/IN, something/NN, ./.] 	59
+[the/DT, act/NN, of/IN, moving/VBG, ,/,, turning/VBG, something/NN] 	[the/DT, act/NN, of/IN, rejecting/VBG, something/NN, ./.] 	60
+[the/DT, act/NN, of/IN, confining/VBG, ,/,, preventing/VBG, or/CC, blocking/VBG, something/NN] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	61
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	62
+[the/DT, act/NN, or/CC, means/NNS, of/IN, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	[the/DT, physical/JJ, position/NN, of/IN, something/NN, ./.] 	63
+[the/DT, shape/NN, of/IN, a/DT, wave/NN, in/IN, a/DT, given/VBN, period/NN, of/IN, time/NN] 	[the/DT, popular/JJ, taste/NN, at/IN, a/DT, given/VBN, time/NN, ./.] 	64
+[a/DT, distinctive/JJ, style/NN, of/IN, clothing/NN] 	[an/DT, intuitive/JJ, understanding/NN, of/IN, something/NN, ./.] 	65
+[cause/VB, to/TO, have/VB, an/DT, odor/NN] 	[cause/VB, to/TO, become/VB, alive/JJ, again/RB, ./.] 	66
+[fall/NN, or/CC, cause/VB, to/TO, fall/VB] 	[let/VB, or/CC, cause/VB, to/TO, fall/VB, in/IN, drops/NNS, ./.] 	67
+[the/DT, act/NN, of/IN, allowing/VBG, ,/,, bestowing/VBG, something/NN] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	68
+[keep/VB, from/IN, being/VBG, seen/VBN, or/CC, perceived/VBN, by/IN, others/NNS] 	[hold/VB, back/RP, ;/:, keep/VB, from/IN, being/VBG, perceived/VBN, by/IN, others/NNS, ./.] 	69
+[a/DT, document/NN, authorizing/VBG, another/DT, to/TO, vote/VB, on/IN, one/CD, 's/POS, behalf/NN] 	[a/DT, power/NN, of/IN, attorney/NN, document/NN, given/VBN, by/IN, shareholders/NNS, of/IN, a/DT, corporation/NN, authorizing/VBG, a/DT, specific/JJ, vote/NN, on/IN, their/PRP$, behalf/NN, at/IN, a/DT, corporate/JJ, meeting/NN, ./.] 	70
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, retaining/VBG, something/NN, ./.] 	71
+[the/DT, act/NN, of/IN, combining/VBG, ,/,, blending/VBG, ,/,, integrating/VBG] 	[the/DT, act/NN, of/IN, chipping/VBG, something/NN, ./.] 	72
+[smell/NN, by/IN, inhaling/VBG, through/IN, the/DT, nose/NN] 	[perceive/VB, by/IN, inhaling/VBG, through/IN, the/DT, nose/NN, ./.] 	73
+[the/DT, conclusion/NN, of/IN, a/DT, communication/NN] 	[the/DT, intended/JJ, meaning/NN, of/IN, a/DT, communication/NN, ./.] 	74
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, adopt/VB, a/DT, different/JJ, system/NN, ,/,, value/NN, ,/,, or/CC, viewpoint/NN] 	[cause/VB, to/TO, adopt/VB, a/DT, new/JJ, or/CC, different/JJ, faith/NN, ./.] 	75
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, become/VBP, less/RBR, intense/JJ, or/CC, strict/JJ] 	[cause/VB, to/TO, become/VB, violent/JJ, or/CC, angry/JJ, ./.] 	76
+[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG] 	[the/DT, act/NN, of/IN, losing/VBG, someone/NN, or/CC, something/NN, ./.] 	77
+[narrative/NN, or/CC, account/NN, ,/,, intended/VBN, as/IN, factual/JJ, reporting/NN] 	[a/DT, short/JJ, account/NN, of/IN, the/DT, news/NN, ./.] 	78
+[Engrave/VB, by/IN, means/NNS, of/IN, dots/NNS, ./.] 	[engrave/VB, by/IN, means/NNS, of/IN, dots/NNS, and/CC, flicks/NNS, ./.] 	79
+[the/DT, act/NN, of/IN, shoving/VBG, something/NN, away/RB] 	[the/DT, act/NN, of/IN, raising/VBG, something/NN, ./.] 	80
+[decide/VB, the/DT, amount/NN, to/TO, be/VB, paid/VBN, on/IN, an/DT, insurance/NN, claim/NN] 	[decide/VB, how/WRB, much/JJ, is/VBZ, to/TO, be/VB, paid/VBN, on/IN, an/DT, insurance/NN, claim/NN, ./.] 	81
+[make/VB, noise/NN, like/IN, bad/JJ, engine/NN] 	[make/VB, a/DT, noise/NN, typical/JJ, of/IN, an/DT, engine/NN, lacking/VBG, lubricants/NNS, ./.] 	82
+[be/VB, in/IN, direct/JJ, physical/JJ, contact/NN, with/IN] 	[be/VB, in/IN, direct/JJ, physical/JJ, contact/NN, with/IN, ;/:, make/VB, contact/NN, ./.] 	83
+[the/DT, quality/NN, of/IN, being/VBG, dependable/JJ] 	[the/DT, quality/NN, of/IN, being/VBG, of/IN, practical/JJ, use/NN, ./.] 	84
+[Arrange/VB, a/DT, programme/NN, for/IN, an/DT, individual/JJ, ,/,, group/NN, ,/,, or/CC, entity/NN, ./.] 	[arrange/VB, a/DT, program/NN, of/IN, or/CC, for/IN, ./.] 	85
+[express/VB, a/DT, certain/JJ, idea/NN, when/WRB, rendering/VBG, a/DT, play/NN, or/CC, music/NN] 	[give/VB, an/DT, interpretation/NN, or/CC, rendition/NN, of/IN, ./.] 	86
+[the/DT, quality/NN, of/IN, being/VBG, dependable/JJ] 	[the/DT, act/NN, of/IN, dwelling/NN, in/IN, a/DT, place/NN, ./.] 	87
+[a/DT, store/NN, or/CC, supply/NN, of/IN, something/NN] 	[a/DT, store/NN, or/CC, supply/NN, of/IN, something/NN, -LRB-/-LRB-, especially/RB, of/IN, food/NN, or/CC, clothing/NN, or/CC, arms/NNS, -RRB-/-RRB-, ./.] 	88
+[suggest/VB, or/CC, prescribe/VB, a/DT, solution/NN] 	[suggest/VB, the/DT, necessity/NN, of/IN, an/DT, intervention/NN, ;/:, in/IN, medicine/NN, ./.] 	89
+[person/NN, who/WP, manages/VBZ, money/NN, in/IN, board/NN, games/NNS] 	[a/DT, person/NN, who/WP, is/VBZ, in/IN, charge/NN, ./.] 	90
+[the/DT, act/NN, of/IN, rubbing/VBG, a/DT, surface/NN] 	[the/DT, act/NN, of/IN, dragging/VBG, -LRB-/-LRB-, pulling/VBG, with/IN, force/NN, -RRB-/-RRB-, ./.] 	91
+[The/DT, act/NN, of/IN, dividing/VBG, or/CC, disconnecting/VBG, ./.] 	[the/DT, act/NN, of/IN, expelling/VBG, or/CC, projecting/VBG, or/CC, ejecting/VBG, ./.] 	92
+[the/DT, act/NN, of/IN, validating/VBG, the/DT, authenticity/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, concealing/VBG, the/DT, identity/NN, of/IN, something/NN, by/IN, modifying/VBG, its/PRP$, appearance/NN, ./.] 	93
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, forcing/VBG, out/RP, someone/NN, or/CC, something/NN, ./.] 	94
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, winding/VBG, or/CC, twisting/VBG, ./.] 	95
+[Oppose/VB, or/CC, approach/VB, ,/,, as/IN, in/IN, hostility/NN, or/CC, competition/NN] 	[oppose/VBP, ,/,, as/IN, in/IN, hostility/NN, or/CC, a/DT, competition/NN, ./.] 	96
+[Travel/NN, -LRB-/-LRB-, as/IN, if/IN, -RRB-/-RRB-, through/IN, water/NN, ./.] 	[move/NN, as/IN, if/IN, through/IN, a/DT, sieve/NN, ./.] 	97
+[administer/VB, or/CC, bestow/VB, ,/,, as/IN, portions/NNS] 	[administer/VB, or/CC, bestow/VB, ,/,, as/IN, in/IN, small/JJ, portions/NNS, ./.] 	98
+[Form/NN, a/DT, spiral/NN, or/CC, move/NN, in/IN, a/DT, spiral/NN, course/NN, ./.] 	[to/TO, wind/VB, or/CC, move/VB, in/IN, a/DT, spiral/NN, course/NN, ./.] 	99
+[Induce/VB, into/IN, action/NN, by/IN, using/VBG, one/NN, 's/POS, charm/NN, ;/:, provoke/VB, to/TO, do/VB, something/NN, ./.] 	[induce/VB, into/IN, action/NN, by/IN, using/VBG, one/NN, 's/POS, charm/NN, ./.] 	100
+[connected/JJ, underground/JJ, tunnels/NNS, used/VBN, by/IN, rabbits/NNS] 	[a/DT, series/NN, of/IN, connected/JJ, underground/JJ, tunnels/NNS, occupied/VBN, by/IN, rabbits/NNS, ./.] 	101
+[hold/NN, or/CC, embrace/VB, in/IN, a/DT, tight/JJ, grip/NN] 	[hold/VB, in/RP, a/DT, tight/JJ, grasp/NN, ./.] 	102
+[the/DT, shape/NN, of/IN, a/DT, wave/NN, in/IN, a/DT, given/VBN, period/NN, of/IN, time/NN] 	[the/DT, shape/NN, of/IN, a/DT, wave/NN, illustrated/VBD, graphically/RB, by/IN, plotting/VBG, the/DT, values/NNS, of/IN, the/DT, period/NN, quantity/NN, against/IN, time/NN, ./.] 	103
+[the/DT, foremost/JJ, part/NN, of/IN, something/NN] 	[the/DT, lower/JJR, part/NN, of/IN, anything/NN, ./.] 	104
+[The/DT, act/NN, of/IN, controlling/VBG, by/IN, restraining/VBG, someone/NN, or/CC, something/NN, ./.] 	[the/DT, act/NN, of/IN, liberating/JJ, someone/NN, or/CC, something/NN, ./.] 	105
+[the/DT, act/NN, of/IN, planning/NN, or/CC, deliberating/VBG] 	[the/DT, action/NN, of/IN, putting/VBG, something/NN, into/IN, operation/NN, ./.] 	106
+[be/VB, located/VBN, at/IN, or/CC, on/IN, top/NN, of/IN, something/NN] 	[cause/NN, -LRB-/-LRB-, someone/NN, -RRB-/-RRB-, to/TO, undergo/VB, something/NN, ./.] 	107
+[the/DT, scent/NN, or/CC, odor/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	108
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, make/VBP, a/DT, dry/JJ, crackling/VBG, sound/NN, ,/,, possibly/RB, by/IN, mixing/VBG, ./.] 	[make/VB, a/DT, dry/JJ, crackling/VBG, sound/NN, ./.] 	109
+[fill/NN, ,/,, attach/VBP, ,/,, fix/VBP, with/IN, ,/,, or/CC, as/IN, if/IN, with/IN, gum/NN] 	[cover/NN, ,/,, fill/NN, ,/,, fix/NN, or/CC, smear/NN, with/IN, or/CC, as/IN, if/IN, with/IN, gum/NN, ./.] 	110
+[The/DT, act/NN, of/IN, talking/VBG, about/IN, the/DT, features/NNS, of/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, sharing/VBG, in/IN, the/DT, activities/NNS, of/IN, a/DT, group/NN, ./.] 	111
+[the/DT, act/NN, of/IN, providing/VBG, help/NN, or/CC, aid/NN, to/TO, someone/NN] 	[the/DT, act/NN, of/IN, applying/VBG, paint/NN, to/TO, a/DT, surface/NN, ./.] 	112
+[a/DT, natural/JJ, growth/NN, of/IN, plants/NNS, ,/,, usually/RB, trees/NNS] 	[a/DT, growth/NN, of/IN, similar/JJ, plants/NNS, -LRB-/-LRB-, usually/RB, trees/NNS, -RRB-/-RRB-, in/IN, a/DT, particular/JJ, area/NN, ./.] 	113
+[the/DT, act/NN, of/IN, planning/NN, or/CC, deliberating/VBG] 	[the/DT, act/NN, of/IN, cracking/VBG, something/NN, ./.] 	114
+[the/DT, physical/JJ, expanse/NN, of/IN, the/DT, universe/NN] 	[the/DT, physical/JJ, position/NN, of/IN, something/NN, ./.] 	115
+[a/DT, boundary/NN, area/NN, or/CC, edge/NN, of/IN, something/NN] 	[a/DT, boundary/NN, marking/VBG, the/DT, extremities/NNS, of/IN, something/NN, ./.] 	116
+[reach/VB, a/DT, destination/NN, or/CC, goal/NN] 	[reach/VB, a/DT, destination/NN, ;/:, arrive/VB, by/IN, movement/NN, or/CC, progress/NN, ./.] 	117
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, expelling/VBG, or/CC, projecting/VBG, or/CC, ejecting/VBG, ./.] 	118
+[to/TO, argue/VB, or/CC, plead/VB, in/IN, favor/NN, of/IN] 	[argue/VBP, or/CC, speak/VBP, in/IN, defense/NN, of/IN, ./.] 	119
+[support/NN, ,/,, sustain/VB, ,/,, bear/VB, ,/,, or/CC, be/VB, responsible/JJ, for/IN] 	[cause/VB, to/TO, happen/VB, or/CC, be/VB, responsible/JJ, for/IN, ./.] 	120
+[take/VB, or/CC, capture/VB, by/IN, force/NN, or/CC, authority/NN] 	[to/TO, put/VB, down/RP, by/IN, force/NN, or/CC, authority/NN, ./.] 	121
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, lengthen/VBP, or/CC, stretch/VBP, out/RP, in/IN, space/NN] 	[cause/VB, to/TO, march/VB, or/CC, go/VB, at/IN, a/DT, marching/VBG, pace/NN, ./.] 	122
+[the/DT, act/NN, of/IN, rending/NN, ,/,, tearing/VBG, ,/,, ripping/VBG] 	[the/DT, act/NN, of/IN, reducing/VBG, the/DT, amount/NN, or/CC, number/NN, ./.] 	123
+[Equip/VB, with/IN, armed/JJ, and/CC, armored/JJ, motor/NN, vehicles/NNS, -LRB-/-LRB-, as/IN, of/IN, an/DT, army/NN, -RRB-/-RRB-, ./.] 	[equip/VB, with/IN, armed/JJ, and/CC, armored/JJ, motor/NN, vehicles/NNS, ./.] 	124
+[-LRB-/-LRB-, the/DT, content/NN, of/IN, -RRB-/-RRB-, a/DT, communication/NN, ./.] 	[the/DT, last/JJ, section/NN, of/IN, a/DT, communication/NN, ./.] 	125
+[The/DT, act/NN, of/IN, changing/VBG, course/NN, or/CC, twisting/VBG, oneself/NN, ./.] 	[the/DT, act/NN, of/IN, indicating/VBG, or/CC, pointing/VBG, out/RP, by/IN, name/NN, ./.] 	126
+[the/DT, act/NN, of/IN, pressing/VBG, together/RB, firmly/RB] 	[the/DT, act/NN, of/IN, disturbing/VBG, the/DT, mind/NN, or/CC, body/NN, ./.] 	127
+[The/DT, state/NN, or/CC, condition/NN, of/IN, feeling/NN, or/CC, being/VBG, rushed/VBN, ./.] 	[the/DT, condition/NN, of/IN, being/VBG, motivated/VBN, ./.] 	128
+[move/NN, to/TO, a/DT, lower/JJR, position/NN, ,/,, terminate/VBP, something/NN] 	[lower/JJR, the/DT, pitch/NN, of/IN, -LRB-/-LRB-, musical/JJ, notes/NNS, -RRB-/-RRB-, ./.] 	129
+[the/DT, act/NN, of/IN, pulling/VBG, a/DT, load/NN] 	[the/DT, act/NN, of/IN, making/VBG, a/DT, proposal/NN, ./.] 	130
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, appear/VBP, suddenly/RB, or/CC, briefly/RB] 	[break/NN, open/JJ, or/CC, apart/RB, suddenly/RB, and/CC, forcefully/RB, ./.] 	131
+[The/DT, human/JJ, act/NN, of/IN, making/VBG, something/NN, new/JJ, ./.] 	[the/DT, speech/NN, act/NN, of/IN, making/VBG, something/NN, evident/JJ, ./.] 	132
+[make/VB, or/CC, become/VB, more/RBR, acute/JJ, or/CC, intense/JJ] 	[make/VB, ready/JJ, for/IN, action/NN, or/CC, use/NN, ./.] 	133
+[the/DT, activity/NN, of/IN, breaking/VBG, or/CC, splintering/VBG, something/NN] 	[the/DT, act/NN, of/IN, breaking/VBG, something/NN, ./.] 	134
+[the/DT, extreme/JJ, endpoint/NN, of/IN, something/NN] 	[get/VB, the/DT, meaning/NN, of/IN, something/NN, ./.] 	135
+[Perform/VB, an/DT, action/NN, with/IN, an/DT, intent/NN, to/TO, deceive/VB, ./.] 	[make/VB, a/DT, copy/NN, of/IN, with/IN, the/DT, intent/NN, to/TO, deceive/VB, ./.] 	136
+[any/DT, cause/NN, or/CC, source/NN, of/IN, great/JJ, suffering/NN] 	[any/DT, affliction/NN, that/WDT, causes/VBZ, great/JJ, suffering/NN, ./.] 	137
+[the/DT, act/NN, of/IN, moving/VBG, ,/,, turning/VBG, something/NN] 	[the/DT, act/NN, of/IN, drawing/VBG, or/CC, hauling/VBG, something/NN, ./.] 	138
+[To/TO, remain/VB, emotionally/RB, or/CC, intellectually/RB, attached/VBN, without/IN, necessary/JJ, physical/JJ, contact/NN, ./.] 	[to/TO, remain/VB, emotionally/RB, or/CC, intellectually/RB, attached/VBN, ./.] 	139
+[The/DT, state/NN, of/IN, being/VBG, pleased/VBN, with/IN, life/NN, ./.] 	[the/DT, state/NN, of/IN, being/VBG, rejected/VBN, ./.] 	140
+[the/DT, height/NN, of/IN, the/DT, sea/NN, 's/POS, surface/NN] 	[the/DT, solid/JJ, part/NN, of/IN, the/DT, earth/NN, 's/POS, surface/NN, ./.] 	141
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, starting/VBG, something/NN, ./.] 	142
+[cover/NN, with/IN, a/DT, primer/NN, base/NN] 	[cover/NN, with/IN, a/DT, primer/NN, ;/:, apply/VB, a/DT, primer/NN, to/TO, ./.] 	143
+[discover/VB, a/DT, logical/JJ, or/CC, causal/JJ, connection/NN, ;/:, associate/NN] 	[make/VB, a/DT, logical/JJ, or/CC, causal/JJ, connection/NN, ./.] 	144
+[Rewrite/VB, in/IN, a/DT, different/JJ, script/NN, ./.] 	[extend/VB, in/IN, a/DT, different/JJ, direction/NN, ./.] 	145
+[the/DT, act/NN, of/IN, reasoning/NN, ,/,, cogitation/NN] 	[the/DT, act/NN, of/IN, beginning/VBG, something/NN, new/JJ, ./.] 	146
+[the/DT, act/NN, of/IN, giving/VBG, a/DT, speech/NN] 	[the/DT, act/NN, of/IN, giving/VBG, a/DT, false/JJ, appearance/NN, ./.] 	147
+[be/VB, located/VBN, at/IN, or/CC, on/IN, top/NN, of/IN, something/NN] 	[observe/VB, or/CC, plot/VB, the/DT, moving/VBG, path/NN, of/IN, something/NN, ./.] 	148
+[the/DT, act/NN, of/IN, turning/VBG, ,/,, rotating/VBG, an/DT, object/NN] 	[the/DT, act/NN, of/IN, breaking/VBG, something/NN, ./.] 	149
+[the/DT, scent/NN, or/CC, odor/NN, of/IN, something/NN] 	[have/VB, a/DT, disagreement/NN, over/IN, something/NN, ./.] 	150
+[Give/VB, an/DT, incentive/NN, or/CC, reason/NN, for/IN, action/NN, ./.] 	[give/VB, an/DT, incentive/NN, for/IN, action/NN, ./.] 	151
+[the/DT, context/NN, or/CC, setting/NN, in/IN, which/WDT, something/NN, takes/VBZ, place/NN] 	[the/DT, act/NN, of/IN, cutting/VBG, something/NN, into/IN, parts/NNS, ./.] 	152
+[tolerate/VB, ;/:, aceept/NN, or/CC, take/VB, on/RP, as/IN, a/DT, responsibility/NN, ./.] 	[give/VB, surety/NN, or/CC, assume/VB, responsibility/NN, ./.] 	153
+[move/NN, from/IN, one/CD, location/NN, to/TO, another/DT] 	[move/NN, from/IN, one/CD, place/NN, to/TO, another/DT, ./.] 	154
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	155
+[Give/VB, a/DT, performative/JJ, affectation/NN, to/TO, -LRB-/-LRB-, something/NN, -RRB-/-RRB-, ./.] 	[give/VB, a/DT, performance/NN, -LRB-/-LRB-, of/IN, something/NN, -RRB-/-RRB-, ./.] 	156
+[a/DT, participant/NN, who/WP, is/VBZ, a/DT, beginner/NN, in/IN, some/DT, activity/NN] 	[any/DT, new/JJ, participant/NN, in/IN, some/DT, activity/NN, ./.] 	157
+[Turn/VB, the/DT, paddle/NN, or/CC, oar/NN, ./.] 	[turn/VB, the/DT, paddle/NN, ;/:, in/IN, canoeing/NN, ./.] 	158
+[the/DT, activity/NN, of/IN, examining/VBG, or/CC, assessing/VBG, something/NN] 	[the/DT, act/NN, of/IN, drawing/VBG, or/CC, hauling/VBG, something/NN, ./.] 	159
+[the/DT, conclusion/NN, of/IN, a/DT, communication/NN] 	[the/DT, last/JJ, section/NN, of/IN, a/DT, communication/NN, ./.] 	160
+[An/DT, object/NN, impairs/VBZ, the/DT, respiration/NN, of/IN, someone/NN, or/CC, something/NN, ./.] 	[the/DT, relation/NN, of/IN, comprising/VBG, something/NN, ./.] 	161
+[be/VB, a/DT, reason/NN, ,/,, cause/NN, ,/,, or/CC, justification/NN, of/IN] 	[serve/VB, as/IN, a/DT, reason/NN, or/CC, cause/NN, or/CC, justification/NN, of/IN, ./.] 	162
+[retreat/NN, or/CC, move/VB, from/IN, a/DT, position/NN, ,/,, relocate/VBP] 	[remove/VB, from/IN, a/DT, position/NN, or/CC, office/NN, ./.] 	163
+[The/DT, human/JJ, act/NN, of/IN, making/VBG, something/NN, new/JJ, ./.] 	[the/DT, act/NN, of/IN, starting/VBG, something/NN, for/IN, the/DT, first/JJ, time/NN, ;/:, introducing/VBG, something/NN, new/JJ, ./.] 	164
+[an/DT, instance/NN, of/IN, halting/VBG, some/DT, motion/NN] 	[the/DT, act/NN, of/IN, starting/VBG, something/NN, ./.] 	165
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, gradually/RB, become/VB, weak/JJ] 	[cause/VB, to/TO, become/VB, widely/RB, known/VBN, ./.] 	166
+[a/DT, deficiency/NN, ,/,, state/NN, of/IN, disappointment/NN, ,/,, non-achievement/JJ] 	[an/DT, event/NN, that/WDT, does/VBZ, not/RB, accomplish/VB, its/PRP$, intended/JJ, purpose/NN, ./.] 	167
+[The/DT, act/NN, of/IN, giving/VBG, up/RP, a/DT, claim/NN, ,/,, office/NN, ,/,, or/CC, possession/NN, ./.] 	[the/DT, act/NN, of/IN, giving/VBG, up/RP, -LRB-/-LRB-, a/DT, claim/NN, or/CC, office/NN, or/CC, possession/NN, etc./NN, -RRB-/-RRB-, ./.] 	168
+[the/DT, uppermost/NN, area/NN, of/IN, region/NN, of/IN, something/NN] 	[exclusive/JJ, control/NN, or/CC, possession/NN, of/IN, something/NN, ./.] 	169
+[take/VB, something/NN, or/CC, someone/NN, away/RB, from/IN, somewhere/RB] 	[take/VB, something/NN, or/CC, somebody/NN, with/IN, oneself/JJ, somewhere/RB, ./.] 	170
+[energy/NN, in/IN, the/DT, form/NN, of/IN, molecular/JJ, motion/NN] 	[money/NN, in/IN, the/DT, form/NN, of/IN, bills/NNS, or/CC, coins/NNS, ./.] 	171
+[a/DT, state/NN, of/IN, exposure/NN, to/TO, harm/NN] 	[a/DT, state/NN, of/IN, extreme/JJ, poverty/NN, ./.] 	172
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, attaching/VBG, or/CC, affixing/VBG, something/NN, ./.] 	173
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, rejecting/VBG, something/NN, ./.] 	174
+[have/VB, a/DT, strong/JJ, desire/NN, to/TO, do/VB, something/NN] 	[have/VB, a/DT, wish/NN, or/CC, desire/NN, to/TO, know/VB, something/NN, ./.] 	175
+[take/VB, in/RP, -LRB-/-LRB-, mentally/RB, or/CC, physically/RB, -RRB-/-RRB-] 	[take/VB, -LRB-/-LRB-, gas/NN, ,/,, light/NN, or/CC, heat/NN, -RRB-/-RRB-, into/IN, a/DT, solution/NN, ./.] 	176
+[the/DT, act/NN, of/IN, intentionally/RB, omitting/VBG, something/NN] 	[the/DT, act/NN, of/IN, rending/VBG, or/CC, ripping/VBG, or/CC, splitting/NN, something/NN, ./.] 	177
+[pronounce/VB, with/IN, a/DT, nasal/JJ, twang/NN] 	[pronounce/VB, with/IN, an/DT, initial/JJ, sibilant/NN, ./.] 	178
+[an/DT, upward/JJ, slope/NN, or/CC, incline/NN] 	[an/DT, upward/JJ, slope/NN, or/CC, grade/NN, -LRB-/-LRB-, as/IN, in/IN, a/DT, road/NN, -RRB-/-RRB-, ./.] 	179
+[an/DT, allotment/NN, or/CC, percentage/NN, of/IN, something/NN] 	[a/DT, relatively/RB, long/JJ, narrow/JJ, piece/NN, of/IN, something/NN, ./.] 	180
+[Shrivel/NNP, ,/,, wither/VBP, ,/,, or/CC, mature/JJ, imperfectly/RB, ,/,, as/IN, of/IN, a/DT, flower/NN, ./.] 	[shrivel/VB, or/CC, wither/VB, or/CC, mature/VB, imperfectly/RB, ./.] 	181
+[Identify/VB, ,/,, establish/VB, location/NN, or/CC, identity/NN] 	[recognize/VB, as/IN, being/VBG, ;/:, establish/VB, the/DT, identity/NN, of/IN, someone/NN, or/CC, something/NN, ./.] 	182
+[the/DT, act/NN, of/IN, shoving/VBG, something/NN, away/RB] 	[the/DT, act/NN, of/IN, starting/VBG, something/NN, ./.] 	183
+[an/DT, explanation/NN, or/CC, alibi/NN, for/IN, something/NN] 	[an/DT, obligation/NN, to/TO, pay/VB, or/CC, do/VB, something/NN, ./.] 	184
+[incline/NN, from/IN, a/DT, vertical/JJ, position/NN] 	[to/TO, incline/VB, or/CC, bend/VB, from/IN, a/DT, vertical/JJ, position/NN, ./.] 	185
+[Preserve/VB, in/IN, a/DT, tin/NN, or/CC, jar/NN, ./.] 	[preserve/VB, in/IN, a/DT, can/MD, or/CC, tin/NN, ./.] 	186
+[behave/VB, or/CC, move/VB, in/IN, a/DT, certain/JJ, manner/NN] 	[dress/NN, in/IN, a/DT, certain/JJ, manner/NN, ./.] 	187
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, raising/VBG, something/NN, ./.] 	188
+[give/VB, a/DT, deceptive/JJ, explanation/NN, for/IN, ;/:, cover/VB, up/RP] 	[give/VB, a/DT, deceptive/JJ, explanation/NN, or/CC, excuse/NN, for/IN, ./.] 	189
+[The/DT, principal/JJ, activity/NN, that/IN, one/CD, does/VBZ, to/TO, earn/VB, money/NN, ./.] 	[the/DT, principal/JJ, activity/NN, in/IN, your/PRP$, life/NN, that/IN, you/PRP, do/VBP, to/TO, earn/VB, money/NN, ./.] 	190
+[The/DT, act/NN, of/IN, dividing/VBG, or/CC, disconnecting/VBG, ./.] 	[the/DT, act/NN, of/IN, drawing/VBG, or/CC, hauling/VBG, something/NN, ./.] 	191
+[the/DT, act/NN, of/IN, planning/NN, or/CC, deliberating/VBG] 	[the/DT, act/NN, of/IN, becoming/VBG, more/RBR, distant/JJ, ./.] 	192
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, retaining/VBG, something/NN, ./.] 	193
+[12th/JJ, month/NN, of/IN, the/DT, calendar/NN, year/NN] 	[the/DT, last/JJ, -LRB-/-LRB-, 12th/JJ, -RRB-/-RRB-, month/NN, of/IN, the/DT, year/NN, ./.] 	194
+[the/DT, activity/NN, of/IN, examining/VBG, or/CC, assessing/VBG, something/NN] 	[the/DT, activity/NN, of/IN, protecting/VBG, someone/NN, or/CC, something/NN, ./.] 	195
+[the/DT, act/NN, of/IN, turning/VBG, ,/,, rotating/VBG, an/DT, object/NN] 	[the/DT, act/NN, of/IN, troubling/JJ, or/CC, annoying/JJ, someone/NN, ./.] 	196
+[a/DT, company/NN, that/WDT, provides/VBZ, public/JJ, service/NN, commodities/NNS] 	[a/DT, company/NN, that/WDT, performs/VBZ, a/DT, public/JJ, service/NN, ;/:, subject/NN, to/TO, government/NN, regulation/NN, ./.] 	197
+[get/VB, involved/VBN, with/IN, or/CC, mixed/VBN, up/RP] 	[get/VB, involved/VBN, or/CC, mixed-up/JJ, with/IN, ./.] 	198
+[gradual/JJ, decrease/NN, in/IN, the/DT, strength/NN, of/IN, a/DT, signal/NN] 	[a/DT, gradual/JJ, decline/NN, -LRB-/-LRB-, in/IN, size/NN, or/CC, strength/NN, or/CC, power/NN, or/CC, number/NN, -RRB-/-RRB-, ./.] 	199
+[a/DT, fast/JJ, rate/NN, or/CC, occurrence/NN, of/IN, something/NN] 	[a/DT, brief/JJ, experience/NN, of/IN, something/NN, ./.] 	200
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, chipping/VBG, something/NN, ./.] 	201
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, become/VBP, even/RB, or/CC, level/NN] 	[make/VB, even/RB, or/CC, more/JJR, even/RB, ./.] 	202
+[Declare/VB, invalid/JJ, ;/:, take/VB, away/RP, the/DT, legal/JJ, force/NN, of/IN, or/CC, render/VB, ineffective/JJ, ./.] 	[take/VB, away/RP, the/DT, legal/JJ, force/NN, of/IN, or/CC, render/VB, ineffective/JJ, ./.] 	203
+[Give/VB, an/DT, incentive/NN, or/CC, reason/NN, for/IN, action/NN, ./.] 	[give/VB, an/DT, interpretation/NN, or/CC, rendition/NN, of/IN, ./.] 	204
+[hit/NN, or/CC, return/NN, before/IN, it/PRP, touches/NNS, the/DT, ground/NN] 	[hit/VBN, before/IN, it/PRP, touches/NNS, the/DT, ground/NN, ./.] 	205
+[the/DT, act/NN, or/CC, means/NNS, of/IN, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	[the/DT, state/NN, of/IN, being/VBG, unsure/JJ, of/IN, something/NN, ./.] 	206
+[the/DT, act/NN, of/IN, accusing/VBG, someone/NN, or/CC, something/NN, for/IN, being/VBG, at/IN, fault/NN] 	[the/DT, action/NN, of/IN, putting/VBG, something/NN, into/IN, operation/NN, ./.] 	207
+[Fix/VB, or/CC, set/VB, a/DT, physical/JJ, object/NN, securely/RB, or/CC, depeply/RB] 	[fix/NN, or/CC, set/VBN, securely/RB, or/CC, deeply/RB, ./.] 	208
+[A/DT, storyline/NN, ;/:, the/DT, plan/NN, ,/,, scheme/NN, ,/,, or/CC, main/JJ, story/NN, of/IN, a/DT, literary/JJ, or/CC, dramatic/JJ, work/NN, ,/,, true/JJ, or/CC, fictional/JJ, ./.] 	[the/DT, story/NN, that/WDT, is/VBZ, told/VBN, in/IN, a/DT, novel/JJ, or/CC, play/VB, or/CC, movie/NN, etc./NN, ./.] [./.] 	209
+[the/DT, activity/NN, of/IN, breaking/VBG, or/CC, splintering/VBG, something/NN] 	[the/DT, act/NN, of/IN, rending/VBG, or/CC, ripping/VBG, or/CC, splitting/NN, something/NN, ./.] 	210
+[a/DT, retail/JJ, store/NN, with/IN, merchandise/NN, for/IN, sale/NN] 	[a/DT, mercantile/NN, establishment/NN, for/IN, the/DT, retail/JJ, sale/NN, of/IN, goods/NNS, or/CC, services/NNS, ./.] 	211
+[twist/NN, a/DT, body/NN, part/NN, suddenly/RB, so/RB, as/IN, to/TO, sprain/VB] 	[twist/NN, suddenly/RB, so/RB, as/IN, to/TO, sprain/NN, ./.] 	212
+[resist/VB, immunologically/RB, foreign/JJ, tissue/NN, or/CC, organ/NN] 	[resist/VB, immunologically/RB, the/DT, introduction/NN, of/IN, some/DT, foreign/JJ, tissue/NN, or/CC, organ/NN, ./.] 	213
+[be/VB, a/DT, factor/NN, or/CC, play/VB, a/DT, role/NN, in/IN, something/NN] 	[the/DT, act/NN, of/IN, stopping/VBG, something/NN, ./.] 	214
+[the/DT, trading/NN, price/NN, between/IN, sellers/NNS, and/CC, buyers/NNS, in/IN, a/DT, an/DT, open/JJ, marketplace/NN] 	[the/DT, price/NN, at/IN, which/WDT, buyers/NNS, and/CC, sellers/NNS, trade/VBP, the/DT, item/NN, in/IN, an/DT, open/JJ, marketplace/NN, ./.] 	215
+[request/NN, or/CC, demand/NN, something/NN, from/IN, someone/NN] 	[the/DT, act/NN, of/IN, damaging/JJ, something/NN, or/CC, someone/NN, ./.] 	216
+[the/DT, act/NN, of/IN, confining/VBG, ,/,, preventing/VBG, or/CC, blocking/VBG, something/NN] 	[the/DT, act/NN, of/IN, forming/VBG, or/CC, establishing/VBG, something/NN, ./.] 	217
+[Ride/NN, on/IN, someone/NN, 's/POS, shoulders/NNS, or/CC, back/RB, ;/:, support/NN, on/IN, the/DT, back/NN, or/CC, shoulders/NNS, ./.] 	[support/NN, on/IN, the/DT, back/NN, and/CC, shoulders/NNS, ./.] 	218
+[oppose/VBP, with/IN, equal/JJ, weight/NN, or/CC, force/NN] 	[contrast/NN, with/IN, equal/JJ, weight/NN, or/CC, force/NN, ./.] 	219
+[the/DT, quality/NN, of/IN, acting/VBG, with/IN, vigor/NN, and/CC, vitality/NN] 	[the/DT, quality/NN, of/IN, not/RB, being/VBG, useful/JJ, or/CC, convenient/JJ, ./.] 	220
+[the/DT, quality/NN, of/IN, being/VBG, important/JJ, ,/,, worthy/JJ, of/IN, attention/NN] 	[the/DT, quality/NN, of/IN, being/VBG, important/JJ, and/CC, worthy/JJ, of/IN, note/NN, ./.] 	221
+[attachment/NN, ,/,, restraint/NN, or/CC, shackle/VB, between/IN, physical/JJ, entities/NNS] 	[a/DT, restraint/NN, that/WDT, confines/NNS, or/CC, restricts/VBZ, freedom/NN, -LRB-/-LRB-, especially/RB, something/NN, used/VBN, to/TO, tie/VB, down/RP, or/CC, restrain/VB, a/DT, prisoner/NN, -RRB-/-RRB-, ./.] 	222
+[the/DT, reduction/NN, of/IN, the/DT, extent/NN, of/IN, something/NN, ,/,, e.g/NN, ,/,, its/PRP$, size/NN, ,/,, importance/NN, or/CC, quantity/NN] 	[change/NN, toward/IN, something/NN, smaller/JJR, or/CC, lower/JJR, ./.] 	223
+[a/DT, visual/JJ, characterization/NN, of/IN, something/NN] 	[a/DT, chance/NN, to/TO, do/VB, something/NN, ./.] 	224
+[put/VBN, in/IN, a/DT, particular/JJ, place/NN, or/CC, abstract/JJ, location/NN] 	[cause/VB, to/TO, be/VB, in/IN, an/DT, appropriate/JJ, place/NN, ,/,, state/NN, ,/,, or/CC, relation/NN, ./.] 	225
+[the/DT, action/NN, of/IN, extending/VBG, outwards/RB] 	[the/DT, trait/NN, of/IN, wasting/VBG, resources/NNS, ./.] 	226
+[the/DT, consequence/NN, or/CC, aftermath/NN, of/IN, something/NN] 	[have/VB, flavor/NN, ;/:, taste/NN, of/IN, something/NN, ./.] 	227
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, increase/NN, in/IN, anxiety/NN, ./.] 	[cause/VB, to/TO, run/VB, in/IN, panic/NN, ./.] 	228
+[the/DT, activity/NN, of/IN, examining/VBG, or/CC, assessing/VBG, something/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	229
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, forming/VBG, or/CC, establishing/VBG, something/NN, ./.] 	230
+[turn/VB, on/RP, an/DT, axis/NN, ;/:, spin/NN] 	[cause/VB, to/TO, turn/VB, on/RP, an/DT, axis/NN, or/CC, center/NN, ./.] 	231
+[PLAY/NN, OFF-set/NN, into/IN, opposition/NN, or/CC, rivalry/NN] 	[set/VBN, into/IN, opposition/NN, or/CC, rivalry/NN, ./.] 	232
+[the/DT, processing/NN, or/CC, operation/NN, of/IN, something/NN] 	[the/DT, physical/JJ, position/NN, of/IN, something/NN, ./.] 	233
+[the/DT, act/NN, of/IN, pulling/VBG, a/DT, load/NN] 	[the/DT, act/NN, of/IN, hearing/NN, attentively/RB, ./.] 	234
+[the/DT, act/NN, of/IN, explaining/VBG, or/CC, defending/VBG, something/NN] 	[the/DT, act/NN, of/IN, designating/VBG, or/CC, identifying/VBG, something/NN, ./.] 	235
+[come/VBN, upon/IN, ,/,, attack/NN, or/CC, catch/VB, someone/NN, or/CC, something/NN, unaware/JJ] 	[the/DT, act/NN, of/IN, liberating/JJ, someone/NN, or/CC, something/NN, ./.] 	236
+[the/DT, act/NN, of/IN, turning/VBG, ,/,, rotating/VBG, an/DT, object/NN] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	237
+[social/JJ, or/CC, economic/JJ, downfall/NN, of/IN, someone/NN, or/CC, a/DT, group/NN] 	[failure/NN, that/WDT, results/VBZ, in/IN, a/DT, loss/NN, of/IN, position/NN, or/CC, reputation/NN, ./.] 	238
+[the/DT, primary/JJ, component/NN, of/IN, a/DT, communication/NN] 	[the/DT, last/JJ, section/NN, of/IN, a/DT, communication/NN, ./.] 	239
+[the/DT, process/NN, of/IN, becoming/VBG, less/RBR, or/CC, smaller/JJR] 	[process/NN, or/CC, result/NN, of/IN, becoming/VBG, less/RBR, or/CC, smaller/JJR, ./.] 	240
+[the/DT, concluding/VBG, section/NN, of/IN, a/DT, communication/NN] 	[the/DT, last/JJ, section/NN, of/IN, a/DT, communication/NN, ./.] 	241
+[Reduce/VB, to/TO, small/JJ, pieces/NNS, by/IN, pounding/VBG, or/CC, grinding/VBG, ./.] 	[reduce/VB, to/TO, small/JJ, pieces/NNS, or/CC, particles/NNS, by/IN, pounding/VBG, or/CC, abrading/VBG, ./.] 	242
+[the/DT, act/NN, or/CC, capability/NN, of/IN, seeing/VBG] 	[the/DT, range/NN, of/IN, interest/NN, or/CC, activity/NN, that/WDT, can/MD, be/VB, anticipated/VBN, ./.] 	243
+[the/DT, act/NN, of/IN, accusing/VBG, someone/NN, or/CC, something/NN, for/IN, being/VBG, at/IN, fault/NN] 	[the/DT, act/NN, of/IN, damaging/JJ, something/NN, or/CC, someone/NN, ./.] 	244
+[give/VB, a/DT, specific/JJ, interpretation/NN, to/TO] 	[twist/NN, and/CC, turn/VB, so/RB, as/IN, to/TO, give/VB, an/DT, intended/JJ, interpretation/NN, ./.] 	245
+[The/DT, state/NN, of/IN, being/VBG, suspected/VBN, ./.] 	[the/DT, state/NN, of/IN, being/VBG, rejected/VBN, ./.] 	246
+[The/DT, process/NN, of/IN, cultivating/VBG, the/DT, land/NN, ,/,, possibly/RB, as/IN, a/DT, way/NN, of/IN, life/NN, ./.] 	[agriculture/NN, considered/VBN, as/IN, an/DT, occupation/NN, or/CC, way/NN, of/IN, life/NN, ./.] 	247
+[a/DT, military/JJ, aircraft/NN, that/WDT, drops/VBZ, ordinance/NN] 	[a/DT, military/JJ, aircraft/NN, that/WDT, drops/VBZ, bombs/NNS, during/IN, flight/NN, ./.] 	248
+[the/DT, act/NN, of/IN, accusing/VBG, someone/NN, or/CC, something/NN, for/IN, being/VBG, at/IN, fault/NN] 	[the/DT, act/NN, of/IN, liberating/JJ, someone/NN, or/CC, something/NN, ./.] 	249
+[accept/VB, ,/,, acclimate/VB, or/CC, adapt/VB, to/TO, a/DT, context/NN, ,/,, situation/NN] 	[adapt/VB, or/CC, conform/VB, oneself/NN, to/TO, new/JJ, or/CC, different/JJ, conditions/NNS, ./.] 	250
+[the/DT, temperature/NN, at/IN, which/WDT, a/DT, liquid/JJ, boils/NNS, ,/,, bubbles/NNS] 	[the/DT, temperature/NN, at/IN, which/WDT, a/DT, liquid/JJ, boils/NNS, at/IN, sea/NN, level/NN, ./.] 	251
+[The/DT, human/JJ, act/NN, of/IN, making/VBG, something/NN, new/JJ, ./.] 	[the/DT, act/NN, of/IN, cracking/VBG, something/NN, ./.] 	252
+[Beat/NN, or/CC, hit/NN, -LRB-/-LRB-, as/IN, if/IN, -RRB-/-RRB-, with/IN, a/DT, whip/NN, ./.] 	[maintain/VB, with/IN, or/CC, as/IN, if/IN, with/IN, a/DT, bet/NN, ./.] 	253
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, stopping/VBG, something/NN, ./.] 	254
+[rein/NN, in/IN, a/DT, horse/NN, to/TO, lose/VB, a/DT, race/NN] 	[rein/NN, in/IN, to/TO, keep/VB, from/IN, winning/VBG, a/DT, race/NN, ./.] 	255
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, come/VBP, to/TO, rest/VB, on/IN, a/DT, surface/NN] 	[cause/VB, to/TO, come/VB, out/RP, in/IN, a/DT, squirt/NN, ./.] 	256
+[provide/VB, or/CC, supply/VB, with/IN, water/NN] 	[cover/NN, or/CC, swamp/VB, with/IN, water/NN, ./.] 	257
+[Amount/NN, that/WDT, can/MD, be/VB, contained/VBN] 	[the/DT, amount/NN, that/WDT, can/MD, be/VB, contained/VBN, ./.] 	258
+[contain/VB, or/CC, have/VB, a/DT, specific/JJ, wording/NN, or/CC, information/NN] 	[have/VB, or/CC, contain/VB, a/DT, certain/JJ, wording/NN, or/CC, form/NN, ./.] 	259
+[a/DT, channel/NN, of/IN, social/JJ, communication/NN] 	[a/DT, channel/NN, for/IN, communication/NN, between/IN, groups/NNS, ./.] 	260
+[Cause/VB, to/TO, be/VB, or/CC, last/VB, longer/JJR, ,/,, extend/VB, in/IN, duration/NN, or/CC, space/NN, ./.] 	[lengthen/VB, or/CC, extend/VB, in/IN, duration/NN, or/CC, space/NN, ./.] 	261
+[a/DT, rank/NN, or/CC, position/NN, relative/JJ, to/TO, others/NNS] 	[take/VB, or/CC, have/VB, a/DT, position/NN, relative/JJ, to/TO, others/NNS, ./.] 	262
+[the/DT, uppermost/NN, area/NN, of/IN, region/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	263
+[the/DT, apparent/JJ, condition/NN, or/CC, state/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, losing/VBG, someone/NN, or/CC, something/NN, ./.] 	264
+[burn/VBP, slightly/RB, to/TO, affect/VB, color/NN] 	[burn/VBP, slightly/RB, and/CC, superficially/RB, so/RB, as/IN, to/TO, affect/VB, color/NN, ./.] 	265
+[a/DT, general/JJ, trait/NN, or/CC, characteristic/NN, of/IN, something/NN] 	[give/VB, certain/JJ, properties/NNS, to/TO, something/NN, ./.] 	266
+[position/NN, in/IN, football/NN, played/VBN, by/IN, a/DT, team/NN, member/NN] 	[-LRB-/-LRB-, American/JJ, football/NN, -RRB-/-RRB-, a/DT, position/NN, on/IN, the/DT, line/NN, of/IN, scrimmage/NN, ./.] 	267
+[The/DT, act/NN, of/IN, arranging/VBG, elements/NNS, together/RB, ./.] 	[the/DT, act/NN, of/IN, fastening/VBG, things/NNS, together/RB, ./.] 	268
+[cause/VB, a/DT, sharp/JJ, or/CC, stinging/JJ, pain/NN, to/TO] 	[cause/VB, a/DT, sharp/JJ, or/CC, stinging/JJ, pain/NN, or/CC, discomfort/NN, ./.] 	269
+[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	270
+[incite/VB, action/NN, ,/,, cause/VB, an/DT, event/NN] 	[serve/VB, as/IN, the/DT, inciting/VBG, cause/NN, of/IN, ./.] 	271
+[come/VB, up/RP, ,/,, as/IN, of/IN, liquid/NN, or/CC, gas/NN] 	[come/VB, up/RP, ,/,, as/IN, of/IN, a/DT, liquid/NN, ./.] 	272
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, become/VBP, less/RBR, tense/JJ, ;/:, rest/NN, or/CC, take/VB, one/PRP, 's/POS, ease/NN, ./.] 	[become/VB, less/RBR, tense/JJ, ,/,, rest/NN, ,/,, or/CC, take/VB, one/PRP, 's/POS, ease/NN, ./.] 	273
+[adapt/VB, to/TO, a/DT, specified/VBN, measurement/NN, or/CC, proportion/NN] 	[adapt/VB, to/TO, a/DT, specified/VBN, measurement/NN, ./.] 	274
+[anatomical/JJ, shape/NN, of/IN, the/DT, body/NN, of/IN, a/DT, being/VBG, ,/,, physique/NN] 	[alternative/JJ, names/NNS, for/IN, the/DT, body/NN, of/IN, a/DT, human/JJ, being/NN, ./.] 	275
+[cause/VB, romantic/JJ, action/NN, ;/:, lure/VB, away/RB, from/IN, proper/JJ, conduct/NN] 	[lure/NN, or/CC, entice/VB, away/RB, from/IN, duty/NN, ,/,, principles/NNS, ,/,, or/CC, proper/JJ, conduct/NN, ./.] 	276
+[make/VB, up/RP, something/NN, fictional/JJ, or/CC, untrue/JJ] 	[make/VB, up/RP, something/NN, artificial/JJ, or/CC, untrue/JJ, ./.] 	277
+[remove/VB, to/TO, or/CC, from/IN, a/DT, place/NN, or/CC, situation/NN] 	[break/NN, from/IN, a/DT, meeting/NN, or/CC, gathering/NN, ./.] 	278
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, ending/VBG, something/NN, ./.] 	279
+[a/DT, happening/VBG, or/CC, incident/NN, of/IN, human/JJ, significance/NN] 	[a/DT, special/JJ, set/NN, of/IN, circumstances/NNS, ./.] 	280
+[protect/VB, with/IN, or/CC, as/IN, if/IN, with/IN, a/DT, shield/NN] 	[protect/VB, ,/,, hide/VB, ,/,, or/CC, conceal/VB, from/IN, danger/NN, or/CC, harm/NN, ./.] 	281
+[basic/JJ, monetary/JJ, unit/NN, of/IN, Kyrgyzstan/NNP] 	[the/DT, basic/JJ, unit/NN, of/IN, money/NN, in/IN, Kyrgyzstan/NNP, ./.] 	282
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, cracking/VBG, something/NN, ./.] 	283
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, move/NN, gently/RB, back/RB, and/CC, forth/RB] 	[cause/VB, to/TO, move/VB, back/RB, and/CC, forth/RB, ./.] 	284
+[the/DT, state/NN, of/IN, being/VBG, in/IN, contact/NN] 	[the/DT, state/NN, of/IN, being/VBG, active/JJ, ./.] 	285
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	286
+[the/DT, act/NN, of/IN, explaining/VBG, or/CC, defending/VBG, something/NN] 	[the/DT, act/NN, of/IN, expelling/VBG, or/CC, projecting/VBG, or/CC, ejecting/VBG, ./.] 	287
+[Understand/VB, the/DT, meaning/NN, of/IN, something/NN, ./.] 	[get/VB, the/DT, meaning/NN, of/IN, something/NN, ./.] 	288
+[take/VB, a/DT, risk/NN, or/CC, guess/NN, in/IN, hope/NN, of/IN, a/DT, favorable/JJ, outcome/NN] 	[take/VB, a/DT, risk/NN, in/IN, the/DT, hope/NN, of/IN, a/DT, favorable/JJ, outcome/NN, ./.] 	289
+[the/DT, act/NN, of/IN, annoying/JJ, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, applying/VBG, force/NN, to/TO, propel/VB, something/NN, ./.] 	290
+[change/NN, -LRB-/-LRB-, dramatically/RB, -RRB-/-RRB-, between/IN, high/JJ, and/CC, low/JJ, values/NNS] 	[alternate/JJ, dramatically/RB, between/IN, high/JJ, and/CC, low/JJ, values/NNS, ./.] 	291
+[the/DT, activity/NN, of/IN, examining/VBG, or/CC, assessing/VBG, something/NN] 	[the/DT, act/NN, of/IN, designating/VBG, or/CC, identifying/VBG, something/NN, ./.] 	292
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, be/VB, anxious/JJ, or/CC, preoccupied/VBD] 	[cause/VB, to/TO, be/VB, balanced/JJ, or/CC, suspended/VBN, ./.] 	293
+[design/NN, for/IN, a/DT, specific/JJ, purpose/NN] 	[plan/NN, something/NN, for/IN, a/DT, specific/JJ, role/NN, or/CC, purpose/NN, or/CC, effect/NN, ./.] 	294
+[to/TO, combat/VB, or/CC, oppose/VB, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, forcing/VBG, out/RP, someone/NN, or/CC, something/NN, ./.] 	295
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, form/VBP, a/DT, cluster/NN, in/IN, either/CC, abstract/JJ, or/CC, physical/JJ, space/NN, ./.] 	[cause/VB, to/TO, have/VB, ,/,, in/IN, the/DT, abstract/JJ, sense/NN, or/CC, physical/JJ, sense/NN, ./.] 	296
+[a/DT, mental/JJ, grasp/NN, or/CC, understanding/NN, of/IN, something/NN] 	[understanding/NN, of/IN, the/DT, nature/NN, or/CC, meaning/NN, or/CC, quality/NN, or/CC, magnitude/NN, of/IN, something/NN, ./.] 	297
+[do/VB, something/NN, considered/VBN, below/IN, one/CD, 's/POS, diginty/NN] 	[do/VB, something/NN, that/IN, one/CD, considers/VBZ, to/TO, be/VB, below/IN, one/CD, 's/POS, dignity/NN, ./.] 	298
+[-LRB-/-LRB-, game/NN, -RRB-/-RRB-, a/DT, division/NN, during/IN, which/WDT, one/NN, is/VBZ, allowed/VBN, to/TO, play/VB, -LRB-/-LRB-, perhaps/RB, as/IN, offense/NN, -RRB-/-RRB-, ./.] 	[-LRB-/-LRB-, sports/NNS, -RRB-/-RRB-, a/DT, division/NN, during/IN, which/WDT, one/CD, team/NN, is/VBZ, on/IN, the/DT, offensive/NN, ./.] 	299
+[the/DT, act/NN, of/IN, cutting/VBG, off/RP, length/NN, ,/,, snipping/VBG, off/RP] 	[the/DT, act/NN, of/IN, clipping/JJ, or/CC, snipping/VBG, ./.] 	300
+[a/DT, sovereign/JJ, regime/NN, and/CC, its/PRP$, assemblage/NN] 	[the/DT, sovereign/JJ, and/CC, his/PRP$, advisers/NNS, who/WP, are/VBP, the/DT, governing/VBG, power/NN, of/IN, a/DT, state/NN, ./.] 	301
+[the/DT, act/NN, of/IN, annoying/JJ, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, raising/VBG, something/NN, ./.] 	302
+[the/DT, extreme/JJ, endpoint/NN, of/IN, something/NN] 	[the/DT, act/NN, or/CC, means/NNS, of/IN, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	303
+[be/VB, or/CC, have/VB, a/DT, quality/NN, of/IN, being/VBG] 	[the/DT, quality/NN, of/IN, being/VBG, significant/JJ, ./.] 	304
+[Improve/VB, by/IN, pruning/NN, or/CC, polishing/NN] 	[improve/VB, or/CC, perfect/JJ, by/IN, pruning/NN, or/CC, polishing/NN, ./.] 	305
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, applying/VBG, force/NN, to/TO, propel/VB, something/NN, ./.] 	306
+[register/NN, formally/RB, as/IN, a/DT, participant/NN] 	[register/NN, formally/RB, as/IN, a/DT, participant/NN, or/CC, member/NN, ./.] 	307
+[a/DT, lever/NN, that/WDT, activates/VBZ, a/DT, firing/NN, mechanism/NN, ,/,, especially/RB, with/IN, a/DT, firearm/NN] 	[lever/NN, that/WDT, activates/VBZ, the/DT, firing/NN, mechanism/NN, of/IN, a/DT, gun/NN, ./.] 	308
+[The/DT, act/NN, of/IN, beginning/VBG, something/NN, new/JJ, ./.] 	[the/DT, act/NN, of/IN, ending/VBG, something/NN, ./.] 	309
+[the/DT, act/NN, of/IN, annoying/JJ, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, liberating/JJ, someone/NN, or/CC, something/NN, ./.] 	310
+[Cut/NNP, into/IN, ,/,, possibly/RB, creating/VBG, something/NN, new/JJ, ./.] 	[a/DT, reason/NN, for/IN, wanting/VBG, something/NN, done/VBN, ./.] 	311
+[a/DT, casual/JJ, game/NN, of/IN, throwing/VBG, a/DT, ball/NN, back/RB, and/CC, forth/RB] 	[a/DT, cooperative/JJ, game/NN, in/IN, which/WDT, a/DT, ball/NN, is/VBZ, passed/VBN, back/RB, and/CC, forth/RB, ./.] 	312
+[come/VB, up/RP, ,/,, as/IN, of/IN, liquid/NN, or/CC, gas/NN] 	[take/VB, up/RP, ,/,, as/IN, of/IN, debts/NNS, or/CC, payments/NNS, ./.] 	313
+[cause/VB, to/TO, be/VB, immersed/VBN, in/IN] 	[cause/VB, to/TO, be/VB, hanging/VBG, or/CC, suspended/VBN, ./.] 	314
+[the/DT, act/NN, of/IN, substituting/VBG, one/CD, thing/NN, for/IN, another/DT] 	[the/DT, act/NN, of/IN, changing/VBG, one/CD, thing/NN, for/IN, another/DT, thing/NN, ./.] 	315
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[a/DT, way/NN, or/CC, means/VBZ, to/TO, achieve/VB, something/NN, ./.] 	316
+[the/DT, act/NN, of/IN, validating/VBG, the/DT, authenticity/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, liberating/JJ, someone/NN, or/CC, something/NN, ./.] 	317
+[amount/NN, of/IN, time/NN, that/IN, something/NN, is/VBZ, postponed/VBN] 	[time/NN, during/IN, which/WDT, some/DT, action/NN, is/VBZ, awaited/VBN, ./.] 	318
+[reverse/VB, a/DT, direction/NN, ,/,, attitude/NN, or/CC, course/NN, of/IN, action/NN, ,/,, perhaps/RB, perceptually/RB, ./.] 	[reverse/NN, -LRB-/-LRB-, a/DT, direction/NN, ,/,, attitude/NN, ,/,, or/CC, course/NN, of/IN, action/NN, -RRB-/-RRB-, ./.] 	319
+[An/DT, established/JJ, or/CC, recognized/VBN, right/RB, ,/,, formal/JJ, or/CC, informal/JJ, ./.] 	[an/DT, established/JJ, or/CC, recognized/VBN, right/NN, ./.] 	320
+[the/DT, act/NN, of/IN, intentionally/RB, omitting/VBG, something/NN] 	[the/DT, act/NN, of/IN, forming/VBG, or/CC, establishing/VBG, something/NN, ./.] 	321
+[the/DT, occupants/NNS, who/WP, dwell/VBP, on/IN, a/DT, level/NN, of/IN, a/DT, building/NN] 	[the/DT, occupants/NNS, of/IN, a/DT, floor/NN, ./.] 	322
+[a/DT, method/NN, for/IN, solving/VBG, a/DT, problem/NN] 	[the/DT, successful/JJ, action/NN, of/IN, solving/VBG, a/DT, problem/NN, ./.] 	323
+[cause/VB, to/TO, move/VB, with/IN, a/DT, flick/NN, or/CC, as/IN, if/IN, with/IN, a/DT, flick/NN] 	[cover/NN, with/IN, flakes/NNS, or/CC, as/IN, if/IN, with/IN, flakes/NNS, ./.] 	324
+[an/DT, observer/NN, of/IN, a/DT, process/NN, or/CC, activity/NN] 	[a/DT, member/NN, of/IN, a/DT, police/NN, force/NN, ./.] 	325
+[an/DT, address/NN, used/VBN, for/IN, postal/JJ, communication/NN] 	[the/DT, address/NN, where/WRB, a/DT, person/NN, or/CC, organization/NN, can/MD, be/VB, communicated/VBN, with/IN, ./.] 	326
+[Spur/VB, on/IN, ,/,, urge/VB, ,/,, or/CC, deride/VBP, by/IN, cheers/NNS, and/CC, shouts/NNS, ./.] 	[spur/VB, on/IN, or/CC, encourage/VB, especially/RB, by/IN, cheers/NNS, and/CC, shouts/NNS, ./.] 	327
+[spare/JJ, in/IN, quality/NN, or/CC, quantity/NN] 	[limit/NN, in/IN, quality/NN, or/CC, quantity/NN, ./.] 	328
+[the/DT, act/NN, of/IN, shoving/VBG, something/NN, away/RB] 	[the/DT, act/NN, of/IN, hiring/VBG, something/NN, or/CC, someone/NN, ./.] 	329
+[the/DT, apparent/JJ, condition/NN, or/CC, state/NN, of/IN, something/NN] 	[the/DT, event/NN, consisting/VBG, of/IN, the/DT, start/NN, of/IN, something/NN, ./.] 	330
+[engrave/VB, ,/,, shape/NN, or/CC, cut/VBN, by/IN, chipping/VBG, away/RB, at/IN, the/DT, surface/NN] 	[engrave/VB, or/CC, cut/VB, by/IN, chipping/VBG, away/RB, at/IN, a/DT, surface/NN, ./.] 	331
+[something/NN, considered/VBN, trite/JJ, but/CC, amusing/JJ] 	[something/NN, recalled/VBD, to/TO, the/DT, mind/NN, ./.] 	332
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, constructing/VBG, something/NN, ./.] 	333
+[concrete/JJ, enactment/NN, of/IN, an/DT, idea/NN, or/CC, concept/NN] 	[a/DT, concrete/JJ, representation/NN, of/IN, an/DT, otherwise/RB, nebulous/JJ, concept/NN, ./.] 	334
+[raise/NN, or/CC, haul/VB, up/RP, as/IN, if/IN, with/IN, a/DT, mechanism/NN] 	[affect/VB, with/IN, or/CC, as/IN, if/IN, with/IN, a/DT, cramp/NN, ./.] 	335
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, change/NN, from/IN, a/DT, solid/JJ, to/TO, a/DT, liquid/NN, ./.] 	[become/VBN, liquid/JJ, or/CC, fluid/NN, when/WRB, heated/VBN, ./.] 	336
+[-LRB-/-LRB-, The/DT, act/NN, of/IN, making/VBG, -RRB-/-RRB-, a/DT, measurement/NN, of/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, making/VBG, up/RP, your/PRP$, mind/NN, about/IN, something/NN, ./.] 	337
+[a/DT, duplicate/VB, of/IN, something/NN, ,/,, serving/VBG, as/IN, a/DT, backup/NN] 	[something/NN, additional/JJ, of/IN, the/DT, same/JJ, kind/NN, ./.] 	338
+[-LRB-/-LRB-, The/DT, act/NN, of/IN, making/VBG, -RRB-/-RRB-, a/DT, measurement/NN, of/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, removing/VBG, or/CC, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	339
+[react/VB, ,/,, or/CC, respond/VB, to/TO, a/DT, call/NN, ,/,, command/NN, ,/,, or/CC, stimulus/NN] 	[react/VB, to/TO, a/DT, stimulus/NN, or/CC, command/NN, ./.] 	340
+[club/NN, or/CC, association/NN, of/IN, people/NNS, with/IN, a/DT, shared/JJ, interest/NN] 	[a/DT, formal/JJ, association/NN, of/IN, people/NNS, with/IN, similar/JJ, interests/NNS, ./.] 	341
+[free/JJ, from/IN, obligations/NNS, ,/,, service/NN, or/CC, confinement/NN] 	[free/JJ, from/IN, obligations/NNS, or/CC, duties/NNS, ./.] 	342
+[the/DT, degree/NN, or/CC, amount/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	343
+[the/DT, act/NN, of/IN, arriving/VBG, at/IN, a/DT, certain/JJ, place/NN] 	[the/DT, act/NN, of/IN, putting/VBG, something/NN, in/IN, a/DT, certain/JJ, place/NN, ./.] 	344
+[medium/NN, of/IN, exchange/NN, minted/VBN, by/IN, a/DT, government/NN] 	[the/DT, official/JJ, currency/NN, issued/VBN, by/IN, a/DT, government/NN, or/CC, national/JJ, bank/NN, ./.] 	345
+[advance/NN, or/CC, set/VBN, forward/RB, in/IN, court/NN] 	[advance/NN, or/CC, set/VBN, forth/RB, in/IN, court/NN, ./.] 	346
+[make/VB, a/DT, written/JJ, note/NN, of/IN, something/NN] 	[make/VB, a/DT, written/JJ, note/NN, of/IN, ./.] 	347
+[the/DT, act/NN, of/IN, explaining/VBG, or/CC, defending/VBG, something/NN] 	[the/DT, allotment/NN, of/IN, some/DT, amount/NN, by/IN, dividing/VBG, something/NN, ./.] 	348
+[a/DT, citizen/NN, of/IN, ancient/JJ, Troy/NNP] 	[a/DT, native/NN, of/IN, ancient/JJ, Troy/NNP, ./.] 	349
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, rending/VBG, or/CC, ripping/VBG, or/CC, splitting/NN, something/NN, ./.] 	350
+[the/DT, act/NN, of/IN, turning/VBG, ,/,, rotating/VBG, an/DT, object/NN] 	[the/DT, act/NN, of/IN, terminating/VBG, a/DT, life/NN, ./.] 	351
+[The/DT, act/NN, of/IN, moving/VBG, in/IN, a/DT, hurried/VBN, manner/NN, ./.] 	[the/DT, act/NN, of/IN, moving/VBG, hurriedly/RB, and/CC, in/IN, a/DT, careless/JJ, manner/NN, ./.] 	352
+[the/DT, act/NN, of/IN, clipping/JJ, ,/,, cutting/VBG] 	[the/DT, act/NN, of/IN, describing/VBG, something/NN, ./.] 	353
+[Physically/RB, raise/VB, from/IN, a/DT, lower/JJR, position/NN, ./.] 	[raise/VB, from/IN, a/DT, lower/JJR, to/TO, a/DT, higher/JJR, position/NN, ./.] 	354
+[the/DT, act/NN, of/IN, turning/VBG, ,/,, rotating/VBG, an/DT, object/NN] 	[the/DT, act/NN, of/IN, retaining/VBG, something/NN, ./.] 	355
+[an/DT, increase/NN, in/IN, size/NN, as/IN, measured/VBN, per/IN, unit/NN, of/IN, time/NN] 	[the/DT, rate/NN, of/IN, increase/NN, in/IN, size/NN, per/IN, unit/NN, time/NN, ./.] 	356
+[advance/NN, warning/NN, or/CC, notification/NN, of/IN, something/NN] 	[the/DT, first/JJ, part/NN, or/CC, section/NN, of/IN, something/NN, ./.] 	357
+[the/DT, act/NN, of/IN, advocating/VBG, or/CC, promoting/VBG, something/NN] 	[the/DT, act/NN, of/IN, constructing/VBG, something/NN, ./.] 	358
+[Supply/NN, with/IN, water/NN, for/IN, crops/NNS, ,/,, as/IN, with/IN, channels/NNS, ,/,, ditches/NNS, ,/,, or/CC, streams/NNS, ./.] 	[supply/NN, with/IN, water/NN, ,/,, as/IN, with/IN, channels/NNS, or/CC, ditches/NNS, or/CC, streams/NNS, ./.] 	359
+[smother/VB, ,/,, surpress/VBP, or/CC, lessen/VBP, something/NN] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	360
+[cause/VB, to/TO, be/VB, immersed/VBN, in/IN] 	[cause/VB, to/TO, be/VB, interested/JJ, or/CC, curious/JJ, ./.] 	361
+[The/DT, human/JJ, act/NN, of/IN, making/VBG, something/NN, new/JJ, ./.] 	[the/DT, act/NN, of/IN, making/VBG, or/CC, enacting/VBG, laws/NNS, ./.] 	362
+[The/DT, intended/JJ, meaning/NN, of/IN, an/DT, instance/NN, of/IN, communication/NN, ./.] 	[the/DT, intended/JJ, meaning/NN, of/IN, a/DT, communication/NN, ./.] 	363
+[be/VB, given/VBN, to/TO, ,/,, come/VB, into/IN, the/DT, possession/NN, of/IN] 	[come/VBN, into/IN, the/DT, possession/NN, of/IN, ./.] 	364
+[utter/JJ, in/IN, a/DT, certain/JJ, way/NN] 	[react/VB, to/TO, in/IN, a/DT, certain/JJ, way/NN, ./.] 	365
+[have/VB, or/CC, be/VB, covered/VBN, with/IN, bristles/VBZ] 	[the/DT, state/NN, of/IN, being/VBG, covered/VBN, with/IN, unclean/JJ, things/NNS, ./.] 	366
+[the/DT, act/NN, of/IN, planning/NN, or/CC, deliberating/VBG] 	[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG, ./.] 	367
+[be/VB, located/VBN, at/IN, or/CC, on/IN, top/NN, of/IN, something/NN] 	[make/VB, a/DT, film/NN, or/CC, photograph/NN, of/IN, something/NN, ./.] 	368
+[be/VB, in/IN, or/CC, establish/VB, communication/NN, with/IN] 	[move/NN, or/CC, establish/VB, in/IN, a/DT, new/JJ, location/NN, ./.] 	369
+[Adapt/VB, oneself/NN, to/TO, new/JJ, or/CC, different/JJ, conditions/NNS, ./.] 	[adapt/VB, or/CC, conform/VB, oneself/NN, to/TO, new/JJ, or/CC, different/JJ, conditions/NNS, ./.] 	370
+[be/VB, located/VBN, at/IN, or/CC, on/IN, top/NN, of/IN, something/NN] 	[an/DT, obligation/NN, to/TO, pay/VB, or/CC, do/VB, something/NN, ./.] 	371
+[a/DT, collection/NN, of/IN, something/NN, ,/,, often/RB, a/DT, large/JJ, amount/NN] 	[a/DT, collection/NN, of/IN, things/NNS, sharing/VBG, a/DT, common/JJ, attribute/NN, ./.] 	372
+[whip/NN, with/IN, or/CC, as/IN, if/IN, with/IN, a/DT, whisk/NN] 	[urge/NN, with/IN, or/CC, as/IN, if/IN, with/IN, a/DT, goad/NN, ./.] 	373
+[dysfunction/NN, or/CC, ailment/NN, of/IN, the/DT, heart/NN] 	[a/DT, disease/NN, of/IN, the/DT, heart/NN, ./.] 	374
+[decorate/VB, a/DT, manuscript/NN, with/IN, red/JJ] 	[decorate/VB, -LRB-/-LRB-, manuscripts/NNS, -RRB-/-RRB-, with/IN, letters/NNS, painted/VBN, red/JJ, ./.] 	375
+[the/DT, act/NN, of/IN, devoting/VBG, time/NN, and/CC, energy/NN, to/TO, something/NN] 	[the/DT, act/NN, of/IN, liberating/JJ, someone/NN, or/CC, something/NN, ./.] 	376
+[verify/VB, something/NN, by/IN, comparing/VBG, to/TO, a/DT, standard/NN] 	[check/NN, or/CC, regulate/VB, -LRB-/-LRB-, a/DT, scientific/JJ, experiment/NN, -RRB-/-RRB-, by/IN, conducting/VBG, a/DT, parallel/JJ, experiment/NN, or/CC, comparing/VBG, with/IN, another/DT, standard/NN, ./.] 	377
+[Part/NN, ,/,, cease/VB, ,/,, or/CC, break/NN, association/NN, with/IN, -LRB-/-LRB-, something/NN, -RRB-/-RRB-, ./.] 	[part/NN, ;/:, cease/VB, or/CC, break/VB, association/NN, with/IN, ./.] 	378
+[put/VBN, heels/NNS, on/IN, a/DT, shoe/NN] 	[put/VB, a/DT, new/JJ, heel/NN, on/IN, ./.] 	379
+[the/DT, act/NN, of/IN, preserving/VBG, or/CC, protecting/VBG, something/NN] 	[the/DT, act/NN, of/IN, raising/VBG, something/NN, ./.] 	380
+[make/VB, images/NNS, or/CC, sounds/VBZ, less/RBR, sharp/JJ] 	[make/VB, -LRB-/-LRB-, images/NNS, or/CC, sounds/NNS, -RRB-/-RRB-, sharp/JJ, or/CC, sharper/JJR, ./.] 	381
+[Expel/VB, or/CC, eject/VB, saliva/NN, ,/,, sputum/NN, ,/,, or/CC, an/DT, object/NN, from/IN, the/DT, mouth/NN, ./.] 	[expel/VB, or/CC, eject/VB, -LRB-/-LRB-, saliva/NN, or/CC, phlegm/NN, or/CC, sputum/NN, -RRB-/-RRB-, from/IN, the/DT, mouth/NN, ./.] 	382
+[measure/VB, the/DT, depth/NN, of/IN, a/DT, body/NN, of/IN, water/NN] 	[measure/VB, the/DT, depth/NN, of/IN, -LRB-/-LRB-, a/DT, body/NN, of/IN, water/NN, -RRB-/-RRB-, with/IN, a/DT, sounding/VBG, line/NN, ./.] 	383
+[give/VB, a/DT, detailed/JJ, account/NN, of/IN] 	[narrate/VB, or/CC, give/VB, a/DT, detailed/JJ, account/NN, of/IN, ./.] 	384
+[a/DT, recurrent/JJ, artistic/JJ, theme/NN, or/CC, pattern/NN] 	[a/DT, theme/NN, that/WDT, is/VBZ, repeated/VBN, or/CC, elaborated/VBN, in/IN, a/DT, piece/NN, of/IN, music/NN, ./.] 	385
+[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG] 	[the/DT, act/NN, of/IN, looking/VBG, or/CC, seeing/VBG, or/CC, observing/VBG, ./.] 	386
+[have/VB, a/DT, strong/JJ, desire/NN, to/TO, do/VB, something/NN] 	[have/VB, a/DT, strong/JJ, desire/NN, or/CC, urge/VB, to/TO, do/VB, something/NN, ./.] 	387
+[The/DT, activity/NN, of/IN, looking/VBG, thoroughly/RB, in/IN, order/NN, to/TO, find/VB, something/NN, or/CC, someone/NN, ./.] 	[the/DT, act/NN, of/IN, removing/VBG, or/CC, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	388
+[person/NN, who/WP, is/VBZ, a/DT, social/JJ, companion/NN] 	[a/DT, friend/NN, who/WP, is/VBZ, frequently/RB, in/IN, the/DT, company/NN, of/IN, another/DT, ./.] 	389
+[hold/NN, or/CC, place/NN, in/IN, equilibrium/NN] 	[hold/NN, or/CC, carry/VB, in/IN, equilibrium/NN, ./.] 	390
+[the/DT, act/NN, of/IN, accusing/VBG, someone/NN, or/CC, something/NN, for/IN, being/VBG, at/IN, fault/NN] 	[the/DT, management/NN, of/IN, someone/NN, or/CC, something/NN, ./.] 	391
+[work/NN, as/IN, a/DT, tinker/VBP, -LRB-/-LRB-, fix/NN, pots/NNS, and/CC, pans/NNS, -RRB-/-RRB-] 	[work/NN, as/IN, a/DT, tinker/VBP, or/CC, tinkerer/NN, ./.] 	392
+[the/DT, act/NN, of/IN, allowing/VBG, ,/,, bestowing/VBG, something/NN] 	[the/DT, act/NN, of/IN, forming/VBG, or/CC, establishing/VBG, something/NN, ./.] 	393
+[the/DT, termination/NN, ,/,, ending/VBG, of/IN, a/DT, meeting/NN] 	[the/DT, termination/NN, of/IN, a/DT, meeting/NN, ./.] 	394
+[scratch/NN, or/CC, scrape/NN, with/IN, claws/NNS, or/CC, nails/NNS] 	[attack/NN, as/IN, if/IN, with/IN, claws/NNS, ./.] 	395
+[a/DT, social/JJ, occasion/NN, ,/,, often/RB, official/JJ, or/CC, formal/JJ] 	[a/DT, formal/JJ, or/CC, official/JJ, social/JJ, gathering/NN, or/CC, ceremony/NN, ./.] 	396
+[infer/VB, or/CC, believe/VB, to/TO, be/VB, the/DT, case/NN] 	[believe/VB, to/TO, be/VB, the/DT, case/NN, ./.] 	397
+[move/NN, in/IN, such/JJ, a/DT, way/NN, as/IN, to/TO, avoid/VB] 	[make/VB, a/DT, sudden/JJ, movement/NN, in/IN, a/DT, new/JJ, direction/NN, so/RB, as/IN, to/TO, avoid/VB, ./.] 	398
+[The/DT, state/NN, of/IN, being/VBG, absent/JJ, ./.] 	[the/DT, act/NN, of/IN, climbing/VBG, something/NN, ./.] 	399
+[remove/VB, by/IN, pinching/VBG, or/CC, snipping/VBG] 	[sever/VB, or/CC, remove/VB, by/IN, pinching/VBG, or/CC, snipping/VBG, ./.] 	400
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, become/VBP, a/DT, powder/NN, or/CC, as/IN, dust/NN, ./.] 	[cause/VB, to/TO, become/VB, widely/RB, known/VBN, ./.] 	401
+[prepare/VB, ,/,, arrange/VB, ;/:, create/VB, or/CC, organize/VB, for/IN, a/DT, particular/JJ, purpose/NN] 	[any/DT, area/NN, set/NN, aside/RB, for/IN, a/DT, particular/JJ, purpose/NN, ./.] 	402
+[the/DT, act/NN, of/IN, people/NNS, having/VBG, sex/NN] 	[the/DT, act/NN, of/IN, climbing/VBG, something/NN, ./.] 	403
+[to/TO, lecture/VB, formally/RB, to/TO, an/DT, audience/NN] 	[accuse/VB, formally/RB, of/IN, a/DT, crime/NN, ./.] 	404
+[the/DT, act/NN, of/IN, creating/VBG, an/DT, artistic/JJ, work/NN] 	[the/DT, act/NN, of/IN, creating/VBG, written/JJ, works/NNS, ./.] 	405
+[the/DT, state/NN, of/IN, being/VBG, in/IN, contact/NN] 	[the/DT, state/NN, of/IN, being/VBG, excluded/VBN, ./.] 	406
+[collect/VB, discarded/VBN, ,/,, refused/VBD, or/CC, damaged/VBD, material/NN] 	[collect/VB, discarded/VBN, or/CC, refused/VBN, material/NN, ./.] 	407
+[an/DT, enterprise/NN, or/CC, company/NN, that/WDT, publishes/VBZ, newsprint/NN] 	[a/DT, business/NN, firm/NN, that/WDT, publishes/VBZ, newspapers/NNS, ./.] 	408
+[the/DT, act/NN, of/IN, providing/VBG, incentive/NN, to/TO, someone/NN] 	[the/DT, act/NN, of/IN, motivating/VBG, ;/:, providing/VBG, incentive/NN, ./.] 	409
+[the/DT, activity/NN, of/IN, examining/VBG, or/CC, assessing/VBG, something/NN] 	[the/DT, act/NN, of/IN, examining/VBG, resemblances/NNS, ./.] 	410
+[Make/VB, marks/NNS, in/IN, the/DT, surface/NN, of/IN, ./.] 	[make/VB, small/JJ, marks/NNS, into/IN, the/DT, surface/NN, of/IN, ./.] 	411
+[Make/VB, a/DT, copy/NN, with/IN, the/DT, intent/NN, to/TO, deceive/VB, ./.] 	[take/VB, up/RP, with/IN, the/DT, tongue/NN, ./.] 	412
+[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG] 	[the/DT, act/NN, of/IN, clipping/JJ, or/CC, snipping/VBG, ./.] 	413
+[spare/JJ, in/IN, quality/NN, or/CC, quantity/NN] 	[be/VB, equal/JJ, to/TO, in/IN, quality/NN, or/CC, ability/NN, ./.] 	414
+[return/NN, to/TO, in/IN, thought/NN, or/CC, speech/NN] 	[return/NN, in/IN, thought/NN, or/CC, speech/NN, to/TO, something/NN, ./.] 	415
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, climbing/VBG, something/NN, ./.] 	416
+[manner/NN, of/IN, handling/NN, ,/,, managing/VBG, someone/NN, or/CC, something/NN] 	[the/DT, management/NN, of/IN, someone/NN, or/CC, something/NN, ./.] 	417
+[the/DT, act/NN, of/IN, selecting/VBG, or/CC, picking/VBG, something/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	418
+[LAY/NNP, OFF/NNP, --/:, put/VBD, an/DT, end/NN, to/TO, a/DT, state/NN, or/CC, activity/NN] 	[put/VB, an/DT, end/NN, to/TO, a/DT, state/NN, or/CC, an/DT, activity/NN, ./.] 	419
+[move/VB, the/DT, body/NN, backwards/RB, and/CC, down/RB, into/IN, a/DT, comfortable/JJ, resting/VBG, position/NN] 	[move/NN, or/CC, arrange/VB, oneself/NN, in/IN, a/DT, comfortable/JJ, and/CC, cozy/JJ, position/NN, ./.] 	420
+[Shine/VB, intensely/RB, ;/:, emit/VB, a/DT, steady/JJ, ,/,, even/RB, light/JJ, from/IN, a/DT, source/NN, ./.] 	[emit/VB, a/DT, steady/JJ, even/RB, light/JJ, without/IN, flames/NNS, ./.] 	421
+[The/DT, act/NN, of/IN, purchasing/VBG, back/RB, something/NN, previously/RB, sold/VBN, ./.] 	[the/DT, act/NN, of/IN, starting/VBG, something/NN, ./.] 	422
+[reach/NN, or/CC, cause/VB, to/TO, reach/VB, the/DT, highest/JJS, point/NN, ,/,, best/JJS, something/NN] 	[an/DT, act/NN, -LRB-/-LRB-, or/CC, failure/NN, to/TO, act/VB, -RRB-/-RRB-, that/WDT, disappoints/VBZ, someone/NN, ./.] 	423
+[a/DT, type/NN, of/IN, military/JJ, aircraft/NN] 	[a/DT, unit/NN, of/IN, military/JJ, aircraft/NN, ./.] 	424
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[the/DT, state/NN, of/IN, taking/VBG, in/RP, or/CC, encircling/VBG, ./.] 	425
+[a/DT, person/NN, who/WP, plants/NNS, or/CC, detonates/VBZ, explosives/NNS] 	[a/DT, person/NN, who/WP, plants/NNS, bombs/NNS, ./.] 	426
+[make/VB, fit/NN, for/IN, a/DT, specific/JJ, purpose/NN] 	[suit/NN, to/TO, a/DT, special/JJ, purpose/NN, ./.] 	427
+[strike/NN, with/IN, horror/NN, ,/,, surprise/NN, ,/,, disgust/NN] 	[strike/NN, with/IN, horror/NN, or/CC, terror/NN, ./.] 	428
+[have/VB, the/DT, same/JJ, value/NN, ,/,, be/VB, or/CC, become/VB, equivalent/JJ, to/TO, something/NN, else/RB] 	[establish/VB, something/NN, as/IN, being/VBG, earlier/JJR, relative/JJ, to/TO, something/NN, else/RB, ./.] 	429
+[A/DT, state/NN, of/IN, confusion/NN, or/CC, disorder/NN, ./.] 	[throw/VB, into/IN, great/JJ, confusion/NN, or/CC, disorder/NN, ./.] 	430
+[a/DT, public/JJ, enclosure/NN, for/IN, animals/NNS, ,/,, as/IN, dogs/NNS] 	[a/DT, public/JJ, enclosure/NN, for/IN, stray/JJ, or/CC, unlicensed/JJ, dogs/NNS, ./.] 	431
+[a/DT, system/NN, by/IN, which/WDT, one/CD, currency/NN, is/VBZ, exchanged/VBN, for/IN, another/DT, ,/,, enabling/VBG, international/JJ, transactions/NNS] 	[the/DT, system/NN, by/IN, which/WDT, one/CD, currency/NN, is/VBZ, exchanged/VBN, for/IN, another/DT, ;/:, enables/VBZ, international/JJ, transactions/NNS, to/TO, take/VB, place/NN, ./.] 	432
+[the/DT, natural/JJ, progression/NN, or/CC, development/NN, of/IN, something/NN] 	[the/DT, natural/JJ, process/NN, of/IN, laying/VBG, down/RP, a/DT, deposit/NN, of/IN, something/NN, ./.] 	433
+[the/DT, act/NN, of/IN, pulling/VBG, an/DT, object/NN] 	[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG, ./.] 	434
+[A/DT, perceptual/JJ, distinction/NN, based/VBN, on/IN, color/NN, or/CC, shading/NN, ./.] 	[the/DT, perceptual/JJ, effect/NN, of/IN, the/DT, juxtaposition/NN, of/IN, very/RB, different/JJ, colors/NNS, ./.] 	435
+[The/DT, act/NN, of/IN, purchasing/VBG, back/RB, something/NN, previously/RB, sold/VBN, ./.] 	[the/DT, act/NN, of/IN, retaining/VBG, something/NN, ./.] 	436
+[Cook/VB, in/IN, cream/NN, or/CC, using/VBG, cream/NN, ./.] 	[add/VB, cream/NN, to/TO, one/CD, 's/POS, coffee/NN, ,/,, for/IN, example/NN, ./.] 	437
+[a/DT, negative/JJ, or/CC, undesirable/JJ, aspect/NN, of/IN, something/NN] 	[consider/VB, as/IN, part/NN, of/IN, something/NN, ./.] 	438
+[gear/NN, or/CC, develop/VB, something/NN, to/TO, a/DT, particular/JJ, purpose/NN] 	[suit/NN, to/TO, a/DT, special/JJ, purpose/NN, ./.] 	439
+[identify/VB, or/CC, pick/VB, out/RP, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, losing/VBG, someone/NN, or/CC, something/NN, ./.] 	440
+[a/DT, state/NN, of/IN, being/VBG, encircled/VBN] 	[the/DT, state/NN, of/IN, being/VBG, depleted/VBN, ./.] 	441
+[read/VB, or/CC, conform/VB, to/TO, the/DT, metrical/JJ, pattern/NN, of/IN] 	[conform/VB, to/TO, a/DT, metrical/JJ, pattern/NN, ./.] 	442
+[a/DT, major/JJ, branch/NN, of/IN, a/DT, tree/NN] 	[a/DT, small/JJ, thin/JJ, branch/NN, of/IN, a/DT, tree/NN, ./.] 	443
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, starting/VBG, something/NN, ./.] 	444
+[-LRB-/-LRB-, Cause/NN, to/TO, -RRB-/-RRB-, become/VBP, a/DT, fluid/NN, ,/,, as/IN, when/WRB, heated/VBN, ./.] 	[make/VB, -LRB-/-LRB-, a/DT, solid/JJ, substance/NN, -RRB-/-RRB-, liquid/NN, ,/,, as/IN, by/IN, heating/NN, ./.] 	445
+[form/NN, schemes/NNS, in/IN, an/DT, underhand/JJ, manner/NN] 	[form/NN, intrigues/NNS, -LRB-/-LRB-, for/IN, -RRB-/-RRB-, in/IN, an/DT, underhand/JJ, manner/NN, ./.] 	446
+[identify/VB, or/CC, pick/VB, out/RP, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, forcing/VBG, out/RP, someone/NN, or/CC, something/NN, ./.] 	447
+[the/DT, act/NN, of/IN, applying/VBG, torture/VBP, to/TO, the/DT, foot/NN, and/CC, leg/NN] 	[a/DT, form/NN, of/IN, foot/NN, torture/VB, in/IN, which/WDT, the/DT, feet/NNS, are/VBP, encased/VBN, in/IN, iron/NN, and/CC, slowly/RB, crushed/JJ, ./.] 	448
+[Move/VB, as/IN, if/IN, unable/JJ, to/TO, control/VB, one/CD, 's/POS, manner/NN, or/CC, direction/NN, of/IN, movement/NN, ./.] 	[walk/NN, as/IN, if/IN, unable/JJ, to/TO, control/VB, one/CD, 's/POS, movements/NNS, ./.] 	449
+[arrangement/NN, for/IN, managing/VBG, assets/NNS, on/IN, behalf/NN, of/IN, a/DT, beneficiary/NN] 	[something/NN, -LRB-/-LRB-, as/IN, property/NN, -RRB-/-RRB-, held/VBN, by/IN, one/CD, party/NN, -LRB-/-LRB-, the/DT, trustee/NN, -RRB-/-RRB-, for/IN, the/DT, benefit/NN, of/IN, another/DT, -LRB-/-LRB-, the/DT, beneficiary/NN, -RRB-/-RRB-, ./.] 	450
+[make/VB, fit/NN, for/IN, a/DT, specific/JJ, purpose/NN] 	[provide/VB, with/IN, -LRB-/-LRB-, something/NN, -RRB-/-RRB-, usually/RB, for/IN, a/DT, specific/JJ, purpose/NN, ./.] 	451
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, winding/VBG, or/CC, twisting/VBG, ./.] 	452
+[cause/VB, to/TO, move/VB, ,/,, cause/VB, to/TO, be/VB, moved/VBN] 	[cause/VB, to/TO, lean/VB, to/TO, the/DT, side/NN, ./.] 	453
+[an/DT, indication/NN, of/IN, something/NN, ,/,, evidence/NN] 	[an/DT, indication/NN, of/IN, some/DT, hidden/JJ, activity/NN, ./.] 	454
+[The/DT, state/NN, of/IN, being/VBG, absent/JJ, ./.] 	[the/DT, state/NN, of/IN, being/VBG, suspected/VBN, ./.] 	455
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, break/VB, up/RP, or/CC, cease/VB, to/TO, function/VB] 	[stop/VB, functioning/VBG, or/CC, cohering/VBG, as/IN, a/DT, unit/NN, ./.] 	456
+[the/DT, selection/NN, of/IN, a/DT, lottery/NN, winner/NN] 	[the/DT, last/JJ, section/NN, of/IN, a/DT, communication/NN, ./.] 	457
+[being/VBG, in/IN, a/DT, protected/JJ, state/NN, or/CC, condition/NN] 	[be/VB, in/IN, some/DT, specified/VBN, state/NN, or/CC, condition/NN, ./.] 	458
+[the/DT, act/NN, of/IN, escaping/VBG, ,/,, fleeing/VBG] 	[the/DT, act/NN, of/IN, escaping/VBG, physically/RB, ./.] 	459
+[build/VB, ,/,, make/VB, by/IN, combining/VBG, materials/NNS, or/CC, parts/NNS] 	[make/VB, by/IN, combining/VBG, materials/NNS, and/CC, parts/NNS, ./.] 	460
+[Create/VB, a/DT, coating/NN, for/IN, something/NN, ./.] 	[give/VB, a/DT, performance/NN, -LRB-/-LRB-, of/IN, something/NN, -RRB-/-RRB-, ./.] 	461
+[Create/VB, a/DT, coating/NN, for/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, projecting/VBG, out/RP, from/IN, something/NN, ./.] 	462
+[restrict/VB, or/CC, limit/VB, the/DT, range/NN, of/IN] 	[limit/VB, the/DT, range/NN, or/CC, extent/NN, of/IN, ./.] 	463
+[the/DT, act/NN, of/IN, annoying/JJ, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	464
+[the/DT, act/NN, of/IN, acknowledging/VBG, the/DT, truth/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, perceiving/VBG, the/DT, odor/NN, of/IN, something/NN, ./.] 	465
+[the/DT, act/NN, of/IN, providing/VBG, incentive/NN, to/TO, someone/NN] 	[the/DT, act/NN, of/IN, hiring/VBG, something/NN, or/CC, someone/NN, ./.] 	466
+[an/DT, argument/NN, that/WDT, gives/VBZ, grounds/NNS, or/CC, justification/NN, for/IN, a/DT, position/NN] 	[the/DT, justification/NN, for/IN, some/DT, act/NN, or/CC, belief/NN, ./.] 	467
+[presentation/NN, of/IN, a/DT, musical/JJ, theme/NN] 	[-LRB-/-LRB-, music/NN, -RRB-/-RRB-, the/DT, presentation/NN, of/IN, a/DT, musical/JJ, theme/NN, ./.] 	468
+[cause/NN, or/CC, permit/VB, to/TO, fall/VB, to/TO, the/DT, ground/NN] 	[let/VB, or/CC, cause/VB, to/TO, fall/VB, in/IN, drops/NNS, ./.] 	469
+[move/NN, or/CC, sway/VB, in/IN, a/DT, sinuous/JJ, fashion/NN] 	[to/TO, move/VB, or/CC, cause/VB, to/TO, move/VB, in/IN, a/DT, sinuous/JJ, ,/,, spiral/NN, ,/,, or/CC, circular/JJ, course/NN, ./.] 	470
+[sell/VB, or/CC, transport/VB, an/DT, item/NN, or/CC, idea/NN, abroad/RB] 	[cause/VB, to/TO, spread/VB, in/IN, another/DT, part/NN, of/IN, the/DT, world/NN, ./.] 	471
+[the/DT, act/NN, of/IN, taking/VBG, an/DT, offer/NN] 	[the/DT, act/NN, of/IN, making/VBG, a/DT, proposal/NN, ./.] 	472
+[a/DT, group/NN, of/IN, people/NNS, appointed/VBN, to/TO, a/DT, committee/NN] 	[a/DT, committee/NN, appointed/VBN, to/TO, judge/VB, a/DT, competition/NN, ./.] 	473
+[intuitions/NNS, ,/,, a/DT, hunch/NN, or/CC, feeling/NN] 	[maintain/VB, -LRB-/-LRB-, a/DT, theory/NN, ,/,, thoughts/NNS, ,/,, or/CC, feelings/NNS, -RRB-/-RRB-, ./.] 	474
+[situate/VB, ,/,, position/NN, ,/,, come/VBN, to/TO, rest/VB] 	[settle/VB, into/IN, a/DT, position/NN, ,/,, usually/RB, on/IN, a/DT, surface/NN, or/CC, ground/NN, ./.] 	475
+[Sever/VB, or/CC, remove/VB, by/IN, pinching/VBG, or/CC, snipping/VBG, ;/:, tend/VB, by/IN, cutting/VBG, ./.] 	[sever/VB, or/CC, remove/VB, by/IN, pinching/VBG, or/CC, snipping/VBG, ./.] 	476
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, damaging/JJ, something/NN, or/CC, someone/NN, ./.] 	477
+[Place/NN, limits/NNS, on/IN, ;/:, form/VB, the/DT, boundary/NN, of/IN, or/CC, be/VB, contiguous/JJ, to/TO, ./.] 	[form/VB, the/DT, boundary/NN, of/IN, ;/:, be/VB, contiguous/JJ, to/TO, ./.] 	478
+[the/DT, value/NN, of/IN, a/DT, currency/NN, 's/POS, conversion/NN, to/TO, another/DT, currency/NN] 	[the/DT, charge/NN, for/IN, exchanging/VBG, currency/NN, of/IN, one/CD, country/NN, for/IN, currency/NN, of/IN, another/DT, ./.] 	479
+[the/DT, graduated/VBN, arc/NN, of/IN, an/DT, instrument/NN, used/VBN, to/TO, measure/VB, angles/NNS] 	[the/DT, graduated/VBN, arc/NN, that/WDT, is/VBZ, attached/VBN, to/TO, an/DT, instrument/NN, for/IN, measuring/VBG, angles/NNS, ./.] 	480
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	481
+[the/DT, act/NN, of/IN, escaping/VBG, ,/,, fleeing/VBG] 	[the/DT, act/NN, of/IN, retaining/VBG, something/NN, ./.] 	482
+[people/NNS, who/WP, are/VBP, impoverished/JJ, ,/,, without/IN, basic/JJ, possessions/NNS] 	[two/CD, people/NNS, who/WP, are/VBP, married/VBN, to/TO, each/DT, other/JJ, ./.] 	483
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[give/VB, certain/JJ, properties/NNS, to/TO, something/NN, ./.] 	484
+[the/DT, act/NN, of/IN, explaining/VBG, or/CC, defending/VBG, something/NN] 	[the/DT, activity/NN, of/IN, supplying/VBG, or/CC, providing/VBG, something/NN, ./.] 	485
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, raising/VBG, something/NN, ./.] 	486
+[confine/VB, in/IN, or/CC, as/IN, if/IN, in/IN, a/DT, prison/NN] 	[enclose/VB, in/IN, or/CC, as/IN, if/IN, in/IN, a/DT, frame/NN, ./.] 	487
+[Make/VB, a/DT, copy/NN, with/IN, the/DT, intent/NN, to/TO, deceive/VB, ./.] 	[make/VB, believe/VB, with/IN, the/DT, intent/NN, to/TO, deceive/VB, ./.] 	488
+[the/DT, act/NN, of/IN, sorting/VBG, things/NNS, into/IN, categories/NNS] 	[the/DT, act/NN, of/IN, distributing/VBG, things/NNS, into/IN, classes/NNS, or/CC, categories/NNS, of/IN, the/DT, same/JJ, type/NN, ./.] 	489
+[Fly/VB, in/IN, or/CC, on/IN, a/DT, glider/NN, plane/NN] 	[fly/VB, in/IN, or/CC, as/IN, if/IN, in/IN, a/DT, glider/NN, plane/NN, ./.] 	490
+[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	491
+[open/JJ, to/TO, members/NNS, of/IN, all/DT, races/NNS, and/CC, ethnic/JJ, groups/NNS] 	[open/JJ, -LRB-/-LRB-, a/DT, place/NN, -RRB-/-RRB-, to/TO, members/NNS, of/IN, all/DT, races/NNS, and/CC, ethnic/JJ, groups/NNS, ./.] 	492
+[Go/VB, after/IN, with/IN, the/DT, intent/NN, to/TO, follow/VB, or/CC, catch/VB, ./.] 	[go/VB, after/IN, with/IN, the/DT, intent/NN, to/TO, catch/VB, ./.] 	493
+[the/DT, center/NN, region/NN, of/IN, an/DT, object/NN] 	[the/DT, center/NN, of/IN, an/DT, object/NN, ./.] 	494
+[an/DT, approximated/VBN, amount/NN, of/IN, something/NN] 	[an/DT, appraisal/NN, of/IN, the/DT, value/NN, of/IN, something/NN, ./.] 	495
+[cover/NN, completely/RB, ;/:, form/VB, a/DT, cover/NN, over/IN, ;/:, expand/VB, over/RP, ./.] 	[form/VB, a/DT, carpet-like/JJ, cover/NN, -LRB-/-LRB-, over/IN, -RRB-/-RRB-, ./.] 	496
+[room/NN, where/WRB, work/NN, or/CC, repairs/NNS, are/VBP, done/VBN] 	[room/NN, where/WRB, work/NN, is/VBZ, done/VBN, ./.] 	497
+[the/DT, act/NN, of/IN, shoving/VBG, something/NN, away/RB] 	[the/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	498
+[take/VB, possession/NN, of/IN, by/IN, legal/JJ, authority/NN, -LRB-/-LRB-, for/IN, security/NN, -RRB-/-RRB-, ./.] 	[take/VB, temporary/JJ, possession/NN, of/IN, as/IN, a/DT, security/NN, ,/,, by/IN, legal/JJ, authority/NN, ./.] 	499
+[hand/NN, over/IN, or/CC, put/VB, in/RP] 	[refer/VB, for/IN, judgment/NN, or/CC, consideration/NN, ./.] 	500
+[cause/VB, to/TO, turn/VB, from/IN, one/CD, course/NN, or/CC, use/VB, to/TO, another/DT] 	[send/VB, from/IN, one/CD, person/NN, or/CC, place/NN, to/TO, another/DT, ./.] 	501
+[the/DT, act/NN, of/IN, pulling/VBG, a/DT, load/NN] 	[the/DT, act/NN, of/IN, dwelling/NN, in/IN, a/DT, place/NN, ./.] 	502
+[the/DT, act/NN, of/IN, annoying/JJ, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, projecting/VBG, out/RP, from/IN, something/NN, ./.] 	503
+[The/DT, act/NN, of/IN, talking/VBG, about/IN, the/DT, features/NNS, of/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, projecting/VBG, out/RP, from/IN, something/NN, ./.] 	504
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, dropping/VBG, something/NN, ./.] 	506
+[the/DT, identification/NN, or/CC, the/DT, realization/NN, of/IN, something/NN] 	[the/DT, end/NN, or/CC, completion/NN, of/IN, something/NN, ./.] 	507
+[the/DT, act/NN, of/IN, concealing/VBG, or/CC, disguising/VBG] 	[the/DT, act/NN, of/IN, projecting/VBG, out/RP, from/IN, something/NN, ./.] 	508
+[A/DT, document/NN, granting/VBG, a/DT, right/NN, or/CC, privilege/NN, ,/,, as/IN, to/TO, an/DT, inventor/NN, ./.] 	[a/DT, document/NN, granting/VBG, an/DT, inventor/NN, sole/JJ, rights/NNS, to/TO, an/DT, invention/NN, ./.] 	509
+[the/DT, central/JJ, area/NN, of/IN, an/DT, object/NN] 	[the/DT, center/NN, of/IN, an/DT, object/NN, ./.] 	510
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, colliding/VBG, with/IN, something/NN, ./.] 	511
+[the/DT, act/NN, of/IN, lifting/VBG, something/NN] 	[the/DT, act/NN, of/IN, decreasing/VBG, or/CC, reducing/VBG, something/NN, ./.] 	512
+[the/DT, act/NN, of/IN, putting/VBG, a/DT, preparation/NN, on/IN, something/NN, ./.] 	[the/DT, act/NN, of/IN, stopping/VBG, something/NN, ./.] 	513
+[the/DT, act/NN, of/IN, advocating/VBG, or/CC, promoting/VBG, something/NN] 	[the/DT, act/NN, of/IN, rending/VBG, or/CC, ripping/VBG, or/CC, splitting/NN, something/NN, ./.] 	514
+[Have/VBP, a/DT, distinctive/JJ, or/CC, characteristic/JJ, taste/NN, ,/,, perceptible/JJ, by/IN, an/DT, experiencer/NN, ./.] 	[have/VB, a/DT, distinctive/JJ, or/CC, characteristic/JJ, taste/NN, ./.] 	515
+[Be/VB, a/DT, sign/NN, or/CC, indication/NN, of/IN, ;/:, have/VBP, as/IN, a/DT, meaning/NN, ./.] 	[be/VB, a/DT, sign/NN, or/CC, indication/NN, of/IN, ./.] 	516
+[the/DT, general/JJ, impression/NN, or/CC, appearance/NN, of/IN, something/NN] 	[the/DT, general/JJ, outward/JJ, appearance/NN, of/IN, something/NN, ./.] 	517
+[know/VB, ,/,, realize/VB, ,/,, and/CC, comprehend/VBP, the/DT, meaning/NN] 	[know/VB, and/CC, comprehend/VB, the/DT, nature/NN, or/CC, meaning/NN, of/IN, ./.] 	518
+[Make/VB, or/CC, create/VB, something/NN, for/IN, a/DT, specific/JJ, function/NN, ./.] 	[make/VB, something/NN, ,/,, usually/RB, for/IN, a/DT, specific/JJ, function/NN, ./.] 	519
+[get/VB, rid/VB, of/IN, as/IN, if/IN, with/IN, water/NN, -LRB-/-LRB-, metaphorical/JJ, -RRB-/-RRB-] 	[get/VB, rid/VB, of/IN, as/IN, if/IN, by/IN, submerging/VBG, ./.] 	520
+[the/DT, act/NN, of/IN, acknowledging/VBG, the/DT, truth/NN, of/IN, something/NN] 	[the/DT, act/NN, of/IN, choosing/VBG, or/CC, selecting/VBG, ./.] 	521
+[change/NN, or/CC, conform/VB, to/TO, fit/VB, new/JJ, or/CC, different/JJ, conditions/NNS] 	[adapt/VB, or/CC, conform/VB, oneself/NN, to/TO, new/JJ, or/CC, different/JJ, conditions/NNS, ./.] 	522
+[the/DT, act/NN, of/IN, providing/VBG, incentive/NN, to/TO, someone/NN] 	[the/DT, act/NN, of/IN, troubling/JJ, or/CC, annoying/JJ, someone/NN, ./.] 	523
+[a/DT, watch/NN, with/IN, a/DT, hinged/JJ, lid/NN, to/TO, protect/VB, the/DT, face/NN] 	[a/DT, watch/NN, with/IN, a/DT, hinged/VBN, metal/NN, lid/NN, to/TO, protect/VB, the/DT, crystal/NN, ./.] 	524
+[support/NN, ,/,, sustain/VB, ,/,, bear/VB, ,/,, or/CC, be/VB, responsible/JJ, for/IN] 	[organize/VB, or/CC, be/VB, responsible/JJ, for/IN, ./.] 	525
+[strive/VB, against/IN, another/DT, or/CC, others/NNS, to/TO, attain/VB, a/DT, goal/NN] 	[compete/VB, for/IN, something/NN, ;/:, engage/VB, in/IN, a/DT, contest/NN, ;/:, measure/NN, oneself/NN, against/IN, others/NNS, ./.] 	526
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, cracking/VBG, something/NN, ./.] 	527
+[Gather/VB, or/CC, remove/VB, -LRB-/-LRB-, from/IN, a/DT, location/NN, -RRB-/-RRB-, for/IN, use/NN, ./.] 	[remove/VB, from/IN, a/DT, position/NN, or/CC, office/NN, ./.] 	528
+[the/DT, act/NN, of/IN, directing/VBG, attention/NN, ,/,, resources/NNS, to/TO, something/NN] 	[the/DT, act/NN, of/IN, colliding/VBG, with/IN, something/NN, ./.] 	529
+[Ride/NN, on/IN, someone/NN, 's/POS, shoulders/NNS, or/CC, back/RB, ;/:, support/NN, on/IN, the/DT, back/NN, or/CC, shoulders/NNS, ./.] 	[ride/NN, on/IN, someone/NN, 's/POS, shoulders/NNS, or/CC, back/RB, ./.] 	530
+[the/DT, act/NN, of/IN, combining/VBG, ,/,, blending/VBG, ,/,, integrating/VBG] 	[the/DT, act/NN, of/IN, mixing/VBG, together/RB, ./.] 	531
+[a/DT, solid/JJ, 3D/NN, object/NN, with/IN, rectangular/JJ, sides/NNS] 	[a/DT, solid/JJ, piece/NN, of/IN, something/NN, -LRB-/-LRB-, usually/RB, having/VBG, flat/JJ, rectangular/JJ, sides/NNS, -RRB-/-RRB-, ./.] 	532
+[the/DT, translation/NN, of/IN, an/DT, opus/NN, from/IN, one/CD, language/NN, to/TO, another/DT] 	[the/DT, act/NN, of/IN, moving/VBG, from/IN, one/CD, place/NN, to/TO, another/DT, ./.] 	533
+[the/DT, act/NN, of/IN, annoying/JJ, someone/NN, or/CC, something/NN] 	[the/DT, act/NN, of/IN, admitting/VBG, someone/NN, to/TO, enter/VB, ./.] 	534
+[Write/VB, differently/RB, or/CC, alter/VB, a/DT, piece/NN, or/CC, writing/NN, ,/,, perhaps/RB, to/TO, suit/VB, a/DT, different/JJ, purpose/NN, ./.] 	[rewrite/VB, so/RB, as/IN, to/TO, make/VB, fit/NN, to/TO, suit/VB, a/DT, new/JJ, or/CC, different/JJ, purpose/NN, ./.] 	535
+[a/DT, celebrity/NN, or/CC, entertainer/NN, who/WP, attracts/VBZ, a/DT, large/JJ, audience/NN] 	[an/DT, entertainer/NN, who/WP, attracts/VBZ, large/JJ, audiences/NNS, ./.] 	536
+[Dispose/NN, of/IN, something/NN, as/IN, useless/JJ, and/CC, old/JJ, ;/:, physically/RB, tear/VB, apart/RB, ./.] 	[dispose/VB, of/IN, -LRB-/-LRB-, something/NN, useless/JJ, or/CC, old/JJ, -RRB-/-RRB-, ./.] 	537
+[The/DT, state/NN, of/IN, being/VBG, absent/JJ, ./.] 	[the/DT, state/NN, of/IN, being/VBG, excommunicated/VBN, ./.] 	538
+[rise/NN, to/TO, surface/NN, ;/:, become/VB, visible/JJ, or/CC, known/JJ] 	[appear/VB, or/CC, become/VB, visible/JJ, ;/:, make/VB, a/DT, showing/NN, ./.] 	539
+[overcome/VBN, with/IN, astonishment/NN, or/CC, disbelief/NN] 	[correct/JJ, by/IN, punishment/NN, or/CC, discipline/NN, ./.] 	540
+[lessen/VB, in/IN, force/NN, or/CC, effect/NN, ,/,, restrain/VB, ,/,, weaken/VB] 	[lessen/VB, in/IN, force/NN, or/CC, effect/NN, ./.] 	541
+[the/DT, act/NN, of/IN, intentionally/RB, omitting/VBG, something/NN] 	[the/DT, act/NN, of/IN, climbing/VBG, something/NN, ./.] 	542
+[the/DT, act/NN, of/IN, advocating/VBG, or/CC, promoting/VBG, something/NN] 	[the/DT, act/NN, of/IN, affirming/VBG, or/CC, asserting/VBG, or/CC, stating/VBG, something/NN, ./.] 	543
+[a/DT, list/NN, of/IN, items/NNS, to/TO, be/VB, consulted/VBN, and/CC, marked/VBN, off/RP] 	[a/DT, list/NN, of/IN, items/NNS, -LRB-/-LRB-, names/NNS, or/CC, tasks/NNS, etc./FW, -RRB-/-RRB-, to/TO, be/VB, checked/VBN, or/CC, consulted/VBN, ./.] 	544
+[The/DT, act/NN, of/IN, testing/NN, something/NN, ./.] 	[the/DT, act/NN, of/IN, stopping/VBG, something/NN, ./.] 	545
+[the/DT, act/NN, of/IN, damaging/JJ, something/NN, ,/,, causing/VBG, breakage/NN] 	[the/DT, act/NN, of/IN, damaging/JJ, something/NN, or/CC, someone/NN, ./.] 	546
+[put/VBN, in/IN, a/DT, particular/JJ, place/NN, or/CC, abstract/JJ, location/NN] 	[put/VBN, into/IN, a/DT, certain/JJ, place/NN, or/CC, abstract/JJ, location/NN, ./.] 	547
+[the/DT, act/NN, of/IN, perceiving/VBG, a/DT, scent/NN] 	[the/DT, act/NN, of/IN, perceiving/VBG, the/DT, odor/NN, of/IN, something/NN, ./.] 	548
+[the/DT, act/NN, of/IN, providing/VBG, assistance/NN, ,/,, giving/VBG, aid/NN] 	[the/DT, act/NN, of/IN, administering/VBG, medication/NN, ./.] 	549
+[lessen/VB, in/IN, force/NN, ,/,, impact/NN, ,/,, or/CC, effect/NN] 	[lessen/VB, in/IN, force/NN, or/CC, effect/NN, ./.] 	550
+[cover/NN, with/IN, wooden/JJ, boards/NNS, ;/:, secure/JJ] 	[get/VB, on/IN, board/NN, of/IN, -LRB-/-LRB-, trains/NNS, ,/,, buses/NNS, ,/,, ships/NNS, ,/,, aircraft/NN, ,/,, etc./FW, -RRB-/-RRB-, ./.] 	551
+[the/DT, act/NN, of/IN, explaining/VBG, or/CC, defending/VBG, something/NN] 	[the/DT, act/NN, of/IN, removing/VBG, or/CC, getting/VBG, rid/JJ, of/IN, something/NN, ./.] 	552
+[a/DT, lid/NN, or/CC, top/NN, of/IN, a/DT, container/NN] 	[covering/VBG, for/IN, a/DT, hole/NN, -LRB-/-LRB-, especially/RB, a/DT, hole/NN, in/IN, the/DT, top/NN, of/IN, a/DT, container/NN, -RRB-/-RRB-, ./.] 	553
+[-LRB-/-LRB-, cause/NN, to/TO, -RRB-/-RRB-, separate/JJ, or/CC, move/VB, in/IN, different/JJ, directions/NNS] 	[to/TO, cause/VB, to/TO, separate/JJ, and/CC, go/VB, in/IN, different/JJ, directions/NNS, ./.] 	554
+[cause/VB, to/TO, vibrate/VB, in/IN, a/DT, different/JJ, pattern/NN] 	[cause/VB, to/TO, vibrate/VB, in/IN, a/DT, definite/JJ, pattern/NN, ./.] 	555
+[The/DT, act/NN, of/IN, dividing/VBG, or/CC, disconnecting/VBG, ./.] 	[the/DT, act/NN, of/IN, adding/VBG, one/CD, thing/NN, to/TO, another/DT, ./.] 	556
+[provide/VB, a/DT, seat/NN, or/CC, base/NN, for/IN] 	[provide/VB, a/DT, feast/NN, or/CC, banquet/NN, for/IN, ./.] 	558
+[the/DT, act/NN, of/IN, explaining/VBG, or/CC, defending/VBG, something/NN] 	[the/DT, act/NN, of/IN, rending/VBG, or/CC, ripping/VBG, or/CC, splitting/NN, something/NN, ./.] 	559
+[an/DT, observer/NN, of/IN, a/DT, process/NN, or/CC, activity/NN] 	[a/DT, meeting/NN, devoted/VBN, to/TO, a/DT, particular/JJ, activity/NN, ./.] 	560
+[make/VB, keen/JJ, ;/:, give/VB, -LRB-/-LRB-, new/JJ, -RRB-/-RRB-, life/NN, or/CC, energy/NN, to/TO] 	[give/VB, new/JJ, life/NN, or/CC, energy/NN, to/TO, ./.] 	561

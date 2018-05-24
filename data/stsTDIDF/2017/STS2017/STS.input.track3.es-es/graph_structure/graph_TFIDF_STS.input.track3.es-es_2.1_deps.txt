@@ -1,0 +1,5 @@
+pet	.	punct
+ROOT	pet	root
+bunny	a	det
+pet	bunny	nmod:npmod
+pet	Children	compound

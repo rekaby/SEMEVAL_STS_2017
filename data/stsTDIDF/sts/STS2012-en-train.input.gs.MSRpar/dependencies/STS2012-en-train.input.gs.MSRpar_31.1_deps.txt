@@ -1,0 +1,16 @@
+compound	shares	Express
+compound	shares	Scripts
+compound	shares	ESRX.O
+nsubj	fell	shares
+root	ROOT	fell
+nummod	percent	3.6
+dobj	fell	percent
+mark	close	to
+advcl	fell	close
+case	$	at
+nmod:at	close	$
+nummod	$	66.89
+case	Nasdaq	on
+det	Nasdaq	the
+nmod:on	close	Nasdaq
+punct	fell	.

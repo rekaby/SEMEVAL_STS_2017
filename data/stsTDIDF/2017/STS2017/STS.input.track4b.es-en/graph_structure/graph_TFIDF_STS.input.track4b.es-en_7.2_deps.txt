@@ -1,0 +1,4 @@
+talk	feelings	nmod:about
+feelings	bad	amod
+feelings	about	case
+want	talk	xcomp

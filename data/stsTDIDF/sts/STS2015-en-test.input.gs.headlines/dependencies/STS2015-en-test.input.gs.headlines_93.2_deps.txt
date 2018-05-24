@@ -1,0 +1,7 @@
+case	least	At
+nmod:npmod	89	least
+nummod	dead	89
+amod	earthquakes	dead
+case	China	in
+nmod:in	dead	China
+root	ROOT	earthquakes

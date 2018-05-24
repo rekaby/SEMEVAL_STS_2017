@@ -1,0 +1,7 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+compound	ups	push
+dobj	doing	ups
+punct	doing	.

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	gnawing	dog
+root	ROOT	gnawing
+case	strap	on
+det	strap	a
+compound	strap	camera
+nmod:on	gnawing	strap
+punct	gnawing	.

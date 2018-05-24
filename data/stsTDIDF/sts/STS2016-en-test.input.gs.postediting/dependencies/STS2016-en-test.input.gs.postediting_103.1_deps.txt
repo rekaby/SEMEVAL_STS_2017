@@ -1,0 +1,8 @@
+nsubj	are	You
+root	ROOT	are
+dobj	divulge	what
+nsubj	divulge	you
+ccomp	are	divulge
+case	yourself	about
+nmod:about	divulge	yourself
+punct	are	.

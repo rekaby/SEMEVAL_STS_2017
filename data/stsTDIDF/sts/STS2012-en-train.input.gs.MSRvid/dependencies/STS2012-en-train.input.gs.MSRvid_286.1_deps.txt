@@ -1,0 +1,9 @@
+nsubj	pouring	Someone
+aux	pouring	is
+root	ROOT	pouring
+compound	broth	chicken
+dobj	pouring	broth
+case	pot	into
+det	pot	a
+nmod:into	pouring	pot
+punct	pouring	.

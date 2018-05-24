@@ -1,0 +1,10 @@
+compound	truck	Red
+root	ROOT	truck
+dep	truck	spinning
+dobj	spinning	tires
+cc	spinning	and
+conj:and	spinning	emitting
+dobj	emitting	smoke
+case	behind	from
+nmod:from	emitting	behind
+punct	truck	.

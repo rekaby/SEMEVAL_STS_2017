@@ -1,0 +1,4 @@
+root	ROOT	signal
+mark	winking	by
+acl	signal	winking
+punct	signal	.

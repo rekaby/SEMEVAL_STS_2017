@@ -1,0 +1,6 @@
+parading	.	punct
+parading	Zombies	nsubj
+brains	around	case
+ROOT	parading	root
+brains	eating	amod
+parading	brains	nmod:around

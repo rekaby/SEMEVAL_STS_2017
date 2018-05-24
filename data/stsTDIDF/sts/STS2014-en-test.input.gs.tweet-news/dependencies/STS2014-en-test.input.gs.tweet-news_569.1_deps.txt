@@ -1,0 +1,20 @@
+compound	membership	Union
+nsubj	falls	membership
+root	ROOT	falls
+case	low	to
+amod	low	97-year
+nmod:to	falls	low
+punct	low	,
+nummod	%	11.3
+appos	low	%
+punct	falls	.-10) nsubj(find-4, People
+aux	find	will
+advmod	find	still
+root	ROOT	find
+dobj	find	ways
+mark	blame	to
+acl	ways	blame
+dobj	blame	them
+case	everything	for
+nmod:for	blame	everything
+punct	find	.

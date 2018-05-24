@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	children	of
+nmod:of	group	children
+acl	children	swimming
+case	pool	in
+det	pool	the
+nmod:in	swimming	pool
+punct	group	.

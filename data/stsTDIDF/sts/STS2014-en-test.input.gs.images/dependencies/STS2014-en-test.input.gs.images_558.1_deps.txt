@@ -1,0 +1,10 @@
+amod	cat	Large
+amod	cat	black
+cc	black	and
+conj:and	black	white
+nsubj	resting	cat
+root	ROOT	resting
+case	windowsill	on
+det	windowsill	a
+nmod:on	resting	windowsill
+punct	resting	.

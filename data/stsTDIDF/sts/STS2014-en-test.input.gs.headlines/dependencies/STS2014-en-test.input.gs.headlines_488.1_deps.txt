@@ -1,0 +1,6 @@
+compound	rover	Mars
+nsubj	collects	rover
+root	ROOT	collects
+amod	sample	first
+compound	sample	bedrock
+dobj	collects	sample

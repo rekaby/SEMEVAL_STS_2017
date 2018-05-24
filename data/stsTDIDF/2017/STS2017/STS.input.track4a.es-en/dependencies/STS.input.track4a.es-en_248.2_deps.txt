@@ -1,0 +1,11 @@
+det	man	A
+nsubj	walks	man
+case	suit	in
+det	suit	a
+compound	suit	business
+nmod:in	man	suit
+root	ROOT	walks
+compound:prt	walks	down
+det	street	the
+dobj	walks	street
+punct	walks	.

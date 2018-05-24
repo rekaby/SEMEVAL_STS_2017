@@ -1,0 +1,11 @@
+mark	is	Because
+expl	is	there
+root	ROOT	is
+det	bulb	a
+nsubj	is	bulb
+case	one	in
+nmod:in	bulb	one
+case	paths	of
+det	paths	the
+nmod:of	one	paths
+punct	is	.

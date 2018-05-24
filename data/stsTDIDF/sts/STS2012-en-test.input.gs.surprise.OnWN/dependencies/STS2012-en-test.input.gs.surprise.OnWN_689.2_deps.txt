@@ -1,0 +1,5 @@
+root	ROOT	make
+xcomp	make	unfit
+cc	unfit	or
+conj:or	unfit	unsuitable
+punct	make	.

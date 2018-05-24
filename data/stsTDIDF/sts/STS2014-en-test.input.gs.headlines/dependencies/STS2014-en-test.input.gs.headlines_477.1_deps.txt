@@ -1,0 +1,7 @@
+nsubj	rescued	Ten
+root	ROOT	rescued
+compound:prt	rescued	off
+dobj	rescued	Waterford
+punct	Waterford	,
+compound	coasts	Dublin
+appos	Waterford	coasts

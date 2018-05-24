@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	jumping	woman
+aux	jumping	is
+root	ROOT	jumping
+det	distance	a
+amod	distance	long
+dobj	jumping	distance
+mark	watch	while
+nsubj	watch	people
+advcl	jumping	watch
+punct	jumping	.

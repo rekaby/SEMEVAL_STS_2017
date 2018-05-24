@@ -1,0 +1,9 @@
+nmod:poss	son	Victim
+case	Victim	's
+root	ROOT	son
+punct	son	:
+nsubj	crime	It
+cop	crime	was
+det	crime	a
+compound	crime	hate
+dep	son	crime

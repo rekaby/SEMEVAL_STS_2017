@@ -1,0 +1,5 @@
+nsubj	unites	World
+root	ROOT	unites
+case	memorial	for
+compound	memorial	Mandela
+nmod:for	unites	memorial

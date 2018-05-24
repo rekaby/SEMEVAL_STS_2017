@@ -1,0 +1,9 @@
+det	man	a
+root	ROOT	man
+cc	man	and
+conj:and	man	woman
+acl	man	walking
+case	shop	past
+det	shop	a
+compound	shop	record
+nmod:past	walking	shop

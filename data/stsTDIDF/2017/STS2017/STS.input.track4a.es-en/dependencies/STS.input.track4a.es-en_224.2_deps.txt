@@ -1,0 +1,11 @@
+nsubj	wait	Families
+root	ROOT	wait
+mark	enter	to
+xcomp	wait	enter
+det	store	the
+dobj	enter	store
+case	sale	for
+det	sale	a
+amod	sale	big
+nmod:for	enter	sale
+punct	wait	.

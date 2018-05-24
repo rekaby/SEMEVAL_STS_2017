@@ -1,0 +1,8 @@
+root	ROOT	narrative
+cc	narrative	or
+conj:or	narrative	account
+punct	narrative	,
+acl	narrative	intended
+case	reporting	as
+amod	reporting	factual
+nmod:as	intended	reporting

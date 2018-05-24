@@ -1,0 +1,12 @@
+personality	gun	nmod:with
+personality	film	compound
+gun	with	case
+lobby	in	case
+lobby	theater	nmod:of
+personality	as	case
+man	dressed	acl
+personality	a	det
+dressed	personality	nmod:as
+gun	lobby	nmod:in
+theater	movie	compound
+theater	of	case

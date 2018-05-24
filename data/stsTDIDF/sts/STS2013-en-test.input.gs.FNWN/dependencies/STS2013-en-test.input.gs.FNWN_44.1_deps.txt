@@ -1,0 +1,15 @@
+det	entity	the
+nsubj	interacts	entity
+root	ROOT	interacts
+case	theme	with
+det	theme	the
+nmod:with	interacts	theme
+case	effect	with
+det	effect	the
+nmod:with	theme	effect
+mark	moving	of
+acl	effect	moving
+case	theme	of
+det	theme	the
+nmod:of	moving	theme
+punct	interacts	.

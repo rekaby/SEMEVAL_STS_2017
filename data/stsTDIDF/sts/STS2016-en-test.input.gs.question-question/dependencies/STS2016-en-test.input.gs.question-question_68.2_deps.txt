@@ -1,0 +1,12 @@
+advmod	blackout	How
+aux	blackout	can
+nsubj	blackout	I
+advmod	blackout	thoroughly
+root	ROOT	blackout
+det	window	a
+compound	window	bedroom
+dobj	blackout	window
+case	budget	on
+det	budget	a
+nmod:on	blackout	budget
+punct	blackout	?

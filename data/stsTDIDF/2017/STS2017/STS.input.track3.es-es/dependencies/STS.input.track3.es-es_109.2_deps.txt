@@ -1,0 +1,7 @@
+det	people	The
+nummod	people	two
+nsubj	driving	people
+aux	driving	are
+root	ROOT	driving
+dobj	driving	trucks
+punct	driving	.

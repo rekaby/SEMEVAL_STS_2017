@@ -1,0 +1,7 @@
+woman	old	amod
+reflection	woman	nmod:of
+puddle	a	det
+reflection	The	det
+puddle	in	case
+seen	reflection	nsubjpass
+seen	puddle	nmod:in

@@ -1,0 +1,8 @@
+nsubj	question	Police
+root	ROOT	question
+compound	crash	man
+case	boardwalk	in
+amod	boardwalk	deadly
+compound	boardwalk	LA
+nmod:in	man	boardwalk
+dobj	question	crash

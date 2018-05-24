@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	little
+nsubj	plays	boy
+root	ROOT	plays
+case	phone	with
+det	phone	a
+compound	phone	toy
+nmod:with	plays	phone
+punct	plays	.

@@ -1,0 +1,7 @@
+punct	warrant	`
+compound	warrant	Arrest
+root	ROOT	warrant
+punct	warrant	'
+case	ex-president	for
+compound	ex-president	Maldives
+nmod:for	warrant	ex-president

@@ -1,0 +1,10 @@
+root	ROOT	line
+dep	line	up
+cc	up	or
+conj:or	up	make
+xcomp	make	parallel
+punct	line	;
+dep	line	bring
+case	adjustment	into
+amod	adjustment	proper
+nmod:into	bring	adjustment

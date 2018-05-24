@@ -1,0 +1,12 @@
+root	ROOT	``
+root	``	Pray
+case	Me	for
+nmod:for	Pray	Me
+punct	Pray	''
+punct	Pray	.-6) compound(Panetta-3, Defense
+compound	Panetta	Secretary
+root	ROOT	Panetta
+case	Audience	in
+nmod:in	Panetta	Audience
+case	Pope	With
+nmod:with	Panetta	Pope

@@ -1,0 +1,17 @@
+det	proportion	a
+root	ROOT	proportion
+case	relation	in
+nmod:in	proportion	relation
+case	whole	to
+det	whole	a
+nmod:to	relation	whole
+punct	amount	-LRB-
+nsubj	amount	which
+cop	amount	is
+advmod	amount	usually
+det	amount	the
+dep	whole	amount
+case	hundred	per
+nmod:per	amount	hundred
+punct	amount	-RRB-
+punct	proportion	.

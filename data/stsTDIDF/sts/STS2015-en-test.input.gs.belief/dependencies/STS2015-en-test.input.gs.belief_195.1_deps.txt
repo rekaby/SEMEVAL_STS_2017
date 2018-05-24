@@ -1,0 +1,9 @@
+compound	youve	lol
+nsubj	studied	youve
+root	ROOT	studied
+det	points	the
+amod	points	talking
+dobj	studied	points
+advmod	grasshopper	well
+dep	points	grasshopper
+punct	studied	.

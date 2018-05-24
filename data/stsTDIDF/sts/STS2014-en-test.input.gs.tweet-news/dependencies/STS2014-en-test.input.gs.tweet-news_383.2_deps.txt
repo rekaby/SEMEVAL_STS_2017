@@ -1,0 +1,11 @@
+det	Saint	A
+root	ROOT	Saint
+case	City	in
+nmod:poss	City	His
+nmod:in	Saint	City
+punct	Saint	:
+compound	Manning	Archie
+appos	Saint	Manning
+case	Orleans	in
+compound	Orleans	New
+nmod:in	Manning	Orleans

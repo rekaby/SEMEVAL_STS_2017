@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	hugging	women
+aux	hugging	are
+root	ROOT	hugging
+case	couch	on
+det	couch	a
+nmod:on	hugging	couch
+punct	hugging	.

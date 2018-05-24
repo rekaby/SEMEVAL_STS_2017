@@ -1,0 +1,8 @@
+det	action	the
+root	ROOT	action
+mark	putting	of
+acl	action	putting
+dobj	putting	something
+case	operation	into
+nmod:into	putting	operation
+punct	action	.

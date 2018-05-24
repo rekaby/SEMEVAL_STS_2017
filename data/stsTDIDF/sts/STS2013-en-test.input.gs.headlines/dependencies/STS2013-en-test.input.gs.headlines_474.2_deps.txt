@@ -1,0 +1,8 @@
+nsubj	prepares	Egypt
+root	ROOT	prepares
+mark	bury	to
+xcomp	prepares	bury
+amod	III	Coptic
+compound	III	Pope
+compound	III	Shenuda
+dobj	bury	III

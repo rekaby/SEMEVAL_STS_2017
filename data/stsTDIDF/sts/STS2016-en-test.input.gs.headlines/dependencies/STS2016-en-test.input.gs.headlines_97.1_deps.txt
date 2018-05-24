@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	18	least
+root	ROOT	18
+acl	18	killed
+case	bombing	in
+compound	bombing	Iraq
+compound	bombing	mosque
+nmod:in	killed	bombing

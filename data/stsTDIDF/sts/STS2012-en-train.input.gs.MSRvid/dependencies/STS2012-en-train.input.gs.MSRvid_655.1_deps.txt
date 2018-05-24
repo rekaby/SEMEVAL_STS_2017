@@ -1,0 +1,13 @@
+det	man	A
+nsubj	removes	man
+root	ROOT	removes
+det	couple	a
+dobj	removes	couple
+case	scrambles	of
+compound	scrambles	toaster
+nmod:of	couple	scrambles
+case	packet	from
+det	packet	a
+amod	packet	plastic
+nmod:from	removes	packet
+punct	removes	.

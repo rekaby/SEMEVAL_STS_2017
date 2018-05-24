@@ -1,0 +1,5 @@
+part	man	nsubj
+man	sea	conj:and
+part	scene	nmod:of
+scene	this	det
+scene	of	case

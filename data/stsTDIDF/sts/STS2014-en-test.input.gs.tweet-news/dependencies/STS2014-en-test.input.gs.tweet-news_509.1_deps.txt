@@ -1,0 +1,11 @@
+root	ROOT	Flowers
+case	winter	in
+nmod:in	Flowers	winter
+punct	Flowers	?-4) nsubj(some-3, Camellias
+cop	some	are
+root	ROOT	some
+case	prerennials	of
+nmod:poss	prerennials	my
+amod	prerennials	favorite
+nmod:of	some	prerennials
+punct	some	.

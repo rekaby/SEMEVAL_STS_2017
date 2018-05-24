@@ -1,0 +1,16 @@
+advmod	separated	there
+nsubjpass	separated	terminals
+auxpass	separated	are
+root	ROOT	separated
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap
+advmod	jumps	when
+det	voltage	the
+nsubj	jumps	voltage
+acl:relcl	gap	jumps
+case	0	from
+nmod:from	jumps	0
+case	1.5	to
+nmod:to	jumps	1.5
+punct	separated	.

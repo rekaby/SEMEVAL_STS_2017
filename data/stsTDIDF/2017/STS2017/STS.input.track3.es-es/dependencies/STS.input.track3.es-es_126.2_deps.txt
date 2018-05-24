@@ -1,0 +1,7 @@
+nsubj	jumping	People
+aux	jumping	are
+root	ROOT	jumping
+case	air	in
+det	air	the
+nmod:in	jumping	air
+punct	jumping	.

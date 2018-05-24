@@ -1,0 +1,14 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	individuals
+nsubj	possess	who
+acl:relcl	individuals	possess
+amod	ability	extraordinary
+compound	ability	memory
+dobj	possess	ability
+punct	are	,
+advmod	called	sometimes
+dep	are	called
+amod	memory	eidetic
+xcomp	called	memory
+punct	are	.

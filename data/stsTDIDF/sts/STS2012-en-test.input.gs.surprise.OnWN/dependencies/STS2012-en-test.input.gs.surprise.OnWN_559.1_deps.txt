@@ -1,0 +1,9 @@
+cop	base	be
+case	base	on
+root	ROOT	base
+case	end	at
+det	end	the
+nmod:at	base	end
+case	inning	of
+det	inning	an
+nmod:of	end	inning

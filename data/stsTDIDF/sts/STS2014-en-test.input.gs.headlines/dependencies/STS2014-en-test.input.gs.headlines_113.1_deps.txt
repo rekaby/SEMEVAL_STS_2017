@@ -1,0 +1,9 @@
+nsubj	leads	Rouhani
+root	ROOT	leads
+case	vote	in
+compound	vote	Iran
+amod	vote	presidential
+nmod:in	leads	vote
+punct	leads	-
+amod	results	preliminary
+dobj	leads	results

@@ -1,0 +1,6 @@
+root	ROOT	come
+case	possession	into
+det	possession	the
+nmod:into	come	possession
+acl	possession	of
+punct	come	.

@@ -1,0 +1,12 @@
+det	boy	A
+nsubj	swimming	boy
+aux	swimming	is
+root	ROOT	swimming
+case	ocean	in
+det	ocean	the
+nmod:in	swimming	ocean
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	swimming	day
+punct	swimming	.

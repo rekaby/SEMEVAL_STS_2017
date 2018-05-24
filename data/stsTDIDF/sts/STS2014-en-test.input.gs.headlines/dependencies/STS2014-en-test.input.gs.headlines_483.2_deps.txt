@@ -1,0 +1,12 @@
+nsubj	asks	Russia
+csubj	use	asks
+dobj	asks	UN
+mark	consider	to
+xcomp	asks	consider
+nmod:poss	inquiry	its
+dobj	consider	inquiry
+case	arms	of
+compound	arms	Syria
+compound	arms	chemical
+nmod:of	inquiry	arms
+root	ROOT	use

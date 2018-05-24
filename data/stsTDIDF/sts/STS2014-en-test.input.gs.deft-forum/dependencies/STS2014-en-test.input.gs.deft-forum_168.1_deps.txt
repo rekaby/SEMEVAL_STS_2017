@@ -1,0 +1,12 @@
+dep	take	%
+advmod	much	How
+amod	money	much
+dobj	take	money
+aux	take	does
+nsubj	take	PP
+root	ROOT	take
+compound:prt	take	in
+case	services	for
+compound	services	abortion
+nmod:for	take	services
+punct	take	?

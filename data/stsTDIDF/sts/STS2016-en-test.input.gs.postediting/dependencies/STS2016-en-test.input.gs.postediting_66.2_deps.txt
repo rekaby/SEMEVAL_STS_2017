@@ -1,0 +1,15 @@
+case	me	For
+nmod:for	clear	me
+punct	clear	,
+nsubj	clear	it
+cop	clear	was
+root	ROOT	clear
+mark	had	that
+nsubj	had	I
+ccomp	clear	had
+mark	travel	to
+aux	travel	be
+xcomp	had	travel
+det	day	a
+nmod:tmod	travel	day
+punct	clear	.

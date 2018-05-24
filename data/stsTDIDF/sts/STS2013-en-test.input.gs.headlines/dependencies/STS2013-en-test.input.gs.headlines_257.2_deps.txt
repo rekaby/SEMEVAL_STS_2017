@@ -1,0 +1,7 @@
+compound	Crow	Sheryl
+nsubj	Has	Crow
+root	ROOT	Has
+det	Tumor	a
+amod	Tumor	Benign
+compound	Tumor	Brain
+dobj	Has	Tumor

@@ -1,0 +1,6 @@
+nummod	journalists	Two
+amod	journalists	French
+nsubj	killed	journalists
+root	ROOT	killed
+case	Mali	in
+nmod:in	killed	Mali

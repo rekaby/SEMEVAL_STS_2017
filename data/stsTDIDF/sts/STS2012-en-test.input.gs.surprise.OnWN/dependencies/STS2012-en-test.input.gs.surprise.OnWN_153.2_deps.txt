@@ -1,0 +1,13 @@
+mark	compel	to
+root	ROOT	compel
+conj:or	compel	compel
+cc	compel	or
+conj:or	compel	deter
+case	if	by
+cc	by	or
+conj:or	by	as
+nmod:as	compel	if
+nmod:by	compel	if
+case	threats	by
+nmod:by	compel	threats
+punct	compel	.

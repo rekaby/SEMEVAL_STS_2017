@@ -1,0 +1,5 @@
+runner	running	acl
+running	race	nmod:in
+race	first	amod
+ROOT	runner	root
+runner	A	det

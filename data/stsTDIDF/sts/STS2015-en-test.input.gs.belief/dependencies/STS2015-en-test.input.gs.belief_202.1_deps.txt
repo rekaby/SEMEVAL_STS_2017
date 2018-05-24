@@ -1,0 +1,15 @@
+advmod	got	eventually
+root	ROOT	got
+dobj	got	him
+case	6am	about
+nmod:about	him	6am
+cc	got	and
+nsubj	said	he
+conj:and	got	said
+nsubj	house	he
+cop	house	was
+case	house	in
+nmod:poss	house	his
+compound	house	mates
+ccomp	said	house
+punct	got	.

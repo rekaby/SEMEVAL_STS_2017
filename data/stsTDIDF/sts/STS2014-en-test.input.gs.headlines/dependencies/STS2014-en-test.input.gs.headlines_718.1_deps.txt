@@ -1,0 +1,10 @@
+nsubj	die	Dozens
+root	ROOT	die
+mark	erupt	as
+nsubj	erupt	clashes
+advcl	die	erupt
+case	rally	at
+compound	rally	Morsi
+nmod:at	erupt	rally
+case	Cairo	in
+nmod:in	erupt	Cairo

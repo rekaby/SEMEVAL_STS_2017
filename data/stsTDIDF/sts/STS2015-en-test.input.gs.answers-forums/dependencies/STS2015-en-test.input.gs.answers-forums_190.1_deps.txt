@@ -1,0 +1,15 @@
+nsubj	seen	I
+aux	seen	have
+root	ROOT	seen
+dobj	seen	cats
+neg	using	not
+mark	using	like
+acl	cats	using
+det	litterbox	the
+dobj	using	litterbox
+case	variety	for
+det	variety	a
+nmod:for	using	variety
+case	reasons	of
+nmod:of	variety	reasons
+punct	seen	.

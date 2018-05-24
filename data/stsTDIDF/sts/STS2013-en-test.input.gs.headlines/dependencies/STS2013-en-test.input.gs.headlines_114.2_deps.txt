@@ -1,0 +1,7 @@
+amod	Militia	Local
+nsubj	Bolsters	Militia
+root	ROOT	Bolsters
+amod	Militants	Islamist
+dobj	Bolsters	Militants
+case	Mali	in
+nmod:in	Bolsters	Mali

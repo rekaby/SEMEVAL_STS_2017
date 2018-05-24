@@ -1,0 +1,15 @@
+det	man	A
+nsubj	giving	man
+aux	giving	is
+root	ROOT	giving
+det	speech	a
+dobj	giving	speech
+cc	giving	and
+det	woman	a
+nsubj	holding	woman
+aux	holding	is
+conj:and	giving	holding
+det	hat	a
+compound	hat	cowboy
+dobj	holding	hat
+punct	giving	.

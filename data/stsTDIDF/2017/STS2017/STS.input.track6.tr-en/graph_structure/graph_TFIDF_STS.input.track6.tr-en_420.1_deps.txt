@@ -1,0 +1,13 @@
+stove	on	case
+cooks	kitchen	nmod:in
+cooks	woman	nsubj
+stove	the	det
+begs	as	mark
+cooks	.	punct
+cooks	begs	advcl
+cooks	stove	nmod:on
+kitchen	her	nmod:poss
+dog	her	nmod:poss
+begs	below	advmod
+ROOT	cooks	root
+begs	dog	nsubj

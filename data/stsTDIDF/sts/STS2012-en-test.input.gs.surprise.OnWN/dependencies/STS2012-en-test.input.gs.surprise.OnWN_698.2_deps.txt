@@ -1,0 +1,10 @@
+det	role	the
+root	ROOT	role
+case	head	of
+det	head	the
+nmod:of	role	head
+case	department	of
+det	department	a
+compound	department	government
+nmod:of	head	department
+punct	role	.

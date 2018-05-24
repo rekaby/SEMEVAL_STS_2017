@@ -1,0 +1,9 @@
+start	game	nmod:of
+start	before	case
+ring	on	case
+come	land	nsubj
+children	all	det
+sitting	ring	nmod:on
+sitting	start	nmod:before
+come	sitting	conj:and
+come	children	nmod:to

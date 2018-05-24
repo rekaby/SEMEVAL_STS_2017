@@ -1,0 +1,7 @@
+det	book	The
+nsubj	Potter	book
+nsubj	read	you
+acl:relcl	book	read
+cop	Potter	is
+compound	Potter	Harry
+root	ROOT	Potter

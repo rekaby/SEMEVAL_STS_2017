@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	beats	woman
+root	ROOT	beats
+nummod	eggs	two
+dobj	beats	eggs
+case	bowl	in
+det	bowl	a
+nmod:in	beats	bowl
+punct	beats	.

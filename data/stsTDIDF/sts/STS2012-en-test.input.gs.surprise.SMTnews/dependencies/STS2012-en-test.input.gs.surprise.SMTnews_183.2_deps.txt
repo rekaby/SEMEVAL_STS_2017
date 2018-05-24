@@ -1,0 +1,15 @@
+det	Europa	The
+amod	Europa	large
+nsubj	depends	Europa
+case	today	of
+nmod:of	Europa	today
+punct	Europa	,
+advmod	prosperity	just
+case	prosperity	as
+det	prosperity	the
+nmod:as	Europa	prosperity
+punct	Europa	,
+root	ROOT	depends
+case	it	on
+nmod:on	depends	it
+punct	depends	.

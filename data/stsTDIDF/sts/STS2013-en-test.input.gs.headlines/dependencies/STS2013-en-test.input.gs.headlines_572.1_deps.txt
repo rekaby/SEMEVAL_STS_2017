@@ -1,0 +1,8 @@
+compound	Colvin	Sunday
+compound	Colvin	Times
+compound	Colvin	journalist
+compound	Colvin	Marie
+nsubj	killed	Colvin
+root	ROOT	killed
+case	Syria	in
+nmod:in	killed	Syria

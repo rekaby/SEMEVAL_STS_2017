@@ -1,0 +1,6 @@
+unpacks	below	case
+eat	man	advcl
+man	unpacks	nmod:below
+man	while	mark
+eat	upstairs	dobj
+eat	people	nsubj

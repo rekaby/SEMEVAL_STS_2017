@@ -1,0 +1,7 @@
+amod	worker	Kidnapped
+compound	worker	UK
+compound	worker	aid
+nsubj	killed	worker
+root	ROOT	killed
+case	Pakistan	in
+nmod:in	killed	Pakistan

@@ -1,0 +1,14 @@
+root	ROOT	``
+nsubj	time	This
+cop	time	is
+det	time	an
+advmod	heartrending	extremely
+amod	time	heartrending
+root	``	time
+case	community	for
+det	community	the
+amod	community	entire
+compound	community	Brandeis
+compound	community	University
+nmod:for	time	community
+punct	time	.

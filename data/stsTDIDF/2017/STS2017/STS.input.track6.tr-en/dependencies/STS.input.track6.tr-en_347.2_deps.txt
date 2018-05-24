@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	holding	woman
+aux	holding	is
+root	ROOT	holding
+det	book	a
+dobj	holding	book
+punct	holding	.

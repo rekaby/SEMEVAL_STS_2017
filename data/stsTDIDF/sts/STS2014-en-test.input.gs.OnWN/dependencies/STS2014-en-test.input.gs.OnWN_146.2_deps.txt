@@ -1,0 +1,8 @@
+root	ROOT	difficulty
+nsubj	causes	that
+acl:relcl	difficulty	causes
+dobj	causes	worry
+cc	worry	or
+amod	tension	emotional
+conj:or	worry	tension
+punct	difficulty	.

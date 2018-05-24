@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	walking	girl
+aux	walking	is
+root	ROOT	walking
+compound:prt	walking	down
+det	road	a
+dobj	walking	road
+punct	walking	.

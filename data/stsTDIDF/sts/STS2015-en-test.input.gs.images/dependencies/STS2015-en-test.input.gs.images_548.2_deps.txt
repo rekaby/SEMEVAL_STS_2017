@@ -1,0 +1,9 @@
+det	girl	A
+nsubj	poses	girl
+root	ROOT	poses
+case	head	with
+nmod:poss	head	her
+nmod:with	poses	head
+advmod	down	upside
+advmod	head	down
+punct	poses	.

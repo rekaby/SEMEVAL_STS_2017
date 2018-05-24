@@ -1,0 +1,7 @@
+room	dressing	amod
+yacht	in	case
+room	inside	case
+yacht	the	det
+sits	Woman	nsubj
+room	yacht	nmod:in
+sits	room	nmod:inside

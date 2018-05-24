@@ -1,0 +1,20 @@
+advmod	wait	So
+advcl	think	wait
+punct	think	,
+nsubj	think	you
+root	ROOT	think
+nsubj	want	I
+ccomp	think	want
+mark	search	to
+xcomp	want	search
+dobj	search	#Facebook
+punct	think	,
+cc	think	and
+conj:and	think	use
+dobj	use	Bing
+case	back	as
+det	back	the
+nmod:as	use	back
+advmod	back	up
+punct	think	?-19) root(ROOT-0, ha
+punct	ha	.

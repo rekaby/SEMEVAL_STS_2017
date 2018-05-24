@@ -1,0 +1,7 @@
+detained	lunch	nmod:for
+detained	.	punct
+detained	are	auxpass
+detained	workers	nsubjpass
+lunch	for	case
+workers	Construction	compound
+ROOT	detained	root

@@ -1,0 +1,9 @@
+det	activity	any
+root	ROOT	activity
+nsubj	occupies	that
+acl:relcl	activity	occupies
+det	person	a
+nmod:poss	attention	person
+case	person	's
+dobj	occupies	attention
+punct	activity	.

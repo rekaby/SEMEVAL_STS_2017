@@ -1,0 +1,6 @@
+compound	toll	Italy
+compound	toll	bus
+compound	toll	crash
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises

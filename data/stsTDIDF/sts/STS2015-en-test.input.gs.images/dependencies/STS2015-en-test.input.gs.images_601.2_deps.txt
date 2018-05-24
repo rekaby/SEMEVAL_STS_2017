@@ -1,0 +1,10 @@
+det	group	A
+nsubj	stretches	group
+case	children	of
+nmod:of	group	children
+aux	stretches	do
+root	ROOT	stretches
+case	mats	on
+amod	mats	colored
+nmod:on	stretches	mats
+punct	stretches	.

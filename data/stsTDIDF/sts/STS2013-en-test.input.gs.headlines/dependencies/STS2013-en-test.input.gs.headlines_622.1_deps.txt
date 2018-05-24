@@ -1,0 +1,7 @@
+nsubj	buries	Avalanche
+root	ROOT	buries
+case	least	at
+nmod:npmod	100	least
+nummod	soldiers	100
+amod	soldiers	Pakistani
+dobj	buries	soldiers

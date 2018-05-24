@@ -1,0 +1,11 @@
+mark	take	If
+advmod	take	so
+punct	take	,
+nsubj	take	alot
+case	cops	of
+nmod:of	alot	cops
+aux	take	should
+root	ROOT	take
+compound	drugs	presciption
+dobj	take	drugs
+punct	take	.

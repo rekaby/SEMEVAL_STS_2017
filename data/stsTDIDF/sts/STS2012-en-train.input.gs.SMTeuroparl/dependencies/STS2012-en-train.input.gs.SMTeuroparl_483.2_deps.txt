@@ -1,0 +1,17 @@
+nummod	those	All
+nsubj	get	those
+nsubj	working	who
+aux	working	are
+advmod	working	currently
+acl:relcl	those	working
+case	black	on
+det	black	the
+nmod:on	working	black
+aux	get	would
+root	ROOT	get
+dobj	get	jobs
+case	conditions	under
+amod	conditions	decent
+amod	conditions	social
+nmod:under	get	conditions
+punct	get	.

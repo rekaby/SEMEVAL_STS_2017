@@ -1,0 +1,8 @@
+det	man	A
+amod	man	young
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+cc	playing	and
+conj:and	playing	singing
+punct	playing	.

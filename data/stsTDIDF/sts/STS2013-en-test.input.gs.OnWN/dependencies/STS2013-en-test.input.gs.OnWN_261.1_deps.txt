@@ -1,0 +1,13 @@
+root	ROOT	Cause
+mark	extend	to
+cop	extend	be
+cc	be	or
+amod	longer	last
+conj:or	be	longer
+punct	extend	,
+xcomp	Cause	extend
+case	duration	in
+nmod:in	extend	duration
+cc	duration	or
+conj:or	duration	space
+punct	Cause	.

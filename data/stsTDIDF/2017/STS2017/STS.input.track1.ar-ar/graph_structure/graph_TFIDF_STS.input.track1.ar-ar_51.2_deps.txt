@@ -1,0 +1,6 @@
+walks	man	nsubj
+walks	street	nmod:on
+dressed	jacket	nmod:in
+jacket	in	case
+street	dressed	acl
+jacket	white	amod

@@ -1,0 +1,13 @@
+det	cradle	The
+nsubj	has	cradle
+case	h2200	for
+det	h2200	the
+nmod:for	cradle	h2200
+root	ROOT	has
+dobj	has	space
+mark	recharging	for
+acl	space	recharging
+det	battery	a
+amod	battery	second
+dobj	recharging	battery
+punct	has	.

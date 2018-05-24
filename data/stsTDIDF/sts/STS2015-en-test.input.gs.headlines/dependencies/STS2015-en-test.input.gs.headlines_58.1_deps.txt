@@ -1,0 +1,6 @@
+compound	Colman	Olivia
+nsubj	wins	Colman
+root	ROOT	wins
+amod	Award	second
+compound	Award	BAFTA
+dobj	wins	Award

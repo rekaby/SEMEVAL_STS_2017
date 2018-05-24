@@ -1,0 +1,10 @@
+compound	intrigues	form
+root	ROOT	intrigues
+punct	manner	-LRB-
+case	manner	for
+punct	manner	-RRB-
+case	manner	in
+det	manner	an
+amod	manner	underhand
+nmod:in	intrigues	manner
+punct	intrigues	.

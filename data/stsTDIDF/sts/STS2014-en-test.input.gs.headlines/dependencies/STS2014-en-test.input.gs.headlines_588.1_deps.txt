@@ -1,0 +1,8 @@
+root	ROOT	4
+amod	4	dead
+mark	capsizes	after
+nsubj	capsizes	boat
+advcl	dead	capsizes
+compound:prt	capsizes	off
+compound	coast	Florida
+dobj	capsizes	coast

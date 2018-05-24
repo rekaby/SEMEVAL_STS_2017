@@ -1,0 +1,15 @@
+det	skier	A
+nsubj	jumping	skier
+aux	jumping	is
+root	ROOT	jumping
+case	air	in
+det	air	the
+nmod:in	jumping	air
+case	snowfield	over
+det	snowfield	a
+nmod:over	jumping	snowfield
+case	range	near
+det	range	a
+compound	range	mountain
+nmod:near	snowfield	range
+punct	jumping	.

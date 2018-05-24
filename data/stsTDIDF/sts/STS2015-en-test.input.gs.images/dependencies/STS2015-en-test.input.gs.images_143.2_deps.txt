@@ -1,0 +1,16 @@
+det	man	A
+nsubj	follows	man
+root	ROOT	follows
+nmod:poss	dog	his
+amod	dog	black
+cc	black	and
+conj:and	black	white
+dobj	follows	dog
+mark	takes	as
+nsubj	takes	it
+advcl	follows	takes
+case	course	on
+det	course	an
+compound	course	obstacle
+nmod:on	takes	course
+punct	follows	.

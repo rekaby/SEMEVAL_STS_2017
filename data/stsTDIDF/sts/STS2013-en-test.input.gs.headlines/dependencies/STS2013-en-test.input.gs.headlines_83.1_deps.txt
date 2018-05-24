@@ -1,0 +1,10 @@
+compound	jails	ICC
+root	ROOT	jails
+amod	warlord	Congolese
+dep	jails	warlord
+case	years	for
+nummod	years	14
+nmod:for	warlord	years
+case	soldiers	over
+compound	soldiers	child
+nmod:over	years	soldiers

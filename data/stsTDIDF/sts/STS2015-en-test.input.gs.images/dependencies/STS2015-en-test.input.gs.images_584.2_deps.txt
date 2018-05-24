@@ -1,0 +1,9 @@
+det	person	A
+root	ROOT	person
+case	snowmobile	on
+det	snowmobile	a
+nmod:on	person	snowmobile
+case	jump	in
+amod	jump	mid
+nmod:in	person	jump
+punct	person	.

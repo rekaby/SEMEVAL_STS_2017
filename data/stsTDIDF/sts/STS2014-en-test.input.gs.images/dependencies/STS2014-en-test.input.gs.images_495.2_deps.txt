@@ -1,0 +1,13 @@
+det	women	A
+nsubj	stands	women
+case	glasses	in
+nmod:in	women	glasses
+root	ROOT	stands
+case	cow	next
+mwe	next	to
+det	cow	a
+nmod:next_to	stands	cow
+case	field	in
+det	field	a
+nmod:in	cow	field
+punct	stands	.

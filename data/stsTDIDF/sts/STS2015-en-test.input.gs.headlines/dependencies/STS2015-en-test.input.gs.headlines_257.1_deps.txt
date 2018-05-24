@@ -1,0 +1,9 @@
+compound	bomb	Suicide
+nsubj	kills	bomb
+root	ROOT	kills
+dobj	kills	4
+punct	kills	,
+conj	kills	injures
+dobj	injures	13
+case	Pakistan	in
+nmod:in	injures	Pakistan

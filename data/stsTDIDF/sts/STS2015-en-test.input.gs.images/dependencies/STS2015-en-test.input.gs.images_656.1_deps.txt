@@ -1,0 +1,9 @@
+det	man	A
+nsubj	sailing	man
+cop	sailing	is
+compound	sailing	wind
+root	ROOT	sailing
+case	ocean	in
+det	ocean	the
+nmod:in	sailing	ocean
+punct	sailing	.

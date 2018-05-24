@@ -1,0 +1,8 @@
+det	driver	A
+compound	driver	motorcross
+nsubj	going	driver
+root	ROOT	going
+case	race	by
+case	race	during
+det	race	a
+nmod:during	going	race

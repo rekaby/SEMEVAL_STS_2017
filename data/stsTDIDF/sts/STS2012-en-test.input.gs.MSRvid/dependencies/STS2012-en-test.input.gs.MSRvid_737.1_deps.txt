@@ -1,0 +1,11 @@
+nummod	boys	Four
+nsubj	standing	boys
+aux	standing	are
+root	ROOT	standing
+case	car	in
+mwe	in	front
+mwe	in	of
+det	car	the
+compound	car	burning
+nmod:in_front_of	standing	car
+punct	standing	.

@@ -1,0 +1,8 @@
+det	cub	A
+compound	cub	tiger
+nsubj	making	cub
+aux	making	is
+root	ROOT	making
+det	sound	a
+dobj	making	sound
+punct	making	.

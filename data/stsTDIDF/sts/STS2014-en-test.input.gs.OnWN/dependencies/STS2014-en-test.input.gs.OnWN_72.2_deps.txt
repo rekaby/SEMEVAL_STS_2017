@@ -1,0 +1,13 @@
+det	time	a
+root	ROOT	time
+dep	time	interval
+case	which	during
+nmod:during	is	which
+expl	is	there
+acl:relcl	interval	is
+det	cessation	a
+amod	cessation	temporary
+nsubj	is	cessation
+case	something	of
+nmod:of	cessation	something
+punct	time	.

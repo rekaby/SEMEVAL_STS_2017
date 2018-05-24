@@ -1,0 +1,9 @@
+pulls	tent	nmod:in
+tent	a	det
+ROOT	pulls	root
+tent	in	case
+shirt	white	amod
+pulls	woman	nsubj
+pulls	.	punct
+pulls	camera	dobj
+woman	shirt	nmod:in

@@ -1,0 +1,8 @@
+garden	a	det
+bicycle	garden	nmod:in
+rides	One	nummod
+garden	in	case
+rides	.	punct
+bicycle	a	det
+rides	bicycle	dep
+ROOT	rides	root

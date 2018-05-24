@@ -1,0 +1,11 @@
+nsubj	guess	I
+root	ROOT	guess
+nsubj	depends	it
+ccomp	guess	depends
+case	nature	on
+det	nature	the
+nmod:on	depends	nature
+case	contract	of
+nmod:poss	contract	your
+nmod:of	nature	contract
+punct	guess	.

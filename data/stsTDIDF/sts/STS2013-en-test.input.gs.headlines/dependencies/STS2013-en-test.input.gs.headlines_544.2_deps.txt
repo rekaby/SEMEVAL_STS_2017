@@ -1,0 +1,9 @@
+nmod:poss	yuan	China
+case	China	's
+nsubj	weakens	yuan
+root	ROOT	weakens
+case	USD	against
+nmod:against	weakens	USD
+case	day	for
+amod	day	third
+nmod:for	weakens	day

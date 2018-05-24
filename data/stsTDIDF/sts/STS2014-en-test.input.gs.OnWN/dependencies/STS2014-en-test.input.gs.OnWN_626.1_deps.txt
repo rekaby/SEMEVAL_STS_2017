@@ -1,0 +1,9 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+mark	covered	to
+punct	covered	-RRB-
+auxpass	covered	be
+acl	Cause	covered
+case	something	with
+nmod:with	covered	something
+punct	Cause	.

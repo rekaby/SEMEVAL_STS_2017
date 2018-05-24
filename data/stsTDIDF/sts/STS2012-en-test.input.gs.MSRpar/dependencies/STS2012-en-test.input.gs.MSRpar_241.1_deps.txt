@@ -1,0 +1,15 @@
+nsubj	spoke	Glover
+root	ROOT	spoke
+case	conference	at
+det	conference	a
+compound	conference	news
+nmod:at	spoke	conference
+nsubj	included	that
+acl:relcl	conference	included
+advmod	20	about
+nummod	relatives	20
+dobj	included	relatives
+case	victims	of
+det	victims	the
+nmod:of	relatives	victims
+punct	spoke	.

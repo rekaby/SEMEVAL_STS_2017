@@ -1,0 +1,11 @@
+nsubj	says	Al-Qaida
+root	ROOT	says
+nsubj	captures	it
+ccomp	says	captures
+nummod	soldiers	70
+amod	soldiers	Yemeni
+dobj	captures	soldiers
+case	battle	in
+nmod:poss	battle	Abyan
+case	Abyan	's
+nmod:in	captures	battle

@@ -1,0 +1,9 @@
+det	woman	An
+amod	woman	older
+nsubj	cooking	woman
+aux	cooking	is
+root	ROOT	cooking
+case	family	for
+nmod:poss	family	her
+nmod:for	cooking	family
+punct	cooking	.

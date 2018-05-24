@@ -1,0 +1,10 @@
+det	man	A
+nsubj	riding	man
+cc	man	and
+conj:and	man	woman
+aux	riding	is
+root	ROOT	riding
+case	car	in
+det	car	a
+nmod:in	riding	car
+punct	riding	.

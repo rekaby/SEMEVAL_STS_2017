@@ -1,0 +1,7 @@
+compound	stocks	Hong
+compound	stocks	Kong
+nsubj	close	stocks
+root	ROOT	close
+compound:prt	close	down
+nummod	%	0.28
+dobj	close	%

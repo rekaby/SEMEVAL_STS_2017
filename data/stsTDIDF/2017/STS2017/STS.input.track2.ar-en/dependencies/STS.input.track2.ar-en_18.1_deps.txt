@@ -1,0 +1,7 @@
+root	ROOT	Skateboarder
+case	midair	in
+nmod:in	Skateboarder	midair
+case	park	at
+det	park	a
+nmod:at	Skateboarder	park
+punct	Skateboarder	.

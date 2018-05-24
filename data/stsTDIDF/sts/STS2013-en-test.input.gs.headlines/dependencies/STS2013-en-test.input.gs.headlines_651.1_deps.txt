@@ -1,0 +1,9 @@
+amod	stocks	Chinese
+nsubj	fall	stocks
+root	ROOT	fall
+mark	cut	after
+nsubj	cut	RRR
+advcl	fall	cut
+punct	cut	-
+nmod:tmod	cut	May
+nummod	May	14

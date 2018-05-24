@@ -1,0 +1,5 @@
+nsubj	flee	People
+root	ROOT	flee
+case	foreigners	from
+nmod:from	flee	foreigners
+punct	flee	.

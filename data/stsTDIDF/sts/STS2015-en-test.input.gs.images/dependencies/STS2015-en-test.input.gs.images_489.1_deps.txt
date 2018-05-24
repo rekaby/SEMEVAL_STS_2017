@@ -1,0 +1,8 @@
+det	swordsman	A
+amod	swordsman	Japanese
+nsubj	jumps	swordsman
+root	ROOT	jumps
+case	air	into
+det	air	the
+nmod:into	jumps	air
+punct	jumps	.

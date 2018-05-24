@@ -1,0 +1,16 @@
+det	temperature	the
+nsubjpass	specified	temperature
+case	environment	in
+det	environment	a
+amod	environment	certain
+nmod:in	temperature	environment
+punct	temperature	,
+acl	temperature	determined
+case	time	by
+nmod:by	determined	time
+cc	time	and
+conj:and	time	place
+punct	temperature	,
+auxpass	specified	is
+root	ROOT	specified
+punct	specified	.

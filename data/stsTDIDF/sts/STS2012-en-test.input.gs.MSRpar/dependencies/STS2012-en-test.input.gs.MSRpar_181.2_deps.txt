@@ -1,0 +1,15 @@
+det	statement	An
+compound	statement	FBI
+nsubj	said	statement
+root	ROOT	said
+amod	proceedings	legal
+nsubjpass	expected	proceedings
+auxpass	expected	were
+ccomp	said	expected
+nmod:tmod	expected	Monday
+case	court	in
+amod	court	federal
+nmod:in	expected	court
+case	Baltimore	in
+nmod:in	court	Baltimore
+punct	said	.

@@ -1,0 +1,5 @@
+compound	team	UN
+nsubj	investigates	team
+root	ROOT	investigates
+amod	massacre	Syrian
+dobj	investigates	massacre

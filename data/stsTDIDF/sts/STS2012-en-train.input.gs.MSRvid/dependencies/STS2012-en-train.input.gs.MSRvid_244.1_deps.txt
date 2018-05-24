@@ -1,0 +1,10 @@
+det	person	A
+nsubj	pours	person
+root	ROOT	pours
+det	pudding	some
+compound	pudding	rice
+dobj	pours	pudding
+case	bowl	into
+det	bowl	a
+nmod:into	pours	bowl
+punct	pours	.

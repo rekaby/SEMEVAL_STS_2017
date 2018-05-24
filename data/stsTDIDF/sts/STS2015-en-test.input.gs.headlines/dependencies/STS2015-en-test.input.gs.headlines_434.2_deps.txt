@@ -1,0 +1,7 @@
+nmod:poss	Brotherhood	Syria
+case	Syria	's
+amod	Brotherhood	Muslim
+nsubj	faces	Brotherhood
+root	ROOT	faces
+amod	battle	uphill
+dobj	faces	battle

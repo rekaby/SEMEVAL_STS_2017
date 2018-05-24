@@ -1,0 +1,17 @@
+nsubj	use	I
+root	ROOT	use
+compound	Skyports	Elinchrom
+dobj	use	Skyports
+punct	use	,
+cc	use	but
+mark	issue	if
+nsubj	issue	money
+cop	issue	is
+neg	issue	not
+det	issue	an
+conj:but	use	issue
+advmod	go	then
+dep	issue	go
+case	PocketWizards	for
+nmod:for	go	PocketWizards
+punct	use	.

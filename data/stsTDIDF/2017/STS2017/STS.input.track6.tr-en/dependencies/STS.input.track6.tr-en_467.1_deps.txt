@@ -1,0 +1,11 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	floating
+case	ocean	in
+det	ocean	the
+nmod:in	floating	ocean
+case	day	on
+det	day	a
+amod	day	beautiful
+nmod:on	floating	day
+punct	girl	.

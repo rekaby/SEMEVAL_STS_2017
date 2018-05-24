@@ -1,0 +1,16 @@
+root	ROOT	deprive
+case	courage	of
+nmod:of	deprive	courage
+cc	courage	or
+conj:or	courage	hope
+punct	deprive	;
+conj	deprive	take
+compound:prt	take	away
+dobj	take	hope
+nmod	take	from
+punct	deprive	;
+conj	deprive	cause
+mark	feel	to
+xcomp	cause	feel
+xcomp	feel	discouraged
+punct	deprive	.

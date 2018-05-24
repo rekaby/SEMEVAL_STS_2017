@@ -1,0 +1,13 @@
+punct	cause	-LRB-
+root	ROOT	cause
+dep	cause	to
+punct	to	-RRB-
+dep	cause	lengthen
+cc	cause	or
+conj:or	cause	expand
+case	time	in
+nmod:in	expand	time
+cc	time	or
+det	realm	some
+amod	realm	abstract
+conj:or	time	realm

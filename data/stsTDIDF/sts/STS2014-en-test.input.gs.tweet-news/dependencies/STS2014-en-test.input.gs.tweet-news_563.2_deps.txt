@@ -1,0 +1,5 @@
+root	ROOT	Give
+iobj	Give	Lance
+det	chance	another
+dobj	Give	chance
+punct	Give	?

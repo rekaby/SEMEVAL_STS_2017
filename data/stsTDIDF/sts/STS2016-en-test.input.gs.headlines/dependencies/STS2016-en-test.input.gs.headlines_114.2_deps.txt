@@ -1,0 +1,8 @@
+root	ROOT	US
+punct	US	:
+compound	Troops	Russia
+compound	Troops	Massing
+nsubj	Border	Troops
+case	Ukraine	on
+nmod:on	Troops	Ukraine
+appos	US	Border

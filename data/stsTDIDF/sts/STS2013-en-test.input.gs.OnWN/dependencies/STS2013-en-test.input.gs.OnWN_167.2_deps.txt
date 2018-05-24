@@ -1,0 +1,10 @@
+det	event	an
+root	ROOT	event
+nsubj	accomplish	that
+aux	accomplish	does
+neg	accomplish	not
+acl:relcl	event	accomplish
+nmod:poss	purpose	its
+amod	purpose	intended
+dobj	accomplish	purpose
+punct	event	.

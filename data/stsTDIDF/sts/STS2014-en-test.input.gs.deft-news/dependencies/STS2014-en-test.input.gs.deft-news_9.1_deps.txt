@@ -1,0 +1,10 @@
+nsubj	claim	investigators
+root	ROOT	claim
+det	company	the
+amod	company	british
+nsubj	cover	company
+cop	cover	was
+det	cover	a
+compound	cover	cia
+ccomp	claim	cover
+punct	claim	.

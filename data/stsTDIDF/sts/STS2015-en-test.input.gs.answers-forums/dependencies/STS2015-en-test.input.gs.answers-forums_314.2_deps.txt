@@ -1,0 +1,11 @@
+nsubj	go	I
+aux	go	would
+advmod	go	definitely
+root	ROOT	go
+case	half	for
+det	half	a
+advmod	slower	slightly
+amod	half	slower
+amod	half	first
+nmod:for	go	half
+punct	go	.

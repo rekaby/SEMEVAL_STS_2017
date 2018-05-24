@@ -1,0 +1,7 @@
+compound	Detained	Egypt
+compound	Detained	Youth
+compound	Detained	Leader
+root	ROOT	Detained
+case	Days	for
+nummod	Days	Four
+nmod:for	Detained	Days

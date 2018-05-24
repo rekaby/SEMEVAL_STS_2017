@@ -1,0 +1,9 @@
+amod	Columnist	Op-Ed
+root	ROOT	Columnist
+punct	Columnist	:
+compound	Women	Military
+dep	Columnist	Women
+cc	Women	and
+det	Lines	the
+compound	Lines	Front
+conj:and	Women	Lines

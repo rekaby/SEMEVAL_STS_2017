@@ -1,0 +1,7 @@
+nsubj	hits	Meteorite
+root	ROOT	hits
+amod	Russia	central
+dobj	hits	Russia
+punct	Russia	,
+nummod	Russia	400
+dep	hits	hurt

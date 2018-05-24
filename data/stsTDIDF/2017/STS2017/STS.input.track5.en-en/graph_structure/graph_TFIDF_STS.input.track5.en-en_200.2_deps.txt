@@ -1,0 +1,6 @@
+beach	at	case
+sitting	beach	nmod:at
+watching	Angels	dobj
+Angels	Blue	compound
+beach	watching	acl
+sitting	group	nsubj

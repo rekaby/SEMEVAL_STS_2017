@@ -1,0 +1,14 @@
+root	ROOT	Man
+case	costume	in
+amod	costume	scottish
+nmod:in	Man	costume
+acl	costume	playing
+dobj	playing	bagpipes
+case	day	on
+det	day	a
+amod	day	rainy
+nmod:on	playing	day
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	day	sidewalk
+punct	Man	.

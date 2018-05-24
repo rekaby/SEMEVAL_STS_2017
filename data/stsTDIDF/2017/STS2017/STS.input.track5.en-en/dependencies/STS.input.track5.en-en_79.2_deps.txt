@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	doing	people
+aux	doing	are
+root	ROOT	doing
+det	demonstration	a
+dobj	doing	demonstration
+case	fair	at
+det	fair	a
+compound	fair	renaissance
+nmod:at	doing	fair
+punct	doing	.

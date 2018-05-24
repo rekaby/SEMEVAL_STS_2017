@@ -1,0 +1,11 @@
+det	fisherman	The
+nsubj	waiting	fisherman
+aux	waiting	is
+root	ROOT	waiting
+case	help	on
+nmod:on	waiting	help
+mark	fix	to
+acl	help	fix
+det	net	the
+dobj	fix	net
+punct	waiting	.

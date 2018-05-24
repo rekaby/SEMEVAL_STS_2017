@@ -1,0 +1,12 @@
+root	ROOT	Recipes
+case	Health	for
+nmod:for	Recipes	Health
+punct	Recipes	:
+amod	Frittata	Tunisian
+compound	Frittata	Style
+compound	Frittata	Baked
+compound	Frittata	Cauliflower
+dep	Recipes	Frittata
+punct	Recipes	?-10) root(ROOT-0, Recipes
+case	Health	for
+nmod:for	Recipes	Health

@@ -1,0 +1,7 @@
+compound	County	NM
+nsubj	Prepares	County
+root	ROOT	Prepares
+case	Marriages	for
+compound	Marriages	Same-Sex
+nmod:for	Prepares	Marriages
+dobj	Prepares	Hearing

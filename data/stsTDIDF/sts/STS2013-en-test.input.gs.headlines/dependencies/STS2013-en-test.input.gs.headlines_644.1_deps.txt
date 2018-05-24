@@ -1,0 +1,10 @@
+amod	forces	Syrian
+nsubj	bombard	forces
+root	ROOT	bombard
+dobj	bombard	Homs
+punct	Homs	,
+nsubj	warns	Russia
+acl:relcl	Homs	warns
+case	war	of
+amod	war	civil
+nmod:of	warns	war

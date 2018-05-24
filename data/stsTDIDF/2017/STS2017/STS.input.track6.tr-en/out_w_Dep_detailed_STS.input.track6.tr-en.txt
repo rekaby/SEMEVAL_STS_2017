@@ -1,0 +1,500 @@
+[a#7 someone#14=0.5443149061193658, dogs#4 dogs#4=1.0, running#5 walking#5=0.5197205312996055, two#3 Two#0=1.0]	1
+[blonde#3 blonde#3=1.0, lady#1 woman#1=1.0]	2
+[People#0 People#0=1.0, meeting#4 meeting#4=1.0]	3
+[dog#1 dog#1=1.0, dog#5 dog#1=1.0, dog#1 horse#6=0.624627608786516]	4
+[taking#2 take#8=1.0, bag#7 basket#15=0.5180298710485848, man#1 man#1=1.0, bag#7 bag#11=1.0]	5
+[playing#3 playing#2=1.0, ocean#6 ocean#5=1.0, child#1 boy#1=0.6284155848015159]	6
+[going#3 is#2=1.0, going#3 walking#3=1.0, store#6 store#6=1.0, store#6 shop#8=1.0]	7
+[dark#6 bright#4=0.6364011242942782, trees#3 tree#9=1.0, lights#1 bright#4=0.5994121959291938]	8
+[painting#3 painting#3=1.0, man#1 man#1=1.0]	9
+[men#0 men#1=1.0, hole#3 holes#4=1.0]	10
+[yarn#7 knitting#3=0.7593243312254138, knitting#4 knitting#3=1.0, knitting#4 sweater#5=0.604642415845986, woman#2 woman#1=1.0]	11
+[outdoors#3 outside#4=1.0, men#1 guys#1=1.0, working#4 working#3=1.0]	12
+[still#4 man#3=0.5077749639079727, man#1 man#3=1.0, street#7 street#6=1.0]	13
+[sitting#3 sitting#3=1.0, woman#1 woman#1=1.0, sitting#3 couch#7=0.6873983445051111]	14
+[man#1 man#1=1.0, red#4 blue#4=0.8438411305430992, bull#8 man#1=1.0, red#4 blue#10=0.8438411305430992]	15
+[first#4 the#2=0.6602700699670384, to#5 leave#1=0.627837751771243, arrive#6 leave#1=0.5837018164462646]	16
+[People#0 people#1=1.0, balloon#6 balloon#6=1.0, hot#4 hot#4=1.0000000000000002, air#5 air#5=1.0]	17
+[young#1 young#1=1.0, girl#2 girl#2=1.0]	18
+[potato#2 potato#1=1.0]	19
+[look#8 beautiful#5=0.5391007646231094]	20
+[People#0 People#0=1.0]	21
+[sleep#3 sleeping#3=1.0, kids#1 children#1=1.0]	22
+[singing#6 singing#3=1.0, young#1 man#1=0.5776566094549457, playing#4 singing#3=0.5452415097915023, man#2 man#1=1.0, and#5 together#4=0.5996914539289444]	23
+[worried#3 get#5=0.576088396511578, boy#4 girl#1=0.8148322890832362, there#0 get#5=0.663464337789336]	24
+[n't#3 trying#4=0.7269861757537539, cowboy#1 cowboy#3=1.0]	25
+[running#3 walking#3=0.5197205312996055, sand#6 sand#6=1.0, man#1 man#1=1.0, down#4 walking#3=0.5201421873245137]	26
+[skateboarder#1 skateboarder#1=1.0, does#2 makes#2=0.7288770479616832]	27
+[day#3 after#6=0.6203010328301529, that#2 laid#3=0.5126848542899464]	28
+[man#0 man#1=1.0, man#0 black#3=1.0, hair#4 hair#4=1.0]	29
+[got#2 falls#9=1.0, way#5 down#10=0.6809303959270004, hand#15 down#10=0.5731614748756259, person#1 black#1=1.0, taken#10 is#4=1.0, green#14 black#1=0.5817344901316841, person#1 woman#2=0.5618484627709845, got#2 tired#5=0.5567400032894335]	30
+[pool#6 pool#5=1.0, little#1 girl#1=0.5738833547512734, girl#2 girl#1=1.0]	31
+[off#4 big#12=0.5097043134395799, lake#9 beach#4=0.5347307227020752, off#4 hand#16=0.5098561900817798, jumps#3 jumping#6=1.0, black#1 girl#1=0.5117875111988314]	32
+[blonde#3 blond#3=1.0, boy#1 child#1=0.6284155848015159, hair#4 hair#4=1.0]	33
+[Two#0 Two#0=1.0, making#2 taking#7=1.0, strange#3 funny#4=0.5446370166464684, men#1 men#1=1.0, faces#4 faces#5=1.0, drink#7 alcohol#8=1.0, making#2 make#3=1.0]	34
+[people#3 people#3=1.0, picture#6 photo#6=1.0, inside#12 outside#10=0.749215657280497, two#2 two#2=1.0]	35
+[walks#1 walking#3=1.0]	36
+[surfing#3 surfer#1=0.6713603126670501, surfing#3 surfing#3=1.0, skateboarder#1 surfer#1=0.5652053664055513]	37
+[car#6 car#5=1.0, person#1 person#1=1.0, sits#2 sits#2=1.0, small#5 a#4=0.5332413091667187]	38
+[They#0 're#1=0.6651380722091383]	39
+[toy#5 stuffed#9=0.5400802676454898, a#3 one#6=0.7051319245341068, dogs#1 toy#3=1.0, toy#5 toy#3=1.0, dogs#1 animal#10=0.6222605930918088]	40
+[time#8 to#8=0.5623212406440654, men#2 someone#9=1.0, swimming#4 floating#2=1.0, swimming#4 pool#5=0.8195199878696088, men#2 person#1=1.0, couple#1 someone#9=0.5251079267155196, time#8 talking#7=0.5232718862863645]	41
+[holding#3 holds#2=1.0, front#9 front#6=1.0, child#1 person#1=1.0, face#12 person#1=1.0]	42
+[red#3 green#3=0.7822252378492547, grass#1 grass#1=1.0]	43
+[rock#1 rock#1=1.0, falling#4 jumping#4=0.5492160490734398, climber#2 climber#2=1.0, mountain#8 mountain#7=1.0]	44
+[Two#0 Two#0=1.0, looking#3 people#1=0.5176553581032448, boat#9 boat#4=1.0, water#6 water#7=1.0, people#1 people#1=1.0]	45
+[past#3 the#4=0.5411961845350899, boat#1 boat#1=1.0, sails#2 sails#2=1.0, shore#5 ocean#5=0.6692686865328515]	46
+[shirt#6 t-shirt#4=1.0, man#1 Man#0=1.0, man#1 black#3=1.0, white#5 Man#0=1.0, shirt#6 wearing#1=0.6518847920403412]	47
+[Dogs#0 dogs#1=1.0, playing#1 play#2=1.0, together#2 together#3=1.0]	48
+[riding#3 drives#2=1.0, man#1 man#1=1.0, bike#5 bicycle#4=1.0]	49
+[running#3 running#3=1.0, man#1 man#1=1.0, running#3 escape#8=1.0, people#6 angry#10=0.5093715440544361, people#6 people#11=1.0, away#4 from#9=0.5477654500239874]	50
+[people#1 people#2=1.0, around#4 around#3=1.0, room#10 table#5=0.5415994698718168, table#5 table#5=1.0]	51
+[blue#4 blue#13=1.0, blue#4 shirt#14=0.5518881655827074, outside#6 while#7=0.5635266711572795, girl#1 boys#2=0.6562654857379686, plays#5 playing#3=1.0, nice#9 little#1=0.6443357675489557, girl#1 man#10=0.5742589320087884]	52
+[dog#1 dog#1=1.0]	53
+[young#1 woman#1=0.6121973535284637, female#2 woman#1=1.0]	54
+[boy#2 child#6=0.6284155848015159, his#10 hand#8=0.5703569744129617, ball#8 basketball#3=1.0, young#1 child#6=0.5904139485281789, gets#6 runs#1=1.0]	55
+[people#3 group#1=1.0, group#1 group#1=1.0, birthday#7 birthday#5=1.0, celebrating#5 celebrating#3=1.0]	56
+[are#1 people#7=0.5935695488455277]	57
+[group#1 People#0=1.0, wait#4 waiting#2=1.0, people#3 People#0=1.0]	58
+[man#1 girl#1=0.5742589320087884, hospital#5 hospital#5=1.0]	59
+[pizza#6 pizza#4=1.0, delivered#9 delivered#7=1.0, waiting#3 be#6=0.5393846075873041, man#1 man#1=1.0, delivered#9 expects#2=1.0]	60
+[blue#6 yellow#3=0.8188348862311806, pink#3 yellow#3=0.7674585236978212, sails#7 boat#1=1.0, boat#1 boat#1=1.0, yellow#4 yellow#3=1.0]	61
+[man#1 man#1=1.0, surfboard#4 surfboard#4=1.0, holds#5 holds#2=1.0]	62
+[Two#0 Two#0=1.0, a#4 one#3=0.7051319245341068, sister#1 child#4=0.5047841216169435]	63
+[man#3 person#3=1.0, wearing#4 wearing#4=1.0, wearing#4 scarf#6=0.5585482273455855, clothes#5 wearing#4=1.0]	64
+[getting#3 out#3=0.6884731696467713, his#7 man#1=0.5807739545368008, face#8 man#1=0.5053029087292664, water#5 water#6=1.0]	65
+[music#3 music#4=1.0, concert#6 concert#5=1.0, people#1 're#1=0.5976284959302656]	66
+[jumping#3 jumping#3=1.0, man#1 man#1=1.0, man#1 man#6=1.0, was#2 another#5=0.5572005596847432]	67
+[dressed#2 clothes#6=1.0, bicycle#8 bicycle#10=1.0, man#1 man#1=1.0, riding#6 riding#8=1.0, dressed#2 dressed#2=1.0, race#11 riding#8=0.5006323147344905]	68
+[watching#6 watching#4=1.0, team#4 team#2=1.0, baseball#1 football#1=0.7168076698507635, baseball#1 baseball#5=1.0, player#2 football#1=0.5531755052540477]	69
+[blue#8 white#10=0.7843224809425516, blue#8 gold#14=0.5133172358084526, group#1 group#2=1.0, green#6 green#12=1.0]	70
+[sill#14 rock#10=1.0, man#1 person#2=1.0, grab#8 down#4=0.5403332835777959]	71
+[n't#3 trying#3=0.7269861757537539, n't#3 things#7=0.7205819424105386, sale#8 sell#5=1.0]	72
+[green#3 red#3=0.7822252378492547, grass#1 grass#1=1.0]	73
+[dead#3 dead#3=1.0, plants#1 plants#1=1.0]	74
+[Someone#0 person#1=1.0, night#6 night#4=1.0, bike#4 bikes#2=1.0, riding#2 bikes#2=0.6437662647126995]	75
+[gray#3 dark#6=0.6866967179708191, woman#1 woman#1=1.0, outside#5 out#3=0.5866070900753533]	76
+[lies#3 is#2=0.5110183102429442, sleeping#1 sleeping#3=1.0, bed#7 bed#5=1.0, child#2 child#1=1.0]	77
+[people#2 people#2=1.0, balcony#5 balcony#5=1.0]	78
+[walking#3 sitting#2=0.5850618644489868, building#12 building#9=1.0, man#1 man#1=1.0, front#8 front#5=1.0, is#2 alone#3=0.5599014628296353, colorful#11 colorful#8=1.0]	79
+[people#3 group#1=1.0, people#3 women#3=0.56388348528633, suits#6 suits#6=1.0, group#1 group#1=1.0, dresses#8 wearing#5=1.0]	80
+[Two#0 Two#0=1.0, people#1 people#1=1.0, cake#4 cake#5=1.0, cut#2 cut#3=1.0]	81
+[Child#0 Children#0=1.0, bicycle#1 cycling#3=0.6972289861781582]	82
+[doing#1 makes#3=0.5434139744591857]	83
+[people#6 making#3=0.5838291590740639, a#3 small#8=0.5332413091667187, people#6 group#11=1.0, holds#2 is#2=0.5007817654065916, child#1 children#9=1.0]	84
+[Laundry#0 Kitchen#0=0.5535836366997264, day#1 dinner#5=0.5195578317414491, day#1 tonight#6=0.5230621440802706]	85
+[conversing#3 talking#2=0.5056465382224082, weather#6 weather#5=1.0, people#1 People#0=1.0, about#4 talking#2=0.7222954886575585]	86
+[truck#8 truck#8=1.0, ice#6 ice#6=1.0, man#1 man#1=1.0, cream#7 cream#7=1.0, white#5 man#1=1.0, stands#2 is#2=1.0, stands#2 standing#3=0.6580931034449684]	87
+[fun#6 fun#4=1.0, men#1 guys#1=1.0]	88
+[mirror#8 mirror#8=1.0, Man#0 man#1=1.0, razor#5 razor#14=1.0, razor#5 blade#15=0.600243551091768, shaving#1 shaved#10=1.0]	89
+[is#3 now#3=0.5833109479774409, looking#4 now#3=0.5238204083584614, large#1 big#6=0.6614068555335535]	90
+[eating#3 sleeping#4=0.528274084549481, band#1 music#1=0.6144580551273048]	91
+[away#3 from#2=0.5477654500239874, ran#2 escape#1=1.0]	92
+[boy#2 boy#8=1.0, while#6 away#4=0.6290115988566898, little#1 little#1=1.0, getting#4 runs#3=1.0, dirty#5 little#1=0.5320707283789274, little#1 little#7=1.0, boy#2 girl#2=0.8148322890832362]	93
+[mother#5 her#12=0.6900042071336392, his#4 man#1=0.5807739545368008, child#1 baby#4=1.0, arms#7 hand#9=0.576239078913499]	94
+[water#6 water#6=1.0, swims#2 swimming#1=1.0, pool#5 pool#2=1.0]	95
+[Nobody#0 Everyone#0=0.6431555149555628]	96
+[Two#0 Two#0=1.0, horse#10 dogs#1=0.5504749479429036, running#4 back#18=0.5030215157352261, dogs#2 dogs#1=1.0, field#7 field#10=1.0, the#12 back#18=0.5444398693706973]	97
+[gathered#4 gathered#2=1.0, people#2 people#1=1.0]	98
+[]	99
+[delicious#4 restaurant#1=0.517491826064919, delicious#4 food#5=0.6102121377132707, will#2 not#3=0.6945223406567435, will#2 serve#4=0.5545267877778709]	100
+[ball#13 ball#15=1.0, another#15 a#5=0.790967454470122, player#3 player#2=1.0, ball#7 ball#15=1.0, towards#14 to#12=0.5284054245645766, caught#5 catch#13=1.0, now#10 as#4=0.6065207704089316, throwing#11 ball#15=0.5521569636943285, team#16 team#10=1.0, baseball#2 baseball#1=1.0, member#17 member#6=1.0]	101
+[cheers#2 cheers#8=1.0, shows#8 gives#2=0.5170054596302166, dance#11 concert#4=0.5220783755971825, crowd#1 crowd#7=1.0]	102
+[man#1 man#13=1.0, man#1 man#1=1.0, another#11 two#4=0.600796347672427, away#9 his#15=0.5648612501313661, man#12 man#1=1.0, next#2 two#4=0.5211492885439127, officer#6 man#1=1.0, another#11 a#8=0.790967454470122]	103
+[middle#5 middle#8=1.0, crowd#8 crowd#11=1.0, child#1 woman#1=0.5058089981205964]	104
+[Someone#0 person#1=1.0, Someone#0 someone#5=1.0, something#3 else#6=0.8224216825118194, something#3 looking#8=0.574129050049572, something#3 it#10=0.8419676338966066]	105
+[shirt#5 shirt#8=1.0, woman#1 woman#4=1.0, pink#4 black#7=0.6580102883462373, examines#6 looks#1=1.0]	106
+[doing#10 stop#15=0.5727834160046144, not#4 will#14=0.6945223406567435, not#4 will#5=0.6945223406567435, he#8 man#1=0.6831112162796765, what#7 get#6=0.6637246660280878, he#8 feels#2=0.5735731380518106, what#7 better#8=0.6968563987064036, what#7 idea#9=0.7585052776822, aware#5 that#3=0.621334486897811, lost#2 he#4=0.5532690614900493]	107
+[boy#1 child#1=0.6284155848015159, jump#2 down#5=0.5971911809798574]	108
+[take#14 moves#10=1.0, jumping#5 jumping#9=1.0, male#1 boys#1=1.0, people#13 public#5=1.0, take#14 sit#2=0.6048124883698757, while#12 watching#12=0.5599359366023213, hurdle#7 jumping#9=1.0, take#14 place#6=1.0, take#14 make#8=1.0]	109
+[resting#8 standing#9=0.5896662874558876, hand#13 hand#7=1.0, man#2 boy#1=1.0, writing#15 letter#4=1.0]	110
+[People#0 people#1=1.0, bench#6 sitting#3=0.5706752332639251, sitting#2 sitting#3=1.0]	111
+[large#1 huge#1=0.744606966027713, large#1 heavy#10=0.5144854750147764]	112
+[together#3 two#1=0.6127762254650293, Two#0 two#1=1.0, middle#6 middle#7=1.0, road#9 road#10=1.0]	113
+[Two#0 Two#0=1.0, using#3 using#3=1.0, dig#6 dig#7=1.0, men#1 men#1=1.0, shovels#4 shovels#5=1.0]	114
+[Several#0 Two#0=0.6057439131549304, standing#3 front#4=0.5739679629451492, people#1 people#1=1.0, front#5 front#4=1.0, stadium#8 crowd#7=0.5184042448256816]	115
+[sitting#3 rests#2=1.0, park#6 park#5=1.0, man#1 woman#1=0.7401744553971287]	116
+[man#3 man#1=1.0, bench#6 sitting#5=0.5706752332639251, woman#1 woman#4=1.0]	117
+[couple#1 Two#0=1.0, the#4 way#5=0.6390235795463641, walks#2 walk#3=1.0]	118
+[People#0 People#0=1.0, watch#4 watch#4=1.0, gathered#2 gathered#2=1.0]	119
+[pink#10 Purple#0=0.5300788571658122, girl#1 sister#1=1.0, girl#1 sister#3=1.0, girl#8 sister#1=1.0, girl#1 sister#6=1.0, purple#3 Purple#0=0.616420160943888]	120
+[person#2 person#1=1.0, person#2 face#5=1.0]	121
+[their#3 three#1=0.5635292658341857, children#4 girls#2=0.5014019572723292]	122
+[crying#3 boy#1=0.5112868655998075, girls#1 girl#4=1.0, boy#6 boy#1=1.0, them#8 hands#7=0.6029308478452977]	123
+[man#1 man#1=1.0, street#5 street#5=1.0]	124
+[ocean#5 ocean#9=1.0, ocean#5 Sea#13=1.0, the#4 middle#6=0.525979466941982, ocean#5 swimming#3=0.535712590952689]	125
+[People#0 people#1=1.0, interesting#3 something#6=0.6335026676580084, watching#1 watch#2=1.0, thing#4 man#4=0.5639892174214017, thing#4 something#6=0.8046225695666464]	126
+[People#0 People#0=1.0, inside#3 inside#3=1.0, sleeping#2 sleeping#2=1.0]	127
+[lot#3 people#1=0.6471491979296062, riding#6 bike#6=0.7101809533034644, bikes#7 bike#6=1.0, people#5 people#1=1.0]	128
+[lady#5 wife#10=0.6083072594114439, helping#3 help#7=1.0, man#1 young#1=0.5776566094549457, man#1 man#2=1.0, put#6 his#9=0.6171103838554034, goods#8 market#15=0.5189362812034732, her#7 wife#10=0.6567932353554344]	129
+[vest#6 vest#4=1.0, wearing#4 wearing#2=1.0, woman#1 man#1=0.7401744553971287, subway#10 subway#8=1.0]	130
+[ocean#6 ocean#5=1.0, swimming#3 ocean#5=0.535712590952689, sunny#9 sunny#8=1.0, boy#1 man#1=1.0, day#10 day#9=1.0]	131
+[watching#6 sitting#3=0.5841375392513284, man#1 man#1=1.0, watching#6 watching#8=1.0, TV#7 television#9=1.0]	132
+[Two#0 three#2=0.5778829976307939, children#1 children#3=1.0, bed#4 sleep#4=0.6090061979261419]	133
+[as#7 name#1=0.503762499965639, bar#1 beer#5=0.507222728103727, beers#5 beer#5=1.0, beers#5 bottle#6=0.5311080753205705]	134
+[something#3 something#3=1.0000000000000002, woman#1 man#1=0.7401744553971287, holds#2 holds#2=1.0]	135
+[play#2 game#6=1.0, cards#3 card#5=1.0, people#1 people#1=1.0, play#2 playing#3=1.0]	136
+[hillside#8 mountain#8=0.5692760705427933, hillside#8 side#5=1.0, bottom#5 side#5=1.0]	137
+[young#1 young#1=1.0, museum#6 museum#8=1.0, man#2 man#2=1.0, man#2 woman#4=0.7401744553971287]	138
+[jumps#3 dives#2=0.5166707465780058, pool#6 pool#5=1.0, teenage#1 girl#1=0.6914813033550986, boy#2 girl#1=0.8148322890832362]	139
+[Two#0 Two#0=1.0, working#6 looking#7=0.5353822279130717, men#1 men#1=1.0, something#8 talking#14=0.668701298408279, something#8 them#16=0.7018741328176009, doorway#5 standing#2=0.5483870210013764, sitting#2 standing#2=0.7735310578431914, men#1 woman#10=0.616518515055507, something#8 looking#7=0.574129050049572]	140
+[pray#3 church#4=0.5585138491798339, church#5 church#4=1.0]	141
+[surfing#3 surfing#2=1.0, Atlantic#6 ocean#4=0.5174454230862827, man#1 person#1=1.0, Ocean#7 ocean#4=1.0]	142
+[men#1 men#1=1.0, shoveled#2 shoveled#2=1.0]	143
+[riding#3 bike#4=0.7101809533034644, riding#3 rides#5=1.0, streets#9 street#8=1.0, man#1 guy#1=1.0]	144
+[were#3 two#1=0.5757008713688948, tile#8 tiled#9=1.0, floor#9 floor#10=1.0, mosaic#1 mosaic#3=1.0, workers#2 worker#4=1.0, to#5 work#5=0.5320790620099383]	145
+[man#3 man#3=1.0, shirt#6 shirt#7=1.0, wearing#4 wearing#4=1.0, wearing#4 blue#6=1.0]	146
+[Two#0 two#1=1.0, back#6 down#7=0.7542959532146304, police#1 police#3=1.0, towards#7 down#7=0.5380970670063703, officers#2 officers#4=1.0, turn#5 moving#6=1.0]	147
+[shop#9 store#5=1.0, shop#9 works#2=1.0]	148
+[ball#6 ball#6=1.0, big#1 little#1=0.6570358334990298, chasing#4 chasing#4=1.0, dog#2 dog#2=1.0]	149
+[holding#3 holds#2=1.0, man#1 man#1=1.0, man#1 woman#7=0.7401744553971287]	150
+[preparing#3 having#3=0.5037080685929234, to#4 time#6=0.5623212406440654, do#5 good#5=0.5819420508213]	151
+[man#1 piece#13=1.0, them#9 trying#9=0.6598452529041742, man#1 man#2=1.0, waiting#7 trying#9=0.5687893384684996]	152
+[wearing#2 wearing#6=1.0, shirt#5 shirt#9=1.0, wearing#2 blue#8=1.0, man#1 guy#1=1.0, pink#4 blue#8=0.8075139085045648]	153
+[Two#0 Two#0=1.0, ball#6 ball#4=1.0, one#3 a#3=0.7051319245341068, dogs#1 dogs#1=1.0]	154
+[woman#2 woman#1=1.0, man#8 boy#4=1.0]	155
+[kids#1 Children#0=1.0, listen#4 listen#4=1.0, story#10 story#7=1.0, sit#2 sit#1=1.0, read#8 story#7=0.5737711944616846]	156
+[guy#1 man#1=1.0, wires#9 wires#10=1.0, white#4 white#4=1.0, holding#7 holding#7=1.0, shirt#5 shirt#5=1.0]	157
+[woman#9 man#4=0.7401744553971287, man#3 black#3=1.0, man#3 man#4=1.0, man#3 black#7=1.0, beret#6 hat#8=0.5840247870609927, pink#12 black#3=0.6580102883462373]	158
+[group#1 People#0=1.0, people#3 People#0=1.0]	159
+[sitting#2 sitting#7=1.0, baby#11 baby#11=1.0, laying#12 sitting#7=1.0, holding#6 sitting#7=0.6093208354671891, woman#1 woman#5=1.0, next#13 next#13=1.0000000000000002]	160
+[walking#3 sitting#3=0.5850618644489868, dogs#1 dogs#1=1.0]	161
+[boys#2 girls#2=0.8500703282813561]	162
+[cheer#7 parade#2=0.5290475106111493, group#1 group#5=1.0, cheer#7 cheerleaders#10=0.5851860672229016]	163
+[male#3 young#1=0.5401503056069218, outside#8 the#8=0.5148145422268652, cheerleaders#6 friends#4=1.0, cheering#9 cheering#6=1.0, football#12 football#9=1.0, group#1 group#2=1.0, female#5 young#1=0.5762113899858482, team#13 team#10=1.0]	164
+[telephone#5 phone#10=1.0, communications#6 mobile#9=0.5112731503655344, telephone#5 e-mail#5=0.5380668294698746]	165
+[flying#2 landing#4=0.6358888344245741]	166
+[dog#6 dog#2=1.0, brown#5 brown#12=1.0, running#7 running#3=1.0, white#1 black#1=0.8584572861570449, dog#2 dog#13=1.0, grassy#10 grassy#6=1.0000000000000002, dog#2 dog#2=1.0, field#11 field#7=1.0, white#1 white#10=1.0]	167
+[game#5 game#11=1.0, man#1 young#1=0.5776566094549457, playing#3 playing#8=1.0, man#1 boy#2=1.0, is#2 makes#3=0.6477546064899927]	168
+[job#6 trying#3=0.5083702379810158, man#1 man#1=1.0, repair#4 repair#5=1.0, attempts#2 trying#3=1.0]	169
+[wear#7 wearing#2=1.0, wear#7 black#4=1.0, wear#7 wearing#7=1.0, bit#5 a#3=0.5145583573312376]	170
+[Man#0 man#1=1.0, bicycle#3 rides#3=0.5289627859164633, York#6 York#6=1.0, riding#1 rides#3=1.0, New#5 New#5=1.0]	171
+[hat#5 hat#7=1.0, the#15 toward#11=0.5061916911996373, man#1 man#2=1.0, up#13 holding#9=0.5537385138849803, up#13 something#10=0.6374833414056014, hat#5 jacket#5=0.5597557609063544, man#9 man#2=1.0]	172
+[dances#7 dancing#2=1.0, ground#5 floor#5=1.0]	173
+[front#9 front#5=1.0, man#1 girl#3=0.5742589320087884, man#1 man#8=1.0]	174
+[bicycles#10 motorcycles#7=0.6878326721439468, a#5 small#6=0.5332413091667187]	175
+[are#1 people#1=0.5935695488455277, hiking#2 walking#2=1.0]	176
+[shirt#6 shirt#5=1.0, busy#12 waiting#7=0.613953306873605, busy#12 crowded#11=0.5765207411682592, cross#10 cross#9=1.0, lady#2 man#1=0.5933055927328453, blue#5 blue#4=1.0, street#13 street#12=1.0, waiting#8 waiting#7=1.0]	177
+[raft#6 raft#6=1.0, people#1 people#3=1.0, inflatable#5 raft#6=0.555873290187014]	178
+[with#3 two#1=0.6025819170146874, new#5 their#7=0.5034150623539276]	179
+[sitting#3 sitting#3=1.0, playing#8 playing#11=1.0, poker#9 casino#6=0.8137539088046953, man#1 woman#1=0.7401744553971287, table#6 desk#9=1.0]	180
+[fake#8 fake#9=1.0, alligator#9 crocodile#10=0.7848823821683824, young#1 kid#3=0.5902307559030799, brushes#3 tail#12=1.0, boy#2 kid#3=0.7802853502728481]	181
+[walking#4 walking#3=1.0, building#7 building#6=1.0, woman#2 woman#1=1.0]	182
+[boy#0 boy#1=1.0, scouts#1 boy#1=1.0, game#4 playing#3=1.0, game#4 baseball#4=0.5191966718304032, play#2 playing#3=1.0]	183
+[old#1 old#1=1.0, thinking#4 something#5=0.7279082478426874, man#2 man#2=1.0, hard#5 something#5=0.5711989316041569]	184
+[three#0 Three#0=1.0, posing#3 posing#2=1.0, photo#6 photo#4=1.0, sports#1 athletes#1=1.0]	185
+[parked#3 parked#1=1.0, vehicle#1 car#3=0.7667538432108426]	186
+[rabbits#3 dogs#3=0.6484545438415606, group#1 group#1=1.0, carrots#5 lettuce#4=0.7357833344103597]	187
+[of#7 whole#1=0.5167609358441267, group#1 group#2=1.0, people#9 group#2=1.0]	188
+[race#8 race#11=1.0, the#7 two#1=0.5565364728648968, the#7 end#7=0.6031387484009115, line#1 end#7=0.5203884260373914]	189
+[swimming#9 swimming#3=1.0, person#3 man#1=1.0, swimming#9 pool#8=0.8195199878696088, is#1 alone#4=0.5599014628296353]	190
+[throwing#2 shouting#7=0.5113029448327401, boy#1 boy#1=1.0, baseball#5 baseball#4=1.0, baseball#5 bat#5=0.5076079809820733]	191
+[Two#0 Three#0=0.9259245344602417, playing#3 fun#4=1.0, men#1 guys#1=1.0, pool#4 pool#7=1.0]	192
+[holding#3 holding#3=1.0, child#1 child#1=1.0]	193
+[wearing#3 wearing#3=1.0, blue#5 green#10=0.7640827837930904, shirt#6 shirt#6=1.0, young#1 young#1=1.0, white#10 blue#5=0.7843224809425516, building#11 home#18=0.5029351486820242, background#14 blue#5=0.5054714009593981, man#2 woman#2=0.7401744553971287, the#13 next#12=0.6153404435009087, blue#5 blue#5=1.0]	194
+[tend#1 expect#1=0.6229189552154011, stop#5 to#4=0.5474867865598674, to#2 come#5=0.5997564597058883]	195
+[boy#1 child#1=0.6284155848015159, tree#5 tree#4=1.0]	196
+[reading#3 reading#3=1.0, man#1 woman#1=0.7401744553971287, news#5 newspaper#5=0.5290239132420291]	197
+[all#1 together#14=0.5698067567030108, all#1 every#15=0.6568689037629216, all#1 three#1=0.5669791379280745, night#2 day#16=0.7043109725842718, all#1 best#7=0.5403070221940293, all#1 friends#8=0.506656314485143]	198
+[Women#0 women#1=1.0, sewing#3 clothes#4=0.5049075293838826, factory#4 factory#7=1.0]	199
+[waiting#3 expecting#2=0.6144800359625436, show#6 show#5=1.0, begin#8 are#1=1.0]	200
+[front#9 front#4=1.0, standing#3 stands#2=0.6580931034449684, man#1 man#1=1.0]	201
+[woman#1 boy#1=0.6259683618294782, sunset#6 beach#9=0.605962681661782, beach#4 beach#9=1.0, air#11 air#6=1.0]	202
+[]	203
+[part#7 the#3=0.6546617065682859, old#1 boy#4=0.559386615907904, man#2 man#1=1.0, man#2 boy#4=1.0]	204
+[waiting#5 next#14=0.6610938875516201, brick#14 brick#2=1.0, front#11 door#17=0.6355778460598319, People#0 people#10=1.0, stop#9 to#15=0.5474867865598674, building#15 building#3=1.0]	205
+[wearing#3 wearing#2=1.0, wearing#3 shorts#3=0.5959713421351488, are#2 're#1=0.6504173794018459]	206
+[men#3 boys#2=1.0, couple#1 few#1=0.8165259359106244]	207
+[really#3 looking#2=0.6305590784848493, really#3 something#4=0.8032539063008627, people#1 People#0=1.0]	208
+[sleeping#3 resting#4=1.0, man#1 man#1=1.0]	209
+[train#1 Train#0=1.0, tracks#2 rail#1=1.0]	210
+[leather#9 jacket#5=0.5768712794529822, shirt#6 jeans#7=0.7389228254535285, pants#10 jacket#5=0.7470115742225862, black#8 man#1=1.0, pants#10 jeans#7=0.8392808812514378, blond#1 black#4=0.5141938526478583, black#8 wearing#2=1.0, running#16 up#10=0.5483839114272394, woman#2 man#1=0.7401744553971287, black#8 black#4=1.0, pink#5 black#4=0.6580102883462373]	211
+[baby#1 child#11=1.0, all#3 two#1=0.5919046617561368, their#5 hands#13=0.5180624751824712, baby#1 children#2=1.0, father#6 child#11=0.5864646192877585, their#5 bring#3=0.6653703371482713, over#4 another#10=0.5680954853859129, their#5 hands#5=0.5180624751824712, their#5 together#6=0.5736463345171421]	212
+[night#12 after#5=0.5735132237980327, green#3 green#9=1.0, along#5 off#15=0.5909181660089141, green#3 green#12=1.0]	213
+[kids#1 Children#0=1.0, cleaning#2 cleaning#2=1.0]	214
+[little#1 little#1=1.0, playing#4 plays#3=1.0, girl#2 girl#2=1.0]	215
+[boys#3 boy#1=1.0, performing#5 playing#3=1.0]	216
+[People#0 People#0=1.0, day#8 day#8=1.0, walk#1 walking#1=1.0, street#4 street#4=1.0, sunny#7 sunny#7=1.0]	217
+[Workers#0 Workers#0=1.0, job#5 jobs#8=1.0]	218
+[boy#3 man#1=1.0, night#10 watching#6=0.5461527043937938, young#1 woman#4=0.6121973535284637, waving#5 woman#4=1.0]	219
+[man#1 man#1=1.0, suit#4 suit#5=1.0, stoplight#7 light#10=1.0]	220
+[practicing#3 practicing#3=1.0, musicians#1 musicians#1=1.0, room#7 room#7=1.0]	221
+[young#1 kid#1=0.5902307559030799, as#10 time#6=0.5933860398136263, boy#2 kid#1=0.7802853502728481, the#8 first#5=0.6602700699670384, girl#9 kid#1=0.6604818502310194]	222
+[sitting#3 are#1=1.0, Two#0 three#2=0.5778829976307939, sitting#3 walking#4=0.5850618644489868, outdoors#4 outside#5=1.0]	223
+[gallery#2 gallery#7=1.0, being#4 man#1=0.5271921408800448, art#1 painting#3=1.0, art#1 art#6=1.0]	224
+[grabbed#6 got#2=0.6126431587601537, automobiles#4 cars#1=1.0, accident#1 accident#5=1.0, two#3 Two#0=1.0]	225
+[red#3 white#3=0.7646868410248393]	226
+[boy#1 child#1=0.6284155848015159, chased#4 chased#3=1.0, toy#7 dog#6=1.0, dog#11 dog#6=1.0]	227
+[his#7 man#1=0.5807739545368008]	228
+[cute#5 lovely#7=0.6707207239030889, child#6 child#8=1.0, person#1 man#1=1.0, person#1 woman#4=0.5618484627709845]	229
+[Two#0 Two#0=1.0, people#1 kids#1=0.5680747551320536, statue#7 statue#4=1.0]	230
+[People#0 People#0=1.0, together#3 together#4=1.0, making#1 make#2=1.0, music#2 music#3=1.0]	231
+[takes#2 taking#6=1.0, four#9 two#3=0.9211897399018654, parents#13 mother#1=1.0, family#6 family#7=1.0, children#10 children#4=1.0, pictures#3 photos#8=1.0, two#12 two#3=1.0]	232
+[volunteer#3 men#1=1.0, men#1 men#1=1.0, work#4 work#2=1.0]	233
+[man#1 guy#1=1.0]	234
+[beach#6 beach#6=1.0, relaxing#3 beach#6=0.5229084265220832, boy#1 boy#1=1.0]	235
+[people#3 people#3=1.0, group#1 group#1=1.0, rock#9 music#9=0.5897585680569075, see#7 watch#4=1.0, concert#10 performance#6=1.0, concert#10 music#9=0.6326183328266186, group#1 group#10=1.0]	236
+[break#3 break#4=1.0, taking#1 giving#2=0.6901051308205428]	237
+[taking#3 long#5=0.5479163217108147, runner#2 athlete#1=1.0, first#5 a#4=0.6076676089367642, competition#9 competes#2=0.5781718433185955]	238
+[boy#1 man#4=1.0, black#6 someone#11=1.0, wearing#3 wearing#12=1.0, black#6 red#13=0.7397857930760628, black#6 black#1=1.0, outfit#7 wearing#12=0.6134716901873541]	239
+[wearing#3 wears#2=1.0, wearing#3 hat#5=0.5693004225243938, woman#1 girl#1=1.0]	240
+[construction#1 sign#12=1.0, workers#2 workers#2=1.0, construction#1 built#7=0.5339841928261227, construction#1 building#8=1.0, through#4 behind#9=0.5335000604856969]	241
+[lady#0 young#1=0.5495741114441561, sitting#3 couch#6=0.6873983445051111, sweats#8 pajamas#2=0.5414711565469398, man#2 young#1=0.5776566094549457, couch#5 sleeping#3=0.6564497928785469, couch#5 couch#6=1.0]	242
+[climber#2 climbing#7=0.6879221628836074, helmet#6 helmet#5=1.0, white#5 person#1=1.0, white#5 white#4=1.0, rock#1 rock#10=1.0]	243
+[People#0 people#1=1.0, across#3 the#5=0.514286177703976, strolling#1 walk#2=1.0]	244
+[white#12 red#4=0.7646868410248393, woman#10 woman#15=1.0, man#1 white#13=1.0, colored#5 blue#9=0.6792984207233713, woman#10 woman#1=1.0, clothing#13 shirt#5=0.631831312725343, white#12 white#13=1.0, khaki#4 shirt#5=0.5739409413321684, clothing#13 blue#9=1.0, clothing#13 shirt#14=0.631831312725343]	245
+[coach#1 coach#1=1.0, player#5 players#5=1.0]	246
+[Six#0 Three#0=0.8267588776771324, bright#6 yellow#4=0.6452060547615905, black#3 yellow#4=0.6562998352936013, smile#9 smiling#7=1.0, women#1 women#1=1.0, camera#12 camera#10=1.0, red#7 yellow#4=0.8315849932055169, jackets#4 shirt#5=0.586355675468693, wearing#2 shirt#5=0.6518847920403412]	247
+[team#6 teams#3=1.0, field#9 field#6=1.0, each#5 two#2=0.6247335846672141]	248
+[poses#3 is#1=1.0, photo#6 photos#5=1.0, family#2 family#3=1.0]	249
+[girl#1 woman#1=1.0, machine#5 machine#5=1.0]	250
+[brown#1 brown#1=1.0, wading#4 walking#3=1.0, dog#2 dog#2=1.0]	251
+[riding#3 cycling#3=0.5912748452120145, day#9 day#7=1.0, person#1 man#1=1.0, bike#5 cycling#3=0.6900095248413606, sunny#8 sunny#6=1.0]	252
+[wearing#3 hat#5=0.5693004225243938, young#1 young#1=1.0, man#2 man#2=1.0]	253
+[brown#1 black#3=0.7308037212669334, splashing#7 spraying#5=0.500715230879818, dog#2 dog#4=1.0, water#5 water#6=1.0]	254
+[sitting#3 sitting#3=1.0, park#6 park#6=1.0]	255
+[competition#4 competition#5=1.0]	256
+[climbing#3 climbing#3=1.0, mountain#5 mountain#5=1.0]	257
+[beach#6 beach#6=1.0, girl#1 girl#1=1.0]	258
+[the#9 across#5=0.514286177703976, black#1 white#1=0.8584572861570449, running#4 walking#4=0.5197205312996055, water#7 water#7=1.0, dog#2 dog#2=1.0, shore#10 shore#10=1.0]	259
+[two#3 two#1=1.0, women#4 men#2=0.8250945109256178, two#3 two#11=1.0, wearing#5 wearing#3=1.0, wearing#5 sunglasses#4=0.5346124659886832, two#3 two#15=1.0]	260
+[swing#9 swing#9=1.0, young#1 boy#1=0.6847678808549711, young#1 girl#4=0.6640096329734431, playground#6 park#12=0.6086778746344403, child#2 boy#1=0.6284155848015159]	261
+[child#6 children#1=1.0]	262
+[picture#6 showing#3=1.0, showing#3 showing#3=1.0, man#1 man#1=1.0]	263
+[ramp#8 ramp#9=1.0, skater#2 skate#5=0.6799282967659578]	264
+[Brothers#0 brothers#1=0.5830005808998108, playing#1 playing#3=1.0, outside#2 outside#4=1.0]	265
+[crowd#5 crowd#5=1.0]	266
+[watching#2 catch#11=0.5479803138392221, man#1 man#1=1.0, ball#4 ball#4=1.0, air#7 air#7=1.0]	267
+[person#4 person#3=1.0, next#5 next#4=1.0000000000000002, tree#8 tree#7=1.0]	268
+[wrestling#6 wrestling#5=1.0, man#1 man#1=1.0, match#7 tournament#6=0.5865433171020548, sumo#5 wrestling#5=1.0]	269
+[go#6 are#2=1.0, People#0 people#1=1.0, about#7 talking#3=0.7222954886575585]	270
+[painting#6 canvas#4=0.6516852859733161, tools#7 using#3=0.5329728624110117]	271
+[buy#5 sell#7=0.789999510082174, going#3 are#2=1.0, going#3 work#5=1.0, people#1 people#1=1.0, buy#5 are#2=1.0]	272
+[playing#6 plays#5=1.0, man#1 man#1=1.0, long#4 long#3=1.0, beard#5 hair#4=1.0, guitar#8 guitar#7=1.0]	273
+[woman#1 woman#1=1.0, trolley#5 bus#5=0.5270791578981947]	274
+[the#0 inside#5=0.5408750306588767, boy#1 child#1=0.6284155848015159, holds#2 keeps#2=1.0]	275
+[street#4 street#5=1.0, down#2 fell#2=0.6628297489446563]	276
+[women#3 women#2=1.0, beach#8 beach#9=1.0, men#1 women#2=0.8250945109256178, jumping#4 jumping#4=1.0, up#5 two#1=0.5803209006956811]	277
+[man#1 man#1=1.0, changing#3 when#7=0.5636942701056064, around#4 down#11=0.6790528217991528]	278
+[Two#0 Two#0=1.0, play#3 playing#3=1.0, ball#6 ball#5=1.0, dogs#1 dogs#1=1.0]	279
+[game#6 game#4=1.0, are#2 two#1=0.5490813481269456]	280
+[man#1 woman#1=0.7401744553971287, man#1 man#7=1.0, object#5 object#4=1.0]	281
+[sidewalk#12 walks#5=1.0, walks#9 walks#5=1.0, man#1 man#1=1.0, suit#4 suit#4=1.0, down#10 away#6=0.7179123708282164, down#10 long#9=0.5463130623134523]	282
+[men#1 young#1=0.5498342744302754, men#1 men#2=1.0, fight#10 wrestle#6=0.5187859416076075, wearing#2 wearing#3=1.0]	283
+[his#6 father#7=0.6911708043214941]	284
+[green#8 green#8=1.0, tan#3 brown#3=0.6307197523575863, grass#9 grass#9=1.0, brown#1 white#1=0.7169608640534568, brown#1 brown#3=1.0, dog#4 dog#4=1.0]	285
+[taking#3 is#1=1.0, dance#7 dancing#2=1.0, festival#8 festival#5=1.0]	286
+[love#3 love#2=1.0, two#1 couple#1=1.0]	287
+[woman#1 girl#1=1.0, street#4 walking#3=0.5452502836281159, street#4 street#6=1.0]	288
+[they#7 together#4=0.6184454312082313, want#8 are#1=1.0, two#1 together#4=0.6127762254650293, want#8 close#3=0.5009405599088508]	289
+[against#4 action#5=0.5017567055878539]	290
+[posing#3 poses#2=1.0, cameras#6 camera#4=1.0, model#1 model#1=1.0]	291
+[man#1 boy#1=1.0]	292
+[supermarket#2 shop#8=0.5716670767581407, buying#6 sell#10=0.7728959566355416, people#4 many#6=0.7057698506920613, people#4 people#7=1.0, groceries#8 market#4=1.0, supermarket#2 market#4=1.0]	293
+[two#0 Four#0=0.5499489667584003, dressed#3 dressed#2=1.0, men#1 men#1=1.0]	294
+[cowboy#1 Cowboy#0=1.0, horse#4 horse#3=1.0, riding#2 riding#1=1.0]	295
+[worker#1 worker#1=1.0, work#7 making#3=0.5302810697925767, artist#5 sculpture#5=0.5547291400717607]	296
+[artist#1 Artist#0=0.6881592550961633]	297
+[Three#0 Three#0=1.0, fountain#8 fountain#8=1.0, white#3 white#3=1.0, toward#6 towards#6=0.8749689138052004, girls#1 girls#1=1.0, dresses#4 dresses#4=1.0, run#5 running#5=1.0]	298
+[a#3 making#3=0.517752764694965, woman#1 woman#1=1.0, pie#4 pie#5=1.0]	299
+[listen#3 sit#1=0.5341769688134332, listen#3 listen#5=1.0, teacher#6 teachers#8=1.0, children#2 Children#0=1.0]	300
+[ocean#8 shore#8=0.6692686865328515, boat#15 shore#8=0.6552448489148454, man#1 man#1=1.0, distance#5 walking#2=0.5543439700790381, ocean#8 water#5=1.0]	301
+[run#1 running#3=1.0]	302
+[protesting#3 protesting#3=1.0, man#1 man#1=1.0, something#4 is#2=0.6121733989187242]	303
+[dog#3 dog#2=1.0, black#2 black#1=1.0, jumping#5 jumps#3=1.0, pond#11 pond#7=1.0]	304
+[group#1 People#0=1.0, house#14 basement#4=0.6258467129273384, cellar#8 basement#4=1.0, people#3 People#0=1.0]	305
+[dish#8 dessert#8=0.6441266851280707, young#1 man#1=0.5776566094549457, holding#4 standing#3=0.6832099216657477, holding#4 holding#5=1.0, man#2 man#1=1.0, casserole#7 dessert#8=0.538839383387404]	306
+[down#3 reaching#2=0.5279320479938521]	307
+[people#3 people#3=1.0, group#1 group#1=1.0, standing#4 standing#4=1.0, coffee#10 kitchen#7=0.5042707168647015, table#11 kitchen#7=0.5101927126982464]	308
+[looks#7 looks#2=1.0, man#1 man#1=1.0, telescope#10 telescope#8=1.0]	309
+[leather#6 leather#5=1.0, wearing#4 wearing#3=1.0, jacket#7 jacket#6=1.0, woman#2 man#1=0.7401744553971287]	310
+[bored#3 afraid#2=0.5217876578648796, people#1 People#0=1.0, people#1 afraid#2=0.5952976366394708]	311
+[man#1 guy#1=1.0, bed#4 bed#5=1.0, asleep#5 sleeping#3=0.7586433587231968]	312
+[side#7 front#13=1.0, gray#10 gray#3=1.0, man#1 man#1=1.0, gray#10 coat#4=0.5583204283317, drawing#3 running#8=1.0, wall#11 stone#16=0.5534037516808942, wall#11 wall#17=1.0, gray#10 blue#6=0.7588222113539241]	313
+[his#5 man#1=0.5807739545368008, his#5 hand#3=0.5703569744129617]	314
+[dog#1 dog#1=1.0, dog#1 dog#5=1.0, bites#2 bites#2=1.0]	315
+[plane#5 flying#7=0.7130163633351421, plane#5 pilot#4=0.5327648129737328]	316
+[today#6 here#7=0.614336398314185, one#1 one#4=1.0, one#1 person#5=0.628924949107181]	317
+[Two#0 two#2=1.0, male#9 woman#6=0.5945904500673581, dogs#14 dogs#3=1.0, female#1 woman#6=1.0, dogs#5 dogs#3=1.0]	318
+[black#3 man#1=1.0, man#1 man#1=1.0, black#3 red#7=0.7397857930760628, two#11 with#2=0.6025819170146874, holding#10 standing#10=0.6832099216657477, shirt#4 hat#8=0.622216389302801, eyes#8 hair#4=0.5583176861623893, wearing#2 gray#3=1.0]	319
+[carrying#3 carries#2=1.0, woman#1 mother#1=0.6826747486842907, daughter#5 mother#1=0.8572745826892825, daughter#5 child#4=0.6496784312806066]	320
+[audience#5 audience#1=1.0, making#4 people#6=0.5838291590740639, audience#5 people#6=1.0]	321
+[side#4 beside#14=0.5097972110907469, about#9 around#6=0.6280419874112239, things#11 them#15=0.7109882774704529, couple#1 few#3=0.8165259359106244, road#7 walking#5=0.5394118040794932, things#11 people#4=0.6734748007634634, talking#8 people#4=0.6145237632486494]	322
+[sitting#7 sitting#2=1.0, behind#4 front#4=0.6374999706262819, white#1 white#7=1.0, people#6 People#0=1.0]	323
+[One#0 The#0=0.5509067722600677, running#3 walking#3=0.5197205312996055, house#6 house#7=1.0, man#1 man#1=1.0]	324
+[smiles#3 smile#6=1.0, young#1 young#1=1.0, camera#6 camera#9=1.0, girl#2 girl#2=1.0, girl#2 woman#5=1.0]	325
+[people#3 people#3=1.0, group#1 group#1=1.0, outside#7 outside#5=1.0, standing#5 standing#4=1.0, together#6 group#1=0.5015378505906062]	326
+[white#6 white#2=1.0, Someone#0 black#17=1.0, red#3 white#2=0.7646868410248393, Someone#0 white#2=1.0, past#9 over#5=0.6837694016865001, past#9 behind#9=0.6082196082904906, white#6 white#15=1.0]	327
+[wall#7 front#5=0.5201719701680197, tent#4 tent#9=1.0]	328
+[hole#4 hole#7=1.0, burrow#1 hole#7=1.0]	329
+[face#6 man#2=0.5053029087292664, young#1 man#2=0.5776566094549457, boy#2 old#1=0.559386615907904, boy#2 man#2=1.0, the#9 make#16=0.536480400160228, plays#7 using#12=1.0, painted#5 white#6=0.5139610572731731]	330
+[wearing#6 hat#4=0.5693004225243938, rides#9 bikes#5=0.5629964358052975, person#1 Someone#0=1.0, bike#4 bikes#5=1.0, helmet#8 wearing#1=0.5267831946568329, wearing#6 wearing#1=1.0]	331
+[walking#3 walking#3=1.0, walking#3 around#4=0.5340559095481643, person#1 man#1=1.0, cat#5 man#1=1.0, cat#5 dog#6=0.801685509132995]	332
+[riding#3 bicycles#3=0.5423358497115629, to#4 go#4=0.6953147737120884, bicyclists#1 bicycles#3=0.5584264377095599, store#7 store#8=1.0]	333
+[man#2 woman#6=0.7401744553971287, wearing#8 wearing#9=1.0, wearing#8 clothes#11=1.0, jackets#9 clothes#11=0.618880068992716, man#2 man#1=1.0, older#1 both#8=0.5182855419882132, man#6 man#1=1.0]	334
+[asleep#3 sleep#1=0.7952773195195865, asleep#3 couch#4=0.6516785263748937]	335
+[beach#4 beach#5=1.0, animals#6 animals#1=1.0]	336
+[sleeping#3 sleeping#2=1.0, park#6 park#5=1.0, people#2 People#0=1.0]	337
+[guy#1 man#1=1.0, get#5 trying#3=0.7259731710162965, get#5 reach#5=1.0, car#8 car#7=1.0]	338
+[Three#0 Three#0=1.0, men#1 men#1=1.0]	339
+[catch#8 catch#8=1.0, green#3 green#4=1.0, jumping#6 leaps#6=1.0, man#1 person#1=1.0, shoes#4 shoe#5=1.0, frisbee#10 frisbee#10=1.0]	340
+[Two#0 three#2=0.5778829976307939, wearing#3 wearing#4=1.0, people#1 people#3=1.0, shirts#4 shirts#5=1.0]	341
+[man#3 man#1=1.0, woman#1 young#11=0.6121973535284637, woman#1 woman#12=1.0, while#6 standing#3=0.5603069089209851, talking#5 looking#8=0.5190458276608818, woman#8 woman#12=1.0, while#6 hands#6=0.5686235081654455, another#7 a#10=0.790967454470122]	342
+[climbing#3 climbing#3=1.0]	343
+[day#6 back#4=0.518023367400834, guy#1 man#1=1.0, the#8 back#4=0.5444398693706973, pretty#5 back#4=0.5039824963546549, running#2 back#4=0.5030215157352261]	344
+[riding#2 jumping#6=0.5826052779267494, riding#2 race#9=0.5006323147344905, rodeo#7 horse#1=0.5080106760207485, horse#4 horse#1=1.0, riding#2 rider#4=0.6632668228879519]	345
+[turn#9 into#4=0.632430198684745, pool#3 pool#6=1.0, man#1 man#1=1.0, while#4 back#3=0.6093788974962807, another#5 the#5=0.6330330548142379]	346
+[holding#3 holding#3=1.0, man#1 woman#1=0.7401744553971287, books#4 book#5=1.0]	347
+[shirt#5 shirt#7=1.0, hat#9 shirt#7=0.622216389302801, man#1 man#1=1.0, blue#7 wearing#3=1.0, blue#7 dark#5=0.645228616502086, blue#7 red#6=0.8438411305430992, orange#4 red#6=0.7865348274203885, wearing#2 wearing#3=1.0]	348
+[table#8 table#8=1.0, young#1 old#1=0.5337057726202844, woman#4 woman#4=1.0, young#1 woman#4=0.6121973535284637, dining#7 dinner#7=0.6407195790998365, man#2 man#2=1.0]	349
+[mother#1 woman#1=0.6826747486842907, child#5 woman#1=0.5058089981205964]	350
+[shirt#5 shirts#7=1.0, her#17 father#15=0.5939457554397181, gray#4 wearing#2=1.0, girl#1 boy#1=0.8148322890832362, brown#7 black#3=0.7308037212669334, brown#7 gray#6=0.7405126305314321, gray#4 gray#6=1.0, around#16 up#12=0.7134957719682843, as#13 set#11=0.5082163936418969, shirt#5 trousers#4=0.6911954442610172]	351
+[two#0 two#3=1.0, people#1 people#1=1.0, people#1 people#4=1.0, wrestle#2 wrestling#5=1.0]	352
+[]	353
+[item#1 piece#3=1.0, paper#5 paper#5=1.0]	354
+[sitting#3 sitting#3=1.0, men#1 men#1=1.0]	355
+[pink#8 red#9=0.7830261211115367, a#0 little#1=0.5666324907505297, large#1 little#1=0.50386782082893, white#2 brown#2=0.7169608640534568, along#5 and#3=0.5973287820817678, white#2 white#4=1.0]	356
+[Two#0 two#1=1.0, women#1 women#2=1.0, getting#5 sitting#4=0.5253493569626241, bus#8 bus#7=1.0]	357
+[leg#5 legs#3=1.0]	358
+[People#0 People#0=1.0, sit#1 waiting#1=0.6215835384737205, goes#7 stop#5=1.0, subway#4 bus#4=0.5747273841188955, train#5 bus#4=0.6478865439708517]	359
+[]	360
+[climbs#2 mountain#6=0.5284328597718544, rocks#3 rocky#5=0.6425295593764827, person#1 man#1=1.0, climbs#2 climbs#2=1.0]	361
+[friends#3 friends#3=1.0, group#1 group#1=1.0, together#4 together#4=1.0]	362
+[tv#4 television#3=1.0, watch#2 watched#2=1.0]	363
+[waiting#3 waiting#2=1.0, game#6 game#5=1.0, guys#1 're#1=0.6218988051143005, are#2 're#1=0.6504173794018459, begin#8 start#7=1.0]	364
+[wearing#3 wearing#4=1.0, player#1 player#2=1.0, uniform#5 uniform#6=1.0]	365
+[Three#0 Three#0=1.0, dresses#3 wearing#2=1.0, stand#4 stand#4=1.0, wearing#2 wearing#2=1.0, wearing#2 clothes#3=1.0, outside#5 outside#5=1.0]	366
+[woman#1 man#1=0.7401744553971287]	367
+[woman#1 woman#1=1.0, tent#7 tent#11=1.0]	368
+[jumping#3 jumping#3=1.0, jumping#3 trampoline#6=0.5434367011055349, boy#1 man#1=1.0]	369
+[a#5 someone#8=0.5443149061193658, woman#3 men#4=0.616518515055507, women#10 men#4=0.8250945109256178, among#7 few#3=0.5126204588756499, area#13 there#6=0.5204225132768974, camera#6 camera#11=1.0, several#8 few#3=0.8361275379662253]	370
+[being#3 anything#6=0.5700496282722708, men#1 men#2=1.0, given#4 say#5=1.0, are#2 two#1=0.5490813481269456]	371
+[leaves#11 leaves#9=1.0, pile#9 piles#6=1.0, boy#1 boy#1=1.0, red#4 red#4=1.0, sweatshirt#5 sweater#5=0.7127333905216255, raking#7 rake#12=1.0, wearing#2 sweater#5=0.5394916759091986]	372
+[Two#0 Two#0=1.0, playing#6 play#2=1.0, are#3 together#3=0.5036319824891043, daycare#5 children#1=0.5104689484440627, children#2 children#1=1.0]	373
+[photograph#8 photo#8=1.0, man#5 man#3=1.0]	374
+[inside#3 out#4=0.6084823605190631, glasses#6 glass#7=1.0, man#1 man#2=1.0, trying#4 out#4=0.6724531434025712]	375
+[sidewalk#6 sidewalk#5=1.0, kid#1 boy#1=0.7802853502728481, skateboards#2 skates#2=0.5833508034813919]	376
+[sleeping#3 sleeping#3=1.0, pool#6 water#5=1.0, dog#1 dog#1=1.0, near#4 near#4=1.0]	377
+[outside#3 walking#3=0.5160290367884209, outside#3 in#4=0.536591456722879, city#6 city#6=1.0, man#1 man#1=1.0]	378
+[camera#1 camera#3=1.0]	379
+[yellow#11 gold#9=1.0, small#10 a#3=0.5332413091667187, man#1 man#1=1.0, exhibition#6 sculpture#10=0.6085941744144]	380
+[corner#14 street#10=0.560459720222995, white#4 man#1=1.0, man#1 man#1=1.0, standing#10 stands#6=0.6580931034449684, man#1 black#4=1.0, street#13 street#10=1.0, t-shirt#5 hat#5=0.5391657117068387]	381
+[Two#0 Two#0=1.0, weapons#4 armed#1=1.0, men#1 men#2=1.0]	382
+[war#3 civil#3=0.5817105433657128, war#3 war#4=1.0]	383
+[taxis#3 taxis#4=1.0, pass#5 passes#11=1.0, wet#9 wet#9=1.0, waits#1 waits#2=1.0, road#10 road#10=1.0, crossing#7 road#10=0.5938957454233165, pass#5 pass#6=1.0]	384
+[sleeping#3 sleeping#3=1.0, bunk#6 bed#6=1.0, girl#1 boy#1=0.8148322890832362, bed#7 bed#6=1.0]	385
+[people#0 People#0=1.0, people#0 people#4=1.0, man#4 when#3=0.54146608359517, eat#1 eat#5=1.0]	386
+[bench#3 sitting#3=0.5706752332639251, next#4 next#4=1.0000000000000002, sitting#1 sitting#3=1.0]	387
+[store#14 store#10=1.0, hanging#6 is#2=1.0, looking#3 looking#3=1.0, man#1 man#1=1.0, food#13 food#5=1.0, hanging#6 outside#8=0.5229818258722165]	388
+[crossing#1 road#4=0.5938957454233165]	389
+[engaged#6 engaged#4=1.0, has#3 newly#3=0.5068743426258927, just#4 was#2=0.6530074174130155, old#1 couple#1=0.5479503512617115, couple#2 couple#1=1.0, gotten#5 engaged#4=1.0]	390
+[couch#6 couch#3=1.0]	391
+[girl#1 man#1=0.5742589320087884]	392
+[older#1 old#1=0.7267197132615963, younger#10 young#6=0.7611760852719021, man#11 man#2=1.0, man#2 man#2=1.0, man#11 woman#7=0.7401744553971287, younger#5 young#6=0.7611760852719021]	393
+[friend#5 son#10=0.575595059963097, man#1 woman#1=0.7401744553971287, to#6 make#8=0.7082784492151654, him#9 laugh#11=0.5517417858207002, avoid#7 make#8=0.5710685333931996, friend#5 her#3=0.5801685078412991, jumps#2 throws#2=0.531769796603118]	394
+[to#4 people#13=0.5546321164227654, to#4 going#15=0.6292987545661248, walking#3 walking#5=1.0, walking#3 street#8=0.5452502836281159, pick#5 going#15=0.5983904403306988, man#1 person#4=1.0, is#2 one#3=0.6857000905922799]	395
+[beach#5 beach#7=1.0, couple#1 few#3=0.8165259359106244, are#2 people#4=0.5935695488455277]	396
+[guy#1 man#1=1.0, bike#4 bicycle#4=1.0, rides#2 rides#2=1.0, guy#1 lot#8=0.5013519845740739]	397
+[woman#1 man#1=0.7401744553971287, bench#11 sitting#3=0.5706752332639251, park#10 park#9=1.0, takes#5 is#2=1.0, bench#11 bench#6=1.0]	398
+[men#1 men#1=1.0, cold#4 warm#3=0.7110159240173071, feel#2 feel#2=1.0]	399
+[keeps#3 is#3=0.509351993875863, police#1 police#1=1.0, parade#6 parade#9=1.0, watch#4 watching#4=1.0, officer#2 officer#2=1.0, a#5 every#5=0.5538616979053146, a#5 one#6=0.7051319245341068]	400
+[young#3 girls#3=0.6531238108597448, group#1 group#1=1.0, women#4 girls#3=1.0]	401
+[looks#6 is#6=0.585559290224214, woman#1 woman#1=1.0, window#9 front#9=0.5120459995474747, black#4 black#4=1.0, coat#5 dress#5=0.5297720389531988]	402
+[girl#1 boy#1=0.8148322890832362, straight#5 out#3=0.603779082892904]	403
+[blond#1 blonde#1=1.0, front#7 front#4=1.0, woman#2 woman#2=1.0, buildings#11 buildings#7=1.0]	404
+[Two#0 Two#0=1.0, mopeds#3 motorbike#4=0.5543417094237589, men#1 men#2=1.0, drive#4 ride#5=1.0, street#7 street#8=1.0]	405
+[many#2 three#2=0.6335071449375078, many#2 there#5=0.7215988982009905]	406
+[is#2 something#7=0.6121733989187242, man#1 man#1=1.0, using#3 with#8=0.5699219024950741, man#1 boy#4=1.0]	407
+[Two#0 Two#0=1.0, children#1 young#1=0.5957646210253796, children#1 girls#2=0.5014019572723292, winter#10 summer#7=0.8207243631349759, winter#10 sun#8=0.5127080444701483, time#11 the#5=0.5314369504470863, playing#2 play#3=1.0]	408
+[Three#0 Two#0=0.9259245344602417, happy#3 fun#4=0.6257798133154834, men#1 guys#1=1.0]	409
+[Asian#0 Asian#1=1.0, women#1 women#2=1.0, girl#5 women#2=1.0, young#4 young#9=1.0, young#4 man#10=0.5776566094549457]	410
+[hitting#5 hits#10=1.0, ball#8 ball#13=1.0, woman#1 young#1=0.6121973535284637, woman#1 woman#2=1.0, white#4 blue#5=0.7843224809425516, white#4 white#8=1.0, tennis#7 tennis#12=1.0]	411
+[deserted#3 crowded#3=0.5908949420280379, street#1 street#1=1.0]	412
+[standing#3 feet#6=0.5297447171350589, men#1 men#2=1.0, one#9 few#1=0.7018586916196932]	413
+[two#8 that#8=0.5783052772709587, going#13 are#1=1.0, going#13 people#2=0.6113414480368643, cars#9 vehicle#7=0.6884117797860017, down#4 hanging#3=0.5103152961894348, street#6 road#12=0.5807652317553361, driving#3 road#12=1.0, man#1 that#8=0.5309426233624672]	414
+[people#3 people#1=1.0, people#3 make#2=0.6010168033558381, three#2 Two#0=0.5778829976307939, grass#5 grass#6=1.0]	415
+[two#12 large#7=0.5403548462039731, workers#13 working#4=0.534638050277254, white#2 blue#1=0.7843224809425516, large#1 large#7=1.0, stand#14 supported#9=1.0]	416
+[Two#0 Three#0=0.9259245344602417, stone#12 stone#7=1.0, stone#12 sand#10=0.5386881430166799, area#10 open#5=1.0, floor#15 floor#13=1.0, walls#13 stone#7=0.6157282798496878, walls#13 building#8=0.5562033353838483, men#2 womens#1=0.5361466441281345]	417
+[sweat#1 shirt#5=0.5158572515754115, full#5 with#2=0.523931442605743]	418
+[next#4 next#6=1.0000000000000002]	419
+[stove#5 kitchen#7=0.6515749427478994, woman#1 young#1=0.6121973535284637, woman#1 woman#2=1.0, cooks#2 cooking#4=0.6970530999428137, kitchen#8 kitchen#7=1.0]	420
+[cyclist#1 bicycle#1=0.6093453116375229, rushes#2 jumps#2=0.5008135242742484, air#5 air#5=1.0]	421
+[are#1 people#3=0.5935695488455277, the#6 new#10=0.5488141489016716, front#4 line#7=1.0]	422
+[riding#3 riding#3=1.0, riding#3 bike#5=0.7101809533034644, guy#1 man#1=1.0, moped#5 is#2=1.0]	423
+[Two#0 two#2=1.0, looking#10 people#3=0.5176553581032448, people#1 people#3=1.0, woman#7 man#6=0.7401744553971287, man#4 man#6=1.0, man#4 boy#9=1.0]	424
+[plays#6 playing#6=1.0, keyboard#9 keyboard#8=1.0, man#1 guy#1=1.0, costume#5 shirt#4=0.5149915704121804]	425
+[to#6 use#6=0.5626150936235924, waiting#3 saw#8=0.5057967327015898, help#5 working#3=0.5669761944395451, help#5 to#5=0.6728997638114127]	426
+[looking#2 out#7=0.5955808797937443, looking#2 guy#12=0.5559730652235465, while#5 playing#13=0.5282402092017788, while#5 sitting#16=0.6177476829860971, while#5 behind#17=0.6536017838220204, right#4 out#7=0.6954000702102443, while#5 playing#4=0.5282402092017788]	427
+[chairs#7 chair#15=1.0, sitting#5 sitting#12=1.0, guys#1 guy#1=1.0, attentively#9 cheerfully#10=0.5048333373506646, woman#4 girl#4=1.0, one#3 a#14=0.7051319245341068, looking#8 staring#6=1.0, right#12 the#3=0.585451939352508]	428
+[race#9 race#6=1.0, won#11 running#2=1.0, was#5 first#5=0.6098464830757915, race#9 running#2=1.0]	429
+[walking#9 walking#4=1.0, walking#9 beside#7=0.5830701974705974, swim#7 are#3=1.0, their#6 two#1=0.5717986617729878]	430
+[children#3 young#3=0.5957646210253796, soccer#6 soccer#7=1.0, groups#1 group#1=1.0, groups#1 people#4=1.0, playing#5 playing#6=1.0]	431
+[Three#0 Two#0=0.9259245344602417, graze#2 sheep#7=0.549911792989918, field#6 field#5=1.0, walking#10 walk#2=1.0, behind#11 walk#2=0.5032384941399469, sheep#1 sheep#7=1.0, dog#9 dogs#1=1.0]	432
+[caught#6 catch#7=1.0, fish#7 water#5=0.5694502378533076, fish#7 fish#9=1.0, fisherman#1 fish#9=0.5804998127600819, caught#6 dog#1=1.0]	433
+[dark#3 dark#1=1.0]	434
+[book#9 reading#3=0.596508630321343, book#9 story#5=0.5776276310294178, girl#2 boy#9=0.8148322890832362, reading#7 reading#3=1.0, girl#2 woman#1=1.0, sits#5 is#2=1.0, little#1 little#8=1.0]	435
+[lunch#3 eating#1=0.5807935650870123, cafe#6 restaurant#3=1.0, lunch#3 restaurant#3=0.628135089714583, boy#1 Man#0=1.0]	436
+[people#0 People#0=1.0]	437
+[young#1 man#3=0.5776566094549457, person#2 man#3=1.0]	438
+[sleeping#3 sleeping#3=1.0, bedroom#6 bedroom#6=1.0, girl#1 woman#1=1.0]	439
+[woman#1 woman#1=1.0, child#4 child#4=1.0]	440
+[the#3 place#4=0.6418197644936163, shines#2 is#1=1.0]	441
+[activities#5 activities#8=1.0, are#2 different#7=0.6190944127061078, people#1 young#2=0.505373190645304, people#1 people#3=1.0, people#1 dealing#5=0.5089124910203112]	442
+[Two#0 Four#0=0.8494412479129175, together#8 with#8=0.6209923182142637, sports#4 playing#2=1.0, looking#17 guys#1=0.5929843917556675, are#6 people#11=0.5935695488455277, players#5 playing#2=0.6794652622243891, covered#12 back#16=1.0, field#11 lawn#7=1.0]	443
+[Clown#0 clown#1=1.0, people#3 people#9=1.0, smiles#1 smile#6=1.0]	444
+[boy#10 woman#2=0.6259683618294782, hangs#3 is#7=1.0, young#1 woman#2=0.6121973535284637, basketball#6 sports#12=0.6565208918153536, girl#2 woman#2=1.0, stands#11 is#7=1.0]	445
+[woman#1 woman#1=1.0, laundry#5 bathroom#5=0.6370520138426737]	446
+[people#3 people#1=1.0, red#5 blue#10=0.8438411305430992, wearing#4 dressed#2=1.0, wearing#4 black#4=1.0, while#10 standing#6=0.5603069089209851, past#7 next#7=0.6066308536275633, wearing#4 blue#10=1.0, past#7 when#12=0.6085761210667773]	447
+[]	448
+[people#9 seem#5=0.6100703740471629, person#1 man#1=1.0, people#9 group#11=1.0, person#1 woman#4=0.5618484627709845, people#9 people#13=1.0, giving#2 behind#19=0.5202696606475274, giving#2 them#20=0.6605704718103029, people#9 talking#18=0.6145237632486494]	449
+[fishing#3 fishing#2=1.0, people#1 People#0=1.0]	450
+[man#1 group#1=1.0, interview#5 interviewing#3=1.0, News#8 news#5=1.0, interview#5 reporter#6=0.5581520659023347]	451
+[three#0 Three#0=1.0, three#0 together#2=0.5701813544506398, women#1 women#1=1.0]	452
+[alone#3 waiting#2=0.5572458322620546, alone#3 people#5=0.567870738103015, outside#4 waiting#2=0.502038894060989]	453
+[splashing#3 splashing#3=1.0, kids#1 children#1=1.0, water#4 water#4=1.0, everywhere#5 themselves#6=0.5736555641946979]	454
+[Two#0 Three#0=0.9259245344602417, road#6 driving#3=1.0, bikes#9 motorcycles#4=1.0, people#1 people#1=1.0, road#6 road#8=1.0, down#4 open#7=0.5137462763758252]	455
+[camera#11 camera#9=1.0, young#1 young#1=1.0, girl#2 girl#2=1.0, smile#8 smile#6=1.0, girl#2 woman#5=1.0, face#5 smile#6=0.5975992875399572]	456
+[surfer#1 surfer#1=1.0, ocean#5 ocean#5=1.0]	457
+[outside#6 out#6=0.5866070900753533, man#1 boy#1=1.0, pet#4 dog#4=0.8057452269611722]	458
+[pink#9 blue#5=0.8075139085045648, woman#1 woman#1=1.0, blue#4 wearing#3=1.0, jacket#10 jacket#6=1.0, blue#4 blue#5=1.0]	459
+[woman#3 woman#1=1.0, different#6 other#9=0.7602570195685254, man#1 man#4=1.0]	460
+[shake#2 hands#8=0.504005608239131, hands#3 sitting#5=0.544786045718249, people#1 group#1=1.0, hands#3 hands#8=1.0, people#1 people#3=1.0]	461
+[football#6 football#6=1.0, stadium#10 football#6=0.5753512258375889, game#7 game#7=1.0, football#1 football#6=1.0]	462
+[running#3 running#3=1.0, horse#1 horse#1=1.0, fast#4 fast#4=1.0]	463
+[connected#7 are#1=1.0]	464
+[young#3 people#3=0.505373190645304, group#1 group#1=1.0, people#4 people#3=1.0, hang#5 sit#4=0.6607614769582564]	465
+[woman#1 man#1=0.7401744553971287, blue#4 black#4=0.7210667488273478, shirt#5 suit#5=0.5169058468748877]	466
+[girl#1 girl#1=1.0, beautiful#8 girl#1=0.5168711144141735, ocean#5 ocean#5=1.0]	467
+[wearing#6 clothes#18=1.0, things#7 water#15=1.0, wearing#6 wear#6=1.0, person#1 woman#2=0.5618484627709845, things#7 anything#7=0.7936142616184828, person#1 not#5=0.6040132018369379, wearing#6 standing#12=0.5074798949348223]	468
+[man#1 man#1=1.0, party#5 party#13=1.0, man#1 woman#4=0.7401744553971287]	469
+[shopping#3 shopping#3=1.0, person#1 person#1=1.0]	470
+[mountain#6 mountain#7=1.0, skiing#3 mountain#7=0.6395635100608243, people#1 many#2=0.7057698506920613, people#1 people#3=1.0]	471
+[People#0 people#1=1.0, theater#6 cinema#4=1.0, movie#5 cinema#4=0.6334893866192558]	472
+[interview#7 reporters#1=0.5451493154426476, interview#7 interviewing#3=1.0, people#1 people#4=1.0]	473
+[cat#1 man#1=1.0, playing#3 guitar#7=0.5332999070023599]	474
+[people#3 people#3=1.0, group#1 group#1=1.0, stand#4 are#4=1.0, stand#4 sitting#5=0.5632193700127427, beach#7 beach#8=1.0]	475
+[Two#0 Three#0=0.9259245344602417, canoeing#3 canoes#4=1.0, people#1 people#1=1.0]	476
+[man#2 someone#6=1.0, tries#3 trying#3=1.0, game#5 bowling#9=1.0, young#1 girl#1=0.6640096329734431]	477
+[half#5 around#9=0.5190383865676053, gone#4 speed#1=1.0, way#6 people#8=0.6666489071205263, gone#4 turns#7=1.0, across#7 around#9=0.7049225044721082]	478
+[Woman#0 woman#1=1.0, purse#3 wallet#7=0.796887505081445, opening#1 opens#5=1.0]	479
+[band#5 concert#7=0.5808681017361239, band#5 singer#10=0.6105596788380363, band#5 range#15=1.0, band#5 band#3=1.0]	480
+[child#4 daughter#2=0.6496784312806066, day#7 day#6=1.0, beach#10 beach#9=1.0, couple#1 day#6=0.5177293422166082, enjoy#5 enjoying#4=1.0]	481
+[the#3 two#2=0.5565364728648968, in#2 outside#11=0.536591456722879, playing#6 play#10=1.0, people#1 guys#3=0.5620197589873513, people#1 they#8=0.6997981964278438]	482
+[They#0 're#1=0.6651380722091383]	483
+[jump#5 jump#8=1.0, pink#10 blue#1=0.8075139085045648, end#14 the#4=0.6031387484009115, snowboarder#1 snowboard#5=0.5930227762886897, snowboard#11 snowboard#5=1.0, is#2 person#2=0.5419267727530045]	484
+[Two#0 Two#0=1.0, break#16 to#3=0.5613110705821351, one#3 one#7=1.0, take#14 to#3=0.6813021421408628, one#3 one#15=1.0, outside#17 in#10=0.536591456722879]	485
+[Three#0 Two#0=0.9259245344602417, pool#5 pool#5=1.0]	486
+[climbing#3 climbing#3=1.0, man#1 man#1=1.0]	487
+[looking#3 looking#3=1.0, boy#1 child#1=0.6284155848015159]	488
+[water#5 water#7=1.0, natural#9 water#7=0.5034885057968188, off#4 big#1=0.5097043134395799, pond#10 floating#4=0.5066059656523628, brown#1 brown#2=1.0, pond#10 water#7=0.6335840413975634, dog#2 dog#3=1.0]	489
+[chair#8 table#9=0.5788682582570353, male#2 man#1=1.0, chair#8 sitting#6=0.6006811243674023, male#2 woman#4=0.5945904500673581, sitting#5 sitting#6=1.0]	490
+[eating#3 eating#2=1.0, dinner#4 eating#2=0.5581190987772828]	491
+[People#0 People#0=1.0, together#2 time#3=0.5340664988740145, together#2 together#4=1.0]	492
+[man#1 man#3=1.0]	493
+[daughter#3 mother#1=0.8572745826892825, daughter#3 sister#4=0.8456205293799318, kitchen#9 dining#8=0.6698546038134651, mother#1 mother#1=1.0, coffee#6 dining#8=0.502678246502683, table#10 dining#8=0.543305154939707]	494
+[his#8 attention#13=0.5385598631084456, to#6 prevent#7=0.5019241642452971, game#11 plays#3=1.0, his#8 man#2=0.5807739545368008, attempts#5 plays#3=1.0, soccer#10 team#10=0.5240742369201833]	495
+[a#8 small#8=0.5332413091667187, girl#1 woman#1=1.0, standing#3 outside#14=0.5824771362519129, girl#1 child#9=0.5674288180357449, boardwalk#9 walks#2=1.0]	496
+[People#0 group#1=1.0, People#0 people#4=1.0, outside#3 sitting#6=0.5640937973918116]	497
+[observing#3 observing#3=1.0, people#1 People#0=1.0]	498
+[man#6 woman#3=0.7401744553971287, crying#3 sitting#5=0.5477081851167357, man#1 man#1=1.0, sits#7 sitting#5=1.0, man#6 man#1=1.0]	499
+[men#3 woman#2=0.616518515055507, women#5 young#1=0.5735326332770628, women#5 woman#2=1.0]	500

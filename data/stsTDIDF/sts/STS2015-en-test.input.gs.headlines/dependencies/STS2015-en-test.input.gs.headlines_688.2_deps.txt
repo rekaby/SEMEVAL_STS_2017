@@ -1,0 +1,6 @@
+nsubj	suspects	US
+root	ROOT	suspects
+nsubj	used	Syria
+ccomp	suspects	used
+amod	weapons	chemical
+dobj	used	weapons

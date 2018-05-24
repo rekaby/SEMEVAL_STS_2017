@@ -1,0 +1,11 @@
+det	man	A
+nsubj	standing	man
+case	trunks	in
+amod	trunks	swimming
+nmod:in	man	trunks
+aux	standing	is
+root	ROOT	standing
+case	rocks	against
+det	rocks	some
+nmod:against	standing	rocks
+punct	standing	.

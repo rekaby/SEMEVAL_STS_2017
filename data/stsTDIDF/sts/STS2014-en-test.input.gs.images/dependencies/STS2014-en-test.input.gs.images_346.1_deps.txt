@@ -1,0 +1,14 @@
+det	room	A
+compound	room	living
+root	ROOT	room
+case	table	with
+nmod:with	room	table
+punct	table	,
+conj:and	table	chair
+cc	table	and
+conj:and	table	sofa
+case	palm	alongside
+det	palm	a
+amod	palm	large
+nmod:alongside	room	palm
+punct	room	.

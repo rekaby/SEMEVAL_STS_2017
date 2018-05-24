@@ -1,0 +1,8 @@
+det	indication	an
+root	ROOT	indication
+dobj	present	that
+nsubj	present	something
+aux	present	has
+cop	present	been
+acl:relcl	indication	present
+punct	indication	;

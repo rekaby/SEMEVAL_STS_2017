@@ -1,0 +1,12 @@
+det	man	A
+nsubj	riding	man
+acl	man	dressed
+case	clothes	in
+nmod:poss	clothes	women
+case	women	's
+nmod:in	dressed	clothes
+aux	riding	is
+root	ROOT	riding
+det	bicycle	a
+dobj	riding	bicycle
+punct	riding	.

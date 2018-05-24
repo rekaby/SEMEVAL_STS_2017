@@ -1,0 +1,16 @@
+nsubj	said	Yeager
+root	ROOT	said
+det	suspect	the
+nsubj	showed	suspect
+case	attack	in
+det	attack	the
+compound	attack	Target
+nmod:in	suspect	attack
+ccomp	said	showed
+dobj	showed	tendencies
+mark	offender	of
+cop	offender	being
+det	offender	a
+amod	offender	prior
+acl	tendencies	offender
+punct	said	.

@@ -1,0 +1,5 @@
+nsubj	settles	UBS
+root	ROOT	settles
+compound	lawsuit	US
+compound	lawsuit	mortgage
+dobj	settles	lawsuit

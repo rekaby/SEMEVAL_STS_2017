@@ -1,0 +1,9 @@
+nsubj	face	Druce
+aux	face	will
+ccomp	said	face
+compound	charges	murder
+dobj	face	charges
+punct	said	,
+nsubj	said	Conte
+root	ROOT	said
+punct	said	.

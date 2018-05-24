@@ -1,0 +1,12 @@
+nsubj	says	India
+root	ROOT	says
+nsubj	agrees	China
+ccomp	says	agrees
+compound	deal	retreat
+case	border	to
+compound	border	de
+compound	border	facto
+nmod:to	retreat	border
+case	faceoff	in
+nmod:in	retreat	faceoff
+dobj	agrees	deal

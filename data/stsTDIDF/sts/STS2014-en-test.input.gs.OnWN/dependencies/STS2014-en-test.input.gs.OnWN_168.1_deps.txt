@@ -1,0 +1,6 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	gather
+case	hive	in
+det	hive	a
+nmod:in	move	hive

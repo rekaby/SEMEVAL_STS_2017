@@ -1,0 +1,13 @@
+nsubj	think	I
+root	ROOT	think
+mark	is	that
+det	answer	the
+amod	answer	short
+nsubj	is	answer
+case	question	to
+nmod:poss	question	your
+nmod:to	answer	question
+ccomp	think	is
+punct	is	:
+dep	is	No
+punct	think	.

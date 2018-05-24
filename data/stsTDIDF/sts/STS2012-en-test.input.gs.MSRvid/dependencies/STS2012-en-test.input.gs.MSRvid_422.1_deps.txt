@@ -1,0 +1,7 @@
+det	man	A
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+cc	sitting	and
+conj:and	sitting	smoking
+punct	sitting	.

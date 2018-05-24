@@ -1,0 +1,7 @@
+det	lady	A
+nsubj	playing	lady
+aux	playing	is
+root	ROOT	playing
+det	guitar	the
+dobj	playing	guitar
+punct	playing	.

@@ -1,0 +1,5 @@
+det	child	A
+nsubj	inside	child
+cop	inside	is
+root	ROOT	inside
+punct	inside	.

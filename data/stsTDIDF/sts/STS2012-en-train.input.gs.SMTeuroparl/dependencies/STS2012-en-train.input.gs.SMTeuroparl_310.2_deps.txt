@@ -1,0 +1,25 @@
+nsubj	happening	It
+root	ROOT	happening
+case	trial	in
+nmod:in	happening	trial
+case	January	on
+nummod	January	8
+nmod:on	trial	January
+punct	happening	.-8) nsubjpass(accused-3, He
+auxpass	accused	is
+root	ROOT	accused
+mark	attended	of
+aux	attended	having
+advcl	accused	attended
+det	meeting	a
+dobj	attended	meeting
+case	opponents	of
+amod	opponents	Tunisian
+nmod:of	meeting	opponents
+case	France	in
+nmod:in	opponents	France
+punct	France	,
+dobj	denies	which
+nsubj	denies	he
+acl:relcl	France	denies
+punct	accused	.

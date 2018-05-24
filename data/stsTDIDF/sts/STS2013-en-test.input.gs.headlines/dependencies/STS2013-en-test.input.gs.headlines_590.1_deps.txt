@@ -1,0 +1,8 @@
+amod	Korean	South
+amod	growth	Korean
+amod	growth	economic
+nsubj	falls	growth
+root	ROOT	falls
+case	low	to
+amod	low	3-year
+nmod:to	falls	low

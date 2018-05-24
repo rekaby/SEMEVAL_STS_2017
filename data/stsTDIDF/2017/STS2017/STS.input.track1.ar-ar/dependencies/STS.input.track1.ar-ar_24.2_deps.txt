@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+nummod	dogs	two
+nsubj	are	dogs
+case	snow	in
+det	snow	the
+nmod:in	dogs	snow
+punct	are	,
+cc	are	and
+case	thing	in
+nummod	thing	one
+nmod:in	Fmm	thing
+conj:and	are	Fmm

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	breaks	man
+root	ROOT	breaks
+det	bottle	a
+dobj	breaks	bottle
+case	sword	with
+det	sword	a
+nmod:with	breaks	sword
+punct	breaks	.

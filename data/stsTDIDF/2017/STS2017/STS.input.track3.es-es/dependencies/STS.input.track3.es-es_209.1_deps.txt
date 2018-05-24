@@ -1,0 +1,8 @@
+det	boy	A
+amod	boy	little
+nsubj	removes	boy
+root	ROOT	removes
+det:predet	clothes	all
+nmod:poss	clothes	his
+dobj	removes	clothes
+punct	removes	.

@@ -1,0 +1,16 @@
+root	ROOT	``
+case	it	In
+nmod:in	was	it
+root	``	was
+det	illness	a
+amod	illness	mental
+nsubj	was	illness
+punct	was	,
+advmod	teaching	now
+dep	teaching	what
+aux	teaching	are
+nsubj	teaching	they
+advcl	was	teaching
+dobj	teaching	you
+punct	was	?
+punct	was	''

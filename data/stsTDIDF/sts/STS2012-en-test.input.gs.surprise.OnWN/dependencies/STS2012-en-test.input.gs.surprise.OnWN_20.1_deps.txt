@@ -1,0 +1,7 @@
+advmod	wield	effectively
+root	ROOT	wield
+cc	wield	or
+conj:or	wield	manipulate
+det	entity	a
+amod	entity	concrete
+dobj	wield	entity

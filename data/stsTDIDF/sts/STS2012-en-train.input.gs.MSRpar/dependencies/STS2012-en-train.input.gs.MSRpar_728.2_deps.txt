@@ -1,0 +1,16 @@
+compound	lawyers	Defense
+nsubj	appeal	lawyers
+aux	appeal	can
+neg	appeal	not
+root	ROOT	appeal
+det	ruling	the
+dobj	appeal	ruling
+case	trial	until
+case	trial	after
+nmod:after	appeal	trial
+punct	appeal	,
+case	courts	in
+det	courts	the
+amod	courts	appellate
+nmod:in	appeal	courts
+punct	appeal	.

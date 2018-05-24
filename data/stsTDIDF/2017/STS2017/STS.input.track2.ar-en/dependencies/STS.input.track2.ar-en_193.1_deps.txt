@@ -1,0 +1,6 @@
+det	person	The
+nsubj	making	person
+aux	making	is
+root	ROOT	making
+dobj	making	fabric
+punct	making	.

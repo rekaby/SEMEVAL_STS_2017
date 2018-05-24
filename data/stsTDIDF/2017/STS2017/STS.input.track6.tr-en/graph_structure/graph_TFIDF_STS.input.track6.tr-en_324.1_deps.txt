@@ -1,0 +1,7 @@
+house	dog	nmod:with
+dog	his	nmod:poss
+running	man	nsubj
+running	house	nmod:through
+man	One	nummod
+house	through	case
+dog	with	case

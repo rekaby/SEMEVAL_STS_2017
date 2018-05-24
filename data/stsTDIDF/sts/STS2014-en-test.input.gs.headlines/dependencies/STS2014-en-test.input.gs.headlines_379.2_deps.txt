@@ -1,0 +1,15 @@
+det	battle	A
+root	ROOT	battle
+mark	retake	to
+acl	battle	retake
+advmod	Mali	north
+dobj	retake	Mali
+punct	battle	:
+nsubj	drive	Hundreds
+case	troops	of
+amod	troops	French
+nmod:of	Hundreds	troops
+parataxis	battle	drive
+advmod	drive	back
+amod	rebels	al-Qaida-linked
+dobj	drive	rebels

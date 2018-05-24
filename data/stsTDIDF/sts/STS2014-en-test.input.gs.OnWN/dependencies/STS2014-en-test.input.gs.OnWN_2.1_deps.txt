@@ -1,0 +1,6 @@
+amod	strips	thin
+compound	strips	metal
+root	ROOT	strips
+acl	strips	used
+case	typesetting	in
+nmod:in	used	typesetting

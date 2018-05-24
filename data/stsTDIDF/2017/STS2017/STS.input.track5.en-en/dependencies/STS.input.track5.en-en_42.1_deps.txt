@@ -1,0 +1,12 @@
+det	man	A
+nsubj	uses	man
+root	ROOT	uses
+det	chainsaw	a
+dobj	uses	chainsaw
+mark	sculpt	to
+advcl	uses	sculpt
+det	sculpture	a
+amod	sculpture	phallic
+compound	sculpture	ice
+dobj	sculpt	sculpture
+punct	uses	.

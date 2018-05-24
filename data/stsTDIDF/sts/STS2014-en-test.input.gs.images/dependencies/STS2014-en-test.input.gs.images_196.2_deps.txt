@@ -1,0 +1,9 @@
+det	women	A
+root	ROOT	women
+acl	women	wearing
+det	top	a
+compound	top	bikini
+dobj	wearing	top
+cc	top	and
+conj:and	top	jeans
+punct	women	.

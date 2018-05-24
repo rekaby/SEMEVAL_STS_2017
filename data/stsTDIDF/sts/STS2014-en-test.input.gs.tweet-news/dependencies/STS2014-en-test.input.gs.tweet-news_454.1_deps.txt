@@ -1,0 +1,11 @@
+nsubj	need	I
+root	ROOT	need
+det	day	a
+punct	day	`
+compound	day	stop
+dobj	need	day
+punct	day	'
+case	life	in
+nmod:poss	life	my
+nmod:in	need	life
+punct	need	.-11) root(ROOT-0, #CNN

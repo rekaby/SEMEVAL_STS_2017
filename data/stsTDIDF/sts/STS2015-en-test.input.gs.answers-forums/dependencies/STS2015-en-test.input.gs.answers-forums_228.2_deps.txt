@@ -1,0 +1,13 @@
+det	aperture	The
+amod	aperture	wider
+nmod:poss	aperture	your
+root	ROOT	aperture
+punct	aperture	,
+det	depth	the
+amod	depth	smaller
+nmod:poss	depth	your
+amod	depth	focal
+nsubj	be	depth
+aux	be	will
+acl:relcl	aperture	be
+punct	aperture	.

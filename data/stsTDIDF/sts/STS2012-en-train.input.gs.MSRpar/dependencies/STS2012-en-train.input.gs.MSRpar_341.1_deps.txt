@@ -1,0 +1,11 @@
+nsubj	resigned	Brendsel
+cc	Brendsel	and
+amod	Clarke	chief
+amod	Clarke	financial
+compound	Clarke	officer
+compound	Clarke	Vaughn
+conj:and	Brendsel	Clarke
+root	ROOT	resigned
+nmod:tmod	resigned	June
+nummod	June	9
+punct	resigned	.

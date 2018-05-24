@@ -1,0 +1,9 @@
+compound	Assad	EU
+compound	Assad	sanctions
+nmod:poss	wife	Assad
+case	Assad	's
+root	ROOT	wife
+punct	wife	;
+nsubj	hit	mortars
+parataxis	wife	hit
+dobj	hit	Homs

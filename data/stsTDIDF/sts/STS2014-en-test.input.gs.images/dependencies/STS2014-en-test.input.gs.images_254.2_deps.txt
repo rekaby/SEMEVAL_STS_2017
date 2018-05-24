@@ -1,0 +1,15 @@
+nummod	televisions	Three
+root	ROOT	televisions
+punct	televisions	,
+case	floor	on
+case	floor	on
+det	floor	the
+nmod:on	televisions	floor
+punct	televisions	,
+det	two	the
+amod	two	other
+appos	televisions	two
+case	box	on
+det	box	a
+nmod:on	two	box
+punct	televisions	.

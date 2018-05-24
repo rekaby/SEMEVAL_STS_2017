@@ -1,0 +1,17 @@
+compound	Torsella	National
+compound	Torsella	Constitution
+compound	Torsella	Center
+compound	Torsella	President
+compound	Torsella	Joseph
+nsubjpass	hit	Torsella
+auxpass	hit	was
+root	ROOT	hit
+case	head	in
+det	head	the
+nmod:in	hit	head
+cc	hit	and
+conj:and	hit	knocked
+case	knees	to
+nmod:poss	knees	his
+nmod:to	knocked	knees
+punct	hit	.

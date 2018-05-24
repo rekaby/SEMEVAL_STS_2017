@@ -1,0 +1,11 @@
+punct	Cause	-LRB-
+dep	run	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	run
+case	pace	at
+det	pace	a
+advmod	swift	moderately
+amod	pace	swift
+nmod:at	run	pace
+punct	run	.

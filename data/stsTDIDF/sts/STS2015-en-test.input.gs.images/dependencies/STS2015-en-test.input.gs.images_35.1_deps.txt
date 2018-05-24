@@ -1,0 +1,10 @@
+nummod	hug	two
+amod	hug	young
+compound	hug	girls
+root	ROOT	hug
+det	other	each
+advmod	hug	other
+case	grass	in
+det	grass	the
+nmod:in	other	grass
+punct	hug	.

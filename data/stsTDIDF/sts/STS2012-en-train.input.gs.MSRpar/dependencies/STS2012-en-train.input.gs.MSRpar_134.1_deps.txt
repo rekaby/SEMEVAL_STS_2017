@@ -1,0 +1,12 @@
+det	author	The
+nsubj	one	author
+cop	one	is
+root	ROOT	one
+case	experts	of
+amod	experts	several
+compound	experts	defense
+nmod:of	one	experts
+acl	experts	expected
+mark	testify	to
+xcomp	expected	testify
+punct	one	.

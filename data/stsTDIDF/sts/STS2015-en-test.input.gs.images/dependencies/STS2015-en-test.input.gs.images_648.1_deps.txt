@@ -1,0 +1,11 @@
+nummod	hikers	Two
+nsubj	stand	hikers
+root	ROOT	stand
+case	top	at
+det	top	the
+nmod:at	stand	top
+case	mountain	of
+det	mountain	a
+amod	mountain	snowy
+nmod:of	top	mountain
+punct	stand	.

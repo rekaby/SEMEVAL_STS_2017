@@ -1,0 +1,9 @@
+adult	child	conj:and
+ruining	nails	dobj
+ROOT	ruining	root
+ruining	are	aux
+nails	their	nmod:poss
+ruining	An	nsubj
+An	adult	amod
+adult	and	cc
+ruining	.	punct

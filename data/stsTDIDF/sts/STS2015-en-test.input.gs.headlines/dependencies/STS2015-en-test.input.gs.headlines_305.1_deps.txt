@@ -1,0 +1,7 @@
+compound	Korea	North
+nsubj	says	Korea
+root	ROOT	says
+mark	restart	to
+xcomp	says	restart
+amod	reactor	nuclear
+dobj	restart	reactor

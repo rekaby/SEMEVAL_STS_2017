@@ -1,0 +1,7 @@
+compound	pot	Boy
+amod	pot	given
+root	ROOT	pot
+mark	manage	to
+acl	pot	manage
+nmod:poss	autism	his
+dobj	manage	autism

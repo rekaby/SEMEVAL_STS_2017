@@ -1,0 +1,12 @@
+case	Tuesday	As
+mwe	As	of
+nmod:as_of	quarantine	Tuesday
+punct	quarantine	,
+advmod	250	almost
+nummod	workers	250
+amod	workers	health-care
+nsubj	quarantine	workers
+cop	quarantine	were
+case	quarantine	in
+root	ROOT	quarantine
+punct	quarantine	.

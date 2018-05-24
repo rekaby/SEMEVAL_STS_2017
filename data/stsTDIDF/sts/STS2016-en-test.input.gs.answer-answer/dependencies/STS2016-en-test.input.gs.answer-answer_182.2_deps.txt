@@ -1,0 +1,16 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	one	this
+cop	one	is
+ccomp	think	one
+case	things	of
+det	things	those
+nmod:of	one	things
+advmod	luck	where
+nsubj	luck	you
+cop	luck	are
+advmod	luck	just
+case	luck	out
+mwe	out	of
+acl:relcl	things	luck
+punct	think	.

@@ -1,0 +1,13 @@
+nummod	man	One
+nsubj	plays	man
+root	ROOT	plays
+det	guitar	the
+dobj	plays	guitar
+mark	plays	while
+nsubj	plays	another
+advcl	plays	plays
+det	drums	the
+dobj	plays	drums
+case	stage	on
+nmod:on	plays	stage
+punct	plays	.

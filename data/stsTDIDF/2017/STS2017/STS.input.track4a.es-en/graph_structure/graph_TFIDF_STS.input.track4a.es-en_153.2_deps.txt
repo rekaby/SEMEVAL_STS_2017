@@ -1,0 +1,14 @@
+desk	at	case
+microphone	into	case
+man	talking	conj:and
+desk	a	det
+shirt	blue	amod
+talking	microphone	nmod:into
+man	blond-haired	amod
+shirt	surrounded	acl
+sitting	desk	nmod:at
+screens	by	case
+microphone	a	det
+surrounded	screens	nmod:by
+man	shirt	nmod:in
+screens	sitting	acl

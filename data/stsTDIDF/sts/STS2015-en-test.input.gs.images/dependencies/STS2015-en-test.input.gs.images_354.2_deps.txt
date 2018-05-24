@@ -1,0 +1,10 @@
+nummod	dogs	Two
+nsubj	running	dogs
+root	ROOT	running
+compound:prt	running	down
+det	path	a
+dobj	running	path
+case	woods	in
+det	woods	the
+nmod:in	path	woods
+punct	running	.

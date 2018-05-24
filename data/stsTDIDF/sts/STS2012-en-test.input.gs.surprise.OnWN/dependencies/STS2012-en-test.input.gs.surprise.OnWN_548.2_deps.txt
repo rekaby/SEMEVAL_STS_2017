@@ -1,0 +1,5 @@
+root	ROOT	become
+xcomp	become	hard
+cc	hard	or
+conj:or	hard	harder
+punct	become	.

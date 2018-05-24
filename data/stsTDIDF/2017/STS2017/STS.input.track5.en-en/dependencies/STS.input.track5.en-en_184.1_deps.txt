@@ -1,0 +1,11 @@
+det	girl	A
+root	ROOT	girl
+case	water	in
+nmod:in	girl	water
+case	goggles	without
+nmod:without	girl	goggles
+cc	goggles	or
+det	cap	a
+compound	cap	swimming
+conj:or	goggles	cap
+punct	girl	.

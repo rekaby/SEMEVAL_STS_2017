@@ -1,0 +1,7 @@
+nsubj	strolling	People
+root	ROOT	strolling
+advmod	strolling	casually
+case	bridge	across
+det	bridge	a
+nmod:across	strolling	bridge
+punct	strolling	.

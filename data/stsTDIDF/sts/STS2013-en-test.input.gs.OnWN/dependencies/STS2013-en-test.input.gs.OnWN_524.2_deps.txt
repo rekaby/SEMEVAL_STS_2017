@@ -1,0 +1,6 @@
+root	ROOT	organize
+cc	organize	or
+cop	responsible	be
+conj:or	organize	responsible
+dep	responsible	for
+punct	organize	.

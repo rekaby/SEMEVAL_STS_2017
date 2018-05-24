@@ -1,0 +1,16 @@
+root	ROOT	come
+case	searching	upon
+mark	searching	after
+advcl:upon	come	searching
+punct	come	;
+parataxis	come	find
+det	location	the
+dobj	find	location
+case	something	of
+nmod:of	location	something
+nsubjpass	missed	that
+auxpass	missed	was
+acl:relcl	something	missed
+cc	missed	or
+conj:or	missed	lost
+punct	come	;

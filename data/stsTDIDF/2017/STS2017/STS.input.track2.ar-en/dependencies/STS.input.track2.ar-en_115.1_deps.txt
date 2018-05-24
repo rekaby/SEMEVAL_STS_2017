@@ -1,0 +1,7 @@
+nsubj	standing	Workers
+aux	standing	are
+root	ROOT	standing
+case	tracks	near
+det	tracks	the
+nmod:near	standing	tracks
+punct	standing	.

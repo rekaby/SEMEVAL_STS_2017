@@ -1,0 +1,7 @@
+det	player	A
+compound	player	football
+nsubj	attempts	player
+root	ROOT	attempts
+det	tackle	a
+dobj	attempts	tackle
+punct	attempts	.

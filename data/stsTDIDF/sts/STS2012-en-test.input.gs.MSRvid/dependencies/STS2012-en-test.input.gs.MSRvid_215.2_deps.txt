@@ -1,0 +1,6 @@
+det	squirrel	A
+nsubj	runs	squirrel
+root	ROOT	runs
+case	circles	in
+nmod:in	runs	circles
+punct	runs	.

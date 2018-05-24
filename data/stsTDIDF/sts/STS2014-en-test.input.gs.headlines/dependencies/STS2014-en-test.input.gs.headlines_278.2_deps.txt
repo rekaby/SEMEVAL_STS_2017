@@ -1,0 +1,9 @@
+compound	pledges	Obama
+nsubj	work	pledges
+mark	make	to
+acl	pledges	make
+amod	law	new
+compound	law	health
+compound	law	care
+dobj	make	law
+root	ROOT	work

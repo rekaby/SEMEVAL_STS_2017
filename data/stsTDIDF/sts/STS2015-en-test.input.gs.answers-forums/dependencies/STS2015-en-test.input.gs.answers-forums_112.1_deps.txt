@@ -1,0 +1,16 @@
+amod	answer	Simple
+nsubj	yes	answer
+cop	yes	is
+root	ROOT	yes
+punct	shoots	,
+nsubj	shoots	flower
+csubj	sign	shoots
+case	lettuce	on
+nmod:on	shoots	lettuce
+cop	sign	is
+det	sign	a
+amod	sign	sure
+ccomp	yes	sign
+case	bolting	of
+nmod:of	sign	bolting
+punct	yes	.

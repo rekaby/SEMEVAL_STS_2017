@@ -1,0 +1,15 @@
+punct	s	``
+nsubj	s	It
+punct	s	''
+dep	said	s
+advmod	s	absurd
+punct	s	,
+punct	s	''
+compound	Cide	Funny
+nmod:poss	Tagg	Cide
+case	Cide	's
+compound	Tagg	trainer
+compound	Tagg	Barclay
+nsubj	said	Tagg
+root	ROOT	said
+punct	said	.

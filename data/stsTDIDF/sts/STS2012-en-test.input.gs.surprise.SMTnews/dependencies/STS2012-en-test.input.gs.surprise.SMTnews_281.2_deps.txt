@@ -1,0 +1,10 @@
+nsubj	happened	What
+root	ROOT	happened
+det	initiative	the
+nsubj	go	initiative
+aux	go	does
+neg	go	not
+ccomp	happened	go
+advmod	far	very
+advmod	go	far
+punct	happened	.

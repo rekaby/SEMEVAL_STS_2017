@@ -1,0 +1,9 @@
+nmod:poss	vote	Palestinians
+case	Palestinians	'
+amod	vote	first
+advmod	vote	ever
+compound	vote	UN
+root	ROOT	vote
+amod	historic	symbolic
+advmod	symbolic	yet
+amod	vote	historic

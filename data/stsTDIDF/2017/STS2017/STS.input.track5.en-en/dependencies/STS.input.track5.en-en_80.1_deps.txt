@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	paints	woman
+root	ROOT	paints
+det	picture	a
+dobj	paints	picture
+case	building	of
+det	building	a
+amod	building	large
+nmod:of	picture	building
+nsubjpass	seen	which
+aux	seen	can
+auxpass	seen	be
+acl:relcl	building	seen
+case	background	in
+det	background	the
+nmod:in	seen	background
+punct	paints	.

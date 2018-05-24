@@ -1,0 +1,17 @@
+nsubj	know	Point
+cop	know	is
+punct	know	:
+root	ROOT	know
+dobj	want	what
+nsubj	want	you
+ccomp	know	want
+cc	want	and
+aux	afraid	do
+neg	afraid	n't
+cop	afraid	be
+conj:and	want	afraid
+mark	ask	to
+xcomp	afraid	ask
+case	it	for
+nmod:for	ask	it
+punct	know	.

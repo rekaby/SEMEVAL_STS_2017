@@ -1,0 +1,7 @@
+nsubj	racing	Swimmers
+aux	racing	are
+root	ROOT	racing
+case	lake	in
+det	lake	a
+nmod:in	racing	lake
+punct	racing	.

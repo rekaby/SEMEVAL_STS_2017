@@ -1,0 +1,6 @@
+root	ROOT	family
+case	descent	based
+mwe	based	on
+amod	descent	male
+acl:based_on	family	descent
+punct	family	;

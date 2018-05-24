@@ -1,0 +1,8 @@
+compound	ducks	Child
+compound	ducks	chasing
+root	ROOT	ducks
+case	park	in
+det	park	the
+nmod:in	ducks	park
+advmod	ducks	happily
+punct	ducks	.

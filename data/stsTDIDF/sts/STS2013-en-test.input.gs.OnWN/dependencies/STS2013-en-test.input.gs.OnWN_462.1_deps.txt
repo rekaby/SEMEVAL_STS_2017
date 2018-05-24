@@ -1,0 +1,6 @@
+root	ROOT	Create
+det	coating	a
+dobj	Create	coating
+case	something	for
+nmod:for	coating	something
+punct	Create	.

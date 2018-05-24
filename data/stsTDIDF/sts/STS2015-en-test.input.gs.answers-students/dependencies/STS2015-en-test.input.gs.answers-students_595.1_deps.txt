@@ -1,0 +1,10 @@
+nmod:poss	recieving	its
+neg	recieving	not
+root	ROOT	recieving
+case	terminal	from
+det:predet	terminal	either
+det	terminal	the
+amod	terminal	negative
+cc	negative	or
+conj:or	negative	positive
+nmod:from	recieving	terminal

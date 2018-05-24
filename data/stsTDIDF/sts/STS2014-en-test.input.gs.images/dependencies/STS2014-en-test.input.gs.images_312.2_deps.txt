@@ -1,0 +1,11 @@
+nummod	dogs	Two
+nsubj	sit	dogs
+root	ROOT	sit
+case	couch	on
+det	couch	a
+nmod:on	sit	couch
+mark	stuffed	with
+nsubj	stuffed	many
+advcl	sit	stuffed
+dobj	stuffed	animals
+punct	sit	.

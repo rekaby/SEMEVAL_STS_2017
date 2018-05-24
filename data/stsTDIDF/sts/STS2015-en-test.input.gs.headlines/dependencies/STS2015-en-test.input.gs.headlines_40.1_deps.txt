@@ -1,0 +1,7 @@
+amod	Attacks	Iraqi
+compound	Attacks	Bomb
+nsubj	Kill	Attacks
+root	ROOT	Kill
+case	Least	At
+nmod:at	Kill	Least
+dep	Kill	13

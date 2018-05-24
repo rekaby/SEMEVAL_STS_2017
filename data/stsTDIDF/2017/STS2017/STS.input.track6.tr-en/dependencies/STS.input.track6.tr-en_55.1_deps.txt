@@ -1,0 +1,13 @@
+det	boy	A
+amod	boy	young
+nsubj	gets	boy
+case	uniform	in
+det	uniform	a
+nmod:in	boy	uniform
+root	ROOT	gets
+det	ball	the
+dobj	gets	ball
+case	rival	from
+nmod:poss	rival	his
+nmod:from	gets	rival
+punct	gets	.

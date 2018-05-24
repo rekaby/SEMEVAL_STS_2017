@@ -1,0 +1,8 @@
+nsubj	wins	Murray
+root	ROOT	wins
+compound	title	Wimbledon
+nsubj	ends	title
+ccomp	wins	ends
+compound	agony	Britains
+amod	agony	77year
+dobj	ends	agony

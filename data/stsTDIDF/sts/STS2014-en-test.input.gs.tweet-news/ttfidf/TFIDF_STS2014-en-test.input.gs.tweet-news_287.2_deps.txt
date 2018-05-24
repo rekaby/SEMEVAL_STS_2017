@@ -1,0 +1,9 @@
+root ROOT ?-1) compound(Park-2, South	14.367292599215348
+punct Park ?-3) root(ROOT-0, Creators	14.367292599215348
+compound Company Start	14.367292599215348
+nmod:to Creators Company	14.367292599215348
+compound Studios Important	14.367292599215348
+appos Company Studios	14.367292599215348
+case Company to	12.980998238095458
+root ROOT Park	11.168619481664667
+punct Company ,	11.168619481664667

@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	large
+nsubj	walks	dog
+root	ROOT	walks
+case	path	along
+det	path	a
+compound	path	gravel
+nmod:along	walks	path
+case	woods	in
+det	woods	the
+nmod:in	path	woods
+punct	walks	.

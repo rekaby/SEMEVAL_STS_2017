@@ -1,0 +1,15 @@
+case	some	In
+nmod:in	rests	some
+advmod	Indo-European	nowadays
+amod	languages	Indo-European
+nsubj	rests	languages
+nsubj	see	you
+aux	see	can
+advmod	see	still
+acl:relcl	languages	see
+root	ROOT	rests
+case	systems	of
+compound	systems	base-20
+compound	systems	numeral
+nmod:of	rests	systems
+punct	rests	.

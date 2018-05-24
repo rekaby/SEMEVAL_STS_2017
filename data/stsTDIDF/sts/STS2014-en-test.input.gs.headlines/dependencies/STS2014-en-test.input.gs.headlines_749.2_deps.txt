@@ -1,0 +1,8 @@
+compound	yuan	China
+nsubj	strengthens	yuan
+root	ROOT	strengthens
+case	high	to
+amod	high	new
+nmod:to	strengthens	high
+case	USD	against
+nmod:against	high	USD

@@ -1,0 +1,5 @@
+nsubj	hail	Journalists
+root	ROOT	hail
+compound	Olympics	London
+dobj	hail	Olympics
+dep	hail	opening

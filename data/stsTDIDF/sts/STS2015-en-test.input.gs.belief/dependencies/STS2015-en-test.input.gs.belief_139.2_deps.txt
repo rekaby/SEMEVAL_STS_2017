@@ -1,0 +1,10 @@
+advmod	talking	then
+nsubj	talking	they
+aux	talking	are
+root	ROOT	talking
+dobj	talking	money
+case	something	out
+mwe	out	of
+nmod:out_of	talking	something
+advmod	something	else
+punct	talking	.

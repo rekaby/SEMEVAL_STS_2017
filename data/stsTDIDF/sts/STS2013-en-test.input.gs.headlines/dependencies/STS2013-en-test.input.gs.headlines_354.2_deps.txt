@@ -1,0 +1,8 @@
+compound	Dome	Iron
+nsubj	intercepts	Dome
+root	ROOT	intercepts
+nummod	rockets	two
+nsubj	fired	rockets
+ccomp	intercepts	fired
+case	Beersheba	at
+nmod:at	fired	Beersheba

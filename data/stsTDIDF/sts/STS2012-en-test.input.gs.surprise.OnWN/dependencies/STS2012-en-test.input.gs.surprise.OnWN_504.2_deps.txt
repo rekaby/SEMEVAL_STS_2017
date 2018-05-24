@@ -1,0 +1,16 @@
+root	ROOT	find
+det	solution	the
+dobj	find	solution
+case	problem	to
+punct	problem	-LRB-
+det	problem	a
+nmod:to	solution	problem
+cc	problem	or
+conj:or	problem	question
+punct	problem	-RRB-
+cc	find	or
+conj:or	find	understand
+det	meaning	the
+dobj	understand	meaning
+acl	meaning	of
+punct	find	.

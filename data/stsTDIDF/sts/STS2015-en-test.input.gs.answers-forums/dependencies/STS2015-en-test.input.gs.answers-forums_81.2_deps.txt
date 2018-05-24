@@ -1,0 +1,16 @@
+punct	means	``
+nsubj	means	Ten
+case	six	of
+nmod:of	Ten	six
+punct	means	''
+advmod	means	probably
+root	ROOT	means
+dobj	means	5:50
+cc	means	but
+nsubj	heard	I
+aux	heard	have
+neg	heard	not
+conj:but	means	heard
+dobj	heard	it
+advmod	heard	before
+punct	means	.

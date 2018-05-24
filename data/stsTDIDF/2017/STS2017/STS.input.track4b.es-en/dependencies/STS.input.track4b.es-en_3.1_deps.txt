@@ -1,0 +1,15 @@
+det	hearing	The
+nsubj	focuses	hearing
+root	ROOT	focuses
+case	time	on
+nmod:poss	time	Manning
+case	Manning	's
+nmod:on	focuses	time
+case	brig	in
+det	brig	the
+amod	brig	military
+nmod:in	time	brig
+case	Quantico	at
+nmod:at	brig	Quantico
+punct	Quantico	,
+appos	Quantico	Virginia

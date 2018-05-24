@@ -1,0 +1,6 @@
+nsubj	killed	Five
+root	ROOT	killed
+case	China	in
+nmod:in	killed	China
+compound	collapse	building
+dobj	killed	collapse

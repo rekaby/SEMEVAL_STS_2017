@@ -1,0 +1,7 @@
+det	event	the
+nsubj	something	event
+mark	proposing	of
+acl	event	proposing
+cc	proposing	or
+conj:or	proposing	volunteering
+root	ROOT	something

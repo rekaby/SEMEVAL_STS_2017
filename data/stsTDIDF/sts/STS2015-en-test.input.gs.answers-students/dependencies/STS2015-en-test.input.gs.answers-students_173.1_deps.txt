@@ -1,0 +1,10 @@
+mark	has	because
+det	battery	the
+nsubj	has	battery
+root	ROOT	has
+dobj	has	electricity
+cc	has	and
+det	gap	the
+nsubj	does	gap
+conj:and	has	does
+neg	does	not

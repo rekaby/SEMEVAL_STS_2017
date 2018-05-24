@@ -1,0 +1,14 @@
+nsubj	eliminates	Boiling
+root	ROOT	eliminates
+advmod	class	only
+det	class	a
+amod	class	certain
+dobj	eliminates	class
+case	contaminants	of
+nmod:of	class	contaminants
+nsubj	make	that
+aux	make	can
+acl:relcl	class	make
+dobj	make	you
+advmod	make	ill
+punct	eliminates	.

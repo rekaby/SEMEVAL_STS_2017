@@ -1,0 +1,6 @@
+compound	dog	White
+nsubj	running	dog
+root	ROOT	running
+case	outside	around
+nmod:around	running	outside
+punct	running	.

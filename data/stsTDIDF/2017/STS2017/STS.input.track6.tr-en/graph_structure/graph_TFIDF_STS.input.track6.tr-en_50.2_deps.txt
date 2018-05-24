@@ -1,0 +1,5 @@
+running	field	nmod:on
+running	man	nsubj
+people	angry	amod
+escape	people	nmod:from
+running	escape	xcomp

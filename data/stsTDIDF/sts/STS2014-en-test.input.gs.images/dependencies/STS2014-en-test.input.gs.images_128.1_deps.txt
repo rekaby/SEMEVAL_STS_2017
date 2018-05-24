@@ -1,0 +1,9 @@
+det	eagle	The
+amod	eagle	bald
+nsubjpass	perched	eagle
+auxpass	perched	is
+root	ROOT	perched
+case	rope	on
+det	rope	a
+nmod:on	perched	rope
+punct	perched	.

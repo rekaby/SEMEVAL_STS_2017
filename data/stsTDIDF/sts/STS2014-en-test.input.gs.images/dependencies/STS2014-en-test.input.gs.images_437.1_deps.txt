@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+xcomp	sitting	cross
+dep	cross	legged
+case	grass	on
+det	grass	the
+nmod:on	legged	grass
+punct	man	,
+case	tree	with
+det	tree	a
+nmod:with	man	tree
+case	background	in
+det	background	the
+nmod:in	tree	background
+punct	man	.

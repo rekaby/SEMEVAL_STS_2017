@@ -1,0 +1,9 @@
+root	ROOT	unite
+cc	unite	or
+conj:or	unite	merge
+case	something	with
+nmod:with	merge	something
+advmod	existence	already
+case	existence	in
+nmod:in	something	existence
+punct	unite	.

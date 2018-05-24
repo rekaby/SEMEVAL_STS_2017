@@ -1,0 +1,10 @@
+root	ROOT	beat
+punct	whip	-LRB-
+mark	whip	as
+mark	whip	if
+punct	whip	-RRB-
+case	whip	with
+det	whip	a
+dep	beat	whip
+cc	whip	or
+conj:or	whip	rod

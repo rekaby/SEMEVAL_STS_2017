@@ -1,0 +1,11 @@
+playing	bagpipes	dobj
+day	sidewalk	nmod:on
+Man	.	punct
+costume	scottish	amod
+playing	day	nmod:on
+ROOT	Man	root
+Man	costume	nmod:in
+costume	playing	acl
+costume	in	case
+day	rainy	amod
+sidewalk	on	case

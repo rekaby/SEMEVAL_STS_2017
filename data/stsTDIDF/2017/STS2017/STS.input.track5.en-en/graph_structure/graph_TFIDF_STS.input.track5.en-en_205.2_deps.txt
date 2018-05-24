@@ -1,0 +1,11 @@
+line	bikes	nmod:of
+parked	are	auxpass
+line	A	det
+middle	street	nmod:of
+bikes	motor	compound
+parked	middle	nmod:in
+parked	.	punct
+parked	line	nsubjpass
+ROOT	parked	root
+bikes	of	case
+street	of	case

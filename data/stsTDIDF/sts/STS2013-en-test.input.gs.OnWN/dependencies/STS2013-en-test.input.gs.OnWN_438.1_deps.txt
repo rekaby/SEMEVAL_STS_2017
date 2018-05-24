@@ -1,0 +1,7 @@
+det	aspect	a
+amod	aspect	negative
+cc	negative	or
+conj:or	negative	undesirable
+root	ROOT	aspect
+case	something	of
+nmod:of	aspect	something

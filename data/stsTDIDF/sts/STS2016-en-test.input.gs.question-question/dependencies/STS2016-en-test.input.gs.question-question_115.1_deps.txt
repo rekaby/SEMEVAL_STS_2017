@@ -1,0 +1,15 @@
+aux	tell	Should
+nsubj	tell	I
+root	ROOT	tell
+amod	employer	prospective
+dobj	tell	employer
+mark	got	that
+nsubj	got	I
+ccomp	tell	got
+det	raise	a
+dobj	got	raise
+case	job	at
+nmod:poss	job	my
+amod	job	current
+nmod:at	raise	job
+punct	tell	?

@@ -1,0 +1,5 @@
+amod	war	Syrian
+amod	war	civil
+root	ROOT	war
+case	photos	in
+nmod:in	war	photos

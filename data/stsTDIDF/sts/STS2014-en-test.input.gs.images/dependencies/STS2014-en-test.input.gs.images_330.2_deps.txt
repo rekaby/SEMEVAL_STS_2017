@@ -1,0 +1,11 @@
+nummod	aircraft	Nine
+amod	aircraft	red
+cc	red	and
+conj:and	red	white
+nsubj	flying	aircraft
+root	ROOT	flying
+case	formation	in
+nmod:in	flying	formation
+amod	smoke	trailing
+dep	formation	smoke
+punct	flying	.

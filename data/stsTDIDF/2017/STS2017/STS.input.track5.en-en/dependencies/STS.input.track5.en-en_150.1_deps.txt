@@ -1,0 +1,11 @@
+det	boy	A
+nsubj	trick	boy
+aux	trick	does
+det	trick	a
+compound	trick	skateboard
+root	ROOT	trick
+case	stairs	on
+det	stairs	the
+nmod:on	trick	stairs
+dep	stairs	downtown
+punct	trick	.

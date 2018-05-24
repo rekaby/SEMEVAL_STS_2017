@@ -1,0 +1,8 @@
+compound	glories	New
+root	ROOT	glories
+case	China	for
+nmod:for	glories	China
+mark	striving	in
+acl	glories	striving
+case	renewal	for
+nmod:for	striving	renewal

@@ -1,0 +1,8 @@
+compound	evacuation	California
+compound	evacuation	wildfire
+compound	evacuation	forces
+root	ROOT	evacuation
+case	homes	of
+nmod:of	evacuation	homes
+punct	evacuation	,
+appos	evacuation	university

@@ -1,0 +1,12 @@
+nsubj	understand	I
+aux	understand	do
+neg	understand	n't
+root	ROOT	understand
+advmod	prohibited	how
+nsubjpass	prohibited	freedom
+case	speech	of
+nmod:of	freedom	speech
+aux	prohibited	will
+auxpass	prohibited	be
+ccomp	understand	prohibited
+punct	understand	.

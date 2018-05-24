@@ -1,0 +1,15 @@
+det	man	A
+amod	man	long-haired
+root	ROOT	man
+case	hat	with
+det	hat	a
+nmod:with	man	hat
+amod	hat	standing
+case	bottles	between
+nummod	bottles	two
+amod	bottles	large
+punct	bottles	,
+amod	bottles	half-empty
+compound	bottles	Coke
+nmod:between	standing	bottles
+punct	man	.

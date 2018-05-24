@@ -1,0 +1,12 @@
+compound	Klein	Schools
+compound	Klein	Chancellor
+compound	Klein	Joel
+nsubj	said	Klein
+root	ROOT	said
+nsubjpass	pleased	he
+auxpass	pleased	was
+ccomp	said	pleased
+case	results	by
+det	results	the
+nmod:agent	pleased	results
+punct	said	.

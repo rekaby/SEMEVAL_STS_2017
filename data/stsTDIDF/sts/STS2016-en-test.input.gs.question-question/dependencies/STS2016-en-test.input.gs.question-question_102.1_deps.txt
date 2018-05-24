@@ -1,0 +1,13 @@
+root	ROOT	What
+cop	What	is
+det	difference	the
+nsubj	What	difference
+case	word	between
+det	word	a
+compound	word	filler
+nmod:between	difference	word
+cc	word	and
+det	marker	a
+compound	marker	discourse
+conj:and	word	marker
+punct	What	?

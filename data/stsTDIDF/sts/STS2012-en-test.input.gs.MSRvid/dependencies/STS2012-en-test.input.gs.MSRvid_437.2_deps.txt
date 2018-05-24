@@ -1,0 +1,7 @@
+det	skunk	A
+nsubj	looks	skunk
+root	ROOT	looks
+case	camera	at
+det	camera	the
+nmod:at	looks	camera
+punct	looks	.

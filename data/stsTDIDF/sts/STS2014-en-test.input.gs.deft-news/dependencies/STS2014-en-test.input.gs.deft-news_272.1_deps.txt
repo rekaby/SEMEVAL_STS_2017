@@ -1,0 +1,12 @@
+nsubj	said	russia
+root	ROOT	said
+det	system	the
+nsubj	threat	system
+cop	threat	is
+det	threat	a
+amod	threat	clear
+ccomp	said	threat
+case	security	to
+amod	security	russian
+nmod:to	threat	security
+punct	said	.

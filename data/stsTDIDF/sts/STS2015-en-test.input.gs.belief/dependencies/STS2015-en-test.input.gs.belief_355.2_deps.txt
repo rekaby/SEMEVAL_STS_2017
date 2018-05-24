@@ -1,0 +1,6 @@
+root	ROOT	is
+nsubj	is	there
+det	property	any
+dep	there	property
+acl	property	involved
+punct	is	?

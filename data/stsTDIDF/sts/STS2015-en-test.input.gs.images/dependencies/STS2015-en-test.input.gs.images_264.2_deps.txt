@@ -1,0 +1,15 @@
+nummod	dogs	Two
+nsubj	stand	dogs
+root	ROOT	stand
+case	puddle	in
+det	puddle	a
+nmod:in	stand	puddle
+punct	stand	,
+cc	stand	and
+nsubj	has	one
+conj:and	stand	has
+det	ball	a
+amod	ball	yellow
+compound	ball	tennis
+dobj	has	ball
+punct	stand	.

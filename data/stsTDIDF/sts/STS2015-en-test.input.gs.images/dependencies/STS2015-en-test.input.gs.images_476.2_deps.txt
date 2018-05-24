@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	stands	woman
+acl	woman	wearing
+det	shirt	a
+amod	shirt	white
+dobj	wearing	shirt
+root	ROOT	stands
+case	street	on
+det	street	the
+nmod:on	stands	street
+punct	stands	.

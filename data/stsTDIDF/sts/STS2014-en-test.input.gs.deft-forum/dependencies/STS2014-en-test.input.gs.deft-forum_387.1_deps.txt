@@ -1,0 +1,10 @@
+nsubj	opposition	Part
+case	pro-life	of
+nmod:of	Part	pro-life
+cop	opposition	is
+det	opposition	the
+root	ROOT	opposition
+case	abortion	to
+amod	abortion	legalized
+nmod:to	opposition	abortion
+punct	opposition	.

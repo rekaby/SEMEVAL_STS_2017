@@ -1,0 +1,12 @@
+det	women	The
+nummod	women	two
+nsubj	eat	women
+case	shirts	in
+amod	shirts	blue
+nmod:in	women	shirts
+root	ROOT	eat
+dobj	eat	dinner
+case	kids	with
+det	kids	the
+nmod:with	eat	kids
+punct	eat	.

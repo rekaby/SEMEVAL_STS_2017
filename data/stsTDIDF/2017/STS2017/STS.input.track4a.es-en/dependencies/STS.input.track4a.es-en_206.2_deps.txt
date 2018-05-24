@@ -1,0 +1,6 @@
+root	ROOT	Woman
+mark	sweeping	inside
+acl	Woman	sweeping
+det	floor	the
+dobj	sweeping	floor
+punct	Woman	.

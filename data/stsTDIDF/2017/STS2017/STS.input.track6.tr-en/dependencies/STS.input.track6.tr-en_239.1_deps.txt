@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	wearing	boy
+aux	wearing	is
+root	ROOT	wearing
+det	outfit	an
+det	outfit	all
+amod	outfit	black
+dobj	wearing	outfit
+punct	wearing	.

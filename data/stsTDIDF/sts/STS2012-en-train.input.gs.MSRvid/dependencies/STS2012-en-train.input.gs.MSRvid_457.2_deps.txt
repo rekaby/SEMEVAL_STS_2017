@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	adds	woman
+root	ROOT	adds
+dobj	adds	ingredients
+case	beef	to
+nmod:to	ingredients	beef
+punct	adds	.

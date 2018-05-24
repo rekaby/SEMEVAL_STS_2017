@@ -1,0 +1,5 @@
+amod	congress	mobile
+compound	congress	world
+nsubj	future	congress
+amod	smartphone	future
+root	ROOT	smartphone

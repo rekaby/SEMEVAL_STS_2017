@@ -1,0 +1,10 @@
+det	bulb	the
+nsubj	path	bulb
+cc	bulb	and
+det	battery	the
+conj:and	bulb	battery
+cop	path	are
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

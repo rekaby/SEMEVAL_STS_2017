@@ -1,0 +1,14 @@
+root	ROOT	An
+amod	An	adult
+cc	adult	and
+det	child	a
+conj:and	adult	child
+dep	child	sitting
+compound:prt	sitting	down
+cc	sitting	and
+nsubj	biting	both
+aux	biting	are
+conj:and	sitting	biting
+nmod:poss	fingernails	their
+dobj	biting	fingernails
+punct	An	.

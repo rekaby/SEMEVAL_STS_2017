@@ -1,0 +1,16 @@
+det	reason	The
+nsubj	is	reason
+case	this	for
+nmod:for	reason	this
+root	ROOT	is
+mark	language	that
+nsubj	language	Russian
+cop	language	is
+det	language	a
+advmod	tonal	much
+advmod	tonal	more
+amod	language	tonal
+ccomp	is	language
+case	English	than
+nmod:than	language	English
+punct	is	.

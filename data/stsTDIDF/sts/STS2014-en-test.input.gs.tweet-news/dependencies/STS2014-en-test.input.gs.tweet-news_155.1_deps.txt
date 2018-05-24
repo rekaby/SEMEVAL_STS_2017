@@ -1,0 +1,6 @@
+compound	Arabia	Saudi
+nsubj	defends	Arabia
+root	ROOT	defends
+nmod:poss	execution	maid
+case	maid	's
+dobj	defends	execution

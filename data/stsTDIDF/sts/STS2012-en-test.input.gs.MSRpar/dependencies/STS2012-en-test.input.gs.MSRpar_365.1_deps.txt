@@ -1,0 +1,12 @@
+nummod	senators	Fifty-seven
+nsubj	signed	senators
+punct	senators	,
+case	Republicans	including
+nummod	Republicans	24
+nmod:including	senators	Republicans
+punct	senators	,
+aux	signed	have
+root	ROOT	signed
+det	letter	the
+dobj	signed	letter
+punct	signed	.

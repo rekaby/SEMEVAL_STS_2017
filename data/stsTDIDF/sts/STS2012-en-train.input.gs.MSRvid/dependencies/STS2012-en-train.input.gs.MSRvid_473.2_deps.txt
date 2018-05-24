@@ -1,0 +1,9 @@
+det	cowboy	The
+nsubj	rode	cowboy
+root	ROOT	rode
+nmod:poss	horse	his
+dobj	rode	horse
+case	desert	in
+det	desert	the
+nmod:in	rode	desert
+punct	rode	.

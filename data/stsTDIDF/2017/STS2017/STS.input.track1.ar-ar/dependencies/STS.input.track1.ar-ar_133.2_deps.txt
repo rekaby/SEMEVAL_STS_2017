@@ -1,0 +1,7 @@
+nsubj	sleeps	Someone
+root	ROOT	sleeps
+case	Altobah	on
+det	Altobah	the
+compound	Altobah	floor
+nmod:on	sleeps	Altobah
+punct	sleeps	.

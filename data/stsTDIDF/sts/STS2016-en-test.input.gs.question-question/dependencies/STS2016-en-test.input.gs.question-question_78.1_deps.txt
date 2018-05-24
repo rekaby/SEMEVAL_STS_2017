@@ -1,0 +1,10 @@
+advmod	reconnect	How
+aux	reconnect	do
+nsubj	reconnect	I
+root	ROOT	reconnect
+det	chain	a
+compound	chain	ceiling
+compound	chain	fan
+amod	chain	light
+dobj	reconnect	chain
+punct	reconnect	?

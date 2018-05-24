@@ -1,0 +1,10 @@
+nsubj	corresponds	Each
+cc	Each	and
+det	dimension	every
+conj:and	Each	dimension
+root	ROOT	corresponds
+case	term	to
+det	term	a
+amod	term	separate
+nmod:to	corresponds	term
+punct	corresponds	.

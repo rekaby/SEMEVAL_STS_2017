@@ -1,0 +1,5 @@
+amod	connected	terminal
+dep	terminal	1
+cc	1	and
+conj:and	1	4
+root	ROOT	connected

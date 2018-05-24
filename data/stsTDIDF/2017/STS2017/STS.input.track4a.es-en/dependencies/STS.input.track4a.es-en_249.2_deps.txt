@@ -1,0 +1,11 @@
+det	man	A
+nsubj	getting	man
+cc	man	and
+amod	boy	little
+conj:and	man	boy
+aux	getting	are
+root	ROOT	getting
+det	picture	a
+dobj	getting	picture
+acl	picture	taken
+punct	getting	.

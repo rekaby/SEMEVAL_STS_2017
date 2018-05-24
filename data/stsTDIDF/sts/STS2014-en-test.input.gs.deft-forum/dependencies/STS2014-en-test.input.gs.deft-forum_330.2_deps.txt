@@ -1,0 +1,11 @@
+nsubj	spying	Government
+root	ROOT	spying
+case	citizens	on
+nmod:poss	citizens	its
+amod	citizens	own
+nmod:on	spying	citizens
+punct	spying	,
+nsubj	fine	that
+cop	fine	's
+parataxis	spying	fine
+punct	spying	.

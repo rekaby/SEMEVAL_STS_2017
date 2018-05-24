@@ -1,0 +1,10 @@
+det	person	A
+nsubj	takes	person
+acl	person	sitting
+case	office	in
+det	office	an
+nmod:in	sitting	office
+root	ROOT	takes
+det	picture	a
+dobj	takes	picture
+punct	takes	.

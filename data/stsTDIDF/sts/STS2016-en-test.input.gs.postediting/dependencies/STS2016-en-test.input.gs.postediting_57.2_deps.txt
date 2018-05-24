@@ -1,0 +1,16 @@
+case	goal	With
+det	goal	a
+nmod:with	becomes	goal
+cc	goal	and
+amod	methods	simple
+conj:and	goal	methods
+punct	becomes	,
+det	Hamburg	the
+compound	Hamburg	SV
+nsubj	becomes	Hamburg
+root	ROOT	becomes
+xcomp	becomes	first
+case	league	of
+det	league	the
+nmod:of	first	league
+punct	becomes	.

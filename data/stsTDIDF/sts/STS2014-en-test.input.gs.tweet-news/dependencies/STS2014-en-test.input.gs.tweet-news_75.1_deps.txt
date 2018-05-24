@@ -1,0 +1,12 @@
+compound	keynote	CES
+root	ROOT	keynote
+punct	keynote	:
+amod	people	Young
+nsubj	#mobile	people
+nmod:tmod	people	today
+cop	#mobile	are
+punct	#mobile	`
+amod	#mobile	born
+dep	keynote	#mobile
+punct	#mobile	'
+dep	keynote	#hitech

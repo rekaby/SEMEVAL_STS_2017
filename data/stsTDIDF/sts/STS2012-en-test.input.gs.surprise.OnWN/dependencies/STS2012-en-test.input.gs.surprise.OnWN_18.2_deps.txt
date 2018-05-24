@@ -1,0 +1,12 @@
+root	ROOT	make
+amod	adjustments	fine
+dobj	make	adjustments
+cc	adjustments	or
+conj:or	adjustments	divide
+case	intervals	into
+amod	intervals	marked
+nmod:into	divide	intervals
+case	measuring	for
+amod	measuring	optimal
+nmod:for	intervals	measuring
+punct	make	.

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	office	in
+det	office	an
+nmod:in	sitting	office
+punct	sitting	.

@@ -1,0 +1,7 @@
+gather	discuss	xcomp
+discuss	business	dobj
+ROOT	gather	root
+gather	lunch	nmod:for
+gather	.	punct
+gather	men	nsubj
+lunch	for	case

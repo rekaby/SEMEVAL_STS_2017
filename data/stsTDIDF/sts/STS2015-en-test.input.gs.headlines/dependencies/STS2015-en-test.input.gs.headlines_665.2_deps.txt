@@ -1,0 +1,10 @@
+root	ROOT	4
+dep	4	dead
+punct	dead	,
+root	,	30
+acl	30	injured
+case	collision	in
+compound	collision	train
+nmod:in	injured	collision
+case	Moscow	near
+nmod:near	injured	Moscow

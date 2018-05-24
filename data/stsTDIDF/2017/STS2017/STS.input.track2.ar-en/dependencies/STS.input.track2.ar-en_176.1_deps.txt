@@ -1,0 +1,5 @@
+det	children	The
+nsubj	stole	children
+root	ROOT	stole
+det	bike	a
+dobj	stole	bike

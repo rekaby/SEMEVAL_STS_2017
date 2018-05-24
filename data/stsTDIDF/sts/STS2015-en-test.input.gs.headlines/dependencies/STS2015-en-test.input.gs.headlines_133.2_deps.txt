@@ -1,0 +1,6 @@
+nummod	crash	Ten
+amod	crash	killed
+case	plane	in
+compound	plane	Alaska
+nmod:in	killed	plane
+root	ROOT	crash

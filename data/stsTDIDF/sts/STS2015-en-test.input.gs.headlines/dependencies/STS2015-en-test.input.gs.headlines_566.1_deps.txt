@@ -1,0 +1,6 @@
+compound	attack	Suicide
+nsubj	kills	attack
+root	ROOT	kills
+dobj	kills	eight
+case	Baghdad	in
+nmod:in	kills	Baghdad

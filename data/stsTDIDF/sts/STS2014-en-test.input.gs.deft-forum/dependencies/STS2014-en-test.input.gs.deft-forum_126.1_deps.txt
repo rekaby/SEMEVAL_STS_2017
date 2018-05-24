@@ -1,0 +1,9 @@
+nmod:poss	niece	My
+nsubjpass	married	niece
+auxpass	married	is
+root	ROOT	married
+case	man	to
+det	man	a
+amod	man	black
+nmod:to	married	man
+punct	married	.

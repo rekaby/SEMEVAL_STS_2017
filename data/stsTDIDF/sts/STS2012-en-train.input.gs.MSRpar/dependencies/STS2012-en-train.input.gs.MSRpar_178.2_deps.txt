@@ -1,0 +1,13 @@
+nsubj	added	It
+root	ROOT	added
+nsubj	had	it
+ccomp	added	had
+punct	had	``
+amod	police	co-operated
+advmod	police	fully
+punct	police	''
+case	police	with
+dobj	had	police
+case	November	since
+nmod:since	had	November
+punct	added	.

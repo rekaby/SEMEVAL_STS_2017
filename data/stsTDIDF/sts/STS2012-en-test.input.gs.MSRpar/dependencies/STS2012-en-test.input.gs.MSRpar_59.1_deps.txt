@@ -1,0 +1,14 @@
+nsubj	closed	Shares
+case	Coke	of
+nmod:of	Shares	Coke
+root	ROOT	closed
+compound	trading	New
+compound	trading	York
+compound	trading	Stock
+compound	trading	Exchange
+dobj	closed	trading
+nmod:tmod	closed	Thursday
+case	$	at
+nmod:at	closed	$
+nummod	$	44.01
+punct	closed	.

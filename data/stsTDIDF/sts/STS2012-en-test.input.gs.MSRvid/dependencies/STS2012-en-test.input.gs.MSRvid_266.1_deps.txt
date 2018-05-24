@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	taking	woman
+aux	taking	is
+root	ROOT	taking
+det	picture	a
+dobj	taking	picture
+punct	taking	.

@@ -1,0 +1,12 @@
+det	X	A
+amod	X	red
+nsubj	means	X
+root	ROOT	means
+det	battery	the
+nsubj	circuit	battery
+cop	circuit	is
+case	circuit	in
+det	circuit	a
+amod	circuit	short
+ccomp	means	circuit
+punct	means	.

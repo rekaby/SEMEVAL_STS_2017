@@ -1,0 +1,6 @@
+compound	vote	Egyptians
+root	ROOT	vote
+case	election	in
+compound	election	landmark
+amod	election	presidential
+nmod:in	vote	election

@@ -1,0 +1,7 @@
+rode	surface	nmod:to
+ROOT	rode	root
+rode	.	punct
+surface	to	case
+rode	man	nsubj
+rode	elevator	dobj
+elevator	the	det

@@ -1,0 +1,9 @@
+nsubj	thought	I
+root	ROOT	thought
+nsubj	Dutch	that
+cop	Dutch	was
+advmod	just	mostly
+advmod	Dutch	just
+det	Dutch	the
+ccomp	thought	Dutch
+punct	thought	.

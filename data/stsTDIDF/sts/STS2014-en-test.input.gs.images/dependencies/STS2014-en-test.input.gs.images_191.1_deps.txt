@@ -1,0 +1,9 @@
+nummod	birds	Two
+nsubjpass	perched	birds
+auxpass	perched	are
+root	ROOT	perched
+case	band	on
+det	band	a
+compound	band	metal
+nmod:on	perched	band
+punct	perched	.

@@ -1,0 +1,8 @@
+compound	suspect	Mumbai
+compound	suspect	police
+compound	suspect	arrest
+amod	suspect	fifth
+root	ROOT	suspect
+case	case	in
+amod	case	gang-rape
+nmod:in	suspect	case

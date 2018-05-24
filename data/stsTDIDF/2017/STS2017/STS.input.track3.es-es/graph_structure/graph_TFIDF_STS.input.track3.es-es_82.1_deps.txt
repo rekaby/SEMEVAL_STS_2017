@@ -1,0 +1,10 @@
+secure	look	advcl
+climbing	.	punct
+climbing	secure	advcl
+look	people	nsubj
+climbing	person	nsubj
+climbing	is	aux
+ROOT	climbing	root
+secure	flag	dobj
+pole	a	det
+climbing	pole	dobj

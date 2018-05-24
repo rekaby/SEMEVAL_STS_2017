@@ -1,0 +1,16 @@
+root	ROOT	reply
+advmod	reply	verbally
+cc	verbally	or
+case	form	in
+amod	form	written
+conj:or	verbally	form
+case	question	to
+det	question	a
+nmod:to	verbally	question
+punct	question	,
+conj:or	question	comment
+punct	question	,
+conj:or	question	letter
+punct	question	,
+cc	question	or
+conj:or	question	speech

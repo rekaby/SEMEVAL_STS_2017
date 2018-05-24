@@ -1,0 +1,7 @@
+compound	jets	Japan
+compound	jets	scrambles
+root	ROOT	jets
+case	planes	against
+amod	planes	Russian
+amod	planes	military
+nmod:against	jets	planes

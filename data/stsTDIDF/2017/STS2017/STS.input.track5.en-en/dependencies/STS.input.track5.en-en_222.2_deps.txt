@@ -1,0 +1,10 @@
+det	player	The
+compound	player	soccer
+nsubj	gave	player
+root	ROOT	gave
+det	ball	the
+iobj	gave	ball
+det	kick	a
+amod	kick	high
+dobj	gave	kick
+punct	gave	.

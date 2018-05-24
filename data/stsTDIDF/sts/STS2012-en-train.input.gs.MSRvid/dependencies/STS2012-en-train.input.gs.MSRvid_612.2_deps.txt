@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+dobj	putting	meat
+case	pan	in
+det	pan	a
+nmod:in	putting	pan
+punct	putting	.

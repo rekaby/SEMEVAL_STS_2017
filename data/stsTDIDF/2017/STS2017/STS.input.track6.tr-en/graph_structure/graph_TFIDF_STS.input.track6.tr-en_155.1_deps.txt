@@ -1,0 +1,7 @@
+feeding	man	nmod:to
+woman	older	amod
+feeding	.	punct
+feeding	is	aux
+feeding	oranges	dobj
+ROOT	feeding	root
+feeding	woman	nsubj

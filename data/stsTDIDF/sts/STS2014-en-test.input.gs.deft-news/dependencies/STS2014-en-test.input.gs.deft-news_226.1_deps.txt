@@ -1,0 +1,10 @@
+compound	m.	naeem
+nsubjpass	hanged	m.
+auxpass	hanged	was
+root	ROOT	hanged
+case	zabol	in
+nmod:in	hanged	zabol
+punct	zabol	,
+compound	province	sistan-baluchestan
+appos	zabol	province
+punct	hanged	.

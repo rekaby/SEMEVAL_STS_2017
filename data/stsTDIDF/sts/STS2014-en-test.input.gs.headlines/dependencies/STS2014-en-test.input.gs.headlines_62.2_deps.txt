@@ -1,0 +1,6 @@
+nsubj	fall	Hundreds
+root	ROOT	fall
+amod	factory	sick
+case	Bangladesh	in
+nmod:in	sick	Bangladesh
+dobj	fall	factory

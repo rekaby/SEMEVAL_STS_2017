@@ -1,0 +1,6 @@
+driving	car	dobj
+driving	man	nsubj
+driving	is	aux
+ROOT	driving	root
+driving	.	punct
+car	blue	amod

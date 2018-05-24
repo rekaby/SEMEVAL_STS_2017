@@ -1,0 +1,9 @@
+nsubj	thought	Discipline
+case	student	against
+nmod:against	Discipline	student
+root	ROOT	thought
+mark	key	to
+cop	key	be
+xcomp	thought	key
+case	motive	to
+nmod:to	key	motive

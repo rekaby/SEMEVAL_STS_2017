@@ -1,0 +1,9 @@
+det	act	The
+root	ROOT	act
+mark	moving	of
+acl	act	moving
+case	manner	in
+det	manner	a
+amod	manner	hurried
+nmod:in	moving	manner
+punct	act	.

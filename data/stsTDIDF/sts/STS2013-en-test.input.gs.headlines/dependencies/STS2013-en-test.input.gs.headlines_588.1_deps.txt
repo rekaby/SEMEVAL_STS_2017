@@ -1,0 +1,7 @@
+nsubj	says	Key
+root	ROOT	says
+nsubj	visit	marae
+ccomp	says	visit
+det	opportunity	a
+amod	opportunity	lost
+dobj	visit	opportunity

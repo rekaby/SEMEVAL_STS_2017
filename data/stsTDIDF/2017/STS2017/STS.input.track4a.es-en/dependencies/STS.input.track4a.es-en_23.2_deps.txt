@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+case	something	over
+nmod:over	jumps	something
+punct	jumps	.

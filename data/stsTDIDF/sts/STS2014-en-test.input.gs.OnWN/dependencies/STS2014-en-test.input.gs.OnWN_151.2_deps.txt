@@ -1,0 +1,13 @@
+root	ROOT	cleanse
+case	agent	with
+det	agent	a
+compound	agent	cleaning
+nmod:with	cleanse	agent
+punct	agent	,
+case	soap	such
+mwe	such	as
+nmod:such_as	agent	soap
+punct	agent	,
+cc	agent	and
+conj:and	agent	water
+punct	cleanse	.

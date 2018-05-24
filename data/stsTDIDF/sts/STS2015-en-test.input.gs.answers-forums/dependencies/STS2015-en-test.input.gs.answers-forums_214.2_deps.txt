@@ -1,0 +1,17 @@
+nsubj	tautology	It
+cop	tautology	's
+det	tautology	a
+root	ROOT	tautology
+punct	tautology	,
+cc	tautology	but
+det	mapping	the
+nsubj	wrong	mapping
+case	logic	between
+nmod:between	mapping	logic
+cc	logic	and
+det	description	the
+amod	description	English-language
+conj:and	logic	description
+cop	wrong	is
+conj:but	tautology	wrong
+punct	tautology	.

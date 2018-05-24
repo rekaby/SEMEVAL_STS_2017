@@ -1,0 +1,6 @@
+det	artist	A
+nsubj	work	artist
+cop	work	is
+neg	work	not
+case	work	at
+root	ROOT	work

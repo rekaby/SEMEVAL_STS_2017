@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+det	onion	an
+dobj	slicing	onion
+case	knife	with
+det	knife	a
+nmod:with	slicing	knife
+punct	slicing	.

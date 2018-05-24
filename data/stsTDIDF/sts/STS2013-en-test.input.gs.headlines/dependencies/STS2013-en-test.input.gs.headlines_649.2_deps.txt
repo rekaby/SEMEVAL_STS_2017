@@ -1,0 +1,7 @@
+amod	US	Senior
+root	ROOT	US
+amod	US	general
+dep	general	linked
+case	scandal	to
+compound	scandal	Petraeus
+nmod:to	linked	scandal

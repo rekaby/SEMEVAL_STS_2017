@@ -1,0 +1,8 @@
+det	group	a
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	appointed
+case	committee	to
+det	committee	a
+nmod:to	appointed	committee

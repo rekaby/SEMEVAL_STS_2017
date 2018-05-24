@@ -1,0 +1,11 @@
+root	ROOT	unique
+cc	unique	or
+conj:or	unique	specific
+case	person	to
+det	person	a
+nmod:to	unique	person
+cc	person	or
+conj:or	person	thing
+cc	person	or
+conj:or	person	category
+punct	unique	;

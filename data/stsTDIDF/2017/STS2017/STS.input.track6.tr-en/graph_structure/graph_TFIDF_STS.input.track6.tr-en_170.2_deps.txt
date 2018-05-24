@@ -1,0 +1,10 @@
+looking	man	nsubj
+object	at	case
+looking	object	nmod:at
+man	wearing	dep
+wearing	glasses	dobj
+wearing	hat	dobj
+object	an	det
+hat	black	amod
+wearing	and	cc
+object	hand	nmod:in

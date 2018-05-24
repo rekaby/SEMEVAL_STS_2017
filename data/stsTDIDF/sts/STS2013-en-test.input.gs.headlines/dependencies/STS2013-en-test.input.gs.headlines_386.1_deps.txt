@@ -1,0 +1,8 @@
+case	CPAC	At
+nmod:at	Stresses	CPAC
+punct	Stresses	,
+compound	Romney	Mitt
+nsubj	Stresses	Romney
+root	ROOT	Stresses
+amod	Credentials	Conservative
+dobj	Stresses	Credentials

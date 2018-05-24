@@ -1,0 +1,16 @@
+nsubj	exercise	It
+cop	exercise	is
+det	nation	the
+nmod:poss	exercise	nation
+case	nation	's
+amod	exercise	first
+amod	exercise	large-scale
+compound	exercise	counterterrorism
+root	ROOT	exercise
+case	attacks	since
+det	attacks	the
+compound	attacks	Sept.
+nummod	attacks	11
+amod	attacks	terrorist
+nmod:since	exercise	attacks
+punct	exercise	.

@@ -1,0 +1,15 @@
+advmod	operational	When
+advmod	operational	fully
+advcl	expected	operational
+punct	expected	,
+det	facility	the
+nsubjpass	expected	facility
+auxpass	expected	is
+root	ROOT	expected
+mark	employ	to
+xcomp	expected	employ
+compound:prt	employ	up
+case	people	to
+nummod	people	1,000
+nmod:to	employ	people
+punct	expected	.

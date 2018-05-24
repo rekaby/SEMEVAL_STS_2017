@@ -1,0 +1,750 @@
+[A/DT, cat/NN, standing/NN, on/IN, tree/NN, branches/NNS, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, high/JJ, up/RP, on/IN, tree/NN, branches/NNS, ./.] 	1
+[Two/CD, green/JJ, and/CC, white/JJ, trains/NNS, sitting/VBG, on/IN, the/DT, tracks/NNS, ./.] 	[Two/CD, green/JJ, and/CC, white/JJ, trains/NNS, on/IN, tracks/NNS, ./.] 	2
+[A/DT, small/JJ, white/JJ, cat/NN, with/IN, glowing/JJ, eyes/NNS, standing/VBG, underneath/IN, a/DT, chair/NN, ./.] 	[A/DT, white/JJ, cat/NN, stands/VBZ, on/IN, the/DT, floor/NN, ./.] 	3
+[A/DT, large/JJ, boat/NN, in/IN, the/DT, water/NN, at/IN, the/DT, marina/NN, ./.] 	[A/DT, large/JJ, boat/NN, on/IN, the/DT, sea/NN, ./.] 	4
+[a/DT, bus/NN, driving/VBG, in/IN, a/DT, street/NN, ./.] 	[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, street/NN, ./.] 	5
+[The/DT, lamb/NN, is/VBZ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, small/JJ, bird/NN, standing/NN, on/IN, a/DT, log/NN, at/IN, the/DT, waters/NNS, edge/NN, ./.] 	6
+[A/DT, passenger/NN, train/NN, waiting/VBG, in/IN, a/DT, station/NN, ./.] 	[A/DT, passenger/NN, train/NN, sits/VBZ, in/IN, the/DT, station/NN, ./.] 	7
+[a/DT, woman/NN, at/IN, a/DT, dinner/NN, table/NN, writing/VBG, on/IN, her/PRP$, notebook/NN, ./.] 	[Woman/NNP, at/IN, table/NN, busy/JJ, with/IN, something/NN, ./.] 	8
+[An/DT, Apple/NNP, computer/NN, sitting/VBG, on/IN, the/DT, floor/NN, ./.] 	[A/DT, Macintosh/NNP, computer/NN, sitting/VBG, on/IN, the/DT, floor/NN, ./.] 	9
+[A/DT, close-up/NN, of/IN, a/DT, brown/JJ, horse/NN, 's/POS, head/NN, ./.] 	[A/DT, side/NN, view/NN, of/IN, a/DT, horse/NN, 's/POS, head/NN, ./.] 	10
+[A/DT, group/NN, of/IN, people/NNS, eat/VBP, at/IN, a/DT, table/NN, outside/NN, ./.] 	[Group/NN, of/IN, elderly/JJ, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, ./.] 	11
+[The/DT, curious/JJ, boys/NNS, look/VB, in/IN, the/DT, shed/NN, ./.] 	[Two/CD, small/JJ, boys/NNS, in/IN, a/DT, woody/NN, area/NN, looking/VBG, at/IN, a/DT, shed/NN, ./.] 	12
+[A/DT, jockey/NN, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, jockey/NN, riding/VBG, a/DT, horse/NN, in/IN, a/DT, pen/NN, ./.] 	13
+[A/DT, bull/NN, standing/NN, in/IN, the/DT, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, stands/VBZ, in/IN, a/DT, lush/JJ, green/JJ, field/NN, ./.] 	14
+[The/DT, man/NN, is/VBZ, riding/VBG, a/DT, motorcycle/NN, down/IN, the/DT, road/NN, ./.] 	[A/DT, man/NN, is/VBZ, riding/VBG, a/DT, red/JJ, motorcycle/NN, on/IN, the/DT, road/NN, ./.] 	15
+[A/DT, woman/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, young/JJ, girl/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	16
+[The/DT, black/JJ, and/CC, white/JJ, cows/NNS, pause/VB, in/IN, front/NN, of/IN, the/DT, gate/NN, ./.] 	[A/DT, black/JJ, cow/NN, and/CC, a/DT, brown/JJ, cow/NN, stands/VBZ, in/IN, a/DT, plain/NN, in/IN, front/NN, of/IN, an/DT, uprooted/VBN, tree/NN, ./.] 	17
+[A/DT, kid/NN, jumping/VBG, a/DT, ledge/NN, with/IN, a/DT, bike/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, playing/VBG, with/IN, a/DT, blanket/NN, ./.] 	18
+[A/DT, moped/NN, in/IN, front/NN, of/IN, steps/NNS, of/IN, ruins/NNS, ./.] 	[A/DT, moped/NN, in/IN, front/NN, of/IN, ruins/NNS, ./.] 	19
+[A/DT, man/NN, sleeps/VBZ, with/IN, a/DT, baby/NN, in/IN, his/PRP$, lap/NN, ./.] 	[A/DT, man/NN, asleep/RB, in/IN, a/DT, chair/NN, holding/VBG, a/DT, baby/NN, ./.] 	20
+[A/DT, group/NN, of/IN, four/CD, people/NNS, in/IN, a/DT, dinner/NN, having/VBG, cake/NN, ./.] 	[Four/CD, people/NNS, eating/VBG, dessert/NN, around/IN, a/DT, table/NN, ./.] 	21
+[A/DT, black/JJ, dog/NN, standing/NN, in/IN, front/NN, of/IN, yellow/JJ, flowers/NNS, ./.] 	[A/DT, black/JJ, dog/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	22
+[Close/VB, up/IN, of/IN, a/DT, bottle/NN, of/IN, water/NN, ./.] 	[A/DT, close/NN, up/RP, view/NN, of/IN, a/DT, bottle/NN, of/IN, water/NN, ./.] 	23
+[A/DT, close/NN, up/IN, of/IN, a/DT, brown/JJ, faced/VBN, cat/NN, ./.] 	[A/DT, close/NN, up/IN, of/IN, an/DT, ostrich/JJ, face/NN, ./.] 	24
+[sheep/NN, standing/NN, in/IN, afield/NN, ./.] 	[A/DT, sheep/NN, grazing/NN, in/IN, a/DT, field/NN, ./.] 	25
+[A/DT, group/NN, of/IN, people/NNS, eat/VBP, at/IN, a/DT, table/NN, outside/NN, ./.] 	[A/DT, group/NN, of/IN, elderly/JJ, people/NNS, pose/VBP, around/IN, a/DT, dining/NN, table/NN, ./.] 	26
+[A/DT, longed-haired/JJ, cat/NN, with/IN, it/PRP, 's/VBZ, eyes/NNS, closed/VBD, ./.] 	[A/DT, close/NN, up/IN, of/IN, a/DT, cat/NN, with/IN, its/PRP$, eyes/NNS, closed/VBD, ./.] 	27
+[A/DT, woman/NN, in/IN, a/DT, gray/JJ, shirt/NN, smiles/VBZ, for/IN, the/DT, camera/NN, while/IN, the/DT, woman/NN, behind/IN, her/PRP$, makes/NNS, a/DT, face/NN, ./.] 	[A/DT, woman/NN, with/IN, a/DT, surprised/JJ, look/NN, on/IN, her/PRP$, face/NN, is/VBZ, holding/VBG, a/DT, smiling/VBG, woman/NN, from/IN, behind/RB, ./.] 	28
+[A/DT, silver/NN, and/CC, blue/JJ, Amtrak/NNP, train/NN, on/IN, the/DT, tracks/NNS, near/IN, a/DT, small/JJ, train/NN, station/NN, ./.] 	[A/DT, small/JJ, white/JJ, car/NN, parked/VBN, at/IN, the/DT, gas/NN, station/NN, ./.] 	29
+[A/DT, person/NN, in/IN, a/DT, blue/JJ, shirt/NN, reclines/VBZ, near/IN, a/DT, coffee/NN, table/NN, and/CC, television/NN, ./.] 	[A/DT, person/NN, stands/VBZ, on/IN, the/DT, motorcycle/NN, seat/NN, and/CC, pops/VBZ, a/DT, wheelie/NN, ./.] 	30
+[Two/CD, cats/NNS, are/VBP, looking/VBG, at/IN, a/DT, window/NN, ./.] 	[A/DT, white/JJ, cat/NN, looking/VBG, out/IN, of/IN, a/DT, window/NN, ./.] 	31
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, woman/NN, showing/VBG, a/DT, horse/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, cows/NNS, in/IN, their/PRP$, stalls/NNS, ./.] 	32
+[A/DT, dark/JJ, brown/JJ, horse/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, stands/VBZ, in/IN, a/DT, lush/JJ, green/JJ, field/NN, ./.] 	33
+[A/DT, pitched/JJ, tent/NN, with/IN, a/DT, horse/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, lamb/NN, with/IN, other/JJ, lambs/NNS, in/IN, the/DT, background/NN, ./.] 	34
+[Older/JJR, man/NN, wearing/VBG, beret/NN, with/IN, mountains/NNS, in/IN, background/NN, ./.] 	[A/DT, sheep/NN, in/IN, the/DT, morning/NN, mist/NN, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	35
+[The/DT, cows/NNS, feed/NN, in/IN, the/DT, trough/NN, ./.] 	[The/DT, brown/JJ, and/CC, white/JJ, cows/NNS, are/VBP, eating/VBG, in/IN, the/DT, trough/NN, ./.] 	36
+[A/DT, small/JJ, red/JJ, and/CC, gray/JJ, bird/NN, perched/VBD, amongst/IN, the/DT, bare/JJ, branches/NNS, of/IN, a/DT, tree/NN, ./.] 	[A/DT, red/JJ, and/CC, brown/JJ, bird/NN, is/VBZ, perched/VBN, on/IN, branches/NNS, ./.] 	37
+[A/DT, person/NN, wearing/VBG, a/DT, helmet/NN, rides/NNS, a/DT, bike/NN, near/IN, a/DT, white/JJ, structure/NN, ./.] 	[A/DT, girl/NN, wearing/VBG, black/JJ, shorts/NNS, and/CC, boots/NNS, is/VBZ, standing/VBG, next/JJ, to/TO, a/DT, blue/JJ, motorcycle/NN, ./.] 	38
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, with/IN, food/NN, on/IN, it/PRP, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sit/VBP, around/IN, a/DT, table/NN, with/IN, food/NN, and/CC, beer/NN, ./.] 	39
+[A/DT, black/JJ, and/CC, wood/NN, colored/VBN, dining/VBG, room/NN, set/NN, in/IN, a/DT, small/JJ, apartment/NN, ./.] 	[Black/JJ, and/CC, brown/JJ, table/NN, in/IN, living/VBG, room/NN, setting/NN, ./.] 	40
+[A/DT, brown/JJ, horse/NN, stands/VBZ, in/IN, a/DT, lush/JJ, green/JJ, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, in/IN, a/DT, green/JJ, field/NN, ./.] 	41
+[a/DT, black/JJ, and/CC, white/JJ, cow/NN, in/IN, hay/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cow/NN, in/IN, a/DT, pen/NN, with/IN, hay/NN, ./.] 	42
+[An/DT, elderly/JJ, woman/NN, stands/VBZ, in/IN, a/DT, kitchen/NN, with/IN, two/CD, cats/NNS, at/IN, her/PRP$, feet/NNS, ./.] 	[The/DT, old/JJ, lady/NN, is/VBZ, standing/VBG, in/IN, the/DT, kitchen/NN, with/IN, two/CD, cats/NNS, at/IN, her/PRP$, feet/NNS, ./.] 	43
+[A/DT, school/NN, bus/NN, is/VBZ, driving/VBG, uphill/JJ, on/IN, a/DT, rural/JJ, road/NN, ./.] 	[A/DT, race/NN, care/NN, driving/VBG, along/IN, a/DT, dirt/NN, road/NN, ./.] 	44
+[A/DT, bag/NN, of/IN, cotton/NN, in/IN, front/NN, of/IN, a/DT, couch/NN, ./.] 	[Calico/JJ, cat/NN, sitting/VBG, on/IN, step/NN, in/IN, front/NN, of/IN, a/DT, door/NN, ./.] 	45
+[Camouflage/NN, airplane/NN, sitting/VBG, on/IN, grassy/JJ, field/NN, ./.] 	[A/DT, camouflaged/VBN, plane/NN, sitting/VBG, on/IN, the/DT, green/JJ, grass/NN, ./.] 	46
+[Three/CD, young/JJ, women/NNS, standing/VBG, in/IN, a/DT, room/NN, together/RB, ./.] 	[Two/CD, Indian/JJ, women/NNS, with/IN, two/CD, Indian/JJ, girls/NNS, near/IN, the/DT, water/NN, ./.] 	47
+[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, through/IN, the/DT, streets/NNS, ./.] 	[Double/JJ, decker/NN, passenger/NN, bus/NN, driving/VBG, with/IN, traffic/NN, ./.] 	48
+[A/DT, white/JJ, sheep/NN, on/IN, a/DT, hillside/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[The/DT, skinny/JJ, cows/NNS, are/VBP, standing/VBG, on/IN, the/DT, grass/NN, ./.] 	49
+[A/DT, group/NN, of/IN, sheep/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, group/NN, of/IN, horses/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	50
+[A/DT, close-up/NN, ,/,, distorted/JJ, photo/NN, of/IN, an/DT, empty/JJ, glass/NN, Coke/NNP, bottle/NN, ./.] 	[A/DT, close-up/NN, picture/NN, of/IN, a/DT, desk/NN, with/IN, a/DT, computer/NN, and/CC, papers/NNS, on/IN, it/PRP, ./.] 	51
+[Very/RB, crowded/VBN, office/NN, desk/NN, with/IN, computer/NN, monitor/NN, on/IN, ./.] 	[Messy/JJ, computer/NN, desk/NN, with/IN, two/CD, monitors/NNS, ./.] 	52
+[A/DT, man/NN, sitting/VBG, in/IN, a/DT, cluttered/JJ, room/NN, ./.] 	[A/DT, man/NN, lies/VBZ, in/IN, a/DT, bed/NN, in/IN, a/DT, cluttered/JJ, room/NN, ./.] 	53
+[Two/CD, white/JJ, cows/NNS, in/IN, a/DT, green/JJ, pasture/NN, ./.] 	[The/DT, tan/NN, horse/NN, is/VBZ, in/IN, the/DT, pasture/NN, ./.] 	54
+[A/DT, man/NN, with/IN, a/DT, bicycle/NN, at/IN, a/DT, coffee/NN, house/NN, ./.] 	[Man/NN, walking/VBG, bicycle/NN, to/TO, patio/NN, of/IN, a/DT, coffee/NN, shop/NN, ./.] 	55
+[Black/JJ, cow/NN, walking/VBG, under/IN, trees/NNS, in/IN, pasture/NN, ./.] 	[Cow/NN, walking/VBG, under/IN, the/DT, tree/NN, in/IN, a/DT, pasture/NN, ./.] 	56
+[Two/CD, horses/NNS, standing/VBG, in/IN, a/DT, field/NN, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, bird/NN, on/IN, a/DT, body/NN, of/IN, water/NN, with/IN, grass/NN, in/IN, the/DT, background/NN, ./.] 	57
+[Two/CD, people/NNS, sitting/VBG, at/IN, a/DT, table/NN, at/IN, a/DT, restaurant/NN, ./.] 	[four/CD, people/NNS, sitting/VBG, at/IN, a/DT, table/NN, ./.] 	58
+[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	[A/DT, red/JJ, two/CD, story/NN, bus/NN, driving/VBG, along/IN, the/DT, street/NN, ./.] 	59
+[A/DT, smiling/VBG, woman/NN, with/IN, a/DT, beer/NN, sitting/VBG, outside/JJ, with/IN, another/DT, smiling/VBG, woman/NN, ./.] 	[Two/CD, women/NNS, sitting/VBG, outside/JJ, laughing/NN, ./.] 	60
+[A/DT, bird/NN, holding/VBG, on/IN, to/TO, a/DT, metal/NN, gate/NN, ./.] 	[A/DT, multi-colored/JJ, bird/NN, clings/NNS, to/TO, a/DT, wire/NN, fence/NN, ./.] 	61
+[The/DT, skinny/JJ, cows/NNS, are/VBP, standing/VBG, on/IN, the/DT, grass/NN, ./.] 	[The/DT, white/JJ, ducks/NNS, are/VBP, standing/VBG, on/IN, the/DT, ground/NN, ./.] 	62
+[A/DT, women/NNS, laying/VBG, across/IN, two/CD, men/NNS, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	[A/DT, man/NN, and/CC, two/CD, women/NNS, smiling/VBG, at/IN, the/DT, camera/NN, while/IN, sitting/VBG, on/IN, a/DT, blue/JJ, sofa/NN, ./.] 	63
+[a/DT, woman/NN, with/IN, a/DT, big/JJ, necklace/NN, ./.] 	[A/DT, young/JJ, woman/NN, with/IN, a/DT, black/JJ, top/NN, and/CC, a/DT, necklace/NN, ./.] 	64
+[Brown/JJ, cow/NN, with/IN, horns/NNS, standing/VBG, in/IN, a/DT, field/NN, ./.] 	[Brown/JJ, horse/NN, standing/NN, in/IN, middle/NN, of/IN, grassy/JJ, field/NN, ./.] 	65
+[A/DT, cruise/NN, liner/NN, docked/VBN, at/IN, the/DT, shoreline/NN, ./.] 	[A/DT, cruise/NN, ship/NN, docked/VBN, at/IN, shore/NN, ./.] 	66
+[Black/JJ, and/CC, white/JJ, cat/NN, lying/VBG, under/IN, bush/NN, ./.] 	[The/DT, black/JJ, and/CC, white/JJ, cat/NN, with/IN, yellow/JJ, eyes/NNS, lounges/NNS, in/IN, the/DT, dirt/NN, ./.] 	67
+[Brown/NNP, and/CC, white/JJ, cow/NN, standing/NN, in/IN, grass/NN, at/IN, side/NN, of/IN, road/NN, ./.] 	[A/DT, brown/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, a/DT, grassy/JJ, area/NN, with/IN, trees/NNS, behind/IN, ./.] 	68
+[A/DT, small/JJ, dog/NN, looking/VBG, up/RP, at/IN, the/DT, camera/NN, while/IN, standing/VBG, on/IN, grass/NN, ./.] 	[A/DT, man/NN, and/CC, women/NNS, smiling/VBG, at/IN, the/DT, camera/NN, while/IN, standing/VBG, in/IN, a/DT, kitchen/NN, ./.] 	69
+[A/DT, tan/NN, calf/NN, with/IN, a/DT, yellow/JJ, tag/NN, on/IN, his/PRP$, left/JJ, ear/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, man/NN, with/IN, glasses/NNS, and/CC, two/CD, plastic/JJ, bottles/NNS, in/IN, the/DT, foreground/NN, ./.] 	70
+[Black/JJ, and/CC, white/JJ, photo/NN, of/IN, couch/NN, with/IN, purse/NN, at/IN, one/CD, end/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cow/NN, under/IN, a/DT, tree/NN, ./.] 	71
+[The/DT, lamb/NN, is/VBZ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	72
+[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, on/IN, a/DT, crowded/JJ, street/NN, ./.] 	[A/DT, double/JJ, decker/NN, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	73
+[A/DT, jockey/NN, riding/VBG, a/DT, horse/NN, in/IN, a/DT, pen/NN, ./.] 	[A/DT, jockey/NN, rides/NNS, a/DT, horse/NN, at/IN, a/DT, gallop/NN, ./.] 	74
+[Two/CD, men/NNS, on/IN, boat/NN, floating/VBG, on/IN, the/DT, water/NN, ./.] 	[Large/JJ, green/JJ, boat/NN, floating/VBG, on/IN, water.l/NN, ./.] 	75
+[This/DT, is/VBZ, a/DT, rear/JJ, view/NN, of/IN, a/DT, Chevrolet/NNP, sports/NNS, car/NN, ./.] 	[The/DT, rear/JJ, view/NN, of/IN, a/DT, red/JJ, Chevrolet/NNP, concept/NN, car/NN, ./.] 	76
+[A/DT, person/NN, wearing/VBG, a/DT, helmet/NN, rides/NNS, a/DT, bike/NN, near/IN, a/DT, white/JJ, structure/NN, ./.] 	[A/DT, person/NN, wearing/VBG, a/DT, bike/NN, helmet/NN, rides/NNS, a/DT, bike/NN, on/IN, a/DT, path/NN, through/IN, trees/NNS, ./.] 	77
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, an/DT, old/JJ, train/NN, station/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, motorcycle/NN, laying/VBG, on/IN, the/DT, ground/NN, ./.] 	78
+[A/DT, grey/JJ, and/CC, white/JJ, tabby/NN, cat/NN, is/VBZ, sleeping/VBG, on/IN, purple/JJ, fabric/NN, ./.] 	[Black/JJ, and/CC, white/JJ, cat/NN, sleeping/VBG, on/IN, a/DT, brown/JJ, tarp/NN, ./.] 	79
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, high/JJ, up/RP, on/IN, tree/NN, branches/NNS, ./.] 	[Black/JJ, and/CC, white/JJ, lamb/NN, with/IN, tag/NN, in/IN, right/JJ, ear/NN, ./.] 	80
+[A/DT, woman/NN, holding/VBG, a/DT, small/JJ, baby/NN, ./.] 	[A/DT, smiling/VBG, woman/NN, holding/VBG, a/DT, small/JJ, baby/NN, ./.] 	81
+[Group/NN, of/IN, horses/NNS, grazing/NN, in/IN, grassy/JJ, field/NN, ./.] 	[A/DT, group/NN, of/IN, horses/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	82
+[Three/CD, men/NNS, are/VBP, sitting/VBG, down/RP, at/IN, a/DT, table/NN, that/WDT, has/VBZ, drinks/NNS, on/IN, it/PRP, ./.] 	[Three/CD, men/NNS, sitting/VBG, at/IN, the/DT, table/NN, with/IN, beer/NN, and/CC, food/NN, ./.] 	83
+[Two/CD, people/NNS, dressed/VBN, in/IN, white/JJ, standing/NN, on/IN, a/DT, grass/NN, field/NN, ./.] 	[A/DT, person/NN, is/VBZ, standing/VBG, underneath/IN, an/DT, overpass/NN, near/IN, a/DT, highway/NN, ./.] 	84
+[A/DT, young/JJ, blonde/JJ, girl/NN, wearing/VBG, a/DT, helmet/NN, sits/VBZ, with/IN, a/DT, red/JJ, bicycle/NN, behind/IN, her/PRP, ./.] 	[A/DT, young/JJ, girl/NN, wearing/VBG, a/DT, bike/NN, helmet/NN, with/IN, a/DT, bicycle/NN, in/IN, the/DT, background/NN, ./.] 	85
+[An/DT, orange/JJ, tabby/NN, cat/NN, sleeping/VBG, on/IN, the/DT, sofa/NN, ./.] 	[A/DT, man/NN, is/VBZ, watching/VBG, TV/NN, on/IN, the/DT, foot/NN, of/IN, his/PRP$, bed/NN, ./.] 	86
+[Two/CD, Eagles/NNPS, perched/VBD, on/IN, a/DT, branch/NN, ./.] 	[Two/CD, bald/JJ, eagles/NNS, perched/VBN, on/IN, a/DT, branch/NN, ./.] 	87
+[A/DT, striped/JJ, cat/NN, laying/VBG, down/RP, on/IN, a/DT, bag/NN, of/IN, cat/NN, litter/NN, ./.] 	[Domestic/JJ, cat/NN, laying/VBG, on/IN, back/NN, of/IN, cat/NN, litter/NN, ./.] 	88
+[Blue/NNP, couch/NN, and/CC, twin/JJ, bed/NN, in/IN, a/DT, living/NN, room/NN, ./.] 	[Blue/NNP, couch/NN, in/IN, room/NN, with/IN, sun/NN, shining/VBG, in/IN, ./.] 	89
+[A/DT, man/NN, and/CC, small/JJ, child/NN, in/IN, a/DT, living/NN, room/NN, posing/VBG, for/IN, the/DT, camera/NN, ./.] 	[A/DT, man/NN, and/CC, woman/NN, are/VBP, posing/VBG, for/IN, the/DT, camera/NN, ./.] 	90
+[A/DT, home/NN, office/NN, with/IN, three/CD, computer/NN, monitors/NNS, and/CC, other/JJ, equipment/NN, on/IN, a/DT, desk/NN, ./.] 	[Room/NN, with/IN, several/JJ, computer/NN, monitors/NNS, ./.] 	91
+[Five/CD, birds/NNS, stand/VBP, on/IN, the/DT, snow/NN, ./.] 	[Several/JJ, cardinals/NNS, stand/VBP, in/IN, the/DT, snow/NN, ./.] 	92
+[The/DT, udders/NNS, of/IN, a/DT, dairy/NN, cow/NN, that/WDT, is/VBZ, standing/VBG, in/IN, a/DT, pasture/NN, near/IN, a/DT, large/JJ, building/NN, ./.] 	[The/DT, black/JJ, and/CC, brown/JJ, cow/NN, is/VBZ, standing/VBG, on/IN, the/DT, green/JJ, grass/NN, ./.] 	93
+[A/DT, black/JJ, vehicle/NN, parked/VBN, with/IN, a/DT, vies/NNS, of/IN, low-lying/JJ, mountains/NNS, ./.] 	[A/DT, black/JJ, car/NN, parked/VBN, in/IN, the/DT, dirt/NN, out/RP, in/IN, the/DT, country/NN, ./.] 	94
+[A/DT, passenger/NN, train/NN, in/IN, the/DT, snow/NN, ./.] 	[A/DT, passenger/NN, train/NN, waiting/VBG, in/IN, a/DT, station/NN, ./.] 	95
+[The/DT, black/JJ, bird/NN, is/VBZ, sitting/VBG, on/IN, the/DT, ground/NN, ./.] 	[A/DT, blackbird/NN, sitting/VBG, on/IN, the/DT, ground/NN, ./.] 	96
+[The/DT, black/JJ, and/CC, white/JJ, bull/NN, is/VBZ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	97
+[A/DT, woman/NN, posing/VBG, by/IN, a/DT, pillar/NN, with/IN, a/DT, U2/NN, sign/NN, ./.] 	[a/DT, woman/NN, is/VBZ, standing/VBG, by/IN, a/DT, pillar/NN, where/WRB, ``/``, u2/NN, ''/'', is/VBZ, written/VBN, ./.] 	98
+[A/DT, young/JJ, girl/NN, riding/VBG, a/DT, white/JJ, and/CC, grey/JJ, horse/NN, ./.] 	[A/DT, young/JJ, blonde/JJ, girl/NN, in/IN, riding/VBG, gear/NN, sits/VBZ, on/IN, top/NN, of/IN, a/DT, gray/JJ, and/CC, white/JJ, horse/NN, ./.] 	99
+[A/DT, black/JJ, and/CC, white/JJ, sheep/NN, is/VBZ, walking/VBG, next/JJ, to/TO, a/DT, white/JJ, sheep/NN, ./.] 	[Little/JJ, black/JJ, and/CC, white/JJ, calf/NN, with/IN, a/DT, tag/NN, on/IN, its/PRP$, ear/NN, ./.] 	100
+[A/DT, living/NN, room/NN, with/IN, a/DT, dining/NN, table/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, boy/NN, doing/VBG, a/DT, wheelie/NN, on/IN, a/DT, plank/NN, with/IN, the/DT, beach/NN, in/IN, the/DT, background/NN, ./.] 	101
+[The/DT, dining/NN, room/NN, table/NN, gets/VBZ, some/DT, afternoon/NN, sun/NN, ./.] 	[Dining/NN, room/NN, with/IN, wooden/JJ, dining/NN, table/NN, set/VBN, with/IN, playmates/NNS, ./.] 	102
+[A/DT, red/JJ, moped/JJ, parked/VBN, on/IN, a/DT, sidewalk/NN, in/IN, front/NN, of/IN, graffiti/NNS, ./.] 	[The/DT, red/JJ, scooter/NN, is/VBZ, sitting/VBG, on/IN, the/DT, street/NN, in/IN, front/NN, of/IN, the/DT, building/NN, ./.] 	103
+[The/DT, seagull/NN, is/VBZ, floating/VBG, on/IN, the/DT, water/NN, ./.] 	[A/DT, little/JJ, bird/NN, floating/VBG, in/IN, the/DT, water/NN, ./.] 	104
+[The/DT, flock/NN, of/IN, sheep/NN, are/VBP, spread/VBN, out/RP, in/IN, the/DT, field/NN, ./.] 	[A/DT, white/JJ, cat/NN, stands/VBZ, on/IN, the/DT, floor/NN, ./.] 	105
+[Two/CD, dogs/NNS, and/CC, one/CD, cat/NN, sitting/VBG, on/IN, couch/NN, ./.] 	[Two/CD, dogs/NNS, and/CC, a/DT, cat/NN, resting/VBG, on/IN, a/DT, couch/NN, ./.] 	106
+[A/DT, black/JJ, dog/NN, stands/VBZ, next/JJ, to/TO, materials/NNS, at/IN, a/DT, construction/NN, site/NN, ./.] 	[An/DT, Asian/JJ, toddler/NN, girl/NN, sits/VBZ, next/JJ, to/TO, a/DT, pot/NN, of/IN, flowers/NNS, on/IN, a/DT, marble/NN, post/NN, ./.] 	107
+[A/DT, woman/NN, posing/VBG, in/IN, front/NN, of/IN, an/DT, apartment/NN, building/NN, in/IN, the/DT, snow/NN, ./.] 	[A/DT, woman/NN, stands/VBZ, in/IN, front/NN, of/IN, a/DT, building/NN, in/IN, the/DT, snow/NN, ./.] 	108
+[One/CD, Asian/JJ, and/CC, one/CD, occasion/NN, woman/NN, in/IN, glasses/NNS, smiling/VBG, with/IN, their/PRP$, thumbs/NNS, up/RB, ./.] 	[Two/CD, women/NNS, are/VBP, posing/VBG, for/IN, the/DT, camera/NN, and/CC, giving/VBG, the/DT, thumbs/NNS, up/IN, sign/NN, ./.] 	109
+[A/DT, black/JJ, train/NN, moves/NNS, down/IN, the/DT, tracks/NNS, ./.] 	[A/DT, mostly/RB, black/JJ, train/NN, on/IN, a/DT, track/NN, ./.] 	110
+[Five/CD, cows/NNS, are/VBP, grazing/NN, beside/IN, the/DT, road/NN, ./.] 	[Several/JJ, sheep/NN, grazing/NN, in/IN, the/DT, field/NN, ./.] 	111
+[Two/CD, mountain/NN, goats/NNS, grazing/NN, in/IN, front/NN, of/IN, an/DT, alpine/JJ, lake/NN, ./.] 	[Two/CD, animals/NNS, grazing/NN, next/JJ, to/TO, a/DT, mountain/NN, ,/,, and/CC, a/DT, body/NN, of/IN, water/NN, ./.] 	112
+[Black/JJ, and/CC, white/JJ, cows/NNS, behind/IN, a/DT, fence/NN, ./.] 	[Two/CD, black/JJ, and/CC, white/JJ, cows/NNS, behind/IN, a/DT, metal/NN, gate/NN, against/IN, a/DT, partly/RB, cloudy/JJ, blue/JJ, sky/NN, ./.] 	113
+[A/DT, passenger/NN, train/NN, waiting/VBG, in/IN, a/DT, station/NN, ./.] 	[A/DT, passenger/NN, train/NN, waiting/VBG, at/IN, the/DT, city/NN, train/NN, station/NN, ./.] 	114
+[A/DT, white/JJ, animal/NN, running/VBG, through/IN, snow/NN, covered/VBD, woods/NNS, ./.] 	[A/DT, white/JJ, dog/NN, runs/VBZ, through/IN, a/DT, snow/NN, covered/VBD, wood/NN, ./.] 	115
+[A/DT, bicycle/NN, is/VBZ, parked/VBN, by/IN, a/DT, shop/NN, ./.] 	[A/DT, bicycle/NN, is/VBZ, parked/VBN, outside/IN, a/DT, bookstore/NN, ./.] 	116
+[A/DT, man/NN, sitting/VBG, on/IN, the/DT, grass/NN, looking/VBG, toward/IN, the/DT, sky/NN, ./.] 	[The/DT, train/NN, is/VBZ, riding/VBG, on/IN, the/DT, tracks/NNS, in/IN, the/DT, snow/NN, ./.] 	117
+[A/DT, black/JJ, ,/,, flat/JJ, screen/NN, television/NN, placed/VBN, on/IN, the/DT, floor/NN, ./.] 	[A/DT, flat/JJ, screen/NN, TV/NN, on/IN, the/DT, floor/NN, ./.] 	118
+[A/DT, silver/NN, bicycle/NN, is/VBZ, parked/VBN, in/IN, a/DT, living/NN, room/NN, ./.] 	[A/DT, bicycle/NN, in/IN, a/DT, dining/NN, room/NN, ./.] 	119
+[A/DT, orange/NN, and/CC, white/JJ, cat/NN, laying/VBG, on/IN, a/DT, blanket/NN, in/IN, a/DT, black/JJ, leather/NN, chair/NN, ./.] 	[A/DT, ginger/NN, and/CC, white/JJ, cat/NN, curled/VBD, up/RB, and/CC, asleep/RB, on/IN, a/DT, leather/NN, chair/NN, ./.] 	120
+[The/DT, brown/JJ, dog/NN, is/VBZ, resting/VBG, his/PRP$, head/NN, on/IN, a/DT, white/JJ, pillow/NN, ./.] 	[A/DT, tan/NN, dog/NN, is/VBZ, lying/VBG, on/IN, a/DT, couch/NN, and/CC, has/VBZ, its/PRP$, head/NN, on/IN, a/DT, white/JJ, pillow/NN, ./.] 	121
+[Black/JJ, train/NN, on/IN, train/NN, tracks/NNS, ./.] 	[A/DT, train/NN, on/IN, the/DT, train/NN, tracks/NNS, ./.] 	122
+[Black/JJ, train/NN, on/IN, train/NN, tracks/NNS, ./.] 	[A/DT, train/NN, on/IN, the/DT, train/NN, tracks/NNS, ./.] 	123
+[Young/JJ, couple/NN, sitting/VBG, on/IN, a/DT, black/JJ, couch/NN, ./.] 	[Young/JJ, couple/NN, sitting/VBG, on/IN, couch/NN, ./.] 	124
+[A/DT, group/NN, of/IN, black/JJ, people/NNS, in/IN, front/NN, of/IN, a/DT, building/NN, with/IN, a/DT, moped/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, are/VBP, outside/IN, a/DT, decrepit/JJ, building/NN, ./.] 	125
+[An/DT, orange/JJ, tabby/NN, cat/NN, sleeping/VBG, on/IN, the/DT, sofa/NN, ./.] 	[Man/NN, wearing/VBG, a/DT, bib/NN, sitting/VBG, on/IN, a/DT, green/JJ, couch/NN, ./.] 	126
+[Elderly/JJ, woman/NN, sitting/VBG, on/IN, red/JJ, patterned/VBN, couch/NN, with/IN, her/PRP$, arm/NN, around/IN, younger/JJR, woman/NN, ./.] 	[Two/CD, women/NNS, sitting/VBG, on/IN, couch/NN, posing/VBG, for/IN, camera/NN, ./.] 	127
+[The/DT, bald/JJ, eagle/NN, is/VBZ, perched/VBN, on/IN, a/DT, rope/NN, ./.] 	[Two/CD, bald/JJ, eagles/NNS, perched/VBN, on/IN, a/DT, branch/NN, ./.] 	128
+[A/DT, couple/NN, posing/VBG, for/IN, a/DT, picture/NN, on/IN, a/DT, couch/NN, ./.] 	[Young/JJ, couple/NN, sitting/VBG, on/IN, couch/NN, ./.] 	129
+[The/DT, men/NNS, are/VBP, playing/VBG, a/DT, guitar/NN, and/CC, having/VBG, a/DT, drink/NN, ./.] 	[There/EX, is/VBZ, a/DT, young/JJ, boy/NN, with/IN, a/DT, red/JJ, and/CC, blue/JJ, jacket/NN, on/IN, feeding/VBG, a/DT, sheep/NN, ./.] 	130
+[Two/CD, cats/NNS, sitting/VBG, together/RB, on/IN, the/DT, sofa/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	[Two/CD, cats/NNS, are/VBP, looking/VBG, at/IN, a/DT, window/NN, ./.] 	131
+[Red/JJ, double/JJ, decker/NN, bus/NN, ./.] 	[Red/JJ, double/JJ, decker/NN, bus/NN, with/IN, hood/NN, up/RB, ./.] 	132
+[A/DT, close-up/NN, of/IN, an/DT, animal/NN, with/IN, a/DT, long/JJ, face/NN, standing/NN, on/IN, grass/NN, near/IN, a/DT, tree/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, woman/NN, with/IN, black/JJ, boots/NNS, next/IN, to/TO, a/DT, blue/JJ, motorcycle/NN, ./.] 	133
+[A/DT, brown/JJ, and/CC, white/JJ, dog/NN, sits/VBZ, on/IN, a/DT, floral-patterned/JJ, chair/NN, ./.] 	[A/DT, small/JJ, orange/NN, and/CC, white/JJ, dog/NN, with/IN, a/DT, collar/NN, and/CC, a/DT, bell/NN, relaxes/VBZ, on/IN, a/DT, flower/NN, print/NN, pillow/NN, ./.] 	134
+[The/DT, black/JJ, and/CC, brown/JJ, cow/NN, is/VBZ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[The/DT, black/JJ, and/CC, white/JJ, bull/NN, is/VBZ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	135
+[A/DT, man/NN, riding/VBG, on/IN, the/DT, back/NN, of/IN, an/DT, orange/JJ, SUV/NN, ./.] 	[an/DT, African/JJ, man/NN, hanging/VBG, onto/IN, the/DT, back/NN, of/IN, a/DT, very/RB, full/JJ, yellow/JJ, van/NN, ./.] 	136
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, at/IN, a/DT, restaurant/NN, table/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, with/IN, food/NN, on/IN, it/PRP, ./.] 	137
+[Two/CD, sheep/NN, on/IN, to/TO, of/IN, a/DT, cliff/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[Two/CD, sheep/NN, are/VBP, standing/VBG, ,/,, looking/VBG, at/IN, the/DT, camera/NN, ,/,, face/NN, opposite/JJ, directions/NNS, ./.] 	138
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, an/DT, empty/JJ, train/NN, station/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cat/NN, lying/VBG, down/RP, ./.] 	139
+[A/DT, row/NN, of/IN, locomotives/NNS, on/IN, a/DT, siding/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, dark/JJ, brown/JJ, horse/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	140
+[A/DT, white/JJ, Apple/NNP, computer/NN, sits/VBZ, on/IN, the/DT, beige/JJ, carpeting/NN, of/IN, a/DT, bedroom/NN, ./.] 	[An/DT, Apple/NNP, computer/NN, sitting/VBG, on/IN, the/DT, floor/NN, ./.] 	141
+[a/DT, dog/NN, napping/VBG, under/IN, a/DT, small/JJ, table/NN, ./.] 	[A/DT, dog/NN, sleeping/VBG, under/IN, a/DT, table/NN, ./.] 	142
+[Red/NNP, and/CC, white/JJ, bus/NN, driving/VBG, down/RP, road/NN, ./.] 	[A/DT, bus/NN, drives/VBZ, down/RP, a/DT, busy/JJ, road/NN, ./.] 	143
+[A/DT, boat/NN, with/IN, four/CD, sails/NNS, is/VBZ, sailing/VBG, on/IN, water/NN, ./.] 	[Sail/VB, boat/NN, sailing/NN, on/IN, the/DT, water/NN, ./.] 	144
+[Red/JJ, sports/NNS, car/NN, racing/VBG, down/RP, track/NN, ./.] 	[A/DT, red/JJ, sports/NNS, car/NN, driving/VBG, quickly/RB, on/IN, a/DT, track/NN, ./.] 	145
+[A/DT, smiling/VBG, woman/NN, holding/VBG, a/DT, small/JJ, baby/NN, ./.] 	[Two/CD, smiling/VBG, women/NNS, holding/VBG, a/DT, baby/NN, ./.] 	146
+[Black/JJ, bird/NN, sitting/VBG, on/IN, a/DT, concrete/JJ, slab/NN, ./.] 	[Small/JJ, dog/NN, sitting/VBG, next/JJ, to/TO, white/JJ, wall/NN, ./.] 	147
+[A/DT, Victory/NNP, Liner/NNP, bus/NN, is/VBZ, white/JJ, with/IN, red/JJ, and/CC, gold/JJ, stripes/NNS, ./.] 	[A/DT, white/JJ, tour/NN, bus/NN, with/IN, red/JJ, ,/,, orange/JJ, and/CC, yellow/JJ, stripes/NNS, ./.] 	148
+[Red/JJ, double/JJ, decker/NN, bus/NN, on/IN, side/NN, of/IN, street/NN, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	149
+[A/DT, group/NN, of/IN, river/NN, barges/NNS, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	[A/DT, young/JJ, girl/NN, wearing/VBG, a/DT, bike/NN, helmet/NN, with/IN, a/DT, bicycle/NN, in/IN, the/DT, background/NN, ./.] 	150
+[The/DT, seagull/NN, is/VBZ, floating/VBG, on/IN, the/DT, water/NN, ./.] 	[Large/JJ, cruise/NN, ship/NN, floating/VBG, on/IN, the/DT, water/NN, ./.] 	151
+[A/DT, motorcycle/NN, parked/VBD, next/JJ, to/TO, a/DT, car/NN, ./.] 	[A/DT, BMW/NNP, motorcycle/NN, parked/VBD, between/IN, two/CD, cars/NNS, ./.] 	152
+[A/DT, cat/NN, laying/VBG, on/IN, a/DT, red/JJ, cushion/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, tan/NN, dog/NN, lying/VBG, on/IN, a/DT, moggie/NN, bed/NN, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	153
+[Gray/NNP, cat/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	[A/DT, cat/NN, looking/VBG, out/IN, of/IN, a/DT, window/NN, ./.] 	154
+[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cow/NN, under/IN, a/DT, tree/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cow/NN, walking/VBG, under/IN, a/DT, tree/NN, in/IN, a/DT, field/NN, ./.] 	155
+[A/DT, potted/JJ, plant/NN, in/IN, sunlight/NN, from/IN, a/DT, window/NN, ./.] 	[A/DT, potted/JJ, plant/NN, with/IN, only/RB, a/DT, few/JJ, sprouting/VBG, ./.] 	156
+[Two/CD, green/JJ, and/CC, white/JJ, trains/NNS, sitting/VBG, on/IN, the/DT, tracks/NNS, ./.] 	[Two/CD, green/JJ, and/CC, white/JJ, trains/NNS, are/VBP, sitting/VBG, on/IN, the/DT, train/NN, track/NN, ./.] 	157
+[Four/CD, people/NNS, are/VBP, rowing/NN, a/DT, boat/NN, near/IN, the/DT, shore/NN, ./.] 	[four/CD, people/NNS, are/VBP, on/IN, a/DT, boat/NN, on/IN, green/JJ, water/NN, ./.] 	158
+[A/DT, girl/NN, in/IN, a/DT, red/JJ, shirt/NN, is/VBZ, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, tan/NN, and/CC, white/JJ, dog/NN, laying/VBG, in/IN, bed/NN, with/IN, a/DT, yellow/JJ, coverlet/NN, ./.] 	159
+[Two/CD, airplanes/NNS, in/IN, the/DT, sky/NN, ./.] 	[A/DT, plane/NN, in/IN, the/DT, sky/NN, ./.] 	160
+[A/DT, coal/NN, train/NN, traveling/VBG, down/RP, the/DT, tracks/NNS, ./.] 	[An/DT, old/JJ, train/NN, sits/VBZ, idle/JJ, on/IN, the/DT, tracks/NNS, ./.] 	161
+[There/EX, is/VBZ, a/DT, small/JJ, desk/NN, and/CC, chair/NN, in/IN, front/NN, of/IN, the/DT, laundry/NN, room/NN, ./.] 	[A/DT, room/NN, with/IN, tan/NN, walls/NNS, and/CC, a/DT, washer/NN, and/CC, dryer/NN, ./.] 	162
+[An/DT, Amtrak/NNP, passenger/NN, train/NN, waiting/VBG, at/IN, a/DT, station/NN, ./.] 	[A/DT, passenger/NN, train/NN, waiting/VBG, in/IN, a/DT, station/NN, ./.] 	163
+[A/DT, large/JJ, jet/NN, on/IN, the/DT, ground/NN, at/IN, the/DT, airport/NN, ./.] 	[A/DT, passenger/NN, jet/NN, flies/VBZ, through/IN, the/DT, air/NN, ./.] 	164
+[A/DT, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, grey/JJ, ,/,, black/JJ, ,/,, and/CC, white/JJ, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	165
+[World/NNP, news/NN, headlines/NNS, displayed/VBD, on/IN, a/DT, large/JJ, screen/NN, ./.] 	[A/DT, man/NN, dressed/VBN, for/IN, a/DT, race/NN, relaxes/VBZ, ./.] 	166
+[Two/CD, women/NNS, posing/VBG, with/IN, a/DT, baby/NN, ./.] 	[Two/CD, smiling/VBG, women/NNS, holding/VBG, a/DT, baby/NN, ./.] 	167
+[A/DT, young/JJ, girl/NN, wearing/VBG, a/DT, helmet/NN, riding/VBG, a/DT, pony/NN, ./.] 	[A/DT, girl/NN, wearing/VBG, a/DT, red/JJ, blouse/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	168
+[A/DT, grey/JJ, cat/NN, lying/VBG, on/IN, a/DT, wooden/JJ, table/NN, ./.] 	[A/DT, grey/JJ, cat/NN, laying/VBG, on/IN, a/DT, dining/NN, table/NN, ./.] 	169
+[People/NNS, sitting/VBG, on/IN, the/DT, porch/NN, ./.] 	[People/NNS, sitting/VBG, on/IN, acouch/NN, ./.] 	170
+[Two/CD, horses/NNS, standing/VBG, in/IN, a/DT, pen/NN, ./.] 	[A/DT, group/NN, of/IN, horses/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	171
+[A/DT, man/NN, sitting/VBG, in/IN, a/DT, back/RB, yard/NN, playing/VBG, the/DT, guitar/NN, ./.] 	[A/DT, man/NN, riding/VBG, on/IN, the/DT, back/NN, of/IN, an/DT, orange/JJ, SUV/NN, ./.] 	172
+[The/DT, red/JJ, train/NN, and/CC, the/DT, yellow/JJ, train/NN, on/IN, on/IN, the/DT, tracks/NNS, ./.] 	[Two/CD, trains/NNS, are/VBP, traveling/VBG, on/IN, the/DT, track/NN, ./.] 	173
+[Two/CD, people/NNS, sitting/VBG, at/IN, a/DT, table/NN, at/IN, a/DT, restaurant/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, on/IN, a/DT, porch/NN, ./.] 	174
+[A/DT, lamb/NN, stands/VBZ, near/IN, two/CD, tiny/JJ, animals/NNS, ./.] 	[A/DT, sheep/NN, standing/NN, near/IN, her/PRP$, children/NNS, ./.] 	175
+[A/DT, father/NN, napping/NN, in/IN, a/DT, chair/NN, with/IN, a/DT, baby/NN, on/IN, his/PRP$, lap/NN, ./.] 	[Man/NN, with/IN, pink/JJ, shirt/NN, sleeping/VBG, on/IN, chair/NN, with/IN, infant/NN, ./.] 	176
+[a/DT, close/NN, up/RP, head/NN, of/IN, an/DT, ostrich/NN, ./.] 	[A/DT, close/NN, up/IN, of/IN, an/DT, ostrich/JJ, face/NN, ./.] 	177
+[A/DT, person/NN, riding/VBG, a/DT, dirt/NN, bike/NN, in/IN, the/DT, outdoors/NNS, ./.] 	[A/DT, person/NN, jumping/VBG, a/DT, motorbike/NN, in/IN, the/DT, air/NN, ./.] 	178
+[Tan/NNP, cow/NN, with/IN, ear/NN, tags/NNS, on/IN, a/DT, grassy/JJ, field/NN, ./.] 	[Many/JJ, sheep/NN, standing/NN, on/IN, a/DT, green/JJ, hill/NN, ./.] 	179
+[Green/NNP, and/CC, white/JJ, bird/NN, perched/VBN, on/IN, tree/NN, branch/NN, ./.] 	[Bird/NN, with/IN, a/DT, green/JJ, head/NN, and/CC, white/JJ, chest/NN, perched/VBN, on/IN, a/DT, tree/NN, branch/NN, ./.] 	180
+[Sail/VB, boat/NN, sailing/NN, on/IN, the/DT, water/NN, ./.] 	[Sail/VB, boat/NN, floating/VBG, on/IN, the/DT, blue/JJ, water/NN, ./.] 	181
+[A/DT, red/JJ, and/CC, white/JJ, plane/NN, flying/VBG, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	[Red/NNP, and/CC, white/JJ, plane/NN, flying/VBG, through/IN, the/DT, air/NN, ./.] 	182
+[A/DT, man/NN, in/IN, a/DT, top/JJ, hat/NN, rides/NNS, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, top/JJ, hat/NN, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	183
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, an/DT, old/JJ, train/NN, station/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cat/NN, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	184
+[A/DT, bicycle/NN, in/IN, front/NN, of/IN, some/DT, ruins/NNS, ./.] 	[A/DT, pink/JJ, bicycle/NN, is/VBZ, in/IN, front/NN, of/IN, a/DT, building/NN, ./.] 	185
+[a/DT, woman/NN, with/IN, a/DT, viking/VBG, hat/NN, on/IN, ./.] 	[Smiling/VBG, woman/NN, sitting/VBG, wearing/VBG, a/DT, viking/VBG, hat/NN, ./.] 	186
+[Parked/VBN, white/JJ, double/JJ, decker/NN, bus/NN, ./.] 	[A/DT, red/JJ, and/CC, white/JJ, double/JJ, decker/NN, bus/NN, is/VBZ, parked/VBN, ./.] 	187
+[Red/JJ, double/JJ, decker/NN, bus/NN, on/IN, side/NN, of/IN, street/NN, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, on/IN, a/DT, crowded/JJ, street/NN, ./.] 	188
+[A/DT, woman/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, woman/NN, taking/VBG, her/PRP$, own/JJ, photo/NN, from/IN, above/JJ, ./.] 	189
+[A/DT, field/NN, of/IN, black/JJ, faced/VBN, sheep/NN, ./.] 	[A/DT, black/JJ, faced/VBN, sheep/NN, ./.] 	190
+[Two/CD, birds/NNS, are/VBP, perched/VBN, on/IN, a/DT, metal/NN, band/NN, ./.] 	[Two/CD, small/JJ, birds/NNS, perched/VBN, on/IN, a/DT, metal/NN, bar/NN, ./.] 	191
+[A/DT, bus/NN, drives/VBZ, down/RP, a/DT, busy/JJ, road/NN, ./.] 	[A/DT, green/JJ, bus/NN, drives/NNS, down/IN, a/DT, road/NN, ./.] 	192
+[Table/NNP, with/IN, blue/JJ, table/NN, cloth/NN, in/IN, kitchen/NN, ./.] 	[Wooden/JJ, cabinets/NNS, in/IN, kitchen/NN, ./.] 	193
+[An/DT, elderly/JJ, Asian/JJ, couple/NN, pose/VBP, with/IN, a/DT, yawning/JJ, baby/NN, at/IN, a/DT, dinner/NN, table/NN, ./.] 	[An/DT, older/JJR, Asian/JJ, couple/NN, poses/VBZ, with/IN, a/DT, newborn/JJ, baby/NN, at/IN, the/DT, dinner/NN, table/NN, ./.] 	194
+[Brown/NNP, and/CC, white/JJ, ducks/NNS, walking/VBG, on/IN, green/JJ, grass/NN, ./.] 	[A/DT, red/JJ, and/CC, white/JJ, plane/NN, flying/VBG, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	195
+[A/DT, young/JJ, woman/NN, with/IN, a/DT, bracelet/NN, is/VBZ, wearing/VBG, a/DT, bikini/NN, top/NN, and/CC, jeans/NNS, ./.] 	[A/DT, women/NNS, wearing/VBG, a/DT, bikini/NN, top/NN, and/CC, jeans/NNS, ./.] 	196
+[A/DT, brown/JJ, horse/NN, grazing/NN, in/IN, a/DT, field/NN, of/IN, green/JJ, grass/NN, ./.] 	[Brown/JJ, horse/NN, standing/NN, in/IN, middle/NN, of/IN, grassy/JJ, field/NN, ./.] 	197
+[A/DT, pot/NN, of/IN, liquid/NN, is/VBZ, at/IN, the/DT, center/NN, of/IN, a/DT, tinfoil/NN, covered/VBD, plate/NN, ./.] 	[A/DT, pot/NN, of/IN, food/NN, is/VBZ, placed/VBN, in/IN, the/DT, center/NN, of/IN, a/DT, red/JJ, tablecloth/NN, ./.] 	198
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	[A/DT, blue/JJ, jay/NN, standing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	199
+[A/DT, yellow/JJ, and/CC, blue/JJ, airplane/NN, is/VBZ, flying/VBG, in/IN, the/DT, sky/NN, ./.] 	[The/DT, white/JJ, airplane/NN, is/VBZ, flying/VBG, in/IN, the/DT, blue/JJ, sky/NN, ./.] 	200
+[Two/CD, men/NNS, standing/VBG, in/IN, grass/NN, staring/VBG, at/IN, a/DT, car/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, pink/JJ, top/JJ, posing/VBG, with/IN, beer/NN, ./.] 	201
+[A/DT, women/NNS, sitting/VBG, in/IN, a/DT, chair/NN, at/IN, Christmas/NNP, holding/VBG, make/VB, up/RP, ./.] 	[A/DT, train/NN, sitting/VBG, on/IN, the/DT, tracks/NNS, in/IN, a/DT, train/NN, yard/NN, ./.] 	202
+[Four/CD, Asian/JJ, young/JJ, people/NNS, sitting/VBG, in/IN, a/DT, den/NN, or/CC, living/VBG, room/NN, ./.] 	[A/DT, girl/NN, sitting/VBG, in/IN, a/DT, living/NN, chair/NN, ./.] 	203
+[Train/NN, going/VBG, down/RP, the/DT, tracks/NNS, ./.] 	[Train/NN, gliding/VBG, on/IN, tracks/NNS, ./.] 	204
+[A/DT, young/JJ, woman/NN, dressed/VBN, in/IN, black/JJ, ./.] 	[Two/CD, young/JJ, kids/NNS, dressed/VBN, up/RP, sitting/VBG, down/RP, on/IN, chairs/NNS, ./.] 	205
+[Two/CD, Indian/JJ, women/NNS, with/IN, two/CD, Indian/JJ, girls/NNS, near/IN, the/DT, water/NN, ./.] 	[Two/CD, Indian/JJ, woman/NN, stand/VB, with/IN, two/CD, Indian/JJ, girls/NNS, on/IN, a/DT, beach/NN, ./.] 	206
+[Group/NN, of/IN, people/NNS, sitting/VBG, at/IN, table/NN, with/IN, drinks/NNS, ./.] 	[four/CD, people/NNS, sitting/VBG, at/IN, a/DT, table/NN, ./.] 	207
+[A/DT, table/NN, is/VBZ, set/VBN, with/IN, wine/NN, and/CC, dishes/NNS, for/IN, two/CD, people/NNS, ./.] 	[A/DT, wooden/JJ, table/NN, is/VBZ, set/VBN, with/IN, candles/NNS, ,/,, wine/NN, ,/,, and/CC, a/DT, purple/JJ, plastic/NN, bowl/NN, ./.] 	208
+[A/DT, plane/NN, flying/VBG, at/IN, a/DT, distance/NN, ./.] 	[A/DT, woman/NN, with/IN, a/DT, white/JJ, horse/NN, ./.] 	209
+[A/DT, group/NN, of/IN, river/NN, barges/NNS, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	[A/DT, group/NN, of/IN, cows/NNS, in/IN, a/DT, field/NN, with/IN, yellow/JJ, tags/NNS, in/IN, their/PRP$, ears/NNS, ./.] 	210
+[A/DT, living/NN, room/NN, with/IN, a/DT, dining/NN, table/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, living/NN, room/NN, with/IN, large/JJ, sofas/NNS, and/CC, a/DT, dining/NN, table/NN, in/IN, the/DT, background/NN, ./.] 	211
+[Yellow/JJ, striped/JJ, cat/NN, resting/VBG, on/IN, blue/JJ, sofa/NN, ./.] 	[An/DT, orange/JJ, tabby/NN, cat/NN, sleeping/VBG, on/IN, the/DT, sofa/NN, ./.] 	212
+[A/DT, passenger/NN, train/NN, coming/VBG, into/IN, a/DT, station/NN, ./.] 	[A/DT, large/JJ, bird/NN, is/VBZ, flying/VBG, through/IN, the/DT, air/NN, ./.] 	213
+[Two/CD, people/NNS, paddling/VBG, in/IN, a/DT, red/JJ, canoe/NN, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	[Two/CD, people/NNS, padding/NN, in/IN, a/DT, yellow/JJ, canoe/NN, down/IN, a/DT, river/NN, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	214
+[A/DT, moped/NN, in/IN, front/NN, of/IN, ruins/NNS, ./.] 	[White/NNP, bus/NN, parked/VBN, in/IN, grass/NN, in/IN, front/NN, of/IN, building/NN, ./.] 	215
+[People/NNS, ride/VBP, mopeds/NNS, in/IN, an/DT, urban/JJ, setting/NN, ./.] 	[People/NNS, riding/VBG, horses/NNS, in/IN, a/DT, fenced/JJ, area/NN, ./.] 	216
+[A/DT, black/JJ, train/NN, moves/NNS, down/IN, the/DT, tracks/NNS, ./.] 	[Black/JJ, train/NN, idle/JJ, on/IN, the/DT, tracks/NNS, ./.] 	217
+[A/DT, white/JJ, jeep/NN, parked/VBN, in/IN, front/NN, of/IN, a/DT, store/NN, ./.] 	[A/DT, white/JJ, Jeep/NN, parked/VBN, on/IN, a/DT, street/NN, ./.] 	218
+[Two/CD, women/NNS, standing/VBG, in/IN, front/NN, of/IN, tour/NN, bus/NN, ./.] 	[Two/CD, men/NNS, talking/VBG, in/IN, front/NN, of/IN, a/DT, plane/NN, ./.] 	219
+[A/DT, person/NN, driving/VBG, a/DT, cart/NN, pulled/VBN, by/IN, a/DT, bicycle/NN, ./.] 	[A/DT, man/NN, wearing/VBG, a/DT, dust/NN, mask/NN, riding/VBG, a/DT, three/CD, wheeled/VBD, bicycle/NN, ./.] 	220
+[Large/JJ, silver/NN, locomotive/NN, engine/NN, in/IN, a/DT, shed/NN, ./.] 	[The/DT, silver/NN, train/NN, is/VBZ, parked/VBN, in/IN, a/DT, station/NN, ./.] 	221
+[A/DT, man/NN, rides/NNS, a/DT, large/JJ, black/JJ, motorbike/NN, ./.] 	[A/DT, child/NN, sits/VBZ, in/IN, a/DT, large/JJ, black/JJ, leather/NN, chair/NN, ./.] 	222
+[A/DT, bicycle/NN, is/VBZ, parked/VBN, outside/IN, a/DT, bookstore/NN, ./.] 	[People/NNS, stand/VBP, outside/IN, a/DT, bookstore/NN, ./.] 	223
+[Plane/NN, in/IN, mid-flight/NN, at/IN, sunset/NN, ./.] 	[A/DT, plane/NN, flying/VBG, near/IN, the/DT, sunset/NN, ./.] 	224
+[Two/CD, people/NNS, sitting/VBG, on/IN, a/DT, large/JJ, motorcycle/NN, ./.] 	[Two/CD, eagles/NNS, sitting/VBG, on/IN, a/DT, long/JJ, branch/NN, ./.] 	225
+[Two/CD, red/JJ, buses/NNS, parked/VBD, up/RP, with/IN, gardens/NNS, in/IN, front/NN, of/IN, them/PRP, ./.] 	[Red/NNP, buses/NNS, are/VBP, parked/VBN, by/IN, a/DT, large/JJ, white/JJ, building/NN, beside/IN, a/DT, formal/JJ, garden/NN, ./.] 	226
+[A/DT, yellow/JJ, parrot/NN, clings/NNS, to/TO, the/DT, side/NN, of/IN, its/PRP$, cage/NN, ./.] 	[A/DT, yellow/JJ, and/CC, orange/JJ, bird/NN, hold/NN, on/IN, to/TO, the/DT, side/NN, of/IN, a/DT, cage/NN, ./.] 	227
+[A/DT, dog/NN, sniffing/VBG, the/DT, bottom/NN, of/IN, a/DT, door/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, dog/NN, sniffing/VBG, at/IN, a/DT, closed/JJ, door/NN, ./.] 	228
+[Couple/NN, sailing/NN, in/IN, a/DT, small/JJ, sailboat/NN, ./.] 	[Two/CD, men/NNS, sailing/NN, in/IN, a/DT, small/JJ, sailboat/NN, ./.] 	229
+[A/DT, silver/NN, and/CC, blue/JJ, motorcycle/NN, sitting/VBG, next/JJ, to/TO, a/DT, car/NN, ./.] 	[A/DT, motorcycle/NN, parked/VBD, next/JJ, to/TO, a/DT, car/NN, ./.] 	230
+[Red/JJ, double/JJ, decker/NN, bus/NN, ./.] 	[A/DT, red/JJ, ,/,, double-decker/JJ, bus/NN, ./.] 	231
+[Feet/NN, standing/NN, on/IN, a/DT, pretty/JJ, day/NN, with/IN, large/JJ, building/NN, in/IN, background/NN, ./.] 	[Two/CD, police/NN, officers/NNS, standing/VBG, behind/IN, a/DT, van/NN, with/IN, a/DT, bus/NN, in/IN, the/DT, background/NN, ./.] 	232
+[A/DT, small/JJ, white/JJ, dog/NN, chews/NNS, on/IN, a/DT, twig/NN, while/IN, lying/VBG, on/IN, a/DT, wooden/JJ, deck/NN, ./.] 	[The/DT, white/JJ, dog/NN, is/VBZ, laying/VBG, on/IN, the/DT, wooden/JJ, floor/NN, underneath/IN, the/DT, table/NN, ./.] 	233
+[Man/NN, standing/NN, in/IN, front/NN, of/IN, silver/NN, train/NN, ./.] 	[Man/NN, standing/NN, in/IN, front/NN, of/IN, a/DT, silver/NN, rail/NN, car/NN, ./.] 	234
+[A/DT, close-up/NN, of/IN, a/DT, sheep/NN, with/IN, its/PRP$, tongue/NN, hanging/VBG, out/RP, ./.] 	[Close/VB, up/RP, image/NN, of/IN, a/DT, sheep/NN, with/IN, it/PRP, 's/VBZ, tongue/NN, hanging/VBG, out/RP, ./.] 	235
+[A/DT, black/JJ, and/CC, white/JJ, horned/VBN, cow/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, the/DT, field/NN, ./.] 	236
+[a/DT, small/JJ, bird/NN, sitting/VBG, on/IN, a/DT, branch/NN, in/IN, winter/NN, ./.] 	[A/DT, small/JJ, bird/NN, perched/VBN, on/IN, an/DT, icy/NN, branch/NN, ./.] 	237
+[A/DT, yellow/JJ, bird/NN, is/VBZ, eating/VBG, fruit/NN, on/IN, a/DT, wire/NN, grate/NN, ./.] 	[A/DT, yellow/JJ, bird/NN, eating/VBG, fruit/NN, on/IN, a/DT, bird/NN, feeder/NN, ./.] 	238
+[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, in/IN, an/DT, arena/NN, ./.] 	[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	239
+[A/DT, brown/JJ, duck/NN, and/CC, white/JJ, duck/NN, stand/VB, on/IN, the/DT, grass/NN, ./.] 	[Brown/NNP, and/CC, white/JJ, ducks/NNS, walking/VBG, on/IN, green/JJ, grass/NN, ./.] 	240
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, and/CC, dog/NN, on/IN, a/DT, striped/JJ, couch/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, standing/NN, in/IN, front/NN, of/IN, a/DT, window/NN, ./.] 	241
+[A/DT, train/NN, sitting/VBG, on/IN, the/DT, tracks/NNS, near/IN, a/DT, field/NN, ./.] 	[A/DT, train/NN, traveling/VBG, down/RP, the/DT, tracks/NNS, ./.] 	242
+[A/DT, women/NNS, and/CC, small/JJ, child/NN, sitting/VBG, at/IN, a/DT, dinner/NN, table/NN, smiling/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, small/JJ, cat/NN, laying/VBG, on/IN, a/DT, wooden/JJ, beam/NN, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	243
+[A/DT, buddha/NN, statue/NN, sits/VBZ, on/IN, a/DT, table/NN, with/IN, a/DT, wooden/JJ, table/NN, runner/NN, ./.] 	[A/DT, bird/NN, standing/NN, on/IN, top/NN, of/IN, a/DT, wooden/JJ, fencepost/NN, ./.] 	244
+[A/DT, man/NN, wearing/VBG, black/JJ, formal/JJ, wear/NN, &/CC, a/DT, black/JJ, top/JJ, hat/NN, is/VBZ, riding/VBG, a/DT, white/JJ, show/NN, horse/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, top/JJ, hat/NN, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	245
+[Two/CD, red/JJ, buses/NNS, driving/VBG, in/IN, front/NN, of/IN, a/DT, garden/NN, ./.] 	[Train/NN, pulling/VBG, into/IN, a/DT, station/NN, ./.] 	246
+[Cows/NNS, grazing/NN, in/IN, a/DT, snow/NN, covered/VBD, field/NN, ./.] 	[Five/CD, cows/NNS, grazing/NN, in/IN, a/DT, snow/NN, covered/VBD, field/NN, ./.] 	247
+[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, woman/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	248
+[A/DT, small/JJ, brown/JJ, birds/NNS, is/VBZ, eating/VBG, from/IN, a/DT, bird/NN, feeder/NN, hanging/VBG, from/IN, a/DT, tree/NN, ./.] 	[A/DT, small/JJ, bird/NN, perches/VBZ, on/IN, the/DT, bird/NN, feeder/NN, hanging/VBG, from/IN, the/DT, tree/NN, ./.] 	249
+[This/DT, a/DT, picture/NN, of/IN, the/DT, countryside/NN, with/IN, a/DT, large/JJ, city/NN, in/IN, the/DT, background/NN, ./.] 	[There/EX, are/VBP, some/DT, black/JJ, cattle/NNS, in/IN, a/DT, grassy/JJ, plain/NN, with/IN, a/DT, large/JJ, tree/NN, in/IN, the/DT, background/NN, ./.] 	250
+[Man/NN, with/IN, blue/JJ, shirt/NN, standing/NN, in/IN, front/NN, of/IN, a/DT, fountain/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, blue/JJ, shirt/NN, and/CC, tan/NN, pants/NNS, is/VBZ, standing/VBG, in/IN, front/NN, of/IN, a/DT, statue/NN, of/IN, a/DT, man/NN, ,/,, which/WDT, is/VBZ, in/IN, a/DT, cobble/JJ, stone/NN, paved/VBD, plaza/NN, ./.] 	251
+[A/DT, girl/NN, in/IN, riding/VBG, gear/NN, sits/VBZ, atop/IN, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, girl/NN, in/IN, a/DT, red/JJ, shirt/NN, is/VBZ, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	252
+[A/DT, scantily/RB, clad/JJ, woman/NN, is/VBZ, standing/VBG, next/JJ, to/TO, a/DT, car/NN, ./.] 	[A/DT, yellow/JJ, and/CC, orange/JJ, bird/NN, hold/NN, on/IN, to/TO, the/DT, side/NN, of/IN, a/DT, cage/NN, ./.] 	253
+[Several/JJ, televisions/NNS, are/VBP, on/IN, the/DT, floor/NN, and/CC, stacked/VBD, up/RP, on/IN, top/NN, of/IN, one/CD, another/DT, ./.] 	[Three/CD, televisions/NNS, ,/,, on/IN, on/IN, the/DT, floor/NN, ,/,, the/DT, other/JJ, two/CD, on/IN, a/DT, box/NN, ./.] 	254
+[Sheep/NNP, are/VBP, grazing/NN, in/IN, a/DT, grassy/JJ, field/NN, near/IN, a/DT, stand/NN, of/IN, trees/NNS, ./.] 	[Sheep/NNP, are/VBP, grazing/NN, in/IN, the/DT, field/NN, in/IN, front/NN, of/IN, a/DT, line/NN, of/IN, trees/NNS, ./.] 	255
+[A/DT, clear/JJ, plastic/NN, chair/NN, in/IN, front/NN, of/IN, a/DT, bookcase/NN, ./.] 	[a/DT, clear/JJ, plastic/NN, chair/NN, in/IN, front/NN, of/IN, book/NN, shelves/NNS, ./.] 	256
+[A/DT, dog/NN, is/VBZ, wearing/VBG, a/DT, gray/JJ, jacket/NN, ./.] 	[A/DT, dog/NN, laying/VBG, in/IN, a/DT, pet/NN, jacket/NN, ./.] 	257
+[A/DT, sheep/NN, stands/VBZ, on/IN, a/DT, hillside/NN, ./.] 	[A/DT, large/JJ, sheep/NN, standing/NN, on/IN, a/DT, hill/NN, ./.] 	258
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, the/DT, field/NN, ./.] 	259
+[Blue/NNP, and/CC, red/JJ, plane/NN, in/IN, mid-air/JJ, flight/NN, ./.] 	[a/DT, blue/JJ, and/CC, red/JJ, airplane/NN, while/IN, in/IN, flight/NN, ./.] 	260
+[A/DT, woman/NN, in/IN, a/DT, black/JJ, bikini/NN, top/NN, and/CC, jeans/NNS, ./.] 	[A/DT, woman/NN, in/IN, a/DT, black/JJ, hat/NN, is/VBZ, standing/VBG, by/IN, the/DT, subway/NN, ./.] 	261
+[A/DT, girl/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[The/DT, jockey/NN, is/VBZ, wearing/VBG, purple/JJ, and/CC, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	262
+[Man/NN, standing/NN, in/IN, front/NN, of/IN, yellow/JJ, corvette/NN, ./.] 	[A/DT, man/NN, is/VBZ, standing/VBG, next/JJ, to/TO, a/DT, yellow/JJ, sports/NNS, car/NN, ./.] 	263
+[Three/CD, men/NNS, posing/VBG, in/IN, a/DT, tent/NN, ./.] 	[Three/CD, men/NNS, eating/VBG, in/IN, a/DT, kitchen/NN, ./.] 	264
+[A/DT, man/NN, sitting/VBG, on/IN, the/DT, grass/NN, looking/VBG, toward/IN, the/DT, sky/NN, ./.] 	[The/DT, man/NN, is/VBZ, standing/VBG, on/IN, the/DT, sidewalk/NN, in/IN, front/NN, of/IN, the/DT, horse/NN, ./.] 	265
+[A/DT, man/NN, poses/VBZ, in/IN, front/NN, of/IN, a/DT, large/JJ, fountain/NN, with/IN, a/DT, statue/NN, on/IN, top/NN, ./.] 	[Man/NN, with/IN, blue/JJ, shirt/NN, standing/NN, in/IN, front/NN, of/IN, a/DT, fountain/NN, ./.] 	266
+[The/DT, small/JJ, dog/NN, protects/VBZ, its/PRP$, owner/NN, ./.] 	[The/DT, back/NN, of/IN, the/DT, stop/NN, sign/NN, is/VBZ, adorned/VBN, with/IN, stickers/NNS, ./.] 	267
+[Children/NNS, looking/VBG, a/DT, sheep/NN, ./.] 	[Child/NN, milking/VBG, a/DT, cow/NN, outside/NN, ./.] 	268
+[A/DT, white/JJ, cat/NN, standing/NN, on/IN, a/DT, carpet/NN, ./.] 	[A/DT, sheep/NN, standing/NN, in/IN, a/DT, forest/NN, ./.] 	269
+[A/DT, flat/JJ, screen/NN, TV/NN, on/IN, the/DT, floor/NN, ./.] 	[A/DT, flat-screen/JJ, TV/NN, sits/VBZ, on/IN, the/DT, floor/NN, ./.] 	270
+[A/DT, close-up/NN, of/IN, a/DT, gray/JJ, cat/NN, with/IN, green/JJ, eyes/NNS, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, cat/NN, on/IN, a/DT, cream/NN, sofa/NN, ./.] 	271
+[Two/CD, brown/JJ, horses/NNS, standing/VBG, in/IN, grassy/JJ, field/NN, ./.] 	[Two/CD, men/NNS, sailing/NN, in/IN, a/DT, small/JJ, sailboat/NN, ./.] 	272
+[Two/CD, sheep/NN, stand/NN, in/IN, a/DT, doorway/NN, ./.] 	[Two/CD, rams/NNS, stand/VBP, on/IN, snowy/JJ, ground/NN, ./.] 	273
+[A/DT, train/NN, is/VBZ, at/IN, a/DT, train/NN, station/NN, ./.] 	[The/DT, train/NN, sits/VBZ, at/IN, the/DT, train/NN, station/NN, ./.] 	274
+[Room/NN, with/IN, several/JJ, computer/NN, monitors/NNS, ./.] 	[A/DT, room/NN, with/IN, four/CD, computer/NN, monitors/NNS, in/IN, a/DT, row/NN, ./.] 	275
+[A/DT, line/NN, outside/IN, of/IN, a/DT, bookstore/NN, on/IN, a/DT, street/NN, ./.] 	[The/DT, yellow/JJ, motorcycle/NN, is/VBZ, parked/VBN, on/IN, the/DT, street/NN, ./.] 	276
+[The/DT, train/NN, heads/VBZ, down/RP, the/DT, tracks/NNS, and/CC, along/IN, the/DT, hedge/NN, ./.] 	[a/DT, dog/NN, on/IN, the/DT, floor/NN, of/IN, a/DT, patio/NN, looks/VBZ, at/IN, a/DT, cat/NN, on/IN, the/DT, fence/NN, ./.] 	277
+[A/DT, passenger/NN, jet/NN, sits/VBZ, on/IN, a/DT, runway/NN, ./.] 	[A/DT, large/JJ, passenger/NN, jet/NN, flying/VBG, close/NN, to/TO, the/DT, ground/NN, ./.] 	278
+[a/DT, little/JJ, girl/NN, is/VBZ, laughing/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, white/JJ, cow/NN, with/IN, big/JJ, ears/NNS, looking/VBG, into/IN, the/DT, camera/NN, ./.] 	279
+[Old/JJ, green/JJ, bottle/NN, sitting/VBG, on/IN, a/DT, table/NN, ./.] 	[Three/CD, men/NNS, in/IN, suits/NNS, sitting/VBG, at/IN, a/DT, table/NN, ./.] 	280
+[Three/CD, young/JJ, women/NNS, standing/VBG, in/IN, a/DT, room/NN, together/RB, ./.] 	[Three/CD, dark/JJ, haired/JJ, young/JJ, women/NNS, in/IN, white/JJ, ,/,, red/JJ, and/CC, black/JJ, sweaters/NNS, ./.] 	281
+[A/DT, black-and-white/JJ, photo/NN, of/IN, a/DT, loveseat/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, an/DT, old/JJ, train/NN, station/NN, ./.] 	282
+[the/DT, back/NN, of/IN, a/DT, stop/NN, sign/NN, with/IN, many/JJ, stickers/NNS, on/IN, it/PRP, ./.] 	[The/DT, back/NN, of/IN, a/DT, sign/NN, with/IN, stickers/NNS, on/IN, ./.] 	283
+[Two/CD, white/JJ, horses/NNS, staring/VBG, over/IN, a/DT, fence/NN, ./.] 	[Two/CD, horses/NNS, standing/VBG, in/IN, a/DT, pen/NN, ./.] 	284
+[Living/VBG, room/NN, or/CC, den/NN, with/IN, large/JJ, screen/NN, television/NN, ./.] 	[Living/VBG, room/NN, with/IN, tan/NN, furniture/NN, and/CC, flat/JJ, screen/NN, television/NN, ./.] 	285
+[The/DT, black/JJ, and/CC, white/JJ, cows/NNS, pause/VB, in/IN, front/NN, of/IN, the/DT, gate/NN, ./.] 	[The/DT, white/JJ, airplane/NN, is/VBZ, flying/VBG, in/IN, the/DT, sky/NN, ./.] 	286
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, horned/VBN, cow/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	287
+[Two/CD, women/NNS, sitting/VBG, in/IN, lawn/NN, chairs/NNS, ./.] 	[Two/CD, women/NNS, are/VBP, sitting/VBG, in/IN, a/DT, cafe/NN, ./.] 	288
+[A/DT, doubly/RB, decker/JJ, red/JJ, bus/NN, driving/VBG, down/RP, the/DT, road/NN, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	289
+[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cat/NN, lying/VBG, down/RP, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, image/NN, of/IN, a/DT, cat/NN, laying/VBG, on/IN, a/DT, rug/NN, ./.] 	290
+[A/DT, man/NN, and/CC, woman/NN, stand/VBP, ,/,, smiling/VBG, for/IN, camera/NN, ./.] 	[A/DT, man/NN, and/CC, woman/NN, are/VBP, posing/VBG, for/IN, the/DT, camera/NN, ./.] 	291
+[A/DT, orange/NN, and/CC, white/JJ, cat/NN, asleep/RB, on/IN, a/DT, leather/NN, chair/NN, ./.] 	[A/DT, ginger/NN, cat/NN, sitting/VBG, on/IN, an/DT, office/NN, chair/NN, ./.] 	292
+[A/DT, white/JJ, cat/NN, standing/NN, on/IN, a/DT, carpet/NN, ./.] 	[A/DT, pretty/JJ, white/JJ, striped/JJ, cat/NN, with/IN, his/PRP$, head/NN, hanging/VBG, off/RP, the/DT, table/NN, ./.] 	293
+[Grey/NNP, and/CC, white/JJ, domestic/JJ, kitten/NN, lying/VBG, down/RP, on/IN, a/DT, desk/NN, ./.] 	[A/DT, man/NN, and/CC, his/PRP$, bicycle/NN, laying/VBG, down/RP, on/IN, the/DT, green/JJ, grass/NN, ./.] 	294
+[A/DT, white/JJ, bird/NN, with/IN, long/JJ, orange/JJ, legs/NNS, standing/VBG, by/IN, a/DT, lake/NN, ./.] 	[Large/JJ, white/JJ, bird/NN, with/IN, long/JJ, orange/JJ, beak/NN, standing/NN, on/IN, the/DT, shoreline/NN, ./.] 	295
+[A/DT, woman/NN, posing/VBG, in/IN, front/NN, of/IN, an/DT, apartment/NN, building/NN, in/IN, the/DT, snow/NN, ./.] 	[White/NNP, bus/NN, parked/VBN, in/IN, grass/NN, in/IN, front/NN, of/IN, building/NN, ./.] 	296
+[A/DT, young/JJ, woman/NN, with/IN, a/DT, bracelet/NN, is/VBZ, wearing/VBG, a/DT, bikini/NN, top/NN, and/CC, jeans/NNS, ./.] 	[A/DT, woman/NN, wearing/VBG, jeans/NNS, ,/,, a/DT, dark/JJ, bikini/NN, top/NN, ,/,, and/CC, a/DT, bracelet/NN, ./.] 	297
+[A/DT, red/JJ, train/NN, driving/VBG, through/IN, a/DT, snow/NN, covered/VBD, city/NN, ./.] 	[The/DT, train/NN, is/VBZ, riding/VBG, on/IN, the/DT, tracks/NNS, in/IN, the/DT, snow/NN, ./.] 	298
+[A/DT, table/NN, and/CC, chairs/NNS, are/VBP, in/IN, a/DT, room/NN, with/IN, a/DT, picture/NN, on/IN, the/DT, wall/NN, and/CC, a/DT, ceiling/NN, fan/NN, ./.] 	[A/DT, school/NN, bus/NN, driving/VBG, down/RP, a/DT, road/NN, with/IN, green/JJ, trees/NNS, and/CC, grass/NN, in/IN, the/DT, background/NN, ./.] 	299
+[The/DT, black/JJ, bird/NN, is/VBZ, sitting/VBG, on/IN, the/DT, ground/NN, ./.] 	[The/DT, back/NN, of/IN, a/DT, pig/NN, under/IN, a/DT, tree/NN, with/IN, a/DT, cow/NN, in/IN, the/DT, background/NN, ./.] 	300
+[A/DT, man/NN, sits/VBZ, crossed/VBN, legged/VBN, on/IN, a/DT, bed/NN, watching/VBG, a/DT, small/JJ, TV/NN, ./.] 	[A/DT, man/NN, sits/VBZ, on/IN, a/DT, bed/NN, very/RB, close/RB, to/TO, a/DT, small/JJ, television/NN, ./.] 	301
+[A/DT, Das/NNP, Air/NNP, Cargo/NNP, plane/NN, sits/VBZ, on/IN, the/DT, runway/NN, ./.] 	[A/DT, passenger/NN, plane/NN, parked/VBN, on/IN, a/DT, runway/NN, ./.] 	302
+[The/DT, headlights/NNS, on/IN, a/DT, blue/JJ, car/NN, ./.] 	[Close/VB, up/IN, of/IN, the/DT, headlights/NNS, on/IN, a/DT, blue/JJ, car/NN, ./.] 	303
+[A/DT, cat/NN, sleeps/VBZ, on/IN, purple/JJ, sheet/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, sleeps/NNS, on/IN, a/DT, purple/JJ, blanket/NN, ./.] 	304
+[A/DT, passenger/NN, train/NN, coming/VBG, into/IN, a/DT, station/NN, ./.] 	[A/DT, passenger/NN, train/NN, sits/VBZ, in/IN, the/DT, station/NN, ./.] 	305
+[A/DT, close-up/NN, of/IN, a/DT, cat/NN, on/IN, a/DT, cream/NN, sofa/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, horse/NN, ./.] 	306
+[Three/CD, bicyclists/NNS, crossing/VBG, a/DT, bridge/NN, in/IN, a/DT, city/NN, ./.] 	[The/DT, bicyclists/NNS, are/VBP, crossing/VBG, a/DT, bridge/NN, in/IN, the/DT, rain/NN, ./.] 	307
+[A/DT, red/JJ, and/CC, white/JJ, bus/NN, drives/NNS, down/IN, an/DT, England/NNP, street/NN, ./.] 	[A/DT, red/JJ, and/CC, white/JJ, England/NNP, bus/NN, drives/NNS, down/IN, the/DT, street/NN, ./.] 	308
+[An/DT, airplane/NN, facing/VBG, the/DT, camera/NN, ./.] 	[A/DT, lone/JJ, cow/NN, sits/VBZ, in/IN, the/DT, cold/NN, of/IN, the/DT, yard/NN, ./.] 	309
+[A/DT, woman/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, person/NN, dressed/VBN, in/IN, white/JJ, on/IN, a/DT, brown/JJ, horse/NN, ./.] 	310
+[a/DT, jockey/NN, riding/VBG, a/DT, horse/NN, ./.] 	[A/DT, jockey/NN, riding/VBG, a/DT, horse/NN, in/IN, a/DT, pen/NN, ./.] 	311
+[The/DT, two/CD, dogs/NNS, blend/VB, in/IN, with/IN, the/DT, stuff/NN, animals/NNS, ./.] 	[Two/CD, dogs/NNS, sit/VBP, on/IN, a/DT, couch/NN, with/IN, many/JJ, stuffed/VBD, animals/NNS, ./.] 	312
+[A/DT, kitchen/NN, with/IN, wood/NN, cabinets/NNS, and/CC, dining/NN, table/NN, ./.] 	[A/DT, kitchen/NN, with/IN, wooden/JJ, cabinets/NNS, and/CC, furniture/NN, ./.] 	313
+[A/DT, train/NN, is/VBZ, running/VBG, on/IN, the/DT, tracks/NNS, ./.] 	[A/DT, train/NN, is/VBZ, running/VBG, down/RP, the/DT, track/NN, in/IN, a/DT, rural/JJ, area/NN, ./.] 	314
+[A/DT, motorcycles/NNS, is/VBZ, parked/VBN, near/IN, a/DT, wall/NN, covered/VBN, with/IN, a/DT, graffiti/NN, scene/NN, of/IN, a/DT, cityscape/NN, ./.] 	[A/DT, motorcycle/NN, is/VBZ, parked/VBN, by/IN, a/DT, mural/NN, of/IN, a/DT, city/NN, in/IN, the/DT, evening/NN, ./.] 	315
+[Someone/NN, standing/NN, on/IN, a/DT, snowy/JJ, mountain/NN, ,/,, watching/VBG, a/DT, plane/NN, ./.] 	[A/DT, man/NN, stands/VBZ, on/IN, a/DT, mountain/NN, ,/,, watching/VBG, a/DT, plane/NN, ./.] 	316
+[The/DT, birds/NNS, are/VBP, swimming/VBG, in/IN, the/DT, water/NN, ./.] 	[Birds/NNP, fly/VB, low/JJ, over/IN, water/NN, ./.] 	317
+[A/DT, bird/NN, is/VBZ, flapping/VBG, its/PRP$, wings/NNS, in/IN, the/DT, water/NN, ./.] 	[A/DT, large/JJ, black/JJ, bird/NN, is/VBZ, sitting/VBG, in/IN, the/DT, water/NN, ./.] 	318
+[A/DT, black/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[The/DT, black/JJ, and/CC, white/JJ, bull/NN, is/VBZ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	319
+[A/DT, cruise/NN, liner/NN, docked/VBN, at/IN, a/DT, port/NN, ./.] 	[A/DT, cruise/NN, ship/NN, docked/VBN, at/IN, a/DT, coast/NN, ./.] 	320
+[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, on/IN, a/DT, crowded/JJ, street/NN, ./.] 	[A/DT, white/JJ, bus/NN, partially/RB, in/IN, the/DT, snow/NN, on/IN, a/DT, public/JJ, street/NN, ./.] 	321
+[A/DT, woman/NN, pets/NNS, a/DT, dog/NN, in/IN, a/DT, fenced/JJ, area/NN, ./.] 	[A/DT, woman/NN, pets/NNS, a/DT, dog/NN, in/IN, a/DT, gated/JJ, yard/NN, ./.] 	322
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, playing/VBG, with/IN, a/DT, blanket/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, gets/VBZ, into/IN, a/DT, basket/NN, of/IN, yarn/NN, ./.] 	323
+[A/DT, man/NN, on/IN, a/DT, mountain/NN, bike/NN, going/VBG, down/RP, an/DT, incline/NN, ./.] 	[This/DT, is/VBZ, a/DT, man/NN, riding/VBG, a/DT, mountain/NN, bike/NN, over/IN, rocks/NNS, on/IN, a/DT, clear/JJ, day/NN, ./.] 	324
+[A/DT, cat/NN, reclines/VBZ, on/IN, an/DT, office/NN, chair/NN, ./.] 	[A/DT, ginger/NN, cat/NN, sitting/VBG, on/IN, an/DT, office/NN, chair/NN, ./.] 	325
+[A/DT, group/NN, of/IN, horses/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, grazing/NN, in/IN, a/DT, field/NN, of/IN, green/JJ, grass/NN, ./.] 	326
+[A/DT, group/NN, of/IN, people/NNS, having/VBG, a/DT, drink/NN, ./.] 	[A/DT, row/NN, of/IN, locomotives/NNS, on/IN, a/DT, siding/NN, in/IN, a/DT, field/NN, ./.] 	327
+[Two/CD, dogs/NNS, in/IN, a/DT, fenced/JJ, kennel/NN, look/NN, ahead/RB, ./.] 	[Two/CD, woman/NN, pose/VBP, in/IN, a/DT, dining/NN, room/NN, with/IN, a/DT, baby/NN, ./.] 	328
+[Three/CD, sheep/NN, on/IN, a/DT, dirt/NN, road/NN, viewed/VBN, from/IN, a/DT, passenger/NN, vehicle/NN, ./.] 	[Three/CD, sheep/NN, in/IN, middle/NN, of/IN, gravel/NN, road/NN, ./.] 	329
+[A/DT, yellow/JJ, and/CC, blue/JJ, airplane/NN, is/VBZ, flying/VBG, in/IN, the/DT, sky/NN, ./.] 	[Nine/CD, red/JJ, and/CC, white/JJ, aircraft/NN, flying/VBG, in/IN, formation/NN, trailing/VBG, smoke/NN, ./.] 	330
+[The/DT, train/NN, sits/VBZ, at/IN, the/DT, train/NN, station/NN, ./.] 	[The/DT, blue/JJ, train/NN, is/VBZ, at/IN, the/DT, station/NN, ./.] 	331
+[A/DT, train/NN, sitting/VBG, on/IN, the/DT, tracks/NNS, near/IN, a/DT, field/NN, ./.] 	[A/DT, baby/NN, is/VBZ, sitting/VBG, in/IN, the/DT, grass/NN, ./.] 	332
+[Red/JJ, double/JJ, decker/NN, bus/NN, taking/VBG, on/RP, passengers/NNS, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, is/VBZ, picking/VBG, up/RP, more/RBR, passengers/NNS, in/IN, a/DT, city/NN, ./.] 	333
+[Two/CD, guys/NNS, sit/VBP, on/IN, a/DT, couch/NN, holding/VBG, beers/NNS, with/IN, a/DT, girl/NN, lying/VBG, on/IN, their/PRP$, laps/NNS, ./.] 	[Two/CD, women/NNS, watching/VBG, the/DT, street/NN, with/IN, their/PRP$, bikes/NNS, to/TO, see/VB, when/WRB, they/PRP, may/MD, cross/VB, ./.] 	334
+[Two/CD, women/NNS, in/IN, the/DT, kitchen/NN, looking/VBG, at/IN, a/DT, object/NN, ./.] 	[Two/CD, women/NNS, in/IN, kitchen/NN, with/IN, one/CD, taking/VBG, a/DT, picture/NN, ./.] 	335
+[A/DT, race/NN, horse/NN, galloping/VBG, without/IN, a/DT, rider/NN, ./.] 	[A/DT, horse/NN, galloping/VBG, while/IN, wearing/VBG, the/DT, number/NN, 4/CD, ./.] 	336
+[A/DT, steam/NN, engine/NN, and/CC, train/NN, moving/VBG, toward/IN, the/DT, camera/NN, ./.] 	[A/DT, large/JJ, bird/NN, of/IN, prey/NN, flying/VBG, towards/IN, the/DT, camera/NN, ./.] 	337
+[A/DT, group/NN, of/IN, horses/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	[Group/NN, of/IN, horses/NNS, grazing/NN, in/IN, grassy/JJ, field/NN, ./.] 	338
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, glass/NN, bottle/NN, of/IN, Coca/NNP, Cola/NNP, ./.] 	[This/DT, is/VBZ, a/DT, black/JJ, and/CC, white/JJ, picture/NN, of/IN, a/DT, short/JJ, squat/JJ, Coca-cola/NN, bottle/NN, ./.] 	339
+[A/DT, small/JJ, bird/NN, perched/VBN, on/IN, an/DT, icy/NN, branch/NN, ./.] 	[A/DT, yellow/JJ, bird/NN, perched/VBN, on/IN, a/DT, branch/NN, ./.] 	340
+[Several/JJ, people/NNS, on/IN, motorcycles/NNS, in/IN, a/DT, market/NN, square/NN, ./.] 	[People/NNS, on/IN, motorbikes/NNS, in/IN, a/DT, city/NN, street/NN, ./.] 	341
+[Three/CD, sheep/NN, on/IN, a/DT, dirt/NN, road/NN, viewed/VBN, from/IN, a/DT, passenger/NN, vehicle/NN, ./.] 	[Three/CD, sheep/NN, on/IN, a/DT, dirt/NN, road/NN, shot/NN, from/IN, a/DT, car/NN, ./.] 	342
+[Boy/NN, with/IN, glasses/NNS, typing/NN, on/IN, a/DT, computer/NN, ./.] 	[A/DT, boy/NN, looking/VBG, at/IN, a/DT, computer/NN, screen/NN, ./.] 	343
+[Group/NN, of/IN, people/NNS, posing/VBG, with/IN, two/CD, men/NNS, dressed/VBN, as/IN, Elvis/NNP, ./.] 	[A/DT, group/NN, of/IN, people/NNS, standing/VBG, with/IN, two/CD, other/JJ, people/NNS, dressed/VBN, as/IN, Elvis/NNP, ./.] 	344
+[A/DT, red/JJ, truck/NN, spins/VBZ, their/PRP$, tires/NNS, while/IN, a/DT, black/JJ, one/CD, leaves/VBZ, the/DT, frame/NN, ./.] 	[Red/NNP, truck/NN, spinning/VBG, tires/NNS, and/CC, emitting/VBG, smoke/NN, from/IN, behind/RB, ./.] 	345
+[A/DT, living/NN, room/NN, with/IN, table/NN, ,/,, chair/NN, and/CC, sofa/NN, alongside/IN, a/DT, large/JJ, palm/NN, ./.] 	[A/DT, living/NN, room/NN, with/IN, a/DT, blue/JJ, sofa/NN, ,/,, camp/NN, bed/NN, ,/,, wooden/JJ, bench/NN, and/CC, dresser/NN, ./.] 	346
+[A/DT, smiling/VBG, woman/NN, holding/VBG, a/DT, small/JJ, baby/NN, ./.] 	[a/DT, woman/NN, sitting/VBG, on/IN, a/DT, sofa/NN, holding/VBG, a/DT, baby/NN, ./.] 	347
+[An/DT, Esso/NNP, gas/NN, station/NN, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	[Two/CD, police/NN, officers/NNS, standing/VBG, behind/IN, a/DT, van/NN, with/IN, a/DT, bus/NN, in/IN, the/DT, background/NN, ./.] 	348
+[Four/CD, blue/JJ, and/CC, yellow/JJ, planes/NNS, flying/VBG, over/IN, four/CD, boats/NNS, ./.] 	[Four/CD, blue/JJ, and/CC, yellow/JJ, planes/NNS, in/IN, flight/NN, ./.] 	349
+[A/DT, horse/NN, standing/NN, near/IN, a/DT, gate/NN, with/IN, another/DT, horse/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, group/NN, of/IN, river/NN, barges/NNS, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	350
+[Three/CD, bottles/NNS, are/VBP, on/IN, a/DT, table/NN, ./.] 	[Old/JJ, green/JJ, bottle/NN, sitting/VBG, on/IN, a/DT, table/NN, ./.] 	351
+[Two/CD, boys/NNS, sit/VBP, facing/VBG, one/CD, another/DT, at/IN, a/DT, table/NN, and/CC, one/CD, points/NNS, at/IN, the/DT, other/JJ, ./.] 	[Two/CD, people/NNS, sit/VBP, facing/VBG, each/DT, other/JJ, at/IN, a/DT, table/NN, as/IN, one/CD, points/NNS, at/IN, the/DT, other/JJ, ./.] 	352
+[A/DT, steam/NN, engine/NN, comes/VBZ, down/RP, a/DT, train/NN, track/NN, near/IN, trees/NNS, ./.] 	[A/DT, train/NN, is/VBZ, at/IN, a/DT, train/NN, station/NN, ./.] 	353
+[A/DT, train/NN, is/VBZ, at/IN, a/DT, train/NN, station/NN, ./.] 	[A/DT, train/NN, parked/VBD, at/IN, a/DT, train/NN, station/NN, ./.] 	354
+[Two/CD, white/JJ, dogs/NNS, are/VBP, swimming/VBG, in/IN, the/DT, water/NN, ./.] 	[The/DT, birds/NNS, are/VBP, swimming/VBG, in/IN, the/DT, water/NN, ./.] 	355
+[Parrot/NN, pushing/VBG, a/DT, small/JJ, shopping/NN, cart/NN, ./.] 	[A/DT, white/JJ, bird/NN, is/VBZ, steering/VBG, a/DT, shopping/NN, cart/NN, ./.] 	356
+[a/DT, woman/NN, sitting/VBG, on/IN, a/DT, sofa/NN, holding/VBG, a/DT, baby/NN, ./.] 	[Bird/NN, sitting/VBG, on/IN, a/DT, log/NN, in/IN, a/DT, lake/NN, ./.] 	357
+[Man/NN, in/IN, yellow/JJ, canoe/NN, paddling/VBG, through/IN, water/NN, ./.] 	[Man/NN, paddling/VBG, a/DT, yellow/JJ, canoe/NN, towards/IN, a/DT, the/DT, shore/NN, ./.] 	358
+[Two/CD, birds/NNS, flying/VBG, towards/IN, water/NN, feeder/NN, ./.] 	[Two/CD, birds/NNS, flying/VBG, near/IN, bird/NN, feeders/NNS, ./.] 	359
+[Two/CD, cows/NNS, standing/VBG, in/IN, a/DT, large/JJ, field/NN, ./.] 	[Horse/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	360
+[Beer/NNP, bottles/NNS, -LRB-/-LRB-, -LRB-/-LRB-, Harp/NNP, Lager/NNP, -RRB-/-RRB-, -RRB-/-RRB-, lined/VBD, up/RP, on/IN, the/DT, floor/NN, ./.] 	[A/DT, row/NN, of/IN, beer/NN, bottles/NNS, on/IN, the/DT, floor/NN, ./.] 	361
+[Two/CD, women/NNS, sitting/VBG, outside/JJ, laughing/NN, ./.] 	[Two/CD, women/NNS, standing/VBG, outside/IN, of/IN, a/DT, bus/NN, ./.] 	362
+[A/DT, group/NN, of/IN, sheep/NN, grazing/NN, on/IN, a/DT, hill/NN, ./.] 	[A/DT, group/NN, of/IN, sheep/NN, are/VBP, on/IN, a/DT, hill/NN, ./.] 	363
+[A/DT, man/NN, stands/VBZ, in/IN, front/NN, of/IN, a/DT, train/NN, ./.] 	[A/DT, man/NN, is/VBZ, standing/VBG, in/IN, front/NN, of/IN, a/DT, raised/VBN, statue/NN, ,/,, ./.] 	364
+[A/DT, steam/NN, engine/NN, and/CC, train/NN, moving/VBG, toward/IN, the/DT, camera/NN, ./.] 	[A/DT, white/JJ, sheep/NN, on/IN, a/DT, hillside/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	365
+[Two/CD, women/NNS, are/VBP, posing/VBG, for/IN, the/DT, camera/NN, and/CC, giving/VBG, the/DT, thumbs/NNS, up/IN, sign/NN, ./.] 	[Two/CD, smiling/VBG, young/JJ, women/NNS, giving/VBG, the/DT, thumbs/NNS, up/IN, sign/NN, ./.] 	366
+[A/DT, women/NNS, holds/VBZ, a/DT, small/JJ, baby/NN, while/IN, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	[a/DT, woman/NN, sitting/VBG, on/IN, a/DT, sofa/NN, holding/VBG, a/DT, baby/NN, ./.] 	367
+[A/DT, double/JJ, decker/NN, red/JJ, United/NNP, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	[A/DT, doubly/RB, decker/JJ, red/JJ, bus/NN, driving/VBG, down/RP, the/DT, road/NN, ./.] 	368
+[Two/CD, women/NNS, sitting/VBG, on/IN, brown/JJ, couch/NN, ./.] 	[Two/CD, women/NNS, standing/VBG, outside/IN, of/IN, a/DT, bus/NN, ./.] 	369
+[A/DT, grey/JJ, cat/NN, with/IN, green/JJ, eyes/NNS, looking/VBG, into/IN, the/DT, camera/NN, ./.] 	[A/DT, grey/JJ, ,/,, black/JJ, ,/,, and/CC, white/JJ, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	370
+[The/DT, bird/NN, is/VBZ, sitting/VBG, on/IN, the/DT, branch/NN, ./.] 	[The/DT, sheep/NN, is/VBZ, standing/VBG, under/IN, the/DT, trees/NNS, ./.] 	371
+[Group/NN, of/IN, people/NNS, sitting/VBG, at/IN, table/NN, of/IN, restaurant/NN, ./.] 	[Two/CD, people/NNS, sitting/VBG, at/IN, a/DT, table/NN, at/IN, a/DT, restaurant/NN, ./.] 	372
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, stands/VBZ, on/IN, grass/NN, against/IN, a/DT, partly/RB, cloudy/JJ, blue/JJ, sky/NN, ./.] 	[Two/CD, black/JJ, and/CC, white/JJ, cows/NNS, behind/IN, a/DT, metal/NN, gate/NN, against/IN, a/DT, partly/RB, cloudy/JJ, blue/JJ, sky/NN, ./.] 	373
+[A/DT, brown/JJ, and/CC, white/JJ, cow/NN, in/IN, a/DT, field/NN, looking/VBG, into/IN, the/DT, camera/NN, ./.] 	[The/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	374
+[A/DT, guy/NN, on/IN, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, in/IN, an/DT, arena/NN, ./.] 	375
+[Two/CD, dairy/NN, cows/NNS, drinking/VBG, from/IN, a/DT, pond/NN, ./.] 	[Two/CD, cows/NNS, are/VBP, drinking/VBG, from/IN, a/DT, pond/NN, ./.] 	376
+[There/EX, are/VBP, several/JJ, sheared/JJ, sheep/NN, in/IN, a/DT, pen/NN, ./.] 	[Three/CD, white/JJ, sheep/NN, in/IN, an/DT, enclosure/NN, ./.] 	377
+[Black/JJ, and/CC, white/JJ, cow/NN, standing/NN, near/IN, pile/NN, of/IN, snow/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, the/DT, field/NN, ./.] 	378
+[The/DT, black/JJ, dog/NN, is/VBZ, lying/VBG, in/IN, the/DT, grass/NN, ./.] 	[A/DT, black/JJ, dog/NN, lies/VBZ, on/IN, the/DT, grass/NN, ./.] 	379
+[Home/NNP, office/NN, space/NN, with/IN, bright/JJ, green/JJ, walls/NNS, and/CC, artwork/NN, ./.] 	[An/DT, office/NN, with/IN, multiple/JJ, desks/NNS, and/CC, green/JJ, walls/NNS, ./.] 	380
+[Large/JJ, white/JJ, cruise/NN, ship/NN, floating/VBG, on/IN, water/NN, ./.] 	[Large/JJ, cruise/NN, ship/NN, floating/VBG, on/IN, the/DT, water/NN, ./.] 	381
+[Two/CD, young/JJ, people/NNS, are/VBP, sitting/VBG, at/IN, a/DT, table/NN, next/JJ, to/TO, a/DT, sliding/VBG, glass/NN, door/NN, ,/,, with/IN, one/CD, person/NN, pointing/VBG, at/IN, the/DT, other/JJ, ./.] 	[Two/CD, people/NNS, sit/VBP, facing/VBG, each/DT, other/JJ, at/IN, a/DT, table/NN, as/IN, one/CD, points/NNS, at/IN, the/DT, other/JJ, ./.] 	382
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, man/NN, driving/VBG, a/DT, car/NN, and/CC, someone/NN, with/IN, a/DT, motorcycle/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, man/NN, in/IN, a/DT, classic/JJ, car/NN, and/CC, a/DT, man/NN, with/IN, a/DT, classic/JJ, motorcycle/NN, ./.] 	383
+[A/DT, man/NN, and/CC, a/DT, woman/NN, holding/VBG, hands/NNS, walking/VBG, along/IN, the/DT, beach/NN, ./.] 	[A/DT, man/NN, with/IN, a/DT, beard/NN, and/CC, a/DT, skullcap/NN, and/CC, a/DT, boy/NN, walk/NN, along/IN, the/DT, ocean/NN, 's/POS, shore/NN, ./.] 	384
+[Ten/CD, sheep/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, cat/NN, on/IN, its/PRP$, back/JJ, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	385
+[A/DT, black/JJ, and/CC, white/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, small/JJ, black/JJ, and/CC, white/JJ, goat/NN, in/IN, a/DT, pen/NN, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	386
+[A/DT, black/JJ, table/NN, with/IN, white/JJ, fuzzy/JJ, chair/NN, ./.] 	[A/DT, woman/NN, with/IN, her/PRP$, child/NN, ./.] 	387
+[Red/JJ, double/JJ, decker/NN, bus/NN, taking/VBG, on/RP, passengers/NNS, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	388
+[Sail/VB, boat/NN, sailing/NN, on/IN, the/DT, water/NN, ./.] 	[Sailboat/NNP, sailing/NN, on/IN, a/DT, cloudy/JJ, day/NN, ./.] 	389
+[A/DT, blue/JJ, bird/NN, perches/VBZ, on/IN, the/DT, gloved/JJ, hand/NN, of/IN, a/DT, person/NN, ./.] 	[A/DT, bird/NN, is/VBZ, perched/VBN, on/IN, a/DT, person/NN, 's/POS, gloved/JJ, hand/NN, ./.] 	390
+[Three/CD, people/NNS, are/VBP, by/IN, the/DT, water/NN, with/IN, yellow/JJ, canoes/NNS, ./.] 	[Three/CD, people/NNS, preparing/VBG, to/TO, canoe/NN, ./.] 	391
+[A/DT, girl/NN, riding/VBG, on/IN, a/DT, brown/JJ, and/CC, white/JJ, horse/NN, ./.] 	[A/DT, girl/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	392
+[A/DT, mostly/RB, black/JJ, train/NN, on/IN, a/DT, track/NN, ./.] 	[A/DT, car/NN, parked/VBN, in/IN, front/NN, of/IN, train/NN, tracks/NNS, ./.] 	393
+[A/DT, young/JJ, boy/NN, coloring/VBG, with/IN, a/DT, red/JJ, and/CC, blue/JJ, crayon/NN, ./.] 	[A/DT, young/JJ, blonde/JJ, girl/NN, in/IN, riding/VBG, gear/NN, sits/VBZ, on/IN, top/NN, of/IN, a/DT, gray/JJ, and/CC, white/JJ, horse/NN, ./.] 	394
+[Two/CD, bald/JJ, eagles/NNS, perched/VBN, on/IN, a/DT, branch/NN, ./.] 	[Two/CD, eagles/NNS, are/VBP, perched/VBN, on/IN, a/DT, branch/NN, ./.] 	395
+[A/DT, backpack/NN, standing/NN, beside/IN, a/DT, train/NN, ./.] 	[A/DT, social/JJ, gathering/NN, of/IN, people/NNS, in/IN, a/DT, restaurant/NN, ./.] 	396
+[A/DT, group/NN, of/IN, people/NNS, in/IN, a/DT, living/NN, room/NN, ./.] 	[A/DT, group/NN, of/IN, four/CD, people/NNS, walking/VBG, past/IN, a/DT, giant/JJ, mushroom/NN, ./.] 	397
+[A/DT, mallard/NN, and/CC, a/DT, tame/JJ, white/JJ, duck/NN, on/IN, the/DT, grass/NN, near/IN, water/NN, ./.] 	[A/DT, small/JJ, child/NN, in/IN, a/DT, pink/JJ, dress/NN, sits/VBZ, on/IN, a/DT, table/NN, ./.] 	398
+[The/DT, cat/NN, is/VBZ, sitting/VBG, between/IN, two/CD, bicycles/NNS, in/IN, front/NN, of/IN, a/DT, door/NN, ./.] 	[Than/IN, horse/NN, standing/NN, in/IN, a/DT, field/NN, in/IN, front/NN, of/IN, a/DT, fence/NN, ./.] 	399
+[A/DT, girl/NN, with/IN, a/DT, red/JJ, bag/NN, standing/NN, on/IN, the/DT, street/NN, ./.] 	[A/DT, black/JJ, dog/NN, is/VBZ, staring/VBG, at/IN, a/DT, sheep/NN, ./.] 	400
+[A/DT, girl/NN, in/IN, a/DT, riding/VBG, hat/NN, on/IN, a/DT, horse/NN, ./.] 	[A/DT, girl/NN, riding/VBG, a/DT, tan/NN, horse/NN, ./.] 	401
+[A/DT, horse/NN, rider/NN, is/VBZ, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, woman/NN, leading/VBG, a/DT, white/JJ, horse/NN, ./.] 	402
+[A/DT, man/NN, dressed/VBN, in/IN, a/DT, pale/JJ, scarf/NN, with/IN, a/DT, stick/NN, ./.] 	[A/DT, runner/NN, is/VBZ, resting/VBG, in/IN, the/DT, shade/NN, with/IN, a/DT, bottle/NN, of/IN, soda/NN, ./.] 	403
+[The/DT, bird/NN, is/VBZ, sitting/VBG, on/IN, the/DT, branch/NN, ./.] 	[A/DT, red/JJ, and/CC, brown/JJ, bird/NN, is/VBZ, perched/VBN, on/IN, branches/NNS, ./.] 	404
+[A/DT, long/JJ, train/NN, is/VBZ, on/IN, train/NN, tracks/NNS, ./.] 	[A/DT, train/NN, on/IN, the/DT, train/NN, tracks/NNS, ./.] 	405
+[A/DT, black/JJ, and/CC, tan/NN, dog/NN, looks/VBZ, at/IN, a/DT, black/JJ, sheep/NN, ./.] 	[A/DT, black/JJ, dog/NN, looking/VBG, at/IN, a/DT, brown/JJ, sheep/NN, in/IN, a/DT, pen/NN, ./.] 	406
+[A/DT, room/NN, with/IN, several/JJ, computers/NNS, and/CC, pictures/NNS, on/IN, the/DT, wall/NN, ./.] 	[A/DT, home/NN, office/NN, with/IN, three/CD, computer/NN, monitors/NNS, and/CC, other/JJ, equipment/NN, on/IN, a/DT, desk/NN, ./.] 	407
+[A/DT, very/RB, retro/JJ, living/NN, room/NN, with/IN, a/DT, television/NN, in/IN, it/PRP, ./.] 	[A/DT, grey/JJ, cat/NN, lying/VBG, on/IN, a/DT, wooden/JJ, table/NN, ./.] 	408
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cow/NN, walking/VBG, under/IN, a/DT, tree/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	409
+[A/DT, silver/NN, AreoMexico/NNP, Jet/NNP, Liner/NNP, sitting/VBG, on/IN, the/DT, tarmac/NN, ./.] 	[An/DT, aeromexico/NN, silver/NN, plane/NN, is/VBZ, on/IN, a/DT, runway/NN, ./.] 	410
+[a/DT, man/NN, on/IN, a/DT, dirt/NN, bike/NN, jumping/VBG, very/RB, high/JJ, ./.] 	[A/DT, man/NN, on/IN, a/DT, motorbike/NN, jumping/VBG, with/IN, the/DT, sky/NN, behind/IN, him/PRP, ./.] 	411
+[A/DT, girl/NN, in/IN, a/DT, riding/VBG, hat/NN, on/IN, a/DT, horse/NN, ./.] 	[A/DT, girl/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	412
+[Two/CD, people/NNS, sailing/VBG, a/DT, small/JJ, white/JJ, sail/NN, boat/NN, ./.] 	[Couple/NN, sailing/NN, in/IN, a/DT, small/JJ, sailboat/NN, ./.] 	413
+[A/DT, white/JJ, airplane/NN, is/VBZ, parked/VBN, on/IN, the/DT, cement/NN, ./.] 	[A/DT, blue/JJ, motorcycle/NN, is/VBZ, parked/VBN, on/IN, the/DT, sidewalk/NN, ./.] 	414
+[A/DT, group/NN, of/IN, peoples/NNS, posing/VBG, in/IN, fur/NN, hats/NNS, ./.] 	[A/DT, group/NN, of/IN, cyclists/NNS, in/IN, green/JJ, and/CC, white/JJ, with/IN, spectators/NNS, looking/VBG, on/IN, ./.] 	415
+[Three/CD, cows/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	[Several/JJ, sheep/NN, grazing/NN, in/IN, the/DT, field/NN, ./.] 	416
+[A/DT, car/NN, is/VBZ, pulling/VBG, off/RP, the/DT, side/NN, of/IN, the/DT, road/NN, onto/IN, the/DT, street/NN, ./.] 	[A/DT, silver/NN, car/NN, parked/VBN, on/IN, the/DT, side/NN, of/IN, the/DT, road/NN, in/IN, front/NN, of/IN, the/DT, hills/NNS, ./.] 	417
+[The/DT, man/NN, is/VBZ, sitting/VBG, at/IN, a/DT, messy/JJ, table/NN, and/CC, using/VBG, a/DT, laptop/NN, ./.] 	[A/DT, man/NN, sits/VBZ, looking/VBG, at/IN, a/DT, laptop/JJ, computer/NN, on/IN, a/DT, messy/JJ, table/NN, ./.] 	418
+[Black/JJ, domestic/JJ, cat/NN, lying/VBG, on/IN, brown/JJ, table/NN, ./.] 	[A/DT, grey/JJ, cat/NN, laying/VBG, on/IN, a/DT, dining/NN, table/NN, ./.] 	419
+[A/DT, dining/NN, table/NN, with/IN, candles/NNS, ,/,, wine/NN, ,/,, and/CC, a/DT, teapot/NN, ./.] 	[A/DT, wooden/JJ, table/NN, is/VBZ, set/VBN, with/IN, candles/NNS, ,/,, wine/NN, ,/,, and/CC, a/DT, purple/JJ, plastic/NN, bowl/NN, ./.] 	420
+[Four/CD, children/NNS, looking/VBG, at/IN, barn/NN, animals/NNS, ./.] 	[Children/NNS, looking/VBG, a/DT, sheep/NN, ./.] 	421
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, playing/VBG, with/IN, a/DT, wool/NN, basket/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, lying/VBG, on/IN, a/DT, blanket/NN, ./.] 	422
+[Two/CD, people/NNS, paddling/VBG, a/DT, red/JJ, canoe/NN, are/VBP, reflected/VBN, in/IN, the/DT, still/RB, water/NN, ./.] 	[Two/CD, people/NNS, in/IN, a/DT, red/JJ, canoe/NN, on/IN, a/DT, clear/JJ, lake/NN, ./.] 	423
+[A/DT, scantily/RB, clad/JJ, woman/NN, is/VBZ, standing/VBG, next/JJ, to/TO, a/DT, car/NN, ./.] 	[A/DT, scantily/RB, clad/JJ, woman/NN, standing/VBG, next/JJ, to/TO, a/DT, small/JJ, red/JJ, vehicle/NN, ./.] 	424
+[Red/JJ, double/JJ, decker/NN, bus/NN, taking/VBG, on/RP, passengers/NNS, ./.] 	[Red/JJ, double/JJ, decker/NN, bus/NN, with/IN, hood/NN, up/RB, ./.] 	425
+[The/DT, man/NN, is/VBZ, sitting/VBG, cross/JJ, legged/JJ, wearing/VBG, a/DT, cloak/NN, and/CC, holding/VBG, a/DT, stick/NN, ./.] 	[Man/NN, sitting/VBG, cross/JJ, legged/VBN, while/IN, wearing/VBG, a/DT, brown/JJ, cloth/NN, and/CC, holding/VBG, a/DT, wooden/JJ, stick/NN, ./.] 	426
+[A/DT, buddha/NN, statue/NN, holding/VBG, a/DT, candle/NN, is/VBZ, sitting/VBG, on/IN, a/DT, table/NN, ./.] 	[A/DT, man/NN, fishing/NN, on/IN, a/DT, small/JJ, boat/NN, while/IN, on/IN, a/DT, lake/NN, ./.] 	427
+[Two/CD, black/JJ, and/CC, white/JJ, dogs/NNS, at/IN, the/DT, bottom/NN, of/IN, stairs/NNS, ./.] 	[A/DT, dog/NN, is/VBZ, lying/VBG, at/IN, the/DT, bottom/NN, of/IN, a/DT, staircase/NN, next/JJ, to/TO, another/DT, standing/NN, dog/NN, ./.] 	428
+[Three/CD, people/NNS, sitting/VBG, at/IN, dinner/NN, table/NN, smiling/VBG, at/IN, camera/NN, ./.] 	[Two/CD, elderly/JJ, women/NNS, sit/VBP, at/IN, a/DT, dinner/NN, table/NN, with/IN, a/DT, man/NN, ./.] 	429
+[A/DT, multi-colored/JJ, train/NN, on/IN, a/DT, track/NN, ./.] 	[A/DT, mostly/RB, black/JJ, train/NN, on/IN, a/DT, track/NN, ./.] 	430
+[A/DT, white/JJ, and/CC, red/JJ, bus/NN, traveling/VBG, on/IN, the/DT, street/NN, ./.] 	[The/DT, red/JJ, bus/NN, is/VBZ, on/IN, the/DT, street/NN, ./.] 	431
+[A/DT, red/JJ, and/CC, blue/JJ, plane/NN, flying/VBG, with/IN, its/PRP$, landing/NN, gears/NNS, down/RB, ./.] 	[A/DT, WWII/NNP, fighter/NN, plane/NN, with/IN, its/PRP$, landing/NN, gear/NN, down/RB, ./.] 	432
+[Small/JJ, boat/NN, going/VBG, down/RP, a/DT, creek/NN, ./.] 	[a/DT, boat/NN, moving/VBG, in/IN, a/DT, river/NN, ./.] 	433
+[Four/CD, women/NNS, and/CC, two/CD, men/NNS, sit/VBP, at/IN, a/DT, long/JJ, table/NN, in/IN, a/DT, restaurant/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sit/VBP, at/IN, a/DT, table/NN, in/IN, an/DT, Italian/JJ, restaurant/NN, ./.] 	434
+[An/DT, old/JJ, fashioned/VBN, wooden/JJ, sailing/NN, ship/NN, in/IN, the/DT, ocean/NN, ./.] 	[An/DT, old/JJ, fashioned/VBN, wooden/JJ, sailing/NN, ship/NN, is/VBZ, parked/VBN, at/IN, the/DT, pier/NN, ./.] 	435
+[Two/CD, goats/NNS, standing/VBG, in/IN, a/DT, field/NN, by/IN, a/DT, tree/NN, ./.] 	[A/DT, large/JJ, boat/NN, pulling/VBG, a/DT, small/JJ, white/JJ, boat/NN, ./.] 	436
+[A/DT, man/NN, sitting/VBG, cross/JJ, legged/VBN, on/IN, the/DT, grass/NN, ,/,, with/IN, a/DT, tree/NN, in/IN, the/DT, background/NN, ./.] 	[Ocean/NNP, liner/NN, close/NN, to/TO, coast/NN, with/IN, houses/NNS, in/IN, the/DT, background/NN, ./.] 	437
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, living/NN, room/NN, with/IN, a/DT, large/JJ, window/NN, ,/,, sofa/NN, ,/,, and/CC, chair/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, scene/NN, of/IN, a/DT, well/RB, furnished/JJ, room/NN, with/IN, a/DT, view/NN, outlooking/VBG, a/DT, forest/NN, ./.] 	438
+[Close/VB, up/IN, of/IN, a/DT, brown/JJ, horse/NN, with/IN, a/DT, blue/JJ, halter/NN, ./.] 	[A/DT, close/NN, up/IN, of/IN, a/DT, horse/NN, wearing/VBG, a/DT, blue/JJ, halter/NN, ./.] 	439
+[A/DT, large/JJ, black/JJ, bird/NN, is/VBZ, sitting/VBG, in/IN, the/DT, water/NN, ./.] 	[The/DT, birds/NNS, are/VBP, swimming/VBG, in/IN, the/DT, water/NN, ./.] 	440
+[A/DT, close-up/NN, of/IN, a/DT, cat/NN, on/IN, a/DT, cream/NN, sofa/NN, ./.] 	[A/DT, siamese/JJ, cat/NN, resting/VBG, on/IN, a/DT, white/JJ, sofa/NN, ./.] 	441
+[A/DT, person/NN, is/VBZ, jumping/VBG, a/DT, bicycle/NN, and/CC, performing/VBG, a/DT, trick/NN, ./.] 	[A/DT, person/NN, riding/VBG, a/DT, dirt/NN, bike/NN, in/IN, the/DT, outdoors/NNS, ./.] 	442
+[A/DT, yellow/JJ, school/NN, bus/NN, is/VBZ, parked/VBN, in/IN, a/DT, rural/JJ, area/NN, ./.] 	[A/DT, yellow/JJ, school/NN, bus/NN, parked/VBN, in/IN, a/DT, field/NN, ./.] 	443
+[A/DT, pug/NN, dog/NN, wits/NNS, on/IN, a/DT, yellow/JJ, chair/NN, next/IN, to/TO, a/DT, green/JJ, dumpster/NN, ./.] 	[A/DT, bulldog/NN, sitting/VBG, on/IN, a/DT, yellow/JJ, chair/NN, beside/IN, a/DT, large/JJ, waste/NN, receptacle/NN, ./.] 	444
+[The/DT, woman/NN, is/VBZ, sitting/VBG, on/IN, the/DT, red/JJ, motorcycle/NN, ./.] 	[The/DT, white/JJ, sheep/NN, is/VBZ, standing/VBG, on/IN, the/DT, green/JJ, hill/NN, ./.] 	445
+[A/DT, sheep/NN, standing/NN, on/IN, a/DT, table/NN, at/IN, auction/NN, ./.] 	[Woolly/JJ, sheep/NN, at/IN, auction/NN, house/NN, ./.] 	446
+[A/DT, close-up/NN, of/IN, a/DT, black/JJ, train/NN, engine/NN, ./.] 	[Close/VB, up/IN, of/IN, a/DT, white/JJ, sheep/NN, with/IN, a/DT, black/JJ, head/NN, ./.] 	447
+[A/DT, orange/NN, and/CC, white/JJ, cat/NN, asleep/RB, on/IN, a/DT, leather/NN, chair/NN, ./.] 	[A/DT, orange/NN, and/CC, white/JJ, cat/NN, laying/VBG, on/IN, a/DT, blanket/NN, in/IN, a/DT, black/JJ, leather/NN, chair/NN, ./.] 	448
+[a/DT, train/NN, rides/NNS, on/IN, his/PRP$, tracks/NNS, ./.] 	[The/DT, train/NN, comes/VBZ, down/RP, the/DT, track/NN, ,/,, between/IN, two/CD, rows/NNS, of/IN, trees/NNS, ./.] 	449
+[Two/CD, men/NNS, on/IN, boat/NN, floating/VBG, on/IN, the/DT, water/NN, ./.] 	[A/DT, wooden/JJ, yacht/NN, on/IN, the/DT, ocean/NN, ./.] 	450
+[Black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, grassy/JJ, field/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, horned/VBN, cow/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	451
+[A/DT, double/JJ, decker/NN, red/JJ, United/NNP, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	[A/DT, double/JJ, decker/NN, bus/NN, drives/NNS, on/IN, a/DT, city/NN, street/NN, ./.] 	452
+[Two/CD, cats/NNS, sitting/VBG, on/IN, a/DT, couch/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	[A/DT, cat/NN, looking/VBG, out/IN, of/IN, a/DT, window/NN, ./.] 	453
+[The/DT, television/NN, and/CC, desk/NN, of/IN, hotel/NN, room/NN, with/IN, lamp/NN, lighting/NN, ./.] 	[A/DT, television/NN, and/CC, a/DT, laptop/JJ, computer/NN, are/VBP, on/IN, in/IN, a/DT, hotel/NN, room/NN, ./.] 	454
+[A/DT, man/NN, riding/VBG, a/DT, small/JJ, bicycle/NN, ./.] 	[A/DT, man/NN, is/VBZ, doing/VBG, a/DT, wheelie/NN, on/IN, a/DT, bike/NN, ./.] 	455
+[Three/CD, goats/NNS, are/VBP, being/VBG, rounded/VBD, up/RP, by/IN, a/DT, dog/NN, ./.] 	[Three/CD, goats/NNS, are/VBP, chased/VBN, by/IN, a/DT, dog/NN, ./.] 	456
+[A/DT, woman/NN, wearing/VBG, a/DT, navy/NN, dress/NN, is/VBZ, cutting/VBG, a/DT, cake/NN, on/IN, a/DT, white/JJ, table/NN, ./.] 	[A/DT, person/NN, wearing/VBG, a/DT, helmet/NN, sits/VBZ, on/IN, a/DT, bicycle/NN, on/IN, a/DT, sunny/JJ, day/NN, ./.] 	457
+[A/DT, man/NN, doing/VBG, a/DT, wheelie/NN, on/IN, a/DT, mountain/NN, bike/NN, ./.] 	[A/DT, woman/NN, posing/VBG, by/IN, a/DT, pillar/NN, with/IN, a/DT, U2/NN, sign/NN, ./.] 	458
+[A/DT, tan/NN, puppy/NN, on/IN, a/DT, carpeted/JJ, floor/NN, ./.] 	[Tan/NNP, puppy/NN, lying/VBG, down/RP, on/IN, white/JJ, carpeting/NN, ./.] 	459
+[A/DT, black/JJ, train/NN, moves/NNS, down/IN, the/DT, tracks/NNS, ./.] 	[A/DT, train/NN, traveling/VBG, down/RP, the/DT, tracks/NNS, ./.] 	460
+[A/DT, close-up/NN, picture/NN, of/IN, a/DT, white/JJ, and/CC, purple/JJ, motorcycle/NN, ./.] 	[A/DT, close-up/NN, picture/NN, of/IN, a/DT, desk/NN, with/IN, a/DT, computer/NN, and/CC, papers/NNS, on/IN, it/PRP, ./.] 	461
+[A/DT, young/JJ, girl/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, woman/NN, in/IN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	462
+[A/DT, black/JJ, dog/NN, standing/NN, in/IN, a/DT, grassy/JJ, area/NN, ./.] 	[A/DT, long-haired/JJ, dog/NN, stands/VBZ, in/IN, a/DT, grassy/JJ, wooded/JJ, area/NN, ./.] 	463
+[Two/CD, women/NNS, in/IN, the/DT, kitchen/NN, looking/VBG, at/IN, a/DT, object/NN, ./.] 	[Three/CD, men/NNS, in/IN, suits/NNS, sitting/VBG, at/IN, a/DT, table/NN, ./.] 	464
+[Two/CD, women/NNS, posing/VBG, with/IN, a/DT, baby/NN, ./.] 	[A/DT, woman/NN, poses/VBZ, with/IN, a/DT, baby/NN, ./.] 	465
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, containing/VBG, food/NN, ./.] 	[Four/CD, people/NNS, are/VBP, sitting/VBG, around/IN, a/DT, living/NN, room/NN, with.snacks/NNS, ./.] 	466
+[Train/NN, in/IN, a/DT, station/NN, ./.] 	[a/DT, train/NN, in/IN, a/DT, station/NN, ./.] 	467
+[A/DT, blue/JJ, motorcycle/NN, is/VBZ, parked/VBN, on/IN, the/DT, sidewalk/NN, ./.] 	[A/DT, blue/JJ, moped/JJ, parked/VBN, on/IN, the/DT, sidewalk/NN, ./.] 	468
+[A/DT, blue/JJ, bird/NN, standing/NN, on/IN, a/DT, lawn/NN, ./.] 	[Blue/NNP, bird/NN, standing/NN, on/IN, green/JJ, grass/NN, ./.] 	469
+[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	470
+[Two/CD, trains/NNS, inside/IN, a/DT, train/NN, station/NN, ./.] 	[The/DT, train/NN, sits/VBZ, at/IN, the/DT, train/NN, station/NN, ./.] 	471
+[A/DT, woman/NN, equestrian/JJ, riding/VBG, a/DT, horse/NN, ./.] 	[The/DT, woman/NN, is/VBZ, riding/VBG, on/IN, the/DT, brown/JJ, horse/NN, ./.] 	472
+[An/DT, empty/JJ, office/NN, cubicle/NN, ./.] 	[An/DT, empty/JJ, office/NN, chair/NN, in/IN, a/DT, cubicle/NN, ./.] 	473
+[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, woman/NN, with/IN, a/DT, white/JJ, horse/NN, ./.] 	474
+[Train/NN, going/VBG, down/RP, the/DT, tracks/NNS, ./.] 	[A/DT, black/JJ, steam/NN, train/NN, traveling/VBG, on/IN, the/DT, railroad/NN, tracks/NNS, ./.] 	475
+[A/DT, man/NN, and/CC, two/CD, women/NNS, smiling/VBG, at/IN, the/DT, camera/NN, while/IN, sitting/VBG, on/IN, a/DT, blue/JJ, sofa/NN, ./.] 	[A/DT, man/NN, and/CC, women/NNS, smiling/VBG, at/IN, the/DT, camera/NN, while/IN, standing/VBG, in/IN, a/DT, kitchen/NN, ./.] 	476
+[A/DT, man/NN, and/CC, woman/NN, sit/VBP, at/IN, a/DT, table/NN, in/IN, a/DT, restaurant/NN, ./.] 	[Four/CD, women/NNS, and/CC, two/CD, men/NNS, sit/VBP, at/IN, a/DT, long/JJ, table/NN, in/IN, a/DT, restaurant/NN, ./.] 	477
+[A/DT, young/JJ, man/NN, wearing/VBG, a/DT, striped/JJ, shirt/NN, is/VBZ, holding/VBG, two/CD, bicycles/NNS, ./.] 	[Young/JJ, redheaded/JJ, man/NN, holding/VBG, two/CD, bicycles/NNS, near/IN, beach/NN, ./.] 	478
+[A/DT, large/JJ, cruise/NN, ship/NN, in/IN, harbor/NN, with/IN, trees/NNS, behind/IN, ./.] 	[A/DT, cruise/NN, ship/NN, docked/VBN, at/IN, a/DT, coast/NN, ./.] 	479
+[A/DT, white/JJ, plane/NN, on/IN, the/DT, runway/NN, ./.] 	[A/DT, white/JJ, Swiss/JJ, airplane/NN, approaches/VBZ, the/DT, runway/NN, ./.] 	480
+[Two/CD, cows/NNS, crossing/VBG, a/DT, road/NN, intersection/NN, ./.] 	[Two/CD, cows/NNS, cross/VBP, a/DT, paved/JJ, street/NN, ./.] 	481
+[Several/JJ, cows/NNS, grazing/NN, on/IN, the/DT, median/NN, by/IN, the/DT, road/NN, ./.] 	[Five/CD, cows/NNS, grazing/NN, on/IN, a/DT, patch/NN, of/IN, grass/NN, between/IN, two/CD, roadways/NNS, ./.] 	482
+[A/DT, television/NN, ,/,, upholstered/JJ, chair/NN, ,/,, and/CC, coffee/NN, stable/JJ, in/IN, a/DT, bright/JJ, room/NN, ./.] 	[A/DT, leather/NN, couch/NN, and/CC, wooden/JJ, table/NN, in/IN, a/DT, living/NN, room/NN, ./.] 	483
+[The/DT, white/JJ, ducks/NNS, are/VBP, standing/VBG, on/IN, the/DT, ground/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, black/JJ, hat/NN, is/VBZ, standing/VBG, by/IN, the/DT, subway/NN, ./.] 	484
+[A/DT, black/JJ, cow/NN, and/CC, a/DT, brown/JJ, cow/NN, stands/VBZ, in/IN, a/DT, plain/NN, in/IN, front/NN, of/IN, an/DT, uprooted/VBN, tree/NN, ./.] 	[A/DT, black/JJ, cow/NN, and/CC, a/DT, brown/JJ, cow/NN, standing/NN, in/IN, front/NN, of/IN, a/DT, small/JJ, copse/NN, of/IN, trees/NNS, in/IN, a/DT, field/NN, ./.] 	485
+[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, street/NN, ./.] 	[A/DT, double/JJ, decker/NN, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	486
+[A/DT, group/NN, of/IN, people/NNS, eat/VBP, at/IN, a/DT, table/NN, outside/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, at/IN, a/DT, restaurant/NN, table/NN, ./.] 	487
+[Tan/NNP, cow/NN, with/IN, ear/NN, tags/NNS, on/IN, a/DT, grassy/JJ, field/NN, ./.] 	[Person/NN, in/IN, grassy/JJ, field/NN, tending/VBG, to/TO, sheep/NN, ./.] 	488
+[A/DT, close/NN, up/IN, of/IN, the/DT, front/JJ, end/NN, of/IN, a/DT, purple/JJ, and/CC, white/JJ, motor/NN, cycle/NN, ./.] 	[Close/VB, up/IN, of/IN, the/DT, rear/NN, of/IN, a/DT, red/JJ, sports/NNS, car/NN, ./.] 	489
+[Two/CD, women/NNS, shopping/VBG, at/IN, a/DT, clothing/NN, store/NN, ./.] 	[Two/CD, women/NNS, in/IN, a/DT, clothing/NN, store/NN, ./.] 	490
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, at/IN, a/DT, restaurant/NN, table/NN, ./.] 	[Group/NN, of/IN, people/NNS, sitting/VBG, at/IN, table/NN, of/IN, restaurant/NN, ./.] 	491
+[A/DT, close-up/NN, of/IN, a/DT, brown/JJ, horse/NN, 's/POS, head/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, yellow/JJ, school/NN, bus/NN, ./.] 	492
+[A/DT, person/NN, in/IN, a/DT, red/JJ, cap/NN, standing/VBG, next/JJ, to/TO, a/DT, brick/NN, support/NN, beam/NN, ./.] 	[A/DT, brown/JJ, horse/NN, is/VBZ, standing/VBG, on/IN, grass/NN, and/CC, scrub/NN, ./.] 	493
+[A/DT, bay/NN, foal/NN, is/VBZ, walking/VBG, next/JJ, to/TO, its/PRP$, mother/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	[Close-up/NN, of/IN, young/JJ, horse/NN, walking/VBG, next/JJ, to/TO, a/DT, larger/JJR, horse/NN, ./.] 	494
+[A/DT, women/NNS, standing/VBG, next/JJ, to/TO, a/DT, brown/JJ, cow/NN, ./.] 	[A/DT, women/NNS, in/IN, glasses/NNS, stands/VBZ, next/JJ, to/TO, a/DT, cow/NN, in/IN, a/DT, field/NN, ./.] 	495
+[Two/CD, cats/NNS, sitting/VBG, on/IN, a/DT, couch/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	[Two/CD, cats/NNS, are/VBP, looking/VBG, at/IN, a/DT, window/NN, ./.] 	496
+[A/DT, dog/NN, peaks/VBZ, out/RP, the/DT, back/NN, of/IN, a/DT, truck/NN, ./.] 	[A/DT, dog/NN, is/VBZ, peeking/VBG, out/IN, of/IN, the/DT, back/NN, of/IN, a/DT, van/NN, ./.] 	497
+[Woman/NNP, in/IN, blue/JJ, shift/NN, dress/NN, cutting/VBG, into/IN, food/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, blue/JJ, dress/NN, cuts/VBZ, a/DT, cake/NN, ./.] 	498
+[The/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	[A/DT, grey/JJ, ,/,, black/JJ, ,/,, and/CC, white/JJ, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	499
+[Two/CD, brunette/NN, girls/NNS, sit/VBP, atop/IN, a/DT, red/JJ, an/DT, yellow/JJ, motorcycle/NN, with/IN, a/DT, side/NN, car/NN, ./.] 	[A/DT, couple/NN, posing/VBG, on/IN, a/DT, red/JJ, and/CC, yellow/JJ, motorcycle/NN, ./.] 	500
+[A/DT, small/JJ, white/JJ, cat/NN, standing/NN, in/IN, a/DT, sink/NN, ./.] 	[Grey/NNP, and/CC, white/JJ, cat/NN, sitting/VBG, in/IN, bathroom/NN, sink/NN, ./.] 	501
+[A/DT, man/NN, on/IN, the/DT, back/JJ, seat/NN, of/IN, a/DT, red/JJ, tandem/JJ, bicycle/NN, ./.] 	[A/DT, man/NN, is/VBZ, alone/RB, on/IN, the/DT, back/NN, of/IN, a/DT, tandem/JJ, bicycle/NN, ./.] 	502
+[The/DT, small/JJ, dog/NN, is/VBZ, wearing/VBG, a/DT, sweater/NN, and/CC, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	[A/DT, small/JJ, white/JJ, dog/NN, wearing/VBG, a/DT, jacket/NN, looks/VBZ, up/RP, at/IN, the/DT, camera/NN, ./.] 	503
+[Two/CD, men/NNS, standing/VBG, in/IN, grass/NN, staring/VBG, at/IN, a/DT, car/NN, ./.] 	[Two/CD, women/NNS, sitting/VBG, in/IN, chairs/NNS, in/IN, a/DT, shop/NN, ./.] 	504
+[A/DT, computer/NN, on/IN, a/DT, desk/NN, ./.] 	[A/DT, computer/NN, operating/NN, on/IN, a/DT, desk/NN, ./.] 	505
+[A/DT, small/JJ, child/NN, smiling/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, small/JJ, child/NN, sits/VBZ, on/IN, a/DT, cement/NN, wall/NN, near/IN, white/JJ, flower/NN, ./.] 	506
+[A/DT, little/JJ, bird/NN, floating/VBG, in/IN, the/DT, water/NN, ./.] 	[A/DT, duck/NN, floating/VBG, in/IN, the/DT, water/NN, ./.] 	507
+[A/DT, woman/NN, stands/VBZ, in/IN, front/NN, of/IN, a/DT, building/NN, in/IN, the/DT, snow/NN, ./.] 	[Two/CD, women/NNS, and/CC, a/DT, baby/NN, pose/VB, in/IN, front/NN, of/IN, a/DT, dining/NN, room/NN, ./.] 	508
+[A/DT, white/JJ, bus/NN, with/IN, the/DT, word/NN, Julia/NNP, is/VBZ, near/IN, water/NN, and/CC, a/DT, big/JJ, ship/NN, ./.] 	[A/DT, white/JJ, bus/NN, with/IN, water/NN, and/CC, a/DT, barge/NN, in/IN, the/DT, background/NN, ./.] 	509
+[Home/NNP, office/NN, space/NN, with/IN, bright/JJ, green/JJ, walls/NNS, and/CC, artwork/NN, ./.] 	[Small/JJ, office/NN, space/NN, with/IN, bright/JJ, green/JJ, walls/NNS, ./.] 	510
+[Old/NNP, blue/JJ, and/CC, white/JJ, train/NN, on/IN, tracks/NNS, ./.] 	[A/DT, blue/JJ, train/NN, in/IN, a/DT, mountainous/JJ, area/NN, ./.] 	511
+[Young/NNP, baby/NN, girl/NN, sitting/VBG, on/IN, table/NN, ./.] 	[A/DT, woman/NN, with/IN, a/DT, smiling/VBG, baby/NN, sitting/VBG, on/IN, the/DT, table/NN, ./.] 	512
+[A/DT, green/JJ, car/NN, parked/VBN, at/IN, a/DT, saloon/NN, ./.] 	[A/DT, green/JJ, car/NN, parked/VBD, outside/IN, the/DT, saloon/NN, ./.] 	513
+[Yellow/JJ, boat/NN, on/IN, a/DT, beach/NN, ./.] 	[A/DT, yellow/JJ, boat/NN, on/IN, shore/NN, ./.] 	514
+[Group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, restaurant/NN, dining/NN, table/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, at/IN, a/DT, restaurant/NN, table/NN, ./.] 	515
+[A/DT, kitchendiner/NN, with/IN, papers/NNS, laying/VBG, on/IN, the/DT, blue/JJ, clothed/JJ, dining/NN, table/NN, ./.] 	[A/DT, small/JJ, kitchen/NN, and/CC, a/DT, cluttered/JJ, table/NN, with/IN, a/DT, blue/JJ, table/NN, cloth/NN, ./.] 	516
+[Train/NN, in/IN, a/DT, station/NN, ./.] 	[Trains/NNS, inside/IN, an/DT, indoor/JJ, station/NN, ./.] 	517
+[A/DT, gray/JJ, cat/NN, is/VBZ, sitting/VBG, on/IN, the/DT, window/NN, ledge/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[The/DT, cat/NN, is/VBZ, standing/VBG, on/IN, the/DT, window/NN, sill/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	518
+[Two/CD, ducks/NNS, are/VBP, standing/VBG, by/IN, the/DT, water/NN, ./.] 	[The/DT, birds/NNS, are/VBP, swimming/VBG, in/IN, the/DT, water/NN, ./.] 	519
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, in/IN, a/DT, pen/NN, with/IN, hay/NN, ./.] 	[Black/JJ, and/CC, white/JJ, cows/NNS, behind/IN, a/DT, fence/NN, ./.] 	520
+[Man/NN, playing/NN, guitar/NN, while/IN, sitting/VBG, down/RP, ./.] 	[Red/NNP, and/CC, white/JJ, bus/NN, driving/VBG, down/RP, road/NN, ./.] 	521
+[A/DT, man/NN, and/CC, woman/NN, are/VBP, posing/VBG, for/IN, the/DT, camera/NN, ./.] 	[A/DT, cat/NN, sitting/VBG, on/IN, sand/NN, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	522
+[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	[A/DT, double/JJ, decker/NN, bus/NN, on/IN, a/DT, city/NN, street/NN, ./.] 	523
+[A/DT, green/JJ, and/CC, white/JJ, cargo/NN, plane/NN, taking/NN, of/IN, from/IN, an/DT, airport/NN, ./.] 	[White/NNP, and/CC, green/JJ, commercial/JJ, airliner/NN, taking/VBG, off/RP, of/IN, runway/NN, ./.] 	524
+[Three/CD, cows/NNS, are/VBP, grazing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	[Three/CD, cows/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	525
+[The/DT, brown/JJ, train/NN, is/VBZ, sitting/VBG, on/IN, the/DT, railroad/NN, tracks/NNS, ./.] 	[The/DT, white/JJ, train/NN, is/VBZ, sitting/VBG, on/IN, the/DT, tracks/NNS, ./.] 	526
+[A/DT, black/JJ, and/CC, white/JJ, horned/VBN, cow/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cat/NN, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	527
+[Two/CD, cats/NNS, are/VBP, close/JJ, together/RB, inside/IN, and/CC, black/JJ, and/CC, white/JJ, furry/JJ, enclosure/NN, ./.] 	[Two/CD, baby/NN, kittens/NNS, are/VBP, sitting/VBG, inside/IN, a/DT, cow-schemed/JJ, ,/,, fur-covered/JJ, dome/NN, ./.] 	528
+[A/DT, tiny/JJ, blonde/JJ, child/NN, in/IN, a/DT, blue/JJ, dress/NN, sits/VBZ, on/IN, a/DT, table/NN, near/IN, her/PRP$, mother/NN, ./.] 	[A/DT, young/JJ, blonde/JJ, girl/NN, wearing/VBG, a/DT, helmet/NN, sits/VBZ, with/IN, a/DT, red/JJ, bicycle/NN, behind/IN, her/PRP, ./.] 	529
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, at/IN, a/DT, restaurant/NN, table/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, on/IN, a/DT, porch/NN, ./.] 	530
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, in/IN, a/DT, pen/NN, with/IN, hay/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, lies/VBZ, in/IN, the/DT, dirt/NN, ./.] 	531
+[A/DT, red/JJ, ,/,, double-decker/JJ, bus/NN, ./.] 	[Front/NN, and/CC, left/VBD, side/NN, of/IN, a/DT, red/JJ, double/JJ, decker/NN, bus/NN, ./.] 	532
+[A/DT, yellow/JJ, school/NN, bus/NN, parked/VBN, in/IN, a/DT, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, in/IN, a/DT, green/JJ, field/NN, ./.] 	533
+[A/DT, close-up/NN, view/NN, of/IN, a/DT, horse/NN, 's/POS, head/NN, ./.] 	[A/DT, side/NN, view/NN, of/IN, a/DT, horse/NN, 's/POS, head/NN, ./.] 	534
+[An/DT, elderly/JJ, man/NN, works/VBZ, on/IN, his/PRP$, laptop/NN, at/IN, home/NN, ./.] 	[Older/JJR, gentleman/NN, sitting/VBG, on/IN, couch/NN, with/IN, laptop/NN, ./.] 	535
+[An/DT, old/JJ, fashioned/VBN, wooden/JJ, sailing/NN, ship/NN, in/IN, the/DT, ocean/NN, ./.] 	[A/DT, wooden/JJ, yacht/NN, on/IN, the/DT, ocean/NN, ./.] 	536
+[A/DT, sheep/NN, standing/NN, in/IN, a/DT, mountainous/JJ, area/NN, ./.] 	[A/DT, large/JJ, sheep/NN, standing/NN, on/IN, a/DT, hill/NN, ./.] 	537
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, on/IN, a/DT, small/JJ, sofa/NN, next/IN, to/TO, a/DT, kitchen/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, standing/VBG, near/IN, a/DT, small/JJ, child/NN, sitting/VBG, on/IN, a/DT, horse/NN, ./.] 	538
+[A/DT, white/JJ, plane/NN, on/IN, the/DT, runway/NN, ./.] 	[A/DT, white/JJ, airplane/NN, is/VBZ, on/IN, a/DT, runway/NN, ./.] 	539
+[A/DT, tan/NN, puppy/NN, being/VBG, petted/VBN, ./.] 	[A/DT, tan/NN, puppy/NN, being/VBG, held/VBN, and/CC, petted/VBN, ./.] 	540
+[The/DT, cat/NN, is/VBZ, sitting/VBG, on/IN, a/DT, bag/NN, of/IN, cat/NN, food/NN, ./.] 	[Two/CD, eagles/NNS, sitting/VBG, on/IN, a/DT, long/JJ, branch/NN, ./.] 	541
+[Elegant/JJ, dining/NN, room/NN, with/IN, wood/NN, furniture/NN, ./.] 	[An/DT, elegant/JJ, pink/JJ, dining/NN, room/NN, with/IN, wooden/JJ, furniture/NN, ./.] 	542
+[A/DT, women/NNS, laying/VBG, across/IN, two/CD, men/NNS, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	[Two/CD, men/NNS, in/IN, shorts/NNS, are/VBP, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	543
+[two/CD, motorbikes/NNS, on/IN, a/DT, dirt/NN, track/NN, ./.] 	[Two/CD, dirt/NN, bikers/NNS, riding/VBG, over/IN, dirt/NN, hill/NN, ./.] 	544
+[A/DT, man/NN, jumping/VBG, his/PRP$, dirt/NN, bike/NN, ./.] 	[A/DT, man/NN, on/IN, a/DT, bike/NN, jumping/VBG, through/IN, the/DT, air/NN, ./.] 	545
+[The/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	546
+[A/DT, large/JJ, pile/NN, of/IN, wooden/JJ, items/NNS, piled/VBD, high/JJ, ./.] 	[A/DT, large/JJ, pile/NN, of/IN, scrap/NN, wood/NN, ./.] 	547
+[A/DT, gray/JJ, cat/NN, with/IN, green/JJ, eyes/NNS, looks/VBZ, at/IN, the/DT, camera/NN, ./.] 	[A/DT, grey/JJ, cat/NN, with/IN, green/JJ, eyes/NNS, looking/VBG, into/IN, the/DT, camera/NN, ./.] 	548
+[Two/CD, lambs/NNS, stand/VBP, on/IN, a/DT, grassy/JJ, hill/NN, ./.] 	[Two/CD, dirt/NN, bikers/NNS, riding/VBG, over/IN, dirt/NN, hill/NN, ./.] 	549
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, bottle/NN, sitting/VBG, atop/IN, a/DT, rock/NN, carving/VBG, in/IN, front/NN, of/IN, a/DT, line/NN, of/IN, bushes/NNS, ./.] 	[A/DT, bottle/NN, of/IN, water/NN, sitting/VBG, on/IN, a/DT, stone/NN, with/IN, other/JJ, stones/NNS, and/CC, a/DT, wall/NN, in/IN, the/DT, background/NN, ./.] 	550
+[A/DT, woman/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, girl/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	551
+[Black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, girl/NN, on/IN, a/DT, sofa/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cow/NN, under/IN, a/DT, tree/NN, ./.] 	552
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, sitting/VBG, on/IN, a/DT, brown/JJ, chair/NN, looking/VBG, up/RP, ./.] 	[Black/JJ, and/CC, white/JJ, cat/NN, sitting/VBG, on/IN, wood/NN, chair/NN, looking/VBG, up/RP, ./.] 	553
+[A/DT, black/JJ, and/CC, white/JJ, horned/VBN, cow/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, large/JJ, black/JJ, and/CC, white/JJ, cow/NN, in/IN, a/DT, field/NN, ./.] 	554
+[A/DT, man/NN, in/IN, white/JJ, with/IN, a/DT, wine/NN, bottle/NN, and/CC, a/DT, woman/NN, in/IN, a/DT, red/JJ, turtleneck/NN, with/IN, a/DT, white/JJ, vest/NN, ./.] 	[A/DT, man/NN, and/CC, woman/NN, posing/VBG, on/IN, a/DT, field/NN, with/IN, a/DT, bottle/NN, of/IN, wine/NN, ./.] 	555
+[A/DT, lone/JJ, cow/NN, sits/VBZ, in/IN, the/DT, cold/NN, of/IN, the/DT, yard/NN, ./.] 	[a/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, the/DT, field/NN, ./.] 	556
+[A/DT, double/JJ, decker/NN, bus/NN, drives/NNS, on/IN, a/DT, city/NN, street/NN, ./.] 	[A/DT, red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	557
+[Large/JJ, black/JJ, and/CC, white/JJ, cat/NN, resting/VBG, on/IN, a/DT, windowsill/NN, ./.] 	[A/DT, small/JJ, white/JJ, cat/NN, sitting/VBG, in/IN, a/DT, sink/NN, ./.] 	558
+[Boy/NN, feeding/VBG, a/DT, sheep/NN, ./.] 	[A/DT, boy/NN, feeding/VBG, a/DT, sheep/NN, hay/NN, ./.] 	559
+[A/DT, black/JJ, dog/NN, stands/VBZ, next/JJ, to/TO, materials/NNS, at/IN, a/DT, construction/NN, site/NN, ./.] 	[A/DT, black/JJ, dog/NN, stands/VBZ, in/IN, the/DT, middle/NN, of/IN, a/DT, construction/NN, site/NN, ./.] 	560
+[A/DT, girl/NN, in/IN, a/DT, black/JJ, desktop/NN, holds/VBZ, up/RP, an/DT, open/JJ, box/NN, of/IN, Corn/NNP, Flakes/NNPS, and/CC, a/DT, carton/NN, of/IN, milk/NN, ./.] 	[A/DT, girl/NN, wearing/VBG, black/JJ, shorts/NNS, and/CC, boots/NNS, is/VBZ, standing/VBG, next/JJ, to/TO, a/DT, blue/JJ, motorcycle/NN, ./.] 	561
+[a/DT, close/NN, up/IN, of/IN, a/DT, small/JJ, cactus/NN, in/IN, a/DT, pot/NN, ./.] 	[a/DT, close/NN, up/IN, of/IN, a/DT, woman/NN, holding/VBG, a/DT, white/JJ, puppy/NN, ./.] 	562
+[The/DT, white/JJ, sheep/NN, is/VBZ, standing/VBG, on/IN, the/DT, green/JJ, hill/NN, ./.] 	[A/DT, sheep/NN, stands/VBZ, on/IN, a/DT, hillside/NN, ./.] 	563
+[A/DT, long-haired/JJ, man/NN, with/IN, a/DT, hat/NN, standing/NN, between/IN, two/CD, large/JJ, ,/,, half-empty/JJ, Coke/NNP, bottles/NNS, ./.] 	[A/DT, man/NN, with/IN, a/DT, cap/NN, and/CC, jacket/NN, walking/NN, between/IN, two/CD, large/JJ, bottles/NNS, ./.] 	564
+[A/DT, black/JJ, and/CC, white/JJ, bird/NN, on/IN, a/DT, body/NN, of/IN, water/NN, with/IN, grass/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, bus/NN, is/VBZ, on/IN, a/DT, road/NN, with/IN, a/DT, ferris/JJ, wheel/NN, in/IN, the/DT, background/NN, ./.] 	565
+[A/DT, wooden/JJ, bicycle/NN, with/IN, an/DT, awning/NN, ./.] 	[A/DT, group/NN, of/IN, elderly/JJ, people/NNS, sitting/VBG, around/IN, a/DT, dining/NN, table/NN, ./.] 	566
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, dilapidated/JJ, wooden/JJ, fence/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, an/DT, old/JJ, wooden/JJ, fence/NN, near/IN, a/DT, dirty/JJ, street/NN, ./.] 	567
+[Two/CD, women/NNS, sitting/VBG, in/IN, chairs/NNS, in/IN, a/DT, shop/NN, ./.] 	[Two/CD, women/NNS, are/VBP, sitting/VBG, in/IN, a/DT, cafe/NN, ./.] 	568
+[Two/CD, brown/JJ, horses/NNS, standing/VBG, in/IN, a/DT, green/JJ, meadow/NN, ./.] 	[A/DT, brown/JJ, horse/NN, stands/VBZ, in/IN, tall/JJ, grass/NN, ./.] 	569
+[Two/CD, men/NNS, wearing/VBG, bike/NN, helmets/NNS, ./.] 	[Two/CD, men/NNS, stand/VBP, with/IN, their/PRP$, bicycles/NNS, outside/IN, a/DT, shop/NN, ./.] 	570
+[An/DT, AeroMexico/NNP, jet/NN, taxing/VBG, along/IN, a/DT, runway/NN, ./.] 	[A/DT, silver/NN, AreoMexico/NNP, Jet/NNP, Liner/NNP, sitting/VBG, on/IN, the/DT, tarmac/NN, ./.] 	571
+[A/DT, red/JJ, bird/NN, and/CC, four/CD, other/JJ, birds/NNS, sitting/VBG, in/IN, the/DT, snow/NN, ./.] 	[Five/CD, birds/NNS, stand/VBP, on/IN, the/DT, snow/NN, ./.] 	572
+[A/DT, women/NNS, painting/VBG, a/DT, chair/NN, with/IN, a/DT, dining/NN, room/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, man/NN, and/CC, boy/NN, walking/VBG, along/IN, a/DT, beach/NN, with/IN, the/DT, sea/NN, in/IN, the/DT, background/NN, ./.] 	573
+[A/DT, man/NN, playing/VBG, a/DT, video/NN, game/NN, in/IN, a/DT, store/NN, ./.] 	[Man/NN, playing/NN, game/NN, in/IN, a/DT, store/NN, ./.] 	574
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, on/IN, a/DT, porch/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, with/IN, food/NN, on/IN, it/PRP, ./.] 	575
+[An/DT, older/JJR, Asian/JJ, couple/NN, poses/VBZ, with/IN, a/DT, newborn/JJ, baby/NN, at/IN, the/DT, dinner/NN, table/NN, ./.] 	[A/DT, group/NN, of/IN, elderly/JJ, people/NNS, pose/VBP, around/IN, a/DT, dining/NN, table/NN, ./.] 	576
+[A/DT, young/JJ, girl/NN, wearing/VBG, a/DT, bike/NN, helmet/NN, with/IN, a/DT, bicycle/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, women/NNS, holds/VBZ, a/DT, small/JJ, dog/NN, on/IN, a/DT, leash/NN, with/IN, chairs/NNS, in/IN, the/DT, background/NN, ./.] 	577
+[the/DT, back/NN, of/IN, a/DT, stop/NN, sign/NN, with/IN, many/JJ, stickers/NNS, on/IN, it/PRP, ./.] 	[The/DT, back/NN, of/IN, the/DT, stop/NN, sign/NN, is/VBZ, adorned/VBN, with/IN, stickers/NNS, ./.] 	578
+[A/DT, bicycle/NN, is/VBZ, parked/VBN, outside/IN, a/DT, bookstore/NN, ./.] 	[A/DT, green/JJ, bike/NN, parked/VBD, outside/IN, a/DT, book/NN, store/NN, ./.] 	579
+[a/DT, brown/JJ, double/JJ, decker/NN, tour/NN, bus/NN, on/IN, a/DT, street/NN, with/IN, a/DT, ferris/JJ, wheel/NN, behind/IN, it/PRP, ./.] 	[A/DT, double-decker/JJ, bus/NN, driving/VBG, in/IN, front/NN, of/IN, a/DT, ferris/JJ, wheel/NN, ./.] 	580
+[A/DT, black/JJ, and/CC, white/JJ, chair/NN, sitting/VBG, in/IN, front/NN, of/IN, a/DT, brick/NN, wall/NN, and/CC, a/DT, window/NN, with/IN, a/DT, bamboo/NN, plant/NN, in/IN, a/DT, vase/NN, ./.] 	[A/DT, black/JJ, headed/VBN, sheep/NN, covered/VBN, in/IN, thick/JJ, white/JJ, wool/NN, stands/VBZ, in/IN, a/DT, pasture/NN, with/IN, other/JJ, sheep/NN, ./.] 	581
+[Domestic/JJ, cat/NN, looking/VBG, out/RP, window/NN, ./.] 	[A/DT, white/JJ, cat/NN, looking/VBG, out/IN, of/IN, a/DT, window/NN, ./.] 	582
+[Two/CD, cows/NNS, graze/VBP, in/IN, a/DT, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, in/IN, a/DT, green/JJ, field/NN, ./.] 	583
+[A/DT, man/NN, in/IN, a/DT, black/JJ, uniform/NN, on/IN, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, tux/NN, on/IN, a/DT, white/JJ, horse/NN, ./.] 	584
+[A/DT, cat/NN, sleeping/VBG, on/IN, the/DT, coach/NN, with/IN, a/DT, pillow/NN, behind/IN, it/PRP, ./.] 	[The/DT, cat/NN, is/VBZ, laying/VBG, on/IN, an/DT, animal/NN, print/NN, blanket/NN, ./.] 	585
+[Two/CD, women/NNS, stand/VBP, in/IN, a/DT, living/NN, room/NN, with/IN, a/DT, black/JJ, dog/NN, ./.] 	[Two/CD, women/NNS, standing/VBG, in/IN, a/DT, living/NN, room/NN, with/IN, a/DT, black/JJ, dog/NN, looking/VBG, towards/IN, the/DT, camera/NN, ./.] 	586
+[Two/CD, motorbikes/NNS, racing/VBG, on/IN, a/DT, dirt/NN, course/NN, ./.] 	[two/CD, motorbikes/NNS, on/IN, a/DT, dirt/NN, track/NN, ./.] 	587
+[Two/CD, people/NNS, paddling/VBG, a/DT, red/JJ, canoe/NN, are/VBP, reflected/VBN, in/IN, the/DT, still/RB, water/NN, ./.] 	[Two/CD, people/NNS, paddling/VBG, in/IN, a/DT, red/JJ, canoe/NN, with/IN, trees/NNS, in/IN, the/DT, background/NN, ./.] 	588
+[A/DT, close-up/NN, view/NN, of/IN, the/DT, headlights/NNS, of/IN, a/DT, blue/JJ, old-fashioned/JJ, car/NN, ./.] 	[Close/VB, up/IN, of/IN, the/DT, headlights/NNS, on/IN, a/DT, blue/JJ, car/NN, ./.] 	589
+[A/DT, person/NN, is/VBZ, standing/VBG, underneath/IN, an/DT, overpass/NN, near/IN, a/DT, highway/NN, ./.] 	[A/DT, person/NN, walks/VBZ, a/DT, dog/NN, along/IN, the/DT, water/NN, 's/POS, edge/NN, ./.] 	590
+[Cars/NNS, driving/VBG, near/IN, a/DT, model/NN, building/NN, ./.] 	[Vehicles/NNPS, driving/VBG, infant/NN, of/IN, an/DT, ornate/JJ, building/NN, ./.] 	591
+[A/DT, woman/NN, and/CC, child/NN, push/NN, strollers/NNS, down/IN, the/DT, sidewalk/NN, ./.] 	[A/DT, women/NNS, and/CC, a/DT, young/JJ, girl/NN, walking/VBG, pushchairs/NNS, along/IN, the/DT, sidewalk/NN, ./.] 	592
+[A/DT, blue/JJ, and/CC, orange/JJ, airplane/NN, flying/VBG, with/IN, its/PRP$, landing/NN, gear/NN, down/RB, ./.] 	[A/DT, red/JJ, and/CC, blue/JJ, plane/NN, flying/VBG, with/IN, its/PRP$, landing/NN, gears/NNS, down/RB, ./.] 	593
+[A/DT, young/JJ, woman/NN, is/VBZ, riding/VBG, a/DT, Bay/NNP, hose/NN, in/IN, a/DT, dirt/NN, riding-ring/NN, ./.] 	[A/DT, man/NN, is/VBZ, staring/VBG, at/IN, a/DT, horse/NN, with/IN, a/DT, white/JJ, mane/NN, ./.] 	594
+[A/DT, white/JJ, bird/NN, flying/VBG, up/IN, onto/IN, a/DT, tree/NN, ./.] 	[A/DT, white/JJ, cat/NN, laying/VBG, on/IN, a/DT, sheet/NN, ./.] 	595
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, lying/VBG, on/IN, a/DT, blanket/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, sleeps/NNS, on/IN, a/DT, purple/JJ, blanket/NN, ./.] 	596
+[A/DT, building/NN, with/IN, a/DT, temporary/JJ, sign/NN, over/IN, the/DT, entrance/NN, to/TO, its/PRP$, parking/NN, lot/NN, ./.] 	[Road/NNP, with/IN, the/DT, rear/JJ, image/NN, of/IN, the/DT, tail/NN, lights/NNS, of/IN, a/DT, bus/NN, ./.] 	597
+[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, containing/VBG, food/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, on/IN, a/DT, porch/NN, ./.] 	598
+[A/DT, man/NN, and/CC, women/NNS, sitting/VBG, on/IN, a/DT, sofa/NN, holding/VBG, a/DT, small/JJ, baby/NN, ./.] 	[a/DT, woman/NN, sitting/VBG, on/IN, a/DT, sofa/NN, holding/VBG, a/DT, baby/NN, ./.] 	599
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, lying/VBG, on/IN, a/DT, blanket/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, sleeping/VBG, on/IN, its/PRP$, side/NN, on/IN, a/DT, purple/JJ, blanket/NN, ./.] 	600
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, love/NN, seat/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, bicycle/NN, ./.] 	601
+[A/DT, living/NN, room/NN, with/IN, a/DT, dining/NN, table/NN, in/IN, the/DT, background/NN, ./.] 	[View/NNP, of/IN, a/DT, living/NN, room/NN, with/IN, a/DT, dining/NN, room/NN, in/IN, the/DT, background/NN, ./.] 	602
+[A/DT, woman/NN, at/IN, the/DT, dining/NN, table/NN, with/IN, wine/NN, ,/,, beer/NN, ,/,, and/CC, lemons/NNS, ./.] 	[Four/CD, women/NNS, and/CC, two/CD, men/NNS, sit/VBP, at/IN, a/DT, long/JJ, table/NN, in/IN, a/DT, restaurant/NN, ./.] 	603
+[A/DT, red/JJ, and/CC, gray/JJ, train/NN, is/VBZ, going/VBG, through/IN, a/DT, tunnel/NN, ./.] 	[A/DT, red/JJ, and/CC, gray/JJ, train/NN, travels/VBZ, through/IN, a/DT, tunnel/NN, amongst/IN, the/DT, trees/NNS, ./.] 	604
+[Red/JJ, double/JJ, decker/NN, bus/NN, with/IN, hood/NN, open/JJ, ./.] 	[An/DT, old/JJ, Red/NNP, London/NNP, double/JJ, decker/NN, bus/NN, with/IN, its/PRP$, hood/NN, raised/VBD, ./.] 	605
+[A/DT, laptop/JJ, computer/NN, and/CC, a/DT, computer/NN, monitor/NN, ./.] 	[A/DT, laptop/NN, and/CC, a/DT, PC/NN, at/IN, a/DT, workstation/NN, ./.] 	606
+[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, woman/NN, leading/VBG, a/DT, white/JJ, horse/NN, ./.] 	607
+[View/NNP, of/IN, a/DT, living/NN, room/NN, with/IN, a/DT, dining/NN, room/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, living/NN, room/NN, with/IN, large/JJ, sofas/NNS, and/CC, a/DT, dining/NN, table/NN, in/IN, the/DT, background/NN, ./.] 	608
+[An/DT, orange/JJ, kitten/NN, lay/VBD, on/IN, a/DT, leather/NN, couch/NN, ./.] 	[Young/JJ, couple/NN, sitting/VBG, on/IN, a/DT, black/JJ, couch/NN, ./.] 	609
+[A/DT, white/JJ, cat/NN, laying/VBG, on/IN, an/DT, office/NN, chair/NN, ./.] 	[A/DT, white/JJ, cat/NN, laying/VBG, on/IN, a/DT, sheet/NN, ./.] 	610
+[A/DT, small/JJ, yellow/JJ, boat/NN, sitting/VBG, on/IN, a/DT, tropical/JJ, beach/NN, ./.] 	[A/DT, small/JJ, girl/NN, sits/VBZ, on/IN, a/DT, stone/NN, ledge/NN, near/IN, a/DT, white/JJ, flowering/NN, plant/NN, ./.] 	611
+[Two/CD, women/NNS, are/VBP, sheering/VBG, a/DT, white/JJ, sheep/NN, inside/IN, of/IN, a/DT, wooden/JJ, building/NN, ./.] 	[Two/CD, women/NNS, shearing/VBG, a/DT, white/JJ, sheep/NN, in/IN, a/DT, wooden/JJ, stall/VBP, ./.] 	612
+[A/DT, person/NN, wearing/VBG, a/DT, bike/NN, helmet/NN, talks/NNS, on/IN, a/DT, cell/NN, phone/NN, ./.] 	[A/DT, person/NN, wearing/VBG, a/DT, helmet/NN, rides/NNS, a/DT, bike/NN, near/IN, a/DT, white/JJ, structure/NN, ./.] 	613
+[A/DT, subway/NN, train/NN, pulling/VBG, into/IN, the/DT, station/NN, ./.] 	[A/DT, white/JJ, train/NN, pulling/VBG, into/IN, a/DT, station/NN, ./.] 	614
+[A/DT, bicycle/NN, is/VBZ, parked/VBN, by/IN, a/DT, shop/NN, ./.] 	[A/DT, green/JJ, bike/NN, parked/VBD, outside/IN, a/DT, book/NN, store/NN, ./.] 	615
+[Two/CD, men/NNS, standing/VBG, on/IN, beach/NN, ./.] 	[Two/CD, women/NNS, standing/VBG, in/IN, front/NN, of/IN, tour/NN, bus/NN, ./.] 	616
+[A/DT, man/NN, with/IN, glasses/NNS, and/CC, two/CD, plastic/JJ, bottles/NNS, in/IN, the/DT, foreground/NN, ./.] 	[A/DT, man/NN, talking/VBG, with/IN, two/CD, water/NN, bottles/NNS, sitting/VBG, in/IN, front/NN, of/IN, him/PRP, ./.] 	617
+[Long-haired/JJ, black/JJ, dog/NN, standing/NN, in/IN, grassy/JJ, field/NN, ./.] 	[A/DT, blue/JJ, jay/NN, standing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	618
+[A/DT, small/JJ, desk/NN, with/IN, chair/NN, near/IN, a/DT, laundry/NN, closet/NN, ./.] 	[A/DT, room/NN, with/IN, tan/NN, walls/NNS, and/CC, a/DT, washer/NN, and/CC, dryer/NN, ./.] 	619
+[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, through/IN, the/DT, streets/NNS, ./.] 	[Red/JJ, double/JJ, decker/NN, bus/NN, driving/VBG, down/RP, a/DT, street/NN, ./.] 	620
+[A/DT, goose/NN, flapping/VBG, its/PRP$, wings/NNS, in/IN, a/DT, body/NN, of/IN, water/NN, ./.] 	[A/DT, black/JJ, swan/NN, flapping/VBG, its/PRP$, wings/NNS, on/IN, the/DT, water/NN, ./.] 	621
+[A/DT, gray/JJ, cat/NN, laying/VBG, on/IN, a/DT, brown/JJ, table/NN, ./.] 	[A/DT, grey/JJ, cat/NN, lying/VBG, on/IN, a/DT, wooden/JJ, table/NN, ./.] 	622
+[Motorcycle/NNP, parked/VBD, next/JJ, to/TO, a/DT, car/NN, outside/NN, ./.] 	[A/DT, motorcycle/NN, parked/VBD, next/JJ, to/TO, a/DT, car/NN, ./.] 	623
+[A/DT, close-up/NN, of/IN, a/DT, brown/JJ, horse/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, horse/NN, ./.] 	624
+[Boy/NN, laying/VBG, on/IN, couch/NN, with/IN, dog/NN, ./.] 	[The/DT, boy/NN, is/VBZ, lying/VBG, on/IN, a/DT, couch/NN, with/IN, a/DT, puppy/NN, ./.] 	625
+[A/DT, black/JJ, and/CC, white/JJ, image/NN, of/IN, a/DT, cat/NN, laying/VBG, on/IN, a/DT, rug/NN, ./.] 	[Black/JJ, and/CC, white/JJ, picture/NN, of/IN, a/DT, cat/NN, laying/VBG, on/IN, a/DT, rug/NN, ./.] 	626
+[A/DT, large/JJ, jet/NN, on/IN, the/DT, ground/NN, at/IN, the/DT, airport/NN, ./.] 	[A/DT, large/JJ, airplane/NN, parked/VBD, at/IN, the/DT, airport/NN, at/IN, night/NN, ./.] 	627
+[A/DT, pile/NN, of/IN, used/VBN, wooden/JJ, building/NN, materials/NNS, with/IN, a/DT, chair/NN, on/IN, top/NN, ./.] 	[Pile/VB, of/IN, wooden/JJ, debris/NN, with/IN, chair/NN, on/IN, top/NN, ./.] 	628
+[Two/CD, women/NNS, are/VBP, sitting/VBG, in/IN, a/DT, cafe/NN, ./.] 	[Two/CD, men/NNS, catching/VBG, a/DT, fish/NN, in/IN, a/DT, swamp/VBP, ./.] 	629
+[Eight/CD, bottles/NNS, of/IN, Harp/NNP, lager/NN, lined/VBD, up/RP, on/IN, the/DT, floor/NN, ./.] 	[Eight/CD, bottles/NNS, of/IN, Harp/NNP, beer/NN, lined/VBD, up/RP, on/IN, a/DT, wooden/JJ, floor/NN, ./.] 	630
+[An/DT, office/NN, with/IN, multiple/JJ, desks/NNS, and/CC, green/JJ, walls/NNS, ./.] 	[Small/JJ, office/NN, space/NN, with/IN, bright/JJ, green/JJ, walls/NNS, ./.] 	631
+[A/DT, woman/NN, leading/VBG, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, man/NN, in/IN, a/DT, tux/NN, on/IN, a/DT, white/JJ, horse/NN, ./.] 	632
+[A/DT, small/JJ, child/NN, smiling/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	633
+[A/DT, woman/NN, riding/VBG, a/DT, brown/JJ, horse/NN, ./.] 	[Person/NN, dressed/VBN, in/IN, blue/JJ, riding/VBG, brown/JJ, horse/NN, ./.] 	634
+[photo/NN, of/IN, a/DT, television/NN, screen/NN, showing/VBG, a/DT, movie/NN, ./.] 	[The/DT, wall-mounted/JJ, flat-screen/JJ, TV/NN, is/VBZ, showing/VBG, a/DT, movie/NN, ./.] 	635
+[A/DT, bird/NN, perched/VBN, on/IN, a/DT, flowerpot/NN, ./.] 	[Bird/NN, perched/VBD, on/IN, a/DT, flowerpot/NN, beside/IN, a/DT, stucco/NN, wall/NN, ./.] 	636
+[White/NNP, cat/NN, sitting/VBG, inside/IN, of/IN, a/DT, sink/NN, ./.] 	[Grey/NNP, and/CC, white/JJ, cat/NN, sitting/VBG, in/IN, bathroom/NN, sink/NN, ./.] 	637
+[Young/NNP, woman/NN, in/IN, riding/VBG, gear/NN, on/IN, top/NN, of/IN, horse/NN, ./.] 	[Young/NNP, girl/NN, in/IN, riding/VBG, gear/NN, on/IN, a/DT, horse/NN, ./.] 	638
+[Two/CD, people/NNS, are/VBP, sailing/VBG, a/DT, small/JJ, boat/NN, ./.] 	[Two/CD, women/NNS, in/IN, a/DT, sailboat/NN, ./.] 	639
+[A/DT, small/JJ, bird/NN, on/IN, a/DT, tiny/JJ, branch/NN, ./.] 	[A/DT, small/JJ, bird/NN, perched/VBN, on/IN, an/DT, icy/NN, branch/NN, ./.] 	640
+[Two/CD, animals/NNS, sitting/VBG, on/IN, a/DT, rock/NN, ./.] 	[Two/CD, eagles/NNS, sitting/VBG, on/IN, a/DT, long/JJ, branch/NN, ./.] 	641
+[Two/CD, cats/NNS, sit/VBP, on/IN, the/DT, back/NN, of/IN, a/DT, couch/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	[Two/CD, cats/NNS, are/VBP, sitting/VBG, on/IN, the/DT, back/NN, of/IN, a/DT, couch/NN, and/CC, looking/VBG, out/RP, the/DT, window/NN, in/IN, a/DT, sea/NN, photo/NN, ./.] 	642
+[A/DT, man/NN, on/IN, a/DT, motorcycle/NN, performing/VBG, a/DT, wheelie/NN, ./.] 	[Motorcyclist/NNP, performing/VBG, a/DT, wheelie/NN, next/JJ, to/TO, a/DT, car/NN, ./.] 	643
+[A/DT, passenger/NN, train/NN, waiting/VBG, at/IN, the/DT, city/NN, train/NN, station/NN, ./.] 	[A/DT, passenger/NN, train/NN, with/IN, a/DT, yellow/JJ, engine/NN, ./.] 	644
+[Two/CD, young/JJ, women/NNS, shear/NN, a/DT, sheep/NN, ./.] 	[Two/CD, women/NNS, sheering/VBG, a/DT, sheep/NN, ./.] 	645
+[Left/VBN, side/NN, of/IN, a/DT, silver/NN, train/NN, engine/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, black/JJ, train/NN, engine/NN, ./.] 	646
+[The/DT, young/JJ, rider/NN, takes/VBZ, a/DT, ride/NN, on/IN, the/DT, brown/JJ, horse/NN, ./.] 	[A/DT, young/JJ, female/JJ, rider/NN, on/IN, a/DT, brown/JJ, horse/NN, ./.] 	647
+[Six/CD, people/NNS, are/VBP, seated/VBN, at/IN, a/DT, restaurant/NN, table/NN, and/CC, looking/VBG, into/IN, the/DT, camera/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, sitting/VBG, at/IN, a/DT, restaurant/NN, table/NN, ./.] 	648
+[Little/JJ, white/JJ, lamb/NN, with/IN, nose/NN, to/TO, wood/NN, ./.] 	[A/DT, white/JJ, lamb/NN, with/IN, its/PRP$, nose/NN, against/IN, a/DT, wooden/JJ, box/NN, ./.] 	649
+[A/DT, black/JJ, train/NN, moves/NNS, down/IN, the/DT, tracks/NNS, ./.] 	[A/DT, long/JJ, train/NN, is/VBZ, on/IN, train/NN, tracks/NNS, ./.] 	650
+[A/DT, Philips/NNP, flat-screen/JJ, TV/NN, is/VBZ, shown/VBN, with/IN, its/PRP$, two/CD, remote/JJ, controls/NNS, ./.] 	[A/DT, Phillips/NNP, flat/JJ, screen/NN, TV/NN, with/IN, two/CD, remote/JJ, controls/NNS, ./.] 	651
+[A/DT, cruise/NN, ship/NN, is/VBZ, in/IN, front/NN, of/IN, a/DT, docking/NN, area/NN, ./.] 	[Calico/JJ, cat/NN, sitting/VBG, on/IN, step/NN, in/IN, front/NN, of/IN, a/DT, door/NN, ./.] 	652
+[A/DT, young/JJ, girl/NN, riding/VBG, a/DT, white/JJ, and/CC, grey/JJ, horse/NN, ./.] 	[a/DT, little/JJ, girl/NN, is/VBZ, riding/VBG, a/DT, white/JJ, and/CC, grey/JJ, horse/NN, ./.] 	653
+[A/DT, black/JJ, dog/NN, stands/VBZ, next/JJ, to/TO, materials/NNS, at/IN, a/DT, construction/NN, site/NN, ./.] 	[A/DT, black/JJ, dog/NN, standing/NN, in/IN, a/DT, room/NN, being/VBG, constructed/VBN, ./.] 	654
+[Blue/NNP, couch/NN, and/CC, twin/JJ, bed/NN, in/IN, a/DT, living/NN, room/NN, ./.] 	[A/DT, leather/NN, couch/NN, and/CC, wooden/JJ, table/NN, in/IN, a/DT, living/NN, room/NN, ./.] 	655
+[A/DT, bird/NN, is/VBZ, flapping/VBG, its/PRP$, wings/NNS, in/IN, the/DT, water/NN, ./.] 	[A/DT, black/JJ, swan/NN, flapping/VBG, its/PRP$, wings/NNS, on/IN, the/DT, water/NN, ./.] 	656
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, hay/NN, looks/VBZ, back/RB, at/IN, the/DT, camera/NN, ./.] 	[There/EX, is/VBZ, a/DT, black/JJ, and/CC, white/JJ, sheep/NN, standing/NN, on/IN, the/DT, grass/NN, ./.] 	657
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, lying/VBG, on/IN, a/DT, blanket/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, laying/VBG, on/IN, a/DT, cat/NN, bed/NN, ./.] 	658
+[Young/NNP, woman/NN, in/IN, riding/VBG, gear/NN, on/IN, top/NN, of/IN, horse/NN, ./.] 	[The/DT, woman/NN, is/VBZ, riding/VBG, on/IN, the/DT, brown/JJ, horse/NN, ./.] 	659
+[A/DT, plane/NN, being/VBG, readied/VBN, for/IN, take-off/NN, ./.] 	[A/DT, small/JJ, turboprop/NN, plane/NN, being/VBG, loaded/VBN, on/IN, the/DT, tarmac/NN, ./.] 	660
+[A/DT, white/JJ, leather/NN, couch/NN, with/IN, a/DT, purse/NN, and/CC, throw/VB, blanket/NN, on/IN, it/PRP, ./.] 	[A/DT, television/NN, with/IN, a/DT, show/NN, on/IN, ./.] 	661
+[Four/CD, people/NNS, rowing/NN, down/IN, a/DT, river/NN, ./.] 	[Four/CD, people/NNS, row/VBP, a/DT, canoe/NN, in/IN, water/NN, ./.] 	662
+[A/DT, dark/JJ, brown/JJ, horse/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	[A/DT, brown/JJ, horse/NN, in/IN, a/DT, green/JJ, field/NN, ./.] 	663
+[A/DT, kitchen/NN, with/IN, wooden/JJ, cabinets/NNS, and/CC, furniture/NN, ./.] 	[Kitchen/NN, with/IN, wooden/JJ, table/NN, and/CC, cabinets/NNS, ./.] 	664
+[A/DT, white/JJ, bicycle/NN, stands/VBZ, on/IN, a/DT, floor/NN, ./.] 	[Old/JJ, style/NN, bicycle/NN, parked/VBN, on/IN, floor/NN, ./.] 	665
+[A/DT, bird/NN, eating/NN, from/IN, a/DT, bird/NN, feeder/NN, ./.] 	[A/DT, yellow/JJ, bird/NN, eating/VBG, fruit/NN, on/IN, a/DT, bird/NN, feeder/NN, ./.] 	666
+[Black/JJ, bird/NN, sitting/VBG, on/IN, a/DT, concrete/JJ, slab/NN, ./.] 	[Black/JJ, bird/NN, standing/NN, on/IN, concrete/NN, ./.] 	667
+[Two/CD, men/NNS, talking/VBG, in/IN, front/NN, of/IN, a/DT, plane/NN, ./.] 	[Two/CD, men/NNS, talking/VBG, in/IN, front/NN, of/IN, a/DT, small/JJ, plane/NN, ./.] 	668
+[Dark/JJ, colored/VBN, dog/NN, standing/NN, in/IN, grassy/JJ, field/NN, ./.] 	[A/DT, grey/JJ, dog/NN, standing/NN, in/IN, a/DT, grassy/JJ, field/NN, ./.] 	669
+[A/DT, young/JJ, blonde/JJ, girl/NN, wearing/VBG, a/DT, smile/NN, and/CC, a/DT, bicycle/NN, helmet/NN, ./.] 	[A/DT, young/JJ, girl/NN, wearing/VBG, a/DT, bike/NN, helmet/NN, with/IN, a/DT, bicycle/NN, in/IN, the/DT, background/NN, ./.] 	670
+[two/CD, cats/NNS, ,/,, one/CD, brown/JJ, and/CC, one/CD, white/JJ, laying/VBG, on/IN, a/DT, bed/NN, with/IN, a/DT, blue/JJ, blanket/NN, ./.] 	[Two/CD, cats/NNS, ,/,, one/CD, ginger/NN, ,/,, the/DT, other/JJ, white/JJ, laying/VBG, on/IN, a/DT, bed/NN, ./.] 	671
+[The/DT, cat/NN, is/VBZ, attacking/VBG, a/DT, corn/NN, husk/NN, broom/NN, ./.] 	[Grey/NNP, and/CC, white/JJ, cat/NN, sitting/VBG, in/IN, bathroom/NN, sink/NN, ./.] 	672
+[The/DT, train/NN, sits/VBZ, at/IN, the/DT, train/NN, station/NN, ./.] 	[A/DT, train/NN, parked/VBD, at/IN, a/DT, train/NN, station/NN, ./.] 	673
+[A/DT, couple/NN, holds/VBZ, a/DT, baby/NN, ./.] 	[Couple/NN, with/IN, newborn/JJ, baby/NN, ./.] 	674
+[A/DT, small/JJ, bird/NN, eating/NN, from/IN, the/DT, feeder/NN, ./.] 	[Bird/NN, eating/NN, from/IN, a/DT, bird/NN, feeder/NN, ./.] 	675
+[Close/VB, up/IN, of/IN, a/DT, white/JJ, sheep/NN, with/IN, a/DT, black/JJ, head/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, sheep/NN, with/IN, a/DT, black/JJ, head/NN, ./.] 	676
+[Two/CD, brown/JJ, horses/NNS, standing/VBG, in/IN, grassy/JJ, field/NN, ./.] 	[Brown/JJ, horse/NN, standing/NN, in/IN, middle/NN, of/IN, grassy/JJ, field/NN, ./.] 	677
+[A/DT, young/JJ, boy/NN, laying/VBG, on/IN, a/DT, sofa/NN, with/IN, a/DT, dog/NN, ./.] 	[A/DT, small/JJ, boy/NN, laying/VBG, on/IN, a/DT, sofa/NN, with/IN, a/DT, dog/NN, ./.] 	678
+[A/DT, red/JJ, bird/NN, is/VBZ, perched/VBN, in/IN, a/DT, tree/NN, ./.] 	[A/DT, small/JJ, red/JJ, and/CC, grey/JJ, bird/NN, perched/VBN, in/IN, a/DT, tree/NN, ./.] 	679
+[Two/CD, buses/NNS, parked/VBN, on/IN, a/DT, street/NN, ./.] 	[Yellow/JJ, scooter/NN, parked/VBN, in/IN, an/DT, alley/NN, way/NN, ./.] 	680
+[A/DT, black/JJ, and/CC, white/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	[A/DT, grey/JJ, ,/,, black/JJ, ,/,, and/CC, white/JJ, cat/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	681
+[Two/CD, animals/NNS, sitting/VBG, on/IN, a/DT, rock/NN, ./.] 	[The/DT, brown/JJ, train/NN, is/VBZ, sitting/VBG, on/IN, the/DT, railroad/NN, tracks/NNS, ./.] 	682
+[A/DT, train/NN, is/VBZ, on/IN, the/DT, railroad/NN, tracks/NNS, ./.] 	[A/DT, train/NN, on/IN, the/DT, train/NN, tracks/NNS, ./.] 	683
+[Boy/NN, lying/VBG, on/IN, couch/NN, with/IN, small/JJ, white/JJ, dog/NN, ./.] 	[A/DT, small/JJ, boy/NN, laying/VBG, on/IN, a/DT, sofa/NN, with/IN, a/DT, dog/NN, ./.] 	684
+[Large/JJ, silver/NN, locomotive/NN, engine/NN, in/IN, a/DT, shed/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, silver/NN, train/NN, engine/NN, with/IN, a/DT, red/JJ, stripe/NN, ./.] 	685
+[A/DT, women/NNS, sitting/VBG, at/IN, a/DT, table/NN, drinking/NN, with/IN, a/DT, basketball/NN, picture/NN, in/IN, the/DT, background/NN, ./.] 	[A/DT, woman/NN, in/IN, a/DT, sari/NN, drinks/NNS, something/NN, while/IN, sitting/VBG, at/IN, a/DT, table/NN, ./.] 	686
+[A/DT, green/JJ, steam/NN, engine/NN, traveling/VBG, on/IN, the/DT, railroad/NN, tracks/NNS, ./.] 	[A/DT, black/JJ, steam/NN, train/NN, traveling/VBG, on/IN, the/DT, railroad/NN, tracks/NNS, ./.] 	687
+[A/DT, small/JJ, red/JJ, car/NN, on/IN, top/NN, of/IN, a/DT, semi/JJ, truck/NN, ./.] 	[Red/JJ, sports/NNS, car/NN, on/IN, top/NN, of/IN, white/JJ, semi/NN, truck/NN, ./.] 	688
+[The/DT, man/NN, poses/VBZ, for/IN, a/DT, photo/NN, in/IN, front/NN, of/IN, the/DT, train/NN, ./.] 	[A/DT, man/NN, stands/VBZ, on/IN, a/DT, platform/NN, in/IN, front/NN, of/IN, a/DT, silver/NN, train/NN, ./.] 	689
+[A/DT, bicyclist/NN, in/IN, black/JJ, on/IN, a/DT, black/JJ, and/CC, red/JJ, racing/NN, bike/NN, ./.] 	[A/DT, cyclist/NN, in/IN, black/JJ, and/CC, white/JJ, lira/NN, speeding/VBG, past/JJ, spectators/NNS, ./.] 	690
+[A/DT, kitchen/NN, sink/NN, and/CC, countertop/NN, with/IN, bowls/VBZ, on/IN, shelves/NNS, ./.] 	[A/DT, small/JJ, kitchen/NN, with/IN, items/NNS, stacked/VBN, on/IN, the/DT, shelves/NNS, and/CC, on/IN, the/DT, counter/NN, ./.] 	691
+[A/DT, woman/NN, is/VBZ, laying/VBG, down/RP, on/IN, the/DT, floor/NN, and/CC, holding/VBG, a/DT, baby/NN, up/RB, above/IN, her/PRP, ./.] 	[A/DT, man/NN, is/VBZ, laying/VBG, on/IN, the/DT, floor/NN, holding/VBG, a/DT, baby/NN, up/RB, above/IN, him/PRP, ./.] 	692
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, looking/VBG, through/IN, the/DT, fence/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, dog/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	693
+[A/DT, television/NN, in/IN, a/DT, messy/JJ, room/NN, with/IN, several/JJ, bookcases/NNS, ./.] 	[A/DT, room/NN, with/IN, a/DT, television/NN, ,/,, stereo/NN, and/CC, bookshelf/NN, ./.] 	694
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, sleeping/VBG, on/IN, its/PRP$, side/NN, on/IN, a/DT, purple/JJ, blanket/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, laying/VBG, on/IN, the/DT, ground/NN, in/IN, the/DT, sun/NN, ./.] 	695
+[A/DT, woman/NN, riding/VBG, a/DT, bicycle/NN, on/IN, a/DT, large/JJ, concrete/JJ, area/NN, ./.] 	[A/DT, women/NNS, riding/VBG, a/DT, mountain/NN, bike/NN, on/IN, a/DT, large/JJ, concrete/JJ, area/NN, ./.] 	696
+[Two/CD, cows/NNS, standing/VBG, in/IN, a/DT, large/JJ, field/NN, ./.] 	[The/DT, cow/NN, is/VBZ, grazing/NN, in/IN, a/DT, field/NN, ./.] 	697
+[A/DT, bald/JJ, man/NN, touches/NNS, the/DT, nose/NN, of/IN, a/DT, black/JJ, horse/NN, on/IN, the/DT, other/JJ, side/NN, of/IN, a/DT, fence/NN, ./.] 	[A/DT, bald/JJ, man/NN, with/IN, a/DT, beard/NN, pets/NNS, the/DT, nose/NN, of/IN, a/DT, black/JJ, and/CC, white/JJ, horse/NN, at/IN, the/DT, fence/NN, ./.] 	698
+[A/DT, man/NN, is/VBZ, standing/VBG, next/JJ, to/TO, a/DT, yellow/JJ, sports/NNS, car/NN, ./.] 	[A/DT, man/NN, stands/VBZ, next/JJ, to/TO, a/DT, yellow/JJ, Corvette/NNP, ./.] 	699
+[A/DT, grey/JJ, house/NN, with/IN, a/DT, red/JJ, door/NN, ./.] 	[House/NNP, with/IN, a/DT, red/JJ, door/NN, ./.] 	700
+[Two/CD, women/NNS, in/IN, a/DT, clothing/NN, store/NN, ./.] 	[Two/CD, women/NNS, in/IN, a/DT, sailboat/NN, ./.] 	701
+[A/DT, woman/NN, with/IN, a/DT, white/JJ, horse/NN, ./.] 	[A/DT, woman/NN, leading/VBG, a/DT, white/JJ, horse/NN, ./.] 	702
+[a/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, cows/NNS, in/IN, their/PRP$, stalls/NNS, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, cattle/NNS, at/IN, a/DT, trough/NN, ./.] 	703
+[Older/JJR, gentleman/NN, looking/VBG, at/IN, red/JJ, motorcycle/NN, ./.] 	[A/DT, man/NN, looking/VBG, at/IN, a/DT, red/JJ, motorcycle/NN, ./.] 	704
+[Depressed/JJ, woman/NN, sitting/VBG, on/IN, couch/NN, ./.] 	[Older/JJR, woman/NN, holding/VBG, newborn/JJ, baby/NN, ./.] 	705
+[Double/JJ, decker/NN, bus/NN, with/IN, the/DT, London/NNP, Eye/NNP, ferris/JJ, wheel/NN, in/IN, background/NN, ./.] 	[a/DT, brown/JJ, double/JJ, decker/NN, tour/NN, bus/NN, on/IN, a/DT, street/NN, with/IN, a/DT, ferris/JJ, wheel/NN, behind/IN, it/PRP, ./.] 	706
+[A/DT, yellow/JJ, and/CC, black/JJ, bird/NN, eats/VBZ, from/IN, a/DT, bird/NN, feeder/NN, ./.] 	[A/DT, flock/NN, of/IN, birds/NNS, flying/VBG, over/IN, a/DT, body/NN, of/IN, water/NN, ./.] 	707
+[Black/JJ, and/CC, white/JJ, cows/NNS, grazing/NN, in/IN, a/DT, pen/NN, ./.] 	[Two/CD, black/JJ, and/CC, white/JJ, cows/NNS, drinking/VBG, out/IN, of/IN, a/DT, pond/NN, ./.] 	708
+[A/DT, small/JJ, camouflaged/VBN, airplane/NN, parked/VBN, in/IN, the/DT, grass/NN, ./.] 	[A/DT, small/JJ, dog/NN, wearing/VBG, a/DT, pink/JJ, shirt/NN, tied/VBN, to/TO, a/DT, railing/NN, ./.] 	709
+[A/DT, man/NN, stands/VBZ, in/IN, front/NN, of/IN, a/DT, train/NN, ./.] 	[A/DT, man/NN, stands/VBZ, on/IN, a/DT, platform/NN, in/IN, front/NN, of/IN, a/DT, silver/NN, train/NN, ./.] 	710
+[A/DT, small/JJ, plane/NN, parked/VBD, at/IN, an/DT, airfield/NN, with/IN, a/DT, cloudy/JJ, sky/NN, overhead/NN, ./.] 	[A/DT, small/JJ, white/JJ, plane/NN, parked/VBN, in/IN, an/DT, airport/NN, on/IN, a/DT, cloudy/JJ, day/NN, ./.] 	711
+[A/DT, boat/NN, is/VBZ, on/IN, the/DT, water/NN, near/IN, a/DT, small/JJ, plane/NN, ./.] 	[A/DT, boat/NN, is/VBZ, in/IN, the/DT, water/NN, and/CC, a/DT, small/JJ, airplane/NN, is/VBZ, on/IN, the/DT, dock/NN, ./.] 	712
+[A/DT, man/NN, riding/VBG, a/DT, white/JJ, horse/NN, in/IN, an/DT, arena/NN, ./.] 	[A/DT, domestic/JJ, animal/NN, stands/VBZ, in/IN, a/DT, pen/NN, ./.] 	713
+[A/DT, Macintosh/NNP, computer/NN, sitting/VBG, on/IN, the/DT, floor/NN, ./.] 	[a/DT, computer/NN, on/IN, the/DT, floor/NN, ./.] 	714
+[An/DT, elderly/JJ, woman/NN, catches/VBZ, a/DT, ride/NN, on/IN, the/DT, back/NN, of/IN, the/DT, bicycle/NN, ./.] 	[The/DT, boats/NNS, are/VBP, on/IN, the/DT, water/NN, located/JJ, in/IN, front/NN, of/IN, the/DT, mountain/NN, ./.] 	715
+[A/DT, black/JJ, and/CC, white/JJ, cat/NN, is/VBZ, sitting/VBG, on/IN, a/DT, brown/JJ, chair/NN, looking/VBG, up/RP, ./.] 	[A/DT, dog/NN, sitting/VBG, on/IN, a/DT, yellow/JJ, chair/NN, next/IN, to/TO, a/DT, green/JJ, dumpster/NN, ./.] 	716
+[sheep/NN, standing/NN, in/IN, afield/NN, ./.] 	[A/DT, large/JJ, dog/NN, stands/VBZ, next/JJ, to/TO, a/DT, sheep/NN, in/IN, a/DT, field/NN, ./.] 	717
+[Group/NN, of/IN, elderly/JJ, people/NNS, sitting/VBG, around/IN, a/DT, table/NN, ./.] 	[A/DT, group/NN, of/IN, elderly/JJ, people/NNS, pose/VBP, around/IN, a/DT, dining/NN, table/NN, ./.] 	718
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, love/NN, seat/NN, ./.] 	[Black/JJ, and/CC, white/JJ, photo/NN, of/IN, couch/NN, with/IN, purse/NN, at/IN, one/CD, end/NN, ./.] 	719
+[Three/CD, women/NNS, with/IN, brown/JJ, hair/NN, are/VBP, smiling/VBG, ./.] 	[Three/CD, women/NNS, in/IN, Indian/JJ, dresses/NNS, in/IN, a/DT, crowded/JJ, room/NN, smiling/VBG, ./.] 	720
+[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, an/DT, empty/JJ, train/NN, station/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, cat/NN, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	721
+[The/DT, brown/JJ, and/CC, white/JJ, cows/NNS, are/VBP, eating/VBG, in/IN, the/DT, trough/NN, ./.] 	[Brown/NNP, and/CC, white/JJ, cows/NNS, are/VBP, eating/VBG, from/IN, a/DT, trough/NN, ./.] 	722
+[Two/CD, dogs/NNS, in/IN, a/DT, fenced/JJ, kennel/NN, look/NN, ahead/RB, ./.] 	[Two/CD, girls/NNS, on/IN, a/DT, guy/NN, posing/VBG, on/IN, the/DT, bow/NN, a/DT, boat/NN, ./.] 	723
+[Black/JJ, bird/NN, standing/NN, on/IN, concrete/NN, ./.] 	[Blue/NNP, bird/NN, standing/NN, on/IN, green/JJ, grass/NN, ./.] 	724
+[A/DT, black/JJ, and/CC, white/JJ, cow/NN, looking/VBG, through/IN, the/DT, fence/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, cat/NN, laying/VBG, on/IN, the/DT, ground/NN, in/IN, the/DT, sun/NN, ./.] 	725
+[Several/JJ, people/NNS, on/IN, motorcycles/NNS, in/IN, a/DT, market/NN, square/NN, ./.] 	[People/NNS, ride/VBP, mopeds/NNS, in/IN, an/DT, urban/JJ, setting/NN, ./.] 	726
+[A/DT, close-up/NN, of/IN, a/DT, sheep/NN, in/IN, the/DT, grass/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, lamb/NN, with/IN, its/PRP$, ear/NN, tagged/VBD, ,/,, standing/VBG, on/IN, grass/NN, ./.] 	727
+[Domestic/JJ, cat/NN, laying/VBG, on/IN, back/NN, of/IN, cat/NN, litter/NN, ./.] 	[Tan/NNP, domestic/JJ, cat/NN, under/IN, black/JJ, tarp/NN, ./.] 	728
+[Crowd/NN, of/IN, people/NNS, walking/VBG, past/IN, a/DT, giant/JJ, mushroom/NN, ./.] 	[A/DT, group/NN, of/IN, four/CD, people/NNS, walking/VBG, past/IN, a/DT, giant/JJ, mushroom/NN, ./.] 	729
+[Two/CD, green/JJ, birds/NNS, fly/VBP, towards/IN, a/DT, wooden/JJ, telephone/NN, pole/NN, ./.] 	[Two/CD, green/JJ, birds/NNS, flying/VBG, above/IN, the/DT, telephone/NN, wires/NNS, ./.] 	730
+[A/DT, person/NN, sitting/VBG, on/IN, a/DT, motorcycle/NN, while/IN, a/DT, man/NN, stands/VBZ, by/IN, ./.] 	[A/DT, man/NN, stands/VBZ, next/JJ, to/TO, a/DT, helmeted/JJ, man/NN, on/IN, a/DT, motorcycle/NN, in/IN, an/DT, empty/JJ, parking/NN, lot/NN, ./.] 	731
+[Three/CD, cows/NNS, grazing/NN, in/IN, a/DT, field/NN, ./.] 	[Two/CD, cows/NNS, graze/VBP, in/IN, a/DT, field/NN, ./.] 	732
+[A/DT, young/JJ, woman/NN, with/IN, outstretched/JJ, arms/NNS, stands/VBZ, in/IN, front/NN, of/IN, a/DT, ``/``, Going/VBG, Places/NNPS, ''/'', bus/NN, ./.] 	[TThe/NN, girl/NN, is/VBZ, standing/VBG, in/IN, front/NN, of/IN, the/DT, open/JJ, door/NN, of/IN, the/DT, bus/NN, ./.] 	733
+[A/DT, sheep/NN, beside/IN, a/DT, road/NN, and/CC, a/DT, lake/NN, ./.] 	[A/DT, sheep/NN, is/VBZ, on/IN, the/DT, edge/NN, of/IN, a/DT, road/NN, with/IN, a/DT, lake/NN, and/CC, a/DT, mountain/NN, in/IN, the/DT, background/NN, ./.] 	734
+[Black/JJ, and/CC, white/JJ, cow/NN, standing/NN, in/IN, grassy/JJ, field/NN, ./.] 	[A/DT, black/JJ, and/CC, white/JJ, photo/NN, of/IN, a/DT, man/NN, standing/NN, next/JJ, to/TO, a/DT, bus/NN, ./.] 	735
+[A/DT, blue/JJ, bird/NN, perched/VBN, on/IN, a/DT, gloved/JJ, hand/NN, ./.] 	[A/DT, bird/NN, is/VBZ, perched/VBN, on/IN, a/DT, person/NN, 's/POS, gloved/JJ, hand/NN, ./.] 	736
+[A/DT, group/NN, of/IN, people/NNS, having/VBG, a/DT, meal/NN, outside/NN, ./.] 	[A/DT, group/NN, of/IN, people/NNS, eat/VBP, at/IN, a/DT, table/NN, outside/NN, ./.] 	737
+[A/DT, baby/NN, holds/VBZ, a/DT, ketchup/NN, packet/NN, ./.] 	[A/DT, baby/NN, in/IN, a/DT, highchair/NN, holds/VBZ, a/DT, ketchup/NN, packet/NN, ./.] 	738
+[A/DT, close-up/NN, view/NN, of/IN, a/DT, horse/NN, 's/POS, head/NN, ./.] 	[A/DT, close-up/NN, of/IN, a/DT, brown/JJ, horse/NN, 's/POS, head/NN, ./.] 	739
+[Two/CD, cats/NNS, sitting/VBG, together/RB, on/IN, the/DT, sofa/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	[Two/CD, cats/NNS, sit/VBP, on/IN, the/DT, back/NN, of/IN, a/DT, couch/NN, looking/VBG, out/RP, the/DT, window/NN, ./.] 	740
+[A/DT, train/NN, is/VBZ, at/IN, a/DT, train/NN, station/NN, ./.] 	[a/DT, train/NN, in/IN, a/DT, station/NN, ./.] 	741
+[A/DT, dark/JJ, brown/JJ, horse/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	[Horse/NN, standing/NN, in/IN, a/DT, field/NN, ./.] 	742
+[A/DT, man/NN, sitting/VBG, on/IN, a/DT, bench/NN, looking/VBG, at/IN, a/DT, dog/NN, on/IN, a/DT, leash/NN, sitting/VBG, on/IN, sidewalk/NN, ./.] 	[A/DT, women/NNS, holds/VBZ, a/DT, small/JJ, baby/NN, while/IN, sitting/VBG, on/IN, a/DT, sofa/NN, ./.] 	743
+[A/DT, small/JJ, cat/NN, laying/VBG, on/IN, a/DT, wooden/JJ, beam/NN, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	[The/DT, small/JJ, dog/NN, is/VBZ, wearing/VBG, a/DT, sweater/NN, and/CC, looking/VBG, up/RP, at/IN, the/DT, camera/NN, ./.] 	744
+[The/DT, black/JJ, bird/NN, is/VBZ, sitting/VBG, on/IN, the/DT, ground/NN, ./.] 	[The/DT, bird/NN, is/VBZ, sitting/VBG, on/IN, the/DT, branch/NN, ./.] 	745
+[A/DT, group/NN, of/IN, people/NNS, sit/VBP, at/IN, a/DT, table/NN, in/IN, an/DT, Italian/JJ, restaurant/NN, ./.] 	[A/DT, group/NN, of/IN, six/CD, people/NNS, sitting/VBG, at/IN, a/DT, table/NN, with/IN, salad/NN, served/VBD, ./.] 	746
+[Tan/NNP, cows/NNS, look/VBP, closely/RB, at/IN, the/DT, camera/NN, ./.] 	[A/DT, white/JJ, and/CC, grey/JJ, cat/NN, in/IN, a/DT, bathroom/NN, sink/NN, looking/VBG, at/IN, the/DT, camera/NN, ./.] 	747
+[A/DT, blue/JJ, scooter/NN, parked/VBN, on/IN, a/DT, sidewalk/NN, ./.] 	[A/DT, blue/JJ, moped/JJ, parked/VBN, on/IN, the/DT, sidewalk/NN, ./.] 	748
+[Older/JJR, woman/NN, holding/VBG, newborn/JJ, baby/NN, ./.] 	[a/DT, woman/NN, sitting/VBG, on/IN, a/DT, sofa/NN, holding/VBG, a/DT, baby/NN, ./.] 	749
+[A/DT, small/JJ, brown/JJ, birds/NNS, is/VBZ, eating/VBG, from/IN, a/DT, bird/NN, feeder/NN, hanging/VBG, from/IN, a/DT, tree/NN, ./.] 	[A/DT, small/JJ, red/JJ, and/CC, grey/JJ, bird/NN, perched/VBN, in/IN, a/DT, tree/NN, ./.] 	750

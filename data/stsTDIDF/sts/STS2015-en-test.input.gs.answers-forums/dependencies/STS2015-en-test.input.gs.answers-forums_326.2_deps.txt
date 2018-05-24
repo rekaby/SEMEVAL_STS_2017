@@ -1,0 +1,13 @@
+det	answer	The
+nsubj	depend	answer
+aux	depend	will
+root	ROOT	depend
+advmod	depend	significantly
+case	country	on
+det	country	what
+nmod:on	traveling	country
+nsubj	traveling	you
+aux	traveling	're
+ccomp	depend	traveling
+nmod	traveling	to
+punct	depend	.

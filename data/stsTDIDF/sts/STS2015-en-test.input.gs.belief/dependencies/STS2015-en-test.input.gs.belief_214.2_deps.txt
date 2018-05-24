@@ -1,0 +1,8 @@
+nsubj	sack	christy
+cop	sack	is
+det	sack	a
+amod	sack	fat
+root	ROOT	sack
+case	shit	of
+nmod:of	sack	shit
+punct	sack	.

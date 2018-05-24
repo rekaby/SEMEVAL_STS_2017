@@ -1,0 +1,8 @@
+compound	cricket	Sachin
+compound	cricket	Tendulkar
+compound	cricket	scores
+nmod:poss	century	cricket
+case	cricket	's
+amod	century	first
+amod	century	100th
+root	ROOT	century

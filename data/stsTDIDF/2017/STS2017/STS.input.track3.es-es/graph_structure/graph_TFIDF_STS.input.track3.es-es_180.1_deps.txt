@@ -1,0 +1,5 @@
+get	men	nsubj
+get	drum	nmod:out_of
+drum	a	det
+drum	out	case
+men	Three	nummod

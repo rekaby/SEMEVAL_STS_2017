@@ -1,0 +1,11 @@
+det	couple	A
+nsubj	enjoying	couple
+aux	enjoying	is
+root	ROOT	enjoying
+det	connoved	a
+dobj	enjoying	connoved
+acl	connoved	sitting
+case	sofa	on
+det	sofa	a
+nmod:on	sitting	sofa
+punct	enjoying	.

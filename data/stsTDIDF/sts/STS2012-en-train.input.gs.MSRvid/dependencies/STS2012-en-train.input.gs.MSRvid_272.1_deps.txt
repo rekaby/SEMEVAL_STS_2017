@@ -1,0 +1,7 @@
+det	dances	A
+compound	dances	girl
+root	ROOT	dances
+case	rain	in
+det	rain	the
+nmod:in	dances	rain
+punct	dances	.

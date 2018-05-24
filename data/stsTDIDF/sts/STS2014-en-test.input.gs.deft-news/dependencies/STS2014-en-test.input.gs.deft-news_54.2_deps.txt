@@ -1,0 +1,10 @@
+advmod	korea	north
+nsubj	denies	korea
+root	ROOT	denies
+dobj	denies	involvement
+case	project	in
+det	project	any
+amod	project	syrian
+amod	project	nuclear
+nmod:in	involvement	project
+punct	denies	.

@@ -1,0 +1,11 @@
+elephants	of	case
+ROOT	comply	root
+comply	statues	nmod:in_front_of
+museum	in	case
+statues	in	case
+comply	.	punct
+comply	Women	nsubj
+statues	elephants	nmod:of
+statues	large	amod
+statues	two	nummod
+comply	museum	nmod:in

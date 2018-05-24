@@ -1,0 +1,9 @@
+ghost	as	case
+music	plays	acl:relcl
+music	like	case
+ghost	a	det
+plays	that	nsubj
+dressed	ghost	nmod:as
+man	music	nmod:like
+man	dressed	acl
+plays	aggressively	advmod

@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	cruising	people
+aux	cruising	are
+root	ROOT	cruising
+case	road	down
+det	road	the
+nmod:down	cruising	road
+case	bikes	on
+nmod:poss	bikes	their
+nmod:on	road	bikes
+punct	cruising	.

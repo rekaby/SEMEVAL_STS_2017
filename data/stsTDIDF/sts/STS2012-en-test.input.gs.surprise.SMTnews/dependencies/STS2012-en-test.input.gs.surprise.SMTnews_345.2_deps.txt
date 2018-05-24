@@ -1,0 +1,11 @@
+mark	Moslem	To
+cop	Moslem	be
+nsubj	things	Moslem
+cc	Moslem	and
+cop	Islamiste	be
+conj:and	Moslem	Islamiste
+cop	things	are
+nummod	things	two
+amod	things	different
+root	ROOT	things
+punct	things	.

@@ -1,0 +1,8 @@
+amod	cow	Black
+root	ROOT	cow
+acl	cow	walking
+case	trees	under
+nmod:under	walking	trees
+case	pasture	in
+nmod:in	trees	pasture
+punct	cow	.

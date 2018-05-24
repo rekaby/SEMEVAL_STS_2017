@@ -1,0 +1,8 @@
+nsubj	Driving	What
+aux	Driving	Is
+root	ROOT	Driving
+dobj	Driving	Growth
+case	Spending	in
+compound	Spending	Government
+nmod:in	Driving	Spending
+punct	Driving	?

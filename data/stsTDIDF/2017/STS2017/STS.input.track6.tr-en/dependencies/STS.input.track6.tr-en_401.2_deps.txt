@@ -1,0 +1,11 @@
+det	group	A
+nsubj	participating	group
+case	girls	of
+nmod:of	group	girls
+aux	participating	are
+root	ROOT	participating
+case	tournament	in
+det	tournament	a
+compound	tournament	skate
+nmod:in	participating	tournament
+punct	participating	.

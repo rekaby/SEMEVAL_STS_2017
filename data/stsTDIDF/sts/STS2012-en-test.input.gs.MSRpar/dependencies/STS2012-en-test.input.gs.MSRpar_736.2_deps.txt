@@ -1,0 +1,11 @@
+compound	Slover	Pete
+nsubj	reported	Slover
+root	ROOT	reported
+case	Laredo	from
+nmod:from	reported	Laredo
+cc	Laredo	and
+compound	Jeffers	Gromer
+conj:and	Laredo	Jeffers
+case	Albuquerque	from
+nmod:from	Laredo	Albuquerque
+punct	reported	.

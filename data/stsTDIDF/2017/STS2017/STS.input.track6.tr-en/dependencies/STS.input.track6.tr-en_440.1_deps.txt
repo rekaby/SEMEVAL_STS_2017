@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	helps	woman
+root	ROOT	helps
+det	child	a
+dobj	helps	child
+punct	helps	.

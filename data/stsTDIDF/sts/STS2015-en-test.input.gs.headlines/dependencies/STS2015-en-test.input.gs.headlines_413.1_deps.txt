@@ -1,0 +1,11 @@
+compound	Minister	Prime
+root	ROOT	Minister
+mark	seek	to
+acl	Minister	seek
+amod	deal	nuclear
+nsubj	visit	deal
+punct	deal	,
+appos	deal	investments
+case	Japan	during
+nmod:during	investments	Japan
+ccomp	seek	visit

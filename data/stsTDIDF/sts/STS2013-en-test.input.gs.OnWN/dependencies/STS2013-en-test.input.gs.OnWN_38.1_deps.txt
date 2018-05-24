@@ -1,0 +1,8 @@
+det	act	The
+root	ROOT	act
+mark	providing	of
+acl	act	providing
+dobj	providing	approval
+cc	approval	and
+conj:and	approval	support
+punct	act	.

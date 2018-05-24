@@ -1,0 +1,9 @@
+compound	Romney	GOP
+compound	Romney	candidate
+root	ROOT	Romney
+mark	call	to
+acl	Romney	call
+mark	arm	to
+xcomp	call	arm
+amod	rebels	Syrian
+dobj	arm	rebels

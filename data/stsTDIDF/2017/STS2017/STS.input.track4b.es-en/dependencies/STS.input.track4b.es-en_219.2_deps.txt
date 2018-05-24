@@ -1,0 +1,8 @@
+nsubj	have	They
+ccomp	said	have
+amod	coverage	natural
+dobj	have	coverage
+punct	said	,
+nsubj	said	he
+root	ROOT	said
+punct	said	.

@@ -1,0 +1,8 @@
+nummod	women	Three
+nsubj	smiling	women
+case	hair	with
+amod	hair	brown
+nmod:with	women	hair
+aux	smiling	are
+root	ROOT	smiling
+punct	smiling	.

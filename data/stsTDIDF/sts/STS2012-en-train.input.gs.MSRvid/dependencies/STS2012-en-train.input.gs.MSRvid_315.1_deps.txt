@@ -1,0 +1,9 @@
+det	man	A
+nsubjpass	put	man
+aux	put	is
+auxpass	put	being
+root	ROOT	put
+case	abulance	into
+det	abulance	an
+nmod:into	put	abulance
+punct	put	.

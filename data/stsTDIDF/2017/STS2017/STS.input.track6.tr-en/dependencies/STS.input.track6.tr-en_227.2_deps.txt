@@ -1,0 +1,8 @@
+det	child	The
+nsubjpass	chased	child
+auxpass	chased	is
+root	ROOT	chased
+case	dog	by
+det	dog	a
+nmod:agent	chased	dog
+punct	chased	.

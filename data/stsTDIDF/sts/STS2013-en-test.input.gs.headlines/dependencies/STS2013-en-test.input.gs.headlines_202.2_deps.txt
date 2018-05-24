@@ -1,0 +1,9 @@
+nmod:poss	sons	Mubarak
+case	Mubarak	's
+nsubj	face	sons
+root	ROOT	face
+amod	charges	new
+dobj	face	charges
+case	trading	of
+compound	trading	insider
+nmod:of	charges	trading

@@ -1,0 +1,9 @@
+pictures	Tenzema	compound
+pictures	Altqtan	compound
+Girl	and	cc
+Girl	father	conj:and
+ROOT	Girl	root
+Girl	pictures	nmod:during
+Girl	.	punct
+pictures	during	case
+pictures	park	nmod:in

@@ -1,0 +1,10 @@
+nsubj	walking	People
+aux	walking	are
+root	ROOT	walking
+case	sidewalk	along
+det	sidewalk	a
+nmod:along	walking	sidewalk
+case	city	in
+det	city	the
+nmod:in	sidewalk	city
+punct	walking	.

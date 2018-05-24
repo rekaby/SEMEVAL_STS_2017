@@ -1,0 +1,14 @@
+det	snowboarder	A
+nsubj	grinds	snowboarder
+case	green	in
+nmod:in	snowboarder	green
+root	ROOT	grinds
+case	edge	along
+det	edge	the
+nmod:along	grinds	edge
+case	rail	of
+det	rail	a
+nmod:of	edge	rail
+case	night	at
+nmod:at	grinds	night
+punct	grinds	.

@@ -1,0 +1,7 @@
+det	team	The
+amod	team	yellow
+cc	yellow	and
+conj:and	yellow	green
+nsubj	played	team
+root	ROOT	played
+dobj	played	soccer

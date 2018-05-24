@@ -1,0 +1,14 @@
+compound	Delainey	Dave
+nsubj	agreed	Delainey
+root	ROOT	agreed
+mark	cooperate	to
+xcomp	agreed	cooperate
+case	prosecutors	with
+amod	prosecutors	federal
+nmod:with	cooperate	prosecutors
+case	exchange	in
+nmod:in	cooperate	exchange
+case	plea	for
+det	plea	the
+nmod:for	exchange	plea
+punct	agreed	.

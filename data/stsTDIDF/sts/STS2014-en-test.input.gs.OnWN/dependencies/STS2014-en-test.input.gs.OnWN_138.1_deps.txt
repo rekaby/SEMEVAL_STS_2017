@@ -1,0 +1,11 @@
+root	ROOT	communicate
+cc	communicate	or
+conj:or	communicate	make
+xcomp	make	known
+case	gestures	by
+nmod:by	known	gestures
+punct	gestures	,
+conj:or	gestures	action
+punct	gestures	,
+cc	gestures	or
+conj:or	gestures	signs

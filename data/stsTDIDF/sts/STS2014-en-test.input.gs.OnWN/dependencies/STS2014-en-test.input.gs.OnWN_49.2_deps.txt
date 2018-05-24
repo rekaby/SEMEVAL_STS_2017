@@ -1,0 +1,10 @@
+det	state	the
+root	ROOT	state
+mark	employed	of
+auxpass	employed	being
+acl	state	employed
+cc	employed	or
+conj:or	employed	having
+det	job	a
+dobj	having	job
+punct	state	.

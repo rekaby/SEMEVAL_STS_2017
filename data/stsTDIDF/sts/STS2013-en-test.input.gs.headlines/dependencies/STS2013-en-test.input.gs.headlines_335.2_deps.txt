@@ -1,0 +1,10 @@
+compound	rate	US
+amod	rate	jobless
+root	ROOT	rate
+acl	rate	seen
+xcomp	seen	rising
+punct	rate	,
+acl	rate	offering
+compound	relief	Obama
+neg	relief	no
+dobj	offering	relief

@@ -1,0 +1,7 @@
+det	state	a
+root	ROOT	state
+mark	elevated	of
+cop	elevated	being
+acl	state	elevated
+cc	elevated	or
+conj:or	elevated	raised

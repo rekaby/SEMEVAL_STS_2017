@@ -1,0 +1,8 @@
+nsubj	tightens	Belarus
+root	ROOT	tightens
+dobj	tightens	security
+case	border	along
+det	border	the
+nmod:along	security	border
+case	Ukraine	with
+nmod:with	tightens	Ukraine

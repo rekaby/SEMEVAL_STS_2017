@@ -1,0 +1,9 @@
+amod	opinions	Chinese
+punct	opinions	,
+amod	opinions	Russian
+compound	opinions	FMs
+compound	opinions	exchange
+nsubj	crisis	opinions
+case	Ukraine	on
+nmod:on	opinions	Ukraine
+root	ROOT	crisis

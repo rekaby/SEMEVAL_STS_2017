@@ -1,0 +1,14 @@
+nsubj	reconciled	nicaragua
+aux	reconciled	has
+neg	reconciled	not
+root	ROOT	reconciled
+advmod	approach	how
+mark	approach	to
+ccomp	reconciled	approach
+det	anniversary	the
+dobj	approach	anniversary
+case	revolution	of
+det	revolution	the
+amod	revolution	sandinista
+nmod:of	anniversary	revolution
+punct	reconciled	.

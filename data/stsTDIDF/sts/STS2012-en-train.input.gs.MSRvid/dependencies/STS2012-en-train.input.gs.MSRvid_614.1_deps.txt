@@ -1,0 +1,8 @@
+det	man	A
+nsubj	slam	man
+cop	slam	is
+root	ROOT	slam
+acl	slam	dunking
+det	ball	a
+dobj	dunking	ball
+punct	slam	.

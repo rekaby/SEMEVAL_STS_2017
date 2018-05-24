@@ -1,0 +1,12 @@
+det	rovers	The
+nsubj	act	rovers
+root	ROOT	act
+case	geologists	as
+amod	geologists	robotic
+nmod:as	act	geologists
+punct	act	,
+xcomp	act	moving
+case	wheels	on
+nummod	wheels	six
+nmod:on	moving	wheels
+punct	act	.

@@ -1,0 +1,7 @@
+det	dog	The
+amod	dog	small
+nsubj	protects	dog
+root	ROOT	protects
+nmod:poss	owner	its
+dobj	protects	owner
+punct	protects	.

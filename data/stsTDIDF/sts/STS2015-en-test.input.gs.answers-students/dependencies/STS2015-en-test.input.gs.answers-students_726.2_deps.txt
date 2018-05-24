@@ -1,0 +1,9 @@
+nsubjpass	separated	Terminals
+dep	Terminals	1
+cc	1	and
+conj:and	1	6
+auxpass	separated	are
+root	ROOT	separated
+case	gap	by
+det	gap	the
+nmod:agent	separated	gap

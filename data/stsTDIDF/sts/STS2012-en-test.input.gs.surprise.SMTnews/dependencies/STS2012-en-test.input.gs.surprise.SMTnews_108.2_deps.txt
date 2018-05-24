@@ -1,0 +1,10 @@
+det	time	Each
+root	ROOT	time
+punct	time	,
+amod	progress	radical
+amod	progress	technological
+appos	time	progress
+case	threats	off
+det	threats	these
+nmod:off	progress	threats
+punct	time	.

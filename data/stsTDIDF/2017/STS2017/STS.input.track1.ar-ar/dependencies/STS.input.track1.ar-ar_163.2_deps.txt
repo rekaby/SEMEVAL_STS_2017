@@ -1,0 +1,14 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nummod	people	three
+nmod:of	group	people
+acl	people	standing
+case	fish	in
+mwe	in	front
+mwe	in	of
+det	fish	an
+amod	fish	empty
+compound	fish	swimming
+nmod:in_front_of	standing	fish
+punct	group	.-14) root(ROOT-0, .

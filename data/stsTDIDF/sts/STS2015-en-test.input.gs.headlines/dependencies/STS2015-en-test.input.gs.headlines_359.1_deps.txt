@@ -1,0 +1,8 @@
+root	ROOT	Arsenal
+compound	City	v
+compound	City	Stoke
+dobj	Arsenal	City
+nummod	Äď	‚
+nsubj	live	Äď
+acl:relcl	City	live
+punct	Arsenal	!

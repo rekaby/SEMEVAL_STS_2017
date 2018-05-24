@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	rides	woman
+root	ROOT	rides
+det	elephant	an
+dobj	rides	elephant
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	an
+amod	crowd	adoring
+nmod:in_front_of	elephant	crowd
+punct	rides	.

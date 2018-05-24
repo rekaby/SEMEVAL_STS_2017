@@ -1,0 +1,11 @@
+root	ROOT	Nevada
+punct	Nevada	:
+nummod	dead	2
+dep	hurt	dead
+punct	hurt	,
+nummod	hurt	2
+parataxis	Nevada	hurt
+case	school	in
+amod	school	middle
+nmod:in	hurt	school
+dep	hurt	shooting

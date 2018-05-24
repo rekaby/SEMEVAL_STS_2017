@@ -1,0 +1,8 @@
+root	ROOT	read
+cc	read	or
+conj:or	read	conform
+case	pattern	to
+det	pattern	the
+amod	pattern	metrical
+nmod:to	read	pattern
+dep	read	of

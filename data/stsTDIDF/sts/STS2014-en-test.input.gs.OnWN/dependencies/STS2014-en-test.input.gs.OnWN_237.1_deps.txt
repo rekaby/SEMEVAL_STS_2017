@@ -1,0 +1,11 @@
+det	gift	a
+amod	gift	small
+root	ROOT	gift
+cc	gift	or
+conj:or	gift	souvenir
+case	party	given
+case	guests	to
+nmod:to	given	guests
+case	party	at
+det	party	a
+acl:at	gift	party

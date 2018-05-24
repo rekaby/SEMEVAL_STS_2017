@@ -1,0 +1,9 @@
+nummod	cows	Three
+nsubj	grazing	cows
+cop	grazing	are
+root	ROOT	grazing
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	grazing	field
+punct	grazing	.

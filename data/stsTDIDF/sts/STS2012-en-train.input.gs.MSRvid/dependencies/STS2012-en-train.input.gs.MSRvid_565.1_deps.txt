@@ -1,0 +1,7 @@
+nsubj	walking	People
+aux	walking	are
+root	ROOT	walking
+case	garden	in
+det	garden	the
+nmod:in	walking	garden
+punct	walking	.

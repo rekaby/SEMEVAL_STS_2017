@@ -1,0 +1,12 @@
+mark	was	because
+expl	was	there
+root	ROOT	was
+neg	gap	no
+nsubj	was	gap
+case	terminal	from
+det	terminal	the
+amod	terminal	positive
+nmod:from	gap	terminal
+case	battery	of
+det	battery	the
+nmod:of	terminal	battery

@@ -1,0 +1,9 @@
+amod	night	Last
+nmod:tmod	attacked	night
+amod	forces	Japanese
+nsubj	attacked	forces
+root	ROOT	attacked
+det	Islands	the
+compound	Islands	Philippine
+dobj	attacked	Islands
+punct	attacked	.

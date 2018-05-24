@@ -1,0 +1,14 @@
+root	ROOT	Thinking
+mark	calm	about
+advmod	calm	how
+nsubj	calm	we
+aux	calm	can
+advcl	Thinking	calm
+compound:prt	calm	down
+nmod:poss	discourse	our
+amod	discourse	civic
+dobj	calm	discourse
+punct	Thinking	.-11) nsubj(powerful-3, Labels
+cop	powerful	are
+root	ROOT	powerful
+punct	powerful	.

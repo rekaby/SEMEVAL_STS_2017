@@ -1,0 +1,14 @@
+nsubj	has	TNK-BP
+root	ROOT	has
+nummod	oil	six
+compound	units	oil
+amod	units	producing
+dobj	has	units
+punct	units	,
+nummod	refineries	five
+appos	units	refineries
+cc	refineries	and
+conj:and	refineries	2,100
+acl	2,100	filling
+dobj	filling	stations
+punct	has	.

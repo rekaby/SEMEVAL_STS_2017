@@ -1,0 +1,10 @@
+sheep	Three	nummod
+dog	walking	acl
+walking	them	nmod:behind
+graze	sheep	nsubj
+graze	dog	nmod:with
+graze	.	punct
+field	grassy	amod
+graze	field	nmod:on
+ROOT	graze	root
+dog	with	case

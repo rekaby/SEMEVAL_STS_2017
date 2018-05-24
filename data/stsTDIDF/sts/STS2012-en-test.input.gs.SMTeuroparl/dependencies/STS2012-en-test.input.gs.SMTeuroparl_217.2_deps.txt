@@ -1,0 +1,17 @@
+compound	President	Mr
+nsubjpass	summarised	President
+punct	President	,
+det	report	the
+compound	report	Cashman
+appos	President	report
+aux	summarised	can
+auxpass	summarised	be
+root	ROOT	summarised
+mark	follows	as
+advcl	summarised	follows
+punct	summarised	:
+det	citizens	the
+dep	summarised	citizens
+case	bureaucracy	on
+nmod:on	citizens	bureaucracy
+punct	citizens	.

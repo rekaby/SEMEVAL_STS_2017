@@ -1,0 +1,17 @@
+det	sheep	A
+amod	sheep	black
+amod	sheep	headed
+nsubj	stands	sheep
+acl	sheep	covered
+case	wool	in
+amod	wool	thick
+amod	wool	white
+nmod:in	covered	wool
+root	ROOT	stands
+case	pasture	in
+det	pasture	a
+nmod:in	stands	pasture
+case	sheep	with
+amod	sheep	other
+nmod:with	pasture	sheep
+punct	stands	.

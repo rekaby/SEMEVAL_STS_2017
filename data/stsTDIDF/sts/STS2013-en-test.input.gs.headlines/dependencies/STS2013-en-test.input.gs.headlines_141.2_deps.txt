@@ -1,0 +1,9 @@
+compound	arrests	Saudi
+compound	arrests	Arabia
+nsubj	reports	arrests
+amod	reports	suspected
+compound	reports	militants
+punct	militants	,
+compound	media	state
+conj	militants	media
+root	ROOT	reports

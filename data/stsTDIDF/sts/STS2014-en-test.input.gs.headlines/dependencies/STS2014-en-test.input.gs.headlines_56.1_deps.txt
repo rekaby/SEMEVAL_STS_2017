@@ -1,0 +1,8 @@
+nsubj	tied	Brazil
+root	ROOT	tied
+dobj	tied	2-2
+case	England	by
+nmod:by	tied	England
+case	Maracana	as
+nmod:as	tied	Maracana
+dobj	tied	re-opens

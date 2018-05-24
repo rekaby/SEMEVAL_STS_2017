@@ -1,0 +1,13 @@
+advmod	goes	Indeed
+punct	goes	,
+nsubj	goes	intolerance
+root	ROOT	goes
+advmod	goes	right
+case	top	to
+det	top	the
+nmod:to	right	top
+case	government	of
+det	government	the
+amod	government	Turkish
+nmod:of	top	government
+punct	goes	.

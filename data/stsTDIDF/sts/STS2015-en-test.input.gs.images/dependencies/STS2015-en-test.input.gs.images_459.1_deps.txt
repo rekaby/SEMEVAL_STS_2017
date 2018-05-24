@@ -1,0 +1,13 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	wearing
+det	sweater	a
+amod	sweater	green
+dobj	wearing	sweater
+cc	wearing	and
+det	backpack	a
+conj:and	wearing	backpack
+acl	backpack	walking
+case	snow	on
+nmod:on	walking	snow
+punct	dog	.

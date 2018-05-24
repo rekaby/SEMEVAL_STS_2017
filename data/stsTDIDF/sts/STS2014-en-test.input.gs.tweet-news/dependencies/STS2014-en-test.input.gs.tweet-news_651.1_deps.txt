@@ -1,0 +1,6 @@
+compound	prices	Gas
+nsubj	creep	prices
+root	ROOT	creep
+compound:prt	creep	up
+det	bit	a
+dobj	creep	bit

@@ -1,0 +1,10 @@
+root	ROOT	indicate
+dobj	indicate	contempt
+mark	breathing	by
+acl	contempt	breathing
+advmod	breathing	noisily
+cc	noisily	and
+conj:and	noisily	forcefully
+case	news	through
+det	news	the
+nmod:through	noisily	news

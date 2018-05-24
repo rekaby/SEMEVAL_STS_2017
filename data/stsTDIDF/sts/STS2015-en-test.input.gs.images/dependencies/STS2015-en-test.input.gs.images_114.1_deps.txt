@@ -1,0 +1,9 @@
+det	boy	a
+nsubj	jumps	boy
+root	ROOT	jumps
+case	water	into
+det	water	the
+amod	water	blue
+compound	water	pool
+nmod:into	jumps	water
+punct	jumps	.

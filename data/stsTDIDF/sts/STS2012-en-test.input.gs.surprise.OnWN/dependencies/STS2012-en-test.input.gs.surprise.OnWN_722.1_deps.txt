@@ -1,0 +1,13 @@
+det	period	The
+root	ROOT	period
+case	time	of
+nmod:of	period	time
+case	which	during
+nmod:during	effect	which
+det	contract	a
+compound	contract	leasing
+nsubj	effect	contract
+cop	effect	is
+case	effect	in
+acl:relcl	period	effect
+punct	period	.

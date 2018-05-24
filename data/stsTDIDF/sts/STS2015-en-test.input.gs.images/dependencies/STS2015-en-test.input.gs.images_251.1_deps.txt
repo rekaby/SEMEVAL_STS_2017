@@ -1,0 +1,15 @@
+det	boy	A
+amod	boy	young
+nsubj	playing	boy
+case	shirt	in
+det	shirt	a
+amod	shirt	white
+compound	shirt	dress
+nmod:in	boy	shirt
+aux	playing	is
+root	ROOT	playing
+case	plain	on
+det	plain	a
+amod	plain	grassy
+nmod:on	playing	plain
+punct	playing	.

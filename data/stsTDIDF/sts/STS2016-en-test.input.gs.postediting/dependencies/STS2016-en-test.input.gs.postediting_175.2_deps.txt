@@ -1,0 +1,13 @@
+det	course	The
+nsubj	going	course
+case	obligations	of
+det	obligations	the
+nmod:of	course	obligations
+punct	going	,
+advmod	going	however
+punct	going	,
+aux	going	are
+root	ROOT	going
+advmod	well	particularly
+advmod	going	well
+punct	going	.

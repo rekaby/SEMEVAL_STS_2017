@@ -1,0 +1,10 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	game	a
+dobj	playing	game
+case	laptop	on
+nmod:poss	laptop	his
+nmod:on	playing	laptop
+punct	playing	.

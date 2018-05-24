@@ -1,0 +1,16 @@
+det	dogs	The
+nsubj	pulling	dogs
+aux	pulling	are
+root	ROOT	pulling
+det	man	a
+dobj	pulling	man
+case	type	on
+det	type	a
+nmod:on	pulling	type
+case	bike	of
+nmod:of	type	bike
+punct	pulling	,
+case	snow	through
+det	snow	the
+nmod:through	pulling	snow
+punct	pulling	.

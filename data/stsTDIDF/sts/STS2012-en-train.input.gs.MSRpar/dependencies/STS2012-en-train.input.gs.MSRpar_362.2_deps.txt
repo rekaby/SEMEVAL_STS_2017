@@ -1,0 +1,17 @@
+det	researchers	The
+nsubj	gave	researchers
+root	ROOT	gave
+dobj	gave	copies
+case	Revolution	of
+punct	Revolution	``
+compound	Atkins	Dr.
+nmod:poss	Revolution	Atkins
+case	Atkins	'
+compound	Revolution	New
+compound	Revolution	Diet
+nmod:of	copies	Revolution
+punct	Revolution	''
+case	carb-cutters	to
+det	carb-cutters	the
+nmod:to	gave	carb-cutters
+punct	gave	.

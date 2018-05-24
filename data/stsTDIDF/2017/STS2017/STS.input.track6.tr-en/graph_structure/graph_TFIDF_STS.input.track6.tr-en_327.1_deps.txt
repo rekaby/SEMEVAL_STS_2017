@@ -1,0 +1,13 @@
+trees	past	case
+trees	some	det
+Someone	coat	nmod:in
+coat	in	case
+coat	skis	conj:and
+coat	and	cc
+coat	a	det
+skis	helmet	compound
+ROOT	Someone	root
+Someone	.	punct
+coat	trees	nmod:past
+coat	red	amod
+skis	white	amod

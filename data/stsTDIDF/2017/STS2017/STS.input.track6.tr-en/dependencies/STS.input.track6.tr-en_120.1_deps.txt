@@ -1,0 +1,11 @@
+det	girl	The
+nsubjpass	followed	girl
+case	purple	in
+nmod:in	girl	purple
+auxpass	followed	is
+root	ROOT	followed
+case	girl	by
+det	girl	the
+nmod:agent	followed	girl
+case	pink	in
+nmod:in	girl	pink

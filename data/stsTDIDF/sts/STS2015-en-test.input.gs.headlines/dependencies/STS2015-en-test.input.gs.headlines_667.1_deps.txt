@@ -1,0 +1,7 @@
+nummod	cave-in	5
+acl	5	killed
+case	road	in
+compound	road	S
+compound	road	China
+nmod:in	killed	road
+root	ROOT	cave-in

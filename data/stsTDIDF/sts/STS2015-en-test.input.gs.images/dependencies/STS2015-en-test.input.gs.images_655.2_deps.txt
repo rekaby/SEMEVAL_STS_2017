@@ -1,0 +1,8 @@
+det	child	A
+root	ROOT	child
+cc	child	and
+compound	pet	parent
+conj:and	child	pet
+det	horse	a
+dep	child	horse
+punct	child	.

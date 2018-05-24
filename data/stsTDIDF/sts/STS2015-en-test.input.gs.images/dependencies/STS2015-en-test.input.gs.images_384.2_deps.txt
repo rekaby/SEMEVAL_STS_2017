@@ -1,0 +1,9 @@
+nummod	dogs	Two
+amod	dogs	brown
+nsubj	biting	dogs
+root	ROOT	biting
+det	other	each
+dobj	biting	other
+case	sand	on
+nmod:on	biting	sand
+punct	biting	.

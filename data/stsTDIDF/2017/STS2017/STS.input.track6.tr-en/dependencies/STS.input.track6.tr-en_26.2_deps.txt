@@ -1,0 +1,8 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	sand	in
+det	sand	the
+nmod:in	walking	sand
+punct	walking	.

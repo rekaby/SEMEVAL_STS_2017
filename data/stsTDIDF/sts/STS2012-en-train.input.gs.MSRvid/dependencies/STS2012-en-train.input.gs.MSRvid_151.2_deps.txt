@@ -1,0 +1,10 @@
+det	man	A
+nsubj	walking	man
+cc	man	and
+conj:and	man	woman
+aux	walking	is
+root	ROOT	walking
+case	grand	in
+det	grand	the
+nmod:in	walking	grand
+punct	walking	.

@@ -1,0 +1,9 @@
+nsubj	compared	I
+root	ROOT	compared
+compound	phobia	homo
+dobj	compared	phobia
+case	disorder	with
+det	disorder	a
+amod	disorder	developmental
+nmod:with	compared	disorder
+punct	compared	.

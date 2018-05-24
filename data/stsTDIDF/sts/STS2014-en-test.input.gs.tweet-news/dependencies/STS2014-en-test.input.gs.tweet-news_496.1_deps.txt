@@ -1,0 +1,9 @@
+nmod:poss	game	NRA
+case	NRA	's
+compound	game	video
+nsubj	smacks	game
+root	ROOT	smacks
+case	#guncontrol	of
+compound	#guncontrol	hypocrisy
+compound	#guncontrol	#NRA
+nmod:of	smacks	#guncontrol

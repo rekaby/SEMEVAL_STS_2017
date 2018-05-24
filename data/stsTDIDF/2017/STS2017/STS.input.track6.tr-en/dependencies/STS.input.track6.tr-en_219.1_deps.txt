@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+amod	boy	Asian
+nsubj	waving	boy
+aux	waving	is
+root	ROOT	waving
+det	sparkler	a
+dobj	waving	sparkler
+case	night	around
+case	night	at
+nmod:at	waving	night
+punct	waving	.

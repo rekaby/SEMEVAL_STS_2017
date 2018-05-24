@@ -1,0 +1,5 @@
+root	ROOT	get
+cc	get	or
+conj:or	get	gather
+advmod	get	together
+punct	get	.

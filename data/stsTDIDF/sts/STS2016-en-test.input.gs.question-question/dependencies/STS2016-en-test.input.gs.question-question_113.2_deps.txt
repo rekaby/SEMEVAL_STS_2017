@@ -1,0 +1,8 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	I
+root	ROOT	remove
+det	fixture	this
+compound	fixture	shower
+dobj	remove	fixture
+punct	remove	?

@@ -1,0 +1,6 @@
+ROOT	yelling	root
+man	at	case
+group	women	nmod:of
+yelling	group	nsubj
+yelling	man	nmod:at
+yelling	.	punct

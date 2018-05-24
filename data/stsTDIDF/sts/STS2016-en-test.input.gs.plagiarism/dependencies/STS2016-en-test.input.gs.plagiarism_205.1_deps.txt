@@ -1,0 +1,17 @@
+det	order	The
+nsubjpass	lost	order
+case	which	in
+nmod:in	appear	which
+nsubj	appear	terms
+acl:relcl	order	appear
+case	document	in
+det	document	the
+nmod:in	appear	document
+auxpass	lost	is
+root	ROOT	lost
+case	representation	in
+det	representation	a
+compound	representation	vector
+compound	representation	space
+nmod:in	lost	representation
+punct	lost	.

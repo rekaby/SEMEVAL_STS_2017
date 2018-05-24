@@ -1,0 +1,17 @@
+case	position	In
+det	position	that
+nmod:in	report	position
+punct	report	,
+nsubj	report	Elias
+aux	report	will
+root	ROOT	report
+case	Tucci	to
+compound	Tucci	Joe
+nmod:to	report	Tucci
+punct	Tucci	,
+appos	Tucci	president
+cc	president	and
+conj:and	president	CEO
+case	EMC	of
+nmod:of	president	EMC
+punct	report	.

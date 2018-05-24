@@ -1,0 +1,6 @@
+det	man	A
+nsubj	ties	man
+root	ROOT	ties
+nmod:poss	shoe	his
+dobj	ties	shoe
+punct	ties	.

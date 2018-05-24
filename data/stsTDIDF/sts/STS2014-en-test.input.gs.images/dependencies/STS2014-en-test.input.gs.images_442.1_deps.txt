@@ -1,0 +1,11 @@
+det	person	A
+nsubj	jumping	person
+aux	jumping	is
+root	ROOT	jumping
+det	bicycle	a
+dobj	jumping	bicycle
+cc	jumping	and
+conj:and	jumping	performing
+det	trick	a
+dobj	performing	trick
+punct	jumping	.

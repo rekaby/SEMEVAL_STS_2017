@@ -1,0 +1,14 @@
+compound	case	First
+root	ROOT	case
+case	MERS	of
+nmod:of	case	MERS
+punct	case	,
+det	illness	a
+amod	illness	SARS-like
+amod	illness	respiratory
+appos	case	illness
+punct	case	,
+acl	case	reported
+case	America	in
+compound	America	North
+nmod:in	reported	America

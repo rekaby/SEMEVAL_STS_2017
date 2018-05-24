@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	standing	dog
+cc	dog	and
+det	dog	a
+amod	dog	white
+conj:and	dog	dog
+aux	standing	are
+root	ROOT	standing
+case	snow	on
+nmod:on	standing	snow
+punct	standing	.

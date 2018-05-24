@@ -1,0 +1,7 @@
+compound	profits	Facebook
+nsubj	jump	profits
+csubj	expands	jump
+case	base	as
+compound	base	user
+nmod:as	jump	base
+root	ROOT	expands

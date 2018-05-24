@@ -1,0 +1,8 @@
+det	pool	A
+amod	pool	swimming
+nsubj	full	pool
+cop	full	is
+root	ROOT	full
+case	water	of
+nmod:of	full	water
+punct	full	.

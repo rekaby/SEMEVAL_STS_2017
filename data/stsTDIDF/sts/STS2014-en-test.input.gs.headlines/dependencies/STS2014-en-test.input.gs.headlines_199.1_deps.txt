@@ -1,0 +1,9 @@
+compound	Sentenced	Bangladesh
+compound	Sentenced	Opposition
+compound	Sentenced	Leader
+nsubj	Crimes	Sentenced
+case	Death	to
+nmod:to	Sentenced	Death
+case	War	for
+nmod:for	Death	War
+root	ROOT	Crimes

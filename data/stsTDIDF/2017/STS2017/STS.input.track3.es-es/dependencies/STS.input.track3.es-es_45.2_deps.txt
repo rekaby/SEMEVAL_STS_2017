@@ -1,0 +1,15 @@
+det	man	A
+nsubj	wearing	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	wearing	are
+root	ROOT	wearing
+dobj	wearing	hats
+case	colors	of
+amod	colors	different
+nmod:of	hats	colors
+case	date	for
+nmod:poss	date	their
+nmod:for	wearing	date
+punct	wearing	.

@@ -1,0 +1,16 @@
+mark	algorithms	Since
+det	PageRank	the
+nsubj	algorithms	PageRank
+cop	algorithms	is
+det	algorithms	the
+advmod	important	most
+amod	algorithms	important
+root	ROOT	algorithms
+nsubjpass	used	which
+auxpass	used	is
+acl:relcl	algorithms	used
+case	engine	in
+det	engine	the
+compound	engine	Google
+nmod:in	used	engine
+punct	algorithms	.

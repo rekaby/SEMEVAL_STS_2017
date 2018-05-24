@@ -1,0 +1,13 @@
+compound	Cooper	Bradley
+root	ROOT	Cooper
+cc	Cooper	and
+compound	Abrams	JJ
+conj:and	Cooper	Abrams
+case	talks	in
+nmod:in	Cooper	talks
+mark	filming	about
+acl	talks	filming
+det	Armstrong	a
+compound	Armstrong	Lance
+nsubj	biopic	Armstrong
+ccomp	filming	biopic

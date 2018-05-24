@@ -1,0 +1,13 @@
+case	estimation	According
+mwe	According	to
+det	estimation	a
+amod	estimation	statistical
+nmod:according_to	know	estimation
+nsubj	know	I
+root	ROOT	know
+advmod	7000	roughly
+nummod	words	7000
+dobj	know	words
+case	English	in
+nmod:in	words	English
+punct	know	.

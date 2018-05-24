@@ -1,0 +1,12 @@
+det	switch	An
+amod	switch	open
+nsubj	means	switch
+root	ROOT	means
+det	circuit	the
+nsubj	path	circuit
+cop	path	is
+neg	path	not
+det	path	a
+amod	path	closed
+ccomp	means	path
+punct	means	.

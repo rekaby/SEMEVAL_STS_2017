@@ -1,0 +1,7 @@
+compound	strike	Pakistan
+compound	strike	drone
+nsubj	kills	strike
+root	ROOT	kills
+compound:prt	kills	up
+case	six	to
+nmod:to	kills	six

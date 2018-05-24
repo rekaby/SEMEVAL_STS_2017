@@ -1,0 +1,6 @@
+sell	street	nmod:on
+sell	them	dobj
+trying	sell	xcomp
+holding	hats	dobj
+holding	man	nsubj
+hats	trying	acl

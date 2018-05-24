@@ -1,0 +1,6 @@
+nsubj	Welcomes	France
+root	ROOT	Welcomes
+compound	Deal	US-Russia
+dobj	Welcomes	Deal
+case	Syria	on
+nmod:on	Welcomes	Syria

@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	dancing	woman
+aux	dancing	is
+root	ROOT	dancing
+case	station	in
+compound	station	railway
+nmod:in	dancing	station
+punct	dancing	.

@@ -1,0 +1,13 @@
+root	ROOT	Road
+case	image	with
+det	image	the
+amod	image	rear
+nmod:with	Road	image
+case	lights	of
+det	lights	the
+compound	lights	tail
+nmod:of	image	lights
+case	bus	of
+det	bus	a
+nmod:of	lights	bus
+punct	Road	.

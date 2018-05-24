@@ -1,0 +1,7 @@
+nsubj	says	Iran
+root	ROOT	says
+compound	talks	UN
+amod	talks	nuclear
+nsubj	continue	talks
+aux	continue	will
+ccomp	says	continue

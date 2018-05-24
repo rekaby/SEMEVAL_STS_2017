@@ -1,0 +1,15 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+det	bike	a
+compound	bike	dirt
+dobj	riding	bike
+case	race	in
+det	race	a
+nmod:in	riding	race
+case	track	on
+det	track	a
+compound	track	dirt
+nmod:on	race	track
+punct	riding	.

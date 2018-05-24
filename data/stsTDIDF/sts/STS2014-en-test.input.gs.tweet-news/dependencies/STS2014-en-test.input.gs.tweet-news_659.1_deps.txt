@@ -1,0 +1,12 @@
+compound	Plans	#Wal
+punct	Plans	-
+compound	Plans	Mart
+root	ROOT	Plans
+mark	Hire	to
+acl	Plans	Hire
+det	#Veteran	Any
+dobj	Hire	#Veteran
+nsubj	Wants	Who
+acl:relcl	#Veteran	Wants
+det	#Job	a
+dobj	Wants	#Job

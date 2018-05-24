@@ -1,0 +1,10 @@
+det	man	A
+nsubj	stands	man
+root	ROOT	stands
+case	ladder	on
+det	ladder	a
+nmod:on	stands	ladder
+case	tanks	near
+amod	tanks	huge
+nmod:near	ladder	tanks
+punct	stands	.

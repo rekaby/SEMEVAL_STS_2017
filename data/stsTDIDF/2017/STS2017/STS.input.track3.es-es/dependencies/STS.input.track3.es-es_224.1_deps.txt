@@ -1,0 +1,8 @@
+det	child	A
+amod	child	small
+nsubj	fell	child
+root	ROOT	fell
+case	ground	to
+det	ground	the
+nmod:to	fell	ground
+punct	fell	.

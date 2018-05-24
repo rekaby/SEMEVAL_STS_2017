@@ -1,0 +1,5 @@
+nsubj	flunks	America
+root	ROOT	flunks
+nmod:poss	exam	its
+compound	exam	health
+dobj	flunks	exam

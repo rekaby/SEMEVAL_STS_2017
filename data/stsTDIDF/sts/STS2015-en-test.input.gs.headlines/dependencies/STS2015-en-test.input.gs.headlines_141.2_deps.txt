@@ -1,0 +1,8 @@
+nummod	vessels	Ten
+amod	vessels	Chinese
+nsubj	search	vessels
+case	standby	on
+nmod:on	vessels	standby
+case	jet	for
+nmod:for	standby	jet
+root	ROOT	search

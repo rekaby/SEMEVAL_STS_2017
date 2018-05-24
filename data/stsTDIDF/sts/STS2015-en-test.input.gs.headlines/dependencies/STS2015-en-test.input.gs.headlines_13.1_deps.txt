@@ -1,0 +1,8 @@
+amod	Diplomats	Top
+nsubj	Meet	Diplomats
+root	ROOT	Meet
+case	Munich	in
+nmod:in	Meet	Munich
+case	Time	at
+amod	Time	Critical
+nmod:at	Meet	Time

@@ -1,0 +1,13 @@
+det	skateboarder	A
+nsubj	attempts	skateboarder
+root	ROOT	attempts
+det	trick	a
+dobj	attempts	trick
+case	side	on
+det	side	the
+nmod:on	attempts	side
+case	wall	of
+det	wall	a
+amod	wall	low
+nmod:of	side	wall
+punct	attempts	.

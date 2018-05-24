@@ -1,0 +1,13 @@
+nsubj	afraid	I
+cop	afraid	'm
+root	ROOT	afraid
+expl	's	there
+ccomp	afraid	's
+neg	's	not
+advmod	's	really
+det	lot	a
+nsubj	's	lot
+nsubj	do	you
+aux	do	can
+acl:relcl	lot	do
+punct	afraid	.

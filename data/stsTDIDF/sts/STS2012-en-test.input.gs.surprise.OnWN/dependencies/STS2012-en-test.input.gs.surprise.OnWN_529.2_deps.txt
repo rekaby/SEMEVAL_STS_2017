@@ -1,0 +1,8 @@
+det	activity	the
+root	ROOT	activity
+mark	supplying	of
+acl	activity	supplying
+cc	supplying	or
+conj:or	supplying	providing
+dobj	supplying	something
+punct	activity	.

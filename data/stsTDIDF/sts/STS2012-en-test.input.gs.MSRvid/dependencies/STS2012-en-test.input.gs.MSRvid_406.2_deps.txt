@@ -1,0 +1,7 @@
+det	airplane	An
+nsubj	moves	airplane
+root	ROOT	moves
+case	runway	along
+det	runway	a
+nmod:along	moves	runway
+punct	moves	.

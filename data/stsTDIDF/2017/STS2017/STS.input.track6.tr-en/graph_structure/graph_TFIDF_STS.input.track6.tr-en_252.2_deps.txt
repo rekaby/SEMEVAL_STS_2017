@@ -1,0 +1,6 @@
+cycling	man	nsubj
+cycling	is	cop
+cycling	.	punct
+cycling	day	nmod:on
+day	sunny	amod
+ROOT	cycling	root

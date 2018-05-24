@@ -1,0 +1,17 @@
+det	officials	some
+amod	officials	asean
+nsubj	stated	officials
+root	ROOT	stated
+amod	standardization	such
+nsubj	difficult	standardization
+aux	difficult	would
+cop	difficult	be
+ccomp	stated	difficult
+xcomp	difficult	due
+case	systems	to
+amod	countries	different
+nmod:poss	systems	countries
+case	countries	'
+amod	systems	political
+nmod:to	due	systems
+punct	stated	.

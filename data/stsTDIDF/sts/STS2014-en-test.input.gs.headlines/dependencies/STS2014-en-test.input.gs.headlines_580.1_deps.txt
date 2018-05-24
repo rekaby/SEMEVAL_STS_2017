@@ -1,0 +1,9 @@
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+nsubj	end	weapons
+aux	end	could
+root	ROOT	end
+compound:prt	end	up
+case	sea	at
+nmod:at	end	sea

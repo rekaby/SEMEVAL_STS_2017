@@ -1,0 +1,9 @@
+nsubj	repeat	I
+root	ROOT	repeat
+punct	repeat	:
+cc	repeat	And
+det	fact	the
+amod	fact	simple
+conj:and	repeat	fact
+dep	fact	today
+punct	repeat	?

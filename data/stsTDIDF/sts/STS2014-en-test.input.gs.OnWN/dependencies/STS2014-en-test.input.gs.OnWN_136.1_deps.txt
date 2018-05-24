@@ -1,0 +1,10 @@
+det	established	An
+root	ROOT	established
+cc	established	or
+conj:or	established	recognized
+dep	established	right
+punct	right	,
+root	,	formal
+cc	formal	or
+conj:or	formal	informal
+punct	formal	.

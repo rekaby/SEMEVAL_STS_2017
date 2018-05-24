@@ -1,0 +1,6 @@
+water	The	det
+hot	.	punct
+ROOT	hot	root
+hot	water	nsubj
+hot	very	advmod
+hot	is	cop

@@ -1,0 +1,8 @@
+nsubj	data	Nutrax
+det	plural	The
+nsubj	data	plural
+case	anecdote	of
+nmod:of	plural	anecdote
+cop	data	is
+neg	data	not
+root	ROOT	data

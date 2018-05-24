@@ -1,0 +1,6 @@
+det	man	A
+nsubj	guts	man
+root	ROOT	guts
+det	fish	a
+dobj	guts	fish
+punct	guts	.

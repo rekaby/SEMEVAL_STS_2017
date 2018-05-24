@@ -1,0 +1,7 @@
+det	management	the
+root	ROOT	management
+case	someone	of
+nmod:of	management	someone
+cc	someone	or
+conj:or	someone	something
+punct	management	.

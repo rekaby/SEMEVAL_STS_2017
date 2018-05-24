@@ -1,0 +1,10 @@
+nsubj	looks	Workers
+case	ground	on
+det	ground	the
+nmod:on	Workers	ground
+root	ROOT	looks
+case	base	at
+det	base	the
+compound	base	foundation
+nmod:at	looks	base
+punct	looks	.

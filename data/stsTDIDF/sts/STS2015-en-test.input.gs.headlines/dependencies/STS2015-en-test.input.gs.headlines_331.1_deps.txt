@@ -1,0 +1,9 @@
+compound	poisoning	Food
+nsubj	kills	poisoning
+root	ROOT	kills
+case	least	at
+nmod:npmod	20	least
+nummod	children	20
+dobj	kills	children
+case	India	in
+nmod:in	kills	India

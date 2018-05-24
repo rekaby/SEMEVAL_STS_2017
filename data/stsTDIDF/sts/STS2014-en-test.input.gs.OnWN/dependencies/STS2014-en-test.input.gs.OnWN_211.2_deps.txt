@@ -1,0 +1,7 @@
+root	ROOT	use
+compound:prt	use	up
+det	supply	the
+amod	supply	whole
+dobj	use	supply
+acl	supply	of
+punct	use	.

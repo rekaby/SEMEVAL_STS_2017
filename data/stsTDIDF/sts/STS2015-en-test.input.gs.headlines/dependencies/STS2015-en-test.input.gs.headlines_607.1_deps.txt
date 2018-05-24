@@ -1,0 +1,11 @@
+amod	president	Chinese
+nsubj	arrives	president
+root	ROOT	arrives
+case	Netherlands	in
+nmod:in	arrives	Netherlands
+case	visit	for
+compound	visit	state
+nmod:for	arrives	visit
+punct	visit	,
+amod	summit	nuclear
+appos	visit	summit

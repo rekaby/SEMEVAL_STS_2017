@@ -1,0 +1,7 @@
+root	ROOT	Remove
+compound	stumps	tree
+dobj	Remove	stumps
+case	area	from
+det	area	an
+nmod:from	Remove	area
+punct	Remove	.

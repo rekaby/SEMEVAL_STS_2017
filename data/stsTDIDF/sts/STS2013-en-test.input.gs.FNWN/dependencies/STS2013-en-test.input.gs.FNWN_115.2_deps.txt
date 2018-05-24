@@ -1,0 +1,5 @@
+root	ROOT	imply
+case	possibility	as
+det	possibility	a
+nmod:as	imply	possibility
+punct	imply	;

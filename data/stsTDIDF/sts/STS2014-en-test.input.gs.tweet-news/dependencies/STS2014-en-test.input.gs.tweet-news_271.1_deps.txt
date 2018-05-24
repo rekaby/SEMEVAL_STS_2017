@@ -1,0 +1,15 @@
+det	reason	The
+root	ROOT	reason
+nsubj	exist	Kindles
+acl:relcl	reason	exist
+punct	reason	:
+det	Onion	The
+nsubj	tossing	Onion
+case	Onion	's
+dep	reason	tossing
+compound:prt	tossing	out
+det	biography	an
+compound	biography	e-book
+dobj	tossing	biography
+case	Biden	of
+nmod:of	biography	Biden

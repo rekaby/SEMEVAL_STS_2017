@@ -1,0 +1,11 @@
+root	ROOT	find
+det	solution	the
+dobj	find	solution
+conj:or	solution	solution
+case	meaning	to
+cc	to	or
+conj:or	to	understand
+det	meaning	the
+nmod:to	solution	meaning
+nmod:understand	solution	meaning
+acl	solution	of

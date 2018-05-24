@@ -1,0 +1,10 @@
+compound	stocks	US
+nsubj	fall	stocks
+root	ROOT	fall
+mark	lumber	as
+amod	talks	Greek
+nsubj	lumber	talks
+advcl	fall	lumber
+punct	fall	;
+nsubj	falls	Apple
+parataxis	fall	falls

@@ -1,0 +1,8 @@
+root	ROOT	But
+det	image	this
+nsubj	But	image
+amod	decline	further
+nsubj	survive	decline
+aux	survive	can
+acl:relcl	image	survive
+punct	But	?

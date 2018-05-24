@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	preparing
+case	swimming	for
+nmod:for	preparing	swimming
+punct	group	.

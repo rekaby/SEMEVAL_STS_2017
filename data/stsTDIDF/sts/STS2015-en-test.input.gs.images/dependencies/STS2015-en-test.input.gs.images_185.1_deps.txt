@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	swimming	dog
+aux	swimming	is
+root	ROOT	swimming
+case	lake	in
+det	lake	a
+amod	lake	large
+amod	lake	green
+nmod:in	swimming	lake
+punct	swimming	.

@@ -1,0 +1,16 @@
+det	woman	The
+nsubj	throwing	woman
+case	camera	with
+det	camera	the
+nmod:with	woman	camera
+aux	throwing	is
+root	ROOT	throwing
+det	Frisbee	a
+dobj	throwing	Frisbee
+case	dog	for
+nmod:poss	dog	her
+amod	dog	brown
+nmod:for	throwing	dog
+mark	catch	to
+advcl	throwing	catch
+punct	throwing	.

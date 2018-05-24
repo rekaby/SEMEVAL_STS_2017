@@ -1,0 +1,14 @@
+amod	ship	Greek
+nsubj	sank	ship
+root	ROOT	sank
+punct	sank	,
+case	storm	without
+det	storm	the
+amod	storm	least
+nmod:without	sank	storm
+case	exist	in
+nmod:in	sank	exist
+punct	exist	,
+compound	Gayssot	Mr
+appos	exist	Gayssot
+punct	sank	.

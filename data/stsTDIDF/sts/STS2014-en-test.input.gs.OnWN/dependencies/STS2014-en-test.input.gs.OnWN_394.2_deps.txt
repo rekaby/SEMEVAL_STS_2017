@@ -1,0 +1,6 @@
+root	ROOT	take
+dobj	take	measures
+case	preparation	in
+nmod:in	take	preparation
+acl	preparation	for
+punct	take	.

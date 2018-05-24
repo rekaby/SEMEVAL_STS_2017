@@ -1,0 +1,12 @@
+ROOT	inflated	root
+shirt	jacket	conj:and
+stick	big	amod
+girl	small	amod
+shirt	red	amod
+stick	a	det
+girl	wearing	acl
+inflated	girl	nsubj
+inflated	bubble	dobj
+inflated	stick	nmod:in
+stick	in	case
+inflated	.	punct

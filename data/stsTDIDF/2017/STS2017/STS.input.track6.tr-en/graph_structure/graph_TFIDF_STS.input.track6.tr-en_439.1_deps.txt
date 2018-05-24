@@ -1,0 +1,5 @@
+sleeping	bedroom	nmod:in
+bedroom	her	nmod:poss
+sleeping	is	aux
+bedroom	in	case
+sleeping	girl	nsubj

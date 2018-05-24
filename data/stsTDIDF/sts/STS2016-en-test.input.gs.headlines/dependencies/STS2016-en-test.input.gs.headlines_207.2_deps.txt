@@ -1,0 +1,8 @@
+compound	clubs	EPL
+root	ROOT	clubs
+mark	avoid	out
+mark	avoid	to
+acl	clubs	avoid
+compound	woes	Champions
+compound	woes	League
+dobj	avoid	woes

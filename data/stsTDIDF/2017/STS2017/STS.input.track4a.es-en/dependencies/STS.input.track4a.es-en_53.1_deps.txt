@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	preparing	men
+aux	preparing	are
+advmod	preparing	together
+root	ROOT	preparing
+mark	do	to
+xcomp	preparing	do
+dobj	do	gymnastics
+punct	preparing	.

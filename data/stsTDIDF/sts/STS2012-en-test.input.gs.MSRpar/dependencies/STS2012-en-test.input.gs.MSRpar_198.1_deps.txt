@@ -1,0 +1,15 @@
+nsubj	filed	YES
+root	ROOT	filed
+dobj	filed	suit
+nmod:tmod	filed	yesterday
+case	Court	in
+det	Court	the
+compound	Court	Supreme
+nmod:in	filed	Court
+case	County	of
+compound	County	New
+compound	County	York
+nmod:of	Court	County
+case	Manhattan	in
+nmod:in	Court	Manhattan
+punct	filed	.

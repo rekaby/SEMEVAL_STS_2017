@@ -1,0 +1,9 @@
+det	man	An
+amod	man	old
+nsubj	talks	man
+root	ROOT	talks
+case	woman	to
+det	woman	a
+amod	woman	young
+nmod:to	talks	woman
+punct	talks	.

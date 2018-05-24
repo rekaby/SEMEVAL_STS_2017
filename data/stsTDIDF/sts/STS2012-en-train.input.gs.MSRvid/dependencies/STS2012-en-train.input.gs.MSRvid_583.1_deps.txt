@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	collecting	woman
+aux	collecting	is
+root	ROOT	collecting
+compound	water	tap
+dobj	collecting	water
+case	mug	in
+det	mug	a
+nmod:in	collecting	mug
+punct	collecting	.

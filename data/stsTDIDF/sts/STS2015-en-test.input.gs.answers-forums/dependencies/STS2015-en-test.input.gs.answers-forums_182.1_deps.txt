@@ -1,0 +1,13 @@
+csubj	something	Playing
+dobj	Playing	doctor
+cop	something	is
+root	ROOT	something
+det	kids	all
+nsubj	want	kids
+acl:relcl	something	want
+mark	try	to
+xcomp	want	try
+case	point	at
+det	point	some
+nmod:at	try	point
+punct	something	.

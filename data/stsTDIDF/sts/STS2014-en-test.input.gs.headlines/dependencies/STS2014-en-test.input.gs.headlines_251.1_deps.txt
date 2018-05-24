@@ -1,0 +1,6 @@
+nsubj	step	Chairman
+case	easyJet	of
+nmod:of	Chairman	easyJet
+mark	step	to
+root	ROOT	step
+compound:prt	step	down

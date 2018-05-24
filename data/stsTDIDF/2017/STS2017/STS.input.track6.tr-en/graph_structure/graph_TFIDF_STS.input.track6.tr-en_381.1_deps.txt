@@ -1,0 +1,11 @@
+t-shirt	holding	acl
+t-shirt	white	amod
+corner	on	case
+cellphone	a	det
+standing	man	nsubj
+standing	corner	nmod:on
+holding	cellphone	dobj
+man	t-shirt	nmod:in
+t-shirt	in	case
+t-shirt	a	det
+corner	street	compound

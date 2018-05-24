@@ -1,0 +1,8 @@
+det	girl	The
+nsubj	playing	girl
+aux	playing	was
+root	ROOT	playing
+case	Logs	with
+compound	Logs	Lincoln
+nmod:with	playing	Logs
+punct	playing	.

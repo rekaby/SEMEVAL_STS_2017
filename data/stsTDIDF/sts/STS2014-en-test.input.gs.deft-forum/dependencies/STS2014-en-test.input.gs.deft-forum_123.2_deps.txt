@@ -1,0 +1,9 @@
+root	ROOT	Please
+punct	Please	,
+nsubj	true	what
+case	them	about
+nmod:about	what	them
+cop	true	are
+neg	true	not
+ccomp	Please	true
+punct	Please	.

@@ -1,0 +1,8 @@
+sit	people	nsubj
+sit	bench	nmod:on
+bench	a	det
+sit	trees	nmod:by
+bench	wooden	amod
+building	white	amod
+trees	by	case
+trees	building	nmod:in_front_of

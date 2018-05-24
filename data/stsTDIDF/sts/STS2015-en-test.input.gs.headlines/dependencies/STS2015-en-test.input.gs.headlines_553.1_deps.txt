@@ -1,0 +1,7 @@
+nsubj	begins	Croatia
+root	ROOT	begins
+dobj	begins	countdown
+case	entry	to
+amod	entry	historic
+compound	entry	EU
+nmod:to	countdown	entry

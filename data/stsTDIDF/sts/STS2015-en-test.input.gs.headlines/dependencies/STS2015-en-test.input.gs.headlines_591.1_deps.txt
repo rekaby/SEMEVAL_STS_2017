@@ -1,0 +1,8 @@
+compound	progress	UN
+compound	progress	inspectors
+compound	progress	hail
+root	ROOT	progress
+case	weapons	over
+compound	weapons	Syria
+compound	weapons	chemical
+nmod:over	progress	weapons

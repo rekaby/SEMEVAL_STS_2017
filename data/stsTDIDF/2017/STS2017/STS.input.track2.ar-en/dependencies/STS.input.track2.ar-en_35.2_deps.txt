@@ -1,0 +1,4 @@
+root	ROOT	People
+det	Aapson	all
+dep	People	Aapson
+punct	People	.

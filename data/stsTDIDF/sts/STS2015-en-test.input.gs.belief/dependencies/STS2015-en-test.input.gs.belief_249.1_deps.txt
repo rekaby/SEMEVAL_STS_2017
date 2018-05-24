@@ -1,0 +1,16 @@
+nsubj	married	he
+root	ROOT	married
+dobj	married	you
+punct	married	,
+conj:and	married	chose
+mark	have	to
+xcomp	chose	have
+det	child	a
+dobj	have	child
+case	you	with
+nmod:with	child	you
+cc	married	and
+conj:and	married	loves
+nsubj	unconditionally	you
+advmod	loves	unconditionally
+punct	married	.

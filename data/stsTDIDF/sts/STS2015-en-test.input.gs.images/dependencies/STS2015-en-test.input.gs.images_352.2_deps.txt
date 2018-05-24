@@ -1,0 +1,6 @@
+nummod	dogs	two
+root	ROOT	dogs
+acl	dogs	running
+case	beach	on
+det	beach	the
+nmod:on	running	beach

@@ -1,0 +1,8 @@
+det	train	A
+amod	train	white
+root	ROOT	train
+acl	train	pulling
+case	station	into
+det	station	a
+nmod:into	pulling	station
+punct	train	.

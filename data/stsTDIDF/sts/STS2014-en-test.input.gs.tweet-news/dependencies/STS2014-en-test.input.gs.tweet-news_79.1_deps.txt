@@ -1,0 +1,8 @@
+compound	Swartz	RSS
+cc	RSS	and
+conj:and	RSS	Reddit
+compound	Swartz	co-developper
+compound	Swartz	Aaron
+nsubj	commits	Swartz
+root	ROOT	commits
+dobj	commits	suicide

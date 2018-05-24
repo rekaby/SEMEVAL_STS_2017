@@ -1,0 +1,8 @@
+det	policy	A
+root	ROOT	policy
+nsubj	capital	which
+aux	capital	has
+cop	capital	been
+advmod	capital	strongly
+acl:relcl	policy	capital
+punct	policy	.

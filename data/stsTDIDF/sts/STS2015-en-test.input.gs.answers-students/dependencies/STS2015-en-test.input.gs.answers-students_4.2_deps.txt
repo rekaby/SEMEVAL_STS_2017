@@ -1,0 +1,12 @@
+amod	6	terminal
+nsubjpass	separated	6
+auxpass	separated	is
+root	ROOT	separated
+case	gap	by
+det	gap	a
+nmod:agent	separated	gap
+case	terminal	from
+det	terminal	the
+amod	terminal	negative
+compound	terminal	battery
+nmod:from	gap	terminal

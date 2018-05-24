@@ -1,0 +1,10 @@
+det	group	a
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	living
+advmod	living	together
+case	camp	in
+det	camp	a
+nmod:in	living	camp
+punct	group	.

@@ -1,0 +1,6 @@
+det	people	Some
+root	ROOT	people
+case	jungle	in
+det	jungle	the
+nmod:in	people	jungle
+punct	people	.

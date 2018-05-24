@@ -1,0 +1,9 @@
+compound	Korea	N.
+nmod:poss	Kim	Korea
+case	Korea	's
+nsubj	hails	Kim
+root	ROOT	hails
+dobj	hails	execution
+case	uncle	of
+amod	uncle	powerful
+nmod:of	execution	uncle

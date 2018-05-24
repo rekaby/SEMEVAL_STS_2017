@@ -1,0 +1,8 @@
+compound	Us	Toys
+compound	Us	R
+nsubj	waives	Us
+root	ROOT	waives
+dobj	waives	fee
+case	program	for
+compound	program	layaway
+nmod:for	fee	program

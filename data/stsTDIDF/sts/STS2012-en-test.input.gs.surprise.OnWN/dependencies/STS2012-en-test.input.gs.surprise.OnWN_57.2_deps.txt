@@ -1,0 +1,15 @@
+root	ROOT	act
+case	unison	in
+nmod:in	act	unison
+cc	unison	or
+conj:or	unison	agreement
+cc	act	and
+case	secret	in
+conj:and	act	secret
+case	purpose	towards
+det	purpose	a
+amod	purpose	deceitful
+cc	deceitful	or
+conj:or	deceitful	illegal
+nmod:towards	secret	purpose
+punct	act	.

@@ -1,0 +1,6 @@
+amod	PM	Greek
+root	ROOT	PM
+mark	announce	to
+acl	PM	announce
+amod	election	new
+dobj	announce	election

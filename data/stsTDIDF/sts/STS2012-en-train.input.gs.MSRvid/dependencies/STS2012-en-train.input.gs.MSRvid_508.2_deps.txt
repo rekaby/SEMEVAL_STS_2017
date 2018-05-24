@@ -1,0 +1,8 @@
+det	man	A
+nsubj	rinsing	man
+aux	rinsing	is
+root	ROOT	rinsing
+det	steak	a
+amod	steak	large
+dobj	rinsing	steak
+punct	rinsing	.

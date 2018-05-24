@@ -1,0 +1,14 @@
+nsubj	time	It
+cop	time	's
+ccomp	says	time
+acl	time	for
+det	military	the
+dobj	for	military
+mark	modernize	to
+acl	military	modernize
+advmod	modernize	as
+mwe	as	well
+punct	says	,
+nsubj	says	Burke
+root	ROOT	says
+punct	says	.

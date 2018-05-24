@@ -1,0 +1,10 @@
+det	skier	A
+nsubj	falling	skier
+aux	falling	is
+root	ROOT	falling
+dobj	falling	face
+advmod	face	first
+case	snow	into
+det	snow	the
+nmod:into	first	snow
+punct	falling	.

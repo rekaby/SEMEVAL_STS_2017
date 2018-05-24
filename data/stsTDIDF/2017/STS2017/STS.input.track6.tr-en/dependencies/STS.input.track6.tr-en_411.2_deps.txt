@@ -1,0 +1,15 @@
+det	woman	A
+amod	woman	young
+root	ROOT	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	woman	shirt
+punct	shirt	,
+amod	shorts	white
+nsubj	hits	shorts
+acl:relcl	shirt	hits
+det	ball	a
+compound	ball	tennis
+dobj	hits	ball
+punct	woman	.

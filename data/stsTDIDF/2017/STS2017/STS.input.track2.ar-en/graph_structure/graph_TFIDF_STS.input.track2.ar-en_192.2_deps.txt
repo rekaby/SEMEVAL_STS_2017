@@ -1,0 +1,5 @@
+rain	for	case
+waiting	Woman	nsubj
+rain	umbrella	nmod:with
+waiting	rain	nmod:for
+umbrella	with	case

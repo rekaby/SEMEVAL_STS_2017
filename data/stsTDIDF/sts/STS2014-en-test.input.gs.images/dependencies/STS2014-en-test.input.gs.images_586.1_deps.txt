@@ -1,0 +1,12 @@
+nummod	women	Two
+nsubj	stand	women
+root	ROOT	stand
+case	room	in
+det	room	a
+amod	room	living
+nmod:in	stand	room
+case	dog	with
+det	dog	a
+amod	dog	black
+nmod:with	room	dog
+punct	stand	.

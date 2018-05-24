@@ -1,0 +1,10 @@
+nsubj	gets	Bush
+root	ROOT	gets
+nummod	credit	zero
+dobj	gets	credit
+case	budget	for
+det	budget	the
+nmod:for	credit	budget
+case	him	under
+nmod:under	gets	him
+punct	gets	.

@@ -1,0 +1,8 @@
+det	state	the
+root	ROOT	state
+mark	more	of
+cop	more	being
+acl	state	more
+case	full	than
+nmod:than	more	full
+punct	state	.

@@ -1,0 +1,7 @@
+case	short	In
+root	ROOT	short
+punct	short	-
+cc	short	But
+conj:but	short	victorious
+case	Kovalev	of
+nmod:of	victorious	Kovalev

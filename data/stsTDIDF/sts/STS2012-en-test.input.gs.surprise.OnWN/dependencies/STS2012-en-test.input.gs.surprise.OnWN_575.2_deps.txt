@@ -1,0 +1,6 @@
+root	ROOT	take
+case	family	into
+nmod:poss	family	one
+case	one	's
+nmod:into	take	family
+punct	take	.

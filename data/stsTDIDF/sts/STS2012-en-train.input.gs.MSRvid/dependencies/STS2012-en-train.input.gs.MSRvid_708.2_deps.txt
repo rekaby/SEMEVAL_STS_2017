@@ -1,0 +1,6 @@
+det	tiger	A
+nsubj	attacks	tiger
+root	ROOT	attacks
+det	man	a
+dobj	attacks	man
+punct	attacks	.

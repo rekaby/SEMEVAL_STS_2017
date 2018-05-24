@@ -1,0 +1,10 @@
+det	train	The
+amod	train	brown
+nsubj	sitting	train
+aux	sitting	is
+root	ROOT	sitting
+case	tracks	on
+det	tracks	the
+compound	tracks	railroad
+nmod:on	sitting	tracks
+punct	sitting	.

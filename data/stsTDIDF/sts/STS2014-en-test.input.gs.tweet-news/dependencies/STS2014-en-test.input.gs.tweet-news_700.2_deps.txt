@@ -1,0 +1,11 @@
+compound	York	New
+root	ROOT	York
+mark	pass	to
+acl	York	pass
+amod	bill	first
+compound	bill	gun
+compound	bill	control
+dobj	pass	bill
+case	shooting	since
+compound	shooting	Newtown
+nmod:since	pass	shooting

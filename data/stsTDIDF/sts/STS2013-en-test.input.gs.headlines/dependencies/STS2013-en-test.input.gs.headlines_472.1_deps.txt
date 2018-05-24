@@ -1,0 +1,10 @@
+compound	stocks	World
+nsubj	rise	stocks
+root	ROOT	rise
+case	hopes	on
+nmod:on	rise	hopes
+case	EU	for
+nmod:for	hopes	EU
+punct	EU	,
+compound	stimulus	US
+appos	EU	stimulus

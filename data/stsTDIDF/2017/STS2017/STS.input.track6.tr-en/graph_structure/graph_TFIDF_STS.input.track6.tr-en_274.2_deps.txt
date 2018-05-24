@@ -1,0 +1,5 @@
+bus	is	cop
+ROOT	bus	root
+bus	woman	nsubj
+bus	.	punct
+bus	on	case

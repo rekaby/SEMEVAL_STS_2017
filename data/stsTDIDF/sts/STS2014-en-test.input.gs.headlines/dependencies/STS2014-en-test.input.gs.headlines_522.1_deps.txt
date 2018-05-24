@@ -1,0 +1,7 @@
+compound	XVI	Pope
+compound	XVI	Benedict
+nsubj	Says	XVI
+root	ROOT	Says
+dobj	Says	Goodbye
+case	Cardinals	to
+nmod:to	Goodbye	Cardinals

@@ -1,0 +1,7 @@
+compound	quakes	Southwest
+compound	quakes	China
+nsubj	kill	quakes
+root	ROOT	kill
+case	least	at
+nmod:at	kill	least
+dobj	kill	50

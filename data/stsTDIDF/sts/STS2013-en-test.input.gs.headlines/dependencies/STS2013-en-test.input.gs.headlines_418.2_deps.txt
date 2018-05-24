@@ -1,0 +1,14 @@
+compound	shooting	Toulouse
+root	ROOT	shooting
+punct	shooting	:
+nsubj	level	France
+cop	level	was
+case	level	on
+det	level	the
+amod	level	highest
+dep	shooting	level
+case	security	of
+nmod:of	level	security
+case	security	of
+nmod:of	security	security
+dep	level	alert

@@ -1,0 +1,6 @@
+nsubj	serious	i
+cop	serious	'm
+root	ROOT	serious
+case	this	about
+nmod:about	serious	this
+punct	serious	.

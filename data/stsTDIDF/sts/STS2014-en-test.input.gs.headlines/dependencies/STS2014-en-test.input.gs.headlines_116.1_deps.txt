@@ -1,0 +1,8 @@
+nsubj	reiterates	CBN
+root	ROOT	reiterates
+dobj	reiterates	plan
+mark	phase	to
+acl	plan	phase
+compound:prt	phase	out
+compound	notes	polymer
+dobj	phase	notes

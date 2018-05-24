@@ -1,0 +1,8 @@
+amod	rocks	Heavy
+compound	rocks	fighting
+root	ROOT	rocks
+amod	Syria	eastern
+dep	rocks	Syria
+advmod	Syria	ahead
+case	poll	of
+nmod:of	ahead	poll

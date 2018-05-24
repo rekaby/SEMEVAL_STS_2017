@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	dancing	woman
+cop	dancing	is
+root	ROOT	dancing
+cc	dancing	and
+conj:and	dancing	singing
+case	women	with
+amod	women	other
+nmod:with	singing	women
+punct	dancing	.

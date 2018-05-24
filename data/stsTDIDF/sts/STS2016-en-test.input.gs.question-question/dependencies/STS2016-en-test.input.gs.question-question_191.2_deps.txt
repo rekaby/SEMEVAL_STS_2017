@@ -1,0 +1,9 @@
+advmod	remove	How
+mark	remove	to
+root	ROOT	remove
+compound	smell	milk
+dobj	remove	smell
+case	floor	from
+compound	floor	hardwood
+nmod:from	remove	floor
+punct	remove	?

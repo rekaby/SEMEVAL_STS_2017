@@ -1,0 +1,11 @@
+det	man	The
+nsubj	kitchen	man
+case	sweatshirt	in
+det	sweatshirt	a
+amod	sweatshirt	blue
+nmod:in	man	sweatshirt
+cop	kitchen	is
+case	kitchen	in
+det	kitchen	a
+root	ROOT	kitchen
+punct	kitchen	.

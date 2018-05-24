@@ -1,0 +1,6 @@
+advmod	all-American	How
+amod	hero	all-American
+nsubj	fell	hero
+root	ROOT	fell
+case	earth	to
+nmod:to	fell	earth

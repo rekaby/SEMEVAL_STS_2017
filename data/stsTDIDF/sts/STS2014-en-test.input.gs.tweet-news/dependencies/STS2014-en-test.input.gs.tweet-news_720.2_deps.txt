@@ -1,0 +1,7 @@
+nsubj	ends	Pentagon
+root	ROOT	ends
+dobj	ends	ban
+case	women	on
+nmod:on	ban	women
+case	combat	in
+nmod:in	ends	combat

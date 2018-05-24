@@ -1,0 +1,6 @@
+amod	defects	Syrian
+compound	defects	fighter
+compound	defects	pilot
+root	ROOT	defects
+case	Jordan	to
+nmod:to	defects	Jordan

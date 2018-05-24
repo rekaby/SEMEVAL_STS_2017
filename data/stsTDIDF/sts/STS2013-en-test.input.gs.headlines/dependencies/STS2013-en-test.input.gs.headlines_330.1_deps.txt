@@ -1,0 +1,6 @@
+root	ROOT	Highlights
+case	debate	of
+det	debate	the
+compound	debate	Vice
+compound	debate	Presidential
+nmod:of	Highlights	debate

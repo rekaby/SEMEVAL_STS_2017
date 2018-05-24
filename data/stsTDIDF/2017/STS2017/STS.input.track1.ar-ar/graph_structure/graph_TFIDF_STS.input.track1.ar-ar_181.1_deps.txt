@@ -1,0 +1,9 @@
+came	sea	nmod:from
+suit	diving	compound
+holds	fund	dobj
+sea	wearing	acl
+came	man	nsubj
+came	holds	conj:and
+wearing	suit	dobj
+holds	now	advmod
+sea	from	case

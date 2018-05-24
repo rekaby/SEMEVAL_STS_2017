@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	small
+dep	blocks	boy
+dep	blocks	wearing
+det	stacks	a
+amod	stacks	blue
+compound	stacks	shirt
+nsubj	blocks	stacks
+amod	blocks	wooden
+root	ROOT	blocks
+punct	blocks	.

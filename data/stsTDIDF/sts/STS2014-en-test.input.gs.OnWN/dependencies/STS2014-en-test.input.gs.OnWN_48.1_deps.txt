@@ -1,0 +1,5 @@
+root	ROOT	create
+det	mess	a
+dobj	create	mess
+cc	mess	or
+conj:or	mess	disorder

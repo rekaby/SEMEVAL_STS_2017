@@ -1,0 +1,11 @@
+det	lady	The
+nsubj	put	lady
+root	ROOT	put
+det	shimp	the
+amod	shimp	skewered
+dobj	put	shimp
+case	water	in
+det	water	the
+amod	water	hot
+nmod:in	put	water
+punct	put	.

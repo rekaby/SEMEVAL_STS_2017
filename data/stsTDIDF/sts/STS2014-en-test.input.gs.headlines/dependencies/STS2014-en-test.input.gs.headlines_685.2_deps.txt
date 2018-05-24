@@ -1,0 +1,6 @@
+amod	quake	Major
+nsubj	kills	quake
+root	ROOT	kills
+dobj	kills	39
+case	Pakistan	in
+nmod:in	kills	Pakistan

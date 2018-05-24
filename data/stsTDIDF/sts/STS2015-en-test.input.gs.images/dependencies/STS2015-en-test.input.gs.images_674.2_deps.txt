@@ -1,0 +1,12 @@
+det	person	A
+nsubj	climbs	person
+root	ROOT	climbs
+det	hill	a
+amod	hill	snowy
+dobj	climbs	hill
+mark	follows	while
+det	dog	a
+amod	dog	black
+nsubj	follows	dog
+advcl	climbs	follows
+punct	climbs	.

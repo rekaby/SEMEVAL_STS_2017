@@ -1,0 +1,16 @@
+mark	camping	after
+root	ROOT	camping
+cc	camping	and
+amod	home	coming
+conj:and	camping	home
+nsubj	searched	we
+ccomp	camping	searched
+dobj	searched	high
+cc	high	and
+conj:and	high	low
+cc	high	and
+aux	find	could
+neg	find	not
+conj:and	high	find
+dobj	find	them
+punct	camping	.

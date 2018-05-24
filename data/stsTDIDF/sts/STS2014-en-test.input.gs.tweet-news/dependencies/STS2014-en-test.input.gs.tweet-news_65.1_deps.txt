@@ -1,0 +1,11 @@
+amod	police	Spanish
+nsubj	seize	police
+root	ROOT	seize
+dobj	seize	items
+acl	items	intended
+case	Iran	for
+nmod:for	intended	Iran
+punct	seize	.-8) root(ROOT-0, Qu
+punct	Qu	?-2) amod(rollo-2, mal
+root	ROOT	rollo
+punct	rollo	...

@@ -1,0 +1,6 @@
+compound	Mandela	Nelson
+root	ROOT	Mandela
+case	Hospital	in
+nmod:in	Mandela	Hospital
+case	Tests	for
+nmod:for	Mandela	Tests

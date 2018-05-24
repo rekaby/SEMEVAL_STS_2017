@@ -1,0 +1,13 @@
+det	line	A
+compound	line	budget
+nsubj	has	line
+root	ROOT	has
+dobj	has	programmes
+case	clearance	for
+amod	clearance	mine
+nmod:for	programmes	clearance
+cc	clearance	and
+conj:and	clearance	prevention
+case	years	for
+nmod:for	clearance	years
+punct	has	.

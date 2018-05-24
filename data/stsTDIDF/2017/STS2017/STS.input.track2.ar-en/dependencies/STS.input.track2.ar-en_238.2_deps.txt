@@ -1,0 +1,5 @@
+root	ROOT	Gymnast
+case	competition	in
+det	competition	the
+nmod:in	Gymnast	competition
+punct	Gymnast	.

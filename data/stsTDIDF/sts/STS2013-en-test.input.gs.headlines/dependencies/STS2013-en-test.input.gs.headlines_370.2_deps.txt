@@ -1,0 +1,7 @@
+nsubj	Promises	Romney
+root	ROOT	Promises
+case	America	to
+punct	America	`
+compound	America	Restore
+nmod:to	Promises	America
+punct	Promises	'

@@ -1,0 +1,6 @@
+men	Some	det
+doing	work	dobj
+doing	park	nmod:at
+park	at	case
+work	volunteer	compound
+men	doing	acl

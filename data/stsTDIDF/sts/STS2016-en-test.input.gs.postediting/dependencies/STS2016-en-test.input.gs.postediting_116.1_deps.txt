@@ -1,0 +1,16 @@
+mark	support	To
+advcl	need	support
+det	sector	the
+dobj	support	sector
+punct	need	,
+nsubj	need	one
+aux	need	would
+root	ROOT	need
+case	16	between
+nmod:between	need	16
+cc	16	and
+compound	million	18
+conj:and	16	million
+case	year	per
+nmod:per	16	year
+punct	need	.

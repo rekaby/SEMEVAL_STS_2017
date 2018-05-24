@@ -1,0 +1,6 @@
+examining	man	nsubj
+examining	is	aux
+examining	object	dobj
+examining	.	punct
+ROOT	examining	root
+object	an	det

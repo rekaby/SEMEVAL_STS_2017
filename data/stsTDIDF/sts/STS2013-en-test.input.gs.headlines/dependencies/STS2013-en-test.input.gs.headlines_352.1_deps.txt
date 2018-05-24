@@ -1,0 +1,9 @@
+amod	PM	Israeli
+nsubj	makes	PM
+root	ROOT	makes
+dobj	makes	case
+case	Iran	on
+nmod:on	case	Iran
+case	voters	to
+compound	voters	US
+nmod:to	makes	voters

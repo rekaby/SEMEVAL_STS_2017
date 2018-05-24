@@ -1,0 +1,9 @@
+det	terminal	The
+nsubjpass	connected	terminal
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+det	terminal	a
+amod	terminal	negative
+nmod:to	connected	terminal
+punct	connected	.

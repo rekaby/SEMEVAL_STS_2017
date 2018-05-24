@@ -1,0 +1,7 @@
+bunch	people	nmod:of
+waiting	line	nmod:in
+waiting	bunch	nsubj
+movie	for	case
+bunch	A	det
+movie	new	amod
+line	movie	nmod:for

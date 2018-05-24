@@ -1,0 +1,9 @@
+det	women	The
+nsubj	preparing	women
+aux	preparing	are
+root	ROOT	preparing
+dobj	preparing	dinner
+case	kitchen	in
+nmod:poss	kitchen	their
+nmod:in	dinner	kitchen
+punct	preparing	.

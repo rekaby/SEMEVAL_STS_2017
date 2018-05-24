@@ -1,0 +1,15 @@
+woman	to	case
+blaze	a	det
+woman	shirt	compound
+attaching	woman	nsubj
+younger	her	nmod:than
+attaching	woman	nmod:to
+woman	white	amod
+woman	shirt	nmod:in
+woman	younger	amod
+attaching	blaze	dobj
+shirt	red	amod
+ROOT	attaching	root
+attaching	is	aux
+blaze	blue	amod
+attaching	.	punct

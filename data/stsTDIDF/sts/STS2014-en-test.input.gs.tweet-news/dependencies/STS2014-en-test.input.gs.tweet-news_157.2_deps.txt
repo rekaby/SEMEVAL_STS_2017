@@ -1,0 +1,8 @@
+amod	blazes	Deadly
+root	ROOT	blazes
+punct	blazes	:
+compound	tragedies	Nightclub
+dep	blazes	tragedies
+case	history	in
+amod	history	recent
+nmod:in	tragedies	history

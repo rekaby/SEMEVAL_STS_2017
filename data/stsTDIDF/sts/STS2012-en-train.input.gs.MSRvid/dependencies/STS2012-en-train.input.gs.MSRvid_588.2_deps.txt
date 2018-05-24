@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	shooting	woman
+aux	shooting	is
+root	ROOT	shooting
+compound:prt	shooting	off
+det	gun	a
+dobj	shooting	gun
+punct	shooting	.

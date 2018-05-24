@@ -1,0 +1,9 @@
+det	person	A
+amod	person	yellow
+amod	person	vested
+nsubj	doing	person
+aux	doing	is
+root	ROOT	doing
+compound	work	road
+dobj	doing	work
+punct	doing	.

@@ -1,0 +1,10 @@
+det	woman	An
+amod	woman	Asian
+nsubj	waiting	woman
+root	ROOT	waiting
+case	show	for
+det	show	the
+nmod:for	waiting	show
+mark	begin	to
+acl	show	begin
+punct	waiting	.

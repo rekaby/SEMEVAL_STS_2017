@@ -1,0 +1,10 @@
+root	ROOT	now
+case	course	of
+nmod:of	now	course
+nmod:poss	fault	its
+compound	fault	everyones
+dep	course	fault
+cc	fault	but
+nmod:poss	own	their
+conj:but	fault	own
+punct	now	.

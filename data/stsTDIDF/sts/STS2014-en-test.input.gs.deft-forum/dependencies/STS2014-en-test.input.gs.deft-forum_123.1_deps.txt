@@ -1,0 +1,12 @@
+root	ROOT	If
+dep	If	so
+punct	so	,
+root	,	state
+nsubj	is	that
+acl:relcl	state	is
+advmod	true	why
+nsubj	true	they
+cop	true	're
+neg	true	not
+advcl	is	true
+punct	state	.

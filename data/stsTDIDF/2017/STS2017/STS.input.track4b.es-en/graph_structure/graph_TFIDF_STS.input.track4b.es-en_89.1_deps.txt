@@ -1,0 +1,11 @@
+affirmation	support	nmod:of
+support	bipartisan	amod
+ROOT	affirmation	root
+support	aspirations	nmod:for
+affirmation	It	nsubj
+aspirations	their	nmod:poss
+aspirations	for	case
+aspirations	democratic	amod
+affirmation	.	punct
+affirmation	an	det
+affirmation	's	cop

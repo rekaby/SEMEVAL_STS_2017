@@ -1,0 +1,14 @@
+det	market	The
+amod	market	broader
+nsubj	retreated	market
+advmod	retreated	also
+root	ROOT	retreated
+punct	retreated	,
+aux	climbed	having
+xcomp	retreated	climbed
+advmod	climbed	higher
+case	weeks	for
+nummod	weeks	four
+amod	weeks	consecutive
+nmod:for	higher	weeks
+punct	retreated	.

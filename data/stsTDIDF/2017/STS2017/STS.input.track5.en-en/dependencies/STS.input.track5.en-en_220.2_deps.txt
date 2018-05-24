@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	dog	with
+nmod:poss	dog	his
+nmod:with	man	dog
+case	beach	on
+det	beach	the
+nmod:on	dog	beach
+punct	man	.

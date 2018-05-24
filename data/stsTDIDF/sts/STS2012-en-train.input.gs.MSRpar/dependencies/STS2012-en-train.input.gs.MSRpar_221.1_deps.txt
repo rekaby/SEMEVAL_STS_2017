@@ -1,0 +1,17 @@
+det	Standard	The
+nmod:poss	Index	Standard
+cc	Standard	&
+conj:&	Standard	Poor
+case	Standard	's
+nummod	Index	500
+nsubj	slipped	Index
+root	ROOT	slipped
+dobj	slipped	4.77
+punct	4.77	,
+cc	4.77	or
+nummod	percent	0.5
+conj:or	4.77	percent
+punct	4.77	,
+case	929.62	to
+nmod:to	slipped	929.62
+punct	slipped	.

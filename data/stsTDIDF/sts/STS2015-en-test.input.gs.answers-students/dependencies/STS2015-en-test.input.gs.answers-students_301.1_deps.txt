@@ -1,0 +1,11 @@
+nsubj	breaks	It
+root	ROOT	breaks
+det	flow	the
+compound	flow	circuit
+dobj	breaks	flow
+case	battery	between
+det	battery	the
+nmod:between	breaks	battery
+cc	battery	and
+det	bulbs	the
+conj:and	battery	bulbs

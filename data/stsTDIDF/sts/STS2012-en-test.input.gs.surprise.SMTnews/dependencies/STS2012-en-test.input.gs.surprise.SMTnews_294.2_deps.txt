@@ -1,0 +1,16 @@
+cc	reflect	But
+det	returns	the
+nsubj	reflect	returns
+nsubj	make	which
+acl:relcl	returns	make
+compound	Securities	markets
+amod	Securities	American
+dobj	make	Securities
+advmod	attractive	so
+amod	returns	attractive
+root	ROOT	reflect
+det	balance	a
+amod	balance	fragile
+amod	balance	political
+dobj	reflect	balance
+punct	reflect	.

@@ -1,0 +1,13 @@
+root	ROOT	quit
+xcomp	quit	listening
+case	him	to
+nmod:to	listening	him
+mark	's	because
+nsubj	's	he
+advcl	quit	's
+amod	nancy	such
+det	nancy	a
+amod	nancy	damned
+amod	nancy	negative
+nsubj	's	nancy
+punct	quit	.

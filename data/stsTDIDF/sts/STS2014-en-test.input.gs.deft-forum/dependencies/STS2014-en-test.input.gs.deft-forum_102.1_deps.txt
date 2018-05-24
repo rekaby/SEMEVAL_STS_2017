@@ -1,0 +1,9 @@
+nsubj	have	Morals
+root	ROOT	have
+advmod	nothing	absolutely
+dobj	have	nothing
+mark	do	to
+acl	nothing	do
+case	it	with
+nmod:with	do	it
+punct	have	!

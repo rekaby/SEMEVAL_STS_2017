@@ -1,0 +1,5 @@
+root	ROOT	open
+advmod	open	again
+cc	open	or
+conj:or	open	anew
+punct	open	.

@@ -1,0 +1,7 @@
+inside	female	amod
+male	A	det
+ROOT	male	root
+male	inside	conj:and
+male	and	cc
+inside	a	det
+male	.	punct

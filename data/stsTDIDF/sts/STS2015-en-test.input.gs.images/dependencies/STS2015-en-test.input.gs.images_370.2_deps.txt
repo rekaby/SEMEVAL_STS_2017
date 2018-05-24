@@ -1,0 +1,14 @@
+det	dog	A
+amod	dog	brown
+root	ROOT	dog
+cc	dog	and
+det	dog	a
+amod	dog	black
+conj:and	dog	dog
+acl	dog	playing
+case	ball	with
+det	ball	a
+amod	ball	yellow
+compound	ball	soccer
+nmod:with	playing	ball
+punct	dog	.

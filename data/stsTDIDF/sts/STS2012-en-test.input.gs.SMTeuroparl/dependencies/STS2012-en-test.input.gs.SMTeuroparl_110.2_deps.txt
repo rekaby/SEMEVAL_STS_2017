@@ -1,0 +1,15 @@
+nsubj	maintain	We
+root	ROOT	maintain
+det	unanimity	the
+dobj	maintain	unanimity
+case	Council	in
+det	Council	the
+nmod:in	unanimity	Council
+cc	unanimity	and
+advmod	capacity	therefore
+det	capacity	a
+amod	capacity	latent
+conj:and	unanimity	capacity
+mark	act	to
+acl	capacity	act
+punct	maintain	.

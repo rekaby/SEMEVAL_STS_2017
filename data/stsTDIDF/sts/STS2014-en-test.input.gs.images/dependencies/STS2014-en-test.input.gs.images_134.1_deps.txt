@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	sits	dog
+root	ROOT	sits
+case	chair	on
+det	chair	a
+amod	chair	floral-patterned
+nmod:on	sits	chair
+punct	sits	.

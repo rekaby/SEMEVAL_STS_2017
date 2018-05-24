@@ -1,0 +1,16 @@
+det	entity	an
+nsubj	changes	entity
+root	ROOT	changes
+case	prior_state	from
+det	prior_state	a
+nmod:from	changes	prior_state
+case	post_state	to
+det	post_state	a
+nmod:to	changes	post_state
+case	sequence	in
+det	sequence	a
+nmod:in	post_state	sequence
+acl	sequence	leading
+case	improvement	to
+nmod:to	leading	improvement
+punct	changes	.

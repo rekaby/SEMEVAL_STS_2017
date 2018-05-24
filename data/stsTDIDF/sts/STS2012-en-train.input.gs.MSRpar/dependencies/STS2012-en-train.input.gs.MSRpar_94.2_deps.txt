@@ -1,0 +1,13 @@
+nsubj	had	Dusty
+root	ROOT	had
+dobj	had	surgery
+case	cancer	for
+nmod:for	surgery	cancer
+case	2001	in
+nmod:in	surgery	2001
+cc	had	and
+aux	removed	had
+det	kidney	a
+nsubj	removed	kidney
+conj:and	had	removed
+punct	had	.

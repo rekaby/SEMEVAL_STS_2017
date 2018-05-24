@@ -1,0 +1,12 @@
+det	view	A
+compound	view	close-up
+root	ROOT	view
+case	headlights	of
+det	headlights	the
+nmod:of	view	headlights
+case	car	of
+det	car	a
+amod	car	blue
+amod	car	old-fashioned
+nmod:of	headlights	car
+punct	view	.

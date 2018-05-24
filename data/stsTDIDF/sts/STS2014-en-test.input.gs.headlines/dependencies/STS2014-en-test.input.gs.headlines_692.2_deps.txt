@@ -1,0 +1,4 @@
+compound	crashes	Helicopter
+root	ROOT	crashes
+case	London	in
+nmod:in	crashes	London

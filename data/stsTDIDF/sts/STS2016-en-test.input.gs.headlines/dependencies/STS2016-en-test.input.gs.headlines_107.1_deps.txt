@@ -1,0 +1,9 @@
+compound	stocks	World
+nsubj	rise	stocks
+root	ROOT	rise
+case	hopes	on
+nmod:on	rise	hopes
+dep	hopes	Fed
+mark	keep	to
+acl	Fed	keep
+dobj	keep	stimulus

@@ -1,0 +1,8 @@
+det	skier	A
+nsubj	going	skier
+root	ROOT	going
+compound:prt	going	down
+det	hill	the
+amod	hill	snowy
+dobj	going	hill
+punct	going	.

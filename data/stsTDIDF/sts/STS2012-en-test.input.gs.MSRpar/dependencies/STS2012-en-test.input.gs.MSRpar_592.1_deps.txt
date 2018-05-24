@@ -1,0 +1,13 @@
+det	Desailly	The
+compound	Desailly	Chelsea
+compound	Desailly	defender
+compound	Desailly	Marcel
+nsubj	latest	Desailly
+aux	latest	has
+cop	latest	been
+det	latest	the
+root	ROOT	latest
+mark	speak	to
+xcomp	latest	speak
+compound:prt	speak	out
+punct	latest	.

@@ -1,0 +1,9 @@
+root	ROOT	US
+punct	US	,
+compound	fatwa	Canadian
+compound	fatwa	imams
+compound	fatwa	issue
+appos	US	fatwa
+case	killings	against
+compound	killings	honour
+nmod:against	fatwa	killings

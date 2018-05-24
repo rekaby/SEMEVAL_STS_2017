@@ -1,0 +1,4 @@
+compound	blankets	Smog
+compound	blankets	cloud
+root	ROOT	blankets
+dep	blankets	Beijing

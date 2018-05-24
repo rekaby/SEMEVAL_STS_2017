@@ -1,0 +1,10 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	standing
+case	surf	in
+det	surf	the
+nmod:in	standing	surf
+case	beach	on
+det	beach	a
+nmod:on	standing	beach
+punct	men	.

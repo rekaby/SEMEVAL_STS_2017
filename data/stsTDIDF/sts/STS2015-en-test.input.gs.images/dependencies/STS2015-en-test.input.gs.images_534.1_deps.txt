@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	reads	woman
+root	ROOT	reads
+case	transportation	while
+case	transportation	on
+amod	transportation	public
+nmod:on	reads	transportation
+punct	reads	.

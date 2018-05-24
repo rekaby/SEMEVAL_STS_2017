@@ -1,0 +1,10 @@
+food	with	case
+gathered	meeting	nmod:in
+meeting	as	case
+ROOT	Group	root
+Group	people	nmod:of
+Group	.	punct
+food	them	nmod:in_front_of
+people	gathered	acl
+meeting	in	case
+meeting	food	nmod:with

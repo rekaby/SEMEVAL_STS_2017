@@ -1,0 +1,17 @@
+nsubjpass	arrested	He
+auxpass	arrested	was
+root	ROOT	arrested
+amod	week	last
+nmod:tmod	arrested	week
+mark	punching	for
+advmod	punching	allegedly
+advcl	arrested	punching
+det	attendant	a
+compound	attendant	parking
+dobj	punching	attendant
+case	nightclub	outside
+det	nightclub	a
+nmod:outside	punching	nightclub
+case	LA.	in
+nmod:in	nightclub	LA.
+punct	arrested	.

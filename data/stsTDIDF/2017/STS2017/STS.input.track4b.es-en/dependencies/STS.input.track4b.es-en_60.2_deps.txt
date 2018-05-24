@@ -1,0 +1,14 @@
+nmod:poss	identity	Our
+nsubj	confusing	identity
+aux	confusing	can
+aux	confusing	be
+root	ROOT	confusing
+case	times	at
+nmod:at	confusing	times
+punct	confusing	,
+cc	confusing	but
+nmod:poss	loyalty	our
+nsubj	clear	loyalty
+cop	clear	is
+conj:but	confusing	clear
+punct	confusing	.

@@ -1,0 +1,13 @@
+compound	Mandela	Nelson
+nsubj	returns	Mandela
+root	ROOT	returns
+case	hospital	to
+nmod:to	returns	hospital
+case	Äėserious	in
+nummod	Äėserious	‚
+nmod:in	returns	Äėserious
+cc	Äėserious	but
+amod	condition	stable
+compound	condition	‚
+compound	condition	Äô
+conj:but	Äėserious	condition

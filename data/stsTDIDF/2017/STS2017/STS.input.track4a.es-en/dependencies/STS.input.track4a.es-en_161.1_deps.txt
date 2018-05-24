@@ -1,0 +1,11 @@
+nsubj	turn	Cyclists
+case	race	in
+det	race	a
+compound	race	bicycle
+nmod:in	Cyclists	race
+root	ROOT	turn
+advmod	turn	abruptly
+case	left	to
+det	left	the
+nmod:to	turn	left
+punct	turn	.

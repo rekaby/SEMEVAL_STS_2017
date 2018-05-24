@@ -1,0 +1,12 @@
+root	ROOT	cause
+mark	have	to
+xcomp	cause	have
+punct	have	,
+case	sense	in
+det	sense	the
+amod	sense	abstract
+nmod:in	have	sense
+cc	sense	or
+amod	sense	physical
+conj:or	sense	sense
+punct	cause	.

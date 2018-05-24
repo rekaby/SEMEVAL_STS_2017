@@ -1,0 +1,11 @@
+det	man	The
+nsubj	used	man
+root	ROOT	used
+det	machine	a
+dobj	used	machine
+mark	chop	to
+xcomp	used	chop
+compound:prt	chop	up
+det	potatoe	a
+dobj	chop	potatoe
+punct	used	.

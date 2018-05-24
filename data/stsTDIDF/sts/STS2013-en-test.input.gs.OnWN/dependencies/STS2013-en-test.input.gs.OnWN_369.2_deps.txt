@@ -1,0 +1,8 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	establish
+case	location	in
+det	location	a
+amod	location	new
+nmod:in	move	location
+punct	move	.

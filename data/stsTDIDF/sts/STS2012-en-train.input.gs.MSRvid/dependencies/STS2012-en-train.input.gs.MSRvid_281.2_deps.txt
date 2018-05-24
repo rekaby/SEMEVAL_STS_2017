@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	chopping	woman
+aux	chopping	is
+root	ROOT	chopping
+det	potato	a
+amod	potato	peeled
+dobj	chopping	potato
+case	slices	into
+nmod:into	chopping	slices
+punct	chopping	.

@@ -1,0 +1,8 @@
+det	stories	Some
+nsubj	honor	stories
+cop	honor	are
+case	honor	about
+root	ROOT	honor
+cc	honor	and
+conj:and	honor	bravery
+punct	honor	.

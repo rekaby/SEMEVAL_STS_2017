@@ -1,0 +1,10 @@
+det	man	The
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	tape	the
+dobj	slicing	tape
+case	box	from
+det	box	the
+nmod:from	slicing	box
+punct	slicing	.

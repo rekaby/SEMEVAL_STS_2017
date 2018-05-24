@@ -1,0 +1,7 @@
+det	mother	A
+nsubj	cooking	mother
+cc	mother	and
+conj:and	mother	daughter
+cop	cooking	are
+root	ROOT	cooking
+punct	cooking	.

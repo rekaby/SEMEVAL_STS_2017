@@ -1,0 +1,11 @@
+det	activities	The
+amod	activities	common
+amod	activities	economic
+nsubj	create	activities
+root	ROOT	create
+amod	bonds	peaceful
+dobj	create	bonds
+case	people	between
+det	people	the
+nmod:between	bonds	people
+punct	create	.

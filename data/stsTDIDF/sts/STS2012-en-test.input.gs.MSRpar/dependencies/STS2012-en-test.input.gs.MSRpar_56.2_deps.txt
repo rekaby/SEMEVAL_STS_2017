@@ -1,0 +1,10 @@
+det	report	This
+nsubjpass	cleared	report
+auxpass	cleared	was
+root	ROOT	cleared
+case	Committee	by
+det	Committee	the
+compound	Committee	Joint
+compound	Committee	Intelligence
+nmod:agent	cleared	Committee
+punct	cleared	.

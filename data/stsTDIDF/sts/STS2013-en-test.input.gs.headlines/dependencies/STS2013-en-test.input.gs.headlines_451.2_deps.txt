@@ -1,0 +1,6 @@
+nsubj	rises	Oil
+root	ROOT	rises
+case	election	after
+amod	election	Greek
+nmod:after	rises	election
+dobj	rises	result

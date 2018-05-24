@@ -1,0 +1,14 @@
+coffin	career	nmod:of
+father	.	punct
+father	my	nmod:poss
+father	drove	acl:relcl
+coffin	the	det
+father	was	cop
+drove	coffin	nmod:in
+nail	the	det
+father	It	nsubj
+ROOT	father	root
+coffin	in	case
+drove	nail	dobj
+drove	who	nsubj
+career	Oxford	compound

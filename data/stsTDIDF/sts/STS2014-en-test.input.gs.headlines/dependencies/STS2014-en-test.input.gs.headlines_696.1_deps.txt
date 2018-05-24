@@ -1,0 +1,9 @@
+compound	Wounds	Car
+compound	Wounds	Bomb
+root	ROOT	Wounds
+amod	Wounds	15
+case	Stronghold	in
+compound	Stronghold	Hezbollah
+nmod:in	15	Stronghold
+case	Lebanon	in
+nmod:in	15	Lebanon

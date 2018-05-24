@@ -1,0 +1,9 @@
+det	dog	The
+amod	dog	black
+nsubj	lying	dog
+aux	lying	is
+root	ROOT	lying
+case	grass	in
+det	grass	the
+nmod:in	lying	grass
+punct	lying	.

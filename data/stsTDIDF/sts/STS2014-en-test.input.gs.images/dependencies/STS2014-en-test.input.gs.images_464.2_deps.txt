@@ -1,0 +1,9 @@
+nummod	men	Three
+root	ROOT	men
+case	suits	in
+nmod:in	men	suits
+acl	suits	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+punct	men	.

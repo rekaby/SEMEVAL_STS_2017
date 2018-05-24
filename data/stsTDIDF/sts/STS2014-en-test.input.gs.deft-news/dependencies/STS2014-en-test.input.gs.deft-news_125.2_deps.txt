@@ -1,0 +1,12 @@
+nsubj	regrets	nato
+root	ROOT	regrets
+nmod:poss	decision	russia
+case	russia	's
+dobj	regrets	decision
+mark	suspend	to
+acl	decision	suspend
+dobj	suspend	participation
+case	cfe	in
+det	cfe	the
+nmod:in	suspend	cfe
+punct	regrets	.

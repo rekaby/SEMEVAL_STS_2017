@@ -1,0 +1,12 @@
+keep	moving	xcomp
+rules	against	case
+sleeping	day	nmod:during
+sleeping	or	cc
+lying	even	advmod
+rules	lying	csubj
+sleeping	rules	conj:or
+sleeping	because	mark
+rules	was	cop
+lying	down	compound:prt
+tried	sleeping	advcl
+day	during	case

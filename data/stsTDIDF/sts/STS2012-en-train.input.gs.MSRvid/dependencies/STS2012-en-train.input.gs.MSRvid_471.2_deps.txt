@@ -1,0 +1,7 @@
+det	guy	A
+nsubj	mowing	guy
+aux	mowing	is
+root	ROOT	mowing
+det	lawn	the
+dobj	mowing	lawn
+punct	mowing	.

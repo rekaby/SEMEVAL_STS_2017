@@ -1,0 +1,8 @@
+compound	CEO	Google
+nsubj	says	CEO
+root	ROOT	says
+nsubj	critical	Android
+amod	Android	important
+punct	Android	,
+neg	critical	not
+ccomp	says	critical

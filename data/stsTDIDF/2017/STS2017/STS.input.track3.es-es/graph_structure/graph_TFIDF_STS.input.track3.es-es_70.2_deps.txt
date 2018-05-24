@@ -1,0 +1,4 @@
+walking	is	aux
+walking	bike	dobj
+walking	man	nsubj
+bike	his	nmod:poss

@@ -1,0 +1,8 @@
+compound	envoy	Syria
+nsubj	says	envoy
+root	ROOT	says
+neg	talks	no
+compound	talks	peace
+dobj	says	talks
+case	opposition	without
+nmod:without	talks	opposition

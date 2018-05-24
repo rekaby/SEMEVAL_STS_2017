@@ -1,0 +1,16 @@
+det	bank	The
+nmod:poss	shares	bank
+case	bank	's
+nsubj	fell	shares
+root	ROOT	fell
+nummod	cents	45
+dobj	fell	cents
+case	trading	in
+nmod:in	fell	trading
+nmod:tmod	fell	yesterday
+case	$	to
+nmod:to	fell	$
+nummod	$	91.51
+case	share	per
+nmod:per	$	share
+punct	fell	.

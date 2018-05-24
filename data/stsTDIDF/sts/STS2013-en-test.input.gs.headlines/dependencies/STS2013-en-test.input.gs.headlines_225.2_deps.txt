@@ -1,0 +1,9 @@
+root	ROOT	Assange
+mark	appeal	to
+acl	Assange	appeal
+dobj	appeal	extradition
+case	court	to
+nmod:poss	court	UK
+case	UK	's
+amod	court	top
+nmod:to	extradition	court

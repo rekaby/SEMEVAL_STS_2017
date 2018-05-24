@@ -1,0 +1,12 @@
+det	girl	A
+nsubj	jumping	girl
+root	ROOT	jumping
+dobj	jumping	rope
+case	sidewalk	on
+det	sidewalk	a
+nmod:on	jumping	sidewalk
+case	garage	near
+det	garage	a
+compound	garage	parking
+nmod:near	sidewalk	garage
+punct	jumping	.

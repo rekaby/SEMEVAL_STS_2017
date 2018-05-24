@@ -1,0 +1,14 @@
+driving	street	dobj
+passing	cars	nsubj
+passing	as	mark
+driving	down	compound:prt
+driving	passing	advcl
+driving	is	aux
+passing	are	aux
+passing	going	advcl
+driving	man	nsubj
+direction	opposite	amod
+going	direction	dobj
+cars	two	nummod
+ROOT	driving	root
+driving	.	punct

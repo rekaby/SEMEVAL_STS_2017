@@ -1,0 +1,9 @@
+nsubj	imposes	Egypt
+csubj	killed	imposes
+dobj	imposes	state
+case	emergency	of
+nmod:of	state	emergency
+case	people	after
+nummod	people	95
+nmod:after	imposes	people
+root	ROOT	killed

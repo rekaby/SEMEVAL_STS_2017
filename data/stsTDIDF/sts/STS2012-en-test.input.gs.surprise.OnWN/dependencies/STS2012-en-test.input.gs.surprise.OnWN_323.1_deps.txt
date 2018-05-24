@@ -1,0 +1,5 @@
+aux	make	do
+compound:prt	do	over
+punct	do	,
+root	ROOT	make
+xcomp	make	new

@@ -1,0 +1,6 @@
+nsubj	detains	Malaysia
+root	ROOT	detains
+amod	lawmaker	Australian
+dobj	detains	lawmaker
+case	airport	at
+nmod:at	detains	airport

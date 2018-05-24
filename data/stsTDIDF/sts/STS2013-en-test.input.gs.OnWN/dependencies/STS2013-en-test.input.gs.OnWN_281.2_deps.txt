@@ -1,0 +1,11 @@
+root	ROOT	protect
+punct	protect	,
+conj:or	protect	hide
+punct	protect	,
+cc	protect	or
+conj:or	protect	conceal
+case	danger	from
+nmod:from	conceal	danger
+cc	danger	or
+conj:or	danger	harm
+punct	protect	.

@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	sat	dog
+root	ROOT	sat
+case	counter	at
+det	counter	the
+nmod:at	sat	counter
+case	store	of
+det	store	a
+nmod:of	counter	store
+punct	sat	.

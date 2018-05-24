@@ -1,0 +1,7 @@
+nummod	dogs	Two
+root	ROOT	dogs
+acl	dogs	running
+case	shore	on
+det	shore	the
+nmod:on	running	shore
+punct	dogs	.

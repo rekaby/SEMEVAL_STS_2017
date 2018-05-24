@@ -1,0 +1,3 @@
+runs	girl	nsubj
+runs	street	nmod:down
+street	down	case

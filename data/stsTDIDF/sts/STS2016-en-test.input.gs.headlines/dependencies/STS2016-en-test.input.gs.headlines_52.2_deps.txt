@@ -1,0 +1,7 @@
+amod	deaths	Indian
+compound	deaths	building
+compound	deaths	collapse
+nsubj	rise	deaths
+root	ROOT	rise
+case	14	to
+nmod:to	rise	14

@@ -1,0 +1,7 @@
+root	ROOT	Opinion
+punct	Opinion	:
+dep	Opinion	Our
+dep	Our	Talking
+punct	Talking	,
+conj	Talking	Walking
+dobj	Walking	Objects

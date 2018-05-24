@@ -1,0 +1,9 @@
+det	man	The
+nsubj	adding	man
+aux	adding	is
+root	ROOT	adding
+dobj	adding	seasoning
+case	beans	to
+det	beans	the
+nmod:to	adding	beans
+punct	adding	.

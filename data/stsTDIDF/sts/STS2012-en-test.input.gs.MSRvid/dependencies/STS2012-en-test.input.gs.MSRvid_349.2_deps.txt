@@ -1,0 +1,6 @@
+nsubj	compete	Runners
+root	ROOT	compete
+case	race	in
+det	race	a
+nmod:in	compete	race
+punct	compete	.

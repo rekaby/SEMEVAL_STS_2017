@@ -1,0 +1,15 @@
+mark	asked	If
+nsubj	asked	you
+advcl	skewed	asked
+punct	skewed	,
+advcl	skewed	progressives
+punct	skewed	,
+det	numbers	the
+nsubj	skewed	numbers
+aux	skewed	would
+cop	skewed	be
+root	ROOT	skewed
+case	left	to
+det	left	the
+nmod:to	skewed	left
+punct	skewed	.

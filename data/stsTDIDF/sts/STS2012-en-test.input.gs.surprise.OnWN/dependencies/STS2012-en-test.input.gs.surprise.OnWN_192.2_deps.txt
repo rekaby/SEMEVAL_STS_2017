@@ -1,0 +1,6 @@
+root	ROOT	strike
+advmod	whipping	as
+mwe	as	if
+case	whipping	by
+nmod:by	strike	whipping
+punct	strike	.

@@ -1,0 +1,12 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	woman	of
+det	woman	a
+nmod:of	photo	woman
+acl	woman	showing
+det	horse	a
+dobj	showing	horse
+punct	photo	.

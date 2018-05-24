@@ -1,0 +1,8 @@
+det	man	A
+nsubj	shopping	man
+aux	shopping	is
+root	ROOT	shopping
+case	mall	in
+det	mall	a
+nmod:in	shopping	mall
+punct	shopping	.

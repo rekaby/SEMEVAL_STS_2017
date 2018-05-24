@@ -1,0 +1,10 @@
+root	ROOT	activity
+case	ore	of
+amod	ore	extracting
+nmod:of	activity	ore
+cc	ore	or
+amod	matter	other
+conj:or	ore	matter
+case	ground	from
+det	ground	the
+nmod:from	activity	ground

@@ -1,0 +1,14 @@
+nummod	kids	Two
+amod	kids	cute
+cc	cute	and
+advmod	dressed	well
+conj:and	cute	dressed
+amod	kids	asian
+nsubj	standing	kids
+aux	standing	are
+root	ROOT	standing
+case	tree	next
+mwe	next	to
+det	tree	a
+nmod:next_to	standing	tree
+punct	standing	.

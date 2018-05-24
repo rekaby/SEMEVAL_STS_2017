@@ -1,0 +1,8 @@
+compound	Day	May
+nsubj	cuts	Day
+acl	Day	marked
+case	protests	by
+nmod:by	marked	protests
+case	austerity	against
+nmod:against	protests	austerity
+root	ROOT	cuts

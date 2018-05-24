@@ -1,0 +1,12 @@
+det	imperfection	An
+root	ROOT	imperfection
+punct	imperfection	;
+det	quality	the
+dep	imperfection	quality
+mark	inadequate	of
+cop	inadequate	being
+acl	quality	inadequate
+cc	inadequate	or
+conj:or	inadequate	falling
+xcomp	inadequate	short
+punct	imperfection	.

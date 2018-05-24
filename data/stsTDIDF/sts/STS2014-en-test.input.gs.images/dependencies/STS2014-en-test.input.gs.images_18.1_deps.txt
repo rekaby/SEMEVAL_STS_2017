@@ -1,0 +1,9 @@
+det	kid	A
+nsubj	jumping	kid
+root	ROOT	jumping
+det	ledge	a
+dobj	jumping	ledge
+case	bike	with
+det	bike	a
+nmod:with	jumping	bike
+punct	jumping	.

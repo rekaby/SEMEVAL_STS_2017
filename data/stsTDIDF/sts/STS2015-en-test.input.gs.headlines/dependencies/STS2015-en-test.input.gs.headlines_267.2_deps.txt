@@ -1,0 +1,5 @@
+amod	rates	Foreign
+compound	rates	exchange
+root	ROOT	rates
+case	Singapore	in
+nmod:in	rates	Singapore

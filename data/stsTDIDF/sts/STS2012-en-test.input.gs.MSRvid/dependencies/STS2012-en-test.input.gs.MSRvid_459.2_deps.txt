@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	flipped	people
+root	ROOT	flipped
+compound	tires	tractor
+dobj	flipped	tires
+case	race	in
+det	race	a
+nmod:in	flipped	race
+punct	flipped	.

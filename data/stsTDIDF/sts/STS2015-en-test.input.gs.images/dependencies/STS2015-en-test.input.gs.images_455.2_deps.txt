@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	naked
+amod	girl	little
+nsubjpass	thrown	girl
+auxpass	thrown	being
+root	ROOT	thrown
+case	air	into
+det	air	the
+nmod:into	thrown	air
+punct	thrown	.

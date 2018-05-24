@@ -1,0 +1,17 @@
+case	report	According
+mwe	According	to
+det	report	the
+nmod:according_to	increased	report
+punct	increased	,
+amod	expectancy	average
+compound	expectancy	life
+nsubj	increased	expectancy
+aux	increased	has
+root	ROOT	increased
+case	years	by
+advmod	two	nearly
+nummod	years	two
+nmod:by	increased	years
+case	1990	since
+nmod:since	increased	1990
+punct	increased	.

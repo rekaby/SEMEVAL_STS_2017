@@ -1,0 +1,6 @@
+det	studies	A
+compound	studies	boy
+root	ROOT	studies
+det	calendar	a
+nmod:npmod	studies	calendar
+punct	studies	.

@@ -1,0 +1,8 @@
+nsubj	fall	Stocks
+root	ROOT	fall
+case	day	on
+amod	day	third
+nmod:on	fall	day
+case	government	of
+nmod:of	day	government
+dobj	fall	shutdown

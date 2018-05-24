@@ -1,0 +1,16 @@
+root	ROOT	maher
+punct	maher	:
+nsubj	loves	america
+dep	maher	loves
+nmod:poss	troops	its
+dobj	loves	troops
+punct	loves	`
+det	way	the
+dobj	loves	way
+compound	vick	michael
+nsubj	loves	vick
+acl:relcl	way	loves
+nmod:poss	newsbusters.org	dogs
+case	dogs	'
+nummod	newsbusters.org	|
+dobj	loves	newsbusters.org

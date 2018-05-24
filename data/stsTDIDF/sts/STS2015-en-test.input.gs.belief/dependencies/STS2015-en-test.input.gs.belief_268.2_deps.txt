@@ -1,0 +1,17 @@
+det	heroes	the
+amod	heroes	true
+nsubj	ones	heroes
+aux	ones	will
+cop	ones	be
+root	ROOT	ones
+nsubj	bear	that
+acl:relcl	ones	bear
+det	burden	the
+dobj	bear	burden
+case	years	of
+nummod	years	40
+nmod:of	burden	years
+case	discourse	of
+amod	discourse	political
+nmod:of	years	discourse
+punct	ones	.

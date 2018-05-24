@@ -1,0 +1,4 @@
+root	ROOT	Child
+case	bed	in
+nmod:in	Child	bed
+punct	Child	.

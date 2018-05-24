@@ -1,0 +1,8 @@
+people	sitting	acl
+sitting	swimsuit	nmod:in
+postures	yoga	compound
+swimsuit	in	case
+swimsuit	a	det
+sitting	beach	nmod:on
+beach	postures	nmod:in
+postures	in	case

@@ -1,0 +1,13 @@
+root	ROOT	Build
+det	fence	a
+dobj	Build	fence
+case	health	around
+nmod:poss	health	your
+amod	health	good
+nmod:around	Build	health
+punct	Build	!-8) nmod:poss(questions-4, Your
+amod	questions	top
+compound	questions	flu
+nsubj	answered	questions
+root	ROOT	answered
+punct	answered	.

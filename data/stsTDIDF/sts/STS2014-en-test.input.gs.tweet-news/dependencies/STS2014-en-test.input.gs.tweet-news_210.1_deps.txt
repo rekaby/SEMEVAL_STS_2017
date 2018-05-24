@@ -1,0 +1,11 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+nsubj	Hand	Apps
+cc	Apps	and
+dep	Lend	Other
+dep	Lend	Digital
+nsubj	Lend	Tools
+conj:and	Apps	Lend
+det	Hand	a
+dep	NYTimes	Hand
+punct	NYTimes	...

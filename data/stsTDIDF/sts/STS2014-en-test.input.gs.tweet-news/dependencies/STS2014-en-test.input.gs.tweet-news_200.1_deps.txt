@@ -1,0 +1,12 @@
+compound	Front	Republican
+compound	Front	Governors
+compound	Front	Open
+compound	Front	New
+root	ROOT	Front
+case	Debate	in
+compound	Debate	#Tax
+nmod:in	Front	Debate
+acl	Debate	Offering
+amod	#Solutions	Bold
+dobj	Offering	#Solutions
+punct	Front	!

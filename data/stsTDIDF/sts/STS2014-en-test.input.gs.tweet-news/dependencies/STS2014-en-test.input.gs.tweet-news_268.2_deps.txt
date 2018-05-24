@@ -1,0 +1,6 @@
+amod	buildings	Coolest
+amod	buildings	green
+root	ROOT	buildings
+case	Gulf	in
+det	Gulf	the
+nmod:in	buildings	Gulf

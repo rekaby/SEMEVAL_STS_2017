@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	violence	from
+compound	violence	Egypt
+nmod:from	toll	violence
+root	ROOT	rises
+case	638	to
+nmod:to	rises	638

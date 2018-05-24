@@ -1,0 +1,15 @@
+case	Boston	Along
+mwe	Along	with
+nmod:along_with	going	Boston
+punct	Boston	,
+appos	Boston	Watertown
+punct	Watertown	,
+conj:and	Watertown	Saugus
+cc	Watertown	and
+conj:and	Watertown	Framingham
+advmod	going	also
+aux	going	are
+root	ROOT	going
+xcomp	going	smoke-free
+nmod:tmod	smoke-free	Monday
+punct	going	.

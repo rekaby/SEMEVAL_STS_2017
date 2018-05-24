@@ -1,0 +1,6 @@
+expl	are	There
+root	ROOT	are
+nummod	people	four
+nmod:npmod	outside	people
+advmod	are	outside
+punct	are	.

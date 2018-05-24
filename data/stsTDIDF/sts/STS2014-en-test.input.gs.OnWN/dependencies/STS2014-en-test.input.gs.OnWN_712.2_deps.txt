@@ -1,0 +1,8 @@
+root	ROOT	searching
+mark	buying	for
+cc	buying	or
+advcl	searching	buying
+dobj	buying	goods
+cc	goods	or
+conj:or	goods	services
+punct	searching	.

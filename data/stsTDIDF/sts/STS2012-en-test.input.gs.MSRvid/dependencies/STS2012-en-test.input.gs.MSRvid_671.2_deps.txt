@@ -1,0 +1,8 @@
+det	rhino	A
+nsubj	grazing	rhino
+cop	grazing	is
+root	ROOT	grazing
+case	field	in
+det	field	a
+nmod:in	grazing	field
+punct	grazing	.

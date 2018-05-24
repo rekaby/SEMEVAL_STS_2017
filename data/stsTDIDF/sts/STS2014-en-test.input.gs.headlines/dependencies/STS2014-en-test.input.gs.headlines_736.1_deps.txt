@@ -1,0 +1,9 @@
+nsubj	die	Three
+root	ROOT	die
+case	crash	after
+compound	crash	car
+nmod:after	die	crash
+case	Tian	at
+nmod:at	die	Tian
+punct	die	`
+dobj	die	anmen

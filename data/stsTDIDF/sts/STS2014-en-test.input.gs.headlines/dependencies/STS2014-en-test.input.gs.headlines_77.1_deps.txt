@@ -1,0 +1,7 @@
+nsubj	feared	Dozens
+root	ROOT	feared
+xcomp	feared	trapped
+case	India	in
+nmod:in	trapped	India
+compound	collapse	building
+dobj	trapped	collapse

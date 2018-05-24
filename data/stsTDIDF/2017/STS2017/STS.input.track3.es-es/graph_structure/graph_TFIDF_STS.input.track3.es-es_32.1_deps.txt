@@ -1,0 +1,6 @@
+suits	red	amod
+arts	martial	amod
+practicing	arts	dobj
+suits	practicing	acl
+men	suits	nmod:in
+suits	in	case

@@ -1,0 +1,10 @@
+race	won	conj:and
+race	.	punct
+man	handicap	nmod:with
+race	was	cop
+ROOT	race	root
+handicap	with	case
+handicap	a	det
+race	wheelchair	compound
+race	man	nsubj
+race	and	cc

@@ -1,0 +1,6 @@
+nsubj	charged	Strauss-Kahn
+root	ROOT	charged
+case	ring	in
+compound	ring	prostitution
+compound	ring	vice
+nmod:in	charged	ring

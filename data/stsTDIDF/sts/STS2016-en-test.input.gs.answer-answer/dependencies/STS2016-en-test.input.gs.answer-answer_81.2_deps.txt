@@ -1,0 +1,8 @@
+nsubj	depends	It
+root	ROOT	depends
+advmod	stating	how
+nsubj	stating	you
+aux	stating	're
+ccomp	depends	stating
+dobj	stating	it
+punct	depends	.

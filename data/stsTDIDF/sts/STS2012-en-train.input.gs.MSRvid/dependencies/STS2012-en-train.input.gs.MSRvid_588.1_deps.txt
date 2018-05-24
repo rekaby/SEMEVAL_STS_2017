@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	fires	woman
+advmod	fires	rapidly
+root	ROOT	fires
+det	handgun	a
+dobj	fires	handgun
+punct	fires	.

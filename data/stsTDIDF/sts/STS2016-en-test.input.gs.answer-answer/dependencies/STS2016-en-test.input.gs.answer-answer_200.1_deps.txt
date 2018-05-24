@@ -1,0 +1,9 @@
+nsubj	thinking	I
+aux	thinking	'm
+root	ROOT	thinking
+nsubj	idea	it
+cop	idea	's
+det	idea	a
+amod	idea	bad
+ccomp	thinking	idea
+punct	thinking	.

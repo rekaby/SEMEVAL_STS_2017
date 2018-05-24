@@ -1,0 +1,9 @@
+getting	hairdressers	nmod:in
+dog	white	amod
+hairdressers	in	case
+getting	bath	dobj
+hairdressers	the	det
+bath	a	det
+getting	dog	nsubj
+hairdressers	canine	amod
+dog	The	det

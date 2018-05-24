@@ -1,0 +1,9 @@
+det	man	A
+nsubj	opening	man
+aux	opening	is
+root	ROOT	opening
+det	package	a
+dobj	opening	package
+acl	package	containing
+dobj	containing	headphones
+punct	opening	.

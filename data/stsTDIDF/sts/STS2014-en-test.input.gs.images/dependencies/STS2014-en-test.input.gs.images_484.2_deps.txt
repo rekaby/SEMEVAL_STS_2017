@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	standing	woman
+case	hat	in
+det	hat	a
+amod	hat	black
+nmod:in	woman	hat
+aux	standing	is
+root	ROOT	standing
+case	subway	by
+det	subway	the
+nmod:by	standing	subway
+punct	standing	.

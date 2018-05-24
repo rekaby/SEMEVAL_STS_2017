@@ -1,0 +1,9 @@
+nsubj	establish	Australia
+mark	establish	to
+root	ROOT	establish
+det	world	the
+nmod:poss	reserve	world
+case	world	's
+amod	reserve	largest
+amod	reserve	marine
+dobj	establish	reserve

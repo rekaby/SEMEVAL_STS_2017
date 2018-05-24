@@ -1,0 +1,8 @@
+det	group	A
+nsubj	wearing	group
+case	women	of
+nmod:of	group	women
+aux	wearing	are
+root	ROOT	wearing
+dobj	wearing	suits
+punct	wearing	.

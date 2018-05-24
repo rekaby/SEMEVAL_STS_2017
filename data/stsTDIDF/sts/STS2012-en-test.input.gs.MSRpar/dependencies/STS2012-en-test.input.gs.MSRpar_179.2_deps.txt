@@ -1,0 +1,13 @@
+det	rebel	A
+amod	rebel	captured
+nsubj	said	rebel
+root	ROOT	said
+nummod	combatants	2,100
+nsubjpass	involved	combatants
+aux	involved	had
+auxpass	involved	been
+ccomp	said	involved
+case	offensive	in
+det	offensive	the
+nmod:in	involved	offensive
+punct	said	.

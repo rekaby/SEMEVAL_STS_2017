@@ -1,0 +1,7 @@
+nsubj	call	Kerry
+root	ROOT	call
+case	Congress	on
+nmod:on	call	Congress
+mark	end	to
+xcomp	call	end
+dobj	end	shutdown

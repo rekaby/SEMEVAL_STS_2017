@@ -1,0 +1,15 @@
+said	companies	nsubj
+cheaper	cigarettes	appos
+boost	it	nsubj
+boost	market	nmod:in
+causing	cheaper	dobj
+said	boost	ccomp
+cigarettes	affordable	amod
+boost	trade	dobj
+market	black	amod
+cheaper	,	punct
+affordable	more	advmod
+companies	Tobacco	compound
+boost	would	aux
+boost	causing	advcl
+boost	,	punct

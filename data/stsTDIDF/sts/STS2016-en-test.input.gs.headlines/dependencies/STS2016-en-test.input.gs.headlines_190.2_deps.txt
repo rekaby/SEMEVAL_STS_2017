@@ -1,0 +1,13 @@
+dep	warns	occupied
+amod	territory	Palestinian
+dobj	occupied	territory
+punct	warns	:
+nsubj	warns	Israel
+csubj	resume	warns
+case	security	on
+nmod:on	warns	security
+case	truce	as
+compound	truce	Gaza
+nmod:as	security	truce
+dobj	warns	talks
+root	ROOT	resume

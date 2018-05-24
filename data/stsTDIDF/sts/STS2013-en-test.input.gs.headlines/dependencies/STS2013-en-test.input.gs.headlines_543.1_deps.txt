@@ -1,0 +1,6 @@
+nummod	troops	6
+compound	troops	NATO
+nsubj	killed	troops
+root	ROOT	killed
+case	Afghanistan	in
+nmod:in	killed	Afghanistan

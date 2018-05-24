@@ -1,0 +1,7 @@
+det	man	A
+nsubj	comes	man
+root	ROOT	comes
+compound:prt	comes	out
+det	garbage	the
+dobj	comes	garbage
+punct	comes	.

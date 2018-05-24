@@ -1,0 +1,8 @@
+compound	Sandy	Hurricane
+nsubj	takes	Sandy
+root	ROOT	takes
+dobj	takes	aim
+case	Coast	at
+compound	Coast	US
+compound	Coast	East
+nmod:at	aim	Coast

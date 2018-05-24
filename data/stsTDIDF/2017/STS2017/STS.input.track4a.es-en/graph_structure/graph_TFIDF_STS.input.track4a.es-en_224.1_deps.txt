@@ -1,0 +1,5 @@
+purchases	store	nmod:in
+purchases	their	nmod:poss
+pay	purchases	nmod:for
+purchases	for	case
+pay	People	nsubj

@@ -1,0 +1,9 @@
+root	ROOT	recession
+acl	recession	is
+advmod	loses	when
+det	neighbor	a
+nsubj	loses	neighbor
+advcl	is	loses
+nmod:poss	job	his
+dobj	loses	job
+punct	recession	.

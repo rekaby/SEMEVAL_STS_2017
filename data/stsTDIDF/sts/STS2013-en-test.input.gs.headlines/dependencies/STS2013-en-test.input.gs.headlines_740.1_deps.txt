@@ -1,0 +1,9 @@
+nsubj	leaves	Unrest
+case	Nigeria	in
+amod	Nigeria	tense
+nmod:in	Unrest	Nigeria
+root	ROOT	leaves
+case	least	at
+nmod:npmod	95	least
+dobj	leaves	95
+xcomp	leaves	dead

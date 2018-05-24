@@ -1,0 +1,16 @@
+det	statue	A
+amod	statue	golden
+root	ROOT	statue
+case	man	of
+det	man	a
+nmod:of	statue	man
+mark	walk	as
+nsubj	walk	people
+advcl	statue	walk
+case	bar	in
+mwe	in	front
+mwe	in	of
+det	bar	a
+compound	bar	restaurant
+nmod:in_front_of	walk	bar
+punct	statue	.

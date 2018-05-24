@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	barking	dog
+aux	barking	is
+root	ROOT	barking
+case	duck	at
+det	duck	an
+amod	duck	electronic
+compound	duck	toy
+nmod:at	barking	duck
+punct	barking	.

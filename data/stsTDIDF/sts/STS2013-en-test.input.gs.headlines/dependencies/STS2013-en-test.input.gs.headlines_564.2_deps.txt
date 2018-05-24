@@ -1,0 +1,7 @@
+compound	Docks	SpaceX
+compound	Docks	Dragon
+root	ROOT	Docks
+case	Station	With
+compound	Station	International
+compound	Station	Space
+nmod:with	Docks	Station

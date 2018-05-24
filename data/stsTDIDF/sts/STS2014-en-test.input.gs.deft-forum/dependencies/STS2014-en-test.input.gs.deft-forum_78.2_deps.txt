@@ -1,0 +1,17 @@
+nsubj	believe	I
+aux	believe	ca
+neg	believe	n't
+root	ROOT	believe
+nsubj	asking	she
+aux	asking	is
+ccomp	believe	asking
+dobj	asking	YOU
+mark	ask	to
+xcomp	asking	ask
+det	guest	the
+amod	guest	helpful
+compound	guest	party
+dobj	ask	guest
+case	money	for
+nmod:for	ask	money
+punct	believe	!

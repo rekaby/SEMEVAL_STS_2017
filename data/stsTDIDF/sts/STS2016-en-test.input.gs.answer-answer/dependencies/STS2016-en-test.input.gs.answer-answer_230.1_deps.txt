@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+det	things	a
+amod	things	few
+nsubj	are	things
+nsubj	think	I
+acl:relcl	things	think
+nsubj	do	you
+aux	do	should
+ccomp	think	do
+punct	are	.

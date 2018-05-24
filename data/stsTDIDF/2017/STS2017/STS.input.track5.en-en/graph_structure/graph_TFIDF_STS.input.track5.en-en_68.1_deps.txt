@@ -1,0 +1,7 @@
+about	men	nsubj
+tournament	polo	compound
+about	score	acl
+tournament	a	det
+tournament	in	case
+tournament	water	compound
+score	tournament	nmod:in

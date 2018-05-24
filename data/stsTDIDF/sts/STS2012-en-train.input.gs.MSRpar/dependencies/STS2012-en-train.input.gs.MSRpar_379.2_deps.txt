@@ -1,0 +1,11 @@
+cc	liked	And
+nsubj	liked	I
+advmod	liked	really
+root	ROOT	liked
+dobj	liked	him
+punct	liked	,
+cc	liked	and
+nsubj	do	I
+advmod	do	still
+conj:and	liked	do
+punct	liked	.

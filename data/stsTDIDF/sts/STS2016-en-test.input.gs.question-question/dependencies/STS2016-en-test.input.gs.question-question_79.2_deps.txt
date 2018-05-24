@@ -1,0 +1,11 @@
+advmod	fix	How
+aux	fix	can
+nsubj	fix	I
+root	ROOT	fix
+amod	pressure	low
+compound	pressure	water
+dobj	fix	pressure
+case	shower	in
+nummod	shower	one
+nmod:in	fix	shower
+punct	fix	?

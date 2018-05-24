@@ -1,0 +1,13 @@
+root	ROOT	View
+case	room	of
+det	room	a
+compound	room	living
+nmod:of	View	room
+case	room	with
+det	room	a
+compound	room	dining
+nmod:with	View	room
+case	background	in
+det	background	the
+nmod:in	room	background
+punct	View	.

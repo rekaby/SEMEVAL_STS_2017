@@ -1,0 +1,10 @@
+nummod	men	Three
+nsubj	walking	men
+aux	walking	are
+root	ROOT	walking
+case	tent	in
+mwe	in	front
+mwe	in	of
+det	tent	a
+nmod:in_front_of	walking	tent
+punct	walking	.

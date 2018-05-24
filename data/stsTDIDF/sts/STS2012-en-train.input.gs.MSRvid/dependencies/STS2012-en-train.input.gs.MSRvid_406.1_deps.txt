@@ -1,0 +1,13 @@
+det	child	A
+nsubj	runs	child
+root	ROOT	runs
+conj:and	runs	runs
+case	waves	into
+cc	into	and
+conj:and	into	out
+case	waves	of
+det	waves	the
+compound	waves	ocean
+nmod:of	runs	waves
+nmod:out	runs	waves
+punct	runs	.

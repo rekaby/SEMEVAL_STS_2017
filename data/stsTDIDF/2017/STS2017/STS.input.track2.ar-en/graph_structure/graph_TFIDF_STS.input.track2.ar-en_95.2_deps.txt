@@ -1,0 +1,9 @@
+takes	woman	nsubj
+break	short	amod
+waitress	a	det
+takes	photo	dobj
+waitress	as	case
+takes	waitress	nmod:as
+break	job	nmod:from
+takes	break	nmod:during
+break	during	case

@@ -1,0 +1,9 @@
+root	ROOT	administer
+cc	administer	or
+conj:or	administer	bestow
+punct	administer	,
+case	portions	as
+case	portions	in
+amod	portions	small
+nmod:in	administer	portions
+punct	administer	.

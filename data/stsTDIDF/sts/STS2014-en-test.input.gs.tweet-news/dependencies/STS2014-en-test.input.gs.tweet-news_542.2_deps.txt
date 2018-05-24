@@ -1,0 +1,6 @@
+compound	Kong	Hong
+nsubj	takes	Kong
+root	ROOT	takes
+nsubj	speed	Internet
+ccomp	takes	speed
+dobj	speed	title

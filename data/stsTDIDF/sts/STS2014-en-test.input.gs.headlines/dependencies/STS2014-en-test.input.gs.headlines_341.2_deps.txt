@@ -1,0 +1,7 @@
+root	ROOT	Iran
+punct	Iran	:
+amod	candidate	Moderate
+nsubj	wins	candidate
+dep	Iran	wins
+amod	vote	presidential
+dobj	wins	vote

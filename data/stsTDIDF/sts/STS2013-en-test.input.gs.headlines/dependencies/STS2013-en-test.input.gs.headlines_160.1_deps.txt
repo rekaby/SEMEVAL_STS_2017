@@ -1,0 +1,8 @@
+nsubj	kills	Israel
+root	ROOT	kills
+compound	commander	Hamas
+dobj	kills	commander
+punct	commander	,
+compound	targets	bombs
+compound	targets	Gaza
+appos	commander	targets

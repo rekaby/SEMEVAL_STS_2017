@@ -1,0 +1,7 @@
+det	boy	The
+nsubj	skates	boy
+root	ROOT	skates
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	skates	sidewalk
+punct	skates	.

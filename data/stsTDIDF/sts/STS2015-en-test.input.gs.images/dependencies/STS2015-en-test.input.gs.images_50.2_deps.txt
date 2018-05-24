@@ -1,0 +1,16 @@
+nummod	girls	Two
+nsubj	sitting	girls
+aux	sitting	are
+root	ROOT	sitting
+case	ATV	on
+det	ATV	an
+nmod:on	sitting	ATV
+case	sand	on
+det	sand	the
+nmod:on	ATV	sand
+case	bridge	in
+mwe	in	front
+mwe	in	of
+det	bridge	a
+nmod:in_front_of	sitting	bridge
+punct	sitting	.

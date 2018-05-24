@@ -1,0 +1,16 @@
+nsubj	difficult	It
+cop	difficult	's
+advmod	difficult	pretty
+root	ROOT	difficult
+mark	imagine	to
+xcomp	difficult	imagine
+det	person	a
+dobj	imagine	person
+case	Disorder	with
+compound	Disorder	Social
+compound	Disorder	Anxiety
+nmod:with	person	Disorder
+cop	extrovert	being
+det	extrovert	an
+dep	Disorder	extrovert
+punct	difficult	.

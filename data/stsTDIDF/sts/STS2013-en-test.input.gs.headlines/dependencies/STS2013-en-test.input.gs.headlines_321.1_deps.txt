@@ -1,0 +1,6 @@
+root	ROOT	Egyptians
+mark	vote	to
+acl	Egyptians	vote
+case	president	for
+amod	president	new
+nmod:for	vote	president

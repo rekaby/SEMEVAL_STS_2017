@@ -1,0 +1,17 @@
+nsubjpass	pressed	You
+aux	pressed	will
+auxpass	pressed	be
+advmod	pressed	hard
+root	ROOT	pressed
+mark	find	to
+xcomp	pressed	find
+amod	studies	scientific
+dobj	find	studies
+nsubj	answer	that
+acl:relcl	studies	answer
+det	questions	these
+dobj	answer	questions
+case	certainty	with
+det	certainty	any
+nmod:with	answer	certainty
+punct	pressed	.

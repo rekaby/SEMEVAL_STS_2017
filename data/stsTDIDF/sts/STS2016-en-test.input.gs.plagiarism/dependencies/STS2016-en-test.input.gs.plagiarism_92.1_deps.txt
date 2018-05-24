@@ -1,0 +1,17 @@
+nsubj	useful	This
+aux	useful	can
+cop	useful	be
+root	ROOT	useful
+advmod	considered	when
+det	number	the
+nsubjpass	considered	number
+case	times	of
+nmod:of	number	times
+det	word	a
+nsubj	appears	word
+acl:relcl	times	appears
+auxpass	considered	is
+neg	considered	not
+advcl	useful	considered
+xcomp	considered	important
+punct	useful	.

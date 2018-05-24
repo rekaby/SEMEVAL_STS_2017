@@ -1,0 +1,10 @@
+nummod	kids	Two
+amod	kids	young
+nsubj	dressed	kids
+root	ROOT	dressed
+compound:prt	dressed	up
+xcomp	dressed	sitting
+compound:prt	sitting	down
+case	chairs	on
+nmod:on	sitting	chairs
+punct	dressed	.

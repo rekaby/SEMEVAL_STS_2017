@@ -1,0 +1,7 @@
+amod	teargas	Montenegrin
+compound	teargas	police
+compound	teargas	fire
+root	ROOT	teargas
+mark	disperse	to
+acl	teargas	disperse
+dobj	disperse	opposition

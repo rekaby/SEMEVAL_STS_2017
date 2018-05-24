@@ -1,0 +1,7 @@
+nsubj	capital	paris
+cop	capital	is
+det	capital	the
+root	ROOT	capital
+case	france	of
+nmod:of	capital	france
+punct	capital	.

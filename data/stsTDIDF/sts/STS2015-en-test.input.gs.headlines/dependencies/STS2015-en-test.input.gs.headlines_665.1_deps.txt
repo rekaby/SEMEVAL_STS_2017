@@ -1,0 +1,12 @@
+nummod	hurt	3
+amod	hurt	dead
+punct	hurt	,
+nummod	hurt	1
+root	ROOT	hurt
+case	shooting	in
+nmod:in	hurt	shooting
+case	oceanfront	at
+nmod:npmod	oceanfront	S
+nmod:npmod	oceanfront	Carolina
+nmod:at	shooting	oceanfront
+dep	hurt	motel

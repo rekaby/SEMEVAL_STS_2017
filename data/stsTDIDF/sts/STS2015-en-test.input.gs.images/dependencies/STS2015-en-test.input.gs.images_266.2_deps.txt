@@ -1,0 +1,7 @@
+nummod	kids	Two
+root	ROOT	kids
+acl	kids	playing
+case	dog	with
+det	dog	a
+nmod:with	playing	dog
+punct	kids	.

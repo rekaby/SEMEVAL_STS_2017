@@ -1,0 +1,8 @@
+det	women	The
+compound	women	girl
+nsubj	learn	women
+aux	learn	will
+root	ROOT	learn
+nsubj	weaves	that
+ccomp	learn	weaves
+punct	learn	.

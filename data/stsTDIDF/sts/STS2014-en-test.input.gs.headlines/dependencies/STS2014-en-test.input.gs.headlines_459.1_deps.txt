@@ -1,0 +1,8 @@
+nsubj	announces	Egypt
+root	ROOT	announces
+compound	supporters	arrest
+case	Brotherhood	of
+nummod	Brotherhood	1,004
+amod	Brotherhood	Muslim
+nmod:of	arrest	Brotherhood
+dobj	announces	supporters

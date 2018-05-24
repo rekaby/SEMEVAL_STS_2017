@@ -1,0 +1,9 @@
+root	ROOT	Talk
+cc	Talk	or
+conj:or	Talk	behave
+advmod	Talk	amorously
+punct	Talk	;
+dep	Talk	have
+dobj	have	sex
+dep	have	with
+punct	Talk	.

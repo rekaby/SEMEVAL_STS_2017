@@ -1,0 +1,8 @@
+det	scooter	A
+amod	scooter	blue
+root	ROOT	scooter
+acl	scooter	parked
+case	sidewalk	on
+det	sidewalk	a
+nmod:on	parked	sidewalk
+punct	scooter	.

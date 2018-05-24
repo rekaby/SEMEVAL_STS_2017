@@ -1,0 +1,7 @@
+det	lady	The
+nsubj	cut	lady
+root	ROOT	cut
+compound:prt	cut	up
+det	potatoe	a
+dobj	cut	potatoe
+punct	cut	.

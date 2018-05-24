@@ -1,0 +1,5 @@
+det	unit	a
+nsubj	cost	unit
+root	ROOT	cost
+case	something	of
+nmod:of	cost	something

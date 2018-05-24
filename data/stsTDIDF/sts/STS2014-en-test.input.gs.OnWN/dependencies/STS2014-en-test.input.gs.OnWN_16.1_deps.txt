@@ -1,0 +1,5 @@
+root	ROOT	create
+dobj	create	something
+case	mind	in
+det	mind	the
+nmod:in	something	mind

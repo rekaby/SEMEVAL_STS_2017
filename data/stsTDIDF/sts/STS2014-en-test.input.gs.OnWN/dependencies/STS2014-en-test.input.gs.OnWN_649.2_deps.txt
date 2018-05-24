@@ -1,0 +1,7 @@
+det	rate	the
+root	ROOT	rate
+case	event	of
+det	event	some
+amod	event	repeating
+nmod:of	rate	event
+punct	rate	.

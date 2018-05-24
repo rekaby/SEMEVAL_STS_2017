@@ -1,0 +1,6 @@
+nummod	people	Three
+nsubj	wear	people
+root	ROOT	wear
+amod	clothes	modern
+dobj	wear	clothes
+punct	wear	.

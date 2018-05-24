@@ -1,0 +1,15 @@
+cop	acceptable	Is
+nsubj	acceptable	it
+root	ROOT	acceptable
+case	referee	as
+nmod:as	acceptable	referee
+mark	contact	to
+xcomp	acceptable	contact
+det	author	an
+dobj	contact	author
+case	paper	on
+det	paper	a
+nmod:on	contact	paper
+nsubj	review	you
+acl:relcl	paper	review
+punct	acceptable	?

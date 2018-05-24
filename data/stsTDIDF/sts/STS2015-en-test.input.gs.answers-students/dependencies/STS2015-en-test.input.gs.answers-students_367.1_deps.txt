@@ -1,0 +1,13 @@
+det	reading	a
+compound	reading	voltage
+nsubj	indicates	reading
+case	volts	of
+nummod	volts	0
+nmod:of	reading	volts
+root	ROOT	indicates
+det	gap	a
+dobj	indicates	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+punct	indicates	.

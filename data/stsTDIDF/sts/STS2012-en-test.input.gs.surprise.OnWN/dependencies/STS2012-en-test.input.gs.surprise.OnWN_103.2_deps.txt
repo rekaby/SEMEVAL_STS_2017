@@ -1,0 +1,10 @@
+det	message	a
+root	ROOT	message
+acl	message	refusing
+mark	accept	to
+xcomp	refusing	accept
+dobj	accept	something
+nsubjpass	offered	that
+auxpass	offered	is
+acl:relcl	something	offered
+punct	message	.

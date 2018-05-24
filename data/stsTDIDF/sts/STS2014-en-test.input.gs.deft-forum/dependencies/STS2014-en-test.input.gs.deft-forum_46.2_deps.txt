@@ -1,0 +1,13 @@
+nsubj	claimed	You
+root	ROOT	claimed
+nsubj	Stalked	Zimmerman
+punct	Zimmerman	''
+ccomp	claimed	Stalked
+dobj	Stalked	him
+advmod	Stalked	down
+punct	Stalked	,
+advmod	shot	then
+dep	Stalked	shot
+dobj	shot	him
+punct	shot	''
+punct	claimed	.

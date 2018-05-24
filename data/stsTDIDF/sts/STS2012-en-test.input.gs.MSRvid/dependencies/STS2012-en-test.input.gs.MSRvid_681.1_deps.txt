@@ -1,0 +1,10 @@
+det	man	A
+nsubj	patting	man
+aux	patting	is
+root	ROOT	patting
+det	alligator	an
+dobj	patting	alligator
+case	mouth	on
+det	mouth	the
+nmod:on	patting	mouth
+punct	patting	.

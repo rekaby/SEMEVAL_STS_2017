@@ -1,0 +1,10 @@
+nmod:poss	president	Iran
+case	Iran	's
+nsubj	condemns	president
+root	ROOT	condemns
+dobj	condemns	use
+case	weapons	of
+compound	weapons	chemical
+nmod:of	use	weapons
+case	Syria	in
+nmod:in	condemns	Syria

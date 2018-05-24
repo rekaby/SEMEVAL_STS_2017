@@ -1,0 +1,6 @@
+root	ROOT	What?s
+case	Control	in
+compound	Control	Obama?s
+compound	Control	Gun
+nmod:in	What?s	Control
+dep	What?s	Proposal

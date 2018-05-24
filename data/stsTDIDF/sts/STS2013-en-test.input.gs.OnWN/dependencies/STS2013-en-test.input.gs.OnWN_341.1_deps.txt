@@ -1,0 +1,9 @@
+root	ROOT	club
+cc	club	or
+conj:or	club	association
+case	people	of
+nmod:of	club	people
+case	interest	with
+det	interest	a
+amod	interest	shared
+nmod:with	club	interest

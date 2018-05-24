@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	walking	boy
+aux	walking	is
+root	ROOT	walking
+case	bridge	across
+det	bridge	a
+nmod:across	walking	bridge
+punct	walking	.

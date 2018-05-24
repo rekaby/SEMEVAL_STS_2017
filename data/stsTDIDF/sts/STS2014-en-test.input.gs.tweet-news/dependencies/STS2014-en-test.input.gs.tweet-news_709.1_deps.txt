@@ -1,0 +1,17 @@
+compound	Christie	NY
+compound	Christie	Times
+compound	Christie	Communications
+compound	Christie	Executive
+compound	Christie	Bob
+nsubj	Leaving	Christie
+aux	Leaving	Is
+root	ROOT	Leaving
+punct	Leaving	.-9) root(ROOT-0, One
+case	spokespeople	of
+det	industry	the
+nmod:poss	spokespeople	industry
+case	industry	's
+amod	spokespeople	few
+amod	spokespeople	good
+nmod:of	One	spokespeople
+punct	One	.

@@ -1,0 +1,16 @@
+nsubj	called	Baker
+root	ROOT	called
+det	meeting	a
+amod	meeting	pregame
+dobj	called	meeting
+punct	called	,
+advcl	called	believing
+det	episode	the
+det	episode	the
+amod	episode	corked-bat
+nsubj	distracted	episode
+aux	distracted	had
+ccomp	believing	distracted
+det	team	the
+dobj	distracted	team
+punct	called	.

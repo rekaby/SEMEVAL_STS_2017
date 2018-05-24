@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	dog	a
+conj:and	man	dog
+case	rocks	on
+nmod:on	man	rocks
+case	beach	on
+det	beach	a
+nmod:on	rocks	beach
+punct	man	.

@@ -1,0 +1,7 @@
+nsubj	ramps	US
+root	ROOT	ramps
+case	response	up
+nmod:up	ramps	response
+case	crisis	to
+compound	crisis	Ebola
+nmod:to	response	crisis

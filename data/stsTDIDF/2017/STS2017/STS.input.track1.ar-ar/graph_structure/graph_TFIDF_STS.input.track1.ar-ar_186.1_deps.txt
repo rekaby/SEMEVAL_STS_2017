@@ -1,0 +1,4 @@
+man	attentive	amod
+attentive	completely	advmod
+train	on	case
+attentive	train	nmod:on

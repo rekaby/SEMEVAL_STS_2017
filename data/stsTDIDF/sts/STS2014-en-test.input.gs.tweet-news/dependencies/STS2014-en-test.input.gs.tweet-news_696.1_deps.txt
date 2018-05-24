@@ -1,0 +1,12 @@
+root	ROOT	See
+advmod	See	also
+punct	See	:
+dep	See	NYTimes
+punct	NYTimes	:
+case	Quebec	In
+nmod:in	NYTimes	Quebec
+punct	Quebec	,
+det	Celebration	a
+appos	Quebec	Celebration
+case	Skis	on
+nmod:on	Celebration	Skis

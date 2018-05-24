@@ -1,0 +1,7 @@
+compound	Regime	Syria
+nsubj	Agrees	Regime
+root	ROOT	Agrees
+mark	Attend	to
+xcomp	Agrees	Attend
+compound	Conference	Peace
+dobj	Attend	Conference

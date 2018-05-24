@@ -1,0 +1,16 @@
+det	skier	A
+nsubj	stands	skier
+root	ROOT	stands
+case	hands	on
+nmod:poss	hands	his
+nmod:on	stands	hands
+case	snow	in
+det	snow	the
+nmod:in	hands	snow
+case	camera	in
+mwe	in	front
+mwe	in	of
+det	camera	a
+compound	camera	movie
+nmod:in_front_of	hands	camera
+punct	stands	.

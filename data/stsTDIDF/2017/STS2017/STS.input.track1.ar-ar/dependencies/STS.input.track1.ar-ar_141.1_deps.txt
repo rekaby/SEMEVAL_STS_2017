@@ -1,0 +1,11 @@
+root	ROOT	Children
+acl	Children	dressed
+case	clothes	in
+nmod:in	dressed	clothes
+nsubj	present	compliant
+cop	present	are
+ccomp	dressed	present
+case	party	at
+det	party	a
+nmod:at	present	party
+punct	Children	.

@@ -1,0 +1,16 @@
+det	rate	The
+compound	rate	unemployment
+nsubjpass	predicted	rate
+auxpass	predicted	is
+root	ROOT	predicted
+mark	ticked	to
+aux	ticked	have
+xcomp	predicted	ticked
+compound:prt	ticked	up
+det	point	a
+compound	point	percentage
+dobj	ticked	point
+case	%	to
+nummod	%	6.1
+nmod:to	point	%
+punct	predicted	.

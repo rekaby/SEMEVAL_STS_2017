@@ -1,0 +1,11 @@
+det	man	a
+nsubj	stand	man
+cc	man	and
+det	boy	a
+conj:and	man	boy
+case	shorts	in
+nmod:in	boy	shorts
+root	ROOT	stand
+case	bridge	on
+det	bridge	a
+nmod:on	stand	bridge

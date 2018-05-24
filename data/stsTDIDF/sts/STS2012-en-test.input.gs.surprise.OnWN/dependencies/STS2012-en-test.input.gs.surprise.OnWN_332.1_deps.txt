@@ -1,0 +1,11 @@
+root	ROOT	Make
+advmod	hostile	less
+advmod	hostile	emotionally
+xcomp	Make	hostile
+punct	Make	;
+parataxis	Make	win
+advmod	win	over
+advmod	over	mentally
+cc	mentally	or
+conj:or	mentally	emotionally
+punct	Make	.

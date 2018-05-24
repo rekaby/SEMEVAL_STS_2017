@@ -1,0 +1,7 @@
+root	ROOT	destroy
+det	peace	the
+dobj	destroy	peace
+cc	peace	or
+conj:or	peace	tranquility
+acl	peace	of
+punct	destroy	.

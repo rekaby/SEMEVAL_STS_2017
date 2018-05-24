@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	playing	woman
+aux	playing	is
+root	ROOT	playing
+det	piano	a
+dobj	playing	piano
+punct	playing	.

@@ -1,0 +1,10 @@
+det	future	The
+nsubjpass	linked	future
+case	Iraq	of
+nmod:of	future	Iraq
+auxpass	linked	is
+root	ROOT	linked
+case	country	to
+det	country	the
+nmod:to	linked	country
+punct	linked	.

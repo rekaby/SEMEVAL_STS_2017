@@ -1,0 +1,7 @@
+nsubj	gathered	People
+root	ROOT	gathered
+advmod	gathered	together
+case	room	in
+det	room	a
+nmod:in	gathered	room
+punct	gathered	.

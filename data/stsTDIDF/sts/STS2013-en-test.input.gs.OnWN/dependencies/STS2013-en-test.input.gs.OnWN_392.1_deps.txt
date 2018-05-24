@@ -1,0 +1,10 @@
+root	ROOT	work
+case	tinker	as
+det	tinker	a
+nmod:as	work	tinker
+punct	pots	-LRB-
+compound	pots	fix
+dep	tinker	pots
+cc	pots	and
+conj:and	pots	pans
+punct	pots	-RRB-

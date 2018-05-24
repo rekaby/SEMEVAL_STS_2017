@@ -1,0 +1,11 @@
+det	close	a
+root	ROOT	close
+case	cactus	up
+case	cactus	of
+det	cactus	a
+amod	cactus	small
+nmod:of	close	cactus
+case	pot	in
+det	pot	a
+nmod:in	close	pot
+punct	close	.

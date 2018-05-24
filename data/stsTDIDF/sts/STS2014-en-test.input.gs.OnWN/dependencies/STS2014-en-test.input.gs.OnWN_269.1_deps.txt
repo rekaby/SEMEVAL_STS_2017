@@ -1,0 +1,9 @@
+root	ROOT	make
+amod	failure	certain
+det	failure	the
+dobj	make	failure
+cc	failure	or
+conj:or	failure	destruction
+acl	failure	of
+punct	make	;
+dep	make	destine

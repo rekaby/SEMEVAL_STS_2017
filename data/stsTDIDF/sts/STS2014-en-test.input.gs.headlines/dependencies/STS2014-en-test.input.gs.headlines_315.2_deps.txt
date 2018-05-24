@@ -1,0 +1,5 @@
+compound	opposition	Syria
+nsubj	agrees	opposition
+root	ROOT	agrees
+case	talks	to
+nmod:to	agrees	talks

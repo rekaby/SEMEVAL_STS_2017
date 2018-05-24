@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	white
+nsubj	running	dog
+root	ROOT	running
+case	bridge	over
+det	bridge	a
+nmod:over	running	bridge
+punct	running	.

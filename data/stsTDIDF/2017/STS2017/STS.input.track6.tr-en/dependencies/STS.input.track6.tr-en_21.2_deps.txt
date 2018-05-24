@@ -1,0 +1,7 @@
+nsubj	talking	People
+aux	talking	are
+root	ROOT	talking
+case	restaurant	at
+det	restaurant	a
+nmod:at	talking	restaurant
+punct	talking	.

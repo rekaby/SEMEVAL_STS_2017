@@ -1,0 +1,9 @@
+nummod	collapse	Two
+amod	collapse	dead
+punct	collapse	,
+nummod	hurt	nine
+nsubj	collapse	hurt
+case	building	in
+amod	building	French
+nmod:in	hurt	building
+root	ROOT	collapse

@@ -1,0 +1,6 @@
+amod	rain	More
+nsubj	hampers	rain
+root	ROOT	hampers
+amod	rescue	Indian
+compound	rescue	flood
+dobj	hampers	rescue

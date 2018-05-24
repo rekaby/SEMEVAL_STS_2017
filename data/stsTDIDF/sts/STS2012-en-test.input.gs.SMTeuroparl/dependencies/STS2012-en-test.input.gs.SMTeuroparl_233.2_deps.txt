@@ -1,0 +1,17 @@
+nsubj	necessary	Support
+amod	Support	specific
+case	support	as
+det	support	the
+nmod:as	specific	support
+case	market	of
+det	market	the
+nmod:of	support	market
+cc	market	or
+det	premium	the
+conj:or	market	premium
+case	grass	to
+det	grass	the
+nmod:to	support	grass
+cop	necessary	is
+root	ROOT	necessary
+punct	necessary	.

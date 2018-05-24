@@ -1,0 +1,10 @@
+compound	Airlines	Japan
+nsubj	Says	Airlines
+root	ROOT	Says
+nummod	Fuel	787
+compound	Fuel	Jet
+compound	Fuel	Leaked
+nsubj	Test	Fuel
+case	Safety	During
+nmod:during	Fuel	Safety
+ccomp	Says	Test

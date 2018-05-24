@@ -1,0 +1,6 @@
+root	ROOT	have
+dobj	have	faith
+cc	faith	or
+conj:or	faith	confidence
+nmod	have	in
+punct	have	.

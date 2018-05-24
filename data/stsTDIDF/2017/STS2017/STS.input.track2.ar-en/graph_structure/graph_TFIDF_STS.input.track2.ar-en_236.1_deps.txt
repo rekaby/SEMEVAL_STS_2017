@@ -1,0 +1,13 @@
+float	street	compound
+carry	people	nsubj
+float	sesame	amod
+carry	.	punct
+carry	streets	nmod:through
+parade	a	det
+people	Multiple	amod
+carry	float	dobj
+streets	through	case
+streets	parade	nmod:for
+ROOT	carry	root
+float	a	det
+parade	for	case

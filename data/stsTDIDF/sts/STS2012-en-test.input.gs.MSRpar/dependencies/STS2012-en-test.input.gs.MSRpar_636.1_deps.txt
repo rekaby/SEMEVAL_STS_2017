@@ -1,0 +1,12 @@
+compound	Thode	Enron
+compound	Thode	spokesman
+compound	Thode	Eric
+nsubj	declined	Thode
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+case	order	on
+det	order	the
+compound	order	mediation
+nmod:on	comment	order
+punct	declined	.

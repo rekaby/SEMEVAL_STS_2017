@@ -1,0 +1,14 @@
+nsubj	Likes	Peter
+root	ROOT	Likes
+punct	Likes	:
+dep	Likes	DealBook
+punct	DealBook	:
+compound	Shares	Dell
+nsubj	Rise	Shares
+dep	DealBook	Rise
+case	Company	on
+compound	Company	News
+nmod:on	Rise	Company
+nsubj	Go	May
+acl:relcl	Company	Go
+dobj	Go	Private

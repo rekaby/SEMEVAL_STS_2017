@@ -1,0 +1,14 @@
+expl	are	There
+root	ROOT	are
+nummod	people	two
+nsubj	are	people
+case	picture	in
+det	picture	this
+nmod:in	people	picture
+punct	are	,
+cc	are	and
+nsubj	both	they
+cop	both	are
+conj:and	are	both
+advmod	both	inside
+punct	are	.

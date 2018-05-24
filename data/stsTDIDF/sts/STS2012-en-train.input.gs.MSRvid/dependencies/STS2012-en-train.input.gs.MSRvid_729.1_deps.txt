@@ -1,0 +1,8 @@
+det	man	A
+nsubj	spins	man
+root	ROOT	spins
+case	board	on
+det	board	a
+compound	board	surf
+nmod:on	spins	board
+punct	spins	.

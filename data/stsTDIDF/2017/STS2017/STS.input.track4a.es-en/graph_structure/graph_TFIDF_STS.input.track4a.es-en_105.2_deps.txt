@@ -1,0 +1,4 @@
+bus	for	case
+waiting	is	aux
+waiting	bus	nmod:for
+waiting	woman	nsubj

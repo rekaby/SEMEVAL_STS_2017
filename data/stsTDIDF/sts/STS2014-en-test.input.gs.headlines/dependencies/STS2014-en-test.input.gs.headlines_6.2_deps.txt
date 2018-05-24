@@ -1,0 +1,10 @@
+nsubj	recognise	U.S.
+punct	U.S.	,
+appos	U.S.	Friends
+case	Syria	of
+nmod:of	Friends	Syria
+root	ROOT	recognise
+dobj	recognise	opposition
+case	representative	as
+amod	representative	sole
+nmod:as	opposition	representative

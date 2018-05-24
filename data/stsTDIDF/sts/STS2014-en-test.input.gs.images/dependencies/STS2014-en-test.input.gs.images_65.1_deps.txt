@@ -1,0 +1,9 @@
+amod	cow	Brown
+root	ROOT	cow
+case	horns	with
+nmod:with	cow	horns
+acl	horns	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+punct	cow	.

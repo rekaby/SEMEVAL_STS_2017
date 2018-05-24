@@ -1,0 +1,8 @@
+banner	Nebraska	nmod:of
+Nebraska	of	case
+Stop	man	dobj
+banner	the	det
+man	banner	nmod:near
+Stop	.	punct
+banner	near	case
+ROOT	Stop	root

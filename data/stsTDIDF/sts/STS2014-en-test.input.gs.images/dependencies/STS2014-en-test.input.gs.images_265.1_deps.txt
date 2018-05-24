@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+case	grass	on
+det	grass	the
+nmod:on	sitting	grass
+acl	grass	looking
+case	sky	toward
+det	sky	the
+nmod:toward	looking	sky
+punct	man	.

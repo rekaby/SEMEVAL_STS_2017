@@ -1,0 +1,12 @@
+root	ROOT	Watch
+dep	Watch	live
+punct	live	:
+compound	Capitol	US
+nsubj	fired	Capitol
+case	lockdown	on
+nmod:on	Capitol	lockdown
+case	reports	after
+nmod:after	Capitol	reports
+case	shots	of
+nmod:of	reports	shots
+parataxis	live	fired

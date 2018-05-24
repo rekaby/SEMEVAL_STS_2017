@@ -1,0 +1,15 @@
+det	group	A
+nsubj	standing	group
+case	people	of
+nmod:of	group	people
+aux	standing	are
+root	ROOT	standing
+cc	standing	and
+conj:and	standing	sitting
+compound:prt	sitting	around
+case	ground	on
+det	ground	the
+nmod:on	sitting	ground
+case	night	at
+nmod:at	sitting	night
+punct	standing	.

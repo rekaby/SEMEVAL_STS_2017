@@ -1,0 +1,8 @@
+nummod	children	Four
+root	ROOT	children
+case	stools	on
+nmod:on	children	stools
+case	diner	in
+det	diner	a
+nmod:in	children	diner
+punct	children	.

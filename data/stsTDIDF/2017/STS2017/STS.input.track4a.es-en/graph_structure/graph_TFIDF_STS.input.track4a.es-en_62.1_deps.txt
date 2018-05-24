@@ -1,0 +1,5 @@
+eat	family	nmod:with
+goes	cameraman	nsubj
+cameraman	A	det
+goes	eat	advcl
+eat	out	mark

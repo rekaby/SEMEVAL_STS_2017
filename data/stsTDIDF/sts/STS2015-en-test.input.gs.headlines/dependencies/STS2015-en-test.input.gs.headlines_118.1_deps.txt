@@ -1,0 +1,6 @@
+amod	connection	Jamaican
+root	ROOT	connection
+case	win	in
+nmod:poss	win	Liverpool
+case	Liverpool	's
+nmod:in	connection	win

@@ -1,0 +1,16 @@
+nsubj	said	Comstock
+root	ROOT	said
+amod	courts	several
+amod	courts	federal
+nsubj	ruled	courts
+aux	ruled	have
+ccomp	said	ruled
+mark	law	that
+det	detentions	the
+nsubj	law	detentions
+cop	law	are
+advmod	law	fully
+case	law	within
+det	law	the
+ccomp	ruled	law
+punct	said	.

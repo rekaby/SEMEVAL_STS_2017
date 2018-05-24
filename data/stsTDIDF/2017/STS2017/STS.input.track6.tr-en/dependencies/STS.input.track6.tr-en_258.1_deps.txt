@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	reads	girl
+root	ROOT	reads
+case	beach	on
+det	beach	a
+amod	beach	crowded
+nmod:on	reads	beach
+punct	reads	.

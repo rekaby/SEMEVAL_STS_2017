@@ -1,0 +1,17 @@
+case	statement	In
+det	statement	a
+nmod:in	said	statement
+acl	statement	distributed
+nmod:tmod	distributed	Friday
+punct	said	,
+nummod	organizations	28
+amod	organizations	Chechen
+amod	organizations	non-governmental
+nsubj	said	organizations
+root	ROOT	said
+nsubj	boycott	they
+aux	boycott	would
+ccomp	said	boycott
+det	vote	the
+dobj	boycott	vote
+punct	said	.

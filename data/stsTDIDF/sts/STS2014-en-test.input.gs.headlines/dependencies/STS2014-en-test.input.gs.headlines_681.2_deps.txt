@@ -1,0 +1,8 @@
+compound	court	Egypt
+nsubj	turns	court
+root	ROOT	turns
+compound:prt	turns	down
+nmod:poss	release	Mubarak
+case	Mubarak	's
+nsubj	request	release
+ccomp	turns	request

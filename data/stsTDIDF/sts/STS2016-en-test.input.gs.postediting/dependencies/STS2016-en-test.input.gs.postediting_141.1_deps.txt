@@ -1,0 +1,5 @@
+root	ROOT	Behemoths
+case	attack	in
+det	attack	the
+nmod:in	Behemoths	attack
+punct	Behemoths	.

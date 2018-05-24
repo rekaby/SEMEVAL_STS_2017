@@ -1,0 +1,15 @@
+det	boy	A
+nsubjpass	touched	boy
+nsubj	seems	who
+acl:relcl	boy	seems
+advmod	seems	ill
+aux	touched	is
+auxpass	touched	being
+root	ROOT	touched
+case	face	in
+det	face	the
+nmod:in	touched	face
+case	toddler	by
+det	toddler	a
+nmod:agent	touched	toddler
+punct	touched	.

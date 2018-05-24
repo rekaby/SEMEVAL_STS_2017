@@ -1,0 +1,7 @@
+climbs	boy	nsubj
+ROOT	climbs	root
+center	city	compound
+climbs	shrub	dobj
+shrub	a	det
+climbs	.	punct
+shrub	center	nmod:in

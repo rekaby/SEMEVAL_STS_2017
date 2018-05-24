@@ -1,0 +1,12 @@
+nsubj	asks	Manmohan
+case	Tehran	in
+nmod:in	Manmohan	Tehran
+punct	Manmohan	,
+root	ROOT	asks
+dobj	asks	NAM
+mark	take	to
+xcomp	asks	take
+det	stand	a
+dobj	take	stand
+case	Syria	on
+nmod:on	stand	Syria

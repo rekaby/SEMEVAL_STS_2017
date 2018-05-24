@@ -1,0 +1,7 @@
+det	line	a
+compound	line	reference
+root	ROOT	line
+acl	line	used
+mark	align	to
+xcomp	used	align
+dobj	align	lettering

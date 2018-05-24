@@ -1,0 +1,7 @@
+nsubj	admits	Nigeria
+root	ROOT	admits
+amod	response	slow
+dobj	admits	response
+case	case	in
+compound	case	Ebola
+nmod:in	response	case

@@ -1,0 +1,5 @@
+watches	live	dep
+watches	woman	nsubj
+watches	group	dobj
+group	rap	compound
+ROOT	watches	root

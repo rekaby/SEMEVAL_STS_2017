@@ -1,0 +1,8 @@
+det	person	A
+nsubj	folds	person
+root	ROOT	folds
+det	piece	a
+dobj	folds	piece
+case	paper	of
+nmod:of	piece	paper
+punct	folds	.

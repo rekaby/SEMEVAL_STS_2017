@@ -1,0 +1,9 @@
+nsubj	dies	Police
+punct	Police	:
+compound	referee	Utah
+compound	referee	soccer
+dep	Police	referee
+acl	referee	punched
+case	player	by
+nmod:by	punched	player
+root	ROOT	dies

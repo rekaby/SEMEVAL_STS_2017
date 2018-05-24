@@ -1,0 +1,5 @@
+root	ROOT	Move
+advmod	Move	oneself
+advmod	fast	very
+advmod	oneself	fast
+punct	Move	.

@@ -1,0 +1,14 @@
+nmod:poss	lawyer	His
+nsubj	said	lawyer
+punct	lawyer	,
+compound	MacKey	Pamela
+appos	lawyer	MacKey
+punct	lawyer	,
+root	ROOT	said
+nsubj	expects	Bryant
+ccomp	said	expects
+mark	exonerated	to
+auxpass	exonerated	be
+advmod	exonerated	completely
+xcomp	expects	exonerated
+punct	said	.

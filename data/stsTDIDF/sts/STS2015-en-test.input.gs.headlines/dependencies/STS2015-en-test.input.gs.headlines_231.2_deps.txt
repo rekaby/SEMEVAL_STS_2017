@@ -1,0 +1,7 @@
+compound	case	Manning
+compound	case	WikiLeaks
+nsubj	turns	case
+root	ROOT	turns
+mark	sentencing	to
+xcomp	turns	sentencing
+dobj	sentencing	phase

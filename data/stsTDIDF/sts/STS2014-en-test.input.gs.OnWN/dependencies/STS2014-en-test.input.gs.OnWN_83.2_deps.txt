@@ -1,0 +1,13 @@
+det	statement	an
+amod	statement	itemized
+root	ROOT	statement
+case	money	of
+nmod:of	statement	money
+acl	money	owed
+case	goods	for
+nmod:for	owed	goods
+acl	goods	shipped
+cc	shipped	or
+conj:or	shipped	services
+dep	shipped	rendered
+punct	statement	.

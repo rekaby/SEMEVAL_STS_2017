@@ -1,0 +1,6 @@
+nightclub	inside	case
+playing	band	nsubj
+nightclub	a	det
+nightclub	small	amod
+band	The	det
+playing	nightclub	nmod:inside

@@ -1,0 +1,8 @@
+compound	concern	UK
+punct	concern	`
+nsubj	protests	concern
+punct	concern	'
+case	Kong	over
+compound	Kong	Hong
+nmod:over	concern	Kong
+root	ROOT	protests

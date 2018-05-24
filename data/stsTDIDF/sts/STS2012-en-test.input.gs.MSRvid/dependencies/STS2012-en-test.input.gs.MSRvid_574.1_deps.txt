@@ -1,0 +1,8 @@
+det	baby	A
+amod	baby	small
+nsubj	playing	baby
+aux	playing	is
+root	ROOT	playing
+det	guitar	a
+dobj	playing	guitar
+punct	playing	.

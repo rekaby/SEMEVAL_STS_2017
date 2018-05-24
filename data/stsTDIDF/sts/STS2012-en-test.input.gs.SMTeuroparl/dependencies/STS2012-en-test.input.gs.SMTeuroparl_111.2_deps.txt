@@ -1,0 +1,17 @@
+mark	explained	As
+nsubj	explained	I
+aux	explained	have
+advmod	explained	already
+advcl	root	explained
+case	reading	in
+amod	reading	second
+nmod:in	explained	reading
+punct	root	,
+cop	root	is
+case	root	at
+det	root	the
+root	ROOT	root
+case	directive	of
+det	directive	this
+nmod:of	root	directive
+punct	root	.

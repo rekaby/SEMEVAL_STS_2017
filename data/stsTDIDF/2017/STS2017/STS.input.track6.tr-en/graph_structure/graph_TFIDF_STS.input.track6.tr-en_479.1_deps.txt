@@ -1,0 +1,9 @@
+purse	her	nmod:poss
+bakery	a	det
+bakery	in	case
+ROOT	opening	root
+opening	purse	dobj
+opening	bakery	nmod:in
+opening	Woman	nsubj
+bakery	Canadian	amod
+opening	.	punct

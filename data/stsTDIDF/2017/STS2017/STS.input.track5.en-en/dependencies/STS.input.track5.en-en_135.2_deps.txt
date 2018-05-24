@@ -1,0 +1,12 @@
+nsubj	trying	Men
+aux	trying	are
+root	ROOT	trying
+mark	remove	to
+xcomp	trying	remove
+dobj	remove	oil
+case	body	from
+det	body	a
+nmod:from	remove	body
+case	water	of
+nmod:of	body	water
+punct	trying	.

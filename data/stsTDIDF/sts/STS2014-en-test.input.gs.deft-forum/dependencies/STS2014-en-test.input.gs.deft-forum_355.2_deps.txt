@@ -1,0 +1,15 @@
+advcl	possible	Sure
+punct	possible	,
+nsubj	possible	it
+cop	possible	is
+root	ROOT	possible
+nmod:poss	home	his
+nsubjpass	affected	home
+auxpass	affected	was
+ccomp	possible	affected
+punct	affected	,
+cc	affected	but
+neg	school	not
+det	school	the
+conj:but	affected	school
+punct	possible	.

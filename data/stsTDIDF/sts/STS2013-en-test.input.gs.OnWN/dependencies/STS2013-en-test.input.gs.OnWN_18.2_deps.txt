@@ -1,0 +1,8 @@
+det	division	a
+amod	division	specialized
+root	ROOT	division
+case	organization	of
+det	organization	a
+amod	organization	large
+nmod:of	division	organization
+punct	division	.

@@ -1,0 +1,10 @@
+nsubj	fail	US
+punct	US	,
+appos	US	China
+root	ROOT	fail
+case	paper	to
+nmod:to	fail	paper
+case	cracks	over
+nmod:over	fail	cracks
+case	ties	in
+nmod:in	cracks	ties

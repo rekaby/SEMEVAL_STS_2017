@@ -1,0 +1,10 @@
+nsubj	sees	Snowden
+root	ROOT	sees
+punct	chance	`
+neg	chance	no
+dobj	sees	chance
+punct	chance	'
+case	trial	for
+compound	trial	US
+amod	trial	fair
+nmod:for	chance	trial

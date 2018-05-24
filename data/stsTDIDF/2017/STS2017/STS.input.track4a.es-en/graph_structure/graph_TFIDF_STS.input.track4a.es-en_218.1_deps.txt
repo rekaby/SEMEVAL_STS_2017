@@ -1,0 +1,10 @@
+fast	very	advmod
+woman	with	case
+woman	running	acl
+running	him	nmod:after
+woman	blond	amod
+running	dog	nsubj
+dog	black	amod
+running	background	nmod:in
+running	woman	nmod:with
+running	fast	advmod

@@ -1,0 +1,14 @@
+nummod	women	Four
+nsubj	sit	women
+cc	women	and
+nummod	men	two
+conj:and	women	men
+root	ROOT	sit
+case	table	at
+det	table	a
+amod	table	long
+nmod:at	sit	table
+case	restaurant	in
+det	restaurant	a
+nmod:in	table	restaurant
+punct	sit	.

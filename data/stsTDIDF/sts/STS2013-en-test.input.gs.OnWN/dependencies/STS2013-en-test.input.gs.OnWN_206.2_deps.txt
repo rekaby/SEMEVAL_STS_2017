@@ -1,0 +1,8 @@
+det	state	the
+root	ROOT	state
+mark	unsure	of
+cop	unsure	being
+acl	state	unsure
+case	something	of
+nmod:of	unsure	something
+punct	state	.

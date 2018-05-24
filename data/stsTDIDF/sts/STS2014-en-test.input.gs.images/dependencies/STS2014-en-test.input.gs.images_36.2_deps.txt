@@ -1,0 +1,11 @@
+det	cows	The
+amod	cows	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	eating	cows
+aux	eating	are
+root	ROOT	eating
+case	trough	in
+det	trough	the
+nmod:in	eating	trough
+punct	eating	.

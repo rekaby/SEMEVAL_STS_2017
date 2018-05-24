@@ -1,0 +1,7 @@
+nmod:poss	minister	Egypt
+case	Egypt	's
+amod	minister	interior
+nsubj	survives	minister
+root	ROOT	survives
+compound	attack	bomb
+dobj	survives	attack

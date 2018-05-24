@@ -1,0 +1,10 @@
+root	ROOT	Well
+punct	Well	:
+dep	Well	Turning
+case	Web	to
+det	Web	the
+nmod:to	Turning	Web
+case	Diagnosis	for
+det	Diagnosis	a
+amod	Diagnosis	Medical
+nmod:for	Turning	Diagnosis

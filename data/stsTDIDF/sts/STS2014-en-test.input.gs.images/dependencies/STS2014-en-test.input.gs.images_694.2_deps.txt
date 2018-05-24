@@ -1,0 +1,10 @@
+det	room	A
+root	ROOT	room
+case	television	with
+det	television	a
+nmod:with	room	television
+punct	television	,
+conj:and	television	stereo
+cc	television	and
+conj:and	television	bookshelf
+punct	room	.

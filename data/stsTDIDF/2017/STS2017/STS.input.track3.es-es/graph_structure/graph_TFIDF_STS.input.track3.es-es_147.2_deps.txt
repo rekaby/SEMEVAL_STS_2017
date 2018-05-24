@@ -1,0 +1,7 @@
+drawing	table	nmod:on
+drawing	.	punct
+ROOT	drawing	root
+drawing	girl	nsubj
+baby	near	case
+drawing	is	aux
+table	baby	nmod:near

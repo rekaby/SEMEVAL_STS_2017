@@ -1,0 +1,9 @@
+girls	.	punct
+girls	walk	acl:relcl
+walk	way	dobj
+walk	fountains	nmod:through
+fountains	the	det
+walk	who	nsubj
+fountains	through	case
+girls	Two	nummod
+ROOT	girls	root

@@ -1,0 +1,6 @@
+root	ROOT	People
+acl	People	sitting
+case	garden	at
+det	garden	a
+nmod:at	sitting	garden
+punct	People	.

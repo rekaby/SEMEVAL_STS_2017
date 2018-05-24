@@ -1,0 +1,14 @@
+nsubj	said	They
+root	ROOT	said
+det	child	the
+nsubjpass	taken	child
+auxpass	taken	was
+ccomp	said	taken
+case	Center	to
+compound	Center	Nassau
+compound	Center	County
+compound	Center	Medical
+nmod:to	taken	Center
+case	observation	for
+nmod:for	taken	observation
+punct	said	.

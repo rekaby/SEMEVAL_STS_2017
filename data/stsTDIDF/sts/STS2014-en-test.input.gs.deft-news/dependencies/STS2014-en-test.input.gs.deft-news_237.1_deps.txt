@@ -1,0 +1,8 @@
+amod	speaker	iranian
+amod	speaker	parliamentary
+nsubj	visited	speaker
+amod	haddad-adel	gholam-ali
+nsubj	visited	haddad-adel
+root	ROOT	visited
+dobj	visited	cuba
+punct	visited	.

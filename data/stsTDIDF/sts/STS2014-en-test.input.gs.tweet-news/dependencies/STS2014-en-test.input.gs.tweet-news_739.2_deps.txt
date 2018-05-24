@@ -1,0 +1,8 @@
+amod	Best	Personal
+root	ROOT	Best
+punct	Best	:
+compound	Insights	Training
+dep	Best	Insights
+case	Athletes	From
+compound	Athletes	Star
+nmod:from	Insights	Athletes

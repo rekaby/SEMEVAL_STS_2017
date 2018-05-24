@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	brown
+root	ROOT	dog
+mark	running	in
+acl	dog	running
+case	grass	on
+nmod:on	running	grass
+punct	dog	.

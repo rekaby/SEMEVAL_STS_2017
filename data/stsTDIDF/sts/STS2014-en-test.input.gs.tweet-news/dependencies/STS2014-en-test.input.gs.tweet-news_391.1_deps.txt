@@ -1,0 +1,18 @@
+amod	article	Interesting
+root	ROOT	article
+case	parents	for
+nmod:for	article	parents
+nsubj	support	who
+acl:relcl	parents	support
+nmod:poss	kids	their
+compound	kids	college
+dobj	support	kids
+punct	article	:
+dep	article	Parents
+punct	article	?-12) compound(Support-2, Financial
+root	ROOT	Support
+nsubj	Help	May
+neg	Help	Not
+acl:relcl	Support	Help
+compound	Grades	College
+dobj	Help	Grades

@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	excluded	of
+auxpass	excluded	being
+acl	state	excluded
+punct	state	.

@@ -1,0 +1,9 @@
+expl	is	there
+root	ROOT	is
+neg	circuit	no
+amod	circuit	short
+nsubj	is	circuit
+case	battery	to
+det	battery	the
+nmod:to	circuit	battery
+punct	is	.

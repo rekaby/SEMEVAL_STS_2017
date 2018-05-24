@@ -1,0 +1,7 @@
+amod	strikes	Powerful
+nummod	strikes	6.9
+compound	strikes	quake
+root	ROOT	strikes
+case	coast	off
+compound	coast	California
+nmod:off	strikes	coast

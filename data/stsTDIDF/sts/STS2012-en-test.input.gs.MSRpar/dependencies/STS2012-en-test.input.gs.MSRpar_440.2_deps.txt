@@ -1,0 +1,17 @@
+nsubj	custody	He
+aux	custody	had
+cop	custody	been
+case	custody	in
+amod	custody	protective
+ccomp	said	custody
+mark	transferred	since
+auxpass	transferred	being
+acl	custody	transferred
+case	Souza-Baranowski	to
+nmod:to	transferred	Souza-Baranowski
+case	April	in
+nmod:in	transferred	April
+punct	said	,
+nsubj	said	officials
+root	ROOT	said
+punct	said	.

@@ -1,0 +1,16 @@
+nsubj	appropriate	It
+cop	appropriate	is
+root	ROOT	appropriate
+mark	involved	that
+det	Union	the
+compound	Union	European
+nsubjpass	involved	Union
+auxpass	involved	is
+ccomp	appropriate	involved
+cc	involved	and
+mark	makes	that
+nsubj	makes	it
+conj:and	involved	makes
+dobj	makes	it
+advmod	makes	quickly
+punct	appropriate	.

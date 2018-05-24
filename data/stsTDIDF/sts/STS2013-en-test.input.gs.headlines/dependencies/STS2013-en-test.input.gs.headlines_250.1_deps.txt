@@ -1,0 +1,8 @@
+nsubj	closes	US
+root	ROOT	closes
+dobj	closes	embassy
+case	Syria	in
+nmod:in	closes	Syria
+punct	AP	-LRB-
+appos	Syria	AP
+punct	AP	-RRB-

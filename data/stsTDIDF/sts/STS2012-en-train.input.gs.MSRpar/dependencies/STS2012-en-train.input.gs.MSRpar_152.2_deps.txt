@@ -1,0 +1,15 @@
+det	Union	The
+compound	Union	International
+nsubj	endorsed	Union
+case	Painters	of
+nmod:of	Union	Painters
+cc	Painters	and
+compound	Trades	Allied
+conj:and	Painters	Trades
+root	ROOT	endorsed
+compound	Dean	Mr
+dobj	endorsed	Dean
+amod	weeks	several
+nmod:npmod	ago	weeks
+advmod	endorsed	ago
+punct	endorsed	.

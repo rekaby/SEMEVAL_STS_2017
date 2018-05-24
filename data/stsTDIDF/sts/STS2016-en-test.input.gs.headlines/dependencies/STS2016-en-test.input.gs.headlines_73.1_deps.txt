@@ -1,0 +1,8 @@
+nsubj	examines	Oklahoma
+root	ROOT	examines
+nsubj	went	what
+ccomp	examines	went
+xcomp	went	wrong
+case	execution	in
+amod	execution	botched
+nmod:in	went	execution

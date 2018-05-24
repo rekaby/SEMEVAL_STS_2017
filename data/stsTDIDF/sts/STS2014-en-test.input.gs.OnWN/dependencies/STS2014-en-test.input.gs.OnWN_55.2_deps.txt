@@ -1,0 +1,12 @@
+root	ROOT	utter
+case	sound	with
+det	sound	a
+amod	sound	spitting
+nmod:with	utter	sound
+punct	utter	,
+case	rage	as
+case	rage	if
+case	rage	in
+det	rage	a
+nmod:in	utter	rage
+punct	utter	.

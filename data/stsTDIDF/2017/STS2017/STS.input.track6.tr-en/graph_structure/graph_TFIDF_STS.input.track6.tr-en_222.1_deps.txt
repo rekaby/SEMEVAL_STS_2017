@@ -1,0 +1,11 @@
+baton	for	case
+runs	race	dobj
+runs	he	nsubj
+girl	from	case
+runs	as	mark
+race	relay	compound
+baton	the	det
+boy	reaching	acl
+reaching	baton	nmod:for
+reaching	runs	advcl
+baton	girl	nmod:from

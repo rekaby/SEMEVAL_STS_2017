@@ -1,0 +1,5 @@
+compete	.	punct
+fight	kick-boxing	amod
+compete	women	nsubj
+compete	fight	nmod:in
+ROOT	compete	root

@@ -1,0 +1,8 @@
+root	ROOT	US
+punct	US	:
+nsubj	delay	Israel
+mark	delay	to
+dep	US	delay
+amod	release	Palestinian
+compound	release	prisoner
+dobj	delay	release

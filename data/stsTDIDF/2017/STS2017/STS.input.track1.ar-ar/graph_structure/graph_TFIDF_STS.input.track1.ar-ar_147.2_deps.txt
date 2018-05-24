@@ -1,0 +1,5 @@
+walk	park	nmod:in
+took	father	nmod:by
+took	child	dobj
+father	by	case
+took	walk	advcl

@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	little
+root	ROOT	girl
+acl	girl	wearing
+det	dress	a
+dobj	wearing	dress
+case	wedding	at
+det	wedding	a
+nmod:at	wearing	wedding
+punct	girl	.

@@ -1,0 +1,8 @@
+det	entreaty	a
+amod	entreaty	social
+root	ROOT	entreaty
+punct	entreaty	,
+case	courtship	as
+nmod:as	entreaty	courtship
+cc	courtship	or
+conj:or	courtship	pleading

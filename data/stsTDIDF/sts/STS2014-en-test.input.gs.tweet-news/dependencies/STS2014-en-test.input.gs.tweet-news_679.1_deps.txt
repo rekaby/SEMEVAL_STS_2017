@@ -1,0 +1,12 @@
+nmod:poss	issue	Florida
+case	Florida	's
+compound	issue	Burmese
+compound	issue	Python
+nsubj	leads	issue
+root	ROOT	leads
+case	contest	to
+compound	contest	snake
+compound	contest	killing
+nmod:to	leads	contest
+punct	leads	.-11) root(ROOT-0, -
+punct	-	...

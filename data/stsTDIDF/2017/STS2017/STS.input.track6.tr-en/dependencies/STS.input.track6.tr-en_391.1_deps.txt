@@ -1,0 +1,7 @@
+det	boy	a
+amod	boy	shirtless
+nsubj	sleeps	boy
+root	ROOT	sleeps
+case	couch	on
+det	couch	a
+nmod:on	sleeps	couch

@@ -1,0 +1,9 @@
+det	chicken	A
+nsubj	pecking	chicken
+aux	pecking	is
+root	ROOT	pecking
+case	mouse	at
+det	mouse	a
+amod	mouse	dead
+nmod:at	pecking	mouse
+punct	pecking	.

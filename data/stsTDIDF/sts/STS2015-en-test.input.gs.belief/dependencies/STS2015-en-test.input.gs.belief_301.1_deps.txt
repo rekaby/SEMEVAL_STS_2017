@@ -1,0 +1,10 @@
+root	ROOT	or
+case	companies	like
+compound	companies	oil
+nmod:like	or	companies
+punct	companies	,
+nsubj	have	who
+acl:relcl	companies	have
+det	cartel	a
+dobj	have	cartel
+punct	or	.

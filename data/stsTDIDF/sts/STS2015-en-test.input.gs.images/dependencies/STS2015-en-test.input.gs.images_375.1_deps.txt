@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	retrieves	dog
+root	ROOT	retrieves
+case	snow	in
+det	snow	the
+nmod:in	retrieves	snow
+punct	retrieves	.

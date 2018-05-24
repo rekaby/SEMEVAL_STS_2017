@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	holds	woman
+root	ROOT	holds
+det	dog	a
+dobj	holds	dog
+mark	stands	while
+det	dog	another
+nsubj	stands	dog
+advcl	holds	stands
+advmod	stands	nearby
+case	field	in
+det	field	a
+nmod:in	stands	field
+punct	holds	.

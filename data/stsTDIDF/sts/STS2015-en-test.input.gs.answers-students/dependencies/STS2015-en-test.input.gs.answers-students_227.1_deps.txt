@@ -1,0 +1,9 @@
+aux	complete	can
+advcl	closed	complete
+det	path	the
+dobj	complete	path
+mark	having	by
+advcl	closed	having
+nsubjpass	closed	z
+auxpass	closed	be
+root	ROOT	closed

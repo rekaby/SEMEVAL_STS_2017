@@ -1,0 +1,7 @@
+compound	strike	US
+compound	strike	drone
+nsubj	kills	strike
+root	ROOT	kills
+dobj	kills	eight
+case	Waziristan	in
+nmod:in	kills	Waziristan

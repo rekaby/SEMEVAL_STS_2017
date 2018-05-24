@@ -1,0 +1,6 @@
+amod	leader	Greek
+amod	leader	far-right
+nsubj	imprisoned	leader
+root	ROOT	imprisoned
+case	trial	pending
+nmod:pending	imprisoned	trial

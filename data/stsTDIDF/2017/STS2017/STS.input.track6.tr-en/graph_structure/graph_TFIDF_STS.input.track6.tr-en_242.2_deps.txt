@@ -1,0 +1,5 @@
+couch	the	det
+pajamas	A	det
+sleeping	pajamas	nsubj
+sleeping	couch	nmod:on
+pajamas	young	amod

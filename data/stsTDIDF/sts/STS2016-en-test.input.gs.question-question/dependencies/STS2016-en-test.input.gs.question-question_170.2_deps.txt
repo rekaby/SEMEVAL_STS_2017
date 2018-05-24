@@ -1,0 +1,14 @@
+det	kind	What
+dep	is	kind
+case	board	of
+nmod:of	kind	board
+root	ROOT	is
+nsubj	is	this
+punct	is	,
+cc	is	and
+advmod	get	where
+aux	get	can
+nsubj	get	I
+conj:and	is	get
+dobj	get	some
+punct	is	?

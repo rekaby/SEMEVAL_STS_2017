@@ -1,0 +1,10 @@
+det	man	A
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+dobj	doing	tricks
+case	ball	with
+det	ball	a
+compound	ball	soccer
+nmod:with	doing	ball
+punct	doing	.

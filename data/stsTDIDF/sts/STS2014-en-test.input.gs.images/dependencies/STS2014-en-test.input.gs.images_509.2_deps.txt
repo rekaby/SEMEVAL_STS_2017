@@ -1,0 +1,12 @@
+det	bus	A
+amod	bus	white
+root	ROOT	bus
+case	water	with
+nmod:with	bus	water
+cc	water	and
+det	barge	a
+conj:and	water	barge
+case	background	in
+det	background	the
+nmod:in	bus	background
+punct	bus	.

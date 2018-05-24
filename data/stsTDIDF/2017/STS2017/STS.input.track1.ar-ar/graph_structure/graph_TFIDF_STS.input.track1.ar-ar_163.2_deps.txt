@@ -1,0 +1,8 @@
+people	standing	acl
+standing	fish	nmod:in_front_of
+group	.-14)	punct
+fish	in	case
+people	three	nummod
+fish	empty	amod
+fish	swimming	compound
+fish	an	det

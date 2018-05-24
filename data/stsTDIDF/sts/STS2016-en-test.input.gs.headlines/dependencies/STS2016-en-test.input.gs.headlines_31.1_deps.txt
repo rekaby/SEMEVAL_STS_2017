@@ -1,0 +1,11 @@
+dep	plunge	Cars
+punct	plunge	,
+nsubj	plunge	drivers
+root	ROOT	plunge
+case	river	into
+nmod:into	plunge	river
+case	Wash.	after
+nmod:after	plunge	Wash.
+punct	plunge	.-9) compound(collapse-3, I-5
+compound	collapse	bridge
+root	ROOT	collapse

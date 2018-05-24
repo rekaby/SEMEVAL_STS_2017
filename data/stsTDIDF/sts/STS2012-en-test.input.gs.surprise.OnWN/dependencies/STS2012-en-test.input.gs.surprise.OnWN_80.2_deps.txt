@@ -1,0 +1,8 @@
+det	rush	an
+amod	rush	impetuous
+root	ROOT	rush
+case	someone	toward
+nmod:toward	rush	someone
+cc	someone	or
+conj:or	someone	something
+punct	rush	.

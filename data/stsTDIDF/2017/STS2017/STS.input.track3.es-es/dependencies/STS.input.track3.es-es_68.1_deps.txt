@@ -1,0 +1,6 @@
+nummod	men	Two
+nsubj	play	men
+root	ROOT	play
+dobj	play	cricket
+advmod	play	outside
+punct	play	.

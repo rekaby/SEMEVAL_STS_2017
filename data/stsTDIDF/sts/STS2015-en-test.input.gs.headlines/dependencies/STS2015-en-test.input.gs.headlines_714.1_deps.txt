@@ -1,0 +1,8 @@
+compound	Cup	Sevens
+compound	Cup	World
+nsubj	reach	Cup
+case	Kenya	within
+nmod:within	Cup	Kenya
+nummod	Kenya	‚
+dep	Cup	Äôs
+root	ROOT	reach

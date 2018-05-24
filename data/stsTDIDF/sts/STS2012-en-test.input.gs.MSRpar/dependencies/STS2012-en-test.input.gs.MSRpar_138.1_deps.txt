@@ -1,0 +1,17 @@
+nsubj	closed	Shares
+case	Mandalay	of
+nmod:of	Shares	Mandalay
+root	ROOT	closed
+advmod	closed	down
+nummod	cents	eight
+nmod:npmod	down	cents
+case	$	to
+nmod:to	closed	$
+nummod	$	29.42
+punct	closed	,
+mark	announced	before
+det	earnings	the
+nsubjpass	announced	earnings
+auxpass	announced	were
+advcl	closed	announced
+punct	closed	.

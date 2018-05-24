@@ -1,0 +1,5 @@
+root	ROOT	Couple
+case	baby	with
+amod	baby	newborn
+nmod:with	Couple	baby
+punct	Couple	.

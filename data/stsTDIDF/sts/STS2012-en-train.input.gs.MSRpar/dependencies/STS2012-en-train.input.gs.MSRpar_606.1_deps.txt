@@ -1,0 +1,16 @@
+nsubj	give	It
+aux	give	will
+advmod	give	also
+root	ROOT	give
+iobj	give	Microsoft
+det	opportunity	an
+dobj	give	opportunity
+mark	comment	to
+acl	opportunity	comment
+case	remedies	on
+nmod:on	comment	remedies
+acl	remedies	proposed
+case	Commission	by
+det	Commission	the
+nmod:by	proposed	Commission
+punct	give	.

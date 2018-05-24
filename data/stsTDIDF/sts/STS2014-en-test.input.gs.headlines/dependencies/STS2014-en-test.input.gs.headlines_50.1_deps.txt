@@ -1,0 +1,7 @@
+compound	party	Thai
+compound	party	opposition
+root	ROOT	party
+mark	boycott	to
+acl	party	boycott
+amod	election	general
+dobj	boycott	election

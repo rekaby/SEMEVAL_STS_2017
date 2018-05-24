@@ -1,0 +1,15 @@
+outfit	a	det
+fingers	his	nmod:poss
+outfit	cute	amod
+wearing	while	mark
+ROOT	chewing	root
+chewing	baby	nsubj
+chewing	.	punct
+chewing	fingers	nmod:on
+chewing	is	aux
+baby	A	det
+outfit	blue	amod
+outfit	striped	amod
+fingers	on	case
+chewing	wearing	advcl
+wearing	outfit	dobj

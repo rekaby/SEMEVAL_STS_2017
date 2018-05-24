@@ -1,0 +1,8 @@
+compound	bomb	Car
+nsubj	hits	bomb
+root	ROOT	hits
+amod	Ministry	Libyan
+compound	Ministry	Foreign
+dobj	hits	Ministry
+case	Benghazi	in
+nmod:in	hits	Benghazi

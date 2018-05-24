@@ -1,0 +1,10 @@
+couple	museum	nmod:in
+museum	looking	acl
+buy	something	dobj
+looking	shop	nmod:in
+couple	people	nmod:of
+museum	in	case
+buy	couple	nsubj
+buy	will	aux
+buy	potentially	advmod
+shop	gift	compound

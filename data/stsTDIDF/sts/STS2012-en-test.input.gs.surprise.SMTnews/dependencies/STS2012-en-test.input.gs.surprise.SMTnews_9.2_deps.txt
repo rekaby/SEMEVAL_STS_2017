@@ -1,0 +1,16 @@
+amod	Europa	Large
+compound	Europa	Pax
+nsubj	depends	Europa
+case	today	of
+nmod:of	Europa	today
+punct	Europa	,
+advmod	paneuropéenne	just
+case	paneuropéenne	like
+amod	paneuropéenne	current
+compound	paneuropéenne	prosperity
+nmod:like	Europa	paneuropéenne
+punct	Europa	,
+root	ROOT	depends
+case	it	on
+nmod:on	depends	it
+punct	depends	.

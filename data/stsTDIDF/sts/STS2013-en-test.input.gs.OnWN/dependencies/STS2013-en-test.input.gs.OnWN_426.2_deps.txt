@@ -1,0 +1,6 @@
+det	person	a
+root	ROOT	person
+nsubj	bombs	who
+compound	bombs	plants
+acl:relcl	person	bombs
+punct	person	.

@@ -1,0 +1,8 @@
+amod	bird	Black
+nsubj	sitting	bird
+root	ROOT	sitting
+case	slab	on
+det	slab	a
+amod	slab	concrete
+nmod:on	sitting	slab
+punct	sitting	.

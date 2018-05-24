@@ -1,0 +1,11 @@
+det	process	the
+amod	process	natural
+root	ROOT	process
+mark	laying	of
+acl	process	laying
+compound:prt	laying	down
+det	deposit	a
+dobj	laying	deposit
+case	something	of
+nmod:of	deposit	something
+punct	process	.

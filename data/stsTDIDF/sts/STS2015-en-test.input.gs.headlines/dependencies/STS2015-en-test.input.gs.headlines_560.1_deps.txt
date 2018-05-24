@@ -1,0 +1,16 @@
+root	ROOT	Hassoun
+case	delegation	to
+amod	delegation	Mauritanian
+nmod:to	Hassoun	delegation
+punct	Hassoun	:
+nsubj	targets	conspiracy
+acl	conspiracy	imposed
+case	Syria	on
+nmod:on	imposed	Syria
+dep	Hassoun	targets
+nmod:poss	stances	its
+dobj	targets	stances
+punct	targets	,
+advmod	Palestine	particularly
+case	Palestine	over
+nmod:over	targets	Palestine

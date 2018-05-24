@@ -1,0 +1,12 @@
+det	agency	the
+amod	agency	international
+amod	agency	atomic
+compound	agency	energy
+nsubj	watchdog	agency
+cop	watchdog	is
+det	u.n.	the
+nmod:poss	watchdog	u.n.
+case	u.n.	's
+amod	watchdog	nuclear
+root	ROOT	watchdog
+punct	watchdog	.

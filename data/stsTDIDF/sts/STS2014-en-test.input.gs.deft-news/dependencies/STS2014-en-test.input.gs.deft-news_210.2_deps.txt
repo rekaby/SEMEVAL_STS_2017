@@ -1,0 +1,12 @@
+compound	institutions	governance
+nsubj	ineffective	institutions
+aux	ineffective	have
+cop	ineffective	been
+root	ROOT	ineffective
+case	time	for
+det	time	a
+amod	time	long
+nmod:for	ineffective	time
+case	somalia	in
+nmod:in	time	somalia
+punct	ineffective	.

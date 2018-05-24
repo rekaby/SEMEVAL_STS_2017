@@ -1,0 +1,8 @@
+bicycle	on	case
+resting	.	punct
+man	elderly	amod
+bicycle	his	nmod:poss
+resting	bicycle	nmod:on
+resting	is	aux
+resting	man	nsubj
+ROOT	resting	root

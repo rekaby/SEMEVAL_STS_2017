@@ -1,0 +1,8 @@
+compound	Court	Supreme
+root	ROOT	Court
+mark	hear	to
+acl	Court	hear
+compound	case	Michigan
+amod	action	affirmative
+compound	case	action
+dobj	hear	case

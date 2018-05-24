@@ -1,0 +1,5 @@
+ROOT	wear	root
+wear	.	punct
+wear	people	nsubj
+wear	uniforms	dobj
+uniforms	work	compound

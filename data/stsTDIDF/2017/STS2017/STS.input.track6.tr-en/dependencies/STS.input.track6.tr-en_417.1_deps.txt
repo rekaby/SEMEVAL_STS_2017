@@ -1,0 +1,17 @@
+nummod	men	Two
+amod	men	older
+nsubj	having	men
+aux	having	are
+root	ROOT	having
+det	discussion	a
+dobj	having	discussion
+amod	discussion	outdoors
+case	area	in
+det	area	an
+nmod:in	outdoors	area
+case	walls	with
+compound	walls	stone
+nmod:with	area	walls
+cc	walls	and
+conj:and	walls	floor
+punct	having	.

@@ -1,0 +1,9 @@
+det	man	The
+root	ROOT	man
+case	pistol	in
+det	pistol	the
+amod	pistol	new
+compound	pistol	test
+compound	pistol	target
+nmod:in	man	pistol
+punct	man	.

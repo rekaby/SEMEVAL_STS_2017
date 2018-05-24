@@ -1,0 +1,8 @@
+taking	runner	nsubj
+taking	competition	nmod:in
+sprint	first	amod
+competition	a	det
+runner	A	det
+sprint	her	nmod:poss
+runner	competitive	amod
+taking	sprint	dobj

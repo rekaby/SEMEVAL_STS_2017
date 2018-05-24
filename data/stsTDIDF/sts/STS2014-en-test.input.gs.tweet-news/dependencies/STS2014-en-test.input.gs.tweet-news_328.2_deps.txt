@@ -1,0 +1,7 @@
+root	ROOT	Opinionator
+punct	Opinionator	:
+dep	Opinionator	Misconceptions
+case	Roe	About
+nmod:about	Misconceptions	Roe
+cc	Roe	v.
+conj:v.	Roe	Wade

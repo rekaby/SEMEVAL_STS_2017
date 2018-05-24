@@ -1,0 +1,8 @@
+compound	preps	Hawaii
+root	ROOT	preps
+case	hurricane	for
+amod	hurricane	first
+nmod:for	preps	hurricane
+case	years	in
+nummod	years	22
+nmod:in	hurricane	years

@@ -1,0 +1,7 @@
+compound	passenger	Missing
+compound	passenger	cruise
+nsubj	NSW	passenger
+cop	NSW	is
+det	NSW	a
+root	ROOT	NSW
+dep	NSW	ambo

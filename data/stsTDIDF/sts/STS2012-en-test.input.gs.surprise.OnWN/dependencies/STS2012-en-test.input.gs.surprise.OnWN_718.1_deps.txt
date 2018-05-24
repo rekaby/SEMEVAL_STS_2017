@@ -1,0 +1,15 @@
+root	ROOT	Convert
+det	information	the
+amod	information	genetic
+dobj	Convert	information
+case	strand	in
+det	strand	a
+nmod:in	information	strand
+case	DNA	of
+nmod:of	strand	DNA
+case	strand	into
+det	strand	a
+nmod:into	Convert	strand
+case	RNA	of
+nmod:of	strand	RNA
+punct	Convert	.

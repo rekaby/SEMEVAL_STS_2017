@@ -1,0 +1,17 @@
+det	aid	The
+amod	aid	specific
+nsubj	essential	aid
+case	support	as
+det	support	the
+nmod:as	aid	support
+case	market	of
+det	market	the
+nmod:of	support	market
+cc	market	or
+det	premium	the
+conj:or	market	premium
+case	grass	on
+nmod:on	market	grass
+cop	essential	are
+root	ROOT	essential
+punct	essential	.

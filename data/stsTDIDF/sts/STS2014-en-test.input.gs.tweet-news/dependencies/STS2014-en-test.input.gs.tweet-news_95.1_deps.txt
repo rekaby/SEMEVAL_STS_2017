@@ -1,0 +1,13 @@
+case	numbers	By
+det	numbers	the
+root	ROOT	numbers
+punct	numbers	:
+nsubj	good	Women
+case	nah	in
+det	nah	the
+compound	nah	U.S.
+amod	nah	military
+nmod:in	Women	nah
+neg	good	not
+dep	numbers	good
+dobj	good	idea

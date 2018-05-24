@@ -1,0 +1,14 @@
+mark	closed	if
+det	path	the
+nsubjpass	closed	path
+auxpass	closed	is
+advcl	affect	closed
+case	battery	with
+det	battery	the
+nmod:with	closed	battery
+punct	affect	,
+det	switch	the
+nsubj	affect	switch
+dep	switch	doesnt
+root	ROOT	affect
+dobj	affect	it

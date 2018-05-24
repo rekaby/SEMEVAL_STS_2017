@@ -1,0 +1,7 @@
+compound	toll	Death
+root	ROOT	toll
+case	tops	in
+compound	tops	Nepal
+compound	tops	earthquake
+nmod:in	toll	tops
+nummod	toll	8,000

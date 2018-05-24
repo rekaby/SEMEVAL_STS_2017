@@ -1,0 +1,9 @@
+root	ROOT	Books
+mark	Help	To
+acl	Books	Help
+compound	Talk	Kids
+dobj	Help	Talk
+case	News	About
+compound	News	Boston
+compound	News	Marathon
+nmod:about	Talk	News

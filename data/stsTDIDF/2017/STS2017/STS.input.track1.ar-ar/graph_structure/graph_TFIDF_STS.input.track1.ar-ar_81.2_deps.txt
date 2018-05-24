@@ -1,0 +1,8 @@
+buildings	in	case
+crosses	bridge	dobj
+buildings	a	det
+ROOT	crosses	root
+buildings	deserted	amod
+bridge	buildings	nmod:in_front_of
+crosses	.	punct
+crosses	man	nsubj

@@ -1,0 +1,14 @@
+det	dog	A
+nsubj	has	dog
+root	ROOT	has
+nsubj	head	it
+cop	head	's
+ccomp	has	head
+case	bag	inside
+det	bag	a
+amod	bag	red
+cc	red	and
+conj:and	red	green
+compound	bag	gift
+nmod:inside	head	bag
+punct	has	.

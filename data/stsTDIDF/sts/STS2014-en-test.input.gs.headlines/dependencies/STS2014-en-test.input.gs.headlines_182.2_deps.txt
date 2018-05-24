@@ -1,0 +1,5 @@
+amod	students	Chinese
+nsubj	attacked	students
+root	ROOT	attacked
+case	France	in
+nmod:in	attacked	France

@@ -1,0 +1,8 @@
+det	people	These
+nsubj	swimming	people
+aux	swimming	are
+root	ROOT	swimming
+case	competition	in
+det	competition	a
+nmod:in	swimming	competition
+punct	swimming	.

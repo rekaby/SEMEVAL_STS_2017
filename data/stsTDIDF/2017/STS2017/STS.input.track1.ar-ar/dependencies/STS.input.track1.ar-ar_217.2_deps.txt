@@ -1,0 +1,9 @@
+nsubj	enjoy	Women
+root	ROOT	enjoy
+det	work	the
+dobj	enjoy	work
+acl	work	required
+case	horses	outside
+case	horses	with
+nmod:with	required	horses
+punct	enjoy	.

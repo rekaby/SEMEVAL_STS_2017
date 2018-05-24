@@ -1,0 +1,6 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	sitting
+case	bikes	near
+nmod:poss	bikes	their
+nmod:near	sitting	bikes

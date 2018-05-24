@@ -1,0 +1,6 @@
+nsubj	kills	Bomb
+root	ROOT	kills
+nummod	civilians	18
+dobj	kills	civilians
+case	Afghanistan	in
+nmod:in	kills	Afghanistan

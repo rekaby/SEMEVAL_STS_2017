@@ -1,0 +1,13 @@
+band	A	det
+front	in	case
+guitarist	with	case
+band	guitarist	nmod:with
+placed	stage	nmod:on
+guitarist	player	conj:and
+ROOT	band	root
+band	placed	acl
+player	bass	compound
+guitarist	and	cc
+guitarist	front	nmod:in
+guitarist	the	det
+band	,	punct

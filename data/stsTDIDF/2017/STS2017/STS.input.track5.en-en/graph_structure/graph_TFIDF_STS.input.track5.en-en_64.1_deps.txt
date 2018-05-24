@@ -1,0 +1,5 @@
+drawn	horse	nmod:agent
+horse	by	case
+drawn	is	auxpass
+carriage	The	det
+drawn	carriage	nsubjpass

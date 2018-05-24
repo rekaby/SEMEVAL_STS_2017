@@ -1,0 +1,10 @@
+compound	Falls	Iran
+compound	Falls	Currency
+root	ROOT	Falls
+advmod	PRESSURE	Further
+case	PRESSURE	on
+amod	PRESSURE	U.S
+acl:on	Falls	PRESSURE
+case	transactions	Over
+compound	transactions	Banks
+nmod:over	PRESSURE	transactions

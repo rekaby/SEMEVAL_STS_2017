@@ -1,0 +1,6 @@
+det	people	the
+nsubj	running	people
+aux	running	are
+root	ROOT	running
+det	marathon	a
+dobj	running	marathon

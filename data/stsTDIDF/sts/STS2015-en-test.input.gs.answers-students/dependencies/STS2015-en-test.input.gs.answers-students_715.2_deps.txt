@@ -1,0 +1,11 @@
+det	voltage	A
+amod	voltage	non-zero
+nsubj	means	voltage
+root	ROOT	means
+mark	connected	that
+det	terminals	the
+nsubjpass	connected	terminals
+auxpass	connected	are
+neg	connected	not
+ccomp	means	connected
+punct	means	.

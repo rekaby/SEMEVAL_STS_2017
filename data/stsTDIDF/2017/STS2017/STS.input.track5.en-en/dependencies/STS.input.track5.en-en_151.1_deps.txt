@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	living
+case	desert	in
+det	desert	the
+nmod:in	living	desert

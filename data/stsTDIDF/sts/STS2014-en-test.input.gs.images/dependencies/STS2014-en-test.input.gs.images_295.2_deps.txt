@@ -1,0 +1,12 @@
+amod	bird	Large
+amod	bird	white
+root	ROOT	bird
+case	standing	with
+amod	standing	long
+amod	standing	orange
+compound	standing	beak
+nmod:with	bird	standing
+case	shoreline	on
+det	shoreline	the
+nmod:on	standing	shoreline
+punct	bird	.

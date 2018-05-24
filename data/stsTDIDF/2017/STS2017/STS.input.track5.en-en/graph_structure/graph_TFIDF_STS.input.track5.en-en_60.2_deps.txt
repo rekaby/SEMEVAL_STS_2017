@@ -1,0 +1,6 @@
+standing	person	nsubj
+building	holding	acl
+standing	building	nmod:in_front_of
+holding	plywood	dobj
+holding	aloft	compound:prt
+plywood	some	det

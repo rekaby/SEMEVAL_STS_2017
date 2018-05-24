@@ -1,0 +1,10 @@
+root	ROOT	17
+acl	17	killed
+case	attack	in
+compound	attack	US
+compound	attack	drone
+nmod:in	killed	attack
+case	party	on
+compound	party	Yemen
+compound	party	wedding
+nmod:on	attack	party

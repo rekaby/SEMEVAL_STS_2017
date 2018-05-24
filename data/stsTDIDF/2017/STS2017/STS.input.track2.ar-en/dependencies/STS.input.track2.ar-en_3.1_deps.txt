@@ -1,0 +1,14 @@
+det	man	A
+root	ROOT	man
+acl	man	working
+case	light	on
+det	light	a
+nmod:on	working	light
+nsubjpass	broken	that
+aux	broken	has
+auxpass	broken	been
+acl:relcl	light	broken
+case	week	for
+det	week	a
+nmod:for	broken	week
+punct	man	.

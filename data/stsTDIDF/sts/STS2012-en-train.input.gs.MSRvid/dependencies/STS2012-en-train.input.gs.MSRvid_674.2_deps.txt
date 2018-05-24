@@ -1,0 +1,11 @@
+det	cat	The
+nsubj	fished	cat
+root	ROOT	fished
+det	straw	a
+dobj	fished	straw
+case	ouf	out
+nmod:out	fished	ouf
+nmod:poss	dish	his
+compound	dish	water
+dep	ouf	dish
+punct	fished	.

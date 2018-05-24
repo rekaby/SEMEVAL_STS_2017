@@ -1,0 +1,3 @@
+is	person	nsubj
+tree	next	case
+person	tree	nmod:next_to

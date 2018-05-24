@@ -1,0 +1,5 @@
+nsubj	looking	People
+root	ROOT	looking
+case	garden	at
+det	garden	a
+nmod:at	looking	garden

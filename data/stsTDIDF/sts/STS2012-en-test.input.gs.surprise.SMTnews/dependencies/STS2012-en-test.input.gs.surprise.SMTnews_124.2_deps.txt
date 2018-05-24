@@ -1,0 +1,15 @@
+nsubj	thought	Tocqueville
+root	ROOT	thought
+case	run	in
+det	run	the
+amod	run	long
+nmod:in	thought	run
+punct	thought	,
+nsubjpass	opposed	nothing
+aux	opposed	can
+auxpass	opposed	be
+advmod	opposed	really
+ccomp	thought	opposed
+det	trend	this
+dobj	opposed	trend
+punct	thought	.

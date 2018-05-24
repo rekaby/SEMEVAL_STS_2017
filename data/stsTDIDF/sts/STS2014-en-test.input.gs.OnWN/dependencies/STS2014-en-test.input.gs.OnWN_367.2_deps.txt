@@ -1,0 +1,7 @@
+root	ROOT	hurl
+case	sling	as
+case	sling	if
+case	sling	with
+det	sling	a
+nmod:with	hurl	sling
+punct	hurl	.

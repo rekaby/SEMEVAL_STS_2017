@@ -1,0 +1,8 @@
+smiling	.	punct
+shirt	white	amod
+ROOT	smiling	root
+man	shirt	nmod:in
+pants	black	amod
+shirt	pants	conj:and
+smiling	man	nsubj
+smiling	is	aux

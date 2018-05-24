@@ -1,0 +1,9 @@
+root	ROOT	Many
+case	cars	of
+det	cars	the
+nmod:of	Many	cars
+acl	cars	parked
+case	mountain	on
+det	mountain	a
+nmod:on	parked	mountain
+punct	Many	.

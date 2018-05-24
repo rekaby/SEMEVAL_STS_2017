@@ -1,0 +1,10 @@
+compound	House	White
+nsubj	remarks	House
+case	control	in
+compound	control	damage
+nmod:in	House	control
+case	Court	over
+compound	Court	Obama
+compound	Court	Supreme
+nmod:over	House	Court
+root	ROOT	remarks

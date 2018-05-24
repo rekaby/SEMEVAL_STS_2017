@@ -1,0 +1,10 @@
+wheel	.	punct
+ROOT	wheel	root
+commanded	get	xcomp
+wheel	at	case
+commanded	of	mark
+commanded	them	dobj
+wheel	are	cop
+wheel	commanded	acl
+done	job	nsubj
+wheel	men	nsubj

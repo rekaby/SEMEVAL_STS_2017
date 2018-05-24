@@ -1,0 +1,9 @@
+root	ROOT	Make
+advmod	temperate	more
+dobj	Make	temperate
+punct	temperate	,
+conj:or	temperate	acceptable
+punct	temperate	,
+cc	temperate	or
+conj:or	temperate	suitable
+punct	Make	.

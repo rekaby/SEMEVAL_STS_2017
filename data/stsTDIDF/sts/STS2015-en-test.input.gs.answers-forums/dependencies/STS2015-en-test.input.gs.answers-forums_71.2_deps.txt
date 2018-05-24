@@ -1,0 +1,17 @@
+mark	said	As
+nsubj	said	bikeboy389
+advcl	learn	said
+punct	learn	,
+nsubj	learn	you
+aux	learn	can
+root	ROOT	learn
+det	lot	a
+dobj	learn	lot
+mark	looking	by
+advcl	learn	looking
+case	languages	at
+nmod:poss	languages	students
+case	students	'
+amod	languages	native
+nmod:at	looking	languages
+punct	learn	.

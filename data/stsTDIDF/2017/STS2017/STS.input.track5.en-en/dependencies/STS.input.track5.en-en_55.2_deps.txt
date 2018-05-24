@@ -1,0 +1,13 @@
+case	least	At
+nmod:npmod	one	least
+nsubj	talking	one
+case	women	of
+det	women	the
+nummod	women	three
+nmod:of	one	women
+aux	talking	is
+root	ROOT	talking
+case	others	to
+det	others	the
+nmod:to	talking	others
+punct	talking	.

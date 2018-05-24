@@ -1,0 +1,11 @@
+nsubj	was	reality
+dep	was	is
+punct	was	,
+nsubj	was	i
+root	ROOT	was
+advmod	was	there
+dep	there	before
+cc	before	and
+conj:and	before	returned
+advmod	returned	again
+punct	was	.

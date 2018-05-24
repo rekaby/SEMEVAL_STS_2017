@@ -1,0 +1,11 @@
+compound	message	NA
+compound	message	President
+compound	message	‚
+compound	message	Äôs
+root	ROOT	message
+case	Day	on
+det	Day	the
+compound	Day	World
+compound	Day	Press
+compound	Day	Freedom
+nmod:on	message	Day

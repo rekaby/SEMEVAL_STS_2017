@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+advmod	winning	simply
+neg	winning	no
+xcomp	is	winning
+case	Obama	for
+nmod:for	winning	Obama
+case	conservatives	among
+nmod:among	Obama	conservatives
+punct	is	.

@@ -1,0 +1,8 @@
+nsubj	sting	Teachers
+case	50	among
+nmod:among	Teachers	50
+acl	50	arrested
+case	sex	in
+compound	sex	child
+nmod:in	arrested	sex
+root	ROOT	sting

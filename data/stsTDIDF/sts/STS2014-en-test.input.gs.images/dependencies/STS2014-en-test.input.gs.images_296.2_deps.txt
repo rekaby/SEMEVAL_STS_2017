@@ -1,0 +1,10 @@
+compound	bus	White
+nsubj	parked	bus
+root	ROOT	parked
+case	grass	in
+nmod:in	parked	grass
+case	building	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	parked	building
+punct	parked	.

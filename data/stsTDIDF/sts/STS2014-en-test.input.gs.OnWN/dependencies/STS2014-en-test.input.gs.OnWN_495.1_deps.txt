@@ -1,0 +1,7 @@
+det	act	the
+nsubj	someone	act
+case	harming	of
+nmod:of	act	harming
+cc	harming	or
+conj:or	harming	hurting
+root	ROOT	someone

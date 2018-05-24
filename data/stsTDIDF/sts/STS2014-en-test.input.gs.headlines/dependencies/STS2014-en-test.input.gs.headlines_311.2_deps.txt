@@ -1,0 +1,7 @@
+compound	Sworn	Tony
+compound	Sworn	Abbott
+root	ROOT	Sworn
+case	PM	In
+case	PM	As
+compound	PM	Australia
+nmod:as	Sworn	PM

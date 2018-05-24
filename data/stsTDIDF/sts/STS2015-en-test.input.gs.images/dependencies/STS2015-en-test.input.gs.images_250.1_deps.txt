@@ -1,0 +1,11 @@
+det	group	A
+nsubj	studio	group
+case	ballerinas	of
+amod	ballerinas	young
+nmod:of	group	ballerinas
+cop	studio	are
+case	studio	in
+det	studio	a
+compound	studio	dance
+root	ROOT	studio
+punct	studio	.

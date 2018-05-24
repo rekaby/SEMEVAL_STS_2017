@@ -1,0 +1,8 @@
+man	work	acl:relcl
+ROOT	tourists	root
+man	from	case
+tourists	.	punct
+tourists	angry	amod
+tourists	Wife	amod
+work	mind	dobj
+tourists	man	nmod:from

@@ -1,0 +1,8 @@
+ROOT	crouched	root
+crouched	.	punct
+crouched	group	nsubj
+group	runners	nmod:of
+runners	of	case
+runners	five	nummod
+crouched	crowd	nmod:in_front_of
+crowd	large	amod

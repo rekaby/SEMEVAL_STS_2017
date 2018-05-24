@@ -1,0 +1,12 @@
+raking	is	aux
+raking	.	punct
+pile	leaves	nmod:of
+wearing	sweatshirt	dobj
+boy	wearing	acl
+pile	a	det
+sweatshirt	a	det
+leaves	of	case
+raking	pile	dobj
+raking	boy	nsubj
+ROOT	raking	root
+sweatshirt	red	amod

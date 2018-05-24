@@ -1,0 +1,9 @@
+det	representative	A
+amod	representative	Global
+compound	representative	Crossing
+nsubj	had	representative
+root	ROOT	had
+neg	comment	no
+amod	comment	immediate
+dobj	had	comment
+punct	had	.

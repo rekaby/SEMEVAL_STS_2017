@@ -1,0 +1,8 @@
+nsubj	denies	syria
+root	ROOT	denies
+xcomp	denies	having
+det	program	an
+amod	program	undeclared
+amod	program	nuclear
+dobj	having	program
+punct	denies	.

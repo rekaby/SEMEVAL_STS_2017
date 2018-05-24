@@ -1,0 +1,6 @@
+cry	.	punct
+ROOT	cry	root
+cry	child	nsubj
+cry	not	neg
+cry	does	aux
+child	The	det

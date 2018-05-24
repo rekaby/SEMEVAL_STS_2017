@@ -1,0 +1,11 @@
+det	answer	The
+amod	answer	correct
+nsubjpass	computed	answer
+aux	computed	can
+auxpass	computed	be
+root	ROOT	computed
+xcomp	computed	using
+nmod:poss	theorem	Bayes
+case	Bayes	'
+dobj	using	theorem
+punct	computed	.

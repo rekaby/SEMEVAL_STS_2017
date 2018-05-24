@@ -1,0 +1,7 @@
+car	and	cc
+car	Igilz	conj:and
+plays	car	nmod:in
+man	watching	acl
+plays	child	nsubj
+plays	man	conj:and
+watching	him	dobj

@@ -1,0 +1,13 @@
+compound	rate	Sweat
+nsubj	rate	rate
+cop	rate	is
+compound	rate	sweat
+root	ROOT	rate
+punct	rate	,
+nsubj	control	you
+aux	control	ca
+neg	control	n't
+advmod	control	really
+acl:relcl	rate	control
+dobj	control	it
+punct	rate	.

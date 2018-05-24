@@ -1,0 +1,12 @@
+det	man	A
+nsubj	climbs	man
+case	shirt	in
+det	shirt	a
+amod	shirt	gray
+nmod:in	man	shirt
+root	ROOT	climbs
+det	wall	a
+amod	wall	large
+compound	wall	rock
+dobj	climbs	wall
+punct	climbs	.

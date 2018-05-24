@@ -1,0 +1,6 @@
+carpet	on	case
+flies	.	punct
+ROOT	flies	root
+flies	carpet	nmod:on
+carpet	a	det
+flies	man	nsubj

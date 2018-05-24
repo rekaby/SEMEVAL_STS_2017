@@ -1,0 +1,4 @@
+are	sleeping	dep
+sleeping	park	nmod:at
+sleeping	people	nsubj
+park	at	case

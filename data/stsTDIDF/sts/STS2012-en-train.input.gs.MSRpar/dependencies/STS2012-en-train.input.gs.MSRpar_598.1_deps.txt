@@ -1,0 +1,12 @@
+nsubjpass	taken	She
+auxpass	taken	was
+root	ROOT	taken
+case	ambulance	by
+nmod:agent	taken	ambulance
+case	Hospital	to
+compound	Hospital	Charing
+compound	Hospital	Cross
+nmod:to	ambulance	Hospital
+case	Hammersmith	in
+nmod:in	taken	Hammersmith
+punct	taken	.

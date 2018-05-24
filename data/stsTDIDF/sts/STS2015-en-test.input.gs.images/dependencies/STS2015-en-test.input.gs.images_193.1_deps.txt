@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	small
+nsubj	runs	dog
+root	ROOT	runs
+case	course	through
+det	course	an
+compound	course	obstacle
+nmod:through	runs	course
+punct	runs	.

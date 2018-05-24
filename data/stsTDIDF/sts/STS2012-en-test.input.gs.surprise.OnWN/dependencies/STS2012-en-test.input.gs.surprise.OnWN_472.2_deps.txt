@@ -1,0 +1,14 @@
+root	ROOT	incite
+punct	incite	,
+conj:or	incite	move
+punct	incite	,
+cc	incite	or
+conj:or	incite	persuade
+case	act	to
+det	act	some
+nmod:to	persuade	act
+case	lawlessness	of
+nmod:of	act	lawlessness
+cc	lawlessness	or
+conj:or	lawlessness	insubordination
+punct	incite	.

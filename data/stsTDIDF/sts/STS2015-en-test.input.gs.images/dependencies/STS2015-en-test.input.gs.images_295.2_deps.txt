@@ -1,0 +1,16 @@
+det	man	a
+root	ROOT	man
+case	hat	in
+det	hat	a
+amod	hat	black
+nmod:in	man	hat
+amod	hat	standing
+case	wall	in
+mwe	in	front
+mwe	in	of
+det	wall	a
+compound	wall	brick
+nmod:in_front_of	standing	wall
+cc	man	and
+det	sign	a
+conj:and	man	sign

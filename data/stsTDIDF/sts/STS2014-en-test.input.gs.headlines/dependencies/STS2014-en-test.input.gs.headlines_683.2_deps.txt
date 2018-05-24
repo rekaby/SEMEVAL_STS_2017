@@ -1,0 +1,11 @@
+case	least	At
+nmod:npmod	47	least
+nummod	exiles	47
+amod	exiles	Iranian
+root	ROOT	exiles
+acl	exiles	killed
+case	Ashraf	at
+nmod:poss	Ashraf	Iraq
+case	Iraq	's
+compound	Ashraf	Camp
+nmod:at	killed	Ashraf

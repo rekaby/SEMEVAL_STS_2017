@@ -1,0 +1,10 @@
+det	measure	a
+root	ROOT	measure
+case	likelihood	of
+det	likelihood	the
+nmod:of	measure	likelihood
+cc	likelihood	or
+conj:or	likelihood	probability
+case	event	of
+det	event	an
+nmod:of	likelihood	event

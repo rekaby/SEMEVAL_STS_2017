@@ -1,0 +1,7 @@
+compound	Scrambles	China
+root	ROOT	Scrambles
+mark	Reassure	to
+acl	Scrambles	Reassure
+amod	Traders	Jittery
+compound	Traders	Stock
+dobj	Reassure	Traders

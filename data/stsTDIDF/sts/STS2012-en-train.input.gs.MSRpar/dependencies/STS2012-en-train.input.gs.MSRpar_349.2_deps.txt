@@ -1,0 +1,16 @@
+det	grant	The
+nsubj	testing	grant
+advmod	testing	also
+compound	testing	funds
+compound	testing	beach
+root	ROOT	testing
+case	County	in
+compound	County	King
+compound	County	George
+nmod:in	testing	County
+punct	County	,
+conj:and	County	Norfolk
+cc	County	and
+compound	Beach	Virginia
+conj:and	County	Beach
+punct	testing	.

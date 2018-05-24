@@ -1,0 +1,10 @@
+det	skateboarder	The
+nsubj	gets	skateboarder
+root	ROOT	gets
+case	top	to
+det	top	the
+nmod:to	gets	top
+case	ramp	of
+det	ramp	the
+nmod:of	top	ramp
+punct	gets	.

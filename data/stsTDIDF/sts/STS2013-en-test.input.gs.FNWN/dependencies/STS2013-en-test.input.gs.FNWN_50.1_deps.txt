@@ -1,0 +1,10 @@
+det	frame	this
+nsubj	describes	frame
+root	ROOT	describes
+det	instance	a
+amod	instance	particular
+dobj	describes	instance
+case	event	of
+det	event	an
+nmod:of	instance	event
+punct	describes	.

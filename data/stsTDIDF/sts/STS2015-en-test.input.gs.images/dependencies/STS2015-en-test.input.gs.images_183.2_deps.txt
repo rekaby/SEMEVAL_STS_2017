@@ -1,0 +1,14 @@
+nummod	children	Four
+nsubj	sit	children
+root	ROOT	sit
+case	stools	on
+amod	stools	tall
+compound	stools	bar
+nmod:on	sit	stools
+case	bar	at
+det	bar	a
+amod	bar	yellow
+cc	yellow	and
+conj:and	yellow	grey
+nmod:at	sit	bar
+punct	sit	.

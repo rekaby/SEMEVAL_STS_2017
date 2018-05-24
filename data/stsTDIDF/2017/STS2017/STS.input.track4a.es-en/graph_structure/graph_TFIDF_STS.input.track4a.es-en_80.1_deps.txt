@@ -1,0 +1,6 @@
+has	leash	dobj
+leash	safety	nmod:for
+has	pet	nsubj
+safety	for	case
+pet	The	det
+leash	a	det

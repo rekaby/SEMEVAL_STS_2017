@@ -1,0 +1,8 @@
+det	kids	The
+nsubj	stealing	kids
+aux	stealing	are
+root	ROOT	stealing
+case	store	from
+det	store	a
+nmod:from	stealing	store
+punct	stealing	.

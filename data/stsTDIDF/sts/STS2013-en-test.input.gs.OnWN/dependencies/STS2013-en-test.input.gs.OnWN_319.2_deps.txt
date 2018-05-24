@@ -1,0 +1,13 @@
+root	ROOT	reverse
+punct	direction	-LRB-
+det	direction	a
+dep	reverse	direction
+punct	direction	,
+conj:or	direction	attitude
+punct	direction	,
+cc	direction	or
+conj:or	direction	course
+case	action	of
+nmod:of	course	action
+punct	direction	-RRB-
+punct	reverse	.

@@ -1,0 +1,9 @@
+det	set	a
+root	ROOT	set
+case	pieces	of
+nmod:of	set	pieces
+case	work	of
+amod	work	creative
+nmod:of	pieces	work
+mark	showing	for
+acl	set	showing

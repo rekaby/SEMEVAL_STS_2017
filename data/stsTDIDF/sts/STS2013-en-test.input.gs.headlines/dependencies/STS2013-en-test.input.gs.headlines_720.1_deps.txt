@@ -1,0 +1,7 @@
+amod	quake	6.0-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+amod	Italy	northern
+dobj	hits	Italy
+punct	hits	:
+dep	hits	USGS

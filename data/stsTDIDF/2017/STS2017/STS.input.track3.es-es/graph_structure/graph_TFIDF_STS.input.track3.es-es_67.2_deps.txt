@@ -1,0 +1,8 @@
+dog	white	amod
+throws	.	punct
+dog	for	case
+ROOT	throws	root
+throws	dog	nmod:for
+dog	catch	acl
+throws	child	nsubj
+throws	something	dobj

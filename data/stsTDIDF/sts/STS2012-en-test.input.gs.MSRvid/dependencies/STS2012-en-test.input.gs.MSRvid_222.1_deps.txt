@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	cracks	woman
+root	ROOT	cracks
+nummod	eggs	two
+dobj	cracks	eggs
+case	bowl	into
+det	bowl	a
+compound	bowl	glass
+nmod:into	cracks	bowl
+punct	cracks	.

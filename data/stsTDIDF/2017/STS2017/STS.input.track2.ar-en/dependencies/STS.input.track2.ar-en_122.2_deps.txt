@@ -1,0 +1,13 @@
+det	group	A
+nsubj	high	group
+case	men	of
+nmod:of	group	men
+case	back	in
+det	back	the
+nmod:in	group	back
+case	loud	of
+det	loud	a
+compound	loud	truck
+compound	loud	Al
+nmod:of	back	loud
+root	ROOT	high

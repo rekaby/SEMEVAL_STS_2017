@@ -1,0 +1,7 @@
+det	bus	a
+root	ROOT	bus
+acl	bus	driving
+case	street	in
+det	street	a
+nmod:in	driving	street
+punct	bus	.

@@ -1,0 +1,13 @@
+det	argument	The
+nsubj	go	argument
+aux	go	was
+punct	go	``
+compound	Einstein	Albert
+nsubj	go	Einstein
+aux	go	did
+neg	go	n't
+root	ROOT	go
+case	college	to
+nmod:to	go	college
+punct	go	''
+punct	go	.

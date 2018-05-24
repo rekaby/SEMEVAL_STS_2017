@@ -1,0 +1,10 @@
+compound	girlfriend	Mobster
+punct	girlfriend	``
+compound	girlfriend	Whitey
+punct	girlfriend	''
+nmod:poss	girlfriend	Bulger
+case	Bulger	's
+nsubj	gets	girlfriend
+root	ROOT	gets
+nummod	years	8
+nmod:tmod	gets	years

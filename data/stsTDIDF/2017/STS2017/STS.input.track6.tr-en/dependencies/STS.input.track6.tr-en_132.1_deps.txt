@@ -1,0 +1,9 @@
+det	man	A
+nsubj	pajamas	man
+cop	pajamas	is
+case	pajamas	in
+nmod:poss	pajamas	his
+root	ROOT	pajamas
+acl	pajamas	watching
+dobj	watching	TV
+punct	pajamas	.

@@ -1,0 +1,11 @@
+det	photo	A
+amod	photo	black
+cc	black	and
+conj:and	black	white
+root	ROOT	photo
+case	fence	of
+det	fence	a
+amod	fence	dilapidated
+amod	fence	wooden
+nmod:of	photo	fence
+punct	photo	.

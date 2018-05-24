@@ -1,0 +1,7 @@
+det	man	The
+nsubj	builds	man
+root	ROOT	builds
+det	sand	a
+amod	sand	small
+dobj	builds	sand
+dobj	builds	castle

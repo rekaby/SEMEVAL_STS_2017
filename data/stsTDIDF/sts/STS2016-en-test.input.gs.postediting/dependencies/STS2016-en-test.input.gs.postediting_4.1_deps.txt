@@ -1,0 +1,16 @@
+cc	cease	And
+advmod	cease	perhaps
+nsubj	cease	we
+aux	cease	will
+root	ROOT	cease
+mark	call	to
+xcomp	cease	call
+nsubj	expensive	ourselves
+advmod	expensive	more
+xcomp	call	expensive
+case	rest	than
+det	rest	the
+nmod:than	expensive	rest
+case	Europe	of
+nmod:of	rest	Europe
+punct	cease	.

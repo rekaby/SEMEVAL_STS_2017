@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+compound:prt	cutting	open
+det	box	a
+dobj	cutting	box
+punct	cutting	.

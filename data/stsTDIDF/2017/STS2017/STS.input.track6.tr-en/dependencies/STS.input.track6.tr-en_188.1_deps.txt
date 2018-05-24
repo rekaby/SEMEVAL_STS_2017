@@ -1,0 +1,11 @@
+det	group	A
+nsubj	perform	group
+case	musicians	of
+nmod:of	group	musicians
+root	ROOT	perform
+case	people	in
+mwe	in	front
+mwe	in	of
+nummod	people	six
+nmod:in_front_of	perform	people
+punct	perform	.

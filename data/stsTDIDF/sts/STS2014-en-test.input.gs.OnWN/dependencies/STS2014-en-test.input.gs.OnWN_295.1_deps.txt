@@ -1,0 +1,9 @@
+det	fee	a
+amod	fee	fixed
+compound	fee	entrance
+root	ROOT	fee
+case	club	to
+det	club	a
+nmod:to	fee	club
+cc	fee	or
+conj:or	fee	venue

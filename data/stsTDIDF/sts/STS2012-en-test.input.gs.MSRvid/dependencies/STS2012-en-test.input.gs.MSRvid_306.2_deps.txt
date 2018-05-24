@@ -1,0 +1,11 @@
+nsubj	stirring	Someone
+aux	stirring	is
+root	ROOT	stirring
+det	pot	a
+dobj	stirring	pot
+case	chili	of
+nmod:of	pot	chili
+case	spoon	with
+det	spoon	a
+nmod:with	stirring	spoon
+punct	stirring	.

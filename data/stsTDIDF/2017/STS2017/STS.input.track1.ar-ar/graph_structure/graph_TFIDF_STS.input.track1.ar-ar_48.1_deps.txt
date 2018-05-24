@@ -1,0 +1,5 @@
+middle	Dog	compound
+middle	limp	amod
+ROOT	middle	root
+middle	.	punct
+middle	field	nmod:of

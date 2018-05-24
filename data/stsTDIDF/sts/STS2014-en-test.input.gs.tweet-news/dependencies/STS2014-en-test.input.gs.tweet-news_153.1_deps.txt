@@ -1,0 +1,14 @@
+dep	eliminated	Position
+punct	eliminated	``
+root	ROOT	eliminated
+punct	eliminated	''
+punct	eliminated	.-5) root(ROOT-0, Hmm
+punct	Hmm	.-2) nsubj(read-2, I
+root	ROOT	read
+punct	read	``
+dep	read	exterminated
+punct	exterminated	''
+punct	read	.-6) compound(Executive-2, Times
+nsubj	Leaving	Executive
+aux	Leaving	Is
+root	ROOT	Leaving

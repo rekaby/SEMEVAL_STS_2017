@@ -1,0 +1,9 @@
+compound	Mansour	Justice
+compound	Mansour	Adly
+root	ROOT	Mansour
+acl	Mansour	sworn
+case	president	in
+case	president	as
+compound	president	Egypt
+amod	president	interim
+nmod:as	sworn	president

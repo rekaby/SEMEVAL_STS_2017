@@ -1,0 +1,12 @@
+compound	shares	France
+compound	shares	Telecom
+nsubj	dropped	shares
+root	ROOT	dropped
+nummod	percent	3.6
+dobj	dropped	percent
+mark	surged	while
+nsubj	surged	Orange
+advcl	dropped	surged
+nummod	percent	13
+dobj	surged	percent
+punct	dropped	.

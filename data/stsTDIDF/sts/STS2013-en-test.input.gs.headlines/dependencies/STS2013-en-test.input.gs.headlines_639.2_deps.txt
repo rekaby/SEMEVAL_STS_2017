@@ -1,0 +1,8 @@
+nsubj	kills	Man
+case	uniform	in
+compound	uniform	Afghan
+compound	uniform	army
+nmod:in	Man	uniform
+root	ROOT	kills
+compound	soldier	NATO
+dobj	kills	soldier

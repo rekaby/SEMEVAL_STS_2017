@@ -1,0 +1,10 @@
+case	move	In
+compound	move	shock
+nmod:in	puts	move
+punct	puts	,
+nsubj	puts	Obama
+root	ROOT	puts
+nsubj	strike	Syria
+ccomp	puts	strike
+case	hold	on
+nmod:on	strike	hold

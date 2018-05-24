@@ -1,0 +1,15 @@
+det	men	Both
+nsubj	wheel	men
+cop	wheel	are
+case	wheel	at
+det	wheel	the
+root	ROOT	wheel
+mark	commanded	of
+acl	wheel	commanded
+dobj	commanded	them
+mark	get	to
+xcomp	commanded	get
+det	job	the
+nsubj	done	job
+ccomp	get	done
+punct	wheel	.

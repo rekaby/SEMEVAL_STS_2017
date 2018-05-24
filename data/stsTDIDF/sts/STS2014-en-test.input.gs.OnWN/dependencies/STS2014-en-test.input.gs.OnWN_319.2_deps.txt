@@ -1,0 +1,8 @@
+root	ROOT	have
+det	affection	a
+amod	affection	great
+dobj	have	affection
+cc	affection	or
+conj:or	affection	liking
+acl	affection	for
+punct	have	.

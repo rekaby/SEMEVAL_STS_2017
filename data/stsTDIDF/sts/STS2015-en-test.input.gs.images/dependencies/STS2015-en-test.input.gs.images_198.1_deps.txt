@@ -1,0 +1,7 @@
+nummod	people	Three
+nsubj	racing	people
+root	ROOT	racing
+case	skates	on
+compound	skates	ice
+nmod:on	racing	skates
+punct	racing	.

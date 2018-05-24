@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	fixes	woman
+root	ROOT	fixes
+nmod:poss	hair	her
+dobj	fixes	hair
+punct	fixes	.

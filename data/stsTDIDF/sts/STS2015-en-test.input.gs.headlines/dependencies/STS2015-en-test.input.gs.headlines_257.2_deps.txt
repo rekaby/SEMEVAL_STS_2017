@@ -1,0 +1,5 @@
+nsubj	blocks	Twitter
+root	ROOT	blocks
+dobj	blocks	content
+case	Pakistan	in
+nmod:in	content	Pakistan

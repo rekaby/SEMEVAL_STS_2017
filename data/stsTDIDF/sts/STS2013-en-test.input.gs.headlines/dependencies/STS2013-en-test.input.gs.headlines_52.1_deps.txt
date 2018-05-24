@@ -1,0 +1,8 @@
+compound	votes	Egypt
+root	ROOT	votes
+case	day	on
+amod	day	final
+nmod:on	votes	day
+case	election	of
+amod	election	presidential
+nmod:of	day	election

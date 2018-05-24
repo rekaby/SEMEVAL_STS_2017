@@ -1,0 +1,7 @@
+det	man	The
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+det	skunk	a
+dobj	holding	skunk
+punct	holding	.

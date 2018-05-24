@@ -1,0 +1,13 @@
+det	child	A
+nsubj	standing	child
+case	balloon	with
+det	balloon	a
+amod	balloon	green
+nmod:with	child	balloon
+aux	standing	is
+root	ROOT	standing
+case	building	outside
+det	building	a
+amod	building	large
+nmod:outside	standing	building
+punct	standing	.

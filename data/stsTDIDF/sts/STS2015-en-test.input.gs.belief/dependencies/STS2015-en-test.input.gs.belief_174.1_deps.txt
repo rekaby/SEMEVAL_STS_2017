@@ -1,0 +1,9 @@
+det	people	the
+nsubj	have	people
+root	ROOT	have
+det	right	a
+dobj	have	right
+mark	know	to
+acl	right	know
+punct	have	!
+punct	have	''

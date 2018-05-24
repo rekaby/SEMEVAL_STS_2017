@@ -1,0 +1,16 @@
+nsubj	tf-idf	One
+case	schemes	of
+det	schemes	the
+amod	schemes	best
+amod	schemes	known
+nmod:of	One	schemes
+cop	tf-idf	is
+amod	weighting	tf-idf
+punct	frequency	-LRB-
+compound	frequency	term
+compound	frequency	frequency-inverse
+compound	frequency	document
+appos	weighting	frequency
+punct	frequency	-RRB-
+root	ROOT	weighting
+punct	weighting	.

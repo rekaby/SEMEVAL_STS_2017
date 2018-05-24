@@ -1,0 +1,8 @@
+amod	Gillard	Australian
+compound	Gillard	PM
+nsubj	set	Gillard
+root	ROOT	set
+mark	win	to
+xcomp	set	win
+compound	challenge	leadership
+dobj	win	challenge

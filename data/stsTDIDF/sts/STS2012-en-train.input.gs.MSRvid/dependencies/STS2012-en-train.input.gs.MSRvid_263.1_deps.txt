@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	peeling	woman
+aux	peeling	is
+root	ROOT	peeling
+det	onion	an
+dobj	peeling	onion
+punct	peeling	.

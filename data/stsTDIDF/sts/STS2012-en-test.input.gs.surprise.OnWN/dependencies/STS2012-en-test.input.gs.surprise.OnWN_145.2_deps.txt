@@ -1,0 +1,8 @@
+det	event	an
+root	ROOT	event
+nsubj	accomplishes	that
+acl:relcl	event	accomplishes
+nmod:poss	purpose	its
+amod	purpose	intended
+dobj	accomplishes	purpose
+punct	event	.

@@ -1,0 +1,7 @@
+nsubj	deploys	Syria
+root	ROOT	deploys
+amod	troops	more
+dobj	deploys	troops
+case	deal	despite
+compound	deal	peace
+nmod:despite	deploys	deal

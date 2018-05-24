@@ -1,0 +1,17 @@
+nsubj	deciding	It
+aux	deciding	is
+advmod	deciding	more
+root	ROOT	deciding
+dobj	do	what
+nsubj	do	you
+aux	do	should
+ccomp	deciding	do
+cc	do	and
+dobj	get	what
+nsubj	get	you
+aux	get	should
+conj:and	do	get
+dobj	get	others
+mark	do	to
+xcomp	get	do
+punct	deciding	.

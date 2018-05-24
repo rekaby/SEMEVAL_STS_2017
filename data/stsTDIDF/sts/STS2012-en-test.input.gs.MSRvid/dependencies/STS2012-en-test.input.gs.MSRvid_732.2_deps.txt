@@ -1,0 +1,12 @@
+det	man	A
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	onion	a
+amod	onion	white
+dobj	slicing	onion
+case	slicer	with
+det	slicer	a
+compound	slicer	mandolin
+nmod:with	slicing	slicer
+punct	slicing	.

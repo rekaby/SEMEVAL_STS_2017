@@ -1,0 +1,7 @@
+root	ROOT	interfere
+case	activity	in
+compound	activity	someone
+nmod:poss	activity	else
+case	else	's
+nmod:in	interfere	activity
+punct	interfere	.

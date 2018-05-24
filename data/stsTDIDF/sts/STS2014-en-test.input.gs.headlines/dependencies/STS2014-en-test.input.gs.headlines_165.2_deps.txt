@@ -1,0 +1,10 @@
+compound	Jr.	Jesse
+compound	Jr.	Jackson
+root	ROOT	Jr.
+punct	Jr.	,
+appos	Jr.	Wife
+case	Guilty	to
+compound	Guilty	Plead
+nmod:to	Wife	Guilty
+case	Fraud	to
+nmod:to	Wife	Fraud

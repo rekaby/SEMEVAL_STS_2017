@@ -1,0 +1,6 @@
+compound	honours	Norway
+compound	honours	memorial
+amod	victims	honours
+nummod	victims	77
+compound	victims	massacre
+root	ROOT	victims

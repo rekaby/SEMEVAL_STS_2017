@@ -1,0 +1,9 @@
+det	pitcher	A
+nsubj	throws	pitcher
+case	mound	on
+det	mound	a
+nmod:on	pitcher	mound
+root	ROOT	throws
+det	baseball	a
+dobj	throws	baseball
+punct	throws	.

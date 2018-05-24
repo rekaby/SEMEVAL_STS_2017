@@ -1,0 +1,8 @@
+amod	players	Many
+compound	players	football
+root	ROOT	players
+acl	players	sitting
+case	ground	on
+det	ground	the
+nmod:on	sitting	ground
+punct	players	.

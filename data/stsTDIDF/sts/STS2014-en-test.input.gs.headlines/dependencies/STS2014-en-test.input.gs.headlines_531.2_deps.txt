@@ -1,0 +1,8 @@
+nsubj	fight	Websites
+root	ROOT	fight
+amod	comments	nasty
+dobj	fight	comments
+mark	taking	by
+advcl	fight	taking
+compound:prt	taking	away
+dobj	taking	anonymity

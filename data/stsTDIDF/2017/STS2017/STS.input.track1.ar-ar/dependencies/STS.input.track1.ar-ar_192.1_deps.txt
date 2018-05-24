@@ -1,0 +1,8 @@
+root	ROOT	Atorjuhan
+nummod	children	two
+dobj	Atorjuhan	children
+case	stadium	in
+det	stadium	a
+amod	stadium	crowded
+nmod:in	Atorjuhan	stadium
+punct	Atorjuhan	.

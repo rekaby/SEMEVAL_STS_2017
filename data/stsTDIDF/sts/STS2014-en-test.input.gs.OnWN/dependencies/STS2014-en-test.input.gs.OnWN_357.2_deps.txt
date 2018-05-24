@@ -1,0 +1,10 @@
+root	ROOT	make
+xcomp	make	weak
+mark	stunting	by
+advcl	make	stunting
+det	growth	the
+dobj	stunting	growth
+cc	growth	or
+conj:or	growth	development
+acl	growth	of
+punct	make	.

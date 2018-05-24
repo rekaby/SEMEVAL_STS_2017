@@ -1,0 +1,8 @@
+compound	experts	Weapons
+nsubj	leave	experts
+advcl	prepares	leave
+dobj	leave	Syria
+punct	prepares	,
+nsubj	prepares	U.S.
+root	ROOT	prepares
+dobj	prepares	attack

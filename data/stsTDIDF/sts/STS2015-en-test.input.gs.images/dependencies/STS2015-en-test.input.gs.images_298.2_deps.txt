@@ -1,0 +1,11 @@
+nsubj	play	Lots
+case	people	of
+nmod:of	Lots	people
+root	ROOT	play
+case	water	in
+det	water	the
+nmod:in	play	water
+case	beach	at
+det	beach	the
+nmod:at	play	beach
+punct	play	.

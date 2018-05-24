@@ -1,0 +1,9 @@
+nsubj	launches	Coty
+root	ROOT	launches
+amod	bid	$
+compound	billion	10
+nummod	$	billion
+dobj	launches	bid
+case	Avon	for
+amod	Avon	rival
+nmod:for	bid	Avon

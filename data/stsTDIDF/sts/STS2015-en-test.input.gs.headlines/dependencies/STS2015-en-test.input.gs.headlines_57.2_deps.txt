@@ -1,0 +1,9 @@
+amod	Deal	Tentative
+root	ROOT	Deal
+acl	Deal	Reached
+mark	Resume	to
+xcomp	Reached	Resume
+amod	Talks	Israeli-Palestinian
+dobj	Resume	Talks
+punct	Resume	-
+dep	Resume	US

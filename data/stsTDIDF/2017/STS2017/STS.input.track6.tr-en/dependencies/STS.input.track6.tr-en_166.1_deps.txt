@@ -1,0 +1,7 @@
+det	bird	A
+root	ROOT	bird
+acl	bird	flying
+case	desert	over
+det	desert	a
+nmod:over	flying	desert
+punct	bird	.

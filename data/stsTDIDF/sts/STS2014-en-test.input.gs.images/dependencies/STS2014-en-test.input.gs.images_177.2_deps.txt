@@ -1,0 +1,8 @@
+det	close	A
+root	ROOT	close
+case	face	up
+case	face	of
+det	face	an
+amod	face	ostrich
+nmod:of	close	face
+punct	close	.

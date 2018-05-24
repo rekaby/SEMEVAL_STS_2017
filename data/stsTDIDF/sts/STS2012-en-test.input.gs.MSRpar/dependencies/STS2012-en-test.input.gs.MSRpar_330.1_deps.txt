@@ -1,0 +1,13 @@
+punct	said	``
+det	gloves	The
+nsubj	are	gloves
+ccomp	said	are
+advmod	are	off
+punct	said	,
+punct	said	''
+root	ROOT	said
+compound	O'Neill	UNIFI
+compound	O'Neill	official
+compound	O'Neill	Rob
+nsubj	said	O'Neill
+punct	said	.

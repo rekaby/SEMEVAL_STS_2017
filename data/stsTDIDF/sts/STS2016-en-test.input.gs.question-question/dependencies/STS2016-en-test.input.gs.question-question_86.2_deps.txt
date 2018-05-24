@@ -1,0 +1,13 @@
+root	ROOT	What
+cop	What	are
+det	bugs	these
+nsubj	What	bugs
+cc	bugs	and
+advmod	rid	how
+aux	rid	do
+nsubj	rid	I
+dep	rid	get
+conj:and	bugs	rid
+case	them	of
+nmod:of	rid	them
+punct	What	?

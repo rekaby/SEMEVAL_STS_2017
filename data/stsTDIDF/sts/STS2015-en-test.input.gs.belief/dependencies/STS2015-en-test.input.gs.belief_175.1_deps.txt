@@ -1,0 +1,12 @@
+nsubj	purpose	that
+cop	purpose	is
+det	purpose	the
+amod	purpose	real
+root	ROOT	purpose
+case	trade	behind
+amod	trade	so-called
+punct	trade	``
+amod	trade	free
+nmod:behind	purpose	trade
+punct	purpose	.
+punct	purpose	''

@@ -1,0 +1,11 @@
+det	bulb	the
+nsubj	path	bulb
+cop	path	is
+neg	fully	not
+advmod	path	fully
+case	path	in
+det	path	the
+root	ROOT	path
+case	circuit	of
+det	circuit	the
+nmod:of	path	circuit

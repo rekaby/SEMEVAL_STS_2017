@@ -1,0 +1,11 @@
+nsubj	depends	It
+root	ROOT	depends
+case	sauce	on
+det	sauce	the
+nmod:on	depends	sauce
+cc	sauce	and
+det	result	the
+conj:and	sauce	result
+nsubj	want	you
+acl:relcl	result	want
+punct	depends	.

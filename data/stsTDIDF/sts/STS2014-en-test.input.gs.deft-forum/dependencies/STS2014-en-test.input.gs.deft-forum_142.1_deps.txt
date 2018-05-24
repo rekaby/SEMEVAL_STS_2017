@@ -1,0 +1,9 @@
+det	bailout	The
+nsubj	bigger	bailout
+cop	bigger	was
+root	ROOT	bigger
+case	news	than
+compound	news	TARP
+compound	news	Bloomberg
+nmod:than	bigger	news
+punct	bigger	.

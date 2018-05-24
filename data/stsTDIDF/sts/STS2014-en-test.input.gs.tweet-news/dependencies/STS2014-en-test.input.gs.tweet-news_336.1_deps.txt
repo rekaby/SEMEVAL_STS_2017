@@ -1,0 +1,21 @@
+punct	??	``
+dep	??	Husbands
+case	Hollywood	of
+nmod:of	Husbands	Hollywood
+punct	Husbands	''
+root	ROOT	??-6) amod(satire-2, gender-flipped
+root	ROOT	satire
+case	TV	of
+compound	TV	reality
+nmod:of	satire	TV
+punct	satire	...
+cc	satire	&
+amod	commentary	subtle
+conj:&	satire	commentary
+case	options	on
+amod	options	limited
+nmod:on	commentary	options
+case	actors	for
+amod	actors	black
+nmod:for	options	actors
+punct	satire	.

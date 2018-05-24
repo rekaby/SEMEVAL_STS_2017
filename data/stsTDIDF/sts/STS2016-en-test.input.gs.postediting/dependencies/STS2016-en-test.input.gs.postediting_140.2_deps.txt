@@ -1,0 +1,9 @@
+root	ROOT	But
+nsubj	does	what
+ccomp	But	does
+nsubj	mean	that
+ccomp	does	mean
+case	emotions	for
+det	emotions	the
+nmod:for	mean	emotions
+punct	But	?

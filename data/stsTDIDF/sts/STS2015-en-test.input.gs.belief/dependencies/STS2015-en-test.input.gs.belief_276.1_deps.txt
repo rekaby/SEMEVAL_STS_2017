@@ -1,0 +1,13 @@
+root	ROOT	2
+punct	2	.-2) advcl(deserve-8, changing
+det	subject	the
+dobj	changing	subject
+aux	deserve	do
+advmod	rich	only
+det	rich	the
+nsubj	deserve	rich
+root	ROOT	deserve
+det	healthcare	the
+amod	healthcare	best
+dobj	deserve	healthcare
+punct	deserve	?

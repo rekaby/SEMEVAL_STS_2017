@@ -1,0 +1,4 @@
+det	driver	A
+nsubj	wears	driver
+root	ROOT	wears
+dobj	wears	blue

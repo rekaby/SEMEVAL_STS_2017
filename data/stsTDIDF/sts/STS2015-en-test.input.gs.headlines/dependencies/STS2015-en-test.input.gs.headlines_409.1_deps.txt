@@ -1,0 +1,9 @@
+nsubj	enter	US
+punct	US	,
+appos	US	Russia
+root	ROOT	enter
+amod	day	third
+nmod:tmod	enter	day
+case	Syria	of
+nmod:of	day	Syria
+dobj	enter	talks

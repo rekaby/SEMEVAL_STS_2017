@@ -1,0 +1,6 @@
+det	degree	the
+root	ROOT	degree
+cc	degree	or
+conj:or	degree	amount
+case	something	of
+nmod:of	degree	something

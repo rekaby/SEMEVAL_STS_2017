@@ -1,0 +1,16 @@
+det	dog	A
+amod	dog	brown
+nsubj	jumping	dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	up
+mark	catch	to
+xcomp	jumping	catch
+det	strap	a
+amod	strap	green
+dobj	catch	strap
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	catch	mouth
+punct	jumping	.

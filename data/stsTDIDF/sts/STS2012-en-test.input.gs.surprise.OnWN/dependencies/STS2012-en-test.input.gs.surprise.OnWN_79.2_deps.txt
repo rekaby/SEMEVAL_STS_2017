@@ -1,0 +1,15 @@
+det	number	a
+root	ROOT	number
+cc	number	or
+conj:or	number	letter
+acl	number	indicating
+dobj	indicating	quality
+punct	performance	-LRB-
+advmod	performance	especially
+case	performance	of
+det	student	a
+nmod:poss	performance	student
+case	student	's
+appos	quality	performance
+punct	performance	-RRB-
+punct	number	.

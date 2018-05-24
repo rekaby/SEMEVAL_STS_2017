@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	walk	woman
+conj:and	man	walk
+case	woods	through
+det	woods	the
+nmod:through	walk	woods
+punct	man	.

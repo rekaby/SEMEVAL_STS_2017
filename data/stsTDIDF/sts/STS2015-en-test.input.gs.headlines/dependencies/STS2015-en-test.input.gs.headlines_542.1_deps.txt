@@ -1,0 +1,9 @@
+nsubj	agrees	Israel
+root	ROOT	agrees
+mark	extend	to
+xcomp	agrees	extend
+compound	truce	Gaza
+dobj	extend	truce
+case	hours	by
+nummod	hours	four
+nmod:by	extend	hours

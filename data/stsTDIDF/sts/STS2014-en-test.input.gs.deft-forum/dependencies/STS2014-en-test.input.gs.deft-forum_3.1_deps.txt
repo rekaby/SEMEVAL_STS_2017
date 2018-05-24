@@ -1,0 +1,7 @@
+det	problem	The
+nsubj	simpler	problem
+cop	simpler	is
+root	ROOT	simpler
+case	that	than
+nmod:than	simpler	that
+punct	simpler	.

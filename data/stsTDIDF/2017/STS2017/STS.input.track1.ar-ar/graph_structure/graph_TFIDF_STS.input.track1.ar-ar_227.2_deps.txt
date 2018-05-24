@@ -1,0 +1,5 @@
+ROOT	spared	root
+spared	.	punct
+friend	with	case
+spared	friend	nmod:with
+spared	Child	nsubj

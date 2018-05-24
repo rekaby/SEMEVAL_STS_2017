@@ -1,0 +1,10 @@
+workers	construction	compound
+track	along	case
+line	A	det
+line	workers	nmod:of
+overpass	an	det
+walk	line	nsubj
+track	overpass	nmod:under
+walk	track	nmod:along
+track	train	compound
+overpass	under	case

@@ -1,0 +1,5 @@
+going	Someone	nsubj
+swim	to	mark
+ocean	in	case
+going	swim	xcomp
+swim	ocean	nmod:in

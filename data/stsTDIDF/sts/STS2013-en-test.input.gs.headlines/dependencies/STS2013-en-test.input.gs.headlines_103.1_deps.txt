@@ -1,0 +1,9 @@
+amod	Apple	Cash-rich
+nsubj	buy	Apple
+mark	pay	to
+acl	Apple	pay
+dobj	pay	dividend
+punct	Apple	,
+root	ROOT	buy
+compound:prt	buy	back
+dobj	buy	shares

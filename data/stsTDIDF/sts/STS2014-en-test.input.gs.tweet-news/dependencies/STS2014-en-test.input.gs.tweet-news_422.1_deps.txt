@@ -1,0 +1,18 @@
+advmod	fell	How
+det	hero	an
+amod	hero	all-American
+nsubj	fell	hero
+root	ROOT	fell
+case	earth	to
+nmod:to	fell	earth
+punct	fell	-
+punct	fell	.-9) punct(gone-8, -LRB-
+advmod	have	Where
+dep	gone	have
+det	heroes	all
+det	heroes	the
+amod	heroes	REAL
+nsubj	gone	heroes
+root	ROOT	gone
+punct	gone	?
+punct	gone	-RRB-

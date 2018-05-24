@@ -1,0 +1,9 @@
+compound	Gox	Mt
+nsubj	reveals	Gox
+root	ROOT	reveals
+nummod	haul	200,000
+punct	haul	`
+amod	haul	forgotten
+punct	haul	'
+compound	haul	bitcoin
+dobj	reveals	haul

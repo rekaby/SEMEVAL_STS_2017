@@ -1,0 +1,10 @@
+det	monkey	A
+nsubj	teasing	monkey
+aux	teasing	is
+root	ROOT	teasing
+det	dog	a
+dobj	teasing	dog
+case	zoo	at
+det	zoo	the
+nmod:at	teasing	zoo
+punct	teasing	.

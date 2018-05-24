@@ -1,0 +1,10 @@
+compound	Africa	South
+nsubj	hosts	Africa
+root	ROOT	hosts
+punct	hosts	`
+compound	talks	peace
+root	`	talks
+case	talks	'
+case	standoff	in
+amod	standoff	mine
+nmod:in	talks	standoff

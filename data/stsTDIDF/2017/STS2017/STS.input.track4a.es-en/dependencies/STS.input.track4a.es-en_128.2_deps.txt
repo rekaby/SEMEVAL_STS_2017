@@ -1,0 +1,13 @@
+det	person	A
+nsubj	running	person
+case	dress	in
+det	dress	a
+amod	dress	red
+nmod:in	person	dress
+aux	running	is
+root	ROOT	running
+case	animal	behind
+det	animal	a
+amod	animal	black
+nmod:behind	running	animal
+punct	running	.

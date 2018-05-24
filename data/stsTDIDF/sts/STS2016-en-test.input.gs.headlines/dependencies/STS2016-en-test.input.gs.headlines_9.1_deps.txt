@@ -1,0 +1,10 @@
+root	ROOT	Rocks
+punct	Rocks	,
+compound	Gas	Tear
+nsubj	Fly	Gas
+acl:relcl	Rocks	Fly
+case	Heat	as
+compound	Heat	Thai
+compound	Heat	Protests
+nmod:as	Fly	Heat
+advmod	Rocks	Up

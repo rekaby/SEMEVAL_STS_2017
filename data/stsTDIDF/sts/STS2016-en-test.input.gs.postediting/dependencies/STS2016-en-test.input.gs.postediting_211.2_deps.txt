@@ -1,0 +1,17 @@
+det	Treasury	The
+nsubj	estimates	Treasury
+root	ROOT	estimates
+mark	450millions	that
+det	interests	the
+nsubj	450millions	interests
+case	loan	of
+det	loan	the
+nmod:of	interests	loan
+aux	450millions	will
+case	2009	in
+nmod:in	450millions	2009
+punct	450millions	,
+case	450millions	to
+compound	450millions	#
+ccomp	estimates	450millions
+punct	estimates	.

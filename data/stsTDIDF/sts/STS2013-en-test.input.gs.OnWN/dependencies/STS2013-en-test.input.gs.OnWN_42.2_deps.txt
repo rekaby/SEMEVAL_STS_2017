@@ -1,0 +1,9 @@
+root	ROOT	turning
+cc	turning	or
+conj:or	turning	twisting
+compound:prt	turning	around
+punct	place	-LRB-
+case	place	in
+nmod:in	turning	place
+punct	place	-RRB-
+punct	turning	.

@@ -1,0 +1,8 @@
+amod	king	Belgian
+root	ROOT	king
+mark	address	to
+acl	king	address
+dobj	address	nation
+case	speculation	amid
+compound	speculation	abdication
+nmod:amid	address	speculation

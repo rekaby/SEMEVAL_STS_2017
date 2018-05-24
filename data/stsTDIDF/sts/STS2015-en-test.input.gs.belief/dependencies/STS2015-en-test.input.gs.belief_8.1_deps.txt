@@ -1,0 +1,8 @@
+det	plot	this
+punct	plot	``
+nsubj	smells	plot
+punct	plot	''
+root	ROOT	smells
+det	rat	a
+dobj	smells	rat
+punct	smells	.

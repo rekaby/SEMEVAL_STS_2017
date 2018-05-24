@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+nsubj	makes	who
+acl:relcl	man	makes
+compound	numbers	bicycle
+dobj	makes	numbers
+punct	man	.

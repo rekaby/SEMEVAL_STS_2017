@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	cycling	men
+case	suits	in
+nmod:in	men	suits
+aux	cycling	are
+root	ROOT	cycling
+case	crosswalk	through
+det	crosswalk	a
+nmod:through	cycling	crosswalk
+punct	cycling	.

@@ -1,0 +1,5 @@
+compound	Crash	Glasgow
+compound	Crash	Helicopter
+nsubj	Search	Crash
+root	ROOT	Search
+dobj	Search	Ends

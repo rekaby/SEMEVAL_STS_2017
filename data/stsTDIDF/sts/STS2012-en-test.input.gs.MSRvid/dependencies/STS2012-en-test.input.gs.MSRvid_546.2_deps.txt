@@ -1,0 +1,8 @@
+det	man	A
+nsubj	talking	man
+aux	talking	is
+root	ROOT	talking
+case	woman	to
+det	woman	a
+nmod:to	talking	woman
+punct	talking	.

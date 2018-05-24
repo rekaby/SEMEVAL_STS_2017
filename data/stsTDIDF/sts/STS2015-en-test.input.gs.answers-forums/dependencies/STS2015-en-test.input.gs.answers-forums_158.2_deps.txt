@@ -1,0 +1,15 @@
+advmod	article	Here
+cop	article	is
+det	article	an
+amod	article	interesting
+root	ROOT	article
+case	wikipedia	on
+nmod:on	article	wikipedia
+mark	give	to
+acl	article	give
+dobj	give	overview
+case	pressure	of
+nmod:of	overview	pressure
+amod	injuries	related
+dep	pressure	injuries
+punct	article	.

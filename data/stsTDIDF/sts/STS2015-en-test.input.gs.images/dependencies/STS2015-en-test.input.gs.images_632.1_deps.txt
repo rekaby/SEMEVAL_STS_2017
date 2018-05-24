@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+case	rides	with
+det	rides	a
+amod	rides	grey
+compound	rides	beard
+nmod:with	man	rides
+nmod:poss	bike	his
+dep	rides	bike
+case	beach	on
+det	beach	the
+nmod:on	bike	beach
+case	ocean	of
+det	ocean	the
+nmod:of	beach	ocean
+punct	man	.

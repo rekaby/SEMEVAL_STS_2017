@@ -1,0 +1,11 @@
+case	least	At
+nmod:npmod	two	least
+nummod	Nato	two
+root	ROOT	Nato
+acl	Nato	killed
+case	crash	in
+compound	crash	Afghanistan
+compound	crash	helicopter
+nmod:in	killed	crash
+punct	Nato	:
+dep	Nato	military

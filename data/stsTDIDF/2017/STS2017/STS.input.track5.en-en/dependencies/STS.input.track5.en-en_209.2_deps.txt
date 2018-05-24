@@ -1,0 +1,6 @@
+det	group	A
+root	ROOT	group
+acl	group	wading
+case	ditch	across
+det	ditch	a
+nmod:across	wading	ditch

@@ -1,0 +1,17 @@
+det	ruling	The
+nummod	ruling	6-3
+nsubj	reinstates	ruling
+root	ROOT	reinstates
+det	law	a
+dobj	reinstates	law
+nsubj	told	that
+acl:relcl	law	told
+dobj	told	libraries
+mark	install	to
+xcomp	told	install
+dobj	install	filters
+cc	install	or
+conj:or	install	surrender
+amod	money	federal
+dobj	surrender	money
+punct	reinstates	.

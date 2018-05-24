@@ -1,0 +1,16 @@
+mark	closed	if
+nsubjpass	closed	switches
+dep	switches	X
+cc	X	and
+conj:and	X	Z
+auxpass	closed	are
+advcl	complete	closed
+nsubj	complete	it
+aux	complete	will
+root	ROOT	complete
+det	circuit	the
+amod	circuit	closed
+dobj	complete	circuit
+case	bulb	for
+nmod:for	complete	bulb
+nummod	bulb	A

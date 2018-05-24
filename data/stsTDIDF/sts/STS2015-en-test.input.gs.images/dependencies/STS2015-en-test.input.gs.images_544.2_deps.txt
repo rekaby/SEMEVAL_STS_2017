@@ -1,0 +1,13 @@
+det	man	A
+nsubj	stands	man
+case	jersey	in
+det	jersey	a
+nmod:in	man	jersey
+root	ROOT	stands
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+amod	crowd	large
+nmod:in_front_of	stands	crowd
+punct	stands	.

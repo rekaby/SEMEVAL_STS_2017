@@ -1,0 +1,8 @@
+compound	shares	Tokyo
+root	ROOT	shares
+amod	higher	open
+amod	shares	higher
+case	performance	following
+amod	performance	strong
+compound	performance	U.S.
+nmod:following	higher	performance

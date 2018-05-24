@@ -1,0 +1,6 @@
+amod	weather	Extreme
+root	ROOT	weather
+punct	weather	:
+dep	weather	expect
+det	unexpected	the
+dobj	expect	unexpected

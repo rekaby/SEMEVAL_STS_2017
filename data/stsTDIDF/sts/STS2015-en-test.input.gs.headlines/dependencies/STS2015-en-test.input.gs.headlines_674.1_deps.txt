@@ -1,0 +1,6 @@
+nsubj	blames	Imran
+root	ROOT	blames
+dobj	blames	rival
+case	murder	for
+compound	murder	colleague
+nmod:for	rival	murder

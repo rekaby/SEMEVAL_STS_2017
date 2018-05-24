@@ -1,0 +1,8 @@
+det	bird	A
+amod	bird	small
+root	ROOT	bird
+dep	bird	eating
+case	feeder	from
+det	feeder	the
+nmod:from	eating	feeder
+punct	bird	.

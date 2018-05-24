@@ -1,0 +1,9 @@
+det	person	A
+nsubj	mixing	person
+aux	mixing	is
+root	ROOT	mixing
+dobj	mixing	ingredients
+case	bowl	in
+det	bowl	a
+nmod:in	ingredients	bowl
+punct	mixing	.

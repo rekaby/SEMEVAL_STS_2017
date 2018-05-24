@@ -1,0 +1,11 @@
+det	officer	A
+compound	officer	police
+nsubj	watching	officer
+aux	watching	is
+root	ROOT	watching
+det	one	every
+dobj	watching	one
+case	parade	at
+det	parade	the
+nmod:at	watching	parade
+punct	watching	.

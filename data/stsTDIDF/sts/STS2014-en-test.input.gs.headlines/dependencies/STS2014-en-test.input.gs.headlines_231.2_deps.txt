@@ -1,0 +1,10 @@
+nsubj	invests	Google
+root	ROOT	invests
+compound	million	200
+nummod	USD	million
+dobj	invests	USD
+case	project	in
+compound	project	Texas
+compound	project	wind
+compound	project	farm
+nmod:in	USD	project

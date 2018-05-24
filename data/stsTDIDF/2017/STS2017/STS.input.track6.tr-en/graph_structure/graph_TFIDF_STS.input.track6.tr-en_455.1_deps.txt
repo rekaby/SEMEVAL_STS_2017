@@ -1,0 +1,8 @@
+cruising	.	punct
+cruising	road	nmod:down
+cruising	are	aux
+ROOT	cruising	root
+bikes	on	case
+road	bikes	nmod:on
+bikes	their	nmod:poss
+cruising	people	nsubj

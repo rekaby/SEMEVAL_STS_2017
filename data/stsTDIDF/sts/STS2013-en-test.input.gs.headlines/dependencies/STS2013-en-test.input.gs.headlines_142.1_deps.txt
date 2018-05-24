@@ -1,0 +1,8 @@
+compound	Sandy	Hurricane
+nsubj	Closes	Sandy
+root	ROOT	Closes
+case	Coast	in
+case	Coast	on
+compound	Coast	US
+compound	Coast	East
+nmod:on	Closes	Coast

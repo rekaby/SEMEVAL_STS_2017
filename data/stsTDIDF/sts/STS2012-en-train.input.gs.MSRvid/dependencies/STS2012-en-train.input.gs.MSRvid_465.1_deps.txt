@@ -1,0 +1,8 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+case	boat	on
+det	boat	a
+nmod:on	riding	boat
+punct	riding	.

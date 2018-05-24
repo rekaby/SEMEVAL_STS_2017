@@ -1,0 +1,7 @@
+nsubj	shopping	People
+root	ROOT	shopping
+case	air	in
+det	air	the
+amod	air	open
+nmod:in	shopping	air
+punct	shopping	.

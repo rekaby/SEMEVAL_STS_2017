@@ -1,0 +1,6 @@
+root	ROOT	provide
+cc	provide	or
+conj:or	provide	equip
+case	furniture	with
+nmod:with	provide	furniture
+punct	provide	.

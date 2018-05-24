@@ -1,0 +1,16 @@
+case	birth	After
+det	birth	the
+nmod:after	make	birth
+case	baby	of
+det	baby	a
+nmod:of	birth	baby
+punct	make	,
+det	nurses	the
+nsubj	make	nurses
+root	ROOT	make
+xcomp	make	sure
+mark	okay	that
+nsubj	okay	it
+cop	okay	is
+ccomp	sure	okay
+punct	make	.

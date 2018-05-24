@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	lays	dog
+root	ROOT	lays
+advmod	lays	down
+case	grass	in
+det	grass	the
+amod	grass	long
+amod	grass	green
+nmod:in	down	grass
+punct	lays	.

@@ -1,0 +1,9 @@
+det	horse	A
+nsubj	galloping	horse
+root	ROOT	galloping
+mark	wearing	while
+advcl	galloping	wearing
+det	number	the
+dobj	wearing	number
+nummod	number	4
+punct	galloping	.

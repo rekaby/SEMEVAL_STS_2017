@@ -1,0 +1,8 @@
+det	bulb	the
+nsubjpass	contained	bulb
+auxpass	contained	is
+root	ROOT	contained
+case	circuit	in
+det	circuit	an
+amod	circuit	closed
+nmod:in	contained	circuit

@@ -1,0 +1,8 @@
+nsubj	laughs	Boy
+root	ROOT	laughs
+mark	playing	while
+advcl	laughs	playing
+case	puddle	in
+compound	puddle	mud
+nmod:in	playing	puddle
+punct	laughs	.

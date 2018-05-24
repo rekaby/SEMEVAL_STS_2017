@@ -1,0 +1,11 @@
+compound	Censured	Charlie
+compound	Censured	Rangel
+nsubj	Did	Censured
+root	ROOT	Did
+nsubj	see	anyone
+ccomp	Did	see
+det	footage	the
+dobj	see	footage
+case	this	of
+nmod:of	footage	this
+punct	Did	?

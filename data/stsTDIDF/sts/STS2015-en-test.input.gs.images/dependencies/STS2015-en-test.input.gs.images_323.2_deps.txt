@@ -1,0 +1,12 @@
+det	man	A
+nsubj	walking	man
+aux	walking	is
+root	ROOT	walking
+case	rocks	on
+nmod:on	walking	rocks
+case	water	with
+nmod:with	rocks	water
+acl	water	flowing
+case	them	around
+nmod:around	flowing	them
+punct	walking	.

@@ -1,0 +1,15 @@
+det	Tale	A
+root	ROOT	Tale
+case	Passes	of
+nummod	Passes	Two
+nmod:of	Tale	Passes
+punct	Tale	:
+advmod	Won	How
+det	Giants	The
+compound	Giants	New
+compound	Giants	York
+nsubj	Won	Giants
+dep	Tale	Won
+compound	Bowl	The
+compound	Bowl	Super
+dobj	Won	Bowl

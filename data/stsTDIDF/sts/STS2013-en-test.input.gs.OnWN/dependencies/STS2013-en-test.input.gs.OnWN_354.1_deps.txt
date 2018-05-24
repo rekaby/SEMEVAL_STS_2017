@@ -1,0 +1,7 @@
+advmod	raise	Physically
+root	ROOT	raise
+case	position	from
+det	position	a
+amod	position	lower
+nmod:from	raise	position
+punct	raise	.

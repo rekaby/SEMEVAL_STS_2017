@@ -1,0 +1,9 @@
+advmod	bit	just
+det	bit	another
+root	ROOT	bit
+case	graph	of
+det	graph	that
+nmod:of	bit	graph
+acl	bit	thats
+xcomp	thats	false
+punct	bit	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	flute	a
+dobj	playing	flute
+case	band	in
+det	band	a
+nmod:in	playing	band
+punct	playing	.

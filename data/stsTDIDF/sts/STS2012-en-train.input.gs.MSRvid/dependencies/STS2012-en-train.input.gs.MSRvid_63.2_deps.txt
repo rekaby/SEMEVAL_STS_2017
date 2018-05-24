@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	puts	woman
+root	ROOT	puts
+case	sunglasses	on
+nmod:on	puts	sunglasses
+punct	puts	.

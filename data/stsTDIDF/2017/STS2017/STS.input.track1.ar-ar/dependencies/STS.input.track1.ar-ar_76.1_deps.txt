@@ -1,0 +1,8 @@
+det	number	A
+root	ROOT	number
+case	people	of
+nmod:of	number	people
+case	rain	under
+det	rain	the
+nmod:under	number	rain
+punct	number	.

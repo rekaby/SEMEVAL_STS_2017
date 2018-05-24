@@ -1,0 +1,5 @@
+compound	victim	Crocodile
+nmod:poss	body	victim
+case	victim	's
+nsubj	recovered	body
+root	ROOT	recovered

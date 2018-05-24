@@ -1,0 +1,6 @@
+compound	Test	North
+compound	Test	Korea
+compound	Test	Nuclear
+nsubj	Sparks	Test
+root	ROOT	Sparks
+dobj	Sparks	Worry

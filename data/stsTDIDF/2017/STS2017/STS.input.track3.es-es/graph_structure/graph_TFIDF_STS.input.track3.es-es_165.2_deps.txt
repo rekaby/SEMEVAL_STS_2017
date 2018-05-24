@@ -1,0 +1,4 @@
+meeting	is	aux
+meeting	hearing	nsubj
+meeting	performance	nmod:for
+hearing	A	det

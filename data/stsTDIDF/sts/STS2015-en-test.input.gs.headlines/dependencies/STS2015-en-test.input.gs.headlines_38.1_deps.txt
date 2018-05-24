@@ -1,0 +1,9 @@
+nsubj	resumes	U.S.
+root	ROOT	resumes
+dobj	resumes	search
+mark	missing	for
+acl	search	missing
+amod	sailors	British
+dobj	missing	sailors
+case	public	after
+nmod:after	missing	public

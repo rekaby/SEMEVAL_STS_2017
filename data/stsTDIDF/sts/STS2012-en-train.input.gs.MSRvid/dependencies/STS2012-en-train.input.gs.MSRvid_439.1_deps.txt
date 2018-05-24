@@ -1,0 +1,9 @@
+det	bear	A
+compound	bear	panda
+nsubj	chewing	bear
+aux	chewing	is
+root	ROOT	chewing
+case	stick	on
+det	stick	a
+nmod:on	chewing	stick
+punct	chewing	.

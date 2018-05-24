@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+amod	man	standing
+case	shadow	in
+det	shadow	a
+nmod:in	standing	shadow
+punct	man	.

@@ -1,0 +1,6 @@
+nsubj	releases	Israel
+root	ROOT	releases
+nummod	prisoners	26
+advmod	Palestinian	more
+amod	prisoners	Palestinian
+dobj	releases	prisoners

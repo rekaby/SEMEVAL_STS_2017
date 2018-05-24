@@ -1,0 +1,8 @@
+det	Alarm	An
+nsubj	Change	Alarm
+case	Offing	in
+det	Offing	the
+nmod:in	Alarm	Offing
+case	Climate	on
+nmod:on	Alarm	Climate
+root	ROOT	Change

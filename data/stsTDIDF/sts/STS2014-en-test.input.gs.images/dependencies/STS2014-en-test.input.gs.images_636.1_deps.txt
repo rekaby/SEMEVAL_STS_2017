@@ -1,0 +1,7 @@
+det	bird	A
+root	ROOT	bird
+acl	bird	perched
+case	flowerpot	on
+det	flowerpot	a
+nmod:on	perched	flowerpot
+punct	bird	.

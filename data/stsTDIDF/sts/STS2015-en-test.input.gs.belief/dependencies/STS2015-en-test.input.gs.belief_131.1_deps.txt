@@ -1,0 +1,13 @@
+advmod	sounds	just
+root	ROOT	sounds
+mark	blaming	like
+nsubj	blaming	you
+aux	blaming	're
+advcl	sounds	blaming
+dobj	blaming	everyone
+advmod	blaming	else
+case	mistakes	for
+nmod:poss	mistakes	your
+amod	mistakes	own
+nmod:for	else	mistakes
+punct	sounds	.

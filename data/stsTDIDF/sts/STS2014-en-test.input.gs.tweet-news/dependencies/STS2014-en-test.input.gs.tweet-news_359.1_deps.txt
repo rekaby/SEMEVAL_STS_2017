@@ -1,0 +1,11 @@
+amod	article	Interesting
+root	ROOT	article
+punct	article	.-3) compound(Yams-2, ASAP
+root	ROOT	Yams
+punct	Yams	,
+compound	Rocky	Partner
+case	ASAP	to
+nmod:poss	ASAP	Hip-Hop
+case	Hip-Hop	's
+nmod:to	Partner	ASAP
+appos	Yams	Rocky

@@ -1,0 +1,7 @@
+det	theft	The
+amod	theft	intelligent
+compound	theft	car
+nsubj	emulating	theft
+case	bourdon	of
+nmod:of	theft	bourdon
+root	ROOT	emulating

@@ -1,0 +1,8 @@
+compound	freedom	Media
+root	ROOT	freedom
+case	stake	at
+nmod:at	freedom	stake
+mark	fights	as
+nsubj	fights	Turkey
+acl	stake	fights
+dobj	fights	rebels

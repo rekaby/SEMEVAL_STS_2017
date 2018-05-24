@@ -1,0 +1,8 @@
+det	skunk	A
+nsubj	looking	skunk
+aux	looking	is
+root	ROOT	looking
+advmod	looking	here
+cc	looking	and
+advmod	looking	there
+punct	looking	.

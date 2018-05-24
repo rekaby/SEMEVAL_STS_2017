@@ -1,0 +1,11 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	bicycle	a
+dobj	riding	bicycle
+case	lot	around
+det	lot	a
+compound	lot	parking
+nmod:around	riding	lot
+punct	riding	.

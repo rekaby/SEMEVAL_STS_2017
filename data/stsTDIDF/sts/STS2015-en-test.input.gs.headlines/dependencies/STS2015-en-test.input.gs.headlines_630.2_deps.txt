@@ -1,0 +1,9 @@
+nsubj	Alfred	Remains
+case	Winchester	in
+nmod:in	Remains	Winchester
+aux	Alfred	could
+cop	Alfred	be
+compound	Alfred	King
+root	ROOT	Alfred
+det	Great	the
+dobj	Alfred	Great

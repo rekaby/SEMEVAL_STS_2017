@@ -1,0 +1,13 @@
+amod	Sets	Straight
+root	ROOT	Sets
+punct	Sets	:
+amod	Tells	Indian
+compound	Tells	Star
+dep	Sets	Tells
+case	Life	of
+nmod:of	Tells	Life
+cc	Life	and
+conj:and	Life	Marriage
+case	Media	in
+nmod:in	Tells	Media
+dep	Tells	Fishbowl

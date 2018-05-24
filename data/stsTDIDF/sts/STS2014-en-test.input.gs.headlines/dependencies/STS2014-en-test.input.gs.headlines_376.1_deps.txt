@@ -1,0 +1,7 @@
+amod	soldier	Israeli
+nsubj	hits	soldier
+root	ROOT	hits
+amod	child	Palestinian
+dobj	hits	child
+case	Hebron	in
+nmod:in	hits	Hebron

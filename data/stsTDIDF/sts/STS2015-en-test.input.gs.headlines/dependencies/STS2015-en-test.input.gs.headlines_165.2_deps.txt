@@ -1,0 +1,10 @@
+nsubj	finds	Israel
+root	ROOT	finds
+dobj	finds	bodies
+case	teens	of
+nummod	teens	three
+amod	teens	missing
+nmod:of	bodies	teens
+case	Bank	in
+compound	Bank	West
+nmod:in	teens	Bank

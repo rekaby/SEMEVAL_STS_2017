@@ -1,0 +1,8 @@
+det	appliance	a
+compound	appliance	kitchen
+root	ROOT	appliance
+acl	appliance	used
+case	food	for
+amod	food	cooking
+nmod:for	used	food
+punct	appliance	.

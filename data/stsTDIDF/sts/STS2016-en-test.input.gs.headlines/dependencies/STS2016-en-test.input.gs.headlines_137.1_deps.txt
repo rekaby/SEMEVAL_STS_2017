@@ -1,0 +1,7 @@
+compound	futures	China
+compound	futures	treasury
+compound	futures	bond
+nsubj	open	futures
+root	ROOT	open
+advmod	open	higher
+nmod:tmod	open	Tuesday

@@ -1,0 +1,8 @@
+compound	ups	MIER
+nsubj	forecast	ups
+nummod	forecast	2012
+compound	forecast	growth
+root	ROOT	forecast
+case	pc	to
+nummod	pc	4.2
+nmod:to	forecast	pc

@@ -1,0 +1,13 @@
+det	man	A
+nsubj	has	man
+root	ROOT	has
+nmod:poss	skis	his
+dobj	has	skis
+amod	skis	ready
+case	field	for
+det	field	the
+nmod:for	ready	field
+mark	get	to
+acl	field	get
+dobj	get	iced
+compound:prt	get	out

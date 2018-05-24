@@ -1,0 +1,6 @@
+compound	leaders	Cambodia
+compound	leaders	opposition
+nsubj	summoned	leaders
+root	ROOT	summoned
+case	court	to
+nmod:to	summoned	court

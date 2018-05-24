@@ -1,0 +1,15 @@
+nsubj	walks	Boy
+root	ROOT	walks
+amod	man	past
+dobj	walks	man
+case	overalls	in
+amod	overalls	orange
+nmod:in	man	overalls
+nsubj	garbage	who
+cop	garbage	is
+amod	garbage	sweeping
+acl:relcl	man	garbage
+case	street	from
+det	street	the
+nmod:from	garbage	street
+punct	walks	.

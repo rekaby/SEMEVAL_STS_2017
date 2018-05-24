@@ -1,0 +1,9 @@
+det	act	the
+root	ROOT	act
+mark	disturbing	of
+acl	act	disturbing
+det	mind	the
+dobj	disturbing	mind
+cc	mind	or
+conj:or	mind	body
+punct	act	.

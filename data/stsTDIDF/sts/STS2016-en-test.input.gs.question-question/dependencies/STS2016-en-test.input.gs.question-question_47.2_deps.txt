@@ -1,0 +1,12 @@
+advmod	find	Where
+aux	find	can
+nsubj	find	I
+root	ROOT	find
+det	list	a
+amod	list	complete
+dobj	find	list
+case	chords	of
+compound	chords	Freddie
+compound	chords	Green
+nmod:of	list	chords
+punct	find	?

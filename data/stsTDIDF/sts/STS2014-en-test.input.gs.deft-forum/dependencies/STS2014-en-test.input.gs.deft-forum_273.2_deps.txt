@@ -1,0 +1,4 @@
+root	ROOT	Russians
+case	Damascus	in
+nmod:in	Russians	Damascus
+punct	Russians	!

@@ -1,0 +1,13 @@
+nummod	women	Three
+amod	women	dark
+amod	women	haired
+amod	women	young
+root	ROOT	women
+case	white	in
+nmod:in	women	white
+punct	white	,
+conj:and	white	red
+cc	white	and
+conj:and	white	black
+dep	white	sweaters
+punct	women	.

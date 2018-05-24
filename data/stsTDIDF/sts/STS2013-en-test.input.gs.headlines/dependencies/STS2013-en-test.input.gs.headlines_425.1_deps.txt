@@ -1,0 +1,11 @@
+compound	Wolves	Wigan
+nummod	Wolves	3-2
+nsubj	highlights	Wolves
+punct	Wolves	:
+compound	report	Match
+dep	Wolves	report
+punct	report	,
+conj:&	report	pictures
+cc	report	&
+conj:&	report	video
+root	ROOT	highlights

@@ -1,0 +1,8 @@
+root	ROOT	Man
+acl	Man	riding
+nmod:poss	bike	his
+dobj	riding	bike
+case	street	in
+det	street	the
+nmod:in	riding	street
+punct	Man	.

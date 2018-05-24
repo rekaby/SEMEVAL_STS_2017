@@ -1,0 +1,7 @@
+compound	Starr	Freddie
+nsubj	Arrested	Starr
+root	ROOT	Arrested
+case	Abuse	In
+compound	Abuse	Savile
+nmod:in	Arrested	Abuse
+dobj	Arrested	Probe

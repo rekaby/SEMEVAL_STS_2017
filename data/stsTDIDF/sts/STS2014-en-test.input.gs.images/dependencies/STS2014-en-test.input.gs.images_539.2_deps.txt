@@ -1,0 +1,8 @@
+det	airplane	A
+amod	airplane	white
+nsubj	runway	airplane
+cop	runway	is
+case	runway	on
+det	runway	a
+root	ROOT	runway
+punct	runway	.

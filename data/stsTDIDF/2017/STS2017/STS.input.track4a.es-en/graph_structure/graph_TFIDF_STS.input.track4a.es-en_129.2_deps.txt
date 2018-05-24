@@ -1,0 +1,6 @@
+playing	men	nsubj
+rope	jump	compound
+playing	rope	dobj
+middle	street	nmod:of
+playing	middle	nmod:in
+street	of	case

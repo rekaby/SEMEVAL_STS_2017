@@ -1,0 +1,9 @@
+root	ROOT	?-1) compound(Park-2, South
+root	ROOT	Park
+punct	Park	?-3) root(ROOT-0, Creators
+case	Company	to
+compound	Company	Start
+nmod:to	Creators	Company
+punct	Company	,
+compound	Studios	Important
+appos	Company	Studios

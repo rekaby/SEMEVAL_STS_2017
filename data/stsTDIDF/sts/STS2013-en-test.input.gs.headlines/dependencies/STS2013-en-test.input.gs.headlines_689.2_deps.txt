@@ -1,0 +1,8 @@
+compound	Court	Supreme
+root	ROOT	Court
+mark	hear	to
+acl	Court	hear
+amod	case	corporate
+amod	case	human
+compound	case	rights
+dobj	hear	case

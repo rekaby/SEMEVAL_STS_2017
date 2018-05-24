@@ -1,0 +1,8 @@
+dishes	with	case
+table	covered	acl
+covered	dishes	nmod:with
+table	by	case
+sits	woman	nsubj
+sits	table	nmod:by
+dishes	and	cc
+dishes	saucers	conj:and

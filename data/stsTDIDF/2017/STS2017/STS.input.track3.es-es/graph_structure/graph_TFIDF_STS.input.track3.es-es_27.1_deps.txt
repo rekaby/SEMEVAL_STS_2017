@@ -1,0 +1,8 @@
+buy	painting	dobj
+buy	about	mark
+fair	a	det
+fair	at	case
+buy	People	nsubj
+buy	are	cop
+buy	fair	nmod:at
+painting	a	det

@@ -1,0 +1,10 @@
+nummod	children	Three
+root	ROOT	children
+cc	children	and
+conj:and	children	playing
+cc	children	and
+conj:and	children	laughing
+case	floor	on
+det	floor	the
+nmod:on	laughing	floor
+punct	children	.

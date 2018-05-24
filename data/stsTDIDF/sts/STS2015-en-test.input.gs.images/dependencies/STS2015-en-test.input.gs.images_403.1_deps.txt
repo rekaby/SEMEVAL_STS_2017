@@ -1,0 +1,7 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	standing
+case	water	in
+det	water	the
+nmod:in	standing	water
+punct	dog	.

@@ -1,0 +1,9 @@
+det	doctor	A
+nsubj	rushes	doctor
+root	ROOT	rushes
+det	patient	a
+dobj	rushes	patient
+case	stretcher	on
+det	stretcher	a
+nmod:on	rushes	stretcher
+punct	rushes	.

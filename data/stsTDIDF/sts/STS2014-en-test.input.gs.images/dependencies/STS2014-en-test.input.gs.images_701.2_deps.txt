@@ -1,0 +1,6 @@
+nummod	women	Two
+root	ROOT	women
+case	sailboat	in
+det	sailboat	a
+nmod:in	women	sailboat
+punct	women	.

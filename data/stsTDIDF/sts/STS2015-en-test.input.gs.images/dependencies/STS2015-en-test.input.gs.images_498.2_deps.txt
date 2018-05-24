@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+case	sunglasses	with
+nmod:with	man	sunglasses
+acl	sunglasses	looking
+advmod	ahead	straight
+advmod	looking	ahead
+punct	man	.

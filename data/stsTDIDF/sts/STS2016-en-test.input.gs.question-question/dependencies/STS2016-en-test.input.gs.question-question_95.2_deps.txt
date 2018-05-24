@@ -1,0 +1,12 @@
+advmod	apply	How
+aux	apply	should
+nsubj	apply	I
+root	ROOT	apply
+case	visa	for
+det	visa	a
+compound	visa	Schengen
+nmod:for	apply	visa
+case	UK	from
+det	UK	the
+nmod:from	visa	UK
+punct	apply	?

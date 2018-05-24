@@ -1,0 +1,4 @@
+men	sitting	acl
+bikes	near	case
+bikes	their	nmod:poss
+sitting	bikes	nmod:near

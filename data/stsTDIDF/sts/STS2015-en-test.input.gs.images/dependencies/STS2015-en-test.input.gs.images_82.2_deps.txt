@@ -1,0 +1,14 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	creek	through
+det	creek	a
+nmod:through	running	creek
+case	stick	with
+det	stick	a
+nmod:with	creek	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	stick	mouth
+punct	running	.

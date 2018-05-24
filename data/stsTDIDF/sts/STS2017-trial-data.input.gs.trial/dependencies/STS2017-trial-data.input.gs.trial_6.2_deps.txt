@@ -1,0 +1,11 @@
+advmod	build	How
+aux	build	can
+nsubj	build	I
+root	ROOT	build
+det	wall	a
+nsubj	mounted	wall
+xcomp	build	mounted
+amod	desk	adjustable
+compound	desk	height
+dobj	mounted	desk
+punct	build	?

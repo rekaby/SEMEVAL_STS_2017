@@ -1,0 +1,7 @@
+nsubj	waits	Nigeria
+root	ROOT	waits
+case	Spring	for
+punct	Spring	`
+amod	Spring	African
+nmod:for	waits	Spring
+punct	waits	'

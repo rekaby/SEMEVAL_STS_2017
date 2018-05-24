@@ -1,0 +1,8 @@
+root	ROOT	Impress
+cc	Impress	or
+conj:or	Impress	affect
+advmod	Impress	deeply
+punct	emotionally	-LRB-
+dep	deeply	emotionally
+punct	emotionally	-RRB-
+punct	Impress	.

@@ -1,0 +1,12 @@
+det	judge	A
+nsubj	ordered	judge
+root	ROOT	ordered
+det	child	the
+dobj	ordered	child
+acl	child	placed
+case	custody	in
+compound	custody	state
+nmod:in	placed	custody
+nmod:tmod	placed	Aug.
+nummod	Aug.	8
+punct	ordered	.

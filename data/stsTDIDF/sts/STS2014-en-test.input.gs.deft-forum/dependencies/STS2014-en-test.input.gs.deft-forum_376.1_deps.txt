@@ -1,0 +1,7 @@
+nsubj	represents	Satan
+root	ROOT	represents
+dobj	represents	indulgence
+case	abstinence	instead
+mwe	instead	of
+nmod:instead_of	indulgence	abstinence
+punct	represents	!

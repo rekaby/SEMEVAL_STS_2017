@@ -1,0 +1,11 @@
+expl	is	there
+root	ROOT	is
+neg	path	no
+nsubj	is	path
+acl	path	containing
+cc:preconj	switch	both
+dobj	containing	switch
+dobj	switch	Y
+cc	Y	and
+conj:and	Y	bulb
+dep	Y	A

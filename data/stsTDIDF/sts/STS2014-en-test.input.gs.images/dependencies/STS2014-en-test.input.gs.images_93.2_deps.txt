@@ -1,0 +1,12 @@
+det	cow	The
+amod	cow	black
+cc	black	and
+conj:and	black	brown
+nsubj	standing	cow
+aux	standing	is
+root	ROOT	standing
+case	grass	on
+det	grass	the
+amod	grass	green
+nmod:on	standing	grass
+punct	standing	.

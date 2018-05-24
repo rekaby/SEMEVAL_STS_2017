@@ -1,0 +1,12 @@
+det	child	The
+nsubjpass	held	child
+aux	held	is
+auxpass	held	being
+root	ROOT	held
+case	father	by
+nmod:poss	father	his
+nmod:agent	held	father
+case	library	in
+det	library	a
+nmod:in	held	library
+punct	held	.

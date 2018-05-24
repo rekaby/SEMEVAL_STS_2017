@@ -1,0 +1,10 @@
+det	station	An
+compound	station	Esso
+compound	station	gas
+root	ROOT	station
+case	trees	with
+nmod:with	station	trees
+case	background	in
+det	background	the
+nmod:in	station	background
+punct	station	.

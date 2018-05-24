@@ -1,0 +1,5 @@
+hiking	are	aux
+ROOT	hiking	root
+hiking	.	punct
+hiking	People	nsubj
+hiking	beach	nmod:on

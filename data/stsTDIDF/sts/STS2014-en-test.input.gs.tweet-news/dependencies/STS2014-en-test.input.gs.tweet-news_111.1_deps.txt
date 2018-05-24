@@ -1,0 +1,19 @@
+compound	inspiration	Morning
+amod	inspiration	athletic
+root	ROOT	inspiration
+punct	let	-LRB-
+dep	inspiration	let
+nsubj	compete	everyone
+ccomp	let	compete
+punct	let	!
+punct	inspiration	-RRB--9) punct(Path-3, :
+amod	Path	Forging
+root	ROOT	Path
+mark	Starting	to
+acl	Path	Starting
+compound	#NYT	Line
+case	Athletes	for
+compound	Athletes	Younger
+amod	Athletes	Disabled
+nmod:for	Line	Athletes
+dobj	Starting	#NYT

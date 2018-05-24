@@ -1,0 +1,12 @@
+nummod	men	Two
+nsubj	packing	men
+aux	packing	are
+root	ROOT	packing
+dobj	packing	suitcases
+case	trunk	into
+det	trunk	the
+nmod:into	packing	trunk
+case	car	of
+det	car	a
+nmod:of	trunk	car
+punct	packing	.

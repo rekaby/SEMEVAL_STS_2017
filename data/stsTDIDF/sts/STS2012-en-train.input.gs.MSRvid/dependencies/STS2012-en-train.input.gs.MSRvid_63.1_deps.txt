@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	putting	woman
+aux	putting	is
+root	ROOT	putting
+compound:prt	putting	on
+compound	glasses	sun
+dobj	putting	glasses
+punct	putting	.

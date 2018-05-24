@@ -1,0 +1,13 @@
+det	sacrament	a
+root	ROOT	sacrament
+acl	sacrament	admitting
+det	person	a
+amod	person	baptized
+dobj	admitting	person
+case	participation	to
+amod	participation	full
+nmod:to	admitting	participation
+case	church	in
+det	church	the
+nmod:in	participation	church
+punct	sacrament	.

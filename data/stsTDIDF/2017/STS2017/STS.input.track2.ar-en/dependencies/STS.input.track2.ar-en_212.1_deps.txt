@@ -1,0 +1,8 @@
+det	man	The
+amod	man	old
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	banjo	a
+dobj	playing	banjo
+punct	playing	.

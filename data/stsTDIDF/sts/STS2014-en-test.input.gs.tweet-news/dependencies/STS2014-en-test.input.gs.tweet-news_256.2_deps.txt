@@ -1,0 +1,9 @@
+nsubj	Seek	Obama
+aux	Seek	Will
+root	ROOT	Seek
+compound	Path	Citizenship
+dobj	Seek	Path
+case	Push	in
+nummod	Push	One
+amod	One	Fast
+nmod:in	Seek	Push

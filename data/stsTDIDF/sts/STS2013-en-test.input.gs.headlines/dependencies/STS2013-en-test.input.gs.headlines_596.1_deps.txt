@@ -1,0 +1,8 @@
+root	ROOT	Russia
+punct	Russia	,
+compound	Resolution	China
+compound	Resolution	Veto
+compound	Resolution	UN
+appos	Russia	Resolution
+case	Syria	on
+nmod:on	Resolution	Syria

@@ -1,0 +1,8 @@
+det	child	A
+amod	child	young
+nsubj	riding	child
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+dobj	riding	horse
+punct	riding	.

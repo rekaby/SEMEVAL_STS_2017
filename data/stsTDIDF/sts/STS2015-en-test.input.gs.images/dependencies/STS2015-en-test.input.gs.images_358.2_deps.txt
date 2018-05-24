@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	little
+nsubj	stands	boy
+root	ROOT	stands
+case	hands	with
+nmod:poss	hands	his
+nmod:with	stands	hands
+case	head	on
+mwe	on	top
+mwe	on	of
+nmod:poss	head	his
+nmod:on_top_of	hands	head

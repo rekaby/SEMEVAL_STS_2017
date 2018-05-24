@@ -1,0 +1,7 @@
+amod	cellar	French
+compound	cellar	raid
+compound	cellar	wine
+compound	auction	cellar
+case	austerity	for
+nmod:for	cellar	austerity
+root	ROOT	auction

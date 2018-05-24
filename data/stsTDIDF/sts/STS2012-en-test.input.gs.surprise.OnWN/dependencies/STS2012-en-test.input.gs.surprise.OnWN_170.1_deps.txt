@@ -1,0 +1,8 @@
+det	statement	a
+root	ROOT	statement
+punct	statement	,
+det	idea	an
+appos	statement	idea
+acl	idea	expressed
+case	language	in
+nmod:in	expressed	language

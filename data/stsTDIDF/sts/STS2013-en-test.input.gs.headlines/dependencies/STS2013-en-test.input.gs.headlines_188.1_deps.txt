@@ -1,0 +1,8 @@
+amod	president	Mali
+amod	president	future
+amod	president	interim
+nsubj	readies	president
+root	ROOT	readies
+mark	take	to
+xcomp	readies	take
+dobj	take	office

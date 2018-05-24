@@ -1,0 +1,6 @@
+nsubj	biased	Jordan
+root	ROOT	biased
+case	Palestinians	over
+nmod:over	biased	Palestinians
+case	Syria	from
+nmod:from	Palestinians	Syria

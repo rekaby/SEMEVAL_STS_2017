@@ -1,0 +1,9 @@
+compound	details	#US
+nsubj	help	details
+root	ROOT	help
+case	rescue	in
+amod	rescue	failed
+compound	rescue	#hostage
+nmod:in	help	rescue
+punct	help	.-8) compound(#France-2, #Somalia
+root	ROOT	#France

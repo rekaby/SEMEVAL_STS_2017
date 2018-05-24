@@ -1,0 +1,14 @@
+nsubj	hold	I
+advmod	hold	just
+root	ROOT	hold
+det	cheese	the
+dobj	hold	cheese
+advmod	hold	closer
+case	edge	to
+det	edge	the
+nmod:to	closer	edge
+case	grater	away
+mwe	away	from
+det	grater	the
+nmod:away_from	closer	grater
+punct	hold	.

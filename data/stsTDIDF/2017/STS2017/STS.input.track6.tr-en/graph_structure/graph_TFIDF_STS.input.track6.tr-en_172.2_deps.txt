@@ -1,0 +1,10 @@
+something	ear	nmod:toward
+jacket	and	cc
+jacket	hat	conj:and
+ear	toward	case
+holding	man	nsubj
+holding	something	dobj
+man	jacket	nmod:in
+jacket	in	case
+man	large	amod
+ear	his	nmod:poss

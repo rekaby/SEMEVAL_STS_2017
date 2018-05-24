@@ -1,0 +1,8 @@
+det	lady	The
+nsubj	talking	lady
+aux	talking	is
+neg	talking	not
+root	ROOT	talking
+case	anyone	to
+nmod:to	talking	anyone
+punct	talking	.

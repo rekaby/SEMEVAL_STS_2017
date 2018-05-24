@@ -1,0 +1,10 @@
+det	formulation	A
+amod	formulation	conceptual
+root	ROOT	formulation
+punct	formulation	;
+det	way	a
+dep	formulation	way
+mark	conceiving	of
+acl	way	conceiving
+dobj	conceiving	something
+punct	formulation	.

@@ -1,0 +1,6 @@
+Male	.	punct
+ROOT	Male	root
+female	a	det
+female	small	amod
+Male	female	nmod:with
+female	with	case

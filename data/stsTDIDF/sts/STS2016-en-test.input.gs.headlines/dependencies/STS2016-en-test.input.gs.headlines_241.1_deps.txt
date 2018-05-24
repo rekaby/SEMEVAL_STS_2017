@@ -1,0 +1,6 @@
+amod	plane	Russian
+nsubj	crashes	plane
+advmod	crashes	reportedly
+root	ROOT	crashes
+case	Egypt	in
+nmod:in	crashes	Egypt

@@ -1,0 +1,10 @@
+nummod	kids	Four
+root	ROOT	kids
+acl	kids	holding
+nsubj	jump	hands
+ccomp	holding	jump
+case	pool	into
+det	pool	a
+compound	pool	swimming
+nmod:into	jump	pool
+punct	kids	.

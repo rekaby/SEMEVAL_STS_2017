@@ -1,0 +1,7 @@
+nsubj	walk	People
+root	ROOT	walk
+case	wall	beside
+det	wall	a
+compound	wall	stone
+nmod:beside	walk	wall
+punct	walk	.

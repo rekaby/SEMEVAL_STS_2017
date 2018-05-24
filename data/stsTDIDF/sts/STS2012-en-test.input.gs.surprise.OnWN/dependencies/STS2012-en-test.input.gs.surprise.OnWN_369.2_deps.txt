@@ -1,0 +1,14 @@
+det	person	a
+root	ROOT	person
+nsubj	protection	who
+cop	protection	is
+case	protection	under
+det	protection	the
+acl:relcl	person	protection
+cc	protection	or
+case	custody	in
+det	custody	the
+conj:or	protection	custody
+case	another	of
+nmod:of	custody	another
+punct	person	.

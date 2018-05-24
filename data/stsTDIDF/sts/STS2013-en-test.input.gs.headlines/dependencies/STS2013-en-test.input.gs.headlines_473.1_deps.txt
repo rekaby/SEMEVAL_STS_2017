@@ -1,0 +1,14 @@
+compound	Vidal	Gore
+nsubj	dead	Vidal
+root	ROOT	dead
+case	86	at
+nmod:at	dead	86
+punct	dead	:
+amod	author	Legendary
+nsubj	dies	author
+punct	author	,
+conj:and	author	playwright
+punct	author	,
+cc	author	and
+conj:and	author	politician
+parataxis	dead	dies

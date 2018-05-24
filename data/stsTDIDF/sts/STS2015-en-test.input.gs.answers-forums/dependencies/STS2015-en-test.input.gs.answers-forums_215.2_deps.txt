@@ -1,0 +1,15 @@
+nsubjpass	determined	Accessibility
+auxpass	determined	is
+root	ROOT	determined
+case	axioms	by
+det	axioms	the
+nmod:agent	determined	axioms
+case	logic	of
+det	logic	the
+amod	logic	modal
+nmod:of	axioms	logic
+nsubj	working	you
+aux	working	're
+acl:relcl	logic	working
+advmod	working	within
+punct	determined	.

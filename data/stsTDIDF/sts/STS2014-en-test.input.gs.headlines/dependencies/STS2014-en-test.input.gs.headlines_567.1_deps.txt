@@ -1,0 +1,8 @@
+compound	boat	Gunmen
+amod	boat	ambush
+compound	boat	police
+root	ROOT	boat
+case	region	in
+compound	region	Nigeria
+compound	region	oil
+nmod:in	boat	region

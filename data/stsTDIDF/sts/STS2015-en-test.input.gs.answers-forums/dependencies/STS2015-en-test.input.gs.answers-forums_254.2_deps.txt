@@ -1,0 +1,13 @@
+compound	laws	Minimum
+compound	laws	wage
+nsubj	hurt	laws
+root	ROOT	hurt
+det	most	the
+dep	skilled	least
+amod	most	skilled
+punct	most	,
+nmod:npmod	productive	least
+amod	most	productive
+det	most	the
+dobj	hurt	most
+punct	hurt	.

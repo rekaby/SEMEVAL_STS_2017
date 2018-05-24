@@ -1,0 +1,16 @@
+compound	President	Mr
+nsubj	like	President
+punct	President	,
+appos	President	I
+aux	like	should
+root	ROOT	like
+mark	take	to
+xcomp	like	take
+det	defence	the
+dobj	take	defence
+case	workers	of
+nmod:of	defence	workers
+case	sector	in
+det	sector	this
+nmod:in	take	sector
+punct	like	.

@@ -1,0 +1,10 @@
+compound	Rendezvous	IHT
+root	ROOT	Rendezvous
+punct	Rendezvous	:
+compound	Need	Mali
+nsubj	Afghanistan	Need
+neg	Afghanistan	Not
+cop	Afghanistan	Be
+nmod:poss	Afghanistan	France
+case	France	's
+dep	Rendezvous	Afghanistan

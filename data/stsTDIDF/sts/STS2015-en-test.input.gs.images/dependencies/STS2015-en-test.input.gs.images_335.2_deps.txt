@@ -1,0 +1,7 @@
+nummod	dogs	Two
+nsubj	run	dogs
+root	ROOT	run
+case	brush	through
+det	brush	the
+nmod:through	run	brush
+punct	run	.

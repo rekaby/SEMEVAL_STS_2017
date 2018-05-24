@@ -1,0 +1,12 @@
+compound	Site	Homicide
+compound	Site	Tracking
+root	ROOT	Site
+acl	Site	Expanding
+case	Love	to
+compound	Love	#Chicago
+nmod:to	Expanding	Love
+dep	Love	it
+punct	Site	.-9) amod(call-2, Great
+root	ROOT	call
+cc	call	&
+conj:&	call	Congrats

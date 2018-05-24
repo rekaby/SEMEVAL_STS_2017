@@ -1,0 +1,12 @@
+compound	Zimmerman	George
+nsubj	says	Zimmerman
+mark	charged	to
+auxpass	charged	be
+acl	Zimmerman	charged
+case	case	in
+compound	case	Trayvon
+compound	case	Martin
+nmod:in	charged	case
+punct	Zimmerman	,
+appos	Zimmerman	official
+root	ROOT	says

@@ -1,0 +1,7 @@
+root	ROOT	Polls
+amod	Polls	close
+case	election	in
+nmod:poss	election	Senegal
+case	Senegal	's
+amod	election	presidential
+nmod:in	close	election

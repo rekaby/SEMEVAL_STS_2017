@@ -1,0 +1,9 @@
+det	Gulf	The
+nmod:poss	buildings	Gulf
+case	Gulf	's
+punct	buildings	`
+amod	buildings	green
+punct	buildings	'
+nsubj	#CNN	buildings
+compound	#CNN	#Amman
+root	ROOT	#CNN

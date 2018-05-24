@@ -1,0 +1,7 @@
+dogs	The	det
+pulling	dogs	nsubj
+pulling	sled	dobj
+ROOT	pulling	root
+sled	a	det
+pulling	.	punct
+pulling	are	aux

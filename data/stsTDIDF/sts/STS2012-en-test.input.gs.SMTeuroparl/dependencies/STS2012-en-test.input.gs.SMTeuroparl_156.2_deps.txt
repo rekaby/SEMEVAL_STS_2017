@@ -1,0 +1,9 @@
+det	Union	The
+compound	Union	European
+root	ROOT	Union
+nmod:npmod	Union	itself
+cc	Union	and
+conj:and	Union	do
+advmod	quickly	so
+advmod	do	quickly
+punct	Union	.

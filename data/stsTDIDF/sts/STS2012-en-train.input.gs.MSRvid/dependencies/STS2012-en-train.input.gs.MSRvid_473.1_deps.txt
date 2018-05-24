@@ -1,0 +1,8 @@
+det	dogs	The
+nummod	dogs	two
+nsubj	pen	dogs
+cop	pen	were
+case	pen	in
+det	pen	the
+root	ROOT	pen
+punct	pen	.

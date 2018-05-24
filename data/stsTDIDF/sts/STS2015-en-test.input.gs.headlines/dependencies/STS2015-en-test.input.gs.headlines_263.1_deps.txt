@@ -1,0 +1,9 @@
+compound	O'Brien	Conan
+root	ROOT	O'Brien
+case	Dinner	at
+det	Correspondents	the
+compound	Correspondents	White
+compound	Correspondents	House
+nmod:poss	Dinner	Correspondents
+case	Correspondents	'
+nmod:at	O'Brien	Dinner

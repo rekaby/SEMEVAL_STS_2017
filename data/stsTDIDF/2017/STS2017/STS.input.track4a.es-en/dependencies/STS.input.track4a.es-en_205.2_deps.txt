@@ -1,0 +1,11 @@
+det	people	The
+nsubj	waiting	people
+aux	waiting	are
+root	ROOT	waiting
+mark	turn	for
+det	light	the
+nsubj	turn	light
+mark	turn	to
+advcl	waiting	turn
+dobj	turn	green
+punct	waiting	.

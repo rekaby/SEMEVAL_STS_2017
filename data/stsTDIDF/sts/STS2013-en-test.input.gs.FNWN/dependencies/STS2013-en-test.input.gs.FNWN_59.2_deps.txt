@@ -1,0 +1,10 @@
+punct	used	-LRB-
+root	ROOT	used
+case	color	of
+nmod:of	used	color
+punct	used	-RRB-
+xcomp	used	having
+det	hue	a
+amod	hue	dark
+dobj	having	hue
+punct	used	;

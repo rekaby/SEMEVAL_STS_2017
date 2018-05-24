@@ -1,0 +1,7 @@
+nsubj	Invites	UN
+root	ROOT	Invites
+dobj	Invites	Iran
+case	Conference	to
+amod	Conference	Syrian
+compound	Conference	Peace
+nmod:to	Invites	Conference

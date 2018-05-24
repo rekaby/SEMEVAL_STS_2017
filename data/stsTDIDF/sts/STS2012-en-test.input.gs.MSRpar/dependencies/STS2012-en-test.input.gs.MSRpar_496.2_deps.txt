@@ -1,0 +1,16 @@
+nmod:poss	attorney	Whitley
+case	Whitley	's
+nsubj	called	attorney
+punct	attorney	,
+compound	Garber	Marc
+appos	attorney	Garber
+punct	attorney	,
+root	ROOT	called
+det	ruling	the
+xcomp	called	ruling
+punct	ruling	``
+det	victory	a
+amod	victory	huge
+dep	ruling	victory
+punct	called	.
+punct	called	''

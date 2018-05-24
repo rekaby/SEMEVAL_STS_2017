@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	collapse	toll
+case	India	in
+nmod:in	toll	India
+compound	collapse	building
+root	ROOT	collapse
+dep	collapse	hits
+nummod	hits	42

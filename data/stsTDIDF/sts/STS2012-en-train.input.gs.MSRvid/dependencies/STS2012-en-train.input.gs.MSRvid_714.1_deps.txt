@@ -1,0 +1,7 @@
+det	chimp	A
+nsubj	kicking	chimp
+aux	kicking	is
+root	ROOT	kicking
+det	target	a
+dobj	kicking	target
+punct	kicking	.

@@ -1,0 +1,8 @@
+amod	orders	Ukrainian
+compound	orders	President
+nsubj	ceasefire	orders
+amod	ceasefire	7-day
+root	ROOT	ceasefire
+case	east	in
+det	east	the
+nmod:in	ceasefire	east

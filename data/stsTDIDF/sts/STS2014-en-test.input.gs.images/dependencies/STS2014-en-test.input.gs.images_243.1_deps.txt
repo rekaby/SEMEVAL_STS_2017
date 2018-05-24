@@ -1,0 +1,15 @@
+det	women	A
+root	ROOT	women
+cc	women	and
+amod	child	small
+conj:and	women	child
+acl	women	sitting
+case	table	at
+det	table	a
+compound	table	dinner
+nmod:at	sitting	table
+acl	table	smiling
+case	camera	at
+det	camera	the
+nmod:at	smiling	camera
+punct	women	.

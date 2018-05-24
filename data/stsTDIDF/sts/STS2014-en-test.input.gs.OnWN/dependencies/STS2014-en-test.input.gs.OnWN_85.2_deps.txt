@@ -1,0 +1,8 @@
+det	event	an
+root	ROOT	event
+nsubj	causes	that
+acl:relcl	event	causes
+dobj	causes	someone
+mark	die	to
+xcomp	causes	die
+punct	event	.

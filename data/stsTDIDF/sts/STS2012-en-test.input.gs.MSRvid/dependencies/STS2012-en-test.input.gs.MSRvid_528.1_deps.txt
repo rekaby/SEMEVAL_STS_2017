@@ -1,0 +1,6 @@
+nsubj	playing	Animals
+aux	playing	are
+root	ROOT	playing
+case	water	in
+nmod:in	playing	water
+punct	playing	.

@@ -1,0 +1,9 @@
+det	battery	the
+nsubjpass	closed	battery
+auxpass	closed	is
+neg	closed	not
+root	ROOT	closed
+det	bulb	the
+nsubj	is	bulb
+ccomp	closed	is
+punct	closed	.

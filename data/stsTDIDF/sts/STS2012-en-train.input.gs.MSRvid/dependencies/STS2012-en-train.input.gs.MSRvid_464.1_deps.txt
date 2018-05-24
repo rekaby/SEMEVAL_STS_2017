@@ -1,0 +1,6 @@
+det	woman	The
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+dobj	slicing	tofu
+punct	slicing	.

@@ -1,0 +1,10 @@
+nmod:poss	yuan	China
+case	China	's
+nsubj	rises	yuan
+root	ROOT	rises
+case	high	to
+amod	high	new
+nmod:to	rises	high
+case	USD	against
+nmod:against	high	USD
+nmod:tmod	rises	Wednesday

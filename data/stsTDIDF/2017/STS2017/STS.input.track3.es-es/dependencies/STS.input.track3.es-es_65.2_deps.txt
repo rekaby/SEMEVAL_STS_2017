@@ -1,0 +1,8 @@
+det	orchestra	A
+amod	orchestra	small
+root	ROOT	orchestra
+acl	orchestra	playing
+case	audience	for
+det	audience	an
+nmod:for	playing	audience
+punct	orchestra	.

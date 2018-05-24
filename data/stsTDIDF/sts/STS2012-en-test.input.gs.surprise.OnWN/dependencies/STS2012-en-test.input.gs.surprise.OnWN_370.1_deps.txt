@@ -1,0 +1,10 @@
+root	ROOT	Strike
+cc	Strike	or
+conj:or	Strike	hit
+advmod	Strike	sharply
+punct	Strike	,
+advmod	Strike	perhaps
+case	sport	as
+case	sport	in
+nmod:in	perhaps	sport
+punct	Strike	.

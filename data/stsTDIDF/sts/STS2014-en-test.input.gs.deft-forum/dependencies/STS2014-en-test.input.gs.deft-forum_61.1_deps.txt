@@ -1,0 +1,12 @@
+nsubj	mean	You
+root	ROOT	mean
+punct	believe	,
+nsubj	believe	you
+ccomp	mean	believe
+det	word	the
+dobj	believe	word
+case	Media	of
+det	Media	the
+compound	Media	Mainstream
+nmod:of	word	Media
+punct	mean	?

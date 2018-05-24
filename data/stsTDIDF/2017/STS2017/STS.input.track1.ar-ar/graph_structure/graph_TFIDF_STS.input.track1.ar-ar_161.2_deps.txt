@@ -1,0 +1,8 @@
+woman	with	case
+man	cook	appos
+cook	something	dep
+woman	another	det
+woman	kitchen	nmod:in
+cook	a	det
+something	eat	acl
+man	woman	nmod:with

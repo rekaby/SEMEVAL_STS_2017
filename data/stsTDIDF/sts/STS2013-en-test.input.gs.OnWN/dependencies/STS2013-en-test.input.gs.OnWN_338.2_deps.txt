@@ -1,0 +1,7 @@
+root	ROOT	something
+amod	something	additional
+case	kind	of
+det	kind	the
+amod	kind	same
+nmod:of	additional	kind
+punct	something	.

@@ -1,0 +1,10 @@
+amod	stuntman	British
+nsubj	fell	stuntman
+root	ROOT	fell
+case	death	to
+nmod:poss	death	his
+nmod:to	fell	death
+case	suit	in
+compound	suit	wing
+nmod:in	death	suit
+dobj	fell	mishap

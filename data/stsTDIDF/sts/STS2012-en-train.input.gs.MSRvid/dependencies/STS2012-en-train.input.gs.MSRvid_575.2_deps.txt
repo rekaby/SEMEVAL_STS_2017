@@ -1,0 +1,5 @@
+det	man	A
+nsubj	lifts	man
+root	ROOT	lifts
+dobj	lifts	weights
+punct	lifts	.

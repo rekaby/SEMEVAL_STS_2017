@@ -1,0 +1,13 @@
+det	group	A
+nsubj	crouched	group
+case	runners	of
+nummod	runners	five
+nmod:of	group	runners
+root	ROOT	crouched
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+amod	crowd	large
+nmod:in_front_of	crouched	crowd
+punct	crouched	.

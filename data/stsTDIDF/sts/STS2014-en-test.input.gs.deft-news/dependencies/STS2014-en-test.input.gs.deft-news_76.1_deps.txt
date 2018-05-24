@@ -1,0 +1,8 @@
+nsubj	ally	china
+cop	ally	is
+advmod	ally	north
+nmod:poss	ally	korea
+case	korea	's
+amod	ally	closest
+root	ROOT	ally
+punct	ally	.

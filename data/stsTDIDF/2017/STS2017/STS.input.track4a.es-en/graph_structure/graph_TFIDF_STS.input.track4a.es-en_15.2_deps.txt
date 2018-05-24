@@ -1,0 +1,10 @@
+carrying	what	dobj
+full	are	cop
+full	.	punct
+carrying	is	aux
+ROOT	full	root
+hands	woman	nmod:poss
+carrying	with	mark
+full	carrying	advcl
+carrying	she	nsubj
+full	hands	nsubj

@@ -1,0 +1,10 @@
+det	cat	A
+nsubj	swats	cat
+advmod	swats	rapidly
+root	ROOT	swats
+det	kid	a
+dobj	swats	kid
+case	head	in
+det	head	the
+nmod:in	swats	head
+punct	swats	.

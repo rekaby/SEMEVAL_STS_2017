@@ -1,0 +1,9 @@
+det	person	A
+nsubj	adding	person
+aux	adding	is
+root	ROOT	adding
+dobj	adding	oil
+case	pan	in
+det	pan	the
+nmod:in	oil	pan
+punct	adding	.

@@ -1,0 +1,17 @@
+det	period	the
+root	ROOT	period
+case	time	of
+nmod:of	period	time
+case	which	during
+nmod:during	effect	which
+det	contract	a
+nsubj	effect	contract
+acl	contract	conveying
+dobj	conveying	property
+case	person	to
+det	person	a
+nmod:to	conveying	person
+cop	effect	is
+case	effect	in
+acl:relcl	period	effect
+punct	period	.

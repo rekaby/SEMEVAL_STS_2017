@@ -1,0 +1,12 @@
+det	group	A
+nsubj	stands	group
+case	girls	of
+nmod:of	group	girls
+root	ROOT	stands
+xcomp	stands	wearing
+nsubj	skirts	jean
+ccomp	wearing	skirts
+cc	skirts	and
+compound	shirts	superman
+conj:and	skirts	shirts
+punct	stands	.

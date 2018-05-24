@@ -1,0 +1,8 @@
+nsubj	imposes	Pakistan
+root	ROOT	imposes
+amod	ban	temporary
+dobj	imposes	ban
+case	channels	on
+nummod	channels	2
+compound	channels	TV
+nmod:on	imposes	channels

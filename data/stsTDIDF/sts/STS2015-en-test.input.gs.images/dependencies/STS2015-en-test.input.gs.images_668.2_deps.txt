@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	walking	woman
+aux	walking	is
+root	ROOT	walking
+case	bag	with
+det	bag	a
+amod	bag	red
+nmod:with	walking	bag
+punct	walking	.

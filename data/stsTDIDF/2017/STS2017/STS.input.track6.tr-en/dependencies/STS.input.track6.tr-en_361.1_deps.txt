@@ -1,0 +1,5 @@
+det	person	A
+nsubj	climbs	person
+root	ROOT	climbs
+dobj	climbs	rocks
+punct	climbs	.

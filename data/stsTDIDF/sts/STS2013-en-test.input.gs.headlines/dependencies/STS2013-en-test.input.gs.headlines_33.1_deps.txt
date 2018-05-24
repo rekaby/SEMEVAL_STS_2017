@@ -1,0 +1,8 @@
+amod	plane	Military
+nsubj	crashes	plane
+root	ROOT	crashes
+case	France	in
+amod	France	south
+nmod:in	crashes	France
+punct	crashes	:
+dep	crashes	authorities

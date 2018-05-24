@@ -1,0 +1,7 @@
+amod	bicycle	Old
+compound	bicycle	style
+root	ROOT	bicycle
+acl	bicycle	parked
+case	floor	on
+nmod:on	parked	floor
+punct	bicycle	.

@@ -1,0 +1,12 @@
+aux	travel	Can
+nsubj	travel	I
+root	ROOT	travel
+case	UK	to
+det	UK	the
+nmod:to	travel	UK
+mark	expired	if
+nmod:poss	visa	my
+compound	visa	Schengen
+nsubj	expired	visa
+advcl	travel	expired
+punct	travel	?

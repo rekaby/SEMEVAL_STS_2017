@@ -1,0 +1,9 @@
+det	man	The
+nsubj	doing	man
+aux	doing	is
+root	ROOT	doing
+dobj	doing	cartwheels
+case	street	down
+det	street	the
+nmod:down	doing	street
+punct	doing	.

@@ -1,0 +1,17 @@
+root	ROOT	But
+det	returns	the
+dep	But	returns
+nsubj	make	that
+acl:relcl	returns	make
+compound	markets	us
+dobj	make	markets
+case	securities	of
+nmod:of	markets	securities
+mark	reflect	if
+nsubj	reflect	attractive
+advcl	make	reflect
+det	balance	a
+amod	balance	fragile
+amod	balance	political
+dobj	reflect	balance
+punct	But	.

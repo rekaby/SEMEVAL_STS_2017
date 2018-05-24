@@ -1,0 +1,9 @@
+compound	powers	World
+nsubj	seek	powers
+root	ROOT	seek
+amod	progress	rare
+nsubj	talks	progress
+case	Iran	in
+nmod:in	progress	Iran
+amod	talks	nuclear
+dobj	seek	talks

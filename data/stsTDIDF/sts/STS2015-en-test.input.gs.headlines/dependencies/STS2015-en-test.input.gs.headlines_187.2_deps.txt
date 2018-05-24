@@ -1,0 +1,9 @@
+root	ROOT	Reactions
+case	prospect	to
+det	prospect	the
+nmod:to	Reactions	prospect
+case	action	of
+amod	action	military
+nmod:of	prospect	action
+case	Syria	against
+nmod:against	Reactions	Syria

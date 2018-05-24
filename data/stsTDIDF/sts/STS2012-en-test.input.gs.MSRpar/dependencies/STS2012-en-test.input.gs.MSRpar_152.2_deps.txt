@@ -1,0 +1,17 @@
+amod	officials	Several
+compound	officials	Florida
+nsubj	connected	officials
+root	ROOT	connected
+case	case	to
+det	case	the
+nmod:to	connected	case
+aux	received	have
+ccomp	connected	received
+amod	letters	threatening
+dobj	received	letters
+punct	received	,
+dep	received	accompanied
+case	bullets	by
+compound	bullets	rifle
+nmod:by	accompanied	bullets
+punct	connected	.

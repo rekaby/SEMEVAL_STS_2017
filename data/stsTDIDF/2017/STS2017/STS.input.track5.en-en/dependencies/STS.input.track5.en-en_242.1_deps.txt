@@ -1,0 +1,10 @@
+det	raven	The
+nsubj	droned	raven
+root	ROOT	droned
+advmod	hopped	as
+auxpass	hopped	is
+dep	droned	hopped
+case	grass	along
+det	grass	the
+nmod:along	hopped	grass
+punct	droned	.

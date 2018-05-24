@@ -1,0 +1,17 @@
+aux	becoming	Is
+nsubj	becoming	#Pakistan
+root	ROOT	becoming
+punct	becoming	''
+nmod:poss	#Dreamliner	#SouthAsia
+case	#SouthAsia	's
+xcomp	becoming	#Dreamliner
+punct	#Dreamliner	''
+punct	becoming	?-9) punct(refuses-3, -
+nsubj	refuses	Official
+root	ROOT	refuses
+dobj	refuses	order
+mark	arrest	to
+acl	order	arrest
+compound	Ashraf	Prime
+compound	Ashraf	Minister
+dobj	arrest	Ashraf

@@ -1,0 +1,10 @@
+nsubj	braces	Egypt
+root	ROOT	braces
+dep	braces	for
+root	for	`
+root	`	Friday
+case	anger	of
+nmod:of	Friday	anger
+punct	anger	'
+case	carnage	after
+nmod:after	Friday	carnage

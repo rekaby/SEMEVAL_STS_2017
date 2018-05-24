@@ -1,0 +1,8 @@
+compound	gains	Facebook
+amod	gains	mobile
+nsubj	drive	gains
+root	ROOT	drive
+compound	growth	revenue
+dobj	drive	growth
+punct	drive	:
+dep	drive	reaction

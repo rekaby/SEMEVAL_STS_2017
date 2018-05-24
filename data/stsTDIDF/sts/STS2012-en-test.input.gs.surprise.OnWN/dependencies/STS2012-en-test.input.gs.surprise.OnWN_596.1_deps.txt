@@ -1,0 +1,7 @@
+root	ROOT	Give
+dobj	Give	suck
+dep	Give	to
+punct	Give	;
+parataxis	Give	receive
+dobj	receive	suck
+punct	Give	.

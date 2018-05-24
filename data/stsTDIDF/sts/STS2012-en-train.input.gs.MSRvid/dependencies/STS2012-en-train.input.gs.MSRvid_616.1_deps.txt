@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	brushing	woman
+aux	brushing	is
+root	ROOT	brushing
+nmod:poss	feet	her
+dobj	brushing	feet
+punct	brushing	.

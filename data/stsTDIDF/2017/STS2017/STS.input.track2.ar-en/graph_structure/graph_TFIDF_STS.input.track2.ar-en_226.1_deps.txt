@@ -1,0 +1,6 @@
+flexing	.	punct
+flexing	man	nsubj
+flexing	is	aux
+ROOT	flexing	root
+muscles	his	nmod:poss
+flexing	muscles	dobj

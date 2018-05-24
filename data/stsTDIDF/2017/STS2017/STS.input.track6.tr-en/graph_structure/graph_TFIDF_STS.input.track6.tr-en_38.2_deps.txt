@@ -1,0 +1,4 @@
+sits	car	nmod:on
+sits	person	nsubj
+car	on	case
+person	One	nummod

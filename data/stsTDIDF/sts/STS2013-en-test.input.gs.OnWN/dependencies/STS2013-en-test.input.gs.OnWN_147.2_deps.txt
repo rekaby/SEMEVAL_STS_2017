@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	giving	of
+acl	act	giving
+det	appearance	a
+amod	appearance	false
+dobj	giving	appearance
+punct	act	.

@@ -1,0 +1,10 @@
+root	ROOT	cause
+mark	match	to
+xcomp	cause	match
+punct	match	,
+case	ideas	as
+mwe	as	of
+nmod:as_of	match	ideas
+cc	ideas	or
+conj:or	ideas	acts
+punct	cause	.

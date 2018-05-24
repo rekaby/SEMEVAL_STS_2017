@@ -1,0 +1,8 @@
+nsubj	backs	Iraq
+root	ROOT	backs
+compound	crackdown	Egypt
+dobj	backs	crackdown
+case	supporters	on
+compound	supporters	Mohamed
+compound	supporters	Morsi
+nmod:on	backs	supporters

@@ -1,0 +1,7 @@
+root	ROOT	carry
+det	burden	a
+dobj	carry	burden
+punct	burden	,
+amod	burden	real
+cc	real	or
+conj:or	real	metaphorical

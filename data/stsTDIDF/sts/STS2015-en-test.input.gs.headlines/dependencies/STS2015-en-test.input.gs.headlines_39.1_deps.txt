@@ -1,0 +1,7 @@
+nsubj	scour	Rescuers
+root	ROOT	scour
+dobj	scour	debris
+mark	collapse	after
+compound	buildings	India
+nsubj	collapse	buildings
+advcl	scour	collapse

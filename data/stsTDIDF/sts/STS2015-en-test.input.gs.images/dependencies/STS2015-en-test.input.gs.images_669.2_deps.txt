@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+case	bed	near
+det	bed	a
+compound	bed	flower
+nmod:near	sitting	bed
+acl	bed	overlooking
+det	tunnel	a
+dobj	overlooking	tunnel
+punct	sitting	.

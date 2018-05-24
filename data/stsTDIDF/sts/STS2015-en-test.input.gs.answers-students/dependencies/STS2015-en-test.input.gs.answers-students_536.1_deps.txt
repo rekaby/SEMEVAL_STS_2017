@@ -1,0 +1,16 @@
+expl	is	there
+root	ROOT	is
+advmod	path	still
+det	path	a
+amod	path	closed
+nsubj	is	path
+nsubj	contains	that
+acl:relcl	path	contains
+det	battery	the
+dobj	contains	battery
+cc	battery	and
+conj:and	battery	bulb
+det	c	a
+cc	a	and
+conj:and	a	bulb
+dep	battery	c

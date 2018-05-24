@@ -1,0 +1,6 @@
+sewing	for	case
+using	machine	dobj
+Woman	.	punct
+Woman	using	acl
+ROOT	Woman	root
+using	sewing	nmod:for

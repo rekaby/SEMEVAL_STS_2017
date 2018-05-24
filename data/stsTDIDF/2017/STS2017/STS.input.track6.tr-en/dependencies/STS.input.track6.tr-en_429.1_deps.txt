@@ -1,0 +1,13 @@
+det	man	A
+nsubj	race	man
+case	handicap	with
+det	handicap	a
+nmod:with	man	handicap
+cop	race	was
+case	race	in
+det	race	a
+compound	race	wheelchair
+root	ROOT	race
+cc	race	and
+conj:and	race	won
+punct	race	.

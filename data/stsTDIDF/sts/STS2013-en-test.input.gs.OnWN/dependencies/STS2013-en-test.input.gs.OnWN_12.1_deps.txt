@@ -1,0 +1,7 @@
+root	ROOT	coerce
+case	violence	by
+nmod:by	coerce	violence
+punct	coerce	,
+appos	coerce	fill
+case	terror	with
+nmod:with	fill	terror

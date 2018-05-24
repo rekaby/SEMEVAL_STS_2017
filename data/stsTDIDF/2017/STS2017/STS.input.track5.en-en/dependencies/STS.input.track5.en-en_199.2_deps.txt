@@ -1,0 +1,7 @@
+det	zombies	The
+nsubj	eating	zombies
+aux	eating	are
+root	ROOT	eating
+dobj	eating	flesh
+advmod	eating	together
+punct	eating	.

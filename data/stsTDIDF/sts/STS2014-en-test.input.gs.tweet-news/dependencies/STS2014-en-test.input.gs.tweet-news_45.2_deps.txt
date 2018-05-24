@@ -1,0 +1,12 @@
+nmod:poss	sales	Microsoft
+case	Microsoft	's
+compound	sales	Windows
+nummod	sales	8
+nsubj	big	sales
+cop	big	are
+root	ROOT	big
+punct	big	--
+advmod	big	just
+neg	big	not
+amod	enough	big
+dep	big	enough

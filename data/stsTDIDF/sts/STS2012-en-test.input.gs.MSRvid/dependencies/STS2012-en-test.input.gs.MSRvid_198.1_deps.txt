@@ -1,0 +1,7 @@
+det	turtle	A
+nsubj	swimming	turtle
+aux	swimming	is
+root	ROOT	swimming
+case	water	in
+nmod:in	swimming	water
+punct	swimming	.

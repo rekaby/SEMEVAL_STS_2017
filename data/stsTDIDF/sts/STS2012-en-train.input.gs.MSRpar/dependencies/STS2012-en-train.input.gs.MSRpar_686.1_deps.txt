@@ -1,0 +1,17 @@
+case	markets	In
+amod	markets	other
+nmod:in	started	markets
+punct	started	,
+compound	Treasuries	U.S.
+nsubj	started	Treasuries
+root	ROOT	started
+compound:prt	started	off
+case	Monday	on
+nmod:on	started	Monday
+amod	Monday	weaker
+punct	started	,
+mark	rose	as
+nsubj	rose	stocks
+advcl	started	rose
+advmod	rose	early
+punct	started	.

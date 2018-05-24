@@ -1,0 +1,12 @@
+laugh	others	nsubj
+child	laugh	advcl
+jump	something	nmod:on
+something	red	amod
+ROOT	child	root
+child	,	punct
+child	wearing	acl
+wearing	jump	dobj
+laugh	while	mark
+child	.	punct
+jump	a	det
+jump	red	amod

@@ -1,0 +1,8 @@
+amod	court	Russian
+root	ROOT	court
+mark	rule	to
+acl	court	rule
+case	trial	in
+compound	trial	Pussy
+compound	trial	Riot
+nmod:in	rule	trial

@@ -1,0 +1,5 @@
+compound	vote	UK
+nsubj	rejects	vote
+root	ROOT	rejects
+amod	action	military
+dobj	rejects	action

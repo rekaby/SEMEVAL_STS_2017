@@ -1,0 +1,10 @@
+mark	included	because
+compound	c	bulb
+nsubjpass	included	c
+auxpass	included	is
+neg	included	not
+root	ROOT	included
+case	path	in
+det	path	the
+amod	path	closed
+nmod:in	included	path

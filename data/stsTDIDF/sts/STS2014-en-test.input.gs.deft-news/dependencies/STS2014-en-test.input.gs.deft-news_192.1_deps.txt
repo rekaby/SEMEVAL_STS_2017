@@ -1,0 +1,10 @@
+det	accused	the
+nsubjpass	charged	accused
+aux	charged	will
+auxpass	charged	be
+root	ROOT	charged
+case	trafficking	with
+amod	trafficking	international
+compound	trafficking	drug
+nmod:with	charged	trafficking
+punct	charged	.

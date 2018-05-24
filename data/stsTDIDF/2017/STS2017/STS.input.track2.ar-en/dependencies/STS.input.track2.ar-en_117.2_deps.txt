@@ -1,0 +1,7 @@
+root	ROOT	People
+acl	People	sitting
+case	park	in
+det	park	a
+amod	park	public
+nmod:in	sitting	park
+punct	People	.

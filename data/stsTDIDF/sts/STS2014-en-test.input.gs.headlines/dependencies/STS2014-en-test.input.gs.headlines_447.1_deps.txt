@@ -1,0 +1,8 @@
+nsubj	extend	Rogers
+punct	Rogers	,
+appos	Rogers	Videotron
+root	ROOT	extend
+dobj	extend	reach
+case	deal	with
+amod	deal	network-sharing
+nmod:with	extend	deal

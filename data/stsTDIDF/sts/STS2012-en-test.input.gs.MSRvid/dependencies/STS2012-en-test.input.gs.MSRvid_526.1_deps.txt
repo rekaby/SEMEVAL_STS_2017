@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	peels	woman
+root	ROOT	peels
+det	apple	an
+dobj	peels	apple
+punct	peels	.

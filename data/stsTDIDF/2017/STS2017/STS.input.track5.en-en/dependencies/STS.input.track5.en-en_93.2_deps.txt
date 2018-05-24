@@ -1,0 +1,8 @@
+det	girl	a
+nsubj	talking	girl
+aux	talking	is
+root	ROOT	talking
+case	phone	on
+nmod:poss	phone	her
+nmod:on	talking	phone
+punct	talking	.

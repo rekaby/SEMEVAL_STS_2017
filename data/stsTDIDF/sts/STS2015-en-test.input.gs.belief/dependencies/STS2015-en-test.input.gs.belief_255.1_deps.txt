@@ -1,0 +1,12 @@
+nsubj	say	i
+root	ROOT	say
+det	time	the
+nsubj	now	time
+mark	tackle	to
+acl	time	tackle
+det	issue	the
+amod	issue	iran
+dobj	tackle	issue
+cop	now	is
+ccomp	say	now
+punct	say	.

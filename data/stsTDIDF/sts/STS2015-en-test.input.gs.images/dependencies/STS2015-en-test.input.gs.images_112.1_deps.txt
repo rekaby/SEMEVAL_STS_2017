@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	black
+nsubj	jumps	dog
+root	ROOT	jumps
+case	water	through
+det	water	the
+nmod:through	jumps	water
+punct	jumps	.

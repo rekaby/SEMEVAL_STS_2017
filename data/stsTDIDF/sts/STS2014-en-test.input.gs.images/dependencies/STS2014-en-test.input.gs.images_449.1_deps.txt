@@ -1,0 +1,7 @@
+det	train	a
+nsubj	rides	train
+root	ROOT	rides
+case	tracks	on
+nmod:poss	tracks	his
+nmod:on	rides	tracks
+punct	rides	.

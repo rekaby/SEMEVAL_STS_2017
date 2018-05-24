@@ -1,0 +1,8 @@
+det	group	A
+nsubj	ride	group
+case	people	of
+nmod:of	group	people
+root	ROOT	ride
+case	race	in
+det	race	a
+nmod:in	ride	race

@@ -1,0 +1,15 @@
+det	girl	A
+amod	girl	young
+amod	girl	blonde
+nsubj	sits	girl
+acl	girl	wearing
+det	helmet	a
+dobj	wearing	helmet
+root	ROOT	sits
+case	bicycle	with
+det	bicycle	a
+amod	bicycle	red
+nmod:with	sits	bicycle
+case	her	behind
+nmod:behind	bicycle	her
+punct	sits	.

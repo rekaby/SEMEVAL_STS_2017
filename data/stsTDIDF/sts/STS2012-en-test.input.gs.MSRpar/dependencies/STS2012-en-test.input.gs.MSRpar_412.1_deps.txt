@@ -1,0 +1,16 @@
+case	power	With
+det	power	the
+root	ROOT	power
+advmod	headed	back
+advmod	headed	on
+punct	headed	,
+compound	workers	state
+nsubj	headed	workers
+acl	power	headed
+advmod	headed	back
+case	jobs	to
+nmod:poss	jobs	their
+nmod:to	headed	jobs
+compound	morning	Friday
+nmod:tmod	headed	morning
+punct	power	.

@@ -1,0 +1,6 @@
+det	surprise	an
+amod	surprise	unpleasant
+cc	unpleasant	or
+conj:or	unpleasant	disappointing
+root	ROOT	surprise
+punct	surprise	.

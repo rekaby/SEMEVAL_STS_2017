@@ -1,0 +1,10 @@
+nsubj	believe	Some
+root	ROOT	believe
+neg	slaughtering	not
+csubj	important	slaughtering
+det	unborn	the
+dobj	slaughtering	unborn
+cop	important	is
+advmod	important	most
+ccomp	believe	important
+punct	believe	.

@@ -1,0 +1,7 @@
+punct	accepts	-LRB-
+nsubj	accepts	Parliament
+root	ROOT	accepts
+det	amendment	the
+amod	amendment	oral
+dobj	accepts	amendment
+punct	accepts	-RRB-

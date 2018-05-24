@@ -1,0 +1,11 @@
+root	ROOT	Sleeping
+dobj	Sleeping	baby
+dep	Sleeping	while
+det	mother	the
+dep	while	mother
+nsubj	pay	you
+acl:relcl	mother	pay
+case	stroller	in
+det	stroller	a
+nmod:in	pay	stroller
+punct	Sleeping	.

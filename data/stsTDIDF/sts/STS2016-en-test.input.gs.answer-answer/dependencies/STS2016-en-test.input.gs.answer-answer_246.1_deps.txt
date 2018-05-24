@@ -1,0 +1,7 @@
+nsubj	agree	I
+root	ROOT	agree
+case	comments	with
+det	comments	the
+amod	comments	other
+nmod:with	agree	comments
+punct	agree	.

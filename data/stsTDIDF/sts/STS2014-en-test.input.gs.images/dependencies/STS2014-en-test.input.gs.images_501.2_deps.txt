@@ -1,0 +1,9 @@
+root	ROOT	Grey
+cc	Grey	and
+amod	cat	white
+conj:and	Grey	cat
+acl	Grey	sitting
+case	sink	in
+compound	sink	bathroom
+nmod:in	sitting	sink
+punct	Grey	.

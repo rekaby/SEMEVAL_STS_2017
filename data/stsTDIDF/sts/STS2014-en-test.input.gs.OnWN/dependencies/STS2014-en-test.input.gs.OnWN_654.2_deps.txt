@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	competing	of
+acl	act	competing
+case	profit	as
+mwe	as	for
+nmod:as_for	competing	profit
+cc	profit	or
+det	prize	a
+conj:or	profit	prize
+punct	act	.

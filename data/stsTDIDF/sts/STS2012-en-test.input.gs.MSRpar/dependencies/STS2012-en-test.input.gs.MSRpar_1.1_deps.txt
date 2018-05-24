@@ -1,0 +1,15 @@
+det	problem	The
+nsubj	mean	problem
+advmod	mean	likely
+aux	mean	will
+root	ROOT	mean
+amod	changes	corrective
+dobj	mean	changes
+mark	starts	before
+det	fleet	the
+compound	fleet	shuttle
+nsubj	starts	fleet
+acl	changes	starts
+xcomp	starts	flying
+advmod	flying	again
+punct	mean	.

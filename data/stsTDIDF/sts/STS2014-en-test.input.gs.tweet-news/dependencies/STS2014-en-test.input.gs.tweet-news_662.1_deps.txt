@@ -1,0 +1,16 @@
+root	ROOT	Care
+case	Elderly	of
+det	Elderly	the
+nmod:of	Care	Elderly
+punct	Care	:
+det	opportunity	the
+nsubj	more	opportunity
+case	food	of
+nmod:of	opportunity	food
+cop	more	is
+parataxis	Care	more
+case	meals	than
+nmod:than	more	meals
+case	wheels	on
+nmod:on	meals	wheels
+punct	Care	.

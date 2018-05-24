@@ -1,0 +1,8 @@
+det	shop	A
+compound	shop	sweat
+nsubj	spring	shop
+cop	spring	is
+case	spring	in
+amod	spring	full
+root	ROOT	spring
+punct	spring	.

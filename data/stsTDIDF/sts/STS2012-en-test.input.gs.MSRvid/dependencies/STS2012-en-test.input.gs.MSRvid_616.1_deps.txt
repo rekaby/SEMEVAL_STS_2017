@@ -1,0 +1,6 @@
+nsubj	typed	Someone
+root	ROOT	typed
+case	keyboard	on
+det	keyboard	a
+nmod:on	typed	keyboard
+punct	typed	.

@@ -1,0 +1,9 @@
+det	man	A
+amod	man	young
+nsubj	wearing	man
+aux	wearing	is
+root	ROOT	wearing
+det	suit	a
+dobj	wearing	suit
+amod	suit	outdoors
+punct	wearing	.

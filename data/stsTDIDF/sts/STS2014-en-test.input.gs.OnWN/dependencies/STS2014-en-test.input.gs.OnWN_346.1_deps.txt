@@ -1,0 +1,6 @@
+amod	willingness	aggressive
+root	ROOT	willingness
+case	battle	to
+nmod:to	willingness	battle
+punct	willingness	,
+appos	willingness	pugnaciousness

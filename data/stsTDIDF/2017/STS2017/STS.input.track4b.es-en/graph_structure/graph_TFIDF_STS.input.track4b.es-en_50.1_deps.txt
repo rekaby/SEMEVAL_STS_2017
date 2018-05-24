@@ -1,0 +1,11 @@
+daughter	moment	nmod:for
+said	stopped	ccomp
+stopped	put	conj:and
+Monk	Roseanna	compound
+stopped	door	nmod:near
+daughter	her	nsubj
+moment	down	case
+stopped	she	nsubj
+said	Monk	nsubj
+door	near	case
+put	daughter	xcomp

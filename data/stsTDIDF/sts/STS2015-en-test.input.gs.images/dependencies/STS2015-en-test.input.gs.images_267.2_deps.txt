@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	doing	girl
+root	ROOT	doing
+det	bend	a
+amod	bend	back
+dobj	doing	bend
+case	beach	at
+det	beach	the
+nmod:at	doing	beach
+punct	doing	.

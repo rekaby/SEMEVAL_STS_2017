@@ -1,0 +1,9 @@
+compound	ministers	EU
+nsubj	hold	ministers
+root	ROOT	hold
+compound	talks	crisis
+dobj	hold	talks
+case	scandal	over
+compound	scandal	horse
+compound	scandal	meat
+nmod:over	talks	scandal

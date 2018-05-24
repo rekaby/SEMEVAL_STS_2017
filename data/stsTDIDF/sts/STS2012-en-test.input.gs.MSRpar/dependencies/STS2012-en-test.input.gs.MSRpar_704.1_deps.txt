@@ -1,0 +1,17 @@
+nummod	Kuwaitis	Two
+nsubj	suspects	Kuwaitis
+cc	Kuwaitis	and
+nummod	Palestinians	six
+conj:and	Kuwaitis	Palestinians
+case	passports	with
+amod	passports	Jordanian
+nmod:with	Palestinians	passports
+cop	suspects	were
+case	suspects	among
+det	suspects	the
+ccomp	said	suspects
+punct	said	,
+det	official	the
+nsubj	said	official
+root	ROOT	said
+punct	said	.

@@ -1,0 +1,11 @@
+nsubj	led	Abuse
+case	step-father	of
+det	step-father	a
+nmod:of	Abuse	step-father
+punct	led	-
+punct	led	''
+nsubj	led	which
+root	ROOT	led
+case	suicide	to
+nmod:to	led	suicide
+punct	led	''

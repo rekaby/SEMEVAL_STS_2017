@@ -1,0 +1,11 @@
+det	motorcycle	A
+amod	motorcycle	silver
+cc	silver	and
+conj:and	silver	blue
+root	ROOT	motorcycle
+acl	motorcycle	sitting
+case	car	next
+mwe	next	to
+det	car	a
+nmod:next_to	sitting	car
+punct	motorcycle	.

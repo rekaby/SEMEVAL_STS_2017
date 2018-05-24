@@ -1,0 +1,11 @@
+root	ROOT	Urgent
+punct	Urgent	:
+compound	toll	Death
+nsubj	rises	toll
+case	fire	from
+compound	fire	NE
+compound	fire	China
+nmod:from	toll	fire
+dep	Urgent	rises
+case	112	to
+nmod:to	rises	112

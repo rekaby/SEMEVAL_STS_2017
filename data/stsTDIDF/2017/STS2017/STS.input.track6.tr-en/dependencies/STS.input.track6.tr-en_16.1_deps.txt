@@ -1,0 +1,11 @@
+det	firefighters	The
+nsubj	first	firefighters
+cop	first	were
+det	first	the
+root	ROOT	first
+mark	arrive	to
+xcomp	first	arrive
+case	scene	at
+det	scene	the
+nmod:at	arrive	scene
+punct	first	.

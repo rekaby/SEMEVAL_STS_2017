@@ -1,0 +1,7 @@
+nmod:poss	Intervenes	#Pakistan
+case	#Pakistan	's
+compound	Intervenes	Premier
+root	ROOT	Intervenes
+case	Inquiry	in
+compound	Inquiry	Fire
+nmod:in	Intervenes	Inquiry

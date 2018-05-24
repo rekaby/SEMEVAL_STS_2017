@@ -1,0 +1,17 @@
+compound	Kelly	Mr.
+nsubj	directing	Kelly
+punct	directing	,
+mark	present	while
+advcl	directing	present
+punct	directing	,
+aux	directing	was
+punct	directing	``
+neg	directing	not
+ccomp	said	directing
+dobj	directing	operations
+punct	said	,
+punct	said	''
+compound	Browne	Mr.
+nsubj	said	Browne
+root	ROOT	said
+punct	said	.

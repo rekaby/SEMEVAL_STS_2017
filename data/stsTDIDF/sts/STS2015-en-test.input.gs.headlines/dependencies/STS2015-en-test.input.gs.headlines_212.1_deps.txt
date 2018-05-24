@@ -1,0 +1,6 @@
+compound	pageants	France
+mark	ban	to
+acl	France	ban
+compound	beauty	child
+dobj	ban	beauty
+root	ROOT	pageants

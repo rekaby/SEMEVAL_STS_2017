@@ -1,0 +1,12 @@
+root	ROOT	Annan
+punct	Annan	,
+compound	call	UN
+compound	call	chief
+appos	Annan	call
+case	Council	on
+compound	Council	Security
+nmod:on	call	Council
+mark	act	to
+acl	call	act
+case	Syria	on
+nmod:on	act	Syria

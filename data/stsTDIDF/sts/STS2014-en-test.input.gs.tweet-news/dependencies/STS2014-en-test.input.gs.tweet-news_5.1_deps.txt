@@ -1,0 +1,10 @@
+root	ROOT	What
+cop	What	's
+case	bill	in
+nmod:poss	bill	Feinstein
+case	Feinstein	's
+compound	bill	gun
+nmod:in	's	bill
+punct	bill	-
+compound	#pjnet	#tgdn
+dep	bill	#pjnet

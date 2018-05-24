@@ -1,0 +1,8 @@
+root	ROOT	abstain
+conj:or	abstain	abstain
+case	eating	from
+nmod:from	abstain	eating
+cc	abstain	or
+case	foods	from
+amod	foods	certain
+nmod:from	abstain	foods

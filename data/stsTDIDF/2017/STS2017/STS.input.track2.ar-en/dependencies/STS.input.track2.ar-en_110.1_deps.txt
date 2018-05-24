@@ -1,0 +1,9 @@
+det	man	The
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	sheep	next
+mwe	next	to
+det	sheep	a
+nmod:next_to	standing	sheep
+punct	standing	.

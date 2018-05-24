@@ -1,0 +1,11 @@
+det	point	This
+nsubj	opens	point
+case	regulation	of
+det	regulation	the
+nmod:of	point	regulation
+root	ROOT	opens
+det	door	the
+dobj	opens	door
+case	arbitrariness	to
+nmod:to	door	arbitrariness
+punct	opens	.

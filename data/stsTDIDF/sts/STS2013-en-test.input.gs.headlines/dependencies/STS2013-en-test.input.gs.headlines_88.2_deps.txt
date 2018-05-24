@@ -1,0 +1,8 @@
+nummod	quake	5.9
+nsubj	hits	quake
+root	ROOT	hits
+compound	Sumatra	Indonesia
+compound	Sumatra	s
+dobj	hits	Sumatra
+punct	hits	:
+dep	hits	USGS

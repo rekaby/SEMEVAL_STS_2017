@@ -1,0 +1,26 @@
+punct So .-2) root(ROOT-0, Odd	15.060439779775294
+punct Odd .-2) root(ROOT-0, ?-1) root(ROOT-0, :	15.060439779775294
+root : words	15.060439779775294
+root : Te'o	15.060439779775294
+nmod:on Te'o girlfriend	15.060439779775294
+punct Te'o ,	15.060439779775294
+cc Te'o and	15.060439779775294
+conj:and Te'o death	15.060439779775294
+punct death -	15.060439779775294
+acl death revealed	15.060439779775294
+xcomp revealed hoax	15.060439779775294
+punct Te'o ?	15.060439779775294
+advmod revealed now	14.367292599215348
+punct Te'o :	14.367292599215348
+compound Te'o Manti	13.674145418655403
+case girlfriend on	13.674145418655403
+mark hoax to	13.674145418655403
+cop hoax be	13.674145418655403
+det hoax a	12.064707506221303
+amod words own	11.626452575290147
+nmod:poss death her	10.496091588307458
+nmod:poss words his	10.125965846644602
+nmod:poss girlfriend his	9.808166351728664
+punct words :	9.694463764753442
+case words In	9.425650176606045
+root ROOT So	8.423181748490837

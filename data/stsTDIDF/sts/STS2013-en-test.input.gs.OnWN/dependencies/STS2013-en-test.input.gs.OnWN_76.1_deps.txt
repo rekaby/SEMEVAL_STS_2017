@@ -1,0 +1,9 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	become	to
+punct	become	-RRB-
+xcomp	cause	become
+advmod	intense	less
+xcomp	become	intense
+cc	intense	or
+conj:or	intense	strict

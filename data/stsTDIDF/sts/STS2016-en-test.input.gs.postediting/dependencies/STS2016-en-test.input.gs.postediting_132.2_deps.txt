@@ -1,0 +1,17 @@
+det	answer	A
+amod	answer	formulated
+nsubj	suprising	answer
+case	this	like
+nmod:like	answer	this
+cop	suprising	is
+neg	suprising	not
+root	ROOT	suprising
+punct	suprising	,
+xcomp	suprising	coming
+case	representative	from
+det	representative	the
+nmod:from	coming	representative
+case	operators	of
+det	operators	the
+nmod:of	representative	operators
+punct	suprising	.

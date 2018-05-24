@@ -1,0 +1,6 @@
+compound	statue	Bird
+nsubj	holds	statue
+root	ROOT	holds
+det	flower	a
+dobj	holds	flower
+punct	holds	.

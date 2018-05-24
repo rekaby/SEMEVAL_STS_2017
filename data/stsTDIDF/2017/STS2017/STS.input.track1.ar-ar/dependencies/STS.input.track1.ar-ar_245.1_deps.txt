@@ -1,0 +1,6 @@
+compound	room	Classmates
+root	ROOT	room
+acl	room	watching
+det	movie	a
+dobj	watching	movie
+punct	room	.

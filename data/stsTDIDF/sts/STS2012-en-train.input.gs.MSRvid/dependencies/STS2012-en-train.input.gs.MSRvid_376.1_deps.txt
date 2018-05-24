@@ -1,0 +1,9 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	snake	a
+dobj	cutting	snake
+mark	cook	to
+advcl	cutting	cook
+punct	cutting	.

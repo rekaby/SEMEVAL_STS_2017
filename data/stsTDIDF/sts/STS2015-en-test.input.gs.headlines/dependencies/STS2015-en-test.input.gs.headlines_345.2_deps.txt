@@ -1,0 +1,6 @@
+root	ROOT	MH17
+amod	MH17	dead
+acl	dead	flown
+advmod	flown	back
+case	Netherlands	to
+nmod:to	flown	Netherlands

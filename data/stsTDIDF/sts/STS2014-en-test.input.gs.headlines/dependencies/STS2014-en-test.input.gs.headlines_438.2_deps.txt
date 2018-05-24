@@ -1,0 +1,6 @@
+compound	Snowden	Edward
+nmod:poss	father	Snowden
+case	Snowden	's
+root	ROOT	father
+case	Moscow	in
+nmod:in	father	Moscow

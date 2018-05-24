@@ -1,0 +1,13 @@
+det	girl	A
+amod	girl	little
+nsubj	runs	girl
+case	dress	in
+det	dress	a
+compound	dress	paisley
+nmod:in	girl	dress
+root	ROOT	runs
+case	playground	across
+det	playground	a
+amod	playground	sandy
+nmod:across	runs	playground
+punct	runs	.

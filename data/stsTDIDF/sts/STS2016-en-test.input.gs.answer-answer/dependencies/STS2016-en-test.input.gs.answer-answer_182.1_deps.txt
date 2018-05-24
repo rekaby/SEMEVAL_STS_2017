@@ -1,0 +1,12 @@
+nsubj	afraid	I
+cop	afraid	'm
+root	ROOT	afraid
+nsubj	luck	we
+cop	luck	are
+case	luck	out
+mwe	out	of
+ccomp	afraid	luck
+case	one	in
+det	one	this
+nmod:in	luck	one
+punct	afraid	.

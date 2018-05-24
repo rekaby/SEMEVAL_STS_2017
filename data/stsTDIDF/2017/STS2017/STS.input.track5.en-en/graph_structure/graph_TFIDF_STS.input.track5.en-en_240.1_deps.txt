@@ -1,0 +1,10 @@
+repairing	net	dobj
+repairing	is	aux
+guy	maintenance	compound
+repairing	guy	nsubj
+ROOT	repairing	root
+repairing	court	nmod:on
+court	tennis	compound
+repairing	.	punct
+net	a	det
+guy	A	det

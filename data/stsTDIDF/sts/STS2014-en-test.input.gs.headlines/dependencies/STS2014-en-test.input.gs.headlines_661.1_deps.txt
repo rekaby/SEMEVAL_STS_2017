@@ -1,0 +1,6 @@
+compound	Africa	South
+nsubj	prays	Africa
+root	ROOT	prays
+case	Mandela	for
+compound	Mandela	Nelson
+nmod:for	prays	Mandela

@@ -1,0 +1,17 @@
+compound	Harvey	Ryan
+nsubjpass	chosen	Harvey
+punct	Harvey	,
+det	school	a
+amod	school	high
+appos	Harvey	school
+dep	school	outfielder
+case	Florida	from
+nmod:from	outfielder	Florida
+punct	Harvey	,
+auxpass	chosen	was
+root	ROOT	chosen
+xcomp	chosen	sixth
+case	Cubs	by
+det	Cubs	the
+nmod:by	sixth	Cubs
+punct	chosen	.

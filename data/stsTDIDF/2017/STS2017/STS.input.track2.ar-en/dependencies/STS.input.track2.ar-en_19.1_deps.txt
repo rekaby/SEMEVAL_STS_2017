@@ -1,0 +1,10 @@
+det	man	a
+root	ROOT	man
+acl	man	working
+det	kinks	the
+dobj	working	kinks
+case	bones	out
+mwe	out	of
+nmod:poss	bones	his
+amod	bones	old
+nmod:out_of	working	bones

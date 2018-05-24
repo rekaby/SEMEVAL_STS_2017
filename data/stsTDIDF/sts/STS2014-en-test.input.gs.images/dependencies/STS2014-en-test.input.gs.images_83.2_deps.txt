@@ -1,0 +1,11 @@
+nummod	men	Three
+root	ROOT	men
+acl	men	sitting
+case	table	at
+det	table	the
+nmod:at	sitting	table
+case	beer	with
+nmod:with	table	beer
+cc	beer	and
+conj:and	beer	food
+punct	men	.

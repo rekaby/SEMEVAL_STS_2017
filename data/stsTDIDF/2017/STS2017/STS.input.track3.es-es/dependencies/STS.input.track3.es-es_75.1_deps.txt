@@ -1,0 +1,5 @@
+nsubj	drop	People
+root	ROOT	drop
+nmod:poss	flags	their
+dobj	drop	flags
+punct	drop	.

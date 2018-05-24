@@ -1,0 +1,13 @@
+det	dog	A
+nsubj	running	dog
+case	Frisbee	with
+det	Frisbee	a
+nmod:with	dog	Frisbee
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	Frisbee	mouth
+aux	running	is
+root	ROOT	running
+case	snow	through
+nmod:through	running	snow
+punct	running	.

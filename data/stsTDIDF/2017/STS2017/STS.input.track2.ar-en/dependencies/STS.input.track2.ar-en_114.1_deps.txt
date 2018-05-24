@@ -1,0 +1,11 @@
+det	worker	A
+amod	worker	male
+cc	male	and
+conj:and	male	female
+nsubj	whipping	worker
+cop	whipping	is
+root	ROOT	whipping
+case	meal	up
+det	meal	a
+nmod:up	whipping	meal
+punct	whipping	.

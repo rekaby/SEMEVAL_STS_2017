@@ -1,0 +1,12 @@
+det	dog	The
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	ball	with
+det	ball	a
+amod	ball	yellow
+nmod:with	running	ball
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	ball	mouth
+punct	running	.

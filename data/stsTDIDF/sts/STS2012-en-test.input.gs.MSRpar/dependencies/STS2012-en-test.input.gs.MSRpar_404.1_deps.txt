@@ -1,0 +1,15 @@
+det	state	The
+nmod:poss	population	state
+case	state	's
+nsubj	6,080,485	population
+cop	6,080,485	was
+root	ROOT	6,080,485
+case	2000	in
+nmod:in	6,080,485	2000
+punct	6,080,485	,
+case	census	according
+mwe	according	to
+det	census	the
+compound	census	U.S.
+nmod:according_to	6,080,485	census
+punct	6,080,485	.

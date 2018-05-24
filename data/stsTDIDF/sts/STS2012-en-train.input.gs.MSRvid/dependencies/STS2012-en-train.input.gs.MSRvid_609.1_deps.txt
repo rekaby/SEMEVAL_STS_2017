@@ -1,0 +1,9 @@
+det	lady	The
+nsubj	made	lady
+root	ROOT	made
+det	slices	some
+dobj	made	slices
+case	shrimp	on
+det	shrimp	the
+nmod:on	made	shrimp
+punct	made	.

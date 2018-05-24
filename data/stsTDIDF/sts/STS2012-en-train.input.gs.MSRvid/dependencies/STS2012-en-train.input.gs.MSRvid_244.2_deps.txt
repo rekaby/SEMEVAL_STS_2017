@@ -1,0 +1,10 @@
+det	lady	The
+nsubj	poured	lady
+root	ROOT	poured
+det	pudding	the
+compound	pudding	rice
+dobj	poured	pudding
+case	bowl	into
+det	bowl	a
+nmod:into	poured	bowl
+punct	poured	.

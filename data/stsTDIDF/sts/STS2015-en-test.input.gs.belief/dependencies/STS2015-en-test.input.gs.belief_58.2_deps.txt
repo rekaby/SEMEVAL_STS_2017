@@ -1,0 +1,10 @@
+nsubj	worn	you
+aux	worn	've
+root	ROOT	worn
+det	finish	the
+dobj	worn	finish
+case	table	off
+nmod:poss	table	your
+compound	table	coffee
+nmod:off	worn	table
+punct	worn	.

@@ -1,0 +1,7 @@
+resting	.	punct
+resting	is	aux
+resting	dog	nsubj
+stairs	on	case
+ROOT	resting	root
+resting	stairs	nmod:on
+stairs	the	det

@@ -1,0 +1,8 @@
+compound	prankster	Radio
+root	ROOT	prankster
+case	tears	in
+nmod:in	prankster	tears
+case	death	over
+nmod:poss	death	nurse
+case	nurse	's
+nmod:over	tears	death

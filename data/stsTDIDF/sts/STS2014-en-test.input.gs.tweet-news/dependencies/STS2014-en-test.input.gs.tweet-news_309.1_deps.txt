@@ -1,0 +1,13 @@
+nmod:tmod	Luck	America
+punct	Luck	,
+det	Arabia	the
+compound	Arabia	Saudi
+nsubj	Luck	Arabia
+case	tomorrow	of
+nmod:of	Arabia	tomorrow
+punct	Luck	-
+amod	Luck	Good
+root	ROOT	Luck
+dobj	Luck	Saudi
+punct	Luck	:
+punct	Luck	-RRB-

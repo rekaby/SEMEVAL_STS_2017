@@ -1,0 +1,4 @@
+root	ROOT	decide
+case	authority	with
+nmod:with	decide	authority
+punct	decide	;

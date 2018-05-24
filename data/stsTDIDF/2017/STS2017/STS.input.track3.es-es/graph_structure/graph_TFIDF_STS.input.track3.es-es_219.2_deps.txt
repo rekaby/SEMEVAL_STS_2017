@@ -1,0 +1,7 @@
+ROOT	beagle	root
+having	walking	advcl
+beagle	The	det
+walking	while	mark
+having	drink	dobj
+woman	having	acl
+beagle	woman	nmod:of

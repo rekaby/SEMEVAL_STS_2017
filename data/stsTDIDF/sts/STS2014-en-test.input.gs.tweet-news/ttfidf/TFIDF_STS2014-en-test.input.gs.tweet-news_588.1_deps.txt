@@ -1,0 +1,16 @@
+punct start !-5) root(ROOT-0, Kudos	15.060439779775294
+nmod:to Kudos kid	15.060439779775294
+nummod Kudos !!!-5) compound(Use-4, PepsiCo	15.060439779775294
+compound Use Will	14.367292599215348
+compound Use Halt	14.367292599215348
+case Additive of	14.367292599215348
+nmod:of Use Additive	14.367292599215348
+case Gatorade in	14.367292599215348
+nmod:in Use Gatorade	14.367292599215348
+case kid to	12.015917342051871
+det kid this	11.764602913770965
+nsubj start It	11.346867713070985
+cop start 's	11.346867713070985
+root ROOT Use	10.043159942960369
+det start a	8.643707497262968
+root ROOT start	8.425806421913608

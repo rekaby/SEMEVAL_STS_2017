@@ -1,0 +1,9 @@
+compound	Bryant	Ada
+nsubj	!!	Bryant
+cc	Bryant	and
+compound	Haire	Robert
+conj:and	Bryant	Haire
+nsubj	go	You
+acl:relcl	Haire	go
+dobj	go	girl
+root	ROOT	!!

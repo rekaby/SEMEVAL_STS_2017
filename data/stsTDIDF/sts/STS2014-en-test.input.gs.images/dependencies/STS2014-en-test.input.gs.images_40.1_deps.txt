@@ -1,0 +1,13 @@
+det	set	A
+amod	set	black
+cc	black	and
+conj:and	black	wood
+amod	set	colored
+compound	set	dining
+compound	set	room
+root	ROOT	set
+case	apartment	in
+det	apartment	a
+amod	apartment	small
+nmod:in	set	apartment
+punct	set	.

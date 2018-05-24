@@ -1,0 +1,9 @@
+compound	agency	China
+compound	agency	news
+root	ROOT	agency
+punct	agency	:
+advmod	hope	Still
+dep	agency	hope
+case	Syria	for
+nmod:for	hope	Syria
+nmod:tmod	hope	peace

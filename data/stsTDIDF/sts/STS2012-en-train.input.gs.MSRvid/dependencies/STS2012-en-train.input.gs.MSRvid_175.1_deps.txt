@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+acl	man	sliced
+case	bunch	through
+det	bunch	a
+nmod:through	sliced	bunch
+case	bottles	of
+compound	bottles	water
+nmod:of	bunch	bottles
+case	knife	with
+det	knife	a
+nmod:with	bunch	knife
+punct	man	.

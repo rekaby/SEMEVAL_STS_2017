@@ -1,0 +1,14 @@
+compound	Rouhani	Iran
+compound	Rouhani	leader
+nsubj	says	Rouhani
+root	ROOT	says
+amod	deal	nuclear
+dobj	says	deal
+case	possible	with
+compound	possible	U.S.
+nmod:with	deal	possible
+case	months	within
+nummod	months	¿
+nummod	months	three
+nmod:within	possible	months
+dep	deal	¿

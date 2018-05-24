@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	walks	dog
+root	ROOT	walks
+case	snow	through
+det	snow	the
+nmod:through	walks	snow
+punct	walks	.

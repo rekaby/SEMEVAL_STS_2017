@@ -1,0 +1,5 @@
+nsubj	Vote	Iranians
+root	ROOT	Vote
+case	Election	in
+compound	Election	Presidential
+nmod:in	Vote	Election

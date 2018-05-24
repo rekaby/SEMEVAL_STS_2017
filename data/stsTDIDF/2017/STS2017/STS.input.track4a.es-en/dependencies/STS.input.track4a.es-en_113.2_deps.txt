@@ -1,0 +1,7 @@
+det	person	A
+root	ROOT	person
+amod	person	standing
+case	crowd	in
+det	crowd	a
+nmod:in	standing	crowd
+punct	person	.

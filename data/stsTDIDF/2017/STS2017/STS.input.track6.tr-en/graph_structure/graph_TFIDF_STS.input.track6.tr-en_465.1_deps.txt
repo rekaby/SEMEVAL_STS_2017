@@ -1,0 +1,6 @@
+hang	group	nsubj
+hang	evening	nmod:in
+evening	in	case
+hang	.	punct
+hang	out	compound:prt
+ROOT	hang	root

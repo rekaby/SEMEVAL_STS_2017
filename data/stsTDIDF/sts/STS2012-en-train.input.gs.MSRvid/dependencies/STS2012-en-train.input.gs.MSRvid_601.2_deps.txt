@@ -1,0 +1,7 @@
+det	drinks	A
+compound	drinks	moose
+root	ROOT	drinks
+case	sprinkler	from
+det	sprinkler	a
+nmod:from	drinks	sprinkler
+punct	drinks	.

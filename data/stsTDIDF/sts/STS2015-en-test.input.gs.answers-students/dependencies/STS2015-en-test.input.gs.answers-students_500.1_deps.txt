@@ -1,0 +1,7 @@
+det	bulb	The
+nsubjpass	connected	bulb
+cc	bulb	and
+det	battery	the
+conj:and	bulb	battery
+auxpass	connected	are
+root	ROOT	connected

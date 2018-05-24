@@ -1,0 +1,11 @@
+compound	Palumbo	Lord
+nsubj	offers	Palumbo
+root	ROOT	offers
+dobj	offers	hope
+case	relationship	for
+det	relationship	a
+nmod:for	offers	relationship
+case	son	with
+nmod:poss	son	his
+nmod:with	relationship	son
+dep	offers	James

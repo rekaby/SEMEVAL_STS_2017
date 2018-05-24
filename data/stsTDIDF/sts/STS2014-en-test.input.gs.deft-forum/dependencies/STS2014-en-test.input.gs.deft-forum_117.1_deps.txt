@@ -1,0 +1,10 @@
+amod	change	loose
+nsubj	started	change
+root	ROOT	started
+compound:prt	started	out
+case	work	as
+det	work	a
+nmod:as	started	work
+case	fiction	of
+nmod:of	work	fiction
+punct	started	.

@@ -1,0 +1,17 @@
+det	servers	The
+amod	servers	new
+nsubj	run	servers
+aux	run	will
+ccomp	said	run
+cc:preconj	Linux	either
+dobj	run	Linux
+cc	Linux	or
+det	version	the
+compound	version	x86
+conj:or	Linux	version
+case	Solaris	of
+nmod:of	version	Solaris
+punct	said	,
+nsubj	said	he
+root	ROOT	said
+punct	said	.

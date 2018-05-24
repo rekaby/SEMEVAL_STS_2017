@@ -1,0 +1,8 @@
+nsubj	gathered	People
+aux	gathered	have
+root	ROOT	gathered
+mark	watch	to
+xcomp	gathered	watch
+det	event	an
+dobj	watch	event
+punct	gathered	.

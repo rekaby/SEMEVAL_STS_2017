@@ -1,0 +1,9 @@
+det	man	The
+nsubj	shaking	man
+aux	shaking	is
+root	ROOT	shaking
+dobj	shaking	hands
+case	men	with
+amod	men	other
+nmod:with	shaking	men
+punct	shaking	.

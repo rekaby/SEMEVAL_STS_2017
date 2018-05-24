@@ -1,0 +1,7 @@
+compound	Airstrikes	Syria
+compound	Airstrikes	Launches
+compound	Airstrikes	Deadly
+nsubj	Suburbs	Airstrikes
+case	Damascus	in
+nmod:in	Airstrikes	Damascus
+root	ROOT	Suburbs

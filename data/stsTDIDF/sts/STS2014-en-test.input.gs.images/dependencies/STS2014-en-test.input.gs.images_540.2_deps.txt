@@ -1,0 +1,8 @@
+det	puppy	A
+compound	puppy	tan
+nsubjpass	held	puppy
+auxpass	held	being
+root	ROOT	held
+cc	held	and
+conj:and	held	petted
+punct	held	.

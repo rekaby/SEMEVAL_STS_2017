@@ -1,0 +1,11 @@
+det	person	a
+root	ROOT	person
+nsubjpass	appointed	who
+auxpass	appointed	is
+acl:relcl	person	appointed
+case	job	to
+det	job	a
+nmod:to	appointed	job
+cc	job	or
+conj:or	job	position
+punct	person	.

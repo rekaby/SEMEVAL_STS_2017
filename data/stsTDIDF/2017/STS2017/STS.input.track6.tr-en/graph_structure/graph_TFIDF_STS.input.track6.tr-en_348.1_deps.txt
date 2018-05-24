@@ -1,0 +1,10 @@
+ROOT	measuring	root
+measuring	man	nsubj
+hat	hard	amod
+measuring	area	dobj
+hat	blue	amod
+measuring	.	punct
+measuring	is	aux
+shirt	an	det
+shirt	orange	amod
+shirt	hat	conj:and

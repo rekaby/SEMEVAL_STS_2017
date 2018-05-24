@@ -1,0 +1,12 @@
+csubj	path	Switch
+dobj	Switch	Y
+cc	Y	and
+conj:and	Y	bulb
+dep	Y	A
+cop	path	are
+neg	path	not
+case	path	in
+det	path	the
+amod	path	same
+amod	path	closed
+root	ROOT	path

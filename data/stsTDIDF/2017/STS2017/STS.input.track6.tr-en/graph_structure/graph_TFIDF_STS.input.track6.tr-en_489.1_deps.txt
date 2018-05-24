@@ -1,0 +1,11 @@
+pond	natural	amod
+exiting	pond	dobj
+dog	brown	amod
+ROOT	shakes	root
+shakes	off	compound:prt
+shakes	exiting	advcl
+shakes	water	dobj
+exiting	after	mark
+pond	a	det
+shakes	dog	nsubj
+shakes	.	punct

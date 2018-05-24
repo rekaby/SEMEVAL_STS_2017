@@ -1,0 +1,10 @@
+det	line	A
+root	ROOT	line
+case	bookstore	outside
+mwe	outside	of
+det	bookstore	a
+nmod:outside_of	line	bookstore
+case	street	on
+det	street	a
+nmod:on	line	street
+punct	line	.

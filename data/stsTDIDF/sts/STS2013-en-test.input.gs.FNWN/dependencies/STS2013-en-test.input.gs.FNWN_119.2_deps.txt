@@ -1,0 +1,6 @@
+root	ROOT	power
+mark	direct	to
+acl	power	direct
+cc	direct	or
+conj:or	direct	determine
+punct	power	;

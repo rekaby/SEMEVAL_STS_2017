@@ -1,0 +1,17 @@
+det	industrials	The
+compound	industrials	Dow
+compound	industrials	Jones
+nsubj	surpassed	industrials
+advmod	surpassed	briefly
+root	ROOT	surpassed
+det	mark	the
+nummod	mark	9,000
+dobj	surpassed	mark
+case	time	for
+det	time	the
+amod	time	first
+nmod:for	surpassed	time
+case	December	since
+nmod:since	time	December
+punct	surpassed	.
+punct	surpassed	''

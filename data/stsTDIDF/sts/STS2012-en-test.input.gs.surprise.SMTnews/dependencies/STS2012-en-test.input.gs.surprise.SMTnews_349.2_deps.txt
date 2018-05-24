@@ -1,0 +1,16 @@
+nsubj	believed	Tocqueville
+root	ROOT	believed
+mark	object	that
+case	term	in
+det	term	the
+amod	term	long
+nmod:in	object	term
+punct	object	,
+nsubj	object	nothing
+aux	object	can
+advmod	object	really
+ccomp	believed	object
+case	trend	to
+det	trend	this
+nmod:to	object	trend
+punct	believed	.

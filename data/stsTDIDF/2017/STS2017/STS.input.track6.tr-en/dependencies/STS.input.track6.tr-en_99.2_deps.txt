@@ -1,0 +1,6 @@
+root	ROOT	Couple
+case	train	on
+det	train	a
+compound	train	speed
+nmod:on	Couple	train
+punct	Couple	.

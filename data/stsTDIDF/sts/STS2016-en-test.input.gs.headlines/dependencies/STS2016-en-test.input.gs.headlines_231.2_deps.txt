@@ -1,0 +1,11 @@
+dep	frat	University
+case	Florida	of
+nmod:of	University	Florida
+nsubj	accused	frat
+root	ROOT	accused
+mark	spitting	of
+advcl	accused	spitting
+case	veterans	on
+amod	veterans	wounded
+compound	veterans	war
+nmod:on	spitting	veterans

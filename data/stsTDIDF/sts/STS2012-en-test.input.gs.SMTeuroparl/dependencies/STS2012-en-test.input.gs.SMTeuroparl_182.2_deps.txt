@@ -1,0 +1,14 @@
+dep	proposing	Amendment
+nsubj	proposing	No
+nummod	No	7
+aux	proposing	is
+root	ROOT	proposing
+amod	amendments	certain
+dobj	proposing	amendments
+case	references	in
+det	references	the
+nmod:in	amendments	references
+case	paragraphs	to
+det	paragraphs	the
+nmod:to	references	paragraphs
+punct	proposing	.

@@ -1,0 +1,9 @@
+root	ROOT	rinse
+nmod:poss	mouth	one
+case	one	's
+dobj	rinse	mouth
+cc	mouth	and
+conj:and	mouth	throat
+case	mouthwash	with
+nmod:with	rinse	mouthwash
+punct	rinse	.

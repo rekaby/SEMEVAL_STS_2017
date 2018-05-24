@@ -1,0 +1,17 @@
+dep	obtain	All
+nsubj	obtain	those
+nsubj	work	which
+advmod	work	currently
+acl:relcl	those	work
+case	black	with
+det	black	the
+nmod:with	work	black
+aux	obtain	would
+root	ROOT	obtain
+det	employment	an
+dobj	obtain	employment
+case	conditions	under
+amod	conditions	decent
+amod	conditions	social
+nmod:under	employment	conditions
+punct	obtain	.

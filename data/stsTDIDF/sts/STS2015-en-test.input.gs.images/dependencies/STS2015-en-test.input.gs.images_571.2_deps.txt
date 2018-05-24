@@ -1,0 +1,14 @@
+root	ROOT	A
+dobj	A	lady
+acl	lady	holding
+nummod	dog	one
+dobj	holding	dog
+mark	playing	while
+det	dog	another
+nsubj	playing	dog
+aux	playing	is
+advcl	A	playing
+case	yard	in
+det	yard	the
+nmod:in	playing	yard
+punct	A	.

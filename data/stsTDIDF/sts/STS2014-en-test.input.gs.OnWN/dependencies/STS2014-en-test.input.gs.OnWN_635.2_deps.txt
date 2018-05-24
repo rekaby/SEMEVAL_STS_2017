@@ -1,0 +1,15 @@
+root	ROOT	have
+det	complexion	a
+dobj	have	complexion
+case	color	with
+det	color	a
+amod	color	strong
+amod	color	bright
+nmod:with	complexion	color
+punct	color	,
+case	red	such
+mwe	such	as
+nmod:such_as	color	red
+cc	red	or
+conj:or	red	pink
+punct	have	.

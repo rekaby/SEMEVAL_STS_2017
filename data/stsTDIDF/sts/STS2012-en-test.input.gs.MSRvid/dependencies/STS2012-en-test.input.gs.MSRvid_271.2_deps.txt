@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	pouring	woman
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	water
+case	fish	on
+nmod:on	pouring	fish
+punct	pouring	.

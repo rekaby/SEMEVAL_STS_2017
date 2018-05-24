@@ -1,0 +1,11 @@
+amod	limbs	Broken
+root	ROOT	limbs
+punct	limbs	,
+amod	lives	torn
+appos	limbs	lives
+case	#conflict	in
+amod	#conflict	northern
+amod	#conflict	#Mali
+compound	#conflict	#Africa
+nmod:in	lives	#conflict
+dep	lives	#humanrights

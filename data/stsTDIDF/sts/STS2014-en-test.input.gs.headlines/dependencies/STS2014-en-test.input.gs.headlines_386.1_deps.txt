@@ -1,0 +1,11 @@
+compound	Senate	US
+nsubj	nears	Senate
+mark	vote	to
+acl	Senate	vote
+case	deal	on
+amod	deal	fiscal
+compound	deal	cliff
+nmod:on	vote	deal
+case	deadline	as
+nmod:as	vote	deadline
+root	ROOT	nears

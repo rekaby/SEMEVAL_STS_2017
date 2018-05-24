@@ -1,0 +1,8 @@
+det	man	A
+nsubj	tries	man
+root	ROOT	tries
+case	access	to
+nmod:to	tries	access
+mark	work	to
+acl	access	work
+punct	tries	.

@@ -1,0 +1,14 @@
+det	dog	The
+amod	dog	black
+cc	black	and
+conj:and	black	white
+nsubj	swims	dog
+root	ROOT	swims
+case	object	with
+det	object	a
+amod	object	brown
+nmod:with	swims	object
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	object	mouth
+punct	swims	.

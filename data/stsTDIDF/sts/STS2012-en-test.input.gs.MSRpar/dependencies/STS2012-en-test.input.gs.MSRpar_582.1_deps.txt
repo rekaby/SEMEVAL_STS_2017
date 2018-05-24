@@ -1,0 +1,14 @@
+compound	Hardin	Prosecutor
+compound	Hardin	Jim
+nsubj	called	Hardin
+root	ROOT	called
+det	decision	the
+dobj	called	decision
+det	victory	a
+dep	decision	victory
+case	family	for
+compound	Peterson	Kathleen
+nmod:poss	family	Peterson
+case	Peterson	's
+nmod:for	victory	family
+punct	called	.

@@ -1,0 +1,13 @@
+root	ROOT	Initially
+punct	Initially	,
+root	,	that
+case	simplification	of
+det	simplification	a
+nmod:of	that	simplification
+cc	simplification	and
+det	clarification	a
+conj:and	simplification	clarification
+case	Treaties	of
+det	Treaties	the
+nmod:of	clarification	Treaties
+punct	that	.

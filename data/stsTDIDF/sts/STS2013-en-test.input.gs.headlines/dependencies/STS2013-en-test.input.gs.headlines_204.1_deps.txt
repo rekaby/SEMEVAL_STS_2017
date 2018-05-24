@@ -1,0 +1,6 @@
+nsubj	kills	Blast
+root	ROOT	kills
+dobj	kills	11
+case	Pakistan	in
+amod	Pakistan	northwestern
+nmod:in	11	Pakistan

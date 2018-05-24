@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	black
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	side	along
+det	side	the
+nmod:along	walking	side
+case	pool	of
+det	pool	a
+nmod:of	side	pool
+punct	walking	.

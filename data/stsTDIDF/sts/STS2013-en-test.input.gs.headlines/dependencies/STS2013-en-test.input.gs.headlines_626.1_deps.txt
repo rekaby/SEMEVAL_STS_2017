@@ -1,0 +1,7 @@
+compound	Votes	Afghan
+compound	Votes	Parliament
+root	ROOT	Votes
+mark	Oust	to
+acl	Votes	Oust
+compound	Ministers	Key
+dobj	Oust	Ministers

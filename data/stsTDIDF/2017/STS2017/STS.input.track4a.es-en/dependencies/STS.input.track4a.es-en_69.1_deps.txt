@@ -1,0 +1,9 @@
+det	person	A
+nsubj	trying	person
+aux	trying	is
+root	ROOT	trying
+mark	hit	to
+xcomp	trying	hit
+det	ball	the
+dobj	hit	ball
+punct	trying	.

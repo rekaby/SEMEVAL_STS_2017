@@ -1,0 +1,14 @@
+compound	kober	ingo
+nsubj	stated	kober
+root	ROOT	stated
+mark	had	that
+det	nations	some
+nsubj	had	nations
+ccomp	stated	had
+amod	rights	stronger
+amod	rights	intellectual
+compound	rights	property
+dobj	had	rights
+case	others	than
+nmod:than	rights	others
+punct	stated	.

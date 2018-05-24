@@ -1,0 +1,7 @@
+det	man	a
+nsubj	plays	man
+root	ROOT	plays
+nmod:poss	guitar	his
+amod	guitar	white
+dobj	plays	guitar
+punct	plays	.

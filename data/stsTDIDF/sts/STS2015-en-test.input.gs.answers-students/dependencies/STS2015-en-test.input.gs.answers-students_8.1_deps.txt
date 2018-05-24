@@ -1,0 +1,12 @@
+expl	was	There
+root	ROOT	was
+neg	gap	no
+nsubj	was	gap
+case	6	between
+amod	6	terminal
+nmod:between	gap	6
+cc	6	and
+det	terminal	the
+amod	terminal	positive
+conj:and	6	terminal
+punct	was	.

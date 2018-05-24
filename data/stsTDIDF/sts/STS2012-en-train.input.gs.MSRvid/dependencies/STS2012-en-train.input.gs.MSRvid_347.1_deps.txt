@@ -1,0 +1,14 @@
+det	person	A
+nsubj	picking	person
+aux	picking	is
+root	ROOT	picking
+det	dragon	a
+amod	dragon	komodo
+dobj	picking	dragon
+cc	picking	and
+conj:and	picking	putting
+dobj	putting	it
+case	box	in
+det	box	a
+nmod:in	putting	box
+punct	picking	.

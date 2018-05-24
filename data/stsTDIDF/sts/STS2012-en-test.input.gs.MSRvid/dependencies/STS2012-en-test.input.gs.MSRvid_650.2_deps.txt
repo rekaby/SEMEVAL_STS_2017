@@ -1,0 +1,10 @@
+det	man	A
+nsubj	showing	man
+aux	showing	is
+root	ROOT	showing
+nmod:poss	dog	his
+dobj	showing	dog
+case	camera	to
+det	camera	the
+nmod:to	showing	camera
+punct	showing	.

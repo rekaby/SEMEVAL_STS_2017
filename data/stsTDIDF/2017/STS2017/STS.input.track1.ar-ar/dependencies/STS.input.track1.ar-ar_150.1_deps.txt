@@ -1,0 +1,9 @@
+det	man	The
+root	ROOT	man
+case	buses	outside
+dep	buses	next
+case	buses	to
+det	buses	a
+compound	buses	banner
+nmod:to	man	buses
+punct	man	.

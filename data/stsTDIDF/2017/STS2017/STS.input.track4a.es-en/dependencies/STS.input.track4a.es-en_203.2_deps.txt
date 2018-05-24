@@ -1,0 +1,16 @@
+det	man	A
+nsubj	doing	man
+case	park	in
+det	park	a
+compound	park	skate
+nmod:in	man	park
+aux	doing	is
+root	ROOT	doing
+det	ollie	an
+dobj	doing	ollie
+case	half-pipe	in
+det	half-pipe	a
+nmod:in	doing	half-pipe
+case	beach	near
+det	beach	the
+nmod:near	half-pipe	beach

@@ -1,0 +1,7 @@
+root	ROOT	having
+amod	money	little
+dobj	having	money
+cc	money	or
+amod	possessions	few
+conj:or	money	possessions
+punct	having	;

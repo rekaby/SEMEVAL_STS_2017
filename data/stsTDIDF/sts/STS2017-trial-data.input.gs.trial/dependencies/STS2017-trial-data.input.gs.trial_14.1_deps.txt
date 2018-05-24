@@ -1,0 +1,8 @@
+nsubj	did	I
+root	ROOT	did
+det	time	this
+nummod	time	one
+dobj	did	time
+advmod	time	as
+mwe	as	well
+punct	did	.

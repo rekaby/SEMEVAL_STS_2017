@@ -1,0 +1,5 @@
+look	statue	nmod:towards
+statue	towards	case
+look	people	nsubj
+statue	gold	compound
+statue	a	det

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	sits	man
+root	ROOT	sits
+xcomp	sits	waiting
+case	role	for
+nmod:poss	role	his
+nmod:for	waiting	role
+punct	sits	.

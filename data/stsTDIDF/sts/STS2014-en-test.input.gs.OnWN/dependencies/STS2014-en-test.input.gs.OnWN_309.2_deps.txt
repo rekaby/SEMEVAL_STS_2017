@@ -1,0 +1,10 @@
+root	ROOT	leave
+xcomp	leave	stranded
+cc	stranded	or
+conj:or	stranded	isolated
+case	hope	with
+amod	hope	little
+nmod:with	stranded	hope
+case	rescue	of
+nmod:of	hope	rescue
+punct	leave	.

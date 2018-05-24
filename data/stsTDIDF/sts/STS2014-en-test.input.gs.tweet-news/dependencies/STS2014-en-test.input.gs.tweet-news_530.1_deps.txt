@@ -1,0 +1,16 @@
+amod	analysis	Excellent
+root	ROOT	analysis
+case	recovery	of
+det	recovery	the
+compound	recovery	housing
+compound	recovery	market
+nmod:of	analysis	recovery
+punct	Housing	-
+compound	Hope	Housing
+compound	Hope	Offers
+dep	recovery	Hope
+case	Strength	of
+nmod:of	Hope	Strength
+case	Economy	in
+det	Economy	the
+nmod:in	Strength	Economy

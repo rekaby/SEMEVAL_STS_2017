@@ -1,0 +1,17 @@
+root	ROOT	Walk
+advmod	Walk	heavily
+cc	Walk	and
+advmod	cat	firmly
+punct	cat	-LRB-
+case	cat	like
+det	cat	a
+conj:and	Walk	cat
+punct	cat	-RRB-
+dep	cat	as
+dep	as	when
+dep	when	weary
+cc	weary	or
+case	terrain	over
+amod	terrain	soft
+conj:or	weary	terrain
+punct	Walk	.

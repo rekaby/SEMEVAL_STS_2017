@@ -1,0 +1,19 @@
+det	average	The
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+nsubj	<	average
+root	ROOT	<
+punct	<	.-7) nsubj(fell-3, DJI
+advmod	fell	>
+root	ROOT	fell
+nummod	points	44
+dobj	fell	points
+punct	points	,
+cc	points	or
+nummod	percent	0.46
+conj:or	points	percent
+punct	points	,
+case	9,568	to
+nmod:to	fell	9,568
+punct	fell	.

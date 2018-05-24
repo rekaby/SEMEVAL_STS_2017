@@ -1,0 +1,6 @@
+trail	a	det
+jogging	trail	nmod:on
+ROOT	jogging	root
+jogging	are	cop
+jogging	.	punct
+jogging	men	nsubj

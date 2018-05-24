@@ -1,0 +1,7 @@
+nsubj	watching	Adults
+aux	watching	are
+root	ROOT	watching
+nmod:poss	children	their
+nsubj	play	children
+ccomp	watching	play
+punct	watching	.

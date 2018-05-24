@@ -1,0 +1,9 @@
+det	group	A
+nsubj	exiting	group
+case	girls	of
+nmod:of	group	girls
+aux	exiting	are
+root	ROOT	exiting
+det	taxi	a
+dobj	exiting	taxi
+punct	exiting	.

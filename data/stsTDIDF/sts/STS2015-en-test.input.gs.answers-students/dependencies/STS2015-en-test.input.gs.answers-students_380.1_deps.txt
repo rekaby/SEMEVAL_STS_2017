@@ -1,0 +1,14 @@
+nsubjpass	connected	Terminal
+compound	2	1
+cc	1	and
+conj:and	1	terminal
+nummod	Terminal	2
+auxpass	connected	are
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	negative
+nmod:to	connected	terminal
+case	battery	of
+det	battery	the
+nmod:of	terminal	battery

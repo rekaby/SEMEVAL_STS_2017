@@ -1,0 +1,11 @@
+wearing	bench	nmod:on
+clothes	black	amod
+sitting	,	punct
+sitting	man	nsubj
+bench	a	det
+wearing	plate	nmod:next_to
+sitting	wearing	xcomp
+bench	park	nmod:in
+plate	next	case
+plate	large	amod
+wearing	clothes	dobj

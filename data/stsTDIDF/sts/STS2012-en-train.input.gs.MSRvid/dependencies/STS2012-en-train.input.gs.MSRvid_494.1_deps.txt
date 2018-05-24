@@ -1,0 +1,6 @@
+det	man	A
+nsubj	bread	man
+cop	bread	is
+amod	bread	buttering
+root	ROOT	bread
+punct	bread	.

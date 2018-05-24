@@ -1,0 +1,13 @@
+det	cat	The
+amod	cat	black
+cc	black	and
+conj:and	black	white
+root	ROOT	cat
+case	eyes	with
+amod	eyes	yellow
+nmod:with	cat	eyes
+dep	eyes	lounges
+case	dirt	in
+det	dirt	the
+nmod:in	lounges	dirt
+punct	cat	.

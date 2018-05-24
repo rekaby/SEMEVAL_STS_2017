@@ -1,0 +1,10 @@
+nmod:poss	sales	Microsoft
+case	Microsoft	's
+compound	sales	Windows
+nummod	sales	8
+nsubj	OK	sales
+cop	OK	are
+root	ROOT	OK
+punct	OK	,
+neg	great	not
+appos	OK	great

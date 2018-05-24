@@ -1,0 +1,12 @@
+compound	ehn	U
+amod	ehn	ds
+compound	ehn	boi
+root	ROOT	ehn
+punct	ehn	''
+punct	ehn	:
+compound	guest	Piers
+compound	guest	slams
+dep	ehn	guest
+case	AR-15s	over
+nmod:over	guest	AR-15s
+punct	guest	''

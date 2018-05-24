@@ -1,0 +1,8 @@
+ROOT	pumping	root
+pumping	man	nsubj
+bicycle	his	nmod:poss
+pumping	bicycle	nmod:into
+pumping	.	punct
+bicycle	into	case
+pumping	air	dobj
+pumping	is	aux

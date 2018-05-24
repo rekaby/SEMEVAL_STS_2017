@@ -1,0 +1,10 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	motorcycle	a
+dobj	riding	motorcycle
+case	highway	on
+det	highway	the
+nmod:on	riding	highway
+punct	riding	.

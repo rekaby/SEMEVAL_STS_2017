@@ -1,0 +1,4 @@
+nsubj	paint	Woman
+root	ROOT	paint
+nmod:poss	face	her
+dobj	paint	face

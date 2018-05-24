@@ -1,0 +1,10 @@
+det	herd	A
+nsubj	walking	herd
+case	elephants	of
+nmod:of	herd	elephants
+aux	walking	are
+root	ROOT	walking
+case	trail	along
+det	trail	a
+nmod:along	walking	trail
+punct	walking	.

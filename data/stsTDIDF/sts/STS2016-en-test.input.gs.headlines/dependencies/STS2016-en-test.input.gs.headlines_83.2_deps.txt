@@ -1,0 +1,8 @@
+nsubj	addresses	Redford
+root	ROOT	addresses
+compound	convention	PC
+dobj	addresses	convention
+advmod	addresses	ahead
+case	leadership	of
+nmod:of	ahead	leadership
+dep	addresses	review

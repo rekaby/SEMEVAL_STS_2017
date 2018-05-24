@@ -1,0 +1,6 @@
+root	ROOT	get
+det	meaning	the
+dobj	get	meaning
+case	something	of
+nmod:of	meaning	something
+punct	get	.

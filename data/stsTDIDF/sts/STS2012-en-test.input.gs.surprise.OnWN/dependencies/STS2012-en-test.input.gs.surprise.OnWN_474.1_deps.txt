@@ -1,0 +1,4 @@
+root	ROOT	beat
+cc	beat	or
+conj:or	beat	pound
+advmod	beat	rapidly

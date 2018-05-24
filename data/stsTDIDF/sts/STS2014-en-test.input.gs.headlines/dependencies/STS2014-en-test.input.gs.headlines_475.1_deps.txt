@@ -1,0 +1,6 @@
+nsubj	swears	Egypt
+root	ROOT	swears
+case	leader	in
+amod	leader	new
+amod	leader	interim
+nmod:in	swears	leader

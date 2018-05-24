@@ -1,0 +1,14 @@
+det	way	The
+nsubj	depends	way
+mark	defined	that
+det	term	a
+punct	term	`
+nsubjpass	defined	term
+punct	term	'
+auxpass	defined	is
+ccomp	way	defined
+root	ROOT	depends
+case	application	on
+det	application	the
+nmod:on	depends	application
+punct	depends	.

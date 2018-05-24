@@ -1,0 +1,7 @@
+det	portion	a
+root	ROOT	portion
+cc	portion	or
+conj:or	portion	percentage
+case	whole	of
+det	whole	a
+nmod:of	portion	whole

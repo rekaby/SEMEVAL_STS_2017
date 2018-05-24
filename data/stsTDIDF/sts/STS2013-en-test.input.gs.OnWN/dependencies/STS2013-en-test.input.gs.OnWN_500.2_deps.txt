@@ -1,0 +1,6 @@
+root	ROOT	refer
+case	judgment	for
+nmod:for	refer	judgment
+cc	judgment	or
+conj:or	judgment	consideration
+punct	refer	.

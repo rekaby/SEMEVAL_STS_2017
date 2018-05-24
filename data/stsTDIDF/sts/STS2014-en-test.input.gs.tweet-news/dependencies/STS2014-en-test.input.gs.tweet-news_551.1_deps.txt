@@ -1,0 +1,13 @@
+amod	story	Sweet
+punct	story	,
+amod	story	sweet
+root	ROOT	story
+punct	story	.-5) root(ROOT-0, NYTimes
+punct	NYTimes	:
+det	Magic	A
+compound	Magic	Doll?s
+dep	NYTimes	Magic
+punct	Magic	,
+appos	Magic	Free
+mark	Renew	to
+acl	Free	Renew

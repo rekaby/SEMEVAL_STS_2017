@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	white
+root	ROOT	dog
+acl	dog	walking
+case	snow	in
+det	snow	the
+nmod:in	walking	snow
+punct	dog	.

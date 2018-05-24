@@ -1,0 +1,8 @@
+nsubj	ready	U.S.
+root	ROOT	ready
+mark	help	to
+xcomp	ready	help
+amod	activist	Chinese
+dobj	help	activist
+punct	ready	:
+dep	ready	official

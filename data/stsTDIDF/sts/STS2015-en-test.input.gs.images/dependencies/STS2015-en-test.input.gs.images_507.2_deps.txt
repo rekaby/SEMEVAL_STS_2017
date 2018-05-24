@@ -1,0 +1,12 @@
+det	woman	a
+nsubj	holds	woman
+root	ROOT	holds
+det	baby	a
+amod	baby	small
+dobj	holds	baby
+case	skateboard	on
+det	skateboard	a
+nmod:on	baby	skateboard
+case	beach	at
+det	beach	the
+nmod:at	skateboard	beach

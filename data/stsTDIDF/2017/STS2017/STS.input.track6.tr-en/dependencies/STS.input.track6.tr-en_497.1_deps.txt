@@ -1,0 +1,8 @@
+root	ROOT	People
+case	bar	at
+det	bar	an
+amod	bar	outside
+nmod:at	People	bar
+punct	bar	,
+appos	bar	drinking
+punct	People	.

@@ -1,0 +1,7 @@
+nsubj	gather	Thousands
+case	supporters	of
+compound	supporters	Morsi
+nmod:of	Thousands	supporters
+root	ROOT	gather
+case	Egypt	in
+nmod:in	gather	Egypt

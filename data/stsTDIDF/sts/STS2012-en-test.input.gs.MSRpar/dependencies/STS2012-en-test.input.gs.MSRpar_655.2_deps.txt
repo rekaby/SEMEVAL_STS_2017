@@ -1,0 +1,14 @@
+nsubj	said	She
+root	ROOT	said
+nsubj	know	she
+aux	know	did
+neg	know	n't
+ccomp	said	know
+advmod	know	yet
+mark	certify	whether
+nsubj	certify	she
+aux	certify	would
+ccomp	know	certify
+det	budget	the
+dobj	certify	budget
+punct	said	.

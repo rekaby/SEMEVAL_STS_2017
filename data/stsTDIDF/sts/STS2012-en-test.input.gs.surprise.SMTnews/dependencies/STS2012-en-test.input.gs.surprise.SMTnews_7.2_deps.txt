@@ -1,0 +1,17 @@
+advmod	one	Only
+nummod	month	one
+nmod:npmod	before	month
+advmod	disrupted	before
+punct	disrupted	,
+nsubj	disrupted	Muybarak
+root	ROOT	disrupted
+det	demands	the
+dobj	disrupted	demands
+case	reform	of
+amod	reform	constitutional
+nmod:of	demands	reform
+mark	taxing	by
+advcl	disrupted	taxing
+xcomp	taxing	futile
+punct	futile	'
+punct	disrupted	.

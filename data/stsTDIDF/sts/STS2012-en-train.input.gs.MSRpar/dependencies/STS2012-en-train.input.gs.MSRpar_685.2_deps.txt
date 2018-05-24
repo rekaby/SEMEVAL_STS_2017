@@ -1,0 +1,14 @@
+nmod:poss	revenue	California
+case	California	's
+amod	revenue	lost
+compound	revenue	tax
+nsubj	due	revenue
+cop	due	was
+advmod	due	mostly
+root	ROOT	due
+case	shelters	to
+amod	shelters	international
+amod	shelters	corporate
+compound	shelters	tax
+nmod:to	due	shelters
+punct	due	.

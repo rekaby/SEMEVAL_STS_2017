@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	brown
+nsubj	runs	dog
+acl	dog	carrying
+det	Frisbee	a
+dobj	carrying	Frisbee
+root	ROOT	runs
+case	snow	through
+det	snow	the
+nmod:through	runs	snow
+punct	runs	.

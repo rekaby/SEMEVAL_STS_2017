@@ -1,0 +1,11 @@
+root	ROOT	failure
+nsubj	results	that
+acl:relcl	failure	results
+case	loss	in
+det	loss	a
+nmod:in	results	loss
+case	position	of
+nmod:of	loss	position
+cc	position	or
+conj:or	position	reputation
+punct	failure	.

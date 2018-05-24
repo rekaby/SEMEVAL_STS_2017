@@ -1,0 +1,9 @@
+kitchen	is	cop
+kitchen	.	punct
+man	sweatshirt	nmod:in
+kitchen	man	nsubj
+sweatshirt	in	case
+sweatshirt	blue	amod
+sweatshirt	a	det
+ROOT	kitchen	root
+kitchen	a	det

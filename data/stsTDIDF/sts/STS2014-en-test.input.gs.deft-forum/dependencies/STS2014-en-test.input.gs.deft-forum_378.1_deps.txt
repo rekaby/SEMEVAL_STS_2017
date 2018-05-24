@@ -1,0 +1,8 @@
+root	ROOT	fix
+punct	fix	?-2) punct(political-6, :
+compound	itself	Islam
+nsubj	political	itself
+cop	political	is
+neg	political	not
+root	ROOT	political
+punct	political	.

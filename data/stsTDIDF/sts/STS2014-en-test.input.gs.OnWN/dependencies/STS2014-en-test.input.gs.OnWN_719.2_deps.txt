@@ -1,0 +1,6 @@
+root	ROOT	talk
+case	manner	in
+det	manner	a
+amod	manner	tearful
+nmod:in	talk	manner
+punct	talk	.

@@ -1,0 +1,7 @@
+examines	woman	nsubj
+examines	camera	dobj
+examines	.	punct
+ROOT	examines	root
+camera	her	nmod:poss
+shirt	pink	amod
+woman	shirt	nmod:in

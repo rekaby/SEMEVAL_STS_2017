@@ -1,0 +1,8 @@
+det	bird	A
+amod	bird	blue
+nsubj	standing	bird
+root	ROOT	standing
+case	lawn	on
+det	lawn	a
+nmod:on	standing	lawn
+punct	standing	.

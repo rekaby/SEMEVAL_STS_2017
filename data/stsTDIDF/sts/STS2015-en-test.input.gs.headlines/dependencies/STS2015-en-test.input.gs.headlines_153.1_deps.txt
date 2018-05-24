@@ -1,0 +1,7 @@
+compound	dissidents	Iran
+nsubj	killed	dissidents
+punct	killed	`
+root	ROOT	killed
+case	Iraq	in
+nmod:in	killed	Iraq
+punct	killed	'

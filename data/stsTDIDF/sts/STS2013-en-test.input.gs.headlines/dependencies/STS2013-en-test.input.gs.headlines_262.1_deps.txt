@@ -1,0 +1,6 @@
+advmod	meet	Israeli
+punct	meet	,
+amod	negotiators	Palestinian
+nsubj	meet	negotiators
+advmod	meet	quietly
+root	ROOT	meet

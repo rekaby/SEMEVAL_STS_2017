@@ -1,0 +1,15 @@
+resting	.	punct
+man	older	amod
+resting	is	aux
+man	An	det
+resting	writing	advcl
+resting	chin	dobj
+writing	newspaper	nmod:on
+newspaper	on	case
+shirt	dark	amod
+chin	his	nmod:poss
+resting	hand	nmod:on
+writing	while	mark
+man	shirt	nmod:in
+resting	man	nsubj
+ROOT	resting	root

@@ -1,0 +1,15 @@
+nsubj	like	You
+aux	like	might
+neg	like	not
+root	ROOT	like
+det	positions	the
+dobj	like	positions
+nsubj	holds	he
+acl:relcl	positions	holds
+punct	like	,
+cc	like	but
+mark	has	atleast
+nsubj	has	he
+conj:but	like	has
+dobj	has	them
+punct	like	.

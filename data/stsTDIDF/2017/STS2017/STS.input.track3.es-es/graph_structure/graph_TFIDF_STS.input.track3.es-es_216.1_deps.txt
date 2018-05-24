@@ -1,0 +1,12 @@
+gentlemen	jacket	nmod:in
+gentlemen	Older	amod
+gentlemen	.	punct
+jacket	and	cc
+sitting	table	nmod:at
+jacket	sitting	acl
+jacket	jeans	conj:and
+ROOT	gentlemen	root
+table	small	amod
+jacket	in	case
+jacket	green	amod
+jeans	blue	amod

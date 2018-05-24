@@ -1,0 +1,8 @@
+det	monkey	The
+root	ROOT	monkey
+acl	monkey	swung
+case	branch	from
+nmod:from	swung	branch
+case	branch	to
+nmod:to	swung	branch
+punct	monkey	.

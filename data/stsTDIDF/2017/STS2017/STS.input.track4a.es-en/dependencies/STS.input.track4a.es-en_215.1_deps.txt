@@ -1,0 +1,14 @@
+det	man	A
+nsubj	has	man
+root	ROOT	has
+amod	hair	brown
+dobj	has	hair
+case	woman	along
+mwe	along	with
+det	woman	a
+nmod:along_with	has	woman
+nsubj	has	who
+acl:relcl	woman	has
+amod	hair	blonde
+dobj	has	hair
+punct	has	.

@@ -1,0 +1,16 @@
+det	attack	The
+nsubj	seemed	attack
+root	ROOT	seemed
+xcomp	seemed	similar
+case	others	to
+nmod:to	similar	others
+acl	others	staged
+case	compounds	near
+amod	compounds	foreign
+nmod:near	staged	compounds
+case	Riyadh	in
+nmod:in	staged	Riyadh
+case	May	on
+nmod:on	staged	May
+nummod	May	12
+punct	seemed	.

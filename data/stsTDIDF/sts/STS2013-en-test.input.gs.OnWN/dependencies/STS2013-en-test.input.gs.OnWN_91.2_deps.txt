@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+mark	dragging	of
+acl	act	dragging
+punct	pulling	-LRB-
+dep	dragging	pulling
+case	force	with
+nmod:with	pulling	force
+punct	pulling	-RRB-
+punct	act	.

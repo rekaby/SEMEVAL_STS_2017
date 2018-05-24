@@ -1,0 +1,6 @@
+det	man	A
+nsubj	folds	man
+root	ROOT	folds
+det	tortilla	a
+dobj	folds	tortilla
+punct	folds	.

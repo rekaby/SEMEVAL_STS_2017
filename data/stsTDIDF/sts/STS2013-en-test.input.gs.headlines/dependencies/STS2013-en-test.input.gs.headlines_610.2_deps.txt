@@ -1,0 +1,10 @@
+root	ROOT	25
+acl	25	injured
+case	protest	in
+amod	protest	anti-Islam
+compound	protest	film
+nmod:in	injured	protest
+case	Islamabad	in
+nmod:in	protest	Islamabad
+punct	25	,
+appos	25	Pakistan

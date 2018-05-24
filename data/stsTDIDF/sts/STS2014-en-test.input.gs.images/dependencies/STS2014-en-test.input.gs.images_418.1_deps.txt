@@ -1,0 +1,13 @@
+det	man	The
+nsubj	sitting	man
+aux	sitting	is
+root	ROOT	sitting
+case	table	at
+det	table	a
+amod	table	messy
+nmod:at	sitting	table
+cc	sitting	and
+conj:and	sitting	using
+det	laptop	a
+dobj	using	laptop
+punct	sitting	.

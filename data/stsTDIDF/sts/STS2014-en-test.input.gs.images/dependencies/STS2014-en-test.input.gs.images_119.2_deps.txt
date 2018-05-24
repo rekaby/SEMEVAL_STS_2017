@@ -1,0 +1,7 @@
+det	bicycle	A
+root	ROOT	bicycle
+case	room	in
+det	room	a
+compound	room	dining
+nmod:in	bicycle	room
+punct	bicycle	.

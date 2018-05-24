@@ -1,0 +1,5 @@
+nummod	Protest	1
+dep	Protest	Killed
+case	Bangladesh	in
+nmod:in	Killed	Bangladesh
+root	ROOT	Protest

@@ -1,0 +1,11 @@
+det	monkey	A
+nsubj	karate	monkey
+cop	karate	is
+root	ROOT	karate
+xcomp	karate	kicking
+case	hand	at
+nmod:poss	hand	someone
+case	someone	's
+amod	hand	gloved
+nmod:at	kicking	hand
+punct	karate	.

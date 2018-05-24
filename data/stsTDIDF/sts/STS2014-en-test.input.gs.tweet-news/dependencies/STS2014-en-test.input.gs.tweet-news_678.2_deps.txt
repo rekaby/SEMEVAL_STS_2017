@@ -1,0 +1,7 @@
+compound	Gospel	Robot
+compound	Gospel	Makers
+compound	Gospel	Spread
+compound	Gospel	Global
+root	ROOT	Gospel
+case	Automation	of
+nmod:of	Gospel	Automation

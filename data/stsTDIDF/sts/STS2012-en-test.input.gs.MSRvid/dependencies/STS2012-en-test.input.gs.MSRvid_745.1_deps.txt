@@ -1,0 +1,7 @@
+nummod	children	Three
+nsubj	eating	children
+aux	eating	are
+root	ROOT	eating
+nmod:poss	food	their
+dobj	eating	food
+punct	eating	.

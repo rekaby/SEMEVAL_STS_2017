@@ -1,0 +1,11 @@
+advmod	70	More
+mwe	More	than
+root	ROOT	70
+amod	70	dead
+case	clashes	in
+nmod:in	dead	clashes
+case	rallies	at
+compound	rallies	Morsi
+nmod:at	clashes	rallies
+case	Egypt	in
+nmod:in	rallies	Egypt

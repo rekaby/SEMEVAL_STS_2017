@@ -1,0 +1,8 @@
+amod	Reported	Mixed
+compound	Reported	Progress
+root	ROOT	Reported
+case	Fight	in
+nmod:in	Reported	Fight
+case	State	Against
+amod	State	Islamic
+nmod:against	Fight	State

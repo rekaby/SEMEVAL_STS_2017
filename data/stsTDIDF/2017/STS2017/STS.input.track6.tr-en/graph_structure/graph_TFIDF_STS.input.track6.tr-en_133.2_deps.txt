@@ -1,0 +1,6 @@
+Mother	children	conj:and
+sleep	home	nmod:at
+Mother	and	cc
+sleep	.	punct
+ROOT	sleep	root
+sleep	Mother	nsubj

@@ -1,0 +1,7 @@
+nsubj	urged	Venezuelans
+root	ROOT	urged
+mark	vote	to
+xcomp	urged	vote
+case	election	in
+amod	election	presidential
+nmod:in	vote	election

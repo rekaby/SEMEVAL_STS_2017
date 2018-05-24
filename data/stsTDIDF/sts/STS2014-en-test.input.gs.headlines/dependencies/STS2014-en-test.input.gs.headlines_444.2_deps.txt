@@ -1,0 +1,9 @@
+compound	envoy	Syria
+nsubj	calls	envoy
+root	ROOT	calls
+case	change	for
+amod	change	political
+nmod:for	calls	change
+mark	end	to
+advcl	calls	end
+dobj	end	conflict

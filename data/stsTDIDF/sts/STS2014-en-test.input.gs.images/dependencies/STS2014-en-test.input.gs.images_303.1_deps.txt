@@ -1,0 +1,7 @@
+det	headlights	The
+root	ROOT	headlights
+case	car	on
+det	car	a
+amod	car	blue
+nmod:on	headlights	car
+punct	headlights	.

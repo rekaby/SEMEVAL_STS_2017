@@ -1,0 +1,16 @@
+mark	want	If
+nsubj	want	you
+advcl	cares	want
+mark	buy	to
+xcomp	want	buy
+det	house	a
+dobj	buy	house
+cc	house	or
+det	SUV	a
+conj:or	house	SUV
+punct	cares	,
+advmod	cares	again
+punct	cares	,
+nsubj	cares	who
+root	ROOT	cares
+punct	cares	?

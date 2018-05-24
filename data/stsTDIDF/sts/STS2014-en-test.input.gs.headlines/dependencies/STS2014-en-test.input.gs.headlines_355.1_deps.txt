@@ -1,0 +1,10 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+nummod	soldier	one
+dobj	kill	soldier
+punct	kill	,
+parataxis	kill	injure
+nummod	others	two
+dobj	injure	others
+case	Pakistan	in
+nmod:in	injure	Pakistan

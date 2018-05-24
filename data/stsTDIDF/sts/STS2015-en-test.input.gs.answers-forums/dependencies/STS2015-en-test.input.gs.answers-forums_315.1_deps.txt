@@ -1,0 +1,12 @@
+case	part	For
+det	part	the
+amod	part	most
+nmod:for	apply	part
+nsubj	apply	you
+aux	apply	can
+root	ROOT	apply
+case	consulate	at
+det	consulate	any
+compound	consulate	US
+nmod:at	apply	consulate
+punct	apply	.

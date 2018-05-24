@@ -1,0 +1,8 @@
+det	bird	The
+nsubj	sitting	bird
+aux	sitting	is
+root	ROOT	sitting
+case	branch	on
+det	branch	the
+nmod:on	sitting	branch
+punct	sitting	.

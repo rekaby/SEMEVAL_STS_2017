@@ -1,0 +1,14 @@
+nsubj	plan	Russia
+punct	plan	,
+compound	plan	China
+compound	plan	veto
+compound	plan	U.N.
+compound	plan	draft
+compound	plan	backing
+compound	plan	Arab
+root	ROOT	plan
+case	Syria	for
+nmod:for	plan	Syria
+punct	Reuters	-LRB-
+appos	Syria	Reuters
+punct	Reuters	-RRB-

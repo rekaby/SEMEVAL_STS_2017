@@ -1,0 +1,7 @@
+ROOT	prescribes	root
+medicine	patient	nmod:to
+prescribes	medicine	dobj
+patient	to	case
+doctor	A	det
+prescribes	.	punct
+prescribes	doctor	nsubj

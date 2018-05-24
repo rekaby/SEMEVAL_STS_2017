@@ -1,0 +1,10 @@
+advmod	tell	How
+aux	tell	can
+nsubj	tell	I
+root	ROOT	tell
+mark	reputable	if
+det	journal	a
+nsubj	reputable	journal
+cop	reputable	is
+advcl	tell	reputable
+punct	tell	?

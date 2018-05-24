@@ -1,0 +1,10 @@
+helping	.	punct
+baskets	in	case
+put	lady	nsubj
+goods	her	nmod:poss
+put	goods	dobj
+helping	put	ccomp
+helping	man	nsubj
+lady	a	det
+ROOT	helping	root
+put	baskets	nmod:in

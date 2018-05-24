@@ -1,0 +1,11 @@
+amod	authorities	Turkish
+nsubj	said	authorities
+aux	said	have
+root	ROOT	said
+det:predet	bombers	all
+det	bombers	the
+compound	bombers	suicide
+nsubj	Turks	bombers
+cop	Turks	were
+ccomp	said	Turks
+punct	said	.

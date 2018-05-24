@@ -1,0 +1,7 @@
+nsubj	cuts	Bollywood
+root	ROOT	cuts
+dobj	cuts	costs
+case	crisis	as
+compound	crisis	rupee
+nmod:as	cuts	crisis
+dep	cuts	bites

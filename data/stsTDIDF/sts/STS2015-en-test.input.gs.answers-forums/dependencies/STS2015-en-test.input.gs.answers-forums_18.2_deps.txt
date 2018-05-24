@@ -1,0 +1,14 @@
+nsubj	rotate	Stars
+root	ROOT	rotate
+xcomp	rotate	due
+case	momentum	to
+det	momentum	the
+amod	momentum	angular
+nmod:to	due	momentum
+case	gas	of
+det	gas	the
+nmod:of	momentum	gas
+nsubj	formed	they
+acl:relcl	gas	formed
+nmod	formed	from
+punct	rotate	.

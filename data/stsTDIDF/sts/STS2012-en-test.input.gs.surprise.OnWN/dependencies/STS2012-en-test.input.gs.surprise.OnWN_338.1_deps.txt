@@ -1,0 +1,5 @@
+root	ROOT	make
+dobj	make	impure
+punct	make	;
+parataxis	make	make
+xcomp	make	radioactive

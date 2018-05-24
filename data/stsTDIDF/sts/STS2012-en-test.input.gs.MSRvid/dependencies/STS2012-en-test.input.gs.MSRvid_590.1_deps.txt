@@ -1,0 +1,8 @@
+nsubj	pouring	Someone
+aux	pouring	is
+root	ROOT	pouring
+dobj	pouring	ingrediants
+case	pot	into
+det	pot	a
+nmod:into	pouring	pot
+punct	pouring	.

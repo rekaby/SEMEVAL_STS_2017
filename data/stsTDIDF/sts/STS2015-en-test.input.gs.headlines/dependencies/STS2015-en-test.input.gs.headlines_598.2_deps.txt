@@ -1,0 +1,9 @@
+root	ROOT	UK
+punct	UK	:
+compound	talks	Iran
+amod	talks	nuclear
+dep	UK	talks
+case	point	at
+det	point	a
+amod	point	serious
+nmod:at	talks	point

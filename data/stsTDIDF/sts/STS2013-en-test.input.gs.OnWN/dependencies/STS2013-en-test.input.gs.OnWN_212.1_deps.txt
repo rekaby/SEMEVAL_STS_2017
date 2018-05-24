@@ -1,0 +1,9 @@
+root	ROOT	twist
+det	body	a
+dobj	twist	body
+dep	body	part
+advmod	so	suddenly
+advmod	sprain	so
+mark	sprain	as
+mwe	as	to
+acl	part	sprain

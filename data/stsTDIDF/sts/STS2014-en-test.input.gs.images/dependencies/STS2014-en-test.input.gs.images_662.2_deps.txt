@@ -1,0 +1,8 @@
+nummod	people	Four
+nsubj	row	people
+root	ROOT	row
+det	canoe	a
+dobj	row	canoe
+case	water	in
+nmod:in	row	water
+punct	row	.

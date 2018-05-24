@@ -1,0 +1,11 @@
+det	bird	A
+amod	bird	yellow
+nsubj	eating	bird
+aux	eating	is
+root	ROOT	eating
+dobj	eating	fruit
+case	grate	on
+det	grate	a
+compound	grate	wire
+nmod:on	eating	grate
+punct	eating	.

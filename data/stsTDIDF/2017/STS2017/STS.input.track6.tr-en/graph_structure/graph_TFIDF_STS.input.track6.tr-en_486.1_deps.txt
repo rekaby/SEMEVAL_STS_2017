@@ -1,0 +1,10 @@
+swimmers	coming	acl
+coming	viewer	nmod:towards
+swimmers	pool	nmod:in
+viewer	the	det
+ROOT	swimmers	root
+swimmers	butterfly	nsubj
+swimmers	,	punct
+butterfly	Three	nummod
+swimmers	.	punct
+viewer	towards	case

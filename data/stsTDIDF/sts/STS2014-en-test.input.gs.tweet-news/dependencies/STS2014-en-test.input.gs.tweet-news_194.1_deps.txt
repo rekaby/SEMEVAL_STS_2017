@@ -1,0 +1,15 @@
+nmod:poss	membership	My
+compound	membership	PBK
+nsubj	explained	membership
+punct	explained	,
+advmod	explained	finally
+root	ROOT	explained
+punct	explained	.-7) root(ROOT-0, Parents
+punct	Parents	?-2) compound(Support-2, Financial
+root	ROOT	Support
+nsubj	Help	May
+neg	Help	Not
+acl:relcl	Support	Help
+compound	Grades	College
+dobj	Help	Grades
+punct	Support	:

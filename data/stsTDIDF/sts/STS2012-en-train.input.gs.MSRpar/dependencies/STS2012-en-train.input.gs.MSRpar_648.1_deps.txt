@@ -1,0 +1,15 @@
+case	those	Among
+nmod:among	was	those
+acl	those	waiting
+det	turn	a
+dobj	waiting	turn
+root	ROOT	was
+compound	Singer	Jodie
+nsubj	was	Singer
+punct	Singer	,
+det	sixth-grader	a
+appos	Singer	sixth-grader
+case	Washington	from
+nmod:from	sixth-grader	Washington
+punct	Washington	,
+appos	Washington	D.C.

@@ -1,0 +1,7 @@
+det	signal	the
+advmod	signal	longer
+amod	signal	telegraphic
+root	ROOT	signal
+case	Code	of
+compound	Code	Morse
+nmod:of	signal	Code

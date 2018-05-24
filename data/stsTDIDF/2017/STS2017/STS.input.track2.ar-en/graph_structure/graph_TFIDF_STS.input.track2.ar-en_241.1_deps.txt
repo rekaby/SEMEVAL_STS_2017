@@ -1,0 +1,7 @@
+checking	person	nsubj
+checking	is	aux
+checking	.	punct
+checking	buy	advcl
+checking	out	compound:prt
+checking	buildings	dobj
+ROOT	checking	root

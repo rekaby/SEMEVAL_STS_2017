@@ -1,0 +1,3 @@
+walks	man	nsubj
+plate	from	case
+walks	plate	nmod:from

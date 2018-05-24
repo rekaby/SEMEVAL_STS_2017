@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	bites	dog
+root	ROOT	bites
+det	dog	the
+amod	dog	other
+nmod:poss	ear	dog
+case	dog	's
+dobj	bites	ear
+punct	bites	.

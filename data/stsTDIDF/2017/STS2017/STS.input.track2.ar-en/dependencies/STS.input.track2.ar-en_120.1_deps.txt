@@ -1,0 +1,11 @@
+nummod	children	two
+root	ROOT	children
+acl	children	riding
+dobj	riding	horses
+case	setting	in
+det	setting	a
+amod	setting	rural
+nmod:in	riding	setting
+mark	playing	while
+advcl	riding	playing
+dobj	playing	lacrosse

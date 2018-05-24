@@ -1,0 +1,13 @@
+det	man	A
+nsubj	falls	man
+case	jacket	in
+det	jacket	a
+amod	jacket	black
+compound	jacket	leather
+nmod:in	man	jacket
+root	ROOT	falls
+advmod	falls	asleep
+case	transportation	on
+amod	transportation	public
+nmod:on	falls	transportation
+punct	falls	.

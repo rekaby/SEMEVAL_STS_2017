@@ -1,0 +1,17 @@
+nsubj	see	i
+aux	see	ca
+neg	see	n't
+root	ROOT	see
+nmod:poss	death	his
+dobj	see	death
+acl	death	reducing
+det	scale	the
+dobj	reducing	scale
+case	war	of
+det	war	the
+punct	war	`
+nmod:of	scale	war
+case	terror	on
+nmod:on	reducing	terror
+punct	terror	'
+punct	see	.-17) root(ROOT-0, .

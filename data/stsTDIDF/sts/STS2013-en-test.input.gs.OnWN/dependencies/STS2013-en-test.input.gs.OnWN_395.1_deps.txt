@@ -1,0 +1,7 @@
+root	ROOT	scratch
+cc	scratch	or
+conj:or	scratch	scrape
+case	claws	with
+nmod:with	scratch	claws
+cc	claws	or
+conj:or	claws	nails

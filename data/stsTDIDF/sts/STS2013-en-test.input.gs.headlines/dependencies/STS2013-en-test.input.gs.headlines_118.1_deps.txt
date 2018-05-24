@@ -1,0 +1,5 @@
+compound	painting	Dali
+root	ROOT	painting
+acl	painting	stolen
+case	gallery	from
+nmod:from	stolen	gallery

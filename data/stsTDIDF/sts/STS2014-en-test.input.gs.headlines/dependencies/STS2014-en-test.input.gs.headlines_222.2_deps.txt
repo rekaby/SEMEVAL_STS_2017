@@ -1,0 +1,9 @@
+compound	agencies	Security
+nsubj	worry	agencies
+root	ROOT	worry
+case	threats	about
+amod	threats	new
+amod	threats	terrorist
+nmod:about	worry	threats
+case	Kenya	in
+nmod:in	threats	Kenya

@@ -1,0 +1,7 @@
+have	guitar	dobj
+have	musician	nsubj
+musician	The	det
+waiting	is	aux
+have	waiting	conj:and
+guitar	a	det
+waiting	perform	xcomp

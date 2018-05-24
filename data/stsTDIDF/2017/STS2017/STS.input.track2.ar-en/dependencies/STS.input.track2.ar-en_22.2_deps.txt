@@ -1,0 +1,9 @@
+cc	stretched	Or
+root	ROOT	stretched
+compound:prt	stretched	out
+case	ground	on
+det	ground	the
+nmod:on	stretched	ground
+case	son	with
+nmod:poss	son	her
+nmod:with	ground	son

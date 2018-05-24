@@ -1,0 +1,9 @@
+nsubj	braces	Egypt
+root	ROOT	braces
+case	protests	for
+amod	protests	more
+nmod:for	braces	protests
+punct	braces	,
+dep	braces	prays
+case	calm	for
+nmod:for	prays	calm

@@ -1,0 +1,13 @@
+det	expressions	Those
+nsubj	have	expressions
+aux	have	could
+root	ROOT	have
+advmod	different	slightly
+amod	meanings	different
+dobj	have	meanings
+advmod	talking	especially
+advmod	talking	when
+acl	meanings	talking
+case	finance	about
+nmod:about	talking	finance
+punct	have	.

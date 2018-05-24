@@ -1,0 +1,24 @@
+det	company	The
+nsubj	highlighting	company
+aux	highlighting	is
+root	ROOT	highlighting
+det	addition	the
+dobj	highlighting	addition
+acl	addition	of
+punct	highlighting	.-8) nsubj(support-4, NET
+cc	NET	and
+conj:and	NET	J2EE
+root	ROOT	support
+case	Environment	to
+nmod:poss	Environment	its
+compound	Environment	Enterprise
+compound	Environment	Application
+nmod:to	support	Environment
+punct	EAE	-LRB-
+appos	Environment	EAE
+punct	EAE	-RRB-
+case	mainframe	with
+det	mainframe	the
+amod	mainframe	new
+nmod:with	support	mainframe
+punct	support	.

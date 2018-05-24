@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	applying	woman
+aux	applying	is
+root	ROOT	applying
+dobj	applying	cosmetics
+case	eyelid	to
+nmod:poss	eyelid	her
+nmod:to	applying	eyelid
+punct	applying	.

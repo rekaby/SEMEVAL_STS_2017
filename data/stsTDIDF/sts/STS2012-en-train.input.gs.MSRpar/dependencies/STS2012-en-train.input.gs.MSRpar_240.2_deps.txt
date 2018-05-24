@@ -1,0 +1,17 @@
+det	virus	The
+nsubj	killed	virus
+root	ROOT	killed
+nummod	people	44
+dobj	killed	people
+case	area	in
+det	area	the
+compound	area	Toronto
+nmod:in	killed	area
+punct	killed	,
+case	doctor	including
+nummod	doctor	one
+nmod:including	killed	doctor
+cc	doctor	and
+nummod	nurses	two
+conj:and	doctor	nurses
+punct	killed	.

@@ -1,0 +1,10 @@
+det	thin	a
+amod	thin	long
+root	ROOT	thin
+acl	thin	implement
+xcomp	implement	resembling
+det	length	a
+dobj	resembling	length
+case	wood	of
+nmod:of	length	wood
+punct	thin	.

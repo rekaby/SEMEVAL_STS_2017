@@ -1,0 +1,6 @@
+nsubj	killed	Man
+root	ROOT	killed
+case	raid	in
+amod	raid	French
+compound	raid	terror
+nmod:in	killed	raid

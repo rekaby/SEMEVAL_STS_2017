@@ -1,0 +1,9 @@
+dep	paths	Bulbs
+nsubj	paths	a
+cc	a	and
+conj:and	a	c
+cop	paths	are
+case	paths	in
+amod	paths	separate
+root	ROOT	paths
+punct	paths	.

@@ -1,0 +1,7 @@
+amod	returns	Tense
+amod	returns	calm
+root	ROOT	returns
+case	Tel	to
+amod	Tel	south
+nmod:to	returns	Tel
+dep	Tel	Aviv

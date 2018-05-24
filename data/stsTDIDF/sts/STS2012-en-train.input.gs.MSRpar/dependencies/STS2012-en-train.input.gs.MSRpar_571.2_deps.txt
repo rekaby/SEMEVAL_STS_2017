@@ -1,0 +1,18 @@
+det	Index	The
+amod	Index	tech-heavy
+compound	Index	Nasdaq
+compound	Index	Composite
+root	ROOT	Index
+punct	Index	.-6) nsubj(percent-5, IXIC
+cop	percent	was
+case	percent	off
+nummod	percent	0.11
+root	ROOT	percent
+punct	percent	,
+cc	percent	or
+nummod	points	1.78
+conj:or	percent	points
+punct	percent	,
+case	1,594.13	at
+nmod:at	percent	1,594.13
+punct	percent	.

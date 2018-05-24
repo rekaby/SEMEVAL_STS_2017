@@ -1,0 +1,9 @@
+root	ROOT	`
+compound	Runner	Blade
+nmod:poss	Pistorius	Runner
+case	Runner	'
+nsubj	dispute	Pistorius
+mark	dispute	to
+root	`	dispute
+compound	charge	murder
+dobj	dispute	charge

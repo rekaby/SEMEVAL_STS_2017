@@ -1,0 +1,9 @@
+nsubj	finishes	Torres
+root	ROOT	finishes
+dobj	finishes	4th
+punct	finishes	,
+conj	finishes	misses
+compound:prt	misses	out
+case	Olympics	on
+amod	Olympics	sixth
+nmod:on	misses	Olympics

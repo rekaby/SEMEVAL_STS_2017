@@ -1,0 +1,12 @@
+nmod:poss	Morales	Bolivia
+case	Bolivia	's
+nsubj	says	Morales
+root	ROOT	says
+nsubj	grant	he
+aux	grant	would
+ccomp	says	grant
+dobj	grant	asylum
+case	Snowden	to
+nmod:to	grant	Snowden
+mark	asked	if
+advcl	grant	asked

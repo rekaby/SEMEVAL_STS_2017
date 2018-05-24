@@ -1,0 +1,10 @@
+amod	lamb	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	lamb
+case	tag	with
+nmod:with	lamb	tag
+case	ear	in
+amod	ear	right
+nmod:in	tag	ear
+punct	lamb	.

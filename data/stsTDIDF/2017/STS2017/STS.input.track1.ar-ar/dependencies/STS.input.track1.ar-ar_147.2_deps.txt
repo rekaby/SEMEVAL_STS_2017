@@ -1,0 +1,13 @@
+nsubj	took	He
+root	ROOT	took
+det	child	a
+dobj	took	child
+case	father	by
+nmod:poss	father	her
+nmod:by	took	father
+mark	walk	to
+advcl	took	walk
+case	park	in
+det	park	the
+nmod:in	walk	park
+punct	took	.

@@ -1,0 +1,15 @@
+nsubj	says	Man
+acl	Man	convicted
+case	crimes	in
+compound	crimes	mob
+nmod:in	convicted	crimes
+root	ROOT	says
+nsubjpass	buried	he
+auxpass	buried	's
+punct	buried	`
+amod	buried	certain
+punct	buried	'
+advmod	buried	where
+nsubjpass	buried	Hoffa
+auxpass	buried	is
+ccomp	says	buried

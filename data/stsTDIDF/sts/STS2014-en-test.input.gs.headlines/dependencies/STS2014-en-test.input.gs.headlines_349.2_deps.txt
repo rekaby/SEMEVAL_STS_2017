@@ -1,0 +1,5 @@
+amod	quake	5.5-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+case	Taiwan	off
+nmod:off	hits	Taiwan

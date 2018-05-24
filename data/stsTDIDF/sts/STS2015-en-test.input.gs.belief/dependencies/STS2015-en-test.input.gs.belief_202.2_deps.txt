@@ -1,0 +1,26 @@
+advmod	got	eventually
+root	ROOT	got
+dobj	got	him
+case	8.30	at
+nmod:at	got	8.30
+punct	got	.-6) nsubj(stayed-2, he
+root	ROOT	stayed
+case	friend	with
+punct	friend	''
+det	friend	a
+nmod:with	stayed	friend
+punct	friend	''
+aux	asking	am
+nsubj	asking	i
+dep	stayed	asking
+case	much	to
+nmod:to	asking	much
+mark	told	to
+auxpass	told	be
+xcomp	asking	told
+nsubj	coming	he
+aux	coming	is
+neg	coming	not
+ccomp	told	coming
+dobj	coming	home
+punct	stayed	?

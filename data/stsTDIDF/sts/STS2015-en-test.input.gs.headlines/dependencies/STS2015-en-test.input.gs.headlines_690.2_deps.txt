@@ -1,0 +1,10 @@
+amod	sentences	Egyptian
+compound	sentences	court
+root	ROOT	sentences
+amod	leader	Muslim
+compound	leader	Brotherhood
+dobj	sentences	leader
+case	life	to
+nmod:to	leader	life
+case	prison	in
+nmod:in	life	prison

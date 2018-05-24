@@ -1,0 +1,9 @@
+det	line	a
+root	ROOT	line
+acl	line	leading
+case	place	to
+det	place	a
+nmod:to	leading	place
+cc	place	or
+conj:or	place	point
+punct	line	;

@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	cutting	woman
+aux	cutting	is
+root	ROOT	cutting
+dobj	cutting	broccoli
+punct	cutting	.

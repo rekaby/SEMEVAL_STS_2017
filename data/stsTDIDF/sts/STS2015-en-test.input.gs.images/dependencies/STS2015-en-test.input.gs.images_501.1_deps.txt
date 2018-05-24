@@ -1,0 +1,15 @@
+det	woman	The
+nsubj	holding	woman
+aux	holding	is
+root	ROOT	holding
+det	harness	the
+dobj	holding	harness
+dobj	wearing	that
+det	dog	the
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	wearing	dog
+aux	wearing	is
+acl:relcl	harness	wearing
+punct	holding	.

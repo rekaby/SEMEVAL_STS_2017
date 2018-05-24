@@ -1,0 +1,12 @@
+det	child	A
+nsubj	rolling	child
+aux	rolling	is
+root	ROOT	rolling
+xcomp	rolling	blading
+compound:prt	blading	down
+det	path	a
+dobj	blading	path
+case	Beach	on
+compound	Beach	Venice
+nmod:on	path	Beach
+punct	rolling	.

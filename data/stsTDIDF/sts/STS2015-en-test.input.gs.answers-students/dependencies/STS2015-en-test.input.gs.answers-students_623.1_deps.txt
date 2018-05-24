@@ -1,0 +1,12 @@
+nsubjpass	connected	4
+punct	4	,
+conj:and	4	5
+punct	4	,
+cc	4	and
+conj:and	4	6
+auxpass	connected	are
+root	ROOT	connected
+case	side	to
+det	side	the
+amod	side	positive
+nmod:to	connected	side

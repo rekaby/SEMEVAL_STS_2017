@@ -1,0 +1,10 @@
+compound #Doctors #New	15.060439779775294
+compound #Doctors York	15.060439779775294
+compound #Doctors City	15.060439779775294
+compound #Doctors Ties	15.060439779775294
+root ROOT #Doctors	15.060439779775294
+punct #Doctors ?-6) root(ROOT-0, #Income	15.060439779775294
+case #Quality to	15.060439779775294
+nmod:to #Income #Quality	15.060439779775294
+case #Care of	15.060439779775294
+nmod:of #Quality #Care	15.060439779775294

@@ -1,0 +1,8 @@
+nmod:poss	brother	Madoff
+case	Madoff	's
+root	ROOT	brother
+mark	plead	to
+acl	brother	plead
+xcomp	plead	guilty
+case	fraud	to
+nmod:to	guilty	fraud

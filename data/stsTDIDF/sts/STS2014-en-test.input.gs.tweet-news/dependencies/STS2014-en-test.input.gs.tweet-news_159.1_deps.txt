@@ -1,0 +1,21 @@
+nsubj	human	We
+cop	human	're
+det	human	all
+root	ROOT	human
+punct	human	,
+neg	DEATH	No
+amod	DEATH	MORE
+nsubj	Please	DEATH
+parataxis	human	Please
+punct	human	!-10) det(Tibetan-2, Another
+nsubj	sets	Tibetan
+root	ROOT	sets
+dobj	sets	himself
+case	fire	on
+nmod:on	sets	fire
+punct	sets	,
+conj	sets	dies
+mark	protest	to
+xcomp	dies	protest
+amod	rule	Chinese
+dobj	protest	rule

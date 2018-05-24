@@ -1,0 +1,15 @@
+advmod	form	So
+punct	form	,
+amod	form	short
+root	ROOT	form
+punct	form	,
+conj	form	yes
+punct	form	,
+nsubj	different	it
+advmod	different	probably
+cop	different	is
+parataxis	form	different
+case	countries	in
+amod	countries	different
+nmod:in	different	countries
+punct	form	.

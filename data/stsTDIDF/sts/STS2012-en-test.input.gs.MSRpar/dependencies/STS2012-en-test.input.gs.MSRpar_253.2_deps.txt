@@ -1,0 +1,27 @@
+det	average	The
+amod	average	blue-chip
+compound	average	Dow
+compound	average	Jones
+amod	average	industrial
+root	ROOT	average
+punct	average	.-7) nsubj(jumped-2, DJI
+root	ROOT	jumped
+nummod	points	194.14
+dobj	jumped	points
+punct	points	,
+cc	points	or
+nummod	percent	2.09
+conj:or	points	percent
+punct	points	,
+case	9,469.20	to
+nmod:to	jumped	9,469.20
+mark	sinking	after
+advcl	jumped	sinking
+advmod	1	more
+mwe	more	than
+nummod	percent	1
+dobj	sinking	percent
+det	day	a
+nmod:npmod	earlier	day
+advmod	percent	earlier
+punct	jumped	.

@@ -1,0 +1,10 @@
+root	ROOT	Woman
+case	dress	in
+det	dress	a
+amod	dress	black
+nmod:in	Woman	dress
+acl	dress	walking
+case	street	on
+det	street	the
+nmod:on	walking	street
+punct	Woman	.

@@ -1,0 +1,10 @@
+root	ROOT	time
+mark	get	to
+acl	time	get
+det	government	the
+dobj	get	government
+case	bedroom	out
+mwe	out	of
+det	bedroom	the
+nmod:out_of	get	bedroom
+punct	time	.

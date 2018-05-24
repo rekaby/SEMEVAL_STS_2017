@@ -1,0 +1,6 @@
+compound	Mourn	South
+compound	Mourn	Africans
+nsubj	Buried	Mourn
+case	Mandela	as
+nmod:as	Mourn	Mandela
+root	ROOT	Buried

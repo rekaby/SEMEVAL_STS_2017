@@ -1,0 +1,8 @@
+bubble	through	case
+bubble	large	amod
+man	Young	amod
+man	peering	acl
+bubble	a	det
+man	shirt	nmod:in
+peering	bubble	nmod:through
+shirt	blue	amod

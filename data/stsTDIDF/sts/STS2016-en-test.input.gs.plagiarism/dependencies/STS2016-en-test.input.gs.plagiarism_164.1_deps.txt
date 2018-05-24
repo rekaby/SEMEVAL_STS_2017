@@ -1,0 +1,12 @@
+advmod	terms	Typically
+nsubj	words	terms
+cop	words	are
+amod	words	single
+root	ROOT	words
+punct	words	,
+appos	words	keywords
+punct	keywords	,
+cc	keywords	or
+amod	phrases	longer
+conj:or	keywords	phrases
+punct	words	.

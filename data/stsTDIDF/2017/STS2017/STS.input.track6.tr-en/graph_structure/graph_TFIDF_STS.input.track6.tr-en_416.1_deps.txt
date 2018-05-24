@@ -1,0 +1,17 @@
+stand	by	advmod
+trailer	a	det
+stand	as	mark
+pipe	A	det
+lowered	pipe	nsubjpass
+stand	workers	nsubj
+lowered	,	punct
+trailer	on	case
+lowered	.	punct
+pipe	large	amod
+ROOT	lowered	root
+lowered	is	aux
+lowered	trailer	nmod:on
+pipe	white	amod
+lowered	stand	advcl
+workers	two	nummod
+lowered	being	auxpass

@@ -1,0 +1,8 @@
+det	people	The
+nsubj	sleeping	people
+aux	sleeping	are
+root	ROOT	sleeping
+case	snow	in
+det	snow	the
+nmod:in	sleeping	snow
+punct	sleeping	.

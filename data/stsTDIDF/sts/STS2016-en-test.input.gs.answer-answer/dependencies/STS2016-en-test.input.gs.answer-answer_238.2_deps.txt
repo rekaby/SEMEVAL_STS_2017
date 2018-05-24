@@ -1,0 +1,9 @@
+discourse	talk	Yes
+punct	talk	,
+nsubj	talk	you
+aux	talk	should
+root	ROOT	talk
+case	professor	to
+nmod:poss	professor	your
+nmod:to	talk	professor
+punct	talk	.

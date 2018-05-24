@@ -1,0 +1,8 @@
+root	ROOT	Generate
+det	solution	the
+amod	solution	optimal
+dobj	Generate	solution
+case	values	of
+det	values	these
+amod	values	computed
+nmod:of	solution	values

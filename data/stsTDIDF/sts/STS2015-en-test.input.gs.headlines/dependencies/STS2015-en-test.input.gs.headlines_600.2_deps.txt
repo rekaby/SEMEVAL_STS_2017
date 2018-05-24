@@ -1,0 +1,7 @@
+amod	army	Israeli
+nsubj	kills	army
+root	ROOT	kills
+amod	militant	Palestinian
+dobj	kills	militant
+case	raid	in
+nmod:in	kills	raid

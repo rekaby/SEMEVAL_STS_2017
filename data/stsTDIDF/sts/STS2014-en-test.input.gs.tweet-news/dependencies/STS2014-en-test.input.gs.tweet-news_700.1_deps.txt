@@ -1,0 +1,15 @@
+case	time	About
+amod	time	damn
+root	ROOT	time
+acl	time	!!!-4) compound(signs-4, New
+compound	signs	York
+compound	signs	governor
+root	ROOT	signs
+nmod:poss	bill	nation
+case	nation	's
+amod	bill	first
+amod	bill	gun-control
+dep	signs	bill
+case	Newtown	since
+nmod:since	bill	Newtown
+punct	bill	-

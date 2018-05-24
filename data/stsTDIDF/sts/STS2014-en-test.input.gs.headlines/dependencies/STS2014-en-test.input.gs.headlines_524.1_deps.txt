@@ -1,0 +1,8 @@
+nmod:poss	carrier	China
+case	China	's
+amod	carrier	new
+nsubj	extends	carrier
+root	ROOT	extends
+amod	drive	military
+compound	drive	modernization
+dobj	extends	drive

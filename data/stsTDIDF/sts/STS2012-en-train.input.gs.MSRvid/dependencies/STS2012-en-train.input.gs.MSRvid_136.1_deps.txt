@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	squeezing	woman
+aux	squeezing	is
+root	ROOT	squeezing
+det	lemon	a
+dobj	squeezing	lemon
+punct	squeezing	.

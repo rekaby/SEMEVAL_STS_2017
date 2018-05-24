@@ -1,0 +1,12 @@
+root	ROOT	Trade
+punct	Trade	:
+nmod:tmod	agree	Pakistan
+punct	agree	,
+nsubj	agree	India
+dep	Trade	agree
+mark	take	to
+xcomp	agree	take
+dobj	take	it
+det	step	a
+dobj	take	step
+advmod	take	ahead

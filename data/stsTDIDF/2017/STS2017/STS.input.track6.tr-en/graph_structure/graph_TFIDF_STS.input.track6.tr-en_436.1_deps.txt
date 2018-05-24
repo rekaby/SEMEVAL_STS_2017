@@ -1,0 +1,6 @@
+cafe	in	case
+boy	Little	amod
+having	lunch	dobj
+boy	having	acl
+cafe	a	det
+lunch	cafe	nmod:in

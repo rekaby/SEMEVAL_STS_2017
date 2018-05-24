@@ -1,0 +1,10 @@
+det	boy	A
+root	ROOT	boy
+acl	boy	jumping
+case	air	in
+det	air	the
+nmod:in	jumping	air
+case	beach	on
+det	beach	the
+nmod:on	jumping	beach
+punct	boy	.

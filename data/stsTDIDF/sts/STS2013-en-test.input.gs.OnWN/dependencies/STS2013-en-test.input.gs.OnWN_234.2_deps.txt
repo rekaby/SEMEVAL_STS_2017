@@ -1,0 +1,6 @@
+det	act	the
+root	ROOT	act
+case	hearing	of
+nmod:of	act	hearing
+advmod	hearing	attentively
+punct	act	.

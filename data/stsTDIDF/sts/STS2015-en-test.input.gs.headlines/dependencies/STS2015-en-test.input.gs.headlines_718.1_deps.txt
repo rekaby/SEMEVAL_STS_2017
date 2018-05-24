@@ -1,0 +1,6 @@
+compound	Offensive	Egypt
+compound	Offensive	Launches
+root	ROOT	Offensive
+case	Sinai	Against
+nmod:against	Offensive	Sinai
+dep	Offensive	Militants

@@ -1,0 +1,6 @@
+compound	Slurs	Morsi?s
+nsubj	Concern	Slurs
+case	Jews	Against
+nmod:against	Slurs	Jews
+compound	Concern	Stir
+root	ROOT	Concern

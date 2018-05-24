@@ -1,0 +1,9 @@
+det	part	the
+amod	part	outermost
+nsubj	wheel	part
+case	car	of
+det	car	a
+nmod:of	part	car
+cc	car	or
+conj:or	car	truck
+root	ROOT	wheel

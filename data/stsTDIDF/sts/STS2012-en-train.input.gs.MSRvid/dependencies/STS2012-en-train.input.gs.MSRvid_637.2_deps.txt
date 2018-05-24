@@ -1,0 +1,7 @@
+det	ferret	A
+root	ROOT	ferret
+cc	ferret	and
+conj:and	ferret	kitten
+xcomp	kitten	play
+advmod	play	together
+punct	ferret	.

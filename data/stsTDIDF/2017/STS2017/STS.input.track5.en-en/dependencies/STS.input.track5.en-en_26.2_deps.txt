@@ -1,0 +1,8 @@
+amod	children	Asian
+nsubj	playing	children
+aux	playing	are
+root	ROOT	playing
+case	dog	with
+det	dog	a
+nmod:with	playing	dog
+punct	playing	.

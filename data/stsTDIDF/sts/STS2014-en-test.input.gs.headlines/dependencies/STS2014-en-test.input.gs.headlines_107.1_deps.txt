@@ -1,0 +1,11 @@
+aux	hand	Can
+det	Syria	the
+compound	Syria	U.S.
+compound	Syria	trust
+nsubj	hand	Syria
+mark	hand	to
+root	ROOT	hand
+case	weapons	over
+compound	weapons	chemical
+nmod:over	hand	weapons
+punct	hand	?

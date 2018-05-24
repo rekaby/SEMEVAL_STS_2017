@@ -1,0 +1,11 @@
+punct	kills	`
+compound	attack	Grenade
+nsubj	kills	attack
+punct	kills	'
+root	ROOT	kills
+dobj	kills	one
+cc	kills	and
+conj:and	kills	injures
+case	least	at
+nmod:at	injures	least
+dobj	kills	11

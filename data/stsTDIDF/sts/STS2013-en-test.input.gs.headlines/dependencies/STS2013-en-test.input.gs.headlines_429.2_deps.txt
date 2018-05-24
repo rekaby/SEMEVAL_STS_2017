@@ -1,0 +1,5 @@
+amod	fighting	Heavy
+root	ROOT	fighting
+acl	fighting	reported
+case	Damascus	in
+nmod:in	reported	Damascus

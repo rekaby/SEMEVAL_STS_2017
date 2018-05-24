@@ -1,0 +1,8 @@
+amod	sphere	social
+root	ROOT	sphere
+punct	sphere	,
+appos	sphere	scope
+case	activity	of
+nmod:of	scope	activity
+cc	activity	or
+conj:or	activity	interest

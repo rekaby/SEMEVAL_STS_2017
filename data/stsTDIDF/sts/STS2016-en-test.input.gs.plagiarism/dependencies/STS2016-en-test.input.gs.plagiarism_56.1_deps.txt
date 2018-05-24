@@ -1,0 +1,11 @@
+det	methodology	The
+nsubj	takes	methodology
+root	ROOT	takes
+advmod	less	much
+amod	time	less
+dobj	takes	time
+cc	time	rather
+mwe	rather	than
+amod	methods	naive
+conj:negcc	time	methods
+punct	takes	.

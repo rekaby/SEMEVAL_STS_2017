@@ -1,0 +1,7 @@
+root	ROOT	collect
+amod	material	discarded
+punct	discarded	,
+conj:or	discarded	refused
+cc	discarded	or
+conj:or	discarded	damaged
+dobj	collect	material

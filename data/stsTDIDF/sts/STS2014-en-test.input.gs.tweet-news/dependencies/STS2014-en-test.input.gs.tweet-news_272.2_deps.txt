@@ -1,0 +1,7 @@
+compound	District	Miami?s
+compound	District	Design
+nsubj	Looks	District
+root	ROOT	Looks
+case	Upgrade	for
+det	Upgrade	an
+nmod:for	Looks	Upgrade

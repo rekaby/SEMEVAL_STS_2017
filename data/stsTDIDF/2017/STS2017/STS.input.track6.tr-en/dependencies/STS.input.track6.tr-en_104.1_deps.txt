@@ -1,0 +1,14 @@
+det	child	A
+nsubj	middle	child
+cop	middle	is
+case	middle	in
+det	middle	the
+root	ROOT	middle
+case	crowd	of
+det	crowd	a
+nmod:of	middle	crowd
+case	hands	with
+nmod:poss	hands	their
+nmod:with	crowd	hands
+acl	hands	raised
+punct	middle	.

@@ -1,0 +1,7 @@
+det	area	a
+compound	area	boundary
+root	ROOT	area
+cc	area	or
+conj:or	area	edge
+case	something	of
+nmod:of	area	something

@@ -1,0 +1,9 @@
+amod	blogs	slanted
+root	ROOT	blogs
+cc	blogs	And
+advmod	do	when
+aux	do	did
+nsubj	do	I
+conj:and	blogs	do
+dobj	do	that
+punct	blogs	?

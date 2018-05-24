@@ -1,0 +1,11 @@
+det	official	the
+nsubj	stated	official
+root	ROOT	stated
+mark	transfer	that
+nsubj	transfer	this
+cop	transfer	was
+det	transfer	a
+amod	transfer	complete
+compound	transfer	technology
+ccomp	stated	transfer
+punct	stated	.

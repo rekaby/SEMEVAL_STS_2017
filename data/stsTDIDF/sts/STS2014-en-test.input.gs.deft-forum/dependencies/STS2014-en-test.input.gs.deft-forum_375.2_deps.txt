@@ -1,0 +1,8 @@
+nsubj	rich	This
+cop	rich	is
+root	ROOT	rich
+xcomp	rich	coming
+case	conservative	from
+det	conservative	a
+nmod:from	coming	conservative
+punct	rich	.

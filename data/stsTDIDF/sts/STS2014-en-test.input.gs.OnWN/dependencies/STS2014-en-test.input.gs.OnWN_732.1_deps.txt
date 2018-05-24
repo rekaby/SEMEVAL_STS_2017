@@ -1,0 +1,7 @@
+root	ROOT	Cause
+mark	move	to
+xcomp	Cause	move
+advmod	move	forward
+case	force	with
+nmod:with	move	force
+punct	Cause	.

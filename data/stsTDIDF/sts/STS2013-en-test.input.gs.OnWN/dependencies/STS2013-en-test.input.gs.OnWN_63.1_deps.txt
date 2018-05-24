@@ -1,0 +1,10 @@
+det	act	the
+root	ROOT	act
+cc	act	or
+conj:or	act	means
+dep	means	of
+dep	of	getting
+xcomp	getting	rid
+case	something	of
+nmod:of	rid	something
+punct	act	.

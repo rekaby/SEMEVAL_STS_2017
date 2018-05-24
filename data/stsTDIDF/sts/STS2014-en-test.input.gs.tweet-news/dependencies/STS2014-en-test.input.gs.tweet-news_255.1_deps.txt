@@ -1,0 +1,8 @@
+amod	cars	Hurricane-flooded
+root	ROOT	cars
+acl	cars	ruined
+case	lure	by
+compound	lure	Sandy
+nmod:by	ruined	lure
+amod	buyers	unwitting
+dobj	lure	buyers

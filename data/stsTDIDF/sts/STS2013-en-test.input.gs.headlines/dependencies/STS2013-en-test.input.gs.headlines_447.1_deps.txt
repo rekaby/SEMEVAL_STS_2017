@@ -1,0 +1,7 @@
+compound	Armstrong	Lance
+nsubj	drops	Armstrong
+root	ROOT	drops
+dobj	drops	fight
+case	charges	against
+compound	charges	doping
+nmod:against	fight	charges

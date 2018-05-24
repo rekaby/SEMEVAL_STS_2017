@@ -1,0 +1,17 @@
+det	government	the
+amod	government	iranian
+nsubj	denied	government
+root	ROOT	denied
+det	accusation	the
+dobj	denied	accusation
+cc	denied	and
+conj:and	denied	insists
+det	program	the
+amod	program	nuclear
+nsubj	purposes	program
+cop	purposes	is
+case	purposes	for
+amod	purposes	peaceful
+ccomp	insists	purposes
+advmod	purposes	only
+punct	denied	.

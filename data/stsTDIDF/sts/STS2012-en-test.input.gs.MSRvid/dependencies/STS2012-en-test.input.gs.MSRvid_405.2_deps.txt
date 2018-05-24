@@ -1,0 +1,9 @@
+det	bunny	A
+nsubj	playing	bunny
+aux	playing	is
+root	ROOT	playing
+case	bunny	with
+det	bunny	a
+amod	bunny	stuffed
+nmod:with	playing	bunny
+punct	playing	.

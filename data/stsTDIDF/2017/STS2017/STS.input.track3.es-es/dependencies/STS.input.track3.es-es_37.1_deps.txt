@@ -1,0 +1,8 @@
+det	woman	A
+amod	woman	pink
+nsubj	holding	woman
+aux	holding	is
+root	ROOT	holding
+nmod:poss	daughter	her
+dobj	holding	daughter
+punct	holding	.

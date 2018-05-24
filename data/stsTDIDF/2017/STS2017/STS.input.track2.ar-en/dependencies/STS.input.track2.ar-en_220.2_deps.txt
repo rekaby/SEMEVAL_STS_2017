@@ -1,0 +1,10 @@
+amod	women	Many
+nsubj	walk	women
+root	ROOT	walk
+case	building	through
+det	building	the
+nmod:through	walk	building
+dep	walk	tiled
+compound	Bahia	Babaouat
+dobj	tiled	Bahia
+punct	walk	.

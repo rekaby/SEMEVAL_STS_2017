@@ -1,0 +1,8 @@
+compound	Gox	Mt
+nsubj	finds	Gox
+root	ROOT	finds
+dep	forgotten	200,000
+punct	forgotten	`
+amod	bitcoins	forgotten
+punct	forgotten	'
+dobj	finds	bitcoins

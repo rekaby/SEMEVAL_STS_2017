@@ -1,0 +1,8 @@
+root	ROOT	Dolce
+cc	Dolce	and
+conj:and	Dolce	Gabbana
+acl	Dolce	Fined
+case	Case	in
+amod	Case	Italian
+compound	Case	Tax
+nmod:in	Fined	Case

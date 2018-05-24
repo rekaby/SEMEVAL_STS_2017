@@ -1,0 +1,6 @@
+compound	powers	Gusmao
+root	ROOT	powers
+case	Timor	on
+case	Timor	in
+compound	Timor	East
+nmod:in	powers	Timor

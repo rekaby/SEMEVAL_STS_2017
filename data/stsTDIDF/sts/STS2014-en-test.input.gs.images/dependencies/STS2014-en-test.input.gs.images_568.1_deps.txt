@@ -1,0 +1,9 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	sitting
+case	chairs	in
+nmod:in	sitting	chairs
+case	shop	in
+det	shop	a
+nmod:in	sitting	shop
+punct	women	.

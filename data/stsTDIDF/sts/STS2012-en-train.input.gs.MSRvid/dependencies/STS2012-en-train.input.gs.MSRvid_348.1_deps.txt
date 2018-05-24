@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	slicing	woman
+aux	slicing	is
+root	ROOT	slicing
+compound	cake	fish
+dobj	slicing	cake
+punct	slicing	.

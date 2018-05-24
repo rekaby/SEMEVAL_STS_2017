@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+case	appraising	of
+nmod:of	act	appraising
+punct	act	,
+acl	act	critiquing
+dobj	critiquing	something

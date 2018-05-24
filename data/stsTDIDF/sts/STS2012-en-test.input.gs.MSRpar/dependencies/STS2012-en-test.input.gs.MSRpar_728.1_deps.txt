@@ -1,0 +1,13 @@
+case	period	In
+det	period	the
+amod	period	year-ago
+nmod:in	posted	period
+punct	posted	,
+nsubj	posted	Pearson
+root	ROOT	posted
+det	profit	a
+compound	million	26
+nummod	profit	million
+amod	profit	pre-tax
+dobj	posted	profit
+punct	posted	.

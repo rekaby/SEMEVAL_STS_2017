@@ -1,0 +1,11 @@
+root	ROOT	Flying
+case	California	from
+nmod:from	Flying	California
+case	Texas	to
+nmod:to	Flying	Texas
+punct	Flying	:
+aux	need	do
+nsubj	need	I
+parataxis	Flying	need
+dobj	need	ESTA
+punct	Flying	?

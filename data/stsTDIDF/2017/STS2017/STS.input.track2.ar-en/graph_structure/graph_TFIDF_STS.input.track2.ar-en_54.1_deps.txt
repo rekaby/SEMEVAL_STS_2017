@@ -1,0 +1,4 @@
+bear	store	nmod:in
+store	jewelry	compound
+bear	a	det
+is	bear	nsubj

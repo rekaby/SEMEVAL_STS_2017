@@ -1,0 +1,6 @@
+compound	income	government
+root	ROOT	income
+amod	income	due
+case	taxation	to
+nmod:to	due	taxation
+punct	income	.

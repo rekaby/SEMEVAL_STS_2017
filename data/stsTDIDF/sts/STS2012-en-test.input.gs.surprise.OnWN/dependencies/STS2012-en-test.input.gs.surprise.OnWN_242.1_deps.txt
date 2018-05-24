@@ -1,0 +1,12 @@
+cop	factor	be
+det	factor	the
+amod	factor	deciding
+root	ROOT	factor
+case	state	in
+det	state	a
+nmod:in	factor	state
+case	affairs	of
+nmod:of	state	affairs
+cc	state	or
+det	outcome	an
+conj:or	state	outcome

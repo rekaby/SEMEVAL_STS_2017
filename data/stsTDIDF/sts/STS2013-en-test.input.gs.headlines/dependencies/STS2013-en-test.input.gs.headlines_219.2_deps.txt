@@ -1,0 +1,8 @@
+nsubj	appoints	Google
+root	ROOT	appoints
+compound	Woodside	Dennis
+dobj	appoints	Woodside
+mark	run	to
+xcomp	appoints	run
+compound	Mobility	Motorola
+dobj	run	Mobility

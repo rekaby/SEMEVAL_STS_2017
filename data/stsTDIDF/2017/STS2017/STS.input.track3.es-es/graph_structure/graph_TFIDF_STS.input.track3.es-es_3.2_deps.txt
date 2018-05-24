@@ -1,0 +1,12 @@
+amazement	in	case
+ROOT	stare	root
+stare	Pedestrians	nsubj
+stare	amazement	nmod:in
+amazement	cook	advcl
+cook	as	mark
+stare	.	punct
+cook	people	nsubj
+cook	breast	dobj
+grill	a	det
+cook	grill	nmod:on
+grill	on	case

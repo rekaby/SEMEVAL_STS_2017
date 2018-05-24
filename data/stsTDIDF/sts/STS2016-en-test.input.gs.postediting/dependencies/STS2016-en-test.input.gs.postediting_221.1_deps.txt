@@ -1,0 +1,10 @@
+nsubj	been	They
+aux	been	have
+neg	been	not
+root	ROOT	been
+xcomp	been	that
+case	opposition	according
+mwe	according	to
+det	opposition	the
+nmod:according_to	that	opposition
+punct	been	.

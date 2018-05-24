@@ -1,0 +1,7 @@
+image	to	case
+reflected	pool	nmod:in
+look	image	nmod:to
+image	reflected	acl
+look	Girl	nsubj
+pool	water	nmod:of
+image	her	nmod:poss

@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	playing
+det	banjo	the
+dobj	playing	banjo
+advmod	playing	abroad
+punct	man	.

@@ -1,0 +1,7 @@
+sings	boy	nsubj
+baseball	course	nmod:outside
+ROOT	sings	root
+baseball	a	det
+course	golf	compound
+sings	baseball	nmod:to
+baseball	to	case

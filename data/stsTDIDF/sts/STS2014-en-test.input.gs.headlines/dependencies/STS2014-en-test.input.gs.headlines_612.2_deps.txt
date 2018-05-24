@@ -1,0 +1,13 @@
+nsubj	gets	Son
+case	singers	of
+compound	singers	Chinese
+compound	singers	army
+nmod:of	Son	singers
+root	ROOT	gets
+nummod	years	10
+nmod:poss	jail	years
+case	years	'
+nsubj	rape	jail
+case	gang	for
+nmod:for	jail	gang
+dobj	gets	rape

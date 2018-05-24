@@ -1,0 +1,6 @@
+root	ROOT	develop
+case	way	in
+det	way	a
+amod	way	positive
+nmod:in	develop	way
+punct	develop	.

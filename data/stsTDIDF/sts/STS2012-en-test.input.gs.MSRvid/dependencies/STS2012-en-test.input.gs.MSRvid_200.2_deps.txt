@@ -1,0 +1,9 @@
+det	puppy	A
+nsubj	playing	puppy
+aux	playing	is
+root	ROOT	playing
+case	ball	with
+det	ball	a
+compound	ball	tennis
+nmod:with	playing	ball
+punct	playing	.

@@ -1,0 +1,11 @@
+det	act	The
+root	ROOT	act
+mark	searching	of
+acl	act	searching
+mark	buying	for
+cc	buying	or
+advcl	searching	buying
+dobj	buying	goods
+cc	goods	or
+conj:or	goods	services
+punct	act	.

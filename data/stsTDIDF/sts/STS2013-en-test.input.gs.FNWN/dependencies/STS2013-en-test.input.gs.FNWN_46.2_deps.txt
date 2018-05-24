@@ -1,0 +1,10 @@
+advcl	declare	make
+det	proposal	a
+dobj	make	proposal
+punct	declare	,
+root	ROOT	declare
+det	plan	a
+dobj	declare	plan
+case	something	for
+nmod:for	plan	something
+punct	declare	;

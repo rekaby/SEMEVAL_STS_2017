@@ -1,0 +1,14 @@
+mark	non-zero	if
+det	state	the
+amod	state	electrical
+nsubj	non-zero	state
+cop	non-zero	is
+advcl	find	non-zero
+nsubj	find	you
+aux	find	can
+root	ROOT	find
+det	gap	the
+dobj	find	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit

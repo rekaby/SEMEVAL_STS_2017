@@ -1,0 +1,5 @@
+nsubj	nominates	Obama
+root	ROOT	nominates
+amod	secretary	new
+compound	secretary	transportation
+dobj	nominates	secretary

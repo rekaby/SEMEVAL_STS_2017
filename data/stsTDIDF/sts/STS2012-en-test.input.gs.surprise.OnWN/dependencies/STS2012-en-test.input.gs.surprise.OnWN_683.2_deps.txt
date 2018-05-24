@@ -1,0 +1,5 @@
+root	ROOT	make
+det	sound	a
+amod	sound	sharp
+dobj	make	sound
+punct	make	.

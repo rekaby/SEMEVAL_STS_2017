@@ -1,0 +1,7 @@
+compound	eating	Bird
+root	ROOT	eating
+case	feeder	from
+det	feeder	a
+compound	feeder	bird
+nmod:from	eating	feeder
+punct	eating	.

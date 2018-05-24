@@ -1,0 +1,15 @@
+nsubjpass	recognised	It
+auxpass	recognised	is
+root	ROOT	recognised
+mark	prerequisite	that
+det	knowledge	the
+nsubj	prerequisite	knowledge
+case	languages	of
+amod	languages	foreign
+nmod:of	knowledge	languages
+cop	prerequisite	is
+det	prerequisite	a
+ccomp	recognised	prerequisite
+case	mobility	for
+nmod:for	prerequisite	mobility
+punct	recognised	.

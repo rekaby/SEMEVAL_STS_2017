@@ -1,0 +1,14 @@
+det	man	a
+root	ROOT	man
+acl	man	wearing
+det	suit	a
+amod	suit	white
+dobj	wearing	suit
+acl	suit	holding
+det	newspaper	a
+dobj	holding	newspaper
+acl	newspaper	walking
+case	streets	through
+det	streets	the
+nmod:through	walking	streets
+punct	man	.

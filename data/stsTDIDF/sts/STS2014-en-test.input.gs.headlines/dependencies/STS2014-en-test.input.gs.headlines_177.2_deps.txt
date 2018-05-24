@@ -1,0 +1,6 @@
+amod	journalist	Italian
+nsubj	picked	journalist
+root	ROOT	picked
+case	candidate	as
+amod	candidate	presidential
+nmod:as	picked	candidate

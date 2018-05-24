@@ -1,0 +1,14 @@
+nsubj	love	Turtles
+root	ROOT	love
+xcomp	love	eating
+dobj	eating	goldfish
+cc	goldfish	and
+conj:and	goldfish	lots
+case	things	of
+nmod:of	goldfish	things
+nsubj	fit	that
+acl:relcl	things	fit
+case	mouths	into
+nmod:poss	mouths	their
+nmod:into	fit	mouths
+punct	love	.

@@ -1,0 +1,7 @@
+listen	teacher	nmod:to
+teacher	to	case
+read	story	dobj
+listen	Children	nsubj
+ROOT	listen	root
+listen	read	ccomp
+listen	.	punct

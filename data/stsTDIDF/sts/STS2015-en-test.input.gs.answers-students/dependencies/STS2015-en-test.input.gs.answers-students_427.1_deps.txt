@@ -1,0 +1,9 @@
+nsubj	allows	it
+root	ROOT	allows
+dobj	allows	you
+mark	measure	to
+xcomp	allows	measure
+amod	states	electrical
+dobj	measure	states
+case	terminals	between
+nmod:between	measure	terminals

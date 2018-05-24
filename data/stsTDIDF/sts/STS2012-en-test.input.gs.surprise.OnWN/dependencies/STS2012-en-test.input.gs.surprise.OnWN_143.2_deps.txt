@@ -1,0 +1,5 @@
+root	ROOT	place
+cc	place	or
+conj:or	place	set
+advmod	place	apart
+punct	place	.

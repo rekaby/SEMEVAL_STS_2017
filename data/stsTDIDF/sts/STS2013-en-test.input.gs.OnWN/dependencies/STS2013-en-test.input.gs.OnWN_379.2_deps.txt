@@ -1,0 +1,6 @@
+root	ROOT	put
+det	heel	a
+amod	heel	new
+dobj	put	heel
+nmod	put	on
+punct	put	.

@@ -1,0 +1,17 @@
+det	searches	The
+nsubjpass	conducted	searches
+auxpass	conducted	were
+root	ROOT	conducted
+advmod	conducted	simultaneously
+case	raids	with
+nmod:with	conducted	raids
+case	clubs	on
+compound	clubs	strip
+nmod:on	raids	clubs
+case	Diego	in
+compound	Diego	San
+nmod:in	clubs	Diego
+cc	Diego	and
+compound	Vegas	Las
+conj:and	Diego	Vegas
+punct	conducted	.

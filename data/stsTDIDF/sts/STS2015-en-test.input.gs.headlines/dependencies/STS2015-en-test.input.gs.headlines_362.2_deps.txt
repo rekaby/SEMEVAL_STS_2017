@@ -1,0 +1,8 @@
+dep	pledge	Iran
+punct	Iran	,
+compound	powers	world
+nsubj	pledge	powers
+root	ROOT	pledge
+amod	talks	new
+amod	talks	nuclear
+dobj	pledge	talks

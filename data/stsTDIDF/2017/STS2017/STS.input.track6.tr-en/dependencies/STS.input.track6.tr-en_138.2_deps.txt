@@ -1,0 +1,10 @@
+det	man	A
+amod	man	young
+nsubj	museum	man
+cc	man	and
+conj:and	man	woman
+cop	museum	are
+case	museum	in
+det	museum	a
+root	ROOT	museum
+punct	museum	.

@@ -1,0 +1,14 @@
+nsubj	rose	Revenue
+root	ROOT	rose
+case	$	to
+nmod:to	rose	$
+compound	million	616.5
+nummod	$	million
+case	$	from
+nmod:from	rose	$
+compound	million	610.6
+nummod	$	million
+det	year	a
+nmod:npmod	earlier	year
+advmod	$	earlier
+punct	rose	.

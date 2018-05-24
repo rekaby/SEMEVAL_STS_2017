@@ -1,0 +1,14 @@
+nsubj	thinking	anyone
+ccomp	fool	thinking
+nmod:poss	government	our
+nsubjpass	run	government
+auxpass	run	is
+neg	run	not
+ccomp	thinking	run
+case	money	by
+nmod:agent	run	money
+punct	fool	,
+cop	fool	is
+det	fool	a
+root	ROOT	fool
+punct	fool	.

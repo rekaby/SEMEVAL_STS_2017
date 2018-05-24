@@ -1,0 +1,12 @@
+distance	high	amod
+team	yellow	amod
+rappel	distance	nmod:from
+rappel	about	mark
+distance	from	case
+rappel	.	punct
+rappel	is	cop
+rappel	to	mark
+ROOT	rappel	root
+distance	a	det
+rappel	man	nsubj
+man	team	nmod:with

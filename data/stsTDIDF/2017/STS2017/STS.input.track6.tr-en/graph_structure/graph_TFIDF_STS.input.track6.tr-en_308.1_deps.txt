@@ -1,0 +1,6 @@
+umbrella	an	det
+people	standing	acl
+standing	umbrella	nmod:under
+table	coffee	compound
+umbrella	under	case
+group	table	nmod:at

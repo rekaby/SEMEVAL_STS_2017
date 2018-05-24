@@ -1,0 +1,8 @@
+det	current	The
+nsubj	shorted	current
+aux	shorted	has
+root	ROOT	shorted
+compound:prt	shorted	out
+det	battery	the
+dobj	shorted	battery
+punct	shorted	.

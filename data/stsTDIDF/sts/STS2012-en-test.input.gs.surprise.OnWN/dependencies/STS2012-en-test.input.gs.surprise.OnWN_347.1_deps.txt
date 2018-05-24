@@ -1,0 +1,12 @@
+det	component	the
+amod	component	primary
+compound	component	information-processing
+root	ROOT	component
+case	computer	of
+det	computer	a
+nmod:of	component	computer
+punct	component	,
+case	chip	of
+det	chip	a
+compound	chip	microprocessor
+nmod:of	component	chip

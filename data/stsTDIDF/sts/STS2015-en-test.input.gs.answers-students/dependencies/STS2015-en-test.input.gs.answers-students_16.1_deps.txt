@@ -1,0 +1,11 @@
+mark	has	Because
+det	circuit	the
+amod	circuit	positive
+nsubj	has	circuit
+root	ROOT	has
+det	voltage	a
+dobj	has	voltage
+case	volts	of
+nummod	volts	1.5
+nmod:of	voltage	volts
+punct	has	.

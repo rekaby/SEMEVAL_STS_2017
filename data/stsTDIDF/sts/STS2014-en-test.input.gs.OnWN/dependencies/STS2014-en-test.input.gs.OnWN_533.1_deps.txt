@@ -1,0 +1,12 @@
+root	ROOT	make
+det	proposal	a
+dobj	make	proposal
+cc	proposal	or
+conj:or	proposal	overtures
+case	end	to
+case	end	with
+det	end	a
+amod	end	specific
+nmod:with	proposal	end
+case	view	in
+nmod:in	make	view

@@ -1,0 +1,17 @@
+advmod	Bush	Anyway
+punct	Bush	,
+case	arguments	despite
+det:predet	arguments	all
+det	arguments	these
+nmod:despite	Bush	arguments
+punct	Bush	,
+det	card	the
+amod	card	winning
+nsubj	Bush	card
+case	democrats	for
+det	democrats	the
+nmod:for	card	democrats
+cop	Bush	is
+compound	Bush	George
+root	ROOT	Bush
+punct	Bush	.

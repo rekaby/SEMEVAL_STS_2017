@@ -1,0 +1,17 @@
+advmod	accused	Yet
+punct	accused	,
+det	Americans	the
+nsubj	accused	Americans
+aux	accused	have
+root	ROOT	accused
+det	lowering	a
+dobj	accused	lowering
+case	%	of
+nummod	%	5.2
+nmod:of	lowering	%
+case	9	between
+nmod:between	lowering	9
+cc	9	and
+conj:and	9	24
+dep	9	May
+punct	accused	.

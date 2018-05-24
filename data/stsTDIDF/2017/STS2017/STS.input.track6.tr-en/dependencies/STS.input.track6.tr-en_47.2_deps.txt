@@ -1,0 +1,5 @@
+root	ROOT	Man
+acl	Man	wearing
+det	t-shirt	a
+amod	t-shirt	black
+dobj	wearing	t-shirt

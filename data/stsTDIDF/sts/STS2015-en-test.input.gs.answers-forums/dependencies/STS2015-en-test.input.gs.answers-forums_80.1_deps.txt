@@ -1,0 +1,13 @@
+nsubj	think	I
+aux	think	can
+advmod	think	only
+root	ROOT	think
+case	context	of
+nmod:of	think	context
+xcomp	think	using
+advmod	or	insofar
+advmod	or	as
+cc	using	or
+conj:or	using	insofar
+dobj	using	that
+punct	think	.

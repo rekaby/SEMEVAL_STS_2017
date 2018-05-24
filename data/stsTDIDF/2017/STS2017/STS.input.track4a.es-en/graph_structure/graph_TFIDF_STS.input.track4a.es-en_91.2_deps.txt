@@ -1,0 +1,11 @@
+brown	and	cc
+dog	brown	amod
+grass	in	case
+dog	and	cc
+dog	running	conj:and
+ROOT	dog	root
+dog	.	punct
+running	dog	nsubj
+dog	black	amod
+running	grass	nmod:in
+brown	white	conj:and

@@ -1,0 +1,14 @@
+root	ROOT	Factbox
+punct	Factbox	:
+dep	look	What
+mark	look	to
+dep	Factbox	look
+case	State	for
+case	State	in
+nmod:poss	State	Obama
+case	Obama	's
+nmod:in	look	State
+case	speech	of
+det	speech	the
+compound	speech	Union
+nmod:of	State	speech

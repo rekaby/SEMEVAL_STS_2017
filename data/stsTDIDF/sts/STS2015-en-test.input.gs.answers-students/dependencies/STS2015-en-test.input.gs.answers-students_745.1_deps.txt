@@ -1,0 +1,9 @@
+det	bulb	the
+nsubjpass	burned	bulb
+aux	burned	will
+auxpass	burned	be
+root	ROOT	burned
+compound:prt	burned	out
+case	terminals	because
+det	terminals	the
+nmod:because	burned	terminals

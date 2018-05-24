@@ -1,0 +1,12 @@
+mark	pointed	As
+nsubj	pointed	Shinto
+advcl	exist	pointed
+compound:prt	pointed	out
+punct	exist	,
+amod	words	vulgar
+nsubj	exist	words
+root	ROOT	exist
+case	language	in
+det	language	every
+nmod:in	exist	language
+punct	exist	.

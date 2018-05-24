@@ -1,0 +1,16 @@
+nsubj	father	It
+cop	father	was
+nmod:poss	father	my
+root	ROOT	father
+nsubj	drove	who
+acl:relcl	father	drove
+det	nail	the
+dobj	drove	nail
+case	coffin	into
+det	coffin	the
+nmod:into	drove	coffin
+case	career	of
+nmod:poss	career	my
+compound	career	Oxford
+nmod:of	coffin	career
+punct	father	.

@@ -1,0 +1,16 @@
+mark	connected	if
+det	path	a
+nsubjpass	connected	path
+auxpass	connected	is
+advcl	off	connected
+case	switch	to
+det	switch	an
+compound	switch	oen
+nmod:to	connected	switch
+punct	off	,
+det	bulb	the
+nsubj	off	bulb
+aux	off	will
+cop	off	be
+root	ROOT	off
+punct	off	.

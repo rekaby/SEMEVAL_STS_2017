@@ -1,0 +1,11 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	wearing
+det	blouse	a
+amod	blouse	red
+dobj	wearing	blouse
+acl	blouse	riding
+det	horse	a
+amod	horse	brown
+dobj	riding	horse
+punct	girl	.

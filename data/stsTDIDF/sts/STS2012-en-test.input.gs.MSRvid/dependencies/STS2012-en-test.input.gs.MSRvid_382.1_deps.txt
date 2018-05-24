@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	applying	woman
+aux	applying	is
+root	ROOT	applying
+compound	liner	eye
+dobj	applying	liner
+case	eyelid	to
+nmod:poss	eyelid	her
+nmod:to	applying	eyelid
+advcl	applying	using
+det	pencil	an
+compound	pencil	eye
+dobj	using	pencil
+punct	applying	.

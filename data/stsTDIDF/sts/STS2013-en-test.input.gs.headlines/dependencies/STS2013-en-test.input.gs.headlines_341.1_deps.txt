@@ -1,0 +1,6 @@
+root	ROOT	Polls
+amod	Polls	open
+case	election	in
+amod	election	Russian
+amod	election	presidential
+nmod:in	open	election

@@ -1,0 +1,14 @@
+root	ROOT	Surround
+advmod	Surround	completely
+punct	Surround	;
+parataxis	Surround	close
+dep	close	in
+root	in	,
+mark	covering	as
+mark	covering	if
+mark	covering	with
+det	covering	a
+advcl	,	covering
+cc	covering	or
+conj:or	covering	border
+punct	covering	.

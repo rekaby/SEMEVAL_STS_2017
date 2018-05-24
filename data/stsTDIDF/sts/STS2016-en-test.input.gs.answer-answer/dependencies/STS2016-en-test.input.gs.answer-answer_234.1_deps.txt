@@ -1,0 +1,13 @@
+advmod	is	Yes
+punct	is	,
+expl	is	there
+root	ROOT	is
+det	reason	a
+nsubj	is	reason
+mark	do	to
+neg	do	not
+acl	reason	do
+dobj	propose	what
+nsubj	propose	you
+ccomp	do	propose
+punct	is	.

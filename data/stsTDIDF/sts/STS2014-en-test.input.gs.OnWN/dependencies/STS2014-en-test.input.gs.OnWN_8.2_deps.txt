@@ -1,0 +1,11 @@
+det	part	the
+amod	part	upper
+root	ROOT	part
+case	column	of
+det	column	a
+nmod:of	part	column
+nsubj	supports	that
+acl:relcl	column	supports
+det	entablature	the
+dobj	supports	entablature
+punct	part	.

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	water	woman
+cc	woman	and
+det	boy	a
+conj:and	woman	boy
+cop	water	are
+case	water	in
+det	water	the
+root	ROOT	water
+punct	water	.

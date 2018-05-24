@@ -1,0 +1,17 @@
+det	boy	a
+nsubj	airborne	boy
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+compound	shirt	T
+nmod:in	boy	shirt
+cop	airborne	is
+root	ROOT	airborne
+case	skateboard	on
+det	skateboard	a
+nmod:on	airborne	skateboard
+case	park	in
+det	park	a
+compound	park	skate
+nmod:in	airborne	park
+punct	airborne	.

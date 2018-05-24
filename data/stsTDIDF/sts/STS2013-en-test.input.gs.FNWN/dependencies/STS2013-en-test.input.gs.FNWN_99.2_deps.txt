@@ -1,0 +1,9 @@
+det	division	a
+amod	division	major
+root	ROOT	division
+case	composition	of
+det	composition	a
+amod	composition	long
+amod	composition	written
+nmod:of	division	composition
+punct	division	;

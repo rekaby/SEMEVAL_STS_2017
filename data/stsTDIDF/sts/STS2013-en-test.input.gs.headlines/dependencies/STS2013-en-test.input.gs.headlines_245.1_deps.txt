@@ -1,0 +1,10 @@
+nmod:poss	Strauss-Kahn	France
+case	France	's
+nsubj	charged	Strauss-Kahn
+root	ROOT	charged
+case	involvement	with
+nmod:with	charged	involvement
+case	ring	in
+compound	ring	prostitution
+compound	ring	vice
+nmod:in	involvement	ring

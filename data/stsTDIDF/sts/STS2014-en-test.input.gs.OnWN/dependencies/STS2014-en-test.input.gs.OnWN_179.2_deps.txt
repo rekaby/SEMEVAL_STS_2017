@@ -1,0 +1,8 @@
+root	ROOT	run
+cc	run	or
+conj:or	run	move
+advmod	quickly	very
+advmod	run	quickly
+cc	quickly	or
+conj:or	quickly	hastily
+punct	run	.

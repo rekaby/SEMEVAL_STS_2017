@@ -1,0 +1,12 @@
+det	train	The
+amod	train	red
+root	ROOT	train
+cc	train	and
+det	train	the
+amod	train	yellow
+conj:and	train	train
+case	tracks	on
+case	tracks	on
+det	tracks	the
+nmod:on	train	tracks
+punct	train	.

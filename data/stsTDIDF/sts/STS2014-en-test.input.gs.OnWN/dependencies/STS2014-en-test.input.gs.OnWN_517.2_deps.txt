@@ -1,0 +1,10 @@
+root	ROOT	come
+case	possession	into
+det	possession	the
+nmod:into	come	possession
+case	something	of
+nmod:of	possession	something
+amod	something	concrete
+cc	concrete	or
+conj:or	concrete	abstract
+punct	come	.

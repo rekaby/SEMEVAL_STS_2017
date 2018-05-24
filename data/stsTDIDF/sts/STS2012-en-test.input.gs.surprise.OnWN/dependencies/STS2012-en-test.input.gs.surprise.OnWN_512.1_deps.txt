@@ -1,0 +1,7 @@
+det	indicator	An
+root	ROOT	indicator
+nsubj	orients	that
+acl:relcl	indicator	orients
+dobj	orients	one
+advmod	one	generally
+punct	indicator	.

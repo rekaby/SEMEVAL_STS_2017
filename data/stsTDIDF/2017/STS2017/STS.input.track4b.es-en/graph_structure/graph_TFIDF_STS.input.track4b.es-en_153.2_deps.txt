@@ -1,0 +1,17 @@
+dead	77	nummod
+admitted	July	nmod:in
+admitted	massacre	dobj
+massacre	Norway	nmod:in
+hearing	public	amod
+massacre	a	det
+Breivik	admitted	acl:relcl
+July	left	acl:relcl
+Breivik	,	punct
+faces	Breivik	nsubj
+faces	Monday	nmod:on
+faces	hearing	dobj
+Norway	in	case
+hearing	first	amod
+left	dead	dobj
+admitted	who	nsubj
+hearing	his	nmod:poss

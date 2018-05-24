@@ -1,0 +1,7 @@
+nsubj	apologises	Nokia
+root	ROOT	apologises
+case	faked	for
+punct	faked	`
+nmod:for	apologises	faked
+punct	faked	'
+dobj	faked	ad

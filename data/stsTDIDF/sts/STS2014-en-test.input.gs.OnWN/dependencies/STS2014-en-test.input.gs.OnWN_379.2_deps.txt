@@ -1,0 +1,11 @@
+root	ROOT	separate
+conj:or	separate	separate
+case	instrument	with
+cc	with	or
+conj:or	with	as
+case	instrument	if
+case	instrument	with
+det	instrument	an
+nmod:as	separate	instrument
+nmod:with	separate	instrument
+punct	separate	.

@@ -1,0 +1,8 @@
+det	swings	A
+compound	swings	cat
+root	ROOT	swings
+case	fan	on
+det	fan	a
+compound	fan	ceiling
+nmod:on	swings	fan
+punct	swings	.

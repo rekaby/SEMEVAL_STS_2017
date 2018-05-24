@@ -1,0 +1,16 @@
+nsubj	died	Axelrod
+ccomp	said	died
+case	sleep	in
+nmod:poss	sleep	his
+nmod:in	died	sleep
+case	failure	of
+compound	failure	heart
+nmod:of	sleep	failure
+punct	said	,
+root	ROOT	said
+nmod:poss	daughter	his
+nsubj	said	daughter
+punct	daughter	,
+compound	Axelrod	Nina
+appos	daughter	Axelrod
+punct	said	.

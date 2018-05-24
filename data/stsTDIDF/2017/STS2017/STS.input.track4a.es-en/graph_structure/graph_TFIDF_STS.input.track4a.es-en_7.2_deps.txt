@@ -1,0 +1,15 @@
+enthusiasts	outdoor	amod
+campsite	mountains	nmod:in
+campsite	to	case
+traveling	group	nsubj
+traveling	group	nmod:as
+campsite	their	nmod:poss
+enthusiasts	of	case
+group	campsite	nmod:to
+mountains	in	case
+campsite	up	advmod
+group	as	case
+traveling	are	aux
+traveling	.	punct
+group	enthusiasts	nmod:of
+ROOT	traveling	root

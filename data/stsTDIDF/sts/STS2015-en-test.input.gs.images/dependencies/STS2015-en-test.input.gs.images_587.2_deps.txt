@@ -1,0 +1,11 @@
+det	person	A
+nsubj	taking	person
+case	cap	with
+compound	cap	swim
+nmod:with	person	cap
+cc	cap	and
+conj:and	cap	goggles
+root	ROOT	taking
+det	breath	a
+dobj	taking	breath
+punct	taking	.

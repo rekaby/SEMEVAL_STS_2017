@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	ocean	through
+det	ocean	the
+nmod:through	running	ocean
+punct	running	.

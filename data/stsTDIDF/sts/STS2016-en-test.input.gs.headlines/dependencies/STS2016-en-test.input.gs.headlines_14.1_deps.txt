@@ -1,0 +1,6 @@
+nsubj	killed	Two
+root	ROOT	killed
+case	car	in
+compound	car	Bahrain
+nmod:in	killed	car
+dobj	killed	explosion

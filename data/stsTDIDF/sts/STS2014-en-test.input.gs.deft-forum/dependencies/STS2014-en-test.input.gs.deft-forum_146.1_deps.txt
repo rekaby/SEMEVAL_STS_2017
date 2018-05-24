@@ -1,0 +1,12 @@
+root	ROOT	Read
+advmod	Read	More
+punct	Read	:
+nsubj	met	You
+aux	met	have
+neg	met	never
+parataxis	Read	met
+dobj	met	anyone
+nsubj	Pro-Abortion	that
+cop	Pro-Abortion	is
+acl:relcl	anyone	Pro-Abortion
+punct	Read	?

@@ -1,0 +1,8 @@
+compound	extradition	Assange
+compound	extradition	appeals
+root	ROOT	extradition
+case	court	to
+nmod:poss	court	UK
+case	UK	's
+amod	court	top
+nmod:to	extradition	court

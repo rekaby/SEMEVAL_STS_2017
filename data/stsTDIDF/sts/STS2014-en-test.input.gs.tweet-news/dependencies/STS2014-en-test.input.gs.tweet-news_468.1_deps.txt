@@ -1,0 +1,9 @@
+compound	battery	Dreamliner
+root	ROOT	battery
+acl	battery	studied
+case	NTSB	by
+nmod:by	studied	NTSB
+punct	Instapaper	-LRB-
+case	Instapaper	via
+dep	battery	Instapaper
+punct	Instapaper	-RRB-

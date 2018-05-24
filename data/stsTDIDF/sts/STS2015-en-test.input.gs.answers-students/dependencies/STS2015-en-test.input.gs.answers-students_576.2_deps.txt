@@ -1,0 +1,10 @@
+amod	1	terminal
+nsubjpass	separated	1
+auxpass	separated	is
+neg	separated	not
+root	ROOT	separated
+case	terminal	from
+det	terminal	the
+amod	terminal	negative
+compound	terminal	battery
+nmod:from	separated	terminal

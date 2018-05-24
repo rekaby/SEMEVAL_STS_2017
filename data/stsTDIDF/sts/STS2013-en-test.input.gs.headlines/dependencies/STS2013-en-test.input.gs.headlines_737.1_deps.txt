@@ -1,0 +1,6 @@
+compound	rebels	DR
+compound	rebels	Congo
+nsubj	kill	rebels
+root	ROOT	kill
+compound	rangers	park
+dobj	kill	rangers

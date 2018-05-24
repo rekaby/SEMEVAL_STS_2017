@@ -1,0 +1,6 @@
+root	ROOT	suit
+case	purpose	to
+det	purpose	a
+amod	purpose	special
+nmod:to	suit	purpose
+punct	suit	.

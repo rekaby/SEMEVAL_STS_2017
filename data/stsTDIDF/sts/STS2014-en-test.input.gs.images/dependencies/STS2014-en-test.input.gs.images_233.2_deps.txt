@@ -1,0 +1,13 @@
+det	dog	The
+amod	dog	white
+nsubj	laying	dog
+aux	laying	is
+root	ROOT	laying
+case	floor	on
+det	floor	the
+amod	floor	wooden
+nmod:on	laying	floor
+case	table	underneath
+det	table	the
+nmod:underneath	laying	table
+punct	laying	.

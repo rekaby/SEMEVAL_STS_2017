@@ -1,0 +1,8 @@
+det	girl	A
+nsubj	building	girl
+aux	building	is
+root	ROOT	building
+det	castle	a
+compound	castle	sand
+dobj	building	castle
+punct	building	.

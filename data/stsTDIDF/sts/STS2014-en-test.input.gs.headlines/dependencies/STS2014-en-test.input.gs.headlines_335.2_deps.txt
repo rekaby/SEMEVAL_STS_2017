@@ -1,0 +1,8 @@
+compound	Cameron	David
+root	ROOT	Cameron
+punct	Cameron	:
+compound	Murray	Andy
+nsubj	deserves	Murray
+dep	Cameron	deserves
+det	knighthood	a
+dobj	deserves	knighthood

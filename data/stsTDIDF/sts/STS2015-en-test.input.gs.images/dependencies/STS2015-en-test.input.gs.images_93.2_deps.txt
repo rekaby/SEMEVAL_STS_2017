@@ -1,0 +1,15 @@
+det	man	A
+nsubj	going	man
+root	ROOT	going
+case	jump	over
+det	jump	a
+nmod:over	going	jump
+case	bike	on
+nmod:poss	bike	his
+nmod:on	jump	bike
+case	river	with
+det	river	a
+nmod:with	jump	river
+case	background	in
+det	background	the
+nmod:in	jump	background

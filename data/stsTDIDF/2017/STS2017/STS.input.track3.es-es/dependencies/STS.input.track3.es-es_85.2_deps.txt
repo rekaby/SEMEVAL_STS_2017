@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+acl	man	placing
+amod	material	black
+dobj	placing	material
+case	street	on
+det	street	the
+nmod:on	placing	street
+punct	man	.

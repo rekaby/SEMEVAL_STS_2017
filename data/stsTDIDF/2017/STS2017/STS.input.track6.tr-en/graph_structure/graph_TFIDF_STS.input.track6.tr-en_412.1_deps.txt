@@ -1,0 +1,5 @@
+deserted	is	auxpass
+street	The	det
+deserted	.	punct
+deserted	street	nsubjpass
+ROOT	deserted	root

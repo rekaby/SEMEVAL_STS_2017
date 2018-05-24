@@ -1,0 +1,17 @@
+det	man	A
+nsubj	kneels	man
+case	suit	in
+det	suit	a
+amod	suit	grey
+nmod:in	man	suit
+root	ROOT	kneels
+case	woman	in
+mwe	in	front
+mwe	in	of
+det	woman	a
+nmod:in_front_of	kneels	woman
+case	dress	in
+det	dress	a
+amod	dress	white
+nmod:in	woman	dress
+punct	kneels	.

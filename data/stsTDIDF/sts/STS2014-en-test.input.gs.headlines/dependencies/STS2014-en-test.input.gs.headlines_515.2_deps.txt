@@ -1,0 +1,8 @@
+amod	arrest	South
+amod	arrest	African
+compound	arrest	police
+nsubj	protest	arrest
+nummod	arrest	50
+case	farm	in
+nmod:in	arrest	farm
+root	ROOT	protest

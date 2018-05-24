@@ -1,0 +1,7 @@
+root	ROOT	discipline
+case	activities	in
+amod	activities	personal
+cc	personal	and
+conj:and	personal	social
+nmod:in	discipline	activities
+punct	discipline	;

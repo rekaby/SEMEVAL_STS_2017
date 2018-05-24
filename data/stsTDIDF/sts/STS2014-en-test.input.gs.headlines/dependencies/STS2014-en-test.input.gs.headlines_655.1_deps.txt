@@ -1,0 +1,8 @@
+nmod:poss	Malala	Pakistan
+case	Pakistan	's
+nsubj	leaves	Malala
+root	ROOT	leaves
+dobj	leaves	hospital
+mark	await	to
+advcl	leaves	await
+dobj	await	surgery

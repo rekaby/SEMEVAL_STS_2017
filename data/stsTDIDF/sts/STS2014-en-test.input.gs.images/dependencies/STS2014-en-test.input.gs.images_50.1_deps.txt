@@ -1,0 +1,8 @@
+det	group	A
+root	ROOT	group
+case	sheep	of
+nmod:of	group	sheep
+case	field	in
+det	field	a
+nmod:in	group	field
+punct	group	.

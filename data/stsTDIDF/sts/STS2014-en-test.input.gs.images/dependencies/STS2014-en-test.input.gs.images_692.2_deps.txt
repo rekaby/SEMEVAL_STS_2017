@@ -1,0 +1,14 @@
+det	man	A
+nsubj	laying	man
+aux	laying	is
+root	ROOT	laying
+case	floor	on
+det	floor	the
+nmod:on	laying	floor
+acl	floor	holding
+det	baby	a
+dobj	holding	baby
+advmod	holding	up
+case	him	above
+nmod:above	up	him
+punct	laying	.

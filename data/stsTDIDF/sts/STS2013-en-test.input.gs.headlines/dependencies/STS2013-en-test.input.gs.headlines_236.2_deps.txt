@@ -1,0 +1,7 @@
+compound	unemployment	Eurozone
+root	ROOT	unemployment
+case	high	at
+compound	high	record
+nmod:at	unemployment	high
+case	June	in
+nmod:in	unemployment	June

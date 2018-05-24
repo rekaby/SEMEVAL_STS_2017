@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+case	spending	of
+nmod:of	act	spending
+punct	act	,
+compound	funds	disbursing
+appos	act	funds

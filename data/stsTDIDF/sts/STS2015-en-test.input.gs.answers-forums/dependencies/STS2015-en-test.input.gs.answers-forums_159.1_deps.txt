@@ -1,0 +1,13 @@
+nsubj	unusual	It
+aux	unusual	would
+cop	unusual	be
+root	ROOT	unusual
+case	snake	for
+det	snake	a
+nmod:for	unusual	snake
+mark	attack	to
+acl	snake	attack
+det	person	a
+amod	person	stationary
+dobj	attack	person
+punct	unusual	.

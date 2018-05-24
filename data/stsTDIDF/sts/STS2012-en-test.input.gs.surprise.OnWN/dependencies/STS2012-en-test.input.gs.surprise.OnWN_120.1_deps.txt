@@ -1,0 +1,8 @@
+det	process	a
+root	ROOT	process
+case	development	of
+nmod:of	process	development
+punct	process	,
+appos	process	increase
+cc	increase	or
+conj:or	increase	advancement

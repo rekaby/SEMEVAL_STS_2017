@@ -1,0 +1,7 @@
+working	kinks	dobj
+man	working	acl
+bones	old	amod
+working	bones	nmod:out_of
+bones	out	case
+bones	his	nmod:poss
+kinks	the	det

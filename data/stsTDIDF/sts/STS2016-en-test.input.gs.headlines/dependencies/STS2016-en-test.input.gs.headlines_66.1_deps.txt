@@ -1,0 +1,12 @@
+root	ROOT	Boy
+punct	Boy	,
+nummod	Boy	14
+punct	Boy	,
+acl	Boy	arrested
+case	attacks	for
+compound	attacks	sex
+nmod:for	arrested	attacks
+case	campus	around
+det	campus	a
+compound	campus	university
+nmod:around	attacks	campus

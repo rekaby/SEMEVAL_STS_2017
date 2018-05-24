@@ -1,0 +1,8 @@
+root	ROOT	position
+case	football	in
+nmod:in	position	football
+acl	football	played
+case	team	by
+det	team	a
+nmod:by	played	team
+amod	team	member

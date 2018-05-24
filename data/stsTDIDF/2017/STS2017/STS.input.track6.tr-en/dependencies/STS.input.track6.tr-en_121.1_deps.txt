@@ -1,0 +1,6 @@
+det	person	A
+amod	person	tall
+root	ROOT	person
+case	midair	in
+nmod:in	person	midair
+punct	person	.

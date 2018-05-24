@@ -1,0 +1,31 @@
+det	piece	a
+amod	piece	particular
+nsubjpass	evaluated	piece
+case	information	of
+nmod:of	piece	information
+auxpass	evaluated	is
+root	ROOT	evaluated
+case	accuracy	for
+nmod:poss	accuracy	its
+nmod:for	evaluated	accuracy
+punct	evaluated	.-11) det(degree-2, the
+nsubjpass	expressed	degree
+case	correctness	of
+nmod:of	degree	correctness
+aux	expressed	may
+advmod	expressed	also
+auxpass	expressed	be
+root	ROOT	expressed
+punct	expressed	.-9) det(source-2, the
+nsubj	stand	source
+case	information	of
+nmod:of	source	information
+aux	stand	may
+advmod	stand	also
+advmod	stand	metonymically
+root	ROOT	stand
+case	information	in
+case	information	for
+det	information	the
+nmod:for	stand	information
+punct	stand	.

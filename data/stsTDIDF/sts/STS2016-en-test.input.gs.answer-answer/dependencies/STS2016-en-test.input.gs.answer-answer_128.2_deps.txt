@@ -1,0 +1,10 @@
+nsubj	depends	It
+root	ROOT	depends
+mark	out	on
+advmod	long	how
+dep	out	long
+nsubj	out	it
+aux	out	's
+cop	out	been
+advmod	depends	out
+punct	depends	.

@@ -1,0 +1,21 @@
+root	ROOT	Casting
+punct	Casting	:
+compound	Lohan	Lindsay
+dep	Casting	Lohan
+punct	Lohan	,
+amod	debt	careening
+conj:and	Lohan	debt
+cc	Lohan	and
+compound	stars	porn
+conj:and	Lohan	stars
+punct	Casting	.-11) nsubj(go-3, What
+aux	go	could
+root	ROOT	go
+xcomp	go	wrong
+punct	go	?-5) nsubj(Happens-2, What
+root	ROOT	Happens
+advmod	Hire	When
+nsubj	Hire	You
+advcl	Happens	Hire
+dobj	Hire	LL
+punct	Happens	.

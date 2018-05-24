@@ -1,0 +1,17 @@
+root	ROOT	Statement
+case	Spokesperson	by
+det	Spokesperson	the
+nmod:by	Statement	Spokesperson
+case	Ashton	of
+amod	Ashton	High
+compound	Ashton	Representative
+compound	Ashton	Catherine
+nmod:of	Spokesperson	Ashton
+case	spate	on
+det	spate	the
+amod	spate	latest
+nmod:on	Statement	spate
+case	attacks	of
+nmod:of	spate	attacks
+case	Iraq	in
+nmod:in	attacks	Iraq

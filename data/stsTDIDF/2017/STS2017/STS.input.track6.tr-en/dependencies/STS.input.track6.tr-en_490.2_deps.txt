@@ -1,0 +1,11 @@
+det	man	A
+nsubj	sitting	man
+cc	man	and
+det	woman	a
+conj:and	man	woman
+aux	sitting	are
+root	ROOT	sitting
+case	table	on
+det	table	a
+nmod:on	sitting	table
+punct	sitting	.

@@ -1,0 +1,6 @@
+nsubj	running	Toddler
+root	ROOT	running
+case	mother	toward
+nmod:poss	mother	his
+nmod:toward	running	mother
+punct	running	.

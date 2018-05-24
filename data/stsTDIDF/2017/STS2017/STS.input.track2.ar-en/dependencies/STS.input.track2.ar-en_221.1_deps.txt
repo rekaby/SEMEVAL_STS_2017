@@ -1,0 +1,6 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	braiding
+nmod:poss	hair	her
+dobj	braiding	hair
+punct	girl	.

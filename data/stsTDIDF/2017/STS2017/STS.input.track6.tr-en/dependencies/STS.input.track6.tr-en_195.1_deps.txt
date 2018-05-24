@@ -1,0 +1,6 @@
+nsubj	tend	workers
+root	ROOT	tend
+case	transit	to
+det	transit	a
+nmod:to	tend	transit
+dobj	tend	stop

@@ -1,0 +1,10 @@
+det	dog	The
+nsubj	returns	dog
+root	ROOT	returns
+det	toy	the
+compound	toy	play
+dobj	returns	toy
+case	master	to
+nmod:poss	master	its
+nmod:to	returns	master
+punct	returns	.

@@ -1,0 +1,9 @@
+det	group	A
+nsubj	dance	group
+case	people	of
+nmod:of	group	people
+root	ROOT	dance
+case	hill	on
+det	hill	a
+nmod:on	dance	hill
+punct	dance	.

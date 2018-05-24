@@ -1,0 +1,11 @@
+nummod	poodles	two
+amod	poodles	white
+amod	poodles	standard
+nsubj	play	poodles
+root	ROOT	play
+case	toy	with
+det	toy	a
+nmod:with	play	toy
+case	snow	in
+det	snow	the
+nmod:in	toy	snow

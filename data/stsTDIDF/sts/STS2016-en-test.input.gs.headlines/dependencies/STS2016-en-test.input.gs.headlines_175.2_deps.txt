@@ -1,0 +1,7 @@
+compound	President	Vice
+root	ROOT	President
+case	Bolivia	of
+nmod:of	President	Bolivia
+mark	visit	to
+acl	President	visit
+dobj	visit	China

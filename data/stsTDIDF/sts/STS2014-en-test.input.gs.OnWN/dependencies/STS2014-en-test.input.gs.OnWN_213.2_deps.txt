@@ -1,0 +1,15 @@
+det	college	a
+amod	college	nonresidential
+compound	college	junior
+nsubj	fitted	college
+acl	college	offering
+det	curriculum	a
+dobj	offering	curriculum
+root	ROOT	fitted
+case	needs	to
+det	needs	the
+nmod:to	fitted	needs
+case	community	of
+det	community	the
+nmod:of	needs	community
+punct	fitted	.

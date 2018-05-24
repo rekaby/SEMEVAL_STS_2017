@@ -1,0 +1,3 @@
+is	person	nsubj
+person	picture	nmod:in
+picture	in	case

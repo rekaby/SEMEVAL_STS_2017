@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	cooks	woman
+root	ROOT	cooks
+case	stove	on
+det	stove	the
+nmod:on	cooks	stove
+case	kitchen	in
+nmod:poss	kitchen	her
+nmod:in	cooks	kitchen
+mark	begs	as
+nmod:poss	dog	her
+nsubj	begs	dog
+advcl	cooks	begs
+advmod	begs	below
+punct	cooks	.

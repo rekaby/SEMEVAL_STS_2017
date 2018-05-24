@@ -1,0 +1,9 @@
+amod	persons	notable
+cc	notable	or
+conj:or	notable	famous
+root	ROOT	persons
+punct	real	-LRB-
+dep	persons	real
+cc	real	or
+conj:or	real	fictional
+punct	persons	-RRB-

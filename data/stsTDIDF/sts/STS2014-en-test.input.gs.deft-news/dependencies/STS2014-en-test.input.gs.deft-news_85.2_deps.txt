@@ -1,0 +1,13 @@
+det	plan	the
+amod	plan	international
+amod	plan	atomic
+compound	plan	energy
+compound	plan	agency
+nsubj	draws	plan
+root	ROOT	draws
+compound:prt	draws	out
+dobj	draws	negotiations
+case	months	for
+amod	months	many
+nmod:for	negotiations	months
+punct	draws	.

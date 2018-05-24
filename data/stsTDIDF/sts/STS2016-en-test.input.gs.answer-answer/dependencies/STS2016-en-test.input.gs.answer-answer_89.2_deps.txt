@@ -1,0 +1,10 @@
+nsubj	have	You
+root	ROOT	have
+mark	do	to
+xcomp	have	do
+nsubj	right	what
+cop	right	is
+ccomp	do	right
+case	you	for
+nmod:for	right	you
+punct	have	.

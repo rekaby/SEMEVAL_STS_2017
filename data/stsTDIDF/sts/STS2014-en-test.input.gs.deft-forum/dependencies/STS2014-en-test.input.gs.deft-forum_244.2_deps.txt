@@ -1,0 +1,7 @@
+nsubj	hope	I
+root	ROOT	hope
+nmod:poss	LO	your
+nsubj	ok	LO
+cop	ok	is
+ccomp	hope	ok
+punct	hope	.

@@ -1,0 +1,11 @@
+compound	pledges	Romney
+root	ROOT	pledges
+mark	stand	to
+punct	stand	`
+acl	pledges	stand
+case	threat	with
+compound	threat	Israel
+case	Israel	'
+case	Iran	on
+nmod:on	Israel	Iran
+nmod:with	stand	threat

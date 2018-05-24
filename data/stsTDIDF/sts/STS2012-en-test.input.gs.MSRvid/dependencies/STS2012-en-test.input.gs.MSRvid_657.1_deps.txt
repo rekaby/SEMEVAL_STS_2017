@@ -1,0 +1,12 @@
+det	man	A
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	horse	a
+amod	horse	white
+dobj	riding	horse
+case	ground	on
+det	ground	an
+amod	ground	enclosed
+nmod:on	riding	ground
+punct	riding	.

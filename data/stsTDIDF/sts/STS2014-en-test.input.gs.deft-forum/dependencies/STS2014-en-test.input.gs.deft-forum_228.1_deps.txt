@@ -1,0 +1,9 @@
+root	ROOT	Irreligion
+nsubj	does	that
+acl:relcl	Irreligion	does
+mark	have	that
+nsubj	have	I
+ccomp	does	have
+det	problem	a
+dobj	have	problem
+punct	Irreligion	.

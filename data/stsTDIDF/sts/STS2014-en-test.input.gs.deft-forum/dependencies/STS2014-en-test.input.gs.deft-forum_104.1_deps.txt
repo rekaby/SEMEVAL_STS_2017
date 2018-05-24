@@ -1,0 +1,9 @@
+root	ROOT	Fern
+nsubj	think	I
+acl:relcl	Fern	think
+nsubj	stupid	stories
+case	this	like
+nmod:like	stories	this
+cop	stupid	are
+ccomp	think	stupid
+punct	Fern	.

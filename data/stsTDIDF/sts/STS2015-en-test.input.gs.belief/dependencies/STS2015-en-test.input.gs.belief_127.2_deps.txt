@@ -1,0 +1,6 @@
+nsubj	exist	governments
+root	ROOT	exist
+case	reason	for
+det	reason	a
+nmod:for	exist	reason
+punct	exist	.

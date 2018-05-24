@@ -1,0 +1,8 @@
+cc	get	But
+nsubj	get	I
+aux	get	'll
+root	ROOT	get
+advmod	get	back
+case	that	to
+nmod:to	get	that
+punct	get	.

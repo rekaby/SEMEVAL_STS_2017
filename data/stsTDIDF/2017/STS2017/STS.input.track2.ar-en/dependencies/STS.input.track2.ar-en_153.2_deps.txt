@@ -1,0 +1,15 @@
+compound	shirt	Woman
+amod	shirt	green
+root	ROOT	shirt
+cc	shirt	and
+conj:and	shirt	carrying
+det	camera	a
+dobj	carrying	camera
+cc	shirt	and
+conj:and	shirt	surrounded
+case	group	by
+det	group	a
+nmod:by	surrounded	group
+case	people	of
+nmod:of	group	people
+punct	shirt	.

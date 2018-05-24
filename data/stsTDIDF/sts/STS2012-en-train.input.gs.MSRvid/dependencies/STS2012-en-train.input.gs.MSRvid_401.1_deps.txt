@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	covers	woman
+root	ROOT	covers
+det	piece	a
+dobj	covers	piece
+case	meat	of
+nmod:of	piece	meat
+case	flour	with
+nmod:with	covers	flour
+punct	covers	.

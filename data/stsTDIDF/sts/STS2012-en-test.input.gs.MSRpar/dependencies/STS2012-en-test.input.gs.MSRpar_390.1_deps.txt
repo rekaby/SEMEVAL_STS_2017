@@ -1,0 +1,17 @@
+det	contribution	The
+amod	contribution	additional
+nsubj	brings	contribution
+root	ROOT	brings
+amod	aid	total
+compound	aid	U.S.
+compound	aid	food
+dobj	brings	aid
+case	Korea	to
+compound	Korea	North
+nmod:to	brings	Korea
+det	year	this
+nmod:tmod	brings	year
+case	tonnes	to
+nummod	tonnes	100,000
+nmod:to	brings	tonnes
+punct	brings	.

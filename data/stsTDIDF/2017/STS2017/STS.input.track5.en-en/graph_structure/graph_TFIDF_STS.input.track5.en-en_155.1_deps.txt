@@ -1,0 +1,6 @@
+getting	clothes	dobj
+people	getting	acl
+clothes	their	nmod:poss
+cleaned	people	nsubj
+ROOT	cleaned	root
+clothes	dirty	amod

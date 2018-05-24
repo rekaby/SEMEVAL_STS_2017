@@ -1,0 +1,6 @@
+det	kangroo	A
+nsubj	eating	kangroo
+aux	eating	is
+root	ROOT	eating
+dobj	eating	something
+punct	eating	.

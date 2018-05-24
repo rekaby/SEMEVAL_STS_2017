@@ -1,0 +1,8 @@
+amod	airlines	Japanese
+nsubj	suspend	airlines
+root	ROOT	suspend
+compound	flights	Dreamliner
+dobj	suspend	flights
+case	landing	after
+compound	landing	emergency
+nmod:after	suspend	landing

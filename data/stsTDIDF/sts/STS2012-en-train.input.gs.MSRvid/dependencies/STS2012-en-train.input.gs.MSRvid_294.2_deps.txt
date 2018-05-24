@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+dobj	adding	oil
+case	dish	to
+det	dish	a
+nmod:to	adding	dish
+punct	adding	.

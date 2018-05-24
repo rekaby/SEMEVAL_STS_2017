@@ -1,0 +1,9 @@
+watching	down	advmod
+crowd	people	nmod:of
+ROOT	crowd	root
+race	cars	compound
+people	watching	acl
+crowd	.	punct
+down	track	nmod:npmod
+crowd	A	det
+watching	race	dobj

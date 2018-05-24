@@ -1,0 +1,15 @@
+nsubjpass	recommended	It
+auxpass	recommended	is
+neg	recommended	not
+root	ROOT	recommended
+mark	use	to
+xcomp	recommended	use
+dobj	use	greywater
+case	vegetables	on
+nmod:on	use	vegetables
+mark	eat	that
+nsubj	eat	you
+aux	eat	will
+ccomp	use	eat
+advmod	eat	directly
+punct	recommended	.

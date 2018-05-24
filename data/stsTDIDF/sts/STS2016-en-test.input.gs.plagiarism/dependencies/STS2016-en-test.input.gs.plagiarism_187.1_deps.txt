@@ -1,0 +1,17 @@
+det	model	The
+compound	model	vector
+compound	model	space
+nsubj	one	model
+cop	one	is
+root	ROOT	one
+case	methods	of
+det	methods	these
+nmod:of	one	methods
+punct	one	,
+cc	one	and
+nsubj	model	it
+cop	model	is
+det	model	an
+amod	model	algebraic
+conj:and	one	model
+punct	one	.

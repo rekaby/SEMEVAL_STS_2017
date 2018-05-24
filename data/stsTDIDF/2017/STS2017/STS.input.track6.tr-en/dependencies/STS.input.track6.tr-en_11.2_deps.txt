@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	knitting	woman
+aux	knitting	is
+root	ROOT	knitting
+det	sweater	a
+dobj	knitting	sweater
+punct	knitting	.

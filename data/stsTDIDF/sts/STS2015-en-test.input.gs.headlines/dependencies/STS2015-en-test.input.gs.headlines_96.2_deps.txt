@@ -1,0 +1,9 @@
+nsubj	win	FORMULA
+nummod	FORMULA	1
+punct	FORMULA	:
+nsubj	stays	Rosberg
+dep	FORMULA	stays
+xcomp	stays	modest
+case	Monaco	despite
+nmod:despite	stays	Monaco
+root	ROOT	win

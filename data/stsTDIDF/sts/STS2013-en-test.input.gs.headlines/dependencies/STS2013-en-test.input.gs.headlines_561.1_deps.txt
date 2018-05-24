@@ -1,0 +1,6 @@
+compound	Timor	East
+nsubj	votes	Timor
+root	ROOT	votes
+case	election	in
+amod	election	presidential
+nmod:in	votes	election

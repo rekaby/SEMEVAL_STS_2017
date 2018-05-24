@@ -1,0 +1,9 @@
+det	man	A
+nsubj	offers	man
+acl	man	wearing
+amod	Luna	female
+compound	Luna	food
+dobj	wearing	Luna
+root	ROOT	offers
+xcomp	offers	rosy
+punct	offers	.

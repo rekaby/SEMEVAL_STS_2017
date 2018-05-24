@@ -1,0 +1,10 @@
+nsubj	takes	Funeral
+case	Sweeney	of
+compound	Sweeney	MH17
+compound	Sweeney	victim
+compound	Sweeney	Liam
+nmod:of	Funeral	Sweeney
+root	ROOT	takes
+dobj	takes	place
+case	Newcastle	in
+nmod:in	takes	Newcastle

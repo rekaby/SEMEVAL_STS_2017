@@ -1,0 +1,16 @@
+case	performance	After
+det	performance	a
+amod	performance	great
+nmod:after	receives	performance
+punct	receives	,
+det	man	the
+nsubj	receives	man
+root	ROOT	receives
+det	ovation	a
+compound	ovation	standing
+dobj	receives	ovation
+mark	receiving	after
+advcl	receives	receiving
+det	prize	a
+dobj	receiving	prize
+punct	receives	.

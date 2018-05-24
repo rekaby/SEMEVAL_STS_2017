@@ -1,0 +1,14 @@
+nsubj	funny	He
+aux	funny	has
+neg	funny	n't
+cop	funny	been
+root	ROOT	funny
+mark	show	since
+compound	Melman	Larry
+compound	Melman	Bud
+nsubj	show	Melman
+cop	show	was
+case	show	on
+det	show	the
+advcl:on	funny	show
+punct	funny	.

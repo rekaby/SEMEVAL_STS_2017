@@ -1,0 +1,7 @@
+expl	are	There
+root	ROOT	are
+nummod	paths	2
+nsubj	are	paths
+case	diagram	in
+det	diagram	this
+nmod:in	paths	diagram

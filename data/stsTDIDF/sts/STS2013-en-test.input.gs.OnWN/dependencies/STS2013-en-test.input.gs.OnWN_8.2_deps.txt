@@ -1,0 +1,8 @@
+root	ROOT	shine
+advmod	shine	intensely
+punct	shine	,
+case	heat	as
+advmod	heat	if
+case	heat	with
+nmod:with	shine	heat
+punct	shine	.

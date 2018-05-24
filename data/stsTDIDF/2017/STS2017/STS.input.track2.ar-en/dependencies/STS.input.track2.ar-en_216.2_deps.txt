@@ -1,0 +1,7 @@
+amod	woman	Attractive
+nsubj	skate	woman
+root	ROOT	skate
+case	ice	on
+det	ice	the
+nmod:on	skate	ice
+punct	skate	.

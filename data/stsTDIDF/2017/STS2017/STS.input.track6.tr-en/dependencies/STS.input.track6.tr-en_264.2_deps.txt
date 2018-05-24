@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	doing	woman
+aux	doing	is
+root	ROOT	doing
+det	numbers	the
+compound	numbers	skate
+dobj	doing	numbers
+case	ramp	down
+det	ramp	the
+nmod:down	doing	ramp
+punct	doing	.

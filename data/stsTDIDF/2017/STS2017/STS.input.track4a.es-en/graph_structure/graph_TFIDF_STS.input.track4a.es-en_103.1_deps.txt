@@ -1,0 +1,7 @@
+cross	.	punct
+cross	street	dobj
+ambulance	in	case
+cross	ambulance	nmod:in_front_of
+ROOT	cross	root
+cross	people	nsubj
+ambulance	an	det

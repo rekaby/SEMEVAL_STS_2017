@@ -1,0 +1,6 @@
+det	allotment	an
+root	ROOT	allotment
+cc	allotment	or
+conj:or	allotment	percentage
+case	something	of
+nmod:of	allotment	something

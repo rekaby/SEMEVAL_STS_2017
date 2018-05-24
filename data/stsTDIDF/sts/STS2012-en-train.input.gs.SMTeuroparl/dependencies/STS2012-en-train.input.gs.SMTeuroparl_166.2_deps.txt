@@ -1,0 +1,10 @@
+det	weeks	These
+amod	weeks	last
+nmod:tmod	progresses	weeks
+punct	progresses	,
+nummod	significant	three
+nsubj	progresses	significant
+csubjpass	made	progresses
+auxpass	made	were
+root	ROOT	made
+punct	made	.

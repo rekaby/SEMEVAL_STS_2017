@@ -1,0 +1,10 @@
+root	ROOT	3
+dep	3	dead
+punct	dead	,
+root	,	4
+acl	4	missing
+case	accident	in
+amod	accident	central
+compound	accident	China
+compound	accident	construction
+nmod:in	missing	accident

@@ -1,0 +1,17 @@
+det	costs	The
+amod	costs	new
+compound	costs	system
+root	ROOT	costs
+case	$	between
+nmod:between	costs	$
+compound	million	1.1
+nummod	$	million
+cc	$	and
+conj:and	$	$
+compound	million	22
+nummod	$	million
+punct	costs	,
+case	configuration	depending
+case	configuration	on
+acl:on	costs	configuration
+punct	costs	.

@@ -1,0 +1,8 @@
+det	man	The
+nsubj	using	man
+aux	using	is
+root	ROOT	using
+det	cart	a
+compound	cart	shopping
+dobj	using	cart
+punct	using	.

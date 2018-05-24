@@ -1,0 +1,15 @@
+det	group	A
+nsubj	sitting	group
+case	people	of
+nmod:of	group	people
+aux	sitting	is
+root	ROOT	sitting
+case	ledge	on
+det	ledge	a
+nmod:on	sitting	ledge
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+nmod:in_front_of	ledge	building
+punct	sitting	.

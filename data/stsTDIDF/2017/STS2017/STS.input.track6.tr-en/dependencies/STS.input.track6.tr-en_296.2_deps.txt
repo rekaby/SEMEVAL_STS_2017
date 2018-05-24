@@ -1,0 +1,7 @@
+det	worker	The
+nsubj	making	worker
+aux	making	is
+root	ROOT	making
+det	sculpture	a
+dobj	making	sculpture
+punct	making	.

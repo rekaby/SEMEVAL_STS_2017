@@ -1,0 +1,16 @@
+det	number	a
+root	ROOT	number
+case	sheets	of
+nmod:of	number	sheets
+punct	ticket	-LRB-
+dep	bound	ticket
+cc	ticket	or
+conj:or	ticket	stamps
+dep	ticket	etc.
+punct	ticket	-RRB-
+acl	sheets	bound
+advmod	bound	together
+case	edge	on
+nummod	edge	one
+nmod:on	bound	edge
+punct	number	;

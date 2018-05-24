@@ -1,0 +1,8 @@
+root	ROOT	continue
+mark	live	to
+xcomp	continue	live
+case	hardship	through
+nmod:through	live	hardship
+cc	hardship	or
+conj:or	hardship	adversity
+punct	continue	.

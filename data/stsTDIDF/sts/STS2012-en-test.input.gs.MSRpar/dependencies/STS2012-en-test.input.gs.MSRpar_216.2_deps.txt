@@ -1,0 +1,15 @@
+det	spokesperson	The
+compound	spokesperson	health
+compound	spokesperson	department
+nsubj	added	spokesperson
+root	ROOT	added
+det	department	the
+nsubj	following	department
+aux	following	is
+ccomp	added	following
+dobj	following	Centers
+case	protocol	for
+compound	protocol	Disease
+compound	protocol	Control
+nmod:for	Centers	protocol
+punct	added	.

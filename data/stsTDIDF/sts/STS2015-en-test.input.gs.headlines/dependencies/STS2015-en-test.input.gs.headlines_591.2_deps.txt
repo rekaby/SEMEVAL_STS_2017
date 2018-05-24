@@ -1,0 +1,11 @@
+nsubj	concluded	U.S.
+aux	concluded	has
+neg	concluded	not
+root	ROOT	concluded
+nsubj	used	Syria
+ccomp	concluded	used
+amod	weapons	chemical
+dobj	used	weapons
+punct	weapons	-
+compound	House	White
+appos	weapons	House

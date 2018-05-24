@@ -1,0 +1,8 @@
+middle	girls	nsubj
+ROOT	middle	root
+middle	.	punct
+girls	The	det
+middle	road	nmod:of
+middle	not	neg
+middle	are	cop
+girls	two	nummod

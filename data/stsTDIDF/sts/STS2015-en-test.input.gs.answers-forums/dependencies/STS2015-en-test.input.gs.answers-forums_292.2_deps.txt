@@ -1,0 +1,16 @@
+nsubj	safe	It
+cop	safe	is
+root	ROOT	safe
+mark	say	to
+xcomp	safe	say
+mark	plays	that
+compound	posture	body
+nsubj	plays	posture
+ccomp	say	plays
+det	role	a
+amod	role	big
+dobj	plays	role
+case	languages	in
+det	languages	all
+nmod:in	plays	languages
+punct	safe	.

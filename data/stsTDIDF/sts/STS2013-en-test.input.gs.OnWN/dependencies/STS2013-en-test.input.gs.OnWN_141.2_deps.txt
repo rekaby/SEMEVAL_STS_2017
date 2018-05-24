@@ -1,0 +1,9 @@
+det	part	the
+amod	part	solid
+root	ROOT	part
+case	surface	of
+det	earth	the
+nmod:poss	surface	earth
+case	earth	's
+nmod:of	part	surface
+punct	part	.

@@ -1,0 +1,10 @@
+det	treaty	the
+amod	treaty	nuclear
+compound	treaty	nonproliferation
+nsubjpass	reviewed	treaty
+auxpass	reviewed	is
+root	ROOT	reviewed
+det	years	every
+nummod	years	5
+nmod:tmod	reviewed	years
+punct	reviewed	.

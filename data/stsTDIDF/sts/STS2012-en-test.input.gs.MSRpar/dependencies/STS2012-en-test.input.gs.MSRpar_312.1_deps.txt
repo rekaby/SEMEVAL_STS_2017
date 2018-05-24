@@ -1,0 +1,17 @@
+nsubj	averaged	Tuition
+case	colleges	at
+amod	colleges	four-year
+amod	colleges	private
+nmod:at	Tuition	colleges
+root	ROOT	averaged
+dobj	averaged	$
+nummod	$	19,710
+det	year	this
+nmod:tmod	averaged	year
+punct	averaged	,
+advmod	averaged	up
+nummod	percent	6
+nmod:npmod	up	percent
+case	2002	from
+nmod:from	up	2002
+punct	averaged	.

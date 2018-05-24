@@ -1,0 +1,6 @@
+nsubj	teeters	Britain
+root	ROOT	teeters
+case	recession	toward
+compound	recession	triple-dip
+nmod:toward	teeters	recession
+dobj	teeters	CNNMoney

@@ -1,0 +1,7 @@
+nsubj	ends	Murray
+csubj	win	ends
+amod	wait	77-year
+dobj	ends	wait
+case	British	for
+nmod:for	wait	British
+root	ROOT	win

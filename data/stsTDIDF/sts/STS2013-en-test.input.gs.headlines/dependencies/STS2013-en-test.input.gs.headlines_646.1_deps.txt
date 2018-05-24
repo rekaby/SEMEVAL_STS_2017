@@ -1,0 +1,7 @@
+nsubj	passes	Deadline
+root	ROOT	passes
+case	Iran	with
+neg	Iran	no
+amod	Iran	new
+nmod:with	passes	Iran
+dobj	passes	sanctions

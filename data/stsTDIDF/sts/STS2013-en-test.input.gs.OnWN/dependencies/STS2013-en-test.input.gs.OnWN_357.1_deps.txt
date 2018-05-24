@@ -1,0 +1,6 @@
+compound	warning	advance
+root	ROOT	warning
+cc	warning	or
+conj:or	warning	notification
+case	something	of
+nmod:of	warning	something

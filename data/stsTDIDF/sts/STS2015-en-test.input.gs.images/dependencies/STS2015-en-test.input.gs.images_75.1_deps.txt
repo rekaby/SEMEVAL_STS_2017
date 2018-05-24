@@ -1,0 +1,10 @@
+det	tent	A
+root	ROOT	tent
+cc	tent	and
+det	campsite	a
+conj:and	tent	campsite
+case	forest	in
+det	forest	a
+amod	forest	sunlit
+nmod:in	campsite	forest
+punct	tent	.

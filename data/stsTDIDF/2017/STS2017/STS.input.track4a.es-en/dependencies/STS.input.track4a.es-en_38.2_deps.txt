@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	runs	boy
+root	ROOT	runs
+case	street	down
+det	street	the
+nmod:down	runs	street
+punct	runs	.

@@ -1,0 +1,17 @@
+det	girl	A
+amod	girl	teenage
+root	ROOT	girl
+acl	girl	running
+case	beach	on
+det	beach	a
+nmod:on	running	beach
+dep	beach	shouting
+punct	girl	,
+case	man	with
+det	man	an
+amod	man	older
+nmod:with	girl	man
+acl	man	walking
+case	her	behind
+nmod:behind	walking	her
+punct	girl	.

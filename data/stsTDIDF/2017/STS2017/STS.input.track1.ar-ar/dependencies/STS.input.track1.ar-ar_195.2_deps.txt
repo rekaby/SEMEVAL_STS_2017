@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+root	ROOT	boy
+acl	boy	wearing
+det	securities	a
+amod	securities	blue
+cc	blue	and
+conj:and	blue	red
+compound	securities	jacket
+amod	securities	unearth
+dobj	wearing	securities
+punct	boy	.

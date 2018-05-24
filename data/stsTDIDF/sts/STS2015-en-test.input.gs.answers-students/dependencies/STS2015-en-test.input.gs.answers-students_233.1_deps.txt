@@ -1,0 +1,8 @@
+det	battery	the
+nsubjpass	contained	battery
+auxpass	contained	is
+root	ROOT	contained
+case	path	in
+det	path	a
+amod	path	closed
+nmod:in	contained	path

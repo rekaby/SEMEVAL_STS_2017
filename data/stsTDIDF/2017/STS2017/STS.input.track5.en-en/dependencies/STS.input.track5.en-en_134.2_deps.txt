@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	painting	woman
+aux	painting	is
+root	ROOT	painting
+nmod:poss	white	her
+compound	white	wall
+dobj	painting	white
+punct	painting	.

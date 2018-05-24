@@ -1,0 +1,15 @@
+root	ROOT	Is
+nsubj	appropriate	it
+xcomp	Is	appropriate
+mark	send	to
+xcomp	appropriate	send
+det	gift	a
+dobj	send	gift
+case	professor	to
+det	professor	a
+nmod:to	send	professor
+case	course	for
+det	course	an
+amod	course	online
+nmod:for	send	course
+punct	Is	?

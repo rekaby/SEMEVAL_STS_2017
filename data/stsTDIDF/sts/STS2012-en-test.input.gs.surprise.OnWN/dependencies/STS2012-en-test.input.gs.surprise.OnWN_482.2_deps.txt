@@ -1,0 +1,6 @@
+det	area	an
+amod	area	extended
+root	ROOT	area
+case	land	of
+nmod:of	area	land
+punct	area	.

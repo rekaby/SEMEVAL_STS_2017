@@ -1,0 +1,5 @@
+nsubj	surrendered	germany
+root	ROOT	surrendered
+case	april	in
+nmod:in	surrendered	april
+punct	surrendered	.

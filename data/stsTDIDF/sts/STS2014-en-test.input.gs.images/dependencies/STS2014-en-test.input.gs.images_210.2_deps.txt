@@ -1,0 +1,14 @@
+det	group	A
+root	ROOT	group
+case	cows	of
+nmod:of	group	cows
+case	field	in
+det	field	a
+nmod:in	group	field
+case	tags	with
+amod	tags	yellow
+nmod:with	field	tags
+case	ears	in
+nmod:poss	ears	their
+nmod:in	field	ears
+punct	group	.

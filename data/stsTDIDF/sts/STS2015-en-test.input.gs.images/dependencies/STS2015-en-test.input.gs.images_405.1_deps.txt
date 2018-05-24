@@ -1,0 +1,8 @@
+root	ROOT	Man
+acl	Man	riding
+det	surfboard	a
+dobj	riding	surfboard
+case	wave	on
+det	wave	a
+nmod:on	riding	wave
+punct	Man	.

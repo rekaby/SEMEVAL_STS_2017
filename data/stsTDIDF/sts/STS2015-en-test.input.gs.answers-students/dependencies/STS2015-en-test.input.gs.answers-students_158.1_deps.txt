@@ -1,0 +1,5 @@
+det	path	The
+root	ROOT	path
+nsubj	was	it
+acl:relcl	path	was
+acl	path	on

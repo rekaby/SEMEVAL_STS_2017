@@ -1,0 +1,9 @@
+det	man	A
+nsubj	sharpens	man
+root	ROOT	sharpens
+det	pencil	a
+dobj	sharpens	pencil
+xcomp	sharpens	using
+det	knife	a
+dobj	using	knife
+punct	sharpens	.

@@ -1,0 +1,4 @@
+compound	Street	Wall
+nsubj	Opens	Street
+root	ROOT	Opens
+advmod	Opens	Lower

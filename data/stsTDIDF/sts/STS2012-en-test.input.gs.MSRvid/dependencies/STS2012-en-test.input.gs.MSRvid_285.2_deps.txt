@@ -1,0 +1,10 @@
+det	man	An
+amod	man	elderly
+nsubj	getting	man
+aux	getting	is
+root	ROOT	getting
+case	car	into
+det	car	a
+amod	car	red
+nmod:into	getting	car
+punct	getting	.

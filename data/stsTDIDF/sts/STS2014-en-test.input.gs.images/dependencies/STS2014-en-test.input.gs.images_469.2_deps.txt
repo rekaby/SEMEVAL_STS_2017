@@ -1,0 +1,7 @@
+compound	standing	Blue
+compound	standing	bird
+root	ROOT	standing
+case	grass	on
+amod	grass	green
+nmod:on	standing	grass
+punct	standing	.

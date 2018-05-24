@@ -1,0 +1,8 @@
+doing	man	nsubj
+doing	trick	dobj
+man	African	amod
+stick	with	case
+stick	a	det
+man	An	det
+doing	stick	nmod:with
+trick	a	det

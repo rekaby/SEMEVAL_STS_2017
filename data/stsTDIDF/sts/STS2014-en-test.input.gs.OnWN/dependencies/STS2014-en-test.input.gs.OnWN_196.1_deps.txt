@@ -1,0 +1,9 @@
+root	ROOT	express
+cc	express	or
+conj:or	express	transform
+case	form	in
+det	form	a
+amod	form	new
+nmod:in	express	form
+cc	form	or
+conj:or	form	language

@@ -1,0 +1,13 @@
+det	man	A
+root	ROOT	man
+case	shirt	in
+det	shirt	a
+amod	shirt	gray
+nmod:in	man	shirt
+acl	shirt	sitting
+case	field	in
+det	field	a
+nmod:in	sitting	field
+case	flowers	of
+nmod:of	field	flowers
+punct	man	.

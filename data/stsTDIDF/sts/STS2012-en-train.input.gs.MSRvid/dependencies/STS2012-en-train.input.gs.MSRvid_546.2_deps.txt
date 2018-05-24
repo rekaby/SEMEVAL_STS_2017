@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	dips	woman
+root	ROOT	dips
+det	shrimp	a
+dobj	dips	shrimp
+case	batter	in
+nmod:in	dips	batter
+punct	dips	.

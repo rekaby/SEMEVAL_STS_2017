@@ -1,0 +1,5 @@
+nsubj	becomes	Philippe
+root	ROOT	becomes
+dobj	becomes	king
+case	Belgium	of
+nmod:of	king	Belgium

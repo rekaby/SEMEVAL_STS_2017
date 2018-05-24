@@ -1,0 +1,14 @@
+compound	A	Bulb
+nsubj	paths	A
+punct	A	,
+compound	B	bulb
+appos	A	B
+cc	B	and
+compound	C	bulb
+conj:and	B	C
+cop	paths	are
+case	paths	in
+amod	paths	different
+amod	paths	closed
+root	ROOT	paths
+punct	paths	.

@@ -1,0 +1,12 @@
+advmod	long	How
+root	ROOT	long
+mark	return	after
+det	obliteration	the
+nsubj	return	obliteration
+aux	return	should
+det	kid	the
+nsubj	return	kid
+advcl	long	return
+case	school	to
+nmod:to	return	school
+punct	long	?

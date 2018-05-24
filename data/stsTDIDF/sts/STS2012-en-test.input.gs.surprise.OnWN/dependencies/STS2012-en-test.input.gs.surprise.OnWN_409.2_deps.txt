@@ -1,0 +1,8 @@
+root	ROOT	make
+xcomp	make	clear
+cc	clear	and
+punct	more	-LRB-
+dep	comprehensible	more
+punct	more	-RRB-
+conj:and	clear	comprehensible
+punct	make	.

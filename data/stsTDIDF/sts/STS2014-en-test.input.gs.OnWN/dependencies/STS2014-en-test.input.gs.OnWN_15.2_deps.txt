@@ -1,0 +1,6 @@
+mark	distribute	to
+root	ROOT	distribute
+advmod	distribute	systematically
+cc	systematically	or
+conj:or	systematically	strategically
+punct	distribute	.

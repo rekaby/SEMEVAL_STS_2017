@@ -1,0 +1,6 @@
+compound	helicopter	Police
+nsubj	crashes	helicopter
+root	ROOT	crashes
+case	pub	into
+amod	pub	Scottish
+nmod:into	crashes	pub

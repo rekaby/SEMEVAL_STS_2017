@@ -1,0 +1,6 @@
+root	ROOT	Remarks
+case	Gemba	With
+compound	Gemba	Foreign
+compound	Gemba	Minister
+compound	Gemba	Koichiro
+nmod:with	Remarks	Gemba

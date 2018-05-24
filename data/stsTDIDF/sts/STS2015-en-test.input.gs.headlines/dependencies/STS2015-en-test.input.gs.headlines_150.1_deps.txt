@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	attack	in
+compound	attack	Nairobi
+nmod:in	toll	attack
+root	ROOT	rises
+case	59	to
+nmod:to	rises	59

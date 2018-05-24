@@ -1,0 +1,15 @@
+case	September	In
+nmod:in	contracted	September
+punct	contracted	,
+det	researcher	a
+amod	researcher	27-year-old
+compound	researcher	Singapore
+nsubj	contracted	researcher
+root	ROOT	contracted
+dobj	contracted	SARS
+mark	working	while
+advcl	contracted	working
+case	laboratory	in
+det	laboratory	a
+nmod:in	working	laboratory
+punct	contracted	.

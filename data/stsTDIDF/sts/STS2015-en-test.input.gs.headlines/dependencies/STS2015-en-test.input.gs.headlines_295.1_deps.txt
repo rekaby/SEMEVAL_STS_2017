@@ -1,0 +1,6 @@
+compound	rally	Bangladesh
+compound	rally	Islamists
+nsubj	bloggers	rally
+case	atheist	against
+nmod:against	rally	atheist
+root	ROOT	bloggers

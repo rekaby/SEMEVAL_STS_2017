@@ -1,0 +1,13 @@
+nummod	girls	Two
+amod	girls	young
+nsubj	play	girls
+root	ROOT	play
+case	sun	in
+det	sun	the
+amod	sun	hot
+compound	sun	summer
+nmod:in	play	sun
+case	fountains	between
+det	fountains	the
+nmod:between	play	fountains
+punct	play	.

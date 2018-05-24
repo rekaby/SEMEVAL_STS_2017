@@ -1,0 +1,6 @@
+sailing	couple	nsubj
+sailing	boat	dobj
+ROOT	sailing	root
+sailing	are	aux
+sailing	.	punct
+couple	men	nmod:of

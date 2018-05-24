@@ -1,0 +1,16 @@
+air	's	cop
+ramp	the	det
+bicycle	on	case
+man	after	case
+air	man	nmod:after
+jumps	.	punct
+green	in	case
+green	bicycle	nmod:on
+jumps	air	nsubj
+air	It	nsubj
+man	green	nmod:in
+jumps	ramp	dobj
+bicycle	a	det
+ROOT	jumps	root
+jumps	off	compound:prt
+bicycle	green	amod

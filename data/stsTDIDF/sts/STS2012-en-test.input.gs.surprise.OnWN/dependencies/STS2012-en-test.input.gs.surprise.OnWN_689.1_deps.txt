@@ -1,0 +1,6 @@
+root	ROOT	declare
+cc	declare	or
+conj:or	declare	make
+dep	declare	unfit
+cc	unfit	or
+conj:or	unfit	unsuitable

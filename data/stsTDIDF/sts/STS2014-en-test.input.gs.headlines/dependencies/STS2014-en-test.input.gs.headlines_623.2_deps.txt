@@ -1,0 +1,8 @@
+compound	experience	Costa
+compound	experience	Concordia
+compound	experience	survivors
+compound	experience	detail
+root	ROOT	experience
+nummod	year	one
+nmod:npmod	later	year
+advmod	experience	later

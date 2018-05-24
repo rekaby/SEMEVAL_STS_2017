@@ -1,0 +1,8 @@
+white	brown	conj:and
+dog	white	amod
+field	and	cc
+field	dog	conj:and
+running	field	nmod:on
+field	grassy	amod
+running	dog	nsubj
+dog	black	amod

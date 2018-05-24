@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	cut	woman
+root	ROOT	cut
+compound:prt	cut	off
+det	canvas	the
+dobj	cut	canvas
+punct	cut	.

@@ -1,0 +1,7 @@
+nsubj	rejects	Iran
+root	ROOT	rejects
+compound	claim	MKO
+dobj	rejects	claim
+case	site	on
+amod	site	nuclear
+nmod:on	claim	site

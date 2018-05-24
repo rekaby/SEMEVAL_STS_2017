@@ -1,0 +1,8 @@
+nsubj	votes	UN
+root	ROOT	votes
+mark	eliminate	to
+xcomp	votes	eliminate
+nmod:poss	weapons	Syria
+case	Syria	's
+compound	weapons	chemical
+dobj	eliminate	weapons

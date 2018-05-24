@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	stirring	woman
+aux	stirring	is
+root	ROOT	stirring
+dobj	stirring	meat
+case	bowl	in
+det	bowl	a
+nmod:in	stirring	bowl
+punct	stirring	.

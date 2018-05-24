@@ -1,0 +1,13 @@
+root	ROOT	What
+cop	What	's
+det	way	the
+amod	way	best
+nsubj	What	way
+mark	store	to
+acl	way	store
+dobj	store	potatoes
+cc	store	and
+conj:and	store	maximize
+nmod:poss	shelf-life	their
+dobj	maximize	shelf-life
+punct	What	?

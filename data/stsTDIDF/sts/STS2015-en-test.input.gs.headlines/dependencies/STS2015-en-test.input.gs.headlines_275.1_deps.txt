@@ -1,0 +1,8 @@
+nmod:poss	team	Iran
+case	Iran	's
+amod	team	nuclear
+amod	team	negotiating
+nsubj	leaves	team
+root	ROOT	leaves
+case	Kazakhstan	for
+nmod:for	leaves	Kazakhstan

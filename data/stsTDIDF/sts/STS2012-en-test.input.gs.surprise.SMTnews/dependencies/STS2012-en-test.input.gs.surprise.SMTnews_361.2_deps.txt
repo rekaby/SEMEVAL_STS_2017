@@ -1,0 +1,12 @@
+root	ROOT	And
+det	mistaken	this
+amod	mistaken	important
+dep	And	mistaken
+aux	leading	is
+dep	mistaken	leading
+dobj	leading	Russia
+case	ruin	to
+nmod:poss	ruin	its
+amod	ruin	political
+nmod:to	leading	ruin
+punct	And	.

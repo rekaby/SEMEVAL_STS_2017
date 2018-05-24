@@ -1,0 +1,10 @@
+root	ROOT	feel
+xcomp	feel	anxious
+punct	concerned	,
+dep	anxious	concerned
+punct	concerned	,
+conj	concerned	uneasy
+punct	concerned	,
+cc	anxious	or
+conj:or	anxious	apprehensive
+dep	anxious	about

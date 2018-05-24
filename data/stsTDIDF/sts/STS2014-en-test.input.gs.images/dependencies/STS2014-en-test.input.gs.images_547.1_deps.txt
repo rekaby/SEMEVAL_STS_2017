@@ -1,0 +1,9 @@
+det	pile	A
+amod	pile	large
+nsubj	piled	pile
+case	items	of
+amod	items	wooden
+nmod:of	pile	items
+root	ROOT	piled
+xcomp	piled	high
+punct	piled	.

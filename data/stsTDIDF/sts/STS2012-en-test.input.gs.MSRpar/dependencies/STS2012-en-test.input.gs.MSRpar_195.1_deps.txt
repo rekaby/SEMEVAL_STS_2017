@@ -1,0 +1,17 @@
+compound	Brabazon	Brian
+nsubj	said	Brabazon
+root	ROOT	said
+nmod:poss	son	his
+nsubj	get	son
+aux	get	would
+ccomp	said	get
+xcomp	get	upset
+cc	upset	but
+advmod	turn	then
+conj:but	upset	turn
+advmod	upset	around
+cc	get	and
+conj:and	get	befriend
+nmod:poss	taunters	his
+dobj	befriend	taunters
+punct	said	.

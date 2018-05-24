@@ -1,0 +1,10 @@
+nsubj	calls	Pope
+root	ROOT	calls
+case	action	for
+nmod:for	calls	action
+case	change	on
+compound	change	climate
+nmod:on	action	change
+case	draft	in
+nmod:in	change	draft
+dobj	calls	encyclical

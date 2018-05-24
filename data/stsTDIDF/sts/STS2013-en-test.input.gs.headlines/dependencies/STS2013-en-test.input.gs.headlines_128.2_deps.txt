@@ -1,0 +1,7 @@
+compound	possibilities	Supreme
+compound	possibilities	Court
+root	ROOT	possibilities
+mark	wins	if
+nsubj	wins	Romney
+acl	possibilities	wins
+dobj	wins	election

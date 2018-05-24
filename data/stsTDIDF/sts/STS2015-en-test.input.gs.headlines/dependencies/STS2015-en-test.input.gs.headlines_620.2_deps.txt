@@ -1,0 +1,6 @@
+nummod	People	Five
+nsubj	Charged	People
+root	ROOT	Charged
+case	Terror	With
+nmod:with	Charged	Terror
+dobj	Charged	Offences

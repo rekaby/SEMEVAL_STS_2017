@@ -1,0 +1,10 @@
+root	ROOT	Iran
+punct	Iran	,
+amod	agency	atomic
+root	,	agency
+case	talks	in
+amod	talks	first
+nmod:in	agency	talks
+case	election	since
+compound	election	Rowhani
+nmod:since	talks	election

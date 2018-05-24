@@ -1,0 +1,13 @@
+det	company	a
+root	ROOT	company
+nsubj	performs	that
+acl:relcl	company	performs
+det	service	a
+amod	service	public
+dobj	performs	service
+punct	company	;
+dep	company	subject
+case	regulation	to
+compound	regulation	government
+nmod:to	subject	regulation
+punct	company	.

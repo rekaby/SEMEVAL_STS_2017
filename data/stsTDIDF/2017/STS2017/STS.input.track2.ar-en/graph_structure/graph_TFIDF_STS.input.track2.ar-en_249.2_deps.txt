@@ -1,0 +1,4 @@
+someone	sidewalk	nmod:on
+call	someone	dep
+call	The	det
+sidewalk	on	case

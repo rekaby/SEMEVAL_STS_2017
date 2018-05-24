@@ -1,0 +1,6 @@
+root	ROOT	intuitions
+punct	intuitions	,
+det	hunch	a
+conj:or	intuitions	hunch
+cc	intuitions	or
+conj:or	intuitions	feeling

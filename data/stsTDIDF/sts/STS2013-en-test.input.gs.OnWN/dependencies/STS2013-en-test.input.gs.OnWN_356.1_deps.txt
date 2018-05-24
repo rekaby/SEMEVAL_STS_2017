@@ -1,0 +1,10 @@
+det	increase	an
+root	ROOT	increase
+case	size	in
+nmod:in	increase	size
+mark	measured	as
+acl	increase	measured
+case	unit	per
+nmod:per	measured	unit
+case	time	of
+nmod:of	unit	time

@@ -1,0 +1,6 @@
+chased	.	punct
+chased	man	nsubjpass
+ROOT	chased	root
+chased	is	aux
+chased	police	nmod:agent
+chased	being	auxpass

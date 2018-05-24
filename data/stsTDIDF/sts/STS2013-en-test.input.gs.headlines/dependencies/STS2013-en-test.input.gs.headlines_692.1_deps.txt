@@ -1,0 +1,9 @@
+ccomp	says	Civilian
+punct	says	,
+ccomp	says	defector
+acl	defector	killed
+case	Syria	in
+nmod:in	killed	Syria
+punct	says	,
+root	ROOT	says
+nsubj	says	NGO

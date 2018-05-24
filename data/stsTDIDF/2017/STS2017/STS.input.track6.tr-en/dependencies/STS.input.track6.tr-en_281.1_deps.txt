@@ -1,0 +1,7 @@
+det	man	The
+nsubj	examining	man
+aux	examining	is
+root	ROOT	examining
+det	object	an
+dobj	examining	object
+punct	examining	.

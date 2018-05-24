@@ -1,0 +1,12 @@
+nsubj	done	He
+aux	done	has
+root	ROOT	done
+punct	done	,
+mark	go	that
+det	initiative	the
+nsubj	go	initiative
+neg	go	not
+ccomp	done	go
+advmod	far	very
+advmod	go	far
+punct	done	.

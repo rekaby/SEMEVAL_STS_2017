@@ -1,0 +1,12 @@
+loaded	being	auxpass
+loaded	carts	nsubjpass
+truck	onto	case
+man	by	case
+loaded	.	punct
+carts	Vons	compound
+loaded	truck	nmod:onto
+ROOT	loaded	root
+carts	The	det
+loaded	man	nmod:agent
+carts	shopping	compound
+loaded	are	aux

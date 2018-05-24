@@ -1,0 +1,7 @@
+det	tendency	This
+nsubj	goes	tendency
+root	ROOT	goes
+advmod	goes	well
+case	simple	beyond
+nmod:beyond	goes	simple
+punct	goes	.

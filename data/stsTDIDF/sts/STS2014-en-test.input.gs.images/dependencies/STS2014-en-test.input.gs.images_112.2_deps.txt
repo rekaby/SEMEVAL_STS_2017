@@ -1,0 +1,14 @@
+nummod	grazing	Two
+compound	grazing	animals
+root	ROOT	grazing
+case	mountain	next
+mwe	next	to
+det	mountain	a
+nmod:next_to	grazing	mountain
+punct	grazing	,
+cc	grazing	and
+det	body	a
+conj:and	grazing	body
+case	water	of
+nmod:of	body	water
+punct	grazing	.

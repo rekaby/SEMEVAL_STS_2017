@@ -1,0 +1,8 @@
+horse	and	cc
+horse	.	punct
+pass	water	nmod:through
+pass	car	nsubj
+water	through	case
+horse	A	det
+ROOT	horse	root
+horse	pass	conj:and

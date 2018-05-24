@@ -1,0 +1,6 @@
+det	man	A
+nsubj	machinery	man
+cop	machinery	is
+amod	machinery	operating
+root	ROOT	machinery
+punct	machinery	.

@@ -1,0 +1,10 @@
+det	list	a
+root	ROOT	list
+case	items	of
+nmod:of	list	items
+mark	consulted	to
+auxpass	consulted	be
+acl	list	consulted
+cc	consulted	and
+conj:and	consulted	marked
+compound:prt	consulted	off

@@ -1,0 +1,10 @@
+root	ROOT	Britons
+acl	Britons	released
+case	kidnapping	after
+nmod:after	released	kidnapping
+case	Sinai	in
+nmod:poss	Sinai	Egypt
+case	Egypt	's
+nmod:in	kidnapping	Sinai
+punct	Britons	-
+dep	Britons	sources

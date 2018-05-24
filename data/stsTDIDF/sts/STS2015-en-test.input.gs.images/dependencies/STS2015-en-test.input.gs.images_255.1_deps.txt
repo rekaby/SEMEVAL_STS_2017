@@ -1,0 +1,11 @@
+det	man	A
+nsubj	playing	man
+cc	man	and
+det	dog	a
+conj:and	man	dog
+aux	playing	are
+root	ROOT	playing
+dobj	playing	tug
+case	war	of
+nmod:of	tug	war
+punct	playing	.

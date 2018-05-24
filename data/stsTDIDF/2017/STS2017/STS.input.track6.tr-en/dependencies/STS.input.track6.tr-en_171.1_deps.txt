@@ -1,0 +1,7 @@
+nsubj	riding	Man
+root	ROOT	riding
+det	bicycle	a
+dobj	riding	bicycle
+case	York	in
+compound	York	New
+nmod:in	riding	York

@@ -1,0 +1,11 @@
+det	range	the
+root	ROOT	range
+case	interest	of
+nmod:of	range	interest
+cc	interest	or
+conj:or	interest	activity
+nsubjpass	anticipated	that
+aux	anticipated	can
+auxpass	anticipated	be
+acl:relcl	interest	anticipated
+punct	range	.

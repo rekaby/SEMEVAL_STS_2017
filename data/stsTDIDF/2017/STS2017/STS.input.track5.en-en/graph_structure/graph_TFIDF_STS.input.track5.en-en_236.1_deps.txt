@@ -1,0 +1,9 @@
+focus	is	cop
+focus	in	case
+child	of	case
+head	child	nmod:of
+head	The	det
+focus	head	nsubj
+glasses	dark	amod
+head	glasses	nmod:with
+glasses	with	case

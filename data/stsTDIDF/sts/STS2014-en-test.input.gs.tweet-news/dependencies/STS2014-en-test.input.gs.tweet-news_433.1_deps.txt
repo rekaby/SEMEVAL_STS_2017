@@ -1,0 +1,10 @@
+case	shock	In
+amod	shock	complete
+root	ROOT	shock
+punct	shock	!-4) amod(hospital-2, Catholic
+nsubj	argues	hospital
+root	ROOT	argues
+compound	person	fetus
+neg	person	not
+det	person	a
+dobj	argues	person

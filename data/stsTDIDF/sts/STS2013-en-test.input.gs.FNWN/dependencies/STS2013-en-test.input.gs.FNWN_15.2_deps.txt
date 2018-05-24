@@ -1,0 +1,10 @@
+aux	succeeded	having
+root	ROOT	succeeded
+cc	succeeded	or
+auxpass	marked	being
+conj:or	succeeded	marked
+case	outcome	by
+det	outcome	a
+amod	outcome	favorable
+nmod:agent	marked	outcome
+punct	succeeded	;

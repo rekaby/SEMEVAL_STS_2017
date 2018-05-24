@@ -1,0 +1,5 @@
+root	ROOT	Poetry
+punct	Poetry	,
+conj:and	Poetry	Puppets
+cc	Poetry	and
+conj:and	Poetry	Playgrounds

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	walking	man
+cc	man	and
+conj:and	man	woman
+aux	walking	are
+root	ROOT	walking
+case	jungle	through
+det	jungle	the
+nmod:through	walking	jungle
+punct	walking	.

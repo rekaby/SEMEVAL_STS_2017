@@ -1,0 +1,14 @@
+det	cat	A
+amod	cat	black
+cc	black	and
+conj:and	black	white
+nsubj	sitting	cat
+aux	sitting	is
+root	ROOT	sitting
+case	chair	on
+det	chair	a
+amod	chair	brown
+nmod:on	sitting	chair
+acl	chair	looking
+compound:prt	looking	up
+punct	sitting	.

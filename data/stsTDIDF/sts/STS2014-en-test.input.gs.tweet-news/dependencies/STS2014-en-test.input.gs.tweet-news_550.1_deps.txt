@@ -1,0 +1,13 @@
+compound	Firm	La
+compound	Firm	vision
+compound	Firm	am?ricaine
+compound	Firm	sur
+compound	Firm	M.Kaspersky
+amod	Firm	est
+compound	Firm	peu
+compound	Firm	flatteuse
+compound	Firm	Security
+nsubj	Discovers	Firm
+root	ROOT	Discovers
+compound	Campaign	Cyber-Spy
+dobj	Discovers	Campaign

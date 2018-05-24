@@ -1,0 +1,11 @@
+punct	attempt	-LRB-
+root	ROOT	attempt
+mark	convince	to
+punct	convince	-RRB-
+acl	attempt	convince
+mark	enroll	to
+xcomp	convince	enroll
+punct	attempt	,
+appos	attempt	join
+cc	join	or
+conj:or	join	participate

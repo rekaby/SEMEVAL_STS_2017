@@ -1,0 +1,16 @@
+compound	lights	Security
+nsubjpass	installed	lights
+aux	installed	have
+advmod	installed	also
+auxpass	installed	been
+root	ROOT	installed
+cc	installed	and
+nsubj	swept	police
+aux	swept	have
+conj:and	installed	swept
+det	grounds	the
+dobj	swept	grounds
+case	traps	for
+amod	traps	booby
+nmod:for	swept	traps
+punct	installed	.

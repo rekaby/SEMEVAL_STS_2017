@@ -1,0 +1,7 @@
+root	ROOT	inherited
+mark	died	that
+advmod	died	when
+nmod:poss	father	his
+nsubj	died	father
+ccomp	inherited	died
+punct	inherited	.

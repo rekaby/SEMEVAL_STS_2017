@@ -1,0 +1,14 @@
+root	ROOT	Thought
+mark	trend	that
+case	term	in
+det	term	the
+amod	term	long
+nmod:in	trend	term
+punct	trend	,
+nsubj	trend	nothing
+aux	trend	can
+advmod	trend	actually
+case	trend	to
+det	trend	this
+ccomp	Thought	trend
+punct	Thought	.

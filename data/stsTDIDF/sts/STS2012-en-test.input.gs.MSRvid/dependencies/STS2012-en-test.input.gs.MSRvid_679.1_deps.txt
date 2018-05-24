@@ -1,0 +1,7 @@
+det	couple	The
+nsubj	danced	couple
+root	ROOT	danced
+case	church	in
+det	church	the
+nmod:in	danced	church
+punct	danced	.

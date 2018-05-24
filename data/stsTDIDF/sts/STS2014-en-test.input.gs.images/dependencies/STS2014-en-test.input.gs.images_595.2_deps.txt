@@ -1,0 +1,8 @@
+det	cat	A
+amod	cat	white
+root	ROOT	cat
+acl	cat	laying
+case	sheet	on
+det	sheet	a
+nmod:on	laying	sheet
+punct	cat	.

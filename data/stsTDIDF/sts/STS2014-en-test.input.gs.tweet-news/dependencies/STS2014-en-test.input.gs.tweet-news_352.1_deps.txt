@@ -1,0 +1,19 @@
+nummod	%	77
+nsubj	use	%
+case	Americans	of
+nmod:of	%	Americans
+root	ROOT	use
+dobj	use	search
+mark	find	to
+advcl	use	find
+dobj	find	diagnosis
+punct	use	.-10) root(ROOT-0, ?-1) punct(Turning-2, :
+root	ROOT	Turning
+case	Web	to
+det	Web	the
+nmod:to	Turning	Web
+case	Advice	for
+det	Advice	a
+amod	Advice	Medical
+nmod:for	Turning	Advice
+punct	Turning	?

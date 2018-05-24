@@ -1,0 +1,14 @@
+det	one	A
+amod	one	common
+nsubj	haddock	one
+cop	haddock	is
+root	ROOT	haddock
+cc	haddock	and
+cop	season	is
+case	season	in
+conj:and	haddock	season
+advmod	much	pretty
+amod	round	much
+compound	round	year
+dobj	season	round
+punct	haddock	.

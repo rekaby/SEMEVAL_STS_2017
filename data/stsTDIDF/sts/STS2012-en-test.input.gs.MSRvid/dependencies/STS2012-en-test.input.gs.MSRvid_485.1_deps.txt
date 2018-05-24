@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	watching	cat
+aux	watching	is
+root	ROOT	watching
+det	TV	a
+dobj	watching	TV
+punct	watching	.

@@ -1,0 +1,6 @@
+det	regime	a
+amod	regime	sovereign
+root	ROOT	regime
+cc	regime	and
+nmod:poss	assemblage	its
+conj:and	regime	assemblage

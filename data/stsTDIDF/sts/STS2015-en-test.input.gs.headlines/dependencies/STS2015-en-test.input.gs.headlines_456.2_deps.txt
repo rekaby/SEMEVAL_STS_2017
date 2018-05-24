@@ -1,0 +1,10 @@
+compound	Korea	S.
+nsubj	demands	Korea
+root	ROOT	demands
+dobj	demands	talks
+case	Korea	with
+compound	Korea	N.
+nmod:with	talks	Korea
+case	factory	on
+amod	factory	closed
+nmod:on	talks	factory

@@ -1,0 +1,11 @@
+root	ROOT	Fasten
+dep	Fasten	-LRB-
+dep	rivet	as
+dep	rivet	if
+punct	rivet	-RRB-
+case	rivet	with
+det	rivet	a
+advcl:with	-LRB-	rivet
+cc	rivet	or
+conj:or	rivet	rivets
+punct	-LRB-	.

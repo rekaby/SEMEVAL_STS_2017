@@ -1,0 +1,12 @@
+nsubj	method	This
+cop	method	is
+det	method	a
+advmod	quicker	much
+amod	method	quicker
+root	ROOT	method
+case	methods	than
+amod	methods	other
+advmod	naive	more
+amod	methods	naive
+nmod:than	method	methods
+punct	method	.

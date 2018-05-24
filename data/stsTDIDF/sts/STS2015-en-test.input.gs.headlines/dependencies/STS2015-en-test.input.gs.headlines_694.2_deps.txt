@@ -1,0 +1,10 @@
+amod	icebreaker	Australian
+nsubj	arrives	icebreaker
+root	ROOT	arrives
+case	Antarctica	in
+compound	Antarctica	East
+nmod:in	arrives	Antarctica
+case	rescue	for
+amod	rescue	new
+nmod:for	arrives	rescue
+dobj	arrives	bid

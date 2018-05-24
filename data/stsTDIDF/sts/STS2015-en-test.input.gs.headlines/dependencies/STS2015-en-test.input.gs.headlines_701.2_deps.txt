@@ -1,0 +1,7 @@
+compound	police	Ukraine
+compound	police	protesters
+compound	police	battle
+root	ROOT	police
+case	clashes	in
+amod	clashes	new
+nmod:in	police	clashes

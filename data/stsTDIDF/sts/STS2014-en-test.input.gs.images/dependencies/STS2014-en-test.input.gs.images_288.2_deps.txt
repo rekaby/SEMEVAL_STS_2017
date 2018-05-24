@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	sitting	women
+aux	sitting	are
+root	ROOT	sitting
+case	cafe	in
+det	cafe	a
+nmod:in	sitting	cafe
+punct	sitting	.

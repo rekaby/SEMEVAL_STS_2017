@@ -1,0 +1,6 @@
+compound	Ducati	Audi
+mark	buy	to
+acl	Audi	buy
+compound	maker	motorcycle
+dobj	buy	maker
+root	ROOT	Ducati

@@ -1,0 +1,9 @@
+det	boy	A
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+case	phone	on
+det	phone	a
+compound	phone	toy
+nmod:on	playing	phone
+punct	playing	.

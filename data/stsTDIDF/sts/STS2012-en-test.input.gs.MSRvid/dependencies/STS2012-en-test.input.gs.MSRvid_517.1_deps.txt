@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	opening	woman
+aux	opening	is
+root	ROOT	opening
+det	soda	a
+dobj	opening	soda
+cc	soda	and
+conj:and	soda	drinking
+dobj	drinking	it
+punct	opening	.

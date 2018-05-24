@@ -1,0 +1,15 @@
+nsubj	stated	He
+root	ROOT	stated
+mark	illness	that
+nsubj	illness	it
+cop	illness	was
+det	illness	a
+amod	illness	mental
+ccomp	stated	illness
+dep	is	in
+punct	is	,
+advmod	is	how
+dep	illness	is
+det	bigotry	that
+nsubj	is	bigotry
+punct	stated	?

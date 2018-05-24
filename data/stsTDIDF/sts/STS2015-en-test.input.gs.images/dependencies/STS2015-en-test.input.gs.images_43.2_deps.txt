@@ -1,0 +1,9 @@
+det	man	A
+nsubj	jumps	man
+root	ROOT	jumps
+compound:prt	jumps	off
+det	rock	a
+dobj	jumps	rock
+case	water	into
+det	water	the
+nmod:into	jumps	water

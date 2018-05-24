@@ -1,0 +1,6 @@
+root	ROOT	Facebook
+mark	test	to
+acl	Facebook	test
+amod	payments	mobile
+compound	service	payments
+dobj	test	service

@@ -1,0 +1,7 @@
+det	competitor	a
+nsubj	thought	competitor
+root	ROOT	thought
+xcomp	thought	likely
+mark	win	to
+xcomp	likely	win
+punct	thought	.

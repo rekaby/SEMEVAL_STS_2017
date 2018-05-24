@@ -1,0 +1,15 @@
+ROOT	hiker	root
+life	animal	amod
+hiker	.	punct
+trail	a	det
+kangaroo	a	det
+area	kangaroo	nmod:with
+hiker	trail	nmod:on
+looking	area	nmod:in
+looking	life	nmod:at
+life	at	case
+hiker	A	det
+area	wooded	amod
+trail	looking	acl
+kangaroo	black	amod
+kangaroo	with	case

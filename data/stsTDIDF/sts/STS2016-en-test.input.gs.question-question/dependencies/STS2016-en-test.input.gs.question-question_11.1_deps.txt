@@ -1,0 +1,15 @@
+advmod	maintain	How
+aux	maintain	do
+nsubj	maintain	I
+root	ROOT	maintain
+det	relationship	a
+amod	relationship	good
+dobj	maintain	relationship
+case	boss	with
+nmod:poss	boss	my
+amod	boss	old
+nmod:with	relationship	boss
+mark	promoted	after
+auxpass	promoted	being
+advcl	maintain	promoted
+punct	maintain	?

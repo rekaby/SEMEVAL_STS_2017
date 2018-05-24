@@ -1,0 +1,8 @@
+compound	Obama	Barack
+nmod:poss	evolution	Obama
+case	Obama	's
+amod	evolution	personal
+root	ROOT	evolution
+case	marriage	on
+amod	marriage	same-sex
+nmod:on	evolution	marriage

@@ -1,0 +1,9 @@
+nsubj	checks	it
+root	ROOT	checks
+det	state	the
+amod	state	electrical
+dobj	checks	state
+case	terminals	between
+nummod	terminals	two
+nmod:between	checks	terminals
+punct	checks	.

@@ -1,0 +1,6 @@
+amod	troops	French-led
+root	ROOT	troops
+amod	troops	close
+case	Timbuktu	in
+case	Timbuktu	on
+nmod:on	close	Timbuktu

@@ -1,0 +1,9 @@
+nsubj	stay	Dey
+root	ROOT	stay
+xcomp	stay	preppin
+punct	preppin	'
+punct	stay	...
+det	Preppers	The
+nsubj	Door	Preppers
+compound	Door	Next
+parataxis	stay	Door

@@ -1,0 +1,21 @@
+cop	me	Is
+nsubj	me	it
+root	ROOT	me
+punct	me	,
+cc	me	or
+cop	ingredient	is
+det	ingredient	the
+amod	ingredient	main
+conj:or	me	ingredient
+case	sugar	in
+compound	sugar	Coke
+nmod:in	ingredient	sugar
+punct	me	?-13) case(Ads-2, In
+nmod:in	Confronts	Ads
+punct	Confronts	,
+nsubj	Confronts	Coke
+root	ROOT	Confronts
+compound	Link	Soda?s
+dobj	Confronts	Link
+case	Obesity	to
+nmod:to	Confronts	Obesity

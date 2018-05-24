@@ -1,0 +1,14 @@
+aux	work	Will
+compound	Obama	President
+nmod:poss	proposals	Obama
+case	Obama	's
+compound	proposals	gun
+nsubj	work	proposals
+root	ROOT	work
+punct	work	?-8) compound(Pain-2, Recalling
+root	ROOT	Pain
+punct	Pain	,
+compound	Bills	Mayors
+compound	Bills	Urge
+appos	Pain	Bills
+punct	Pain	?-7) root(ROOT-0, Passage

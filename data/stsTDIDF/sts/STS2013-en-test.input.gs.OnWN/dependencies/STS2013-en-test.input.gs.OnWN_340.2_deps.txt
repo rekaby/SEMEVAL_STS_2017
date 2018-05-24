@@ -1,0 +1,7 @@
+root	ROOT	react
+case	stimulus	to
+det	stimulus	a
+nmod:to	react	stimulus
+cc	stimulus	or
+conj:or	stimulus	command
+punct	react	.

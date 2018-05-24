@@ -1,0 +1,17 @@
+cop	appropriate	Is
+nsubj	appropriate	it
+root	ROOT	appropriate
+case	referee	as
+det	referee	a
+nmod:as	appropriate	referee
+mark	contact	to
+acl	referee	contact
+det	author	an
+dobj	contact	author
+mark	rejected	after
+det	editor	the
+nsubj	rejected	editor
+advcl	contact	rejected
+det	manuscript	the
+dobj	rejected	manuscript
+punct	appropriate	?

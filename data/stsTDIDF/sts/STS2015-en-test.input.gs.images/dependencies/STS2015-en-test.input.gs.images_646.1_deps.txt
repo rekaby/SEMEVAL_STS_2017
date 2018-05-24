@@ -1,0 +1,7 @@
+nummod	dogs	Four
+nsubj	stand	dogs
+root	ROOT	stand
+case	snow	in
+det	snow	the
+nmod:in	stand	snow
+punct	stand	.

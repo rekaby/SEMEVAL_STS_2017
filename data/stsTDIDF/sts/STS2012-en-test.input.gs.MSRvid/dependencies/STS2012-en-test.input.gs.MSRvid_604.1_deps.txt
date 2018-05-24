@@ -1,0 +1,5 @@
+det	person	A
+nsubj	peels	person
+root	ROOT	peels
+dobj	peels	shrimp
+punct	peels	.

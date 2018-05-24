@@ -1,0 +1,12 @@
+det	person	A
+root	ROOT	person
+acl	person	walking
+det	dog	a
+dobj	walking	dog
+punct	person	,
+det	child	the
+nsubj	riding	child
+acl:relcl	person	riding
+det	skateboard	a
+dobj	riding	skateboard
+punct	person	.

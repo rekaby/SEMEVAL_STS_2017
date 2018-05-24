@@ -1,0 +1,6 @@
+det	plane	A
+root	ROOT	plane
+case	sky	in
+det	sky	the
+nmod:in	plane	sky
+punct	plane	.

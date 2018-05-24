@@ -1,0 +1,8 @@
+case	least	At
+nmod:npmod	15	least
+nummod	attack	15
+acl	15	killed
+case	church	in
+compound	church	Nigeria
+nmod:in	killed	church
+root	ROOT	attack

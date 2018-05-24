@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	jumping	dog
+root	ROOT	jumping
+case	Frisbee	for
+det	Frisbee	a
+nmod:for	jumping	Frisbee
+case	snow	in
+det	snow	the
+nmod:in	jumping	snow
+punct	jumping	.

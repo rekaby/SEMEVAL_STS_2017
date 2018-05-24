@@ -1,0 +1,15 @@
+nsubj	pleaded	Waksal
+aux	pleaded	has
+root	ROOT	pleaded
+xcomp	pleaded	guilty
+case	fraud	to
+compound	fraud	securities
+nmod:to	guilty	fraud
+cc	pleaded	and
+aux	sentenced	is
+mark	sentenced	to
+auxpass	sentenced	be
+conj:and	pleaded	sentenced
+amod	week	next
+nmod:tmod	sentenced	week
+punct	pleaded	.

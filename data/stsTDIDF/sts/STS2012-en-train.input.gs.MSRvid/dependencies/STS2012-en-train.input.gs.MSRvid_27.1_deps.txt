@@ -1,0 +1,9 @@
+det	cat	A
+nsubj	opens	cat
+root	ROOT	opens
+det	drawer	a
+dobj	opens	drawer
+cc	opens	and
+conj:and	opens	climbs
+advmod	climbs	inside
+punct	opens	.

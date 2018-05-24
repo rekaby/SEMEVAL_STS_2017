@@ -1,0 +1,9 @@
+root	ROOT	elecate
+cc	elecate	or
+conj:or	elecate	idealize
+case	allusion	in
+nmod:in	elecate	allusion
+case	transfiguration	to
+nmod:poss	transfiguration	Christ
+case	Christ	's
+nmod:to	allusion	transfiguration

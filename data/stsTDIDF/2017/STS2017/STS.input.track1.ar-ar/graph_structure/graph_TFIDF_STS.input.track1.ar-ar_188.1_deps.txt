@@ -1,0 +1,8 @@
+polo	holiday	nmod:in
+holiday	in	case
+polo	playing	compound
+polo	.	punct
+polo	water	compound
+polo	A	det
+ROOT	polo	root
+polo	couple	amod

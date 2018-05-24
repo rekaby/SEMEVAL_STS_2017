@@ -1,0 +1,12 @@
+root	ROOT	discourage
+cc	discourage	or
+conj:or	discourage	frighten
+case	threats	with
+nmod:with	frighten	threats
+cc	threats	or
+det	manner	a
+amod	manner	domineering
+conj:or	threats	manner
+punct	discourage	;
+conj:or	discourage	intimidate
+punct	discourage	.

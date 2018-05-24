@@ -1,0 +1,8 @@
+compound	Stallone	Sylvester
+nmod:poss	son	Stallone
+case	Stallone	's
+nsubj	found	son
+root	ROOT	found
+xcomp	found	dead
+case	Hollywood	in
+nmod:in	dead	Hollywood

@@ -1,0 +1,6 @@
+nummod	strikes	6.8
+compound	strikes	quake
+root	ROOT	strikes
+case	Islands	off
+compound	Islands	Solomon
+nmod:off	strikes	Islands

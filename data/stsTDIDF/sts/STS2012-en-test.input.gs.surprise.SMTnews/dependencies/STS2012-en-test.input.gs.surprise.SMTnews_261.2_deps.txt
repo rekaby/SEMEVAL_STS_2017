@@ -1,0 +1,10 @@
+nsubj	leaves	That
+root	ROOT	leaves
+det	opposition	the
+dobj	leaves	opposition
+cc	leaves	and
+case	response	without
+det	response	any
+amod	response	effective
+conj:and	leaves	response
+punct	leaves	.

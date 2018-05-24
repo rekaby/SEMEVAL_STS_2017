@@ -1,0 +1,7 @@
+det	person	a
+root	ROOT	person
+nsubj	charge	who
+cop	charge	is
+case	charge	in
+acl:relcl	person	charge
+punct	person	.

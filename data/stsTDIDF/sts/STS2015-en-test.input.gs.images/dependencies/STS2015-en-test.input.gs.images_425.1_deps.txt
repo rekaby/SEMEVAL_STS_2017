@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	sit	people
+acl	people	wearing
+dobj	wearing	hats
+root	ROOT	sit
+cc	sit	and
+conj:and	sit	look
+case	camera	at
+det	camera	the
+nmod:at	look	camera
+punct	sit	.

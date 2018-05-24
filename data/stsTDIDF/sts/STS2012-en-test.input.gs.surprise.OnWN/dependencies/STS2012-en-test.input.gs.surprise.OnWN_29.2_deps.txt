@@ -1,0 +1,5 @@
+root	ROOT	terminate
+det	association	an
+dobj	terminate	association
+acl	association	with
+punct	terminate	.

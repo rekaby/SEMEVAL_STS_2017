@@ -1,0 +1,13 @@
+expl	are	There
+root	ROOT	are
+nummod	guys	two
+nsubj	are	guys
+case	photo	in
+det	photo	this
+nmod:in	guys	photo
+cc	guys	and
+nsubj	play	they
+nsubj	play	both
+conj:and	guys	play
+advmod	play	outside
+punct	are	.

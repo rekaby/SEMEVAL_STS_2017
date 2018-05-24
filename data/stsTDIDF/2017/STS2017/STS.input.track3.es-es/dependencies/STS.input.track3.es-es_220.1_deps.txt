@@ -1,0 +1,11 @@
+det	man	A
+amod	man	young
+nsubj	plays	man
+case	shirt	in
+det	shirt	an
+amod	shirt	orange
+nmod:in	man	shirt
+root	ROOT	plays
+det	tuba	the
+dobj	plays	tuba
+punct	plays	.

@@ -1,0 +1,13 @@
+det	trigger	What
+dobj	use	trigger
+aux	use	do
+nsubj	use	you
+root	ROOT	use
+mark	get	to
+xcomp	use	get
+compound:prt	get	up
+advmod	get	early
+case	morning	in
+det	morning	the
+nmod:in	early	morning
+punct	use	?

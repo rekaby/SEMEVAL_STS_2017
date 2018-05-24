@@ -1,0 +1,7 @@
+nsubj	returns	China
+compound	returns	trade
+root	ROOT	returns
+case	surplus	to
+nmod:to	returns	surplus
+case	March	in
+nmod:in	returns	March

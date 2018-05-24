@@ -1,0 +1,15 @@
+compound	voltage	Measuring
+nsubj	indicates	voltage
+root	ROOT	indicates
+det	place	the
+dobj	indicates	place
+amod	place	where
+det	changes	the
+amod	changes	electrical
+compound	changes	state
+dep	where	changes
+amod	changes	due
+case	gap	to
+det	gap	a
+nmod:to	due	gap
+punct	indicates	.

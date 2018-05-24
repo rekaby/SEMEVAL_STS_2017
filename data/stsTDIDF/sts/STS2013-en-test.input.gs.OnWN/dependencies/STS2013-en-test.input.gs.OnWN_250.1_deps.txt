@@ -1,0 +1,10 @@
+root	ROOT	accept
+punct	accept	,
+dep	accept	acclimate
+cc	acclimate	or
+conj:or	acclimate	adapt
+case	context	to
+det	context	a
+nmod:to	adapt	context
+punct	accept	,
+dep	accept	situation

@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+det	couple	a
+nsubj	are	couple
+dep	couple	things
+nsubj	try	you
+aux	try	can
+acl:relcl	things	try
+punct	are	.

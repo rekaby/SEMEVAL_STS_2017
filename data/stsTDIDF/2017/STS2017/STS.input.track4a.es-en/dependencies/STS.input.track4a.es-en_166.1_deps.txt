@@ -1,0 +1,10 @@
+nsubj	completes	He
+advmod	completes	successfully
+root	ROOT	completes
+det	set	a
+dobj	completes	set
+case	moves	of
+amod	moves	martial
+compound	moves	arts
+nmod:of	set	moves
+punct	completes	.

@@ -1,0 +1,7 @@
+nsubj	gets	Activist
+root	ROOT	gets
+nummod	years	10
+nsubj	insult	years
+case	king	for
+nmod:for	years	king
+dep	gets	insult

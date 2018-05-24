@@ -1,0 +1,15 @@
+det	man	A
+root	ROOT	man
+case	swings	in
+det	swings	a
+compound	swings	maroon
+compound	swings	bathing
+compound	swings	suit
+nmod:in	man	swings
+case	rope	on
+det	rope	a
+nmod:on	swings	rope
+case	lake	on
+det	lake	a
+nmod:on	rope	lake
+punct	man	.

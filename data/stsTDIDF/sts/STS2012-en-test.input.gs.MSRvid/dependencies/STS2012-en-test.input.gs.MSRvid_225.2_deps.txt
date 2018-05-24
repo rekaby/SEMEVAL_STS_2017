@@ -1,0 +1,11 @@
+det	men	The
+nsubj	putting	men
+aux	putting	are
+root	ROOT	putting
+dobj	putting	suitcases
+case	trunk	into
+det	car	the
+nmod:poss	trunk	car
+case	car	's
+nmod:into	putting	trunk
+punct	putting	.

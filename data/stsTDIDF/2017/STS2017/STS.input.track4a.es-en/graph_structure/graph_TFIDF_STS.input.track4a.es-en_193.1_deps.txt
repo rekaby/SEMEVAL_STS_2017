@@ -1,0 +1,5 @@
+competitors	Two	nummod
+race	.	punct
+race	competitors	nsubj
+race	are	cop
+ROOT	race	root

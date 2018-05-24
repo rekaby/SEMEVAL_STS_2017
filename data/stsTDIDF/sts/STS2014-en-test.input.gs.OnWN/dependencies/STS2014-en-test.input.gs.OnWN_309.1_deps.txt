@@ -1,0 +1,7 @@
+root	ROOT	leave
+xcomp	leave	isolated
+case	hope	with
+amod	hope	little
+nmod:with	isolated	hope
+case	rescue	of
+nmod:of	hope	rescue

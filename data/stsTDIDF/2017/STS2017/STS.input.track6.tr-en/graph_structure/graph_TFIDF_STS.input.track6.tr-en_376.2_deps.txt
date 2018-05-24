@@ -1,0 +1,5 @@
+ROOT	skates	root
+skates	sidewalk	nmod:on
+skates	.	punct
+skates	boy	nsubj
+sidewalk	on	case

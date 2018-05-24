@@ -1,0 +1,7 @@
+root	ROOT	having
+dobj	having	skin
+amod	skin	rich
+case	pigments	in
+compound	pigments	melanin
+nmod:in	rich	pigments
+punct	having	;

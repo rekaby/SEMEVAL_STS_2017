@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	are	boy
+cc	boy	and
+det	dog	a
+conj:and	boy	dog
+root	ROOT	are
+advmod	are	out
+punct	are	.

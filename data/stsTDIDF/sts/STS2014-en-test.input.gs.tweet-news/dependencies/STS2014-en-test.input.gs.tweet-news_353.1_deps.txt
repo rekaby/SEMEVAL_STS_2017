@@ -1,0 +1,10 @@
+det	tricks	The
+nsubj	#dealbook	tricks
+mark	moving	of
+acl	tricks	moving
+case	Street	from
+compound	Street	Wall
+nmod:from	moving	Street
+case	Tech	to
+nmod:to	moving	Tech
+root	ROOT	#dealbook

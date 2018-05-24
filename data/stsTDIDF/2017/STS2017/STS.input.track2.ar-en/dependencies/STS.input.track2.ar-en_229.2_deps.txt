@@ -1,0 +1,13 @@
+compound	stand	Bride
+root	ROOT	stand
+case	photos	for
+nmod:for	stand	photos
+case	members	with
+nmod:with	photos	members
+case	family	of
+nmod:poss	family	her
+amod	husband	new
+nmod:poss	family	husband
+case	husband	's
+nmod:of	members	family
+punct	stand	.

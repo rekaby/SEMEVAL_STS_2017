@@ -1,0 +1,13 @@
+det	person	A
+nsubj	pouring	person
+aux	pouring	is
+root	ROOT	pouring
+amod	oil	olive
+dobj	pouring	oil
+case	pot	into
+det	pot	a
+nmod:into	pouring	pot
+case	stove	on
+det	stove	the
+nmod:on	pot	stove
+punct	pouring	.

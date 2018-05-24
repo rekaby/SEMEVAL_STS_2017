@@ -1,0 +1,14 @@
+det	woman	A
+amod	woman	black
+nsubj	sitting	woman
+cc	woman	and
+nummod	children	two
+amod	children	black
+conj:and	woman	children
+aux	sitting	are
+root	ROOT	sitting
+case	tent	in
+det	tent	a
+amod	tent	thatched
+nmod:in	sitting	tent
+punct	sitting	.

@@ -1,0 +1,13 @@
+nsubj	approves	Israel
+root	ROOT	approves
+dobj	approves	release
+case	group	of
+amod	group	first
+nmod:of	release	group
+case	prisoners	of
+amod	prisoners	Palestinian
+nmod:of	group	prisoners
+advmod	approves	ahead
+case	peace	of
+nmod:of	ahead	peace
+dobj	approves	talks

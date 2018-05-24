@@ -1,0 +1,6 @@
+root	ROOT	Room
+case	monitors	with
+amod	monitors	several
+compound	monitors	computer
+nmod:with	Room	monitors
+punct	Room	.

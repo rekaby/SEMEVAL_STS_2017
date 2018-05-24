@@ -1,0 +1,9 @@
+det	dog	A
+nsubj	taking	dog
+root	ROOT	taking
+det	poop	a
+dobj	taking	poop
+case	street	in
+det	street	the
+nmod:in	taking	street
+punct	taking	.

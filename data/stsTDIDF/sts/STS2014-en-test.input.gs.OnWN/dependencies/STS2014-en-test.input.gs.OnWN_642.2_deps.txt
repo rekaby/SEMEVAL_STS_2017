@@ -1,0 +1,11 @@
+det	condition	the
+root	ROOT	condition
+case	living	of
+nmod:of	condition	living
+cc	living	or
+det	state	the
+conj:or	living	state
+mark	alive	of
+cop	alive	being
+acl	state	alive
+punct	condition	.

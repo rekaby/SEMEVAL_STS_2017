@@ -1,0 +1,22 @@
+compound	Miami	Info
+nmod:poss	District	Miami
+case	Miami	's
+compound	District	Design
+nsubj	Looks	District
+root	ROOT	Looks
+case	Upgrade	for
+det	Upgrade	an
+nmod:for	Looks	Upgrade
+punct	Looks	:
+compound	renovation	A
+amod	renovation	proposed
+amod	renovation	$
+compound	million	312
+nummod	$	million
+nsubjpass	expected	renovation
+auxpass	expected	is
+parataxis	Looks	expected
+mark	transform	to
+xcomp	expected	transform
+dobj	transform	t.
+punct	Looks	.-22) root(ROOT-0, .

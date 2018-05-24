@@ -1,0 +1,17 @@
+det	woman	A
+nsubj	walkway	woman
+acl	woman	wearing
+det	skirt	a
+amod	skirt	blue
+dobj	wearing	skirt
+cop	walkway	is
+case	walkway	on
+det	walkway	a
+root	ROOT	walkway
+acl	walkway	looking
+case	body	at
+det	body	a
+nmod:at	looking	body
+case	water	of
+nmod:of	body	water
+punct	walkway	.

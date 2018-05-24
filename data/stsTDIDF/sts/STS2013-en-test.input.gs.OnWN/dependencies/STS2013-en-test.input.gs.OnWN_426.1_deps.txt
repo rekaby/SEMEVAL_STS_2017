@@ -1,0 +1,7 @@
+det	person	a
+root	ROOT	person
+nsubj	explosives	who
+compound	explosives	plants
+cc	plants	or
+conj:or	plants	detonates
+acl:relcl	person	explosives

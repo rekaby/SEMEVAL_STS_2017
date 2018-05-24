@@ -1,0 +1,12 @@
+det	passengers	The
+nsubj	riding	passengers
+aux	riding	are
+root	ROOT	riding
+case	trailer	in
+det	trailer	the
+nmod:in	riding	trailer
+acl	trailer	connected
+case	tractor	to
+det	tractor	the
+nmod:to	connected	tractor
+punct	riding	.

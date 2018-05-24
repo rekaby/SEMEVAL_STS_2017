@@ -1,0 +1,11 @@
+root	ROOT	exempt
+cc	exempt	or
+conj:or	exempt	free
+case	burden	from
+det	burden	a
+nmod:from	exempt	burden
+punct	burden	,
+conj:or	burden	duty
+punct	burden	,
+cc	burden	or
+conj:or	burden	requirement

@@ -1,0 +1,11 @@
+compound	speech	Free
+nsubj	right	speech
+cop	right	is
+det	right	a
+amod	right	basic
+amod	right	democratic
+root	ROOT	right
+case	France	except
+case	France	in
+nmod:in	right	France
+dep	right	#Twitter

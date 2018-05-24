@@ -1,0 +1,10 @@
+det	monks	The
+nsubj	playing	monks
+aux	playing	were
+root	ROOT	playing
+compound	rope	jump
+dobj	playing	rope
+case	road	on
+det	road	the
+nmod:on	playing	road
+punct	playing	.

@@ -1,0 +1,4 @@
+root	ROOT	Quotations
+case	day	of
+det	day	the
+nmod:of	Quotations	day

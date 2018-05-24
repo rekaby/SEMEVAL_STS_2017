@@ -1,0 +1,5 @@
+nsubj	walk	Friends
+root	ROOT	walk
+case	building	into
+det	building	a
+nmod:into	walk	building

@@ -1,0 +1,8 @@
+det	weapon	A
+amod	weapon	nuclear
+nsubj	explodes	weapon
+root	ROOT	explodes
+case	desert	in
+det	desert	a
+nmod:in	explodes	desert
+punct	explodes	.

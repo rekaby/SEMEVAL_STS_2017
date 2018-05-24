@@ -1,0 +1,8 @@
+ramp	a	det
+does	skater	nsubj
+skater	roller	compound
+tricks	ramp	nmod:off
+skater	A	det
+does	tricks	dobj
+ramp	off	case
+tricks	various	amod

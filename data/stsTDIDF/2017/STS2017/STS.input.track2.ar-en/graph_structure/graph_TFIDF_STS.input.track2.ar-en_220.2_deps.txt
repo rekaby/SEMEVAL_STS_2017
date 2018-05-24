@@ -1,0 +1,7 @@
+tiled	Bahia	dobj
+walk	women	nsubj
+Bahia	Babaouat	compound
+building	through	case
+walk	building	nmod:through
+walk	tiled	dep
+women	Many	amod

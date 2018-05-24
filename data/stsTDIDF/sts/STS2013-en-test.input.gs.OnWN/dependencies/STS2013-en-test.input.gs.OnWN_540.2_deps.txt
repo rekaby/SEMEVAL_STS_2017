@@ -1,0 +1,6 @@
+root	ROOT	lessen
+case	force	in
+nmod:in	lessen	force
+cc	force	or
+conj:or	force	effect
+punct	lessen	.

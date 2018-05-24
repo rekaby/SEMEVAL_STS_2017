@@ -1,0 +1,15 @@
+nsubj	specific	I
+aux	specific	will
+cop	specific	be
+root	ROOT	specific
+mark	answering	to
+advcl	specific	answering
+det	part	the
+dobj	answering	part
+case	prediction	regarding
+det	prediction	the
+nmod:regarding	part	prediction
+case	flares	of
+amod	flares	solar
+nmod:of	prediction	flares
+punct	specific	.

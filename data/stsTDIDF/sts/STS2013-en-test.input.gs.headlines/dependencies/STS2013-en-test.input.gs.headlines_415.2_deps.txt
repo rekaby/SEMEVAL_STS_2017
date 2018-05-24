@@ -1,0 +1,9 @@
+compound	Anna	Team
+nsubj	decide	Anna
+advmod	decide	yet
+mark	decide	to
+root	ROOT	decide
+mark	contesting	on
+advcl	decide	contesting
+compound	polls	state
+dobj	contesting	polls

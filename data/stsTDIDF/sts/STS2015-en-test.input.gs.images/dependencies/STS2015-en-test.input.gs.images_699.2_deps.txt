@@ -1,0 +1,17 @@
+det	dog	a
+amod	dog	black
+cc	black	and
+conj:and	black	white
+root	ROOT	dog
+acl	dog	walking
+case	grass	through
+det	grass	the
+nmod:through	walking	grass
+case	stick	with
+det	stick	a
+amod	stick	long
+nmod:with	walking	stick
+case	mouth	in
+nmod:poss	mouth	his
+nmod:in	stick	mouth
+punct	dog	.

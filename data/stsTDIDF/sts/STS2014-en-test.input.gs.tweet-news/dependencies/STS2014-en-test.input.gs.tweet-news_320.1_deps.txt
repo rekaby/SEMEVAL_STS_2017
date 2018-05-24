@@ -1,0 +1,24 @@
+compound	Abby	Dear
+nsubj	Dies	Abby
+punct	Dies	,
+root	ROOT	Dies
+case	94	at
+nmod:at	Dies	94
+punct	Dies	.-7) compound(Abby-2, Dear
+root	ROOT	Abby
+punct	Abby	:
+cop	deductible	Are
+compound	pills	birth
+compound	pills	control
+nsubj	deductible	pills
+dep	Abby	deductible
+punct	deductible	?-9) compound(Bertie-3, Bertie
+compound	Bertie	Dear
+root	ROOT	Bertie
+punct	Bertie	:
+advmod	don?t	Only
+mark	don?t	if
+nsubj	don?t	they
+dep	Bertie	don?t
+dobj	don?t	work
+punct	Bertie	.

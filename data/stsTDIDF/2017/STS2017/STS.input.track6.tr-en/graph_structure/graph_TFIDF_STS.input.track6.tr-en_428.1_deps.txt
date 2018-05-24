@@ -1,0 +1,12 @@
+ROOT	guys	root
+chairs	in	case
+woman	one	nummod
+attentively	right	nmod:to
+guys	.	punct
+sitting	chairs	nmod:in
+guys	and	cc
+woman	sitting	acl
+chairs	looking	acl
+guys	woman	conj:and
+guys	Three	nummod
+looking	attentively	advmod

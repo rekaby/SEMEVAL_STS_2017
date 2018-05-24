@@ -1,0 +1,9 @@
+root	ROOT	Crash
+case	MH17	of
+compound	MH17	Malaysia
+compound	MH17	Airlines
+compound	MH17	Flight
+nmod:of	Crash	MH17
+case	Ukraine	in
+compound	Ukraine	Eastern
+nmod:in	Crash	Ukraine

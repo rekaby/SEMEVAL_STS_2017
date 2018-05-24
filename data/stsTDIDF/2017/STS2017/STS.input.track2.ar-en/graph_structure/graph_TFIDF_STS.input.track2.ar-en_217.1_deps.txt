@@ -1,0 +1,13 @@
+courtyard	a	det
+people	standing	acl
+tour	on	case
+balconies	on	case
+standing	courtyard	nmod:in
+people	at	case
+people	out	advmod
+tour	looking	acl
+courtyard	in	case
+people	balconies	nmod:on
+balconies	above	advmod
+looking	people	nmod:at
+standing	tour	nmod:on

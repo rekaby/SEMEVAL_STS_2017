@@ -1,0 +1,9 @@
+det	man	The
+nsubj	holds	man
+root	ROOT	holds
+det	microphone	the
+dobj	holds	microphone
+case	woman	for
+det	woman	the
+nmod:for	microphone	woman
+punct	holds	.

@@ -1,0 +1,12 @@
+det	sequence	a
+compound	sequence	set
+root	ROOT	sequence
+case	steps	of
+nmod:of	sequence	steps
+punct	sequence	,
+appos	sequence	part
+case	program	of
+amod	program	larger
+compound	program	computer
+nmod:of	part	program
+punct	sequence	.

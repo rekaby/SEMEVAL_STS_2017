@@ -1,0 +1,7 @@
+compound	Holder	US
+compound	Holder	Attorney
+amod	Holder	general
+compound	Holder	Eric
+nsubj	resign	Holder
+mark	resign	to
+root	ROOT	resign

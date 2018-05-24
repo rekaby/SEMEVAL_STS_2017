@@ -1,0 +1,12 @@
+root	ROOT	No
+punct	No	.-2) compound(nullification-2, Jury
+nsubj	mean	nullification
+aux	mean	does
+neg	mean	not
+root	ROOT	mean
+mark	unconstuitutional	that
+det	law	a
+nsubj	unconstuitutional	law
+cop	unconstuitutional	is
+ccomp	mean	unconstuitutional
+punct	mean	.

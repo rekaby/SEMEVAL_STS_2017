@@ -1,0 +1,14 @@
+det	preservation	the
+root	ROOT	preservation
+conj:and	preservation	preservation
+cc	preservation	and
+amod	management	careful
+conj:and	preservation	management
+case	environment	of
+det	environment	the
+nmod:of	preservation	environment
+cc	preservation	and
+case	resources	of
+amod	resources	natural
+nmod:of	preservation	resources
+punct	preservation	.

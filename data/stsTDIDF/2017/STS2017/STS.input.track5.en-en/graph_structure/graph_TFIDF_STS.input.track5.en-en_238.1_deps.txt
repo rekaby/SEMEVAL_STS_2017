@@ -1,0 +1,5 @@
+pair	men	nmod:of
+walk	pair	nsubj
+walk	beach	nmod:along
+beach	along	case
+pair	A	det

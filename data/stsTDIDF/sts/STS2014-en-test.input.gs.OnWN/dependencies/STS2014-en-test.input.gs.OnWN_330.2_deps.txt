@@ -1,0 +1,7 @@
+root	ROOT	separate
+cc	separate	or
+conj:or	separate	cause
+mark	separate	to
+xcomp	separate	separate
+advmod	separate	abruptly
+punct	separate	.

@@ -1,0 +1,9 @@
+nummod	woman	One
+nsubj	measuring	woman
+aux	measuring	is
+root	ROOT	measuring
+det	woman	another
+nmod:poss	ankle	woman
+case	woman	's
+dobj	measuring	ankle
+punct	measuring	.

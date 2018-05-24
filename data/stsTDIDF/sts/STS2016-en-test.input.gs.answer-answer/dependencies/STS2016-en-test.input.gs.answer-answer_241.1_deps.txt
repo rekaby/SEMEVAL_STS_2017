@@ -1,0 +1,11 @@
+nsubj	have	You
+aux	have	may
+root	ROOT	have
+case	experiment	to
+nmod:to	have	experiment
+cc	have	and
+conj:and	have	find
+dobj	like	what
+nsubj	like	you
+ccomp	find	like
+punct	have	.

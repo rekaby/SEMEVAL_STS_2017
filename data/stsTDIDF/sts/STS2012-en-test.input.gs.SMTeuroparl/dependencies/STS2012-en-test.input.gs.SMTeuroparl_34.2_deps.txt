@@ -1,0 +1,16 @@
+nsubj	fact	It
+aux	fact	has
+case	fact	in
+root	ROOT	fact
+dep	fact	increased
+det	power	the
+dobj	increased	power
+case	countries	of
+amod	countries	large
+nmod:of	power	countries
+case	detriment	to
+det	detriment	the
+nmod:to	increased	detriment
+case	small	of
+nmod:of	detriment	small
+punct	fact	.

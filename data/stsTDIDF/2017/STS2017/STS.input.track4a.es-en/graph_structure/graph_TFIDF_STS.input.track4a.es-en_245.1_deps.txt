@@ -1,0 +1,11 @@
+ROOT	pumping	root
+pumping	man	nsubj
+bicycle	his	nmod:poss
+tires	on	case
+pumping	.	punct
+pumping	tires	nmod:on
+pumping	air	dobj
+bicycle	of	case
+tires	the	det
+tires	bicycle	nmod:of
+pumping	is	aux

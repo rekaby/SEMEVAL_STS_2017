@@ -1,0 +1,12 @@
+det	fact	a
+root	ROOT	fact
+cc	fact	or
+conj:or	fact	assertion
+acl	fact	offered
+case	evidence	as
+nmod:as	offered	evidence
+mark	true	that
+nsubj	true	something
+cop	true	is
+ccomp	evidence	true
+punct	fact	.

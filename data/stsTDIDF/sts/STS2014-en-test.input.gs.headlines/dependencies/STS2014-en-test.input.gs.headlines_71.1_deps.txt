@@ -1,0 +1,10 @@
+root	ROOT	`
+case	dead	Around
+nummod	dead	100
+nmod:around	`	dead
+cc	dead	or
+conj:or	dead	injured
+punct	dead	'
+case	earthquake	after
+compound	earthquake	China
+nmod:after	dead	earthquake

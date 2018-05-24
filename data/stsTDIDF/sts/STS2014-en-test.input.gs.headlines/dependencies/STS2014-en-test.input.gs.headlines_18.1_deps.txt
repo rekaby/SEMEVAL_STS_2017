@@ -1,0 +1,10 @@
+nsubj	clash	Palestinians
+root	ROOT	clash
+case	forces	with
+amod	forces	Israeli
+nmod:with	clash	forces
+case	Bank	in
+compound	Bank	West
+nmod:in	forces	Bank
+punct	clash	,
+nmod:tmod	clash	Jerusalem

@@ -1,0 +1,15 @@
+nsubj	arrives	He
+root	ROOT	arrives
+advmod	week	later
+det	week	this
+nmod:tmod	arrives	week
+case	visit	on
+det	visit	the
+amod	visit	first
+compound	visit	state
+nmod:on	arrives	visit
+case	President	by
+det	President	a
+compound	President	US
+nmod:by	visit	President
+punct	arrives	.

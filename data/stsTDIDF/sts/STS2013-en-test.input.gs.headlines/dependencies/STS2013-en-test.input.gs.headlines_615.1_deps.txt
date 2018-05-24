@@ -1,0 +1,8 @@
+compound	Crisis	Germany
+advmod	Syrian	Likely
+case	Russia	to
+compound	Russia	Press
+nmod:to	Likely	Russia
+case	Syrian	on
+amod	Crisis	Syrian
+root	ROOT	Crisis

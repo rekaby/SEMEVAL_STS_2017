@@ -1,0 +1,7 @@
+root	ROOT	prevent
+mark	entering	from
+advcl	prevent	entering
+punct	entering	;
+parataxis	entering	keep
+compound:prt	keep	out
+punct	prevent	.

@@ -1,0 +1,14 @@
+dep	say	Teen
+acl	Teen	murdered
+case	Bank	in
+compound	Bank	West
+nmod:in	murdered	Bank
+case	force	by
+compound	force	Israeli
+amod	force	military
+compound	force	occupation
+nmod:by	murdered	force
+punct	say	,
+nsubj	say	activists
+root	ROOT	say
+punct	say	-

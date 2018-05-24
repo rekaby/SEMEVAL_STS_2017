@@ -1,0 +1,8 @@
+root	ROOT	Egypt
+mark	hold	to
+acl	Egypt	hold
+amod	elections	presidential
+dobj	hold	elections
+case	polls	before
+amod	polls	parliamentary
+nmod:before	hold	polls

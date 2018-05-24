@@ -1,0 +1,15 @@
+det	plant	The
+nsubj	employ	plant
+aux	employ	would
+ccomp	said	employ
+nummod	people	1,000
+dobj	employ	people
+advmod	built	when
+advmod	built	fully
+advcl	employ	built
+compound:prt	built	out
+punct	said	,
+det	company	the
+nsubj	said	company
+root	ROOT	said
+punct	said	.

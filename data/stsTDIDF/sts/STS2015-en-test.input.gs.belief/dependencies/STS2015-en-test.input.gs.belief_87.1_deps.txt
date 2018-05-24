@@ -1,0 +1,8 @@
+nsubj	mean	i
+root	ROOT	mean
+punct	mean	,
+cop	student	being
+det	student	a
+compound	student	history
+xcomp	mean	student
+punct	mean	.-8) root(ROOT-0, .

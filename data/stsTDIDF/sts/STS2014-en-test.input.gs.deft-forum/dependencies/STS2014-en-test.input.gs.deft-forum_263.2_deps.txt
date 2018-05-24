@@ -1,0 +1,8 @@
+nsubj	part	Obama
+cop	part	is
+root	ROOT	part
+case	leftwing	of
+det	leftwing	the
+amod	leftwing	extreme
+nmod:of	part	leftwing
+punct	part	.

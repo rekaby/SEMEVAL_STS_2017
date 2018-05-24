@@ -1,0 +1,6 @@
+compound	game	Night
+root	ROOT	game
+case	league	in
+det	league	the
+amod	league	small
+nmod:in	game	league

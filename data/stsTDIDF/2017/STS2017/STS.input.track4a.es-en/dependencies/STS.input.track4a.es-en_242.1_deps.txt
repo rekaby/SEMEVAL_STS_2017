@@ -1,0 +1,14 @@
+det	group	A
+nsubj	watches	group
+case	people	of
+nmod:of	group	people
+root	ROOT	watches
+case	bride	as
+det	bride	the
+nmod:as	vows	bride
+cc	bride	and
+compound	exchange	groom
+conj:and	bride	exchange
+nmod:poss	vows	their
+dobj	watches	vows
+punct	watches	.

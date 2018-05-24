@@ -1,0 +1,8 @@
+nsubj	putting	Someone
+aux	putting	is
+root	ROOT	putting
+dobj	putting	ingredients
+case	wok	into
+det	wok	a
+nmod:into	putting	wok
+punct	putting	.

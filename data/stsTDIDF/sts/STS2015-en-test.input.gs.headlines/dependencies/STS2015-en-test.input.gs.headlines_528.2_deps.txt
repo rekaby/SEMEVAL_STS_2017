@@ -1,0 +1,8 @@
+amod	PM	Turkish
+nsubj	tells	PM
+root	ROOT	tells
+dobj	tells	supporters
+mark	prepare	to
+xcomp	tells	prepare
+case	rallies	for
+nmod:for	prepare	rallies

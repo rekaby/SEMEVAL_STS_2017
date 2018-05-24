@@ -1,0 +1,13 @@
+case	others	On
+nmod:on	gained	others
+nsubj	reason	who
+cop	reason	are
+advmod	reason	unfortunately
+case	reason	in
+det	reason	the
+acl:relcl	others	reason
+case	vengeance	of
+det	vengeance	a
+nmod:of	reason	vengeance
+root	ROOT	gained
+punct	gained	.

@@ -1,0 +1,17 @@
+case	system	In
+det	system	a
+punct	system	``
+amod	system	first-past-the-post
+punct	system	''
+nmod:in	difficult	system
+punct	difficult	,
+nsubj	difficult	it
+cop	difficult	is
+root	ROOT	difficult
+mark	sustain	to
+xcomp	difficult	sustain
+advmod	two	more
+mwe	more	than
+nummod	parties	two
+dobj	sustain	parties
+punct	difficult	.

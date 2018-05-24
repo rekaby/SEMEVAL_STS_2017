@@ -1,0 +1,6 @@
+nummod	signs	09:32
+compound	signs	Putin
+root	ROOT	signs
+case	annexation	off
+compound	annexation	Crimea
+nmod:off	signs	annexation

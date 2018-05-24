@@ -1,0 +1,12 @@
+dobj	saw	What
+det	Pope	the
+nmod:poss	butler	Pope
+case	Pope	's
+nsubj	saw	butler
+root	ROOT	saw
+punct	aide	--
+dobj	saw	aide
+acl	aide	arrested
+case	leaks	over
+compound	leaks	Vatican
+nmod:over	arrested	leaks

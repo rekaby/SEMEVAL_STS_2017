@@ -1,0 +1,16 @@
+nmod:tmod	starting	Today
+nsubj	starting	we
+aux	starting	are
+root	ROOT	starting
+case	March	in
+nmod:in	starting	March
+nsubj	end	we
+ccomp	starting	end
+punct	end	,
+case	June	in
+nmod:in	end	June
+nsubj	learn	we
+parataxis	end	learn
+det	sums	the
+dobj	learn	sums
+punct	starting	.

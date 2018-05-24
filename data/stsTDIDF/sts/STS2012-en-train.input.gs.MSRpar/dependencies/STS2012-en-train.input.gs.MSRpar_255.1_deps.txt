@@ -1,0 +1,17 @@
+csubj	presence	Complicating
+det	situation	the
+dobj	Complicating	situation
+cop	presence	is
+det	presence	the
+root	ROOT	presence
+case	Liberians	of
+amod	Liberians	battle-hardened
+nmod:of	presence	Liberians
+nsubj	fighting	who
+aux	fighting	have
+aux	fighting	been
+acl:relcl	Liberians	fighting
+case	sides	on
+det	sides	both
+nmod:on	fighting	sides
+punct	presence	.

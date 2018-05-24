@@ -1,0 +1,11 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nummod	people	four
+nmod:of	group	people
+case	dinner	in
+det	dinner	a
+nmod:in	group	dinner
+acl	dinner	having
+dobj	having	cake
+punct	group	.

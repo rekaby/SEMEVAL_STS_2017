@@ -1,0 +1,7 @@
+compound	president	Algerian
+root	ROOT	president
+case	France	in
+nmod:in	president	France
+case	tests	for
+amod	tests	medical
+nmod:for	president	tests

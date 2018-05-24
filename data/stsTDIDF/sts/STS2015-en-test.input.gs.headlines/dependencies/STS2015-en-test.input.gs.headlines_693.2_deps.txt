@@ -1,0 +1,14 @@
+root	ROOT	AstraZeneca
+mark	buy	to
+acl	AstraZeneca	buy
+dobj	buy	Bristol
+case	venture	out
+mwe	out	of
+compound	venture	diabetes
+nmod:out_of	buy	venture
+case	$	for
+advmod	$	up
+case	$	to
+nmod:to	buy	$
+compound	billion	4.1
+nummod	$	billion

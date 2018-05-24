@@ -1,0 +1,9 @@
+det	back	The
+nsubj	on	back
+case	sign	of
+det	sign	a
+nmod:of	back	sign
+case	stickers	with
+nmod:with	sign	stickers
+root	ROOT	on
+punct	on	.

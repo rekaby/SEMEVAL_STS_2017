@@ -1,0 +1,8 @@
+root	ROOT	let
+cc	let	or
+conj:or	let	cause
+mark	fall	to
+xcomp	let	fall
+case	drops	in
+nmod:in	fall	drops
+punct	let	.

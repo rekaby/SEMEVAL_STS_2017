@@ -1,0 +1,13 @@
+nsubj	undeniable	It
+cop	undeniable	is
+root	ROOT	undeniable
+mark	reached	that
+nsubj	reached	intolerance
+ccomp	undeniable	reached
+case	meetings	until
+det	meetings	the
+nmod:until	reached	meetings
+det	Government	the
+amod	Government	Turkish
+dep	meetings	Government
+punct	undeniable	.

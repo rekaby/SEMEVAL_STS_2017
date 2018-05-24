@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	frying	woman
+aux	frying	is
+root	ROOT	frying
+det	pork	a
+amod	pork	breaded
+nsubj	chop	pork
+ccomp	frying	chop
+punct	frying	.

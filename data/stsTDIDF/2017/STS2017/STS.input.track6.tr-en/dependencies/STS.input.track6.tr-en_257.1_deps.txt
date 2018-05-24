@@ -1,0 +1,7 @@
+det	lady	A
+nsubj	climbing	lady
+aux	climbing	is
+root	ROOT	climbing
+det	mountain	a
+dobj	climbing	mountain
+punct	climbing	.

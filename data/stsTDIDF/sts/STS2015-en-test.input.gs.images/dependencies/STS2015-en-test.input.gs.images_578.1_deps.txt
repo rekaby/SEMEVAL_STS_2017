@@ -1,0 +1,8 @@
+det	wades	A
+amod	wades	brown
+compound	wades	dog
+root	ROOT	wades
+case	water	in
+det	water	the
+nmod:in	wades	water
+punct	wades	.

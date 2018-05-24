@@ -1,0 +1,6 @@
+root	ROOT	provide
+case	soundtrack	with
+det	soundtrack	a
+nmod:with	provide	soundtrack
+cc	soundtrack	or
+conj:or	soundtrack	voiceover

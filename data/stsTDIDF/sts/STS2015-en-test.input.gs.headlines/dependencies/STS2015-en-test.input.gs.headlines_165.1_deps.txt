@@ -1,0 +1,6 @@
+amod	teens	Israeli
+root	ROOT	teens
+acl	teens	missing
+case	Bank	in
+compound	Bank	West
+nmod:in	missing	Bank

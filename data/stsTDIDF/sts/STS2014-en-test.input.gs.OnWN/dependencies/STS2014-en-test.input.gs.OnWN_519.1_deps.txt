@@ -1,0 +1,6 @@
+root	ROOT	request
+cc	request	or
+conj:or	request	demand
+dobj	request	something
+case	someone	from
+nmod:from	something	someone

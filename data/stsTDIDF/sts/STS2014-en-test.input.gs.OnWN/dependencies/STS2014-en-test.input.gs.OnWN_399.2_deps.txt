@@ -1,0 +1,6 @@
+root	ROOT	get
+case	difficulties	despite
+nmod:despite	get	difficulties
+cc	difficulties	or
+conj:or	difficulties	obstacles
+punct	get	.

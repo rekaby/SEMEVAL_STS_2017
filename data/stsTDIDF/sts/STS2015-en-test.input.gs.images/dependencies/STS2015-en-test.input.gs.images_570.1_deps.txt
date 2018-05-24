@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	small
+amod	dog	white
+nsubj	play	dog
+cc	dog	and
+amod	dog	large
+amod	dog	brown
+conj:and	dog	dog
+root	ROOT	play
+case	grass	on
+det	grass	the
+nmod:on	play	grass
+punct	play	.

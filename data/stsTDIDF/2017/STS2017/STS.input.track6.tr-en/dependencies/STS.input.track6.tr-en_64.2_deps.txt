@@ -1,0 +1,8 @@
+expl	is	There
+root	ROOT	is
+det	person	a
+nsubj	is	person
+acl	person	wearing
+det	scarf	a
+dobj	wearing	scarf
+punct	is	.

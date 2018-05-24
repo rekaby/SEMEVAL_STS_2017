@@ -1,0 +1,5 @@
+det	children	The
+nsubj	eating	children
+aux	eating	are
+root	ROOT	eating
+dobj	eating	dinner

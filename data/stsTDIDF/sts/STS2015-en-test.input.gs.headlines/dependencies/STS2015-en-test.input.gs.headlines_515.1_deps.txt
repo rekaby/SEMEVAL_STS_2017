@@ -1,0 +1,8 @@
+amod	quake	6.3-magnitude
+nsubj	hits	quake
+root	ROOT	hits
+dobj	hits	Honshu
+punct	Honshu	,
+appos	Honshu	Japan
+punct	Honshu	:
+dep	Honshu	CENC

@@ -1,0 +1,14 @@
+root	ROOT	Q.
+conj:and	Q.	Q.
+cc	Q.	and
+conj:and	Q.	A.
+punct	Q.	:
+case	Cale	With
+compound	Cale	John
+nmod:with	Q.	Cale
+case	Paris	in
+nmod:in	Cale	Paris
+cc	Q.	and
+case	Borderline	Along
+det	Borderline	the
+nmod:along	Q.	Borderline

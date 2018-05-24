@@ -1,0 +1,17 @@
+compound	Niro	Hollywood
+compound	Niro	actor
+compound	Niro	Robert
+compound	Niro	De
+nsubjpass	diagnosed	Niro
+aux	diagnosed	has
+auxpass	diagnosed	been
+ccomp	said	diagnosed
+case	cancer	with
+compound	cancer	prostate
+nmod:with	diagnosed	cancer
+punct	said	,
+nmod:poss	spokesman	his
+nsubj	said	spokesman
+root	ROOT	said
+nmod:tmod	said	today
+punct	said	.

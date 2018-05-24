@@ -1,0 +1,9 @@
+nsubj	leaves	That
+root	ROOT	leaves
+det	opposition	the
+amod	opposition	conservative
+dobj	leaves	opposition
+case	response	without
+amod	response	effective
+nmod:without	leaves	response
+punct	leaves	.

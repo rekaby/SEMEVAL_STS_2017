@@ -1,0 +1,10 @@
+nmod:poss	Yanukovych	Ukraine
+case	Ukraine	's
+nsubj	says	Yanukovych
+root	ROOT	says
+nsubj	plan	he
+aux	plan	does
+neg	plan	not
+ccomp	says	plan
+mark	resign	to
+xcomp	plan	resign

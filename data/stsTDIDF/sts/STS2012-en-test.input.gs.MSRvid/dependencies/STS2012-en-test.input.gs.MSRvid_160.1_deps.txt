@@ -1,0 +1,8 @@
+det	animal	An
+nsubj	biting	animal
+aux	biting	is
+root	ROOT	biting
+det	finger	a
+compound	finger	persons
+dobj	biting	finger
+punct	biting	.

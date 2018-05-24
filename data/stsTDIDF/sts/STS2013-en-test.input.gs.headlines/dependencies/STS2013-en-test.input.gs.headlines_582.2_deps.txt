@@ -1,0 +1,5 @@
+compound	accident	China
+compound	accident	truck
+nsubj	kills	accident
+root	ROOT	kills
+dobj	kills	20

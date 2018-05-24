@@ -1,0 +1,5 @@
+amod	eruption	Volcanic
+nsubj	closes	eruption
+root	ROOT	closes
+nummod	airports	3
+dobj	closes	airports

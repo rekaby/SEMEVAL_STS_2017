@@ -1,0 +1,11 @@
+det	man	This
+nsubj	riding	man
+aux	riding	is
+root	ROOT	riding
+det	skateboard	a
+dobj	riding	skateboard
+case	jump	on
+det	jump	a
+compound	jump	bike
+nmod:on	riding	jump
+punct	riding	.

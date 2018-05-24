@@ -1,0 +1,11 @@
+root	ROOT	change
+det	nature	the
+dobj	change	nature
+punct	nature	,
+conj:or	nature	purpose
+punct	nature	,
+cc	nature	or
+conj:or	nature	function
+case	something	of
+nmod:of	function	something
+punct	change	.

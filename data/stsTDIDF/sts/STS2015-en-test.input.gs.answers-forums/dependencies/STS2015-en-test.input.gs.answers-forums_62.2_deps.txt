@@ -1,0 +1,17 @@
+amod	pepper	Black
+nsubj	differing	pepper
+cc	pepper	and
+amod	pepper	white
+conj:and	pepper	pepper
+aux	differing	are
+root	ROOT	differing
+dobj	differing	preparations
+case	fruit	of
+det	fruit	the
+nmod:of	preparations	fruit
+case	plant	of
+det	plant	the
+compound	plant	Piper
+compound	plant	nigrum
+nmod:of	fruit	plant
+punct	differing	.

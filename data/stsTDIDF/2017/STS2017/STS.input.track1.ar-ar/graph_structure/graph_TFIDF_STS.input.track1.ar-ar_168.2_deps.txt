@@ -1,0 +1,6 @@
+work	street	nmod:in
+ROOT	Workers	root
+work	out	case
+street	flooded	amod
+Workers	work	acl:out_of
+Workers	.	punct

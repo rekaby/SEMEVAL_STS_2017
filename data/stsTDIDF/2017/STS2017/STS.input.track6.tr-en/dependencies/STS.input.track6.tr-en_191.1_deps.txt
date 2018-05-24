@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	throwing	boy
+root	ROOT	throwing
+det	baseball	a
+amod	baseball	yellow
+dobj	throwing	baseball
+punct	throwing	.

@@ -1,0 +1,5 @@
+root	ROOT	make
+det	incision	an
+dobj	make	incision
+cc	incision	or
+conj:or	incision	separation

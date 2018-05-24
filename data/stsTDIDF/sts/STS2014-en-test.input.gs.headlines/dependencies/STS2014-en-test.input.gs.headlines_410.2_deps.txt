@@ -1,0 +1,10 @@
+compound	ton	Dhawan
+nsubj	sets	ton
+root	ROOT	sets
+compound:prt	sets	up
+compound	Trophy	India
+nsubj	win	Trophy
+ccomp	sets	win
+case	Africa	over
+compound	Africa	South
+nmod:over	win	Africa

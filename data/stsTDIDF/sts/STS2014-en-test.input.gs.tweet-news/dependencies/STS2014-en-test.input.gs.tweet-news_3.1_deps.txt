@@ -1,0 +1,22 @@
+root	ROOT	#Bloomberg
+punct	#Bloomberg	:
+compound	ban	Assault
+compound	ban	weapon
+compound	Pub	ban
+amod	Pub	tough
+compound	Pub	sell
+dep	#Bloomberg	Pub
+punct	#Bloomberg	.-9) root(ROOT-0, enemies
+dep	enemies	1
+cc	1	and
+conj:and	1	2
+case	mayor	according
+mwe	according	to
+amod	mayor	minor
+nmod:according_to	enemies	mayor
+punct	enemies	:
+compound	Gulps	Big
+dep	enemies	Gulps
+cc	Gulps	and
+conj:and	Gulps	#guns
+punct	enemies	.-14) root(ROOT-0, #ocra

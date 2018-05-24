@@ -1,0 +1,17 @@
+root	ROOT	Has
+det	effect	the
+dobj	Has	effect
+mark	increasing	of
+acl	effect	increasing
+det	power	the
+dobj	increasing	power
+case	large	of
+det	large	the
+nmod:of	power	large
+case	expense	at
+det	expense	the
+nmod:at	increasing	expense
+case	countries	of
+amod	countries	smaller
+nmod:of	expense	countries
+punct	Has	.

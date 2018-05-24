@@ -1,0 +1,5 @@
+ROOT	water	root
+water	woman	nsubj
+woman	boy	conj:and
+water	.	punct
+water	are	cop

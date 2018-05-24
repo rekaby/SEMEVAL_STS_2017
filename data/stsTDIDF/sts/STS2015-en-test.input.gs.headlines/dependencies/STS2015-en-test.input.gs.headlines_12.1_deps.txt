@@ -1,0 +1,9 @@
+nsubj	clash	Police
+root	ROOT	clash
+case	youth	with
+nmod:with	clash	youth
+case	Cairo	in
+nmod:in	clash	Cairo
+case	protest	after
+amod	protest	anti-Morsi
+nmod:after	clash	protest

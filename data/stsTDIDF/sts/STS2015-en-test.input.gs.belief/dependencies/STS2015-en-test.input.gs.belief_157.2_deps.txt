@@ -1,0 +1,16 @@
+mark	you	if
+nsubj	you	i
+cop	you	were
+advcl	embarassed	you
+punct	embarassed	,
+nsubjpass	embarassed	i
+aux	embarassed	'd
+auxpass	embarassed	be
+root	ROOT	embarassed
+mark	voice	to
+xcomp	embarassed	voice
+nmod:poss	ignorance	your
+dobj	voice	ignorance
+case	public	in
+nmod:in	voice	public
+punct	embarassed	.

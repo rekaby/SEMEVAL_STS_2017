@@ -1,0 +1,5 @@
+ROOT	dark	root
+dark	vest	nsubj
+dark	is	cop
+vest	The	det
+dark	.	punct

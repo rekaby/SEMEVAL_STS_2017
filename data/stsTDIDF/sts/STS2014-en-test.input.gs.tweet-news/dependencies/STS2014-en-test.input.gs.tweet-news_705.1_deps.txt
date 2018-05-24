@@ -1,0 +1,18 @@
+nsubj	wish	I
+root	ROOT	wish
+nsubj	see	I
+aux	see	could
+ccomp	wish	see
+dobj	see	this
+punct	wish	,
+nsubj	sounds	it
+parataxis	wish	sounds
+advmod	sounds	cool
+punct	wish	!-11) amod(Stage-2, Second
+nsubj	Adds	Stage
+root	ROOT	Adds
+punct	Loves	`
+nsubj	Loves	Nobody
+ccomp	Adds	Loves
+dobj	Loves	You
+punct	Loves	'

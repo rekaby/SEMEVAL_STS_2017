@@ -1,0 +1,11 @@
+compound	bombs	Israel
+punct	bombs	`
+nmod:poss	Syria	bombs
+case	bombs	'
+nsubj	bid	Syria
+mark	presses	as
+nsubj	presses	envoy
+acl	Syria	presses
+compound	talks	peace
+dobj	presses	talks
+root	ROOT	bid

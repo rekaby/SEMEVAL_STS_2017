@@ -1,0 +1,7 @@
+det	object	a
+amod	object	solid
+compound	object	3D
+root	ROOT	object
+case	sides	with
+amod	sides	rectangular
+nmod:with	object	sides

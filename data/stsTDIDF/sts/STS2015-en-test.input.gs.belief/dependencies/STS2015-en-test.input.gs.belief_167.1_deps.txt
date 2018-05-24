@@ -1,0 +1,11 @@
+advmod	bet	oh
+punct	bet	,
+nsubj	bet	i
+root	ROOT	bet
+nsubj	hope	he
+aux	hope	can
+nsubj	hope	i
+advmod	hope	truly
+ccomp	bet	hope
+neg	hope	not
+punct	bet	.

@@ -1,0 +1,16 @@
+expl	is	There
+root	ROOT	is
+det	description	a
+advmod	full	very
+amod	description	full
+nsubj	is	description
+case	types	of
+det	types	the
+amod	types	various
+nmod:of	description	types
+case	compound	of
+compound	compound	hormone
+amod	compound	rooting
+nmod:of	types	compound
+advmod	types	here
+punct	is	.

@@ -1,0 +1,7 @@
+advmod	??	How
+cop	??	is
+det	??	this
+acl	this	slanted
+case	Bush	against
+nmod:against	slanted	Bush
+root	ROOT	??

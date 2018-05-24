@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+nummod	people	two
+nsubj	are	people
+acl	people	looking
+case	book	at
+det	book	a
+nmod:at	looking	book
+punct	are	.

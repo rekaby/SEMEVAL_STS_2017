@@ -1,0 +1,10 @@
+det	dog	The
+amod	dog	black
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	grass	through
+det	grass	the
+amod	grass	tall
+nmod:through	walking	grass
+punct	walking	.

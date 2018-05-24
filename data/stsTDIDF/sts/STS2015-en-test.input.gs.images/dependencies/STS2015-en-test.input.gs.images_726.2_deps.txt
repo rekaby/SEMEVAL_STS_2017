@@ -1,0 +1,15 @@
+det	dog	A
+amod	dog	black
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	grass	through
+det	grass	the
+nmod:through	running	grass
+acl	grass	carrying
+dobj	carrying	something
+amod	something	red
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	red	mouth
+punct	running	.

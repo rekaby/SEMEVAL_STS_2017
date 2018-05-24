@@ -1,0 +1,14 @@
+root	ROOT	Jesus
+punct	Jesus	...
+case	least	At
+nmod:npmod	245	least
+nummod	dead	245
+dep	Jesus	dead
+mark	sweeps	as
+nsubj	sweeps	fire
+advcl	dead	sweeps
+case	nightclub	through
+nmod:through	sweeps	nightclub
+case	Brazil	in
+nmod:in	nightclub	Brazil
+punct	Jesus	.

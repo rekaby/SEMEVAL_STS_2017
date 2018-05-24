@@ -1,0 +1,11 @@
+det	battery	The
+nsubj	uses	battery
+root	ROOT	uses
+det	reaction	a
+amod	reaction	chemical
+dobj	uses	reaction
+mark	maintain	to
+advcl	uses	maintain
+det	voltage	the
+dobj	maintain	voltage
+punct	uses	,

@@ -1,0 +1,16 @@
+root	ROOT	Weird
+punct	Weird	,
+advmod	voice	just
+det	voice	the
+appos	Weird	voice
+punct	Weird	?
+punct	Weird	''-7) punct(arrested-6, :
+nsubj	arrested	Voice
+case	Brown	of
+compound	Brown	Charlie
+nmod:of	Voice	Brown
+root	ROOT	arrested
+punct	arrested	,
+xcomp	arrested	charged
+punct	arrested	.
+punct	arrested	''

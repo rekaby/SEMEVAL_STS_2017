@@ -1,0 +1,12 @@
+nsubj	impossible	It
+cop	impossible	is
+root	ROOT	impossible
+mark	answer	to
+xcomp	impossible	answer
+det	question	this
+dobj	answer	question
+case	check	without
+det	check	a
+compound	check	form
+nmod:without	answer	check
+punct	impossible	.

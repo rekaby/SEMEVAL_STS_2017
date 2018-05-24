@@ -1,0 +1,12 @@
+det	player	Each
+nsubj	had	player
+root	ROOT	had
+advmod	different	markedly
+amod	theories	different
+dobj	had	theories
+cc	theories	and
+conj:and	theories	explanations
+case	situation	on
+det	situation	the
+nmod:on	had	situation
+punct	had	.

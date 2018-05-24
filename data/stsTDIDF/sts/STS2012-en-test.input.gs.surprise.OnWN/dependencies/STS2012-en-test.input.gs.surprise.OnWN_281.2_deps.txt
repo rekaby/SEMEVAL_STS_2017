@@ -1,0 +1,8 @@
+root	ROOT	start
+mark	burn	to
+xcomp	start	burn
+cc	burn	or
+conj:or	burn	burst
+case	flames	into
+nmod:into	burst	flames
+punct	start	.

@@ -1,0 +1,10 @@
+det	judgment	a
+root	ROOT	judgment
+case	qualities	of
+det	qualities	the
+nmod:of	judgment	qualities
+case	something	of
+nmod:of	qualities	something
+cc	something	or
+conj:or	something	somebody
+punct	judgment	.

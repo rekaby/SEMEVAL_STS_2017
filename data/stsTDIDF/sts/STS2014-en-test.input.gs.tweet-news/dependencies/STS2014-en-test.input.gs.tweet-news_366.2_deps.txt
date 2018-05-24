@@ -1,0 +1,14 @@
+compound	Miser	Weekend
+root	ROOT	Miser
+punct	Miser	:
+punct	Miser	?-4) root(ROOT-0, Making
+dobj	Making	Room
+punct	Making	,
+punct	Making	?-4) case(Museum-2, at
+root	ROOT	Museum
+case	City	of
+det	City	the
+nmod:of	Museum	City
+case	York	of
+compound	York	New
+nmod:of	City	York

@@ -1,0 +1,5 @@
+wet	boy	nsubj
+pants	his	nmod:poss
+wet	pants	dobj
+wet	.	punct
+ROOT	wet	root

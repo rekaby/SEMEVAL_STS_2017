@@ -1,0 +1,14 @@
+root	ROOT	Move
+mark	unable	as
+mark	unable	if
+advcl	Move	unable
+mark	control	to
+xcomp	unable	control
+nmod:poss	manner	one
+case	one	's
+dobj	control	manner
+cc	manner	or
+conj:or	manner	direction
+case	movement	of
+nmod:of	manner	movement
+punct	Move	.

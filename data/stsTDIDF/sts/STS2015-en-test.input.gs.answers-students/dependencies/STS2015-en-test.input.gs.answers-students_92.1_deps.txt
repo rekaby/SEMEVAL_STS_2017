@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+neg	gap	no
+nsubj	is	gap
+advmod	is	so
+expl	is	there
+acl	gap	is
+neg	difference	no
+nsubj	is	difference
+case	voltage	in
+nmod:in	difference	voltage

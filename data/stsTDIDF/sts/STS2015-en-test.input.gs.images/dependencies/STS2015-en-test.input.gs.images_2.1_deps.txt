@@ -1,0 +1,7 @@
+det	lands	a
+compound	lands	bird
+root	ROOT	lands
+case	water	in
+det	water	the
+nmod:in	lands	water
+punct	lands	.

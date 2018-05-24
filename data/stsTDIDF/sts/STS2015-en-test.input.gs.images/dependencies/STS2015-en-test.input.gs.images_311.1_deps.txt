@@ -1,0 +1,13 @@
+nummod	children	Three
+nsubj	throwing	children
+acl	children	playing
+case	outdoors	with
+compound	outdoors	hay
+nmod:with	playing	outdoors
+punct	children	,
+root	ROOT	throwing
+dobj	throwing	some
+case	lens	at
+compound	lens	camera
+nmod:at	throwing	lens
+punct	throwing	.

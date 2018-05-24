@@ -1,0 +1,7 @@
+compound	advocate	supporter
+punct	advocate	,
+root	ROOT	advocate
+case	something	of
+nmod:of	advocate	something
+cc	something	or
+conj:or	something	someone

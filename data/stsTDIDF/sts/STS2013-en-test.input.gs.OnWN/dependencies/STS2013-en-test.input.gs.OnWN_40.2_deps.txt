@@ -1,0 +1,6 @@
+det	experience	a
+amod	experience	brief
+root	ROOT	experience
+case	something	of
+nmod:of	experience	something
+punct	experience	.

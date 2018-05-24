@@ -1,0 +1,14 @@
+det	man	A
+nsubj	riding	man
+cc	man	and
+conj:and	man	woman
+aux	riding	are
+root	ROOT	riding
+dobj	riding	bicycles
+case	junction	across
+det	junction	a
+nmod:across	riding	junction
+case	city	in
+det	city	the
+nmod:in	junction	city
+punct	riding	.

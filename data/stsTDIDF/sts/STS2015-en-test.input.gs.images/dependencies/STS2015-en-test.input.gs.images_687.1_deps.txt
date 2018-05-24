@@ -1,0 +1,14 @@
+amod	people	Many
+amod	people	middle
+amod	people	eastern
+nsubj	sitting	people
+aux	sitting	are
+root	ROOT	sitting
+case	back	in
+det	back	the
+nmod:in	sitting	back
+case	truck	of
+det	truck	a
+amod	truck	blue
+nmod:of	back	truck
+punct	sitting	.

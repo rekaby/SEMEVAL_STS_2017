@@ -1,0 +1,6 @@
+compound	Brunt	Civilians
+compound	Brunt	Bear
+root	ROOT	Brunt
+case	Attacks	of
+compound	Attacks	Afghan
+nmod:of	Brunt	Attacks

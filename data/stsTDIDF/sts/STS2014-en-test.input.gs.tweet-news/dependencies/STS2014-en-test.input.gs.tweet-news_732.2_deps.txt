@@ -1,0 +1,7 @@
+nsubj	Boost	Exercise
+aux	Boost	Can
+root	ROOT	Boost
+compound	Shot	Flu
+nmod:poss	Potency	Shot
+case	Shot	's
+dobj	Boost	Potency

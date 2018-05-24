@@ -1,0 +1,12 @@
+expl	are	There
+root	ROOT	are
+compound	ramps	boat
+nsubj	are	ramps
+case	area	in
+det	area	the
+nmod:in	ramps	area
+case	Ckrtin	between
+det	Ckrtin	the
+compound	Ckrtin	river
+nmod:between	area	Ckrtin
+punct	are	.

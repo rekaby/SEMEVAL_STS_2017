@@ -1,0 +1,9 @@
+woman	old	amod
+walking	is	aux
+building	it	nmod:on
+walking	woman	nsubj
+building	graffiti	nmod:with
+woman	An	det
+building	by	case
+walking	building	nmod:by
+graffiti	with	case

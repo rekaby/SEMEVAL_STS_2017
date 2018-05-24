@@ -1,0 +1,14 @@
+nsubj	Shrugged	Atlas
+root	ROOT	Shrugged
+nsubj	performer	It
+cop	performer	's
+advmod	performer	also
+det	performer	a
+amod	performer	stellar
+ccomp	Shrugged	performer
+case	terms	in
+nmod:in	performer	terms
+case	idiocy	of
+amod	idiocy	blithering
+nmod:of	terms	idiocy
+punct	Shrugged	.

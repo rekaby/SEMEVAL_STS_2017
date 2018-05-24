@@ -1,0 +1,7 @@
+nsubj	kill	Gunmen
+root	ROOT	kill
+dobj	kill	10
+case	violence	in
+amod	violence	Philippine
+amod	violence	political
+nmod:in	kill	violence

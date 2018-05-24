@@ -1,0 +1,14 @@
+compound	Graham	Florida
+compound	Graham	Sen.
+compound	Graham	Bob
+nsubj	identifiable	Graham
+cop	identifiable	was
+neg	identifiable	not
+root	ROOT	identifiable
+case	percent	by
+nummod	percent	61
+nmod:by	identifiable	percent
+case	those	of
+nmod:of	percent	those
+acl	those	polled
+punct	identifiable	.

@@ -1,0 +1,5 @@
+nsubj	call	Syria
+case	observers	in
+compound	observers	ceasefire
+nmod:in	Syria	observers
+root	ROOT	call

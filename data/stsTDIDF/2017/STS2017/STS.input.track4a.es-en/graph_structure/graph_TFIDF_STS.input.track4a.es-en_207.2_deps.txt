@@ -1,0 +1,11 @@
+chews	spotted	amod
+bark	the	det
+chews	bark	nmod:on
+bark	on	case
+chews	.	punct
+ROOT	chews	root
+bark	tree	nmod:of
+chews	The	det
+chews	dog	compound
+tree	pine	amod
+tree	of	case

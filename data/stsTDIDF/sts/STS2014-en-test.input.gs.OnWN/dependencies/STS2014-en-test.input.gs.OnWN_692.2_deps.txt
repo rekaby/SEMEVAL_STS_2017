@@ -1,0 +1,10 @@
+det	path	the
+root	ROOT	path
+acl	path	followed
+case	object	by
+det	object	an
+nmod:by	followed	object
+acl	object	moving
+case	space	through
+nmod:through	moving	space
+punct	path	.

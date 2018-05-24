@@ -1,0 +1,11 @@
+det	puppy	A
+nsubj	trying	puppy
+aux	trying	is
+root	ROOT	trying
+mark	come	to
+xcomp	trying	come
+compound:prt	come	out
+case	sink	from
+det	sink	the
+nmod:from	come	sink
+punct	trying	.

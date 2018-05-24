@@ -1,0 +1,9 @@
+walking	water	nmod:across
+dog	white	amod
+shore	from	case
+walking	is	aux
+shore	the	det
+walking	dog	nsubj
+dog	The	det
+walking	shore	nmod:from
+water	across	case

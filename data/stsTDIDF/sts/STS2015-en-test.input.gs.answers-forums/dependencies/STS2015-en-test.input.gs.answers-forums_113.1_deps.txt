@@ -1,0 +1,14 @@
+nsubj	mean	Dirt
+aux	mean	can
+root	ROOT	mean
+advmod	much	pretty
+amod	anything	much
+dobj	mean	anything
+punct	mean	,
+case	good	from
+nmod:from	mean	good
+case	soil	to
+amod	soil	poor
+compound	soil	quality
+nmod:to	good	soil
+punct	mean	.

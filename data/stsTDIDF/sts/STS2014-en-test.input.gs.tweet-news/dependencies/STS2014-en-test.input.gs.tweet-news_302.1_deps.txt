@@ -1,0 +1,15 @@
+amod	PM	Former
+amod	PM	Australian
+nsubj	says	PM
+root	ROOT	says
+punct	Went	``
+nsubj	Went	I
+ccomp	says	Went
+case	Guns	After
+nmod:after	Went	Guns
+punct	says	.-10) nsubj(Can-2, Obama
+root	ROOT	Can
+punct	Can	,
+advmod	Can	Too
+punct	Can	.
+punct	Can	''

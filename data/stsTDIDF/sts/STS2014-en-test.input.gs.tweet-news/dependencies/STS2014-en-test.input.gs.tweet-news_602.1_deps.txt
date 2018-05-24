@@ -1,0 +1,12 @@
+advmod	news	So
+amod	news	sad
+root	ROOT	news
+punct	news	:
+nummod	people	245
+dep	news	people
+acl	people	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	news	.

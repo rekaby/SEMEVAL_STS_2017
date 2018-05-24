@@ -1,0 +1,15 @@
+nsubj	effective	Fartlek
+cop	effective	is
+neg	effective	not
+advmod	effective	more
+root	ROOT	effective
+case	training	than
+det	training	any
+amod	training	proper
+compound	training	interval
+nmod:than	effective	training
+punct	training	-
+advmod	fun	just
+advmod	fun	more
+dep	training	fun
+punct	effective	!

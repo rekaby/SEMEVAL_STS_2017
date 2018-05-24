@@ -1,0 +1,12 @@
+root	ROOT	Give
+amod	rights	equal
+dobj	Give	rights
+mark	right	to
+punct	right	,
+case	right	as
+mwe	as	of
+det	right	the
+advcl:as_of	Give	right
+mark	vote	to
+xcomp	right	vote
+punct	Give	.

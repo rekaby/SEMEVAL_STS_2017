@@ -1,0 +1,7 @@
+compound	selection	Jury
+nsubj	begins	selection
+root	ROOT	begins
+case	trial	in
+nmod:poss	trial	Zimmerman
+case	Zimmerman	's
+nmod:in	begins	trial

@@ -1,0 +1,9 @@
+ROOT	trail	root
+trail	recovery	compound
+Jan.	since	case
+trail	.	punct
+trail	Giffords	compound
+Jan.	8	nummod
+trail	Jan.	nmod:since
+Jan.	shots	dep
+trail	The	det

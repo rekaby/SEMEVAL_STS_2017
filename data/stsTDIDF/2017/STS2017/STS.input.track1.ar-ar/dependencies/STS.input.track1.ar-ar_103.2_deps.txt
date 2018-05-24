@@ -1,0 +1,7 @@
+det	man	A
+root	ROOT	man
+acl	man	sitting
+case	couch	on
+det	couch	the
+nmod:on	sitting	couch
+punct	man	.

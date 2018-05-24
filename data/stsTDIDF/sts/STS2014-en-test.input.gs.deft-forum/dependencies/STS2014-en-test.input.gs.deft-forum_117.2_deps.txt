@@ -1,0 +1,8 @@
+nsubj	finished	It
+root	ROOT	finished
+case	work	as
+det	work	a
+nmod:as	finished	work
+case	fiction	of
+nmod:of	work	fiction
+punct	finished	.

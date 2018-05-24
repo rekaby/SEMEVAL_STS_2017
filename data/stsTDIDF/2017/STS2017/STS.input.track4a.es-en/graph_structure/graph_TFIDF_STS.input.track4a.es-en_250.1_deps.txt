@@ -1,0 +1,6 @@
+tax	property	compound
+tax	on	case
+lecture	a	det
+giving	lecture	dobj
+giving	tax	nmod:on
+woman	giving	acl

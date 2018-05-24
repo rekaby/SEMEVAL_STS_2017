@@ -1,0 +1,12 @@
+expl	are	There
+root	ROOT	are
+nummod	ways	two
+nsubj	are	ways
+mark	start	to
+acl	ways	start
+dep	start	with
+punct	with	:
+dep	with	plunging
+cc	plunging	and
+conj:and	plunging	dripping
+punct	are	.

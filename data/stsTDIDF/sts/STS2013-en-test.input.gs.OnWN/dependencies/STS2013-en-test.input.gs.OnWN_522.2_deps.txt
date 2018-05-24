@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+case	someone	of
+amod	someone	troubling
+cc	troubling	or
+conj:or	troubling	annoying
+nmod:of	act	someone
+punct	act	.

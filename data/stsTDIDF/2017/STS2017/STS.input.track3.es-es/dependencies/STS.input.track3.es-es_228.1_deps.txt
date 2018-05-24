@@ -1,0 +1,6 @@
+det	man	A
+nsubj	sleeping	man
+aux	sleeping	is
+root	ROOT	sleeping
+advmod	sleeping	outside
+punct	sleeping	.

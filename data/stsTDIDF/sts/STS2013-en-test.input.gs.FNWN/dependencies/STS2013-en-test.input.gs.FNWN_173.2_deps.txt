@@ -1,0 +1,7 @@
+det	place	a
+root	ROOT	place
+advmod	done	where
+nsubjpass	done	work
+auxpass	done	is
+acl:relcl	place	done
+punct	place	;

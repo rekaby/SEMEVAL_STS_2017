@@ -1,0 +1,13 @@
+root	ROOT	What
+mark	have	if
+nsubj	have	I
+aux	have	do
+neg	have	n't
+dep	What	have
+amod	sample	enough
+compound	sample	work
+dobj	have	sample
+case	interview	for
+det	interview	an
+nmod:for	sample	interview
+punct	What	?

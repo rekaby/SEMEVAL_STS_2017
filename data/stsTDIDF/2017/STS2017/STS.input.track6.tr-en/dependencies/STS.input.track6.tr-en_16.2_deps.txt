@@ -1,0 +1,8 @@
+nsubj	leave	Women
+root	ROOT	leave
+det	city	the
+dobj	leave	city
+case	morning	in
+det	morning	the
+nmod:in	leave	morning
+punct	leave	.

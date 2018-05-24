@@ -1,0 +1,13 @@
+det	cat	A
+amod	cat	white
+nsubj	licking	cat
+aux	licking	is
+root	ROOT	licking
+cc	licking	and
+conj:and	licking	drinking
+dobj	drinking	milk
+dep	drinking	kept
+case	plate	on
+det	plate	a
+nmod:on	kept	plate
+punct	licking	.

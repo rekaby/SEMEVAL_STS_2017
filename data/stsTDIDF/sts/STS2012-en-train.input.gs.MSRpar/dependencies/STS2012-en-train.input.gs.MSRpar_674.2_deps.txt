@@ -1,0 +1,16 @@
+nsubj	seemed	It
+ccomp	said	seemed
+case	incident	like
+det	incident	an
+amod	incident	isolated
+nmod:like	seemed	incident
+punct	said	,
+punct	said	''
+root	ROOT	said
+amod	Dean	graduate
+compound	Dean	Ariel
+nsubj	said	Dean
+case	Washington	of
+nmod:of	Dean	Washington
+punct	Washington	,
+appos	Washington	D.C.

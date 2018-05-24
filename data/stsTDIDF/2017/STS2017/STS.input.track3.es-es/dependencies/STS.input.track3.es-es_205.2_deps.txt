@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	snowy
+nsubj	tries	dog
+amod	dog	up
+case	belly	to
+nmod:poss	belly	his
+nmod:to	up	belly
+root	ROOT	tries
+mark	move	to
+xcomp	tries	move
+punct	tries	.

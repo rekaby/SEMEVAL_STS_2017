@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	digging	woman
+cop	digging	is
+root	ROOT	digging
+case	sand	in
+det	sand	the
+nmod:in	digging	sand
+punct	digging	.

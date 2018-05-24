@@ -1,0 +1,10 @@
+det	girl	A
+nsubj	posing	girl
+case	shirt	in
+det	shirt	a
+amod	shirt	purple
+nmod:in	girl	shirt
+cc	shirt	and
+amod	headband	pink
+conj:and	shirt	headband
+root	ROOT	posing

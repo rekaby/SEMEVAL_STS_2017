@@ -1,0 +1,9 @@
+det	man	A
+nsubj	putting	man
+aux	putting	is
+root	ROOT	putting
+compound	sauce	barbecue
+dobj	putting	sauce
+case	chicken	on
+nmod:on	putting	chicken
+punct	putting	.

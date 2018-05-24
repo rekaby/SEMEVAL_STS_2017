@@ -1,0 +1,8 @@
+compound	Bulger	Whitey
+nsubj	gets	Bulger
+root	ROOT	gets
+xcomp	gets	life
+case	racketeering	for
+nmod:for	life	racketeering
+punct	gets	,
+dep	gets	killings

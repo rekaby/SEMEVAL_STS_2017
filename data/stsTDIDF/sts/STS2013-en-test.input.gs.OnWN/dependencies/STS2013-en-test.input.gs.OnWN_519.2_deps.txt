@@ -1,0 +1,8 @@
+aux	rid	get
+root	ROOT	rid
+case	submerging	of
+case	submerging	as
+mwe	as	if
+case	submerging	by
+nmod:as_if	rid	submerging
+punct	rid	.

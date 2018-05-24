@@ -1,0 +1,9 @@
+compound	service	Train
+nsubj	disrupted	service
+root	ROOT	disrupted
+case	Place	between
+compound	Place	Raffles
+nmod:between	disrupted	Place
+cc	Place	and
+compound	Bay	Marina
+conj:and	Place	Bay

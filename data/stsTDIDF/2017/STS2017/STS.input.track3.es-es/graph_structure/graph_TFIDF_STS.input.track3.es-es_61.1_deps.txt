@@ -1,0 +1,7 @@
+sleeping	is	aux
+gallery	an	det
+sleeping	gallery	nmod:in
+gallery	art	compound
+stranger	A	det
+sleeping	stranger	nsubj
+gallery	in	case

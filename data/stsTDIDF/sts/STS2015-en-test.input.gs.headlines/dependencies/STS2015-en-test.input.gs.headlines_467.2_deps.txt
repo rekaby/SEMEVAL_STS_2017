@@ -1,0 +1,9 @@
+nsubj	upbeat	Iran
+root	ROOT	upbeat
+case	talks	on
+punct	talks	`
+amod	talks	useful
+punct	talks	'
+amod	talks	expert-level
+amod	talks	nuke
+nmod:on	upbeat	talks

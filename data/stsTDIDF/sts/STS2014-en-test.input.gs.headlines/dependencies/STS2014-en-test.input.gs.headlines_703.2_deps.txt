@@ -1,0 +1,8 @@
+nsubj	Sees	Britain
+root	ROOT	Sees
+compound	Assad	Evidence
+nsubj	Use	Assad
+aux	Use	Could
+ccomp	Sees	Use
+compound	Weapons	Chemical
+dobj	Use	Weapons

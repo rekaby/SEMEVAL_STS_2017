@@ -1,0 +1,8 @@
+compound	Election	Japan
+root	ROOT	Election
+punct	Election	:
+compound	Abe	Shinzo
+nsubj	Hails	Abe
+dep	Election	Hails
+compound	Win	Landslide
+dobj	Hails	Win

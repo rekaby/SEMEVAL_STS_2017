@@ -1,0 +1,10 @@
+amod	standing	Black
+cc	Black	and
+conj:and	Black	white
+compound	standing	cow
+root	ROOT	standing
+case	pile	near
+nmod:near	standing	pile
+case	snow	of
+nmod:of	pile	snow
+punct	standing	.

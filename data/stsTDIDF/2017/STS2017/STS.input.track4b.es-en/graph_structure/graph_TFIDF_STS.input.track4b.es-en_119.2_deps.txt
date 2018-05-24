@@ -1,0 +1,10 @@
+PRI	The	det
+ruled	lost	advcl
+lost	it	nsubj
+lost	presidency	dobj
+decades	seven	nummod
+lost	until	mark
+ruled	PRI	nsubj
+ruled	decades	nmod:for
+lost	2000	nmod:in
+ruled	Mexico	dobj

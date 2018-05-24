@@ -1,0 +1,5 @@
+compound	orders	Egypt
+compound	orders	court
+root	ROOT	orders
+nsubjpass	freed	Mubarak
+acl:relcl	orders	freed

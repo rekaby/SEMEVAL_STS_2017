@@ -1,0 +1,14 @@
+snow	in	case
+had	rakfisk	dobj
+snow	queuing	conj:and
+snow	.	punct
+snow	,	punct
+snow	had	acl:relcl
+snow	I	nsubj
+ROOT	snow	root
+snow	the	det
+snow	'm	cop
+queuing	something	nmod:for
+rakfisk	enough	amod
+snow	and	cc
+something	eat	acl

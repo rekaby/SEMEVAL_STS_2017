@@ -1,0 +1,10 @@
+det	group	A
+root	ROOT	group
+case	women	of
+nmod:of	group	women
+dep	women	Tsobhn
+case	pool	in
+det	pool	the
+compound	pool	swimming
+nmod:in	Tsobhn	pool
+punct	group	.

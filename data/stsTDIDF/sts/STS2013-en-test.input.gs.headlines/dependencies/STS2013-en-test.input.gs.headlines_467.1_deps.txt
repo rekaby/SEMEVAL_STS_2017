@@ -1,0 +1,8 @@
+amod	Isaac	Tropical
+compound	Isaac	Storm
+nsubj	drenches	Isaac
+root	ROOT	drenches
+nsubj	swipes	Haiti
+punct	Haiti	,
+ccomp	drenches	swipes
+dobj	swipes	Cuba

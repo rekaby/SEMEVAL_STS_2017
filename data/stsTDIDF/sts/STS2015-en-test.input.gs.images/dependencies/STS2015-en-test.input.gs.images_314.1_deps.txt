@@ -1,0 +1,12 @@
+det	man	The
+nsubj	wearing	man
+aux	wearing	is
+root	ROOT	wearing
+det	shirt	a
+amod	shirt	black
+dobj	wearing	shirt
+cc	shirt	and
+conj:and	shirt	hat
+cc	wearing	and
+conj:and	wearing	smiling
+punct	wearing	.

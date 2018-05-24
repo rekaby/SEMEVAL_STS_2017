@@ -1,0 +1,17 @@
+nummod	boys	Two
+root	ROOT	boys
+acl	boys	playing
+dobj	playing	guitar
+case	woman	with
+det	woman	a
+nmod:with	playing	woman
+acl	woman	singing
+cc	singing	and
+conj:and	singing	playing
+det	standing	a
+compound	standing	tambourine
+dobj	singing	standing
+case	them	next
+mwe	next	to
+nmod:next_to	standing	them
+punct	boys	.

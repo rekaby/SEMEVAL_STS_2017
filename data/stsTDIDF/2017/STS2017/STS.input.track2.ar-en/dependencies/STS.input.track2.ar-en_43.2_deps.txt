@@ -1,0 +1,5 @@
+root	ROOT	Women
+case	military	in
+det	military	the
+nmod:in	Women	military
+punct	Women	.

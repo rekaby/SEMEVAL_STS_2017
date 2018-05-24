@@ -1,0 +1,12 @@
+mark	connected	because
+nsubjpass	connected	it
+auxpass	connected	is
+root	ROOT	connected
+case	bulb	to
+det	bulb	a
+nmod:to	connected	bulb
+nsubj	path	that
+cop	path	is
+det	path	a
+amod	path	closed
+acl:relcl	bulb	path

@@ -1,0 +1,9 @@
+det	girl	The
+amod	girl	young
+nsubj	jumps	girl
+root	ROOT	jumps
+case	staircase	over
+det	staircase	a
+amod	staircase	wide
+nmod:over	jumps	staircase
+punct	jumps	.

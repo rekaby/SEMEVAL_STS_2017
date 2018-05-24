@@ -1,0 +1,6 @@
+nsubj	continue	Protests
+root	ROOT	continue
+case	Ukraine	in
+amod	Ukraine	tense
+nmod:in	continue	Ukraine
+dobj	continue	capital

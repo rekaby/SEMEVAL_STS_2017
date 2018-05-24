@@ -1,0 +1,10 @@
+root	ROOT	make
+xcomp	make	accessible
+case	action	to
+det	action	some
+nmod:to	accessible	action
+punct	action	,
+conj:or	action	influence
+punct	action	,
+cc	action	or
+conj:or	action	condition

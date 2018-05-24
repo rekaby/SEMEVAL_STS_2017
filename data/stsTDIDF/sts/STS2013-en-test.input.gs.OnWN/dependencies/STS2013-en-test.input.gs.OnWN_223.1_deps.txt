@@ -1,0 +1,16 @@
+det	reduction	the
+root	ROOT	reduction
+case	extent	of
+det	extent	the
+nmod:of	reduction	extent
+case	something	of
+nmod:of	extent	something
+punct	something	,
+conj:or	something	e.g
+punct	something	,
+nmod:poss	size	its
+conj:or	something	size
+punct	something	,
+conj:or	something	importance
+cc	something	or
+conj:or	something	quantity

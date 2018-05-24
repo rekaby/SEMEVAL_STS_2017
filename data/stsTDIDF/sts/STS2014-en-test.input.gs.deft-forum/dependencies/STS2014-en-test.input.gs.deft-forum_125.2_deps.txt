@@ -1,0 +1,15 @@
+punct	means	``
+dep	means	Being
+mark	using	against
+advcl	Being	using
+dobj	using	nukes
+punct	using	''
+root	ROOT	means
+punct	means	``
+neg	wanting	not
+xcomp	means	wanting
+mark	use	to
+xcomp	wanting	use
+dobj	use	nukes
+punct	use	''
+punct	means	.

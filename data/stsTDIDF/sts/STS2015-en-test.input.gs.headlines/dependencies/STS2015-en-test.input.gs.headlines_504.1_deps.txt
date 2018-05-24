@@ -1,0 +1,12 @@
+nsubj	starts	Japan
+root	ROOT	starts
+nsubj	urges	hearing
+case	tax	on
+compound	tax	sales
+nmod:on	urges	tax
+punct	urges	,
+amod	deputy	ex-bank
+nsubj	urges	deputy
+ccomp	starts	urges
+amod	rise	gradual
+dobj	urges	rise

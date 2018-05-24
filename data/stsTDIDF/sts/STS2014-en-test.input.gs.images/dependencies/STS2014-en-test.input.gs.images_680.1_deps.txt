@@ -1,0 +1,7 @@
+nummod	buses	Two
+nsubj	parked	buses
+root	ROOT	parked
+case	street	on
+det	street	a
+nmod:on	parked	street
+punct	parked	.

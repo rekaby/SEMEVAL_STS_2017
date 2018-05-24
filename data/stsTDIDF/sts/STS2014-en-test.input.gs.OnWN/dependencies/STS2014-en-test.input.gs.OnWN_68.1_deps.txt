@@ -1,0 +1,8 @@
+det	plant	a
+amod	plant	cultivated
+root	ROOT	plant
+nsubj	growing	that
+aux	growing	is
+advmod	growing	now
+acl:relcl	plant	growing
+xcomp	growing	wild

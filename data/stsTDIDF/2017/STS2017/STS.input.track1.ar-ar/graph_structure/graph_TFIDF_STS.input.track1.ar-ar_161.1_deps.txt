@@ -1,0 +1,8 @@
+eat	pasta	dobj
+friend	to	case
+eat	keep	dep
+friend	her	nmod:poss
+eat	Girl	nsubj
+any	friend	nmod:to
+pasta	all	det:predet
+pasta	the	det

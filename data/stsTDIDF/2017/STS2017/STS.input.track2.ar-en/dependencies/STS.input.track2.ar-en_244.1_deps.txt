@@ -1,0 +1,9 @@
+det	biker	The
+nsubj	riding	biker
+aux	riding	is
+root	ROOT	riding
+case	race	in
+det	race	a
+compound	race	bike
+nmod:in	riding	race
+punct	riding	.

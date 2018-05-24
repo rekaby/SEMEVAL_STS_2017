@@ -1,0 +1,17 @@
+det	contract	a
+root	ROOT	contract
+acl	contract	granting
+dobj	granting	use
+cc	use	or
+conj:or	use	occupation
+case	property	of
+nmod:of	use	property
+case	time	during
+det	time	a
+amod	time	specified
+nmod:during	granting	time
+case	payment	for
+det	payment	a
+amod	payment	specified
+nmod:for	time	payment
+punct	contract	.

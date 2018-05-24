@@ -1,0 +1,10 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	okay	it
+cop	okay	is
+ccomp	think	okay
+mark	ask	to
+xcomp	okay	ask
+det	question	the
+dobj	ask	question
+punct	think	.

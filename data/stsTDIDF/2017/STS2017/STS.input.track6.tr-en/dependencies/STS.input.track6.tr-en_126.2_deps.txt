@@ -1,0 +1,8 @@
+nummod	people	Three
+nsubj	watch	people
+root	ROOT	watch
+det	man	a
+nsubj	doing	man
+ccomp	watch	doing
+dobj	doing	something
+punct	watch	.

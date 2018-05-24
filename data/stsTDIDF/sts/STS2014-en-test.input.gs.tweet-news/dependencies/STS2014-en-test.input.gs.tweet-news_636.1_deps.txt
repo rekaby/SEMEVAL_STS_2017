@@ -1,0 +1,7 @@
+root	ROOT	hmmm
+nsubj	filing	she
+aux	filing	's
+acl:relcl	hmmm	filing
+case	bankruptcy	for
+nmod:for	filing	bankruptcy
+punct	hmmm	.-7) root(ROOT-0, .

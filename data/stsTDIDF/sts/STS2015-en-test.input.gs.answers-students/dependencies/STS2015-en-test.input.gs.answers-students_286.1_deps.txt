@@ -1,0 +1,14 @@
+det	bulb	a
+amod	bulb	damaged
+nsubj	make	bulb
+aux	make	does
+neg	make	not
+root	ROOT	make
+det	connecton	a
+dobj	make	connecton
+mark	complete	so
+det	circut	the
+nsubjpass	complete	circut
+auxpass	complete	is
+neg	complete	not
+advcl	make	complete

@@ -1,0 +1,12 @@
+det	government	the
+amod	government	iranian
+nsubj	stated	government
+root	ROOT	stated
+punct	stated	--
+det	program	the
+amod	program	iranian
+amod	program	nuclear
+nsubj	remains	program
+parataxis	stated	remains
+xcomp	remains	peaceful
+punct	stated	.

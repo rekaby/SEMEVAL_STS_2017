@@ -1,0 +1,13 @@
+det	Nazis	The
+nsubj	increases	Nazis
+root	ROOT	increases
+det	longevity	the
+dobj	increases	longevity
+case	permit	of
+det	permit	a
+compound	permit	handgun
+nmod:of	longevity	permit
+case	years	from
+case	years	to
+nmod:to	permit	years
+punct	increases	.

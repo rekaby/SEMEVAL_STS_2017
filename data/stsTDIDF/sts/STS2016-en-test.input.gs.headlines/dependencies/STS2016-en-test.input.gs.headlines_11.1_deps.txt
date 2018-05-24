@@ -1,0 +1,6 @@
+root	ROOT	Six
+amod	Six	dead
+case	blast	in
+amod	blast	Philippine
+compound	blast	restaurant
+nmod:in	dead	blast

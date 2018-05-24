@@ -1,0 +1,16 @@
+det	woman	A
+nsubj	stands	woman
+root	ROOT	stands
+case	arms	with
+nmod:poss	arms	her
+nmod:with	stands	arms
+compound:prt	stands	out
+case	sides	at
+nmod:poss	sides	her
+nmod:at	stands	sides
+mark	takes	while
+nsubj	takes	another
+advcl	stands	takes
+det	picture	a
+dobj	takes	picture
+punct	stands	.

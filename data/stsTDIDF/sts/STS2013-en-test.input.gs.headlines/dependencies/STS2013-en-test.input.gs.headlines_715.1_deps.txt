@@ -1,0 +1,8 @@
+nsubj	instructed	Residents
+case	Gaza	near
+nmod:near	Residents	Gaza
+root	ROOT	instructed
+mark	stay	to
+xcomp	instructed	stay
+case	shelter	near
+nmod:near	stay	shelter

@@ -1,0 +1,15 @@
+det	lady	The
+amod	lady	older
+nsubj	wearing	lady
+aux	wearing	is
+root	ROOT	wearing
+dobj	wearing	sunglasses
+mark	protect	to
+advcl	wearing	protect
+nmod:poss	eyes	her
+dobj	protect	eyes
+case	sun	from
+det	sun	the
+amod	sun	bright
+nmod:from	protect	sun
+punct	wearing	.

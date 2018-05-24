@@ -1,0 +1,7 @@
+nsubj	overturns	Guatemala
+root	ROOT	overturns
+amod	dictator	former
+nmod:poss	conviction	dictator
+case	dictator	's
+compound	conviction	genocide
+dobj	overturns	conviction

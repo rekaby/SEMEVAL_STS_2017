@@ -1,0 +1,5 @@
+shoe	a	det
+repairs	.	punct
+ROOT	repairs	root
+repairs	shoe	dobj
+repairs	man	nsubj

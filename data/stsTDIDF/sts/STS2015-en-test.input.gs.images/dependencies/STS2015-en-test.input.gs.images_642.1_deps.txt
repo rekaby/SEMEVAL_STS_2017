@@ -1,0 +1,7 @@
+nsubj	jumping	Dog
+aux	jumping	is
+root	ROOT	jumping
+compound:prt	jumping	down
+det	ramp	a
+dobj	jumping	ramp
+punct	jumping	.

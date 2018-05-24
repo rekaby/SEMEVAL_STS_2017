@@ -1,0 +1,5 @@
+nsubj	signs	Obama
+root	ROOT	signs
+case	Obamacare	up
+case	Obamacare	for
+nmod:for	signs	Obamacare

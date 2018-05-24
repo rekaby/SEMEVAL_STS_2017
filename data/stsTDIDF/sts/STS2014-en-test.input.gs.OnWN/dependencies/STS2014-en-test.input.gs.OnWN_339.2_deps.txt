@@ -1,0 +1,6 @@
+root	ROOT	obtain
+cc	obtain	or
+conj:or	obtain	provide
+dobj	provide	money
+nmod	provide	for
+punct	obtain	.

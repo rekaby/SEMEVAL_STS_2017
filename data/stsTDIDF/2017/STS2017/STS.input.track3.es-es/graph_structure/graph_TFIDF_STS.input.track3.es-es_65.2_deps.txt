@@ -1,0 +1,7 @@
+orchestra	playing	acl
+orchestra	.	punct
+orchestra	A	det
+orchestra	small	amod
+ROOT	orchestra	root
+playing	audience	nmod:for
+audience	for	case

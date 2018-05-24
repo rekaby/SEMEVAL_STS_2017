@@ -1,0 +1,12 @@
+det	man	A
+nsubj	leading	man
+aux	leading	is
+root	ROOT	leading
+det	horse	a
+dobj	leading	horse
+case	halter	around
+mark	halter	by
+nsubj	halter	it
+cop	halter	's
+nmod:around	leading	halter
+punct	leading	.

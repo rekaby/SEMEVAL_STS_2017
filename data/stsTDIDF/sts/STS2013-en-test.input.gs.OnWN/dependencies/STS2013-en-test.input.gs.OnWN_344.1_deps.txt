@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	arriving	of
+acl	act	arriving
+case	place	at
+det	place	a
+amod	place	certain
+nmod:at	arriving	place

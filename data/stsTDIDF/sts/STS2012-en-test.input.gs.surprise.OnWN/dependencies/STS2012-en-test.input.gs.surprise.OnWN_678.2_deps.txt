@@ -1,0 +1,16 @@
+punct	chemistry	-LRB-
+root	ROOT	chemistry
+punct	chemistry	-RRB-
+det	chain	a
+dep	chemistry	chain
+case	atoms	of
+nmod:of	chain	atoms
+case	molecule	in
+det	molecule	a
+nmod:in	chain	molecule
+nsubj	forms	that
+acl:relcl	molecule	forms
+det	loop	a
+amod	loop	closed
+dobj	forms	loop
+punct	chemistry	.

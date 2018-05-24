@@ -1,0 +1,12 @@
+nsubj	closed	Shares
+case	Mandalay	of
+nmod:of	Shares	Mandalay
+root	ROOT	closed
+advmod	closed	down
+nummod	cents	8
+nmod:npmod	down	cents
+case	$	at
+nmod:at	closed	$
+nummod	$	29.42
+nmod:tmod	$	Thursday
+punct	closed	.

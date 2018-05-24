@@ -1,0 +1,10 @@
+nmod:poss	board	PeopleSoft
+case	PeopleSoft	's
+nsubj	recommended	board
+aux	recommended	has
+root	ROOT	recommended
+nsubj	reject	stockholders
+ccomp	recommended	reject
+det	offer	the
+dobj	reject	offer
+punct	recommended	.

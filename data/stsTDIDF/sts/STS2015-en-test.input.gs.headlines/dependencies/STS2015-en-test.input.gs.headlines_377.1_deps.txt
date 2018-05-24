@@ -1,0 +1,7 @@
+amod	toll	Philippine
+compound	toll	quake
+compound	toll	death
+nsubj	climbs	toll
+root	ROOT	climbs
+case	73	to
+nmod:to	climbs	73

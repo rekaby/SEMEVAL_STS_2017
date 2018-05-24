@@ -1,0 +1,10 @@
+det	hound	A
+amod	hound	grey
+nsubj	active	hound
+cop	active	is
+root	ROOT	active
+case	field	in
+det	field	a
+amod	field	grassy
+nmod:in	active	field
+punct	active	.

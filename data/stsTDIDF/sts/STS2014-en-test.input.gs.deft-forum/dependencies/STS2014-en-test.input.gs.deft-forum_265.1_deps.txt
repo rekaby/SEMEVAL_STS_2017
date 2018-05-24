@@ -1,0 +1,12 @@
+compound	nullification	Jury
+nsubj	has	nullification
+root	ROOT	has
+dobj	has	NOTHING
+mark	do	to
+acl	NOTHING	do
+case	Constitutionality	with
+det	Constitutionality	the
+nmod:with	do	Constitutionality
+case	laws	of
+nmod:of	Constitutionality	laws
+punct	has	.

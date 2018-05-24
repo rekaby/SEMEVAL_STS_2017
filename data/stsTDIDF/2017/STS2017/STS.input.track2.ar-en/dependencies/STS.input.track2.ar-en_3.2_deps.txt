@@ -1,0 +1,9 @@
+det	women	The
+nsubj	work	women
+root	ROOT	work
+advmod	work	hard
+case	down	on
+det	down	a
+amod	down	crooked
+nmod:on	work	down
+punct	work	.

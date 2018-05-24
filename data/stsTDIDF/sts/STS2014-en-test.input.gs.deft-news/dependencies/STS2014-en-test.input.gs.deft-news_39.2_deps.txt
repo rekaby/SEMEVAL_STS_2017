@@ -1,0 +1,16 @@
+nsubj	sign	alstom
+aux	sign	may
+root	ROOT	sign
+det	contract	a
+dobj	sign	contract
+mark	build	to
+acl	contract	build
+det	link	a
+amod	link	high-speed
+compound	link	rail
+dobj	build	link
+case	beijing	between
+nmod:between	link	beijing
+cc	beijing	and
+conj:and	beijing	shanghai
+punct	sign	.

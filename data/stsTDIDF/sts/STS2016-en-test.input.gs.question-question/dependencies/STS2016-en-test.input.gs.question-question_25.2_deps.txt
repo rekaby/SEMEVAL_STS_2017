@@ -1,0 +1,12 @@
+root	ROOT	Layover
+case	Narita	at
+nmod:at	Layover	Narita
+punct	Narita	,
+appos	Narita	Japan
+punct	Layover	.-6) aux(need-3, Do
+nsubj	need	I
+root	ROOT	need
+det	visa	a
+compound	visa	transit
+dobj	need	visa
+punct	need	?

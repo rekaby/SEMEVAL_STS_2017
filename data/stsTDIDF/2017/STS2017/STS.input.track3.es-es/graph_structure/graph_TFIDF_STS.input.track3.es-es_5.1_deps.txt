@@ -1,0 +1,8 @@
+sled	behind	case
+dogs	four	nummod
+dogs	by	case
+sled	a	det
+running	man	nsubj
+running	sled	nmod:behind
+sled	pulled	acl
+pulled	dogs	nmod:by

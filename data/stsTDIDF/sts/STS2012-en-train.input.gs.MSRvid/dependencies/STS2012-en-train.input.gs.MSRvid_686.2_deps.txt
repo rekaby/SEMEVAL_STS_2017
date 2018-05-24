@@ -1,0 +1,12 @@
+nsubj	rinsing	Someone
+aux	rinsing	is
+root	ROOT	rinsing
+det	steak	a
+amod	steak	large
+compound	steak	beef
+dobj	rinsing	steak
+case	sink	at
+det	sink	the
+compound	sink	kitchen
+nmod:at	rinsing	sink
+punct	rinsing	.

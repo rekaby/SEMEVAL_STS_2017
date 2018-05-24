@@ -1,0 +1,15 @@
+det	boy	The
+nsubj	lying	boy
+case	suit	in
+det	suit	a
+compound	suit	bathing
+nmod:in	boy	suit
+aux	lying	is
+root	ROOT	lying
+dobj	lying	face
+advmod	lying	down
+case	pavement	on
+det	pavement	a
+amod	pavement	damp
+nmod:on	down	pavement
+punct	lying	.

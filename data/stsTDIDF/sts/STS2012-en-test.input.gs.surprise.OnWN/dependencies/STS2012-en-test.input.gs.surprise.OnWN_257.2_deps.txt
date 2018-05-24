@@ -1,0 +1,11 @@
+det	school	a
+amod	school	public
+amod	school	secondary
+root	ROOT	school
+advmod	grades	usually
+case	grades	including
+nmod:including	school	grades
+nummod	grades	9
+case	12	through
+nmod:through	grades	12
+punct	school	.

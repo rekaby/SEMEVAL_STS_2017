@@ -1,0 +1,11 @@
+nsubj	stopping	Nothing
+aux	stopping	is
+root	ROOT	stopping
+det	thing	this
+dobj	stopping	thing
+mark	playing	from
+advcl	stopping	playing
+compound:prt	playing	out
+case	court	in
+nmod:in	playing	court
+punct	stopping	.

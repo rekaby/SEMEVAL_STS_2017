@@ -1,0 +1,8 @@
+nsubj	kill	Gunmen
+punct	kill	`
+root	ROOT	kill
+nummod	tourists	10
+dobj	kill	tourists
+case	tourists	'
+case	Kashmir	in
+nmod:in	kill	Kashmir

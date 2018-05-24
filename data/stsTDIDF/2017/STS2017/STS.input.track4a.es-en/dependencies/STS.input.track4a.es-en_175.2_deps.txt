@@ -1,0 +1,6 @@
+det	dog	a
+nsubj	chases	dog
+root	ROOT	chases
+det	dog	another
+dobj	chases	dog
+punct	chases	.

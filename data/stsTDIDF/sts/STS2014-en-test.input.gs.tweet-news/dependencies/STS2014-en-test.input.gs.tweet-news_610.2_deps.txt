@@ -1,0 +1,5 @@
+amod	toll	Gruesome
+root	ROOT	toll
+case	bombs	of
+compound	bombs	cluster
+nmod:of	toll	bombs

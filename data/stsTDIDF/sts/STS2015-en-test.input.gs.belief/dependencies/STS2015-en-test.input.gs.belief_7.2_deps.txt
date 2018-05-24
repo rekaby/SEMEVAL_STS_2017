@@ -1,0 +1,12 @@
+aux	worry	do
+neg	worry	n't
+root	ROOT	worry
+case	him	about
+nmod:about	worry	him
+punct	he	-
+dep	worry	he
+dep	he	's
+nsubj	's	a
+acl	a	grown
+compound:prt	grown	up
+punct	worry	.

@@ -1,0 +1,12 @@
+nsubj	take	We
+advmod	take	often
+root	ROOT	take
+dobj	take	pride
+advmod	take	here
+mark	represent	to
+advcl	take	represent
+det	citizens	the
+dobj	represent	citizens
+case	Europe	of
+nmod:of	citizens	Europe
+punct	take	.

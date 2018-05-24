@@ -1,0 +1,8 @@
+root	ROOT	travel
+punct	travel	;
+dep	travel	make
+det	tour	a
+dobj	make	tour
+case	place	of
+det	place	a
+nmod:of	tour	place

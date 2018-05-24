@@ -1,0 +1,8 @@
+det	page	the
+compound	page	opening
+root	ROOT	page
+case	site	of
+det	site	a
+compound	site	web
+nmod:of	page	site
+punct	page	.

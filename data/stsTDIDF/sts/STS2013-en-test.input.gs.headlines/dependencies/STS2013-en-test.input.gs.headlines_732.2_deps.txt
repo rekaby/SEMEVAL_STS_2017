@@ -1,0 +1,8 @@
+nsubj	kill	Bombs
+case	Thailand	in
+nmod:in	Bombs	Thailand
+root	ROOT	kill
+nsubj	wound	14
+punct	14	,
+ccomp	kill	wound
+nummod	wound	340

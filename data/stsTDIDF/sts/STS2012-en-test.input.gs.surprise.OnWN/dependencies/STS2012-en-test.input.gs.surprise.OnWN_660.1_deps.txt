@@ -1,0 +1,15 @@
+amod	someone	Lead
+root	ROOT	someone
+case	direction	in
+det	direction	the
+amod	direction	wrong
+nmod:in	someone	direction
+punct	physically	-LRB-
+appos	direction	physically
+punct	physically	-RRB-
+punct	someone	;
+dep	someone	give
+amod	directions	wrong
+amod	directions	spatial
+dobj	give	directions
+punct	someone	.

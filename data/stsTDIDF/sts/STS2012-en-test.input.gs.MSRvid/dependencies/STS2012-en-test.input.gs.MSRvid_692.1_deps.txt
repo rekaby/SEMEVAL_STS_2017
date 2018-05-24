@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	placing	woman
+aux	placing	is
+root	ROOT	placing
+dobj	placing	food
+case	pot	in
+det	pot	a
+nmod:in	placing	pot
+case	water	of
+amod	water	hot
+nmod:of	pot	water
+punct	placing	.

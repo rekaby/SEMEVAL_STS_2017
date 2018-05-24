@@ -1,0 +1,16 @@
+nsubj	appropriate	It
+cop	appropriate	is
+root	ROOT	appropriate
+mark	implied	that
+det	Union	the
+compound	Union	European
+nsubjpass	implied	Union
+auxpass	implied	is
+ccomp	appropriate	implied
+cc	implied	and
+mark	does	that
+nsubj	does	it
+conj:and	implied	does
+nsubj	quickly	it
+advmod	does	quickly
+punct	appropriate	.

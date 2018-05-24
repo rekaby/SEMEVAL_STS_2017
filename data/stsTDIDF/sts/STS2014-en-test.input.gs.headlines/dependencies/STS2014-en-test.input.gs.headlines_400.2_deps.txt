@@ -1,0 +1,6 @@
+nsubj	sets	Malaysia
+root	ROOT	sets
+dobj	sets	date
+case	elections	for
+compound	elections	landmark
+nmod:for	date	elections

@@ -1,0 +1,5 @@
+root	ROOT	seal
+punct	seal	,
+conj:or	seal	insulate
+cc	seal	or
+conj:or	seal	protect

@@ -1,0 +1,12 @@
+root	ROOT	Mom
+cc	Mom	and
+conj:and	Mom	baby
+case	five	among
+nmod:among	Mom	five
+acl	five	killed
+mark	rake	as
+nsubj	rake	tornadoes
+advcl	killed	rake
+compound	area	Oklahoma
+compound	area	City
+dobj	rake	area

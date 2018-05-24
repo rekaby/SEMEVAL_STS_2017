@@ -1,0 +1,6 @@
+nsubj	zips	Asteroid
+root	ROOT	zips
+case	Earth	between
+nmod:between	zips	Earth
+cc	Earth	and
+conj:and	Earth	satellites

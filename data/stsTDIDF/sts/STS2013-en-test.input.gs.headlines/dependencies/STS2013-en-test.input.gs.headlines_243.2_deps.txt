@@ -1,0 +1,8 @@
+nummod	accidents	3
+compound	accidents	traffic
+nsubj	leave	accidents
+root	ROOT	leave
+nummod	dead	56
+dobj	leave	dead
+case	China	in
+nmod:in	dead	China

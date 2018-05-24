@@ -1,0 +1,15 @@
+det	computers	The
+nsubjpass	sold	computers
+auxpass	sold	are
+advmod	sold	currently
+root	ROOT	sold
+case	Canada	in
+nmod:in	sold	Canada
+punct	sold	,
+det	States	the
+compound	States	United
+dobj	sold	States
+punct	States	,
+cc	States	and
+conj:and	States	Korea
+punct	sold	.

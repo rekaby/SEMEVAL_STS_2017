@@ -1,0 +1,5 @@
+ROOT	guys	root
+guys	two	nummod
+game	baseball	nmod:of
+guys	playing	acl
+guys	.	punct

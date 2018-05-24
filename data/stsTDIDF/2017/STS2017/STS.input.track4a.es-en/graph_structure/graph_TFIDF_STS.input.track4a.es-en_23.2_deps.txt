@@ -1,0 +1,4 @@
+jumps	something	nmod:over
+jumps	.	punct
+ROOT	jumps	root
+jumps	dog	nsubj

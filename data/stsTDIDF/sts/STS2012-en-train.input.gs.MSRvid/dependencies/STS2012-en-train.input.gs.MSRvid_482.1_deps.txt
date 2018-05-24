@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	young
+nsubj	sings	boy
+root	ROOT	sings
+cc	sings	and
+conj:and	sings	plays
+det	guitar	a
+dobj	plays	guitar
+punct	sings	.

@@ -1,0 +1,5 @@
+mat	on	case
+ROOT	slept	root
+mat	the	det
+slept	Teenager	nsubj
+slept	mat	nmod:on

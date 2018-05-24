@@ -1,0 +1,14 @@
+root	ROOT	establish
+case	calculation	after
+det	calculation	a
+nmod:after	establish	calculation
+punct	calculation	,
+conj:or	calculation	investigation
+punct	calculation	,
+conj:or	calculation	experiment
+punct	calculation	,
+conj:or	calculation	survey
+punct	calculation	,
+cc	calculation	or
+conj:or	calculation	study
+punct	establish	;

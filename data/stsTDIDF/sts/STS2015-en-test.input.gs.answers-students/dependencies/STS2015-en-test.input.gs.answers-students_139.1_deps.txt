@@ -1,0 +1,8 @@
+compound	A	Bulb
+nsubj	path	A
+cop	path	was
+advmod	path	still
+case	path	in
+det	path	a
+amod	path	closed
+root	ROOT	path

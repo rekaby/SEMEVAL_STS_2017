@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+acl	man	riding
+case	wheelchair	on
+det	wheelchair	a
+amod	wheelchair	three-wheeled
+nmod:on	riding	wheelchair
+punct	man	.

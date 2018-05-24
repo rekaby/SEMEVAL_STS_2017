@@ -1,0 +1,11 @@
+nsubj	comes	ALL
+case	energy	of
+det	energy	the
+amod	energy	electrical
+nmod:of	ALL	energy
+advmod	comes	ultimately
+root	ROOT	comes
+case	alternator	from
+det	alternator	the
+nmod:from	comes	alternator
+punct	comes	.

@@ -1,0 +1,11 @@
+root	ROOT	Nigeria
+punct	Nigeria	:
+amod	troops	Nigerian
+compound	swarm	troops
+appos	Nigeria	swarm
+mark	killed	after
+nsubj	killed	40
+acl	swarm	killed
+case	massacre	in
+compound	massacre	student
+nmod:in	killed	massacre

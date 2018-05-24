@@ -1,0 +1,15 @@
+argue	conservatives	nsubj
+Kagan	's	cop
+Kagan	that	mark
+Kagan	has	acl:relcl
+Kagan	it	nsubj
+Scalia	and	cc
+Kagan	Elena	compound
+Scalia	not	neg
+issue	ethical	amod
+argue	Moreover	advmod
+Scalia	Thomas	conj:and
+has	Scalia	dep
+argue	Kagan	ccomp
+Kagan	Justice	compound
+has	issue	dobj

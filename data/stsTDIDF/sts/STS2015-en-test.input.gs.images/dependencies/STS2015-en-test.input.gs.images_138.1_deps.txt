@@ -1,0 +1,10 @@
+det	boy	A
+amod	boy	small
+nsubj	building	boy
+aux	building	is
+root	ROOT	building
+case	blocks	with
+det	blocks	some
+amod	blocks	wooden
+nmod:with	building	blocks
+punct	building	.

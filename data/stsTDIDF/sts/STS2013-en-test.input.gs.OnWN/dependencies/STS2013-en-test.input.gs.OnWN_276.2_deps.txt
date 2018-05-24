@@ -1,0 +1,13 @@
+root	ROOT	lure
+cc	lure	or
+conj:or	lure	entice
+case	duty	away
+mwe	away	from
+nmod:away_from	entice	duty
+punct	duty	,
+conj:or	duty	principles
+punct	duty	,
+cc	duty	or
+amod	conduct	proper
+conj:or	duty	conduct
+punct	lure	.

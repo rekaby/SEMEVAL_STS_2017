@@ -1,0 +1,17 @@
+advmod	heartbreaking	So
+root	ROOT	heartbreaking
+punct	heartbreaking	``
+punct	heartbreaking	:
+case	least	At
+nmod:npmod	90	least
+dep	say	90
+acl	90	killed
+case	fire	in
+amod	fire	Brazilian
+compound	fire	nightclub
+nmod:in	killed	fire
+punct	say	,
+nsubj	say	officials
+parataxis	heartbreaking	say
+punct	heartbreaking	.
+punct	heartbreaking	''

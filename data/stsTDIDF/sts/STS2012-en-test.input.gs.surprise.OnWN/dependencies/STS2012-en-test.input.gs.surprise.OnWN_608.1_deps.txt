@@ -1,0 +1,9 @@
+punct	Medicine	-LRB-
+dep	cast	Medicine
+punct	Medicine	-RRB-
+dep	cast	Apply
+det	plaster	a
+nsubj	cast	plaster
+root	ROOT	cast
+nmod	cast	to
+punct	cast	.

@@ -1,0 +1,9 @@
+det	standing	A
+amod	standing	young
+compound	standing	girl
+root	ROOT	standing
+case	fountain	in
+mwe	in	front
+mwe	in	of
+det	fountain	a
+nmod:in_front_of	standing	fountain

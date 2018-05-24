@@ -1,0 +1,10 @@
+det	dog	The
+amod	dog	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	pathway	along
+det	pathway	a
+amod	pathway	grassy
+nmod:along	running	pathway
+punct	running	.

@@ -1,0 +1,14 @@
+root	ROOT	2
+punct	2	.-2) nsubj(sure-3, im
+neg	sure	not
+root	ROOT	sure
+mark	include	if
+nsubj	include	i
+aux	include	can
+advcl	sure	include
+nmod:poss	thoughts	my
+amod	thoughts	own
+dobj	include	thoughts
+acl	thoughts	surrounding
+dobj	surrounding	decisions
+punct	sure	.

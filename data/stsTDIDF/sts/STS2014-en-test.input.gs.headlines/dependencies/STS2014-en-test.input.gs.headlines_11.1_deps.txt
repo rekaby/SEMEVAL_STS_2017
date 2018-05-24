@@ -1,0 +1,8 @@
+nummod	scandal	7
+acl	7	detained
+case	sister	for
+punct	sister	`
+compound	sister	house
+nmod:for	detained	sister
+punct	sister	'
+root	ROOT	scandal

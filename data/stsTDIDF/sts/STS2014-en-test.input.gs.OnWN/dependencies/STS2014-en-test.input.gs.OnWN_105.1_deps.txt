@@ -1,0 +1,11 @@
+det	States	the
+compound	States	United
+root	ROOT	States
+punct	States	,
+advmod	North	especially
+det	North	the
+appos	States	North
+case	War	during
+det	War	the
+amod	War	Civil
+nmod:during	North	War

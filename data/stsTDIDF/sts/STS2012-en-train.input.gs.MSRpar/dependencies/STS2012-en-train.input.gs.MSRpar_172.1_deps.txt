@@ -1,0 +1,14 @@
+compound	representatives	Sequent
+nsubjpass	reached	representatives
+aux	reached	could
+neg	reached	not
+advmod	reached	immediately
+auxpass	reached	be
+root	ROOT	reached
+case	comment	for
+nmod:for	reached	comment
+case	announcement	on
+det	announcement	the
+compound	announcement	SCO
+nmod:on	comment	announcement
+punct	reached	.

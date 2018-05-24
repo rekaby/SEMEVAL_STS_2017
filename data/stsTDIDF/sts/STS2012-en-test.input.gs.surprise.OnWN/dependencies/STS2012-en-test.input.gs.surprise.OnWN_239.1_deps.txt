@@ -1,0 +1,8 @@
+root	ROOT	Become
+xcomp	Become	widespread
+case	idea	as
+det	idea	an
+nmod:as	widespread	idea
+cc	idea	or
+conj:or	idea	feeling
+punct	Become	.

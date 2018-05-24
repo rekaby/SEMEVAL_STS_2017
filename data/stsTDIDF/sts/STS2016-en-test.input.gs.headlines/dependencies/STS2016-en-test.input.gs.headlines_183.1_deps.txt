@@ -1,0 +1,7 @@
+compound	uncertainty	Greece
+compound	uncertainty	bailout
+nsubj	weighs	uncertainty
+root	ROOT	weighs
+case	markets	on
+amod	markets	global
+nmod:on	weighs	markets

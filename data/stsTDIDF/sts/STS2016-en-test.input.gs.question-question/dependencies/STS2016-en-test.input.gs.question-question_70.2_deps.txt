@@ -1,0 +1,9 @@
+root	ROOT	What
+cop	What	is
+amod	attire	good
+compound	attire	workout
+nsubj	What	attire
+case	lifting	for
+compound	lifting	weight
+nmod:for	attire	lifting
+punct	What	?

@@ -1,0 +1,17 @@
+det	man	A
+nsubj	about	man
+case	laundry	in
+det	laundry	the
+nmod:in	man	laundry
+cop	about	is
+root	ROOT	about
+mark	take	to
+xcomp	about	take
+nmod:poss	bag	his
+amod	bag	blue
+dobj	take	bag
+case	basket	out
+mwe	out	of
+det	basket	a
+nmod:out_of	take	basket
+punct	about	.

@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+det	woman	a
+nsubj	is	woman
+case	head	with
+det	head	a
+amod	head	full
+nmod:with	woman	head
+case	hair	of
+nmod:of	head	hair
+punct	is	.

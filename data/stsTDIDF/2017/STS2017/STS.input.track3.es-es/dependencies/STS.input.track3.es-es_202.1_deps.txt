@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	sitting	woman
+aux	sitting	is
+root	ROOT	sitting
+mark	talking	while
+advcl	sitting	talking
+case	man	to
+det	man	a
+amod	man	shirtless
+nmod:to	talking	man
+nsubj	met	she
+aux	met	has
+advmod	met	just
+acl:relcl	man	met

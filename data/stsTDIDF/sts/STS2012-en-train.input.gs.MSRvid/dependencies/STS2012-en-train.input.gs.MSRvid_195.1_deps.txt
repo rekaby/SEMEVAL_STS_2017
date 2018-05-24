@@ -1,0 +1,8 @@
+det	person	A
+nsubj	combing	person
+aux	combing	is
+root	ROOT	combing
+det	hair	a
+compound	hair	cat
+dobj	combing	hair
+punct	combing	.

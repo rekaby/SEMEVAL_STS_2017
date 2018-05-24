@@ -1,0 +1,7 @@
+nummod	women	Two
+root	ROOT	women
+case	store	in
+det	store	a
+compound	store	clothing
+nmod:in	women	store
+punct	women	.

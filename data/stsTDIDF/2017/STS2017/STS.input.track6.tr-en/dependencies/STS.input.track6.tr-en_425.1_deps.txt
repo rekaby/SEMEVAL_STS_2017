@@ -1,0 +1,11 @@
+det	man	A
+nsubj	plays	man
+case	costume	in
+det	costume	an
+compound	costume	elephant
+nmod:in	man	costume
+root	ROOT	plays
+det	keyboard	the
+amod	keyboard	electric
+dobj	plays	keyboard
+punct	plays	.

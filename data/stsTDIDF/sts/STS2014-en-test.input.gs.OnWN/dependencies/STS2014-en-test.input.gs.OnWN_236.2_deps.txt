@@ -1,0 +1,6 @@
+det	cell	a
+root	ROOT	cell
+case	prisoners	for
+amod	prisoners	violent
+nmod:for	cell	prisoners
+punct	cell	.

@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	checking	woman
+aux	checking	is
+root	ROOT	checking
+det	eyes	the
+dobj	checking	eyes
+case	man	of
+det	man	the
+nmod:of	eyes	man
+punct	checking	.

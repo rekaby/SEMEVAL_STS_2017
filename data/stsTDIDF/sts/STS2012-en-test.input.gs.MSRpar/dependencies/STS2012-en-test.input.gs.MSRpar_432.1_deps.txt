@@ -1,0 +1,15 @@
+nsubj	restrictions	Congress
+advmod	restrictions	twice
+case	restrictions	before
+amod	restrictions	passed
+amod	restrictions	similar
+root	ROOT	restrictions
+advmod	see	only
+mark	see	to
+xcomp	restrictions	see
+compound	Clinton	President
+compound	Clinton	Bill
+nsubj	veto	Clinton
+ccomp	see	veto
+dobj	veto	them
+punct	restrictions	.

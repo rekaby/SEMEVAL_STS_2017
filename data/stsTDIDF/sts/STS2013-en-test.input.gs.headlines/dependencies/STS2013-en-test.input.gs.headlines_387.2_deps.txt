@@ -1,0 +1,11 @@
+nummod	rockets	Ten
+root	ROOT	rockets
+case	land	from
+compound	land	Gaza
+nmod:from	rockets	land
+case	Israel	in
+amod	Israel	southern
+nmod:in	land	Israel
+punct	rockets	;
+nsubj	hurt	none
+parataxis	rockets	hurt

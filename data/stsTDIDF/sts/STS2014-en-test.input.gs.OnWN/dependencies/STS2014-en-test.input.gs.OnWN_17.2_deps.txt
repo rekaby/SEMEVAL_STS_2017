@@ -1,0 +1,7 @@
+mark	make	to
+root	ROOT	make
+advmod	distinct	less
+xcomp	make	distinct
+cc	distinct	or
+conj:or	distinct	clear
+punct	make	.

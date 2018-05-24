@@ -1,0 +1,10 @@
+det	men	The
+nsubj	played	men
+root	ROOT	played
+xcomp	played	follow
+det	leader	the
+dobj	follow	leader
+case	grass	on
+det	grass	the
+nmod:on	leader	grass
+punct	played	.

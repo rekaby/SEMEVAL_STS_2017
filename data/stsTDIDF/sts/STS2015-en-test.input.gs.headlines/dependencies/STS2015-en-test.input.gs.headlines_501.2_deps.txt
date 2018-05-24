@@ -1,0 +1,8 @@
+amod	powers	Neymar
+root	ROOT	powers
+dep	powers	Brazil
+case	Cup	into
+compound	Cup	World
+nmod:into	Brazil	Cup
+amod	16	last
+nummod	Brazil	16

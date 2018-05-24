@@ -1,0 +1,15 @@
+det	Boom	A
+compound	Boom	New
+compound	Boom	Housing
+root	ROOT	Boom
+punct	Boom	?-5) aux(Count-3, Do
+neg	Count	n't
+root	ROOT	Count
+case	It	on
+nmod:on	Count	It
+punct	Count	-
+case	SHILLER	By
+compound	SHILLER	ROBERT
+compound	SHILLER	J.
+nmod:by	Count	SHILLER
+punct	Count	-

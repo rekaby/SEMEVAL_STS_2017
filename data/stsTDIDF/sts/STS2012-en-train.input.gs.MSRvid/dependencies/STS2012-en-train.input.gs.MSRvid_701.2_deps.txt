@@ -1,0 +1,10 @@
+det	dog	A
+nsubj	pulling	dog
+aux	pulling	is
+root	ROOT	pulling
+det	child	a
+dobj	pulling	child
+case	hill	down
+det	hill	a
+nmod:down	pulling	hill
+punct	pulling	.

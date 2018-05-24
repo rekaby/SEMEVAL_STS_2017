@@ -1,0 +1,11 @@
+nsubj	separate	Some
+csubj	gained	separate
+dobj	separate	themselves
+advmod	separate	unfortunately
+case	view	in
+nmod:in	separate	view
+case	grudge	of
+det	grudge	a
+nmod:of	view	grudge
+root	ROOT	gained
+punct	gained	.

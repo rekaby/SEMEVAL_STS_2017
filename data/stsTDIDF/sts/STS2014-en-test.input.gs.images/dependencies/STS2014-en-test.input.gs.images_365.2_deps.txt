@@ -1,0 +1,11 @@
+det	sheep	A
+amod	sheep	white
+root	ROOT	sheep
+case	hillside	on
+det	hillside	a
+nmod:on	sheep	hillside
+acl	hillside	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	sheep	.

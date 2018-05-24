@@ -1,0 +1,17 @@
+det	obvious	The
+advmod	obvious	most
+nsubj	walk	obvious
+cop	walk	is
+det	walk	the
+amod	walk	oldest
+amod	walk	long
+compound	walk	distance
+root	ROOT	walk
+case	Scotland	in
+nmod:in	walk	Scotland
+punct	walk	:
+det	Way	The
+compound	Way	West
+compound	Way	Highland
+dep	walk	Way
+punct	walk	.

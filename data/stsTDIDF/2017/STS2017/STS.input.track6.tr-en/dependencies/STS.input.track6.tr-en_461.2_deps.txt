@@ -1,0 +1,11 @@
+det	group	A
+nsubj	sitting	group
+case	people	of
+nmod:of	group	people
+aux	sitting	is
+root	ROOT	sitting
+case	hands	with
+nmod:poss	hands	their
+nmod:with	sitting	hands
+acl	hands	clasped
+punct	sitting	.

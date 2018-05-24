@@ -1,0 +1,12 @@
+nsubj	have	They
+aux	have	do
+neg	have	not
+root	ROOT	have
+mark	written	to
+auxpass	written	be
+xcomp	have	written
+case	language	in
+det	language	a
+compound	language	computer
+nmod:in	written	language
+punct	have	.

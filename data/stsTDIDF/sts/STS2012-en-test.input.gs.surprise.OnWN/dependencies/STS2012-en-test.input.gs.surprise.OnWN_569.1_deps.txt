@@ -1,0 +1,17 @@
+root	ROOT	Behave
+advmod	Behave	violently
+punct	Behave	,
+case	state	as
+mwe	as	if
+case	state	in
+det	state	a
+nmod:as_if	Behave	state
+case	anger	of
+amod	anger	great
+nmod:of	state	anger
+punct	Behave	;
+dep	Behave	break
+cc	break	or
+conj:or	break	tear
+advmod	break	violently
+punct	Behave	.

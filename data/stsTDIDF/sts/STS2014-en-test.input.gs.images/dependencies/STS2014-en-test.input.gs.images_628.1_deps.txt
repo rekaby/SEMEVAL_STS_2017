@@ -1,0 +1,13 @@
+det	pile	A
+root	ROOT	pile
+case	materials	of
+amod	materials	used
+amod	materials	wooden
+compound	materials	building
+nmod:of	pile	materials
+case	chair	with
+det	chair	a
+nmod:with	pile	chair
+case	top	on
+nmod:on	chair	top
+punct	pile	.

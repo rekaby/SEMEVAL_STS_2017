@@ -1,0 +1,8 @@
+det	act	a
+compound	act	speech
+root	ROOT	act
+mark	acknowledging	of
+acl	act	acknowledging
+dobj	acknowledging	gratitude
+case	something	for
+nmod:for	gratitude	something

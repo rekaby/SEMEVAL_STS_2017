@@ -1,0 +1,6 @@
+nmod:poss	Mubarak	Egypt
+case	Egypt	's
+root	ROOT	Mubarak
+case	condition	in
+amod	condition	critical
+nmod:in	Mubarak	condition

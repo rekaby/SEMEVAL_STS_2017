@@ -1,0 +1,8 @@
+compound	Djokovic	Nadal
+compound	Djokovic	tops
+root	ROOT	Djokovic
+case	title	for
+amod	title	7th
+amod	title	French
+compound	title	Open
+nmod:for	Djokovic	title

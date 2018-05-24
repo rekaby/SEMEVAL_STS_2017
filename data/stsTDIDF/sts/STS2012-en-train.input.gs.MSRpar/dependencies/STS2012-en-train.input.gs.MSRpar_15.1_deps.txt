@@ -1,0 +1,12 @@
+nsubj	Vermillion	Counties
+case	declines	with
+compound	declines	population
+nmod:with	Counties	declines
+aux	Vermillion	will
+cop	Vermillion	be
+root	ROOT	Vermillion
+punct	Vermillion	,
+appos	Vermillion	Posey
+cc	Posey	and
+conj:and	Posey	Madison
+punct	Vermillion	.

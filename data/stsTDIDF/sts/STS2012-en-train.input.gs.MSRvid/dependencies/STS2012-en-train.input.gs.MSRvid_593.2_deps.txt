@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	closes	dog
+root	ROOT	closes
+det	door	a
+compound	door	refrigerator
+dobj	closes	door
+punct	closes	.

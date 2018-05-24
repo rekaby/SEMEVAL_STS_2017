@@ -1,0 +1,7 @@
+red	in	case
+jumping	on	compound:prt
+jumping	person	nsubj
+person	red	nmod:in
+jumping	is	aux
+trampoline	a	det
+jumping	trampoline	dobj

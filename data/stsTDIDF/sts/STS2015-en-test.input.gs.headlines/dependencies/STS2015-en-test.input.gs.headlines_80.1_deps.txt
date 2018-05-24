@@ -1,0 +1,9 @@
+nmod:poss	Carrier	Beijing
+case	Beijing	's
+compound	Carrier	Aircraft
+nsubj	Returns	Carrier
+root	ROOT	Returns
+case	China	from
+compound	China	South
+nmod:from	Returns	China
+nmod:tmod	Returns	Sea

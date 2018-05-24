@@ -1,0 +1,23 @@
+root	ROOT	Need
+det	stamp	a
+compound	stamp	rubber
+dobj	Need	stamp
+case	Mao	of
+compound	Mao	Chairman
+nmod:of	stamp	Mao
+cc	Mao	or
+compound	Godiva	Lady
+conj:or	Mao	Godiva
+case	horse	on
+nmod:poss	horse	her
+nmod:on	stamp	horse
+punct	Need	?-14) compound(Pad-2, Ink
+nsubj	got	Pad
+case	Village	in
+det	Village	the
+compound	Village	W.
+nmod:in	Pad	Village
+aux	got	has
+root	ROOT	got
+dobj	got	'em
+punct	got	.-10) root(ROOT-0, #NabeJoint

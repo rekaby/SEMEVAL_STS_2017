@@ -1,0 +1,8 @@
+compound	Glazer	Manchester
+compound	Glazer	United
+compound	Glazer	owner
+compound	Glazer	Malcolm
+nsubj	dies	Glazer
+root	ROOT	dies
+case	85	at
+nmod:at	dies	85

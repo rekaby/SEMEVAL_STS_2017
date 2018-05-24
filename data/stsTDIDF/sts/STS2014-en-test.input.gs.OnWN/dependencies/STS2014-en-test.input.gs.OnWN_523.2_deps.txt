@@ -1,0 +1,7 @@
+root	ROOT	cause
+mark	come	to
+xcomp	cause	come
+case	ground	to
+det	ground	the
+nmod:to	come	ground
+punct	cause	.

@@ -1,0 +1,10 @@
+csubj	turn	turning
+compound:prt	turning	off
+nummod	bulb	one
+dobj	turning	bulb
+aux	turn	will
+neg	turn	not
+root	ROOT	turn
+compound:prt	turn	off
+det	bulb	another
+dobj	turn	bulb

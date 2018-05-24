@@ -1,0 +1,9 @@
+det	herd	A
+nsubj	crossing	herd
+case	caribou	of
+nmod:of	herd	caribou
+aux	crossing	are
+root	ROOT	crossing
+det	road	a
+dobj	crossing	road
+punct	crossing	.

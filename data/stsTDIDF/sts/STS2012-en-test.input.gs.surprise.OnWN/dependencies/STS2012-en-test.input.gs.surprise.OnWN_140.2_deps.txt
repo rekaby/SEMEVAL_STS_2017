@@ -1,0 +1,13 @@
+root	ROOT	cause
+mark	form	to
+xcomp	cause	form
+det	orderly	a
+amod	orderly	united
+punct	orderly	,
+dobj	form	orderly
+punct	cause	,
+cc	cause	and
+advmod	whole	aesthetically
+amod	whole	consistent
+conj:and	cause	whole
+punct	cause	.

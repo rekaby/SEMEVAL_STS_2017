@@ -1,0 +1,6 @@
+root	ROOT	Take
+det	look	a
+dobj	Take	look
+case	this	at
+nmod:at	Take	this
+punct	Take	:

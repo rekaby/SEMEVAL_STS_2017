@@ -1,0 +1,8 @@
+root	ROOT	Spectators
+acl	Spectators	taking
+dobj	taking	pictures
+case	car	of
+det	car	a
+compound	car	rally
+nmod:of	pictures	car
+punct	Spectators	.

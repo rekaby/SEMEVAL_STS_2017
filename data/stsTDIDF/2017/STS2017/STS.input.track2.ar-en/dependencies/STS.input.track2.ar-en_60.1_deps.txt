@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	pops	woman
+root	ROOT	pops
+det	bubble	a
+dobj	pops	bubble
+punct	pops	.

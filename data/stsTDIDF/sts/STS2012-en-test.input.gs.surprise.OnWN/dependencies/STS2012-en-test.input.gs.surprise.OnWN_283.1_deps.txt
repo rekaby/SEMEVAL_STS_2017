@@ -1,0 +1,11 @@
+root	ROOT	mechanism
+nsubj	controls	that
+acl:relcl	mechanism	controls
+det	level	the
+compound	level	water
+dobj	controls	level
+case	section	in
+det	section	a
+nmod:in	controls	section
+case	canal	of
+nmod:of	section	canal

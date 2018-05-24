@@ -1,0 +1,15 @@
+root	ROOT	assets
+acl	assets	belonging
+dep	due	to
+cc	due	or
+nmod	belonging	due
+dep	due	to
+cc	to	or
+conj:or	to	contributed
+case	person	by
+det	person	an
+amod	person	individual
+nmod:by	contributed	person
+cc	person	or
+conj:or	person	group
+punct	assets	.

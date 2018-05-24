@@ -1,0 +1,7 @@
+det	lady	The
+nsubj	sliced	lady
+root	ROOT	sliced
+compound:prt	sliced	up
+det	meat	the
+dobj	sliced	meat
+punct	sliced	.

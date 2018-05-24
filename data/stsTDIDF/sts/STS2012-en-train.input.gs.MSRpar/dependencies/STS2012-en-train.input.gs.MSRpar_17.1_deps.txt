@@ -1,0 +1,15 @@
+det	time	The
+amod	time	last
+root	ROOT	time
+det	survey	the
+nsubjpass	conducted	survey
+auxpass	conducted	was
+acl:relcl	time	conducted
+punct	conducted	,
+case	1995	in
+nmod:in	conducted	1995
+punct	time	,
+det	numbers	those
+nsubj	matched	numbers
+acl:relcl	time	matched
+punct	time	.

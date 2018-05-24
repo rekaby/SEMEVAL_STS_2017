@@ -1,0 +1,11 @@
+det	group	A
+nsubj	look	group
+case	children	of
+nmod:of	group	children
+root	ROOT	look
+case	group	at
+det	group	a
+nmod:at	look	group
+case	adults	of
+nmod:of	group	adults
+punct	look	.

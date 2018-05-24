@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	standing
+case	kitchen	in
+det	kitchen	the
+nmod:in	standing	kitchen
+punct	group	.

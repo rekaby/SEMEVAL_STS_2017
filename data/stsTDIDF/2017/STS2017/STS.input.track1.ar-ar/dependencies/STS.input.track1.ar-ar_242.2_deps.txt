@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+nummod	women	four
+nsubj	are	women
+cc	women	and
+det	man	a
+conj:and	women	man
+case	kitchen	in
+det	kitchen	the
+nmod:in	are	kitchen
+punct	are	.

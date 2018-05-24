@@ -1,0 +1,9 @@
+nsubj	touched	Someone
+root	ROOT	touched
+det	kitten	the
+nsubj	chewing	kitten
+ccomp	touched	chewing
+case	string	on
+det	string	a
+nmod:on	chewing	string
+punct	touched	.

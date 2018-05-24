@@ -1,0 +1,6 @@
+amod	tremor	Moderate
+root	ROOT	tremor
+case	Mediterranean	in
+det	Mediterranean	the
+compound	Mediterranean	Central
+nmod:in	tremor	Mediterranean

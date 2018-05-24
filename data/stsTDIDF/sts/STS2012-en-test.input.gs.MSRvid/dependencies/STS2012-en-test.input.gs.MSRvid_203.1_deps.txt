@@ -1,0 +1,9 @@
+det	man	The
+nsubj	cut	man
+root	ROOT	cut
+det	carpet	some
+dobj	cut	carpet
+case	knife	with
+det	knife	a
+nmod:with	cut	knife
+punct	cut	.

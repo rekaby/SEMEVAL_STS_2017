@@ -1,0 +1,6 @@
+det	Calls	The
+amod	Calls	Cautious
+root	ROOT	Calls
+case	Fox	of
+compound	Fox	John
+nmod:of	Calls	Fox

@@ -1,0 +1,11 @@
+compound	toll	Death
+nsubj	rises	toll
+root	ROOT	rises
+case	29	to
+nmod:to	rises	29
+case	building	in
+nmod:poss	building	India
+case	India	's
+compound	building	Mumbai
+nmod:in	29	building
+dobj	rises	collapse

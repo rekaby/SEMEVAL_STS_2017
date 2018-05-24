@@ -1,0 +1,16 @@
+cc	influence	And
+punct	influence	,
+advmod	importantly	perhaps
+advmod	importantly	most
+advmod	influence	importantly
+punct	influence	,
+nsubj	influence	Ahmadinejad
+cop	influence	is
+det	influence	a
+amod	influence	destabilizing
+root	ROOT	influence
+punct	influence	;
+nsubj	not	Bernanke
+cop	not	is
+parataxis	influence	not
+punct	influence	.

@@ -1,0 +1,6 @@
+det	man	The
+nsubj	works	man
+root	ROOT	works
+case	hand	in
+nmod:poss	hand	his
+nmod:in	works	hand

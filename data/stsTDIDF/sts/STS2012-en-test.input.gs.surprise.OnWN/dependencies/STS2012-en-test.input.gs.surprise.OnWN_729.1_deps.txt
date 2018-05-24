@@ -1,0 +1,10 @@
+root	ROOT	Take
+compound:prt	Take	away
+det	part	a
+amod	part	vital
+cc	vital	or
+conj:or	vital	essential
+dobj	Take	part
+case	something	of
+nmod:of	part	something
+punct	Take	.

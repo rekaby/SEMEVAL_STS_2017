@@ -1,0 +1,9 @@
+det	dog	The
+amod	dog	brown
+nsubj	jumps	dog
+root	ROOT	jumps
+case	Frisbee	for
+det	Frisbee	a
+amod	Frisbee	pink
+nmod:for	jumps	Frisbee
+punct	jumps	.

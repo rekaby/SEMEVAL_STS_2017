@@ -1,0 +1,9 @@
+root	ROOT	Annan
+mark	visit	to
+acl	Annan	visit
+amod	refugees	Syrian
+dobj	visit	refugees
+case	Turkey	in
+nmod:in	visit	Turkey
+case	Iran	before
+nmod:before	Annan	Iran

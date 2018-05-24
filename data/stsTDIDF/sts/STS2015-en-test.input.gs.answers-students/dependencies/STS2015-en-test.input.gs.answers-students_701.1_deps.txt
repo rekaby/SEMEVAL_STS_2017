@@ -1,0 +1,11 @@
+nsubj	have	Bulbs
+root	ROOT	have
+mark	contained	to
+auxpass	contained	be
+xcomp	have	contained
+case	paths	in
+amod	paths	closed
+nmod:in	contained	paths
+case	battery	with
+det	battery	the
+nmod:with	paths	battery

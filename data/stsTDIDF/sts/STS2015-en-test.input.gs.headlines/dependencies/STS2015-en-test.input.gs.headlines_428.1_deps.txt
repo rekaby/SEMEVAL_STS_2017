@@ -1,0 +1,8 @@
+compound	fire	Bangladesh
+compound	fire	garment
+compound	fire	factory
+nsubj	kills	fire
+punct	kills	`
+root	ROOT	kills
+dobj	kills	8
+punct	kills	'

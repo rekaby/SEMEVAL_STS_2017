@@ -1,0 +1,12 @@
+det	man	A
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	line	a
+dobj	slicing	line
+case	bottles	of
+compound	bottles	water
+nmod:of	line	bottles
+case	knife	with
+det	knife	a
+nmod:with	slicing	knife

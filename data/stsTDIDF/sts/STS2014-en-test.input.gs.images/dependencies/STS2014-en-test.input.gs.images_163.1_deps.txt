@@ -1,0 +1,9 @@
+det	train	An
+compound	train	Amtrak
+compound	train	passenger
+nsubj	waiting	train
+root	ROOT	waiting
+case	station	at
+det	station	a
+nmod:at	waiting	station
+punct	waiting	.

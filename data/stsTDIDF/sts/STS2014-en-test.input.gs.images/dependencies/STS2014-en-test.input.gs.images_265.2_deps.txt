@@ -1,0 +1,13 @@
+det	man	The
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	standing	sidewalk
+case	horse	in
+mwe	in	front
+mwe	in	of
+det	horse	the
+nmod:in_front_of	standing	horse
+punct	standing	.

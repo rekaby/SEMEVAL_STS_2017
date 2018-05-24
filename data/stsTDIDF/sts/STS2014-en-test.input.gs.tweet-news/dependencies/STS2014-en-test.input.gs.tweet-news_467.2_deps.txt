@@ -1,0 +1,8 @@
+root	ROOT	Forms
+mark	got	at
+det	doctor	the
+nsubj	got	doctor
+case	doctor	's
+advmod	got	just
+acl	Forms	got
+dobj	got	fun

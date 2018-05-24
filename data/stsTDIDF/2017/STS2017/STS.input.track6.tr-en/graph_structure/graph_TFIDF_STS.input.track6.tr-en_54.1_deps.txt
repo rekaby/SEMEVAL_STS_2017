@@ -1,0 +1,6 @@
+has	female	nsubj
+female	young	amod
+female	The	det
+expression	facial	amod
+expression	a	det
+has	expression	dobj

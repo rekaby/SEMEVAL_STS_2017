@@ -1,0 +1,8 @@
+amod	couple	Young
+nsubj	sitting	couple
+root	ROOT	sitting
+case	couch	on
+det	couch	a
+amod	couch	black
+nmod:on	sitting	couch
+punct	sitting	.

@@ -1,0 +1,8 @@
+compound	Trophy	ICC
+compound	Trophy	Champions
+root	ROOT	Trophy
+punct	Trophy	:
+dep	Trophy	India
+cc	India	vs
+compound	Africa	South
+conj:vs	India	Africa

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	offers	man
+root	ROOT	offers
+dobj	offers	food
+case	children	for
+nmod:for	offers	children
+punct	offers	.

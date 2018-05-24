@@ -1,0 +1,8 @@
+det	coach	A
+nsubj	stays	coach
+root	ROOT	stays
+case	players	with
+nmod:poss	players	his
+nmod:with	stays	players
+advmod	stays	together
+punct	stays	.

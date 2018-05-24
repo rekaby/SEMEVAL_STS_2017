@@ -1,0 +1,16 @@
+amod	subproblems	Overlapping
+nsubj	means	subproblems
+root	ROOT	means
+mark	used	that
+det	subproblems	the
+amod	subproblems	same
+nsubjpass	used	subproblems
+auxpass	used	are
+ccomp	means	used
+mark	solve	to
+xcomp	used	solve
+amod	problems	many
+amod	problems	different
+amod	problems	larger
+dobj	solve	problems
+punct	means	.

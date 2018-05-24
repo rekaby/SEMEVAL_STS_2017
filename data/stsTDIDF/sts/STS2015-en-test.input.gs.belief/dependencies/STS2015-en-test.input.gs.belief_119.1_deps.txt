@@ -1,0 +1,12 @@
+nsubj	responsibility	it
+cop	responsibility	's
+neg	responsibility	not
+nmod:poss	citizens	your
+compound	citizens	fellow
+nmod:poss	responsibility	citizens
+case	citizens	'
+root	ROOT	responsibility
+mark	do	to
+acl	responsibility	do
+dobj	do	that
+punct	responsibility	.

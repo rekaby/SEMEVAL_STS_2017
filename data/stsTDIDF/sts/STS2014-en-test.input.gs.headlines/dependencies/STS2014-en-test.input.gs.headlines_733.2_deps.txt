@@ -1,0 +1,10 @@
+root	ROOT	Tens
+case	line	of
+compound	line	thousands
+nmod:of	Tens	line
+advmod	Tens	up
+mark	cast	to
+acl	up	cast
+dobj	cast	votes
+case	Bhutan	in
+nmod:in	cast	Bhutan

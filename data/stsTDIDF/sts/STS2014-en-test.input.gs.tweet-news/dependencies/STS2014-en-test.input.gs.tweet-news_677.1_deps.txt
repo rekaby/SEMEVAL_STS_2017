@@ -1,0 +1,8 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+amod	OBIT	GREAT
+dep	NYTimes	OBIT
+case	Abby	on
+compound	Abby	Dear
+nmod:on	OBIT	Abby
+punct	NYTimes	.

@@ -1,0 +1,5 @@
+clearing	street	dobj
+ROOT	Workers	root
+Workers	clearing	acl
+street	rubbish	amod
+Workers	.	punct

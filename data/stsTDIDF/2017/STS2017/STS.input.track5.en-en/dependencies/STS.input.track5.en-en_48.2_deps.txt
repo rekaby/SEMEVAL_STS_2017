@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	yellow
+nsubj	playing	dog
+aux	playing	is
+root	ROOT	playing
+case	snow	in
+det	snow	the
+nmod:in	playing	snow
+punct	playing	.

@@ -1,0 +1,9 @@
+det	man	The
+nsubj	jumping	man
+csubj	wearing	jumping
+aux	wearing	is
+neg	wearing	not
+root	ROOT	wearing
+det	shirt	a
+dobj	wearing	shirt
+punct	wearing	.

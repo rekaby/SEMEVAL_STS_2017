@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	doing	woman
+aux	doing	is
+root	ROOT	doing
+compound	exercises	weight
+dobj	doing	exercises
+punct	doing	.

@@ -1,0 +1,9 @@
+det	prediction	a
+root	ROOT	prediction
+case	course	of
+det	course	the
+nmod:of	prediction	course
+case	disease	of
+det	disease	a
+nmod:of	course	disease
+punct	prediction	.

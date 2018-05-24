@@ -1,0 +1,8 @@
+punct	cause	-LRB-
+root	ROOT	cause
+mark	overlaid	to
+punct	overlaid	-RRB-
+auxpass	overlaid	be
+xcomp	cause	overlaid
+case	something	with
+nmod:with	overlaid	something

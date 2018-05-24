@@ -1,0 +1,12 @@
+det	union	The
+nsubj	revealed	union
+aux	revealed	had
+neg	revealed	not
+advmod	revealed	yet
+root	ROOT	revealed
+dobj	targeted	which
+nsubjpass	targeted	chain
+aux	targeted	would
+auxpass	targeted	be
+ccomp	revealed	targeted
+punct	revealed	.

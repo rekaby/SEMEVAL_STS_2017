@@ -1,0 +1,13 @@
+advmod	reject	Formally
+root	ROOT	reject
+cc	reject	or
+conj:or	reject	disavow
+det	belief	a
+advmod	held	formerly
+amod	belief	held
+dobj	disavow	belief
+punct	reject	;
+conj:or	reject	retract
+det	statement	a
+dobj	retract	statement
+punct	reject	.

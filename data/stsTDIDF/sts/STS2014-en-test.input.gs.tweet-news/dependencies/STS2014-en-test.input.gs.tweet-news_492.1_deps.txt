@@ -1,0 +1,12 @@
+det	READ	A
+compound	READ	MUST
+root	ROOT	READ
+punct	READ	!-4) root(ROOT-0, by
+punct	by	!-2) advmod(#Turkey-2, How
+nsubj	Make	#Turkey
+aux	Make	Can
+root	ROOT	Make
+dobj	Make	Peace
+case	#Kurds	With
+det	#Kurds	the
+nmod:with	Make	#Kurds

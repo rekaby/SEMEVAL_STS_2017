@@ -1,0 +1,7 @@
+det	cat	A
+root	ROOT	cat
+acl	cat	looking
+case	camera	at
+det	camera	the
+nmod:at	looking	camera
+punct	cat	.

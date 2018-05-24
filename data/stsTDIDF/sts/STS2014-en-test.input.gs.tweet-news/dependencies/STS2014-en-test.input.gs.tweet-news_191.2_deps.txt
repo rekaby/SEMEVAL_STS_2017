@@ -1,0 +1,8 @@
+root	ROOT	Report
+acl	Report	Criticizes
+compound	Measures	School
+compound	Measures	Discipline
+dobj	Criticizes	Measures
+acl	Measures	Used
+case	Mississippi	in
+nmod:in	Used	Mississippi

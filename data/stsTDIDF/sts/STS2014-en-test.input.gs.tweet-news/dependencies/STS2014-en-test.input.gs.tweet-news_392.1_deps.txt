@@ -1,0 +1,14 @@
+compound	York	New
+nmod:poss	bill	York
+case	York	's
+compound	bill	Cuomo
+compound	bill	signs
+compound	bill	gun
+compound	bill	control
+root	ROOT	bill
+punct	bill	.-9) nsubj(go-5, 1
+dep	go	down
+nmod:npmod	down	49
+mark	go	to
+root	ROOT	go
+punct	go	!

@@ -1,0 +1,16 @@
+advmod	eating	First
+punct	eating	,
+det	turtles	the
+nsubj	eating	turtles
+aux	eating	are
+root	ROOT	eating
+det	fish	the
+dobj	eating	fish
+mark	food	because
+nsubj	food	fish
+cop	food	are
+advcl	eating	food
+punct	food	,
+neg	friends	not
+appos	food	friends
+punct	eating	.

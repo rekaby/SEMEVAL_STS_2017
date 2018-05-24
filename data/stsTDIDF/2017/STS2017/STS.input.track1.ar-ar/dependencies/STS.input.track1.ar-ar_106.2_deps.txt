@@ -1,0 +1,12 @@
+nummod	children	Three
+nsubj	look	children
+root	ROOT	look
+case	fish	at
+det	fish	the
+amod	fish	dead
+nmod:at	look	fish
+acl	fish	floating
+case	ocean	in
+det	ocean	the
+nmod:in	floating	ocean
+punct	look	.

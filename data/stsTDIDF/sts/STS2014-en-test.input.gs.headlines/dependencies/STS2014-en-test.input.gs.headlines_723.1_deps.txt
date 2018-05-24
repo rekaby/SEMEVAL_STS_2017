@@ -1,0 +1,9 @@
+advmod	60	About
+nummod	Stampede	60
+amod	Stampede	Crushed
+case	Death	to
+nmod:to	Crushed	Death
+case	Coast	in
+compound	Coast	Ivory
+nmod:in	Death	Coast
+root	ROOT	Stampede

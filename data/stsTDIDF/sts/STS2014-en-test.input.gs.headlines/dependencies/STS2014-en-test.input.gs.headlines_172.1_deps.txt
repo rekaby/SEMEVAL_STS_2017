@@ -1,0 +1,4 @@
+amod	earthquake	6.3-magnitude
+nsubj	hits	earthquake
+root	ROOT	hits
+dobj	hits	Taiwan

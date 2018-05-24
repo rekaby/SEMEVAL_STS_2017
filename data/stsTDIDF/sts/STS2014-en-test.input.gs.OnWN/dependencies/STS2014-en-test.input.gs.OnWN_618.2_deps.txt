@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	choosing	of
+acl	act	choosing
+cc	choosing	or
+conj:or	choosing	selecting
+punct	act	.

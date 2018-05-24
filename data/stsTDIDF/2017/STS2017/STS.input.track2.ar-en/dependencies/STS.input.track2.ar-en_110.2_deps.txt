@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+amod	man	standing
+case	dog	next
+mwe	next	to
+det	dog	a
+nmod:next_to	standing	dog
+punct	man	.

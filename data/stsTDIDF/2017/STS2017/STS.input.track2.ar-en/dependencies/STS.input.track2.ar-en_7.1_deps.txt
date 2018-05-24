@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	holds	woman
+root	ROOT	holds
+det	boy	a
+amod	boy	little
+dobj	holds	boy
+acl	boy	wearing
+det	sweatshirt	a
+amod	sweatshirt	blue
+dobj	wearing	sweatshirt
+punct	holds	.

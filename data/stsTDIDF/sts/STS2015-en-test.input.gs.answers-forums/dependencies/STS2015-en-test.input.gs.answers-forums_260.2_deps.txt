@@ -1,0 +1,16 @@
+mark	train	To
+advcl	unplug	train
+dobj	train	yourself
+mark	use	to
+advcl	train	use
+compound	shortcuts	keyboard
+dobj	use	shortcuts
+punct	unplug	,
+root	ROOT	unplug
+nmod:poss	mouse	your
+dobj	unplug	mouse
+case	days	for
+det	days	a
+amod	days	few
+nmod:for	unplug	days
+punct	unplug	.

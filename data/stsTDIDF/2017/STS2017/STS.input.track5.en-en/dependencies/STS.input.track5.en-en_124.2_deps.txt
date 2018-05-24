@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	going	girl
+aux	going	is
+root	ROOT	going
+case	class	to
+nmod:to	going	class
+punct	going	.

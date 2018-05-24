@@ -1,0 +1,9 @@
+det	standing	A
+amod	standing	small
+amod	standing	white
+compound	standing	cat
+root	ROOT	standing
+case	sink	in
+det	sink	a
+nmod:in	standing	sink
+punct	standing	.

@@ -1,0 +1,13 @@
+det	thing	The
+amod	thing	important
+nsubj	pay	thing
+nsubj	try	I
+acl:relcl	thing	try
+mark	remember	to
+xcomp	try	remember
+aux	pay	is
+advmod	pay	just
+mark	pay	to
+root	ROOT	pay
+dobj	pay	attention
+punct	pay	.

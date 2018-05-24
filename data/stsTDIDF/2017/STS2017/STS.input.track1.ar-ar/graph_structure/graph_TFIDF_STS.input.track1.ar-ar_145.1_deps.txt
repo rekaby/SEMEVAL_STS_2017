@@ -1,0 +1,7 @@
+ROOT	Chasing	root
+Chasing	.	punct
+rat	giant	amod
+women	Edhma	dep
+Chasing	women	nmod:for
+Chasing	rat	dobj
+rat	a	det

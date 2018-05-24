@@ -1,0 +1,11 @@
+det	man	A
+amod	man	young
+root	ROOT	man
+acl	man	wearing
+det	bracelet	a
+amod	bracelet	red
+dobj	wearing	bracelet
+acl	bracelet	scratching
+nmod:poss	head	his
+dobj	scratching	head
+punct	man	.

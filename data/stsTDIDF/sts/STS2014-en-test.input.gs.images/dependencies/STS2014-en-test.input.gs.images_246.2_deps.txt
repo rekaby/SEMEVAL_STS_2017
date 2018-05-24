@@ -1,0 +1,6 @@
+nsubj	pulling	Train
+root	ROOT	pulling
+case	station	into
+det	station	a
+nmod:into	pulling	station
+punct	pulling	.

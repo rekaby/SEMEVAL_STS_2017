@@ -1,0 +1,7 @@
+nummod	children	Three
+root	ROOT	children
+case	pit	in
+det	pit	a
+compound	pit	ball
+nmod:in	children	pit
+punct	children	.

@@ -1,0 +1,8 @@
+compound	shares	Tokyo
+root	ROOT	shares
+amod	higher	open
+amod	shares	higher
+case	market	over
+amod	market	buoyant
+compound	market	U.S.
+nmod:over	higher	market

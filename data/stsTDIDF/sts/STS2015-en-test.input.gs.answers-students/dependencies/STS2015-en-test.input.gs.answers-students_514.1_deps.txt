@@ -1,0 +1,14 @@
+det	gap	a
+nsubj	affect	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+aux	affect	does
+neg	affect	not
+root	ROOT	affect
+det	voltage	the
+dobj	affect	voltage
+case	battery	of
+det	battery	the
+nmod:of	voltage	battery
+punct	affect	.

@@ -1,0 +1,8 @@
+det	girl	This
+amod	girl	little
+nsubjpass	excited	girl
+auxpass	excited	is
+root	ROOT	excited
+case	wedding	about
+det	wedding	the
+nmod:about	excited	wedding

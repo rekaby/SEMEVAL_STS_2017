@@ -1,0 +1,7 @@
+compound	girl	Young
+compound	girl	baby
+root	ROOT	girl
+acl	girl	sitting
+case	table	on
+nmod:on	sitting	table
+punct	girl	.

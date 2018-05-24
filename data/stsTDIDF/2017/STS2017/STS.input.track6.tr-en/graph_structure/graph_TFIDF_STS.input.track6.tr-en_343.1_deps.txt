@@ -1,0 +1,6 @@
+climbing	tree	dobj
+climbing	.	punct
+cat	A	det
+climbing	is	aux
+ROOT	climbing	root
+climbing	cat	nsubj

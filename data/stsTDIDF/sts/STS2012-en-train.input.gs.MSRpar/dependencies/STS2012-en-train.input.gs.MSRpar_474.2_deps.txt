@@ -1,0 +1,16 @@
+nsubj	moved	He
+root	ROOT	moved
+case	Syria	to
+nmod:to	moved	Syria
+punct	Syria	,
+advmod	underwent	where
+nsubj	underwent	he
+acl:relcl	Syria	underwent
+amod	training	further
+amod	training	religious
+dobj	underwent	training
+case	beliefs	in
+amod	beliefs	traditional
+amod	beliefs	Islamic
+nmod:in	training	beliefs
+punct	moved	.

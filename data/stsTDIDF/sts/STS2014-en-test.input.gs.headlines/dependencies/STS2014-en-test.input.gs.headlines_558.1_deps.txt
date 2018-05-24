@@ -1,0 +1,10 @@
+neg	deal	No
+root	ROOT	deal
+case	cliff	on
+amod	cliff	fiscal
+nmod:on	deal	cliff
+mark	goes	as
+nsubj	goes	Obama
+acl	deal	goes
+case	holiday	on
+nmod:on	goes	holiday

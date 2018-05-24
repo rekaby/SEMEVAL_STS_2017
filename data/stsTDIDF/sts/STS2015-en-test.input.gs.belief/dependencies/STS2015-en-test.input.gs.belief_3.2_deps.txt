@@ -1,0 +1,8 @@
+amod	bucks	insignificant
+nummod	bucks	20
+nsubj	n't	bucks
+det	week	a
+nmod:npmod	bucks	week
+cop	n't	is
+root	ROOT	n't
+punct	n't	?

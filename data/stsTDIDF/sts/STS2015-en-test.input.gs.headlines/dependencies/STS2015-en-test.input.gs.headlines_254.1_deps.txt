@@ -1,0 +1,11 @@
+compound	Agenda	China-EU
+nummod	Agenda	2020
+compound	Agenda	Strategic
+nsubj	released	Agenda
+case	Cooperation	for
+nmod:for	Agenda	Cooperation
+root	ROOT	released
+case	Summit	at
+amod	Summit	16th
+compound	Summit	China-EU
+nmod:at	released	Summit

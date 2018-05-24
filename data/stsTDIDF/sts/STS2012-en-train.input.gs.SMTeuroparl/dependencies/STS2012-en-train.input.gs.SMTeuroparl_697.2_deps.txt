@@ -1,0 +1,12 @@
+det	evolution	An
+root	ROOT	evolution
+nsubj	made	which
+acl:relcl	evolution	made
+dobj	made	them
+advmod	dependent	strongly
+xcomp	made	dependent
+case	capital	on
+det	capital	the
+amod	capital	borrowed
+nmod:on	dependent	capital
+punct	evolution	.

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	snorkeling	man
+aux	snorkeling	is
+root	ROOT	snorkeling
+case	ocean	in
+det	ocean	the
+nmod:in	snorkeling	ocean
+punct	snorkeling	.

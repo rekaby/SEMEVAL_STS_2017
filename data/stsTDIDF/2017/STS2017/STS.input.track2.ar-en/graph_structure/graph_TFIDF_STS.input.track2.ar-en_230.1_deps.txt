@@ -1,0 +1,9 @@
+Dogs	mountainside	nmod:on
+heads	ground	nmod:in
+Dogs	.	punct
+mountainside	on	case
+heads	with	case
+ground	in	case
+mountainside	heads	nmod:with
+mountainside	a	det
+ROOT	Dogs	root

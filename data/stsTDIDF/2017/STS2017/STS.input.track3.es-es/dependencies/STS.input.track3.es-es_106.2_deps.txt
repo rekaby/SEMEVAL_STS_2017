@@ -1,0 +1,11 @@
+nsubj	standing	People
+aux	standing	are
+root	ROOT	standing
+case	ATVs	around
+case	ATVs	for
+nummod	ATVs	two
+nmod:for	standing	ATVs
+case	beach	on
+det	beach	a
+nmod:on	ATVs	beach
+punct	standing	.

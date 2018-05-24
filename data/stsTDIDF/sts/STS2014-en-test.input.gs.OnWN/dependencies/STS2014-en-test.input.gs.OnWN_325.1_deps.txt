@@ -1,0 +1,6 @@
+root	ROOT	repeat
+punct	repeat	;
+dep	repeat	reestablish
+cc	reestablish	or
+conj:or	reestablish	begin
+advmod	repeat	again

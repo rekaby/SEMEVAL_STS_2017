@@ -1,0 +1,5 @@
+library	children	nmod:with
+group	women	nmod:of
+library	a	det
+library	in	case
+group	library	nmod:in

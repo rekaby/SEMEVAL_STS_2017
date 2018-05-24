@@ -1,0 +1,6 @@
+root	ROOT	overflow
+case	feeling	with
+det	feeling	a
+amod	feeling	certain
+nmod:with	overflow	feeling
+punct	overflow	.

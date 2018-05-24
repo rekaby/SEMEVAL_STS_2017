@@ -1,0 +1,3 @@
+weather	about	case
+talking	People	nsubj
+talking	weather	nmod:about

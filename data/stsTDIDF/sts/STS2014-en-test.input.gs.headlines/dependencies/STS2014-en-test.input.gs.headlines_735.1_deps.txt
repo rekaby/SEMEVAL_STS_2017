@@ -1,0 +1,8 @@
+nsubj	snatch	Thieves
+root	ROOT	snatch
+compound	swimmer	English
+compound	swimmer	Channel
+nmod:poss	wheelchair	swimmer
+case	swimmer	's
+amod	wheelchair	custom-made
+dobj	snatch	wheelchair

@@ -1,0 +1,6 @@
+compound	rocks	New
+amod	rocks	major
+compound	rocks	earthquake
+root	ROOT	rocks
+amod	Pakistan	southwest
+nmod:npmod	rocks	Pakistan

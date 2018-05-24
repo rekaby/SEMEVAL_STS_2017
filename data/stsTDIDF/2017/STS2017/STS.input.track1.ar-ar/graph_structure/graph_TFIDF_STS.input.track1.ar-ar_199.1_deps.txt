@@ -1,0 +1,9 @@
+rule	see	acl
+pitch	for	case
+ROOT	rule	root
+rule	The	det
+pitch	dust	compound
+rule	pitch	nmod:for
+rule	same	amod
+pitch	plate	compound
+rule	.	punct

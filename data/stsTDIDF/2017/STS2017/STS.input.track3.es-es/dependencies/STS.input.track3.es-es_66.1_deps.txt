@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	plays	dog
+root	ROOT	plays
+case	field	in
+det	field	a
+nmod:in	plays	field
+punct	plays	.

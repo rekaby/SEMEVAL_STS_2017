@@ -1,0 +1,10 @@
+amod	huallaga	alto
+nsubj	located	huallaga
+cop	located	is
+root	ROOT	located
+advmod	located	northeast
+case	lima	of
+det	lima	the
+compound	lima	capital
+nmod:of	northeast	lima
+punct	located	.

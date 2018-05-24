@@ -1,0 +1,8 @@
+det	decrease	a
+amod	decrease	sudden
+amod	decrease	sharp
+root	ROOT	decrease
+case	quantity	in
+det	quantity	some
+nmod:in	decrease	quantity
+punct	decrease	.

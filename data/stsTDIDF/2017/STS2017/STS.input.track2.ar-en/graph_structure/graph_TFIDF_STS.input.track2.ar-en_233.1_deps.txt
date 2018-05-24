@@ -1,0 +1,11 @@
+children	other	amod
+clowns	as	case
+children	.	punct
+dressed	clowns	nmod:as
+ropes	on	case
+performing	children	nmod:with
+dressed	ropes	nmod:on
+children	Two	nummod
+children	dressed	acl
+ropes	performing	acl
+ROOT	children	root

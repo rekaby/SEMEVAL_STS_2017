@@ -1,0 +1,16 @@
+nmod:tmod	closed	Yesterday
+punct	closed	,
+nsubj	closed	shares
+root	ROOT	closed
+advmod	closed	up
+nummod	cents	29
+nmod:npmod	up	cents
+punct	closed	,
+cc	closed	or
+nummod	percent	0.54
+conj:or	closed	percent
+punct	percent	,
+case	$	at
+nmod:at	percent	$
+nummod	$	54.32
+punct	closed	.

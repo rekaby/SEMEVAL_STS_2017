@@ -1,0 +1,13 @@
+nsubj	agree	I
+root	ROOT	agree
+case	commentators	with
+det	commentators	the
+nmod:with	agree	commentators
+dobj	confusing	that
+nmod:poss	question	your
+nsubj	confusing	question
+cop	confusing	is
+det	confusing	a
+amod	confusing	little
+acl:relcl	commentators	confusing
+punct	agree	.

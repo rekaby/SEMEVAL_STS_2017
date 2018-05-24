@@ -1,0 +1,10 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	water	in
+nmod:in	standing	water
+case	waterfall	near
+det	waterfall	a
+nmod:near	water	waterfall
+punct	standing	.

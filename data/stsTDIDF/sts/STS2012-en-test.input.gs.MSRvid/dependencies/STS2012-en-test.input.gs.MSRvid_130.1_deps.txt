@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	small
+nsubj	chasing	dog
+aux	chasing	is
+root	ROOT	chasing
+det	ball	a
+compound	ball	yoga
+dobj	chasing	ball
+punct	chasing	.

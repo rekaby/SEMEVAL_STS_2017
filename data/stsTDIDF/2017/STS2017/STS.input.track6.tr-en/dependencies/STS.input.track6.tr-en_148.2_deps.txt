@@ -1,0 +1,7 @@
+det	man	The
+nsubj	works	man
+root	ROOT	works
+case	store	in
+det	store	a
+nmod:in	works	store
+punct	works	.

@@ -1,0 +1,6 @@
+compound	signal	Stock
+compound	signal	index
+compound	signal	futures
+nsubj	losses	signal
+amod	losses	early
+root	ROOT	losses

@@ -1,0 +1,8 @@
+delivered	be	auxpass
+waiting	is	aux
+pizza	his	nmod:poss
+waiting	pizza	nmod:for
+pizza	for	case
+waiting	man	nsubj
+waiting	delivered	xcomp
+delivered	to	mark

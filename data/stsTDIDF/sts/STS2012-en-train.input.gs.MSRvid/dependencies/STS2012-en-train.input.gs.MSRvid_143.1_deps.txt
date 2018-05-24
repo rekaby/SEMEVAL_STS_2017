@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	styling	girl
+aux	styling	is
+root	ROOT	styling
+nmod:poss	hair	her
+dobj	styling	hair
+punct	styling	.

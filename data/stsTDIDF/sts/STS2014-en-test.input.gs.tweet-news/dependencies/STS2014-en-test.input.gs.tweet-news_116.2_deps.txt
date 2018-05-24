@@ -1,0 +1,11 @@
+advmod	came	How
+nmod:poss	general	America
+case	America	's
+amod	general	top
+nsubj	came	general
+root	ROOT	came
+mark	endorse	to
+xcomp	came	endorse
+dobj	endorse	women
+case	combat	in
+nmod:in	endorse	combat

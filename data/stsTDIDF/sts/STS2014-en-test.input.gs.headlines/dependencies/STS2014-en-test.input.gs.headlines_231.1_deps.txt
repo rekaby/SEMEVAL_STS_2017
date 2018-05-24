@@ -1,0 +1,9 @@
+nsubj	invests	Google
+root	ROOT	invests
+dobj	invests	$
+compound	million	200
+nummod	$	million
+case	farm	in
+compound	farm	Texas
+compound	farm	wind
+nmod:in	invests	farm

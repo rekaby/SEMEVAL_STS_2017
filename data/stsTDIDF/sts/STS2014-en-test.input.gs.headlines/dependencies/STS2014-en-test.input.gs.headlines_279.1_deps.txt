@@ -1,0 +1,8 @@
+amod	rain	Heavy
+nsubj	raises	rain
+root	ROOT	raises
+compound	flooding	threat
+case	Day	of
+compound	Day	Christmas
+nmod:of	threat	Day
+dobj	raises	flooding

@@ -1,0 +1,7 @@
+det	affliction	any
+root	ROOT	affliction
+nsubj	causes	that
+acl:relcl	affliction	causes
+amod	suffering	great
+dobj	causes	suffering
+punct	affliction	.

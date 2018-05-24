@@ -1,0 +1,8 @@
+singing	playing	conj:and
+singing	is	cop
+singing	.	punct
+playing	guitar	dobj
+singing	man	nsubj
+playing	woman	nsubj
+singing	and	cc
+ROOT	singing	root

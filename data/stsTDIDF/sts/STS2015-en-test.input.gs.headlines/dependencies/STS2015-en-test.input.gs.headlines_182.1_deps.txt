@@ -1,0 +1,9 @@
+compound	rocks	Moon
+nsubj	indicate	rocks
+root	ROOT	indicate
+nmod:poss	orb	earth
+case	earth	's
+dobj	indicate	orb
+acl	orb	born
+case	collision	of
+nmod:of	born	collision

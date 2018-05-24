@@ -1,0 +1,7 @@
+nsubj	announces	Egypt
+root	ROOT	announces
+amod	state	one-month
+dobj	announces	state
+case	emergency	of
+nmod:of	state	emergency
+advmod	announces	nationwide

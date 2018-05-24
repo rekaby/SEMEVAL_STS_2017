@@ -1,0 +1,8 @@
+det	battery	the
+nsubj	containing	battery
+aux	containing	is
+root	ROOT	containing
+det	charge	a
+amod	charge	negative
+dobj	containing	charge
+advmod	containing	only

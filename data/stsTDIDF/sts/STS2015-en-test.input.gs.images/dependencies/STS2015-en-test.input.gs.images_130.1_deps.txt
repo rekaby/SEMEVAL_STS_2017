@@ -1,0 +1,14 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	running
+case	snow	across
+det	snow	the
+nmod:across	running	snow
+case	snowball	with
+det	snowball	a
+nmod:with	running	snowball
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+advcl	running	mouth
+punct	dog	.

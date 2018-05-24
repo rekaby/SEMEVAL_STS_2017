@@ -1,0 +1,14 @@
+nsubj	appeared	Women
+advmod	appeared	first
+root	ROOT	appeared
+case	Olympics	in
+det	Olympics	the
+amod	Olympics	modern
+nmod:in	appeared	Olympics
+case	Croquet	in
+nmod:in	appeared	Croquet
+case	Olympics	at
+det	Olympics	the
+nummod	Olympics	1900
+nmod:at	appeared	Olympics
+punct	appeared	.

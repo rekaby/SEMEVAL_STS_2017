@@ -1,0 +1,16 @@
+nmod:poss	country	our
+nsubjpass	supposed	country
+auxpass	supposed	is
+root	ROOT	supposed
+mark	nation	to
+cop	nation	be
+det	nation	a
+xcomp	supposed	nation
+case	laws	of
+nmod:of	nation	laws
+cc	laws	and
+neg	men	not
+conj:and	laws	men
+punct	laws	,
+conj:and	laws	right
+punct	supposed	?

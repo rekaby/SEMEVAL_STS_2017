@@ -1,0 +1,6 @@
+amod	rebels	Kurdish
+root	ROOT	rebels
+mark	withdraw	to
+acl	rebels	withdraw
+case	Turkey	from
+nmod:from	withdraw	Turkey

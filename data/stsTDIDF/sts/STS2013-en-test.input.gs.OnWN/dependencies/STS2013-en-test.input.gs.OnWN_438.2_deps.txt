@@ -1,0 +1,6 @@
+root	ROOT	consider
+case	part	as
+nmod:as	consider	part
+case	something	of
+nmod:of	part	something
+punct	consider	.

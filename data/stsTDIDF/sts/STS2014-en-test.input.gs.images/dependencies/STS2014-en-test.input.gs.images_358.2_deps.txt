@@ -1,0 +1,10 @@
+root	ROOT	Man
+acl	Man	paddling
+det	canoe	a
+amod	canoe	yellow
+dobj	paddling	canoe
+case	shore	towards
+det	shore	a
+det	shore	the
+nmod:towards	paddling	shore
+punct	Man	.

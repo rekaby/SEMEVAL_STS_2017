@@ -1,0 +1,6 @@
+amod	woman	Older
+root	ROOT	woman
+acl	woman	holding
+amod	baby	newborn
+dobj	holding	baby
+punct	woman	.

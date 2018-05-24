@@ -1,0 +1,9 @@
+root	ROOT	Entreat
+punct	Entreat	;
+parataxis	Entreat	ask
+case	information	for
+det	information	some
+nmod:for	ask	information
+cc	information	or
+conj:or	information	action
+punct	Entreat	.

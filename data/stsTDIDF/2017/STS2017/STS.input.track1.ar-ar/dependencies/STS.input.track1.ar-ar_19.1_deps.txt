@@ -1,0 +1,4 @@
+root	ROOT	Ground
+case	snow	by
+nmod:by	Ground	snow
+punct	Ground	.

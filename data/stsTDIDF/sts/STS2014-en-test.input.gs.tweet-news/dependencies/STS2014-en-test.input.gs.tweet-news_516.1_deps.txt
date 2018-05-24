@@ -1,0 +1,11 @@
+root	ROOT	Rangel
+punct	Rangel	:
+advmod	equal	More
+amod	military	equal
+dep	Rangel	military
+punct	Rangel	?-6) root(ROOT-0, Bring
+compound:prt	Bring	back
+compound	#usaf	draft
+compound	#usaf	#deployment
+dobj	Bring	#usaf
+dobj	Bring	#military

@@ -1,0 +1,7 @@
+det	area	an
+root	ROOT	area
+acl	area	enclosed
+case	walls	by
+nmod:by	enclosed	walls
+cc	walls	or
+conj:or	walls	buildings

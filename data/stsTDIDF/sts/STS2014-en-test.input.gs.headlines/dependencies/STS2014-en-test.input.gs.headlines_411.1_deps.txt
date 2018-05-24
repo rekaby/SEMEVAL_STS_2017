@@ -1,0 +1,8 @@
+compound	Froome	Chris
+nsubj	rides	Froome
+root	ROOT	rides
+case	France	to
+compound	France	Tour
+compound	France	de
+nmod:to	rides	France
+dep	rides	endgame

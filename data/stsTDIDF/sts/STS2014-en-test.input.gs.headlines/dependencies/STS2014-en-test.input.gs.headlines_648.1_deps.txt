@@ -1,0 +1,6 @@
+amod	forces	French
+nsubj	take	forces
+root	ROOT	take
+amod	town	key
+compound	town	Mali
+dobj	take	town

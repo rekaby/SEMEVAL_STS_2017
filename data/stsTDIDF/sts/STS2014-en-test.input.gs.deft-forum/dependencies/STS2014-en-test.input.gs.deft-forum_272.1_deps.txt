@@ -1,0 +1,13 @@
+dep	asserts	Oh
+punct	Oh	,
+cc	Oh	and
+conj:and	Oh	again
+root	ROOT	asserts
+mark	right	that
+nsubj	right	marriage
+cop	right	is
+det	right	a
+amod	right	fundamental
+amod	right	human
+ccomp	asserts	right
+punct	asserts	.

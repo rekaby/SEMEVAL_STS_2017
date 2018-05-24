@@ -1,0 +1,9 @@
+amod	Leader	Israeli
+nsubj	Puts	Leader
+root	ROOT	Puts
+case	Settlers	Off
+compound	Settlers	Evicting
+nmod:off	Puts	Settlers
+case	House	From
+compound	House	Hebron
+nmod:from	Settlers	House

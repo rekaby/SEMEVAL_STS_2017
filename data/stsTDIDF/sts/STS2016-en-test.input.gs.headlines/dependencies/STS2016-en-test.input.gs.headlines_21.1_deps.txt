@@ -1,0 +1,10 @@
+nsubj	confirms	Senate
+root	ROOT	confirms
+compound	Yellen	Janet
+dobj	confirms	Yellen
+case	chair	as
+nmod:as	Yellen	chair
+case	Reserve	of
+compound	Reserve	US
+compound	Reserve	Federal
+nmod:of	chair	Reserve

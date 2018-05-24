@@ -1,0 +1,7 @@
+neg	winners	No
+root	ROOT	winners
+case	war	in
+det	war	a
+nmod:in	winners	war
+case	sanctions	of
+nmod:of	war	sanctions

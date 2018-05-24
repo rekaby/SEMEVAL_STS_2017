@@ -1,0 +1,9 @@
+det	person	A
+nsubj	drops	person
+root	ROOT	drops
+det	camera	a
+dobj	drops	camera
+case	escelator	down
+det	escelator	an
+nmod:down	drops	escelator
+punct	drops	.

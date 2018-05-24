@@ -1,0 +1,8 @@
+dep	holding	A
+advmod	holding	little
+nsubj	holding	girl
+root	ROOT	holding
+det	boy	a
+amod	boy	little
+dobj	holding	boy
+punct	holding	.

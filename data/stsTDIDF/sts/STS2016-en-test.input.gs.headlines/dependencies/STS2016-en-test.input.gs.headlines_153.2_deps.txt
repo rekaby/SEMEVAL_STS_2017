@@ -1,0 +1,6 @@
+compound	prices	Oil
+root	ROOT	prices
+acl	prices	down
+case	trade	in
+amod	trade	Asian
+nmod:in	down	trade

@@ -1,0 +1,13 @@
+nummod	men	Two
+nsubjpass	seated	men
+case	branch	from
+det	branch	the
+amod	branch	same
+amod	branch	military
+nmod:from	men	branch
+auxpass	seated	are
+root	ROOT	seated
+case	bus	on
+det	bus	a
+nmod:on	seated	bus
+punct	seated	.

@@ -1,0 +1,7 @@
+compound	Chavez	Hugo
+root	ROOT	Chavez
+punct	Chavez	:
+amod	officials	Venezuelan
+dep	Chavez	officials
+case	unity	for
+nmod:for	officials	unity

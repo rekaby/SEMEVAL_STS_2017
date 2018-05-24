@@ -1,0 +1,9 @@
+det	lion	A
+nsubj	walking	lion
+aux	walking	is
+root	ROOT	walking
+case	area	in
+det	area	an
+amod	area	enclosed
+nmod:in	walking	area
+punct	walking	.

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	walks	woman
+root	ROOT	walks
+case	waves	among
+det	waves	the
+nmod:among	walks	waves
+case	beach	on
+det	beach	the
+nmod:on	waves	beach
+punct	walks	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	applying	woman
+aux	applying	is
+root	ROOT	applying
+compound	shadow	eye
+dobj	applying	shadow
+punct	applying	.

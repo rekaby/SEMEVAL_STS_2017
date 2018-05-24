@@ -1,0 +1,9 @@
+amod	toll	Bangladesh
+compound	toll	building
+compound	toll	collapse
+compound	toll	death
+nsubj	hits	toll
+root	ROOT	hits
+dobj	hits	540
+punct	hits	:
+dep	hits	army

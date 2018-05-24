@@ -1,0 +1,15 @@
+det	ability	the
+root	ROOT	ability
+case	computers	of
+nmod:of	ability	computers
+mark	exchange	to
+acl	ability	exchange
+amod	information	digital
+dobj	exchange	information
+case	them	between
+nmod:between	exchange	them
+cc	exchange	and
+conj:and	exchange	make
+dobj	make	use
+case	it	of
+nmod:of	use	it

@@ -1,0 +1,8 @@
+det	rat	A
+nsubj	smelling	rat
+case	creature	like
+nmod:like	rat	creature
+aux	smelling	is
+root	ROOT	smelling
+advmod	smelling	around
+punct	smelling	.

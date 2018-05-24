@@ -1,0 +1,3 @@
+group	man	nsubj
+group	is	cop
+group	friends	nmod:of

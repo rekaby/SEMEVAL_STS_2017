@@ -1,0 +1,14 @@
+nsubj	picture	This
+cop	picture	is
+det	picture	a
+amod	picture	black
+cc	black	and
+conj:and	black	white
+root	ROOT	picture
+case	bottle	of
+det	bottle	a
+amod	bottle	short
+amod	bottle	squat
+compound	bottle	Coca-cola
+nmod:of	picture	bottle
+punct	picture	.

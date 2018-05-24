@@ -1,0 +1,12 @@
+mark	opens	because
+nsubj	opens	it
+advcl	closed	opens
+det	circuit	the
+dobj	opens	circuit
+punct	closed	,
+advmod	closed	therefore
+det	circuit	the
+nsubjpass	closed	circuit
+auxpass	closed	is
+neg	closed	not
+root	ROOT	closed

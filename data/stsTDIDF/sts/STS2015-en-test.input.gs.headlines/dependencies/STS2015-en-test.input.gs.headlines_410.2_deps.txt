@@ -1,0 +1,9 @@
+compound	plan	Kerry
+nsubj	freeze	plan
+mark	include	to
+acl	plan	include
+compound	release	prisoner
+dobj	include	release
+punct	plan	,
+compound	freeze	settlement
+root	ROOT	freeze

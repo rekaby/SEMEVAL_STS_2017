@@ -1,0 +1,6 @@
+compound	crisis	Algeria
+compound	crisis	hostage
+nsubj	ends	crisis
+root	ROOT	ends
+case	bloodbath	in
+nmod:in	ends	bloodbath

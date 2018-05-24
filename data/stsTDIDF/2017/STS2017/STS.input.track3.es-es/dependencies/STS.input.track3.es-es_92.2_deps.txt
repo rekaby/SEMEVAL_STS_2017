@@ -1,0 +1,15 @@
+det	man	The
+nsubj	reviewing	man
+aux	reviewing	is
+root	ROOT	reviewing
+nmod:poss	actions	his
+dobj	reviewing	actions
+mark	making	before
+advcl	reviewing	making
+det	comment	a
+dobj	making	comment
+case	people	to
+det	people	the
+amod	people	other
+nmod:to	comment	people
+punct	reviewing	.

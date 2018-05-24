@@ -1,0 +1,7 @@
+compound	Hamilton	Lewis
+nsubj	Takes	Hamilton
+root	ROOT	Takes
+dobj	Takes	Pole
+case	GP	for
+compound	GP	Russian
+nmod:for	Pole	GP

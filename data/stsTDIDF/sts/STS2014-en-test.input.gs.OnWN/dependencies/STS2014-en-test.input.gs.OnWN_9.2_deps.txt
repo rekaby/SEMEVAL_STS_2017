@@ -1,0 +1,10 @@
+root	ROOT	sink
+case	level	to
+det	level	a
+amod	level	lower
+nmod:to	sink	level
+cc	sink	or
+conj:or	sink	form
+det	depression	a
+dobj	form	depression
+punct	sink	.

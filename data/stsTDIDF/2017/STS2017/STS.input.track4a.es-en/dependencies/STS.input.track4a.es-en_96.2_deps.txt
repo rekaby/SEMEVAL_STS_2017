@@ -1,0 +1,7 @@
+det	children	The
+nsubj	classroom	children
+cop	classroom	are
+case	classroom	in
+det	classroom	a
+root	ROOT	classroom
+punct	classroom	.

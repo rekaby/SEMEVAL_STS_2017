@@ -1,0 +1,7 @@
+mountain	glider	nmod:with
+ROOT	Someone	root
+Someone	.	punct
+mountain	a	det
+glider	green	amod
+glider	with	case
+Someone	mountain	nmod:on

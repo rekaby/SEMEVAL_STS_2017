@@ -1,0 +1,9 @@
+nummod	dogs	Three
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+case	snow	in
+det	snow	the
+amod	snow	white
+nmod:in	playing	snow
+punct	playing	.

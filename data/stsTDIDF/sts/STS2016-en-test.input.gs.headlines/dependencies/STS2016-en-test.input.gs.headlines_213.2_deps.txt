@@ -1,0 +1,6 @@
+amod	bulls	Spanish
+nsubj	gore	bulls
+root	ROOT	gore
+dobj	gore	seven
+case	death	to
+nmod:to	seven	death

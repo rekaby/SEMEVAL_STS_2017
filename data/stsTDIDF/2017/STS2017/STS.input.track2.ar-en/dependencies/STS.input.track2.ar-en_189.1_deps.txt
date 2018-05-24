@@ -1,0 +1,13 @@
+det	male	A
+amod	male	sad
+nsubj	playing	male
+aux	playing	is
+root	ROOT	playing
+amod	guitar	electric
+dobj	playing	guitar
+mark	wearing	while
+advcl	playing	wearing
+det	hat	a
+amod	hat	white
+dobj	wearing	hat
+punct	playing	.

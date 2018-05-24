@@ -1,0 +1,6 @@
+man	resting	acl:relcl
+resting	stomach	nmod:after
+stomach	the	det
+resting	is	aux
+resting	who	nsubj
+stomach	after	case

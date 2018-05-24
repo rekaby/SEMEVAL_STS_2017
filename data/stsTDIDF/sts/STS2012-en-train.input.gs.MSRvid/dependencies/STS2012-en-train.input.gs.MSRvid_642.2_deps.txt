@@ -1,0 +1,13 @@
+det	man	A
+nsubj	standing	man
+case	suit	in
+det	suit	a
+nmod:in	man	suit
+aux	standing	is
+root	ROOT	standing
+case	microphone	at
+det	microphone	a
+nmod:at	standing	microphone
+cc	microphone	and
+conj:and	microphone	singing
+punct	standing	.

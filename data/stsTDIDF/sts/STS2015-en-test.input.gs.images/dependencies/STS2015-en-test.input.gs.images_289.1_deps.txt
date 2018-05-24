@@ -1,0 +1,11 @@
+nummod	people	Two
+nsubj	racing	people
+aux	racing	are
+root	ROOT	racing
+det	motorcycle	a
+compound	motorcycle	sidecar
+dobj	racing	motorcycle
+case	mud	in
+det	mud	the
+nmod:in	racing	mud
+punct	racing	.

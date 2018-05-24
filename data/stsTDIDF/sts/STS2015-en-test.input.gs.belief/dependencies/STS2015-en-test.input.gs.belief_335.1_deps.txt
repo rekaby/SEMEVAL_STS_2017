@@ -1,0 +1,14 @@
+neg	went	not
+advmod	went	really
+punct	went	,
+nsubj	went	most
+case	votes	of
+det	votes	the
+amod	votes	lost
+compound	votes	sdp
+nmod:of	most	votes
+root	ROOT	went
+case	greens	to
+det	greens	the
+nmod:to	went	greens
+punct	went	.

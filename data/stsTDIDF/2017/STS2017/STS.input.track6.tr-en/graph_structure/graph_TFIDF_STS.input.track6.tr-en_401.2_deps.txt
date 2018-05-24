@@ -1,0 +1,9 @@
+tournament	skate	compound
+ROOT	participating	root
+participating	are	aux
+tournament	a	det
+tournament	in	case
+participating	.	punct
+participating	group	nsubj
+group	girls	nmod:of
+participating	tournament	nmod:in

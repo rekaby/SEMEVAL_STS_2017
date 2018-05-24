@@ -1,0 +1,14 @@
+dep	unveiled	ICYMI
+punct	unveiled	,
+nsubj	unveiled	Facebook
+root	ROOT	unveiled
+det	tool	a
+amod	tool	new
+compound	tool	search
+dobj	unveiled	tool
+nmod:tmod	unveiled	today
+punct	unveiled	:
+punct	unveiled	``
+compound	Searchl	Graph
+dep	unveiled	Searchl
+punct	Searchl	''

@@ -1,0 +1,14 @@
+det	child	A
+root	ROOT	child
+acl	child	wearing
+det	jump	a
+amod	jump	red
+dobj	wearing	jump
+case	something	on
+nmod:on	jump	something
+amod	something	red
+punct	child	,
+mark	laugh	while
+nsubj	laugh	others
+advcl	child	laugh
+punct	child	.

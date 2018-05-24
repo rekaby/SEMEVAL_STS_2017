@@ -1,0 +1,12 @@
+advmod	was	so
+root	ROOT	was
+nsubj	was	this
+acl	this	upholding
+det	law	the
+dobj	upholding	law
+punct	law	,
+cc	law	or
+advmod	armed	just
+amod	robbery	armed
+conj:or	law	robbery
+punct	was	?

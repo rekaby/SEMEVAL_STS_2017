@@ -1,0 +1,14 @@
+nsubj	get	You
+aux	get	can
+root	ROOT	get
+det	estimate	a
+amod	estimate	rough
+dobj	get	estimate
+mark	using	from
+acl	estimate	using
+det	website	an
+amod	website	online
+compound	website	calorie
+compound	website	estimation
+dobj	using	website
+punct	get	.

@@ -1,0 +1,7 @@
+compound	Morsi	Mohamed
+root	ROOT	Morsi
+acl	Morsi	sworn
+case	president	in
+case	president	as
+amod	president	Eygptian
+nmod:as	sworn	president

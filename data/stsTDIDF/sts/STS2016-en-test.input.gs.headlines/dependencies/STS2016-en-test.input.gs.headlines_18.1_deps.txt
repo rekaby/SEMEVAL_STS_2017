@@ -1,0 +1,8 @@
+compound	protesters	Egypt
+nsubj	defy	protesters
+root	ROOT	defy
+compound	threat	cabinet
+dobj	defy	threat
+mark	end	to
+advcl	defy	end
+dobj	end	sit-ins

@@ -1,0 +1,6 @@
+compound	Janus	Winter
+compound	Janus	Storm
+root	ROOT	Janus
+punct	Janus	:
+dep	Janus	State-by-State
+punct	Janus	...

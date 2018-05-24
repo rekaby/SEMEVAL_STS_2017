@@ -1,0 +1,10 @@
+nsubj	depends	It
+advmod	depends	really
+root	ROOT	depends
+advmod	depends	on
+advmod	documents	how
+det	employer	the
+nsubj	documents	employer
+dep	on	documents
+dobj	documents	it
+punct	depends	.

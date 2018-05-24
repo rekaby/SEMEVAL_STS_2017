@@ -1,0 +1,9 @@
+nsubj	chairs	People
+cop	chairs	are
+amod	chairs	folding
+root	ROOT	chairs
+acl	chairs	look
+case	cliff	of
+det	cliff	a
+nmod:of	look	cliff
+punct	chairs	.

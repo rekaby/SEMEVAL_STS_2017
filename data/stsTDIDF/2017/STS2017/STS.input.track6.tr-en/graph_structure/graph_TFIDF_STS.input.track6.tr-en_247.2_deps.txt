@@ -1,0 +1,9 @@
+smiling	.	punct
+smiling	camera	nmod:at
+camera	at	case
+shirt	yellow	amod
+women	Three	nummod
+ROOT	smiling	root
+women	shirt	nmod:in
+smiling	are	aux
+smiling	women	nsubj

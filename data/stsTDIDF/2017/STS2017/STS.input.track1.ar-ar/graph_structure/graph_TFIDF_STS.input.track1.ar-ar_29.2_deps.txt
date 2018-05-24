@@ -1,0 +1,10 @@
+playing	clothes	nmod:with
+girl	playing	acl
+clothes	with	case
+clothes	Game	compound
+balcony	the	det
+clothes	boyfriend	compound
+clothes	her	nmod:poss
+clothes	fancy	amod
+playing	balcony	nmod:in
+balcony	in	case

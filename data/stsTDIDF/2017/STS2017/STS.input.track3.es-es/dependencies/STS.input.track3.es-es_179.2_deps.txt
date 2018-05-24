@@ -1,0 +1,7 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	standing
+case	door	outside
+det	door	a
+nmod:outside	standing	door
+punct	people	.

@@ -1,0 +1,8 @@
+man	younger	amod
+has	sense	dobj
+man	older	amod
+sense	younger	amod
+has	man	nsubj
+sense	man	nmod:than
+sense	fashion	compound
+man	than	case

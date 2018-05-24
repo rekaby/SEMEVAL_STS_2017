@@ -1,0 +1,7 @@
+det	cause	any
+root	ROOT	cause
+cc	cause	or
+conj:or	cause	source
+case	suffering	of
+amod	suffering	great
+nmod:of	cause	suffering

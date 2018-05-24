@@ -1,0 +1,5 @@
+root	ROOT	behave
+case	manner	in
+det	manner	a
+amod	manner	condescending
+nmod:in	behave	manner

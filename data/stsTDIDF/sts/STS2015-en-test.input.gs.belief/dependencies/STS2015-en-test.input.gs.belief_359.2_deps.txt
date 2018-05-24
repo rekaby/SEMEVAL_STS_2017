@@ -1,0 +1,9 @@
+det	resolution	the
+nsubjpass	opposed	resolution
+auxpass	opposed	was
+root	ROOT	opposed
+case	administration	by
+det	administration	the
+compound	administration	obama
+nmod:agent	opposed	administration
+punct	opposed	.

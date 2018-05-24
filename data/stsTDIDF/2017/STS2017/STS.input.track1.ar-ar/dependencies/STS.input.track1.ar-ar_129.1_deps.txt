@@ -1,0 +1,6 @@
+root	ROOT	Girl
+acl	Girl	wearing
+dobj	wearing	colors
+xcomp	wearing	dance
+advmod	dance	abroad
+punct	Girl	.

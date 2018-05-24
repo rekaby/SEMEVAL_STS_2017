@@ -1,0 +1,15 @@
+compound	shares	Vivendi
+nsubj	percent	shares
+cop	percent	were
+nummod	percent	0.3
+root	ROOT	percent
+advmod	percent	up
+case	euros	at
+nummod	euros	15.62
+nmod:at	up	euros
+case	Paris	in
+nmod:in	euros	Paris
+case	GMT	at
+nummod	GMT	0841
+nmod:at	percent	GMT
+punct	percent	.

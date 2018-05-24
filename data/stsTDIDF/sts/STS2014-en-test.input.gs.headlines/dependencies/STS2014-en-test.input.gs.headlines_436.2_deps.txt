@@ -1,0 +1,10 @@
+compound	bombs	Car
+nsubj	kill	bombs
+root	ROOT	kill
+dobj	kill	20
+case	town	in
+amod	town	Turkish
+nmod:in	20	town
+case	border	near
+amod	border	Syrian
+nmod:near	town	border

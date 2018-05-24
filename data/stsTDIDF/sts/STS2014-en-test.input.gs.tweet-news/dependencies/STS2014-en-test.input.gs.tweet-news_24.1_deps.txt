@@ -1,0 +1,14 @@
+punct	love	-LRB-
+nsubj	love	I
+root	ROOT	love
+dobj	love	him
+nummod	him	!!!!
+punct	love	-RRB--6) nummod(reasons-2, 10
+root	ROOT	reasons
+nsubj	get	we
+aux	get	ca
+neg	get	n't
+acl:relcl	reasons	get
+amod	Gosling	enough
+dobj	get	Gosling
+punct	reasons	-

@@ -1,0 +1,8 @@
+det	man	A
+nsubj	tracking	man
+aux	tracking	is
+root	ROOT	tracking
+case	wood	in
+det	wood	the
+nmod:in	tracking	wood
+punct	tracking	.

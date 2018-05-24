@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	feeding	woman
+aux	feeding	is
+root	ROOT	feeding
+det	aardvark	an
+dobj	feeding	aardvark
+punct	feeding	.

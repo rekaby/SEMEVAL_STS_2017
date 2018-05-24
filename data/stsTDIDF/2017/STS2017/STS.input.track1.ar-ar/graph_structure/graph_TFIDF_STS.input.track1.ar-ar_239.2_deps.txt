@@ -1,0 +1,5 @@
+ROOT	Child	root
+Child	watching	acl
+watching	park	nmod:in
+Child	.	punct
+watching	ducks	dobj

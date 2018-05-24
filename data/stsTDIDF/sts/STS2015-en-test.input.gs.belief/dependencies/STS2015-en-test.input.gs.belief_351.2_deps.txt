@@ -1,0 +1,15 @@
+nsubj	inherited	murdoch
+root	ROOT	inherited
+nummod	newspapers	two
+advmod	successful	fairly
+amod	newspapers	successful
+dobj	inherited	newspapers
+cc	inherited	and
+conj:and	inherited	turned
+dobj	turned	them
+case	empire	into
+det	empire	a
+amod	empire	global
+compound	empire	media
+nmod:into	turned	empire
+punct	inherited	.

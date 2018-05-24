@@ -1,0 +1,11 @@
+nsubj	carrying	Someone
+root	ROOT	carrying
+det	skateboard	a
+dobj	carrying	skateboard
+case	night	for
+det	night	a
+nmod:for	carrying	night
+case	sidewalk	on
+det	sidewalk	the
+nmod:on	night	sidewalk
+punct	carrying	.

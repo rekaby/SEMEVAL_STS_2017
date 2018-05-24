@@ -1,0 +1,16 @@
+nsubj	used	We
+advmod	used	only
+root	ROOT	used
+dobj	used	Fartlek
+case	measurement	as
+det	measurement	a
+compound	measurement	fitness
+nmod:as	used	measurement
+punct	used	,
+cc	used	and
+case	bit	as
+det	bit	a
+conj:and	used	bit
+case	fun	of
+nmod:of	bit	fun
+punct	used	.

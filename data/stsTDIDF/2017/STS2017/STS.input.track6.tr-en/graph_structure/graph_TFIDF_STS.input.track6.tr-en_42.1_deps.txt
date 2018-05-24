@@ -1,0 +1,6 @@
+holding	bunch	dobj
+balloons	of	case
+bunch	balloons	nmod:of
+holding	face	nmod:in_front_of
+holding	child	nsubj
+face	their	nmod:poss

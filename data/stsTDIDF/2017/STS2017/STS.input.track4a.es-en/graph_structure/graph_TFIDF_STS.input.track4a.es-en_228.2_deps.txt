@@ -1,0 +1,6 @@
+walking	is	aux
+walking	lady	nsubj
+lady	A	det
+green	in	case
+walking	outside	advmod
+lady	green	nmod:in

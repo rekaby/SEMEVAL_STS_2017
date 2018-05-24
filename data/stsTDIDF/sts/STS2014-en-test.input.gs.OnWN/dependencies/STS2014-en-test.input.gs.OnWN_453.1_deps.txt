@@ -1,0 +1,6 @@
+det	experience	An
+amod	experience	exciting
+cc	exciting	or
+conj:or	exciting	stimulating
+root	ROOT	experience
+punct	experience	.

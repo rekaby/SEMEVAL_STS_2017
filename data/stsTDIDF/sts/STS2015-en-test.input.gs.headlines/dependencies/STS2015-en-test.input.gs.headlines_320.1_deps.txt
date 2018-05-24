@@ -1,0 +1,10 @@
+amod	PM	Georgian
+nmod:poss	ally	PM
+case	PM	's
+root	ROOT	ally
+mark	become	to
+acl	ally	become
+xcomp	become	president
+punct	ally	-
+compound	poll	exit
+dep	ally	poll

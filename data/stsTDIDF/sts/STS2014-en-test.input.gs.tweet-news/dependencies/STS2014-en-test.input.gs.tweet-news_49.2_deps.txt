@@ -1,0 +1,9 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+advmod	Help	Why
+nsubj	Help	We
+aux	Help	Must
+dep	Contributor	Help
+xcomp	Help	Save
+dobj	Save	Mali

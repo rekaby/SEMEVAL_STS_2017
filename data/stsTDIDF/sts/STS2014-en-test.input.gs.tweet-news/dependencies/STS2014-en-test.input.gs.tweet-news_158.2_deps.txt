@@ -1,0 +1,9 @@
+compound	Threat	North
+compound	Threat	Korea
+compound	Threat	Issues
+compound	Threat	Blunt
+compound	Threat	New
+root	ROOT	Threat
+case	States	to
+compound	States	United
+nmod:to	Threat	States

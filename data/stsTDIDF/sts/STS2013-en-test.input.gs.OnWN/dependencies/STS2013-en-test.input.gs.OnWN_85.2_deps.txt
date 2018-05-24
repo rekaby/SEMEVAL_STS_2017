@@ -1,0 +1,7 @@
+root	ROOT	arrange
+det	program	a
+dobj	arrange	program
+acl	program	of
+cc	of	or
+conj:or	of	for
+punct	arrange	.

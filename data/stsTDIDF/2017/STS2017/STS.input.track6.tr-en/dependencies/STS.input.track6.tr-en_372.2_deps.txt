@@ -1,0 +1,14 @@
+det	boy	A
+root	ROOT	boy
+case	piles	with
+det	piles	a
+amod	piles	red
+compound	piles	sweater
+nmod:with	boy	piles
+case	leaves	up
+det	leaves	the
+nmod:up	piles	leaves
+case	rake	with
+det	rake	a
+nmod:with	leaves	rake
+punct	boy	.

@@ -1,0 +1,10 @@
+mark	connected	Because
+amod	1	terminal
+nsubjpass	connected	1
+auxpass	connected	is
+neg	connected	not
+root	ROOT	connected
+case	6	to
+amod	6	terminal
+nmod:to	connected	6
+punct	connected	.

@@ -1,0 +1,13 @@
+det	act	the
+root	ROOT	act
+mark	taking	of
+acl	act	taking
+dobj	taking	possession
+conj:or	possession	possession
+case	something	of
+cc	of	or
+conj:or	of	power
+case	something	over
+nmod:over	possession	something
+nmod:power	possession	something
+punct	act	.

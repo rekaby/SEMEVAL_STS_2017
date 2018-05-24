@@ -1,0 +1,8 @@
+root	ROOT	Follow
+nmod:poss	own	one
+case	one	's
+nmod:poss	path	own
+cc	own	or
+conj:or	own	another
+case	another	's
+dobj	Follow	path

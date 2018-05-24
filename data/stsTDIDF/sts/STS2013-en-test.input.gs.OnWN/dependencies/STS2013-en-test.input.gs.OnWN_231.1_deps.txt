@@ -1,0 +1,6 @@
+root	ROOT	turn
+compound:prt	turn	on
+det	axis	an
+dobj	turn	axis
+punct	turn	;
+parataxis	turn	spin

@@ -1,0 +1,8 @@
+amod	president	Chinese
+nsubj	arrives	president
+root	ROOT	arrives
+case	Venezuela	in
+nmod:in	arrives	Venezuela
+case	state	for
+nmod:for	arrives	state
+dobj	arrives	visit

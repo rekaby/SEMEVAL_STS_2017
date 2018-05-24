@@ -1,0 +1,9 @@
+compound	officer	New
+compound	officer	York
+compound	officer	police
+nsubj	wounded	officer
+advmod	wounded	critically
+root	ROOT	wounded
+case	attack	in
+compound	attack	hatchet
+nmod:in	wounded	attack

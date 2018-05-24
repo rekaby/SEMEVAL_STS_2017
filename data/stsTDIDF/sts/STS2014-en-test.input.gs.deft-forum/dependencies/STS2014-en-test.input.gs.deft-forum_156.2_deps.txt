@@ -1,0 +1,14 @@
+cc	shot	Or
+det	year	the
+nsubj	shot	year
+amod	shot	old
+compound	shot	boy
+root	ROOT	shot
+xcomp	shot	dead
+case	weapons	with
+amod	weapons	automatic
+nmod:with	dead	weapons
+case	dealers	by
+compound	dealers	marijuana
+nmod:by	weapons	dealers
+punct	shot	.

@@ -1,0 +1,11 @@
+det	group	A
+amod	group	large
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	riding
+amod	horses	brown
+cc	brown	and
+conj:and	brown	white
+dobj	riding	horses
+punct	group	.

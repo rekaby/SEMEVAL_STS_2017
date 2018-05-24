@@ -1,0 +1,13 @@
+det	year	A
+advmod	posted	year
+case	year	ago
+det	firm	the
+nsubj	posted	firm
+root	ROOT	posted
+det	profit	a
+dobj	posted	profit
+case	pounds	of
+compound	million	26
+nummod	pounds	million
+nmod:of	profit	pounds
+punct	posted	.

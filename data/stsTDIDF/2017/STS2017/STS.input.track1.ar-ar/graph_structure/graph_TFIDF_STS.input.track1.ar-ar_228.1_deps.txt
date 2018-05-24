@@ -1,0 +1,15 @@
+row	.	punct
+row	legs	nmod:of
+row	boy	nmod:with
+end	row	nmod:of
+sitting	end	nmod:at
+boy	with	case
+row	of	case
+ROOT	row	root
+row	A	det
+legs	shoes	conj:and
+boy	sitting	acl
+legs	of	case
+row	the	det
+shoes	black	amod
+legs	and	cc

@@ -1,0 +1,14 @@
+root	ROOT	Frum
+punct	Frum	:
+compound	problem	U.S.
+compound	problem	gun
+nsubj	problem	problem
+cop	problem	is
+neg	problem	not
+det	problem	a
+compound	problem	race
+dep	Frum	problem
+punct	read	-LRB-
+aux	read	must
+dep	problem	read
+punct	read	-RRB-

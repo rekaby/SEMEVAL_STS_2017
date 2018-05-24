@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+case	light	next
+mwe	next	to
+det	light	a
+compound	light	traffic
+nmod:next_to	man	light
+punct	man	.

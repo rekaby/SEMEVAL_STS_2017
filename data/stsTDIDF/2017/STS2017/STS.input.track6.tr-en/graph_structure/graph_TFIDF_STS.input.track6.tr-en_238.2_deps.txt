@@ -1,0 +1,9 @@
+encounter	in	case
+encounter	long	amod
+ROOT	competes	root
+competes	encounter	nmod:in
+encounter	jump	compound
+athlete	The	det
+encounter	a	det
+competes	.	punct
+competes	athlete	nsubj

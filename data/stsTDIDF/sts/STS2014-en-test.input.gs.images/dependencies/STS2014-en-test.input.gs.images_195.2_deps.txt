@@ -1,0 +1,11 @@
+det	plane	A
+amod	plane	red
+cc	red	and
+conj:and	red	white
+root	ROOT	plane
+acl	plane	flying
+case	day	on
+det	day	a
+amod	day	sunny
+nmod:on	flying	day
+punct	plane	.

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	selling	man
+aux	selling	is
+root	ROOT	selling
+dobj	selling	items
+punct	selling	.

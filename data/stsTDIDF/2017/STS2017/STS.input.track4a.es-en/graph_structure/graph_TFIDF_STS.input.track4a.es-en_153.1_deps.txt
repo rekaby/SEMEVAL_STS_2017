@@ -1,0 +1,7 @@
+watches	.	punct
+logs	man	nsubj
+logs	cut	amod
+watches	logs	ccomp
+watches	crowd	nsubj
+crowd	A	det
+ROOT	watches	root

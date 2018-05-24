@@ -1,0 +1,7 @@
+tune	out	case
+tune	completely	advmod
+tune	.	punct
+tune	musicians	nsubj
+ROOT	tune	root
+tune	are	cop
+musicians	Two	nummod

@@ -1,0 +1,15 @@
+det	man	A
+nsubj	doing	man
+case	shorts	in
+amod	shorts	printed
+compound	shorts	board
+nmod:in	man	shorts
+aux	doing	is
+root	ROOT	doing
+det	yoga	a
+dobj	doing	yoga
+xcomp	doing	pose
+case	beach	on
+det	beach	the
+nmod:on	pose	beach
+punct	doing	.

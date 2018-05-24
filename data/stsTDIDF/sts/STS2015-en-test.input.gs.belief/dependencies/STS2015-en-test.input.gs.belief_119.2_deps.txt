@@ -1,0 +1,17 @@
+cc	demand	but
+aux	demand	do
+neg	demand	n't
+root	ROOT	demand
+nmod:poss	citizens	your
+compound	citizens	fellow
+nsubj	pay	citizens
+ccomp	demand	pay
+case	mistakes	for
+nmod:poss	mistakes	your
+amod	mistakes	own
+nmod:for	pay	mistakes
+cc	mistakes	or
+conj:or	mistakes	problems
+case	banks	with
+nmod:with	problems	banks
+punct	demand	.

@@ -1,0 +1,10 @@
+det	mower	A
+compound	mower	lawn
+nsubj	right	mower
+cop	right	is
+root	ROOT	right
+case	person	next
+mwe	next	to
+det	person	a
+nmod:next_to	right	person
+punct	right	.

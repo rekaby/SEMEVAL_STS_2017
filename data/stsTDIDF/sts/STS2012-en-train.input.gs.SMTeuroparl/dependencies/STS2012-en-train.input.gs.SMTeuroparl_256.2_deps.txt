@@ -1,0 +1,17 @@
+compound	President	Mr
+nsubj	essential	President
+punct	President	,
+appos	President	enlargement
+cop	essential	is
+root	ROOT	essential
+case	construction	for
+det	construction	the
+nmod:for	essential	construction
+case	continent	of
+det	continent	a
+amod	continent	European
+nmod:of	construction	continent
+amod	continent	strong
+cc	strong	and
+conj:and	strong	united
+punct	essential	.

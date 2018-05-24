@@ -1,0 +1,7 @@
+compound	teargas	Police
+compound	teargas	fire
+root	ROOT	teargas
+case	vote	on
+amod	vote	Venezuelan
+nmod:on	teargas	vote
+dep	vote	protesters

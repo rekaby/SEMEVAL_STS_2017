@@ -1,0 +1,4 @@
+drawing	.	punct
+ROOT	drawing	root
+artist	An	det
+drawing	artist	nsubj

@@ -1,0 +1,7 @@
+brown	and	cc
+dog	brown	amod
+grass	through	case
+walks	dog	nsubj
+walks	grass	nmod:through
+brown	tan	conj:and
+grass	green	amod

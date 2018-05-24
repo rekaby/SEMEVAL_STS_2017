@@ -1,0 +1,10 @@
+amod	Violence	Latest
+amod	Violence	Anti-Muslim
+nsubj	Kills	Violence
+case	Burma	in
+nmod:in	Violence	Burma
+root	ROOT	Kills
+dobj	Kills	1
+punct	Kills	,
+dep	Kills	Injures
+nummod	Injures	10

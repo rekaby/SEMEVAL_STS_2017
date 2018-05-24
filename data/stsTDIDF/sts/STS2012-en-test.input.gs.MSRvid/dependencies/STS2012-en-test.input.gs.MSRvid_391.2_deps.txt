@@ -1,0 +1,7 @@
+det	man	A
+nsubj	dancing	man
+aux	dancing	is
+root	ROOT	dancing
+case	rain	in
+nmod:in	dancing	rain
+punct	dancing	.

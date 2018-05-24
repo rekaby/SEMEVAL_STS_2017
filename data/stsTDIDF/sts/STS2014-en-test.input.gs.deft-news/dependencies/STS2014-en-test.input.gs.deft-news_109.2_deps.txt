@@ -1,0 +1,11 @@
+amod	officials	russian
+nsubj	stated	officials
+root	ROOT	stated
+mark	reconsider	that
+nsubj	reconsider	russia
+aux	reconsider	will
+neg	reconsider	not
+ccomp	stated	reconsider
+det	suspension	the
+dobj	reconsider	suspension
+punct	stated	.

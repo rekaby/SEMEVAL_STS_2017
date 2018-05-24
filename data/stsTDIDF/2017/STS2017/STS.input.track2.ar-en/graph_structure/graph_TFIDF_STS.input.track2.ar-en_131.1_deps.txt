@@ -1,0 +1,7 @@
+gets	boy	nsubj
+gets	ready	xcomp
+ready	throw	xcomp
+t-shirt	in	case
+boy	t-shirt	nmod:in
+t-shirt	black	amod
+t-shirt	a	det

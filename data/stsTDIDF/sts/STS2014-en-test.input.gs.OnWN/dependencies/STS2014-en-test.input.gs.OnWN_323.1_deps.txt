@@ -1,0 +1,11 @@
+det	fee	A
+nsubj	levied	fee
+root	ROOT	levied
+case	use	for
+det	use	the
+nmod:for	levied	use
+case	roads	of
+nmod:of	use	roads
+cc	roads	or
+conj:or	roads	bridges
+punct	levied	.

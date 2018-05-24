@@ -1,0 +1,6 @@
+det	cat	A
+nsubj	licking	cat
+aux	licking	is
+root	ROOT	licking
+dobj	licking	itself
+punct	licking	.

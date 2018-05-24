@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+case	jacket	in
+det	jacket	an
+amod	jacket	orange
+nmod:in	man	jacket
+acl	jacket	raising
+nmod:poss	hands	his
+dobj	raising	hands
+case	sky	to
+det	sky	the
+nmod:to	raising	sky
+case	sand	in
+det	sand	the
+nmod:in	sky	sand
+punct	man	.

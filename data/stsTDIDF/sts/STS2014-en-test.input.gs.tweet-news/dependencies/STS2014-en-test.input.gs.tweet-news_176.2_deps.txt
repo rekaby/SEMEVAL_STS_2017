@@ -1,0 +1,7 @@
+root	ROOT	Opinion
+punct	Opinion	:
+dep	Opinion	Hypochondria
+punct	Hypochondria	:
+det	Look	An
+amod	Look	Inside
+dep	Hypochondria	Look

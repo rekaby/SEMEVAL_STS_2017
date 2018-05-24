@@ -1,0 +1,6 @@
+det	state	the
+root	ROOT	state
+mark	depleted	of
+auxpass	depleted	being
+acl	state	depleted
+punct	state	.

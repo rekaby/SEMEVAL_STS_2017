@@ -1,0 +1,14 @@
+punct	believed	``
+case	firms	Unlike
+amod	firms	many
+amod	firms	early-stage
+compound	firms	Internet
+nmod:unlike	believed	firms
+punct	believed	,
+nsubjpass	believed	Google
+auxpass	believed	is
+root	ROOT	believed
+mark	profitable	to
+cop	profitable	be
+xcomp	believed	profitable
+punct	believed	.

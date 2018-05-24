@@ -1,0 +1,11 @@
+det	boy	A
+amod	boy	young
+nsubj	laying	boy
+root	ROOT	laying
+case	sofa	on
+det	sofa	a
+nmod:on	laying	sofa
+case	dog	with
+det	dog	a
+nmod:with	sofa	dog
+punct	laying	.

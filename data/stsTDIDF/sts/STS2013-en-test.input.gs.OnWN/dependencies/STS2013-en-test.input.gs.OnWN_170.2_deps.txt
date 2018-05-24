@@ -1,0 +1,8 @@
+root	ROOT	take
+dobj	take	something
+cc	something	or
+conj:or	something	somebody
+case	oneself	with
+nmod:with	take	oneself
+advmod	oneself	somewhere
+punct	take	.

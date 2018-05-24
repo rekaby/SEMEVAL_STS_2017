@@ -1,0 +1,9 @@
+compound	Center	New
+compound	Center	World
+compound	Center	Trade
+nsubj	declared	Center
+root	ROOT	declared
+amod	building	tallest
+dobj	declared	building
+case	U.S.	in
+nmod:in	building	U.S.

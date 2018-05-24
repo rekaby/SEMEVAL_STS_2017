@@ -1,0 +1,8 @@
+person	dress	nmod:in
+animal	black	amod
+dress	in	case
+animal	a	det
+animal	behind	case
+running	person	nsubj
+running	animal	nmod:behind
+dress	red	amod

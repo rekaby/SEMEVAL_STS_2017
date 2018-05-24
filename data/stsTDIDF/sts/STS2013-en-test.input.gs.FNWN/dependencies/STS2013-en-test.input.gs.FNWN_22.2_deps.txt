@@ -1,0 +1,11 @@
+root	ROOT	suffer
+det	loss	the
+dobj	suffer	loss
+case	person	of
+det	person	a
+nmod:of	loss	person
+case	death	through
+nmod:through	loss	death
+cc	death	or
+conj:or	death	removal
+punct	suffer	;

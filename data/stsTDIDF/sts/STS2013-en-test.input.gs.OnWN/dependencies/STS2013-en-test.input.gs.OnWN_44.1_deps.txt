@@ -1,0 +1,6 @@
+det	state	the
+amod	state	legal
+root	ROOT	state
+mark	owing	of
+acl	state	owing
+dobj	owing	money

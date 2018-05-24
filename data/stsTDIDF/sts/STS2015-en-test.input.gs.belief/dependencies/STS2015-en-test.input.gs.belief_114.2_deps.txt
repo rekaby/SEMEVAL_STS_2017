@@ -1,0 +1,10 @@
+nsubj	went	i
+root	ROOT	went
+conj:&	went	went
+case	friends	out
+cc	out	&
+conj:&	out	found
+amod	friends	new
+nmod:found	went	friends
+nmod:out	went	friends
+punct	went	.

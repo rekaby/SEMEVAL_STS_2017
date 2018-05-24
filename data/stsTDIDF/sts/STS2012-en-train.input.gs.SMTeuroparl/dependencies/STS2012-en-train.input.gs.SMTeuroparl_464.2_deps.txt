@@ -1,0 +1,26 @@
+nsubj	continue	They
+aux	continue	will
+root	ROOT	continue
+mark	put	to
+xcomp	continue	put
+dobj	put	pressure
+punct	continue	.-7) det(money-2, The
+nsubj	enables	money
+nsubj	earn	they
+acl:relcl	money	earn
+case	distribution	with
+det	distribution	the
+nmod:with	earn	distribution
+case	limit	beyond
+det	limit	the
+nmod:beyond	distribution	limit
+case	grammes	of
+nummod	grammes	150
+nmod:of	limit	grammes
+root	ROOT	enables
+dobj	enables	them
+mark	strengthen	to
+xcomp	enables	strengthen
+nmod:poss	position	their
+dobj	strengthen	position
+punct	enables	.

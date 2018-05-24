@@ -1,0 +1,13 @@
+det	union	The
+nsubj	said	union
+root	ROOT	said
+nsubj	reveal	it
+aux	reveal	would
+ccomp	said	reveal
+advmod	targeted	later
+dobj	targeted	which
+nsubjpass	targeted	chain
+aux	targeted	would
+auxpass	targeted	be
+ccomp	reveal	targeted
+punct	said	.

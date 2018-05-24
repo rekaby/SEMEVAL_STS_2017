@@ -1,0 +1,7 @@
+nsubj	dumps	U.S.
+root	ROOT	dumps
+dobj	dumps	bombs
+case	Reef	at
+compound	Reef	Great
+compound	Reef	Barrier
+nmod:at	dumps	Reef

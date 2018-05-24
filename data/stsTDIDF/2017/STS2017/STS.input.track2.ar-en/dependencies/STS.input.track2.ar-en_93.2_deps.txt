@@ -1,0 +1,10 @@
+nsubj	wore	Women
+root	ROOT	wore
+nmod:poss	hands	their
+dobj	wore	hands
+case	head	on
+det	man	the
+nmod:poss	head	man
+case	man	's
+nmod:on	wore	head
+punct	wore	.

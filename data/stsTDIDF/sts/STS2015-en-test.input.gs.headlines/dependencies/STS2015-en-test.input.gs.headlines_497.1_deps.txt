@@ -1,0 +1,6 @@
+compound	tribute	Stars
+compound	tribute	pay
+root	ROOT	tribute
+case	Monteith	to
+compound	Monteith	Cory
+nmod:to	tribute	Monteith

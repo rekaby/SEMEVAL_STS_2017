@@ -1,0 +1,9 @@
+det	man	The
+nsubj	woman	man
+cop	woman	is
+nsubj	relationship	woman
+cop	relationship	are
+case	relationship	in
+det	relationship	a
+root	ROOT	relationship
+punct	relationship	.

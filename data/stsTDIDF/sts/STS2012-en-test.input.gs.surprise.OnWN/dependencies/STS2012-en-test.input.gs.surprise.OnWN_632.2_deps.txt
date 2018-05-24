@@ -1,0 +1,13 @@
+root	ROOT	express
+cc	express	or
+conj:or	express	raise
+det	objection	an
+dobj	express	objection
+cc	objection	or
+conj:or	objection	protest
+cc	objection	or
+conj:or	objection	criticism
+cc	express	or
+conj:or	express	express
+dobj	express	dissent
+punct	express	.

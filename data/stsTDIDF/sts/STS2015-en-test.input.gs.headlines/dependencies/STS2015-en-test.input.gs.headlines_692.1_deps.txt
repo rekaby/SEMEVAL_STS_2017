@@ -1,0 +1,10 @@
+amod	president	Chinese
+nsubj	meets	president
+root	ROOT	meets
+amod	PM	Greek
+dobj	meets	PM
+punct	meets	,
+advcl	meets	calling
+case	partnership	for
+amod	partnership	stronger
+nmod:for	calling	partnership

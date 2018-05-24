@@ -1,0 +1,11 @@
+root	ROOT	provide
+case	usually	with
+punct	something	-LRB-
+dep	usually	something
+punct	something	-RRB-
+nmod:with	provide	usually
+case	purpose	for
+det	purpose	a
+amod	purpose	specific
+nmod:for	usually	purpose
+punct	provide	.

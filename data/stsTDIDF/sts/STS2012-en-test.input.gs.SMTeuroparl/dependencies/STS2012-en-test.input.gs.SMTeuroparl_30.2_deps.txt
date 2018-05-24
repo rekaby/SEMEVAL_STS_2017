@@ -1,0 +1,15 @@
+nsubj	increased	It
+aux	increased	has
+root	ROOT	increased
+det	power	the
+dobj	increased	power
+case	countries	of
+det	countries	the
+amod	countries	large
+nmod:of	power	countries
+case	detriment	to
+det	detriment	the
+nmod:to	increased	detriment
+case	small	of
+nmod:of	detriment	small
+punct	increased	.

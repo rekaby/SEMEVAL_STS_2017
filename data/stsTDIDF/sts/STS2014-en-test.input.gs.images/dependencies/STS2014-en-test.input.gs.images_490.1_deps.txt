@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	shopping	women
+root	ROOT	shopping
+case	store	at
+det	store	a
+compound	store	clothing
+nmod:at	shopping	store
+punct	shopping	.

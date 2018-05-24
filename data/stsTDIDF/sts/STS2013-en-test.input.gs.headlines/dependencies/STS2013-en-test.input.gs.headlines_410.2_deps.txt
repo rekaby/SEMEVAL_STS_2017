@@ -1,0 +1,5 @@
+compound	warning	Tsunami
+root	ROOT	warning
+case	quake	after
+compound	quake	Aceh
+nmod:after	warning	quake

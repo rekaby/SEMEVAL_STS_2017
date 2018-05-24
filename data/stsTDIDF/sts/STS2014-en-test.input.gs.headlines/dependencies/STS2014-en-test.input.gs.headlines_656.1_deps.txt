@@ -1,0 +1,8 @@
+dep	restored	Internet
+punct	restored	,
+compound	service	phone
+nsubj	restored	service
+root	ROOT	restored
+case	capital	in
+amod	capital	Syrian
+nmod:in	restored	capital

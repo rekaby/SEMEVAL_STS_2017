@@ -1,0 +1,17 @@
+nsubj	heard	We
+root	ROOT	heard
+mark	restructured	that
+det	presidency	the
+amod	presidency	previous
+nsubj	restructured	presidency
+advmod	restructured	initially
+ccomp	heard	restructured
+advmod	dismantled	then
+xcomp	restructured	dismantled
+det	ministry	the
+dobj	dismantled	ministry
+case	opportunity	for
+det	opportunity	the
+amod	opportunity	equal
+nmod:for	dismantled	opportunity
+punct	heard	.

@@ -1,0 +1,6 @@
+presentation	the	det
+crowd	watching	acl
+large	very	advmod
+is	crowd	nsubj
+watching	presentation	dobj
+crowd	large	amod

@@ -1,0 +1,9 @@
+det	bird	A
+root	ROOT	bird
+acl	bird	holding
+case	gate	on
+case	gate	to
+det	gate	a
+compound	gate	metal
+nmod:to	holding	gate
+punct	bird	.

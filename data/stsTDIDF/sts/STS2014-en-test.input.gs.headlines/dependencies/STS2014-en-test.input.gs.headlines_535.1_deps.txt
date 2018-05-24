@@ -1,0 +1,9 @@
+compound	sets	Man
+root	ROOT	sets
+dobj	sets	himself
+case	fire	on
+nmod:on	himself	fire
+case	Mall	on
+det	Mall	the
+compound	Mall	National
+nmod:on	fire	Mall

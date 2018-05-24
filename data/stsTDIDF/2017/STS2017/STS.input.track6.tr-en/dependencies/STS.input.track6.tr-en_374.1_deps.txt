@@ -1,0 +1,10 @@
+expl	is	There
+root	ROOT	is
+det	man	a
+advmod	frustrated	very
+amod	man	frustrated
+nsubj	is	man
+case	photograph	in
+det	photograph	the
+nmod:in	is	photograph
+punct	is	.

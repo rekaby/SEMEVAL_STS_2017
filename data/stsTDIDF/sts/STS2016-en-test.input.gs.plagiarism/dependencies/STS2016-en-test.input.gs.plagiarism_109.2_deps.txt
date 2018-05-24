@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+nummod	steps	four
+nsubj	are	steps
+case	Programming	in
+compound	Programming	Dynamic
+nmod:in	steps	Programming
+punct	are	:
+dep	are	1
+punct	are	.

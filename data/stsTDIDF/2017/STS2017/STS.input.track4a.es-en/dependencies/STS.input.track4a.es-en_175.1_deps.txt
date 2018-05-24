@@ -1,0 +1,6 @@
+det	dog	A
+nsubj	sniffs	dog
+root	ROOT	sniffs
+det	dog	another
+dobj	sniffs	dog
+punct	sniffs	.

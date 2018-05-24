@@ -1,0 +1,8 @@
+compound	Korea	North
+nsubj	blocks	Korea
+root	ROOT	blocks
+dobj	blocks	access
+case	zone	to
+amod	zone	joint
+amod	zone	industrial
+nmod:to	access	zone

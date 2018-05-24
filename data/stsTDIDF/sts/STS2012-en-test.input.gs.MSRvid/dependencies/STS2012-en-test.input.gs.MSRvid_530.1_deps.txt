@@ -1,0 +1,10 @@
+det	person	A
+nsubj	doing	person
+aux	doing	is
+root	ROOT	doing
+compound	tricks	pencil
+dobj	doing	tricks
+case	hand	with
+nmod:poss	hand	his
+nmod:with	doing	hand
+punct	doing	.

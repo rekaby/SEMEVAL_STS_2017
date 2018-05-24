@@ -1,0 +1,9 @@
+compound	fire	Gunners
+root	ROOT	fire
+cc	fire	but
+conj:but	fire	fail
+mark	advance	to
+xcomp	fail	advance
+case	League	in
+compound	League	Champions
+nmod:in	advance	League

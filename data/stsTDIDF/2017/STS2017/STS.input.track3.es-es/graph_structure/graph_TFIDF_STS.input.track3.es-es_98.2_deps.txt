@@ -1,0 +1,13 @@
+walking	leggings	dobj
+leggings	wallet	conj:and
+walking	street	nmod:on
+heels	in	case
+heels	high	amod
+walking	Woman	nsubj
+leggings	coat	conj:and
+leggings	and	cc
+leggings	black	amod
+wallet	red	amod
+coat	black	amod
+leggings	,	punct
+walking	heels	nmod:in

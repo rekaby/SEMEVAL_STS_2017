@@ -1,0 +1,11 @@
+nsubj	part	I
+cop	part	am
+root	ROOT	part
+case	Members	of
+nmod:of	part	Members
+nsubj	present	who
+cop	present	are
+neg	present	not
+advmod	present	properly
+acl:relcl	Members	present
+punct	part	.

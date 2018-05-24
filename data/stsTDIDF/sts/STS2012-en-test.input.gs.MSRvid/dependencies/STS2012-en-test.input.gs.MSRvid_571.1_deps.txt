@@ -1,0 +1,6 @@
+det	group	A
+nsubj	sing	group
+case	people	of
+nmod:of	group	people
+root	ROOT	sing
+punct	sing	.

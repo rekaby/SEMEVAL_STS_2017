@@ -1,0 +1,11 @@
+det	man	A
+nsubj	steers	man
+root	ROOT	steers
+det	boat	a
+amod	boat	blue
+dobj	steers	boat
+case	houses	past
+advmod	colored	brightly
+amod	houses	colored
+nmod:past	boat	houses
+punct	steers	.

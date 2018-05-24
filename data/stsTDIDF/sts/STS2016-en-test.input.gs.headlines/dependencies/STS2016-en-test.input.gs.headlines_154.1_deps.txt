@@ -1,0 +1,7 @@
+amod	forces	Israeli
+nsubj	MP	forces
+compound	MP	detain
+amod	MP	Palestinian
+root	ROOT	MP
+case	Hebron	in
+nmod:in	MP	Hebron

@@ -1,0 +1,7 @@
+nsubj	lashes	Obama
+root	ROOT	lashes
+compound	Korea	North
+dobj	lashes	Korea
+case	state	as
+amod	state	pariah
+nmod:as	lashes	state

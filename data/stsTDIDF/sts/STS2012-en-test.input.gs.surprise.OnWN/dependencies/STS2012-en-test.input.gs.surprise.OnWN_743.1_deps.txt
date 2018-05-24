@@ -1,0 +1,7 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	fall	to
+punct	fall	-RRB-
+nmod:to	cause	fall
+case	drops	in
+nmod:in	fall	drops

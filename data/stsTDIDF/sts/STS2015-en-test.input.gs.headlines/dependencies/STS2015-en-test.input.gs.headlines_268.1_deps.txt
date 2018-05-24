@@ -1,0 +1,10 @@
+compound	wildfire	Colorado
+nsubj	destroys	wildfire
+root	ROOT	destroys
+advmod	90	more
+mwe	more	than
+nummod	homes	90
+dobj	destroys	homes
+case	winds	as
+nmod:as	destroys	winds
+dep	destroys	worsen

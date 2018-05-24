@@ -1,0 +1,16 @@
+det	man	A
+nsubj	standing	man
+case	t-shirt	in
+det	t-shirt	a
+amod	t-shirt	white
+nmod:in	man	t-shirt
+acl	t-shirt	holding
+det	cellphone	a
+dobj	holding	cellphone
+aux	standing	is
+root	ROOT	standing
+case	corner	on
+det	corner	a
+compound	corner	street
+nmod:on	standing	corner
+punct	standing	.

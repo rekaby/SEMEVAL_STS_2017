@@ -1,0 +1,16 @@
+cc	fatal	But
+case	elderly	for
+det	elderly	the
+nmod:for	fatal	elderly
+cc	elderly	and
+conj:and	elderly	those
+case	systems	with
+amod	systems	weakened
+amod	systems	immune
+nmod:with	those	systems
+punct	fatal	,
+nsubj	fatal	it
+aux	fatal	can
+cop	fatal	be
+root	ROOT	fatal
+punct	fatal	.

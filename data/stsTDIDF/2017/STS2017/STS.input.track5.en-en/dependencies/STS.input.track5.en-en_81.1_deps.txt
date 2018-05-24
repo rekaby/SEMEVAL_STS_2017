@@ -1,0 +1,9 @@
+det	guy	Some
+root	ROOT	guy
+acl	guy	sitting
+case	couch	on
+det	couch	a
+nmod:on	sitting	couch
+acl	couch	watching
+dobj	watching	television
+punct	guy	.

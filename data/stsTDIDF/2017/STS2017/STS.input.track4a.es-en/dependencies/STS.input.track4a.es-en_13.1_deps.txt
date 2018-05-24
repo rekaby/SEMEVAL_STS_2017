@@ -1,0 +1,9 @@
+expl	is	There
+root	ROOT	is
+det	crowd	a
+advmod	large	very
+amod	crowd	large
+nsubj	is	crowd
+acl	crowd	watching
+det	presentation	the
+dobj	watching	presentation

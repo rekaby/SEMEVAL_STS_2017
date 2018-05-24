@@ -1,0 +1,11 @@
+nummod	men	Two
+root	ROOT	men
+acl	men	playing
+case	guns	with
+nmod:with	playing	guns
+dep	guns	nails
+punct	men	,
+cc	men	but
+case	wood	without
+conj:but	men	wood
+punct	men	.

@@ -1,0 +1,16 @@
+case	meeting	Before
+det	meeting	the
+nmod:before	said	meeting
+punct	said	,
+nsubj	said	Putin
+root	ROOT	said
+nsubj	regards	Russia
+ccomp	said	regards
+compound	Arabia	Saudi
+dobj	regards	Arabia
+case	state	as
+det	state	a
+amod	state	key
+amod	state	Muslim
+nmod:as	regards	state
+punct	said	.

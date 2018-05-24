@@ -1,0 +1,9 @@
+nmod:poss	tablet	Microsoft
+case	Microsoft	's
+compound	tablet	Surface
+nsubj	promising	tablet
+root	ROOT	promising
+punct	promising	,
+cc	promising	but
+nsubj	remain	questions
+conj:but	promising	remain

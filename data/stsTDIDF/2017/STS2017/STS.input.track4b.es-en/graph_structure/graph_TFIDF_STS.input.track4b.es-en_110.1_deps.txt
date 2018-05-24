@@ -1,0 +1,10 @@
+citizen	's	cop
+part	countries	nmod:of
+sees	citizen	advcl
+citizen	she	nsubj
+citizen	U.S.	compound
+citizen	While	mark
+sees	part	nmod:as
+countries	two	nummod
+sees	herself	dobj
+sees	she	nsubj

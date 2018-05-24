@@ -1,0 +1,13 @@
+nsubj	attempt	Vine
+cop	attempt	is
+nmod:poss	attempt	Twitter
+case	Twitter	's
+root	ROOT	attempt
+mark	become	to
+xcomp	attempt	become
+xcomp	become	the
+punct	the	`
+root	`	Instagram
+case	video	of
+nmod:of	Instagram	video
+punct	Instagram	'

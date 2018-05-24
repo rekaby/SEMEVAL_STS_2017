@@ -1,0 +1,6 @@
+man	holding	acl
+holding	hands	nmod:in
+man	elderly	amod
+something	sharp	amod
+man	An	det
+holding	something	dobj

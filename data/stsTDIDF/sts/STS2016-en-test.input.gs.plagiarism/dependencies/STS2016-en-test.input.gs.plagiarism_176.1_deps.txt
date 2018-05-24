@@ -1,0 +1,10 @@
+nsubj	valid	It
+cop	valid	is
+root	ROOT	valid
+case	interpretations	in
+det	interpretations	all
+amod	interpretations	common
+nmod:in	valid	interpretations
+case	probability	of
+nmod:of	interpretations	probability
+punct	valid	.

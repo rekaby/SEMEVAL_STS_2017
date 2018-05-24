@@ -1,0 +1,14 @@
+dep	does	Kyoto
+punct	does	,
+case	least	at
+dep	does	least
+root	ROOT	does
+punct	does	,
+mark	described	as
+advcl	does	described
+advmod	described	here
+punct	described	:
+compound	Station	JR
+compound	Station	Kyoto
+dep	described	Station
+punct	does	.

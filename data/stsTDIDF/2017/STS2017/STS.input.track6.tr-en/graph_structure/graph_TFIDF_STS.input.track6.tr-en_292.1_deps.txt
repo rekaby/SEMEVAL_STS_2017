@@ -1,0 +1,4 @@
+watches	match	dobj
+watches	man	nsubj
+match	wresting	compound
+ROOT	watches	root

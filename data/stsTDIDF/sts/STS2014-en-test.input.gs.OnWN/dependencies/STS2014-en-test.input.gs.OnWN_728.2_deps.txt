@@ -1,0 +1,13 @@
+det	period	the
+compound	period	time
+root	ROOT	period
+nsubjpass	considered	that
+auxpass	considered	is
+acl:relcl	period	considered
+xcomp	considered	best
+mark	starting	for
+advcl	considered	starting
+cc	starting	or
+conj:or	starting	finishing
+dobj	starting	something
+punct	period	.

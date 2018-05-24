@@ -1,0 +1,9 @@
+nap	quick	amod
+riding	while	mark
+riding	train	dobj
+businessman	A	det
+nap	a	det
+businessman	tired	amod
+takes	businessman	nsubj
+takes	riding	advcl
+takes	nap	dobj

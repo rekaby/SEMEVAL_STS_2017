@@ -1,0 +1,15 @@
+case	case	in
+det	case	this
+nmod:in	freedom	case
+nsubj	freedom	it
+cop	freedom	is
+det	freedom	the
+root	ROOT	freedom
+case	choice	of
+nmod:of	freedom	choice
+case	freedom	vs.
+det	freedom	the
+nmod:vs.	freedom	freedom
+case	religion	of
+nmod:of	freedom	religion
+punct	freedom	.

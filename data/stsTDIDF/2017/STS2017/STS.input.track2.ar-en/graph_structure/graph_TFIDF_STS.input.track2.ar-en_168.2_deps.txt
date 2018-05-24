@@ -1,0 +1,6 @@
+Many	.	punct
+ROOT	Many	root
+mountain	a	det
+parked	mountain	nmod:on
+Many	cars	nmod:of
+cars	parked	acl

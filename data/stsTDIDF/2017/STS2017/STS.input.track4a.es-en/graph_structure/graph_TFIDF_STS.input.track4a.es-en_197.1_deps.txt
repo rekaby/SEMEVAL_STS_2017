@@ -1,0 +1,4 @@
+clean	very	advmod
+have	Children	nsubj
+have	faces	dobj
+faces	clean	amod

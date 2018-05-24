@@ -1,0 +1,11 @@
+det	close	A
+root	ROOT	close
+advmod	close	up
+case	horse	of
+det	horse	a
+nmod:of	up	horse
+acl	horse	wearing
+det	halter	a
+amod	halter	blue
+dobj	wearing	halter
+punct	close	.

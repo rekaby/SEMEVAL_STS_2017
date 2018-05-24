@@ -1,0 +1,7 @@
+det	boy	A
+nsubj	tree	boy
+cop	tree	is
+case	tree	in
+det	tree	a
+root	ROOT	tree
+punct	tree	.

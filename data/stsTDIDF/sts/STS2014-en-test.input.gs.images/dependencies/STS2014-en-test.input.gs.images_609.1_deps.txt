@@ -1,0 +1,9 @@
+det	kitten	An
+amod	kitten	orange
+nsubj	lay	kitten
+root	ROOT	lay
+case	couch	on
+det	couch	a
+compound	couch	leather
+nmod:on	lay	couch
+punct	lay	.

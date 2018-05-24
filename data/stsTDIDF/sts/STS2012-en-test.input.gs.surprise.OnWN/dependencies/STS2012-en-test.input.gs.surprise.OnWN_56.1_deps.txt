@@ -1,0 +1,6 @@
+dep	determine	find
+punct	determine	,
+root	ROOT	determine
+det	place	the
+dobj	determine	place
+acl	place	of

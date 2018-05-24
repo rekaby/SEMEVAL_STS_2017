@@ -1,0 +1,5 @@
+det	quality	the
+compound	quality	flavor
+root	ROOT	quality
+case	something	of
+nmod:of	quality	something

@@ -1,0 +1,13 @@
+root	ROOT	Get
+det	choir	the
+dobj	Get	choir
+case	images	on
+det	images	the
+nmod:on	Get	images
+nsubjpass	taken	that
+auxpass	taken	were
+acl:relcl	images	taken
+case	show	during
+det	show	the
+nmod:during	taken	show
+punct	Get	.

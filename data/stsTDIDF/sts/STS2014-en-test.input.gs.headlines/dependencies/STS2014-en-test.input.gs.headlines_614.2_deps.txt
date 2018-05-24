@@ -1,0 +1,8 @@
+nmod:poss	president	Egypt
+case	Egypt	's
+amod	president	interim
+nsubj	swears	president
+root	ROOT	swears
+case	Cabinet	in
+amod	Cabinet	new
+nmod:in	swears	Cabinet

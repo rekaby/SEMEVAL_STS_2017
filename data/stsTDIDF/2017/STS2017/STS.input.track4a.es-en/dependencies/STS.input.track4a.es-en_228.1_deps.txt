@@ -1,0 +1,8 @@
+det	lady	The
+nsubj	sitting	lady
+aux	sitting	is
+root	ROOT	sitting
+case	fruit	near
+det	fruit	the
+nmod:near	sitting	fruit
+punct	sitting	.

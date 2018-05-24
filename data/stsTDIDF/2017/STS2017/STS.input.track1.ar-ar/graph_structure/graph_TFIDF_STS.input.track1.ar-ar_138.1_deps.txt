@@ -1,0 +1,9 @@
+food	for	case
+waiting	food	nmod:for
+waiting	it	nsubj
+watching	TV	dobj
+waiting	is	aux
+woman	watching	acl
+woman	This	det
+waiting	while	mark
+woman	waiting	advcl

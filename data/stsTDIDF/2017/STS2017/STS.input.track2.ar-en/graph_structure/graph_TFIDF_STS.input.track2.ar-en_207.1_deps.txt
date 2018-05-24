@@ -1,0 +1,7 @@
+giving	man	nsubj
+hat	cowboy	compound
+holding	woman	nsubj
+giving	holding	conj:and
+giving	and	cc
+giving	speech	dobj
+holding	hat	dobj

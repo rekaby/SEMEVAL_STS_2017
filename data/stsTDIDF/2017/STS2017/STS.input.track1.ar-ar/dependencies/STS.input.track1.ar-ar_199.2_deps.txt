@@ -1,0 +1,14 @@
+det	ladies	The
+nsubj	ready	ladies
+cop	ready	are
+root	ROOT	ready
+mark	hit	to
+xcomp	ready	hit
+det	ball	the
+dobj	hit	ball
+advmod	soon	as
+advmod	hit	soon
+mark	arrives	as
+nsubj	arrives	it
+advcl	soon	arrives
+punct	ready	.

@@ -1,0 +1,9 @@
+det	row	A
+root	ROOT	row
+case	bottles	of
+compound	bottles	beer
+nmod:of	row	bottles
+case	floor	on
+det	floor	the
+nmod:on	row	floor
+punct	row	.

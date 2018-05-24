@@ -1,0 +1,6 @@
+root	ROOT	become
+advmod	interesting	less
+xcomp	become	interesting
+cc	interesting	or
+conj:or	interesting	attractive
+punct	become	.

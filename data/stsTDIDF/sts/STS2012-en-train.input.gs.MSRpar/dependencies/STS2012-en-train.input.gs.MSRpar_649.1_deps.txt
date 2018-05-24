@@ -1,0 +1,11 @@
+cc	said	But
+det	society	the
+compound	society	cancer
+nsubj	said	society
+root	ROOT	said
+nmod:poss	study	its
+nsubjpass	misused	study
+aux	misused	had
+auxpass	misused	been
+ccomp	said	misused
+punct	said	.

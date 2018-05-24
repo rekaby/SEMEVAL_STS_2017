@@ -1,0 +1,11 @@
+det	woman	A
+root	ROOT	woman
+case	coat	in
+det	coat	a
+amod	coat	black
+cc	black	and
+conj:and	black	white
+nmod:in	woman	coat
+cc	coat	and
+conj:and	coat	earmuffs
+punct	woman	.

@@ -1,0 +1,17 @@
+case	fact	in
+nmod:in	tell	fact
+punct	tell	,
+csubj	tell	watching
+dobj	watching	fox
+aux	tell	will
+root	ROOT	tell
+iobj	tell	you
+det	opposite	the
+amod	opposite	exact
+dobj	tell	opposite
+mark	claiming	of
+dobj	claiming	what
+nsubj	claiming	you
+aux	claiming	are
+acl	opposite	claiming
+punct	tell	.

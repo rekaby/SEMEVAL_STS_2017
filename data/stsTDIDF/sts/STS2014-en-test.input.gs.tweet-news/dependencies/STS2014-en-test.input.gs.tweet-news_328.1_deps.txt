@@ -1,0 +1,7 @@
+root	ROOT	Opinionator
+punct	Opinionator	:
+compound	Greenhouse	Misconceptions
+punct	Greenhouse	-LRB-
+compound	Greenhouse	Linda
+dep	Opinionator	Greenhouse
+punct	Opinionator	-RRB-

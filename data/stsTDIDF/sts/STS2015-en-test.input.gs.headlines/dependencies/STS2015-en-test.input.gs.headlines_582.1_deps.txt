@@ -1,0 +1,10 @@
+compound	talks	Peace
+nsubj	take	talks
+case	Palestinians	with
+nmod:with	talks	Palestinians
+aux	take	would
+root	ROOT	take
+dobj	take	months
+punct	take	:
+compound	official	Israel
+dep	take	official

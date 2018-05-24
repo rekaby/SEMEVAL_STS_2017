@@ -1,0 +1,12 @@
+case	Blog	At
+compound	Blog	War
+root	ROOT	Blog
+punct	Blog	:
+compound	Military	Russian
+nsubj	Ordered	Military
+parataxis	Blog	Ordered
+mark	Switch	to
+xcomp	Ordered	Switch
+dobj	Switch	Portyanki
+case	Socks	for
+nmod:for	Switch	Socks

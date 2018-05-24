@@ -1,0 +1,9 @@
+nsubj	drop	that
+cop	drop	is
+neg	drop	not
+det	drop	a
+punct	drop	``
+amod	drop	substantial
+root	ROOT	drop
+punct	drop	''
+punct	drop	!

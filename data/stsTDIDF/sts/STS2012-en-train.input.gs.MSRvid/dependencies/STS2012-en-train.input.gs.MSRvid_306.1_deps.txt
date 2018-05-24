@@ -1,0 +1,8 @@
+det	person	A
+nsubj	slicing	person
+aux	slicing	is
+root	ROOT	slicing
+det	pieces	a
+compound	pieces	bread
+dobj	slicing	pieces
+punct	slicing	.

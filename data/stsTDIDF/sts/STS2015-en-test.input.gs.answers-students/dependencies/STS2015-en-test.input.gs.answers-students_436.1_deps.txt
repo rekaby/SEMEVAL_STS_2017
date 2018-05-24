@@ -1,0 +1,9 @@
+compound	X	switch
+nsubj	effect	X
+aux	effect	does
+neg	effect	not
+root	ROOT	effect
+compound	B	bulbs
+dobj	effect	B
+cc	B	and
+conj:and	B	C

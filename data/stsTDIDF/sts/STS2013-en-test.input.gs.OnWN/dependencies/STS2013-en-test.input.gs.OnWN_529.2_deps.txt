@@ -1,0 +1,8 @@
+root	ROOT	ride
+case	shoulders	on
+nmod:poss	shoulders	someone
+case	someone	's
+nmod:on	ride	shoulders
+cc	shoulders	or
+conj:or	shoulders	back
+punct	ride	.

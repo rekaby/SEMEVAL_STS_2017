@@ -1,0 +1,6 @@
+book	read	acl:relcl
+Potter	Harry	compound
+read	you	nsubj
+ROOT	Potter	root
+Potter	book	nsubj
+Potter	is	cop

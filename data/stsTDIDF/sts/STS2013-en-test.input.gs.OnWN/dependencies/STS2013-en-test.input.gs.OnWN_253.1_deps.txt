@@ -1,0 +1,11 @@
+root	ROOT	Beat
+cc	Beat	or
+conj:or	Beat	hit
+punct	whip	-LRB-
+case	whip	as
+mark	whip	if
+punct	whip	-RRB-
+case	whip	with
+det	whip	a
+nmod:with	Beat	whip
+punct	Beat	.

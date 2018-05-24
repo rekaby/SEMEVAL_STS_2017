@@ -1,0 +1,10 @@
+det	lady	A
+root	ROOT	lady
+acl	lady	mixed
+compound:prt	mixed	up
+det	mixture	a
+compound	mixture	meat
+dobj	mixed	mixture
+case	bowl	in
+nmod:in	mixture	bowl
+punct	lady	.

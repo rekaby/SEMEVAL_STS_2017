@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	crowd	people
+cop	crowd	are
+case	crowd	in
+mwe	in	front
+mwe	in	of
+det	crowd	a
+root	ROOT	crowd
+punct	crowd	.

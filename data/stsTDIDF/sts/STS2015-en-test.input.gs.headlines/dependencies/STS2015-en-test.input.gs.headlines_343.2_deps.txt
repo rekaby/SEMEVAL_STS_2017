@@ -1,0 +1,7 @@
+compound	City	Manchester
+nsubj	win	City
+root	ROOT	win
+compound	title	English
+compound	title	Premier
+compound	title	League
+dobj	win	title

@@ -1,0 +1,9 @@
+dep	Concerned	Russia
+punct	Concerned	,
+nsubj	Concerned	China
+root	ROOT	Concerned
+case	Airstrikes	About
+compound	Airstrikes	Israeli
+nmod:about	Concerned	Airstrikes
+case	Syria	in
+nmod:in	Airstrikes	Syria

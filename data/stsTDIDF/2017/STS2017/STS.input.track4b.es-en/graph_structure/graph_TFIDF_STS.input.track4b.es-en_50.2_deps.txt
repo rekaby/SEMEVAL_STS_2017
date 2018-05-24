@@ -1,0 +1,10 @@
+left	door	nmod:near
+put	daughter	dobj
+daughter	her	compound
+Monk	Roseanna	compound
+left	put	conj:and
+said	left	ccomp
+said	Monk	nsubj
+door	near	case
+put	moment	nmod:for
+left	she	nsubj

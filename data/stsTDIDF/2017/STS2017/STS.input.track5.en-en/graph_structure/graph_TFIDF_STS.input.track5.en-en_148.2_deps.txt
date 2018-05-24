@@ -1,0 +1,7 @@
+looking	microscope	nmod:through
+girl	lady	conj:and
+microscope	a	det
+girl	and	cc
+microscope	through	case
+lady	a	det
+girl	looking	acl

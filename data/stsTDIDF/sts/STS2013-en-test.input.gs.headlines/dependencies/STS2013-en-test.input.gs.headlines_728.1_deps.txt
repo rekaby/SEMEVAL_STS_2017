@@ -1,0 +1,7 @@
+compound	Exchange	New
+compound	Exchange	York
+compound	Exchange	Stock
+root	ROOT	Exchange
+mark	reopen	to
+acl	Exchange	reopen
+nmod:tmod	reopen	Wednesday

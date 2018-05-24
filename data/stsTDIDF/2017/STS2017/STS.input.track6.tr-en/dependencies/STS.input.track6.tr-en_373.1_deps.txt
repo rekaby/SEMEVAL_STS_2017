@@ -1,0 +1,11 @@
+nummod	children	Two
+amod	children	rich
+nsubj	playing	children
+cop	playing	are
+case	playing	at
+compound	playing	daycare
+root	ROOT	playing
+case	carpet	on
+det	carpet	the
+nmod:on	playing	carpet
+punct	playing	.

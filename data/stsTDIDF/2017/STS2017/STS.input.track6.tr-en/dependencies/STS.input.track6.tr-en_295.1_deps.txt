@@ -1,0 +1,6 @@
+det	cowboy	A
+root	ROOT	cowboy
+acl	cowboy	riding
+det	horse	a
+dobj	riding	horse
+punct	cowboy	.

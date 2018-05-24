@@ -1,0 +1,7 @@
+watches	.	punct
+watches	dance	dobj
+dance	girl	compound
+audience	An	det
+watches	audience	nsubj
+dance	a	det
+ROOT	watches	root

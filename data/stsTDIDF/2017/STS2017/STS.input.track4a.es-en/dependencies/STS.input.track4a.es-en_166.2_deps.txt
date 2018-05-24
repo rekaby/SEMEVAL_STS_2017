@@ -1,0 +1,14 @@
+det	student	A
+amod	student	martial
+compound	student	arts
+nsubj	kicks	student
+root	ROOT	kicks
+det	board	a
+amod	board	wooden
+dobj	kicks	board
+case	advance	to
+nmod:to	kicks	advance
+case	rank	in
+nmod:poss	rank	his
+nmod:in	advance	rank
+punct	kicks	.

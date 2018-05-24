@@ -1,0 +1,9 @@
+root	ROOT	Omg
+punct	Omg	.-2) case(least-2, At
+nmod:npmod	245	least
+root	ROOT	245
+acl	245	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire

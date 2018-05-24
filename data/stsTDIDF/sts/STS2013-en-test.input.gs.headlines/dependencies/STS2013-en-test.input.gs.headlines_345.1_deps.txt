@@ -1,0 +1,9 @@
+compound	lands	Clinton
+root	ROOT	lands
+case	India	in
+nmod:in	lands	India
+mark	breathe	to
+acl	lands	breathe
+dobj	breathe	life
+case	ties	into
+nmod:into	breathe	ties

@@ -1,0 +1,7 @@
+nsubj	arrested	Captain
+case	ferry	of
+amod	ferry	sunken
+amod	ferry	South
+amod	ferry	Korean
+nmod:of	Captain	ferry
+root	ROOT	arrested

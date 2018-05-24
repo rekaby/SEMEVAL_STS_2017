@@ -1,0 +1,8 @@
+det	attribute	a
+amod	attribute	prominent
+root	ROOT	attribute
+cc	attribute	or
+conj:or	attribute	aspect
+case	something	of
+nmod:of	aspect	something
+punct	attribute	.

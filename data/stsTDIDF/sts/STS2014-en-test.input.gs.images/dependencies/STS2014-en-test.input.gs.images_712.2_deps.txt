@@ -1,0 +1,15 @@
+det	boat	A
+nsubj	water	boat
+cop	water	is
+case	water	in
+det	water	the
+nsubj	dock	water
+cc	water	and
+det	airplane	a
+amod	airplane	small
+conj:and	water	airplane
+cop	dock	is
+case	dock	on
+det	dock	the
+root	ROOT	dock
+punct	dock	.

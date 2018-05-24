@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	jumps	dog
+root	ROOT	jumps
+compound:prt	jumps	off
+det	stairs	the
+dobj	jumps	stairs
+punct	jumps	.

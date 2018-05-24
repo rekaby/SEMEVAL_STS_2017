@@ -1,0 +1,7 @@
+nsubj	confirms	US
+root	ROOT	confirms
+compound	leader	al-Qaeda
+nsubjpass	captured	leader
+aux	captured	has
+auxpass	captured	been
+ccomp	confirms	captured

@@ -1,0 +1,10 @@
+nsubj	present	Members
+case	family	of
+compound	Peterson	Kathleen
+nmod:poss	family	Peterson
+case	Peterson	's
+nmod:of	Members	family
+cop	present	were
+neg	present	not
+root	ROOT	present
+punct	present	.

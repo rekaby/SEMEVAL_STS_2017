@@ -1,0 +1,11 @@
+nsubj	accuses	india
+root	ROOT	accuses
+dobj	accuses	pakistan
+case	funding	of
+nmod:of	pakistan	funding
+cc	funding	and
+conj:and	funding	training
+det	guerrillas	the
+amod	guerrillas	cross-border
+dep	funding	guerrillas
+punct	accuses	.

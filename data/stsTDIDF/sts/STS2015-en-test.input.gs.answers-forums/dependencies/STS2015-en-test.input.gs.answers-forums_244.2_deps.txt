@@ -1,0 +1,15 @@
+expl	are	There
+root	ROOT	are
+nummod	factors	three
+amod	factors	main
+nsubj	are	factors
+nsubj	drive	that
+acl:relcl	factors	drive
+det	economy	the
+amod	economy	low
+compound	economy	shadow
+dobj	drive	economy
+case	US	in
+det	US	the
+nmod:in	drive	US
+punct	are	.

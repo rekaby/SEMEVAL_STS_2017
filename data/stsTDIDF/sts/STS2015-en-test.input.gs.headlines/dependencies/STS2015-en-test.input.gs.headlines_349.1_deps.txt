@@ -1,0 +1,10 @@
+nsubj	Warns	Russia
+root	ROOT	Warns
+nsubj	Sign	It
+aux	Sign	May
+neg	Sign	Not
+ccomp	Warns	Sign
+compound	Treaty	Landmark
+compound	Treaty	UN
+compound	Treaty	Arms
+dobj	Sign	Treaty

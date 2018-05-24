@@ -1,0 +1,6 @@
+det	family	The
+nsubj	eating	family
+aux	eating	is
+root	ROOT	eating
+compound:prt	eating	out
+punct	eating	.

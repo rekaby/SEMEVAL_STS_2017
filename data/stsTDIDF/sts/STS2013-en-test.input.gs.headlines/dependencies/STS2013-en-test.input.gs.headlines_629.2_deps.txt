@@ -1,0 +1,12 @@
+nsubj	sells	BP
+root	ROOT	sells
+dobj	sells	Gulf
+case	assets	of
+compound	assets	Mexico
+nmod:of	Gulf	assets
+case	Plains	to
+nmod:to	sells	Plains
+case	$	for
+nmod:for	sells	$
+nummod	$	5.55
+dobj	sells	bn

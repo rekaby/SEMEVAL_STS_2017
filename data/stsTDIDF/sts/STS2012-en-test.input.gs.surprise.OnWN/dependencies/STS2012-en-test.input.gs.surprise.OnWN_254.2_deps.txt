@@ -1,0 +1,8 @@
+root	ROOT	take
+dobj	take	vows
+punct	take	,
+case	order	as
+case	order	in
+amod	order	religious
+nmod:in	take	order
+punct	take	.

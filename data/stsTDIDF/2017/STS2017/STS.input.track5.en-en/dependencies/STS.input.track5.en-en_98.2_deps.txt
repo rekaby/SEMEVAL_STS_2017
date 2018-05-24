@@ -1,0 +1,10 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	drums	the
+dobj	playing	drums
+case	mom	for
+nmod:poss	mom	his
+nmod:for	playing	mom
+punct	playing	.

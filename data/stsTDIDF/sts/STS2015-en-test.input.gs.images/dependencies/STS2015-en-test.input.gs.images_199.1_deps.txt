@@ -1,0 +1,14 @@
+nummod	boy	One
+amod	boy	white
+nsubj	stand	boy
+cc	boy	and
+nummod	boy	one
+amod	boy	black
+conj:and	boy	boy
+root	ROOT	stand
+case	arms	with
+nmod:with	stand	arms
+case	other	around
+det	other	each
+nmod:around	stand	other
+punct	stand	.

@@ -1,0 +1,7 @@
+root	ROOT	Atqatlan
+nummod	children	two
+dobj	Atqatlan	children
+case	other	with
+det	other	each
+nmod:with	Atqatlan	other
+punct	Atqatlan	.

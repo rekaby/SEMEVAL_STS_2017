@@ -1,0 +1,12 @@
+expl	is	there
+root	ROOT	is
+neg	gap	no
+nsubj	is	gap
+case	5	between
+det	5	the
+amod	5	positive
+compound	5	battery
+amod	5	terminal
+cc	terminal	and
+conj:and	terminal	terminal
+nmod:between	gap	5

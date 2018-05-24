@@ -1,0 +1,14 @@
+root	ROOT	Obama
+punct	Obama	:
+compound	batteries	Patriot
+compound	batteries	missile
+dep	Obama	batteries
+punct	batteries	,
+appos	batteries	troops
+mark	stay	to
+acl	troops	stay
+case	Jordan	in
+nmod:in	stay	Jordan
+case	border	near
+amod	border	Syrian
+nmod:near	stay	border

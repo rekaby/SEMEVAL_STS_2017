@@ -1,0 +1,10 @@
+advmod	taught	well
+nsubjpass	taught	they
+advmod	taught	already
+auxpass	taught	are
+root	ROOT	taught
+case	homosexuality	about
+nmod:about	taught	homosexuality
+case	schools	in
+nmod:in	homosexuality	schools
+punct	taught	.

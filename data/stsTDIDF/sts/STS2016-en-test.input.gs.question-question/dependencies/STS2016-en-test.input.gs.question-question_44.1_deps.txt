@@ -1,0 +1,12 @@
+aux	let	Should
+nsubj	let	I
+root	ROOT	let
+amod	employers	potential
+nsubj	know	employers
+ccomp	let	know
+nsubj	have	I
+ccomp	know	have
+det	offer	a
+compound	offer	job
+dobj	have	offer
+punct	let	?

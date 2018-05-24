@@ -1,0 +1,8 @@
+det	man	A
+nsubj	moving	man
+aux	moving	is
+root	ROOT	moving
+det	limb	a
+compound	limb	tree
+dobj	moving	limb
+punct	moving	.

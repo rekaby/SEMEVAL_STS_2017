@@ -1,0 +1,16 @@
+advmod	is	Here
+dep	punished	is
+nmod:poss	question	my
+nsubj	is	question
+punct	punished	,
+aux	punished	is
+nsubjpass	punished	lance
+auxpass	punished	being
+root	ROOT	punished
+case	cheating	for
+nmod:for	punished	cheating
+cc	cheating	or
+mark	cheating	for
+conj:or	cheating	cheating
+dobj	cheating	better
+punct	punished	?

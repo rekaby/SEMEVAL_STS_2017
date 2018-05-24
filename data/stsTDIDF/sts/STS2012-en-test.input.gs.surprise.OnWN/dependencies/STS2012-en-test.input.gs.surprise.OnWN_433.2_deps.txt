@@ -1,0 +1,6 @@
+root	ROOT	return
+case	condition	to
+det	condition	a
+amod	condition	former
+nmod:to	return	condition
+punct	return	.

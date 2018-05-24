@@ -1,0 +1,6 @@
+root	ROOT	Use
+case	force	of
+nmod:of	Use	force
+case	aggressor	by
+nmod:by	Use	aggressor
+punct	Use	.

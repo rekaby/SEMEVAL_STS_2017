@@ -1,0 +1,5 @@
+pushes	.	punct
+cart	a	det
+ROOT	pushes	root
+pushes	woman	nsubj
+pushes	cart	dobj

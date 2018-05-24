@@ -1,0 +1,7 @@
+girlfriend	of	case
+picks	picture	dobj
+picks	man	nsubj
+picture	girlfriend	nmod:of
+picks	.	punct
+ROOT	picks	root
+picks	up	compound:prt

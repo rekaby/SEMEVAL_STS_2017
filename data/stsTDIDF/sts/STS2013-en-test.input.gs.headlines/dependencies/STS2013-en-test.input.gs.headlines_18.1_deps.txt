@@ -1,0 +1,9 @@
+compound	exchange	Greece
+compound	exchange	bond
+root	ROOT	exchange
+det	restructuring	the
+amod	restructuring	largest
+compound	restructuring	debt
+dobj	exchange	restructuring
+case	history	in
+nmod:in	restructuring	history

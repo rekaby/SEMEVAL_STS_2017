@@ -1,0 +1,15 @@
+advmod	together	Hopefully
+neg	together	not
+advmod	Documentaries	together
+punct	Documentaries	''
+punct	Documentaries	:
+compound	Pryor	Richard
+nsubj	Documentaries	Pryor
+cc	Pryor	&
+compound	Focus	Dick
+compound	Focus	Cheney
+conj:&	Pryor	Focus
+case	Showtime	of
+nmod:of	Pryor	Showtime
+root	ROOT	Documentaries
+punct	Documentaries	''

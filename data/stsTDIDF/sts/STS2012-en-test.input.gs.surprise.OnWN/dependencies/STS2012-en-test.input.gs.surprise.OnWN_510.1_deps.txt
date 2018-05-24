@@ -1,0 +1,5 @@
+nsubj	issue	decree
+punct	issue	,
+root	ROOT	issue
+det	order	an
+dobj	issue	order

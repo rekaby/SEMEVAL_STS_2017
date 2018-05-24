@@ -1,0 +1,6 @@
+det	woman	A
+root	ROOT	woman
+case	child	with
+nmod:poss	child	her
+nmod:with	woman	child
+punct	woman	.

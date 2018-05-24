@@ -1,0 +1,9 @@
+compound	Jolie	Angelina
+root	ROOT	Jolie
+cc	Jolie	and
+det	truth	the
+compound	truth	complex
+conj:and	Jolie	truth
+case	cancer	about
+compound	cancer	breast
+nmod:about	truth	cancer

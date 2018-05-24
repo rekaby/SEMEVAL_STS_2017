@@ -1,0 +1,13 @@
+det	Life	This
+root	ROOT	Life
+punct	Life	:
+dep	Life	Modifying
+det	Behavior	a
+compound	Behavior	Child?s
+dobj	Modifying	Behavior
+mark	Resorting	Without
+advcl	Modifying	Resorting
+case	Bribes	to
+nmod:to	Resorting	Bribes
+punct	Life	?-12) det(Life-2, This
+root	ROOT	Life

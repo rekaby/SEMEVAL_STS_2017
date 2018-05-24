@@ -1,0 +1,7 @@
+scooter	a	det
+race	.	punct
+race	was	cop
+ROOT	race	root
+race	scooter	nmod:with
+scooter	with	case
+race	man	nsubj

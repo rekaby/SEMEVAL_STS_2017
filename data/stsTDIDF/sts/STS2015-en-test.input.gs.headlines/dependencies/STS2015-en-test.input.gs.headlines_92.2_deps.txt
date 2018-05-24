@@ -1,0 +1,10 @@
+compound	Sox	Red
+nsubj	beat	Sox
+root	ROOT	beat
+compound	5-2	Tigers
+dobj	beat	5-2
+mark	advance	to
+xcomp	beat	advance
+case	Series	to
+compound	Series	World
+nmod:to	advance	Series

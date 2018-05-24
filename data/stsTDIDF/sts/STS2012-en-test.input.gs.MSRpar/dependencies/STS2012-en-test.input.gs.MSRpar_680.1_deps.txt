@@ -1,0 +1,14 @@
+compound	futures	October
+compound	futures	heating
+compound	futures	oil
+nsubj	settled	futures
+root	ROOT	settled
+nummod	cent	.85
+nmod:npmod	lower	cent
+advmod	settled	lower
+case	cents	at
+nummod	cents	69.89
+nmod:at	settled	cents
+det	gallon	a
+nmod:npmod	cents	gallon
+punct	settled	.

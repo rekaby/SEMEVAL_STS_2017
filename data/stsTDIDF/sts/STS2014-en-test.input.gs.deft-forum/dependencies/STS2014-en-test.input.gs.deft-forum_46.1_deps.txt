@@ -1,0 +1,9 @@
+nsubj	stalked	Z
+root	ROOT	stalked
+dobj	stalked	him
+advmod	stalked	down
+punct	stalked	,
+advmod	shot	then
+dep	stalked	shot
+dobj	shot	him
+punct	stalked	.

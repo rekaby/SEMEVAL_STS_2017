@@ -1,0 +1,16 @@
+mark	connected	because
+det:predet	terminals	all
+det	terminals	the
+nsubjpass	connected	terminals
+auxpass	connected	are
+advcl	disrupts	connected
+case	terminals	to
+amod	terminals	other
+nmod:to	connected	terminals
+punct	disrupts	,
+det	switch	an
+amod	switch	open
+nsubj	disrupts	switch
+root	ROOT	disrupts
+dobj	disrupts	that
+punct	disrupts	.

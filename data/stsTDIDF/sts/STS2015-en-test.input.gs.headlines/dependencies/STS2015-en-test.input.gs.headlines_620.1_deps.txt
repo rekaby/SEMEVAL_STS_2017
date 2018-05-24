@@ -1,0 +1,5 @@
+nummod	offences	Five
+acl	Five	charged
+case	terrorism	with
+nmod:with	charged	terrorism
+root	ROOT	offences

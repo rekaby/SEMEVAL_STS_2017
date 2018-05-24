@@ -1,0 +1,9 @@
+shirt	Woman	compound
+shirt	surrounded	conj:and
+surrounded	group	nmod:by
+ROOT	shirt	root
+carrying	camera	dobj
+shirt	carrying	conj:and
+shirt	.	punct
+shirt	green	amod
+shirt	and	cc

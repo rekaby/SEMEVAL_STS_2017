@@ -1,0 +1,8 @@
+root	ROOT	attain
+dobj	attain	success
+cc	attain	or
+conj:or	attain	reach
+det	goal	a
+amod	goal	desired
+dobj	reach	goal
+punct	attain	.

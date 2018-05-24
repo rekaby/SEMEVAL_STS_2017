@@ -1,0 +1,7 @@
+celebrate	LaBelle	dobj
+LaBelle	Patti	compound
+conduct	his	nmod:poss
+conduct	for	case
+is	celebrate	xcomp
+LaBelle	responsible	amod
+responsible	conduct	nmod:for

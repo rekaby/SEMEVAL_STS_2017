@@ -1,0 +1,6 @@
+expl	is	There
+root	ROOT	is
+det	reaction	a
+amod	reaction	chemical
+nsubj	is	reaction
+punct	is	.

@@ -1,0 +1,15 @@
+det	man	A
+nsubj	riding	man
+case	suit	in
+det	suit	a
+compound	suit	dress
+nmod:in	man	suit
+aux	riding	is
+root	ROOT	riding
+det	bike	a
+dobj	riding	bike
+case	road	down
+det	road	the
+amod	road	paved
+nmod:down	riding	road
+punct	riding	.

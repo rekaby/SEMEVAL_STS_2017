@@ -1,0 +1,9 @@
+root	ROOT	fill
+case	spirits	with
+amod	spirits	high
+nmod:with	fill	spirits
+punct	fill	;
+dep	fill	fill
+case	optimism	with
+nmod:with	fill	optimism
+punct	fill	.

@@ -1,0 +1,10 @@
+nsubj	going	I
+aux	going	'm
+root	ROOT	going
+mark	shout	to
+xcomp	going	shout
+case	justice	for
+nmod:for	shout	justice
+case	Trayvon	for
+nmod:for	justice	Trayvon
+punct	going	.

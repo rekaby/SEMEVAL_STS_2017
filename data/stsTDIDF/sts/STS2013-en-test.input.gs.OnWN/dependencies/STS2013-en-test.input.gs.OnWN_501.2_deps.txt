@@ -1,0 +1,9 @@
+root	ROOT	send
+case	person	from
+nummod	person	one
+nmod:from	send	person
+cc	person	or
+conj:or	person	place
+case	another	to
+nmod:to	send	another
+punct	send	.

@@ -1,0 +1,9 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	sniffing
+det	bottom	the
+dobj	sniffing	bottom
+case	door	of
+det	door	a
+nmod:of	bottom	door
+punct	dog	.

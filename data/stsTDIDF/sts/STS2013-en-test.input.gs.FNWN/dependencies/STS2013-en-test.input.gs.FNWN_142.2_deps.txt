@@ -1,0 +1,9 @@
+det	feelings	the
+root	ROOT	feelings
+acl	feelings	expressed
+case	face	on
+det	person	a
+nmod:poss	face	person
+case	person	's
+nmod:on	expressed	face
+punct	feelings	;

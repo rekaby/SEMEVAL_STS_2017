@@ -1,0 +1,6 @@
+compound	ties	Portugal-China
+mark	strengthen	to
+acl	Portugal-China	strengthen
+amod	research	scientific
+dobj	strengthen	research
+root	ROOT	ties

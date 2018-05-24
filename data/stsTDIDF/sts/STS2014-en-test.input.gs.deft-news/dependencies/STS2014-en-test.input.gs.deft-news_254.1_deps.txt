@@ -1,0 +1,10 @@
+det	arms	a
+amod	arms	key
+compound	arms	european
+root	ROOT	arms
+compound	treaty	control
+nsubjpass	maintained	treaty
+aux	maintained	must
+auxpass	maintained	be
+acl:relcl	arms	maintained
+punct	arms	.

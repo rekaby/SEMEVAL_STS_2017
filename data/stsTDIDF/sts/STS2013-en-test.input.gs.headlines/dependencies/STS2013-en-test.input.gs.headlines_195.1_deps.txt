@@ -1,0 +1,8 @@
+nsubj	calls	Clinton
+root	ROOT	calls
+case	friends	for
+nmod:for	calls	friends
+case	Syria	of
+nmod:of	friends	Syria
+mark	unite	to
+xcomp	calls	unite

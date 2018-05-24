@@ -1,0 +1,8 @@
+nmod:poss	Khamenei	Iran
+case	Iran	's
+nsubj	renews	Khamenei
+root	ROOT	renews
+dobj	renews	support
+case	talks	for
+amod	talks	nuclear
+nmod:for	support	talks

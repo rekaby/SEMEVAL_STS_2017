@@ -1,0 +1,9 @@
+det	person	A
+nsubj	cutting	person
+aux	cutting	is
+root	ROOT	cutting
+det	capsicum	a
+dobj	cutting	capsicum
+case	pieces	into
+nmod:into	cutting	pieces
+punct	cutting	.

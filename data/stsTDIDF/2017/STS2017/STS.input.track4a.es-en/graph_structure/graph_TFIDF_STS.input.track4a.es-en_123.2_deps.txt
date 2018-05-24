@@ -1,0 +1,8 @@
+laying	.	punct
+bench	a	det
+bench	wooden	amod
+bench	people	nmod:with
+ROOT	laying	root
+laying	bench	nmod:on
+laying	Man	nsubj
+laying	background	nmod:in

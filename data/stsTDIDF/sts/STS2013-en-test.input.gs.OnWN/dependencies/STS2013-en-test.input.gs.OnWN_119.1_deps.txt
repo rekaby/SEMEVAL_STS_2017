@@ -1,0 +1,7 @@
+mark	argue	to
+root	ROOT	argue
+cc	argue	or
+conj:or	argue	plead
+case	favor	in
+nmod:in	plead	favor
+nmod	argue	of

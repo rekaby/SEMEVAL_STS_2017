@@ -1,0 +1,7 @@
+root	ROOT	What
+cop	What	is
+nmod:poss	lid	your
+nsubj	What	lid
+acl	lid	made
+nmod	made	of
+punct	What	?

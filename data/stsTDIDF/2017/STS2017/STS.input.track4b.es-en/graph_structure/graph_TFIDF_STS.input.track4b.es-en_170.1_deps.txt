@@ -1,0 +1,7 @@
+plenty	time	nmod:of
+had	plenty	dobj
+boredom	of	case
+subject	about	case
+think	subject	nmod:about
+subject	boredom	nmod:of
+had	So	advmod

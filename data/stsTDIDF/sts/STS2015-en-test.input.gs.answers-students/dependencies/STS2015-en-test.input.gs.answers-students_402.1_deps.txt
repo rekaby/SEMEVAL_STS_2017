@@ -1,0 +1,11 @@
+det	switch	The
+nsubj	determines	switch
+root	ROOT	determines
+mark	open	whether
+det	path	the
+nsubj	open	path
+cop	open	is
+ccomp	determines	open
+cc	open	or
+conj:or	open	closed
+punct	determines	.

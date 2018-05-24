@@ -1,0 +1,16 @@
+amod	assistances	Specific
+nsubj	essential	assistances
+case	support	like
+det	support	the
+nmod:like	assistances	support
+case	market	of
+det	market	the
+nmod:of	support	market
+cc	market	or
+det	premium	the
+conj:or	market	premium
+case	grass	with
+nmod:with	premium	grass
+cop	essential	are
+root	ROOT	essential
+punct	essential	.

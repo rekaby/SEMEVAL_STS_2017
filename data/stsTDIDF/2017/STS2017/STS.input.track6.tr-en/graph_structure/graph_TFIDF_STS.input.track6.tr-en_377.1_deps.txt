@@ -1,0 +1,5 @@
+sleeping	is	aux
+pool	near	case
+dog	The	det
+sleeping	pool	nmod:near
+sleeping	dog	nsubj

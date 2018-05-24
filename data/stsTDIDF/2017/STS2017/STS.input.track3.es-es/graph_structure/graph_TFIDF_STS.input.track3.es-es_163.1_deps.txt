@@ -1,0 +1,9 @@
+carrying	child	dobj
+carrying	posing	conj:and
+posing	photo	nmod:for
+photo	for	case
+carrying	is	aux
+carrying	.	punct
+ROOT	carrying	root
+carrying	and	cc
+carrying	woman	nsubj

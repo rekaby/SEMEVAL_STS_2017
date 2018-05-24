@@ -1,0 +1,8 @@
+nsubj	rise	Stocks
+root	ROOT	rise
+case	hopes	on
+nmod:on	rise	hopes
+case	stimulus	for
+det	stimulus	a
+compound	stimulus	Fed
+nmod:for	hopes	stimulus

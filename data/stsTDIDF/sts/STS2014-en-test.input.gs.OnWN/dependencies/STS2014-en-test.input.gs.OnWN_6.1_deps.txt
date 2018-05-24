@@ -1,0 +1,5 @@
+root	ROOT	leave
+xcomp	leave	undone
+cc	undone	or
+conj:or	undone	leave
+compound:prt	undone	out

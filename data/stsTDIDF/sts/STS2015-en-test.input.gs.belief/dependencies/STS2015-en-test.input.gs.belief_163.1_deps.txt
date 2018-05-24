@@ -1,0 +1,11 @@
+amod	right	yeh
+dep	board	right
+punct	board	,
+nsubj	board	they
+cop	board	're
+advmod	board	so
+case	board	on
+root	ROOT	board
+case	that	with
+nmod:with	board	that
+punct	board	!

@@ -1,0 +1,9 @@
+nsubj	cut	Iran
+aux	cut	may
+root	ROOT	cut
+compound	exports	oil
+dobj	cut	exports
+case	states	to
+advmod	EU	more
+compound	states	EU
+nmod:to	cut	states

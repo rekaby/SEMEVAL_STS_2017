@@ -1,0 +1,15 @@
+expl	were	There
+root	ROOT	were
+nummod	women	659
+nsubj	were	women
+acl	women	enrolled
+case	academy	at
+det	academy	the
+nmod:at	enrolled	academy
+case	time	at
+det	time	the
+nmod:at	enrolled	time
+case	survey	of
+det	survey	the
+nmod:of	time	survey
+punct	were	.

@@ -1,0 +1,15 @@
+amod	Europe	Big
+compound	Europe	Pax
+nsubj	depends	Europe
+case	today	of
+nmod:of	Europe	today
+punct	Europe	,
+case	prosperity	like
+amod	prosperity	current
+nmod:like	Europe	prosperity
+amod	prosperity	pan-European
+punct	Europe	,
+root	ROOT	depends
+case	it	on
+nmod:on	depends	it
+punct	depends	.

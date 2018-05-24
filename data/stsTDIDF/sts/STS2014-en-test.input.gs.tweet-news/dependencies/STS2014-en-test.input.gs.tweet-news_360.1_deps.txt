@@ -1,0 +1,7 @@
+nsubj	young	they
+cop	young	were
+advmod	young	so
+root	ROOT	young
+amod	#SantaMaria	:-LRB-
+compound	#tragedyinthenightclub	#SantaMaria
+dobj	young	#tragedyinthenightclub

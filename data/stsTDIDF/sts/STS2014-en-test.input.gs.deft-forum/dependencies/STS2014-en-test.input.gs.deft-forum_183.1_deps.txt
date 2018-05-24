@@ -1,0 +1,13 @@
+nsubj	Did	Nutrax
+det	plural	The
+nsubj	data	plural
+case	anecdote	of
+nmod:of	plural	anecdote
+cop	data	is
+neg	data	not
+acl:relcl	Nutrax	data
+root	ROOT	Did
+nsubj	need	gentlemen
+ccomp	Did	need
+dobj	need	chaperones
+punct	Did	?

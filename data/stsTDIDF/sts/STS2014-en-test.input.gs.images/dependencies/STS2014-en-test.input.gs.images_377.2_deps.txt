@@ -1,0 +1,7 @@
+nummod	sheep	Three
+amod	sheep	white
+root	ROOT	sheep
+case	enclosure	in
+det	enclosure	an
+nmod:in	sheep	enclosure
+punct	sheep	.

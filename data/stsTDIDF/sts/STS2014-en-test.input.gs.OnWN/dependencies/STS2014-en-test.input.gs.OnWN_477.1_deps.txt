@@ -1,0 +1,9 @@
+root	ROOT	live
+case	bushes	in
+det	bushes	the
+nmod:in	live	bushes
+case	fugitive	as
+det	fugitive	a
+nmod:as	live	fugitive
+cc	fugitive	or
+conj:or	fugitive	guerilla

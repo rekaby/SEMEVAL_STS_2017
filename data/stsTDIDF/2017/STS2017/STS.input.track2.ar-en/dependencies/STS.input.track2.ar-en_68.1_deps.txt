@@ -1,0 +1,9 @@
+det	farmer	A
+amod	farmer	Chinese
+nsubj	working	farmer
+aux	working	is
+root	ROOT	working
+case	field	in
+det	field	a
+compound	field	rice
+nmod:in	working	field

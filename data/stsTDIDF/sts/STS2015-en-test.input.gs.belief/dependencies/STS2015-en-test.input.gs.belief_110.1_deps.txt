@@ -1,0 +1,17 @@
+nsubj	exist	none
+case	it	of
+nmod:of	none	it
+aux	exist	would
+root	ROOT	exist
+mark	used	if
+nsubjpass	used	it
+auxpass	used	was
+neg	used	n't
+advcl	exist	used
+mark	reduce	to
+xcomp	used	reduce
+dobj	reduce	weight
+case	spacecraft	on
+nmod:poss	spacecraft	our
+nmod:on	reduce	spacecraft
+punct	exist	.

@@ -1,0 +1,17 @@
+case	Elena	To
+nmod:to	time	Elena
+punct	time	,
+nsubj	time	this
+cop	time	is
+det	time	the
+amod	time	first
+root	ROOT	time
+punct	time	,
+nsubj	time	Luca
+advmod	time	already
+det	time	the
+amod	time	third
+cc	third	or
+conj:or	third	fourth
+acl:relcl	time	time
+punct	time	.

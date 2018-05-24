@@ -1,0 +1,5 @@
+compound	Montana	Miss
+root	ROOT	Montana
+case	autism	on
+nmod:poss	autism	her
+nmod:on	Montana	autism

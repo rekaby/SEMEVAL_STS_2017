@@ -1,0 +1,15 @@
+mark	play	To
+advcl	set	play
+dobj	play	golf
+punct	set	,
+det	thing	the
+amod	thing	first
+nsubj	set	thing
+nsubj	need	you
+acl:relcl	thing	need
+cop	set	is
+det	set	a
+root	ROOT	set
+case	clubs	of
+nmod:of	set	clubs
+punct	set	.

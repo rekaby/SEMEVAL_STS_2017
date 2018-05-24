@@ -1,0 +1,14 @@
+nsubj	losers	Users
+cop	losers	are
+det	losers	the
+root	ROOT	losers
+punct	losers	,
+case	workers	with
+nmod:with	losers	workers
+cc	workers	and
+amod	competitiveness	European
+conj:and	workers	competitiveness
+cc	workers	and
+compound	régresseront	innovation
+conj:and	workers	régresseront
+punct	losers	.

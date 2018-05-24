@@ -1,0 +1,14 @@
+cc	survive	But
+mark	continues	if
+nmod:poss	performance	Europe
+case	Europe	's
+nsubj	continues	performance
+advcl	survive	continues
+mark	decline	to
+xcomp	continues	decline
+punct	survive	,
+aux	survive	would
+det	perception	this
+nsubj	survive	perception
+root	ROOT	survive
+punct	survive	?

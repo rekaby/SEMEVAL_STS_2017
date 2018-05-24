@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	sit	men
+case	hair	with
+amod	hair	long
+nmod:with	men	hair
+root	ROOT	sit
+case	sofas	on
+nmod:on	sit	sofas
+punct	sit	.

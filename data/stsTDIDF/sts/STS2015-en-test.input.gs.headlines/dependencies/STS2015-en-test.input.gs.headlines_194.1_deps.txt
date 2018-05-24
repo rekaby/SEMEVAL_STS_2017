@@ -1,0 +1,9 @@
+nsubj	erupts	Volcano
+root	ROOT	erupts
+case	Indonesia	in
+nmod:in	erupts	Indonesia
+nummod	Indonesia	-100,000
+acl	Indonesia	evacuated
+cc	erupts	and
+nsubj	closed	airports
+conj:and	erupts	closed

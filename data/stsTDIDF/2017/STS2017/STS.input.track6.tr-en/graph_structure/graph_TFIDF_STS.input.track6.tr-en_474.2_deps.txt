@@ -1,0 +1,7 @@
+stage	man	nsubj
+ROOT	stage	root
+stage	.	punct
+guitar	a	det
+stage	guitar	nmod:with
+guitar	with	case
+stage	is	cop

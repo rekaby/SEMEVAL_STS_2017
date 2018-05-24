@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	frying	woman
+aux	frying	is
+root	ROOT	frying
+dobj	frying	something
+case	pan	in
+det	pan	the
+nmod:in	something	pan
+punct	frying	.

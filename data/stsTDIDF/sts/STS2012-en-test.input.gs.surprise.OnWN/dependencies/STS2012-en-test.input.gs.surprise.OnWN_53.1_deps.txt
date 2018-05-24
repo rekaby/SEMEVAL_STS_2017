@@ -1,0 +1,10 @@
+det	agent	an
+nmod:poss	act	agent
+case	agent	's
+root	ROOT	act
+mark	terminating	of
+acl	act	terminating
+det	activity	an
+dobj	terminating	activity
+cc	terminating	or
+conj:or	terminating	event

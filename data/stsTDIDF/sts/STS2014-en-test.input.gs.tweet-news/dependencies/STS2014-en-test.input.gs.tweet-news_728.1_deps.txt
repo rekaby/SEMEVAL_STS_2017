@@ -1,0 +1,12 @@
+root	ROOT	Pentagon
+acl	Pentagon	breaking
+dobj	breaking	news
+punct	Pentagon	,
+nsubj	going	this
+acl:relcl	Pentagon	going
+mark	debate	to
+cop	debate	be
+det	debate	a
+amod	debate	big
+xcomp	going	debate
+punct	Pentagon	.

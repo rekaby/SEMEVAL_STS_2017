@@ -1,0 +1,7 @@
+nsubj	set	Britain
+root	ROOT	set
+mark	deport	to
+xcomp	set	deport
+case	Qatada	of
+compound	Qatada	Abu
+nmod:of	deport	Qatada

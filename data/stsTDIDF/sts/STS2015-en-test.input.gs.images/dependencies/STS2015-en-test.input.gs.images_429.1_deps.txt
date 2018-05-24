@@ -1,0 +1,11 @@
+det	girl	A
+amod	girl	little
+nsubj	pulls	girl
+case	shirt	in
+det	shirt	a
+amod	shirt	red
+nmod:in	girl	shirt
+root	ROOT	pulls
+det	kite	a
+dobj	pulls	kite
+punct	pulls	.

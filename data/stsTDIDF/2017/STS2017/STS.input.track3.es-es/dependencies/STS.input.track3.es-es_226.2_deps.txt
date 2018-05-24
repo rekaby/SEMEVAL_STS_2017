@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	brown
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	beach	on
+det	beach	the
+nmod:on	running	beach
+punct	running	.

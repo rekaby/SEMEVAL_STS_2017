@@ -1,0 +1,15 @@
+root	ROOT	value
+acl	value	measured
+mark	given	by
+nsubjpass	given	what
+aux	given	must
+auxpass	given	be
+advcl	measured	given
+cc	given	or
+conj:or	given	done
+cc	given	or
+conj:or	given	undergone
+mark	obtain	to
+xcomp	undergone	obtain
+dobj	obtain	something
+punct	value	.

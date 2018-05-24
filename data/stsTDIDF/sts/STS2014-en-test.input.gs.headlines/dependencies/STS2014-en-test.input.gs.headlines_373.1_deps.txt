@@ -1,0 +1,8 @@
+compound	stocks	US
+nsubj	tumble	stocks
+root	ROOT	tumble
+case	day	on
+amod	day	third
+nmod:on	tumble	day
+case	shutdown	of
+nmod:of	day	shutdown

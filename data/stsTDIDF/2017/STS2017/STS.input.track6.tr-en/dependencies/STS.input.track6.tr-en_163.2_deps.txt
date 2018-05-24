@@ -1,0 +1,15 @@
+case	parade	During
+det	parade	the
+nmod:during	kept	parade
+punct	kept	,
+det	group	a
+nsubj	kept	group
+case	cheerleaders	of
+amod	cheerleaders	red
+cc	red	and
+conj:and	red	white
+nmod:of	group	cheerleaders
+root	ROOT	kept
+advmod	high	morimizen
+xcomp	kept	high
+punct	kept	.

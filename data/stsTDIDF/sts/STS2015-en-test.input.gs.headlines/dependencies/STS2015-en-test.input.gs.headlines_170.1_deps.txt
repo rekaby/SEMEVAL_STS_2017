@@ -1,0 +1,7 @@
+compound	bomber	Suicide
+nsubj	kills	bomber
+root	ROOT	kills
+nummod	army	23
+amod	army	Iraqi
+compound	recruits	army
+dobj	kills	recruits

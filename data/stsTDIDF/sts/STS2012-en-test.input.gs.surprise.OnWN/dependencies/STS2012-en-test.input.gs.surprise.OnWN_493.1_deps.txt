@@ -1,0 +1,7 @@
+root	ROOT	indicate
+punct	signs	,
+cop	signs	be
+dep	indicate	signs
+cc	signs	or
+conj:or	signs	symptoms
+nmod	indicate	of

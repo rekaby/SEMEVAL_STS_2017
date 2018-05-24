@@ -1,0 +1,8 @@
+root	ROOT	make
+amod	marks	small
+dobj	make	marks
+case	surface	into
+det	surface	the
+nmod:into	make	surface
+acl	surface	of
+punct	make	.

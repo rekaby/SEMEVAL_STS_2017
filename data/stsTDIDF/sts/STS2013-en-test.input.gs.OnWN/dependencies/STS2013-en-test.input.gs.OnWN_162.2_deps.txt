@@ -1,0 +1,10 @@
+root	ROOT	serve
+case	reason	as
+det	reason	a
+nmod:as	serve	reason
+cc	reason	or
+conj:or	reason	cause
+cc	reason	or
+conj:or	reason	justification
+acl	justification	of
+punct	serve	.

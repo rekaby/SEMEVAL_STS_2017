@@ -1,0 +1,9 @@
+det:predet	you	all
+nsubj	demonstrate	you
+aux	demonstrate	did
+aux	demonstrate	is
+root	ROOT	demonstrate
+nmod:poss	ignorance	your
+amod	ignorance	complete
+dobj	demonstrate	ignorance
+punct	demonstrate	.

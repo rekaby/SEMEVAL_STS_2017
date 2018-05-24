@@ -1,0 +1,9 @@
+det	puppy	A
+nsubj	sliding	puppy
+aux	sliding	is
+root	ROOT	sliding
+advmod	sliding	backwards
+case	floor	along
+det	floor	the
+nmod:along	sliding	floor
+punct	sliding	.

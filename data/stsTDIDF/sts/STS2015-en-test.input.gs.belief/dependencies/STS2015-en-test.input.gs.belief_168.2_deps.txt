@@ -1,0 +1,16 @@
+root	ROOT	then
+punct	then	,
+mark	was	that
+expl	was	there
+root	,	was
+nsubj	was	nothing
+advmod	nothing	economically
+mark	do	that
+nsubj	do	we
+aux	do	could
+ccomp	nothing	do
+case	gases	about
+det	gases	the
+compound	gases	greenhouse
+nmod:about	do	gases
+punct	was	.

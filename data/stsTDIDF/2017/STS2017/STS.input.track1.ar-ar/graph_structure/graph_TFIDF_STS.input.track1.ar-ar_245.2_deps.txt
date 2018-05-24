@@ -1,0 +1,5 @@
+child	sitting	acl
+sitting	room	nmod:in
+child	.	punct
+child	small	amod
+ROOT	child	root

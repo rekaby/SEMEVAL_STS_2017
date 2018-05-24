@@ -1,0 +1,13 @@
+det	men	A
+amod	men	few
+nsubj	dropping	men
+case	deck	on
+det	deck	the
+nmod:on	men	deck
+aux	dropping	are
+root	ROOT	dropping
+det	man	another
+dobj	dropping	man
+case	water	into
+det	water	the
+nmod:into	dropping	water

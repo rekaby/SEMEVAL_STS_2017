@@ -1,0 +1,8 @@
+root	ROOT	make
+det	noise	a
+amod	noise	loud
+dobj	make	noise
+punct	noise	,
+case	animal	as
+det	animal	an
+nmod:as	noise	animal

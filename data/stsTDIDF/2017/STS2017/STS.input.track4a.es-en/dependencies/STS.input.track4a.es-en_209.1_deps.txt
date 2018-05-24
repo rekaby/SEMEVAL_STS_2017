@@ -1,0 +1,9 @@
+det	children	The
+nummod	children	two
+nsubj	playing	children
+aux	playing	are
+root	ROOT	playing
+dobj	playing	hide
+cc	hide	and
+conj:and	hide	seek
+punct	playing	.

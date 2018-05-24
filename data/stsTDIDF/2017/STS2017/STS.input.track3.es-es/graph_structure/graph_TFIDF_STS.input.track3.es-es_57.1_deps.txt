@@ -1,0 +1,6 @@
+dolls	look	acl:relcl
+barbies	like	case
+selling	dolls	dobj
+look	barbies	nmod:like
+selling	.	punct
+selling	woman	nsubj

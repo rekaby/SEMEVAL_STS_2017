@@ -1,0 +1,6 @@
+going	woman	nsubj
+walk	dog	nmod:with
+dog	her	nmod:poss
+walk	on	case
+going	walk	nmod:on
+dog	with	case

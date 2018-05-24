@@ -1,0 +1,12 @@
+amod	photo	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	photo
+case	couch	of
+nmod:of	photo	couch
+case	purse	with
+nmod:with	photo	purse
+case	end	at
+nummod	end	one
+nmod:at	photo	end
+punct	photo	.

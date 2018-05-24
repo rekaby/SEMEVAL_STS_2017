@@ -1,0 +1,14 @@
+nsubj	facor	Age
+cop	facor	is
+neg	facor	not
+det	facor	a
+compound	facor	PhD
+compound	facor	admission
+root	ROOT	facor
+case	Europe	in
+det	Europe	the
+amod	Europe	continental
+nmod:in	facor	Europe
+punct	facor	,
+advmod	facor	too
+punct	facor	.

@@ -1,0 +1,4 @@
+buildings	in	case
+woman	buildings	nmod:in_front_of
+buildings	brilliant	amod
+woman	blonde	amod

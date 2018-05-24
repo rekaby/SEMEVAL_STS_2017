@@ -1,0 +1,13 @@
+root	ROOT	Honestly
+advmod	ruined	where
+aux	ruined	are
+nmod:poss	rights	people
+case	people	's
+nsubjpass	ruined	rights
+auxpass	ruined	being
+dep	Honestly	ruined
+case	Control	in
+compound	Control	Obama?s
+compound	Control	Gun
+nmod:in	ruined	Control
+dobj	ruined	Proposal

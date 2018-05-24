@@ -1,0 +1,9 @@
+nummod	Taliban	5
+nsubj	killed	Taliban
+punct	Taliban	,
+nummod	police	5
+compound	police	Afghan
+appos	Taliban	police
+root	ROOT	killed
+case	ambushes	in
+nmod:in	killed	ambushes

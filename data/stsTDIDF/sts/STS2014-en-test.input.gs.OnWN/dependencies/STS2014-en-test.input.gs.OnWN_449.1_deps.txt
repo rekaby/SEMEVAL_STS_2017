@@ -1,0 +1,7 @@
+det	person	a
+nmod:npmod	quickly	person
+nsubj	memorizes	who
+acl:relcl	person	memorizes
+cc	memorizes	or
+conj:or	memorizes	learns
+root	ROOT	quickly

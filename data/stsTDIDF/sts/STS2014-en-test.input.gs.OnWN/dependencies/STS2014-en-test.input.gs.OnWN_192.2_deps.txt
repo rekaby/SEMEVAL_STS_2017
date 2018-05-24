@@ -1,0 +1,13 @@
+det	part	the
+amod	part	outer
+root	ROOT	part
+case	wheel	of
+det	wheel	a
+nmod:of	part	wheel
+case	which	to
+nmod:to	attached	which
+det	tire	the
+nsubjpass	attached	tire
+auxpass	attached	is
+acl:relcl	wheel	attached
+punct	part	.

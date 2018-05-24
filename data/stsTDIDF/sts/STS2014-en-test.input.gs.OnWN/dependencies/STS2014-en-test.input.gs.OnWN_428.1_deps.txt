@@ -1,0 +1,5 @@
+det	characterization	a
+amod	characterization	visual
+root	ROOT	characterization
+case	something	of
+nmod:of	characterization	something

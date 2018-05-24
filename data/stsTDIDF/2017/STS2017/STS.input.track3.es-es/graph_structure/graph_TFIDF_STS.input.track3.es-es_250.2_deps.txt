@@ -1,0 +1,6 @@
+sidewalk	a	det
+walking	People	nsubj
+sidewalk	city	nmod:in
+sidewalk	along	case
+walking	sidewalk	nmod:along
+walking	are	aux

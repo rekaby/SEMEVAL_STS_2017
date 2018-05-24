@@ -1,0 +1,11 @@
+det	index	The
+compound	index	American
+compound	index	Stock
+compound	index	Exchange
+amod	index	biotech
+root	ROOT	index
+punct	index	.-7) nsubj(surged-2, BTK
+root	ROOT	surged
+nummod	percent	5
+dobj	surged	percent
+punct	surged	.

@@ -1,0 +1,9 @@
+nsubj	take	Journalists
+punct	take	,
+root	ROOT	take
+det	hint	a
+dobj	take	hint
+case	Sullivan	from
+compound	Sullivan	Andrew
+nmod:from	take	Sullivan
+punct	take	-

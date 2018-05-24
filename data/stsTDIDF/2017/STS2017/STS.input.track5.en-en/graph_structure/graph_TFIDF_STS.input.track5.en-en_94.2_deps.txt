@@ -1,0 +1,4 @@
+umbrella	an	det
+holding	umbrella	dobj
+person	One	nummod
+holding	person	nsubj

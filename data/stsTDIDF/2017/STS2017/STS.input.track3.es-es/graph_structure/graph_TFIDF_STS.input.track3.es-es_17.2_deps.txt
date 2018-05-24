@@ -1,0 +1,10 @@
+quiet	while	mark
+quiet	background	nmod:in
+surfs	man	nsubj
+surfs	wave	dobj
+surfs	.	punct
+ROOT	surfs	root
+wave	big	amod
+quiet	are	cop
+surfs	quiet	advcl
+quiet	others	nsubj

@@ -1,0 +1,13 @@
+det	man	The
+nsubj	walking	man
+cc	man	and
+conj:and	man	child
+cop	walking	are
+case	walking	in
+nmod:poss	walking	their
+compound	walking	swim
+compound	walking	gear
+root	ROOT	walking
+case	billboards	by
+nmod:by	walking	billboards
+punct	walking	.

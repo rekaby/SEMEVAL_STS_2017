@@ -1,0 +1,15 @@
+compound	Walker	Paul
+nsubj	dead	Walker
+root	ROOT	dead
+punct	dead	:
+amod	star	Fast
+cc	Fast	and
+conj:and	Fast	Furious
+dep	dead	star
+punct	star	,
+nummod	star	40
+punct	star	,
+acl	star	killed
+case	crash	in
+compound	crash	car
+nmod:in	killed	crash

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	mixes	woman
+root	ROOT	mixes
+det	treatment	a
+compound	treatment	beauty
+dobj	mixes	treatment
+case	glass	in
+det	glass	a
+nmod:in	treatment	glass
+punct	mixes	.

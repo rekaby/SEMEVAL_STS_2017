@@ -1,0 +1,9 @@
+det	section	a
+root	ROOT	section
+case	composition	of
+det	composition	a
+nmod:of	section	composition
+punct	composition	,
+conj:or	composition	textual
+cc	composition	or
+conj:or	composition	musical

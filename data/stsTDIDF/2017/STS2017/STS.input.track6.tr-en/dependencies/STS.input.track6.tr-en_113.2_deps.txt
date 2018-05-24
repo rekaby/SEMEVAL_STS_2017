@@ -1,0 +1,12 @@
+det	girls	The
+nummod	girls	two
+nsubj	middle	girls
+cop	middle	are
+neg	middle	not
+case	middle	in
+det	middle	the
+root	ROOT	middle
+case	road	of
+det	road	the
+nmod:of	middle	road
+punct	middle	.

@@ -1,0 +1,12 @@
+compound	elections	Malaysia
+root	ROOT	elections
+punct	elections	:
+compound	vote	Malaysians
+dep	elections	vote
+case	power	with
+nmod:with	vote	power
+case	stake	at
+nmod:at	power	stake
+case	time	for
+amod	time	first
+nmod:for	stake	time

@@ -1,0 +1,8 @@
+ccomp	face	Hagel
+punct	face	,
+nsubj	face	Dempsey
+root	ROOT	face
+dobj	face	Congress
+case	budget	over
+compound	budget	defense
+nmod:over	face	budget

@@ -1,0 +1,8 @@
+root	ROOT	coerce
+conj:or	coerce	coerce
+case	violence	by
+nmod:by	coerce	violence
+cc	coerce	or
+case	threats	with
+nmod:with	coerce	threats
+punct	coerce	.

@@ -1,0 +1,10 @@
+det	group	A
+nsubj	having	group
+case	kids	of
+nmod:of	group	kids
+aux	having	are
+root	ROOT	having
+det	contest	a
+amod	contest	jumping
+dobj	having	contest
+punct	having	.

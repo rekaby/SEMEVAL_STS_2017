@@ -1,0 +1,5 @@
+knees	her	nmod:poss
+is	woman	nsubj
+is	knees	nmod:on
+knees	on	case
+woman	blindfolded	acl

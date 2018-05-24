@@ -1,0 +1,11 @@
+det	room	A
+advmod	retro	very
+amod	room	retro
+compound	room	living
+root	ROOT	room
+case	television	with
+det	television	a
+nmod:with	room	television
+case	it	in
+nmod:in	television	it
+punct	room	.

@@ -1,0 +1,8 @@
+compound	wins	Putin
+punct	wins	`
+nmod:poss	election	wins
+case	wins	'
+nmod:poss	election	Russia
+case	Russia	's
+amod	election	presidential
+root	ROOT	election

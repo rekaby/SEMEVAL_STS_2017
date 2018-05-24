@@ -1,0 +1,8 @@
+det	dog	A
+amod	dog	light-colored
+nsubj	runs	dog
+root	ROOT	runs
+case	grass	through
+det	grass	the
+nmod:through	runs	grass
+punct	runs	.

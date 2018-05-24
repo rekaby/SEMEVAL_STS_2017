@@ -1,0 +1,17 @@
+root	ROOT	News
+case	Terrorism	of
+nmod:of	News	Terrorism
+cc	Terrorism	and
+det	Conflict	the
+amod	Conflict	Israeli-Palestinian
+conj:and	Terrorism	Conflict
+punct	July	-LRB-
+appos	Conflict	July
+nummod	July	31
+nummod	August	‚
+compound	August	Äď
+dep	July	August
+nummod	July	6
+punct	July	,
+nummod	July	2013
+punct	July	-RRB-

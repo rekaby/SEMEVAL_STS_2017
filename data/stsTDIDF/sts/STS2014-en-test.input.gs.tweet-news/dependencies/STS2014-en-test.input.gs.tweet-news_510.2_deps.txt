@@ -1,0 +1,8 @@
+nsubj	Ask	Obama
+mark	Ask	to
+root	ROOT	Ask
+dobj	Ask	Congress
+mark	Toughen	to
+xcomp	Ask	Toughen
+compound	Laws	Gun
+dobj	Toughen	Laws

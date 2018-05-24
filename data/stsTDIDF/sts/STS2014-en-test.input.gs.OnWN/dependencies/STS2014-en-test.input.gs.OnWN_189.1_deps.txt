@@ -1,0 +1,7 @@
+det	partner	a
+amod	partner	romantic
+root	ROOT	partner
+punct	partner	,
+appos	partner	girlfriend
+cc	girlfriend	or
+conj:or	girlfriend	boyfriend

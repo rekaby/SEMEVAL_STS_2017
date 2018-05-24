@@ -1,0 +1,9 @@
+det	rider	A
+nsubj	running	rider
+aux	running	is
+root	ROOT	running
+cc	running	and
+conj:and	running	jumping
+nmod:poss	horse	her
+dobj	jumping	horse
+punct	running	.

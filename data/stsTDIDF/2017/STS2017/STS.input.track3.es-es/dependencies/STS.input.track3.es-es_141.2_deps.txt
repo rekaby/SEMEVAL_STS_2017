@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	walks	woman
+root	ROOT	walks
+case	city	in
+det	city	the
+nmod:in	walks	city
+punct	walks	.

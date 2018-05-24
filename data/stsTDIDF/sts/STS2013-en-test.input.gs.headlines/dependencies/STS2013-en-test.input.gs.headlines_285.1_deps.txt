@@ -1,0 +1,5 @@
+root	ROOT	Publisher
+acl	Publisher	acquitted
+case	case	in
+compound	case	privacy
+nmod:in	acquitted	case

@@ -1,0 +1,6 @@
+walking	is	aux
+walking	store	nmod:to
+shop	to	case
+store	shop	nmod:to
+walking	man	nsubj
+store	to	case

@@ -1,0 +1,10 @@
+nmod:poss	Surface	Microsoft
+case	Microsoft	's
+nsubj	bet	Surface
+det	bet	a
+amod	bet	big
+root	ROOT	bet
+case	future	on
+nmod:on	bet	future
+punct	bet	:
+dep	bet	Analysts

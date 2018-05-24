@@ -1,0 +1,10 @@
+compound	standing	Lady
+root	ROOT	standing
+case	shoulders	on
+det	shoulders	the
+nmod:on	standing	shoulders
+case	man	of
+det	man	a
+amod	man	tall
+nmod:of	shoulders	man
+punct	standing	.

@@ -1,0 +1,7 @@
+compound	fire	Burundi
+compound	fire	police
+nsubj	tear	fire
+root	ROOT	tear
+dobj	tear	gas
+case	protesters	at
+nmod:at	tear	protesters

@@ -1,0 +1,14 @@
+det	PCs	The
+nsubjpass	scattered	PCs
+auxpass	scattered	are
+root	ROOT	scattered
+case	States	across
+det	States	the
+compound	States	United
+nmod:across	scattered	States
+punct	States	,
+conj:and	States	Canada
+cc	States	and
+compound	Korea	South
+conj:and	States	Korea
+punct	scattered	.

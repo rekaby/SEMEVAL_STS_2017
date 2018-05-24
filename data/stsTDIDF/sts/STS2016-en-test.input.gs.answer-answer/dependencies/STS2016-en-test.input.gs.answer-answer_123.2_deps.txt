@@ -1,0 +1,9 @@
+nsubj	want	You
+aux	want	will
+advmod	want	also
+root	ROOT	want
+mark	remove	to
+xcomp	want	remove
+det	seeds	the
+dobj	remove	seeds
+punct	want	.

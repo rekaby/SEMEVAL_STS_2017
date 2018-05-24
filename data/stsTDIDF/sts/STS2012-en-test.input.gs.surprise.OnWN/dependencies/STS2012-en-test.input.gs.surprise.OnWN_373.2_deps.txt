@@ -1,0 +1,5 @@
+root	ROOT	make
+xcomp	make	tight
+cc	tight	or
+conj:or	tight	tighter
+punct	make	.

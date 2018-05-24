@@ -1,0 +1,9 @@
+nummod	children	Three
+nsubj	stand	children
+root	ROOT	stand
+nmod	stand	on
+cc	on	or
+case	fence	near
+det	fence	a
+conj:or	on	fence
+punct	stand	.

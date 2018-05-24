@@ -1,0 +1,5 @@
+compound	Edges	Myanmar
+compound	Edges	Fighting
+root	ROOT	Edges
+case	China	Toward
+nmod:toward	Edges	China

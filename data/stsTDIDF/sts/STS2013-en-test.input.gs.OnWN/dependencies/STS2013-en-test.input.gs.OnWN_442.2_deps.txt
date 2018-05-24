@@ -1,0 +1,6 @@
+root	ROOT	conform
+case	pattern	to
+det	pattern	a
+amod	pattern	metrical
+nmod:to	conform	pattern
+punct	conform	.

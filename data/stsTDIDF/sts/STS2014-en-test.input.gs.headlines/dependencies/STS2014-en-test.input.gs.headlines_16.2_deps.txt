@@ -1,0 +1,6 @@
+nummod	workers	Seven
+amod	workers	foreign
+nsubj	kidnapped	workers
+root	ROOT	kidnapped
+case	Nigeria	in
+nmod:in	kidnapped	Nigeria

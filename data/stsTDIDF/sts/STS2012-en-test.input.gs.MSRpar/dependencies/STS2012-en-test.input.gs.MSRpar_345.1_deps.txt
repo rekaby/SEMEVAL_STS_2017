@@ -1,0 +1,13 @@
+case	law	Under
+amod	law	Mexican
+nmod:under	considered	law
+punct	considered	,
+compound	hunting	bounty
+nsubjpass	considered	hunting
+auxpass	considered	is
+root	ROOT	considered
+det	form	a
+xcomp	considered	form
+case	kidnapping	of
+nmod:of	form	kidnapping
+punct	considered	.

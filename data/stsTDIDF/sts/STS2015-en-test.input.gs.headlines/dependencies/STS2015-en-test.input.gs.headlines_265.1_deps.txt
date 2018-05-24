@@ -1,0 +1,7 @@
+amod	markets	Asian
+root	ROOT	markets
+acl	markets	mixed
+case	data	on
+compound	data	China
+compound	data	trade
+nmod:on	mixed	data

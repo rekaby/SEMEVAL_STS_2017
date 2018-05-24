@@ -1,0 +1,10 @@
+buy	gifts	dobj
+Christmas	for	case
+ROOT	shopping	root
+Christmas	the	det
+Christmas	holiday	compound
+shopping	People	nsubj
+gifts	Christmas	nmod:for
+shopping	.	punct
+shopping	are	aux
+shopping	buy	xcomp

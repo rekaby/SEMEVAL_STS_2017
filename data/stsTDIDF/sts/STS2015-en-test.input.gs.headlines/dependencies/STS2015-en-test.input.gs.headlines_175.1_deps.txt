@@ -1,0 +1,9 @@
+root	ROOT	7
+acl	7	killed
+case	fighters	by
+amod	fighters	Shiite
+amod	fighters	al-Houthi
+nmod:by	killed	fighters
+case	Yemen	in
+amod	Yemen	northern
+nmod:in	fighters	Yemen

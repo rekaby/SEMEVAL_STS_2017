@@ -1,0 +1,15 @@
+nsubj	started	He
+root	ROOT	started
+case	Bowl	in
+det	Bowl	the
+nummod	Bowl	1983
+compound	Bowl	Super
+nmod:in	started	Bowl
+punct	Bowl	,
+dobj	lost	which
+nsubj	lost	Miami
+acl:relcl	Bowl	lost
+dobj	lost	27-17
+case	Washington	to
+nmod:to	lost	Washington
+punct	started	.

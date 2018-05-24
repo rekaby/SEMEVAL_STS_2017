@@ -1,0 +1,9 @@
+det	group	A
+root	ROOT	group
+case	peoples	of
+nmod:of	group	peoples
+acl	group	posing
+case	hats	in
+compound	hats	fur
+nmod:in	posing	hats
+punct	group	.

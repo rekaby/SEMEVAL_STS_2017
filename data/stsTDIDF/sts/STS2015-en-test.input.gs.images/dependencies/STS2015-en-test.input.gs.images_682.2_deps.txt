@@ -1,0 +1,14 @@
+det	child	A
+nsubj	holds	child
+case	pink	in
+nmod:in	child	pink
+root	ROOT	holds
+det	object	an
+dobj	holds	object
+nsubj	appears	that
+acl:relcl	object	appears
+mark	fire	to
+cop	fire	be
+case	fire	on
+xcomp	appears	fire
+punct	holds	.

@@ -1,0 +1,21 @@
+amod	Vertefuille	Awesome
+compound	Vertefuille	Jeanne
+nsubj	told	Vertefuille
+root	ROOT	told
+mark	take	to
+xcomp	told	take
+det	course	a
+amod	course	secretarial
+dobj	take	course
+case	C.I.A.	by
+nmod:by	take	C.I.A.
+punct	told	.-12) nsubj(Helped-2, She
+root	ROOT	Helped
+xcomp	Helped	Catch
+det	Spy	a
+amod	Spy	Notorious
+dobj	Catch	Spy
+punct	Helped	,
+dep	Helped	Dies
+case	80	at
+nmod:at	Dies	80

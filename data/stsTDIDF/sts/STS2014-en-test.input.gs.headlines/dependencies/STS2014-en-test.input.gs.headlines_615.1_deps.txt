@@ -1,0 +1,9 @@
+nsubj	adjusts	Pentagon
+root	ROOT	adjusts
+dobj	adjusts	plans
+case	attacks	for
+amod	attacks	more
+amod	attacks	intense
+nmod:for	plans	attacks
+case	Syria	on
+nmod:on	attacks	Syria

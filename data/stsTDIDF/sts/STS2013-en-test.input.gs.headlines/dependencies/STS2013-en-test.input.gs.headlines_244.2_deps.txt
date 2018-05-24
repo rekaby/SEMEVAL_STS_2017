@@ -1,0 +1,6 @@
+nsubj	beckons	Hall
+case	Fame	of
+nmod:of	Hall	Fame
+root	ROOT	beckons
+case	Capriati	for
+nmod:for	beckons	Capriati

@@ -1,0 +1,9 @@
+det	woman	The
+nsubj	breakfast	woman
+root	ROOT	breakfast
+case	her	for
+nmod:for	breakfast	her
+cc	her	and
+nmod:poss	boyfriend	her
+conj:and	her	boyfriend
+punct	breakfast	.

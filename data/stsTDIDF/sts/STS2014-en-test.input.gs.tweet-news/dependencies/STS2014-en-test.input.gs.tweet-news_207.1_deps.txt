@@ -1,0 +1,17 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	Makers	Robot
+nsubj	Say	Makers
+dep	NYTimes	Say
+nsubj	create	Automation
+aux	create	will
+ccomp	Say	create
+amod	jobs	new
+cc	new	and
+conj:and	new	better
+dobj	create	jobs
+cc	jobs	and
+neg	only	not
+advmod	delete	only
+conj:and	jobs	delete
+dobj	delete	jobs

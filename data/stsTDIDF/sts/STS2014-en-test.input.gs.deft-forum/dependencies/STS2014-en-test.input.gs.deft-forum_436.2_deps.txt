@@ -1,0 +1,7 @@
+root	ROOT	And
+dep	And	parts
+case	coast	of
+det	coast	the
+compound	coast	west
+nmod:of	parts	coast
+punct	And	.

@@ -1,0 +1,9 @@
+compound	FM	Syria
+root	ROOT	FM
+punct	FM	:
+nsubj	stop	We
+aux	stop	will
+parataxis	FM	stop
+xcomp	stop	producing
+compound	weapons	chemical
+dobj	producing	weapons

@@ -1,0 +1,16 @@
+det	statement	the
+nsubjpass	posted	statement
+auxpass	posted	was
+root	ROOT	posted
+case	site	on
+det	site	the
+compound	site	kremlin
+compound	site	web
+nmod:on	posted	site
+cc	site	and
+conj:and	site	carried
+case	agencies	by
+compound	agencies	state
+compound	agencies	news
+nmod:by	carried	agencies
+punct	posted	.

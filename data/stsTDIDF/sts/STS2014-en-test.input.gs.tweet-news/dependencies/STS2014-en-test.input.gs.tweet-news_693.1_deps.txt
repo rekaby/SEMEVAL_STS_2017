@@ -1,0 +1,19 @@
+punct	hosts	-LRB-
+punct	hosts	-RRB-
+nsubj	hosts	Brazil
+root	ROOT	hosts
+amod	parade	largest
+compound	parade	fag
+dobj	hosts	parade
+case	world	in
+det	world	the
+nmod:in	hosts	world
+punct	hosts	.-11) compound(people-3, #FagsDoomNations
+nummod	people	245
+root	ROOT	people
+acl	people	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	club
+nmod:in	killed	fire
+punct	people	.

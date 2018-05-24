@@ -1,0 +1,6 @@
+amod	boy	Blond
+nsubj	jumping	boy
+root	ROOT	jumping
+case	deck	onto
+nmod:onto	jumping	deck
+punct	jumping	.

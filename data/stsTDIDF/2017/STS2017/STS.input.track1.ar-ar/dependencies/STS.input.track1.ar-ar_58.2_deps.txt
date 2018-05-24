@@ -1,0 +1,8 @@
+advmod	stuck	However
+punct	stuck	,
+det	girl	a
+nsubj	stuck	girl
+root	ROOT	stuck
+nmod:poss	mother	her
+dobj	stuck	mother
+punct	stuck	.

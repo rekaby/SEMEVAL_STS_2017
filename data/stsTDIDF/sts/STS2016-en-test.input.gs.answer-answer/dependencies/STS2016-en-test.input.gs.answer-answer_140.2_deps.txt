@@ -1,0 +1,6 @@
+nsubj	depends	It
+root	ROOT	depends
+case	company	on
+nmod:poss	company	your
+nmod:on	depends	company
+punct	depends	.

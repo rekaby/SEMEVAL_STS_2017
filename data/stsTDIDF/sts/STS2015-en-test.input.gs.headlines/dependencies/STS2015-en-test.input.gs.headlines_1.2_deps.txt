@@ -1,0 +1,8 @@
+amod	politicians	Australian
+nsubj	lament	politicians
+root	ROOT	lament
+case	death	over
+compound	Mandela	Nelson
+nmod:poss	death	Mandela
+case	Mandela	's
+nmod:over	lament	death

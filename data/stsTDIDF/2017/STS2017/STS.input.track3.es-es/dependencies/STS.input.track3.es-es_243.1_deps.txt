@@ -1,0 +1,9 @@
+nummod	workers	Two
+compound	workers	construction
+nsubj	stop	workers
+root	ROOT	stop
+case	mall	at
+det	mall	the
+nmod:at	stop	mall
+case	lunch	for
+nmod:for	stop	lunch

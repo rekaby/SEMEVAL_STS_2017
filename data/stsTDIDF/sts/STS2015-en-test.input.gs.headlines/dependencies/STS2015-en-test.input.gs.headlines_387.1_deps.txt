@@ -1,0 +1,7 @@
+nsubj	rally	Thousands
+root	ROOT	rally
+mark	support	to
+xcomp	rally	support
+amod	government	embattled
+compound	government	Tunisia
+dobj	support	government

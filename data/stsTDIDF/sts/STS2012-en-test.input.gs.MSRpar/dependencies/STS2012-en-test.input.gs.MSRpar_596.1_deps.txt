@@ -1,0 +1,16 @@
+nsubj	woman	She
+cop	woman	was
+det	woman	the
+amod	woman	only
+root	ROOT	woman
+case	unit	in
+nmod:poss	unit	her
+nmod:in	woman	unit
+cc	unit	and
+det	member	a
+conj:and	unit	member
+case	Local	of
+compound	Local	Teamsters
+nmod:of	member	Local
+nummod	Local	995
+punct	woman	.

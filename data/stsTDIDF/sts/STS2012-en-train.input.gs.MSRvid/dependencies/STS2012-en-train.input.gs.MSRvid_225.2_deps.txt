@@ -1,0 +1,6 @@
+det	woman	A
+nsubj	playing	woman
+aux	playing	is
+root	ROOT	playing
+dobj	playing	guitar
+punct	playing	.

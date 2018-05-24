@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	lying	woman
+aux	lying	is
+root	ROOT	lying
+case	raft	in
+det	raft	a
+nmod:in	lying	raft
+punct	lying	.

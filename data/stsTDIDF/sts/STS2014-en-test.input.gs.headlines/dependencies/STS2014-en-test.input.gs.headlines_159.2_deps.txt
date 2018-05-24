@@ -1,0 +1,11 @@
+compound	Plans	Joran
+compound	Plans	Van
+compound	Plans	Der
+compound	Plans	Sloots
+nsubj	Prison	Plans
+mark	Get	To
+acl	Plans	Get
+xcomp	Get	Married
+case	Peru	In
+nmod:in	Married	Peru
+root	ROOT	Prison

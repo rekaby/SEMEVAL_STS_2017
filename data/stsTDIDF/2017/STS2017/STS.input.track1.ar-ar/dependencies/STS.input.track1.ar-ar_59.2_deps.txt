@@ -1,0 +1,7 @@
+det	group	A
+root	ROOT	group
+case	people	of
+nmod:of	group	people
+acl	people	taking
+dobj	taking	photos
+punct	group	.

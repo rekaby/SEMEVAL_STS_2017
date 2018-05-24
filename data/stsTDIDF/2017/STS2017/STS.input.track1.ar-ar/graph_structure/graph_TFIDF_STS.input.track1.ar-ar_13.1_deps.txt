@@ -1,0 +1,11 @@
+chair	next	case
+standing	platform	nmod:on
+people	Three	nummod
+standing	were	aux
+standing	people	nsubj
+chair	solid	amod
+chair	guitar	compound
+standing	chair	nmod:next_to
+platform	black	amod
+chair	black	amod
+platform	on	case

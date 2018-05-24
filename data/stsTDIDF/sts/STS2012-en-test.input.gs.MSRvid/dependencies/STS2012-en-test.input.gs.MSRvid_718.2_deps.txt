@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	cuts	woman
+root	ROOT	cuts
+compound:prt	cuts	off
+det	piece	a
+amod	piece	small
+dobj	cuts	piece
+case	rind	of
+amod	rind	lemon
+nmod:of	piece	rind
+punct	cuts	.

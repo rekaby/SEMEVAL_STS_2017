@@ -1,0 +1,10 @@
+compound	soldier	US
+nsubj	accused	soldier
+root	ROOT	accused
+case	massacre	of
+compound	massacre	Afghan
+nmod:of	accused	massacre
+acl	massacre	hires
+amod	lawyer	prominent
+amod	lawyer	criminal
+dobj	hires	lawyer

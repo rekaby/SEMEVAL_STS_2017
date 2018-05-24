@@ -1,0 +1,10 @@
+det	man	A
+nsubj	puts	man
+root	ROOT	puts
+dobj	puts	seasoning
+case	bowl	in
+det	bowl	a
+nmod:in	puts	bowl
+case	water	of
+nmod:of	bowl	water
+punct	puts	.

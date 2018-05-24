@@ -1,0 +1,9 @@
+mowing	mower	nmod:with
+ROOT	mowing	root
+mower	a	det
+mowing	.	punct
+mower	with	case
+mowing	girl	nsubj
+mowing	is	aux
+mower	lawn	compound
+mowing	grass	dobj

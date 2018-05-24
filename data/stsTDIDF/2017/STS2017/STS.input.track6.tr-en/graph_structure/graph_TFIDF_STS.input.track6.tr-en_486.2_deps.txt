@@ -1,0 +1,7 @@
+ROOT	float	root
+float	women	nsubj
+float	.	punct
+waterfall	a	det
+waterfall	under	case
+float	waterfall	nmod:under
+float	pool	nmod:in

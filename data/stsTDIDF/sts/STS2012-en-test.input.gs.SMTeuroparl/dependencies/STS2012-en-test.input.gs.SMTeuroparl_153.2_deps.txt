@@ -1,0 +1,7 @@
+det	vote	The
+nsubj	place	vote
+aux	place	will
+root	ROOT	place
+case	17h30	to
+nmod:to	place	17h30
+punct	place	.

@@ -1,0 +1,10 @@
+nsubj	warns	North
+root	ROOT	warns
+case	retaliation	of
+nmod:of	warns	retaliation
+case	drill	for
+nmod:poss	drill	Seoul
+case	Seoul	's
+amod	drill	naval
+nmod:for	retaliation	drill
+dobj	warns	plan

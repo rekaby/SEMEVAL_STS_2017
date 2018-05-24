@@ -1,0 +1,8 @@
+sitting	table	nmod:on
+wearing	sunglasses	dobj
+men	wearing	acl
+sitting	men	nsubj
+table	beers	nmod:with
+sitting	two	nmod:for
+beers	with	case
+beers	two	nummod

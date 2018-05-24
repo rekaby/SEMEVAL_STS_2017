@@ -1,0 +1,4 @@
+taxi	for	case
+wait	people	nsubj
+taxi	a	det
+wait	taxi	nmod:for

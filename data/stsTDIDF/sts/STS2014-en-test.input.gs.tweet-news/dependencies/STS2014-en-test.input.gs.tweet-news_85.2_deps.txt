@@ -1,0 +1,8 @@
+root	ROOT	Photos
+punct	Photos	:
+compound	Un	Kim
+compound	Un	Jong
+dep	Photos	Un
+cc	Un	and
+nmod:poss	military	his
+conj:and	Un	military

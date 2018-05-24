@@ -1,0 +1,10 @@
+det	state	a
+root	ROOT	state
+case	order	of
+amod	order	social
+nmod:of	state	order
+case	conformance	in
+nmod:in	state	conformance
+case	law	with
+amod	law	existing
+nmod:with	conformance	law

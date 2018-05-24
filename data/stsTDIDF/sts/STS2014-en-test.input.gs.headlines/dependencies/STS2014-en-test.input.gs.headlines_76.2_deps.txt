@@ -1,0 +1,5 @@
+nummod	earthquake	5.6
+compound	earthquake	magnitude
+nsubj	shakes	earthquake
+root	ROOT	shakes
+dobj	shakes	Iran

@@ -1,0 +1,9 @@
+compound	workers	U.S.
+compound	workers	fast-food
+nsubj	plan	workers
+root	ROOT	plan
+amod	strikes	nationwide
+dobj	plan	strikes
+case	wage	over
+amod	wage	minimum
+nmod:over	strikes	wage

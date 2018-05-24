@@ -1,0 +1,9 @@
+punct	fine	``
+nsubj	exist	Goblins
+aux	exist	do
+neg	exist	n't
+dep	fine	exist
+punct	exist	''
+punct	fine	-
+root	ROOT	fine
+punct	fine	.

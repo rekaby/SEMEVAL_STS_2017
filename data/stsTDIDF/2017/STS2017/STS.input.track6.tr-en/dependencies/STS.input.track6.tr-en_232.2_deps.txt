@@ -1,0 +1,10 @@
+det	mother	A
+nsubj	taking	mother
+cc	mother	and
+nummod	children	two
+conj:and	mother	children
+aux	taking	are
+root	ROOT	taking
+compound	photos	family
+dobj	taking	photos
+punct	taking	.

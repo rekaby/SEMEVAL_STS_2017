@@ -1,0 +1,13 @@
+det	man	A
+nsubjpass	surrounded	man
+auxpass	surrounded	is
+root	ROOT	surrounded
+case	woman	by
+det	woman	a
+nmod:agent	surrounded	woman
+punct	surrounded	,
+cc:preconj	wearing	both
+advcl	surrounded	wearing
+amod	clothes	red
+dobj	wearing	clothes
+punct	surrounded	.

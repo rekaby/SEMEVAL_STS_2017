@@ -1,0 +1,9 @@
+compound	ex-spy	Israel
+nsubj	warns	ex-spy
+root	ROOT	warns
+case	Iran	against
+punct	Iran	`
+amod	Iran	messianic
+punct	Iran	'
+nmod:against	warns	Iran
+dobj	warns	war

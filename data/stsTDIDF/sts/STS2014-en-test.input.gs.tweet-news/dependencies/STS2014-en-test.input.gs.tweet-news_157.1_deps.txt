@@ -1,0 +1,22 @@
+compound	tragedies	CNN
+amod	tragedies	Recent
+compound	tragedies	nightclub
+root	ROOT	tragedies
+punct	tragedies	:
+case	Saturday	On
+nmod:on	killed	Saturday
+punct	Saturday	,
+det	fire	a
+amod	fire	massive
+appos	Saturday	fire
+case	nightclub	at
+det	nightclub	the
+compound	nightclub	Kiss
+nmod:at	fire	nightclub
+case	Brazil	in
+amod	Brazil	southern
+nmod:in	nightclub	Brazil
+dep	tragedies	killed
+case	l.	at
+nmod:at	killed	l.
+punct	tragedies	.-22) root(ROOT-0, .

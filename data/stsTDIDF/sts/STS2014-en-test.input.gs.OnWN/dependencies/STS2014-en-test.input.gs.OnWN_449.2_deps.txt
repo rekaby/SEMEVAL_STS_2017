@@ -1,0 +1,12 @@
+det	person	a
+root	ROOT	person
+nsubj	joins	who
+acl:relcl	person	joins
+case	others	with
+nmod:with	joins	others
+case	activity	in
+det	activity	some
+nmod:in	joins	activity
+cc	activity	or
+conj:or	activity	endeavor
+punct	person	.

@@ -1,0 +1,8 @@
+nsubj	say	Critics
+root	ROOT	say
+nmod:poss	restrictions	Putin
+case	Putin	's
+compound	restrictions	security
+nsubj	violate	restrictions
+ccomp	say	violate
+dobj	violate	rights

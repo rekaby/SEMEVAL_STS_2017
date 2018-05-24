@@ -1,0 +1,8 @@
+det	skier	The
+nsubj	ground	skier
+cop	ground	is
+case	ground	near
+det	ground	the
+amod	ground	snowy
+root	ROOT	ground
+punct	ground	.

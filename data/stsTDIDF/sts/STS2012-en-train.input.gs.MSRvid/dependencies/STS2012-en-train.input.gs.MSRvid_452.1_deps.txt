@@ -1,0 +1,10 @@
+det	people	The
+nsubj	threw	people
+root	ROOT	threw
+det	dummy	the
+dobj	threw	dummy
+case	edge	over
+det	edge	the
+compound	edge	cliff
+nmod:over	threw	edge
+punct	threw	.

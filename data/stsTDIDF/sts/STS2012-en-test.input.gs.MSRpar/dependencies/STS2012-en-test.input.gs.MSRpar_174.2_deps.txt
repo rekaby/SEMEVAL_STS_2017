@@ -1,0 +1,13 @@
+cc	dominated	But
+det	crisis	the
+amod	Korean	North
+amod	crisis	Korean
+amod	crisis	nuclear
+nsubj	dominated	crisis
+aux	dominated	has
+root	ROOT	dominated
+nmod:poss	time	his
+dobj	dominated	time
+case	office	in
+nmod:in	time	office
+punct	dominated	.

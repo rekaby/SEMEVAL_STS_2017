@@ -1,0 +1,8 @@
+root	ROOT	Remains
+case	people	of
+nummod	people	167
+nmod:of	Remains	people
+acl	people	found
+case	Mexico	in
+nmod:in	found	Mexico
+dep	Remains	cave

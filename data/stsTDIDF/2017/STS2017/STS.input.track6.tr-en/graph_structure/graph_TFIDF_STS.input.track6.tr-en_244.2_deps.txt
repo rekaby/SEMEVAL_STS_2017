@@ -1,0 +1,4 @@
+walk	street	nmod:in
+walk	randomly	advmod
+street	abandoned	amod
+walk	people	nsubj

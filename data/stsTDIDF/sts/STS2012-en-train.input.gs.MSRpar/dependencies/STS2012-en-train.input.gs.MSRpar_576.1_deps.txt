@@ -1,0 +1,17 @@
+det	Facility	The
+compound	Facility	Space
+compound	Facility	Infrared
+compound	Facility	Telescope
+nmod:poss	mission	Facility
+case	Facility	's
+nsubj	is	mission
+root	ROOT	is
+mark	search	to
+xcomp	is	search
+case	beginnings	for
+det	beginnings	the
+nmod:for	search	beginnings
+case	universe	of
+det	universe	the
+nmod:of	beginnings	universe
+punct	is	.

@@ -1,0 +1,6 @@
+nsubj	draws	NRA
+root	ROOT	draws
+dobj	draws	heat
+case	game	for
+compound	game	shooting
+nmod:for	draws	game

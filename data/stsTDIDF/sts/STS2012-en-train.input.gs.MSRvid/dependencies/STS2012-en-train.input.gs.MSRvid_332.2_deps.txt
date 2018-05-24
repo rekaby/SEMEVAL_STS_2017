@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	rowing	woman
+cop	rowing	is
+root	ROOT	rowing
+det	boat	a
+dobj	rowing	boat
+punct	rowing	.

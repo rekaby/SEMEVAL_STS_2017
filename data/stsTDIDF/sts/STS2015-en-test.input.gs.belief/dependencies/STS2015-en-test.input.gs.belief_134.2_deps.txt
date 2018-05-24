@@ -1,0 +1,15 @@
+cc	having	but
+det	scenario	the
+compound	scenario	nightmare
+nsubj	having	scenario
+aux	having	is
+root	ROOT	having
+dobj	having	him
+dep	having	alive
+cc	alive	and
+case	detention	in
+conj:and	alive	detention
+punct	having	,
+advcl	having	awaiting
+dobj	awaiting	trial
+punct	having	.

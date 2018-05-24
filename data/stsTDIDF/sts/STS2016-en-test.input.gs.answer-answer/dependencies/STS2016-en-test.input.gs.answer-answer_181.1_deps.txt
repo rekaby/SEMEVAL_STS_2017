@@ -1,0 +1,12 @@
+advmod	have	Now
+nsubj	have	you
+aux	have	do
+neg	have	n't
+root	ROOT	have
+mark	perfect	to
+cop	perfect	be
+xcomp	have	perfect
+case	answer	on
+det	answer	every
+nmod:on	perfect	answer
+punct	have	.

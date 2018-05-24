@@ -1,0 +1,14 @@
+det	boy	A
+nsubj	standing	boy
+case	letter	with
+det	letter	a
+nmod:with	boy	letter
+case	hand	in
+nmod:poss	hand	his
+nmod:in	letter	hand
+aux	standing	is
+root	ROOT	standing
+case	store	in
+det	store	the
+nmod:in	standing	store
+punct	standing	.

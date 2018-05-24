@@ -1,0 +1,14 @@
+advmod	20	About
+nummod	members	20
+compound	members	family
+nsubjpass	invited	members
+case	victims	of
+det	victims	the
+nmod:of	members	victims
+auxpass	invited	were
+root	ROOT	invited
+case	conference	to
+det	conference	the
+compound	conference	news
+nmod:to	invited	conference
+punct	invited	.

@@ -1,0 +1,7 @@
+det	man	A
+nsubj	reading	man
+aux	reading	is
+root	ROOT	reading
+nmod:poss	email	his
+dobj	reading	email
+punct	reading	.

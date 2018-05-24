@@ -1,0 +1,17 @@
+root	ROOT	``
+nsubj	think	I
+root	``	think
+expl	's	there
+ccomp	think	's
+det	confidence	a
+compound	confidence	building
+nsubj	's	confidence
+mark	beat	that
+det	cop	the
+nsubj	beat	cop
+cop	beat	is
+case	beat	on
+det	beat	the
+dep	confidence	beat
+punct	think	.
+punct	think	''

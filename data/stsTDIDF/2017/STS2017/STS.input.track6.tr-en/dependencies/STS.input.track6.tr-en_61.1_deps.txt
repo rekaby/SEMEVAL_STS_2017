@@ -1,0 +1,9 @@
+det	boat	The
+nsubj	has	boat
+root	ROOT	has
+amod	yellow	pink
+amod	sails	yellow
+cc	yellow	and
+conj:and	yellow	blue
+dobj	has	sails
+punct	has	.

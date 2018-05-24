@@ -1,0 +1,7 @@
+nsubj	killed	Three
+root	ROOT	killed
+case	bombers	in
+compound	bombers	Nigeria
+compound	bombers	suicide
+nmod:in	killed	bombers
+dobj	killed	attack

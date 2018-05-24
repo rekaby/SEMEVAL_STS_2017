@@ -1,0 +1,9 @@
+nmod:poss	growth	Japan
+case	Japan	's
+compound	growth	GDP
+nsubj	downgraded	growth
+root	ROOT	downgraded
+case	%	to
+amod	%	annual
+nummod	%	1.1
+nmod:to	downgraded	%

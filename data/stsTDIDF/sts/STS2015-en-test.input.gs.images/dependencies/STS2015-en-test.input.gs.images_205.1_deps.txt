@@ -1,0 +1,14 @@
+det	person	A
+nsubj	riding	person
+aux	riding	is
+root	ROOT	riding
+nmod:poss	bike	their
+dobj	riding	bike
+case	trail	on
+det	trail	a
+nmod:on	riding	trail
+case	woods	next
+mwe	next	to
+det	woods	the
+nmod:next_to	trail	woods
+punct	riding	.

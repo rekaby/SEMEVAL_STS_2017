@@ -1,0 +1,11 @@
+nsubj	think	I
+aux	think	do
+neg	think	not
+root	ROOT	think
+nsubj	want	we
+advmod	want	really
+ccomp	think	want
+mark	celebrate	to
+xcomp	want	celebrate
+dobj	celebrate	boredom
+punct	think	.

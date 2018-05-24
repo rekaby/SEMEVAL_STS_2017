@@ -1,0 +1,6 @@
+root	ROOT	Rewrite
+case	script	in
+det	script	a
+amod	script	different
+nmod:in	Rewrite	script
+punct	Rewrite	.

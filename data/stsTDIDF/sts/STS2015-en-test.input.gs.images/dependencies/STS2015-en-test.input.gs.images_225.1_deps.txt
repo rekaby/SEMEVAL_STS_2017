@@ -1,0 +1,11 @@
+det	dog	A
+root	ROOT	dog
+case	toy	with
+det	toy	a
+amod	toy	red
+nmod:with	dog	toy
+mark	mouth	in
+nsubj	mouth	it
+cop	mouth	's
+dep	toy	mouth
+punct	dog	.

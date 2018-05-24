@@ -1,0 +1,9 @@
+nsubj	comes	Benedict
+root	ROOT	comes
+dobj	comes	home
+case	house	to
+amod	house	new
+nmod:to	home	house
+cc	home	and
+amod	Pope	new
+conj:and	home	Pope

@@ -1,0 +1,12 @@
+nsubj	left	He
+root	ROOT	left
+det	army	the
+dobj	left	army
+case	Syria	for
+nmod:for	army	Syria
+advmod	received	where
+nsubj	received	he
+acl:relcl	army	received
+amod	training	religious
+dobj	received	training
+punct	left	.

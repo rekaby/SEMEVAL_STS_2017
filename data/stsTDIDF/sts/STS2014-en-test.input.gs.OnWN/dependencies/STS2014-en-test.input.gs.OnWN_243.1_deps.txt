@@ -1,0 +1,9 @@
+det	operation	an
+root	ROOT	operation
+det	items	that
+compound	items	groups
+dep	operation	items
+case	criteria	according
+mwe	according	to
+amod	criteria	specific
+nmod:according_to	items	criteria

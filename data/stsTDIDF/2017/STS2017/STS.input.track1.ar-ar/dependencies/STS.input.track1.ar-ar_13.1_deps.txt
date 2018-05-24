@@ -1,0 +1,16 @@
+nummod	people	Three
+nsubj	standing	people
+aux	standing	were
+root	ROOT	standing
+case	platform	on
+det	platform	a
+amod	platform	black
+nmod:on	standing	platform
+case	chair	next
+mwe	next	to
+det	chair	a
+amod	chair	solid
+amod	chair	black
+compound	chair	guitar
+nmod:next_to	standing	chair
+punct	standing	.

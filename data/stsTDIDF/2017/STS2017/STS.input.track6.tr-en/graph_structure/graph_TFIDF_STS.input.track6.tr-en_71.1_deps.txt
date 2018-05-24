@@ -1,0 +1,15 @@
+sill	the	det
+carpet	blue	amod
+ROOT	reaches	root
+reaches	grab	xcomp
+grab	sill	nmod:from
+carpet	over	case
+sill	window	compound
+reaches	man	nsubj
+grab	to	mark
+grab	snake	dobj
+snake	a	det
+reaches	.	punct
+reaches	carpet	nmod:over
+sill	from	case
+carpet	a	det

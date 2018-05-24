@@ -1,0 +1,9 @@
+compound	Church	Emily
+nsubj	chief	Church
+cop	chief	is
+compound	chief	London
+compound	chief	bureau
+root	ROOT	chief
+case	CBS.MarketWatch.com	of
+nmod:of	chief	CBS.MarketWatch.com
+punct	chief	.

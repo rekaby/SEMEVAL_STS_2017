@@ -1,0 +1,11 @@
+det	woman	The
+nsubj	picture	woman
+case	paints	in
+compound	paints	overalls
+nmod:in	woman	paints
+det	picture	a
+root	ROOT	picture
+case	wall	for
+nmod:poss	wall	her
+nmod:for	picture	wall
+punct	picture	.

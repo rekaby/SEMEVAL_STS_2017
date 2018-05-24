@@ -1,0 +1,9 @@
+det	battery	The
+nsubj	uses	battery
+root	ROOT	uses
+det	reation	the
+compound	reation	chemical
+dobj	uses	reation
+mark	create	to
+xcomp	uses	create
+dobj	create	voltage

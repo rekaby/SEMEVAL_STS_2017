@@ -1,0 +1,11 @@
+det	close	a
+root	ROOT	close
+advmod	close	up
+case	woman	of
+det	woman	a
+nmod:of	up	woman
+acl	woman	holding
+det	puppy	a
+amod	puppy	white
+dobj	holding	puppy
+punct	close	.

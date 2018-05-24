@@ -1,0 +1,10 @@
+compound	issues	U.S.
+compound	issues	Supreme
+compound	issues	Court
+nsubj	split	issues
+root	ROOT	split
+dobj	split	ruling
+case	law	on
+compound	law	Arizona
+compound	law	immigration
+nmod:on	ruling	law

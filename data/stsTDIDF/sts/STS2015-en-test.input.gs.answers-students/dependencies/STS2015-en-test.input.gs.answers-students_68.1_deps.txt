@@ -1,0 +1,9 @@
+mark	is	Because
+expl	is	there
+root	ROOT	is
+det	gap	a
+nsubj	is	gap
+case	circuit	in
+det	circuit	the
+nmod:in	gap	circuit
+punct	is	.

@@ -1,0 +1,8 @@
+det	Joker	The
+nsubj	care	Joker
+aux	care	does
+neg	care	n't
+root	ROOT	care
+case	money	about
+nmod:about	care	money
+punct	care	.

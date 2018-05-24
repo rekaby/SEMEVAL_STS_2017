@@ -1,0 +1,10 @@
+root	ROOT	Remove
+dobj	Remove	feathers
+punct	feathers	,
+conj	feathers	pits
+punct	feathers	,
+conj	feathers	shells
+punct	feathers	,
+conj	feathers	skin
+punct	feathers	,
+appos	feathers	husks

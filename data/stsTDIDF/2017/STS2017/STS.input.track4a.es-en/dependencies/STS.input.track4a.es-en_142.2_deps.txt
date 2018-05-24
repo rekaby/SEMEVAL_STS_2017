@@ -1,0 +1,7 @@
+nummod	women	Two
+root	ROOT	women
+acl	women	sitting
+case	room	in
+det	room	a
+nmod:in	sitting	room
+punct	women	.

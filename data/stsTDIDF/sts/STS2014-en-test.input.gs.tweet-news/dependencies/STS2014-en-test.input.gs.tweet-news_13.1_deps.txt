@@ -1,0 +1,10 @@
+mark	Bounces	As
+nsubj	Bounces	#California
+root	ROOT	Bounces
+advmod	Bounces	Back
+punct	Calls	,
+compound	Calls	Governor
+dobj	Bounces	Calls
+case	Goals	For
+compound	Goals	Lofty
+nmod:for	Calls	Goals

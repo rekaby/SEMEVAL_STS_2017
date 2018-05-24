@@ -1,0 +1,11 @@
+root	ROOT	cover
+advmod	cover	completely
+punct	cover	;
+conj	cover	form
+det	cover	a
+dobj	form	cover
+advmod	form	over
+punct	cover	;
+conj	cover	expand
+compound:prt	expand	over
+punct	cover	.

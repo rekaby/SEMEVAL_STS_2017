@@ -1,0 +1,17 @@
+ccomp	reply	sent
+iobj	sent	him
+det	text	a
+dobj	sent	text
+acl	text	asking
+dobj	asking	him
+mark	let	to
+xcomp	asking	let
+nsubj	know	me
+ccomp	let	know
+nsubj	ok	he
+cop	ok	was
+ccomp	know	ok
+punct	reply	,
+neg	reply	no
+root	ROOT	reply
+punct	reply	.

@@ -1,0 +1,6 @@
+nummod	guys	Four
+root	ROOT	guys
+case	boat	on
+det	boat	a
+nmod:on	guys	boat
+advmod	guys	together

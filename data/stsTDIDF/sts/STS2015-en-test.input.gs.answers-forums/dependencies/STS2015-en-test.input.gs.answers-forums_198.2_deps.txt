@@ -1,0 +1,16 @@
+nsubj	started	I
+root	ROOT	started
+mark	dig	to
+xcomp	started	dig
+case	this	into
+nmod:into	dig	this
+mark	caught	because
+nsubj	caught	you
+advcl	started	caught
+nmod:poss	curiosity	my
+nsubj	itch	curiosity
+ccomp	caught	itch
+case	question	with
+det	question	the
+nmod:with	itch	question
+punct	started	...

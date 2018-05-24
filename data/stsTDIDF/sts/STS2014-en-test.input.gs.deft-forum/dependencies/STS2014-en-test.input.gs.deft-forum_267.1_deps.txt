@@ -1,0 +1,13 @@
+mark	read	So
+nsubj	read	I
+advmod	read	actually
+root	ROOT	read
+det	OP	the
+dobj	read	OP
+cc	read	and
+conj:and	read	guess
+dobj	found	what
+nsubj	found	I
+ccomp	guess	found
+compound:prt	found	out
+punct	read	.

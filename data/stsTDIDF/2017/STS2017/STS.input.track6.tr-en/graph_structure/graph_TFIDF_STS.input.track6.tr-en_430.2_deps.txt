@@ -1,0 +1,7 @@
+building	beside	case
+building	blue	amod
+walking	dogs	dobj
+walking	building	nmod:beside
+dogs	their	nmod:poss
+walking	women	nsubj
+walking	are	aux

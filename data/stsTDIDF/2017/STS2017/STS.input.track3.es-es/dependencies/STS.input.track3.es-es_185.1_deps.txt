@@ -1,0 +1,6 @@
+det	man	The
+nsubj	wears	man
+root	ROOT	wears
+det	suit	a
+amod	suit	green
+dobj	wears	suit

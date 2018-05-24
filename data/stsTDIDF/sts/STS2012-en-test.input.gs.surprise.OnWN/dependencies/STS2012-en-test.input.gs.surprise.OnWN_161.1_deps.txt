@@ -1,0 +1,7 @@
+det	protuberance	a
+amod	protuberance	physical
+root	ROOT	protuberance
+punct	protuberance	,
+amod	protuberance	large
+cc	large	or
+conj:or	large	small

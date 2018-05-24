@@ -1,0 +1,8 @@
+nummod	trains	Two
+amod	trains	green
+cc	green	and
+conj:and	green	white
+root	ROOT	trains
+case	tracks	on
+nmod:on	trains	tracks
+punct	trains	.

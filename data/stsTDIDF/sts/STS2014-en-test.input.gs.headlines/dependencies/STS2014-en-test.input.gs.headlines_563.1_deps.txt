@@ -1,0 +1,7 @@
+amod	fighting	Dozens
+amod	Dozens	dead
+case	Republic	in
+amod	Republic	Central
+amod	Republic	African
+nmod:in	dead	Republic
+root	ROOT	fighting

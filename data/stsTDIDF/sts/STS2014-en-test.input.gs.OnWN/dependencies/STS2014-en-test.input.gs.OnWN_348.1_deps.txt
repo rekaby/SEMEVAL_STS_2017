@@ -1,0 +1,7 @@
+root	ROOT	give
+det	appearance	a
+amod	appearance	neat
+dobj	give	appearance
+nmod	give	to
+punct	give	,
+conj	give	neaten

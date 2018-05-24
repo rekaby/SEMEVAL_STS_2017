@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	projecting	of
+acl	act	projecting
+compound:prt	projecting	out
+case	something	from
+nmod:from	projecting	something
+punct	act	.

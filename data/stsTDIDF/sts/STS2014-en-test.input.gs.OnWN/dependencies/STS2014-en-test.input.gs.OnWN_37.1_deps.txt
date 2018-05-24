@@ -1,0 +1,7 @@
+root	ROOT	make
+advmod	common	more
+dobj	make	common
+punct	common	,
+conj:or	common	uniform
+cc	common	or
+conj:or	common	general

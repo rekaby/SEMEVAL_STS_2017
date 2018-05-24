@@ -1,0 +1,15 @@
+case	law	By
+compound	law	state
+nmod:by	information	law
+punct	information	,
+nummod	calls	911
+nsubj	information	calls
+cop	information	are
+neg	information	not
+amod	information	public
+root	ROOT	information
+cc	information	and
+auxpass	released	were
+neg	released	not
+conj:and	information	released
+punct	information	.

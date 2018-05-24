@@ -1,0 +1,14 @@
+det	dog	A
+amod	dog	white
+nsubj	carrying	dog
+case	beach	on
+det	beach	a
+nmod:on	dog	beach
+aux	carrying	is
+root	ROOT	carrying
+det	stick	a
+dobj	carrying	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	carrying	mouth
+punct	carrying	.

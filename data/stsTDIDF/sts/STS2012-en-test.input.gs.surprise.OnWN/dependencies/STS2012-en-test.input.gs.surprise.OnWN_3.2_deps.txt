@@ -1,0 +1,14 @@
+root	ROOT	soften
+cc	soften	or
+conj:or	soften	disintegrate
+case	action	by
+mwe	by	means
+mwe	by	of
+compound	action	chemical
+nmod:by_means_of	soften	action
+punct	action	,
+conj:or	action	heat
+punct	action	,
+cc	action	or
+conj:or	action	moisture
+punct	soften	.

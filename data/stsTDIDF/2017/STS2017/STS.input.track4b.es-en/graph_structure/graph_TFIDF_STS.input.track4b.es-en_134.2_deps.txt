@@ -1,0 +1,7 @@
+Oslo	from	case
+town	'm	cop
+hours	Oslo	nmod:from
+town	hours	appos
+town	Fagernes	nmod:of
+Fagernes	of	case
+town	I	nsubj

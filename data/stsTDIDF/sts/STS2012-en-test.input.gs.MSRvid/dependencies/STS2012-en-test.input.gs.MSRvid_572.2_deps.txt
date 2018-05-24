@@ -1,0 +1,10 @@
+det	cat	A
+nsubj	licking	cat
+aux	licking	is
+root	ROOT	licking
+case	saucer	from
+det	saucer	a
+nmod:from	licking	saucer
+case	milk	of
+nmod:of	saucer	milk
+punct	licking	.

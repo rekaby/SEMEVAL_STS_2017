@@ -1,0 +1,7 @@
+nsubj	come	situate
+punct	situate	,
+appos	situate	position
+punct	situate	,
+root	ROOT	come
+mark	rest	to
+xcomp	come	rest

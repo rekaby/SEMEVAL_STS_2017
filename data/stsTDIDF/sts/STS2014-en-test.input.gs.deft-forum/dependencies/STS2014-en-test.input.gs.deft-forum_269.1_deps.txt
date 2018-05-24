@@ -1,0 +1,7 @@
+nsubj	threat	Democracy
+cop	threat	is
+det	threat	a
+root	ROOT	threat
+case	liberty	to
+nmod:to	threat	liberty
+punct	threat	.

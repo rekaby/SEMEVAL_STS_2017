@@ -1,0 +1,11 @@
+hat	his	nmod:poss
+feels	man	nsubj
+get	idea	dobj
+stop	how	advmod
+idea	stop	acl
+feels	get	ccomp
+stop	above	nmod:from
+idea	better	amod
+stop	of	mark
+stop	hat	nsubj
+stop	will	aux

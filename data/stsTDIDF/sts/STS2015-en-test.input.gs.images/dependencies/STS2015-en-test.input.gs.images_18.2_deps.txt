@@ -1,0 +1,9 @@
+det	man	The
+amod	man	crouching
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+det	camera	a
+amod	camera	large
+dobj	holding	camera
+punct	holding	.

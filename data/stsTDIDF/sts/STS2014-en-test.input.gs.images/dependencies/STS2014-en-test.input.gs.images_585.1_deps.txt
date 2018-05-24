@@ -1,0 +1,12 @@
+det	cat	A
+nsubj	sleeping	cat
+root	ROOT	sleeping
+case	coach	on
+det	coach	the
+nmod:on	sleeping	coach
+case	pillow	with
+det	pillow	a
+nmod:with	sleeping	pillow
+case	it	behind
+nmod:behind	pillow	it
+punct	sleeping	.

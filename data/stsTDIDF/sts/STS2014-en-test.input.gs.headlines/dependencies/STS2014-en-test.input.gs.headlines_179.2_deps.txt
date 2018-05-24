@@ -1,0 +1,8 @@
+compound	building	Philadelphia
+nsubj	collapses	building
+root	ROOT	collapses
+punct	collapses	;
+parataxis	collapses	reports
+case	people	of
+nmod:of	reports	people
+acl	reports	trapped

@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	smoking	woman
+case	bag	with
+det	bag	a
+amod	bag	black
+nmod:with	woman	bag
+aux	smoking	is
+root	ROOT	smoking
+det	cigarette	a
+dobj	smoking	cigarette

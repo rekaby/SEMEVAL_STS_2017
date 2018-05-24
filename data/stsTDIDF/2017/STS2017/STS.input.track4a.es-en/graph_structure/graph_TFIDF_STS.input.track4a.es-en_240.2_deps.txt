@@ -1,0 +1,6 @@
+taking	break	dobj
+taking	person	nsubj
+taking	picture	nmod:in
+picture	in	case
+game	from	case
+break	game	nmod:from

@@ -1,0 +1,8 @@
+det	group	The
+amod	group	whole
+nsubj	dancing	group
+aux	dancing	is
+root	ROOT	dancing
+case	bar	in
+det	bar	a
+nmod:in	dancing	bar

@@ -1,0 +1,16 @@
+nsubj	try	i
+aux	try	do
+neg	try	n't
+advmod	try	ever
+root	ROOT	try
+mark	pass	to
+xcomp	try	pass
+dobj	pass	anything
+advmod	pass	off
+mark	other	as
+cop	other	being
+advcl	pass	other
+mark	is	than
+nsubj	is	it
+advcl	other	is
+punct	try	.

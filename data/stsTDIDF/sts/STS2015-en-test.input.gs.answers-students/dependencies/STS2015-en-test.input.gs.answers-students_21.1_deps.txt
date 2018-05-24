@@ -1,0 +1,7 @@
+nsubj	cuts	It
+root	ROOT	cuts
+det	current	the
+dobj	cuts	current
+case	battery	from
+det	battery	the
+nmod:from	current	battery

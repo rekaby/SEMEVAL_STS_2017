@@ -1,0 +1,14 @@
+det	woman	A
+nsubj	sits	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	woman	shirt
+cc	shirt	and
+compound	shorts	tan
+conj:and	shirt	shorts
+root	ROOT	sits
+case	table	at
+det	table	a
+nmod:at	sits	table
+punct	sits	.

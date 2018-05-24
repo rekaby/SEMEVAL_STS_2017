@@ -1,0 +1,5 @@
+root	ROOT	damage
+det	reputation	the
+dobj	damage	reputation
+acl	reputation	of
+punct	damage	.

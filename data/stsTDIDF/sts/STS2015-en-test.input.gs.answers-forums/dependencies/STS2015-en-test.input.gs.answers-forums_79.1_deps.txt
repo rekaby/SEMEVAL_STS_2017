@@ -1,0 +1,13 @@
+det	room	The
+nsubjpass	referred	room
+acl	room	used
+case	defecation	for
+nmod:for	used	defecation
+auxpass	referred	is
+advmod	always	almost
+advmod	referred	always
+root	ROOT	referred
+case	euphemism	to
+case	euphemism	by
+nmod:agent	referred	euphemism
+punct	referred	.

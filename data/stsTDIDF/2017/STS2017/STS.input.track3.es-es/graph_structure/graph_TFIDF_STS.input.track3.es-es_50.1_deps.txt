@@ -1,0 +1,7 @@
+driving	car	dobj
+car	small	amod
+driving	is	aux
+driving	child	nsubj
+car	race	compound
+ROOT	driving	root
+driving	.	punct

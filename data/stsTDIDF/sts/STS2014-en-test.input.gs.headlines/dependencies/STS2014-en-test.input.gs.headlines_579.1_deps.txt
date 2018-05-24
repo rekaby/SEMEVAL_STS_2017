@@ -1,0 +1,10 @@
+nsubj	kill	Bombs
+root	ROOT	kill
+nummod	people	two
+nsubj	Marathon	people
+punct	people	,
+compound	dozens	wound
+appos	people	dozens
+case	Boston	at
+nmod:at	dozens	Boston
+xcomp	kill	Marathon

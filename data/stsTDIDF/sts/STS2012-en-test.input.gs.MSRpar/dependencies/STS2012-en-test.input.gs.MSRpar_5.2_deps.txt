@@ -1,0 +1,14 @@
+case	York	In
+compound	York	New
+nmod:in	percent	York
+punct	percent	,
+compound	shares	Vivendi
+nsubj	percent	shares
+cop	percent	were
+nummod	percent	1.4
+root	ROOT	percent
+advmod	percent	down
+case	$	at
+nmod:at	down	$
+nummod	$	18.29
+punct	percent	.

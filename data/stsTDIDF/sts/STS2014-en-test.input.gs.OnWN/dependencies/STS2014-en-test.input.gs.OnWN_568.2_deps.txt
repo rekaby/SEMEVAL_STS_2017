@@ -1,0 +1,16 @@
+root	ROOT	provoke
+dobj	provoke	someone
+mark	do	to
+xcomp	provoke	do
+dobj	do	something
+mark	promises	through
+punct	false	-LRB-
+advmod	false	often
+dep	promises	false
+cc	false	or
+conj:or	false	exaggerated
+punct	false	-RRB-
+advcl	do	promises
+cc	promises	or
+conj:or	promises	persuasion
+punct	provoke	.

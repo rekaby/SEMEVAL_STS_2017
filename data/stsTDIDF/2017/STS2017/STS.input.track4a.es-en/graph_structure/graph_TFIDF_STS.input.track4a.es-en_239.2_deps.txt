@@ -1,0 +1,5 @@
+reading	man	nsubj
+couch	the	det
+book	couch	nmod:on
+reading	book	dobj
+reading	is	aux

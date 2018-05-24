@@ -1,0 +1,14 @@
+ROOT	Sergeant	root
+formation	room	nmod:inside
+Sergeant	leading	acl
+leading	troops	dobj
+troops	his	nmod:poss
+room	lot	nmod:with
+lot	flags	nmod:of
+room	large	amod
+flags	background	nmod:in
+formation	in	case
+room	inside	case
+Sergeant	.	punct
+leading	formation	nmod:in
+flags	of	case

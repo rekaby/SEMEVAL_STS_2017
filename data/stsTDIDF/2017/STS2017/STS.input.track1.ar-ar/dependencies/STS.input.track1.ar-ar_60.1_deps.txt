@@ -1,0 +1,5 @@
+root	ROOT	Biker
+case	race	after
+det	race	the
+nmod:after	Biker	race
+punct	Biker	.

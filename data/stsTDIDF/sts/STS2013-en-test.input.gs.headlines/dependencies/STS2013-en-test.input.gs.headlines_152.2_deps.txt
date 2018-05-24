@@ -1,0 +1,8 @@
+compound	Murdoch	Rupert
+nsubj	set	Murdoch
+root	ROOT	set
+case	day	for
+amod	day	second
+nmod:for	set	day
+case	grilling	of
+nmod:of	day	grilling

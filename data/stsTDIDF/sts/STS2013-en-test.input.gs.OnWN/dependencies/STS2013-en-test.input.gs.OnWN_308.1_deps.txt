@@ -1,0 +1,12 @@
+det	lever	a
+root	ROOT	lever
+nsubj	activates	that
+acl:relcl	lever	activates
+det	mechanism	a
+compound	mechanism	firing
+dobj	activates	mechanism
+punct	lever	,
+advmod	firearm	especially
+case	firearm	with
+det	firearm	a
+nmod:with	lever	firearm

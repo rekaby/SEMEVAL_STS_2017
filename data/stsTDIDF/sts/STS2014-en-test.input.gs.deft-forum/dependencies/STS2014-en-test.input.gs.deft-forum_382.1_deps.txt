@@ -1,0 +1,10 @@
+nsubj	seen	I
+aux	seen	have
+root	ROOT	seen
+dobj	seen	UFO
+case	Warsaw	over
+nmod:over	UFO	Warsaw
+case	past	in
+det	past	the
+nmod:in	UFO	past
+punct	seen	.

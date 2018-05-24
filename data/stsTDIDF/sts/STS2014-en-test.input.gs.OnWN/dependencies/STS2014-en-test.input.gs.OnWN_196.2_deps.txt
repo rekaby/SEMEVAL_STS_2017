@@ -1,0 +1,9 @@
+root	ROOT	change
+case	form	from
+nummod	form	one
+nmod:from	change	form
+cc	form	or
+conj:or	form	medium
+case	another	into
+nmod:into	form	another
+punct	change	.

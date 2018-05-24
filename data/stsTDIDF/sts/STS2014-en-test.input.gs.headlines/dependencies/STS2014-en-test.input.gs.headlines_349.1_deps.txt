@@ -1,0 +1,6 @@
+nsubj	take	Students
+root	ROOT	take
+det	ride	a
+dobj	take	ride
+case	airwaves	on
+nmod:on	take	airwaves

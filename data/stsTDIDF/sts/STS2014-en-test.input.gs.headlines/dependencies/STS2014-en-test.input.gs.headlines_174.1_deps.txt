@@ -1,0 +1,11 @@
+compound	Sector	Tech
+nsubj	Heats	Sector
+root	ROOT	Heats
+compound:prt	Heats	Up
+punct	Heats	:
+compound	Earnings	Google
+cc	Google	and
+conj:and	Google	IBM
+compound	Earnings	Post
+amod	Earnings	Strong
+dobj	Heats	Earnings

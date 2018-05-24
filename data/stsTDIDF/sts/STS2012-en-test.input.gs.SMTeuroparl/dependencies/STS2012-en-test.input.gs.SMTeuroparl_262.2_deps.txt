@@ -1,0 +1,16 @@
+nsubj	is	This
+root	ROOT	is
+mark	increase	to
+xcomp	is	increase
+det	power	the
+dobj	increase	power
+case	countries	of
+det	countries	the
+amod	countries	large
+nmod:of	power	countries
+case	expense	at
+det	expense	the
+nmod:at	increase	expense
+case	small	of
+nmod:of	expense	small
+punct	is	.

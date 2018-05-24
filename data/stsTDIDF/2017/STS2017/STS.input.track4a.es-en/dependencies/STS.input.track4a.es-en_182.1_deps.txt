@@ -1,0 +1,12 @@
+det	man	A
+nsubj	comes	man
+root	ROOT	comes
+mark	work	to
+xcomp	comes	work
+case	cables	with
+det	cables	the
+nmod:with	work	cables
+case	desk	above
+det	desk	a
+nmod:above	cables	desk
+punct	comes	.

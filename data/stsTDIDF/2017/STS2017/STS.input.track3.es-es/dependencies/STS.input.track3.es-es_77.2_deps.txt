@@ -1,0 +1,5 @@
+det	man	The
+nsubj	read	man
+root	ROOT	read
+advmod	outside	only
+advmod	read	outside

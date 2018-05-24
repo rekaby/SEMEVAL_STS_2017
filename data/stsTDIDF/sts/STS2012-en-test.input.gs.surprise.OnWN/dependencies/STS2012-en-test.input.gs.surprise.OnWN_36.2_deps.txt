@@ -1,0 +1,7 @@
+root	ROOT	create
+det	image	an
+dobj	create	image
+cc	image	or
+conj:or	image	likeness
+acl	image	of
+punct	create	.

@@ -1,0 +1,5 @@
+det	unit	a
+root	ROOT	unit
+case	pressure	of
+amod	pressure	atmospheric
+nmod:of	unit	pressure

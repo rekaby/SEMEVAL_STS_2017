@@ -1,0 +1,6 @@
+nsubj	claims	Putin
+root	ROOT	claims
+dobj	claims	victory
+case	vote	in
+amod	vote	presidential
+nmod:in	victory	vote

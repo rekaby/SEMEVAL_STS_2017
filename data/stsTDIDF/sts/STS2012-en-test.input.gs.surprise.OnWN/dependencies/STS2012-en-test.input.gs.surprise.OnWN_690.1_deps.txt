@@ -1,0 +1,12 @@
+root	ROOT	Cook
+case	surface	on
+det	surface	a
+amod	surface	hot
+nmod:on	Cook	surface
+acl	surface	using
+dobj	using	fat
+punct	Cook	;
+dep	Cook	cook
+case	oil	in
+nmod:in	cook	oil
+punct	Cook	.

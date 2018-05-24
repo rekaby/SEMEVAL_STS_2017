@@ -1,0 +1,7 @@
+nummod	boys	Two
+nsubj	walking	boys
+root	ROOT	walking
+case	parade	into
+det	parade	the
+nmod:into	walking	parade
+punct	walking	.

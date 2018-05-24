@@ -1,0 +1,7 @@
+det	girl	A
+nsubj	filing	girl
+aux	filing	is
+root	ROOT	filing
+nmod:poss	nails	her
+dobj	filing	nails
+punct	filing	.

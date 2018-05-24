@@ -1,0 +1,6 @@
+amod	man	Scorched
+root	ROOT	man
+case	beach	on
+det	beach	the
+nmod:on	man	beach
+punct	man	.

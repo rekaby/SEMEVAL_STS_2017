@@ -1,0 +1,8 @@
+det	face	the
+root	ROOT	face
+cc	face	or
+conj:or	face	front
+case	building	of
+det	building	a
+nmod:of	face	building
+punct	face	.

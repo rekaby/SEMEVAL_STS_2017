@@ -1,0 +1,12 @@
+nsubjpass	connected	Terminals
+dep	Terminals	1
+cc	1	and
+conj:and	1	4
+auxpass	connected	are
+root	ROOT	connected
+cc	connected	and
+case	state	in
+det	state	the
+amod	state	same
+amod	state	electrical
+nmod:in	connected	state

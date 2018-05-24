@@ -1,0 +1,8 @@
+afraid	not	neg
+afraid	to	mark
+afraid	puppies	nmod:of
+woman	teaching	acl
+puppies	of	case
+teaching	afraid	xcomp
+afraid	be	cop
+teaching	girl	dobj

@@ -1,0 +1,15 @@
+case	case	In
+det	case	a
+nmod:in	developed	case
+case	August	in
+nmod:in	case	August
+punct	developed	,
+det	worker	a
+amod	worker	27-year-old
+compound	worker	laboratory
+nsubj	developed	worker
+case	Singapore	in
+nmod:in	worker	Singapore
+root	ROOT	developed
+dobj	developed	SARS
+punct	developed	.

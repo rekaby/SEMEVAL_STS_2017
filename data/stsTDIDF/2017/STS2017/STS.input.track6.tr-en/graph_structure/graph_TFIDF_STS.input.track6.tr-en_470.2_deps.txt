@@ -1,0 +1,5 @@
+shopping	person	nsubj
+shopping	is	cop
+ROOT	shopping	root
+person	The	det
+shopping	.	punct

@@ -1,0 +1,7 @@
+root	ROOT	support
+det	person	a
+dobj	support	person
+case	position	for
+det	position	a
+nmod:for	support	position
+punct	support	.

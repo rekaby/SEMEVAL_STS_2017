@@ -1,0 +1,16 @@
+nsubj	agree	I
+root	ROOT	agree
+case	Seteropere	with
+nmod:with	agree	Seteropere
+advmod	agree	completely
+punct	agree	,
+punct	agree	``
+compound	Science	Network
+nsubj	subject	Science
+punct	Science	''
+cop	subject	is
+det	subject	a
+advmod	broad	very
+amod	subject	broad
+ccomp	agree	subject
+punct	agree	.

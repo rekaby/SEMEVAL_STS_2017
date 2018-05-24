@@ -1,0 +1,9 @@
+det	group	The
+nsubj	enjoying	group
+case	people	of
+nmod:of	group	people
+aux	enjoying	are
+root	ROOT	enjoying
+det	outdoors	the
+dobj	enjoying	outdoors
+punct	enjoying	.

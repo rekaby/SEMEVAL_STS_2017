@@ -1,0 +1,13 @@
+nsubj	Egypt	Others
+case	status	with
+det:predet	status	such
+det	status	a
+nmod:with	Others	status
+cop	Egypt	are
+root	ROOT	Egypt
+punct	Egypt	,
+conj:and	Egypt	Israel
+punct	Egypt	,
+cc	Egypt	and
+conj:and	Egypt	Australia
+punct	Egypt	.

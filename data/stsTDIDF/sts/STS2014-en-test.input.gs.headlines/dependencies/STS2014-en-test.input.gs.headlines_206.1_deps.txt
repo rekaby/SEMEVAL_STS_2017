@@ -1,0 +1,6 @@
+compound	Korea	North
+nsubj	test-fires	Korea
+advmod	test-fires	reportedly
+root	ROOT	test-fires
+amod	missiles	short-range
+dobj	test-fires	missiles

@@ -1,0 +1,12 @@
+det	discipline	the
+root	ROOT	discipline
+det	records	that
+dep	discipline	records
+cc	records	and
+conj:and	records	interprets
+amod	events	past
+dobj	interprets	events
+acl	events	involving
+amod	beings	human
+dobj	involving	beings
+punct	discipline	.

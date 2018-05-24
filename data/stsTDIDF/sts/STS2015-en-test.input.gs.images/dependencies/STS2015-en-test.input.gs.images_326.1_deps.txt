@@ -1,0 +1,13 @@
+det	dog	A
+amod	dog	black
+cc	black	and
+conj:and	black	brown
+nsubj	walks	dog
+root	ROOT	walks
+case	snow	through
+det	snow	the
+nmod:through	walks	snow
+case	building	near
+det	building	a
+nmod:near	walks	building
+punct	walks	.

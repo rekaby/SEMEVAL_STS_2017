@@ -1,0 +1,11 @@
+det	treaty	the
+compound	treaty	cfe
+nsubj	arms	treaty
+cop	arms	is
+det	arms	a
+amod	arms	key
+compound	arms	european
+root	ROOT	arms
+compound	treaty	control
+dobj	arms	treaty
+punct	arms	.

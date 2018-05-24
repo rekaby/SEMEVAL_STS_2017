@@ -1,0 +1,9 @@
+nummod	men	Two
+nsubj	using	men
+aux	using	are
+root	ROOT	using
+compound	shovels	hand
+dobj	using	shovels
+mark	dig	to
+advcl	using	dig
+punct	using	.

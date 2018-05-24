@@ -1,0 +1,9 @@
+det	man	A
+nsubj	shoots	man
+case	pistol	with
+det	pistol	a
+nmod:with	man	pistol
+root	ROOT	shoots
+det	man	another
+dobj	shoots	man
+punct	shoots	.

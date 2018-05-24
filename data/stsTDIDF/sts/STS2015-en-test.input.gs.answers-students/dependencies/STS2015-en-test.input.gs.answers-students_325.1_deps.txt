@@ -1,0 +1,14 @@
+nsubjpass	connected	bulbs
+dep	bulbs	A
+cc	A	and
+conj:and	A	B
+auxpass	connected	are
+advmod	connected	still
+root	ROOT	connected
+case	path	to
+det	path	the
+amod	path	closed
+nmod:to	connected	path
+acl	path	containing
+det	battery	the
+dobj	containing	battery

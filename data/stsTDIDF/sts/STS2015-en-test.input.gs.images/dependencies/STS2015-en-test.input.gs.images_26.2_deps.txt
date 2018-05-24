@@ -1,0 +1,10 @@
+det	people	The
+nummod	people	two
+nsubj	have	people
+root	ROOT	have
+nmod:poss	heads	their
+dobj	have	heads
+acl	heads	covered
+case	scarves	with
+nmod:with	covered	scarves
+punct	have	.

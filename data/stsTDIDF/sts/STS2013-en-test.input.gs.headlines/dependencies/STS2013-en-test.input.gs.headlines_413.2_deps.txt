@@ -1,0 +1,6 @@
+compound	agents	Obama
+compound	agents	Secret
+compound	agents	Service
+nsubj	sent	agents
+root	ROOT	sent
+dobj	sent	home

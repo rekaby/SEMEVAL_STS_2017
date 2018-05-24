@@ -1,0 +1,11 @@
+det	man	A
+root	ROOT	man
+acl	man	dressed
+case	scarf	in
+det	scarf	a
+amod	scarf	pale
+nmod:in	dressed	scarf
+case	stick	with
+det	stick	a
+nmod:with	scarf	stick
+punct	man	.

@@ -1,0 +1,10 @@
+det	man	A
+nsubj	cutting	man
+aux	cutting	is
+root	ROOT	cutting
+det	boot	a
+dobj	cutting	boot
+case	sword	with
+det	sword	a
+nmod:with	cutting	sword
+punct	cutting	.

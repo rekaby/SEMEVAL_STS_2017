@@ -1,0 +1,15 @@
+compound	traffickers	drug
+nsubj	constitute	traffickers
+case	countries	from
+amod	countries	foreign
+nmod:from	traffickers	countries
+root	ROOT	constitute
+det	percentage	the
+amod	percentage	largest
+dobj	constitute	percentage
+case	inmates	of
+amod	inmates	foreign
+nmod:of	percentage	inmates
+case	nepal	in
+nmod:in	percentage	nepal
+punct	constitute	.

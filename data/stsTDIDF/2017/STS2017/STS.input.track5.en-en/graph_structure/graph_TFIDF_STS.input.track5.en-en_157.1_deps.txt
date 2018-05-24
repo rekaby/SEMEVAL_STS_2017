@@ -1,0 +1,9 @@
+throwing	is	aux
+penny	a	det
+throwing	penny	dobj
+fountain	a	det
+throwing	man	nsubj
+throwing	fountain	nmod:into
+fountain	into	case
+ROOT	throwing	root
+throwing	.	punct

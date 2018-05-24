@@ -1,0 +1,16 @@
+case	creation	Since
+nmod:poss	creation	its
+nmod:since	applied	creation
+punct	applied	,
+case	September	on
+nummod	September	28
+nmod:on	applied	September
+nummod	September	1998
+punct	applied	,
+nsubj	applied	Héma-Quebec
+aux	applied	has
+root	ROOT	applied
+det	principle	the
+amod	principle	precautionary
+dobj	applied	principle
+punct	applied	.

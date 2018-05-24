@@ -1,0 +1,9 @@
+det	man	A
+nsubj	surfing	man
+cop	surfing	is
+compound	surfing	sky
+root	ROOT	surfing
+case	water	on
+det	water	the
+nmod:on	surfing	water
+punct	surfing	.

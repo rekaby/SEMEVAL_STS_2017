@@ -1,0 +1,6 @@
+det	committee	a
+root	ROOT	committee
+acl	committee	having
+amod	powers	supervisory
+dobj	having	powers
+punct	committee	;

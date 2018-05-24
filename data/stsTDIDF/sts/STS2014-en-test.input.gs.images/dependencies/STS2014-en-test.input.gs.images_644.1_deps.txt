@@ -1,0 +1,10 @@
+det	train	A
+compound	train	passenger
+root	ROOT	train
+acl	train	waiting
+case	station	at
+det	station	the
+compound	station	city
+compound	station	train
+nmod:at	waiting	station
+punct	train	.

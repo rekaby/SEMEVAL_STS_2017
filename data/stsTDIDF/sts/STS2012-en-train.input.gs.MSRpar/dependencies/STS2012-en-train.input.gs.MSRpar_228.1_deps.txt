@@ -1,0 +1,13 @@
+compound	officials	School
+nsubj	said	officials
+root	ROOT	said
+nsubj	reported	Van-Vliet
+ccomp	said	reported
+det	accident	the
+dobj	reported	accident
+acl	accident	using
+det	bus	the
+nmod:poss	radio	bus
+punct	bus	'
+dobj	using	radio
+punct	said	.

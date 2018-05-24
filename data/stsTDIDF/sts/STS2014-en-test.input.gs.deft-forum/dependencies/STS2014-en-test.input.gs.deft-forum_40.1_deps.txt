@@ -1,0 +1,16 @@
+nmod:poss	Rose	Ramblin
+case	Ramblin	'
+root	ROOT	Rose
+case	Cole	by
+compound	Cole	Nat
+compound	Cole	King
+nmod:by	Rose	Cole
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+acl:relcl	Rose	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Rose	.

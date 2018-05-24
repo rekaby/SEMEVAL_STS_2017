@@ -1,0 +1,12 @@
+punct Narita ,	15.060439779775294
+appos Narita Japan	15.060439779775294
+punct Layover .-6) aux(need-3, Do	15.060439779775294
+root ROOT Layover	14.367292599215348
+case Narita at	14.367292599215348
+nmod:at Layover Narita	14.367292599215348
+compound visa transit	12.863215202439074
+dobj need visa	12.575533129987294
+det visa a	10.560630109445029
+punct need ?	10.341940908480199
+nsubj need I	8.962365497609053
+root ROOT need	7.350682915321129

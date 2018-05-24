@@ -1,0 +1,12 @@
+resting	wipeout	nmod:from
+resting	is	aux
+wipeout	from	case
+due	to	mwe
+wipeout	had	acl:relcl
+trick	hard	amod
+trick	due	case
+wipeout	a	det
+had	trick	nmod:due_to
+resting	man	nsubj
+ROOT	resting	root
+trick	a	det

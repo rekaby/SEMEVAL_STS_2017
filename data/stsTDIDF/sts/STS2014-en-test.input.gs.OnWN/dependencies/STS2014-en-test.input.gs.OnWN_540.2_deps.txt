@@ -1,0 +1,8 @@
+det	supply	a
+amod	supply	large
+cc	large	or
+conj:or	large	extra
+root	ROOT	supply
+case	something	of
+nmod:of	supply	something
+punct	supply	.

@@ -1,0 +1,5 @@
+nsubjpass	balanced	All
+aux	balanced	must
+auxpass	balanced	be
+root	ROOT	balanced
+punct	balanced	.

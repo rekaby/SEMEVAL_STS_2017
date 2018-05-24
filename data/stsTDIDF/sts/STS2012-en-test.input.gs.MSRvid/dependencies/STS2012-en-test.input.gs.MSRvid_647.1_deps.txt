@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	ground	on
+det	ground	the
+nmod:on	running	ground
+punct	running	.

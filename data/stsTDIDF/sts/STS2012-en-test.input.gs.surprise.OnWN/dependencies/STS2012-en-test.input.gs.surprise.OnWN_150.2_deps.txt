@@ -1,0 +1,12 @@
+root	ROOT	someone
+nsubj	finds	who
+advmod	finds	frequently
+acl:relcl	someone	finds
+dobj	finds	fault
+cc	finds	or
+conj:or	finds	makes
+amod	judgments	harsh
+cc	harsh	and
+conj:and	harsh	unfair
+dobj	makes	judgments
+punct	someone	.

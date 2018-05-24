@@ -1,0 +1,16 @@
+det	time	What
+dep	is	time
+root	ROOT	is
+det	Ceremony	the
+compound	Ceremony	Paralympic
+compound	Ceremony	Opening
+nsubj	is	Ceremony
+punct	is	?-8) root(ROOT-0, Everything
+nsubj	need	you
+acl:relcl	Everything	need
+mark	know	to
+xcomp	need	know
+case	curtain-raiser	about
+det	curtain-raiser	the
+amod	curtain-raiser	big
+nmod:about	know	curtain-raiser

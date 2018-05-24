@@ -1,0 +1,12 @@
+case	States	In
+det	States	the
+compound	States	United
+nmod:in	smoke	States
+punct	smoke	,
+nummod	percent	20.7
+nsubj	smoke	percent
+case	women	of
+det	women	all
+nmod:of	percent	women
+root	ROOT	smoke
+punct	smoke	.

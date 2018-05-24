@@ -1,0 +1,5 @@
+det	person	a
+root	ROOT	person
+nsubj	cleans	who
+acl:relcl	person	cleans
+dobj	cleans	chimneys

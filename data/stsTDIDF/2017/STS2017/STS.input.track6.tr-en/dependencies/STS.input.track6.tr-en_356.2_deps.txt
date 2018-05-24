@@ -1,0 +1,16 @@
+det	dog	The
+amod	dog	little
+amod	dog	brown
+cc	brown	and
+conj:and	brown	white
+nsubj	lies	dog
+root	ROOT	lies
+case	rug	in
+det	rug	a
+amod	rug	red
+nmod:in	lies	rug
+acl	rug	shot
+case	sunlight	by
+det	sunlight	the
+nmod:by	shot	sunlight
+punct	lies	.

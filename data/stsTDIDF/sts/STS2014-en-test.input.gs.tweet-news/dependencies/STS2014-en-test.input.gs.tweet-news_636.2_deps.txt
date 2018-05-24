@@ -1,0 +1,5 @@
+compound	Anthony	Casey
+nsubj	files	Anthony
+root	ROOT	files
+case	bankruptcy	for
+nmod:for	files	bankruptcy

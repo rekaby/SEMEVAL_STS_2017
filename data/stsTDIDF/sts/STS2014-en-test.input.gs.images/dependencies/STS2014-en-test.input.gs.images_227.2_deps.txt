@@ -1,0 +1,14 @@
+det	hold	A
+amod	hold	yellow
+cc	yellow	and
+conj:and	yellow	orange
+compound	hold	bird
+root	ROOT	hold
+case	side	on
+case	side	to
+det	side	the
+nmod:to	hold	side
+case	cage	of
+det	cage	a
+nmod:of	side	cage
+punct	hold	.

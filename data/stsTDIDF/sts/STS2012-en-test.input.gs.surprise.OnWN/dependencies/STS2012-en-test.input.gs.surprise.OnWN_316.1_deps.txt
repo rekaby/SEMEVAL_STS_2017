@@ -1,0 +1,5 @@
+root	ROOT	Look
+advmod	Look	furtively
+case	something	at
+nmod:at	Look	something
+punct	Look	.

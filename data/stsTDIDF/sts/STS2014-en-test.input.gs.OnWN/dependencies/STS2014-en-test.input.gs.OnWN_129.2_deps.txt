@@ -1,0 +1,8 @@
+det	race	an
+compound	race	automobile
+nsubj	run	race
+root	ROOT	run
+case	roads	over
+amod	roads	public
+nmod:over	run	roads
+punct	run	.

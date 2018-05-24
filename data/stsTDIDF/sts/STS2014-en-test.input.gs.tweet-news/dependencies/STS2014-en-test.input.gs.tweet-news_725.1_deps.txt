@@ -1,0 +1,14 @@
+nsubj	interesting	This
+cop	interesting	is
+root	ROOT	interesting
+punct	interesting	-
+dep	interesting	NYTimes
+punct	NYTimes	:
+dep	NYTimes	Parents
+punct	interesting	?-8) compound(Support-2, Financial
+root	ROOT	Support
+nsubj	Help	May
+neg	Help	Not
+acl:relcl	Support	Help
+compound	Grades	College
+dobj	Help	Grades

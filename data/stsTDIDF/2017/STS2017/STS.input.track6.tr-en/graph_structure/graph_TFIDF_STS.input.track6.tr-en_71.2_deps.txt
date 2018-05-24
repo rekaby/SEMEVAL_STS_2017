@@ -1,0 +1,6 @@
+sits	person	nsubj
+rock	a	det
+person	yellow-eyed	amod
+sits	down	compound:prt
+edge	rock	nmod:of
+sits	edge	nmod:on

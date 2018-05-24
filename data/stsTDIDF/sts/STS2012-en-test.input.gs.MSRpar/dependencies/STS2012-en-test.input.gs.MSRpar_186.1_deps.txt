@@ -1,0 +1,17 @@
+nsubj	claims	He
+root	ROOT	claims
+nsubj	seem	it
+aux	seem	may
+ccomp	claims	seem
+xcomp	seem	unrealistic
+advmod	devoted	only
+advmod	devoted	because
+amod	effort	little
+nsubjpass	devoted	effort
+aux	devoted	has
+auxpass	devoted	been
+advcl	seem	devoted
+case	concept	to
+det	concept	the
+nmod:to	devoted	concept
+punct	claims	.

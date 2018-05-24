@@ -1,0 +1,8 @@
+amod	drone	Suspected
+compound	drone	US
+nsubj	targets	drone
+root	ROOT	targets
+amod	seminary	Islamic
+dobj	targets	seminary
+case	Pakistan	in
+nmod:in	targets	Pakistan

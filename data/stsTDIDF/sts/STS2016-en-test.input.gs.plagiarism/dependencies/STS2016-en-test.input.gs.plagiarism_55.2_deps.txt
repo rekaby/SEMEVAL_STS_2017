@@ -1,0 +1,10 @@
+det	method	The
+nsubj	takes	method
+root	ROOT	takes
+advmod	less	much
+amod	time	less
+dobj	takes	time
+case	methods	than
+amod	methods	naive
+nmod:than	time	methods
+punct	takes	.

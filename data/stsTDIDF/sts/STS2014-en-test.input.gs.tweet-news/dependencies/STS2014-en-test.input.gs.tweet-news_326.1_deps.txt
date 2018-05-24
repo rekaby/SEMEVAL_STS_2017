@@ -1,0 +1,9 @@
+case	need	on
+det	need	the
+root	ROOT	need
+case	humanity	for
+nmod:for	need	humanity
+case	learning	in
+amod	learning	online
+nmod:in	need	learning
+punct	need	.

@@ -1,0 +1,4 @@
+women	man	conj:and
+women	four	nummod
+are	women	nsubj
+are	kitchen	nmod:in

@@ -1,0 +1,8 @@
+det	dog	A
+nsubj	speaking	dog
+aux	speaking	is
+root	ROOT	speaking
+case	camera	to
+det	camera	the
+nmod:to	speaking	camera
+punct	speaking	.

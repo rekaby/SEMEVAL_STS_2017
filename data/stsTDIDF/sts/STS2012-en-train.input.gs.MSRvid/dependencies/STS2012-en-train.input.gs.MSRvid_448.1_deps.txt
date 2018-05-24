@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	braiding	woman
+aux	braiding	is
+root	ROOT	braiding
+nmod:poss	hair	her
+dobj	braiding	hair
+punct	braiding	.

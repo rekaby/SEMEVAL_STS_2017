@@ -1,0 +1,11 @@
+root	ROOT	reduce
+punct	petroleum	-LRB-
+dep	reduce	petroleum
+punct	petroleum	-RRB-
+case	compound	to
+det	compound	a
+amod	compound	simpler
+nmod:to	reduce	compound
+mark	cracking	by
+advcl	reduce	cracking
+punct	reduce	.

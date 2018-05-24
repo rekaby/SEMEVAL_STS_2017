@@ -1,0 +1,5 @@
+people	Young	amod
+taking	air	nmod:from
+taking	photos	dobj
+taking	people	nsubj
+air	from	case

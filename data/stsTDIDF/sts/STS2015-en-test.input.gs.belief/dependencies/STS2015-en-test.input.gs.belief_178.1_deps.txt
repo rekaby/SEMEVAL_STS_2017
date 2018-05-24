@@ -1,0 +1,16 @@
+cc	insisted	and
+nsubj	insisted	they
+root	ROOT	insisted
+case	right	on
+punct	right	``
+advcl:on	insisted	right
+mark	work	to
+xcomp	right	work
+punct	laws	''
+dobj	work	laws
+nsubj	busted	that
+acl:relcl	laws	busted
+compound:prt	busted	up
+det	unions	the
+dobj	busted	unions
+punct	insisted	.

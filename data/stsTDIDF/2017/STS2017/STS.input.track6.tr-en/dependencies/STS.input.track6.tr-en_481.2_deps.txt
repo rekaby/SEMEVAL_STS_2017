@@ -1,0 +1,11 @@
+nsubj	enjoying	Mother
+cc	Mother	and
+conj:and	Mother	daughter
+aux	enjoying	are
+root	ROOT	enjoying
+det	day	a
+dobj	enjoying	day
+case	beach	at
+det	beach	the
+nmod:at	enjoying	beach
+punct	enjoying	.

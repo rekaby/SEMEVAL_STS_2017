@@ -1,0 +1,10 @@
+det	cat	The
+nsubj	teased	cat
+root	ROOT	teased
+det	dog	the
+dobj	teased	dog
+mark	touching	by
+advcl	teased	touching
+nmod:poss	head	his
+dobj	touching	head
+punct	teased	.

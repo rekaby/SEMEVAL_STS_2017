@@ -1,0 +1,11 @@
+amod	cat	Black
+cc	Black	and
+conj:and	Black	white
+root	ROOT	cat
+acl	cat	sitting
+case	chair	on
+compound	chair	wood
+nmod:on	sitting	chair
+xcomp	sitting	looking
+compound:prt	looking	up
+punct	cat	.

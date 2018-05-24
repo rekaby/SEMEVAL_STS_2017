@@ -1,0 +1,6 @@
+is	person	nsubj
+person	standing	acl
+building	next	case
+wearing	suit	dobj
+building	wearing	acl
+standing	building	nmod:next_to

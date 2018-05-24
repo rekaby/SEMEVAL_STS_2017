@@ -1,0 +1,14 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	move	to
+punct	move	-RRB-
+nmod:to	cause	move
+advmod	move	abruptly
+punct	cause	,
+advmod	making	often
+dep	cause	making
+det	sound	a
+amod	sound	short
+punct	sound	,
+amod	sound	sharp
+dobj	making	sound

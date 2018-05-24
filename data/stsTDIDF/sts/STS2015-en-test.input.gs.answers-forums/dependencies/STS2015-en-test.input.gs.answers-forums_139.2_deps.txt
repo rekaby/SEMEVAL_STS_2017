@@ -1,0 +1,15 @@
+case	grammar	In
+amod	grammar	traditional
+nmod:in	doing	grammar
+punct	doing	,
+det	word	the
+nsubj	doing	word
+csubj	participle	doing
+cop	participle	is
+det	participle	a
+root	ROOT	participle
+case	examples	in
+det:predet	examples	all
+nmod:poss	examples	your
+nmod:in	participle	examples
+punct	participle	.

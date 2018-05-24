@@ -1,0 +1,6 @@
+nummod	crash	Five
+amod	crash	dead
+case	train	in
+compound	train	Canada
+nmod:in	dead	train
+root	ROOT	crash

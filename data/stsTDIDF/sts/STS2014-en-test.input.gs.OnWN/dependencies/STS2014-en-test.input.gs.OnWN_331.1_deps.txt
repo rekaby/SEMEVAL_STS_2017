@@ -1,0 +1,11 @@
+root	ROOT	cause
+mark	match	to
+xcomp	cause	match
+punct	ideas	-LRB-
+dep	match	ideas
+cc	ideas	or
+conj:or	ideas	acts
+punct	ideas	-RRB-
+punct	cause	;
+cop	compatible	be
+parataxis	cause	compatible

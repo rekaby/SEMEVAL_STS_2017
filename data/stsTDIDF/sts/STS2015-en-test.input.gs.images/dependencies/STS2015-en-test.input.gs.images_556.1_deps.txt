@@ -1,0 +1,12 @@
+nummod	battle	Two
+compound	battle	soccer
+compound	battle	players
+root	ROOT	battle
+case	ball	for
+det	ball	the
+nmod:for	battle	ball
+case	match	during
+det	match	an
+amod	match	intense
+nmod:during	battle	match
+punct	battle	.

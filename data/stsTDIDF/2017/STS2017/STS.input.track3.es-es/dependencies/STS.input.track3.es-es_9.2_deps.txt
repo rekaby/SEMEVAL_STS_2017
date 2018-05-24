@@ -1,0 +1,12 @@
+det	woman	A
+nsubj	covering	woman
+case	pink	in
+nmod:in	woman	pink
+aux	covering	is
+root	ROOT	covering
+nmod:poss	face	her
+dobj	covering	face
+case	scarf	with
+det	scarf	a
+nmod:with	covering	scarf
+punct	covering	.

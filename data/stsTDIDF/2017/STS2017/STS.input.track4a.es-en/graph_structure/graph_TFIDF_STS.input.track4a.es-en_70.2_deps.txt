@@ -1,0 +1,16 @@
+Man	loading	advcl
+pack	a	det
+horses	of	case
+pack	onto	case
+chest	a	det
+loading	pack	nmod:onto
+loading	with	mark
+loading	hat	nsubj
+Man	.	punct
+hat	cowboy	compound
+ROOT	Man	root
+pack	wilderness	nmod:in
+loading	chest	dobj
+wilderness	in	case
+pack	horses	nmod:of
+wilderness	the	det

@@ -1,0 +1,7 @@
+det	child	The
+nsubj	sleeping	child
+aux	sleeping	is
+root	ROOT	sleeping
+case	bed	in
+nmod:in	sleeping	bed
+punct	sleeping	.

@@ -1,0 +1,6 @@
+get	wet	xcomp
+wet	rain	nmod:in
+rain	in	case
+think	funny	ccomp
+funny	is	cop
+funny	it	nsubj

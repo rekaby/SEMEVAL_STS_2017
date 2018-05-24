@@ -1,0 +1,6 @@
+nsubj	riding	People
+aux	riding	are
+root	ROOT	riding
+case	skis	on
+nmod:on	riding	skis
+punct	riding	.

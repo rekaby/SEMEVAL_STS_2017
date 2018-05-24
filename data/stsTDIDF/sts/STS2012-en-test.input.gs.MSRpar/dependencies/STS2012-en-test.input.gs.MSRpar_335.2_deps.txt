@@ -1,0 +1,17 @@
+det	quarterlies	The
+nsubj	stay	quarterlies
+advmod	stay	usually
+ccomp	added	stay
+case	stores	in
+nmod:in	stay	stores
+case	weeks	for
+case	weeks	between
+compound	eight	six
+dep	eight	to
+nummod	weeks	eight
+nmod:between	stay	weeks
+punct	added	,
+punct	added	''
+nsubj	added	Carney
+root	ROOT	added
+punct	added	.

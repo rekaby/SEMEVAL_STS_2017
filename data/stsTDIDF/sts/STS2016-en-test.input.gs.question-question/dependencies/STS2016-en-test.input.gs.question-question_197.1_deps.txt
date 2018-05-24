@@ -1,0 +1,10 @@
+advmod	make	How
+mark	make	to
+root	ROOT	make
+amod	coffee	good
+dobj	make	coffee
+case	pot	in
+det	pot	a
+compound	pot	Moka
+nmod:in	make	pot
+punct	make	?

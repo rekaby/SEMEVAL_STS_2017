@@ -1,0 +1,17 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	plenty
+case	ATMs	of
+nmod:of	plenty	ATMs
+cc	ATMs	and
+conj:and	ATMs	Exchanges
+advmod	city	all
+case	city	around
+det	city	the
+nmod:around	plenty	city
+punct	are	,
+advmod	center	especially
+case	center	in
+compound	center	city
+nmod:in	are	center
+punct	are	.

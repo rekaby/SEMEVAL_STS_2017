@@ -1,0 +1,14 @@
+compound	McDonnell	Mr
+nsubj	leading	McDonnell
+aux	leading	is
+root	ROOT	leading
+compound	International	Grant
+compound	International	Thornton
+nmod:poss	inquiry	International
+case	International	's
+dobj	leading	inquiry
+case	business	into
+det	business	the
+amod	business	Italian
+nmod:into	inquiry	business
+punct	leading	.

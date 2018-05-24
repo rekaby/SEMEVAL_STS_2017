@@ -1,0 +1,12 @@
+pole	the	det
+swings	green	amod
+boy	swings	nmod:in
+swings	the	det
+pole	on	case
+pole	silver	compound
+swings	shirt	compound
+swings	arm	nmod:with
+arm	with	case
+swings	in	case
+arm	one	nummod
+arm	pole	nmod:on

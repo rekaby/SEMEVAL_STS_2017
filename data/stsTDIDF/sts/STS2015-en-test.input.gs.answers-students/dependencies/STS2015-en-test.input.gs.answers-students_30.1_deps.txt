@@ -1,0 +1,10 @@
+amod	1	terminal
+nsubjpass	connected	1
+auxpass	connected	is
+root	ROOT	connected
+case	battery	to
+det	battery	the
+nummod	battery	1.5
+compound	battery	volt
+nmod:to	connected	battery
+punct	connected	.

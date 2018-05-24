@@ -1,0 +1,6 @@
+root	ROOT	having
+dobj	having	responsibility
+mark	managing	for
+acl	responsibility	managing
+cc	managing	or
+conj:or	managing	supervising

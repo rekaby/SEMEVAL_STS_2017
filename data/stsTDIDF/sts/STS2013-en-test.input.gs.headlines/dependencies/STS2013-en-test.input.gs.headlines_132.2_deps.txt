@@ -1,0 +1,8 @@
+nsubj	cuts	CMIE
+root	ROOT	cuts
+nummod	forecast	2012-13
+compound	forecast	growth
+dobj	cuts	forecast
+case	%	to
+compound	%	6.3
+nmod:to	cuts	%

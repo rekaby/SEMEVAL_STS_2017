@@ -1,0 +1,6 @@
+det	method	a
+root	ROOT	method
+mark	solving	for
+acl	method	solving
+det	problem	a
+dobj	solving	problem

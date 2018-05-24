@@ -1,0 +1,17 @@
+interview	Sawyer	nmod:with
+Sawyer	,	punct
+interview	goes	acl:relcl
+remember	day	dobj
+said	remember	ccomp
+remember	he	nsubj
+goes	hours	nmod:through
+goes	day	nmod:tmod
+shooting	of	case
+day	shooting	nmod:of
+hours	therapy	nmod:of
+hours	through	case
+remember	does	aux
+remember	not	neg
+Sawyer	with	case
+therapy	of	case
+Sawyer	Giffords	appos

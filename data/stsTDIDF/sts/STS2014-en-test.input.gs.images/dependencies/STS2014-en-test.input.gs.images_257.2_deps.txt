@@ -1,0 +1,8 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	laying
+case	jacket	in
+det	jacket	a
+compound	jacket	pet
+nmod:in	laying	jacket
+punct	dog	.

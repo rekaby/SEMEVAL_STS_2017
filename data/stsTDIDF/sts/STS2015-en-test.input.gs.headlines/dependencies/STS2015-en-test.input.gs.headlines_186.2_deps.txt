@@ -1,0 +1,9 @@
+nsubj	hit	Tornadoes
+root	ROOT	hit
+dep	reported	Kan.
+punct	Kan.	,
+appos	Kan.	Okla.
+punct	Kan.	;
+neg	injuries	no
+nsubj	reported	injuries
+ccomp	hit	reported

@@ -1,0 +1,5 @@
+det	car	A
+nsubj	parking	car
+cop	parking	is
+root	ROOT	parking
+punct	parking	.

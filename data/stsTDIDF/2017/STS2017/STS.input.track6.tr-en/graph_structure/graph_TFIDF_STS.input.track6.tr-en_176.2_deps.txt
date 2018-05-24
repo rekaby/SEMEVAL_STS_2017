@@ -1,0 +1,4 @@
+walking	people	nsubj
+walking	waterfall	nmod:near
+waterfall	a	det
+waterfall	near	case

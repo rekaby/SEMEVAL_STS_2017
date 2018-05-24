@@ -1,0 +1,9 @@
+compound	president	Afghan
+nsubj	extends	president
+root	ROOT	extends
+compound	talks	visit
+case	Pakistan	to
+nmod:to	visit	Pakistan
+case	Taliban	for
+nmod:for	visit	Taliban
+dobj	extends	talks

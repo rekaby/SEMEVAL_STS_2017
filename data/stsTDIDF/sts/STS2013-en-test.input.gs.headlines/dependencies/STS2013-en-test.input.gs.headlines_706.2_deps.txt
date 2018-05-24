@@ -1,0 +1,8 @@
+nsubj	retreats	China
+compound	retreats	yuan
+root	ROOT	retreats
+case	6.2697	to
+nmod:to	retreats	6.2697
+case	USD	against
+nmod:against	retreats	USD
+nmod:tmod	retreats	Thursday

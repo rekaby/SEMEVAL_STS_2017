@@ -1,0 +1,10 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	separate	to
+punct	separate	-RRB-
+nmod:to	cause	separate
+cc	separate	or
+conj:or	separate	move
+case	directions	in
+amod	directions	different
+nmod:in	separate	directions

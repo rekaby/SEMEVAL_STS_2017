@@ -1,0 +1,7 @@
+det	type	What
+dep	is	type
+case	faucet	of
+nmod:of	type	faucet
+root	ROOT	is
+nsubj	is	this
+punct	is	?

@@ -1,0 +1,10 @@
+compound	Laden	Bin
+nmod:poss	sway	Laden
+case	Laden	's
+amod	sway	continuing
+nsubj	attack	sway
+amod	attack	shown
+case	mall	in
+compound	mall	Kenya
+nmod:in	shown	mall
+root	ROOT	attack

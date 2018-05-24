@@ -1,0 +1,10 @@
+nummod	people	Three
+root	ROOT	people
+acl	people	sitting
+case	table	at
+compound	table	dinner
+nmod:at	sitting	table
+xcomp	sitting	smiling
+case	camera	at
+nmod:at	smiling	camera
+punct	people	.

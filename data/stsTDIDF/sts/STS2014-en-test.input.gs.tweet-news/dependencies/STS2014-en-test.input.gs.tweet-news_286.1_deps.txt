@@ -1,0 +1,12 @@
+compound	SHANKER	North
+compound	SHANKER	Korea?s
+compound	SHANKER	Missile
+compound	SHANKER	Movements
+compound	SHANKER	Worry
+compound	SHANKER	U.S.
+compound	SHANKER	THOM
+root	ROOT	SHANKER
+cc	SHANKER	and
+compound	SANGER	DAVID
+compound	SANGER	E.
+conj:and	SHANKER	SANGER

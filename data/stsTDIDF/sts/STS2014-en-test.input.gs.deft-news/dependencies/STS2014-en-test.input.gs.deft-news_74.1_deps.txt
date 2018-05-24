@@ -1,0 +1,9 @@
+nmod:poss	projects	iran
+case	iran	's
+amod	projects	nuclear
+nsubj	purposes	projects
+cop	purposes	are
+case	purposes	for
+amod	purposes	peaceful
+root	ROOT	purposes
+punct	purposes	.

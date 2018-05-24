@@ -1,0 +1,17 @@
+nmod:poss	stock	IAC
+case	IAC	's
+nsubj	closed	stock
+root	ROOT	closed
+nmod:tmod	closed	yesterday
+case	$	down
+nmod:down	closed	$
+nummod	$	2.81
+punct	$	,
+cc	$	or
+nummod	percent	7.6
+conj:or	$	percent
+punct	$	,
+case	$	at
+nmod:at	$	$
+nummod	$	34.19
+punct	closed	.

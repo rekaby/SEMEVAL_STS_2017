@@ -1,0 +1,18 @@
+root	ROOT	#Youth
+punct	#Youth	:
+det	wants	The
+dep	#Youth	wants
+mark	know	to
+xcomp	wants	know
+punct	know	:
+punct	Does	``
+parataxis	know	Does
+nsubj	Make	#Facebook
+advmod	Make	Ever
+ccomp	Does	Make
+nsubj	Feel	You
+ccomp	Make	Feel
+dobj	Feel	L-O-U-S-Y
+punct	#Youth	?
+punct	#Youth	''-17) root(ROOT-0, Share
+advmod	Share	HERE

@@ -1,0 +1,6 @@
+det	man	A
+nsubj	cuts	man
+root	ROOT	cuts
+det	onion	an
+dobj	cuts	onion
+punct	cuts	.

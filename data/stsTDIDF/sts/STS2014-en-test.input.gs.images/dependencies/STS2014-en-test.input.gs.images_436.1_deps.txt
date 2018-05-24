@@ -1,0 +1,10 @@
+nummod	goats	Two
+root	ROOT	goats
+acl	goats	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+case	tree	by
+det	tree	a
+nmod:by	standing	tree
+punct	goats	.

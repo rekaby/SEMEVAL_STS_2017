@@ -1,0 +1,9 @@
+det	order	the
+amod	order	judicial
+nsubj	accused	order
+root	ROOT	accused
+dobj	accused	raghad
+case	terrorism	of
+compound	terrorism	funding
+nmod:of	raghad	terrorism
+punct	accused	.

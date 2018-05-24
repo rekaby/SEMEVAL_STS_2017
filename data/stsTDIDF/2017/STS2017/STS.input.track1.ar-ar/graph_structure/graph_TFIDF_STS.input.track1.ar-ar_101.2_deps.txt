@@ -1,0 +1,9 @@
+looks	watch	nmod:at
+watch	at	case
+waiting	subway	nmod:at
+looks	man	nsubj
+subway	the	det
+waiting	while	mark
+looks	waiting	advcl
+subway	at	case
+watch	his	nmod:poss

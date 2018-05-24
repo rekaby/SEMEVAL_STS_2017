@@ -1,0 +1,14 @@
+det	petition	a
+nsubj	made	petition
+cc	petition	or
+conj:or	petition	appeal
+root	ROOT	made
+case	person	to
+det	person	a
+nmod:to	made	person
+case	status	of
+amod	status	superior
+nmod:of	person	status
+cc	status	or
+conj:or	status	rank
+punct	made	.

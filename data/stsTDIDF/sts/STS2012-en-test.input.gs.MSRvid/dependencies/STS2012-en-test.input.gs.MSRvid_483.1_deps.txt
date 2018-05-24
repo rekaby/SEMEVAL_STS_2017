@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	deboning	woman
+aux	deboning	is
+root	ROOT	deboning
+det	fish	a
+dobj	deboning	fish
+punct	deboning	.

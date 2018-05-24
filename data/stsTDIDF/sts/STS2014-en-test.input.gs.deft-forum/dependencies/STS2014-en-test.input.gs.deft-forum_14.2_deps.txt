@@ -1,0 +1,12 @@
+advmod	Posted	Originally
+root	ROOT	Posted
+case	zaf	by
+nmod:by	Posted	zaf
+nsubj	think	We
+case	Britain	in
+nmod:in	We	Britain
+acl:relcl	zaf	think
+advmod	think	differently
+case	Americans	to
+nmod:to	think	Americans
+punct	Posted	.

@@ -1,0 +1,13 @@
+case	1993	Between
+nmod:between	reported	1993
+cc	1993	and
+conj:and	1993	2002
+punct	reported	,
+nummod	allegations	142
+nsubjpass	reported	allegations
+case	assault	of
+amod	assault	sexual
+nmod:of	allegations	assault
+auxpass	reported	were
+root	ROOT	reported
+punct	reported	.

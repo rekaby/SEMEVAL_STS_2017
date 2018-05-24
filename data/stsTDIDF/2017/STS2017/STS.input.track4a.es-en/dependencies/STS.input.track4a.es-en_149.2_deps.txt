@@ -1,0 +1,10 @@
+det	post	The
+compound	post	street
+nsubj	have	post
+aux	have	does
+neg	have	not
+root	ROOT	have
+dobj	have	anything
+case	it	on
+nmod:on	have	it
+punct	have	.

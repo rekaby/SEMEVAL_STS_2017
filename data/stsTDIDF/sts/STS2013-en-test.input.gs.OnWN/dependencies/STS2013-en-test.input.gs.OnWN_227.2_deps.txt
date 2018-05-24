@@ -1,0 +1,7 @@
+root	ROOT	have
+dobj	have	flavor
+punct	have	;
+dep	have	taste
+case	something	of
+nmod:of	taste	something
+punct	have	.

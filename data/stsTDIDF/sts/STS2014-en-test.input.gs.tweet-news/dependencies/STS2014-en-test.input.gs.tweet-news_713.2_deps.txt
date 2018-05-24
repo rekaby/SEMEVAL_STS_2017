@@ -1,0 +1,12 @@
+compound	Focus	India?s
+compound	Focus	New
+nsubj	Shows	Focus
+case	Rape	on
+nmod:on	Focus	Rape
+root	ROOT	Shows
+advmod	Surface	Only
+det	Surface	the
+dobj	Shows	Surface
+case	Women?s	of
+nmod:of	Surface	Women?s
+dep	Surface	Perils

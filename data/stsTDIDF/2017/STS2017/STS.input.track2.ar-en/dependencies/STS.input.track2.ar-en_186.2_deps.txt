@@ -1,0 +1,6 @@
+nsubj	talk	People
+root	ROOT	talk
+case	home	outside
+det	home	the
+nmod:outside	talk	home
+punct	talk	.

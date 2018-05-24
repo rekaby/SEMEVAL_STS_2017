@@ -1,0 +1,9 @@
+compound	Senate	US
+nsubj	votes	Senate
+root	ROOT	votes
+mark	advance	to
+xcomp	votes	advance
+compound	bill	Iran
+amod	bill	nuclear
+compound	bill	review
+dobj	advance	bill

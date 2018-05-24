@@ -1,0 +1,6 @@
+inside	the	det
+Backpack	.	punct
+ROOT	Backpack	root
+wide	inside	nmod:from
+inside	from	case
+Backpack	wide	amod

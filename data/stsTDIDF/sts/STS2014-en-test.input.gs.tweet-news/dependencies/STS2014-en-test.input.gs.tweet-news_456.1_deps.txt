@@ -1,0 +1,10 @@
+compound	Life	Illuminating
+compound	Life	Jewish
+nsubj	Blog	Life
+case	Empire	in
+det	Empire	a
+amod	Empire	Muslim
+nmod:in	Life	Empire
+case	Talmud	via
+nmod:via	Life	Talmud
+root	ROOT	Blog

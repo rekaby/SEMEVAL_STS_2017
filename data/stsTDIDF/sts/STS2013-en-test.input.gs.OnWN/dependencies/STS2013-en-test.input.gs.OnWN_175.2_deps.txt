@@ -1,0 +1,9 @@
+root	ROOT	have
+det	wish	a
+dobj	have	wish
+cc	wish	or
+conj:or	wish	desire
+mark	know	to
+acl	wish	know
+dobj	know	something
+punct	have	.

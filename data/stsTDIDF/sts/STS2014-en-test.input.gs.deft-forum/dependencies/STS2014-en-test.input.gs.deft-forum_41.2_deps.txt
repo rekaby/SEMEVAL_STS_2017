@@ -1,0 +1,6 @@
+root	ROOT	warmed.C
+case	year	from
+det	year	the
+nmod:from	warmed.C	year
+advmod	year	prior
+punct	warmed.C	.

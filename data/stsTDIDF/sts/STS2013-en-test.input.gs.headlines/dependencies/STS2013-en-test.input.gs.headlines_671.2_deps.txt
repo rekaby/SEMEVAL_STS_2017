@@ -1,0 +1,6 @@
+nsubj	charged	Man
+root	ROOT	charged
+case	murder	with
+nmod:with	charged	murder
+case	flat	in
+nmod:in	charged	flat

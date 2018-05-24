@@ -1,0 +1,7 @@
+root	ROOT	Hajj
+mark	go	to
+acl	Hajj	go
+advmod	go	ahead
+case	collapse	despite
+compound	collapse	crane
+nmod:despite	go	collapse

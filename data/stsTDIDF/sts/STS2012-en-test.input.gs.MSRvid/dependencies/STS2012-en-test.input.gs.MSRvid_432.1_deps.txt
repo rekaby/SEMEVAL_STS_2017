@@ -1,0 +1,11 @@
+det	man	A
+nsubj	talking	man
+aux	talking	is
+root	ROOT	talking
+case	women	with
+amod	women	other
+nmod:with	talking	women
+case	beach	on
+det	beach	the
+nmod:on	talking	beach
+punct	talking	.

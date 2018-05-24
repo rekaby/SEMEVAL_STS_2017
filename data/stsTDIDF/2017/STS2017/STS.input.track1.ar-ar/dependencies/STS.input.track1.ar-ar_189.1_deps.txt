@@ -1,0 +1,9 @@
+det	car	The
+nsubj	passed	car
+root	ROOT	passed
+dobj	passed	them
+case	people	next
+mwe	next	to
+nmod:next_to	rain	people
+amod	people	prohibitive
+nmod:tmod	passed	rain

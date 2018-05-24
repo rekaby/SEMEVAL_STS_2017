@@ -1,0 +1,10 @@
+det	man	A
+nsubj	drilling	man
+aux	drilling	is
+root	ROOT	drilling
+det	hole	a
+dobj	drilling	hole
+case	board	in
+det	board	a
+nmod:in	drilling	board
+punct	drilling	.

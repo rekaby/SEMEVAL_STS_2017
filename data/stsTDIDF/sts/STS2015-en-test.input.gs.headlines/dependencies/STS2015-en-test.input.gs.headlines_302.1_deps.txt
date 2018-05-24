@@ -1,0 +1,7 @@
+compound	Rouhani	Hassan
+nsubj	wins	Rouhani
+root	ROOT	wins
+nmod:poss	election	Iran
+case	Iran	's
+amod	election	presidential
+dobj	wins	election

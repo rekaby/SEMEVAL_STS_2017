@@ -1,0 +1,9 @@
+root	ROOT	facility
+case	storage	for
+amod	storage	secure
+nmod:for	facility	storage
+case	things	of
+nmod:of	storage	things
+punct	facility	,
+advmod	money	often
+appos	facility	money

@@ -1,0 +1,15 @@
+det	baby	A
+nsubj	holding	baby
+case	hat	in
+det	hat	a
+amod	hat	red
+nmod:in	baby	hat
+acl	hat	sitting
+case	stroller	in
+det	stroller	a
+nmod:in	sitting	stroller
+aux	holding	is
+root	ROOT	holding
+det	doll	a
+dobj	holding	doll
+punct	holding	.

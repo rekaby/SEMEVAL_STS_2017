@@ -1,0 +1,11 @@
+root	ROOT	make
+xcomp	make	liberal
+cc	liberal	or
+advmod	liberal	more
+conj:or	liberal	liberal
+punct	liberal	,
+case	laws	of
+nmod:of	liberal	laws
+cc	laws	and
+conj:and	laws	rules
+punct	make	.

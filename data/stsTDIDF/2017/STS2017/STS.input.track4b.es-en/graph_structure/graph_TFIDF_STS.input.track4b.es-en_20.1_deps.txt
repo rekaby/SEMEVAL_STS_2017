@@ -1,0 +1,11 @@
+shorthand	or	cc
+grandfather	my	nmod:poss
+shorthand	hyphens	conj:or
+grandfather	of	case
+homeland	the	det
+need	shorthand	nmod:for
+was	And	cc
+homeland	grandfather	nmod:of
+was	homeland	nmod:in
+shorthand	for	case
+homeland	in	case

@@ -1,0 +1,5 @@
+Dog	wondering	acl
+mate	where	advmod
+ROOT	Dog	root
+wondering	mate	advcl
+Dog	.	punct

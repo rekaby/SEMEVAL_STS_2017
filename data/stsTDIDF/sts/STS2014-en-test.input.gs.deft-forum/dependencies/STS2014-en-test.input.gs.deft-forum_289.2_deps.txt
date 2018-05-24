@@ -1,0 +1,11 @@
+det	manufacturer	The
+nsubj	has	manufacturer
+root	ROOT	has
+mark	convince	to
+xcomp	has	convince
+det	government	the
+dobj	convince	government
+nsubj	safe	it
+cop	safe	's
+ccomp	convince	safe
+punct	has	.

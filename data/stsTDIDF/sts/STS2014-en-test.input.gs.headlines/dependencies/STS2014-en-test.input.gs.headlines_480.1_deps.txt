@@ -1,0 +1,9 @@
+nsubj	faces	Driver
+case	crash	in
+amod	crash	Spanish
+compound	crash	train
+nmod:in	Driver	crash
+root	ROOT	faces
+dobj	faces	questions
+case	judge	from
+nmod:from	faces	judge

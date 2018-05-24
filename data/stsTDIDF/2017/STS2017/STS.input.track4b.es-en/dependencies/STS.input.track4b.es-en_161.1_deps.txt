@@ -1,0 +1,5 @@
+root	ROOT	Give
+iobj	Give	it
+det	chance	a
+dobj	Give	chance
+punct	Give	.

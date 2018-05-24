@@ -1,0 +1,14 @@
+det	product	The
+nsubjpass	instructed	product
+aux	instructed	can
+auxpass	instructed	be
+root	ROOT	instructed
+mark	permit	to
+xcomp	instructed	permit
+amod	use	business-only
+dobj	permit	use
+punct	instructed	,
+case	Sendmail	according
+mwe	according	to
+nmod:according_to	instructed	Sendmail
+punct	instructed	.

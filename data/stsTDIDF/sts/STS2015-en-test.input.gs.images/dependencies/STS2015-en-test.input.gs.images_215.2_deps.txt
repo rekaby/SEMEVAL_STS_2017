@@ -1,0 +1,8 @@
+det	boy	The
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+case	sand	in
+det	sand	the
+nmod:in	playing	sand
+punct	playing	.

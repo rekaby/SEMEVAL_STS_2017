@@ -1,0 +1,6 @@
+pose	.	punct
+photograph	a	det
+pose	group	nsubj
+pose	photograph	nmod:for
+photograph	for	case
+ROOT	pose	root

@@ -1,0 +1,6 @@
+amod	man	Smiling
+root	ROOT	man
+case	classes	with
+amod	classes	reflective
+nmod:with	man	classes
+punct	man	.

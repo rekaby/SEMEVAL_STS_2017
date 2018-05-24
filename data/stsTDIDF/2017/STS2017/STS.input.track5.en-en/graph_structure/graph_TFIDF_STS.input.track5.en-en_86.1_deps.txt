@@ -1,0 +1,8 @@
+has	skis	dobj
+field	for	case
+ready	field	nmod:for
+skis	his	nmod:poss
+has	man	nsubj
+field	get	acl
+skis	ready	amod
+get	iced	dobj

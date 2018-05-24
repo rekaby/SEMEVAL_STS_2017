@@ -1,0 +1,8 @@
+det	man	The
+root	ROOT	man
+case	truck	in
+det	truck	the
+nmod:in	man	truck
+acl	truck	driven
+advmod	driven	away
+punct	man	.

@@ -1,0 +1,10 @@
+helping	shirt	nmod:in
+helping	man	dobj
+shirt	a	det
+shirt	fix	acl
+fix	car	dobj
+shirt	red	amod
+shirt	in	case
+shirt	helping	acl
+man	shirt	nmod:in
+shirt	blue	amod

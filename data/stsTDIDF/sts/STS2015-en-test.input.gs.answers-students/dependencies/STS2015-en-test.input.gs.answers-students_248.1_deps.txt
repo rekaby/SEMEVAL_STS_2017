@@ -1,0 +1,14 @@
+mark	connected	because
+amod	4	terminal
+nsubjpass	connected	4
+auxpass	connected	is
+root	ROOT	connected
+case	terminal	to
+det	terminal	the
+amod	terminal	positive
+nmod:to	connected	terminal
+cc	connected	but
+neg	terminal	not
+det	terminal	the
+amod	terminal	negative
+conj:but	connected	terminal

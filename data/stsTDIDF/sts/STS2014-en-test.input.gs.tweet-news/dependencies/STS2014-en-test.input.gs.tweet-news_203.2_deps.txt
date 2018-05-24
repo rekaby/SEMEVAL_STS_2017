@@ -1,0 +1,5 @@
+compound	Mutations	New
+root	ROOT	Mutations
+acl	Mutations	Discovered
+case	Melanomas	in
+nmod:in	Discovered	Melanomas

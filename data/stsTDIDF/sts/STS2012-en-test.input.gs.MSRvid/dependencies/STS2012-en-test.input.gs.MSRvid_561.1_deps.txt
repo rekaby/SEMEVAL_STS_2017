@@ -1,0 +1,8 @@
+det	cat	A
+nsubj	pouncing	cat
+aux	pouncing	is
+root	ROOT	pouncing
+case	trampoline	on
+det	trampoline	a
+nmod:on	pouncing	trampoline
+punct	pouncing	.

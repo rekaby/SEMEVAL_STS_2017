@@ -1,0 +1,8 @@
+det	place	the
+root	ROOT	place
+case	which	within
+nmod:within	has	which
+det	authority	an
+nsubj	has	authority
+acl:relcl	place	has
+dobj	has	power

@@ -1,0 +1,8 @@
+nummod	eagles	Two
+root	ROOT	eagles
+acl	eagles	sitting
+case	branch	on
+det	branch	a
+amod	branch	long
+nmod:on	sitting	branch
+punct	eagles	.

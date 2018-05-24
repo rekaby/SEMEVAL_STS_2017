@@ -1,0 +1,6 @@
+nsubj	protests	Pakistan
+root	ROOT	protests
+compound	violations	ceasefire
+dobj	protests	violations
+case	India	by
+nmod:by	protests	India

@@ -1,0 +1,8 @@
+root	ROOT	Wreckage
+case	AH5017	from
+compound	AH5017	AirAlgerie
+compound	AH5017	flight
+nmod:from	Wreckage	AH5017
+acl	AH5017	found
+case	Mali	in
+nmod:in	found	Mali

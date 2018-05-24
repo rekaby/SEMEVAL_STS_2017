@@ -1,0 +1,10 @@
+det	error	This
+amod	error	gross
+nsubj	leading	error
+aux	leading	is
+root	ROOT	leading
+dobj	leading	Russia
+case	ruin	to
+amod	ruin	political
+nmod:to	leading	ruin
+punct	leading	.

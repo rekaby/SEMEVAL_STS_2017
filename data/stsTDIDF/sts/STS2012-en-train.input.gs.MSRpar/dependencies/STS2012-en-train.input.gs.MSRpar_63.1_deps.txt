@@ -1,0 +1,13 @@
+det	company	The
+nsubj	detail	company
+aux	detail	did
+neg	detail	n't
+root	ROOT	detail
+det	costs	the
+dobj	detail	costs
+case	replacement	of
+det	replacement	the
+nmod:of	costs	replacement
+cc	replacement	and
+conj:and	replacement	repairs
+punct	detail	.

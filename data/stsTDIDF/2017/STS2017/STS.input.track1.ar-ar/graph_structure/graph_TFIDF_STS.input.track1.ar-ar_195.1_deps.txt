@@ -1,0 +1,16 @@
+dog	brown	amod
+collar	red	amod
+dog	wearing	acl
+wearing	collar	dobj
+yellow	color	compound
+boy	wearing	acl
+collar	a	det
+playing	dog	nmod:with
+yellow	playing	nmod:in
+yellow	the	det
+wearing	suit	dobj
+suit	warm	amod
+playing	black	amod
+playing	in	case
+suit	yellow	dep
+dog	with	case

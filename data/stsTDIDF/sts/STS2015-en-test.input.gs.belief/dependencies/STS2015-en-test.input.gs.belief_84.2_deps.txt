@@ -1,0 +1,10 @@
+root	ROOT	add
+case	it	into
+nmod:into	add	it
+det	disruption	the
+dobj	add	disruption
+case	connections	of
+nmod:poss	connections	their
+amod	connections	financial
+nmod:of	disruption	connections
+punct	add	.

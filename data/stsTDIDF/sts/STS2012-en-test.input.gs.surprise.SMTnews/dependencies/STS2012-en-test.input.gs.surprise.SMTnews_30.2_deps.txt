@@ -1,0 +1,17 @@
+nsubj	help	Jobs
+punct	help	,
+case	particular	in
+nmod:in	help	particular
+punct	help	,
+aux	help	would
+root	ROOT	help
+amod	people	young
+dobj	help	people
+mark	forge	to
+xcomp	help	forge
+amod	lives	new
+dobj	forge	lives
+case	jobs	through
+amod	jobs	serious
+nmod:through	forge	jobs
+punct	help	.

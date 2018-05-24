@@ -1,0 +1,11 @@
+det	official	an
+root	ROOT	official
+case	responsibility	with
+nmod:with	official	responsibility
+mark	supervise	to
+acl	responsibility	supervise
+det	domain	some
+dobj	supervise	domain
+case	activity	of
+amod	activity	social
+nmod:of	domain	activity

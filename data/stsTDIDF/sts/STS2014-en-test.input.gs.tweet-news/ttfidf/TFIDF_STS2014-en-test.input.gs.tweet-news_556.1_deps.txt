@@ -1,0 +1,14 @@
+punct perspective ...	15.060439779775294
+dep perspective NYTimes	15.060439779775294
+dep NYTimes Boom	15.060439779775294
+punct perspective ?-10) aux(Count-3, Do	15.060439779775294
+amod perspective Interesting	14.367292599215348
+neg Count n't	13.961827491107185
+det Boom A	13.674145418655403
+compound Boom New	13.674145418655403
+compound Boom Housing	13.674145418655403
+case It on	13.674145418655403
+nmod:on Count It	13.674145418655403
+root ROOT perspective	12.575533129987294
+root ROOT Count	11.764602913770965
+punct NYTimes :	11.253777290004974

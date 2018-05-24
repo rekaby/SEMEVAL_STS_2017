@@ -1,0 +1,8 @@
+root	ROOT	give
+det	explanation	a
+amod	explanation	deceptive
+dobj	give	explanation
+nmod	give	for
+punct	give	;
+parataxis	give	cover
+compound:prt	cover	up

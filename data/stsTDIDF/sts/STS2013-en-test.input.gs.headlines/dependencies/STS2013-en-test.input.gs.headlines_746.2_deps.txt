@@ -1,0 +1,9 @@
+compound	aide	Obama
+nsubj	holds	aide
+root	ROOT	holds
+nsubj	veto	talks
+case	China	in
+nmod:in	talks	China
+case	Syria	after
+nmod:after	talks	Syria
+ccomp	holds	veto

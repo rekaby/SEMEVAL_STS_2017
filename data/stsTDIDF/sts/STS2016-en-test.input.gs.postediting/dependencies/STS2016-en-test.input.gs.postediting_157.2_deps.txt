@@ -1,0 +1,10 @@
+nsubj	Jets	It
+cop	Jets	was
+det	Jets	the
+amod	Jets	highest
+root	ROOT	Jets
+acl	Jets	score
+case	game	in
+nummod	game	one
+nmod:in	score	game
+punct	Jets	.

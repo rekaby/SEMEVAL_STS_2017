@@ -1,0 +1,12 @@
+amod	Contributor	Op-Ed
+root	ROOT	Contributor
+punct	Contributor	:
+compound	Weapons	Australia
+compound	Weapons	Banned
+compound	Weapons	Assault
+dep	Contributor	Weapons
+punct	Contributor	.-8) nsubj(Too-4, America
+dep	Too	Can
+punct	Too	,
+root	ROOT	Too
+punct	Too	.

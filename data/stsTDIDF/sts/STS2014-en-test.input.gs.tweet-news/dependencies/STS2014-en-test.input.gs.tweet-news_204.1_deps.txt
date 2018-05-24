@@ -1,0 +1,13 @@
+neg	news	Not
+advmod	good	so
+amod	news	good
+root	ROOT	news
+punct	news	...
+punct	news	.-6) root(ROOT-0, NYTimes
+punct	NYTimes	:
+amod	Shrank	German
+compound	Shrank	Economy
+dep	NYTimes	Shrank
+case	Quarter	in
+amod	Quarter	Fourth
+nmod:in	Shrank	Quarter

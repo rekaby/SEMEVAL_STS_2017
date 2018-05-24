@@ -1,0 +1,11 @@
+nsubj	have	you
+root	ROOT	have
+neg	witnesses	no
+dobj	have	witnesses
+case	missile	for
+det	missile	a
+nmod:for	witnesses	missile
+case	pentagon	at
+det	pentagon	the
+nmod:at	missile	pentagon
+punct	have	.

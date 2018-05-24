@@ -1,0 +1,16 @@
+nsubj	one	I
+cop	one	am
+neg	one	not
+det	one	the
+root	ROOT	one
+acl	one	claiming
+det	right	the
+dobj	claiming	right
+mark	decide	to
+acl	right	decide
+case	body	over
+det	woman	another
+nmod:poss	body	woman
+case	woman	's
+nmod:over	decide	body
+punct	one	.

@@ -1,0 +1,17 @@
+case	all	After
+nmod:after	recommend	all
+punct	recommend	,
+nsubj	recommend	they
+root	ROOT	recommend
+det	policies	the
+dobj	recommend	policies
+dep	policies	that
+dep	that	politicians
+dep	politicians	may
+cc	may	or
+aux	want	may
+neg	want	not
+conj:or	may	want
+mark	consider	to
+xcomp	want	consider
+punct	recommend	.

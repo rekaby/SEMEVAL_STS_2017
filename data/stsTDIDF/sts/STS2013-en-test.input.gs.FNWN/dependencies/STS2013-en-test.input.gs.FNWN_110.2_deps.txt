@@ -1,0 +1,15 @@
+root	ROOT	deliver
+det	blow	a
+amod	blow	sharp
+dobj	deliver	blow
+punct	deliver	,
+case	hand	as
+case	hand	with
+det	hand	the
+nmod:with	deliver	hand
+punct	hand	,
+conj:or	hand	fist
+punct	hand	,
+cc	hand	or
+conj:or	hand	weapon
+punct	deliver	;

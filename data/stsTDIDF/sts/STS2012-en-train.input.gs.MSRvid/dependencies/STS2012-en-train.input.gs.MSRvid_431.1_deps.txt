@@ -1,0 +1,7 @@
+det	person	A
+nsubj	scrubbing	person
+aux	scrubbing	is
+root	ROOT	scrubbing
+det	zucchini	a
+dobj	scrubbing	zucchini
+punct	scrubbing	.

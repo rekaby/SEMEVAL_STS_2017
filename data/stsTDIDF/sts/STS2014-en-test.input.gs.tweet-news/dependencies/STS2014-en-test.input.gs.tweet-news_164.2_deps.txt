@@ -1,0 +1,8 @@
+root	ROOT	What
+mark	do	to
+acl	What	do
+advmod	listen	when
+nsubj	listen	doctors
+aux	listen	do
+neg	listen	n't
+advcl	do	listen

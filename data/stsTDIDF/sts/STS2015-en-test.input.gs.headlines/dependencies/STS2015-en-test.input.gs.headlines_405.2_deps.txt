@@ -1,0 +1,8 @@
+compound	convicts	Russia
+nsubj	Magnitsky	convicts
+amod	Magnitsky	dead
+compound	Magnitsky	lawyer
+root	ROOT	Magnitsky
+case	trial	in
+amod	trial	posthumous
+nmod:in	Magnitsky	trial

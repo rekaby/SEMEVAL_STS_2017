@@ -1,0 +1,11 @@
+det	man	A
+nsubj	kissing	man
+aux	kissing	is
+root	ROOT	kissing
+case	wife	with
+nmod:poss	wife	his
+nmod:with	kissing	wife
+case	crowd	in
+det	crowd	a
+nmod:in	kissing	crowd
+punct	kissing	.

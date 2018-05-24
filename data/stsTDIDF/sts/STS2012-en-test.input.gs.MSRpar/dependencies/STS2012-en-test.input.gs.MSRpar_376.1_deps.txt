@@ -1,0 +1,14 @@
+nsubj	spent	Selenski
+aux	spent	had
+advmod	spent	previously
+root	ROOT	spent
+nummod	years	seven
+nmod:tmod	spent	years
+case	prison	in
+nmod:in	spent	prison
+case	conviction	on
+det	conviction	a
+compound	conviction	bank
+compound	conviction	robbery
+nmod:on	spent	conviction
+punct	spent	.

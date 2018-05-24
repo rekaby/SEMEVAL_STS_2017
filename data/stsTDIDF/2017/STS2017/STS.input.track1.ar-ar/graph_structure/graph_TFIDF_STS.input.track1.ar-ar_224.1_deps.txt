@@ -1,0 +1,4 @@
+ride	bicycle	compound
+boy	ride	nmod:on
+ride	on	case
+ride	park	nmod:in

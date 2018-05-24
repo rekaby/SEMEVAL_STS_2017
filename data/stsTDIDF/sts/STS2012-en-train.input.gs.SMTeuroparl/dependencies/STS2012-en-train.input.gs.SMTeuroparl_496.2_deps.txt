@@ -1,0 +1,12 @@
+det	line	A
+compound	line	budget
+nsubj	has	line
+root	ROOT	has
+dobj	has	programmes
+case	de-mining	to
+nmod:to	programmes	de-mining
+cc	de-mining	and
+conj:and	de-mining	prevention
+case	years	for
+nmod:for	programmes	years
+punct	has	.

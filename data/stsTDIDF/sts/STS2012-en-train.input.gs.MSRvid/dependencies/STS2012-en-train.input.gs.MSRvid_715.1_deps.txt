@@ -1,0 +1,7 @@
+det	doctor	The
+nsubj	helping	doctor
+aux	helping	was
+root	ROOT	helping
+det	patient	the
+dobj	helping	patient
+punct	helping	.

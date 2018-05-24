@@ -1,0 +1,9 @@
+eating	walks	advcl
+eating	is	aux
+walks	he	nsubj
+cake	some	det
+walks	as	mark
+eating	cake	dobj
+ROOT	eating	root
+eating	man	nsubj
+eating	.	punct

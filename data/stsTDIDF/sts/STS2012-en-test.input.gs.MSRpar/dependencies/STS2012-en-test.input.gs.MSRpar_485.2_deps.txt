@@ -1,0 +1,17 @@
+compound	Jeffery	Maj-Gen
+nsubj	said	Jeffery
+root	ROOT	said
+nsubj	give	he
+aux	give	would
+ccomp	said	give
+nmod:poss	pension	his
+amod	pension	military
+dobj	give	pension
+case	charity	to
+nmod:to	give	charity
+mark	served	while
+nsubj	served	he
+advcl	give	served
+case	Yarralumla	at
+nmod:at	served	Yarralumla
+punct	said	.

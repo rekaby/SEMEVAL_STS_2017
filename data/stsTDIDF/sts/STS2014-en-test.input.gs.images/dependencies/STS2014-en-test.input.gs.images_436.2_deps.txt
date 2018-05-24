@@ -1,0 +1,9 @@
+det	boat	A
+amod	boat	large
+root	ROOT	boat
+acl	boat	pulling
+det	boat	a
+amod	boat	small
+amod	boat	white
+dobj	pulling	boat
+punct	boat	.

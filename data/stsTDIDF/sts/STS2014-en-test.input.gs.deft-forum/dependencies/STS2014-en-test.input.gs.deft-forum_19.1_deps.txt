@@ -1,0 +1,14 @@
+root	ROOT	but
+case	broadcasts	in
+det	broadcasts	the
+compound	broadcasts	news
+nmod:in	but	broadcasts
+nsubj	seen	i
+aux	seen	have
+acl:relcl	broadcasts	seen
+nsubj	call	they
+aux	call	did
+ccomp	seen	call
+nsubj	white	him
+xcomp	call	white
+punct	but	.

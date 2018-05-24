@@ -1,0 +1,6 @@
+nummod	men	Two
+root	ROOT	men
+case	building	beside
+det	building	the
+nmod:beside	men	building
+punct	men	.

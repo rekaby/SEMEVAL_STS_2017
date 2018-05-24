@@ -1,0 +1,7 @@
+det	girl	A
+root	ROOT	girl
+acl	girl	riding
+det	horse	a
+compound	horse	tan
+dobj	riding	horse
+punct	girl	.

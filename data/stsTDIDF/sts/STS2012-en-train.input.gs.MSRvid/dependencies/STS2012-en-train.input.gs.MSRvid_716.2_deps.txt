@@ -1,0 +1,9 @@
+det	person	A
+nsubj	grates	person
+root	ROOT	grates
+det	potato	a
+dobj	grates	potato
+case	bowl	into
+det	bowl	a
+nmod:into	grates	bowl
+punct	grates	.

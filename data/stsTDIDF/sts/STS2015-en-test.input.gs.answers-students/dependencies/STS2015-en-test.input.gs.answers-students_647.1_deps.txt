@@ -1,0 +1,13 @@
+mark	open	If
+det	switch	a
+nsubj	open	switch
+cop	open	is
+advcl	closed	open
+punct	closed	,
+det	circut	the
+nsubjpass	closed	circut
+auxpass	closed	is
+neg	longer	no
+advmod	closed	longer
+root	ROOT	closed
+punct	closed	.

@@ -1,0 +1,9 @@
+root	ROOT	consistent
+case	fact	with
+nmod:with	consistent	fact
+cc	fact	or
+conj:or	fact	reality
+punct	consistent	;
+neg	false	not
+dep	consistent	false
+punct	consistent	;

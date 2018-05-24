@@ -1,0 +1,7 @@
+det	boy	A
+root	ROOT	boy
+case	playing	in
+det	playing	a
+compound	playing	jacket
+nmod:in	boy	playing
+punct	boy	.

@@ -1,0 +1,14 @@
+det	dog	A
+nsubj	chasing	dog
+case	shirt	in
+det	shirt	a
+amod	shirt	red
+nmod:in	dog	shirt
+aux	chasing	is
+root	ROOT	chasing
+det	squirrel	a
+dobj	chasing	squirrel
+case	glass	through
+det	glass	the
+nmod:through	chasing	glass
+punct	chasing	.

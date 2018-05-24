@@ -1,0 +1,7 @@
+case	Least	At
+root	ROOT	Least
+nummod	Killed	47
+acl	Least	Killed
+case	Baquba	In
+nmod:in	Killed	Baquba
+dep	Killed	Blasts

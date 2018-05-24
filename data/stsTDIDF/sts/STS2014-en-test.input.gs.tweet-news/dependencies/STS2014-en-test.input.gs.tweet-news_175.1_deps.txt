@@ -1,0 +1,14 @@
+nmod:poss	Boom	Washington
+case	Washington	's
+compound	Boom	Economic
+root	ROOT	Boom
+punct	Boom	,
+acl	Boom	Financed
+case	You	by
+nmod:by	Financed	You
+amod	life	Real
+compound	Games	life
+punct	Games	``
+compound	Games	Hunger
+dep	You	Games
+punct	Boom	''

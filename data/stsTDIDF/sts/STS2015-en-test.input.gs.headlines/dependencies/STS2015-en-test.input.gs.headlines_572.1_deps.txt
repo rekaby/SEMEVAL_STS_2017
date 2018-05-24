@@ -1,0 +1,12 @@
+nsubj	meet	Obama
+mark	meet	to
+root	ROOT	meet
+case	China	with
+nmod:with	meet	China
+nummod	Xi	‚
+compound	Xi	Äôs
+dep	China	Xi
+case	California	in
+nmod:in	Xi	California
+nmod:tmod	Xi	June
+nummod	June	7-8

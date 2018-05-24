@@ -1,0 +1,12 @@
+nsubjpass	held	Druce
+amod	night	last
+nmod:tmod	held	night
+auxpass	held	was
+root	ROOT	held
+case	isolation	in
+nmod:in	held	isolation
+case	prison	at
+det	prison	the
+amod	prison	same
+nmod:at	isolation	prison
+punct	held	.

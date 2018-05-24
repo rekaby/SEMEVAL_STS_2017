@@ -1,0 +1,16 @@
+mark	provided	If
+nsubjpass	provided	evidence
+auxpass	provided	is
+neg	provided	not
+advcl	rejected	provided
+mark	support	to
+xcomp	provided	support
+det	position	a
+dobj	support	position
+punct	rejected	;
+advmod	rejected	then
+nsubjpass	rejected	it
+aux	rejected	should
+auxpass	rejected	be
+root	ROOT	rejected
+punct	rejected	.

@@ -1,0 +1,8 @@
+driving	car	dobj
+driving	man	nsubj
+beard	with	case
+beard	the	det
+driving	is	aux
+ROOT	driving	root
+driving	.	punct
+man	beard	nmod:with

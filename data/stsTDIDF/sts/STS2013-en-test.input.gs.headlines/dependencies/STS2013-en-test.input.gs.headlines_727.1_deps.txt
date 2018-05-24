@@ -1,0 +1,4 @@
+compound	protests	F1
+root	ROOT	protests
+case	Bahrain	in
+nmod:in	protests	Bahrain

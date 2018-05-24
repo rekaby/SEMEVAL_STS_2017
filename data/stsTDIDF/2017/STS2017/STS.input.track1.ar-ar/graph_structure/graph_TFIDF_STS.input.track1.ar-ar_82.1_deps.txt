@@ -1,0 +1,5 @@
+group	Competing	amod
+competitions	enemy	compound
+competitions	of	case
+kind	competitions	nmod:of
+group	kind	nmod:in

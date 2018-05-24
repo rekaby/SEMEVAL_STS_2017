@@ -1,0 +1,7 @@
+nsubj	confirms	Coroner
+root	ROOT	confirms
+compound	Houston	Whitney
+nsubj	found	Houston
+ccomp	confirms	found
+case	bathtub	in
+nmod:in	found	bathtub

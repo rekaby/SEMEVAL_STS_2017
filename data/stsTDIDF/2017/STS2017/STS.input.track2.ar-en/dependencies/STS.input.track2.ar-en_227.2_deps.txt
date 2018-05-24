@@ -1,0 +1,7 @@
+nummod	women	Two
+nsubj	standing	women
+root	ROOT	standing
+advmod	standing	back
+case	back	to
+nmod:to	standing	back
+punct	standing	.

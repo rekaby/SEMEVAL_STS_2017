@@ -1,0 +1,10 @@
+case	girlfriend	According
+mwe	According	to
+det	girlfriend	the
+nmod:according_to	did	girlfriend
+cc	girlfriend	and
+conj:and	girlfriend	Zimmerman
+punct	did	,
+nsubj	did	he
+root	ROOT	did
+punct	did	.

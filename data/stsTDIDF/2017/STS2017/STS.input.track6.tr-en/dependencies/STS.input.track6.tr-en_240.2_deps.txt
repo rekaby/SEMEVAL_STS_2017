@@ -1,0 +1,7 @@
+det	girl	The
+nsubj	wears	girl
+root	ROOT	wears
+det	hat	a
+compound	hat	baseball
+dobj	wears	hat
+punct	wears	.

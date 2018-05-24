@@ -1,0 +1,8 @@
+det	man	A
+nsubj	shaking	man
+aux	shaking	is
+root	ROOT	shaking
+det	hand	another
+compound	hand	mans
+dobj	shaking	hand
+punct	shaking	.

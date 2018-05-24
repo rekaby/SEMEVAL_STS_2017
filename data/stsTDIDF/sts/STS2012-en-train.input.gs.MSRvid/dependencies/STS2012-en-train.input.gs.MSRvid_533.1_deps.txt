@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	seasoning	woman
+aux	seasoning	is
+root	ROOT	seasoning
+det	piece	a
+dobj	seasoning	piece
+case	meat	of
+nmod:of	piece	meat
+punct	seasoning	.

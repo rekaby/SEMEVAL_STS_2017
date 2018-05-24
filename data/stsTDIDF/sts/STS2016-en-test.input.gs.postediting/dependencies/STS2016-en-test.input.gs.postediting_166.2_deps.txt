@@ -1,0 +1,7 @@
+root	ROOT	Nine
+nummod	five	fifty
+dobj	Nine	five
+case	morning	in
+det	morning	the
+nmod:in	five	morning
+punct	Nine	.

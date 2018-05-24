@@ -1,0 +1,17 @@
+mark	have	If
+nsubj	have	you
+aux	have	do
+neg	have	not
+advcl	do	have
+det	reason	a
+advmod	strong	very
+amod	reason	strong
+amod	reason	scientific
+dobj	have	reason
+mark	do	to
+acl	reason	do
+dobj	do	it
+punct	do	,
+root	ROOT	do
+neg	do	n't
+punct	do	.

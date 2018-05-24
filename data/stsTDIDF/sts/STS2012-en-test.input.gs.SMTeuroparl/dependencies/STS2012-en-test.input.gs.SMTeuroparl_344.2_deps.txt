@@ -1,0 +1,11 @@
+nsubj	one	I
+cop	one	am
+root	ROOT	one
+case	Members	of
+det	Members	the
+nmod:of	one	Members
+nsubj	present	who
+cop	present	are
+advmod	present	rather
+acl:relcl	Members	present
+punct	one	.

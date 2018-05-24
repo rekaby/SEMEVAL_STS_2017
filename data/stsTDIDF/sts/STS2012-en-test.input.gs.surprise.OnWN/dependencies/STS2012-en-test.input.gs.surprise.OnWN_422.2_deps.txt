@@ -1,0 +1,9 @@
+det	room	the
+amod	room	large
+root	ROOT	room
+case	manor	of
+det	manor	a
+nmod:of	room	manor
+cc	manor	or
+conj:or	manor	castle
+punct	room	.

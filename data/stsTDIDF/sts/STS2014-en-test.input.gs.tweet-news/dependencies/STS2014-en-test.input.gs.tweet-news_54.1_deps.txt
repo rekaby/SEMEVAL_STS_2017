@@ -1,0 +1,15 @@
+nummod	years	Two
+dep	gets	years
+case	Revolution	after
+det	Revolution	the
+amod	Revolution	Egyptian
+nmod:after	years	Revolution
+punct	gets	...
+nsubj	gets	U.S
+root	ROOT	gets
+nsubj	wrong	it
+xcomp	gets	wrong
+case	Egypt	on
+nmod:on	wrong	Egypt
+advmod	wrong	again
+punct	gets	-

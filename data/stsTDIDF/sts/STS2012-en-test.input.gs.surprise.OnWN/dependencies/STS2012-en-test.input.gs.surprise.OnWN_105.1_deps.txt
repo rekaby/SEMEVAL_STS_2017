@@ -1,0 +1,5 @@
+root	ROOT	injure
+punct	injure	,
+conj	injure	scratch
+det	surface	the
+dobj	scratch	surface

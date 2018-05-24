@@ -1,0 +1,9 @@
+det	boy	A
+amod	boy	young
+nsubj	has	boy
+root	ROOT	has
+det	pole	a
+amod	pole	red
+compound	pole	fishing
+dobj	has	pole
+punct	has	.

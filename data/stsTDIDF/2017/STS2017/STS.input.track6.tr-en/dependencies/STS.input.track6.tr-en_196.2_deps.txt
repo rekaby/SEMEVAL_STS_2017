@@ -1,0 +1,6 @@
+det	child	A
+root	ROOT	child
+case	tree	in
+det	tree	the
+nmod:in	child	tree
+punct	child	.

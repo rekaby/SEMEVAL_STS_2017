@@ -1,0 +1,10 @@
+turning	Facebook	nsubj
+population	data	compound
+turning	is	aux
+turning	population	nmod:to
+Facebook	,	punct
+population	own	amod
+turning	constantly	advmod
+Facebook	too	advmod
+population	its	nmod:poss
+population	to	case

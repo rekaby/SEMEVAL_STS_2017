@@ -1,0 +1,8 @@
+det	pair	a
+root	ROOT	pair
+case	people	of
+nmod:of	pair	people
+nsubj	live	who
+acl:relcl	people	live
+advmod	live	together
+punct	pair	.

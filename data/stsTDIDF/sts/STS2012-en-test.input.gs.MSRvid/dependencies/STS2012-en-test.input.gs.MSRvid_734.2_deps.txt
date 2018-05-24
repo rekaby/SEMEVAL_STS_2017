@@ -1,0 +1,9 @@
+det	man	The
+nsubj	dropping	man
+aux	dropping	is
+root	ROOT	dropping
+amod	cucumbers	sliced
+dobj	dropping	cucumbers
+case	water	into
+nmod:into	dropping	water
+punct	dropping	.

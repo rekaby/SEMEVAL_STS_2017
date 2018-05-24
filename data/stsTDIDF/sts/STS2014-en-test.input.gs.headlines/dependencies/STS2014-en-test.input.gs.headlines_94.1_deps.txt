@@ -1,0 +1,7 @@
+compound	stocks	China
+nsubj	higher	stocks
+advmod	higher	close
+root	ROOT	higher
+case	meeting	after
+amod	meeting	economic
+nmod:after	higher	meeting

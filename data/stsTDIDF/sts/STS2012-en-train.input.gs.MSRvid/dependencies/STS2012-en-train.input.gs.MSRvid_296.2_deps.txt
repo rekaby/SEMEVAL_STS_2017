@@ -1,0 +1,10 @@
+det	man	A
+nsubj	performing	man
+aux	performing	is
+root	ROOT	performing
+dobj	performing	tricks
+case	ball	with
+det	ball	a
+compound	ball	soccer
+nmod:with	performing	ball
+punct	performing	.

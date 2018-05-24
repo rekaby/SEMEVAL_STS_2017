@@ -1,0 +1,10 @@
+compound	player	Basketball
+root	ROOT	player
+acl	player	trying
+mark	take	to
+xcomp	trying	take
+det	ball	the
+dobj	take	ball
+case	another	from
+nmod:from	take	another
+punct	player	.

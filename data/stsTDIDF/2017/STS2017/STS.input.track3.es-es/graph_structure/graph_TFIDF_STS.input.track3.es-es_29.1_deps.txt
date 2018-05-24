@@ -1,0 +1,10 @@
+dressed	white	nmod:in
+is	woman	nsubj
+ROOT	parade	root
+parade	.	punct
+stilts	on	case
+parade	is	acl:relcl
+white	in	case
+parade	A	det
+white	stilts	nmod:on
+woman	dressed	acl

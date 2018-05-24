@@ -1,0 +1,8 @@
+det	tiger	A
+nsubj	trys	tiger
+root	ROOT	trys
+mark	climb	to
+xcomp	trys	climb
+det	wall	the
+dobj	climb	wall
+punct	trys	.

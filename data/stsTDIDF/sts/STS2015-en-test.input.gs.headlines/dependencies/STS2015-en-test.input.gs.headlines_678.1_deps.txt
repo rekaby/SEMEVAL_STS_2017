@@ -1,0 +1,10 @@
+compound	rocks	Bomb
+compound	rocks	blast
+nsubj	mall	rocks
+compound	mall	shopping
+root	ROOT	mall
+case	Nigeria	in
+nmod:in	mall	Nigeria
+punct	mall	,
+dep	mall	12
+dep	mall	killed

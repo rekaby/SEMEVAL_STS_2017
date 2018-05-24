@@ -1,0 +1,7 @@
+amod	courses	Online
+nsubj	need	courses
+root	ROOT	need
+amod	element	human
+dobj	need	element
+mark	educate	to
+advcl	need	educate

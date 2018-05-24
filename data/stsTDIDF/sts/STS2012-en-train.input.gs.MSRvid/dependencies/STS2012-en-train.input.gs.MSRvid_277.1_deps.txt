@@ -1,0 +1,9 @@
+det	cub	A
+compound	cub	lion
+nsubj	tries	cub
+root	ROOT	tries
+mark	climb	to
+xcomp	tries	climb
+det	fence	a
+dobj	climb	fence
+punct	tries	.

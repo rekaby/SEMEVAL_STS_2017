@@ -1,0 +1,15 @@
+det	women	A
+nsubj	holds	women
+root	ROOT	holds
+det	dog	a
+amod	dog	small
+dobj	holds	dog
+case	leash	on
+det	leash	a
+nmod:on	holds	leash
+case	chairs	with
+nmod:with	leash	chairs
+case	background	in
+det	background	the
+nmod:in	chairs	background
+punct	holds	.

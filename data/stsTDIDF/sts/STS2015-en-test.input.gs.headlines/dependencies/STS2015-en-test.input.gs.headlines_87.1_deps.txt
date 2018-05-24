@@ -1,0 +1,8 @@
+compound	Rudd	Kevin
+root	ROOT	Rudd
+acl	Rudd	sworn
+case	minister	in
+case	minister	as
+amod	minister	Australian
+amod	minister	prime
+nmod:as	sworn	minister

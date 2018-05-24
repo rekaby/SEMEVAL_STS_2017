@@ -1,0 +1,6 @@
+compound	Street	Coronation
+nmod:poss	Roache	Street
+case	Street	's
+compound	Roache	Bill
+root	ROOT	Roache
+acl	Roache	Arrested

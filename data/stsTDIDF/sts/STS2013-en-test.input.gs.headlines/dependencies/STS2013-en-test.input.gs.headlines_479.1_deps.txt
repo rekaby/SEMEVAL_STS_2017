@@ -1,0 +1,11 @@
+compound	shooting	Denver
+root	ROOT	shooting
+punct	shooting	:
+dep	shooting	Police
+mark	detonate	to
+acl	Police	detonate
+dobj	detonate	devices
+case	home	in
+nmod:poss	home	suspect
+case	suspect	's
+nmod:in	detonate	home

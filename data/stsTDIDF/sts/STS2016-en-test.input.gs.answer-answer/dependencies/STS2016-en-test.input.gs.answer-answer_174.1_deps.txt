@@ -1,0 +1,12 @@
+nsubj	think	I
+root	ROOT	think
+nsubj	great	it
+cop	great	is
+ccomp	think	great
+mark	had	that
+nsubj	had	you
+ccomp	great	had
+det	test	a
+dobj	had	test
+acl	test	conducted
+punct	think	.

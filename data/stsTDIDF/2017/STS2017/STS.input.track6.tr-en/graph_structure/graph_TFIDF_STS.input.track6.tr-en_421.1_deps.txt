@@ -1,0 +1,5 @@
+air	through	case
+rushes	cyclist	nsubj
+cyclist	A	det
+rushes	air	nmod:through
+ROOT	rushes	root

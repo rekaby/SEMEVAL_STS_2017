@@ -1,0 +1,10 @@
+root	ROOT	rhythm
+mark	given	as
+acl	rhythm	given
+case	division	by
+nmod:by	given	division
+case	parts	into
+nmod:into	given	parts
+case	duration	of
+amod	duration	equal
+nmod:of	parts	duration

@@ -1,0 +1,6 @@
+amod	leader	Russian
+compound	leader	opposition
+nsubj	arrest	leader
+case	house	under
+nmod:under	leader	house
+root	ROOT	arrest

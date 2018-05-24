@@ -1,0 +1,16 @@
+nsubj	said	Rolfe
+root	ROOT	said
+compound	Systems	Linksys
+compound	Systems	overtook
+compound	Systems	Cisco
+dobj	said	Systems
+amod	year	last
+nmod:tmod	Systems	year
+dep	year	as
+det	supplier	the
+amod	supplier	leading
+dep	as	supplier
+case	equipment	of
+compound	equipment	WLAN
+nmod:of	supplier	equipment
+punct	said	.

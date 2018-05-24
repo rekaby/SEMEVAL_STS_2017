@@ -1,0 +1,9 @@
+helmet	bicycle	nsubj
+helmet	down	compound:prt
+riding	man	nsubj
+bicycle	blue	amod
+bicycle	a	det
+street	busy	amod
+helmet	street	dobj
+riding	helmet	ccomp
+riding	is	aux

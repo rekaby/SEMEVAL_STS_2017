@@ -1,0 +1,13 @@
+det	woman	A
+amod	woman	smiling
+root	ROOT	woman
+case	beer	with
+det	beer	a
+nmod:with	woman	beer
+acl	beer	sitting
+xcomp	sitting	outside
+case	woman	with
+det	woman	another
+amod	woman	smiling
+nmod:with	sitting	woman
+punct	woman	.

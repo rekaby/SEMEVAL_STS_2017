@@ -1,0 +1,10 @@
+amod	families	Angry
+nsubj	demand	families
+root	ROOT	demand
+dobj	demand	answers
+mark	kills	after
+compound	fire	China
+compound	fire	plant
+nsubj	kills	fire
+acl	answers	kills
+dobj	kills	119

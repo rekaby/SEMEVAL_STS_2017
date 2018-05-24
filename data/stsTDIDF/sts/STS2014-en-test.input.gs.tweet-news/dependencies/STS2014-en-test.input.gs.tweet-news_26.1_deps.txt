@@ -1,0 +1,14 @@
+root	ROOT	NYTimes
+punct	NYTimes	:
+compound	Revkin	Andrew
+dep	NYTimes	Revkin
+case	steps	on
+amod	steps	next
+nmod:on	Revkin	steps
+case	China	for
+nmod:for	steps	China
+mark	cleaning	in
+acl	steps	cleaning
+compound:prt	cleaning	up
+dobj	cleaning	pollution
+punct	NYTimes	.

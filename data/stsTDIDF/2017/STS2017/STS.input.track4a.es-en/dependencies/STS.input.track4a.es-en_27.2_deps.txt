@@ -1,0 +1,8 @@
+nsubj	cheering	They
+aux	cheering	are
+root	ROOT	cheering
+case	team	for
+nmod:poss	team	their
+amod	team	favorite
+nmod:for	cheering	team
+punct	cheering	.

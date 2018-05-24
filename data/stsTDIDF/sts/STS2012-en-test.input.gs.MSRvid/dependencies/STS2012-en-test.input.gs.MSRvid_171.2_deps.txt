@@ -1,0 +1,7 @@
+det	man	A
+nsubj	dancing	man
+cc	man	and
+conj:and	man	woman
+aux	dancing	is
+root	ROOT	dancing
+punct	dancing	.

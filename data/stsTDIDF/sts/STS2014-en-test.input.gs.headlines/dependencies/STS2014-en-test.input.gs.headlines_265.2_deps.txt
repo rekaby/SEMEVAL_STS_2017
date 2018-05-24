@@ -1,0 +1,12 @@
+root	ROOT	Protests
+cc	Protests	and
+conj:and	Protests	appeals
+case	calm	for
+nmod:for	Protests	calm
+mark	acquitted	after
+nsubj	acquitted	Zimmerman
+acl	calm	acquitted
+case	murder	of
+compound	murder	Trayvon
+compound	murder	Martin
+nmod:of	acquitted	murder

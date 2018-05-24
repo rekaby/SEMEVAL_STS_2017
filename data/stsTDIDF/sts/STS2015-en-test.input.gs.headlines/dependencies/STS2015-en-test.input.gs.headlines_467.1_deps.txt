@@ -1,0 +1,7 @@
+root	ROOT	Iran
+punct	Iran	,
+root	,	sextet
+mark	resume	to
+acl	sextet	resume
+amod	talks	expert
+dobj	resume	talks

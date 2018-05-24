@@ -1,0 +1,15 @@
+det	period	the
+root	ROOT	period
+case	which	during
+nmod:during	functional	which
+nsubj	functional	something
+cop	functional	is
+acl:relcl	period	functional
+punct	birth	-LRB-
+case	birth	as
+case	birth	between
+dep	functional	birth
+cc	birth	and
+conj:and	birth	death
+punct	birth	-RRB-
+punct	period	;

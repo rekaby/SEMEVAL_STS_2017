@@ -1,0 +1,9 @@
+nsubj	Supports	Government
+case	Canada	of
+nmod:of	Government	Canada
+root	ROOT	Supports
+nmod:poss	Safety	Women
+case	Women	's
+dobj	Supports	Safety
+case	Regina	in
+nmod:in	Supports	Regina

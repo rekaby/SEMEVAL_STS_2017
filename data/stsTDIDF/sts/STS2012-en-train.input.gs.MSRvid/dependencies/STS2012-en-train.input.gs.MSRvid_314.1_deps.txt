@@ -1,0 +1,8 @@
+det	man	A
+root	ROOT	man
+dep	man	laying
+compound:prt	laying	down
+cc	laying	and
+conj:and	laying	shooting
+det	gun	a
+dobj	shooting	gun

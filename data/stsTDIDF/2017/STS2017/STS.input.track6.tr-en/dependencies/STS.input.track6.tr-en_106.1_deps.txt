@@ -1,0 +1,10 @@
+det	woman	A
+nsubj	examines	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	pink
+nmod:in	woman	shirt
+root	ROOT	examines
+nmod:poss	camera	her
+dobj	examines	camera
+punct	examines	.

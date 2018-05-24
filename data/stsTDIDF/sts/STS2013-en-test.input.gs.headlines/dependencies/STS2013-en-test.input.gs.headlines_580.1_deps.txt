@@ -1,0 +1,6 @@
+compound	worker	Red
+compound	worker	Cross
+nsubj	killed	worker
+root	ROOT	killed
+case	Pakistan	in
+nmod:in	killed	Pakistan

@@ -1,0 +1,8 @@
+nsubj	dies	Man
+root	ROOT	dies
+case	operation	in
+amod	operation	French
+punct	operation	`
+amod	operation	anti-terror
+nmod:in	dies	operation
+punct	dies	'

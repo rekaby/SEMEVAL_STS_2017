@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	running	boy
+aux	running	is
+root	ROOT	running
+case	mother	towards
+nmod:poss	mother	his
+nmod:towards	running	mother
+punct	running	.

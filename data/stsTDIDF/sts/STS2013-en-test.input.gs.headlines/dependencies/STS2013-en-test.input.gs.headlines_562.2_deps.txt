@@ -1,0 +1,7 @@
+nsubj	lies	Peace
+root	ROOT	lies
+case	China	over
+det	China	the
+compound	China	South
+nmod:over	lies	China
+dobj	lies	Sea

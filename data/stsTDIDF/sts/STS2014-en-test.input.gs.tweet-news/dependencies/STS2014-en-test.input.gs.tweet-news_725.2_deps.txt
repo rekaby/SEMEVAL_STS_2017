@@ -1,0 +1,7 @@
+root	ROOT	Parents
+punct	Parents	?-2) compound(Support-2, Financial
+root	ROOT	Support
+acl	Support	Linked
+case	College	to
+nmod:to	Linked	College
+dep	Linked	Grades

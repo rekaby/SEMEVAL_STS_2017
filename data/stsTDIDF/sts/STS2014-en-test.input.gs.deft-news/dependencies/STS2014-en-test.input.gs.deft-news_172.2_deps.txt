@@ -1,0 +1,14 @@
+det	defendants	the
+nsubj	smuggled	defendants
+root	ROOT	smuggled
+advmod	11	more
+mwe	more	than
+nummod	kilograms	11
+dobj	smuggled	kilograms
+punct	pounds	-LRB-
+nummod	pounds	24
+appos	kilograms	pounds
+punct	pounds	-RRB-
+case	heroin	of
+nmod:of	kilograms	heroin
+punct	smuggled	.

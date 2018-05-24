@@ -1,0 +1,12 @@
+det	name	a
+root	ROOT	name
+cc	name	or
+conj:or	name	trait
+nsubj	identifies	that
+acl:relcl	name	identifies
+det	product	a
+dobj	identifies	product
+cc	product	or
+conj:or	product	type
+case	thing	of
+nmod:of	product	thing

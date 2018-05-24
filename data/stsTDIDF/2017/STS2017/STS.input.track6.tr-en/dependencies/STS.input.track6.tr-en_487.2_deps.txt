@@ -1,0 +1,6 @@
+det	man	A
+nsubj	climbing	man
+aux	climbing	is
+root	ROOT	climbing
+det	ditch	a
+dobj	climbing	ditch

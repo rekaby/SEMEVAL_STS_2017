@@ -1,0 +1,9 @@
+compound	troop	NATO
+compound	troop	US
+nsubj	detained	troop
+root	ROOT	detained
+case	shooting	over
+nmod:over	detained	shooting
+case	civilians	of
+compound	civilians	Afghan
+nmod:of	shooting	civilians

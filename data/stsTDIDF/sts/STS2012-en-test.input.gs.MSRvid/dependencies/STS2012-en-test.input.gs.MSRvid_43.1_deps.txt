@@ -1,0 +1,8 @@
+det	rabbit	A
+nsubj	running	rabbit
+aux	running	is
+root	ROOT	running
+case	eagle	from
+det	eagle	an
+nmod:from	running	eagle
+punct	running	.

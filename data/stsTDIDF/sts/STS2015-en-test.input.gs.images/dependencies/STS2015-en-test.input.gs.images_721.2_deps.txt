@@ -1,0 +1,11 @@
+det	tan	The
+nsubj	running	tan
+cc	tan	and
+amod	dog	black
+conj:and	tan	dog
+aux	running	is
+root	ROOT	running
+case	grass	across
+det	grass	the
+nmod:across	running	grass
+punct	running	.

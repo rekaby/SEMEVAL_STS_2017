@@ -1,0 +1,8 @@
+nsubj	take	Obama
+cc	Obama	and
+conj:and	Obama	Romney
+root	ROOT	take
+dobj	take	stage
+case	debate	for
+amod	debate	first
+nmod:for	take	debate

@@ -1,0 +1,15 @@
+det	legislators	The
+nsubj	refused	legislators
+advmod	refused	thus
+root	ROOT	refused
+mark	support	to
+xcomp	refused	support
+compound	Bush	President
+compound	Bush	George
+nmod:poss	call	Bush
+case	Bush	's
+dobj	support	call
+case	project	to
+det	project	the
+nmod:to	call	project
+punct	refused	.

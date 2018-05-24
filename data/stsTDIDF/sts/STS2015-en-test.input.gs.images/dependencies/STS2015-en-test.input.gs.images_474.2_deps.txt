@@ -1,0 +1,7 @@
+det	rolls	A
+compound	rolls	dog
+root	ROOT	rolls
+case	ground	on
+det	ground	the
+nmod:on	rolls	ground
+punct	rolls	.

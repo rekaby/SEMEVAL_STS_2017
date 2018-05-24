@@ -1,0 +1,8 @@
+compound	workers	Kitchen
+nsubj	preparing	workers
+aux	preparing	are
+root	ROOT	preparing
+case	dinner	for
+nmod:for	preparing	dinner
+nmod:tmod	dinner	tonight
+punct	preparing	.

@@ -1,0 +1,6 @@
+compound	Votes	Crimean
+compound	Votes	Parliament
+root	ROOT	Votes
+mark	Join	to
+acl	Votes	Join
+dobj	Join	Russia

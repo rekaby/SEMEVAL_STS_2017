@@ -1,0 +1,7 @@
+nummod	Qaeda	Three
+compound	Qaeda	al
+nsubj	suspects	Qaeda
+root	ROOT	suspects
+xcomp	suspects	arrested
+case	Spain	in
+nmod:in	arrested	Spain

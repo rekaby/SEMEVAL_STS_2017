@@ -1,0 +1,16 @@
+compound	FM	RF
+nsubj	urges	FM
+root	ROOT	urges
+amod	opposition	Syrian
+dobj	urges	opposition
+mark	assist	to
+xcomp	urges	assist
+case	release	in
+amod	release	immediate
+nmod:in	assist	release
+case	foreigners	of
+det	foreigners	all
+nmod:of	release	foreigners
+acl	foreigners	captured
+case	Syria	in
+nmod:in	captured	Syria

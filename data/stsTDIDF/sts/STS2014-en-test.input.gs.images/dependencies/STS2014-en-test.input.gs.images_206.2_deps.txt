@@ -1,0 +1,12 @@
+nummod	woman	Two
+amod	woman	Indian
+nsubj	stand	woman
+root	ROOT	stand
+case	girls	with
+nummod	girls	two
+amod	girls	Indian
+nmod:with	stand	girls
+case	beach	on
+det	beach	a
+nmod:on	stand	beach
+punct	stand	.

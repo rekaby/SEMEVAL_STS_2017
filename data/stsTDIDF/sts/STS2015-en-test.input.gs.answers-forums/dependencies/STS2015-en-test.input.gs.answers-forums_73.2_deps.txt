@@ -1,0 +1,14 @@
+nsubj	act	Inclusion
+cop	act	is
+det	act	the
+root	ROOT	act
+mark	act	of
+dep	act	including
+cc	including	and
+conj:and	including	exclusion
+cop	act	is
+det	act	the
+acl	act	act
+mark	excluding	of
+advcl	act	excluding
+punct	act	.

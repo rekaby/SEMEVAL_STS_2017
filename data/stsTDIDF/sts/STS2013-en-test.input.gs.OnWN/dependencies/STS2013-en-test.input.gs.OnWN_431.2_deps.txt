@@ -1,0 +1,9 @@
+det	enclosure	a
+amod	enclosure	public
+root	ROOT	enclosure
+case	stray	for
+nmod:for	enclosure	stray
+cc	stray	or
+amod	dogs	unlicensed
+conj:or	stray	dogs
+punct	enclosure	.

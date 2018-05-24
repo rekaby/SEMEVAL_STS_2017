@@ -1,0 +1,5 @@
+walking	street	nmod:down
+walking	People	nsubj
+day	sunny	amod
+street	down	case
+walking	day	nmod:on

@@ -1,0 +1,15 @@
+det	boy	The
+nsubj	ready	boy
+cop	ready	is
+root	ROOT	ready
+mark	take	to
+xcomp	ready	take
+det	swing	a
+dobj	take	swing
+case	ball	at
+det	ball	a
+nmod:at	take	ball
+advcl	take	using
+det	bat	a
+dobj	using	bat
+punct	ready	.

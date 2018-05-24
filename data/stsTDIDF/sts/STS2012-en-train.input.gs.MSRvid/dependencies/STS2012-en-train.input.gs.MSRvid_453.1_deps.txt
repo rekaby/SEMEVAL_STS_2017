@@ -1,0 +1,6 @@
+det	gun	A
+nsubjpass	fired	gun
+aux	fired	is
+auxpass	fired	being
+root	ROOT	fired
+punct	fired	.

@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	make	people
+root	ROOT	make
+dobj	make	love
+case	grass	in
+det	grass	the
+nmod:in	love	grass
+punct	make	.

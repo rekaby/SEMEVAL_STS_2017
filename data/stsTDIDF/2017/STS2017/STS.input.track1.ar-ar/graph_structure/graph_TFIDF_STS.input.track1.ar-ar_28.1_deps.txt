@@ -1,0 +1,9 @@
+ROOT	Electrician	root
+surface	in	case
+Electrician	.	punct
+pole	on	case
+install	wiring	dobj
+Electrician	install	acl
+install	surface	nmod:in
+pole	a	det
+install	pole	nmod:on

@@ -1,0 +1,6 @@
+amod	cover	decorative
+root	ROOT	cover
+case	bed	for
+det	bed	a
+nmod:for	cover	bed
+punct	cover	.

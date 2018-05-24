@@ -1,0 +1,5 @@
+amod	carriers	More
+root	ROOT	carriers
+amod	carriers	likely
+case	China	in
+nmod:in	likely	China

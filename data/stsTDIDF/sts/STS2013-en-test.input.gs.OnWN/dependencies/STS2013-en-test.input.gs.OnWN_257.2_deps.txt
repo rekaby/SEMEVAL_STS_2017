@@ -1,0 +1,6 @@
+root	ROOT	cover
+cc	cover	or
+conj:or	cover	swamp
+case	water	with
+nmod:with	cover	water
+punct	cover	.

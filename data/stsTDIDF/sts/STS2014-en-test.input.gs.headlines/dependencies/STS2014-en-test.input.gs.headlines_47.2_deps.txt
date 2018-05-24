@@ -1,0 +1,11 @@
+compound	crashes	Boeing
+compound	crashes	airliner
+nsubj	killed	crashes
+case	city	in
+amod	city	Russian
+nmod:in	crashes	city
+case	Kazan	of
+nmod:of	city	Kazan
+punct	crashes	,
+appos	crashes	50
+root	ROOT	killed

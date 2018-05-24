@@ -1,0 +1,6 @@
+compound	man	Skater
+root	ROOT	man
+amod	incline	steeper
+dep	man	incline
+advmod	incline	sharply
+punct	man	.

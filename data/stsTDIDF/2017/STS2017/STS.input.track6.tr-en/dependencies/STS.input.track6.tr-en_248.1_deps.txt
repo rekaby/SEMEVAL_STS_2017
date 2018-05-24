@@ -1,0 +1,11 @@
+expl	are	There
+root	ROOT	are
+nummod	participants	70
+nsubj	are	participants
+case	team	on
+det	team	each
+nmod:on	participants	team
+case	field	on
+det	field	the
+nmod:on	team	field
+punct	are	.

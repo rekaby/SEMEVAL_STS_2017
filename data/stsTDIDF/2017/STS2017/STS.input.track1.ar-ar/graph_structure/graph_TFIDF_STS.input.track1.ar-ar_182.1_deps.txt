@@ -1,0 +1,10 @@
+seen	event	dobj
+characters	Chinese	amod
+characters	background	compound
+man	Asian	amod
+event	decorations	nmod:of
+seen	man	nsubj
+decorations	of	case
+decorations	many	amod
+characters	in	case
+event	characters	nmod:in

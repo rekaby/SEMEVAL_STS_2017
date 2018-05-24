@@ -1,0 +1,12 @@
+det	plane	A
+amod	plane	red
+cc	red	and
+conj:and	red	blue
+root	ROOT	plane
+acl	plane	flying
+case	gears	with
+nmod:poss	gears	its
+compound	gears	landing
+nmod:with	flying	gears
+advmod	flying	down
+punct	plane	.

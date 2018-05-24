@@ -1,0 +1,10 @@
+built	bird	nmod:in
+built	being	auxpass
+built	mouth	nmod:in
+bird	snow	compound
+bird	dish	compound
+bird	the	det
+built	is	aux
+mouth	his	nmod:poss
+built	dog	nsubjpass
+bird	in	case

@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	sits	dog
+root	ROOT	sits
+case	paws	with
+nmod:poss	paws	its
+nmod:with	sits	paws
+case	computer	on
+det	computer	a
+amod	computer	laptop
+nmod:on	sits	computer
+punct	sits	.

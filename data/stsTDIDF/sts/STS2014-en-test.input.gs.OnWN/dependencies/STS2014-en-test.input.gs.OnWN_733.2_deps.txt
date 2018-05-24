@@ -1,0 +1,7 @@
+det	amount	the
+root	ROOT	amount
+case	which	by
+nmod:by	decreases	which
+nsubj	decreases	something
+acl:relcl	amount	decreases
+punct	amount	.

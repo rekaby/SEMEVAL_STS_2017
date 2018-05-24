@@ -1,0 +1,10 @@
+case	Pakistan	In
+nmod:in	adamant	Pakistan
+punct	adamant	,
+nsubj	adamant	army
+root	ROOT	adamant
+mark	fighting	on
+advcl	adamant	fighting
+det	Taliban	the
+amod	Taliban	other
+dobj	fighting	Taliban

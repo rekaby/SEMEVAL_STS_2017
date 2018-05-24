@@ -1,0 +1,7 @@
+compound	triumphs	Bradley
+nsubj	fades	triumphs
+case	Firestone	at
+nmod:at	triumphs	Firestone
+case	Furyk	as
+nmod:as	triumphs	Furyk
+root	ROOT	fades

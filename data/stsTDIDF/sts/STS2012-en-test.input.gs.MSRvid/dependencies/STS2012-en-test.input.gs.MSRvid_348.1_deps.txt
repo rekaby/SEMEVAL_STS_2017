@@ -1,0 +1,7 @@
+det	man	A
+nsubj	jumping	man
+aux	jumping	is
+root	ROOT	jumping
+det	wall	a
+dobj	jumping	wall
+punct	jumping	.

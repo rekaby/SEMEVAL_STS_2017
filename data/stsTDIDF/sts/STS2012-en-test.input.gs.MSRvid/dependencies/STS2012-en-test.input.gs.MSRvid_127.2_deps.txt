@@ -1,0 +1,7 @@
+det	man	A
+nsubj	eating	man
+cc	man	and
+conj:and	man	woman
+aux	eating	is
+root	ROOT	eating
+punct	eating	.

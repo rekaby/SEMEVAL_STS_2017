@@ -1,0 +1,8 @@
+det	woman	A
+root	ROOT	woman
+cc	woman	and
+conj:and	woman	man
+case	bench	on
+det	bench	a
+nmod:on	woman	bench
+punct	woman	.

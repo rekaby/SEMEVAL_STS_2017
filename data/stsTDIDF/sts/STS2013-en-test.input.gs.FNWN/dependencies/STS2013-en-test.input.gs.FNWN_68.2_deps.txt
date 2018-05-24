@@ -1,0 +1,6 @@
+dep	alive	have
+dobj	have	life
+punct	alive	,
+cop	alive	be
+root	ROOT	alive
+punct	alive	;

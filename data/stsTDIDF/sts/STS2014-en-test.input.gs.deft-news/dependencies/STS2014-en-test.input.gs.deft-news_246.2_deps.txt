@@ -1,0 +1,17 @@
+det	states	the
+amod	states	united
+nsubj	believe	states
+cc	states	and
+det	allies	the
+conj:and	states	allies
+case	states	of
+det	states	the
+amod	states	united
+nmod:of	allies	states
+root	ROOT	believe
+nsubj	pursuing	iran
+aux	pursuing	is
+ccomp	believe	pursuing
+amod	arms	nuclear
+dobj	pursuing	arms
+punct	believe	.

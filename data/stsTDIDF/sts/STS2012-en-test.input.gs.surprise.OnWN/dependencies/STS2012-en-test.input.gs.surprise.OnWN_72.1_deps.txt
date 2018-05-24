@@ -1,0 +1,6 @@
+root	ROOT	emit
+cc	emit	or
+conj:or	emit	cause
+mark	emit	to
+xcomp	cause	emit
+dobj	emit	noise

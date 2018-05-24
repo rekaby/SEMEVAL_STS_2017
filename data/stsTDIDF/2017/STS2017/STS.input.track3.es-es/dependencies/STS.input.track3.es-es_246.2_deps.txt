@@ -1,0 +1,14 @@
+det	man	A
+nsubj	carries	man
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	man	shirt
+root	ROOT	carries
+det	bag	a
+dobj	carries	bag
+case	shoulder	over
+nmod:poss	shoulder	his
+amod	shoulder	right
+nmod:over	carries	shoulder
+punct	carries	.

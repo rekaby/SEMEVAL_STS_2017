@@ -1,0 +1,14 @@
+det	answer	This
+nsubjpass	based	answer
+auxpass	based	is
+root	ROOT	based
+case	math	on
+nmod:poss	math	my
+compound	math	experience
+compound	math	teaching
+amod	math	undergraduate
+nmod:on	based	math
+case	US	in
+det	US	the
+nmod:in	math	US
+punct	based	.

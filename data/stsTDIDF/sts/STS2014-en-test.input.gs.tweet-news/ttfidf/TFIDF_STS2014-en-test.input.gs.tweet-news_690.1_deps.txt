@@ -1,0 +1,16 @@
+punct Read .-3) amod(Parents-6, Agree	15.060439779775294
+punct Parents -	15.060439779775294
+advmod Parents Mostly	15.060439779775294
+punct Parents ?-7) root(ROOT-0, Financial	15.060439779775294
+dep Financial Support	15.060439779775294
+punct Financial ''	15.060439779775294
+amod Read Good	14.367292599215348
+punct Parents :	13.674145418655403
+nsubj Help May	13.674145418655403
+neg Help Not	13.674145418655403
+acl:relcl Support Help	13.674145418655403
+compound Grades College	13.674145418655403
+dobj Help Grades	13.674145418655403
+punct Parents ''	13.26868031054724
+root ROOT Parents	12.757854686781249
+root ROOT Read	10.527840286622038

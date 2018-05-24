@@ -1,0 +1,8 @@
+nummod	cable	One
+nsubj	larger	cable
+cop	larger	is
+root	ROOT	larger
+case	other	than
+det	other	the
+nmod:than	larger	other
+punct	larger	.

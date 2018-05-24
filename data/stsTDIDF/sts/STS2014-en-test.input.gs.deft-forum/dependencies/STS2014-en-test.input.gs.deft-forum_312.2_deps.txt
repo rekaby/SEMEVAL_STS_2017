@@ -1,0 +1,14 @@
+root	ROOT	Irreligion
+nsubj	do	that
+aux	do	does
+neg	do	n't
+acl:relcl	Irreligion	do
+mark	have	that
+nsubj	have	I
+aux	have	do
+neg	have	n't
+ccomp	do	have
+det	problem	a
+dobj	have	problem
+nmod	have	with
+punct	Irreligion	.

@@ -1,0 +1,14 @@
+det	works	What
+nsubj	is	works
+case	me	for
+nmod:for	works	me
+root	ROOT	is
+mark	switch	to
+xcomp	is	switch
+det	subjects	the
+dobj	switch	subjects
+cc	switch	and
+conj:and	switch	take
+amod	breaks	frequent
+dobj	take	breaks
+punct	is	.

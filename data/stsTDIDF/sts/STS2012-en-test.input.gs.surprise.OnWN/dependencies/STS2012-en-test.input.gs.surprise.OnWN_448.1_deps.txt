@@ -1,0 +1,4 @@
+root	ROOT	making
+dobj	making	real
+cc	real	or
+conj:or	real	concrete

@@ -1,0 +1,9 @@
+compound	Found	Gun
+root	ROOT	Found
+case	7-Year-Old	in
+nmod:in	Found	7-Year-Old
+punct	Found	?-5) compound(Backpack-2, s
+nsubj	School	Backpack
+case	Queens	at
+nmod:at	Backpack	Queens
+root	ROOT	School

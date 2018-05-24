@@ -1,0 +1,8 @@
+compound	Merkel	Angela
+nsubj	wins	Merkel
+root	ROOT	wins
+amod	term	third
+dobj	wins	term
+case	elections	in
+amod	elections	German
+nmod:in	term	elections

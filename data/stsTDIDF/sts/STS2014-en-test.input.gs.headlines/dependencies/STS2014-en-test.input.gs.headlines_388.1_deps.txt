@@ -1,0 +1,7 @@
+compound	Linked	Birth
+compound	Linked	Control
+nsubj	Risk	Linked
+case	Glaucoma	With
+amod	Glaucoma	Higher
+nmod:with	Linked	Glaucoma
+root	ROOT	Risk

@@ -1,0 +1,9 @@
+root	ROOT	Give
+det	affectation	a
+amod	affectation	performative
+dobj	Give	affectation
+case	something	to
+punct	something	-LRB-
+nmod:to	Give	something
+punct	something	-RRB-
+punct	Give	.

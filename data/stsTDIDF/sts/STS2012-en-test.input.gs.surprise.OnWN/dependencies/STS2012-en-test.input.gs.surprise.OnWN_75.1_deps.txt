@@ -1,0 +1,4 @@
+root	ROOT	head
+case	country	of
+det	country	a
+nmod:of	head	country

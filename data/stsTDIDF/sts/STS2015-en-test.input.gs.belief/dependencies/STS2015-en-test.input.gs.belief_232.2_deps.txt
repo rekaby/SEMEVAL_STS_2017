@@ -1,0 +1,8 @@
+nsubj	read	you
+aux	read	can
+root	ROOT	read
+case	case	about
+det	case	the
+nmod:about	read	case
+advmod	case	below
+punct	read	.

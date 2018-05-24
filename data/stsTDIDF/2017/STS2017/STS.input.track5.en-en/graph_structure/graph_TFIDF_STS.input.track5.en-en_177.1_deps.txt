@@ -1,0 +1,4 @@
+window	near	case
+man	older	amod
+is	man	nsubj
+is	window	nmod:near

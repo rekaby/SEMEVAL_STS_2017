@@ -1,0 +1,7 @@
+amod	boat	Small
+nsubj	going	boat
+root	ROOT	going
+compound:prt	going	down
+det	creek	a
+dobj	going	creek
+punct	going	.

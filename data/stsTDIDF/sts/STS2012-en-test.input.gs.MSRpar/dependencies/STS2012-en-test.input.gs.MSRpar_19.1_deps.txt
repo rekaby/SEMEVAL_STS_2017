@@ -1,0 +1,15 @@
+compound	Davis	Governor
+compound	Davis	Gray
+nsubj	estimated	Davis
+root	ROOT	estimated
+nmod:tmod	estimated	yesterday
+mark	cost	that
+det	fires	the
+nsubj	cost	fires
+aux	cost	could
+ccomp	estimated	cost
+advmod	$	nearly
+dobj	cost	$
+compound	billion	2
+nummod	$	billion
+punct	estimated	.

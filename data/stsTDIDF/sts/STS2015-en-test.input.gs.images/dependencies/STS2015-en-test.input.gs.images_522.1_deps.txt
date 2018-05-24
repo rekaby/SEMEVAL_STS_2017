@@ -1,0 +1,14 @@
+det	boy	A
+nsubj	jumping	boy
+aux	jumping	is
+root	ROOT	jumping
+case	water	into
+det	water	the
+nmod:into	jumping	water
+case	ball	with
+det	ball	a
+nmod:with	jumping	ball
+case	hand	in
+nmod:poss	hand	his
+nmod:in	ball	hand
+punct	jumping	.

@@ -1,0 +1,13 @@
+det	woman	A
+nsubj	typing	woman
+case	shirt	in
+det	shirt	a
+amod	shirt	blue
+nmod:in	woman	shirt
+cop	typing	is
+root	ROOT	typing
+case	computer	on
+det	computer	a
+amod	computer	laptop
+nmod:on	typing	computer
+punct	typing	.

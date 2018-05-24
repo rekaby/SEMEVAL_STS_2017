@@ -1,0 +1,10 @@
+case	Garden	In
+det	Garden	the
+nmod:in	Ready	Garden
+punct	Ready	:
+compound	Ready	Camellias
+root	ROOT	Ready
+case	Cold	for
+det	Cold	a
+nmod:for	Ready	Cold
+dep	Ready	Snap

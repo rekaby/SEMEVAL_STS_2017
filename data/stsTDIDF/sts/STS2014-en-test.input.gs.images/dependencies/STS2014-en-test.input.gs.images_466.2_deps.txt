@@ -1,0 +1,10 @@
+nummod	people	Four
+nsubj	sitting	people
+aux	sitting	are
+root	ROOT	sitting
+case	with.snacks	around
+det	with.snacks	a
+amod	with.snacks	living
+compound	with.snacks	room
+nmod:around	sitting	with.snacks
+punct	sitting	.

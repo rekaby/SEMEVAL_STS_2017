@@ -1,0 +1,12 @@
+shorts	and	cc
+shorts	in	case
+Woman	shorts	nmod:in
+Woman	,	punct
+,	watching	root
+ROOT	Woman	root
+men	seated	amod
+perform	someone	nsubj
+shorts	t-shirt	conj:and
+watching	perform	ccomp
+t-shirt	a	det
+t-shirt	men	nmod:with

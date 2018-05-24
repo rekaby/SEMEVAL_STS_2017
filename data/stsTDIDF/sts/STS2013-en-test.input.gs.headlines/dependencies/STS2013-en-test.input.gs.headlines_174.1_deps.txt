@@ -1,0 +1,6 @@
+nsubj	drops	Breivik
+root	ROOT	drops
+amod	salute	far-right
+dobj	drops	salute
+case	court	in
+nmod:in	drops	court

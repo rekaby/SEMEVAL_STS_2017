@@ -1,0 +1,14 @@
+det	child	A
+root	ROOT	child
+case	uniform	in
+det	uniform	a
+amod	uniform	blue
+cc	blue	and
+conj:and	blue	white
+compound	uniform	team
+nmod:in	child	uniform
+acl	uniform	chasing
+det	ball	a
+compound	ball	soccer
+dobj	chasing	ball
+punct	child	.

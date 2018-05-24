@@ -1,0 +1,5 @@
+nummod	earthquake	180
+acl	180	killed
+case	Iran	in
+nmod:in	killed	Iran
+root	ROOT	earthquake

@@ -1,0 +1,12 @@
+det	act	the
+root	ROOT	act
+mark	applying	of
+acl	act	applying
+dobj	applying	force
+mark	move	in
+mwe	in	order
+mark	move	to
+advcl	applying	move
+dobj	move	something
+advmod	move	away
+punct	act	.

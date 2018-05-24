@@ -1,0 +1,16 @@
+det	document	A
+nsubjpass	represented	document
+auxpass	represented	is
+root	ROOT	represented
+case	vector	as
+det	vector	a
+nmod:as	represented	vector
+cc	vector	and
+det	dimension	each
+conj:and	vector	dimension
+xcomp	represented	corresponds
+case	term	to
+det	term	a
+amod	term	separate
+nmod:to	corresponds	term
+punct	represented	.

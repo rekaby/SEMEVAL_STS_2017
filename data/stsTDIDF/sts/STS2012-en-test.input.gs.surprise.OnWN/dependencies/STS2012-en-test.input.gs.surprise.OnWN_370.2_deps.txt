@@ -1,0 +1,8 @@
+root	ROOT	strike
+advmod	strike	sharply
+punct	strike	,
+case	sports	as
+case	sports	in
+det	sports	some
+nmod:in	strike	sports
+punct	strike	.

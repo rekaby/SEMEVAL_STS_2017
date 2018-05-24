@@ -1,0 +1,14 @@
+root	ROOT	Sheriff
+punct	Sheriff	:
+nsubj	enforce	I
+aux	enforce	wo
+neg	enforce	n't
+dep	Sheriff	enforce
+nmod:poss	laws	Obama
+case	Obama	's
+compound	laws	gun
+dobj	enforce	laws
+punct	Sheriff	.-11) root(ROOT-0, Good
+case	him	for
+nmod:for	Good	him
+punct	Good	.

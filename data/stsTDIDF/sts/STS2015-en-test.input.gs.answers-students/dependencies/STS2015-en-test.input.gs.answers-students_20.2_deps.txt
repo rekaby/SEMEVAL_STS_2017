@@ -1,0 +1,11 @@
+expl	is	There
+root	ROOT	is
+neg	gap	no
+nsubj	is	gap
+case	5	between
+amod	5	terminal
+nmod:between	gap	5
+cc	5	and
+det	terminal	the
+amod	terminal	positive
+conj:and	5	terminal

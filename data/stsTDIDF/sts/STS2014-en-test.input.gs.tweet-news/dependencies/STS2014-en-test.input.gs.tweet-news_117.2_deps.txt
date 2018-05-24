@@ -1,0 +1,7 @@
+det	lines	The
+compound	lines	front
+root	ROOT	lines
+case	fight	in
+nmod:in	lines	fight
+case	women	for
+nmod:for	fight	women

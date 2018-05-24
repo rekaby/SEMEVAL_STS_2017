@@ -1,0 +1,7 @@
+det	part	The
+amod	part	upper
+root	ROOT	part
+case	column	of
+det	column	a
+nmod:of	part	column
+punct	part	.

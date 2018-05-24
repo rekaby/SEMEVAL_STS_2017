@@ -1,0 +1,13 @@
+det	group	A
+nsubj	served	group
+case	people	of
+nummod	people	six
+nmod:of	group	people
+acl	people	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+case	salad	with
+nmod:with	table	salad
+root	ROOT	served
+punct	served	.

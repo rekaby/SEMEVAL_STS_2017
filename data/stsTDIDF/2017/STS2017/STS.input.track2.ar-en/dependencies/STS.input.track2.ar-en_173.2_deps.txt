@@ -1,0 +1,10 @@
+compound	suit	Woman
+root	ROOT	suit
+acl	suit	talking
+case	man	to
+det	man	a
+nmod:to	talking	man
+case	bench	on
+det	bench	a
+nmod:on	talking	bench
+punct	suit	.

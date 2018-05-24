@@ -1,0 +1,8 @@
+nsubj	culture	They
+cop	culture	are
+root	ROOT	culture
+punct	culture	,
+amod	culture	poor
+cc	poor	and
+conj:and	poor	sick
+punct	culture	.

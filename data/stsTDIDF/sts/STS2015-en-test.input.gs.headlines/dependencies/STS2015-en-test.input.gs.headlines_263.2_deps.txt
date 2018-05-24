@@ -1,0 +1,13 @@
+nsubj	Cast	Obama
+cc	Obama	and
+conj:and	Obama	O'Brien
+root	ROOT	Cast
+nmod:poss	Versions	Their
+dobj	Cast	Versions
+case	Dinner	of
+compound	Correspondents	D.C.
+compound	Correspondents	White
+compound	Correspondents	House
+nmod:poss	Dinner	Correspondents
+case	Correspondents	'
+nmod:of	Versions	Dinner

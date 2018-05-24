@@ -1,0 +1,17 @@
+nsubj	raises	Rotate
+case	square	through
+nmod:through	Rotate	square
+punct	Rotate	,
+conj:and	Rotate	lunges
+cc	Rotate	and
+conj:and	Rotate	calf
+root	ROOT	raises
+xcomp	raises	doing
+dobj	doing	each
+mark	feel	until
+nsubj	feel	you
+advcl	raises	feel
+det	little	a
+nsubj	burn	little
+ccomp	feel	burn
+punct	raises	.

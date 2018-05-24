@@ -1,0 +1,7 @@
+nsubj	limits	Cuba
+root	ROOT	limits
+dobj	limits	travel
+case	athletes	for
+nmod:for	travel	athletes
+punct	limits	,
+dep	limits	workers

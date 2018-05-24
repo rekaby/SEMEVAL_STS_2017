@@ -1,0 +1,7 @@
+det	plane	A
+nsubjpass	readied	plane
+auxpass	readied	being
+root	ROOT	readied
+case	take-off	for
+nmod:for	readied	take-off
+punct	readied	.

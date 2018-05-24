@@ -1,0 +1,16 @@
+det	man	A
+nsubj	bending	man
+aux	bending	is
+root	ROOT	bending
+compound:prt	bending	down
+case	park	in
+det	park	a
+nmod:in	bending	park
+case	woman	next
+mwe	next	to
+det	woman	a
+nmod:next_to	park	woman
+case	bike	on
+det	bike	a
+nmod:on	woman	bike
+punct	bending	.

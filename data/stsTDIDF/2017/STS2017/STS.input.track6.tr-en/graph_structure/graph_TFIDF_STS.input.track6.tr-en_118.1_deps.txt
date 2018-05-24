@@ -1,0 +1,8 @@
+umbrellas	their	nmod:poss
+umbrellas	child	compound
+rain	through	case
+rain	umbrellas	nmod:with
+umbrellas	with	case
+walks	rain	nmod:through
+walks	couple	nsubj
+umbrellas	holding	amod

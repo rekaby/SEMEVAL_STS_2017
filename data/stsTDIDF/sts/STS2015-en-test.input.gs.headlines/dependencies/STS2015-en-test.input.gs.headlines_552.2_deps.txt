@@ -1,0 +1,8 @@
+punct	found	`
+compound	Monteith	Glee
+punct	Monteith	'
+compound	Monteith	star
+compound	Monteith	Cory
+nsubj	found	Monteith
+root	ROOT	found
+xcomp	found	dead

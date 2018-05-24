@@ -1,0 +1,17 @@
+root	ROOT	women
+dep	women	have
+punct	have	`
+root	`	taken
+nmod:poss	posts	their
+dobj	taken	posts
+case	calm	with
+amod	calm	such
+amod	calm	seamless
+nmod:with	posts	calm
+dobj	noticed	that
+det	country	the
+nsubj	noticed	country
+advmod	noticed	barely
+acl:relcl	calm	noticed
+punct	taken	.
+punct	taken	'

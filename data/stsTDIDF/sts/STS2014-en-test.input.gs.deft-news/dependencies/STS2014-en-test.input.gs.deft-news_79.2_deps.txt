@@ -1,0 +1,14 @@
+amod	officials	syrian
+cc	syrian	and
+conj:and	syrian	russian
+nsubj	signed	officials
+root	ROOT	signed
+det	agreement	an
+dobj	signed	agreement
+case	cooperation	of
+nmod:of	agreement	cooperation
+case	trafficking	in
+amod	trafficking	combating
+compound	trafficking	drug
+nmod:in	agreement	trafficking
+punct	signed	.

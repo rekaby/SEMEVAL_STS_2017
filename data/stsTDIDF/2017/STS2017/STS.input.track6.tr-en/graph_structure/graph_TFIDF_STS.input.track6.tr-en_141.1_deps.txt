@@ -1,0 +1,5 @@
+pray	church	nmod:in
+likes	James	nsubj
+likes	pray	xcomp
+church	in	case
+pray	to	mark

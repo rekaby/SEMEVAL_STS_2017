@@ -1,0 +1,6 @@
+root	ROOT	close
+case	motion	with
+det	motion	a
+amod	motion	snapping
+nmod:with	close	motion
+punct	close	.

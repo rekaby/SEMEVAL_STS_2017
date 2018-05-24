@@ -1,0 +1,9 @@
+root	ROOT	Fix
+cc	Fix	or
+conj:or	Fix	set
+det	object	a
+amod	object	physical
+dobj	set	object
+advmod	object	securely
+cc	Fix	or
+conj:or	Fix	depeply

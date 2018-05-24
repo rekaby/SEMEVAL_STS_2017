@@ -1,0 +1,6 @@
+root	ROOT	act
+mark	moving	of
+acl	act	moving
+cc	moving	or
+conj:or	moving	conveying
+dobj	moving	something

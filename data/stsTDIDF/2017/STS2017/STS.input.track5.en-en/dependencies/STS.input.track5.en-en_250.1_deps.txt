@@ -1,0 +1,8 @@
+det	woman	The
+nsubj	waiting	woman
+aux	waiting	is
+root	ROOT	waiting
+case	date	for
+nmod:poss	date	her
+nmod:for	waiting	date
+punct	waiting	.

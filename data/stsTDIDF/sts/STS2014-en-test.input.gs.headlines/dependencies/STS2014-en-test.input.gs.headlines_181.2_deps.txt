@@ -1,0 +1,9 @@
+compound	Senate	U.S.
+nsubj	set	Senate
+root	ROOT	set
+mark	vote	to
+xcomp	set	vote
+case	bill	on
+compound	bill	gun
+compound	bill	control
+nmod:on	vote	bill

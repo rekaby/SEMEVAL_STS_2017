@@ -1,0 +1,11 @@
+root	ROOT	Officials
+punct	Officials	:
+compound	man	Gaza
+dep	Officials	man
+acl	man	killed
+case	airstrike	in
+amod	airstrike	Israeli
+nmod:in	killed	airstrike
+punct	AP	-LRB-
+appos	airstrike	AP
+punct	AP	-RRB-

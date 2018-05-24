@@ -1,0 +1,10 @@
+nummod	men	Two
+nsubj	trying	men
+aux	trying	are
+root	ROOT	trying
+mark	drink	to
+xcomp	trying	drink
+dobj	drink	beer
+case	tubing	while
+nmod:while	drink	tubing
+punct	trying	.

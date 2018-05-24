@@ -1,0 +1,6 @@
+det	man	The
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+dobj	slicing	bread
+punct	slicing	.

@@ -1,0 +1,6 @@
+nsubj	expels	USA
+root	ROOT	expels
+compound	diplomats	Venezuela
+dobj	expels	diplomats
+case	row	in
+nmod:in	expels	row

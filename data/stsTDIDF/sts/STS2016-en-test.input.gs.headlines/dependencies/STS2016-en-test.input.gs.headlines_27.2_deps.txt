@@ -1,0 +1,7 @@
+nmod:poss	votes	Ukraine
+case	Ukraine	's
+compound	votes	parliament
+root	ROOT	votes
+mark	dismiss	to
+acl	votes	dismiss
+dobj	dismiss	president

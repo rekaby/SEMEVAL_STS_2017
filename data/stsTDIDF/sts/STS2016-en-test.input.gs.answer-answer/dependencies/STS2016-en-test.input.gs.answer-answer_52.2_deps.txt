@@ -1,0 +1,16 @@
+nsubj	sure	I
+cop	sure	am
+neg	sure	not
+root	ROOT	sure
+det	question	this
+nsubj	made	question
+aux	made	would
+aux	made	have
+ccomp	sure	made
+amod	sense	much
+dobj	made	sense
+case	Romans	to
+det	Romans	the
+nmod:to	made	Romans
+nmod:npmod	Romans	themselves
+punct	sure	.

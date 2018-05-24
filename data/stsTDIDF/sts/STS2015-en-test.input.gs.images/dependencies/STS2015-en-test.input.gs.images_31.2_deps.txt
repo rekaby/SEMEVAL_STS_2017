@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+nummod	boys	two
+nsubj	jump	boys
+conj:and	man	jump
+case	trampoline	on
+det	trampoline	a
+nmod:on	jump	trampoline
+punct	man	.

@@ -1,0 +1,11 @@
+aux	understand	Do
+nsubj	understand	you
+neg	understand	not
+root	ROOT	understand
+dobj	means	what
+det	string	that
+nsubj	means	string
+case	words	of
+nmod:of	string	words
+ccomp	understand	means
+punct	understand	?

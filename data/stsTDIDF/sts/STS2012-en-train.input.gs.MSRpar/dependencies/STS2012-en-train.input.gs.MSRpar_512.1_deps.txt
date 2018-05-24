@@ -1,0 +1,13 @@
+nsubj	available	MGM
+punct	MGM	,
+conj:and	MGM	NBC
+cc	MGM	and
+compound	executives	Liberty
+conj:and	MGM	executives
+cop	available	were
+neg	available	not
+advmod	available	immediately
+root	ROOT	available
+case	comment	for
+nmod:for	available	comment
+punct	available	.

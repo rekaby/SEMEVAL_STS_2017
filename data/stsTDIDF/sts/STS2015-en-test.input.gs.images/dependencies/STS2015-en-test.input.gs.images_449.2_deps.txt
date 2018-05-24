@@ -1,0 +1,14 @@
+det	dog	a
+nsubj	jumps	dog
+case	Frisbee	with
+det	Frisbee	a
+nmod:with	dog	Frisbee
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	Frisbee	mouth
+punct	dog	,
+root	ROOT	jumps
+case	man	over
+det	man	a
+nmod:over	jumps	man
+punct	jumps	.

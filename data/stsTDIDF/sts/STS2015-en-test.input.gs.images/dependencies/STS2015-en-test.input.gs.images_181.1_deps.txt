@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	brown
+root	ROOT	dog
+mark	catch	about
+mark	catch	to
+acl	dog	catch
+det	Frisbee	a
+amod	Frisbee	green
+dobj	catch	Frisbee
+punct	dog	.

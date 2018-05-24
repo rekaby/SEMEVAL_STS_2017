@@ -1,0 +1,12 @@
+det	bus	A
+amod	bus	white
+nsubj	snow	bus
+advmod	snow	partially
+case	snow	in
+det	snow	the
+root	ROOT	snow
+case	street	on
+det	street	a
+amod	street	public
+nmod:on	snow	street
+punct	snow	.

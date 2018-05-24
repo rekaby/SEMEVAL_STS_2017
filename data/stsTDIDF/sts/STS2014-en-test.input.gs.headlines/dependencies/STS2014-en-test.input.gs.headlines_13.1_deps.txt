@@ -1,0 +1,10 @@
+compound	fire	Boeing
+nummod	Boeing	787
+compound	fire	Dreamliner
+amod	fire	catches
+root	ROOT	fire
+punct	fire	;
+nsubj	takes	stock
+parataxis	fire	takes
+det	beating	a
+dobj	takes	beating

@@ -1,0 +1,8 @@
+det	businessman	A
+nsubj	waiting	businessman
+aux	waiting	is
+root	ROOT	waiting
+mark	order	to
+xcomp	waiting	order
+dobj	order	food
+punct	waiting	.

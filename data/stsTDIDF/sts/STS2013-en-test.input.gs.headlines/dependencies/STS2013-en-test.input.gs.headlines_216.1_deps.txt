@@ -1,0 +1,8 @@
+compound	powers	Iran
+punct	powers	,
+root	ROOT	powers
+acl	powers	set
+case	talks	for
+amod	talks	high-stakes
+amod	talks	nuclear
+nmod:for	set	talks

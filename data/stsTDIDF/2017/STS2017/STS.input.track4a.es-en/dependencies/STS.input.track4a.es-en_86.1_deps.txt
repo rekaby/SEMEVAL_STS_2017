@@ -1,0 +1,6 @@
+det	people	Some
+root	ROOT	people
+case	building	in
+det	building	a
+nmod:in	people	building
+punct	people	.

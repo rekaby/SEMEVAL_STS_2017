@@ -1,0 +1,9 @@
+det	camper	The
+nsubj	sitting	camper
+aux	sitting	is
+root	ROOT	sitting
+case	backpack	next
+mwe	next	to
+nmod:poss	backpack	his
+nmod:next_to	sitting	backpack
+punct	sitting	.

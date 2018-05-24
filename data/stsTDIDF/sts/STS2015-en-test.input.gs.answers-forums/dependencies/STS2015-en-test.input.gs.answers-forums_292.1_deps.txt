@@ -1,0 +1,17 @@
+compound	language	Sign
+root	ROOT	language
+dep	language	maybe
+punct	maybe	,
+mark	is	since
+expl	is	there
+root	,	is
+neg	tone	no
+nsubj	is	tone
+mark	convey	to
+acl	tone	convey
+dobj	convey	meaning
+punct	meaning	,
+conj:or	meaning	emotion
+cc	meaning	or
+conj:or	meaning	intent
+punct	is	.

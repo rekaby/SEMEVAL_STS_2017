@@ -1,0 +1,11 @@
+det	dog	A
+amod	dog	white
+cc	white	and
+conj:and	white	brown
+nsubj	ran	dog
+root	ROOT	ran
+case	grass	through
+amod	grass	long
+amod	grass	green
+nmod:through	ran	grass
+punct	ran	.

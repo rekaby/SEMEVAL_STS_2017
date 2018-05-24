@@ -1,0 +1,9 @@
+compound	Travis	Dave
+compound	Travis	Lee
+nsubj	pleads	Travis
+root	ROOT	pleads
+neg	guilty	not
+xcomp	pleads	guilty
+case	charges	to
+det	charges	all
+nmod:to	guilty	charges

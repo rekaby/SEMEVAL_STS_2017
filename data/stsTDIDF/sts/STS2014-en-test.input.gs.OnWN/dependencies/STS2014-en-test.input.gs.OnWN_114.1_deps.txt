@@ -1,0 +1,13 @@
+punct	medicine	-LRB-
+root	ROOT	medicine
+punct	medicine	-RRB-
+det	capacity	the
+dep	medicine	capacity
+case	organism	of
+det	organism	an
+nmod:of	capacity	organism
+mark	defend	to
+acl	capacity	defend
+case	disease	against
+nmod:against	defend	disease
+punct	medicine	.

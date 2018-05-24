@@ -1,0 +1,13 @@
+root	ROOT	either
+case	halves	of
+det	halves	the
+nummod	halves	two
+nmod:of	either	halves
+case	bow	of
+det	bow	a
+nmod:of	halves	bow
+mark	handle	from
+acl	bow	handle
+mark	tip	to
+xcomp	handle	tip
+punct	either	.

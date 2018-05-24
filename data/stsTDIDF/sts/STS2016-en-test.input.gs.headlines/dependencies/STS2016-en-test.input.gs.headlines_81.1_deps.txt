@@ -1,0 +1,7 @@
+nsubj	demand	Rallies
+root	ROOT	demand
+punct	Justice	`
+dobj	demand	Justice
+case	Trayvon	for
+nmod:for	Justice	Trayvon
+punct	Justice	'

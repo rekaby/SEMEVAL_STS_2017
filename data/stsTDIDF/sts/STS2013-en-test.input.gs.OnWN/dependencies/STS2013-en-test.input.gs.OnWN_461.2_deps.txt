@@ -1,0 +1,8 @@
+root	ROOT	give
+det	performance	a
+dobj	give	performance
+punct	something	-LRB-
+case	something	of
+dep	performance	something
+punct	something	-RRB-
+punct	give	.

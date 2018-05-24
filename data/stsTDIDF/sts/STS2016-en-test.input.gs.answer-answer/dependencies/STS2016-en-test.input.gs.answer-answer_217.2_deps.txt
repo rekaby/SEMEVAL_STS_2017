@@ -1,0 +1,10 @@
+expl	are	There
+root	ROOT	are
+det	things	a
+amod	things	few
+nsubj	are	things
+nsubj	need	you
+acl:relcl	things	need
+mark	consider	to
+xcomp	need	consider
+punct	are	:

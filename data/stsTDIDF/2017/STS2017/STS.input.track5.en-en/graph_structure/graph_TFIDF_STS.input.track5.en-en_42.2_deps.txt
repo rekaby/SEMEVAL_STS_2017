@@ -1,0 +1,8 @@
+carve	sculpture	dobj
+chainsaw	a	det
+sculpture	wooden	amod
+sculpture	a	det
+chainsaw	carve	acl
+carve	to	mark
+using	chainsaw	dobj
+using	man	nsubj

@@ -1,0 +1,7 @@
+group	bicycles	nmod:of
+are	group	nmod:on
+photo	In	case
+photo	this	det
+are	photo	nmod:in
+group	on	case
+bicycles	of	case

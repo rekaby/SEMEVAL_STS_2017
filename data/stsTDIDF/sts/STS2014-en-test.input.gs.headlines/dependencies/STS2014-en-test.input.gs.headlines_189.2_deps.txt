@@ -1,0 +1,7 @@
+compound	grapes	Red
+root	ROOT	grapes
+punct	grapes	,
+nsubj	boost	blueberries
+acl:relcl	grapes	boost
+amod	immunity	human
+dobj	boost	immunity

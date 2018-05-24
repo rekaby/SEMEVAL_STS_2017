@@ -1,0 +1,9 @@
+nmod:poss	thanks	Mandela
+case	Mandela	's
+compound	thanks	family
+root	ROOT	thanks
+dep	thanks	nation
+cc	nation	and
+conj:and	nation	world
+case	support	for
+nmod:for	thanks	support

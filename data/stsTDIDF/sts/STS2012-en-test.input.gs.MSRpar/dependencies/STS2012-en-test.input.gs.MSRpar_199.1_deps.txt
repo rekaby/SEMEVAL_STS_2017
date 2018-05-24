@@ -1,0 +1,14 @@
+nsubj	told	He
+root	ROOT	told
+det	jury	the
+dobj	told	jury
+dep	jury	Stubbs
+dep	Stubbs	is
+nsubj	is	a
+punct	a	``
+root	``	cold
+punct	cold	,
+root	,	calculating
+dobj	calculating	killer
+punct	calculating	.
+punct	calculating	''

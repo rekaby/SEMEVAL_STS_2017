@@ -1,0 +1,6 @@
+nsubj	playing	Someone
+aux	playing	is
+root	ROOT	playing
+det	gameboy	a
+dobj	playing	gameboy
+punct	playing	.

@@ -1,0 +1,11 @@
+root	ROOT	Sanford
+punct	Sanford	,
+appos	Sanford	Ex-Governor
+case	Carolina	of
+compound	Carolina	South
+nmod:of	Ex-Governor	Carolina
+punct	Sanford	,
+case	Run	to
+nmod:to	Sanford	Run
+case	Congress	for
+nmod:for	Run	Congress

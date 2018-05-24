@@ -1,0 +1,10 @@
+det	man	A
+root	ROOT	man
+cc	man	and
+det	woman	a
+nsubj	talk	woman
+conj:and	man	talk
+case	diner	in
+det	diner	a
+nmod:in	talk	diner
+punct	man	.

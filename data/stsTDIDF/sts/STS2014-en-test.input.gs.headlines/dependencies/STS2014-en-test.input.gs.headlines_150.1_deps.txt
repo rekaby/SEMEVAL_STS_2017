@@ -1,0 +1,6 @@
+nsubj	asks	Snowden
+root	ROOT	asks
+mark	stay	to
+xcomp	asks	stay
+case	Russia	in
+nmod:in	stay	Russia

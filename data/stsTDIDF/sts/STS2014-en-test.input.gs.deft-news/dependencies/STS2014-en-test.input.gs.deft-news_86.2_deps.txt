@@ -1,0 +1,13 @@
+amod	government	myanmar
+nsubj	stated	government
+root	ROOT	stated
+nsubj	track	myanmar
+cop	track	is
+case	track	on
+ccomp	stated	track
+mark	drug-free	to
+cop	drug-free	be
+xcomp	track	drug-free
+case	2014	by
+nmod:by	drug-free	2014
+punct	stated	.

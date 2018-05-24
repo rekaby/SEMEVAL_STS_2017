@@ -1,0 +1,7 @@
+bike	on	case
+bike	air	nmod:in
+trick	bike	nmod:on
+does	trick	dobj
+man	does	acl
+bike	a	det
+trick	a	det

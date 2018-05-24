@@ -1,0 +1,10 @@
+det	DJ	A
+amod	DJ	female
+nsubj	holds	DJ
+root	ROOT	holds
+compound:prt	holds	up
+det	album	a
+compound	album	Michael
+compound	album	Jackson
+dobj	holds	album
+punct	holds	.

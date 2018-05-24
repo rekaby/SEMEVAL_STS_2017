@@ -1,0 +1,12 @@
+ccomp	say	Gunman
+nsubj	held	who
+acl:relcl	Gunman	held
+amod	hostage	suburban
+compound	hostage	Atlanta
+compound	hostage	firefighters
+dep	dead	hostage
+advmod	dead	now
+xcomp	held	dead
+punct	say	,
+nsubj	say	police
+root	ROOT	say

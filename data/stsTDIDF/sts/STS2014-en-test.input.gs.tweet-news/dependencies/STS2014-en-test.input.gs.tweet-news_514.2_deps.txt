@@ -1,0 +1,9 @@
+det	20-Something	A
+root	ROOT	20-Something
+punct	20-Something	?-3) compound(Site-3, s
+compound	Site	Web
+root	ROOT	Site
+case	Women	for
+nmod:for	Site	Women
+case	40	Over
+nmod:over	Site	40

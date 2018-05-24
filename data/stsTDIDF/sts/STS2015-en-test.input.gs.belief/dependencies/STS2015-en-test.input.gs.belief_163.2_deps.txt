@@ -1,0 +1,8 @@
+nsubj	think	you
+root	ROOT	think
+nsubj	bluffing	they
+aux	bluffing	're
+ccomp	think	bluffing
+case	that	about
+nmod:about	bluffing	that
+punct	think	?

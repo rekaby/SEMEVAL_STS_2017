@@ -1,0 +1,12 @@
+det	bicyclist	A
+root	ROOT	bicyclist
+case	black	in
+nmod:in	bicyclist	black
+case	bike	on
+det	bike	a
+amod	bike	black
+cc	black	and
+conj:and	black	red
+compound	bike	racing
+nmod:on	black	bike
+punct	bicyclist	.

@@ -1,0 +1,10 @@
+det	cat	A
+nsubj	crawling	cat
+aux	crawling	is
+root	ROOT	crawling
+advmod	down	upside
+advmod	crawling	down
+case	couch	under
+det	couch	the
+nmod:under	crawling	couch
+punct	crawling	.

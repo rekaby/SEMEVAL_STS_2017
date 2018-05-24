@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	looks	woman
+acl	woman	wearing
+dobj	wearing	something
+root	ROOT	looks
+xcomp	looks	happy
+punct	looks	.

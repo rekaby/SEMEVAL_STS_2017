@@ -1,0 +1,6 @@
+root	ROOT	make
+dobj	make	pure
+cc	pure	or
+conj:or	pure	free
+case	sin	from
+nmod:from	pure	sin

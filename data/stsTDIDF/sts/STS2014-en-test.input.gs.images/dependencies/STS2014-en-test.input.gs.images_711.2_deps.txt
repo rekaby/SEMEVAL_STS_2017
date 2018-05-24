@@ -1,0 +1,13 @@
+det	plane	A
+amod	plane	small
+amod	plane	white
+root	ROOT	plane
+acl	plane	parked
+case	airport	in
+det	airport	an
+nmod:in	parked	airport
+case	day	on
+det	day	a
+amod	day	cloudy
+nmod:on	parked	day
+punct	plane	.

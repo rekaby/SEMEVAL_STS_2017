@@ -1,0 +1,17 @@
+nsubj	waiting	People
+cc	People	and
+det	dresser	a
+conj:and	People	dresser
+aux	waiting	are
+root	ROOT	waiting
+case	stop	at
+det	stop	a
+compound	stop	bus
+nmod:at	waiting	stop
+case	building	in
+mwe	in	front
+mwe	in	of
+det	building	a
+compound	building	brick
+nmod:in_front_of	stop	building
+punct	waiting	.

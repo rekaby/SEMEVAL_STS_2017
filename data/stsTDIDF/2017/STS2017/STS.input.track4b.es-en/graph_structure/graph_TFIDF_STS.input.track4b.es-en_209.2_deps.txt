@@ -1,0 +1,8 @@
+Price	six	nmod:of
+dollars	billion	nummod
+ROOT	dollars	root
+dollars	Price	nsubj
+billion	more	advmod
+dollars	is	cop
+dollars	.	punct
+billion	a	advmod

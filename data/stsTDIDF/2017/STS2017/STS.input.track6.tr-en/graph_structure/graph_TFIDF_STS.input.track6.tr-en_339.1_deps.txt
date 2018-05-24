@@ -1,0 +1,6 @@
+pouring	cement	dobj
+pouring	.	punct
+ROOT	pouring	root
+men	Three	nummod
+pouring	men	nsubj
+pouring	are	aux

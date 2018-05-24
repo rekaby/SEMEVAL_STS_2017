@@ -1,0 +1,11 @@
+det	woman	a
+root	ROOT	woman
+case	table	at
+det	table	a
+compound	table	dinner
+nmod:at	woman	table
+acl	table	writing
+case	notebook	on
+nmod:poss	notebook	her
+nmod:on	writing	notebook
+punct	woman	.

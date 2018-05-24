@@ -1,0 +1,9 @@
+det	man	A
+nsubj	slicing	man
+aux	slicing	is
+root	ROOT	slicing
+det	potato	a
+dobj	slicing	potato
+case	pieces	into
+nmod:into	slicing	pieces
+punct	slicing	.

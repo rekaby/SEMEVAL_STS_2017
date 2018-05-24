@@ -1,0 +1,9 @@
+root	ROOT	what
+cop	what	is
+det	difference	the
+nsubj	what	difference
+case	Erebor	between
+nmod:between	difference	Erebor
+cc	Erebor	and
+conj:and	Erebor	Moria
+punct	what	?

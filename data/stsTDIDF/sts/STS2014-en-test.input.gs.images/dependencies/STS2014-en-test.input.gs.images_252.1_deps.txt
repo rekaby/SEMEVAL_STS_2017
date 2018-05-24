@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	sits	girl
+mark	riding	in
+acl	girl	riding
+dobj	riding	gear
+root	ROOT	sits
+case	horse	atop
+det	horse	a
+amod	horse	brown
+nmod:atop	sits	horse
+punct	sits	.

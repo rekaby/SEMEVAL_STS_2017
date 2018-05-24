@@ -1,0 +1,6 @@
+det	lori	A
+amod	lori	slow
+nsubj	walks	lori
+root	ROOT	walks
+advmod	walks	around
+punct	walks	.

@@ -1,0 +1,9 @@
+nsubj	Confirms	USDA
+root	ROOT	Confirms
+dobj	Confirms	Case
+case	Disease	of
+compound	Disease	Mad
+compound	Disease	Cow
+nmod:of	Case	Disease
+case	California	in
+nmod:in	Disease	California

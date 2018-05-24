@@ -1,0 +1,8 @@
+det	woman	A
+nsubj	cuts	woman
+root	ROOT	cuts
+dobj	cuts	tofu
+case	pieces	into
+amod	pieces	tiny
+nmod:into	cuts	pieces
+punct	cuts	.

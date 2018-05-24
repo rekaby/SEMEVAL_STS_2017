@@ -1,0 +1,14 @@
+det	president	the
+nmod:poss	father	president
+case	president	's
+amod	father	biological
+nsubj	kenyan	father
+cop	kenyan	was
+root	ROOT	kenyan
+punct	kenyan	,
+cc	kenyan	and
+nsubj	knew	obama
+advmod	knew	barely
+conj:and	kenyan	knew
+dobj	knew	him
+punct	kenyan	.

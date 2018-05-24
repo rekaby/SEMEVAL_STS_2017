@@ -1,0 +1,11 @@
+det	dog	A
+nsubj	walking	dog
+aux	walking	is
+root	ROOT	walking
+case	edge	along
+det	edge	the
+nmod:along	walking	edge
+case	pool	of
+det	pool	a
+nmod:of	edge	pool
+punct	walking	.

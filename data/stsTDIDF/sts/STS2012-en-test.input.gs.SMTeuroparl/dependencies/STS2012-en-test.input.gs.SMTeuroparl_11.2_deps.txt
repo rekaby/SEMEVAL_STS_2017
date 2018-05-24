@@ -1,0 +1,7 @@
+det	body	The
+nsubj	balance	body
+aux	balance	must
+cop	balance	be
+case	balance	in
+root	ROOT	balance
+punct	balance	.

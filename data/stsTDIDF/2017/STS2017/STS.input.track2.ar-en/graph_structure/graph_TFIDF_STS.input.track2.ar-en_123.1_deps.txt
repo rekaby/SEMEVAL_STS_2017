@@ -1,0 +1,8 @@
+mud	in	case
+driving	mud	nmod:in
+mud	the	det
+car	A	det
+driving	is	aux
+ROOT	driving	root
+driving	car	nsubj
+driving	.	punct

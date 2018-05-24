@@ -1,0 +1,10 @@
+case	least	At
+nmod:npmod	6	least
+nummod	dead	6
+root	ROOT	dead
+case	bus	in
+compound	bus	Canada
+nmod:in	dead	bus
+punct	dead	,
+compound	crash	train
+appos	dead	crash

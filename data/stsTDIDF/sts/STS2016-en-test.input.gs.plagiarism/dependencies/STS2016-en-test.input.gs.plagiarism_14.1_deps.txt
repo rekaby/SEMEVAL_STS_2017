@@ -1,0 +1,9 @@
+expl	are	There
+root	ROOT	are
+nummod	approaches	two
+amod	approaches	main
+nsubj	are	approaches
+case	programming	for
+amod	programming	dynamic
+nmod:for	approaches	programming
+punct	are	.

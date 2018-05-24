@@ -1,0 +1,7 @@
+nsubj	creates	Australia
+root	ROOT	creates
+nmod:poss	reserves	world
+case	world	's
+amod	reserves	largest
+amod	reserves	marine
+dobj	creates	reserves

@@ -1,0 +1,11 @@
+nsubj	strikes	38
+cop	strikes	IS
+nsubj	strikes	militants
+acl	militants	killed
+case	clashes	in
+nmod:in	killed	clashes
+punct	militants	,
+compound	strikes	air
+root	ROOT	strikes
+case	Iraq	in
+nmod:in	strikes	Iraq

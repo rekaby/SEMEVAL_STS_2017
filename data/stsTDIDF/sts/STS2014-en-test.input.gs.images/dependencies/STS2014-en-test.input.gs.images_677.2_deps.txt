@@ -1,0 +1,9 @@
+amod	standing	Brown
+compound	standing	horse
+root	ROOT	standing
+case	middle	in
+nmod:in	standing	middle
+case	field	of
+amod	field	grassy
+nmod:of	middle	field
+punct	standing	.

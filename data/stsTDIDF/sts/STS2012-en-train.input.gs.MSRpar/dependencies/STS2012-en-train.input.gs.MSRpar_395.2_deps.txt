@@ -1,0 +1,17 @@
+det	service	The
+compound	service	weather
+nsubj	reported	service
+root	ROOT	reported
+amod	winds	maximum
+amod	winds	sustained
+dobj	reported	winds
+case	miles	of
+advmod	105	nearly
+nummod	miles	105
+nmod:of	winds	miles
+det	hour	an
+nmod:npmod	miles	hour
+case	gusts	with
+amod	gusts	stronger
+nmod:with	winds	gusts
+punct	reported	.

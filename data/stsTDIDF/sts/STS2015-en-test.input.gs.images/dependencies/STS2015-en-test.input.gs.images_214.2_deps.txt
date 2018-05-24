@@ -1,0 +1,13 @@
+det	dog	A
+nsubj	runs	dog
+root	ROOT	runs
+case	camera	toward
+det	camera	the
+nmod:toward	runs	camera
+case	stick	with
+det	stick	a
+nmod:with	camera	stick
+case	mouth	in
+nmod:poss	mouth	its
+nmod:in	stick	mouth
+punct	runs	.

@@ -1,0 +1,13 @@
+det	boy	A
+nsubj	running	boy
+aux	running	is
+root	ROOT	running
+case	fish	in
+mwe	in	front
+mwe	in	of
+nmod:in_front_of	running	fish
+acl	fish	hanging
+case	rod	on
+compound	rod	fishing
+nmod:on	hanging	rod
+punct	running	.

@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+det	group	a
+nsubj	are	group
+case	children	of
+nmod:of	group	children
+advmod	group	abroad
+punct	are	.

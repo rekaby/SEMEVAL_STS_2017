@@ -1,0 +1,15 @@
+nummod	child	One
+nsubj	pulls	child
+root	ROOT	pulls
+dobj	pulls	another
+punct	pulls	,
+advcl	pulls	sitting
+case	wagon	in
+det	wagon	a
+amod	wagon	red
+nmod:in	sitting	wagon
+punct	pulls	,
+case	sand	along
+det	sand	the
+nmod:along	pulls	sand
+punct	pulls	.

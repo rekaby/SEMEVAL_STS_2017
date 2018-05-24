@@ -1,0 +1,5 @@
+det	animal	The
+nsubj	eating	animal
+aux	eating	is
+root	ROOT	eating
+punct	eating	.

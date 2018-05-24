@@ -1,0 +1,8 @@
+nummod	men	Two
+root	ROOT	men
+case	side	on
+det	side	the
+nmod:on	men	side
+case	barge	of
+det	barge	a
+nmod:of	side	barge

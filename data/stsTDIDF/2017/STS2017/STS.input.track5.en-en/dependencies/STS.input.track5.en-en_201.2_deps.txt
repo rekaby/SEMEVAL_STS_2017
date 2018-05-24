@@ -1,0 +1,10 @@
+det	player	A
+compound	player	tennis
+root	ROOT	player
+case	middle	in
+det	middle	the
+nmod:in	player	middle
+case	game	of
+det	game	a
+nmod:of	middle	game
+punct	player	.

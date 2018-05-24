@@ -1,0 +1,6 @@
+root	ROOT	76
+acl	76	killed
+case	Bangladesh	in
+nmod:in	killed	Bangladesh
+compound	collapse	building
+dobj	killed	collapse

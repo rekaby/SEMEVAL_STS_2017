@@ -1,0 +1,12 @@
+nsubj	arrest	you
+aux	arrest	ca
+neg	arrest	n't
+root	ROOT	arrest
+dobj	arrest	someone
+case	something	for
+nmod:for	arrest	something
+nsubjpass	done	they
+aux	done	have
+neg	done	n't
+acl:relcl	something	done
+punct	arrest	...

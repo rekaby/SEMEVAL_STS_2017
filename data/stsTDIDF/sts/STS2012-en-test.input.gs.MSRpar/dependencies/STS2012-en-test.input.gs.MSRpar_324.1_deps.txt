@@ -1,0 +1,15 @@
+nmod:poss	dissent	His
+nsubjpass	joined	dissent
+auxpass	joined	was
+root	ROOT	joined
+case	Rehnquist	by
+compound	Rehnquist	Chief
+compound	Rehnquist	Justice
+compound	Rehnquist	William
+compound	Rehnquist	H.
+nmod:agent	joined	Rehnquist
+cc	Rehnquist	and
+compound	Thomas	Justice
+compound	Thomas	Clarence
+conj:and	Rehnquist	Thomas
+punct	joined	.

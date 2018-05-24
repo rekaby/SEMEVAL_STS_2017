@@ -1,0 +1,7 @@
+compound	victims	Pakistan
+compound	victims	bomb
+nmod:poss	families	victims
+case	victims	'
+nsubj	end	families
+root	ROOT	end
+dobj	end	protest

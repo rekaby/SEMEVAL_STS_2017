@@ -1,0 +1,7 @@
+nummod	men	Two
+nsubjpass	recited	men
+auxpass	recited	are
+root	ROOT	recited
+case	train	in
+det	train	the
+nmod:in	recited	train

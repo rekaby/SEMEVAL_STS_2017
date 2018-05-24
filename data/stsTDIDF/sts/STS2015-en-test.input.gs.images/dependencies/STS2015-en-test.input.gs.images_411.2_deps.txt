@@ -1,0 +1,8 @@
+det	dog	a
+amod	dog	black
+root	ROOT	dog
+amod	dog	digging
+case	snow	through
+det	snow	the
+nmod:through	digging	snow
+punct	dog	.

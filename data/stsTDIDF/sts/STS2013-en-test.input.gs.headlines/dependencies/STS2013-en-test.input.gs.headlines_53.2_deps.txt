@@ -1,0 +1,10 @@
+det	perception	The
+nsubj	changed	perception
+case	Spain	of
+nmod:of	perception	Spain
+aux	changed	has
+root	ROOT	changed
+advmod	changed	dramatically
+case	government	with
+det	government	this
+nmod:with	changed	government

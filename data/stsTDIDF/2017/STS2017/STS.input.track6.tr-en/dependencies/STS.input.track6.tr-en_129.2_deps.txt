@@ -1,0 +1,17 @@
+det	man	A
+amod	man	young
+nsubj	sells	man
+root	ROOT	sells
+dobj	sells	cookies
+case	help	with
+det	help	the
+nmod:with	sells	help
+case	wife	of
+nmod:poss	wife	his
+nmod:of	help	wife
+case	market	at
+det	farmer	the
+nmod:poss	market	farmer
+case	farmer	's
+nmod:at	wife	market
+punct	sells	.

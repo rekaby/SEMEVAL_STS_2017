@@ -1,0 +1,8 @@
+det	thing	The
+amod	thing	bad
+nsubj	is	thing
+root	ROOT	is
+expl	's	there
+ccomp	is	's
+nsubj	's	space
+punct	is	.

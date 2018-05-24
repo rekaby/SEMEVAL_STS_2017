@@ -1,0 +1,8 @@
+nummod	children	Two
+nsubj	sitting	children
+aux	sitting	are
+root	ROOT	sitting
+case	beach	on
+det	beach	a
+nmod:on	sitting	beach
+punct	sitting	.

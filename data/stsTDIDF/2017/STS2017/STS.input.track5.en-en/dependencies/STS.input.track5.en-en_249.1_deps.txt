@@ -1,0 +1,10 @@
+det	group	A
+nsubj	smiling	group
+case	teenagers	of
+nmod:of	group	teenagers
+case	shirts	in
+amod	shirts	red
+nmod:in	teenagers	shirts
+aux	smiling	are
+root	ROOT	smiling
+punct	smiling	.

@@ -1,0 +1,8 @@
+root	ROOT	place
+cc	place	or
+conj:or	place	lay
+case	pile	as
+mwe	as	if
+case	pile	in
+det	pile	a
+nmod:as_if	place	pile

@@ -1,0 +1,8 @@
+expl	are	There
+root	ROOT	are
+nsubj	are	numbers
+acl	numbers	written
+case	stage	on
+det	stage	the
+nmod:on	written	stage
+punct	are	.

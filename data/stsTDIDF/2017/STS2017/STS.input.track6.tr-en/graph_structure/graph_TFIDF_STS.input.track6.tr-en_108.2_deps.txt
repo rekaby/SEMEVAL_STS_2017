@@ -1,0 +1,5 @@
+pond	the	det
+falls	splash	nsubj
+falls	pond	dobj
+splash	child	nmod:poss
+falls	down	compound:prt

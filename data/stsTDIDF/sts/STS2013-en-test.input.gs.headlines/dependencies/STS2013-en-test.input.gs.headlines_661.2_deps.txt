@@ -1,0 +1,8 @@
+compound	teen	Chicago
+nsubj	plot	teen
+acl	teen	arrested
+case	bomb	in
+compound	bomb	Chicago
+compound	bomb	car
+nmod:in	arrested	bomb
+root	ROOT	plot

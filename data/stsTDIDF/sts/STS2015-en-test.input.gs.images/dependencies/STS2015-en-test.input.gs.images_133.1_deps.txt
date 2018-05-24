@@ -1,0 +1,14 @@
+det	group	A
+nsubj	stand	group
+case	people	of
+nmod:of	group	people
+root	ROOT	stand
+case	sand	in
+det	sand	the
+nmod:in	stand	sand
+xcomp	stand	looking
+compound:prt	looking	out
+case	water	at
+det	water	the
+nmod:at	looking	water
+punct	stand	.

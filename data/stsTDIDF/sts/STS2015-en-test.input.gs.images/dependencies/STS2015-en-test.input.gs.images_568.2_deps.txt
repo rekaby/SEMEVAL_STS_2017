@@ -1,0 +1,15 @@
+det	woman	A
+nsubj	wearing	woman
+aux	wearing	is
+root	ROOT	wearing
+det	headband	a
+amod	headband	white
+dobj	wearing	headband
+punct	headband	,
+amod	tank	purple
+compound	top	tank
+conj:and	headband	top
+cc	headband	and
+amod	gloves	black
+conj:and	headband	gloves
+punct	wearing	.

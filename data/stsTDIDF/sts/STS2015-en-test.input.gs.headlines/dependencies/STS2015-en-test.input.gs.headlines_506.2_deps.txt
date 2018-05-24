@@ -1,0 +1,7 @@
+compound	Stones	Rolling
+nsubj	add	Stones
+root	ROOT	add
+amod	date	second
+compound	date	Hyde
+compound	date	Park
+dobj	add	date

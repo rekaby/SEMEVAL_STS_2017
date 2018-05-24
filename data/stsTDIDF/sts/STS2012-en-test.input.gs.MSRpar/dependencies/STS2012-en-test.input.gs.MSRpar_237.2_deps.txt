@@ -1,0 +1,20 @@
+det	company	The
+nsubj	adding	company
+aux	adding	is
+advmod	adding	also
+root	ROOT	adding
+punct	adding	.-6) compound(support-4, Net
+cc	Net	and
+conj:and	Net	J2EE
+ccomp	said	support
+case	toolset	to
+nmod:poss	toolset	its
+compound	toolset	Enterprise
+compound	toolset	Application
+compound	toolset	Environment
+compound	toolset	development
+nmod:to	support	toolset
+punct	said	,
+nsubj	said	Sapp
+root	ROOT	said
+punct	said	.

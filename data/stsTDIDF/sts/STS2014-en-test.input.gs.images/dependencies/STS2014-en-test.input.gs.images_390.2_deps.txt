@@ -1,0 +1,11 @@
+det	bird	A
+nsubjpass	perched	bird
+auxpass	perched	is
+root	ROOT	perched
+case	hand	on
+det	person	a
+nmod:poss	hand	person
+case	person	's
+amod	hand	gloved
+nmod:on	perched	hand
+punct	perched	.

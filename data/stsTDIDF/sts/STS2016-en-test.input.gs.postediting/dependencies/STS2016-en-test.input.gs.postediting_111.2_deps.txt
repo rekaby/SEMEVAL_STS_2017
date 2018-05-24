@@ -1,0 +1,7 @@
+amod	spoils	Bad
+compound	spoils	weather
+root	ROOT	spoils
+det	fair	the
+amod	spoils	fair
+case	Pozoblanco	at
+nmod:at	fair	Pozoblanco

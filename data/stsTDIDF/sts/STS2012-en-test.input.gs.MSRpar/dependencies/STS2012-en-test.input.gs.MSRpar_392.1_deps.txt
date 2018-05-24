@@ -1,0 +1,12 @@
+nsubj	projected	He
+root	ROOT	projected
+nsubj	available	Vanderpool
+aux	available	will
+cop	available	be
+ccomp	projected	available
+case	years	within
+det	years	the
+amod	years	next
+nummod	years	five
+nmod:within	available	years
+punct	projected	.

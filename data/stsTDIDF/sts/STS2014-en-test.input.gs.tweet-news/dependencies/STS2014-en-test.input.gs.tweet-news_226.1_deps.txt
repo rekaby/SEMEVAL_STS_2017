@@ -1,0 +1,13 @@
+case	decisions	Following
+compound	decisions	#Colorado
+compound	decisions	#marijuana
+amod	decisions	legal
+root	ROOT	decisions
+advmod	decisions	closely
+punct	decisions	.-7) root(ROOT-0, Maybe
+det	lessons	some
+dep	Maybe	lessons
+case	mess	for
+compound	mess	CA
+compound	mess	dispensaries
+nmod:for	lessons	mess

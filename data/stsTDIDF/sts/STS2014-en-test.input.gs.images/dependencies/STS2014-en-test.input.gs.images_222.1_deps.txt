@@ -1,0 +1,8 @@
+det	man	A
+nsubj	rides	man
+root	ROOT	rides
+det	motorbike	a
+amod	motorbike	large
+amod	motorbike	black
+dobj	rides	motorbike
+punct	rides	.

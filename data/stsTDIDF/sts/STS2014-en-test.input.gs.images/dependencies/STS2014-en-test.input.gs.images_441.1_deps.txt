@@ -1,0 +1,10 @@
+det	close-up	A
+root	ROOT	close-up
+case	cat	of
+det	cat	a
+nmod:of	close-up	cat
+case	sofa	on
+det	sofa	a
+compound	sofa	cream
+nmod:on	close-up	sofa
+punct	close-up	.

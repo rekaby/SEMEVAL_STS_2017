@@ -1,0 +1,8 @@
+amod	activists	Saudi
+nsubj	say	activists
+root	ROOT	say
+nsubj	trying	kingdom
+ccomp	say	trying
+mark	silence	to
+xcomp	trying	silence
+dobj	silence	them

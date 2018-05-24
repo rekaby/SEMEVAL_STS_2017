@@ -1,0 +1,14 @@
+det	woman	a
+nsubj	standing	woman
+aux	standing	is
+csubjpass	written	standing
+case	pillar	by
+det	pillar	a
+nmod:by	standing	pillar
+advmod	u2	where
+punct	u2	``
+acl:relcl	pillar	u2
+punct	u2	''
+auxpass	written	is
+root	ROOT	written
+punct	written	.

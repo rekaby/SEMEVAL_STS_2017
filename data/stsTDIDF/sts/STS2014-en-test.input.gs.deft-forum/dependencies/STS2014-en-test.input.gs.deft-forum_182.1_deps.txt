@@ -1,0 +1,7 @@
+nsubj	deployment	this
+cop	deployment	is
+advmod	deployment	NOT
+det	deployment	a
+compound	deployment	war
+root	ROOT	deployment
+punct	deployment	.

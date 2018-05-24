@@ -1,0 +1,11 @@
+amod	toll	Canadian
+compound	toll	freight
+compound	toll	train
+compound	toll	blast
+compound	toll	death
+nsubj	hits	toll
+root	ROOT	hits
+dobj	hits	three
+punct	hits	,
+mark	rise	to
+advcl	hits	rise

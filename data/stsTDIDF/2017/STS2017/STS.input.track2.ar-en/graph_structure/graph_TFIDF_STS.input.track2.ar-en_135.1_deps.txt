@@ -1,0 +1,5 @@
+audience	.	punct
+concert	at	case
+audience	concert	nmod:at
+audience	An	det
+ROOT	audience	root

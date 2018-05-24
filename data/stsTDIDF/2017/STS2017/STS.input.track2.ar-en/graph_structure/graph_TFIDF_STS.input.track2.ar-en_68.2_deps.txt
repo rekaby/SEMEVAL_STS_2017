@@ -1,0 +1,7 @@
+walking	farmer	nsubj
+field	ox	nmod:with
+ox	an	det
+ox	with	case
+walking	field	nmod:in
+farmer	Asian	amod
+field	rice	compound

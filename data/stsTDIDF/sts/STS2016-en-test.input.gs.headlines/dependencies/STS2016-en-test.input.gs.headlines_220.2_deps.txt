@@ -1,0 +1,7 @@
+compound	Korea	N
+nsubj	hit	Korea
+root	ROOT	hit
+case	sanctions	with
+amod	sanctions	new
+compound	sanctions	US
+nmod:with	hit	sanctions

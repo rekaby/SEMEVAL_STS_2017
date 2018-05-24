@@ -1,0 +1,12 @@
+compound	merwe	van
+compound	merwe	der
+nsubj	suspended	merwe
+root	ROOT	suspended
+nmod:poss	sentence	geiges
+case	geiges	'
+dobj	suspended	sentence
+case	years	to
+nummod	years	5
+nmod:to	suspended	years
+dep	years	imprisonment
+punct	suspended	.

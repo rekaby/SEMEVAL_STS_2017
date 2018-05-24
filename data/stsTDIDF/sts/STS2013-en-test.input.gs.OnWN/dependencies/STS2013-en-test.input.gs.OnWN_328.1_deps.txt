@@ -1,0 +1,5 @@
+root	ROOT	spare
+case	quality	in
+nmod:in	spare	quality
+cc	quality	or
+conj:or	quality	quantity

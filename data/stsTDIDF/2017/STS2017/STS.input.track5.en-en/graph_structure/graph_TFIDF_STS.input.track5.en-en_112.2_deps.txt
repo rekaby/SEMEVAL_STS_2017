@@ -1,0 +1,6 @@
+children	cleaning	acl
+cleaning	up	compound:prt
+leaves	children	nsubj
+children	male	amod
+leaves	lot	nmod:in
+children	Two	nummod

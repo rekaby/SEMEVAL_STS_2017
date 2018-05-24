@@ -1,0 +1,9 @@
+nsubj	beats	Ferrer
+root	ROOT	beats
+dobj	beats	Nishikori
+mark	advance	to
+xcomp	beats	advance
+case	quarterfinals	to
+amod	quarterfinals	Australian
+compound	quarterfinals	Open
+nmod:to	advance	quarterfinals

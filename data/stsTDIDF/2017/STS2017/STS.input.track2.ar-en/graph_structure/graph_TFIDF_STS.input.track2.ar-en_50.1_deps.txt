@@ -1,0 +1,13 @@
+happy	is	cop
+is	man	nsubj
+necklace	rainbow	compound
+purchased	just	advmod
+purchased	put	conj:and
+necklace	colored	amod
+happy	very	advmod
+purchased	and	cc
+necklace	a	det
+that	purchased	dep
+purchased	necklace	nmod:on
+necklace	on	case
+purchased	happy	conj:and

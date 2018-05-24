@@ -1,0 +1,5 @@
+burrow	Badgers	nsubj
+ROOT	burrow	root
+burrow	hole	nmod:into
+hole	their	nmod:poss
+hole	into	case

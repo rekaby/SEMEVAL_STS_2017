@@ -1,0 +1,8 @@
+det	dogs	The
+nsubj	ran	dogs
+root	ROOT	ran
+case	direction	in
+det	direction	the
+amod	direction	opposite
+nmod:in	ran	direction
+punct	ran	.

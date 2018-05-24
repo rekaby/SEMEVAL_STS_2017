@@ -1,0 +1,16 @@
+nsubj	number	It
+cop	number	is
+advmod	number	simply
+det	number	the
+root	ROOT	number
+case	balls	of
+nmod:of	number	balls
+acl	balls	bowled
+acl	bowled	divided
+case	number	by
+det	number	the
+nmod:by	divided	number
+case	wickets	of
+nmod:of	number	wickets
+acl	wickets	taken
+punct	number	.

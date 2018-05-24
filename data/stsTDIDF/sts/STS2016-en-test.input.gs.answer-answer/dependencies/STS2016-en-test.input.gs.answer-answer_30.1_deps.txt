@@ -1,0 +1,9 @@
+advmod	is	Yes
+punct	is	,
+expl	is	there
+root	ROOT	is
+det	reason	a
+nsubj	is	reason
+case	it	for
+nmod:for	reason	it
+punct	is	.

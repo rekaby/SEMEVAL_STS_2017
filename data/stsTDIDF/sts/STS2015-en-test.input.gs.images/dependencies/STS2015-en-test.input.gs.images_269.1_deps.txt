@@ -1,0 +1,10 @@
+det	dogs	The
+nummod	dogs	two
+nsubj	playing	dogs
+aux	playing	are
+root	ROOT	playing
+dobj	playing	fetch
+case	snow	in
+det	snow	the
+nmod:in	fetch	snow
+punct	playing	.

@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	poses	woman
+root	ROOT	poses
+case	camera	for
+det	camera	the
+nmod:for	poses	camera
+punct	poses	.

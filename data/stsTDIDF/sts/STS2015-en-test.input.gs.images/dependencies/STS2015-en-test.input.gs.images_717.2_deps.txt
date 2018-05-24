@@ -1,0 +1,5 @@
+root	ROOT	Dogs
+case	race	in
+det	race	a
+nmod:in	Dogs	race
+punct	Dogs	.

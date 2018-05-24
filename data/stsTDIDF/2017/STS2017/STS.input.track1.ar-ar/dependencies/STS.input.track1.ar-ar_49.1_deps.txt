@@ -1,0 +1,14 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	sitting
+case	building	next
+mwe	next	to
+det	building	a
+amod	building	large
+nmod:next_to	sitting	building
+punct	building	,
+advmod	talking	where
+nsubj	talking	they
+aux	talking	were
+acl:relcl	building	talking
+punct	people	.

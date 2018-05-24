@@ -1,0 +1,8 @@
+det	bird	The
+nsubj	sits	bird
+root	ROOT	sits
+case	branch	on
+det	branch	the
+compound	branch	tree
+nmod:on	sits	branch
+punct	sits	.

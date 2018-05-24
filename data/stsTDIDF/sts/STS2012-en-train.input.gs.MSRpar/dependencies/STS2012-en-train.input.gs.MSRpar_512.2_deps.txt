@@ -1,0 +1,10 @@
+det	spokesman	A
+compound	spokesman	Microsoft
+nsubj	available	spokesman
+cop	available	was
+neg	available	not
+advmod	available	immediately
+root	ROOT	available
+mark	comment	to
+xcomp	available	comment
+punct	available	.

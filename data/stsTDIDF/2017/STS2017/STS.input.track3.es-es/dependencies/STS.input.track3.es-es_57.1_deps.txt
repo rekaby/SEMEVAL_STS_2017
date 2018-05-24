@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	selling	woman
+aux	selling	is
+root	ROOT	selling
+dobj	selling	dolls
+nsubj	look	that
+acl:relcl	dolls	look
+case	barbies	like
+nmod:like	look	barbies
+punct	selling	.

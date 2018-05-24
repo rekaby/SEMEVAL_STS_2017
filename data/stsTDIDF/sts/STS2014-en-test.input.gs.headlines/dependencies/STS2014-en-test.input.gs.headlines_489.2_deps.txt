@@ -1,0 +1,9 @@
+compound	Khan	Imran
+root	ROOT	Khan
+mark	contest	to
+acl	Khan	contest
+dobj	contest	elections
+case	seats	from
+nummod	seats	four
+compound	seats	NA
+nmod:from	elections	seats

@@ -1,0 +1,12 @@
+nsubj	met	I
+advmod	met	once
+root	ROOT	met
+det	physicists	a
+dobj	met	physicists
+nsubj	held	who
+acl:relcl	physicists	held
+det	position	the
+amod	position	strong
+compound	position	AI
+dobj	held	position
+punct	met	.

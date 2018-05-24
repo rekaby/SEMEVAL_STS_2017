@@ -1,0 +1,15 @@
+root	ROOT	The
+amod	The	first
+dep	first	have
+dobj	have	covers
+cc:preconj	responsible	both
+cop	responsible	been
+advmod	responsible	more
+dep	covers	responsible
+cc	responsible	and
+conj:and	responsible	told
+dobj	told	you
+case	sentence	in
+det	sentence	that
+nmod:in	told	sentence
+punct	The	.

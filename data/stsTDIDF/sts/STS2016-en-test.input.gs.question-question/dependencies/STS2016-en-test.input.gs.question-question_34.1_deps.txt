@@ -1,0 +1,13 @@
+root	ROOT	Is
+nsubj	ok	it
+ccomp	Is	ok
+mark	apply	to
+xcomp	ok	apply
+case	program	for
+advmod	one	more
+mwe	more	than
+nummod	program	one
+compound	program	Phd
+compound	program	student
+nmod:for	apply	program
+punct	Is	?

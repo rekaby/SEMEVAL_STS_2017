@@ -1,0 +1,14 @@
+nummod	women	Two
+nsubj	preparing	women
+case	kitchen	in
+det	kitchen	the
+nmod:in	women	kitchen
+aux	preparing	are
+root	ROOT	preparing
+det	vegetables	the
+dobj	preparing	vegetables
+case	pan	in
+det	pan	the
+amod	pan	frying
+nmod:in	preparing	pan
+punct	preparing	.

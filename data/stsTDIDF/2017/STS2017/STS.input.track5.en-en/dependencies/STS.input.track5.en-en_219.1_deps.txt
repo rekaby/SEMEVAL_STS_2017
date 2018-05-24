@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	holding	woman
+aux	holding	is
+root	ROOT	holding
+det	hands	the
+dobj	holding	hands
+case	man	of
+det	man	the
+nmod:of	hands	man
+punct	holding	.

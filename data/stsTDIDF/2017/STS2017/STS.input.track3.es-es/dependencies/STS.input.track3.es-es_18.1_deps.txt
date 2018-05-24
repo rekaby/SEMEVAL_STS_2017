@@ -1,0 +1,6 @@
+det	captain	A
+root	ROOT	captain
+acl	captain	receiving
+det	prize	a
+dobj	receiving	prize
+punct	captain	.

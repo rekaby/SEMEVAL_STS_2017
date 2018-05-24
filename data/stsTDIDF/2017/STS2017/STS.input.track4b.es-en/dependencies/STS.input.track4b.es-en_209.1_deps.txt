@@ -1,0 +1,13 @@
+compound	price	List
+nsubj	$	price
+case	six	for
+nmod:for	price	six
+case	those	of
+nmod:of	six	those
+cop	$	is
+advmod	$	more
+mwe	more	than
+root	ROOT	$
+compound	billion	1
+nummod	$	billion
+punct	$	.

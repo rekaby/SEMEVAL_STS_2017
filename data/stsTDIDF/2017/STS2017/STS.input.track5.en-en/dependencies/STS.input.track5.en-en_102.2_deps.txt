@@ -1,0 +1,7 @@
+nummod	women	Two
+nsubj	compete	women
+root	ROOT	compete
+case	contest	in
+det	contest	a
+nmod:in	compete	contest
+punct	compete	.

@@ -1,0 +1,9 @@
+punct	provide	-LSB-
+root	ROOT	provide
+case	place	with
+det	place	a
+amod	place	new
+cc	new	or
+conj:or	new	different
+amod	place	resting
+nmod:with	provide	place

@@ -1,0 +1,5 @@
+nsubj	announces	Myanmar
+root	ROOT	announces
+dobj	announces	release
+case	prisoners	of
+nmod:of	release	prisoners

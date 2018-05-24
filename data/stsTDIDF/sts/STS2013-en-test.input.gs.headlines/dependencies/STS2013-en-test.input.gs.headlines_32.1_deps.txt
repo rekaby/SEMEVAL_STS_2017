@@ -1,0 +1,10 @@
+compound	Lantern	Green
+root	ROOT	Lantern
+mark	reintroduced	to
+auxpass	reintroduced	be
+acl	Lantern	reintroduced
+case	gay	as
+nmod:as	reintroduced	gay
+case	Comics	by
+compound	Comics	DC
+nmod:agent	reintroduced	Comics

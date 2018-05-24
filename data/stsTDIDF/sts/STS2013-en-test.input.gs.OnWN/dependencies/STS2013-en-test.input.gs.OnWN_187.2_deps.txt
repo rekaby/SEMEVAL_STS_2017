@@ -1,0 +1,6 @@
+root	ROOT	dress
+case	manner	in
+det	manner	a
+amod	manner	certain
+nmod:in	dress	manner
+punct	dress	.

@@ -1,0 +1,11 @@
+det	girl	A
+nsubj	displaying	girl
+aux	displaying	is
+root	ROOT	displaying
+dobj	displaying	herself
+case	friend	in
+mwe	in	front
+mwe	in	of
+nmod:poss	friend	her
+nmod:in_front_of	displaying	friend
+punct	displaying	.

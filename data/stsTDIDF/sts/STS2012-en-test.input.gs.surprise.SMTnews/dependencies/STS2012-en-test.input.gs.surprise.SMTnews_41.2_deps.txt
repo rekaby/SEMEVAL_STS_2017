@@ -1,0 +1,14 @@
+det	jobs	The
+root	ROOT	jobs
+punct	jobs	,
+appos	jobs	help
+amod	people	young
+dobj	help	people
+mark	forge	to
+acl	help	forge
+amod	lives	new
+dobj	forge	lives
+case	jobs	through
+amod	jobs	serious
+nmod:through	forge	jobs
+punct	jobs	.

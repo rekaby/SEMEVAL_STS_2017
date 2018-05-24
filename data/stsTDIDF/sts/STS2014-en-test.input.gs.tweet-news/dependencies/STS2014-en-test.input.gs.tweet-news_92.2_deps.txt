@@ -1,0 +1,19 @@
+root	ROOT	Riff
+punct	Riff	:
+advmod	Time	Once
+case	Time	Upon
+det	Time	a
+nmod:upon	Was	Time
+punct	Was	,
+expl	Was	There
+dep	Riff	Was
+det	Person	a
+nsubj	Was	Person
+nsubj	Said	Who
+acl:relcl	Person	Said
+punct	Was	,
+punct	Riff	?-15) advmod(Time-4, Once
+case	Time	Upon
+det	Time	a
+root	ROOT	Time
+punct	Time	?

@@ -1,0 +1,8 @@
+nummod	skydivers	Two
+root	ROOT	skydivers
+amod	skydivers	dead
+mark	colliding	after
+advcl	dead	colliding
+case	jump	during
+compound	jump	US
+nmod:during	colliding	jump

@@ -1,0 +1,12 @@
+punct	Cause	-LRB-
+root	ROOT	Cause
+mark	become	to
+punct	become	-RRB-
+acl	Cause	become
+advmod	interesting	less
+xcomp	become	interesting
+punct	become	,
+xcomp	become	attractive
+cc	attractive	or
+conj:or	attractive	vigorous
+punct	Cause	.

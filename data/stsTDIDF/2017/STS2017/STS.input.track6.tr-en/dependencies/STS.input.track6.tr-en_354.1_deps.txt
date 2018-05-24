@@ -1,0 +1,7 @@
+det	item	The
+nsubjpass	wrapped	item
+auxpass	wrapped	is
+root	ROOT	wrapped
+case	paper	in
+nmod:in	wrapped	paper
+punct	wrapped	.

@@ -1,0 +1,8 @@
+nummod	person	1
+root	ROOT	person
+acl	person	killed
+case	clashes	in
+amod	clashes	sectarian
+nmod:in	killed	clashes
+case	Lebanon	in
+nmod:in	clashes	Lebanon

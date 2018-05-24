@@ -1,0 +1,13 @@
+det	woman	A
+root	ROOT	woman
+case	drinks	in
+det	drinks	a
+compound	drinks	sari
+nmod:in	woman	drinks
+dep	drinks	something
+mark	sitting	while
+acl	something	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+punct	woman	.

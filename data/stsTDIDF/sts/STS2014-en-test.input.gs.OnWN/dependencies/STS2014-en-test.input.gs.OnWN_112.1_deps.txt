@@ -1,0 +1,9 @@
+det	sequence	the
+amod	sequence	complete
+compound	sequence	haploid
+root	ROOT	sequence
+case	DNA	of
+nmod:of	sequence	DNA
+case	organism	of
+det	organism	an
+nmod:of	DNA	organism

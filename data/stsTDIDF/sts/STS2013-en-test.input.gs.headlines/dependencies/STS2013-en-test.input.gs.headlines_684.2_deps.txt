@@ -1,0 +1,8 @@
+compound	jet	Navy
+nsubj	crashes	jet
+root	ROOT	crashes
+case	apartments	into
+compound	apartments	Virginia
+nmod:into	crashes	apartments
+nummod	apartments	,9
+dobj	crashes	hurt

@@ -1,0 +1,4 @@
+amod	roads	Closed
+root	ROOT	roads
+case	Armenia	in
+nmod:in	roads	Armenia

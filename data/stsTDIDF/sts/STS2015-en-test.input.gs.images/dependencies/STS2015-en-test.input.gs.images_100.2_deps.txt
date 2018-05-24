@@ -1,0 +1,10 @@
+nummod	girls	Two
+compound	sacks	girls
+amod	sacks	holding
+nsubj	standing	sacks
+aux	standing	are
+root	ROOT	standing
+case	field	in
+det	field	a
+nmod:in	standing	field
+punct	standing	.

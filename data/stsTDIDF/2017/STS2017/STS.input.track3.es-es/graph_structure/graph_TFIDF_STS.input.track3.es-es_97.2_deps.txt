@@ -1,0 +1,5 @@
+group	adults	nmod:of
+look	group	nmod:at
+group	at	case
+look	group	nsubj
+group	children	nmod:of

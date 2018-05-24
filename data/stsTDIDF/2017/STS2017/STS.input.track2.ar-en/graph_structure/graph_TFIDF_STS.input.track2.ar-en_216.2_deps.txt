@@ -1,0 +1,7 @@
+skate	.	punct
+woman	Attractive	amod
+ROOT	skate	root
+skate	woman	nsubj
+ice	the	det
+skate	ice	nmod:on
+ice	on	case

@@ -1,0 +1,17 @@
+difficult	``	punct
+difficult	''	punct
+difficult	said	parataxis
+overstimulated	we	nsubjpass
+overstimulated	are	auxpass
+ways	participate	acl
+participate	goes	advcl
+overstimulated	constantly	advmod
+environment	an	det
+environment	overstimulated	acl:relcl
+difficult	find	xcomp
+environment	In	case
+noise	the	det
+goes	noise	nsubj
+overstimulated	where	advmod
+difficult	environment	nmod:in
+find	ways	dobj

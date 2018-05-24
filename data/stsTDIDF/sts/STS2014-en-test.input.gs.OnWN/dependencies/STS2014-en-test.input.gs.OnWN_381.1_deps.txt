@@ -1,0 +1,6 @@
+root	ROOT	bind
+nsubj	bound	somebody
+cc	somebody	or
+conj:or	somebody	become
+ccomp	bind	bound
+advmod	bound	emotionally

@@ -1,0 +1,8 @@
+nsubj	time	This
+cop	time	is
+neg	time	not
+det	time	the
+root	ROOT	time
+mark	show	to
+acl	time	show
+punct	time	.

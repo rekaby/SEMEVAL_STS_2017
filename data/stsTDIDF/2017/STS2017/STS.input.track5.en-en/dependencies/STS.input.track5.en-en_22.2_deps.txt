@@ -1,0 +1,8 @@
+det	dog	The
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	dog	after
+det	dog	another
+nmod:after	running	dog
+punct	running	.

@@ -1,0 +1,4 @@
+root	ROOT	get
+xcomp	get	rid
+nmod	rid	of
+punct	get	.

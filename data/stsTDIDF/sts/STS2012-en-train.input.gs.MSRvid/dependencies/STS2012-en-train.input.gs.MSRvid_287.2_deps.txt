@@ -1,0 +1,10 @@
+det	man	The
+nsubj	playing	man
+aux	playing	is
+root	ROOT	playing
+det	piano	the
+dobj	playing	piano
+case	nose	with
+nmod:poss	nose	his
+nmod:with	playing	nose
+punct	playing	.

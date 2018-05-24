@@ -1,0 +1,13 @@
+det	players	The
+nsubj	kicking	players
+aux	kicking	are
+root	ROOT	kicking
+det	other	each
+dobj	kicking	other
+mark	attempting	while
+advcl	kicking	attempting
+mark	kick	to
+xcomp	attempting	kick
+det	ball	the
+dobj	kick	ball
+punct	kicking	.

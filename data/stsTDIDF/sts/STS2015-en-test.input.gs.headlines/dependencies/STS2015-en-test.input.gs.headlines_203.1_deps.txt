@@ -1,0 +1,5 @@
+amod	Brotherhood	Muslim
+nsubj	banned	Brotherhood
+root	ROOT	banned
+case	Egypt	in
+nmod:in	banned	Egypt

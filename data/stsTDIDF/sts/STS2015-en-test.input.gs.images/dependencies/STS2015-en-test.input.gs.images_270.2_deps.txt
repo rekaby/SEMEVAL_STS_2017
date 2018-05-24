@@ -1,0 +1,12 @@
+det	dog	A
+amod	dog	white
+nsubj	standing	dog
+aux	standing	is
+root	ROOT	standing
+case	river	by
+det	river	a
+nmod:by	standing	river
+acl	river	shaking
+nsubj	dry	himself
+xcomp	shaking	dry
+punct	standing	.

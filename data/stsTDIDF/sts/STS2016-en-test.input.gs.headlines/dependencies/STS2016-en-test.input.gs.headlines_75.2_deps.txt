@@ -1,0 +1,8 @@
+nsubj	believed	Hundreds
+root	ROOT	believed
+amod	blast	injured
+case	plant	in
+compound	plant	Texas
+compound	plant	fertiliser
+nmod:in	injured	plant
+dobj	believed	blast

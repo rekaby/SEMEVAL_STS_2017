@@ -1,0 +1,17 @@
+det	list	a
+root	ROOT	list
+case	candidates	of
+nmod:of	list	candidates
+acl	candidates	nominated
+case	party	by
+det	party	a
+amod	party	political
+nmod:by	nominated	party
+mark	run	to
+xcomp	nominated	run
+case	election	for
+nmod:for	run	election
+case	offices	to
+amod	offices	public
+nmod:to	election	offices
+punct	list	.

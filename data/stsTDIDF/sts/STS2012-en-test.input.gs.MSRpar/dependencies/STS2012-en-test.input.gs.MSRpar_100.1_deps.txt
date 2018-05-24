@@ -1,0 +1,14 @@
+root	ROOT	``
+nmod:poss	feeling	Tony
+case	Tony	's
+neg	feeling	not
+ccomp	Spurs	feeling
+advmod	feeling	well
+punct	Spurs	,
+punct	Spurs	''
+root	``	Spurs
+compound	Popovich	coach
+compound	Popovich	Gregg
+nsubj	said	Popovich
+acl:relcl	Spurs	said
+punct	Spurs	.

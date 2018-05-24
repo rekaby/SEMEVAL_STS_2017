@@ -1,0 +1,13 @@
+compound	merwe	van
+compound	merwe	der
+nsubj	sentenced	merwe
+root	ROOT	sentenced
+dobj	sentenced	geiges
+case	total	to
+det	total	a
+nmod:to	sentenced	total
+case	years	of
+nummod	years	13
+nmod:of	total	years
+dep	years	imprisonment
+punct	sentenced	.

@@ -1,0 +1,9 @@
+det	poodle	A
+amod	poodle	black
+nsubj	running	poodle
+aux	running	is
+root	ROOT	running
+case	snow	in
+det	snow	the
+nmod:in	running	snow
+punct	running	.

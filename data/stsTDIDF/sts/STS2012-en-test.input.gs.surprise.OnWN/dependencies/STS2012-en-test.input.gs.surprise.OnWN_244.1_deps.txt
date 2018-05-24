@@ -1,0 +1,6 @@
+det	region	a
+root	ROOT	region
+acl	region	allocated
+mark	hold	to
+xcomp	allocated	hold
+dobj	hold	something

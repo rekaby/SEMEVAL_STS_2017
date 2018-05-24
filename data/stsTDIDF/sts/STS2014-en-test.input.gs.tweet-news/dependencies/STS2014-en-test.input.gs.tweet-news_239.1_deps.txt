@@ -1,0 +1,24 @@
+root	ROOT	Awe
+punct	one	-
+nsubj	passes	one
+case	bloggers	of
+det	bloggers	the
+amod	bloggers	original
+punct	bloggers	``
+nmod:of	one	bloggers
+punct	one	''
+acl:relcl	Awe	passes
+advmod	passes	away
+punct	Awe	.-12) compound(Phillips-2, Pauline
+nsubj	Dies	Phillips
+punct	Phillips	,
+appos	Phillips	Adviser
+case	Millions	to
+nmod:to	Adviser	Millions
+case	Abby	as
+compound	Abby	Dear
+nmod:as	Adviser	Abby
+punct	Phillips	,
+root	ROOT	Dies
+case	94	at
+nmod:at	Dies	94

@@ -1,0 +1,12 @@
+det	group	A
+nsubj	wearing	group
+case	people	of
+nmod:of	group	people
+aux	wearing	are
+root	ROOT	wearing
+compound	uniforms	police
+dobj	wearing	uniforms
+advcl	wearing	conducting
+det	arrest	an
+dobj	conducting	arrest
+punct	wearing	.

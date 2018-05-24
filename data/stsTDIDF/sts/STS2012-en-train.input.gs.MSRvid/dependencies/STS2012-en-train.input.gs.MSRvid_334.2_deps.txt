@@ -1,0 +1,8 @@
+nsubj	putting	Someone
+aux	putting	is
+root	ROOT	putting
+dobj	putting	rice
+case	pan	in
+det	pan	a
+nmod:in	putting	pan
+punct	putting	.

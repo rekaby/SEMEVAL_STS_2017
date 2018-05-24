@@ -1,0 +1,13 @@
+suit	girl	nsubj
+ROOT	suit	root
+standing	kitchen	nmod:in
+wishing	home	ccomp
+kitchen	mother	nmod:poss
+suit	pinstripe	compound
+suit	,	punct
+suit	is	cop
+suit	.	punct
+suit	standing	acl
+suit	wishing	acl
+home	she	nsubj
+home	were	cop

@@ -1,0 +1,8 @@
+det	close	a
+root	ROOT	close
+case	head	up
+nmod:up	close	head
+case	ostrich	of
+det	ostrich	an
+nmod:of	head	ostrich
+punct	close	.

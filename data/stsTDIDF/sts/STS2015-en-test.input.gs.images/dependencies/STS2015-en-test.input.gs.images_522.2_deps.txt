@@ -1,0 +1,12 @@
+det	swimming	A
+amod	swimming	little
+compound	swimming	boy
+root	ROOT	swimming
+amod	swimming	underwater
+case	toy	with
+det	toy	a
+nmod:with	underwater	toy
+case	hand	in
+nmod:poss	hand	his
+nmod:in	toy	hand
+punct	swimming	.

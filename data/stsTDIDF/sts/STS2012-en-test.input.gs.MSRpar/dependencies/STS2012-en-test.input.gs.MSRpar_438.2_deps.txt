@@ -1,0 +1,16 @@
+compound	Associates	Telemarketing
+nsubj	raised	Associates
+punct	Associates	,
+acl	Associates	hired
+case	VietNow	by
+nmod:by	hired	VietNow
+punct	Associates	,
+root	ROOT	raised
+dobj	raised	$
+compound	million	7.1
+nummod	$	million
+case	1987	from
+nmod:from	raised	1987
+case	1995	to
+nmod:to	raised	1995
+punct	raised	.

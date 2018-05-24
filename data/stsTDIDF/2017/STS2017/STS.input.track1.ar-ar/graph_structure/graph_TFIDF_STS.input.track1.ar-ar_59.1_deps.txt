@@ -1,0 +1,6 @@
+one	elephants	nmod:of
+elephants	of	case
+taking	photos	dobj
+elephants	the	det
+taking	People	nsubj
+photos	one	nmod:of

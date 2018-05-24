@@ -1,0 +1,11 @@
+amod	man	Black
+nsubj	driving	man
+root	ROOT	driving
+case	hands	with
+cc:preconj	hands	both
+nmod:with	driving	hands
+case	wheel	on
+det	wheel	the
+amod	wheel	steering
+nmod:on	hands	wheel
+punct	driving	.

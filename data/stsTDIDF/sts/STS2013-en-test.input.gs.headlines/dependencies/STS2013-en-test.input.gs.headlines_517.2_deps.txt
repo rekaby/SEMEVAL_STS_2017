@@ -1,0 +1,8 @@
+root	ROOT	Archbishop
+case	Canterbury	of
+nmod:of	Archbishop	Canterbury
+mark	step	to
+acl	Archbishop	step
+compound:prt	step	down
+case	rifts	amid
+nmod:amid	step	rifts

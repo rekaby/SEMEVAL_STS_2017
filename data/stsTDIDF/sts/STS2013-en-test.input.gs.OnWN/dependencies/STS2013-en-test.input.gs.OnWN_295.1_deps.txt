@@ -1,0 +1,7 @@
+mark	combat	to
+root	ROOT	combat
+cc	combat	or
+conj:or	combat	oppose
+dobj	oppose	someone
+cc	someone	or
+conj:or	someone	something

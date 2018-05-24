@@ -1,0 +1,11 @@
+root	ROOT	bulbs
+dep	bulbs	b
+cc	b	and
+conj:and	b	c
+dep	bulbs	have
+amod	paths	separate
+dobj	have	paths
+case	circuit	within
+det	circuit	the
+amod	circuit	closed
+nmod:within	paths	circuit

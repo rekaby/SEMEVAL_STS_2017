@@ -1,0 +1,11 @@
+case	US	In
+det	US	the
+nmod:in	depend	US
+punct	depend	,
+nsubj	depend	it
+aux	depend	will
+root	ROOT	depend
+case	school	on
+det	school	the
+nmod:on	depend	school
+punct	depend	.

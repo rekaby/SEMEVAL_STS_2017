@@ -1,0 +1,8 @@
+nsubj	says	Syria
+root	ROOT	says
+nsubj	begun	troops
+aux	begun	have
+ccomp	says	begun
+compound	video	pullout
+punct	pullout	--
+dobj	begun	video

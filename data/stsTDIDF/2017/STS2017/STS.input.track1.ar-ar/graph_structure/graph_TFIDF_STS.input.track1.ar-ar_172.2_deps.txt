@@ -1,0 +1,9 @@
+ROOT	Clown	root
+Clown	.	punct
+run	bull	nmod:agent
+run	be	auxpass
+run	over	compound:prt
+run	about	advmod
+Clown	run	acl
+bull	by	case
+bull	a	det

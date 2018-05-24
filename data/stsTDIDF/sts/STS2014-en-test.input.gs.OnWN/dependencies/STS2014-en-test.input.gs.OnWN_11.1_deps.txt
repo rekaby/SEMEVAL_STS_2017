@@ -1,0 +1,9 @@
+root	ROOT	release
+case	confinement	from
+nmod:from	release	confinement
+punct	confinement	,
+conj:or	confinement	obligation
+punct	confinement	,
+cc	confinement	or
+det	burden	a
+conj:or	confinement	burden

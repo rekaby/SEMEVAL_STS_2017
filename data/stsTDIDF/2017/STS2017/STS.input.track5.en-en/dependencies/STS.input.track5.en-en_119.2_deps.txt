@@ -1,0 +1,14 @@
+det	child	An
+amod	child	older
+nsubj	playing	child
+aux	playing	is
+root	ROOT	playing
+case	doll	with
+det	doll	a
+nmod:with	playing	doll
+mark	gazing	while
+advcl	playing	gazing
+compound:prt	gazing	out
+det	window	the
+dobj	gazing	window
+punct	playing	.

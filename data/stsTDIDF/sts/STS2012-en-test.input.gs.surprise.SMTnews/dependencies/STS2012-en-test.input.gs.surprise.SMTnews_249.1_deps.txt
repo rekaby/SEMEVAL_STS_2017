@@ -1,0 +1,12 @@
+root	ROOT	None
+case	countries	of
+det	countries	this
+amod	countries	absolves
+amod	countries	rich
+nmod:of	None	countries
+case	responsibility	of
+nmod:poss	responsibility	their
+nmod:of	countries	responsibility
+mark	help	to
+acl	responsibility	help
+punct	None	.

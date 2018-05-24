@@ -1,0 +1,8 @@
+nsubj	about	He
+cop	about	is
+root	ROOT	about
+mark	run	to
+acl	about	run
+case	boat	into
+det	boat	the
+nmod:into	run	boat

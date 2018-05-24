@@ -1,0 +1,6 @@
+compound	personnel	Security
+nsubj	raid	personnel
+acl	personnel	killed
+case	Pakistan	in
+nmod:in	killed	Pakistan
+root	ROOT	raid

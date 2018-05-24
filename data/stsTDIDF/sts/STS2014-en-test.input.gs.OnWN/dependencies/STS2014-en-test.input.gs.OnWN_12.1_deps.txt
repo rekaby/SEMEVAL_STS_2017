@@ -1,0 +1,12 @@
+punct	Cause	-LRB-
+dep	sully	Cause
+dep	Cause	to
+punct	Cause	-RRB-
+root	ROOT	sully
+det	name	the
+amod	name	good
+dobj	sully	name
+cc	name	and
+conj:and	name	reputation
+acl	name	of
+punct	sully	.

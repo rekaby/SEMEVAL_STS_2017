@@ -1,0 +1,5 @@
+house	dog	compound
+more	house	nmod:than
+ROOT	Nothing	root
+house	than	case
+Nothing	more	amod

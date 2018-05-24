@@ -1,0 +1,6 @@
+nsubj	prepare	Muslims
+root	ROOT	prepare
+case	start	for
+nmod:for	prepare	start
+case	Ramadan	of
+nmod:of	start	Ramadan

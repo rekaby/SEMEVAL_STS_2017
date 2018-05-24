@@ -1,0 +1,6 @@
+root	ROOT	measure
+det	time	the
+dobj	measure	time
+cc	time	or
+conj:or	time	duration
+acl	time	of

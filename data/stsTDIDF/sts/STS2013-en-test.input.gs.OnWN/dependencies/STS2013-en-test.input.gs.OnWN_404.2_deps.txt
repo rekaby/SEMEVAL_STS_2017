@@ -1,0 +1,6 @@
+root	ROOT	accuse
+advmod	crime	formally
+case	crime	of
+det	crime	a
+nmod:of	accuse	crime
+punct	accuse	.

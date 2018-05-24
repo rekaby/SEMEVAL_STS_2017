@@ -1,0 +1,8 @@
+compound	building	New
+compound	building	World
+compound	building	Trade
+compound	building	Centre
+amod	building	tallest
+root	ROOT	building
+case	US	in
+nmod:in	building	US

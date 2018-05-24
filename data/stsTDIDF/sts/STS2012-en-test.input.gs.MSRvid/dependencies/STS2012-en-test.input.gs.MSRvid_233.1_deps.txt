@@ -1,0 +1,7 @@
+det	cat	A
+nsubj	eating	cat
+aux	eating	is
+root	ROOT	eating
+det	corn	some
+dobj	eating	corn
+punct	eating	.

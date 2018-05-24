@@ -1,0 +1,10 @@
+aux	notice	Do
+nsubj	notice	you
+root	ROOT	notice
+det	things	the
+amod	things	nonsensical
+dobj	notice	things
+nsubj	saying	you
+aux	saying	are
+acl:relcl	things	saying
+punct	notice	?

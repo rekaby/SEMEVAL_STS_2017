@@ -1,0 +1,12 @@
+nummod	girls	Two
+nsubj	watch	girls
+case	shore	on
+det	shore	the
+nmod:on	girls	shore
+root	ROOT	watch
+dobj	watch	people
+case	fish	in
+det	fish	a
+compound	fish	boat
+nmod:in	watch	fish
+punct	watch	.

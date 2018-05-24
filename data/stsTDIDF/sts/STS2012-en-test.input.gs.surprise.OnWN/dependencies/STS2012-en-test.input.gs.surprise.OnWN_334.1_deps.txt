@@ -1,0 +1,9 @@
+det	act	The
+root	ROOT	act
+mark	sorting	of
+acl	act	sorting
+nummod	thing	one
+dobj	sorting	thing
+case	others	from
+nmod:from	sorting	others
+punct	act	.

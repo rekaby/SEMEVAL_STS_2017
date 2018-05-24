@@ -1,0 +1,10 @@
+nummod	dogs	Two
+amod	dogs	gray
+nsubj	run	dogs
+root	ROOT	run
+advmod	run	together
+case	grass	over
+det	grass	the
+amod	grass	green
+nmod:over	run	grass
+punct	run	.

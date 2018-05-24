@@ -1,0 +1,6 @@
+det	woman	a
+nsubj	has	woman
+root	ROOT	has
+det	child	a
+dobj	has	child
+punct	has	.

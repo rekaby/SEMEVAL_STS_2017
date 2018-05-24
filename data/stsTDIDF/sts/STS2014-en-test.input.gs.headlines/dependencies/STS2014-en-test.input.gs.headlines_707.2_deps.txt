@@ -1,0 +1,11 @@
+compound	toll	Storm
+compound	toll	death
+nsubj	rises	toll
+root	ROOT	rises
+case	wind	as
+nmod:as	rises	wind
+punct	wind	,
+compound	batters	rain
+appos	wind	batters
+advmod	batters	north
+punct	rises	.-11) root(ROOT-0, Europe

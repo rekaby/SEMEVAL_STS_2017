@@ -1,0 +1,8 @@
+root	ROOT	rinse
+nmod:poss	mouth	one
+case	one	's
+dobj	rinse	mouth
+case	mouthwash	with
+nmod:with	rinse	mouthwash
+punct	rinse	,
+dep	rinse	gargle

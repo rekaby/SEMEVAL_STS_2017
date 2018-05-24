@@ -1,0 +1,6 @@
+amod	part	positively-charged
+compound	part	center
+root	ROOT	part
+case	atom	of
+det	atom	an
+nmod:of	part	atom

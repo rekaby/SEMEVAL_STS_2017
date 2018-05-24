@@ -1,0 +1,6 @@
+case	basin	in
+compound	basin	Foxe
+nmod:in	frozen	basin
+auxpass	frozen	was
+root	ROOT	frozen
+punct	frozen	.

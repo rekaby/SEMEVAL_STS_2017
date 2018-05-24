@@ -1,0 +1,11 @@
+nsubj	Approves	House
+root	ROOT	Approves
+amod	Victims	$
+nummod	$	50.7
+compound	Victims	Billion
+case	Aid	in
+compound	Aid	Emergency
+nmod:in	Billion	Aid
+case	Storm	for
+nmod:for	Aid	Storm
+dobj	Approves	Victims

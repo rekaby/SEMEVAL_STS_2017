@@ -1,0 +1,11 @@
+sitting	bench	nmod:on
+foreground	the	det
+sitting	People	nsubj
+bench	a	det
+pictures	visible	amod
+visible	foreground	nmod:in
+bench	park	compound
+pictures	3	nummod
+foreground	in	case
+sitting	are	advcl
+are	pictures	nsubj

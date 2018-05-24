@@ -1,0 +1,8 @@
+det	man	a
+nsubj	walks	man
+root	ROOT	walks
+case	walkway	along
+nmod:along	walks	walkway
+case	store	to
+det	store	the
+nmod:to	walks	store

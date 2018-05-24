@@ -1,0 +1,11 @@
+nsubj	Look	Families
+case	Victims	of
+compound	Victims	#Newtown
+nmod:of	Families	Victims
+root	ROOT	Look
+case	Answers	for
+nmod:for	Look	Answers
+case	#NRA	on
+compound	#NRA	#Gun
+compound	#NRA	Violence
+nmod:on	Answers	#NRA

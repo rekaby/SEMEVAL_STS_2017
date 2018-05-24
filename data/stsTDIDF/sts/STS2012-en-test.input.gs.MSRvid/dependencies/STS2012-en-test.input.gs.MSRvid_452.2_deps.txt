@@ -1,0 +1,10 @@
+det	teenager	A
+nsubj	talks	teenager
+root	ROOT	talks
+case	girl	to
+det	girl	a
+nmod:to	talks	girl
+case	webcam	over
+det	webcam	a
+nmod:over	talks	webcam
+punct	talks	.

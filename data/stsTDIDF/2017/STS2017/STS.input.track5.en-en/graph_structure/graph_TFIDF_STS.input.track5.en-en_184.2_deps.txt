@@ -1,0 +1,6 @@
+girl	water	nmod:in
+girl	goggles	nmod:with
+cap	swimming	compound
+goggles	with	case
+goggles	and	cc
+goggles	cap	conj:and

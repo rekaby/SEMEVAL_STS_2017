@@ -1,0 +1,14 @@
+nsubj	make	Sunnis
+root	ROOT	make
+compound:prt	make	up
+nummod	percent	77
+dobj	make	percent
+case	population	of
+nmod:poss	population	Pakistan
+case	Pakistan	's
+nmod:of	percent	population
+punct	percent	,
+compound	percent	Shiites
+nummod	percent	20
+appos	percent	percent
+punct	make	.

@@ -1,0 +1,15 @@
+hiking	summer	nmod:in
+says	long	ccomp
+happy	we	nsubj
+go	happy	xcomp
+happy	are	cop
+ski	go	conj:and
+happy	hiking	dep
+long	ski	advcl
+ski	can	aux
+ski	we	nsubj
+ski	winter	nmod:in
+ski	and	cc
+ski	as	mark
+says	Anna	nsubj
+long	As	advmod

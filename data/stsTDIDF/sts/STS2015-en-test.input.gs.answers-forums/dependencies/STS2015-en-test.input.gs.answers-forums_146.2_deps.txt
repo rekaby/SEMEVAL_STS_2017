@@ -1,0 +1,14 @@
+punct	construct	``
+nsubj	construct	Phoneme
+punct	construct	''
+cop	construct	is
+det	construct	a
+amod	construct	theoretical
+root	ROOT	construct
+nsubj	go	which
+advmod	go	probably
+aux	go	ca
+neg	go	n't
+acl:relcl	construct	go
+advmod	go	away
+punct	construct	.

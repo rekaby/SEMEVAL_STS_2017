@@ -1,0 +1,12 @@
+compound	Bennett	Board
+compound	Bennett	Chancellor
+compound	Bennett	Robert
+nsubj	declined	Bennett
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+case	matters	on
+compound	matters	personnel
+nmod:on	comment	matters
+nmod:tmod	comment	Tuesday
+punct	declined	.

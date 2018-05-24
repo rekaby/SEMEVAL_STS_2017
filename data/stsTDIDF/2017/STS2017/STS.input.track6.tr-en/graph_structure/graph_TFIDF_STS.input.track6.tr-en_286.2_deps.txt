@@ -1,0 +1,7 @@
+ROOT	dancing	root
+dancing	.	punct
+dancing	festival	nmod:at
+festival	a	det
+dancing	Adam	nsubj
+festival	at	case
+dancing	is	aux

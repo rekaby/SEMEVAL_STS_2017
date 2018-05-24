@@ -1,0 +1,8 @@
+root	ROOT	set
+cc	set	or
+conj:or	set	ask
+case	price	for
+det	price	a
+amod	price	certain
+nmod:for	set	price
+punct	set	.

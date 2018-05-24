@@ -1,0 +1,8 @@
+cart	vendor	nsubj
+cart	is	cop
+ROOT	cart	root
+vendor	A	det
+cart	his	nmod:poss
+cart	with	case
+cart	.	punct
+vendor	street	compound

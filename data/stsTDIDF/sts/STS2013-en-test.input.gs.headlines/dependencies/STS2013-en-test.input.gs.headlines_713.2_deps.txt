@@ -1,0 +1,7 @@
+amod	leader	Venezuelan
+root	ROOT	leader
+acl	leader	returning
+case	Cuba	to
+nmod:to	returning	Cuba
+case	treatment	for
+nmod:for	returning	treatment

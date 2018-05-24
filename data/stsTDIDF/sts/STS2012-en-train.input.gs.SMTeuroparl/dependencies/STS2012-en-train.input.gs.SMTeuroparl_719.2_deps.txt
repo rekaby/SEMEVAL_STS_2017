@@ -1,0 +1,7 @@
+nsubj	drove	He
+root	ROOT	drove
+det	rose	a
+dobj	drove	rose
+amod	car	colored
+dobj	rose	car
+punct	drove	.

@@ -1,0 +1,14 @@
+det	gathering	a
+root	ROOT	gathering
+case	spectators	of
+nmod:of	gathering	spectators
+cc	spectators	or
+conj:or	spectators	listeners
+case	performance	at
+det	performance	a
+punct	public	-LRB-
+advmod	public	usually
+dep	performance	public
+punct	public	-RRB-
+nmod:at	gathering	performance
+punct	gathering	.

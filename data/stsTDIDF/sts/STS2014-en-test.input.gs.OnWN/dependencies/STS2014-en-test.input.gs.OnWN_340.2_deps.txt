@@ -1,0 +1,17 @@
+det	official	an
+root	ROOT	official
+amod	official	responsible
+case	control	for
+nmod:for	responsible	control
+cc	control	and
+conj:and	control	supervision
+case	activity	of
+det	activity	a
+amod	activity	particular
+nmod:of	control	activity
+cc	activity	or
+conj:or	activity	area
+case	interest	of
+amod	interest	public
+nmod:of	area	interest
+punct	official	.

@@ -1,0 +1,7 @@
+root	ROOT	Architect
+mark	build	to
+acl	Architect	build
+dobj	build	home
+acl	home	using
+amod	printer	3-D
+dobj	using	printer

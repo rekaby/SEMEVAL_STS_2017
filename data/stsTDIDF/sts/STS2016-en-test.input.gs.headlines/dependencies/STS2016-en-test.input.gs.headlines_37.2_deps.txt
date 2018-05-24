@@ -1,0 +1,9 @@
+compound	Arias	Jodi
+nsubj	eligible	Arias
+ccomp	says	eligible
+case	penalty	for
+compound	penalty	death
+nmod:for	eligible	penalty
+punct	says	,
+nsubj	says	jury
+root	ROOT	says

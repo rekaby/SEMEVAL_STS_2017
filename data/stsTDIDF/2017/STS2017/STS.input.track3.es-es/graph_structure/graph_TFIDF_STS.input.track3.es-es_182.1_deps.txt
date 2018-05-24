@@ -1,0 +1,7 @@
+do	dance	dobj
+synchronized	jumps	nmod:with
+people	Multiple	amod
+do	people	nsubj
+dance	synchronized	acl
+jumps	with	case
+dance	a	det

@@ -1,0 +1,15 @@
+det	man	A
+nsubj	running	man
+case	uniform	in
+det	uniform	a
+compound	uniform	football
+nmod:in	man	uniform
+aux	running	is
+root	ROOT	running
+case	football	with
+det	football	a
+nmod:with	running	football
+case	game	during
+det	game	a
+nmod:during	running	game
+punct	running	.

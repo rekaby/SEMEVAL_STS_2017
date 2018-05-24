@@ -1,0 +1,5 @@
+stretching	.	punct
+stretching	are	aux
+stretching	group	nsubj
+ROOT	stretching	root
+group	children	nmod:of

@@ -1,0 +1,13 @@
+nsubj	steals	Robber
+ccomp	say	steals
+amod	worth	$
+compound	million	53
+nummod	$	million
+dobj	steals	worth
+case	jewels	of
+nmod:of	worth	jewels
+case	Cannes	in
+nmod:in	jewels	Cannes
+punct	say	,
+nsubj	say	police
+root	ROOT	say

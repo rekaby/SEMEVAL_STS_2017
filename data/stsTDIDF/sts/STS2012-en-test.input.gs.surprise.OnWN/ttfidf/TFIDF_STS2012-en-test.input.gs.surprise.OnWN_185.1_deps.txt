@@ -1,0 +1,5 @@
+det stiffener a	15.060439779775294
+root ROOT stiffener	15.060439779775294
+case garment in	15.060439779775294
+nmod:in stiffener garment	15.060439779775294
+det garment a	12.421382450160035

@@ -1,0 +1,9 @@
+det	force	the
+root	ROOT	force
+case	which	by
+nmod:by	attracts	which
+nummod	object	one
+nsubj	attracts	object
+acl:relcl	force	attracts
+dobj	attracts	another
+punct	force	.

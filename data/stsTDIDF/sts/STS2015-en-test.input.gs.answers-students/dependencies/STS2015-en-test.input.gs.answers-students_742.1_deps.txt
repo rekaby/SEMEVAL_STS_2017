@@ -1,0 +1,7 @@
+det	terminals	the
+nummod	terminals	two
+nsubj	be	terminals
+aux	be	will
+cc:preconj	be	both
+root	ROOT	be
+nsubj	be	0

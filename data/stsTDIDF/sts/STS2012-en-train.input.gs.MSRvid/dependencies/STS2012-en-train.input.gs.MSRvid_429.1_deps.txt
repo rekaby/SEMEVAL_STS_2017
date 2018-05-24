@@ -1,0 +1,6 @@
+det	man	A
+nsubj	dries	man
+root	ROOT	dries
+nmod:poss	hands	his
+dobj	dries	hands
+punct	dries	.

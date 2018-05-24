@@ -1,0 +1,8 @@
+nsubj	kills	String
+case	blasts	of
+compound	blasts	Iraq
+nmod:of	String	blasts
+root	ROOT	kills
+case	least	at
+nmod:at	kills	least
+dobj	kills	32

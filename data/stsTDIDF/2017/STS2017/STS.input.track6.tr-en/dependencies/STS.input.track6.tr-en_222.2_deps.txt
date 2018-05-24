@@ -1,0 +1,8 @@
+det	kid	The
+root	ROOT	kid
+acl	kid	surfed
+case	time	for
+det	time	the
+amod	time	first
+nmod:for	surfed	time
+punct	kid	.

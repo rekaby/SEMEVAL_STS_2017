@@ -1,0 +1,6 @@
+compound	shares	Tokyo
+nsubj	pc	shares
+amod	pc	close
+nummod	pc	0.88
+root	ROOT	pc
+advmod	pc	lower

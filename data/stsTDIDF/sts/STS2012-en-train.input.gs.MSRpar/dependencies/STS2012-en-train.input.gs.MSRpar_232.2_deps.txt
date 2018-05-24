@@ -1,0 +1,15 @@
+compound	Mills	Mr.
+nsubj	declined	Mills
+root	ROOT	declined
+mark	comment	to
+xcomp	declined	comment
+nmod:tmod	comment	yesterday
+punct	declined	,
+xcomp	declined	saying
+mark	discussed	that
+nsubj	discussed	he
+neg	discussed	never
+ccomp	saying	discussed
+compound	matters	personnel
+dobj	discussed	matters
+punct	declined	.

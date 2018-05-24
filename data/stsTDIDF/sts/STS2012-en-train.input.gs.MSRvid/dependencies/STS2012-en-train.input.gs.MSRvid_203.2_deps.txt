@@ -1,0 +1,6 @@
+det	cat	A
+nsubj	addresses	cat
+root	ROOT	addresses
+det	camera	the
+dobj	addresses	camera
+punct	addresses	.

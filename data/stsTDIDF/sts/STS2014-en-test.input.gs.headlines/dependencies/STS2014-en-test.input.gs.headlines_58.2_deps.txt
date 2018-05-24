@@ -1,0 +1,10 @@
+compound	wildfire	California
+nsubj	grows	wildfire
+root	ROOT	grows
+cc	grows	but
+nsubj	say	officials
+conj:but	grows	say
+compound	crews	fire
+nsubj	making	crews
+ccomp	say	making
+dobj	making	progress

@@ -1,0 +1,16 @@
+det	girl	A
+root	ROOT	girl
+case	dress	in
+det	dress	a
+amod	dress	red
+nmod:in	girl	dress
+acl	dress	rides
+nmod:poss	bike	her
+dobj	rides	bike
+case	fence	in
+mwe	in	front
+mwe	in	of
+det	fence	a
+amod	fence	white
+nmod:in_front_of	bike	fence
+punct	girl	.

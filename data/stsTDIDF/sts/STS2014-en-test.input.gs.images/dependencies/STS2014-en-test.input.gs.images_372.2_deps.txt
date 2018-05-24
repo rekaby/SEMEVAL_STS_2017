@@ -1,0 +1,10 @@
+nummod	people	Two
+root	ROOT	people
+acl	people	sitting
+case	table	at
+det	table	a
+nmod:at	sitting	table
+case	restaurant	at
+det	restaurant	a
+nmod:at	sitting	restaurant
+punct	people	.

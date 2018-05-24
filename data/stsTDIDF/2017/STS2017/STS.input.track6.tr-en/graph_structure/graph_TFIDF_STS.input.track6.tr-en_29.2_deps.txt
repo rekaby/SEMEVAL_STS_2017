@@ -1,0 +1,5 @@
+instrument	an	det
+hair	black	amod
+plays	instrument	dobj
+plays	man	nsubj
+man	hair	nmod:with

@@ -1,0 +1,8 @@
+costume	an	det
+costume	elephant	compound
+man	costume	nmod:in
+plays	man	nsubj
+plays	keyboard	dobj
+costume	in	case
+keyboard	electric	amod
+keyboard	the	det

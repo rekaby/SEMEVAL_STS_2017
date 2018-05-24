@@ -1,0 +1,17 @@
+det	kind	The
+amod	kind	worst
+root	ROOT	kind
+case	judgement	of
+amod	judgement	poor
+amod	judgement	flying
+nmod:of	kind	judgement
+punct	kind	.-8) compound(plane-2, Stunt
+nsubj	prompts	plane
+advmod	missing	barely
+acl	plane	missing
+nummod	people	two
+dobj	missing	people
+root	ROOT	prompts
+compound	probe	FAA
+dobj	prompts	probe
+punct	prompts	.

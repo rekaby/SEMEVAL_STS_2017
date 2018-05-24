@@ -1,0 +1,10 @@
+det	woman	The
+nsubj	refused	woman
+root	ROOT	refused
+mark	look	to
+xcomp	refused	look
+case	camera	at
+det	camera	the
+amod	camera	old
+nmod:at	look	camera
+punct	refused	.

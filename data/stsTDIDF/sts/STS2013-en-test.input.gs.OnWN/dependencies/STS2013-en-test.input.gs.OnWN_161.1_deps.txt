@@ -1,0 +1,10 @@
+det	object	An
+nsubj	impairs	object
+root	ROOT	impairs
+det	respiration	the
+dobj	impairs	respiration
+case	someone	of
+nmod:of	respiration	someone
+cc	someone	or
+conj:or	someone	something
+punct	impairs	.

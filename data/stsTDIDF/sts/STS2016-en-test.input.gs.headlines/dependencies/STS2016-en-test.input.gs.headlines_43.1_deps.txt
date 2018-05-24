@@ -1,0 +1,6 @@
+nsubj	agrees	Israel
+root	ROOT	agrees
+case	hour	to
+compound	hour	12
+nmod:to	agrees	hour
+dobj	agrees	ceasefire

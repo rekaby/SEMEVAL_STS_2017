@@ -1,0 +1,8 @@
+det	man	A
+nsubj	crying	man
+aux	crying	is
+root	ROOT	crying
+mark	sits	while
+amod	man	other
+nsubj	sits	man
+advcl	crying	sits

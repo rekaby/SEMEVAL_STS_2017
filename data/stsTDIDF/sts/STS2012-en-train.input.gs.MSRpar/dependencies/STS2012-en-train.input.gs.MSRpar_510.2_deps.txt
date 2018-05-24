@@ -1,0 +1,16 @@
+det	woman	A
+nsubjpass	listed	woman
+auxpass	listed	was
+ccomp	said	listed
+case	condition	in
+amod	condition	good
+nmod:in	listed	condition
+case	campus	at
+nmod:poss	campus	Memorial
+case	Memorial	's
+compound	campus	HealthPark
+nmod:at	condition	campus
+punct	said	,
+nsubj	said	he
+root	ROOT	said
+punct	said	.

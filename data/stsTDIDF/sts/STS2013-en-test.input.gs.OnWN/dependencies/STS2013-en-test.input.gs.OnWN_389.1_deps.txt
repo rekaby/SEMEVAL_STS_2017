@@ -1,0 +1,6 @@
+root	ROOT	person
+nsubj	companion	who
+cop	companion	is
+det	companion	a
+amod	companion	social
+acl:relcl	person	companion

@@ -1,0 +1,8 @@
+nsubj	confirms	Senate
+root	ROOT	confirms
+compound	nominee	Obama
+dobj	confirms	nominee
+case	court	to
+amod	court	key
+compound	court	appeals
+nmod:to	nominee	court

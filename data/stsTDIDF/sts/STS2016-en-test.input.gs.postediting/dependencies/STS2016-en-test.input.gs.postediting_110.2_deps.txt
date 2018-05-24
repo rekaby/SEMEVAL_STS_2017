@@ -1,0 +1,27 @@
+det	futures	The
+nsubj	fell	futures
+case	oil	of
+amod	oil	crude
+nmod:of	futures	oil
+punct	futures	,
+root	ROOT	fell
+case	percent	by
+nummod	percent	7
+nmod:by	fell	percent
+case	$	to
+nmod:to	fell	$
+nummod	$	99.80
+det	barrel	a
+nmod:npmod	$	barrel
+punct	fell	.-16) det(Exchange-5, The
+compound	Exchange	New
+compound	Exchange	York
+compound	Exchange	Mercantile
+root	ROOT	Exchange
+punct	Exchange	,
+case	sales	in
+nmod:in	Exchange	sales
+case	morning	of
+det	morning	this
+nmod:of	sales	morning
+punct	Exchange	.

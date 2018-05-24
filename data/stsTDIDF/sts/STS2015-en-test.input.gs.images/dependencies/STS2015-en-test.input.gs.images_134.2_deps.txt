@@ -1,0 +1,12 @@
+det	boy	A
+amod	boy	young
+root	ROOT	boy
+case	uniform	in
+det	uniform	a
+amod	uniform	blue
+compound	uniform	soccer
+nmod:in	boy	uniform
+acl	uniform	chasing
+det	ball	a
+dobj	chasing	ball
+punct	boy	.

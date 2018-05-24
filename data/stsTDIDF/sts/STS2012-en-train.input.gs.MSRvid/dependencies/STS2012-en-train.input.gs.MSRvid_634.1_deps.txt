@@ -1,0 +1,8 @@
+det	boy	A
+nsubj	playing	boy
+aux	playing	is
+root	ROOT	playing
+dobj	playing	piano
+cc	piano	and
+conj:and	piano	singing
+punct	playing	.

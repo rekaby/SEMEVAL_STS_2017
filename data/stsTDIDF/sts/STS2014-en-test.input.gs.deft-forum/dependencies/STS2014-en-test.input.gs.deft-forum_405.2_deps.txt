@@ -1,0 +1,7 @@
+nsubj	responsible	People
+cop	responsible	are
+root	ROOT	responsible
+case	actions	for
+nmod:poss	actions	their
+nmod:for	responsible	actions
+punct	responsible	.

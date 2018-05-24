@@ -1,0 +1,7 @@
+amod	policeman	Indian
+nsubj	injured	policeman
+csubj	dies	injured
+case	protest	in
+amod	protest	gang-rape
+nmod:in	injured	protest
+root	ROOT	dies

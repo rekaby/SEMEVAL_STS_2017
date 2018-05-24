@@ -1,0 +1,10 @@
+det	dog	A
+amod	dog	pale
+nsubj	running	dog
+aux	running	is
+root	ROOT	running
+case	path	along
+det	path	a
+compound	path	dirt
+nmod:along	running	path
+punct	running	.

@@ -1,0 +1,8 @@
+det	bird	A
+root	ROOT	bird
+acl	bird	sitting
+case	cord	on
+det	cord	a
+compound	cord	power
+nmod:on	sitting	cord
+punct	bird	.

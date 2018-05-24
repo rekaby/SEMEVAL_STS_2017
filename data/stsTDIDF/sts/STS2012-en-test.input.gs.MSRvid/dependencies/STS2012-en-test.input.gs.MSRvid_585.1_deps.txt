@@ -1,0 +1,11 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+dobj	adding	pasta
+case	pot	to
+det	pot	a
+nmod:to	adding	pot
+case	water	of
+nmod:of	pot	water
+punct	adding	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	preparing	man
+aux	preparing	is
+root	ROOT	preparing
+det	snake	a
+dobj	preparing	snake
+case	cooking	for
+nmod:for	snake	cooking
+punct	preparing	.

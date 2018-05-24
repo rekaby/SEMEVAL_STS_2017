@@ -1,0 +1,5 @@
+stop	talk	xcomp
+sign	outside	advmod
+stop	men	nsubj
+talk	sign	nmod:near
+sign	near	case

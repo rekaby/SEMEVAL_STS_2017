@@ -1,0 +1,8 @@
+nummod	Things	5
+root	ROOT	Things
+mark	Know	to
+acl	Things	Know
+case	Olympics	About
+det	Olympics	the
+compound	Olympics	Sochi
+nmod:about	Know	Olympics

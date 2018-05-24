@@ -1,0 +1,12 @@
+det	man	A
+nsubj	standing	man
+aux	standing	is
+root	ROOT	standing
+case	statue	in
+mwe	in	front
+mwe	in	of
+det	statue	a
+amod	statue	raised
+nmod:in_front_of	standing	statue
+punct	standing	,
+punct	standing	.

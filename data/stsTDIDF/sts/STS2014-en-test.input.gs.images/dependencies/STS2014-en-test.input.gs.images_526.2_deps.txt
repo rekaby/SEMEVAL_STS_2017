@@ -1,0 +1,9 @@
+det	train	The
+amod	train	white
+nsubj	sitting	train
+aux	sitting	is
+root	ROOT	sitting
+case	tracks	on
+det	tracks	the
+nmod:on	sitting	tracks
+punct	sitting	.

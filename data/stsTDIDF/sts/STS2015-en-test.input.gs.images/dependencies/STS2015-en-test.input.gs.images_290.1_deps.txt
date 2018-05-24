@@ -1,0 +1,9 @@
+det	man	A
+root	ROOT	man
+case	trunks	in
+amod	trunks	red
+compound	trunks	swim
+nmod:in	man	trunks
+acl	trunks	playing
+dobj	playing	volleyball
+punct	man	.

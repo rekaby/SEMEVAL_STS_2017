@@ -1,0 +1,9 @@
+root	ROOT	Women
+case	store	in
+det	store	the
+nmod:in	Women	store
+acl	store	looking
+case	things	for
+nmod:for	looking	things
+case	supplies	in
+nmod:in	things	supplies

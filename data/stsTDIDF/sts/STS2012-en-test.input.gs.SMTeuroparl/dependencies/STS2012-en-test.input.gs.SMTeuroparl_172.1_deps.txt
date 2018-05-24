@@ -1,0 +1,15 @@
+amod	aid	Selective
+nsubj	essential	aid
+punct	aid	,
+case	support	such
+mwe	such	as
+compound	support	market
+nmod:such_as	aid	support
+cc	support	and
+det	subsidy	a
+compound	subsidy	grass
+conj:and	support	subsidy
+punct	aid	,
+cop	essential	are
+root	ROOT	essential
+punct	essential	.

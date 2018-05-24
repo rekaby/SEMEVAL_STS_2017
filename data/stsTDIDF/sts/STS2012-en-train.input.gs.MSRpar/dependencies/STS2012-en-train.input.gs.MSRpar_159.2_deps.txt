@@ -1,0 +1,16 @@
+det	House	The
+nsubj	passed	House
+aux	passed	has
+root	ROOT	passed
+dobj	passed	bills
+det	Congresses	the
+amod	Congresses	past
+nummod	Congresses	two
+dep	bills	Congresses
+punct	Congresses	,
+cc	Congresses	but
+det	Senate	the
+nsubj	has	Senate
+conj:but	Congresses	has
+neg	has	not
+punct	passed	.

@@ -1,0 +1,7 @@
+det	panda	A
+nsubj	slides	panda
+root	ROOT	slides
+compound:prt	slides	down
+det	slide	a
+dobj	slides	slide
+punct	slides	.

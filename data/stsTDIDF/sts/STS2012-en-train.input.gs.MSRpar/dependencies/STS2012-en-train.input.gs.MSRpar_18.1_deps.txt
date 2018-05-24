@@ -1,0 +1,16 @@
+amod	courts	Higher
+nsubj	ruled	courts
+aux	ruled	have
+root	ROOT	ruled
+mark	broke	that
+det	tablets	the
+nsubj	broke	tablets
+ccomp	ruled	broke
+det	separation	the
+amod	separation	constitutional
+dobj	broke	separation
+case	church	of
+nmod:of	separation	church
+cc	church	and
+conj:and	church	state
+punct	ruled	.

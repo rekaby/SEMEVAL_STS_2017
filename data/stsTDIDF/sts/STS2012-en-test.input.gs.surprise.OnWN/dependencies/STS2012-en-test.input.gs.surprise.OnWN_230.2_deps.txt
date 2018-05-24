@@ -1,0 +1,10 @@
+root	ROOT	money
+acl	money	deposited
+case	bank	in
+det	bank	a
+nmod:in	deposited	bank
+cc	bank	or
+det	institution	some
+amod	institution	similar
+conj:or	bank	institution
+punct	money	.

@@ -1,0 +1,15 @@
+root	ROOT	move
+conj:or	move	move
+advmod	move	along
+case	wheels	on
+cc	on	or
+conj:or	on	as
+mark	wheels	if
+case	wheels	on
+nmod:as	move	wheels
+nmod:on	move	wheels
+cc	wheels	or
+det	vehicle	a
+amod	vehicle	wheeled
+conj:or	wheels	vehicle
+punct	move	.

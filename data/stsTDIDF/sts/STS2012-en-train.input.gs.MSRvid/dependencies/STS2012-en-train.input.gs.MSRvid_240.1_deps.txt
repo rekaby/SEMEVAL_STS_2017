@@ -1,0 +1,7 @@
+det	woman	A
+nsubj	bathing	woman
+cop	bathing	is
+root	ROOT	bathing
+case	bath-tub	into
+nmod:into	bathing	bath-tub
+punct	bathing	.

@@ -1,0 +1,12 @@
+det	man	A
+nsubj	running	man
+aux	running	is
+root	ROOT	running
+case	sled	behind
+det	sled	a
+nmod:behind	running	sled
+acl	sled	pulled
+case	dogs	by
+nummod	dogs	four
+nmod:by	pulled	dogs
+punct	running	.

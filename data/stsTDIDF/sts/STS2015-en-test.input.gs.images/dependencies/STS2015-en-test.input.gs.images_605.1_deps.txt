@@ -1,0 +1,7 @@
+det	waves	A
+compound	waves	boy
+root	ROOT	waves
+case	sparkler	around
+det	sparkler	a
+nmod:around	waves	sparkler
+punct	waves	.

@@ -1,0 +1,10 @@
+mark	Muslim	To
+cop	Muslim	be
+root	ROOT	Muslim
+cc	Muslim	and
+conj:and	Muslim	Islamic
+cop	things	are
+nummod	things	two
+amod	things	different
+dep	Muslim	things
+punct	Muslim	.

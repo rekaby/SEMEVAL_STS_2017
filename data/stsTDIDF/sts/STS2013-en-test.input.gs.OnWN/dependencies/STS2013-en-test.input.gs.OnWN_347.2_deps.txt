@@ -1,0 +1,6 @@
+root	ROOT	make
+det	note	a
+amod	note	written
+dobj	make	note
+acl	note	of
+punct	make	.

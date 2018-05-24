@@ -1,0 +1,11 @@
+det	dog	A
+root	ROOT	dog
+acl	dog	standing
+case	beach	on
+det	beach	a
+nmod:on	standing	beach
+case	ball	with
+det	ball	a
+nmod:with	standing	ball
+advmod	ball	nearby
+punct	dog	.

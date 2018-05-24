@@ -1,0 +1,9 @@
+shopping	holiday	nmod:for
+ROOT	shopping	root
+holiday	Christmas	compound
+workers	fellow	amod
+shopping	workers	nmod:for
+shopping	People	nsubj
+shopping	.	punct
+holiday	for	case
+workers	their	nmod:poss

@@ -1,0 +1,8 @@
+det	conviction	What
+root	ROOT	conviction
+advmod	talking	where
+nsubj	talking	you
+acl:relcl	conviction	talking
+case	before	about
+nmod:about	talking	before
+punct	conviction	?

@@ -1,0 +1,6 @@
+compound	Thailand	Earthquake
+case	strikes	of
+nummod	strikes	6
+compound	strikes	magnitude
+nmod:of	Earthquake	strikes
+root	ROOT	Thailand

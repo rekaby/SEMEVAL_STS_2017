@@ -1,0 +1,9 @@
+det	car	The
+amod	car	intelligent
+nsubj	imitates	car
+root	ROOT	imitates
+det	flight	the
+dobj	imitates	flight
+case	bumblebee	of
+det	bumblebee	a
+nmod:of	flight	bumblebee

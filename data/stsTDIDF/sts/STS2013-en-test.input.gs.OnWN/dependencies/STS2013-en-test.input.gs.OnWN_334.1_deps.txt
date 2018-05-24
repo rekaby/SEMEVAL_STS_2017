@@ -1,0 +1,7 @@
+amod	enactment	concrete
+root	ROOT	enactment
+case	idea	of
+det	idea	an
+nmod:of	enactment	idea
+cc	idea	or
+conj:or	idea	concept

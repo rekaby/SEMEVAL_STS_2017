@@ -1,0 +1,9 @@
+nsubj	understand	i
+nsubj	understand	dont
+root	ROOT	understand
+advmod	goes	where
+nmod:poss	parents	my
+nsubj	money	parents
+nsubj	goes	money
+advcl	understand	goes
+punct	understand	!

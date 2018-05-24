@@ -1,0 +1,6 @@
+nsubj	makes	It
+root	ROOT	makes
+det	circuit	the
+nsubj	incomplete	circuit
+xcomp	makes	incomplete
+punct	makes	.

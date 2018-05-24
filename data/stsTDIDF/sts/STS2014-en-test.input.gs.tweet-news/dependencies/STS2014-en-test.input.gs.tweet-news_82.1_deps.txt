@@ -1,0 +1,11 @@
+root	ROOT	Dreamliner
+acl	Dreamliner	having
+amod	rollout	fitful
+dobj	having	rollout
+punct	Dreamliner	.-5) advmod(tough-2, How
+dep	is	tough
+root	ROOT	is
+nsubj	is	this
+case	Boeing	for
+nmod:for	this	Boeing
+punct	is	?

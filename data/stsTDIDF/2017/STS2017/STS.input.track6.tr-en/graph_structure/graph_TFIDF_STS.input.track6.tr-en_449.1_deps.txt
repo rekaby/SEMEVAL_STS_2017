@@ -1,0 +1,6 @@
+crowd	to	case
+giving	crowd	nmod:to
+crowd	people	nmod:of
+person	giving	acl
+people	younger	amod
+giving	directions	dobj

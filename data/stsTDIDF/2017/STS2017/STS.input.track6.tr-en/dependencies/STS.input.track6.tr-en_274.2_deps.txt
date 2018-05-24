@@ -1,0 +1,7 @@
+det	woman	The
+nsubj	bus	woman
+cop	bus	is
+case	bus	on
+det	bus	a
+root	ROOT	bus
+punct	bus	.

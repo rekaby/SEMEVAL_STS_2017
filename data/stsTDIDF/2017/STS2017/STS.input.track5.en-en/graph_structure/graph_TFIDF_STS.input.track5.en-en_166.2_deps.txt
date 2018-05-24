@@ -1,0 +1,6 @@
+ROOT	asleep	root
+couch	the	det
+asleep	.	punct
+asleep	couch	nmod:on
+asleep	man	nsubj
+asleep	are	cop

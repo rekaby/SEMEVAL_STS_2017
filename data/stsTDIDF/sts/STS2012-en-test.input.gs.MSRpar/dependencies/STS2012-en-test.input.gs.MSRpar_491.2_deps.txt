@@ -1,0 +1,13 @@
+compound	Deutsch	Peter
+nsubj	said	Deutsch
+punct	Deutsch	,
+appos	Deutsch	D-Fla.
+punct	Deutsch	,
+root	ROOT	said
+nsubj	wanted	he
+ccomp	said	wanted
+mark	congratulate	to
+xcomp	wanted	congratulate
+det	FDA	the
+dobj	congratulate	FDA
+punct	said	.

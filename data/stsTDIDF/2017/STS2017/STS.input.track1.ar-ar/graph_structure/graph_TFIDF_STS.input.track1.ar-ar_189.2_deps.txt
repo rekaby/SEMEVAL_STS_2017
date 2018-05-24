@@ -1,0 +1,11 @@
+crossed	he	nsubj
+crossed	line	dobj
+breathed	crossed	advcl
+ROOT	breathed	root
+breathed	.	punct
+breathed	car	dobj
+crossed	when	advmod
+car	race	compound
+breathed	I	nsubj
+car	smoke	compound
+line	finish	compound

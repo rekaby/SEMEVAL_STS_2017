@@ -1,0 +1,16 @@
+root	ROOT	Put
+det	Love	a
+amod	Love	Little
+dobj	Put	Love
+case	Heart	in
+nmod:poss	Heart	your
+nmod:in	Put	Heart
+nsubj	vessels	We
+cop	vessels	are
+det	vessels	all
+dep	Put	vessels
+acl	vessels	filled
+case	wonders	with
+amod	wonders	many
+nmod:with	filled	wonders
+punct	Put	.

@@ -1,0 +1,9 @@
+det	man	A
+nsubj	looking	man
+aux	looking	is
+root	ROOT	looking
+case	window	out
+mwe	out	of
+det	window	a
+nmod:out_of	looking	window
+punct	looking	.

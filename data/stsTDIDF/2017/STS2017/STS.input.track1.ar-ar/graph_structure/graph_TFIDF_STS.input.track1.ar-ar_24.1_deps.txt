@@ -1,0 +1,8 @@
+scans	men	nsubj
+scans	.	punct
+scans	jungle	nmod:in
+jungle	in	case
+scans	insects	dobj
+ROOT	scans	root
+jungle	the	det
+insects	rare	amod

@@ -1,0 +1,8 @@
+det	girl	A
+amod	girl	young
+nsubj	smiles	girl
+root	ROOT	smiles
+case	camera	for
+det	camera	the
+nmod:for	smiles	camera
+punct	smiles	.

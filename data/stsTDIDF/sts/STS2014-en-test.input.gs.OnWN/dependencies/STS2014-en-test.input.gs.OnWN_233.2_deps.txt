@@ -1,0 +1,8 @@
+root	ROOT	study
+advmod	study	intensively
+punct	study	,
+case	exam	as
+case	exam	before
+det	exam	an
+acl:before	study	exam
+punct	study	.

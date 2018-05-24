@@ -1,0 +1,6 @@
+det	instance	An
+root	ROOT	instance
+case	perception	of
+amod	perception	visual
+nmod:of	instance	perception
+punct	instance	.

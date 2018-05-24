@@ -1,0 +1,6 @@
+turn	cross	acl
+turn	for	case
+cross	street	dobj
+turn	their	nmod:poss
+wait	turn	nmod:for
+wait	group	nsubj

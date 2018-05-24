@@ -1,0 +1,11 @@
+det	man	A
+nsubj	jumps	man
+root	ROOT	jumps
+case	friend	over
+nmod:poss	friend	his
+nmod:over	jumps	friend
+mark	avoid	to
+xcomp	jumps	avoid
+xcomp	avoid	waking
+dobj	waking	him
+punct	jumps	.

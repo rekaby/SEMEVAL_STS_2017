@@ -1,0 +1,12 @@
+nsubj	path	it
+cop	path	is
+neg	path	not
+case	path	in
+det	path	the
+amod	path	same
+root	ROOT	path
+case	bulb	with
+det	bulb	the
+nmod:with	path	bulb
+cc	bulb	and
+conj:and	bulb	battery

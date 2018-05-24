@@ -1,0 +1,10 @@
+root	ROOT	Baby
+acl	Baby	wearing
+det	T-shirt	a
+dobj	wearing	T-shirt
+compound	cart	striped
+compound	cart	rainbow
+amod	cart	paid
+compound	cart	game
+dobj	T-shirt	cart
+punct	Baby	.

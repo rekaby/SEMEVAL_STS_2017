@@ -1,0 +1,8 @@
+det	man	A
+nsubj	pours	man
+root	ROOT	pours
+dobj	pours	oil
+case	tomatos	on
+det	tomatos	some
+nmod:on	pours	tomatos
+punct	pours	.

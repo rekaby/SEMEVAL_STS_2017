@@ -1,0 +1,11 @@
+nmod:poss	Minister	#Britain
+case	#Britain	's
+compound	Minister	Prime
+nsubj	Defends	Minister
+root	ROOT	Defends
+dobj	Defends	Decision
+mark	Seek	to
+advcl	Defends	Seek
+dobj	Seek	Vote
+case	#EuropeanUnion	on
+nmod:on	Seek	#EuropeanUnion

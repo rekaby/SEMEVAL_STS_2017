@@ -1,0 +1,5 @@
+compound	orders	Egypt
+compound	orders	court
+nsubj	release	orders
+compound	release	Mubarak
+root	ROOT	release

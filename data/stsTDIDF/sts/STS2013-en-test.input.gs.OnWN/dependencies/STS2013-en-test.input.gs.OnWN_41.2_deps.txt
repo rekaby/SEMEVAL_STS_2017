@@ -1,0 +1,6 @@
+root	ROOT	appear
+case	way	in
+det	way	a
+amod	way	certain
+nmod:in	appear	way
+punct	appear	.

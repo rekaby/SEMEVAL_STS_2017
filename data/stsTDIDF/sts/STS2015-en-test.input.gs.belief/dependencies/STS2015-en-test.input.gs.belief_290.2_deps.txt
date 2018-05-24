@@ -1,0 +1,10 @@
+root	ROOT	also
+punct	also	,
+root	,	assuming
+det	thing	the
+amod	thing	whole
+nsubj	sham	thing
+cop	sham	is
+det	sham	a
+ccomp	assuming	sham
+punct	assuming	.-10) root(ROOT-0, .

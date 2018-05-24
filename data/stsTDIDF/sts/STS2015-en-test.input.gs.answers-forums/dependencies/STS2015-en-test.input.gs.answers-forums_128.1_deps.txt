@@ -1,0 +1,13 @@
+root	ROOT	Looks
+mark	rediscovered	like
+nsubj	rediscovered	you
+aux	rediscovered	've
+advcl	Looks	rediscovered
+nmod:poss	concept	Jaspers
+case	Jaspers	's
+dobj	rediscovered	concept
+case	Age	of
+det	Age	the
+compound	Age	Axial
+nmod:of	concept	Age
+punct	Looks	.

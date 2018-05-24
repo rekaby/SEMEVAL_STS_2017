@@ -1,0 +1,7 @@
+compound	base	Suicide
+compound	base	bombers
+compound	base	attack
+compound	base	US
+root	ROOT	base
+case	Afghanistan	in
+nmod:in	base	Afghanistan

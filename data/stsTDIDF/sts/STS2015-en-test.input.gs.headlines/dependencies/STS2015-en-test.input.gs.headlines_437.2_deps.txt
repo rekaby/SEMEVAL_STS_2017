@@ -1,0 +1,11 @@
+nmod:poss	control	Israel
+case	Israel	's
+compound	control	West
+compound	control	Bank
+nsubj	billions	control
+punct	billions	`
+dep	billions	costing
+amod	economy	Palestinian
+dobj	costing	economy
+root	ROOT	billions
+case	billions	'

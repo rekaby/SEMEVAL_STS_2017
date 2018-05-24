@@ -1,0 +1,15 @@
+root	ROOT	make
+xcomp	make	dirty
+cc	dirty	or
+conj:or	dirty	spotty
+punct	dirty	,
+case	exposure	as
+case	exposure	by
+nmod:by	dirty	exposure
+case	air	to
+nmod:to	exposure	air
+punct	dirty	;
+advmod	used	also
+dep	dirty	used
+advmod	used	metaphorically
+punct	make	.

@@ -1,0 +1,12 @@
+Man	sitting	acl
+row	of	case
+Man	.	punct
+ROOT	Man	root
+row	chairs	nmod:of
+sitting	payphones	nmod:by
+end	row	nmod:of
+payphones	by	case
+payphones	some	det
+sitting	end	nmod:at
+chairs	green	amod
+chairs	of	case

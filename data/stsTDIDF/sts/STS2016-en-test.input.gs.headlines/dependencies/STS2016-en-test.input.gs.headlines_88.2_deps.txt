@@ -1,0 +1,8 @@
+root	ROOT	Searchers
+acl	Searchers	hoping
+nsubj	come	pings
+ccomp	hoping	come
+case	airliner	from
+amod	airliner	lost
+amod	airliner	Malaysian
+nmod:from	come	airliner

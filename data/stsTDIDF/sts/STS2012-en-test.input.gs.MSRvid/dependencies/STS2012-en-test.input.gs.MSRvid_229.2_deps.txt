@@ -1,0 +1,6 @@
+det	airplane	A
+amod	airplane	animated
+nsubj	landing	airplane
+cop	landing	is
+root	ROOT	landing
+punct	landing	.

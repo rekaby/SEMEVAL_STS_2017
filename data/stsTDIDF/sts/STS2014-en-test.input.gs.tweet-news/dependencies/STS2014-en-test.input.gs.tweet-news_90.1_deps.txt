@@ -1,0 +1,5 @@
+root	ROOT	President
+punct	President	?-2) mark(wants-3, If
+nsubj	wants	she
+root	ROOT	wants
+dobj	wants	it

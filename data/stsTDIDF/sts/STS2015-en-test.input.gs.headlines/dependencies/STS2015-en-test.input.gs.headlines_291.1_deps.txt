@@ -1,0 +1,10 @@
+nmod:tmod	seek	Israel
+punct	seek	,
+nsubj	seek	Palestinians
+root	ROOT	seek
+det	meeting	another
+dobj	seek	meeting
+nmod:tmod	meeting	Monday
+punct	meeting	:
+compound	official	U.S.
+dep	meeting	official

@@ -1,0 +1,8 @@
+det	act	the
+root	ROOT	act
+mark	decreasing	of
+acl	act	decreasing
+cc	decreasing	or
+conj:or	decreasing	reducing
+dobj	decreasing	something
+punct	act	.

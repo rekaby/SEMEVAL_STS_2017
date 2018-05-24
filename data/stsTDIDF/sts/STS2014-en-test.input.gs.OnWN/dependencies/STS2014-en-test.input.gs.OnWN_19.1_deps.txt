@@ -1,0 +1,7 @@
+det	length	a
+amod	length	straight
+root	ROOT	length
+case	road	of
+nmod:of	length	road
+cc	road	or
+conj:or	road	racetrack

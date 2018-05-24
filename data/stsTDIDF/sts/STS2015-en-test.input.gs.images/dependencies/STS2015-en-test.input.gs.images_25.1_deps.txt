@@ -1,0 +1,9 @@
+det	dog	A
+amod	dog	brown
+nsubj	laying	dog
+root	ROOT	laying
+case	cover	on
+det	cover	a
+amod	cover	blue
+nmod:on	laying	cover
+punct	laying	.

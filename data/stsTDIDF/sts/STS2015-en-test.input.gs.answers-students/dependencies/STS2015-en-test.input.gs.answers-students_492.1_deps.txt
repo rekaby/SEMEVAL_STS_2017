@@ -1,0 +1,15 @@
+root	ROOT	bulb
+advmod	contained	a
+punct	contained	,
+compound	b	bulb
+nsubjpass	contained	b
+punct	b	,
+cc	b	and
+compound	c	bulb
+conj:and	b	c
+auxpass	contained	are
+acl	bulb	contained
+case	paths	in
+amod	paths	differentclosed
+nmod:in	contained	paths
+punct	bulb	.

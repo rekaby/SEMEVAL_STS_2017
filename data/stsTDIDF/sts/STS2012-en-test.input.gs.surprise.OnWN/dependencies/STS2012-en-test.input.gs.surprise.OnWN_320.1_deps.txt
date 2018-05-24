@@ -1,0 +1,6 @@
+punct	cause	-LRB-
+dep	move	cause
+dep	cause	to
+punct	cause	-RRB-
+root	ROOT	move
+advmod	move	around

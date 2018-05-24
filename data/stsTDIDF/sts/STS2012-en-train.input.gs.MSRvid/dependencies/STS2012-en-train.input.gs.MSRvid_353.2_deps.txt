@@ -1,0 +1,9 @@
+det	man	A
+nsubj	tosses	man
+root	ROOT	tosses
+det	bag	a
+dobj	tosses	bag
+case	escalator	down
+det	escalator	an
+nmod:down	tosses	escalator
+punct	tosses	.

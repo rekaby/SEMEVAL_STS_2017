@@ -1,0 +1,16 @@
+root	ROOT	rise
+cc	rise	or
+conj:or	rise	heave
+advmod	rise	upward
+case	influence	under
+det	influence	the
+nmod:under	rise	influence
+case	force	of
+det	force	a
+amod	force	natural
+nmod:of	influence	force
+case	wave	such
+mwe	such	as
+det	wave	a
+nmod:such_as	force	wave
+punct	rise	.

@@ -1,0 +1,13 @@
+punct	cause	-LRB-
+root	ROOT	cause
+case	burst	to
+punct	burst	-RRB-
+nmod:to	cause	burst
+cc	burst	or
+conj:or	burst	open
+punct	cause	,
+advmod	sound	usually
+case	sound	with
+det	sound	a
+amod	sound	sharp
+nmod:with	cause	sound

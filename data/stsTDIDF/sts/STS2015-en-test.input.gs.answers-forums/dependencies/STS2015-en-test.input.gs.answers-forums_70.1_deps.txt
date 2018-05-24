@@ -1,0 +1,14 @@
+det	assertion	The
+nsubj	false	assertion
+cop	false	is
+root	ROOT	false
+punct	false	,
+case	least	at
+nmod:at	false	least
+mark	restated	as
+nsubj	restated	you
+aux	restated	've
+advcl	false	restated
+dobj	restated	it
+advmod	restated	here
+punct	false	.

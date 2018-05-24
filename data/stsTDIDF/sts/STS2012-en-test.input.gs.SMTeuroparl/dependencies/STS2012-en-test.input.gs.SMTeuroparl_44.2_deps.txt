@@ -1,0 +1,8 @@
+det	vote	The
+nsubj	take	vote
+aux	take	will
+root	ROOT	take
+dobj	take	place
+case	17h30	with
+nmod:with	take	17h30
+punct	take	.

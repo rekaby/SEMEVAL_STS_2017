@@ -1,0 +1,5 @@
+det	group	A
+root	ROOT	group
+case	dogs	of
+nmod:of	group	dogs
+dep	group	lettuce

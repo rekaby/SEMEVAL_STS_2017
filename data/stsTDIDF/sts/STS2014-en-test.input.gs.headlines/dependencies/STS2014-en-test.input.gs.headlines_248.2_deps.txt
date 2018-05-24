@@ -1,0 +1,8 @@
+compound	toll	Death
+nsubj	rises	toll
+case	protests	from
+compound	protests	Egypt
+nmod:from	toll	protests
+root	ROOT	rises
+case	49	to
+nmod:to	rises	49

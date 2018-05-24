@@ -1,0 +1,17 @@
+root	ROOT	Economists
+case	Economists	'
+neg	companies	not
+case	companies	against
+det	companies	the
+nmod:against	Economists	companies
+advmod	using	openly
+acl	companies	using
+det	attractiveness	the
+dobj	using	attractiveness
+case	luxury	of
+nmod:of	attractiveness	luxury
+mark	promote	to
+advcl	using	promote
+nmod:poss	products	their
+dobj	promote	products
+punct	Economists	.

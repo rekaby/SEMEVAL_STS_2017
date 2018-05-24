@@ -1,0 +1,10 @@
+root	ROOT	exist
+case	manner	in
+det	manner	a
+amod	manner	certain
+nmod:in	exist	manner
+punct	exist	,
+dep	exist	mode
+punct	mode	,
+cc	mode	or
+conj:or	mode	style

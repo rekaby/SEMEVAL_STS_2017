@@ -1,0 +1,9 @@
+hut	in	case
+hut	man	nsubj
+hut	is	cop
+hut	.	punct
+hut	village	nmod:in
+man	shirt	nmod:in
+hut	a	det
+ROOT	hut	root
+shirt	blue	amod

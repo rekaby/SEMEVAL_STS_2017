@@ -1,0 +1,6 @@
+bikes	man	compound
+bikes	street	nmod:down
+ROOT	bikes	root
+bikes	.	punct
+bikes	A	det
+street	down	case

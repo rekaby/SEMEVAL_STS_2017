@@ -1,0 +1,10 @@
+det	group	A
+nsubj	play	group
+case	men	of
+nmod:of	group	men
+root	ROOT	play
+det	game	a
+compound	game	college
+compound	game	football
+dobj	play	game
+punct	play	.

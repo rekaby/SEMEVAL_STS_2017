@@ -1,0 +1,8 @@
+amod	soldiers	Israeli
+nsubj	kill	soldiers
+root	ROOT	kill
+amod	woman	Palestinian
+dobj	kill	woman
+case	Bank	in
+compound	Bank	West
+nmod:in	kill	Bank

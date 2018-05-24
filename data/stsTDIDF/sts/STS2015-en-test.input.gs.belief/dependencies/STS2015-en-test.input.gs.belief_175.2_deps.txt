@@ -1,0 +1,11 @@
+nsubj	bread	that
+cop	bread	's
+det	bread	the
+root	ROOT	bread
+cc	bread	and
+conj:and	bread	butter
+case	entrepreneurialism	of
+punct	entrepreneurialism	``
+nmod:of	bread	entrepreneurialism
+punct	entrepreneurialism	''
+punct	bread	!

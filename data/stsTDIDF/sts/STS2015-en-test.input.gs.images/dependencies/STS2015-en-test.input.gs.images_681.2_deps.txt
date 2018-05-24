@@ -1,0 +1,7 @@
+det	dog	A
+nsubj	biting	dog
+aux	biting	is
+root	ROOT	biting
+det	mop	a
+dobj	biting	mop
+punct	biting	.

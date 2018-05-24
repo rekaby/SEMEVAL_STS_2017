@@ -1,0 +1,10 @@
+root	ROOT	whip
+conj:or	whip	whip
+case	whisk	with
+cc	with	or
+conj:or	with	as
+case	whisk	if
+case	whisk	with
+det	whisk	a
+nmod:as	whip	whisk
+nmod:with	whip	whisk

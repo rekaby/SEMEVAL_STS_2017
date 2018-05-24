@@ -1,0 +1,11 @@
+nsubj	pose	Taliban
+root	ROOT	pose
+case	women	as
+punct	women	`
+amod	women	attractive
+nmod:as	pose	women
+punct	pose	,
+case	Facebook	on
+nmod:on	pose	Facebook
+mark	spying	for
+acl	Facebook	spying

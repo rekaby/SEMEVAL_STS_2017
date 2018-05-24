@@ -1,0 +1,7 @@
+compound	Killed	US
+compound	Killed	Troops
+root	ROOT	Killed
+case	Insider	in
+compound	Insider	Afghan
+nmod:in	Killed	Insider
+dep	Killed	Attack

@@ -1,0 +1,7 @@
+nsubj	expands	China
+root	ROOT	expands
+compound	area	search
+dobj	expands	area
+case	plane	for
+amod	plane	missing
+nmod:for	expands	plane

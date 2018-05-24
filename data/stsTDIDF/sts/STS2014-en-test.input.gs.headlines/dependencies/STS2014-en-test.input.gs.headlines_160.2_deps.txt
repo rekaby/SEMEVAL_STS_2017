@@ -1,0 +1,6 @@
+compound	stocks	Tokyo
+nsubj	close	stocks
+root	ROOT	close
+compound:prt	close	down
+nummod	%	1.53
+dobj	close	%

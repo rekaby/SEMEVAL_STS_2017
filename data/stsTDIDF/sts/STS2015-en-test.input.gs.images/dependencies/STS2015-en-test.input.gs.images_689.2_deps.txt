@@ -1,0 +1,10 @@
+det	woman	A
+root	ROOT	woman
+acl	woman	eating
+det	fish	a
+amod	fish	large
+dobj	eating	fish
+case	restaurant	in
+det	restaurant	a
+nmod:in	eating	restaurant
+punct	woman	.

@@ -1,0 +1,9 @@
+root	ROOT	combine
+advmod	form	so
+mark	form	as
+mark	form	to
+advcl	combine	form
+det	product	a
+advmod	complex	more
+amod	product	complex
+dobj	form	product

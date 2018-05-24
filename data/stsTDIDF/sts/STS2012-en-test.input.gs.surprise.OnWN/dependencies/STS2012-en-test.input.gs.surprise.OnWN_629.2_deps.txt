@@ -1,0 +1,10 @@
+root	ROOT	adapt
+cc	adapt	or
+conj:or	adapt	conform
+dobj	conform	oneself
+case	conditions	to
+amod	conditions	new
+cc	new	or
+conj:or	new	different
+nmod:to	adapt	conditions
+punct	adapt	.

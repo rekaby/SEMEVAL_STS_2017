@@ -1,0 +1,8 @@
+amod	girl	Pakistani
+nsubj	appears	girl
+acl	girl	shot
+case	Taliban	by
+nmod:by	shot	Taliban
+root	ROOT	appears
+case	video	on
+nmod:on	appears	video

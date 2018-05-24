@@ -1,0 +1,7 @@
+business	family	compound
+brothers	Three	nummod
+brothers	.	punct
+business	outside	case
+brothers	posing	acl
+posing	business	nmod:outside
+ROOT	brothers	root

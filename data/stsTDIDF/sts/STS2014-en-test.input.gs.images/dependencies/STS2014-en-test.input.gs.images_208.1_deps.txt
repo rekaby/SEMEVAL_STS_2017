@@ -1,0 +1,12 @@
+det	table	A
+nsubjpass	set	table
+auxpass	set	is
+root	ROOT	set
+case	wine	with
+nmod:with	set	wine
+cc	wine	and
+conj:and	wine	dishes
+case	people	for
+nummod	people	two
+nmod:for	set	people
+punct	set	.

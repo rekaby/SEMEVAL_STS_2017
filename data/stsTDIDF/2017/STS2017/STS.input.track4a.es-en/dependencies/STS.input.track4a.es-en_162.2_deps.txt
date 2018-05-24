@@ -1,0 +1,8 @@
+nummod	women	Two
+nsubj	compete	women
+root	ROOT	compete
+case	match	in
+det	match	a
+compound	match	soccer
+nmod:in	compete	match
+punct	compete	.

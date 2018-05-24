@@ -1,0 +1,9 @@
+nummod	journalists	Two
+amod	journalists	French
+nsubj	abducted	journalists
+root	ROOT	abducted
+punct	abducted	,
+xcomp	abducted	killed
+case	Mali	in
+compound	Mali	Northern
+nmod:in	killed	Mali

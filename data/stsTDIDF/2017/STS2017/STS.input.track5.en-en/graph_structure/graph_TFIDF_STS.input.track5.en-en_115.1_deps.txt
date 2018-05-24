@@ -1,0 +1,4 @@
+is	cook	nsubj
+cook	preparing	acl
+cook	a	det
+preparing	food	dobj

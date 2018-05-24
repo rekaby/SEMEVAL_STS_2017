@@ -1,0 +1,10 @@
+compound	strike	US
+compound	strike	drone
+nsubj	kills	strike
+punct	kills	`
+root	ROOT	kills
+nummod	militants	4
+dobj	kills	militants
+case	Pakistan	in
+nmod:in	kills	Pakistan
+punct	kills	'

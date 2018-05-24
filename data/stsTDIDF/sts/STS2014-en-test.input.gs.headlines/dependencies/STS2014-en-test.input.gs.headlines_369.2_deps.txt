@@ -1,0 +1,9 @@
+nsubj	vows	Iran
+root	ROOT	vows
+mark	preserve	to
+xcomp	vows	preserve
+punct	preserve	``
+amod	program	peaceful
+punct	peaceful	''
+dep	peaceful	nuclear
+dobj	preserve	program

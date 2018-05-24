@@ -1,0 +1,8 @@
+root	ROOT	produce
+dobj	produce	buds
+punct	buds	,
+conj:or	buds	branches
+punct	buds	,
+cc	buds	or
+conj:or	buds	germinate
+punct	produce	.

@@ -1,0 +1,6 @@
+root	ROOT	Hundreds
+acl	Hundreds	killed
+case	fire	in
+compound	fire	Brazil
+compound	fire	nightclub
+nmod:in	killed	fire

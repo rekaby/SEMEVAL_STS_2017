@@ -1,0 +1,17 @@
+root	ROOT	What
+cop	What	are
+det	coach	the
+compound	coach	bus
+punct	coach	-LRB-
+nsubj	What	coach
+punct	coach	-RRB-
+dep	coach	connections
+case	Thessaloniki	from
+nmod:from	connections	Thessaloniki
+punct	Thessaloniki	,
+appos	Thessaloniki	Greece
+case	Tbilisi	to
+nmod:to	Greece	Tbilisi
+punct	Tbilisi	,
+appos	Tbilisi	Georgia
+punct	What	?

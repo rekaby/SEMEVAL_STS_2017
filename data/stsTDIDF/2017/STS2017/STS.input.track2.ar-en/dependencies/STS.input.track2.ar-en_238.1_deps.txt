@@ -1,0 +1,8 @@
+det	female	A
+nsubj	vaulting	female
+aux	vaulting	is
+root	ROOT	vaulting
+case	Olympics	at
+det	Olympics	the
+nmod:at	vaulting	Olympics
+punct	vaulting	.

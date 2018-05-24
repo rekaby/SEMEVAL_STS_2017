@@ -1,0 +1,15 @@
+nsubj	does	This
+root	ROOT	does
+neg	does	not
+punct	not	,
+dep	,	however
+punct	however	,
+amod	countries	rich
+root	,	countries
+acl	countries	emerging
+case	obligation	from
+nmod:poss	obligation	their
+nmod:from	emerging	obligation
+mark	help	to
+acl	obligation	help
+punct	countries	.

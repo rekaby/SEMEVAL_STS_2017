@@ -1,0 +1,9 @@
+amod	shares	Aust
+root	ROOT	shares
+case	%	up
+nummod	%	1
+nmod:up	shares	%
+case	rate	after
+compound	rate	interest
+nmod:after	%	rate
+dep	%	cut

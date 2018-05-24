@@ -1,0 +1,12 @@
+det	voltage	The
+nsubj	has	voltage
+root	ROOT	has
+det	state	the
+amod	state	same
+amod	state	electrical
+dobj	has	state
+case	terminals	between
+det	terminals	any
+nummod	terminals	two
+nmod:between	has	terminals
+punct	has	.

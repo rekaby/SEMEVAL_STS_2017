@@ -1,0 +1,7 @@
+compound	Study	Mouse
+nsubj	Discovers	Study
+root	ROOT	Discovers
+compound	Behavior	DNA
+compound	Behavior	That
+compound	Behavior	Controls
+dobj	Discovers	Behavior

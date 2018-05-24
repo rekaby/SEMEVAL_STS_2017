@@ -1,0 +1,11 @@
+watching	movie	dobj
+session	sofa	nmod:on
+sofa	on	case
+ROOT	enjoying	root
+enjoying	.	punct
+session	moving	amod
+sofa	watching	acl
+enjoying	is	aux
+enjoying	couple	nsubj
+sofa	a	det
+enjoying	session	dobj

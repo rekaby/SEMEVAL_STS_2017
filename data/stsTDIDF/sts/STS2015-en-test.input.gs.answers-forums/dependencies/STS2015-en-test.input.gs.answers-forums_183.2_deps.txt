@@ -1,0 +1,13 @@
+nsubj	has	Eating
+case	spoon	off
+det	spoon	a
+nmod:off	Eating	spoon
+root	ROOT	has
+mark	experience	to
+cop	experience	be
+det	experience	an
+amod	experience	unusual
+xcomp	has	experience
+case	them	for
+nmod:for	experience	them
+punct	has	.

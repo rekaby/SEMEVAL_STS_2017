@@ -1,0 +1,8 @@
+amod	Council	Syrian
+compound	Council	Opposition
+root	ROOT	Council
+mark	Establish	to
+acl	Council	Establish
+dobj	Establish	Envoy
+case	France	in
+nmod:in	Envoy	France

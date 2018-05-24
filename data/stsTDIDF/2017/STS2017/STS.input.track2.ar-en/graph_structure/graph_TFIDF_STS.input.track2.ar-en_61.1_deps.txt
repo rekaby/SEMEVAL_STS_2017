@@ -1,0 +1,8 @@
+standing	getting	xcomp
+standing	men	nsubj
+standing	street	nmod:in
+ready	fight	nmod:for
+fight	fist	compound
+fight	for	case
+men	2	nummod
+men	drunk	amod

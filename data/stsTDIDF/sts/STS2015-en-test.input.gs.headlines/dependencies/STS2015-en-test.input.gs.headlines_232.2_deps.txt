@@ -1,0 +1,7 @@
+compound	crashes	Helicopter
+root	ROOT	crashes
+case	roof	into
+nmod:into	crashes	roof
+case	Glasgow	of
+nmod:of	roof	Glasgow
+dep	crashes	club

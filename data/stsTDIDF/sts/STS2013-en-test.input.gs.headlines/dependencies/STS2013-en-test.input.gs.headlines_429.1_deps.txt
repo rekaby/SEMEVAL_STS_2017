@@ -1,0 +1,7 @@
+amod	Fighting	Heavy
+root	ROOT	Fighting
+acl	Fighting	Reported
+case	Aleppo	in
+nmod:poss	Aleppo	Syria
+case	Syria	's
+nmod:in	Reported	Aleppo

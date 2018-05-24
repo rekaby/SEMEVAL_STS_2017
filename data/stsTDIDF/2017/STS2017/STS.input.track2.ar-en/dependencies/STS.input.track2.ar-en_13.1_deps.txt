@@ -1,0 +1,6 @@
+nummod	people	Two
+nsubj	ride	people
+root	ROOT	ride
+amod	bikes	red
+dobj	ride	bikes
+punct	ride	.

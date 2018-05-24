@@ -1,0 +1,9 @@
+amod	oil	true
+nsubj	comes	oil
+advmod	comes	only
+root	ROOT	comes
+case	cans	from
+compound	cans	quart
+amod	cans	sized
+nmod:from	comes	cans
+punct	comes	.

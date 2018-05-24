@@ -1,0 +1,12 @@
+nsubj	said	Freeman
+root	ROOT	said
+neg	having	not
+csubj	burden	having
+det	license	a
+compound	license	driver
+dobj	having	license
+aux	burden	has
+cop	burden	been
+det	burden	a
+ccomp	said	burden
+punct	said	.

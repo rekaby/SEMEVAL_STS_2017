@@ -1,0 +1,6 @@
+nsubj	arrives	Hollande
+root	ROOT	arrives
+case	state	for
+compound	state	US
+nmod:for	arrives	state
+dobj	arrives	visit

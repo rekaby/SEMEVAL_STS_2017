@@ -1,0 +1,12 @@
+det	address	the
+root	ROOT	address
+advmod	communicated	where
+det	person	a
+nsubjpass	communicated	person
+cc	person	or
+conj:or	person	organization
+aux	communicated	can
+auxpass	communicated	be
+acl:relcl	address	communicated
+nmod	communicated	with
+punct	address	.

@@ -1,0 +1,10 @@
+nummod	women	Two
+root	ROOT	women
+case	kitchen	in
+nmod:in	women	kitchen
+case	one	with
+nmod:with	women	one
+acl	one	taking
+det	picture	a
+dobj	taking	picture
+punct	women	.

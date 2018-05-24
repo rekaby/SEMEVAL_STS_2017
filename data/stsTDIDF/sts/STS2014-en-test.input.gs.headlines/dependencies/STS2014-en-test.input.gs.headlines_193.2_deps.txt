@@ -1,0 +1,7 @@
+root	ROOT	Briton
+case	dead	among
+nmod:among	Briton	dead
+case	attack	in
+compound	attack	Kabul
+compound	attack	suicide
+nmod:in	dead	attack

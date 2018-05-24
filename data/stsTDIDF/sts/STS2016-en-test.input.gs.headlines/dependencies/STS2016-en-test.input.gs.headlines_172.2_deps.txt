@@ -1,0 +1,7 @@
+compound	William	Prince
+nsubj	arrives	William
+case	Britain	of
+nmod:of	William	Britain
+root	ROOT	arrives
+case	Beijing	in
+nmod:in	arrives	Beijing

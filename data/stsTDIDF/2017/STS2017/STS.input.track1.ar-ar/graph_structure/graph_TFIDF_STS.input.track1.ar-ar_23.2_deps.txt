@@ -1,0 +1,10 @@
+player	Tennis	compound
+wears	player	nsubj
+tennis	of	case
+orange	in	case
+game	middle	amod
+game	tennis	nmod:of
+wears	orange	nmod:in
+wears	clothes	dobj
+wears	.	punct
+wears	game	nmod:in

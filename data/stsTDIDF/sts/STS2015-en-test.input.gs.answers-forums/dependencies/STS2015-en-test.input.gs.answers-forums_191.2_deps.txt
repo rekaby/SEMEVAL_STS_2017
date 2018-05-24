@@ -1,0 +1,16 @@
+nsubj	intend	They
+aux	intend	do
+neg	intend	n't
+root	ROOT	intend
+mark	leave	to
+xcomp	intend	leave
+det	items	those
+dobj	leave	items
+case	house	around
+det	house	the
+nmod:around	leave	house
+cc	house	or
+amod	house	untidy
+det	house	the
+conj:or	house	house
+punct	intend	.

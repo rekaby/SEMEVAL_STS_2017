@@ -1,0 +1,7 @@
+towel	only	advmod
+standing	man	nsubj
+standing	outside	advmod
+wearing	towel	dobj
+outside	water	nmod:near
+towel	a	det
+water	near	case

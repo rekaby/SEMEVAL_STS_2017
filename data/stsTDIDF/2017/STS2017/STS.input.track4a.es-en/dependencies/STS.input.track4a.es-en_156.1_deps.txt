@@ -1,0 +1,16 @@
+det	woman	An
+amod	woman	African
+amod	woman	American
+nsubj	looking	woman
+root	ROOT	looking
+case	microscope	into
+det	microscope	a
+nmod:into	looking	microscope
+case	images	with
+nmod:with	microscope	images
+case	microorganisms	of
+nmod:of	images	microorganisms
+case	desk	on
+nmod:poss	desk	her
+nmod:on	looking	desk
+punct	looking	.

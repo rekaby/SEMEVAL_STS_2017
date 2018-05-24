@@ -1,0 +1,6 @@
+larger	cable	nsubj
+cable	One	nummod
+ROOT	larger	root
+larger	other	nmod:than
+larger	is	cop
+larger	.	punct

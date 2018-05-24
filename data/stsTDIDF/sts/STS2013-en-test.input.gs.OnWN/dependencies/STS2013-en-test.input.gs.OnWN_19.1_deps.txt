@@ -1,0 +1,9 @@
+det	person	the
+root	ROOT	person
+nsubjpass	assigned	who
+auxpass	assigned	is
+acl:relcl	person	assigned
+case	position	to
+det	position	a
+amod	position	non-elective
+nmod:to	assigned	position

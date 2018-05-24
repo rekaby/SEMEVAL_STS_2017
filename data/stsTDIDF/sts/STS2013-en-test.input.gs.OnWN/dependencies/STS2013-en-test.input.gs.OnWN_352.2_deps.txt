@@ -1,0 +1,11 @@
+det	act	the
+root	ROOT	act
+mark	moving	of
+acl	act	moving
+advmod	moving	hurriedly
+cc	moving	and
+case	manner	in
+det	manner	a
+amod	manner	careless
+conj:and	moving	manner
+punct	act	.

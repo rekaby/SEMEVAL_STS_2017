@@ -1,0 +1,5 @@
+people	sitting	acl
+people	man	appos
+people	,	punct
+sitting	bus	nmod:on
+bus	on	case

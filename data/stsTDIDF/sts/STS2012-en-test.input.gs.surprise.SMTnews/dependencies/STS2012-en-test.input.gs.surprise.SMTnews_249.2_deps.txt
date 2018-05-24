@@ -1,0 +1,13 @@
+nsubj	release	This
+aux	release	does
+neg	release	not
+root	ROOT	release
+cc	release	but
+amod	countries	rich
+conj:but	release	countries
+case	obligation	of
+nmod:poss	obligation	their
+nmod:of	countries	obligation
+mark	help	to
+acl	countries	help
+punct	release	.

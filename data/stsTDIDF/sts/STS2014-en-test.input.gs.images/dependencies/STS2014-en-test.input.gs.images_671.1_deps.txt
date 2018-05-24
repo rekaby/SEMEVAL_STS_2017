@@ -1,0 +1,17 @@
+nummod	cats	two
+root	ROOT	cats
+punct	cats	,
+appos	cats	one
+dep	one	brown
+cc	brown	and
+nummod	white	one
+conj:and	brown	white
+dep	brown	laying
+case	bed	on
+det	bed	a
+nmod:on	brown	bed
+case	blanket	with
+det	blanket	a
+amod	blanket	blue
+nmod:with	bed	blanket
+punct	cats	.

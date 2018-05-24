@@ -1,0 +1,16 @@
+punct	followed	-LRB-
+advmod	followed	often
+root	ROOT	followed
+case	number	by
+punct	number	`
+case	number	of
+punct	number	'
+punct	number	-RRB-
+det	number	a
+amod	number	large
+nmod:of	followed	number
+cc	number	or
+conj:or	number	amount
+cc	number	or
+conj:or	number	extent
+punct	followed	.

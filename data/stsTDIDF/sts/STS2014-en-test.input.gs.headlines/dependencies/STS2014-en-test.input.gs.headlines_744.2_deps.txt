@@ -1,0 +1,7 @@
+amod	parties	Islamist
+nsubj	unite	parties
+case	Egypt	in
+nmod:in	parties	Egypt
+root	ROOT	unite
+case	elections	for
+nmod:for	unite	elections

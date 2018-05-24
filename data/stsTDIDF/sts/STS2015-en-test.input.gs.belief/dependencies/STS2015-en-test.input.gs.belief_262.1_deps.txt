@@ -1,0 +1,16 @@
+nsubj	see	i
+advcl	change	see
+punct	change	,
+nsubj	change	we
+aux	change	've
+root	ROOT	change
+det	direction	the
+dobj	change	direction
+case	debate	of
+nmod:of	direction	debate
+mark	fruitless	because
+det	other	the
+nsubj	fruitless	other
+cop	fruitless	was
+advcl	change	fruitless
+punct	change	?

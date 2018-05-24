@@ -1,0 +1,7 @@
+nsubj	want	fill
+cc	fill	or
+conj:or	fill	meet
+det	want	a
+root	ROOT	want
+cc	want	or
+conj:or	want	need

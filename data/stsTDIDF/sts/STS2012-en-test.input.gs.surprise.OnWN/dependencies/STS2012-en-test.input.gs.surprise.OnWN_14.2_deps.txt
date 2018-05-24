@@ -1,0 +1,7 @@
+root	ROOT	cover
+det	front	the
+dobj	cover	front
+cc	front	or
+conj:or	front	surface
+dep	front	of
+punct	cover	.

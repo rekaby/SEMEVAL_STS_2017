@@ -1,0 +1,10 @@
+det	man	A
+nsubj	feeding	man
+aux	feeding	is
+root	ROOT	feeding
+det	mice	a
+dobj	feeding	mice
+case	snake	to
+det	snake	a
+nmod:to	feeding	snake
+punct	feeding	.

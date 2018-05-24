@@ -1,0 +1,11 @@
+det	group	The
+nsubj	eating	group
+aux	eating	is
+root	ROOT	eating
+mark	taking	while
+advcl	eating	taking
+compound:prt	taking	in
+det	view	a
+amod	view	breathtaking
+dobj	taking	view
+punct	eating	.

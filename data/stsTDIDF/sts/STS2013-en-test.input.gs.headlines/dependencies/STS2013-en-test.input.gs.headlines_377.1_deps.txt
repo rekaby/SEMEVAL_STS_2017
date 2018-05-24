@@ -1,0 +1,8 @@
+nmod:poss	Nasrallah	Hezbollah
+case	Hezbollah	's
+nsubj	warns	Nasrallah
+root	ROOT	warns
+dobj	warns	US
+case	film	over
+amod	film	anti-Islam
+nmod:over	warns	film

@@ -1,0 +1,12 @@
+det	fishing	A
+compound	fishing	man
+root	ROOT	fishing
+case	boat	on
+det	boat	a
+amod	boat	small
+nmod:on	fishing	boat
+case	lake	while
+case	lake	on
+det	lake	a
+nmod:on	fishing	lake
+punct	fishing	.

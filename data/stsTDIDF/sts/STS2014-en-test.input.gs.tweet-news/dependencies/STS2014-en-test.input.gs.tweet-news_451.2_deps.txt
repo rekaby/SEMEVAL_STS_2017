@@ -1,0 +1,13 @@
+root	ROOT	Commuting
+nummod	Miles	40
+dobj	Commuting	Miles
+mark	Work	to
+advcl	Commuting	Work
+case	Bike	on
+det	Bike	a
+nmod:on	Work	Bike
+punct	Commuting	,
+case	Thermals	With
+nmod:with	Commuting	Thermals
+cc	Thermals	and
+conj:and	Thermals	Fleece

@@ -1,0 +1,6 @@
+root	ROOT	extend
+case	direction	in
+det	direction	a
+amod	direction	different
+nmod:in	extend	direction
+punct	extend	.

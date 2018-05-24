@@ -1,0 +1,8 @@
+playing	guitar	dobj
+playing	stage	nmod:on
+hat	black	amod
+man	shirt	nmod:in
+guitar	a	det
+shirt	green	amod
+shirt	hat	conj:and
+hat	playing	acl

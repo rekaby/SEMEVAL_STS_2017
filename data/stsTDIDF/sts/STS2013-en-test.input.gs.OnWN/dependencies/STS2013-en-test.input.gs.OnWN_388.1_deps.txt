@@ -1,0 +1,13 @@
+det	activity	The
+root	ROOT	activity
+mark	looking	of
+acl	activity	looking
+advmod	looking	thoroughly
+case	order	in
+nmod:in	looking	order
+mark	find	to
+xcomp	looking	find
+dobj	find	something
+cc	something	or
+conj:or	something	someone
+punct	activity	.

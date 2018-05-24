@@ -1,0 +1,9 @@
+det	woman	A
+nsubj	adding	woman
+aux	adding	is
+root	ROOT	adding
+dobj	adding	spices
+case	meat	on
+det	meat	a
+nmod:on	adding	meat
+punct	adding	.

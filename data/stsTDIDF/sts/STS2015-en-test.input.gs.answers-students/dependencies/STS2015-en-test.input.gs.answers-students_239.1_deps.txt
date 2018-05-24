@@ -1,0 +1,5 @@
+root	ROOT	terminal
+dep	terminal	connected
+case	charge	to
+amod	charge	positive
+nmod:to	connected	charge

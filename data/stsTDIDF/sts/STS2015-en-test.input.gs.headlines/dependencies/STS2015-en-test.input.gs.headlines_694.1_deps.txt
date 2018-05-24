@@ -1,0 +1,6 @@
+amod	fugitive	Italian
+root	ROOT	fugitive
+acl	fugitive	arrested
+case	Republic	in
+compound	Republic	Dominican
+nmod:in	arrested	Republic

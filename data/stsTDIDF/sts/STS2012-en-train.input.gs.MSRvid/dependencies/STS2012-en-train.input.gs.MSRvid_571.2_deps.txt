@@ -1,0 +1,8 @@
+det	man	A
+nsubj	making	man
+aux	making	is
+root	ROOT	making
+det	call	a
+compound	call	phone
+dobj	making	call
+punct	making	.

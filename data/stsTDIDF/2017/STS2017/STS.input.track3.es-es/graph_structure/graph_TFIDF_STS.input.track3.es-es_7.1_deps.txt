@@ -1,0 +1,4 @@
+parts	for	case
+waiting	parts	nmod:for
+parts	car	compound
+waiting	People	nsubj

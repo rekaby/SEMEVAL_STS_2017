@@ -1,0 +1,10 @@
+det	girl	A
+amod	girl	young
+root	ROOT	girl
+acl	girl	riding
+det	horse	a
+amod	horse	white
+cc	white	and
+conj:and	white	grey
+dobj	riding	horse
+punct	girl	.

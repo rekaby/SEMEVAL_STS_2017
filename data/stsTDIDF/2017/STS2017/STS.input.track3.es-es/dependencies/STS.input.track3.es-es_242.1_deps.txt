@@ -1,0 +1,12 @@
+det	boy	The
+amod	boy	blond
+nsubj	sat	boy
+root	ROOT	sat
+case	guitar	next
+mwe	next	to
+det	guitar	the
+nmod:next_to	sat	guitar
+cc	guitar	and
+det	book	the
+conj:and	guitar	book
+punct	sat	.

@@ -1,0 +1,9 @@
+root	ROOT	write
+det:predet	information	all
+det	information	the
+amod	information	required
+dobj	write	information
+case	form	onto
+det	form	a
+nmod:onto	write	form
+punct	write	.

@@ -1,0 +1,10 @@
+root	ROOT	Someone
+case	air	in
+det	air	the
+nmod:in	Someone	air
+case	skis	with
+nmod:with	air	skis
+case	feet	on
+nmod:poss	feet	his
+nmod:on	skis	feet
+punct	Someone	.

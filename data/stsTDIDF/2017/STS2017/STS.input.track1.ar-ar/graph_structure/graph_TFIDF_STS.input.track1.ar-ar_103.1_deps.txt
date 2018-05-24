@@ -1,0 +1,4 @@
+couch	the	det
+man	Naked	amod
+man	sitting	acl
+sitting	couch	nmod:on

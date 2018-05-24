@@ -1,0 +1,9 @@
+steps	outdoors	advmod
+boy	riding	acl
+riding	bike	dobj
+riding	steps	nmod:over
+bike	green	amod
+steps	some	det
+bike	a	det
+steps	over	case
+bike	trick	compound

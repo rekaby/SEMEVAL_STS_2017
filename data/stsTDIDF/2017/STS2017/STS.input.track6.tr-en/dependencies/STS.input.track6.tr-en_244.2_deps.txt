@@ -1,0 +1,9 @@
+nummod	people	Two
+nsubj	walk	people
+root	ROOT	walk
+advmod	walk	randomly
+case	street	in
+det	street	the
+amod	street	abandoned
+nmod:in	walk	street
+punct	walk	.

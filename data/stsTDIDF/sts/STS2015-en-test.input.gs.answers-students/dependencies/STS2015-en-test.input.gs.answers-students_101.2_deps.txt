@@ -1,0 +1,7 @@
+nsubj	have	A
+cc	A	and
+conj:and	A	B
+root	ROOT	have
+nmod:poss	path	their
+amod	path	own
+dobj	have	path

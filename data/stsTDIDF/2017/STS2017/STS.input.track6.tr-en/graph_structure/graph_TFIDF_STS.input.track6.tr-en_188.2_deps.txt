@@ -1,0 +1,6 @@
+dancing	group	nsubj
+bar	in	case
+dancing	bar	nmod:in
+ROOT	dancing	root
+group	whole	amod
+dancing	is	aux

@@ -1,0 +1,11 @@
+root	ROOT	meet
+case	design	by
+nmod:by	meet	design
+punct	meet	;
+cop	present	be
+parataxis	meet	present
+case	arrival	at
+det	arrival	the
+nmod:at	present	arrival
+acl	arrival	of
+punct	meet	;

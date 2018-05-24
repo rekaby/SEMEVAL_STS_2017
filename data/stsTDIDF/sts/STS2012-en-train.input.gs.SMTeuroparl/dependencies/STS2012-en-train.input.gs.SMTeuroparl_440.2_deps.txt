@@ -1,0 +1,9 @@
+det	development	A
+root	ROOT	development
+nsubj	made	which
+acl:relcl	development	made
+dep	dependent	capital
+dep	dependent	borrowed
+advmod	dependent	heavily
+xcomp	made	dependent
+punct	development	.

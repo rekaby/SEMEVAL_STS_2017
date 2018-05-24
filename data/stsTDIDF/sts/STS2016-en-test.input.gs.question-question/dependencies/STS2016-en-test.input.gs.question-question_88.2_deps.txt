@@ -1,0 +1,13 @@
+advmod	remove	How
+aux	remove	do
+nsubj	remove	I
+root	ROOT	remove
+dobj	remove	adhesive
+case	deck	from
+amod	deck	outdoor
+amod	deck	concrete
+nmod:from	adhesive	deck
+nsubjpass	textured	that
+auxpass	textured	is
+acl:relcl	deck	textured
+punct	remove	?

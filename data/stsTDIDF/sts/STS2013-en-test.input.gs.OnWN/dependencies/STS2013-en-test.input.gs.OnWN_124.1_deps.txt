@@ -1,0 +1,14 @@
+root	ROOT	Equip
+case	armed	with
+nmod:with	Equip	armed
+cc	armed	and
+amod	vehicles	armored
+compound	vehicles	motor
+conj:and	armed	vehicles
+punct	army	-LRB-
+case	army	as
+mwe	as	of
+det	army	an
+dep	armed	army
+punct	army	-RRB-
+punct	Equip	.

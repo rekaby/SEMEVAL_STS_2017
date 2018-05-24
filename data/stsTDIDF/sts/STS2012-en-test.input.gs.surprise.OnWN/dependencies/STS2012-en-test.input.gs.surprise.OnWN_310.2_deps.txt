@@ -1,0 +1,16 @@
+root	ROOT	run
+conj:or	run	run
+conj:or	run	run
+cc	run	or
+conj:or	run	flow
+advmod	run	slowly
+punct	run	,
+case	drops	as
+case	drops	in
+nmod:in	run	drops
+cc	run	or
+case	stream	in
+det	stream	an
+amod	stream	unsteady
+nmod:in	run	stream
+punct	run	.

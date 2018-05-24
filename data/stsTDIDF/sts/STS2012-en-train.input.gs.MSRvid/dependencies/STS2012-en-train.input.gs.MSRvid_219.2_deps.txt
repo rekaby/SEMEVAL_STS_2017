@@ -1,0 +1,8 @@
+det	solenodon	A
+nsubj	walking	solenodon
+aux	walking	is
+root	ROOT	walking
+case	ground	along
+det	ground	the
+nmod:along	walking	ground
+punct	walking	.

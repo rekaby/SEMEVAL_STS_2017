@@ -1,0 +1,4 @@
+det	passageway	a
+amod	passageway	constructed
+amod	passageway	underground
+root	ROOT	passageway

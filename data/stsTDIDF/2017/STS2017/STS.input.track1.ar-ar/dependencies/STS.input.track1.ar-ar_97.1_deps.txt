@@ -1,0 +1,16 @@
+det	man	A
+root	ROOT	man
+acl	man	wearing
+det	hat	a
+compound	hat	bathing
+compound	hat	swimsuit
+compound	hat	Aagafzaly
+compound	hat	pond
+dobj	wearing	hat
+punct	man	,
+mark	seen	while
+root	,	seen
+case	men	by
+amod	men	other
+nmod:by	seen	men
+punct	seen	.

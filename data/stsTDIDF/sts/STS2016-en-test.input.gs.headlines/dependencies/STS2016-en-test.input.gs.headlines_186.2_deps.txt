@@ -1,0 +1,6 @@
+amod	leader	Israeli
+nsubj	urges	leader
+root	ROOT	urges
+dobj	urges	calm
+case	Jerusalem	in
+nmod:in	urges	Jerusalem

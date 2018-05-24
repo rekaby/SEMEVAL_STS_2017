@@ -1,0 +1,14 @@
+nsubj	thought	I
+root	ROOT	thought
+nsubj	good	it
+cop	good	was
+ccomp	thought	good
+punct	thought	,
+cc	thought	and
+nsubj	find	I
+aux	find	did
+neg	find	n't
+conj:and	thought	find
+nsubj	confusing	it
+xcomp	find	confusing
+punct	thought	.

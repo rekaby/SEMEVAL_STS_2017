@@ -1,0 +1,8 @@
+compound	indices	Shenzhen
+compound	indices	stock
+nsubj	lower	indices
+advmod	lower	close
+root	ROOT	lower
+punct	lower	--
+nmod:tmod	lower	Oct.
+nummod	Oct.	31

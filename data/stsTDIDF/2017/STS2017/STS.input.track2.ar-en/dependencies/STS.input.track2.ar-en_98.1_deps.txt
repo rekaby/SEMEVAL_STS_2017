@@ -1,0 +1,8 @@
+det	man	A
+nsubj	plays	man
+root	ROOT	plays
+dobj	plays	piano
+case	shoes	with
+nmod:poss	shoes	his
+nmod:with	plays	shoes
+punct	plays	.

@@ -1,0 +1,14 @@
+amod	piece	Great
+root	ROOT	piece
+case	toll	by
+punct	toll	``
+det	toll	The
+amod	toll	gruesome
+nmod:by	piece	toll
+case	#clusterbombs	of
+amod	#clusterbombs	deadly
+nmod:of	toll	#clusterbombs
+case	Syria	in
+nmod:in	toll	Syria
+punct	toll	''
+punct	piece	-

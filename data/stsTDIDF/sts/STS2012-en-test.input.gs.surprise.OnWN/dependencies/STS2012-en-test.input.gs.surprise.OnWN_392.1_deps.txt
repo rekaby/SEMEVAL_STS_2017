@@ -1,0 +1,7 @@
+nsubj	cooked	fruit
+root	ROOT	cooked
+compound:prt	cooked	down
+case	sugar	with
+nmod:with	cooked	sugar
+punct	cooked	,
+dobj	cooked	jam

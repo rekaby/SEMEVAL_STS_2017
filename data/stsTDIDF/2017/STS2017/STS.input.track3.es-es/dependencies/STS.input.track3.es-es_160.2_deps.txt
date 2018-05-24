@@ -1,0 +1,8 @@
+det	man	A
+nsubj	cycling	man
+cop	cycling	is
+root	ROOT	cycling
+case	water	in
+det	water	the
+nmod:in	cycling	water
+punct	cycling	.

@@ -1,0 +1,8 @@
+det	children	The
+nsubj	tournament	children
+cop	tournament	are
+case	tournament	in
+det	tournament	a
+amod	tournament	karate
+root	ROOT	tournament
+punct	tournament	.

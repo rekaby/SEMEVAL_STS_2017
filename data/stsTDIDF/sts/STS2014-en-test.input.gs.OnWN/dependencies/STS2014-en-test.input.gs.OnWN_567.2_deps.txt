@@ -1,0 +1,7 @@
+det	act	the
+root	ROOT	act
+mark	winding	of
+acl	act	winding
+cc	winding	or
+conj:or	winding	twisting
+punct	act	.

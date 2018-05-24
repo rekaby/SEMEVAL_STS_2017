@@ -1,0 +1,9 @@
+root	ROOT	Baftas
+nummod	Baftas	2013
+punct	Baftas	:
+compound	Colman	Olivia
+nsubj	picks	Colman
+dep	Baftas	picks
+compound:prt	picks	up
+nummod	awards	two
+dobj	picks	awards

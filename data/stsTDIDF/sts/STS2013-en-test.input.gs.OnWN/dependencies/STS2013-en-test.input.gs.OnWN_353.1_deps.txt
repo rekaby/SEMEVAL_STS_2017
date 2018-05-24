@@ -1,0 +1,6 @@
+det	act	the
+nsubj	cutting	act
+case	clipping	of
+nmod:of	act	clipping
+punct	act	,
+root	ROOT	cutting

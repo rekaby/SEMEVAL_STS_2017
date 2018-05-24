@@ -1,0 +1,13 @@
+advcl	thought	cause
+nmod:poss	attention	someone
+case	someone	's
+dobj	cause	attention
+punct	thought	,
+nsubj	thought	goals
+punct	thought	,
+root	ROOT	thought
+mark	turn	to
+xcomp	thought	turn
+compound:prt	turn	in
+det	direction	another
+dobj	turn	direction

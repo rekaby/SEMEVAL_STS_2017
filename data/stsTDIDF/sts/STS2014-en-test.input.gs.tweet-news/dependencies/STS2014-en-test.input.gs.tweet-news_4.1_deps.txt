@@ -1,0 +1,12 @@
+compound	bomb	Car
+nsubj	detonates	bomb
+root	ROOT	detonates
+amod	agency	outside
+compound	agency	#Afghan
+compound	agency	intelligence
+dobj	detonates	agency
+punct	detonates	;
+compound	toll	casualty
+nsubj	unclear	toll
+parataxis	detonates	unclear
+punct	detonates	.

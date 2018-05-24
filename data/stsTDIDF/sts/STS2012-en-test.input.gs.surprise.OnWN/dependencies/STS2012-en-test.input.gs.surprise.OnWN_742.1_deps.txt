@@ -1,0 +1,11 @@
+det	release	The
+root	ROOT	release
+case	pressure	of
+nmod:of	release	pressure
+acl	pressure	built
+compound:prt	built	up
+case	stop	during
+det	stop	a
+nmod:during	built	stop
+amod	stop	consonant
+punct	release	.

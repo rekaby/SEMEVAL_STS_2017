@@ -1,0 +1,7 @@
+advmod	meet	Israeli
+punct	meet	,
+amod	negotiators	Palestinian
+nsubj	meet	negotiators
+root	ROOT	meet
+case	Jordan	in
+nmod:in	meet	Jordan

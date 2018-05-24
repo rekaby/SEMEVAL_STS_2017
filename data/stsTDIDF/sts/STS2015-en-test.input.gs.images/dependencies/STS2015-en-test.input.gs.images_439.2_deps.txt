@@ -1,0 +1,7 @@
+nummod	dogs	Three
+nsubj	swim	dogs
+root	ROOT	swim
+case	water	in
+det	water	the
+nmod:in	swim	water
+punct	swim	.

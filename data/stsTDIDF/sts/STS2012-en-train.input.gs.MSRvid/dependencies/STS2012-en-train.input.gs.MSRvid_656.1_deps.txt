@@ -1,0 +1,8 @@
+det	flag	The
+nsubj	moving	flag
+aux	moving	was
+root	ROOT	moving
+case	air	in
+det	air	the
+nmod:in	moving	air
+punct	moving	.

@@ -1,0 +1,16 @@
+nummod	those	All
+root	ROOT	those
+nsubjpass	engaged	who
+auxpass	engaged	are
+advmod	engaged	currently
+acl:relcl	those	engaged
+case	work	in
+amod	work	undeclared
+nmod:in	engaged	work
+dep	employment	e.g.
+nmod	engaged	employment
+case	conditions	in
+amod	conditions	decent
+amod	conditions	social
+nmod:in	employment	conditions
+punct	those	.

@@ -1,0 +1,8 @@
+nummod	people	Two
+nsubj	praying	people
+aux	praying	were
+root	ROOT	praying
+case	temple	outside
+det	temple	the
+nmod:outside	praying	temple
+punct	praying	.

@@ -1,0 +1,7 @@
+root	ROOT	move
+cc	move	or
+conj:or	move	execute
+advmod	quickly	very
+advmod	move	quickly
+cc	move	or
+conj:or	move	hastily

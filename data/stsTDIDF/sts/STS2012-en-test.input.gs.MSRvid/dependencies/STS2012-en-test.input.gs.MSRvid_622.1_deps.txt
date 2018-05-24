@@ -1,0 +1,14 @@
+det	man	A
+nsubj	holding	man
+aux	holding	is
+root	ROOT	holding
+compound:prt	holding	up
+cc	holding	and
+conj:and	holding	talking
+case	T-shirt	about
+det	T-shirt	a
+amod	T-shirt	gray
+compound	T-shirt	You
+compound	T-shirt	Tube
+nmod:about	talking	T-shirt
+punct	holding	.

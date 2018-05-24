@@ -1,0 +1,8 @@
+compound	team	Maldives
+root	ROOT	team
+case	India	in
+nmod:in	team	India
+mark	observe	to
+acl	team	observe
+det	election	an
+dobj	observe	election

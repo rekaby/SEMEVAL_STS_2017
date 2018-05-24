@@ -1,0 +1,9 @@
+det	battle	an
+amod	battle	ensuing
+nsubj	killed	battle
+root	ROOT	killed
+case	least	at
+nmod:npmod	10	least
+nummod	militants	10
+dobj	killed	militants
+punct	killed	.

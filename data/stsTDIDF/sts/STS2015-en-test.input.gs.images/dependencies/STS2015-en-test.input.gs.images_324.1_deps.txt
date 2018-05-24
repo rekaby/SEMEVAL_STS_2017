@@ -1,0 +1,5 @@
+compound	rowing	Man
+root	ROOT	rowing
+det	boat	a
+dobj	rowing	boat
+punct	rowing	.

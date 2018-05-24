@@ -1,0 +1,12 @@
+nsubj	retreat	India
+cc	India	and
+compound	troops	China
+conj:and	India	troops
+root	ROOT	retreat
+case	border	to
+compound	border	de
+compound	border	facto
+nmod:to	retreat	border
+case	deal	in
+amod	deal	face-off
+nmod:in	retreat	deal

@@ -1,0 +1,17 @@
+root	ROOT	Let
+nsubj	assume	us
+ccomp	Let	assume
+det	data	the
+dobj	assume	data
+case	cluster	for
+det	cluster	a
+amod	cluster	globular
+nmod:for	data	cluster
+mark	equivalent	to
+cop	equivalent	be
+acl	cluster	equivalent
+case	that	to
+nmod:to	equivalent	that
+case	M13	of
+nmod:of	that	M13
+punct	Let	.

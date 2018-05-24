@@ -1,0 +1,16 @@
+case	Dhabi	In
+compound	Dhabi	Abu
+nmod:in	one	Dhabi
+det	Market	the
+compound	Market	Golden
+nsubj	one	Market
+cop	one	is
+root	ROOT	one
+case	areas	of
+det	areas	the
+amod	areas	premier
+amod	areas	public
+amod	areas	outdoor
+compound	areas	shopping
+nmod:of	one	areas
+punct	one	.

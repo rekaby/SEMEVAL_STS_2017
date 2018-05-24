@@ -1,0 +1,6 @@
+root	ROOT	?-1) amod(Letters-2, Selected
+root	ROOT	Letters
+case	Styron	of
+compound	Styron	William
+nmod:of	Letters	Styron
+punct	Letters	?

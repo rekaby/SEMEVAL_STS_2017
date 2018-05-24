@@ -1,0 +1,8 @@
+nsubj	declares	EU
+root	ROOT	declares
+nmod:poss	group	Hezbollah
+case	Hezbollah	's
+amod	group	military
+compound	group	wing
+compound	group	terror
+dobj	declares	group

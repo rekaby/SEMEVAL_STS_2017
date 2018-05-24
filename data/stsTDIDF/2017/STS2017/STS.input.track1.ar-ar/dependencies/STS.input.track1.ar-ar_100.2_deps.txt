@@ -1,0 +1,5 @@
+root	ROOT	Man
+acl	Man	looking
+case	someone	for
+nmod:for	looking	someone
+punct	Man	.

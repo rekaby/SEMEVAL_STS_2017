@@ -1,0 +1,7 @@
+det	man	The
+nsubj	has	man
+root	ROOT	has
+case	pads	on
+compound	pads	elbow
+nmod:on	has	pads
+punct	has	.

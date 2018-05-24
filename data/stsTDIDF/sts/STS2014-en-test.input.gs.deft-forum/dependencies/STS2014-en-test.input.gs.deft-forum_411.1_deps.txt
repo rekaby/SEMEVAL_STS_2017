@@ -1,0 +1,9 @@
+root	ROOT	lol
+acl	lol	Looking
+advmod	Looking	forward
+mark	seeing	to
+xcomp	Looking	seeing
+nmod:poss	built-in	your
+dobj	seeing	built-in
+case	built-in	's
+punct	lol	!
